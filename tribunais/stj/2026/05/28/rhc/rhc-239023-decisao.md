@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por EDERSON LUIZ FELIPE BEZERRA, em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Habeas Corpus Criminal nº 2025417-13.2026.8.26.0000).
+Consta dos autos que o juízo das execuções indeferiu o pedido de progressão de regime formulado em favor do recorrente, por falta de requisito subjetivo.
+Daí o presente recurso, no qual a defesa aduz que a progressão de regime foi negada com base em exame determinado e consistente de forma genérica, sem argumentação idônea.
+Explica que, "se a jurisprudência consolidada deste STJ estabelece que nem mesmo a gravidade abstrata de crimes hediondos ou faltas disciplinares antigas e reabilitadas autorizam o indeferimento da progressão (conforme o precedente acima citado), com muito menos razão podem sintomas clínicos de uma doença mental grave ser erigidos como barreira à liberdade. Admitir o contrário seria punir o Recorrente por uma condição de saúde que o Estado confessa ser incapaz de tratar adequadamente no cárcere" (fl. 59).
+Requer, inclusive liminarmente, a retificação da decisão a quo, com a concessão da progressão de regime. No mérito, o provimento com a confirmação da liminar.
+É o relatório. DECIDO.
+Cinge-se a controvérsia a saber se a negativa de pedido de progressão de regime formulado em favor do recorrente se deu de forma adequada no caso concreto.
+A jurisprudência desta Corte Superior se firmou no sentido de que, para que se afaste o requisito subjetivo das benesses executórias, deve o ser com base nos elementos concretos extraídos da execução, verbis:
+ ..  a gravidade abstrata do crime não justifica diferenciado tratamento à progressão prisional, uma vez que fatores relacionados ao delito são determinantes da pena aplicada, mas não justificam diferenciado tratamento à negativa da progressão de regime ou do livramento condicional, de modo que respectivo indeferimento somente poderá fundar-se em fatos ocorridos no curso da própria execução. Precedentes do STJ (HC n. 519.301/SP, Te rceira Seção, Rel. Min. Nefi Cordeiro, DJe de 13/12/2019) (AgRg no HC 803.075/SP, Quinta Turma, de minha relatoria, DJe de 31/5/2023, grifei).
+In casu, verifica-se que o acórdão considerou que, para além da longa pena a cumprir e da gravidade abstrata dos delitos cometidos, não está presente o requisito subjetivo para a progressão de regime, com base em elementos concretos extraídos da execução penal, tendo em conta que (fl. 45):
+ ..  o laudo foi desfavorável ao paciente e o pedido de progressão indeferido não só com base nele, mas nos outros elementos fornecidos para a análise do requisito subjetivo. Ante o exposto, pelo meu voto, denego a ordem.
+Afere-se, pois, que a negativa de benesse, no caso concreto, se deu por fundamentação idônea e concreta, circunstância que evidencia a ausência de ilegalidade ou arbitrariedade na decisão.
+Assente, pois, nesta Corte Superior, que apenas o exame criminológico, ou qualquer outro laudo, já seria suficiente ao afastamento do requisito subjetivo.
+Nesse aspecto:
+ ..  A jurisprudência do Superior Tribunal de Justiça admite que o Juiz das Execuções Criminais lastreie sua conclusão sobre a falta do requisito subjetivo  ..  em resultado desfavorável de exame criminológico (AgRg no AREsp n. 2179635/SP, Quinta Turma, de minha relatoria, DJe de 14/3/2023, grifei ).
+E isso ocorre ainda que o resultado seja apenas parcialmente desfavorável:
+ ..  A questão em discussão consiste em saber se o indeferimento da progressão de regime, com base em exame criminológico parcialmente desfavorável, configura constrangimento ilegal, mesmo diante de bom comportamento carcerário e cumprimento do lapso temporal.
+ ..  A jurisprudência do Superior Tribunal de Justiça admite que o Juiz das Execuções Criminais fundamente sua decisão no resultado desfavorável de exame criminológico, mesmo que parcialmente, para indeferir a progressão de regime.
+ ..  Tese de julgamento: "1. O exame criminológico pode fundamentar o indeferimento da progressão de regime, mesmo que parcialmente desfavorável. 2. O habeas corpus não é adequado para reanálise de exame criminológico."  ..  (AgRg no HC n. 957.376/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/12/2024, DJEN de 23/12/2024.)
+Convém registrar, ainda, que a modificação do acórdão vergastado, para concluir pela configuração do requisito subjetivo, demandaria o revolvimento do conjunto fático-probatório dos autos da execução penal, o que é incompatível com os estreitos limites da via do habeas corpus (AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 23/5/2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/6/2023).
+Diante disso, não se constatou a flagrante ilegalidade apontada.
+Ante o exposto, nego provimento ao recurso ordinário.
+Publique-se. Intimem-se.
+EMENTA
