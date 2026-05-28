@@ -1,0 +1,14 @@
+DECISÃO
+Examina-se requerimento de atribuição de efeito suspensivo a agravo em recurso especial formulado por CLAUDIO MAURÍCIO ROBORTELLA BOSCHI PIGATTI.
+Alega o requerente, em síntese, que, o acórdão recorrido no especial viola a jurisprudência desta Corte Superior quanto à presunção de validade da escritura.
+Defende, ainda, que o perigo na demora consiste no ajuizamento de execução provisória na origem, com a prática de atos constritivos irreversíveis em relação ao patrimônio do requerente, o que evidencia a necessidade da medida cautelar pretendida.
+É O RELATÓRIO. DECIDO.
+Esta Corte Superior perfilha do entendimento de que a atribuição de efeito suspensivo a recurso especial inadmitido na origem, e objeto de agravo perante esta Corte de Justiça, é excepcional e pressupõe a aferição da existência de decisão teratológica ou manifestamente contrária à jurisprudência deste Superior Tribunal de Justiça, somada à demonstração dos requisitos da viabilidade do apelo nobre e plausibilidade do direito invocado, e do perigo da demora. Nesse sentido: AgRg na MC 25.391/MS, Quarta Turma, DJe 25/2/2016; AREsp 2.922.713/RS, Terceira Turma, DJe 26/6/2025; e AgInt na TutCautAnt 288/GO, Quarta Turma, DJe 22/5/2024.
+Desse modo, apenas em hipóteses excepcionais é possível a atribuição de efeito suspensivo a agravo em recurso especial. Para tanto, porém, é necessária a demonstração do periculum in mora, que se traduz na urgência da prestação jurisdicional, e a caracterização do fumus boni juris, consistente na plausibilidade do direito alegado (no particular, na possibilidade de provimento do recurso especial).
+De acordo com a jurisprudência desta Corte, o regular prosseguimento da execução, por si só, não constitui o perigo de dano ou o risco ao resultado útil do processo exigido para a concessão de tutela provisória de urgência, mesmo porque o referido procedimento possui mecanismos próprios para evitar prejuízos ao executado (AgInt na Pet 13.696/RJ, Terceira Turma, DJe 3/11/2020; AgInt na TutPrv no AREsp 1.070.866/DF, Terceira Turma, DJe 29/11/2017; AgRg na MC 25.558/RJ, Quarta Turma, DJe 31/3/2016; AgInt AR 6.839/SP, Segunda Seção, DJe 18/12/2020).
+Na hipótese, como o perigo na demora decorre do mero prognóstico quanto ao ajuizamento de execução provisória, não está comprovado o periculum in mora, requisito imprescindível para o efeito suspensivo pretendido.
+Afastada a possibilidade de concessão da liminar sob a ótica do periculum in mora, é desnecessário o exame da questão controvertida sob a perspectiva do fumus boni iuris.
+Forte nessas razões, INDEFIRO o pedido de concessão de efeito suspensivo ao agravo em recurso especial.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
