@@ -1,0 +1,2 @@
+Art. 56-B. O FGH/PGE se sujeita integralmente aos sistemas de controle interno e externo, inclusive à fiscalização pelo Tribunal de Contas do Estado de Goiás e a sua gestão deve observar os princípios da legalidade, da impessoalidade, da moralidade, da publicidade e da eficiência.
+Parágrafo único. A gestão e a execução orçamentária do FGH/PGE deverão assegurar mecanismos de transparência ativa permanente, com a divulgação periódica de receitas e despesas, sem prejuízo ao acesso pelos órgãos de controle e pela sociedade, como determinar a legislação aplicável.

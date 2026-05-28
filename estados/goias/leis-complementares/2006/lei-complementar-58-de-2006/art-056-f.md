@@ -1,0 +1,3 @@
+Art. 56-F. Os recursos do FGH/PGE serão depositados e movimentados em conta corrente específica, de natureza privada e mantida em instituição financeira regularmente contratada ou credenciada, observados, na respectiva contratação e gestão, os princípios da administração pública.
+§ 1º A instituição financeira responsável a que se refere o caput deste artigo atuará como agente de processamento e distribuição dos valores, e lhe estarão incumbidos, quando for cabível, a retenção e o recolhimento dos tributos incidentes.
+§ 2º Os valores arrecadados para o FGH/PGE serão creditados diretamente na conta que lhe é própria, sem transitar pela conta única do Tesouro Estadual.
