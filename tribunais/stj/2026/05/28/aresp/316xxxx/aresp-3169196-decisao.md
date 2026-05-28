@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de agravo interposto por MRV ENGENHARIA E PARTICIPAÇÕES S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 291):
+DIREITO CIVIL. APELAÇÃO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO RECONHECIDA. RECURSO DESPROVIDO. I. Caso em Exame Execução de título extrajudicial referente a contrato de compra e venda de imóvel, ajuizada em 30/04/2019. Tentativas de citação infrutíferas desde 2019. Sentença de extinção do processo por prescrição, com base no artigo 487, inc. II, do CPC. II. Questão em Discussão 2. A questão em discussão consiste em verificar se ocorreu a prescrição da execução de título extrajudicial, considerando a responsabilidade do exequente pela demora na citação. III. Razões de Decidir 3. A prescrição foi reconhecida porque não houve citação dos executados, e a exequente não tomou medidas eficazes para evitar a prescrição, como a suspensão da execução ou citação por edital. 4. A Súmula 106 do STJ e o § 3º do artigo 240 do CPC não se aplicam, pois a demora na citação não foi atribuída ao serviço judiciário, mas à inércia da exequente. IV. Dispositivo e Tese 5. Recurso desprovido.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas no artigo 487, II, do Código de Processo Civil.
+Sustenta, em síntese, que o acórdão recorrido contrariou lei federal, ao reconhecer prescrição e extinguir a execução com resolução de mérito com base no art. 487, II, e art. 921, § 5º, do Código de Processo Civil, apesar de inexistente prescrição no caso concreto.
+Sem contrarrazões ao recurso especial.
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 306-309), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Cinge-se a controvérsia a saber se houve prescrição da execução de título extrajudicial, diante da ausência de citação válida dos executados desde 2019 e da avaliação, pelo acórdão recorrido, de que a exequente não adotou medidas eficazes para viabilizar o ato citatório (suspensão do feito, art. 921, § 1º, do Código de Processo Civil, ou citação por edital, art. 256, § 3º, do Código de Processo Civil).
+De início, verifica-se, das razões do recurso especial, que o recorrente traz em suas razões a violação do art. 487, II, do Código de Processo Civil, que assim dispõe: "Art. 487. Haverá resolução de mérito quando o juiz:  ..  II - decidir, de ofício ou a requerimento, sobre a ocorrência de decadência ou prescrição". Contudo, tal dispositivo não possui o comando normativo necessário a sustentar as teses recursais. No caso, reconhecendo a prescrição, decidiu o Tribunal de origem por resolver o mérito. Assim, não há violação do referido dispositivo.
+Por outro lado, deveria o recorrente alegar violação, se assim entendesse, aos dispositivos que sustentaram a tese central do acórdão recorrido, notadamente aqueles referentes ao instituto da prescrição, que envolvem seu termo inicial, suas causas de suspensão, entre outros. Incide, assim, a Súmula n. 284 do STF. Nesse sentido, cito:
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. DIREITO CIVIL. CONTRATO. COMPRA E VENDA. IMÓVEL. NÃO EDIFICADO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. AJUIZAMENTO DA AÇÃO. PROTOCOLO DA PETIÇÃO INICIAL. TAXA DE FRUIÇÃO. INDEVIDA. PERCENTUAL. RETENÇÃO.
+FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF.
+1. Se o artigo apontado como violado não apresenta conteúdo normativo suficiente para fundamentar a tese desenvolvida no recurso especial, incide, por analogia, a Súmula nº 284/STF.
+2. Nos termos do art. 312 do CPC, considera-se proposta a ação com o protocolo da petição inicial, sendo desnecessária a citação do réu. Precedente.
+3. A jurisprudência do Superior Tribunal de Justiça entende ser indevida a taxa de fruição após o desfazimento de promessa de compra e venda de lote não edificado. Precedentes.
+4. O recurso especial é inadmissível por fundamentação deficiente quando deixa de indicar o dispositivo de lei federal violado. Súmula nº 284 do Supremo Tribunal Federal.
+5. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+(AREsp n. 2.583.740/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/3/2026, DJEN de 19/3/2026.)
+Ainda que assim não fosse, o recurso não mereceria conhecimento. A orientação do Superior Tribunal de Justiça delimita que o reconhecimento de prescrição em sede executiva depende da análise do comportamento processual do exequente e da origem da demora na citação. Quando o acórdão local conclui pela inércia do exequente e pela ineficácia das diligências, a revisão dessa conclusão demanda reexame de fatos e provas, o que é vedado pela Súmula 7/STJ. Nesse sentido, cito:
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DEMORA NA CITAÇÃO. INÉRCIA DA PARTE EXEQUENTE. FALHA DA MÁQUINA JUDICIÁRIA. NÃO OCORRÊNCIA. PRESCRIÇÃO INTERCORRENTE. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. INEXISTÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284/STF. ALINHAMENTO JURISPRUDENCIAL. SÚMULA N. 83/STJ. AGRAVO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo contra decisão que não conheceu de recurso especial interposto em face de acórdão que reconheceu a prescrição intercorrente em ação de execução, fundamentando-se na inércia do exequente e na ausência de demonstração de falha da máquina judiciária.
+2. Nas razões do recurso especial, a parte recorrente alegou violação dos arts. 240, §§ 1º, 2º e 3º, 489, § 1º, IV, 802 e 1.022, II, do CPC, sustentando que a demora na citação decorreu de falha do serviço judiciário e que o despacho que ordena a citação interrompe a prescrição retroativamente à data da propositura da ação.
+3. O recurso especial não foi admitido com fundamento na necessidade de reexame de fatos e provas (Súmula n. 7/STJ) e na deficiência de fundamentação (Súmula n. 284/STF).
+4. No agravo, a parte agravante reiterou a viabilidade do recurso especial, argumentando que a análise demandaria apenas revaloração jurídica dos fatos incontroversos.
+II. Questão em discussão
+5. A questão em discussão consiste em saber se o recurso especial pode ser conhecido para revalorar juridicamente os fatos incontroversos delineados no acórdão recorrido, afastando os óbices sumulares, para analisar se a decisão do Tribunal de origem, ao reconhecer a prescrição intercorrente da ação de execução, contrariou as normas federais que regulam a interrupção da prescrição e a imputação da demora processual.
+III. Razões de decidir
+6. A pretensão recursal não pode ser analisada, pois a sua discussão exige o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula n. 7 do STJ. A revisão das conclusões do Tribunal de origem sobre a inércia da parte exequente e a natureza das diligências realizadas como "protelatórias e inúteis" demandaria a reavaliação das provas do processo.
+7. A argumentação do recorrente é deficiente, uma vez que não demonstrou de forma clara e específica em que ponto o acórdão seria omisso ou carente de fundamentação. A mera assertiva de que o Tribunal não se debruçou sobre as teses invocadas pela parte não é suficiente, o que atrai, por analogia, a aplicação da Súmula n.º 284 do STF.
+8. Não ocorre a alegada violação dos arts. 489, § 1º, IV, e 1.022, II, do CPC, pois o Tribunal de origem apreciou a controvérsia de forma fundamentada, ainda que em sentido diverso do pretendido pela parte recorrente, o que afasta a alegação de omissão. A mera insatisfação com a decisão não configura negativa de prestação jurisdicional.
+9. O entendimento do acórdão recorrido, de que a inércia do exequente, que não adotou medidas eficazes para dar prosseguimento ao feito, leva ao reconhecimento da prescrição intercorrente, está em consonância com a jurisprudência do Superior Tribunal de Justiça, aplicação da Súmula n. 83/STJ.
+IV. Dispositivo
+10. Agravo não conhecido.
+(AREsp n. 2.969.032/GO, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 27/10/2025, DJEN de 30/10/2025.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de condenar em honorários recursais em razão da ausência de fixação da verba na origem (EDcl no AgInt no REsp n. 1.910.509/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/11/2021).
+Publique-se. Intimem -se.
+EMENTA
