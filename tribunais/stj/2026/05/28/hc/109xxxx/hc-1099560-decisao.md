@@ -1,0 +1,58 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de DAVID SILVA DE OLIVEIRA em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO assim ementado:
+EXECUÇÃO PENAL. AGRAVO DEFENSIVO. INDEFERIMENTO DE PROGRESSÃO DE REGIME SEMIABERTO PARA O ABERTO. RECURSO CONHECIDO E DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo em execução interposto contra decisão do Juízo da Vara de Execuções Penais que indeferiu o pedido de progressão do regime semiaberto para o aberto.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se o agravante preenche os requisitos para a concessão da progressão ao regime aberto.
+III. RAZÕES DE DECIDIR
+3. Através de consulta ao sistema SEEU, é possível verificar que se trata de apenado que está cumprindo pena total de 12 (doze) anos, 10 (dez) meses e 20 (vinte) dias de reclusão em regime semiaberto, em razão de condenação em 2 (duas) ações penais, ambas pela prática do delito de roubo, restando 44% da aludida pena a ser cumprida, com data de término prevista para o dia 06/01/2032.
+4. Cumpre destacar que o agravante não foi submetido a exame criminológico. Impende salientar que, conforme o disposto no art. 112, §1º, da Lei 7.210/1084 (Lei de Execução Penal), com a redação dada pela Lei nº 14.843/2024, que entrou em vigor em 11/04/2024, em todos os casos, o apenado somente terá direito à progressão de regime se ostentar boa conduta carcerária, comprovada pelo diretor do estabelecimento, e pelos resultados do exame criminológico, respeitadas as normas que vedam a progressão. Não se pode perder de vista que, antes da entrada em vigor da Lei nº 14.843/2024, o Juiz poderia exigir a realização do exame criminológico, desde que através de decisão devidamente motivada, nos termos do verbete nº.
+439 da súmula de jurisprudência do Superior Tribunal de Justiça: "Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+5. Vale salientar que os elementos do caso concreto demonstram que deve ser averiguado se o apenado possui plena consciência das consequências de seus atos criminosos, ou seja, se há elementos indicativos de remorso, reflexão ou compreensão da ilicitude do ato, o que só pode ser obtido com a realização do exame criminológico.
+6. Observe-se que, na primeira vez em que foi beneficiado com a progressão para o regime aberto, enquanto cumpria pena pela condenação pelo delito de roubo nos autos da ação penal nº 0127171-05.2018.8.19.0001, o agravante cometeu falta grave nos termos do art. 52, caput, ambos da Lei nº. 7.210/1984, em razão da prática de outro crime de roubo durante o curso da pena, originando a ação penal nº 0328547- 08.2019.8.19.0001, na qual também foi condenado, acarretando a regressão para o regime fechado em decorrência do somatório das penas.
+7. Posteriormente, quando foi novamente beneficiado com progressão para o regime aberto, o agravante descumpriu as regras de monitoração eletrônica, rompendo a tornozeleira eletrônica, o que caracteriza o cometimento de nova falta grave, prevista no art. 50, V, da Lei nº. 7.210/1984, acarretando a regressão para o regime semiaberto.
+8. Impende salientar que o cometimento de falta grave durante a execução da pena privativa de liberdade acarreta a interrupção do prazo para a obtenção da progressão de regime de cumprimento da pena, caso em que o reinício da contagem do requisito objetivo terá como base a pena remanescente, conforme o previsto nos arts. 112, §6º, da Lei 7.210/1984.
+9. Vale mencionar que o enunciado nº. 534 da Súmula de Jurisprudência do Superior Tribunal de Justiça dispõe que: "A prática de falta grave interrompe a contagem do prazo para a progressão de regime de cumprimento de pena, o qual se reinicia a partir do cometimento dessa infração.".
+10. Insta ressaltar que, conforme o disposto no art. 118, I, da Lei 7.210/1984, "a execução da pena privativa de liberdade ficará sujeita à forma regressiva, com a transferência para qualquer dos regimes mais rigorosos", em razão do cometimento de falta grave.
+11. Outrossim, as faltas graves retromencionadas demonstram a ausência de senso de responsabilidade e autodisciplina, imprescindíveis para alcançar os objetivos da pena, tratando-se de apenado de alta periculosidade, não preenchendo, assim, o requisito subjetivo do art. 114, II, da Lei n.º 7.210/84.
+12. Por fim, não foi comprovado que o agravante está trabalhando ou tem a possibilidade de fazê- lo imediatamente, não preenchendo, também, o requisito do art. 114, I, da Lei n.º 7.210/84.
+IV. DISPOSITIVO E TESE
+13. Recurso conhecido e desprovido.
+Consta dos autos que foi indeferido o pedido de progressão de regime do semiaberto para o aberto, na modalidade prisão albergue domiciliar, por ausência do requisito subjetivo.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, porquanto o paciente preenche os requisitos para a progressão ao regime aberto na modalidade prisão albergue domiciliar.
+Alega que o requisito subjetivo está atendido, pois a falta grave mencionada é antiga, não podendo servir de fundamento atual para negar a benesse.
+Argumenta que a decisão é desprovida de fundamentação idônea, afrontando o princípio da legalidade, por se basear em conjecturas e em razão não prevista em lei.
+Requer, em suma, a concessão da progressão ao regime aberto na modalidade prisão albergue domiciliar e, subsidiariamente, que o paciente permaneça em prisão albergue domiciliar até o julgamento do presente habeas corpus.
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do Voto condutor do acórdão impugnado a seguinte fundamentação quanto à controvérsia apresentada:
+Observe-se, ainda, que, na primeira vez em que foi beneficiado com a progressão para o regime aberto, enquanto cumpria pena pela condenação pelo delito de roubo nos autos da ação penal nº 0127171-05.2018.8.19.0001, o agravante cometeu falta grave nos termos do art. 52, caput, ambos da Lei nº. 7.210/1984, em razão da prática de outro crime de roubo durante o curso da pena, originando a ação penal nº 0328547-08.2019.8.19.0001, na qual também foi condenado, acarretando a regressão para o regime fechado em decorrência do somatório das penas (ids. 1, 8, 14 e 21 dos autos do processo de execução).
+Posteriormente, quando foi novamente beneficiado com progressão para o regime aberto, o agravante descumpriu as regras de monitoração eletrônica, rompendo a tornozeleira eletrônica, o que caracteriza o cometimento de nova falta grave, prevista no art. 50, V, da Lei nº. 7.210/1984, acarretando a regressão para o regime semiaberto (ids. 89, 113, 122, 129, 142 e 266) (fls. 16-17).
+A jurisprudência desta Corte firmou-se no sentido de que a gravidade abstrata do crime e a longa pena a cumprir, por não serem aspectos relacionados ao comportamento do sentenciado durante a execução penal, não justificam o indeferimento dos benefícios do sistema progressivo das penas pelo não preenchimento do requisito subjetivo.
+Mas, na espécie, o entendimento adotado na origem encontra-se em harmonia com a orientação desta Corte, de que a prática de infrações disciplinares graves durante a execução da pena demonstra a ausência do requisito subjetivo para concessão da progressão de regime.
+Nessa linha, colaciono os seguintes julgados:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. FALTA GRAVE. AUSÊNCIA DO REQUISITO SUBJETIVO NECESSÁRIO À PROGRESSÃO DE REGIME. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte possui entendimento de que a prática de faltas graves recentes durante a execução penal demonstra a ausência de requisito subjetivo para concessão de benefícios.
+2. Na hipótese dos autos, o Tribunal de Justiça entendeu por negar a progressão de regime com base no histórico penitenciário do condenado, destacando falta disciplinar de natureza grave praticada em 22/5/2021, o que não destoa da jurisprudência desta Corte no sentido de que falta grave e histórico da execução justificam o indeferimento de benefícios da execução.
+3. Agravo Regimental não provido.
+(AgRg no HC n. 1.025.158/RJ, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 10.9.2025.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. AUSÊNCIA DO REQUISITO SUBJETIVO. FALTAS GRAVES RECENTES. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Cabe ao Juiz decidir motivadamente sobre os direitos executórios.
+Deve ser mantida a decisão agravada, pois as instâncias de origem assinalaram não ser recomendável a progressão do apenado ao regime semiaberto, por falta de bom comportamento durante a execução.
+2. Considerando os parâmetros delineados para a aplicação do direito ao esquecimento, vê-se que as faltas não são tão antigas, a ponto de ser desconsiderada na análise da concessão do benefício, diante do tempo em que foi analisado o pedido. Não transcorreu tempo suficiente para evidenciar que o reeducando desenvolveu a responsabilidade para retornar ao convívio social sem nenhum tipo de vigilância, mormente quando, ao que parece, estava até recentemente no regime fechado.
+3. Agravo regimental não provido. (AgRg no HC n. 820.197/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 30.8.2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO PARA O REGIME SEMIABERTO. REQUISITO SUBJETIVO NÃO PREENCHIDO. EXAME CRIMINOLÓGICO QUE NÃO VINCULA O MAGISTRADO. EXAME APROFUNDADO DE PROVA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O Superior Tribunal de Justiça pacificou o entendimento de que, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções, ou mesmo pelo Tribunal de origem, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justificaria o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo.
+2. Na hipótese, as instâncias ordinárias fundamentaram de forma idônea o não preenchimento do requisito subjetivo. O histórico prisional conturbado, com registro de faltas graves, inclusive consistentes em fugas e abandono do regime semiaberto, indica a necessidade de maior cautela no caso concreto, tendo em vista o diminuto senso de responsabilidade do apenado.
+3. De acordo com o entendimento do Superior Tribunal de Justiça, o Magistrado não está adstrito ao laudo favorável do exame criminológico, o qual poderá formar sua própria convicção acerca do pedido de progressão, com base nos dados concretos da execução da pena. Desconstituir tal entendimento implica revolvimento fático-probatório, providência vedada na via eleita.
+4. Agravo regimental a que se nega provimento. (AgRg no HC n. 818.659/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 16.8.2023.)
+Ademais, a modificação das premissas fáticas delineadas pelas instâncias de origem ensejam o reexame do conteúdo probatório dos autos, o que é inadmissível em Habeas Corpus.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
