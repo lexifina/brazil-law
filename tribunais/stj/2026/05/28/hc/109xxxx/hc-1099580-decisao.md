@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de MAYKON DOUGLAS FAGUNDES DOS SANTOS, condenado pelo Tribunal do Júri e atualmente custodiado na Unidade Prisional de Pires do Rio/GO, em razão do Processo n. 5416031-91.2021.8.09.0127, da 2ª Vara Criminal da comarca de Pires do Rio/GO.
+A defesa aponta como autoridade coatora o Tribunal de Justiça do Estado de Goiás, em razão do provimento da apelação interposta pela assistente de acusação para pronunciar os acusados, determinando sua submissão a julgamento pelo Tribunal do Júri.
+Alega preclusão lógica e comportamento contraditório da assistente de acusação, que, nas alegações finais, requereu a impronúncia do paciente e, em sede recursal, passou a defender a pronúncia, em violação da boa-fé processual, da segurança jurídica e do princípio acusatório.
+Sustenta a ilegitimidade recursal autônoma da assistente de acusação, por atuar de forma contrária à posição do Ministério Público e à sua legitimidade supletiva, nos termos do art. 598 do Código de Processo Penal e da Súmula 448 do Supremo Tribunal Federal, sendo inviável o conhecimento do recurso quando o órgão acusatório já se manifestou plenamente.
+Aduz a ausência dos pressupostos do art. 413 do Código de Processo Penal para a pronúncia, por inexistirem indícios suficientes de autoria/participação quanto ao paciente, conforme decisão absolutória de primeiro grau e manifestações ministeriais em ambas as instâncias.
+Requer a imediata soltura do paciente e, no mérito, a anulação da pronúncia e dos atos subsequentes, com retorno dos autos à origem para regular processamento ou, alternativamente, o reconhecimento da im pronúncia do paciente.
+Os autos foram a mim distribuídos por prevenção. Contra o mesmo acórdão impugnado, tramitaram nesta Corte o AREsp n. 2.517.949/GO e o HC n. 1.028.424/GO, ajuizados pela defesa do paciente.
+Na origem, encontram-se em processamento os recursos interpostos contra a sentença condenatória.
+É o relatório.
+O writ não merece ir adiante.
+Primeiro, é inadequada a impetração de habeas corpus como substitutivo do recurso próprio, tratando-se ainda de indevida subversão do sistema recursal e de violação do princípio da unirrecorribilidade, segundo o qual, contra uma única decisão judicial admite-se, ordinariamente, apenas uma via de impugnação. A via eleita não deve ser utilizada de forma desvirtuada, como meio de contornar as especificidades de tramitação do complexo sistema recursal no processo penal brasileiro.
+Segundo, houve evidente fracionamento de pedidos em oportunidades diversas pela Defesa, procedimento igualmente refutado por esta Corte Superior de Justiça, por representar verdadeiro tumulto processual e ferir os deveres de ética e lealdade processuais (AgRg no HC n. 760.334/SP, Ministro Teodoro Silva Santos, Sexta Turma, DJe 5/3/2024).
+Terceiro, as teses de preclusão lógica da assistente e de ilegitimidade recursal supletiva não foram debatidas pela instância antecedente nos moldes propostos nesta impetração.
+Conforme reiterada jurisprudência do Superior Tribunal de Justiça, o prévio exame das alegações pelas instâncias ordinárias constitui requisito indispensável para sua apreciação nesta instância, ainda quando se cuide de questão de ordem pública. Precedentes (AgRg no HC n. 828.844/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 3/11/2023).
+Quarto, após a condenação pelo Tribunal do Júri, nulidades da pronúncia e debates sobre o suporte probatório mínimo à submissão ao júri devem ser arguidas na via própria e no momento oportuno, não podendo ser reabertas em habeas corpus substitutivo, sob pena de preclusão e afronta à soberania dos veredictos (AgRg no HC n. 1.056.079/MG, Ministro Joel Ilan Paciornik, Quinta Turma, DJEN 22/4/2026).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS COMO SUBSTITUTIVO DE RECURSO PRÓPRIO. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. FRACIONAMENTO DE PEDIDOS. HOMICÍDIO QUALIFICADO. PARTE DAS MATÉRIAS ARGUIDAS NO WRIT NÃO ENFRENTADAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. NULIDADE DA PRONÚNCIA. PRECLUSÃO. SUPERVENIÊNCIA DE CONDENAÇÃO PELO TRIBUNAL DO JÚRI.
+Writ indeferido liminarmente.
