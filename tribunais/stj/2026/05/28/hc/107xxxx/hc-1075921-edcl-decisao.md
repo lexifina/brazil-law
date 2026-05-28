@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MOISES AUGUSTO VITORIANO DE ARAUJO em face da decisão na qual não conheci do habeas corpus.
+O embargante requer o conhecimento e o provimento dos presentes embargos, seus efeitos infringentes, para suspender os efeitos do mandado de prisão ou determinar a abstenção de seu cumprimento até decisão final, alegando para tanto erro e contradição, em razão do risco de prisão diante de mandado de prisão vigente desde 2024.
+É o relatório. DECIDO.
+Os presentes embargos não reúnem condições de prosperar.
+Os embargos de declaração são admitidos nas hipóteses de ambiguidade, obscuridade, contradição ou omissão, nos termos dos artigos 619 e 620 do Código de Processo Penal.
+Na lição de Nelson Nery Júnior e Rosa Maria Andrade Nery (Código de Processo Civil Comentado, RT, 4ª ed., 1999, p. 1045): "Os EDcl têm finalidade de completar a decisão omissa ou, ainda, de aclará-la, dissipando obscuridades ou contradições. Não têm caráter substitutivo da decisão embargada, mas sim integrativo ou aclaratório. Como regra, não têm caráter substitutivo, modificador ou infringente do julgado".
+Cumpre registrar que esta Corte Superior de Justiça possui jurisprudência no sentido de que, para a concessão de habeas corpus preventivo, ou salvo-conduto, não basta o simples receio de que o embargante possa vir a sofrer uma prisão ilegal, tendo em vista que o pedido deve vir fundamentado com a demonstração de ameaça concreta à liberdade de locomoção, o que não ocorreu no caso, uma vez que segundo o Tribunal de origem:
+"os autos não revelam, consoante as informações prestadas pela autoridade apontada como coatora e ressaltado no parecer da Procuradoria Regional da República, a existência de decisão de "ratificação da prisão, nem mesmo a pendência de ordem de prisão expedida em desfavor do paciente, no contexto da Ação Penal em comento. Não há, pelo que se colhe das informações prestadas, ordem de prisão ativa em desfavor do paciente/impetrante, tendo sido apenas ratificadas, nos autos de nº 0816087-29.2024.4.05.8100, as medidas constritivas patrimoniais originalmente deferidas pelo juízo da 5ª Vara Criminal da Comarca de Natal/RN (sequestro de imóveis, bloqueio de valores depositados em instituições financeiras, sequestro de empresas e bloqueio de valores depositados em instituições financeiras em nome de empresas)."- fl. 14.
+Ademais, consta da fl. 160 que: "SITUAÇÃO ATUAL: O feito encontra-se arquivado definitivamente desde 13 de novembro de 2024" .
+Nesse sentido:
+"Com efeito, não serve o habeas corpus para proteção da liberdade apenas hipoteticamente ameaçada, exigindo-se concretos riscos de sua iminência, o que não se verifica na espécie, em que se observa apenas um r.eceio incerto e presumido" (HC n. 816.906/SP, Quinta Turma, Rel. Min. Ribeiro Dantas , DJe de 16/06/2023).
+Na espécie, o que se verifica é a irresignação do embargante com a decisão embargada na qual não conheci do habeas corpus. Os argumentos apresentados não demonstram a busca por qualquer saneamento, mas sim o reexame da matéria já decidida, o que não se mostra possível na via eleita.
+Ante o exposto, rejeito os embargos declaratórios.
+Publiqu e-se. Intimem-se.
+EMENTA
