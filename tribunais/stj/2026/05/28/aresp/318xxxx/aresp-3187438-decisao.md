@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por CLAUDEMIRO LEOCADIO contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu o recurso especial.
+Narra-se nos autos que o agravante foi condenado pela prática do crime de roubo majorado (art. 157, § 2º, inciso II, do Código Penal, na redação anterior à Lei nº 13.654/2018, por três vezes, em concurso formal), à pena de 9 anos, 11 meses e 13 dias de reclusão, em regime inicial fechado.
+Em sede de apelação, o TJSP deu parcial provimento ao recurso defensivo, reduzindo a reprimenda para 8 anos, 8 meses e 15 dias de reclusão, em regime inicial fechado, mantida a condenação.
+No recurso especial, a defesa alegou violação aos arts. 226 e 386, inciso VII, do Código de Processo Penal, e art. 59 do Código Penal, postulando a nulidade do reconhecimento fotográfico, com consequente absolvição, ou, subsidiariamente, a redução da pena-base.
+O Tribunal de Justiça do Estado de São Paulo que não admitiu recurso especial, com fundamento nas Súmulas 284/STF, 282 e 356/STF e 7/STJ (fls. 777/780).
+No presente agravo, sustenta a inaplicabilidade dos óbices sumulares e afirma que pretende apenas a revaloração jurídica das provas, e não o seu reexame fático (fls. 786/796).
+O Ministério Público Federal opinou pelo desprovimento do agravo (fls. 831/836).
+É o relatório. DECIDO.
+O agravo em recurso especial tem por finalidade a demonstração do desacerto da decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem, de forma a viabilizar o exame do recurso especial por esta Corte de Justiça.
+Assim, o agravante tem o ônus de refutar especificamente cada um dos óbices recursais aplicados pela decisão de inadmissibilidade do recurso especial, em respeito ao princípio da dialeticidade.
+A decisão agravada apontou a incidência da Súmula 284/STF, ao argumento de que o recurso especial careceria de fundamentação adequada.
+Assiste razão ao agravante quanto a este ponto. As razões do recurso especial indicam, com clareza suficiente, os dispositivos legais tidos por violados (arts. 226 e 386, VII, do CPP; art. 59 do CP) e a relação entre a decisão recorrida e as alegadas ofensas normativas. A Súmula 284/STF, portanto, não incide na espécie.
+Todavia, a superação desse óbice é insuficiente para o provimento do agravo, conforme demonstrado a seguir.
+O acórdão recorrido enfrentou a tese de nulidade do reconhecimento fotográfico à luz do art. 226 do CPP, rejeitando-a expressamente. Nessa extensão, o prequestionamento está satisfeito quanto ao ponto.
+No que tange, porém, ao pedido de absolvição com fundamento no art. 386, inciso VII, do CPP, e à pretensão de redimensionamento da pena-base com apoio no art. 59 do CP, o agravante não opôs embargos de declaração para provocar manifestação expressa do Tribunal de origem sobre esses específicos dispositivos. Ausente o prequestionamento, incidem as Súmulas 282 e 356/STF, a impedir o conhecimento do recurso especial quanto a essas matérias.
+Para acolher a tese defensiva  de que o reconhecimento foi o único elemento determinante da condenação ou de que as demais provas são insuficientes  , seria necessário reanalisar a força probante de cada elemento sopesado pelo Tribunal de origem. Essa operação é vedada em recurso especial, ante o óbice da Súmula 7/STJ.
+Assim, a decisão de inadmissibilidade do recurso especial é una e indivisível. A presença de óbices intransponíveis  Súmulas 282 e 356/STF quanto a parte das matérias, e Súmula 7/STJ quanto à matéria nuclear  conduz à manutenção da decisão agravada em sua integralidade, independentemente da superação do óbice da Súmula 284/STF.
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do recurso especial, nos termos do art. 932, inciso III, do CPC, e do art. 253, parágrafo único, inciso I, do RISTJ obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+A propósito:
+"AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE DA DECISÃO DE INADMISSÃO NA ORIGEM. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. TENTATIVA DE ACRESCER ARGUMENTOS, EM SEDE DE AGRAVO REGIMENTAL, COM VISTAS À IMPUGNAÇÃO DOS FUNDAMENTOS TIDOS COMO INATACADOS. INADMISSIBILIDADE, PRECLUSÃO CONSUMATIVA. PLEITO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. DESCABIMENTO.
+1. A decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive, de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+2. No caso, a defesa do agravante não logrou impugnar, de forma efetiva, a íntegra da decisão de inadmissão na origem.  ..
+5. Agravo regimental improvido." (AgRg no AREsp n. 2.404.539/CE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 12/9/2023, DJe de 21/9/2023.)
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
