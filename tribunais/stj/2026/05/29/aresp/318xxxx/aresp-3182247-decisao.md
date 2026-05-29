@@ -1,0 +1,20 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Piauí, assim ementado:
+DIREITO PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. ROUBO MAJORADO EM CONTINUIDADE DELITIVA. NULIDADE DO RECONHECIMENTO PESSOAL. INOBSERVÂNCIA DO ART. 226 DO CPP. INSUFICIÊNCIA DE PROVAS. ABSOLVIÇÃO. CONHECIMENTO E PROVIMENTO.
+I. Caso em exame
+1. Apelação criminal interposta pelo réu contra sentença condenatória que lhe impôs pena de 9 anos, 8 meses e 20 dias de reclusão, em regime inicial fechado, pelo delito de roubo majorado, previsto no art. 157, §2º, II, e §2º-A, I, c/c art. 71, do CP. A defesa pleiteia a absolvição, alegando inobservância do art. 226 do CPP no reconhecimento pessoal e insuficiência de provas para a condenação.
+II. Questão em discussão 2. Há duas questões em discussão: (i) saber se a inobservância do art. 226 do CPP invalida o reconhecimento pessoal realizado na fase inquisitorial; e (ii) verificar se o conjunto probatório é suficiente para sustentar a condenação do réu.
+III. Razões de decidir 3. O reconhecimento pessoal, tanto na fase inquisitorial quanto na judicial, foi realizado sem observar as formalidades do art. 226 do CPP, comprometendo sua validade como meio de prova. 4. O conjunto probatório, limitado às declarações das vítimas e desprovido de outros elementos corroborativos, revela-se insuficiente para sustentar a condenação além de dúvida razoável, especialmente diante das contradições e ausência de flagrante ou apreensão de bens. 5. A vulnerabilidade da memória das vítimas e a possibilidade de implante de falsas memórias reforçam a necessidade de cautela na análise das provas.
+IV. Dispositivo e tese 6. Apelação conhecida e provida. Absolvição do réu com base no art. 386, inc. VII, do CPP.
+Tese de julgamento: "1. O reconhecimento pessoal realizado sem observância do art. 226 do CPP é nulo e não pode ser utilizado como fundamento para condenação. 2. A insuficiência de provas, limitada a declarações contraditórias das vítimas, impõe a absolvição do réu. (e-STJ fl. 253)
+O recorrente aponta a violação dos arts. 155 do CPP e 157, § 2º, inciso II e § 2º-A, I, do Código Penal, alegando, em síntese, que o conjunto das provas produzidas nos autos e colhidas no decorrer da instrução processual são suficientes para manter o édito condenatório. Salienta que nos crimes contra o patrimônio a palavra da vítima e testemunhas tem especial relevância, sobretudo quando se mostram coerentes e harmônicos com as provas encartadas no processo.
+Manifestação do Ministério Público Federal pelo não conhecimento do agravo às e-STJ fls. 354/359.
+É o relatório. Decido.
+A irresignação não prospera.
+Os elementos existentes nos autos informam que o TJPI deu provimento ao apelo defensivo para absolver o recorrido da prática do crime do art. 57, §2º, II, e §2º-A, I, c/c o art. 71, ambos de CP, com fundamento no art. 386, VII, do CPP.
+O recorrente se insurge contra essa decisão alegando que o conjunto das provas produzidas nos autos e colhidas no decorrer da instrução processual são suficientes para manter o édito condenatório.
+A tese acusatória não pode ser apreciada na via do recurso especial, isso porque cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a absolver, condenar ou desclassificar a imputação feita ao acusado. Óbice do enunciado n.º 7 da Súmula deste STJ (ut, AgInt no AREsp n. 1.265.017/DF, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 24/5/2018).
+No caso, consta do acordão estadual que "os autos carecem de prova idônea apta ao juízo de certeza necessário à condenação do apelante, notadamente em razão das contradições existentes no reconhecimento procedido pela vítima e da ausência de provas independentes e válidas que amparem a condenação."
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
