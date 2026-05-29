@@ -1,0 +1,34 @@
+DECISÃO:
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Wiston de Sousa Nunes e Ana Alice Izidoro Ferreira, apontando como autoridade coatora a Sexta Turma do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no HC nº 1.071.114/SP, Relator o Ministro Antônio Saldanha Palheiro.
+Consta dos autos que os pacientes foram inicialmente condenados, em primeiro grau, à pena de 8 anos e 10 meses de reclusão, em regime inicial fechado, pela prática dos crimes previstos nos arts. 33, caput, e 35, ambos da Lei nº 11.343/2006.
+Inconformados, interpuseram recurso de apelação, ao qual foi dado parcial provimento para absolvê-los do delito de associação para o tráfico. Em consequência, o Tribunal de origem redimensionou a pena para 5 anos de reclusão, mantido o regime inicial fechado.
+Ainda irresignados, impetraram habeas corpus no Superior Tribunal de Justiça, pleiteando o reconhecimento da causa de diminuição prevista no art. 33, § 4º, da Lei nº 11.343/2006, bem como a fixação de regime prisional menos gravoso. A impetração não foi conhecida monocraticamente, contudo, em sede recursal, deu-se parcial provimento ao agravo interno apenas para estabelecer o regime semiaberto para o cumprimento da pena dos pacientes.
+Neste writ, o impetrante alega o preenchimento de todos os requisitos legais para os pacientes serem beneficiados com a causa de diminuição de pena do tráfico privilegiado, aduzindo que as instâncias ordinárias teriam se limitado a utilizar, como único fundamento para afastar a aplicação do redutor, a natureza e a quantidade das drogas apreendidas.
+Desse modo, requer, ao final que seja reconhecida a minorante do art. 33, § 4º, da Lei nº 11.343/06 em seu patamar máximo.
+É o relatório. Fundamento e decido.
+Transcrevo a ementa do aresto impugnado (e-doc. 2, p. 34):
+
+“PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE. AFASTAMENTO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. REGIME PRISIONAL. SÚMULA N. 440/STJ. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+1. A Corte de origem deixou de aplicar a minorante do tráfico privilegiado não apenas com base na quantidade ou variedade de drogas apreendida, mas sobretudo pelas circunstâncias do apreensão, que demonstraram a dedicação dos agentes à atividade criminosa.
+2. Não obstante a primariedade e o quantum de pena estabelecido, foi fixado o regime fechado considerando-se apenas a gravidade em abstrato do delito praticado, deixando o Tribunal de origem de apontar elementos concretos que justificassem a imposição do regime escolhido, em contrariedade ao disposto no enunciado 440 da Súmula do Superior Tribunal de Justiça.
+3. Agravo regimental parcialmente provido.”
+
+O Ministro Relator, em seu voto, destacou o seguinte:
+
+“Preliminarmente, deve-se asseverar que, de acordo com o aludido art. 33, § 4º, da Lei de Drogas, o agente poderá ser beneficiado com a redução de 1/6 a 2/3 da pena, desde que seja, cumulativamente, primário e portador de bons antecedentes e não se dedique às atividades criminosas nem integre organização criminosa.
+De fato, a Terceira Seção desta Corte, por ocasião do julgamento do REsp n. 1.887.511/SP (relator Ministro João Otávio de Noronha, Terceira Seção, julgado em 9/6/2021, DJe de 1º/7/2021), definiu que a quantidade de substância entorpecente e a sua natureza hão de ser consideradas na fixação da pena-base, nos termos do art. 42 da Lei n. 11.343/2006, não sendo, portanto, pressuposto para a incidência da causa especial de diminuição de pena descrita no art. 33, § 4º, da Lei n. 11.343/2006; posteriormente, o referido colegiado aperfeiçoou o entendimento anteriormente exarado por ocasião do julgamento do REsp n. 1.887.511/SP, passando a adotar o posicionamento segundo o qual a quantidade e a natureza da droga apreendida podem servir de fundamento para a majoração da pena-base ou para a modulação da fração da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, desde que, neste último caso, não tenham sido utilizadas na primeira fase da dosimetria (HC n. 725.534/SP, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 27/4/2022, DJe de 1º/6/2022).
+No caso, tem-se que a Corte de origem deixou de aplicar a minorante do tráfico privilegiado, não apenas com fundamento na quantidade ou variedade de drogas, mas sobretudo pelas circunstâncias do apreensão, senão vejamos (e-STJ fl. 51):
+‘O redutor não pode incidir como regra, bastando seja o agente primário e de bons antecedentes, mas sim, excepcionalmente, ao traficante eventual. E essa não é a situação dos autos. Com efeito, a apreensão de grande quantidade e variedade de drogas 22 (vinte e dois) tabletes de maconha que totalizaram o peso líquido de 14,6 kg (catorze quilos e seiscentos gramas), e mais 07 (sete) porções de cocaína, totalizando o peso líquido de 2.158 kg (dois quilos e cento e cinquenta e oito gramas) e de petrechos, balança e caderno de anotações, evidenciam que os incriminados faziam do crime seu meio de vida, não se tratando de traficantes ocasionais, além de, nos termos do art. 42 da Lei nº 11.343/06, a conduta dos apelantes implicar em alto risco à sociedade, ao representar maior perigo à saúde pública. (Grifei.)’
+Sob esse prisma, não vislumbro o alegado constrangimento ilegal, pois o afastamento da benesse foi fundamentado na dedicação dos pacientes à atividade criminosa, sendo que a desconstituição dos fundamentos adotados pela instância ordinária demandaria ampla incursão no acervo fático-probatório dos autos, tarefa para a qual não se presta o habeas corpus. Nesse sentido:
+(...)
+Ante o exposto, dou parcial provimento ao recurso para estabelecer o regime semiaberto aos agravantes.” (e-doc. 2, p. 36-39) (grifos acrescidos)
+Pelo que há no julgado emanado pelo Superior Tribunal de Justiça, não se verifica flagrante ilegalidade, abuso de poder ou teratologia. Pelo contrário, o julgado em questão mostra-se devidamente fundamentado, estando justificado o convencimento formado.
+Tal entendimento não destoa da firme jurisprudência deste Supremo Tribunal no sentido de que, “[s]e as circunstâncias concretas do delito ou outros elementos probatórios revelam a dedicação do paciente a atividades criminosas, não tem lugar o redutor do § 4º do art. 33 da Lei 11.343/2006” (HC nº 123.042/MG, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 31/10/14).
+Para se chegar a uma conclusão diversa das instâncias antecedentes, neste ensejo, necessário seria o reexame de fatos e provas que o habeas corpus não comporta.
+Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, em consequência, prejudicado o pedido liminar.
+Publique-se.
+Brasília, 29 de maio de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
