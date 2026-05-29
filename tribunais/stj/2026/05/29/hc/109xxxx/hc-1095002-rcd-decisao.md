@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de pedido de reconsideração apresentado por JOÃO CARLOS TEIXEIRA DA SILVA e EDNA SANTOS SILVA contra decisão que indeferiu a liminar anteriormente requerida.
+A defesa argumenta que há fatos novos a serem considerados para pleitear o deferimento do pedido urgente. Informa que, em 22 de maio deste ano foram deflagradas medidas cautelares de busca e apreensão e determinado o afastamento do primeiro requerente do cargo de Prefeito de Buriticupu, no Maranhão. Também foi determinada monitoração eletrônica e outras, pelo prazo de 90 dias, em processos vinculados à mesma origem probatória e à mesma atuação ministerial sem supervisão judicial inicial. Noticia, ainda, a retificação e atualização de endereços para cumprimento das ordens de busca e o efetivo cumprimento dos mandados, com lavratura de auto circunstanciado relativo ao primeiro requerente.
+A defesa afirma que as medidas constritivas deflagradas se apoiam em elementos investigativos não submetidos à supervisão do Tribunal, providência necessária em razão de um dos requerentes ser detentor de foro por prerrogativa de função. Diante disso, requer a reconsideração da decisão de e-STJ, fls. 1179-1181 para conceder a liminar, suspendendo as medidas cautelares até o julgamento de mérito deste habeas corpus.
+É o relatório. Decido.
+Não obstante seus esforços argumentativos, não trouxe a defesa elementos novos que justifiquem a reconsideração da decisão que indeferiu a liminar.
+No juízo perfunctório próprio das medidas de urgência, não se verifica superveniência de causa apta a infirmar os fundamentos do indeferimento liminar.
+Com efeito, o acórdão colegiado mencionado pela defesa, longe de reconhecer a ilicitude originária do conjunto probatório, apenas declarou a nulidade parcial dos atos investigativos praticados sem supervisão judicial, determinando seu desentranhamento, e preservou a licitude da quebra de sigilo bancário e do compartilhamento de provas autorizados judicialmente, bem como a higidez do procedimento investigatório sob controle do Tribunal (e-STJ fls. 1194-1195).
+Não há demonstração inequívoca de que as medidas cautelares deflagradas no processo estadual estejam exclusivamente ancoradas em elementos reputados nulos pelo colegiado local, o que afasta, por ora, a alegada contaminação integral.
+A pretensão cautelar formulada mantém natureza eminentemente satisfativa, porquanto visa, em última análise, à suspensão de atos de persecução e à inutilização de elementos probatórios, matéria que se confunde com o próprio mérito do writ e que deve ser analisada pelo órgão colegiado, após a oitiva do Ministério Público Federal e eventual recebimento de informações.
+Diante do exposto, indefiro o pedido.
+Publique-se.
+EMENTA
