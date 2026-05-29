@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JENINFE FARIAS DA SILVA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDONIA que denegou a ordem no writ de origem, assim ementado (fls. 31-32):
+EMENTA DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. POSSE IRREGULAR DE ARMA DE FOGO. RECEPTAÇÃO. INGRESSO DOMICILIAR EM SITUAÇÃO DE FLAGRANTE DELITO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. MÃE DE FILHOS MENORES. PRISÃO DOMICILIAR. INVIABILIDADE. ORDEM DENEGADA.
+I. CASO EM EXAME
+Habeas corpus, com pedido liminar, impetrado em favor de paciente presa em flagrante pela suposta prática dos crimes de tráfico de drogas, receptação e posse irregular de arma de fogo, cuja custódia foi convertida em prisão preventiva pelo Juízo da 2ª Vara de Garantias da Comarca de Porto Velho/RO. A defesa sustenta a nulidade das provas decorrentes de ingresso domiciliar sem fundada suspeita, bem como requer a revogação da prisão preventiva ou sua substituição por medidas cautelares diversas ou prisão domiciliar, sob o fundamento de que a paciente é mãe de quatro filhos, sendo três menores de 12 anos.
+II. QUESTÃO EM DISCUSSÃO
+Há duas questões em discussão: (i) definir se o ingresso policial no domicílio da paciente ocorreu de forma lícita, diante da alegação de ausência de fundada suspeita; e (ii) estabelecer se estão presentes os requisitos legais para manutenção da prisão preventiva ou para sua substituição por prisão domiciliar em razão da maternidade da paciente.
+III. RAZÕES DE DECIDIR
+A abordagem policial decorre de fundada suspeita, uma vez que a paciente demonstrou nervosismo ao perceber a aproximação da viatura, tentou evadir-se para o interior da vila de apartamentos e foi encontrada portando expressiva quantidade de cocaína em sua bolsa.
+O ingresso no imóvel mostra-se legítimo porque ocorreu em contexto de flagrante delito de crime permanente, após a própria paciente informar a existência de drogas, arma de fogo e objetos ilícitos no interior da residência. A apreensão de 1.135,10g de cocaína, arma de fogo, munições, simulacros, placas furtadas e objetos relacionados ao tráfico evidencia a gravidade concreta da conduta e demonstra risco à ordem pública apto a justificar a prisão preventiva.
+A custódia cautelar atende aos requisitos dos arts. 312 e 313, I, do CPP, diante da prova da materialidade, dos indícios suficientes de autoria e da necessidade de resguardar a ordem pública.
+A incidência da Lei nº 15.572/2025 reforça a legitimidade da prisão preventiva, especialmente em razão da natureza e quantidade das drogas e armas apreendidas, circunstâncias expressamente previstas como elementos de aferição da periculosidade do agente.
+O estudo psicossocial realizado nos autos demonstra que os filhos da paciente permanecem sob os cuidados adequados dos genitores e familiares paternos, sem situação de vulnerabilidade ou risco social.
+A prática dos delitos no interior da residência, com presença de filho menor, afasta a possibilidade de substituição da prisão preventiva por domiciliar, em observância à proteção integral da criança e à necessidade de preservação da ordem pública.
+As condições pessoais favoráveis da paciente não impedem a manutenção da prisão preventiva quando presentes elementos concretos indicativos da gravidade dos fatos e da periculosidade da agente.
+IV. DISPOSITIVO E TESE
+Ordem denegada.
+Consta nos autos que a paciente foi presa em flagrante, custódia posteriormente convertida em preventiva, sendo denunciada pela suposta prática dos crimes tipificados nos arts. por tráfico de drogas (art. 33, caput, Lei 11.343/2006), receptação (art. 180, caput, CP) e posse irregular de arma de fogo (art. 12, Lei 10.826/2003).
+A defesa sustenta, em síntese, a imprescindibilidade da paciente aos cuidados dos filhos menores, considerando que o legislador previu a necessidade de substituir a prisão preventiva por domiciliar em casos de crimes que não envolvam grave ameaça ou violência, especialmente quando a mãe é a única responsável por filho menor de 12 anos, ao invocar os arts. 318, V, e 318-A do CPP e a jurisprudência desta Corte Especial e do STF.
+Alega que o laudo psicossocial não é requisito previsto em lei e sua conclusão não configura situação excepcional para afastar a prisão domiciliar. Afirma que o cuidado por terceiros não impede a aplicação da norma e que não há prova de risco concreto às crianças.
+Requer, liminarmente e no mérito, a substituição imediata da prisão preventiva por prisão domiciliar.
+É o relatório.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto, consoante previsto no art. 105, III, da CF, o recurso cabível contra acórdão que julga apelação, recurso em sentido estrito e agravo em execução é o recurso especial.
+Nada impede, contudo, a concessão de habeas corpus de ofício quando constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, nos termos do art. 654, §2º, do CPP, o que ora se passa a examinar.
+A prisão preventiva justifica-se apenas quando devidamente demonstrada sua imprescindibilidade para a preservação da ordem pública, a garantia da regularidade da instrução criminal ou a asseguração da eficácia da aplicação da lei penal, nos termos do art. 312 do Código de Processo Penal.
+No que concerne ao pleito pela prisão domiciliar, assim constou no acórdão (fls. 19-20):
+ ..  Quanto ao pedido alternativo de substituição da segregação preventiva por domiciliar com fundamento no art. 318-A do CPP, cumpre mencionar que no caso ora apreciado, não encontra guarida, visto que esta relatoria converteu o feito em diligência para realização de laudo psicossocial, o qual apurou que a paciente não é indispensável para a manutenção dos filhos, estando adequadamente cuidados pelos genitores e avós, inclusive com destaque que apenas 1 dos filhos estava ainda sob os cuidados da paciente antes da reclusão, conforme Relatório (id 31365567) a seguir transcrita:
+ ..
+Ademais, na ocasião do flagrante houve a apreensão de substâncias entorpecentes e petrechos relacionados ao tráfico de drogas, revelando que os delitos eram praticados na residência da paciente com a presença do filho, o que por sua vez, enseja maior rigor na decretação da prisão preventiva da denunciada e afastamento do pedido de conversão imediata em segregação domiciliar, como forma de resguardar a garantia da proteção integral das crianças e adolescentes e afastamento do risco de perigo concreto, conforme entendimento já consolidado pelos Tribunais Superiores, in verbis:  ..
+Verifica-se que que o benefício pretendido foi indeferido diante da notícia do cometimento do crime em ambiente doméstico.
+Apenas a título de esclarecimento, consta da denúncia transcrita no ato coator às fls. 15-16 que não só as drogas - 1.135,10g de cocaína - teriam sido encontradas na residência da paciente, mas, também, um rifle, um calibre .22 com carregador e 40 munições deste.
+Portanto, correta a compreensão pretérita, apontando que a prática delitiva "desenvolvia-se no mesmo ambiente em que convive com o filho menor, não se mostrando adequado para os cuidados do incapaz a prisão domiciliar" (RHC n. 113.897/BA, relator Ministro Nefi Cordeiro, Terceira Seção, julgado em 27/11/2019, DJe 13/12/2019).
+Ademais, tendo o Tribunal de origem compreendido não haver provas de que a agente seja indispensável ou seja o único responsável pelos cuidados do menor, a pretendida revisão do julgado com vistas à concessão da prisão domiciliar não se coaduna com a estreita via do writ.
+Nesse contexto, para reverter as conclusões da Corte de origem, seria necessário o revolvimento do conjunto fático-probatório, providência que se revela inviável em sede de habeas corpus.
+Não há, portanto, flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
