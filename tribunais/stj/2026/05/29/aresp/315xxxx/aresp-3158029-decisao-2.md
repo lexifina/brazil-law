@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por RODRIGO RODRIGUES SILVA contra decisão que negou seguimento ao recurso especial (fls. 346-348), citando o Tema n. 280/STF, e o inadmitiu, porquanto incidentes as Súmulas n. 7/STJ e, por analogia, 283/STF.
+O agravante foi condenado à pena de 5 anos de reclusão, em regime inicial semiaberto, mais o pagamento de 500 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006. O Tribunal de Justiça de São Paulo negou provimento à apelação defensiva.
+Nas razões deste agravo (fls. 397-403), reafirma a defesa as teses ventiladas no recurso especial, enfatizando o indevido afastamento do privilégio na dosimetria da pena do agravante.
+Apresentada a contraminuta, o Ministério Público Federal opinou nos termos da seguinte ementa (fl. 450):
+PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI Nº 11.343/06). ACÓRDÃO RECORRIDO QUE MANTEVE A SENTENÇA CONDENATÓRIA. RECURSO ESPECIAL INADMITIDO NA ORIGEM COM ESTEIO NO TEMA 280/STF, NA SÚMULA Nº 7/STJ E NA SÚMULA Nº 283/STF. AGRAVO QUE NÃO REFUTA EFICAZMENTE OS FUNDAMENTOS DA DECISÃO DE INADMISSÃO. INCIDÊNCIA DA SÚMULA Nº 182/STJ. MÉRITO. ALEGADA NULIDADE POR INVASÃO DE DOMICÍLIO. INOCORRÊNCIA. JUSTA CAUSA DEMONSTRADA POR FUNDADAS RAZÕES (TEMA 280/STF). PRETENSÃO DE ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. REEXAME FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA Nº 7/STJ. DOSIMETRIA. TRÁFICO PRIVILEGIADO (§ 4º DO ART. 33 DA LEI DE DROGAS). AFASTAMENTO JUSTIFICADO PELA QUANTIDADE DE DROGAS E DEDICAÇÃO A ATIVIDADES CRIMINOSAS. PARECER PELO CONHECIMENTO DO AGRAVO E, NO MÉRITO, PELO SEU DESPROVIMENTO.
+É o relatório.
+O agravo em recurso especial deve conter impugnação específica aos fundamentos da decisão que inadmitiu o recurso especial, sob pena de não conhecimento.
+Com efeito, para fins de impugnação específica da Súmula n. 283/STF, o agravante deveria ter refutado, de modo consistente, o fundamento, segundo o qual, "o reclamo foi interposto sem a fundamentação necessária apta a autorizar o seu processamento, consoante determina o artigo 1.029 do Código de Processo Civil, visto que não foram devidamente atacados todos os argumentos do acórdão (fls. 262)" (fl. 347), mas não o fez.
+A falta de impugnação específica a qualquer fundamento da decisão de inadmissibilidade do recurso especial obsta, por inteiro, o conhecimento do agravo, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ e, ainda, da Súmula n. 182/STJ, aplicável por analogia.
+Ressalte-se, ainda, que a simples repetição das razões de mérito do recurso especial, como fez o ora agravante, não supre a exigência de impugnação concreta e pormenorizada, como exige o princípio da dialeticidade recursal. A propósito:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ . AGRAVO REGIMENTAL DESPROVIDO.
+1. Não havendo a impugnação específica acerca dos fundamentos da decisão questionada, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior.
+2. "É inviável o agravo regimental que deixa de atacar especificamente os fundamentos da decisão impugnada, por ser essa condição necessária à admissibilidade de qualquer recurso, conforme entendimento firmado pela Corte Especial. O princípio da dialeticidade impõe à parte a demonstração específica do desacerto das razões lançadas no decisum atacado, sob pena de não conhecimento do recurso. Não são suficientes, para tanto, alegações genéricas ou a repetição dos termos do recurso interposto." (AgRg no AREsp n. 1.941.517/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/2/2022, DJe 3/3/2022.)
+3. Em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+4. Habeas corpus concedido de ofício para afastar da pena-base a valoração negativa referente à quantidade e à natureza das drogas apreendidas.
+5. Agravo regimental desprovido.
+(AgRg nos EDcl no AREsp n. 2.407.533/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/3/2025, DJEN de 25/3/2025.)
+Aplicável, portanto, o comando da Súmula n. 182/STJ: " é  inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, não conheço do agravo no recurso especial.
+Publique-se.
+Intimem-se.
+ EMENTA
