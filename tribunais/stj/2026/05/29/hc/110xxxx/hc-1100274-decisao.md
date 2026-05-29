@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de MANOEL ASSUMPÇÃO, condenado pelos crimes dos arts. 33 e 35 da Lei n. 11.343/2006 e do art. 333 do Código Penal, à pena definitiva de 13 anos, 7 meses e 20 dias de reclusão, em regime inicial fechado, e 1.640 dias-multa (Processo n. 0811134-83.2025.8.19.0042, da 1ª Vara Criminal da comarca de Petrópolis/RJ).
+A impetrante aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro, que, em 14/5/2026, deu parcial provimento à apelação para redimensionar a pena, mantendo a condenação pelos crimes imputados (Apelação Criminal n. 0811134-83.2025.8.19.0042) (fls. 12/14).
+Alega, de modo objetivo, ausência de prova concreta das elementares do art. 35 da Lei n. 11.343/2006 - estabilidade e permanência do vínculo associativo - com destaque de que se trata de crime de concurso necessário, mas o paciente foi denunciado, processado e condenado sozinho, não havendo identificação de outro agente, nem demonstração do animus associativo.
+Sustenta que atuação em local dominado por facção criminosa e padronização das drogas não bastam para presumir associação estável e permanente, conforme precedentes do Superior Tribunal de Justiça.
+Aduz que não busca revolvimento probatório, mas controle de legalidade sobre a subsunção do tipo do art. 35.
+Em caráter liminar, pede a absolvição do delito do art. 35 da Lei n. 11.343/2006, ou, ao menos, a possibilidade de aguardar em liberdade o julgamento do writ. No mérito, requer a concessão da ordem para absolver o paciente quanto ao crime do art. 35, além da intimação pessoal da Defensoria Pública para eventual sustentação oral.
+É o relatório.
+Inicialmente, destaco que o presente writ é substitutivo de recurso próprio, sendo certo que o habeas corpus tem suas hipóteses de cabimento restritas e não deve ser utilizado a fim de provocar a discussão de temas afetos a recurso de apelação criminal, a recurso especial, a agravo em execução e a recurso em sentido estrito.
+Além disso, inexiste ilegalidade flagrante que justifique habeas corpus de ofício e a superação do óbice.
+Quanto ao pedido de absolvição, verifica-se que a instância ordinária, soberana na análise do acervo probatório, concluiu pela suficiência das provas para demonstrar a participação do paciente na associação criminosa. Com efeito, foi apresentada fundamentação idônea para evidenciar o vínculo associativo, consubstanciada na atuação em área dominada pela facção Comando Vermelho, na padronização dos entorpecentes e na dinâmica da abordagem, além dos depoimentos coesos dos policiais militares e do material apreendido - 99 eppendorfs de cocaína (em pó) e 60 pedras de crack, com inscrições alusivas à facção. Registra-se, ainda, a tentativa de fuga e a atuação conjunta com outro indivíduo, elementos que reforçam a inserção funcional do paciente na estrutura do tráfico local, permitindo inferir estabilidade e permanência do vínculo (fl. 31).
+Diante desse contexto, não é possível infirmar a conclusão do Tribunal de Justiça, porquanto demandaria o amplo revolvimento do acervo probatório, providência vedada na via estreita do habeas corpus.
+Nesse sentido: AgRg no HC n. 1.019.513/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 9/9/2025, DJEN de 15/9/2025.
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. CORRUPÇÃO ATIVA. SUBSTITUTIVIDADE DE RECURSO PRÓPRIO. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. ABSOLVIÇÃO QUANTO AO DELITO DE ASSOCIAÇÃO. INVIABILIDADE. CONDENAÇÃO CONSUBSTANCIADA EM PROVAS QUE DENOTAM A ESTABILIDADE E PERMANÊNCIA. CONCLUSÃO INVERSA. REEXAME DE PROVAS.
+Petição inicial indeferida liminarmente.
