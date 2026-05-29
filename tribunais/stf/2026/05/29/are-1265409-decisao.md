@@ -1,0 +1,62 @@
+DECISÃO
+
+Trata-se de Agravo em Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (Doc. 78, fl. 4):
+
+“JUÍZO DE RETRATAÇÃO. APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. ICMS. REGIME DE PAGAMENTO ANTECIPADO. DIFAL. MERCADORIAS ORIUNDAS DE OUTRA UNIDADE DA FEDERAÇÃO. EMPRESA DE GRANDE PORTE. A cobrança em operação interestadual envolvendo mercadoria destinada a consumidor final não contribuinte do diferencial de alíquota do ICMS, na forma do Convênio n. 93/2015 ausente lei complementar é inválida (RE 1287019 - Tema 1093, STF). Em se tratando de empresa de grande porte, proposta a ação em 13 de maio de 2019, não se sujeita aos efeitos prospectivos concedidos no RE 1287019. Ordem concedida. Apelação provida.”
+
+ Opostos Embargos de Declaração (Doc. 84), foram rejeitados (Doc. 86).
+No Recurso Extraordinário (Doc. 93), com fundamento no art. 102, III, “a”, da Constituição Federal, RIQUENA NETO AR CONDICIONADO LTDA alega que o acórdão recorrido viola o art. 102, III, da CF/1988, pois adotou interpretação contrária ao entendimento firmado por esta CORTE no Tema 1093 e na ADI 5469, na medida em que “limitou indevidamente a eficácia da decisão à data de impetração da ação, isto é, foi afastada a possibilidade de cobrança dos débitos de DIFAL relativos apenas ao período posterior à data da impetração do mandando de segurança” (Doc. 93, fl. 4).
+Sustenta que ao contrário do que decidiu o Juízo local, “é possível que fatos geradores ocorridos antes da impetração da ação venham a ser cobrados após a sua impetração” (Doc. 93, fl. 10), pois “não faria sentido algum, (...) limitar os efeitos da decisão nesta ação individual a partir da impetração da ação, pois é possível, a qualquer instante anterior ao prazo decadencial, que o fisco efetue o lançamento tributário de operações praticadas antes do ajuizamento da ação” (Doc. 93, fl. 10).
+Afirma que na forma como decidida a questão, “o acórdão recorrido promove indevida limitação temporal à aplicação dos referidos precedentes desta Suprema Corte, sobretudo por tal limitação não ter sido objeto de pedido da parte, tampouco objeto de expressa deliberação deste Plenário” (Doc. 93, fl. 10).
+Requer, ao final, seja provido o presente recurso “de forma a ser extirpada a limitação temporal aos efeitos da aplicação do Tema 1093 e da ADI 5469 ao caso concreto, reconhecendo-se, portanto, o afastamento da cobrança, também, das operações praticadas antes do ajuizamento da ação, até a edição de lei complementar federal regulamentado as normas gerais da exação” (Doc. 93, fl. 11).
+Em exame de admissibilidade (Doc. 99), o Juízo de origem inadmitiu o RE aplicando a Súmula 282/STF, haja vista a ausência de prequestionamento da questão.
+No agravo (Doc. 105), a parte agravante refuta o referido óbice sumular.
+É o relatório. Decido.
+
+Cuida-se de matéria eminentemente constitucional, devidamente prequestionada na instância de origem. Presentes todos os pressupostos recursais, passo à análise de mérito do apelo extraordinário.
+Assiste razão a recorrente.
+Embora o acórdão recorrido tenha afastado a incidência do ICMS-DIFAL a partir da impetração (13/5/2019), a empresa recorrente pretende ver afastada a incidência do tributo em relação a fatos geradores ocorridos antes da impetração, considerando ilegítima a limitação temporal estabelecida no acórdão recorrido.
+O Plenário desta CORTE, no julgamento do RE 1.287.019-RG, Redator do acórdão Min. DIAS TOFFOLI, DJe de 25/5/2021, Tema 1.093 da Repercussão Geral, fixou a seguinte tese:
+
+“A cobrança do diferencial de alíquota alusivo ao ICMS, conforme introduzido pela Emenda Constitucional nº 87/2015, pressupõe edição de lei complementar veiculando normas gerais”.
+
+Na mesma ocasião, houve a  modulação temporal dos efeitos do acórdão de mérito, para que produzisse efeitos apenas a partir de 2022, ficando ressalvadas as ações judiciais em curso na data do julgamento.
+Ao julgar os Embargos de Declaração no RE 1.287.019-RG, Tema 1.093-RG, o Tribunal, por unanimidade, esclareceu que a expressão “ações judiciais em curso” referem-se àquelas ações propostas até a data do julgamento de mérito do recurso paradigma. Confira-se trecho relevante do acórdão:
+
+“O Tribunal Pleno, na sessão de 24/2/21, por maioria, deu provimento ao recurso extraordinário, assentando a invalidade ‘da cobrança, em operação interestadual envolvendo mercadoria destinada a consumidor final não contribuinte, do diferencial de alíquota do ICMS, na forma do Convênio nº 93/2015, ausente lei complementar disciplinadora’. Em seguida, por maioria, foi fixada a seguinte tese: ‘[a] cobrança do diferencial de alíquota alusivo ao ICMS, conforme introduzido pela Emenda Constitucional nº 87/2015, pressupõe edição de lei complementar veiculando normas gerais’.
+Na mesma ocasião, a Corte, também por maioria, concluiu ser o caso de se modularem os efeitos dessa decisão, tal como registrado na ata de julgamento do mérito, ressalvando da modulação, contudo, as ações judiciais então em curso, ou seja, as ações judiciais propostas até a data do referido julgamento.” (RE 1.287.019-ED, Rel. Min. DIAS TOFFOLI, Tribunal Pleno, j. em 18/12/2021,  DJe 15/3/2022, original com negrito)
+
+No caso concreto, a ação foi ajuizada em 13/5/2019 (Doc. 2, fl. 27), estando, portanto, em curso ao tempo do julgamento do PRCEDENTE paradigma de repercussão geral, e, assim, está ressalvada da modulação conferida ao Tema 1.093. Nesse sentido:
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. ICMS. OPERAÇÃO INTERESTADUAL DE MERCADORIA DESTINADA A CONSUMIDOR FINAL NÃO CONTRIBUINTE. DIFERENCIAL DE ALÍQUOTA. NECESSIDADE DE LEI COMPLEMENTAR. TEMA 1093 DA REPERCUSSÃO GERAL. RE 1.287.019. MODULAÇÃO DOS EFEITOS. RESSALVA DAS AÇÕES EM CURSO ATÉ A DATA DA SESSÃO DE JULGAMENTO, INCLUSIVE AS AÇÕES PROTOCOLADAS APÓS O ENCERRAMENTO DA SESSÃO, MAS AINDA NO DIA 24.2.2021. ADI 5.469-ED-ED.
+1. O Tribunal, na análise dos sucessivos embargos de declaração opostos ao julgamento do mérito da ADI 5.469, estabeleceu de forma clara que o marco temporal para excluir da modulação dos efeitos em relação ao entendimento fixado é a data da sessão de julgamento e não o da publicação da respectiva ata.
+2. Ficaram ressalvadas as ações propostas até 24.2.2021, inclusive, não se estabelecendo qualquer limite de horário ou outro marco temporal, uma vez que a ressalva é para as ações em curso até a data do julgamento e não até encerrada a sessão de julgamento.
+3. No caso em questão, impetrado o mandado de segurança após encerrada a sessão de julgamento da ADI 5.469, mas protocolado na mesma data, é de se afastar a modulação dos efeitos concedida na referida ação direta.
+4. Agravo regimental a que se nega provimento.” (RE 1.484.742 AGR, Rel. Min. EDSON FACHIN, Segunda Turma, DJe 29/8/2024)
+
+ A exigência do ICMS-DIFAL no caso concreto é inválida, uma vez que incide a ressalva da modulação de efeitos estabelecida no julgamento de mérito do RE 1.287.019-RG (Tema 1.093), haja vista que a referida ação mandamental estava em curso na data da sessão de julgamento do recurso paradigma, a saber, 24/2/2021, tendo em vista que foi ajuizada em 13/5/2019.
+Portanto, deve ser afastada, também, a cobrança relativamente a eventuais fatos geradores ocorridos antes do ajuizamento da ação, até a edição de lei complementar federal que disponha sobre normas gerais.
+Adite-se que a jurisprudência desta SUPREMA CORTE entende pela impossibilidade de se pleitear a restituição de indébito tributário em relação a período anterior à impetração do mandado de segurança. Nesse sentido, confiram-se os seguintes precedentes:
+
+“EMENTA: EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. RESTITUIÇÃO DO INDÉBITO TRIBUTÁRIO RECONHECIDO EM SEDE DE MANDADO DE SEGURANÇA POR MEIO DE PRECATÓRIO. POSSIBILIDADE, UNICAMENTE EM RELAÇÃO AOS VALORES DEVIDOS A CONTAR DA IMPETRAÇÃO.
+1. O órgão julgador pode receber, como agravo interno, os embargos de declaração que notoriamente visam a reformar a decisão monocrática do Relator, sendo desnecessária a intimação do embargante para complementar suas razões quando o recurso, desde logo, exibir impugnação específica a todos os pontos da decisão embargada. Inteligência do art. 1.024, § 3º, do Código de Processo Civil de 2015.
+2. No Tema 1262 da repercussão geral, o PLENÁRIO do SUPREMO TRIBUNAL FEDERAL fixou a seguinte tese: “Não se mostra admissível a restituição administrativa do indébito reconhecido na via judicial, sendo indispensável a observância do regime constitucional de precatórios, nos termos do art. 100 da Constituição Federal”.
+3. O ora embargante sustenta que, a partir desse precedente, o SUPREMO passou a admitir a restituição, por precatório, de valores anteriores à impetração do mandado de segurança.
+4. No tema 1262, discutiu-se essencialmente a compatibilidade da restituição administrativa com o art. 100 da Constituição, entendendo-se pela inconstitucionalidade de tal modo de adimplemento dos débitos da Fazenda Pública
+5. Em nenhum momento o precedente do Tema 1262 revoga as clássicas orientações das Súmulas 269 e 271 do SUPREMO TRIBUNAL FEDERAL.
+6. A restituição por precatório no âmbito de mandado de segurança já foi expressamente admitida por esta CORTE no Tema 831 da repercussão geral, apenas quanto aos valores entre a data da impetração e a efetiva implementação da ordem concessiva. 7. Embargos de Declaração recebidos como Agravo Interno, ao qual se nega provimento.” (RE 1.480.775-ED, de minha relatoria, Primeira Turma, DJe 12/6/2024)
+
+“EMENTA: DIREITO TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MANDADO DE SEGURANÇA. COMPENSAÇÃO DE INDÉBITO TRIBUTÁRIO ANTERIOR À IMPETRAÇÃO. IMPOSSIBILIDADE . SÚMULAS 269 E 271 DO STF. AGRAVO NÃO PROVIDO.
+I. CASO EM EXAME 1. Trata-se de agravo regimental contra decisão monocrática que negou seguimento a recurso extraordinário.
+II. QUESTÃO EM DISCUSSÃO 2. A questão em discussão consiste em saber se o mandado de segurança é via adequada para obter provimento jurisdicional de natureza declaratória que reconheça o direito à compensação de indébito tributário referente a período anterior à sua impetração.
+III. RAZÕES DE DECIDIR 3. É pacífica a jurisprudência desta Corte no sentido de que o mandado de segurança não é sucedâneo de ação de cobrança (Súmula 269/STF) e não produz efeitos patrimoniais em relação a período pretérito, os quais devem ser reclamados administrativamente ou pela via judicial própria (Súmula 271/STF). 4. O argumento de que se pleiteia uma ordem meramente declaratória para viabilizar a compensação na via administrativa não se sustenta. O Plenário do Supremo Tribunal Federal, ao julgar o Tema 1.262 da repercussão geral (RE 1.420.691), consolidou o entendimento de que não é admissível a restituição ou compensação administrativa de indébito tributário reconhecido judicialmente, sendo obrigatória a observância do regime de precatórios (art. 100 da Constituição Federal) 5. A tese firmada no Tema 1.262/RG superou a compreensão de que o mandado de segurança poderia gerar, por si só, o direito à compensação administrativa, pois tal prática configuraria um desvio ao sistema de precatórios e comprometeria a organização orçamentária da Fazenda Pública. 6. Os precedentes desta Corte são uníssonos em afirmar que os efeitos financeiros de uma ordem em mandado de segurança se projetam apenas a partir da data da impetração, reafirmando a plena vigência das Súmulas 269 e 271 do STF.
+IV. DISPOSITIVO E TESE 7. Agravo Regimental Não Provido.”(ARE 1.525.254 AGR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe 28/8/2025)
+
+Dessa forma, o pedido de restituição de indébito tributário, decorrente de decisão proferida em mandado de segurança, deve ser feito mediante a expedição de Precatório ou de Requisição de Pequeno Valor, conforme o caso, e deve abranger unicamente o período  entre a data da impetração e a efetiva implementação da ordem concessiva.
+Diante do exposto, com base no art. 21, §§ 1º e 2º, do Regimento Interno do Supremo Tribunal Federal, DOU PARCIAL PROVIMENTO AO AGRAVO EM RECURSO EXTRAORDINÁRIO, para afastar a limitação temporal estabelecida no acórdão recorrido, considerando inválida a incidência de ICMS-DIFAL em relação a eventuais fatos geradores ocorridos antes da impetração.
+Publique-se.
+Brasília, 29 de maio de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
