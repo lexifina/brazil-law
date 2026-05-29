@@ -1,0 +1,28 @@
+DECISÃO
+O presente recurso em habeas corpus, interposto por HUMBERT SIQUEIRA FARINHA - preso preventivamente e denunciado como incurso no crime de roubo majorado - contra o acórdão do TRIBUNAL DE JUSTIÇA DE GOIÁS (HC n. 5769773-09.2025.8.09.0000), não comporta provimento.
+Busca o recorrente a revogação da prisão cautelar imposta a ele pelo Juízo de Direito da 2ª Vara Judicial - Vara Criminal da comarca de Pirenópolis/GO (Processo n. 5833749-97.2025.8.09.0126), ao argumento da ausência de indícios mínimos de autoria, pois não houve reconhecimento fotográfico do paciente, havendo erro de premissa ao atribuir-lhe reconhecimento realizado em desfavor de terceiro, o que fragiliza o fumus comissi delicti.
+Sustenta excesso de prazo na conclusão do inquérito, com custódia de cerca de 60 dias frente ao prazo legal de 10 dias, sem complexidade real.
+Aponta a inidoneidade do periculum libertatis, por se fundar em ações penais em curso, em afronta ao princípio da não culpabilidade, ressaltando a primariedade técnica e a apresentação espontânea do paciente perante a polícia.
+Defende a suficiência de medidas cautelares diversas da prisão.
+Inicialmente, quanto ao excesso de prazo, perdeu-se o objeto. Verifica-se que, em 21/10/2025, o Ministério Público ofereceu denúncia, a qual foi recebida em 22/10/2025. Ademais, a audiência de instrução foi realizada no dia 19/2/2026, conforme verificado no site do Tribunal de origem, onde pude observar também que a prisão preventiva foi novamente analisada em 12/5/2026.
+Quanto aos fundamentos da prisão preventiva, não se verifica o alegado constrangimento, pois a decisão do Juízo de primeiro grau se encontra devidamente fundamentada. Confiram-se os principais trechos do decreto de prisão (fls. 6/8 - grifo nosso):
+ ..
+Os relatos das vítimas e uma imagem feita através de uma câmera de segurança levam a crer que os dois indivíduos que praticaram a empreitada criminosa utilizaram um veículo corsa vermelho.
+ ..
+Diante de tais fatos, a Autoridade Policial encontrou nesta Cidade o veículo corsa sedan vermelho, placa JZF -4951, de propriedade de Humbert Siqueira Farinha. Saliente-se que a Autoridade Policial mencionou que os investigados possuem extenso histórico criminal.
+ ..
+Ressalte-se que consta no relatório que foi realizado reconhecimento pessoal fotográfico, oportunidade em que as vítimas reconheceram os investigados Junior Pereira da Conceição e Humbert Siqueira Farinha como sendo as pessoas que praticaram o delito.
+ ..
+Noutra banda, quanto ao investigado Humbert Siqueira Farinha, nota-se que além do possível veículo do roubo ser aquele de sua propriedade há fragilidade nas suas alegações no sentido de que teria emprestado seu carro para duas pessoas desconhecidas em troca de drogas. Tal desculpa é completamente dissociada da realidade fática e não encontra amparo em nenhum elemento concreto.
+Ademais, como bem dito pela Autoridade Policial, o investigado Humbert Siqueira Farinha não comprova onde estava na data e horário dos fatos.
+Os indiciados Humbert Siqueira Farinha e Junior Pereira da Conceição possuem diversos processos criminais em seu desfavor, o que, neste momento, demonstra sua inclinação às condutas criminosas e completo desrespeito e desatenção às leis penais.
+Observa-se que o decreto preventivo evidenciou a quantidade de processos criminais que os acusados respondem, o que constitui fundamento idôneo para evidenciar o risco concreto de reiteração delitiva, justificando a prisão preventiva para fins de garantia da ordem pública.
+Com efeito, a jurisprudência consolidada do Superior Tribunal de Justiça reconhece que a prisão preventiva pode ser decretada diante do risco concreto de reiteração delitiva, evidenciado por maus antecedentes, reincidência, atos infracionais pretéritos ou ações penais em andamento, indicativos de periculosidade (RCD no HC n. 1.059.445/MG, Ministra Maria Marluce Caldas, Quinta Turma, julgado em 15/4/2026, DJEN de 22/4/2026 - grifo nosso).
+No mesmo sentido: RHC n. 230.576/PR, de minha relatoria, Sexta Turma, julgado em 15/4/2026, DJEN de 22/4/2026; e RCD no HC n. 1.061.322/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 4/3/2026, DJEN de 9/3/2026.
+Por fim, quanto à ausência de indícios mínimos de autoria, verifica-se que houve o reconhecimento pessoal fotográfico do recorrente pelas vítimas, além da existência de uma i magem feita (através de uma câmera de segurança) de que na empreitada criminosa um veículo corsa vermelho foi usado, sendo este de propriedade de Humbert Siqueira Farinha.
+Saliento que é inadmissível o enfrentamento da alegação acerca de negativa da autoria delitiva ou fragilidade probatória ante a necessária incursão probatória, incompatível com a via estreita do recurso em habeas corpus (AgRg no HC n. 897.031/ES, Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/2/2025, DJEN 24/2/2025), cabendo ao juízo natural, na ação penal de conhecimento, sob o contraditório judicial, melhor examinar as teses defensivas ao longo da instrução, revelando-se prematuro a intromissão desta Corte de Justiça na atual fase processual.
+Em face do exposto, nego provimento ao recurso ordinário.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO NA CONCLUSÃO DO INQUÉRITO. PERDA DO OBJETO. OFERECIMENTO E RECEBIMENTO DA DENÚNCIA, REALIZAÇÃO DE AUDIÊNCIA E REANÁLISE DA CUSTÓDIA. DECRETO PRISIONAL. FUNDAMENTAÇÃO IDÔNEA. RISCO CONCRETO DE REITERAÇÃO DELITIVA. RECONHECIMENTO FOTOGRÁFICO PELAS VÍTIMAS. IMAGEM DE CÂMERA RELACIONANDO VEÍCULO AO PACIENTE. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE
+Recurso em habeas corpus improvido.
