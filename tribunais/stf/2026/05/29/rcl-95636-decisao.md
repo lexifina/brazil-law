@@ -1,0 +1,43 @@
+DECISÃO:
+Cuida-se de reclamação constitucional, com pedido liminar, ajuizada por Julian dos Santos contra decisão do Tribunal Regional do Trabalho da 12ª Região, proferida nos autos do Processo nº 0000155-40.2023.5.12.0033, que teria desrespeitado a autoridade do Supremo Tribunal Federal e a eficácia da tese firmada no Tema nº 1.232 da Repercussão Geral.
+Narra a parte reclamante que a demanda em referência tem origem em ação trabalhista proposta por Lucimar Aparecida Gonçalves Lagatta em desfavor da empresa Centro de Formação de Condutores Ascurra Ltda na qual, com fundamento na teoria menor, foi julgado procedente o incidente de desconsideração da personalidade jurídica (IDPJ), determinando a sua inclusão no polo passivo do feito que se encontra em fase de execução.
+Afirma que a autoridade reclamada, em sede de agravo de petição, negou provimento ao recurso por entender que “no âmbito do processo do trabalho, aplica-se a ‘Teoria Menor’ (art. 28, § 5º, do  CDC), bastando o mero inadimplemento da empresa para autorizar a invasão do patrimônio dos sócios”.
+Sustenta que,
+
+“[e]mbora a literalidade do tema trate do redirecionamento da execução para empresa integrante de grupo econômico que não participou da fase de conhecimento, a ratio decidendi e os fundamentos exarados na ordem de suspensão nacional exarada pelo Exmo. Min. Dias Toffoli consolidam um imperativo: as execuções trabalhistas não podem ignorar os requisitos do art. 50 do Código Civil (Teoria Maior).
+(...)
+Sendo assim, o prosseguimento da execução fundada na "Teoria Menor",  quando o STF estabelece a vinculação da execução trabalhista ao exame  do art. 50 do CC (Teoria Maior), consubstancia intolerável afronta à  autoridade da decisão desta Egrégia Corte. ”
+Requer que seja deferido o pedido liminar a fim suspender o trâmite da execução trabalhista, inclusive com o cancelamento de qualquer ordem de penhora ou  constrição patrimonial em face do reclamante.
+No mérito, pede a procedência da reclamação para
+
+“determinar o sobrestamento do feito até julgamento final do RE  1.387.795/MG (Tema 1.232) e, sendo julgado e fixado o Tema 1.232, CASSAR o acórdão proferido no Agravo de Petição nº 0000155-40.2023.5.12.0033 que aplicou a Teoria Menor”.
+É o relatório. Decido.
+A jurisprudência do STF se desenvolveu no sentido de exigir o esgotamento de instância como requisito de admissibilidade de reclamação constitucional com fundamento em tese de repercussão geral, sobrevindo a edição da Lei nº 13.105/2015 (CPC/2015), que positivou a condição no art. 988, § 5º, inc. II, in verbis:
+
+“Art. 988. […]
+§ 5º É inadmissível a reclamação:
+[…]
+II – proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias.”
+
+Vide precedentes do STF, no sentido de que o esgotamento de instância ocorre somente em sede de decisão colegiada da origem que, em sede de agravo interno, aprecia a negativa de seguimento de recurso extraordinário pela repercussão geral:
+
+“AGRAVO REGIMENTAL NA RECLAMAÇÃO. PROCESSUAL CIVIL. INTEMPESTIVIDADE. NÃO INTERPOSIÇAO DO AGRAVO INTERNO DO § 2º DO ART. 1.030 DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE ESGOTAMENTO DE INSTÂNCIA NA ORIGEM. IMPOSSIBILIDADE DE UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO DE RECURSO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA: INVIABILIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.” (Rcl nº 41.920/SC-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 25/9/2020).
+
+“DIREITO PROCESSUAL CIVIL. ALEGAÇÃO DE AFRONTA A TESE EM REPERCUSSÃO GERAL. AUSÊNCIA DE ESGOTAMENTO DE INSTÂNCIAS. RECLAMAÇÃO INVIÁVEL. 1. O CPC/2015 prevê como requisito para o ajuizamento de reclamação por alegação de afronta a tese firmada em repercussão geral o esgotamento das instâncias ordinárias (art. 988, § 5º, II, do CPC/2015). 2. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015, em caso de decisão unânime.” (Rcl nº 34.827/SP-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 13/9/2019).
+
+“Agravo regimental na reclamação. Repercussão geral. Ausência de esgotamento de instância. Agravo regimental não provido. 1. O reconhecimento da repercussão geral tem por precisa consequência esgotar a cognição nesta Corte acerca da matéria em “recursos com fundamento em idêntica controvérsia” (art. 543-B, caput, do CPC) e recomendar todos os processos, principais ou acessórios, à respectiva origem, a fim de aguardarem pronunciamento do STF , após o que competirá à Corte de origem proceder de acordo com a disciplina processual editada a fim de regulamentar a nova sistemática introduzida ao art. 102, §3º, da CF/88 pela EC nº 45/2004. 2. A reclamação constitucional com fundamento na erronia de aplicação de entendimento do STF firmado de acordo com a sistemática da repercussão geral admite como objeto tão somente decisão judicial proferida no exercício da competência conferida à Corte de origem quanto à apreciação de recurso extraordinário pelo Código de Processo Civil, sob pena de se subverter o instituto e tornar inócua a inovação normativa introduzida pela EC nº 45/04. Precedente plenário. 3. Agravo regimental não provido.” (Rcl nº 20.892/RJ-AgR, de minha relatoria, Segunda Turma, DJe de 18/4/2016).
+
+In casu, consultado o andamento processual no sítio eletrônico do TRT 12, nos autos do Processo nº 0000155-40.2023.5.12.0033, verifiquei que não houve sequer interposição de recurso extraordinário. Não há se falar, portanto, em esgotamento da instância ordinária para fins de conhecimento da reclamatória cujo paradigma é tese firmada pelo STF em repercussão geral.
+ Nessa medida, entendo que o debate proposto deveria desenvolver-se pelos meios processuais adequados, não se podendo admitir o uso da reclamação constitucional como sucedâneo de recurso, conforme reiterada jurisprudência da Corte:
+
+“O instituto da reclamação não se presta para substituir recurso específico que a legislação tenha posto à disposição do jurisdicionado irresignado com a decisão judicial proferida pelo juízo a quo” (Rcl nº 5.703-AgR/SP, Tribunal Pleno, Rel. Min. Cármen Lúcia, DJe-195 de 16/10/09).
+
+“A reclamação não se configura instrumento viabilizador do reexame do conteúdo do ato reclamado” (Rcl nº 6.534-AgR/MA, Tribunal Pleno, Rel. Min.Celso de Mello, DJe-197 de 17/10/08).
+
+Ante o exposto, nego seguimento à reclamação (art. 21, § 1º, do RISTF). Prejudicada a apreciação do pedido liminar.
+Publique-se.
+Brasília, 29 de maio de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
