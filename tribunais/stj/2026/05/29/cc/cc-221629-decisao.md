@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo JUÍZO DE DIREITO DA 1ª VARA DA COMARCA DE GETÚLIO VARGAS/RS em face do JUÍZO FEDERAL DA 3ª VARA FEDERAL DE PASSO FUNDO - SJ/RS, nos autos de inquérito policial instaurado para apuração da prática, em tese, dos crimes de tentativa de homicídio contra policiais militares, constituição de milícia privada e porte ilegal de armas de fogo, supostamente ocorridos na Terra Indígena Ventarra.
+Consta dos autos que o Juízo Federal da 3ª Vara Federal de Passo Fundo/RS declinou da competência para o Juízo de Direito da 1ª Vara da Comarca de Getúlio Vargas/RS, ao fundamento de que inexistiriam elementos concretos aptos a demonstrar disputa sobre direitos indígenas a justificar a competência da Justiça Federal, destacando que os fatos investigados configurariam, em tese, crimes comuns sem relação direta com direitos coletivos indígenas.
+Recebidos os autos, o Juízo de Direito da 1ª Vara da Comarca de Getúlio Vargas/RS recusou a competência e suscitou o presente conflito negativo de competência, sustentando que a superveniência do relatório de análise de dados telefônicos constituiria fato novo apto a evidenciar contexto de disputa interna por liderança indígena, atraindo a competência da Justiça Federal, nos termos dos arts. 109, XI, e 231 da Constituição Federal.
+O Ministério Público Federal manifestou-se pelo reconhecimento da competência do Juízo de Direito da 1ª Vara da Comarca de Getúlio Vargas/RS, ora suscitante (fls. 634-637).
+É o relatório.
+Conheço do conflito de competência, por se tratar de incidente instaurado entre juízos vinculados a tribunais distintos, nos termos do art. 105, I, d, da Constituição da República.
+A controvérsia cinge-se à definição do juízo competente para processar e julgar os fatos investigados no presente inquérito policial, diante da divergência acerca da existência, ou não, de efetiva disputa sobre direitos indígenas apta a atrair a competência da Justiça Federal.
+A Constituição da República estabelece, em seu art. 109, XI, que compete à Justiça Federal processar e julgar as causas que envolvam a disputa de direitos indígenas, abrangendo matérias relacionadas à sua organi zação social, costumes, línguas, crenças, tradições e, sobretudo, aos direitos originários sobre as terras que tradicionalmente ocupam. Essa competência especial visa assegurar a proteção integral das comunidades indígenas e garantir que questões de natureza coletiva sejam apreciadas pela Justiça Federal.
+Por outro lado, o Superior Tribunal de Justiça consolidou o entendimento de que os crimes em que o indígena figure como réu ou vítima devem ser processados e julgados pela Justiça estadual (Súmula n. 140 do STJ). Assim, a simples presença do indígena não desloca a competência para a Justiça Federal.
+Confira-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRIPLO HOMICÍDIO. CRIMES PRATICADOS POR INDÍGENAS. DELITOS NÃO RELACIONADOS A DIREITOS OU À CONDIÇÃO DE INDÍGENA. COMPETÊNCIA DA JUSTIÇA COMUM. SÚMULA 140/STJ.
+Não exsurgindo dos autos qualquer evidência de que os crime em tese cometidos pelos indígenas tiveram motivação relacionada à disputa de terras ou qualquer outra questão relacionada à condição étnica, nem envolveram interesses da comunidade indígena, não há que se falar em deslocamento da competência para a Justiça Federal, a teor do enunciado sumular n. 140 desta Corte.
+Agravo regimental desprovido.
+(AgRg no AREsp n. 762.506/AM, relator Ministro Felix Fischer, Quinta Turma, julgado em 28/6/2016, DJe de 1/8/2016.)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. COMPETÊNCIA. PROCESSUAL PENAL. RÉU SILVÍCOLA. FURTO QUALIFICADO. AUSÊNCIA DE INTERESSE DA COMUNIDADE INDÍGENA OU DISPUTAS DE TERRAS. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL. RECURSO ORDINÁRIO DESPROVIDO.
+1. No caso em tela, o crime de furto cometido por agente considerado indígena não evidenciou interesse da comunidade ou vinculação com disputas por terras silvícolas, mas somente proveito pessoal, o que atrai a competência da Justiça comum estadual.
+2. Recurso ordinário desprovido.
+(RHC n. 35.227/MS, relatora Ministra Laurita Vaz, Quinta Turma, julgado em 18/4/2013, DJe de 25/4/2013.)
+No caso em análise, verifica-se que os elementos informativos até o momento coligidos aos autos não demonstram, de forma concreta, que os fatos investigados estejam diretamente relacionados à tutela de direitos indígenas coletivos ou à estrutura institucional da comunidade indígena envolvida.
+Conforme destacado pelo parecer ministerial, a alegada disputa pelo "cacicado" da Terra Indígena Ventarra apresenta-se, por ora, como mera suposição desprovida de lastro probatório mínimo, não havendo demonstração de que os delitos investigados tenham atingido a organização social ou política da etnia.
+Além disso, o confronto envolvendo policiais militares estaduais configura, em tese, afronta à atividade de segurança pública estadual, sem evidenciar conflito cultural ou federativo apto a justificar o deslocamento da competência para a Justiça Federal.
+Diante desse cenário, mostra-se adequada a fixação da competência na Justiça Estadual, em consonância com a orientação consolidada desta Corte Superior e com a Súmula 140/STJ.
+Ante o exposto, com fulcro no art. 34, XXII, do RISTJ, conheço do conflito negativo de competência para declarar competente o Juízo de Direito da 1ª Vara da Comarca de Getúlio Vargas/RS, ora suscitante, para o processamento e julgamento do feito.
+Publique-se.
+Intimem-se.
+EMENTA
