@@ -1,0 +1,26 @@
+DECISÃO: Trata-se de recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado pelo Estado do Rio de Janeiro, em face de acórdão prolatado pelo Tribunal de Justiça estadual assim ementado:
+
+“APELAÇÃO CÍVEL. TRIBUTÁRIO. ALÍQUOTA DO ICMS SOBRE SERVIÇOS DE ENERGIA ELÉTRICA E DE TELECOMUNICAÇÕES. PRETENSÃO DE RECOLHIMENTO COM BASE NA ALÍQUOTA GERAL E DE RESTITUIÇÃO OU COMPENSAÇÃO DE DÉBITOS/CRÉDITOS TRIBUTÁRIOS. SENTENÇA DE IMPROCEDÊNCIA, QUE SE REFORMA. INCONSTITUCIONALIDADE DECLARADA PELO ÓRGÃO ESPECIAL DA LEGISLAÇÃO ESTADUAL QUE FIXOU A ALÍQUOTA DE 25%. APLICAÇÃO DA ALÍQUOTA GERAL DE 18%. EFEITO VINCULANTE. MATÉRIA PACIFICADA PELO STJ EM SEDE DE RECURSO REPRESENTATIVO DE CONTROVÉRSIA. TEMA Nº 745, STJ. O RECONHECIMENTO DA INCONSTITUCIONALIDADE NO ÂMBITO DESTA CORTE DE JUSTIÇA FOI ANTERIOR À MODULAÇÃO DOS EFEITOS NO REFERIDO TEMA E DEVE PREVALECER MESMO EM RELAÇÃO ÀQUELAS AÇÕES AJUIZADAS POSTERIORMENTE A 05/02/2021. INCUMBÊNCIA CONSTITUCIONAL DO JUDICIÁRIO, SEM OFENSA AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES, DE APONTAR A ALÍQUOTA APLICÁVEL, MEDIANTE PROCESSO DE INTERPRETAÇÃO DA LEI. ALTERAÇÕES LEGISLATIVAS RECENTES QUE TRATA DO ICMS SOBRE ENERGIA ELÉTRICA. LEI COMPLEMENTAR N° 194/22 QUE ACRESCENTA O ART. 18-A AO CTN E DECRETO ESTADUAL N.º 48.1458/2022 QUE ESTABELECEM O PERCENTUAL DE 18% ÀS ALÍQUOTAS DOS SERVIÇOS DE ELETRICIDADE. RECURSO CONHECIDO E PROVIDO.” (Apelação Cível nº 0293331-15.2021.8.19.0001, 1ª Câmara de Direito Público do Tribunal de Justiça do Estado do Rio de Janeiro, Relatora Desembargadora Jacqueline Lima Montenegro, j. 10/12/2024)
+
+Na minuta, sustenta-se violação dos arts. 2º, 5º, caput, 150, II, e 155, §2º, da Constituição da República, além de contrariedade ao Tema 745 do ementário da repercussão geral.
+É o relatório.
+Decido.
+O recurso comporta provimento.
+Trata-se na origem de ação ajuizada com a finalidade de obrigar o Estado do Rio de Janeiro a aplicar a alíquota genérica de 18% de ICMS sobre o fornecimento de energia elétrica (em vez da alíquota majorada de 25% que era cobrada).
+O juízo da 11ª Vara de Fazenda Pública da Capital julgou improcedente o pedido formulado, sob o fundamento de que a ação foi distribuída em 19/11/2021, portanto após a fixação da tese do Tema nº 745 do STF. Foi destacado que, ao modular os efeitos da decisão, o Supremo Tribunal Federal estabeleceu que ela somente produziria efeitos a partir do exercício financeiro de 2024, ressalvadas as ações ajuizadas até 05/02/2021, data de início do julgamento do mérito, razão pela qual entendeu não ser cabível a pretensão autoral.
+Irresignado, o contribuinte apresentou recurso de apelação, ao qual a 1ª Câmara de Direito Público do TJRJ deu provimento para reformar a sentença, reconhecendo a inconstitucionalidade da cobrança de ICMS sobre energia elétrica com alíquota superior a 18%, por violação ao princípio da seletividade. O acórdão destacou que o entendimento já estava pacificado no âmbito do TJRJ antes da modulação dos efeitos do Tema nº 745 do STF, devendo prevalecer a jurisprudência local. Também observou que a legislação posterior passou a fixar 18% como teto da alíquota. Assim, determinou que o Estado do Rio de Janeiro aplique a alíquota de 18% e restitua os valores cobrados indevidamente, observada a prescrição quinquenal.
+Com razão o recorrente.
+O Supremo Tribunal Federal, ao apreciar o Tema 745 da sistemática da repercussão geral, fixou a tese segundo a qual “[a]dotada, pelo legislador estadual, a técnica da seletividade em relação ao Imposto sobre Circulação de Mercadorias e Serviços- ICMS, discrepam do figurino constitucional alíquotas sobre as operações de energia elétrica e serviços de telecomunicação em patamar superior ao das operações em geral, considerada a essencialidade dos bens e serviços”.
+Na ocasião, esta Corte modulou os efeitos da decisão para o exercício financeiro de 2024, ressalvando-se as ações ajuizadas até a data do início do julgamento do mérito (05.2.2021).
+Nesse contexto, até o término do exercício financeiro de 2023, as operações com energia elétrica e a prestação dos serviços de telecomunicação poderiam ser tributadas pelo Imposto Sobre Circulação de Mercadorias e Serviços – ICMS com alíquota superior à estipulada para as operações em geral, nos termos das leis dos Estados e do Distrito Federal.
+Verifica-se, portanto, que o acórdão impugnado não está alinhado à jurisprudência desta Suprema Corte quanto à modulação dos efeitos estabelecida no julgamento do Tema 745 da repercussão geral.
+Com efeito, a presente ação foi distribuída em 19.11.2021, não se enquadrando, pois, na ressalva dessa modulação, eis que ajuizada após o julgamento do referido tema, realizado em 05.2.2021 (edoc. 02).
+Nesse sentido, as decisões monocráticas: RE 1.494.724, Rel. Min. Cármen Lúcia, DJe 04.6.2024; RE 1.503.923; Rel. Min. Edson Fachin, DJe 01.8.2024; e ARE 1.414.606, Rel. Min. Luís Roberto Barroso, DJe 03.2.2023.
+Diante do exposto, com base no art. 21, §§ 1º e 2º, do Regimento Interno do Supremo Tribunal Federal, dou provimento ao recurso extraordinário para restabelecer a sentença proferida pelo Juízo da 11ª Vara da Fazenda Pública da Comarca da Capital - RJ (e-doc. 61, ID: 42e182c8).
+Publique-se.
+
+Brasília, 29 de maio de 2026.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
