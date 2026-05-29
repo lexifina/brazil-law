@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto por Márcio Henrique da Conceição Mendonça com fundamento no art. 105, III, a, da Constituição Federal.
+Na origem, a Fundação Instituto Brasileiro de Geografia e Estatística - IBGE ajuizou ação ordinária de cobrança contra o recorrente, ex-contratado temporário da entidade, objetivando o ressarcimento de valores creditados indevidamente em sua conta-corrente, a título de salários, entre janeiro e julho de 2003, após a rescisão do contrato temporário a pedido do réu. Deu-se à causa o valor de R$ 10.000,00 (dez mil reais - fl. 11).
+Após sentença que julgou procedente o pedido para condenar o réu ao ressarcimento dos valores indevidamente creditados, acrescidos de juros de mora de 1% ao mês desde a citação, o Tribunal Regional Federal da 1ª Região deu parcial provimento à apelação do réu, apenas para ajustar a incidência dos juros de mora e da correção monetária, e deu provimento ao recurso adesivo do IBGE para majorar os honorários advocatícios.
+O referido acórdão foi assim ementado:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. RECEBIMENTO DE INDENIZAÇÃO DE PERÍODO DE FÉRIAS JÁ GOZADO. IMPOSSIBILIDADE. AUSÊNCIA DE BOA-FÉ. ERRO DA ADMINISTRAÇÃO. NÃO CARACTERIZAÇÃO. REPOSIÇÃO AO ERÁRIO DEVIDA. SENTENÇA MANTIDA.
+1. Cuida-se de decisão proferida na regência do CPC de 1973, sob o qual também foi manifestado o recurso conforme o princípio do isolamento dos atos processuais e o da irretroatividade da lei, as decisões já proferidas não são alcançadas pela lei nova, de sorte que não se lhes aplicam as regras do CPC atual, inclusive as concernentes à fixação dos honorários advocatícios, que se regem pela lei anterior.
+2. É pacífica a orientação jurisprudencial, e há orientação administrativa no mesmo sentido, cf. Súmula n. 106-TCU e Súmula n. 34-AGU, de que não é cabível a efetivação de descontos em folha de pagamento para fim de reposição ao erário, seja nos vencimentos ou proventos do servidor, quando se tratar de verba remuneratória por ele percebida de boa-fé, mesmo que seja indevida ou tenha sido paga a maior, por erro da Administração ou interpretação errônea ou aplicação equivocada da lei.
+3. O Superior Tribunal de Justiça, no Recurso Especial n. 1.244.182/PB, admitido como representativo de controvérsia, nos termos do art. 543-C do CPC, definiu que a interpretação errônea da Administração que resulte em um pagamento indevido ao servidor acaba por criar-lhe uma falsa expectativa de que os valores por ele recebidos são legais e definitivos, daí não ser devido qualquer ressarcimento.
+4. Na hipótese dos autos não ficou caracterizada a boa-fé da parte autora, nem tão pouco o erro da Administração ao interpretar lei expressa em ato formal. Desse modo é devida a reposição ao erário do valor correspondente aos pagamentos indevidos de salários, por parte da Fundação Instituto Brasileiro de Geografia e Estatística - IBGE, concernente ao período de janeiro a julho de 2003, uma vez que o contrato de prestação de serviços, celebrado entre a Fundação e o réu, foi rescindido a pedido deste, em janeiro de 2003.
+5. Juros de mora fixados nos termos do voto.
+6. O valor dos honorários fixados na sentença deve ser majorado, a fim de adequá-lo ao disposto no § 4º do art. 20 do CPC de 1973, sob o qual foi proferida a sentença.
+7. Apelação da parte ré provida, em parte, para ajustar a incidência dos juros de mora e de correção monetária como declinados no voto; recurso adesivo do IBGE provido, para majorar os honorários advocatícios como declinados no voto.
+Os embargos de declaração opostos foram rejeitados.
+O recorrente interpôs recurso especial, em que aponta violação aos arts. 1.022 do CPC/2015, 422 e 396 do Código Civil.
+Sustenta que o acórdão recorrido permaneceu omisso, mesmo após a oposição de embargos de declaração, quanto à aplicação da jurisprudência do Superior Tribunal de Justiça sobre a irrepetibilidade de valores recebidos de boa-fé por erro operacional da Administração.
+Alega que o Tribunal de origem não teria indicado conduta dolosa apta a afastar a presunção de boa-fé, tampouco teria apreciado adequadamente a natureza alimentar dos valores recebidos.
+Afirma que os depósitos decorreram de erro exclusivo do IBGE e que, por se tratar de verba alimentar recebida de boa-fé, não seria cabível a restituição ao erário.
+Subsidiariamente, defende que os juros de mora somente poderiam incidir após o trânsito em julgado da decisão que reconhecesse o dever de devolução, pois não haveria mora anterior imputável ao recorrente.
+Contrarrazões apresentadas pelo IBGE, nas quais sustenta a ausência de violação ao art. 1.022 do CPC/2015, a incidência da Súmula 7/STJ e a inexistência de boa-fé objetiva no recebimento dos valores.
+O recurso especial foi inicialmente sobrestado em razão da afetação da matéria relativa à devolução de valores pagos por erro operacional da Administração. Após o julgamento do Tema 1009/STJ, os autos retornaram ao Tribunal de origem para juízo de retratação.
+No juízo de retratação, o Tribunal Regional Federal da 6ª Região manteve o acórdão recorrido por fundamento diverso. Consignou que, embora os pagamentos indevidos tenham decorrido de erro operacional, o equívoco não era de difícil detecção pelo beneficiário, pois os valores correspondiam à antiga remuneração do ex-contratado e continuaram a ser depositados após a rescisão contratual por ele requerida.
+Na sequência, o recurso especial foi admitido.
+É o relatório. Decido.
+O recurso merece conhecimento apenas parcial.
+Em relação à indicada violação do art. 1.022 do CPC/2015, pelo Tribunal a quo, não se vislumbra a alegada omissão da questão jurídica apresentada pelo recorrente, porquanto fundamentou seu decisum com solução jurídica suficiente para a resolução da demanda.
+Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação do embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+Descaracterizada a alegada omissão, tem-se de rigor o afastamento da suposta violação do art. 1.022 do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça:
+AMBIENTAL E PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC NÃO CONFIGURADA. CUMULAÇÃO DAS OBRIGAÇÕES DE INDENIZAR E DE REPARAR DANO AMBIENTAL. CABIMENTO. SÚMULA 629/STJ. REVISÃO DOS PARÂMETROS DE DEFINIÇÃO DO VALOR INDENIZÁVEL. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação aos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, segundo se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Destaca-se que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.156.765/MG, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 29/4/2024, DJe de 3/5/2024.)
+PROCESSUAL CIVIL E DIREITO ADMINISTRATIVO. MANDADO DE SEGURANÇA. INCIDÊNCIA DO PIS E COFINS. ZONA FRANCA DE MANAUS. MANUTENÇÃO DA DECISÃO DA PRESIDÊNCIA DO STJ. ENFOQUE CONSTITUCIONAL DA MATÉRIA.
+ ..
+2. Não configurada a violação apontada ao art. 1.022 do CPC/2015, na medida em que não se constata omissão, obscuridade ou contradição nos acórdãos recorridos capazes de torná-los nulos, especialmente porque a Corte de origem apreciou a demanda de forma clara e precisa, estando bem delineados os motivos e fundamentos que embasam o decisum a quo.
+ ..
+4. Agravo Interno não provido.
+(AgInt no AREsp n. 2.475.185/AM, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/4/2024, DJe de 3/5/2024.)
+Quanto ao mérito, o Tribunal de origem, em juízo de retratação, examinou a controvérsia à luz do Tema 1009/STJ, segundo o qual os pagamentos indevidos a servidores públicos decorrentes de erro administrativo, operacional ou de cálculo, estão sujeitos à devolução, ressalvadas as hipóteses em que comprovada a boa-fé objetiva, especialmente quando demonstrado que não era possível ao beneficiário constatar o pagamento indevido.
+No caso, a Corte regional concluiu expressamente que a boa-fé objetiva não ficou comprovada. Para tanto, destacou que o recorrente havia requerido a rescisão do contrato temporário, tinha ciência do recebimento dos depósitos e poderia identificar a origem dos valores, pois correspondiam à sua antiga remuneração e eram pagos em moldes compatíveis com os vencimentos anteriormente recebidos.
+A alteração dessa conclusão demandaria o reexame do conjunto fático-probatório dos autos, providência inviável em recurso especial, nos termos da Súmula 7/STJ.
+O mesmo óbice incide sobre a tese de que o recorrente não teria condições de perceber a irregularidade dos depósitos. O acórdão recorrido assentou justamente o contrário, com base nas circunstâncias concretas do caso.
+Também não prospera a alegação relativa ao termo inicial dos juros de mora. A sentença fixou a incidência desde a citação, e o acórdão recorrido apenas ajustou os critérios de juros e correção monetária. Não há demonstração de violação ao art. 396 do Código Civil capaz de infirmar a conclusão adotada, sobretudo diante do reconhecimento judicial da exigibilidade da restituição.
+Assim, na parte conhecida, o recurso especial não comporta provimento.
+Ante o exposto, com esteio no art. 255, § 4º, I e II, do RISTJ, conheço parcialmente do recurso especial para, nessa parte, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
