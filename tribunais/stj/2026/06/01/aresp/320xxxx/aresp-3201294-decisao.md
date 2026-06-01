@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC), interposto por FUNDAÇÃO DE CRÉDITO EDUCATIVO, contra decisão que não admitiu recurso especial.
+O apelo extremo, fundamentado na alínea "a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça de Pernambuco, assim ementado (fls. 66-67, e-STJ):
+EMENTA: PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO TÍTULO EXTRAJUDICIAL. BLOQUEIO. VALORES IMPENHORÁVEIS. VERBA SALARIAL. SALDO REMANESCENTE AO SUSTENTO DO NÚCLEO FAMILIAR. ÔNUS DA PROVA. DEVEDOR. SALDO REMANESCENTE PENHORÁVEL.
+1. Agravo interposto em face de decisão que determinou bloqueio de numerário do executado.
+2. Agravante que demonstrou possuir natureza alimentar. Verbas trabalhistas rescisórias. Impenhorabilidade de quantia mínima para subsistência do executado e de seu núcleo familiar. 40 salários-minimos (art. 833, IV e X, CPC). Saldo remanescente em conta no mês seguinte, em que o devedor não se desincumbe de provar necessário à sobrevivência deixa de ser impenhorável. Precedentes STJ (Corte Especial, REsp n. 1.660.671/RS, Rel. Min. Herman Benjamin, j. 21.02.24, DJe 23.05.24).
+3. Agravo provido para assegurar o mínimo subsistencial à parte agravante. Necessidade de comprovação pelo devedor/ executado, nos autos de origem, de que não houve saldo remanescente penhorável.
+Opostos embargos de declaração, foram rejeitados nos termos do acórdão de fls. 90-95, e-STJ.
+Nas razões de recurso especial (fls. 104-111, e-STJ), aponta a parte recorrente ofensa ao artigo 1.022, II, do CPC.
+Sustenta, em síntese, omissão relevante acerca da possibilidade de mitigação da regra geral da impenhorabilidade, notadamente diante de "(..) movimentações constantes e depósitos diversos na conta da executada (..)" (fl. 104, e-STJ).
+Contrarrazões apresentadas às fls. 121-127, e-STJ.
+Em juízo de admissibilidade (fls. 128-130, e-STJ), negou-se o processamento do recurso especial, dando ensejo ao presente agravo (fls. 132-145, e-STJ).
+Sem contraminuta (fl. 147, e-STJ).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Consoante relatado, sustenta a parte recorrente ter havido violação ao artigo 1.022, II, do CPC, ao argumento de que persiste omissão acerca da possibilidade de mitigação da regra geral da impenhorabilidade, notadamente diante de "(..) movimentações constantes e depósitos diversos na conta da executada (..)" (fl. 104, e-STJ).
+Razão não lhe assiste.
+Não se vislumbra a alegada omissão, pois o órgão julgador dirimiu a controvérsia de forma ampla e fundamentada, embora não tenha acolhido as pretensões da parte ora insurgente, consoante se infere dos seguintes trechos do decisum:
+Consoante registrado no decisum em que concedi a medida liminar, a parte recorrente apresentou documentos referentes ao montante constante na sua conta, objeto da penhora, comprovando a origem dos valores como seguro-desemprego e verbas rescisórias de contrato de trabalho, de setembro de 2023 (IDs 153591140 e 153591146).
+Por tal razão, necessária a observância das normas processuais e precedentes jurisprudenciais, para fins de que a execução corra da forma mais benéfica para o credor, mas não prejudique o próprio sustento do devedor.
+ ..
+A Corte Especial, ao julgar o EREsp 1.518.169/DF, entendeu que a regra geral da impenhorabilidade de salários, vencimentos, proventos, etc., prevista na art. 649, IV, do CPC/1973 (correspondente ao art. 833, IV, do CPC/2015), pode ser excepcionada a afim de satisfazer crédito, mesmo de natureza não alimentar, desde que preservado o suficiente para garantir a subsistência digna do devedor e de sua família, senão, vejamos:
+ ..
+In caso, o valor constante na conta na ocasião do bloqueio judicial era R$ 50.787,98, inferior aos R$ 52.800,00, correspondentes a menos de quarenta salários-mínimos vigentes à época (de R$ 1.320,00), e foram depositados a título de verbas trabalhistas decorrentes de rescisão de trabalho.
+Note-se que, na hipótese dos autos, ainda que venha a sobrar quantia naquele período, o devedor/executado passou à condição de desempregado, sem possibilidade de receber novos salários - ao menos em curto prazo -; há que se deduzir.
+Destarte, identificado risco de demora e de dano irreparável à parte agravante, que pode vir a ficar privada do mínimo para seu sustento, de modo que entendo necessário que a parte executada apresente nos autos principais extrato, comprovando que a quantia penhorada ingressou no patrimônio em caráter alimentar e para suprir sobrevivência sua e de sua família.
+Eventual quantia remanescente nos meses seguintes não deve ser alcançada pela impenhorabilidade, nos termos do posicionamento adotado pelo STJ, acima reproduzido. (fls. 60-65, e-STJ)  grifou-se
+Como se vê, não se vislumbram as alegadas omissões, porquanto o acórdão restou devida e suficientemente fundamentado sobre as questões necessárias ao deslinde da controvérsia, notadamente acerca da impossibilidade de mitigar a regra geral da impenhorabilidade, notadamente porque o montante constrito é inferior a 40 salários mínimos e a manutenção da referida medida poderia implicar em privação do mínimo existencial. Não há falar, portanto, em ofensa ao referido dispositivo.
+Na mesma linha, precedentes: AgRg no REsp 1291104/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/05/2016, DJe 02/06/2016; AgRg no Ag 1252154/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/06/2015, DJe 30/06/2015; REsp 1395221/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 05/09/2013, DJe 17/09/2013.
+Não é demais lembrar, a orientação desta Corte, no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio, como ocorrera na hipótese. Nesse sentido, confira-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. 1. OFENSA AO ART. 535 DO CPC. INEXISTÊNCIA.  ..  1. Não há ofensa ao art. 535 do CPC, pois o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tenha encontrado motivação satisfatória para dirimir o litígio. 2. O Tribunal de origem por ocasião do julgamento do recurso examinou as questões, embora de forma contrária à pretensão do recorrente, não existindo omissão a ser sanada.  ..  5. Agravo regimental improvido. (AgRg no AREsp 627.146/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/10/2015, DJe 29/10/2015)  grifou-se
+PROCESSUAL CIVIL. VIOLAÇÃO AOS ARTS. 535, 826 E 927 DO CPC. OMISSÃO. INEXISTENTE. JULGADO DEVIDAMENTE FUNDAMENTADO. CONCLUSÃO FIRMADA COM BASE NA MATÉRIA FÁTICO-PROBATÓRIA. SÚM. 7/STJ. DISSÍDIO INTERPRETATIVO. NÃO OBEDIÊNCIA AOS TERMOS REGIMENTAIS. REGIMENTAL NÃO PROVIDO. 1. Não se configurou a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos aos autos pelas partes. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.  ..  4. Agravo regimental não provido. (AgRg no AREsp 498.536/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/09/2015, DJe 16/09/2015)  grifou-se
+Inexiste, portanto, violação ao artigo 1.022 do CPC, visto que a matéria fora apreciada pelo Tribunal de origem, cuja fundamentação foi clara e suficiente para o deslinde da controvérsia.
+2. Do exposto, conheço do agravo para não conhecer do apelo extremo.
+Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do NCPC.
+Publique-se.
+Intimem-se.
+EMENTA
