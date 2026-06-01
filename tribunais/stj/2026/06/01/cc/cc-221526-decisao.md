@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de conflito entre o r. juízo federal da 2ª Vara Cível e Criminal de Ji-Paraná - SJ/RO e o r. juízo de direito da 1ª Vara Cível de Rolim de Moura/RO acerca da competência para processar e julgar ação de repactuação de dívidas fundamentada lei do superendividamento prevista no art. 104-A, do CDC, aforada pela ora interessada ANDREIA ALVES XAVIER em face do Banc o do Brasil S/A e da Caixa Econômica Federal.
+É o relatório.
+Decisão.
+A matéria subjacente ao presente incidente encontra-se pacificada no âmbito deste Superior Tribunal de Justiça, de modo a atrair a incidência da Súmula 568/STJ e a possibilidade do exame unipessoal da questão. (ut. CC 179.787/PE, Rel. Min. Paulo de Tarso Sanseverino, Dje de 25/05/2021).
+1. De início, vale destacar a competência deste STJ para o exame do presente conflito, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+2. Em conflitos similares, a jurisprudência deste STJ caminha no sentido de que - em casos de ações de repactuação de dívidas decorrentes de superendividamento- o juízo comum distrital e/ou estadual é o competente para julgar a demanda, ainda que exista interesse de ente federal, porque a exegese do art. 109, I, da CF, deve ser teleológica de modo a alcançar, na exceção da competência da Justiça Federal, as hipóteses em que existe o concurso de credores.
+Nessa linha: CC n. 193.066/DF, Segunda Seção, julgado em DJe de 31/3/2023; Noronha, Segunda Seção, julgado em CC n. 192.140/DF, Rel. Min. João Otávio de 10/5/2023, Dje de 16/5/2023.
+Na hipótese, é impositivo reconhecer a natureza concursal do processo de superendividamento instaurado, com pluralidade de credores - Banco do Brasil S/A e Caixa Econômica Federal - o rito universal, razão pela qual se declara a competência da Justiça Comum Estadual para processar e julgar a demanda, ainda que haja empresa pública federal no polo passivo. Consequentemente, deve ser reconhecida a competência do Juízo de Direito da 1ª Vara Cível de Rolim de Moura/RO.
+3. Do exposto, com fundamento no Súmula 568/STJ DJe de 16/5/2023. parágrafo único, do CPC c/c art. 955, conheço do presente conflito e, por conseguinte, declaro a competência do r. juízo da 1ª Vara Cível de Rolim de Moura/RO, para processar e julgar a demanda, como entender de direito, nos termos da fundamentação supracitada.
+Publique-se. Intimem-se. Oficiem-se.
+EMENTA
