@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de agravo em recurso especial, interposto por MARIA PARECIDA TRINDADE DE SOUZA contra decisão que não admitiu recurso especial.
+O apelo nobre, fundamentado nas alíneas a e c do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 149, e-STJ):
+DIREITO PROCESSUAL CIVIL E DIREITO DAS SUCESSÕES. AGRAVO DE INSTRUMENTO. ILEGITIMIDADE ATIVA DOS HERDEIROS PARA CUMPRIMENTO DE SENTENÇA EM AÇÃO DE PRESTAÇÃO DE CONTAS. RECURSO DE AGRAVO DE INSTRUMENTO DESPROVIDO.
+I. Caso em exame
+1. Agravo de Instrumento visando a reforma de decisão que rejeitou a exceção de pré-executividade apresentada pela Executada/Inventariante em Ação de Prestação de Contas, na qual os herdeiros do Espólio requerem a colação de valores retidos pela inventariante. Argumenta, a Recorrente, a ilegitimidade ativa dos Agravados para promover o cumprimento de sentença, uma vez que representam 25% do quinhão hereditário.
+II. Controvérsia em discussão
+2. A controvérsia incide sobre legitimidade ativa dos herdeiros agravados para promover o cumprimento de sentença em ação de prestação de contas em favor do Espólio, considerando a condição de inventariante da agravante e a participação dos agravados na herança.
+III. Razões de decidir
+3. Os herdeiros detêm legitimidade ativa para promover o cumprimento de sentença contra a inventariante em favor do Espólio, mesmo que representem menor parte do quinhão hereditário.
+4. A Agravante, como inventariante responde pela administração de valores em cumprimento de sentença, em face dos demais herdeiros. posto que a insurgência revela nítido conflito de interesses.
+5. A restituição de valores ao Espólio é interesse jurídico de todos os herdeiros, justificando a legitimidade ativa para o presente incidente.
+6. Não se reconhece litigância de má-fé, pois não há prova de intenção de obstruir o trâmite processual por parte da Agravante.
+IV. Dispositivo e tese
+7. Recurso de Agravo de Instrumento conhecido e desprovido.
+Tese de julgamento: A legitimidade ativa para promover o cumprimento de sentença em ação de prestação de contas pode ser exercida tanto pelo Espólio, representado pelo inventariante, quanto pelos herdeiros individualmente, em razão do interesse processual sobre suas respectivas quotas partes independentemente do percentual que representem.
+Dispositivos relevantes citados: CPC, arts. 550 e 618; CP, art. 80.
+Jurisprudência relevante citada: TJPR, 12ª Câmara Cível, 0042934-15.2024.8.16.0000, Rel.
+Desembargadora Ivanise Maria Tratz Martins, j. 24.07.2024.
+Em suas razões de recurso especial (fls. 479-491, e-STJ), a parte insurgente aponta, além de dissídio jurisprudencial, ofensa aos artigos 18 e 75, inciso VII, do CPC. Sustenta, em síntese, a ilegitimidade ativa dos herdeiros para promover, em nome próprio, o cumprimento de sentença cujo título beneficia o espólio. Defende a vedação de se pleitear direito alheio em nome próprio e a necessidade de extinção do cumprimento de sentença sem resolução de mérito. Requer tutela de urgência para suspensão da execução.
+Contrarrazões apresentadas às fls. 495-500, e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, o que justificou a interposição do presente agravo (fls. 507-515, e-STJ).
+Apresentada contraminuta às fls. 387-394, e-STJ.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. De início, verifica-se que a pretensão recursal esbarra no óbice das Súmulas 282 e 356 do STF.
+No que diz respeito aos artigos 18, 75, inciso VII, do CPC, apontados como violados e as respectivas teses relacionadas à vedação a se pleitear direito alheio em nome próprio e à legitimidade do espólio ser representado pelo inventariante, verifica-se que seus conteúdos normativos não foram objeto de apreciação pelo Tribunal de origem, tampouco foram opostos embargos de declaração a fim de provocar o pronunciamento do Colegiado.
+Com efeito, o prequestionamento, entendido como a necessidade de o tema objeto do recurso haver sido examinado pela decisão atacada, constitui exigência inafastável contida na própria previsão constitucional, ao tratar do recurso especial, impondo-se como um dos principais pressupostos ao seu conhecimento.
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+É de salientar que não basta à parte discorrer sobre o dispositivo legal que entende afrontado. Não examinada pela instância ordinária a matéria objeto do apelo extremo, sem que o recorrente opusesse embargos de declaração, a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados 282 e 356 da Súmula do excelso Supremo Tribunal Federal.
+Nesse sentido, confiram-se os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ARRENDAMENTO MERCANTIL. VEÍCULO AUTOMOTOR. REINTEGRAÇÃO DE POSSE. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. SÚMULA N. 7 DO STJ. MORA. NOTIFICAÇÃO EXTRAJUDICIAL. INDICAÇÃO DO VALOR DO DÉBITO. SÚMULA N. 245 DO STJ. AFASTAMENTO DA RESPONSABILIDADE DO ARRENDATÁRIO. SÚMULA N. 284 DO STF.  ..  3. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.  ..  5. Agravo interno a que nega provimento. (AgInt no AgRg no AREsp 594.567/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 06/09/2016, DJe 12/09/2016)
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. CONTRATO DE TRANSPORTE. AÇÃO DE INDENIZAÇÃO. DENUNCIAÇÃO DA LIDE. IMPROCEDÊNCIA. VIOLAÇÃO A DISPOSITIVOS DE LEI FEDERAL (ARTS. 187, 188 E 927 DO CC/02). FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 282 DO STJ. MÉRITO. TRIBUNAL LOCAL QUE AFASTOU O PEDIDO DE DENUNCIAÇÃO, POR INEXISTIR DIREITO DE REGRESSO. DECISÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA Nº 83 DO STJ.  ..  2. As matérias insertas nos dispositivos de lei tidos por violados não foram objeto de debate no acórdão recorrido, nem opostos os necessários embargos de declaração a fim de suscitar o debate na Corte de origem, carecendo, assim, do necessário prequestionamento da questão federal invocada. Incide, no ponto, a Súmula nº 282 do STF.  ..  4. Agravo regimental não provido. (AgRg no AREsp 774.351/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/08/2016, DJe 06/09/2016)
+Desta forma, fica inviabilizada a apreciação das supracitadas teses, ante a ausência do necessário prequestionamento das matérias.
+Assim, o apelo nobre encontra óbice das Súmulas 282 e 356 do STF.
+2. Além disso, verifica-se ter a Corte local consignado que, no presente caso, o direito material perseguido pelos demais herdeiros correlaciona-se à violação ao exercício da inventariança, nos termos do artigo 618 do CPC.
+Eis o que se colhe, quanto ao tema, do aresto hostilizado (fl. 152, e-STJ):
+ ..
+A arguição de ilegitimidade ativa realizada pela Executada de forma inaugural em sede de Exceção de Pré-Executividade se fundamenta na premissa de que os Exequentes detêm apenas 25% sobre o quinhão hereditário e, portanto, não poderiam representar o Espólio em juízo.
+Não obstante, é necessário destacar que a parte Executada é a detentora do restante do quinhão hereditário e exerce, ainda, o múnus de inventariante.
+Ou seja, o acolhimento da pretensão formulada no presente recurso, representaria na prática, que apenas a Recorrente teria legitimidade ativa para promover a Execução contra si mesma - o que não é razoável.
+ ..
+No caso dos autos, os Exequentes detêm legitimidade ativa para propor e executar a decisão a Ação de Prestação de Contas na forma do artigo 550 do Código de Processo Civil, porquanto o direito material perseguido pelos demais herdeiros correlaciona-se à violação do exercício da inventariança na forma do artigo 618 do Código de Processo Civil.  grifou-se
+Tais fundamentos, suficientes para manutenção do decisum - no ponto -, não foram rebatidos nas razões do recurso especial.
+Diante da deficiência na fundamentação recursal pela ausência de combate aos fundamentos que se mostram suficientes para manter o decisum recorrido, bem como as razões recursais dissociadas do que ficou decidido pela Corte de origem demonstram deficiência na fundamentação do recurso, incidindo, por analogia, as Súmulas 283 e 284 do STF.
+Nesse mesmo sentido, transcrevem-se os seguintes precedentes:
+CONSUMIDOR E CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CLÁUSULA EXCLUDENTE DA COBERTURA. APOSENTADORIA POR INVALIDEZ. SFH. ACÓRDÃO FUNDADO NO CDC. NULIDADE DA CLÁUSULA. ART. 51, IV, DO CDC. ESPECIAL DISTANCIANDO-SE DA FUNDAMENTAÇÃO DO ACÓRDÃO. TESE SUFICIENTE NÃO IMPUGNADA. SÚMULAS 283 E 284 DO STF. PREQUESTIONAMENTO. INEXISTÊNCIA. AGRAVO NÃO PROVIDO.  ..  3. A falta de combate a fundamento suficiente para manter o acórdão recorrido bem como as razões recursais dissociadas daquilo que ficou decidido pelo Tribunal de origem demonstram deficiência de fundamentação do recurso, o que atrai, por analogia, os óbices das Súmulas n. 283 e 284 do Supremo Tribunal Federal. 4. Agravo regimental não provido. (AgRg no REsp 1507662 /PB, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2015, DJe 28/08/2015)  grifou-se
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. PROTESTO. DUPLICATA. RECEBIMENTO DE MERCADORIAS. MOTIVAÇÕES. FUNDAMENTO NÃO REFUTADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 283 E 284/STF. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. DECISÃO MANTIDA PELOS PRÓPRIOS FUNDAMENTOS.  ..  2. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado, configura deficiente fundamentação do recurso especial, de acordo com as súmulas 283 e 284/STF.  ..  4. Agravo regimental não provido. (AgRg no REsp 1286749/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/06/2015, DJe 29/06/2015)  grifou-se
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. USUCAPIÃO EXTRAORDINÁRIA. AUSÊNCIA DE COMPROVAÇÃO DA POSSE COM (POSSE AD USUCAPIONEM). ANIMUS DOMINI FUNDAMENTOS DO ESPECIAL DISSOCIADOS DO ACÓRDÃO RECORRIDO. SUMULAS 283 E 284 DO STF. DESCONSTITUIÇÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO DESPROVIDO. 1. Estando as razões do recurso especial dissociadas dos fundamentos do acórdão recorrido, não havendo, portanto, impugnação do decisum, tem incidência as Súmulas 283 e 284 do STF.  ..  3. Agravo regimental desprovido. (AgRg no AREsp 699.369/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/10/2015, DJe 13/11/2015)  grifou-se
+A falta de combate a fundamento suficiente para manter o acórdão recorrido e as razões recursais dissociadas do que ficou decidido pelo Tribunal de piso demonstram a deficiência de fundamentação do recurso, sendo inafastável o teor das Súmulas 283 e 284 do STF.
+3. Anote-se, por fim, que os mesmos óbices impostos à admissão do recurso interposto pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicado o exame do dissídio.
+A propósito:
+RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CRÉDITO EXTRACONCURSAL. CRITÉRIO DE JUROS E CORREÇÃO MONETÁRIA. PRECLUSÃO. RAZÕES DISSOCIADAS. REEXAME DO SÚMULA Nº 284/STF. CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Conforme a jurisprudência desta Corte Superior, o erro passível de correção a qualquer tempo é somente o material, ou seja, o erro aritmético evidente, sendo os critérios utilizados no cálculo dos juros e correção monetária passíveis de preclusão se não impugnados oportunamente.
+2. A exposição de razões dissociadas do que foi decidido no acórdão recorrido revela deficiência na fundamentação do recurso e impede a exata compreensão da controvérsia a ser dirimida. Incidência, por analogia, da Súmula nº 284/STF.
+3. O recurso especial é inviável quando a modificação do acórdão recorrido demanda o reexame do conjunto fático-probatório dos autos, conforme dispõe a Súmula nº 7/STJ.
+4. É firme o entendimento do STJ no sentido de que os mesmos óbices impostos à admissão do recurso interposto pela alínea "a" do permissivo constitucional impedem a análise recursal pela alínea "c", ficando prejudicado o exame do dissídio. Precedentes.
+5. Recurso especial não conhecido. (REsp n. 2.061.682/MT, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 9/2/2026, DJEN de 12/2/2026.)
+Dessa forma, descabida a análise do dissídio jurisprudencial.
+4. Do exposto, conheço do agravo para não conhecer do recurso especial.
+Fica prejudicado o pedido de concessão de tutela provisória para atribuir efeito suspensivo a recurso especial.
+Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
