@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 26/05/2026 a 01/06/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG), João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INEXIGIBILIDADE DE DÉBITO C/C OBRIGAÇÃO DE FAZER E OUTORGA DE ESCRITURA DEFINITIVA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. REPRODUÇÃO DAS RAZÕES DO RESP. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. DECISÃO MANTIDA.
+1. Nos termos do art. 932, III, do Código de Processo Civil e do art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não se conhece de agravo em recurso especial cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação do enunciado 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por COMPANHIA EXCELSIOR DE SEGUROS contra decisão singular da minha lavra pela qual o agravo em recurso especial não foi conhecido em virtude da incidência da Súmula 182/STJ, haja vista a ausência de impugnação específica ao art. 781 do Código Civil (fls. 586-588).
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que a decisão agravada não aplicou corretamente a Súmula 182/STJ, pois todos os pontos foram enfrentados no agravo em recurso especial, com indicação dos arts. 206, § 3º, IX, 757 e 760 do Código Civil, e das Súmulas 278 e 609 do STJ (fls. 593-596).
+A parte sustenta que houve impugnação específica dos fundamentos, conforme o art. 1.021, § 1º, do Código de Processo Civil, com reforço no art. 259, § 2º, do Regimento Interno do Superior Tribunal de Justiça, e precedentes que admitem a repetição de peças anteriores quando revelam a intenção de reforma da decisão (fls. 594-596).
+Defende que não houve reexame de provas ao tratar da doença preexistente da segurada, mas apenas aplicação correta da lei e das cláusulas contratuais, sendo indevida a incidência da Súmula 7/STJ, além da inaplicabilidade da Súmula 609/STJ aos seguros habitacionais, por diferenças estruturais e normativas (fls. 596-601).
+Argumenta, ainda, que a pretensão dos autores está prescrita, por aplicação do art. 206, § 3º, IX, do Código Civil, com marco inicial no sinistro de 6/2/2012 e ajuizamento em 24/5/2022, requerendo o reconhecimento da prescrição trienal e o retorno dos autos para análise dos documentos (fls. 598-600).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INEXIGIBILIDADE DE DÉBITO C/C OBRIGAÇÃO DE FAZER E OUTORGA DE ESCRITURA DEFINITIVA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. REPRODUÇÃO DAS RAZÕES DO RESP. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. DECISÃO MANTIDA.
+1. Nos termos do art. 932, III, do Código de Processo Civil e do art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não se conhece de agravo em recurso especial cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação do enunciado 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+VOTO
+De início destaco que a decisão que não admitiu o recurso especial consignou: a) não ocorrência de vulneração aos arts. 206, § 3º, IX, 757, 760 e 781 do Código Civil, porque o acórdão enfrentou os fatos e o direito; b) deficiência de fundamentação quanto aos arts. 206, § 3º, IX, 757, 760 e 781 do Código Civil, com simples alusão a dispositivos e sem a necessária argumentação, nos termos do art. 1.030, V, do Código de Processo Civil, e do precedente AgREsp 1871253/DF (fls. 560-561).
+No seu agravo em recurso especial, a parte agravante apenas afirmou que o agravo era tempestivo, que incidia a prescrição trienal do art. 206, § 3º, IX, do Código Civil, e que a negativa de cobertura era legítima à luz dos arts. 757 e 760 do Código Civil, sem reexame probatório (fls. 565-569).
+Como se vê, as razões do agravo em recurso especial deixaram de impugnar integralmente os fundamentos da decisão que não admitiu o recurso especial, haja vista que não houve ataque específico ao ponto relativo ao art. 781 do Código Civil, núcleo da deficiência de fundamentação apontada na origem.
+A propósito, a Corte Especial do STJ manteve o entendimento de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo em recurso especial, por aplicação da Súmula 182/STJ (Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Relator Ministro João Otávio de Noronha, Relator para acórdão Ministro Luis Felipe Salomão, julgado em 19/9/2018, DJe 30/11/2018).
+Outrossim, importa esclarecer que, conforme jurisprudência pacífica deste Superior Tribunal de Justiça, a mera reprodução do recurso especial não é suficiente para impugnar a decisão agravada que não admitiu o recurso (AgInt nos EAREsp 1.157.501/SP, Rel. Ministro Moura Ribeiro, Segunda Seção, julgado em 20/8/2019, DJe 22/8/2019).
+Desse modo, sem impugnação específica e suficiente para infirmar todos os fundamentos da decisão que não admitiu o recurso especial na origem, correta a aplicação, por analogia, da Súmula 182/STJ, devendo-se manter a decisão ora agravada integralmente.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
