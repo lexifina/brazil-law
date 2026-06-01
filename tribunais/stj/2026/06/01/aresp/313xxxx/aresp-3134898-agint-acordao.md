@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 26/05/2026 a 01/06/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. SUFICIÊNCIA DA PROVA DOCUMENTAL. INÉPCIA DA INICIAL. REEXAME DE FATOS E PROVAS. VEDADO. SÚMULA N. 7/STJ.
+1. Controvérsia acerca da suficiência da prova documental que instruiu a petição inicial em ação monitória.
+2. O Tribunal de origem, com base nos fatos e nas provas dos autos, concluiu que a cópia da cédula de crédito rural pignoratícia digitalizada e apresentada junto à inicial é prova suficiente para instruir a ação monitória, não havendo a necessidade de juntada do original.
+3. Inviabilidade, ante o óbice da Súmula 7/STJ, de reversão da conclusão do Tribunal de origem, por demandar reexame de fatos e provas dos autos. Precedentes.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por EDMAR FERREIRA DE MIRANDA contra decisão monocrática de minha relatoria que conheceu do agravo para não conhecer do recurso especial em razão do óbice das Súmulas n. 5 e 7 do STJ e 284 do STF.
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+No acórdão recorrido, o Tribunal a quo negou provimento à apelação interposta pelo agravante, mantendo a sentença que entendeu que cópia da cédula de crédito rural pignoratícia digitalizada e apresentada junto à inicial é prova suficiente para instruir a ação monitória, e que a cobrança de comissão de permanência em cédulas de crédito rural é vedada, mas que as instituições financeiras podem cobrar, em substituição à comissão de permanência, os encargos previstos para a fase de normalidade, acrescidos de juros de mora e multa, nos termos da seguinte ementa (fls. 576-582):
+APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. CÉDULA DE CRÉDITO RURAL. INÉPCIA DA INICIAL AFASTADA. INCIDÊNCIA DA COMISSÃO DE PERMANÊNCIA NAS CÉDULAS DE CRÉDITO RURAL. VEDAÇÃO. SUBSTITUIÇÃO POR JUROS REMUNERATÓRIOS ,ACRESCIDOS DE JUROS DE MORA E MULTA CONTRATUAL. POSSIBILIDADE. AUSÊNCIA DE RENÚNCIA TÁCITA. 1 - A cópia da cédula de crédito rural pignoratícia digitalizada e apresentada junto à inicial é prova suficiente para instruir a ação monitória, não havendo a necessidade de juntada do original. 2 - A cobrança de comissão de permanência em cédulas de crédito rural é vedada, tendo em vista que o Decreto- o qual regulamenta o créditoLei nº 167/1967, rural, prevê apenas a incidência de juros moratórios e multa em caso de inadimplência. 3 - Entretanto, em caso de inadimplemento, as instituições financeiras podem cobrar, em substituição à comissão de permanência, os encargos previstos para a fase de normalidade, acrescidos de juros de mora e multa. 4 - Considerando que houve apenas a substituição da comissão de permanência pelo encargo previsto para a fase de normalidade, qual seja, os juros remuneratórios, acrescidos de juros de mora e multa contratual, não há se falar em renúncia tácita. Recurso conhecido e desprovido.
+Sem embargos de declaração.
+Em suas razões, a parte agravante alega que cópia da cédula de crédito rural pignoratícia digitalizada não é suficiente para propositura de ação monitória.
+Aduz inépcia da inicial por vício insanável.
+Defende a inaplicabilidade do óbice da Súmula 7/STJ, uma vez que não haveria necessidade de reexame de fatos e provas.
+Postulou o provimento.
+A parte agravada apresentou impugnação (fls. 726-734).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. SUFICIÊNCIA DA PROVA DOCUMENTAL. INÉPCIA DA INICIAL. REEXAME DE FATOS E PROVAS. VEDADO. SÚMULA N. 7/STJ.
+1. Controvérsia acerca da suficiência da prova documental que instruiu a petição inicial em ação monitória.
+2. O Tribunal de origem, com base nos fatos e nas provas dos autos, concluiu que a cópia da cédula de crédito rural pignoratícia digitalizada e apresentada junto à inicial é prova suficiente para instruir a ação monitória, não havendo a necessidade de juntada do original.
+3. Inviabilidade, ante o óbice da Súmula 7/STJ, de reversão da conclusão do Tribunal de origem, por demandar reexame de fatos e provas dos autos. Precedentes.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Os argumentos do agravo interno não alteram as conclusões expostas na decisão agravada.
+A convicção do Tribunal de origem acerca da ausência de inépcia da inicial por suficiência da prova documental decorreu da análise do conjunto fático-probatório dos autos, como se infere do seguinte excerto do acórdão recorrido:
+1 - A cópia da cédula de crédito rural pignoratícia digitalizada e apresentada junto à inicial é prova suficiente para instruir a ação monitória, não havendo a necessidade de juntada do original. (fl. 578) De início, não prosperar a preliminar suscitada pelo apelante, consubstanciada na inépcia da inicial e na ausência de pressupostos de constituição e de desenvolvimento válido e regular do processo, sobre o argumento de que não houve a juntada de documento essencial, assim o original da avença. Isso porque a inicial foi instruída com a cópia da cédula rural pignoratícia, devidamente acompanhada da planilha de cálculo do débito. Em que pese a ausência do título original, a jurisprudência do STJ e desta Corte de Justiça admite a propositura da ação monitória com base em cópia do título, desde que esta seja suficiente para comprovar a existência do débito (fl. 579).
+A revisão dessas conclusões do acórdão para acolher a pretensão recursal, ou seja, para reconhecer que os documentos comprobatórios que instruíram a petição inicial em ação monitória não são aptos à comprovação do débito, demandaria o reexame de fatos e provas dos autos, providência vedada no âmbito do recurso especial, nos termos da Súmula n. 7/STJ.
+A tese defendida nas razões recursais não está a exigir do STJ a emissão de um juízo acerca da existência ou não de ofensa a tratado ou lei federal, mas sim a base fática sobre a qual se fundou o acórdão recorrido, de que as provas que instruíram a inicial da monitória são suficientes.
+Para decidir em sentido contrário e reconhecer que a petição inicial da ação monitória não se revela apta ao processamento, em especial por ausência de documentos suficientes à sua instrução, seria necessário o reexame do conjunto fático-probatório dos autos, como reconhecido na decisão agravada.
+Nesse sentido, confiram-se as ementas dos recentes julgados desta Corte:
+6. Quanto à alegada violação dos arts. 319 e 700 do CPC, incidem os óbices das Súmulas n. 5 e 7 do STJ, pois a pretensão demanda interpretação de cláusulas contratuais e reexame do conjunto probatório sobre a suficiência da prova escrita e a adequação da via monitória. Tese de julgamento: "1. Aplica-se a Súmula n. 5 do STJ e a Súmula n. 7 do STJ para obstar reinterpretação de cláusulas contratuais e reexame de prova quanto à suficiência da prova escrita na ação monitória. (AREsp n. 2.724.990/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 16/3/2026, DJEN de 19/3/2026.)
+2. O Tribunal de origem consignou expressamente que a petição inicial foi instruída com documentos suficientes (proposta de abertura de conta, faturas e memórias de cálculo detalhadas) para demonstrar a existência da dívida, sua evolução e os encargos incidentes, afastando a alegação de inépcia ou iliquidez. 3. A pretensão de alterar a conclusão das instâncias ordinárias acerca da suficiência e clareza da prova escrita apresentada demandaria, inevitavelmente, o revolvimento de matéria fático-probatória, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ. 4. Agravo conhecido para negar provimento ao recurso especial. (AREsp n. 2.969.321/MT, relator Ministro Raul Araújo, Quarta Turma, julgado em 9/3/2026, DJEN de 16/3/2026.)
+7. Quanto à alegada inépcia da inicial por insuficiência documental, a revisão demandaria reexame de provas, o que é vedado pelo recurso especial.
+Aplica-se a Súmula n. 7 do STJ. 2. A Súmula n. 7 do STJ obsta o reexame da suficiência documental da ação monitória. (AREsp n. 2.791.491/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 9/3/2026, DJEN de 12/3/2026.)
+6. A inépcia da inicial foi corretamente afastada, pois a nota fiscal e a memória de cálculo são idôneas para a monitória; a revisão da aptidão documental demanda reexame de provas (Súmula n. 7 do STJ) (AREsp n. 2.534.960/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 9/2/2026, DJEN de 13/2/2026.)
+A esta Corte não é dado fugir do contexto fático definitivamente delineado nas instâncias ordinárias, tampouco é possível perquirir, a partir da leitura de peças processuais, se os fatos ocorreram de forma diferente daquela apresentada no acórdão recorrido como espera a parte agravante.
+Dessa forma, não há como afastar o óbice da Súmula n. 7/STJ.
+Inexistentes, portanto, elementos novos a recomendar a alteração do resultado do julgamento, a decisão agravada deve ser mantida em sua integralidade.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
