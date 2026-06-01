@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de BRUNO HENRIQUE PEREIRA DA ROCHA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação n. 0045067-08.2018.8.26.0050).
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 6 anos de reclusão, em regime inicial fechado, e 600 dias-multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006 (e-STJ fls. 8/19).
+Irresignada, a defesa interpôs recurso de apelação, o qual foi desprovido (e-STJ fls. 20/49).
+Em consulta ao Sistema Justiça, constato que a defesa interpôs recurso especial, o qual não foi admitido na origem, bem como agravo em recurso especial, que não foi conhecido pela Presidência desta Corte (AREsp n. 2.293.458/SP).
+Após o trânsito em julgado da condenação, a defesa impetrou habeas corpus nesta Corte, ocasião em que postulou a aplicação da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, sobrevindo acórdão da Quinta Turma, sob a relatoria da Ministra DANIELA TEIXEIRA, no sentido de aplicar a causa de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/06, redimensionando a pena para 5 anos de reclusão, em regime inicial semiaberto, além de 500 dias-multa (HC n. 813.327/SP). Os subsequentes embargos de declaração opostos pela defesa, ainda sob a relatoria do Ministra DANIELA TEIXEIRA foram acolhidos, por duas vezes, para esclarecer que o regime inicial efetivamente estabelecido foi o semiaberto (EDcl no HC n. 813.327/SP e EDcl no EDcl no HC n. 813.327/SP).
+No presente mandamus (e-STJ fls. 2/7), o impetrante sustenta que o acórdão proferido no HC n. 813.327/SP impôs constrangimento ilegal ao paciente, pois aplicou a causa de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006 na fração mínima, em evidente bis in idem, tendo em vista que a quantidade das drogas apreendidas foram sopesadas na primeira e terceira fases da dosimetria.
+Em consequência da redução da pena privativa de liberdade, entende que o paciente fará jus ao regime inicial aberto e à substituição da pena privativa de liberdade por restritivas de direitos.
+Ao final, formula pedido liminar para que o paciente aguarde em regime aberto o julgamento definitivo deste writ e, no mérito, pede que a fração da minorante seja alterada para 2/3, com o consequente estabelecimento do regime aberto e a substituição da pena privativa de liberdade por restritivas de direitos.
+É o relatório. Decido.
+De início, constato que o presente inconfomismo volta-se contra acórdão proferido pela Quinta Turma desta Corte que, sob a relatoria da Ministra DANIELA TEIXEIRA, aplicou a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 na fração mínima mediante fundamento que reputa ser ilegal (HC 813.327/SP).
+Dessa forma, embora o impetrante aponte o Tribunal de Justiça como autoridade impetrada, na verdade ataca os termos do acórdão proferido no âmbito do Superior Tribunal de Justiça, razão pela qual é flagrante a incompetência desta Corte para processar e julgar originariamente este habeas corpus.
+Ante o exposto, com base no art. 210 do Regimento Interno do STJ, liminarmente, não conheço do habeas corpus.
+Traslade-se, para estes autos, cópia dos acórdãos proferidos no HC n. 813.327/SP.
+Intimem-se.
+EMENTA
