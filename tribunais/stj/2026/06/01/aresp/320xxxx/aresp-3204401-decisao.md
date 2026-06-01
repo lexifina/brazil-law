@@ -1,0 +1,30 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - PREVI contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 29/11/2024.
+Concluso ao gabinete em: 27/4/2026.
+Ação: em cumprimento de sentença, ajuizada por RODRIGO CARVALHO COSTA E OUTROS, em face de CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - PREVI, na qual requer a percepção de parcelas de cesta alimentação, a revisão da complementação de aposentadoria da pensionista e o pagamento das diferenças apuradas.
+Sentença: julgou procedentes os pedidos, para: i) acolher a impugnação; ii) declarar excesso de execução de R$ 12.650,04 (doze mil, seiscentos e cinquenta reais e quatro centavos); iii) extinguir o cumprimento de sentença; iv) condenar a parte exequente ao pagamento de honorários de 10% (dez por cento) sobre o excesso reconhecido.
+Acórdão: negou provimento ao recurso de apelação interposto por RODRIGO CARVALHO COSTA E OUTROS, nos termos da seguinte ementa (e-STJ fls. 515-516):
+APELAÇÃO CÍVEL - CUMPRIMENTO DE SENTENÇA - DECORRENTE DA PERCEPÇÃO DE VALORES REFERENTES A OBRIGAÇÃO DE PAGAR QUANTIA CERTA, PRINCIPAL E HONORÁRIOS ADVOCATÍCIOS, ORIUNDOS DE SENTENÇA DE REVISÃO DE APOSENTADORIA SUPLEMENTAR - PREVIDÊNCIA PRIVADA - VALOR INCONTROVERSO PAGO PELA EXECUTADA E LEVANTADO PELA EXEQUENTE - R$ 236.127,94 (DUZENTOS E TRINTA E SEIS MIL, CENTO E VINTE E SETE REAIS E NOVENTA E QUATRO REAIS) - IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA - EXCESSO DE EXECUÇÃO NO IMPORTANTE DE R$ 12.650,04 (DOZE MIL SEISCENTOS E CINQUENTA REAIS E QUATRO CENTAVOS) - DIFERENÇA EM RAZÃO DE APLICAÇÃO AO NÃO DA SÚMULA 111 DO STJ - LAUDO PERICIAL QUE SUSTENTA A DIFERENÇA APURADA COMO EXCESSO DE EXECUÇÃO - APLICAÇÃO DA SÚMULA 111 DO STJ: OS HONORÁRIOS ADVOCATÍCIOS, NAS AÇÕES PREVIDENCIÁRIAS, NÃO INCIDEM SOBRE AS PRESTAÇÕES VENCIDAS APÓS A SENTENÇA - FIXAÇÃO QUANDO DA ELABORAÇÃO DOS CÁLCULOS MATEMÁTICOS -SENTENÇA ACOLHE A IMPUGNAÇÃO DA EXECUÇÃO E DAR POR SATISFEITA O CUMPRIMENTO DA OBRIGAÇÃO - QUESTÃO SOBRE A INCIDÊNCIA DA SÚMULA NO CUMPRIMENTO DE SENTENÇA DAS AÇÕES PREVIDENCIÁRIAS - MANUTENÇÃO DO ENUNCIADO SUMULAR - RECURSO CONHECIDO E IMPROVIDO - DECISÃO UNÂNIME.
+Embargos de Declaração: opostos por RODRIGO CARVALHO COSTA E OUTROS, foram acolhidos para o fim de inverter o ônus sucumbencial, reconhecer a sucumbência mínima dos apelantes e determinar que a PREVI arque com custas e honorários de 10% (dez por cento) sobre o valor da condenação.
+Recurso especial: alega violação dos arts. 85, § 1º, e 489, § 1º, II, III, IV e VI, do CPC. Além da negativa de prestação jurisdicional, afirma que houve indevida inversão do ônus sucumbencial apesar do acolhimento da impugnação ao cumprimento de sentença. Aduz que são devidos honorários no cumprimento de sentença, inclusive quando a impugnação é acolhida parcialmente. Argumenta que o acórdão contraria o entendimento do STJ firmado no Tema 410, quanto ao arbitramento de honorários no acolhimento, ainda que parcial, da impugnação.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 489 do CPC
+Do exame do acórdão recorrido, constata-se que as questões de mérito foram devidamente analisadas e discutidas, de modo que a prestação jurisdicional foi esgotada.
+É importante salientar que a ausência de manifestação a respeito de determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Logo, não há contrariedade ao art. 489 do CPC, pois o Tribunal de origem decidiu de modo claro e fundamentado.
+No mesmo sentido: AgInt nos EDcl no AREsp n. 1.547.208/SP, Terceira Turma, DJe 19/12/2019 e AgInt no AREsp n. 1.480.314/RJ, Quarta Turma, DJe 19/12/2019.
+- Da fundamentação deficiente (Súmula 284/STF)
+Os argumentos invocados pela parte agravante não demonstram como o acórdão recorrido violou os arts. 489, § 1º, II, III, IV e VI, do CPC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF. Nesse sentido: AgInt no AREsp 1.947.682/SP, Terceira Turma, DJe 20/12/2023; e AgInt no AREsp 2.138.858/SP, Quarta Turma, DJe 15/6/2023.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à base de cálculo sobre a qual incidiria os honorários sobre a condenação, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor da condenação (e-STJ fls. 530) para 12% (doze por cento), observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO DE APOSENTADORIA SUPLEMENTAR E PAGAMENTO DAS DIFERENÇAS APURADAS. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de revisão de aposentadoria suplementar e pagamento das diferenças apuradas.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+3. O recurso especial não pode ser conhecido quando a alegação de ofensa à lei for genérica.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo conhecido. Recurso especial conhecido em parte e, nessa extensão, não provido.
