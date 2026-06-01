@@ -1,0 +1,34 @@
+DECISÃO
+Em análise, recurso especial interposto por RAIMUNDA REIS DOS PASSOS contra acórdão do Tribunal de Justiça do Estado do Maranhão assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO COLETIVA. CUMPRIMENTO INDIVIDUAL DE SENTENÇA. EXTINÇÃO EM RELAÇÃO À AGRAVANTE. ILEGITIMIDADE ATIVA. SERVIDORA VINCULADA A SINDICATO ESPECÍFICO DE SUA CATEGORIA. NÃO ABRANGÊNCIA DA DECISÃO QUE BENEFICIOU ENTIDADE SINDICAL DIVERSA (MAIS AMPLA). APLICAÇÃO DO PRINCÍPIO DA UNICIDADE SINDICAL. PRECLUSÃO. NÃO OCORRÊNCIA. RECURSO CONHECIDO E DESPROVIDO.
+I. O cumprimento individual de sentença proferida em ação coletiva requer que o beneficiário do decisum seja representado ou substituído pela entidade sindical que promoveu a demanda, assim como não seja vinculado a um sindicato específico representativo de sua categoria, sob pena de ofensa ao princípio da unicidade sindical (art. 8º, II, da CF/88).
+II. Evidenciado que a agravante - auxiliar de serviços lotada em unidade integrada de ensino - pertence a categoria que possui sindicato específico atuante na mesma base territorial, qual seja, o SINPROESEMMA, não há como ser beneficiada pela sentença proferida em ação coletiva ajuizada pelo SINTSEP
+III. Inviável o reconhecimento da preclusão quanto à aferição da legitimidade da parte, considerando que a matéria de ordem pública somente foi conhecida pelo juízo a quo nesta fase, ocasião em que restou comprovado o não enquadramento da recorrente nos termos da sentença exequível.
+IV. Recurso conhecido e desprovido (fls. 85-86).
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, a recorrente sustenta, em síntese, violação aos arts. 489, § 1º, IV e 1.022, II, do CPC, por negativa de prestação jurisdicional, uma vez que houve omissão quanto à análise da tese de preclusão da aferição da legitimidade ativa da autora na fase de liquidação coletiva do título e de que o cargo ocupado não seria abrangido pelo sindicato apontado como mais específico.
+Contrarrazões apresentadas
+É o relatório.
+Passo a decidir.
+Quanto à apontada violação aos arts. 489, §1º, IV e 1.022, II, do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando o seguinte:
+Cinge-se a controvérsia recursal em definir se a agravante possui legitimidade para executar individualmente o título judicial formado nos autos da ação coletiva nº 6542/2005, proposta pelo Sindicato dos Trabalhadores do Serviço Público do Estado do Maranhão - SINTSEP, o qual reconheceu o direito dos servidores à recomposição das perdas salariais sofridas em decorrência da conversão do cruzeiro real para URV.
+Analisando detidamente os autos originários, observa-se que o juízo a quo, ao extinguir a execução em relação à agravante, consignou que a mesma exerce o cargo de Auxiliar de Serviços na Unidade Integrada Haydee Chaves, o que atrai, por força do princípio da unicidade sindical, a representação por sindicato próprio, qual seja, o SINPROESEMMA.
+O magistrado singular esclareceu que o aludido ente sindical, específico para representar os interesses dos trabalhadores em Educação Básica das Redes Públicas Estadual e Municipais do Estado do Maranhão, engloba servidores de apoio de qualquer nível e função (art. 5º, alínea a, inciso I, do Estatuto do SINPROESEMMA), dentre os quais se enquadra a ora recorrente, fato que impede a sua vinculação ao SINTSEP, autor da ação coletiva que deu ensejo à sentença executada.
+ ..
+De outro norte, impende gizar que, em se tratando de ação coletiva que beneficiou mais de dez mil servidores, decerto que somente nesta fase de cumprimento individual de sentença seria possível aferir o não enquadramento da recorrente entre os abarcados pelo título executado, tarefa inviável em sede de liquidação, sob pena de tornar o processo infindável, de sorte que não há como se considerar a ocorrência do instituto da preclusão.
+ ..
+Assim, forçoso concluir que os servidores que pertencem a uma categoria específica, tal como a agravante, não podem pleitear a execução de um julgado que beneficiou entidade sindical diversa (mais ampla) e nem optar pela filiação, uma vez que a vinculação ao sindicato representativo da categoria é automática, em decorrência da lei e do princípio insculpido no art. 8º, II, da Carta Magna, de sorte que não merece reparos a decisão que, reconhecendo no momento adequado a ilegitimidade ad causam, extinguiu o feito em relação à ora recorrente (fls. 87-91).
+E ainda, em sede de julgamento de embargos de declaração, a Corte de origem assim se manifestou quanto às alegadas omissões:
+Na espécie, os temas relevantes para a apreciação da causa posta em discussão no âmbito deste Sodalício foram examinados com acuidade, especialmente no que diz respeito à vinculação da embargante, por força de lei, a sindicato mais específico que o SINTSEP, autor da ação coletiva cuja sentença se pretende executar, inexistindo a omissão apontada pela embargante, consoante se infere da própria ementa do julgado, adiante transcrita:
+ ..
+De outro norte, no que tange à alegada preclusão do debate sobre a tese examinada, impende gizar que, em se tratando de ação coletiva que beneficiou mais de dez mil servidores, somente na fase de cumprimento individual de sentença seria possível aferir o não enquadramento da recorrente entre os abrangidos pela sentença executada.
+Ademais, por consistir a ilegitimidade matéria de ordem pública, pode e deve ser suscitada em qualquer fase processual, tal como consignado no acórdão vergastado, notadamente na fase executiva, quando há que se perquirir se quem está requerendo a execução do título judicial tem legitimidade para fazê-lo (fls. 161-162).
+Como visto, a negativa de prestação jurisdicional não restou configurada.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada.
+Assim, inexiste violação aos arts. 489, §1º, IV e 1.022, II, do CPC, pois o Tribunal de origem julgou integralmente a lide, de maneira suficientemente fundamentada, em conformidade com o que lhe foi apresentado, não obstante em sentido diverso ao pretendido pela parte recorrente.
+Isso posto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Intimem-se
+ EMENTA
