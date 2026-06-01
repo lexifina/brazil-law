@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 26/05/2026 a 01/06/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C REPARAÇÃO DE DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL.
+1. Ação de obrigação de fazer c/c reparação de danos materiais e compensação por danos morais.
+2. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial em razão da não impugnação do seguinte fundamento da decisão de inadmissibilidade: incidência da Súmula 7 do STJ.
+3. Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Precedentes.
+4. Agravo interno não provido.
+RELATÓRIO
+Relatora: Ministra NANCY ANDRIGHI
+Examina-se agravo interno, manejado por ESTRUTURAL BRASIL EMPREENDIMENTOS IMOBILIARIOS LTDA, contra decisão unipessoal que não conheceu do agravo em recurso especial que interpusera.
+Ação: de obrigação de fazer c/c reparação de danos materiais e compensação por danos morais, ajuizada por RONALDO ROBERTO DE MIRANDA e MARLENE LACERDA ALMEIDA DE MIRANDA, em face de AGEST INCORPORADORA LTDA, ESTRUTURAL BRASIL EMPREENDIMENTOS IMOBILIÁRIOS LTDA e BRASIL BROKERS NATAL PARTICIPAÇÕES LTDA, em virtude de contrato de compra e venda de bem imóvel, na qual requerem a suspensão das cobranças contratuais até a entrega do imóvel, a devolução em dobro da comissão de corretagem e o pagamento de lucros cessantes.
+Acórdão: deu provimento ao recurso de apelação interposto por BRASIL BROKERS NATAL PARTICIPAÇÕES LTDA e negou provimento ao recurso de apelação interposto por ESTRUTURAL BRASIL EMPREENDIMENTOS IMOBILIÁRIOS LTDA, nos termos da seguinte ementa:
+Civil, consumidor e processual civil. Apelações cíveis em ação de obrigação de fazer c/c indenização por danos morais e materiais. Sentença de parcial procedência. Recurso da Estrutural Brasil Empreendimentos Imobiliários Ltda.: preliminar de ilegitimidade passiva. Rejeição. Empresa criada para a finalidade de executar empreendimento determinado. Legitimidade de todo o grupo econômico. Mérito: empreendimento entregue fora do prazo pactuado. Lucros cessantes. Prejuízo presumido. Tema repetitivo nº 996. Recurso conhecido e desprovido. Apelação da Brasil Brokers Natal Participações Ltda. Preliminar de ilegitimidade passiva. Rejeição. Pretensão de devolução de comissão de corretagem. Mérito: parte que é mera intermediadora do negócio. Ausência de responsabilidade quanto ao atraso na entrega do imóvel. Exclusão da condenação de pagamento danos materiais. Reforma da sentença nesse ponto. Conhecimento e provimento do recurso. (e-STJ fl. 784)
+Embargos de Declaração: opostos por GLOBAL CONSULTORIA IMOBILIÁRIA LTDA, incorporadora de BRASIL BROKERS NATAL PARTICIPAÇÕES LTDA, foram acolhidos para o fim de excluir a condenação da embargante ao pagamento de honorários advocatícios, sem impor condenação da parte autora ao pagamento de honorários em favor da embargante.
+Decisão unipessoal: não conheceu do agravo em recurso especial interposto devido à ausência de impugnação específica a fundamento da decisão que inadmitiu o recurso especial (e-STJ fls. 919-921).
+Agravo interno: nas razões de e-STJ fls. 933-936, a parte agravante alega o preenchimento de todos os requisitos de admissibilidade recursal. Afirma ter impugnado de forma direta e específica o fundamento de inadmissão, esclarecendo, com base nos itens 5 e 8 do agravo em recurso especial, que a controvérsia demanda apenas reenquadramento jurídico das premissas fáticas já fixadas no acórdão recorrido, não exigindo reexame de provas, o que afastaria a incidência da Súmula 7/STJ. Aduz a existência de fato incontroverso reconhecido no acórdão (ausência de participação da agravante no contrato de compra e venda e no financiamento), de modo que a discussão sobre legitimidade passiva e necessidade de instauração do incidente de desconsideração da personalidade jurídica constitui matéria eminentemente jurídica. Requer, assim, o provimento do agravo para que seja determinado o processamento do recurso especial e apreciado o mérito.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C REPARAÇÃO DE DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL.
+1. Ação de obrigação de fazer c/c reparação de danos materiais e compensação por danos morais.
+2. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial em razão da não impugnação do seguinte fundamento da decisão de inadmissibilidade: incidência da Súmula 7 do STJ.
+3. Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Precedentes.
+4. Agravo interno não provido.
+VOTO
+Relatora: Ministra NANCY ANDRIGHI
+A decisão agravada não conheceu do agravo em recurso especial, com fundamento no art. 932, III, do CPC, ante a ausência de impugnação do seguinte fundamento da decisão de inadmissibilidade proferida pelo TJ/RN:
+i) incidência da Súmula 7/STJ, considerando as particularidades citadas à e-STJ fl. 861 e em harmonia ao entendimento desta Corte, quanto ao art. 133 do CPC e à ilegitimidade passiva da parte, prejudicado, ainda, o dissídio jurisprudencial.
+I. Do reexame de contexto fático-probatório (Súmula 7 do STJ)
+1. Não obstante as razões da agravante, verifica-se, da análise de seu agravo em recurso especial (e-STJ fls. 886-889), que não foi refutada a incidência da Súmula 7/STJ de forma específica e consistente, considerando, precipuamente, os termos da decisão então agravada (e-STJ fls. 861-865), limitando-se a parte a alegar genericamente que pretendia a aplicação do direito à hipótese, sem demonstrar quais os pressupostos fáticos necessários ao julgamento do recurs o estavam delineados no acórdão recorrido, de modo a combater as particularidades citadas.
+2. Nesse sentido, confira-se: AgInt no AREsp 2.441.269/RS, Terceira Turma, DJe de 28/2/2024 e AgInt no AREsp 2.326.551/GO, Quarta Turma, DJe de 21/12/2023.
+3. Em atenção ao princípio da dialeticidade, cumpre à parte agravante apontar que, nas razões do agravo em recurso especial, combateu os fundamentos da decisão agravada, ônus do qual não se desincumbiu, não sendo possível impugnar a decisão de admissibilidade nas razões do agravo interno.
+4. Assim sendo, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Nesse sentido: AgInt no AREsp 2.152.939/RS, Terceira Turma, DJe de 18/8/2023 e AgInt no AREsp 1.895.548/GO, Quarta Turma, DJe de 18/3/2022.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
