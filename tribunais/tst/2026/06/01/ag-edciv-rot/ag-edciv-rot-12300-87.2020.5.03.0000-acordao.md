@@ -1,0 +1,67 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Superior do Trabalho
+PROCESSO Nº TST-Ag-EDCiv-ROT - 12300-87.2020.5.03.0000
+A C Ó R D Ã O
+Subseção II Especializada em Dissídios Individuais
+GMMAR/tas
+AGRAVO EM RECURSO ORDINÁRIO EM AÇÃO RESCISÓRIA.
+APELO INTERPOSTO CONTRA DECISÃO COLEGIADA. ERRO
+GROSSEIRO. Na compreensão da OJ 412 da SBDI-1/TST, "é
+incabível agravo interno (art. 1.021 do CPC de 2015, art. 557, § 1º,
+do CPC de 1973) ou agravo regimental (art. 235 do RITST) contra
+decisão proferida por Órgão colegiado. Tais recursos destinam-se,
+exclusivamente, a impugnar decisão monocrática nas hipóteses
+previstas. Inaplicável, no caso, o princípio da fungibilidade ante a
+configuração de erro grosseiro". Na hipótese, a decisão agravada
+emana da SBDI-2 em composição colegiada. Agravo não
+conhecido.
+Vistos, relatados e discutidos estes autos de Agravo em Embargos de Declaração
+Cível em Recurso Ordinário Trabalhista nº TST-Ag-EDCiv-ROT - 12300-87.2020.5.03.0000, em que é
+Agravante KIVIA NATHIELLE BORGES AGUIAR e são Agravados BANCO BRADESCO S.A. e CALLINK
+SERVIÇOS DE CALL CENTER LTDA..
+Trata-se de agravo interposto contra acórdão proferido por esta Subseção, que
+deu provimento ao recurso da autora para julgar a ação rescisória procedente.
+Contraminutado.
+É o relatório.
+V O T O
+CONHECIMENTO
+Esta Subseção, em sessão presencial realizada em 2.9.2025, proveu o recurso
+ordinário da autora para julgar a ação rescisória procedente.
+Em sessão virtual de 11.12.2025 a 18.12.2025, os embargos declaratórios opostos
+pela ré foram desprovidos.
+Inconformada, a parte ré apresenta agravo, insistindo no provimento de seu
+apelo.
+Sem razão.
+O art. 1.021 do CPC limita, peremptoriamente, o cabimento do agravo interno à
+impugnação de decisão monocrática. Eis sua dicção:
+"Art. 1.021. Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão
+colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal."
+Da mesma forma, os arts. 265 e seguintes do atual Regimento Interno desta Corte
+estabelecem que não cabe agravo interno contra acórdão proferido por órgão colegiado do TST, mas,
+apenas, contra decisões monocráticas do Presidente do Tribunal, do Presidente de Turma e do Relator.
+Na hipótese, a decisão agravada emana da Subseção Especializada, o que implica
+a existência de recurso próprio, nos termos da lei processual, e torna o apelo manifestamente incabível.
+Destaque-se inviável a aplicação do princípio da fungibilidade, porquanto a
+petição recursal é clara em relação ao intuito de interpor agravo interno direcionado a esta própria
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100675E5934D9CA24E.
+Subseção.
+A situação evoca o entendimento consignado na Orientação Jurisprudencial 412
+da SBDI-1/TST, no sentido de configurar erro grosseiro:
+"AGRAVO INTERNO OU AGRAVO REGIMENTAL. INTERPOSIÇÃO EM FACE DE DECISÃO
+COLEGIADA. NÃO CABIMENTO. ERRO GROSSEIRO. INAPLICABILIDADE DO PRINCÍPIO DA
+FUNGIBILIDADE RECURSAL. (nova redação em decorrência do CPC de 2015) – Res. 209/2016 – DEJT
+divulgado em 01, 02 e 03.06.2016
+É incabível agravo interno (art. 1.021 do CPC de 2015, art. 557, §1º, do CPC de 1973) ou agravo
+regimental (art. 235 do RITST) contra decisão proferida por Órgão colegiado. Tais recursos destinam￾se, exclusivamente, a impugnar decisão monocrática nas hipóteses previstas. Inaplicável, no caso, o
+princípio da fungibilidade ante a configuração de erro grosseiro."
+À vista de todo o exposto, não conheço do apelo.
+ISTO POSTO
+ACORDAM os Ministros da Subseção II Especializada em Dissídios Individuais do
+Tribunal Superior do Trabalho, por unanimidade, não conhecer do agravo, por incabível.
+Brasília, 1 de junho de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+MORGANA DE ALMEIDA
+Ministra Relatora
+Firmado por assinatura digital em 01/06/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100675E5934D9CA24E.
