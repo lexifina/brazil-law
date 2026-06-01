@@ -1,0 +1,16 @@
+DECISÃO
+PAULO HENRIQUE FREIRE alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1501316-08.2025.8.26.0548.
+Consta dos autos que o paciente foi condenado a 5 anos de reclusão, em regime semiaberto, mais multa, pela prática do delito de tráfico de drogas.
+A defesa pretende, por meio deste writ, a aplicação da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, com a consequente fixação do regime aberto e substituição da reprimenda privativa de liberdade por restritivas de direitos.
+Decido.
+O Tribunal de origem assim fundamentou a impossibilidade de aplicação do redutor descrito no art. 33, § 4º, da Lei de Drogas (fls. 46-47):
+A despeito do preconizado nas razões defensivas, o tópico não comporta alteração.
+Isto porque o recorrente já ostenta duas condenações pelo delito de tráfico de drogas, uma delas com contornos definitivos (proc. nº 1500336-61), que, embora inaptas à valoração negativa da reincidência e dos antecedentes (Súmula 444/STJ), servem ao afastamento da incidência da minorante em questão quando demonstram que o agente é habitual na prática delitiva (STJ, AgRg no HC nº 454.951/MS, Rel. Min. Ribeiro Dantas, Quinta Turma, j. 16/8/2018, D Je de 24/8/2018).
+Com efeito, verifico que ambos os feitos nos quais o recorrente figurou como réu lhe imputavam igual tipificação penal que a do presente caso, revelando certa sistemática em seu agir delituoso. Ademais, a inserção do acusado na mercancia ilícita mostra- se contínua. Nesse sentido, os autos nº 1500251-75 foram instaurados para apurar fatos ocorridos em 14/01/2025, resultando em sentença condenatória proferida em 15/05/2025, oportunidade em que agraciado o réu pela aplicação do redutor legal; e os autos nº 1500336-61, por sua vez, tiveram origem em fatos datados de 20/01/2025, com sentença condenatória em 24/07/2025; estes decorrem do auto de prisão em flagrante de fls. 07, lavrado em 26/03/2025.
+De tal contexto, exsurge a inequívoca dedicação do acusado a atividades criminosas, circunstância que, por si só, impede a aplicação da causa especial de diminuição de pena prevista no §4º do artigo 33 da Lei de Drogas.
+Segundo a orientação desta Corte Superior, a condenação definitiva por fato anterior ao crime descrito na denúncia, com trânsito em julgado posterior à data do ilícito de que ora se cuida, embora não configure a agravante da reincidência, pode caracterizar maus antecedentes e ensejar o acréscimo da pena-base. Nesse sentido: AgRg no HC n. 607.497/SC, Rel. Ministro Rogerio Schietti, 6ª T., DJe 30/9/2020.
+No mesmo norte: "A condenação definitiva registrada por crime anterior e com o trânsito em julgado posterior à data do fato apurado na ação penal, a despeito de não caracterizar a agravante da reincidência, pode ser valorada como maus antecedentes. Precedentes." (AgRg no HC n. 817.651/PE, Rel. Ministro Messod Azulay Neto, 5ª T., DJe 30/11/2023).
+Assim, apesar da menção a ações penais em curso, a existência de condenação por fato anterior, ainda que com trânsito em julgado posterior, afasta a alegação de ilegalidade manifesta na negativa de aplicação da referida minorante.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
