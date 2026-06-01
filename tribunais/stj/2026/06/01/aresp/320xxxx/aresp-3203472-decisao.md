@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de Agravo apresentado por TRANSPORTADORA PEDERSINI LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO, assim resumido:
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO COM VÍTIMA FATAL. AÇÃO INDENIZATÓRIA. DESERÇÃO. NÃO CONHECIMENTO DO 1O RECURSO. CONTRATO DE SEGURO. PROVA PERICIAL. INOVAÇÃO RECURSAL DANOS MORAIS. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. PROVAS SUFICIENTES NOS AUTOS. COBERTURA CONTRATUAL LIMITADA. SÚMULA 402 DO SUPERIOR TRIBUNAL DE JUSTIÇA. SENTENÇA MANTIDA. 1A APELAÇÃO NÃO CONHECIDA. 2A APELAÇÃO DESPROVIDA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz violação aos arts. 489, § 1º, IV, e 1.013, §§ 1º e 2º, do CPC, no que concerne necessidade de reconhecimento da nulidade do acórdão citra petita por ausência de enfrentamento dos pedidos e argumentos da apelação da litisdenunciada, em razão de não ter havido manifestação sobre pensionamento do cônjuge, desconto do DPVAT e redução dos danos morais. Argumenta a parte recorrente que:
+A decisão proferida foi citra petita, pois deixou de analisar todos os pedidos realizados pela Mapfre nas razões do seu recurso de apelação.
+A demandada apresentou seu recurso de apelação junto ao id. 37305132, ocasião em que requereu, entre outros pedidos, fosse reformada a sentença para julgar improcedente o pedido de pensionamento do cônjuge da vítima por falta de dependência econômica, ou, subsidiariamente, a sua redução; bem como fosse analisado o pedido de desconto do seguro DPVAT, nos termos da Súmula 246 do STJ; e fosse reduzido o quantum indenizatório a título de danos morais.
+Dá simples leitura do acórdão proferido, é possível analisar que a Douta Câmara a quo deixou de enfrentar os pedidos e argumentos deduzidos pelo recorrente, capazes de alterar a sentença.
+Salienta-se que, referente aos pedidos acima, não há nenhuma manifestação no acórdão recorrido.
+ ..
+Salienta-se que, em que pese haver o pedido expresso para reforma da sentença quanto ao pensionamento do cônjuge da vítima arbitrado na sentença; pedido de desconto do seguro DPVAT recebido da verba indenizatória, nos termos da Súmula 246 do STJ; e o pedido de redução do quantum indenizatório a título de danos morais, NADA, nenhuma manifestação restou consignada no acórdão.
+O Tribunal de origem deixou de se manifestar acerca dos pedidos realizados nas razões de apelação, deixando de tratar as questões suscitadas, carecendo de fundamentação a decisão proferida.
+ ..
+A ausência de fundamentação quanto as teses e pedidos constantes no recurso de apelação, constitui nulidade absoluta, reconhecível inclusive ex officio, uma vez que a prestação jurisdicional não se completou.
+Desta forma, plenamente demonstrada a nulidade do acórdão proferido, e a contrariedade dos artigos 489, §1º, IV e artigo 1.013, §§1º e 2º do CPC (fls. 775-777).
+É o relatório.
+Decido.
+Quanto à controvérsia, incidem as Súmulas n. 282/STF e 356/STF, porquanto a questão não foi examinada pela Corte de orige m, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: ;"O Tribunal de origem não se manifestou sobre a alegação de preclusão do direito a pleitear nova produção de provas após o juízo saneador, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF" (AgInt no AREsp n. 2.700.152/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 21/3/2025).
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.974.222/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025; AgInt no AREsp n. 2.646.591/PE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AREsp n. 2.645.864/AL, relator Ministro Moura Ribeiro, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.732.642/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, DJEN de 18/3/2025; AgRg no REsp n. 2.142.363/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 5/3/2025; AgRg no AREsp n. 2.402.126/SC, relator Ministro Ribeiro Dantas, Quinta Turma, DJEN de 26/2/2025; REsp n. 2.009.683/SP, relatora Ministra Daniela Teixeira, Quinta Turma, DJEN de 25/2/2025; AgInt no REsp n. 2.162.145/RR, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 20/2/2025; AgInt nos EDcl no REsp n. 1.933.409/PA, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJEN de 19/12/2024; AgRg no AREsp n. 1.574.507/TO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 9/12/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
