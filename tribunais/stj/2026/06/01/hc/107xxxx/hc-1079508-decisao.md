@@ -1,0 +1,9 @@
+DECISÃO
+Paciente que alega sofrer constrangimento ilegal em decorrência de acórdão proferido pela Corte local por ocasião do julgamento de revisão criminal.
+Verifico, de plano, que a inicial do writ não veio acompanhada de cópia do inquérito policial, o que prejudica sobremaneira a plena compreensão do caso e inviabiliza, assim, o exame do pedido.
+A defesa alega violação dos preceitos estabelecidos no art. 226 do CPP no procedimento de reconhecimento de pessoa por fotografia realizado na delegacia, contudo, não cuidou de juntar os autos de reconhecimento de pessoa ou os termos de declarações prestadas pelas vítimas/reconhecedoras.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração, iniciativa que não se desincumbiu o impetrante. Nessa diretriz, destaco os seguintes julgados desta Corte: HC n. 555.157/RS, Rel. Ministro Leopoldo de Arruda Raposo (desembargador convocado do TJ/PE), 5ª T., DJe 28/2/2020.
+Ademais, a alegação de que "há gritante divergência na descrição das vestimentas do autor do crime", pois, "enquanto a testemunha protegida B. B. C. afirmou que o indivíduo trajava uma "blusa de moletom cinza clara com zíper na frente", a imagem da câmera de segurança (fls. 298 dos autos originais) revela que o autor do delito usava uma "blusa fechada com bolsos na frente" demanda dilação probatória, medida vedada no âmbito do writ.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
