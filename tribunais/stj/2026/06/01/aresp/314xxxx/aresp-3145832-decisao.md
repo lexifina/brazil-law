@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual ALCIDES BEZERRA LEITE e OUTROS se insurgiram contra o acórdão do TRIBUNAL DE JUSTIÇA DE SÃO PAULO assim ementado (fl. 231):
+EMBARGOS DE DECLARAÇÃO - Ação de cobrança que se relaciona à impetração do Mandado de Segurança Coletivo nº 0600594-25.2008.8.26.0053 (AC nº 994.08.178766-0) - Embargos de declaração que se fundamentam na inexigência do trânsito em julgado do mandado de segurança coletivo como requisito processual para o ajuizamento da ação de cobrança - Não conhecimento - Razões recursais dissociadas do que foi decidido no V. Acórdão de fls. 199/204. Recurso não conhecido.
+Nas razões de seu recurso especial, a parte ora agravante afirma (fl. 301):
+Definitivamente, o trânsito em julgado da ação mandamental não é requisito processual para ajuizamento da presente demanda, restando claro que este entendimento ignora jurisprudência do E. STF acerca da presente ação de cobrança de parcelas pretéritas à impetração, cabendo por isso a reforma do v. acórdão recorrido para que o feito retorno ao segundo grau de jurisdição onde deverá prosseguir o julgamento da demanda.
+A parte adversa não apresentou contrarrazões (fl. 334).
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.146/STJ), e foi assim delimitada:
+Definir se o ajuizamento de ação de cobrança decorrente de sentença concessiva em mandado de segurança coletivo pressupõe o trânsito em julgado da referida decisão, bem como se é possível convalidar eventual vício com a superveniência do trânsito em julgado da ação mandamental. (REsps 2.217.138/SP, 2.217.139/SP e 2.217.140/SP , relator Ministro Marco Aurélio Bellizze, DJe de 16/03/2026).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+O envio do recurso especial a esta Corte Superior deve ocorrer somente após o esgotamento da instância ordinária, formalizado com o novo julgamento pelo Tribunal de origem, quando então será possível examinar, no âmbito do STJ, as matérias jurídicas que eventualmente permanecerem controvertidas. Essa cautela também evita o fracionamento do recurso e previne eventual violação ao princípio da unicidade recursal, que veda a interposição simultânea ou sucessiva de recursos contra a mesma decisão.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+ EMENTA
