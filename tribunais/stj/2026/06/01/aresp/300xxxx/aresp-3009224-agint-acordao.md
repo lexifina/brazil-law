@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 26/05/2026 a 01/06/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG), João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. PROCESSUAL CIVIL. PREVIDÊNCIA COMPLEMENTAR FECHADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME DE CLÁUSULAS ESTATUTÁRIAS E REGIMENTAL E DE FATOS E PROVAS. SÚMULAS 5 E 7 DO STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. DIVERGÊNCIA JURISPRUDENCIAL. FUNDAMENTAÇÃO DIFICIENTE. SÚMULA 284/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando negativa de prestação jurisdicional.
+2. Rever a conclusão da Corte local, fundada em estatutos e regimentos internos, baseada em premissas fáticas específicas, demandaria o reexame de normas internas e reexame de provas, situação vedada pelos óbi ces das Súmulas 5 e 7 do STJ.
+3. A alegada afronta ao art. 927, III, do Código de Processo Civil, não foi objeto de debate na Corte de origem, a despeito da provocação dos embargos de declaração, o que atrai a incidência do óbice da Súmula 211/STJ.
+4. Para a caracterização do dissídio jurisprudencial, são necessários o cotejo analítico entre os julgados e a demonstração da similitude fática, o que não ocorreu.
+5. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por Caixa de Previdência Complementar do Banco da Amazônia - CAPAF em face de decisão singular da minha lavra em que conheci do agravo, conheci em parte do recurso especial e, nessa extensão, neguei-lhe provimento, pelos seguintes fundamentos (fls. 702-707):
+a) inexistência de negativa de prestação jurisdicional no que se refere ao Tema 907/STJ;
+b) necessidade de reexame de cláusulas estatutárias e regimental e de fatos e provas, com incidência das Súmulas 5 e 7/STJ;
+c) falta de prequestionamento específico do art. 927, III, do CPC, com incidência da Súmula 211/STJ;
+d) deficiência na demonstração do dissídio, com incidência da Súmula 284/STF, ficando prejudicada a análise pela alínea "c" do art. 105, III, da Constituição Federal.
+Nas razões do agravo interno, a agravante sustenta que a controvérsia é exclusivamente de direito e que não há necessidade de reexame de cláusulas internas nem de fatos e provas, afastando a incidência das Súmulas 5 e 7/STJ (fls. 712-720).
+Defende que houve negativa de prestação jurisdicional, pois o Tribunal de origem não teria aplicado corretamente o Tema 907/STJ.
+Aduz que o art. 927, III, do CPC estaria devidamente prequestionado e que não incide a Súmula 211/STJ.
+Argumenta que a decisão agravada aplicou indevidamente a Súmula 284/STF, afirmando ter demonstrado o dissídio, além de sustentar que o recurso especial foi interposto também pela alínea "a".
+Na sua impugnação ao agravo interno, Nivaldo José Padilha requer a manutenção da decisão agravada (fl. 725).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. PROCESSUAL CIVIL. PREVIDÊNCIA COMPLEMENTAR FECHADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME DE CLÁUSULAS ESTATUTÁRIAS E REGIMENTAL E DE FATOS E PROVAS. SÚMULAS 5 E 7 DO STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. DIVERGÊNCIA JURISPRUDENCIAL. FUNDAMENTAÇÃO DIFICIENTE. SÚMULA 284/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando negativa de prestação jurisdicional.
+2. Rever a conclusão da Corte local, fundada em estatutos e regimentos internos, baseada em premissas fáticas específicas, demandaria o reexame de normas internas e reexame de provas, situação vedada pelos óbi ces das Súmulas 5 e 7 do STJ.
+3. A alegada afronta ao art. 927, III, do Código de Processo Civil, não foi objeto de debate na Corte de origem, a despeito da provocação dos embargos de declaração, o que atrai a incidência do óbice da Súmula 211/STJ.
+4. Para a caracterização do dissídio jurisprudencial, são necessários o cotejo analítico entre os julgados e a demonstração da similitude fática, o que não ocorreu.
+5. Agravo interno a que se nega provimento.
+VOTO
+Originariamente, o autor ajuizou ação de conhecimento com pedido de tutela antecipada para declarar o direito à isenção de contribuição à CAPAF após completar 30 (trinta) anos de contribuição, com fundamento no art. 6º, § 7º, da Portaria 375/1969, e para obter a restituição dos valores descontados indevidamente.
+A sentença julgou parcialmente procedente o pedido, reconheceu o direito à isenção e condenou à restituição das contribuições descontadas a partir de janeiro de 2002, acrescidas de correção monetária e juros, além de custas e honorários.
+O Tribunal de origem manteve a sentença. Concluiu que a regra de isenção prevista na Portaria 375/1969 foi recepcionada pelo Estatuto de 1981 e pelo regimento interno da entidade, reconheceu que o autor completou 30 (trinta) anos de contribuição em 18.12.2002 e que os descontos persistiram até 2019, afastou a aplicação do Código de Defesa do Consumidor e rejeitou os embargos de declaração.
+De início, a agravante sustenta que pretende apenas a aplicação do Tema 907/STJ.
+A decisão agravada, contudo, registrou que o acórdão local firmou premissas fáticas e normativas internas específicas, como as datas de admissão em 18.12.1972, aposentadoria em 8.2.1995, desligamento em 16.10.1998, a completude dos 30 (trinta) anos em 18.12.2002 e a continuidade dos descontos até fevereiro de 2019. Assentou ainda que o Estatuto de 1981, em suas disposições transitórias, e o regimento interno recepcionaram expressamente a regra do art. 6º, § 7º, da Portaria 375/1969, não existindo revogação da norma que assegurava a isenção após 30 anos de contribuição.
+A modificação dessa conclusão exige reinterpretação das disposições estatutárias e regimentais, bem como revaloração do contexto probatório que demonstrou a implementação dos requisitos antes da Portaria 929/2002. Tal providência é inviável em recurso especial, por força das Súmulas 5 e 7/STJ. A alegação de que a controvérsia seria apenas de direito não afasta o fato de que o acórdão recorrido se estruturou sobre premissas fáticas específicas e sobre a interpretação de normas internas da entidade fechada.
+No que se refere à alegada negativa de prestação jurisdicional, não se verifica omissão. Conforme analisado às fls. 704-706, o Tribunal de origem examinou a controvérsia central, delimitou o regime jurídico aplicável e explicitou as razões pelas quais entendeu recepcionada a regra de isenção e inaplicável tese diversa. O simples inconformismo com a conclusão adotada não caracteriza violação dos arts. 1.022 e 489 do Código de Processo Civil. O acórdão enfrentou os pontos essenciais ao deslinde da causa e apresentou fundamentação suficiente.
+Ressalto que o julgador não está obrigado a examinar todos os argumentos das partes quando já encontrou fundamento suficiente para decidir a controvérsia, conforme reiterada jurisprudência desta Corte. Além disso, a invocação do art. 1.025 do CPC não prospera, pois o prequestionamento ficto exige a demonstração de omissão efetiva e a indicação, no recurso especial, de violação do art. 1.022 do CPC apta a evidenciar vício integrativo. No caso, não houve negativa de prestação jurisdicional, razão pela qual não há falar em prequestionamento ficto.
+No tocante ao art. 927, III, do CPC, a decisão agravada consignou que o Tribunal de origem não se manifestou especificamente sobre o dispositivo, mesmo após a oposição de embargos de declaração, o que atrai a incidência da Súmula 211/STJ.
+De fato, o acórdão recorrido não contém juízo de valor sobre o referido artigo. A agravante, nas razões do agravo interno, não indica trecho do acórdão em que a matéria tenha sido enfrentada, nem demonstra omissão específica apta a viabilizar o prequestionamento. Limita-se a afirmar genericamente que o dispositivo estaria implícito na fundamentação. Tal alegação não supera o óbice da Súmula 211/STJ, pois o prequestionamento exige manifestação expressa ou, ao menos, a comprovação de vício integrativo não sanado.
+Por fim, no que se refere à divergência jurisprudencial, a decisão agravada apontou deficiência na demonstração do dissídio, ante a ausência de cotejo analítico e de comprovação de similitude fático-jurídica, incidindo a Súmula 284/STF.
+A agravante não realiza, no agravo interno, o confronto específico entre os julgados paradigmas e o acórdão recorrido, nem evidencia identidade fática. Ademais, estando a matéria obstada pelas Súmulas 5 e 7/STJ na via da alínea "a" do art. 105, III, da Constituição Federal , fica prejudicada a análise pela alínea "c" no tocante ao mesmo ponto.
+Nesse contexto, as razões do agravo interno não infirmam os fundamentos adotados na decisão agravada, que deve ser integralmente mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
