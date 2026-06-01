@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 26/05/2026 a 01/06/2026, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG), João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO NÃO IMPUGNADO. ARTIGO 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL (CPC)/2015.
+1. Nos termos do artigo 1.021, § 1º, do Código de Processo Civil/2015, é inviável o agravo interno que deixa de impugnar especificadamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por KARLA PRISCILA DE ALMEIDA FILIZZOLA contra decisão singular da lavra do Ministro Presidente do STJ que não conheceu do agravo em recurso especial, destacando sua intempestividade e a ocorrência de erro quanto ao tipo de recurso interposto, circunstância que resulta na ausência de efeito interruptivo de prazo para a interposição do recurso adequado.
+Os embargos de declaração opostos contra a decisão foram rejeitados (fls. 569-572), oportunidade em que foi integrada a decisão embargada com fundamento de que, além de a interposição do agravo interno (realizada equivocadamente contra decisão de inadmissão do recurso especial) consistir em erro grosseiro e não interromper o prazo para a interposição do recurso adequado, os embargos de declaração (os quais a parte alega que interromperam o prazo para interposição do agravo em recurso especial) foram opostos, também após o decurso do prazo para interposição do recurso adequado, ou seja, intempestivamente.
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que os embargos de declaração opostos na origem interromperam o prazo para a interposição do agravo em recurso especial, nos termos do art. 1.026 do CPC, o que afastaria a intempestividade.
+Na sua impugnação ao agravo interno, a parte agravada alega que o agravo em recurso especial foi apresentado fora do prazo de 15 dias úteis, bem como que a utilização de recursos inadequados configura erro grosseiro e não gera interrupção do prazo, requerendo a aplicação da multa do art. 1.021, § 4º, do CPC, bem como a majoração de honorários do art. 85, § 11, do CPC.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO NÃO IMPUGNADO. ARTIGO 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL (CPC)/2015.
+1. Nos termos do artigo 1.021, § 1º, do Código de Processo Civil/2015, é inviável o agravo interno que deixa de impugnar especificadamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+VOTO
+Inicialmente, cumpre esclarecer que o recurso especial foi interposto em face de acórdão assim ementado (e-STJ, fl. 156):
+AGRAVO DE INSTRUMENTO. INVENTÁRIO E PARTILHA. DECISÃO AGRAVADA QUE HOMOLOGOU ACORDO FIRMADO ENTRE AS PARTES E DETERMINA A EXPEDIÇÃO DE ALVARÁS - ALEGADA NULIDADE DE INTIMAÇÕES NÃO DEMONSTRADA - PETICIONAMENTO ESPONTÂNEO DA RECORRENTE ANTES DA PUBLICAÇÃO DOS ATOS PROCESSUAIS - TRATAMENTO DESIGUAL E CERCEAMENTO DE DEFESA NÃO DEMONSTRADOS - APLICAÇÃO DO PRINCÍPIO NULLITÉ SANS GRIEF.
+RECURSO DESPROVIDO.
+Os embargos de declaração opostos a esse acórdão foram rejeitados.
+No recurso especial, alega-se que o acórdão recorrido contrariou o artigo 492 do Código de Processo Civil e os artigos 286 e 521 do Código Civil.
+No caso, verifica-se que as razões do agravo interno não impugnaram o fundamento da decisão dos embargos de declaração (e-STJ, fls. 569 - 572), que integralizou a decisão de fls. 522 - 523, segundo o qual, de acordo com o entendimento desta Corte Superior os embargos de declaração foram opostos na origem após o trânsito em julgado da decisão que reconheceu a ocorrência de erro grosseiro em relação à interposição do agravo interno, uma vez que "a posterior declaração de intempestividade do recurso só confirma o trânsito em julgado anteriormente ocorrido" (e-STJ, fl. 571).
+Confira-se, a propósito, o pertinente trecho da decisão em comento (e-STJ, fl. 571):
+O Agravo Interno não é o recurso cabível contra a decisão do Tribunal de origem em juízo de admissibilidade de recursos especiais não submetidos ao rito dos repetitivos. Assim, sua interposição equivocada não interrompe nem suspende o prazo para a apresentação do recurso cabível, que, no caso, é o Agravo previsto no do CPC. art. 1.042 Nesse sentido, o AgInt no Rel. Ministro Gurgel De Faria, Primeira AREsp 1549441/MS, Turma, DJe de 12.3.2020; e AgInt no Rel. Ministro Antonio Carlos AREsp 1508918/MT, Ferreira, Quarta Turma, DJe de 28.2.2020.
+Outrossim, os Embargos de Declaração têm o condão de interromper o prazo para a apresentação do recurso cabível (art. 1.026 do CPC). No entanto, por natureza, são integrativos, ou seja, não substituem a decisão embargada. No caso, os aclaratórios foram apresentados contra a decisão que indeferira o processamento do Agravo Interno, uma vez que absolutamente incabível, ou seja, os Embargos integraram um recurso manifestamente inadmissível.
+Portanto, a oposição dos Embargos não possibilita recomeçar o prazo recursal do Agravo em Recurso Especial, que foi apresentado contra Agravo Interno anterior que não interrompera a contagem do prazo por ser manifestamente incabível.
+Os Embargos foram opostos quando já havia transitado em julgado a decisão de fls. 272/275, conforme entende o STJ, uma vez que "a posterior declaração de intempestividade do recurso só confirma o trânsito em julgado anteriormente ocorrido" (grifamos).
+(EDcl no Rel. Ministro Herman Benjamin, Segunda Turma, DJe REsp n. 1.352.730/AM, de 11.10.2013.)
+Quanto ao ponto, a parte se limita a reafirmar que os embargos de declaração interromperam o prazo para a interposição do recurso adequado, ignorando o fundamento da decisão em apreço, pelo qual os embargos não interromperam o referido prazo, por terem sido opostos fora do prazo de interposição do recurso adequado, sendo relevante destacar que o referido fundamento é suficiente para manter a decisão agravada.
+Segundo os artigos 932, inciso III, e 1.021, § 1º, do CPC, combinados com o artigo 259 do Regimento Interno do STJ e com a Súmula 182/STJ, incumbe ao relator não conhecer de agravo interno que não tenha impugnado especificamente os fundamentos da decisão agravada. Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. ARTS. 932, III, e 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. AGRAVO NÃO CONHECIDO.
+1. Nos termos dos arts. 932, III, e 1.021, § 1º, do CPC/2015, é incabível o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+(AgRg no AREsp 808.948/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/12/2016, DJe 2/2/2017)
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. INEXISTÊNCIA DE BENS PENHORÁVEIS. DECLARAÇÃO DE INSOLVÊNCIA DO DEVEDOR NOS PRÓPRIOS AUTOS. DESCABIMENTO. INADMISSIBILIDADE PELA INCIDÊNCIA DAS SÚMULAS 284 DO STF E 83 DO STJ. IRRESIGNAÇÃO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE PARTE DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Ao conhecimento do recurso, exige-se a demonstração do desacerto da decisão contra a qual se insurge, refutando todos os seus óbices invocados na fundamentação, sob pena de vê-la mantida. Logo, persistindo fundamento suficiente para manter a conclusão da decisão, fica inviabilizado o recurso, à luz da Súmula 182 desta Corte, aplicada, por extensão.
+2. Agravo interno não conhecido.
+(AgInt no AREsp 1498290/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/10/2019, DJe 06/11/2019)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE CONTRATO DE COMPRA E VENDA. DECADÊNCIA. INAPLICABILIDADE. LESÃO. PREENCHIDOS OS REQUISITOS OBJETIVO E SUBJETIVO. RETORNO AO STATUS QUO ANTE. AGRAVO INTERNO SEM IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DOS ARTS. 932, III, E 1.021, § 1º, DO CPC/2015 E DA SÚMULA 182 DO STJ. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE.
+1. Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão e/ou erro material no julgado (CPC, art. 1022), sendo inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, mormente porque não são cabíveis para provocar novo julgamento da lide.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal.
+Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão. (EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/9/2018, DJe 30/11/2018)
+3. Idêntico raciocínio, por critério lógico, deve ser utilizado no julgamento do agravo interno interposto contra decisão em sede de agravo em recurso especial, máxime porque os argumentos do recurso colegiado devem impugnar justamente a temática dos pressupostos de admissibilidade apreciados no decisum unilateral, pressupostos estes, conforme salientado alhures, inseparáveis por natureza.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no AgInt no AREsp 1144143/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/06/2019, DJe 01/07/2019)
+Por outro lado, ainda que se considerasse suficiente a impugnação ao fundamento da decisão agravada, verifica-se a impossibilidade de sua alteração, tendo em vista que o referido fundamento está em consonância com o entendimento jurisprudencial desta Corte Superior, circunstância que atrai a aplicação da Súmula 83/STJ. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO E RESTITUIÇÃO DE QUANTIA PAGA CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. INTERPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. ERRO GROSSEIRO. NÃO INTERRUPÇÃO DO PRAZO RECURSAL. NÃO COMPROVAÇÃO DO PREPARO NO ATO DA INTERPOSIÇÃO DO RECURSO. INTIMAÇÃO. AUSÊNCIA. DESERÇÃO RECONHECIDA.
+1. Ação de rescisão de contrato e restituição de quantia paga cumulada com compensação por danos morais.
+2. Agravo interposto contra decisão da Presidência do STJ que rejeitou os embargos de declaração opostos pela parte agravante em face da decisão que não conheceu do agravo em recurso especial, porquanto incidente a Súmula 187/STJ, bem como por estar presente a intempestividade do agravo em recurso especial.
+3. O único recurso cabível contra a decisão que nega seguimento ao recurso especial é o agravo, previsto no art. 1.042 do CPC. Dessa forma, a oposição de embargos de declaração revela erro grosseiro, motivo pelo qual não tem o condão de interromper o prazo para interposição do agravo em recurso especial (grifamos).
+4. A parte agravante não atendeu à determinação exarada pela Corte local, por isso a ausência do recolhimento das custas leva ao reconhecimento da deserção.
+5. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.466.567/SC, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO RESCISÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO, ANTE A INTEMPESTIVIDADE DO APELO EXTREMO. INSURGÊNCIA DO AUTOR.
+1. É intempestivo o recurso especial interposto após o prazo de 15 (quinze) dias úteis previsto nos artigos 219 e 1.003, § 5º, do CPC/15.
+2. Consoante jurisprudência desta Corte, a interposição de agravo interno contra julgamento colegiado é considerada erro grosseiro, pois o referido meio de impugnação destina-se unicamente a combater decisões proferidas monocraticamente pelo relator, na forma do art. 1.021 do CPC/15.
+3. "A interposição de recurso manifestamente inadmissível não interrompe nem suspende o prazo para a interposição de outros recursos." (AgInt no AREsp 1744924/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 02/03/2021).
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 1.809.736/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 28/6/2021, DJe de 1/7/2021.)
+Em face do exposto, não conheço do agravo interno.
+É como voto.
