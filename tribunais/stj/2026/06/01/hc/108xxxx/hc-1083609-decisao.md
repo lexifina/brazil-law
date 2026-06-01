@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se  de  habeas  corpus  com  pedido  liminar  impetrado  em  favor  de  ALLAN  DA  SILVA  FERNANDES  apontando  como  autoridade  coatora  o  Tribunal de Justiça do Estado de São Paulo  (Apelação  nº 1500318-84.2021.8.26.0126).
+Depreende-se dos autos que  o  paciente  foi  condenado  à  pena  de  5  anos  e  10  meses  de  reclusão,  em  regime  inicial  fechado,  pela  prática  do  delito  do  art. 33,  caput,  da  Lei  n.  11.343/2006,  pois foi  surpreendido  na  posse  de  25,31g  (vinte e cinco gramas e trinta e um centigramas) de  cocaína; 41,01g (quarenta e um gramas e um centigrama)  de  crack;  3  comprimidos  de  ecstasy  (3,99g - três gramas e noventa e nove centigramas)  ; e  18,07g  (dezoito gramas e sete centigramas) de  haxixe  (e-STJ  fls.  15/21, grifei ).
+O Tribunal  de  origem  negou  provimento  ao  apelo  defensivo  (e-STJ  fls.  5/14).
+No  presente  writ,  a  Defesa  sustenta  que  há  constrangimento  ilegal  na  dosimetria  da  pena  imposta  pelas  instâncias  de  origem.
+Alega  que  o  fato  de  ter  o  paciente  sido  condenado  em  um  processo  datado  de  2006  não  deve  ser  considerado  em  seu  desfavor  para  desabonar  os  antecedentes  diante  da  antiguidade  do  referido  feito,  sob  pena  de  ofensa  ao  princípio  da  inocência  e  aos  termos  da  Súmula  nº 444/STJ.
+Aduz  a  ilegalidade  na  negativa  de  reconhecimento  da  causa  de  redução  prevista  no  art. 33,  §  4º,  da  Lei  n.  11.343/2006  , lastreada  somente  nos  maus  antecedentes,  fazendo  jus  o  paciente  à  referida  benesse  pelo  preenchimento  dos  requisitos  legais.
+Afirma  o  não  cabimento  do  regime  inicial  fechado,  tendo  em  vista  o  quantum  de  reprimenda,  a  ausência  de  reincidência  e  as  condições  pessoais  favoráveis  do  condenado.
+Requer,  inclusive  liminarmente,  a  concessão  da  ordem  de  habeas  corpus  para  o  reconhecimento  do  tráfico  privilegiado.
+Liminar indeferida (e-STJ fls. 32/33).
+Informações prestadas (e-STJ fls. 36/42 e 46/65).
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (e-STJ fls. 71/76).
+É  o  relatório.
+Decido.
+A  jurisprudência  do  Superior  Tribunal  de  Justiça  é  uníssona  no  sentido  de  que  não  cabe  a  utilização  de  habeas  corpus  como  sucedâneo  de  recurso  próprio  ou  de  revisão  criminal,  sob  pena  de  desvirtuamento  do  objeto  ínsito  ao  remédio  heroico,  qual  seja,  o  de  prevenir  ou  remediar  lesão  ou  ameaça  de  lesão  ao  direito  de  locomoção.
+Nesse  sentido:
+PROCESSO  PENAL.  AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  ..  MANDAMUS  IMPETRADO  CONCOMITANTEMENTE  COM  RECURSO  ESPECIAL  INTERPOSTO  NA  ORIGEM.  VIOLAÇÃO  AO  PRINCÍPIO  DA  UNIRRECORRIBILIDADE.  ..  AGRAVO  REGIMENTAL  DESPROVIDO.
+ ..  2.  Não  se  conhece  de  habeas  corpus  impetrado  concomitantemente  com  o  recurso  especial,  sob  pena  de  subversão  do  sistema  recursal  e  de  violação  ao  princípio  da  unirrecorribilidade  das  decisões  judiciais.
+ ..  (AgRg  no  HC  n.  904.330/PR,  relator  Ministro  Joel  Ilan  Paciornik,  Quinta  Turma,  julgado  em  2/9/2024,  DJe  de  5/9/2024.)
+PENAL  E  PROCESSUAL  PENAL.  AGRAVO  REGIMENTAL  NO  "HABEAS  CORPUS".  ORGANIZAÇÃO  CRIMINOSA.  DOSIMETRIA.  INEXISTÊNCIA  DE  ILICITUDE  FLAGRANTE.  RECURSO  NÃO  PROVIDO.
+1.  A  Terceira  Seção  desta  Corte,  seguindo  entendimento  firmado  pela  Primeira  Turma  do  Supremo  Tribunal  Federal,  sedimentou  orientação  no  sentido  de  não  admitir  habeas  corpus  em  substituição  a  recurso  próprio  ou  a  revisão  criminal,  situação  que  impede  o  conhecimento  da  impetração,  ressalvados  casos  excepcionais  em  que  se  verifica  flagrante  ilegalidade  apta  a  gerar  constrangimento  ilegal.
+ ..  (AgRg  no  HC  n.  921.445/MS,  relatora  Ministra  Daniela  Teixeira,  Quinta  Turma,  julgado  em  3/9/2024,  DJe  de  6/9/2024.)
+Não  se  desconhece  a  orientação  presente  no  artigo 647-A,  caput  e  parágrafo  único,  do  Código  de  Processo  Penal,  segundo  a  qual  se  permite  a  qualquer  autoridade  judicial,  no  âmbito  de  sua  competência  jurisdicional  e  quando  verificada  a  presença  de  flagrante  ilegalidade,  a  expedição  de  habeas  corpus  de  ofício  em  vista  de  lesão  ou  ameaça  de  lesão  à  liberdade  de  locomoção.
+Não é o caso dos autos.
+Com efeito, segundo o entendimento adotado pela Sexta Turma, "quando os registros da folha de antecedentes do réu são muito antigos, como no presente caso, admite-se o afastamento de sua análise desfavorável, em aplicação à teoria do direito ao esquecimento. Não se pode tornar perpétua a valoração negativa dos antecedentes, nem perenizar o estigma de criminoso para fins de aplicação da reprimenda, pois a transitoriedade é consectário natural da ordem das coisas. Se o transcurso do tempo impede que condenações anteriores configurem reincidência, esse mesmo fundamento - o lapso temporal - deve ser sopesado na análise das condenações geradoras, em tese, de maus antecedentes" (REsp n. 1.707.948/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/4/2018, DJe 16/4/2018).
+Outrossim, sobre o tema, "assim como o período depurador dos efeitos da reincidência é computado da data do cumprimento ou extinção da pena aplicada na ação penal anterior, também o lapso computado para a desconsideração de uma dada anotação criminal como mau antecedente deve levar em conta o mesmo termo a quo" (AgRg no HC n. 684.683/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/8/2021, DJe 20/8/2021, grifei).
+Examinando os autos, infere-se que não há informação sobre a data da extinção ou cumprimento da pena, de modo que não há elemento para analisar o direito ao esquecimento.
+Ainda, no ponto, ressalte-se que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a defesa demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente, o que não se observa no caso, tendo em vista que a Defesa não juntou documentação que comprove a data de extinção da pena das condenações em referência.
+À vista do exposto, não conheço do  presente  habeas  corpus.
+Publique-se.  Intimem-se.
+EMENTA
