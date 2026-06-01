@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por SUPERPESA CIA DE TRANSPORTES ESPECIAIS E INTERMODAIS - à decisão que conheceu do Agravo para não conhecer do Recurso Especial, em razão da aplicação de óbices de admissibilidade recursal, nos termos do art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante:
+Com a devida vênia, a r. decisão monocrática ora embargada incorre em omissão relevante ao enquadrar a controvérsia sob o óbice da Súmula 7 do Superior Tribunal de Justiça, sem atentar para a natureza eminentemente jurídica da discussão posta nos autos. Com efeito, não se está diante de pretensão voltada ao revolvimento do conjunto fático-probatório, mas, sim, de hipótese típica de revaloração jurídica de fatos expressamente delineados no acórdão recorrido e incontroversos entre as partes.
+ ..
+No que concerne à alegada deficiência de fundamentação, não subsiste qualquer plausibilidade na aplicação da Súmula 284/STF.
+Isso porque o apelo extremo indicou, de maneira expressa e articulada, a violação aos arts. 835, §3º, e 854 do CPC, bem como ao art. 11 da Lei nº 6.830/80, dispositivos que disciplinam, de forma direta, a ordem legal de preferência na constrição patrimonial e os requisitos para a adoção de medidas executivas atípicas e excepcionais, como é o caso da penhora sobre o faturamento.
+ ..
+De igual modo, revela-se inadequada a incidência da Súmula 7/STJ. A controvérsia devolvida à instância superior não se volta à rediscussão de fatos ou à reapreciação de provas, mas sim à definição do alcance jurídico do conceito de "esgotamento de diligências" como requisito legitimador da penhora de faturamento, à luz da tese firmada no Tema 769/STJ.
+ ..
+Com a devida vênia, o cerne da insurgência recursal não reside na pretensão de ver dirimida, nesta instância, a controvérsia constitucional afetada ao Tema 1.217/STF, tampouco em obter pronunciamento definitivo acerca da constitucionalidade dos índices de atualização adotados. O que se busca, em verdade, é o reconhecimento de vício processual autônomo, consubstanciado na negativa de prestação jurisdicional por parte do Tribunal de origem, que deixou de apreciar, de forma fundamentada, pedido expressamente formulado pela parte.
+A r. decisão embargada, ao qualificar a matéria como "eminentemente constitucional", desconsidera que o recurso especial foi interposto, em primeiro plano, com fundamento na violação ao art. 1.022 do Código de Processo Civil, justamente em razão da omissão verificada no acórdão recorrido. Trata-se, portanto, de matéria tipicamente infraconstitucional, cuja análise se insere, de maneira inequívoca, na competência desta Corte Superior.
+ ..
+Tal conduta revela inequívoca afronta ao dever de fundamentação das decisões judiciais, previsto no art. 489, §1º, IV, do Código de Processo Civil, bem como configura hipótese clássica de negativa de prestação jurisdicional, passível de correção por meio de recurso especial. Não se está, portanto, a exigir do Superior Tribunal de Justiça qualquer incursão no mérito constitucional da controvérsia, mas tão somente o controle da regularidade formal do julgado, à luz das normas processuais federais (fls. 240-248).
+Requer, assim, o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Registre-se que "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Rel. Ministra Eliana Calmon, DJ de 13.8.2007; e REsp 855.073/SC, Primeira Turma, Rel. Ministro Teori Albino Zavascki, DJ de 28.6.2007". (EDcl nos EDcl no REsp 1.642.531/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 22.4.2019.)
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 28.8.2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+ EMENTA
