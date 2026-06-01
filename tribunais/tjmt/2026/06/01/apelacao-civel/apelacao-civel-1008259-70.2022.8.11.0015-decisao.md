@@ -1,0 +1,13 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+Gabinete 3 - Segunda Câmara de Direito Privado
+APELAÇÃO CÍVEL (198) 1008259-70.2022.8.11.0015
+APELANTE: PISSINATTI EMPREENDIMENTOS LTDA, REGINA LUCIA ALVES
+APELADO: REGINA LUCIA ALVES, PISSINATTI EMPREENDIMENTOS LTDA
+Vistos etc.
+Certifique-se a Secretaria se já ocorreu trânsito em julgado do acórdão de ID. 359279354.
+Após, cls.
+Cuiabá, 01 de junho de 2026.
+MARILSEN ANDRADE ADDARIO
+Desembargadora
