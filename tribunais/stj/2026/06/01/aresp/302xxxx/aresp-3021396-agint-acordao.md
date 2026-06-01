@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 26/05/2026 a 01/06/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL SUBJETIVA. PRESTAÇÃO DE SERVIÇO ADVOCATÍCIO. ALEGAÇÃO DE ERRO GRAVE. TEORIA DA PERDA DE UMA CHANCE. EXAME DE FATOS E PROVA. CONSONÂNCIA COM PRECEDENTES DO STJ.
+1. Inviabilidade, ante o óbice da Súmula 7/STJ, de reversão da conclusão do Tribunal de origem, por demandar reexame de fatos e provas dos autos. Precedentes.
+2. A Súmula n. 7/STJ impede o conhecimento do recurso interposto tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+3. Razões de agravo interno que não alteram a conclusão da decisão agravada.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por TRANSPORTADORA MENDONCA E CARNEIRO LTDA. contra decisão monocrática de minha relatoria que conheceu do agravo para não conhecer do recurso especial em razão do óbice da Súmula 7.
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (fls. 2.316-2.317):
+DIREITO PROCESSUAL CIVIL E CIVIL. APELAÇÃO CÍVEL. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. DEPÓSITO PRÉVIO DA MULTA. NECESSIDADE SOMENTE NA SEGUNDA OPOSIÇÃO PROTELATÓRIA. ILEGITIMIDADE PASSIVA. ANÁLISE PERTINENTE AO MÉRITO. RESPONSABILIDADE CIVIL DO ADVOGADO. RESPONSABILIDADE SUBJETIVA. NECESSIDADE DE COMPROVAÇÃO DE CULPA OU DOLO. RECURSO DESPROVIDO. I. CASO EM EXAME 1. Apelação cível interposta em ação de indenização por danos materiais e morais em razão de suposta falha na prestação de serviços advocatícios, na qual o juízo de origem rejeitou a preliminar de ilegitimidade passiva e julgou improcedente o pedido inicial. Em contrarrazões, os apelados suscitaram preliminares de necessidade de depósito prévio da multa prevista no art. 1.026, §3º, do CPC, e de ilegitimidade passiva. II. QUESTÃO EM DISCUSSÃO 2.Há três questões em discussão: (i) definir se a interposição da apelação depende do depósito prévio da multa prevista no art. 1.026, §3º, do CPC; (ii) estabelecer se cabe análise da ilegitimidade passiva arguida em contrarrazões; e (iii) determinar se estão presentes os requisitos para responsabilização civil dos advogados apelados. III. RAZÕES DE DECIDIR 3.O depósito prévio da multa prevista no art. 1.026, §3º, do CPC/2015 somente se exige na hipótese de reiteração de embargos de declaração reputados manifestamente protelatórios, o que não se verifica quando houve apenas uma oposição considerada protelatória, conforme entendimento consolidado do STJ. 4.A ilegitimidade passiva deve ser analisada a partir das alegações contidas na petição inicial, nos termos da teoria da asserção, sendo questão de mérito e não passível de análise em contrarrazões, especialmente quando já rejeitada pelo juízo de origem. 5.O Código de Defesa do Consumidor é inaplicável às relações entre cliente e advogado, as quais se regem pelo Estatuto da Advocacia (Lei 8.906/1994) e pelo Código Civil, que estabelecem a responsabilidade subjetiva do advogado, condicionada à demonstração de culpa ou dolo. 6.A atividade do advogado é de meio e não de resultado, cabendo à parte autora o ônus de comprovar que o profissional agiu com culpa ou dolo, o que não se demonstrou no caso concreto, inexistindo prova de conduta ilícita apta a ensejar a indenização por danos morais ou materiais. IV. DISPOSITIVO E TESE 7. Recurso parcialmente conhecido e, nesta parte, desprovido. Tese de julgamento: 1. O depósito prévio da multa prevista no art. 1.026, §3º, do CPC/2015 somente é exigível na hipótese de segunda oposição de embargos de declaração considerados protelatórios. 2. A ilegitimidade passiva rejeitada na sentença não pode ser objeto de análise em contrarrazões, devendo ser arguida em recurso próprio. 3. A responsabilidade civil do advogado, por ser subjetiva, exige a comprovação de dolo ou culpa para fins de indenização, sendo inaplicável o Código de Defesa do Consumidor nas relações entre cliente e advogado.
+Os embargos de declaração foram rejeitados (fls. 2.540-2.542).
+A agravante alega, nas razões do agravo interno, que:
+a) a decisão monocrática incorreu em premissa equivocada ao aplicar o óbice da Súmula n. 7/STJ, pois o recurso especial não pretende rediscutir fatos e provas, mas promover a requalificação jurídica de fatos incontroversos delineados no acórdão recorrido, sendo desnecessária a reapreciação probatória, mas apenas a subsunção jurídica;
+b) a conduta dos patronos - uso de norma revogada e perda de recurso por irregularidade de representação - caracteriza erro técnico grave e culpa profissional indenizável;
+c) ficaram configurados o ato ilícito, o dever de indenizar diante da falha técnica objetiva e o nexo causal; e
+d) houve inadequação do paradigma utilizado na decisão, por ter tratado de responsabilidade civil em contexto diverso (plataforma de anúncios e inexistência de nexo causal), não aplicável à responsabilidade profissional por erro técnico processual.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma, com afastamento do óbice sumular (fl. 2.555).
+A agravada apresentou contraminuta (fls. 2.559-2.577), pugnando pelo não conhecimento e, no mérito, pelo desprovimento do agravo interno.
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL SUBJETIVA. PRESTAÇÃO DE SERVIÇO ADVOCATÍCIO. ALEGAÇÃO DE ERRO GRAVE. TEORIA DA PERDA DE UMA CHANCE. EXAME DE FATOS E PROVA. CONSONÂNCIA COM PRECEDENTES DO STJ.
+1. Inviabilidade, ante o óbice da Súmula 7/STJ, de reversão da conclusão do Tribunal de origem, por demandar reexame de fatos e provas dos autos. Precedentes.
+2. A Súmula n. 7/STJ impede o conhecimento do recurso interposto tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+3. Razões de agravo interno que não alteram a conclusão da decisão agravada.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Os argumentos do agravo interno não alteram as conclusões expostas na decisão agravada.
+Verifica-se que a convicção da Corte estadual, ao analisar os pressupostos para a configuração da responsabilidade civil do profissional - isto é, a conduta do patrono, o nexo causal e o alegado prejuízo -, formou-se com base no conjunto fático-probatório dos autos.
+O acórdão recorrido concluiu no sentido de que o deslinde do feito decorreu da apreciação das provas documentais e testemunhais e da correta aplicação da legislação e jurisprudência, inexistindo demonstração de culpa ou dolo dos patronos, como se pode depreender do seguinte trecho extraído do acórdão recorrido (fls. 2.325 -2.326):
+(..) do estudo da sentença trabalhista (mov. 01, doc. 12), observa-se que o deslinde do feito ocorreu com base nas provas (documentais e testemunhais) e da aplicação correta da legislação e jurisprudência atual (exemplo: mov. 01, doc. 12, pg. 4, 9, 12, 13, 17, 18, 20, 22 e 24), de forma que em nada reverberou a tese supostamente equivocada perseguida pelos patronos. Portanto, ausente demonstração que o deslinde do feito ocorreu por culpa ou dolo dos patronos" (fls. 2325-2326)
+Desse modo, afastar o referido entendimento para reconhecer que houve atuação culposa dos advogados, com erro técnico grave e responsabilidade civil por perda de uma chance, como pretende a parte recorrente, demandaria o reexame do material fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+A tese defendida nas razões recursais não está a exigir do STJ a emissão de um juízo acerca da existência ou não de ofensa a tratado ou lei federal, mas sim a base fática sobre a qual se fundou o acórdão recorrido.
+No entanto, como cediço, a esta Corte não é possível perquirir, a partir da leitura de peças processuais, se os fatos ocorreram de forma diferente daquela apresentada no acórdão recorrido como espera a parte agravante.
+Neste sentido, os seguintes precedentes desta Corte:
+DIREITO CIVIL. RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ADVOGADO. TEORIA DA PERDA DE UMA CHANCE. RECURSO PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+1. O Tribunal de origem não incorreu em negativa de prestação jurisdicional, pois enfrentou a questão devolvida pelo Superior Tribunal de Justiça, ainda que tenha considerado a tese como inovação recursal, apresentando fundamentação suficiente para não adentrar no mérito.
+2. Não houve violação à coisa julgada, pois a decisão interlocutória que acolheu a exceção de incompetência, ao afastar a aplicação do Código de Defesa do Consumidor para definir o foro competente, não formou coisa julgada material sobre a natureza da relação jurídica de fundo.
+3. A análise do mérito da responsabilidade civil do advogado, com base na teoria da perda de uma chance, foi realizada pelas instâncias ordinárias, que concluíram que a negligência do advogado foi determinante para o prejuízo sofrido pelos clientes. A pretensão de reavaliar os fatos e provas esbarra no óbice da Súmula 7 do Superior Tribunal de Justiça.
+4. Resultado do Julgamento: Recurso especial parcialmente conhecido e, na parte conhecida, não provido.
+(REsp n. 2.091.703/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 16/12/2025, DJEN de 19/12/2025.)
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INADMISSIBILIDADE DE RECURSO ESPECIAL. VIOLAÇÃO AOS ARTIGOS 489 E 1.022 DO CPC. INOCORRÊNCIA. APLICAÇÃO DA TEORIA DA PERDA DE UMA CHANCE QUE, NO CASO CONCRETO, FOI AFASTADA PELA CORTE DE ORIGEM, COM BASE NO CONJUNTO PROBATÓRIO DOS AUTOS. REEXAME. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial, sob o fundamento de ausência de violação aos dispositivos legais apontados e incidência da Súmula 7 do STJ.
+2. A parte agravante sustenta violação aos artigos 489 e 1.022 do CPC, bem como aos artigos 186, 397, 927 e 944 do Código Civil, buscando reformar decisão do Tribunal de origem para majorar a condenação por danos materiais.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se é possível reformar a sentença para majorar o valor arbitrado a título de indenização por danos materiais, com base na teoria da perda de uma chance, considerando o óbice da Súmula 7 do STJ.
+III. Razões de decidir
+4. A Corte de origem analisou de forma suficiente os argumentos apresentados, não havendo omissão, obscuridade ou contradição que configure violação aos artigos 489 e 1.022 do CPC.
+5. A aplicação da teoria da perda de uma chance, no caso concreto, foi afastada pela Corte de origem, que concluiu pela inexistência de responsabilidade do agravado pela reprodução dos semoventes, com base no conjunto probatório dos autos.
+6. A revisão da conclusão do Tribunal de origem demandaria reexame d o acervo fático-probatório, procedimento incompatível com o recurso especial, conforme estabelecido pela Súmula 7 do STJ. IV.
+Dispositivo 7. Agravo não conhecido.
+(AREsp n. 2.843.451/MT, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 13/10/2025, DJEN de 16/10/2025.)
+Ademais, embora, o presente agravo tenha argumentado, objetivamente, a inaplicabilidade da Súmula 7, não a impugnou em substância, porque, para superá-la, não é suficiente apontar que não há pretensão de reexaminar provas, mas, sim, demonstrar, destacando trechos do acórdão, que, a partir do cenário fático, a discussão é somente jurídica.
+Ocorre que a parte agravante apenas faz mera afirmação de inaplicabilidade do óbice, com a asserção de que não pretende reexame de prova e a reiteração do próprio recurso especial, sem qualquer destaque do excerto de fato admitido pelo acórdão que se quer, a partir dos dispositivos ditos violados, ver revalorado.
+Quanto ao di ssidio jurisprudencial, permanecem íntegros os fundamentos que reconheceram a incidência da Súmula 7/STJ também quanto à divergência jurisprudencial, bem como que a parte agravante não realizou o devido cotejo analítico entre o acórdão recorrido e os acórdãos paradigmas.
+Com efeito, em suas razões de recurso especial, a parte agravante limitou-se a transcrever as ementas dos julgados paradigmas, sem particularizar a similitude fática dos casos confrontados.
+Inexistentes, portanto, elementos novos a recomendar a alteração do resultado do julgamento, a decisão agravada deve ser mantida em sua integralidade.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
