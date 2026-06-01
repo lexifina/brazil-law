@@ -1,0 +1,36 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+GABINETE DA VICE-PRESIDÊNCIA
+RECURSO ESPECIAL Nº 1000711-81.2025.8.11.0049
+RECORRENTE(S): CLERIO DOS SANTOS
+RECORRIDA(S): COOPERATIVA DE CREDITO, POUPANCA E INVESTIMENTO PROGRESSO - SICREDI PROGRESSO PR/SP
+Vistos etc.
+Trata-se de Recurso Especial interposto por CLÉRIO DOS SANTOS, com fundamento no art. 105, inciso III, alíneas 'a' e 'c', da Constituição Federal, contra acórdão de Id. 346604383.
+Opostos embargos de declaração, esses foram rejeitados no Id. 358442364.
+A parte recorrente alega violação ao art. 51, IV e §1º, do Código de Defesa do Consumidor e à Súmula 472/STJ, sustentando abusividade dos juros remuneratórios e existência de comissão de permanência disfarçada.
+Foram apresentadas contrarrazões no Id. 351411361.
+É o relatório. Decido.
+Da ausência de matéria exclusivamente de direito.
+Nos termos do art. 105, inciso III, da Constituição Federal, o Recurso Especial é cabível para impugnar decisões que contrariem tratado ou lei federal, ou que divirjam de interpretação de lei federal adotada por outro tribunal.
+Conforme leciona a doutrina, o Recurso Especial tem como escopo exclusivo a apreciação de questões de direito federal infraconstitucional – as denominadas federal questions [DINAMARCO, Cândido Rangel. Instituições de direito processual civil, v. V. São Paulo: Malheiros/JusPodivm, 2022, p. 271].
+No caso dos autos, a parte recorrente alega violação ao art. 51, IV e §1º, do Código de Defesa do Consumidor e à Súmula 472/STJ, ao argumento de que os juros remuneratórios pactuados (4,50% a.m.) seriam abusivos por excederem em mais de 50% a taxa média de mercado divulgada pelo BACEN (2,98% a.m.), bem como de que os encargos moratórios configurariam comissão de permanência disfarçada.
+Contudo, verifica-se que o deslinde da controvérsia depende do reexame do conjunto fático-probatório dos autos, circunstância que atrai a incidência da Súmula 7/STJ, segundo a qual:
+"A pretensão de simples reexame de prova não enseja recurso especial".
+Com efeito, o acórdão recorrido consignou expressamente que "o percentual pactuado não excede substancialmente a média, não atingindo patamar que justifique a intervenção judicial". A pretensão recursal de reconhecimento de abusividade demanda reavaliação do conjunto fático-probatório, especialmente quanto à comparação entre a taxa contratada e a taxa média do BACEN, e à conclusão sobre se tal discrepância configura ou não "desvantagem exagerada" ao consumidor.
+Da mesma forma, quanto à alegação de existência de "comissão de permanência disfarçada", o Tribunal de origem concluiu pela inexistência de tal encargo, distinguindo corretamente entre comissão de permanência e encargos moratórios autônomos (juros remuneratórios, juros de mora e multa). A pretensão de estabelecer a existência de comissão de permanência "disfarçada" demanda reinterpretação das cláusulas contratuais, atividade vedada em sede de Recurso Especial, nos termos da Súmula 5/STJ.
+Nesse sentido, o seguinte julgado:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESCISÃO CONTRATUAL. COMPRA E VENDA DE IMÓVEL. TAXA DE RETENÇÃO. 25% DOS VALORES PAGOS. PECULIARIDADES DO CASO. REDUÇÃO MOTIVADA PARA 10% DOS VALORES PAGOS. VERIFICAÇÃO. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO. 1. Na hipótese de rescisão de contrato de compra e venda de imóvel por desistência do comprador, deve prevalecer o percentual de 25% de retenção dos valores por ele pagos, salvo eventuais peculiaridades do caso a ensejar sua redução motivada, reconhecidas pela instância de origem. 2. Reconhecimento pelo Tribunal a quo da razoabilidade e proporcionalidade na aplicação do percentual de 10% de retenção, considerando os valores efetivamente pagos pelo promitente comprador e o estabelecido no contrato firmado entre as partes. 3. Aplicam-se as Súmulas n. 5 e 7 do STJ quando a adoção de conclusão diversa daquela a que chegou a instância de origem implicar, necessariamente, a interpretação de cláusulas contratuais e o reexame dos elementos fático-probatórios dos autos, medidas inviáveis na instância especial. 4. Agravo interno desprovido. (AgInt no AgInt no AREsp n. 2.500.439/GO, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 20/3/2025, DJEN de 28/3/2025.)
+Não se trata, portanto, de matéria exclusivamente de direito, razão pela qual o Recurso Especial revela-se inadmissível.
+Da consonância entre o acórdão recorrido e o posicionamento do Superior Tribunal de Justiça.
+No caso dos autos, o Recorrente alega ofensa ao art. 51, IV e §1º, do CDC e à Súmula 472/STJ, ao argumento de que os juros remuneratórios seriam abusivos e de que os encargos moratórios configurariam comissão de permanência disfarçada.
+No entanto, observa-se que o entendimento do órgão fracionário deste Tribunal sobre o tema vertido está em consonância com a jurisprudência pacífica do STJ, no sentido de que a revisão de juros remuneratórios somente é admitida em situações excepcionais, com abusividade cabalmente demonstrada, capaz de gerar desvantagem exagerada ao consumidor (Tema 27/STJ), e de que a comissão de permanência não se confunde com a cumulação de encargos moratórios autônomos (juros remuneratórios, juros de mora e multa).
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS. ABUSIVIDADE. NÃO CONFIGURAÇÃO. SÚMULA 83/STJ. CAPITALIZAÇÃO DE JUROS. LEGALIDADE. SÚMULA 539/STJ. COMISSÃO DE PERMANÊNCIA. SÚMULA 472/STJ. AGRAVO INTERNO DESPROVIDO. 1. A jurisprudência do STJ é firme no sentido de que a estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade, sendo admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto. 2. É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000, em vigor como MP n. 2.170-36/2001, desde que expressamente pactuada. 3. Nos contratos bancários, é válida a cláusula que prevê a cobrança da comissão de permanência, calculada pela taxa média de mercado apurada pelo Banco Central do Brasil, não podendo, contudo, ser cumulada com outros encargos moratórios. (AgInt no AREsp n. 2.456.789/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 15/4/2025, DJe de 22/4/2025.)
+Constata-se, portanto, que o acórdão recorrido está em consonância com o atual entendimento firmado pelo Superior Tribunal de Justiça, o que atrai a incidência da Súmula n. 83/STJ:
+"Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Dessa forma, impõe-se o reconhecimento da inadmissibilidade do Recurso Especial.
+Ante o exposto, com fundamento no art. 1.030, inciso V, do Código de Processo Civil, INADMITO o Recurso Especial.
+Intimem-se. Cumpra-se.
+Cuiabá/MT, data da assinatura digital.
+Desa. Nilza Maria Pôssas de Carvalho
+Vice-Presidente
