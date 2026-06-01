@@ -1,0 +1,8 @@
+DECISÃO
+A. M. M. interpõe agravo regimental contra a decisão de fls. 582-583, que indeferiu liminarmente o writ.
+A defesa destaca que "não houve o trânsito em julgado da ação penal, sendo certo que os autos de origem se encontram para Julgamento neste col. STJ, através do ER Esp n. 2.165.287/SP".
+De fato, constatada a premissa equivocada e, analisando os autos, verifico haver reiteração de pedido, visto que a defesa interpôs recurso especial tratando da mesma tese.
+No HC n. 482.549/SP, a Terceira Seção desta Corte Superior entendeu que "a interposição do recurso cabível contra o ato impugnado e a contemporânea impetração de habeas corpus para igual pretensão somente permitirá o exame do writ se for este destinado à tutela direta da liberdade de locomoção ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e que reflita mediatamente na liberdade do paciente", sendo que, "nas demais hipóteses, o habeas corpus não deve ser admitido e o exame das questões idênticas deve ser reservado ao recurso previsto para a hipótese, ainda que a matéria discutida resvale, por via transversa, na liberdade individual".
+À vista do exposto, mantenho a decisão de fls. 582-583, por motivos diversos.
+Publique-se e intimem-se.
+EMENTA
