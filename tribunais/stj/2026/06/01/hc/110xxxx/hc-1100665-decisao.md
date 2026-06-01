@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de LUIZ RENATO FRABETTI GOLEGA, acusado da suposta prática de homicídio qualificado (Processo n. 1534395-65.2025.8.26.0228, da 5ª Vara do Júri da comarca de São Bernardo do Campo/SP).
+A impetrante aponta como autoridade coatora o Desembargador Relator da Segunda Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, que, em 24/3/2026, deferiu liminar na Cautelar Inominada n. 2070812-28.2026.8.26.0000 para conceder efeito suspensivo ativo ao recurso em sentido estrito e, consequentemente, decretar a prisão preventiva do paciente.
+Embora mencione decisão superveniente àquela proferida em medida cautelar no Tribunal de origem, as alegações relacionadas à ausência de fundamentação da prisão preventiva e à ilegalidade em seu processamento, por ausência de citação do acusado, reproduzem, em essência, teses já deduzidas anteriormente no HC n. 1.086.277/SP, sem demonstração de alteração relevante do quadro processual ou fático examinado naquela ocasião.
+A reiteração de pedido não é admitida nesta Corte. A propósito, por exemplo, estes precedentes: AgRg no RHC n. 106.171/RJ, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 1º/3/2019; e AgRg no RHC n. 84.693/BA, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 16/8/2017.
+Ademais, a tese de cerceamento de defesa (rejeição da resposta à acusação, deficiência da atuação defensiva e impossibilidade de produção probatória) não se confundem com os fundamentos da prisão preventiva decretada na medida cautelar inominada. Tais questões foram objeto de impugnação própria no Tribunal de origem, havendo notícia de julgamento colegiado no feito (HC n. 2051907-72.2026.8.26.0000). Contudo, a defesa deixou de instruir os autos com cópia do respectivo acórdão, circunstância que impede a adequada compreensão da controvérsia e inviabiliza o exame da matéria por esta Corte Superior.
+Tal a circunstância, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. AUSÊNCIA DE IMPUGNAÇÃO DE ATO COLEGIADO DO TRIBUNAL ESTADUAL. INCOMPETÊNCIA DO STJ. REITERAÇÃO DE PEDIDOS. CERCEAMENTO DE DEFESA. INSTRUÇÃO DEFICIENTE.
+Writ indeferido liminarmente.
