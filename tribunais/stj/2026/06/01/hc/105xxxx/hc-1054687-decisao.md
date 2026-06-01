@@ -1,0 +1,61 @@
+DECISÃO
+MONACI EDUARDO FLORÊNCIO alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Goiás no Habeas Corpus n. 5721324-77.2025.8.09.0175.
+A defesa aduz, em síntese, que a paciente foi condenada à pena de 4 anos, 5 meses e 20 dias de reclusão em regime inicial fechado, em razão da reincidência, e que a sentença, embora reconhecesse o direito à detração penal, não realizou o respectivo cálculo.
+Sustenta que o período total de custódia cautelar (4 meses e 19 dias de prisão preventiva e 11 meses e 22 dias de prisão domiciliar) totaliza 1 ano, 4 meses e 11 dias, lapso suficiente para alterar o regime inicial do fechado para o semiaberto.
+Argumenta que o prévio recolhimento à prisão configura condição excessivamente gravosa a obstar o acesso aos benefícios da execução, hipótese em que seria cabível a expedição da guia definitiva sem prévia prisão.
+Requer a expedição imediata da guia de execução definitiva, independentemente do cumprimento do mandado de prisão, a fim de que a defesa formule os pedidos pertinentes ao Juízo da Execução Penal (fls. 2-17).
+Indeferida a liminar (fls. 43-44).
+O juízo da execução penal e o Tribunal de origem prestaram informações (fls. 50-59 e 60-77, respectivamente).
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (fls. 81-83).
+Decido.
+Os arts. 674 do CPP e 105 da LEP estabelecem que, transitando em julgado a sentença que impuser pena privativa de liberdade, se o réu já estiver preso, ou vier a ser preso, o juiz ordenará a expedição de carta de guia para o cumprimento da pena.
+Em regra, a expedição de guia de execução é condicionada à prisão do condenado. Entretanto, sempre se deve buscar a racionalidade do ordenamento jurídico e, portanto, quando houver risco de lesão irreparável ao direito de locomoção do apenado, admite-se o temperamento do procedimento formal para o início da execução penal.
+Nesse sentido, tanto esta Corte Superior quanto o STF já possuem o entendimento de que a expedição da guia de execução independe do recolhimento prévio do condenado, de sorte a permitir à defesa postular os benefícios inerentes à execução penal ao Juízo competente. Vejam-se:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. CONDENAÇÃO PELOS CRIMES DE ROUBO. TRÂNSITO EM JULGADO. PACIENTE EM LIBERDADE. NÃO RECOLHIMENTO À PRISÃO. ÓBICE AO INÍCIO DA EXECUÇÃO PENAL. IMPOSSIBILIDADE DE ACESSO AO JUDICIÁRIO. CIRCUNSTÂNCIA EXCEPCIONAL QUE JUSTIFICA EMISSÃO DE GUIA DE EXECUÇÃO DA PRISÃO. RECURSO PROVIDO.
+1. Nos termos dos arts. 105 da Lei n. 7.210/1984 e 674 do Código de Processo Penal, a expedição da guia de recolhimento - e consequente início da competência do juízo das execuções - demanda prévia prisão do réu.
+2. No entanto, nos termos do art. 5º, inciso XXXV da Constituição Federal, a lei não excluirá da apreciação do Poder Judiciário lesão ou ameaça a direito.
+3. Na espécie, justifica-se a expedição da guia de execução independentemente do cumprimento do mandado de prisão. Precedentes do STF e do STJ.
+4. Recurso ordinário em habeas corpus provido para determinar a expedição de guia de execução definitiva, independente do prévio recolhimento do paciente ao cárcere, de modo que a defesa possa formular os benefícios inerentes à execução penal.
+(RHC n. 114.208/SC, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 30/8/2019, destaquei)
+ ..
+5. Malgrado não se desconheça o teor do art. 105 da Lei de Execuções Penais, segundo o qual a expedição da carta de sentença está condicionada ao recolhimento à prisão do condenado à pena privativa de liberdade, verifica-se, in casu, ser manifestamente desproporcional e desnecessária a colocação da paciente em cárcere, notadamente quando, à época da impetração (17/12/2014), cumpriu-se aproximadamente 3 (três) anos e 5 (cinco) meses da pena imposta, sendo indeferido o requerimento por demasiado apego à formalidade estampado pelo juízo de piso.
+6. A Segunda Turma do Supremo Tribunal Federal já determinou a expedição de guia de execução sem a prisão do condenado, para possibilitar a análise de pedido de detração pelo Juízo das Execuções (HC n. 119.153/SP, Rel. Ministra Cármen Lúcia, decisão monocrática de 28/10/2013).
+7. Impossibilidade de se perfazer, nesse momento, a cognoscibilidade da detração penal propriamente dita e, por conseguinte, eventual análise da progressão de regime, porque seria necessário o reexame de fatos e provas, somado ao fato de não ter sido apreciado pelas circunstâncias ordinárias, culminando em indevida supressão de instância.
+8. Habeas corpus não conhecido. Ordem concedida de ofício para que seja expedida a guia de recolhimento provisória em prol da paciente, devendo, ainda, o Juízo de Origem analisar eventual detração e progressão de regime em favor da paciente.
+(HC n. 312.561/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 13/6/2016, grifei)
+No mesmo sentido, o HC n. 147.377 (Rel. Ministro Edson Fachin, DJe 6/9/2017), o HC n. 119.153 (Rel. Ministra Carmen Lúcia, DJe 6/6/2014) e o HC n. 366.616/SP (Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 5/5/2017).
+III. O caso dos autos
+Monaci Eduardo Florêncio requer a expedição da guia de recolhimento definitiva independentemente de sua prévia prisão, a fim de viabilizar, perante o Juízo das Execuções Criminais, o pedido de detração penal com eventual modificação do regime inicial de cumprimento da sanção.
+O juízo da execução penal, no processo-crime n. 0163073-58.2018.8.09.0175, após o trânsito em julgado da condenação em 6/6/2025, indeferiu o pedido de detração formulado pela defesa e determinou a expedição de mandado de prisão para o início do cumprimento da pena, ao fundamento de que o art. 105 da Lei de Execução Penal exige a prisão do condenado para a expedição da guia e de que a competência para análise da detração passou ao Juízo da Execução Penal.
+A decisão foi proferida com os seguintes argumentos (fls. 24-32, destaques no original):
+ ..
+Conforme se infere dos autos, após regular instrução processual, condenei LUCIANA GONÇALVES DA SILVA SANTOS e KAMILLA PEREIRA DO NASCIMENTO PINHEIRO pela prática dos crimes previstos no art. 2º, § 2º, e § 4º, inciso I, da Lei 12.850/2013 e no art. 33, caput, da Lei 11.343/2006, cada uma, ao cumprimento de pena privativa de liberdade total de 8 (oito) anos e 6 (seis) meses de reclusão, além do pagamento de 511 (quinhentos e onze) dias-multa, em regime inicial fechado.
+Demais disso, condenei MONACI EDUARDO FLORÊNCIO pela prática do crime previsto no art. 2º, § 2º, e § 4º, inciso I, da Lei 12.850/2013, ao cumprimento de pena privativa de liberdade de 4 (quatro) anos, 5 (cinco) meses e 20 (vinte) dias de reclusão, além do pagamento de 12 (doze) dias- multa, em regime inicialmente fechado, em razão da reincidência da supracitada ré.
+Após o julgamento de todos os recursos manejados, a sentença prolatada neste feito em desfavor de LUCIANA GONÇALVES DA SILVA SANTOS, KAMILLA PEREIRA DO NASCIMENTO PINHEIRO e MONACI EDUARDO FLORÊNCIO foi mantida pelos Tribunais Superiores e, no dia 06/06/2025, em decorrência do trânsito em julgado da supramencionada sentença, bem como levando em consideração que, para início do cumprimento da pena no regime fechado, o art. 105 da Lei de Execução Penal exige que o sentenciado esteja preso, decretei a prisão penal das retromencionadas sentenciadas para que iniciassem o cumprimento das reprimendas impostas.
+Sobre a necessidade de decretação da prisão penal do sentenciado para o início do cumprimento da pena em regime fechado, observe-se o julgado do Tribunal de Justiça do Estado de Goiás:
+ .. .
+O Tribunal de origem denegou a ordem impetrada pela defesa, ao fundamento de que, após o trânsito em julgado, compete ao juízo da execução penal a análise da detração e a eventual modificação do regime, e de que não há constrangimento ilegal na expedição do mandado de prisão (fls. 18-23).
+O acórdão apontado como coator foi assim ementado (fls. 22-23, destaques no original):
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. DETRAÇÃO PENAL. COMPETÊNCIA. TRÂNSITO EM JULGADO. PRISÃO DEFINITIVA. ORDEM DENEGADA.
+I. CASO EM EXAME
+1. Trata-se de habeas corpus impetrado em favor de paciente condenada pelo crime previsto no art. 2º, §§ 2º e 4º, inc. I, da Lei 12.850/2013, à pena de 4 anos, 5 meses e 20 dias de reclusão, em regime inicialmente fechado. A sentença reconheceu o direito à detração penal, mas não a implementou. Após o trânsito em julgado da condenação, o juízo de primeiro grau indeferiu o pedido de detração e determinou a expedição de mandado de prisão para o início do cumprimento da pena, sob o fundamento de que a competência para tal análise pertence ao Juízo da Execução Penal. O impetrante busca a aplicação da detração penal para alterar o regime inicial de cumprimento de pena para o semiaberto.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber: (i) se o habeas corpus é a via adequada para determinar a detração penal e a alteração do regime de cumprimento da pena, após o trânsito em julgado da condenação e a declinação da competência para o Juízo da Execução Penal; (ii) se a decisão que indefere o pedido de detração e ordena a expedição de mandado de prisão, remetendo a matéria ao Juízo da Execução Penal, configura constrangimento ilegal.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus, por seu rito sumário, não é o meio processual adequado para proceder ao cálculo da detração penal;
+4. Após o trânsito em julgado da sentença condenatória e a ausência de implementação da detração penal na fase de conhecimento, a competência para a análise e o cálculo da detração, bem como para a eventual alteração do regime prisional, recai sobre o Juízo da Execução Penal.
+5. A decisão que determina a expedição de mandado de prisão para o início do cumprimento da pena, após o trânsito em julgado da condenação, não configura ilegalidade, estando em conformidade com as normas processuais penais e de execução penal.
+IV. DISPOSITIVO E TESE
+6. O pedido é parcialmente conhecido e, nesta extensão, denegado.
+7. Tese de julgamento: "1. O habeas corpus não se presta para a realização de cálculos de detração penal após o trânsito em julgado da sentença condenatória." "2. A competência para a análise da detração penal e a eventual modificação do regime prisional, não realizada na sentença e após o trânsito em julgado, é do Juízo da Execução Penal." "3. Não há constrangimento ilegal na expedição de mandado de prisão para o início do cumprimento da pena, em regime fechado, após o trânsito em julgado da condenação."
+Na espécie, a pretensão defensiva não merece amparo.
+A defesa sustenta que a detração do período de custódia cautelar (1 ano, 4 meses e 11 dias) acarretaria a alteração do regime inicial do fechado para o semiaberto.
+Todavia, a paciente é reincidente. Essa circunstância influi diretamente no percentual mínimo de cumprimento de pena exigido para a progressão de regime, previsto no art. 112 da Lei de Execução Penal. A definição de qual fração se aplica ao caso concreto e, por consequência, se a detração alegada seria suficiente para modificar o regime, demanda análise específica que extrapola os limites desta via.
+É certo que a jurisprudência do Superior Tribunal de Justiça - STJ e do Supremo Tribunal Federal - STF admite, em hipóteses excepcionais, a expedição da guia de execução definitiva sem o prévio cumprimento do mandado de prisão.
+A exceção se justifica quando o recolhimento ao cárcere configura condição excessivamente gravosa a obstar o mero pleito de benefícios aos quais o sentenciado provavelmente faz jus (como a progressão de regime ou a prisão domiciliar).
+Não há, portanto, clareza sobre o impacto da detração no regime inicial, o que afasta a demonstração de excepcionalidade exigida pela jurisprudência para a mitigação da regra geral.
+Com o cumprimento do mandado de prisão, instaurar-se-á o processo de execução penal, ocasião em que a defesa poderá formular ao juízo da execução penal os pedidos de detração e de eventual adequação do regime inicial, com a devida análise das variáveis do caso concreto, nos termos dos arts. 66 e 105 da Lei de Execução Penal e 674 do CPP.
+III. Dispositivo
+À vista do exposto, denego a ordem de habeas corpus.
+Publique-se e intimem-se.
+EMENTA
