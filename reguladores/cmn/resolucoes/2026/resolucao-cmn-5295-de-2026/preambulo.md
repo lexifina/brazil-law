@@ -1,0 +1,4 @@
+Voto RESOLUÇÃO CMN Nº 5.295, DE 23 DE ABRIL DE 2026
+Altera a Resolução nº 4.222, de 23 de maio de 2013, que dispõe sobre as contribuições a serem pagas pelas instituições associadas, as condições para dispor da garantia especial, os tipos de instituições associadas e o estatuto e o regulamento do Fundo Garantidor de Créditos – FGC, para estabelecer novas regras relativas à contribuição adicional e às condições em que as instituições associadas ao FGC devem manter montante alocado em títulos públicos federais.
+O Banco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, torna público que o Conselho Monetário Nacional, em sessão realizada em 23 de abril de 2026, com base nos arts. 3º, caput, inciso VI, e 4º, caput, inciso VIII, da referida Lei e no art. 28, § 1º, da Lei Complementar nº 101, de 4 de maio de 2000,
+R E S O L V E U :
