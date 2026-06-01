@@ -1,0 +1,12 @@
+DECISÃO
+Vistos.
+Verifico que a presente controvérsia envolve a discussão de tema afetado ao rito dos recursos especiais repetitivos no julgamento do REsp n. 2.171.274/RS - Tema n. 1.416/STJ: Definir se os créditos presumidos do Imposto sobre Circulação de Mercadorias e Serviços - ICMS, concedidos pelos Estados-membros como incentivo fiscal à pessoa jurídica, podem ser excluídos das bases de cálculo do Imposto sobre a Renda de Pessoa Jurídica - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL, nos regimes jurídicos anterior e posterior à Lei n. 14.789/2023", no qual foi determinada a suspenção da tramitação dos Recursos Especiais e Agravos em Recursos Especiais em segundo grau de jurisdição e/ou no Superior Tribunal de Justiça, adotando-se, neste último caso, a providência prevista no art. 256-L do RISTJ:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PROPOSTA DE AFETAÇÃO COMO REPRESENTATIVO DA CONTROVÉRSIA. TRIBUTÁRIO. CRÉDITOS PRESUMIDOS DE ICMS CONCEDIDOS A TÍTULO DE INCENTIVO FISCAL. INCLUSÃO NAS BASES DE CÁLCULO DO IMPOSTO SOBRE A RENDA DE PESSOA JURÍDICA - IRPJ E DA CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO - CSLL. REGIMES JURÍDICOS ANTERIOR E POSTERIOR À LEI N. 14.789/2023.
+1. Delimitação da questão de direito controvertida: Definir se os créditos presumidos do Imposto sobre Circulação de Mercadorias e Serviços - ICMS, concedidos pelos Estados-membros como incentivo fiscal à pessoa jurídica, podem ser excluídos das bases de cálculo do Imposto sobre a Renda de Pessoa Jurídica - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL, nos regimes jurídicos anterior e posterior à Lei n. 14.789/2023.
+2. Determinada a suspensão dos REsps e AREsps em segundo grau de jurisdição e/ou no Superior Tribunal de Justiça, adotando-se, neste último caso, a providência prevista no art. 256-L do RISTJ.
+3. Recurso especial submetido à sistemática dos recursos repetitivos, em afetação conjunta com os REsps ns. 2.221.127/PE, 2.188.361RS e 2.188.282/PR.
+(ProAfR no REsp n. 2.171.374/RS, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 10/3/2026, DJEN de 16/3/2026.)
+Posto isso, DETERMINO a devolução dos autos ao tribunal de origem, com a devida baixa, para que o processo permaneça suspenso até a publicação dos acórdãos dos recursos referentes ao Tema acima identificado, a fim de que a Corte de origem, posteriormente, proceda ao juízo de conformidade.
+Prejudicado o exame do recurso especial.
+Publique-se e intimem-se.
+EMENTA
