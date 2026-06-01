@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de RODRIGO CAMILO DE SOUZA apontando como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais (Revisão Criminal n. 1.0000.25.221764-1/000).
+Depreende-se dos autos que o paciente foi condenado definitivamente, como incurso nas sanções dos arts. 33 e 35 da Lei n. 11.343/2006, à pena total de 10 anos, 1 mês e 15 dias de reclusão, a ser cumprida no regime inicial fechado.
+Ajuizada revisão criminal, o pedido foi julgado improcedente pelo Tribunal de origem (e-STJ fls. 10/20).
+Daí o presente writ, no qual alega a Defesa que o paciente sofre constrangimento ilegal decorrente da equivocada dosimetria da reprimenda que lhe foi aplicada.
+Requer, desse modo, a concessão da ordem para (e-STJ fl. 8):
+(i) Determinar o reconhecimento obrigatório da atenuante da menoridade relativa prevista no artigo 65, inciso I, do Código Penal, na fração de 1/6 (um sexto) da pena-base, com a consequente redução do quantum da reprimenda e a adequação do regime inicial de cumprimento de pena ao novo patamar obtido, nos termos do artigo 33, § 2º, do Código Penal, e das Súmulas nºs 718 e 719 do STF e 440 desta Corte Superior;
+(ii) Determinar a correção do erro material no sistema de execução penal (SEUU/TJMG), para que a pena registrada corresponda ao total de 10 (dez) anos, 1 (um) mês e 15 (quinze) dias de reclusão, conforme fixado pelo acórdão da Apelação Criminal nº 1.0000.23.146580-8/001, com o consequente recálculo da detração, dos marcos de progressão de regime e de todos os demais benefícios executórios;
+(iii) Determinar a expedição, se cabível diante da nova dosimetria, de alvará de soltura ou de adaptação do regime prisional em favor do Paciente, em observância ao princípio constitucional da individualização da pena (art. 5º, XLVI, CF) e ao princípio da legalidade.
+Liminar indeferida (e-STJ fls. 108/109).
+O Ministério Público Federal manifestou-se pela denegação do habeas corpus (e-STJ fls. 121/124).
+É o relatório.
+Decido.
+A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.  ..  MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE.  ..  AGRAVO REGIMENTAL DESPROVIDO.
+ ..  2. Não se conhece de habeas corpus impetrado concomitantemente com o recurso especial, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+ ..  (AgRg no HC n. 904.330/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. O recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo.
+ ..  (AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/9/2023, DJe de 25/9/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..  (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO. APLICAÇÃO DO IN DUBIO PRO REO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. POSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. "Firmou-se nesta Corte o entendimento de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 733.751/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/9/2023, DJe de 20/9/2023). Não obstante, em caso de manifesta ilegalidade, é possível a concessão da ordem de ofício, conforme preceitua o art. 654, § 2º, do Código de Processo Penal" (AgRg no HC n. 882.773/SP, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+ ..  (AgRg no HC n. 907.053/SP, de minha relatoria, Sexta Turma, julgado em 16/9/2024, DJe de 19/9/2024.)
+Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção.
+No caso, não há que se falar em teratologia ou flagrante ilegalidade apta a ensejar a superação do supracitado entendimento.
+No ponto, cumpre destacar que "a revisão da dosimetria da pena no habeas corpus somente é permitida nas hipóteses de falta de fundamentação concreta ou quando a sanção aplicada é notoriamente desproporcional e irrazoável diante do crime cometido" (HC n. 339.769/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/9/2017, DJe de 2/10/2017).
+Ademais, cabe, ainda, a ponderação do Ministro Ribeiro Dantas, relator nos autos do HC n. 974.866/SP, que, em decisão monocrática em caso análogo, observou que "a não incidência da atenuante em questão foi justificada pelo fato de o paciente ter completado 21 anos durante a consumação do delito. Ressaltou-se que, sendo o delito de associação para o tráfico de natureza permanente, a consumação se prolonga no tempo. Desse modo, tendo o paciente completado 21 anos em 25/11/2018 e tendo a consumação do crime se verificado até 19/12/2018, é inviável a incidência da atenuante da menoridade relativa, que só se aplica ao agente menor de 21 anos na data do fato".
+Por fim, no presente caso, a Corte estadual afirmou que a consumação do delito só ocorreu após o paciente ter completado 21 anos de idade. Desse modo, acatar a tese defensiva implicaria o revolvimento dos fatos tidos por incontroversos nas instâncias ordinárias, o que não encontra guarida na estreita via do habeas corpus.
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
