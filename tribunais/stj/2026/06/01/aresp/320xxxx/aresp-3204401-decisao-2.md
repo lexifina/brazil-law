@@ -1,0 +1,25 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por RODRIGO CARVALHO COSTA E OUTROS contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 18/12/2024.
+Concluso ao gabinete em: 27/4/2026.
+Ação: em cumprimento de sentença, ajuizada por RODRIGO CARVALHO COSTA E OUTROS, em face de CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - PREVI, na qual requer a percepção de parcelas de cesta alimentação, a revisão da complementação de aposentadoria da pensionista e o pagamento das diferenças apuradas.
+Sentença: julgou procedentes os pedidos, para: i) acolher a impugnação; ii) declarar excesso de execução de R$ 12.650,04 (doze mil, seiscentos e cinquenta reais e quatro centavos); iii) extinguir o cumprimento de sentença; iv) condenar a parte exequente ao pagamento de honorários de 10% (dez por cento) sobre o excesso reconhecido.
+Acórdão: negou provimento ao recurso de apelação interposto por RODRIGO CARVALHO COSTA E OUTROS, nos termos da seguinte ementa (e-STJ fls. 515-516):
+APELAÇÃO CÍVEL - CUMPRIMENTO DE SENTENÇA - DECORRENTE DA PERCEPÇÃO DE VALORES REFERENTES A OBRIGAÇÃO DE PAGAR QUANTIA CERTA, PRINCIPAL E HONORÁRIOS ADVOCATÍCIOS, ORIUNDOS DE SENTENÇA DE REVISÃO DE APOSENTADORIA SUPLEMENTAR - PREVIDÊNCIA PRIVADA - VALOR INCONTROVERSO PAGO PELA EXECUTADA E LEVANTADO PELA EXEQUENTE - R$ 236.127,94 (DUZENTOS E TRINTA E SEIS MIL, CENTO E VINTE E SETE REAIS E NOVENTA E QUATRO REAIS) - IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA - EXCESSO DE EXECUÇÃO NO IMPORTANTE DE R$ 12.650,04 (DOZE MIL SEISCENTOS E CINQUENTA REAIS E QUATRO CENTAVOS) - DIFERENÇA EM RAZÃO DE APLICAÇÃO AO NÃO DA SÚMULA 111 DO STJ - LAUDO PERICIAL QUE SUSTENTA A DIFERENÇA APURADA COMO EXCESSO DE EXECUÇÃO - APLICAÇÃO DA SÚMULA 111 DO STJ: OS HONORÁRIOS ADVOCATÍCIOS, NAS AÇÕES PREVIDENCIÁRIAS, NÃO INCIDEM SOBRE AS PRESTAÇÕES VENCIDAS APÓS A SENTENÇA - FIXAÇÃO QUANDO DA ELABORAÇÃO DOS CÁLCULOS MATEMÁTICOS -SENTENÇA ACOLHE A IMPUGNAÇÃO DA EXECUÇÃO E DAR POR SATISFEITA O CUMPRIMENTO DA OBRIGAÇÃO - QUESTÃO SOBRE A INCIDÊNCIA DA SÚMULA NO CUMPRIMENTO DE SENTENÇA DAS AÇÕES PREVIDENCIÁRIAS - MANUTENÇÃO DO ENUNCIADO SUMULAR - RECURSO CONHECIDO E IMPROVIDO - DECISÃO UNÂNIME.
+Embargos de Declaração: opostos por RODRIGO CARVALHO COSTA E OUTROS, foram acolhidos para o fim de inverter o ônus sucumbencial, reconhecer a sucumbência mínima dos apelantes e determinar que a PREVI arque com custas e honorários de 10% (dez por cento) sobre o valor da condenação.
+Recurso especial: alega violação dos arts. 505, 506, 507, 508, e 509, § 4º, do CPC, bem como dissídio jurisprudencial. Afirma que a aplicação da Súmula 111 no cumprimento de sentença altera a base de cálculo dos honorários definida no título executivo e desrespeita a coisa julgada. Aduz que o Tema 1105 do STJ trata da fixação dos honorários na fase de conhecimento e não autoriza modificação na execução. Argumenta que a execução contempla apenas parcelas vencidas, afastando a limitação a prestações vincendas. Assevera, subsidiariamente, a necessidade de fixação de honorários no cumprimento de sentença, nos termos da lei e da Súmula 517 do STJ.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à base de cálculo sobre a qual incidiria os honorários sobre a condenação, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, qual seja: a base de cálculo sobre a qual incidiria os honorários sobre a condenação, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Isso porque, a demonstração da divergência não pode estar fundamentada em questões de fato, mas apenas na interpretação do dispositivo legal. Nesse sentido: AgInt no AREsp n. 1.974.371/RJ, Terceira Turma, DJe de 22/11/2023 e REsp n. 1.907.171/RJ, Quarta Turma, DJe de 11/1/2024.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários na forma do art. 85, § 11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO DE APOSENTADORIA SUPLEMENTAR E PAGAMENTO DAS DIFERENÇAS APURADAS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO PREJUDICADO.
+1. Ação de revisão de aposentadoria suplementar e pagamento das diferenças apuradas.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+4. Agravo conhecido. Recurso especial não conhecido.
