@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por MARCIO APARECIDO DE OLIVEIRA à decisão de fls. 140/141, que não conheceu do recurso.
+Sustenta a parte embargante:
+O vício de fundamentação da r. decisão de fls. 140 é evidente, uma vez que o julgado incorreu em omissão ao deixar de apreciar a realidade fática e documental consolidada nos autos, limitando-se a considerar a petição de fls. 134 e ignorando por completo a retificação tempestiva protocolada às fls. 136/137.
+A análise isolada da petição anterior em detrimento do protocolo subsequente de fls. 136/137 configura erro de premissa fática, pois a juntada da procuração correta supre a irregularidade apontada e demonstra que o patrono possui plena capacidade postulatória para atuar no feito. É imperativo destacar que o instrumento de mandato conferido pelo outorgante é inequívoco ao conceder amplos poderes para o foro, inclusive com a cláusula ad judicia et extra, habilitando este advogado a praticar todos os atos processuais em qualquer repartição, juízo, instância ou Tribunal, o que abrange de forma indiscutível a atuação perante esta Corte Superior.
+Dessa forma, resta demonstrado que os poderes concedidos são amplos e abrangentes para todas as fases e tribunais, sendo relevante observar que este patrono é o mesmo que atuou na demanda originária, possuindo pleno conhecimento e legitimidade para a condução da causa. A manutenção da decisão é necessária que não conhece o recurso por falta de representação, ignorando a retificação da diligência de regularização (fls. 144/145).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Impende ressaltar que, em se tratando de procuração ao subscritor do Recurso Especial, ou ao subscritor do Agravo em Recurso Especial, a regular cadeia de representação deveria estar demonstrada no momento da apresentação dos referidos recursos, o que não aconteceu no caso concreto.
+Porém, o Código de Processo Civil abre a possibilidade de regularização posterior do vício de representação, nos termos do art. 76 do Código de Processo Civil.
+Diante dessa premissa, foi percebido, nesta Corte, que o subscritor do Agravo e do Recurso Especial, Dr. JOSÉ GUSTAVO DOS SANTOS CALSAVARA, não tinha procuração nos autos, razão pela qual houve a intimação da parte embargante para que o referido vício fosse sanado (fl. 128).
+Apesar disso, mesmo tendo sido regularmente intimada para efetuar o saneamento, não houve a devida regularização da representação processual, porquanto o instrumento de mandato juntado à fl. 133 não pode ser aceito. Veja que o referido documento possui data posterior (19.03.2026) à da interposição do Recurso Especial que ocorreu em 06.05.2025 e do Agravo em Recurso Especial que ocorreu em 30.01.2026.
+Nesse sentido, em recente julgado, a Corte Especial assim decidiu:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE REPRESENTAÇÃO PROCESSUAL QUANDO DA INTERPOSIÇÃO DO AGRAVO EM RECURSO ESPECIAL E DO RECURSO ESPECIAL NA INSTÂNCIA ESPECIAL. NÃO CORREÇÃO DA IRREGULARIDADE MESMO APÓS INTIMAÇÃO PARA ESTE FIM. OUTORGA DE PODERES PELA PARTE AO SUBSCRITOR DO AGRAVO EM RECURSO ESPECIAL E DO RECURSO ESPECIAL EM DATA POSTERIOR AO DA SUA INTERPOSIÇÃO. PROVIMENTO DO AGRAVO INTERNO.
+I. CASO EM EXAME
+1. Agravo interno interposto em face da decisão monocrática que deu provimento a anterior agravo interno a fim de reconsiderar decisão da Presidência desta Corte que não conhecera do agravo da ora recorrida (dirigido contra a inadmissão de recurso especial) com base na Súmula n. 115/STJ.
+II. QUESTÃO EM DISCUSSÃO
+2. Ausência de representação processual na instância especial uma vez que o agravo em recurso especial e o recurso especial foram opostos por advogado sem instrumento de mandato nos autos e a respectiva apresentação somente ocorreu em data posterior ao da interposição dos recursos.
+III. RAZÕES DE DECIDIR
+3. Consoante firmado por jurisprudência consolidada desta Corte, os poderes outorgados ao subscritor do recurso na instância especial devem ter sido conferidos em data anterior à da respectiva interposição, salvo comprovada situação excepcional indicada no artigo 104 do Código de Processo Civil, sob pena de não conhecimento do recurso por inexistência (Súmula 115/STJ).
+4. Na hipótese, verifica-se que os poderes conferidos ao signatário do agravo em recurso especial e do recurso especial no instrumento de procuração juntado aos autos somente foram outorgados em data posterior ao da interposição do recurso, sem que houvesse a respectiva justificativa para tanto.
+IV. DISPOSITIVO
+5. Agravo interno provido para não conhecer do agravo em recurso especial.
+(AgInt nos EDcl no AgInt no AREsp n. 2.506.209/SP, Rel. Ministro Moura Ribeiro, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, DJEN de 18.12.2025.).
+Registre-se que a petição de fls. 136/138, que juntou a noticiada procuração de fl. 137, não pode ser aceita para o fim de regularização da representação, em razão da preclusão consumativa, porquanto já realizado o ato por meio da petição de fls.132/134.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 31.8.2020; AgInt no AREsp 1639930/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 3.8.2020; AgInt nos EDcl no AREsp 1342656/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 7.5.2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
