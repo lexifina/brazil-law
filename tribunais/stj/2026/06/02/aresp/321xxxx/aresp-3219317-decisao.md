@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo interposto por AMANDA PEREIRA DE BRITO MEDEIROS DE CAMPOS e OUTROS contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 1.163):
+Apelação. Ação de rescisão contratual c. c. pedido indenizatório por danos material e moral. A questão em discussão consiste em determinar se houve conluio fraudulento entre o corréu cessionário e os demais corréus prestadores de serviços. As provas documentais e orais indicam que o apelado não participou do negócio jurídico referente à construção da nova casa dos autores. Má-fé que depende de comprovação robusta, não admitindo presunção. Os autores não podem exigir o reembolso do valor do imóvel cedido, pois este foi dado como parte do pagamento da empreitada, sem participação de cedente. Sentença mantida. Recurso não provido.
+Sem embargos de declaração.
+No recurso especial, a parte recorrente aduz que o acórdão contrariou as disposições contidas nos artigos 421, 422, 186 e 927 do Código Civil, bem como nos artigos 6º, VIII, 7º, parágrafo único, 25, §1º, e 17 do Código de Defesa do Consumidor.
+Sustenta que o Tribunal de origem consignou aos ora recorrentes o ônus de comprovar a alegada má-fé do recorrente sem considerar o disposto no Código de Defesa do Consumidor ao caso concreto.
+Afirma que a relação de consumo está caracterizada a relação de consumo entre as partes e que, na qualidade de consumidor, é destinatário final dos serviços de construção, hipótese que caracteriza hipossuficiência, devendo ser aplicado o disposto no art. 6º, VIII, do CDC, com inversão do ônus da prova.
+Afirma ainda que apresentou documentação que demonstra a má-fé do recorrido Antônio, cabendo a este demonstrar sua boa-fé, ônus do qual não teria se desincumbido.
+Assevera que o Tribunal de origem, ao exigir do consumidor prova cabal da má-fé do recorrente, afastou indevidamente a boa-fé objetiva, invertendo o ônus probatório em desfavor do recorrente/consumidor, em afronta aos arts. 113 e 422 do Código Civil e ao art. 6º, VIII, do CDC.
+Assevera, ainda, que, "nos termos dos arts. 7º, parágrafo único, e 25, §1º, do CDC, a responsabilidade dos fornecedores de serviços é solidária, alcançando todos os que, de qualquer forma, participem da cadeia de fornecimento ou contribuam para o dano. Antônio, ao receber o imóvel dos recorrentes sem pagamento, integrando-se ao esquema fraudulento com os demais corréus, não pode ser tratado como terceiro de boa- fé, devendo responder solidariamente pelos prejuízos suportados" (fl. 1.179).
+Reforça que o Tribunal validou ato simulado e fraudulento, em clara ofensa à boa-fé objetiva e à função social dos contratos.
+Aponta divergência jurisprudencial.
+Foram oferecidas contrarrazões ao recurso especial (fls. 1.218-1.229).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1.231-1.233), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 1.248-1.253).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Cinge-se a controvérsia a definir se houve conluio fraudulento e má-fé do corréu Antônio Soares Martins na "triangulação" que envolveu a cessão do imóvel dos autores e o contrato de construção, a fim de responsabilizá-lo solidariamente pelos danos, ou se, ao contrário, ele atuou como cessionário alheio ao negócio de empreitada, preservada a presunção de boa-fé e mantido o ônus probatório dos autores.
+Quanto à alegação de afronta aos artigos 421, 422, 186 e 927 do Código Civil, nem aos arts. 6º, VIII, 7º, parágrafo único, 25, § 1º, e 17 do Código de Defesa do Consumidor, o recurso não comporta conhecimento, visto que a recorrente limitou-se a enumerar os artigos de lei que entende violados sem, todavia, cotejar e explicitar os motivos pelos quais o comando normativo deixou de ser aplicado, o que também atrai os preceitos da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, cito:
+2. A alegação genérica de ofensa à lei, sem indicação clara dos motivos pelos quais a norma teria sido malferida esbarra na Súmula n. 284 do STF.
+(AgInt no AREsp n. 2.254.455/RJ, relator Ministro Moura Ribeiro, Terceira Turma, DJEN de 20/2/2025.)
+4. A parte agravante limita-se a reiterar argumentos genéricos, sem demonstrar, de maneira clara e objetiva, a violação de norma federal ou o desacerto da interpretação conferida pela instância inferior, o que configura deficiência de fundamentação e justifica o não conhecimento do recurso, à luz da Súmula 284/STF.
+(AgInt no AREsp n. 2.865.858/PE, relatora Ministra Daniela Teixeira, Terceira Turma, DJEN de 26/6/2025.)
+1. É inadmissível o recurso especial que não indica, de forma clara e objetiva, como o acórdão recorrido teria contrariado os dispositivos apontados como violados, caracterizando-se a deficiência de fundamentação da Súmula nº 284/STF.
+(AgInt no AREsp n. 2.474.913/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 25/9/2024.)
+O Tribunal de origem concluiu no sentido de que a cessão com quitação ampla é negócio autônomo, sem participação de Antônio no contrato de empreitada, e que não há prova robusta de sua má-fé, à luz das cláusulas contratuais e da análise das provas documentais e orais, como se pode depreender do seguinte trecho extraído do acórdão recorrido (fl. 1.165):
+Depreende-se do referido contrato de fls. 45/46 ( ) Frise-se que não há o registro de participação do corréu Antonio Soares Martins. Já do instrumento particular de cessão de direitos e obrigações de fls. 47/52 ( ) se extrai que os primeiros cederam ao último o imóvel ( ) dando eles "a mais plena, geral e irrevogável quitação ( )". ( ) Diante da documentação juntada aos autos por ambas as partes, e prova oral produzida, observa-se que Antonio não participou do negócio jurídico referente à regularização e construção da nova casa dos autores.
+Desse modo, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fático-probatória e interpretação das cláusulas contratuais, procedimentos vedados a esta Corte, em razão dos óbices das Súmulas n. 5 e 7/STJ.
+A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre o valor atualizado da causa, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem -se.
+ EMENTA
