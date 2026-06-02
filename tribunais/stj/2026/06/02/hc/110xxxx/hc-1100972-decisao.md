@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JOSE ANDERSON SANTOS MELO, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE, em razão de decisão monocrática proferida nos autos do HC n. 0013208-73.2026.8.25.0000, por Desembargador Relator, que deferiu parcialmente o pedido de liminar.
+Consta dos autos que o paciente foi condenado, em primeiro grau, pela prática de 2 (dois) crimes de tentativa de homicídio simples privilegiado, em concurso formal impróprio, à pena de 8 (oito) anos, 2 (dois) meses e 10 (dez) dias de reclusão, em regime inicial semiaberto, mantida a prisão preventiva.
+Posteriormente, em habeas corpus no TJSE, foi deferida a liminar para determinar que a autoridade coatora realize a compatibilização da prisão preventiva mantida com o regime prisional imposto na sentença proferida em 13/05/2026.
+No presente writ, a defesa alega que se impõe o afastamento da Súmula n. 691 do Supremo Tribunal Federal diante de flagrante ilegalidade decorrente da manutenção da prisão preventiva após a fixação do regime inicial semiaberto, por configurar execução antecipada em regime mais gravoso do que o título condenatório e violar a presunção de inocência.
+Sustenta que, reconhecido o regime semiaberto e ausentes circunstâncias excepcionais, deve ser assegurado o direito de recorrer em liberdade, vedando-se a compatibilização da custódia preventiva em detrimento da proporcionalidade.
+Argumenta, ainda, que a Resolução do Conselho Nacional de Justiça n. 474/2022 exige procedimento de apresentação para início de cumprimento da pena em unidade adequada, de modo que a ausência de alvará de soltura para apresentação e a manutenção automática em estabelecimento incompatível com o regime imposto configuram constrangimento ilegal.
+Aponta esvaziamento dos fundamentos da custódia, indicando alteração fática quanto ao risco derivado da convivência territorial, pois uma das vítimas estaria recolhida ao sistema prisional e a outra teria mudado de endereço; ressalta que a família do paciente mudou-se para município diverso, e enfatiza condições pessoais favoráveis, tais como primariedade, bons antecedentes, residência fixa, trabalho como pedreiro e filhos menores, além da inexistência de elementos concretos de reiteração delitiva ou de periculosidade que justifiquem a medida extrema.
+Requer, liminarmente e no mérito, a concessão da ordem para expedir alvará de soltura e assegurar o direito de recorrer em liberdade, com eventual imposição de medidas cautelares diversas da prisão; subsidiariamente, pugna pela observância da Resolução CNJ n. 474/2022, com a imediata adequação da situação prisional ao regime inicial semiaberto e expedição de alvará de soltura para apresentação.
+É o relatório.
+Decido.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+Trata-se da aplicação, por analogia, do verbete sumular 691 do Supremo Tribunal Federal, adotado por esta Corte Superior, que assim dispõe:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DE SUPERAÇÃO. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n. 691/STF.
+2. No caso, não se constata, prima facie, flagrante ilegalidade que autorize a mitigação da Súmula n. 691/STF, tendo em vista que o paciente foi denunciado pela suposta prática do delito capitulado no art. 33, caput, da Lei n. 11.343/2006.
+3. Não havendo notícia de que o Tribunal a quo tenha procedido ao exame meritório, reserva-se primeiramente àquele Órgão a apreciação da matéria ventilada no habeas corpus originário, sendo defeso a esta Corte Superior adiantar-se nesse exame, sobrepujando a competência da Corte de origem, mormente se o writ está sendo regularmente processado.
+4. Agravo regimental não provido.
+(AgRg no HC n. 907.691/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. SÚMULA N. 691 DA SUPREMA CORTE.
+IMPOSSIBILIDADE DE SUPERAÇÃO. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n. 691/STF.
+2. No caso, não se constata, prima facie, flagrante ilegalidade que autorize a mitigação da Súmula n. 691, da Suprema Corte, tendo em vista a indicação de necessidade da prisão cautelar para garantia da ordem pública a fim de impedir a continuidade das atividades criminosas.
+3. Não havendo notícia de que o Tribunal a quo tenha procedido ao exame meritório, reserva-se primeiramente àquele Órgão a apreciação da matéria ventilada no habeas corpus originário, sendo defeso a esta Corte Superior adiantar-se nesse exame, sobrepujando a competência da Corte a quo, mormente se o writ está sendo regularmente processado.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 872.481/RO, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 26/2/2024, DJe de 5/3/2024.)
+A jurisprudência das Cortes Superiores admite, de fato, a superação do referido óbice em hipóteses absolutamente excepcionais, nas quais a decisão impugnada se revele manifestamente ilegal, teratológica ou configure abuso de poder.
+No caso dos autos, todavia, não identifico, em análise perfunctória, a presença de flagrante ilegalidade apta a justificar a excepcional intervenção desta Corte. A decisão monocrática que deferiu parcialmente a liminar, embora sucinta, revela o entendimento do Relator na origem, no sentido de que
+Desse modo, os fundamentos para a manutenção da prisão cautelar do paciente são subsistentes. Entretanto, à luz do entendimento jurisprudencial firmado pelas Cortes Superiores, faz-se necessário compatibilizar a cautelar segregativa com o regime prisional semiaberto estabelecido na sentença, enquanto o paciente não inicia o cumprimento da pena.
+Ante o exposto, DEFIRO PARCIALMENTE o pedido liminar para determinar que a autoridade coatora realize a compatibilização da prisão preventiva mantida com o regime prisional imposto na sentença proferida em 13/05/2026.
+Outrossim, determino que seja oficiado o Juízo de primeiro grau informando-lhe a presente decisão, a fim de que adote as medidas necessárias ao cumprimento da presente liminar.
+Desse modo, a análise do pleito por esta Corte implicaria adiantar-se ao exame de mérito que ainda será realizado pelo colegiado do Tribunal de origem, o qual é o juiz natural para apreciar a controvérsia
+Ante o exposto, indefir o liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
