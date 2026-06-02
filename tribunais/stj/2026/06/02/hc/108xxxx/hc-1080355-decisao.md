@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de VITOR BERTACO RAMOS DE PAULA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em decorrência do julgamento do habeas corpus criminal n. 2009912-79.2026.8.26.0000 (fls. 2).
+Consta nos autos que o paciente foi inicialmente absolvido pelo Juízo da Vara Única da Comarca de Regente Feijó/SP, do crime previsto no artigo 35, caput, da Lei n. 11.343/2006, tendo sido condenado por infração ao artigo 33, caput, da Lei n. 11.343/2006, com reconhecimento da causa de diminuição do artigo 33, inciso § 4º, à pena de 4 (quatro) anos e 2 (dois) meses de reclusão, em regime inicial semiaberto, sendo negado o direito de recorrer em liberdade.
+A defesa impetrou habeas corpus no Tribunal de Justiça do Estado de São Paulo, que denegou a ordem (fls. 17-23).
+Na presente impetração, sustenta defesa a ausência de fundamentação concreta e idônea da decisão que decretou a prisão cautelar em desfavor do recorrente, afirmando que a manutenção da medida, mesmo após a sentença condenatória pelo crime de tráfico de drogas, com o reconhecimento da figura do tráfico privilegiado (art. 33, §4º, da Lei 11.343/06) e a fixação do regime inicial semiaberto, se mostra desproporcional e desprovida de fundamentação à luz dos princípios que regem a custódia processual.
+Declara que a manutenção da prisão cautelar em regime mais gravoso do que o fixado na sentença, ou mesmo a imposição da prisão para apelar quando estabelecido o regime inicial semiaberto, configura ofensa direta e insuperável ao princípio da proporcionalidade e, em especial, ao princípio da homogeneidade das prisões.
+Requer, ao final, a concessão da ordem para: (i) revogar a prisão preventiva e permitir que o paciente aguarde o julgamento de sua apelação em liberdade; e (ii) subsidiariamente, assegurar sua permanência em estabelecimento compatível com o regime semiaberto.
+Liminar indeferida às fls. 76-77.
+Informações prestadas às fls. 80-85 e 89-114.
+O Ministério Público Federal em parecer, às fls. 119-122, manifestou-se pela denegação da ordem.
+É o relatório. DECIDO.
+No presente caso, a análise da sentença condenatória que manteve a prisão preventiva, permite a conclusão de que a prisão cautelar encontra-se em consonância com a jurisprudência desta Corte sobre o tema, uma vez que fundamentadas em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública, notadamente em razão da quantidade de droga apreendida, a saber, 218,61 gramas de cocaína, além da qauntia de R$ 16.900,00 em espécie - fl. 71, circunstâncias que indicam a periculosidade concreta do agente e revelam a indispensabilidade da imposição da segregação cautelar.
+Sobre o tema:
+"A jurisprudência do Superior Tribunal de Justiça reconhece que a quantidade e a natureza das substâncias entorpecentes apreendidas constituem fundamentos adequados para a decretação da prisão preventiva" (AgRg no HC n. 1.015.446/RS, relator Ministro Og Fernandes, Sexta Turma, DJEN de 27/10/2025.)
+"A quantidade e a diversidade dos entorpecentes apreendidos podem justificar a prisão preventiva, evidenciando a gravidade concreta do delito" (AgRg no HC n. 1.022.656/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJEN de 7/10/2025.)
+Nesse sentido: AgRg no HC n. 923.584/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/9/2024; AgRg no RHC n. 193.464/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 22/8/2024; AgRg no RHC n. 190.350/MG, de minha relatoria, Quinta Turma, DJe de 16/8/2024 e AgRg no HC n. 914.608/MS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 16/8/2024).
+De mais a mais, não prospera a alegação de incompatibilidade entre a prisão preventiva e a fixação do regime semiaberto.
+In casu, destacou a corte de origem que "já foi expedida a pertinente guia de recolhimento provisória e que os informes judiciais noticiaram que ".. o paciente já foi transferido para o Centro de Progressão Penitenciária de Pacaembu-SP, estando em regime intermediário (semiaberto)" - fl. 22.
+Registra-se que a imposição de regime intermediário não obsta a negativa do direito de recorrer em liberdade, desde que a custódia preventiva seja devidamente ajustada ao regime prisional estabelecido, como ocorre no presente caso, inexistindo, portanto, a flagrante ilegalidade apontada.
+A propósito:
+"A jurisprudência desta Corte afirma que não há incompatibilidade entre a prisão preventiva e o regime semiaberto, desde que adequadas as condições da prisão provisória às regras do regime imposto" (AgRg no HC n. 1.005.460/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJEN de 18/12/2025.)
+"A fixação do regime intermediário não veda a negativa do recurso em liberdade, desde que se compatibilize a custódia preventiva com o regime prisional imposto na sentença condenatória" (AgRg no RHC n. 200.685/RJ, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 11/3/2025).
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
