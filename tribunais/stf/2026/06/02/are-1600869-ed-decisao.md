@@ -1,0 +1,39 @@
+DECISÃO:
+Vistos.
+Cuida-se de embargos de declaração opostos por Ronaldo Vianna Barreto contra decisão mediante a qual neguei seguimento ao recurso extraordinário com agravo, por entender que o acórdão recorrido não divergiu da jurisprudência firmada no âmbito da Suprema Corte no sentido de que a tese originária fixada no Tema 1.102 da Repercussão Geral foi superada pelo julgamento do mérito das ADIs 2.110 e 2.111, concluindo pela impossibilidade da revisão pretendida, inclusive para quem já tinha ajuizado ação revisional.
+Nas razões recursais, o embargante defende a existência de omissão na decisão embargada quanto à ausência de aplicação da modulação dos efeitos ao presente caso.
+Nesse tocante, aduz
+“É de se destacar a princípio que nos autos da ADI 2111, este Ministro relator apresentou proposta de modulação dos efeitos da decisão do mérito para que os segurados que propuseram a revisão da vida toda entre 16/12/2019 a 05/04/2024, lhes fosse garantido o direito a revisão, conforme se depreende do voto em anexo:
+Após o voto-vista do Ministro Dias Toffoli, que divergia do Ministro Nunes Marques (Relator) para: i) acolher parcialmente os embargos de declaração, para ampliar a modulação realizada no julgamento dos segundos embargos, assegurando o direito de opção àqueles que ajuizaram ações no período entre a publicização do julgamento do Tema Repetitivo nº 999 (REsp 1.596.203/PR), em 16/12/2019 (disponibilização da ementa e do acórdão no DJe), e a data da publicação da ata de julgamento do mérito da ADI nº 2.111/DF, em 05/04/2024; e ii) acrescentar, portanto, um terceiro item à modulação, para assegurar: “(a) a irrepetibilidade dos valores percebidos pelos segurados em virtude de decisões judiciais, definitivas ou provisórias, prolatadas até 5.4.2024, data da publicação da ata de julgamento do mérito da ADI 2.111; (b) excepcionalmente, no presente caso, a impossibilidade de se cobrarem valores a título de honorários sucumbenciais, custas e perícias contábeis dos autores que buscavam, por meio de ações judiciais pendentes de conclusão até a referida data, a chamada ‘Revisão da Vida Toda’; (c) o direito de opção àqueles que ajuizaram ações no período entre a publicização do julgamento do Tema Repetitivo nº 999 (REsp 1.596.203/PR), em 16/12/2019 (disponibilização da ementa e do acórdão no DJe), e a data da publicação da ata de julgamento do mérito da ADI nº 2.111/DF, em 05/04/2024. Ficam mantidas as eventuais repetições realizadas quanto aos valores a que se refere o item ‘a’ e os eventuais pagamentos quanto aos valores a que se refere o item ‘b’ efetuados”; e dos votos dos Ministros Gilmar Mendes, Flávio Dino e Luiz Fux, que acompanhavam o Relator, o processo foi destacado pelo Ministro Edson Fachin (Presidente). Plenário, Sessão Virtual de 1.5.2026 a 11.5.2026.
+Entretanto, nestes autos, o Ministro Relator não aplicou o entendimento por ele mesmo proposto, sendo omisso quanto a este ponto, o que configura, em breves linhas, matéria passível de embargos de declaração, conforme previsão expressa do art. 1.022 do CPC.”
+
+Requer o embargante sejam acolhidos os presentes embargos, “a fim de observar e aplicar no caso do recorrente o entendimento proposto pelo próprio ministro Dias Toffoli na ADI 2111.”
+É o relatório.Decido.
+Com razão o embargante.
+Conforme mencionado pelo recorrente, a controvérsia versada nestes autos está sendo apreciada pelo Plenário do Supremo Tribunal Federal no julgamento da ADI nº 2.111/DF, cujo julgamento em sessão virtual foi interrompido por pedido de destaque do Presidente, Ministro Edson Fachin.
+Em situações como a presente, esta Corte tem admitido que se proceda à devolução dos autos ao Tribunal de origem a fim de se aguardar a solução da controvérsia por meio do julgamento definitivo da ação de controle concentrado de constitucionalidade, em atenção ao disposto no art. 927, inc. I, do Código de Processo Civil.
+Nesse sentido, veja-se o entendimento proferido no RE nº 1.364.578, Relatora a Ministra Cármen Lúcia, DJe de 8/9/2022:
+“3. No voto condutor do acórdão recorrido, o Desembargador relator assentou:
+
+(…) confirmo o reconhecimento de ofício e incidental da inconstitucionalidade do artigo 26, §2º, III, da EC n. 103/2019, por ofensa aos princípios da igualdade, da proporcionalidade e da razoabilidade, devendo a RMI do benefício de aposentadoria por invalidez em comento ser calculada de acordo com as regras vigentes anteriormente à EC n. 103/2019, nos termos da sentença (fl. 4, edoc. 7)
+
+Está pendente de análise neste Supremo Tribunal a Ação Direta de Inconstitucionalidade n. 6.279, Relator o Ministro Roberto Barroso, cujo objeto, dentre outros dispositivos, é a validade constitucional do art. 26 da Emenda Constitucional n. 103/2019:
+
+1. Trata-se de ação direta de inconstitucionalidade, com pedido de medida cautelar, ajuizada pelo Partido dos Trabalhadores PT contra dispositivos da Emenda Constitucional nº 103, de 12 de novembro de 2019, que altera o sistema de previdência social e estabelece regras de transição e disposições transitórias.
+2. O requerente aduz, em síntese, a inconstitucionalidade formal dos arts. 1º (na parte em que altera o art. 40, § 22, da CF/1988); 19, § 1º, I, alíneas a, b e c; 20, inciso IV; e 26 da Emenda Constitucional nº 103/2019, assim redigidos: (…) (DJe 19.12.2019).
+
+O pedido formulado naquela ação é  para suspender a eficácia dos trechos impugnados, constantes dos arts. 1º (na parte em que altera o art. 40, § 22, da CF/1988); 19, § 1º, I, alíneas a, b e c; 20, inciso IV; e 26 da Emenda Constitucional nº 103/2019 (DJe 19.12.2019).
+Na espécie vertente, constata-se que o resultado do julgamento da Ação Direta de Inconstitucionalidade n. 6.279 poderá afetar a conclusão adotada pela Turma Recursal de origem, pois, ao reconhecer a inconstitucionalidade do artigo 26, §2º, III, da EC n. 103/2019, por ofensa aos princípios da igualdade, da proporcionalidade e da razoabilidade , a Segunda Turma Recursal de Santa Catarina determinou que, após o trânsito em julgado dessa declaração de inconstitucionalidade, seja alterada a Renda Mensal Individual RMI com pagamento dos valores retroativos.
+(...)
+No mesmo sentido também as decisões monocráticas proferidas no Recurso Extraordinário n. 995.900, Relator o Ministro Ricardo Lewandowski, DJe 7.11.2017; e no Recurso Extraordinário n. 1.390.185, de minha relatoria, DJe 11.7.2022. 4.
+Pelo exposto, determino a devolução dos autos à Segunda Turma Recursal de Santa Catarina para que aguarde o julgamento da Ação Direta de Inconstitucionalidade n. 6.279 e, após o julgamento do paradigma, exerça eventual juízo de retratação e, se  for o caso, retornem os autos a este Supremo Tribunal para apreciação do recurso extraordinário”.
+
+Aplicando essa orientação em casos análogos ao presente, confiram-se as recentes decisões singulares: RE nº 1.555.497/AL, Relatora a Ministra Cármen Lúcia, DJe de 23/6/25; RE nº 1.542.603, Relator o Ministro André Mendonça, DJe de 3/4/25; e RE nº 1.513.484/PR, Relator o Ministro Alexandre de Moraes, DJe de 23/9/24.
+Ainda na mesma linha em situações semelhantes: RE nº 1.478.856/RJ, Relator o Ministro Edson Fachin, DJe de 2/4/24; RE nº 1.461.799/RJ, Relator o Ministro Edson Fachin, DJe de 3/11/23; RE nº 1.446.878/RS, Relator o Ministro Roberto Barroso, DJe de 9/8/23; RE nº 1442.427/RS, Relator o Ministro André Mendonça, DJe de 10/8/23; e RE nº 1.445.186/RJ, Relator o Ministro Edson Fachin, DJe de 8/8/23.
+Ante o exposto, acolho os embargos de declaração, com efeitos infringentes, para tornar sem efeito a decisão monocrática anteriormente proferida e determinar o retorno dos autos à Corte de origem, para que se aguarde a finalização do julgamento da ADI nº 2.111/DF, exercendo eventual juízo de retratação após o trânsito em julgado da referida ação direta.
+Publique-se.
+Brasília, 2 de junho de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
