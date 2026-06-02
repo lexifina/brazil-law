@@ -1,0 +1,67 @@
+DECISÃO:
+Vistos.
+Trata-se de recurso ordinário em habeas corpus, sem pedido liminar, interposto por Matheus dos Santos Rego contra acórdão do Superior Tribunal de Justiça, que não conheceu do agravo regimental no HC nº 1.079.221/SP, Relator o Ministro Reynaldo Soares da Fonseca (e-doc. 57).
+Consta dos autos a condenação do recorrente, em primeira instância, às penas de 8 (oito) anos, 10 (dez) meses e 19 (dezenove) dias de reclusão, em regime inicial fechado, mais o pagamento de 888 (oitocentos e oitenta e oito) dias-multa, pela prática do crime tipificado no art. 33, caput, da Lei nº 11.343/2006.
+Interposta apelação criminal, o Tribunal de Justiça do Estado de São Paulo deu parcial provimento ao recurso defensivo para reduzir a pena para 5 (cinco) anos e 10 (dez) meses de reclusão, ainda em regime inicial fechado, mais o pagamento de 583 (quinhentos e oitenta e três) dias-multa.
+A condenação transitou em julgado.
+Em sede de revisão criminal, a ação foi indeferida liminarmente pelo Tribunal Estadual.
+Impetrado habeas corpus, o Superior Tribunal de Justiça não conheceu da ação. Interposto agravo regimental, o colegiado do STJ não conheceu do recurso.
+Neste writ, a defesa sustenta, em síntese, a necessidade de reconhecimento da atenuante da menoridade relativa na época dos fatos criminosos de sua primeira condenação, para efeitos da reincidência na atual condenação. Defende, ainda, a necessidade de redução da pena e a ilegalidade da fixação do regime inicial de cumprimento de pena mais gravoso.
+Examinados os autos, decido.
+Transcrevo a ementa do acórdão recorrido:
+
+“AGRAVO REGIMENTAL EM HABEAS CORPUS. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO INFIRMADOS. ENUNCIADO N. 182 DA SÚMULA DESTA CORTE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Neste agravo regimental não foram trazidos argumentos novos, aptos a elidirem os fundamentos da decisão agravada, uma vez que o agravante apenas reiterou literalmente os termos da petição inicial. Tais fundamentos, uma vez que não foram devidamente impugnados, atraem ao caso o disposto no enunciado n. 182 da Súmula desta Corte.
+2. Agravo regimental não conhecido.” (e-doc. 57)
+
+No STJ, o Ministro Reynaldo Soares da Fonseca, no voto condutor do acórdão, destacou o seguinte:
+
+“O agravo regimental é tempestivo, entretanto, não merece conhecimento.
+Na decisão agravada, apresentei a seguinte fundamentação (e-STJ, fls. 1.219/1.223):
+Busca-se, inicialmente, que se reconheça a nulidade da decisão que indeferiu o processamento da revisão criminal na origem.
+Acerca do tema, destaco que o Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, como forma de racionalizar o emprego do habeas corpus e prestigiar o sistema recursal, não admite a sua impetração em substituição ao recurso próprio. Cumpre analisar, contudo, em cada caso, a existência de ameaça ou coação à liberdade de locomoção do paciente, em razão de manifesta ilegalidade, abuso de poder ou teratologia na decisão impugnada, a ensejar a concessão da ordem de ofício.
+Na espécie, embora a impetrante não tenha adotado a via processual adequada, para que não haja prejuízo à defesa do paciente, passo à análise da pretensão formulada na inicial, a fim de verificar a existência de eventual constrangimento ilegal.
+Possível, assim, a análise do mérito da impetração, já nesta oportunidade. Busca-se, no mérito, que se reconheça a atenuante da menoridade relativa, promovendo sua compensação com a agravante da reincidência, para reduzir a pena do paciente para 5 anos de reclusão, com a fixação do regime inicial semiaberto para o cumprimento da pena.
+Da leitura atenta da petição inicial, destaco o seguinte trecho (e-STJ fl. 13): Ressalta-se que a defesa não pleiteou o reconhecimento da menoridade em relação ao crime atual, mas sim a consideração de que os fatos anteriores (que geraram a reincidência) ocorreram antes de o réu completar 21 anos, o que autoriza a compensação entre a agravante da reincidência e a atenuante da menoridade relativa.
+Tais circunstâncias, porém, não foram sequer mencionadas ou enfrentadas na decisão que ora se impugna, o que indeferiu liminarmente a revisão criminal sem a devida análise do pedido realizado. Ademais, o pedido de aplicação da atenuante de menoridade deve ser endereçada ao processo anterior (o qual gerou a reincidência), uma vez que, nestes autos, o acórdão proferido no julgamento da Apelação Criminal asseverou que Não há se falar em reconhecimento da circunstância atenuante da menoridade relativa, visto que o réu, ao tempo da ação, contava com 21 anos completos (nascido aos 28/11/1999) , nos termos do art. 65, inciso I, do Código Penal (e-STJ fls. 65/66).
+Desse modo, não há que se falar em incidência da atenuante da menoridade relativa e, tampouco, em sua compensação integral com a agravante da reincidência.
+Como se não bastasse, tal pedido já foi devidamente analisado por esta Corte no julgamento do HC 1.021.394/SP, anteriormente impetrado pela defesa do paciente, por decisão já transitada em julgado.
+Quanto ao regime prisional, a decisão proferida no autos do referido writ anterior assentou que inalterado o montante da sanção – 5 anos e 10 meses de reclusão –, e considerando-se a reincidência do paciente, fica mantido o regime inicial fechado por expressa determinação legal, nos termos do art. 33, § 2º, "b", do Código Penal.
+Assim, trata-se de mera reiteração de insurgência já submetida ao exame desta Corte, revelando-se incabível novo habeas corpus, na esteira do disposto no art. 210 do Regimento Interno do STJ, segundo o qual: quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente.
+(...)
+ Ante todo o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Na decisão agravada, no que tange ao constrangimento ilegal suscitado pela defesa, enfatizei que tais temas sequer foram examinadas no acórdão impugnado, razão pela qual não comportam conhecimento nesta via unilateral, sob pena de indevida supressão de instância.
+Asseverei, ademais, que não há se falar em reconhecimento da circunstância atenuante da menoridade relativa, visto que o réu, ao tempo da ação, contava com 21 anos completos (nascido aos 28/11/1999), nos termos do art. 65, inciso I, do Código Penal (e-STJ fls. 65/66).
+Desse modo, não há que se falar em incidência da atenuante da menoridade relativa e, tampouco, em sua compensação integral com a agravante da reincidência.
+Como se não bastasse, tal pedido já foi devidamente analisado por esta Corte no julgamento do HC 1.021.394/SP, anteriormente impetrado pela defesa do paciente, por decisão já transitada em julgado.
+Quanto ao regime prisional, a decisão proferida no autos do referido writ anterior assentou que inalterado o montante da sanção – 5 anos e 10 meses de reclusão – , e considerando-se a reincidência do paciente, fica mantido o regime inicial fechado por expressa determinação legal, nos termos do art. 33, § 2º, "b", do Código Penal.
+Neste recurso de agravo regimental, porém, não foram apresentados quaisquer argumentos novos, capazes de infirmar os fundamentos da decisão agravada, porquanto o agravante apenas produz, literalmente, aqueles já apresentados na petição inicial.
+Uma vez que não houve a impugnação específica dos fundamentos da decisão agravada, incide ao caso o disposto no enunciado n. 182 da Súmula desta Corte.
+(...)
+Ante o exposto, não conheço do agravo regimental.“ (e-doc. 57)
+
+Pelo que há no julgado proferido pelo Superior Tribunal de Justiça, não se verifica flagrante ilegalidade, abuso de poder ou teratologia. Ao contrário, o julgado em questão mostra-se devidamente fundamentado, estando justificado o convencimento formado.
+Conforme se vê o recurso não foi conhecido, de modo que o acórdão impugnado não examinou as questões suscitadas na presente impetração. Portanto, sua apreciação, de forma originária, neste ensejo, configuraria inadmissível supressão de instância.
+Perfilhando esse entendimento, destaco os precedentes seguintes: HC nº 113.172/SP, Primeira Turma, de minha relatoria, DJe de 17/4/13; HC nº 118.836/PA-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 8/10/13; HC nº 116.857/ES-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 21/5/13; HC nº 114.583/MS, Segunda Turma, Relator o Ministro Cezar Peluso, DJe de 27/8/12; HC nº 92.264/SP, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 14/12/07; e HC nº 90.654/SP, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 25/5/07, entre outros.
+Ainda que superado esse óbice, observa-se que as instâncias antecedentes apresentaram fundamentos idôneos, aptos a justificar a imposição da pena, atendendo não só aos requisitos legais como também aos princípios da individualização da pena e da proporcionalidade.
+Nesse aspecto, consignaram que “não há se falar em reconhecimento da circunstância atenuante da menoridade relativa, visto que o réu, ao tempo da ação, contava com 21 anos completos” (e-doc. 57).
+Importante ressaltar que a dosimetria da pena, em todas as suas fases,  é tema ligado ao mérito da ação penal, portanto, deve-se, em regra, privilegiar a conclusão adotada pelas instâncias ordinárias, porque soberanas na análise de fatos e provas. Vide:
+
+“AGRAVO REGIMENTAL EM HABEAS CORPUS. PENAL E PROCESSO PENAL. CRIMES TIPIFICADOS NO ART. 316, CAPUT, C/C O ART. 327, § 2º, DO CP. ALEGADA DESPROPORCIONALIDADE NA FIXAÇÃO DA PENA-BASE. TEMA NÃO ENFRENTADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA. SUPRESSÃO DE INSTÂNCIA. DOSIMETRIA DA PENA. HABEAS CORPUS. VIA PROCESSUAL INADEQUADA. REEXAME DO COTEJO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. PRECEDENTES. AGRAVO NÃO PROVIDO. 1. Conforme a jurisprudência da Suprema Corte, a via do habeas corpus não permite que se proceda à ponderação e ao reexame das circunstâncias judiciais referidas no art. 59 do Código Penal consideradas na sentença condenatória (HC nº 100.371/CE, Primeira Turma, Rel. Min. Ricardo Lewandowski, DJe de 21/5/10; HC nº 121.569/SP, Primeira Turma, de minha relatoria, DJe de 16/5/14). 2. “[A] dosimetria da pena, bem como os critérios subjetivos considerados pelos órgãos inferiores para a sua realização, não são passíveis de aferição na via estreita do habeas corpus, por demandar minucioso exame fático e probatório inerente a meio processual diverso” (HC nº 130.886/SP-AgR, Primeira Turma, Rel. Min. Luiz Fux,DJe de 19/6/17). 3. Agravo regimental não provido”. (HC 208624 AgR, de minha relatoria, Primeira Turma, DJe de 25/04/2022)
+
+“AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. REDIMENSIONAMENTO DA SANÇÃO PENAL. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICOPROBATÓRIO QUE CARACTERIZA INDEVIDA SUPRESSÃO DE INSTÂNCIA. AGRAVO A QUE SE NEGA PROVIMENTO” (RHC nº 178.506-AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe de 16/3/20).
+
+Quanto ao regime inicial de cumprimento da reprimenda, tal entendimento não destoa da jurisprudência consolidada desta Suprema Corte no sentido de que a reincidência justifica a imposição de regime inicial mais gravoso para o cumprimento da pena, como se vê dos seguintes julgados:
+
+“EMENTA AGRAVO INTERNO EM RECURSO ORDINÁRIO EM HABEAS CORPUS. REGIME FECHADO DEVIDAMENTE FUNDAMENTADO. RECURSO ORDINÁRIO DESPROVIDO. 1. A existência de circunstância judicial desfavorável e a reincidência do agravante são justificativas idôneas para a imposição de regime fechado. 2. Agravo interno desprovido.” (RHC 210394 AgR, Relator(a): NUNES MARQUES, Segunda Turma, DJe-109 PUBLIC 06-06-2022, grifos nossos)
+
+“AGRAVO REGIMENTAL EM HABEAS CORPUS. MATÉRIA CRIMINAL. SUCEDÂNEO DE REVISÃO CRIMINAL. TRÁFICO DE DROGAS. REDUTOR DE PENA. ART. 33, §4º, DA LEI 11.343/2006. NÃO APLICAÇÃO. MAUS ANTECEDENTES E REINCIDÊNCIA. REGIME. ART. 33 DO CP. MANUTENÇÃO DO DECISUM. AGRAVO REGIMENTAL DESPROVIDO. 1. O habeas corpus não merece conhecimento na medida em que funciona como sucedâneo de revisão criminal. Precedentes. 2. Não há ilegalidade evidente ou teratologia a justificar a excepcionalíssima concessão da ordem de ofício. 3. A causa de diminuição prevista no § 4º do art. 33 da Lei 11.343/2006 é aplicada desde que o agente seja primário, possua bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa. 4. Em se tratando de requisitos negativos a serem avaliados pelas instâncias próprias segundo as particularidades de cada caso, não há ilegalidade na decisão que não aplica a minorante em razão da existência de maus antecedentes e reincidência. 5. A fixação de regime inicial mais gravoso com lastro em circunstância judicial desfavorável e em reincidência delitiva atende aos critérios previstos no art. 33 do Código Penal. 6. Agravo regimental desprovido.” (HC 203290 AgR, Relator(a): EDSON FACHIN, Segunda Turma,  DJe-206 PUBLIC 18-10-2021, grifos nossos)
+
+Assim, não havendo ilegalidade, abuso de poder ou teratologia detectáveis na via eleita, deve-se manter integralmente o julgado proferido pelo Superior Tribunal de Justiça.
+Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente recurso ordinário.
+Publique-se.
+Brasília, 2 de junho de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
