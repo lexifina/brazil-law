@@ -1,0 +1,29 @@
+DECISÃO:
+Trata-se de embargos de declaração opostos por Emmanuelle Alves Ferreira da Silva contra decisão mediante a qual neguei seguimento a presente reclamação por entender inexistente desrespeito à decisão emanda deste Supremo Tribunal Federal no HC nº 267.336/MS.
+Aduz a embargante que
+“a referida conclusão se baseou exclusivamente nas informações prestadas  pela autoridade reclamada (e-doc. 19, fl. 13), as quais não condizem com a realidade física e  documental dos autos da Ação Penal nº 0022311-45.2018.8.12.0001.
+A autoridade reclamada faltou com a verdade perante esta Suprema Corte ao afirmar que o  prosseguimento da ação penal se restringia apenas aos corréus José Geraldo Tadeo e Ronei Pecora.“
+Ao final, requer:
+“1. Sejam CONHECIDOS e ACOLHIDOS os presentes Embargos de Declaração, conferindo lhes EFEITOS INFRINGENTES/MODIFICATIVOS, para o fim de rever a decisão monocrática  de id 2ed551f9 porquanto está contrária às provas dos autos, tendo incidido em manifesto  erro de premissa fática induzida por informações inexatas com a realidade processual,  prestadas pela magistrada reclamada.
+2. No mérito, seja julgada TOTALMENTE PROCEDENTE a presente Reclamação  Constitucional, confirmando-se a violação à autoridade da decisão proferida no HC nº  267.336/MS, consolidando o trancamento definitivo de qualquer procedimento penal ou  investigativo contra a Embargante relacionado ao episódio histórico debatido, adotando  todas as medidas legais consequentes do descumprimento ou cumprimento tardio de  ordem judicial que só aconteceu sob Reclamação.
+3. Seja determinada a expedição de ofício ao Conselho Nacional de Justiça (CNJ) e à  Corregedoria-Geral de Justiça do Estado de Mato Grosso do Sul, instruído com cópia das  decisões de fls. 7272 (que comprova a determinação de prosseguimento com relação a  Emmanuelle) e das informações prestadas pela magistrada que afirma que apenas  determinou o prosseguimento da ação penal com relação a José Geraldo Tadeo e Ronei  Pecora, para a apuração de eventual falta funcional da magistrada reclamada ao prestar  informações desconformes com a realidade dos autos a este Pretório Excelso, ilidindo  qualquer tipo de reincidência na conduta.” (e-doc. 25, p. 4-5)
+É o relatório. Decido.
+De início, destaco que os embargos declaratórios constituem remédio processual para sanar vícios de omissão, contradição, obscuridade ou erro material na decisão embargada (art. 1.022 do CPC).
+A omissão, a contradição, a obscuridade ou erro material, para efeitos de interposição de embargos de declaração, há de ser interna ao decisum, o que não ocorre em relação à decisão embargada.
+A decisão foi explícita ao assentar que
+ “não há determinação de prosseguimento de persecução penal pelo crime de estelionato ou qualquer outro, pelo “mesmo episódio histórico”, em face da reclamante, não há que se falar em desrespeito à decisão emanada deste Supremo Tribunal do HC nº 267.336/MS.”(e-doc. 20, p. 5)
+Nesse sentido, verificou-se a ausência de descumprimento de decisão emanda desta Suprema Corte.
+Ademais, constato que a própria reclamante reconhece, em suas razões, que a autoridade reclamada determinou “a imediata sustação e o arquivamento definitivo  da ação penal de origem” (e-doc. 25, p. 4).
+Como exposto, a decisão embargada não incorreu em qualquer dos vícios legais aptos a justificar a oposição de embargos de declaração, uma vez que a controvérsia foi devidamente apreciada e decidida nos limites necessários ao seu deslinde.
+Com efeito, o pleito deduzido nos embargos ora em análise, em sua literalidade, é absolutamente impertinente ao deslinde da controvérsia, visto que conforme afirmado pelo próprio embargante, a questão em si já foi resolvida.  No caso, é evidente que a pretensão do embargante é provocar a rediscussão da causa, fim para o qual não se presta o presente recurso.
+Cito os seguintes precedentes:
+“EMBARGOS DE DECLARAÇÃO EM AÇÃO DIRETA DE INCONSTITUCIONALIDADE. AUSÊNCIA DE CONTRADIÇÃO, OMISSÃO OU OBSCURIDADE. REJEIÇÃO. 1. Ausente contradição, omissão ou obscuridade justificadora da oposição de embargos declaratórios, a evidenciar o caráter meramente infringente da insurgência. 2. Embargos de declaração rejeitados” (ADI nº 5.785-AgR-ED, Rel. Min. Rosa Weber, Tribunal Pleno, DJe de 18/1/21).
+“EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE OBSCURIDADE, CONTRADIÇÃO, OMISSÃO OU ERRO MATERIAL. 1. Não havendo ambiguidade, omissão, contradição, obscuridade ou erro material, impõe-se a rejeição dos embargos de declaração. 2. Embargos de declaração conhecidos e rejeitados” (ARE nº 1.153.306-AgR-ED, Rel. Min. Nunes Marques, Segunda Turma, DJe de 22/11/21).
+“RECLAMAÇÃO. INADEQUAÇÃO DO PARADIGMA INVOCADO. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE OMISSÃO. CARÁTER PROTELATÓRIO. REJEIÇÃO. 1. Os embargos de declaração não constituem meio hábil para reforma do julgado, sendo cabíveis somente quando houver no acórdão omissão, contradição, obscuridade ou erro material. 2. A ausência de manifestação do Colegiado sobre ponto que não se constitui matéria sobre a qual necessariamente deveria o órgão julgador se manifestar não viabiliza processamento dos embargos de declaração fundados em omissão. 3. Os embargos de declaração não se prestam à rediscussão do que assentado no julgado em decorrência de inconformismo da parte embargante, revelando-se protelatórios os embargos que, lastreados em pretensão meramente infringente, despreza o teor da fundamentação constante do acórdão embargado. 4. Embargos de declaração rejeitados” (Rcl nº 55.968-ED-AgR-ED, Rel. Min. Edson Fachin, Segunda Turma, DJe de 6/3/23).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Brasília, 2 de junho de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
