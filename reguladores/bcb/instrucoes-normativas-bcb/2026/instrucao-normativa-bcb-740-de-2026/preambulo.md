@@ -1,0 +1,4 @@
+Resolução Nº 222 INSTRUÇÃO NORMATIVA BCB Nº 740, DE 29 DE MAIO DE 2026
+Estabelece as orientações, as condições e os prazos para a realização de testes em produção pelas instituições participantes relativos ao compartilhamento de serviço otimizado de iniciação de transação de pagamento com compartilhamento de dados (jornada otimizada) no Open Finance.
+Os Chefes do Departamento de Regulação do Sistema Financeiro (Denor), do Departamento de Supervisão de Cooperativas e de Instituições Não Bancárias (Desuc) e do Departamento de Supervisão Bancária (Desup), no uso das atribuições que lhes confere o art. 23, inciso I, alínea "a", do Regimento Interno do Banco Central do Brasil, anexo à Resolução BCB nº 340, de 21 de setembro de 2023, tendo em vista o disposto nos arts. 44, § 1º, da Resolução Conjunta nº 1, de 4 de maio de 2020, e 7º da Resolução BCB nº 406, de 2 de agosto de 2024,
+R E S O L V E M :
