@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ELCIO BARROS BAPTISTA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA MILITAR DO ESTADO DE SÃO PAULO, nos autos da Apelação Criminal n. 0800256-64.2022.9.26.0030.
+Depreende-se dos autos que o paciente foi condenado à pena de 8 anos e 4 meses de reclusão, em regime inicial fechado, pela prática do crime tipificado no art. 35, caput, c/c o art. 40, II, da Lei nº 11.343/2006 (e-STJ fls. 387/428).
+A Corte de origem reformou a condenação, dando provimento ao apelo ministerial e parcial provimento aos apelos defensivos, mantendo a condenação por associação para o tráfico (e-STJ fls. 19/355).
+Daí o presente writ, no qual a Defesa alega, em síntese, a nulidade das interceptações telefônicas que embasaram a condenação, ao argumento de que as decisões que autorizaram e renovaram a medida careceriam de fundamentação concreta e individualizada.
+Sustenta, ainda, que as interceptações perduraram por aproximadamente cinco anos, sem que, a cada prorrogação, fosse demonstrada sua indispensabilidade, o que teria desnaturado o caráter excepcional da medida e configurado indevida fishing expedition.
+Aduz, por fim, que não houve, ao longo da investigação e da instrução processual, apreensão de entorpecentes, valores ilícitos ou elementos concretos que vinculassem o paciente a traficantes, de modo que a condenação teria se apoiado apenas em diálogos extraídos das interceptações impugnadas, cuja interpretação reputa subjetiva.
+Com isso, requer (e-STJ fls. 14/15):
+a) em caráter liminar, a concessão da ordem para suspender imediatamente os efeitos do acórdão condenatório proferido na Ação Penal Militar nº 0800256-64.2022.9.26.0030, obstando-se o trânsito em julgado da condenação e a expedição de mandado de prisão em desfavor do paciente, até o julgamento definitivo do presente habeas corpus, a fim de evitar a consolidação de constrangimento ilegal de difícil ou impossível reparação;
+b) no mérito, a concessão definitiva da ordem de habeas corpus para reconhecer a nulidade das interceptações telefônicas desde a sua origem, bem como de todas as provas delas derivadas, em razão da violação aos arts. 1º, 2º, 4º e 5º da Lei nº 9.296/96, ao art. 5º, incisos XII e LXVIII, e ao art. 93, IX, da Constituição Federal, bem como aos arts. 155, 157 e 315, §2º, do Código de Processo Penal;
+c) como consequência do reconhecimento da ilicitude probatória, sendo constatado que o édito condenatório se encontra substancialmente fundado nas interceptações telefônicas e nos elementos delas derivados, seja declarada a absolvição do paciente, nos termos das garantias constitucionais da presunção de inocência e do in dubio pro reo;
+d) subsidiariamente, caso não se entenda pela absolvição, seja declarada a nulidade da sentença condenatória e do acórdão que a confirmou, determinando-se o retorno dos autos à instância de origem para que nova decisão seja proferida, com a exclusão integral das interceptações telefônicas e de todas as provas delas derivadas, vedada qualquer utilização direta ou indireta de seu conteúdo;
+e) ainda subsidiariamente, caso assim entenda esta Colenda Corte, seja reconhecida a nulidade da persecução penal desde a fase investigatória, diante da ausência de justa causa e dos vícios originários que contaminaram a formação da prova, com o consequente trancamento da ação penal;
+f) por fim, requer-se a concessão da ordem para reconhecer o constrangimento ilegal suportado pelo paciente, restabelecendo-se a legalidade do processo e assegurando-se a sua liberdade de locomoção.
+Liminar indeferida (e-STJ fls. 587/592).
+Informações prestadas.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (e-STJ fls. 1.320/1.323).
+É o relatório.
+Decido.
+A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Com efeito, a Terceira Seção desta Corte Superior estabeleceu diretrizes em relação às hipóteses de impossibilidade de impetração do habeas corpus, seja de modo concomitante seja em substituição ao recurso próprio, situação que se amolda ao caso vertente.
+Eis o teor dos seguintes precedentes, cuja aplicação ao caso se dá com as devidas ressalvas às suas peculiaridades:
+PENAL. HABEAS CORPUS. RECEPTAÇÃO QUALIFICADA. DESCLASSIFICAÇÃO PARA RECEPTAÇÃO CULPOSA. IMPUGNAÇÃO DO MESMO ACÓRDÃO POR MEIO DE RECURSO ESPECIAL. INADMISSIBILIDADE DA TRAMITAÇÃO CONCOMITANTE. PRINCÍPIO DA UNIRRECORRIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE. DOLO EVENTUAL. ABRANGÊNCIA DO ART. 180, § 1º, DO CP. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Não comporta acolhimento o habeas corpus impetrado com pretensão de mérito idêntica à deduzida em recurso especial interposto contra o mesmo acórdão, por ser inadmissível a tramitação concomitante de recurso e writ voltados à impugnação do mesmo ato jurisdicional, em observância ao princípio da unirrecorribilidade. Precedente.
+2. Hipótese em que não há ilegalidade na rejeição do pedido de desclassificação da conduta para receptação culposa, pois a pretensão demandaria o revolvimento do conjunto fático-probatório, providência incompatível com a via estreita do habeas corpus.
+(..)
+(HC n. 1.068.431/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/4/2026, DJEN de 27/4/2026, grifo nosso.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO E HOMICÍDIO SIMPLES TENTADO. TESE DE NULIDADE DA PRONÚNCIA E DA CONDENAÇÃO. NÃO CONHECIMENTO. SIMULTANEIDADE DE RECURSO PRÓPRIO E DE HABEAS CORPUS. EXECUÇÃO IMEDIATA DA PENA FIXADA PELO TRIBUNAL DO JÚRI. POSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Agravo regimental interposto contra decisão monocrática que conheceu em parte de habeas corpus impetrado em favor de condenado pelo Tribunal do Júri e, nessa extensão, denegou a ordem.
+2. A alegação de nulidade da pronúncia e da condenação, sob o argumento de que fundadas exclusivamente em depoimentos indiretos, não comporta conhecimento na via do habeas corpus quando há interposição simultânea de recurso próprio com idêntica pretensão.
+Essa estratégia configura subversão do sistema recursal e violação do princípio da unirrecorribilidade.
+3. A determinação de prisão para a execução imediata da pena imposta pelo Tribunal do Júri encontra respaldo na tese firmada pelo Supremo Tribunal Federal no Tema de Repercussão Geral n. 1.068, de caráter vinculante e de observância obrigatória pelos demais órgãos do Poder Judiciário (CPC, art. 927, III).
+4. Agravo regimental não provido.
+(AgRg no HC n. 1.053.438/AL, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/5/2026, DJEN de 26/5/2026, grifo nosso.)
+No caso, as informações prestadas pelo Tribunal de origem revelam que, após a condenação do paciente em primeiro grau, houve interposição de apelações pelo Ministério Público e pela Defesa, as quais foram apreciadas pela Segunda Câmara da Corte castrense estadual (e-STJ fls. 598/608).
+Em seguida, a Defesa interpôs recursos extraordinário e especial, cujo seguimento foi negado pela Vice-Presidência da Corte de origem, sobrevindo a interposição dos correspondentes agravos.
+Consta, ademais, que, encerrada a jurisdição do Tribunal estadual, os autos foram remetidos a esta Corte Superior em 30/10/2025 para apreciação dos agravos em recurso especial interpostos pela Defesa, não havendo, até o momento, o trânsito em julgado da condenação (e-STJ fl. 308).
+Embora a Defesa sustente que o a gravo em recurso especial e o agravo regimental subsequente já teriam sido apreciados por esta Corte (e-STJ fl. 7), certo é que a própria impetração reconhece a inexistência de trânsito em julgado. Tal circunstância evidencia que a controvérsia ainda não se encontra definitivamente estabilizada e permanece submetida à apreciação jurisdicional pelos meios processuais adequados, inexistindo decisão condenatória formada em definitivo.
+Assim, a utilização do habeas corpus para reabrir a discussão acerca de eventuais nulidades de prova e da própria validade da condenação configura indevida sobreposição à marcha processual regularmente estabelecida.
+Não se mostra compatível com a natureza excepcional do writ admitir que ele seja manejado paralelamente aos instrumentos processuais voltados ao exame da matéria ou antes da consolidação definitiva da prestação jurisdicional.
+Com efeito, a impetração veicula insurgências relacionadas à formação da prova e à valoração dos elementos colhidos na instrução, questões que vêm sendo discutidas pelas vias processuais próprias e que, em princípio, reclamam análise incompatível com a cognição sumária característica do habeas corpus.
+Assim, ausente demonstração de flagrante ilegalidade, teratologia ou abuso de poder, não há espaço para a utilização da via estreita do habeas corpus.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
