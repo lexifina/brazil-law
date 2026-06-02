@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de embargos de declaração opostos em face da decisão que não conheceu dos embragos de declaração opostos às fls. 716-719 (e-STJ) em razão da intempestividade.
+Pretende a correção do erro material a fim de que sejam conhecidos os embargos de declaração e acolhidos para que seja submetido o agravo regimental interposto em fls. 699- 700 à apreciação da Quinta Turma.
+É o relatório.
+Assiste razão ao embargante no que diz respeito à tempestividade dos embargos, razão pela qual conheço do recurso e passo à análise das razões dos integrativos.
+O embargante aponta erro material decorrente de violação ao princípio da colegialidade, argumentando que o agravo regimental prévio deveria ter sido submetido à análise do colegiado. Ainda, alega contradição na decisão que, apesar de entender assistir razão ao recorrente, não conheceu do writ, ao final.
+Dispõe o Código de Processo Penal:
+"Art. 619. Aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão."
+Os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado.
+Não se prestam, portanto, para sua revisão, no caso de mero inconformismo da parte. A propósito, veja-se o seguinte julgado desta Corte:
+" ..
+3. Os embargos de declaração são recurso com fundamentação vinculada. Dessa forma, para seu cabimento, imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal, o que não logrou fazer a embargante. Destarte, a mera irresignação com o entendimento apresentado na decisão, visando à reversão do julgado, não tem o condão de viabilizar a oposição dos aclaratórios.
+4. Embargos declaratórios rejeitados." (EDcl no AgRg no AREsp 669.505/RN, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 25/8/2015).
+Não procede a alegação de erro material, pois "a prolação de decisão unipessoal pelo Ministro Relator não representa violação do princípio da colegialidade, pois está autorizada pelo art. 34 do Regimento Interno desta Corte e em diretriz consolidada pela jurisprudência do Superior Tribunal de Justiça por meio do enunciado n. 568 de sua Súmula" (AgRg no AREsp n. 2.347.064 /SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/10/2023, DJe de 30/10/2023).
+Assim, não há falar em cerceamento de defesa ou ofensa ao princípio da colegialidade, sendo plenamente possível que seja proferida decisão monocrática pelo Relator, a qual está sujeita à apreciação do órgão colegiado mediante a interposição de agravo regimental , quando é possibilitada a realização de sustentação oral.
+Na espécie, ainda, não há a contradição apontada, pois a reconsideração se deu quanto ao fundamento do não conhecimento do writ.
+Inexistentes, portanto, os vícios apontados:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CRIME CONTRA A ORDEM FINANCEIRA. RECONHECIMENTO DE PRESCRIÇÃO VIRTUAL. IMPOSSIBILIDADE. ACORDO DE NÃO PERSECUÇÃO PENAL (ANPP). REQUISITOS LEGAIS OBJETIVOS. AUSÊNCIA. CONDUTA CRIMINAL HABITUAL. SOMATÓRIO DAS PENAS EM CONCURSO DE CRIMES. VÍCIO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração, conforme dispõe o art. 619 do CPP, destinam-se a sanar ambiguidade, obscuridade, contradição ou omissão, sendo admissíveis, também, para corrigir eventual erro material na decisão embargada.
+2. Não se pode conhecer de pedido de reconhecimento de prescrição virtual, arguida no tardio momento dos embargos declaratórios contra acórdão contrário ao interesse dos recorrentes, tratando-se de inovação recursal e pretensão obstada nos termos da Súmula n. 438 do STJ.
+3. O improvimento do agravo regimental foi fundamentado, de modo suficiente, no descabimento do ANPP por ausência de requisitos objetivos, quais sejam, a soma das penas mínimas superior a 4 anos, as gravíssimas consequências dos delitos e a indicação de conduta criminal habitual e do concurso de crimes.
+4. Ausente qualquer vício, constata-se a mera discordância da solução dada pelo acórdão e a pretensão de nova análise do recurso anterior, inviável em embargos de declaração.
+5. Consoante entendimento do Superior Tribunal de Justiça, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater, um a um, todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre no caso.
+6. Não cabe ao Superior Tribunal de Justiça manifestar-se acerca de dispositivos constitucionais, ainda que para prequestionamento, conforme precedentes.
+7. Embargos de declaração rejeitados." (EDcl no AgRg nos EDcl no REsp n. 2.106.948/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 7/4/2026, DJEN de 17/4/2026.)
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. ART. 619 DO CPP. ANPP. PRECLUSÃO CONSUMATIVA E DISCRICIONARIEDADE DO MINISTÉRIO PÚBLICO. SÚMULA 83/STJ. ATIPICIDADE/INSUFICIÊNCIA PROBATÓRIA, READEQUAÇÃO TÍPICA E AFASTAMENTO DE INTERDIÇÃO PROFISSIONAL TEMPORÁRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NO JULGADO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são recurso com fundamentação vinculada e, para o seu cabimento, é imprescindível a demonstração de que o acórdão embargado mostrou-se ambíguo, obscuro, contraditório ou omisso, conforme disciplina o art. 619 do Código de Processo Penal, o que não ocorreu na espécie.
+2. A irresignação do embargante cinge-se ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável, não havendo nenhum fundamento que justifique a interposição dos embargos de declaração, que se prestam tão somente a sanar eventual omissão, contradição, ambiguidade ou obscuridade do julgado, e não reapreciar a causa.
+3. Embargos declaratórios rejeitados." (EDcl no AgRg no AREsp n. 2.789.648/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/3/2026, DJEN de 24/3/2026.)
+Ante o exposto, reconsidero a decisão anterior quanto à intempestividade e rejeito os embargos de declaração.
+Publique-se. Intime-se.
+EMENTA
