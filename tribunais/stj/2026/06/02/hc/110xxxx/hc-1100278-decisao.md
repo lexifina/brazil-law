@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de JOSE APARECIDO FERREIRA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA MILITAR DE SÃO PAULO no julgamento da Representação para Perda de Graduação n. 0900032-88.2026.9.26.0000.
+Extrai-se dos autos que o paciente, policial militar reformado, foi condenado definitivamente pela prática dos delitos previstos no art. 121, § 2º, incisos I e IV (por 3 vezes), e art. 121, §2º, incisos I e IV, c/c art. 14, II, todos do Código Penal, à pena de 49 anos de reclusão, em regime inicial fechado.
+Transitada em julgado a condenação, o Ministério Público do Estado de São Paulo ajuizou representação para perda da graduação, a qual foi julgada procedente pelo Tribunal de Justiça Militar paulista, que decretou a perda da graduação de praça, a cassação dos proventos e condecorações, bem como determinou a comunicação do julgado ao Tribunal Regional Eleitoral, para fins de inelegibilidade. Confira-se a ementa do acórdão (fl. 14):
+"Direito Militar. Representação para perda de Graduação. Procedência.
+I. Caso em exame
+1. Representação oferecida pela Procuradoria de Justiça, com o escopo de decretar a perda de graduação de praça e exclusão da Polícia Militar do Estado de São Paulo, por ter sido o representado condenado pela prática do crime de triplo homicídio qualificado e um tentado.
+II. Questão em discussão
+2. Verificação da suficiência da condenação penal e necessidade de que a exclusão dos quadros da Polícia Militar mesmo em se tratando de militar há muitos anos na reforma.
+III. Razões de decidir
+3. Competência constitucionalmente atribuída à Justiça Militar para julgamento do feito. Exame circunscrito ao perfil ético e moral para ostentar a graduação, não se prestando a rediscutir as provas existentes nos autos do processo-crime, tampouco produção de nova dilação probatória.
+4. Conduta desonrosa por cometimento de crime abjeto que pela sua própria natureza já conduz ao reconhecimento da incompatibilidade com o exercício da função policial militar.
+5. Ultraje ao pundonor militar e ao decoro da classe, maculando a imagem da Corporação perante a sociedade, não havendo que se falar em suficiência da condenação criminal.
+6. Embora já seja o representado reformado, importa resguardar o interesse da Corporação em não mais receber em seus quadros integrante já apenado criminalmente, por conduta incompatível com a lisura e integridade de caráter que se espera de um policial militar. Ademais, a procedência implica a cassação de medalhas, láureas e condecorações eventualmente outorgadas ao representado, bem como de seus proventos como consequência lógica do rompimento definitivo do vínculo ético e institucional entre o representado e a Corporação, com amparo em precedente atual da E. Suprema Corte, sem violação à dignidade da pessoa humana ou a direito adquirido de natureza previdenciária.
+IV. Dispositivo
+7. Procedência do pedido ministerial."
+No presente writ, a defesa sustenta inexistir determinação expressa no acórdão da Representação para Perda de Graduação acerca da transferência do paciente para estabelecimento prisional comum, uma vez que a medida foi veiculada por ofício administrativo, sem decisão judicial fundamentada.
+Alega a ausência de fundamentação específica para o recambiamento do paciente ao sistema prisional comum, porquanto o acórdão limitou-se à decretação da perda da graduação, sem comando judicial quanto à transferência.
+Assevera violação ao duplo grau de jurisdição, dado que a determinação "por ofício" ensejou cumprimento imediato sem prévia oportunidade de impugnação pela defesa.
+Argui risco concreto à integridade física e à vida do paciente em presídio comum, em razão de sua condição de policial militar, o que torna incompatível a transferência com a proteção da dignidade da pessoa humana.
+Defende que o Juízo das Execuções apenas cumpriu deliberação do Tribunal Militar, não devendo ser considerado autoridade coatora no presente habeas corpus.
+Requer, em liminar, a expedição de ordem para o retorno do paciente ao Presídio Militar Romão Gomes e, no mérito, a concessão definitiva da ordem para manter o cumprimento da pena nesse estabelecimento até o término da execução.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Ademais, a possibilidade de análise da matéria para eventual concessão da ordem de ofício não se mostra adequada ao presente caso.
+Da atenta leitura do acórdão impugnado, verifica-se que o Tribunal de origem não se manifestou expressamente sobre a possibilidade de permanência do paciente em unidade prisional militar, limitando-se a julgar procedente a representação para perda da graduação de praça, decretando, ainda, a exclusão dos quadros da Polícia Militar, a cassação dos proventos, a cassação de medalhas, láureas e condecorações e a comunicação ao Tribunal Regional Eleitoral para fins de inelegibilidade.
+Apesar da defesa alegar que houve determinação por parte do Tribunal de origem, ainda que por outros meios, pela transferência do paciente para presídio comum, tal fato não consta do acórdão combatido.
+Desse modo, resta afastada a competência desta Corte Superior para conhecimento do feito, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ILEGALIDADE INEXISTENTE. OMISSÃO DEVE SER QUESTIONADA VIA EMBARGOS DE DECLARAÇÃO. SUPRESSÃO. AINDA QUE NULIDADE ABSOLUTA. DESÍGNIOS AUTONOMOS. ABSORÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA DO WRIT. AUSÊNCIA DE ARGUMENTOS NOVOS APTOS A ALTERAR A DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão agravada por seus próprios fundamentos.
+II - Ainda que a Defesa alegue que houve o prequestionamento implícito, porquanto ventilou a questão nas peças de defesa, todavia, ante a não manifestação daquela Corte, caberia o manejo dos embargos de declaração, aptos a prequestionar a matéria.
+III - Ausente manifestação do Tribunal sobre a questão de fundo também ora vindicada, incabível a análise de tal matéria, no presente habeas corpus, porquanto está configurada a absoluta supressão de instância quanto ao ponto debatido, ficando impedida esta Corte de proceder à sua análise.
+IV - A instância ordinária, diante do conjunto fático-probatório dos autos, concluiu por provas suficientes à condenação pelos 2 (dois) delitos, como sendo autônomos, bem como a defesa não logrou demonstrar o contrário.
+V - É iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses de insuficiência probatória, de negativa de autoria ou até mesmo de desclassificação, em razão da necessidade de incursão no acervo fático-probatório.
+Agravo regimental desprovido.
+(AgRg no HC n. 823.044/DF, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. WRIT IMPETRADO CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. AUSÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. TEMAS NÃO DEBATIDOS PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. TEMAS DEBATIDOS EM CONSONÂNCIA COM O ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE ILEGALIDADE FLAGRANTE.
+1. Não deve ser conhecido o writ que se volta contra sentença condenatória já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte Superior. Nos termos do art. 105, I, e, da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, as revisões criminais e as ações rescisórias de seus julgados. Precedentes.
+2. A Jurisprudência do Superior Tribunal de Justiça "é pacífica no sentido de que, ainda que se trate de matéria de ordem pública, é imprescindível o seu prévio debate na instância de origem para que possa ser examinada por este Tribunal Superior (AgRg no HC 530.904/PR, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 24/9/2019, DJe de 10/10/2019) - (AgRg no HC n. 726.326/CE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 28/3/2022).
+3. Quanto aos temas efetivamente debatidos pela Corte de origem, verifica-se que não há qualquer ilegalidade flagrante a ser sanada, na medida em que o acórdão objurgado se encontra em consonância com a jurisprudência desta Corte, no sentido de que as condenações alcançadas pelo período depurador de 5 anos, previsto no art. 64, inciso I, do Código Penal, afastam os efeitos da reincidência, mas não impedem a configuração de maus antecedentes, permitindo, assim, o aumento da pena-base; bem como de que para a incidência da causa de aumento relativa ao emprego de arma de fogo, dispensável a apreensão e perícia da arma, desde que o emprego do artefato fique comprovado por outros meios de prova. Precedentes.
+3. Agravo regimental improvido.
+(AgRg no HC n. 842.953/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/2/2024, DJe de 8/2/2024.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
