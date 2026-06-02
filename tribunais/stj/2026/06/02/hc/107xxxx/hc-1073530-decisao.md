@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de EDIVAN ALVES DA SILVA contra ato proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS.
+Consta nos autos que o paciente está preso preventivamente pela suposta prática do crime de homicídio qualificado.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de Justiça de origem, que denegou a ordem em acórdão às fls. 9-10.
+Neste writ, a defesa sustenta, em suma, a ausência de fundamentação da decisão que decretou a prisão preventiva ponderando suas condições pessoais favoráveis e defendendo a possibilidade da aplicação de medidas cautelares diversas da prisão..
+Aduz, ainda, a ausência de contemporaneidade entre os fatos e a segregação cautelar.
+Requer a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medidas cautelares diversas.
+Pedido de liminar indeferido às fls. 105-106.
+Informações prestadas às fls. 112-115. O Ministério Público Federal manifestou, às fls. 117-121, pela denegação da ordem.
+É o relatório. DECIDO.
+In casu, ao contrário do afirmado pela defesa, extrai-se que a segregação cautelar do paciente está devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para garantia da ordem pública, seja pela forma na qual o delito foi em tese praticado: homicídio qaulificado consistente em ataque de surpresa, com uso de arma branca, por motivo fútil e mediante recurso que dificultou a defesa da vítima, seja pelo risco de reiteração delitiva: o paciente já responde a outra ação penal por crime de idêntica natureza, qual seja, tentativa de homicídio qualificado, na qual foi pronunciado em 25/06/2025- fl. 40, circunstância que evidencia reiteração delitiva específica e acentuada periculosidade social.
+Destaca-se a jurisprudência deste Superior Tribunal de Justiça:
+"A gravidade em concreto do crime e a periculosidade do agente, evidenciada pelo modus operandi, constituem fundamentação idônea para a decretação da custódia preventiva" (AgRg no HC n. 889.696/GO, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 18/4/2024.)
+Nesse sentido: AgRg no RHC n. 192.183/PR, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 3/5/2024; AgRg no HC n. 908.674/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/5/2024 e AgRg no RHC n. 188.488/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 18/4/2024.
+Outrossim, conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública. Nesse sentido: AgRg no HC n. 910.540/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/7/2024; AgRg no HC n. 902.557/SP, Sexta Turma; Rel. Min. Antonio Saldanha Palheiro, DJe de 3/7/2024 e AgRg no HC n. 912.267/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 28/6/2024.
+No pertinente à alegação de ausência de contemporaneidade como justificativa hábil a infirmar a necessidade de manutenção da prisão preventiva, vale lembrar que:
+" a  contemporaneidade diz com os motivos ensejadores da prisão preventiva e não o momento da prática supostamente criminosa em si, ou seja, é desimportante que o fato ilícito tenha sido praticado há lapso temporal longínquo, sendo necessária, no entanto, a efetiva demonstração de que, mesmo com o transcurso de tal período, continuam presentes os requisitos (i) do risco à ordem pública ou (ii) à ordem econômica, (iii) da conveniência da instrução ou, ainda, (iv) da necessidade de assegurar a aplicação da lei penal" (STF, HC 185.893 AgR, Rel. Ministra ROSA WEBER, PRIMEIRA TURMA, julgado em 19/04/2021, DJe 26/04/2021; sem grifos no original)" (EDcl no HC n. 940.596/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/10/2024, DJe de 14/10/2024.)
+Por fim, condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de garantirem ao paciente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem -se.
+EMENTA
