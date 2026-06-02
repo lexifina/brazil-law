@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo interposto por MARTA TEREZINHA DURIGAN contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fls. 54-55):
+DIREITO CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. SÓCIA INCLUÍDA NO POLO PASSIVO EM RAZÃO DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA, SOB A ÉGIDE DO DIPLOMA PROCESSUAL ANTERIOR. RECURSO DESPROVIDO. I. Caso em Exame 1. Agravo de instrumento interposto contra decisão que rejeitou exceção de pré-executividade e não acolheu alegação de ilegitimidade passiva em ação de execução de título extrajudicial. A decisão impugnada determinou o prosseguimento da execução. II. Questão em Discussão. 2. A questão em discussão consiste na alegação de ilegitimidade passiva da agravante, que deixou o quadro societário em março de 2016, após a distribuição da ação executiva em 2010. III. Razões de Decidir. 3. A desconsideração da personalidade jurídica foi deferida em 2016, antes da saída da agravante do quadro societário, e a dívida se refere a período em que a agravante ainda integrava a sociedade. 4. A jurisprudência do STJ estabelece que os prazos dos arts. 1.003 e 1.032 do CC/2002 não se aplicam à desconsideração da personalidade jurídica, que se fundamenta no abuso de direito. IV. Dispositivo e Tese. 5. Recurso desprovido. Tese de julgamento: 1. A desconsideração da personalidade jurídica não se sujeita ao limite temporal de responsabilidade do ex-sócio. 2. A responsabilidade do sócio abrange atos praticados durante sua permanência no quadro societário. Legislação Citada: CPC, art. 921, III, §1º e §4º; CC, art. 50, §1º; CC, art. 1.032. Jurisprudência Citada: STJ, AgInt no AR Esp nº 2259375 RJ, Rel. Min. Antonio Carlos Ferreira, T4, j. 18.12.2023. STJ, AgInt no AR Esp nº 1034255 PE, Rel. Min. Marco Aurélio Bellizze, T3, j. 25.04.2017. TJ-SP, Agravo de Instrumento nº 2086578- 92.2024.8.26.0000, Rel. José Wagner de Oliveira Melatto Peixoto, j. 15.05.2024. TJ-SP, Agravo de Instrumento nº 2252479-49.2023.8.26.0000, Rel. Francisco Giaquinto, j. 16.11.2023.
+Sem embargos de declaração.
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa aos arts. 489 e 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia, quais sejam: a ilegitimidade passiva e responsabilidade da sócia retirante, bem como acerca da nulidade formal suscitada nos embargos de declaração.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos artigos 9º, 10 e 937, VIII, do CPC, sustentando: i) a ausência de sua responsabilidade na presente demanda, "pois não faz mais parte dos quadros societários da empresa desde março de 2016, sendo sua retirada devidamente averbada na JUCESP"; ii) que sua citação ocorreu somente no ano de 2019, quando já havia deixado a sociedade e já havia finalizado o prazo de tal responsabilidade perante a sociedade e terceiros.
+Requer o acolhimento da exceção de pré-executividade para que seja afastada a responsabilidade da agravante na demanda executória que ensejou a responsabilidade patrimonial pessoal da executada, ora agravante.
+Foram oferecidas contrarrazões ao recurso especial (fls. 109-120).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 121-124), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 194-202).
+É, no essencial, o relatório.
+A decisão agravada merece se mantida.
+Inicialmente, não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vezque o Tribunal de origem, ao negar provimento à apelação, deixou clara a questão da legitimidade passiva da agravante.
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo.
+Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou negativa de prestação jurisdicional.
+Do acórdão recorrido, extrai-se o seguinte teor:
+Após diversas tentativas infrutíferas de citação da empresa executada, foi deferida a desconsideração da personalidade jurídica em 19/02/2016, (..).
+A agravante, conforme admitido na inicial do presente recurso, foi citada no ano de 2019. Insurge-se a apenas quanto à sua legitimidade passiva.
+Anoto, em primeiro lugar, que a desconsideração da personalidade jurídica ocorreu sob a égide do Diploma Processual anterior, não sendo necessária a instauração de incidente próprio.
+Citada no ano de 2019, teve a agravante então ciência da r. decisão que determinara a sua inclusão no polo passivo, donde deveria desde logo ter se utilizado do remédio processual adequado para a respectiva reforma, se o caso, não sendo admissível seu silêncio na ocasião, ensejando a ocorrência da preclusão temporal. E ainda que não houvesse a preclusão, razão não lhe assistiria.
+A dívida se refere a período em que a agravante integrava o quadro de sócios da empresa devedora originária. Indica a agravante ter deixado o quadro social em março de 2016 (folha 06), ocasião em que a desconsideração já havia sido deferida.
+Restava apenas a sua citação, postergada diante das dificuldades de sua localização.
+Não há que se falar, pois, na aplicação do artigo 1.032 do Código Civil.
+O Egrégio Superior Tribunal de Justiça consolidou o entendimento, ainda, de que o instituto da desconsideração não se confunde com a sucessão empresarial ou a responsabilização comum do ex-sócio, motivo pelo qual também não se aplica o dispositivo legal referido.
+(..)
+Definitivamente, pois, a saída da agravante do quadro social não afasta a sua responsabilidade pelos atos praticados no período em que ainda compunha o quadro societário, pois o abuso da personalidade jurídica já havia se configurado.
+Verifica-se que o Tribunal de origem entendeu pela comprovação da legitimidade passiva da agravante. Rever o entendimento alcançado encontra óbice na Súmula 7/STJ.
+Outrossim, os fundamentos do acórdão relativos: à demora na citação ter ocorrido por culpa da agravante; da preclusão do direito de insurgir-se contra sua inclusão no pólo passivo e acerca da dívida se referir a período em que a agravante integrava o quadro de sócios da empresa, não foram impugnado na decisão agravada, o que atrai a incidência da Súmula 283/S TJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários advocatícios, pois o recurso foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+ EMENTA
