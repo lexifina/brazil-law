@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por José Ailton do Nascimento contra decisão que não admitiu recurso especial manejado contra acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. CÉDULA RURAL PIGNORATÍCIA. AUSÊNCIA DE EXCESSO DE EXECUÇÃO OU ABUSIVIDADE CONTRATUAL. JUROS REMUNERATÓRIOS E CAPITALIZAÇÃO DE JUROS EXPRESSAMENTE PACTUADOS. GRATUIDADE DE JUSTIÇA MANTIDA. NEGADO AO RECURSO.
+I - A capitalização mensal dos juros é admitida, desde que expressamente pactuada, conforme artigo 5º do Decreto-Lei nº 167/1967 e REsp 1333977/MT, submetido ao rito dos recursos repetitivos
+II - Não há abusividade na cobrança de débito oriundo de cédula rural pignoratícia que atende ao limite de juros remuneratórios de 12% ao ano, juros moratórios de ate 1% a.a. e multa moratória de 2%, nos termos dos artigos 5º, p. único e 71 do Decreto-Lei nº 167/1967 e da jurisprudência do Superior Tribunal de Justiça.
+III - Rejeita-se a impugnação à gratuidade de justiça diante da comprovação da hipossuficiência econômica do apelante.
+IV - APELAÇÃO CONHECIDA E NÃO PROVIDA.
+Embargos de declaração rejeitados, conforme acórdão com ementa às fls. 323-324 e voto às fls. 325-328.
+Nas razões do recurso especial, a parte recorrente alega, em síntese, que o acórdão recorrido violou os arts. 1.022 e 489 do Código de Processo Civil.
+Alega negativa de prestação jurisdicional, por falta de enfrentamento de fundamentos relevantes e precedentes aplicáveis, e requer nulidade do acórdão por esse vício, com retorno para novo julgamento, à luz do art. 1.022 (fls. 343-344).
+Defende violação do art. 489, § 1º, IV, por ausência de motivação idônea, sustenta omissão quanto ao regime jurídico do crédito rural e aos encargos e pede anulação do acórdão por deficiência de fundamentação, com rejulgamento pelo Tribunal de origem (fls. 343-344).
+Sustenta prescrição trienal do crédito, aponta abusividade por capitalização indevida dos juros, cobrança de juros acima da média, cumulatividade ilícita de encargos com comissão de permanência e juros sobre juros, invocando a Súmula 121 do Supremo Tribunal Federal, com pedido de reforma integral (fls. 342-344).
+O recurso também aponta divergência jurisprudencial acerca da capitalização de juros em crédito rural, da limitação de juros, da vedação de cumulatividade de encargos e da prescrição trienal.
+Nas suas contrarrazões, a parte recorrida alega que não houve violação aos arts. 1.022 e 489 do Código de Processo Civil, sustenta consonância do acórdão com a jurisprudência sobre crédito rural, afirma previsão expressa de capitalização mensal e limites legais de juros, aponta óbices das Súmulas 5 e 7 do STJ e dissídio não demonstrado e requer a manutenção do acórdão e o não conhecimento do recurso especial (fls. 348-356).
+A não admissão do recurso na origem ensejou a interposição do presente agravo.
+Na sua impugnação ao agravo, a parte agravada alega que o agravo não impugna adequadamente a decisão de não admissão, reproduz argumentos do mérito, reafirma a licitude da capitalização mensal pela tese do Tema 654 do STJ, sustenta que os juros estão dentro dos limites do Decreto-Lei 167/1967 e requer o não provimento do agravo, mantendo a decisão que não admitiu o recurso especial (fls. 378-383).
+Assim delimitada a questão, satisfeitos os requisitos de admissibilidade do agravo, dele conheço, passando à análise do recurso especial.
+O recurso não merece prosperar.
+De plano, verifica-se que as razões do recurso especial apresentado às fls. 339-344 não permitem a exata compreensão da controvérsia quanto a alegação de negativa de prestação jurisdicional, pois expõem alegações genéricas sobre omissão quanto à prescrição trienal, abusividade de encargos, juros acima da média e comissão de permanência sem a indicação dos dispositivos legais supostamente violados, tampouco demonstram, de forma analítica, como o acórdão teria contrariado a legislação federal.
+A deficiência de fundamentação também se revela na impugnação aos arts. 1.022 e 489 do Código de Processo Civil, em que o recorrente aponta negativa de prestação jurisdicional e falta de enfrentamento de argumentos sem especificar, com precisão, quais pontos relevantes e imprescindíveis teriam sido omitidos, à luz dos trechos do acórdão de apelação e dos embargos de declaração (fls. 296-302, 323-328, 333-335). As razões não individualizam os fundamentos capazes de infirmar a conclusão adotada, limitando-se a afirmar genericamente a existência de omissões.
+Nessas condições, incide o enunciado da Súmula 284 do Supremo Tribunal Federal, cujo teor dispõe: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Por conseguinte, impõe-se a aplicação da Súmula 284 do Supremo Tribunal Federal para não conhecimento das alegações deficientes, mantendo-se a não admissão do recurso especial, por ausência de fundamentação adequada e pela falta de demonstração formal da divergência.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro em 10% a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiário da J ustiça gratuita.
+Intimem-se.
+EMENTA
