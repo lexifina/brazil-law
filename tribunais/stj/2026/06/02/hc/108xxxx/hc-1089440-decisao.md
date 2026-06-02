@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de JOAO CALIU DA SILVA MACHADO DE ALMEIDA, condenado pela prática do crime previsto no art. 35, caput, da Lei n. 11.343/2006 à pena de 3 anos de reclusão, em regime inicial semiaberto, e pagamento de 700 dias-multa, nos autos do Processo n. 1500355-65.2021.8.26.0691, da Vara Única da comarca de Buri/SP.
+A impetração indica como autoridade coatora o Tribunal de Justiça de São Paulo, que, em 27/1/2026, rejeitou a preliminar defensiva e negou provimento aos recursos de apelação, mantendo integralmente a sentença condenatória.
+Sustenta, em síntese, o cabimento do habeas corpus mesmo após o trânsito em julgado da condenação, diante da alegada existência de flagrante ilegalidade. Afirma que a pena-base foi majorada em 1/6 acima do mínimo legal mediante fundamentação genérica e abstrata, sem indicação concreta de circunstâncias judiciais desfavoráveis. Aduz, ainda, ilegalidade na fixação do regime inicial semiaberto, apesar da reprimenda inferior a 4 anos e da primariedade e bons antecedentes do paciente.
+Em liminar, requer a suspensão dos efeitos da dosimetria impugnada e do regime semiaberto. No mérito, pleiteia a redução da pena ao mínimo legal e a fixação do regime inicial aberto, nos termos do art. 33, § 2º, c, do Código Penal.
+Liminar indeferida (fls. 521/522).
+Informações prestadas pela origem (fls. 527/573).
+Em parecer, o Ministério Público Federal se manifestou pelo não conhecimento do writ (fls. 577/584).
+É o relatório.
+Em minha avaliação, a ordem não comporta concessão.
+A jurisprudência consolidada do Supremo Tribunal Federal e deste Superior Tribunal firmou orientação no sentido de que o habeas corpus não pode ser utilizado como substitutivo de revisão criminal ou de recurso próprio, especialmente após o trânsito em julgado da condenação, salvo hipóteses excepcionais de flagrante ilegalidade, o que não se verifica na espécie.
+Ao compulsar os autos, constato que a condenação transitou em julgado em 19/2/2026, circunstância que reforça a inadequação da via eleita para rediscussão da dosimetria da pena e do regime prisional.
+Ainda que superado o óbice processual, não identifico constrangimento ilegal manifesto apto à concessão da ordem de ofício.
+Da atenta leitura do acórdão impugnado, depreende-se que a condenação do paciente decorreu de robusto conjunto probatório, especialmente dos diálogos extraídos de aparelho celular apreendido, os quais evidenciaram associação estável e duradoura voltada ao comércio ilícito de drogas.
+O acórdão fundamentadamente explicitou a existência de conversas reiteradas acerca da venda de cocaína, crack e lança-perfume, divisão de tarefas, fornecimento de embalagens para acondicionamento de drogas, administração de valores provenientes da traficância e organização interna da atividade criminosa, demonstrando vínculo associativo permanente entre os corréus.
+Além disso, foram apreendidas 37 porções de crack, pesando 7,15g, e 6 porções de maconha, com peso de 7,18g, circunstâncias que, somadas ao conteúdo dos diálogos e às imagens extraídas das redes sociais dos envolvidos, corroboraram a dedicação habitual à traficância.
+A meu ver, a exasperação da pena-base em 1/6 não se revelou desproporcional ou desprovida de motivação concreta.
+Nesse sentido: AgRg no REsp n. 1.667.798/RS, Ministro Messod Azulay Neto, Quinta Turma, DJEN de 22/4/2026; AgRg no RHC n. 187.944/RN, Ministro Og Fernandes, Sexta Turma, DJEN de 12/5/2026; HC n. 1.024.858/AP, da minha relatoria, Sexta Turma, DJEN de 13/5/2026; REsp n. 1.953.602/SP, Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJEN de 30/6/2025; AgRg no HC n. 1.069.281/PA, Ministro Carlos Pires Brandão, Sexta Turma, DJEN de 5/5/2026 e HC n. 988.409/GO, Ministro Og Fernandes, Sexta Turma, DJEN de 10/3/2026.
+De maneira adequada o acórdão considerou a natureza especialmente nociva do crack, a diversidade de entorpecentes e o contexto de associação criminosa voltada ao tráfico habitual e lucrativo, elementos aptos a justificar a valoração negativa das circunstâncias judiciais, em consonância com o art. 42 da Lei n. 11.343/2006.
+Também não verifico ilegalidade na fixação do regime inicial semiaberto.
+Embora a pena tenha sido estabelecida em patamar inferior a 4 anos e o paciente seja tecnicamente primário, o regime não decorreu de mera gravidade abstrata do delito, mas das circunstâncias concretas reconhecidas pelas instâncias ordinárias, notadamente a comprovada associação estável para o tráfico, a habitualidade delitiva e a maior reprovabilidade da conduta.
+Julgo, portanto, que o regime intermediário foi adequadamente individualizado e se mostra proporcional à reprimenda aplicada e às peculiaridades do caso concreto.
+Ilustrativamente, citem-se: EDcl no AgRg no HC n. 856.745/PE, Ministra Maria Marluce Caldas, Quinta Turma, DJEN de 13/4/2026; EDcl no AgRg no HC n. 898.833/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJEN de 5/5/2026; HC n. 1.081.028/SP, Ministro Ribeiro Dantas, Quinta Turma, DJEN de 12/5/2026 e HC n. 1.032.016/RJ, da minha relatoria, Sexta Turma, DJEN de 13/5/2026.
+Ressalte-se, ainda, que a pretensão defensiva demandaria reavaliação aprofundada da dosimetria e das circunstâncias judiciais fixadas pelas instâncias ordinárias, providência incompatível com a estreita via do habeas corpus.
+Ante o exposto, com fundamento nos arts. 38 da Lei n. 8.038/1990 e 210 do RISTJ, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. PENAL E PROCESSUAL PENAL. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. CONDENAÇÃO TRANSITADA EM JULGADO. NÃO CONHECIMENTO DO WRIT. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. DOSIMETRIA. PENA-BASE. FUNDAMENTAÇÃO IDÔNEA. ASSOCIAÇÃO ESTÁVEL E LUCRATIVA VOLTADA À TRAFICÂNCIA. DIÁLOGOS EXTRAÍDOS DE APARELHO CELULAR. REGIME SEMIABERTO. PENA INFERIOR A 4 ANOS. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS.
+Ordem denegada.
