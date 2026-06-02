@@ -1,0 +1,306 @@
+Poder Judiciário
+Justiça do Trabalho
+${SVNOMEORGAO}
+PROCESSO Nº TST-EDCiv-RR - 1045-16.2012.5.01.0018
+A C Ó R D Ã O
+4ª Turma
+GMALR/vrc/pe
+EMBARGOS DE DECLARAÇÃO EM RECURSO DE REVISTA
+OPOSTOS PELA PARTE RECLAMANTE.
+TERCEIRIZAÇÃO DA ATIVIDADE FIM. LICITUDE. TESE FIRMADA
+PELO STF NO TEMA 725 DE REPERCUSSÃO GERAL E NA ADPF
+324. JUÍZO DE RETRATAÇÃO EXERCIDO. CONHECIMENTO E
+PROVIMENTO APENAS PARA PRESTAR ESCLARECIMENTOS.
+I. Embargos de declaração de que se conhece e a que se dá
+provimento, para prestar esclarecimento, sem modificação do
+julgado. II. Embargos de declaração de que se conhece e a que
+se dá provimento, para prestar esclarecimentos.
+Vistos, relatados e discutidos estes autos de Embargos de Declaração Cível em
+Recurso de Revista nº TST-EDCiv-RR - 1045-16.2012.5.01.0018, em que é Embargante TATIANA SILVA
+LEAL e são Embargado(a)S BANCO CITICARD S.A. e CONTAX S.A. (EM RECUPERAÇÃO JUDICIAL).
+A parte Reclamante interpõe embargos em face de acórdão exarado pela Eg. 4ª
+Turma desta Corte, que deu provimento ao agravo em agravo de instrumento em recurso de revista da
+reclamada CONTAX S.A. (EM RECUPERAÇÃO JUDICIAL), julgando procedente o tema impugnado no
+recurso para afastar o reconhecimento do vínculo de emprego com o tomador de serviços, em razão da
+licitude da terceirização.
+É o relatório.
+V O T O
+1. CONHECIMENTO
+Atendidos os pressupostos legais de admissibilidade dos embargos de declaração,
+deles conheço.
+2. MÉRITO
+Esta Quarta Turma, em juízo de retratação, deu provimento ao recurso de revista
+interposto pela reclamada CONTAX S.A. (EM RECUPERAÇÃO JUDICIAL), nos seguintes termos:
+A C Ó R D Ã O
+4ª Turma
+GMALR/vrc/pe
+A) AGRAVO DE INSTRUMENTO DA RECLAMADA CONTAX S.A. (EM RECUPERAÇÃO JUDICIAL)
+ACÓRDÃO REGIONAL PUBLICADO NA VIGÊNCIA DA LEI Nº 13.015/2014. RETORNO DOS AUTOS PARA
+EVENTUAL JUÍZO DE RETRATAÇÃO. ART. 1.030, II, DO CPC/2015.
+TERCEIRIZAÇÃO DA ATIVIDADE FIM. LICITUDE. TESE FIRMADA PELO STF NO TEMA 725 DE
+REPERCUSSÃO GERAL E NA ADPF 324. JUÍZO DE RETRATAÇÃO EXERCIDO. CONHECIMENTO E
+PROVIMENTO. I. Trata-se de agravo de instrumento em recurso de revista em que se discute a
+(i)licitude da terceirização da atividade fim da empresa. II. Diante da possível contrariedade à tese
+vinculante fixada pelo STF no Tema 725 de repercussão geral, merece ser destrancado o agravo de
+instrumento. III. Juízo de retratação exercido. IV. Agravo de instrumento em recurso de revista de
+que se conhece e a que se dá provimento, para determinar o processamento do recurso de revista,
+observando-se o disposto no ATO SEGJUD.GP Nº 202/2019 do TST.
+B) RECURSO DE REVISTA INTERPOSTO PELA 1ª RECLAMADA. ACÓRDÃO REGIONAL PUBLICADO
+ANTES DA VIGÊNCIA DA LEI Nº 13.015/2014. RETORNO DOS AUTOS PARA EVENTUAL JUÍZO DE
+RETRATAÇÃO. ART. 1.030, II, DO CPC/2015.
+TERCEIRIZAÇÃO DA ATIVIDADE FIM. LICITUDE. TESE FIRMADA PELO STF NO TEMA 725 DE
+REPERCUSSÃO GERAL E NA ADPF 324. JUÍZO DE RETRATAÇÃO EXERCIDO. CONHECIMENTO E
+PROVIMENTO. I. Discute-se nos autos a licitude de terceirização de atividades fins. II. A questão já
+está resolvida pelo Supremo Tribunal Federal, que reconheceu a repercussão geral em relação ao
+tema da terceirização, cujo deslinde se deu em 30/08/2018, com o julgamento do RE nº 958.252, de
+que resultou a fixação da seguinte tese jurídica: " é lícita a terceirização ou qualquer outra forma de
+divisão do trabalho entre pessoas jurídicas distintas, independentemente do objeto social das
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100675F76AC10D30B6.
+empresas envolvidas, mantida a responsabilidade subsidiária da empresa contratante ". III. Na mesma oportunidade, ao julgar a ADPF nº 324, a Suprema Corte firmou tese de caráter vinculante de
+que "1. É lícita a terceirização de toda e qualquer atividade, meio ou fim, não se configurando relação
+de emprego entre a contratante e o empregado da contratada. 2. Na terceirização, compete à
+contratante: i) verificar a idoneidade e a capacidade econômica da terceirizada; e ii) responder
+subsidiariamente pelo descumprimento das normas trabalhistas, bem como por obrigações
+previdenciárias, na forma do art. 31 da Lei 8.212/1993". IV. Sucede que, em julgamento anterior, esta
+Quarta Turma manteve o entendimento de que é ilícita a terceirização em relação às atividades
+desenvolvidas pelo Autor, reconhecendo o vínculo de emprego diretamente com o tomador de
+serviços, confirmando a condenação solidária da 1ª Demandada ao pagamento das verbas deferidas
+ao Reclamante. V. Todavia, esse entendimento diverge da jurisprudência atual e de caráter
+vinculante do Supremo Tribunal Federal acerca da matéria (Tema 725 de repercussão geral e ADPF
+324). VI. Assim, no exercício do juízo de retratação, reforma-se a decisão anteriormente proferida por
+esta 4ª Turma, a fim de se prestigiar a aplicação de tese vinculante da Suprema Corte, para afastar o
+reconhecimento do vínculo de emprego com o tomador de serviços, em razão da licitude da
+terceirização, bem como julgar improcedentes os pedidos formulados na petição inicial decorrentes
+do vínculo de emprego com o tomador dos serviços, bem como a sua condição de bancária e
+parcelas daí decorrentes, mantendo-se a sua responsabilidade subsidiária pelo pagamento das
+verbas eventualmente remanescentes.. VII. Recurso de revista da 1ª Reclamada conhecido e provido.
+Vistos, relatados e discutidos estes autos de Recurso de Revista nº TST- RR - 1045-
+16.2012.5.01.0018 , em que é Recorrente(s) CONTAX S.A. (EM RECUPERAÇÃO JUDICIAL) e são
+Recorrido(s)S BANCO CITICARD S.A. e TATIANA SILVA LEAL .
+Da decisão originária deste Colegiado, a Reclamada CONTAX S.A. (EM RECUPERAÇÃO JUDICIAL),
+interpôs recurso extraordinário, o qual foi sobrestado pela Vice-Presidência do TST, na forma artigos
+1.030, inciso III, do CPC e 328 e 328-A do RISTF, em razão de a insurgência se tratar de tema previsto
+na Tabela de Repercussão Geral do Supremo Tribunal Federal.
+Diante da decisão de mérito do Supremo Tribunal Federal, no julgamento do Tema 725 da sua
+Tabela de Repercussão Geral, publicada em 13/09/2019, e após o seu trânsito em julgado, os autos
+retornaram ao órgão fracionário prolator da decisão para exercer eventual juízo de retratação
+quanto ao tópico "Licitude da Terceirização".
+É o relatório.
+V O T O
+A) AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA
+1. CONHECIMENTO
+Atendidos os pressupostos legais de admissibilidade do agravo de instrumento, dele conheço.
+2. MÉRITO
+2.1 RETORNO DOS AUTOS PARA EVENTUAL JUÍZO DE RETRATAÇÃO. ART. 1.030, II, DO CPC/2015.
+TERCEIRIZAÇÃO DE SERVIÇOS. ATIVIDADE-FIM. TESE FIRMADA PELO STF EM SEDE DE REPERCUSSÃO
+GERAL NO JULGAMENTO DO TEMA 725.
+Primeiramente, ressalte-se que apenas a 1ª reclamada, CONTAX S.A. (EM RECUPERAÇÃO
+JUDICIAL) , interpôs recurso extraordinário, sendo este juízo de retratação referente ao agravo de
+instrumento por ela interposto, portanto.
+Eis o teor do acórdão pretérito proferido no agravo de instrumento da 1ª reclamada:
+"DO RECONHECIMENTO DO VÍNCULO EMPREGATÍCIO COM A 2ª RÉ (CITICARD)
+Recorre ordinariamente a 2ª demandada (CITICARD), aduzindo que o vínculo empregatício foi
+firmado com a 1ª acionada (CONTAX); que o contrato de prestação de serviços firmado com a 1ª ré
+(CONTAX) possui natureza civil, objeto lícito; que sua atividade fim não se confunde com a prestação
+de serviços oferecida pela P acionada (CONTAX), empregadora da recorrida; que não houve fraude
+nem ilicitude na terceirização; que a 1ª reclamada (CONTAX) é prestadora de serviços especializada
+em telemarketing .
+Sem razão a recorrente.
+A subordinação jurídica pode ser descrita como a situação em que o empregado tem limitada a
+sua autonomia de vontade por força do contrato de emprego, transferindo ao empregador o poder
+de direção sobre a atividade a desempenhar. Expressa-se pela intensidade de ordens fundada no
+poder diretivo, de um lado, e pela dependência hierárquica quanto ao modo de prestar serviço, de
+outro.
+O trabalhador terceirizado, no desempenho de suas tarefas, insere-se em um esquema de
+subordinação estrutural ou integrativa dentro da atividade essencial da empresa tomadora dos
+serviços. Ou seja, ainda que não receba suas ordens diretas, integra o processo produtivo e a
+dinâmica estrutural de funcionamento do tomador de serviços.
+Trata-se de um novo conceito de relação de emprego, inspirado na doutrina de Maurício
+Godinho Delgado, para quem a subordinação estrutural supera as dificuldades de enquadramento
+de situações fáticas que o conceito clássico de subordinação tem demonstrado, dificuldades que se
+exacerbam em face, especialmente, do fenômeno contemporâneo da terceirização trabalhista. Nesta medida, ela viabiliza não apenas alargar o campo de incidência do Direito do Trabalho, como
+também conferir resposta normativa eficaz a alguns de seus mais recentes instrumentos
+desestabilizadores, a terceirização.
+A ideia essencial é a de que, no novo contexto da atividade produtiva da empresa pós￾industrial e flexível, torna-se dispensável a ordem direta do empregador, que passa a ordenar
+apenas a produção, como um todo. Até porque, as ordens de serviço cumpridas pelo obreiro
+emanam, ainda que indiretamente, do centro de produção do tomador final dos serviços.
+Esse entendimento inovador rompe com o conceito clássico de hierarquia funcional. Nesse
+ambiente pós-grande indústria, cabe ao trabalhador ali inserido habitualmente apenas 'colaborar'. A
+nova organização do trabalho, pelo sistema da acumulação flexível, imprime uma espécie de
+cooperação competitiva entre os trabalhadores que prescinde do sistema de hierarquia clássica. A
+subordinação jurídica tradicional foi pensada para a realidade da produção fordista e taylorista,
+fortemente hierarquizada e segmentada. Já no sistema 'ohnista', de gestão flexível, prevalece o
+binômio 'colaboração-dependência', mais compatível com uma concepção estruturalista da
+subordinação.
+No caso destes autos, foi confessado pelo preposto, da 1ª acionada (CONTAX) (fls. 421):
+'(...) que a reclamante era operadora de atendimento, prestando informações sobre cartões de
+crédito, faturas, saldos, promoções, parcelamento de débitos das faturas; que a reclamante tinha metas estabelecidas pela primeira ré ; (...)'
+Confessou o preposto da 2ª ré (CITICARD) (fls. 422): '
+(...) que a segunda reclamada possui, desde 2004, contrato com a primeira, referente a
+atendimento, por telefone, de clientes de cartões de crédito, com informações de limites, saldos,
+alteração de dados, parcelamento da fatura; que não sabe dizer sobre as atividades da reclamante e
+nem mesmo sobre o horário de trabalho dela; que a reclamante cumpria jornada de seis horas; que
+o segundo réu já teve calI center com empregados próprios; que o serviço foi terceirizado, sendo que
+a reclamante não foi empregada do segundo reclamado; que o segundo réu tem sede em São Paulo e
+não tem agências em outros Estados; que o segundo réu só tem 4 empregados no Rio de Janeiro,
+sendo todos assistentes jurídicos.'
+A testemunha arrolada pela autora (fls. 423) declarou que: Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100675F76AC10D30B6.
+'(...) foi contratada pela primeira ré em 2007, prestando serviços à segunda reclamada, o que
+ocorreu até o início de 2012; que trabalhava no mesmo setor da reclamante; que ambos eram
+atendentes receptivos de clientes do cartão Credicard; que faziam atendimentos referentes a
+empréstimo pessoal vinculado ao cartão, parcelamento de faturas, estorno de encargos,
+aumento/diminuição de limites, inclusão de adicional, alteração de vencimentos; (...) que
+trimestralmente comparecia um representante do segundo réu para expor e cobrar metas; que o
+sistema utilizado no trabalho era da segunda ré; (...)'
+Tudo bem pesado e bem medido, conclui-se que a 2ª ré (CITICARD) dispunha de um verdadeiro
+enclave nas dependências da 1ª (CONTAX), nos quais eram alocados trabalhadores, entre eles a
+autora, cujas atividades - informações de limites, saldos, alteração de dados, parcelamento da fatura,
+atendimentos referentes a empréstimo pessoal vinculado ao cartão, estorno de encargos,
+aumento/diminuição de limites, inclusão de adicional, alteração de vencimentos ¿ inserem-se
+inequivocamente no core business da empresa tomadora ¿ 2ª reclamada (CITICARD) ¿ e eram
+desempenhadas nos moldes por ela determinados e exercidas por meio do seu sistema de
+informática exclusivo.
+Embora não haja prova robusta da subordinação hierárquica da autora a empregado da 2ª ré
+(CITICARD), foi sobejamente demonstrada sua subordinação estrutural a ela, pois, repita-se, o
+trabalho da demandante insere-se em sua cadeia operacional, integrando seu core business, e era
+efetuado de acordo com suas instruções e metas.
+Tal arranjo empresarial é concebido decerto para furtar a 2ª demandada (CITICARD) dos
+encargos inerentes à categoria de bancário de parte de seus empregados, mediante a interposição
+de empresa intermediadora de mão de obra em sua atividade-fim, prática ilegal nos termos da
+Súmula 331, I, do C. TST.
+Do exposto, há que ser declarado nulo, nos termos do art. 9º da CLT, o contrato de trabalho
+celebrado com a 1a acionada (CONTAX), reconhecido o vínculo empregatício diretamente com a 2ª ré
+(CITICARD), real empregadora da recorrida, bem como o enquadramento da autora na categoria dos
+bancários, conforme inteligência da Súmula 283 do STJ, com todas as vantagens legais e normativas
+a ela inerentes.
+Como os pleitos decorrentes do reconhecimento da condição de bancária, foram impugnados
+somente sob o fundamento da inexistência de vínculo de emprego com o banco (fls. 136/150 e
+315/326), reconhecido o liame, impõe-se acolher os pedidos formulados nas alíneas "a" a "c" da peça
+de ingresso (fls. 13/1 5).
+Ante a fraude perpetrada pelas reclamadas, devem ambas responder solidariamente pelas
+parcelas deferidas na presente.
+Nego provimento."
+Trata-se de agravo de instrumento em recurso de revista em que se discute a (i)licitude da
+terceirização da atividade fim da empresa.
+Diante da possível contrariedade às teses vinculantes fixadas pelo STF no Tema 725 de
+repercussão geral e na ADPF 324, merece ser destrancado o agravo de instrumento.
+Ante o exposto, exerço o juízo de retratação e dou provimento ao agravo de instrumento para
+determinar o processamento do seu recurso de revista, observando-se o disposto no ATO SEGJUD.GP
+Nº 202/2019 do TST.
+B) RECURSO DE REVISTA DA 1ª RECLAMADA
+1. CONHECIMENTO
+Atendidos os pressupostos de admissibilidade recursal, conheço do recurso de revista.
+1.1 RETORNO DOS AUTOS PARA EVENTUAL JUÍZO DE RETRATAÇÃO. ART. 1.030, II, DO CPC/2015.
+TERCEIRIZAÇÃO DA ATIVIDADE FIM. LICITUDE. TESES FIRMADAS PELO STF NO TEMA 725 DE
+REPERCUSSÃO GERAL E NA ADPF Nº 324.
+Discute-se nos autos a licitude de terceirização de atividades fins, bem como a isonomia de
+direitos entre empregados terceirizados e os empregados da tomadora de serviços.
+Quanto à questão em debate, o Supremo Tribunal Federal reconheceu a repercussão geral em
+relação ao tema da terceirização, cujo deslinde se deu em 30/08/2018, com o julgamento do RE nº
+958.252 (Tema nº 725 da Repercussão Geral), de que resultou a fixação da seguinte tese jurídica : " é
+lícita a terceirização ou qualquer outra forma de divisão do trabalho entre pessoas jurídicas distintas,
+independentemente do objeto social das empresas envolvidas, mantida a responsabilidade
+subsidiária da empresa contratante".
+Na mesma oportunidade, ao julgar a ADPF nº 324, a Suprema Corte firmou tese de caráter
+vinculante de que: "1. É lícita a terceirização de toda e qualquer atividade, meio ou fim, não se
+configurando relação de emprego entre a contratante e o empregado da contratada".
+A partir de então, esse entendimento passou a ser de aplicação obrigatória aos processos
+judiciais em curso em que se discute a terceirização, impondo-se, inclusive, a leitura e a aplicação da
+Súmula nº 331 do TST, à luz desses precedentes.
+Sucede que, em julgamento anterior, esta Quarta Turma manteve o entendimento de que era
+ilícita a terceirização em relação às atividades desenvolvidas pelo Autor, reconhecendo o vínculo de
+emprego com o tomador de serviços e confirmando a condenação solidária da 1ª Reclamada ao
+pagamento das verbas deferidas ao Reclamante.
+Todavia, esse entendimento diverge da jurisprudência atual e de caráter vinculante do
+Supremo Tribunal Federal acerca da matéria.
+Por todo o exposto, conheço do recurso de revista, por inobservância do entendimento
+proferido pelo STF no Tema 725 de repercussão geral e na ADPF 324.
+2. MÉRITO
+Em razão do conhecimento do recurso de revista, por inobservância do entendimento
+vinculante proferido pelo STF, e, no exercício do juízo de retratação, seu provimento é medida que se
+impõe para afastar o reconhecimento do vínculo de emprego com o tomador de serviços, em razão
+da licitude da terceirização, bem como julgar improcedentes os pedidos formulados na petição inicial
+decorrentes do vínculo de emprego com o tomador dos serviços, bem como a sua condição de
+bancária e parcelas daí decorrentes, mantendo-se a sua responsabilidade subsidiária pelo
+pagamento das verbas eventualmente remanescentes.
+ISTO POSTO
+ACORDAM os Ministros da Quarta Turma do Tribunal Superior do Trabalho, à unanimidade:
+(a) exercer o juízo de retratação , conhecer do agravo de instrumento interposto pela
+reclamada CONTAX S.A. (EM RECUPERAÇÃO JUDICIAL) e, no mérito, dar-lhe provimento , para
+determinar o processamento do recurso de revista, observando-se o disposto no ATO SEGJUD.GP nº
+202/2019 do TST.
+(b) conhecer do recurso de revista da reclamada CONTAX S.A. (EM RECUPERAÇÃO JUDICIAL) e,
+no mérito, dar-lhe provimento , para afastar o reconhecimento do vínculo de emprego com o
+tomador de serviços, em razão da licitude da terceirização, bem como julgar improcedentes os
+pedidos formulados na petição inicial decorrentes do vínculo de emprego com o tomador dos
+serviços, bem como a sua condição de bancária e parcelas daí decorrentes, mantendo-se a sua
+responsabilidade subsidiária pelo pagamento das verbas eventualmente remanescentes. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100675F76AC10D30B6.
+A parte Reclamante apresenta embargos de declaração alegando que há
+omissões no julgado, no que diz respeito: a) aos pressupostos intrínsecos do recurso de revista (art. 896
+da CLT e Súmulas 126, 296, 333 e 422 do TST); b) à análise de eventual fraude trabalhista à luz do Tema
+29 do TST; c) ao reconhecimento da subordinação direta e estrutural, inclusive por meios telemáticos; d)
+à aplicação da OJ 383 da SBDI-1 e do art. 12 da Lei nº 6.019/74, para fins de isonomia; e) ao exame do
+pedido sucessivo de enquadramento como financiária, sustentando que tais questões não teriam sido
+devidamente apreciadas no acórdão embargado.
+Nos termos dos arts. 897-A da CLT e 1.022 do CPC, os embargos de declaração
+destinam-se a sanar obscuridade, contradição, omissão ou erro material, não se prestando à
+rediscussão da matéria já decidida.
+No caso concreto, não se verifica qualquer omissão no julgado embargado.
+Primeiramente, quanto às alegações acerca de não cumprimento nos
+requisitos intrínsecos do recurso de revista, ressalta-se que, na hipótese em que a matéria do recurso
+de revista já se encontra resolvida em decisão do STF de observância obrigatória, a Suprema Corte tem
+entendido, de forma reiterada, que a análise clássica da admissibilidade do recurso de revista, com
+eventual conclusão, pelo Tribunal Superior do Trabalho, do seu não-conhecimento pelo não
+atendimento aos pressupostos intrínsecos ou pela ausência de transcendência da causa implica
+usurpação de competência do Supremo Tribunal Federal, pois, uma vez fixada tese com efeito
+vinculante, cabe às demais instâncias do Poder Judiciário procederem tão-somente ao juízo de
+conformidade (análise de mérito) daquele entendimento com o caso concreto, dando provimento ao
+recurso de revista, caso a decisão regional seja destoante da tese, ou negando-lhe provimento, na
+hipótese de a decisão regional estar em conformidade com a tese fixada.
+Em outras palavras, se o recurso de revista veicula tema cuja discussão de mérito
+já está resolvida em decisão de efeito vinculante pelo Supremo Tribunal Federal, devem ser mitigados os
+pressupostos intrínsecos formais do recurso de revista, passando-se, de imediato, ao exame do mérito
+da controvérsia, à luz da tese fixada, sob pena de usurpação de competência da Suprema Corte,
+conforme reiterados precedentes do STF.
+Assim, não há falar em omissão, sendo certo que a insurgência da embargante, ao
+invocar os óbices das Súmulas 126, 296, 333 e 422 do TST, revela mero inconformismo com o
+enquadramento jurídico adotado.
+Quanto à alegada fraude trabalhista e à incidência do Tema 29 da Tabela de
+Recursos Repetitivos do TST, também não se verifica omissão. O acórdão embargado foi expresso ao
+consignar que a controvérsia deve ser solucionada à luz das teses vinculantes firmadas pelo Supremo
+Tribunal Federal no Tema 725 da repercussão geral e na ADPF 324, reconhecendo a licitude da
+terceirização, inclusive em atividade-fim. Ao assim decidir, afastou, de forma lógica, a premissa de
+fraude adotada pelo Tribunal Regional, por incompatível com o entendimento vinculante superveniente.
+A pretensão da embargante, no particular, evidencia mera tentativa de rediscussão da matéria.
+Já no que se refere à alegada omissão quanto à subordinação direta,
+igualmente não procede a insurgência. No caso, o v. acórdão do TRT analisou a questão unicamente sob
+a ótica da subordinação estrutural, e não da subordinação jurídica ou direta com o tomador de serviços.
+Assim, a decisão embargada unicamente aplicou a caso a tese vinculante fixada no tema 725 da tabela
+de repercussão geral do STF.
+Ainda, quanto à aplicação da Orientação Jurisprudencial nº 383 da SBDI-1 do
+TST e do art. 12 da Lei nº 6.019/74, não há omissão. O acórdão embargado foi claro ao julgar
+improcedentes os pedidos decorrentes do reconhecimento do vínculo com o tomador e da condição de
+bancária, o que abrange, por consequência lógica, as pretensões isonômicas. Afastada a ilicitude da
+terceirização, não subsiste fundamento para aplicação dos referidos dispositivos.
+Por fim, no tocante ao pedido sucessivo de enquadramento da reclamante na
+categoria dos financiários, assiste parcial razão à embargante, apenas para fins de esclarecimento.
+Com efeito, o referido pleito não possui natureza autônoma, estando intrinsecamente vinculado à
+alegação de ilicitude da terceirização e ao reconhecimento do vínculo de emprego com o tomador dos
+serviços. Não se trata de pedido fundado na condição da empregadora formal como instituição
+financeira, mas de pretensão sucessiva atrelada à tese de fraude. Assim, uma vez reconhecida, no
+acórdão embargado, a licitude da terceirização, nos termos das teses vinculantes firmadas pelo
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100675F76AC10D30B6.
+Supremo Tribunal Federal, o pedido sucessivo resta improcedente por consequência lógica, em conjunto
+com o pleito de reconhecimento de vínculo com o tomador dos serviços.
+Ante o exposto, acolho os embargos de declaração apenas para prestar
+esclarecimentos, sem alteração do julgado.
+ISTO POSTO
+ACORDAM os Ministros da Quarta Turma do Tribunal Superior do Trabalho, por
+unanimidade, conhecer dos embargos de declaração e, no mérito,dar-lhes provimento, apenas para
+prestar esclarecimentos, sem alteração do julgado. Indefere-se a Petição nº 54980/2026-1.
+Brasília, 2 de junho de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+ALEXANDRE LUIZ RAMOS
+Ministro Relator
+Firmado por assinatura digital em 01/06/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100675F76AC10D30B6.
