@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial pela incidência da Súmula n. 7 do STJ (fls. 669-672).
+O acórdão recorrido está assim ementado (fl. 591):
+APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - CONTRATO DE COMPRA E VENDA DE IMÓVEL - GARANTIA PRESTADA PELOS EMBARGANTES - NOMENCLATURA DE "AVAL" NO CONTRATO - NATUREZA JURÍDICA DE FIANÇA - LIMITAÇÃO EXPRESSA AO CASO DE SUCESSÃO - INTERPRETAÇÃO RESTRITIVA - ARTIGO 819 DO CÓDIGO CIVIL - ILEGITIMIDADE PASSIVA RECONHECIDA - RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração foram rejeitados (fls. 620-627).
+No recurso especial (fls. 629-655), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente apontou, além do dissídio jurisprudencial, violação dos arts. 1.022 do CPC, 112, 113, 421, 422, 819 e 828, I, do CC.
+Sustentou que o acórdão recorrido teria sido omisso quanto à correta interpretação da cláusula contratual, permanecendo silente ao concluir pela limitação da garantia e pela prejudicialidade das demais teses. Alegou que a interpretação restritiva não pode aniquilar a real intenção das partes, a qual, segundo afirma, consistia em reforçar amplamente a segurança jurídica do negócio.
+Argumentou que, ao desconsiderar a qualificação de "avalistas" assumida pelos agravados, o acórdão incorrera em grave erro de direito, violando simultaneamente as regras de interpretação dos negócios jurídicos e o regime das garantias contratuais.
+Afirmou que, ao se declararem "avalistas", os agravados manifestaram inequivocamente a vontade de se obrigar de forma solidária. Aduziu que tal qualificação deveria ser interpretada, no mínimo, como renúncia expressa ao benefício de ordem, caracterizando verdadeira fiança solidária.
+Por fim, alegou que a interpretação mais compatível com a finalidade da garantia é a de que a menção à sucessão visava reforçá-la, e não limitá-la. Ao firmarem o contrato, a intenção inequívoca das partes era criar uma segurança real e efetiva para o negócio.
+Foram apresentadas contrarrazões (fls. 659-667).
+No agravo (fls. 673-696), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi oferecida contraminuta (fls. 699-707).
+Juízo negativo de retratação (fls. 708-709).
+É o relatório.
+Decido.
+Inexiste afronta ao art. 1.022 do CPC quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+O Tribunal de origem, com base nos fatos e nas provas dos autos, assim se pronunciou (fls. 594-595):
+ ..  Primeiramente, é incontestável que o contrato em questão não é um título de crédito, mas sim um contrato civil de promessa de compra e venda. Portanto, tecnicamente, não poderia comportar aval, que é garantia específica de títulos de crédito. A garantia prestada em contratos civis é a fiança, que possui regime jurídico próprio.
+Em segundo lugar, a cláusula contratual é clara ao limitar a garantia "especialmente na hipótese de algum evento que envolva direito sucessório". Esta limitação expressa é característica típica da fiança, que admite restrições quanto ao seu objeto e alcance, ao contrário do aval, que não comporta tais limitações.
+O princípio da interpretação restritiva da fiança, estabelecido no artigo 819 do Código Civil, determina que a fiança não admite interpretação extensiva. Isso significa que a responsabilidade do fiador deve estar claramente delimitada no instrumento contratual, não se admitindo interpretações ampliativas nem presunções quanto à extensão da garantia.
+No caso concreto, a garantia foi expressamente limitada à hipótese de sucessão, e não houve qualquer evento sucessório que justificasse a responsabilização dos apelados. A mera utilização do termo "avalistas" não altera a natureza jurídica da garantia nem amplia seu alcance além dos limites expressamente estabelecidos.
+Quanto à alegação de que os apelados teriam renunciado ao benefício de ordem, a cláusula contratual utiliza o verbo "podendo", o que indica faculdade, e não obrigação. Para que haja renúncia ao benefício de ordem, é necessário ato volitivo específico e expresso do fiador, nos termos do artigo 828 do Código Civil. Não há nos autos qualquer documento ou manifestação dos apelados renunciando expressamente ao benefício de ordem.
+Mesmo que se admitisse a renúncia ao benefício de ordem, tal renúncia estaria limitada às situações envolvendo direito sucessório, conforme expressamente estabelecido na cláusula sétima. Como não houve evento sucessório, a eventual renúncia seria inaplicável ao caso concreto.
+ ..  Diante do reconhecimento da ilegitimidade passiva, que por si só inviabiliza o prosseguimento da execução em face dos apelados, fica prejudicada a análise dos demais argumentos e matérias suscitados na inicial dos embargos e nas contrarrazões à apelação.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC.
+No tocante à tese de ofensa aos arts. 113 e 421 do CC, constata-se que tais normativos não foram objeto de debate específico pelo acórdão recorrido, esbarrando a insurgência no óbice das Súmulas n. 211 do STJ e 282 do STF.
+Além disso, a Corte Estadual concluiu que a avença (promessa de compra e venda) não traduz título de crédito cambiário para comportar aval autônomo, assumindo assim a verdadeira natureza de fiança, vinculada estritamente aos casos de sucessão. Registrou-se, por conseguinte, que tal evento sucessório não se concretizou, atraindo a ilegitimidade passiva dos garantidores.
+Ademais, a pretensão recursal  no sentido de reconhecer que a cláusula contratual exprimia garantia ampla, com responsabilidade solidária e renúncia ao benefício de ordem  demandaria necessariamente nova interpretação do instrumento contratual, bem como reexame do conjunto fático-probatório dos autos, providências inviáveis na via estreita do recurso especial, nos termos das Súmulas n. 5 e 7 do STJ.
+Outrossim, para o conhecimento do recurso especial com base na alínea "c" do permissivo constitucional, seria indispensável demonstrar, por meio de cotejo analítico, que as soluções encontradas tanto na decisão recorrida quanto nos paradigmas tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias. Contudo, a parte não se desobrigou desse ônus, nos termos do art. 1.029, § 1º, do CPC.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
