@@ -1,0 +1,1655 @@
+P
+o
+d
+e
+r
+J
+u
+diciá
+rio
+J
+u
+stiç
+a
+d
+o
+T
+r
+a
+b
+alh
+o
+T
+rib
+u
+n
+al S
+u
+p
+e
+rio
+r
+d
+o
+T
+r
+a
+b
+alh
+o
+P
+R
+O
+C
+E
+S
+S
+O
+N
+º
+T
+S
+T-A
+g-E
+D
+Civ-A
+R
+R - 4
+3
+4
+0
+0-7
+4.2
+0
+0
+8.5.0
+4.0
+3
+8
+1
+A
+C
+Ó
+R
+D
+Ã
+O
+Ó
+r
+g
+ã
+o
+E
+s
+p
+e
+cial GVPCB/fvv
+A
+G
+R
+AV
+O. DECISÃO
+D
+E
+N
+E
+G
+A
+T
+Ó
+RIA
+D
+O
+R
+E
+C
+U
+R
+S
+O
+E
+X
+T
+R
+A
+O
+R
+DIN
+Á
+RIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CONSONÂNCIA COM A TESE FIXADA PELO STF NO TEMA 339 DO EMENTÁRIO DE REPERCUSSÃO GERAL. NÃO PROVIMENTO. Consoante inteligência do artigo 1.030, I, “a”, do CPC, o recurso extraordinário terá seguimento denegado, quando a matéria discutida não tiver repercussão geral reconhecida pelo STF. O recurso extraordinário também terá seguimento denegado, quando o acórdão recorrido estiver em conformidade com entendimento fixado pela excelsa Corte, em regime de repercussão geral. Na hipótese, o recurso extraordinário da parte agravante foi obstado em razão de o acórdão recorrido encontrar-se em consonância com a tese jurídica fixada pelo Supremo Tribunal Federal no Tema 339, segundo a qual a exigência contida no artigo 93, IX, da Constituição Federal limita-se à fundamentação da decisão, ainda que de forma sucinta, não impondo o exame pormenorizado de cada alegação ou prova. Nesse contexto, estando a decisão agravada em conformidade com o artigo 1.030, I, “a”, do CPC, o não provimento do agravo é medida que se impõe. Agravo a que se nega provimento. Vistos, relatados e discutidos estes autos de Agravo em Embargos de Declaração
+C
+ív
+el e
+m
+R
+e
+c
+u
+r
+s
+o
+d
+e
+R
+e
+vis
+t
+a
+c
+o
+m
+A
+g
+r
+a
+v
+o
+n
+º
+T
+S
+T-A
+g-E
+D
+Civ-A
+R
+R - 4
+3
+4
+0
+0-7
+4.2
+0
+0
+8.5.0
+4.0
+3
+8
+1, e
+m
+q
+u
+e
+é
+A
+g
+r
+a
+v
+a
+n
+t
+e(s) V
+U
+L
+C
+A
+B
+R
+A
+S
+A
+Z
+A
+L
+EIA-R
+S,C
+A
+L
+C
+A
+D
+O
+S
+E
+A
+R
+TIG
+O
+S
+E
+S
+P
+O
+R
+TIV
+O
+S
+S
+/
+A
+e
+é
+A
+g
+r
+a
+v
+a
+d
+o(s) S
+É
+R
+GIO
+R
+EIN
+A
+L
+D
+O
+S
+E
+N
+G
+E
+R. P
+o
+r
+m
+eio
+d
+e
+d
+e
+cis
+ã
+o
+m
+o
+n
+o
+c
+r
+á
+tic
+a,f
+oi d
+e
+n
+e
+g
+a
+d
+o
+s
+e
+g
+uim
+e
+n
+t
+o
+a
+o
+r
+e
+c
+u
+r
+s
+o
+e
+x
+t
+r
+a
+o
+r
+din
+á
+rio, c
+o
+m
+s
+u
+p
+o
+r
+t
+e
+n
+o
+a
+r
+tig
+o
+1.0
+3
+0, I, “
+a
+”, d
+o
+C
+P
+C. Contra a referida decisão, a parte in
+t
+e
+r
+p
+õ
+e
+o
+p
+r
+e
+s
+e
+n
+t
+e
+a
+g
+r
+a
+v
+o, n
+o
+q
+u
+al r
+e
+q
+u
+e
+r
+o
+r
+e
+g
+ula
+r
+t
+r
+â
+n
+sit
+o
+d
+o
+s
+e
+u
+a
+p
+elo. Intimad
+a, a
+p
+a
+r
+t
+e
+a
+g
+r
+a
+v
+a
+d
+a
+a
+p
+r
+e
+s
+e
+n
+t
+o
+u
+c
+o
+n
+t
+r
+a
+r
+r
+a
+z
+õ
+e
+s. É o relatório. V O T O I - CONHECIMENTO Atendidos os pressupostos recursais, conheço do agra
+v
+o. II - MÉRITO DECISÃO DENEGATÓRIA DO RECURSO EXTRAORDIN
+Á
+RIO. N
+E
+G
+A
+TIVA
+D
+E
+P
+R
+E
+S
+T
+A
+Ç
+Ã
+O
+J
+U
+RIS
+DICIO
+N
+A
+L. C
+O
+N
+S
+O
+N
+Â
+N
+CIA
+C
+O
+M
+A
+T
+E
+S
+E
+FIXA
+D
+A
+P
+E
+L
+O
+S
+T
+F
+N
+O
+T
+E
+M
+A
+3
+3
+9
+D
+O
+E
+M
+E
+N
+T
+Á
+RIO
+D
+E
+R
+E
+P
+E
+R
+C
+U
+S
+S
+Ã
+O
+G
+E
+R
+A
+L. Por meio de
+d
+e
+cis
+ã
+o
+m
+o
+n
+o
+c
+r
+á
+tic
+a, d
+e
+n
+e
+g
+o
+u-s
+e
+s
+e
+g
+uim
+e
+n
+t
+o
+a
+o
+r
+e
+c
+u
+r
+s
+o
+e
+x
+t
+r
+a
+o
+r
+din
+á
+rio
+s
+o
+b
+o
+s
+s
+e
+g
+uin
+t
+e
+s
+f
+u
+n
+d
+a
+m
+e
+n
+t
+o
+s: “Trata-se de recurso ex
+t
+r
+a
+o
+r
+din
+á
+rio in
+t
+e
+r
+p
+o
+s
+t
+o
+c
+o
+n
+t
+r
+a
+a
+c
+ó
+r
+d
+ã
+o
+p
+r
+o
+f
+e
+rid
+o
+p
+o
+r
+ó
+r
+g
+ã
+o
+f
+r
+a
+cio
+n
+á
+rio
+d
+e
+s
+t
+e
+T
+rib
+u
+n
+al S
+u
+p
+e
+rio
+r, n
+o
+q
+u
+al s
+e
+dis
+c
+u
+t
+e
+a
+n
+e
+g
+a
+tiv
+a
+d
+e
+p
+r
+e
+s
+t
+a
+ç
+ã
+o
+j
+u
+ris
+dicio
+n
+al. A parte argui prefacial derepercussão geral Sustenta nulidade por negativa de prestação jurisdicional, por entender
+q
+u
+e
+a
+S
+e
+x
+t
+a
+T
+u
+r
+m
+a
+d
+e
+s
+t
+a
+T
+rib
+u
+n
+al S
+u
+p
+e
+rio
+r
+sid
+o
+o
+mis
+s
+a
+e
+c
+o
+n
+t
+r
+a
+dit
+ó
+ria
+s
+o
+b
+r
+e
+p
+o
+n
+t
+o
+s im
+p
+o
+r
+t
+a
+n
+t
+e
+s
+p
+a
+r
+a
+o
+d
+e
+slin
+d
+e
+d
+a
+c
+o
+n
+t
+r
+o
+v
+é
+r
+sia, q
+u
+ais
+s
+eja
+m: a) a
+a
+plic
+a
+ç
+ã
+o
+d
+o
+a
+r
+tig
+o
+1
+1
+4, I, d
+a
+C
+o
+n
+s
+tit
+uiç
+ã
+o
+F
+e
+d
+e
+r
+al, in
+clu
+siv
+e
+q
+u
+a
+n
+t
+o
+à
+m
+a
+n
+u
+t
+e
+n
+ç
+ã
+o
+d
+a
+c
+o
+n
+d
+e
+n
+a
+ç
+ã
+o
+d
+a
+r
+e
+cla
+m
+a
+d
+a
+a
+o
+p
+a
+g
+a
+m
+e
+n
+t
+o
+d
+e
+h
+o
+n
+o
+r
+á
+rio
+s
+d
+e
+n
+o
+v
+e
+n
+t
+a
+dia
+s
+d
+e
+s
+tin
+a
+d
+o
+s
+a
+o
+dir
+e
+t
+o
+r
+e
+s
+t
+a
+t
+u
+t
+á
+rio; e
+b) q
+u
+a
+n
+t
+o
+a
+o
+p
+a
+g
+a
+m
+e
+n
+t
+o
+d
+e
+g
+r
+a
+tifi
+c
+a
+ç
+ã
+o
+d
+e
+5
+0
+%
+p
+r
+e
+vis
+t
+o
+n
+a
+clá
+u
+s
+ula
+4
+ª
+d
+o
+“
+a
+c
+o
+r
+d
+o
+p
+a
+r
+a
+o
+e
+x
+e
+r
+cício
+d
+e
+c
+a
+r
+g
+o
+d
+e
+dir
+e
+t
+o
+ria
+e
+s
+t
+a
+t
+u
+t
+á
+ria
+”. Alega terem sido violados os artigos 93, IX, da Constit
+uiç
+ã
+o
+F
+e
+d
+e
+r
+al, 8
+3
+2
+d
+a
+C
+L
+T
+e
+4
+8
+9, II e
+§
+1
+º, I a IV do CPC. É o relatório. O acórdão impugnado foi fundamentado nos seguintes termos: “(...) II – RECURSO DE REVISTA DAS RECLAMADAS 1 - COMPETÊNCIA DA JUSTIÇA DO TRABALHO. DIRETOR ESTATUTÁRIO. DO PAGAMENTO EQUIVALENTE A 50% DO FUNDO DE GRATIFICAÇÃO DO DIRETOR, PREVISTO NA CLÁUSULA 4ª DO “ACORDO PARA O EXERCÍCIO DE CARGO DE DIRETORIA ESTATUTÁRIA”. DOS HONORÁRIOS DE NOVENTA DIAS EM CASO DE DESLIGAMENTO DA DIRETORIA Conhecimento O acórdão Regional deu provimento parcial ao recurso ordinário do reclamante para deferir, dentre outros pleitos, o valor equivalente a 50% do fundo instituído para gratificação do Diretor, no caso de afastamento do autor da diretoria, nos termos do § 2° da Cláusula 4ª do Acordo da fl. 43 - “Acordo para o exercício de cargo de Diretoria Estatutária”, observado o critério de cálculo previsto nocaput da mesma cláusula, autorizada a dedução de valores comprovadamente adimplidos ao título, conforme se apurar em liquidação, nos termos dos fundamentos constantes às fls. 1846-1850. As reclamadas opuseram embargos declaratórios, alegando, em relação ao provimento do pagamento de fundo da diretoria, a omissão do acórdão quanto à tese defensiva reproduzida em contrarrazões ao recurso ordinário no que se refere à incompetência material da Justiça do Trabalho, conforme as razões expendidas às fls. 1873-1874. Em resposta aos declaratórios das reclamadas, o Regional, no tópico em questão, Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100676861C19A0B700.
+e
+s
+cla
+r
+e
+c
+e
+u: “ACO
+R
+D
+A
+M
+o
+s
+M
+a
+gis
+t
+r
+a
+d
+o
+s in
+t
+e
+g
+r
+a
+n
+t
+e
+s
+d
+a
+9
+ª
+T
+u
+r
+m
+a
+d
+o
+T
+rib
+u
+n
+al R
+e
+gio
+n
+al d
+o
+T
+r
+a
+b
+alh
+o
+d
+a
+4
+ª
+R
+e
+giã
+o: (...) P
+o
+r
+u
+n
+a
+nimid
+a
+d
+e, A
+C
+O
+L
+H
+E
+R
+P
+A
+R
+CIA
+L
+M
+E
+N
+T
+E
+o
+s
+e
+m
+b
+a
+r
+g
+o
+s
+d
+e
+d
+e
+cla
+r
+a
+ç
+ã
+o
+o
+p
+o
+s
+t
+o
+s
+p
+ela
+s
+r
+e
+cla
+m
+a
+d
+a
+s
+p
+a
+r
+a
+a
+c
+r
+e
+s
+c
+e
+r
+f
+u
+n
+d
+a
+m
+e
+n
+t
+o
+s
+a
+o
+a
+c
+ó
+r
+d
+ã
+o
+e
+n
+f
+r
+e
+n
+t
+a
+n
+d
+o
+a
+a
+r
+g
+uiç
+ã
+o
+d
+e in
+c
+o
+m
+p
+e
+t
+ê
+n
+cia
+d
+a
+J
+u
+s
+tiç
+a
+d
+o
+T
+r
+a
+b
+alh
+o
+p
+a
+r
+a
+d
+e
+cidir
+a
+c
+e
+r
+c
+a
+d
+o
+p
+e
+did
+o
+d
+e 'lib
+e
+r
+a
+ç
+ã
+o
+d
+o 'fu
+n
+d
+o' e
+m
+d
+e
+c
+o
+rr
+ê
+n
+c
+i
+a
+d
+o
+exe
+r
+c
+íc
+i
+o
+d
+o
+c
+a
+rg
+o
+d
+e
+dir
+e
+t
+o
+r
+e
+s
+t
+a
+t
+u
+t
+á
+ri
+o', s
+u
+s
+cit
+a
+d
+a
+e
+m
+c
+o
+n
+t
+r
+a
+r
+r
+a
+z
+õ
+e
+s, s
+e
+m
+q
+u
+e
+dis
+s
+o
+r
+e
+s
+ult
+e
+e
+f
+eit
+o
+m
+o
+dific
+a
+tiv
+o
+a
+o julg
+a
+d
+o. (...) 2. Liberação do 'f
+u
+n
+d
+o' e
+m
+d
+e
+c
+o
+r
+r
+ê
+n
+cia
+d
+o
+e
+x
+e
+r
+c
+í
+cio
+d
+o
+c
+a
+r
+g
+o
+d
+e
+dir
+e
+t
+o
+r
+e
+s
+t
+a
+t
+u
+t
+á
+rio - In
+c
+o
+m
+p
+e
+t
+ê
+n
+cia
+d
+a
+J
+u
+s
+tiç
+a
+d
+o
+T
+r
+a
+b
+alh
+o
+A
+fi
+r
+m
+a
+m
+a
+s
+r
+e
+cla
+m
+a
+d
+a
+s
+s
+e
+r
+o
+mis
+s
+o
+o
+a
+r
+e
+s
+t
+o
+e
+m
+b
+a
+r
+g
+a
+d
+o, n
+o it
+e
+m
+e
+m
+e
+píg
+r
+a
+f
+e, e
+m
+r
+ela
+ç
+ã
+o
+a
+u
+m
+a
+d
+a
+s
+t
+e
+s
+e
+s
+d
+a
+d
+e
+f
+e
+s
+a, r
+e
+n
+o
+v
+a
+d
+a
+e
+m
+c
+o
+n
+t
+r
+a
+r
+r
+a
+z
+õ
+e
+s, q
+u
+al s
+eja, a
+d
+a incompetência material da Justiça do Trabalho. Insistem que, reconhecida a legalidade da relação de Diretor Estatutário no período em questão, o reclamante é órgão da sociedade e não típico trabalhador, nos termos do art. 114, I, da Constituição Federal, atraindo, em relação às controvérsias acerca das condições de contraprestação do Diretor Estatutário da sociedade anônima, a competência da Justiça Comum. Efetivamente, não houve enfrentamento específico da matéria suscitada em contrarrazões. Observo, entretanto, que a incompetência da Justiça do Trabalho foi arguida na defesa, e rejeitada pela sentença, não tendo havido recurso contra o decidido, no aspecto. De qualquer forma, e considerando que eventual incompetência ensejaria nulidade absoluta, consigno que a redação do art. 114 da Constituição Federal atribui à Justiça do Trabalho competência para dirimir conflitos resultantes de relações de trabalho, ainda que não desenvolvidas com característica de subordinação. Na espécie, inequivocamente estabeleceu-se entre as partes relação de trabalho, não subordinada, enquanto o autor atuou como integrante da Diretoria da reclamada. Entendo que a Diretoria é, sim, órgão da sociedade, mas que tal condição não se estende aos diretores em si. Acolho parcialmente os embargos de declaração tão somente para acrescer fundamentos sem ensejar efeito modificativo ao julgado” (fls. 1.880-1.891 - negritei). Na revista, às fls. 1994-1998, as reclamadas alegam que o Regional, apesar de reconhecer o exercício do cargo de diretor estatutário de sociedade anônima pelo reclamante, no período de 18/4/2002 a 20/12/2007, acabou por tratar o período como de suspensão do contrato de trabalho. Afirmam que o acórdão recorrido, no referido período, deferiu ao autor duas parcelas que pressupõem a validade da condição de diretor estatutário, quais sejam: a) pagamento de uma gratificação correspondente a 50% de um fundo previsto no contrato firmado pelo exercício da condição de diretor estatutário; b) honorários de noventa dias a título de “quarentena” decorrentes do mesmo instrumento contratual. Sustentam que o diretor de sociedade econômica é órgão da empresa, com direitos e obrigações previstas especificamente na Lei 6.404/76, o que os qualifica como sujeitos de relação civil-comercial e não de trabalho. Requerem o reconhecimento da incompetência material da Justiça do Trabalho para julgar os pedidos relativos ao pagamento da gratificação correspondente a 50% de um fundo previsto em contrato, bem como os honorários de noventa dias decorrentes do mesmo instrumento contratual, com a exclusão da condenação dessas duas parcelas. Apontam a violação do art. 114 da Constituição Federal. Acostam arestos às fls. 1.996-1.998, cujas cópias foram juntadas às fls. 2.014-2.044. À análise. No tocante aos honorários de noventa dias a título de “quarentena”, o Regional não se manifestou a respeito da incompetência da Justiça do Trabalho para julgar tal pedido e nem as reclamadas objetivaram tal prequestionamento nos embargos declaratórios opostos às fls. 1872-1875, estando preclusa a discussão, conforme preconizado na Orientação Jurisprudencial 62 da SBDI- 1 do TST e na Súmula 297 do TST. Quanto ao pagamento da gratificação correspondente a 50% de um fundo previsto na Cláusula 4ª do “Acordo para o exercício de cargo de Diretoria Estatutária”, o Regional manifestou-se sobre a competência da Justiça do Trabalho. Assim, a análise da competência fica limitada apenas ao fundo previsto na Cláusula 4ª do mencionado acordo. A pretensão deferida pelo Regional se refere ao pagamento de gratificação correspondente a 50% de um fundo previsto na Cláusula 4ª do “Acordo para o exercício de cargo de Diretoria Estatutária”, ou seja, trata-se de pagamento de gratificação contratual decorrente de cargo de diretor estatutário e não pagamento de salário decorrente de relação de empregado ou relação de trabalho, nos termos previstos no art. 114 da Constituição Federal. O Regional, conforme trecho do acórdão acima transcrito, consignou, expressamente, a ausência de subordinação. A jurisprudência desta Corte é no sentido de não reconhecer a competência da Justiça do Trabalho para julgar pedidos relacionados ao diretor estatutário, não subordinado. Isso porque os diretores estatuários são órgãos da sociedade e, nesta condição, a relação jurídica é de natureza estatutária e não contratual (mandatária), cuja competência é da justiça comum, não estando abrangida pelo art. 114 da Constituição Federal. (...) Desse modo, o Regional, ao reconhecer a competência da Justiça do Trabalho para apreciar pedido de pagamento da gratificação correspondente ao fundo de diretoria estatuária de sociedade anônima, em face do desligamento do autor, violou o art. 114, I, da Constituição Federal. Conheço do recurso de revistano tocante ao tema da competência da Justiça do Trabalho apenas em relação ao pedido de pagamento da gratificação correspondente ao fundo da diretoria, por violação ao art. 114, I, da Constituição Federal. Mérito A consequência lógica do conhecimento da revista por violação de norma constitucional é o seu provimento. Dou provimento para declarar a incompetência da Justiça do Trabalho para julgar o pedido de pagamento da gratificação correspondente ao fundo previsto na Cláusula 4ª do “Acordo para o exercício de cargo de Diretoria Estatutária”. 2 - HONORÁRIOS DE NOVENTA DIAS, EM CASO DE DESLIGAMENTO DA DIRETORIA. CLÁUSULA 8ª DO ACORDO PARA O EXERCÍCIO DE CARGO DE DIRETORIA ESTATUTÁRIA Conhecimento Foi consignado no acórdão regional: “Não se resigna o autor com a sentença que indeferiu o pedido de pagamento de três salários de valores iguais aqueles percebidos como Diretor, a serem calculados com base no salário já equiparado e reajustado de acordo com as Convenções Coletivas. Aponta que, conforme documentos das fls. 16-41, não prestou trabalho a nenhuma outra empresa no período de 90 dias após sua saída da empresa reclamada ou laborou para qualquer empresa concorrente. Atendeu, assim, ao requisito contido na cláusula 8ª do Acordo. Assevera equivocada a interpretação concedida pela sentença à cláusula em apreço, e a ilação de que a reclamada não exigiu do autor a quarentena de 90 dias ali prevista, estando assim o autor liberado para trabalhar em qualquer empresa ou atividade. Examino. O já citado ‘Acordo Para o Exercício de Cargo da Diretoria Estatutária’ prevê, em sua cláusula 8ª: O diretor obriga-se, em qualquer hipótese de seu desligamento do cargo na Azaléia, a não se empregar, prestar serviços ou assumir cargo diretivo em empresa concorrente ou com atividades conflitantes com as da Azaléia, durante o prazo de 90 (noventa) dias a contar do desligamento, ou por maior prazo a critério da Azaléia, desde que seja assegurado o pagamento de indenização mensal de valor igual aos honorários
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100676861C19A0B700.
+percebidos pelo Diretor no momento do desligamento. Grifei.
+A cláusula supra, em que pese redigida de forma dúbia, autoriza a interpretação
+de que, por ocasião de seu desligamento, o Diretor se obriga a uma quarentena pelo
+período de no mínimo noventa dias, podendo ser superior caso a Azaléia assim exija; mas, em qualquer caso, lhe será assegurado o pagamento de indenização mensal de valor
+igual aos honorários percebidos pelo Diretor no momento do desligamento. Não recebendo
+essa indenização, não estará obrigado a qualquer quarentena. Não há prova de que a reclamada tenha alcançado ao autor referida
+indenização.
+Assim, dou provimento parcial ao recurso para acrescer a condenação com o
+pagamento de três remunerações iguais à última de maior valor percebida como Diretor, relativa ao prazo de ‘quarentena’ estipulado pela demandada (noventa dias) a
+contar do desligamento” (fls. 1.854-1.855).
+Em resposta aos declaratórios das reclamadas, o Regional esclareceu:
+“Sustentam as reclamadas que há contradição no acórdão em relação ao tópico
+titulado. Argumentam que, segundo a defesa, o pagamento desses honorários apenas
+seria devido caso as empresas exercessem a prerrogativa de não liberar o ex-Diretor
+para trabalhar na concorrência. O acórdão, em seus fundamentos, aparentemente
+concorda com a tese da defesa, porém culmina por acolher o apelo do autor,
+condenando as reclamadas, em flagrante contradição em seus fundamentos. Nesse
+sentido, destacam do aresto embargado o seguinte trecho: Não recebendo essa
+indenização, não estará obrigado a qualquer quarentena. Não há prova de que a reclamada
+tenha alcançado ao autor referida indenização. Não há a alegada contradição.
+Consigna o acórdão embargado: A cláusula supra, em que pese redigida de forma
+dúbia, autoriza a interpretação de que, por ocasião de seu desligamento, o Diretor se obriga
+a uma quarentena pelo período de no mínimo noventa dias, podendo ser superior caso
+a Azaléia assim exija; mas, em qualquer caso, lhe será assegurado o pagamento de
+indenização mensal de valor igual aos honorários percebidos pelo Diretor no momento do
+desligamento. Não recebendo essa indenização, não estará obrigado a qualquer quarentena. Não há prova de que a reclamada tenha alcançado ao autor referida indenização.
+Assim, dou provimento parcial ao recurso para acrescer a condenação com o
+pagamento de três remunerações iguais à última de maior valor percebida como Diretor,
+relativa ao prazo de "quarentena" estipulado pela demandada (noventa dias) a contar do
+desligamento.
+Consoante acima transcrito, o ‘Acordo Para o Exercício de Cargo da Diretoria
+Estatutária’ prevê que a reclamada pagará ao Diretor que se afastar do cargo
+indenização mensal de valor igual aos honorários percebidos pelo Diretor no momento
+do desligamento. Essa indenização corresponderá a noventa dias (período mínimo de
+quarentena), ou mais, se a sociedade exigir quarentena superior a noventa dias. E, no
+caso, não restou demonstrado que a reclamada tenha alcançado ao autor os honorários
+do período mínimo em questão” (fls.1.891-1.892).
+Na revista, as reclamadas sustentam que, em se tratando de contrato que prevê
+obrigações de abster-se e de pagar, a interpretação deve ser restritiva e não extensiva,
+como pretendeu o acórdão recorrido. Alegam que a leitura da cláusula do acordo para o
+exercício do cargo de diretor aponta para uma obrigação do diretor, sem contrapartida,
+de uma quarentena de noventa dias. Afirmam que a hipótese de indenização apenas
+existiria caso a empresa exigisse quarentena por prazo maior. Apontam a violação
+dos arts. 112, 114 e 442 do Código Civil.
+À análise.
+Extrai-se do acórdão regional o seguinte teor da Cláusula Oitava do acordo para o
+exercício do cargo de diretor, in verbis:
+“O diretor obriga-se, em qualquer hipótese de seu desligamento do cargo
+na Azaléia, a não se empregar, prestar serviços ou assumir cargo diretivo em empresa
+concorrente ou com atividades conflitantes com as da Azaléia, durante o prazo de 90
+(noventa) dias a contar do desligamento, ou por maior prazo a critério da Azaléia, desde que
+seja assegurado o pagamento de indenização mensal de valor igual aos honorários
+percebidos pelo Diretor no momento do desligamento” (negritei).
+O Regional, ao interpretar a referida cláusula, entendeu que o diretor, por
+ocasião de seu desligamento, obriga-se a uma quarentena pelo período de, no mínimo, noventa dias, podendo a empresa exigir um prazo superior, e que, em
+qualquer dos casos, será assegurado o pagamento de uma indenização mensal de
+valor igual aos honorários percebidos pelo diretor no momento do
+desligamento. Nesse contexto, não se vislumbra a violação à literalidade dos arts. 112,
+114 e 442 do Código Civil. Não conheço. (fls. 2.408/ 2.423)
+Opostos embargos de declaração pelas reclamadas, restou decidido:
+“(...) No primeiro ponto, as reclamadas apontam contradição quanto ao fato de a decisão ora embargada não reconhecer a incompetência da Justiça do Trabalho quanto aos honorários de 90 dias (quarentena), pois ambos os pedidos (gratificação correspondente ao fundo e honorários de 90 dias) estão relacionados ao mesmo momento, qual seja, o término da relação entre o autor e as reclamadas, período o qual a decisão ora embargada reconheceu não haver relação de trabalho.
+Argumentam que o acórdão embargado reconhece expressamente que a jurisprudência do TST é no sentido de não reconhecer a competência da Justiça do Trabalho para julgar pedidos relacionados ao diretor estatutário não subordinado.
+Assim, entendem que a decisão, ao manter a condenação da reclamada ao pagamento de honorários de 90 dias a título de quarentena do diretor estatutário foi contraditória.
+A contradição a que se refere o inciso I do art. 535 do CPC de 1973, vigente à época de interposição do recurso de revista, é do julgado com ele mesmo, ou seja, a que se acha no próprio julgado, jamais a contradição externa
+nos embargos declaratórios opostos às fls. 1872-1875, estando preclusa a discussão,
+conforme preconizado na Orientação Jurisprudencial 62 da SBDI￾1 do TST e na Súmula 297 do TST. Em verdade, as embargantes não se conformam com a aplicação dos referidos verbetes jurisprudenciais, não sendo os embargos declaratórios o instrumento recursal adequado para a sua pretensão. No segundo ponto, as embargantes requerem, por cautela, seja sanada omissão a fim de incluir no dispositivo do acórdão a exclusão da condenação ao pagamento da gratificação correspondente ao fundo previsto na Cláusula 4ª do Acordo para
+o exercício de cargo de Diretoria Estatutária. No caso, constou no dispositivo do acórdão embargado:
+“ACORDAM os Ministros da Sexta Turma do Tribunal Superior do Trabalho, por
+unanimidade: I) negar provimento ao agravo de instrumento do reclamante; II) conhecer
+parcialmente do recurso de revista das reclamadas no tocante à competência da Justiça
+do Trabalho apenas em relação ao pedido de pagamento da gratificação correspondente
+ao fundo da diretoria, por violação ao art. 114, I, da Constituição Federal, e, no mérito,
+dar-lhe provimento para declarar a incompetência da Justiça do Trabalho para julgar o
+pedido de pagamento da gratificação correspondente ao fundo previsto na Cláusula 4ª
+do “Acordo para o exercício de cargo de Diretoria Estatutária”; não conhecer dos demais
+temas do recurso de revista das reclamadas. Custas inalteradas.” (fl. 2423)
+Assim, por cautela e a fim de evitar discussões na execução, umpre esclarecer
+que, em face do provimento do recurso de revista das reclamadas para julgar o
+pedido de pagamento da gratificação correspondente ao fundo previsto na Cláusula
+4ª do “Acordo para o exercício de cargo de Diretoria Estatutária”, fica excluído da
+condenação, por consequência, o pagamento da referida gratificação.
+Finalmente, em relação ao último ponto, no tocante ao tema “HONORÁRIOS DE NOVENTA DIAS, EM CASO DE DESLIGAMENTO DA DIRETORIA. CLÁUSULA 8ª DO ACORDO
+PARA O EXERCÍCIO DE CARGO DE DIRETORIA ESTATUTÁRIA”, as reclamadas apontam
+omissão quanto à violação apontada ao art. 422 do Código Civil no sentido de que “Os
+contratantes são obrigados a guardar, assim na conclusão do contrato, como em sua
+execução, os princípios de probidade e boa-fé”, tendo em vista que a decisão embargada
+analisou, por equívoco, a violação do art. 442 do Código Civil (Em vez de rejeitar a coisa,
+redibindo o contrato (art. 441), pode o adquirente reclamar abatimento no preço), cujo
+conteúdo normativo é diverso. De fato, a decisão embargada não analisou a alegação de violação do art. 422 do
+Código Civil. Assim, a fim de suprir a omissão, cumpre consignar que o Regional, ao
+interpretar a referida cláusula, entendeu que o diretor, por ocasião de seu
+desligamento, obriga-se a uma quarentena pelo período de, no mínimo, noventa
+dias, podendo a empresa exigir um prazo superior, e que, em qualquer dos casos,
+será assegurado o pagamento de uma indenização mensal de valor igual aos
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100676861C19A0B700.
+h
+o
+n
+o
+r
+á
+rio
+s
+p
+e
+r
+c
+e
+bid
+o
+s
+p
+elo
+dir
+e
+t
+o
+r
+n
+o
+m
+o
+m
+e
+n
+t
+o
+d
+o
+d
+e
+slig
+a
+m
+e
+n
+t
+o. N
+e
+s
+s
+e
+c
+o
+n
+t
+e
+x
+t
+o, não se vislumbra a violação direta e literal ao art. 422 do Código Civil. Assim, dou provimento parcial aos embargos de declaração apenas para prestar esclarecimentos de que, em face do provimento do recurso de revista das reclamadas para declarar a incompetência da Justiça do Trabalho para julgar o pedido de pagamento da gratificação correspondente ao fundo previsto na Cláusula 4ª do “Acordo para o exercício de cargo de Diretoria Estatutária”, por consequência, fica excluída da condenação o pagamento da referida gratificação, bem como consignar a inexistência de violação do art. 422 do Código Civil no tema dos honorários de 90 dias (quarentena). (fls. 2.443/ 2.4459) O STF firmou entendimento de que a exigência contida no artigo 93, IX, da Constituição Federal é de que a decisão seja fundamentada, mesmo que de forma sucinta, não impondo o exame pormenorizado de cada alegação ou prova. Essa foi a tese fixada noTema 339 do ementário de repercussão geral daquela excelsa Corte, de seguinte redação: “O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas”. Na hipótese, infere-se do acórdão recorrido que o órgão fracionário apresentou os fundamentos da sua decisão acerca das questões que lhe foram submetidas, embora em desacordo com o interesse da parte recorrente, encontrando-se, desse modo, em perfeita harmonia com a tese fixada no Tema 339 de repercussão geral. Pelas razões expostas, com suporte no artigo 1.030, I, “a”, do CPC,nego seguimento ao recurso extraordinário.” (fls. 2528/2531) Nas razões do agravo, a parte pugna pela reforma da decisão agravada, requerendo o regular trânsito do seu recurso extraordinário. Sem razão. Consoante inteligência do artigo 1.030, I, “a”, do CPC, o recurso extraordinário terá seguimento denegado, quando a matéria discutida não tiver repercussão geral reconhecida pelo STF. O recurso extraordinário também terá seguimento denegado, quando o acórdão recorrido estiver em conformidade com entendimento fixado pela excelsa Corte, em regime de repercussão geral. Na hipótese, o recurso extraordinário da parte agravante foi obstado em razão de o acórdão recorrido encontrar-se em consonância com a tese jurídica fixada pelo Supremo Tribunal Federal no Tema 339, segundo a qual a exigência contida no artigo 93, IX, da Constituição Federal limita- se à fundamentação da decisão, ainda que de forma sucinta, não impondo o exame pormenorizado de cada alegação ou prova. Nesse contexto, estando a decisão agravada em conformidade com o artigo 1.030, I, “a”, do CPC, o não provimento do agravo é medida que se impõe. Pelo exposto, NEGO PROVIMENTO ao agravo. ISTO POSTO ACORDAM os Ministros do Órgão Especial do Tribunal Superior do Trabalho, à unanimidade, negar provimento ao agravo. Brasília, 29 de maio de 2026. Firmado por assinatura digital (MP 2.200-2/2001) GUILHERME AUGUSTO CAPUTO BASTOS Ministro Vice-Presidente do TST Firmado por assinatura digital em 08/06/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100676861C19A0B700.
