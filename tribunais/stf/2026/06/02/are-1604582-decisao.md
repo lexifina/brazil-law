@@ -1,0 +1,69 @@
+DECISÃO
+
+Trata-se de Agravo em Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal Regional Federal da Terceira Região, assim ementado (Doc. 71, fl. 5):
+
+“PROCESSO CIVIL – AGRAVO INTERNO – MANDADO DE SEGURANÇA – INCIDÊNCIA DO ISS NA BASE DE CÁLCULO DO PIS, COFINS, IRPJ E CSLL APURADOS NA FORMA DO SIMPLES NACIONAL – REGULARIDADE – NÃO APLICAÇÃO DO RE 574.706/PR – ORIENTAÇÃO DESTA CORTE REGIONAL.
+1- O Supremo Tribunal Federal declarou a inconstitucionalidade da inclusão do ICMS na base de cálculo do PIS e da COFINS, no regime de repercussão geral – Tema nº. 69 (STF, Plenário, RE 574.706, j. 15/03/2017, ACÓRDÃO ELETRÔNICO DJe-223 DIVULG 29/09/2017, PUBLIC 02/10/2017, Rel. Min. Cármen Lúcia).
+2- O mesmo raciocínio se aplica com relação ao ISS, conforme orientação desta Corte Regional.
+2- O Simples Nacional é um regime facultativo aplicável às Microempresas - ME e Empresas de Pequeno Porte - EPP, previsto na Lei Complementar nº 123/2006, que implica o recolhimento mensal, mediante documento único de arrecadação, dos seguintes tributos: IRPJ, CSLL, PIS/Pasep, Cofins, IPI, ICMS, ISS e a Contribuição para a Seguridade Social destinada à Previdência Social a cargo da pessoa jurídica (CPP).
+3- Por se tratar de regime de tributação diferenciado, cuja adesão é facultativa, não é possível ao contribuinte alterar suas regras para excluir da base de cálculo do Simples os valores relativos a qualquer tributo alcançado por essa sistemática, podendo, apenas, se entender que o regime lhe é desfavorável, a ele não aderir ou dele se retirar. Precedentes desta Corte Regional.
+4- Agravo interno desprovido.”
+
+Opostos Embargos de Declaração (Doc. 73), foram rejeitados (Doc. 82).
+No Recurso Extraordinário (Doc. 85), com fundamento no art. 102, III, “a”, da Constituição Federal, POLIVIEW SISTEMAS E SERVIÇOS LTDA alega que o acórdão recorrido viola o art. 195, I, “b” e “c”, da CF/1988, bem como o Tema 69/STF, “ao permitir a inclusão do ISS da base de cálculo do PIS, COFINS, IRPJ e CSLL na forma do SIMPLES NACIONAL, não se enquadrando na definição de receita e nem faturamento, contrariando entendimento consolidado do STF no julgamento do RE nº 574.706/PR (Tema nº 69/ STF)” (Doc. 85, fl. 3).
+Sustenta que “diferentemente da definição de “receita bruta” prevista no Decreto-Lei nº 1.598/77, que incluiu os tributos sobre ela incidentes (incluído pela Lei nº 12.973/14), a Lei Complementar do SIMPLES NACIONAL em nenhum momento incluiu na sua própria definição de ‘receita bruta’ os tributos a ela incidentes. Destarte, deve prevalecer a definição de “receita bruta” dada pelo STF no julgamento do Tema nº 69 (RE nº 574.706), que excluiu o ICMS da base de cálculo do PIS/COFINS” (Doc. 85, fl. 10).
+Aduz que “a questão da inclusão do ISS na base de cálculo do PIS e COFINS (também incidentes sobre a receita bruta) já foi reconhecida como tema de repercussão geral, por meio do RE 592.616, tema 118”(Doc. 85, fl. 18)
+Requer, ao final, o provimento do presente recurso reformando-se o acórdão recorrido “a fim de assegurar o direito da Recorrente em apurar e recolher o IRPJ, CSLL, PIS e COFINS recolhidos através do SIMPLES NACIONAL sem a inclusão do ISS, bem como assegurar o direito à compensação” (Doc. 85, fl. 29).
+Em exame de admissibilidade (Doc. 93), o Juízo de origem inadmitiu o RE sob o fundamento de que a questão possui natureza infraconstitucional.
+No agravo (Doc. 96), a parte agravante refuta os argumentos da decisão agravada e reitera as alegações de mérito do RE.
+É o relatório. Decido.
+
+Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+A obrigação do recorrente de apresentar, formal e motivadamente, a  repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+Além disso, a questão dos autos busca definir se o valor correspondente ao ISS deve compor a base de cálculo do Simples Nacional.
+O SIMPLES Nacional, que compõe o Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte, estabelece sistemática de recolhimento apartada de oito tributos, a saber, IRPJ, IPI, CSLL, PIS/PASEP, COFINS, CPP, ICMS e  ISS.
+Nessa sistemática de apuração, o contribuinte deve aplicar um determinado percentual sobre o valor da sua receita bruta auferida no mês (art. 18, § 3º, da LC 123/2006). Ocorre que a adesão ao regime do Simples é facultativa, constituindo uma livre opção da empresa, não podendo o contribuinte pretender alterar as regras dessa sistemática com o fim de excluir um ou mais tributos, podendo apenas, se entender que o regime lhe é desfavorável, não aderir ao Regime ou dele se retirar.
+O Plenário do STF, ao julgar o RE 970.821-RG, de relatoria do Min. EDSON FACHIN, DJe 19/8/2021 (Tema 517 da repercussão geral), consignou  a impossibilidade de adesão parcial ao regime simplificado, assumindo obrigação tributária com menor carga e, simultaneamente, sendo beneficiado com o não recolhimento de diferencial de alíquota nas operações interestaduais.
+No referido julgamento, esclareceu-se que a opção pelo regime do Simples Nacional é facultativa e tomada no âmbito da livre conformação do planejamento tributário, devendo, assim, o contribuinte arcar com o bônus e o ônus dessa escolha empresarial.
+O precedente restou assim ementado:
+
+“RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. DIREITO TRIBUTÁRIO. DIFERENCIAL DE ALÍQUOTA. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E PRESTAÇÃO DE SERVIÇOS – ICMS. FEDERALISMO FISCAL. OPERAÇÕES INTERESTADUAIS. ASPECTO ESPACIAL DA REGRA-MATRIZ. REGIME ESPECIAL UNIFICADO DE ARRECAÇÃO DE TRIBUTOS E CONTRIBUIÇÕES. SIMPLES NACIONAL. PRINCÍPIO DA NÃO CUMULATIVIDADE. POSTULADO DE TRATAMENTO FAVORECIDO AO MICRO E PEQUENO EMPREENDEDOR. LEI COMPLEMENTAR 123/2006. LEI ESTADUAL 8.820/1989. LEI ESTADUAL10.043/1993.
+(...)
+3. Não ofende a técnica da não cumulatividade a vedação à apropriação, transferência ou compensação de créditos relativos a impostos ou contribuições abrangidos pelo Simples Nacional, inclusive o diferencial de alíquota. Art. 23 da Lei Complementar 123/2006. Precedentes.
+4. Respeita o ideal regulatório do tratamento favorecido para as microempresas e empresas de pequeno porte a exigência do diferencial de alíquota, nos termos da legislação estadual gaúcha. É inviável adesão parcial ao regime simplificado, adimplindo-se obrigação tributária de forma centralizada e com carga menor, simultaneamente ao não recolhimento de diferencial de alíquota nas operações interestaduais. A opção pelo Simples Nacional é facultativa e tomada no âmbito da livre conformação do planejamento tributário, devendo-se arcar com o bônus e o ônus dessa escolha empresarial. À luz da separação dos poderes, não é dado ao Poder Judiciário mesclar as parcelas mais favoráveis de regimes tributários distintos, culminando em um modelo híbrido, sem o devido amparo legal.
+5. Fixação de tese de julgamento para os fins da sistemática da repercussão geral: “É constitucional a imposição tributária de diferencial de alíquota do ICMS pelo Estado de destino na entrada de mercadoria em seu território devido por sociedade empresária aderente ao Simples Nacional, independentemente da posição desta na cadeia produtiva ou da possibilidade de compensação dos créditos.”
+6. Recurso extraordinário a que se nega provimento.” (RE 970.821, Rel. Min. EDSON FACHIN, Tribunal Pleno, DJe 19/8/2021)
+
+Na mesma linha, confira-se o seguinte julgado:
+
+“EMENTA: DIREITO TRIBUTÁRIO. SIMPLES NACIONAL. ALÍQUOTA DIFERENCIADA PARA O ISS. ALEGADA OFENSA AOS PRINCÍPIOS DA ISONOMIA E DA CAPACIDADE CONTRIBUTIVA. INEXISTÊNCIA. CRITÉRIO DECORRENTE DA OPÇÃO VOLUNTÁRIA AO REGIME SIMPLIFICADO. IMPOSSIBILIDADE DE MESCLAR PARTES DE REGIMES TRIBUTÁRIOS DISTINTOS. VEDAÇÃO AO PODER JUDICIÁRIO DE ATUAR COMO LEGISLADOR POSITIVO.
+1. Conforme se depreende da sistemática do Simples, a fixação de alíquotas diferenciadas para o ISS decorre do próprio regime unificado dos tributos federais, estaduais e municipais, cuja regra matriz tem assento no texto da Carta, notadamente nos arts. 146, III, d, e 179, caput.
+2. A opção pelo Simples Nacional é facultativa, devendo o contribuinte sopesar a conveniência da sua adesão a esse regime tributário, decidindo qual alternativa lhe é mais favorável.
+3.  A ofensa à isonomia tributária ocorreria se admitida a mescla das partes mais favoráveis de um e outro regime, de molde a criar um regime mais conveniente ou vantajoso.
+4. Inaplicável o art. 85, §11, do CPC/2015, uma vez que não é cabível condenação em honorários advocatícios (art. 25 da Lei nº 12.016/2009 e Súmula 512/STF).
+5. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, §4º, do CPC/2015, em caso de unanimidade da decisão.”(RE 1.009.816 AGR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 12/06/2017)
+
+Cumpre relembrar que, nos termos da jurisprudência desta SUPREMA CORTE, não cabe ao Judiciário atuar como legislador positivo para reduzir ou equalizar carga tributária, bem como conceder benefícios fiscais não previstos em lei. Veja-se:
+
+“EMENTA: AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONCESSÃO DE BENEFÍCIO FISCAL. NÃO CABE AO PODER JUDICIÁRIO ATUAR COMO LEGISLADOR POSITIVO, PARA CONCEDER OU ESTENDER BENEFÍCIO FISCAL NÃO PREVISTO NA LEGISLAÇÃO TRIBUTÁRIA.
+1. A concessão de qualquer benefício fiscal está situada no âmbito da conveniência e oportunidade do Estado, não havendo que se falar, portanto, em tratamento anti-isonômico quando da imposição das restrições pertinentes.
+2. A parte ora recorrida, desde o ano de 2005, teve a oportunidade de participar de 9 (nove) programas de parcelamento, quedando-se inerte. Assim, não há que se falar em tratamento discriminatório ou em violação à isonomia.
+3. Sobre a matéria, em contexto ligeiramente diverso, esta SUPREMA CORTE, no julgamento do RE 640.905-RG, Tema 573 da repercussão geral, Rel. Min. LUIZ FUX, DJe de 1º/2/2018, já teve a oportunidade de se manifestar acerca da ausência de violação ao princípio da isonomia em caso de opção do ente federado pela exclusão de determinados contribuintes do rol de favorecidos por benefício fiscal.
+4. Some-se, ainda, que esta SUPREMA CORTE tem entendimento consolidado no sentido de que não cabe ao Poder Judiciário atuar como legislador positivo, para conceder ou estender benefício fiscal não previsto na legislação tributária.
+5. Agravo Interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final).” (ARE 1.415.813 AGR, de minha relatoria, Primeira Turma, DJe 17/8/2023)
+
+Adite-se que a tese fixada pelo Plenário desta CORTE no julgamento do RE 574.706-RG, paradigma do Tema 69 da repercussão geral, é inaplicável ao caso em exame, uma vez que no mencionado paradigma não se discutiu as especificidades do regime unificado do Simples Nacional.
+Por fim, a questão discutida nestes autos não se ajusta à matéria a ser debatida no Tema 118 da repercussão geral, que irá julgar situação distinta, qual seja, a possibilidade de inclusão do ISS na base de cálculo do PIS e da COFINS.
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO EM RECURSO EXTRAORDINÁRIO.
+Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+Ficam AMBAS AS PARTES advertidas de que:
+- a interposição de recursos manifestamente inadmissíveis ou improcedentes, ou meramente protelatórios, acarretará a imposição das sanções cabíveis;
+- decorridos 15 (quinze) dias úteis da intimação de cada parte sem a apresentação de recursos, será certificado o trânsito em julgado e dada baixa dos autos ao Juízo de origem.
+Publique-se.
+
+Brasília, 2 de junho de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
