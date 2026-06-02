@@ -1,0 +1,24 @@
+DECISÃO
+Em análise, recurso especial interposto por LAIDEXS SUPERMERCADOS LTDA., em face de acórdão assim ementado:
+TRIBUTÁRIO. ICMS, BENEFÍCIOS FISCAIS, EXCLUSÃO DAS BASES DE CÁLCULO DO IRPJ E DA CSLL. REGIME DE CRÉDITOS PRESUMIDOS DIFERENTE DOS DEMAIS BENEFÍCIOS FISCAIS. RESTITUIÇÃO ADMINISTRATIVA. IMPOSSIBILIDADE.
+1. Os créditos presumidos de ICMS não se equiparam nem confundem com lucro ou renda base de cálculo do IRPJ e da CSLL. Precedentes desta Corte e do Superior Tribunal de Justiça.
+2. Os benefícios fiscais de isenção ou redução de base de cálculo de ICMS, seja pela fórmula que forem, não devem ser deduzidos das bases de cálculo do IRPJ e da CSLL. Não se aplica a jurisprudência do Superior Tribunal de Justiça quanto aos créditos presumidos de ICMS a essas hipóteses. Precedentes desta Corte.
+3. Inviável a restituição administrativa, pois implicaria em subversão à ordem cronológica dos precatórios, ferindo a isonomia entre os credores do ente público (fl. 197).
+Os embargos de declaração opostos restaram assim ementados:
+TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. READEQUAÇÃO ÀS TESES 1.182 DO STJ. BENEFÍCIOS FISCAIS DE ICMS DIVERSOS DO CRÉDITO PRESUMIDO. REQUISITOS LEGAIS. NÃO COMPROVAÇÃO.
+1. O STJ autoriza, excepcionalmente, o acolhimento de embargos de declaração para novo pronunciamento sobre o mérito da controvérsia, para fins de adequar o julgamento a acórdão submetido ao regime dos recursos repetitivos.
+2. Readequação do julgado às teses 1182 do STJ: Embora seja desnecessária a comprovação prévia de que a subvenção fiscal foi concedida como medida de estímulo à implantação ou expansão do empreendimento econômico, é indispensável, para a exclusão dos benefícios fiscais diversos do crédito presumido da base de cálculo do IRPJ e da CSLL, o atendimento a todos os requisitos previstos no art. 30 da Lei n.º 12.973/2014 e no art. 10 da Lei Complementar n.º 160/2017. Hipótese em que não se verifica o cumprimento das condições e requisitos previstos em Lei para a exclusão da base de cálculo do IRPJ e do CSLL dos benefícios fiscais de ICMS (fl. 228).
+TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE OBSCURIDADE, CONTRADIÇÃO, OMISSÃO OU ERRO MATERIAL. PREQUESTIONAMENTO.
+1. Não havendo no acórdão obscuridade, contradição, omissão ou erro material, nega-se provimento aos embargos de declaração.
+2. Não é necessária a oposição de embargos de declaração para o exclusivo fim do prequestionamento (fl. 239).
+Em decorrência da inadmissão do recurso especial interposto pela ora recorrida (UNIÃO), foi interposto agravo em recurso especial nesta Corte.
+É o relatório.
+Passo a decidir.
+Dessume-se, da análise dos autos, que uma das controvérsias devolvidas ao conhecimento desta Corte Superior, mediante o agravo em recurso especial em epígrafe, foi afetada ao procedimento do art. 1.036 do Código de Processo Civil de 2015, no Tema 1416/STJ, cuja questão submetida a julgamento é: "Definir se os créditos presumidos do Imposto sobre Circulação de Mercadorias e Serviços - ICMS, concedidos pelos Estados-membros como incentivo fiscal à pessoa jurídica, podem ser excluídos das bases de cálculo do Imposto sobre a Renda de Pessoa Jurídica - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL, nos regimes jurídicos anterior e posterior à Lei n. 14.789/2023".
+Nesse contexto, os recursos que tratam da mesma controvérsia neste Superior Tribunal de Justiça devem aguardar, no Tribunal de origem, a solução da questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039, 1.040 e 1.041 do CPC/2015.
+Cumpre destacar que, de acordo com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que, eventualmente, não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo ou pelo novo pronunciamento do Tribunal de origem.
+Isso posto, determino a devolução dos autos ao Tribunal de origem para que o recurso permaneça suspenso até a publicação dos acórdãos paradigmas, nos termos do art. 1.037, II, do CPC/2015, observando-se, em seguida, o procedimento dos arts. 1.040 e 1.041 do CPC/2015.
+Advirto as partes que, na esteira da jurisprudência tranquila desta Corte, esta decisão possui recorribilidade limitada à demonstração do distinguishing, na forma do art. 1.037, §§ 9º e 10, IV, do CPC, sendo que não será conhecido eventual agravo interno ou pedido de reconsideração a pretender o julgamento do presente recurso especial.
+A oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Intimem-se.
+EMENTA
