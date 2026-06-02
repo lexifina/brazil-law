@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em recurso especial proposto por TIAGO SOUZA E SILVA contra decisão do Tribunal de Justiça do Estado de Pernambuco que inadmitiu o recurso especial manejado contra acórdão proferido no julgamento da Apelação Criminal n. 0030978-21.2014.8.17.0001.
+Consta dos autos que o agravante foi condenado, em grau recursal, à pena de 9 (nove) anos e 4 (quatro) meses de reclusão, em regime inicial fechado, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, majorado pelo art. 40, inciso VI, da mesma lei (fls. 217-222). O acórdão manteve os demais termos da sentença e apenas redimensionou a fração da causa de aumento.
+No recurso especial, a defesa sustentou violação aos artigos 59 do Código Penal e 42 da Lei n. 11.343/2006, arguindo a ocorrência de reformatio in pejus em razão de o colegiado estadual ter, em sede de recurso exclusivo da defesa, substituído a fundamentação da pena-base por vetorial não expressamente isolada como autônoma na sentença de piso.
+O Tribunal de Justiça do Estado de Pernambuco inadmitiu o recurso especial pelo óbice da Súmula n. 7/STJ e da Súmula n. 83/STJ.
+No agravo em recurso especial, a Defensoria Pública impugnou os fundamentos da decisão de inadmissão.
+O Ministério Público Federal opinou pelo desprovimento do agravo.
+É o relatório. Decido.
+Preenchidos os requisitos formais e verificada a tempestividade, o agravo deve ser conhecido.
+A tese defensiva consiste em saber se o Tribunal de origem incorreu em reformatio in pejus, vedada pelo artigo 617 do Código de Processo Penal, ao manter a pena-base em recurso exclusivo da defesa com apoio em argumento não expressamente isolado como vetorial autônoma na sentença.
+No que se refere à alegada reformatio in pejus, o recurso especial não comporta conhecimento.
+A matéria não foi debatida no acórdão recorrido sob o ângulo específico em que ora se apresenta. O Tribunal de origem não enfrentou a questão da obrigatoriedade de redução proporcional da pena-base quando circunstância judicial negativa é afastada em recurso exclusivo da defesa, nem examinou a vedação à inclusão de fundamentação inédita para compensar eventual decote de vetores negativados, tampouco apreciou a tese à luz do entendimento consolidado nesta Corte sobre o tema.
+A controvérsia, tal como formulada no recurso especial, não recebeu do acórdão recorrido qualquer resolução explícita que permitisse a esta Corte examiná-la sem incorrer em supressão de instância.
+A ausência de prequestionamento da matéria constitui óbice intransponível ao conhecimento do recurso especial neste ponto, nos termos da Súmula 282 do Supremo Tribunal Federal.
+Registre-se que não foram opostos embargos de declaração para provocar o tribunal a se manifestar sobre a questão, o que era o meio adequado para suprir eventual omissão do acórdão e viabilizar o prequestionamento.
+No mais, a pena-base do recorrente foi fixada acima do mínimo legal, com fundamento em dois vetores negativados: os antecedentes criminais e as circunstâncias do crime. No que diz respeito aos antecedentes, o próprio recurso reconhece a regularidade da valoração negativa, restringindo a insurgência ao vetor das circunstâncias do crime.
+Quanto a este ponto, o acórdão recorrido registrou que o recorrente teria agido "com habilidade e destreza ao colocar a droga em local não usual", referindo-se ao fato de a substância entorpecente estar acondicionada dentro de uma caixa de bebida alcoólica, ocultada de modo a dificultar a identificação durante abordagem policial de rotina.
+A valoração é concreta e está ancorada em elementos extraídos do próprio conjunto probatório descrito no acórdão. O modo de acondicionamento da droga, dissimulada em recipiente de bebida, dentro de sacola, transportada na garupa da motocicleta, extrapola a conduta ordinária de simples porte ou transporte de entorpecente e revela ação planejada para dificultar a detecção.
+Não se trata, portanto, de fundamento genérico ou de elemento que já integre a descrição típica do crime de tráfico, mas de circunstância concreta e específica, vinculada ao modo de execução da conduta no caso em exame.
+A jurisprudência desta Corte é firme no sentido de que a valoração negativa das circunstâncias do crime com base no modus operandi do agente, quando expressamente fundamentada em dados concretos extraídos dos autos e não se limitando a repetir elementos inerentes ao tipo penal, é idônea para embasar a exasperação da pena-base na primeira fase da dosimetria.
+Ante o exposto, conheço do agravo em recurso especial para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
