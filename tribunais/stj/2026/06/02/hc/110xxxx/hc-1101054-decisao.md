@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ELIZABETE SOARES DOS SANTOS, apontando como autoridade coatora Juiz de Direito do TRIBUNAL DE JUSTIÇA DE SÃO PAULO.
+Consta nos autos que a paciente foi inicialmente condenada pelo Juízo da Vara do Júri/Execuções da Comarca de Sorocaba à pena de 19 (dezenove) anos, 2 (dois) meses e 12 (doze) dias de reclusão, em regime inicial fechado, por infração ao artigo 33, caput, da Lei n. 11.343/2006, combinado com o artigo 29, caput, do Código Penal (fls. 11).
+O Juiz da execução revogou a prisão domiciliar da paciente.
+Na presente impetração, busca-se a concessão da ordem para: (i) restabelecer a prisão domiciliar, com expedição de alvará de soltura; e (ii) confirmar, no mérito, o cumprimento da pena em prisão domiciliar (fls. 9-10).
+É o relatório. DECIDO.
+A presente impetração investe contra decisão, funcionando como substituto do recurso na própria origem, motivo pelo qual não deve ser conhecida.
+A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância ao § 2º do artigo 654 do Código de Processo Penal.
+A controvérsia cinge-se a saber se a revogação da prisão domiciliar foi determinada de forma correta.
+A moldura fática da decisão do juiz a quo indicava que (fls. 11-12):
+ ..  Após análise dos documentos remetidos pelos Conselhos Tutelares de Sorocaba e Votorantim, verificou-se que, apesar da relatada situação de vulnerabilidade social, os menores M. J. D. S, M. V. D. S e E. M. S. A encontram-se residindo com os pais na cidade de Sorocaba, sendo que, durante o horário de trabalho, os filhos ficam sob os cuidados da babá. Consta ainda, por declaração do genitor dos infantes, que a subsistência da família recebe o apoio da avó paterna (fls. 309, 349 e 350). Por fim, indicou-se que a genitora das crianças compareceu perante o Conselho Tutelar de Sorocaba - Região Oeste, para solicitar auxílio para matrícula de seus filhos na rede de ensino. Desse modo, sendo que o cuidado primário das crianças não está sob a responsabilidade da executada, reputo não haver óbice para o cumprimento da pena imposta, motivo pelo qual REVOGO A PRISÃO DOMICILIAR anteriormente concedida.
+Como se observa da documentação juntada, a filha da paciente, A B S DE M, conta com 15 anos na presente data (fl. 41); já os menores de 12 anos, M V D DOS S e E M S DE A, seriam apenas netos da paciente (fls. 52 e 54).
+Ora, não obstante não se afira nenhuma flagrante ilegalidade do caso concreto, pois a origem concluiu que os cuidados dos infantes/adolescente não seriam prestados diretamente pela paciente, há de se destacar que o Tribunal de origem não analisou a controvérsia, incorrendo o pedido da defesa em indevida supressão de instância.
+Esses fatores, considerados em conjunto, impedem a revisão do mérito por este STJ, nesse sentido:
+ ..  De tal modo, não é possível na via eleita desconstituir referida conclusão, porquanto demandaria indevido revolvimento de fatos e provas  ..  (AgRg no HC n. 904.707/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/8/2024, DJe de 22/8/2024)
+ ..  A reforma das conclusões a que chegaram as instâncias ordinárias constitui matéria que refoge ao restrito escopo do habeas corpus, porquanto demanda percuciente reexame de fatos e provas, inviável no rito eleito  ..  (AgRg no HC n. 903.566/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 10/6/2024, DJe de 12/6/2024)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
