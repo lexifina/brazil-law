@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo DISTRITO FEDERAL, com fulcro nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado (e-STJ fls. 70/71):
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. BENEFÍCIO ALIMENTAÇÃO. SINDIRETA/DF. RPV. LIMITE. LEI DISTRITAL 6.618/2020. TEMA 792/STF. HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE IMPUGNAÇÃO. FIXAÇÃO. RECURSO PROVIDO.
+I - Caso em exame
+1. Cumprimento de sentença proposto contra o Distrito Federal, relativamente à ação coletiva ajuizada pelo Sindicato dos Servidores Públicos Civis da Administração Direta, Autarquias, Fundações e Tribunal de Contas do Distrito Federal - Sindireta/DF (processo nº 32159/1997), que versa sobre benefício alimentação devido aos servidores públicos distritais.
+2. Decisão anterior - A r. decisão agravada indeferiu o pedido do exequente de expedição de RPVs no limite de 20 salários mínimos, sob o fundamento de inaplicabilidade da Lei Distrital 6.618/2020, pois o trânsito em julgado do título executivo ocorreu em 11/3/2020; e assentou que os honorários advocatícios serão fixados apenas se houver impugnação, nos termos do art. 85, §7º, do CPC, por se tratar de ação de conhecimento individual.
+II - Questão em discussão
+3. As questões em discussão consistem em analisar (i) a aplicabilidade da Lei Distrital 6.618/2020, que aumentou o limite das RPVs de 10 para 20 salários mínimos, ao cumprimento de sentença originário, e (ii) a possibilidade de fixação inicial de honorários advocatícios, com fundamento no art. 85, §1º, do CPC, na Súmula 345/STJ e no Tema 973/STJ, sem a necessidade de impugnação pela Fazenda Pública.
+III - Razões de decidir
+4. A Lei Distrital 6.618/2020 alterou dispositivo da Lei Distrital 3.624/2005, que define a obrigação de pequeno valor para o Distrito Federal, regulamentando o disposto nos §§ 3º e 4º do art. 100 da CF/88, e aumentou o limite de 10 para 20 salários mínimos por credor.
+5. O Tema 792/STF não se aplica à presente controvérsia, pois editado no contexto de redução do limite para expedição de RPV, impondo ônus ao credor ao submetê-lo ao regime de precatórios; a Lei Distrital 6.618/2020, ao contrário, aumentou o limite para expedição de RPV, e, portanto, beneficiou o credor. O novo teto de RPV é aplicável ao crédito oriundo da sentença coletiva ( processo nº 32.159/1997) transitada em julgado antes da edição da Lei Distrital 6.618/2020.
+6. O título executivo judicial decorre de ação coletiva (proc. nº 32.159/1997), e não de ação de conhecimento individual. É devida a fixação de honorários advocatícios na instauração do cumprimento de sentença coletiva contra a Fazenda Pública, em percentual sobre o valor do débito, consoante arts. 85, §1º e 523, §1º, ambos do CPC, Súmula 345/STJ e Tema 973/STJ, ainda que não haja impugnação. Exceção à aplicação do art. 85, §7º, do CPC.
+IV - Dispositivo
+7. Recurso conhecido.
+Agravo de instrumento provido.
+Opostos embargos de declaração, foram rejeitados. O acórdão embargado registrou (e-STJ fls. 197/198):
+O Tema nº 1.190/STJ não se aplica à presente demanda, pois se refere a não fixação de honorários advocatícios apenas na hipótese de ausência de impugnação ao cumprimento de sentença contra a Fazenda Pública originário de ação individual, inclusive no regime de RPV. Consoante asseverado no acórdão embargado, o cumprimento de sentença originário do presente recurso é oriundo de ação coletiva, portanto, aplicável o disposto especificamente na Súmula 345/STJ e no Tema 973/STJ.
+Nas suas razões, o recorrente aponta violação dos arts. 85, § 7º, do Código de Processo Civil (CPC) e 85, § 3º, do CPC, além de divergência jurisprudencial (alínea c do permissivo constitucional) (e-STJ fls. 155/163).
+O recurso foi admitido e os autos remetidos ao Superior Tribunal de Justiça, nos termos do art. 1.041 do CPC, considerada a expressa distinção feita pelo Tribunal de origem quanto à inaplicabilidade do Tema 1.190 do STJ ao cumprimento individual de sentença coletiva (e-STJ fls. 192/198).
+Passo a decidir.
+Conforme relatado, a Fazenda Pública recorrente insurge-se contra a condenação ao pagamento de honorários advocatícios em cumprimento de sentença coletiva não impugnado.
+Sobre a matéria, transcreve-se a fundamentação constante do acórdão que julgou os embargos de declaração (e-STJ fl. 143):
+10. O acórdão não padece dos vícios apontados. O embargante-agravado pretende, na verdade, o reexame do mérito recursal, cujo julgamento lhe foi desfavorável, o que é inadmissível em sede de embargos de declaração, observados os estritos limites do art. 1.022 do CPC.
+11. O Tema nº 1.190/STJ não se aplica à presente demanda, pois se refere a não fixação de honorários advocatícios apenas na hipótese de ausência de impugnação ao cumprimento de sentença contra a Fazenda Pública originário de ação individual, inclusive no regime de RPV.
+12. Consoante asseverado no acórdão embargado, o cumprimento de sentença originário do presente recurso é oriundo de ação coletiva, portanto, aplicável o disposto especificamente na Súmula nº 345/STJ e no Tema nº 973/STJ.
+Pois bem.
+A conclusão adotada no acórdão recorrido encontra-se em consonância com o precedente vinculante firmado no julgamento do Tema 973 do STJ, cuja tese estabelece que "o art. 85, § 7º, do CPC/2015 não afasta a aplicação do entendimento consolidado na Súmula 345 do STJ, de modo que são devidos honorários advocatícios nos procedimentos individuais de cumprimento de sentença decorrente de ação coletiva, ainda que não impugnados e promovidos em litisconsórcio".
+Ressalte-se, ademais, que no julgamento do Tema 1.190 do STJ - ocasião em que se reconheceu a aplicação do art. 85, § 7º, do CPC aos cumprimentos de sentença mediante RPV -, a Primeira Seção não examinou a hipótese específica de cumprimento de sentença coletiva, como ocorre nos presentes autos, tampouco revogou a tese consolidada no exame do Tema 973.
+Isso posto, não é relevante para o deslinde da causa a modulação de efeitos prevista no Tema 1.190 do STJ, porque não aplicável tal precedente ao caso.
+Este, ademais, foi o entendimento de diversos ministros, quando trataram da questão em decisões monocráticas: AREsp n. 3.018.814, Ministro Paulo Sérgio Domingues, DJEN de 06/05/2026, REsp n. 2.244.545, de minha relatoria, DJEN de 04/12/2025; REsp n. 2.264.226, Ministra Regina Helena Costa, DJEN de 25/03/2026.
+Incide no caso, portanto, o óbice de conhecimento previsto na Súmula 83 do STJ.
+Ante o exposto, NÃO CONHEÇO do recurso especial (art. 255, § 4º, I, do RISTJ).
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, em 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
