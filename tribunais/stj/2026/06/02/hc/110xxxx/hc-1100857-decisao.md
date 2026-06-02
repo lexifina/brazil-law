@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de CAIO PIMENTEL GUIMARAES no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS no HC n. 1.0000.26.139844-0/000.
+Depreende-se dos autos que o paciente encontra-se preso preventivamente pela suposta prática dos delitos tipificados nos artigos 171, caput, e 171, § 2º, inciso V, ambos do Código Penal.
+Impetrado habeas corpus na origem, a ordem foi denegada em acórdão assim ementado (e-STJ fl. 7):
+HABEAS CORPUS - ESTELIONATO - REVOGAÇÃO DA PRISÃO PREVENTIVA - IMPOSSIBILIDADE - PRESENÇA DOS REQUISITOS AUTORIZADORES DA CUSTÓDIA CAUTELAR - GARANTIA DA ORDEM PÚBLICA - DECISÃO FUNDAMENTADA - PENA MÁXIMA COMINADA SUPERIOR A QUATRO ANOS - CONDIÇÕES PESSOAIS FAVORÁVEIS PARA RESPONDER O PROCESSO EM LIBERDADE - IMPOSSIBILIDADE - EVENTUAL CONDENAÇÃO MENOS GRAVOSA - IMPOSSIBILIDADE DE ANÁLISE - APLICAÇÃO DAS MEDIDAS CAUTELARES DIVERSAS DA PRISÃO - NÃO CABIMENTO - CUSTÓDIA CAUTELAR LEGALMENTE AUTORIZADA - CONSTRANGIMENTO ILEGAL NÃO DEMONSTRADO.
+- Presentes os pressupostos e requisitos constantes nos artigos 312 e 313 do Código de Processo Penal, não há que se falar em revogação da prisão preventiva, uma vez que esta se revela indispensável para a garantia da ordem pública.
+- Também a pena máxima cominada ao crime em questão autoriza a custódia cautelar.
+- As condições favoráveis, isoladamente, não são suficientes para justificar uma ordem de soltura.
+- O argumento de que a medida cautelar é mais gravosa que a pena imposta em eventual condenação demanda análise profunda e de mérito, inviável na estreita via do writ.
+- As medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal, não se mostram suficientes e adequadas à prevenção e repressão dos delitos imputados ao paciente, mormente quando presentes outras circunstâncias autorizadoras da cautelar.
+Neste writ, a Defesa alega que o decreto prisional carece de fundamentação idônea, além de não estarem presentes os requisitos autorizadores da prisão preventiva, nos termos do artigo 312 do Código de Processo Penal.
+Destaca as condições pessoais favoráveis do paciente e afirma ser suficiente a aplicação de outras medidas cautelares.
+Dessa forma, requer, liminarmente e no mérito, a revogação da custódia.
+É o relatório.
+Decido.
+Insta consignar que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do artigo 312 do Código de Processo Penal.
+No caso, são estes os fundamentos invocados para a decretação da prisão preventiva (e-STJ fls. 322/323, grifo nosso):
+Conforme se extrai dos elementos informativos constantes dos autos, na última sexta-feira, 06/02/2026, a equipe policial recebeu informações via COPOM acerca de disparos de arma de fogo em via pública, ocorridos na Rua Joaquim Murtinho, proximidades da Rua São Vicente, no município de Arcos/MG.
+Diante da gravidade da ocorrência, foram imediatamente iniciadas diligências ininterruptas com o objetivo de preservar a ordem pública e identificar os possíveis autores. Ainda na mesma data, nova comunicação via COPOM informou que HUGO MARTINS FERNANDES, 29 anos, noticiou o furto de seu veículo VW/Gol, placas HLD-5521, o qual teria sido estacionado no Posto Minas Gerais, às margens da BR-354, em 02/02/2026, sendo constatada sua subtração ao retornar ao local.
+Em consulta aos sistemas policiais, verificou-se que o referido veículo havia sido localizado na cidade de Bocaiúva/MG, conforme REDS nº 2026-005513590-001, quando era ocupado por CAIO PIMENTEL GUIMARÃES, 26 anos, e MATHEUS PHILIPPE, circunstância que reforçou a suspeita de envolvimento destes na subtração do automóvel.
+De posse dessas informações, e com apoio de outras equipes, por volta das 20h00, os militares lograram êxito em localizar o veículo VW/Gol estacionado, aberto e com o motor ligado, na Avenida Magalhães Pinto, nº 205. Durante buscas em seu interior, foram encontrados no porta-luvas 01 réplica de arma de fogo tipo pistola, 01 aparelho celular e a quantia de R$ 295,00 em espécie. Não havia ocupantes no veículo, sendo os materiais apreendidos e o automóvel removido ao pátio credenciado.
+Populares, que preferiram não se identificar por receio de represálias, relataram que momentos antes da chegada policial o veículo era ocupado por indivíduo conhecido como "Lucas, vulgo HB20", posteriormente identificado como LUCAS HENRIQUE OLIVEIRA, 28 anos, já conhecido no meio policial por envolvimento com o tráfico de drogas. Informaram ainda que, ao perceberem a aproximação policial, os ocupantes desembarcaram portando objetos semelhantes a armas de fogo e evadiram em direção à Rua Joaquim Murtinho, corroborando a ligação entre os disparos noticiados e o veículo localizado.
+As equipes diligenciaram até endereços vinculados a LUCAS, sem êxito inicial. Posteriormente, nas proximidades da residência de CAIO, situada na Avenida Maria da Cunha Amorim, nº 1446, foi visualizado o veículo Fiat/Argo, placas RMK-0H01, ocupado, entre outros, por CAIO e LUCAS, os quais, ao perceberem a presença policial, correram para o interior do imóvel.
+No interior da residência foram localizados CAIO, sua companheira GABRIELA, LUCAS e sua companheira RAIANE. Questionado, CAIO teria afirmado que combinou com o proprietário do VW/Gol um golpe para acionamento de seguro, relatando ainda que retirou o veículo no Posto Minas Gerais e se deslocou até Bocaiúva para negociar drogas ilícitas, retornando posteriormente a Arcos e deixando o veículo sob a posse de LUCAS. Este teria confirmado que permaneceu com o automóvel, mas negou porte de arma de fogo ou a realização de disparos.
+O Tribunal de origem, ao vislumbrar que a soltura do paciente caracterizaria risco à ordem pública, denegou a ordem valendo-se dos seguintes fundamentos (e-STJ fls. 10/11, grifo nosso):
+De fato, o delito em tese praticado se revela de especial e concreta gravidade, considerando sobretudo ao se considerar que as autoridades policiais receberam informações acerca de disparo de arma de fogo em via pública, bem como da ocorrência de furto de veículo automotor. As diligências subsequentes indicaram que o referido automóvel havia sido previamente abordado na posse de dois indivíduos, identificados como o paciente Caio e o coautuado Matheus. Posteriormente, o veículo foi localizado em município diverso, ocasião em que Lucas (indivíduo já conhecido no meio policial pela suposta prática de atividades delituosas) empreendeu fuga ao avistar a guarnição.
+O prosseguimento das investigações conduziu os policiais militares ao imóvel de Caio, onde também foram localizados Gabriela, Lucas e Raiane, sendo ainda constatada a existência de outro veículo com indícios de clonagem. Ato contínuo, Caio afirmou ter arquitetado um golpe para acionar o seguro do automóvel, ainda constatou a responsabilidade pelo veículo e seu intento em utilizá-lo para negociar entorpecentes. Informações adicionais apontaram a possível localização de Matheus em endereço distinto. Na sequência, ao diligenciar no referido local, a guarnição realizou chamamento, momento em que foram percebidos ruídos provenientes dos telhados das residências adjacentes, denotando a evasão dos coautuados.
+No curso da operação, conforme consignado no auto de apreensão (fls. 55/56 - ordem 02), foram arrecadados 85,1 g (oitenta e cinco gramas e dez centigramas) de substância análoga à maconha, duas armas de fogo  uma pistola calibre 9mm e um revólver calibre .38  acompanhadas de 14 (quatorze) cartuchos para cada armamento, além de um simulacro de arma de fogo. Ademais, procedeu-se à apreensão de um veículo automotor, um aparelho celular e a quantia de R$ 1.508,00 (mil quinhentos e oito reais).
+Por fim, cumpre registrar o suposto envolvimento do paciente, bem como de outros suspeitos, com a facção criminosa denominada "Primeiro Comando da Capital", conforme consta do boletim de ocorrência (fls. 30/52 - ordem 02).
+Vê-se que a prisão foi decretada em decorrência da suposta prática do delito de estelionato mediante fraude para recebimento de valor de seguro, pois consta dos autos que o paciente teria combinado "com o proprietário do VW/Gol um golpe para acionamento de seguro, relatando ainda que retirou o veículo no Posto Minas Gerais e se deslocou até Bocaiúva para negociar drogas ilícitas, retornando posteriormente a Arcos e deixando o veículo sob a posse de LUCAS" (e-STJ fl. 323).
+A mais disso, no porta-luvas do referido veículo, foi apreendida uma réplica de arma de fogo tipo pistola.
+Já o Tribunal originário destacou o suposto envolvimento do paciente, bem como dos demais corréus, com a facção criminosa denominada Primeiro Comando da Capital.
+Tais circunstâncias demonstram, por ora, a necessidade da segregação cautelar como forma de acautelar a ordem pública.
+Ressalto, ainda, que, em consulta à CAC do paciente (e-STJ fls. 419/436), verifica-se que o acusado responde a uma ação penal pelo delito tipificado no artigo 157, § 2º, VII, do Código Penal.
+Dessa forma, justifica-se a imposição da prisão preventiva do agente pois, como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública.
+Nesse mesmo sentido, guardadas as devidas peculiaridades:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+ ..
+4. A prisão preventiva foi decretada com fundamento na especial gravidade dos fatos e no fundado risco de reiteração delitiva, considerando a atuação do agravante em organização criminosa voltada para a prática de crimes de estelionato de grande monta, atuando de forma estruturada ordenada e caracterizada pela divisão de tarefas.
+5. A jurisprudência do Superior Tribunal de Justiça compreende que a periculosidade do agente e a necessidade de interromper a atuação de integrantes de organização criminosa justificam a prisão preventiva.
+6. Demonstrada concretamente a necessidade da prisão preventiva nos autos, não se apresenta suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+ ..
+IV. DISPOSITIVO E TESE
+8. Agravo regimental parcialmente conhecido e, nessa extensão, não provido.
+ ..  (AgRg no HC n. 970.427/SP, Relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 11/6/2025, DJEN de 26/6/2025.)
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. ESTELIONATO, LAVAGEM DE DINHEIRO E OUTROS DELITOS. MANUTENÇÃO DE PRISÃO PREVENTIVA NA SENTENÇA CONDENATÓRIA. FUNDAMENTAÇÃO IDÔNEA. ORDEM DENEGADA.
+ ..
+6. A manutenção da prisão preventiva na sentença condenatória não requer fundamentação exaustiva, sendo suficiente a afirmação de que subsistem os motivos que ensejaram a prisão cautelar, desde que a decisão anterior esteja fundamentada.
+7. A gravidade concreta das condutas e a continuidade das práticas criminosas justificam a manutenção da prisão preventiva para garantir a ordem pública e evitar a reiteração delitiva.
+8. A decisão de primeiro grau está devidamente fundamentada, não havendo constrangimento ilegal a ser reparado.
+IV. Dispositivo e tese
+9. Ordem denegada.
+ ..  (HC n. 976.939/MG, Relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 26/3/2025, DJEN de 31/3/2025.)
+No mais, frise-se que as condições subjetivas favoráveis do acusado, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória.
+Ao ensejo:
+ ..  5. Eventuais condições pessoais favoráveis, como residência fixa e trabalho lícito, não impedem a manutenção da segregação cautelar quando presentes os requisitos do art. 312 do Código de Processo Penal, conforme demonstrado na hipótese.
+ ..  7. Agravo regimental não provido. (AgRg no RHC n. 232.057/MG, Relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 20/5/2026, DJEN de 25/5/2026.)
+De igual forma, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal não surtiriam o efeito almejado para a proteção da ordem pública.
+A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS.  ..  PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. GRAVIDADE CONCRETA DO MODUS OPERANDI. RISCO DE REITERAÇÃO DELITIVA. GARANTIA DA APLICAÇÃO DA LEI PENAL.  .. . IMPOSSIBILIDADE DE SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+5. Condições pessoais favoráveis não impedem a manutenção da prisão preventiva quando presentes elementos concretos que demonstram a necessidade da medida, tampouco se mostram adequadas, na hipótese, as medidas cautelares diversas da prisão.
+6. Agravo regimental não provido. (AgRg no RHC n. 234.371/AL, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/5/2026, DJEN de 26/5/2026.)
+Ante todo o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
