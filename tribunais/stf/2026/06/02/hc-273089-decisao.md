@@ -1,0 +1,50 @@
+Decisão: Trata-se de habeas corpus impetrado por Ana Rita Pereira dos Santos, em favor de Eric Felipe Andrade Gomes, contra decisão monocrática proferida por Ministro do Superior Tribunal de Justiça, nos autos do HC 1089482/SP.
+Colho da decisão impugnada:
+
+“Infere-se dos autos que o insurgente foi preso em flagrante, em 23/12/2025, pela suposta prática do delito de tráfico de drogas, por ter em depósito 4,53 g de cocaína e 6,95 g de maconha, além de um simulacro de arma de fogo, R$ 5.331,00 (em cédulas de pequeno valor) e apetrechos relacionados ao comércio de entorpecentes.
+O Juízo de origem decretou a prisão preventiva em decisão assim fundamentada (fls. 104-105, destaquei):
+A materialidade delitiva encontra-se suficientemente demonstrada pelo auto de exibição e apreensão (fls. 20/21), laudos de constatação (fls. 25/27, 28/30 e 31/33) e demais documentos que instruem o feito, os quais evidenciam a apreensão de substâncias com características de maconha, cocaína e haxixe, além de embalagens plásticas usualmente empregadas para fracionamento, bem como quantia aproximada de R$ 5.000,00 (cinco mil reais) em espécie, composta majoritariamente por cédulas de pequeno valor, circunstância que reforça, em juízo inicial, a destinação mercantil do entorpecente.
+No tocante à dinâmica dos fatos, consta que a equipe policial deu cumprimento a mandado de busca e apreensão judicial expedido nos autos nº 1508105-18.2025.8.26.0388, em trâmite perante o Juízo das Garantias – 2ª RAJ – Araçatuba/SP, em endereço situado na Rua Djalma Dutra, nº 470, esquina com a Rua Nove de Julho, nesta cidade de Brejo Alegre/SP, em razão de fundadas suspeitas da prática do crime de tráfico de drogas pelo investigado.
+A entrada no imóvel foi franqueada pelos genitores do indiciado, ocasião em que Eric Felipe Andrade Gomes foi localizado no interior da residência. Durante as buscas realizadas em seu quarto, os policiais localizaram os entorpecentes acima descritos, as embalagens para acondicionamento da droga e a expressiva quantia em dinheiro.
+Também foi apreendido um simulacro de arma de fogo, semelhante a uma pistola do tipo Glock, elemento que, embora não configure arma apta ao disparo, revela maior potencial intimidatório e reforça a gravidade concreta da conduta, notadamente no contexto do tráfico ilícito de drogas.
+Ademais, foi apreendido o telefone celular do investigado, tendo sido realizada extração preliminar de dados, da qual se verificou a existência de diversas conversas e registros compatíveis com a prática da traficância, evidenciando indícios de dedicação habitual à atividade criminosa, e não mera atuação episódica.
+Os indícios de autoria encontram-se suficientemente evidenciados pelo conjunto probatório coligido, notadamente pelos relatos firmes e coerentes dos policiais responsáveis pelo cumprimento do mandado, pela apreensão de drogas de naturezas diversas, do numerário em espécie, do simulacro de arma de fogo e pelo conteúdo extraído do aparelho celular do autuado.
+Nesse contexto, a prisão preventiva mostra-se necessária e adequada para a garantia da ordem pública, diante da gravidade concreta do delito, do modus operandi, da diversidade de entorpecentes apreendidos, da expressiva quantia em dinheiro, do emprego de instrumento de intimidação e dos elementos que indicam dedicação à atividade criminosa, circunstâncias que revelam risco concreto de reiteração delitiva.
+Posteriormente, o Juiz de primeiro grau manteve a segregação cautelar e consignou o seguinte (fl. 304):
+Valendo-se de elementos concretos constantes dos autos, foi decretada a prisão preventiva do autuado como forma de se preservar a ordem pública de novos crimes, porque, mesmo tendo sido preso em outras oportunidades, Eric não se emendou e voltou a delinquir, desrespeitando o requisito implícito da benesse concedida, demonstrando ser dotado de periculosidade e dado à habitualidade na prática de crimes.
+O Tribunal de origem ratificou a decisão de primeiro grau.” (eDOC 7)
+
+O Ministro Relator denegou a ordem de habeas corpus (eDOC 7). O agravo regimental interposto em 28.4.2026 ainda não foi julgado.
+Nesta Corte, a impetrante reitera que o acusado sofre constrangimento ilegal em razão da ausência dos requisitos autorizadores da prisão preventiva, previstos no artigo 312 do CPP.
+Alega que “o contexto fático gravita em torno de frações ínfimas de entorpecentes: 4,53g (quatro gramas e cinquenta e três centigramas) de cocaína e 6,95g (seis gramas e noventa e cinco centigramas) de maconha” (p. 4).
+Por fim, destaca o excesso de prazo para a conclusão da instrução criminal, pois “O Paciente amarga o cárcere preventivo há mais de cinco meses, suportando os efeitos do regime fechado sem que a culpa tenha sido formalmente debatida, uma vez que a audiência de instrução e julgamento foi designada pelo juízo de piso apenas para o mês de junho de 2026.” (p. 5)
+Requer, assim, a concessão da ordem, para substituir a prisão preventiva por medidas cautelares diversas.
+É o relatório.
+Passo a decidir.
+
+Verifico, inicialmente, que o presente impugna decisão monocrática proferida por  Ministro do Superior Tribuna de Justiça, da qual cabe agravo regimental.
+A despeito de meu posicionamento pessoal em contrário, as duas Turmas e o Plenário desta Corte firmaram jurisprudência no sentido de não conhecer dos writs extintos por decisão monocrática do STJ, sem o manejo do agravo interno para o órgão colegiado. Nesse sentido: HC 241.927 AgR, rel. Flávio Dino, Primeira Turma, DJe 12.7.2024; HC 237.281 AgR, rel. Edson Fachin, Segunda Turma, DJe 8.7.2024; e HC 169.788, rel. Edson Fachin, rel. p/ acórdão Alexandre de Moraes, Tribunal Pleno, DJe 6.5.2024.
+Com efeito, o órgão competente para rever decisão monocrática proferida por Ministro  de Tribunal Superior é a Turma à qual pertence o Relator, e não o Supremo Tribunal  Federal.
+Evidentemente, a aplicação desse entendimento jurisprudencial pode ser afastada no caso de configuração de patente constrangimento ilegal ou abuso de poder, o que, todavia, não é o caso dos autos.
+O STJ manteve a prisão cautelar do paciente com arrimo na seguinte fundamentação:
+
+“Com efeito, o Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial a gravidade concreta da conduta, apreensão de 4,53 g de cocaína e 6,95 g de maconha, acompanhadas de um simulacro de arma de fogo, R$ 5.331,00 (em cédulas de pequeno valor) e apetrechos relacionados ao comércio de entorpecentes, bem como o risco de reiteração delitiva, em razão de já haver sido preso em outras oportunidades e, ainda assim, haver voltado a delinquir.
+Essas circunstâncias revelam a periculosidade do agente e o risco de reiteração delitiva, dada a aparente habitualidade da conduta, situação que, por si só, na linha da orientação que tem sido adotada por esta Corte, justifica a custódia cautelar.
+De fato, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 108.629/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 11/6/2019 ).
+Além disso: "A jurisprudência desta Corte Superior é firme ao asseverar que, nas hipóteses em que a quantidade e/ou a natureza das drogas apreendidas e outras circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são bastantes para demonstrar a gravidade concreta do delito e, por conseguinte, justificar a custódia cautelar para a garantia da ordem pública" (AgRg no HC n. 652.004/MT, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 22/4/2021, destaquei).
+Concluo, então, haver sido demonstrada a exigência cautelar justificadora da manutenção da prisão preventiva do acusado.
+Por idênticos fundamentos, (art. 282, I, do Código de Processo Penal), a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais.
+A propósito: "Tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (HC n. 745.982/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 22/9/2022).” (eDOC 7)
+
+Esta Corte tem considerado legítimos os decretos prisionais consubstanciados no modus operandi concreto do delito e na possibilidade concreta de reiteração delitiva, de modo que não há constrangimento ilegal a autorizar indevida supressão. Precedentes: HC 141.170-AgR/SP, Rel. Min. Dias Toffoli; HC 175.086, de minha relatoria, DJe 10.9.2019). Acresça-se que o paciente “permaneceu foragido até o momento de sua prisão” (eDOC 5, p. 2), a evidenciar a necessidade da prisão preventiva para assegurar a aplicação da lei penal.
+No que concerne à aplicação das medidas cautelares diversas do cárcere (art. 319 do CPP), revela-se insuficiente à consecução dos fins pretendidos, uma vez demonstrada a imprescindibilidade da manutenção da prisão do paciente. Nesse sentido, nenhum dos argumentos veiculados na inicial tem aptidão para conduzir à revogação da prisão cautelar.
+Por fim, o trâmite processual ocorre de forma regular, razão por que não há se falar em excesso de prazo. A denúncia foi recebida em 26.1.2026; o juízo determinou a citação do paciente para apresentação de defesa prévia (eDOC 6, p. 197) e a audiência de instrução e julgamento foi designada para 18.6.2026 (eDOC 6, p. 251). Não se constata desídia do Estado-Juiz ou demora irrazoável que justifique a intervenção excepcional desta Corte.
+Assim, por não se tratar de decisão manifestamente contrária à jurisprudência do STF ou de flagrante hipótese de constrangimento ilegal, descabe autorizar a dupla supressão de instância ou a concessão da ordem de ofício.
+Ante o exposto, nego seguimento ao habeas corpus (art. 21, § 1º, RISTF).
+
+Publique-se.
+Brasília, 2 de junho de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
