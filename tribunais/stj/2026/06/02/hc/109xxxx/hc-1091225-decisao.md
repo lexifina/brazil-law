@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de GUILHERME FELIPE VIANA MENDES MARQUES, apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Norte (fls. 2-3), nos autos da Apelação Criminal n.º 0803306-46.2025.8.20.5300 e do HC n.º 0807371-42.2026.8.20.0000.
+O paciente foi condenado por roubo majorado e teve o recurso especial sobrestado pela Vice-Presidência do TJRN em 13/03/2026, com fundamento no Tema 1.380 do Supremo Tribunal Federal (fls. 13-14).
+A impetração sustenta, em síntese, que o paciente sofre constrangimento ilegal por permanecer preso preventivamente enquanto seu recurso especial está sobrestado, o que teria convertido a custódia cautelar em execução antecipada de pena por tempo indefinido, em afronta aos arts. 5º, LVII e LXXVIII, da Constituição da República.
+Requer a revogação da prisão preventiva e a expedição de alvará de soltura, com pedido liminar; subsidiariamente, a substituição da custódia por medidas do art. 319 do CPP (fls. 5-11).
+Em juízo preliminar, a liminar foi indeferida em 27 de abril de 2026 (fls. 85).
+As informações foram prestadas pela autoridade apontada como coatora (fls. 86).
+O Ministério Público Federal opinou pelo não conhecimento, mas pela concessão de habeas corpus de ofício, para que o Tribunal local se manifeste sobre o pleito de revogação da preventiva em razão do sobrestamento até o julgamento do Tema 1.380/STF (fls. 85-86).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 - pacificaram orientação de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nesse contexto, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesto constrangimento ilegal que autorize a concessão da ordem, de ofício.
+A controvérsia reside em saber se, diante do sobrestamento do recurso especial e da manutenção da prisão preventiva, há ilegalidade manifesta a justificar intervenção de ofício, especialmente porque o Tribunal local não apreciou o pedido de revogação da custódia.
+O habeas corpus possui cognição sumária e destina-se à tutela da liberdade de locomoção diante de ilegalidade manifesta ou abuso de poder. Não constitui, em regra, via adequada para o exame aprofundado de matéria fático-probatória, para a revaloração de provas ou para a substituição do recurso específico cabível.
+No caso, a impetração foi dirigida contra decisão monocrática, sem esgotamento das instâncias ordinárias, e a questão de fundo, a revogação da prisão preventiva em razão do sobrestamento do processo, não foi examinada pelo Tribunal de origem nem no acórdão da apelação (fls. 64-68), nem na decisão que determinou o sobrestamento (fls. 13-14). Tal quadro impede o conhecimento do writ, por supressão de instância, mas autoriza a medida de ofício para que a Corte local aprecie o pedido defensivo, conforme sugestão do Ministério Público Federal (fls. 85-86).
+Dessa forma, ante o exposto, não conheço do habeas corpus, mas concedo a ordem de ofício para determinar que o Tribunal de Justiça do Estado do Rio Grande do Norte se manifeste sobre o pleito de revogação da prisão preventiva do paciente em razão do sobrestamento do processo até o julgamento do Tema 1.380/STF.
+Publique-se. Intimem-se.
+EMENTA
