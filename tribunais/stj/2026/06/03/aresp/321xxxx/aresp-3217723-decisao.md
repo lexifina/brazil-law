@@ -1,0 +1,34 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CONDOMÍNIO DO EDIFÍCIO BOTAFOGO LONG STAY contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 10/2/2026.
+Concluso ao gabinete em: 27/5/2026.
+Ação: embargos à execução, opostos por HERNANI PEIXOTO D AGUIAR e ANA LEONOR LOIOLA DE MESQUITA, em face de CONDOMÍNIO DO EDIFÍCIO BOTAFOGO LONG STAY, na qual requerem o reconhecimento da quitação das cotas condominiais e a extinção da execução, com devolução em dobro dos valores cobrados.
+Sentença: julgou parcialmente procedentes os pedidos, para excluir da execução a cota condominial referente a março/2019, prosseguindo a execução quanto às demais.
+Acórdão: deu provimento ao recurso de apelação interposto por HERNANI PEIXOTO D AGUIAR e ANA LEONOR LOIOLA DE MESQUITA, nos termos da seguinte ementa:
+DIREITO PROCESSUAL CIVIL E DIREITO CIVIL. APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. COBRANÇA DE COTAS CONDOMINIAIS. PARTICIPAÇÃO EM POOL HOTELEIRO. QUITAÇÃO DAS OBRIGAÇÕES POR TERCEIRO LEGITIMADO. MÁ-FÉ DO EXEQUENTE. EXTINÇÃO DA EXECUÇÃO. DEVOLUÇÃO EM DOBRO. RECURSO PROVIDO.
+I. CASO EM EXAME 1. Trata-se de apelação interposta contra sentença que acolheu os embargos à execução apenas em mínima parte, excluindo a cobrança da cota condominial referente a março de 2019, prosseguindo-se com a execução das demais cotas. A parte apelante, executada na origem, sustenta a integral quitação dos débitos cobrados, aduzindo que as cotas foram pagas por terceiro  à pessoa jurídica Atlântica Hotels Internacional (Brasil) Ltda.  contratada pelo próprio condomínio exequente para administrar o edifício e gerir o pool hoteleiro. Requer a reforma da sentença, com acolhimento integral dos embargos e a consequente extinção da execução, além da condenação do embargado à restituição em dobro, com base no art. 940 do Código Civil.
+II. QUESTÃO EM DISCUSSÃO 2. Há duas questões em discussão: (i) definir se houve efetiva quitação das cotas condominiais cobradas na execução, mediante repasse pela administradora Atlântica
+III. RAZÕES DE DECIDIR 3. O contrato de administração celebrado entre o condomínio exequente e a empresa Atlântica Hotels conferiu a esta poderes para arrecadar os encargos condominiais e gerir livremente as contas bancárias, inclusive com cláusula expressa que atribuía à sócia ostensiva da Sociedade em Conta de Participação (SCP) a obrigação de quitar os encargos das unidades integrantes do pool hoteleiro. 4. Os documentos apresentados nos autos, especialmente os contratos e os comprovantes de transferência bancária, demonstram que todas as cotas condominiais de julho de 2018 a fevereiro de 2019 foram efetivamente quitadas pela Atlântica Hotels, inclusive com confirmação pelo próprio condomínio em ação diversa (ação de cobrança nº 0284848- 98.2018.8.19.0001), em que reconheceu que buscava apenas os encargos moratórios. 5. O ajuizamento da execução, mesmo com ciência inequívoca da quitação das cotas, revela conduta de má-fé do exequente, justificando a aplicação da sanção prevista no art. 940 do Código Civil. 6. A sentença deve ser reformada com o acolhimento total dos embargos à execução, a consequente extinção da execução e a condenação do exequente à restituição em dobro da integralidade das cotas condominiais indevidamente cobradas na esfera judicial.
+IV. DISPOSITIVO 7. Recurso provido. ______
+Dispositivos relevantes citados: CPC, arts. 85, § 2º; 914. CC, art. 940. (e-STJ fls. 728-730)
+Embargos de Declaração: opostos por CONDOMÍNIO DO EDIFÍCIO BOTAFOGO LONG STAY, foram rejeitados.
+Recurso especial: alegou violação dos arts. 371, 373, I, 489, IV, e 1.025 do CPC, bem como dissídio jurisprudencial. Afirmou que as provas produzidas pelo recorrente não foram analisadas pelo colegiado, comprometendo a valoração do conjunto probatório. Aduziu que os títulos executivos gozam de presunção relativa e que os documentos dos recorridos não possuem força suficiente para infirmar a certeza, liquidez e exigibilidade. Argumentou que houve ofensa ao dever de fundamentação adequada.
+Decisão de admissibilidade do TJ/RJ: inadmitiu o recurso especial, em razão da:
+i) ausência de ofensa ao art. 489 do CPC;
+ii) incidência do óbice da Súmula 7/STJ.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante reitera as razões do recurso especial e aduz, em síntese, que: (i) houve negativa de prestação jurisdicional e falta de análise do acervo probatório por parte do TJ/RJ, apontando que os títulos executivos têm presunção relativa de certeza, liquidez e exigibilidade e que os documentos apresentados pelos embargantes (e-mails e planilhas) não comprovam pagamento, por ausência de elementos mínimos como mês de referência, identificação do pagador e do favorecido, e datas de pagamento, além de constarem valores lançados após o vencimento sem multa ou juros, o que exigiria nova valoração jurídica; (ii) deve ser afastado o óbice da Súmula 7 do STJ.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte óbice:
+i) incidência da Súmula 7/STJ.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, Terceira Turma, DJe 18/8/2023, e AgInt no AREsp 2.335.547/SP, Quarta Turma, DJe 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em mais 2% (dois por cento), observados os limites do Tema 587/STJ.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.
+AÇÃ O DE INVENTÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO INDICAÇÃO. SÚMULA 284/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Ação de inventário.
+2. A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial.
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. Agravo conhecido. Recurso especial não conhecido.
