@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto pela NOTRE DAME INTERMEDICA SAUDE S. A. contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO no julgamento do Agravo Interno no Agravo de Instrumento n. 5012613-05.2024.4.03.0000, assim ementado (fl. 577):
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - HOMOLOGAÇÃO DOS CÁLCULOS APRESENTADOS PELA CONTADORIA JUDICIAL - LEVANTAMENTO DOS VALORES INCONTROVERSOS - SALDO REMNESCENTE - CORREÇÃO - AGRAVO INTERNO NÃO PROVIDO.
+1 - A Contadoria Judicial é órgão que goza de fé pública, não havendo dúvida quanto à sua imparcialidade e equidistância das partes, devendo prevalecer os seus cálculos quando houver divergência entre as partes. Precedentes.
+2 - Houve levantamento de valor incontroverso e, quanto ao saldo remanescente, nos termos do laudo contábil, valor de R$1.117.103,75, posicionado em 03/2018, constou na decisão que será atualizado até a data do efetivo levantamento.
+3 - Agravo interno não provido.
+Os embargos de declaração opostos foram rejeitados (fls. 607-616).
+Nas razões do recurso especial, a parte recorrente alega contrariedade aos arts. 85, § 7º, 523, § 1º, 534, § 2º, e 1.022, inciso II, do CPC/2015; bem como aos arts. 394 e 395 do Código Civil.
+Afirma que houve negativa de prestação jurisdicional, por parte do Tribunal a quo, quando do julgamento dos embargos de declaração.
+Pondera que, ao contrário do consignado no aresto atacado, depósito judicial para garantia do juízo não purga a mora e não afasta a incidência de juros moratórios e de correção monetária até o efetivo levantamento, o que, inclusive, está definido pelo Superior Tribunal de Justiça nos termos do Tema Repetitivo n. 677 do STJ.
+Aduz que, na hipótese dos autos, em obediência ao princípio da causalidade, é devida a fixação de honorários advocatícios também em favor dos patronos da Recorrente, porquanto a impugnação ao cumprimento de sentença apresentada pelas Recorridas foi acolhida apenas parcialmente.
+Contrarrazões às fls. 656-670 e 671-700.
+O recurso foi admitido na origem (fls. 701-704).
+É o relatório.
+Decido.
+Sobre uma das pretensões recursais , a Corte Especial deste Tribunal Superior decidiu a controvérsia nos autos do REsp n. 1.820.963/SP, relatora Ministra Nancy Andrighi, julgado em 19/10/2022, DJEN de 16/12/2022, sob a sistemática dos recursos repetitivos (Tema n. 677 do STJ), fixando a seguinte tese vinculante:
+Na execução, o depósito efetuado a título de garantia do juízo ou decorrente da penhora de ativos financeiros não isenta o devedor do pagamento dos consectários de sua mora, conforme previstos no título executivo, devendo-se, quando da efetiva entrega do dinheiro ao credor, deduzir do montante final devido o saldo da conta judicial.
+Nesse contexto, impõe-se a remessa dos autos à origem, para que, depois de realizado o juízo de conformação, o recurso especial, se for o caso, seja encaminhado a esta Corte Superior, para que, aqui, possam ser analisadas eventuais questões jurídicas nele suscitadas que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+A propósito:
+ ..
+III - Dos dispositivos, arts. 1.030, 1.040, II, e 1.041 do CPC/2015, denota-se que cabe ao Ministro Relator, com o julgamento do paradigma, determinar a devolução dos autos ao Tribunal de origem, para que seja reexaminado o acórdão recorrido e realizada a superveniente admissibilidade do recurso especial, uma vez que, ao que se tem dos presentes autos, não houve qualquer manifestação de juízo de retratação negativa ou positiva quanto ao ponto.
+IV - Desse modo, prestigia-se o propósito racionalizador da sistemática dos recursos representativos de controvérsia que estabelece ser de competência dos Tribunais de origem, de forma exclusiva e definitiva, a adequação do caso em análise à tese firmada no julgamento de recurso repetitivo, de modo a inviabilizar a interposição de qualquer outro recurso subsequente a esta Corte que trate da mesma matéria.
+V - O referido entendimento restou assentado no art. 34, XXIV, do Regimento Interno do Superior Tribunal de Justiça, com a atribuição de competência ao relator para "determinar a devolução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis". Nesse sentido: AgInt no AREsp 729.327/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 21/11/2017, DJe 05/02/2018 e AgInt no AREsp 523.985/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/02/2018, DJe 02/03/2018.
+VI - Correta a decisão que determinou o retorno dos autos ao Tribunal de origem, com a devida baixa nesta Corte, em conformidade com a previsão do art. 1.040, c.c. o §2º do art. 1.041, ambos do CPC/2015.
+VII - Agravo interno improvido.
+(AgInt nos EDcl nos EDcl no AREsp n. 2.461.494/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 7/10/2024, DJe de 9/10/2024; sem grifos no original.)
+Com efeito, "deve ser prestigiado o escopo perseguido na legislação processual, isto é, a criação de mecanismo que oportunize às instâncias de origem o juízo de retratação/conformação na forma dos arts. 1.039 a 1.041 do CPC/2015" (EDcl no AgInt no REsp n. 1.974.797/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/6/2024, DJe de 12/6/2024).
+Ante o exposto, JULGO PREJUDICADA a análise do recurso especial e, com fundamento no art. 34, inciso XXIV, do Regimento Interno do Superior Tribunal de Justiça, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que seja oportunizado o juízo de conformação, à luz da tese fixada no Tema n. 677 do STJ, observadas as normas dos arts. 1.040 e 1.041 do Código de Processo Civil.
+Advirto as partes, desde logo, de que a eventual interposição de agravo interno com o único propósito de rediscutir a determinação de devolução dos autos à origem para o juízo de conformação com o tema repetitivo, por ser manifestamente incabível fora da hipótese do art. 1.037, § 13, inciso II, do Código de Processo Civil, poderá ensejar a aplicação de multa, nos termos do art. 1.021, § 4º, do mesmo Código.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E CUMPRIMENTO DE SENTEÇA. RECURSO ESPECIAL. INCIDÊNCIA DE JUROS DE MORA SOBRE VALOR DEPOSITADO A TÍTULO DE GARANTIA DO JUÍZO. TEMA N. 677 DO STJ. NECESSIDADE DE REALIZAÇÃO DO JUÍZO DE CONFORMAÇÃO. PREJUDICADA A ANÁLISE DO RECURSO ESPECIAL, COM A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
