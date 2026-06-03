@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de PAULO LUCAS ARAUJO POMPEO, preso para cumprimento de pena decorrente de condenação por roubo majorado (art. 157, § 2º, do Código Penal), com reprimenda definitiva fixada em 12 anos, 10 meses e 20 dias de reclusão (Execução Penal n. 7007066-53.2025.8.09.0051, da 1ª Vara de Execução Penal de Goiânia/GO).
+O impetrante aponta como autoridade coatora o Tribunal de Justiça do Estado de Goiás, que, em 21/5/2026, negou provimento ao agravo regimental para manter o não conhecimento do habeas corpus (Agravo Regimental em HC n. 5274034-40.2026.8.09.0000).
+Alega excesso de execução e direito imediato à progressão para o regime semiaberto, sustentando que incide a fração de 1/6 sobre o total da pena definitiva, nos termos do art. 112 da Lei de Execução Penal, na redação anterior à Lei n. 13.964/2019, em r espeito ao art. 5º, XL, da Constituição Federal (fls. 3/5 e 8/9).
+Defende que o tempo de prisão provisória deve ser considerado como pena efetivamente cumprida para todos os fins, inclusive no cômputo do requisito objetivo da progressão, aplicando-se primeiro a fração do art. 112 da Lei de Execução Penal sobre o total da pena e, depois, procedendo-se à detração penal.
+Aduz que o paciente já superou o lapso objetivo necessário, tendo cumprido, somados a prisão provisória e o tempo de cumprimento da pena, 897 dias, equivalentes a 2 anos e 5 meses, o que ultrapassa 1/6 da pena total (2 anos, 1 mês e 24 dias) (fls. 8/9 e 12/13).
+Em caráter liminar, pede a imediata progressão ao regime semiaberto, por flagrante ilegalidade e periculum in mora (fls. 12/13). No mérito, requer a confirmação da liminar, com determinação de que o Juízo da execução aplique o art. 112 da Lei de Execução Penal sobre o total da pena e, depois, realize a detração, computando a prisão provisória como pena cumprida para todos os fins (fl. 13). Postula, ainda, a realização de sustentação oral no julgamento do mérito do habeas corpus (fl. 14).
+É o relatório.
+Ocorre que as teses de mérito suscitadas no writ - incidência da fração de 1/6 sobre a pena total, aplicação do art. 112 da Lei de Execução Penal na redação anterior à Lei n. 13.964/2019, e consideração do tempo de prisão provisória como pena efetivamente cumprida para fins de progressão - não foram enfrentadas pelo órgão colegiado a quo. O acórdão apenas rechaçou a via do habeas corpus por inadequação e por necessidade de dilação probatória e cálculos de execução, indicando o agravo em execução como meio próprio.
+Segundo o entendimento desta Corte, o prévio exame das alegações pelas instâncias ordinárias constitui requisito indispensável para sua apreciação nesta instância, ainda que se cuide de questão de ordem pública (AgRg no HC n. 744.653/SP, rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 21/6/2022, DJe 29/6/2022) - AgRg no RHC n. 189.567/RJ, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe de 11/4/2024.
+Assim, caracteriza-se a supressão de instância, o que inviabiliza o conhecimento da impetração.
+Indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. RETIFICAÇÃO DOS CÁLCULOS DA PENA. DETRAÇÃO. PROGRESSÃO DE REGIME. MATÉRIAS NÃO DELIBERADAS NA INSTÂNCIA LOCAL. SUPRESSÃO DE INSTÂNCIA.
+Petição inicial indeferida liminarmente.
