@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de petição apresentada por Mohamad Ale Hasan Mahmoud, na condição de terceiro interessado no ARE nº 1.605.288, visando à reconsideração do despacho que determinou a devolução do ARE 1.605.288 ao Superior Tribunal de Justiça, com fundamento na sistemática da repercussão geral.
+Sustenta o requerente que, embora houvesse pedido de efeito suspensivo a ser analisado no âmbito do STF, a devolução ocorreu sem prévia intimação ou publicação, inviabilizando a impugnação adequada do ato e justificando o manejo da presente via para assegurar a ampla defesa. Alega, ainda, a existência de tratamento desigual em casos semelhantes no âmbito da Presidência da Corte. Argumenta que, no caso em exame, aplicou-se o Tema 1.372 da repercussão geral para determinar o retorno dos autos com base no art. 1.030 do CPC, enquanto, em situação análoga (ARE nº 1.595.312/DF), houve simples negativa de seguimento com fundamento em súmulas do STF, sem adoção do mesmo procedimento.
+No mérito, sustenta-se a inadequação da aplicação do Tema 1.372 ao caso concreto, por não se tratar de controvérsia relativa à posse em cargo público, mas de situação envolvendo magistrados já empossados e em exercício. Aponta-se, ainda, ausência de fundamentação suficiente na decisão impugnada, por não demonstrar a correlação entre o precedente invocado e a hipótese dos autos, além de destacar a relevância da matéria e o potencial impacto na organização do Judiciário do Rio Grande do Sul.
+Ao final, requer-se a realização de despacho pessoal com a Presidência do STF e, posteriormente, a remessa dos autos ao Supremo Tribunal Federal para reconsideração da decisão, apreciação do pedido de efeito suspensivo e regular processamento do recurso extraordinário, com sua devida distribuição.
+É o relatório. Decido.
+O Supremo Tribunal Federal firmou entendimento no sentido de que o ato que determina a devolução dos autos para a aplicação da sistemática da repercussão geral é irrecorrível, uma vez que não possui conteúdo decisório. Trata-se, na verdade, de medida de natureza procedimental, anterior ao pronunciamento de mérito. Nesse sentido: Pet 11.028, Rel. Min. Rosa Weber, DJe de 01.03.2023; Pet 10.322, Rel. Min. Luiz Fux, DJe de 02.05.2022; e Pet 13.352, Rel. Min. Roberto Barroso, DJe de 07.01.2025.
+Demais disso, esta Corte possui orientação no sentido de que “o exercício do direito de petição, na via judicial, deve observar as regras processuais, pois limitado, neste caso, à regra, também de raiz constitucional, do devido processo legal” (Pet 10230-AgR, Rel. Min. Rosa Weber, Plenário, DJe de 28.03.2023).
+Ante o exposto, com base nos arts. 13, V, c, e 21, § 1º, do RISTF, nego seguimento à petição. Em razão da manifesta inviabilidade do pedido, certifique-se o trânsito em julgado e arquivem-se os autos imediatamente.
+Publique-se.
+Brasília, 3 de junho de 2026.
+
+Ministro Edson Fachin
+Presidente
+Documento assinado digitalmente
