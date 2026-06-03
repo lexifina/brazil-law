@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de recurso especial interposto por BENEDITO FILADELFO COELHO, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÃO CÍVEL "AÇÃO DE BUSCA E APREENSÃO" - Veículo alienado fiduciariamente - Sentença de procedência da ação principal, para consolidar a propriedade nas mãos do credor fiduciário. Reconvenção improcedente - Insurgência recursal do réu Busca e apreensão. Acertada a consolidação da posse e propriedade do bem, em favor do credor fiduciário. Configuração da mora comprovada pelo envio da notificação extrajudicial ao endereço indicado no contrato. Inadimplência incontroversa Reconvenção. Pedido de revisão do contrato Alegada ausência de certeza e autenticidade da cédula de crédito bancário (assinatura eletrônica) - Rejeição quanto à capitalização diária de juros; aos juros remuneratórios; às tarifas de cadastro e avaliação do bem; e seguro Cédula de crédito bancário. Assinatura eletrônica. Possibilidade. Presunção de veracidade que não pode ser afastada pelo simples fato de a entidade não estar credenciada na Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil). STJ, REsp n. 2159442-PR - Capitalização diária de juros sem indicação do respectivo percentual. Abusividade reconhecida (REsp 1.826.463/SC). Inexistência, contudo, de abusividade apta a descaracterizar a mora do réu - Juros remuneratórios contratados, que não estão acima do dobro da média de mercado apurada pelo Bacen. Abusividade não caracterizada - Tarifa de cadastro Possibilidade de cobrança (Recursos Especiais Repetitivos nº 1.251.331/RS e 1.255.573/RS) - Tarifa de avaliação do bem. Ausência de comprovação da efetiva prestação do serviço. Abusividade reconhecida - Seguro prestamista. Ausência de contratação em instrumento separado. Abusividade reconhecida - Sentença parcialmente reformada - RECURSO PARCIALMENTE PROVIDO." (e-STJ, fl. 284)
+Não foram opostos embargos de declaração.
+Em seu recurso especial, a parte recorrente alega violação dos artigos 6º, inciso III, 46 e 52 do Código de Defesa do Consumidor, porque, reconhecida a abusividade de encargos remuneratórios no período de normalidade contratual, especificamente quanto aos juros e capitalização diária sem taxa indicada, a mora contratual deveria ter sido considerada descaracterizada na ação de busca e apreensão, em conformidade com a orientação do Superior Tribunal de Justiça, o que teria sido indevidamente afastado pelo acórdão recorrido.
+Foram ofertadas contrarrazões (e-STJ, fls. 493-507).
+É o Relatório. Decido.
+O recurso especial merece ser provido.
+No caso dos autos, o Tribunal de origem, ao final, confirmou a procedência da ação de busca e apreensão e improcedência de reconvenção, com a consolidação da posse e propriedade do veículo ao credor fiduciário, embora tenha reconhecido a abusividade e determinando a exclusão da capitalização diária de juros, da tarifa de avaliação do bem e do seguro prestamista, determinando a exclusão dessas cobranças na prestação de contas, com devolução simples.
+Quanto ao tópico ora devolvido pelo recurso especial, a fundamentação do acórdão recorrido reconheceu o caráter de abuso da capitalização diária de juros sem indicação da taxa específica, mas apontou a impossibilidade de descaracterização da mora em relação a encargos acessórios, nos termos da tese firmada para o Tema 972/STJ.
+Entretanto, o acórdão estadual está em dissonância com o entendimento desta Corte, segundo o qual o reconhecimento da índole abusiva dos encargos no período de normalidade contratual descaracteriza a mora.
+Com efeito, nos termos da tese firmada para o Tema 28/STJ, "o reconhecimento da abusividade nos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização) descaracteriza a mora" (REsp n. 1.061.530/RS, relatora Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 22/10/2008, DJe de 10/3/2009.).
+Nesse sentido:
+"AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS. ABUSIVIDADE. ALTERAÇÃO. INVIABILIDADE. SÚMULAS Nº 5 E 7/STJ. MORA.
+1. A Segunda Seção desta Corte, no julgamento do REsp 1.061.530/RS sob o regime dos recursos repetitivos, consolidou-se no sentido de que os juros remuneratórios devem ser limitados à taxa média de mercado quando comprovada, no caso concreto, a significativa discrepância entre a taxa pactuada e a taxa de mercado para operações similares. Fixou, ainda, o entendimento de que a constatação do abuso na exigência de encargos durante o período da normalidade contratual afasta a configuração da mora.
+2. Tendo a Corte local concluído pela abusividade dos juros a partir das circunstâncias fático-probatórias dos autos e das cláusulas contratuais, a revisão das referidas conclusões por esta Corte encontra óbice nas Súmulas nºs 5 e 7/STJ.
+3. Agravo conhecido para não conhecer do recurso especial."
+(AREsp n. 2.857.019/SE, relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/8/2025, DJEN de 21/8/2025.)
+"CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. JUROS REMUNERATÓRIOS. ÍNDOLE ABUSIVA. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. DESCARACTERIZAÇÃO DA MORA. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+1. No caso, o Tribunal a quo concluiu pelo caráter abusivo dos juros remuneratórios pactuados, considerando que excederam, de forma exorbitante, a taxa média de mercado. Nesse contexto, observa-se que a controvérsia foi decidida em conformidade com a jurisprudência do Superior Tribunal de Justiça. Incidência da Súmula 83 do STJ.
+2. A Corte de origem entendeu que, em razão do caráter abusivo dos juros, a mora deve ser afastada no período da normalidade.
+3. Com efeito, "a jurisprudência desta Corte Superior se posiciona no sentido de que o reconhecimento da índole abusiva dos encargos, no período de normalidade contratual, descaracteriza a mora" (AgInt no AREsp 2.566.896/PR, Relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 19/8/2024, DJe de 2/9/2024).
+4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial."
+(AgInt no AREsp n. 2.854.035/RS, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 23/6/2025, DJEN de 1/7/2025.)
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que conheceu parcialmente do recurso especial, dando-lhe parcial provimento.
+II. Questão em discussão
+2. Existência de ofensa ao art. 1.022 do CPC/2015, inaplicabilidade do CDC, legalidade da capitalização diária de juros e manutenção dos efeitos da mora.
+III. Razões de decidir
+3. A Corte local pronunciou-se de forma clara e suficiente sobre as questões suscitadas, não havendo violação do art. 1.022 do CPC/2015.
+4. A revisão da conclusão sobre a hipossuficiência da empresa agravada e a aplicação do CDC demandaria incursão no campo fático-probatório, vedada na via especial pela Súmula n. 7 do STJ.
+5. A ausência de informação contratual sobre a taxa de juros diária inviabiliza a cobrança de capitalização diária de juros, nos termos da jurisprudência do STJ.
+6. Mantido o reconhecimento da abusividade de encargo exigido no período da normalidade contratual, a mora deve ser descaracterizada, conforme a tese firmada no Tema Repetitivo n. 28.
+IV. Dispositivo e tese
+7. Agravo interno desprovido.
+Tese de julgamento: "1. A revisão de fatos e provas em sede de recurso especial é vedada pela Súmula n. 7 do STJ. 2. A capitalização diária de juros em contratos bancários requer previsão expressa da taxa de juros diária no contrato. 3. A abusividade de encargos exigidos no período de normalidade contratual descaracteriza a mora."
+Dispositivos relevantes citados: CPC/2015, art. 1.022.
+Jurisprudência relevante citada: STJ, AgInt no AREsp 2.566.896/PR, Min. Raul Araújo, Quarta Turma, julgado em 19.08.2024; STJ, AgInt no REsp 2.033.354/RS, Min. Humberto Martins, Terceira Turma, julgado em 13.11.2023."
+(AgInt nos EDcl no REsp n. 2.138.867/SC, relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/2/2025, DJEN de 28/2/2025.)
+Destaca-se que, ao contrário do decidido no acórdão recorrido, os juros remuneratórios são encargos essenciais da normalidade contratual de mútuo, em vez de encargos acessórios, possuindo a aptidão de descaracterizar a mora em caso de reconhecimento do abuso de sua cobrança, nos termos do Tema 28/STJ.
+Assim, a tese definida no julgamento do Tema 972/STJ refere-se apenas aos encargos acessórios do contrato, por ela julgados, despesas de registro de gravame e seguro contratado sem opção de escolha da seguradora, em relação aos quais foi afastada a descaracterização da mora.
+A distinção foi efetuada no julgamento do REsp n. 1.639.320/SP, paradigma do Tema 972/STJ, nos termos do voto do e. relator, o ilustrado e saudoso Min. PAULO DE TARSO SANSEVERINO:
+"5. Descaracterização da mora:
+Nas razões do presente recurso especial, a parte recorrente sustentou que a abusividade das despesas de inserção de gravame, registro do contrato e seguro de proteção financeira, conduziriam à descaracterização da mora, uma vez que se trata de encargos que incidiram no período da normalidade contratual (fls. 199/201).
+Relembre-se que a controvérsia acerca da descaracterização da mora em virtude da abusividade de encargos contratuais encontra-se consolidada nesta Corte Superior pelo rito do recursos repetitivo, conforme teses firmadas nos Temas 28 e 29/STJ, abaixo transcritos:
+Tema 28/STJ - O reconhecimento da abusividade nos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização) descaracteriza a mora.
+Tema 29/STJ - A simples propositura da ação de revisão de contrato não inibe a caracterização da mora do autor.
+(..)
+Deveras, analisando-se as razões de decidir do precedente qualificado que deu origem ao Tema 28/STJ, observa-se que a relatoria, Min.ª NANCY ANDRIGHI, fez questão de enfatizar que os encargos da normalidade que conduziriam à descaracterização da mora seriam, "notadamente", os juros remuneratórios e a capitalização, encargos essenciais do mútuo bancário, de modo que seria possível concluir, a contrario sensu, que encargos acessórios do contrato, ainda que incidentes no período da normalidade contratual, não seriam aptos a descaracterizar a mora.
+Porém, como não houve uma manifestação expressa desta Corte Superior acerca da distinção entre encargos essenciais e encargos acessórios, essa questão suscita dúvidas.
+Observe-se, por exemplo, que a tanto parte ora recorrente quanto a DPE-SP (fl. 439) chegaram ao entendimento oposto ao da FEBRABAN, embora também partindo do Tema 28/STJ, tendo concluído que a abusividade de qualquer encargo da normalidade contratual conduziria à descaracterização da mora.
+(..)
+Mostra-se bastante oportuno, portanto, consolidar um entendimento acerca da descaracterização da mora nessa hipótese de abusividade encargos acessórios que incidiram no período da normalidade contratual.
+E o entendimento a ser proposto não poderia ser outro senão aquele já sinalizado no precedente que deu origem ao Tema 28/STJ, ao se enfatizar que os encargos aptos a descaracterizar a mora seriam "notadamente" juros remuneratórios e capitalização, encargos essenciais dos contrato de mútuo bancário.
+Deveras, a abusividade em algum encargo acessório do contrato não contamina a parte principal da contratação, que deve ser conservada, procedendo-se à redução do negócio jurídico, conforme preconiza o Código de Defesa do Consumidor, nos seguintes termos:
+(..)
+Na esteira desse entendimento, considerando que a abusividade de tarifas ou despesas acessórias do contrato bancário não contaminam a parte principal, proponho a consolidação de uma tese nos seguintes termos:
+- A abusividade de encargos acessórios do contrato não descaracteriza a mora."
+(REsp n. 1.639.320/SP, relator Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 12/12/2018, DJe de 17/12/2018.)
+Diante do exposto, dou provimento ao recurso especial, a fim de: a) declarar o caráter abusivo da cobrança de juros capitalizados diariamente sem previsão da taxa diária aplicada; b) consequentemente, afastar a mora e seus efeitos em razão da aludida cobrança abusiva, julgando improcedente a ação de busca e apreensão e parcialmente procedente a reconvenção.
+Em razão do resultado, condeno a parte autora, ora recorrida, ao pagamento de custas e honorários advocatícios fixados em 15% sobre o valor atualizado da ação principal, considerando o trabalho desenvolvido até esta fase, inclusive a reconvenção.
+Publique-se.
+EMENTA
