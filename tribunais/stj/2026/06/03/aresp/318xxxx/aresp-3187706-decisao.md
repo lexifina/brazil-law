@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo interposto por DOUGLAS JOSE COIMBRA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fl. 585):
+DIREITO CIVIL. INTERDITO PROIBITÓRIO. POSSE LEGÍTIMA. COISA JULGADA. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+Trata-se de recurso de apelação interposto contra a sentença que julgou improcedente o pedido formulado na ação de interdito proibitório. A decisão recorrida fundamentou-se na ausência dos requisitos para a concessão da proteção possessória, considerando que, em julgamento anterior, foi determinada a restituição do veículo objeto da lide ao apelado, configurando coisa julgada.
+II. QUESTÃO EM DISCUSSÃO
+A questão em discussão consiste em saber se: (1) a interposição de recurso especial suspende os efeitos da decisão transitada; e (2) a suposta pendência de compensação de prejuízos sofridos pelo Apelante legitima sua posse sobre o bem.
+III. RAZÕES DE DECIDIR
+A interposição de recurso especial, por si só, não impede a formação da coisa julgada, salvo em caso de concessão de efeito suspensivo, o que não restou demonstrado nos autos. O argumento de que a devolução do bem estar condicionada à compensação de prejuízos não encontra respaldo na fundamentação da sentença ou no acórdão mencionado. Eventuais direitos indenizatórios devem ser buscados pela via processual adequada. O interdito proibitório exige posse legítima, a qual não se verifica no caso concreto, pois a decisão anterior determinou a restituição do bem ao apelado, o que afasta a pretensão possessória do apelante. Alegação de enriquecimento sem causa do apelado não pode ser acolhida, pois eventual obrigação de indenização não interfere na titularidade da posse.
+IV. DISPOSITIVO E TESE
+Recurso desprovido.
+Rejeitados os embargos de declaração opostos (fls. 607-613).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa aos arts. 11 e 489 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas no artigo 55, § 3º, do CPC.
+Sustenta, em síntese, a existência, em processo conexo (n. 5015811-24.2022.8.13.0480), de decisão que teria condicionado a restituição do veículo ao pagamento de metade dos prejuízos sofridos pelo recorrente.
+Sustenta que a Câmara limitou-se a afirmar que eventuais prejuízos deveriam ser discutidos em via própria, sem tratar que, até o cumprimento da condição, a posse do bem permaneceria com o recorrente.
+Sem contrarrazões ao recurso especial (fl. 626).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 627-628), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fl. 640).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A controvérsia cinge-se a dois pontos: i) se a interposição de recurso especial impede, sem efeito suspensivo, a formação da coisa julgada e o cumprimento da decisão que determinou a restituição do veículo ao recorrido; e ii) se existiria condição, fixada em processo conexo, de pagamento de metade dos prejuízos do recorrente para a devolução do bem, a legitimar a manutenção da posse pelo apelante até o cumprimento dessa condição.
+Inicialmente, não há falar em ofensa aos arts. 11 e 489 do CPC, uma vez que o Tribunal de origem, ao negar provimento à apelação, fundamentou o acórdão nos seguintes termos (fls. 588-590):
+Inicialmente, quanto à alegação de que o acórdão proferido nos autos nº 5015811-24.2022.8.13.0480 ainda não teria transitado em julgado, verifica-se que a irresignação do apelante não tem o condão de afastar a eficácia da decisão anteriormente proferida. A interposição de recurso especial, por si só, não impede a formação da coisa julgada, salvo em caso de atribuição de efeito suspensivo, o que não foi demonstrado nos autos. Assim, a decisão que determinou a restituição do bem ao Apelado permanece válida e eficaz.
+ ..
+Além disso, o argumento de que a devolução do veículo estaria condicionada ao pagamento de metade dos prejuízos não encontra respaldo na fundamentação da sentença ou no acórdão mencionado. Ainda que se reconheça a existência de eventuais prejuízos a serem suportados pelo apelante, tal questão deve ser discutida em sede própria, não servindo de fundamento para afastar os efeitos da decisão judicial que determinou a restituição do bem ao Apelado.
+Importante ressaltar que o interdito proibitório tem como pressuposto essencial a posse legítima do bem pelo requerente, o que, no caso concreto, não se verifica, uma vez que a decisão judicial anterior já determinou a restituição do veículo ao Apelado.
+Por fim, a alegação de que a sentença recorrida permitiria enriquecimento sem causa do Apelado não pode ser acolhida. O reconhecimento de eventual obrigação de indenização não tem o condão de modificar a titularidade da posse, devendo ser buscado por meio da via processual adequada.
+O acórdão dos embargos de declaração complementou (fls. 610-611):
+No caso concreto, verifica-se que o acórdão embargado analisou expressamente a tese invocada pelo embargante, tendo concluído que: a decisão proferida nos autos de n.º 5015811-24.2022.8.13.0480 é válida e eficaz, não havendo efeito suspensivo decorrente da interposição de recurso especial; A alegação de que a devolução do bem estaria condicionada à compensação de prejuízos não encontra respaldo na fundamentação da decisão referida; Eventuais prejuízos devem ser discutidos em via própria, não sendo óbice ao cumprimento imediato da decisão que determinou a restituição do veículo ao Apelado.
+Assim, percebe-se que a matéria objeto dos embargos foi devidamente enfrentada e decidida pelo acórdão recorrido, ainda que de forma contrária aos interesses do embargante.
+Na realidade, constato que os embargos opostos possuem como propósito tão somente hostilizar e polemizar a decisão tal como produzida, apontando vícios que na verdade inexistem, de modo que, se a parte embargante entende que a decisão impugnada é injusta, não será por meio dos embargos declaratórios que poderá obter novo provimento jurisdicional, devendo, em sendo o caso, utilizar-se do recurso competente cabível contra a decisão da Turma Julgadora.
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+Para acolher a pretensão da recorrente seria necessário: i) verificar, de modo específico, a existência, o conteúdo e o alcance da decisão do processo conexo invocada pelos recorrentes (se há, de fato, a condição de pagamento e como ela incide sobre a posse); ii) aferir a situação fática da posse atual do veículo e o eventual (não) cumprimento da condição alegada, aspectos fáticos que o acórdão resolveu pela inexistência de posse legítima em razão da determinação anterior de restituição; iii) superar a premissa firmada de que o recurso especial interposto não tem efeito suspensivo demonstrado nos autos, o que, embora de natureza jurídica, está assentado em constatação do estado processual concreto e na ausência de prova de efeito suspensivo.
+Tais pontos demandam o reexame do contexto fático-probatório dos autos, especialmente o teor e a eficácia da decisão conexa e a situação da posse, o que encontra óbice na Súmula n. 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 18% sobre o valor atualizado da causa, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem -se.
+ EMENTA
