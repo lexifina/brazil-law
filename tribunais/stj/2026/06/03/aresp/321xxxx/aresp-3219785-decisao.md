@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de agravo interposto por ITURRI COIMPAR INDÚSTRIA E COMÉRCIO DE EPI"S LTDA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO que inadmitiu recurso especial dirigido em oposição ao acórdão proferido na Apelação Cível n. 0015205-62.2019.8.08.0048, assim ementado (fl. 387):
+PROCESSUAL CIVIL. CONSTITUCIONAL. TRIBUTÁRIO. APELAÇÃO CÍVEL EM MANDADO DE SEGURANÇA. TRANSFERÊNCIA DE MERCADORIAS ENTRE ESTABELECIMENTOS DO MESMO CONTRIBUINTE. ICMS. NÃO INCIDÊNCIA. PEDIDO GENÉRICO. PRETENSÃO CONTRA LEI EM TESE. IMPOSSIBILIDADE. OBSTÁCULO À FISCALIZAÇÃO. NÃO CABIMENTO.
+1. O Superior Tribunal de Justiça, em recurso repetitivo, tema nº 259, firmou o entendimento de que "Não constitui fato gerador do ICMS o simples deslocamento de mercadoria de um para outro estabelecimento do mesmo contribuinte".
+2. Da mesma forma, o Supremo Tribunal Federal, ao julgar o Agravo em Recurso Extraordinário nº 1255885, Tema 1099, firmou entendimento no sentido de que "Não incide ICMS no deslocamento de bens de um estabelecimento para outro do mesmo contribuinte localizados em estados distintos, visto não haver a transferência da titularidade ou a realização de ato de mercancia".
+3. O fato de estar pacificado nos Tribunais Superiores o entendimento acerca da não incidência de ICMS sobre o deslocamento de mercadoria entre estabelecimentos de titularidade do mesmo contribuinte, não pode obstar o exercício, pelo Fisco estadual, da atividade fiscalizatória, o poder de polícia.
+4. É incabível o mandado de segurança para obstar toda e qualquer atividade fiscalizatória do Fisco Estadual eventualmente incidente sobre as operações de transferência de mercadorias realizadas pela mesma, o que, de um lado, configura impetração contra lei em tese, e, por outro lado, um obstáculo ao exercício da atividade fiscalizatória do Estado.
+5. Recurso desprovido.
+A parte recorrente opôs embargos de declaração, os quais foram rejeitados, nos termos da seguinte ementa (fl. 434):
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO. INEXISTÊNCIA DE VÍCIO. MERO INCONFORMISMO. REJEIÇÃO.
+I. CASO EM EXAME
+1. Embargos de declaração opostos contra acórdão da Segunda Câmara Cível que, à unanimidade, conheceu do recurso de apelação cível interposto pela embargante e negou-lhe provimento. A embargante sustenta omissão do acórdão quanto aos motivos pelos quais o mandado de segurança por ela impetrado seria cabível.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em determinar se o acórdão embargado padece de omissão quanto à fundamentação sobre o cabimento do mandado de segurança.
+III. RAZÕES DE DECIDIR
+3. O art. 1.022 do Código de Processo Civil prevê que os embargos de declaração são cabíveis apenas para sanar obscuridade, contradição, omissão ou erro material, não sendo meio adequado para rediscutir matéria já decidida.
+4. O acórdão embargado analisou expressamente as razões que fundamentaram a inadmissibilidade do mandado de segurança, não havendo qualquer omissão a ser sanada.
+5. A alegação de omissão formulada pela embargante configura mero inconformismo com o resultado do julgamento, o que não autoriza a concessão de efeitos modificativos aos embargos de declaração.
+IV. DISPOSITIVO E TESE
+6. Embargos de declaração rejeitados.
+Nas razões do recurso especial, interposto com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, a parte recorrente sustenta violação do art. 1.022, inciso II, do CPC, do art. 12, inciso I, da Lei Complementar n. 87/1996, e do art. 3º, inciso I, do Decreto Estadual n. 1.090-R/2002. Alega, em síntese, que o acórdão recorrido incorreu em omissão ao deixar de apreciar argumentos suscitados nos embargos de declaração, bem como sustenta que o mandado de segurança preventivo não foi impetrado contra lei em tese, mas em virtude de exigência concreta de recolhimento de ICMS incidente sobre transferências de mercadorias entre estabelecimentos da mesma titularidade, amparada em legislação estadual reputada incompatível com a jurisprudência do STF e do STJ (fls. 436-453)
+Contrarrazões ao recurso especial apresentadas (fls. 499-509).
+Em juízo de admissibilidade, o Tribunal de origem não admitiu o recurso especial em razão da incidência da Súmula n. 83 do STJ quanto à alegada violação do art. 1.022 do CPC, da aplicação analógica da Súmula n. 266 do STF, ao entendimento de que o mandado de segurança teria sido impetrado contra lei em tese, bem como da necessidade de reexame do conjunto fático-probatório dos autos, atraindo o óbice da Súmula n. 7 do STJ (fls. 523-526).
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do recurso, em parecer assim ementado (fl. 597):
+AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO E PROCESSO CIVIL. MANDADO DE SEGURANÇA. OMISSÃO JUDICIAL NÃO CONFIGURADA. AUSÊNCIA DO DIREITO LÍQUIDO E CERTO DA AGRAVANTE DE OBSTAR A ATIVIDADE FISCALIZATÓRIA DO FISCO ESTADUAL SOBRE OPERAÇÕES DE TRANSFERÊNCIA DE MERCADORIAS POR ELA REALIZADA. NECESSIDADE DE REEXAME DE PROVAS PARA A REVISÃO DO ACÓRDÃO RECORRIDO. INVIABILIDADE. INCIDÊNCIA DA SÚMULA 7 DO STJ. PARECER NO SENTIDO DO NÃO PROVIMENTO DO AGRAVO EM RECURSO ESPECIAL.
+É o relatório.
+Decido.
+O agravo não comporta conhecimento.
+Da detida análise das razões recursais, verifica-se que a parte agravante não impugnou, de maneira efetiva, concreta e individualizada, todos os fundamentos utilizados para obstar o trânsito do apelo nobre.
+A decisão agravada inadmitiu o recurso especial em razão da incidência da Súmula n. 83 do STJ quanto à alegada violação do art. 1.022 do CPC, da aplicação analógica da Súmula n. 266 do STF, ao entendimento de que o mandado de segurança teria sido impetrado contra lei em tese, bem como da necessidade de reexame do conjunto fático-probatório dos autos, atraindo o óbice da Súmula n. 7 do STJ.
+Todavia, no agravo em recurso especial, a parte agravante limitou-se, no tocante à Súmula n. 7 do STJ, a afirmar genericamente que a controvérsia seria exclusivamente jurídica e que não haveria necessidade de revolvimento probatório, sem demonstrar concretamente a inaplicabilidade do referido óbice ao caso dos autos.
+Para afastar a incidência da Súmula n. 7 do STJ, incumbia à agravante demonstrar, mediante argumentação analítica, que a solução da controvérsia prescindiria do revolvimento do conjunto fático-probatório delineado no acórdão recorrido, realizando o indispensável cotejo entre as premissas fáticas assentadas pela Corte local e a tese jurídica defendida.
+Nos termos da jurisprudência desta Corte:
+ a  impugnação da Súmula 7 do STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica por ele conferida e a apreciação jurídica que lhes deveria ter sido efetivamente atribuída.  ..  O Recurso daí proveniente deveria se esmerar não em simplesmente reiterar as razões do Recurso Especial ou os argumentos referentes ao mérito da controvérsia, mas em demonstrar efetivamente que a referida Súmula não se aplica ao caso concreto e que, portanto, seria desnecessário revolver o acervo fático-probatório dos autos para a análise da insurgência.
+(AgInt no AREsp n. 2.371.208/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; sem grifos no original.)
+ ..
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial.
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF-5ª Região), Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Com efeito, "o óbice referente à Súmula n. 7/STJ deve ser refutado com a demonstração concreta, não bastando a alegação genérica de sua inaplicabilidade. O agravante deveria demonstrar que a tese do Recurso Especial está adstrita a fatos incontroversos, considerados no ato decisório impugnado, de modo a permitir uma revaloração jurídica da causa" (AgInt no AREsp n. 2.536.044/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/8/2024, DJe de 22/8/2024; sem grifos no original).
+Portanto, é inequívoco que não foi observada a dialeticidade recursal (art. 932, inciso III, do CPC/2015). O agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos utilizados para inadmitir o recurso especial, atraindo a incidência da Súmula n. 182 do STJ, in verbis: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL, AUTÔNOMOS OU NÃO. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. Nos termos da jurisprudência desta Corte, incumbe à parte Agravante infirmar, especificamente, todos os fundamentos da decisão que inadmitiu o recurso especial, autônomos ou não, demonstrando o seu desacerto a justificar o processamento do apelo nobre, sob pena de não conhecimento do agravo (art. 932, III, do CPC vigente).
+ ..
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.928.685/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 2/4/2024, DJe de 9/4/2024; sem grifos no original.)
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Por fim, a Corte Especial deste Superior Tribunal de Justiça firmou entendimento no sentido de que o provimento judicial que não admite o recurso especial não é constituído por capítulos autônomos, mas, sim, por dispositivo único.
+Dessa forma, nas hipóteses tais como a presente, nas quais a parte agravante não se insurge de maneira adequada contra qualquer um dos fundamentos que alicerçam a inadmissibilidade, é inviável conhecer do agravo em recurso especial na integralidade.
+A propósito, a ementa do mencionado julgado:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Sem honorários advocatícios, consoante o art. 25 da Lei n. 12.016/2009 e as Súmulas n. 512 do STF ("Não cabe condenação em honorários de advogado na ação de mandado de segurança") e n. 105 do STJ ("Na ação de mandado de segurança não se admite condenação em honorários advocatícios").
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
