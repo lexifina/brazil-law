@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual ANALIA DA SILVA CALDERARO se insurgira contra o acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS assim ementado (fls. 826/827):
+DIREITO TRIBUTÁRIO. APELAÇÃO CÍVEL. IMPOSTO DE RENDA. ISENÇÃO POR DOENÇA GRAVE. PARALISIA IRREVERSÍVEL E INCAPACITANTE NÃO CONFIGURADA. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Cuida-se de apelação cível interposta contra a sentença que julgou improcedente o pedido de isenção do imposto de renda incidente sobre os proventos de pensão, sob a alegação de a autora ser portadora de paralisia irreversível e incapacitante, além de pleitear a repetição dos valores pagos e indenização por danos morais.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (I) definir se a autora faz jusà isenção do imposto de renda com fundamento na alegação de paralisia irreversível e incapacitante, prevista no art. 6º, XIV, da Lei nº 7.713/1988; e (II) verificar se é cabível a restituição dos valores pagos a título de imposto de renda e devida indenização por danos morais.
+III. RAZÕES DE DECIDIR
+3. A concessão de isenção tributária exige aplicação literal da norma, nos termos do art. 111, II, do Código Tributário Nacional, sendo vedada interpretação extensiva ou analógica. O rol de doenças que ensejam a isenção do imposto de renda, previsto no art. 6º, XIV, da Lei nº 7.713/1988, tem caráter taxativo, conforme entendimento firmado pelo STJ no Tema 250 dos recursos repetitivos.
+4. A Súmula nº 598 do STJ estabelece que não é exigível laudo médico oficial para o reconhecimento judicial da isenção, desde que a doença grave esteja comprovada por outros meios de prova.
+5. Compete à parte autora o ônus da prova do fato constitutivo do direito à isenção, conforme dispõe o art. 373, I, do CPC.
+6. O laudo médico pericial produzido nos autos conclui que a autora apresenta limitação da amplitude de movimento no membro superior direito, decorrente de sequela de fratura e lesão do manguito rotador, sem, contudo, caracterizar paralisia irreversível e incapacitante, nos termos da legislação aplicável.
+7. O laudo médico particular acostado aos autos é convergente com a perícia judicial, no sentido de atestar limitação funcional, mas não configura a doença grave exigida pelo art. 6º, XIV, da Lei nº 7.713/1988.
+8. Ausente prova de moléstia específica prevista em lei, não se configura o direito à isenção do imposto de renda, tampouco à repetição de indébito e à indenização por danos morais.
+IV. DISPOSITIVO E TESE
+9. Apelação não provida. Unânime.
+Os embargos de declaração opostos foram rejeitados (fls. 862/867).
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado.
+Em suas razões, a parte agravante requereu o conhecimento do agravo a fim de que fosse determinado o processamento do recurso especial.
+A parte adversa apresentou contraminuta (fls. 956/965).
+É o relatório.
+Da irresignação não é possível conhecer visto que a parte agravante não refutou adequadamente a decisão agravada.
+O Tribunal de origem não admitiu o recurso especial porque os arts. 489 e 1.022 do Código de Processo Civil não haviam sido violados no acórdão recorrido, a reforma do acórdão demandaria revisão de fatos e de provas constantes nos autos, bem como a impossibilidade de análise de violação à Súmula 518/STJ.
+Confiram-se estes trechos da decisão de admissibilidade:
+(1) "O recurso especial não merece ser admitido no tocante à indicada ofensa aos artigos 489, § 1º, incisos II e IV, e 1.022, incisos I e II, ambos do Código de Processo Civil, pois, de acordo com o entendimento jurisprudencial pacífico da Corte Superior, "Não viola os arts. 489 e 1.022 do Código de Processo Civil nem importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta" (fls. 948/949);
+(2) "Nesse passo, infirmar fundamento dessa natureza, como pretende a parte recorrente, é providência que encontra óbice no enunciado 7 da Súmula do STJ." (fl. 949); e
+(3) "Por fim, descabe dar trânsito ao recurso em relação ao suposto malferimento ao enunciado 598 da Súmula do STJ, tendo em vista que, segundo o Superior Tribunal de Justiça, "Não cabe ao STJ apreciar violação de súmula em recurso especial, visto que o enunciado não se insere no conceito de lei federal, previsto no art. 105, III, "a", da CF, consoante dispõe a Súmula n. 518/STJ" (fl. 949).
+Nas razões do agravo em recurso especial, a parte recorrente alegou o seguinte:
+(1) "A pretensão da Agravante no Recurso Especial não é, e nunca foi, o reexame de fatos ou a revisão das conclusões dos laudos médicos. Os fatos, em sua essência, são incontroversos: a Agravante possui uma condição de saúde que afeta seu membro superior direito de forma permanente, irreversível e incapacitante. Isso está consignado tanto nos laudos particulares quanto no próprio acórdão recorrido, que admite a existência de uma "limitação da amplitude de movimento" (fl. 961); e
+(2) "Dessa forma, o Recurso Especial não se insurge contra a súmula, mas sim contra a violação à lei federal (art. 371 do CPC), sendo a súmula apenas um farol interpretativo que o acórdão recorrido ignorou. A aplicação da Súmula 518/STJ ao caso é, portanto, um claro equívoco, que impede a análise de uma legítima alegação de ofensa à legislação processual." (fl. 964).
+Constata-se que a parte agravante alegou que a reforma do acórdão demandaria revisão de fatos e de provas constantes nos autos e que não incide a Súmula 518/STJ e que sua indicação como violada foi um equívoco, mas não impugnou que os arts. 489 e 1.022 do Código de Processo Civil não haviam sido violados no acórdão recorrido.
+O objetivo do agravo em recurso especial é o de desconstituir a decisão de inadmissão do recurso especial, sendo, por isso, imprescindível a impugnação específica de todos os fundamentos nela lançados com o fim de demonstrar o seu desacerto, o que, como se vê, não foi feito no presente caso.
+Dessa forma, por faltar impugnação pertinente, aplico ao presente caso, por analogia, a Súmula 182 do Superior Tribunal de Justiça, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Na mesma linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO INTERNO DA FAZENDA NACIONAL NÃO CONHECIDO.
+1. A parte agravante deve infirmar os fundamentos da decisão impugnada, mostrando-se inadmissível o recurso que não se insurge contra todos eles - Súmula 182 do Superior Tribunal de Justiça.
+2. Em análise do Agravo Interno interposto, tem-se que a parte agravante não rebateu todos fundamentos da decisão que conheceu do Agravo para conhecer em parte e negar provimento ao Recurso Especial, pois deixou de se manifestar acerca da incidência das Súmulas 282 e 356/STF.
+3. Por fim, há de se registrar a necessidade de impugnação devida e específica de todos os fundamentos da decisão agravada, mesmo que sejam distintos e independentes entre si.
+4. Agravo Interno da FAZENDA NACIONAL não conhecido.
+(AgInt no AREsp n. 1.616.546/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 22/6/2020, DJe de 29/6/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+II. Incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que inadmitiu o Recurso Especial, demonstrando o seu desacerto, de modo a justificar o processamento do apelo nobre, sob pena de não ser conhecido o Agravo (art. 932, III, do CPC vigente). Nesse sentido: STJ, AgRg no AREsp 704.988/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/09/2015; EDcl no AREsp 741.509/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 16/09/2015; AgInt no AREsp 888.667/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 18/10/2016; AgInt no AREsp 895.205/PB, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 20/10/2016; AgInt no AREsp 800.320/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 13/10/2016; EAREsp 701.404/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018; EAREsp 831.326/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018; EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018.
+III. No caso, por simples cotejo entre o decidido e as razões do Agravo em Recurso Especial verifica-se a ausência de impugnação específica de todos os fundamentos da decisão que, em 2º Grau, inadmitira o Especial, o que atrai a aplicação do disposto no art. 932, III, do CPC/2015 - vigente à época da publicação da decisão então agravada e da interposição do recurso -, que faculta ao Relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida", bem como do teor da Súmula 182 do Superior Tribunal de Justiça, por analogia.
+IV. Agravo interno improvido.
+(AgInt no AREsp 1.503.814/MA, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/10/2019, DJe de 28/10/2019.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor já arbitrado dos honorários sucumbenciais, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo, bem como os termos do art. 98, § 3º, desse diploma legal.
+Publique-se. Intimem-se.
+ EMENTA
