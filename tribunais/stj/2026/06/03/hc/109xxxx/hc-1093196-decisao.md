@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GABRIEL MACEDO MORIWAKI, contra acórdão revisional assim ementado (fl. 47):
+Revisão criminal. Roubo. Extorsão. Concurso material de delitos. Os crimes de roubo e extorsão são delitos de espécies diversas e, ainda que sob o mesmo contexto, não há como reuni-los, na esteira da jurisprudência de nossos tribunais superiores, senão sob a fórmula do concurso material de infrações (Código Penal, artigo 69, caput).
+Revisão dosimétrica conhecida e indeferida.
+Narra a inicial que o paciente foi condenado à pena de 14 anos, 4 meses e 24 dias de reclusão, em regime fechado, e ao pagamento de 29 dias-multa, por roubo majorado e extorsão.
+A defesa aduz ilegalidade manifesta na condenação por extorsão, alegando que não houve desígnios autônomos, mas apenas um: a subtração do patrimônio da vítima, a configurar, portanto, um único crime de roubo.
+Liminarmente, requer a suspensão dos efeitos condenatórios. No mérito, pede o reconhecimento do crime único e, em consequência, o devido ajuste dosimétrico.
+Indeferida a liminar e prestadas informações, o Ministério Público Federal assim se manifestou (fl. 76):
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL E REVISÃO CRIMINAL. ROUBO MAJORADO E EXTORSÃO QUALIFICADA. INVASÃO DE RESIDÊNCIA E EXIGÊNCIA DE SENHAS BANCÁRIAS. REVISÃO CRIMINAL INDEFERIDA NA ORIGEM. INADEQUAÇÃO DA VIA ELEITA. UTILIZAÇÃO DO WRIT COMO SUCEDÂNEO RECURSAL. ESTABILIDADE DA COISA JULGADA. PRETENSÃO DE RECONHECIMENTO DE CRIME ÚNICO. ABSORÇÃO DA EXTORSÃO PELO ROUBO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO. CRIMES AUTÔNOMOS COM DESÍGNIOS DISTINTOS. BENS JURÍDICOS DIVERSOS. PATRIMÔNIO E LIBERDADE INDIVIDUAL. INVIABILIDADE DO RECONHECIMENTO DE CRIME ÚNICO. PRECEDENTES STJ. CONCURSO MATERIAL CONFIGURADO. AUSÊNCIA DE ILEGALIDADE FLAGRANTE.
+PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS. CASO CONHECIDO, PELA DENEGAÇÃO DA ORDEM.
+É o relatório.
+DECIDO.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto, consoante previsto no art. 105, III, da CF, o recurso cabível contra acórdão que julga apelação, recurso em sentido estrito e agravo em execução é o recurso especial.
+Nada impede, contudo, a concessão de habeas corpus de ofício quando constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, nos termos do art. 654, §2º, do CPP, o que ora passa-se a examinar.
+Sobre a controvérsia, assim dispôs a Corte local (fls. 48-52; grifos acrescidos):
+A inicial reclama tão somente do concurso de infrações, entendendo que a conduta praticada não o comportava, senão a leitura do delito único de roubo.
+Como bem frisado já então pelo acórdão proferido na sala de julgamentos da 10ª Câmara Criminal, tal como bem documentado a fls. 363-364 dos autos de origem, nas palavras da Desembargadora Jucimara Esther de Lima Bueno, então relatora, realmente o argumento não tinha - e ainda não tem, aliás - como ser acolhido.
+No caso, invadindo o espaço residencial alheio, amarrando-a e intimidando-a com uma faca de cozinha, os agentes constrangeram a vítima não somente para a subtração dos seus pertences domésticos e valores, como dela exigiram e assim obtiveram a senha de acesso a sua conta bancária para operação de aplicativos desde seu próprio aparelho de telefonia celular, e tudo como muito bem documentado na sentença da meticulosa Magistrada da 6ª Vara Criminal da Capital (fls. 261).
+ ..
+Nesse sentido, portanto, irrefutável o concurso material das duas infrações patrimoniais. É que os crimes de roubo e extorsão são delitos espécies diversas e, ainda que sob o mesmo contexto, não há como reuni-los, na esteira da jurisprudência de nossos tribunais superiores, senão sob a fórmula do concurso material de infrações (Código Penal, artigo 69, caput). Nesse sentido, aliás, há décadas se postava a longeva lição das duas turmas do Supremo Tribunal Federal  ..
+Não há, assim, falar em crime único - que ocorre quando da prática de apenas uma conduta delitiva ou de várias, mas que atingem apenas um bem jurídico -, na medida em que praticadas, no caso, duas condutas delitivas distintas: a obtenção de vantagem econômica indevida mediante constrangimento (exigência da senha para acesso à conta bancária), o que configura o delito de extorsão e a subtração, mediante grave ameaça, de pertences domésticos e valores, que caracteriza o crime de roubo. Nessa linha:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO E EXTORSÃO MAJORADA. CONCURSO MATERIAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No presente caso, se os envolvidos praticam a subtração patrimonial, mediante violência ou grave ameaça, e, após, constrangem a vítima a fornecer o cartão bancário e a senha deste, ficam configurados, respectivamente, os delitos de roubo e extorsão em concurso material, razão pela qual não há se falar em crime único, continuidade delitiva ou concurso formal. Precedentes.
+2. Agravo regimental não provido.
+(AgRg no AREsp n. 2.949.403/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/8/2025, DJEN de 15/8/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. INADEQUAÇÃO DO USO DO HABEAS CORPUS COMO SUBSTITUTIVO DE RECURSO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio ou revisão criminal, conforme jurisprudência consolidada do Superior Tribunal de Justiça.
+2. Os crimes de roubo e extorsão são considerados delitos distintos, protegendo bens jurídicos diferentes, o que inviabiliza o reconhecimento de crime único e continuidade delitiva.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 978.636/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/4/2025, DJEN de 8/4/2025.)
+É iterativa a jurisprudência desta Corte no sentido de que não se aplica a regra da continuidade delitiva aos delitos de roubo e extorsão, porquanto de espécies de diversas. A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. EXTORSÃO MEDIANTE SEQUESTRO. COAÇÃO. INCOMPETÊNCIA. CRIME PRATICADO CONTRA CIVIL FORA DO EXERCÍCIO DA FUNÇÃO MILITAR. ILEGALIDADE NÃO COMPROVADA. PEDIDO DE ABSOLVIÇÃO POR AUSÊNCIA DE PROVAS. IMPOSSIBILIDADE NA VIA ELEITA. REEXAME DE PROVAS. PERDA DA PATENTE DECRETADA. EFEITO DA CONDENAÇÃO. FUNDAMENTAÇÃO IDÔNEA. ESPÉCIES DELITUOSAS DIFERENTES. INCABÍVEL O RECONHECIMENTO DO CRIME ÚNICO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+4. Conforme precedentes desta Corte, não se aplica a figura da continuidade delitiva entre os delitos de roubo e extorsão, porquanto são crimes de espécies diferentes.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 767.912/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/6/2023, DJe de 9/6/2023; grifos acrescidos.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO E EXTORSÃO. RECONHECIMENTO FOTOGRÁFICO. FORMALIDADES DO ART. 226 DO CPP. AUTORIA DELITIVA. OUTROS ELEMENTOS DE PROVA. DOSIMETRIA. CRIME ÚNICO. IMPOSSIBILIDADE. CONTINUIDADE DELITIVA. DELITOS DE ESPÉCIES DISTINTAS. CONDENAÇÃO PELO CRIME DE CORRUPÇÃO DE MENOR MANTIDA. SÚMULA 500/STJ. REGIME PRISIONAL FECHADO CABÍVEL. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. Descabe falar em crime único, pois "é firme o entendimento desta Corte Superior de que ficam configurados os crimes de roubo e extorsão, em concurso material, se o agente, após subtrair bens da vítima, mediante emprego de violência ou grave ameaça, a constrange a entregar o cartão bancário e a respectiva senha, para sacar dinheiro de sua conta corrente" (AgRg no AREsp n. 1.557.476/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 18/2/2020, DJe de 21/2/2020.).
+4. Conforme entendimento pacífico desta Corte, não há continuidade delitiva entre os delitos de roubo e extorsão, porque de espécies diferentes.
+ ..
+7. Agravo desprovido.
+(AgRg no HC n. 765.098/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 25/10/2022, DJe de 4/11/2022; grifos acrescidos.)
+Tampouco há falar em constrangimento ilegal, ante indeferimento do pleito revisional na origem, tendo em vista que o cabimento da revisão criminal ocorre em situações específicas, sem servir como uma segunda apelação, sob pena de se relativizar a garantia da coisa julgada e da segurança jurídica.
+A propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONDENAÇÃO POR INFRAÇÃO AOS ARTS. 288, CAPUT, E 171, CAPUT, DO Página 8 de 10 CÓDIGO PENAL. REVISÃO CRIMINAL. UTILIZAÇÃO DA VIA COMO SE RECURSO FOSSE. NÃO CABIMENTO. ABSOLVIÇÃO. SÚMULA N. 7/STJ. RECURSO IMPROVIDO.
+1. "O Superior Tribunal de Justiça já pacificou o entendimento no sentido do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP" (ut, HC 206.847/SP, Rel. Ministro NEFI ORDEIRO, Sexta Turma, DJe 25/02/2016).
+2. "A jurisprudência desta Corte Superior de Justiça está fixada no sentido de que o escopo restrito da revisão criminal, ajuizada com fundamento no art. 621, inciso I, do Código de Processo Penal, pressupõe condenação sem qualquer lastro probatório, o que não confunde com a mera fragilidade probatória" (AgRg nos EDcl no REsp 1940215/RJ, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 16/11/2021, DJe 25/11/2021). 3. Agravo regimental improvido.
+(AgRg no AREsp n. 1.989.730/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/2/2022, DJe de 25/2/2022)
+RECURSO ESPECIAL. REVISÃO CRIMINAL. VIOLAÇÃO DO ART. 621, I, DO CPP. PEDIDO REVISIONAL ACOLHIDO COM BASE EM INTERPRETAÇÃO SUBJETIVA DAS PROVAS DOS AUTOS. DESCABIMENTO. PRECEDENTES DESTA CORTE. ACÓRDÃO CASSADO. CONDENAÇÃO RESTABELECIDA.
+1. A revisão criminal não deve ser adotada como um segundo recurso de apelação, pois o acolhimento da pretensão revisional reveste-se de excepcionalidade, cingindo-se às hipóteses em que a contradição à evidência dos autos seja manifesta, induvidosa, dispensando a interpretação ou análise subjetiva das provas produzidas (HC n. 464.843/SC, Ministro Felix Fischer, Quinta Turma, DJe 8/10/2018).
+2. No caso dos autos, o Tribunal a quo, ao julgar a apelação defensiva, analisou o laudo pericial, mas compreendeu que, apesar das conclusões do perito, as circunstâncias da prisão evidenciavam que o apelante tinha plena consciência de seus atos, circunstância que rechaçava a inimputabilidade alegada. De outra parte, ao acolher o pedido revisional, a Corte de origem não circunstanciou nenhum elemento novo que firmasse, de forma induvidosa, a inimputabilidade do apenado, apenas analisou os mesmos elementos coligidos (nova interpretação subjetiva), formando convicção distinta nessa nova análise, destoando, assim, da orientação jurisprudencial desta Corte.
+3. Recurso especial provido, a fim de cassar o acórdão da revisão criminal e restabelecer a condenação do recorrido.
+(REsp n. 1.764.740/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/2/2019, DJe de 26/2/2019)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. REVISÃO CRIMINAL. TRÁFICO DE ENTORPECENTES. CABIMENTO DA REVISÃO CRIMINAL EM SITUAÇÕES EXCEPCIONAIS. PRECEDENTES. ENUNCIADO SUMULAR N. 568/STJ. MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI DE DROGAS. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. VERIFICAÇÃO. IMPOSSIBILIDADE. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. ENUNCIADO SUMULAR N. 7/STJ. DECISÃO AGRAVADA MANTIDA. PEDIDO DE CONCESSÃO DE HABEAS CORPUS, DE OFÍCIO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I - O Agravo Regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a r. decisão vergastada por seus próprios e jurídicos fundamentos.
+II - No presente caso, não há que se falar em violação ao art. 621 do Código de Processo Penal, porquanto os fundamentos invocados pela eg. Corte de origem para julgar improcedente o pedido revisional estão em consonância com o entendimento deste Sodalício, no sentido de que o cabimento da revisão criminal ocorre em situações excepcionais, não se prestando à servir como uma segunda apelação, sob pena de relativizar sobremaneira a garantia da coisa julgada e da segurança jurídica. Precedentes.
+III - Ademais, verifica-se que o eg. Tribunal de origem declinou, de forma explícita, as razões - baseado nas provas carreadas aos autos - pelas quais concluiu pela manutenção da não incidência da causa especial de diminuição da pena prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+IV - Na hipótese, entender de modo contrário ao estabelecido pela eg. Corte estadual, como pretende a recorrente, demandaria o revolvimento, no presente recurso, do material fático-probatório dos autos, inviável nesta instância (Enunciado sumular n. 7 do STJ).
+V - Por fim, "É descabido postular a concessão de habeas corpus de ofício, como forma de tentar burlar a inadmissão do recurso especial" (AgRg no AREsp n. 864.672/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1/6/2016).
+Agravo regimental desprovido.
+(AgRg no REsp n. 1.979.670/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 8/3/2022, DJe de 17/3/2022.)
+Não há, portanto, flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
