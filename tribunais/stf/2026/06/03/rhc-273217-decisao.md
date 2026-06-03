@@ -1,0 +1,76 @@
+DECISÃO:
+Vistos.
+Trata-se de recurso ordinário em habeas corpus interposto por Tiago Silva dos Santos contra acórdão do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no HC nº 1.026.418/ES, Relatora a Ministra Maria Marluce Caldas.
+Consta dos autos que o recorrente foi pronunciado pelas condutas tipificadas no art. 121, § 2º, I, c/c art. 14, II, ambos do Código Penal, e art. 12 da Lei nº 10.826/2003.
+No presente recurso (e-doc. 68), a defesa sustenta, em síntese, que o recorrente foi pronunciado “com base em elementos que não satisfazem o ‘standard mínimo’ exigido para legitimar a persecução perante o Tribunal Popular.”
+Alega, nesse aspecto, a existência de flagrante ilegalidade, sendo desnecessário revolvimento fático-probatório, haja vista a “expressa negativa de autoria pela própria vítima em juízo”.
+Requer, ao final,
+
+“a concessão da ordem de habeas corpus para despronunciar o recorrente,  visto a flagrante ilegalidade consubstanciada na ausência de elementos probatórios suficientes e a utilização de testemunhos de ouvir dizer.”
+
+Examinados os autos, decido.
+Transcrevo a ementa do acórdão recorrido:
+
+“DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRONÚNCIA. INDÍCIOS DE AUTORIA E MATERIALIDADE. DEPOIMENTOS CONFIRMADOS EM JUÍZO. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus substitutivo de recurso próprio e, na análise de ofício, não vislumbrou flagrante ilegalidade capaz de afastar a pronúncia mantida pelo Tribunal de Justiça do Estado do Espírito Santo.
+2. A parte agravante sustenta que a decisão agravada atribuiu indevidamente valor probatório a elementos inquisitoriais e a depoimentos judiciais de natureza indireta, em afronta ao  art. 413 do Código de Processo Penal, que exige indícios suficientes de autoria, superiores à mera suspeita. Argumenta que os depoimentos da mãe do agravante e dos policiais militares são de ouvir dizer, sem percepção direta dos fatos, e que foram superados pela declaração judicial da própria vítima, que desautoriza a versão inquisitorial. Requer o provimento do agravo regimental para reconsideração da decisão monocrática ou, alternativamente, a revogação da decisão de pronúncia por ausência de indícios suficientes de autoria.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a decisão de pronúncia, fundamentada em elementos inquisitoriais e depoimentos judiciais, está em conformidade com o  art. 413 do Código de Processo Penal, que exige demonstração da materialidade e indícios suficientes de autoria para justificar a submissão do acusado ao Tribunal do Júri.
+III. Razões de decidir
+4. A decisão de pronúncia exige apenas a demonstração da materialidade e indícios suficientes de autoria, não sendo necessária a certeza própria da condenação, conforme o  art. 413  do Código de Processo Penal.
+5. A decisão de pronúncia foi fundamentada em elementos inquisitoriais corroborados por depoimentos judiciais, incluindo confissão extrajudicial do réu na presença de advogado, declarações detalhadas da vítima na polícia, depoimento da mãe do réu e informações de policial militar.
+6. A jurisprudência desta Corte admite a utilização de elementos colhidos no inquérito, acrescidos de depoimentos prestados em juízo, para respaldar a decisão de pronúncia.
+7. Não há flagrante ilegalidade ou abuso de poder que justifique a concessão de habeas corpus substitutivo de recurso próprio.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo regimental não provido.”. (e-doc. 62)
+
+Com efeito, no STJ a Ministra Maria Marluce Caldas, no voto condutor do acórdão, destacou o seguinte:
+
+“Inicialmente, cumpre repisar que esta egrégia Corte já se manifestou por diversas vezes no sentido de não ser cabível a impetração de  habeas corpus substitutivo de recurso próprio, salvo quando presente flagrante ilegalidade, abuso de poder ou teratologia.
+Nesse contexto, dispõe o art. 105, II, a, da CF/88, que o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário. Lado outro, conforme inteligência do art. 105, III, da CF, contra acórdão que julga a apelação, o recurso em sentido estrito e o agravo em execução, cabe recurso especial.
+Nada impede, contudo, seja concedida a ordem de ofício caso constatado, nos termos do art. 654, §2º do CPP, que alguém sofre ou está na iminência de sofrer coação ilegal - o que entretanto, não se percebe ser o caso dos autos.
+A controvérsia cinge-se à pronúncia do paciente, que, conforme aduz a defesa, foi baseada em elementos inquisitoriais e depoimentos judiciais de natureza indireta. Quanto ao ponto, assim fez constar o acórdão do Tribunal de origem  (fls. 1607-1610):
+[...] Através da prova oral produzida tanto na esfera policial como em juízo, constato presentes a materialidade delitiva, bem como os indícios de autoria necessários para viabilizar a decisão de pronúncia, conforme será a seguir abordado.
+Interrogado na esfera policial, devidamente acompanhado por advogado constituído, o réu confessou a prática delitiva, afirmando ter desferido dois disparos de arma de fogo contra a vítima e, após, evadiu-se do local e dispensou a arma de fogo dentro da lagoa.
+Ato contínuo, afirmou que a arma de fogo utilizada no crime pertencia a seu pai, que já é falecido, assim como a munição encontra em sua residência.
+Já quando interrogado em juízo, o réu manteve a versão dos fatos em relação as munições, contudo, negou que tenha sido o autor do crime de homicídio, dizendo que apenas confessou na esfera policial por orientação de seu advogado, caso contrário sua mãe seria punida pelo crime, já que estava no local do fato.
+A vítima Genivaldo Santana Muniz, ao ser inquirida na Delegacia de Polícia, narrou com riqueza de detalhes a dinâmica do crime, confirmando a autoria do recorrente, senão vejamos:
+“[...] foi alvejado por um disparo de arma de fogo que o atingiu na perna esquerda; que o autor do disparo foi um rapaz conhecido por TIAGO SILVA DOS SANTOS, vulgo TIAGO BOCÃO, e que a razão do crime foi que neste dia o declarante estava na garupa de uma motocicleta de um rapaz conhecido pelo nome de EVANDRO, e que este passou pelo bairro Araçá em alta velocidade e foi xingado pelo TIAGO; [...] que cerca de meia hora após o ocorrido, um irmão da vítima, de nome ANDERSON, ficou sabendo do que havia acontecido e passou na casa do declarante para apanhá-lo para que fosse dormir na casa de outro irmão, no bairro Interlagos; que quando estavam cruzando o bairro Araçá com destino a casa de seu irmão, no bairro Interlagos, avistaram o acusado, ocasião em que Anderson virou a moto, para evitar o confronto, foi quando o acusado efetuou três disparos de arma de fogo contra a dupla; [...] que após os disparos o acusado evadiu-se, não sendo encontrado pela PM [...]”.
+Ao ser novamente inquirido em juízo, o ofendido Genivaldo confirmou suas declarações anteriormente prestadas, contudo, afirmou que o TIAGO que figura como réu no processo não é o mesmo que atirou contra ele.
+Disse, ainda, que os disparos não foram dirigidos contra ele, mas sim contra a pessoa de Evandro, sendo que ele foi atingido por erro.
+A mãe do réu, Sra. Cirlete Silva dos Santos, ouvida em juízo, ratificou sua versão apresentada na esfera policial, quando revelou que soube dos fatos através do próprio filho, o qual disse que revidou supostos disparos com dois disparos contra os ocupantes da motocicleta. Após os disparos, o réu se evadiu do local e jogou a arma de fogo dentro da lagoa do bairro. Acrescentou, por fim, que a arma utilizada no crime era de seu falecido marido.
+O policial militar Erasmo Carlos Correia, também em juízo, disse que foi a própria vítima quem o contou que o réu foi o autor dos fatos. Assim, presentes a prova da materialidade e indícios de autoria a recair sobre o recorrente, descabe a desconstituição da pronúncia, haja vista prevalecer nesta etapa da persecução criminal, o princípio in dubio pro societate.
+(...)
+Não há, portanto, qualquer reparo a ser realizado na decisão ora combatida, estando a mesma devidamente fundamentada, devendo o recorrente ser submetido a julgamento pelo Egrégio Tribunal Popular do Júri.
+Como se vê, a Corte estadual concluiu expressamente pela existência de elementos de prova suficientes para subsidiar a pronúncia, mencionando a confissão do réu e os indícios de autoria presentes nos depoimentos orais (confissão extrajudicial do réu, na presença de advogado, admitindo ter efetuado disparos e descrevendo a destinação da arma; declarações do ofendido na polícia, com riqueza de detalhes, atribuindo a autoria ao recorrente e descrevendo a dinâmica dos disparos; depoimento da mãe do réu corroborando os disparos e a origem da arma; informação do policial militar sobre a atribuição da autoria ao réu pela própria vítima).
+É sabido que a decisão de pronúncia demanda tão somente a demonstração da materialidade e da existência de indícios suficientes de autoria, não exigindo certeza própria da condenação, conforme inteligência do  art. 413 iudicium accusationis do Código de Processo Penal. É dizer, na fase do , prevalece o juízo de admissibilidade da acusação, reservando-se ao Tribunal do Júri a apreciação do mérito e a solução das teses conflitantes.
+Nesse contexto, percebe-se, por meio da leitura das razões recursais, a necessidade de reexame das provas, não se vislumbrando, de plano, qualquer ilegalidade a ensejar a concessão do  habeas corpus  substitutivo de recurso próprio.
+Assim, o entendimento do Tribunal de origem está em consonância com a jurisprudência desta Corte Superior no sentido de que, para a pronúncia, basta a existência de indícios suficientes a justificar a submissão do acusado a julgamento pelo Tribunal do Júri, mormente quando a decisão se fundamenta em depoimentos de testemunhas que acompanharam a dinâmica dos fatos.
+Nesse sentido: (...)
+No tocante à alegação de que a decisão de pronúncia estaria lastreada exclusivamente em testemunhos indiretos, verifica-se do excerto acima colacionado que o acórdão recorrido apontou que a prova oral colhida em audiência foi utilizada para respaldar os elementos inquisitoriais. Nesse sentido, a jurisprudência desta egrégia Corte admite a utilização de elementos colhidos no inquérito, acrescidos de depoimentos prestados em juízo, para respaldar a decisão de pronúncia. A propósito: (...)
+Não há, portanto, flagrante ilegalidade a ser dirimida por esta Corte Superior.
+Pelo exposto, nego provimento ao agravo regimental.”. (e-doc. 62, grifei)
+Pelo que há no julgado, não se verifica flagrante ilegalidade, abuso de poder ou teratologia. Pelo contrário, o julgado em questão mostra-se devidamente fundamentado, estando justificado o convencimento formado.
+Inicialmente, ressalto que o Supremo Tribunal Federal consolidou jurisprudência no sentido da inviabilidade de utilização do habeas corpus como sucedâneo recursal, salvo em caso de manifesta ilegalidade. Assim, por exemplo:
+
+ “AGRAVO REGIMENTAL NO HABEAS CORPUS. SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADEQUAÇÃO DA VIA ELEITA. WRIT SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL. INVIABILIDADE. FURTO QUALIFICADO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR PENA RESTRITIVA DE DIREITOS. SUPRESSÃO DE INSTÂNCIA. 1. Contra a denegação de habeas corpus por Tribunal Superior prevê a Constituição Federal remédio jurídico expresso, o recurso ordinário. Diante da dicção do art. 102, II, a, da Constituição da República, a impetração de novo habeas corpus em caráter substitutivo escamoteia o instituto recursal próprio, em manifesta burla ao preceito constitucional. 2. Inadmissível o emprego do habeas corpus como sucedâneo de recurso ou revisão criminal. Precedentes. 3. Inviável o exame da tese defensiva não analisada pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância. 4. Agravo regimental conhecido e não provido”. (HC 143439 AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 27/09/2017, grifei)
+
+Ainda que superado esse óbice, à luz do acervo fático-probatório produzido, o Juízo a quo assentou que estariam suficientemente presentes indícios de autoria e materialidade. Vale frisar, de outra parte, que esta Suprema Corte já se pronunciou no sentido de que,
+“(...) decisão de pronúncia é mero juízo de admissibilidade da acusação, motivo por que nela não se exige a prova plena, tal como exigido nas sentenças condenatórias em ações penais que não são da competência do júri’ (HC 70.488, Rel. Min. Carlos Velloso, DJ 29.9.1995), não sendo, portanto, ‘necessária a prova incontroversa da existência do crime para que o acusado seja pronunciado. Basta, para tanto, que o juiz se convença daquela existência’ (RE 72.801, Rel. Min. Bilac Pinto, RTJ 63/476), o que induz a conclusão de que ‘as dúvidas quanto à certeza do crime e da autoria deverão ser dirimidas durante o julgamento pelo Tribunal do Júri’ (HC 73.522, Rel. Min. Carlos Velloso, DJ 26.4.1996), já que a sentença de pronúncia não faz juízo definitivo sobre o mérito das imputações e sobre a eventual controvérsia do conjunto probatório” (HC nº 95.549/SP, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 29/5/09 – grifos nossos).
+
+Desse entendimento não se distanciaram as instâncias antecedentes, conforme ficou demonstrado.
+Além disso, de acordo com o entendimento da Corte, é inviável a utilização do habeas corpus para se revolver o contexto fático-probatório e glosar os elementos de prova que ampararam aquela conclusão. Nesse sentido: RHC nº 105.150, Primeira Turma, de minha relatoria, DJe de 4/5/12; RHC nº 121.092/SP, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 12/5/14; HC nº 118.602/SP, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 11/3/14; e o HC nº 111.398/SP, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 3/5/12.
+A propósito, no mesmo sentido:
+
+“AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE DROGAS. PEDIDO DE DESCLASSIFICAÇÃO DO CRIME DE TRÁFICO PARA O DE USO DE DROGAS: INCABÍVEL REVOLVIMENTO DE FATOS E PROVAS EM HABEAS CORPUS. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO”. (RHC 221014 AgR, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe de 29/11/2022)
+
+“AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PRETENDIDA DESCLASSIFICAÇÃO DO CRIME DE TRÁFICO PARA PORTE DE DROGAS. NECESSÁRIO REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. WRIT SUCEDÂNDEO DE REVISÃO CRIMINAL. INVIABILIDADE. AGRAVO AO QUAL SE NEGA PROVIMENTO. I – A pretensão específica de desclassificação do crime praticado pelo paciente implica o revolvimento do conjunto fático-probatório da causa, inviável na estreita via do habeas corpus. II – A jurisprudência do Supremo Tribunal Federal é firme no sentido da inviabilidade da utilização do writ como sucedâneo de revisão criminal. III - Agravo ao qual se nega provimento”. (RHC 231805 AgR, Rel. Min. CRISTIANO ZANIN, Primeira Turma, DJe de 01/12/2023)
+
+Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente recurso ordinário.
+Publique-se.
+Brasília, 3 de junho de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
