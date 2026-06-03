@@ -1,0 +1,78 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por R Nascimento Incorporações e Construções Ltda. contra decisão da 1ª Vice-Presidência do Tribunal de Justiça do Estado de Pernambuco que inadmitiu o recurso especial manejado com fundamento no art. 105, III, "a" e "c", da Constituição Federal.
+Na origem, Augustinho da Silva e Rosimere Glicério Lima Silva ajuizaram ação declaratória de nulidade de contrato de compra e venda de imóvel, cumulada com indenização por danos materiais e morais, em face de Hermano Nascimento Incorporações e Construções Ltda., sustentando, em síntese, a invalidade do negócio jurídico por ausência de outorga uxória, além da falta de recebimento dos valores relativos ao imóvel negociado.
+O Juízo da 13ª Vara Cível da Comarca da Capital/PE julgou parcialmente procedentes os pedidos para condenar a requerida ao pagamento de R$ 246.947,63, corrigidos monetariamente e acrescidos de juros de mora, afastando, contudo, a indenização por danos morais. A sentença consignou, em síntese, que, embora não fosse possível desfazer a cadeia negocial em prejuízo de terceiro adquirente de boa-fé, a construtora deveria responder pelos valores não repassados aos autores, sob pena de enriquecimento sem causa.
+Interposta apelação pela ré, a Sexta Câmara Cível do Tribunal de Justiça do Estado de Pernambuco negou provimento ao recurso, em acórdão assim ementado:
+"EMENTA: DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AUSÊNCIA DE OUTORGA UXÓRIA. NULIDADE DO CONTRATO. INEXISTÊNCIA DE PAGAMENTO COMPROVADO. INDENIZAÇÃO POR DANOS MATERIAIS. DANOS MORAIS INDEVIDOS. SENTENÇA MANTIDA.
+I. Caso em exame
+Ação declaratória de nulidade de contrato cumulada com pedido de indenização por danos materiais e morais. Sentença de parcial procedência que reconhece a nulidade do contrato por ausência de outorga uxória e condena a ré ao pagamento de R$246.947,63.
+II. Questão em discussão
+2. As questões consistem em saber se: (i) há nulidade do contrato preliminar por ausência de autorização conjugal; (ii) o pagamento foi efetivamente realizado à parte autora; e (iii) são devidos danos morais.
+III. Razões de decidir
+3. O contrato de promessa de compra e venda exige outorga uxória quando envolve bem comum do casal (CC, art. 1.647).
+4. A ausência da autorização revela vício formal suficiente para anulação do negócio.
+5. Inexistência de prova de quitação da obrigação assumida, o que justifica a condenação por danos materiais.
+6. Não configurado abalo moral grave que justifique indenização extrapatrimonial.
+IV. Dispositivo e tese
+7. Recurso de apelação desprovido.
+Tese de julgamento: "1. A ausência de outorga uxória em contrato de promessa de compra e venda de imóvel envolvendo bem comum do casal acarreta sua nulidade. 2. A ausência de comprovação do pagamento da obrigação contratual enseja indenização por danos materiais. 3. A reparação por danos morais exige comprovação de abalo psicológico significativo, o que não se verificou nos autos.""
+Os embargos de declaração opostos pela ré foram rejeitados. O Tribunal de origem assentou a inexistência de omissão, contradição, obscuridade ou erro material, afirmando que as questões essenciais à solução da controvérsia haviam sido examinadas, inclusive quanto à exigência de outorga uxória, à alegação de responsabilidade exclusiva do cessionário, à gratuidade de justiça e à suposta venda do mesmo imóvel a dois adquirentes.
+No recurso especial, a recorrente apontou violação aos arts. 1.647, 104, 422 e 884 do Código Civil, aos arts. 98, 99, § 2º, e 1.022 do CPC, bem como ao art. 5º, LXXIV, da Constituição Federal. Sustentou, em síntese, negativa de prestação jurisdicional; desnecessidade de outorga uxória em contrato de promessa de compra e venda não registrado, por sua natureza meramente obrigacional; validade do negócio jurídico; ausência de enriquecimento sem causa; inexistência de responsabilidade da recorrente pelos valores não recebidos pelos autores; indevida manutenção da gratuidade de justiça; e divergência jurisprudencial quanto à interpretação do art. 1.647 do Código Civil.
+Foram apresentadas contrarrazões, nas quais os recorridos defenderam a inadmissibilidade do recurso especial, com incidência das Súmulas 5, 7 e 83/STJ, além da ausência de violação aos dispositivos legais apontados. No mérito, sustentaram a correção do acórdão recorrido, ao argumento de que o contrato envolvia bem comum do casal, que a ausência de outorga uxória comprometeria a validade do negócio e que a condenação por danos materiais decorreria da ausência de repasse dos valores devidos.
+O recurso especial foi inadmitido na origem. A Vice-Presidência do Tribunal estadual entendeu que a pretensão recursal demandaria o reexame do conjunto fático-probatório dos autos, atraindo a incidência da Súmula 7/STJ. Também consignou não ter sido realizado o cotejo analítico necessário à demonstração do dissídio jurisprudencial, nos termos do art. 1.029, § 1º, do CPC e do art. 255 do RISTJ.
+Interposto agravo em recurso especial. Contraminuta apresentada.
+É o relatório.
+Presentes os pressupostos de admissibilidade, conheço do agravo.
+De início, não prospera a alegação de violação ao art. 1.022 do CPC.
+O Tribunal de origem apreciou as questões essenciais à solução da controvérsia, tendo mantido a condenação da recorrente ao pagamento de indenização por danos materiais, em razão da ausência de comprovação de repasse dos valores devidos aos autores e da circunstância de o imóvel ter sido posteriormente transferido a terceiro de boa-fé.
+Não ocorre violação dos arts. 489, § 1º, IV, e 1022, II, do CPC quando o tribunal a quo examina e decide, de modo claro e fundamentado, as questões que delimitam a controvérsia, sem que incida em qualquer vício que possa nulificar o acórdão recorrido ou em negativa da prestação jurisdicional.
+Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.
+Sobre esse ponto, impende salientar que a remansosa jurisprudência desta eg. Corte é no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante.
+Nesse sentido, destacam-se recentes julgados:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE DO BEM DE FAMÍLIA. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA. DOCUMENTOS JUNTADOS AOS AUTOS. AFASTAMENTO DAS CONCLUSÕES. REEXAME FÁTICO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO. 1. Não há ofensa aos arts. 1.022, parágrafo único, I e II, e 489, § 1º do CPC, quando o tribunal de origem decide, de modo claro, objetivo e fundamentado, as questões essenciais ao deslinde da controvérsia, embora sem acolher a tese do insurgente. (..) 7. Agravo interno desprovido." (AgInt no REsp n. 2.038.626/PR, NORONHA relator , Quarta Turma, julgado em MINISTRO JOÃO OTÁVIO DE 12/2/2025, DJEN de 17/2/2025, g.n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA REQUERENTE. 1. As questões postas à discussão foram dirimidas pelo órgão julgador de forma suficientemente ampla, fundamentada e sem omissões, portanto, deve ser afastada a alegada violação aos artigos 489 e 1.022 do CPC/15. Precedentes. (..) 3. Agravo interno desprovido." (AgInt no AREsp n. 2.508.561/SP, Quarta Turma, julgado em 31/3/2025, relator MINISTRO MARCO BUZZI DJEN de 4/4/2025, g.n.)
+Quanto ao mérito recursal, a controvérsia deve ser corretamente delimitada.
+A recorrente concentra sua insurgência na tese de que a promessa de compra e venda não registrada possui natureza obrigacional e, por isso, dispensaria outorga uxória. Invoca, para tanto, precedentes desta Corte no sentido de que a ausência de autorização conjugal não constitui causa de nulidade do compromisso de compra e venda não levado a registro.
+Essa orientação jurisprudencial, todavia, não tem aptidão para infirmar o resultado do julgamento recorrido.
+Com efeito, a sentença não fundou a condenação na nulidade do contrato por ausência de outorga uxória.
+Ao revés, o Juízo de primeiro grau expressamente registrou que a alegação de nulidade, nas circunstâncias dos autos, não poderia beneficiar os próprios autores, pois o promitente comprador declarou estado civil diverso e a companheira figurou como testemunha no instrumento contratual. A sentença afastou, portanto, a anulação do negócio sob esse fundamento, reputando juridicamente reprovável o comportamento contraditório.
+O fundamento determinante da condenação foi outro: os autores, primeiros compradores, não receberam os valores correspondentes ao negócio, ao passo que o imóvel permaneceu na esfera de disponibilidade da construtora e foi posteriormente transferido a terceiro adquirente de boa-fé.
+A sentença consignou que não seria possível prejudicar o terceiro, mas que o ressarcimento dos valores pagos ou devidos aos autores se impunha para evitar enriquecimento sem causa, especialmente porque a construtora teria se beneficiado da cadeia negocial.
+Essa moldura foi mantida pelo Tribunal de origem, que, embora tenha feito referência à ausência de outorga uxória, também assentou fundamento autônomo e suficiente para preservar a condenação: a recorrente não comprovou o efetivo pagamento devido à parte autora, razão pela qual subsistiria o dever de indenizar pelos danos materiais.
+Desse modo, ainda que se admitisse a correção da tese jurídica da recorrente quanto à desnecessidade de outorga uxória em promessa de compra e venda não registrada, tal conclusão não conduziria, por si só, à improcedência da demanda nem ao afastamento da condenação.
+O título condenatório está apoiado em fundamento independente: a ausência de repasse do preço aos autores e a vantagem patrimonial obtida pela recorrente na sucessiva negociação do imóvel.
+Incide, portanto, por analogia, a Súmula 283/STF, pois a parte recorrente não logrou desconstituir fundamento autônomo suficiente à manutenção do acórdão recorrido.
+Além disso, a pretensão de afastar a responsabilidade da recorrente pelo pagamento exigiria reexaminar cláusulas contratuais, a cadeia de cessões, a atuação de terceiros, a prova de quitação, os valores efetivamente desembolsados e a dinâmica da transferência do imóvel.
+Tais questões foram decididas pelas instâncias ordinárias com base no conjunto fático-probatório dos autos, cujo revolvimento é vedado em recurso especial, nos termos das Súmulas 5 e 7/STJ.
+A alegação de que o inadimplemento seria imputável exclusivamente ao cessionário Maurício Rozemberg também não pode ser acolhida na via eleita.
+A origem concluiu que a recorrente, como promitente vendedora e integrante da cadeia negocial, deveria responder pelos valores não repassados, notadamente porque o imóvel acabou sendo transferido a terceiro sem que os autores fossem ressarcidos.
+Alterar essa conclusão demandaria nova apreciação de fatos, provas e contratos, providência incompatível com a função constitucional do recurso especial.
+O mesmo se diga quanto à tese de inexistência de enriquecimento sem causa.
+Para concluir que a recorrente não se beneficiou economicamente da operação, seria necessário rever a premissa fática firmada na origem de que a unidade imobiliária foi negociada sucessivamente sem que os autores recebessem o preço que lhes era devido.
+A pretensão encontra, novamente, o óbice da Súmula 7/STJ.
+Também não há como conhecer da insurgência relativa à gratuidade de justiça.
+O Tribunal de origem consignou que a recorrente não infirmou a presunção legal de hipossuficiência da parte beneficiária.
+A revisão desse entendimento demandaria reexame da situação econômico-financeira dos autores e das provas produzidas nos autos, o que é inviável em recurso especial.
+Ademais, eventual ofensa ao art. 5º, LXXIV, da Constituição Federal não pode ser examinada nesta via, reservada à uniformização da legislação federal infraconstitucional:
+RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO NO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. FUNDAMENTAÇÃO DEFICIENTE. AFASTAMENTO DE MULTA POR LITIGÂNCIA DE MÁ-FÉ. DIVERGÊNCIA JURISPRUDENCIAL. PREJUDICADA. RECURSO PROVIDO.
+1. Caracterizada a omissão e a deficiência de fundamentação, por ausência de enfrentamento de cláusulas contratuais relevantes e de disposições específicas da apólice de seguro garantia, em violação aos arts. 1.022 e 489, § 1º, IV, do Código de Processo Civil.
+Precedente.
+2. As questões omitidas pelo Tribunal de origem são essenciais ao deslinde da controvérsia e não podem ser apreciadas originariamente pelo Superior Tribunal de Justiça, impondo-se a anulação do acórdão dos embargos de declaração e o retorno dos autos para novo julgamento.
+3. Multa por litigância de má-fé afastada, porque a mera interposição de recurso não configura conduta dolosa ou protelatória, ademais inexistente trânsito em julgado da decisão indicada como premissa. Precedentes.
+4. Não compete ao Superior Tribunal de Justiça a análise de suposta violação a dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+5. Demais teses do recurso especial, inclusive a divergência jurisprudencial, prejudicadas.
+6. Recurso especial provido.
+(REsp n. 2.179.865/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 4/5/2026, DJEN de 7/5/2026.)
+Quanto ao dissídio jurisprudencial, igualmente inviável o conhecimento.
+Os paradigmas invocados pela recorrente versam, em essência, sobre a desnecessidade de outorga uxória em promessa de compra e venda não registrada.
+Contudo, esse não é o fundamento determinante da condenação imposta no caso concreto.
+A condenação decorreu da ausência de pagamento aos autores e da impossibilidade de desfazer a cadeia negocial em prejuízo de terceiro de boa-fé, circunstância que deslocou a solução para o campo das perdas e danos.
+Não há, portanto, similitude fático-jurídica suficiente entre os precedentes colacionados e a hipótese dos autos. A mera transcrição de julgados sobre outorga uxória não demonstra divergência quanto ao ponto efetivamente decisivo: a responsabilização da construtora pelo não repasse dos valores em contexto de sucessiva alienação do imóvel.
+A incidência das Súmulas 5 e 7/STJ, ademais, impede o conhecimento do recurso também pela alínea "c" do permissivo constitucional, pois a verificação da alegada divergência exigiria o reexame das peculiaridades contratuais e probatórias que sustentaram o acórdão recorrido.
+Por fim, o precedente indicado pela recorrente, no sentido de que a promessa de compra e venda não registrada possui natureza obrigacional e prescinde de outorga uxória, não altera a conclusão.
+Ainda que aplicável em abstrato, ele não afasta o fundamento autônomo da condenação: a autora e o autor não ficaram com o imóvel, tampouco receberam o preço correspondente, enquanto a construtora participou da posterior transferência do bem a terceiro.
+A controvérsia, portanto, não se resolve pela validade formal do compromisso à luz do art. 1.647 do Código Civil, mas pela responsabilidade patrimonial decorrente do inadimplemento e da vedação ao enriquecimento sem causa.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios anteriormente fixados em favor da parte recorrida em 1%, observados os limites legais e eventual gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
