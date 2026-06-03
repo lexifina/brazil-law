@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de Recurso em Habeas Corpus, interposto em favor de RAFAEL BATISTA XAVIER, VINÍCIUS FABIANO BATISTA XAVIER e THIAGO SOARES BATISTA XAVIER contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 253):
+"HABEAS CORPUS - COAÇÃO NO CURSO DO PROCESSO - ALEGADO EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA - NÃO VERIFICADO - RAZOABILIDADE DO TEMPO DE ANDAMENTO DO FEITO - ILEGALIDADE NÃO CONSTATADA - ORDEM DENEGADA. "
+Em síntese, os recorrentes pleiteiam a revogação da prisão preventiva sob o argumento de que estão ausentes os requisitos legais autorizadores da medida extrema .
+O Ministério Público Federal opinou pelo não conhecimento do recurso, com parecer ementado nos seguintes termos (fls. 327-328):
+"Recurso ordinário em habeas corpus. Coação no curso do processo. Alegação de ausência dos requisitos para a prisão preventiva. Não conhecimento. - A decisão recorrida não tratou dos requisitos da prisão preventiva, mas do excesso de prazo na formação da culpa, de modo que o pleito recursal está dissociado do debate efetivo ocorrido na relação jurídica processual instaurada com o habeas corpus. - Ademais, os requisitos da prisão preventiva foram tratados pelo STJ no RHC n. 226824/SP, sendo considerados legítimos, de modo que o caso versa sobre inadmissível reiteração de pedido já decidido pelo Tribunal da Cidadania. Parecer pelo não conhecimento do pedido recursal. "
+É o relatório.
+Presentes os requisitos de admissibilidade, conheço do recurso. Passo a análise do mérito.
+Como bem destacado pelo Parquet Federal, a decisão recorrida limitou-se a examinar o alegado excesso de prazo para a formação da culpa, sem adentrar nos requisitos da prisão preventiva. Disso decorre que as razões recursais encontram-se flagrantemente dissociadas dos fundamentos do ato impugnado, violando o princípio da dialeticidade.
+Além disso, a legitimidade dos requisitos da prisão preventiva já foi objeto de cognição e validação pelo Superior Tribunal de Justiça no julgamento do RHC n. 226824/SP, conexo a este. Desse modo, a insurgência atual configura inadmissível reiteração de pedido, o que obsta o conhecimento do recurso correlato. Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA DISCIPLINAR GRAVE. OITIVA JUDICIAL. DESNECESSIDADE. PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR REGULAR. CONTRADITÓRIO E AMPLA DEFESA ASSEGURADOS. REGRESSÃO DE REGIME. NÃO OCORRÊNCIA. DESCLASSIFICAÇÃO. ALEGAÇÃO DE INSUFICIÊNCIA PROBATÓRIA. REITERAÇÃO DE IMPETRAÇÃO ANTERIOR. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA ELEITA. PRECEDENTES.  4. "A mera reiteração de pedido, que se limita a reproduzir, sem qualquer inovação de fato e/ou de direito, os mesmos fundamentos subjacentes a postulação anterior, torna inviável o próprio conhecimento da ação de habeas corpus". (AgRg no HC n. 190.293, Rel. Min. Celso de Mello, julgado em 20/10/2020, DJe 19/11/2020). 5. Agravo regimental não provido. (AgRg no HC n. 1.004.901/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 3/6/2025, DJEN de 10/6/2025.)".
+Assim, tais teses configuram mera reiteração de pedidos anteriormente formulados, o que se revela inadmissível e não serão apreciadas novamente no presente recurso.
+Ante o exposto, não conheço do Recurso em Habeas Corpus.
+Publique-se.
+Intimem-se.
+EMENTA
