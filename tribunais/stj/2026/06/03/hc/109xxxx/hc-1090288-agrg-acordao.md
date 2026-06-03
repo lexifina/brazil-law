@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 28/05/2026 a 03/06/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Carlos Pires Brandão, Nilsoni de Freitas (Desembargadora Convocada do TJDFT) e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO MAJORADO TENTADO. CORRUPÇÃO DE MENOR. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI. CIRCUNSTÂNCIAS DO DELITO. PARTICIPAÇÃO DE MENOR. VIOLÊNCIA REAL CONTRA A VÍTIMA. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por DANILO HENRIQUE MELQUIADES DOS SANTOS contra decisão monocrática assim ementada (fl. 130):
+PROCESSUAL PENAL. HABEAS CORPUS. ROUBO MAJORADO TENTADO. CORRUPÇÃO DE MENOR. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI. CIRCUNSTÂNCIAS DO DELITO. PARTICIPAÇÃO DE MENOR. VIOLÊNCIA REAL CONTRA A VÍTIMA. FUNDA MENTAÇÃO IDÔNEA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Inicial indeferida liminarmente.
+Nas razões, a parte agrava nte reitera o argumento de que a fundamentação da prisão preventiva é genérica e abstrata, apoiada na gravidade abstrata do crime de roubo e no sentimento de insegurança social, sem individualização do periculum libertatis, sendo necessária a indicação de dados concretos do caso.
+Sustenta que a violência é elementar do tipo penal do roubo e não constitui fundamento autônomo para manter a custódia cautelar, exigindo demonstração específica do risco à ordem pública, nos termos do art. 312 do Código de Processo Penal .
+Defende que não há elementos objetivos de periculosidade ou risco de reiteração delitiva, inexistindo antecedentes ou processos em curso, havendo mera reprodução da dinâmica fática do flagrante - fundamentação aparente vedada pelo art. 315, § 2º, do Código de Processo Penal.
+Aduz que, diante d as condições pessoais favoráveis e da suficiência das medidas cautelares do art. 319 do Código de Processo Penal, impõe-se a substituição da prisão.
+Pugna pela reconsideração da decisão agravada ou pelo provimento do agravo para a substituição da prisão preventiva por medidas cautelares diversas .
+Não abri pr a zo para a pa rte agravada apresentar contrarrazões ao agravo regimental.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO MAJORADO TENTADO. CORRUPÇÃO DE MENOR. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI. CIRCUNSTÂNCIAS DO DELITO. PARTICIPAÇÃO DE MENOR. VIOLÊNCIA REAL CONTRA A VÍTIMA. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Agravo regimental improvido.
+VOTO
+A irresignação não prospera.
+Conforme explanado na decisão agravada, de acordo com as reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade da restrição ao direito constitucional à liberdade de locomoção.
+No tocante aos motivos da custódia, no julgamento do habeas corpus, a Corte estadual preservou a segregação cautelar, fundamentada nos seguintes termos pelo Juízo a quo: No presente caso, a conduta delitiva do autuado é de acentuada gravidade e periculosidade em concreto, considerando que tentou praticar delito de roubo, em concurso de agentes, envolvendo um adolescente e causando lesões na vítima, o que acresce reprovabilidade à conduta delitiva do autuado e denota o perigo gerado pelo seu estado de liberdade (fl. 85 - grifo nosso).
+Do excerto transcrito, observa-se que a decisão se encontra suficientemente fundamentada em eleme ntos concretos da conduta delitiva do acusado - roubo tentado em concurso com um menor, em um semáforo, com quebra do vidro do veículo e lesões sofridas por uma das vítimas nas mãos -, o que justifica a medida excepcional para a garantia da ordem pública.
+Nesse sentido, confira-se a jurisprudência do Superior Tribunal de Justiça, mutatis mutandis: É firme o entendimento jurisprudencial de que "a segregação cautelar para a garantia da ordem pública se mostra fundamentada no caso em que o modus operandi empregado revela especial desvalor da conduta", (AgRg no HC n. 582.326/PR, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 4/8/2020, DJe 13/8/2020), a evidenciar a periculosidade real, propensão à prática delitiva e conduta violenta, como no caso. 2. A prática do delito de roubo qualificado com o envolvimento de adolescente, mediante o uso de simulacr o de arma de fogo, com fuga logo após a prática delitiva, constitui motivação idônea para a custódia cautelar, como garantia da ordem pública (AgRg no HC n. 775.442/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 17/4/2023, DJe de 20/4/2023 - grifo nosso).
+A propósito, veja-se: In casu, a custódia cautelar está suficientemente fundamentada na necessidade de garantia da ordem pública, diante da gravidade concreta da conduta delituosa, pois o crime de roubo teria sido praticado mediante o uso de arma branca (canivete) e em concurso com um adolescente, o que justifica a prisão cautelar, consoante pacífico entendimento desta Corte no sentido de que não há constrangimento ilegal quando a segregação preventiva é decretada em razão do modus operandi com que o delito fora praticado (AgRg no RHC n. 174.381/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/4/2023, DJe de 24/4/2023).
+Registre-se q ue, estando concretamente demonstrada pelas instâncias ordinárias a necessidade da prisão preventiva, não se afigura suficiente a fixação de medidas cautelares alternativas.
+De mais a ma is, eventuais con dições pessoais favoráveis não possuem o condão de, isoladamente, obstar a segregação cautelar, se há nos autos elementos suficientes a demonstrar a necessidade de segregação cautelar.
+Ante o exposto, nego provimento ao agravo regimental.
