@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por MARA DALILA DE ALMEIDA LOURENÇO, contra decisão que inadmitiu o recurso especial em razão da incidência da Súmula n. 7 do STJ (fls. 970-974).
+O acórdão recorrido encontra-se assim ementado (fls. 671-673):
+DIREITO CIVIL. APELAÇÃO CÍVEL E RECURSOS ADESIVOS. INDENIZAÇÃO POR DANOS MATERIAIS DECORRENTES DE ERRO MÉDICO. MORTE DE RECÉM-NASCIDO. PENSIONAMENTO. BAIXA RENDA FAMILIAR. DEPENDÊNCIA ECONÔMICA PRESUMIDA. DANOS MATERIAIS. PROVIMENTO DA APELAÇÃO E DESPROVIMENTO DOS RECURSOS ADESIVOS.
+I. CASO EM EXAME
+1. Trata-se de apelação cível e recursos adesivos interpostos contra sentença que julgou parcialmente procedente ação de indenização por danos materiais, decorrentes de erro médico que resultou na morte de um recém-nascido. A sentença condenou os réus ao pagamento de indenização por danos materiais, mas rejeitou o pedido de pensionamento.
+II. QUESTÃO EM DISCUSSÃO
+2. As questões em discussão são: (i) o direito dos autores ao recebimento de pensão mensal em razão do falecimento do filho recém-nascido, em decorrência de erro médico; e (ii) a validade da condenação por danos materiais, considerando a juntada de documentos após a fase postulatória.
+III. RAZÕES DE DECIDIR
+3. A responsabilidade civil dos réus pelo óbito da criança já foi reconhecida em ação anterior transitada em julgado. O nexo causal direto entre a conduta dos réus e a morte foi comprovado.
+4. A jurisprudência do Superior Tribunal de Justiça admite o pensionamento aos pais de baixa renda pela morte de filho menor, mesmo que recém-nascido ou natimorto, presumindo-se a dependência econômica. A condição financeira dos autores justifica a presunção.
+5. A juntada de documentos após o prazo legal é admissível, desde que o contraditório seja respeitado, não haja má-fé e não se cause tumulto processual. Os documentos foram apresentados, impugnados e apreciados pelo juízo.
+IV. DISPOSITIVO E TESE
+6. Apelação cível provida para deferir o pensionamento. Recursos adesivos desprovidos.
+"1. A responsabilidade civil dos réus pelo óbito do recém-nascido, já reconhecida em ação anterior, é definitiva e vincula o presente processo. 2. O pensionamento é devido aos autores, considerando sua condição de baixa renda e a jurisprudência do STJ que o admite em casos de morte de recém-nascidos por erro médico. 3. A juntada extemporânea dos documentos que comprovam os danos materiais é admitida, pois observados os requisitos de contraditório e ausência de má-fé."
+Dispositivos relevantes citados: Código Civil, arts. 948, 950; Código de Processo Civil, arts. 330, 370, 434, 487, I, 502, 85, §§ 2º e 11, 1010, III. CPC, art. 1.010, III.
+Nas razões do recurso especial (fls. 805-819), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou violação dos seguintes dispositivos legais:
+(i) arts. 489, § 1º e 1.022, II, do CPC, aduzindo a omissão da decisão tendo em vista que "não houve pronunciamento fundamentado sobre o fato de que a sentença e o próprio acórdão originário indeferiram o pensionamento com base em presunções genéricas acerca da "futurologia jurídica" e da suposta ausência de dependência econômica, sem examinar as provas dos autos" (fl. 810),
+(ii) art. 373, I e II, do CPC, pois ofendeu o dispositivo "ao dispensar os autores do ônus de comprovar os fatos constitutivos do direito ao pensionamento (dependência econômica e extensão do dano material), decidindo com base em presunções amplas e deslocando, na prática, à ré o encargo de infirmá-las" (fl. 813),
+(iii) art. 944 do CC, afirmando que o Tribunal de origem ofendeu o dispositivo "ao manter a condenação ao pagamento de pensão mensal em favor dos autores com fundamento exclusivo em presunção genérica de dependência econômica em famílias de baixa renda, sem qualquer demonstração efetiva da perda patrimonial, a Corte estadual desconsiderou por completo o comando normativo que vincula o quantum indenizatório ao dano real, concreto e comprovado" (fl. 816).
+No agravo (fls. 988-1.003), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 1.074-1.079).
+É o relatório.
+Decido.
+A Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo. Desse modo, não há falar em negativa de prestação jurisdicional, vício de fundamentação ou violação dos arts. 489 e 1.022 do CPC.
+Quanto a alegada contradição na fundamentação da condição de baixa renda para fins de pensionamento, a Corte local assim se pronunciou (fl. 774):
+Em relação à alegada contradição na fundamentação sobre a condição de baixa renda para fins de pensionamento, esclareço que não há incompatibilidade lógica entre o reconhecimento da hipossuficiência para manutenção da gratuidade e para fixação da pensão mensal.
+Precedentes persuasivos do Superior Tribunal de Justiça e do Supremo Tribunal Federal estabelecem que é indenizável o acidente que cause a morte de filho menor, ainda que não exerça trabalho remunerado, sendo que, em se tratando de família de baixa renda, há presunção relativa de dependência econômica entre seus membros.
+Conforme demostrado acima, a condição de baixa renda dos embargados foi expressamente tratada no decisium impugnado, concluindo-se pelo reconhecimento da condição de vulnerabilidade socioeconômica que justifica tanto a manutenção da gratuidade quanto a presunção de dependência econômica futura em relação ao filho falecido.
+Quanto aos critérios de atualização da pensão mensal, reputo que também não há nenhuma obscuridade a ser sanada, posto que restou claro que a correção monetária e os juros de mora incidem a partir do vencimento, ou seja, quando há inadimplência.
+No caso concreto, o TJGO consignou que "a condição de baixa renda dos embargados foi expressamente tratada no decisium impugnado, concluindo-se pelo reconhecimento da condição de vulnerabilidade socioeconômica" (fl. 774). Portanto, a decisão recorrida não é contraditória nem omissa. Em verdade, pretende-se o revolvimento do conteúdo fático-probatório dos autos, vedado em recurso especial, por óbice da Súmula n. 7/STJ
+Assim, não se constatam os vícios alegados.
+Extraem-se as seguintes razões de decidir do aresto impugnado (fl. 682):
+(..) entendendo que não haveria prejuízo material a ser reivindicado pelos pais, em razão do recém-nascido não exercer atividade remunerada, deve ser analisada as circunstâncias do caso concreto, no qual entendo ser cabível a aplicação do entendimento jurisprudencial que reconhece o direito ao pensionamento, pelos seguintes fundamentos:
+1. O nexo causal direto entre a conduta dos réus e o óbito do filho dos apelantes foi expressamente reconhecido em ação anterior, com trânsito em julgado, tendo sido aplicada a teoria do dano direto e imediato;
+2. Os apelantes comprovaram sua condição de baixa renda, o que autoriza a presunção de dependência econômica futura em relação ao filho falecido;
+3. A jurisprudência do Superior Tribunal de Justiça tem estendido esse entendimento aos casos de morte de recém-nascidos e até mesmo de natimortos;
+4. A reparação integral do dano, princípio basilar da responsabilidade civil, impõe que todas as consequências do ato ilícito sejam indenizadas, incluindo os danos materiais decorrentes da perda da expectativa de contribuição econômica futura do filho falecido.
+Com efeito, a Corte estadual reputou que no caso dos autos foi reconhecido o direito ao pensionamento. Rever tal conclusão demandaria o reexame do acervo fático dos autos, procedimento vedado em sede especial, a teor da Súmula n. 7/STJ.
+Além disso, quanto ao valor ficado o Tribunal de origem afirmou que "Quanto ao valor do pensionamento, seguindo a jurisprudência dominante, deve ser fixado em 2/3 do salário-mínimo, a partir da data em que o menor completaria 14 anos de idade, até a data em que completaria 25 anos, reduzindo-se para 1/3 do salário-mínimo a partir de então, até que a vítima alcançasse 75 (setenta e cinco) anos, idade média da ex-pectativa de vida do brasileiro, segundo o IBGE, ou até a data do óbito da mãe  ..  a pensão mensal ora deferida terá natureza alimentar, com pagamento mediante depósito em conta bancária dos autores, sujeita a correção monetária pelo INPC a partir de cada vencimento, e juros de mora de 1% ao mês desde o vencimento de cada prestação até o devido pagamento" (fl. 682). A alteração do decidido pelo Colegiado implicaria reavaliação fático-probatória, atraindo a Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
