@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por THIAGO BORGES contra a decisão de fls. 127-129 (e-STJ), que não conheceu o recurso em habeas corpus.
+O embargante alega, em suma, que o recurso ordinário impugna acórdão da 9ª Câmara Criminal do Tribunal de Justiça de São Paulo que não conheceu do habeas corpus originário (e-STJ, fls. 134-135), no qual se alegou a ilegalidade de busca e apreensão realizada contra o embargante: medida baseada exclusivamente em denúncia anônima, autorizada por decisão genérica e executada com extrapolação dos limites do mandado, de modo que todas as provas daí derivadas seriam ilícitas e deveriam ser desentranhadas (e-STJ, fls. 134).
+Quanto aos fundamentos do não conhecimento do habeas corpus pelo Tribunal de origem, a parte aponta: (i) suposta necessidade de exame aprofundado de questões probatórias; e (ii) ausência de relação direta entre a matéria e a liberdade de locomoção do paciente (e-STJ, fl. 135). Sustenta que tais fundamentos foram enfrentados no recurso ordinário: a ilegalidade seria patente, verificável por leitura superficial de dois relatórios policiais e de uma decisão juntados ao próprio writ, dispensando revolvimento probatório; além disso, a ilicitude das evidências impactaria diretamente a liberdade, por constituírem o núcleo da acusação e poderem conduzir à condenação (e-STJ, fls. 135-136).
+A decisão embargada, entretanto, não conheceu do recurso ordinário ao argumento de que as matérias trazidas pela defesa não teriam sido objeto de julgamento no acórdão impugnado, sob pena de supressão de instância, sem especificar quais pontos não foram enfrentados (e-STJ, fl. 135). A parte afirma que houve negativa de prestação jurisdicional e prejuízo ao contraditório, porque todos os temas teriam sido abordados nas razões recursais, inclusive com quadro demonstrativo das folhas correspondentes (e-STJ, fl. 136).
+Requer: (a) reconhecimento e acolhimento dos embargos para sanar a omissão indicada; e (b) consequente processamento do recurso ordinário constitucional, com análise e deferimento dos pedidos ao final (e-STJ, fls. 136-137).
+É o relatório.
+Decido.
+Os embargos não merecem ser acolhidos.
+Dispõe o Código de Processo Penal:
+"Art. 619. Aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão."
+Ora, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existentes no julgado. Não se prestam, portanto, à sua revisão no caso de mero inconformismo da parte.
+Nesse sentido:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PROVISÓRIA DE PENA RESTRITIVA DE DIREITO. OMISSÃO. INOCORRÊNCIA. QUESTÕES QUE NÃO INFIRMAM A CONCLUSÃO ADOTADA NA DECISÃO RECORRIDA. EMBARGOS DE DECLARAÇÃO REJEITADOS. I - Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado. II - Não se verificando nenhuma das hipóteses anteriores, mas mera irresignação do embargante com a solução apresentada por esta Corte Superior, fica inviabilizada a utilização dos aclaratórios.  ..  VI - Embargos de declaração rejeitados." (EDcl no AgRg no AREsp 1518118/RN, Rel. Ministro REYNALDO SOARES D A FONSECA, QUINTA TURMA, julgado em 08/10/2019, DJe 14/10/2019, grifou-se).
+Há omissão no julgado quando matéria relevante para a solução da causa deixa de ser decidida, o que não se observa nos autos.
+O embargante aduz que os temas foram abordados nas razões recursais, porém o Tribunal de origem não analisou as matérias, não tendo a defesa sequer opostos embargos de declaração para suprir o vício.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
