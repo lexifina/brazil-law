@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de agravo interno interposto pelo REDECARD INSTITUIÇÃO DE PAGAMENTO S.A. contra decisão monocrática proferida pela Presidência do STJ, por meio da qual se aplicou a Súmula n. 182 do STJ (fls. 420-421).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado (fl. 157):
+A GRAVO DE INSTRUMENTO-DECISÃO SANEADORA QUE INDEFERIU A PRODUÇÃO DE PROVA DOCUMENTAL E APLICOU AO CASO AS REGRAS DO CDC, COM A INVERSÃO DO ÔNUS DA PROVA - NÃO CONHECIMENTO DO RECURSO NA PARTE EM QUE DISCUTE A INSTRUÇÃO PROBATÓRIA - JUIZ GESTOR DO PROCESSO (ART. 370, CPC) - PROVA CONSIDERADA DESNECESSÁRIA PARA O DESLINDE DA CONTROVÉRSIA - HIPÓTESE NÃO PREVISTA NO ROL TAXATIVO DO ART. 1.015 DO CPC, NEM TAMPOUCO ALBERGADA PELA TAXATIVIDADE MITIGADA FIXADA NO TEMA 988/STJ - INEXISTÊNCIA, ADEMAIS, DE URGÊNCIA NO EXAME DA MATÉRIA - QUESTÃO QUE PODERÁ SER DISCUTIDA EM PRELIMINAR DE APELAÇÃO CÍVEL OU CONTRARRAZÕES (CPC, ART. 1.009, § 1º) - PRESSUPOSTO INTRÍNSECO NÃO ATENDIDO - RECURSO MANIFESTAMENTE INADMISSÍVEL NESTE TÓPICO - DEBATE QUANTO À INCIDÊNCIA DO CDC NO CASO - CONTRATO DE CREDENCIAMENTO E ADESÃO AO SISTEMA CIELO - MÁQUINAS DE CARTÃO DE CRÉDITO E DÉBITO - OBSERVAÇÃO DA TEORIA FINALISTA MITIGADA - VULNERABILIDADE TÉCNICA E FINANCEIRA DO AUTOR EM RELAÇÃO À RÉ - ENTENDIMENTO PACÍFICO DO STJ E DESTA CORTE - CABÍVEL A INVERSÃO DO ÔNUS DA PROVA (ART. 6º, VIII DO CDC) - DECISÃO MANTIDA -A QUO . RECURSO CONHECIDO E DESPROVIDO
+A agravante alega, nas razões do agravo interno, que a decisão monocrática partiu de premissa equivocada ao afirmar inexistir impugnação específica ao fundamento de inadmissibilidade relacionado à Súmula n. 7/STJ, sustentando ter impugnado todos os fundamentos da decisão de origem que inadmitiu o recurso especial, inclusive a incidência da Súmula n. 7/STJ (fls. 312-314).
+Sustenta, outrossim, a não incidência da Súmula n. 182/STJ, porquanto todos os fundamentos foram devidamente combatidos na peça de agravo em recurso especial (fls. 314-316), reafirmando que a dialeticidade recursal foi atendida.
+Pugna, por fim, pelo conhecimento e provimento do agravo interno.
+A parte agravada, instada a manifestar-se, silenciou (fls. 322-330).
+É, no essencial, o relatório.
+Após atenta análise dos autos, verifica-se que assiste razão à agravante quanto à não incidência da Súmula n. 182/STJ, tendo em vista que, nas razões do agravo de fls. 246-247, impugnou especificamente o fundamento da decisão de inadmissibilidade do recurso especial proferida pelo Tribunal a quo.
+Ante o exposto, dou provimento ao agravo interno para reconsiderar a decisão de fls. 303-304.
+Após publicação, voltem os autos conclusos para análise do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
