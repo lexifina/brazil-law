@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo de BRASILSEG COMPANHIA DE SEGUROS contra decisão que inadmitiu recurso especial, interposto com fulcro na alínea "a" do permissivo constitucional, objetando-se decisão, tomada pelo eg. Tribunal de Justiça do Estado de São Paulo em acórdão assim ementado (e-STJ, fl. 44):
+Ementa: DIREITO CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA DE SEGURO. TERMO INICIAL DA PRESCRIÇÃO. NEGATIVA ADMINISTRATIVA. DECISÃO MANTIDA. RECURSO DESPROVIDO. I. CASO EM EXAME 1. Agravo de instrumento interposto pela seguradora contra decisão que afastou a prescrição em ação de cobrança de indenização securitária, sob fundamento de que o termo inicial da contagem do prazo prescricional é a negativa da seguradora, e não a ciência do sinistro. II. QUESTÃO EM EXAME 2. A questão em discussão consiste em saber se o termo inicial do prazo prescricional da pretensão de cobrança de seguro decorre da ciência do sinistro ou da negativa administrativa da seguradora. III. RAZÕES DE DECIDIR 3. Conforme a jurisprudência do Superior Tribunal de Justiça (STJ) e sua Súmula nº 229, o termo inicial da prescrição, nos contratos de seguro, é a negativa formal da seguradora ao pedido de indenização, não bastando a ciência do sinistro. 4. Tendo o agravado ajuizado a ação no prazo de um ano contado da negativa administrativa, não está configurada a prescrição. IV. DISPOSITIVO E TESE 5. Recurso de agravo de instrumento conhecido e desprovido. Teses de julgamento: "1. O termo inicial da prescrição da pretensão de cobrança de indenização securitária é a ciência da negativa administrativa da seguradora. 2. Não configurada a prescrição se a ação é ajuizada no prazo de um ano contado da recusa formal do pagamento." Dispositivos relevantes citados: CC, art. 206, § 1º, II. Jurisprudência relevante citada: STJ, AgInt nos E Dcl no AR Esp 2052280/PR, Rel. Min. Marco Aurélio Bellizze, 3ª Turma, j. 26.02.2024; STJ, R Esp 1.970.111/MG, Rel. Min. Nancy Andrighi, 3ª Turma, j. 15.03.2022; Súmula 229/STJ.
+Em seu recurso especial (e-STJ, fls. 51-69), além de dissídio jurisprudencial, o recorrente alega violação dos seguintes dispositivos de lei federal, com as respectivas teses:
+i) art. 206, § 1º, II, b, do Código Civil e Súmula 229 do Superior Tribunal de Justiça, pois teria havido negativa de vigência ao prazo prescricional ânuo ao se fixar como termo inicial a negativa administrativa, quando o termo inicial seria a data do sinistro; ademais, o aviso do sinistro apenas suspenderia a prescrição, de modo que os dias anteriores ao aviso deveriam ser computados, o que teria conduzido à consumação da prescrição. (fls. 60-67)
+Contrarrazões ofertadas às fls. 135-140 (e-STJ).
+Em juízo prévio de admissibilidade, o eg. TJ-SP inadmitiu o apelo nobre (e-STJ, fls. 141-142), dando ensejo ao presente agravo (e-STJ, fls. 145-158).
+Sem contraminuta, conforme certidão de fl. 160 (e-STJ).
+É o relatório. Passo a decidir.
+A irresignação não comporta provimento.
+O Tribunal de Justiça, analisando as circunstâncias do caso, assim dirimiu a controvérsia:
+"Consoante prescreve a Súmula nº 229 do C. STJ, tendo a agravada ciência inequívoca do pedido denegatório do pagamento formal da indenização, com o decurso do prazo prescricional superior a um ano, a ação proposta estaria prescrita. Nada obstante, como bem reconhecido na decisão agravada, o marco inicial da prescrição da pretensão veiculada envolvendo a cobrança do seguro é o momento em que o segurado toma ciência da negativa administrativa da seguradora. De acordo com o art. 206, § 1º, II do CC, a pretensão do segurado contra o segurador prescreve em um ano, sendo que tal prazo é contado desde a ciência do fato gerador da pretensão que, neste caso, é a negativa de pagamento efetuada pela via administrativa. Tomando ciência o agravado da resposta administrativa negativa em 3/5/2022 e proposta a ação em 2/5/2023, tem-se por não operada a prescrição. Atente-se que além do precedente emanado do Colendo Superior Tribunal de Justiça (C. STJ) transcrito na decisão agravada (STJ - R Esp: 1970111 MG 2021/0233899-3, Relator.: MinistraNANCY ANDRIGHI, Data de Julgamento: 15/03/2022, T3 - TERCEIRATURMA, Data de Publicação: D Je 30/03/2022 que se considera a esta fundamentação incorporado) aquela C. Corte Superior por mais duas oportunidades apresentou igual entendimento, isto é, que o início do prazo prescricional inicia-se com a negativa da seguradora, de forma que precedentes, ainda que emanados de Tribunais Estaduais Superiores, são incapazes de prevalecer em relação ao entendimento emanado do Tribunal da Cidadania. Nesse sentido:
+(..)
+Posto isso, por meu voto, nego provimento ao agravo de instrumento."
+Sobre o tema, tem-se que a jurisprudência desta Corte se firmou no sentido de que o termo inicial da pretensão se dá com a ciência da recusa da seguradora ou do pagamento a menor.
+A propósito:
+DIREITO PRIVADO. AGRAVO EM RECURSO ESPECIAL. COBRANÇA DE SEGURO AGRÍCOLA. TERMO INICIAL DA PRESCRIÇÃO, APLICAÇÃO DO CDC E INVERSÃO DO ÔNUS DA PROVA. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra acórdão que, em agravo de instrumento, manteve decisão saneadora que afastou a prescrição, aplicou o Código de Defesa do Consumidor e inverteu o ônus da prova.
+2. A controvérsia diz respeito à ação de cobrança de seguro agrícola. O valor da causa foi fixado em R$ 13.779,94.
+3. A Corte de origem concluiu que o termo inicial da prescrição é a ciência da negativa ou do pagamento a menor e reconheceu a incidência do CDC com inversão do ônus da prova.
+II. QUESTÃO EM DISCUSSÃO
+5. Há três questões em discussão: (i) definir o termo inicial do prazo prescricional ânuo previsto no art. 206, § 1º, II, b, do Código Civil, para fins de cobrança de seguro agrícola; (ii) verificar a possibilidade de aplicação do Código de Defesa do Consumidor à relação securitária entre produtor rural e seguradora;
+(iii) estabelecer a validade da inversão do ônus da prova determinada na instância ordinária.
+III. RAZÕES DE DECIDIR
+6. Incide a Súmula n. 83 do STJ quanto ao termo inicial da prescrição ânua em seguros, que se dá com a ciência da recusa da seguradora ou do pagamento a menor, em harmonia com o acórdão recorrido.
+7. Incide a Súmula n. 83 do STJ para admitir a aplicação do CDC aos contratos de seguro agrícola, reconhecendo-se a legitimidade da inversão do ônus da prova, à luz da jurisprudência desta Corte.
+IV. DISPOSITIVO E TESE
+8. Agravo em recurso especial desprovido.
+Tese de julgamento: "1. O prazo prescricional de um ano para a ação de cobrança de seguro tem início com a ciência da negativa da seguradora ou do pagamento a menor, e não com o evento danoso. 2. O seguro agrícola contratado para proteção do patrimônio do produtor rural configura relação de consumo, autorizando a aplicação do Código de Defesa do Consumidor. 3. A inversão do ônus da prova pode ser determinada quando presentes os requisitos do art. 6º, VIII, do CDC, independentemente da qualificação profissional ou experiência técnica do autor. 4. Aplica-se a Súmula n. 83 do STJ quando o acórdão recorrido está em conformidade com a jurisprudência da Corte."
+Dispositivos relevantes citados: CC, art. 206, § 1º, II, b; CDC, arts. 2, 3, 6, VIII; CPC, arts. 373, I, II, 85, § 11.
+Jurisprudência relevante citada: STJ, Súmula n. 83; STJ, REsp n. 2.165.529/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 8/10/2024; STJ, REsp n. 1.473.828, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/11/2015; STJ, REsp n. 1.352.419/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 8/9/2014.
+(AREsp n. 3.028.616/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 16/12/2025, DJEN de 22/12/2025.)
+RECURSO ESPECIAL. SECURITÁRIO. COBRANÇA DE SEGURO. PRESCRIÇÃO ÂNUA. TERMO INICIAL. NEGATIVA DA SEGURADORA.
+1. O prazo prescricional da pretensão do segurado contra a seguradora é de um ano, nos termos do art. 206, §1º, II, "b", do Código Civil, com termo inicial a partir da data da ciência da negativa da seguradora. Precedentes.
+2. Recurso especial provido.
+(REsp n. 2.251.085/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 9/3/2026, DJEN de 12/3/2026.)
+Estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ.
+Com ess as considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
