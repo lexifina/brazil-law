@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7 do STJ (fls. 1.241-1.242).
+O acórdão recorrido está assim ementado (fl. 1.157):
+APELAÇÃO. REINTEGRAÇÃO DE POSSE. REQUISITOS COMPROVADOS. ACOLHIMENTO DO PEDIDO. POSSE DE MÁ-FÉ. INDENIZAÇÃO BENFEITORIAS. DIREITO SOMENTE QUANTO AS NECESSÁRIAS. Comprovado o prévio exercício da posse e o advento do esbulho e a efetiva perda da posse pela parte autora, o pedido de reintegração deve ser acolhido. Sendo a posse de má-fé a parte somente tem direito a indenização acerca das benfeitorias necessárias.
+Os embargos de declaração foram rejeitados (fls. 1.193-1.198).
+No recurso especial (fls. 1.204-1.215), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente apontou ofensa aos arts. 141, 492 e 561 do CPC, 1.200 e 1.219 do Código Civil.
+Sustentou a nulidade do acórdão por julgamento citra petita e por negativa de prestação jurisdicional, ao argumento de que alegações relevantes não teriam sido apreciadas, mesmo após a oposição de embargos de declaração.
+Alegou que não ficaram demonstrados os requisitos da ação possessória, especialmente a posse da autora, sua perda e a ocorrência do esbulho, razão pela qual o pedido de reintegração deveria ser julgado improcedente.
+Aduziu que os documentos, declarações e demais elementos utilizados pelo Tribunal de origem seriam insuficientes para reconhecer o exercício possessório.
+Defendeu a existência de posse justa e de boa-fé, fundada em contrato de promessa de compra e venda, bem como a realização de obras e benfeitorias no imóvel.
+Por fim, argumentou que as benfeitorias edificadas não teriam sido devidamente indenizadas.
+Foram apresentadas contrarrazões (fls. 1.224-1.230).
+No agravo (fls. 1.248-1.260), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi oferecida contraminuta (fls. 1.264-1.268).
+Juízo negativo de retratação (fl. 1.271).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+O Tribunal de origem, com base nos fatos e nas provas dos autos, assim se pronunciou (fls. 1.162-1.164):
+ ..  No caso em estudo, após detida análise dos autos, entendo que estão presentes todos os requisitos para que o pedido de reintegração seja acolhido, pelo que passo a análise individual de cada um.
+No que toca o exercício da posse pretérita pela parte autora, entendo por sua comprovação, tendo em vista a demonstração de que fora o loteamento aprovado, em 27.06.2012, junto ao Município de Esmeraldas/MG, o que não se consegue sem o implemento de diversas medidas fáticas, tais como levantamento planimétrico, que demandam ingresso no imóvel, do que se infere exercício da posse. Ademais, constato a existência ao ensejo da invasão de contratos com terceiros que abrangiam toda a área do loteamento, inclusive a em discussão, para terraplanagem e implementação da infraestrutura, fato que evidencia de maneira inafastável a posse, já que são condutas fáticas. Por fim, aprova testemunhal denotou o exercício da posse como se pode abstrair das oitivas colhidas.
+ ..  No que toca o esbulho, o mesmo é evidente, pois houve a invasão, fato denotado pelo boletim de ocorrência, pelas declarações de funcionários da parte autora - vigias do imóvel - que atestaram a invasão, pelas fotos juntadas aos autos que demonstraram a existência de faixa que apontava ser o imóvel de propriedade particular, a qual a parte ré retirou, jogando-a no chão e, por fim, pela própria narrativa da parte ré que sustenta até hoje ser a invasão ato escorreito e legitimo, pelo que implicitamente reconhece seu advento, pelo que resta comprovado o esbulho.
+ ..  Friso que a alegação de justo título eriçada pela parte ré não pode ser acolhida, pois comprovado pela prova pericial que a aquisição do naco de terras por ela aduzida refere-se a imóvel diverso dos lotes objeto do pedido exordial, quanto aos quais não possui qualquer direito.
+ ..  Relativamente ao pedido de indenização formulado pela parte ré acerca das benfeitorias erigidas, entendo que não se pode acolhê-lo. Desse modo me posiciono, pois a edificação dessas operou-se de má-fé, já que a parte ré, quando do ingresso no imóvel o fez de maneira violenta, tendo encontrado resistência da parte autora, o que defluiu, inclusive, na lavratura de B. O. e na propositura da ação, sendo certo que os lotes quanto o advento do esbulho se tratava de lotes nus, enfim, sem edificação. Assim, sabia que os imóveis eram litigiosos, o que afasta sua boa-fé quanto ao advento das benfeitorias. Logo, a parte ré somente faz jus a indenização das benfeitorias necessárias, art. 1.220 do CC, qualificação na qual as que foram por ela edificadas não se enquadram, pois se revelam como úteis, já que se tratavam de cômodo e barracão inacabados, como certificado pelo meirinho do juízo na certidão de reintegração de posse:
+A Corte local concluiu expressamente pela comprovação da posse anterior da autora, pela ocorrência do esbulho e pela má-fé possessória da parte recorrente, com fundamento inclusive em prova testemunhal, documental e pericial.
+Além disso, o esbulho praticado pelo agravante  bem como sua data  foi devidamente constatado por meio de boletim de ocorrência, fotografias e depoimentos de funcionários. A tese de "justo título" suscitada pelo Sindicato também foi afastada na origem, pois a prova pericial atestou que o terreno por ele adquirido corresponde a imóvel diverso dos lotes objeto da presente lide possessória.
+Por fim, quanto ao pedido de indenização pelas benfeitorias, a Corte estadual concluiu que a posse do Sindicato ocorreu de má-fé, resultante de ingresso violento em imóveis que sabia serem litigiosos (lotes nus). Sendo a posse de má-fé, o art. 1.220 do CC assegura apenas o ressarcimento das benfeitorias necessárias.
+Nesse contexto, modificar as conclusões do acórdão recorrido  seja para afastar o esbulho, deixar de reconhecer a posse anterior da agravada ou declarar a boa-fé do Sindicato para fins de indenização  demandaria reexame do conjunto fático-probatório dos autos, providência vedada no âmbito desta Corte, nos termos da Súmula n. 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como a concessão da gratuidade da justiça.
+Publique-se e intimem-se.
+EMENTA
