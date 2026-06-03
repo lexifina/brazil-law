@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOSE LUCIANO COELHO, LUCIANA RIOS COELHO e LUPAL LUCIANO PAPEIS LTDA - ME contra decisão que inadmitiu seu recurso especial, fundamentado no art. 105, inciso III, "a", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"DIREITO PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. PEDIDO DE REVISÃO DE CLÁUSULAS CONTRATUAIS E DE ABUSIVIDADE NA COBRANÇA DE ENCARGOS. PERÍCIA ATESTA REGULARIDADE. DESPROVIMENTO.
+I. CASO EM EXAME Apelação interposta por empresa devedora e seus sócios contra sentença que julgou procedente ação monitória proposta por cooperativa de crédito, convertendo o mandado de pagamento em título executivo judicial.
+II. QUESTÃO EM DISCUSSÃO Há duas questões em discussão: (1) saber se os apelantes fazem jus ao benefício da justiça gratuita; e (2) saber se a cobrança realizada pela cooperativa credora é abusiva em razão da capitalização indevida de juros e da aplicação de taxa superior à média de mercado.
+III. RAZÕES DE DECIDIR Demonstrada a hipossuficiência econômica da pessoa jurídica e das pessoas físicas recorrentes, é cabível a concessão da gratuidade de justiça com efeitos ex nunc, conforme art. 98, § 5º, do CPC. A perícia técnica atestou que não houve capitalização de juros, tampouco cobrança cumulativa de encargos, sendo aplicados juros simples de 1% ao mês e correção monetária, nos moldes convencionados. Inexistindo indícios ou documentos que infirmem a legitimidade da dívida, mantém-se hígida a presunção de veracidade dos documentos apresentados pela parte autora, que não foi afastada pela parte ré.
+IV. DISPOSITIVO E TESE Recurso conhecido e desprovido. Tese de julgamento: "É legítima a cobrança de dívida baseada em cédula de crédito bancário quando demonstrado, por perícia, que não houve capitalização indevida de juros nem aplicação de encargos abusivos."
+Dispositivos relevantes citados: CF/1988, art. 5º, LXXIV; CPC, arts. 98, §§ 3º e 5º, 99, §3º.
+Jurisprudência relevante citada: STF, AgRg no REsp 1447791/SP, j. 14.08.2014; STJ, Súmula 481; TJMG, Agravo de Instrumento 1.0000.22.198374-5/001, j. 17.02.2023." (e-STJ, fls. 1143)
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 1185-1190).
+Em seu recurso especial, a parte recorrente alega violação dos seguintes dispositivos da legislação federal, com as respectivas teses:
+(i) arts. 489, §1º, inciso IV, e 1.022, inciso II, do Código de Processo Civil, pois teria havido omissão e ausência de fundamentação específica no acórdão recorrido, com negativa de prestação jurisdicional ao não enfrentar argumentos sobre capitalização de juros e aplicação de taxa acima da média de mercado;
+(ii) art. 479 do Código de Processo Civil e art. 4º, inciso IX, da Lei 4.595/1964, pois o acórdão teria desconsiderado, sem fundamento idôneo, a demonstração de anatocismo e de juros remuneratórios superiores à média de mercado, contrariando regras de apreciação da prova técnica e de disciplina do sistema financeiro;
+(iii) arts. 6º, inciso V, e 51, inciso IV, do Código de Defesa do Consumidor, pois teriam sido mantidas cláusulas e encargos abusivos, impondo vantagem excessiva ao fornecedor, o que justificaria a revisão contratual e a limitação de juros aos parâmetros de mercado.
+Foram ofertadas contrarrazões (e-STJ, fls. 1.232-1.240).
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+É o Relatório. Passo a decidir.
+O recurso não prospera.
+De início, é indevido conjecturar acerca de deficiência de fundamentação ou da existência de omissão, de obscuridade ou de contradição na decisão apenas por ter sido proferida em desconformidade com os interesses da parte. No mesmo sentido: AgInt no AREsp 1621374/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/06/2020, DJe 25/06/2020; AgInt no AREsp 1595385/MT, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/06/2020, DJe 12/06/2020; AgInt no AgInt no AREsp 1598925/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 11/05/2020, DJe 25/05/2020; AgInt nos EDcl no REsp 1812571/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/03/2020, DJe 16/03/2020; AgInt no AREsp 1534532/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 08/06/2020, DJe 15/06/2020; AgInt nos EDcl no AREsp 1374195/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/05/2020, DJe 25/05/2020.
+A controvérsia no presente recurso especial versa sobre a validade dos encargos cobrados em ação monitória fundada em cédula de crédito bancário para desconto de títulos, em que os recorrentes sustentam a ocorrência de capitalização de juros sem pactuação expressa e a fixação de juros remuneratórios em patamar superior à média de mercado.
+Entretanto, o acórdão recorrido, apoiado em perícia contábil, conclui pela regularidade da cobrança, afirmando a incidência de juros simples de 1% ao mês e correção monetária, sem anatocismo ou cumulação indevida de encargos, o que motivou a manutenção da sentença de procedência (e-STJ, fls. 1.152-1.157):
+"Cinge-se a controvérsia recursal em aferir o acerto da decisão, que nos autos da Ação Monitória movida por Cooperativa de Crédito de Livre Admissão da Região Central e Oeste de Mineiro Ltda. (Sicoob Divicred) em desfavor de Lupal Luciano Papéis Ltda. - ME, Luciana Rios Coelho e José Luciano Coelho julgou procedente os pedidos iniciais.
+(..)
+Restou incontroverso nos autos a existência de relação comercial entre as partes oriunda da emissão de Cédula de Crédito Bancário para desconto de títulos objeto da ação, bem como evidente a ausência de pagamento do débito por parte do devedor, ora apelante.
+Assim, provado em princípio o substrato constitutivo do direito de crédito, transfere-se à embargante/apelante o ônus de desconstituí- lo, comprovando a ocorrência de fato modificativo, extintivo ou impeditivo, nos termos do artigo 333, inciso II do CPC/73.
+Nos embargos à monitória apresentados à ordem 7/8, os embargantes alegaram em síntese: i) a abusividade da taxa de juros remuneratórios cobrada pela Apelada, e a possibilidade de sua limitação à 12% ao ano, ou à taxa média de mercado; ii) a ausência da expressa pactuação quanto aos juros remuneratórios; e iii) a impossibilidade da cumulação da comissão de permanência com juros remuneratórios e demais encargos.
+Insta salientar neste ponto que a parte embargante não cuidou de provar a existência do suposto abusividade do contrato celebrado.
+Em resumo, a alegação da existência de incidência de juros abusivos e capitalizados não veio acompanhada de informativos e indícios convergentes a sugerir a verossimilhança das alegações trazidas pela parte ré.
+Mais uma vez, dentro desse cenário, as provas produzidas pela apelante não se mostram suficientes a derruir a presunção de que goza os documentos que instruem a inicial, notadamente diante da prova pericial produzida no feito.
+Consoante bem explanado pelo juízo primevo, "As provas instrumentalizadas nos autos, notadamente o laudo pericial (ID 9795949101) e o complemento apresentado pelo expert após a apresentação de novos documentos pelas partes rés (ID 10087402808), comprovam a legitimidade e adequação do crédito perseguido pela parte autora. Resumidamente, extrai-se do laudo pericial que, após a revisão minuciosa da documentação que fundamentou as cobranças pela parte autora, não foram localizados comprovantes de pagamento dos títulos e a composição dos valores foi realizada com a aplicação de correção monetária e juros de mora conforme convencionado no título obrigacional, não tendo havido aplicação cumulativa de juros com outros encargos.".
+A conclusão do lado técnico pericial contábil foi categórica ao afirmar que inexistência das alegadas cobranças indevidas de juros remuneratórios abusivos e capitalizados (ordem 76):
+"( ) 6) Verifica-se na cobrança a presença de capitalização dos juros, ou seja, do anatocismo
+Resposta: Não houve.
+7) Houve, nos cálculos da cobrança, flutuação das taxas e encargos financeiros  Em que patamar  Qual a fórmula aplicada  Em que se fundamentou tal flutuação
+"Resposta: Não houve, somente ocorreu atualização monetária  juros de 1%a.m. de mora de forma simples.
+8) Não existe quesito
+9) Expurgando-se a capitalização de juros, cumulativamente entre estes, taxas, encargos etc, e aplicados juros de 1%a.m., qual seria a real dívida do requerido
+Resposta: Não houve cumulação e a taxa foi de 1%a.m. de forma simples."
+10) Expurgando-se a capitalização de juros cumulativamente entre estes, taxas, encargos etc, e aplicada a taxa SELIC, qual seira a real dívida do Requerido
+Resposta: A dívida na data do ajuizamento era de R$367.227,27 conforme a inicial. Não foi cobrada nenhuma taxa do devedor, apenas ocorreu juros de 1%a.m. conforme o TJMG corrige e de forma simples."( )
+CONCLUSÃO
+O perito informa ao Juízo que se trata empréstimo bancário na modalidade desconto de títulos. Não foi verificada nenhuma irregularidade nos títulos apresentados e sua correção foi de atualização monetária e juros de 1%a.m. na data do ajuizamento da ação. ( )"
+Desse modo, considerando que a parte embargante/apelante se manteve apenas no campo das alegações, sem qualquer elemento de comprovação, legítima a cobrança dos débitos que alicerçam a monitória.
+Dessa forma, é de se entender que a prova trazida aos autos não foi capaz de afastar o direito de recebimento do crédito, sendo tais documentos hábeis para embasar o procedimento monitório.
+(..)
+Feitas tais considerações, NEGO PROVIMENTO AO RECURSO e confirmo integralmente a sentença vergastada."
+Desse modo, é inviável o conhecimento da pretensão recursal principal, porque a revisão do acórdão recorrido não prescindiria do reexame fático-probatório dos autos, providência manifestamente proibida nesta instância, nos termos da Súmula 7/STJ.
+Diante do exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios devidos pela parte recorrente em 10% sobre o valor já fixado na origem, observados os limites do § 2º, do referido dispositivo e suspensa a exigibilidade em caso de prévio deferimento da gratuidade de justiça.
+Publique-se.
+EMENTA
