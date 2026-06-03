@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial, interposto por BRAZILIAN PET FOODS LICENSEE LTDA, fundado no art. 105, III, "a" e "c" da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ, fls. 773/779):
+AGRAVO DE INSTRUMENTO - AÇÃO DE ABSTENÇÃO DE USO DE MARCA - TUTELA ANTECIPADA DE URGÊNCIA - REVOGAÇÃO INDEVIDA - REQUISITOS PREENCHIDOS - LITIGÂNCIA MÁ-FÉ - NÃO COMPROVADA - DECISÃO MANTIDA. - Além da própria urgência em si, para deferir-se a tutela, liminarmente, pressupõe-se a existência de elementos que evidenciem a probabilidade do direito, o perigo de dano ou risco ao resultado útil do processo, conforme dispõe o art. 300 do CPC. Presentes os requisitos, a manutenção do deferimento da tutela provisória de urgência se impõe. - Se não restou comprovado nos autos, de forma clara e induvidosa, que a parte recorrida adotou conduta maliciosa ou desleal em relação ao processo, não há falar-se em sua condenação em litigância de má-fé.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 817/821).
+Em seu recurso especial, o recorrente alega violação dos seguintes dispositivos da legislação federal, com as respectivas teses:
+(i) art. 1.022, II, do CPC, pois teria havido negativa de prestação jurisdicional, uma vez que o acórdão não teria enfrentado, mesmo após embargos de declaração, argumento essencial sobre a marca "Péddy", que seria própria da recorrente e não abrangida pelo contrato de licenciamento, exigindo análise individualizada da tutela inibitória.
+O recurso recebeu crivo negativo de admissibilidade na origem, ascendendo a esta Corte Superior por meio da interposição de agravo.
+É o relatório.
+Passo a decidir.
+De pronto, acerca da alegada afronta ao artigo 1.022, II do CPC/2015, esclarece-se que não houve ofensa ao citado dispositivo, uma vez que o acórdão analisou a questão essencial ao deslinde da controvérsia e está fundamentado nas circunstâncias inerentes aos autos.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+É possível notar que o decisum recorrido expressamente se manifestou, no acórdão que julgou os embargos de declaração, a respeito da validade da cláusula resolutiva do contrato de licenciamento das marcas, bem como, sobre a impossibilidade de análise da questão da legalidade da cessão de todas as marcas, sob pe na de supressão de instância. De fato, divisam-se os seguintes fundamentos extraídos do acórdão recorrido, litteris (e-STJ, fl. 819):
+"No caso concreto, a alegada omissão sobre a marca "PÉDDY" não subsiste. O acórdão embargado examinou de forma suficiente a validade da cláusula resolutiva expressa do contrato de licenciamento de marcas, cujo inadimplemento foi reconhecido, fundamentando a manutenção da tutela deferida para todas as marcas, inclusive para a referida.
+A conclusão do acórdão (de que a resolução contratual operou de pleno direito, nos termos do art. 474 do Código Civil) abrange todas as consequências da perda do direito de uso, independentemente de menção nominal individualizada a cada marca.
+Noutro giro, quanto à alegação de invalidades no negócio jurídico de cessão das marcas à autora da ação originária, o acórdão embargado expressamente consignou a impossibilidade de apreciação do tema em grau recursal, por configurar indevida supressão de instância, uma vez que o juízo de origem não se pronunciou sobre tais argumentos"
+Dessa forma, o Tribunal estadual dirimiu as questões pertinentes ao litígio de forma suficientemente ampla, clara e fundamentada, motivo pelo qual não se verifica a ofensa aos artigos 489 e 1.022 do CPC/15.
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AÇÃO DE INDENIZAÇÃO. FALHA NA PRESTAÇÃO DE SERVIÇO MÉDICO-HOSPITALAR. CIRURGIA ORTOGNÁTICA. CIRURGIÕES DENTISTAS. RESPONSABILIDADE CIVIL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. CULPA DE TERCEIRO. NÃO COMPROVAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS.
+INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DANOS MORAIS. "QUANTUM" INDENIZATÓRIO. REEXAME DO CONJUNTO FÁTICOPROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. AUSÊNCIA DE MANDATO. FALTA DE PREQUESTIONAMENTO. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+(..)
+9. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.195.469/MG, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 29/5/2023, DJe de 3/7/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. COTEJO ANALÍTICO NÃO REALIZADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. DENUNCIAÇÃO À LIDE. NÃO OBRIGATORIEDADE. SÚMULA 83/STJ. COMPRA E VENDA. RESTITUIÇÃO AO STATUS QUO. SÚMULA 83/STJ. OFENSA AOS ARTS. 489 E 1.022 DO CPC NÃO VERIFICADA. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+1. Decisão agravada reconsiderada. Novo exame do feito.
+2. A parte não procedeu ao necessário cotejo analítico, uma vez que falhou em demonstrar a similitude fático-jurídica dos casos, pois a simples transcrição de ementa não é suficiente para suprir esse requisito.
+3. A mera citação de dispositivo legal, sem a expressa indicação e demonstração de ofensa, atrai a incidência da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+4. O Código de Processo Civil de 2015 não prevê a obrigatoriedade da denunciação da lide em nenhuma de suas hipóteses. Ao contrário, assegura o exercício do direito de regresso por ação autônoma quando indeferida, não promovida ou proibida. Incidência da Súmula 83/STJ.
+5. Resolvido o contrato de promessa de compra e venda de imóvel por inadimplemento do vendedor, é cabível a restituição das partes ao status quoante, com a devolução integral dos valores pagos pelo comprador. Incidência da Súmula 83/STJ.
+6. O Tribunal de origem se manifestou de forma fundamentada sobre os tópicos que considerou pertinentes para a resolução da lide, de forma que não há que se falar em ofensa aos arts. 489, § 1º, IV e § 3º, e 1.022, I, II e III, do CPC/2015.
+7. Agravo interno provido para, em nova decisão, conhecer do agravo a fim de conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+(AgInt no AREsp n. 2.278.439/SP, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 22/5/2023, DJe de 25/5/2023.)
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial
+Publique-se.
+EMENTA
