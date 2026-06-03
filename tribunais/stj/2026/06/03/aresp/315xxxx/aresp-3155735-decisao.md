@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LUCIANO SIMAS contra a decisão do Tribunal de Justiça do Estado de Santa Catarina que inadmitiu recurso especial apresentado contra o acórdão exarado no julgamento da Apelação Criminal n. 5002402-06.2020.8.24.0072/SC (fls. 303/308).
+O Ministério Público Federal apresentou parecer opinando pelo conhecimento e desprovimento do agravo (fls. 375/378).
+É o relatório.
+O agravo é inadmissível.
+A decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos, inclusive de forma específica, suficiente e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula 182/STJ (AgRg nos EDcl no AREsp n. 2.985.942/MA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/9/2025, DJEN de 25/9/2025).
+Ao que se observa, o Tribunal de origem inadmitiu o apelo nobre pelos seguintes fundamentos: 1) ausência de prequestionamento, com incidência das Súmulas 282 e 356 do Supremo Tribunal Federal; e 2) prejudicialidade do dissídio jurisprudencial, ante a existência de óbice processual que impediu o conhecimento pela alínea a, conforme orientação do Superior Tribunal de Justiça (AgRg nos EDcl no AREsp n. 2.065.313/SP).
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a íntegra da decisão de inadmissão.
+Em relação ao prequestionamento, a parte agravante limitou-se a afirmar, em termos genéricos, que a formalidade não pode se sobrepor à justiça material e que houve prequestionamento implícito - alegando que, ao manter a condenação e a pena, o Tribunal a quo teria chancelado a interpretação dos arts. 64, I, e 65, III, d, do Código Penal -, sem indicar as folhas do acórdão recorrido em que se debateu a aplicação do art. 64, I, nem demonstrar a oposição de embargos de declaração para fins de prequestionamento ficto. As assertivas são genéricas e não enfrentam concretamente o óbice das Súmulas 282 e 356 do Supremo Tribunal Federal.
+No que toca à prejudicialidade do dissídio, sustentou apenas que, "superado o óbice processual indevidamente invocado", deveria prosseguir o exame da divergência, sem enfrentar a ratio do precedente citado na decisão agravada (AgRg nos EDcl no AREsp n. 2.065.313/SP), nem demonstrar, com argumentos concretos, a efetiva superação dos óbices da alínea a que destrancariam a análise da alínea c.
+Por conseguinte, aplica-se, à hipótese dos autos, o art. 932, inciso III, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, e a Súmula 182/STJ por analogia.
+Ante o exposto, em juízo monocrático, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DECISÃO DE INADMISSIBILIDADE SEM CAPÍTULOS AUTÔNOMOS. NECESSIDADE DE IMPUGNAÇÃO ESPECÍFICA E INTEGRAL. SÚMULA 182/STJ POR ANALOGIA. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO PELA NÃO SUPERAÇÃO DO ÓBICE DA ALÍNEA A. INSURGÊNCIA GENÉRICA. NÃO INDICAÇÃO DE TRECHOS DO ACÓRDÃO. INADEQUAÇÃO DA VIA.
+Agravo em recurso especial não conhecido.
