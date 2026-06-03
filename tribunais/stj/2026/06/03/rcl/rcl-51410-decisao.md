@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de reclamação constitucional, com pedido de liminar, ajuizada por COLEPAV AMBIENTAL LTDA, alegando que o d. Juízo da frente à decisão do d. Juízo de Direito da 2ª Vara Cível de Campinas/SP, declarando que o "eg. Superior Tribunal de Justiça concedeu excepcional efeito suspensivo ao recurso de Agravo de Instrumento de autos nº 2339176-05.2025.8.26.0000, e portanto, como toda exceção, deve ser interpretado estritamente. Diversamente do alegado, o Egrégio Superior Tribunal de Justiça não afastou a falência da Colepav" (Grifou-se, na fl. 37).
+Alega a reclamante que a assinalada decisão, negou autoridade à decisão do Superior Tribunal de Justiça, desta relatoria, que deferiu "a liminar pleiteada, em menor extensão efeito suspensivo ao (agravo) recurso especial em curso perante o eg. Tribunal de origem (recurso especial interposto no Agravo de Instrumento nº. 2339176-05.2025.8.26.0000), apenas para até ulterior deliberação destaobstar a lacração do estabelecimento da requerente, Corte Superior. Veda-se, por outro lado, a alienação de quaisquer ativos, a alteração societária, ou a prática de quaisquer atos que possam prejudicar a coletividade de credores em caso de eventual falência, impondo-se a indisponibilidade de bens" (na fl. 26).
+Requer, em sede de pedido liminar, "o recebimento e processamento da presente reclamação, determinando-se liminarmente ao D. Juízo Reclamado, nos termos do art. 989, II do CPC, que cumpra a R. Decisão proferida por Vossa Excelência, mantendo-se suspensa a decisão de extensão dos efeitos da falência para a Reclamante, proferida na falência nº 1002304-98.2023.8.26.0114, até definitivo julgamento do recurso especial ao qual foi deferido efeito suspensivo por esse D. Ministro Relator, dando-se efetivo cumprimento à determinação de Vossa Excelência, para que seja determinado" (na fl. 15).
+É o relatório.
+Passo a decidir.
+A reclamação deve ser indeferida liminarmente.
+Com efeito, não está caracterizada negativa de autoridade de decisão desta Corte.
+Com efeito, como a decisão cautelar desta Corte não proibiu a continuidade dos atos tendentes à decretação, assim como à continuidade do processo de falência, a contrario sensu, permitiu que o d. Juízo Universal continuasse a processar o processo de falência.
+Deveras, ao contrário do alegado, o que esta Corte vedou foi "a prática de quaisquer atos que possam prejudicar a coletividade de credores" (na fl. 26).
+Ante o exposto, com fundamento no art. 932, VIII, do Código de Processo Civil e no art. 34, XVIII, "a", do RISTJ, indefiro liminarmente a Reclamação.
+Publique-se.
+EMENTA
