@@ -1,0 +1,41 @@
+Decisão
+
+Trata-se de Recurso Ordinário interposto contra acórdão da Quinta Turma do Superior Tribunal de Justiça, proferido no julgamento do Agravo Regimental no HC 931.326/ES, submetido à relatoria do Ministro  JOEL ILAN PACIORNIK.
+Consta dos autos, em síntese, que o paciente foi condenado à pena de 2 anos e 9 meses de reclusão, em regime fechado, pela prática do crime de tráfico de drogas. Registra-se a apreensão de “26 (vinte e seis) pedras de 'crack' e 12 (doze) papelotes de cocaína”.
+Após o trânsito em julgado da condenação, a defesa ajuizou Revisão Criminal no Tribunal de Justiça do Estado do Espírito Santo, que a julgou improcedente.
+Impetrou-se, então, Habeas Corpus, no Superior Tribunal de Justiça, não conhecido pelo Ministro Relator. Interposto Agravo Regimental, a Quinta Turma decidiu nos termos da seguinte ementa:
+
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO DE DROGAS. ALEGAÇÃO DE NULIDADE DE PROVA. AUSÊNCIA DE ELEMENTOS CONTUNDENTES PARA DESCONSTITUIR A COISA JULGADA. REVISÃO CRIMINAL JULGADA IMPROCEDENTE. REVOLVIMENTO FÁTICOPROBATÓRIO. INCABÍVEL NA VIA ESTREITA DO HABEAS CORPUS. PRECLUSÃO. AGRAVO DESPROVIDO
+[...]
+
+Neste Recurso Ordinário, requer-se a concessão da ordem “para declarar a nulidade absoluta de todas as provas derivadas do atendimento ilícito do celular e da invasão domiciliar noturna; e a reforma da decisão para determinar a absolvição imediata do paciente”.
+É o relatório. Decido.
+
+No presente caso, o Superior Tribunal de Justiça afastou as alegações reiteradas neste recurso nos seguintes termos:
+
+[...] o julgado do Tribunal de origem consignou: “Deve ser ressaltado que a defesa não logrou êxito em demonstrar que o corréu José não autorizou os policiais a atender o telefone ou a escutarem a conversa travada com o requerente [paciente] Valtiney, que voluntariamente falou que queria encontrar com José para transacionarem entorpecentes”. (...) O próprio requerente afirmou para os policiais que possuía mais entorpecentes em sua residência, anuindo com a entrada deles em sua casa”.
+Neste ponto, consta, na sentença, que a testemunha Hélio Ângelo de Oliveira disse que ‘tomou conhecimento através do policial Porto, que uma das vezes que o telefone do acusado José tocou a chamada era do telefone do acusado Valtiney, que solicitava uma corrida de táxi e a troca de crack por “pó”, que quando chegaram a uma bar e choperia o acusado Valtiney estava em companhia de Weberton e Weverton; que esteve na residência do acusando Valtiney participando das buscas, tendo sido encontrado no interior das mesmas, pedras de crack e papelotes de cocaína’.
+Fato é que, do relatado por tal testemunha, não se pode dizer que o fundamento trazido no acórdão é insuficiente para repelir a tese defensiva. Isto porque a defesa, em sede de revisão criminal, realmente não conseguiu demonstrar que ‘o corréu José não autorizou os policiais a atender o telefone ou a escutarem a conversa travada com o requerente Valtiney’. Aliás, pelo que consta, este último, ‘voluntariamente falou que queria encontrar com José para transacionarem entorpecentes’.
+[...]
+Quanto à suscitada violação de domicílio, tem-se que foi repelida pelo acórdão, como visto, com a seguinte motivação: “infere-se dos autos que se tratou de prisão em flagrante, o próprio requerente afirmou para os policiais que possuía mais entorpecentes em sua residência, anuindo com a entrada deles em sua casa”.
+Além disto, é dos autos que o paciente já havia afirmado a José que era para ele se dirigir ‘ao bar e Chopperia no bairro Laranjeiras levando 'crack' para trocar por pó’. No próprio desmembramento da ocorrência, o paciente teria admitido aos policiais a existência do entorpecente em sua residência e, como consignado, anuído com o ingresso dos milicianos no imóvel.
+Ora, tal assertiva não foi objeto de contraprova, ou seja, não foram trazidos elementos seguros a desconstituir a coisa julgada no sentido de que a autorização não teria sido concedida pelo ora paciente. Ao revés, frise-se, ao que consta no julgado impugnado, é que o paciente teria ‘anuído com a entrada’ dos policiais em sua casa.
+Para arrematar, tendo o Tribunal a quo, soberano na análise dos fatos e das provas, concluído que a busca e apreensão realizada no domicílio do réu decorreu de ação legítima, assim como as demais diligências que a antecederam, a inversão do julgado, tal qual pretende o paciente, exigiria o revolvimento de todo o material cognitivo produzido nos autos e apresentado na Corte revisora, o que não se amolda ao rito do writ, que, dada a cognição sumária, não admite dilação probatória.
+
+Verifica-se que os questionamentos relacionados à abordagem e à suposta violação dos direitos previstos na legislação processual penal foram examinados e refutados pela instância antecedente com base no contexto fático em que se deu a prisão em flagrante. Assim, qualquer conclusão em sentido diverso implicaria a necessidade de investigar as circunstâncias em que teria ocorrido o alegado constrangimento, providência incompatível com esta via processual (cf. HC 127287, Rel. Min. MARCO AURÉLIO, Redator p/ Acórdão: Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 25/4/2018; HC 136.622-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 17/2/2017; HC 135.748, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 13/2/2017; HC 135.956, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 28/11/2016; HC 134.445-AgR, Rel. Min. EDSON FACHIN, Primeira Turma, DJe de 27/9/2016).
+Além disso, os atos impugnados neste recurso somente foram trazidos “ao debate pela defesa em etapa posterior ao trânsito em julgado da condenação, já em fase de revisão criminal, o que indica a ocorrência da preclusão”. Com razão, portanto, o Superior Tribunal de Justiça ao concluir que:
+
+Outra motivação a ser analisada reside na ausência de arguição de nulidade durante toda a fase de conhecimento até que se operou a coisa julgada.
+Evidentemente, se havia nulidade da espécie invocada pela defesa não é crível que não tivesse sido invocada em nenhuma das oportunidades que se pronunciou nos autos.
+O acórdão assim destacou: “A nulidade não foi arguida em nenhum momento da instrução, não consta pedido de nulidade em suas alegações finais que constam das fls. 150/151, nem nos memoriais que constam das fls. 167/174 e nem houve debate acerca do tema na sentença que consta das fls. 153/166. Igualmente, não houve debate sobre invasão de domicílio na fase recursal, e a presente tese somente foi trazida ao debate pela defesa em etapa posterior ao trânsito em julgado da condenação, já em fase de revisão criminal, o que indica a ocorrência da preclusão”.
+Realmente corresponde ao que consta dos autos que, até mesmo após a prolação da sentença, no caso em apreço, não houve nem sequer a interposição de recurso de apelação pela defesa e, portanto, nenhuma nulidade fora aventada.
+
+A propósito, a jurisprudência desta CORTE estabelece que a matéria “não suscitada no momento oportuno é impassível de ser arguida por meio de Habeas Corpus, instrumento jurídico inábil para descaracterizar a preclusão consumativa” (HC 135002 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 11/5/2017). No mesmo sentido: HC 102077, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 1º/4/2014; HC 102597, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJ 10/9/2010; HC 147867 AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe de 17/10/2018; HC 133476, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 27/6/2016; RHC 130270, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 12/8/2016; RHC 86085, Rel. Min. CARLOS BRITTO, Primeira Turma, DJ 31/3/2006; RHC 107758, Rel. Min. LUIZ FUX, Primeira Turma, DJ 28/9/2011.
+Em conclusão, diante da inviabilidade de revolvimento probatório nesta via processual, da ausência de insurgência da defesa no momento oportuno e do fato de que a responsabilidade penal do paciente — transitada em julgado — foi amplamente examinada pelas instâncias ordinárias, não se evidencia qualquer constrangimento ilegal a ser sanado.
+Diante do exposto, com fundamento no art. 21, §1º, do Regimento Interno do STF, NEGO PROVIMENTO ao Recurso Ordinário.
+Publique-se.
+Brasília, 3 de junho de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
