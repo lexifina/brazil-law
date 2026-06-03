@@ -1,0 +1,58 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de AILTON CHAVES GALVAO em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL assim ementado:
+DIREITO PENAL. AGRAVO EM EXECUÇÃO. PRISÃO DOMICILIAR HUMANITÁRIA. CARDIOPATIA ISQUÊMICA. HIPERTENSÃO ARTERIAL SISTÊMICA. DISTÚRBIO VENTILATÓRIO. AUSÊNCIA DE COMPROVAÇÃO DE IMPOSSIBILIDADE DE TRATAMENTO NO ESTABELECIMENTO PRISIONAL. HISTÓRICO DE REITERAÇÃO DELITIVA. NECESSIDADE DE NOVA PERÍCIA MÉDICA. RECURSO PARCIALMENTE PROVIDO.
+I. CASO EM EXAME:
+1. Agravo em execução interposto contra decisão que indeferiu pedido de prisão domiciliar humanitária formulado pelo apenado, condenado à pena de 18 anos, 1 mês e 5 dias de reclusão, em regime fechado, pela prática de delitos de posse irregular de arma de fogo de uso permitido (02 incidências), porte ilegal de arma de fogo de uso permitido (02 incidências), resistência e tráfico de drogas (03 incidências).
+II. QUESTÃO EM DISCUSSÃO:
+1. A questão em discussão consiste na possibilidade de concessão de prisão domiciliar humanitária ao apenado portador de Cardiopatia Isquêmica, com histórico de Infarto Agudo do Miocárdio, Hipertensão Arterial Sistêmica resistente e Distúrbio Ventilatório Combinado Moderado.
+III. RAZÕES DE DECIDIR:
+1. A prisão domiciliar humanitária constitui medida excepcional no ordenamento jurídico brasileiro, sendo concedida quando o estado de saúde do apenado é incompatível com a manutenção no estabelecimento prisional e o Estado não possui condições de prover a assistência médica adequada.
+2. Para a concessão da prisão domiciliar humanitária fora das hipóteses legais, é necessário o preenchimento de dois requisitos cumulativos: comprovação de doença grave que não possa ser tratada no estabelecimento prisional e demonstração de que a permanência no cárcere representa risco concreto e iminente à vida ou à saúde do apenado.
+3. O laudo médico apresentado pela defesa, embora ateste a existência de condições de saúde que demandam cuidados, não é conclusivo quanto à impossibilidade absoluta de manutenção do apenado no sistema prisional, especialmente considerando que o estabelecimento conta com serviço médico regular.
+4. O Presídio Estadual de Santiago possui atendimento médico semanal, com profissional capacitada para identificar situações de risco e encaminhar o preso para atendimento especializado quando necessário.
+5. O apenado, quando em gozo de benefícios externos, tem reiteradamente se envolvido em práticas delitivas, demonstrando a ausência de senso de responsabilidade e a autodisciplina necessários para a manutenção da benesse, tornando-a incompatível com a finalidade da pena.
+6. Considerando a natureza das patologias que acometem o apenado e o tempo decorrido desde a última avaliação médica completa (cerca de 08 meses), prudente a realização de nova perícia médica para avaliar o atual estado de saúde do agravante e a adequação do tratamento oferecido no estabelecimento prisional.
+IV. DISPOSITIVO E TESE:
+1. Recurso parcialmente provido para determinar a realização de nova perícia médica, a ser realizada por médico cardiologista, no prazo de 30 dias, a fim de avaliar o atual estado de saúde do agravante, a adequação do tratamento oferecido no estabelecimento prisional e a eventual necessidade de medidas adicionais para garantir a preservação de sua saúde, mantendo-se, por ora, o indeferimento da prisão domiciliar humanitária.
+Tese de julgamento: 1. A concessão de prisão domiciliar humanitária exige comprovação inequívoca da impossibilidade de tratamento adequado no estabelecimento prisional, não bastando a mera existência de doença grave, especialmente quando o apenado demonstra comportamento incompatível com o benefício ao reincidir em práticas delitivas durante o gozo de benefícios externos.
+Consta dos autos que foi indeferido o pedido de prisão domiciliar humanitária, tendo sido determinado a realização de nova perícia médica por especialista em cardiologia, no prazo de trinta dias.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, pois o paciente deve ter assegurado o direito ao cumprimento da pena em prisão domiciliar para evitar o agravamento do seu estado de saúde, tendo em vista que "o paciente é portador de Cardiopatia Isquêmica severa (CID I25), com sequela de Infarto Agudo do Miocárdio (CID I21.9)  Hipertensão Arterial Sistêmica resistente e Distúrbio Ventilatório Combinado Moderado", devendo, portando, cumprir a pena em prisão domiciliar para resguardar a saúde e a vida diante de quadro clínico grave e da impossibilidade de tratamento adequado no estabelecimento prisional.
+Alega que há doença cardíaca severa e risco de morte súbita, apontados em laudos e atestados médicos, e que não há condições de acompanhamento cardiológico contínuo no presídio, circunstâncias que tornam incompatível a manutenção no cárcere.
+Argumenta que não existe nos autos parecer técnico afirmando a suficiência da estrutura médica do estabelecimento prisional para o monitoramento de urgência ou para evitar agravamento do quadro em caso de nova crise aguda.
+Defende que a determinação de nova perícia, sem assegurar a prisão domiciliar, perpetua o constrangimento ilegal diante do risco iminente e do caráter excepcional e humanitário da medida pleiteada.
+Requer, em suma, a concessão da prisão domiciliar humanitária, com monitoramento eletrônico.
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do Voto condutor do acórdão impugnado a seguinte fundamentação quanto à controvérsia apresentada:
+No caso dos autos, o apenado é portador de Cardiopatia Isquêmica (CID I25), com histórico de Infarto Agudo do Miocárdio (CID I21.9) ocorrido em fevereiro de 2024, além de Hipertensão Arterial Sistêmica resistente e Distúrbio Ventilatório Combinado Moderado.
+Embora a gravidade do diagnóstico tenha fundamentado a prisão domiciliar em outubro de 2025, inexiste prova inequívoca de que seja inviável a manutenção do tratamento no estabelecimento prisional.
+Pelo contrário, como bem fundamentou o juízo "a quo":
+(..)
+O Presídio Estadual de Santiago, onde o apenado se encontra recolhido, possui atendimento médico semanal, com profissional capacitada para identificar situações de risco e encaminhar o preso para atendimento especializado, quando necessário.
+Ademais, não há comprovação inequívoca de que o estado de saúde do apenado seja absolutamente incompatível com a permanência no estabelecimento prisional, ou que o sistema de saúde disponível não seja capaz de atender às suas necessidades médicas básicas e, em caso de emergência, providenciar o encaminhamento adequado.
+O laudo médico apresentado pela Defesa, embora ateste a existência de condições de saúde que demandam cuidados, não é conclusivo quanto à impossibilidade absoluta de manutenção do apenado no sistema prisional, especialmente considerando que o estabelecimento conta com serviço médico regular.
+Para além disso, o recorrente, quando cumpria pena em regime de prisão domiciliar concedida no ano passado, envolveu-se em novas práticas delitivas, o que revela uma aparente contradição: a condição de saúde que supostamente o incapacita para o regime fechado não impediu, a priori, a reiteração delitiva.
+Tal comportamento demonstra que o recorrente não possui o senso de responsabilidade e a autodisciplina necessários para a manutenção da benesse, tornando-a incompatível com a finalidade da pena.
+Contudo, considerando a natureza das patologias que acometem o apenado, especialmente a cardiopatia isquêmica com histórico recente de infarto agudo do miocárdio, bem como o tempo decorrido desde a última avaliação médica completa (cerca de 08 meses), reputo prudente a realização de nova perícia médica para avaliar o atual estado de saúde do agravante e a adequação do tratamento oferecido no estabelecimento prisional (fls. 11-12).
+Esse entendimento está de acordo com a jurisprudência firmada nesta Corte de que a prisão domiciliar humanitária poderá ser concedida ao apenado desde que comprovado que está acometido de moléstia grave e que no estabelecimento penal não há a assistência médica necessária ao tratamento adequado de sua saúde, o que não é o caso dos autos segundo se extrai do trecho acima transcrito.
+Ademais, para afastar os fundamentos adotados na origem a fim de justificar o indeferimento do pedido de prisão domiciliar seria necessário o revolvimento fático-probatório dos autos, o que não é cabível na via estreita do Habeas Corpus.
+Nesse sentido, vale citar os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR HUMANITÁRIA. GRAVE ESTADO DE SAÚDE E INEXISTÊNCIA DE TRATAMENTO ADEQUADO NA UNIDADE PRISIONAL. AUSÊNCIA DE COMPROVAÇÃO. REEXAME FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Consoante orientação desta Corte Superior, em regra, a concessão de prisão domiciliar só é admitida em favor de preso inserido no regime aberto, nos termos do art. 117 da Lei de Execução Penal - LEP.
+2. Contudo, quando ficar comprovado que o recluso é acometido por doença grave, com debilidade acentuada de sua saúde, e que o tratamento médico necessário não pode ser prestado no ambiente prisional, admite-se, de forma excepcional, a colocação em prisão domiciliar de presos dos regimes fechado ou semiaberto.
+3. Na hipótese dos autos, as instâncias ordinárias destacaram que o paciente está tendo o tratamento adequado no estabelecimento prisional. Para afastar essa conclusão, é necessário o revolvimento do conjunto fático-probatório, providência incompatível com a estreita via do habeas corpus.
+4. Agravo regimental desprovido. (AgRg no HC n. 801.974/AL, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 16.8.2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. APENADO FORAGIDO. IDOSO. DOENÇA. COVID-19. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O agravante encontra-se foragido, não tendo sequer dado início ao cumprimento da pena no regime semiaberto, cuja alegada ausência de vaga não fora comprovada nos autos.
+2. A idade avançada e as doenças apresentadas pelo agravante não autorizam a concessão automática da prisão domiciliar, devendo ser levado em consideração diversos aspectos relacionados ao apenado, à pena, à situação de risco e às medidas tomadas pelo poder público.
+3. Inexiste flagrante ilegalidade no indeferimento do pedido de prisão domiciliar pelo juízo da execução penal, o qual possui maiores condições de avaliar a real urgência e imprescindibilidade da medida em questão, ressaltando-se, ainda, a impossibilidade de reexame aprofundado do conjunto fático-probatório em habeas corpus.
+4. O agravante foi condenado por delito hediondo, atraindo a incidência do art. 5-A da Recomendação n. 62/2020 do CNJ.
+5. Agravo regimental desprovido. (AgRg no HC n. 800.902/RJ, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 31.3.2023.)
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
