@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MARCELLA KAROLAYNE OLIVEIRA GOMES, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, em decorrência do julgamento do habeas corpus criminal n. 1.0000.26.081753-1/000.
+Consta nos autos que a paciente foi presa temporariamente em 22/08/2025 pela suposta prática dos crimes capitulados no art. 157, § 2º e § 2º-A e art. 288, ambos do Código Penal. Posteriormente, em 20/10/2025 sua prisão foi convertida em preventiva.
+O habeas corpus foi julgado pelo Tribunal de Justiça do Estado de Minas Gerais, que denegou a ordem (fls. 20-29).
+Na presente impetração, a defesa sustenta a ocorrência de excesso de prazo na formação da culpa. Argumenta que, tratando-se de réu preso, a duração razoável do processo, à luz dos prazos previstos no Código de Processo Penal, não deveria ultrapassar aproximadamente 135 dias até a prolação da sentença.
+Declara, ainda, a insuficiência da mera reavaliação periódica da prisão preventiva (art. 316, parágrafo único, do Código de Processo Penal) como fundamento para afastar o excesso de prazo, por se tratar de instituto diverso da garantia constitucional da duração razoável do processo. A decisão que revalidou a custódia limitou-se a reiterar a medida extrema sem apresentar fundamentação concreta e contemporânea, em afronta ao dever de motivação imposto pelo art. 93, IX, da Constituição Federal, bem como aos requisitos dos arts. 312 e 313 do Código de Processo Penal.
+Requer, ao final, o relaxamento da prisão, ou subsidiariamente sua substituição por medidas cautelares diversas.
+Liminar indeferida às fls. 55-56.
+Informações prestadas às fls. 65-68.
+O Ministério Público Federal, às fls. 70-74, manifestou-se pela denegação da ordem.
+É o relatório. DECIDO.
+Na presente hipótese, extrai-se dos autos que a paciente foi presa temporariamente em 22/08/2025, em razão da suposta prática dos crimes previstos no art. 157, § 2º e § 2º-A e 288, ambos do Código Penal., tendo a custódia sido convertida em preventiva no dia 20/10/2025, tendo a denúncia sido recebida em 21/10/2025.
+Em que pese o fato da acusada estar recolhida preventivamente desde outobro de 2025, destacou o acórdão recorrido que "apura-se a suposta prática de roubo majorado, em concurso de agentes, envolvendo qautro denunciados, em contexto fático que aponta para maior complexidade para a formação da culpa - fl. 27.
+Consignando, ainda, que "a necessidade de manutenção da prisão preventiva foi reavaliada em 22/01/2026. Embora a defesa sustente excesso de prazo, não se extrai, dos elementos trazidos a estes autos, paralização indevida ou inércia injustificada do juízo - fl. 27.
+Vale destacar que a corte de origem não utilizou a reavaliação periódica da prisão preventiva (art. 316, parágrafo único, do CPP) como fundamento para afastar o alegado excesso de prazo. Ao contrário, limitou-se a enfatizar que o processo não se encontra estagnado, demonstrando a prática de atos processuais sucessivos compatíveis com o devido andamento da ação penal.
+Ressalte-se que a ação penal tramita com regularidade sem qualquer elemento que evidenciasse a desídia do aparelho judiciário na condução do feito, o que não permite a conclusão, ao menos por ora, da configuração de constrangimento ilegal passível de ser sanado pela presente via.
+A propósito, esta Corte, firmou jurisprudência no sentido de se considerar o juízo de razoabilidade para eventual constatação de constrangimento ilegal ao direito de locomoção decorrente de excesso de prazo, levando-se em consideração as circunstâncias do caso concreto, com a complexidade da causa e quaisquer outros fatores que possam influir na tramitação da ação penal ou do inquérito, e que não só do tempo da prisão cautelar.
+Sobre o tema:
+"A aferição de excesso de prazo na formação da culpa demanda a aplicação do princípio da razoabilidade. Constatado que a tramitação processual segue dentro dos limites da razoabilidade, sem inércia ou desídia do Poder Judiciário, estando o processo em curso regular, com a prática dos atos necessários à elucidação dos fatos, não há falar em constrangimento ilegal por excesso de prazo" (AgRg no HC n. 1.034.384/PE, relator Ministro Carlos Pires Brandão, Sexta Turma, DJEN de 28/11/2025.)
+"Eventual constrangimento ilegal por excesso de prazo não se apura por critério aritmético, mas à luz da razoabilidade e proporcionalidade, consideradas as peculiaridades do caso"(AgRg no RHC n. 224.193/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 27/11/2025.)
+Nesse sentido: AgRg no HC n. 898.465/SC, de minha relatoria, Quinta Turma, DJe de 16/8/2024; AgRg no RHC n. 197.279/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 16/8/2024 e AgRg no HC n. 915.504/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 15/8/2024.
+Por fim, a corte de origem salientou que, diante das circunstâncias concretas do fato e do papel, em tese, desempenhado pela acusada na prática delitiva, não se mostra cabível a substituição da custódia preventiva por medidas cautelares diversas - fl. 28.
+Com efeito, não há que se cogitar da aplicação de medidas cautelares diversas da prisão quando os autos revelam elementos suficientes a justificar a manutenção da custódia cautelar do acusado.
+Sobre o tema:
+"As condições pessoais favoráveis do agente não são suficientes, isoladamente, para afastar a custódia cautelar, e a gravidade concreta dos fatos demonstra a insuficiência das medidas alternativas do art. 319 do CPP" (AgRg no HC n. 1.047.066/SP, relator Ministro Carlos Pires Brandão, Sexta Turma, DJEN de 16/12/2025.)
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o e xposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
