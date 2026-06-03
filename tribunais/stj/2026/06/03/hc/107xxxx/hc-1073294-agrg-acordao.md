@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 28/05/2026 a 03/06/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. AUSÊNCIA DE EXAURIMENTO DE INSTÂNCIA. HABEAS CORPUS CONTRA DECISÃO MONOCRÁTICA PROFERIDA EM TRIBUNAL DE ORIGEM. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL FLAGRANTE. INADEQUAÇÃO DA VIA ELEITA. AGRAVO REGIMENTAL IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente habeas corpus por ausência de exaurimento de instância, ao fundamento de que a decisão impugnada na origem foi proferida monocraticamente por Desembargador relator, sem deliberação do órgão colegiado do Tribunal.
+2. A agravante sustenta que, ao tempo da nova impetração, a instância inferior já se encontrava exaurida, por inexistir recurso viável, configurando constrangimento ilegal implícito decorrente do não conhecimento do habeas corpus pelo Tribunal de origem e da consequente impossibilidade de suscitar a matéria em instância superior.
+3. No mérito, a agravante aponta: (i) ilegalidade na declaração de incompetência do Tribunal de Justiça para julgar habeas corpus impetrado contra ato de Promotor de Justiça que requisitou inquérito policial e ofereceu acordo de não persecução penal; e (ii) ilegalidade na manutenção de persecução penal e de oferta de acordo de não persecução penal relativamente a fato reputado atípico (peculato-uso), pleiteando, em última análise, o trancamento do inquérito policial e o arquivamento dos autos.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o Superior Tribunal de Justiça pode conhecer de habeas corpus impetrado contra decisão monocrática de Desembargador relator, sem prévia manifestação do órgão colegiado do Tribunal de origem, à vista da alegação de exaurimento de instância e de constrangimento ilegal implícito.
+5. Há, ainda, questão correlata quanto a saber se a requisição de instauração de inquérito policial e a oferta de acordo de não persecução penal, desacompanhadas de decisão judicial que imponha medida restritiva, configuram constrangimento ilegal à liberdade de locomoção apto a justificar o conhecimento excepcional do habeas corpus por este Tribunal Superior.
+III. Razões de decidir
+6. O Superior Tribunal de Justiça possui jurisprudência consolidada no sentido de que sua competência para examinar habeas corpus, nos termos do art. 105, I, "c", da Constituição Federal, apenas se inaugura após decisão colegiada do Tribunal de origem, impondo-se o exaurimento prévio da instância ordinária.
+7. A impugnação de decisão monocrática proferida em Tribunal local deve, em regra, ser veiculada mediante recurso interno adequado, em especial agravo regimental, de modo a possibilitar a apreciação da controvérsia pelo órgão colegiado, sob pena de indevida supressão de instância.
+8. No caso concreto, não há demonstração de que a decisão monocrática tenha sido submetida ao colegiado do Tribunal de origem, nem se evidencia a inexistência de recurso hábil a provocar tal deliberação, de modo que não se verifica o exaurimento da instância ordinária alegado pela agravante.
+9. As teses suscitadas, referentes à alegada incompetência do Tribunal de Justiça para apreciar habeas corpus impetrado contra ato do Ministério Público e à suposta atipicidade da conduta investigada, demandam exame prévio e aprofundado pelas instâncias ordinárias, não se configurando constrangimento ilegal flagrante que autorize a superação, de forma excepcional, do óbice do não exaurimento.
+10. A requisição de instauração de inquérito policial e a oferta de acordo de não persecução penal, desacompanhadas de decisão judicial que imponha medida restritiva à liberdade, não caracterizam, por si sós, constrição ilegal à liberdade de locomoção, o que reforça a inadequação do habeas corpus como via imediata para o exame das alegações deduzidas.
+11. Inexistindo exaurimento de instância e ausente situação excepcional de manifesta teratologia ou ilegalidade flagrante, impõe-se a manutenção da decisão que não conheceu do habeas corpus.
+IV. Dispositivo e tese
+12. Resultado do Julgamento: Agravo regimental improvido.
+RELATÓRIO
+Cuida-se de agravo regimental interposto por SILVIA MARIA TOLONI MARANHO, contra decisão de fls. 510-511, que indeferiu liminarmente o habeas corpus, por ausência de exaurimento de instância, ao fundamento de que a decisão impugnada, na origem, foi proferida monocraticamente pelo Desembargador relator, sem deliberação colegiada do Tribunal.
+Sustenta a parte agravante que, ao tempo da nova impetração, a instância inferior já se encontrava exaurida, por inexistir recurso viável, caracterizando-se constrangimento ilegal implícito decorrente do não conhecimento do habeas corpus pelo Tribunal de origem e da consequente vedação de suscitar a matéria em instância superior.
+No mérito, aponta duas ilegalidad es: (i) a declaração de incompetência do TJPR para julgar habeas corpus impetrado contra ato do Promotor de Justiça de Cianorte/PR - autoridade que requisitou inquérito e ofereceu acordo de não persecução penal (ANPP) - ao entender que a competência seria da primeira instância; e (ii) a manutenção de persecução penal e de oferta de ANPP sobre fato que reputa atípico (peculato-uso), confundido com peculato-desvio, em afronta à jurisprudência que reconhece a atipicidade do uso eventual de veículo público para fim particular.
+Requer o provimento do agravo regimental para reformar a decisão agravada, afastar o óbice de conhecimento e conceder a ordem de habeas corpus, com a medida liminar consistente em suspender todos os atos do Inquérito n. 0001904-50.2025.8.16.0069, inclusive a homologação do ANPP, e, ao final, confirmar a liminar para trancar o inquérito policial por atipicidade do fato (peculato-uso), determinando seu arquivamento.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. AUSÊNCIA DE EXAURIMENTO DE INSTÂNCIA. HABEAS CORPUS CONTRA DECISÃO MONOCRÁTICA PROFERIDA EM TRIBUNAL DE ORIGEM. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL FLAGRANTE. INADEQUAÇÃO DA VIA ELEITA. AGRAVO REGIMENTAL IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente habeas corpus por ausência de exaurimento de instância, ao fundamento de que a decisão impugnada na origem foi proferida monocraticamente por Desembargador relator, sem deliberação do órgão colegiado do Tribunal.
+2. A agravante sustenta que, ao tempo da nova impetração, a instância inferior já se encontrava exaurida, por inexistir recurso viável, configurando constrangimento ilegal implícito decorrente do não conhecimento do habeas corpus pelo Tribunal de origem e da consequente impossibilidade de suscitar a matéria em instância superior.
+3. No mérito, a agravante aponta: (i) ilegalidade na declaração de incompetência do Tribunal de Justiça para julgar habeas corpus impetrado contra ato de Promotor de Justiça que requisitou inquérito policial e ofereceu acordo de não persecução penal; e (ii) ilegalidade na manutenção de persecução penal e de oferta de acordo de não persecução penal relativamente a fato reputado atípico (peculato-uso), pleiteando, em última análise, o trancamento do inquérito policial e o arquivamento dos autos.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o Superior Tribunal de Justiça pode conhecer de habeas corpus impetrado contra decisão monocrática de Desembargador relator, sem prévia manifestação do órgão colegiado do Tribunal de origem, à vista da alegação de exaurimento de instância e de constrangimento ilegal implícito.
+5. Há, ainda, questão correlata quanto a saber se a requisição de instauração de inquérito policial e a oferta de acordo de não persecução penal, desacompanhadas de decisão judicial que imponha medida restritiva, configuram constrangimento ilegal à liberdade de locomoção apto a justificar o conhecimento excepcional do habeas corpus por este Tribunal Superior.
+III. Razões de decidir
+6. O Superior Tribunal de Justiça possui jurisprudência consolidada no sentido de que sua competência para examinar habeas corpus, nos termos do art. 105, I, "c", da Constituição Federal, apenas se inaugura após decisão colegiada do Tribunal de origem, impondo-se o exaurimento prévio da instância ordinária.
+7. A impugnação de decisão monocrática proferida em Tribunal local deve, em regra, ser veiculada mediante recurso interno adequado, em especial agravo regimental, de modo a possibilitar a apreciação da controvérsia pelo órgão colegiado, sob pena de indevida supressão de instância.
+8. No caso concreto, não há demonstração de que a decisão monocrática tenha sido submetida ao colegiado do Tribunal de origem, nem se evidencia a inexistência de recurso hábil a provocar tal deliberação, de modo que não se verifica o exaurimento da instância ordinária alegado pela agravante.
+9. As teses suscitadas, referentes à alegada incompetência do Tribunal de Justiça para apreciar habeas corpus impetrado contra ato do Ministério Público e à suposta atipicidade da conduta investigada, demandam exame prévio e aprofundado pelas instâncias ordinárias, não se configurando constrangimento ilegal flagrante que autorize a superação, de forma excepcional, do óbice do não exaurimento.
+10. A requisição de instauração de inquérito policial e a oferta de acordo de não persecução penal, desacompanhadas de decisão judicial que imponha medida restritiva à liberdade, não caracterizam, por si sós, constrição ilegal à liberdade de locomoção, o que reforça a inadequação do habeas corpus como via imediata para o exame das alegações deduzidas.
+11. Inexistindo exaurimento de instância e ausente situação excepcional de manifesta teratologia ou ilegalidade flagrante, impõe-se a manutenção da decisão que não conheceu do habeas corpus.
+IV. Dispositivo e tese
+12. Resultado do Julgamento: Agravo regimental improvido.
+VOTO
+Conforme consignado na decisão agravada (fls. 510-511), o habeas corpus não foi conhecido em razão da ausência de exaurimento da instância de origem, porquanto a decisão impugnada foi proferida monocraticamente pelo Desembargador relator, sem submissão ao órgão colegiado competente.
+Com efeito, a jurisprudência desta Corte é firme no sentido de que não compete ao Superior Tribunal de Justiça apreciar, originariamente, matéria que não foi previamente submetida ao crivo do colegiado do Tribunal de origem, sob pena de indevida supressão de instância. Nessa linha, a impugnação de decisão monocrática proferida no Tribunal local deve ser, em regra, veiculada por meio do recurso cabível na própria instância  notadamente o agravo regimental  , a fim de viabilizar a análise da controvérsia pelo órgão colegiado.
+A propósito:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. REVISÃO CRIMINAL. EXAURIMENTO DE INSTÂNCIA. RECURSO IMPROVIDO.
+ ..
+III. Razões de decidir
+5. A jurisprudência consolidada do Superior Tribunal de Justiça estabelece que a competência para examinar habeas corpus, nos termos do art. 105, I, "c", da Constituição Federal, somente se inaugura após decisão colegiada do tribunal de origem, exigindo-se o exaurimento prévio da instância ordinária.
+6. O agravo regimental não apresentou argumentos capazes de afastar os fundamentos da decisão atacada, que se alinha à jurisprudência consolidada do Superior Tribunal de Justiça.
+IV. Dispositivo e tese
+7. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. A competência do Superior Tribunal de Justiça para examinar habeas corpus somente se inaugura após decisão colegiada do tribunal de origem, com o exaurimento prévio da instância ordinária.
+Dispositivos relevantes citados: CF/1988, art. 105, I, "c".
+Jurisprudência relevante citada: STJ, AgRg no HC 891.469/PI, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 05.03.2024; STJ, AgRg no HC 840.269/SP, Rel. Min. Jesuíno Rissato, Sexta Turma, julgado em 11.09.2023.
+(AgRg no HC n. 1.016.061/SP, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 29/10/2025, DJEN de 5/11/2025.)
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME MILITAR. ORGANIZAÇÃO CRIMINOSA. INDEFERIMENTO IN LIMINE. HABEAS CORPUS CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADOR RELATOR. NÃO EXAURIMENTO DE INSTÂNCIA. PEDIDO DE EXTENSÃO DE BENEFÍCIO CONCEDIDO PELO TRIBUNAL DE ORIGEM. INCOMPETÊNCIA DESTA CORTE SUPERIOR. AUSÊNCIA DE TERATOLOGIA. OMISSÃO NÃO CONFIGURADA. REDISCUSSÃO DO JULGADO. IMPOSSIBILIDADE.
+ ..
+2. Não cabe habeas corpus contra decisão monocrática de desembargador relator, porquanto ausente manifestação colegiada do órgão de origem, pendente o esgotamento da instância a quo.
+ ..
+(EDcl no AgRg no HC n. 707.767/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/3/2022, DJe de 4/4/2022.)
+No caso, não há demonstração de que a decisão monocrática tenha sido submetida ao colegiado, tampouco se evidencia a inexistência de recurso hábil a provocar tal deliberação. A alegação da agravante no sentido de que a instância estaria exaurida não encontra respaldo nos autos, porquanto persistia a possibilidade de interposição de recurso interno apto a submeter a matéria ao Tribunal de origem.
+Ademais, não se verifica hipótese excepcional que autorize a superação do referido óbice. As teses veiculadas  relativas, de um lado, à alegada incompetência do Tribunal de Justiça para apreciar habeas corpus impetrado contra ato do Ministério Público e, de outro, à suposta atipicidade da conduta investigada  demandam exame mais aprofundado e prévio pelas instâncias ordinárias, não se evidenciando, de plano, constrangimento ilegal flagrante que justifique a atuação imediata desta Corte.
+Ressalte-se, ainda, que a requisição de instauração de inquérito policial e a oferta de acordo de não persecução penal não configuram, por si sós, constrição ilegal à liberdade de locomoção, circunstância que reforça a inadequação da via eleita para o exame imediato das alegações.
+Diante desse contexto, deve ser mantida a decisão agravada que não conheceu do habeas corpus por ausência de exaurimento da instância de origem.
+Pelo exposto, nego provimento ao agravo regimental.
+É o voto.
