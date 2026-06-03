@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 28/05/2026 a 03/06/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Marluce Caldas, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental. Habeas corpus impetrado em substituição à revisão criminal. Tráfico de drogas. Causa especial de diminuição de pena do art. 33, § 4º, da Lei 11.343/2006. Ausência de ilegalidade flagrante. Agravo desprovido.
+I. Caso em exame
+1. O recurso. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus impetrado contra acórdão de Tribunal de Justiça estadual, por ter sido manejado como sucedâneo de revisão criminal após o trânsito em julgado da condenação por tráfico de drogas (art. 33, caput, da Lei 11.343/2006). 2. Fato relevante. No agravo, sustenta-se a possibilidade de concessão da ordem de ofício, sob alegação de erro material na quantidade de droga considerada na sentença e no acórdão, o que teria afastado indevidamente a incidência do tráfico privilegiado (art. 33, § 4º, da Lei 11.343/2006), com pedidos de redimensionamento da pena, fixação de regime inicial aberto e substituição por restritivas de direitos. 3. As decisões anteriores. Sentença condenatória mantida em apelação com alteração apenas do regime para o semiaberto; após o trânsito em julgado, o habeas corpus não foi conhecido.
+II. Questão em discussão
+4. Há duas questões em discussão: (i) saber se é possível o conhecimento de habeas corpus impetrado em substituição à revisão criminal, após o trânsito em julgado da condenação; e (ii) saber se há ilegalidade flagrante apta a autorizar concessão de ordem de ofício, em razão de suposto erro material na quantidade de droga e da negativa da causa especial de diminuição de pena do art. 33, § 4º, da Lei 11.343/2006 pelas instâncias ordinárias. 5. A questão em discussão consiste em definir se os fundamentos adotados pelas instâncias originárias, soberanas na análise de fatos e provas, afastando o tráfico privilegiado, podem ser revistos na via estreita do habeas corpus, especialmente sob o argumento de erro material na quantificação da droga.
+III. Razões de decidir
+6. O habeas corpus não pode ser utilizado como sucedâneo de revisão criminal, conforme orientação jurisprudencial consolidada, sendo incabível seu manejo após o trânsito em julgado para pretensão de índole revisional. 7. Inexistente ilegalidade flagrante no acórdão impugnado, pois as instâncias ordinárias, soberanas na análise de fatos e provas, concluíram pela ausência dos requisitos autorizadores da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/2006. 8. A alegação de erro material na quantidade de droga, como fundamento para reconhecimento do tráfico privilegiado e readequação da pena, demanda reexame de fatos e provas, providência incompatível com a via estreita do habeas corpus. 9. Mantém-se a decisão monocrática pelos seus próprios fundamentos, diante da inadequação da via eleita e da ausência de constrangimento ilegal evidente.
+IV. Dispositivo e tese
+6. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. O habeas corpus não se presta a substituir a revisão criminal após o trânsito em julgado da condenação. 2. A concessão de ordem de ofício pressupõe ilegalidade flagrante, não configurada quando as instâncias ordinárias afastam o tráfico privilegiado com base em fatos e provas. 3. O reconhecimento da causa especial de diminuição do art. 33, § 4º, da Lei 11.343/2006 demanda exame probatório, inviável na via do habeas corpus.Dispositivos relevantes citados:
+Lei 11.343/2006, art. 33, § 4º
+Jurisprudência relevante citada:STJ, AgRg no HC 861.867/SC, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 02.09.2024, DJe 06.09.2024
+RELATÓRIO
+Trata-se de agravo regimental (fls. 742-802) interposto por WANDERSON ALVES LIMA contra a decisão monocrática (fls. 736-738) que não conheceu do habeas corpus impetrado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO .
+Consta dos autos que o agravante foi inicialmente condenado pelo Juízo da 6ª Vara Criminal da Comarca de Campinas à pena de 5 (cinco) anos de reclusão, em regime inicial fechado, além de 500 (quinhentos) dias-multa, por infração ao artigo 33, caput, da Lei n. 11.343/2006, conforme a sentença de fls. 620-630.
+A defesa apelou ao Tribunal de Justiça do Estado de São Paulo, que deu parcial provimento ao recurso, para alterar o regime de cumprimento de pena para o semiaberto, mantendo-se, no mais, a sentença, nos termos do acórdão de fls. 23-77.
+Operado o trânsito em julgado, sobreveio a impetração de habeas corpus, em substituição a revisão criminal, objetivando a concessão da ordem para (i) reconhecer a causa de diminuição de pena prevista no artigo 33, § 4º da Lei n. 11.343/2006, com aplicação da fração máxima; (ii) redimensionar a pena e fixar o regime inicial aberto; e (iii) substituir a pena privativa de liberdade por restritivas de direitos (fls. 3-22).
+O habeas corpus não foi conhecido (fls. 736-738).
+No regimental, o agravante defende a possibilidade da concessão da ordem de ofício, argumentando que houve erro material quanto à quantidade de droga considerada na sentença e no acórdão, resultando no afastamento da incidência do tráfico privilegiado.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Habeas corpus impetrado em substituição à revisão criminal. Tráfico de drogas. Causa especial de diminuição de pena do art. 33, § 4º, da Lei 11.343/2006. Ausência de ilegalidade flagrante. Agravo desprovido.
+I. Caso em exame
+1. O recurso. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus impetrado contra acórdão de Tribunal de Justiça estadual, por ter sido manejado como sucedâneo de revisão criminal após o trânsito em julgado da condenação por tráfico de drogas (art. 33, caput, da Lei 11.343/2006). 2. Fato relevante. No agravo, sustenta-se a possibilidade de concessão da ordem de ofício, sob alegação de erro material na quantidade de droga considerada na sentença e no acórdão, o que teria afastado indevidamente a incidência do tráfico privilegiado (art. 33, § 4º, da Lei 11.343/2006), com pedidos de redimensionamento da pena, fixação de regime inicial aberto e substituição por restritivas de direitos. 3. As decisões anteriores. Sentença condenatória mantida em apelação com alteração apenas do regime para o semiaberto; após o trânsito em julgado, o habeas corpus não foi conhecido.
+II. Questão em discussão
+4. Há duas questões em discussão: (i) saber se é possível o conhecimento de habeas corpus impetrado em substituição à revisão criminal, após o trânsito em julgado da condenação; e (ii) saber se há ilegalidade flagrante apta a autorizar concessão de ordem de ofício, em razão de suposto erro material na quantidade de droga e da negativa da causa especial de diminuição de pena do art. 33, § 4º, da Lei 11.343/2006 pelas instâncias ordinárias. 5. A questão em discussão consiste em definir se os fundamentos adotados pelas instâncias originárias, soberanas na análise de fatos e provas, afastando o tráfico privilegiado, podem ser revistos na via estreita do habeas corpus, especialmente sob o argumento de erro material na quantificação da droga.
+III. Razões de decidir
+6. O habeas corpus não pode ser utilizado como sucedâneo de revisão criminal, conforme orientação jurisprudencial consolidada, sendo incabível seu manejo após o trânsito em julgado para pretensão de índole revisional. 7. Inexistente ilegalidade flagrante no acórdão impugnado, pois as instâncias ordinárias, soberanas na análise de fatos e provas, concluíram pela ausência dos requisitos autorizadores da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/2006. 8. A alegação de erro material na quantidade de droga, como fundamento para reconhecimento do tráfico privilegiado e readequação da pena, demanda reexame de fatos e provas, providência incompatível com a via estreita do habeas corpus. 9. Mantém-se a decisão monocrática pelos seus próprios fundamentos, diante da inadequação da via eleita e da ausência de constrangimento ilegal evidente.
+IV. Dispositivo e tese
+6. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. O habeas corpus não se presta a substituir a revisão criminal após o trânsito em julgado da condenação. 2. A concessão de ordem de ofício pressupõe ilegalidade flagrante, não configurada quando as instâncias ordinárias afastam o tráfico privilegiado com base em fatos e provas. 3. O reconhecimento da causa especial de diminuição do art. 33, § 4º, da Lei 11.343/2006 demanda exame probatório, inviável na via do habeas corpus.Dispositivos relevantes citados:
+Lei 11.343/2006, art. 33, § 4º
+Jurisprudência relevante citada:STJ, AgRg no HC 861.867/SC, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 02.09.2024, DJe 06.09.2024
+VOTO
+Como relatado, o agravante verbera que houve erro material quanto à quantidade de droga considerada na sentença e no acórdão, resultando no afastamento da incidência do tráfico privilegiado, autorizando a concessão da ordem de ofício.
+Como assinalado na decisão agravada, o habeas corpus não foi conhecido por ter sido manejado em substituição à revisão criminal, em alinhamento com a jurisprudência do Superior Tribunal de Justiça. Nesse sentido:
+ ..
+1. Na hipótese, a condenação transitou em julgado em 31/5/2023. Dessa forma, o presente writ seria sucedâneo de revisão criminal, sendo esta Corte incompetente para o processamento do pleito revisional.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 861.867/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024.)
+Demais disso, não vislumbrei a presença de ilegalidade flagrante no acórdão impugnado (fls. 228-233), porquanto as instâncias originárias, soberanas na análise de fatos e provas, concluiu não estaremos presentes os requisitos autorizadores da causa especial de diminuição de pena prevista no artigo 33, § 4º da Lei n. 11.343/2006.
+Assim, deve a decisão monocrática ser mantida pelos seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
