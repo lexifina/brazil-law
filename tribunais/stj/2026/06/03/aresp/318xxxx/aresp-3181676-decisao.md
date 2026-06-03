@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por DENEMILSON JESUS DA SILVA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que inadmitiu o recurso especial.
+Consta dos autos que o agravante foi condenado, em primeira instância, à pena de 1 (um) ano e 8 (oito) meses de reclusão, em regime semiaberto, e ao pagamento de 8 (oito) dias-multa, como incurso no art. 155, § 4º, incisos I e II, combinado com o art. 14, inciso II, ambos do Código Penal.
+O Tribunal de Justiça de Minas Gerais negou provimento ao recurso de apelação, mantendo as qualificadoras de escalada e rompimento de obstáculo  comprovadas exclusivamente por prova oral  bem como a fração mínima de 1/3 (um terço) na redução da pena pela tentativa.
+No recurso especial, a defesa sustentou violação aos arts. 1º, 14, inciso II e parágrafo único, 59, 155, § 4º, incisos I e II, do CP, e aos arts. 158, 167 e 386, i nciso II, do CPP, pugnando pelo afastamento das qualificadoras, ante a ausência de laudo pericial, e pela elevação da fração da tentativa ao patamar de 2/3, diante do exíguo iter criminis percorrido pelo agente.
+O recurso foi inadmitido na origem pela incidência das Súmulas n. 7 e 83 do STJ (fls. 677-679).
+Sobreveio o presente agravo, no qual a defesa sustenta que não há reexame de provas, mas mera revaloração de fatos incontroversos, e que a orientação do TJMG diverge da jurisprudência atual desta Corte (fls. 689-700).
+O Ministério Público Federal manifestou-se pelo conhecimento do agravo e pelo provimento do recurso especial (fls. 749-755).
+É o relatório. DECIDO.
+Tendo em vista os argumentos apresentados pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+No que tange às peculiaridades do furto qualificado pelo rompimento de obstáculo e pela escalada, a Terceira Seção desta Corte Superior, no julgamento do AgRg nos EREsp n. 2.147.760/SC, firmou o entendimento de que, em situações excepcionais, admite-se que a materialidade das qualificadoras previstas no art. 155, § 4º, incisos I e II, do Código Penal possa ser comprovada por outros meios de prova distintos do exame pericial direto.
+Essa possibilidade se verifica quando os elementos probatórios disponíveis nos autos forem suficientemente robustos para demonstrar de forma inequívoca a escalada ou o rompimento de obstáculo, sendo esta a hipótese dos autos, em que há o relato da vítima e testemunha.
+Nesse sentido:
+DIREITO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO. ROMPIMENTO DE OBSTÁCULO. AUSÊNCIA DE PERÍCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra a decisão monocrática que negou provimento ao recurso especial, mantendo a qualificadora de rompimento de obstáculo no crime de furto, sem a realização de exame pericial.
+2. Fato relevante. O paciente foi condenado por furto qualificado, com base em prova oral e documental, sem a realização de laudo pericial para comprovar o rompimento de obstáculo.
+II. Questão em discussão
+4. A discussão consiste em saber se a qualificadora de rompimento de obstáculo pode ser mantida sem a realização de exame pericial quando comprovada por outros meios de prova incontestáveis.
+III. Razões de decidir
+5. Embora a incidência das qualificadoras previstas no art. 155, § 4º, I e II, do Código Penal dependa, em regra, da confecção de laudo pericial, em situações excepcionais, é possível reconhecê-las, mesmo sem a produção da prova técnica, se cabalmente demonstrada a escalada ou o rompimento de obstáculo por meio de outras provas.
+6. No caso, a prova oral e documental foram consideradas suficientes para comprovar o rompimento de obstáculo, conforme depoimentos convergentes da vítima, confissão da ré e imagens de monitoramento do local.
+7. A decisão monocrática está em sintonia com a jurisprudência desta Corte, que admite a manutenção da qualificadora com base em robusto conjunto probatório.
+IV. Dispositivo e tese
+8. Agravo regimental não provido.
+Tese de julgamento: "1. A qualificadora de rompimento de obstáculo pode ser mantida sem exame pericial, quando comprovada por outros meios de prova. 2. A prova oral e documental podem suprir a necessidade de laudo pericial, desde que robusta e convergente".
+Dispositivos relevantes citados: CP, art. 155, § 4º, I; CPP, arts. 158 e 167.Jurisprudência relevante citada: STJ, AgRg no HC 663.991/SC, Rel. Min. Joel Ilan Paciornik, Quinta Turma, j.
+10.05.2022; STJ, AgRg no HC 797.935/SC, Rel. Min. Laurita Vaz, Sexta Turma, j. 02.10.2023.
+(AgRg no REsp n. 2.149.357/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 5/8/2025, DJEN de 14/8/2025.)
+No caso dos autos, conforme consta do acórdão:
+"A vítima Gilney Pedro Gato, em juízo, narrou ter recebido uma ligação dos policiais, para que retornasse para casa, já que não estava no local quando o crime ocorreu. Segundo Gilney, soube que Denemilson pulou o muro e entrou na garagem, onde estava seu carro destrancado e, em seu interior, o controle, o qual foi subtraído pelo réu. Segundo o depoente, seu vizinho viu que o acusado tentava arrombar a porta da casa, momento em que impediu a entrada do criminoso efetivamente no interior da residência. Segundo a vítima soube posteriormente, por meio do seu vizinho, que o réu pulou o muro para acessar a parte externa do lote, onde estava o carro, e utilizou-se de pedaço de ferro para arrombar a porta, a qual ficou amassada.
+A testemunha ocular dos fatos, Ivo Thiago Ferreira, relatou em juízo que estava no segundo andar da casa lateral, por isso, visualizou o acusado dentro do lote vizinho, aparentemente, procurando algo. Ivo suspeitou da presença do indivíduo desconhecido, assim, contou que, após esclarecer com a proprietária da casa de onde viu os fatos que não se tratava de morador, noticiou os fatos à polícia militar. Além disso, explicou que o réu, chamado pelos policiais para sair da casa, empreendeu fuga justamente para o lote onde Ivo estava. Por fim, contou que viu Denemilson forçando a fechadura da casa da vítima, bem como pulando o muro para fugir."
+Verifico, portanto, que o acórdão recorrido se alinha à jurisprudência desta Corte Superior, o que atrai a aplicação da Súmula n. 83, STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Ressalto, a esse respeito, que o entendimento sumulado alcança não só o recurso especial fundamentado na alínea "c", mas também na alínea "a" do permissivo constitucional (AgRg no AREsp n. 2.407.873/SE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 7/11/2023, DJe de 9/11/2023).
+Por outro lado, a dosimetria da causa de diminuição relativa à tentativa deve ser proporcional ao iter criminis efetivamente percorrido pelo agente  isto é, quanto mais distante da consumação tiver sido a interrupção da conduta, maior deve ser a fração de redução aplicada, podendo variar entre 1/3 e 2/3.
+O acórdão recorrido manteve a redução no patamar mínimo de 1/3, ao argumento de que o crime esteve muito próximo da consumação, pois o agravante teria pulado o muro, subtraído o controle remoto do portão que estava dentro do veículo na garagem, e tentado arrombar a porta de acesso à residência.
+Ocorre que, reanalisando os fatos incontroversos descritos no próprio acórdão  sem necessidade de qualquer incursão probatória adicional  , constata-se que o agravante foi abordado antes de subtrair qualquer bem situado no interior do imóvel. A conduta foi interrompida na fase inicial.
+A jurisprudência desta Corte é no sentido de que a redução mínima de 1/3 é adequada quando o agente se aproxima substancialmente da consumação, como nas hipóteses em que efetivamente ingressa no imóvel, apossa-se dos bens e é detido logo após. Na hipótese dos autos, o agravante sequer chegou a separar bens do interior da residência para subtrai-los. Tal circunstância autoriza a elevação da fração redutora, mostrando-se desproporcional a aplicação do patamar mínimo.
+Há, portanto, violação aos arts. 14, II e parágrafo único, e 59 do Código Penal, impondo-se a adequação da fração da tentativa.
+Passo a redimensionar a pena.
+Mantendo as premissas das instâncias ordinárias na primeira e segunda fases, tem-se a pena intermediária de 02 (dois) anos e 06 (seis) meses de reclusão e multa de 12 (doze) dias-multa.
+Na terceira fase, conforme fundamentação supra, diante do iter criminis percorrido, sobretudo porque os atos ficaram na fase inicial, haja vista que o réu sequer separou bens para serem furtados, com fundamento no artigo 14, inciso II, do Código Penal, reduzo a pena em seu máximo, ou seja, 2/3 (dois terços), resultando em 10 (dez) meses de reclusão, e pagamento de 04 (quatro) dias-multa, a qual torno definitiva.
+No mais, ficam mantidos os demais termos da condenação.
+Ante o exposto, conhe ço do agravo para dar parcial provimento ao recurso especial para elevar a fração de diminuição de pena para 2/3 (dois terços) pela tentativa e redimensionar a pena do réu DENEMILSON JESUS DA SILVA para 10 (dez) meses de reclusão, e pagamento de 04 (quatro) dias-multa, mantidas as demais disposições da sentença condenatória.
+Publique-se. Intimem-se.
+ EMENTA
