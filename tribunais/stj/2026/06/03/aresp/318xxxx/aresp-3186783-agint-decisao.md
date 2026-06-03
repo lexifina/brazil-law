@@ -1,0 +1,39 @@
+DECISÃO
+Diante das razões apresentadas no agravo interno de fls. 559-566, reconsidero a decisão de fls. 557-558, tornando-a sem efeito, e passo à nova análise do recurso.
+Trata-se de agravo interposto por Renne Rocha Sena contra decisão que não admitiu recurso especial manejado contra acórdão assim ementado (fls. 500):
+AGRAVO INTERNO - PESSOA FÍSICA - DECISÃO DE INDEFERIMENTO DO REQUERIMENTO DE JUSTIÇA GRATUITA - HIPOSSUFICIÊNCIA NÃO COMPROVADA. Não havendo comprovação da hipossuficiência financeira da requerente, de maneira a lhe impedir que suporte os encargos financeiros do processo enquanto mecanismo ameaçador de sua sobrevivência digna, a manutenção da decisão que indeferiu o requerimento de justiça gratuita é medida que se impõe.
+Nas razões do recurso especial, a parte recorrente alega que o acórdão do Tribunal de Justiça do Estado de Minas Gerais (TJMG) violou os arts. 98 e 99, § 2º, do Código de Processo Civil; e o art. 5º da Lei 1.060/1950 (fls. 509-518).
+Sustenta não possuir condições financeiras para arcar com as custas processuais e que o acórdão recorrido ofendeu o art. 98 do CPC ao considerar unicamente o seu vencimento como forma de manter o indeferimento da assistência judiciária gratuita.
+Defende a violação ao art. 99, § 2º, do CPC e ao art. 5º da Lei 1.060/1950, por carência de fundamentação específica no acórdão do TJMG. Aponta a ausência de indicação precisa dos elementos capazes de afastar a presunção legal de hipossuficiência econômica.
+Nas suas contrarrazões, a parte recorrida aduz que o recurso demanda a interpretação de cláusulas contratuais e o reexame de provas, com incidência das Súmulas 5 e 7 do STJ. Informa a ausência de demonstração da divergência jurisprudencial e requer a manutenção do indeferimento da justiça gratuita diante da renda declarada (fls. 522-528).
+A não admissão do recurso na origem ensejou a interposição do presente agravo.
+Na sua impugnação ao agravo, a parte agravada alega que o agravo em recurso especial pretende o reexame probatório, vedado pelas Súmulas 5 e 7 do STJ, e pleiteia o não conhecimento do recurso ou, subsidiariamente, o indeferimento da gratuidade judiciária, com a majoração dos honorários (fls. 544-549).
+Assim delimitada a controvérsia, passo à análise do recurso.
+De início, cumpre destacar que o TJMG entendeu por manter a decisão singular do Desembargador que indeferiu os benefícios da justiça gratuita ao réu, ora recorrente, sob o fundamento de que o acervo probatório dos autos afasta a alegada condição de hipossuficiência da parte.
+A propósito, confiram-se trechos do acórdão recorrido (fls. 500-505):
+Ora, conforme assinalado, a presunção de que a pessoa física não possua condições de arcar com as despesas do processo sem comprometer seu próprio sustento ou de sua família é relativa, de modo que pode o magistrado, diante das circunstâncias do caso concreto, pedir que a parte comprove a sua alegada hipossuficiência.
+No caso em análise, o recorrente foi intimado pelo juízo de origem para comprovar sua insuficiência de recursos, mas se manteve inerte.
+Conforme já apontado na decisão agravada, o apelante, ora agravante, não apresentou documentos idôneos para a comprovação de sua atual situação de hipossuficiência.
+Com efeito, a decisão que indeferiu o benefício não se baseou apenas no fato de que o requerente reside em imóvel próprio em área nobre da cidade de São Paulo/SP, mas também em sua renda mensal, cujo valor bruto supera a cifra de 15 mil reais.
+Além disso, a decisão agravada pontuou que a existência de dívidas não é suficiente, por si só, para a concessão do benefício da gratuidade de justiça, por se tratar de gestão financeira de recursos feita pela própria parte, não pode ser imputada ao Estado.
+Vale dizer que o agravante não cuidou de impugnar especificamente todos os fundamentos lançados na decisão agravada e que justificaram o indeferimento do benefício, limitando-se a afirmar que sua situação financeira atual é diversa de quando obteve o financiamento do imóvel, sem, contudo, apresentar qualquer prova de tal alegação.
+Acresça-se que o requerente teve a oportunidade de apresentar documentos comprobatórios de sua renda e despesas não apenas quando intimado pelo juízo de origem, mas também com a apelação e até mesmo o presente agravo interno, mas não carreou aos autos nenhum documento comprobatório da alegada alteração da capacidade econômica nem da impossibilidade de arcar com as despesas processuais.
+Enfim, como exposto na decisão agravada, não é possível a concessão da benesse no caso em apreço.
+Destarte, não tendo sido apresentado novos fatos/argumentos capazes de demonstrar a incapacidade financeira do agravante, deve ser mantida a decisão que indeferiu o benefício da gratuidade de justiça ao apelante.
+Segundo a jurisprudência do Superior Tribunal de Justiça, a presunção de hipossuficiência é relativa, de tal modo que o pedido de gratuidade judiciária pode ser indeferido ou revogado se houver elementos que infirmem a alegada hipossuficiência. Veja-se:
+PROCESSO CIVIL E CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA. USUCAPIÃO. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. GRATUIDADE DE JUSTIÇA. HIPOSSUFICIÊNCIA AFASTADA. ACÓRDÃO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. USUCAPIÃO. POSSE COM ANIMUS DOMINI NÃO CARACTERIZADA. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL, E NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+(..)
+2. Em se tratando de pessoa natural, há presunção juris tantum de que quem pleiteia o benefício não possui condições de arcar com as despesas do processo sem comprometer seu próprio sustento ou de sua família. Tal presunção, contudo, é relativa, podendo o magistrado indeferir ou revogar a gratuidade de justiça se encontrar elementos que infirmem a hipossuficiência do requerente. Precedentes. Súmula 83/STJ.
+(..)
+(AREsp n. 2.929.445/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 1/9/2025, DJEN de 8/9/2025.)
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. GRATUIDADE DA JUSTIÇA. PRESUNÇÃO RELATIVA. NÃO COMPROVAÇÃO DOS REQUISITOS. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA Nº 7 DO STJ. MENOR. DEFERIMENTO. PRESUNÇÃO DE HIPOSSUFICIÊNCIA. SITUAÇÃO FINANCEIRA DO GENITOR. NÃO DETERMINANTE.
+1. A presunção referida é relativa, podendo ser impugnada pela parte adversa, bem como se admitindo ao magistrado, verificados indícios em sentido contrário, determinar ao postulante a apresentação de documentos que evidenciem a referida insuficiência de recursos. Nesse caso, não comprovada a hipossuficiência, pode o magistrado indeferir ou revogar o benefício.
+(..)
+(AREsp n. 2.849.606/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 14/4/2025, DJEN de 23/4/2025.)
+Na hipótese dos autos, verifica-se que o Tribunal de Justiça do Estado de Minas Gerais indeferiu o pedido da parte recorrente. Assim, diante das peculiaridades do caso concreto e, como o Tribunal de origem decidiu de acordo com a jurisprudência do Superior Tribunal de Justiça, não há como prosperar o recurso interposto.
+Sendo assim, incide, no caso, o óbice da Súmula 83 do STJ.
+Ademais, alterar a conclusão a que chegou o TJMG, no que se refere aos elementos que indicam a hipossuficiência da parte recorrente apta a ensejar a concessão da gratuidade da justiça, demandaria, necessariamente, o reexame de fatos e provas, providência inviável em recurso especial, a teor do disposto na Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro em 5% (cinco por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
