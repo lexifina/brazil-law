@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por Cássia Aparecida Beira da Silva Levecke e Paulo Henrique Levecke, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual se insurge contra o acórdão do Tribunal de Justiça do Estado de Santa Catarina assim ementado (fl. 240):
+AMBIENTAL. "ANULATÓRIA DE AUTO DE INFRAÇÃO AMBIENTAL E LEVANTAMENTO DE EMBARGO COMBINADA COM DECLARAÇÃO DE ÁREA CONSOLIDADA". JULGAMENTO ANTECIPADO PARCIAL DO MÉRITO. BIS IN IDEM. ANULAÇÃO DA SEGUNDA AUTUAÇÃO. RECURSO DA PARTE AUTORA  COPROPRIETÁRIOS DO IMÓVEL . ADMISSIBILIDADE. PRETENSÃO DE JULGAMENTO CONJUNTO COM OUTRO RECURSO. PEDIDO PREJUDICADO. NÃO CONHECIMENTO NO PONTO. MÉRITO. PLEITO DE ANULAÇÃO DE TODAS AS AUTUAÇÕES. IMPERTINÊNCIA. DANO AMBIENTAL QUE DEVE SER AUTUADO. RESPONSABILIDADE SOLIDÁRIA DOS POLUIDORES. EXPEDIÇÃO DE DOIS AUTOS DE INFRAÇÃO PARA UM MESMO FATO GERADOR. CRITÉRIO CRONOLÓGICO. ANULAÇÃO DO SEGUNDO AUTO DE INFRAÇÃO. DECISÃO MANTIDA. RECURSO PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 279/283).
+A parte recorrente alega violação dos arts. 2, 3, 70 e 72 da Lei 9.605/1998, ao argumento de que a responsabilidade administrativa ambiental é subjetiva, exige demonstração de dolo ou culpa e individualização da conduta; sustenta que o acórdão adotou presunção de culpa in vigilando pelo simples fato de serem cônjuges e coproprietários e inverteu indevidamente o ônus da prova (fls. 293/297 e 305/308).
+Sustenta ofensa aos arts. 70 e 72 da Lei 9.605/1998, combinados com os arts. 2 e 50 da Lei 9.784/1999, afirmando nulidade ab initio das autuações por ausência de individualização da conduta e inadequação do critério cronológico para sanar vício material (fls. 297/301 e 309/311).
+Aponta violação dos arts. 3, inciso IV, e 59, § 4º, da Lei 12.651/2012 (Código Florestal), bem como do art. 1.022 do Código de Processo Civil (CPC), ao defender a moratória ambiental aplicável a área rural consolidada e a mora estatal na implementação do Cadastro Ambiental Rural (CAR) e do Programa de Regularização Ambiental (PRA), alegando omissão do Tribunal de origem em enfrentar a tese (fls. 298/301 e 311/312).
+Aduz que o acórdão afronta os arts. 489, § 1º, incisos IV, V e VI, e 926 do CPC e os arts. 20, 21 e 24 da Lei de Introdução às Normas do Direito Brasileiro (LINDB), por ausência de fundamentação qualificada, não enfrentamento de argumentos capazes de infirmar a conclusão e contradição com precedentes da própria Corte, sem distinção ou superação (fls. 301/305 e 312/314).
+Aponta violação dos arts. 7 e 9 do CPC, ao sustentar nulidade do julgamento virtual dos embargos de declaração por cerceamento de defesa, diante de pedido tempestivo de retirada de pauta para sustentação oral não observado (fls. 315/317).
+No ponto relativo ao art. 1.022 do CPC, a parte recorrente indica vícios de omissão no acórdão, por não enfrentar: a tese da moratória ambiental prevista no Código Florestal e a mora estatal na implementação do CAR/PRA; e a coerência jurisprudencial da própria Câmara, com precedentes que afirmam o caráter subjetivo da responsabilidade administrativa ambiental e a exigência de autoria e materialidade (fls. 290/292 e 311/314).
+A parte recorrente aponta, ainda, a existência de divergência jurisprudencial às fls. 301/305.
+Contrarrazões apresentadas às fls. 360/363.
+O recurso foi admitido (fls. 364/367).
+É o relatório.
+Na origem, cuida-se de ação anulatória, cujo pedido principal é a anulação de autos de infração ambiental. A parte ora recorrente interpôs agravo de instrumento interposto de decisão em que o Juízo de origem rejeitou os embargos de declaração opostos contra decisão que anulou apenas uma das duas autuações ambientais impostas aos agravantes. O objetivo do agravo de instrumento era obter uma antecipação dos efeitos da tutela, que foi negado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Verifico que o recurso especial foi interposto de acórdão que indeferiu o pedido de antecipação dos efeitos da tutela.
+Não é possível conhecer do recurso quanto ao ponto em razão da natureza precária da decisão impugnada.
+Incide no presente caso, por analogia, o óbice da Súmula 735 do Supremo Tribunal Federal.
+Nessa mesma linha, confiram-se os seguintes julgados:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. VIOLAÇÃO DOS ARTIGOS 99, 100 E 102 DO CC, BEM COMO 71 E 200 DO DECRETO-LEI 9.760/1946. INTERPOSIÇÃO DE RECURSO ESPECIAL EM FACE DE ACÓRDÃO QUE DECIDE PEDIDO LIMINAR. REFORMA. IMPOSSIBILIDADE. SÚMULA 735/STF. EXAME DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. VIOLAÇÃO À SÚMULA. IMPOSSIBILIDADE. NÃO ENQUADRAMENTO NO CONCEITO DE LEI FEDERAL.
+ ..
+2. A jurisprudência desta Corte firmou entendimento de não cabimento de recurso especial contra acórdão que defere ou indefere medida liminar ou antecipação dos efeitos da tutela, haja vista a natureza precária da decisão. Incidência da Súmula 735/STF.
+3. Nos termos do art. 105, inciso III, da Constituição Federal, o recurso especial é destinado tão somente à uniformização da interpretação do direito federal, não sendo, assim, a via adequada para a análise de eventual ofensa a dispositivos constitucionais, cuja competência pertence ao Supremo Tribunal Federal. Por tal motivo, não se conhece do apelo especial no tocante à alegação de violação dos artigos 183, §3º e 191, parágrafo único, da CF/88.
+4. Sobre a alegada ofensa à Súmula n. 340 do STF, o recurso especial não constitui via adequada para a análise de eventual ofensa à Súmula, ainda que vinculante, porque o termo não está compreendido na expressão "lei federal", constante da alínea "a" do inciso III do artigo 105 da CF/88.
+5. Agravo interno não provido.
+(AgInt no REsp n. 2.057.166/PE, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 11/5/2026, DJEN de 14/5/2026, sem destaque no original.)
+PROCESSUAL CIVIL. TRIBUTÁRIO. AÇÃO ANULATÓRIA. LANÇAMENTO DE ICMS. RESPONSABILIDADE SOLIDÁRIA. PRESCRIÇÃO DA ANULATÓRIA. TUTELA DE URGÊNCIA. REQUISITOS. NATUREZA PRECÁRIA DA DECISÃO. DEFICIÊNCIA RECURSAL. ANÁLISE DE LEGISLAÇÃO LOCAL. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. PREQUESTIONAMENTO. AUSÊNCIA. INCIDÊNCIA DAS SÚMULAS N. 7/STJ, 211/STJ, 280/STF, 282/STF, 284/STF E 735/STF.
+ ..
+III - A jurisprudência desta Corte é firme no sentido de que não cabe recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, dada a natureza precária do provimento. Assim, o exame do preenchimento dos requisitos para a concessão da tutela de urgência (art. 300 do CPC/2015) esbarra nos óbices das Súmulas n. 735/STF e 7/STJ, pois exigiria o reexame do acervo fático-probatório.
+ ..
+VII - Agravo conhecido para não conhecer do recurso especial.
+(AREsp n. 3.204.572/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/5/2026, DJEN de 25/5/2026, sem destaque no original.)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
