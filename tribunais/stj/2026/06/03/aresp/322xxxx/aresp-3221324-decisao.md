@@ -1,0 +1,58 @@
+DECISÃO
+Cuida-se de agravo interposto por IVAIR MEIRA DE AGUIAR contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fls. 54-57):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DECISÃO QUE CONSIDEROU PRECLUSA A ALEGAÇÃO DE IMPENHORABILIDADE DE BEM IMÓVEL. DECISÃO MANTIDA. IMPENHORABILIDADE JÁ ALEGADA E REJEITADA ANTERIORMENTE. PRECLUSÃO CONSUMATIVA OPERADA. RECURSO DESPROVIDO.
+Opostos embargos de declaração, o Tribunal de origem os rejeitou (fls. 62-64).
+No recurso especial, a recorrente alega, preliminarmente, ofensa ao art. 1.022 do CPC, pois, apesar da oposição de embargos de declaração, o Tribunal de origem não teria se manifestado sobre pontos essenciais ao deslinde da controvérsia.
+No recurso especial, a parte recorrente aduz, no mérito, que o acórdão recorrido contrariou o art. 833, VIII, do CPC, porque a pequena propriedade rural, explorada pela família, é impenhorável por se tratar de norma de ordem pública, cogente, irrenunciável e voltada à proteção dos direitos fundamentais do produtor e de seu núcleo familiar, que a impenhorabilidade não se sujeita à preclusão quando o pedido é reapresentado com base em provas novas, e que a negativa de impenhorabilidade fundada no fato de o bem ter sido ofertado em garantia contraria o comando legal, pois tal circunstância não afasta a proteção do art. 833, VIII, do CPC.
+Foram oferecidas contrarrazões ao recurso especial (fls. 96-102).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 103-106), o que ensejou a interposição de agravo em recurso especial.
+Foi apresentada contraminuta do agravo (fls. 124-133).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+De início, inexiste a alegada violação do art. 1.022 do CPC, visto que o Tribunal de origem efetivamente enfrentou a questão levada ao seu conhecimento, em especial acerca da tese recursal que defendia a impenhorabilidade do bem, atestando que a questão está superada por ter se operado o instituto da preclusão consumativa acerca do tema.
+E, a propósito do contexto recursal, destacou a origem (fl. 63):
+ ..
+A Turma Julgadora externou de forma clara os motivos pelos quais entendeu ser caso de negar provimento ao recurso. Restou expressamente consignado que se o devedor não logrou comprovar a impenhorabilidade do bem no momento em que inicialmente formulou tal alegação, deve arcar com as consequências de sua incúria. É o que basta.
+Ressalte-se que é irrelevante que o acórdão embargado não tenha mencionado expressamente cada um dos dispositivos invocados. Isso não constitui omissão sanável pelos declaratórios, pois que não há no ordenamento nenhum dispositivo que obrigue a Turma Julgadora a essa menção expressa. O que é preciso e foi observado é que todas as questões suscitadas sejam apreciadas e dirimidas com fundamentação suficiente.
+ ..
+Observa-se, assim, que as questões recursais foram efetivamente enfrentadas pelo Tribunal de origem, sendo que não se pode ter como omissa ou carente de fundamentação uma decisão tão somente porque suas alegações não foram acolhidas.
+Cumpre reiterar que entendimento contrário não se confunde com omissão no julgado ou com ausência de prestação jurisdicional. A propósito: "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 29/8/2022).
+No mesmo sentido, cito:
+2.2. Não há ofensa aos arts. 489 e 1.022 do CPC, quando o Tribunal de origem examina, de forma fundamentada, a questão submetida à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+(REsp n. 1.947.636/PE, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 6/9/2024.)
+1. Segundo orientação jurisprudencial vigente no Superior Tribunal de Justiça, não há falar em omissão, contradição, obscuridade ou erro material, nem em deficiência na fundamentação, quando a decisão recorrida está adequadamente motivada com base na aplicação do direito considerado cabível ao caso concreto, pois o mero inconformismo da parte com a solução da controvérsia não configura negativa de prestação jurisdicional.
+(AgInt no AREsp n. 2.595.147/SE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 28/8/2024.)
+Também não merece conhecimento o apelo nobre quanto à suscitada ofensa ao art. 833, VIII, do CPC, especialmente quanto à tese recursal que defende a impenhorabilidade do bem e a não sujeição da questão ao instituto da preclusão consumativa.
+Quanto ao tema, o que se denota das bem lançadas razões recursais, é que o recorrente busca afastar a incidência da preclusão consumativa com base na alegação de que foram apresentadas provas novas acerca da propriedade sob constrição, buscando demonstrar que esta, de fato, se enquadra no conceito de pequena propriedade rural trabalhada pela família, e, portanto, seria impenhorável.
+Ocorre, entretanto, que o Tribunal de origem afastou a alegação de que as provas apresentadas posteriormente, capazes de alterar as conclusões acerca da natureza do bem, seriam supervenientes, atestando que estas poderiam ter sido apresentadas junto ao primeiro pedido de impenhorabilidade, senão vejamos (fls. 55-56):
+ ..
+Pois bem. É certo que a impenhorabilidade da pequena propriedade rural é matéria de ordem pública e pode ser alegada a qualquer tempo, pois não se sujeita à preclusão temporal, mas isso não significa que tal alegação possa ser repetida diversas vezes ao longo do processo. Assim, já tendo sido objeto de decisão judicial, deve mesmo ser reconhecido que se operou a preclusão consumativa sobre a questão. Ressalte-se que "Diz-se consumativa a preclusão, quando a perda da faculdade de praticar o ato processual decorre do fato de já haver ocorrido a oportunidade para tanto, isto é, de o ato já haver sido praticado e, portanto, não pode tornar a sê-lo." (cf. Nelson Nery Junior e Rosa Maria Andrade Nery, "Código de Processo Civil Comentado" Ed. RT, 10ª ed., 2007, nota 4 ao art. 183, p. 447), e foi o que ocorreu na espécie.
+Acrescente-se que, conforme entendimento do E. STJ, "as matérias não impugnadas no momento oportuno sujeitam- se à preclusão consumativa, inclusive as de ordem pública". (STJ - AgInt no AREsp 735.224/SC, Rel. Min. Antonio Carlos Ferreira, 4.ª T., j. em 08/03/2021, DJe 12/03/2021).
+Assim, se o devedor não logrou comprovar a impenhorabilidade do bem no momento em que inicialmente formulou tal alegação, deverá arcar com as consequências de sua incúria.
+De resto, cabe observar que, considerada a aplicação analógica do art. 493 do C.P.C., que determina que apenas fatos supervenientes, que possam influir no julgamento da lide, serão considerados pelo juiz ao proferir a sentença, o que se entende por fato novo, portanto, é aquele que ocorre depois de ter sido proposta a demanda (cf. Moacyr Amaral Santos, "Comentários ao Código de Processo Civil", Vol. IV, Ed. Forense, 1ª ed., 1976, p. 446). É o fato surgido no curso da demanda (Sérgio Gilberto Porto, "Comentários ao Código de Processo Civil", Vol. 6, Ed. RT, 1ª ed., 2000, p. 126).
+Tecida essa consideração, na espécie, o único fato novo que teria o condão de permitir a renovação da discussão acerca da matéria seria aquele ocorrido após o primeiro requerimento. Ocorre que não seria cabível a invocação de impenhorabilidade se o imóvel que foi objeto da constrição não se enquadrava como pequena propriedade rural na época da penhora.
+Admitir o contrário seria admitir que o devedor se servisse do óbvio expediente de passar a explorar o imóvel no curso da execução, para ver levantada a penhora, o que constituiria, em última análise, fraude à lei.
+ ..
+A alteração das premissas consignadas pelo Tribunal de origem, que atestou que as provas apresentadas posteriormente poderiam ter sido ofertadas junto ao pedido inicial, e que não se trata de provas supervenientes, capazes de superar o intituto da preclusão consumativa e forçar uma nova análise sobre a impenhorabilidade do bem, demandaria reexame de fatos e provas, esbarrando-se no óbice da Súmula 7/STJ.
+Nesse sentido, cito:
+AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. ERRO DE FATO. PROVA NOVA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA 7/STJ. DECISÃO MANTIDA.
+1. Não se configura negativa de prestação jurisdicional quando o Tribunal de origem enfrenta posse e período aquisitivo e aprecia a relevância do contrato diante da titularidade registral.
+2. Modificação das conclusões da origem sobre inexistência de erro de fato e de prova nova demandaria reexame de fatos e provas, vedado pela Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 2.627.626/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 25/5/2026, DJEN de 28/5/2026.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. ART. 485, VIII, DO CPC. SUCEDÂNEO RECURSAL. NÃO CABIMENTO. PROVA NOVA. REVISÃO. REEXAME. CONTEXTO FÁTICO. SÚMULA Nº 7/STJ. HONORÁRIOS RECURSAIS. MAJORAÇÃO. CABIMENTO. ART. 85, §§ 2º E 3º, DO CPC.
+1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que o documento novo que permite o manejo da ação rescisória com fundamento no art. 485, VIII, do CPC, é aquele existente à época da decisão rescindenda e era ignorado pelo autor ou do qual não pode fazer uso de forma a assegurar a procedência do pronunciamento judicial.
+2. No caso, rever a conclusão do tribunal local, que afastou a possibilidade de utilização do documento novo, visto que inexistente à época dos fatos, mostra-se inviável por ensejar reexame de matéria fático-probatória, procedimento vedado pela Súmula nº 7/STJ.
+3. Na hipótese, tendo sido preenchidos os requisitos para majoração dos honorários recursais, estes devem ser mantidos nos termos da decisão monocrática, visto que foram observados os limites percentuais previstos nos §§ 2º e 3º do art. 85 do CPC.
+4. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.194.139/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 21/8/2023, DJe de 24/8/2023.)
+No mais, a incidência do apontado óbice processual (Súmula n. 7/STJ) quanto à interposição pela alínea "a" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão:
+3. A análise do dissídio jurisprudencial, pela alínea c do permissivo constitucional, fica prejudicada quando for aplicado óbice processual ao recurso especial pela alínea a, no que tange à mesma matéria.
+(AgInt no AREsp n. 2.186.364/RS, relator Ministro Afrânio Vilela, Segunda Turma, DJEN de 24/2/2025.)
+3. A incidência de óbices sumulares processuais, como a aplicação da Súmula 5/STJ, inviabiliza o recurso especial também pela alínea c do inciso III do art. 105 da Constituição Federal, ficando, portanto, prejudicado o exame da divergência jurisprudencial.
+(AgInt no AREsp n. 1.807.011/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 7/6/2021.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
