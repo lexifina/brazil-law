@@ -1,0 +1,2 @@
+Artigo 4° - Dentro de 120 (cento e vinte) dias, a partir da vigência desta lei as Secretarias de Estado procederão ao levantamento do pessoal enquadrado no inciso I do artigo 1° desta lei, propondo, dentro de igual prazo, a contar do término do anterior, a criação dos cargos correspondentes que poderão ser relotados para outras Secretarias, se excederem às necessidades dos serviços das repartições em que foram admitidos.
+Parágrafo único - O disposto neste artigo não se aplica nos casos a que se refere o parágrafo único do artigo 31 do Estatuto do Magistério.

@@ -1,0 +1,1 @@
+Artigo 3° - As disposições do artigo anterior poderão ser aplicadas mediante decreto específico, ao pessoal para obras das autarquias que se encontre na situação nele prevista à data da publicação da presente lei.
