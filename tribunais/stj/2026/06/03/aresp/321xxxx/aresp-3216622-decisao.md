@@ -1,0 +1,84 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial na origem com fundamento no óbice da Súmula n. 7/STJ.
+Segundo a parte agravante, a insurgência preenche os requisitos necessários ao conhecimento e provimento do recurso especial interposto em face do acórdão assim ementado:
+DIREITO PROCESSUAL CIVIL. APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. ALEGAÇÃO DE QUITAÇÃO POR ENTREGA DE BENS E PAGAMENTOS POR TERCEIROS. AUSÊNCIA DE ANUÊNCIA FORMAL DO CREDOR. ÔNUS DA PROVA NÃO CUMPRIDO. SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Apelação cível interposta contra sentença que julgou improcedentes os embargos à execução opostos pelo ora apelante em face do ora apelado, sob alegação de quitação da dívida executada por meio da entrega de bens e realização de pagamentos por terceiros. Requer a extinção da execução ou, subsidiariamente, a revisão do valor executado.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar a existência de nulidade da sentença por ter sido proferida por magistrado integrante de grupo de sentença; (ii) examinar se restou comprovada a quitação da obrigação objeto da execução, por dação em pagamento ou por pagamentos realizados por terceiros.
+III. RAZÕES DE DECIDIR
+3. A atuação de magistrado integrante de grupo de sentença é legítima, nos termos do artigo 24, inciso XI, da CRFB/88, e voltada à efetivação do direito à razoável duração do processo, previsto no artigo 5º, inciso LXXVIII, da CRFB/88. À luz do princípio do pas de nullité sans grief, a nulidade processual exige demonstração de efetivo prejuízo, o que não se verifica no caso.
+4. Os documentos apresentados pelo apelante não se mostraram suficientes para comprovar a quitação da obrigação objeto da execução, inexistindo aceite ou anuência formal do credor quanto aos pagamentos por terceiros, tampouco elementos que demonstrem a extinção integral da dívida.
+5. O apelante não se desincumbiu do ônus de provar fato extintivo do direito do apelado, nos termos do artigo 373, inciso II, do Código de Processo Civil. IV. DISPOSITIVO E TESE
+6. Recurso desprovido.
+Tese de julgamento: 1. A atuação de magistrado integrante de grupo de sentença é legítima e não configura nulidade sem demonstração de prejuízo concreto. 2. A quitação da obrigação por dação em pagamento ou por terceiros exige anuência formal do credor. 3. Cabe ao devedor o ônus de provar fato extintivo da obrigação, nos termos do artigo 373, inciso II, do Código de Processo Civil.
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil (CPC), a parte agravada afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado, requerendo a condenação da agravante por litigância de má-fé e a fixação de honorários recursais.
+É o relatório.
+DECIDO.
+O agravo é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil, encontra-se formalmente em ordem e impugnou específica e suficientemente os óbices invocados pela decisão de inadmissibilidade na origem, razão pela qual passo ao exame do recurso especial, que foi interposto com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+A parte recorrente alega violação aos seguintes dispositivos legais: arts. 373, II, e 489, §1º, IV, e 1.022 do CPC; art. 356 do Código Civil.
+No que tange à alegada violação ao art. 489, § 1º, inciso IV, do CPC, verifica-se que o Tribunal de origem se manifestou expressamente sobre os pontos a respeito dos quais a parte recorrente alega omissão. É o que se extrai dos seguintes excertos (fls. 331-335):
+No mérito, o recorrente sustentou a quitação da dívida por meio da entrega de veículos e da realização de outros pagamentos intermediados por terceiros e requereu, com isso, a extinção da execução ou, subsidiariamente, a revisão do valor executado.
+No entanto, registrou-se que, como bem pontuado na sentença (index 000247), os documentos apresentados pelo embargante (index 000025 a index 000031) não se mostraram suficientes para comprovar a quitação da obrigação objeto da execução. Não há aceite ou anuência formal do credor quanto aos alegados pagamentos por terceiros, nem elementos capazes de demonstrar a extinção integral da dívida.
+O compromisso de compra e venda de estabelecimento comercial (index 000025) e a planilha de débito (index 000027) demonstram saldo remanescente.
+Quanto à entrega dos veículos, foi mencionado que consta declaração firmada pelo credor (index 000028) reconhecendo o recebimento de dois veículos no valor de R$ 60.900,00, e a existência de saldo remanescente de R$ 44.100,00. A planilha de débito (index 000027) indica valor executado de R$ 41.900,00. Asseverou-se que a diferença, de R$ 2.200,00, é irrelevante para o deslinde da controvérsia, por ser favorável à parte contrária (ao embargante), que está sendo cobrado por valor inferior ao expressamente reconhecido como devido.
+Portanto, o embargante distorce o fundamento do acórdão embargado, que apenas registrou que está sendo cobrado por quantia inferior a expressamente reconhecida como devida, razão pela qual a diferença apontada foi considerada irrelevante para o deslinde da controvérsia, pois lhe é favorável.
+Em relação aos demais alegados pagamentos, entendeu- se que as declarações subscritas por terceiros (index 000029) não demonstram a anuência formal do credor exigida pelo art. 356 do Código Civil para configuração da dação em pagamento.
+Foi mencionado o seguinte trecho da sentença (fls. 248/249), cujos fundamentos foram incorporados ao voto, no qual, frise-se, foi abordada expressamente a prova oral produzida em audiência, in verbis:
+ ..
+Registrou-se que consta, ainda, a apresentação de dois cheques no valor de R$ 5.000,00 cada (index 000031). O recorrido impugnou expressamente a utilização dos cheques como prova da quitação da dívida objeto da execução (index 000105), alegando que se refeririam a transações comerciais distintas da dívida em discussão.
+Considerou-se que não há nos autos comprovação documental de que tais cheques foram entregues especificamente para a extinção da obrigação exequenda, tampouco há aceite formal do credor em relação a esses títulos. O ônus de provar fato extintivo do direito do ora recorrido incumbia ao ora recorrente, nos termos do art. 373, inciso II, do CPC, ônus do qual não se desincumbiu.
+Nesse sentido, a título de exemplo, foi citado precedente desta Colenda Câmara:
+ ..
+Assim, à luz do conjunto probatório constante dos autos, esse Colegiado, por unanimidade de votos (index 000297), entendeu correta a sentença ao concluir pela improcedência dos embargos à execução, não havendo comprovação de quitação total, nem de excesso de execução.
+Nesse contexto, não se pode, no âmbito dos embargos declaratórios, rediscutir matéria que foi objeto de exame e decisão do Órgão Julgador para obter a modificação do que restou decidido.
+Afasta-se a alegada ofensa aos artigos 489 e 1.022 do CPC quando o Colegiado originário aprecia a demanda de forma clara e precisa, pronunciando-se, de forma motivada e suficiente, sobre os pontos relevantes ao deslinde da controvérsia. A jurisprudência desta Corte tem sido firme no sentido de que a ausência de menção a um outro argumento invocado pela defesa não macula o comando decisório se a fundamentação for apta, por si só, a sustentar a conclusão adotada. Como se tem sistematicamente reafirmado nesta Corte, o teor do art. 489, § 1º, inc. IV, do CPC/2015  ao dispor que não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que não enfrentar todos os argumentos expendidos no processo que sejam capazes de, em tese, infirmar a conclusão adotada pelo julgador  não significa que este tenha que enfrentar todos os argumentos trazidos pelas partes, senão apenas aqueles que sejam capazes de, em tese, infirmar a conclusão alcançada pelo julgador (EDcl nos EREsp 1523744/RS, Rel. Ministro Og Fernandes, Corte Especial, julgado em 07/10/2020, DJe 28/10/2020).
+Portanto, tendo o Tribunal de origem julgado o caso à luz dos fatos e das provas, aplicando o direito que entendeu correto à espécie em análise, não se afigura violação ao artigo 489, § 1º, inciso IV do Código de Processo Civil, por alegada deficiência na fundamentação do acórdão recorrido.
+Em relação à alegada violação ao art. 356 do Código Civil, a análise dos autos indica que a Corte de origem adotou entendimento alinhado à jurisprudência do Superior Tribunal de Justiça, o que atrai a incidência da Súmula n. 83/STJ.
+Quanto ao tema, esta Corte Superior vem se manifestando da seguinte forma:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DAÇÃO EM PAGAMENTO. RECUSA DO CREDOR. MULTA POR LITIGÂNCIA DE MÁ-FÉ. APLICAÇÃO DA SÚMULA 7/STJ.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática que conheceu do agravo para não conhecer do recurso especial, em razão da incidência da Súmula 7/STJ.
+2. O recurso especial inadmitido foi interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, que concluiu pela impossibilidade de dação em pagamento por ausência de concordância do credor e pela condenação da agravante por litigância de má-fé, com aplicação de multa nos termos dos artigos 80 e 81 do CPC.
+3. A agravante sustenta que a matéria em debate é exclusivamente de direito, não havendo necessidade de reexame de provas, e que a oferta de crédito para quitação do débito não poderia ser recusada, pois equivale a dinheiro, conforme o artigo 835, I, do CPC.
+Argumenta ainda que sua conduta não se enquadra nas hipóteses de litigância de má-fé previstas nos artigos 80 e 81 do CPC.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber: (i) se a recusa do credor à dação em pagamento de crédito não pecuniário é válida, mesmo quando o crédito ofertado equivale a dinheiro nos termos do artigo 835, I, do CPC; e (ii) se a condenação por litigância de má-fé, com aplicação de multa, pode ser afastada em recurso especial, considerando a incidência da Súmula 7/STJ.
+III. RAZÕES DE DECIDIR
+5. A dação em pagamento, prevista no artigo 356 do Código Civil, exige a anuência do credor como requisito essencial para sua configuração. No caso, o Tribunal de origem concluiu pela impossibilidade da dação em pagamento devido à ausência de concordância do credor.
+6. A revisão da premissa adotada pelo Tribunal de origem, para concluir pela obrigatoriedade de aceitação do crédito ofertado, demandaria o reexame de questões fáticas, como a natureza e a liquidez do crédito, o que é vedado pela Súmula 7/STJ.
+7. O artigo 835, I, do CPC, que estabelece uma ordem de preferência para a penhora, não obriga o credor a aceitar o crédito como forma de pagamento, especialmente quando há recusa expressa.
+8. A condenação por litigância de má-fé, nos termos dos artigos 80 e 81 do CPC, pressupõe a demonstração de dolo da parte, aferido a partir das circunstâncias fáticas do processo. No caso, o Tribunal de origem concluiu, com base nas provas dos autos, que a agravante deduziu pretensão contra texto expresso de lei e usou o processo para conseguir objetivo ilegal, caracterizando litigância de má-fé.
+9. A revisão da conclusão do Tribunal de origem sobre a ocorrência de litigância de má-fé demandaria o revolvimento do conjunto fático-probatório, o que é vedado em recurso especial, conforme a Súmula 7/STJ.
+IV. DISPOSITIVO
+Agravo interno improvido.
+(AgInt no AREsp n. 2.715.788/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 2/3/2026, DJEN de 5/3/2026.)
+Assim, o recurso não merece conhecimento no ponto.
+Ademais, para conhecer das controvérsias apresentadas neste recurso, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com o entendimento firmado pela Súmula n. 7/STJ, que estabelece que a pretensão de simples reexame de prova não enseja recurso especial.
+De fato, presente a função uniformizadora do recurso especial, não se pode cogitar de seu emprego para a realização de rejulgamento do contexto fático-probatório, em atitude típica de revisão promovida por nova instância. Diante disso, é reiterada a jurisprudência no sentido de que o reexame de fatos e provas é vedado em recurso especial pela Súmula n. 7/STJ.
+Assim, o acolhimento da tese recursal, para aferir o aceite do credor, demandaria inevitável revisão do quadro fático-probatório estabelecido na instância de origem, providência que, como visto, é inviável nesta sede.
+Nesse sentido:
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. ALEGAÇÃO DE EXCESSO DE EXECUÇÃO. ÔNUS DA PROVA DO EXECUTADO. ART. 373, II, DO CÓDIGO DE PROCESSO CIVIL. PRETENSÃO DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO CONHECIDO PARA NAO CONHECER O RECURSO ESPECIAL.
+1. Nos embargos à execução, incumbe ao executado o ônus de comprovar fato impeditivo, modificativo ou extintivo do direito do exequente, na forma do art. 373, II, do Código de Processo Civil.
+2. Concluindo o tribunal de origem, com base no conjunto fático-probatório, que a embargante não se desincumbiu do ônus de demonstrar os pagamentos parciais alegados, a revisão dessa conclusão encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+3. Agravo conhecido para não conhecer o recurso especial.
+(AREsp n. 2.992.410/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 22/4/2026, DJEN de 28/4/2026.)
+DIREITO PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA ENTRE HERDEIROS. RESSARCIMENTO DE GASTOS DO ESPÓLIO. ÔNUS DA PROVA. PRETENSÃO DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. IMPUGNAÇÃO ESPECÍFICA (ART. 1.021, § 1º, CPC). DECISÃO MONOCRÁTICA FUNDADA EM JURISPRUDÊNCIA CONSOLIDADA. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto por Carlos Geraldo Scavino Piccoli contra decisão que não conheceu do recurso especial (alínea "a" do art. 105, III, CF/88), em demanda de cobrança na qual o autor/inventariante busca ressarcimento de despesas quitadas em favor do espólio; acórdão estadual manteve a procedência, reconhecendo a legitimidade do autor e o cumprimento do ônus probatório, com correção monetária pelo IPCA.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se a pretensão recursal demanda reexame de fatos e provas, atraindo o óbice da Súmula 7/STJ; (ii) verificar se o agravante impugna especificamente os fundamentos da decisão agravada, nos termos do art. 1.021, § 1º, do CPC, à luz da possibilidade de decisão monocrática fundada em jurisprudência consolidada (art. 932, III e IV, CPC; Súmula 568/STJ).
+III. RAZÕES DE DECIDIR
+3. Conclui-se que a reforma do acórdão local exigiria reabrir a valoração do conjunto probatório (quem realizou os pagamentos, legitimidade e documentos de quitação), providência vedada em recurso especial pela Súmula 7/STJ.
+3. O Tribunal de origem afirma que o autor se desincumbe do ônus probatório ao juntar comprovantes de quitação, competindo ao réu trazer elementos aptos a infirmar tal conclusão (CPC, art. 373), o que não ocorreu; infirmar essa premissa demanda revolvimento probatório.
+4. É válida a decisão monocrática do relator que aplica entendimento dominante desta Corte (CPC, art. 932, III e IV; Súmula 568/STJ), cabendo ao agravante impugnar especificamente todos os fundamentos (CPC, art. 1.021, § 1º), o que não se verifica, atraindo, por analogia, a incidência da Súmula 283/STF nos termos dos precedentes citados.
+5. A jurisprudência recente do STJ confirma a inadmissibilidade de teses que imponham reexame de provas e a necessidade de dialeticidade recursal em agravo interno.
+IV. DISPOSITIVO
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.922.402/RS, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 13/10/2025, DJEN de 16/10/2025.)
+Quanto a alegação de divergência jurisprudencial, a análise das alegações re cursais indica que a parte não indica acó rdão com entendimento jurisprudencial diverso, nem realiza o adequado cotejo analítico. Assim, não se mostra viável o conhecimento do recurso pela divergência.
+Por fim, incabível a aplicação da multa por litigância de má-fé, posto que não ficou demonstrado o intuito de retardar o andamento processual ou a prática de condutas tipificadas no art. 80 do Código de Processo Civil.
+Ante o exposto, c onheço agravo para não conhecer do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 2% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
