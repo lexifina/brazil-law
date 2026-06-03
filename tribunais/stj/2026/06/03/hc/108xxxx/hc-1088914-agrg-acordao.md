@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 28/05/2026 a 03/06/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Carlos Pires Brandão, Nilsoni de Freitas (Desembargadora Convocada do TJDFT) e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DIREITO PROCESSUAL PENAL. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ALEGAÇÃO DE EXCESSO DE PRAZO PARA PROLAÇÃO DA SENTENÇA. INSTRUÇÃO ENCERRADA. INCIDÊNCIA, EM PRINCÍPIO, DA SÚMULA 52 DO STJ. TRAMITAÇÃO REGULAR DO FEITO. AUSÊNCIA DE DESÍDIA ESTATAL MANIFESTA. PARTICIPAÇÃO DA DEFESA NA MARCHA PROCESSUAL. GRAVIDADE CONCRETA DA CONDUTA. APREENSÃO DE EXPRESSIVA QUANTIDADE DE ENTORPECENTE (CERCA DE 2,186 KG DE COCAÍNA). TRANSPORTE OCULTO EM VEÍCULO. NECESSIDADE DE DILAÇÃO COGNITIVA. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JEFFERSON BARBOSA DA SILVA contra decisão monocrática assim ementada (fl. 248):
+HABEAS CORPUS. DIREITO PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ALEGAÇÃO DE EXCESSO DE PRAZO PARA SENTENÇA. PROCESSO COM TRAMITAÇÃO REGULAR. INSTRUÇÃO ENCERRADA. INCIDÊNCIA, EM PRINCÍPIO, DA SÚMULA 52 DO STJ. AUSÊNCIA DE DESÍDIA ESTATAL MANIFESTA. GRAVIDADE CONCRETA DA IMPUTAÇÃO.
+Writ indeferido liminarmente.
+Nas razões, a parte agravante sustenta excesso de prazo para a prolação da sentença, afirmando que, desde 4/12/2025, com a apresentação dos memoriais defensivos, o processo já estava maduro para julgamento e que a mora superveniente passou a ser exclusivamente imputável ao aparelho estatal.
+Argumenta que o art. 58 da Lei n. 11.343/2006 impõe que, encerrados os debates, o juiz profira sentença de imediato ou em 10 dias, de modo que a extrapolação por meses, sem justificativa concreta, configura constrangimento ilegal.
+Defende a mitigação da Súmula 52 do Superior Tribunal de Justiça, pois o verbete não pode ser interpretado de forma absoluta nem servir de salvo-conduto para a postergação indefinida da sentença em processo com réu preso.
+Alega a inaplicabilidade da Súmula 64 deste Superior Tribunal, porque eventual atraso ínfimo da defesa não tem aptidão para justificar a persistência da prisão sem sentença por lapso posterior substancial.
+Sustenta ausência de complexidade concreta após os memoriais, com instrução encerrada e laudo definitivo juntado, razão pela qual invocações genéricas de razoabilidade não legitimam a continuidade da custódia preventiva .
+Afirma que dificuldades estruturais da comarca - ausência de juiz titular e acúmulo de jurisdição - não podem ser suportadas pelo réu preso nem servir como justificativa permanente para o alongamento da prisão provisória.
+Assevera que a gravidade concreta da imputação não elide o controle do excesso de prazo para sentenciar, sob pena de converter a prisão preventiva em antecipação de pena.
+Pede a reconsideração para concessão da ordem, com expedição de alvará de soltura ou substituição por cautelares, subsidiariamente a fixação de prazo exíguo para sentenciar e reavaliação da cautelar e, não havendo retratação, o provimento pelo órgão colegiado.
+Não abri prazo para as contrarrazões.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DIREITO PROCESSUAL PENAL. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ALEGAÇÃO DE EXCESSO DE PRAZO PARA PROLAÇÃO DA SENTENÇA. INSTRUÇÃO ENCERRADA. INCIDÊNCIA, EM PRINCÍPIO, DA SÚMULA 52 DO STJ. TRAMITAÇÃO REGULAR DO FEITO. AUSÊNCIA DE DESÍDIA ESTATAL MANIFESTA. PARTICIPAÇÃO DA DEFESA NA MARCHA PROCESSUAL. GRAVIDADE CONCRETA DA CONDUTA. APREENSÃO DE EXPRESSIVA QUANTIDADE DE ENTORPECENTE (CERCA DE 2,186 KG DE COCAÍNA). TRANSPORTE OCULTO EM VEÍCULO. NECESSIDADE DE DILAÇÃO COGNITIVA. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE.
+Agravo regimental improvido.
+VOTO
+O presente agravo regimental deve ser conhecido, já que reúne os requisitos de admissibilidade.
+No mérito, todavia, não deve ser provido.
+Ao compulsar os autos, constato que a decisão agravada enfrentou adequadamente a alegação de excesso de prazo, destacando que o processo vem tramitando de forma regular, com sequência lógica de atos processuais, sem paralisação injustificada imputável ao juízo. Conforme registrado, houve oferecimento da denúncia, apresentação de defesa preliminar, recebimento da peça acusatória, realização de audiência de instrução, juntada de laudo definitivo, apreciação de pedido de revogação da prisão e apresentação de alegações finais pelas partes.
+Da atenta leitura do acórdão impugnado, depreende-se que a Corte de origem afastou expressamente a adoção de critério meramente aritmético para aferição do excesso de prazo, aplicando os parâmetros da razoabilidade e da proporcionalidade, em consonância com a jurisprudência desta Corte Superior.
+A corroborar, citem-se: AgRg no HC n. 1.050.982/PR, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 22/12/2025; RHC n. 218.885/RS, da minha relatoria, Sexta Turma, DJEN de 23/9/2025; e AgRg no HC n. 1.013.012/PR, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 22/9/2025.
+Julgo que não procede a alegação de mora estatal relevante. Embora a defesa sustente que o atraso a ela imputado foi mínimo, o ponto central, neste momento processual, é que não se demonstrou, de plano, paralisação anômala do feito ou inércia injustificada do aparelho estatal. A existência de interregno relacionado à atuação da defesa, ainda que breve, reforça a conclusão de que não há mora integralmente atribuível ao Estado.
+A meu ver, também não prospera a tes e de que a instrução encerrada, por si só, afastaria a análise do excesso de prazo. É certo que esta Corte admite, em hipóteses excepcionais, a mitigação da Súmula 52 do STJ. Contudo, essa flexibilização exige demonstração inequívoca de demora desarrazoada e injustificada na prolação da sentença, o que não se verifica no caso concreto.
+Ilustrativamente: AgRg no HC n. 841.876/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 18/4/2024; AgRg no HC n. 838.171/MS, Ministro Teodoro Silva Santos, Sexta Turma, DJe de 18/3/2024; AgRg no HC n. 765.490/SP, Ministra Laurita Vaz, Sexta Turma, DJe de 3/10/2022; e AgRg no AREsp n. 2.845.618/MG, Ministro Carlos Cini Marchionatti (Desembargador convocado do TJRS), Quinta Turma, DJEN de 18/8/2025.
+No que concerne às alegadas dificuldades estruturais da comarca, entendo que tais circunstâncias, embora relevantes sob o ponto de vista administrativo, não configuram, por si sós, constrangimento ilegal apto a ensejar a revogação da prisão preventiva, especialmente quando ausente demonstração de paralisação anormal do processo.
+De outra parte, não se pode desconsiderar a gravidade concreta da imputação. Conforme consignado, o agravante foi preso em flagrante com aproximadamente 2,186 kg de cocaína ocultos no interior de veículo, além de quantia em dinheiro, circunstâncias que indicam, em tese, transporte de significativa quantidade de entorpecente e justificam a manutenção da custódia cautelar para garantia da ordem pública.
+Por fim, a pretensão de substituição da prisão preventiva por medidas cautelares diversas igualmente não merece acolhida, pois não se evidencia desproporcionalidade da medida extrema diante das circunstâncias concretas do delito.
+Assim, ausentes elementos novos capazes de infirmar os fundamentos da decisão agravada, deve ela ser mantida por seus próprios fundamentos.
+Ante o expo sto, nego provimento ao agravo regimental.
