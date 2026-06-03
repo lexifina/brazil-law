@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por Agência Nacional de Energia Elétrica (ANEEL), com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do Tribunal Regional Federal da 6ª Região assim ementado (fl. 413):
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. PENHORA DE DINHEIRO. SUBSTITUIÇÃO. GARANTIA OFERTADA NA PENHORA DA USINA HIDRELÉTRICA PORTO ESTRELA. POSSIBILIDADE NO CASO CONCRETO. CIRCUNSTÂNCIAS QUE AUTORIZAM A MITIGAÇÃO DA ORDEM DE PREFERÊNCIA DO ART. 11 DA LEF.
+1. No caso concreto, os débitos inscritos correspondem a valores de Uso de Bem Público ("UBP") que teriam deixado de ser pagos à ANEEL entre 10/2019 e 12/2020 no âmbito do Contrato de Concessão de Uso de Bem Público como integrante do "Consórcio UHE Porto Estrela" consistente no aproveitamento do potencial hidrelétrico do Rio Santo Antônio (MG).
+2. Estes débitos estão sendo discutidos em Ação Ordinária que tramita perante a 9ª Vara Federal Cível da Seção Judiciária do Distrito Federal, buscando reestabelecer o equilíbrio do Contrato de Concessão, mediante a substituição do índice utilizado para a correção monetária de UBP. Ainda há embargos à execução fiscal opostos.
+3. A ordem prevista no artigo 835 do CPC/2015 não é peremptória sendo que, em determinadas situações especí cas, o princípio da menor onerosidade pode ser invocado para relativizar a ordem preferencial dos bens penhoráveis, situação verificada no caso presente. Precedentes do STJ.
+4. Diante da controvérsia instaurada quanto aos valores devidos na Ação Ordinária e nos embargos à execução, entendo que se justifica, no caso concreto, a mitigação da ordem de preferência do art. 11 da LEF.
+5. O objeto da penhora (Usina Hidrelétrica Porto Estrela) está vinculado ao contrato que originou a Execução Fiscal. Assim, mostra-se adequado aceitar este bem como garantia para a cobrança dos valores relativos a valores de UBP vinculado a este bem publico.
+6. Agravo de instrumento provido. Agravo interno prejudicado.
+Os embargos de declaração opostos foram rejeitados (fls. 465/476).
+Nas razões do recurso especial (fls. 491/498, a parte recorrente alega violação dos arts. 797 e 835, inciso I, do Código de Processo Civil (CPC), sustentando que a execução se realiza no interesse do exequente e que a penhora em dinheiro é prioritária; bem como dos arts. 10 e 11, inciso I, da Lei 6.830/1980 (Lei de Execuções Fiscais), afirmando que a decisão desrespeitou a ordem legal de preferência da penhora em dinheiro. Argumenta, ainda, quanto à legitimidade da recusa da Fazenda Pública ao bem ofertado fora da ordem legal (fls. 495/498).
+Argumenta que o princípio da menor onerosidade não se sobrepõe, em abstrato, à efetividade da execução e à gradação legal; que a existência de ações paralelas (ordinária e embargos) não autoriza, por si, a flexibilização; e que o sistema SISBAJUD é instrumento apto e devido à constrição prioritária de dinheiro (fls. 496/498).
+Contrarrazões apresentadas às fls. 501/514.
+O recurso especial foi admitido (fl. 517).
+É o relatório.
+Na origem, cuida-se de execução fiscal, visando à cobrança de valores de Uso de Bem Público vinculados ao Contrato de Concessão, com pedido de substituição da penhora em dinheiro pela constrição de imóvel (UHE Porto Estrela).
+Quanto à alegação de violação dos arts. 797 e 835, I, do Código de Processo Civil, nos exatos termos do acórdão recorrido, o Tribunal Regional Federal da 6ª Região assim se manifestou (fl. 411):
+"Diante da controvérsia instaurada quanto aos valores devidos nos autos da Ação Ordinária nº 1054142-48.2023.4.01.3400 e nos embargos à execução nº 1011059-81.2023.4.06.3807, entendo que se justifica, no caso concreto, a mitigação da ordem de preferência do art. 11 da LEF."
+O Tribunal de origem reconheceu a vinculação do bem ofertado (Usina Hidrelétrica Porto Estrela) ao contrato que originou a execução fiscal, bem como a existência de controvérsia sobre os valores exigidos, concluindo pela adequação da garantia ofertada e pela relativização da ordem legal, em atenção ao princípio da menor onerosidade.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Com relação à apontada ofensa aos arts. 10 e 11, I, da Lei 6.830/1980, o Tribunal de origem decidiu que (fl. 412):
+"Nada obstante, no caso concreto, o objeto da penhora (Usina Hidrelétrica Porto Estrela) está vinculado ao contrato que originou a Execução Fiscal. Assim, é adequado o oferecimento de tal bem para a cobrança dos valores relativos à UBP vinculados a este mesmo bem."
+O Tribunal de origem reconheceu a pertinência e suficiência da garantia ofertada, vinculada ao contrato que deu causa aos débitos de Uso de Bem Público, e afirmou a possibilidade de mitigação da ordem de preferência do art. 11 da Lei 6.830/1980 diante das circunstâncias específicas verificadas no processo.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
