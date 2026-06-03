@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por VALMOR FERNANDES ROSA FILHO, MARIANA DUARDES ROSA e ROSANGELA DUARDES ROSA contra decisão que inadmitiu seu recurso especial, fundamentado no art. 105, inciso III, alínea "a" da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"AÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. EMBARGOS À MONITÓRIA. PEDIDO DE EFEITO SUSPENSIVO. PERDA DO OBJETO.
+Deixa-se de conhecer do pedido de atribuição de efeito suspensivo ao recurso de apelação. Além de o requerimento estar em dissonância com o procedimento legal, porquanto deveria ter sido ventilado de forma autônoma em petição avulsa, com o julgamento do mérito recursal o pleito acaba por perder o seu objeto, restando prejudicado no ponto.
+CÓDIGO DE DEFESA DO CONSUMIDOR.
+O Código de Defesa do Consumidor é aplicável aos negócios jurídicos firmados entre as instituições financeiras e os usuários de seus produtos e serviços (art. 3º, § 2º, CDC). Súmula 297, STJ.
+EXAME DA ABUSIVIDADE DOS JUROS QUE ADOTA MARGEM DE TOLERÂNCIA ENTRE OS PRATICADOS E A TABELA DO BACEN EM RAZÃO DE JURISPRUDÊNCIA CONSOLIDADA DO STJ.
+No norte trilhado pelo eg. STJ, para verificação da configuração, ou não, de abusividade, deve-se fazer o confronto entre as taxas de juros cobradas pela instituição financeira e as constantes da tabela divulgada pelo BACEN para as mesmas operações de crédito, consoante consolidado no Julgamento efetuado pela 2ª Seção do Superior Tribunal de Justiça no REsp nº 1.061.530/RS, julgado pela sistemática dos recursos repetitivos.
+O Tribunal da Cidadania tem reiteradamente decidido no sentido de que o reconhecimento da abusividade dos juros deve ser comprovada diante de discrepância entre a taxa de média de mercado e aquela praticada pela instituição financeira.
+Mesmo com convencimento de que a taxa média do Bacen é não apenas o parâmetro para a redução do excesso de juros como, também, para a aferição dele e, de que sempre que ultrapassada, há excesso passível de redução por "processos de revisão bancária", porque "os juros estão acima do mercado e que acrescentar-se à média outro valor, implica na distorção da própria média, fato é que que o eg. STJ tem firmado posicionamento no sentido de se admitir uma faixa razoável para a variação dos juros.
+Como o STJ é o órgão constitucionalmente competente para uniformização da jurisprudência infraconstitucional, e atenta aos ditames do art. 926 do CPC de que "os tribunais devem uniformizar sua jurisprudência e mantê-la estável, íntegra e coerente", acolho a orientação consignando a possibilidade de, frente ao caso concreto, aplicar posicionamento até então utilizado.
+Verificado que os encargos praticados no contrato estão abaixo da taxa média do Bacen, não há abusividade a ser declarada, sendo incabível a revisão.
+DESCARACTERIZAÇÃO DA MORA. Não constatada abusividade contratual nos encargos da normalidade, resta caracterizada a mora. APELAÇÃO PARCIALMENTE CONHECIDA E, NESTA EXTENSÃO, DESPROVIDA." (e-STJ, fls. 233-234)
+Os embargos de declaração foram rejeitados (e-STJ, fl. 241-243).
+Em seu recurso especial, os recorrentes alegam violação ao art. 51 da Lei 8.078/1990 (Código de Defesa do Consumidor), bem como indicam dissídio jurisprudencial.
+Argumentam, em síntese, ser abusiva a cláusula contratual de capitalização diária de juros, diante da ausência de prestação de informação ao consumidor sobre a taxa diária aplicada, o que exige controle judicial de legalidade para declarar nula a referida cláusula. Aduzem, nesse sentido, que o acórdão recorrido contrariou o entendimento do Superior Tribunal de Justiça, consolidado no julgamento do Tema Repetitivo n. 246/STJ.
+Foram apresentadas contrarrazões (e-STJ, fl. 270-273).
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+É o Relatório. Passo a decidir.
+A irresignação não prospera.
+Com efeito, os recorrentes apontam ofensa ao art. 51 do Código de Defesa do Consumidor, sustentando ser abusiva a pactuação de capitalização diária de juros sem a correspondente previsão expressa da taxa diária no instrumento contratual.
+Sobre o tema, assim se manifestou o Tribunal de Justiça do Estado do Rio Grande do Sul (TJ-RS), no julgamento dos embargos de declaração:
+"Da leitura das razões recursais depreende-se que não houve pedido de afastamento da capitalização de juros, mas tão somente de limitação dos juros remuneratórios à taxa média de mercado e descaracterização da mora (fl. 08, evento 59, APELAÇÃO1):
+Ante o exposto, requer se dignem Vossas Excelências, pelas razões e fundamentos apresentados, conhecer o presente recurso, dando-lhe provimento, a fim de reformar a sentença de primeiro grau quanto aos seguintes pontos:
+a) mediante a revisão do contrato entabulado, reconhecer a abusividade no período normal da contratualidade, determinando sua readequação à taxa média do mercado no período da contratação, bem como o consequente afastamento da mora;
+b) com a reforma do julgado, seja readequada a sucumbência processual, nos termos do art. 85 do CPC.
+Veja-se que na inicial dos embargos à monitória igualmente não houve qualquer menção à capitalização de juros.
+Sob tais perspectivas, não havia motivos para pronunciamento, por este Tribunal, a respeito de matéria suscitada tão somente em aclaratórios, em respeito ao efeito devolutivo do recurso de apelação.
+Ou seja: inexiste "omissão" nesses fundamentos. A assertiva é clara e direta. Há, pois, discordância da parte embargante.
+Dito isso, destaca-se que a parte embargante, em verdade, pretende a reforma do julgado, o que não é possível por esta via. É sabido que o juiz não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu." (e-STJ, fls. 242-243)
+Consoante se depreende do excerto acima transcrito, a Corte de origem consignou que a tese relativa ao afastamento da capitalização de juros foi suscitada somente nos embargos de declaração opostos contra o acórdão recorrido, assentando que não configura omissão a ausência de pronunciamento judicial sobre tópico formulado tardiamente.
+Todavia, tal fundamento, autônomo e suficiente à manutenção do v. acórdão recorrido, não foi impugnado nas razões do recurso especial, limitando-se os recorrentes a argumentar acerca do descabimento da capitalização diária de juros, com base na ausência de informação da taxa diária correspondente. Não houve, portanto, menção ao fundamento de que a temática da capitalização dos juros é impassível de apreciação por ter sido trazida apenas por ocasião da oposição dos aclaratórios.
+Nesse contexto, incide a Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. PEDIDO CAUTELAR DE SUSPENSÃO DE QUALQUER BLOQUEIO EM CONTA CORRENTE DA RECUPERANDA POR DETERMINAÇÃO DOS JUÍZOS EM QUE TRAMITAM EXECUÇÕES FISCAIS. INDEFERIMENTO. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. SÚMULA 283/STF. CONFORMIDADE DO ACÓRDÃO RECORRIDO COM O ENTENDIMENTO DO STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão da falta de impugnação específica de fundamento decisório. Reconsideração.
+2. Não configura ofensa aos arts. 489 e 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+3. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283 do STF.
+4. O acórdão recorrido alinhou-se ao entendimento do STJ, ao decidir que é defeso ao juízo recuperacional proibir de antemão e genericamente qualquer bloqueio, presente ou futuro, em conta corrente da executada, sob pena de afronta direta à legislação de regência e conferir à empresa recuperanda um verdadeiro salvo-conduto.
+5. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial."
+(AgInt no AREsp n. 2.664.853/SC, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 5/5/2025, DJEN de 12/5/2025)
+"AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. OPOSIÇÃO NO PRAZO DO ART. 675 DO CPC. TEMPESTIVIDADE. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. NÃO PROVIMENTO. RAZÕES DO ACÓRDÃO NÃO COMBATIDAS. SÚMULA N. 283 DO STJ. NÃO PROVIMENTO.
+1. O recurso especial interposto contra acórdão que decidiu em consonância com a jurisprudência deste Tribunal Superior esbarra no óbice da Súmula n. 83 do STJ.
+2. A ausência de combate aos fundamentos do acórdão recorrido, suficientes, por si sós, para a manutenção do decidido, acarreta a incidência da Súmula n. 283 do STF.
+3. Recurso especial não provido."
+(AREsp n. 2.292.735/RJ, relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/6/2025, DJEN de 30/6/2025)
+Dessa forma, entende-se que o acórdão recorrido deve ser confirmado pelos seus próprios fundamentos.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Havendo a prévia fixação de honorários advocatícios sucumbenciais pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+EMENTA
