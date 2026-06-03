@@ -1,0 +1,65 @@
+DECISÃO
+Cuida-se de agravo interposto por LUIZ ELIEZER TOTH contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO cuja ementa guarda os seguintes termos (fls. 240-242):
+DIREITO CIVIL E DO CONSUMIDOR. APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. FINANCIAMENTO DE VEÍCULO. ALEGAÇÃO DE ABUSIVIDADE DOS JUROS REMUNERATÓRIOS. INEXISTÊNCIA DE DESVANTAGEM EXAGERADA. TAXA DENTRO DA MÉDIA DE MERCADO. NEGADO PROVIMENTO.
+I. CASO EM EXAME 1. Apelação cível interposta contra sentença que julgou improcedente o pedido formulado em ação revisional de contrato de financiamento de veículo. A parte autora alegou a cobrança de juros abusivos e pleiteou a revisão contratual. O juízo a quo, com base na ausência de demonstração de abusividade, indeferiu os pedidos. A apelação busca a reforma da decisão, sob o argumento de onerosidade excessiva decorrente da cobrança de taxa superior à média de mercado.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se a taxa de juros remuneratórios pactuada em contrato de financiamento de veículo é abusiva a ponto de justificar sua revisão judicial, à luz do CDC e da jurisprudência consolidada dos tribunais superiores.
+III. RAZÕES DE DECIDIR
+3. A revisão de contratos bancários extintos, novados ou quitados é admitida pela jurisprudência consolidada do STJ, conforme dispõe a Súmula 286/STJ, sendo possível o exame de eventuais ilegalidades que não se convalidam pelo tempo ou pela novação contratual.
+4. A relação entre as partes é de consumo, nos termos do art. 3º, § 2º, do CDC, aplicando-se o regime da responsabilidade objetiva do fornecedor, prevista no art. 14 do mesmo diploma legal.
+5. A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não configura abusividade, conforme dispõe a Súmula 382/STJ, e não se aplica aos integrantes do sistema financeiro nacional a limitação imposta pela Lei de Usura, conforme Súmula 596/STF.
+6. A jurisprudência do STJ admite a revisão dos juros apenas em situações excepcionais, nas quais a taxa pactuada revele onerosidade excessiva ou coloque o consumidor em desvantagem exagerada, nos termos do art. 51, § 1º, do CDC, como afirmado no REsp 1.061.530/RS, julgado sob o rito dos repetitivos.
+7. O parâmetro de comparação para a análise da abusividade é a taxa média de mercado divulgada pelo Banco Central. A jurisprudência considera abusiva a taxa que supere em uma vez e meia, ao dobro ou ao triplo essa média, o que não se verificou no caso concreto.
+8. O contrato impugnado previa taxa de 2,97% ao mês, com custo efetivo total (CET) de 3,79% ao mês, ao passo que a média de mercado indicada foi de 2,02%. Conforme apurado por laudo pericial, a taxa contratada não superou o limite jurisprudencialmente aceito, não havendo indícios de onerosidade excessiva ou desvantagem desproporcional à parte autora.
+9. A existência de previsão contratual clara, a ausência de vícios no instrumento e a compatibilidade da taxa com a média de mercado excluem a possibilidade de intervenção judicial na cláusula de juros pactuada pelas partes.
+IV. DISPOSITIVO E TESE
+10. Recurso desprovido. Teses de julgamento:
+1. A revisão de contrato bancário é admissível mesmo após sua novação, extinção ou quitação, conforme a Súmula 286/STJ.
+2. A estipulação de juros remuneratórios superiores a 12% ao ano não configura abusividade, nos termos da Súmula 382/STJ.
+3. A revisão da taxa de juros é cabível apenas quando configurada desvantagem exagerada ou onerosidade excessiva, especialmente quando a taxa superar em mais de uma vez e meia a média de mercado. 4. Não caracteriza abusividade a taxa de juros pactuada que se mantém dentro de parâmetro razoável em comparação com a média de mercado apurada pelo Banco Central. Dispositivos relevantes citados: CDC, art. 3º, § 2º; 14, § 3º; 51, § 1º; CPC, art. 85, § 11. Jurisprudência relevante citada: STJ, Súmula 286; Súmula 382; Súmula 541; R Esp 1.061.530/RS, Rel. Min. Nancy Andrighi, Segunda Seção, j. 22/10/2008, D Je 10/03/2009; STF, Súmula 596; STJ, AgInt no AR Esp 1.557.005/SC, Rel. Min. Raul Araújo, j. 08/04/2024, D Je 19/04/2024; TJRJ, Apelação 0804967-20.2024.8.19.0031, Des. Márcia Ferreira Alvarenga, j. 29/04/2025; TJRJ, Apelação 0805333- 22.2024.8.19.0205, Des. Marília de Castro Neves Vieira, j. 16/04/2025.
+Os embargos de declaração opostos foram rejeitados (fls. 314-316).
+No recurso especial, a parte recorrente alega violação dos arts. 173, § 4º, e 192 da Constituição Federal, e do art. 20 da Lei n. 8.884/1994, sustentando, em síntese, que a taxa de juros pactuada é abusiva por superar significativamente a taxa média de mercado e por impor desvantagem exagerada ao consumidor, devendo ser limitada à média de mercado do Banco Central à época da contratação (fls. 330-334).
+Sustenta ofensa ao art. 3º do CDC, afirmando a aplicabilidade do regime consumerista às instituições financeiras e a possibilidade de revisão de cláusulas abusivas, bem como invoca a Súmula n. 297/STJ para reforçar a incidência do CDC no setor bancário (fls. 33 8-339).
+Aponta violação do art. 39, I, do CDC, ao afirmar a ocorrência de venda casada em razão da imposição de contratação de seguro sem liberdade de escolha da seguradora, em afronta também ao Tema 972/STJ, requerendo a declaração de abusividade da cobrança de tarifa de seguro (fls. 338-339).
+Argumenta que o acórdão recorrido adotou fundamentação genérica e não considerou, de forma concreta, a taxa SELIC e a taxa média do Banco Central vigente em março de 2015, nem aplicou o "multiplicador" jurisprudencial do STJ (uma vez e meia, o dobro ou o triplo da média), o que teria acarretado prejuízo e desvantagem exagerada ao recorrente (fls. 337-338).
+Alega, ainda, que a perícia contábil não observou corretamente o contrato, aplicando Tabela Price indevidamente, e que os juros remuneratórios e moratórios não foram aplicados conforme o pactuado, com referência indevida à Selic, tornando necessária a revisão dos encargos (fl. 336).
+Sem contrarrazões ao recurso especial (fl. 345).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 347-357), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fl. 377).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Cuida-se, na origem, de ação revisional de contrato bancário, cumulada com declaração de nulidade de cláusulas, envolvendo financiamento de motocicleta com alienação fiduciária, na qual se discutem a abusividade dos juros remuneratórios, o Custo Efetivo Total (CET), venda casada de seguro e a adequação da prova pericial. O Tribunal de origem decidiu que a relação entre as partes é de consumo, que a estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não configura abusividade.
+De início, não comporta conhecimento o recurso especial quanto à alegação de malferimento dos arts. 173, § 4º, e 192 da Constituição Federal, por ser a via inadequada à alegação de afronta a seus artigos e preceitos, sob pena de usurpação de competência atribuída exclusivamente à Suprema Corte:
+2. Não compete a esta Corte Superior a análise de suposta violação de dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, prevista no artigo 102, III, da Constituição Federal de 1988.
+(AgInt no AREsp n. 2.737.417/PB, relator Ministro Raul Araújo, Quarta Turma, DJEN de 20/12/2024.)
+3. Nos termos do art. 105, III, da Constituição Federal, compete ao Superior Tribunal de Justiça, em recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável invocar a violação de dispositivos constitucionais, porquanto matéria afeta à competência do Supremo Tribunal Federal.
+(AgInt no AREsp n. 1.325.875/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/12/2024.)
+Com relação à tese da abusividade, a parte recorrente alegou, além da violação à dispositivos constitucionais, violação dos art. 20 da Lei n. 8.884/1994 e 3º do CDC. Entretanto, os referidos dispositivos não contém comando normativo apto a sustentar tal tese ora deduzida, tornando inviável o conhecimento do recurso nesse ponto pelo óbice da Súmula n. 284/STF.
+Nesse sentido, cito:
+4. É inviável o conhecimento do recurso quando não há comando normativo no dispositivo apontado como violado capaz de sustentar a tese deduzida pela parte recorrente e de infirmar a validade dos fundamentos do acórdão recorrido. Incidência, por analogia, da Súmula 284 do Supremo Tribunal Federal (STF).
+(AgInt no REsp n. 1.822.067/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 14/4/2026, DJEN de 14/5/2026.)
+No que toca a tese a ocorrência de venda casada em razão da imposição de contratação de seguro sem liberdade de escolha da seguradora, o Tribunal de origem decidiu que (fl. 262):
+Tendo em vista que não houve qualquer impugnação nos autos às demais rubricas cobradas no ato da contratação, seja ela tarifa de cadastro, registro de contrato e seguro, o que está em xeque é tão-somente a taxa de juros prevista, que não superou uma vez sequer aquela praticada pelo mercado à época da contratação.
+Assim, rever tal premissa para concluir que houve a venda casada, como requer o recorrente, demanda a necessária incursão na seara fático-probatória, o que é vedado pelo óbice da Súmula n. 7/STJ.
+Por fim, com relação ao equívoco no sistema de amortização utilizado no contrato, observa-se que o Tribunal de origem, ao negar provimento à apelação, limitou-se a abordar que não houve abusividade na taxa de juros contratada, bem como que não houve qualquer ilicitude no contrato, sem abordar a questão da tabela price ou mesmo da taxa SELIC.
+Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente, a despeito da oposição dos embargos de declaração.
+Assim, incide no caso o enunciado da Súmula n. 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+Nesse sentido, cito:
+1. A ausência de debate acerca dos dispositivos legais tidos por violados, a despeito da oposição de embargos declaratórios, inviabiliza o conhecimento da matéria na instância especial, por falta de prequestionamento. Incidência das Súmulas n. 211 do STJ.
+(AgInt nos EDcl no AREsp n. 1.433.979/SP, relator Ministro João Otávio de Noronha, Quarta Turma, DJEN de 17/2/2025.)
+3. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de aclaratórios, impede seu conhecimento, a teor da Súmula nº 211/STJ.
+(AgInt no AREsp n. 1.714.930/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/12/2024.)
+2. Não se verifica o exame pelo Tribunal de origem, mesmo após a interposição dos embargos de declaração, da tese em torno da violação dos arts. 171 e 182 do Código Civil, razão pela qual incide, na espécie, a Súmula 211/STJ, ante a ausência do necessário prequestionamento viabilizador do recurso especial, requisito indispensável para o acesso às instâncias excepcionais.
+(AgInt no AREsp n. 2.713.012/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 13/11/2024.)
+Acrescente-se que, se o recorrente entendesse persistir algum vício no acórdão impugnado, imprescindível a alegação de violação do art. 1.022 do CPC quando da interposição do recurso especial com fundamento na alínea "a" do inciso III do artigo 105 da Constituição Federal, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Nesse sentido, cito:
+1. O recurso especial não comporta conhecimento por ausência de prequestionamento dos dispositivos legais mencionados (artigos 47 e 54 do CDC, artigo 129 do Código Civil). O acórdão recorrido não analisou explicitamente tais dispositivos, e os agravantes não indicaram violação do art. 1.022 do CPC, o que inviabiliza o conhecimento do recurso especial, aplicando-se as Súmulas n. 211 do STJ e 282 do STF.
+(AgInt no REsp n. 2.114.449/SP, relator Ministro João Otávio de Noronha, Quarta Turma, DJe de 6/11/2024.)
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211/STJ.
+3. Apesar de opostos embargos de declaração na origem, a recorrente não indicou a contrariedade ao artigo 1.022 do Código de Processo Civil, a fim de sanar eventual omissão.
+(AgInt no AREsp n. 2.370.076/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 12/9/2024.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor da causa.
+Publique-se. Intimem-se.
+ EMENTA
