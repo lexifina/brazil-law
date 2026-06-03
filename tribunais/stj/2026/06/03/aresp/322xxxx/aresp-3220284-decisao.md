@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PAULO ROBERTO SCHEFER contra decisão que in admitiu seu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 32):
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO. Designação perícia contábil. Cabe ao julgador avaliar o histórico dos autos e verificar a necessidade e utilidade da realização de determinados atos instrutórios. Magistrado "a quo" que entendeu pela necessidade de nomeação de perito para a devida apuração do quantum debeatur, respeitados os limites do quanto decidido por esta Corte no julgamento dos embargos à execução. Decisão mantida. RECURSO DESPROVIDO, nesse ponto. AGRAVO DE INSTRUMENTO. EXECUÇÃO. Ônus probatório. Juízo que atribuiu ao exequente a responsabilidade pelo pagamento dos honorários periciais. Pedido expressamente formulado pelo executado. Aplicação dos artigos 373, inc. I e 95, ambos do Código de Processo Civil. Custo da prova que deve ser suportado pelo devedor que a requereu. Decisão reformada. RECURSO PROVIDO, nesse ponto."
+Foram opostos embargos de declaração, que foram rejeitados, com imposição de multa.
+Em seu recurso especial, o recorrente alega violação dos seguintes dispositivos da legislação federal, com as respectivas teses:
+(i) arts. 489, § 1º, IV, e 1.022, II, do CPC, pois teria havido negativa de prestação jurisdicional e ausência de fundamentação, uma vez que o acórdão não teria enfrentado argumentos centrais dos embargos de declaração sobre a distribuição do ônus financeiro da prova pericial.
+(ii) arts. 95 e 373, I, do CPC, pois haveria violação ao regime do ônus econômico da prova e à distribuição do ônus probatório, já que a perícia, embora requerida pelo executado, teria por objeto fato constitutivo do direito do exequente, devendo o custeio ser suportado por quem teria dado causa à necessidade da prova.
+(iii) art. 1.026, § 2º, do CPC, pois a multa por embargos de declaração teria sido aplicada sem demonstração específica de intuito protelatório, sendo que os aclaratórios teriam buscado suprir omissões e prequestionar matéria federal, nos termos da Súmula 98 do Superior Tribunal de Justiça.
+Foram ofertadas contrarrazões (e-STJ, fls. 78-87).
+Decisão que inadmitiu o recurso especial às fls. 90-93.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+No recurso especial, discute-se, em cumprimento de sentença, quem deve arcar com os custos da perícia contábil necessária à apuração do valor devido e a aplicação de multa por embargos de declaração considerados protelatórios.
+Primeiramente, não se vislumbra a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil de 2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, manifestando-se expressamente acerca dos temas necessários à integral solução da lide.
+Salienta-se, ademais, que esta Corte é pacífica no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ENCAMINHAMENTO DOS AUTOS À CONTADORIA JUDICIAL. DÚVIDA QUANTO AO VALOR DISCUTIDO. ACÓRDÃO EM PERFEITA CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência do Superior Tribunal de Justiça no sentido de que é possível ao magistrado encaminhar os autos à contadoria para apurar se os cálculos estão em conformidade com o título em execução, consoante art. 524, § 2º, do CPC/2015. 3.
+Agravo interno desprovido.
+(AgInt no AREsp n. 2.604.512/PB, relator Ministro MARCO AURELIO BELLIZZE, Terceira Turma, julgado em 7/10/2024, DJe de 9/10/2024.)
+Quanto ao mérito, o Tribunal de origem atribuiu ao executado, que requereu a prova, a antecipação dos honorários periciais, nos seguintes termos (e-STJ, fls. 319-321):
+"Diante desta conjuntura, o agravante apresentou os cálculos, no bojo do feito executivo, defendendo ser credor da quantia de R$ 854.878,88 (fls. 851/858 dos autos de origem).
+Às fls. 862/863 e 872/873 (dos autos de origem) constam petições do devedor, ora agravado, impugnando os cálculos e requerendo a nomeação de perito judicial, a fim de dirimir a questão e conferir as contas elaboradas pelo exequente. Assim, dada a discrepante divergência de posicionamento adotado pelas partes, para se chegar a definição do quantum debeatur, bem como os parâmetros de atualização a serem utilizados no caso, o magistrado "a quo" determinou, corretamente, a nomeação de perito para dirimir a questão.
+Ora, a necessidade de realização das provas a serem produzidas no processo é avaliada pelo julgador, de modo que não se pode afastar a realização da perícia contábil, até mesmo para se evitar o enriquecimento ilícito de quaisquer das partes.
+O juízo de origem avalia todo o histórico dos autos e decide sobre a utilidade de determinado ato instrutório, nos termos do artigo 370 do Código de Processo Civil1.
+(..)
+Sendo assim, neste ponto, mantenho a decisão hostilizada tal como lançada, para fins de manter hígida a determinação para realização da perícia contábil.
+No entanto, merece acolhimento o pleito do agravante, para que o ônus do pagamento da prova pericial seja suportado pelo devedor, ora agravado.
+Compulsando os autos da execução, se nota que foi o agravado que, na petição de fls. 872/873 (dos autos principais), protestou expressamente pela realização de prova pericial, diante da não concordância com os cálculos apresentados pelo exequente, ora agravante.
+O artigo 373, inciso I, do Código de Processo Civil, preceitua que o ônus da prova incumbe ao requerente, quando se tratar de fato constitutivo do seu direito. Logo, o agravante não deve ser o responsável por custear a prova pericial que não pleiteou.
+Ademais, à luz do artigo 95 do Código de Processo Civil, cabe ao devedor o ônus econômico da prova pericial, pois, ainda que aplicável o Código de Defesa do Consumidor, não houve revogação da regra contida no Código de Processo Civil quanto ao ônus econômico da prova." (Sem grifo no original).
+O Tribunal de origem registrou que, como a prova pericial foi requerida pelo ora agravante, caberia a ele suportar o pagamento dos respectivos honorários. Nesse contexto, tendo a Corte estadual concluído que a perícia decorreu de iniciativa do próprio recorrente. Dessa forma, o acórdão recorrido julgou em conformidade com o entendimento desta Corte, incidindo a Súmula 83/STJ. Ademais, a revisão desse entendimento demandaria o reexame do conjunto fático-probatório, providência vedada.
+A propósito, guardadas as devidas particularidades:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PLANO DE SAÚDE. RELAÇÃO DE CONSUMO. INVERSÃO DO ÔNUS DA PROVA. AUSÊNCIA DE TRANSFERÊNCIA AUTOMÁTICA DO ÔNUS ECONÔMICO. CUSTEIO DOS HONORÁRIOS PERICIAIS PELO REQUERENTE DA PROVA TÉCNICA. ART. 95 DO CPC/15.
+1. Ação de cobrança.
+2. A regra estabelecida no art. 95 do CPC é clara ao atribuir à parte que requer a prova técnica a responsabilidade pela antecipação dos honorários periciais.
+3. Na hipótese, o acórdão recorrido, ao impor ao fornecedor o custeio automático dos honorários periciais com fundamento na inversão do ônus da prova, divergiu da jurisprudência consolidada do STJ, que assegura a aplicação do art. 95 do CPC, mesmo em demandas consumeristas.
+4. Agravo conhecido. Recurso especial conhecido e provido.
+(REsp n. 2.212.093/SP, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 9/2/2026, DJEN de 13/2/2026.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS PERICIAIS. PAGAMENTO. ÔNUS DO REQUERENTE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. REEXAME DE PROVAS. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7 DO STJ. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DO STJ. DECISÃO MANTIDA.
+1. A inexistência de debate prévio da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o conhecimento do recurso, diante da incidência da Súmula n. 211 do STJ.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. É pacífico no âmbito do STJ o entendimento de que "cabe ao requerente da prova pericial o adiantamento dos honorários periciais, nos termos dos art. 19 e 33 do CPC/73" (REsp 1.382.695, Relator Ministro LUIS FELIPE SALOMÃO, DJe 1º/8/2017).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 969.135/SP, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 8/2/2018, DJe de 23/2/2018.)
+Nada obstante, entendo que o apelo nobre deve ser conhecido e provido no que diz respeito ao afastamento da penalidade prevista no art. 1.026, § 2º, do CPC, em razão da oposição de embargos de declaração a que se atribuiu caráter protelatório.
+Com efeito, o mencionado parágrafo do art. 1.026 do CPC estabelece que, "quando os embargos de declaração forem manifestamente protelatórios, o juiz ou tribunal, mediante decisão fundamentada, condenará o embargante ao pagamento de multa ao embargado, não superior a dois por cento sobre o valor atualizado da causa".
+A aplicação da penalidade prevista nesse dispositivo legal pressupõe que os embargos de declaração sejam claramente protelatórios, ou seja, a multa será aplicável quando houver evidente intenção de retardar a resolução da demanda e prolongar o processo.
+De fato, conforme precedentes desta Corte, os embargos de declaração que visam ao prequestionamento de matérias a serem submetidas às instâncias superiores não possuem caráter procrastinatório, devendo ser afastada a multa prevista no art. 1.026, § 2º, do CPC/2015 (Súmula 98/STJ).
+No caso em questão, não há indícios de intenção de procrastinação na conduta processual da parte recorrente, uma vez que foi interposto apenas um recurso de embargos de declaração com o objetivo de prequestionar a matéria, o que justifica o afastamento da multa do art. 1.026, § 2º, do CPC/2015.
+Nesse sentido:
+"DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANO MORAL. SÚMULA 7/STJ. AFASTAMENTO DA . DE MULTA EMBARGOS DECLARAÇÃO PROTELATÓRIOS NÃO VERIFICADOS. RECURSO PARCIALMENTE CONHECIDO E, NESSA PARTE, PROVIDO.
+I. Caso em exame
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial fundamentado no III, "a" e "c", da Constituição Federal, em art. 105, face de acórdão do Tribunal de Justiça de Santa Catarina que afastou a responsabilidade civil de instituição financeira por danos morais decorrentes de abertura de conta corrente fraudulenta e contratação de empréstimo consignado em nome da recorrente, com descontos indevidos em benefício previdenciário.
+2. A decisão recorrida também aplicou de 2% sobre o valor da causa, multa nos termos do § 2º, do CPC, por considerar os de art. 1.026, embargos opostos pela recorrente como manifestamente protelatórios. declaração
+II. Questão em discussão
+3. Há duas questões em discussão: (I) saber se a abertura de conta corrente fraudulenta e a contratação de empréstimo consignado com descontos indevidos em benefício previdenciário configuram dano moral passível de indenização; e (II) saber se a aplicação de por de multa embargos declaração foi adequada, considerando a alegação de que os visavam ao embargos prequestionamento de matéria relevante e não tinham caráter protelatório.
+III. Razões de decidir
+4. A jurisprudência do STJ estabelece que a fraude bancária, por si só, não configura dano moral, sendo necessário que esteja associada a circunstâncias agravantes. No caso, o acórdão recorrido concluiu que os fatos narrados pela recorrente não causaram prejuízo a direitos da personalidade, sendo considerados meros dissabores cotidianos. A revisão dessa conclusão demandaria o reexame do conjunto fático-probatório, vedado pela Súmula 7/STJ.
+5. Quanto à por de , a jurisprudência do STJ multa embargos declaração (Súmula 98) afasta a aplicação da penalidade quando os visam ao embargos prequestionamento de matéria para instâncias superiores. No caso, não há indícios de intenção de procrastinação na conduta da recorrente, justificando o afastamento da multa prevista no art. 1.026, § 2º, do CPC.
+IV. Dispositivo
+6. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, dar-lhe provimento, a fim de afastar a multa prevista no art. 1.026, § 2º, do CPC."
+(AREsp 2759445/SC RELATOR Ministro RAUL ARAÚJO, QUARTA TURMA, DATA DO JULGAMENTO: DATA DA PUBLICAÇÃO/FONTE: 13/10/2025; DJEN 20/10/2025).
+Diante do exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nesta extensão, dou parcial provimento ao recurso especial, a fim de determinar a exclusão da multa imposta à recorrente com fundamento no art. 1.026, § 3º, do CPC.
+Publique-se.
+EMENTA
