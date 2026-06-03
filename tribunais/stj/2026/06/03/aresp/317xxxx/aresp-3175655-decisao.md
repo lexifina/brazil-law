@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de agravo em face de decisão que inadmitiu recurso especial interposto por MARIA GOMES PEDRO, com fundamentado no art. 105, III, a e c, da Constituição Federal, em desafio a acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba, assim ementado:
+EMENTA. APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. DESCONTOS INDEVIDOS EM CONTA BANCÁRIA DESTINADA AO RECEBIMENTO DE BENEFÍCIO PREVIDENCIÁRIO. COBRANÇA NÃO CONTRATADA DE TARIFA D E C E S T A D E S E R V I Ç O S . R E S T I T U I Ç Ã O E M D O B R O . INEXISTÊNCIA DE DANO MORAL. PROVIMENTO PARCIAL DO RECURSO. I. CASO EM EXAME. 1. Apelação interposta por Maria Gomes Pedro contra sentença que julgou improcedente ação de obrigação de fazer cumulada com repetição de indébito e reparação de danos morais, proposta em face de instituição financeira, para impugnar d e s c o n t o s i n d e v i d o s e m c o n t a b a n c á r i a d e s t i n a d a exclusivamente ao recebimento de benefício previdenciário. A s e n t e n ç a e n t e n d e u q u e a s m o v i m e n t a ç õ e s f i n a n c e i r a s descaracterizavam a natureza da conta exclusiva para tal fim. II. QUESTÃO EM DISCUSSÃO 2. Há duas questões em discussão: (i) definir se os descontos realizados pela instituição financeira, relativos à tarifa de cesta de serviços ("Cesta B. Expresso 1"), são legítimos; e (ii) estabelecer se os descontos indevidos configuram dano moral indenizável. III. RAZÕES DE DECIDIR 3. O Código de Defesa do Consumidor aplica-se às instituições financeiras, conforme a Súmula 297 do STJ, impondo o dever de transparência e boa-fé objetiva na relação com o consumidor. 4. A instituição financeira não apresenta prova de contrato válido ou autorização da cliente para a cobrança da tarifa de cesta de serviços, configurando prática abusiva, nos termos do art. 42, parágrafo único, do CDC. 5. Os extratos bancários demonstram que a conta da apelante se destinava exclusivamente ao recebimento de benefício previdenciário, não havendo movimentações que caracterizem uso de serviços financeiros que justifiquem as cobranças. 6. A jurisprudência do STJ e desta Corte estabelece que a devolução em dobro dos valores descontados indevidamente é devida, salvo quando demonstrado engano justificável, o que não ocorreu no caso. 7. Não configura dano moral indenizável, pois a situação não ultrapassa o mero aborrecimento, sendo insuficiente para caracterizar lesão à personalidade ou sofrimento relevante, c o n f o r m e e n t e n d i m e n t o c o n s o l i d a d o n o c . S T J e n a jurisprudência local. IV. DISPOSITIVO E TESE Recurso parcialmente provido. Tese de julgamento: -A cobrança de tarifa de cesta de serviços sem contrato ou autorização expressa do consumidor caracteriza prática abusiva e enseja a restituição em dobro dos valores pagos, conforme art. 42, parágrafo único, do Código de Defesa do Consumidor. -O dano moral não se caracteriza quando a falha na prestação do serviço configura mero aborrecimento, sem impacto significativo na esfera pessoal do consumidor. Dispositivos relevantes citados: CDC, arts. 4º e 42, parágrafo único; CPC, art. 85, §14, e art. 86. Jurisprudência relevante citada: STJ, Súmula 297; TJPB, AC nº 0802067-88.2022.8.15.0211, Rel. Des. Marcos Cavalcanti de Albuquerque, j. 31/10/2023; STJ, AgInt no AR Esp nº XXX/SP, Rel. Min. Raul Araújo, j. 15/03/2021; TJPB, AC nº 0800051-85.2023.8.15.0031, Rel. Des. Marcos Cavalcanti de Albuquerque, j. 04/03/2024.
+Os embargos de declaração foram rejeitados, vide acórdão de fls. 543-549, e-STJ.
+Nas razões do recurso especial, a parte recorrente alega:
+(i) CPC art. 1.022 e art. 1.025, pois teria havido omissão não enfrentada sobre a aplicação do art. 85, § 8º-A, e, rejeitados os embargos de declaração, o prequestionamento ficto estaria configurado, caracterizando negativa de prestação jurisdicional.
+(ii) CPC art. 85, §§ 2º, 8º, 8º-A e § 11 (Lei 14.365/2022), pois a fixação equitativa dos honorários sucumbenciais deveria observar a Tabela da Ordem dos Advogados do Brasil ou o mínimo de 10%, aplicando-se o que fosse maior, além da majoração recursal, e a fixação ínfima teria violado tais parâmetros objetivos.
+(iii) Código Civil art. 186, 187, 927 e 944; Código de Defesa do Consumidor art. 6, VI e VII, 12 e 39, III, pois descontos/serviços não contratados em benefício de natureza alimentar configurariam dano moral in re ipsa e responsabilidade objetiva do fornecedor, de modo que a ausência de condenação por danos morais teria negado vigência a esses dispositivos.
+Contrarrazões ofertadas às fls. 584-596 (e-STJ).
+Em juízo prévio de admissibilidade, o eg. TJ-PB inadmitiu o apelo nobre (e-STJ, fls. 602-603), dando ensejo ao presente agravo (e-STJ, fls. 617-633).
+Contraminuta oferecida às fls. 636-646 (e-STJ).
+É o relatório. Passo a decidir.
+A irresi gnação não merece prosperar.
+Inicialmente, rejeita-se a alegada violação do art. 1.022 do CPC/2015, uma vez que o eg. TJ-PB analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação.
+Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. INOVAÇÃO RECURSAL. VÍCIOS DE CONSTRUÇÃO. LEGITIMIDADE ATIVA DO CONDOMÍNIO. DECISÃO MANTIDA.
+(..)
+2. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido analisou todas as questões pertinentes para a solução da lide, pronunciando-se, de forma clara e suficiente, sobre a controvérsia estabelecida nos autos.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1071467/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/10/2017, DJe 17/10/2017)
+Por sua vez, em relação ao art. 8º-A do CPC/2015, melhor sorte não socorre ao recorrente.
+Como sabido, o prequestionamento é requisito de admissibilidade do apelo especial, uma vez que compete ao eg. STJ julgar, em sede de recurso especial, conforme dicção do art. 105, III, da Carta Magna, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios.
+Na espécie, tem-se que o conteúdo normativo do art. 8º-A do CPC/2015 não foram apreciados pelo eg. TJ-PB, acarretando a ausência de prequestionamento desses dispositivos legais. Nesse diapasão, deve ser confirmada a decisão agravada quanto ao não conhecimento do apelo nobre nesta parte, em face da incidência, por analogia, do óbice das Súmulas 282 e 356 do STF. Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282 E 356/STF. REEXAME DE MATÉRIA PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Por isso que, não decidida a questão pela instância ordinária e não opostos embargos de declaração, a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados n. 282 e 356 da Súmula do Supremo Tribunal Federal.
+(..)
+3. Agravo interno não provido."
+(AgInt no AREsp 1.208.802/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/04/2018, DJe de 20/04/2018)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ANULAÇÃO DE CONTRATO CUMULADA COM INDENIZAÇÃO. ARTS. 6º DA LEI DE INTRODUÇÃO ÀS NORMAS DO DIREITO BRASILEIRO E 4º, PARÁGRAFO ÚNICO, DA LEI N. 8.955/94. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. CONTRATO DE FRANQUIA. RESCISÃO. REEXAME FÁTICO DOS AUTOS. SÚMULA N.
+7/STJ.
+1. A ausência de prequestionamento de dispositivos legais tidos por violados impede o conhecimento do recurso especial. Incidem as Súmulas n. 282 e 356 do STF.
+(..)
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 234.398/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/04/2018, DJe de 16/04/2018 - grifou-se)
+Impende salientar, ainda, que não há contradição em se reconhecer a ausência de violação ao art. 1.022 do CPC/2015, e assentar que o referido artigo carece de prequestionamento, pois a matéria não foi suscitada pelo ora recorrente em sua petição de embargos de declaração de fls. 513-523 e não houve manifestação da Corte de origem, o que acarreta a preclusão consumativa acerca do tema.
+Nessa linha de intelecção, destaca-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+(..)
+3. Quanto à tese de iliquidez do Plano de Recuperação Judicial, relacionada à afronta ao artigo 53, II, da Lei n.º 11/101/05, a Corte local não examinou a alegada "apresentação de plano de pagamento ilíquido" (fl. 14, e-STJ), e, nas razões do recurso especial, o agravante deixou de apontar no ponto eventual ofensa ao artigo 1.022 do CPC/15. Nada obstante, a falta de prequestionamento, observa-se que tal tema nem mesmo foi objeto dos embargos de declaração (fls. 327/330, e-STJ) opostos na origem, a evidenciar, inclusive, a preclusão da matéria.
+(..)
+6. Agravo interno desprovido."
+(AgInt no AREsp 1244938/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 11/05/2020, DJe 18/05/2020)
+Por sua vez, quanto aos danos morais, o Tribunal de origem, analisando as circunstâncias do caso, assim dirimiu a controvérsia:
+- Do prejuízo moral sustentado. Os fatos relatados pela Autora, ora apelante, não se enquadram no conceito de dano moral, cujo substrato envolve a dor profunda e o sofrimento relevante. É tranquila a jurisprudência do Superior Tribunal de Justiça no sentido de que mero aborrecimento, mágoa ou excesso de sensibilidade por parte de quem afirma dano moral, por serem inerentes à vida em sociedade, são insuficientes à caracterização do abalo, visto que tal depende da constatação, por meio de exame objetivo e prudente arbítrio, da real lesão à personalidade daquele que se diz ofendido. Vejamos:
+(..)
+A falha na prestação do serviço por parte da instituição financeira, consubstanciada na realização de descontos indevidos em conta bancária sem contrato válido, não pode gerar dano moral quando o próprio consumidor deixou fluir onze anos (de 2013 até o ajuizamento da ação em 2024) para reclamar em juízo das reduções duvidosas, de modo a caracterizar acomodação por parte da Recorrente, o que não evidencia dano moral indenizável. Portanto, como não houve produção de provas que elucidassem de maneira clara e precisa a obrigação do Banco de reparar pelo dano moral alegado, afasto a pretensão da Apelante, tão somente, neste sentido.
+A jurisprudência do Superior Tribunal de Justiça não reconhece a existência de dano moral in re ipsa em casos de fraude bancária ou descontos indevidos, salvo quando há circunstâncias agravantes que demonstrem efetiva violação de direitos da personalidade, o que não ficou caracterizado.
+Nesse sentido:
+DIREITO PROCESSUAL CIVIL E CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. DESCONTOS INDEVIDOS EM BENEFÍCIO PREVIDENCIÁRIO. DANOS MORAIS NÃO CONFIGURADOS. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. OBSERVÂNCIA AO ART. 85, § 2º, DO CPC/15. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. A jurisprudência do Superior Tribunal de Justiça não reconhece a existência de dano moral in re ipsa em casos de fraude bancária ou descontos indevidos, salvo quando há circunstâncias agravantes que demonstrem efetiva violação de direitos da personalidade, o que não ficou caracterizado.
+Precedentes.
+2. A revisão do montante dos honorários advocatícios só é admitida em situações excepcionais, quando o valor for manifestamente irrisório ou excessivo, o que não se verifica no caso concreto, em que fixado dentro dos parâmetros legais.
+Precedentes.
+3. Estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ.
+4.
+Agravo conhecido para negar provimento ao recurso especial.
+(AREsp n. 3.085.035/PB, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 22/4/2026, DJEN de 30/4/2026.)
+Estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ, pelas alíneas "a" e "c" do permissivo constitucional.
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+EMENTA
