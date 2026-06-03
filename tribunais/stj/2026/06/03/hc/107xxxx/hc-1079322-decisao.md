@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ALESSANDRO SILVA DOS SANTOS contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta nos autos que o paciente está preso preventivamente pela suposta prática do crime capitulado no art. 157, § 2º, II, V, § 2ºA, I, do Código Penal.
+Impetrado habeas corpus perante o Tribunal de Justiça do Estado de São Paulo, o tribunal manteve a prisão preventiva do paciente.
+Na presente impetração, busca-se a concessão da ordem para substituir a prisão preventiva por prisão domiciliar humanitária, com monitoração eletrônica, à luz do artigo 318, inciso II, do Código de Processo Penal, em razão de doença oncológica grave e da insuficiência de assistência médica no estabelecimento prisional.
+Liminar indeferida às fls. 277-278.
+Informações prestadas às fls. 280-283.
+O Ministério Público Federal em parecer, às fls. 290-292, opinou pela denegação da ordem.
+É  o  relatório. DECIDO.
+Incialmente, no que se refere à alegação acerca de que o paciente possui doença grave a justificar a imposição de prisão domiciliar, não verifico flagrante ilegalidade a ser sanada pela presente via, pois não restou demonstrada a impossibilidade de o estabelecimento prisional dispensar, ao ora paciente, os cuidados necessários.
+No ponto, o Tribunal local consignou que
+Por fim, quanto ao estado de saúde do Paciente, verifica-se às fls. 113/115 dos autos de origem a juntada de relatório médico dando conta que o Paciente se encontra estável, fazendo uso das medicações necessárias e, inclusive, estava agendado para o dia 15/01/2026 a realização de exame de tomografia para averiguação da conduta a ser seguida pela equipe médica da unidade prisional, de modo que não se mostra cabível a concessão da prisão domiciliar.
+Ao que consta, nada de novo foi trazido aos autos que pudesse alterar a situação fática de modo a ensejar a soltura do Paciente. (fl. 273).
+Ademais, conforme se verifica das informações disponibilizadas no sítio da Corte de origem (www.tjsp.jus.br), foi proferida decisão pelo Juízo de primeiro grau, em 31/3/2026, a qual demonstra que o paciente vem recebendo a atenção e o acompanhamento que o caso demanda:
+"Vistos.
+Juntado o ofício do Centro de Detenção Provisória de São José dos Campos (fls. 431/434), respondendo aos quesitos formulados por este Juízo. O Ministério Público se manifestou a fls. 439, reiterando o indeferimento do pedido de revogação da prisão preventiva.
+O ofício apresenta histórico detalhado de atendimentos prestados ao custodiado, confirma a realização do 1º ciclo de quimioterapia (protocolo CAPOX) em 10 de março de 2026, informa que o acusado compareceu à consulta oncológica em 27 de março de 2026 e com agendamento da 2ª sessão de quimioterapia para 31 de março de 2026, coleta de sangue para 15 de abril e reavaliação oncológica para 17 de abril de 2026. Ademais, descreve as condições de custódia do réu, incluindo cela individual com justificativa clínica (biossegurança em razão da imunossupressão), acesso diário a banho de sol, dieta prescrita por nutricionista, água filtrada e visitas semanais.
+Entretanto, a unidade prisional admite expressamente que a equipe de enfermagem está disponível apenas das 7h às 19h, de segunda a sexta-feira, sem cobertura de enfermagem no período noturno e nos finais de semana, a qual é uma lacuna que, diante da gravidade do quadro oncológico do acusado e das intercorrências clínicas já documentadas nos autos (hemoptise, episódios de suboclusão intestinal e intercorrência respiratória durante a administração de quimioterapia), não pode ser desconsiderada.
+Considerando a necessidade de se obter subsídio técnico-médico acerca da compatibilidade das condições de custódia ora descritas com a continuidade segura do tratamento oncológico em curso, antes de deliberar definitivamente sobre o pedido formulado pela defesa:
+Expeça-se ofício ao Hospital Pio XII Obra de Ação Social, sito em São José dos Campos/SP, solicitando que a médica oncologista responsável pelo acompanhamento de ALESSANDRO SILVA DOS SANTOS (prontuário nº 101255055), ou outro profissional da equipe oncológica que o assista, preste informações técnicas e objetivas acerca dos seguintes pontos:
+a) se as condições de custódia descritas pelo CDP cela individual com suporte de enfermagem disponível apenas das 7h às 19h, de segunda a sexta-feira, sem cobertura no período noturno e nos fins de semana, com possibilidade de encaminhamento a hospital em caso de necessidade são compatíveis com a continuidade segura do protocolo quimioterápico CAPOX atualmente em curso;
+b) quais intercorrências clínicas são esperadas ou possíveis durante e entre os ciclos do protocolo CAPOX, em especial aquelas que exijam intervenção médica imediata, e se o encaminhamento a serviço hospitalar de urgência, nesses casos, seria resposta tempestiva e adequada;
+c) se o quadro clínico atual do paciente incluindo os episódios de hemoptise, suboclusão intestinal e a intercorrência respiratória registrada durante a 1ª sessão de quimioterapia em 10/03/2026 impõe a necessidade de monitoramento médico contínuo e ininterrupto, incompatível com a estrutura descrita pelo CDP;
+d) qualquer outra informação que o profissional entenda relevante para a avaliação das condições de saúde do paciente no contexto da custódia cautelar.
+Prazo para resposta: 05 dias.
+Após o retorno, tornem os autos conclusos para deliberação sobre o pedido da defesa.
+Intime-se a defesa e o Ministério Público. São José dos Campos, 31 de março de 2026".
+|Ilustrativamente:
+"Com efeito, nos termos do art. 318, II, do Código de Processo Penal, a prisão domiciliar poderá ser concedida quando o acusado ou o indiciado estiver "extremamente debilitado por motivo de doença grave". Na mesma direção, o parágrafo único do referido dispositivo determina que seja apresentada prova idônea da situação. Desse modo, não bastam meras alegações de que o réu se encontra acometido de enfermidade, mas se requer a demonstração inequívoca da debilidade extrema, bem como da impossibilidade de tratamento no estabelecimento prisional. Precedentes. - No presente caso, não restou comprovado que o agravante não possa receber no estabelecimento prisional em que se encontra, os cuidados necessários para sua saúde" (AgRg no RHC n. 194.892/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/4/2024, DJe de 16/4/2024.)
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
