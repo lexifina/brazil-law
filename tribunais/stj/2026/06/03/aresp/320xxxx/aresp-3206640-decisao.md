@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ISAIAS DA COSTA LOPES contra a decisão do Tribunal de Justiça do Estado do Piauí que inadmitiu recurso especial apresentado contra o acórdão exarado no julgamento da Apelação Criminal n. 0800062-96.2024.8.18.0031.
+O Ministério Público Federal apresentou parecer opinando pelo não conhecimento do agravo em recurso especial (fls. 547/551).
+É o relatório.
+O agravo é inadmissível.
+A decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos, inclusive de forma específica, suficiente e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula 182/STJ.
+Nesse contexto, a ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso por violação do princípio da dialeticidade, sendo insuficiente a reiteração do mérito da controvérsia (AgRg no AgRg no AREsp n. 2.243.176/RN, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 7/5/2024, DJe de 15/5/2024) - (fl. 551).
+O Tribunal de origem inadmitiu o recurso especial pelos seguintes fundamentos: 1) incidência da Súmula 7/STJ - necessidade de revolvimento fático-probatório quanto à tese de violação do art. 59 do Código Penal; e 2) incidência da Súmula 282/STF - ausência de prequestionamento quanto ao patamar da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a íntegra da decisão de inadmissão.
+Alega que a discussão do apelo especial se situa puramente no campo do direito, não encontrando óbice na Súmula 7/STJ, e que o reexame de provas seria absolutamente desnecessário, com menção a precedente sobre distinção entre reexame e revaloração.
+Sustenta que despicienda a oposição de embargos com fins de prequestionamento, pois teria havido o devido debate da questão jurídica relativa à fração da minorante no acórdão.
+Defende que a decisão denegatória incorreu em juízo equivocado ao afirmar ausência de demonstração de violação do art. 59 do Código Penal, asseverando que no recurso especial houve devida exposição fática e cotejo analítico da decisão vergastada com precedentes.
+Em relação ao fundamento da Súmula 7/STJ, o agravo não demonstra, concretamente, que a tese poderia ser acolhida mediante mera revaloração de fatos incontroversos fixados no acórdão recorrido, limitando-se a afirmações genéricas sem indicar quais elementos fáticos foram expressamente reconhecidos pelas instâncias ordinárias e prescindiriam de revolvimento probatório.
+No que toca ao fundamento da Súmula 282/STF, o agravante não indica qualquer trecho do acórdão recorrido, nem as folhas em que a questão jurídica relativa ao patamar da minorante teria sido debatida, tampouco invoca, de modo concreto, a ocorrência de prequestionamento ficto (art. 1.025 do Código de Processo Civil).
+A orientação desta Corte é no sentido de que é imprescindível que no aresto recorrido a questão tenha sido discutida e decidida fundamentadamente, sob pena de não preenchimento do requisito do prequestionamento, indispensável para o conhecimento do recurso (AgRg no AREsp n. 1.726.251/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/3/2021, DJe de 15/3/2021).
+Por conseguinte, aplica-se, à hipótese dos autos, o art. 932, inciso III, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, e a Súmula 182/STJ por analogia.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DECISÃO DE INADMISSIBILIDADE INCINDÍVEL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA E PORMENORIZADA. PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DAS SÚMULAS 7/STJ E 282/STF. INVIABILIDADE DE REEXAME FÁTICO-PROBATÓRIO. INSUFICIÊNCIA DE ALEGAÇÕES GENÉRICAS SOBRE REVALORAÇÃO. FALTA DE PREQUESTIONAMENTO. INAPLICABILIDADE DO PREQUESTIONAMENTO FICTO. APLICAÇÃO ANALÓGICA DA SÚMULA 182/STJ. NÃO CONHECIMENTO DO AGRAVO.
+Agravo em recurso especial não conhecido.
