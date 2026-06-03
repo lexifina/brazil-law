@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 28/05/2026 a 03/06/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, Maria Marluce Caldas e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental NO habeas corpus SUBSTITUTIVO. tráfico de drogas. CAUSA DE DIMINUIÇÃO ESPECIAL DA PENA. BIS IN IDEM. INOCORRÊNCIA. REGIME FECHADO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. Agravo IMprovido.
+I. Caso em exame
+1. O recurso. Agravo regimental interposto pela defesa contra decisão monocrática que não conheceu de habeas corpus impetrado em favor de condenado por tráfico de drogas, sob o fundamento de inadequação da via eleita, por possuir nítido caráter revisional e visar à desconstituição de condenação já acobertada pela coisa julgada.
+2. Fato relevante. A defesa alega flagrante ilegalidade na dosimetria da pena, sustentando: (i) ocorrência de bis in idem na utilização da quantidade e da natureza da droga para a majoração da pena-base; (ii) indevido afastamento da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006; e (iii) fixação de regime inicial mais gravoso.
+3. As decisões anteriores. O acórdão impugnado majorou a pena-base com fundamento na apreensão de 5,770kg de maconha e 48,899kg de cocaína, nos termos do art. 42 da Lei de Drogas, bem como na apreensão de diversos apetrechos utilizados para o comércio de drogas, dinheiro em espécie e munições, elementos considerados indicativos de dedicação à atividade criminosa, o que levou ao afastamento do tráfico privilegiado e à fixação de regime prisional mais gravoso. O habeas corpus originário não foi conhecido.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se é possível, por meio de agravo regimental em habeas corpus substitutivo de recurso próprio, revisar condenação penal transitada em julgado, em especial quanto à dosimetria da pena aplicada em crime de tráfico de drogas, afastando-se a coisa julgada.
+5. Há, ainda, a questão de saber se, no caso concreto, há manifesta ilegalidade na dosimetria da pena que justifique a superação da orientação restritiva ao habeas corpus substitutivo, notadamente quanto: (i) ao uso da quantidade e da natureza da droga para majoração da pena-base; (ii) ao afastamento da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006; e (iii) à fixação de regime prisional inicial mais gravoso.
+III. Razões de decidir
+6. O tribunal superior somente possui competência para revisar, em sede de revisão criminal, os seus próprios julgados, nos termos do art. 105, inciso I, alínea e, da Constituição da República, não sendo o habeas corpus meio adequado para desconstituir condenação acobertada pela coisa julgada com nítido caráter revisional.
+7. A orientação consolidada do Supremo Tribunal Federal e do Superior Tribunal de Justiça é no sentido de não admitir habeas corpus substitutivo de recurso próprio, ressalvadas as hipóteses de manifesta ilegalidade no ato judicial impugnado, o que não se verifica na espécie.
+8. A majoração da pena-base fundou-se na expressiva quantidade (5,770kg de maconha e 48,899kg de cocaína) e na natureza da droga apreendida, em consonância com o art. 42 da Lei n. 11.343/2006.
+9. Os elementos concretos do caso  grande quantidade de entorpecentes, instrumentos ligados ao comércio ilícito, munições e dinheiro em espécie  indicam dedicação à atividade criminosa, o que afasta a incidência da causa de diminuição do tráfico privilegiado prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+10. A existência de circunstância judicial desfavorável, reconhecida a partir dos elementos concretos do delito, autoriza a fixação de regime prisional inicial mais gravoso, não havendo, portanto, constrangimento ilegal a ser sanado pela via do habeas corpus.
+IV. Dispositivo e tese
+11. Resultado do Julgamento: Agravo regimental improvido, mantendo-se a decisão que não conheceu do habeas corpus.
+Tese de julgamento:
+1. O habeas corpus não constitui via adequada para desconstituição de condenação transitada em julgado com nítido caráter revisional, cabendo a revisão criminal apenas em relação aos julgados proferidos pelo próprio tribunal competente, nos termos do art. 105, I, e, da Constituição da República.
+2. A inadmissibilidade do habeas corpus substitutivo de recurso próprio somente cede diante de manifesta ilegalidade, o que não ocorre quando a pena-base está fundamentada na quantidade e natureza da droga (art. 42 da Lei n. 11.343/2006) e em elementos concretos que evidenciam dedicação à atividade criminosa.
+Dispositivos relevantes citados: CF/1988, art. 105, I, e; Lei n. 11.343/2006, art. 33, caput e § 4º; art. 42
+Jurisprudência relevante citada: STJ, AgRg no HC n. 940391/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/3/2025, DJEN de 24/3/2025; STJ, AgRg no HC n. 958.212/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/3/2025, DJEN de 19/3/2025.
+RELATÓRIO
+Trata-se de agravo interposto regimental interposto por VALMIR DIAS DA SILVA contra decisão na qual não conheci do habeas corpus.
+Nas razões, a defesa repisa a suposta flagrante ilegalidade na dosimetria da pena, afirmando bis in idem na utilização da quantidade e da natureza da droga para a majoração da pena-base, o afastamento da causa de diminuição do art. 33, § 4º, da Lei 11.343/2006 e a fixação de regime inicial mais gravoso.
+Requer, assim, a reconsideração da decisão impugnada ou a submissão do agravo à Turma, para reforma da decisão monocrática, com o reconhecimento da minorante do tráfico privilegiado, o redimensionamento da pena do delito de tráfico de drogas e a fixação de regime inicial menos gravoso.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental NO habeas corpus SUBSTITUTIVO. tráfico de drogas. CAUSA DE DIMINUIÇÃO ESPECIAL DA PENA. BIS IN IDEM. INOCORRÊNCIA. REGIME FECHADO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. Agravo IMprovido.
+I. Caso em exame
+1. O recurso. Agravo regimental interposto pela defesa contra decisão monocrática que não conheceu de habeas corpus impetrado em favor de condenado por tráfico de drogas, sob o fundamento de inadequação da via eleita, por possuir nítido caráter revisional e visar à desconstituição de condenação já acobertada pela coisa julgada.
+2. Fato relevante. A defesa alega flagrante ilegalidade na dosimetria da pena, sustentando: (i) ocorrência de bis in idem na utilização da quantidade e da natureza da droga para a majoração da pena-base; (ii) indevido afastamento da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006; e (iii) fixação de regime inicial mais gravoso.
+3. As decisões anteriores. O acórdão impugnado majorou a pena-base com fundamento na apreensão de 5,770kg de maconha e 48,899kg de cocaína, nos termos do art. 42 da Lei de Drogas, bem como na apreensão de diversos apetrechos utilizados para o comércio de drogas, dinheiro em espécie e munições, elementos considerados indicativos de dedicação à atividade criminosa, o que levou ao afastamento do tráfico privilegiado e à fixação de regime prisional mais gravoso. O habeas corpus originário não foi conhecido.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se é possível, por meio de agravo regimental em habeas corpus substitutivo de recurso próprio, revisar condenação penal transitada em julgado, em especial quanto à dosimetria da pena aplicada em crime de tráfico de drogas, afastando-se a coisa julgada.
+5. Há, ainda, a questão de saber se, no caso concreto, há manifesta ilegalidade na dosimetria da pena que justifique a superação da orientação restritiva ao habeas corpus substitutivo, notadamente quanto: (i) ao uso da quantidade e da natureza da droga para majoração da pena-base; (ii) ao afastamento da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006; e (iii) à fixação de regime prisional inicial mais gravoso.
+III. Razões de decidir
+6. O tribunal superior somente possui competência para revisar, em sede de revisão criminal, os seus próprios julgados, nos termos do art. 105, inciso I, alínea e, da Constituição da República, não sendo o habeas corpus meio adequado para desconstituir condenação acobertada pela coisa julgada com nítido caráter revisional.
+7. A orientação consolidada do Supremo Tribunal Federal e do Superior Tribunal de Justiça é no sentido de não admitir habeas corpus substitutivo de recurso próprio, ressalvadas as hipóteses de manifesta ilegalidade no ato judicial impugnado, o que não se verifica na espécie.
+8. A majoração da pena-base fundou-se na expressiva quantidade (5,770kg de maconha e 48,899kg de cocaína) e na natureza da droga apreendida, em consonância com o art. 42 da Lei n. 11.343/2006.
+9. Os elementos concretos do caso  grande quantidade de entorpecentes, instrumentos ligados ao comércio ilícito, munições e dinheiro em espécie  indicam dedicação à atividade criminosa, o que afasta a incidência da causa de diminuição do tráfico privilegiado prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+10. A existência de circunstância judicial desfavorável, reconhecida a partir dos elementos concretos do delito, autoriza a fixação de regime prisional inicial mais gravoso, não havendo, portanto, constrangimento ilegal a ser sanado pela via do habeas corpus.
+IV. Dispositivo e tese
+11. Resultado do Julgamento: Agravo regimental improvido, mantendo-se a decisão que não conheceu do habeas corpus.
+Tese de julgamento:
+1. O habeas corpus não constitui via adequada para desconstituição de condenação transitada em julgado com nítido caráter revisional, cabendo a revisão criminal apenas em relação aos julgados proferidos pelo próprio tribunal competente, nos termos do art. 105, I, e, da Constituição da República.
+2. A inadmissibilidade do habeas corpus substitutivo de recurso próprio somente cede diante de manifesta ilegalidade, o que não ocorre quando a pena-base está fundamentada na quantidade e natureza da droga (art. 42 da Lei n. 11.343/2006) e em elementos concretos que evidenciam dedicação à atividade criminosa.
+Dispositivos relevantes citados: CF/1988, art. 105, I, e; Lei n. 11.343/2006, art. 33, caput e § 4º; art. 42
+Jurisprudência relevante citada: STJ, AgRg no HC n. 940391/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/3/2025, DJEN de 24/3/2025; STJ, AgRg no HC n. 958.212/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/3/2025, DJEN de 19/3/2025.
+VOTO
+Sem razão o agravante.
+Preliminarmente, vale anotar que a defesa busca desconstituir condenação acobertada pela coisa julgada, o que confere a este habeas corpus nítidas características revisionais.
+Todavia, a esta Corte cabe tão somente a revisão criminal dos seus próprios julgados, de acordo com o art. 105, inciso I, alínea e, da Constituição da República . Ademais, uma vez priorizando o uso racional do habeas corpus e a sistemática recursal estabelecida pelo CPP, o Supremo Tribunal Federal e o Superior Tribunal de Justiça não tem admitido o habeas corpus substitutivo de recurso próprio, ressalvadas as hipóteses de manifesta ilegalidade no ato judicial impugnado.
+Da leitura atenta do acórdão impugnado, não se identifica o manifesto constrangimento sustentado pela defesa, pois a pena-base foi majorada em razão da posse de 5,770kg de maconha e 48,899kg de cocaína, nos termos do art. 42 da Lei de drogas. Por sua vez, além da grande quantidade de droga apreendida, foram destacados os apetrechos encontrados para o comércio de drogas, dinheiro em espécie e as diversas munições que indicaram a dedicação do agente à atividade criminosa (e-STJ, fl. 33). Por fim, diante da existência de circunstância desfavorável, aplicou-se o regime prisional mais gravoso.
+Dessa forma, o writ não foi conhecido. Nesse sentido: AgRg no HC n. 940391/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/3/2025, DJEN de 24/3/2025; AgRg no HC n. 958.212/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/3/2025, DJEN de 19/3/2025.
+Ante o exposto, neg o provimento ao recurso.
+É o voto.
