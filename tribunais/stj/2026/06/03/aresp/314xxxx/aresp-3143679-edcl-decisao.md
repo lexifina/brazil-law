@@ -1,0 +1,17 @@
+DECISÃO
+Examinam-se embargos de declaração opostos por IRACI RIVELINI ROSSE, J&L LOCAÇÃO DE AUTOMOVEIS LTDA., JEFERSON JUNIOR ROSSE e LUIS ALBERTO ROSSI contra decisão unipessoal que conheceu do agravo para conhecer em parte do recurso especial interposto pela ora embargada e negar-lhe provimento.
+Em suas razões recursais, alegam a existência de omissão quanto à base de cálculo dos honorários sucumbenciais, sustentando a necessidade de retificação do valor da causa, fixado em R$ 1.000,00 (um mil reais) para o montante correspondente ao efetivo proveito econômico discutido na demanda, qual seja, R$ 1.293.750,00 (um milhão, duzentos e noventa e três mil, setecentos e cinquenta reais). Defendem que a matéria relativa à fixação dos honorários e à definição de sua base de cálculo possui natureza de ordem pública, podendo ser apreciada de ofício pelo julgador, em qualquer tempo e grau de jurisdição, especialmente quando evidenciada manifesta desconformidade com os critérios legais estabelecidos pelo art. 85 do CPC.
+É O BREVE RELATÓRIO.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a sanar obscuridade, contradição, omissão ou erro material.
+Na hipótese, os embargantes sustentam omissão quanto à base de cálculo dos honorários sucumbenciais majorados na decisão embargada, ao argumento de que o valor da causa - fixado em R$ 1.000,00 (um mil reais) - seria irrisório e dissociado do efetivo proveito econômico discutido na demanda, correspondente ao crédito objeto de habilitação na recuperação judicial, no montante de R$ 1.293.750,00 (um milhão, duzentos e noventa e três mil, setecentos e cinquenta reais).
+A decisão embargada, contudo, limitou-se a aplicar o disposto no art. 85, § 11, do CPC, majorando os honorários anteriormente fixados em 12% sobre o valor da causa para 17%, em razão do desprovimento do recurso da parte adversa, sem promover qualquer alteração dos critérios já estabelecidos pelas instâncias ordinárias.
+Embora a jurisprudência desta Corte reconheça que a readequação da base de cálculo dos honorários sucumbenciais possui natureza de orem pública (REsp 2.185632/SP, Terceira Turma, DJe 13/11/2025), tal circunstância não afasta a necessidade de prévio debate da matéria nas instâncias ordinárias, para viabilizar a sua apreciação por esta Corte. Nesse sentido: AgInt no AREsp 2.273.034/SP, Quarta Turma, DJe 15/5/2026; AgInt no AREsp 2.694.935/SP, Quarta Turma, DJe 14/5/2026; AgInt no AREsp 2.288.2 09/RJ, Segunda Turma, DJe 16/12/2025 e AResp 2.778.657/SP, Terceira Turma, DJe 23/10/2025.
+Na hipótese, o recurso especial interposto por ADM do Brasil Ltda. restringiu-se à discussão acerca do valor do crédito a ser habilitado na recuperação judicial, sem qualquer insurgência quanto ao parâmetro de fixação da verba honorária. De igual modo, os ora embargantes não suscitaram oportunamente a questão relativa à adequação da base de cálculo dos honorários.
+Assim, a pretensão deduzida apenas em sede de embargos de declaração, após a majoração da verba honorária em favor dos patronos dos ora embargantes, configura inovação recursal, inviável nesta via integrativa.
+Desse modo, inexistindo os vícios previstos no art. 1.022 do CPC, impõe-se a rejeição dos embargos de declaração.
+Forte nessas razões, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. AUSÊNCIA.
+1. Rejeitam-se os embargos de declaração quando ausente vício a ser sanado.
+2. Embargos de declaração rejeitados.
