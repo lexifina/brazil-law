@@ -1,0 +1,59 @@
+DECISÃO:
+Vistos.
+Sindicato dos Trabalhadores em Educação da Rede Pública do Rio Grande do Norte (SINTE-RN) interpõe agravo contra a decisão que não admitiu recurso extraordinário manejado em face de acórdão proferido pela Terceira Câmara Cível do Tribunal de Justiça daquele Estado, assim ementado:
+
+“DIREITO PROCESSUAL CIVIL. APELAÇÃO CÍVEL. CUMPRIMENTO DE SENTENÇA. INDEVIDO FRACIONAMENTO DO TÍTULO EXECUTIVO. EXTINÇÃO DO FEITO COM ARRIMO NO ART. 487, INCISO I, DO CÓDIGO DE PROCESSO CIVIL.
+I. CASO EM EXAME
+Apelação Cível interposta contra decisão da 6ª Vara da Fazenda Pública da Comarca de Natal, que julgou improcedente o pleito executório, em razão do indevido fracionamento do título judicial executado.
+II. QUESTÃO EM DISCUSSÃO
+Há duas questões em discussão: (i) definir se o cumprimento de sentença referente ao período de novembro de 2010 a fevereiro de 2012, fundado na Ação Coletiva n.º 0802381-93.2012.8.20.0001, é distinto daquele ajuizado em 2015, baseado no mesmo título executivo; e (ii) verificar se a divisão dos períodos de execução configura fracionamento indevido do título judicial, em afronta ao art. 100, §8º, da Constituição Federal.
+III. RAZÕES DE DECIDIR
+Ambos os cumprimentos de sentença apresentados pelos apelantes têm como base o mesmo título judicial, oriundo da Ação Coletiva n.º 0802381-93.2012.8.20.0001, conforme indicado nas petições iniciais e nas planilhas de cálculo anexadas aos autos.
+A tentativa de segmentação temporal das execuções representa fracionamento indevido do título executivo, violando o art. 100, §8º, da Constituição Federal, que veda tal prática com o objetivo de evitar a burla à sistemática de pagamento por precatórios.
+A alegação de que o cumprimento de sentença de 2015 decorre de outro título, formado no Mandado de Segurança Coletivo n.º 2012.004323-4, não merece prosperar, pois o SINTE/RN não possui legitimidade para executar direitos oriundos de ação ajuizada pelo SINAI/RN, entidade que representa servidores da administração indireta, não vinculados à Secretaria de Estado da Educação e Cultura (SEEC).
+A manutenção da sentença recorrida está em conformidade com precedentes desta Corte, que reiteram a impossibilidade de fracionamento de execução contra a Fazenda Pública e a necessidade de observância estrita dos limites subjetivos e objetivos da coisa julgada.
+IV. DISPOSITIVO E TESE
+Recurso desprovido.
+Tese de julgamento: A divisão de períodos para cumprimento de sentença com base no mesmo título judicial coletivo configura fracionamento indevido, em violação ao art. 100, §8º, da Constituição Federal. A legitimidade para executar título judicial coletivo é restrita às partes e substituídos identificados na ação originária, vedada a inclusão de categorias não abrangidas pelo título.” (e-doc. 15)
+
+No recurso extraordinário argumenta-se que a Corte de origem teria contrariado o artigo art. 100, § 8º, da Constituição Federal.
+Sustenta que, na origem, o "cumprimento de sentença foi extinto sem resolução de mérito, com fundamento singular em inconstitucionalidade, tendo por base o artigo 100, parágrafo 8º, da Constituição Federal, por suposta tentativa de fracionamento de precatório, visto que os processos de nº 0811198-11.2017.8.20.5001 (origem deste recurso) e o de 0832345-64.2015.8.20.5001 teriam o mesmo objeto, distinguindo-se entre si somente no tocante aos períodos de cálculos executados".
+Aduz que a "Ação Coletiva nº 0802381-93.2012.8.20.0001 versou sobre a implantação do Plano de Cargos e Carreiras do Estado do Rio Grande do Norte (LC nº 432/2010)", tendo sido"propostas [por sindicatos distintos] ao menos duas ações coletivas objetivando a implantação do Plano de Cargos – Ação Coletiva nº 0802381- 93.2012.8.20.0001 e Mandado de Segurança Coletivo 2012.004323-4".
+Defende, assim, que há "de fato duas execuções – 0832345-64.2015.8.20.5001 e 0811198-11.2017.8.20.5001–, cada qual executando um título judicial distinto, com os mesmos servidores e substitutos processuais, sendo diferentes apenas no tocante aos períodos de cálculo executados".
+Inadmitido o recurso extraordinário pelo Tribunal a Quo (e-doc. 18), o ente recorrente interpôs agravo (e-doc. 19), elevando os autos a esta Corte para apreciação.
+Decido.
+In casu, o Tribunal a Quo manteve "a sentença proferida pelo Juízo de Direito da 6ª Vara da Fazenda Pública da Comarca de Natal que, nos autos do Cumprimento de Sentença n.º 0811198-11.2017.8.20.5001, julgou improcedente a pretensão executória, considerando a vedação constitucional de repartição de execução".
+Naquela assentada, ao contrário do defendido nas razões do apelo extremo, o acórdão recorrido consignou que ambos os casos versam sobre o mesmo título executivo, havendo fracionamento inconstitucional dos períodos em ambos os cumprimentos de sentença deflagrados, como forma de burlar a sistemática de pagamento de precatórios. Vide:
+
+"A principal controvérsia reside na alegação dos recorrentes de que os cumprimentos de sentença apresentados referem-se a títulos executivos distintos: o presente, com base na Ação Coletiva n.º 0802381-93.2012.8.20.0001, para o período de novembro de 2010 a fevereiro de 2012; e o processo n.º 0832345-64.2015.8.20.5001, fundado no Mandado de Segurança Coletivo n.º 2012.004323-4, para o período de março de 2012 a junho de 2014.
+Contudo, os elementos dos autos demonstram que ambos os cumprimentos de sentença têm como base o mesmo título judicial, qual seja: o Processo n.º 0802381-93.2012.8.20.0001.
+Com efeito, nos dois cumprimentos de sentença, além de a petição inicial indicar a dependência ao Juízo responsável pela Ação Coletiva n.º 0802381-93.2012.8.20.0001, as planilhas de cálculos apresentadas em ambos os processos fazem expressa menção à referida ação ordinária coletiva.
+Outrossim, a exordial da demanda executiva ajuizada em 2015 afirma expressamente que a execução decorre de decisão transitada em julgado da mesma ação coletiva.
+Portanto, a divisão dos períodos de execução configura fracionamento indevido do título executivo, contrariando o art. 100, §8º, da Constituição Federal, que proíbe tal prática com o objetivo de burlar a sistemática de pagamento via precatórios.
+Os apelantes também sustentam que o cumprimento de sentença ajuizado em 2015 baseia-se no título formado no Mandado de Segurança Coletivo n.º 2012.004323-4, ajuizado pelo Sindicato dos Servidores Públicos da Administração Indireta do Rio Grande do Norte (SINAI/RN).
+Todavia, tal argumento não merece prosperar, pois o SINTE/RN não possui legitimidade para executar o título formado naquele mandamus impetrado pelo SINAI/RN, uma vez que este último representa os servidores da administração indireta, conforme disposto no art. 3º de seu estatuto, e não os servidores da Secretaria de Estado da Educação e Cultura (SEEC).
+[...]
+Ante o exposto, sem opinamento ministerial, conheço e nego provimento ao recurso de apelação, mantendo incólume o julgado combatido.." (e-doc. 15) (grifos acrescidos)
+
+Nessa circunstância, verifica-se que o Tribunal de origem decidiu a controvérsia em consonância com a jurisprudência deste STF, que consagra a possibilidade de fracionamento de execuções somente nas hipóteses excepcionais de erro material, inexatidão aritmética ou substituição de índices de atualização.
+Além disso, para divergir da conclusão alcançada na origem e acolher a tese recursal de inexistência de fracionamento de precatório, seria indispensável o reexame do conjunto fático-probatório dos autos, providência incompatível com a via extraordinária. Incidência da Súmula 279 do STF.  A propósito:
+
+"DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRECATÓRIO COMPLEMENTAR. ENQUADRAMENTO NAS HIPÓTESES AUTORIZADORAS. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICOPROBATÓRIO. INCIDÊNCIA DA SÚMULA 279 DO STF. AGRAVO NÃO PROVIDO.
+1. O art. 100, § 8º, da Constituição Federal veda a expedição de precatórios complementares ou suplementares de valor pago, bem como o fracionamento, repartição ou quebra do valor da execução para fins de enquadramento de parcela ao regime de pequeno valor.
+2. No julgamento da ADI 2.024/SP, esta Suprema Corte fixou entendimento de que a complementação de precatório original apenas pode ocorrer em três hipóteses: a) erro material; b) inexatidão aritmética; c) substituição do índice aplicado ao caso, por força normativa.
+3. A jurisprudência deste Supremo Tribunal Federal firmou-se no sentido da impossibilidade de fracionamento de execuções, salvo nas hipóteses excepcionais de erro material ou inexatidão aritmética ou substituição de índices de atualização, que é justamente o caso dos autos, que trata de execução complementar referente a saldo remanescente de consectários legais não pagos.
+4. Para verificar se o caso se enquadra nas hipóteses autorizadoras da expedição de precatório complementar seria necessário o reexame de fatos e provas, o que é vedado em sede de recurso extraordinário, nos termos da Súmula 279/STF.
+5. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+6. Agravo interno conhecido e não provido.” (RE nº 1.597.547-AgR, Relator o Ministro Flávio Dino, Primeira Turma, DJe de 21/05/2026- grifei)
+
+"AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. PRECATÓRIO. FRACIONAMENTO. IMPOSSIBILIDADE. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DESTE SUPREMO TRIBUNAL FEDERAL. AJUIZAMENTO DE EXECUÇÕES DISTINTAS PARA A COBRANÇA DE CRÉDITO ORIUNDO DO MESMO TÍTULO EXECUTIVO. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279 DO STF. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4 º, DO CPC/2015. APLICABILIDADE. AGRAVO INTERNO DESPROVIDO.” (ARE nº 1.166.348- AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 22/3/2019-grifei)
+
+"PRECATÓRIO COMPLEMENTAR. FRACIONAMENTO. IMPOSSIBILIDADE. SÚMULA 279/STF. 1. A jurisprudência do Supremo Tribunal Federal se orienta no sentido de que não se exclui da sistemática do art. 100 da Constituição o pagamento de valores complementares ao precatório satisfeito parcialmente, salvo nas hipóteses de erro material, inexatidão aritmética ou substituição de índices aplicáveis ao caso. 2. Divergir do entendimento do Tribunal de origem de que não houve erro material, e chegar à conclusão adotada pela parte recorrente no sentido da existência de erro material que justificaria a expedição de precatório complementar, a expedição de precatório complementar, demandaria o reexame da fatos e provas, procedimento vedado neste momento processual, conforme a Súmula 279/STF. 3. Nos termos do art. 85, §11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. Tal verba, contudo, fica com sua exigibilidade suspensa em razão do deferimento da assistência judiciária gratuita ao agravante, nos termos do art. 98, § 3º, do CPC/2015. 4. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.” (ARE nº 1.172.896-AgR, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 11/03/19)
+
+Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso. Sem majoração da verba honorária, tendo em vista a ausência de fixação pela origem.
+Publique-se.
+Brasília, 3 de junho de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
