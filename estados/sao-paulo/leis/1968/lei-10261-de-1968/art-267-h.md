@@ -1,0 +1,2 @@
+Artigo 267-H - A proposta de celebração do termo de ajustamento de conduta poderá ser feita de ofício ou a pedido do funcionário interessado. (NR)
+Parágrafo único - O pedido de celebração de termo de ajustamento de conduta feito pelo funcionário interessado poderá ser indeferido com base em juízo de admissibilidade que conclua pelo não cabimento da medida em relação à irregularidade a ser apurada. (NR)

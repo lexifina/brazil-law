@@ -1,0 +1,1 @@
+Artigo 68-A - O funcionário poderá afastar-se do Estado para atuar em organismo internacional de que o Brasil participe ou com o qual coopere, mediante autorização expressa do Governador, com prejuízo dos vencimentos e demais vantagens do cargo. (NR)

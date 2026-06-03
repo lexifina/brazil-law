@@ -1,0 +1,6 @@
+Artigo 267-N - Após a edição da portaria de instauração da sindicância, o responsável que a presidir poderá propor sua suspensão pelo prazo de 1 (um) a 2 (dois) anos, desde que o servidor tenha mais de 5 (cinco) anos de exercício no cargo ou função e não registre punição de natureza disciplinar nos últimos 5 (cinco) anos. (NR)
+§ 1° - O responsável pela condução da sindicância especificará as condições da suspensão, em especial, a apresentação de relatórios trimestrais de atividades e a frequência regular sem faltas injustificadas. (NR)
+§ 2° - A suspensão será revogada se o beneficiário vier a ser processado por outra falta disciplinar ou se descumprir as condições estabelecidas no § 1° deste artigo, prosseguindo, nestes casos, o procedimento disciplinar cabível. (NR)
+§ 3° - Expirado o prazo da suspensão e tendo sido cumpridas suas condições, o responsável pela condução da sindicância encaminhará os autos à autoridade competente para aplicar a pena em tese cabível, para a declaração da extinção da punibilidade. (NR)
+§ 4° - Não será concedido novo benefício durante o dobro do prazo da anterior suspensão, contado da declaração de extinção da punibilidade, na forma do § 3° deste artigo. (NR)
+§ 5° - Durante o período da suspensão não correrá prazo prescricional, ficando vedado ao beneficiário ocupar cargo em comissão ou exercer função de confiança. (NR)

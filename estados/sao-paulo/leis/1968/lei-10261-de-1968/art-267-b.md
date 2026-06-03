@@ -1,0 +1,6 @@
+Artigo 267-B - As práticas autocompositivas, a serem regulamentadas por decreto, serão orientadas pelos princípios da voluntariedade, corresponsabilidade, reparação do dano, confidencialidade, informalidade, consensualidade e celeridade, observado o seguinte: (NR)
+I - as sessões serão conduzidas por facilitador de justiça restaurativa ou mediador devidamente capacitado e realizadas em ambiente adequado que resguarde a privacidade dos participantes e a confidencialidade de suas manifestações; (NR)
+II - a participação do funcionário será voluntária e a eventual recusa não poderá ser considerada em seu desfavor. (NR)
+§ 1 ° - São práticas autocompositivas a mediação, a conciliação, os processos circulares e outras técnicas de justiça restaurativa. (NR)
+§ 2° - Para aplicação das práticas autocompositivas, é necessário que as partes reconheçam os fatos essenciais, sem que isso implique admissão de culpa em eventual sindicância ou processo administrativo. (NR)
+§ 3° - O conteúdo das sessões restaurativas é sigiloso, não podendo ser utilizado como prova em processo administrativo ou judicial. (NR)

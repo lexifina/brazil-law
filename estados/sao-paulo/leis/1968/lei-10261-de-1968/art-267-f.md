@@ -1,0 +1,7 @@
+Artigo 267-F - A celebração do Termo de Ajustamento de Conduta poderá ser proposta pela autoridade competente para a instauração da apuração preliminar quando atendidos os seguintes requisitos relativos ao funcionário interessado: (NR)
+I - não ter agido com dolo ou má-fé; (NR)
+II - ter mais de 5 (cinco) anos de efetivo exercício no cargo ou função; (NR)
+III - não ter sofrido punição de natureza disciplinar nos últimos 5 (cinco) anos; (NR)
+IV - não ter sindicância ou processo disciplinar em curso; (NR)
+V - não ter celebrado Termo de Ajustamento de Conduta nos últimos 3 (três) anos. (NR)
+Parágrafo único - Exclusivamente para os fins do disposto no 'caput' deste artigo, o Termo de Ajustamento de Conduta será registrado nos assentos funcionais do funcionário. (NR)

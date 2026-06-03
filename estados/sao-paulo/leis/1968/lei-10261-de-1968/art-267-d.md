@@ -1,0 +1,6 @@
+Artigo 267-D - O acordo celebrado na sessão autocompositiva será homologado pela autoridade administrativa competente para determinar a instauração da sindicância ou pela responsável por sua condução. (NR)
+§ 1° - O cumprimento do acordo celebrado na sessão autocompositiva extingue a punibilidade nos casos em que, cumulativamente: (NR)
+1. a conduta do funcionário não gerou prejuízo ao Erário ou este foi integralmente reparado; (NR)
+2. forem cabíveis, em tese, as penas de repreensão, suspensão e multa. (NR)
+§ 2° - Nos casos em que o cumprimento do acordo restaurativo não ensejar a extinção da punibilidade, tal acordo deverá ser considerado pela autoridade competente para mitigação da sanção, objetivando sempre a melhor solução para o serviço público. (NR)
+§ 3° - A extinção da punibilidade, nos termos do § 1° deste artigo, será declarada pelo Chefe de Gabinete, que poderá delegar esta atribuição. (NR)

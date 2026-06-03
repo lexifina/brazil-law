@@ -1,0 +1,7 @@
+Artigo 267-I - O Termo de Ajustamento de Conduta deverá conter: (NR)
+I - a qualificação do funcionário envolvido; (NR)
+II - a descrição precisa do fato a que se refere; (NR)
+III - as obrigações assumidas; (NR)
+IV - o prazo e a forma de cumprimento das obrigações; (NR)
+V - a forma de fiscalização das obrigações assumidas. (NR)
+Parágrafo único - O prazo de cumprimento do Termo de Ajustamento de Conduta não poderá ser inferior a 1 (um), nem superior a 2 (dois) anos. (NR)

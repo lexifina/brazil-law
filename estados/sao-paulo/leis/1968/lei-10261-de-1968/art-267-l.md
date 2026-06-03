@@ -1,0 +1,1 @@
+Artigo 267-L - No caso de descumprimento do termo de ajustamento de conduta, ou cometimento de nova falta funcional durante o prazo de cumprimento do ajuste, a autoridade encarregada da fiscalização providenciará, se necessário, a conclusão da apuração preliminar e a submeterá à autoridade competente para deliberação. (NR)

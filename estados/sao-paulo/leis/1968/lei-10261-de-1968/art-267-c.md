@@ -1,0 +1,3 @@
+Artigo 267-C - A autoridade competente para determinar a apuração de irregularidade e a instauração de sindicância ou processo administrativo e a responsável por sua condução poderão, em qualquer fase, encaminhar o caso para as práticas autocompositivas, mediante despacho fundamentado. (NR)
+§ 1° - O encaminhamento às práticas autocompositivas poderá ocorrer de forma alternativa ou concorrente à sindicância ou ao processo administrativo. (NR)
+§ 2° - Se o encaminhamento às práticas autocompositivas se der de forma alternativa ao procedimento disciplinar, o despacho fundamentado a que se refere este artigo suspenderá o prazo prescricional, enquanto realizadas. (NR)

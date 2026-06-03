@@ -1,0 +1,1 @@
+Artigo 177-A - Na hipótese de parcelamento das férias, o acréscimo de 1/3 (um terço), previsto no inciso XVII do artigo 7° da Constituição Federal, será pago ao servidor por ocasião da utilização do primeiro período. (NR)

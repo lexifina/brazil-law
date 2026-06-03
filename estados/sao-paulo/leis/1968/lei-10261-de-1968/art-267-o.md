@@ -1,0 +1,2 @@
+Artigo 267-O - Alternativamente à suspensão condicional da sindicância prevista no artigo 267-N desta lei, a sindicância também poderá ser suspensa caso os envolvidos, voluntariamente, concordem com o encaminhamento para as práticas autocompositivas. (NR)
+Parágrafo único - A sindicância ficará suspensa até o cumprimento do acordo restaurativo, decorrente das práticas autocompositivas, respeitado o prazo máximo de 2 (dois) anos. (NR)
