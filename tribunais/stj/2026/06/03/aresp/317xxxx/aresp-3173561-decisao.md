@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da Súmula n. 7 do STJ (fls. 285-290).
+O acórdão recorrido encontra-se assim ementado (fl. 199):
+Apelação Cível. Ação de abertura, cumprimento e registro de testamento particular. Art. 735 do CPC. Jurisdição voluntária. Verificação do preenchimento dos requisitos extrínsecos. Artigos 1876 a 1880 do CC. Ato personalíssimo de última vontade que não admite assinatura por procuração. Art. 1858 e 1876, §2º do Código Civil. Vício insanável. Acerto da sentença. Recurso conhecido e desprovido.
+Os embargos de declaração de fls. 285 foram acolhidos, sob a seguinte ementa (fl. 285):
+Alegação de vícios no julgado. Acórdão que incorreu em omissão ao não mencionar expressamente o vídeo apresentado como manifestação de última vontade e fundamento do testamento particular que se pretende validar em sede de jurisdição voluntária. Vídeos não mencionados, que, porém, afiguram-se inábeis a interferir na conclusão do julgamento in casu. Demandante, beneficiária do testamento particular, que não se desincumbiu de comprovar o preenchimento dos requisitos de validade do ato. Testamento que não apresenta os requisitos formais previstos no art. 1876, §2º. Acolhimento do recurso para sanar o vício apontado. Efeito integrativo dos embargos de declaração. Embargos declaratórios acolhidos.
+Nas razões do recurso especial (fls. 248-266), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou violação dos seguintes dispositivos legais:
+(i) arts. 1.022 e 489, § 1º, IV e VI, do CPC, pois o acórdão "deixou de enfrentar argumento capaz de infirmar a conclusão adotada, bem como deixou de seguir precedentes invocados,  quanto à possibilidade de validade do testamento particular, ainda que sem a assinatura da testadora, considerando a manifestação em audiovisual" (fls. 251 - em caixa alta no original);
+(ii) arts. 357 e 369, do CPC, sob o argumento de "cerceamento de defesa, uma vez que, não obstante designado dia e hora para a oitiva das testemunhas do ato de última vontade, o d. juízo retirou o feito de pauta, deixando de permitir, portanto, a devida produção de prova requerida pela recorrente" (fls. 251 - em caixa alta no original); e
+(iii) art. 437, § 1º, do CPC, sustentando que "a r. sentença apelada também é nula de pleno direito, uma vez que a Recorrente, diante da apresentação da petição da suposta colateral, a qual veio acompanhada de documentos, não foi intimada e, por consequência lógica, não teve oportunidade de se manifestar, o que fatalmente influenciou na sentença recorrida" (fl. 255).
+No agravo, afirma a presença dos requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+A controvérsia tem origem na ação de abertura, registro e cumprimento de testamento particular, em jurisdição voluntária, visando validar ato de última vontade sem assinatura da testadora, mas com manifestação audiovisual de vontade. As instâncias de origem julgaram improcedentes os pedidos.
+Inexiste afronta ao art. 1.022 do CPC quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+Passo à análise de cada um dos supostos vícios no acórdão recorrido.
+De fato, em relação à tese da "possibilidade de validade do testamento particular, ainda que sem a assinatura da testadora, considerando a manifestação em audiovisual" (fl. 251), o Tribunal de origem assim se manifestou (fls. 201 e 235 - grifei):
+No caso concreto, embora, em cognição sumária, tenha sido designada audiência para a oitiva das testemunhas arroladas, após manifestação de interessada e possível herdeira, foi verificada pelo juízo que no testamento adunado ao index 125212327 não consta assinatura da testadora, tendo sido assinado por advogado, com base em procuração (index 127108538).
+Ainda que desconsiderado tal fato, tem-se, como acertadamente destacado na sentença e no parecer da Procuradoria de Justiça de fls. 08/12, que o caráter personalíssimo do ato de última vontade materializado pelo testamento (art. 1858 do CC) exige a presença física e a manifestação direta da vontade do testador, sendo intransferível, de modo que não admite a delegação a um procurador.
+É o que também se extrai do parágrafo 2º do art. 1876 do Código Civil, que incide na hipótese vertente por não se tratar de testamento escrito de próprio punho, in verbis:
+..
+Ocorre que a ausência de manifestação expressa aos mencionados vídeos não altera a conclusão alcançada no julgamento, uma vez que não são aptos a sanar os vícios apontados no acórdão no que se refere à ausência da assinatura da testadora e da inviabilidade de testamento por procuração, eis que em manifesto desacordo ao disposto no art. 1876, §2º, conduzindo à nulidade absoluta do ato.
+..
+Os vídeos mencionados, assim, não se prestam a comprovar a higidez do ato que se pretendeu validar, uma vez que os vícios apontados atingem diretamente a substância do ato de disposição, implicando na impossibilidade de se reconhecer a validade do próprio testamento.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC, bem como não se verifica ofensa ao art. 489, § 1º, IV e VI, do CPC, haja vista o enfrentamento suficiente da controvérsia nos termos acima transcritos.
+O Tribunal de origem concluiu que os "mencionados vídeos não altera m  a conclusão alcançada no julgamento, uma vez que não são aptos a sanar os vícios apontados no acórdão no que se refere à ausência da assinatura da testadora e da inviabilidade de testamento por procuração" (fl. 235).
+Modificar o entendimento do acórdão impugnado quanto à inaptidão dos vídeos para comprovação da validade do testamento, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ademais, a excepcional flexibilização dos requisitos formais do testamento particular somente é cabível quando, "ausente a assinatura nos moldes exigidos pela lei, ainda assim era aquela a real vontade do testador" (REsp n. 1.633.254/MG, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 11/3/2020, DJe de 18/3/2020). No caso dos autos, diferentemente, a Corte local colocou em dúvida até mesmo a necessidade do uso do meio audiovisual, pois "se a testadora pôde assinar a procuração, não haveria, em tese, impedimento para que assinasse o próprio testamento" (fl. 201).
+Por fim, quanto ao alegado cerceamento pelo julgamento antecipado da lide, a Justiça local decidiu de acordo com a jurisprudência desta Corte, que entende que o juiz pode indeferir, desde que fundamentadamente, aquelas consideradas desnecessárias ou protelatórias.
+A esse respeito:
+PRO CESSO CIVIL, AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. REEXAME DE PROVAS. SÚMULA N. 7/STJ. CERCEAMENTO DE DEFESA. AUSÊNCIA.
+ ..
+3. O juiz é o destinatário das provas e pode indeferir, fundamentadamente, aquelas que considerar desnecessárias, nos termos do princípio do livre convencimento motivado, não configurando cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte, quando devidamente demonstradas a instrução do feito e a presença de dados suficientes à formação do convencimento.
+ ..
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.368.822/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 2/9/2024, DJe de 4/9/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO DE NORMA REGIMENTAL DE TRIBUNAL LOCAL. IMPOSSIBILIDADE DE ANÁLISE NO ÂMBITO DO RECURSO ESPECIAL. SÚMULA 399/STF. CERCEAMENTO DE DEFESA. MAGISTRADO COMO DESTINATÁRIO FINAL DO ACERVO PROBATÓRIO. SÚMULA 83/STJ. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. O magistrado é o destinatário final das provas, competindo a ele indeferir a produção daquelas consideradas desnecessárias ou protelatórias, não havendo se falar em cerceamento de defesa.
+3. Agravo interno desprovido. (AgInt no AREsp n. 1.984.819/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 9/5/2022, DJe de 11/5/2022.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Deixo de majorar os honorários advocatícios, na forma do art. 85, § 11, do CPC/2015, porquanto não foram fixados nas instâncias originárias.
+Publique-se e intimem-se.
+ EMENTA
