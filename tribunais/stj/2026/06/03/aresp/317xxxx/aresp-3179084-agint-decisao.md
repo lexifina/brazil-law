@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de agravo interno interposto pela COMPANHIA DE DESENVOLVIMENTO HABITACIONAL E URBANO DO ESTADO DE SAO PAULO - CDHU contra decisão monocrática proferida pela Presidência do STJ, que aplicou a Súmula 182 do STJ (fls. 750-751).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 669):
+APELAÇÃO. VÍCIOS CONSTRUTIVOS. CDHU. Insurgência de ambas as partes contra sentença de parcial procedência. (i) Aplicabilidade do CDC. Partes que se amoldam aos conceitos de consumidor e fornecedor estabelecidos pela legislação. Irrelevância do interesse social e da ausência de finalidade lucrativa da atividade prestada pela empresa causadora do dano. (ii) Legitimidade passiva e responsabilidade da requerida. CDHU que assumiu a obrigação contratual de construir o empreendimento e de entregar a unidade habitacional em perfeitas condições de estrutura e acabamento. Irrelevância das relações paralelas mantidas com entes públicos ou outras companhias na execução das obras. Alegação de litisconsórcio com o Consórcio Engª Habitacional Região Ribeirão Preto, que já foi decidida no Agravo de Instrumento julgado n. 2049421-85.2024.8.26.0000, tirado da decisão saneadora. (iii) Danos materiais que foram constatados por laudo pericial de engenharia. (iv) Danos morais. Cabimento de indenização. Situação de constrangimento e aborrecimento que supera o mero dissabor. Fixação do importe em R$ 10.000,00. Respeito à natureza dúplice desta espécie de reparação (compensatório-punitiva) e aos princípios da adequação e da proporcionalidade, sem enriquecimento sem causa à parte beneficiária. Jurisprudência do TJSP. Correção do arbitramento e juros moratórios, de 1% ao mês, contados da citação. (vii) Sucumbência. Imputação exclusiva e da ré. Honorários advocatícios fixados em 12% do valor da condenação, já com o acréscimo do § 11 do art. 85 do CPC. Recurso da ré não provido, provido o da autora.
+Sem embargos de declaração.
+No presente agravo interno, sustenta a parte agravante que todos os fundamentos da decisão agravada foram especificamente impugnados (fls. 755-790).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+Não foram apresentadas contrarrazões.
+É, no essencial, o relatório.
+Assiste razão à parte agravante quanto à necessidade de afastamento da Súmula 182/STJ, porquanto houve impugnação específica de todos os fundamentos da decisão agravada.
+Assim, reconsidero a decisão de fls. 750-751 , que não conheceu do agravo em recurso especial, e dou provimento ao agravo interno.
+Retornem conclusos os autos para análise do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
