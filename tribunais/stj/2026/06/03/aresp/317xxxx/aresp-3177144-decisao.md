@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por incidência das Súmulas n. 7, 211 do STJ, 282 e 283 do STF (fls. 110-113).
+O acórdão recorrido está assim ementado (fls. 65-66):
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. ART. 1021 DO CPC. AÇÃO DE USUCAPIÃO. DECISÃO DE PRIMEIRO GRAU QUE REJEITOU OS EMBARGOS DE DECLARAÇÃO OPOSTOS, MANTENDO ÍNTEGRA A INTERLOCUTÓRIA QUE INDEFERIU O PEDIDO DE LIMINAR. DECISÃO MONOCRÁTICA QUE DESPROVEU RECURSO INTERPOSTO PELOS AUTORES. ALMEJADO DEFERIMENTO DO PLEITO DE PROTEÇÃO POSSESSÓRIA. INSUBSISTÊNCIA. NECESSIDADE DE PREENCHIMENTO DOS REQUISITOS DO ART. 561 DO CPC, APLICÁVEIS À TUTELA POSSESSÓRIA TÍPICA. POSSE QUALIFICADA E OCORRÊNCIA DE TURBAÇÃO E/OU ESBULHO DA POSSE NÃO COMPROVADAS. IMAGENS JUNTADAS QUE MOSTRAM APENAS MOVIMENTAÇÃO DE VEGETAÇÃO, SEM AMEAÇA CONCRETA A EDIFICAÇÕES. DECLARAÇÕES E ÁUDIOS QUE NÃO POSSUEM FORÇA PROBATÓRIA SUFICIENTE PARA JUSTIFICAR A MEDIDA. AUSÊNCIA DE IDENTIFICAÇÃO DO(S) AUTOR(ES) DA AMEAÇA QUE INVIABILIZA A DELIMITAÇÃO DO CONFLITO POSSESSÓRIO. ADEMAIS, EXISTÊNCIA DE AÇÃO DE REINTEGRAÇÃO DE POSSE PARALELA, COM LIMINAR DEFERIDA AOS PROPRIETÁRIOS REGISTRAIS, QUE REFORÇA A NECESSIDADE DE INSTRUÇÃO PROBATÓRIA. IRRESIGNAÇÃO APRESENTADA QUE NÃO TEM O CONDÃO DE DESCONSTITUIR O ENTENDIMENTO ADOTADO NO DECISUM. DECISÃO MONOCRÁTICA MANTIDA. PENALIDADE DO ART. 1.021, § 4º, DO CPC. INAPLICABILIDADE. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática que negou provimento ao agravo de instrumento, o qual impugnava indeferimento de tutela provisória possessória em ação de usucapião. Os agravantes alegaram posse contínua, mansa e pacífica há quase 20 anos, com benfeitorias e risco de dano irreparável.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se: (i) é cabível a concessão de tutela provisória possessória com fundamento no art. 300 do CPC, em ação de usucapião, afastando-se a aplicação do art. 561 do CPC; (ii) a posse alegada pelos agravantes, derivada de sucessão familiar, é suficiente para justificar a concessão da medida; (iii) há elementos probatórios aptos a demonstrar esbulho ou turbação que autorizem a concessão da tutela.
+III. RAZÕES DE DECIDIR
+3. A decisão agravada está devidamente fundamentada ao exigir os requisitos do art. 561 do CPC, aplicáveis à tutela possessória típica.
+4. A documentação apresentada não comprova posse qualificada nem ocorrência de esbulho ou turbação.
+5. As imagens juntadas mostram apenas movimentação de vegetação, sem ameaça concreta a edificações.
+6. Declarações e áudios não possuem força probatória suficiente para justificar a medida.
+7. A ausência de identificação dos autores da ameaça inviabiliza a delimitação do conflito possessório.
+8. A existência de ação de reintegração de posse paralela, com liminar deferida aos proprietários registrais, reforça a necessidade de instrução probatória.
+IV. DISPOSITIVO E TESE
+9. Recurso conhecido e desprovido.
+Os embargos de declaração foram rejeitados (fls. 77-82).
+No recurso especial (fls. 89-105), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente apontou ofensa aos arts. 6º, 300, 561, 1.022, II, do CPC.
+Suscitou que a liminar deferida nos autos da ação de reintegração de posse foi concedida sem que o juízo tivesse sido informado acerca da posse consolidada exercida pelos agravantes e da existência de ação de usucapião em curso, circunstância que configuraria afronta ao dever de cooperação processual.
+Alegou que o pedido formulado na ação de usucapião possui natureza conservatória e inibitória, devendo ser apreciado à luz da tutela geral de urgência, e não segundo os requisitos próprios da tutela possessória típica.
+Afirmou que o acórdão proferido nos embargos de declaração é contraditório, pois, embora tenha reconhecido a existência de liminar de reintegração de posse paralela, negou a ocorrência de risco de dano irreparável.
+Sustentou, ainda, a existência de omissão na decisão recorrida, ao argumento de que o Tribunal de origem deixou de enfrentar a alegação de nulidade da decisão anterior que teria reconhecido a precariedade da posse sem prévia intimação válida dos herdeiros  ponto que reputa essencial para afastar a presunção de precariedade e demonstrar a probabilidade do direito alegado.
+Argumentou que a permanência da parte agravada no imóvel, somada à já iniciada movimentação de maquinário pesado e à ameaça concreta de demolição do galpão e demais edificações, compromete não apenas o patrimônio físico, mas também a prova material indispensável à ação de usucapião.
+No agravo (fls. 115-132), afirma a presença de todos os requisitos de admissibilidade do especial.
+Juízo negativo de retratação (fl. 133).
+É o relatório.
+Decido.
+Inexiste afronta ao art. 1.022, II, do CPC quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+O Tribunal de origem, com base nos fatos e nas provas dos autos, assim se pronunciou (fls. 62-63):
+ ..  A decisão proferida pelo juízo de primeiro grau encontra-se devidamente fundamentada, ao exigir a demonstração dos requisitos do art. 561 do CPC, aplicáveis à tutela possessória típica, diante da alegação de ameaça à posse.
+A documentação acostada aos autos não permite concluir, com segurança, pela existência de posse qualificada dos agravantes, tampouco pela configuração de esbulho ou turbação. As imagens juntadas mostram apenas movimentação de vegetação, sem ameaça concreta a estruturas edificadas. A declaração e os áudios apresentados não possuem força probatória suficiente para justificar a concessão da medida liminar.
+Ademais, os agravantes não identificaram o(s) suposto(s) autor(es) da ameaça, o que inviabiliza a delimitação do conflito possessório e compromete a cognição sumária necessária à concessão da tutela.
+ ..  A existência de ação de reintegração de posse paralela, com liminar deferida em favor dos proprietários registrais, reforça a necessidade de instrução probatória adequada, não sendo possível, neste momento, reconhecer a probabilidade do direito alegado pelos agravantes.
+A decisão agravada, ao indeferir a medida pretendida, preserva a segurança jurídica, permitindo que a controvérsia seja resolvida após a produção de provas.
+Extrai-se ainda do acórdão dos embargos de declaração (fls. 78-79):
+ ..  Inicialmente, os embargantes apontam omissão quanto à análise do regime jurídico aplicável à tutela provisória requerida, sustentando que se trata de medida conservatória regida pelo art. 300 do CPC, e não de tutela possessória típica (art. 561 do CPC).
+Contudo, o acórdão embargado enfrentou expressamente essa questão ao afirmar que, diante da alegação de ameaça à posse, seria necessário o preenchimento dos requisitos do art. 561 do CPC, aplicáveis à tutela possessória, ainda que formulada em ação de usucapião. Trata-se de juízo de valor sobre o enquadramento jurídico do pedido, não de omissão.
+No que tange à alegação de nulidade da decisão anterior por ausência de intimação válida dos herdeiros, o acórdão embargado considerou que a documentação acostada aos autos não permite concluir pela existência de posse qualificada, tampouco pela configuração de esbulho ou turbação. A ausência de enfrentamento específico da alegação não configura omissão relevante, pois não se trata de ponto essencial à fundamentação adotada. Quanto à suposta contradição entre o reconhecimento da existência de liminar de reintegração de posse e a negativa do risco de dano irreparável, não se verifica incoerência lógica. O acórdão considerou que os elementos probatórios apresentados (imagens, declarações e áudios) não demonstram ameaça concreta às edificações ou à posse, sendo insuficientes para justificar a concessão da tutela.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC.
+No tocante à alegada ofensa ao art. 6º do CPC, fundada na tese de que a parte adversa teria violado o dever de cooperação processual ao omitir a existência de posse consolidada em ação de reintegração de posse paralela, verifica-se que tal matéria não foi objeto de apreciação ou deliberação pela Corte de origem, carecendo, portanto, do indisp ensável prequestionamento. Assim, mostra-se correta a aplicação das Súmulas n. 211 do STJ e 282 do STF.
+Quanto à suposta violação aos arts. 300 e 561 do CPC, o Tribunal a quo consignou expressamente que "a documentação acostada aos autos não permite concluir, com segurança, pela existência de posse qualificada dos agravantes, tampouco pela configuração de esbulho ou turbação".
+Ademais, a alteração das conclusões firmadas no acórdão recorrido, com o objetivo de reconhecer a existência de posse qualificada, ameaça concreta ou probabilidade do direito alegado, demandaria o reexame do conjunto fático-probatório dos autos, providência vedada no âmbito desta Corte, nos termos da Súmula 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
