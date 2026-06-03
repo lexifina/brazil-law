@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC, art. 1.042) interposto contra decisão que não admitiu o recurso especial por ausência de ofensa ao art. 489, § 1º, IV do CPC e pela incidência da Súmula n. 7 do STJ (fls. 232-234).
+O acórdão recorrido está assim ementado (fl. 190):
+PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS. AÇÃO DE INDENIZAÇÃO. ALEGAÇÃO DE VÍCIO PROCESSUAL POR RECONHECIMENTO DA INVERSÃO DO ÔNUS DA PROVA NA SENTENÇA. NÃO ACOLHIMENTO. MULTA RESCISÓRIA DEVIDA, UMA VEZ QUE O CURSO FOI EFETIVAMENTE SUSPENSO E O AUTOR SÓ DEIXOU DE PAGAR AS MENSALIDADES APÓS A INTERRUPÇÃO DAS AULAS. NECESSIDADE DE ADOÇÃO DOS CRITÉRIOS DE CÁLCULO DE JUROS DE MORA E CORREÇÃO MONETÁRIA A PARTIR DA ENTRADA EM VIGOR DA LEI 14.905/2024. SENTENÇA MANTIDA. RECURSO IMPROVIDO, COM OBSERVAÇÕES. 1. Não encontra sustentação a assertiva da ocorrência de vício processual por ter a sentença admitido a inversão do ônus da prova, sem prévio conhecimento das partes. Na verdade, em sua essência, a matéria de fato não restou controvertida e a prova produzida permitiu formar convencimento. E nem houve efetivamente inversão, tratando-se de hipótese de simples aplicação da regra geral do artigo 373, II, do CPC. 2. Ademais, instada a especificar as provas que pretendia produzir, a demandada quedou-se inerte, ocorrendo a preclusão. 3. Os elementos apresentados nos autos permitem concluir que o curso foi suspenso e o autor foi informado de que não havia previsão de retorno, momento em que deixou de pagar as prestações vincendas. Assim, não há qualquer fundamento jurídico para afastar a responsabilidade da ré pelo pagamento da multa contratual. 4. A partir da entrada em vigor da Lei 14.905/2024, que introduziu nova forma de cálculo dos juros legais e da correção monetária, deverão ser adotados os critérios de cálculo respectivos. 5. Diante desse resultado, na forma do artigo 85, § 11, eleva-se a verba honorária sucumbencial de responsabilidade da ré a 15% sobre o valor atualizado da condenação.
+Os embargos de declaração rejeitados (fls. 202-207).
+No especial (fls. 210-227), fundamentado no art. 105, III, "a", da CF, a parte recorrente aponta ofensa aos arts. 10, 373, I, § 1º, 489, §1º, IV, do Código de Processo Civil, 412, 413, 421, 422 e 476 do Código Civil.
+Suscita negativa de prestação jurisdicional, pois o Tribunal de origem teria deixado de considerar a alegação de ausência de prova da adimplência do aluno após setembro de 2022.
+Argui a desproporcionalidade da cláusula penal aplicada, em valor superior à própria obrigação principal, que implica verdadeiro enriquecimento sem causa.
+Sustenta o descabimento da inversão do ônus da prova sem contraditório.
+Alega que deve ser rejeitada a exceção do contrato não cumprido.
+Requer a atribuição de efeito suspensivo ao recurso.
+Não houve contrarrazões (fl. 231).
+No agravo (fls. 237-254), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta, pugnando pela majoração da verba honorária (fls. 257-261).
+Juízo negativo de retratação (fl. 263).
+É o relatório.
+Decido.
+A irresignação não merece acolhida.
+Com efeito, extraem-se as seguintes razões de decidir do aresto impugnado (fls. 193-194):
+ ..  Primeiramente, não encontra razão de ser a assertiva da ocorrência de vício processual por ter o Juízo, somente na sentença, reconhecido a inversão do ônus da prova. Na verdade, a matéria de fato restou incontroversa, em sua essência, e não ocorreu efetivamente a inversão, tratando-se de hipótese de simples aplicação da regra geral do artigo 373, II, do CPC.
+A propósito, nota-se que a ré teve a oportunidade de indicar as provas que pretendia produzir (fls. 71/77), mas quedou-se inerte. E, nas razões de apelação, sequer indicou a prova que poderia alterar o convencimento, mas teria sido impedida de produzir.
+ ..  Nesse ponto, cumpre observar restou incontroversa a ocorrência de suspensão do curso. Porém, a demandada não apresentou prova suficiente para evidenciar que os alunos teriam sido informados de que a suspensão seria breve ou sobre a época em que as aulas seriam retomadas.
+É irrelevante a alegação de que o demandante não comprovou ter procurado a instituição de ensino por e-mail ou ligação telefônica, pois se apresenta incontroverso que ele manteve contato com funcionário da instituição de ensino, à época. E a assertiva de que tal pessoa não detinha conhecimento sobre o planejamento pedagógico da instituição não é oponível ao consumidor.
+Ademais, o fato de o curso estar sendo ministrado atualmente, bem como a afirmativa de que o autor se recusou a firmar acordo para solução do problema não geram qualquer repercussão no plano jurídico, sendo totalmente irrelevantes para o deslinde da causa.
+O consumidor não pode ser compelido a firmar acordo e, como constou na sentença, não há nos autos qualquer elemento que indique que o curso tenha sido retomado com brevidade.
+Nesse contexto, o fato de o autor ter deixado de pagar as mensalidades vencidas após a suspensão do curso não afasta o dever de pagamento da multa, acolhendo-se a exceção do contrato não cumprido.
+Nesse contexto, rever o posicionamento adotado pelo Tribunal a quo e sopesar as razões recursais demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada no âmbito do recurso especial, ante a Súmula n. 7 do STJ.
+Ademais, não há falar em violação do art. 489, § 1º, IV, do CPC, quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como no caso em comento. O fato de a parte não concordar com a conclusão do acórdão recorrido não configura nenhum dos vícios previstos nos referidos dispositivos processuais. Além disso, a Corte local não está obrigada a rebater, um a um, os argumentos apresentados, desde que a fundamentação tenha sido suficiente para dirimir a controvérsia.
+Diante do exposto, NEGO PROVIMENTO ao agravo. JULGO PREJUDICADO o pedido de atribuição de efeito suspensivo ao recurso. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor a rbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
