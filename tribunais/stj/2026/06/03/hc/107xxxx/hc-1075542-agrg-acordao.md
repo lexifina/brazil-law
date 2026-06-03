@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 28/05/2026 a 03/06/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, Maria Marluce Caldas e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental em habeas corpus. Nulidade da citação por hora certa. Reconhecimento fotográfico. Insuficiência probatória. Via estreita. Agravo IMprovido.
+I. Caso em exame
+1. O recurso. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus impetrado contra acórdão proferido em revisão criminal.
+2. Fato relevante. Condenação criminal mantida nas instâncias ordinárias, com pena superior a 12 anos, sob alegação defensiva de nulidade da citação por hora certa, invalidade do reconhecimento fotográfico e insuficiência probatória.
+3. As decisões anteriores. Tribunal de origem rejeitou as teses, reconheceu preclusão quanto às nulidades, afirmou a regularidade da citação e a existência de suporte probatório autônomo (impressões digitais e confirmação judicial dos relatos das vítimas). Decisão agravada não conheceu da impetração por ausência de flagrante ilegalidade e inviabilidade de reexame fático-probatório na via eleita.
+4. O agravo. Agravante sustenta que as matérias são de direito, insiste no descumprimento do art. 254 do CPC na citação por hora certa, na invalidade do reconhecimento fotográfico à luz do Tema 1258 do STJ e na insuficiência da prova diante de deficiências investigativas, requerendo reconsideração ou julgamento colegiado com concessão da ordem.
+II. Questão em discussão
+5. Há quatro questões em discussão: (i) saber se o habeas corpus comporta o reexame do acervo fático-probatório e pode ser utilizado como sucedâneo de revisão criminal na ausência de flagrante ilegalidade; (ii) saber se a nulidade da citação por hora certa, por suposto descumprimento do art. 254 do CPC, pode ser reconhecida sem análise aprofundada da cronologia processual e sem demonstração de prejuízo; (iii) saber se a condenação pode ser revista em habeas corpus por invalidade do reconhecimento fotográfico, à luz do art. 226 do CPP e do Tema 1258 do STJ, quando lastreada também em provas autônomas (impressões digitais e confirmação judicial dos relatos); (iv) saber se matérias tidas por preclusas pelo Tribunal de origem podem ser superadas em habeas corpus sob a alegação de nulidades absolutas, sem evidência de constrangimento ilegal flagrante.
+III. Razões de decidir
+6. O habeas corpus não se presta ao reexame amplo de matéria fático-probatória nem se revela sucedâneo de revisão criminal, exigindo-se a demonstração de flagrante ilegalidade para superar o não conhecimento.
+7. A citação por hora certa foi reputada regular pelas instâncias ordinárias, com ausência de prejuízo. A aferição de eventual descumprimento do art. 254 do CPC demanda exame da cronologia e da efetiva ciência, providência incompatível com a via estreita do habeas corpus.
+8. Embora a observância das formalidades do art. 226 do CPP esteja consolidada no Tema 1258 do STJ, a condenação não se apoia exclusivamente no reconhecimento fotográfico, tendo suporte em provas autônomas (impressões digitais e confirmação judicial dos relatos), cuja revaloração é inviável no habeas corpus.
+9. A alegação de insuficiência probatória e de perda de uma chance probatória refere-se à suficiência da prova produzida, matéria insuscetível de revisão na presente via na ausência de ilegalidade evidente.
+10. As nulidades alegadas foram tidas por preclusas pelo Tribunal de origem, e a superação dessa conclusão demandaria exame do iter procedimental e demonstração de prejuízo, inexistindo constrangimento ilegal flagrante a justificar o conhecimento.
+IV. Dispositivo e tese
+11. Resultado do Julgamento: Agravo regimental im provido, mantida a decisão que não conheceu do habeas corpus.
+Tese de julgamento:
+1. O habeas corpus não se presta ao reexame do conjunto fático-probatório nem se configura sucedâneo de revisão criminal, salvo diante de flagrante ilegalidade. 2. A nulidade da citação por hora certa exige demonstração de prejuízo e análise fática da comunicação prevista no art. 254 do CPC, providências incompatíveis com o habeas corpus. 3. A eventual irregularidade do reconhecimento fotográfico não autoriza, por si só, a anulação da condenação quando existirem provas autônomas e independentes, sendo inviável a revaloração probatória em habeas corpus. 4. Matérias alcançadas pela preclusão não são superáveis em habeas corpus sem prova de constrangimento ilegal flagrante.
+Dispositivos relevantes citados: CPP, art. 226; CPC, art. 254
+Jurisprudência relevante citada: STJ, Tema 1258
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus impetrado em favor de HIGOR NOCERA SAMPAIO LIMA contra acórdão do Tribunal de Justiça do Estado de São Paulo, proferido em revisão criminal.
+Consta dos autos que o paciente foi condenado à pena de 12 anos, 5 meses e 9 dias de reclusão, tendo a defesa, na revisão criminal, alegado nulidade da citação por hora certa, invalidade do reconhecimento fotográfico e insuficiência probatória.
+O Tribunal de origem rejeitou as teses, reconhecendo, quanto às nulidades, a ocorrência de preclusão, e, no mérito, afirmando a regularidade da citação e a existência de suporte probatório autônomo, consistente, sobretudo, nas impressões digitais do paciente e na confirmação dos relatos pelas vítimas.
+No habeas co rpus, a defesa reiterou os argumentos, acrescentando tese de perda de uma chance probatória. A decisão agravada não conheceu da impetração, por entender ausente flagrante ilegalidade e inviável o reexame da matéria na via eleita.
+No presente agravo, a defesa sustenta, em síntese, que as questões deduzidas são de direito, sem necessidade de análise fático-probatória, e insiste na nulidade da citação por descumprimento do art. 254 do CPC, na invalidade do reconhecimento fotográfico à luz do Tema 1258 do STJ e na insuficiência da prova, diante de alegada deficiência investigativa.
+Requer a reconsideração da decisão ou a submissão do feito ao colegiado, com concessão da ordem.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental em habeas corpus. Nulidade da citação por hora certa. Reconhecimento fotográfico. Insuficiência probatória. Via estreita. Agravo IMprovido.
+I. Caso em exame
+1. O recurso. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus impetrado contra acórdão proferido em revisão criminal.
+2. Fato relevante. Condenação criminal mantida nas instâncias ordinárias, com pena superior a 12 anos, sob alegação defensiva de nulidade da citação por hora certa, invalidade do reconhecimento fotográfico e insuficiência probatória.
+3. As decisões anteriores. Tribunal de origem rejeitou as teses, reconheceu preclusão quanto às nulidades, afirmou a regularidade da citação e a existência de suporte probatório autônomo (impressões digitais e confirmação judicial dos relatos das vítimas). Decisão agravada não conheceu da impetração por ausência de flagrante ilegalidade e inviabilidade de reexame fático-probatório na via eleita.
+4. O agravo. Agravante sustenta que as matérias são de direito, insiste no descumprimento do art. 254 do CPC na citação por hora certa, na invalidade do reconhecimento fotográfico à luz do Tema 1258 do STJ e na insuficiência da prova diante de deficiências investigativas, requerendo reconsideração ou julgamento colegiado com concessão da ordem.
+II. Questão em discussão
+5. Há quatro questões em discussão: (i) saber se o habeas corpus comporta o reexame do acervo fático-probatório e pode ser utilizado como sucedâneo de revisão criminal na ausência de flagrante ilegalidade; (ii) saber se a nulidade da citação por hora certa, por suposto descumprimento do art. 254 do CPC, pode ser reconhecida sem análise aprofundada da cronologia processual e sem demonstração de prejuízo; (iii) saber se a condenação pode ser revista em habeas corpus por invalidade do reconhecimento fotográfico, à luz do art. 226 do CPP e do Tema 1258 do STJ, quando lastreada também em provas autônomas (impressões digitais e confirmação judicial dos relatos); (iv) saber se matérias tidas por preclusas pelo Tribunal de origem podem ser superadas em habeas corpus sob a alegação de nulidades absolutas, sem evidência de constrangimento ilegal flagrante.
+III. Razões de decidir
+6. O habeas corpus não se presta ao reexame amplo de matéria fático-probatória nem se revela sucedâneo de revisão criminal, exigindo-se a demonstração de flagrante ilegalidade para superar o não conhecimento.
+7. A citação por hora certa foi reputada regular pelas instâncias ordinárias, com ausência de prejuízo. A aferição de eventual descumprimento do art. 254 do CPC demanda exame da cronologia e da efetiva ciência, providência incompatível com a via estreita do habeas corpus.
+8. Embora a observância das formalidades do art. 226 do CPP esteja consolidada no Tema 1258 do STJ, a condenação não se apoia exclusivamente no reconhecimento fotográfico, tendo suporte em provas autônomas (impressões digitais e confirmação judicial dos relatos), cuja revaloração é inviável no habeas corpus.
+9. A alegação de insuficiência probatória e de perda de uma chance probatória refere-se à suficiência da prova produzida, matéria insuscetível de revisão na presente via na ausência de ilegalidade evidente.
+10. As nulidades alegadas foram tidas por preclusas pelo Tribunal de origem, e a superação dessa conclusão demandaria exame do iter procedimental e demonstração de prejuízo, inexistindo constrangimento ilegal flagrante a justificar o conhecimento.
+IV. Dispositivo e tese
+11. Resultado do Julgamento: Agravo regimental im provido, mantida a decisão que não conheceu do habeas corpus.
+Tese de julgamento:
+1. O habeas corpus não se presta ao reexame do conjunto fático-probatório nem se configura sucedâneo de revisão criminal, salvo diante de flagrante ilegalidade. 2. A nulidade da citação por hora certa exige demonstração de prejuízo e análise fática da comunicação prevista no art. 254 do CPC, providências incompatíveis com o habeas corpus. 3. A eventual irregularidade do reconhecimento fotográfico não autoriza, por si só, a anulação da condenação quando existirem provas autônomas e independentes, sendo inviável a revaloração probatória em habeas corpus. 4. Matérias alcançadas pela preclusão não são superáveis em habeas corpus sem prova de constrangimento ilegal flagrante.
+Dispositivos relevantes citados: CPP, art. 226; CPC, art. 254
+Jurisprudência relevante citada: STJ, Tema 1258
+VOTO
+O agravo regimental não merece provimento.
+A decisão agravada deve ser mantida por seus próprios fundamentos, os quais não foram infirmados por argumentação capaz de alterar a conclusão adotada.
+De início, cumpre reiterar que o habeas corpus não se presta à rediscussão ampla de matéria já examinada pelas instâncias ordinárias, tampouco pode ser utilizado como sucedâneo de revisão criminal, especialmente quando ausente flagrante ilegalidade.
+No caso, as teses defensivas  nulidade da citação por hora certa, invalidade do reconhecimento fotográfico e insuficiência probatória  foram expressamente enfrentadas pelo Tribunal de origem, que concluiu pela regularidade do procedimento e pela robustez do conjunto probatório.
+A pretensão de infirmar tais conclusões, embora apresentada sob o rótulo de revaloração jurídica, implicaria, na prática, incursão no acervo fático-probatório, providência incompatível com a via estreita do habeas corpus.
+No que se refere à alegada nulidade da citação por hora certa, o acórdão recorrido consignou o cumprimento das diligências legais e a ausência de prejuízo ao acusado. A controvérsia quanto à tempestividade e à eficácia da comunicação posterior  especialmente quanto ao envio da carta prevista no art. 254 do CPC  demandaria exame aprofundado da cronologia processual e da efetiva ciência do réu, o que não se admite nesta via.
+Também não se verifica, nesse ponto, ilegalidade manifesta apta a afastar o óbice processual, sobretudo diante da conclusão das instâncias ordinárias quanto à regularidade do ato e à inexistência de prejuízo concreto.
+No tocante ao reconhecimento fotográfico, embora a jurisprudência desta Corte, consolidada no Tema 1258, estabeleça a obrigatoriedade das formalidades do art. 226 do CPP, o acórdão recorrido foi expresso ao afirmar que a condenação não se apoiou exclusivamente nesse elemento, mas também em provas autônomas, notadamente nas impressões digitais do paciente encontradas no local dos fatos e na confirmação judicial dos relatos das vítimas.
+A revisão dessa conclusão exigiria revaloração do conjunto probatório, o que igualmente afasta o cabimento do habeas corpus.
+A mesma lógica se aplica à alegação de deficiência investigativa e à invocação da teoria da perda de uma chance probatória. Trata-se de insurgência voltada, em essência, à suficiência da prova produzida, matéria insuscetível de revisão na presente via, quando ausente ilegalidade evidente.
+Por fim, quanto à alegação de nulidades absolutas, o Tribunal de origem reconheceu a preclusão das matérias, e a superação dessa conclusão, no caso concreto, igualmente demandaria exame do iter procedimental e da demonstração de prejuízo, o que reforça a inadequação do habeas corpus para a pretensão deduzida.
+Não se identifica, portanto, constrangimento ilegal flagrante que autorize a superação do não conhecimento da impetração.
+Diante do exposto, nego provimento ao agravo regimental.
+É como voto.
