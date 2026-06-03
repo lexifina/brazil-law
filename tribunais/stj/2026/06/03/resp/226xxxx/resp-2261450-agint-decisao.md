@@ -1,0 +1,29 @@
+DECISÃO
+Em virtude das razões apresentadas no agravo de e-STJ fls. 1869/1882, reconsidero a decisão de e-STJ fls. 1863/1865, e passo a novo exame do recurso especial interposto por EDISON FRANCA DA SILVA, fundamentado, exclusivamente, na alínea "a" do permissivo constitucional, contra acórdão do TJ/SP.
+Recurso especial interposto em: 28/4/2025.
+Concluso ao gabinete em: 25/5 /2026.
+Ação: de revisão de plano de equacionamento de déficit c/c indenizatória, ajuizada pelo recorrente em face de FUNDAÇÃO PETROBRÁS DE SEGURIDADE SOCIAL e ULTRAFÉRTIL S/A.
+Sentença: julgou improcedentes os pedidos iniciais.
+Acórdão: negou provimento ao recurso de apelação interposto pelo recorrente, nos termos da seguinte ementa:
+APELAÇÃO PREVIDÊNCIA PRIVADA COMPLEMENTAR AÇÃO DE REVISÃO DE PLANO DE EQUACIONAMENTO DE DÉFICIT CUMULADA COM COBRANÇA DAS PARCELAS DESCONTADAS INDEVIDAMENTE Equacionamento dos Déficits de 2014/2020 Possibilidade, "In Casu" Equilíbrio Atuarial Intelecção do Art. 21 da Lei Complementar 109/2001 Ausência de Direito Adquirido Mera Expectativa de Direito Reconhecimento. PRELIMINAR REJEITADA. RECURSO DESPROVIDO.
+Embargos de declaração: opostos pelo recorrente, foram rejeitados.
+Recurso especial: aponta violação aos arts. 489, § 1º, II e IV, 490 e 1.022, II, parágrafo único, II, do CPC, bem como dissídio jurisprudencial.
+Além da negativa de prestação jurisdicional, alega que a sentença e o acórdão não julgaram a sua pretensão.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da negativa de prestação jurisdicional
+Consoante o entendimento desta Corte, há ofensa ao art. 1.022 do CPC quando o órgão julgador deixa de se manifestar, de forma expressa, sobre questão oportunamente suscitada nos autos e relevante para o integral julgamento da demanda (AgInt no AREsp 1.081.502/MG, Terceira Turma, DJe de 2/2/2018 e EDcl no AgInt no REsp 1.281.316/MT, Quarta Turma, DJe de 2/3/2018).
+No particular, as razões recursais tecidas acerca da suposta violação do art. 1.022 do CPC residem na alegação de que o TJ/SP, apesar de provocado por meio dos embargos declaratórios opostos pela parte recorrente, não se manifestou sobre a preliminar de ausência de julgamento da pretensão do recorrente, que teve como causa de pedir e pedidos a existência de milionária dívida da patrocinadora que levou o plano de previdência privada aos déficits que estão sendo equacionados, ressaltando que jamais pretendeu o decreto de ilegalidade do plano de equacionamento do déficit.
+Afirma, para tanto, que não foi examinado que o objeto da ação é a condenação da Petros na obrigação de não fazer a imposição dos planos de equacionamento de déficit até que seja quitada a dívida da patrocinadora, não porque esse plano seja ilícito, mas sim porque há crédito por parte da patrocinadora apto a sanar o déficit. E, ainda, a condenação da patrocinadora no pagamento dos danos materiais e morais causados em razão da implantação dos planos de equacionamento uma vez que esses foram causados por sua negligência.
+Da análise do processo, constata-se que, de fato, o TJ/SP não analisou tais alegações, em que pese tenham sido devidamente suscitadas no recurso de apelação e nos embargos de declaração opostos pela parte recorrente.
+Não se pode olvidar, nesse contexto, que o conhecimento do recurso especial exige a manifestação do Tribunal acerca da tese de direito suscitada, delineando de forma adequada os fatos que alicerçam a ação, permitindo, desse modo, que esta Corte Superior aprecie a controvérsia sem esbarrar nos óbices das Súmulas 5 e 7 do STJ.
+Recusando-se o Tribunal a se manifestar sobre a questão federal, fica obstaculizado o acesso à instância especial, cabendo à parte vencida invocar, como na hipótese dos autos, a infringência ao art. 1.022 do CPC, a fim de anular o acórdão recorrido, para que o Tribunal supra os vícios existentes. Nesse sentido: REsp 769.831/SP, DJe 27.11.2009; e REsp 242.128/SP, DJ 18.09.2000.
+Importa consignar que as questões são relevantes para o futuro deslinde da controvérsia no âmbito do Superior Tribunal de Justiça, pois, caso o Tribunal confirme a decisão outrora expendida, delineando o enquadramento fático da matéria, as questões apontadas integrarão o mérito propriamente dito do recurso especial, suscetível de apreciação por esta Corte Superior.
+Assim, observada a jurisprudência dominante desta Corte quanto ao tema, impõe-se a cassação do acórdão que apreciou os declaratórios a fim de que seja sanada a omissão acima referida, tendo-se como prejudicado o exame das demais questões aventadas no presente recurso.
+Forte nessas razões, RECONSIDERO a decisão de e-STJ fls. 1863/1865 e, com fundamento no art. 932, V, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PARCIAL PROVIMENTO, a fim de determinar a remessa dos autos ao TJ/SP, para que este se pronuncie, na esteira do devido processo legal, sobre os argumentos deduzidos nos embargos de declaração opostos pela parte recorrente. Por conseguinte, fica prejudicado o exame das demais questões aventadas no presente recurso.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE REVISÃO DE PLANO DE EQUACIONAMENTO DE DÉFICIT C/C INDENIZATÓRIA. VIOLAÇÃO DO ART. 1.022 DO CPC. OCORRÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CONSTATADA.
+1. Ação de revisão de plano de equacionamento de déficit c/c indenizatória.
+2. Há ofensa ao art. 1.022 do CPC quando o órgão julgador deixa de se manifestar expressamente sobre questão suscitada nos autos e relevante para o julgamento integral da ação.
+3. Reconsiderada a decisão de e-STJ fls. 1863/1865. Recurso especial conhecido e parcialmente provido.
