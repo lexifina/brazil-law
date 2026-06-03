@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual a COMPANHIA NACIONAL DE ABASTECIMENTO CONAB se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO assim ementado (fls. 874/875):
+CIVIL E PROCESSUAL CIVIL. PRÊMIO PARA EQUALIZAÇÃO. PEPRO 2013/06. CERTIDÃO DE PRODUTOR RURAL. JUNTADA EM LEILÃO ANTERIOR. CUMPRIMENTO DE REGRAS EDITALÍCIAS. AUSÊNCIA DE PREJUÍZO À CONAB. VENDA E ESCOAMENTO DO PRODUTO. MAJORAÇÃO DOS HONORÁRIOS. SENTENÇA PARCIALMENTE REFORMADA.
+1. Apelação interposta por ambas as partes contra sentença pela qual o juízo a quo julgou procedente o pedido de condenação da CONAB a pagar aos autores o Prêmio Equalizador pago ao Produtor Rural - PEPRO 2013/06.
+2. Hipótese em que produtores rurais arremataram soja em grãos e realizaram a venda e o escoamento do produto, mas sob o fundamento de que declarações de produtor rural não foram entregues dentro do prazo, a CONAB cancelou a operação e não pagou o valor do prêmio.
+3. Situação em que a prova documental evidencia que a juntada original das declarações em leilão anterior cumpre a exigência legal, pois o item 8.3 do Edital PEPRO 2013/06 previa que "caso já tenha sido apresentado o original da declaração em leilão anterior, poderá ser entregue cópia autenticada da mesma." Acresça-se que o cumprimento da norma editalícia mais se evidencia porque os arrematantes anexaram ao procedimento os documentos originais exigidos.
+4. A apresentação extemporânea das declarações não justifica o cancelamento da operação, considerando-se que a finalidade do leilão foi atendida com o abastecimento do mercado de soja em grãos pelos arrematantes. A ausência de prejuízo à CONAB impõe a nulidade da decisão administrativa, sob pena de ofensa aos princípios da vedação ao enriquecimento e da razoabilidade.
+5. Majoração dos honorários para 10% do valor da condenação, nos termos do art. 20, § 3º, do CPC/1973.
+6. Apelação da CONAB desprovida. 7. Apelação dos autores provida, nos termos do item 5. 8. Sem honorários recursais. Sentença proferida na vigência do CPC/1973.
+Os embargos de declaração opostos foram rejeitados (fls. 905/917).
+A parte recorrente alega violação dos arts. 1.022, I e II, do Código de Processo Civil, por contradição, omissão e obscuridade no acórdão, ao afirmar que houve o descumprimento das exigências editalícias e, ainda assim, foi mantida a condenação ao pagamento do prêmio equalizador, sem a demonstração da ilegalidade ou desproporcionalidade que justificasse a intervenção judicial.
+Sustenta ofensa aos arts. 3º e 41 da Lei 8.666/1993, por afastamento do princípio da vinculação ao instrumento convocatório e por indevida interferência jurisdicional no mérito administrativo quanto às condições e aos prazos de comprovação previstos no edital do PEPRO.
+As contrarrazões foram apresentadas às fls. 949/954.
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Na origem, cuida-se de ação de cobrança, cujo pedido principal é o pagamento de prêmio equalizador do Programa PEPRO relativo à operação de soja em grãos.
+Inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, tendo o Tribunal de origem apreciado fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+A parte recorrente sustenta omissão da instância ordinária no tocante a estas questões: (a) análise específica da ilegalidade ou desproporcionalidade das exigências editalícias e do princípio de vinculação ao edital (arts. 3º e 41 da Lei 8.666/1993); (b) suposta incongruência entre reconhecer a não comprovação administrativa e, ainda assim, validar o pagamento do prêmio; e (c) alegada invasão indevida do mérito administrativo sem explicitar fundamento jurídico.
+Todavia, conforme se depreende da análise do acórdão recorrido, o Tribunal de origem, de modo expresso, fundamentado e coeso, enfrentou cada um dos pontos supostamente omissos, tendo concluído que:
+(i) a exigência editalícia foi atendida, pois o item 8.3 do Edital PEPRO 2013/06 admite a entrega de cópia autenticada quando o original já tiver sido apresentado em leilão anterior, circunstância comprovada documentalmente;
+(ii) os arrematantes anexaram ao procedimento os documentos originais exigidos, reforçando o cumprimento das normas editalícias; e
+(iii) a apresentação extemporânea, por si só, não justifica o cancelamento da operação, porque a finalidade do leilão foi atingida com o abastecimento do mercado, inexistindo prejuízo à Conab, o que impõe a nulidade do cancelamento à luz dos princípios da vedação ao enriquecimento sem causa e da razoabilidade.
+É importante ressaltar que o contraponto aos argumentos das partes não demanda a citação literal de suas palavras ou dos mesmos dispositivos legais. É suficiente que haja fundamentação fática e jurídica coerente e adstrita ao que se debate nos autos.
+No mais, consoante os exatos termos do acórdão recorrido, o TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO assim se manifestou (fls. 879/881):
+A prova documental evidencia que os arrematantes participaram de leilão anterior, regido pelo Edital 033/06 de Prop Soja. No respectivo procedimento declarações de produtor rural foram anexadas em 14/06/2006, portanto, precedentemente à data de entrega dos documentos do leilão dirigido pelo Edital PEPRO 2013/06, prevista para 28/07/2006.
+
+A juntada das declarações em procedimento anterior supre a exigência legal, pois o item 8.3 do Edital PEPRO 2013/06 previa que "caso já tenha sido apresentado o original da declaração em leilão anterior, poderá ser entregue cópia autenticada da mesma."
+Acresça-se que o cumprimento das normas editalícias mais se evidencia porque os arrematantes anexaram ao procedimento os documentos originais exigidos.
+  a apresentação extemporânea das declarações não justifica o cancelamento da operação, considerando que a finalidade do leilão foi atendida com o abastecimento do mercado de soja em grãos pelos arrematantes.
+Enfim, a ausência de prejuízo à CONAB impõe a nulidade da decisão administrativa, sob pena de ofensa ao princípio que veda o enriquecimento sem causa e da razoabilidade.
+O Tribunal de origem, com base no acervo fático- probatório dos autos, reconheceu: (i) a apresentação prévia das declarações em leilão anterior e a possibilidade de entrega de cópia autenticada conforme o item 8.3 do edital; (ii) a anexação dos documentos originais exigidos (fl. 880); e (iii) a ausência de prejuízo com atendimento da finalidade do leilão.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, a ele negar provimento.
+Publique-se. Intimem-se.
+EMENTA
