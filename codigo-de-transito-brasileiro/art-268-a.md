@@ -10,8 +10,4 @@ IV - quando a Carteira Nacional de Habilitação do cadastrado estiver cassada o
 V - quando o cadastrado estiver cumprindo pena privativa de liberdade.
 § 5º A consulta ao RNPC é garantida a todos os cidadãos, nos termos da regulamentação do Contran.
 § 6º A União, os Estados, o Distrito Federal e os Municípios poderão utilizar o RNPC para conceder benefícios fiscais ou tarifários aos condutores cadastrados, na forma da legislação específica de cada ente da Federação.
-§ 7º O condutor que, ao término do período de validade da Carteira Nacional de Habilitação ou da Autorização para Conduzir Ciclomotor, estiver cadastrado no RNPC terá sua habilitação renovada automaticamente, e ficará dispensado dos procedimentos previstos no art. 147.
-§ 8º O disposto no § 7º:
-I - não se aplica a condutores com a idade a partir de setenta anos;
-II - não poderá ser aplicada para mais do que uma renovação para os condutores a partir de cinquenta anos; e
-III - não se aplica para os condutores de que trata o art. 147, § 4º.
+§ 7º O condutor que, ao término do período de validade da Carteira Nacional de Habilitação ou da Autorização para Conduzir Ciclomotor, estiver cadastrado no RNPC terá sua habilitação renovada automaticamente e ficará dispensado dos procedimentos previstos no art. 147 deste Código, com exceção dos exames de aptidão física e mental.
