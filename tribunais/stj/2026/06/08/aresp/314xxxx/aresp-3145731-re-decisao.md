@@ -1,0 +1,59 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fls. 760-761):
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA DIALETICIDADE RECURSAL. ÓBICES DAS SÚMULAS 7, 83 E 182 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto pela Defesa contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu de agravo em recurso especial, em razão da incidência do óbice da Súmula n. 182/STJ.
+2. O Tribunal de origem inadmitiu o recurso especial com fundamento na vedação ao reexame de provas (Súmula n. 7/STJ) e na consonância do acórdão recorrido com a jurisprudência do STJ (Súmula n. 83/STJ). A Presidência do STJ não conheceu do agravo em recurso especial por ausência de impugnação específica desses óbices, aplicando a Súmula n. 182/STJ.
+3. A Defesa sustenta a inaplicabilidade da Súmula n. 7/STJ, ao argumento de que a pretensão recursal restringe-se à revaloração jurídica das circunstâncias da dosimetria da pena, notadamente o uso de qualificadoras remanescentes como agravantes, e não ao revolvimento fático-probatório; afirma a inexistência de orientação pacificada que justifique a incidência da Súmula n. 83/STJ, trazendo julgados sobre vedação ao uso de qualificadoras remanescentes como agravantes ou circunstâncias judiciais.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o agravo em recurso especial pode ser conhecido quando a parte agravante não impugna, de forma concreta, específica e analítica, todos os fundamentos da decisão que inadmitiu o recurso especial, em especial os óbices das Súmulas n. 7 e 83/STJ, à luz do princípio da dialeticidade recursal.
+5. Outra questão em discussão consiste em saber se, no caso concreto, as alegações genéricas de revaloração jurídica de fatos e de inexistência de jurisprudência pacífica são suficientes para afastar a incidência das Súmulas n. 7, 83 e 182/STJ e, ainda, se há nulidade por deficiência de fundamentação da decisão que não conheceu do agravo em recurso especial.
+III. Razões de decidir
+6. O princípio da dialeticidade recursal impõe ao agravante o dever de impugnar, de maneira concreta e específica, todos os fundamentos da decisão agravada, de modo que a ausência de impugnação efetiva dos motivos utilizados para inadmitir o recurso especial atrai a incidência da Súmula n. 182/STJ e impede o conhecimento do agravo em recurso especial (art. 932, III, do CPC/2015, e art. 253, parágrafo único, I, do RISTJ).
+7. Para afastar o óbice da Súmula n. 7/STJ, o agravante deve demonstrar, mediante cotejo analítico entre as premissas fáticas fixadas no acórdão recorrido e as teses recursais, que a pretensão deduzida não demanda reexame do conjunto fático-probatório, mas apenas revaloração jurídica dos fatos já delineados, o que não se verifica quando há apenas alegações genéricas de que não se busca o revolvimento de provas.
+8. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que a mera afirmação de tratar-se de questão de direito ou de revaloração jurídica, desacompanhada do indispensável cotejo com as premissas fáticas do acórdão recorrido, não é suficiente para impugnar o óbice da Súmula n. 7/STJ, mantendo-se hígido o fundamento de inadmissibilidade do recurso especial.
+9. A superação do óbice da Súmula n. 83/STJ exige que a parte agravante demonstre, de forma analítica e fundamentada, a inadequação dos precedentes utilizados na origem, seja por comprovação de alteração da jurisprudência (overruling) mediante colação de julgados supervenientes, seja por demonstração de distinguishing em relação às particularidades fáticas ou jurídicas do caso concreto, ônus do qual o agravante não se desincumbiu.
+10. Limitar-se a invocar julgados em sentido favorável sem realizar a necessária confrontação analítica com os precedentes que ampararam a decisão recorrida, nem evidenciar mudança de orientação jurisprudencial ou distinção relevante, configura impugnação genérica e insuficiente, incapaz de afastar a aplicação da Súmula n. 83/STJ.
+11. A decisão que não conhece do agravo em recurso especial por incidência das Súmulas n. 7, 83 e 182/STJ, devidamente explicitadas, encontra-se suficientemente fundamentada, não se verificando a alegada nulidade por violação ao art. 489, § 1º, do CPC, pois o órgão julgador indicou de forma clara os óbices processuais que impedem o exame do mérito recursal.
+12. Na hipótese concreta, a parte agravante não demonstrou, de forma específica, nem que sua tese prescinde do reexame de fatos e provas, nem que os precedentes que embasaram a aplicação da Súmula n. 83/STJ são inadequados ou superados, deixando de infirmar integralmente os fundamentos da decisão agravada, o que impõe a manutenção do não conhecimento do agravo em recurso especial.
+IV. Dispositivo
+13. Agravo regimental desprovido.
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, ao art. 93, IX, da Constituição Federal.
+Nesse sentido, argumenta ter havido ausência de fundamentação idônea do acórdão recorrido ao manter os óbices das Súmulas 7 e 83/STJ sem demonstrar a falta de impugnação específica.
+Afirma que a tese deduzida prescinde do revolvimento fático-probatório e permite apenas revaloração jurídica, razão pela qual a Súmula 7/STJ não se aplica.
+Argumenta que foram realizados dissídio e cotejo analítico suficientes para afastar a Súmula 83/STJ.
+Expõe a nulidade do reconhecimento fotográfico que teria contribuído para a condenação, defendendo a necessidade de correção do vício.
+Ressalta ser indevido o aproveitamento de qualificadora remanescente como agravante na dosimetria, o que demandaria a readequação da pena.
+Destaca a necessidade de determinação para que o Superior Tribunal de Justiça analise o recurso especial e afaste a agravante aplicada.
+Requer, assim, a admissão e o provimento do recurso extraordinário.
+É o relatório.
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da CF não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 766-770):
+ ..
+No caso, o acusado foi condenado como incurso no art. 121, § 2º, II, III e IV, do Código Penal (homicídio qualificado), à pena de 21 anos de reclusão, em regime inicial fechado, em suma porque, por motivo fútil ligado à disputa do tráfico de drogas, aproximou-se sorrateiramente da vítima pelas costas e, munido de um caibro de madeira, desferiu-lhe violento golpe na cabeça que impossibilitou sua defesa, prosseguindo com múltiplas agressões que culminaram em esmagamento do crânio.
+A decisão de inadmissibilidade fundamentou-se na vedação ao reexame de provas, conforme a Súmula n. 7/STJ, e na sintonia do acórdão recorrido com a jurisprudência desta Corte Superior, nos termos da Súmula n. 83 do STJ (fls. 670-672). A argumentação do agravo, contudo, falhou em infirmar adequadamente a aplicação dos referidos óbices.
+Com efeito, o princípio da dialeticidade recursal impõe ao recorrente o dever de impugnar todos os fundamentos da decisão atacada, demonstrando, de maneira concreta e específica, o seu desacerto.
+Esta Corte Superior possui entendimento consolidado no sentido de que a ausência de impugnação efetiva dos fundamentos da decisão que inadmitiu o recurso especial na origem impede o conhecimento do agravo, nos termos do art. 932, III, do CPC/2015, do art. 253, parágrafo único, I, do RISTJ, bem como da Súmula n. 182 do STJ, aplicável por analogia.
+Nesse  sentido:
+ ..
+Para afastar o impedimento da Súmula n. 7/STJ, seria imperativo que o recorrente, por meio de um cotejo analítico, demonstrasse que a sua pretensão recursal não demanda a reavaliação do substrato fático-probatório, mas apenas a revaloração jurídica dos fatos já soberanamente delineados no acórdão recorrido. A ausência dessa demonstração técnica, limitando-se a alegações genéricas, torna a impugnação ineficaz e mantém hígido o fundamento da decisão agravada.
+A jurisprudência deste Tribunal é pacífica ao exigir, para o afastamento da Súmula n. 7, que a parte demonstre, com base nas premissas fáticas do próprio acórdão, que a questão é puramente de direito, não bastando a mera assertiva de que não se pretende o reexame de provas (AgRg no AREsp 2183499/MG, Rel. Ministro Carlos Cini Marchionatti, Desembargador Convocado do TJRS, Quinta Turma, julgado em 20/03/2025, DJEN de 26/03/2025).
+Sobre a matéria, é iterativa a jurisprudência do Superior Tribunal de Justiça:
+ ..
+No  mesmo  diapasão:  AgRg nos EDcl no AREsp 2815477/DF.  Rel.  Desembargador Convocado Otávio de Almeida Toledo,  Sexta  Turma,  julgado  em  19/08/2025,  DJEN de 26/08/2025; AgRg no AREsp 2770961/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/08/2025, DJEN de 19/08/2025.
+Do mesmo modo, a superação do óbice da Súmula n. 83/STJ exige que a parte agravante demonstre, de forma analítica e fundamentada, a inadequação dos precedentes aplicados na origem. Esse ônus dialético se cumpre por duas vias: (i) pela comprovação da alteração da jurisprudência, mediante a colação de julgados supervenientes que configurem a superação (overruling) da tese; ou (ii) pela demonstração, por meio de cotejo analítico, de que as particularidades fáticas ou jurídicas do caso concreto o distinguem (distinguishing) dos paradigmas invocados. Trata-se de entendimento pacificado no âmbito deste Tribunal (AgRg no AREsp 2956824/AC, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 05/08/2025, DJEN de 15/08/2025).
+Nesse mesmo sentido:
+ ..
+Na hipótese dos autos, contudo, a parte recorrente não se desincumbiu dessa incumbência. Limitou-se a alegações genéricas, sem apresentar julgados atuais que indicassem a modificação da jurisprudência, tampouco realizou a necessária confrontação analítica para demonstrar a distinção entre o caso em tela e os precedentes que fundamentaram a decisão agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
