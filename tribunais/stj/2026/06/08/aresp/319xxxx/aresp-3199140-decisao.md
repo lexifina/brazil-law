@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo interposto por MARLENE PEREIRA DA SILVA RODRIGUES contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 337):
+COMPRA E VENDA DE VEÍCULO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ALEGAÇÃO DE VENDA DO BEM À DEMANDADA, QUE TERIA DEIXADO DE REALIZAR A TRANSFERÊNCIA E O PAGAMENTO DE IPVA, ENSEJANDO A NEGATIVAÇÃO DO NOME DA AUTORA. CONSTATAÇÃO DE QUE AS PARTES FIRMARAM CONTRATO ESTIMATÓRIO, DE MODO QUE A AUTORA PERMANECEU SENDO A PROPRIETÁRIA DO BEM E RESPONSÁVEL TRIBUTÁRIA ATÉ QUE SE EFITIVASSE A VENDA A TERCEIRO. IMPROCEDÊNCIA MANTIDA. RECURSO IMPROVIDO, COM OBSERVAÇÃO. 1. Os elementos apresentados nos autos permitem concluir que não ocorreu a venda do bem à loja demandada, mas, sim, a formalização de um contrato estimatório, inexistindo transferência da propriedade. 2. Nesse contexto, o fato gerador do tributo é a propriedade do veículo, de modo que a autora é devedora pelo simples fato de ser a titular do domínio do bem. 2. Diante desse resultado, nos termos do artigo 85, § 11, do Código de Processo Civil, eleva-se o montante da verba honorária sucumbencial a 15% sobre o valor atualizado da causa, com a ressalva da inexigibilidade decorrente da gratuidade judicial.
+Rejeitados os embargos de declaração opostos (fls. 354-358).
+No recurso especial, a parte recorrente alega violação aos arts. 113, § 2º, 186, 187, 422, 927 e 1.267 do Código Civil; 6º, inciso VI, e 14 do Código de Defesa do Consumidor; e 121, inciso II, do Código Tributário Nacional.
+Sustenta, em síntese, que houve tradição do veículo em dezembro de 2020 e estipulação contratual que atribuiu à consignatária/intermediadora a responsabilidade pelos encargos subsequentes, inclusive tributos, a partir dessa data.
+Aduz que a negativa de responsabilidade da fornecedora viola a boa-fé objetiva e configura ato ilícito gerador de dano moral por ter suportado os prejuízos ocasionados pela situação.
+Por fim, assevera que, sendo coisa móvel, a propriedade se transfere com a tradição e que a sujeição passiva do IPVA de 2021 não poderia recair sobre a recorrente diante da transferência da posse e da disponibilidade econômica do bem.
+Foram oferecidas contrarrazões ao recurso especial (fls. 381-385; 387-407; 409-413).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 414-415), o que ensejou a interposição do presente agravo (fls. 418-429).
+Apresentada contraminuta do agravo (fls. 432-441 e 443-446). Quanto à litisconsorte Francisca Albertina Damato de Carvalho, há certidão de decurso de prazo sem apresentação de resposta ao agravo (fl. 447).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O Tribunal de origem, soberano na análise das provas carreadas aos autos, concluiu que a data da tradição do veículo é diferente da alegada pela parte e que não houve transferência da propriedade do bem, dado que a loja agravada apenas funcionou como consignante do bem. Retirando, assim, sua responsabilidade no pagamento do IPVA do ano de 2021 (fls. 340-341):
+Observa-se que não houve tradição do veículo em dezembro de 2020, como alegou a demandante. Na verdade, a venda do bem ocorreu apenas em 15 de janeiro de 2021, à corré Francisca, em decorrência da relação de mandato que é imanente ao negócio, o que fica evidenciado pelo documento de transferência do veículo, assinado pela autora apenas nessa data (fls. 30/33 e 104).
+Nesse contexto, não há que se falar em responsabilidade da loja demandada pelo pagamento do IPVA referente ao ano de 2021.
+ ..
+Nesse sentido, bem delineou a sentença, cujos fundamentos ficam reiterados:
+"No caso concreto, suficientemente comprovado que o autor não vendeu o veículo Fiat Palio, placa EKP- 9895, para a requerida Atlas, que atuou apenas como consignante do bem, não sendo, por isso, a proprietária do automóvel. Acolho, para tanto, a tese formulada por esta requerida em sede de contestação (fls. 68/100), de modo que restou atestado às fls. 78/79 ter a autora celebrado com ela um instrumento contratual de consignação e intermediação, e que foi com a Sra. Francisca Albertina Damato de Carvalho com quem celebrou a venda do bem automóvel, como se extrai do recibo de transferência do veículo (vide fl. 79).
+Assim, alterar o decidido no acórdão impugnado, no que se refere à data de tradição do automóvel e da responsabilidade quanto ao pagamento do tributo de IPVA, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+Ademais, nos termos da jurisprudência pacífica do STJ, é inviável o conhecimento do recurso especial quando os artigos tidos por violados não foram apreciados pelo Tribunal de origem.
+Conforme se extrai dos autos, os arts. 186, 187 e 927 do Código Civil apontados como violados e a tese a ele vinculada quanto a configuração de dano moral não foi prequestionado, incidindo o óbice das Súmulas 211/STJ e 282/STF.
+Ressalta-se que na instância especial, a apreciação de ofício de matéria, mesmo de ordem pública, não dispensa o requisito do prequestionamento (AgInt nos EAREsp n. 1.327.393/MA, relator Ministro Felix Fischer, Corte Especial, DJe de 18/12/2020).
+Mesmo que assim não fosse, alterar o decidido no acórdão impugnado, no que se refere a existência ou não de dano moral indenizável no caso exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 18% sobre o valor atualizado da causa.
+Publique-se. Intimem-se.
+EMENTA
