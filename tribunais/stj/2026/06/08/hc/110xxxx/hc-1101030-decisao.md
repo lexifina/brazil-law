@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de EZEQUIEL GALDINO MAURICIO DE LIMA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que denegou a ordem no writ de origem. Eis a ementa (fl. 273):
+HABEAS CORPUS. Condenação pela prática do crime de tráfico de drogas. Sentença condenatória que fixou a pena de 08 anos e 02 meses de reclusão, em regime inicial fechado. Decretação da prisão preventiva quando da sentença condenatória. Alegação de ausência de contemporaneidade e de fundamentação idônea. Inocorrência. Existência de representação anterior da autoridade policial e do Ministério Público. Paciente que é duplamente reincidente por tráfico de drogas e estava em cumprimento de pena quando da prática do delito em questão. Necessidade de manutenção da prisão preventiva. Denegada a ordem.
+Consta dos autos que o paciente foi denunciado e condenado pelo crime do artigo 33, caput, da Lei 11.343/06, à pena de 8 anos e 2 meses de reclusão, em regime inicial fechado, e ao pagamento de 816 dias-multa. Respondeu ao processo em liberdade, sem prisão em flagrante ou cautelar anterior. Ao proferir sentença, todavia, o Juízo de origem decretou a prisão preventiva e negou o direito de recorrer em liberdade.
+Impetrado habeas corpus junto ao Tribunal local, este foi denegado, mantendo-se a custódia.
+No presente writ, o impetrante sustenta nulidade da prisão preventiva, apontando que esta teria sido decretada de ofício, por ausência de requerimento do Ministério Público ou representação da autoridade policial.
+Alega falta de fundamentação concreta e contemporaneidade da medida, porque a decisão se apoiou apenas na gravidade abstrata do tráfico, na reincidência e em maus antecedentes, sem fatos novos nem risco atual, e porque o suposto delito é de 13/06/2024, enquanto a preventiva foi imposta apenas em 19/03/2026.
+Defende que a negativa de recorrer em liberdade implica execução provisória indevida da pena e viola a presunção de inocência, pois o paciente permaneceu solto durante toda a instrução, sem intercorrências, e inexiste base cautelar legítima.
+Requer liminarmente a revogação da prisão preventiva, para que o paciente possa recorrer em liberdade. No mérito, requer a concessão da ordem para confirmar a liminar e assegurar o direito de recorrer solto, com a revogação definitiva da prisão preventiva.
+É o relatório.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto, consoante previsto no art. 105, III, da CF, o recurso cabível contra acórdão que julga apelação, recurso em sentido estrito e agravo em execução é o recurso especial.
+Nada impede, contudo, a concessão de habeas corpus de ofício quando constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, nos termos do art. 654, §2º, do CPP, o que ora se passa a examinar.
+A prisão preventiva justifica-se apenas quando devidamente demonstrada sua imprescindibilidade para a preservação da ordem pública, a garantia da regularidade da instrução criminal ou a asseguração da eficácia da aplicação da lei penal, nos termos do art. 312 do Código de Processo Penal.
+Na sentença condenatória, a segregação corpórea cautelar foi decretada pelos seguintes fundamentos (fl. 236):
+Nego ao réu o direito de recorrer em liberdade, uma vez que, o réu é reincidente específico e possuidor de maus antecedentes, mostrando-se pessoa inserida no mundo do crime e a ele dedicada, o que demonstra seu descaso com a justiça e paz social. Sendo o acusado contumaz na vida criminosa, há fortes indícios de que, se solto, poderá voltar a delinquir, sendo necessário mantê-lo segregado para resguardar a segurança e a ordem públicas. Ressalte-se que o próprio Código de Processo Penal pretende, em seu art. 313, II, que o agente reincidente seja tratado com maior rigor. No mesmo sentido, é o art. 282, II, daquele diploma legal, segundo o qual as medidas cautelares deverão ser aplicadas observando-se, dentre outros quesitos, as condições pessoais do indiciado ou acusado. Presentes, pois, os requisitos para a decretação da prisão preventiva do acusado.
+Verifica-se que a prisão preventiva foi decretada a partir de fundamentação idônea, lastreada na necessidade de manutenção da ordem pública, sendo destacados a reincidência específica do paciente e seus maus antecedentes, circunstâncias aptas à imposição da medida extrema.
+Além disso, esta Corte Superior firmou orientação no sentido de que a prisão preventiva poderá ser decretada ante o risco concreto de reiteração delitiva, evidenciada na presença de maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo ações penais em andamento, porquanto indicativos de periculosidade. Veja-se:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. RÉU CONDENADO POR ROUBO MAJORADO. NEGATIVA DE RECURSO EM LIBERDADE. FUNDAMENTAÇÃO. PERICULOSIDADE DO AGENTE. REITERAÇÃO DELITIVA. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+ ..
+3. Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 107.238/GO, Relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 26/2/2019, DJe 12/3/2019). Prisão preventiva, no caso vertente, devidamente justificada para a garantia da ordem pública, nos termos do art. 312 do CPP, visando frear a reiteração delitiva.
+ ..
+7. Agravo regimental a que se nega provimento.
+(AgRg no RHC n. 187.651/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/9/2024, DJe de 12/9/2024.)
+Ressalte-se, ainda, que a prisão preventiva é compatível com a presunção de inocência quando amparada em fundamentos concretos que evidenciem a necessidade da medida para a garantia da ordem pública, nos termos do art. 312 do Código de Processo Penal. Neste sentido: AgRg no RHC n. 201.499/BA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/4/2025, DJEN de 8/4/2025; HC n. 856.198/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 15/10/2024, DJe de 12/11/2024.
+E nesse contexto, inclusive, a custódia decorre de título cuja carga decisória apresenta maior robustez, pois o magistrado, ao sentenciar, dispõe de maior amplitude cognitiva em relação aos fatos e às provas se comparada a fases anteriores da ação penal, uma vez que já decorrida toda a instrução, com a manifestações da defesa e da acusação sobre todo o arcabouço. Desse modo, afastada qualquer ilegalidade no ponto.
+Já no que tange à alegação de prisão preventiva decretada de ofício e a respeito da suposta ausência de contemporaneidade da privação de liberdade, consignou o Tribunal de origem que (fl. 276):
+ ..  é certo que embora o paciente tenha respondido o processo, até o momento, em liberdade, houve representação pretérita da autoridade policial pela prisão preventiva (fls. 102/104 autos de origem), com a concordância do Ministério Público (fls. 138/141 autos de origem), pedido reiterado após a não localização inicial do paciente (fls. 176 autos de origem).
+Tais circunstâncias indicam que o paciente, ao menos em tese, dedica-se a atividades criminosas, revelando a inadequação das medidas cautelares diversas da prisão previstas no artigo 319, do Código de Processo Penal, além de evidenciar a necessidade da prisão preventiva para a garantia da ordem pública e da aplicação da lei penal, bem como a presença de contemporaneidade para sua decretação.
+Como visto, não só houve anterior representação da autoridade policial para tanto como concordância do Ministério Público estadual, sendo que a aquiescência do órgão acusador foi reforçada após a não localização inicial do paciente. Sendo assim, o entendimento se alinha com a jurisprudência do Superior Tribunal de Justiça, que reconhece que a representação da autoridade policial pela prisão preventiva afasta a tese de decretação de custódia cautelar de ofício.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL. HABEAS CORPUS. SÚMULA N. 691/STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+ .. .
+3. A defesa alegou que a prisão preventiva foi decretada de ofício pelo Juízo singular e que o auto de prisão em flagrante foi lavrado sem a presença do paciente.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a prisão preventiva decretada de ofício pelo Juízo singular configura manifesta ilegalidade capaz de afastar o óbice da Súmula n. 691 do STF.
+5. Outra questão é se a ausência do paciente na lavratura do auto de prisão em flagrante constitui nulidade que justifique a concessão de habeas corpus.
+III. Razões de decidir
+6. A jurisprudência do STF e do STJ não admite habeas corpus contra decisão que indefere liminarmente outro habeas corpus, salvo em casos de manifesta ilegalidade ou teratologia.
+7. No caso, não se verificou a alegada nulidade do auto de prisão em flagrante, pois o procedimento foi acompanhado por advogado dativo, o que reforça a regularidade formal do ato.
+8. A conversão da custódia flagrancial em preventiva não foi realizada de ofício, mas sim com base em representação da Autoridade Policial, não havendo ilegalidade manifesta.
+IV. Dispositivo e tese
+9. Agravo regimental não provido.
+ .. .
+(RCD no HC n. 997.168/RS, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 11/6/2025, DJEN de 26/6/2025.)
+Igualmente, conforme entendimento já consolidado, "a contemporaneidade do decreto de custódia preventiva se verifica da necessidade no momento de sua decretação, ainda que o fato criminoso tenha ocorrido em um período passado" (AgRg no HC 849.475/MS, relator Ministro Messod Azulay Neto, Quinta Turma, j. em 20/2/2024, DJe 23/2/2024).
+Não há, portanto, flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
