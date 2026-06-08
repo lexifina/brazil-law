@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de KEVIN ALEXANDRE DA SILVA AMARAL em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+DIREITO PENAL. REVISÃO CRIMINAL. ROUBO CIRCUNSTANCIADO. REGIME FECHADO FIXADO NO APELO CONTRARIAMENTE AO TEXTO LEGAL. INOBSERVÂNCIA. PEDIDO INDEFERIDO.
+I. Caso em Exame
+1. O peticionário foi condenado por concorrer à prática do crime de roubo pelo corréu. A pena foi fixada em 6 anos e 8 meses de reclusão, inicialmente em regime semiaberto, alterado no acórdão da apelação ministerial para fechado.
+II. Questão em Discussão
+2. A questão em discussão consiste em verificar a alegada ilegalidade na imposição do regime semiaberto, considerando a primariedade do réu e a pena-base fixada no mínimo legal.
+III. Razões de Decidir
+3. A revisão criminal não pode ser utilizada como segunda apelação para reexame de fatos e provas, sem a apresentação de novas provas ou demonstração de erro técnico na decisão original.
+4. A decisão de alterar o regime prisional para fechado foi fundamentada na maior reprovabilidade da conduta, considerando a motivação torpe, bem como o fato de ter instigado e dirigido a conduta do réu.
+IV. Dispositivo e Tese
+5. Pedido de revisão criminal indeferido.
+Tese de julgamento: 1. A revisão criminal não é cabível para reexame de fatos e provas sem novas evidências. 2. A decisão de alterar o regime prisional foi devidamente fundamentada com base na maior reprovabilidade da conduta, ausente ilegalidade.
+Legislação Citada: Código de Processo Penal, art. 621; Código Penal, art. 33.
+Jurisprudência Citada: STJ, AgRg no HC n. 913.488/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, j. 9/9/2024; STJ, AgRg no HC n. 830.391/SP, Rel. Min. Og Fernandes, Sexta Turma, j. 20/8/2025.
+Consta dos autos que o paciente foi condenado à pena de 6 (seis) anos e 8 (oito) meses de reclusão, em regime inicial fechado, pela prática do delito capitulado no art. 157, § 2º, II, do Código Penal, em concurso de agentes, com agravantes dos arts. 61, II, a, e 62, I e II, do Código Penal.
+Em suas razões, sustentam os impetrantes a ocorrência de constrangimento ilegal, porquanto a alteração do regime inicial para o fechado teria sido imposta com base em fundamentação genérica e juízos subjetivos sobre a personalidade do paciente, sem amparo em circunstâncias judiciais desfavoráveis do art. 59 do Código Penal, contrariando o art. 93, IX, da Constituição e o art. 33, § 2º, b, e § 3º, do Código Penal.
+Afirmam que, fixada a pena-base no mínimo legal e sendo o paciente primário, não haveria elementos concretos que justificassem regime mais gravoso, pois o acórdão teria se limitado a ressaltar a gravidade abstrata da conduta e a natureza do crime, em descompasso com a necessidade de motivação idônea para recrudescimento do regime.
+Argumentam que houve violação ao princípio da individualização da pena, por afastamento imotivado dos parâmetros legais do art. 33 do Código Penal e desconsideração das circunstâncias judiciais favoráveis, bem como deficiência de fundamentação por não enfrentar argumentos defensivos capazes de infirmar a conclusão adotada, em afronta ao art. 315, § 2º, IV, do Código de Processo Penal.
+Requerem, liminarmente e no mérito, a alteração do regime inicial de cumprimento de pena para o semiaberto.
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou o entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do Voto condutor do acórdão impugnado a seguinte fundamentação quanto ao regime inicial de cumprimento da pena:
+Em que pese a fixação da pena-base no mínimo legal, observa-se que, ao reconhecer a incidência do artigo 61, inciso II, alínea a, e no artigo 62, incisos I e III, do Código Penal, o Juízo da origem optou por fração diferenciada, pois, além da motivação torpe, KELVIN instigou o corréu à prática do crime, além de orientar e dirigir sua conduta.
+E, de fato, tais circunstâncias, ainda que sopesadas apenas na segunda fase da dosimetria da pena porque previstas como agravantes, indicam maior reprovabilidade na conduta de KEVIN, pois, como ponderado pelos Desembargadores, por não conseguir devolver a Klisman o considerável numerário que o convenceu a investir de forma fraudulenta, instigou e orientou o comparsa a cometer subtração mediante grave ameaça, dissimulando também se tratar de vítima para justificar a impossibilidade de quitação da dívida, o que não pode ser ignorado (fl. 96).
+Nos termos dos §§ 2º e 3º do art. 33 do Código Penal, para a fixação do regime inicial de cumprimento de pena o julgador deverá observar a quantidade de pena aplicada, a primariedade do réu e a eventual existência de circunstâncias judiciais desfavoráveis. Além disso, devem ser observados os enunciados das Súmulas n. 440 do Superior Tribunal de Justiça, e das Súmulas nºs 718 e 719 do Supremo Tribunal Federal, segundos os quais é vedada a fixação de regime prisional mais gravoso do que o cabível em razão da sanção imposta somente com base na gravidade abstrata do delito.
+Ademais, segundo a jurisprudência do STJ e a legislação pátria, acima citada, é considerada motivação idônea para o fim de imposição de regime mais severo do que a pena aplicada: a) a reincidência, ainda que não seja específica (§ 2º do art. 33 do CP); b) a existência de circunstância judicial desfavorável, nos termos do art. 59 do CP (§ 3º do art. 33 do CP) e; c) a gravidade concreta do delito. Nesse sentido, vale citar os seguintes julgados: EREsp n. 1.970.578/SC, Rel. Ministro Joel Ilan Paciornik, Terceira Seção, DJe de 6.3.2023; AgRg no AgRg no AREsp n. 2.435.525/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 6.6.2024; AgRg no HC n. 836.416/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 3.5.2024; AgRg no HC n. 859.680/SP, Rel. Ministro Messod Azulay Neto, Quinta Turma, DJe de 14.2.2024; AgRg no HC n. 842.514/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 3.7.2024; AgRg no HC n. 901.630/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 3.7.2024; AgRg no HC n. 905.390/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 12.6.2024; AgRg no AREsp n. 2.465.687/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 11.6.2024.
+Acresça-se que, de acordo com a Súmula n. 269 do STJ, é admissível a adoção do regime prisional semiaberto para reincidentes condenados a pena igual ou inferior a quatro anos, se favoráveis as circunstâncias judiciais.
+Nessa linha, o julgado impugnado não diverge da jurisprudência desta Corte, pois, conforme se extrai do trecho do acórdão supratranscrito, há elemento idôneo para a fixação do regime fechado, em especial a valoração negativa de circunstância judicial.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
