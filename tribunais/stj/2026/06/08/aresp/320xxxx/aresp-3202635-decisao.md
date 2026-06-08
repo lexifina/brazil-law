@@ -1,0 +1,25 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por GELCIRA SILVA DA MOTA e FILOMENA SILVA DA ROSA contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Ação: manutenção de posse, ajuizada por GELCIRA SILVA DA MOTA e FILOMENA SILVA DA ROSA, em face de NAUTA MARIA DE SOUZA E SILVA, na qual requer a proteção possessória sobre pequena gleba rural e a manutenção do fornecimento de energia elétrica.
+Sentença: julgou procedentes os pedidos, para: manter definitivamente as autoras na posse do imóvel descrito nos autos.
+Acórdão: deu parcial provimento ao recurso de apelação interposto por NAUTA MARIA DE SOUZA E SILVA, nos termos da seguinte ementa:
+DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DE MANUTENÇÃO DE POSSE. ILEGITIMIDADE ATIVA. PRELIMINAR REJEITADA. REQUISTOS LEGAIS PARA A PROTEÇÃO POSSESSÓRIA. PRESENÇA. LIMITAÇÃO DA ÁREA VINDICADA NA INICIAL. NECESSIDADE. RECURSO PARCIALMENTE PROVIDO.
+I. CASO EM EXAME
+Apelação cível interposta contra sentença que julgou procedente pedido formulado em ação de manutenção de posse, reintegrando definitivamente as autoras na posse de imóvel rural situado em Córrego do Bom Jesus/MG. A parte ré, ora apelante, sustenta a ilegitimidade ativa e ausência de comprovação de posse.
+II. QUESTÃO EM DISCUSSÃO Há duas questões em discussão: (i) definir se as autoras possuem legitimidade ativa; (ii) estabelecer se estão presentes requisitos necessários para a proteção possessória pleiteada.
+III. RAZÕES DE DECIDIR
+A análise da legitimidade ativa deve ser feita in statu assertionis, ou seja, com base nas alegações constantes da petição inicial, sendo suficiente, em regra, a narrativa de que a parte autora detinha a posse do bem e de que esta foi turbada pela parte ré.
+Ficou demonstrado nos autos que a família das autoras exerce posse sobre o imóvel litigioso há décadas, bem como o ato de turbação cometido pela ré, atendendo aos requisitos legais para a manutenção possessória.
+Todavia, a prova produzida não evidencia, de forma segura, que tal posse abranja a integralidade da área descrita na inicial, motivo pelo qual, se impõe a limitação da proteção possessória a 200 m , compreendendo o entorno da residência e o respectivo caminho de acesso, conforme com o pedido subsidiário formulado pela ré.
+IV. DISPOSITIVO E TESE
+Recurso parcialmente provido. Tese de julgamento: A análise da legitimidade ativa deve ser feita in statu assertionis, ou seja, com base nas alegações constantes da petição inicial. Dispositivos relevantes citados: CC, arts. 1.196, 1.204, 1.210; CPC, arts. 373, II; 560; 561. Jurisprudência relevante citada: STJ, AgInt nos EDcl no REsp 1.760.178/RS, Rel. Min. Antonio Carlos Ferreira, j. 30.03.2020; STJ, AgInt no AREsp 1.890.261/RJ, Rel. Min. Maria Isabel Gallotti, j. 02.05.2022. APELAÇÃO CÍVEL Nº 1.0000.25.225873-6/001 - COMARCA DE CAMBUÍ - APELANTE(S): NAUTA MARIA DE SOUZA E SILVA - APELADO(A)(S): FILOMENA SILVA DA ROSA, GELCIRA SILVA DA MOTA (e-STJ fl. 537)
+Decisão de admissibilidade do TJ/MG: inadmitiu o recurso especial em razão dos seguintes fundamentos: i) inadmissibilidade de interposição de recurso especial para alegar vulneração a dispositivo constitucional; ii) ausência de violação do art. 1.022 do CPC; iii) incidência da Súmula 7 do STJ, e iv) consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (Súmula 83/STJ).
+Agravo em recurso especial: nas razões do presente recurso, além da negativa de prestação jurisdicional, a parte agravante aduz que a análise das teses recursais independe do revolvimento do acervo fático-probatório carreado aos autos.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: i) inadmissibilidade de interposição de recurso especial para alegar vulneração a dispositivo constitucional e ii) consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (Súmula 83/STJ).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, Terceira Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, Quarta Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte agravante para 15% sobre o valor atualizado da causa, observada a distribuição dos honorários sucumbenciais estabelecida no acórdão de e-STJ Fls. 537/563, bem como a concessão de eventual gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
