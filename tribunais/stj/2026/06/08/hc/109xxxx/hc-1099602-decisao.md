@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de CARLOS NOGUEIRA JÚNIOR, apontando como autoridade coatora o TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, em decorrência do julgamento da apelação criminal n. 5047978-11.2025.4.04.7000/PR.
+Consta dos autos que o paciente foi inicialmente absolvido pelo Juízo da 14ª Vara Federal de Curitiba dos crimes previstos no artigo 4º, caput, da Lei 7.492/1986 e no artigo 288, caput, do Código Penal (redação anterior), com fundamento no artigo 386, inciso VI, do Código de Processo Penal, combinado com o artigo 21, caput, do Código Penal quanto ao primeiro delito, e no artigo 386, inciso II, do Código de Processo Penal quanto ao segundo (fls. 24-42).
+A acusação interpôs apelação ao Tribunal Regional Federal da 4ª Região, que deu parcial provimento ao recurso para condenar o paciente pelo delito previsto no artigo 4º, caput, da Lei 7.492/1986, fixando a pena em 6 (seis) anos de reclusão, em regime inicial semiaberto, além de multa (fls. 17-18), sobrevindo o trânsito em julgado em 30 de março de 2026.
+Na impetração, busca-se a concessão da ordem para (i) afastar a valoração negativa da culpabilidade na primeira fase da dosimetria; (ii) reconhecer a atenuante genérica da confissão espontânea prevista no artigo 65, inciso III, alínea d, do Código Penal; e (iii) aplicar a causa de diminuição de pena prevista no artigo 25, § 2º, da Lei 7.492/1986 (fls. 4-13, 15-16).
+É o relatório. DECIDO.
+A controvérsia consiste na ocorrência de possível constrangimento ilegal decorrente da dosimetria da pena aplicada ao paciente, especialmente quanto à valoração negativa da culpabilidade, à ausência de reconhecimento da atenuante da confissão espontânea e à não incidência da causa de diminuição prevista no artigo 25, § 2º, da Lei 7.492/1986 (fls. 4-13, 15-16).
+Contudo, o presente habeas corpus investe contra um acórdão com trânsito em julgado. Portanto, não deve ser conhecido, pois foi utilizado como substituto de uma revisão criminal, em uma situação em que não se configurou a competência originária desta Corte.
+Conforme o artigo 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, as revisões criminais e as ações rescisórias de seus julgados.
+A esse respeito: "1. Na hipótese, a condenação transitou em julgado em 31/5/2023. Dessa forma, o presente writ seria sucedâneo de revisão criminal, sendo esta Corte incompetente para o processamento do pleito revisional." (AgRg no HC n. 861.867/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024.)
+O artigo 210 do Regimento Interno do Superior Tribunal de Justiça autoriza o relator a indeferir liminarmente o habeas corpus quando constatada a manifesta incompetência, hipótese verificada nos presentes autos.
+De todo modo, não verifico a presença de ilegalidade flagrante que desafie a concessão da ordem nos termos do §2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
