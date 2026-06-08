@@ -1,0 +1,42 @@
+DECISÃO
+Examina-se agravo interno contra decisão da Presidência do STJ de e-STJ fls. 362-363, que não conheceu do agravo em recurso especial, em razão da incidência da súmula 182/STJ.
+Em face das razões de e-STJ fls. 367-378, torno sem efeito a decisão e passo a novo exame do agravo em recurso especial interposto por MARLON DANTAS DA SILVA XAVIER, contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 2/12/2025.
+Concluso ao gabinete em: 13/5/2026.
+Ação: indenizatória, ajuizada pelo agravante, em face de CAIXA ECONÔMICA FEDERAL - CEF, em razão de atraso na entrega de imóvel.
+Sentença: julgou procedente o pedido para condenar a agravada ao pagamento de indenização pelos danos materiais, em valor a ser definido em liquidação de sentença, devendo corresponder aos aluguéis mensais, fixados em R$ 700,00 (setecentos reais), devidos a partir de dezembro de 2013 até a efetiva entrega do imóvel ao autor - novembro de 2019, além do pagamento de compensação por danos morais no valor de R$ 10.000,00 (dez mil reais).
+Acórdão: deu provimento à ao apelação interposta pela agravada, para afastar a responsabilidade da agravada, nos termos da seguinte ementa:
+CIVIL. PROCESSUAL CIVIL. ATRASO NA ENTREGA DO IMÓVEL. ATUAÇÃO DA CEF COMO AGENTE FINANCEIRO EM SENTIDO ESTRITO. AUSÊNCIA DE RESPONSABILIDADE DA CAIXA EM RELAÇÃO AOS DANOS MORAIS E MATERIAIS. APELO PROVIDO.
+1. Trata-se de apelação interposta pela CAIXA ECONOMICA FEDERAL - CEF contra sentença que julgou procedentes os pedidos, condenando a CAIXA a pagar em favor da parte autora: a) indenização por danos materiais, a título de lucros cessantes, referentes aos valores do preço do aluguel, no quantum de R$ 700,00 (setecentos reais), nos meses de atraso na entrega do imóvel, de dezembro de 2013 até a efetiva entrega do imóvel ao autor - novembro de 2019; b) indenização por danos morais no montante de R$ 10.000,00 (dez mil reais);
+2. A apelante, em suas razões, sustenta, em síntese que: a) a CEF é parte ilegítima para figurar no polo passivo, pois atuou meramente como agente financeiro; b) não foi a CEF responsável pelo empreendimento e nem pela sua fiscalização; c) o atraso da obra não é de responsabilidade da CEF, que apenas libera os recursos conforme o prazo estipulado; e d) inexistência de dano material ou moral;
+3. Cinge-se a controvérsia sobre a viabilidade de indenização por Danos Materiais e Morais em virtude de atraso na entrega de bem imóvel, a ser paga pela Caixa Econômica Federal no âmbito do Programa Minha Casa Minha Vida, em imóvel não enquadrado na Faixa I do referido programa;
+4. Nessas circunstâncias, observa-se que a CEF apenas se comportou como agente financeiro, na concessão de um financiamento à autora para compra do aludido imóvel, vendido diretamente pela Helsan Empreendimentos Imobiliários;
+5. A jurisprudência desta Segunda Turma pacificou-se no sentido de a Caixa não ser a responsável em relação ao atraso das unidades imobiliárias financiadas, nas hipóteses em que atua na condição de agente financiador em sentido estrito, como no presente caso;
+6. É certo que o contrato em comento prevê o acompanhamento das obras pela empresa pública federal, porém, tal fiscalização, empreendida pelos agentes do banco, restringe-se ao cronograma físico-financeiro das obras para liberação das parcelas do financiamento, jamais ensejando responsabilidade acerca do cumprimento do prazo para entrega do bem residencial adquirido, de modo que há de se afastar sua responsabilidade pelos danos alegados;
+7. Forçoso, portanto, o provimento, em parte, do recurso da CEF, afastando-se a condenação por danos morais e materiais;
+8. Apelação provida. Inversão do ônus de sucumbência. (e-STJ fls. 278-279)
+Recurso especial: alega violação dos arts. 25, § 1º, do CDC, e 186 e 927 do CC.
+Defende a legitimidade da agravada e a sua responsabilidade solidária com a construtora pela reparação dos danos decorrentes do atraso na obra.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere à conclusão pelo afastamento da responsabilidade da agravada, considerada a sua atuação apenas como agente financeiro, exige o reexame de fatos e a interpretação de cláusulas contratuais, vedados em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, §1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Ademais, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, também impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp n. 821.337/SP, Terceira Turma, DJe de 13/03/2017 e AgInt no AREsp n. 964.391/SP, Terceira Turma, DJe de 21/11/2016.
+- Da Súmula 568/STJ
+Ainda que assim não fosse, as duas Turmas de Direito Privado do STJ entendem que "a legitimidade passiva das instituições financeiras em demandas relativas ao Programa Minha Casa Minha Vida depende da natureza da atuação contratual: há legitimidade quando atuam como agentes executores de políticas federais de habitação de interesse social; inexiste quando figuram apenas como meros agentes financeiros" (REsp n. 2.194.612/PE, Terceira Turma, DJEN de 23/10/2025).
+Nesse sentido: AgInt no AREsp n. 2.988.004/DF, Quarta Turma, DJEN de 20/3/2026; AREsp n. 1.876.042/SE, Terceira Turma, DJEN de 18/12/2025; AgInt no AREsp n. 2.705.055/RJ, Terceira Turma, DJEN de 20/2/2025; e AgInt no AREsp n. 1.708.217/PR, Quarta Turma, DJe de 17/6/2022.
+Na hipótese, o TJ/RN, após consignar que a discussão reside na viabilidade de indenização em virtude de atraso na entrega de bem imóvel, a ser paga pela Caixa Econômica Federal no âmbito do Programa Minha Casa Minha Vida, decidiu afastar a responsabilidade da CEF pelos danos alegados, considerada a sua atuação apenas na condição de agente financeiro (e-STJ fl. 277).
+Diante da consonância com o entendimento dominante sobre o tema nesta Corte, aplica-se a Súmula 568/STJ no particular.
+Forte nessas razões, RECONSIDERO a decisão de e-STJ fls. 362-363 e, em novo julgamento, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em mais 5%, observada eventual concessão da gratuidade da justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7/STJ. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação indenizatória, ajuizada em razão de atraso na entrega de imóvel.
+2. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. A legitimidade passiva das instituições financeiras em demandas relativas ao Programa Minha Casa Minha Vida depende da natureza da atuação contratual: há legitimidade quando atuam como agentes executores de políticas federais de habitação de interesse social; inexiste quando figuram apenas como meros agentes financeiros. Precedentes. Ante o entendimento dominante do tema nesta Corte Superior, aplica-se, no particular, a Súmula 568/STJ.
+6. Reconsiderada a decisão de e-STJ fls. 362-363. Agravo em recurso especial conhecido. Recurso especial não conhecido, com majoração de honorários.
