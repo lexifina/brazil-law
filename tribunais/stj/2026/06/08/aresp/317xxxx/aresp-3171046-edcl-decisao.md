@@ -1,0 +1,54 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por DOUGLAS PEREIRA VIDAL, LORENA LIVIA MAGALHAES CHAVES e FRANCISCO ANTONIO DA MOTA ALVES (fls. 1.295/1.1322) às decisões de minha lavra (fls. 1.267/1.272, 1.273/1.279 e 1.280/1.285), em que não conheci dos agravos em recursos especiais, com fundamento na Súmula n. 182 do STJ.
+A defesa sustenta, em relação a todos os embargantes, a ocorrência de omissão e contradição no decisum. Para tanto, alega ter rebatido, de modo específico, os óbices utilizados para inadmitir o recurso especial, inclusive o da Súmula 7/STJ, demonstrando que a controvérsia do recurso especial é exclusivamente jurídica, fundada em propostas fáticas já delineadas no acórdão recorrido, e que se pretende apenas a revaloração jurídica, sem revolvimento do conjunto fático-probatório.
+Em relação ao embargante Douglas, alega a ausência do exame detalhado da sua situação específica em relação aos demais corréus e da necessidade de flexibilizar formalismos que obstam o conhecimento do recurso, à luz do princípio da primazia do julgamento do mérito.
+Já no que se refere à embargante Lorena, assevera que o óbice da Súmula n. 83 do STF foi devidamente refutado, já que restou demonstrado que o entendimento do Tribunal de origem destoa da jurisprudência consolidada desta Corte, além de ter realizado o distinguishing fático-normativo no caso concreto, restando, pois, configurada a dilateicidade recursal. Acrescenta, também, a omissão quanto à análise das ilegalidades na dosimetria penal da acusada e na fixação do regime prisional.
+Por fim, no que tange ao embargante Francisco, sustenta que "a invocação da Súmula nº 17 do Superior Tribunal de Justiça no corpo do recurso especial e do agravo não visou a discussão autônoma do verbete sumular, mas sim a aplicação da interpretação pacificada sobre o artigo 297 d o Código Penal, atuando a súmula como reforço interpretativo e jurisprudência consolidada que ampara a tese jurídica de fundo" (fl. 1.309) e que os óbices devem ser superados para a análise da absorção do crime de falsidade documental pelo estelionato e das ilegalidades na dosimetria penal. Destaca, também, que deve haver a manifestação sobre o disposto no art. 5º, LV e LVII, da Constituição Federal - CF .
+Requer sejam sanados os óbices.
+É o relatório.
+Decido.
+Conforme estabelece o art. 619 do CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contradição no decisum embargado. Ainda, admite-se para correção de erro material, conforme art. 1.022, III, do Código de Processo Civil - CPC.
+A decisão embargada está fundamentada e não há omissão ou contradição a ser sanada.
+Nas decisões embargadas, consignei que a impugnação dos motivos que obstaram a admissibilidade do recurso especial deve ser realizada de forma concreta e específica, não bastando a alegação genérica de inaplicabilidade do óbice processual, sem explicar as razões que sustentariam esta alegação.
+Assinalei, ainda, que a impugnação ao óbice da Súmula n. 7 do STJ não pode ser feita de forma genérica, com a mera alegação de sua inaplicabilidade, mas sim mediante a demonstração de que a tese do recurso especial está adstrita a fatos incontroversos, considerados no ato decisório atacado, de modo a permitir uma revaloração jurídica do acórdão proferido pelo Tribunal de Justiça - o que não ocorreu na espécie.
+Destaquei, também, que o óbice referente à Súmula n. 83 do STJ deve ser refutado de forma específica, com a demonstração da inaplicabilidade dos precedentes indicados na decisão de admissibilidade ao caso concreto, mediante a apresentação de julgados contemporâneos ou supervenientes no mesmo sentido defendido no recurso especial, ou por meio de entre os casos confrontados, o que a defesa deixou de proceder.
+Nesse contexto, nota-se a ausência de omissão e de contradição interna no julgado embargado, já que as matérias foram suficientemente decididas e houve lógica e coerência entre os fundamentos elencados e o dispositivo do julgado. Nesse sentido:
+RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO MATERIAL E COMPENSAÇÃO POR DANO MORAL. ERRO MÉDICO. NULIDADE DO ACÓRDÃO DE EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO INTERNA. AUSÊNCIA. OMISSÕES. QUESTÕES RELEVANTES DOS LAUDOS PERICIAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CONFIGURADA.
+I. Hipótese em exame 1. Ação de indenização por dano material e compensação por dano moral, decorrente de suposto erro médico, da qual foi extraído o presente recurso especial, interposto em 27/04/2024 e concluso ao gabinete em 27/08/2024.
+II. Questão em discussão
+2. O propósito recursal é decidir sobre a negativa de prestação jurisdicional.
+III. Razões de decidir
+3. O Tribunal de origem, ao julgar os embargos de declaração, não copiou todo o teor do acórdão de apelação, senão apenas transcreveu os respectivos trechos em que foram examinadas as questões apontadas como não decididas, o que não configura nulidade.
+4. "A contradição passível de ser sanada na via dos embargos declaratórios é a contradição interna, entendida como ilogicidade ou incoerência existente entre os fundamentos e o dispositivo do julgado em si mesmo considerado, e não a contradição externa, relativa à incompatibilidade do julgado com tese, lei ou precedente tido pelo embargante como correto" (EDcl no REsp 2.173.088/DF, Terceira Turma, julgado em 4/2/2025, DJEN de 7/2/2025).
+5. "A negativa de prestação jurisdicional ocorre quando o tribunal não responde a embargos de declaração sobre questões relevantes do laudo pericial" (AgInt na TutPrv no REsp n. 2.025.271/RJ, Quarta Turma, julgado em 24/2/2025, DJEN de 28/2/2025).
+IV. Dispositivo 6. Recurso especial conhecido e provido.
+Dispositivos citados: arts. 32 e 87, § 1º, do Código de Ética Médica (Resolução nº 2217 do Conselho Federal de Medicina-CFM); arts. 3º e 4º da Portaria 1.820/2009 do Ministério da Saúde; art. 489, § 1º, IV, do CPC.
+(REsp n. 2.166.490/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/5/2025, DJEN de 26/5/2025.)
+Assim, o que se verifica é o mero inconformismo dos embargantes com o resultado do julga mento ora impugnado, pretendendo, em verdade, a modificação do provimento anterior, o que não se coaduna com a medida integrativa.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO PREENCHIMENTO DOS REQUISITOS DO ART. 619 DO CPP. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Não está caracterizado nenhum vício previsto no art. 619 do CPP se o órgão julgador dirimiu, de modo fundamentado, as questões que lhe foram submetidas.
+2. Na espécie, o acórdão embargado consignou expressamente que o agravante deixou de impugnar adequadamente um dos fundamentos de inadmissibilidade do recurso especial, qual seja: a incidência da Súmula 83 do STJ, situação que denota a incidência do enunciado sumular n. 182 do STJ.
+3. Assentou, ainda, que a parte não demonstrou, especificamente, que o entendimento desta Corte Superior destoa da conclusão a que chegou o Tribunal de origem ou o distinguishing usado para justificar que os precedentes citados no decisum recorrido seriam inaplicáveis à hipótese dos autos.
+4. A irresignação do embargante se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Não há nenhum fundamento que justifique a oposição dos embargos de declaração, os quais se prestam apenas a sanar eventual omissão, contradição ou obscuridade do julgado, e não a reapreciar a causa.
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EDcl nos EDcl no AREsp n. 2.172.603/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/3/2023, DJe de 29/3/2023.)
+Outrossim, impende ressaltar que as teses defensivas relativas ao mérito, trazidas no recurso especial, sequer foram conhecidas em razão do não conhecimento dos agravos em recursos especiais. Ainda neste sentido, não há falar em aplicação do princípio da primazia da resolução do mérito para afastar a não observância dos requisitos de admissibilidade recursal. Nesse sentido (grifei):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADVOGADA SUBSCRITORA DO RECURSO ESPECIAL E DO AGRAVO SEM PROCURAÇÃO NOS AUTOS. INTIMAÇÃO PARA REGULARIZAR A REPRESENTAÇÃO PROCESSUAL NÃO ATENDIDA. APLICAÇÃO DO DISPOSTO NO ART. 76, § 2º, DO CPC. INCIDÊNCIA DA SÚMULA N.º 115 DO STJ. PRINCÍPIO DA PRIMAZIA DO JULGAMENTO DE MÉRITO. INAPLICABILIDADE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Conforme o disposto no art. 76, § 2º, I, do CPC, não se conhece do recurso quando a parte recorrente descumpre a determinação para regularização da representação processual.
+2. É inexistente o recurso dirigido à instância superior desacompanhado da cadeia completa de procurações ou substabelecimentos à luz da Súmula n.º 115 do STJ.
+3. O princípio da primazia do julgamento de mérito não tem o condão de isentar as partes da necessária observância dos requisitos de admissibilidade recursal, tampouco de afastar a sujeição delas aos efeitos da preclusão.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.581.082/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Não é demais falar que os fundamentos da decisão que inadmite o recurso especial devem ser refutados no momento da interposição do recurso de agravo em recurso especial sob pena de preclusão consumativa. Nesse sentido (grifo nosso):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. DECISÃO AGRAVADA. FUNDAMENTO. FALTA DE IMPUGNAÇÃO. ALEGAÇÕES GENÉRICAS. RECURSO INTERNO. COMPLEMENTAÇÃO. DESCABIMENTO. PRECLUSÃO CONSUMATIVA. JUÍZO DE ADMISSIBILIDADE NÃO ULTRAPASSADO. MÉRITO. ANÁLISE. INVIABILIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+ ..
+2. Pela ocorrência de preclusão consumativa, mostra-se inviável buscar, no agravo regimental, suprir as deficiências existentes na fundamentação das razões do agravo em recurso especial, no intuito de se demonstrar não incidir o óbice invocado pelo Tribunal de origem para inadmitir o apelo nobre.
+3. Não ultrapassado o juízo de admissibilidade, é descabida a análise do mérito recursal.
+4. Agravo regimental não conhecido.
+(AgRg no AREsp n. 1.621.415/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 28/5/2020.)
+Por fim, " n os termos do art. 105, III, da Constituição Federal, não compe te ao Superior Tribunal de Justiça examinar dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, c onforme entendimento consolidado" (EDcl no AgRg no AREsp n. 3.060.172/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/3/2026, DJEN de 17/3/2026).
+Ante o exposto, com fulcro no art. 264, § 1º, do RISTJ, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
