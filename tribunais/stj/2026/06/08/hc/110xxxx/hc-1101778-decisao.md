@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de WESLEY ARRUDA ALMEIDA, VICTOR HUGO PEREIRA DE OLIVEIRA em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL assim ementado:
+DIREITO PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. LESÃO CORPORAL SEGUIDA DE MORTE. REGIME INICIAL DE CUMPRIMENTO DE PENA. RÉUS PRIMÁRIOS. PENA DE 4 ANOS DE RECLUSÃO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. SEMIABERTO. MANUTENÇÃO. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1) Apelação criminal interposta contra sentença que condenou os réus pela prática do crime de lesão corporal seguida de morte (art. 129, § 3.º, do Código Penal), à pena de 4 anos de reclusão, em regime inicial semiaberto, pleiteando a fixação do regime inicial aberto sob o argumento de primariedade e quantidade de pena.
+II. QUESTÃO EM DISCUSSÃO
+2) A questão em discussão consiste em definir se é cabível a fixação do regime inicial aberto para réus primários condenados a pena de 4 anos de reclusão, mesmo diante da existência de circunstâncias judiciais desfavoráveis.
+III. RAZÕES DE DECIDIR
+3) A fixação do regime inicial de cumprimento da pena deve observar, de forma conjunta, os critérios dos arts. 33, §§ 2.º e 3.º, e 59 do Código Penal.
+4) Embora a pena aplicada e a primariedade dos réus permitam, em tese, o regime aberto, a existência de circunstâncias judiciais desfavoráveis autoriza a imposição de regime mais gravoso.
+5) A valoração negativa da culpabilidade e das circunstâncias do delito evidencia maior reprovabilidade da conduta, justificando o regime semiaberto como necessário e suficiente à reprovação e prevenção do crime.
+6) O regime aberto pressupõe a integral neutralidade das circunstâncias judiciais, o que não se verifica no caso concreto.
+IV. DISPOSITIVO E TESE
+7) Recurso desprovido
+Tese de julgamento: 1. A fixação do regime inicial de cumprimento da pena deve observar não apenas a quantidade de pena e a primariedade, mas também as circunstâncias judiciais do art. 59 do Código Penal. 2. A existência de circunstâncias judiciais desfavoráveis autoriza a fixação de regime inicial mais gravoso, ainda que a pena seja igual ou inferior a 4 anos e o réu seja primário. 3. O regime aberto exige a plena favorabilidade das circunstâncias judiciais, sob pena de inadequação aos fins da pena.
+Consta dos autos que os pacientes foram condenados à pena de 4 (quatro) anos de reclusão, em regime inicial semiaberto, pela prática do delito previsto no art. 129, § 3º, do Código Penal, mantida a condenação em sede de apelação criminal pelo Tribunal de Justiça do Estado de Mato Grosso do Sul.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, porquanto o regime semiaberto foi mantido apesar da primariedade e da pena fixada em 4 (quatro) anos, em afronta ao critério legal do art. 33, § 2º, alínea "c", do Código Penal, sendo cabível o regime aberto diante da ausência de reincidência.
+Alega que a imposição de regime mais gravoso demanda motivação concreta e idônea, não bastando a menção genérica a circunstâncias judiciais desfavoráveis, sobretudo em hipóteses de penas reduzidas, de modo que a decisão mostra-se desproporcional e desconforme aos princípios da individualização e da proporcionalidade.
+Requer a impetrante, liminarmente e no mérito, a alteração do regime inicial de cumprimento da pena dos pacientes para o aberto.
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou o entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do Voto condutor do acórdão impugnado a seguinte fundamentação quanto ao regime inicial de cumprimento da pena:
+Neste caso, em que a pena é de 04 anos de reclusão e não há reincidência, poder-se-ia estabelecer o aberto, nos termos do § 2.º, letra "c", do artigo 33. Entretanto, valorou-se negativamente as circunstâncias judiciais da culpabilidade e circunstâncias do delito, hipótese em que se deve estabelecer regime mais gravoso.
+ ..
+Assim, tem-se que o detentor de primariedade, condenado a reclusão de até 4 (quatro) anos, com todas as circunstâncias judiciais (artigo 59 do Código Penal) favoráveis, deverá iniciar o cumprimento no regime aberto. Porém, o juízo negativo de alguma das moduladoras previstas pelo referido dispositivo e, em caso de tráfico de drogas, das preponderantes referidas pelo artigo 42 da Lei 11.343/06, tal regime não será o adequado, e sim o semiaberto, que melhor atenderá ao fator retributivo da pena.
+Portanto, a presença de circunstâncias judiciais negativas, com penas nos patamares aqui fixados, implica em que o início do cumprimento da pena seja no regime semiaberto (fl. 14).
+Nos termos dos §§ 2º e 3º do art. 33 do Código Penal, para a fixação do regime inicial de cumprimento de pena o julgador deverá observar a quantidade de pena aplicada, a primariedade do réu e a eventual existência de circunstâncias judiciais desfavoráveis. Além disso, devem ser observados os enunciados das Súmulas n. 440 do Superior Tribunal de Justiça, e das Súmulas nºs 718 e 719 do Supremo Tribunal Federal, segundos os quais é vedada a fixação de regime prisional mais gravoso do que o cabível em razão da sanção imposta somente com base na gravidade abstrata do delito.
+Ademais, segundo a jurisprudência do STJ e a legislação pátria, acima citada, é considerada motivação idônea para o fim de imposição de regime mais severo do que a pena aplicada: a) a reincidência, ainda que não seja específica (§ 2º do art. 33 do CP); b) a existência de circunstância judicial desfavorável, nos termos do art. 59 do CP (§ 3º do art. 33 do CP) e; c) a gravidade concreta do delito. Nesse sentido, vale citar os seguintes julgados: EREsp n. 1.970.578/SC, Rel. Ministro Joel Ilan Paciornik, Terceira Seção, DJe de 6.3.2023; AgRg no AgRg no AREsp n. 2.435.525/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 6.6.2024; AgRg no HC n. 836.416/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 3.5.2024; AgRg no HC n. 859.680/SP, Rel. Ministro Messod Azulay Neto, Quinta Turma, DJe de 14.2.2024; AgRg no HC n. 842.514/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 3.7.2024; AgRg no HC n. 901.630/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 3.7.2024; AgRg no HC n. 905.390/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 12.6.2024; AgRg no AREsp n. 2.465.687/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 11.6.2024.
+Acresça-se que, de acordo com a Súmula n. 269 do STJ, é admissível a adoção do regime prisional semiaberto para reincidentes condenados a pena igual ou inferior a quatro anos, se favoráveis as circunstâncias judiciais.
+Nessa linha, o julgado impugnado não diverge da jurisprudência desta Corte, pois, conforme se extrai do trecho do acórdão supratranscrito, há elementos idôneos para a fixação do regime semiaberto, em especial a valoração negativa de circunstância judicial.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
