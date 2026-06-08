@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de DANIEL BERNAL DA SILVA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em razão do julgamento da apelação criminal n. 0055530-48.2014.8.26.0050.
+Consta dos autos que o paciente foi condenado às penas de 1 ano, 6 meses e 20 dias de reclusão no regime inicial semiaberto, e ao pagamento de 12 dias-multa, como incurso no art. 168, § 1º, III, do Código Penal.
+Na inicial, a defesa alega que a fixação do regime inicial semiaberto careceria de fundamentação concreta e idônea, pois teria sido baseada exclusivamente na valoração negativa das consequências do delito, em afronta aos arts. 33, § 2º, "c", e § 3º, do Código Penal, ao art. 93, IX, da Constituição Federal e à Súmula 719/STF, requerendo a fixação do regime inicial aberto, dada a pena inferior a 4 anos e as circunstâncias pessoais favoráveis do paciente.
+Argumenta a inidoneidade dos fundamentos para indeferimento da substituição da pena privativa de liberdade por restritivas de direitos, motivado apenas na desfavorabilidade das consequências do crime, interpretação extensiva vedada em desfavor do réu, razão pela qual a substituição deveria ser deferida.
+Salienta que o indeferimento da suspensão condicional da pena (sursis) também teria se apoiado exclusivamente na valoração negativa das consequências do delito, o que violaria a taxatividade do art. 77, II, do Código Penal, devendo ser reconhecida a possibilidade de concessão do benefício.
+Entende que a certificação imediata do trânsito em julgado em sede de embargos de declaração teria configurado constrangimento ilegal, por ausência de abuso do direito de recorrer, tratando-se do único embargo oposto com explícito propósito de prequestionamento, em sintonia com a Súmula 98/STJ, de maneira que a certidão de trânsito em julgado deve ser cassada com devolução do prazo recursal.
+Destaca que a negativa de análise do Acordo de Não Persecução Penal (ANPP) pelo Tribunal de origem teria decorrido exclusivamente do indevido reconhecimento do trânsito em julgado, malgrado a orientação do STF e do Tema 1.098/STJ sobre a retroatividade benéfica e a necessidade de manifestação do Ministério Público em processos em andamento, de modo que seria imprescindível o exame do pleito defensivo sem o óbice do trânsito em julgado.
+Requer, liminarmente, a suspensão da execução, com expedição de contramandado e baixa no mandado de prisão até o julgamento deste writ. No mérito, pugna pela concessão da ordem para que seja fixado o regime inicial aberto, substituída a pena por restritivas de direitos, concedido o sursis, cassada a certidão de trânsito em julgado, com devolução do prazo recursal, e determinado o exame do ANPP.
+A liminar foi indeferida pela Vice-Presidência às fls. 214-215.
+As informações foram prestadas às fls. 221-223 e 224-237.
+O Ministério Público Federal apresentou parecer, às fls. 342-344, sob a seguinte ementa:
+HABEAS CORPUS. PROCESSUAL PENAL. ACÓRDÃO TRANSITADO EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. PARECER PELO NÃO CONHECIMENTO DO WRIT.
+Às fls. 352-354, não conheci do habeas corpus.
+A defesa ajuizou agravo regimental às fls. 358-383.
+É o relatório. DECIDO.
+Em melhor análise do agravo regimental interposto e, em juízo de retratação, verifico a existência de flagrante ilegalidade na própria certificação do trânsito em julgado, cuja determinação acarretou cerceamento de defesa à parte.
+Depois do julgamento da apelação criminal (acórdão de fls. 24-63), a defesa opôs embargos de declaração. No julgamento dos referidos embargos, o Tribunal de origem deliberou por não conhecer da insurgência, por ausência de "omissão" ou de "contradição" e determinou a baixa imediata dos autos, com a certificação do trânsito em julgado independentemente da publicação do acórdão.
+Nota-se que foram os primeiros embargos de declaração ajuizados pela parte.
+Saliente-se que, diferentemente dos ARE"s julgados pelo Supremo Tribunal Federal, no caso da apelação criminal, ainda são cabíveis recursos aos Tribunais Superiores, os quais foram obstaculizados tendo em vista a determinação de prematura certificação do trânsito em julgado, o que certamente acarretou indevida surpresa à parte.
+Assim, a consideração dos primeiros embargos de declaração como protelatórios com determinação de imediata certificação do trânsito em julgado acarretou indevido gravame à parte, que ficou cerceada no direito de ter a oportunidade de recorrer aos Tribunais Superiores.
+No sentido de considerar os segundos embargos de declaração como protelatórios (o que não é o caso):
+1. A reiteração de embargos de declaração com o propósito de rediscutir matéria já decidida demonstra o caráter protelatório do recurso e autoriza a certificação imediata do trânsito em julgado. (EDcl nos EDcl nos EAREsp n. 2.404.539/CE, relatora Ministra Maria Marluce Caldas, Terceira Seção, julgado em 11/3/2026, DJEN de 18/3/2026.)
+Portanto, verifico a existência de flagrante ilegalidade na própria certificação do trânsito em julgado pelo Tribunal de origem, em decorrência da oposição de um único recurso de embargos de declaração.
+Ante o exposto, mantenho o não conhecimento do habeas corpus. Todavia, concedo a ordem de ofício para cassar a certificação do trânsito em julgado da apelação criminal de origem, determinando a abertura de prazo para a interposição de recurso especial e extraordinário.
+Publique-se. Intimem-se.
+ EMENTA
