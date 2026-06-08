@@ -1,0 +1,8 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos pelo ESTADO DE GOIAS às fls. 1.320/1.324, no qual requer "seja reconhecida a prejudicialidade superveniente do Recurso Especial, em razão da decisão vinculante proferida pelo Supremo Tribunal Federal na Reclamação 83.961/GO, que cassou o acórdão proferido pelo TJGO nos autos de número 5590327-24.2024.8.09.0051 e, em consequência, seja determinada a devolução dos autos ao Tribunal de Justiça do Estado de Goiás, para que outra decisão seja proferida em observância à decisão proferida na ADI 7.490/GO" (fl. 1.324).
+De início, verifica-se que os embargos de declaração opostos são manifestamente incabíveis, razão pela qual os recebo como simples petição. Considerando a publicação da decisão monocrática de fls. 1.310/1.314 em 29/04/2026, conforme certidão de fl. 1.317, não há falar em ausência de "interesse de agir quanto ao pronunciamento deste Colendo Tribunal Superior acerca das matérias debatidas no AREsp nº 3.199.221/GO" (fl. 1.323) porque não há mais recurso aguardando julgamento neste Tribunal, de modo que o pedido formulado configura apenas renúncia expressa ao direito de recorrer, ato unilateral que independe de anuência da parte contrária, nos termos do artigo 999 do Código de Processo Civil.
+Ante o exposto, recebo a petição de fls. 1.320/1.324 como pedido de renúncia ao prazo recursal, o qual homologo para que produza seus efeitos.
+Certifique-se, desde logo, o trânsito em julgado da decisão de fls. 1.310/1.314, determinando-se a remessa dos autos ao Tribunal de origem com a respectiva baixa na distribuição.
+Publique-se.
+Intime-se.
+EMENTA
