@@ -1,0 +1,43 @@
+DECISÃO
+
+Trata-se de Habeas Corpus, com pedido de liminar, impetrado contra decisão proferida pelo Ministro HERMAN BENJAMIN, Presidente do Superior Tribunal de Justiça, no HC 1.097.201/SP.
+Consta dos autos, em síntese, que o paciente teve a prisão preventiva decretada e foi denunciado pela prática do crime de extorsão majorada (art. 158, § 1º, do Código Penal).
+Buscando a revogação da custódia, a defesa impetrou Habeas Corpus perante o Tribunal de Justiça do Estado de São Paulo, cujo pedido de liminar foi indeferido pelo Desembargador relator, nos termos seguintes:
+
+[...]
+Em análise perfunctória, os fatos deduzidos nesta impetração não são suficientes para conceder a liminar requerida, uma vez ausente constrangimento ilegal.
+Cristiano Neves da Costa, em conjunto com outros corréus, foi denunciado como incurso no artigo 158, §1º (primeira parte) c.c. o artigo 61, inciso II, “h” (maior de 60 anos), ambos do Código Penal. Tal se deu, pois, segundo a acusação, no dia 17 de abril de 2018, entre 10h00 e 12h05, na avenida Pedro Galindo, numeral 48, bairro Maria Garcia, na cidade de Oriente, na comarca de Pompéia, neste estado de São Paulo, os réus, agindo em concurso e com unidade de desígnios, constrangeram as vítimas Teotônio Cavalcante Neto e Zilda Evangelista Cavalcante, pessoas idosas, mediante grave ameaça consistente em afirmar que sequestraram a filha deles, Adriana Evangelista Cavalcanti, e que eles deveriam realizar o pagamento de determinada quantia para que ela fosse liberada. Obtiveram para si indevida vantagem econômica, assim, vez que as vítimas, coagidas pelos imputados, transferiram e depositaram o valor total de R$ 6.100,00 (seis mil e cem reais) em seu favor.
+Transcreve-se, abaixo, trecho da denúncia:
+[...]
+Foi emitida carta precatória para a comarca de Campos dos Goitacazes, no Rio de Janeiro, com a finalidade de citar o réu para responder à acusação (fls. 315/316 dos autos n. 0001031-94.2018.8.26.0464). Contudo, em vista de sua não localização, foi determinada sua citação por edital (fl. 568/569).
+Em 26 de novembro de 2025, em decisão de fls. 582/583, tendo restado infrutíferas as tentativas de localização do réu para prosseguimento do feito, foi determinada a suspensão do processo e do curso do prazo prescricional, com fulcro no artigo 366 do Código de Processo Penal. Na mesma oportunidade, foi determinada a prisão preventiva dos denunciados, nos termos do artigo 312 do Código de Processo Penal.
+Como é possível observar, ao contrário do alegado pela d. defesa, não carece de fundamentação a decisão imputada. A decretação da prisão preventiva se deu com base na análise do conjunto probatório até então obtido, considerando condições pessoais do agente e as especificidades do delito.
+Em 11 de fevereiro de 2026, quase 08 (oito) anos após a prática do delito, Cristiano teve seu mandado de prisão cumprido no Estado do Espírito Santo (fls. 644/686).
+Primeiramente, as alegações de cunho de mérito, realizadas pela d. defesa, não podem ser apreciadas neste writ, havendo recurso próprio para serem apreciadas após sentença proferida por juiz de primeira instância.
+[...]
+Assim, no tocante à suposta nulidade da citação por edital que culminou na prisão preventiva do paciente, cumpre salientar que os estreitos limites deste writ impedem uma ampla avaliação da questão, visto que a análise aprofundada dos autos é incompatível com este remédio constitucional.
+Ao menos por ora, justifica-se a prisão preventiva do paciente.
+[...]
+No caso, o réu teria, ao menos em tese, praticado o delito em São Paulo, embora residisse no Rio de Janeiro, e foi encontrado apenas anos depois em outro Estado. A cronologia dos fatos indica que, embora tenha sido citado por edital, o réu sabia à época do risco de ser processado criminalmente uma vez instaurado o inquérito.
+O crime pelo qual é o paciente acusado é doloso e grave. A pena máxima cominada ao delito é superior a quatro anos. Existem suficientes indícios de autoria e prova da materialidade. Outrossim, cumpre destacar que o Código de Processo Penal, em seu artigo 310, §5º, estabelece um rol exemplificativo de circunstâncias que recomendam a prisão preventiva, dentre as quais ter havido fuga ou haver perigo de fuga; ou haver perigo de perturbação da tramitação e do decurso do inquérito ou da instrução criminal, bem como perigo para a coleta, a conservação ou a incolumidade da prova. Tais riscos se mostram evidentes especialmente considerando não ter sido o agente localizado desde 2018.
+Ademais, o §3º do artigo 312 do Código de Processo Penal estipula como condições a serem consideradas na aferição da periculosidade do agente, geradoras de riscos à ordem pública: “I - o modus operandi, inclusive quanto ao uso reiterado de violência ou grave ameaça à pessoa ou quanto à premeditação do agente para a prática delituosa; II - a participação em organização criminosa; III - a natureza, a quantidade e a variedade de drogas, armas ou munições apreendidas; ou IV - o fundado receio de reiteração delitiva, inclusive à vista da existência de outros inquéritos e ações penais em curso”.
+No presente caso, resta demonstrada a gravidade em concreto do delito, especialmente considerando o modus operandi empregado pelo grupo criminoso, que de maneira organizada, coagiu idosos a transferirem às suas contas bancárias elevada quantia.
+[...]
+Pelo exposto, INDEFIRO A LIMINAR.
+
+Na sequência, nova impetração, desta vez direcionada ao Superior Tribunal de Justiça, indeferida liminarmente pelo Ministro Presidente, com fundamento na Súmula 691/STF.
+Nesta ação, o impetrante alega, em síntese, a ausência dos pressupostos autorizadores para a prisão preventiva. Requer, assim, a concessão da ordem para revogar o decreto prisional, com ou sem imposição de medidas cautelares diversas.
+É o relatório. Decido.
+
+No presente caso, incide óbice ao conhecimento da ordem impetrada neste SUPREMO TRIBUNAL FEDERAL, uma vez que se impugna decisão monocrática de Ministro do Superior Tribunal de Justiça (HC 151.344-AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 21/3/2018; HC 122.718/SP, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 3/9/2014; HC 121.684-AgR/SP, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 16/5/2014; HC 138.687-AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 1º/3/2017; HC 116.875/AC, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 17/10/2013; HC 117.346/SP, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 22/10/2013; HC 117.798/SP, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014; HC 119.821/TO, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 29/4/2014; HC 122.381-AgR/SP, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 9/10/2014; RHC 114.737/RN, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 18/4/2013; RHC 114.961/SP, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 8/8/2013).
+De fato, o exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do SUPREMO TRIBUNAL FEDERAL, conforme vem sendo reiteradamente proclamado por esta CORTE (HC 129.142, Rel. Min. MARCO AURÉLIO, Redator p/ Acórdão Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 10/8/2017; RHC 111.935, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC 97.009, Redator p/ Acórdão: Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC 118.189, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014).
+Em hipóteses como a presente, o exaurimento da jurisdição na origem exige a interposição de agravo interno, não sendo possível sua substituição por habeas corpus dirigido a tribunal diverso. Admitir o contrário permitiria à parte escolher, conforme sua conveniência, o órgão revisor da decisão monocrática, em afronta ao princípio do juiz natural e ao necessário exaurimento das instâncias, pressuposto da competência desta CORTE, que não comporta ampliação por via imprópria (HC 131226 AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 25/2/2016 e HC 270760, Rel. Min. CÁRMEN LÚCIA, DJe de 15/4/2026).
+Esta Primeira Turma vem autorizando, somente em circunstâncias específicas, o exame de habeas corpus quando não encerrada a análise na instância competente, óbice superável apenas em hipótese de teratologia (HC 138.414/RJ, Primeira Turma, DJe de 20/4/2017) ou em casos excepcionais (HC 137.078/SP, Primeira Turma, DJe de 24/4/2017), como bem destacado pela Ministra ROSA WEBER.
+No caso, entretanto, não se apresentam hipóteses de teratologia ou excepcionalidade aptas a justificar a intervenção desta CORTE.
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do STF, INDEFIRO a ordem de HABEAS CORPUS.
+Publique-se.
+Brasília, 8 de junho de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
