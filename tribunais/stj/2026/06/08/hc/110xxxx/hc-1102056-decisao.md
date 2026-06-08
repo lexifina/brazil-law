@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de THIAGO FORTES DE MATOS LOURENÇO, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em decorrência do julgamento da apelação criminal n. 0005226-92.2008.8.26.0361 (fls. 2-5).
+Consta nos autos que o paciente foi inicialmente condenado pelo Juízo da 1ª Vara Criminal do Foro de Mogi das Cruzes/SP à pena de 16 (dezesseis) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, em regime fechado, por infração ao artigo 288, parágrafo único, do Código Penal, e ao artigo 121, § 2º, incisos I e IV, combinado com o artigo 14, inciso II, do Código Penal (fls. 3-4).
+A defesa apelou ao Tribunal de Justiça do Estado de São Paulo, que deu parcial provimento ao recurso, para redimensionar a pena para 12 (doze) anos, 05 (cinco) meses e 10 (dez) dias de reclusão, além de, de ofício, reconhecer a prescrição da pretensão punitiva quanto ao crime de associação criminosa (fls. 4).
+Na presente impetração, busca-se a concessão da ordem para: (i) reconhecer a nulidade das interceptações telefônicas e desentranhar as provas delas derivadas; (ii) anular o julgamento do Tribunal do Júri por decisão manifestamente contrária à prova dos autos; (iii) afastar a majoração da pena-base por ausência de fundamentação concreta e por bis in idem; (iv) readequar a segunda fase da dosimetria, afastando a cumulação indevida de agravantes; e (v) redimensionar a fração de diminuição pela tentativa para patamar superior ao mínimo legal (fls. 5, 15-16).
+É o relatório. DECIDO.
+A controvérsia consiste na ocorrência de um possível constrangimento ilegal, caracterizado pela nulidade das interceptações telefônicas, pela nulidade do julgamento do Tribunal do Júri e por equívocos na dosimetria penal.
+Contudo, o presente habeas corpus investe contra um acórdão com trânsito em julgado, certificado à fl. 2237 do AREsp 2280286 . Portanto, não deve ser conhecido, pois foi utilizado como substituto de uma revisão criminal, em uma situação em que não se configurou a competência originária desta Corte.
+Conforme o artigo 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, as revisões criminais e as ações rescisórias de seus julgados.
+A esse respeito: "1. Na hipótese, a condenação transitou em julgado em 31/5/2023. Dessa forma, o presente writ seria sucedâneo de revisão criminal, sendo esta Corte incompetente para o processamento do pleito revisional." (AgRg no HC n. 861.867/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024.)
+O artigo 210 do Regimento Interno do Superior Tribunal de Justiça autoriza o relator a indeferir liminarmente o habeas corpus quando constatada a manifesta incompetência, hipótese verificada nos presentes autos.
+De todo modo, não verifico a presença de ilegalidade flagrante que desafie a concessão da ordem nos termos do §2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
