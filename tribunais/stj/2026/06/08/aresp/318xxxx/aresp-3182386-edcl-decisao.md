@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por JOAO CLAUDIO DEROSSO, RELINDO SCHLEGEL à decisão de fls. 304/305, que não conheceu do recurso.
+Sustenta a parte embargante:
+Os prazos processuais no Superior Tribunal de Justiça ficaram suspensos a partir 20.12.2025 até o dia 31.01.2026, conforme dispõe a Portaria STJ/GP 941/2025. A suspensão decorreu das disposições do artigo 66, parágrafo 1º, da Lei Complementar 35/1979 e dos artigos 81 e 106 do Regimento Interno do STJ.
+Dessa forma, tendo em vista que, como o próprio Min. Relator considerou, parte recorrente foi intimada da decisão agravada em 09.12.2025 e, sendo o prazo de 15 dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil a interposição do Agravo na ata de 30.01.2026 é nitidamente tempestiva.
+ ..
+Subsidiariamente, inclusive caso fosse considerado o prazo do TJPR, o presente recurso também seria tempestivo, ao passo que os dias 18.12 (Dia da Justiça) e 19.12 (Emancipação Política do Paraná) foram feriados estaduais, consequentemente com a suspensão dos prazos processuais (Decreto n. 645/2024), e o recesso forense com suspensão dos prazos do dia 20.12.2025 - 20.01.2026 (Resolução nº 515/20251) (fls. 314/316).
+Aduz ainda que:
+Por conseguinte, afastada qualquer alegação de perda de prazo processual, não há que se falar em incidência de honorários sucumbenciais nesta fase. Assim, requer-se, ainda, a revisão do arbitramento que majorou tais honorários em 15%, com a devida retratação (fl. 318).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp n. 2.227.508/BA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 27.6.2023; AgInt nos EDcl no AREsp n. 2.270.942/SP, Rel. Ministro João Otávio de Noronha, Quarta Turma, DJe de 7.6.2023; e AgInt no AREsp n. 2.280.536/BA, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24.5.2023.
+Tendo em vista a nova redação do art. 1.003, § 6º, do CPC (dada pela Lei n. 14.939/2024), bem como a QO no AREsp n. 2.638.376/MG, a parte foi intimada para comprovar, por documento idôneo, eventual suspensão, interrupção ou prorrogação do prazo processual para interposição do recurso.
+No entanto, mesmo após a intimação da parte para regularizar a questão da tempestividade, não houve a devida re gularização, porquanto, deixou o prazo transcorrer in albis.
+É certo que feriado nacional não precisa ser comprovado. Porém, os dias 18.12.2025 e 19.12.2025 são supostamente feriados locais, razão pela qual deveriam ter sido comprovados no momento oportuno, o que não ocorreu.
+Ademais, para a aferição da tempestividade do recurso dirigido ao STJ, é indiferente que tenha havido ou não expediente forense nesta Corte, pois o Agravo e o Recurso Especial interpostos são endereçados ao Presidente do Tribunal a quo, regendo-se o respectivo prazo, em matéria de recesso forense e feriados, pela legislação local.
+Nesse sentido, o AgInt no AREsp n. 2.597.213/MG, Rel. Ministro Humberto Martins, Terceira Turma, DJe de 9.10.2024; AgRg no AREsp n. 2.495.260/GO, Rel. Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJe de 20.8.2024; e AgInt no REsp n. 2.119.743/PI, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 15.8.2024.
+Somente agora, em sede destes aclaratórios, a parte trouxe o documento de fls. 320/327 para comprovar feriados locais. No entanto, não pode ser aceito, porquanto preclusa a oportunidade.
+Quanto aos honorários recursais , em que pese esteja mantida a decisão embargada, não haverá majoração. Observe-se que o dispositivo da decisão embargada é claro no sentido de que somente serão majorados se houver "prévia fixação de honorários de advogado pelas instâncias de origem". Assim, a contrario sensu, como não houve prévia fixação, não haverá, também, majoração.
+Outrossim, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de ser incabível a condenação ao pagamento de honorários advocatícios em sede de agravo de instrumento, objeto do Recurso Especial (AgInt no REsp 1850535/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 24.4.2020; AgInt no AREsp 1505380/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 5.11.2019.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
