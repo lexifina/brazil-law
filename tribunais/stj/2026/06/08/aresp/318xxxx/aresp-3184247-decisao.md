@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo interposto por MAVIMAR TRANSPORTES, DESPACHOS E SERVIÇOS LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fls. 1.321-1.322):
+APELAÇÃO CÍVEL. AÇÃO REGRESSIVA FUNDADA EM CONTRATO DE SEGURO. PREJUÍZOS PATRIMONIAIS (EQUIPAMENTOS E INSTALAÇÕES), SUPORTADOS PELO SEGURADO E QUE FORAM OCASIONADOS PELO PREPOSTO DA EMPRESA RÉ NA CONDUÇÃO DE UM VEÍCULO DE TRANSPORTE. SENTENÇA DE PROCEDÊNCIA AO PEDIDO. RECURSO DE AMBAS AS PARTES. APELO DA RÉ INSUBSISTENTE. AUTORA QUE, COM O PAGAMENTO DA INDENIZAÇÃO EM CONTRATO DE SEGURO, SUB-ROGOU-SE NOS DIREITOS DO SEGURADO. SUB-ROGAÇÃO IMPLEMENTADA NA RELAÇÃO JURÍDICO-MATERIAL QUE TAMBÉM PROJETA EFEITOS NO CAMPO PROCESSUAL, DE MANEIRA QUE ESTÁ MANTIDA A NATUREZA JURÍDICA DE RELAÇÃO DE CONSUMO ENTRE A AUTORA E A EMPRESA SEGURADA QUE SUPORTOU OS DANOS DECORRENTES DO ACIDENTE OCASIONADO PELO PREPOSTO DA EMPRESA RÉ. NEXO DE CAUSALIDADE ENTRE OS DANOS OCASIONADOS AO SEGURADO E A CONDUTA DO PREPOSTO DA RÉ, CUJO ESTADO DE EMBRIAGUEZ NA CONDUÇÃO DO VEÍCULO, OCASIONOU O ACIDENTE DESCRITO NA INICIAL. TERCEIRIZAÇÃO PARA OS SERVIÇOS DE TRANSPORTE QUE NÃO AFASTA A RESPONSABILIDADE SOLIDÁRIA DA EMPRESA RÉ SUBCONTRATADA. PROVAS PRODUZIDAS QUE CONDUZEM À ESSA CONCLUSÃO. REURSO DA AUTORA SUBSISTENTE. TERMO INICIAL DOS JUROS DE MORA QUE, CONFORME ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA, NAS AÇÕES DE REGRESSO, PROPOSTAS PELA SEGURADORA CONTRA O AUTOR DO DANO, DEVE CORRESPONDER À DATA DO DESEMBOLSO DA INDENIZAÇÃO SECURITÁRIA PAGA PELA SEGURADORA AO SEGURADO. SENTENÇA PARCIALMENTE REFORMADA. RECURSO DA RÉ DESPROVIDO, ENQUANTO PROVIDO O DA AUTORA. ENCARGOS DE SUCUMBÊNCIA, COM A MAJORAÇÃO DOS HONORÁRIOS DE ADVOGADO.
+Rejeitados os embargos de declaração opostos (fls. 1.352-1.361).
+No recurso especial, a parte recorrente alegou ofensa ao art. 373, II, do CPC.
+Sustentou, em síntese, a ocorrência de cerceamento defesa.
+Foram oferecidas contrarrazões ao recurso especial (fls. 1.380-1.417).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1.418-1.419), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 1.430-1.470).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Alterar o decidido no acórdão impugnado, no que se refere à inexistência de cerceamento de defesa (suficiência das provas constantes do autos), exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Nesse sentido, cito:
+AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. DIREITO PROCESSUAL CIVIL. AÇÃO DE RESCISÃO CONTRATUAL. COMPRA E VENDA DE IMÓVEL. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. SÚMULA 7 DO STJ. ATRASO NA ENTREGA. RESCISÃO CONTRATUAL. RESTITUIÇÃO INTEGRAL. PRESCRIÇÃO DECENAL. SÚMULA 83/STJ. RESPONSABILIDADE SOLIDÁRIA. REEXAME DAS PROVAS. AGRAVO CONHECIDO. RECURSO ESPECIAL DESPROVIDO.
+1. Não há cerceamento de defesa quando o juiz, na qualidade de destinatário da prova (art. 370 do Código de Processo Civil), entende motivadamente que o conjunto documental constante dos autos é suficiente para o deslinde da controvérsia e indefere a produção de prova testemunhal reputada desnecessária, inócua ou meramente protelatória.
+2. A revisão, em recurso especial, da conclusão do Tribunal de origem no sentido de que a prova oral era desnecessária à solução da lide demandaria reexame do acervo fático-probatório, providência vedada pela Súmula 7/STJ.
+3. A pretensão de indenização fundada em inadimplemento contratual, consistente em restituição de valores decorrentes de atraso na entrega do imóvel e rescisão contratual, sujeita-se ao prazo prescricional geral decenal previsto no art. 205 do Código Civil, conforme jurisprudência consolidada do Superior Tribunal de Justiça, inexistindo norma específica no Código de Defesa do Consumidor que disponha de forma diversa. Aplicação da Súmula 83/STJ.
+4. Em matéria de responsabilidade civil nas relações de consumo, todos os participantes da cadeia de fornecimento respondem solidariamente pelos danos causados ao consumidor (arts. 7º, parágrafo único, 14 e 25, § 1º, do Código de Defesa do Consumidor), sendo inviável, na via especial, rediscutir a conclusão do Tribunal a quo quanto à solidariedade da incorporadora, mediante nova valoração da prova contratual e documental.
+5. Agravo em recurso especial conhecido para negar provimento ao recurso especial.
+(AREsp n. 3.147.249/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 11/5/2026, DJEN de 15/5/2026.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 13% sobre o valor atualizado da condenação.
+Publique-se. Intimem -se.
+ EMENTA
