@@ -1,0 +1,75 @@
+DECISÃO
+
+HABEAS CORPUS. TRÁFICO DE DROGAS. VIOLAÇÃO DE DOMICÍLIO: INOCORRÊNCIA. FUNDADAS RAZÕES PARA INGRESSO DOS POLICIAIS. FLAGRANTE DELITO. CRIME PERMANENTE. AUTORIZAÇÃO PARA A ENTRADA. REEXAME DE FATOS E PROVAS: INVIABILIDADE. ILEGALIDADE MANIFESTA: INOCORRÊNCIA. ORDEM DENEGADA.
+
+1. Trata-se de habeas corpus impetrado contra acórdão do Superior Tribunal de Justiça pelo qual a Corte Especial negou provimento ao Agravo Regimental no Recurso Extraordinário no Agravo Regimental no Agravo em Recurso Especial nº 2.752.926/SP.
+
+2. Consta dos autos que o Tribunal de Justiça manteve a condenação do paciente  pela prática do crime do art. 33, caput, da Lei 11.343, de 2006 (tráfico de drogas), à pena de 7 anos e 6 meses de reclusão, em regime fechado e ao pagamento de 750 dias-multa.
+
+3. Recurso especial foi inadmitido na origem, tendo o Ministro Relator no STJ conhecido do agravo para não conhecer do recurso especial. Agravo regimental subsequente não foi provido, tendo sido negado seguimento ao recurso extraordinário interposto, seguindo-se ao protocolo do citado agravo regimental de que resultou o ato coator impugnado.
+
+4. No presente habeas corpus, a defesa sustenta, em síntese, a nulidade das provas obtidas mediante ingresso policial no domicílio de corréu sem mandado judicial. Argumenta que a única diligência realizada na data anterior aos fatos não demonstrava fundada suspeita de ilícito, tampouco houve autorização do morador ou de se genitor para entrada no imóvel. Alude ao parecer favorável do Ministério pelo provimento do recurso especial por ausência de justificativa válida para a busca domiciliar.
+
+5. Requer, em caráter liminar e no mérito, o reconhecimento da nulidade das provas obtidas mediante alegada violação de domicílio, com o trancamento da ação penal.
+
+É o relatório.
+
+Decido.
+
+6. No tocante à alegada ilicitude do ingresso dos policiais no domicílio, extrai-se da sentença condenatória a dinâmica dos fatos e a conclusão pela existência de justa causa para a diligência com base nos seguintes fundamentos:
+
+“Segundo consta na denúncia, os acusados Fábio e Sidney eram investigados em razão da prática de tráfico de drogas, sendo que o réu Fábio é um dos principais traficantes desta comarca, dominando o vil comércio no bairro Vila Batista, enquanto Sidney é o seu funcionário de confiança (fls. 132/134).
+Na madrugada dos fatos, o policial civil Rômulo Vieira Araújo Santos transitava pela Rua Benedito Costa, quando avistou o veículo GM/Vectra de cor preta, placa LVD-2238, parado em frente à residência do acusado Bruno, sendo certo que o policial reconheceu o veículo como pertencente ao réu Fábio.
+Em razão disso, o policial resolveu parar sua viatura descaracterizada para observar a movimentação, momento em que presenciou quando Sidney desembarcou do veículo e levou uma pequena caixa para o interior da residência do acusado Bruno.
+Assim, na manhã da data dos fatos, o referido policial retornou ao local, acompanhado de outros agentes, para ingressarem no imóvel. Quando lá chegaram, o réu Bruno franqueou a entrada do investigador e, de plano, admitiu que estava guardando drogas para o acusado Fábio e Sidney, dizendo que eles deixaram os entorpecentes em sua residência pela madrugada.
+Ato contínuo, o réu Bruno apresentou uma pequena caixa de papelão, contendo 105 (cento e cinco) pinos de cocaína e apresentou mais 01 (um) pino da mesma substância. Este acusado alegou que esse pino se tratava de parte de seu pagamento por guardar os entorpecentes para os réus Fábio e Sidney, sendo certo que recebeu 05 (cinco) pinos e consumiu 04 (quatro) deles.
+E mais, o réu Bruno afirmou que permitia que Sidney e o acusado Fábio embalassem drogas em sua residência, que, por sua vez, aproveitavam-se da dependência daquele para o convencerem a guardar as drogas, pois davam como pagamento a ele alguns pinos de cocaína.
+Em seguida, os policiais civis efetuaram vistoria na residência e encontraram diversos pinos e invólucros vazios e duas peneiras, objetos normalmente utilizados para embalagem de drogas para venda.
+Em razão desses fatos, o acusado Bruno foi preso em flagrante. Na Delegacia de Polícia, o réu Bruno reconheceu o acusado Fábio e Sidney como as pessoas para quem guardava as drogas, conforme às fls. 23.
+A quantidade de entorpecentes encontrados, o modo como estavam acondicionados, a natureza da abordagem e as notícias que motivaram a atuação policial, entendeu-se que é certo que os acusados estavam praticando o tráfico de entorpecentes e associados para este fim.
+As preliminares arguidas pelas Defesas não prosperam, isso porque, ao término da instrução, inexistem provas acerca da hipotética violação de domicílio. Veja-se que os policiais, em todas as oportunidades em que foram ouvidos, narraram a mesma versão dos fatos, não havendo nada a indicar que estariam mentindo ou ocultando a verdade, tampouco incriminando os acusados falsamente.
+O acusado Bruno, quando ouvido em solo policial (fls. 06/07), não declarou qualquer irregularidade na ação policial, tampouco expôs a suposta violação domiciliar. Seu genitor, ouvido em juízo, também nada disse a respeito. O acusado Fábio sequer presenciou a ação policial, de modo que não expôs elementos, ainda que ínfimos, a justificar sua irresignação com a ação policial.
+A inovação do acusado Bruno se deu apenas na fase de instrução, sem qualquer justificativa para a radical mudança de narrativa, que não fosse a reversão do quadro fático que vinha se desenhando de maneira robusta em seu desfavor.
+Ademais, não apresentou nenhum elemento de prova a corroborar sua versão.
+Por isso não convence o argumento defensivo de que houve violação domiciliar.” (e-doc. 5, p. 198-200)
+7. O Tribunal de Justiça corroborou a óptica, assentando existência de indicativos tanto do consentimento para entrada como da ocorrência de crime permanente. Vejamos:
+
+“Em primeiro lugar, cumpre observar que há indicativos de que o ingresso na residência foi autorizado, conforme declarado pelos policiais civis, sem que haja nos autos elementos capazes de infirmar as declarações. Nesse sentido, sopesa-se que não houve qualquer menção em sentido contrário do corréu Bruno quando ouvido em Delegacia, tampouco de seu genitor em juízo.
+De todo modo, ainda que assim não fosse, justificada e pertinente a diligência feita, independente de prévia autorização judicial, porquanto baseada em indícios concretos da ocorrência de crime permanente, considerando a visualização de ato suspeito na noite anterior e admissão do corréu Bruno quanto à existência de drogas no local.
+Ressalta-se que o artigo 5º, inciso XI, da Constituição Federal, ao assegurar a inviolabilidade do domicílio, prevê mitigações no próprio texto constitucional, dentre as quais se encontra o caso de flagrante delito. E o tráfico de drogas, em suas várias modalidades, consubstancia crime permanente, pelo que não há falar em ilegalidade do ingresso e busca feita sem prévia autorização judicial quando presentes fundadas razões.
+Nesse cenário, em que pese o sustentado, a ação policial não padece de qualquer ilegalidade comprovada”. (e-doc. 6, p. 80)
+
+8. Ao conhecer do agravo para não conhecer do recurso especial, o Ministro Relator no STJ fez referência aos pronunciamentos das instâncias antecedentes, indicando que chegar à conclusão diversa “quanto à presença de indícios concretos de crime permanente (investigação em curso), o que autorizaria a atuação dos policiais mesmo sem mandado ou autorização de moradores”, exigiria incabível revolvimento do acervo probatório, fazendo incidir óbice da súmula nº 7 daquela Corte.
+
+9. As decisões estão em consonância com a orientação firmada no âmbito do Supremo Tribunal Federal. A Corte, no Recurso Extraordinário nº 603.616-RG/RO, Rel. Min. Gilmar Mendes, Pleno, j. 05/11/2015, p. 10/05/2016 (Tema nº 280 do ementário da Repercussão Geral), definiu a seguinte tese: “A entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade, e de nulidade dos atos praticados”.
+
+10. No caso concreto, as instâncias antecedentes apontaram a existência de fundadas razões indicativas da ocorrência de crime permanente no interior da residência. Destacaram que os agentes policiais estavam realizando diligências anteriores para a confirmação de investigação em curso de ocorrência de tráfico de drogas, identificando atitude suspeita envolvendo veículo do paciente e a entrega de uma caixa para corréu. Em diligência no local, os policiais foram recebidos pelo corréu que teria franqueado a entrada e encontraram referida caixa contendo 105 pinos de cocaína, circunstâncias que corroboraram os indícios da prática do delito de tráfico de drogas.
+
+11. Não se vislumbra, portanto, a ilegalidade arguida, considerada a licitude do ingresso em residência em casos de flagrante delito, por ser permanente o crime de tráfico de drogas, no núcleo do tipo “ter em depósito”. Nesse sentido os seguintes precedentes desta Suprema Corte:
+
+“Agravo regimental no habeas corpus. 2. Penal e Processo Penal. 3. Tráfico de drogas (art. 33, caput, da Lei 11.343/2006). 4. Habeas corpus impetrado contra decisão monocrática do STJ. Impossibilidade. Ausência de agravo regimental. Esgotamento das vias recursais. 5. Flagrante delito. Inviolabilidade de domicílio não configurada. Crime permanente. Repercussão geral reconhecida no RE 603.616/RO. 6. Agravo regimental desprovido.”
+(HC nº 211.694-AgR/SP, Rel. Min. Gilmar Mendes, Segunda Turma, j. 02/07/2022, p. 06/07/2022; grifos nossos).
+
+“Agravo regimental em habeas corpus. Crimes de tráfico de drogas, receptação, uso de documento falso e adulteração de sinal identificador de veículo automotor. Condenação transitada em julgado. Alegada nulidade da ação penal quanto ao crime de tráfico de drogas. Persecução baseada em suposta prova ilícita obtida mediante invasão de domicílio do agravante, à míngua de autorização judicial ou justa causa. Flagrante de crime permanente. Dispensabilidade de mandado de busca e apreensão. Fundadas razões para a realização de procedimento policial. Precedentes. Ausente constrangimento ilegal flagrante. Reexame de fatos e provas para afastar a regularidade do ingresso dos policiais no domicílio do paciente firmada pelas instâncias antecedentes. Inviabilidade na via eleita. Regimental não provido.
+(HC nº 210.511-AgR/SC, Rel. Min. Dias Toffoli, Primeira Turma, j. 04/04/2022, p. 29/04/2022; grifos nossos).
+
+12. Registro, ainda, que alcançar conclusão diversa quanto à regularidade da entrada dos agentes policiais no domicílio e desencadeamento de diligências a partir de busca considerada ilícita na residência demandaria o reexame do acervo fático-probatório, incabível na via estreita do habeas corpus. Nesse sentido:
+“AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIMES DE TRÁFICO DE DROGAS E POSSE OU PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. WRIT SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL. VIOLAÇÃO DE DOMICÍLIO. NÃO CARACTERIZAÇÃO. DELITO DE NATUREZA PERMANENTE. PRISÃO EM FLAGRANTE. DOSIMETRIA. AFASTAMENTO DA AGRAVANTE DA REINCIDÊNCIA. REEXAME DE FATOS E PROVAS. INVIABILIDADE. MANIFESTA ILEGALIDADE OU TERATOLOGIA NÃO IDENTIFICADAS. 1. Inadmissível, como regra, o emprego do habeas corpus como sucedâneo de recurso ou revisão criminal. Precedentes. 2. A posse de drogas para fins de tráfico constitui crime permanente e autoriza, devido ao estado de flagrância, o ingresso no domicílio independentemente de mandado. 3. Para concluir em sentido diverso das instâncias anteriores quanto às circunstâncias do flagrante, imprescindíveis o reexame e a valoração de fatos e provas, para o que não se presta a via eleita 4. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas e às Cortes Superiores, em grau recursal, o controle da legalidade e da constitucionalidade dos critérios empregados, bem como a correção de eventuais discrepâncias, se gritantes ou arbitrárias, nas frações de aumento ou diminuição adotadas pelas instâncias anteriores. 5. Agravo regimental conhecido e não provido.”
+(HC nº 215.420-AgR/SP, Rel. Min. Rosa Weber, Primeira Turma, j. 21/06/2022, p. 24/06/2022; grifos nossos).
+
+13. Verificado, ainda, que o ingresso dos policiais na residência se deu mediante autorização, a análise de eventual vício nessa atuação demandaria o reexame do acervo fático-probatório, incabível na via estreita do habeas corpus. A esse respeito:
+
+ “Agravo regimental em habeas corpus. Penal. Processual Penal. Alegada violação de domicílio. Busca domiciliar autorizada pelo acusado. Legalidade. Precedentes. Vício de consentimento da autorização de ingresso. Reexame de fatos e provas. Agravo regimental não provido. 1. A jurisprudência da Corte está consolidada no sentido de que “o prévio consentimento do morador, por descaracterizar a situação de ilicitude da entrada, inviabiliza o reconhecimento de ilegalidade da diligência” (HC nº 148.965/SC, Primeira Turma, Rel. Min. Marco Aurélio, DJe de 22/4/20). 2. Para se infirmar entendimento contrário ao adotado pelas instâncias ordinárias quanto ao alegado vício de consentimento na autorização para ingresso pelos policiais na residência, seria necessário o reexame do suporte fático probatório, providência incabível em habeas corpus, o qual não admite dilação probatória. Precedente: HC nº 191.508, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 25/11/20. 3.Agravo regimental ao qual se nega provimento.”
+(HC nº 199.227-AgR/SP, Rel. Min. Dias Toffoli, Primeira Turma, j. 12/05/2021, p. 22/06/2021; grifos nossos).
+
+“Processual penal. Agravo regimental em habeas corpus. Importação e exposição à venda de produto sem registro na Anvisa e de procedência desconhecida. Busca domiciliar autorizada pelo acusado. Jurisprudência do Supremo Tribunal Federal. 1. A jurisprudência consolidada deste Supremo Tribunal Federal é no sentido de que o art. 5º, XI, da Constituição Federal, a versar a inviolabilidade domiciliar, pressupõe o ingresso indevido ou forçado de terceiros em domicílio alheio, razão pela qual o prévio consentimento do morador, por descaracterizar a situação de ilicitude da entrada, inviabiliza o reconhecimento de ilegalidade da diligência. Precedentes. 2. O acolhimento da pretensão defensiva – vício no consentimento para ingresso dos policiais – exigiria o reexame do conjunto fático-probatório da causa, medida incabível na via processualmente restrita do HC. 3. Inexiste situação de teratologia, ilegalidade flagrante ou abuso de poder que justifique a concessão da ordem. 4. Agravo regimental a que se nega provimento.”
+(HC nº 191508-AgR/ES, Rel. Min. Roberto Barroso, Primeira Turma, j. 11/11/2020, p. 25/11/2020; grifos nossos).
+
+14. Ante o exposto, denego a ordem, com fundamento no art. 192 do RISTF.
+
+Publique-se.
+
+Brasília, 8 de junho de 2026.
+
+Ministro ANDRÉ MENDONÇA
+Relator
