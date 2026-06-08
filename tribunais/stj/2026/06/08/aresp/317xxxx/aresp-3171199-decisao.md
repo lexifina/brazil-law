@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MATHEUS DE ALMEIDA AUGUSTO contra a decisão do Tribunal de Justiça do Distrito Federal e dos Territórios que inadmitiu recurso especial, apresentado contra o acórdão exarado no julgamento da Apelação Criminal n. 0722487-11.2024.8.07.0001.
+O Ministério Público Federal apresentou parecer pelo conhecimento parcial e, quanto à parte conhecida, pelo não provimento do agravo em recurso especial (fls. 3535/3543).
+É o relatório.
+O agravo é inadmissível.
+Inicialmente, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos, inclusive de forma específica, suficiente e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula n. 182/STJ (AgRg nos EDcl no AREsp n. 2.985.942/MA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/9/2025, DJEN de 25/9/2025).
+Ao que se observa, o Tribunal de origem inadmitiu o apelo nobre pelos seguintes fundamentos: 1) incidência da Súmula 7/STJ quanto às teses fundadas nos arts. 171 e 288 do Código Penal; 2) incidência, por analogia, da Súmula 284/STF quanto ao pedido de fixação de indenização por danos morais, por ausência de indicação de dispositivo legal violado (fl. 3384).
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a íntegra da decisão de inadmissão.
+No ponto da Súmula 7/STJ, apesar de afirmar que busca mera revaloração, o agravante não demonstra, com base em excertos do acórdão recorrido, que suas teses - desclassificação para estelionato e reconhecimento de associação criminosa - possam ser decididas sem reexame do contexto fático-probatório, em confronto com as premissas fixadas pela Corte local de que a posse inicial foi legítima por consignação e que não se comprovou associação criminosa, havendo apenas liame empregatício (fls. 3414/3425).
+É entendimento desta Corte Superior que inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível (AgRg no AREsp n. 2.204.136/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 16/5/2023, DJe de 19/5/2023 ).
+No ponto da Súmula 284/STF, quanto ao pedido de fixação de danos morais, a impugnação não indica qual dispositivo de lei federal teria sido violado nem explicita de que modo o acórdão recorrido afrontou tal preceito, limitando-se a afirmar, genericamente, a suficiência da fundamentação, o que mantém íntegro o vício apontado na decisão de inadmissão (fls. 3428/3433).
+Por conseguinte, aplica-se, à hipótese dos autos, o art. 932, inciso III, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, e a Súmula 182/STJ por analogia.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
