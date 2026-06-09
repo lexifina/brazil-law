@@ -1,0 +1,22 @@
+DECISÃO
+LUCAS VINICIUS CIRILO DOS SANTOS alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1500146-67.2025.8.26.0623.
+Consta dos autos que o paciente foi condenado à pena de 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado mais multa, pela prática do crime descrito no art. 33, caput, da Lei n. 11.343/2006.
+A apelação criminal defensiva não foi provida, mas foi provido o recurso ministerial, para determinar a apreensão e o perdimento do veículo Volkswagen, modelo Gol 1.6, placas BWN 9186, chassi 9BWAB05U49T068250, ano de fabricação 2008, ano modelo 2009, de cor cinza, do Município de São João da Boa Vista, mantida, no mais, a sentença.
+Na presente impetração, a defesa sustenta que houve quebra da cadeia de custódia dos entorpecentes apreendidos, pois o local do vestígio permaneceu desguarnecido por cerca de 30 minutos, o que inviabiliza a higidez da prova.
+Afirma que a condenação se apoia em depoimentos policiais padronizados e contraditórios quanto à cor da sacola descartada.
+Aduz, ainda, que o perdimento do veículo utilizado é desproporcional e confere natureza confiscatória indevida a bem de uso familiar sem demonstração de destinação específica ao crime.
+Alega o cabimento do habeas corpus por revaloração jurídica de fatos incontroversos, sem necessidade de revolvimento probatório.
+Requer a concessão liminar para suspender os efeitos do acórdão e expedir alvará de soltura, ainda que com medidas cautelares alternativas. No mérito, busca a absolvição por nulidade decorrente da quebra da cadeia de custódia ou, subsidiariamente, a absolvição por insuficiência probatória e o afastamento do confisco com a restituição do veículo apreendido.
+Decido.
+O habeas corpus é manifestamente incabível.
+Em consulta ao sistema informatizado, verifico que a impetração de habeas corpus se deu de forma simultânea e concomitante ao manejo de recurso especial na origem .
+Conforme decidido pela Terceira Seção desta Corte no julgamento do HC n. 482.549/SP, de minha relatoria, em caso de interposição do recurso cabível contra o ato impugnado e contemporânea impetração de habeas corpus para igual pretensão, somente será permitido o exame do writ se for este destinado à tutela direta da liberdade de locomoção do acusado ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e refletir mediatamente na liberdade do paciente. Nas demais hipóteses, o habeas corpus não deve ser admitido e o exame das questões idênticas deve ser reservado ao recurso previsto para o caso, ainda que a matéria discutida resvale, por via transversa, na liberdade individual. Confira-se:
+ ..
+1. A existência de um complexo sistema recursal no processo penal brasileiro permite à parte prejudicada por decisão judicial submeter ao órgão colegiado competente a revisão do ato jurisdicional, na forma e no prazo previsto em lei. Eventual manejo de habeas corpus, ação constitucional voltada à proteção da liberdade humana, constitui estratégia defensiva válida, sopesadas as vantagens e também os ônus de tal opção.
+2. A tutela constitucional e legal da liberdade humana justifica algum temperamento aos rigores formais inerentes aos recursos em geral, mas não dispensa a racionalidade no uso dos instrumentos postos à disposição do acusado ao longo da persecução penal, dada a necessidade de também preservar a funcionalidade do sistema de justiça criminal, cujo poder de julgar de maneira organizada, acurada e correta, permeado pelas limitações materiais e humanas dos órgãos de jurisdição, se vê comprometido - em prejuízo da sociedade e dos jurisdicionados em geral - com o concomitante emprego de dois meios de impugnação com igual pretensão.
+3. Sob essa perspectiva, a interposição do recurso cabível contra o ato impugnado e a contemporânea impetração de habeas corpus para igual pretensão somente permitirá o exame do writ se for este destinado à tutela direta da liberdade de locomoção ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e que reflita mediatamente na liberdade do paciente. Nas demais hipóteses, o habeas corpus não deve ser admitido e o exame das questões idênticas deve ser reservado ao recurso previsto para a hipótese, ainda que a matéria discutida resvale, por via transversa, na liberdade individual.
+ .. .
+(HC n. 482.549/SP, Rel. Ministro Rogerio Schietti, 3ª S., DJe 3/4/2020, grifei.)
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se e intimem-se.
+ EMENTA
