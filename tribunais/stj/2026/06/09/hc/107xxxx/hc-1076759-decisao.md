@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de NATANAEL CARLOS DE ALMEIDA e da empresa NBC LOCAÇÕES E SERVIÇOS LTDA, contra ato atribuído ao Desembargador Relator da Medida Cautelar n. 0628063-12.2021.8.06.0000.
+Narra a impetração que o paciente e a empresa por ele administrada foram submetidos a medidas cautelares de busca e apreensão, sequestro de valores e bloqueio de contas bancárias, deferidas no âmbito do Inquérito Policial n. 333-001/2021, instaurado para apuração de supostos crimes de lavagem de dinheiro, fraude à licitação, corrupção, apropriação de bens públicos e organização criminosa.
+A defesa sustenta, em síntese, a ocorrência de constrangimento ilegal por excesso de prazo na condução das investigações, ao argumento de que, transcorridos mais de quatro anos da instauração do inquérito e quase quatro anos do cumprimento das medidas cautelares, ainda não foi concluída a perícia nos materiais apreendidos, apesar das sucessivas prorrogações de prazo requeridas pela autoridade policial.
+Alega que a manutenção prolongada das medidas constritivas, sem conclusão da investigação ou oferecimento de denúncia, viola os princípios da razoável duração do processo, da presunção de inocência, do devido processo legal e da dignidade da pessoa humana, convertendo as cautelares em restrições patrimoniais desproporcionais e indefinidas.
+Requer, liminarmente e no mérito, o trancamento do Inquérito Policial n. 333-001/2021 e a cessação das medidas cautelares impostas ao paciente e à empresa NBC LOCAÇÕES E SERVIÇOS LTDA. Subsidiariamente, pleiteia seja determinada a conclusão célere das investigações e da perícia pendente, com prazo razoável para encerramento do feito. Requer, ainda, a confirmação da liminar eventualmente deferida, a prestação de informações pelas autoridades apontadas como coatoras e a manifestação do Ministério Público.
+O pedido liminar foi indeferido (e-STJ, fl. 192).
+Informações prestadas (e-STJ, fls. 199-205).
+O Ministério Público opinou pelo não conhecimento do writ (e-STJ, fls. 208-211).
+É o relatório.
+Decido.
+A impetração não deve ser conhecida.
+Conforme orientação consolidada do Supremo Tribunal Federal e deste Superior Tribunal, não se admite a utilização do habeas corpus como substitutivo do recurso cabível, ressalvada a possibilidade de concessão da ordem de ofício diante da existência de flagrante ilegalidade.
+No caso, verifica-se que o ato apontado como coator não apreciou as teses deduzidas na presente impetração.
+Com efeito, a defesa atribui constrangimento ilegal à alegada demora excessiva na conclusão do Inquérito Policial n. 333-001/2021 e à manutenção prolongada das medidas cautelares patrimoniais anteriormente deferidas. Todavia, a decisão proferida pelo Tribunal de Justiça do Ceará limitou-se a apreciar incidentes relacionados à restituição de bens, regularização procedimental e requisição de informações complementares à autoridade policial, sem exame das alegações de excesso de prazo, desproporcionalidade superveniente das cautelares ou eventual necessidade de trancamento do procedimento investigatório.
+Desse modo, inexiste pronunciamento jurisdicional prévio da Corte de origem acerca da controvérsia efetivamente submetida a esta Corte Superior, circunstância que inviabiliza o exame originário da matéria, sob pena de indevida supressão de instância.
+Ainda que assim não fosse, não se verifica hipótese de flagrante ilegalidade apta à concessão da ordem de ofício.
+Isso porque o trancamento de inquérito policial, na via estreita do habeas corpus, constitui medida excepcional, admissível apenas quando demonstradas, de plano, a atipicidade da conduta, a ausência de indícios mínimos de autoria ou materialidade, ou causa extintiva da punibilidade, circunstâncias não evidenciadas na espécie.
+Além disso, as informações constantes dos autos indicam que a investigação possui elevada complexidade, envolvendo apuração de suposta organização criminosa voltada à prática de fraudes licitatórias, lavagem de dinheiro e desvios de recursos públicos, com pluralidade de investigados, inclusive agentes detentores de prerrogativa de foro.
+Conforme destacado no parecer ministerial, não há elementos seguros a demonstrar paralisação absoluta ou abandono das investigações, tendo sido noticiado, inclusive, que a Seção Criminal do Tribunal de Justiça do Ceará, ao apreciar o HC n. 0200110-91.2025.8.06.0132, fixou prazo para apresentação do relatório final pela autoridade policial.
+Nesse contexto, a aferição da alegada irrazoabilidade da duração do inquérito e da atual necessidade das medidas cautelares demandaria exame mais aprofundado do quadro fático-probatório e prévia manifestação das instâncias ordinárias.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
