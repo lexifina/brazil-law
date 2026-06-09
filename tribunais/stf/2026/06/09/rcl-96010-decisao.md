@@ -1,0 +1,41 @@
+DECISÃO:
+
+RECLAMAÇÃO CONSTITUCIONAL. ALEGAÇÃO DE AFRONTA ÀS ADI’S NS. 7.156 E 7.236 E AO TEMA N. 1.199 - REPERCUSSÃO GERAL). NÃO ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. DECISÃO RECLAMADA PROFERIDA ANTERIORMENTE AO JULGAMENTO DE AÇÕES DIRETAS DE INCONSTITUCIONALIDADE. INVIABILIDADE DA RECLAMAÇÃO. NEGATIVA DE SEGUIMENTO.
+
+1. Trata-se de reclamação constitucional ajuizada por WEST SIDE VIAGENS E TURISMO LTDA. em face de decisão proferida pela 2ª Turma do Superior Tribunal de Justiça, nos autos do Processo n. 2.475.149, que supostamente teria afrontado o decidido por esta Corte nas ADI’s ns. 7.156 e 7.236 e Tema n. 1.199 da Repercussão Geral.
+
+2. Alega a parte reclamante que “o acórdão reclamado caminhou em sentido diametralmente oposto à ratio decidendi desses paradigmas, que se reproduz na norma expressa do art. 87, III, da Lei 8.666/1993. Sob o argumento da Súmula 51 do TCE/SP, a 2ª Turma do STJ validou a participação e a contratação de empresa – a JTP – que havia sido sancionada com suspensão do direito de licitar pelo MUNICÍPIO DE EMBU-GUAÇU/SP, restringindo os efeitos da penalidade ao ente sancionador e permitindo que a empresa punida contratasse livremente com o MUNICÍPIO DE BRAGANÇA PAULISTA/SP – exatamente a lógica reputada inconstitucional por esta Corte nas ADIs 7.156 e 7.236” (fl. 2, e-doc. 1).
+
+3. Quanto à alegada afronta às ADIs n. 7.236 e 7.156, não assiste razão à parte reclamante. Isso porque a decisão reclamada foi proferida pela 2ª Turma do Superior Tribunal de Justiça em sessão virtual realizada no período de 7.5.2026 a 13.5.2026, momento em que esta Suprema Corte sequer havia iniciado o julgamento das ações diretas apontadas como paradigmas.
+
+Com efeito, o julgamento conjunto das ADIs n. 7.236 e 7.156 teve início apenas em 28.5.2026, sendo suspenso na mesma data, sem conclusão até o momento. Assim, além de inexistir pronunciamento definitivo desta Corte sobre a matéria, verifica-se que os paradigmas invocados sequer estavam em julgamento quando da prolação do ato reclamado.
+
+Desse modo, não há como reconhecer que a autoridade reclamada tenha desrespeitado a autoridade de precedentes que, à época da decisão impugnada, ainda não haviam sido sequer submetidos à apreciação do Plenário desta Suprema Corte.
+
+Ademais, destaco que esta Corte tem entendido pela inviabilidade da via reclamatória quando o paradigma que se pretende preservar seja posterior ao ato reclamado. Nesse sentido:
+
+“AGRAVO REGIMENTAL NA RECLAMAÇÃO. ADMINISTRATIVO. ALEGADO DESCUMPRIMENTO DA SÚMULA VINCULANTE N. 3 DO SUPREMO TRIBUNAL FEDERAL. ATO RECLAMADO NÃO PROVENIENTE DO TRIBUNAL DE CONTAS DA UNIÃO: AUSÊNCIA DE IDENTIDADE MATERIAL. ALEGADO DESRESPEITO À DECISÃO PROFERIDA NO RECURSO EXTRAORDINÁRIO N. 636.553-RG, TEMA 445. ATO RECLAMADO ANTERIOR AO PARADIGMA ALEGADAMENTE DESCUMPRIDO. IMPOSSIBILIDADE DE SE UTILIZAR RECLAMAÇÃO COMO SUCEDÂNEO DE RECURSO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (Rcl 49.821-AgR/CE, Rel. Ministra Cármen Lúcia, 1ªTurma)
+
+“RECLAMAÇÃO – ALEGADO DESRESPEITO AOS ENUNCIADOS DAS SÚMULAS VINCULANTES NºS 37/STF E 42/STF – IMPOSSIBILIDADE – DECISÃO RECLAMADA PROFERIDA EM DATA ANTERIOR ÀS PUBLICAÇÕES, NA IMPRENSA OFICIAL, DE REFERIDAS FORMULAÇÕES SUMULARES – AUSÊNCIA DO INTERESSE DE AGIR – INVIABILIDADE DA UTILIZAÇÃO PROCESSUAL DO INSTRUMENTO DA RECLAMAÇÃO COMO SUCEDÂNEO DE RECURSOS OU DE AÇÕES JUDICIAIS EM GERAL – PRECEDENTES – RECURSO DE AGRAVO IMPROVIDO. ANTERIORIDADE DA DECISÃO RECLAMADA E AUSÊNCIA DE PARÂMETRO – Considerado o que dispõe o art. 103-A, “caput”, da Constituição, somente a partir da data em que o enunciado sumular é publicado em órgão da imprensa oficial é que passa a ter eficácia vinculante, impondo-se, em consequência, à observância dos demais juízes e Tribunais, excluídos do seu alcance todos os atos decisórios anteriores à sua publicação. – A parte reclamante, para ter legítimo acesso à via reclamatória, deve demonstrar que o ato reclamado tenha sido proferido posteriormente à publicação, na imprensa oficial, do enunciado de súmula vinculante invocado como paradigma.” (Rcl 24393-AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe 09-10-2019).
+
+4. Quanto à alegada violação ao Tema n. 1.199 da Repercussão Geral, ressalto que a decisão reclamada foi proferida em sede de agravo em recurso especial e, em observância à jurisprudência deste Supremo Tribunal, como bem destacado pelo Ministro Teori Zavascki nos autos da Reclamação n. 24.686/RJ-ED-AgR, DJe 11.4.2017, o esgotamento de instância ocorre diante do “percurso de todo o iter recursal possível antes do acesso à Suprema Corte. Ou seja, se a decisão reclamada ainda comportar reforma por via de recurso a algum tribunal, inclusive a tribunal superior, não se permitirá acesso à Suprema Corte por via de reclamação. Esse é o sentido que deve ser conferido ao art. 988, §5°, II, do CPC”.
+
+Esta Corte possui precedentes no sentido de que o esgotamento das instâncias ordinárias se dá com decisão colegiada da origem que, em sede de agravo interno, aprecia a negativa de seguimento de recurso extraordinário pela repercussão geral (Nesse sentido: RCL 69554, Rcl nº 41.920/SC-AgR e Rcl nº 20.892/RJ-AgR)
+
+Nesse contexto, inviável o conhecimento da presente reclamação, proposta para garantir o cumprimento de decisão proferida em sede de repercussão, ante o não preenchimento do requisito relativo ao esgotamento das instâncias ordinárias. Nesse sentido:
+
+AGRAVO INTERNO. RECLAMAÇÃO CONSTITUCIONAL. ALEGAÇÃO DE DESCUMPRIMENTO DO TEMA N. 1.199. DA REPERCUSSÃO GERAL. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. NÃO CABIMENTO. AGRAVO DESPROVIDO. (Rcl 76119 AgR, Relator(a): FLÁVIO DINO, Primeira Turma, julgado em 26-05-2025, PROCESSO ELETRÔNICO DJe-s/n  DIVULG 29-05-2025  PUBLIC 30-05-2025)
+
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONSTITUCIONAL. CONDENAÇÃO POR IMPROBIDADE ADMINISTRATIVA. SUSPENSÃO DOS DIREITOS POLÍTICOS. ALEGADA CONTRARIEDADE ÀS DECISÕES PROFERIDAS NA AÇÃO DIRETA DE INCONSTITUCIONALIDADE N. 6.678-MC E NO RECURSO EXTRAORDINÁRIO COM AGRAVO N. 843.989/PR. TEMA 1.199. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. IMPOSSIBILIDADE DE UTILIZAÇÃO DE RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL: PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO, COM APLICAÇÃO DE MULTA DE 1% SOBRE O VALOR ATUALIZADO DA CAUSA, SE UNÂNIME A VOTAÇÃO. (Rcl 66637 ED-AgR, Relator(a): CÁRMEN LÚCIA, Primeira Turma, julgado em 17-06-2024, PROCESSO ELETRÔNICO DJe-s/n  DIVULG 19-06-2024  PUBLIC 20-06-2024)
+
+AGRAVO REGIMENTAL NA RECLAMAÇÃO. REPERCUSSÃO GERAL. TEMA 1199. ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. INOBSERVÂNCIA. AUSÊNCIA DE JUÍZO DE ADMISSIBILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. É firme a jurisprudência do Supremo Tribunal Federal em inadmitir a reclamação antes de esgotados todos os instrumentos recursais nas instâncias ordinárias, nos termos do art. 988, § 5º, do CPC, de maneira que se possibilite a aplicação do entendimento fixado pela sistemática da repercussão geral. 2. Cumpria, portanto, à parte reclamante esgotar devidamente as instâncias para o manejo da presente reclamação à luz do julgamento de mérito do Tema 1199 da RG. Na hipótese, conforme andamento processual, por ocasião do ajuizamento da reclamação, sequer havia juízo de admissibilidade do recurso extraordinário, positivo ou negativo. 3. Inviável, portanto, o conhecimento da presente reclamação, por carência de interesse processual, na modalidade da adequação, para o uso da ação escolhida (CPC, art. 485, VI), devendo valer-se a parte dos meios e recursos próprios, que se lhe convenham à situação e não tenham ainda sido usados. 4. É remansosa a jurisprudência do Supremo Tribunal Federal no sentido de que a reclamação não pode ser usada como sucedâneo de recurso próprio, nem de ação rescisória 5. Agravo regimental a que se nega provimento. (Rcl 62596 AgR, Relator(a): EDSON FACHIN, Segunda Turma, julgado em 04-03-2024, PROCESSO ELETRÔNICO DJe-s/n  DIVULG 07-03-2024  PUBLIC 08-03-2024)
+
+5. Face ao exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento à Reclamação, ficando prejudicado o pedido de liminar.
+
+Publique-se.
+
+Brasília, 9 de junho de 2026.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
