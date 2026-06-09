@@ -1,0 +1,10 @@
+DECISÃO
+MAIKON LEO DOS SANTOS e RODRIGO DOS SANTOS  alegam  sofrer  constrangimento  ilegal  diante  de  acórdão  proferido  pelo  TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ no HC n. 0011433-72.2026.8.16.0000.
+A defesa entende haver nulidade da decisão de pronúncia, pois, "ao analisar a tese defensiva de ausência de animus necandi, confessou a dúvida sobre o elemento subjetivo do tipo, mas, em vez de aplicar a regra constitucional do in dubio pro reo, que levaria à impronúncia ou à desclassificação", assentou que "na fase de pronúncia, vigora o princípio in dubio pro societate" (ambas à fl. 3).
+Conclui, então, que "Manter os pacientes presos com base em uma pronúncia nula é submetê-los a um constrangimento ilegal continuado e insuportável" (fl. 5).
+Pede a concessão de liminar para "suspender imediatamente os efeitos do acórdão coator e da sentença de pronúncia e determinar a expedição de imediato alvará de soltura em favor dos pacientes" (fl. 6). No mérito, pleiteia o reconhecimento da nulidade do acórdão e da pronúncia, de modo que os insurgentes sejam impronunciados, "em aplicação direta do princípio in dubio pro reo" (fl. 7).
+Verifico, contudo, que o acórdão recorrido não examinou a alegação de nulidade da pronúncia nem mesmo o pedido de impronúncia dos réus, mas limitou-se à "verificar se subsistem os pressupostos e fundamentos legais da prisão preventiva, especialmente diante das alegações de ausência de fundamentação concreta da custódia cautelar, fragilidade dos indícios de autoria, ausência de animus necandi, legítima defesa, excesso de imputação quanto à pronúncia e possibilidade de aplicação de medidas cautelares diversas da prisão" (fls. 9-10, grifei).
+Assim, observo que a controvérsia deduzida neste habeas corpus não foi previamente analisada pela Corte de origem no ato apontado como coator, evidenciando-se a ausência de "causa julgada" a justificar a inauguração da competência do STJ. Não pode esta Corte Superior, portanto, conhecer diretamente da matéria, sob pena de inadmissível supressão de instância.
+À  vista  do  exposto,  indefiro  liminarmente  o  habeas  corpus.
+Publique-se  e  intimem-se.
+EMENTA
