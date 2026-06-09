@@ -1,0 +1,53 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus interposto por GERALDO RIBEIRO VIEIRA contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO proferido no julgamento do HC n. 5001426-02.2026.4.04.0000/SC.
+Consta dos autos que o recorrente foi denunciado pelo Ministério Público Federal pela suposta prática de crimes ambientais previstos nos arts. 38-A e 48 da Lei n. 9.605/98.
+Inconformada, a defesa do paciente impetrou HC perante o Tribunal de origem, buscando a declaração de incompetência absoluta da Justiça Federal e a consequente ilegitimidade ativa do Parquet Federal. O mandamus foi indeferido liminarmente em decisão monocrática, em razão da ausência de submissão das teses ao Juízo de origem, implicando em indevida supressão de instância.
+O TRF da 4ª Região negou provimento ao agravo regimental interposto pelo recorrente, mantendo a decisão monocrática que indeferiu liminarmente o writ. Eis a ementa do julgado:
+"DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. INCOMPETÊNCIA DA JUSTIÇA FEDERAL. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME:
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente habeas corpus impetrado para reconhecimento da incompetência absoluta da Justiça Federal e da ilegitimidade do Ministério Público Federal para atuar em ação penal que apura crimes ambientais, sob a alegação de ausência de transnacionalidade ou dano direto a bens da União.
+II. QUESTÃO EM DISCUSSÃO:
+2. Há duas questões em discussão: (i) o cabimento de habeas corpus para discutir incompetência do juízo quando o paciente não está preso e não há ameaça iminente à liberdade de locomoção; e (ii) a possibilidade de exame da incompetência em habeas corpus sem prévia manifestação do juízo de origem e sem incursão no acervo fático-probatório.
+III. RAZÕES DE DECIDIR:
+3. O habeas corpus não é a via adequada para discutir a incompetência do juízo, sobretudo porque o paciente não está preso e não há ameaça direta e iminente ao seu status libertatis. A jurisprudência exige a racionalização do writ, reservando-o para situações de violência ou coação iminente ao direito de ir e vir, conforme o art. 5º, LXVIII, da CF e os arts. 647 e seguintes do CPP.
+4. O exame da matéria implicaria indevida supressão de instância, uma vez que as teses defensivas não foram submetidas ao juízo de origem. A regular marcha processual prevê instrumentos próprios para a discussão da competência.
+5. A admissão do habeas corpus para exame de questões de competência é excepcional, cabível apenas para evitar que o réu seja processado por juízo  agrantemente incompetente, quando a impetração estiver amparada em prova pré-constituída e a matéria não se revestir de complexidade incompatível com a via estreita do remédio constitucional.
+IV. DISPOSITIVO E TESE:
+6. Agravo regimental desprovido.
+Tese de julgamento: 7. O habeas corpus não é a via adequada para discutir incompetência do juízo quando o paciente não está preso, a matéria não foi submetida à instância de origem e demanda análise fático-probatória complexa." (fl. 49)
+Nas razões recursais, a defesa sustenta a incompetência absoluta da Justiça Federal e a ilegitimidade ativa do Ministério Público Federal, ante a ausência de transnacionalidade da conduta e de dano direto a bens da União, em afronta aos arts. 109, IV, e 5º, LIII, da Constituição Federal, bem como ao art. 564, I, do Código de Processo Penal.
+Aduz que a inicial acusatória descreve infração ao art. 48 da Lei n. 9.605/98, atinente à exploração agrícola em áreas consolidadas denominadas "campo de altitude", sem envolver animais silvestres ameaçados, espécimes exóticas ou compromissos internacionais, hipótese que, à luz do Tema 648 do Supremo Tribunal Federal, afasta o interesse da União e, por consequência, a competência da Justiça Federal.
+Segundo argumenta, a nulidade por incompetência absoluta é reconhecível a qualquer tempo e pela via do habeas corpus, quando amparada em prova pré-constituída, consubstanciada no próprio teor da denúncia.
+Pondera que o processamento da ação penal por juízo manifestamente incompetente configura constrangimento ilegal apto a justificar o manejo do habeas corpus mesmo sem prisão efetiva, não havendo supressão de instância, porquanto distribuída exceção de incompetência em 23/2/2026, ainda pendente de análise pelo juízo de origem.
+Requer a concessão da ordem para reconhecer a incompetência absoluta da Justiça Federal e a ilegitimidade ativa do Ministério Público Federal, anular os atos decisórios e determinar a remessa dos autos à Justiça Estadual de Santa Catarina.
+O Ministério Público Federal opinou pela prejudicialidade do recurso, em parecer assim sintetizado:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. EXCEÇÃO DE INCOMPETÊNCIA JULGADA NA ORIGEM. PERDA DO OBJETO.
+RECURSO PREJUDICADO.
+- Resta prejudicada a irresignação, na medida em que o pleito restou supervenientemente decidido em primeira instância, ficando vedada a manifestação dessa Corte sobre a matéria não levada ao conhecimento do Tribunal de origem, sob pena de configurar indevida supressão de instância.
+- Parecer pela prejudicialidade do recurso ordinário." (fl. 68)
+Em petição às fls. 73/76, a defesa aduz que o julgamento da Exceção de Incompetência pelo Juízo de Primeiro Grau é um fato superveniente apto a afastar a supressão de instância, que foi o motivo pelo qual o Tribunal de Origem não enfrentou a tese de incompetência absoluta da Justiça Federal. Apoiada neste argumento, reitera a pretensão de reconhecimento da incompetência absoluta da Justiça Federal para processar e julgar o feito.
+É o relatório.
+Decido.
+A irresignação recursal não merece prosperar.
+Da atenta leitura do acórdão impugnado, verifica-se que o Tribunal de origem não se manifestou expressamente sobre a tese de incompetência absoluta da Justiça Federal e de ilegitimidade ativa do Parquet Federal, pela ausência de enfrentamento da matéria pelo Juízo de origem, no momento do julgamento do writ. Frise-se que o enfrentamento de tais teses em momento posterior, não supre a alegada supressão de instância detectada por ocasião do acórdão prolatado pelo órgão colegiado.
+Desse modo, resta afastada a competência desta Corte Superior para conhecimento da matéria, sob pena de se incorrer em indevida supressão de instância.
+Nesse sentido, são os seguintes precedentes:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ILEGALIDADE INEXISTENTE. OMISSÃO DEVE SER QUESTIONADA VIA EMBARGOS DE DECLARAÇÃO. SUPRESSÃO. AINDA QUE NULIDADE ABSOLUTA. DESÍGNIOS AUTONOMOS. ABSORÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA DO WRIT. AUSÊNCIA DE ARGUMENTOS NOVOS APTOS A ALTERAR A DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão agravada por seus próprios fundamentos.
+II - Ainda que a Defesa alegue que houve o prequestionamento implícito, porquanto ventilou a questão nas peças de defesa, todavia, ante a não manifestação daquela Corte, caberia o manejo dos embargos de declaração, aptos a prequestionar a matéria.
+III - Ausente manifestação do Tribunal sobre a questão de fundo também ora vindicada, incabível a análise de tal matéria, no presente habeas corpus, porquanto está configurada a absoluta supressão de instância quanto ao ponto debatido, ficando impedida esta Corte de proceder à sua análise.
+IV - A instância ordinária, diante do conjunto fático-probatório dos autos, concluiu por provas suficientes à condenação pelos 2 (dois) delitos, como sendo autônomos, bem como a defesa não logrou demonstrar o contrário.
+V - É iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses de insuficiência probatória, de negativa de autoria ou até mesmo de desclassificação, em razão da necessidade de incursão no acervo fático-probatório.
+Agravo regimental desprovido.
+(AgRg no HC n. 823.044/DF, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. WRIT IMPETRADO CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. AUSÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. TEMAS NÃO DEBATIDOS PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. TEMAS DEBATIDOS EM CONSONÂNCIA COM O ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE ILEGALIDADE FLAGRANTE.
+1. Não deve ser conhecido o writ que se volta contra sentença condenatória já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte Superior. Nos termos do art. 105, I, e, da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, as revisões criminais e as ações rescisórias de seus julgados. Precedentes.
+2. A Jurisprudência do Superior Tribunal de Justiça "é pacífica no sentido de que, ainda que se trate de matéria de ordem pública, é imprescindível o seu prévio debate na instância de origem para que possa ser examinada por este Tribunal Superior (AgRg no HC 530.904/PR, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 24/9/2019, DJe de 10/10/2019) - (AgR no HC n. 726.326/CE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 28/3/2022).
+3. Quanto aos temas efetivamente debatidos pela Corte de origem, verifica-se que não há qualquer ilegalidade flagrante a ser sanada, na medida em que o acórdão objurgado se encontra em consonância com a jurisprudência desta Corte, no sentido de que as condenações alcançadas pelo período depurador de 5 anos, previsto no art. 64, inciso I, do Código Penal, afastam os efeitos da reincidência, mas não impedem a configuração de maus antecedentes, permitindo, assim, o aumento da pena-base; bem como de que para a incidência da causa de aumento relativa ao emprego de arma de fogo, dispensável a apreensão e perícia da arma, desde que o emprego do artefato fique comprovado por outros meios de prova. Precedentes.
+4. Agravo regimental improvido.
+(AgRg no HC n. 842.953/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/2/2024, DJe de 8/2/2024.)
+Com o julgamento do presente recurso, a petição de fls. 73/76 está prejudicada.
+Ante o exposto, com fundamento no art. 34, XVIII, "a", do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso ordinário em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
