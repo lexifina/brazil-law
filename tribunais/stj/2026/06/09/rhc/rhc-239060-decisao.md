@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto em favor de DIEGO LIMA SOUZA contra acórdão da 11ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo que não conheceu da impetração originária (HC n. 2019691-58.2026.8.26.0000).
+Sustenta a defesa, inicialmente, a possibilidade de conhecimento do writ, ao argumento de que a impetração foi ajuizada antes mesmo da distribuição do recurso de apelação, inexistindo afronta ao princípio da unirrecorribilidade. Afirma que a controvérsia deduzida no habeas corpus diz respeito a nulidade absoluta relacionada ao reconhecimento pessoal realizado na fase inquisitorial, matéria passível de exame pela via mandamental diante do alegado constrangimento ilegal.
+No mérito, alega nulidade dos reconhecimentos pessoais realizados nos autos, por violação ao art. 226 do Código de Processo Penal, à Resolução 484 do CNJ e ao Tema 1.258 do STJ. Aduz que o recorrente foi submetido a reconhecimento isolado em sede policial, em procedimento do tipo show-up, sem observância das formalidades legais, circunstância confirmada pelos depoimentos colhidos em audiência.
+Argumenta que o reconhecimento judicial posterior não teria aptidão para sanar o vício originário, em razão da contaminação da memória das vítimas pelo procedimento anteriormente realizado, invocando, para tanto, a tese firmada no Tema 1.258/STJ acerca da natureza irrepetível da prova de reconhecimento pessoal.
+Sustenta, ainda, que houve impugnação defensiva quanto à disparidade física entre o recorrente e os figurantes apresentados em audiência, bem como que o acórdão recorrido teria desconsiderado trechos dos depoimentos das vítimas que apontariam a irregularidade do procedimento.
+Requer, ao final, o conhecimento e provimento do recurso ordinário, para que seja reconhecida a nulidade dos reconhecimentos pessoais realizados nos autos, com a consequente concessão da ordem.
+O Ministério Público opinou pela denegação da ordem (e-STJ, fls. 375-380)
+É o relatório.
+Decido.
+A insurgência não merece conhecimento.
+Conforme consignado pelo Tribunal de origem, a defesa interpôs recurso de apelação contra a sentença condenatória, ainda pendente de julgamento, e, paralelamente, impetrou habeas corpus veiculando substancialmente a mesma controvérsia, qual seja, a alegada nulidade dos atos de reconhecimento pessoal produzidos na persecução penal.
+Nessa perspectiva, a utilização simultânea de habeas corpus e recurso próprio ainda pendente de apreciação recomenda contenção procedimental, a fim de evitar o exame paralelo da mesma insurgência por vias autônomas. Embora o writ possua estatura constitucional e não ostente natureza recursal, sua utilização concomitante ao recurso cabível não pode conduzir à duplicidade de apreciação jurisdicional da mesma controvérsia, sob pena de comprometimento da racionalidade do sistema processual e de esvaziamento da organicidade recursal delineada pela legislação processual penal.
+Assim, a impetração concomitante de habeas corpus e recurso próprio somente se admite em hipóteses excepcionais, especialmente quando houver pretensão autônoma diretamente relacionada à tutela imediata da liberdade de locomoção, o que não se verifica na hipótese.
+No caso, o próprio acórdão recorrido consignou expressamente que a matéria relacionada à validade dos reconhecimentos pessoais será objeto de exame aprofundado por ocasião do julgamento da apelação já interposta.
+Desse modo, além de inexistir pronunciamento exauriente da Corte local sobre a tese defensiva deduzida neste recurso ordinário, observa-se que a controvérsia já se encontra submetida ao órgão jurisdicional competente para o julgamento do recurso cabível, circunstância que desaconselha a apreciação simultânea da mesma insurgência por via autônoma.
+A jurisprudência desta Corte Superior orienta-se no sentido de que a utilização concomitante de habeas corpus e recurso de apelação, versando sobre a mesma controvérsia, não autoriza, em regra, a apreciação paralela da matéria, especialmente quando ausente situação excepcional de flagrante ilegalidade.
+Na hipótese, não se verifica ilegalidade manifesta apta a justificar mitigação excepcional da orientação consolidada desta Corte.
+Ante o exposto, não conheço do recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
