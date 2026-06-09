@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por ALAN SANTOS DE QUEIROZ contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO - HC n. 5001315-71.2026.8.08.0000.
+Extrai-se dos autos que recorrente responde pela prática do crime de homicídio qualificado (art. 121, § 2º, I e IV, c/c art. 29, do Código Penal).
+A defesa impetrou habeas corpus perante o Tribunal de origem, o qual não conheceu da ordem, nos termos do acórdão de fls. (e-STJ, fls. 65-79).
+Nesta sede, a defesa alega, em síntese, que: a) não obstante o v. acórdão proferido pela 1ª Câmara Criminal tenha deixado de conhecer da impetração, ao fundamento de inadequação da via eleita, por se tratar de habeas corpus manejado como sucedâneo de recurso em sentido estrito, a própria decisão, em consonância com a jurisprudência do Superior Tribunal de Justiça e do Supremo Tribunal Federal, admite a superação desse óbice formal nas hipóteses de flagrante ilegalidade ou teratologia (e-STJ, fls. 83-84); b) no caso concreto, a ilegalidade é manifesta e pode ser aferida de plano, sem necessidade de revolvimento aprofundado do conjunto fático-probatório (e-STJ, fl. 84); c) consta expressamente que a genitora da vítima não reconhece o paciente, sequer o conhece, e que a única testemunha presencial não o menciona em nenhuma circunstância. Assim, a narrativa acusatória se sustenta exclusivamente em versões contraditórias e rumores de terceiros, evidenciando a fragilidade absoluta dos elementos de autoria (e-STJ, fl. 84); d) submeter o paciente a julgamento pelo Tribunal do Júri com base apenas em prova indireta, boatos e conjecturas viola o devido processo legal, a presunção de inocência e o standard probatório mínimo exigido pelos artigos 413 e 414 do Código de Processo Penal (e-STJ, fl. 84); e) a orientação do Superior Tribunal de Justiça é firme no sentido de que o testemunho indireto, desacompanhado de outros elementos, não se presta a fundamentar decisões gravosas (e-STJ, fl. 84); f) diante da inexistência de indícios suficientes de autoria, impõe-se a concessão da ordem de ofício para declarar a nulidade da decisão de pronúncia e determinar a despronúncia do paciente, nos termos do artigo 414 do Código de Processo Penal (e-STJ, fls. 86-87).
+Requer, ao final, o conhecimento e provimento do presente recurso para reformar o acórdão recorrido e determinar a despronúncia do acusado, nos termos do art. 414, caput, do Código de Processo Penal; subsidiariamente, a anulação do acórdão recorrido, com retorno dos autos ao Tribunal de origem para análise do mérito do writ (e-STJ, fls. 87-88).
+O Ministério Público Federal opina pelo não conhecimento do recurso ordinário (e-STJ, fls. 103-107).
+É o relatório.
+Decido.
+O Tribunal de origem assim entendeu acerca da matéria:
+"A jurisprudência do Pretório Excelso e do Superior Tribunal de Justiça é uníssona quanto à impossibilidade de utilização de habeas corpus como sucedâneo recursal, salvo em hipóteses de flagrante ilegalidade e teratologia. No caso dos autos, o manejo deste writ revela-se inadequado, pois a pretensão da defesa deve ser formulada em via própria, ou seja, em recurso em sentido estrito, nos termos do artigo 581, IV, do Código de Processo Penal.
+Ademais, o paciente foi submetido ao Tribunal do Júri, sendo condenado pela prática de homicídio qualificado.
+A despeito desta Primeira Câmara Criminal ter decidido, à unanimidade, em 17/12/2025, pela anulação da sentença condenatória, "determinando o retorno dos autos à origem, a fim de que seja realizada, com urgência, a Sessão do Júri, para colheita dos depoimentos das testemunhas e dos interrogatórios dos réus, e, após, prolatada nova sentença", em razão de que problemas técnicos com a mídia "JÚRI DO DIA 10-04-2023", é certo que não tem o condão de afastar a pronúncia do paciente, nesta via, pois ausentes flagrante ilegalidade ou teratologia" (e-STJ, fl. 78).
+Com relação à matéria tratada nos autos, observa-se que não foi objeto de julgamento no acórdão impugnado, o que impede seu conhecimento por este Tribunal Superior, sob pena de indevida supressão de instância, consoante entendimento desta Corte Superior:
+"(..).
+4. Quanto ao pleito de substituição da prisão preventiva pela domiciliar, sua análise implicaria supressão de instância, tendo em vista que a matéria não foi examinada pelo Tribunal de origem.
+(..)."
+(AgRg no HC n. 950.835/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/2/2025, DJEN de 13/2/2025).
+"(..).
+5. A alegada violação aos princípios da ampla defesa e do contraditório, sob o argumento de que "a defesa técnica, por não ter sido regularmente intimada da data de realização da sessão de julgamento, foi impedida de exercer um de seus direitos mais fundamentais: o de realizar a sustentação oral perante o tribunal" (e-STJ fl. 179), não foi debatida pelo Tribunal de origem, o que impede sua análise por esta Corte Superior, sob pena de indevida supressão de instância.
+6. Agravo regimental desprovido."
+(AgRg no RHC n. 206.031/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/12/2024, DJEN de 23/12/2024).
+Quanto ao pleito subsidiário de retorno dos autos ao Tribunal de origem, tampouco assiste razão à defesa, na medida em que consignado no acórdão impugnado a inocorrência de flagrante ilegalidade.
+Demais disso, note-se que na hipótese já havia ocorrido julgamento pelo Tribunal do Júri, o qual foi anulado em acordão de apelação, estando a nova sessão plenária marcada para 31/8/2026, consoante HC 1068230.
+Ante o exposto, não conheço o recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
