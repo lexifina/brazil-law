@@ -1,0 +1,12 @@
+DECISÃO
+O requerente noticia que, após o julgamento do habeas corpus pelo Tribunal de Justiça do Estado do Rio Grande do Sul e a prolação do ato apontado como coator, o paciente "submeteu-se a uma cirurgia de urgência no dia 21/5/2026, sendo que a prescrição médica era para que  ..  fosse removido para repouso por 14 dias em local salubre" (fl. 103), o que não ocorreu. Depois, foi constatada a necessidade de repouso domiciliar ante superveniente quadro de infecção pós-operatória.
+Apesar do protocolo da petição, a impetração já foi analisada e decidida às fls. 97-102, à luz da situação fático-processual então existente.
+A superveniência de fatos novos (cirurgia e quadro de infecção pós-operatória) deve ser indicada ao Juiz natural da causa, pois não preclui seu poder de reexaminar as exigências cautelares do caso concreto.
+Conforme constou da decisão de fls. 97-102, "a alegação de que o paciente retornou, após a cirurgia, a cela lotada e sem condições adequadas para o pós-operatório é inédita e deve ser dirigida ao Juiz natural da causa, a quem compete verificar, com apoio em informações atualizadas da unidade prisional e, após a manifestação do Ministério Público, se o local dispõe de condições adequadas ao cumprimento das prescrições médicas" (fl. 100).
+As novas alegações, porque nunca antes apreciadas na origem, não podem ser conhecidas diretamente nesta via, "pois, sob pena de violação do art. 105 da CF, não pode este Superior Tribunal de Justiça decidir sobre a matéria, haja vista a supressão de instância" (fl. 102).
+Ademais, a autoridade judiciária de primeiro grau está mais bem posicionada para reavaliar, de forma atualizada, a necessidade e a adequação da prisão domiciliar, pois se encontra mais próxima da realidade carcerária. O Juiz pode, inclusive, determinar a realização de perícia ou requisitar informações complementares ao estabelecimento prisional, providências incabíveis neste habeas corpus.
+Desse modo, não há providência a ser adotada por esta Corte quanto ao ponto, sem prejuízo de que a defesa formule o pedido perante o Juízo de primeiro grau competente.
+A análise direta da pretensão mostra-se incabível, seja porque configuraria indevida supressão de instância, seja porque suprimiria a oportunidade de participação dialética do órgão acusatório em controvérsia fática que demanda instrução mínima e eventual produção de prova para adequada resolução.
+À vista do exposto, não conheço do pedido de fls. 256-257.
+Publique-se e intimem-se.
+EMENTA
