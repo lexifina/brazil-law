@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de JESSI DE LIMA DAMASIO - condenada como incursa nos crimes de associação criminosa e lavagem dinheiro (Ação Penal n. 1500798-89.2021.8.26.0311) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, não comporta processamento.
+Com efeito, busca a impetração a revogação da segregação cautelar imposta à paciente na sentença proferida pelo Juízo de Direito da Vara Única da comarca de Junqueirópolis/SP, ao argumento de que é evidente que a instrução criminal já teve seu fim, uma vez que os autos encontram-se em grau recursal, tendo sido prolatada a sentença condenatória em 15/04/2024, de modo que tal fundamento não mais se subsiste. Tampouco a garantia da ordem pública é fundamento para a decretação da prisão de Jessi, haja vista a inexistência de qualquer indício concreto de que persistência das atividades criminosas (fl. 6).
+Ocorre que, do atento exame da sentença condenatória, observa-se que o Magistrado singular consignou que tendo em vista que a ré JESSI permaneceu em local desconhecido ao longo da instrução processual, tendo mandado de prisão pendente e que o réu ALTAMIR se encontra preso, bem como o réu ERIC LUÍS respondeu ao processo preso, nego-lhes o direito de recorrerem em liberdade, atentando-se que as penas ora fixadas corroboraram com os fundamentos de fato e de direito que ensejaram a decretação da prisão preventiva (fl. 147).
+Conforme entendimento desta Corte, a fuga do distrito da culpa durante a instrução criminal é fundamento q ue justifica a prisão cautelar, pois denota a intenção do agente em se furtar à aplicação da lei penal (AgRg no RHC n. 142.816/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/9/2021, DJe de 17/9/2021).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA E LAVAGEM DE DINHEIRO. NEGATIVA DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO. FUGA DO DISTRITO DA CULPA. MANDADO DE PRISÃO EM ABERTO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
