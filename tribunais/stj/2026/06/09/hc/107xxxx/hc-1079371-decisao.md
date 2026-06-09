@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor do paciente HUGO CÉSAR BRAGA FILHO, tendo apontado como autorida de coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+O paciente foi preso em flagrante no dia 13/01/2026, pela suposta prática do delito previsto no artigo 33, caput, da Lei 11.343/06.
+Na audiência de custódia, converteu-se o flagrante em prisão preventiva.
+Na presente impetração, afirma-se que o paciente está sofrendo constrangimento ilegal, e postula-se pela revogação da medida constritiva, sem prejuízo de decretação de medidas alternativas, na forma do artigo 319 do Código de Processo Penal.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus.
+É o relatório. DECIDO.
+O presente writ foi impetrado contra acórdão em substituição a recurso próprio, razão pela qual não deve ser conhecido, nos termos da jurisprudência do Superior Tribunal de Justiça (AgRg no HC n. 738.224/SP Quinta Turma, Min. Rel. Joel Ilan Paciornik, DJe de 12/12/2023; e AgRg no HC n. 857.913/SP, Quinta Turma, Min. Rel. Ribeiro Dantas, DJe de 1/12/2023; AgRg no HC 936880 / SP, Quinta Turma, de minha relatoria, DJe 19/09/2024).
+Ademais, da análise detida dos autos, não vislumbro a presença de teratologia ou coação ilegal que justifique a concessão da ordem de ofício, nos termos do parágrafo 2º, do artigo 654, do Código de Processo Penal.
+Compulsando os autos, verifico que a custódia cautelar atende ao regramento legal pertinente, previsto no art. 312 do Código de Processo Penal. Conforme adequadamente pontuou o parecer ministerial (fl. 65), a prisão é "concreta e devidamente fundamentada no risco de reiteração delitiva do réu ora paciente já responsabilizado por atos infracionais pretéritos análogos a narcotráfico, além dos entorpecentes apreendidos (19,11g de maconha e 2,62g de crack), justificando assim a manutenção da cautelar preventiva para garantia ordem pública, nos termos do artigo 312 do CPP."
+Outrossim, o Tribunal a quo observou que há fundado receio de reiteração delitiva e perigo concreto para a ordem social, consoante fl. 15:
+"Em que pese a quantidade das drogas apreendidas não seja das mais elevadas (19,11g de maconha e 2,62g de "crack"), tampouco pode ser considerada insuficiente para, no contexto das circunstâncias em que se deram os fatos, afastar os indícios de que se destinam à comercialização, nos limites da cognição própria da análise dos requisitos da prisão preventiva. Insta consignar que, além do tráfico de drogas, que envolve duas espécies de substâncias, uma delas de alto poder deletério ("crack"), as condutas praticadas, em tese, pelo paciente encontram subsunção nas normas dos artigos 330 do Código Penal e 309 da Lei nº 9.503/97 (desobediência e condução de veículo automotor sem habilitação).
+É assente o entendimento desta Corte Superior de que "a prisão preventiva pode ser mantida quando fundamentada na gravidade concreta do delito e na periculosidade do agente. Condições pessoais favoráveis não afastam a necessidade de prisão preventiva quando presentes os requisitos do art. 312 do CPP. Medidas cautelares alternativas são inviáveis quando a gravidade da conduta não assegura a ordem pública" (AgRg no RHC: 206776 SP 2024/0412697-5, de minha relatoria, 19/02/2025, Quinta Turma, DJe 24/02/2025).
+Com efeito, diante da necessidade de resguardo da ordem pública e da aplicação da lei penal, não se afigura aconselhável, por ora, a substituição da custódia cautelar por nenhuma das medidas cautelares diversas da prisão enumeradas no art. 319 do Código de Processo Penal.
+Não há, portanto, qualquer constrangimento ilegal decorrente do ato judicial impugnado.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
