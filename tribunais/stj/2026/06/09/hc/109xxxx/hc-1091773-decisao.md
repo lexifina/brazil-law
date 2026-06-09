@@ -1,0 +1,12 @@
+DECISÃO
+O presente writ, impetrado em benefício de LUIZ AGENOR DE JESUS HAHN - condenado como incurso no crime de furto qualificado - apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Apelação Criminal n. 5002147-39.2023.8.24.0041), não comporta acolhimento.
+Busca a impetração a absolvição do paciente na ação penal que tramitou perante o Juízo de Direito da Vara Criminal da comarca de Mafra/SC, ao argumento de nulidade decorrente de ofensa ao disposto no art. 226 do Código de Processo Penal, bem como a ausência de outras provas suficientes para a comprovação da autoria delitiva.
+Ocorre que, além de se tratar de habeas corpus destinado a revisar condenação transitada em julgado, o que é inadmissível, consoante jurisprudência desta Corte Superior, o não cabimento do writ substitutivo de revisão criminal é corroborado quando o impetrante não indica que as razões de pedir estão previstas em alguma das hipóteses do art. 621 do CPP, como no presente caso (HC n. 829.748/GO, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 11/12/2023).
+Ademais, inexiste ilegalidade flagrante que justifique a superação dos óbices constatados, pois o reconhecimento (fotográfico e pessoal), ainda que, por ventura, contenha algum vício, não se afigura como um único elemento probatório que lastreia a denúncia, que se encontra amparada em outras provas independentes (independent source), reclamando-se, assim, a aplicação da ressalva contida no próprio leading case da Sexta Turma desta Corte, firmado no julgamento do HC n. 598.886/SC ( AgRg no HC 779.678/SC, Ministra Laurita Vaz, Sexta Turma, DJe 30/11/2022).
+No caso, a Corte estadual destacou que, além de ter sido reconhecido pelo vizinho da vítima, o acusado foi condenado pela prática de outro crime de furto qualificado na mesma data de 11 de janeiro de 2022, por volta da meia-noite, em local próximo (Ação Penal n. 5000291-74.2022.8.24.0041) (fl. 25).
+Tal o contexto, o entendimento adotado pela instância a quo se coaduna com a jurisprudência deste STJ e obter entendimento diverso ensejaria profundo revolvimento fático-probatório, providência incabível na via estreita do habeas corpus.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. FURTO QUALIFICADO. CONDENAÇÃO TRANSITADA EM JULGADO. PRETENSÃO DE REVISÃO. INADMISSIBILIDADE. RECONHECIMENTO PESSOAL. PROVAS INDEPENDENTES. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
