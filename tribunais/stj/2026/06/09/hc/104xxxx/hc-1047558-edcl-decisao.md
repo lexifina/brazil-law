@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Marcelo Braz e Julio Cesar Valente à decisão monocrática de fls. 6.608/6.610, assim ementada:
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. CORRUPÇÃO PASSIVA E FALSIDADE IDEOLÓGICA. SUPERVENIÊNCIA DE DECISÕES EM RECLAMAÇÕES. DETERMINAÇÃO DE DESENTRANHAMENTO DOS AUTOS DA REVISÃO CRIMINAL DE PROVAS DECLARADAS ILÍCITAS NO RHC N. 147.669/SP. NECESSIDADE DE REEXAME DO ACERVO PROBATÓRIO REMANESCENTE PELA INSTÂNCIA DE ORIGEM. PERDA DE OBJETO. AUSÊNCIA DE INTERESSE PROCESSUAL.
+Writ prejudicado.
+Sustentam os embargantes omissão quanto ao exame do pedido de anulação da denúncia, da sentença e do acórdão condenatório. Alegam que tais atos valoram interceptações telefônicas declaradas ilícitas por esta Corte e transcrevem trechos da denúncia, da sentença e do acórdão que citam as interceptações.
+Aduzem, ainda, omissão sobre a contaminação por derivação. Argumentam que todas as demais provas decorreram das interceptações ilícitas. Requerem o desentranhamento das provas derivadas e a análise do nexo causal na origem.
+Ressaltam descumprimento de decisões proferidas nas Reclamações n. 50.479 e n. 50.480 pela Justiça Militar. Juntam decisão monocrática terminativa da revisão criminal que desentranhou peças apenas na revisão e indeferiu novo julgamento, com referência ao trânsito em julgado do acórdão revisional.
+Ao final, requerem o acolhimento dos embargos com efeitos infringentes para afastar a prejudicialidade e apreciar a anulação da denúncia, da sentença e do acórdão (fls. 6.619/6.620).
+É o relatório.
+Como é sabido, nos termos do comando normativo insculpido no art. 619 do CPP, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou ambiguidades eventualmente existentes no provimento judicial.
+No caso, os embargos não prosperam.
+O ato embargado reconheceu a superveniência de decisões desta Corte nas Reclamações n. 50.479 e n. 50.480, as quais determinaram o desentranhamento das provas ilícitas e das derivadas dos autos da revisão criminal e posterior reexame do acervo remanescente pela instância de origem. Em consequência, concluiu pela perda de objeto e julgou prejudicada a impetração (fls. 6.608/6.610).
+Quanto à alegada omissão sobre a anulação da denúncia, da sentença e do acórdão, a decisão foi clara ao afirmar que caberá à Corte de origem promover o desentranhamento das provas reconhecidas como ilícitas e, na sequência, proceder ao reexame do acervo probatório remanescente, com o objetivo de verificar a subsistência de elementos suficientes para amparar a manutenção das condenações (fl. 6.610) e que a controvérsia se encontra diretamente condicionada ao novo pronunciamento da instância de origem, a ser proferido após a exclusão das provas ilícitas (fl. 6.610). A pretensão embargante busca substituir essa definição por julgamento de mérito imediato, o que se mostra incabível.
+No ponto relativo ao nexo causal e à contaminação por derivação, o ato embargado remeteu o exame à origem, após o desentranhamento, como corolário lógico da determinação proferida nas reclamações (fls. 6.609/6.610). Não há obscuridade ou omissão interna. Há inconformismo com a técnica adotada.
+No mais, a alegação de descumprimento superveniente pela Justiça Militar das decisões proferidas nas Reclamações não se projeta como vício interno da decisão embargada. Trata-se de fato posterior e externo. Deve ser veiculado pela via processual adequada.
+Lembro que embargos de declaração não se prestam à rediscussão do mérito ou à obtenção de pronunciamentos executórios estranhos aos limites objetivos da decisão embargada. Todavia, o que se verifica das razões dos embargos é a tentativa da parte embargante de, por via oblíqua, rediscutir o julgamento, providência descabida na via eleita.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. CORRUPÇÃO PASSIVA E FALSIDADE IDEOLÓGICA. SUPERVENIÊNCIA DE DECISÕES EM RECLAMAÇÕES. DETERMINAÇÃO DE DESENTRANHAMENTO DOS AUTOS DA REVISÃO CRIMINAL DE PROVAS DECLARADAS ILÍCITAS NO RHC N. 147.669/SP. NECESSIDADE DE REEXAME DO ACERVO PROBATÓRIO REMANESCENTE PELA INSTÂNCIA DE ORIGEM. PERDA DE OBJETO. AUSÊNCIA DE INTERESSE PROCESSUAL. INEXISTÊNCIA DE OMISSÃO. INADEQUAÇÃO DA VIA PARA REDISCUSSÃO DO MÉRITO. DECISÃO MANTIDA.
+Embargos de declaração rejeitados.
