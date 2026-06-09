@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrad o em favor de CLEMENTE GALVAO DE ALMEIDA - preso preventivamente e posteriormente denunciado pela prática do crime de organização criminosa (Processo n. 0003096-55.2026.8.16.0013 - Vara da Auditoria da Justiça Militar da comarca de Curitiba/PR - fls. 92/124) -, no qual a defesa aponta como autoridade coatora a 1ª Câmara Criminal do Tribunal de Justiça do Estado do Paraná, que, em 22/5/2026, denegou a ordem no HC n. 0041072-38.2026.8.16.0000 (fls. 45/61).
+Em síntese, o impetrante sustenta flagrante vício de fundamentação do decreto prisional, em frontal desrespeito ao art. 315 do Código de Processo Penal, porquanto limitado a mera reprodução genérica de indícios colhidos na fase investigativa, sem a devida contextualização e demonstração de sua relevância nos eventos delituosos, descurando-se de apontar fatos novos ou contemporâneos que pudessem justificar a medida constritiva mais gravosa. Ressalta que o decisum em comento não logrou êxito em indicar qualquer elemento que apontasse para um risco concreto de fuga, de interferência na instrução criminal ou de reiteração delitiva (fl. 23).
+Aponta a ausência dos requisitos legais autorizadores da prisão preventiva previstos no art. 312 do Código de Processo Penal, bem como a desnecessidade e desproporcionalidade da segregação cautelar, diante das condições pessoais favoráveis do paciente - possui residência fixa e comprovada, histórico de trabalho estável como aposentado e exercia um cargo de confiança na prefeitura municipal de Umuarama/PR (fl. 26).
+Aduz, por fim, a adequação e suficiência, in casu, da aplicação de medidas cautelares alternativas diversas da prisão (art. 319 do CPP).
+Requer, inclusive em caráter liminar, a revogação da prisão preventiva, com imposição de medidas cautelares alternativas.
+Requisitadas as informações ao Juízo processante, antes da análise do pleito liminar (fl. 878), com pronunciamento às fls. 885/887.
+É o relatório.
+O presente writ não comporta conhecimento.
+Isso porque denota-se da decisão que decretou a prisão preventiva que o suposto crime investigado e posteriormente denunciado pelo Parquet teria sido praticado por militar estadual da reserva, compreendendo ao que tudo indica dinâmica de organização criminosa, com conhecimento sobre a estrutura e o funcionamento de organizações voltadas à prática de contrabando na região, além de possível interlocução com outros grupos criminosos atuantes no mesmo contexto, em nítida violação dos interesses da ordem de Administração Militar (efetiva ofensa à instituição militar), atraindo a competência especializada castrense, nos moldes do disposto no art. 9º, III, "a", do Código Penal Militar.
+Sob esta moldura, não conheço deste habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. OFERECIMENTO DE DENÚNCIA. CRIME SUPOSTAMENTE PRATICADO POR POLICIAL MILITAR NA RESERVA. NÍTIDA VIOLAÇÃO DOS INTERESSES DA ORDEM DE ADMINISTRAÇÃO MILITAR. INCIDÊNCIA DO DISPOSTO NO ART. 9º, III, "A", DO CPM. CARACTERIZAÇÃO DE CRIME DE NATUREZA MILITAR. COMPETÊNCIA DA JUSTIÇA CASTRENSE. INVIABILIDADE DE CONHECIMENTO.
+Writ não conhecido.
