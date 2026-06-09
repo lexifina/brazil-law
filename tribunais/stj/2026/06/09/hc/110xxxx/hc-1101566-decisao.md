@@ -1,0 +1,79 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de WILLIAM DA SILVA SEIBERT contra acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul.
+Consta dos autos que o paciente foi preso em flagrante pela suposta prática do crime do art. 33, caput, da Lei n. 11.343/2006, sendo-lhe concedida liberdade provisória, com a imposição de medidas cautelares diversas da prisão.
+Em 9/1/2026, o Juiz de primeiro grau rejeitou a denúncia pela ausência de justa causa para o exercício da ação penal, ao considerar ilícita a prova obtida por meio da busca pessoal.
+Irresignado, o Ministério Público interpôs recurso em sentido estrito, que foi provido, nos moldes da seguinte ementa:
+"DIREITO PENAL. APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. REJEIÇÃO DA DENÚNCIA. AUSÊNCIA DE JUSTA CAUSA. RECURSO PROVIDO.
+I. CASO EM EXAME
+1. Apelação interposta pelo Ministério Público contra decisão que rejeitou a denúncia contra o acusado pela prática do crime de tráfico de drogas, previsto no artigo 33, caput, da Lei nº 11.343/06, sob o fundamento de ausência de justa causa, considerando ilícita a prova obtida por busca pessoal sem fundada suspeita.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar a presença de justa causa para a deflagração da ação penal, especialmente quanto à legalidade da busca pessoal que resultou na apreensão de entorpecentes em poder do acusado.
+III. RAZÕES DE DECIDIR
+3. O recebimento da denúncia exige apenas um juízo de probabilidade, não de certeza, sobre a autoria e materialidade do delito, sendo suficiente a existência de indícios que tornem a imputação plausível.
+4. A materialidade delitiva está demonstrada pelo auto de apreensão e pelos laudos que atestam a natureza entorpecente das substâncias.
+5. A busca pessoal foi considerada lícita, pois a abordagem policial foi motivada por informações específicas de populares e pela atitude evasiva do acusado, configurando fundada suspeita nos termos do art. 244 do CPP.
+6. A decisão de rejeição da denúncia antecipou indevidamente a análise aprofundada da prova, que deve ocorrer durante a instrução processual, sob o contraditório e a ampla defesa.
+7. A denúncia está formalmente perfeita e amparada por elementos que indicam a ocorrência do crime e sua autoria, justificando a instauração da ação penal.
+IV. DISPOSITIVO E TESE
+Recurso provido para receber a denúncia e determinar o regular prosseguimento do feito.
+Tese de julgamento: A denúncia deve ser recebida quando amparada por indícios suficientes de autoria e materialidade, sendo a análise aprofundada da prova reservada para a instrução processual.
+Dispositivos relevantes citados:CPP, art. 244;Lei nº 11.343/06, art. 33, caput.
+Jurisprudência relevante citada:STF, ARE 1510414 AgR, Rel. Min. Gilmar Mendes, j. 21-10- 2024;STJ, AgRg no AR Esp 2.786.043/SP, Rel. Min. Ribeiro Dantas, j. 4-2-2025." (e-STJ, fls. 21-22)
+Neste writ, alega a impetrante, em síntese, ausência de justa causa para ação penal, na medida em que a denúncia está amparada em prova obtida em busca pessoal inválida.
+Pontua que delação anônima, desacompanhada de diligências preliminares, não legitima a busca pessoal, por força da vedação constitucional ao anonimato (art. 5º, IV, da Constituição da República), e não configura fundada suspeita (fls. 5-6).
+Afirma que a simples mudança de direção ao avistar a viatura é comportamento ambíguo, incapaz de caracterizar fundada suspeita (art. 244 do Código de Processo Penal), sendo insuficiente para justificar a revista (fls. 5-6).
+Destaca que a materialidade e os demais elementos são derivados de prova ilícita, contaminando a persecução e evidenciando a ausência de justa causa (art. 395, III, do Código de Processo Penal), o que autoriza o trancamento da ação penal por habeas corpus (fls. 4-7).
+Requer, assim, o trancamento da ação penal, restabelecendo-se a decisão que rejeitou a denúncia .
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+É consolidado na jurisprudência desta Casa o entendimento de que o trancamento de ação penal, inquérito policial ou procedimento investigativo por meio do habeas corpus é medida excepcional. Por isso, será cabível somente quando houver inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito. Cito precedentes:
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRANCAMENTO DE AÇÃO PENAL. PECULATO. DIRIGENTES DE ENTIDADE DO SISTEMA S. FUNCIONÁRIO PÚBLICO POR EQUIPARAÇÃO. EMENDATIO LIBELLI.
+1. O trancamento da ação penal por meio de habeas corpus constitui medida excepcional, somente cabível quando demonstrados de plano, sem necessidade de dilação probatória, a atipicidade da conduta, a ausência de indícios mínimos de autoria ou materialidade, a ocorrência de causa de extinção da punibilidade ou a manifesta inépcia da denúncia.
+2. A atipicidade formal que autoriza o trancamento da ação penal exige que o comportamento descrito na denúncia não se amolde ao tipo penal indicado nem a qualquer outro tipo incriminador, tornando o fato em si não criminoso, o que não se verifica na hipótese.
+3. No caso concreto, há controvérsia jurídica quanto à aplicação da figura do funcionário público por equiparação, prevista no art. 327, § 1º, do Código Penal, aos dirigentes de entidades do Sistema S, discussão que, por sua natureza controvertida e dependente de exame mais aprofundado, não se compatibiliza com o caráter sumário do habeas corpus para fins de trancamento da ação penal.
+4. Mesmo que se afaste a equiparação a servidor público, subsiste a possibilidade de emendatio libelli, com eventual enquadramento da conduta em tipo penal subsidiário correspondente (como furto, apropriação indébita ou outro delito patrimonial), pois o réu se defende dos fatos imputados na denúncia e não da capitulação jurídica conferida. 5.
+Ordem denegada.
+(HC n. 1.071.153/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/4/2026, DJEN de 27/4/2026.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRANCAMENTO DE AÇÃO PENAL. TRÁFICO DE DROGAS. ELEMENTOS CONCRETOS INDICATIVOS DE COMERCIALIZAÇÃO. REEXAME DE PROVA. AGRAVO DESPROVIDO
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus impetrado em favor de acusado denunciado por tráfico de drogas, com pedido de trancamento da ação penal por ausência de justa causa.
+2. O agravante foi preso em sua residência na posse de 8 porções de maconha, com peso de 27,40g, alegadamente destinadas ao consumo próprio. A defesa invoca o Tema 506 do STF, que estabelece presunção de uso pessoal para apreensões de até 40g de maconha.
+3. A decisão monocrática não conheceu do habeas corpus, considerando a ausência de flagrante ilegalidade apta a justificar o trancamento da ação penal.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se há flagrante ilegalidade que justifique o trancamento da ação penal, considerando a alegação de atipicidade da conduta e a aplicação do Tema 506 do STF.
+III. RAZÕES DE DECIDIR
+5. A presunção de uso pessoal de drogas estabelecida no Tema 506 do STF é relativa e pode ser afastada por elementos concretos que indiquem mercancia ilícita.
+6. O trancamento da ação penal pela inexistência de justa causa é medida excepcional, cabível apenas quando demonstrada, de plano e sem necessidade de dilação probatória, a total ausência de indícios de autoria e prova da materialidade delitiva, a atipicidade da conduta ou a existência de alguma causa de extinção da punibilidade, o que não ocorre na hipótese.
+7. A análise da atipicidade da conduta e da ausência de justa causa para a ação penal exige reexame de fatos e provas, providência incompatível com a via estreita do habeas corpus.
+IV. DISPOSITIVO E TESE
+8. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. A presunção de uso pessoal de drogas estabelecida no Tema 506 do STF é relativa e pode ser afastada por elementos concretos que indiquem mercancia ilícita. 2. O trancamento da ação penal pela inexistência de justa causa é medida excepcional, cabível apenas quando demonstrada, de plano e sem necessidade de dilação probatória, a total ausência de indícios de autoria e prova da materialidade delitiva, a atipicidade da conduta ou a existência de alguma causa de extinção da punibilidade. 3. O reexame de fatos e provas é incompatível com a via do habeas corpus.
+Dispositivos relevantes citados:
+Código de Processo Penal, art. 41; Código Penal, art. 28, § 2º; Lei n. 11.343/2006.
+Jurisprudência relevante citada:STF, RE 635.659/SP, Rel. Min. Gilmar Mendes, Plenário, julgado em 23/06/2024; STJ, AgRg no HC 977.690/SP, Rel. Min. Messod Azulay Neto, julgado em 11/3/2025; AgRg no RHC n. 203.275/BA, Min. Joel Ilan Paciornik, julgado em 21/5/2025.
+(AgRg no HC n. 955.957/PB, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 9/12/2025, DJEN de 18/12/2025.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. DENÚNCIA. ART. 155, § 4.º, INCISO II, DO CÓDIGO PENAL. TRANCAMENTO DA AÇÃO PENAL. ALEGAÇÃO DE ATIPICIDADE DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICÁVEL. FORMA QUALIFICADA DO DELITO. ACUSADO REINCIDENTE. AGRAVO REGIMENTAL DESPROVIDO. - "O trancamento de ação penal pela via de habeas corpus, ou do recurso que lhe faça as vezes, é medida de exceção, só admissível quando emerge dos autos, sem a necessidade de exame valorativo do conjunto fático ou probatório, a atipicidade do fato, a ausência de indícios que fundamentaram a acusação, a extinção da punibilidade ou a inépcia formal da denúncia" (AgRg no RHC n. 124.325/MG, Rel. Min. LAURITA VAZ, Sexta Turma, julgado em 28/6/2022, DJe de 1/7/2022).  ..  - Agravo regimental desprovido. (AgRg no HC n. 814.574/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/6/2023, DJe de 7/6/2023.)
+O acórdão do Tribunal de origem consignou o seguinte ao prover o recurso ministerial:
+"É cediço que o recebimento da denúncia constitui um juízo de admissibilidade da acusação, no qual se afere, de modo preliminar, a presença das condições da ação e dos pressupostos processuais, bem como a existência de um lastro probatório mínimo que justifique a instauração do processo penal.
+Nesta fase, não se exige um juízo de certeza sobre a autoria e a materialidade do delito, mas sim um juízo de probabilidade, fundado em elementos informativos que tornem a imputação plausível.
+A justa causa, portanto, materializa-se na existência de prova da materialidade e de indícios suficientes de autoria, conforme se extrai do artigo 395, inciso III, do Código de Processo Penal. A análise exauriente do mérito probatório, com a valoração aprofundada dos elementos de convicção e a formação de um juízo de certeza, é matéria reservada à sentença, a ser proferida após a devida instrução processual, sob o crivo do contraditório e da ampla defesa.
+No caso concreto, a denúncia ofertada pelo Ministério Público descreve, de forma pormenorizada, fato que, em tese, amolda-se à figura típica do tráfico de drogas, preenchendo, assim, os requisitos formais do artigo 41 do Código de Processo Penal.
+A materialidade delitiva encontra-se demonstrada, em cognição sumária, pelo auto de apreensão, que descreve a arrecadação de 156 porções de cocaína e 40 porções de crack (evento 1, DOC4), e pelos laudos de constatação da natureza das substâncias, que atestaram se tratar de entorpecentes de uso proscrito (evento 33, DOC3 e evento 33, DOC4).
+Entretanto, o ponto central da controvérsia reside na fundamentação adotada para a rejeição da peça portal, especialmente no que se refere à validade da obtenção da prova e à legalidade da busca pessoal realizada pelos agentes policiais.
+No ponto, a decisão recorrida considerou que a abordagem se baseou exclusivamente em "delação apócrifa", o que não seria suficiente para configurar a "fundada suspeita" exigida pelo artigo 244 do Código de Processo Penal.
+Contudo, uma análise detida do contexto fático narrado nos autos do inquérito policial revela uma conjuntura mais complexa e que, sob uma perspectiva preliminar de admissibilidade da acusação, legitima plenamente a atuação dos agentes estatais.
+A busca pessoal, nesse estágio processual, deve ser considerada lícita, sustentada por um conjunto harmônico e objetivo de elementos que ultrapassam a mera subjetividade ou a aleatoriedade da ação policial.
+Os elementos informativos coligidos nos autos demonstraram que a guarnição policial, em patrulhamento de rotina em local conhecido por ser ponto de tráfico de drogas, foi interpelada por populares que forneceram informações detalhadas sobre um indivíduo com as características do apelado, que estaria carregando uma sacola com drogas.
+A verossimilhança dessa notícia-crime foi corroborada pela observação direta dos policiais, que avistaram um indivíduo com as características descritas. Adicionalmente, o comportamento do recorrido ao avistar a viatura policial, ao tentar evadir do local e mudar repentinamente a direção, somou-se aos indícios preexistentes, solidificando a fundada suspeita.
+Tais circunstâncias - as informações prévias, a observação e a atitude evasiva do acusado - configuram, para fins preliminares, indícios objetivos que justificam a busca pessoal, nos termos do artigo 244 do Código de Processo Penal.
+Assim, ainda que a diligência tenha se originado de informações prestadas por populares que não se identificaram, a jurisprudência pátria admite a validade do procedimento investigatório que delas decorre, desde que corroborado por diligências posteriores que confirmem a verossimilhança da notícia, o que, como já exaustivamente demonstrado, ocorreu no caso em tela." (e-STJ, fls. 11-12)
+Como se vê, ao contrário do que alega a defesa, o julgado destaca o dever de cautela, diante do risco de trancamento em fase prematura da ação penal. Não se pode cercear a produção de provas, pois pode o Ministério Público, no âmbito da instrução processual, apontar outras evidências acerca da autoria e materialidade, providência que restaria obstada se adotado indiscriminadamente esse proceder.
+A narrativa constante da peça acusatória indica que o paciente foi preso em flagrante com 156 porções de cocaína e 40 porções de crack, após abordagem policial supostamente justificada em elementos objetivamente considerados. Os policiais teriam recebido uma denúncia de populares de que um indivíduo com determinadas características estaria carregando uma sacola com drogas. Ao avistar a viatura policial, o réu tentou "evadir do local e mudar repentinamente a direção", concluindo a Corte de origem que tais fatos "somados aos indícios preexistentes, solidificando a fundada suspeita." (e-STJ, fl. 12)
+Esses elem entos permitem, neste juízo de prelibação, concluir pela subsunção da conduta ao art. 33, caput, da Lei n. 11.343/2006, o que justifica o prosseguimento da persecução penal.
+Ante o exposto, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
