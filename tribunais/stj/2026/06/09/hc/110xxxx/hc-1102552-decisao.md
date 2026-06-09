@@ -1,0 +1,9 @@
+DECISÃO
+MICHELE HOPPE alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul no HC n. 51285102820268217000.
+Nesta Corte Superior, a defesa busca a revogação da custódia cautelar da paciente ou sua substituição por medidas cautelares diversas da prisão, ao argumento de ausência de fundamentação idônea para justificar a medida extrema. Subsidiariamente, requer o restabelecimento da prisão domiciliar anteriormente revogada, em razão de sua condição de genitora de quatro filhos menores de idade e da possibilidade de fiscalização por meios menos gravosos. Sustenta, ainda, que a unidade prisional em que se encontrava recolhida foi interditada em razão de graves problemas estruturais e de superlotação, circunstância que ensejou sua transferência para estabelecimento prisional localizado em comarca diversa e mais distante de seu núcleo familiar, com prejuízo à convivência familiar e ao acompanhamento de seus filhos.
+Todavia, verifico que não foram juntadas aos autos cópias da decisão que concedeu a prisão domiciliar à paciente, da decisão que posteriormente a revogou, nem daquela que indeferiu o pedido de revogação da prisão preventiva atualmente em vigor, circunstância que prejudica a exata compreensão do caso e inviabiliza, assim, o exame da ilegalidade suscitada neste feito.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória.
+É indispensável ao impetrante apresentar elementos documentais suficientes para se permitir aferir a alegada existência de constrangimento ilegal no ato atacado na impetração.
+À  vista  do  exposto,  indefiro  liminarmente  o  habeas  corpus.
+Publique-se  e  intimem-se.
+EMENTA
