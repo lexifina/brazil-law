@@ -1,0 +1,26 @@
+DECISÃO:
+Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+O acórdão recorrido  ficou assim ementado:
+
+APELAÇÃO. INSURGÊNCIA CONTRA PARCELA DA DECISÃO QUE ACOLHEU A PRETENSÃO. AUSÊNCIA DE INTERESSE RECURSAL. NÃO CONHECIMENTO DESTA PARCELA DO APELO. CONHECIMENTO DA FRAÇÃO RESTANTE. PRELIMINAR. FUNDAMENTAÇÃO SUFICIENTE. INEXISTÊNCIA DE NULIDADE. REJEIÇÃO. MÉRITO. POLICIAL MILITAR. GRATIFICAÇÃO FGT-1 (POLICIAMENTO DESTACADO). ANEXO III DA LEI ESTADUAL Nº 8186/2007. BOLETIM DE NOMEAÇÃO PARA A FUNÇÃO. COMPROVAÇÃO DOS FATOS CONSTITUTIVOS DO DIREITO AO RECEBIMENTO DA GRATIFICAÇÃO. NECESSIDADE DE DEMONSTRAÇÃO DA CESSAÇÃO DA DESIGNAÇÃO. FATO EXTINTIVO DO DIREITO DO AUTOR. ÔNUS DA PROVA DO ENTE PÚBLICO. POSSIBILIDADE DE CUMULAÇÃO COM A GRATIFICAÇÃO DE ATIVIDADES ESPECIAIS. AUSÊNCIA DE MENÇÃO NO ROL DE RUBRICAS INACUMULÁVEIS. DESIGNAÇÃO. ATO PRIVATIVO DO GOVERNADOR DO ESTADO. POSSIBILIDADE DE DELEGAÇÃO AO COMANDANTE-GERAL DA POLÍCIA MILITAR. INEXISTÊNCIA DE NULIDADE POR VÍCIO DE INCOMPETÊNCIA. DESPROVIMENTO. 1. Carece de interesse recursal o recorrente que veicula insurgência contra decisão que já foi proferida em conformidade com a sua pretensão. 2. Verificando-se que o juízo adotou motivação suficiente para embasar a decisão, expondo de forma detalhada os argumentos que o levaram à conclusão manifestada no julgado, não há que se falar em nulidade por ausência de fundamentação. 3. A Gratificação de símbolo FGT-1 é devida aos policiais militares do estado da Paraíba ocupantes da função comissionada de Policiamento Destacado, no valor nominal de R$ 350,00 (trezentos e cinquenta reais) mensais, conforme previsto no Anexo III da Lei Estadual n.º 8.186/2007, sendo suficiente para comprovar o direito ao recebimento a juntada do boletim de nomeação para a referida função, competindo ao Estado da Paraíba demonstrar a cessação da designação, por se tratar de fato extintivo do direito autoral. 4. O fato de o policial militar já receber a Gratificação por Atividades Especiais prevista no art. 57, VII, da Lei Complementar Estadual n.º 58/2003, não é óbice para o reconhecimento do seu direito à percepção da Gratificação de Policiamento Destacado, nem impõe a compensação dos seus valores, uma vez que esta última não consta no rol de verbas inacumuláveis contido no art. 1º, § 2º, da Resolução GCG/0001/2011-CG do Comando Geral da Polícia Militar. 5. Não há nulidade em razão de o ato de designação para a função de Policiamento Destacado ter sido praticado pelo Comandante-geral da Polícia Militar, uma vez que, embora a atribuição de prover as funções gratificadas integradas à estrutura organizacional do Poder Executivo Estadual seja, de acordo com o art. 86, XX, da Constituição Estadual, privativa do Governador do Estado, o parágrafo único do mesmo dispositivo contém permissivo para que tal incumbência seja delegada aos Secretários de Estado, norma aplicável por analogia ao Comandante-geral da PM.
+
+No recurso extraordinário sustenta-se violação do(s) art.(s) 37, II e V, 42, § 1º, e 142, § 3º, da Constituição Federal.
+Decido.
+Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula 279/STF. Sobre o tema:
+
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. OFENSA CONSTITUCIONAL REFLEXA. REEXAME DE FATOS. SÚMULA 279/STF
+1. (...)
+4. A argumentação do recurso extraordinário traz versão dos fatos diversa da exposta no acórdão, de modo que seu acolhimento passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta Corte (Para simples reexame de prova não cabe recurso extraordinário). 5. Agravo Interno a que se nega provimento. (RE 1.237.969-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 12/02/2020).
+
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. MANUTENÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida. 2. O recurso extraordinário esbarra no óbice previsto na Súmula 279 do STF, por demandar o reexame de fatos e provas.3. Agravo regimental desprovido. (ARE 1.165.382 – AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 03/03/2020).
+
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA. O recurso extraordinário não é meio próprio ao revolvimento da prova. (RE 1066713-AgR, Primeira Turma, Rel. Min. Marco Aurélio, DJe 20/02/2020).
+
+Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 9 de junho de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
