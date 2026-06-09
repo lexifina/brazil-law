@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2327, de 1º de junho de 2026
+Altera a Instrução Normativa RFB nº 2.097, de 18 de julho de 2022, que estabelece normas relativas à Contribuição para o Plano de Seguridade Social do Servidor - CPSS, de que trata a Lei nº 10.887, de 18 de junho de 2004.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o art. 350, caput, inciso III, do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto na Lei nº 10.887, de 18 de junho 2004, nos arts. 46 a 49 da Lei nº 12.350, de 20 de dezembro de 2010, e na Lei nº 12.618, de 30 de abril de 2012, resolve:
