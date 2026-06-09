@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de CAUAN FELIPE SOARES DA CUNHA BENEDICTO no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro.
+Neste writ, a defesa alega que haveria constrangimento ilegal na manutenção da prisão preventiva, ressaltando que não houve o emprego de arma, tratando-se, portanto, de premissa fática inexistente adotada na decisão de 1º grau.
+Sustenta, ainda, que o Tribunal de origem "não se limitou ao controle de legalidade da decisão impugnada, pois, na verdade, substituiu-a" (e-STJ, fl. 6), ao invés de cassar o decreto prisional por falta de fundamentação concreta.
+Afirma que os delitos em tese praticados não envolvem violência e que "as condutas de intimidação que mais se aproximam de uma incontinência verbal praticada entre pessoas conhecidas, realizada em contexto específico e posterior aos acontecimentos iniciais" (e-STJ, fl. 7).
+Requer, assim, a concessão da ordem para que seja declarada a nulidade da decisão que decretou a prisão preventiva.
+Liminar indeferida à fl. 235 (e-STJ).
+Informações prestadas às fls. 240-244 (e-STJ).
+O Ministério Público Federal opina pelo não conhecimento do habeas corpus (e-STJ, fls. 248-250).
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Sob tal contexto, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesto constrangimento ilegal que autorize a concessão da ordem, de ofício.
+A prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria e de perigo gerado pelo estado de liberdade do imputado.
+No caso, a prisão preventiva está suficientemente fundamentada para a conveniência da instrução criminal. Embora o Juízo de 1º grau tenha feito menção à suposta existência de arma de fogo, manteve a prisão cautelar - a qual foi reavaliada pelo magistrado em 14/12/2025 - para garantir a ouvida da vítima em juízo, sem o risco de que o réu influencie de forma negativa na colheita da prova (e-STJ, fl. 83).
+E, ao contrário do que afirma o impetrante, o Tribunal de origem não agregou motivação ao decreto prisional, o qual encontra fundamento, como explicitado, para conveniência da instrução criminal.
+Como bem ponderou o Ministério Público Federal em seu parecer, "o Tribunal de Justiça agiu corretamente ao pontuar que o Juízo de Direito elucida a necessidade da prisão para evitar a pressão sobre as testemunhas. Conforme a jurisprudência deste Superior Tribunal de Justiça, a existência de fundamentos autônomos e idôneos (como a coação de testemunhas) é suficiente para sustentar a segregação cautelar, independentemente de eventuais imprecisões acessórias na motivação. Não se trata de "inovação", mas de controle de legalidade que preserva a essência do decreto prisional lastreado nos fatos narrados na denúncia" (e-STJ, fl. 250).
+Sobre o tema:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ORGANIZAÇÃO CRIMINOSA. FRUSTRAÇÃO DE CARÁTER COMPETITIVO DE LICITAÇÕES. FRAUDES EM LICITAÇÕES. CORRUPÇÃO ATIVA E PASSIVA. COAÇÃO NO CURSO DO PROCESSO. ROUBO MAJORADO. PRISÃO PREVENTIVA. NECESSIDADE DE INTERROMPER ATIVIDADES. AMEAÇA A TESTEMUNHAS. FUNDAMENTOS IDÔNEOS. NEGATIVA DA CONDUTA IMPUTADA. EXAME DE PROVAS. INCOMPATIBILIDADE DA VIA ELEITA. PEDIDO DE EXTENSÃO DO BENEFÍCIO DEFERIDO A CORRÉUS. SUPRESSÃO DE INSTÂNCIA. PRISÃO DOMICILIAR PARA TRATAMENTO DE SAÚDE. RECEPÇÃO DE TRATAMENTO NO ESTABELECIMENTO PRISIONAL. AVALIAÇÕES INDICANDO ESTADO GERAL CONTROLADO. NÃO CABIMENTO. AGRAVO DESPROVIDO.
+ ..
+5. A notícia de perturbação causada pelo agente no curso da persecução penal tolhendo, de qualquer forma, a atuação da testemunha em sua ampla liberdade de prestar declarações acerca dos fatos em apuração, é motivo sobejo para a decretação da prisão preventiva para conveniência da instrução criminal.
+6. As teses de que o agravante não teria envolvimento com a coação à testemunha, bem como que não teria demandado sua execução demandariam, para seu deslinde, exame aprofundado de provas, incabível na presente via.
+7. A alegação de que foi deferida a liberdade a corréu em situação análoga à do agravante não foi objeto do acórdão atacado, o que inviabiliza o exame da teste diretamente na presente oportunidade, sob pena de configurar-se indevida supressão de instância.
+8. Consolidou-se nesta Corte Superior de Justiça entendimento de que "o deferimento da substituição da prisão preventiva por prisão domiciliar, nos termos do art. 318, inciso II, do Código de Processo Penal, depende da comprovação inequívoca de que o réu esteja extremamente debilitado, por motivo de grave doença aliada à impossibilidade de receber tratamento no estabelecimento prisional em que se encontra". (RHC n. 58.378/MG, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 6/8/2015, DJe 25/8/2015).
+9 No caso, a despeito do quadro de saúde indicado na inicial, o agravante não se encontra extremamente debilitado. Ao contrário, as avaliações de sua condição geral descrevem quadro controlado e estado de saúde normalizado. Do mesmo modo, não foi demonstrada a impossibilidade de recepção de tratamento no local onde se encontra.
+Ressalte-se, inclusive, que lhe foi franqueado o atendimento por médico externo, de sua confiança. Portanto, não se verifica justificativa para o deferimento da prisão domiciliar.
+10. Agravo desprovido."
+(AgRg no HC n. 872.139/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/8/2024, DJe de 10/9/2024.)
+"DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. AUSÊNCIA DE CONTEMPORANEIDADADE. SUPRESSÃO DE INSTÂNCIA. FUNDAMENTAÇÃO PER RELATIONEM. POSSIBILIDADE. AGRAVO PARCIALMENTE CONHECIDO E IMPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que negou provimento a recurso em habeas corpus, no qual se alegava constrangimento ilegal decorrente da ausência de contemporaneidade na prisão preventiva, fundamentação deficiente da pronúncia e ausência de elementos concretos que justificassem a impossibilidade de aplicação de medidas cautelares diversas da prisão.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se a decisão agravada, ao manter a prisão preventiva, está devidamente fundamentada em elementos concretos que justifiquem a necessidade da medida extrema, considerando a alegação de ausência de contemporaneidade, a fundamentação per relationem na pronúncia e a possibilidade de aplicação de medidas cautelares diversas.
+III. RAZÕES DE DECIDIR
+3. A alegação de ofensa aos dispositivos constitucionais não foi apreciada na decisão impugnada, configurando hipótese de inovação recursal, o que impede sua análise.
+4. A tese de ausência de contemporaneidade não pode ser acolhida por esta Corte, na medida que não foi analisada pelo Tribunal de origem, sob pena de incorrer em indevida supressão de instância.
+5. A prisão preventiva está devidamente fundamentada em elementos concretos extraídos dos autos, que indicam a necessidade de resguardar a ordem pública, considerando a periculosidade social dos réus evidenciada no modus operandi do ato criminoso e na conveniência da instrução criminal.
+6. A possibilidade de intimidação de testemunhas ou vítimas decorrente da liberdade dos acusados é motivo suficiente para a manutenção da ordem pública e a realização da instrução criminal.
+7. A gravidade concreta da conduta delituosa e a periculosidade dos recorrentes indicam que a ordem pública não estaria acautelada com sua soltura, sendo inviável a aplicação de medidas cautelares diversas da prisão.
+8. A fundamentação per relationem na decisão de pronúncia é válida, desde que se reporte aos fundamentos do decreto de prisão preventiva e as circunstâncias ensejadoras da decretação da prisão permaneçam incólumes.
+9. Não há ilegalidade na negativa do direito de recorrer em liberdade ao réu que permaneceu preso durante a instrução criminal, se persistem os motivos da prisão cautelar.
+IV. DISPOSITIVO E TESE
+10. Resultado do Julgamento: Agravo regimental parcialmente conhecido e improvido.
+Tese de julgamento:
+1. Teses não analisadas pelo Tribunal não podem ser acolhidas por esta Corte, sob pena de indevida supressão de instância. 2. A prisão preventiva pode ser mantida quando há elementos concretos que indicam a necessidade de resguardar a ordem pública, a conveniência da instrução criminal ou a aplicação da lei penal. 3. A fundamentação per relationem na decisão de pronúncia é válida, desde que se reporte aos fundamentos do decreto de prisão preventiva e as circunstâncias ensejadoras da decretação da prisão permaneçam incólumes. 4. Não há ilegalidade na negativa do direito de recorrer em liberdade aos réus que permaneceu preso durante a instrução
+criminal, se persistem os motivos da prisão cautelar. Dispositivos
+relevantes citados: CPP, arts. 312 e 413, § 3º.
+Jurisprudência relevante citada: STJ, Súmula n. 182; STJ, AgRg no HC 716.773/SC, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 24.05.2022; STJ, AgRg no H 846.832/TO, Rel. Min. Jesuíno Rissato, Sexta Turma, julgado em 11.12.2023, DJe de 15.12.2023; STJ, RHC 81.745/MG, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 01.06.2017; STJ, AgRg no HC 582.995/MG, Rel. Min. Jorge Mussi, Quinta Turma, julgado em 18.08.2020; STJ, HC 396.974/BA, Rel. Min. Jorge Mussi, Quinta Turma, julgado em 22.08.2017; STJ, AgRg no HC 950.835/ES, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4.2.2025, DJEN de 13.2.2025; STJ RHC 26.379/MG, Rel. Min. Felix Fischer, Quinta Turma, julgado em 3.11.2009, DJe de 7.12.2009; STJ, AgRg no HC 655.188/PE, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 10.08.2021.
+(AgRg no RHC n. 223.358/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/12/2025, DJEN de 22/12/2025, grifou-se.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
