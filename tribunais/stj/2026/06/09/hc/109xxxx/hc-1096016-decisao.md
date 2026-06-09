@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de GENILSON LIMA DA SILVA, condenado por furto qualificado tentado a 2 anos e 4 meses de reclusão, e 11 dias-multa (fls. 10/23 - Ação Penal n. 1503748-39.2025.8.26.0535, da 2ª Vara Criminal da comarca de Guarulhos/SP), apontando como ato coator o acórdão que, em apelação, redimensionou a pena imposta (fls. 24/32).
+A impetração busca revisão da dosimetria, pretendendo a compensação integral da atenuante da confissão espontânea com a agravante da reincidência, sustentando inexistir preponderância da reincidência sobre a confissão e haver jurisprudência pacífica desta Corte admitindo a compensação, inclusive em hipóteses de reincidência específica (fl. 3).
+Sem pedido liminar.
+É o relatório.
+A ordem comporta acolhimento.
+A dosimetria somente pode ser revista em habeas corpus quando evidenciada flagrante ilegalidade. É o que ocorre no caso, pois o Tribunal de origem, embora tenha registrado que GENILSON admitiu amplamente os fatos, fazendo jus, portanto, à atenuante, afastou a compensação integral por entender que a renitência é em crime de mesma espécie, ou seja, específica, de sorte que é impossível a pretendida compensação integral com a atenuante. Reduz-se, assim, a fração de agravamento para 1/6 (fls. 30/31).
+A orientação vinculante da Terceira Seção admite, na segunda fase da dosimetria, a compensação integral entre a atenuante da confissão espontânea e a agravante da reincidência, específica ou não, ressalvada a hipótese de multirreincidência, em que a compensação pode ser proporcional (Tema Repetitivo n. 585/STJ). No mesmo sentido, a Súmula 545/STJ e o Tema Repetitivo n. 1.194/STJ assentam a incidência da atenuante da confissão espontânea prevista no art. 65, III, "d", do Código Penal (fls. 30/31).
+Assim, ausente a indicação de multirreincidência pelas instâncias ordinárias, deve ser acolhida a pretensão defensiva para compensar integralmente a confissão com a reincidência.
+Passo ao redimensionamento da pena. Na primeira fase, mantém-se a pena-base em 3 anos de reclusão e 15 dias-multa (fls. 29/30). Na segunda fase, reconhecidas a agravante da reincidência e a atenuante da confissão (fl. 31), a compensação integral mantém a pena intermediária em 3 anos de reclusão e 15 dias-multa. Na terceira fase, preservada a redução de 1/3 pela tentativa (fl. 31), a reprimenda definitiva fica estabelecida em 2 anos de reclusão e 10 dias-multa.
+Considerados a pena aplicada, os maus antecedentes e a reincidência registrados (fl. 31), ficam mantidos o regime inicial fechado e a vedação da substituição da pena privativa de liberdade.
+Ante o exposto, concedo liminarmente a ordem para compensar integralmente a atenuante da confissão espontânea com a agravante da reincidência e, em consequência, redimensionar a pena de Genilson Lima da Silva para 2 anos de reclusão e 10 dias-multa, mantidos o regime inicial fechado e os demais termos da condenação, referente à Ação Penal n. 1503748-39.2025.8.26.0535, da 2ª Vara Criminal de Guarulhos/SP.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+DIREITO PENAL. HABEAS CORPUS. FURTO QUALIFICADO TENTADO. DOSIMETRIA. CONFISSÃO ESPONTÂNEA. REINCIDÊNCIA ESPECÍFICA. COMPENSAÇÃO INTEGRAL. POSSIBILIDADE. TEMA REPETITIVO 585/STJ. SÚMULA 545/STJ. TEMA REPETITIVO 1.194/STJ. PENA REDIMENSIONADA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida nos termos do dispositivo.
