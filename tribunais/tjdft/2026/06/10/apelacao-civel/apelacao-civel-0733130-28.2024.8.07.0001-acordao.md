@@ -1,0 +1,388 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+6ª Turma Cível
+Processo N.APELAÇÃO CÍVEL 0733130-28.2024.8.07.0001APELANTE(S)AGENCIA BRASILEIRA DE APOIO A GESTAO DO SUSAPELADO(S)BRUNA OLIVEIRA DE PAULARelatorDesembargador ALFEU MACHADO
+ Acórdão Nº2138181
+
+EMENTA
+
+ p{text-align: justify;}DIREITO ADMINISTRATIVO, CIVIL E PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. APELAÇÃO CÍVEL. PRELIMINAR SUSCITADA DE OFÍCIO REJEITADA POR MAIORIA PELO ÓRGÃO COLEGIADO. MÉRITO. AGÊNCIA BRASILEIRA DE APOIO À GESTÃO DO SUS - AGSUS. PROGRAMA MÉDICOS PELO BRASIL. VALORES PAGOS INDEVIDAMENTE APÓS DESLIGAMENTO. AUSÊNCIA DE CONTRAPRESTAÇÃO DOS SERVIÇOS. RESTITUIÇÃO DEVIDA. RECURSO PROVIDO.
+
+I. CASO EM EXAME
+
+1. Apelação cível contra sentença que julgou parcialmente procedentes os pedidos em ação de cobrança, limitando a condenação à restituição de valores pagos indevidamente a título de bolsa-formação ao período de 18/11/2023 a 30/11/2023.
+
+II. QUESTÃO EM DISCUSSÃO
+
+2. A questão em discussão consiste em definir se o bolsista vinculado à AgSUS está obrigada a restituir a integralidade dos valores recebidos a título de bolsa-formação após a cessação das atividades, ou apenas o montante proporcional ao período reconhecido na sentença.
+
+III. RAZÕES DE DECIDIR
+
+3. Preliminar elencada de ofício pelo Relator reconhecendo a incompetência da Justiça do Distrito Federal e dos Territórios para processar e julgar ação de cobrança ajuizada pela AgSUS. Não acolhida pelo Colegiado do Órgão fracionário. Manutenção da competência por maioria. Avanço ao mérito.
+4. A data do desligamento e do último dia de prestação de serviços constitui fato incontroverso, admitido pela própria bolsista em diversas manifestações processuais, o que configura confissão nos termos dos arts. 374, II e III, e 389 do CPC.
+
+5. Comprovada a ausência de efetiva prestação dos serviços médicos objeto da contratação e verificado o pagamento sem a devida contraprestação, resta configurado o enriquecimento sem causa, nos termos do art. 884 do Código Civil, razão pela qual se impõe o dever de restituir os valores indevidamente recebidos.
+
+6. O princípio da boa-fé objetiva (art. 422 do CC) não legitima o enriquecimento sem causa, pois sua função é coibir comportamentos contraditórios e assegurar o equilíbrio entre as partes.
+
+7. A pretensão relativa ao recesso proporcional convertido em pecúnia, objeto de reconvenção indeferida por ausência de recolhimento de custas, deve ser veiculada em ação autônoma, sob pena de violação aos arts. 141 e 492 do CPC.
+
+IV. DISPOSITIVO E TESE
+
+8. Preliminar de incompetência absoluta suscitada de ofício pelo Relator rejeitada pela maioria pelo Colegiado. Superada a preliminar, recurso provido por unanimidade quanto à questão meritória.
+
+Tese de julgamento: "A cessação das atividades pelo bolsista e a ausência de prestação de serviços após a data de desligamento tornam indevido o pagamento da bolsa-formação, impondo a restituição integral dos valores recebidos, sob pena de enriquecimento sem causa."
+
+Dispositivos relevantes citados: CPC, arts. 141, 374, II e III, 389 e 492; CC, arts. 422, 876 e 884.
+
+Jurisprudência relevante citada: TJDFT, Acórdão 2059835, 0754236-46.2024.8.07.0001, Rel.: Mauricio Silva Miranda, 7ª Turma Cível, julgamento: 22/10/2025, DJe: 05/11/2025; TJDFT, Acórdão 2024439, 0731981-94.2024.8.07.0001, Rel.: Robson Teixeira de Freitas, 8ª Turma Cível, julgamento: 22/07/2025, DJe: 01/08/2025.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 6ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, ALFEU MACHADO - Relator, LEONARDO ROSCOE BESSA - 1º Vogal, ARQUIBALDO CARNEIRO - 2º Vogal, ANTONIO FERNANDES DA LUZ - 3º Vogal e VERA ANDRIGHI - 4º Vogal, sob a Presidência da Senhora Desembargadora VERA ANDRIGHI, em proferir a seguinte decisão: PRELIMINAR REJEITADA. RECURSO DESPROVIDO. DECISÃO POR MAIORIA. JULGAMENTO REALIZADO NOS TERMOS DO ART. 942, CPC., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 22 de Junho de 2026
+
+Desembargador ALFEU MACHADORelator
+
+RELATÓRIO
+
+Trata-se de apelação cível interposta pela AGÊNCIA BRASILEIRA DE APOIO À GESTÃO DO SUS - AGSUS contra sentença prolatada em ação de cobrança ajuizada em face de BRUNA OLIVEIRA DE PAULA, em que o Juízo da 13ª Vara Cível de Brasília julgou parcialmente procedentes os pedidos, para condenar a ré a restituir à autora o valor proporcional recebido indevidamente a título de bolsa do Programa Médicos pelo Brasil, correspondente ao período de 18/11/2023 a 30/11/2023, a ser apurado em sede de cumprimento de sentença.
+
+Na origem, a demanda foi ajuizada pela AgSUS em face de Bruna Oliveira de Paula, na qual sustenta que a ré integrou o Programa Médicos pelo Brasil como médica bolsista e que, mesmo após o término de suas atividades em setembro de 2023, continuou a receber valores nos meses subsequentes.
+
+A autora alegou pagamento indevido no montante de R$ 38.072,52 (trinta e oito mil e setenta e dois reais e cinquenta e dois centavos) e pleiteou restituição integral, acrescida de correção e juros.
+
+A ré, em contestação, impugnou a competência estadual, afirmou ter agido de boa-fé ao presumir que os pagamentos se referiam a férias e à bolsa de setembro e reconheceu apenas a necessidade de devolver parte da quantia referente ao mês de novembro. Postulou, ainda, em reconvenção, o pagamento das férias.
+
+Os pedidos foram julgados parcialmente procedentes pela sentença de ID 79464889, para condenar a ré a restituir à autora o valor proporcional recebido indevidamente a título de bolsa do Programa Médicos pelo Brasil, correspondente ao período de 18/11/2023 a 30/11/2023, a ser apurado em sede de cumprimento de sentença.
+
+A autora opôs embargos de declaração (ID 79464891), os quais foram rejeitados pelo decisum de ID 79464904.
+
+Na apelação de ID 79464907, a AGÊNCIA BRASILEIRA DE APOIO À GESTÃO DO SUS – AGSUS sustenta que a data de desligamento da ré é incontroversa (10/09/2023), conforme documentos assinados e declarações constantes da inicial e da contestação.
+
+Argumenta que o e-mail citado na sentença não alteraria o encerramento efetivo das atividades, visto que a ré já não trabalhava nem residia no local das funções.
+
+Alega que não haveria direito ao recesso proporcional, pois o regulamento somente o prevê em casos de desligamento promovido pela administração, não em hipóteses de pedido de desligamento formulado pelo bolsista.
+
+Ressalta que a ré não teria desempenhado quaisquer atividades após setembro de 2023 e que o pagamento de setembro, outubro e novembro caracterizaria enriquecimento ilícito, devendo ser restituído integralmente o valor de R$ 41.202,83 (quarenta e um mil duzentos e dois reais e oitenta e três centavos), sem limitações.
+
+Expõe, ainda, que mesmo eventual recesso não poderia ultrapassar trinta dias, motivo pelo qual os pagamentos não encontram respaldo jurídico.
+
+Dessa forma, requer o provimento do recurso para reformar a sentença e condenar a ré ao ressarcimento integral dos valores pagos a maior, considerando o último dia de trabalho em 10/09/2023, no valor de R$ 41.202,83 (quarenta e um mil duzentos e dois reais e oitenta e três centavos), sem desconto de recesso.
+
+O preparo foi devidamente recolhido, conforme ID 79464906.
+
+A apelada não apresentou contrarrazões, conforme certificado no ID 79464910.
+
+As partes foram intimadas para se manifestarem sobre uma possível incompetência da Justiça do Distrito Federal e dos Territórios (ID 80167093), entretanto, quedaram-se inertes no prazo conferido (IDs 80812712 e 80812713). Posteriormente, manifesta-se a agravante no ID 81315294, sustentando a ausência de interesse da União no feito.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador ALFEU MACHADO - Relatorp{text-align: justify;}
+I-OBJETO DO RECURSO
+Trata-se de apelação cível interposta pela AGÊNCIA BRASILEIRA DE APOIO À GESTÃO DO SUS - AGSUS contra sentença prolatada em ação de cobrança ajuizada em face de BRUNA OLIVEIRA DE PAULA, em que o Juízo da 13ª Vara Cível de Brasília julgou parcialmente procedentes os pedidos, para condenar a ré a restituir à autora o valor proporcional recebido indevidamente a título de bolsa do Programa Médicos pelo Brasil, correspondente ao período de 18/11/2023 a 30/11/2023, a ser apurado em sede de cumprimento de sentença.
+
+II-DA PRELIMINAR SUSCITADA DE OFÍCIO
+
+É cediço que o Programa Médicos pelo Brasil (PMpB), instituído pela Lei Federal nº 13.958, de 18 de dezembro de 2019, que substitui o antigo Programa Mais Médicos, tem a finalidade de incrementar a prestação de serviços médicos em locais de difícil provimento ou de alta vulnerabilidade, além de fomentar a formação de médicos especialistas em medicina de família e comunidade, no âmbito da atenção primária à saúde no Sistema Único de Saúde (SUS), conforme a art. 1º da supramencionada lei federal.
+
+Ademais, consoante o art. 4º da Lei Federal nº 13.958/2019, com a redação dada pela Lei nº 14.621/2023, a execução do PMpB ocorre por meio da Agência Brasileira de Apoio à Gestão do SUS (AgSUS), antes denominada Agência para o Desenvolvimento da Atenção Primária à Saúde (Adaps), cuja criação foi autorizada pela retromencionada norma federal, nos seguintes termos:
+
+Art. 6º Fica o Poder Executivo federal autorizado a instituir a Agência Brasileira de Apoio à Gestão do SUS (AGSUS), serviço social autônomo, na forma de pessoa jurídica de direito privado sem fins lucrativos, de interesse coletivo e de utilidade pública, com a finalidade de promover, em âmbito nacional, a execução de políticas de desenvolvimento da atenção à saúde indígena, nos diferentes níveis, e das atenções primária e especializada à saúde, com ênfase:   (Redação dada pela Lei nº 15.233, de 2025)
+
+À vista disso, a AgSUS foi instituída por meio do Decreto Federal nº 11.790, de 20 de novembro de 2023, sob a denominação de serviço social autônomo, na forma de pessoa jurídica de direito privado sem fins lucrativos, de interesse coletivo e de utilidade pública, cujas finalidades são executadas sob a orientação técnica e a supervisão do Ministério da Saúde. Veja-se:
+
+Art. 1º Este Decreto dispõe sobre o serviço social autônomo denominado Agência Brasileira de Apoio à Gestão do SUS - AGSUS, instituída na forma de pessoa jurídica de direito privado sem fins lucrativos, de interesse coletivo e de utilidade pública, nos termos do disposto na Lei nº 13.958, de 18 de dezembro de 2019, e transformada em conformidade com a Lei nº 14.621, de 14 de julho de 2023.
+
+Parágrafo único. A AGSUS tem como finalidade promover, em âmbito nacional, a execução de políticas de desenvolvimento da atenção à saúde indígena, nos diferentes níveis, e das atenções primária e especializada à saúde, em caráter complementar e colaborativo com a atuação dos entes federativos, de acordo com as competências previstas na Lei nº 13.958, de 18 de dezembro de 2019, inclusive a execução do Programa Médicos pelo Brasil, sob a orientação técnica e a supervisão do Ministério da Saúde. (Redação dada pelo Decreto nº 12.513, de 2025) - grifo nosso
+
+Além disso, observa-se que a AgSUS celebrou contrato de gestão com o Ministério da Saúde (Contrato nº 2/2024[1]), na forma prevista na Lei Federal nº 13.958/2019 e no Decreto Federal nº 11.790/2023, bem como que as despesas decorrentes das atribuições da referida entidade correrão à conta de dotações orçamentárias consignadas no orçamento geral da União, sem prejuízo do disposto no art. 8º da lei federal anteriormente citada. Confira-se:
+
+Lei Federal nº 13.958/2019
+
+Art. 11.  As despesas decorrentes do cumprimento do disposto neste Decreto correrão à conta de dotações orçamentárias consignadas no Orçamento Geral da União e observarão os limites de empenho e movimentação financeira, sem prejuízo do disposto no art. 8º da Lei nº 13.958, de 2019.
+
+No mesmo sentido, vejam-se trechos da cláusula decima segunda do retromencionado contrato de gestão:
+
+CLÁUSULA DÉCIMA SEGUNDA – DOS RECURSOS FINANCEIROS
+
+Os recursos serão transferidos à CONTRATADA de acordo com os créditos aprovados e as liberações efetuadas, observado o Cronograma de Desembolso e Plano de Ação Anual, condicionados à aprovação da Lei Orçamentária Anual - LOA respectiva e à existência de limite financeiro orçamentário.
+
+PARÁGRAFO PRIMEIRO. O Ministério da Saúde providenciará o apostilamento para inserção do Cronograma de Desembolso em até 30 dias após a assinatura do contrato e no início de cada exercício financeiro, sem prejuízo da realização de eventuais ajustes por intermédio do mesmo instrumento.
+
+(...)
+
+PARÁGRAFO SEXTO. Os gastos internos da Agência serão custeados mediante a comprovação das despesas administrativas detalhadas no plano de ação anual, aprovado pelo Ministério da Saúde, e devidamente comprovados a cada quadrimestre.
+
+Por outro lado, dentre as competências da AgSUS, destacam-se as seguintes (art. 7º da Lei Federal nº 13.958/2019):
+
+I - prestar serviços de atenção primária à saúde no âmbito do SUS, em caráter complementar à atuação dos entes federativos, especialmente nos locais de difícil provimento ou de alta vulnerabilidade;
+
+II - desenvolver atividades de ensino, pesquisa e extensão que terão componente assistencial por meio da integração entre ensino e serviço;
+
+III - executar o Programa Médicos pelo Brasil, em articulação com o Ministério da Saúde e em consonância com o Plano Nacional de Saúde;
+
+(...)
+
+IX - prestar serviços nos diferentes níveis de atenção à saúde nas áreas indígenas. (Incluído pela Lei nº 14.621, de 2023)
+
+X - prestar serviços de assistência especializada à saúde no âmbito do SUS, em caráter complementar à atuação dos entes federativos, em programas e em ações estabelecidos pelo Ministério da Saúde.   (Incluído pela Lei nº 15.233, de 2025)
+
+Superadas essas breves e necessárias considerações acerca da AgSUS (antiga Adaps), passo ao exame do cerne da preliminar suscitada de ofício.
+
+É sabido que os serviços sociais autônomos são pessoas jurídicas de direito privado, sem fins lucrativos e criadas por meio de autorização legal. Sobre o tema, vejam-se as lições de Maria Sylvia Zanella Di Pietro e Fabrício Motta, na obra “Administração Pública e Servidores Públicos - Vol. 2 - Ed. 2022”:
+
+Na realidade, os serviços sociais autônomos, em geral, não são criados por lei, mas apenas por ela autorizados. A distinção entre criação e autorização por lei resulta do art. 37, XIX, da CF/1988. Na criação por lei, como ocorre no caso das autarquias e fundações com personalidade de direito público, a lei instituidora já confere personalidade jurídica à entidade.
+
+Nas hipóteses de mera autorização, como ocorre com as empresas públicas, sociedades de economia mista, suas subsidiárias e fundações de direito privado, a personalidade jurídica não decorre diretamente da lei instituidora, mas a partir do momento em que os respectivos atos constitutivos, de competência do ente autorizado, promovem o seu registro no Cartório das Pessoas Jurídicas, tal como previsto no art. 45 do Código Civil.
+
+Ademais, essas entidades não integram a Administração Pública, malgrado colaborem com ela na execução de atividades de relevante significado social. Há, inclusive, entendimento consolidado de que os serviços sociais autônomos integrantes do “Sistema S” não se submetem à exigência do concurso público para contratação de pessoal.
+
+Nesse sentido, confira-se a ementa do acórdão proferido no RE nº 789874/DF pelo Supremo Tribunal Federal - STF, em sede de repercussão geral (Tema nº 569):
+
+ADMINISTRATIVO E CONSTITUCIONAL. SERVIÇOS SOCIAIS AUTÔNOMOS VINCULADOS A ENTIDADES SINDICAIS. SISTEMA S. AUTONOMIA ADMINISTRATIVA. RECRUTAMENTO DE PESSOAL. REGIME JURÍDICO DEFINIDO NA LEGISLAÇÃO INSTITUIDORA. SERVIÇO SOCIAL DO TRANSPORTE. NÃO SUBMISSÃO AO PRINCÍPIO DO CONCURSO PÚBLICO (ART. 37, II, DA CF). 1. Os serviços sociais autônomos integrantes do denominado Sistema S, vinculados a entidades patronais de grau superior e patrocinados basicamente por recursos recolhidos do próprio setor produtivo beneficiado, ostentam natureza de pessoa jurídica de direito privado e não integram a Administração Pública, embora colaborem com ela na execução de atividades de relevante significado social. Tanto a Constituição Federal de 1988, como a correspondente legislação de regência (como a Lei 8 .706/93, que criou o Serviço Social do Trabalho – SEST) asseguram autonomia administrativa a essas entidades, sujeitas, formalmente, apenas ao controle finalístico, pelo Tribunal de Contas, da aplicação dos recursos recebidos. Presentes essas características, não estão submetidas à exigência de concurso público para a contratação de pessoal, nos moldes do art. 37, II, da Constituição Federal. Precedente: ADI 1864, Rel. Min. Joaquim Barbosa, DJe de 2/5/2008. 2. Recurso extraordinário a que se nega provimento. (STF - RE: 789874 DF, Relator.: TEORI ZAVASCKI, Data de Julgamento: 17/09/2014, Tribunal Pleno, Data de Publicação: 19/11/2014)
+
+Outrossim, sabe-se que, nos termos da Súmula nº 516 do STF, “o Serviço Social da Indústria (SESI) está sujeito à jurisdição da Justiça estadual.”
+
+Ocorre que tal entendimento sumular da Suprema Corte não se aplica ao presente caso. Isso porque a AgSUS não se enquadra no conceito clássico dos serviços sociais autônomos, tendo em vista que, como anteriormente visto: a) foi instituída pelo próprio Poder Executivo da União, por meio de autorização legal (art. 4º da Lei Federal nº 13.958/2019); b) é submetida à supervisão do Ministério da Saúde, inclusive quanto à gestão de seus recursos (art. 3º, I, “e”, do Decreto Federal nº 11.790); c) é obrigada a gerir seus recursos de acordo com os critérios, metas e objetivos estabelecidos no contrato de gestão celebrado com o referido Ministério (vide Contrato de Gestão nº 2/2024); d) possui como atribuições a execução do Programa Médicos pelo Brasil (PMpB), a prestação de serviços de assistência especializada à saúde no âmbito do SUS e de serviços nos diferentes níveis de atenção à saúde nas áreas indígenas (art. 7º, III, IX e X, da Lei Federal nº 13.958/2019); e e) é financiada, majoritariamente, por dotações orçamentárias consignadas no orçamento geral da União (art. 11 da Lei Federal nº 13.958/2019).
+
+A propósito, transcrevo, diante de sua importância, trechos do voto condutor do acórdão do leading case do supramencionado Tema nº 569 do STF (RE nº 789874/DF):
+
+3. Presentes no cenário brasileiro desde a década de 1940, as entidades integrantes do denominado Sistema “S” resultaram de iniciativa estatal destinada a desenvolver a prestação de certos serviços de elevado valor social. Conferiu-se a entidades sindicais dos setores econômicos a responsabilidade de criar, organizar e administrar entidades com natureza jurídica de direito privado destinadas a executar serviços de amparo aos trabalhadores. Como fonte financiadora desses serviços, atribuiu-se às empresas vinculadas a cada um dos setores econômicos envolvidos a obrigação de recolher uma contribuição compulsória, incidente sobre suas folhas de pagamento. 3. Presentes no cenário brasileiro desde a década de 1940, as entidades integrantes do denominado Sistema “S” resultaram de iniciativa estatal destinada a desenvolver a prestação de certos serviços de elevado valor social. Conferiu-se a entidades sindicais dos setores econômicos a responsabilidade de criar, organizar e administrar entidades com natureza jurídica de direito privado destinadas a executar serviços de amparo aos trabalhadores. Como fonte financiadora desses serviços, atribuiu-se às empresas vinculadas a cada um dos setores econômicos envolvidos a obrigação de recolher uma contribuição compulsória, incidente sobre suas folhas de pagamento.
+
+Os atos normativos abaixo definem a finalidade, a natureza jurídica e a contribuição instituída em favor dos quatro primeiros serviços sociais criados no Brasil (SENAI, SESI, SENAC e SESC):
+
+(...)
+
+A configuração jurídica dessas entidades, bem como a prestação pecuniária devida pelas empresas correspondentes, foram expressamente recepcionadas pelo art. 240 da Constituição Federal de 1988 e pelo art. 62 do ADCT, a saber:
+
+(...)
+
+Com essa orientação, foram criadas, após a CF/88, entidades relacionadas aos serviços sociais do transporte rodoviário e aos serviços de aprendizagem rural e do cooperativismo (SEST, SENAT e SENAR – 8.706/93, 8.315/91 e Medida Provisória 2.168-40/2001).
+
+(...)
+
+Sem embargo de sua natureza jurídica e da sua autonomia administrativa, todas essas entidades se submetem à fiscalização do Tribunal de Contas da União, sujeição que decorre do art. 183 do Decreto lei 200/67 e do art. 70 da Constituição Federal de 1988. Dispõe, com efeito, o artigo 183 do Decreto-lei 200/67:
+
+(...)
+
+Presente esse quadro normativo, pode-se afirmar que os serviços sociais do Sistema “S”, vinculados às entidades patronais de grau superior e patrocinados, basicamente, por recursos recolhidos do próprio setor produtivo beneficiado, receberam, tanto da Constituição Federal de 1988, como das legislações que os criaram, inegável autonomia administrativa, limitada, formalmente, apenas ao controle finalístico, pelo Tribunal de Contas, de aplicação dos recursos recebidos.
+
+As características gerais básicas desses entes autônomos podem ser assim enunciadas: (a) dedicam-se a atividades privadas de interesse coletivo cuja execução não é atribuída de maneira privativa ao Estado; (b) atuam em regime de mera colaboração com o poder público; (c) possuem patrimônio e receita próprios, constituídos, majoritariamente, pelo produto das contribuições compulsórias que a própria lei de criação institui em seu favor; e (d) possuem a prerrogativa de autogerir seus recursos, inclusive no que se refere à elaboração de seus orçamentos, ao estabelecimento de prioridades e à definição de seus quadros de cargos e salários, segundo orientação política própria.
+
+4. É importante não confundir essas entidades, nem equipará-las com outras criadas após a Constituição de 1988, cuja configuração jurídica tem peculiaridades próprias. É o caso, por exemplo, da Associação das Pioneiras Sociais - APS (serviço social responsável pela manutenção da Rede SARAH, criada pela Lei 8.246/91), da Agência de Promoção de Exportações do Brasil – APEX (criada pela Lei 10.668/03) e da Agência Brasileira de Desenvolvimento Industrial – ABDI (criada pela Lei 11.080/04). Diferentemente do que ocorre com os serviços autônomos do Sistema “S”, essas novas entidades (a) tiveram sua criação autorizada por lei e implementada pelo Poder Executivo, não por entidades sindicais; (b) não se destinam a prover prestações sociais ou de formação profissional a determinadas categorias de trabalhadores, mas a atuar na prestação de assistência médica qualificada e na promoção de políticas públicas de desenvolvimento setoriais; (c) são financiadas, majoritariamente, por dotações orçamentárias consignadas no orçamento da própria União (art. 2º, § 3º, da Lei 8.246/91, art. 13 da Lei 10.668/03 e art. 17, I, da Lei 11.080/04); (d) estão obrigadas a gerir seus recursos de acordo com os critérios, metas e objetivos estabelecidos em contrato de gestão cujos termos são definidos pelo próprio Poder Executivo; e (e) submetem-se à supervisão do Poder Executivo, quanto à gestão de seus recursos.
+
+(...)
+
+Bem se vê, portanto, que ao contrário dos serviços autônomos do primeiro grupo, vinculados às entidades sindicais (SENAC, SENAI, SEST, SENAT e SENAR), os do segundo grupo (APS, APEX e ABDI) não são propriamente autônomos, pois sua gestão está sujeita a consideráveis restrições impostas pelo poder público, restrições que se justificam, sobretudo, porque são financiadas por recursos do próprio orçamento federal. Essas limitações atingem, inclusive, a política de contratação de pessoal dessas entidades. Tanto a lei que autorizou a criação da APS, quanto aquelas que implementaram a APEX e a ABDI têm normas específicas a respeito dos parâmetros a serem observados por essas entidades nos seus processos seletivos e nos planos de cargos e salários de seus funcionários (ex: art. 3º, VIII e IX, da Lei 8.246/91, art. 9º, V e VI da Lei 10.668/03 e art. 11, §§ 2º e 3º da Lei 11.080/04).
+
+5. No caso dos autos, está-se a tratar de entidade pertencente ao primeiro grupo: o Serviço Social do Trabalho – SEST. Nos termos da Lei 8.706/93, é entidade cuja criação, organização e gestão foram cometidas à Confederação Nacional do Transporte Rodoviário com o objetivo de “gerenciar, desenvolver, executar, direta ou indiretamente, e apoiar programas voltados à promoção social do trabalhador em transporte rodoviário e do transportador autônomo, notadamente nos campos da alimentação, saúde, cultura, lazer e segurança no trabalho”.
+
+De acordo com o artigo 7º, I, da Lei 8.706/93, o SEST é custeado pelas contribuições que eram recolhidas pelas empresas de transporte rodoviário em favor do Serviço Social da Indústria – SESI – e do Serviço Nacional de Aprendizagem Industrial – SENAI. Além dela, o SEST também é financiado por recursos oriundos de contribuição mensal devida pelos transportadores autônomos, de suas receitas operacionais e de multas por infração da legislação, por doações, legados e verbas decorrentes de convênios celebrados com entes públicos e privados.
+
+(...)
+
+Depreende-se, desse conjunto normativo, que, apesar de criado após a Constituição de 1988, a natureza das atividades desenvolvidas, a forma de financiamento e o regime de controle a que se sujeita o SEST permitem enquadrar essa entidade no conceito original de serviço social autônomo, vinculada e financiada por um determinado segmento produtivo.
+
+(...)
+
+9. Cumpre enfatizar, finalmente, que a não obrigatoriedade de submissão das entidades do Sistema “S” aos ditames do art. 37, notadamente ao seu inciso II, da Constituição, não exime essas entidades de manter um padrão de objetividade e eficiência na contratação e nos gastos com seu pessoal. Essa exigência constitui requisito de legitimidade da aplicação dos recursos que arrecadam para a manutenção de sua finalidade social. Justamente em virtude disso, cumpre ao Tribunal de Contas da União, no exercício da sua atividade fiscalizatória, exercer controle sobre a manutenção desse padrão de legitimidade, determinando, se for o caso, as providências necessárias para coibir eventuais distorções ou irregularidades. (...) - grifo nosso
+
+Nessa perspectiva, a doutrina também critica o surgimento desses “novos” serviços sociais autônomos. Veja-se:
+
+Alice Gonzalez Borges fala do surgimento de outras entidades com a denominação de serviços sociais autônomos, mas com características diferenciadas, especialmente pelo fato de serem criados diretamente por lei.
+
+(...)
+
+Observa a autora, com toda razão, que “pela sua própria denominação, já se vê que tais novas entidades, criadas diretamente pela lei, em sua maioria mediante a transformação de preexistentes entidades da administração indireta, e passando a manter-se exclusivamente com dotações orçamentárias, eram destinadas a finalidades bem diversas da primitiva previsão constitucional de fomento às atividades de aprendizagem e capacitação de categorias profissionais que caracterizava, até então, os serviços sociais autônomos de que têm o nome”.
+
+Já tivemos oportunidade de criticar a instituição desse tipo de entidade, com o nome de serviço social autônomo, tendo em vista que as características são totalmente diferentes. É como se a denominação fosse suficiente para definir a natureza da pessoa jurídica. O real objetivo foi o de fugir ao regime jurídico próprio das entidades da administração pública indireta.
+
+Em trabalho sobre o já referido “anteprojeto de normas gerais sobre a Administração pública direta e indireta, as entidades paraestatais e as de colaboração”, assinalamos que “nesses casos, em que a entidade é instituída por lei e vive de dotações do orçamento do Estado, a figura do serviço social autônomo constitui-se em desvirtuamento do instituto, porque ela apresenta praticamente todas as características das entidades da Administração Indireta, razão pela qual deveriam submeter-se às normas pertinentes da Constituição”. (DI PIETRO, Maria Sylvia Zanella; MOTTA, Fabrício. Administração pública e servidores públicos. Vol. 2. São Paulo: Thomson Reuters Brasil, 2022. Parte I – Administração Pública, Capítulo 9: Entidades paraestatais e terceiro setor, item 5: Serviços sociais autônomos) - grifo nosso
+
+Destarte, considerando as características peculiares da AgSUS, anteriormente expostas – notadamente o fato de ser financiada majoritariamente por dotações consignadas no orçamento geral da União e de ter sido instituída pelo próprio Poder Executivo Federal, com fundamento em lei federal autorizativa –, vislumbram-se fortes indícios de interesse jurídico do referido ente público.
+
+À vista disso, compete à Justiça Federal decidir sobre a existência de interesse jurídico da União no presente feito, nos termos da Súmula nº 150 do Superior Tribunal de Justiça (STJ). Nesse sentido:
+
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSOS ESPECIAIS. ADMINISTRATIVO. TRANSPORTE TERRESTRE DE PASSAGEIROS EM SECCIONAMENTOS DE LINHAS FEDERAIS NO ESTADO DE SÃO PAULO. AUTORIZAÇÃO NEGADA PELA ARTESP. PEDIDO DA ANTT DE INTERVENÇÃO NO FEITO. ANÁLISE DO INTERESSE JURÍDICO DE AUTARQUIA FEDERAL. COMPETÊNCIA DA JUSTIÇA FEDERAL. SÚMULA 150/STJ. 1. Trata-se de Agravo Interno contra decisão que deu provimento aos Recursos Especiais para reconhecer a competência da Justiça Federal. 2. A decisão agravada deve ser mantida, porque a Justiça Estadual é incompetente para decidir sobre o interesse jurídico da Agência Nacional de Transportes Terrestres - ANTT em ingressar no feito. 3. A competência da Justiça Federal - prevista no art. 109, I, da CF - é ratione persoane, de modo que compete aos Juízes Federais processar e julgar as causas em que forem interessadas a União, suas autarquias ou empresas públicas federais na condição de autoras, rés ou oponentes, ressalvadas as de falência, acidentes de trabalho e as sujeitas às Justiças Eleitoral e Trabalhista. Ademais, conforme consolidado no enunciado da Súmula 150/STJ: "Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas Autarquias ou Empresas Públicas", para fins de manutenção ou deslocamento de competência. Assim, o indeferimento do pedido de ingresso da ANTT no feito pelo juízo estadual contraria a jurisprudência do STJ, além de ofender os arts. 44 e 45 do CPC/2015 .4. Agravo Interno não provido. (STJ - AgInt no REsp: 2061507 SP 2023/0071748-6, Relator.: Ministro HERMAN BENJAMIN, Data de Julgamento: 13/11/2023, T2 - SEGUNDA TURMA, Data de Publicação: DJe 18/12/2023) - grifo nosso
+
+Outrossim, esta Corte de Justiça já se manifestou sobre a competência da Justiça Federal em casos análogos envolvendo a AgSUS:
+
+Ementa: DIREITO ADMINISTRATIVO. APELAÇÃO CÍVEL. PROGRAMA MÉDICOS PELO BRASIL (MPB). SERVIÇO SOCIAL AUTÔNOMO. PAGAMENTO INDEVIDO. COMPETÊNCIA. JUSTIÇA FEDERAL. INCOMPETÊNCIA. JUSTIÇA ESTADUAL. APELAÇÃO PREJUDICADA. I. CASO EM EXAME 1. Apelação interposta pela Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde (AgSUS), gestora do programa federal Médicos pelo Brasil (MpB), contra sentença que rejeitou o pedido de repetição de indébito referente a valor pago a médico bolsista após o encerramento do vínculo. A sentença reconheceu que o valor recebido pelo médico referia-se a recesso proporcional previsto em norma interna e reconhecido no Termo de Rescisão de Contrato De Trabalho (TRCT). II. QUESTÃO EM DISCUSSÃO 2. A questão em discussão consiste em definir se a Justiça Estadual possui competência para julgar ação de repetição de indébito proposta por entidade gestora do programa Médicos pelo Brasil (MpB), cuja execução é realizada por meio de contrato de gestão com o Ministério da Saúde (MS) e com recursos da União. III. RAZÕES DE DECIDIR 3. O programa federal Médicos pelo Brasil (MpB) é executado por serviço social autônomo criado por lei e vinculado ao Ministério da Saúde (MS), com recursos oriundos do orçamento geral da União. 4. A competência para processar e julgar a ação é da Justiça Federal. A relação jurídica discutida decorre de delegação de poder público pela União, com evidente interesse federal. IV. DISPOSITIVO E TESE 5. Preliminar de incompetência suscitada de ofício. Apelação prejudicada. Tese de julgamento: “Compete à Justiça Federal julgar ações que envolvam entidade executora de programa federal instituído por lei e financiado com recursos da União, quando evidenciado o interesse jurídico da União no feito”. Dispositivos relevantes citados: CF/1988, art. 109, inc. I. Jurisprudência relevante citada: n/a. (Acórdão 2048041, 0732680-85.2024.8.07.0001, Relator(a): HECTOR VALVERDE SANTANNA, 2ª TURMA CÍVEL, data de julgamento: 17/09/2025, publicado no DJe: 01/10/2025.) - grifo nosso
+
+Ementa. CONSTITUCIONAL E PROCESSO CIVIL. BOLSISTA. PROGRAMA MÉDICOS PELO BRASIL. DESCONTOS DE CONTRIBUIÇÕES PREVIDENCIÁRIAS EM FOLHA DE PAGAMENTO. AUSÊNCIA DE REPASSE AO INSS. DECISÃO INTERLOCUTÓRIA DE DECLÍNIO DE COMPETÊNCIA PARA A JUSTIÇA DO TRABALHO. INSUBSISTÊNCIA. DE OUTRO GIRO, FIRMADA A COMPETÊNCIA DA JUSTIÇA FEDERAL. ACOLHIDA A QUESTÃO DE ORDEM. I. CASO EM EXAME 1. O recurso. O agravo de instrumento interposto pela parte autora visa à reforma da decisão interlocutória de declínio de competência para a Justiça do Trabalho, com base no enunciado de Súmula nº 392 do TST. 2. Fatos relevantes. (i) a parte autora propôs ação de obrigação de fazer no intuito de garantir a qualidade de segurada no INSS para o gozo dos benefícios decorrentes da contribuição previdenciária, e subsidiariamente, visa a condenação da parte ré ao pagamento de reparação de danos (extra)patrimoniais; (ii) foi celebrado entre a agravante e a ADAPS, em 13 de janeiro de 2023, “Termo de Concessão de Bolsa”, no qual aquele (médica) é denominada “Bolsista” e a Cláusula Primeira define que o objeto do contrato é o curso de formação de 2 (dois) anos, denominado “Estágio Experimental Remunerado”. II. QUESTÃO EM DISCUSSÃO 3. A questão em discussão consiste em saber se o vínculo jurídico estabelecido entre as partes no âmbito do Programa Médicos pelo Brasil e a obrigação de repasse das contribuições retidas atrairiam a competência jurisdicional da Justiça do Trabalho, nos termos da Súmula nº 392 do Tribunal Superior do Trabalho, ou de outra jurisdição. III. RAZÕES DE DECIDIR  4. A Adaps, atualmente AgSUS, criada por lei e implementada pelo Poder Executivo Federal (União) possui natureza jurídica de serviço social autônomo, na forma de pessoa jurídica de direito privado sem fins lucrativos e gerencia o Programa Médicos pelo Brasil, que tem como objetivo a contratação de médicos em dois grupos distintos: (i) médico bolsista, com registro no Conselho Regional de Medicina (CRM), sem exigência prévia de especialidade, para se tornar especialista em Médico da Família e Comunidade mediante o curso de formação previsto no processo seletivo e (ii) médico tutor, com a exigência de registro no CRM e de especialização prévia em medicina de família e comunidade ou clínica médica, para supervisionar o curso de formação dos médicos do grupo anterior (artigos 24, 25, § 1º e 27, § 3º). 5. Destaca-se que durante o curso de formação o candidato recebe bolsa-formação (e não remuneração ou salário). Além disso, suas atividades são didático-assistenciais no contexto de um curso de especialização, com supervisão (Lei nº 13.958/2019, artigo 27, §2º e §3º). 6. A situação processual ora analisada configura ausência de prestação de serviços com conteúdo tipicamente trabalhista, e sem qualquer indicativo de desvirtuamento ou fraude à legislação trabalhista. Por isso, não se reconhece como relação de trabalho entre as partes apta a atrair a competência da Justiça do Trabalho para o processamento e julgamento do processo (CF, art. 114, inc. I e VI e Súmula nº 392 do TST). 7. De outra perspectiva, acolhe-se a questão de ordem para, de ofício, por economia processual e em homenagem à colegialidade, reconhecer a competência da justiça federal para processar e julgar a presente demanda, tendo em vista a existência de anterior conflito de competência suscitado por este órgão revisional e distribuído ao STJ, além da existência de impasse acerca da matéria inclusive entre os próprios Tribunais Regionais Federais, bem como precedentes da Corte Superior. Precedentes. 8. É de se prestigiar, no caso concreto, a competência da Justiça Federal. IV. DISPOSITIVO  9. Questão de ordem acolhida. Reconhecida a competência da Justiça Federal para processar a ação originária. Via de consequência, declarada a incompetência desta Segunda Turma Cível para julgar o presente agravo de instrumento. Autos redistribuídos. Dispositivos relevantes citados: CF, arts. 109, I, 114, I e VI; Súmula nº 392 do TST; Lei nº 13.958/2019, arts. 24, 25 e 27; Lei nº 14.621/2023. Jurisprudência relevante citada: STJ, MS n. 25.194/DF, relator Ministro Herman Benjamin, Primeira Seção, julgado em 27/11/2019, DJe de 7/5/2020; TRF1, 10730274720224013400, Re. Des. Federal Antonio Oswaldo Scarpa, Nona Turma, PJe 26.04.2024; TRF-4 - AI: 50476876420224040000, Rel. Des. Fed. Rogerio Favreto, Terceira Turma, Julgamento: 23.05.2023; TJDFT, acórdão 1934710, Rel. Des. Hector Valverde Santanna, Segunda Turma Cível, DJe: 29.10.2024. (Acórdão 2079377, 0706412-60.2025.8.07.0000, Relator(a): FERNANDO TAVERNARD, 2ª TURMA CÍVEL, data de julgamento: 10/12/2025, publicado no DJe: 21/01/2026.) - grifo nosso
+
+Ementa: DIREITO ADMINISTRATIVO. APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. PROGAMA MÉDICOS PELO BRASIL. REMANEJAMENTO A PEDIDO. AGÊNCIA BRASILEIRA DE APOIO À GESTÃO DO SUS (AGESUS). SERVIÇO SOCIAL AUTÔNOMO. QUESTÃO DE ORDEM. DELEGAÇÃO. UNIÃO. JUSTIÇA FEDERAL. COMPETÊNCIA. CONFLITO NEGATIVO SUSCITADO. I. CASO EM EXAME 1. Mandado de segurança impetrado contra ato do Diretor-Presidente da Agência Brasileira de Apoio à Gestão do SUS (Agesus). O Juízo de Primeiro Grau da Justiça Federal excluiu a União do processo e determinou a remessa dos autos à Justiça do Distrito Federal e dos Territórios. II. QUESTÕES EM DISCUSSÃO 2. A questão em discussão consiste em saber se a competência para processar e julgar o processo é da Justiça do Distrito Federal e dos Territórios ou da Justiça Federal. III. RAZÕES DE DECIDIR 3. O ato do Diretor-Presidente da Agência Brasileira de Apoio à Gestão do SUS (Agesus) que indefere o requerimento da impetrante objetivando remanejamento em processo seletivo oriundo do programa Mais Médicos é praticado em delegação de poder público pela União. IV. DISPOSITIVO E TESE 4. Conflito de competência suscitado. Tese de julgamento: “A Justiça Federal é competente para o julgamento de mandado de segurança impetrado contra ato de autoridade federal e inclui-se o agente de entidade particular em relação aos atos praticados no exercício da função federal delegada no conceito de autoridade federal.”Dispositivos relevantes citados: Lei n. 13.958/2019, arts. 1°, 4°, 6°, e 14; Lei n. 12.016/2009, art. 1°, § 1°; CF/1988, art. 109, inc. VII. Jurisprudência relevante citada: Súmula nº 510/STF; Súmula nº 555/STF; Tema de Repercussão Geral nº 722/STF; STJ, CC 40.060, Rel. Min. Castro Meira, Primeira Seção, j. 24.3.2004; CC 71.843, Rel. Min. Eliana Calmon, Rel. para acórdão Min. Teori Albino Zavascki, Primeira Seção, j. 11.6.2008; Súmula nº 60/TRF. (Acórdão 1934710, 0737128-38.2023.8.07.0001, Relator(a): HECTOR VALVERDE SANTANNA, 2ª TURMA CÍVEL, data de julgamento: 23/10/2024, publicado no DJe: 29/10/2024.) - grifo nosso
+
+Ademais, à guisa de esclarecimento, ressalto que ainda se encontra pendente de julgamento no STJ o conflito de competência suscitado no último precedente supramencionado (CC nº 210008/DF - 2024/0451542-1), o qual está concluso para decisão desde o dia 16/12/2024.
+
+Portanto, diante da fundamentação exposta, reconheço ex officio a incompetência da Justiça do Distrito Federal e dos Territórios para processar e julgar a presente demanda, devendo os autos serem remetidos a uma das Varas Cíveis Federais da Seção Judiciária do Distrito Federal.
+
+III- DO MÉRITO RECURSAL
+
+Caso reste vencido em relação à preliminar de incompetência da Justiça do Distrito Federal e dos Territórios suscitada de ofício, passo, então, à análise do apelo interposto.
+
+Presentes os pressupostos de admissibilidade, visto ser adequado à hipótese, tempestivo, subscrito por advogado e com recolhimento de preparo (ID 79464906), conheço do recurso de apelação.
+
+No mérito, a controvérsia recursal consiste em perquirir se a apelada está obrigada a restituir a integralidade dos valores recebidos a título de bolsa-formação nos meses de setembro, outubro e novembro de 2023, como pretende a apelante, ou se apenas o valor proporcional ao período de 18/11/2023 a 30/11/2023, conforme decidido na sentença, em razão do reconhecimento do direito ao recesso proporcional e da data formal de desligamento.
+
+Compulsando os autos, verifica-se que a própria recorrida confirmou, em diversas ocasiões, que a data de seu desligamento e de seu último dia de prestação de serviços na UBS ocorreu em 10/09/2023. Confira-se:
+
+A Autora foi desligada do programa em meados do mês de setembro/2023, levando-a a crer que as parcelas depositadas em setembro e outubro de 2023 se referiam ao pagamento da bolsa de setembro/2023 e da pecúnia de férias não gozadas, respectivamente. (ID 79464740 - fl. 5)
+
+Não se sabe, ainda, se foi considerado no cálculo o período trabalhado no mês do desligamento (setembro/2023), a gerar pagamento do valor integral do mês ou saldo de salário. (ID 79464740 - fl. 6)
+
+Conforme exposto na contestação, a Ré já havia informado que seu último dia efetivo de trabalho foi 10/09/2023 [i] e que presumiu legítimos os créditos de setembro e outubro de 2023 em decorrência: do período trabalhado em setembro; do pedido de pecúnia de férias prevista no art. 40, II, “f”, da Portaria ADAPS nº 04/2022 [ii], requerida com o pedido de desligamento, bem como do email enviado pela própria Autora alertando que o desligamento não poderia ser concluído antes do recesso agendado. (ID 79464869 - fl. 1)
+
+Além disso, o documento de ID 79464866, assinado pela apelada, também comprova que o pedido de desligamento foi realizado para contar a partir do dia 10/09/2023, em seu último dia de prestação de serviços na UBS.
+
+Dessa forma, resta incontroverso que a data do desligamento e do último dia de prestação de serviços da recorrida foi em 10/09/2023, nos termos do art. 374, II e III, do CPC.
+
+Ademais, consoante preceitua o art. 389 do CPC, "há confissão, judicial ou extrajudicial, quando a parte admite a verdade de fato contrário ao seu interesse e favorável ao do adversário".
+
+Vale mencionar que, ainda que a apelante tenha enviado mensagem eletrônica à parte apelada (ID 79464749) informando que não seria possível o desligamento na data pleiteada (10/09/2023), em razão de conflito com a data do recesso autorizado no período de 19/10/2023 a 17/11/2023, é fato incontroverso nos autos que o último dia de prestação de serviços da recorrida se deu em 10/09/2023.
+
+Nesse contexto, é cediço que o art. 876 do Código Civil (CC) preceitua que que todo aquele que recebeu o que lhe não era devido fica obrigado a restituir.
+
+Outrossim, o art. 884 do CC dispõe que “[a]quele que, sem justa causa, se enriquecer à custa de outrem, será obrigado a restituir o indevidamente auferido, feita a atualização dos valores monetários.”
+
+Dessa forma, considerando o último dia de prestação de serviços da recorrida (10/09/2023), e tendo em vista o pagamento indevido da bolsa-formação referente aos meses de setembro (parcialmente), outubro e novembro de 2023, faz-se necessária a restituição do montante recebido incorretamente, sob pena de enriquecimento sem causa.
+
+De mais a mais, o princípio da boa fé objetiva (art. 422 do CC) não pode servir de fundamento para legitimar o enriquecimento sem causa (art. 884 do CC). Ao contrário, sua função é precisamente coibir comportamentos contraditórios e assegurar o equilíbrio entre as partes, o que reforça o dever de restituição das parcelas recebidas indevidamente.
+
+A esse respeito, confiram-se os seguintes precedentes deste Tribunal de Justiça:
+
+APELAÇÃO. CIVIL. PROCESSO CIVIL. AÇÃO DE COBRANÇA. PROGRAMA MÉDICOS PELO BRASIL. VALORES PAGOS INDEVIDAMENTE. AUSÊNCIA DE CONTRAPRESTAÇÃO DOS SERVIÇOS. RESTITUIÇÃO DEVIDA. SENTENÇA DE PROCEDÊNCIA MANTIDA. 1. Conforme o disposto no art. 884 do Código Civil “aquele que, sem justa causa, se enriquecer à custa de outrem, será obrigado a restituir o indevidamente auferido, feita a atualização dos valores monetários.” 2. No caso em análise, demonstrada a inexistência de prestação dos serviços médicos para os quais o réu havia sido contratado e caracterizado o pagamento indevido por erro material, afigura-se legítima a obrigação de restituição dos valores imposta pela r. sentença apelada, sob pena de enriquecimento ilícito. 3. Recurso conhecido e não provido. (Acórdão 2059835, 0754236-46.2024.8.07.0001, Relator(a): MAURICIO SILVA MIRANDA, 7ª TURMA CÍVEL, data de julgamento: 22/10/2025, publicado no DJe: 05/11/2025.) - grifo nosso
+
+APELAÇÃO CÍVEL. DIREITO CIVIL. AÇÃO DE COBRANÇA. PROGRAMA MÉDICOS PELO BRASIL. DEVOLUÇÃO DE VALORES PAGOS INDEVIDAMENTE A TÍTULO DE BOLSA-FORMAÇÃO. COMUNICAÇÃO DE DESLIGAMENTO. RESCISÃO UNILATERAL. CONTRAPRESTAÇÃO INDEVIDA. ENRIQUECIMENTO SEM CAUSA. VEDAÇÃO. PEDIDO DE COMPENSAÇÃO POR CONTRIBUIÇÕES PREVIDENCIÁRIAS DESCONTADAS. AUSÊNCIA DE PROVA DA AUSÊNCIA DE REPASSE AO INSS. PROVIDÊNCIA ADEQUADA. RECOLHIMENTO TARDIO PELO RESPONSÁVEL TRIBUTÁRIO. INEXISTÊNCIA DE CRÉDITO EM FAVOR DO TRABALHADOR. IMPROCEDÊNCIA. SENTENÇA MANTIDA. 1. O contrato firmado no âmbito do Programa Médicos pelo Brasil prevê a possibilidade de rescisão unilateral mediante simples comunicação, com aviso prévio de 30 (trinta) dias, não estando condicionada a eficácia do desligamento a ato homologatório ou confirmação formal pela instituição. 2. A comunicação de desligamento e a cessação das atividades tornam indevido o pagamento da bolsa-formação relativa a período sem prestação de serviços, pois o contrato vincula o pagamento à atuação efetiva em local designado. 3. O art. 422 do CC/02 estabelece que os contratos devem ser interpretados e executados conforme a probidade e a boa-fé, impondo às partes deveres de lealdade e cooperação. O recebimento de valores sem a correspondente prestação de serviços viola essa regra e caracteriza enriquecimento sem causa (art. 884 do CC/02), impondo a obrigação de restituir o importe pago indevidamente. 4. Embora comprovados os descontos previdenciários em folha, inexiste nos autos prova de que a contratante tenha deixado de repassar tais valores ao INSS, e, ainda que houvesse inadimplência, a solução legal não é a devolução ao trabalhador, mas o recolhimento tardio pelo responsável tributário, restando inviável a compensação pleiteada pelo Recorrente. 5. Apelação conhecida e não provida. (Acórdão 2024439, 0731981-94.2024.8.07.0001, Relator(a): ROBSON TEIXEIRA DE FREITAS, 8ª TURMA CÍVEL, data de julgamento: 22/07/2025, publicado no DJe: 01/08/2025.) - grifo nosso
+
+Vale mencionar que o Tema 1.009 do STJ é aplicável em caso de pagamentos indevidos aos servidores públicos, o que não se verifica na espécie, haja vista a natureza do cargo que a recorrida ocupava (médica bolsista do PMpB).
+
+Noutro giro, no que concerne ao direito ao recesso proporcional convertido em pecúnia, observa-se que tal pleito foi realizado pela apelada em sede de reconvenção, a qual foi indeferida pelo Juízo de origem (ID 79464757), em razão do não recolhimento das custas judiciais ou da comprovação da impossibilidade de fazê-lo.
+
+Sendo assim, eventual discussão acerca do direito ao recesso proporcional convertido em pecúnia deverá ocorrer em ação autônoma, sob pena de violação aos arts. 141 e 492 do CPC.
+
+Portanto, tendo em vista os fundamentos retromencionados, caso vencido na preliminar de incompetência desta Justiça Comum estadual, elencada de ofício, quanto à questão de fundo, entendo imperativa a reforma da sentença vergastada, para julgar procedentes os pedidos iniciais e, por conseguinte, condenar a apelada (ré) a restituir à apelante (autora) os valores pagos a maior, considerando-se o último dia de prestação de serviços ocorrido em 10/09/2023, sem qualquer desconto de eventual recesso proporcional convertido em pecúnia.
+
+IV-DO DISPOSITIVO
+
+Por tais razões, reconheço, ex officio, a incompetência da Justiça do Distrito Federal e dos Territórios para processar e julgar a presente demanda, anulando, portanto, a sentença proferida e determinando, por conseguinte, a remessa dos autos para uma das Varas Cíveis Federais da Seção Judiciária do Distrito Federal.
+Caso entenda o Colegiado por rejeitar a preliminar preliminar suscitada de ofício por este Relator, quando à questão meritória CONHEÇO do apelo interposto para DAR-LHE PROVIMENTO, reformando a sentença combatida para julgar procedentes os pedidos iniciais e, por conseguinte, condenar a apelada (ré) a restituir à apelante (autora) os valores pagos a maior, considerando-se o último dia de prestação de serviços ocorrido em 10/09/2023, sem qualquer desconto de eventual recesso proporcional convertido em pecúnia.
+
+Neste caso, em razão do provimento do recurso e da consequente procedência da demanda, a parte recorrida deve arcar integralmente com os ônus sucumbenciais estabelecidos da sentença.
+
+É como voto.
+
+[1] https://agenciasus.org.br/wp-content/uploads/2024/11/Contrato_de_Gestao_n_02-2024.pdf
+
+O Senhor Desembargador LEONARDO ROSCOE BESSA - 1º Vogal Trata-se de apelação cível interposta por AGÊNCIA BRASILEIRA DE APOIO À GESTÃO DO SUS – AGSUS contra sentença da 13ª Vara Cível da Circunscrição Judiciária de Brasília proferida nos autos de ação de conhecimento de ressarcimento ajuizada em desfavor de BRUNA OLIVEIRA DE PAULA.
+
+O Juízo julgou parcialmente procedente o pedido, para condenar a ré à restituição proporcional dos valores referentes ao período de 18/11/2023 a 30/11/2023, rejeitando a devolução integral das quantias pagas nos meses anteriores, bem como rejeitou os embargos de declaração opostos (ID 79464889 e 79464904).
+
+Em suas razões (ID 79464907), a apelante alega que: 1) a data de desligamento da apelada é incontroversa e corresponde ao último dia efetivamente trabalhado, em 10/09/2023; 2) a própria apelada reconheceu, na contestação e em pedido formal de desligamento, que deixou de exercer atividades a partir de setembro de 2023; 3) o pagamento de recesso proporcional não se aplica às hipóteses de pedido de desligamento formulado pelo próprio bolsista; 4) a sentença incorreu em erro na valoração das provas ao considerar e-mail administrativo como marco do desligamento; 5) ainda que se admitisse recesso, este não poderia ultrapassar o limite máximo de 30 dias; 6) a manutenção dos valores pagos após o desligamento caracteriza enriquecimento sem causa, vedado pelo ordenamento jurídico.
+
+Requer o provimento do recurso para que seja reformada a sentença e determinada a restituição integral dos valores pagos indevidamente, considerando como termo final do vínculo o dia 10/09/2023, sem reconhecimento de direito a recesso proporcional.
+
+O Desembargador Relator, Alfeu Machado, anulou, de ofício, a sentença ao reconhecer a incompetência da Justiça do Distrito Federal e dos Territórios para processar e julgar o feito e determinou a remessa para uma das Varas da Justiça Federal.
+
+Peço vênia para divergir de seu entendimento quanto à preliminar de incompetência.
+
+A competência da Justiça Federal é absoluta e fixada ratione personae no art. 109, I, da Constituição Federal, que se restringe às causas em que a União, autarquia federal ou empresa pública federal figure como parte ou como interessada.
+
+A AgSUS não se enquadra em nenhuma dessas categorias. É pessoa jurídica de direito privado, constituída na forma de serviço social autônomo, sem fins lucrativos. Não integra a Administração Pública direta nem a indireta (art. 6º da Lei 14.621/2023).
+
+Ao tratar da competência para julgar demandas que envolvam serviços sociais autônomos, o STF consolidou orientação na Súmula 516/STF, segundo a qual o Serviço Social da Indústria está sujeito à jurisdição da Justiça Estadual.
+
+A Segunda Turma do Supremo Tribunal Federal, no RE 1.543.485-AgR (rel. Min. Dias Toffoli, j. 12/08/2025), reafirmou que a mera supervisão ministerial ou o financiamento por verbas federais não equivalem à presença da União ou de entidade autárquica no processo, para fins do art. 109, I, da Constituição Federal:
+
+“Agravo regimental em recurso extraordinário. Direito administrativo. Improbidade administrativa. SESC/RJ. Recursos. Competência. Justiça Comum Estadual. Súmula nº 516/STF. Precedentes. 1. Os serviços sociais autônomos são pessoas jurídicas de direito privado e, apesar de receberem recursos públicos e serem fiscalizadas pelo Tribunal de Contas da União, não são entidades integrantes da Administração Pública Federal. Assim, segundo o entendimento sumulado do STF, “[o] Serviço Social da Indústria (SESI) está sujeito à jurisdição da Justiça estadual” (Súmula nº 516/STF). 2. A jurisprudência da Suprema Corte consolidou o entendimento de que compete à Justiça Comum Estadual processar e julgar “ações cíveis nas quais figurem como partes pessoas distintas das elencadas no art. 109, inc. I, da Constituição da República, ainda que se alegue prejuízo a entidades paraestatais, custeadas por verbas sujeitas à fiscalização do Tribunal de Contas da União” (RE nº 589.840/RS-AgR, Primeira Turma, Rel. Min. Cármen Lúcia, DJe de 26/5/11). 3. Agravo regimental não provido. (RE 1543485 AgR, Relator(a): DIAS TOFFOLI, Segunda Turma, julgado em 12-08-2025, PROCESSO ELETRÔNICO DJe-s/n  DIVULG 13-08-2025  PUBLIC 14-08-2025)” – grifou-se
+
+A distinção realizada pelo Supremo Tribunal Federal (STF) no RE 789.874/DF (Tema 569) entre os serviços sociais clássicos do Sistema S e os chamados novos serviços sociais autônomos, a exemplo da APS, da APEX e da ABDI, tem por objeto a exigência do concurso público, não discute a fixação da competência jurisdicional.
+
+Paralelamente, a Súmula 150 do Superior Tribunal de Justiça pressupõe pedido concreto de intervenção formulado pela União ou por ente federal. Não é norma que autorize, de ofício e em abstrato, o declínio da competência em todo processo que, em tese, possa ter reflexo sobre programa federal.
+
+No caso, a União foi intimada e não se manifestou. Não há pedido de ingresso no feito nem ato de intervenção na relação jurídica de direito material. Portanto, não há motivo para reconhecer a competência de justiça federal.
+
+Registre-se, a propósito, o seguinte julgado deste Tribunal de Justiça:
+
+“DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. FIXAÇÃO DE COMPETÊNCIA. AÇÃO AJUIZADA CONTRA SERVIÇO SOCIAL AUTÔNOMO (AGSUS). PROGRAMA MÉDICOS PELO BRASIL. AUSÊNCIA DE INTERESSE JURÍDICO DA UNIÃO. COMPETÊNCIA DA JUSTIÇA ESTADUAL. PROVIMENTO. I. CASO EM EXAME 1. Agravo de instrumento interposto contra decisão que declinou da competência da Justiça Estadual em favor da Justiça Federal, em ação de obrigação de não fazer cumulada com pedido de tutela de urgência, ajuizada contra serviço social autônomo responsável pela execução do Programa Médicos pelo Brasil, visando impedir desligamento e suspensão de bolsas-formação em razão de alteração normativa na etapa avaliativa do programa. II. QUESTÃO EM DISCUSSÃO 2. A questão em discussão consiste em definir se compete à Justiça Federal ou à Justiça Estadual processar e julgar demanda proposta contra serviço social autônomo (AgSUS), pessoa jurídica de direito privado, que atua na execução de programa federal, sem participação direta da União no polo da relação processual. III. RAZÕES DE DECIDIR 3. A competência da Justiça Federal, prevista no art. 109, I, da CF/1988, é absoluta e depende da presença da União como parte ou interessada. A mera supervisão ministerial e o financiamento com recursos federais não configuram interesse jurídico direto da União. 4. Os serviços sociais autônomos, embora fiscalizados e custeados por verbas públicas, não integram a Administração Pública, conforme entendimento consolidado pelo STF (Súmula 516/STF), sendo competente a Justiça Estadual para processar e julgar ações cíveis em que figurem como parte. 5. Divergência jurisprudencial no âmbito do TJDFT não afasta a aplicação da tese firmada pelo STF, segundo a qual não há deslocamento da competência para a Justiça Federal quando ausente interesse jurídico da União. IV. DISPOSITIVO E TESE 6. Recurso conhecido e provido para declarar a competência da Justiça Estadual (24ª Vara Cível de Brasília) para processar e julgar a ação.   Tese de julgamento: “1. A competência para julgar ação proposta contra serviço social autônomo, ainda que executor de programa federal e financiado por recursos da União, é da Justiça Estadual, quando ausente interesse jurídico direto da União.”   Dispositivos relevantes citados: CF/1988, art. 109, I; CPC, art. 64, § 1º. Jurisprudência relevante citada: STF, RE n. 589.840/RS-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 26/5/2011; STF, RE n. 1543485 AgR, Rel. Min. Dias Toffoli, Segunda Turma, j. 12/8/2025; Súmula 516/STF. (Acórdão 2099629, 0746255-32.2025.8.07.0000, Relator(a): SONÍRIA ROCHA CAMPOS D'ASSUNÇÃO, 3ª TURMA CÍVEL, data de julgamento: 05/03/2026, publicado no DJe: 19/03/2026.)” – grifou-se
+
+“PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE CONHECIMENTO. SERVIÇO SOCIAL AUTÔNOMO. COMPETÊNCIA. RECURSO CONHECIDO E PROVIDO. I. CASO EM EXAME 1. Agravo de instrumento interposto pela parte autora contra decisão que, nos autos de autos de ação de conhecimento, reconheceu, de ofício, a incompetência absoluta para processamento e julgamento do feito e, via de consequência, determinou a remessa dos autos para uma das Varas Federais da Seção Judiciária do Distrito Federal. O pedido de antecipação da tutela recursal foi deferido. II. QUESTÃO EM DISCUSSÃO 2. A questão em discussão consiste em verificar a competência da Justiça Estadual para processar ações em que figure como parte a Agência Brasileira de Apoio à Gestão do SUS – AgSUS. III. RAZÕES DE DECIDIR 3. A Agência Brasileira de Apoio à Gestão do SUS – AgSUS possui natureza jurídica de serviço social autônomo, constituída sob a forma de pessoa jurídica de direito privado, nos termos da Lei n. 13.958/19, com redação dada pela Lei n. 14.621/23, e não integra a Administração Pública direta ou indireta ou se equipara a autarquia ou fundação pública. 4. A competência da Justiça Federal, prevista no art. 109, I, da Constituição Federal, restringe-se às hipóteses em que figure, como parte, a União, suas autarquias ou fundações públicas, ou quando demonstrado interesse jurídico direto e imediato do ente federal. 5. Segundo enunciado da Súmula n. 516 do STF e precedentes do STJ, os serviços sociais autônomos estão sujeitos, em regra, à jurisdição da Justiça Estadual. 6. O fato de a AgSUS executar políticas públicas federais ou receber recursos da União, mediante contrato de gestão e supervisão ministerial, não é suficiente, por si só, para atrair a competência da Justiça Federal. 7. A lide de origem versa sobre critérios de avaliação e consequências da reprovação em prova de suficiência para obtenção de titulação profissional, decorrentes de normas internos editadas pela própria AgSUS, inexistindo impugnação direta a ato administrativo da União, nem pedido que implique condenação ou obrigação jurídica ao ente federal. A União, inclusive, instada a se manifestar, demonstrou desinteresse em intervir no feito. 8. Ausente interesse jurídico direto da União, impõe-se o reconhecimento da competência da Justiça Estadual para processar e julgar a demanda. IV. DISPOSITIVO 9. Recurso conhecido e provido. (Acórdão 2090250, 0745696-75.2025.8.07.0000, Relator(a): SANDRA REVES, 7ª TURMA CÍVEL, data de julgamento: 11/02/2026, publicado no DJe: 03/03/2026.)” – grifou-se
+
+Assim, a justiça estadual é competente para processar e julgar os processos que possuem a AGSUS como parte.
+
+Divirjo do relator apenas para rejeitar a preliminar de incompetência suscitada de ofício.
+
+No mérito, acompanho o Relator: conheço do recurso e nego-lhe provimento.
+
+É como voto.
+O Senhor Desembargador ARQUIBALDO CARNEIRO - 2º Vogal p{text-align: justify;}
+Adoto o relatório.
+Peço vênia ao eminente Relator para divergir quanto à preliminar suscitada de ofício. No mérito, acompanho o e. Relator.
+Da preliminar de incompetência.
+A divergência ora apresentada não está em discutir o acerto ou desacerto do pedido formulado na ação de cobrança, mas, em verificar se haveria fundamento bastante para o reconhecimento, ex officio, da incompetência da Justiça do Distrito Federal e dos Territórios, com anulação da sentença e remessa dos autos à Justiça Federal.
+A meu sentir, a competência estatual deve ser mantida.
+Embora a Agência Brasileira de Apoio à Gestão do SUS – AgSUS execute política pública federal, a sua conformação normativa, ao menos para os fins imediatos de fixação da competência nesta demanda, não autoriza concluir, de plano, pela presença de interesse jurídico direto da União apto a deslocar a causa para a Justiça Federal.
+Isso porque a competência prevista no art. 109, I, da Constituição Federal é fixada ratione personae e pressupõe a presença da União, de autarquia federal ou de fundação pública federal na relação processual, ou, ainda, a demonstração concreta de interesse jurídico direto e imediato do ente federal, não bastando, para tanto, a mera vinculação temática da lide a programa instituído por lei federal, a supervisão ministerial ou o custeio por recursos da União, considerados isoladamente.
+Há julgados desta Corte nos quais se assentou que a AgSUS possui natureza jurídica de serviço social autônomo, pessoa jurídica de direito privado, e que a simples execução de políticas públicas federais, ainda que sob contrato de gestão e supervisão ministerial, não é suficiente, por si só, para atrair a competência da Justiça Federal (acórdãos n. 2090250 e 2099629).
+No acórdão n. 2090250, a 7ª Turma Cível consignou que a AgSUS “possui natureza jurídica de serviço social autônomo, constituída sob a forma de pessoa jurídica de direito privado”, que a competência da Justiça Federal se restringe às hipóteses do art. 109, I, da Constituição Federal e que “o fato de a AgSUS executar políticas públicas federais ou receber recursos da União, mediante contrato de gestão e supervisão ministerial, não é suficiente, por si só, para atrair a competência da Justiça Federal”, concluindo, ao final, pela ausência de interesse jurídico direto da União e pelo reconhecimento da competência da Justiça Estadual.
+Eis a ementa de julgamento:
+
+“PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE CONHECIMENTO. SERVIÇO SOCIAL AUTÔNOMO. COMPETÊNCIA. RECURSO CONHECIDO E PROVIDO.
+I. CASO EM EXAME
+1. Agravo de instrumento interposto pela parte autora contra decisão que, nos autos de autos de ação de conhecimento, reconheceu, de ofício, a incompetência absoluta para processamento e julgamento do feito e, via de consequência, determinou a remessa dos autos para uma das Varas Federais da Seção Judiciária do Distrito Federal. O pedido de antecipação da tutela recursal foi deferido.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar a competência da Justiça Estadual para processar ações em que figure como parte a Agência Brasileira de Apoio à Gestão do SUS – AgSUS.
+III. RAZÕES DE DECIDIR
+3. A Agência Brasileira de Apoio à Gestão do SUS – AgSUS possui natureza jurídica de serviço social autônomo, constituída sob a forma de pessoa jurídica de direito privado, nos termos da Lei n. 13.958/19, com redação dada pela Lei n. 14.621/23, e não integra a Administração Pública direta ou indireta ou se equipara a autarquia ou fundação pública.
+4. A competência da Justiça Federal, prevista no art. 109, I, da Constituição Federal, restringe-se às hipóteses em que figure, como parte, a União, suas autarquias ou fundações públicas, ou quando demonstrado interesse jurídico direto e imediato do ente federal.
+5. Segundo enunciado da Súmula n. 516 do STF e precedentes do STJ, os serviços sociais autônomos estão sujeitos, em regra, à jurisdição da Justiça Estadual.
+6. O fato de a AgSUS executar políticas públicas federais ou receber recursos da União, mediante contrato de gestão e supervisão ministerial, não é suficiente, por si só, para atrair a competência da Justiça Federal.
+7. A lide de origem versa sobre critérios de avaliação e consequências da reprovação em prova de suficiência para obtenção de titulação profissional, decorrentes de normas internos editadas pela própria AgSUS, inexistindo impugnação direta a ato administrativo da União, nem pedido que implique condenação ou obrigação jurídica ao ente federal. A União, inclusive, instada a se manifestar, demonstrou desinteresse em intervir no feito.
+8. Ausente interesse jurídico direto da União, impõe-se o reconhecimento da competência da Justiça Estadual para processar e julgar a demanda.
+IV. DISPOSITIVO
+9. Recurso conhecido e provido.”
+(Acórdão 2090250, 0745696-75.2025.8.07.0000, Relator(a): SANDRA REVES, 7ª TURMA CÍVEL, data de julgamento: 11/02/2026, publicado no DJe: 03/03/2026.)”
+
+No mesmo sentido, o acórdão n. 2099629, da 3ª Turma Cível, registrou que “a mera supervisão ministerial e o financiamento com recursos federais não configuram interesse jurídico direto da União”, acrescentando que os serviços sociais autônomos, “embora fiscalizados e custeados por verbas públicas, não integram a Administração Pública”, sendo competente a Justiça Estadual para processar e julgar ações cíveis em que figurem como parte.
+A propósito, a ementa:
+
+“DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. FIXAÇÃO DE COMPETÊNCIA. AÇÃO AJUIZADA CONTRA SERVIÇO SOCIAL AUTÔNOMO (AGSUS). PROGRAMA MÉDICOS PELO BRASIL. AUSÊNCIA DE INTERESSE JURÍDICO DA UNIÃO. COMPETÊNCIA DA JUSTIÇA ESTADUAL. PROVIMENTO.
+I. CASO EM EXAME
+1. Agravo de instrumento interposto contra decisão que declinou da competência da Justiça Estadual em favor da Justiça Federal, em ação de obrigação de não fazer cumulada com pedido de tutela de urgência, ajuizada contra serviço social autônomo responsável pela execução do Programa Médicos pelo Brasil, visando impedir desligamento e suspensão de bolsas-formação em razão de alteração normativa na etapa avaliativa do programa.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir se compete à Justiça Federal ou à Justiça Estadual processar e julgar demanda proposta contra serviço social autônomo (AgSUS), pessoa jurídica de direito privado, que atua na execução de programa federal, sem participação direta da União no polo da relação processual.
+III. RAZÕES DE DECIDIR
+3. A competência da Justiça Federal, prevista no art. 109, I, da CF/1988, é absoluta e depende da presença da União como parte ou interessada. A mera supervisão ministerial e o financiamento com recursos federais não configuram interesse jurídico direto da União.
+4. Os serviços sociais autônomos, embora fiscalizados e custeados por verbas públicas, não integram a Administração Pública, conforme entendimento consolidado pelo STF (Súmula 516/STF), sendo competente a Justiça Estadual para processar e julgar ações cíveis em que figurem como parte.
+5. Divergência jurisprudencial no âmbito do TJDFT não afasta a aplicação da tese firmada pelo STF, segundo a qual não há deslocamento da competência para a Justiça Federal quando ausente interesse jurídico da União.
+IV. DISPOSITIVO E TESE
+6. Recurso conhecido e provido para declarar a competência da Justiça Estadual (24ª Vara Cível de Brasília) para processar e julgar a ação.
+Tese de julgamento:
+“1. A competência para julgar ação proposta contra serviço social autônomo, ainda que executor de programa federal e financiado por recursos da União, é da Justiça Estadual, quando ausente interesse jurídico direto da União.”
+Dispositivos relevantes citados: CF/1988, art. 109, I; CPC, art. 64, § 1º.
+Jurisprudência relevante citada: STF, RE n. 589.840/RS-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 26/5/2011; STF, RE n. 1543485 AgR, Rel. Min. Dias Toffoli, Segunda Turma, j. 12/8/2025; Súmula 516/STF.”
+(Acórdão 2099629, 0746255-32.2025.8.07.0000, Relator(a): SONÍRIA ROCHA CAMPOS D'ASSUNÇÃO, 3ª TURMA CÍVEL, data de julgamento: 05/03/2026, publicado no DJe: 19/03/2026.)
+
+Ademais, impende registrar que esta Turma Cível já examinou controvérsias similares, inclusive relativas à questão principal subjacente ao Programa Médicos pelo Brasil, sem declinar da competência para a Justiça Federal, a exemplo dos acórdãos n. 2071108, 2035054, 2034784 e 1994852.
+Entendo, assim, que a competência não deve ser declinada de ofício, sobretudo porque não há, ao menos por ora, manifestação concreta da União postulando ingresso no feito, nem elemento objetivo que demonstre repercussão jurídica imediata sobre esfera jurídica de ente federal.
+Além disso, no caso concreto, a própria autora da demanda, ora apelante, escolheu ajuizar a ação perante a Justiça Comum do Distrito Federal, sustentando expressamente, na petição inicial, que a AgSUS é serviço social autônomo, pessoa jurídica de direito privado, que não se confunde com a administração pública e que, por isso, a competência para processamento e julgamento da presente ação é da Justiça Comum, vez que não se aplica nenhuma das hipóteses do artigo 109 da CF/88. Outrossim, a parte autora, invocou a eleição do foro da Capital Federal para dirimir conflitos decorrentes do vínculo estabelecido entre as partes.
+Não desconheço os fundamentos lançados no voto do eminente Relator, especialmente no tocante às peculiaridades institucionais da AgSUS, à sua vinculação ao Ministério da Saúde e ao financiamento por dotações orçamentárias da União. Contudo, tais elementos, embora relevantes, não bastam, por si sós, para autorizar a conclusão de que haja interesse jurídico federal direto em toda e qualquer demanda envolvendo a entidade.
+Se assim fosse, chegar-se-ia, na prática, a uma equiparação automática da AgSUS à própria União ou a ente da administração indireta federal, premissa que não encontra apoio inequívoco na moldura constitucional do art. 109, I.
+De igual modo, a invocação da Súmula 150 do STJ não conduz, aqui, ao desfecho pretendido. O enunciado cuida da competência da Justiça Federal para decidir sobre a existência de interesse jurídico que justifique a presença da União, de suas autarquias ou empresas públicas no processo.
+Ocorre que, nesta causa, não há pedido de intervenção da União nem pronunciamento da Justiça Federal reconhecendo interesse jurídico federal específico a justificar o deslocamento.
+Assim, ausente, neste momento, demonstração concreta e imediata de interesse jurídico da União, e considerando a natureza jurídica de direito privado da AgSUS, a diretriz da Súmula 516 do STF, a circunstância de que a própria apelante ajuizou a presente ação perante a Justiça estadual afirmando a competência da Justiça Comum, não vislumbro fundamento para a anulação da sentença e remessa dos autos à Justiça Federal.
+Por essas razões, afasto a preliminar de incompetência suscitada de ofício, reconhecendo a competência da Justiça do Distrito Federal e dos Territórios para o processamento e julgamento da demanda.
+Do mérito.
+Superada a questão preliminar, sendo rejeitada a preliminar de incompetência, no mérito, acompanho o e. Relator.
+É como voto.
+
+O Senhor Desembargador ANTONIO FERNANDES DA LUZ - 3º Vogal Com o(a) relator(a)A Senhora Desembargadora VERA ANDRIGHI - 4º Vogal Com a divergência
+
+DECISÃO
+
+PRELIMINAR REJEITADA. RECURSO DESPROVIDO. DECISÃO POR MAIORIA. JULGAMENTO REALIZADO NOS TERMOS DO ART. 942, CPC.
