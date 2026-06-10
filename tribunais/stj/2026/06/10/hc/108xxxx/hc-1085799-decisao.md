@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JOÃO PEDRO GIUBEL contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL que julgou improcedente a revisão criminal proposta na origem e manteve a condenação imposta. Eis a ementa (fls. 213-215):
+DIREITO PROCESSUAL PENAL. REVISÃO CRIMINAL. ART. 621, I, DO CPP. ALEGADA CONTRARIEDADE À EVIDÊNCIA DOS AUTOS. IMPOSSIBILIDADE DE REDISCUSSÃO FÁTICO- PROBATÓRIA. SUSPENSÃO DA EXECUÇÃO DA PENA. AUSÊNCIA DE EFEITO SUSPENSIVO. DOSIMETRIA. INEXISTÊNCIA DE ILEGALIDADE MANIFESTA. IMPROCEDÊNCIA.
+I. CASO EM EXAME
+1. Revisão criminal ajuizada contra condenação definitiva pelos crimes de tráfico de drogas e associação para o tráfico, em que o requerente sustenta contrariedade à evidência dos autos (CPP, art. 621, I) e postula, liminarmente, a suspensão da execução da pena, buscando a desconstituição do julgado e, subsidiariamente, rediscussão da tipificação e da dosimetria.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) definir se a condenação transitada em julgado é manifestamente contrária à evidência dos autos, nos termos do art. 621, I, do CPP; (ii) estabelecer se é cabível a suspensão da execução da pena em sede de revisão criminal, à luz da ausência de efeito suspensivo; (iii) determinar se há ilegalidade manifesta na dosimetria apta a justificar intervenção revisional.
+III. RAZÕES DE DECIDIR
+3. A revisão criminal é ação autônoma de impugnação, de caráter excepcionalíssimo, com hipóteses de cabimento taxativas (CPP, art. 621), e não se presta a funcionar como sucedâneo recursal para reabrir debate fático- probatório já exaurido nas instâncias ordinárias.
+4. A contrariedade à evidência dos autos, para fins revisionais, exige incompatibilidade manifesta, flagrante e incontrovertível do decreto condenatório com o acervo probatório, o que não se configura quando há lastro mínimo e valoração judicial de provas produzidas sob contraditório.
+5. O requerente não apresenta prova nova nem demonstra erro judiciário patente, limitando-se a reiterar teses defensivas já apreciadas na sentença, no acórdão de apelação e em sucessivas impugnações (embargos de declaração, recurso especial, agravo e novos embargos), com trânsito em julgado em 11/11/2025.
+6. As instâncias ordinárias embasam a condenação em conjunto probatório judicializado, notadamente relatórios de investigação, elementos extraídos de celulares apreendidos mediante autorização judicial, depoimentos harmônicos de agentes públicos e circunstâncias da apreensão, reconhecendo dinâmica de traficância e vínculo entre corréus.
+7. A desclassificação para posse para consumo pessoal é afastada a partir do contexto fático-probatório valorado no acórdão, que considera, além da quantidade, elementos indicativos de destinação mercantil e atuação coordenada, sendo desnecessária prova de venda direta para a configuração do art. 33 da Lei de Drogas.
+8. O reconhecimento do crime de associação para o tráfico é mantido quando os elementos da investigação e da instrução indicam atuação conjunta, com divisão de tarefas e coordenação, reputadas suficientes pelas instâncias ordinárias para caracterizar estabilidade e permanência (Lei nº 11.343/06, art. 35).
+9. O pedido liminar de suspensão da execução é indeferido porque a revisão criminal não possui efeito suspensivo e a condenação transitada em julgado permanece hígida até eventual procedência, reservando-se a suspensão a situações excepcionalíssimas de flagrante ilegalidade, não evidenciadas em cognição sumária.
+10. Condições pessoais favoráveis (família, residência fixa, dependente recém- nascida e estudo) não constituem fundamento legal para suspender execução definitiva, podendo, quando cabível, ser apreciadas no juízo da execução para benefícios próprios.
+11. A reanálise da dosimetria em revisão criminal somente se justifica diante de erro técnico ou ilegalidade manifesta, inexistentes no caso, especialmente porque o acórdão de apelação já redimensiona a pena, fixa penas-base no mínimo legal, mantém a majorante do art. 40, VI, afasta o art. 40, III, e rejeita o tráfico privilegiado por dedicação a atividades criminosas, culminando em 9 anos e 4 meses de reclusão e 1.300 dias-multa.
+12. Ausente teratologia ou excesso desproporcional na reprimenda final e inexistente vício apto a desconstituir a coisa julgada, preserva-se a segurança jurídica sem afastar a garantia excepcional do condenado quando presentes os requisitos legais.
+IV. DISPOSITIVO E TESE
+13. Recurso conhecido e improvido.
+Consta nos autos que o paciente foi condenado à pena de 11 anos e 8 meses e 1400 dias-multa, de reclusão em regime inicial fechado pela prática do crime tipificado nos arts. 33, caput, e 35, caput, ambos da Lei n.º 11.343/2006, em concurso material, com incidência da majorante do art. 40, VII, da Lei n.º 11.343/06.
+Interposto o recurso de apelação, o Tribunal de origem redimensionou a pena em 9 anos, 4 meses de reclusão e mais 1.300 dias-multa, mantidos os demais termos condenatórios.
+Após o trânsito em julgado da condenação, a defesa ajuizou revisão criminal, ocasião que foi mantida a condenação.
+Neste writ, a defesa alega a ocorrência de nulidade absoluta por ausência de fundamentação, ao argumento de que o Tribunal de origem deixou de aplicar o Tema 506/STF, parâmetro de 40g adotado como referência para consumo pessoal, ainda que a quantidade apreendida fosse inferior (17,8g de maconha), sem indicação de elementos concretos de comercialização da droga.
+Sustenta a ilegalidade da prisão, uma vez que o acórdão se apoia em meras suposições, provas testemunhais baseadas em "ouvir dizer", requerendo a concessão da liberdade, sobretudo para evitar maiores prejuízos ao paciente.
+Requer, liminarmente, a suspensão dos efeitos da condenação, com expedição do alvará de soltura, e no mérito, a concessão da ordem para declarar a nulidade do acórdão proferido, descontituindo as condenações por associação e tráfico de drogas.
+A liminar foi indeferida (fls. 441-443).
+As informações foram prestadas (fls. 446-539 e fls. 551-553).
+O pedido de reconsideração foi indeferido (fl. 554).
+O Ministério Público Federal manifestou pelo não conhecimento do habeas corpus, assim ementado (fl. 562):
+HABEAS CORPUS. REVISÃO CRIMINAL. TRÁFICO E ASSOCIAÇÃO AO TRÁFICO. ABSOLVIÇÃO. REVOLVIMENTO. PROVAS SUFICIENTES E IDÔNEAS. WRIT SUBSTITUTIVO.
+1. O habeas corpus, quando utilizado como substituto de recursos próprios, não deve ser conhecido, somente se justificando a concessão da ordem de ofício quando flagrante a ilegalidade apontada.
+2. Se em decisão fundamentada o Tribunal de origem reputou presente a comprovação do delito de tráfico e associação ao tráfico, afasta-se a pretensão de absolvição por ensejar o revolvimento do acervo fático-probatório. Precedentes do STJ.
+3. Parecer pelo não conhecimento do writ.
+Em petição de fls. 577-600, a defesa reitera os termos da inicial.
+É o relatório.
+A competência do Superior Tribunal de Justiça está expressamente prevista no art. 105 e incisos da Constituição Federal, exigindo, para conhecimento da matéria trazida em caso de habeas corpus, a existência de ato coator de Tribunal sujeito à sua jurisdição ou de quaisquer das outras autoridades elencadas no inciso I, alíneas b e c, da CF/88, o que não se vislumbra ocorrer no caso.
+In casu, conforme informações prestadas pelo Tribunal de origem, verificou-se que houve o trânsito em julgado da ação penal (fl. 552), tendo sido o presente habeas corpus impetrado, portanto, como sucedâneo de revisão criminal, o que se mostra inadmissível.
+Com efeito "O Superior Tribunal de Justiça, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022)." (AgRg no HC n. 869.292/MS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 11/3/2024, DJe de 14/3/2024.)
+"Inviável o conhecimento da impetração, uma vez que o Superior Tribunal de Justiça possui entendimento segundo o qual o advento do trânsito em julgado impossibilita a admissão do writ, visto que o conhecimento de habeas corpus em substituição à revisão criminal subverte o sistema de competências constitucionais, transferindo a análise do feito de órgão estadual para este Tribunal Superior (AgRg no HC n. 789.984/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/4/2023, DJe de 20/4/2023)." (AgRg no HC n. 793.120/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+Cumpre ressaltar a impossibilidade de amplo reexame de fatos e provas nos autos de habeas corpus, de cognição sumária.
+Nesse sentido, observa-se inadmissível a revisão criminal proposta, de modo que a consequência lógica é o seu não conhecimento.
+Ante o exposto, não conheço do habeas corpus
+Publique-se.
+Intimem-se.
+EMENTA
