@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JONATHAN FELIPE FERREIRA DE JESUS - preso em flagrante em 24/2/2026, com conversão da prisão em preventiva pelo Juízo da Vara Regional das Garantias da comarca de Guarulhos/SP e posteriormente denunciado pela prática do crime de furto qualificado tentado (Processo n. 1502530-09.2026.8.26.0448 - fls. 44/46) -, em que a defesa aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que denegou a ordem no HC n. 2063546-87.2026.8.26.0000 (fls. 9/16).
+Em síntese, o impetrante alega constrangimento ilegal por ausência de fundamentação concreta da prisão preventiva, amparada na suposta "reiteração delitiva" baseada exclusivamente em processo anterior, sem trânsito em julgado, o que viola o princípio da presunção de inocência (fl. 4).
+Afirma que o paciente está sendo processado por um delito que não envolve violência ou grave ameaça à pessoa e que eventual revogação da prisão não trará prejuízo à persecução penal, uma vez que já foi regularmente citado e apresentou resposta à acusação (fl. 5). Ressalta que mesmo em caso de eventual condenação, é plenamente possível a fixação de regime inicial semiaberto ou aberto, o que torna desproporcional e incompatível a manutenção da prisão preventiva (fl. 5).
+Aponta a desnecessidade da referida segregação, diante das condições pessoais favoráveis do paciente - primário, de bons antecedentes, exerce atividade lícita, com residência fixa (fl. 6).
+Sustenta, por fim, a ausência de justificação na decisão impugnada quanto à demonstração concreta da inadequação, in casu, das medidas cautelares alternativas previstas no art. 319 do Código de Processo Penal.
+Requer, inclusive em caráter liminar, a revogação da prisão preventiva, mediante a aplicação de medidas cautelares diversas.
+Em 30/4/2026, indeferi o pedido liminar (fls. 259/261).
+Prestadas as informações (fls. 266/267), o Ministério Público Federal opinou, às fls. 272/275, pela denegação da ordem.
+É o relatório.
+O writ não comporta acolhimento.
+De início, cumpre lembrar que não cabe, em sede de habeas corpus, proceder ao exame da veracidade do suporte probatório que embasou o decreto de prisão preventiva. Isso porque, além de demandar o reexame de fatos, é suficiente para o juízo cautelar a verossimilhança das alegações, e não o juízo de certeza, próprio da sentença condenatória. Precedente do STF.
+Na espécie, pelo que se depreende da motivação do acórdão ora impugnado, o Tribunal de origem baseou-se em elementos concretos extraídos dos autos para manter o decreto prisional, cujo teor é o seguinte (HC n. 2063546-87.2026.8.26.0000 - fls. 12/16 - grifo nosso):
+ ..
+Segundo consta da denúncia, o paciente JONATHAN e Linconl teriam se associado para a prática de furto de combustível pertencente à empresa Robtrans. O paciente, que exercia a função de motorista de transporte de combustíveis, valendo-se do acesso ao caminhão e à carga, teria combinado com Linconl a subtração de parte do produto transportado. Na data dos fatos, durante o trajeto de entrega, o paciente desviou a rota para encontrar Linconl, que o aguardava em uma VW/Kombi com galões destinados ao armazenamento do combustível. Iniciado o transbordo do produto para os recipientes, a ação foi flagrada por policiais militares em patrulhamento. Ao perceber a aproximação da equipe policial, o paciente teria derramado parte do combustível na calçada, enquanto Linconl tentou ocultar-se no interior do veículo. Durante a abordagem, ambos admitiram o transbordo do combustível, que seria vendido pelo paciente a Linconl pelo valor de R$ 3,00.
+ ..
+Consoante consignado na r. decisão, o paciente foi preso em flagrante pela prática de crimes patrimoniais e contra a fé pública, recentemente, em setembro de 2025, tendo sido beneficiado com a liberdade provisória mediante o pagamento de fiança (processo n. 1503405-38.2025.8.26.0274 v. fls. 40/42), circunstâncias que evidenciam a necessidade de resguardo da ordem pública.
+As circunstâncias acima referidas, portanto, somadas aos indícios de autoria e materialidade são bastantes a permitir a segregação do paciente. Ainda, o periculum libertatis é verificado a partir dos indícios que denotam a habitualidade delitiva e indicam probabilidade de reiteração.
+ ..
+Também não se cogita a aplicação de medidas cautelares diversas da prisão, previstas no artigo 319 do Código de Processo Penal, uma vez que a situação processual do paciente revela a insuficiência e a inadequação das referidas medidas para afastá-lo da criminalidade.
+ ..
+Vê-se, portanto, que a prisão preventiva foi decretada para garantia da ordem pública, em virtude da reiteração delitiva constatada, o que está em consonância com os precedentes deste Tribunal. Nesse sentido: AgRg no HC n. 877.528/MS, relator Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, julgado em 11/6/2024, DJe de 14/6/2024; AgRg no HC n. 841.043/BA, de minha relatoria, Sexta Turma, julgado em 11/3/2024, DJe de 14/3/2024; e AgRg no HC n. 786.760/CE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/10/2023, DJe de 5/10/2023.
+Com efeito, o fato de o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquérito ou mesmo ações penais em curso constitui fundamento idôneo e suficiente para justificar a prisão preventiva do acusado, por demonstrar sua periculosidade e risco concreto de reiteração delitiva (AgRg no HC n. 971.661/ES, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/4/2025, DJEN de 24/4/2025).
+Inexiste, pois, constrangimento ilegal a ser reparado.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. FURTO QUALIFICADO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. REITERAÇÃO DELITIVA. ELEMENTOS CONCRETOS. CONSTRANGIMENTO ILEGAL. INEXISTÊNCIA.
+Ordem denegada.
