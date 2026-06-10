@@ -1,0 +1,74 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Primeira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.EMBARGOS DE DECLARAÇÃO CÍVEL 0786086-39.2025.8.07.0016EMBARGANTE(S)HCC- PROJETOS ELETRICOS S/A e HCC- PROJETOS ELETRICOS S/AEMBARGADO(S)GERALDO RESENDE DE CARVALHO JUNIORRelatorJuiz LUIS EDUARDO YATSUDA ARIMA
+ Acórdão Nº2134341
+
+EMENTA
+
+Ementa. Direito do Consumidor. Embargos de Declaração em Recurso Inominado. Microgeração distribuída fotovoltaica. Módulos inoperantes. Obrigação de fazer. Alegada omissão quanto à delimitação da obrigação e ao regime regulatório do setor elétrico. Alegada obscuridade quanto ao reconhecimento do vício pela própria empresa. Alegada contradição entre a rejeição dos pedidos indenizatórios e a tutela específica. Vícios não verificados. Pretensão de rediscussão do mérito. Multa por embargos protelatórios. Incabível. Embargos rejeitados.
+
+I. Caso em exame
+
+1. Embargos de declaração opostos pela requerida em face do acórdão que conheceu e negou provimento ao seu recurso inominado, mantendo a sentença que a condenou a promover o conserto ou a troca de seis placas solares no endereço de instalação do sistema de microgeração fotovoltaica adquirido pelo consumidor, no prazo de quinze dias contado da intimação na fase de cumprimento de sentença, sob pena de conversão da obrigação em perdas e danos.
+
+2. O acórdão embargado qualificou a relação como de consumo, assentou que o microssistema dos Juizados Especiais dispensa prova pericial formal como requisito inafastável da convicção judicial, reconheceu que a inoperância de seis dos noventa e três módulos é fato de clareza probatória aferível pelo aplicativo de monitoramento My SolarEdge, registrou que a própria recorrente, em contestação, admitiu a necessidade de reparo e declarou estar adotando providências junto ao fabricante, afastou a contradição interna por terem a tutela específica e a tutela ressarcitória natureza e pressupostos distintos, e rejeitou a excludente de fato de terceiro por integrar o fabricante a cadeia de fornecimento, com responsabilidade solidária da integradora perante o consumidor.
+
+3. Recurso próprio e tempestivo.
+
+4. Em suas razões, a requerida sustenta a existência de omissão, obscuridade e contradição no acórdão, com fundamento no art. 1.022, incisos I e II. Quanto à omissão, alega, em primeiro ponto, que o acórdão manteve a condenação à substituição de equipamentos sem delimitar os contornos técnicos e jurídicos da obrigação de fazer, sem manifestação expressa sobre o prazo de cumprimento, sobre a observância de protocolos técnicos do setor elétrico ou sobre a validação por terceiros, elementos que reputa essenciais à execução de obrigação relativa a sistema técnico complexo, e que o acórdão não enfrentou o argumento, suscitado em sede recursal, de que a determinação de substituição deveria observar parâmetros técnicos mínimos, sob pena de comando genérico e inexequível, em violação ao art. 489, §1º, IV, e ao art. 497 do CPC. Em segundo ponto, alega que o acórdão deixou de enfrentar a incidência do regime regulatório próprio da microgeração distribuída, notadamente a Lei nº 14.300/2022 e as normas da ANEEL, sustentando que a controvérsia não seria relação de consumo ordinária, mas contexto técnico-regulatório em que a operação, a manutenção e a substituição de componentes observariam critérios definidos em normas setoriais e a atuação de agentes diversos, como fabricantes e concessionárias. Quanto à obscuridade, sustenta que o acórdão afirmou ter a empresa reconhecido a necessidade de reparo e usou essa premissa como fundamento da condenação sem esclarecer a natureza jurídica desse reconhecimento. Quanto à contradição, alega incongruência interna do julgado, porque o acórdão reconheceria, ainda que implicitamente, a ausência de demonstração de prejuízo relevante ao consumidor, sem indicação de paralisação do sistema ou de perda substancial de desempenho, mas concluiria pela necessidade de substituição de equipamentos sem analisar a utilidade, a adequação e a proporcionalidade da medida. Requer, ao final, o conhecimento e o provimento dos embargos para sanar os vícios, com o enfrentamento das teses; caso reconhecidos os vícios, a atribuição de efeitos infringentes; o enfrentamento expresso dos artigos invocados, para fins de prequestionamento.
+
+5. Em contrarrazões, o embargado requer a rejeição dos embargos. Sustenta que a embargante não demonstra qualquer vício integrativo, limitando-se a manifestar inconformismo com o resultado e a buscar rediscutir matéria já apreciada, em uso indevido dos declaratórios como sucedâneo recursal. Quanto à omissão, afirma que a Turma Recursal apreciou suficientemente a controvérsia e que o julgador não está obrigado a rebater individualmente cada argumento, norma regulatória ou tese subsidiária, bastando fundamentação suficiente, aduzindo que a controvérsia não envolve discussão regulatória complexa perante concessionária ou ANEEL, mas típica relação de consumo decorrente da persistência de seis placas solares inoperantes desde a instalação, e que a tentativa de conferir artificial complexidade técnica à causa tem o propósito de afastar a incidência das normas protetivas do CDC. Quanto à obscuridade, sustenta que o acórdão foi claro ao reconhecer que a embargante tinha ciência inequívoca da necessidade de correção do sistema, apontando comportamento processual contraditório da empresa, que admitiu a necessidade de providências corretivas e depois passou a tentar transferir o ônus da solução ao consumidor, e que a eventual dependência de fabricante ou terceiros não afasta a responsabilidade solidária da fornecedora. Quanto à contradição, sustenta que o acórdão não reconheceu a inexistência de defeito, apenas concluiu que os elementos dos autos não eram suficientes para a condenação indenizatória, situação distinta da tutela específica, que decorre diretamente do inadimplemento contratual e da inadequação do serviço. Afirma a desnecessidade de prova pericial, diante dos registros de geração energética e da persistência da inoperância, e a incabência dos efeitos infringentes. Quanto ao prequestionamento, sustenta a desnecessidade de manifestação exaustiva sobre cada dispositivo invocado. Em capítulo próprio, sustenta o caráter manifestamente protelatório dos embargos e requer expressamente a condenação da embargante ao pagamento da multa prevista no art. 1.026, §2º, do CPC.
+
+II. Questão em discussão
+
+6. As questões em discussão consistem em saber: (i) se há omissão no acórdão embargado quanto à delimitação dos contornos e do prazo da obrigação de fazer e quanto à incidência da Lei nº 14.300/2022 e das normas da ANEEL; (ii) se há obscuridade quanto à natureza jurídica atribuída ao reconhecimento, pela embargante, da necessidade de reparo do sistema; (iii) se há contradição interna entre a rejeição dos pedidos indenizatórios e a imposição da tutela específica; (iv) se é cabível a atribuição de efeitos infringentes; e (v) se é cabível a aplicação da multa do art. 1.026, §2º, do CPC, requerida nas contrarrazões.
+
+III. Razões de decidir
+
+7. Dispõe o art. 1.022 do CPC: "Cabem embargos de declaração contra qualquer decisão judicial para: I - esclarecer obscuridade ou eliminar contradição; II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; III - corrigir erro material". No mesmo sentido, o art. 48 da Lei nº 9.099/95 prevê o cabimento dos embargos nos casos previstos no CPC. Os embargos de declaração buscam sanar vícios, como obscuridade, contradição ou omissão, que podem acometer a decisão judicial, sendo necessária a existência de vício intrínseco do decisum, para comportar a oposição dos embargos. O vício deve estar nitidamente contido nas premissas do julgamento, ainda que para fins de prequestionamento.
+
+8. Não há omissão quanto à delimitação da obrigação de fazer. O acórdão embargado, ao descrever a sentença mantida, reproduziu a determinação de promover o conserto ou a troca das seis placas solares no endereço de instalação do sistema de microgeração fotovoltaica, no prazo de quinze dias contado da intimação na fase de cumprimento de sentença, sob pena de conversão da obrigação em perdas e danos. A obrigação tem objeto definido, qual seja, seis módulos individualizados, local de cumprimento, prazo certo e consequência expressa para o descumprimento, atendendo à exigência de tutela específica adequada do art. 497 do CPC. A pretensão de que o acórdão fixasse protocolos técnicos do setor ou validação por terceiros corresponde, na essência, ao pedido subsidiário de limitação da obrigação ao mero acompanhamento técnico junto ao fabricante, que foi formulado no recurso inominado e expressamente rejeitado pelo acórdão, ao assentar a responsabilidade direta e solidária da integradora. O inconformismo da embargante com o conteúdo do comando judicial não configura omissão.
+
+9. Não há omissão quanto à incidência da Lei nº 14.300/2022 e das normas da ANEEL. A embargante não sustenta a inaplicabilidade do CDC à espécie, mas afirma que à relação consumerista se sobrepõe um regime técnico-regulatório próprio do setor de microgeração distribuída, que imporia critérios específicos à operação, à manutenção e à substituição de componentes do sistema, com a participação de fabricantes e de concessionárias. O cerne dessa tese foi enfrentado pelo acórdão embargado, que assentou a natureza consumerista da relação, a aplicabilidade dos arts. 7º, parágrafo único, 14, § 3º, II, 20 e 84 do CDC e a responsabilidade direta e solidária da integradora pela adequação do serviço perante o consumidor. O art. 7º, parágrafo único, do CDC consagra o diálogo das fontes em favor do consumidor, de modo que a regulação setorial específica da microgeração distribuída não infirma, mas convive com a tutela consumerista, sem dela excluir a responsabilidade civil da fornecedora pela inadequação do serviço prestado. A obrigação imposta repousa em fundamento consumerista autônomo e suficiente, e nem a Lei nº 14.300/2022 nem os atos normativos da ANEEL invocados pela embargante seriam aptos a infirmar a conclusão de inadequação do serviço e o consequente direito do consumidor à reexecução nos termos do art. 20 do CDC. Consoante o art. 489, § 1º, IV, do CPC, exige-se do juízo o enfrentamento dos argumentos centrais capazes de infirmar a conclusão adotada, e não a resposta nominal a cada dispositivo invocado pela parte. A ausência de menção textual àqueles diplomas, portanto, não configura omissão sanável pela via integrativa.
+
+10. Não há obscuridade quanto ao reconhecimento, pela embargante, da necessidade de reparo. O acórdão embargado foi expresso ao registrar que a própria recorrente, em contestação, reconheceu a necessidade de reparo e declarou estar adotando providências junto ao fabricante, requerendo que fosse formalizado o compromisso já assumido, e ao concluir que o reconhecimento do fato pela própria parte dispensa a produção de prova adicional, nos termos do art. 374, III, do CPC. O enquadramento jurídico está explícito, qual seja, o de admissão de fato afirmado por uma parte e confirmado pela outra, que torna o fato incontroverso. A pretensão de requalificar esse reconhecimento como mera conduta de política de garantia constitui revaloração da prova e rediscussão da premissa fática, vedada na via integrativa.
+
+11. Não há contradição interna no julgado. A alegada incongruência entre a rejeição dos pedidos indenizatórios e a imposição da obrigação de fazer foi suscitada no recurso inominado e expressamente enfrentada no acórdão embargado, que distinguiu, de forma fundamentada, a tutela específica da obrigação de fazer, disciplinada no art. 84 do CDC e no art. 497 do CPC, que decorre do simples inadimplemento contratual ou do dever de adequada prestação do serviço, da tutela ressarcitória, que exige a demonstração e a quantificação do prejuízo efetivo. O acórdão estabeleceu a correlação lógica entre a falha e a medida, ao consignar que seis módulos jamais funcionaram e que o art. 20 do CDC confere ao consumidor o direito à reexecução do serviço viciado, independentemente da demonstração de dano patrimonial mensurável. Quando o ponto alegado como contraditório já foi expressamente decidido no acórdão, não há contradição a sanar, havendo, no máximo, discordância da parte com a fundamentação adotada, o que não comporta declaratórios.
+
+12. O conjunto dos vícios alegados revela que os embargos veiculam, na essência, irresignação com o resultado do julgamento e pretensão de reexame da prova e da própria adequação da medida imposta. No caso, não se configuram os vícios alegados, pretendendo a parte embargante, na realidade, a revisão das provas e o rejulgamento do mérito da matéria já apreciada no acórdão.
+
+13. O pedido de aplicação da multa por embargos protelatórios, formulado nas contrarrazões com fundamento no art. 1.026, §2º, do CPC, não comporta acolhimento. A mera alegação do intuito protelatório é insuficiente, exigindo demonstração concreta do propósito meramente protelatório dos embargos. No caso, os embargos foram opostos pela primeira vez contra o acórdão, sem reiteração, e estão articulados em torno de pontos plausíveis, ainda que improcedentes, não havendo elementos concretos de abuso processual que justifiquem a sanção.
+
+IV. Dispositivo e tese
+
+14. Embargos de declaração conhecidos e rejeitados.
+
+15. A súmula de julgamento servirá de acórdão, conforme regra do art. 46 da Lei nº 9.099/95.
+
+Dispositivo relevante citado: CPC, arts. 374, III, 489, §1º, IV, 497, 1.022; CDC, arts. 7º, parágrafo único, 14, §3º, II, 20 e 84; Lei nº 9.099/1995, arts. 46 e 48.Jurisprudência relevante citada: n/a
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Primeira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, LUIS EDUARDO YATSUDA ARIMA - Relator, EVANDRO NEIVA DE AMORIM - 1º Vogal e FLÁVIO FERNANDO ALMEIDA DA FONSECA - 2º Vogal, sob a Presidência do Senhor Juiz LUIS EDUARDO YATSUDA ARIMA, em proferir a seguinte decisão: CONHECIDOS. REJEITADOS. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 15 de Junho de 2026
+
+Juiz LUIS EDUARDO YATSUDA ARIMAPresidente e Relator
+
+RELATÓRIO
+
+Na forma do art. 46 da Lei 9.099/1995, a ementa serve de acórdão. Recurso próprio, regular e tempestivo.
+
+VOTOS
+
+O Senhor Juiz LUIS EDUARDO YATSUDA ARIMA - Relator
+
+Dispensado o voto. A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+O Senhor Juiz EVANDRO NEIVA DE AMORIM - 1º Vogal Com o(a) relator(a)O Senhor Juiz FLÁVIO FERNANDO ALMEIDA DA FONSECA - 2º Vogal Com o(a) relator(a)
+
+DECISÃO
+
+CONHECIDOS. REJEITADOS. UNÂNIME.
