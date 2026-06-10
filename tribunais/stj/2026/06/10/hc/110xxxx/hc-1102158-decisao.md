@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de EVANDRO PASTRE, apontando-se como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul.
+Neste writ, a defesa sustenta, em suma: a) que o cumprimento do mandado de busca ocorreu às 06h30min, antes do nascer do sol, em afronta ao art. 5º, XI, da Constituição da República e ao art. 245 do Código de Processo Penal, contaminando os atos subsequentes; b) que a prisão preventiva foi mantida com motivação abstrata e genérica, sem demonstração concreta do periculum libertatis, em descompasso com o art. 312 do Código de Processo Penal, sobretudo diante da apreensão de pequena quantidade de droga, da primariedade e das condições pessoais favoráveis do paciente; e c) que são suficientes e adequadas medidas cautelares diversas da prisão, nos termos do art. 319 do Código de Processo Penal, inclusive, por razões humanitárias, a prisão domiciliar, em razão da dependência de sua genitora enferma.
+Requer a concessão da ordem para colocar o paciente em liberdade, seja pelo relaxamento da prisão diante das ilegalidades da diligência (cumprimento do mandado em período noturno e agressões relatadas em audiência de custódia), seja pela revogação da preventiva ante a ausência dos requisitos dos arts. 312 e 313 do Código de Processo Penal. Subsidiariamente, pede a substituição por prisão domiciliar em razão das circunstâncias humanitárias (art. 318 do Código de Processo Penal) ou por medidas cautelares diversas (art. 319 do Código de Processo Penal).
+É o relatório.
+Decido.
+Em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado (AgRg no HC n. 1.006.527/RJ, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 20/8/2025, DJEN de 26/8/2025.).
+No caso, verifica-se que o processo não foi instruído com cópia do decreto preventivo. Logo, inviável a aferição de constrangimento ilegal sofrido pelo acusado.
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+Publique-se. Intime-se.
+EMENTA
