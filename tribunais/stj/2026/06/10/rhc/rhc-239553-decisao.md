@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por CLAUDIO MARQUES DE OLIVEIRA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que denegou o writ de origem.
+Consta dos autos que o recorrente foi preso em flagrante em 28 de janeiro de 2026, sob imputação do art. 33, caput, da Lei 11.343/06, com posterior conversão em prisão preventiva na audiência de custódia. Após o devido processamento da ação penal, sobreveio sentença condenatória, atualmente impugnada por apelação defensiva, subsistindo a segregação com natureza preventiva.
+No presente recurso, a defesa informa que a prisão preventiva foi mantida com fundamentação genérica e sem elementos concretos contemporâneos, em desconformidade com os arts. 93, IX, da Constituição Federal, e 315, § 2º, do CPP. Destaca que não foram apontados riscos efetivos à ordem pública, à instrução criminal ou à aplicação da lei penal.
+Aponta a ausência de apreensão de objetos ou valores que indiquem dedicação à traficância, e que toda a droga estava em veículo diverso, conduzido por corréu, o que revelaria fragilidade do juízo cautelar de periculosidade individual do recorrente. Sustenta que a quantidade global de entorpecentes, vinculada a automóvel distinto, não autoriza presumir periculosidade nem justifica a medida extrema.
+Destaca que o acórdão recorrido utilizou considerações abstratas sobre os efeitos sociais do tráfico, sem individualizar condutas ou riscos atribuíveis ao recorrente, caracterizando motivação inadequada para prisão preventiva. Alega que a medida não pode se apoiar apenas na gravidade do tipo penal nem servir de antecipação de pena.
+Sustenta a inidoneidade de referência a maus antecedentes remotos, relativos a fatos de 2008, com pena extinta em 2013, afirmando ausência de contemporaneidade do perigo e de aptidão para demonstrar risco atual de reiteração delitiva, conforme interpretação do art. 315, § 1º, do CPP.
+Aponta o caráter excepcional e subsidiário da prisão preventiva e afirma que não houve demonstração específica da insuficiência das medidas cautelares do art. 319 do CPP. Informa que o recorrente possui residência fixa, atividade lícita e vínculos familiares, sem registros de fuga, ameaça a testemunhas ou embaraço à instrução.
+Requer, liminarmente e no mérito, o provimento do recurso para a revogação da prisão preventiva, com expedição de alvará de soltura, reconhecendo o constrangimento ilegal decorrente de motivação genérica e não contemporânea. Subsidiariamente, requer substituição da custódia por medidas cautelares diversas do art. 319 do CPP, como comparecimento periódico em juízo, proibição de ausentar-se da comarca e monitoração eletrônica.
+É o relatório.
+Conforme relatado pela própria defesa "sobreveio sentença condenatória posteriormente, atualmente impugnada por recurso de apelação defensivo, permanecendo o recorrente segregado cautelarmente" (fl. 127).
+Nesse contexto, a prisão cautelar passou a amparar-se em novo título judicial, ainda não apreciado pelo Tribunal estadual, já que o acórdão de fls. 125-136 apreciou tão somente a legalidade da decisão que inicialmente converteu a prisão em flagrante do recorrente em preventiva, o que acarreta a perda superveniente do objeto da presente impetração.
+Ante o exposto, julgo prejudicado o recurso ordinário.
+Publique-se.
+Intimem-se.
+ EMENTA
