@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo regimental interposto por EMERSON VIANA DE LIMA contra a decisão de fls. 336-337 que indeferiu liminarmente o habeas corpus, com aplicação da Súmula n. 691 do STF e ausência de excepcionalidade para superar o óbice.
+Nas razões deste recurso, a defesa alega que é possível afastar a Súmula n. 691 do STF diante de flagrante ilegalidade, sustentando que o habeas corpus deve ser submetido ao Ministro natural para apreciação, não sendo legítimo o indeferimento liminar sem esse exame.
+Argumenta que não há elementos para associação estável e permanente, que o paciente é primário, possui bons antecedentes, residência fixa e ocupação lícita, e que a quantidade de droga seria ínfima e destinada ao consumo, sem atos de comercialização. Afirma que o corréu está recorrendo em liberdade, enquanto a prisão do paciente foi mantida apenas pela condenação, sem fatos contemporâneos que indiquem necessidade da custódia.
+Defende que houve invasão de domicílio e buscas sem justa causa, sem mandado e sem autorização, tornando ilícitas as provas. Narra que testemunhas confirmaram a entrada policial mediante arrombamento do portão e a inexistência de situação de flagrância no quintal ou no interior da casa.
+Expõe que, no caso concreto, a manutenção da prisão seria desproporcional, pois, ainda que mantida a condenação, seria aplicável a causa de diminuição do art. 33, § 4º, da Lei de Drogas, com fixação de regime inicial aberto e possibilidade de substituição da pena corporal por restritivas de direitos.
+Alega que decisão anterior desta Corte, em caso semelhante do mesmo juízo, reconheceu ilegalidade e ajustou a reprimenda, reforçando que a prisão processual tem sido prorrogada indevidamente, sem fundamentação idônea, e que, por isso, caberia superar o óbice sumular.
+Ainda, alega que a folha de antecedentes estaria incorreta; aduz que a lei nova não pode retroagir em prejuízo para justificar preventiva com base em outro processo; menciona pareceres e decisões que tratam de pequenas quantidades e desclassificação para uso; sustenta ausência de prova mínima de tráfico e de associação; e requer a distribuição e conhecimento do habeas corpus .
+Requer, ao final, o acolhimento do agravo, pretendendo obter a concessão da ordem, com a revogação da prisão preventiva ou a concessão de liberdade provisória, ou a submissão do recurso ao colegiado.
+É o relatório.
+Conforme relatado, busca o agravante a revogação da prisão preventiva, ainda que mediante a aplicação de medidas cautelares alternativas.
+Em consulta ao sítio eletrônico do Tribunal de origem (HC n. 2053710-90.2026.8.26.0000), verifica-se que foi proferido acórdão que julgou o mérito do writ originário em 16/4/2026. Assim, tratando-se de novo ato coator, evidencia-se a perda de objeto do presente recurso e do habeas corpus.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ROUBO TRIPLAMENTE MAJORADO. EXTORSÃO. IMPETRAÇÃO DIRIGIDA CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADOR QUE INDEFERIU O PEDIDO LIMINAR NA ORIGEM. SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE ILEGALIDADE PATENTE. SUPERVENIÊNCIA DE JULGAMENTO DE MÉRITO DO WRIT ORIGINÁRIO PELO TRIBUNAL A QUO. AGRAVO PREJUDICADO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2. Anoto que " s e a decisão liminar de Desembargador, originariamente impugnada nestes autos, já foi substituída por decisão terminativa de segundo grau, é forçoso reconhecer a perda superveniente de objeto do habeas corpus e do agravo regimental que buscavam a superação da Súmula n. 691 do STF" (AgRg no HC 447.377/RJ, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe 28/08/2018).
+3. Agravo regimental prejudicado.
+(AgRg no HC n. 803.709/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/5/2023, DJe de 26/5/2023.)
+Ante o exposto, julgo prejudicado o agravo regimental.
+Publique-se. Intimem-se.
+ EMENTA
