@@ -1,0 +1,79 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de BRUNO NARCISO LOPES, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da Apelação Criminal n. 1500569-68.2024.8.26.0556.
+Extrai-se dos autos que o paciente foi condenado à pena de 5 anos e 10 meses de reclusão, no regime inicial fechado, além do pagamento de 583 dias-multa, pela prática do crime tipificado no art. 33, caput, da Lei n. 11.343/06.
+O Tribunal de origem negou provimento à apelação interposta pelo paciente, em acórdão assim ementado (fl. 14):
+"Tráfico de drogas. Tema 526. Incabível. Houve apreensão de 14,16g de cocaína, fato que exclui a aplicabilidade do Tema 526.
+Autoria e materialidade demonstradas. Firmes relatos dos policiais que visualizaram o réu dispensando parte da droga antes de ser abordado. Frágil e implausível negativa do acusado. Dolo de tráfico demonstrado. Quantidade e variedade de drogas, bem como forma de acondicionamento que denotam o dolo de traficância para a droga apreendida. Condenação mantida pelo crime de tráfico de drogas.
+Dosimetria: Básicas mantidas no piso - Reincidência específica mantida com agravamento da pena em 1/6 (um sexto) e afastamento da redução prevista no artigo 33, § 4º, da Lei 11.343/06 mantida ante a recidiva. Recidiva e quantia de pena que impedem a concessão de regime prisional mais brando. Quantia de pena e reincidência específica que obstam a substituição da reprimenda corporal por restritiva de direitos. Prisão domiciliar. Impossibilidade. Análise do preenchimento dos requisitos pela Vara das Execuções criminais. Recurso a que se nega provimento."
+No presente writ, a defesa alega a atipicidade da conduta de tráfico, com necessária reclassificação para o delito do art. 28 da Lei de Drogas, ante a ausência de prova de mercancia e a compatibilidade da pequena quantidade apreendida com a condição de usuário.
+Sustenta a fragilidade probatória quanto à autoria e ao dolo de traficar, ressaltando a inexistência de varredura prévia do local, a distância significativa entre o ponto de abordagem e o local de apreensão dos microtubos de cocaína, e a inviabilidade de "certeza visual" em via pública de alta rotatividade.
+Assevera a inidoneidade das denúncias anônimas antigas e desconexas para comprovar dedicação à atividade criminosa, destacando inconsistências quanto a apelidos e linhas telefônicas, sem elementos externos de corroboração.
+Argui que a reincidência não pode servir como fundamento autônomo para demonstrar o dolo de traficância, sob pena de adoção de direito penal do autor.
+Defende que a ausência de dinheiro, petrechos de traficância ou outros indicativos concretos de comércio ilícito impõe a observância do in dubio pro reo e a revaloração jurídica dos fatos incontroversos.
+Aduz, subsidiariamente, a aplicabilidade do Tema 506 do Supremo Tribunal Federal quanto à maconha e ao haxixe, caso reconhecida a propriedade exclusiva dessas substâncias, com o afastamento de consequências penais.
+Requer, em liminar, a suspensão dos efeitos da condenação, com a expedição de alvará de soltura em favor do paciente para que aguarde em liberdade o julgamento do writ e, no mérito, a concessão da ordem para a desclassificação da conduta ou; subsidiariamente, pela aplicação do Tema 506 do Supremo Tribunal Federal para maconha e haxixe, com a extinção da punibilidade.
+Parecer do Ministério Público Federal pelo não conhecimento da impetração. (fls. 86/88).
+É o relatório.
+Decido.
+De início, cumpre registrar que o acórdão impugnado transitou em julgado em 22 de julho de 2025 (cf. reconhece o impetrante à fl. 4), de modo que o presente writ se volta contra título condenatório definitivo, manejado como sucedâneo de revisão criminal.
+A jurisprudência desta Corte é firme no sentido de não admitir a impetração de habeas corpus em substituição à via revisional própria, sobretudo quando não inaugurada a competência do Superior Tribunal de Justiça acerca da controvérsia, ressalvada a concessão da ordem de ofício na hipótese de flagrante ilegalidade ou teratologia, o que, todavia, não se verifica na espécie.
+A pretensão defensiva consiste, em essência, na desclassificação da conduta tipificada no art. 33, caput, da Lei n. 11.343/06 para o delito de posse para uso próprio (art. 28 da mesma lei) e, subsidiariamente, na aplicação do Tema 506 da repercussão geral do Supremo Tribunal Federal quanto à maconha e ao haxixe, com a extinção da punibilidade.
+No caso em análise, a sentença e o acórdão assentaram que os policiais militares, posicionados a cerca de vinte ou trinta metros do local, visualizaram o paciente, ao perceber o bloqueio policial, arremessar ao solo objeto posteriormente identificado como duas sacolas plásticas contendo, ao todo, 26 microtubos do tipo eppendorf de cocaína, com peso líquido de 14,16 gramas, além de uma porção de haxixe e outra de maconha encontradas em seu bolso. A natureza, a diversidade e, sobretudo, a forma de acondicionamento das substâncias  individualizadas em porções prontas para a revenda  foram os fundamentos eleitos pelas instâncias de origem para reconhecer a destinação mercantil dos entorpecentes.
+A desclassificação pretendida demandaria o revolvimento do conjunto fático-probatório dos autos, providência incompatível com a via estreita do habeas corpus. As instâncias ordinárias, soberanas na análise da prova, concluíram pela existência do dolo de tráfico a partir de elementos concretos, e não da mera condição de usuário ou de antecedentes do paciente.
+Nesse contexto, infirmar tais conclusões para acolher a tese de uso próprio, mediante a revaloração das circunstâncias da abordagem, da distância em que encontrada a droga, da idoneidade das informações que precederam a ação policial ou da ausência de dinheiro e petrechos, exigiria não a simples requalificação jurídica de fatos incontroversos, mas o reexame aprofundado da prova, com a inversão das premissas fáticas firmadas pelo juízo sentenciante e confirmadas pelo Tribunal de origem, o que refoge ao âmbito de cognição do habeas corpus.
+A pretensão, tal como deduzida, não se amolda à hipótese de mera revaloração jurídica, porquanto a própria existência da posse da cocaína pelo paciente é por ele controvertida, dependendo seu acolhimento da reanálise da credibilidade dos depoimentos policiais e da versão exculpatória.
+Nesse sentido, a orientação desta Corte (grifos nossos):
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. TEMA 506 DO SUPREMO TRIBUNAL FEDERAL. PRESUNÇÃO RELATIVA DE PORTE DE DROGA PARA CONSUMO PESSOAL AFASTADA. DESCLASSIFICAÇÃO PARA PORTE DE USO PARA CONSUMO. REEXAME FÁTICO-PROBATÓRIO. DESCLASSIFICAÇÃO PARA USO COMPARTILHADO. INOVAÇÃO RECURSAL.
+1. Consoante a tese firmada no Tema 506 do Supremo Tribunal Federal, nos termos do § 2º do artigo 28 da Lei n. 11.343/2006, será presumido usuário quem, para consumo próprio, adquirir, guardar, tiver em depósito, transportar ou trouxer consigo até 40 gramas de cannabis sativa ou seis plantas fêmeas, até que o Congresso Nacional venha a legislar a respeito.
+2. Com efeito, afasta-se a presunção relativa de porte para consumo pessoal diante da comprovada autoria de tráfico de drogas no caso concreto. Registre-se que a Corte de origem, com fundamento nos depoimentos policiais colhidos em juízo, na oitiva de informante, em elementos audiovisuais e em confissão extrajudicial, manteve a condenação do apenado.
+3. Considerou-se o contexto específico da apreensão de entorpecentes no interior de estabelecimento prisional, ocorrida durante revista de alimentos que estavam sendo transferidos entre detentos. Tal circunstância encontra corroboração no depoimento do apenado, prestado em fase extrajudicial, no qual confessou que a porção de maconha oculta em peça de carne tinha como destino a entrega a terceiro.
+4. Nesse contexto, a pretensa revisão do julgado, com vistas à desclassificação da conduta imputada, não se coaduna com a estreita via do habeas corpus, dada a necessidade de profundo reexame de fatos e provas.
+5. É inviável a inovação recursal em agravo regimental, com a apresentação de temas que não foram desenvolvidos anteriormente pela parte agravante.
+6. Agravo regimental parcialmente conhecido e, nessa extensão, improvido.
+(AgRg no HC n. 999.785/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/9/2025, DJEN de 16/9/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. CONFISSÃO EXTRAJUDICIAL. NULIDADE RELATIVA. DESCLASSIFICAÇÃO PARA O ART. 28 DA LEI N. 11.343/2006. ATENUANTE CONFISSÃO. INOVAÇÃO RECURSAL. AGRAVO PARCIALMENTE CONHECIDO E IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, no qual se alegava nulidade da condenação por tráfico de entorpecentes, baseada em confissão extrajudicial sem formalidades legais.
+2. A Corte de origem refutou a nulidade relativa à confissão informal, afirmando que não constituiu elemento exclusivo de prova para condenação e que não houve demonstração de prejuízo ao agravante.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a confissão extrajudicial, colhida sem formalidades legais, pode ser considerada nula e se houve prejuízo ao agravante que justifique a nulidade da condenação.
+4. Outra questão é saber se a quantidade de entorpecentes apreendida era destinada exclusivamente ao consumo pessoal, o que poderia desclassificar a conduta para o art. 28 da Lei nº 11.343/2006.
+III. Razões de decidir
+5. A confissão extrajudicial não foi o único elemento de prova utilizado para a condenação, sendo corroborada por outros elementos probatórios, como depoimentos de policiais e laudos periciais.
+6. A nulidade relativa da confissão extrajudicial depende da demonstração de prejuízo, o que não foi comprovado no caso em questão.
+7. A quantidade de entorpecentes e as circunstâncias do caso indicam tráfico de drogas, não sendo possível a desclassificação para uso pessoal sem exame aprofundado dos fatos, inviável em habeas corpus.
+8. A inovação recursal, ao pleitear o reconhecimento da atenuante de confissão espontânea, não pode ser analisada em agravo regimental, pois não foi suscitada anteriormente.
+IV. Dispositivo e tese
+9. Agravo parcialmente conhecido e, nessa extensão, improvido.
+Tese de julgamento: "1. A confissão extrajudicial sem formalidades legais exige a demonstração do efetivo prejuízo e não gera nulidade se a condenação estiver corroborada por outras provas 2. A desclassificação para uso pessoal demanda exame aprofundado dos fatos, inviável em habeas corpus".
+Dispositivos relevantes citados: CPP, art. 563; Lei nº 11.343/2006, arts. 28 e 33.Jurisprudência relevante citada: STJ, HC 535.063/SP, Rel. Min. Sebastião Reis Junior, Terceira Seção, julgado em 10/6/2020; STF, AgRg no HC 180.365, Rel. Min. Rosa Weber, Primeira Turma, julgado em 27/3/2020.
+(AgRg no HC n. 988.078/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/6/2025, DJEN de 2/7/2025.)
+No que atine ao pleito subsidiário de aplicação do Tema 506 da repercussão geral do Supremo Tribunal Federal, melhor sorte não socorre a impetração. As instâncias ordinárias reconheceram que, no mesmo contexto fático, houve a apreensão de cocaína, circunstância que, por si só, afasta a incidência do precedente invocado, o qual diz respeito exclusivamente à posse de maconha para consumo pessoal. Não há, ademais, como cindir as condutas para extrair efeitos penais apenas quanto à maconha e ao haxixe, na medida em que a propriedade da cocaína foi reconhecida pelas instâncias de origem como pertencente ao paciente, o que igualmente esbarra no óbice ao reexame de provas.
+A propósito:
+Direito Penal. Agravo Regimental. Tráfico de Drogas. Configuração. Reexame de Provas. Recurso Desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, no qual se alegava ilegalidade na condenação por tráfico de drogas, pleiteando a desclassificação para o crime de posse de substância para consumo pessoal.
+2. O agravante foi flagrado em local conhecido pela prática de tráfico de drogas, portando 3,11 gramas de cocaína, divididas em oito porções, e arremessando uma sacola com mais porções do entorpecente. Para configurar o tráfico de drogas, o Tribunal de origem considerou a natureza da droga, o local dos fatos, a forma de acondicionamento e a conduta do agente.
+3. O agravante alegou que, em outro processo, com maior quantidade de drogas, houve desclassificação para o crime de posse para consumo pessoal, e invocou a aplicação do Tema 506 da Repercussão Geral do STF, o qual estabelece presunção de uso pessoal para determinadas quantidades de maconha.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a condenação por tráfico de drogas, com base nos elementos fáticos e probatórios analisados pelo Tribunal de origem, poderia ser desclassificada para o crime de posse de substância para consumo pessoal, considerando a quantidade de droga apreendida e a aplicação do Tema 506 da Repercussão Geral do STF.
+III. Razões de decidir
+5. O Tribunal de origem fundamentou a condenação por tráfico de drogas em diversos elementos, como a natureza do entorpecente, o local dos fatos, a forma de acondicionamento e a conduta do agente, não se limitando à quantidade apreendida.
+6. O reexame do conjunto probatório para desclassificar a conduta é incabível na via estreita do habeas corpus, na qual não se admite a dilação probatória.
+7. O julgamento em processo diverso, ainda que envolva o mesmo acusado, não vincula a decisão em ação distinta, especialmente quando as substâncias apreendidas são de natureza diversa, como no caso em análise.
+8. O Tema 506 da Repercussão Geral do STF se refere especificamente à maconha e não se aplica automaticamente, sendo necessário avaliar as peculiaridades do caso concreto.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. A configuração do crime de tráfico de drogas não se limita à quantidade de substância apreendida, devendo ser analisados outros elementos, como a natureza da droga, o local dos fatos, a forma de acondicionamento e a conduta do agente.
+2. O reexame de provas é incabível na via do habeas corpus.
+3. O Tema 506 da Repercussão Geral do STF se aplica exclusivamente à maconha, não vinculando casos envolvendo outras substâncias entorpecentes.
+Dispositivos relevantes citados: Lei nº 11.343/2006, arts. 28, caput, e 33, caput.
+Jurisprudência relevante citada: STF, RE 635659, Rel. Min. Gilmar Mendes, Tribunal Pleno, julgado em 26.06.2024; STJ, AgRg no HC 1.032.565/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 07.10.2025; STJ, AgRg no HC 962.854/RJ, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 27.08.2025.
+(AgRg no HC n. 1.033.356/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 4/11/2025, DJEN de 10/11/2025.) (grifos nossos).
+Por fim, no ponto em que a defesa sustenta a utilização indevida da reincidência como fundamento autônomo do dolo de traficar, não se constata a alegada ilegalidade, porquanto as instâncias ordinárias lastrearam a configuração do tráfico nos elementos concretos já mencionados  transporte, quantidade, variedade e forma de acondicionamento dos entorpecentes  , figurando a reincidência específica como fundamento da exasperação na segunda fase da dosimetria e do afastamento da minorante do art. 33, § 4º, da Lei n. 11.343/06, e não como único alicerce da imputação.
+Não se vislumbra, pois, a flagrante ilegalidade apta a autorizar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
