@@ -1,0 +1,20 @@
+DECISÃO: Trata-se de agravo contra decisão da Presidência deste Tribunal que negou seguimento ao recurso extraordinário com agravo.
+A parte agravante  alega, em síntese, que   (eDOC 252, pp. 13-14):
+
+“Os Recorrentes não pretendem demonstrar que pertencem a categoria diversa, não questionam a existência ou o conteúdo do título executivo, não discutem sua situação funcional e tampouco buscam infirmar qualquer conclusão probatória alcançada pelas instâncias ordinárias. Todos esses elementos foram expressamente admitidos pelo acórdão recorrido e constituem a base fática sobre a qual a controvérsia constitucional foi decidida. A moldura fática delineada é suficiente para decidir a presente controvérsia.
+ A insurgência recursal dirige-se exclusivamente à consequência jurídica-constitucional extraída dessas premissas pelo Tribunal de origem. Em outras palavras, a questão submetida à apreciação desta Suprema Corte consiste em definir se o princípio da unicidade sindical, previsto no art. 8º, II, da Constituição Federal, pode ser interpretado de modo a restringir a substituição processual sindical e afastar a legitimidade dos Agravantes para promover o cumprimento individual de sentença coletiva, ainda que presentes os pressupostos reconhecidos pelo próprio acórdão recorrido e mesmo admitindo-se tratar de uma única carreira de servidores públicos, pertencentes à Administração Pública do Direta do Distrito Federal, em franca violação aos arts 1º, V; 5º, XVII, XXXV; 8º, III; 37, VI e 39, §3º, da CF”.
+
+É o relatório. Decido.
+Tendo em vista a permissão contida no art. 1.021, § 2º, do CPC e art. 317, § 2º, do RISTF, reconsidero a decisão agravada e passo à reanálise dos autos.
+O Supremo Tribunal Federal, examinando o RE 1.522.507 RG (DJe    14.11.2024) segundo a sistemática da repercussão geral (Tema 1.354), fixou a seguinte tese: “É infraconstitucional e pressupõe o exame de matéria fática a controvérsia sobre a legitimidade para o cumprimento individual de sentença coletiva.”
+Cito, ainda, a ementa do julgamento do leading case:
+
+“Ementa: Direito processual civil. Recurso extraordinário. Execução individual de sentença coletiva. Limites da coisa julgada. Matéria fática e infraconstitucional. I. Caso em exame 1. Recurso extraordinário contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios que extinguiu execução individual por ilegitimidade do exequente. Isso ao fundamento de impossibilidade de extensão dos efeitos de coisa jugada de ação coletiva ajuizada contra o Distrito Federal para beneficiar servidores da Administração Pública indireta. II. Questão em discussão 2. A questão em discussão consiste em saber se a coisa julgada formada em ação coletiva autoriza o cumprimento individual de sentença. III. Razões de decidir 3. O STF, por ocasião do julgamento do ARE 901.963 no regime da repercussão geral (Tema 848/RG), afirmou a natureza fática e infraconstitucional de controvérsia sobre a legitimidade para executar sentença proferida em ação coletiva. 4. O exame do alcance de sentença condenatória coletiva para aferição de legitimidade para a execução individual pressupõe o exame de matéria fática, assim como de legislação infraconstitucional. Inexistência de questão constitucional. Questão restrita à interpretação de norma infraconstitucional. IV. Dispositivo e tese 5. Recurso extraordinário não conhecido. Tese de julgamento: “É infraconstitucional e pressupõe o exame de matéria fática a controvérsia sobre a legitimidade para o cumprimento individual de sentença coletiva”.
+
+Diante do exposto, reconsidero a decisão agravada e determino a devolução dos autos à Corte de origem para que adote, conforme a situação do referido tema de repercussão geral, os procedimentos previstos nos incisos I a III do art. 1.030 do Código de Processo Civil (inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal). Julgo prejudicado o agravo interno.
+Publique-se.
+Brasília, 10 de junho de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
