@@ -1,0 +1,70 @@
+DECISÃO
+
+Habeas corpus. Coação no curso do processo. Dosimetria. Pena-base. Exasperação. Fundamentação idônea. Reexame do acervo fático-probatório. Impossibilidade.  Manifesta ilegalidade ou teratologia não identificadas. Negativa de seguimento.
+
+Trata-se de habeas corpus impetrado em favor de Wanderson Santos Costa contra acórdão do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no AREsp 3.110.692/RJ (evento 7).
+
+O paciente foi condenado à pena de 2 anos de reclusão, no regime inicial aberto, pela prática do crime de coação no curso do processo,  tipificado no art. 344 do Código Penal (evento 5, fls. 114; 120-30).
+
+No presente writ, a defesa sustenta a exasperação indevida da pena-base. Aponta a ocorrência de  bis in idem  na valoração negativa da culpabilidade, porquanto lastreada no dolo intenso e na ameaça à autoridade, os quais são inerentes ao tipo penal. Aduz que “Quanto a gravidade das ameaças, como se denota da escrita das mensagens de celular e das informações prestadas pelos servidores que atenderam telefonema do ora paciente, trata-se de pessoa claramente com nervos abalados pela situação de prisão”. Alega ausência de fundamentação idônea para valorar negativamente as circunstâncias do crime, pois alicerçada “[no] fato do réu ter utilizado linha telefônica cadastrada em nome de terceiro, entendendo haver intenção de anonimato”, o que não ocorreu na espécie. Requer, em medida liminar e no mérito, o redimensionamento da pena.
+
+É o relatório. Decido.
+
+Extraio do ato apontado como coator (evento 7, fls. 1-2):
+
+“DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. COAÇÃO NO CURSO DO PROCESSO. ART. 344 DO CÓDIGO PENAL. DOSIMETRIA DA PENA. PENA-BASE. CULPABILIDADE. CIRCUNSTÂNCIAS DO CRIME. FUNDAMENTAÇÃO CONCRETA. AUSÊNCIA DE BIS IN IDEM. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto pela defesa contra decisão monocrática que conheceu do agravo para negar provimento ao recurso especial, anteriormente manejado contra acórdão do Tribunal Regional Federal da 2ª Região que manteve a condenação pela prática do crime de coação no curso do processo, previsto no art. 344, caput, do Código Penal.
+2. No recurso especial, fundado no art. 105, III, a, da Constituição Federal, a defesa alegou violação ao art. 59 do Código Penal, sob o argumento de que houve indevida valoração negativa da culpabilidade e das circunstâncias do crime, em bis in idem, pois a intensidade e as demais circunstâncias das ameaças seriam inerentes ao tipo penal.
+3. A decisão de inadmissão do recurso especial aplicou o óbice da Súmula nº 7/STJ . Nas razões do agravo regimental, a defesa sustentou que a controvérsia seria exclusivamente jurídica, por versar sobre a idoneidade da fundamentação adotada na dosimetria da pena, e requereu a reforma da decisão agravada para o provimento do recurso especial.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se a exasperação da pena-base foi mantida com fundamento concreto e idôneo, sem bis in idem, ou se a revisão da conclusão adotada pelas instâncias ordinárias demandaria reexame do conjunto fático-probatório, vedado em recurso especial.
+III. RAZÕES DE DECIDIR
+5. O agravo regimental não trouxe fundamento capaz de infirmar a decisão monocrática agravada. O Tribunal de origem manteve a valoração negativa da culpabilidade e das circunstâncias do crime com base em elementos concretos do caso, e não em referências genéricas ou inerentes ao tipo penal. 	6. Quanto à culpabilidade, as instâncias ordinárias destacaram a intensidade concreta das ameaças dirigidas a Desembargador Federal, consideradas mais graves do que aquelas normalmente verificadas em hipóteses semelhantes, o que evidenciou maior grau de reprovabilidade da conduta. Quanto às circunstâncias do crime, foi ressaltado que o agente se valeu do anonimato, com utilização de linha telefônica cadastrada em nome de terceiro, e encaminhou ameaças por meios diversos, em momentos distintos, por ligação telefônica, e-mail e mensagens, circunstâncias que revelam maior gravidade concreta na execução do delito.
+7. Nesse contexto, não se verifica ilegalidade na dosimetria, pois a negativação das vetoriais foi amparada em motivação individualizada, nos termos do art. 59 do Código Penal.
+8. Quanto ao mais, a pretensão defensiva de afastar tais premissas exigiria reexame do quadro fático delineado no acórdão recorrido, providência inviável na via especial, nos termos da Súmula nº 7/STJ.
+IV. DISPOSITIVO
+9. Agravo regimental desprovido.”
+
+A jurisprudência desta Corte é no sentido da inviabilidade, como regra, de utilização do writ como sucedâneo recursal ou revisão criminal (HC 233.726-AgR, Rel. Min. Cristiano Zanin, Primeira Turma, DJe 26.02.2024; HC 235.844-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 22.02.2024), com ressalva, nesta última hipótese, de serem os fatos incontroversos (HC 139.741/DF, Rel. Min. Dias Toffoli, Segunda Turma, DJe 12.04.2019).
+
+De qualquer maneira, mesmo que superado referido óbice, não detecto constrangimento ilegal ou teratologia hábil à concessão da ordem de ofício.
+
+Destaco que esta Suprema Corte tem entendimento consolidado no sentido de que a dosimetria da pena é matéria sujeita a certa discricionariedade judicial, relativa ao mérito da ação penal e adstrita ao acervo fático-probatório. Ademais, o “Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena” (RHC 207.480-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 25.4.2022). No mesmo sentido, cito: HC 210.724-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 06.4.2022; HC 223.032-AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe de 18.10.2023; e HC 235.272-AgR, Relator(a): Alexandre de Moraes, Primeira Turma, DJe 09.02.2024.
+
+Nesse aspecto, a revisão da pena fixada nas instâncias antecedentes é matéria de estrito conhecimento nesta via, por demandar minucioso exame fático e probatório inerente a meio processual diverso. Com efeito, às Cortes Superiores, no exame da dosimetria das penas, compete apenas o controle da legalidade e da constitucionalidade dos critérios empregados, bem como a correção de eventuais discrepâncias, se gritantes ou arbitrárias (RHC 152.036-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe de 12.4.2018). Precedentes: HC 172.106-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 09.12.2020; HC 210.265-AgR, Rel. Min. Nunes Marques, Segunda Turma, Dje de 19.4.2022; e RHC 229.530-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 27.9.2023.
+O Superior Tribunal de Justiça, ao analisar a dosimetria, refutou a tese defensiva de ausência de fundamentação idônea para exasperar a pena-base, nos seguintes termos (evento 7, fls. 7-12):
+
+“Consoante se extrai dos autos, o agravante foi condenado em primeira instância pela prática do crime previsto no art. 344, caput, do Código Penal, à pena de 2 (dois) anos de reclusão e 30 (trinta) dias-multa, no valor unitário de 1/30 (um trigésimo) do salário-mínimo vigente ao tempo do fato, em regime inicial aberto, tendo sido indeferida a substituição da pena privativa de liberdade por restritivas de direitos e assegurado ao réu o direito de recorrer em liberdade.
+Em grau de apelação, o Tribunal Regional Federal da 2ª Região negou provimento ao recurso defensivo, mantendo a sentença condenatória, tendo reputado legítima a exasperação da pena-base aos seguintes fundamentos (e-STJ fls. 441/ss.):
+“(...)
+No tocante à dosimetria, diversamente do que entende a defesa, estou de acordo com o Juízo a quo quando afirma que a conduta de WANDERSON é mais intensa, em virtude da natureza das ameaças proferidas contra o Desembargador Federal.
+À toda obviedade, afirmar que a vítima teria sua cabeça arrancada e que seria morta e enterrada é mais reprovável do que dizer, a título de exemplo, que daria uma surra na vítima. Portanto, a gradação comparativa utilizada pela Magistrada de Primeiro Grau está correta, justificando a exasperação da pena-base em razão da valoração desfavorável da culpabilidade.
+(...).
+Ademais, concordo com o Juízo a quo no tocante à valoração negativa das circunstâncias do crime, que devem ser realmente consideradas destoantes das verificadas em casos análogos, posto que WANDERSON “valeu-se do anonimato, utilizando linha telefônica cadastrada em nome de terceiro ” e porque as ameaças “ foram encaminhadas em oportunidades e por meios distintos, ligação telefônica, e-mail e mensagens”.
+(...)”
+Da fundamentação delineada pelas instâncias ordinárias, verifica-se que a valoração negativa da culpabilidade e das circunstâncias do crime foi mantida com apoio em elementos concretos extraídos das particularidades do caso, sem se limitar a referências genéricas ao tipo penal.
+(...).
+Especificamente quanto à vetorial culpabilidade, é assente que a sua valoração “por ocasião da dosimetria da pena-base (CP, art. 59) é afinada com a individualização da pena, representando o grau de censura pessoal do réu na prática da conduta, ou seja, trata-se da mensuração de reprovabilidade” (HC n. 325.306/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/12/2016, DJe de 12/12/2016) .
+No caso, o acórdão recorrido concluiu pela idoneidade da negativação ao assentar que o maior desvalor da conduta decorreu da intensidade concreta das ameaças dirigidas ao Desembargador Federal, consideradas mais gravosas do que aquelas ordinariamente verificadas em hipóteses análogas, evidenciando, assim, maior grau de censura pessoal do agente e legitimando a exasperação da pena-base sob o vetor da culpabilidade.
+Por seu turno, quanto às circunstâncias do crime, esta Corte compreende que a vetorial do art. 59 do Código Penal se relaciona ao modus operandi e às particularidades da execução que agravem a gravidade concreta do delito, desde que não se confundam com elementares do tipo nem com circunstâncias já sopesadas em outra fase, sob pena de  bis in idem.
+	Na hipótese, a valoração negativa das circunstâncias do crime foi mantida ao fundamento de que o modo de execução revelou maior gravidade concreta da conduta, destacando-se o uso deliberado do anonimato, mediante linha telefônica cadastrada em nome de terceiro, bem como o envio das ameaças por canais diversos, em oportunidades distintas, por ligação telefônica, e-mail e mensagens.
+Nesse cenário, à vista do quadro fático delineado no acórdão recorrido e da orientação jurisprudencial desta Corte, não se evidencia ilegalidade ou desproporcionalidade manifesta a justificar a intervenção deste Tribunal Superior para redimensionar a pena, porquanto as vetoriais foram negativadas com motivação individualizada, nos termos do art. 59 do Código Penal, observada a discricionariedade vinculada do julgador na individualização da sanção.
+(...).
+Quanto ao mais, para acolher a pretensão defensiva seria indispensável revisitar o quadro fático assentado na origem, especialmente no que se refere à alegada inerência ao tipo penal da intensidade concreta das ameaças proferidas, bem como à conclusão de que o recorrente se valeu do anonimato e de múltiplos meios de comunicação para a valoração das circunstâncias judiciais da culpabilidade e das circunstâncias do crime, providência vedada na via especial, nos termos da Súmula nº 7/STJ .”
+
+Nesse contexto, não verifico ilegalidade na fixação da pena-base acima do mínimo legal, a qual restou estabelecida dentro da margem de discricionariedade permitida ao julgador. Denoto, assim, que as instâncias anteriores valoraram negativamente as circunstâncias judiciais - culpabilidade e circunstâncias do crime -, com base nos parâmetros previstos na legislação penal, não havendo deficiência na fundamentação empregada para elevar a pena-base do paciente.
+
+Portanto, devidamente fundamentada, a exasperação, em critérios racionais e judicialmente motivados, e cuja resultante não se mostra flagrantemente desproporcional, descabe, na via estreita do habeas corpus, a intervenção desta Suprema Corte no processo dosimétrico.
+
+Ademais, anoto que é inviável a reavaliação das premissas fáticas soberanamente consolidadas nas instâncias ordinárias sobre aspectos discricionários da dosimetria da pena. A jurisprudência desta Suprema Corte orienta-se no sentido de que “a dosimetria da pena é matéria sujeita à discricionariedade judicial, por ser ‘relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático-probatório, não sendo possível às instâncias extraordinárias a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada’ (HC nº 203.100-AgR/DF, Rel. Min. Roberto Barroso, Primeira Turma, j. 27/09/2021, p. 04/10/2021).” (RHC 224.825 AgR/SP, Rel. Min. André Mendonça, Segunda Turma, DJe 15.4.2024); “Não se presta o habeas corpus ao reexame do conjunto fático-probatório que levou à fixação das penas” (HC 118.079-AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 18/3/2014)’.”(HC 169.738 AgR/SC, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 14.06.2019); “No exame da dosimetria das penas em grau recursal, pelas Cortes Superiores, compete o controle da legalidade e da constitucionalidade dos critérios empregados, bem como a correção de eventuais discrepâncias, se gritantes ou arbitrárias, nas frações de aumento ou diminuição adotadas pelas instâncias anteriores. Precedentes” (RHC 203.454 AgR/MG, Rel. Min. André Mendonça, Segunda Turma, DJe 25.10.2022);  “A ação de habeas corpus – de caráter sumaríssimo – constitui remédio processual inadequado, quando ajuizada com objetivo (a) de promover a análise aprofundada da prova penal, (b) de efetuar o reexame do conjunto probatório regularmente produzido, (c) de provocar a reapreciação da matéria de fato e (d) de proceder à revalorização dos elementos indiciários e/ou coligidos no procedimento penal”(HC 92.887/GO, Rel. Min. Celso de Mello, 2ª Turma, DJe 19.12.2012).
+
+Ante o exposto, nego seguimento ao presente habeas corpus  (art. 21, § 1º, do RISTF).
+
+Publique-se.
+
+Brasília, 10 de junho de 2026.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
