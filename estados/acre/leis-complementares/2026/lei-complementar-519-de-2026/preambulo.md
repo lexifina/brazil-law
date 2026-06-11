@@ -1,0 +1,7 @@
+LEI COMPLEMENTAR Nº 519, DE 09 DE JUNHO DE 2026
+
+Altera a Lei Complementar nº 258, de 29 de janeiro de 2013, que dispõe sobre o Plano de Cargos, Carreiras e Remuneração – PCCR, dos servidores do Poder Judiciário, para transformar cargos em comissão.
+
+A GOVERNADORA DO ESTADO DO ACRE
+
+FAÇO SABER que a Assembleia Legislativa do Estado do Acre decreta e eu sanciono a seguinte Lei Complementar:
