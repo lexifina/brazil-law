@@ -1,0 +1,45 @@
+DECISÃO
+
+Trata-se de Recurso Extraordinário interposto em face de acórdão proferido pela Terceira Turma Recursal dos Juizados Especiais Cíveis do  Tribunal de Justiça do Estado do Rio de Janeiro (Doc. 18), o qual deu parcial provimento ao Recurso Inominado para excluir a condenação em indenização por danos morais, mantida, no mais, a sentença que julgou procedente o pedido para “DECLARAR a inexistência de relação jurídica entre as partes referente ao contrato de n. 050********2001 e ao terminal de n. (21) *****4320, CONDENANDO-SE a ré a promover a baixa definitiva das cobranças que deles derivam, tudo no prazo de 10 (dez) dias corridos a contar da publicação da sentença, sob pena de, não o fazendo, incorrer em multa de R$ 500,00 para cada cobrança indevida” (Doc. 4).
+Opostos embargos de declaração (doc. 20), foram rejeitados (Doc. 22).
+No Recurso Extraordinário (Doc. 24), interposto com fundamento no art. 102, III, “a” da Constituição Federal, CLIENT CO SERVICOS DE REDE NORDESTE S.A. alega que o acórdão recorrido viola os arts. 5º, caput, II, XXII, XXXV, XXXVI, LIV, e LV; e 170, caput, e parágrafo único, da CF/1988.
+Sustenta que, embora o acórdão recorrido tenha excluído a condenação em danos morais imposta a recorrente, rejeitou a preliminar de ilegitimidade passiva, mantendo a sua responsabilidade pelos passivos da OI S.A.
+Nessa linha, afirma que o acórdão recorrido imputa à recorrente responsabilidade por suposto débito ocorrido em 2020, anterior à aquisição da Unidade Produtiva Isolada (UPI), adquirida em 1º/12/2024, no contexto da recuperação judicial da Oi S.A., sem sucessão de passivos, nos termos dos arts. 60, parágrafo único, e 141, II, da Lei nº 11.101/2005.
+Com base nesses fundamentos, defende que “não há qualquer base legal para impor à Recorrente a responsabilidade por supostas falhas ocorridas antes de 01/12/2024, marco temporal em que passou a operar de forma autônoma e independente. Até essa data, a prestação de serviços era integralmente atribuível à OI S.A., não existindo nexo causal entre os fatos narrados pela autora e a conduta da Recorrente” (Doc. 24, fl. 11).
+Requer, ao final, o provimento do recurso “para reformar a decisão recorrida e reconhecer a ilegitimidade passiva da Recorrente, extinguindo o feito sem resolução de mérito, nos termos do art. 485, VI, CPC”, ou, “subsidiariamente, caso não seja esse o entendimento, requer a improcedência dos pedidos autorais, afastando qualquer condenação indevida, em observância aos dispositivos constitucionais violados” (Doc. 24, fl. 15).
+Em seguida, o RE foi admitido (Doc. 26).
+É o relatório. Decido.
+
+Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+A obrigação do recorrente de apresentar, formal e motivadamente, a  repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+Além disso, esta CORTE, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional.
+Ainda que fosse possível superar esses graves óbices, a pretensão da recorrente não teria sucesso.
+No julgamento da ADI 3.934 (Rel. Min. RICARDO LEWANDOWSKI, Dj 27/5/2009), esta CORTE reconheceu a constitucionalidade dos dispositivos da Lei de Recuperação e Falências, assentando que “não há, também, inconstitucionalidade quanto à ausência de sucessão de créditos trabalhistas”.
+Ao apreciar o referido paradigma, o Min. RICARDO LEWANDOWSKI muito bem assentou que “a Lei 11.101/2005 não apenas resultou de amplo debate com os setores sociais diretamente afetados por ela, como também surgiu da necessidade de preservar-se o sistema produtivo nacional inserido em uma ordem econômica mundial caracterizada, de um lado, pela concorrência predatória entre seus principais agentes e, de outro, pela eclosão de crises globais cíclicas altamente desagregadoras”.
+Destarte, nesse contexto, o legislador teria optado por estabelecer que adquirentes de empresas alienadas judicialmente não assumiriam os débitos trabalhistas.
+O acórdão do julgamento foi assim ementado:
+
+“AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ARTIGOS 60, PARÁGRAFO ÚNICO, 83, I E IV, C, E 141, II, DA LEI 11.101/2005. FALÊNCIA E RECUPERAÇÃO JUDICIAL. INEXISTÊNCIA DE OFENSA AOS ARTIGOS 1º, III E IV, 6º, 7º, I, E 170, DA CONSTITUIÇÃO FEDERAL DE 1988. ADI JULGADA IMPROCEDENTE.
+I - Inexiste reserva constitucional de lei complementar para a execução dos créditos trabalhistas decorrente de falência ou recuperação judicial.
+II - Não há, também, inconstitucionalidade quanto à ausência de sucessão de créditos trabalhistas.
+III - Igualmente não existe ofensa à Constituição no tocante ao limite de conversão de créditos trabalhistas em quirografários.
+IV - Diploma legal que objetiva prestigiar a função social da empresa e assegurar, tanto quanto possível, a preservação dos postos de trabalho.
+V - Ação direta julgada improcedente.”
+
+Contudo, a hipótese dos autos é distinta.
+Tanto porque não se discute sucessão de crédito trabalhista, quanto pelo fato de que não se trata de sucessão de créditos anteriores à alienação da Unidade Produtiva Isolada (UPI), mas de condenação referentes a fato ilícito.
+Conforme informa a recorrente, a aquisição da Unidade Produtiva Isolada (UPI) ocorreu em 1º/12/2024.
+A petição inicial narra a ocorrência de sucessivas cobranças indevidas por débito não reconhecido pela parte recorrida, o qual é indicado pela recorrente como vencido no ano de 2020 (Doc. 1).
+O juízo singular reconheceu que a parte autora, ora recorrida, mantém, atualmente, relação jurídica com a parte recorrente. Por outro lado, quanto ao contrato apontado pela recorrente como originário da dívida cobrada, foi reconhecida “a inexistência da relação jurídica”, pois a empresa recorrente não demonstrou “a regular contratação dos serviços referentes ao contrato final 2001, ônus que lhe competia a teor do art. 373, II, do CPC” (Doc. 4, fl. 2).
+Em razão das cobranças indevidas realizadas pela recorrente, o juízo local julgou procedente o pedido para declarar inexistência de relação jurídica entre as partes referente ao contrato final n. 2001 e ao terminal n. 4320, condenando a Empresa recorrente a promover a baixa definitiva das cobranças que deles derivam, bem como à condenação em danos morais, estes últimos excluídos pelo acórdão recorrido.
+Desse modo, para divergir dos fundamentos do juízo de origem quanto à responsabilidade da recorrente pela cobrança dos débitos em questão, seria necessário analisar a matéria à luz das provas dos autos, providência vedada na via extraordinária, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso extraordinário.
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO.
+Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+Publique-se.
+
+Brasília, 11 de junho de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
