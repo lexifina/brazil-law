@@ -1,0 +1,42 @@
+DECISÃO:
+Vistos.
+Cuida-se de embargos de declaração opostos por Eduardo Banks dos Santos Pinheiro contra decisão mediante a qual neguei seguimento ao recurso extraordinário por entender incidir na espécie as Súmulas nºs 279 e 280 da Suprema Corte, bem como pela harmonia do acórdão recorrido com a tese fixada no Tema nº 1.120 da Repercussão Geral, além do exame da legislação infraconstitucional aplicável à espécie.
+Alega o embargante a existência de obscuridade e omissão na decisão embargada,
+
+“por não ser sido apreciada a preliminar de Repercussão Geral, onde o Recorrente, ora Embargante, indicou a existência de distinguishing em relação ao case paradigma dos Temas 1.120 e 469 da Repercussão Geral, bem como por não haver o Ministro Relator atentado que o Embargante não está sujeito à autoridade ou circunscrição da Câmara Municipal de Araraquara, por não ser nem Vereador nem residente no Município, não fazendo parte do “corpo” sujeito aos atos da edilidade Recorrida”
+
+Nesse tocante, aduz in verbis
+
+“Com efeito, entendeu o Ministro Relator que a “moção de repúdio” aprovada pela Câmara Municipal de Araraquara seria um “ato interna corporis”, e, por isso, insidincável pelo Poder Judiciário.
+No entanto, foi omitida a relevante circunstância de que o Autor Sr. Eduardo Banks, ora Embargante, é pessoa estranha ao “corpo” que emitiu o ato, de modo que foi transbordada a competência da Câmara Municipal de Araraquara, o que a própria “moção” o reconhece, ao mencionar que o Embargante é nascido e residente na “Cidade Maravilhosa do Rio de Janeiro”, sem ter nenhum negócio ou relação com o Município de Araraquara, ou seja, ele VIVE fora do alcance da circunscrição da edilidade.
+(...)
+Primeiro, “moção de repúdio” não é norma regimental, e o Recurso Extraordinário não se fundamenta em nenhuma norma regimental. Ora, qualquer ato do Poder Legislativo terá que tramitar segundo o Regimento Interno da respectiva casa, logo, o Supremo Tribunal Federal não poderia julgar nenhuma Ação Direta de Inconstitucionalidade, porque TODAS as leis e atos normativos tramitam na forma estabelecida no Regimento Interno.
+O controle de constitucionalidade dos atos aprovados pelo Poder Legislativo se dá quando o conteúdo normativo do que a Casa de Leis exarou viola dispositivo da Constituição, e não pela forma como o projeto tramitou no Legislativo, e ESSA É A TESE do Recurso Extraordinário: que o teor da “moção” viola o inciso IV do artigo 3º., o inciso VIII do artigo 4º e o inciso XLII do artigo 5º da Constituição Federal, porque foi apontada, com a intenção de depreciar, a origem ou procedência nacional do Recorrente, como cidadão nascido e residente no Rio de Janeiro, que os atributos que o retiram da esfera de competência da Recorrida.
+Logo, a decisão embargada é obscura, data vênia, pois fala que “é defeso ao Poder Judiciário exercer o controle jurisdicional em relação à interpretação do sentido e do alcance de normas meramente regimentais das Casas Legislativas”, sendo que a “moção de repúdio” não é ela mesma uma “norma regimental”, mas um ato emanado com nítidos efeitos de legislação. O seu projeto tramitou segundo os termos do Regimento, mas ela mesma não é parte do Regimento, o que deve ser aclarado.”
+
+Busca o acolhimento dos embargos de declaração, com efeitos infringentes,
+
+“para reconhecer a obscuridade e a omissão quanto ao exame da Preliminar de Repercussão Geral fundada na técnica do distinguishing, do presente caso em relação ao do Tema 1.102-RG, e prover o Recurso Extraordinário, pelo fato de o Embargante ser pessoa estranha ao “corpo” sujeito à circunscrição do Município de Araraquara e alheio à esfera de competência do poder fiscalizatório da Câmara Municipal Recorrida, além de que “moção de repúdio” não é norma regimental.”
+
+É o relatório.
+Decido.
+Os embargos não comportam acolhida, pois não há hipótese autorizadora de sua oposição.
+Com efeito, a decisão embargada não incorreu em erro, omissão, contradição ou obscuridade, tendo-se sido decidido, fundamentadamente, todas as questões postas em análise, nos limites necessários ao deslinde do feito, não faltando à decisão clareza nem certeza quanto ao que foi julgado.
+Tal como assentado na decisão embargada,  o Tribunal de origem não divergiu do entendimento firmado pelo Supremo Tribunal Federal no julgamento do RE nº 1.297.884/DF, paradigma do Tema nº 1.120 da Repercussão Geral, estando a matéria debatida no acórdão atacado restrita ao âmbito infraconstitucional, a fim de aferir o preenchimento dos requisitos para a expedição do moção, segundo as regras do regimento interno da Câmara Municipal, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+Igualmente não merece êxito a alegação de omissão e obscuridade da decisão embargada quanto ao fato de o embargante, ser “pessoa estranha ao “corpo” que emitiu o ato”, primeiramente porque tal discussão é irrelevante para compreensão da controvérsia, na qual se examina a possibilidade de controle jurisdicional de moção legislativa, e segundo porque o Tribunal a Quo consignou que não houve qualquer violação à dignidade da pessoa humana, mantendo o entendimento constante da sentença no sentido de que a moção em lume caracteriza mero exercício da liberdade de expressão parlamentar.
+Acrescente-se que a decisão embargada cita precedentes desta Corte  aplicando a orientação de que eventual divergência em relação ao entendimento adotado pelo Juízo a quo demandaria, necessariamente, o reexame de fatos e provas constantes dos autos e da legislação infraconstitucional pertinente, o que inviabiliza o processamento do apelo extremo.
+Como se vê, a decisão embargada revela-se bastante em si mesma, visto que não incorreu em omissão, contradição, erro material ou obscuridade. Os pontos colocados em debate foram analisados, nos limites necessários ao deslinde do feito.
+Ademais, a contradição que autoriza opor o recurso declaratório deve ser interna à decisão, verificada entre os fundamentos do julgado e sua conclusão, o que não ocorreu no caso em tela.
+O embargante pretende, efetivamente, promover o rejulgamento da causa, fim para o qual não se prestam os embargos declaratórios. Nesse sentido:
+
+“EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. OPOSIÇÃO EM 21.09.2020. PROCESSUAL CIVIL. SUBSTITUIÇÃO PROCESSUAL. AÇÃO CIVIL PÚBLICA. POSSIBILIDADE. DECISÃO QUE SE DEU À LUZ DE LEGISLAÇÃO INFRACONSTITUCIONAL. TEMA 82 DA SISTEMÁTICA DA REPERCUSSÃO GERAL. INAPLICABILIDADE. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS. 1. Os embargos de declaração não constituem meio hábil para reforma do julgado, sendo cabíveis somente quando houver no acórdão omissão, contradição ou obscuridade, o que não ocorre no presente caso. 2. Os embargantes buscam indevidamente a rediscussão da matéria, com objetivo de obter excepcionais efeitos infringentes. 3. Embargos de declaração rejeitados, com aplicação de multa”. (ARE nº 1.248.128/MG-AgR-ED, Segunda Turma, Relator o Ministro Edson Fachin, DJe de 30/11/20).
+
+“EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE RECEITA BRUTA – CPRB. BASE DE CÁLCULO. EXCLUSÃO DA TAXA DE GERENCIAMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. LEI 8.212/1991. LEI 12.546/2011. DECRETO-LEI 1.598/1977. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. LEI MUNICIPAL 8.133/1998. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCIDÊNCIA DA SÚMULA 280 DO STF. MULTA PREVISTA NO § 4º DO ARTIGO 1.021 DO CPC/2015. APLICABILIDADE. INADMISSIBILIDADE OU IMPROCEDÊNCIA MANIFESTA. OBSERVÂNCIA DO LIMITE PREVISTO EM LEI. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. ERRO MATERIAL. INOCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE EMBARGANTE. EMBARGOS DE DECLARAÇÃO DESPROVIDOS. DETERMINADA A CERTIFICAÇÃO DO TRÂNSITO EM JULGADO COM A CONSEQUENTE BAIXA IMEDIATA DOS AUTOS, INDEPENDENTEMENTE DA PUBLICAÇÃO DO ACÓRDÃO” (RE nº 1.089.763/RS-AgR-ED, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 23/9/20).
+
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Brasília, 12 de junho de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
