@@ -1,0 +1,34 @@
+DECISÃO:
+Vistos.
+Trata-se de agravo interposto por Willian Alves Margarida contra decisão que não admitiu recurso extraordinário deduzido contra o acórdão proferido pela Quinta Turma do Superior Tribunal de Justiça, assim ementado:
+
+“AGRAVO EM RECURSO ESPECIAL. JÚRI. IMPROCEDÊNCIA DAS QUALIFICADORAS DO MOTIVO TORPE E DO RECURSO QUE DIFICULOU A DEFESA DA VÍTIMA. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. DOSIMETRIA. AUMENTO PROPORCIONAL. AGRAVO CONHECIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+    1. O afastamento das qualificadoras não se justifica, uma vez que foram reconhecidas pelo Conselho de Sentença com base em provas concretas, e sua exclusão demandaria reexame fático-probatório, o que esbarra no óbice da Súmula n. 7 do STJ. O acórdão recorrido registra que "as qualificadoras se encontram devidamente comprovadas. A título de exemplificação, temos o depoimento, em juízo, de Magda Lúcia Chamon, a qual informou que “ocorreu um abate (...) esse grupo estava de carro e os acuou (...) a amiga da vítima, outra travesti, também se encontrava muito amedrontada, a sociedade civil não se preocupava com essas pessoas a vinte anos atrás”. Ainda, afirma, categoricamente que a vítima tentou fugir, no entanto, não obteve êxito ante as ações dos acusados. (PJeMídias)
+2. A jurisprudência desta Corte é firme no sentido de que, "na primeira fase da dosimetria da pena, não há direito subjetivo do réu à adoção de alguma fração específica de exasperação para cada circunstância judicial desfavorável, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo entre as penas mínima e máxima ou mesmo outro valor. Tais frações são parâmetros aceitos pela jurisprudência do STJ, mas não se revestem de caráter obrigatório, exigindo-se apenas que seja proporcional o critério utilizado pelas instâncias ordinárias" (AgRg no REsp n. 1.951.442/PE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/11/2021, DJe de 29/11/2021).
+3. No caso, a pena-base foi exasperada em 3 anos pela avaliação desfavorável de apenas uma vetorial negativa, não tendo sido indicado nenhum fundamento para a utilização de fração diferente da aceita por esta Corte.
+3. Agravo conhecido para dar parcial provimento ao recurso especial para reduzir a pena do recorrente para 14 anos e 3 meses de reclusão.” (e-doc. 251)
+
+No apelo extremo (e-doc. 257), o recorrente aponta violação aos artigos 5º, incisos XXXIX, LIV, LV e LVII, e 93, inciso IX, da Constituição Federal.
+Alega, em síntese, que seria o caso de total provimento do recurso especial, sendo
+
+“inegável que o acórdão recorrido incorreu em manifesta negativa de prestação jurisdicional, na medida em que deixou de enfrentar questão essencial e devidamente suscitada pela defesa, limitando-se a proferir decisão genérica e desprovida de fundamentação concreta. Tal postura afronta diretamente os arts. 5º, incisos XXXV, LIV e LV, e 93, inciso IX, da Constituição Federal, comprometendo a validade do ato jurisdicional e vulnerando os princípios estruturantes do devido processo legal e da inafastabilidade da jurisdição.”
+Requer, ao fim, o provimento do recurso para
+“a) DECOTAR a qualificadora do motivo torpe (art. 121, §2º, inciso I do Código Penal), nos termos do art. 593, III, “d” do CPP c/c art. 386, III do CPP;
+b) DECOTAR a qualificadora recurso que dificultou a defesa da vítima (art. 121, §2º, inciso IV do CP) nos termos do art. 593, III, “d” do CPP c/c art. 386, III do CPP;”
+É o relatório. Decido.
+Verifica-se dos autos que o juízo de admissibilidade exercido pela  Vice-Presidência do Tribunal de origem negou seguimento ao recurso extraordinário quanto às matérias tratadas nos Temas nº 339 e 181 da sistemática da repercussão geral e não o admitiu quanto às demais alegações (e-doc. 269).
+Contra a decisão que negou seguimento, a parte não interpôs agravo interno.
+Cumpre observar, nessa toada, que não cabe agravo dirigido a este Supremo Tribunal Federal (art. 1.042 do CPC) contra o capítulo da decisão que negou seguimento ao recurso extraordinário com fundamento no art. 1.030, I, “a” do Código de Processo Civil, por aplicação do citado tema da Repercussão Geral. Nesse sentido:
+“Agravo regimental no recurso extraordinário com agravo. Aplicação da sistemática da repercussão geral pelo juízo de origem. Recurso dirigido ao Supremo Tribunal Federal. Não cabimento. Precedentes. 1. Segundo a firme jurisprudência do Supremo Tribunal Federal, não cabe recurso ou outro instrumento processual na Corte contra decisão do juízo de origem em que se aplique a sistemática da repercussão geral. 2. Essa orientação está consolidada no Código de Processo Civil de 2015, que prevê, como instrumento processual adequado contra a aplicação do instituto da repercussão geral, a interposição de agravo interno perante o próprio tribunal de origem (art. 1.030, § 2º, do CPC). 3. Agravo regimental não provido” (ARE nº 1.171.847/DF - AgR, Tribunal Pleno, de minha relatoria no exercício da Presidência, DJe de 19/3/19.)
+“EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM: AUSÊNCIA DE PREVISÃO LEGAL DE RECURSO PARA O SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 1.109.295/RS-ED-ED, Tribunal Pleno, Rel. Min. Cármen Lúcia (Presidente), DJe de 25/9/18).
+Desse modo, no âmbito do presente agravo, hão de ser resolvidas apenas as questões remanescentes. Passo a apreciá-las.
+O recurso não reúne condições de prosperar.
+ Com efeito, no que se refere aos dispositivos remanescentes apontados como violados, anoto que carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte. Nesse sentido, destaca-se:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AJUDA DE CUSTO. MILITAR. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. SÚMULA 636 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO. I – Ausência de prequestionamento. Incidência da Súmula 282 do STF. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. II – Esta Corte entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). III – Agravo regimental a que se nega provimento” (ARE nº 800.777/RS-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 29/5/14).
+Ante o exposto, nos termos do art. 21, § 1º do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+Publique-se.
+Brasília, 12 de junho de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
