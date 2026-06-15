@@ -1,0 +1,1 @@
+Art. 16-B. O valor do benefício da aposentadoria de que trata o art. 16-A desta Lei corresponderá a 60% (sessenta por cento) da média aritmética definida na forma prevista no art. 11 desta Lei, com acréscimo de 2 (dois) pontos percentuais para cada ano de contribuição que exceder o tempo de 20 (vinte) anos de contribuição.
