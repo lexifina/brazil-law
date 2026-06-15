@@ -1,0 +1,123 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PROCESSUAL CIVIL. DIREITO À SAÚDE. PORTADORA DE NEOPLASIA MALIGNA DE MAMA METÁSTATICA - CID-10 C50. FORNECIMENTO DE MEDICAMENTO ONCOLÓGICO DE ALTO CUSTO. PERTUZUMABE. AÇÃO PROPOSTA  CONTRA A UNIÃO E O ESTADO DO RIO GRANDE DO SUL. DECISÃO DA VICE-PRESIDÊNCIA DO TRIBUNAL DE ORIGEM QUE NEGOU SEGUIMENTO AO RECURSO EXTRAORDINÁRIO COM BASE EM PRECEDENTES DESTA SUPREMA CORTE PROFERIDOS SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL - TEMAS 6 E 1.234. ARTIGO 1.030, INCISO I, DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE INTERPOSIÇÃO DE AGRAVO INTERNO. INTERPOSIÇÃO DE AGRAVO. DESCABIMENTO. AGRAVO NÃO CONHECIDO NESSA PARTE. NECESSIDADE DE ANÁLISE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CÓDIGO DE PROCESSO CIVIL DE 2015. AGRAVO CONHECIDO EM PARTE E, NESSA PARTE, DESPROVIDO.
+
+DECISÃO: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou:
+
+“DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTO. NEOPLASIA MALIGNA DE MAMA.
+I. CASO EM EXAME:
+1. Apelação cível interposta contra sentença que julgou procedente o pedido de fornecimento do medicamento Pertuzumabe para tratamento de neoplasia maligna de mama metastática.
+II. QUESTÃO EM DISCUSSÃO:
+2. A questão em discussão consiste em saber se estão preenchidos os requisitos para o fornecimento judicial de medicamento.
+III. RAZÕES DE DECIDIR:
+3. O direito à saúde é um direito fundamental com eficácia e aplicabilidade imediata, conforme o art. 5º, § 1º, e os arts. 6º e 196 da CF/1988, vinculando os Poderes Públicos e impondo o dever de promover a saúde na maior medida do possível.
+4. A concessão judicial de medicamento é medida excepcional que exige o preenchimento cumulativo de requisitos, conforme as teses firmadas pelo STF nos Temas nº 6 (RE nº 566.471) e nº 1.234 (RE nº 1.366.243), e pelo STJ no Tema nº 106 (REsp nº 1.657.156/RJ), bem como as Súmulas Vinculantes nº 60 e 61.
+5. A negativa administrativa do fornecimento do medicamento e a incapacidade financeira da autora de arcar com o custo do tratamento foram devidamente comprovadas nos autos.
+6. A eficácia e segurança do medicamento foram demonstradas por evidências científicas de alto nível, com base na nota técnica do Natjus-RS.
+7. A imprescindibilidade do tratamento e a impossibilidade de substituição por alternativas do SUS foram comprovadas.
+ 8. O custo elevado do medicamento não impede sua concessão judicial, pois a jurisprudência do TRF4 e do STF entende que alegações de custo excessivo não são óbice ao direito fundamental à saúde, cabendo ao Poder Público demonstrar o risco concreto às finanças estatais, o que não foi feito no presente caso.
+9. A obrigação de fornecimento do medicamento é solidária entre os entes federativos, conforme o Tema 793 do STF, e o preço de aquisição deve observar o Preço Máximo de Venda do Governo (PMVG), nos termos do Tema 1.234 do STF, item 3.2.
+IV. DISPOSITIVO:
+10. Apelação desprovida.” (Doc. 66, p. 21, destaquei)
+
+Não foram opostos embargos de declaração.
+Nas razões do apelo extremo, a União apresenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 198, inciso II, da Constituição da República, ao que decidido nos Temas 6 e 1.234 da Repercussão Geral e às Súmulas vinculantes 60 e 61. Narra que “trata-se de ação ajuizada por ANGELICA VIEBRANTZ SOARES contra o ESTADO DO RIO GRANDE DO SUL e a UNIÃO - ADVOCACIA-GERAL DA UNIÃO, com pedido de concessão de tutela provisória de urgência, em que a parte autora objetiva o fornecimento do medicamento Pertuzumabe 30 mg/ml, 14 ml, para tratamento de Neoplasia Maligna de Mama Metastática (CID-10: C50) (evento 1, INIC1)” (Doc. 68, p. 2). Sustenta que o medicamento “não está previsto nas Diretrizes Diagnósticas e Terapêuticas do Carcinoma de Mama para tratamento da condição clínica específica da parte autora (não está comprovada metástase visceral, nem que o medicamento tem evidências para o caso da autora - metástase óssea), devendo ser considerado, desta forma, como medicamento não incorporado, a reclamar avaliação quanto à existência de evidências científicas que justifiquem o emprego no caso” (Doc. 68, p. 3). Assevera que “a Constituição, em seu art. 198, II, determina o atendimento integral e a Lei n.º 8.080/90, em seus arts. 19-M e 19-P, define o que vem a ser esse atendimento integral e a dispensação de medicamentos no SUS”, motivo pelo qual “determinar uma obrigação ao Estado-Administração que extrapole a determinação legal é violar diretamente o disposto nos arts. 198, II, da CF/88, e artigos 19-M e 19-P da Lei n.º 8.080/90” (Doc. 68, p. 4). Defende que “a demonstração de que a avaliação técnica realizada pela CONITEC encontra-se eivada de vício, ou de que a negativa administrativa ao fornecimento do medicamento padece de alguma irregularidade, é ônus da prova do autor, e deve observar critérios objetivos e rigorosos, fundados nos parâmetros da Medicina Baseada em Evidências, restringindo-se à apresentação de provas científicas de alto grau de robustez metodológica, tais como ensaios clínicos randomizados, revisões sistemáticas ou meta-análises” (Doc. 68, p. 7). Argumenta que a “dinâmica administrativa e operacional para fornecimento da medicação possui detalhes que são estranhos à lide, de modo que os ressarcimentos devem ser procedidos mediante pedidos administrativos próprios para ajustamento dos gastos, e não em processo judicial ulterior” (Doc. 464, p. 7). Enfatiza que “a invocação genérica do princípio da dignidade humana não pode servir como fundamento autônomo para afastar decisões tecnicamente pautadas, tampouco para justificar o descumprimento de teses firmadas pela Corte Constitucional”, porquanto, “como já assentado pelo próprio STF, o respeito à dignidade da pessoa humana exige a atuação responsável e tecnicamente referenciada do Poder Judiciário, com deferência às instâncias competentes para formulação de políticas públicas” (Doc. 68, p. 9). Requer, ao final, o provimento do recurso extraordinário.
+Angélica Viebrantz Soares apresentou contrarrazões ao recurso extraordinário (Doc. 70).
+A Vice-Presidência do Tribunal Regional Federal da 4ª Região negou seguimento ao recurso extraordinário com base nos Temas 6 e 1.234 da Repercussão Geral e inadmitiu-o quanto às demais matérias por entender que encontrariam óbice na Súmula 279 do Supremo Tribunal Federal (Doc. 71). Irresignada, a União interpôs o presente agravo (Doc. 74).
+É o relatório. DECIDO.
+In casu, o Tribunal a quo negou provimento à apelação interposta pela União (Doc. 66) e manteve sentença de primeiro grau que rejeitou a preliminar de incompetência da Justiça Federal e, no mérito, extinguiu o feito com resolução de mérito, para julgar procedente a demanda a fim de condenar os réus ao fornecimento da medicação requerida (Pertuzumabe 30 mg/ml), conforme prescrição médica, em favor da autora (Doc. 42).
+O agravo não merece prosperar.
+Ab initio, ressalte-se que o recurso de agravo é inadmissível contra decisão que aplica a sistemática da repercussão geral. Nesse sentido:
+
+“Questão de Ordem. Repercussão Geral. Inadmissibilidade de agravo de instrumento ou reclamação da decisão que aplica entendimento desta Corte aos processos múltiplos. Competência do Tribunal de origem. Conversão do agravo de instrumento em agravo regimental.
+1. Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3º do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral.
+2. Ao decretar o prejuízo de recurso ou exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria, de forma que a remessa dos autos individualmente ao STF apenas se justificará, nos termos da lei, na hipótese em que houver expressa negativa de retratação.
+3. A maior ou menor aplicabilidade aos processos múltiplos do quanto assentado pela Suprema Corte ao julgar o mérito das matérias com repercussão geral dependerá da abrangência da questão constitucional decidida.
+4. Agravo de instrumento que se converte em agravo regimental, a ser decidido pelo tribunal de origem.” (Agravo de Instrumento 760.358-QO, Rel. Min. Gilmar Mendes, Plenário, DJe de 19/02/2010)
+
+“AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. DECISÃO DO TRIBUNAL A QUO QUE APLICA A SISTEMÁTICA DA REPERCUSSÃO GERAL (ART. 543-B DO CPC). DESCABIMENTO DO AGRAVO PREVISTO NO ART. 544 DO CPC. CABIMENTO DE AGRAVO REGIMENTAL (OU INTERNO) PARA A ORIGEM. IMPOSSIBILIDADE DE CONVERSÃO EM AGRAVO REGIMENTAL. ACÓRDÃO RECORRIDO PUBLICADO APÓS 19.11.2009.
+É pacífico o entendimento desta Corte de que, por não se cuidar de juízo negativo de admissibilidade de recurso extraordinário, não é cabível o agravo previsto no art. 544 do Código de Processo Civil, para atacar decisão de Presidente de Tribunal ou Turma Recursal de origem que aplique a sistemática da repercussão geral.
+A parte que queira impugnar decisão monocrática de Presidente de Tribunal ou de Turma Recursal de origem, proferida nos termos do art. 543-B do CPC, deve fazê-lo por meio de agravo regimental (ou interno).
+Inaplicável a conversão do presente recurso em agravo regimental a ser apreciado pela origem, já que a jurisprudência desta Corte já fixou entendimento de que após 19.11.2009, data em que julgado o AI 760.358-QO, a interposição do agravo previsto no art. 544 do CPC configura erro grosseiro.
+Agravo regimental a que se nega provimento.” (Recurso Extraordinário com Agravo 761.661-AgR, Rel. Min. Joaquim Barbosa, Plenário, DJe de 28/04/2014)
+
+Saliente-se que, em casos como este, somente é cabível a interposição de agravo interno no Tribunal a quo, nos termos do artigo 1.030, § 2º, do Código de Processo Civil, que não foi interposto. Nesse sentido, à guisa de exemplo, foram os seguintes julgados:
+
+“AGRAVO REGIMENTAL NA RECLAMAÇÃO. PROCESSUAL CIVIL. APLICAÇÃO DO ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL FIRMADO EM SEDE DE REPERCUSSÃO GERAL NO TEMA 451. (CPC/2015, ART. 1.030, I). ALEGADA USURPAÇÃO DA COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. ALEGADA VIOLAÇÃO À SÚMULA 727. INOCORRÊNCIA. INADEQUAÇÃO DO MEIO RECURSAL UTILIZADO, POR ADMISSÍVEL, NA ESPÉCIE, UNICAMENTE O RECURSO DE AGRAVO INTERNO (CPC/2015, ART. 1.030, § 2º). PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.” (Reclamação 29.491-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe de 17/09/2018, destaquei)
+
+“Agravo regimental na reclamação. Negativa de seguimento a recurso extraordinário com fundamento no Tema nº 660 de repercussão geral (ARE nº 748371/MT-RG). Recurso extraordinário com agravo. Não conhecimento pelo Tribunal a quo. Ausência de usurpação de competência do STF. Artigo 1.042, caput, parte final, do CPC/15. Agravo regimental não provido.
+1. Não cabe recurso de agravo contra decisão com que o órgão de origem, fundado em entendimento firmado em regime de repercussão geral, não admite recurso extraordinário (CPC/15, art. 1.042, caput, parte final).
+2. Compete ao órgão colegiado ao qual pertence o juízo prolator do despacho de inadmissibilidade de recurso extraordinário na origem (CPC-2015, art. 1.021, caput) proceder, em sede de agravo interno, à análise de adequação entre o teor do provimento concedido pelo órgão de origem acerca do tema constitucional destacado no recurso extraordinário e a tese de repercussão geral firmada pela Suprema Corte (CPC/2015, art. 1.029, § 1º c/c o art. 1.030, § 2º).
+3. Agravo regimental não provido.” (Reclamação 25.078-AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe de 21/02/2017, destaquei)
+
+“Agravo regimental no recurso extraordinário com agravo. Processual Civil. Aplicação da sistemática da repercussão geral pelo juízo de origem. Recurso cabível. Agravo interno (art. 1.030, § 2º, do CPC). Agravo ao tribunal superior (art. 1.042 do CPC). Recurso manifestamente incabível. Precedentes.
+1. Segundo a firme jurisprudência do Supremo Tribunal Federal, não cabe recurso ou outro instrumento processual na Corte contra decisão do juízo de origem em que se aplique a sistemática da repercussão geral.
+2. Essa orientação está consolidada no Código de Processo Civil de 2015, que prevê, como instrumento processual adequado contra a aplicação do instituto da repercussão geral, a interposição de agravo interno perante o próprio tribunal de origem (art. 1.030, § 2º, do CPC).
+3. Agravo regimental não provido.” (Recurso Extraordinário com Agravo 1.278.628-AgR, Rel. Min. Dias Toffoli, Plenário, DJe de 17/09/2020, destaquei)
+
+Conclui-se, dessa forma, que, após o exame da existência de repercussão geral da matéria versada em recurso extraordinário, pelo Supremo Tribunal Federal, compete às Cortes de origem a aplicação da decisão aos demais casos, motivo pelo qual não conheço do agravo nesses pontos específicos - Temas 6 e 1.234 da Repercussão Geral.
+Quanto às matérias remanescentes, in casu, o Tribunal de origem dirimiu a controvérsia nos seguintes termos:
+
+“Os temas 6 e 1234 do STF fixaram diretrizes de natureza vinculante para as decisões judiciais de medicamentos não incorporados ao SUS e de alto custo.
+(...)
+Por fim, determinou, tal como no Tema 1.234, que essas teses sejam transformadas em enunciado sintetizado de súmula vinculante, na forma do art. 103-A da Constituição Federal, com a seguinte redação: ‘A concessão judicial de medicamento registrado na ANVISA, mas não incorporado às listas de dispensação do Sistema Único de Saúde, deve observar as teses firmadas no julgamento do Tema 6 da Repercussão Geral (RE 566.471)’.
+O Tema 1234 do STF, ao tratar do litisconsórcio passivo da União nos casos de medicamentos não incorporados ao SUS e registrados na ANVISA, fez as seguintes considerações a respeito da análise judicial dos pedidos de medicamentos nesta condição:
+(...)
+Tais decisões possuem contornos vinculantes ressaltados com a edição das Súmulas Vinculantes nºs 60 e 61, na data de 20/09/2024:
+(...)
+A partir do exame das teses jurídicas que compõem os Temas n.º 6 e 1.234 do Supremo Tribunal Federal, tem-se que o fornecimento, por determinação judicial, de medicamentos não incorporados à política pública de saúde do SUS é medida excepcional e que somente se admite quando preenchidos os seguintes requisitos:
+(a) negativa administrativa de fornecimento do fármaco;
+(b) ilegalidade do ato não incorporação pela CONITEC, ou ausência de pedido de incorporação; ou mora excessiva na apreciação;
+ (c) impossibilidade de substituição por outro medicamento integrado aos protocolos e diretrizes terapêuticas do SUS;
+(d) comprovação acerca da eficácia e segurança do medicamento, com base em evidências científicas de alto nível, assim considerados estudos clínicos randomizados e revisão sistemática ou meta-análise;
+(e) imprescindibilidade do tratamento, comprovada por laudo médico fundamentado; e
+(f) incapacidade financeira da parte de arcar com o custeio do tratamento.
+Prova pericial
+ Nos termos do art. 370 do Código de Processo Civil, cabe ao julgador, inclusive de ofício, determinar a produção das provas necessárias ao julgamento de mérito. Portanto, se entender encontrar-se munido de suficientes elementos de convicção, é dispensável a produção de outras provas.
+Além disso, a perícia médica não é indispensável para solução de todos os processos que tratam do direito à saúde. O juiz poderá se valer de pareceres médicos e de notas técnicas para a tomada de decisão, conforme decidido no Enunciado 31, da I Jornada de Direito da Saúde:
+Recomenda-se ao Juiz a obtenção de informações do Núcleo de Apoio Técnico ou Câmara Técnica e, na sua ausência, de outros serviços de atendimento especializado, tais como instituições universitárias, associações profissionais, etc.
+Ademais, o Enunciado 121 da VII Jornada de Direito da Saúde elenca a possibilidade de utilização de pareceres ou notas técnicas já existentes nos sistemas e-NatJus ou NATS para fundamentar a análise do pedido de medicamento, quando haja pertinência com o caso analisado:
+A tutela de urgência em demandas relativas a medicamentos, terapias ou procedimentos não incorporados ao SUS poderá ser fundamentada em documentos de evidência científica (pareceres ou notas técnicas) disponíveis no Sistema e-NatJus ou nos bancos dos Núcleos de Avaliação de Tecnologia em Saúde (NATS), desde que guardem pertinência com o quadro clínico do paciente e com o objeto do pedido.
+ No presente caso, os documentos constantes dos autos foram emitidos por instituições e profissionais idôneos e são suficientes para o exame do pedido.
+Mérito - caso concreto
+Restou determinado o fornecimento do medicamento Pertuzumabe requerido na inicial, pelo Juiz Federal André Augusto Giordani, nestes termos:
+(...)
+Como visto, o medicamento Pertuzumabe está incluído na política pública de saúde, de modo que a sua concessão observou as diretrizes traçadas nas decisões vinculantes do STF e do STJ.
+Registro que, mesmo antes da mencionada incorporação do medicamento Pertuzumabe, este Tribunal entendia cabível a sua concessão para tratamento do câncer de mama HER2-positivo, como se vê no voto proferido pela Desembargadora Vânia Hack de Almeida, quando do julgamento da Apelação Cível nº 5002457-10.2025.4.04.7108/RS, na 5ª Turma:
+(...)
+Observa-se, portanto, que a não incorporação do medicamento para o tratamento de casos como o da autora não decorre da ineficácia do tratamento em si, mas de análise estritamente econômica, a qual, inclusive, foi relativizada para o caso de pacientes em estados mais graves. Importante salientar que referida análise foi realizada no ano de 2017, sem ter sido reavaliado desde então, embora a justificativa para a incorporação parcial do tratamento tenha decorrido de elemento variável no tempo, caso da precificação do medicamento.
+Entendo, portanto, que está caracterizada a ilegalidade em relação à não incorporação, ato omissivo do órgão técnico que causa prejuízo à parte, justamente por existirem elementos de prova que confirmam a adequação e a superioridade do tratamento pleiteado, configurando-se a excepcionalidade apta a justificar provimento judicial divergente da decisão administrativa do Conitec.
+(...)
+Destaca-se que esta Corte possui jurisprudência ampla no sentido da possibilidade de condenação ao fornecimento dos fármacos Trastuzumabe e Pertuzumabe à pacientes com câncer de mama HER2- positivo metastático:
+(...)
+A sentença, neste ponto, não comporta reparos.
+Responsabilidade pelo fornecimento, contracautelas e ressarcimento entre os entes públicos
+No tocante à responsabilidade pelo fornecimento, contracautelas e ressarcimento entre os entes públicos, o julgador de primeira instância assim decidiu:
+(...)
+Incumbe à União a responsabilidade pelo financiamento dos medicamentos, na forma definida no Tema 1234, o que deve ser buscado administrativamente.
+Não há o que modificar na sentença.
+Adoção do CAP/PMVG
+ Na aquisição pretendida deve ser utilizado o Coeficiente de Adequação de Preços (CAP) - coeficiente utilizado nas compras de medicamentos promovidas pelo poder público, nos termos do art. 1º da Resolução CMED n.º 3, de 02/03/2011.
+Cabe ressaltar que prevaleceu no Supremo que é obrigatória a utilização do preço governamental, isto é, o Preço Máximo de Venda do Governo (PMVG), obtido pela incidência do Coeficiente de Adequação de Preços (CAP) na aquisição de medicamentos através de processo judicial (item 3.2 da tese; Tema 1234/STF). Diante disso, havendo imposição de aquisição judicial do medicamento, deverá ser empregado o preço governamental.” (Doc. 66, p. 9-19, destaquei)
+
+Verifica-se, dessa forma, que o Tribunal de origem decidiu a controvérsia com fundamento no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+Não se revela cognoscível, em sede de recurso extraordinário, a insurgência que tem como escopo a incursão no contexto fático-probatório presente nos autos. Com efeito, essa pretensão não se amolda à estreita via do apelo extremo, cujo conteúdo se restringe a discussão eminentemente de direito, em face do óbice imposto pela Súmula 279 do Supremo Tribunal Federal.
+Sob esse enfoque, ressoa inequívoca a vocação para o insucesso do apelo extremo, por força do óbice intransponível do referido verbete sumular, que veda a esta Suprema Corte, em sede de recurso extraordinário, sindicar matéria fática.
+Por oportuno, vale destacar a lição de Roberto Rosas sobre a Súmula 279 do Supremo Tribunal Federal:
+
+“Chiovenda nos dá os limites da distinção entre questão de fato e questão de direito. A questão de fato consiste em verificar se existem as circunstâncias com base nas quais deve o juiz, de acordo com a lei, considerar existentes determinados fatos concretos.
+A questão de direito consiste na focalização, primeiro, se a norma, a que o autor se refere, existe, como norma abstrata (Instituições de Direito Processual, 2ª ed., v. I/175).
+Não é estranha a qualificação jurídica dos fatos dados como provados (RT 275/884 e 226/583). Já se refere a matéria de fato quando a decisão assenta no processo de livre convencimento do julgador (RE 64.051, Rel. Min. Djaci Falcão, RTJ 47/276); não cabe o recurso extraordinário quando o acórdão recorrido deu determinada qualificação jurídica a fatos delituosos e se pretende atribuir aos mesmos fatos outra configuração, quando essa pretensão exige reexame de provas (ERE 58.714, Relator para o acórdão o Min. Amaral Santos, RTJ 46/821). No processo penal, a verificação entre a qualificação de motivo fútil ou estado de embriaguez para a apenação importa matéria de fato, insuscetível de reexame no recurso extraordinário (RE 63.226, Rel. Min. Eloy da Rocha, RTJ 46/666).
+A Súmula 279 é peremptória: ‘Para simples reexame de prova não cabe recurso extraordinário’. Não se vislumbraria a existência da questão federal motivadora do recurso extraordinário. O juiz dá a valoração mais conveniente aos elementos probatórios, atendendo aos fatos e circunstâncias constantes dos autos, ainda que não alegados pelas partes. Não se confunda com o critério legal da valorização da prova (RTJ 37/480, 56/65)(Pestana de Aguiar, Comentários ao Código de Processo Civil, 2ª ed., v. VI/40, Ed. RT; Castro Nunes, Teoria e Prática do Poder Judiciário, 1943, p. 383). V. Súmula STJ-7.” (Direito Sumular. 14. ed. São Paulo: Malheiros, 2012. p. 137-138)
+
+Nesse sentido, confira-se, à guisa de exemplo, o seguinte julgado proferido em caso em que foi mantido o acórdão recorrido que determinou ao ente federativo o fornecimento do mesmo medicamento pleiteado no presente feito:
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. DIREITO À SAÚDE. MODULAÇÃO DOS EFEITOS DA DECISÃO QUANTO AO ALCANCE DA COMPETÊNCIA: TEMA 1.234 DA REPERCUSSÃO GERAL. FORNECIMENTO DE MEDICAMENTO INCORPORADO NAS POLÍTICAS PÚBLICAS DO SISTEMA ÚNICO DE SAÚDE – SUS. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERADOS: TEMA 793 DA REPERCUSSÃO GERAL. COMPROVAÇÃO DA NECESSIDADE DO TRATAMENTO NA ORIGEM. CONTROVÉRSIA SOBRE DIRECIONAMENTO DO CUSTEIO. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. INEXISTÊNCIA DE ARGUMENTOS APTOS A INFIRMAR A CONCLUSÃO DO JULGADO. DECISÃO AGRAVADA MANTIDA. AGRAVO REGIMENTAL NÃO CONHECIDO, COM DETERMINAÇÃO DE CERTIFICAÇÃO DO TRÂNSITO EM JULGADO E BAIXA IMEDIATA DOS AUTOS ELETRÔNICOS À ORIGEM, INDEPENDENTE DA PUBLICAÇÃO DO ACÓRDÃO.” (Recurso Extraordinário 1.575.637, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 15/04/2026, destaquei)
+
+Por fim, observo que o agravo foi interposto sob a égide da nova lei processual, o que impõe a aplicação de sucumbência recursal.
+Ex positis, CONHEÇO parcialmente do AGRAVO, com fundamento no artigo 932, inciso III, do Código de Processo Civil de 2015, e, nessa parte, DESPROVEJO-O, com fundamento no artigo 932, inciso VIII, do Código de Processo Civil de 2015 c/c o artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo.
+Publique-se.
+Brasília, 15 de junho de 2026.
+
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
