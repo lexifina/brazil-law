@@ -1,0 +1,1 @@
+Art. 14-E - Serão destinados à valorização das carreiras dos servidores estaduais em exercício na Semad e nas entidades a ela vinculadas no mínimo 20% (vinte por cento) da receita prevista no parágrafo único do art. 14-A.
