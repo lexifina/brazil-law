@@ -1,0 +1,85 @@
+DECISÃO: Trata-se de reclamação constitucional com pedido de liminar, proposta por José Roberto Ferreira em face de decisão do Tribunal Regional Federal da 3ª Região, nos autos do Processo n.º 5000501-72.2022.403.0000, na qual se alega afronta ao que decidido por esta Corte no julgamento do ARE 1.544.017/SP, em que se deu provimento ao recurso do reclamante para cassar o acórdão recorrido e determinar que outro fosse proferido, em conformidade com o entendimento firmado no Tema 334 da repercussão geral.
+Em suas razões, a parte reclamante sustenta, em suma, que “a aplicação do Tema 334/STF em sede de execução ou cumprimento de sentença não ofende a coisa julgada, pois visa garantir que a decisão judicial produza o efeito mais favorável possível ao segurado, alinhando-se ao seu patrimônio jurídico consolidado à época do preenchimento dos requisitos” (eDOC 1, p. 6).
+Assevera que “o v. acórdão proferido pela 9ª Turma que não cumpriu a determinação do Excelso STF proferida nestes autos em 05/05/2025 (Id. 330987329 - Pág. 116/122, a fim de determinar o prosseguimento do feito para que seja apurada a RMI mais vantajosa, considerando-se o PBC com direito adquirido em 1998, restou por violar a referida decisão deste Supremo Tribunal Federal no ARE 1.544.017/SP , impondo-se a sua urgente anulação (...)” (eDOC 1, pp. 6-7)
+Ao final, requer seja mantido o benefício da justiça gratuita e, no mérito, a procedência da reclamação  para cassar o ato reclamado e determinar que seja proferido novo acórdão em conformidade com o entendimento firmado no Tema 334 da repercussão geral.
+É o relatório.
+Decido.
+Inicialmente, deixo fazer remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (RISTF, art. 52, parágrafo único).
+Superada a questão, rememoro que a  reclamação, tal como prevista no art. 102, I, “l”, da Constituição e regulada nos artigos 988 a 993 do Código de Processo Civil e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, tem cabimento para preservar a competência do Tribunal ou garantir a autoridade das suas decisões, bem como contra ato administrativo ou decisão judicial que contrarie súmula vinculante (CF/88, art. 103-A, § 3º). Nesse sentido, o Código de Processo Civil de 2015 estabelece o rol das hipóteses de cabimento da reclamação, conforme a seguir transcrito:
+
+“Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+III – garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade; (Redação dada pela Lei nº 13.256, de 2016)
+IV – garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência (…)”. (Grifo nosso)
+
+Assiste razão à parte reclamante.
+No julgamento do ARE 1.544.017/SP, cujo recorrente era a parte ora  reclamante, dei provimento ao recurso para cassar o acórdão recorrido e determinar que outro seja proferido, em conformidade com o entendimento firmado no Tema 334 da repercussão geral.
+Naquela oportunidade, consignei que “no julgamento do RE 630.501/RS (Tema 334), processado segundo a sistemática da repercussão geral, esta Suprema Corte fixou a tese de que “para o cálculo da renda mensal inicial, cumpre observar o quadro mais favorável ao beneficiário, pouco importando o decesso remuneratório ocorrido em data posterior ao implemento das condições legais para a aposentadoria, respeitadas a decadência do direito à revisão e a prescrição quanto às prestações vencidas”, conforme se denota da ementa abaixo transcrita:
+
+“APOSENTADORIA – PROVENTOS – CÁLCULO. Cumpre observar o quadro mais favorável ao beneficiário, pouco importando o decesso remuneratório ocorrido em data posterior ao implemento das condições legais. Considerações sobre o instituto do direito adquirido, na voz abalizada da relatora – ministra Ellen Gracie –, subscritas pela maioria”. (RE 630501, Rel. Min. Ellen Gracie, Rel. p/ Acórdão: Min. Marco Aurélio, Tribunal Pleno, DJe 26.8.2013)
+
+No caso dos autos, verificou-se que, embora o título executivo tenha concedido ao autor a aposentadoria integral, com tempo de contribuição de 37 anos, 2 meses e 6 dias até a DER (22/11/2005), fixando a RMI em R$ 1.011,61, a Contadoria Judicial apurou que, caso fosse considerada a aposentadoria proporcional, com base no direito adquirido em 12/1998 e aplicando-se o coeficiente de 70% do salário de benefício, a RMI seria mais vantajosa, alcançando o valor de R$ 1.244,56. Todavia, o Tribunal de origem entendeu ser caso de observância à coisa julgada, ainda que em prejuízo do beneficiário.  Confira-se trecho do acórdão recorrido:
+
+“(...)
+A coisa julgada constitui garantia fundamental do cidadão no nosso Estado Democrático de Direito, consoante o disposto no artigo 5º, XXXVI, da CF/88, e origina-se da necessidade de ser conferida segurança às relações jurídicas. Tal instituto tem a finalidade de conferir imutabilidade à sentença e, consequentemente, impedir que a lide julgada definitivamente seja rediscutida em ação judicial posterior. Podendo ser rescindida, por meio de ação rescisória, nos termos dos artigos 966 e seguintes do CPC, o que não ocorreu no caso dos autos.
+A necessidade de adequação da liquidação de sentença ao título executivo legitima o magistrado a determinação de que sejam conferidos e elaborados novos cálculos pela contadoria judicial, órgão auxiliar do juízo (artigo 524, §2º do CPC).
+Isto porque, o sistema processual civil brasileiro consagra o princípio da fidelidade ao título, conforme art. 509, § 4º, do CPC, segundo o qual a execução opera-se nos exatos termos da decisão transitada em julgado, motivo pelo qual, o Magistrado deve conduzir a execução nos limites do comando expresso no título executivo.
+Neste passo, a Contadoria Judicial de 1 Grau, constatou que a controvérsia, no caso, consiste em definir se o autor pode se aposentar de forma proporcional com base no direito adquirido em 12/1998, considerando o coeficiente de 70% do salário de benefício e RMI mais vantajosa de R$ 1.244,56. Contudo, o título executivo concedeu ao autor a aposentadoria integral, mediante o tempo de contribuição de 37 anos 2 meses e 6 dias até a DER 22/11/2005, com RMI de R$ 1.011,61, valor corroborado pela Contadoria Judicial desta E. Corte, conforme informações (ID 270066890).
+Os cálculos elaborados ou conferidos pela contadoria do Juízo, que atua como auxiliar do Juízo, gozam de presunção juris tantum de veracidade só elidível por prova inequívoca em contrário, não demonstrada pelas partes.
+Por tais razões, em observância à coisa julgada, a RMI deve ser calculada nos exatos termos do título executivo judicial – aposentadoria por tempo de contribuição integral – DIB 22/11/2005 e, por conseguinte, devem prevalecer os cálculos apurados pela Contadoria Judicial de 1 Grau, no valor total de R$ 187.359,28, em 10/2020, com RMI de R$ 1.011,61.
+Acresce relevar, que a hipótese dos autos é diversa daquela tratada no Tema 1.018 do E. STJ.
+Ressalte-se, ainda, que a fase executiva deve ser pautada por alguns princípios, dentre eles está o princípio do exato adimplemento. Por este princípio o credor deve, dentro do possível, obter o mesmo resultado que seria alcançado caso o devedor tivesse cumprido voluntariamente a obrigação. A execução deve ser específica, atribuindo ao credor exatamente aquilo a que faz jus, como determinam os artigos 497 e 498 do CPC.
+(...)”. (eDOC 28 – ID: deb31b2d, p. 4-5)”
+
+Desse modo, reconheceu-se que o acórdão recorrido destoa do entendimento firmado por esta Corte no Tema 334 da repercussão geral, segundo o qual o beneficiário tem direito, para o cálculo da renda mensal inicial, à aplicação do critério que lhe for mais favorável.
+Após o provimento do referido recurso, os autos retornaram ao juízo de origem, tendo o Vice-Presidente proferido despacho nos seguintes termos:
+
+“No caso concreto, verifica-se que o acórdão recorrido destoa, em princípio, do entendimento sufragado pela Corte Suprema.
+Em face do exposto, nos termos do art. 1.040, II, do CPC, determino a devolução dos autos à Turma Julgadora, para verificação da pertinência de se proceder ao juízo positivo de retratação na espécie.”(eDOC 7, p. 322)
+
+Na sequência, a 9ª Turma do TRF da 3ª Região, em juízo de retratação negativo, decidiu manter a decisão embargada e rejeitar os embargos de declaração em acórdão assim ementado:
+
+“PROCESSUAL CIVIL. PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO. JUÍZO NEGATIVO DE RETRATAÇÃO. CUMPRIMENTO DE SENTENÇA. PRINCÍPIO DA FIDELIDADE AO TÍTULO. TEMA 334 DO STF. DISTINGUISHING. COISA JULGADA. IMPOSSIBILIDADE DE MODIFICAÇÃO EM SEDE EXECUTIVA. EMBARGOS REJEITADOS.
+Caso em exame: Embargos de declaração opostos contra acórdão que manteve cálculos nos termos do título executivo, com pedido de aplicação do Tema 334 do STF para reconhecimento do direito ao melhor benefício.
+Questão em discussão: A questão consiste em saber se é possível, em fase de cumprimento de sentença, aplicar o Tema 334 do STF para modificar os termos do título executivo e assegurar cálculo de benefício com base no direito adquirido anterior.
+O Tema 334 do STF foi firmado em contexto de concessão ou revisão originária, não se aplicando à fase de cumprimento de sentença de título definitivo. O princípio da fidelidade ao título (art. 509, § 4º, CPC) impede modificação dos termos da decisão transitada em julgado em sede executiva. A coisa julgada (art. 5º, XXXVI, CF/88) confere imutabilidade ao julgado, impedindo rediscussão de seus termos fundamentais. A pretensão de aplicar regra mais benéfica extrapola os limites da fase executiva, devendo ser buscada por meio processual adequado para desconstituir o julgado. Juízo negativo de retratação. Embargos de declaração rejeitados.
+Tese de julgamento: "Em fase de cumprimento de sentença, não é possível modificar os termos do título executivo com base em interpretação jurisprudencial superveniente, ainda que mais favorável ao exequente, devendo ser observado o princípio da fidelidade ao título."”(eDOC 7, p. 334; grifou-se)
+
+Em face da referida decisão, a parte interpôs embargos declaratórios  (eDOC 7, pp. 341-343), os quais foram rejeitados consoante a seguinte ementa:
+
+“PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO. CUMPRIMENTO DE SENTENÇA. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. PRETENSÃO DE APLICAÇÃO DO TEMA 334/STF. PRINCÍPIO DA FIDELIDADE AO TÍTULO EXECUTIVO. ART. 509, § 4º, DO CPC. COISA JULGADA. INEXISTÊNCIA DE CONTRADIÇÃO OU OBSCURIDADE. EMBARGOS REJEITADOS.
+I. CASO EM EXAME
+    1. Trata-se de embargos de declaração opostos contra acórdão proferido em juízo negativo de retratação, que manteve decisão anterior e rejeitou embargos declaratórios, sob fundamento de observância ao princípio da fidelidade ao título executivo. O embargante sustenta contradição e obscuridade na decisão, argumentando que a aplicação do Tema 334/STF seria imperativa em razão de determinação do Supremo Tribunal Federal no ARE 1544017/SP, que teria cassado acórdão e determinado novo julgamento.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se há contradição ou obscuridade no acórdão que, em juízo de retratação, manteve a impossibilidade de modificação dos termos do título executivo em cumprimento de sentença, aplicando o princípio da fidelidade ao título executivo previsto no art. 509, § 4º, do CPC, em detrimento da alegada aplicação obrigatória do Tema 334/STF.
+III. RAZÕES DE DECIDIR
+3. Os embargos de declaração destinam-se a sanar vícios de omissão, obscuridade, contradição ou erro material, nos termos dos arts. 1.022 e 1.026 do CPC, não se prestando a promover reforma do julgado por mera discordância quanto ao mérito ou aos fundamentos adotados.
+4. O acórdão embargado examinou especificamente os embargos declaratórios opostos contra a decisão anterior (id. 276099007), fundamentando de forma clara e completa a impossibilidade de modificação do título executivo em sede de cumprimento de sentença, com base no princípio da fidelidade ao título executivo (art. 509, § 4º, do CPC) e na garantia constitucional da coisa julgada (art. 5º, XXXVI, da CF/88).
+5. O título executivo estabeleceu concessão de aposentadoria por tempo de contribuição integral com DIB em 22/11/2005 e RMI calculada nos termos da legislação vigente à época, sem qualquer ressalva sobre aplicação de regra mais benéfica ou cálculo alternativo baseado em direito adquirido anterior.
+6. O acórdão consignou expressamente que eventual conflito entre o julgado definitivo e a interpretação do Tema 334/STF deveria ser buscado pelos meios processuais adequados para desconstituir o julgado (ação rescisória ou nova ação de revisão), e não mediante alteração dos cálculos em fase executiva.
+7. Inexiste contradição ou obscuridade na fundamentação adotada, tendo o acórdão distinguido o precedente do STF e explicado as razões pelas quais sua aplicação direta não se amolda à hipótese dos autos, tratando-se de fase de cumprimento de sentença de título executivo definitivo.
+8. O embargante pretende ver acolhida tese diversa da adotada na decisão recorrida, manifestando discordância quanto aos fundamentos do julgado e buscando reforma mediante aplicação do Tema 334/STF em juízo de retratação, o que é inviável nesta via recursal.
+IV. DISPOSITIVO E TESE
+9. Embargos de declaração rejeitados.”(eDOC 7, pp. 350-351; grifou-se)
+
+A parte ora reclamante opôs novos embargos de declaração (eDOC 7, p. 361-364), os quais foram rejeitados com aplicação de multa (eDOC 7, p. 367-374).
+Irresignada, a parte interpôs Recurso Especial com vistas à reforma do acórdão recorrido para afastar a multa por litigância de má-fé.
+Daí o ajuizamento da presente reclamação em que a parte reclamante sustenta afronta ao que decidido por esta Corte no julgamento do ARE 1.544.017/SP.
+Efetivamente, ao manter a decisão recorrida, em juízo negativo de retratação, sob o argumento de que o princípio da fidelidade ao título impede modificação dos termos da decisão transitada em julgado em sede executiva, o Tribunal de origem inobservou o que decidido por esta Corte no referido recurso.
+Não obstante o trânsito em julgado da questão de mérito nos termos do título executivo, o fato é que a matéria de fundo debatida está abarcada pelo Tema 334 da repercussão geral e que, inclusive, a questão da coisa julgada também havia sido considerado quando da decisão proferida no ARE 1.544.017/SP.
+Para destacar, ainda mais, como a coisa julgada não constitui óbice in casu para a reversão da decisão que se decidiu cassar registro que esta Corte fixou premissas acerca da inexigibilidade do título executivo fundado em coisa julgada inconstitucional, no julgamento da Questão de Ordem na Ação Rescisória 2876. Consignou ser admissível a arguição de inexigibilidade do título, ainda que o entendimento do STF sobre a matéria tenha sido firmado posteriormente ao trânsito em julgado da decisão exequenda, salvo hipótese de preclusão. Na ocasião, fixaram-se as seguintes teses:
+
+“O § 15 do art. 525 e o § 8º do art. 535 do Código de Processo Civil devem ser interpretados conforme à Constituição, com efeitos ex nunc, no seguinte sentido, com a declaração incidental de inconstitucionalidade do § 14 do art. 525 e do § 7º do art. 535:
+1. Em cada caso, o Supremo Tribunal Federal poderá definir os efeitos temporais de seus precedentes vinculantes e sua repercussão sobre a coisa julgada, estabelecendo inclusive a extensão da retroação para fins da ação rescisória ou mesmo o seu não cabimento diante do grave risco de lesão à segurança jurídica ou ao interesse social.
+2. Na ausência de manifestação expressa, os efeitos retroativos de eventual rescisão não excederão cinco anos da data do ajuizamento da ação rescisória, a qual deverá ser proposta no prazo decadencial de dois anos contados do trânsito em julgado da decisão do STF.
+3. O interessado poderá apresentar a arguição de inexigibilidade do título executivo judicial amparado em norma jurídica ou interpretação jurisdicional considerada inconstitucional pelo STF, seja a decisão do STF anterior ou posterior ao trânsito em julgado da decisão exequenda, salvo preclusão (Código de Processo Civil, arts. 525, caput, e 535, caput)".
+Desse modo, reitero que o trânsito em julgado do mérito do título executivo não obsta o rejulgamento da causa para adequá-lo ao entendimento desta Corte consubstanciado no julgamento do Tema 334 da repercussão geral, conforme já determinado no ARE 1.544.017/SP, apontado como paradigma na presente reclamação.
+Ante o exposto, julgo procedente a reclamação para determinar a o rejulgamento da causa em conformidade com o entendimento firmado no Tema 334 da repercussão geral.
+Em tempo, defiro a gratuidade da justiça.
+Comunique-se. Publique-se.
+Brasília, 16 de junho de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
