@@ -1,0 +1,5 @@
+LEI COMPLEMENTAR Nº 289, DE 16 DE JUNHO DE 2026.
+
+ALTERA disposivos da Lei nº 2.423, de 10 de dezembro de 1996, e dá outras providências. A ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+DECRETA:
