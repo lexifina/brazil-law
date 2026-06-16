@@ -1,0 +1,105 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Superior do Trabalho
+PROCESSO Nº TST-Ag-ED-AIRR - 10468-56.2020.5.15.0106
+A C Ó R D Ã O
+4ª Turma
+GMMCP/mdom/dd
+AGRAVO EM AGRAVO DE INSTRUMENTO EM RECURSO DE
+REVISTA DA PARTE RECLAMADA INTERPOSTO SOB A ÉGIDE DA
+LEI Nº 13.467/2017 - ACÓRDÃO REGIONAL PROFERIDO EM
+AGRAVO DE INSTRUMENTO - SÚMULA Nº 218 DO TST - TEMA Nº
+31 DA TABELA DE RECURSOS DE REVISTA REPETITIVOS -
+TRANSCENDÊNCIA JURÍDICA RECONHECIDA
+É incabível Recurso de Revista interposto a acórdão regional
+prolatado em Agravo de Instrumento. Inteligência do art. 896 da
+CLT e da Súmula nº 218 do TST.
+Agravo a que se nega provimento.
+Vistos, relatados e discutidos estes autos de Agravo em Embargos de Declaração
+em Agravo de Instrumento em Recurso de Revista nº TST-Ag-ED-AIRR-10468-56.2020.5.15.0106, em que
+é Agravante MARCHEPLAST COMÉRCIO DE PRODUTOS PLÁSTICOS LTDA. e é Agravado NICOLAS
+HENRIQUE DE FARIAS.
+Trata-se de Agravo (fls. 408/418) interposto à decisão monocrática às fls. 389/391,
+complementada às fls. 403/406, que negou seguimento ao Agravo de Instrumento.
+A parte Agravada apresentou contraminuta (fls. 422/426).
+É o relatório.
+V O T O
+I – CONHECIMENTO
+Tempestivo e regularmente subscrito, conheço do Agravo.
+II – MÉRITO
+Por decisão monocrática, a Presidência do TST negou seguimento ao Agravo de
+Instrumento por aplicação da Súmula nº 422, item I, do TST, por falta de dialeticidade do Agravo de
+Instrumento. Assinalou que não houve impugnação da decisão de admissibilidade do Recurso de Revista
+quanto ao óbice da Súmula nº 218 do TST, porque é inadmissível Recurso de Revista em face de acórdão
+do Eg. TRT proferido em Agravo de Instrumento.
+A Agravante argumenta terem sido cumpridos os requisitos de admissibilidade.
+Reitera o mérito da insurgência. Invoca os artigos 5º, LIV e LV, da Constituição da República; 98, 343, § 1º,
+365 e 395, § 1º, do CPC; e 2º, parágrafo único, II, da Resolução nº 337/2020 do CNJ; e as Súmulas n
+os 74, I,
+126 e 427 do TST.
+A decisão agravada é insuscetível de reconsideração ou reforma.
+Inicialmente, reconheço a transcendência jurídica, por se tratar de questão afeta
+a Incidente de Recurso de Revista Repetitivo ainda não julgado nesta Corte (Tema nº 31 -
+IncJulgRREmbRep-447-47.2023.5.06.0015). Não há determinação de suspensão de processos.
+O art. 896, caput, da CLT dispõe:
+Art. 896 - Cabe Recurso de Revista para Turma do Tribunal Superior do Trabalho dasdecisões
+proferidas em grau de recurso ordinário, em dissídio individual, pelos Tribunais Regionais do
+Trabalho, quando: (destaquei)
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067743D5CE12B944.
+A Súmula nº 218 do TST consolidou:
+RECURSO DE REVISTA. ACÓRDÃO PROFERIDO EM AGRAVO DE INSTRUMENTO.
+É incabível recurso de revista interposto de acórdão regional prolatado em agravo de
+instrumento. (destaquei)
+A C. 4ª Turma do TST orienta-se no sentido de ser inadmissível Recurso de Revista
+interposto em face de acórdão de Tribunal Regional do Trabalho proferido em sede de Agravo de
+Instrumento:
+AGRAVO DA RECLAMADA – AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA INTERPOSTO
+SOB A ÉGIDE DA LEI Nº 13.467/2017 – ACÓRDÃO REGIONAL PROFERIDO EM AGRAVO DE
+INSTRUMENTO - SÚMULA Nº 218 DO TST - TRANSCENDÊNCIA JURÍDICA – TEMA Nº 31 DE INCIDENTES
+DE RECURSOS DE REVISTA REPETITIVOS É incabível Recurso de Revista interposto a acórdão
+regional prolatado em Agravo de Instrumento. Inteligência do art. 896 da CLT e da Súmula nº 218
+do TST. Agravo a que se nega provimento. (AIRR-0000791-07.2023.5.08.0101, 4ª Turma, Relatora Ministra Maria Cristina Irigoyen Peduzzi, DEJT 30/10/2025 - destaquei)
+IGM/ala AGRAVO EM AGRAVO DE INSTRUMENTO DA RECLAMADA – CABIMENTO DE RECURSO
+DE REVISTA INTERPOSTO CONTRA ACÓRDÃO REGIONAL PROLATADO EM AGRAVO DE INSTRUMENTO
+– SÚMULA 218 DO TST – TEMA 31 DE IRR DO TST – TRANSCENDÊNCIA JURÍDICA RECONHECIDA – MANUTENÇÃO DA DECISÃO AGRAVADA – AUSÊNCIA DE DEMONSTRAÇÃO DE DESACERTO DO
+DESPACHO AGRAVADO – DESPROVIMENTO. 1. Na decisão ora agravada, denegou-se seguimento ao
+agravo de instrumento em recurso de revista da Executada, com fulcro no obstáculo da Súmula 218
+do TST, que contamina a transcendência da causa, cujo valor da execução, de R$ 132.234,70, não
+alcança o patamar mínimo de transcendência econômica reconhecido por esta Turma. 2.
+Considerando que a matéria controvertida foi recentemente afetada para julgamento pelo Pleno do
+TST no Tema 31: “É cabível recurso de revista interposto de acórdão regional prolatado em agravo de
+instrumento?” (RR-0000447-47.2023.5.06.0015, Tribunal Pleno, Rel. Min. Aloysio Correa da Veiga, DEJT
+de 02/09/25 ), sem determinação de suspensão de processos, deve ser reconhecida a transcendência
+jurídica da causa, nos termos do art. 896-A, § 1º, IV, da CLT. 3. Contudo, não tendo a Agravante
+demovido o óbice erigido pela decisão agravada nem suas razões de decidir, esta merece ser mantida, ainda que reconhecida a transcendência jurídica da causa. Agravo desprovido. (AIRR￾0010225-97.2015.5.15.0103, 4ª Turma, Relator Ministro Ives Gandra da Silva Martins Filho, DEJT
+30/10/2025)
+AGRAVOS EM AGRAVOS DE INSTRUMENTO EM RECURSOS DE REVISTA. EXECUÇÃO. ACÓRDÃO
+REGIONAL PUBLICADO NA VIGÊNCIA DA LEI Nº 13.467/2017. ACÓRDÃO REGIONAL PROFERIDO EM
+AGRAVO DE INSTRUMENTO. ÓBICE DA SÚMULA Nº 218 DO TST. CONHECIMENTO E NÃO
+PROVIMENTO. I. Segundo a Súmula nº 218 do TST, não cabe recurso de revista contra acórdão
+regional proferido em sede de agravo de instrumento. II. Fundamentos da decisão agravada não
+desconstituídos. III. Todavia, em que pese o recurso de revista estar fadado ao insucesso, deve ser
+reconhecida a transcendência jurídica da causa, uma vez que a matéria é objeto do Tema 31 da
+Tabela de IRR, pendente de julgamento nesta Corte Superior. IV. Agravos de que se conhecem e a
+que se negam provimento, ainda que reconhecida a transcendência jurídica da causa. (Ag-AIRR￾100951-79.2018.5.01.0531, 4ª Turma, Relator Ministro Alexandre Luiz Ramos, DEJT 17/10/2025 -
+destaquei)
+Ao denegar seguimento a Recurso de Revista interposto em face de acórdão do
+Colegiado de origem em Agravo de Instrumento, a decisão agravada decidiu em conformidade com a
+jurisprudência sumulada desta Eg. Corte Superior.
+Desse modo, desnecessário o exame da matéria de fundo, porquanto o Recurso
+de Revista não comporta processamento.
+Incólumes os dispositivos e a jurisprudência invocada.
+Ao negar seguimento a recurso inadmissível, a decisão agravada foi proferida em
+observância aos artigos 932, III, IV e VIII, do CPC e 5º, LXXVIII, da Constituição da República.
+Nego provimento ao Agravo, em que pese reconhecida a transcendência
+jurídica da questão.
+ISTO POSTO
+ACORDAM os Ministros da Quarta Turma do Tribunal Superior do Trabalho, por
+unanimidade, negar provimento ao Agravo, reconhecendo, contudo, a transcendência jurídica da causa.
+Brasília, 12 de junho de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+MARIA CRISTINA IRIGOYEN PEDUZZI
+Ministra Relatora
+Firmado por assinatura digital em 15/06/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067743D5CE12B944.
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067743D5CE12B944.
