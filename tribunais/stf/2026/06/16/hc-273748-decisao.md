@@ -1,0 +1,18 @@
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de Dyego Armando Moura da Silva contra o “[...] Juízo competente para execução da pena decorrente dos autos nº 0709352-34.2021.8.07.0001, em razão da iminente expedição de guia de execução e consequente imposição de regime incompatível com as peculiaridades do caso concreto” (doc. 1, p. 1 – grifei).
+
+Entretanto, nos termos do art. 102, I, i, da Constituição Federal, compete ao Supremo Tribunal Federal processar e julgar, originariamente, “o habeas corpus, quando o coator for Tribunal Superior ou quando o coator ou o paciente for autoridade ou funcionário cujos atos estejam sujeitos diretamente à jurisdição do Supremo Tribunal Federal, ou se trate de crime sujeito à mesma jurisdição em uma única instância” (grifei), situações inocorrentes neste caso.
+
+Nessa mesma direção:
+
+Ementa AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA AUTORIDADE NÃO PREVISTA NO ART. 102, I, i, DA CONSTITUIÇÃO FEDERAL. PEDIDO INCOGNOSCÍVEL. ALEGAÇÃO DE DEMORA PARA JULGAMENTO DE HABEAS CORPUS IMPETRADO NO SUPERIOR TRIBUNAL DE JUSTIÇA. INOVAÇÃO RECURSAL. INVIABILIDADE. I. Questão em discussão 1. Impetração na qual se alegou (a) nulidades; (b) ausência de provas aptas a justificar a decisão do Tribunal do Júri; e (c) ilegalidades na dosimetria da pena. E, neste Agravo Interno, a defesa suscita suposta demora para julgamento de Habeas Corpus impetrado no STJ. II. Razões de decidir 2. A autoridade apontada como coatora não está prevista no art. 102, I, i, da Constituição Federal, segundo o qual compete a esta SUPREMA CORTE processar e julgar, originariamente, a ação de Habeas Corpus quando o coator for Tribunal Superior ou quando o coator ou o paciente for autoridade ou funcionário cujos atos estejam sujeitos diretamente à sua jurisdição. 3. O pedido relacionado à suposta demora para julgamento de Habeas Corpus impetrado no STJ não foi apresentado na petição inicial. Veiculado apenas no Agravo Interno, constitui indevida inovação recursal. III. Dispositivo 4. Agravo a que se nega provimento. (HC 244.598 AgR/RJ, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 11/9/2024 – grifei).
+
+Ementa AGRAVO REGIMENTAL NO HABEAS CORPUS. FALSIFICAÇÃO DE DOCUMENTO PÚBLICO. INCOMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. ART. 102, I, “i”, DA CONSTITUIÇÃO DA REPÚBLICA. INSTRUÇÃO DEFICIENTE DO WRIT. 1. O Supremo Tribunal Federal possui competência originária para julgar habeas corpus nos casos em que o coator for Tribunal Superior ou quando o coator ou o paciente for autoridade ou funcionário cujos atos estejam sujeitos diretamente a sua jurisdição, ou se trate de crime sujeito à mesma jurisdição em uma única instância (CF, art. 102, I, i), o que não se verifica no caso em tela, em que o ato coator emanou de Tribunal Regional Federal. Precedentes. 2. A jurisprudência do Supremo Tribunal Federal é firme no sentido de inadmitir o conhecimento de habeas corpus, não instruídos os autos com peça necessária à confirmação da efetiva ocorrência do constrangimento ilegal. 3. Agravo regimental conhecido e não provido. (HC 168.676 AgR/BA, Rel. Min. Rosa Weber, Primeira Turma, DJe 11/12/2019 – grifei).
+
+Ante o exposto, nego seguimento a este habeas corpus (art. 21, § 1°, do Regimento Interno do Supremo Tribunal Federal). E, devido à absoluta inviabilidade deste writ, considerados os fundamentos desta decisão, embasados na jurisprudência desta Suprema Corte, determino a imediata certificação do trânsito em julgado e o arquivamento dos autos, independentemente da publicação desta decisão.
+
+Publique-se.
+
+Brasília, 16 de junho de 2026.
+
+Ministro Cristiano Zanin
+Relator
