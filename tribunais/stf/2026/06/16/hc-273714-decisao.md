@@ -1,0 +1,32 @@
+DECISÃO
+
+Trata-se de Habeas Corpus impetrado contra acórdão da Quinta Turma do Superior Tribunal de Justiça, proferido no julgamento do Agravo Regimental no HC 1.075.048/SP, submetido à relatoria do Ministro RIBEIRO DANTAS.
+Consta dos autos, em síntese, que o paciente foi condenado à pena de 5 anos e 10 meses de reclusão, em regime fechado, pela prática do crime de tráfico de drogas (art. 33 da Lei 11.343/2006).
+Após o trânsito em julgado da condenação, a defesa ajuizou Revisão Criminal no Tribunal de Justiça do Estado de São Paulo, que a julgou improcedente.
+Impetrou-se, então, Habeas Corpus no Superior Tribunal de Justiça, não conhecido pelo Ministro relator, em decisão confirmada pelo colegiado no julgamento do subsequente Agravo Regimental, conforme ementa:
+
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA PESSOAL E DOMICILIAR. VALIDADE. TRÁFICO PRIVILEGIADO. CONDENAÇÃO ANTERIOR POR DESACATO. CONDENAÇÃO TRANSITADA EM JULGADO. AGRAVO IMROVIDO.
+[...]
+
+Nesta ação, o impetrante requer a concessão da ordem “para que  reconheça a incidência da causa de diminuição do art. 33, § 4º, da Lei 11.343/2006; subsidiariamente, caso não seja reconhecido o privilégio, proceda à readequação do regime inicial de cumprimento de pena para o regime semiaberto, em respeito aos princípios da proporcionalidade e individualização da pena”.
+É o relatório. Decido.
+
+A incidência da causa especial de redução de pena prevista no § 4º do art. 33 da Lei 11.343/2006 é condicionada ao preenchimento cumulativo de quatro requisitos pelo agente: (a) primariedade; (b) bons antecedentes; (c) não se dedicar a atividades criminosas; e (d) não integrar organização criminosa (HC 143.577-AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 27/10/2017; HC 123.430, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 18/11/2014; HC 101.265, Rel. Min. AYRES BRITTO, Redator para o acórdão: Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 6/8/2012).
+Infere-se do exame realizado pelas instâncias ordinárias — soberanas na apreciação do conteúdo fático-probatório — que os elementos produzidos sob o crivo do contraditório evidenciam a propensão do acusado à prática de atividades criminosas. Conforme destacado pelo STJ,
+
+[...] o réu permitiu que os guardas vistoriassem sua barbearia e, nesse local, foram localizadas 4 porções de crack e 11 de maconha, tendo o réu admitido que ainda guardava mais entorpecente em sua residência, em imóvel contíguo, o que motivou os agentes públicos a entrarem no imóvel e apreenderem mais 64 porções de crack.
+Em relação à dosimetria, o Tribunal local consignou que "a lei não faz distinção, sendo certo que a exigência diz respeito apenas à primariedade e aos bons antecedentes, o que não é o caso do ora peticionário, que ostenta condenação criminal pelo crime de desacato" (eSTJ, fl. 23), não fazendo jus à incidência da redutora do tráfico privilegiado e, por conseguinte, da fixação do regime semiaberto.
+
+Essa conclusão tem amparo na jurisprudência do SUPREMO TRIBUNAL FEDERAL, que chancela o afastamento da causa de diminuição quando presentes fatos indicadores da dedicação do agente a atividades criminosas, como, por exemplo, a) a conduta social do agente, b) o concurso eventual de pessoas, c) a quantidade de droga, e d) as situações residuais de maus antecedentes (HC 109.168, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe de 14/2/012). No mesmo sentido: HC 161482 AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 19/10/2018; HC 129.585, Rel. Min. EDSON FACHIN, DJe de 10/2/2016; HC 115.134, Rel. Min. ROSA WEBER, DJe de 16/10/2012; HC 135.718, Rel. Min. GILMAR MENDES, DJe de 17/10/2016.
+Por outro lado, para afastar a conclusão implementada pelas instâncias antecedentes, seria necessário proceder à análise de fatos e provas, providência incompatível com a via do Habeas Corpus. A propósito: HC 153.641-AgR/SP, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe de 23/4/2018; HC 143.577-AgR/SP, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 27/10/2017; HC 131.761/SC, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 29/2/2016; HC 121.453/RJ, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 11/9/2014; HC 119.053/SP, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 23/4/2014; HC 133.982/MS, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 13/2/2017.
+Por fim, a fixação do regime inicial de cumprimento da pena não está atrelada, de modo absoluto, ao quantum da sanção aplicada, devendo-se considerar as especiais circunstâncias do caso concreto. Assim, desde que o faça em decisão motivada, o magistrado sentenciante está autorizado a impor ao condenado regime mais gravoso do que o recomendado nas alíneas do §2º do art. 33 do Código Penal. Esse entendimento se amolda à jurisprudência cristalizada na Súmula 719 (A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea) e replicada em diversos julgados: HC 143.577-AgR/SP, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 27/10/2017; RHC 134.494-AgR/SP, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 9/5/2017; RHC 128.827/MT, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 13/3/2017; RHC 122.620/DF, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 13/8/2014; HC 118.733/SP, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 17/12/2013.
+As particularidades do caso — acima declinadas — constituem fundamentação idônea para a imposição do regime fechado, que se mostra adequado e necessário para a repressão e prevenção do tráfico ilícito de drogas, nos termos do art. 1º da Lei 11.343/2006.
+Além disso, não cabe a esta SUPREMA CORTE, em Habeas Corpus, proceder à revisão dos critérios de índole subjetiva invocados pelas instâncias antecedentes para a determinação do regime prisional inicial. Precedentes: HC 145.000-AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 17/4/2018; HC 125.589-AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 26/6/2015; HC 122.235, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 10/6/2014; RHC 122.620, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/6/2014; RHC 137.395-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 13/6/2017.
+Em conclusão, não há constrangimento ilegal a ser sanado.
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do STF, INDEFIRO a ordem de HABEAS CORPUS.
+Publique-se.
+Brasília, 16 de junho de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
