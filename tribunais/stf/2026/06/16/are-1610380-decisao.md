@@ -1,0 +1,40 @@
+Decisão
+
+Trata-se de Agravo em Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (Doc. 187, fl. 3):
+
+Tráfico privilegiado- Recurso da Defesa fundado em pleitos que foram atendidos integralmente na sentença condenatória- Apelante confessa quanto a ocultação de entorpecentes em seu corpo destinados a alcançar interior de unidade prisional quando da realização de uma visita- Pena-base fixada no patamar mínimo- Atenuantes da menoridade relativa e confissão acolhidas- Limitação da Súmula 231 do STJ- Acréscimo de 1/6 em virtude de se tratar de unidade prisional o local de destinação da droga- Redutor do §4º, do artigo 33 da Lei de Drogas aplicado em seu grau máximo-Regime prisional aberto e deferida a substituição da pena privativa de liberdade por duas restritivas de direitos-Justiça gratuita reafirmada na sentença de primeiro grau-Sucumbência inexistente- Recurso da Defesa conhecido e não provido
+
+Consta dos autos, em síntese, que a recorrente, THAISA ANGELICA DE JESUS ALVES, foi condenada à pena de 1 ano, 11 meses e 10 dias de reclusão, em regime inicial aberto, e 194 dias-multa, substituída a pena privativa de liberdade por duas restritivas de direitos, na forma acima mencionada, pela prática dos crimes previstos no art. 33, caput, c/c art.40, III,  da Lei 11.343/06, ambos do Código Penal.
+A defesa interpôs apelação (Doc. 166).
+O Tribunal de Justiça de São Paulo negou provimento ao recurso de apelação e manteve a “sentença condenatória nos exatos termos em que foi lançada”(Doc. 187)
+Inconformada, a defesa interpôs Recurso Extraordinário, no qual alega que o acórdão violou o art. 5º, LVII e XLVI, da Constituição Federal (Doc. 195).
+Nas razões recursais, aduz que “ante a ausência de requisitos subjetivos capazes de elevá-las, devem ser as penas aplicadas em seus patamares mínimos, haja vista a primariedade e inexistência de circunstâncias judiciais desfavoráveis, a teor do artigo 59 do Código Penal, bem como da Súmula 444 do C. Superior Tribunal de Justiça” (Doc. 195, fl. 9).
+Alega que a “[a] utilização concomitante da quantidade e natureza de droga apreendida para elevar a pena-base (1ª fase da dosimetria) e para modular a fração da minorante prevista no § 4º do art. 33 da Lei de Drogas (3ª fase da dosimetria) configura bis in idem." HC 489.083/MS ”(Doc. 195, fl.12).
+Segundo diz, “[e]m todas as hipóteses relacionadas no inciso III do artigo 65 do Código Penal, a redução é obrigatória, observando-se, obviamente, o mínimo e o máximo da pena prevista. Nesse sentido, é o posicionamento do Supremo Tribunal Federal, segundo o qual: "Entre a circunstância subjetiva favorável ao acusado e a objetiva contrária, deve prevalecer aquela” (Doc. 195, fl. 13).
+Requer, assim, o provimento do Recurso Extraordinário, para que seja (Doc. 195, fl. 15) o “r. acórdão reformado, afastando, assim, a contrariedade”.
+O Tribunal de origem inadmitiu o recurso, ante a incidência da Súmula 284/STF (Doc. 204).
+No Agravo interposto, o recorrente reitera os argumentos do Recurso Extraordinário (Doc. 213).
+Ressalto que houve interposição de Recurso Especial (Doc. 193), o qual foi inadmitido na origem (Doc. 206). Houve a interposição de Agravo (Doc. 221), o qual não foi conhecido pelo Ministro relator no STJ (Doc. 230). Interposto Agravo Regimental, foi este desprovido (Doc. 278), o recorrente opôs ainda Embargos de Declaração (Doc.285), que por sua vez foram rejeitados (Doc.313).
+É o relatório. Decido.
+
+Inicialmente, verifica-se que o recorrente não impugnou integralmente os fundamentos da decisão que inadmitiu o recurso, aptos, por si sós, para sua manutenção. Assim, na hipótese, incide o óbice da Súmula 283 desta CORTE (É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles).
+Além disso, os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+A obrigação do recorrente de apresentar, formal e motivadamente, a  repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+Estes foram os fundamentos do revisionando para sustentar a presença do referido requisito (Doc. 195, fls. 7-8):
+
+VI. DA EXISTÊNCIA DE REPERCUSSÃO GERAL
+ O Recorrente, em obediência aos ditames do art. 102, § 3º, da Constituição Federal, bem como do art. 543-A, § 2º, do Código de Processo Civil c/c art. 327 do Regimento Interno do Supremo Tribunal Federal, em preliminar ao mérito, ora demonstra, fundamentadamente, a existência de repercussão geral no caso em apreço.
+ Da análise do acórdão guerreado, extrai-se, sem qualquer dificuldade, que a decisão feriu de morte o princípio constitucional da individualização da pena. (CF, art. 5º, inciso XLVI).
+ Com efeito, levando-se em conta que a decisão em liça contrariou Súmulas do Supremo Tribunal Federal, há repercussão geral e, por esse ângulo, o presente Recurso Extraordinário, que trata da mesma matéria em foco, deve ter regular processamento. (CPC, art. 543-A, § 3º c/c art. 3º, do CPP)
+ Nesse sentido, apropriado evidenciar o magistério de Ada Pellegrini Grinover:
+“De acordo com o que vem previsto no art. 543-A, § 1º, do CPC, ‘para efeito da repercussão geral, será considerada a existência, ou não, de questões relevantes do ponto de vista econômico, político, social ou jurídico, que ultrapassem os interesses subjetivos da causa’. E o § 3º, do mesmo artigo, esclarece que ‘haverá repercussão geral sempre que o recurso impugnar decisão contrária a súmula ou jurisprudência do Tribunal. “(GRINOVER, Ada Pellegrini. Recursos no Processo Penal: teoria geral dos recursos, recursos em espécie, ações de impugnação, reclamação aos Tribunais. 7ª Ed. São Paulo: RT, 2011. Pág. 207)
+
+Em que pese o esforço argumentativo, entendo não ter havido a demonstração fundamentada da presença de repercussão geral, sendo incabível, portanto, o seguimento do Recursos Extraordinário.
+Ainda que superado esses graves óbices, o Recurso Extraordinário não aponta, de forma clara e fundamentada, o dispositivo constitucional supostamente violado, incidindo ao caso a Súmula 284/STF (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia).
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, NEGO SEGUIMENTO AO AGRAVO.
+Publique-se.
+Brasília, 16 de junho de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
