@@ -1,0 +1,78 @@
+DECISÃO
+
+Trata-se de Recurso Extraordinário interposto em face de acórdão do Tribunal Regional Federal da 1ª Região, assim ementado (Doc. 19, fl. 10):
+
+“PREVIDENCIÁRIO. CONSTITUCIONAL. REVISÃO DE BENEFÍCIO. CRITÉRIOS DE REAJUSTAMENTO: LEGISLAÇÃO ORDINÁRIA. LEIS 8.212/91 e 8.213/91. 11
+1. A Constituição Federal de 1988, em seu art. 201, § 4º assegurou o reajustamento dos benefícios previdenciários para preservar-lhes, em caráter permanente, o valor real, conforme critérios definidos em lei.
+2. O Supremo Tribunal Federal, no julgamento do RE 219880-RN, ao interpretar o mencionado dispositivo constitucional, consignou que a definição dos critérios de aplicação dos índices de reajustamento dos benefícios previdenciários, condiciona-se a regras previstas na legislação ordinária.
+3. Após a promulgação da Constituição Federal de 1988, por força do disposto no art. 58, do ADCT, os benefícios de prestação continuada, mantidos pela previdência social na data da promulgação da Constituição, terão seus valores revistos, a fim de que seja restabelecido o poder aquisitivo, expresso em número de salários mínimos, que tinham na data de sua concessão, obedecendo-se a esse critério de atualização até a implantação do plano de custeio e benefícios referidos no artigo seguinte. No entanto, a eficácia do art. 58 do ADCT-CF/88, restringe-se aos benefícios em manutenção até a data de sua promulgação e restou exaurida com a regulamentação das Leis n°s 8.212 e 8.213, de 24 de julho de 1991.
+4. Os critérios de reajuste dos benefícios estabelecidos pelo legislador infraconstitucional através da Lei n°. 8.213/91 e na legislação previdenciária subsequente, tiveram sua constitucionalidade reconhecida pelo Supremo Tribunal Federal. A Corte Suprema, inclusive já se posicionou no sentido de que os índices legalmente estabelecidos para essa finalidade vêm cumprindo adequadamente as disposições constitucionais que asseguram a irredutibilidade e a preservação do valor real dos benefícios, restando, assim, afastada à possibilidade de aplicação de outros parâmetros de reajustamento da renda mensal do benefício.
+5. Nessa linha de desdobramento, necessário registrar que a partir da vigência da Lei 8.213/91, a sistemática de correção dos benefícios de prestação continuada deve obedecer aos critérios nela previstos, razão pela qual, não há falar em direito adquirido a qualquer critério de reajuste que não o estabelecido no referido diploma legal e legislação superveniente.
+6. Apelação desprovida.”
+
+No Recurso Extraordinário (Doc. 23), interposto com fundamento no art. 102, III, “a”, da Constituição, GILSE MOREIRA COUTO aponta violação aos arts. 5º, I, II, XXXV e XXXVI; 194, parágrafo único, IV; e 201, §§ 1º, 3º e 4º, da CF/1988, bem como à tese fixada no Tema 76-RG, na medida em que o acórdão recorrido deixou de aplicar os novos tetos instituídos pelas Emendas Constitucionais nº 20/1998 e nº 41/2003 a benefícios concedidos anteriormente.
+Defende que não se trata de recálculo ou retroatividade indevida, mas de mera readequação do valor do benefício aos novos tetos constitucionais, considerando os salários de contribuição utilizados na concessão, uma vez que contribuiu pelo teto máximo e pela alíquota máxima durante sua vida laboral, o que lhe garantiria o direito à revisão.
+Sustenta que o acórdão recorrido desconsiderou as provas constantes dos autos, como a memória de cálculo e dados do Cadastro Nacional de Informações Sociais (CNIS), violando, assim, os princípios constitucionais do direito adquirido, legalidade, isonomia e irredutibilidade do valor dos benefícios previdenciários, eis que a não aplicação das referidas emendas ocasionou defasagem no valor do benefício.
+Argumenta que o INSS vem se recusando administrativamente a proceder à revisão, em contrariedade à jurisprudência desta CORTE.
+Por fim, requer o provimento do recurso para reformar o acórdão recorrido, a fim de que seja reconhecido o direito à revisão e readequação do benefício previdenciário.
+Remetidos os autos ao órgão julgador para eventual juízo de retratação ao Tema 76-RG (Doc. 28), foi mantido o acórdão recorrido nos termos da seguinte ementa (Doc. 31, fl. 7):
+
+“ADMINISTRATIVO. PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. ALTERAÇÃO DO TETO DE CONTRIBUIÇÃO. APLICAÇÃO RETROATIVA AOS BENEFÍCIOS CONCEDIDOS ANTES DAS EMENDAS CONSTITUCIONAIS 20/98 E 41/03. PRESCRIÇÃO. INTERRUPÇÃO PELO AJUIZAMENTO DE AÇÃO CIVIL PÚBLICA. INAPLICABILIDADE. JURISPRUDÊNCIA DO STJ SOB A SISTEMÁTICA DOS RECURSOS REPETITIVOS. TEMA 1005 STJ. ACÓRDÃO EM CONSONÂNCIA COM O ENTENDIMENTO DO STJ. JUÍZO DE RETRATAÇÃO NÃO EXERCIDO.
+1. O Superior Tribunal de Justiça – STJ, em julgamento sob a sistemática dos recursos repetitivos, decidiu que “na ação de conhecimento individual, proposta com o objetivo de adequar a renda mensal do benefício previdenciário aos tetos fixados pelas Emendas Constitucionais 20/98 e 41/2003 e cujo pedido coincide com aquele anteriormente formulado em ação civil pública, a interrupção da prescrição quinquenal, para recebimento das parcelas vencidas, ocorre na data de ajuizamento da lide individual, salvo se requerida a sua suspensão, na forma do art. 104 da Lei 8.078/90” (Tema n. 1.005 - REsp 1.761.874/SC, Relatora Ministra Assusete Magalhães, Primeira Seção, DJe 01/07/2021).
+2. No caso, não há de se exercer o juízo de retratação, considerando que o acórdão está em sintonia com o entendimento do STJ de que estão prescritas as prestações anteriores ao quinquênio que antecedeu o ajuizamento da presente ação individual.
+3. Juízo de retratação não exercido, ratificando-se o acórdão desta Turma.”
+
+Em exame de admissibilidade, o RE foi admitido (Doc. 35).
+É o relatório. Decido.
+
+Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+A obrigação do recorrente de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+Além disso, quanto à alegação de afronta ao art. 5º, XXXV e XXXVI, da CF/1988, o apelo extraordinário não tem chances de êxito, pois esta CORTE, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional.
+Mesmo que fosse possível superar esses graves óbices, o Juízo de origem decidiu, com base nas peculiaridades do caso concreto, que o benefício não foi limitado ao teto quando concedido, razão pela qual a recorrente não faz jus à aplicação dos novos tetos instituídos pelas Emendas Constitucionais nºs 20/1998 e 41/2003.
+Confiram-se os seguintes trechos da sentença do juízo de origem, mantida pelo acórdão recorrido (Doc. 11, fls. 5-9):
+
+“TETO PREVIDENCIÁRIO
+A parte autora requer: a) revisão do valor mensal de benefício previdenciário para adequação aos novos tetos previdenciários estabelecidos pela EC 20/98 e EC 41/2003; b) revisão do beneficio de modo que o valor da renda mensal seja equivalente ao percentual de 76% do teto previdenciário atual;
+A tese do autor não merece prosperar. A fim de se chegar ao cálculo do benefício previdenciário da aposentadoria, alguns cálculos devem ser realizados em ordem sucessiva. Em suma, a partir das contribuições dos segurados revertidas para a previdência ao longo do tempo em que na ativa estavam, deve-se se definir o salário de benefício. Posteriormente, aplica-se o limitador do teto previdenciário, (limite máximo o maior valor do salário de contribuição), para se chegar ao montante da RMB — Renda Mensal do Benefício de cada qual.
+Inclusive, o Supremo Tribunal Federal já pacificou a questão, decidindo pela aplicação imediata do art. 14 da EC 20/98 e do art. 50 da EC 41/03 a benefícios anteriormente concedidos, limitados ao teto vigente à época da concessão. Concluiu que as emendas fixaram nova realidade, sem modificar o regime jurídico dos segurados.
+(...)
+Desse modo, verifico que os tetos previdenciários disciplinados nas Emendas Constitucionais n°s 20/98 e 41/03, ou seja, de R$ 1.200,00 e R$ 2.400,00, respectivamente, podem ser utilizados retroativamente. Portanto, não há direito adquirido da não aplicação dos tetos.
+No caso concreto, a afirmado pela parte autora na inicial, teve concedido o benefício previdenciário em 27/05/1993, cuja renda mensal inicial foi de Cr$ 14.864.850,00, valor correspondente a 76% do valor do teto previdenciário em vigor na época da concessão de sua aposentadoria. Logo, a RMI foi fixada abaixo de teto previdenciário.
+Não pode a parte autora, que auferiu benefício previdenciário abaixo do limite estabelecido pela legislação de regência à época da concessão, reclamar sua adequação aos novos tetos de benefícios surgidos com a legislação superveniente.
+Ressalto, ainda, que há diferença entre o teto previdenciário, de periodicidade anual e incidente sobre o valor da renda mensal do benefício, e os índices de correção dos valores dos benefícios previdenciários, que são mensais e incidem sobre os salários de contribuição.
+Assim, é descabido pretender que a renda mensal do benefício seja reajustada pelo percentual de aumento do teto previdenciário, pois este constitui apenas em limitador ou redutor eminentemente político, usado para pagamento do benefício previdenciário, não tendo natureza de índice de reajustamento.”
+
+Assim, a pretensão da parte recorrente não se funda na suposta inobservância da jurisprudência desta CORTE, mas na tese de que o valor de seu benefício deveria ser maior, aduzindo que o acórdão recorrido contrariou a prova dos autos, notadamente Carta de Concessão/Memória de Cálculo e o Cadastro Nacional de Informações Sociais - Remunerações do Trabalhador (CNIS) “que acompanha o presente recurso e respectiva Tabela declinada nos autos” (Doc. 23, fl. 8).
+Verifica-se, desse modo, que para divergir das premissas fáticas estabelecidas pelas instâncias de origem seria necessário analisar a questão à luz das provas dos autos, providência que encontra óbice na Súmula 279/STF (Para simples reexame de prova não cabe recurso extraordinário).
+Nesse contexto, as razões do extraordinário não encontram amparo na jurisprudência desta CORTE, conforme se verifica dos seguintes precedentes em casos semelhantes:
+
+“EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. DIREITO AO MELHOR BENEFÍCIO. CÁLCULO DA RENDA MENSAL INICIAL. TEMAS 76 E 334 DA REPERCUSSÃO GERAL. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. OFENSA REFLEXA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I - Caso em exame
+1. Agravo interno interposto em face de decisão monocrática, na qual foi negado provimento ao recurso extraordinário com fundamento na Súmula 279 do STF e por ausência de ofensa direta à Constituição Federal.
+II - A questão em discussão
+2. A questão em discussão consiste em saber se, no caso concreto, é viável ou não o recurso extraordinário, diante dos óbices apontados, tendo em vista a teses fixadas nos Temas 76 e 334 da repercussão geral.
+III - Razões de decidir
+3. O Tribunal de origem assentou que “a RMI mais vantajosa, seja em maio de 1990, seja em abril de 1991, dependeria do decote decorrente do reajustamento dos tetos, conforme legislação subsequente às DIB fictas”.
+4. É inviável o processamento do apelo extremo quando a divergência em relação ao entendimento adotado pelo juízo a quo, no que concerne aos Temas 76 e 334 da repercussão geral, demanda o reexame do conjunto fático-probatório dos autos, nos termos da Súmula 279 do STF, e a análise de legislação infraconstitucional.
+IV - Dispositivo
+5. Agravo regimental a que se nega provimento.” (RE 1544540 AgR / RS, Relator(a): Min. EDSON FACHIN, Segunda Turma, DJe de 17/6/2025)
+
+“Ementa: Direito Previdenciário. Agravo regimental no recurso extraordinário. Ação revisional. benefício previdenciário. Pensão por morte. Reajuste do teto previdenciário. RE 564.354-RG. Tema 76 da repercussão geral. Emendas Constitucionais 20/1998 E 41/2003. Reexame de matéria infraconstitucional e de fatos e provas. Ofensa reflexa. Súmula 279 do STF. Agravo não provido.
+I. Caso em exame 1. Agravo interno em face de decisão monocrática, que negou seguimento ao recurso extraordinário com agravo, fundamentada na Súmula 279 do STF e porque ausente, na hipótese, ofensa direta à Constituição Federal.
+II. Questão em discussão 2. Verificar a viabilidade, ou não, do recurso extraordinário, no caso em tela, em face dos óbices apontados na decisão recorrida.
+III. Razões de decidir 3. Eventual divergência, em relação ao entendimento adotado pelo juízo a quo, demandaria o reexame de fatos e provas (Súmula 279 do STF) e de legislação infraconstitucional, o que impede o trânsito do recurso extraordinário. Precedentes.
+IV. Dispositivo 4. Agravo regimental não provido.” (RE 1594214 AgR / SC, Relator(a): Min. EDSON FACHIN (Presidente), Tribunal Pleno, DJe de 7/5/2026)
+
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO PROVIMENTO AO RECURSO EXTRAORDINÁRIO.
+Fixam-se honorários advocatícios adicionais equivalentes a 10% (dez por cento) do valor a esse título arbitrado nas instâncias ordinárias (Código de Processo Civil de 2015, art. 85, § 11).
+Ficam AMBAS AS PARTES advertidas de que:
+- a interposição de recursos manifestamente inadmissíveis ou improcedentes, ou meramente protelatórios, acarretará a imposição das sanções cabíveis;
+- decorridos 15 (quinze) dias úteis da intimação de cada parte sem a apresentação de recursos, será certificado o trânsito em julgado e dada baixa dos autos ao Juízo de origem.
+Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+Publique-se.
+Brasília, 17 de junho de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
