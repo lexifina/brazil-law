@@ -1,0 +1,7 @@
+Art. 20-D Ao servidor público de quaisquer dos poderes no âmbito do estado de Rondônia, órgãos autônomos, Tribunal de Contas, Ministério Público e Defensoria Pública, é assegurada a licença para atividade política, a partir da data de desincompatibilização exigida pela legislação eleitoral até 15 (quinze) dias úteis após a realização da eleição, aplicando-se ao segundo turno onde houver. (Acrescentado pela EC nº 167, de 19/07/2024, com efeitos retroativos a 01/01/2024 – DO-e-ALE. nº 131, de 19/07/2024)
+
+§ 1º Durante todo o período de licença, o servidor fará jus à percepção integral de sua remuneração, como se em efetivo exercício estivesse. (Acrescentado pela EC nº 167, de 19/07/2024, com efeitos retroativos a 01/01/2024 – DO-e-ALE. nº 131, de 19/07/2024)
+
+§ 2º Caso seja eleito, o servidor terá a opção de escolher sua lotação até a posse no cargo eletivo. (Acrescentado pela EC nº 167, de 19/07/2024, com efeitos retroativos a 01/01/2024 – DO-e-ALE. nº 131, de 19/07/2024)
+
+§ 3º Caso o servidor não seja aprovado em convenção partidária ou tenha seu registro indeferido pela Justiça Eleitoral, com trânsito em julgado, deverá retornar às suas atividades de imediato, sob pena de apuração de abandono de emprego, sendo-lhe imputada a obrigatoriedade de realizar a compensação de carga horária ou devolver ao erário os valores correspondentes aos dias não trabalhados. (Acrescentado pela EC nº 167, de 19/07/2024, com efeitos retroativos a 01/01/2024 – DO-e-ALE. nº 131, de 19/07/2024)
