@@ -1,0 +1,109 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/06/2026 a 17/06/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nilsoni de Freitas (Desembargadora Convocada do TJDFT), Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. MEDIDAS CAUTELARES DIVERSAS INSUFICIENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que denegou a ordem de habeas corpus em que se postulava a revogação da prisão preventiva, decretada em investigação por associação para o tráfico de drogas.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) saber se a prisão preventiva está fundamentada em elementos concretos aptos a justificar a medida cautelar; (ii) saber se há contemporaneidade dos riscos à ordem pública; e (iii) saber se medidas cautelares diversas seriam suficientes para acautelar o processo.
+III. RAZÕES DE DECIDIR
+3. A prisão preventiva foi mantida com fundamento na garantia da ordem pública, diante da inserção do investigado em organização criminosa estruturada, com divisão de tarefas e atuação em logística, armazenamento e arrecadação de valores, evidenciando gravidade concreta e risco de reiteração.
+4. A análise da contemporaneidade considerou a persistência de riscos decorrentes da continuidade da empreitada criminosa, não limitada à data dos fatos, justificando a necessidade de interromper a atuação do grupo.
+5. As condições pessoais favoráveis não afastam a custódia cautelar quando presentes elementos objetivos que demonstram periculosidade e insuficiência das medidas previstas nos arts. 319 e 320 do CPP para resguardar a ordem pública.
+IV. DISPOSITIVO
+6. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LUIZ CARLOS ROBERTO GOMES contra decisão de minha lavra, por meio da qual deneguei a ordem de habeas corpus (fls. 295-303).
+Extrai-se dos autos que o paciente, ora agravante, é investigado pela suposta prática do crime de associação para o tráfico (art. 35 da Lei n. 11.343/2006), em procedimento policial que ensejou a extração de dados telemáticos de aparelhos celulares que indicariam logística, contabilidade e negociação de entorpecentes, atuação em gerência de ponto de venda, recrutamento de pessoas, armazenamento em "casas bombas" e recolhimento de valores.
+Em 23/12/2025, o Juízo de origem decretou a prisão preventiva do agravante e expediu mandados de busca e apreensão, autorizando o acesso e extração de dados de dispositivos eletrônicos eventualmente apreendidos, com fundamento na garantia da ordem pública, conveniência da instrução e asseguramento da aplicação da lei penal (fls. 263-265).
+Pugnando pela revogação da custódia, a Defesa impetrou habeas corpus perante a Corte local, que denegou a ordem.
+Irresignada, sustentou no writ perante esta Corte Superior a ocorrência de constrangimento ilegal em virtude de ausência de fundamentação idônea e concreta para a prisão preventiva, inadequação da custódia como antecipação de pena, inexistência de fumus comissi delicti e de periculum libertatis, primariedade, bons antecedentes e residência fixa do agravante, extemporaneidade e falta de contemporaneidade dos elementos telemáticos, e suficiência de medidas cautelares diversas previstas nos arts. 319 e 320 do Código de Processo Penal (fls. 2-19).
+Requereu, em liminar, a expedição de alvará de soltura para imediata liberdade do paciente, e, no mérito, a concessão da ordem para revogar a prisão preventiva, garantindo ao paciente o direito de responder ao processo em liberdade.
+Nas razões do presente regimental (fls. 308-314), reitera a Defesa as teses apresentadas na inicial do habeas corpus quanto à excepcionalidade da prisão preventiva, condições pessoais favoráveis, ausência de condenações pretéritas, ofensa ao princípio da presunção de inocência, inidoneidade do decreto prisional, gravidade abstrata da conduta e falta de contemporaneidade dos elementos telemáticos.
+Requer o provimento do agravo para reconsiderar a decisão vergastada e conceder a ordem de habeas corpus; subsidiariamente, pleiteia a submissão do recurso ao julgamento colegiado.
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. MEDIDAS CAUTELARES DIVERSAS INSUFICIENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que denegou a ordem de habeas corpus em que se postulava a revogação da prisão preventiva, decretada em investigação por associação para o tráfico de drogas.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) saber se a prisão preventiva está fundamentada em elementos concretos aptos a justificar a medida cautelar; (ii) saber se há contemporaneidade dos riscos à ordem pública; e (iii) saber se medidas cautelares diversas seriam suficientes para acautelar o processo.
+III. RAZÕES DE DECIDIR
+3. A prisão preventiva foi mantida com fundamento na garantia da ordem pública, diante da inserção do investigado em organização criminosa estruturada, com divisão de tarefas e atuação em logística, armazenamento e arrecadação de valores, evidenciando gravidade concreta e risco de reiteração.
+4. A análise da contemporaneidade considerou a persistência de riscos decorrentes da continuidade da empreitada criminosa, não limitada à data dos fatos, justificando a necessidade de interromper a atuação do grupo.
+5. As condições pessoais favoráveis não afastam a custódia cautelar quando presentes elementos objetivos que demonstram periculosidade e insuficiência das medidas previstas nos arts. 319 e 320 do CPP para resguardar a ordem pública.
+IV. DISPOSITIVO
+6. Agravo regimental não provido.
+VOTO
+A insurgência não merece prosperar.
+Como cediço, a prisão preventiva, no ordenamento jurídico brasileiro, constitui medida cautelar de natureza excepcional, cuja manutenção está condicionada à permanência dos fatos que a justificaram, e somente se legitima em situações em que a liberdade do indivíduo represente um risco concreto e atual aos bens jurídicos tutelados pelo art. 312 do Código de Processo Penal.
+Sua decretação não representa antecipação de pena nem viola o princípio da presunção de não culpabilidade, desde que a decisão judicial esteja fundamentada em elementos concretos, e não na gravidade abstrata do delito, demonstrando a efetiva necessidade da medida para o caso específico.
+Para tanto, exige-se a comprovação da existência de prova da materialidade do crime e de indícios suficientes de autoria, bem como do perigo gerado pelo estado de liberdade do imputado, que se manifesta na necessidade de garantir a ordem pública, a ordem econômica, a conveniência da instrução criminal ou a aplicação da lei penal. Trata-se, portanto, da última e mais gravosa das medidas cautelares, cuja aplicação demanda a demonstração inequívoca de que as alternativas previstas no art. 319 do CPP são insuficientes para acautelar o processo e o meio social.
+Destacam-se, mais uma vez, os seguintes trechos do decreto prisional, para a adequada análise da controvérsia (fls. 263-265; grifamos):
+Trata-se de representação da autoridade policial da Delegacia Especializada de Investigações Criminais (DEIC) de Taubaté pela decretação da PRISÃO PREVENTIVA e expedição de mandados de BUSCA E APREENSÃO DOMICILIAR em face de dez investigados, pela suposta prática dos crimes de tráfico de drogas (art. 33 Lei 11.343/06) e associação para o tráfico (art. 35, Lei 11.343/06).
+O Ministério Público manifestou-se favoravelmente aos pedidos.
+É o breve relatório.
+Decido.
+A representação merece acolhimento. As investigações, consubstanciadas no Relatório de Investigação nº 207/DEIC/2025 e no Relatório Complementar nº 275/DEIC/2025, revelam a existência de uma organização criminosa estruturada, estável e permanente, com clara divisão de tarefas, voltada ao tráfico de entorpecentes em diversos bairros de Taubaté.
+I. DA PRISÃO PREVENTIVA
+A materialidade e os indícios de autoria (fumus comissi delicti) estão sobejamente demonstrados pelo conteúdo extraído de aparelhos celulares apreendidos, que contêm áudios e mensagens detalhando a logística, contabilidade e negociação de drogas.
+A segregação cautelar justifica-se para a garantia da ordem pública, dada a gravidade concreta das condutas e o risco de reiteração criminosa. Os investigados demonstram periculosidade acentuada, mantendo as atividades ilícitas mesmo após operações policiais anteriores. A organização é liderada por Wesley Aparecido Leite de Camargo ("Luli") e Jean Lucas Alves dos Santos ("Gasparzinho"), responsáveis pela coordenação geral e disciplina do grupo.
+A prisão também é necessária por conveniência da instrução criminal, havendo evidências de coação e imposição de medo a terceiros, e para assegurar a aplicação da lei penal, visto que os investigados ostentam padrão de vida incompatível com ocupações lícitas e possuem meios para evasão.
+(..)
+A decisão recorrida assim foi fundamentada (fl. 299; grifamos):
+(..)
+Na hipótese dos autos, verifica-se que a necessidade da prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, diante da especial gravidade dos fatos, além da necessidade de interromper as supostas atividades do grupo criminoso. A custódia foi lastreada em elementos que indicam a participação do paciente em contexto criminoso organizado, com divisão de tarefas e atuação em logística, armazenamento de entorpecentes e arrecadação de valores, além de sinais de continuidade delitiva.
+Ainda, demonstram os autos, conforme ressaltado pela Corte de origem (fls. 288-289), que a dinâmica revelada pelas investigações evidencia estrutura criminosa estável, com funções de gerência operacional, movimentação de insumos e produtos, utilização de "casas" para armazenamento e recolhimento de valores, bem como ostentação de patrimônio incompatível com renda lícita, circunstâncias que, correlacionadas à continuidade da empreitada, sinalizam risco real de reiteração e gravidade concreta. Nesse cenário, a manutenção da prisão mostra-se adequada para conter a capacidade lesiva do grupo e impedir a perpetuação das atividades ilícitas, especialmente quando o quadro aponta poder econômico suficiente para sustentar a operação criminosa e ampliar sua influência social, revelando periculosidade que não se neutraliza com medidas menos gravosas.
+(..)
+Dessa forma, os elementos apontados efetivamente demonstram a potencial periculosidade do agente e são aptos a justificar a segregação cautelar para garantia da ordem pública, não se mostrando suficiente a aplicação de medidas cautelares mais brandas.
+(..)
+In casu, como já consignado, a custódia cautelar está apoiada em elementos objetivos colhidos pelas instâncias ordinárias, especialmente a inserção do agravante em contexto criminoso organizado, com divisão de tarefas e atuação em logística, armazenamento de entorpecentes e arrecadação de valores, além de sinais de continuidade delitiva e ostentação incompatível com ocupação lícita. O quadro delineado evidencia risco concreto à ordem pública, apto a justificar a medida extrema, com demonstração do fumus comissi delicti e do periculum libertatis, sendo insuficiente a invocação genérica de condições pessoais para afastar fundamentação específica lastreada em dados objetivos.
+É o entendimento desta Corte Superior:
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM (105 PINOS DE COCAÍNA, 89 PEDRAS DE CRACK E R$ 12.097, 00 EM ESPÉCIE). PRISÃO PREVENTIVA. LEGALIDADE. GRAVIDADE CONCRETA DO DELITO. FUNDAMENTAÇÃO IDÔNEA. PRISÃO DOMICILIAR. AUSÊNCIA DOS REQUISITOS AUTORIZADORES. CONCLUSÃO EM SENTIDO CONTRÁRIO. REEXAME DE PROVAS. INCOMPATIBILIDADE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+1. As prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade da restrição ao direito constitucional à liberdade de locomoção.
+2. No caso concreto, a segregação cautelar do paciente encontra-se fundamentada em elementos concretos, como a apreensão de 105 pinos de cocaína, 89 pedras de crack, dois aparelhos celulares e a quantia de R$ 12.097,00 em espécie na residência do acusado, além de indícios de sua participação em organização criminosa voltada ao tráfico de drogas, evidenciando a gravidade concreta do delito e o risco de reiteração delitiva.
+3. A necessidade da prisão preventiva foi justificada com base na garantia da ordem pública, na conveniência da instrução criminal e na aplicação da lei penal, considerando-se o modus operandi dos agentes, que atuavam em grupo, e a existência de investigação estruturada para apuração de organização criminosa articulada.
+4. A jurisprudência do Superior Tribunal de Justiça e do Supremo Tribunal Federal corrobora a legalidade da prisão preventiva quando devidamente fundamentada e baseada em dados concretos, sendo insuficientes as condições pessoais favoráveis do acusado para afastar a medida extrema. Precedentes.
+5. Quanto à prisão domiciliar, a Corte estadual afastou sua aplicação, considerando que não há comprovação de que o paciente não esteja recebendo os cuidados necessários à preservação de sua saúde na unidade prisional, sendo inviável, em sede de habeas corpus, o revolvimento fático-probatório para conclusão contrária.
+6. Ordem denegada.
+(HC n. 1.029.787/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/10/2025, DJEN de 28/10/2025; grifamos.)
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. INÉPCIA DA INICIAL ACUSATÓRIA. TRANCAMENTO DE AÇÃO PENAL. IMPOSSIBILIDADE. PRISÃO PREVENTIVA FUNDAMENTADA EM FORTES INDÍCIOS DE PARTICIPAÇÃO DE ORGANIZAÇÃO CRIMINOSA VOLTADA PARA O TRÁFICO DE ENTORPECENTES. DENÚNCIA INDIVIDUALIZANDO AS FUNÇÕES DE CADA CORRÉU. ORDEM DENEGADA.
+I. Caso em exame
+1. Habeas corpus impetrado com o objetivo de revogar a prisão preventiva e trancar a persecução penal por inépcia da denúncia.
+2. A prisão preventiva foi mantida com base em indícios de envolvimento do paciente em organização criminosa e tráfico de drogas, além de antecedentes criminais.
+(..)
+III. Razões de decidir
+5. A prisão preventiva foi mantida com base em indícios concretos de envolvimento do paciente em organização criminosa, o que justifica a medida para garantia da ordem pública.
+6. A denúncia atende aos requisitos do art. 41 do Código de Processo Penal, não havendo ilegalidade que justifique o trancamento da ação penal.
+7. A aplicação de medidas cautelares diversas da prisão é inviável diante da gravidade concreta da conduta delituosa e da periculosidade do paciente.
+IV. Dispositivo
+8. Ordem de habeas corpus denegada.
+(HC n. 808.943/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 17/12/2024, DJEN de 23/12/2024; grifamos.)
+Quanto à alegação de ausência de contemporaneidade dos riscos, igualmente não assiste razão ao agravante. A decisão agravada destacou que as investigações revelaram estrutura criminosa estável com funções de gerência operacional, movimentação de insumos e utilização de "casas bombas", correlacionando tais elementos a sinais de reiteração e a padrão de vida incompatível com renda lícita. A contemporaneidade, à luz da jurisprudência, não se limita à data dos fatos, mas se projeta na persistência de riscos atuais demonstrados por evidências de continuidade da empreitada criminosa. Assim, a manutenção da custódia mostra-se adequada para interromper atividades do grupo e conter sua capacidade lesiva, não se tratando de prisão baseada em fatos pretéritos dissociados do risco presente, mas de resposta cautelar fundada na necessidade de cessar a atuação organizada.
+Ilustrativamente:
+HABEAS CORPUS ORGANIZAÇÃO CRIMINOSA. LAVAGEM DE DINHEIRO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONTEMPORANEIDADE. NÃO CONSTATADA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA, IN CASU. MEDIDAS CAUTELARES. INVIABILIDADE. ORDEM DENEGADA.
+1. Insta consignar que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+2. No caso, a prisão foi decretada em decorrência do modus operandi empregado na conduta delitiva, consistente na prática, em tese, dos crimes de organização criminosa e lavagem de dinheiro.
+Foi destacado que o paciente e sua empresa de "fachada" (Terratech Locações e Construções LTDA) teriam realizado movimentações financeiras milionárias para os demais articuladores do esquema criminoso, derivadas do lucro advindo das atividades ilícitas exercidas, como tráfico de drogas e lavagem de dinheiro, pela citada organização, bem como se verificou que a empresa do réu recebeu valores suspeitos estimados em R$ 13.270.500,00 (treze milhões, duzentos e setenta mil e quinhentos reais).
+Conforme magistério jurisprudencial do Pretório Excelso, "a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva" (STF, HC n. 95.024/SP, relatora Ministra Cármen Lúcia, Primeira Turma, DJe 20/2/2009).
+3. A regra da contemporaneidade comporta mitigação quando, ainda que mantido período de aparente conformidade com o Direito, a natureza do delito indicar a alta possibilidade de recidiva ou "ante indícios de que ainda persistem atos de desdobramento da cadeia delitiva inicial (ou repetição de atos habituais)", como no caso de pertencimento a organização criminosa (HC n. 496.533/DF, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 11/6/2019, DJe 18/6/2019).
+4. As condições subjetivas favoráveis do acusado, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória.
+5. As circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal não surtiriam o efeito almejado para a proteção da ordem pública.
+6. Ordem denegada
+(HC n. 920.842/CE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/8/2024, DJe de 26/9/2024; grifamos.)
+Por fim, no que tange à suficiência de medidas cautelares diversas da prisão, o argumento não infirma os fundamentos da decisão agravada. O decisum assentou que as alternativas do rol legal não se revelam adequadas diante da periculosidade concreta, da estrutura e do poder econômico relacionados à organização criminosa, o que recomenda a preservação do cárcere para resguardar a ordem pública. O agravante ressalta primariedade, residência fixa e emprego lícito, porém tais atributos, isoladamente, não prevalecem quando a segregação se ampara em dados objetivos que indicam reiteração e gravidade concreta, já que medidas menos gravosas não neutralizam os riscos apontados.
+Veja-se:
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO. TRÁFICO ILÍCITO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO. LAVAGEM DE CAPITAIS. ASSOCIAÇÃO CRIMINOSA. OPERAÇÃO WALTER WHITE. PRISÃO PREVENTIVA. AGRAVANTE SOBRINHO DO LÍDER DO GRUPO CRIMINOSO. SUPOSTO OCUPANTE DE POSTO DE RELEVÂNCIA NO NÚCLEO LOGÍSTICO E FINANCEIRO. NECESSIDADE DE INTERROMPER ATIVIDADES. FUNDAMENTAÇÃO IDÔNEA. CIRCUNSTÂNCIAS PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AGRAVO DESPROVIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. Para a decretação da prisão preventiva, é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria. Exige-se, mesmo que a decisão esteja pautada em lastro probatório, que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida. Julgados do STF e STJ.
+(..)
+5. A jurisprudência desta Corte é assente no sentido de que se justifica a decretação de prisão de membros de grupo criminoso como forma de interromper suas atividades.
+6. Eventuais condições subjetivas favoráveis, tais como primariedade, residência fixa e trabalho lícito, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva.
+7. Esta Corte entende, ainda, que é "inviável a substituição da prisão preventiva por medidas cautelares diversas quando a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do agravante.
+8 . Agravo desprovido.
+(AgRg no HC n. 866.438/RR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/11/2023, DJe de 1/12/2023; grifamos.)
+Desse modo, ausentes, nas razões recursais, argumentos jurídicos idôneos a desconstituir os fundamentos da decisão agravada, impõe-se sua integral manutenção, pelos próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
