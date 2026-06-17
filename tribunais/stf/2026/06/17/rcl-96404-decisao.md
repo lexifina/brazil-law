@@ -1,0 +1,62 @@
+DECISÃO
+
+RECLAMAÇÃO CONSTITUCIONAL. ALEGAÇÃO DE VIOLAÇÃO À ORDEM DE SUSPENSÃO PROFERIDA NO TEMA N. 1.389 DA REPERCUSSÃO GERAL. INOCORRÊNCIA. RECLAMAÇÃO QUE SE JULGA IMPROCEDENTE.
+
+Trata-se de reclamação, com pedido de liminar, ajuizada por JOSÉ MARIA FRANCISCO E OUTRO, em face da decisão proferida pelo Juízo da Vara Única do Trabalho de Lavras/MG, nos autos do processo n. 0010606-72.2026.5.03.0065, por suposta afronta à determinação de suspensão nacional exarada pelo Ministro Relator no Recurso Extraordinário com Agravo n. 1.532.603/PR (Tema n. 1.389 de Repercussão Geral).
+
+Os reclamantes narram que, nos autos originários, trata-se de ação trabalhista ajuizada pelo beneficiário, na qual pleiteia o reconhecimento de vínculo empregatício, sob o argumento de ter laborado como motorista em favor da reclamante.
+
+Afirmam que, em sede de contestação, postularam pelo sobrestamento do feito, à luz do Tema n. 1.389 - RG, uma vez que “foi alegado e comprovado que se trata na realidade de uma relação de parceria comercial, vez que o reclamante possui frota própria, bem como o próprio áudio anexado aos autos, enviado pelo reclamante a reclamada, demonstra que foi combinado verbalmente o contrato” (fl. 2, e-doc. 1), contudo, o pleito foi indeferido nos seguintes termos (ato reclamado, e-doc. 5, grifei):
+
+“Indefiro o pedido da parte ré de suspensão do processo com base no Tema 1389 do STF haja vista que não há contrato escrito ou de prestação de serviços de natureza autônoma e nem pejotização. Sob protestos”
+
+Diante desse cenário, sustentam que “a r. decisão reclamada traz profunda insegurança jurídica ao jurisdicionado, afinal expressamente deixa de aplicar a decisão do Supremo Tribunal Federal por criar uma interpretação no sentido de que o contrato precisa ser escrito para que a ação seja sobrestada” (fl. 6, e-doc. 1).
+
+Com base nesses fundamentos, requerem, liminarmente, a suspensão do andamento dos autos originários e, no mérito, a procedência da reclamação para cassar o ato reclamado, determinando o sobrestamento do feito, com base no Tema n. 1.389 – RG.
+
+É o relatório. Decido.
+
+Inicialmente, registro que a reclamação, tal como prevista no art. 102, I, l, da Constituição e regulada nos artigos 988 a 993 do Código de Processo Civil e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, tem cabimento para preservar a competência do Tribunal ou garantir a autoridade das suas decisões, bem como contra ato administrativo ou decisão judicial que contrarie súmula vinculante (CF/1988, art. 103-A, § 3º).
+
+Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (RISTF, art. 52, parágrafo único).
+
+Nos termos do parágrafo único do art. 161 do Regimento Interno do Supremo Tribunal Federal (RISTF), “o Relator poderá julgar a reclamação quando a matéria for objeto de jurisprudência consolidada do Tribunal”. É o caso dos autos.
+
+Discute-se, na presente reclamação, se a decisão reclamada, ao negar o sobrestamento do processo de origem pela ausência de contrato escrito entre as partes ou qualquer elemento formal apto a comprovar eventual relação autônoma, teria violado a ordem de suspensão proferida pelo Ministro Relator no ARE n. 1.532.603.
+
+No ARE 1.532.603/PR, o eminente Relator, Ministro Gilmar Mendes, determinou, de forma expressa, a suspensão nacional da tramitação de todos os processos que tratem das seguintes questões:
+
+1) a competência da Justiça do Trabalho para julgar as causas em que se discute a fraude no contrato civil de prestação de serviços;
+2) a licitude da contratação de trabalhador autônomo ou pessoa jurídica para a prestação de serviços, à luz do entendimento firmado pelo STF no julgamento da ADPF 324, que reconheceu a validade constitucional de diferentes formas de divisão do trabalho e a liberdade de organização produtiva dos cidadãos;
+3) a questão referente ao ônus da prova relacionado à alegação de fraude na contratação civil, averiguando se essa responsabilidade recai sobre o autor da reclamação trabalhista ou sobre a empresa contratante.
+
+Verifico que a decisão reclamada, ao consignar que a ausência de contrato formal escrito ou prestação de serviços de natureza autônoma ou em contexto de “pejotização”,  não incorreu em afronta à determinação de suspensão proferida pelo Gilmar Mendes no âmbito do Tema n. 1.389 da repercussão geral.
+
+Ademais, ressalto que tal entendimento encontra respaldo nas próprias alegações deduzidas pelos reclamantes na exordial, na qual afirmam que restou demonstrado “que foi combinado verbalmente o contrato” (fl. 2, e-doc. 1).
+
+Com efeito, ao atribuir relevância decisiva à inexistência de instrumento formal da relação jurídica — seja na hipótese de prestação de serviços por intermédio de pessoa jurídica (“pejotização”), seja na condição de trabalhador autônomo formalizado —, a decisão reclamada está conforme o precedente invocado.
+
+Isso porque a orientação firmada por esta Suprema Corte, ao determinar a suspensão dos processos, pressupõe a existência de relações contratuais minimamente formalizadas, evidenciadas, por exemplo, por elementos probatórios aptos a indicar, ao menos em caráter indiciário, a ausência de vínculo empregatício. Nesse sentido:
+
+ EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA RECLAMAÇÃO CONSTITUCIONAL. ALEGADA OMISSÃO QUANTO À INEXISTÊNCIA DE CONTRATO ESCRITO ENTRE AS PARTES. OCORRÊNCIA. REVISÃO DE ENTENDIMENTO, EM OBSERVÂNCIA AO PRINCÍPIO DA COLEGIALIDADE. AUSÊNCIA DE INSTRUMENTO FORMAL DA RELAÇÃO JURÍDICA QUE AFASTA A IDENTIDADE MATERIAL COM O PARADIGMA FIRMADO NO TEMA N. 1.389 DA REPERCUSSÃO GERAL (DISTINGUISHING). EMBARGOS DE DECLARAÇÃO CONHECIDOS E ACOLHIDOS, COM ATRIBUIÇÃO DE EFEITOS INFRINGENTES, PARA DAR PROVIMENTO AO AGRAVO REGIMENTAL E JULGAR IMPROCEDENTE A RECLAMAÇÃO CONSTITUCIONAL.
+
+(Rcl n. 85.447 AgR-ED, de minha relatoria, Primeira Turma, DJe: 15/05/2026)
+
+Direito do Trabalho. Agravo Regimental na Reclamação. Relação de emprego não anotada na CTPS. Ausência de Contrato Escrito. Ordem de suspensão nacional no ARE nº 1.532.603/PR (Tema RG nº 1.389). Ausência de Estrita Aderência. Agravo desprovido. I. Caso em exame 1. Agravo regimental interposto contra decisão monocrática pela qual se negou seguimento à reclamação. A parte autora pretendia desconstituir decisão da Justiça do Trabalho por meio da qual se entendeu que, na ação trabalhista, foi reconhecida a ausência de contrato escrito e de prova testemunhal que comprovasse a tese da relação de trabalho autônomo. Assim, concluiu que o caso não se enquadrava na ordem de suspensão nacional proferida no ARE nº 1.532.603/PR (Tema nº 1.389 do ementário da Repercussão Geral), pelo Ministro Gilmar Mendes. 2. A agravante sustenta, em suma, a validade da contratação do beneficiário como profissional autônomo e a irrelevância da inexistência de contrato escrito para a aplicação do precedente vinculante do STF. II. Questão em discussão 3. A questão em discussão visa estabelecer se há distinção (distinguishing) entre o caso concreto e o Tema RG nº 1.389, de modo a afastar a aplicação da ordem de sobrestamento proferida pelo STF. III. Razões de decidir 4. O Tema nº 1.389 do ementário da Repercussão Geral abrange, expressamente, as discussões sobre a existência de fraude em contratos civis/comerciais de prestação de serviços, a licitude da contratação de pessoa jurídica ou trabalhador autônomo e a distribuição do ônus da prova — matérias que coincidem com as controvérsias suscitadas nos autos trabalhistas subjacentes. 5. Esta Segunda Turma formou entendimento de que, diante da ausência de um contrato de prestação de serviços previamente formalizado, a embasar a “pejotização” ou a relação autônoma, não está caracterizada a relação de estrita aderência ao ARE nº 1.532.603/PR (Tema RG nº 1.389). 6. A decisão reclamada limitou-se a reconhecer a relação de emprego que não fora anotada na Carteira de Trabalho e Previdência Social (CTPS), não tendo afastado contrato de prestação de serviços em razão de alegação de fraude à legislação trabalhista, motivo pelo qual não se enquadra na determinação de suspensão dos processos que versam sobre o Tema RG nº 1.389. IV. Dispositivo 7. Agravo regimental ao qual se nega provimento. (Rcl n. 82884 AgR, Rel. Min.: ANDRÉ MENDONÇA, Segunda Turma, DJe: 04/12/2025)
+
+RECLAMAÇÃO. TEMA 1389 DA REPERCUSSÃO GERAL. QUESTÃO CONSTITUCIONAL. ALCANCE. ORDEM DE SUSPENSÃO NACIONAL DA TRAMITAÇÃO DE PROCESSOS. INEXISTÊNCIA DE CONTRATO ESCRITO. AUSÊNCIA DE ADERÊNCIA. AGRAVO REGIMENTAL DESPROVIDO. I. Caso em exame 1. Acórdão reclamado que, nos termos da Lei 12.592/2021, reconheceu a existência de vínculo empregatício do profissional-parceiro com o salão-parceiro, ante a ausência de contrato formal e a presença dos requisitos próprios à relação de emprego. 2. Decisão agravada que negou seguimento à reclamação ante a ausência de aderência entre a matéria objeto da reclamação e aquela discutida no paradigma supostamente vulnerado. II. Questão em discussão 3. Verificar a existência da aderência entre o ato reclamado e o paradigma invocado. III. Razões de decidir 4. Muito embora a discussão objeto do Tema 1389 da repercussão geral tenha sido ampliada para além daquela versada nos autos de origem, é indispensável que a questão objeto da reclamação seja submetida a esta Corte no bojo de processo em que se discute, à luz do entendimento firmado no julgamento da ADPF 324 e no Tema 725 da repercussão geral, o exame da validade de contrato formal de natureza civil ou comercial, ou a contratação por meio de pessoa jurídica. 5. Tendo a autoridade reclamada assentado a ausência de contrato formal e que o contrato de parceria em questão possuiu regramento próprio (Lei 12.592/2012), o caso não fornece suporte fático para a configurar descumprimento do paradigma, ARE 1532603, invocado pela reclamante, ante a ausência de debates sobre fraude em contrato formal firmado entre as partes. 6. Inexiste a necessária aderência estrita entre a questão em discussão na origem e aquela objeto do paradigma invocado (Tema 1389), de modo que a hipótese não atrair a incidência da ordem de suspensão nacional da tramitação de processos nele determinada. IV. Dispositivo 7. Agravo regimental desprovido.
+(Rcl 80913 AgR, Rel. Min.: EDSON FACHIN, Segunda Turma, DJe: 20/10/2025)
+
+Por fim, divergir do entendimento adotado pelo Juízo reclamado demandaria o revolvimento de fatos e provas, o que é inviável pela via estreita da reclamação.
+
+Desse modo, verifico que a decisão reclamada não viola o procedente invocado, pelo que, com fundamento no art. 21, parágrafo único do RISTF, julgo improcedente a presente Reclamação Constitucional.
+
+Sem condenação em honorários, uma vez que não houve citação da parte adversa.
+
+Publique-se.
+
+Brasília, 17 de junho de 2026.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
