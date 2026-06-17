@@ -1,0 +1,33 @@
+DECISÃO:
+Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+O acórdão recorrido  ficou assim ementado:
+
+APELAÇÃO CÍVEL. USUCAPIÃO ORDINÁRIA. ALEGAÇÃO DE CERCEAMENTO DA ATIVIDADE PROBATÓRIA. IMÓVEL SITUADO EM TERRENO DE MARINHA. UNIÃO. IMÓVEL CADASTRADO EM REGIME DE OCUPAÇÃO. AUSÊNCIA DE AFORAMENTO. IMPOSSIBILIDADE DE USUCAPIÃO DO DOMÍNIO ÚTIL. RECURSO DESPROVIDO.
+I. Havendo documento público nos autos comprovando que o imóvel usucapiendo situa-se em terreno de marinha e está cadastrado no Serviço Público da União sob o regime de ocupação, não constitui cerceamento da atividade probatória o indeferimento da prova pericial. Inteligência dos artigos 405 e 464, § 1º, inciso II, ambos do Código de Processo Civil.
+II. A usucapião ordinária é uma forma de aquisição de bem imóvel, prevista no artigo 1242 do Código Civil/2002, abaixo transcrito: "Art. 1.242. Adquire também a propriedade do imóvel aquele que, contínua e incontestadamente, com justo título e boa-fé, o possuir por dez anos. Parágrafo único. Será de cinco anos o prazo previsto neste artigo se o imóvel houver sido adquirido, onerosamente, com base no registro constante do respectivo cartório, cancelada posteriormente, desde que os possuidores nele tiverem estabelecido a sua moradia, ou realizado investimentos de interesse social e econômico."
+III. Tal norma apresenta como requisitos a essa modalidade de usucapião o exercício da posse sobre o imóvel por 10 (dez) anos, de forma ininterrupta e sem oposição, mediante a comprovação de justo título e de boa-fé. Ademais, referido prazo pode ser reduzido para 5 (cinco) anos, no caso do bem ter sido adquirido, de forma onerosa, sob o registro constante do respectivo cartório com posterior cancelamento, desde que os possuidores o utilizem para fins de moradia, ou nele tenham realizado investimentos.
+IV. Outrossim, nos termos do artigo 1243 do mesmo Código, para alcançar o prazo de posse exigido, o possuidor pode acrescentar o tempo da posse de seus antecessores ao da sua posse, desde que estas sejam contínuas e pacíficas, com justo título e boa-fé.
+V. Noutro giro, observo que o inciso VII do artigo 20 da CF inclui entre os bens da União os terrenos de marinha e seus acrescidos, sendo estes definidos pelo Decreto-Lei nº 9.760/46 da seguinte forma: "Art. 2º São terrenos de marinha, em uma profundidade de 33 (trinta e três) metros, medidos horizontalmente, para a parte da terra, da posição da linha do preamar-médio de 1831: a) os situados no continente, na costa marítima e nas margens dos rios e lagoas, até onde se faça sentir a influência das marés; b) os que contornam as ilhas situadas em zona onde se faça sentir a influência das marés. Parágrafo único. Para os efeitos deste artigo a influência das marés é caracterizada pela oscilação periódica de 5 (cinco) centímetros pelo menos, do nível das águas, que ocorra em qualquer época do ano. Art. 3º São terrenos acrescidos de marinha os que se tiverem formado, natural ou artificialmente, para o lado do mar ou dos rios e lagoas, em seguimento aos terrenos de marinha." Ademais, nos termos dos artigos 183, § 3º, da CF, os bens públicos não são passíveis de usucapião.
+VI. No caso, consta do documento ID 265648804 que o imóvel em questão está situado em terreno de marinha, consoante cadastrado na SPU/SP, sob o regime de ocupação.
+ VII. Nessa senda, dispõe o artigo 131 do Decreto-Lei n. 9760/46 que "a inscrição e o pagamento da taxa de ocupação, não importam, em absoluto, no reconhecimento, pela União, de qualquer direito de propriedade do ocupante sobre o terreno ou ao seu aforamento (...)".
+VIII. Ressalte-se, ainda, que não se pode admitir sequer a possibilidade de usucapião do domínio útil do imóvel, visto que esta só é admitida quando se trata de imóvel público foreiro. Ocorre que, conforme acima assinalado, o imóvel usucapiendo está registrado junto à SPU/SP sob o regime de ocupação, e não de aforamento. Precedentes.
+IX. Desta feita, resta evidenciada a impossibilidade de aquisição do imóvel por usucapião, razão pela qual deve ser mantida a r. sentença que julgou improcedente a demanda.
+X. Apelação desprovida.
+
+Opostos os embargos de declaração, foram rejeitados.
+No recurso extraordinário sustenta-se violação do(s) art.(s) 6º, 20, VII e 183, § 3º,  da Constituição Federal.
+Decido.
+Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, nos termos da Súmula 279/STF. Sobre o tema, a propósito:
+
+“Agravo regimental no recurso extraordinário com agravo. Direito Civil. Prequestionamento. Ausência. Usucapião. Requisitos. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. É inadmissível o recurso extraordinário se a matéria constitucional que nele se alega violada não está devidamente prequestionada. Incidência das Súmulas nºs 282 e 356/STF. 2. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal. 3. Inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos e a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 4. Agravo regimental não provido, com imposição de multa de 1% do valor atualizado da causa (art. 1.021, § 4º, do CPC)” (ARE nº 1.143.628/GO-AgR, Tribunal Pleno, Rel. Min. Dias Toffoli, DJe de 13/12/2018).
+
+Também nesse sentido: ARE nº 1.071.192/SP-AgR, Segunda Turma, Rel. Min. Dias Toffoli, DJe de 22/11/2017 e ARE nº 930.522/RO-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 29/6/2017.
+Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 17 de junho de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
