@@ -1,0 +1,86 @@
+Ementa: Direito Tributário. Recurso Extraordinário com Agravo. ISS. Uso de marca. Mandado de segurança. Inadequação da via eleita reconhecida pelo Tribunal de origem. Alegação de cabimento do writ. Controvérsia de índole infraconstitucional. Reexame de fatos e provas. Agravo em recurso extraordinário a que se nega provimento.
+I. Caso em exame
+1. Agravo interposto contra decisão pela qual se inadmitiu recurso extraordinário no que se impugnava acórdão do Tribunal de Justiça do Estado de São Paulo. No acórdão recorrido, denegou-se a ordem em mandado de segurança, considerando inadequada a via eleita para afastar, de forma indiscriminada e com efeitos perenes, a incidência do Imposto Sobre Serviços (ISS) sobre royalties de contrato de licença e uso de marca, por entender que a impetração foi utilizada como sucedâneo de ação direta de inconstitucionalidade e que a pretensão era de natureza normativa, buscando um "salvo-conduto" sem individualização das operações ou limitação temporal.
+2. A parte recorrente, no recurso extraordinário, alegou violação aos arts. 5º, incs. LXIX, XXXV e XXXVI; 93, inc. IX; e 156, inc. III, todos da Constituição da República. Sustentou omissão no acórdão recorrido, desrespeito a precedente de arguição de inconstitucionalidade e aplicação de entendimentos distintos para casos idênticos, adequação do mandado de segurança para discussão de matéria exclusivamente de direito sem dilação probatória, e violação ao art. 5º, inc. II, da Constituição, pela exigência de ISS sobre locação de bem móvel (cessão de direito de uso de marca).
+3. A decisão de inadmissão do recurso extraordinário fundamentou-se na natureza infraconstitucional da questão dos pressupostos de admissibilidade do mandado de segurança (Tema RG nº 318), na harmonia do acórdão recorrido com a jurisprudência do Supremo Tribunal Federal sobre a fundamentação das decisões judiciais (Tema RG nº 339), e na inviabilidade de reexame de fatos e provas ou análise de cláusulas contratuais em recurso extraordinário (enunciados nº 454 e nº 279 da Súmula do STF). Ademais, considerou inaplicável o Tema RG nº 1.210, pois no acórdão recorrido não se emitiu juízo sobre a incidência do ISS, mas, sim, sobre o cabimento do mandado de segurança.
+II. Questão em discussão
+4. Há duas questões em discussão: (i) saber se o reexame da adequação da via eleita e da análise fático-probatória é cabível em recurso extraordinário; e (ii)estabelecer se no acórdão recorrido foi violado o dever de fundamentação das decisões judiciais.
+III. Razões de decidir
+5. Para divergir do entendimento do acórdão recorrido, seria indispensável a análise da legislação infraconstitucional e o reexame do conjunto fático-probatório, procedimentos inviáveis em sede de recurso extraordinário, conforme o enunciado nº 279 da Súmula do Supremo Tribunal Federal.
+6. A questão do preenchimento dos pressupostos de admissibilidade do mandado de segurança tem natureza infraconstitucional, sendo-lhe atribuídos os efeitos da ausência de repercussão geral, nos termos do Tema RG nº 318.
+7. A alegação de ofensa ao art. 93, inc. IX, da Constituição não prospera, pois as decisões judiciais não precisam ser analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões, conforme o Tema RG nº 339.
+8. O Tema RG nº 1.210, que trata da incidência do ISS sobre cessão de direito de uso e transferência de marcas, é inaplicável ao caso, uma vez que o Tribunal de origem decidiu sobre o não cabimento do mandado de segurança, e não sobre o mérito da incidência do imposto.
+9. A apresentação de medida recursal manifestamente inadmissível ou improcedente pode ensejar a aplicação de multa, nos termos do art. 1.021, § 4º, do Código de Processo Civil, e a insistência em recursos protelatórios pode levar à incidência da multa prevista no artigo 1.026, §§ 2º a 4º, do mesmo diploma legal.
+IV. Dispositivo
+10. Agravo em recurso extraordinário a que se nega provimento.
+_________
+Dispositivos relevantes citados: CRFB, arts. 5º, incs. II, LXIX, XXXV, XXXVI, 93, inc. IX, 102, inc. III, al. "a", 156, inc. III; CTN, art. 142; CPC, arts. 1.021, § 4º, 1.026, §§ 2º a 4º, 1.030, inc. I, als. "a", "b", V, 1.035, § 8º; Lei nº 12.016, de 2009, art. 25; RISTF, art. 21, § 1º; enunciados nº 266, nº 279, nº 454 e nº 512 da Súmula do STF.
+Jurisprudência relevante citada: AI nº 800.074/SP, Tema RG nº 318, j. 06/12/2010; RE nº 584.608/SP, Rel. Min. Ellen Gracie, j. 13/03/2009; AI nº 791.292/PE, Tema RG nº 339, j. 23/06/2010, p. 13/08/2010; ARE nº 1.392.269-AgR/MG, Rel. Min. Dias Toffoli, Primeira Turma, j. 03/11/2022, p. 28/11/2022; e do RE nº 448.568-AgR/RS, Rel. Min. Cármen Lúcia, Segunda Turma, j. 22/03/2021, p. 24/03/2021; AI nº 791.292-QO-RG/PE, Rel. Min. Gilmar Mendes; ARE nº 1.321.696-ED-AgR/MG, Rel. Min. André Mendonça, Segunda Turma, j. 06/06/2022, p. 29/06/2022; ARE nº 1.107.805-AgR/SP, Rel. Min. Roberto Barroso, Primeira Turma, j. 13/12/2019, p. 03/02/2020; Rcl nº 45.289-AgR/DF, Rel. Min. Dias Toffoli, j. 04/10/2021; Rcl nº 24.841-ED-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma, j. 20/04/2017, p. 11/05/2017; MS nº 37.637-AgR/DF, Rel. Min. Roberto Barroso, Tribunal Pleno, j. 17/05/2021, p. 16/06/2021; MS nº 35.272-AgR-segundo/DF, Rel. Min. Edson Fachin, Segunda Turma, j. 16/06/2020, p. 08/10/2020..
+
+DECISÃO
+
+1. Trata-se de agravo contra decisão de inadmissão de recurso extraordinário interposto em desfavor de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+
+“Apelação. Mandado de Segurança. ISS. Sentença que denegou a ordem. Pretensão à reforma. Desacolhimento. Inadequação da via eleita. Pretensão de afastar, de forma indiscriminada e com efeitos perenes, a incidência do ISS sobre royalties sobre contrato de licença e uso de marca. Impetração formulada como sucedâneo de ação direta de inconstitucionalidade, o que é vedado pela Súmula nº 266/STF. Além disso, descabe ao Poder Judiciário conceder “salvo conduto” de natureza normativa, sem qualquer individualização das operações ou limitação temporal. Provimento que violaria o princípio da separação dos poderes, já que a apuração dos fatos geradores é poder-dever privativo da Administração Tributária, nos termos do art. 142 do CTN. Precedente desta C. Câmara. Valor da causa nitidamente destoante do proveito econômico almejado. Retificação de ofício e por arbitramento, nos termos do art. 292, §3º, feito por prudente estimativa com base nos elementos fáticos disponíveis. Sentença mantida. Recurso não provido, com observação.” (e-doc. 106).
+
+2. O recurso extraordinário foi interposto com base no art. 102, inc. III, al. “a”,  da Constituição da República. A parte recorrente sustenta violação aos arts. 5º, incs. LXIX, XXXV e XXXVI; 93, inc. IX; e 156, inc. III, todos CRFB.
+
+2.1. Afirma que, “mesmo após a oposição de Embargos de Declaração, o v. aresto permaneceu omisso quanto à argumentação apresentada pela Recorrente” (e-doc. 142, p. 10).
+
+2.2. Aduz que “a não observância do decidido nos autos da Arguição de Inconstitucionalidade nº 00115571-31.2011.8.26.0000, bem como a aplicação de entendimentos diferentes para casos idênticos – de empresas do mesmo grupo econômico que impetraram as ações com o mesmo fundamento -, caracteriza violação ao artigo 5º, XXXVI, da Constituição Federal” (e-doc. 142, p. 13; grifos no original).
+
+2.3. Defende a “possibilidade de utilização do Mandado de Segurança como via adequada para discussão de matéria exclusivamente de direito, e a desnecessidade de qualquer dilação probatória, na medida em que demonstrada a condição de contribuinte do ISS pelo Item 3.02 da Lista de Serviços da LC 116/03 com a juntada dos comprovantes dos pagamentos realizados com vínculo a esse serviço que é realizado há anos e nunca foi questionado pela Municipalidade, o que foi expressamente reconhecido no v. acórdão” (e-doc. 142, p. 17; grifos no original).
+
+2.4. Alega que “ocorre violação ao artigo 5º, inciso II, da Constituição Federal, pois o Fisco, ao exigir a parcela de ISS sobre a locação de um bem móvel – qual seja, a cessão do direito de uso de marca –, acaba por alterar, sem lei que o estabeleça, o disposto na legislação pertinente ao assunto” (e-doc. 142, p. 25).
+
+3. O recurso extraordinário não foi admitido em decisão assim fundamentada:
+
+“Desde logo, friso que o julgamento do mérito do AI nº 800.074, Tema nº 318/STF, DJe de 06.12.2010, sem repercussão geral, fixou a seguinte tese: A questão do preenchimento dos pressupostos de admissibilidade do mandado de segurança tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+Por sua vez, colhe-se do v. Acórdão recorrido o seguinte pronunciamento:
+Apelação. Mandado de Segurança. ISS Sentença que denegou a ordem. Pretensão à reforma. Desacolhimento. Inadequação da via eleita. Pretensão de afastar, de forma indiscriminada e com efeitos perenes, a incidência do ISS sobre royalties sobre contrato de licença e uso de marca. Impetração formulada como sucedâneo de ação direta de inconstitucionalidade, o que é vedado pela Súmula nº 266/STF. (...) (fl. 680).
+Assim, neste particular, considerando estar o v. Acórdão recorrido em harmonia com o julgamento do mérito acima mencionado, a hipótese é de negativa de seguimento do recurso.
+No que diz respeito à questão referente à fundamentação das decisões judiciais, no julgamento do AI nº 791.292/PE, Tema 339 do STF, de 23.06.2010 , publicada no DJe de 13.08.2010, o Col Supremo Tribunal Federal fixou a seguinte tese: "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas."
+No que tange às demais indicadas violações, tendo em vista os fundamentos do v. Acórdão recorrido e as alegações recursais, registre-se que rever o entendimento firmado pela Turma Julgadora implicaria o revolvimento do acervo fático-probatório e a análise de cláusulas contratuais, circunstâncias que tornam inviável o recurso, nos termos das Súmulas 454 e 279 do Col. Supremo Tribunal Federal.
+Outrossim, consigno que a consideração de tema editado pelo C. STF, tal como o aduzido 1210, por ora, não viria ao caso, já que, aparentemente, o v. Acórdão recorrido não emitiu juízo sobre a questão.
+Dessa forma, com relação à questão na qual foi declarada inexistente a repercussão geral em caso análogo a este e quanto ao tema decidido em sede de repercussão geral, com base no que dispõem, respectivamente, o art. 1.030, inc. I, alínea "a" c.c. art. 1035, § 8º e o art. 1.030, inciso I, alínea “b”, do Código de Processo Civil, nego seguimento ao recurso de fls. 1062/91, e, quanto ao mais, inadmito-o, com fulcro no art. 1.030, inciso V, do mesmo Diploma Legal.” (e-doc. 158; grifos no original).
+
+4. No agravo, a parte recorrente renova os argumentos apresentados no recurso extraordinário, bem como impugna os fundamentos da decisão recorrida (e-doc. 165).
+
+É o relatório.
+
+Decido.
+
+5. Sobre o caso concreto, destaca-se a transcrição de parte da fundamentação constante do acórdão recorrido:
+
+“Com efeito, nota-se que há obstáculo incontornável à apreciação do pleito da impetrante, que é a inadequação da via eleita, que pode ser constatada por dois motivos autônomos, ainda que entre si relacionados; a alegação de nulidade da sentença, por sua vez, se insere nesse mérito, e será enfrentada adiante.
+Em primeiro lugar, e principalmente, nota-se que a impetração é utilizada como sucedâneo de ação direta de inconstitucionalidade, violando a Súmula nº 266/STF.
+Observa-se da inicial que a alegação que embasa o pedido se refere à não incidência do ISS sobre royalties decorrentes do “Instrumento Particular de Licença de Uso de Marca” firmado com a matriz chinesa da Huawei (p. 82/103), por decorrência da suposta inconstitucionalidade do item 3.02 da lista de serviços.
+Nota-se que há comprovantes de recolhimento de ISS frente ao Município-apelado, ainda que poucos e esparsos (p. 270/271, 278/279), o que levaria a crer, em um primeiro momento, que a impetração seria cabível, por envolver um cenário de discussão não da norma tributária em si, mas de seus efeitos concretos.
+Ocorre que a leitura dos pedidos da exordial (p. 25/27) mostra que a parte, na verdade, não individualiza as operações ou contratos que busca discutir, nem delimita temporalmente sua pretensão; objetiva que seja afastada, a priori e indiscriminadamente, toda e qualquer “providência de natureza coercitiva” envolvendo o ISS e os pagamentos de royalties.
+Dessa forma, o objetivo das impetrantes é obter um “salvo conduto”, obstando o poder-dever de apuração tributária do Município (art. 142 do CTN). Sua pretensão, destarte, é puramente normativa, em conflito com a Súmula 266/STF.” (e-doc. 106, p. 3-4; grifos no original).
+
+6. Com efeito, para dissentir do entendimento do Tribunal de origem, seria imprescindível a análise da legislação infraconstitucional aplicada ao caso, assim como uma nova apreciação dos fatos e do material probatório constantes dos autos, procedimentos inviáveis neste momento processual. A hipótese atrai a incidência do enunciado nº 279 da Súmula do STF.
+
+7. Nesse sentido, cabe destacar:
+
+“EMENTA Agravo regimental em recurso extraordinário com agravo. Direito tributário e processual civil. Mandado de segurança. Ausência dos pressupostos de cabimento. Não demonstração da ameaça ou violação a direito líquido e certo. Matéria infraconstitucional. Ausência de repercussão geral. Súmula nº 279/STF. 1. Ausência de repercussão geral do tema relativo a requisitos de admissibilidade de mandado de segurança, dado o caráter infraconstitucional da matéria. 2. Impossibilidade de reexame do conjunto fático-probatório da causa. Incidência da Súmula nº 279 do STF. 3. Agravo regimental ao qual se nega provimento, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC).”
+(ARE nº 1.392.269-AgR/MG, Rel. Min. Dias Toffoli, Primeira Turma, j. 03/11/2022, p. 28/11/2022).
+
+“EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. TAXA DE EXPEDIENTE SOBRE EMISSÃO DE GUIA DO SEGURO OBRIGATÓRIO DE DANOS PESSOAIS CAUSADOS POR VEÍCULOS AUTOMOTORES DE VIA TERRESTRE – DPVAT. PERÍODO DE OCORRÊNCIA DO FATO GERADOR. VALOR DO TRIBUTO. PROPORCIONALIDADE: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. REQUISITOS DE CABIMENTO DE MANDADO DE SEGURANÇA. DILAÇÃO PROBATÓRIA. ALEGAÇÃO DE CONTRARIEDADE AO DEVIDO PROCESSO LEGAL. MATÉRIA INFRACONSTITUCIONAL: INEXISTÊNCIA DE REPERCUSSÃO GERAL (TEMAS 318 E 660). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+(RE nº 448.568-AgR/RS, Rel. Min. Cármen Lúcia, Segunda Turma, j. 22/03/2021, p. 24/03/2021)
+8. Ademais, inaplicável ao caso o Tema RG nº 1.210, isto porque, no paradigma, o Supremo Tribunal Federal irá discutir, à luz do art. 156, inc. III, da Constituição, a incidência, ou não, do Imposto Sobre Serviços (ISS) sobre as operações de cessão de direito de uso e transferência de marcas, hipótese diversa da presente, em que o Tribunal de origem entendeu pelo não cabimento do mandado de segurança.
+
+9. Quanto à alegada ofensa ao art. 93, inc. IX, da Constituição, o Plenário deste Tribunal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nessa linha, reconhecendo a repercussão geral da matéria, a próposito, cita-se o AI nº 791.292-QO-RG/PE, julgado sob a relatoria do Ministro Gilmar Mendes.
+
+10. Para a espécie, inclusive, se faz válido registrar a advertência de que, em casos de apresentação de medida recursal manifestamente inadmissível ou improcedente, o Supremo Tribunal Federal entende pela possibilidade de aplicação de multa, nos termos do art. 1.021, § 4º, do CPC (ARE nº 1.321.696-ED-AgR/MG, de minha relatoria, Segunda Turma, j. 06/06/2022, p. 29/06/2022; ARE nº 1.107.805-AgR/SP, Rel. Min. Roberto Barroso, Primeira Turma, j. 13/12/2019, p. 03/02/2020; Rcl nº 45.289-AgR/DF, Rel. Min. Dias Toffoli, j. 04/10/2021; Rcl nº 24.841-ED-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma, j. 20/04/2017, p. 11/05/2017; MS nº 37.637-AgR/DF, Rel. Min. Roberto Barroso, Tribunal Pleno, j. 17/05/2021, p. 16/06/2021; e MS nº 35.272-AgR-segundo/DF, Rel. Min. Edson Fachin, Segunda Turma, j. 16/06/2020, p. 08/10/2020).
+
+11. Para além, consigno ainda que a apresentação de embargos de declaração com intuito protelatório assoberba ilegitimamente a justiça, prejudicando a mais célere e efetiva prestação jurisdicional. A eventual insistência na apresentação de recursos protelatórios acarreta a possibilidade e, até mesmo, a obrigação da magistratura em fazer incidir a multa processual prevista no art. 1.026, §§ 2º a 4º, do CPC.
+
+12. Ante o exposto, nego provimento ao recurso extraordinário com agravo, nos termos do art. 21, § 1º, do RISTF. Por se tratar, na origem, de mandado de segurança, inaplicável o art. 85, § 11, do CPC (enunciado nº 512 da Súmula do STF e art. 25 da Lei nº 12.016, de 2009).
+
+Publique-se.
+
+Brasília, 17 de junho de 2026.
+
+Ministro ANDRÉ MENDONÇA
+Relator
