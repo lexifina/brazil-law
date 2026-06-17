@@ -1,0 +1,2 @@
+Institui, na forma do art. 43 da Constituição Federal, a Superintendência do Desenvolvimento do Centro-Oeste - SUDECO, estabelece sua missão institucional, natureza jurídica, objetivos, área de atuação, instrumentos de ação, altera a Lei nº 7.827, de 27 de setembro de 1989, e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei Complementar:
