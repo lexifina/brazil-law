@@ -1,0 +1,2 @@
+Altera a Medida Provisória nº 2.156-5, de 24 de agosto de 2001, a Medida Provisória nº 2.157-5, de 24 de agosto de 2001, e a Lei Complementar nº 129, de 8 de janeiro de 2009, para permitir que as cooperativas sejam beneficiárias dos recursos do Fundo de Desenvolvimento do Nordeste (FDNE), do Fundo de Desenvolvimento da Amazônia (FDA) e do Fundo de Desenvolvimento do Centro-Oeste (FDCO).
+O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei Complementar:
