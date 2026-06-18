@@ -1,0 +1,1 @@
+Art. 7º-C. As despesas de capital no âmbito da Política Nacional para Estudantes com Altas Habilidades ou Superdotação poderão ser contempladas com recursos públicos do PAC, observado o disposto no art. 3º desta Lei.
