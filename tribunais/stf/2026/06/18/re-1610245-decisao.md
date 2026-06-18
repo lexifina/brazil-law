@@ -1,0 +1,39 @@
+DECISÃO: Trata-se de recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado por Oracilda Ferreira Nascimento, em face do acórdão do Tribunal de Justiça do Estado de Minas Gerais, que confirmou a sentença por seus próprios fundamentos, conforme segue:
+
+“Primordialmente, restou incontroverso nos autos que a parte autora se aposentou voluntariamente pelo Regime Geral de Previdência Social na data de 18/05/2015 (evento nº 9627853907), estando vinculado ao INSS por força do cargo público, com contagem do tempo em que prestou serviços ao réu para concessão do benefício.
+Nesta senda, a legislação municipal de Prata-MG, no artigo 58, inciso IV, da Lei Complementar nº 002/2006, assim dispõe:
+“Art. 58 – A vacância do cargo público decorrerá de: [ . . . ]
+IV - aposentadoria” (grifos)
+Assim, em observância ao disposto no artigo 58, inciso IV, da Lei Complementar nº 002/2006, fica o servidor do Município de Prata impedido de permanecer no cargo após a sua aposentadoria, salvo se aprovado em novo concurso público.
+Entendimento supra, ainda sulfragado quando do julgamento da Ação Direta de Inconstitucionalidade (0322768-43.2019.8.13.0000), em relação à Lei nº 005/2015 do Município do Prata-MG, do qual extrai-se a posição de inconstitucionalidade do dispositivo que permitia ao servidor aposentado manter-se em seu cargo. [...]
+Outrossim, não há falar sequer em permissão de acumulação de cargos, já que não se trata de tal questão, mas apenas de um fato que leva à vacância, qual seja, a aposentadoria (ainda que pelo Regime Geral de Previdência).
+Por argumentação, em hipótese de acolhimento da interpretação que pretende a parte autora, este nunca terá o cargo declarado vago pela aposentadoria, tendo em vista que inexiste regime próprio de previdência no Município de Prata.
+Não menos importante, destaca-se ainda, que não há qualquer exigência de processo administrativo, tendo em vista que se trata de mera constatação fática documental, portanto, não há necessidade de tal procedimento, que apenas retardaria a declaração de vacância, em prejuízo à Administração e em proveito do servidor, que receberá a aposentadoria pelo INSS e a remuneração pelos cofres públicos, ainda que prestados os serviços, mas de forma ilegal.
+ Ou seja, resta materializada a prescindibilidade do procedimento administrativo no caso em tela, eis que, a vacância oriunda da aposentadoria de servidor pelo Regime Geral da Previdência Social, constitui mera consequência da respectiva aposentadoria.
+[...]
+Frente ao exposto, JULGO IMPROCEDENTE o pleito exordial, com resolução do mérito, na forma do art.487, inciso I, do Diploma Adjetivo Civil.” (Recurso Inominado Cível nº 5000616-83.2021.8.13.0528, 2ª Turma Recursal do Grupo Jurisdicional de Uberlândia, Rel. Juiz Lourenço Migliorini Fonseca Ribeiro, j. 02.07.2024)
+
+Na minuta, sustenta-se violação do art. 6º da Emenda Constitucional nº 103/2019, bem como contrariedade ao Tema 606 da Repercussão Geral. Alega-se, em síntese, que sua aposentadoria voluntária pelo Regime Geral de Previdência Social (RGPS) ocorreu em 18/05/2015, isto é, em data anterior à vigência de tal Emenda, o que lhe confere direito à reintegração ao cargo que anteriormente ocupava.
+É o relatório.
+Decido.
+O recurso não comporta seguimento.
+De início, afasta-se a alegada incidência do Tema 606 ao presente caso. O paradigma invocado pela recorrente versa especificamente sobre a situação de empregados públicos (trabalhadores sob o regime celetista de empresas estatais) dispendidos em razão de aposentadoria voluntária.
+A hipótese dos autos, diversamente, cuida de servidora pública estatutária estável pertencente aos quadros da Administração Pública direta do Município de Prata-MG, cuja relação institucional é regida por estatuto próprio (Lei Complementar Municipal nº 002/2006).
+Para a presente situação jurídica, este Supremo Tribunal Federal, ao julgar o Tema 1.150 da repercussão geral, fixou tese em sentido diametralmente oposto à pretensão da recorrente, operando inequívoco distinguishing em relação aos trabalhadores celetistas. Transcreve-se a ementa do referido precedente vinculante:
+
+“RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. APOSENTADORIA PELO REGIME GERAL DE PREVIDÊNCIA SOCIAL (RGPS). LEGISLAÇÃO DO ENTE FEDERATIVO QUE ESTABELECE A APOSENTADORIA COMO CAUSA DE VACÂNCIA. MANUTENÇÃO OU REINTEGRAÇÃO AO CARGO SEM SUBMISSÃO A NOVO CONCURSO PÚBLICO. IMPOSSIBILIDADE. PRECEDENTES. ACUMULAÇÃO DE PROVENTOS E VENCIMENTOS. POSSIBILIDADE APENAS NO CASO DE CARGOS, FUNÇÕES OU EMPREGOS ACUMULÁVEIS NA ATIVIDADE. PRECEDENTES. RE 655.283. TEMA 606 DA REPERCUSSÃO GERAL. DISTINGUISHING. MULTIPLICIDADE DE RECURSOS EXTRAORDINÁRIOS. CONTROVÉRSIA CONSTITUCIONAL DOTADA DE REPERCUSSÃO GERAL. REAFIRMAÇÃO DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO PROVIDO.” (RE 1302501 RG, Relator(a): MINISTRO PRESIDENTE, Tribunal Pleno, DJe 25-08-2021)
+
+Verifica-se que o Tribunal de origem decidiu a causa em estrita consonância com a jurisprudência pacificada desta Corte, haja vista que a legislação local do Município de Prata-MG (art. 58, IV, da Lei Complementar nº 002/2006) estabelece textualmente a aposentadoria como causa determinante de vacância do cargo público. Rompido o vínculo originário por força da lei local, a permanência ou reintegração do servidor aposentado sem nova aprovação em concurso público encontra óbice intransponível no texto constitucional.
+Para dissentir do entendimento firmado pelo Tribunal a quo e acolher a tese da recorrente, quanto à legalidade do ato administrativo de desligamento, seria imprescindível o revolvimento da moldura fática delineada, bem como a análise da legislação infraconstitucional local aplicável, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Aplicação das Súmulas nº 279 e 280/STF: “para simples reexame de prova não cabe recurso extraordinário” e “por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+“Direito administrativo. Agravo interno em recurso extraordinário com agravo. Servidor público. Aposentadoria pelo regime geral de previdência social. vacância do cargo. Reintegração sem concurso público. Impossibilidade. Matéria infraconstitucional. Reexame do conjunto fático-probatório. Incidência das Súmulas nº 279 e 280 do STF. 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário com agravo, o qual tem por objeto acórdão que manteve sentença de improcedência. 2. Para dissentir do entendimento do Tribunal de origem, seria imprescindível analisar a legislação infraconstitucional aplicada ao caso, assim como uma nova apreciação dos fatos e do material probatório constantes dos autos, procedimentos inviáveis neste momento processual. A hipótese atrai a incidência das Súmulas nº 279 e 280/STF. 3. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 10% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015 e a eventual concessão de justiça gratuita. 4. Agravo interno a que se nega provimento, com a aplicação da multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.021, § 4°, do CPC/2015.” (ARE 1460053 AgR, Relator(a): LUÍS ROBERTO BARROSO (Presidente), Tribunal Pleno, DJe 08-01-2024)
+
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+
+Brasília, 18 de junho de 2026.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
