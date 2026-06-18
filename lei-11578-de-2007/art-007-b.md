@@ -1,0 +1,1 @@
+Art. 7º-B. Poderá ser objeto de contrato de financiamento no âmbito do PAC a prestação dos serviços públicos de saneamento básico dos entes federativos e suas entidades que atendam ao disposto no art. 7º-A.

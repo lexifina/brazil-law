@@ -1,0 +1,2 @@
+Dispõe sobre a transferência obrigatória de recursos financeiros para a execução pelos Estados, Distrito Federal e Municípios de ações do Programa de Aceleração do Crescimento - PAC, e sobre a forma de operacionalização do Programa de Subsídio à Habitação de Interesse Social - PSH nos exercícios de 2007 e 2008.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:

@@ -1,0 +1,1 @@
+Art. 7º-D. As despesas dos Estados, do Distrito Federal e dos Municípios relacionadas à Política Nacional para Estudantes com Altas Habilidades ou Superdotação poderão ser objeto de contrato de financiamento no âmbito do PAC.
