@@ -1,0 +1,1 @@
+Art. 105-A. Os municípios poderão constituir guardas municipais destinadas à prevenção, proteção e preservação de seus bens, serviços e instalações, observados os preceitos da Lei Federal. (Acrescido pelo art. 1° da Emenda Constitucional n° 42, de 28 de junho de 2018 .)

@@ -1,0 +1,1 @@
+Art. 66. Fica extinto, a partir de 2033, o imposto previsto no inciso II do art. 112, da Constituição do Estado de Pernambuco . (Acrescido pelo art. 2° da Emenda Constitucional n° 68, de 18 de dezembro de 2025 .)
