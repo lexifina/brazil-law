@@ -1,0 +1,123 @@
+DECISÃO:
+Vistos.
+Trata-se de habeas corpus, com pedido de liminar, apontando como autoridade coatora o Superior Tribunal de Justiça, que negou provimento ao RHC nº 228.329/CE, Relator o Ministro Joel Ilan Paciornik.
+Consta dos autos que foi decretada a prisão preventiva do paciente, em 20/3/2025, em procedimento que apura a prática dos crimes dispostos no art. 2º da Lei nº 12.850/2013; art. 1º, § 1º, II, e § 4º, da Lei  nº 9.613/1998; e art. 337-E do Código Penal.
+O mandado de prisão preventiva encontra-se pendente de cumprimento.
+Neste writ, a defesa alega, em síntese, a existência de constrangimento ilegal, em virtude de alteração fática consistente no encerramento dos contratos da empresa investigada com o poder público.
+Argumenta que o Ministério Público Federal manifestou-se no STJ pelo provimento do recurso ordinário em Habeas Corpus.
+Defende, assim, a ausência dos requisitos do art. 312 do Código de Processo Penal, especialmente diante da inidoneidade da fundamentação utilizada no decreto constritivo e da falta de contemporaneidade.
+Requer, ao final:
+
+“a) a concessão da medida liminar, para suspender imediatamente os efeitos da prisão  preventiva;
+b) no mérito, a concessão definitiva da ordem para revogar a prisão preventiva decretada  nos autos nº 0800006-22.2025.8.06.0303, por ausência dos requisitos do CPP, art. 312,  deficiência de fundamentação concreta e ausência de contemporaneidade do periculum  libertatis;
+c) subsidiariamente, caso não se entenda pela revogação pura e simples, a substituição da  prisão preventiva por medidas cautelares diversas da prisão, nos termos do CPP, art. 319,  inclusive monitoração eletrônica, comparecimento periódico em juízo, entrega de  passaporte, proibição de contato com corréus e outras que o juízo reputar adequadas; “
+
+É o relatório. Fundamento e decido.
+Eis o teor da ementa do aresto questionado:
+
+“DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PRISÃO PREVENTIVA. CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA. PECULATO, FALSIDADE IDEOLÓGICA E ASSOCIAÇÃO CRIMINOSA. GRAVIDADE CONCRETA.  FUGA  DO  DISTRITO  DA  CULPA. CONTEMPORANEIDADE. MEDIDAS CAUTELARES DIVERSAS. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto pela defesa contra decisão monocrática que negara provimento a recurso ordinário em habeas corpus, no qual se pleiteava a revogação da prisão preventiva decretada em desfavor de acusado pela suposta prática dos crimes previstos nos arts. 288, 299 e 312 do Código Penal, em contexto de fraude contratual, peculato, falsidade ideológica e associação criminosa, relacionados à execução simulada de contratos de limpeza pública.
+II. Questão em discussão
+2. A questão em discussão consiste em verificar se a decisão que manteve a prisão preventiva do agravante, decretada para garantia da ordem pública e para assegurar a aplicação da lei penal, estaria maculada por ausência de fundamentação concreta e de contemporaneidade, pela possibilidade de substituição por medidas cautelares diversas e pela alegada ocorrência de cerceamento de defesa (violação à Súmula Vinculante n. 14 do STF) e de fraude processual, bem como se tais últimas matérias podem ser examinadas pelo Superior Tribunal de Justiça sem prévia apreciação pelo Tribunal de origem.
+III. Razões de decidir
+3. O colegiado reconhece que a prisão preventiva está adequadamente motivada, com base em dados concretos colhidos em investigação complexa, que evidenciam elevado prejuízo ao erário - pagamentos superiores a R$ 10.000.000,00 (dez milhões) -, modus operandi sofisticado, uso de “laranjas” e de documentos ideologicamente falsos, bem como atuação ativa do agravante na execução fraudulenta dos contratos, o que demonstra gravidade concreta das condutas e risco de reiteração delitiva, nos termos dos arts. 312, § 3º, e 313 do CPP.
+4. A Corte afirma que o agravante permanece foragido desde a expedição do mandado de prisão preventiva, circunstância que, somada ao lapso prolongado sem cumprimento da ordem, caracteriza ameaça concreta de evasão e justifica a custódia para assegurar a aplicação da lei penal, não havendo violação ao requisito de contemporaneidade, pois os fundamentos cautelares foram recentemente reavaliados e mantidos pelas instâncias ordinárias.
+5. A alegação defensiva de que a ausência do agravante decorreria de missão religiosa itinerante é reputada inverossímil pelas instâncias de origem, diante de contradições entre a narrativa e os registros de viagens juntados pela própria defesa, e a revisão dessa conclusão demandaria reexame de matéria fático-probatória, providência incompatível com a via do habeas corpus e, por conseguinte, com o agravo regimental que o sucede.
+6. O Tribunal ressalta que condições pessoais favoráveis do agravante não afastam, por si sós, a prisão preventiva quando presentes fundamentos cautelares autônomos, e que as medidas cautelares alternativas previstas no art. 319 do CPP mostram-se insuficientes diante da gravidade concreta dos delitos, do modus operandi e da situação de foragido, não se revelando aptas a resguardar a ordem pública nem a aplicação da lei penal.
+7. As teses de violação à Súmula Vinculante n. 14 do STF, em razão de suposta negativa de acesso da defesa aos autos sigilosos, e de fraude processual decorrente de alegada ocultação de documento pelo órgão acusatório não foram objeto de exame pelo Tribunal de origem, o que impede seu conhecimento originário pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+8. Diante da fundamentação concreta da custódia e da impossibilidade de apreciação das matérias não examinadas pela Corte local, o colegiado conclui inexistir constrangimento ilegal apto a justificar a revogação ou a substituição da prisão preventiva.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental desprovido, mantendo-se a decisão que negara provimento ao recurso ordinário em habeas corpus e preservara a prisão preventiva do agravante.” (e-doc. 19).
+
+No STJ, o Ministro Joel Ilan Paciornik, no voto condutor do acórdão, destacou o seguinte:
+
+“A decisão impugnada deve ser mantida por seus próprios fundamentos.
+A propósito, confira-se o seu teor:
+"Trata-se de recurso em habeas corpus, com pedido liminar, interposto por J R DE M N, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ no julgamento do Agravo Interno em Habeas Corpus Criminal n. 0000561-11.2025.8.06.0000/5000.
+Extrai-se dos autos que o recorrente foi preso preventivamente, pela suposta prática dos crimes tipificados nos arts. 288, 299 e 312, todos do Código Penal- CP.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, tendo o Desembargador Relator julgado extinto o mandamus sem resolução do mérito (fls. 93/95). Contra a decisão, foi interposto agravo interno, ao qual foi dado parcial provimento apenas para afastar o reconhecimento da litispendência, prosseguindo se no exame do mérito do writ, cuja ordem foi denegada nos termos do acórdão que restou assim ementado (fls. 298/299):
+"EMENTA: PENAL E PROCESSO PENAL. AGRAVO INTERNO EM HABEAS CORPUS. CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA. FRAUDE CONTRATUAL, PECULATO, FALSIDADE IDEOLÓGICA E ASSOCIAÇÃO CRIMINOSA. AFASTAMENTO DE LITISPENDÊNCIA. FUNDAMENTOS FÁTICOS E JURÍDICOS DISTINTOS. DECRETO PRISIONAL DEVIDAMENTE FUNDAMENTADO. RÉU FORAGIDO. SÚMULA 02 DO TJCE. CONDIÇÕES PESSOAIS  FAVORÁVEIS.  CONTEMPORANEIDADE. IMPOSSIBILIDADE DE SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS. RECURSO CONHECIDO E PARCIALMENTE PROVIDO PARA DENEGAR A ORDEM DE HABEAS CORPUS.
+I. Caso em exame:
+1. Agravo interno interposto contra decisão monocrática que não conheceu de habeas corpus por litispendência com o HC nº 0626470-06.2025.8.06.0000, impetrado em favor do mesmo paciente. No novo writ, a defesa invoca fundamentos fáticos e jurídicos distintos, sustentando a ausência de dolo de fuga, por suposta missão evangélica itinerante, condições pessoais favoráveis, falta de contemporaneidade e possibilidade de substituição da prisão por medidas cautelares diversas. II. Questão em discussão:
+2. Verificar (i) se há identidade entre as causas de pedir a justificar o reconhecimento da litispendência e (ii) se subsiste ilegalidade na prisão preventiva decretada nos autos nº 0800006-22.2025.8.06.0303, mantida em decisões posteriores.
+III. Razões de decidir:
+3. Embora haja identidade de partes e de pedidos, as causas de pedir não são idênticas, pois o presente habeas corpus funda se em fatos e fundamentos supervenientes, razão pela qual se afasta a litispendência.
+4. O decreto preventivo, bem como as decisões posteriores proferidas nos incidentes nº 0010085-93.2025.8.06.0303 e nº 0010224-85.2025.8.06.0128, revelam motivação suficiente e concreta, amparada em elementos informativos que apontam desvio de recursos públicos superiores a R$ 10 milhões, manipulação de informações, uso de interpostas pessoas e documentos falsos, além de atuação ativa do paciente na execução fraudulenta. Assim, a gravidade concreta das condutas, a sofisticação da empreitada criminosa e o risco de reiteração delitiva e de evasão justificam a medida extrema, nos termos dos arts. 312 e 313 do CPP, não havendo ilegalidade nem desproporcionalidade.
+5. A justificativa de ausência por missão religiosa mostra-se inverossímil, diante dos registros de viagem aérea juntados pela própria defesa, o que reforça o fundamento da aplicação da lei penal e a incidência da Súmula 02 do TJCE.
+6. A contemporaneidade da custódia está preservada, uma vez que o decreto e as decisões de manutenção são recentes e resultam de reavaliação judicial (março e julho de 2025).
+7. As condições pessoais favoráveis do paciente não afastam a prisão cautelar quando presentes fundamentos autônomos, e as medidas do  art. 319 do CPP mostram-se insuficientes diante da gravidade e da reiteração delitiva.
+IV. Dispositivo:
+8. Agravo interno conhecido e parcialmente provido para afastar o reconhecimento da litispendência e, no mérito do habeas corpus, denegar a ordem, mantendo-se a prisão preventiva decretada nos autos nº 0800006-22.2025.8.06.0303, por estarem presentes os requisitos dos arts. 312 e 313 do CPP.
+(...)
+Nas razões do presente recurso, a defesa sustenta a ausência de contemporaneidade e de fundamentação concreta do decreto prisional, em ofensa aos arts. 312 e 315 do Código de Processo Penal - CPP.
+Ressalta as condições pessoais favoráveis do acusado e a possibilidade de aplicação das medidas cautelares alternativas na hipótese dos autos.
+Alega a ocorrência de cerceamento de defesa, pois o decreto prisional teria sido obtido em processo sigiloso e apartado, destacando que os advogados não tiveram acesso aos principais, em afronta ao previsto no enunciado da Súmula Vinculante n. 14.
+Argumenta que o recorrente não se evadiu do distrito da culpa, porquanto apenas teria de deslocado temporariamente em razão de missão religiosa previamente programada.
+Aduz a existência de fraude processual, consistente na ocultação, pelo órgão acusatório, do bilhete de retorno ao Brasil, para sustentar artificialmente o risco de fuga.
+Requer, em liminar e no mérito, o provimento do recurso para que seja revogada a prisão preventiva, com ou sem aplicação de medidas cautelares diversas.
+Liminar indeferida às fls. 336/338.
+Informações prestadas às fls. 344/355 e 356/361.
+O Ministério Público Federal opinou pelo provimento do recurso ordinário em habeas corpus , para que seja substituída a prisão preventiva por medidas cautelares diversas, conforme parecer de fls. 366/373.
+É o relatório.
+Decido.
+Conforme relatado, busca-se, na presente impetração, a revogação da custódia cautelar imposta ao paciente.
+A esse respeito, transcrevo excertos do voto condutor do acórdão recorrido:
+"Adentrando no mérito do mandamus, no que se refere às alegações de ilegalidade do decreto preventivo e ausência dos requisitos da prisão preventiva, conforme já analisado no HC de nº 0626470-06.2025.8.06.0000, verifico que o decreto preventivo foi devidamente lastreado em elementos informativos robustos colhidos no bojo de investigação complexa, que apontam: pagamentos milionários (superiores a R$ 10 milhões, entre 2022 e 2023) vinculados à execução simulada e sem medição efetiva de contratos de limpeza pública; manipulação de informações e uso de “laranjas” e documentos ideologicamente falsos para ocultar a autoria e o destino de valores; e atuação ativa do paciente, inclusive após a alegada transferência societária, como operador de fato da empresa supostamente beneficiada, segundo declarações de corréu e outros elementos do PIC.
+Os referidos dados individualizam o papel atribuído ao paciente, evidenciam gravidade concreta do modus operandi e a necessidade da custódia para garantia da ordem pública e da aplicação da lei penal, atendendo aos arts. 312 e 313 do CPP.
+Além disso, os incidentes processuais nº 0010085 93.2025.8.06.0303 e nº 0010224-85.2025.8.06.0128, ajuizados pela defesa com o propósito específico de pleitear a revogação da prisão preventiva, foram analisados e decididos em 25/07/2025, ocasião em que o juízo de origem reafirmou a suficiência da motivação constante do decreto prisional.
+Nessas decisões, foram novamente reconhecidos a materialidade delitiva e os indícios de autoria (fumus comissi delicti), bem como fundamentado o periculum libertatis na gravidade concreta das condutas, no risco de reiteração delitiva e na ameaça à aplicação da lei penal, mantendo-se, por conseguinte, a necessidade da custódia cautelar.
+Sob o mesmo prisma, entendo que tais fundamentos permanecem hígidos e suficientes para a manutenção da prisão preventiva, pois o quadro probatório revela elevado grau de reprovabilidade das condutas, sofisticação na execução dos ilícitos e potencial de reiteração delitiva, de modo que a liberdade do paciente comprometeria a credibilidade da persecução penal e a efetividade da aplicação da lei penal.
+Assim, não se constata qualquer ilegalidade ou desproporcionalidade a justificar a revogação da medida extrema.
+As supostas condições pessoais favoráveis do paciente não bastam para afastar a prisão preventiva quando presentes fundamentos cautelares autônomos, tais como a garantia da ordem pública e a aplicação da lei penal, diante do risco concreto de evasão e de ocultação, como se verifica no caso em apreço.
+Com efeito, a alegação de que o paciente estaria ausente por participar de missão evangélica itinerante não encontra amparo nos elementos dos autos. A própria prova trazida pela defesa revela contradições insanáveis, uma vez que na decisão proferida no incidente nº 0010224-85.2025.8.06.0128, o juízo de origem destacou a inconsistência entre a narrativa de permanência do paciente em comunidades remotas desde abril de 2024 e os registros de viagem aérea (Belo Horizonte–Fortaleza, em 30/09/2024 e 03/10/2024) juntados pela própria defesa em outro incidente (0010085-93.2025.8.06.0303).
+A incongruência entre os fatos alegados e os documentos apresentados fragiliza a verossimilhança da justificativa defensiva e, somada ao prolongado lapso temporal sem cumprimento dos mandados de prisão - temporária deflagrada em 31/10/2024 e preventiva decretada em março/2025, ainda não executada  - , reforça o fundamento da aplicação da lei penal, consistente na ameaça concreta de evasão, em conformidade com a Súmula 02 do TJCE, que diz: "A ameaça concreta e evidenciada de fuga, bem como a efetiva evasão do distrito da culpa, constituem fundamento para o decreto de prisão provisória, com o fim de assegurar a aplicação da lei penal."
+No que tange à alegação de ausência de contemporaneidade dos fundamentos da custódia, tampouco lhe assiste razão. O decreto prisional, datado de março de 2025, e as decisões subsequentes que mantiveram a prisão em julho do mesmo ano, demonstram que a constrição cautelar foi recentemente reavaliada e considerada necessária à luz . das circunstâncias ainda vigentes Não se trata, portanto, de medida obsoleta ou fundada em fatos pretéritos e superados, mas de providência atual e proporcional, voltada à efetividade da persecução penal, diante de um contexto de fuga prolongada e risco concreto de reiteração delitiva.
+[...]
+Assim, a continuidade do estado de foragido, somada à gravidade concreta dos delitos e ao vultoso prejuízo aos cofres públicos, demonstra a atualidade e a indispensabilidade da prisão preventiva, afastando qualquer alegação de perda de contemporaneidade” (fls. 302/305).
+O Superior Tribunal de Justiça firmou posicionamento segundo o qual, considerando a natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição e manutenção quando evidenciado, de forma fundamentada em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do CPP.
+(...)
+Convém, ainda, ressaltar que, considerando os princípios da presunção da inocência e a excepcionalidade da prisão antecipada, a custódia cautelar somente deve persistir em casos em que não for possível a aplicação de medida cautelar diversa, de que cuida o  art. 319  do CPP.
+No caso dos autos, verifico que a prisão preventiva foi  adequadamente  motivada,  tendo  sido demonstrada pelas instâncias ordinárias, com base em elementos extraídos dos autos, a gravidade concreta da conduta – o paciente, inclusive após a alegada transferência  societária,  supostamente  atuava ativamente como operador de fato da empresa PMG Construções e Locação Ltda, promovendo pagamentos milionários (superiores a R$ 10 milhões, entre 2022 e 2023) vinculados à execução simulada e sem medição efetiva de contratos de limpeza pública, com manipulação de informações e uso de “laranjas”, além de documentos ideologicamente falsos para ocultar a autoria e o destino de valores.
+Ademais, consta dos autos que o paciente encontra-se foragido desde a expedição do mandado de prisão, em março de 2025, até o presente momento e, de acordo com a jurisprudência desta Corte, “a fuga do distrito da culpa constitui fundamento válido para a decretação da prisão preventiva, não havendo que se falar em ausência de contemporaneidade” (HC n.  973.308/PA, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/5/2025, DJEN de 9/5/2025).
+Ressalta-se que o acórdão impugnado concluiu que a alegação de que o paciente estaria ausente por participar de missão evangélica itinerante não encontra amparo nos elementos dos autos e, para rever esse entendimento, seria necessário o revolvimento do conjunto fático-probatório dos autos, providência inviável em sede de habeas corpus.
+Nesse contexto, forçoso concluir que a prisão processual está devidamente fundamentada na garantia da ordem pública e para assegurar a aplicação da lei penal, não havendo falar, portanto, em existência de evidente flagrante ilegalidade capaz de justificar a sua revogação.
+Nesse sentido, cito os seguintes julgados desta Corte:
+(...)
+Cumpre registrar que esta Corte Superior possui entendimento firme no sentido de que a presença de condições pessoais favoráveis do agente não representa óbice, por si só, à decretação da prisão preventiva, quando identificados os requisitos legais da cautela.
+Ademais, o entendimento do Superior Tribunal de Justiça é no sentido de ser inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que providências menos gravosas seriam insuficientes para manutenção da ordem pública.
+A propósito:
+(...)
+Do mesmo modo, não socorre ao paciente a alegação de ausência de contemporaneidade, visto que deve ser analisada sob a ótica dos fundamentos que culminaram na prisão preventiva e não em relação ao tempo do crime.
+Nesse sentido:
+(...)
+Por fim, da atenta leitura do acórdão impugnado, verifica-se que o Tribunal de origem não se manifestou expressamente sobre as teses de violação à Súmula Vinculante n. 14 do STF, pela negativa de acesso da defesa aos autos, e de fraude processual por ocultação de documento pelo órgão acusatório, restando afastada a competência desta Corte Superior para conhecimento das matérias, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido:
+(...)
+Como visto, as instâncias ordinárias demonstraram a necessidade da manutenção da custódia cautelar, destacando-se a gravidade concreta da conduta, porquanto o agravante, inclusive após a alegada transferência societária, supostamente atuava ativamente como operador de fato da empresa PMG Construções e Locação Ltda, promovendo pagamentos milionários - superiores a R$ 10.000.000,00 (dez milhões), entre 2022 e 2023 - vinculados à execução simulada e sem medição efetiva de contratos de limpeza pública, com manipulação de informações e uso de “laranjas”, além de documentos ideologicamente falsos para ocultar a autoria e o destino de valores.
+Ademais, as instâncias ordinárias ressaltaram que o recorrente encontra-se foragido desde a expedição do mandado de prisão, em março de 2025, até o presente momento.
+Nesta situação, não há ofensa à exigência legal de contemporaneidade da prisão, pelo contrário, configura típico cenário de necessidade de acautelar a aplicação  da lei penal. Esta Corte Superior firmou entendimento segundo o qual "quando a fuga constitui um dos fundamentos de cautelaridade, a alegação de ausência de contemporaneidade não tem o condão de revogar a segregação provisória” (AgRg no HC n. 693.128/GO, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 28/9/2021, DJ 4/10/2021).
+Ressalta-se que o Tribunal de origem concluiu que a alegação de que o agravante estaria ausente por participar de missão religiosa itinerante não encontra amparo nos elementos dos autos e, para rever esse entendimento, seria necessário o revolvimento do conjunto fático-probatório dos autos, providência inviável em sede de habeas corpus.
+Nesse contexto, forçoso concluir que a prisão processual está devidamente fundamentada na garantia da ordem pública e para assegurar a aplicação da lei penal, não havendo falar, portanto, em existência de evidente flagrante ilegalidade capaz de justificar a sua revogação ou substituição por cautelar alternativa.
+Reitero, por fim, que o Tribunal de origem não se manifestou expressamente sobre a tese de violação à Súmula Vinculante n. 14 do STF, restando afastada a competência desta Corte Superior para conhecimento da matéria, sob pena de incorrer em indevida supressão de instância.
+Ante o exposto, voto pelo desprovimento do agravo regimental.” (e-doc. 20).
+
+Pelo que há no julgado proferido pelo Superior Tribunal de Justiça, não se vislumbra ilegalidade flagrante, abuso de poder ou teratologia. Ao contrário, o aresto em questão encontra-se suficientemente motivado, restando justificado o convencimento formado.
+Com efeito, o decreto prisional apresenta fundamentos aptos a justificar a constrição processual da liberdade do paciente, uma vez que calcado na garantia da aplicação da lei penal, revelando a necessidade concreta da medida, ante o estado de foragido do paciente, conforme destacado no acórdão supratranscrito.
+Essa compreensão não afronta a jurisprudência da Corte, consolidada no sentido de que
+
+"O fato de o paciente permanecer foragido constitui causa suficiente para caracterizar risco à aplicação da lei penal a autorizar a decretação da preventiva." (HC 271123 AgR, Primeira Turma, Relator o Ministro Flávio Dino, DJe de 28/5/26)
+
+Ademais, como visto, a constrição cautelar do paciente está fundamentada na garantia da ordem pública, tendo em vista a gravidade concreta do crime evidenciada por seu modus operandi.
+Esse entendimento mostra-se harmonizado com a compreensão da Corte, pois
+
+ “(...) mostra-se idôneo o decreto de prisão preventiva quando assentado na garantia da ordem pública, ante a periculosidade do agente, evidenciada não só pela gravidade in concreto do delito, em razão de seu modus operandi, mas também pelo risco real da reiteração delitiva” (HC nº 128.779/SP, Segunda Turma, de minha relatoria, DJe de 5/10/16).
+
+Lado outro, quanto à alegada ausência de contemporaneidade, importa consignar que é remansoso o posicionamento das cortes pátrias no sentido de que "a contemporaneidade da prisão preventiva não está necessariamente ligada à data da prática do crime, mas sim à subsistência da situação de risco que justifica a medida cautelar" (STF, HC 205164 AgR, Rel. Min. Roberto Barroso, DJe 14.12.2021).
+Com essas considerações, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando prejudicado o pedido de liminar.
+Publique-se.
+Brasília, 18 de junho de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
