@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2328, de 17 de junho de 2026
+Altera a Instrução Normativa RFB nº 2.295, de 3 de dezembro de 2025, que dispõe sobre o Programa de Conformidade Cooperativa Fiscal - Confia da Secretaria Especial da Receita Federal do Brasil.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o art. 350, caput, inciso III, do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto na Lei Complementar nº 225, de 8 de janeiro de 2026, e no art. 7º da Lei nº 14.689, de 20 de setembro de 2023, resolve:
