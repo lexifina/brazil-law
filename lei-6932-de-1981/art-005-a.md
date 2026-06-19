@@ -1,0 +1,2 @@
+Art. 5º-A Fica instituído, no âmbito da Comissão Nacional de Residência Médica, o Sistema Nacional de Avaliação da Residência Médica, com a finalidade de melhorar a qualidade dos programas de Residência Médica e direcionar a sua oferta, na forma estabelecida em regulamento.
+Parágrafo único. Ato da Comissão Nacional de Residência Médica disporá sobre os objetivos, os componentes, a governança e a forma de execução do Sistema Nacional de Avaliação da Residência Médica.
