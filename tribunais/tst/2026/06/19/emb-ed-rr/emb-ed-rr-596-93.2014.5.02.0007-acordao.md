@@ -1,0 +1,136 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Superior do Trabalho
+PROCESSO Nº TST-Emb-ED-RR - 596-93.2014.5.02.0007
+A C Ó R D Ã O
+SDI-1
+GMEV/ccf/FR/csn/iz
+JUÍZO DE RETRATAÇÃO. EMBARGOS DE DIVERGÊNCIA.
+EMBARGOS DE DECLARAÇÃO. RECURSO DE REVISTA.
+TERCEIRIZAÇÃO. ADMINISTRAÇÃO PÚBLICA.
+RESPONSABILIDADE SUBSIDIÁRIA. ÔNUS DA PROVA. TEMA
+1.118 DA TABELA DE TABELA DE REPERCUSSÃO GERAL. JUÍZO
+DE RETRATAÇÃO EXERCIDO.
+I. A Turma julgadora afastou a responsabilidade subsidiária da
+Entidade da Administração sob o fundamento de que seria ônus
+do autor a efetiva demonstração da culpa in vigilando do
+tomador, não sendo possível a condenação por mero
+inadimplemento.
+II. Ato contínuo, esta Subseção I Especializada em Dissídios
+Individuais do Tribunal Superior do Trabalho conheceu do
+Recurso de Embargos e, no mérito, deu-lhe provimento para
+restabelecer a decisão proferida pelo Tribunal Regional do
+Trabalho que atribuíra responsabilidade subsidiária à tomadora
+de serviços, por entender que o ônus da prova da fiscalização da
+execução do contrato e do cumprimento das obrigações
+trabalhistas cabe à Administração Pública.
+III. Ocorre que o Supremo Tribunal Federal, ao julgar o Tema de
+Repercussão Geral 1.118 (RE nº 1.298.647-SP), consolidou o
+entendimento de que “não há responsabilidade subsidiária da
+Administração Pública por encargos trabalhistas gerados pelo
+inadimplemento de empresa prestadora de serviços contratada,
+se amparada exclusivamente na premissa da inversão do ônus
+da prova, remanescendo imprescindível a comprovação, pela
+parte autora, da efetiva existência de comportamento
+negligente ou nexo de causalidade entre o dano por ela
+invocado e a conduta comissiva ou omissiva do poder público”.
+IV. Evidenciada a dissonância entre o acórdão emanado da SbDI￾1 do TST, ao proferir tese no sentido de que incumbe à
+Administração Pública (tomadora de serviços), e a tese fixada
+pelo Supremo Tribunal Federal no julgamento do Tema 1.118 da
+Tabela de Repercussão Geral, impõe-se o exercício do juízo de
+retratação para não conhecer do recurso de embargos
+interposto pela parte reclamante.
+V. Juízo de retratação exercido. Embargos não conhecidos.
+Vistos, relatados e discutidos estes autos de Embargos em Embargos de
+Declaração em Recurso de Revista nº TST-Emb-ED-RR - 596-93.2014.5.02.0007, em que é Embargante
+VALDENIR MARQUES DA SILVA e são Embargados EMPRESA DE TECNOLOGIA DA INFORMAÇÃO E
+COMUNICAÇÃO DO MUNICÍPIO DE SÃO PAULO - PRODAM-SP S.A. e GSV SEGURANÇA E VIGILÂNCIA
+LTDA.
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006780714CAC76E43.
+Esta Subseção conheceu dos embargos interpostos pela reclamante e, no mérito,
+deu-lhes provimento para restabelecer a decisão proferida pelo Tribunal Regional do Trabalho que
+atribuíra responsabilidade subsidiária à tomadora de serviços.
+Interposto recurso extraordinário pela 2ª reclamada e diante do trânsito em
+julgado do Tema 1.118 da Tabela de Repercussão Geral, determinou-se o retorno dos autos a esta
+Subseção, para eventual exercício de juízo de retratação, nos termos do art. 1.030, II, do CPC.
+O processo foi atribuído a este Relator, por sucessão, nos termos do art. 108, do
+Regimento Interno do TST.
+É o relatório.
+V O T O
+Examinado o preenchimento dos pressupostos extrínsecos por ocasião do
+julgamento anterior, segue-se no exame dos pressupostos intrínsecos.
+A 6ª Turma do TST deu provimento ao recurso de revista interposto pela EMPRESA
+DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO DO MUNICÍPIO DE SÃO PAULO – PRODAM/SP S.A. e
+excluiu a responsabilidade subsidiária que lhe fora atribuída. Fundamentou ser “a responsabilização
+subjetiva do Estado, na forma da Súmula nº 331, V, do TST, sendo ônus do autor a efetiva demonstração da
+culpa in vigilando do tomador, não sendo possível a condenação por mero inadimplemento” (fl. 352).
+Interpostos embargos de divergência pela parte reclamante, esta Subseção I
+Especializada em Dissídios Individuais conheceu do apelo, por contrariedade à Súmula nº 331, V, do TST,
+e, no mérito, deu-lhe provimento para restabelecer a decisão do Tribunal Regional do Trabalho que
+atribuíra responsabilidade subsidiária à entidade da administração.
+Os fundamentos adotados na decisão sujeita a eventual juízo de retratação foram
+sintetizados na seguinte ementa:
+VIGÊNCIA DA LEI 13.015/2014. RESPONSABILIDADE SUBSIDIÁRIA. TEMA 246. ENTE DA
+ADMINISTRAÇÃO PÚBLICA. LEI 8.666/1993. SÚMULA 331, ITEM V, DESTA CORTE. ÔNUS DA PROVA. A
+controvérsia reside em se saber a quem incumbe o ônus da prova da fiscalização do contrato e da
+configuração da conduta culposa, para fins de atribuição de responsabilidade subsidiária a ente da
+Administração Pública pelas obrigações trabalhistas da prestadora de serviços. O Supremo Tribunal
+Federal, no julgamento da ADC 16 e do RE 760.931, em que fixou tese de repercussão geral (Tema
+246), explicitou que a atribuição de responsabilidade subsidiária a ente da Administração Pública
+não é automática e depende de prova efetiva de sua conduta culposa quanto à fiscalização do
+contrato de prestação de serviços. A SDI-1 desta Corte, por sua vez, no julgamento do processo E-RR￾925-07.2016.5.05.0281 (Rel. Min. Cláudio Mascarenhas Brandão, DEJT-22/5/2020), concluiu que o STF,
+no precedente de repercussão geral, não apreciou a questão concernente ao ônus da prova, por se
+tratar de matéria de natureza infraconstitucional. Logo, considerando que a fiscalização do contrato
+celebrado com a empresa prestadora de serviços pelo ente da Administração Pública contratante é
+imposição de lei e considerando o princípio da aptidão para a prova, a SDI-1 fixou a tese de que
+incumbe à reclamada tomadora dos serviços o ônus da prova da efetiva fiscalização do contrato de
+prestação de serviços. Assim, merece reforma a decisão embargada que atribuiu ao reclamante o
+ônus da prova da efetiva fiscalização do contrato de prestação de serviços. Ressalvado o
+entendimento pessoal do relator. Recurso de Embargos de que se conhece e a que se dá
+provimento. (fls. 456-457)
+Ao exame.
+O Plenário do Supremo Tribunal Federal, na oportunidade do julgamento do
+recurso extraordinário nº 760.931, submetido ao regime de repercussão geral, fixou a seguinte tese no
+Tema 246 da Tabela de Repercussão Geral:
+O inadimplemento dos encargos trabalhistas dos empregados do contratado não transfere
+automaticamente ao Poder Público contratante a responsabilidade pelo seu pagamento, seja em
+caráter solidário ou subsidiário, nos termos do art. 71, § 1º, da Lei nº 8.666/93 (Tema 246, leading
+case: RE-760.931, julgado em 26/4/2017 e publicado no DJe-206 de 12/9/2017).
+Na ocasião, refirmou-se a decisão vinculante proferida no julgamento da Ação
+Declaratória de Constitucionalidade nº 16, em 24/11/2010, na qual o Supremo Tribunal Federal declarou
+a conformidade do art. 71, § 1º, da Lei nº 8.666/1993 com a Constituição da República e condicionou a
+condenação subsidiária à comprovação de que a Administração Pública não cumpriu ou falhou em
+cumprir com suas obrigações contratuais, em especial quanto ao dever de fiscalizar o atendimento por
+parte da empresa vencedora da licitação das obrigações trabalhistas que assumiu. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006780714CAC76E43.
+Sucede, todavia, que a Subseção I Especializada em Dissídios Individuais (SbDI-1)
+do Tribunal Superior do Trabalho, ao julgar o E-RR-925-07.2016.5.05.0281, partiu da premissa de que o
+STF, no Tema 246, não abordou as regras de distribuição do ônus da prova, por se tratar de matéria
+infraconstitucional. Por essa razão, assentou que caberia ao Ente Público o encargo de demonstrar o
+cumprimento das obrigações legais relativas à fiscalização dos contratos de prestação de serviços.
+Diante de uma multiplicidade de recursos extraordinários versando sobre a
+questão da transferência do ônus da prova à Administração Pública, o STF afetou a matéria ao Tema
+1.118, tendo como leading case o RE nº 1.298.647-SP.
+O julgamento do mérito do Tema 1.118 foi concluído pelo Plenário do STF em 13
+de fevereiro de 2025, ocasião em que fixada, por maioria, a seguinte tese:
+1. Não há responsabilidade subsidiária da administração pública por encargos trabalhistas
+gerados pelo inadimplemento de empresa prestadora de serviços contratada, se amparada
+exclusivamente na premissa da inversão do ônus da prova, remanescendo imprescindível a
+comprovação, pela parte autora, da efetiva existência de comportamento negligente ou nexo de
+causalidade entre o dano por ela invocado e aconduta comissiva ou omissiva do poder público.
+Como se verifica, o acórdão emanado da SbDI-1 do TST, ao proferir tese no
+sentido de que incumbe à Administração Pública (tomadora de serviços) o ônus da prova da efetiva
+fiscalização do contrato, destoa da tese de natureza vinculante firmada pelo Supremo Tribunal Federal
+no Tema 1.118 da Tabela de Repercussão Geral, razão pela qual se impõe o exercício do juízo de
+retratação.
+Diante do exposto, cabe exercer o juízo de retratação, na forma do disposto no
+artigo 1.030, II, do CPC, e não conhecer do recurso de embargos.
+ISTO POSTO
+ACORDAM os Ministros da Subseção I Especializada em Dissídios Individuais do
+Tribunal Superior do Trabalho, por unanimidade, na forma do disposto no artigo 1.030, II, do CPC,
+exercer o juízo de retratação e não conhecer do recurso de embargos.
+Brasília, 17 de junho de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+EVANDRO VALADÃO
+Ministro Relator
+Firmado por assinatura digital em 22/06/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006780714CAC76E43.
