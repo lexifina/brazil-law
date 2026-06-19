@@ -1,0 +1,1 @@
+Art. 4º-A O piso salarial profissional nacional para os profissionais do magistério público da educação básica terá como fontes de financiamento, sem prejuízo de outras, aquelas previstas nos incisos I e II e nas alíneas "a" e "b" do inciso V do caput do art. 212-A da Constituição Federal, observadas as vinculações mínimas de que trata o inciso XI do caput do referido artigo.
