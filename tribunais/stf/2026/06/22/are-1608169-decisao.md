@@ -1,0 +1,83 @@
+DECISÃO
+
+Timac Agro Indústria e Comércia de Fertilizantes S.A. interpusera, inicialmente, com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, recurso extraordinário (eDoc 141) contra acórdão do Tribunal do Tribunal de Justiça do Estado de Alagoas, cuja ementa se encontra redigida nos seguintes termos (eDoc 132):
+
+APELAÇÃO CÍVEL. DIREITO AMBIENTAL. AÇÃOANULATÓRIA COM PEDIDO DE TUTELA PROVISÓRIA DEURGÊNCIA. SENTENÇA CONFIRMADA NO JULGAMENTODOS EMBARGOS DE DECLARAÇÃO QUE AO REVOGAR ALIMINAR CONCEDIDA, JULGOU IMPROCEDENTES OS PEDIDOS FORMULADOS PELO AUTOR. FISCALIZAÇÃOAMBIENTAL EM ÁREA DE PRESERVAÇÃO PERMANENTE. AUTO DE INFRAÇÃO LAVRADO, COM BASE NO LAUDOTÉCNICO Nº 024/2016, ANTE A CONSTATAÇÃO DO DEVERDA EMPRESA AUTORA DAR DESTINAÇÃO AMBIENTALADEQUADA E DEVIDA SEGREGAÇÃO DE EMBALAGENS QUANDO ASSIM DETERMINAR A LEI OU ATONORMATIVO. FIXADO MULTA NO VALOR DE R$ 257.744,42 (DUZENTOS E CINQUENTA E SETE MIL, SETECENTOS EQUARENTA E QUATRO REAIS E QUARENTA E DOIS CENTAVOS). HOMOLOGAÇÃO DO AUTO DE INFRAÇÃOAPÓS DEFESA ADMINISTRATIVA EM PRIMEIRAINSTÂNCIA, QUE AO AFASTAR A AGRAVANTE INSERIDANO ART. 33, INCISO II, ALÍNEA "C', DA LEI Nº 6.787/06, REDUZIU A MULTA PARA R$ 28.108,96 (VINTE E OITO MIL, CENTO E OITO REAIS E NOVENTA E SEIS CENTAVOS), AFIM DE LIBERAR A LICENÇA AMBIENTAL, ASSIM COMOIMPOSTO A OBRIGAÇÃO DA AUTUADA/AUTORA PROPORMEDIDAS PARA CESSAR O DANO AMBIENTALAPRESENTADO NO PROJETO DE RECUPERAÇÃO DEÁREA DEGRADADA (PRAD) EM ATÉ SESSENTA DIAS. RECURSO NA ESFERA ADMINISTRATIVA ENDEREÇADOA COMISSÃO DE ANÁLISE DE RECURSOS, SEGUNDAINSTÂNCIA DO IMA/AL, RESTABELECEU A MULTAAPLICADA QUANDO DA AUTUAÇÃO, POR CONSIDERARINDÚSTRIA QUÍMICA INSTALADA EM ÁREA DE PRESERVAÇÃO AMBIENTAL (APA) E ÁREA DEPRESERVAÇÃO PERMANENTE (APP) - RIO MUNDAÚ -, SEM ADEQUAÇÃO FINAL DOS RESÍDUOS SÓLIDOS GERADOS, RATIFICADA PELO CONSELHO ESTADUAL DEPROTEÇÃO AMBIENTAL DO ESTADO DE ALAGOAS - CEPRAM/AL, TERCEIRA INSTÂNCIA ADMINISTRATIVA. RESPONSABILIDADE CIVIL POR DANO AMBIENTAL ÉOBJETIVA, FUNDADA NO RISCO INTEGRAL. PRINCÍPIODO POLUIDOR, PREDADOR, PAGADOR OU DARESPONSABILIDADE. CAPUT DO ARTIGO 225 DACONSTITUIÇÃO FEDERAL CONSAGRA O DIREITO AOMEIO AMBIENTE ECOLOGICAMENTE EQUILIBRADO: ACONSAGRAÇÃO CONSTITUCIONAL DE UM TÍPICODIREITO DE TERCEIRA GERAÇÃO (= RE 134.297 SP). ART. 14, DA LEI 6.938/81, RECEPCIONADO PELACONSTITUIÇÃO FEDERAL DE 1988, AO PREVER ARESPONSABILIDADE OBJETIVA PELOS DANOS CAUSADOS AO MEIO AMBIENTE, SEM EXIGÊNCIA DEQUALQUER ELEMENTO SUBJETIVO PARACONFIGURAÇÃO DA RESPONSABILIDADE CIVIL. POSSIBILIDADE DA ADMINISTRAÇÃO PÚBLICA, NA FASEDE RECURSO, ANULAR, MODIFICAR OU EXTINGUIR OS ATOS ADMINISTRATIVOS EM RAZÃO DA LEGALIDADE, CONVENIÊNCIA E OPORTUNIDADE, NÃO HAVENDOFALAR EM REFORMATIO IN PEJUS NO ÂMBITOADMINISTRATIVO. ENTENDIMENTO DO SUPREMOTRIBUNAL FEDERAL. RECURSO PARCIALMENTECONHECIDO E NÃO PROVIDO. JURISPRUDÊNCIA. DECISÃO UNÂNIME.
+
+Opostos embargos de declaração, foram rejeitados (eDoc 139):
+
+Nas razões do extraordinário, o recorrente alegara violação ao arts. 5º, II e LV; 37; e 84, IV e § 1º; todos da Constituição da República. Para melhor compreensão dos argumentos encampados na peça recursal, transcreve-se o seguinte trecho (eDoc 141, fls. 3, 12, 13):
+
+A aqui recorrente Timac Agro Indústria e Comércio de Fertilizantes Ltda. ajuizou a presente Ação Anulatória do Auto de Infração nº 2248, Série A, Talão 0045, bem como do Processo Administrativo 2103/2016, relatando que, em 24 de fevereiro de 2016 foi autuada por, supostamente, ter deixado de “dar destinação ambientalmente adequada e devida segregação de embalagens, resíduos ou substância, quando assim determinar a lei ou o ato normativo”, sob a fundamentação legal do artigo 27, incisos I, II e III, artigo 29, inciso II, artigo 30 inciso II, artigo 32, inciso II e artigo 33, inciso II, alínea “c”, todos da Lei Estadual nº 6.787/06, imputando à autora a multa de R$ 257.744,42 (duzentos e cinquenta e sete mil setecentos e quarenta e quatro reais e quarenta e dois centavos).
+[...]
+ A decisão recorrida conclui que não há na autuação administrativa qualquer ilegalidade, irrazoabilidade ou desproporcionalidade que macule a sua validade e exija a intervenção judicial.
+Ocorre que o laudo técnico que dá azo ao auto de infração e foi o fundamento da penalidade administrativa imposta à recorrente foi elaborado após a constatação da infração.
+Com efeito, conforme se verificou junto ao órgão réu, o Laudo Técnico referido na sentença nº 024/2016 é datado de 09 de março de 2016, ou seja, posterior a autuação da empresa, ocorrido em 24 de fevereiro de 2016. Em igual sentido, o Laudo Técnico nº 023/2016 também é posterior, pois datado de 03 de março de 2016. Isso não é esclarecido no v. acórdão e é relevante, pois demonstra que o auto de infração não tinha base que o justificasse.
+E isso ganha mais importância quando foi asseverado pela empresa autora que ela diligenciou junto ao órgão até o dia da apresentação de sua defesa, sendo que o referido Laudo Técnico não foi disponibilizado, mesmo datado de meados de março de 2016.
+Assim sendo, a defesa foi apresentada sem que o processo tivesse sequer sido montado, sem que tivesse sido oportunizado o acesso aos documentos e Laudo Técnico que fundamentaram a penalidade imposta, o que por óbvio prejudicou o seu direito de defesa. E acarreta a nulidade integral do procedimento administrativo.
+[...]
+Flagrante a afronta ao direito de ampla defesa e contraditório da autora no curso do processo administrativo em referência. Esses princípios são constitucionalmente resguardados, consoante o disposto no artigo 5º, Inciso LV, da Carta Magna:
+[...]
+É consabido que a penalidade administrativa porventura aplicada para ser considerada proporcional, segundo o qual o valor constitucional dos preceitos relativos aos direitos fundamentais, exige que a eventual restrição seja adequada e justificada pela necessidade de proteger ou promover bem constitucionalmente valioso e só na proporção dessa necessidade.
+Em virtude do princípio da proporcionalidade, o sistema jurídico protege os direitos fundamentais contra o Poder Público, mediante a invalidação jurídica dos atos administrativos inadequados, desnecessários e/ou desproporcionais em sentido estrito.
+[...]
+Nesse contexto, percebe-se que as decisões proferidas no processo administrativo foram desproporcionais, na medida em que não foram demonstrados os atos praticados pela autora, tampouco o dano que eles causaram, não podendo ser aplicada a excessiva penalidade imposta, sem antes adverti-la e sem demonstrar no que consiste o impacto ou dano ambiental que a sua conduta tenha ensejado, tendo, portanto, gerado a violação aos princípios da razoabilidade e proporcionalidade, consagrados nos artigos 37, 5º, II e 84, IV, da Constituição Federal, no art. 2º da Lei n.º 9.784/1999 que regula o procedimento administrativo no âmbito federal e, ato contínuo, violam as normas basilares do regime jurídico administrativo sancionador, quanto a possibilidade da vedação da “reformatio in pejus” que foi indevidamente ignorada no processo administrativo que, ao fim e ao cabo, impôs à recorrente uma decisão recursal administrativa que agrava a situação da autora sem qualquer impulso oficial ou voluntário da autoridade pública, ante a ausência de motivação e também pelo fato de que não fora facultado à parte se manifestar e apresentar defesa sobre o ponto que ocasionou a majoração da multa, ante indevida aplicação da agravante em grau recursal administrativo.
+
+Em decisão da admissibilidade, a Presidência do Tribunal de Justiça negou seguimento à parte do recurso extraordinário atinente à alegada ofensa ao inciso LV do art. 5º com base no Tema nº 660/RG; no mais, inadmitiu-o com fundamento na observada natureza infraconstitucional da controvérsia e na incidência do óbice do enunciado nº 279 da Súmula do Supremo. Do ato decisório colhe-se o seguinte excerto (eDoc 174, fls. 2 e 3):
+
+12. Observa-se que a matéria em apreço foi submetida ao regime da repercussão geral sob o Tema 660, oportunidade em que o excelso Supremo Tribunal Federal se manifestou no sentido de que "a questão da ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites à coisa julgada, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009".
+13. Diante desse cenário, impõe-se a observância do disposto no art. 1.030, I, 'a', do Código de Processo Civil, segundo o qual deve ser negado seguimento ao "recurso extraordinário que discuta questão constitucional à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral".
+[...]
+15. No que concerne à alegação de que o acórdão objurgado violou os artigos 5º, II, 37 e 84, IV, da Constituição Federal, pois não obedeceu aos princípios da proporcionalidade e razoabilidade, observa-se que o órgão colegiado dirimiu a controvérsia a partir do exame da legislação infraconstitucional e dos elementos de provas contidos nos autos, de modo que eventual ofensa à Constituição Federal somente ocorreria de maneira reflexa, o que não é suficiente para autorizar o processamento do recurso extraordinário.
+[...]
+16. Ademais, aferir a ocorrência da violação alegada depende do reexame de fatos e provas, o que é expressamente vedado pelo enunciado sumular nº 279 do Supremo Tribunal Federal, segundo o qual "para simples reexame de prova não cabe recurso extraordinário".
+Irresignado com a decisão de inadmissibilidade, Timac Agro Indústria e Comércia de Fertilizantes S.A. interpusera agravo em recurso extraordinário, nos termos do art. 1.042 do Código de Processo Civil. Os argumentos utilizados pelo agravante podem ser extraídos a partir do trecho reproduzido a seguir (eDoc 180, fl. 10):
+
+Como se observa, é irrelevante o exame de quaisquer normas infraconstitucionais apra o deslinde da controvérsia. Em verdade, o que se busca é a observância aos princípios da razoabilidade e da proporcionalidade positivados nos artigos 5º, II, 37 e 84, IV, da Constituição Federal.
+Por fim, impende destacar que a análise da violação aos artgos supramencionados não enseja o reexame dos fatos e fundamentos aduzidos na fase de conhecimento. Ao contrário, para o deslinde da controvérsia é necessário apenas o exame acerca da proporcionalidade da penalidade imposta à recorrente, conquanto não tenha sido sequer comprovada a incidência.
+
+É o relatório. Decido.
+
+Por meio do agravo interposto, o recorrente logrou impugnar os fundamentos de que se valeu a Vice-Presidência do Tribunal de origem para inadmitir a parte do apelo extremo submetida ao conhecimento desta Corte.
+
+Entretanto, verifico, desde logo, que a abertura da instância extraordinária, no presente caso, não se revela viável, mormente porque o recorrente não se desincumbiu do ônus de demonstrar a existência de repercussão geral, nos termos do que determina o § 2º do art. 1.035 do Código de Processo Civil.
+
+Argumentações genéricas que não demonstrem, no caso específico, questões relevantes do ponto de vista econômico, político, social ou jurídico, a transcender os interesses dos sujeitos processuais, desatendem à exigência prevista no art. 102, § 3º da Constituição Federal, c/c o art. 1.035, §§ 1º e 2º, do Código de Processo Civil.
+
+Transcrevo, a fim de demonstrar a mencionada insuficiência de fundamentação, os seguintes trechos do recurso extraordinário (eDoc 317, fls. 3-4):
+
+II – B) DA REPERCUSSÃO GERAL
+Prevê o artigo 1.035 do Código de Processo Civil o procedimento e as hipóteses de aplicação da repercussão geral para o processamento do recurso extraordinário, devendo a recorrente demonstrar a repercussão geral da matéria em debate a fim de possibilitar o seu julgamento por esta Corte
+No caso concreto, a recorrente se insurge contra acórdão que viola princípios da legalidade, da razoabilidade e da proporcionalidade, consagrados nos artigos 5º inciso II, 37, 5º, II e 84, IV, da Constituição Federal, bem como ao exercício da ampla defesa e do contraditório da autora, consoante o disposto no artigo 5º, Inciso LV, da Carta Magna:
+A repercussão geral consiste no fato de que o objeto da decisão que se busca reforma não atinge apenas a recorrente, mas todos os demais autuados na esfera administrativa com a imposição de penalidades sem respeito ao devido processo legal, resguardo do exercício da ampla defesa e do contraditório e que são vítimas da sanha arrecadatória do ente público com a imposição de penalidades desproporcionais e irrazoáveis durante o trâmite de processo administrativo sancionador.
+Logo, as irresignações da parte recorrente ultrapassam seus interesses subjetivos, de modo que a decisão a ser proferida não estará vinculada apenas a direito individual seu. Assim sendo, a decisão a ser proferida por este Pretório Excelso causa relevante impacto jurídico, econômico e social na medida em que extravasa os limites subjetivos do processo e atinge os milhares de litigantes em ações semelhantes.
+Portanto, inegável a ocorrência de repercussão jurídica, social e econômica, tendo em vista os efeitos financeiros e a segurança jurídica que se busca com o julgamento da matéria..
+
+O atendimento de tal exigência se faz necessário até mesmo naquelas hipóteses de suposta repercussão geral presumida. Para ilustrar, cito o precedente do ARE 1.102.846 AgR, Rel. Min. Edson Fachin:
+
+AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 13.4.2018. PREVIDENCIÁRIO. APOSENTADORIA POR IDADE. PRELIMINAR DE REPERCUSSÃO GERAL. AUSÊNCIA.
+1. Nos termos da orientação firmada nesta Corte, cabe ao recorrente demonstrar de maneira formal e fundamentada a existência de repercussão geral da matéria constitucional em debate no recurso extraordinário, o que não ocorreu no caso em exame. Mesmo em caso de repercussão geral presumida ou reconhecida em outro recurso, é ônus do recorrente a demonstração da existência desse requisito.
+2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC.
+
+Ademais, a mera afirmação de que o julgado recorrido viola determinados preceitos constitucionais ou de que diverge da jurisprudência da Suprema Corte não satisfaz o requisito. Nesse sentido, o precedente do RE 640.385 AgR, Rel. Min. Ricardo Lewandowski:
+
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRELIMINAR DE REPERCUSSÃO GERAL DAS QUESTÕES CONSTITUCIONAIS. DEFICIÊNCIA. RECURSO QUE NÃO SE VOLTA CONTRA O ATO AGRAVADO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+I – Preliminar de repercussão geral das questões constitucionais, que não restou demonstrada nas razões do recurso extraordinário. Não conhecimento.
+II - É ônus da parte recorrente a demonstração formal e fundamentada de repercussão geral da matéria constitucional versada no recurso extraordinário, com indicação específica das circunstâncias reais que evidenciem, no caso concreto, a relevância econômica, política, social ou jurídica.
+III - Não bastam, portanto, para que seja atendido o requisito previsto no art. 102, § 3º, da CF e no art. 543-A, § 2º, do CPC, alegações genéricas a respeito do instituto, como a mera afirmação de que: (a) a matéria controvertida tem repercussão geral; (b) o tema goza de importância econômica, política, social ou jurídica; (c) a questão ultrapassa os interesses subjetivos da parte ou tem manifesto potencial de repetitividade; (d) a repercussão geral é consequência inevitável de suposta violação de dispositivo constitucional; ou, ainda, (e) a jurisprudência desta Corte é pacífica quanto ao tema discutido. Precedentes: ARE 691.595-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma; ARE 696.263-AgR, Rel. Min. Luiz Fux, Primeira Turma.
+IV – Recurso que não se volta contra todos os fundamentos autônomos e suficientes à manutenção do ato impugnado. Incidência da Súmula 284/STF.
+V - Agravo regimental a que se nega provimento.
+
+Diante do exposto, conheço do agravo, mas a ele nego provimento.
+
+Advirto que o manejo de recurso manifestamente inadmissível, improcedente ou protelatório causa embaraço à tramitação dos feitos, sendo incompatível com o dever de boa-fé processual (CPC, art. 5º). Tal circunstância, inclusive, para além de autorizar, recomenda ao Poder Judiciário a aplicação de multa, nos termos dos arts. 1.021, § 4º, e 1.026, §§ 2º e 3º, ambos do Código de Processo Civil.
+
+Nos termos do § 11 do art. 85 do Código de Processo Civil, majoro em mais 10% a verba honorária anteriormente fixada, observados os limites previstos nos §§ 2º e 3º.
+
+Publique-se.
+
+Brasília, 22 de junho de 2026.
+
+Ministro NUNES MARQUES
+Relator
+Documento assinado digitalmente
