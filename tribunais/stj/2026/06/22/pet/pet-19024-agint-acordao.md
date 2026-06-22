@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/06/2026 a 22/06/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Luís Carlos Gambogi (Desembargador Convocado do TJMG) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+Direito do consumidor. Agravo interno. Plano de saúde. Medicamento de uso domiciliar. Tutela recursal PARA ATRIBUIÇÃO DE efeito suspensivo ativo. Ausência de fumus boni iuris. Agravo interno desprovido.
+I. Caso em exame
+1. Agravo interno contra decisão que indeferiu a tutela recursal para atribuir efeito suspensivo ativo a recurso especial, em demanda que discute obrigação de operadora de plano de saúde de custear medicamento prescrito  Repatha (Evolocumabe) 140 mg  a paciente idosa com insuficiência cardíaca, doença renal crônica e histórico de infarto agudo do miocárdio, para prevenção de novo evento cardiovascular, classificada como de risco cardiovascular muito alto.
+2. O acórdão recorrido julgou improcedente a demanda por se tratar de medicamento de uso domiciliar não previsto no rol da ANS, aplicando o art. 10, VI, da Lei n. 9.656/1998 e o art. 17, parágrafo único, VI, da RN n. 465/2021, e afastando o enquadramento nas exceções dos incisos IX e X do art. 18 da RN n. 465/2021.
+3. Alegação de vigência do art. 10, § 13, da Lei n. 9.656/1998 (Lei n. 14.454/2022), natureza exemplificativa do rol da ANS, existência de 12 Notas Técnicas do NATJUS, registro do fármaco na ANVISA, risco de dano irreversível e distinguishing dos precedentes indicados.
+II. Questão em discussão
+2. A questão em discussão consiste em verificar se estão presentes, em sede de cognição sumária, os requisitos cumulativos da tutela de urgência para concessão de efeito suspensivo ativo ao recurso especial, diante da negativa de cobertura de medicamento de uso domiciliar, à luz do art. 10, VI, da Lei n. 9.656/1998, do art. 17, parágrafo único, VI, e do art. 18, IX e X, da RN n. 465/2021, bem como da superveniência do art. 10, § 13, da Lei n. 9.656/1998.
+III. Razões de decidir
+3. A tutela de urgência, em sede recursal, exige demonstração cumulativa da probabilidade do direito e do perigo de dano; em cognição sumária, não se evidenciou a probabilidade do direito, pois a controvérsia foi decidida conforme o art. 10, VI, da Lei n. 9.656/1998, e o art. 17, parágrafo único, VI, da RN n. 465/2021, que excluem da cobertura obrigatória medicamentos para tratamento domiciliar, não demonstradas as exceções dos incisos IX e X do art. 18 da RN n. 465/2021.
+5. A referência a Notas Técnicas do NATJUS e o registro do fármaco na ANVISA não são suficientes, em sede de tutela recursal incidental, para alterar o regime jurídico de exclusão do custeio de medicamento domiciliar sem comprovação do atendimento às exceções legais e regulamentares.
+6. A aplicação da tese firmada nos precedentes desta Corte Superior para casos de medicamentos de uso domiciliar não inseridos nas exceções é adequada ao objeto da demanda; não há distinguishing apto a afastar o entendimento consolidado.
+IV. Dispositivo e tese
+6. Resultado do Julgamento: Agravo interno desprovido.
+Tese de julgamento:
+Dispositivos relevantes citados:Lei n. 9.656/1998, art. 10, VI; Lei n. 9.656/1998, art. 10, § 13; RN ANS n. 465/2021, art. 17, parágrafo único, VI; RN ANS n. 465/2021, art. 18, IX e X
+Jurisprudência relevante citada:STJ, REsp n. 2.135.832/PE; STJ, AgInt nos EREsp n. 2.208.332/RJ, Rel. Ministra Isabel Gallotti, Segunda Seção, julgado em 11.02.2026, DJEN de 18.02.2026
+RELATÓRIO
+Trata-se de agravo interno interposto por MARIA JOSÉ DE SOUZA RIBEIRO contra a decisão de fls. 189-191, que indeferiu a tutela recursal para atribuir efeito suspensivo ativo ao recurso, por ausência de fumus boni iuris. A conclusão deriva da aplicação do art. 10, inciso VI, da Lei n. 9.656/1998 e do art. 17, parágrafo único, VI da Resolução Normativa n. 465/2021, com destaque de que o medicamente de uso domiciliar não se enquadra nas exceções dos incisos IX e X do art. 18 da mesma Resolução Normativa. A decisão alinhou-se a precedentes desta Corte Superior, notadamente o REsp n. 2.135.832/PE e o AgInt nos EREsp n. 2.208.332/RJ.
+A agravante alega que houve negativa de vigência ao art. 10, § 13 da Lei n. 9.656/1998 (incluído pela Lei n. 14.454/2022), que teria restabelecido o caráter exemplificativo do rol da ANS e fixado critérios objetivos para cobertura de tratamentos fora do rol.
+Sustenta que a decisão agravada desconsiderou 12 Notas Técnicas do NATJUS, que reconhecem a imprescindibilidade do Repatha (Evolocumabe) no caso concreto, configurando violação ao dever de fundamentação qualificada e impondo o distinguishing do precedente invocado.
+Afirma que o precedente citado (REsp n. 2.135.832/PE) seria inaplicável, porque fundado em premissas fáticas diversas - inexistência de prova técnica oficial e ausência de risco vital -, o que exigiria distinção com base na excep cionalidade clínica comprovada.
+Aduz que o medicamento possui registro na ANVISA e indicação em bula, atendendo aos requisitos do art. 10, § 13, I e II, da Lei n. 9.656/1998.
+Pontua a presença do periculum in mora qualificado, diante do risco de morte e da irreversibilidade do dano biológico, destacando que a tutela é reversível no plano patrimonial.
+Requer a reconsideração da decisão e, caso não acolhida, a submissão do agravo interno ao colegiado.
+É o relatório.
+EMENTA
+Direito do consumidor. Agravo interno. Plano de saúde. Medicamento de uso domiciliar. Tutela recursal PARA ATRIBUIÇÃO DE efeito suspensivo ativo. Ausência de fumus boni iuris. Agravo interno desprovido.
+I. Caso em exame
+1. Agravo interno contra decisão que indeferiu a tutela recursal para atribuir efeito suspensivo ativo a recurso especial, em demanda que discute obrigação de operadora de plano de saúde de custear medicamento prescrito  Repatha (Evolocumabe) 140 mg  a paciente idosa com insuficiência cardíaca, doença renal crônica e histórico de infarto agudo do miocárdio, para prevenção de novo evento cardiovascular, classificada como de risco cardiovascular muito alto.
+2. O acórdão recorrido julgou improcedente a demanda por se tratar de medicamento de uso domiciliar não previsto no rol da ANS, aplicando o art. 10, VI, da Lei n. 9.656/1998 e o art. 17, parágrafo único, VI, da RN n. 465/2021, e afastando o enquadramento nas exceções dos incisos IX e X do art. 18 da RN n. 465/2021.
+3. Alegação de vigência do art. 10, § 13, da Lei n. 9.656/1998 (Lei n. 14.454/2022), natureza exemplificativa do rol da ANS, existência de 12 Notas Técnicas do NATJUS, registro do fármaco na ANVISA, risco de dano irreversível e distinguishing dos precedentes indicados.
+II. Questão em discussão
+2. A questão em discussão consiste em verificar se estão presentes, em sede de cognição sumária, os requisitos cumulativos da tutela de urgência para concessão de efeito suspensivo ativo ao recurso especial, diante da negativa de cobertura de medicamento de uso domiciliar, à luz do art. 10, VI, da Lei n. 9.656/1998, do art. 17, parágrafo único, VI, e do art. 18, IX e X, da RN n. 465/2021, bem como da superveniência do art. 10, § 13, da Lei n. 9.656/1998.
+III. Razões de decidir
+3. A tutela de urgência, em sede recursal, exige demonstração cumulativa da probabilidade do direito e do perigo de dano; em cognição sumária, não se evidenciou a probabilidade do direito, pois a controvérsia foi decidida conforme o art. 10, VI, da Lei n. 9.656/1998, e o art. 17, parágrafo único, VI, da RN n. 465/2021, que excluem da cobertura obrigatória medicamentos para tratamento domiciliar, não demonstradas as exceções dos incisos IX e X do art. 18 da RN n. 465/2021.
+5. A referência a Notas Técnicas do NATJUS e o registro do fármaco na ANVISA não são suficientes, em sede de tutela recursal incidental, para alterar o regime jurídico de exclusão do custeio de medicamento domiciliar sem comprovação do atendimento às exceções legais e regulamentares.
+6. A aplicação da tese firmada nos precedentes desta Corte Superior para casos de medicamentos de uso domiciliar não inseridos nas exceções é adequada ao objeto da demanda; não há distinguishing apto a afastar o entendimento consolidado.
+IV. Dispositivo e tese
+6. Resultado do Julgamento: Agravo interno desprovido.
+Tese de julgamento:
+1. A concessão de efeito suspensivo ativo ao recurso especial exige a demonstração da probabilidade do direito, inexistente quando o acórdão recorrido se encontra em consonância com o art. 10, VI, da Lei n. 9.656/1998, com a RN n. 465/2021 e com a jurisprudência consolidada do STJ.
+Dispositivos relevantes citados:Lei n. 9.656/1998, art. 10, VI; Lei n. 9.656/1998, art. 10, § 13; RN ANS n. 465/2021, art. 17, parágrafo único, VI; RN ANS n. 465/2021, art. 18, IX e X
+Jurisprudência relevante citada:STJ, REsp n. 2.135.832/PE; STJ, AgInt nos EREsp n. 2.208.332/RJ, Rel. Ministra Isabel Gallotti, Segunda Seção, julgado em 11.02.2026, DJEN de 18.02.2026
+VOTO
+A controvérsia diz respeito à obrigação de operadora de plano de saúde de custear o medicamento prescrito - Repatha (Evolocumabe) 140 mg -, a idosa portadora de insuficiência cardíaca, doença renal crônica e histórico de infarto agudo do miocárdio, prescrito por médico assistente para prevenção de novo evento cardiovascular, sendo classificada como paciente de risco cardiovascular muito alto.
+Na sentença, o Juízo de primeiro grau julgou procedente o pedido.
+A Corte a quo reformou o julgado para julgar improcedente a demanda, por se tratar de medicamento de uso domiciliar não previsto no rol da ANS.
+Sobreveio recurso especial, em que a recorrente alegou violação ao art. 10, § 13 da Lei n. 9.656/1998 e dissídio quanto à natureza exemplificativa do rol e à abusividade da negativa de cobertura.
+A decisão agravada indeferiu o pleito de tutela antecipada recursal para atribuir efeito suspensivo ativo ao recurso especial, por não vislumbrar o requisito do fumus boni iuris, visto que o acórdão recorrido decidiu na esteira da jurisprudência desta Corte Superior.
+Nas razões do agravo interno, sustenta que a decisão agravada ignorou a vigência da Lei n. 14.454/2022 (art. 10, § 3º), desconsiderou 12 Notas Técnicas do NATJUS e aplicou, sem distinção, precedente supostamente inapto ao caso. Afirma, ainda, o registro do fármaco na ANVISA e o risco de dano irreversível.
+Conforme consta na decisão agravada, a tutela de urgência exige a demonstração cumulativa da probabilidade do direito e do perigo de dano. Em juízo preliminar, foi afastada a plausibilidade do direito, porque a controvérsia foi decidida à luz do art. 10, VI, da Lei n. 9.656/1998, e do art. 17, parágrafo único, VI, da RN n. 465/2021, que excluem da cobertura obrigatória medicamentos para tratamento domiciliar, ressalvadas as hipóteses específicas não verificadas no caso. Assentou, ainda, a sintonia desse entendimento com a jurisprudência desta Corte, citando o recente precedente firmado no AgInt nos EREsp n. 2.208.332/RJ, relatora Ministra Isabel Gallotti, Segunda Seção, julgado em 11/2/2026; DJEN de 18/2/2026.
+Assim, não obstante as alegações apresentadas pela parte agravante, não há como afastar, em sede de cognição sumária, a conclusão de que não se evidenciou a probabilidade do direito. O exame realizado pautou-se na normativa aplicável à exclusão assistencial de fármacos de uso domiciliar e nas exceções regulamentares, não demonstradas na espécie, razão suficiente para manter o indeferimento da medida antecipatória.
+De igual modo, a referência à prova técnica (Notas do NATJUS) não é suficiente para alterar, em sede de tutela recursal incidental, o regime jurídico de exclusão do custeio de medicamento domiciliar, quando ausente enquadramento nas exceções legais e regulamentares.
+Quanto ao alegado distinguishing do precedente indicado, também não colhe êxito o recurso. A decisão agravada aplicou a tese firmada por esta Corte exatamente para casos de medicamentos de uso domiciliar não inseridos nas exceções, o que se ajusta ao objeto da demanda.
+Nesse contexto, segue correta a negativa de efeito suspensivo ao recurso especial, por ausência do fumus boni iuris, em consonância com o entendimento consolidado.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
