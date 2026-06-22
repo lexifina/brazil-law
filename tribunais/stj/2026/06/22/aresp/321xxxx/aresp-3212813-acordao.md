@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/06/2026 a 22/06/2026, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro João Otávio de Noronha.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Luís Carlos Gambogi (Desembargador Convocado do TJMG) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E REEXAME DE PROVAS. AGRAVO EM RECURSO ESPECIAL CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão de inadmissibilidade por aplicação da Súmula n. 7 do STJ.
+2. A controvérsia diz respeito a ação de reintegração de posse de lote urbano com pedidos cumulados.
+3. A sentença julgou improcedente o pedido e fixou honorários de 10% sobre o valor da causa, com suspensão da exigibilidade pela gratuidade.
+4. A Corte de origem manteve a improcedência em apelação e, nos embargos de declaração, rejeitou os da autora e majorou os honorários para 15%.
+II. QUESTÃO EM DISCUSSÃO
+5. Há duas questões em discussão: (i) saber se houve omissão e falta de fundamentação quanto aos atos possessórios, à má-fé e ao justo título, caracterizando violação dos arts. 489, § 1º, IV, e 1.022, II, do CPC; e (ii) saber se o acórdão contrariou o conceito legal de possuidor e indevidamente distribuiu o ônus da prova, exigindo constância de atos e desconsiderando documentos e prova pericial, em violação dos arts. 1.196 do CC e 371, 374, 375, 560 e 561 do CPC.
+III. RAZÕES DE DECIDIR
+6. Não se verifica a alegada violação dos arts. 489 e 1.022 do CPC pois o Tribunal de origem examinou a prova documental e testemunhal, concluiu pela ausência de posse anterior, bem como de demonstração do esbulho e sua data, afastando omissões e contradições apontadas.
+7. Incide a Súmula n. 7 do STJ, porquanto a pretensão recursal demanda reexame do conjunto fático-probatório para infirmar a conclusão de inexistência dos requisitos do art. 561 do CPC, providência vedada em recurso especial.
+IV. DISPOSITIVO E TESE
+8. Agravo em recurso especial conhecido para conhecer em parte do recurso especial e negar-lhe provimento.
+Tese de julgamento: "1. Inexistente negativa de prestação jurisdicional quando a Corte local enfrenta os pontos controvertidos e conclui pela ausência de posse anterior e da data do esbulho. 2. Incide a Súmula n. 7 do STJ para obstar o reexame de fatos e provas ".
+Dispositivos relevantes citados: CPC, arts. 85 §§ 2º e 11, 371, 374, 375, 489, 560 e 561, 1022; CC, art. 1.196.
+Jurisprudência relevante citada: STJ, Súmula n. 7.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por JÚLIA ORLINDA DOS SANTOS PASCHOAL contra a decisão que inadmitiu o recurso especial, por aplicação da Súmula n. 7 do STJ, relativamente à alegada violação dos arts. 371, 374, 375, 560 e 561 do Código de Processo Civil (fls. 449-454).
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Contraminuta às fls. 477-481.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro em apelação cível, nos autos de ação de reintegração de posse.
+O julgado foi assim ementado (fl. 372):
+APELAÇÃO CÍVEL. POSSESSÓRIA. ESBULHO E POSSE ANTERIOR. NÃO CONFIGURADA. SENTENÇA DE IMPROCEDÊNCIA QUE SE MANTÉM. Na espécie, pretende a apelante a reforma da sentença que julgou improcedente o seu pedido possessório. Em processo possessório é vedado discutir propriedade. Inteligência do artigo 1.210, §2º do CC. Apelante que não demonstrou o exercício da posse em data anterior ao esbulho. Igualmente, não restou demonstrado quando e como ocorreu o esbulho. Apelada que demonstra o exercício da posse há alguns anos conforme conta de luz. Inexistência de prova da perda da posse, sendo tal ônus da apelante, nos termos do artigo 373, I, do CPC. Recurso conhecido e improvido, nos termos do voto do Desembargador Relator.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 414):
+EMBARGOS DE DECLARAÇÃO NA APELAÇÃO CÍVEL. POSSESSÓRIA. OMISSÃO E OBSCURIDADE. Na espécie, pretende a primeira embargante é rediscutir o mérito. Voto condutor do acórdão que enfrentou a questão relativa as provas, tanto documental e testemunhal acerca do exercício da posse. Inexistência de omissão ou contradição. Acórdão que expressamente consignou a inexistência de demonstração de quando ocorrência do esbulho. Pretensão da primeira embargante de rediscutir o julgado o que é inviável em aclaratórios. Quanto aos embargos opostos pela segunda embargante, a omissão está caracterizada. Necessidade de majoração da verba honorária. Inteligência do § 11 do artigo 85 do CPC. Recursos conhecidos, sendo improvido o primeiro e provido o segundo, nos termos do voto do Desembargador Relator.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 489, § 1º, IV e 1.022, II, do Código de Processo Civil, porque teria havido omissão do acórdão quanto à qualificação jurídica de atos de posse, inclusive o pagamento contínuo de IPTU e a inclusão do bem em inventário, além de não ter enfrentado a má-fé da recorrida e a inexistência de justo título. Alega que o acórdão teria deixado de fundamentar, especificamente, por que o pagamento de IPTU não é ato possessório e por que o laudo de avaliação não comprova esbulho recente; e
+b) 1.196 do Código Civil, 371, 374, 375, 560 e 561 do Código de Processo Civil, pois o acórdão teria confundido posse com apreensão física, exigindo demonstração de "constância", quando bastaria o exercício de algum dos poderes inerentes à propriedade. Aduz que o acórdão recorrido teria indevidamente atribuído à recorrente a demonstração de atos de posse pretéritos e desconsiderado prova do esbulho e sua data, bem como não reconhecido a perda de posse após ciência do esbulho. Pondera que o acórdão impugnado teria valorado a prova de forma equivocada, ignorando documentos e depoimentos que indicariam vigilância e cuidado com o imóvel, e a prova pericial do esbulho. Sustenta que o acórdão teria afastado a reintegração apesar da comprovação do esbulho, da posse e da data de sua ocorrência.
+Requer o provimento do recurso para que se determine a reintegração de posse do imóvel; requer ainda o provimento para que se anule o acórdão recorrido, suprindo as omissões apontadas (fls. 425-438).
+Contrarrazões às fls. 442-446.
+É o relatório.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E REEXAME DE PROVAS. AGRAVO EM RECURSO ESPECIAL CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão de inadmissibilidade por aplicação da Súmula n. 7 do STJ.
+2. A controvérsia diz respeito a ação de reintegração de posse de lote urbano com pedidos cumulados.
+3. A sentença julgou improcedente o pedido e fixou honorários de 10% sobre o valor da causa, com suspensão da exigibilidade pela gratuidade.
+4. A Corte de origem manteve a improcedência em apelação e, nos embargos de declaração, rejeitou os da autora e majorou os honorários para 15%.
+II. QUESTÃO EM DISCUSSÃO
+5. Há duas questões em discussão: (i) saber se houve omissão e falta de fundamentação quanto aos atos possessórios, à má-fé e ao justo título, caracterizando violação dos arts. 489, § 1º, IV, e 1.022, II, do CPC; e (ii) saber se o acórdão contrariou o conceito legal de possuidor e indevidamente distribuiu o ônus da prova, exigindo constância de atos e desconsiderando documentos e prova pericial, em violação dos arts. 1.196 do CC e 371, 374, 375, 560 e 561 do CPC.
+III. RAZÕES DE DECIDIR
+6. Não se verifica a alegada violação dos arts. 489 e 1.022 do CPC pois o Tribunal de origem examinou a prova documental e testemunhal, concluiu pela ausência de posse anterior, bem como de demonstração do esbulho e sua data, afastando omissões e contradições apontadas.
+7. Incide a Súmula n. 7 do STJ, porquanto a pretensão recursal demanda reexame do conjunto fático-probatório para infirmar a conclusão de inexistência dos requisitos do art. 561 do CPC, providência vedada em recurso especial.
+IV. DISPOSITIVO E TESE
+8. Agravo em recurso especial conhecido para conhecer em parte do recurso especial e negar-lhe provimento.
+Tese de julgamento: "1. Inexistente negativa de prestação jurisdicional quando a Corte local enfrenta os pontos controvertidos e conclui pela ausência de posse anterior e da data do esbulho. 2. Incide a Súmula n. 7 do STJ para obstar o reexame de fatos e provas ".
+Dispositivos relevantes citados: CPC, arts. 85 §§ 2º e 11, 371, 374, 375, 489, 560 e 561, 1022; CC, art. 1.196.
+Jurisprudência relevante citada: STJ, Súmula n. 7.
+VOTO
+A controvérsia diz respeito a ação de reintegração de posse em que a parte autora pleiteou reintegração na posse do lote de terreno n. 552, quadra 31, no loteamento Jardim Novo Horizonte, com perdas e danos e condenação por dano moral, além de tutela antecipada (fls. 1-10). O valor da causa foi fixado em R$ 9.300,00.
+O Juízo de primeiro grau julgou improcedente o pedido e fixou honorários de 10% sobre o valor atualizado da causa, com suspensão da exigibilidade pela gratuidade (fls. 281-283).
+A Corte de origem manteve integralmente a sentença em apelação, e, nos embargos de declaração, negou provimento aos aclaratórios da autora e deu provimento aos da ré para majorar os honorários para 15% sobre o valor da causa (fls. 372-377 e 414-418).
+I - Arts. 489, § 1º, IV e 1.022, II, do Código de Processo Civil
+No recurso especial a parte recorrente alega omissão e falta de fundamentação sobre: a qualificação jurídica do pagamento contínuo de IPTU como ato possessório; a inclusão do bem em inventário; a má-fé da recorrida e a inexistência de justo título; e a demonstração do esbulho e sua data pelo laudo de avaliação.
+O acórdão dos embargos de declaração concluiu pela inexistência de vícios, afirmando que o voto condutor enfrentou a prova documental e testemunhal, consignou a falta de demonstração da posse anterior e da data do esbulho, e rechaçou a pretensão de rediscutir o mérito. Confira-se (fls. 416-417):
+Logo, a questão é saber se a primeira embargante exercia a posse antes do suposto esbulho praticado pela segunda embargante, o esbulho, bem como a data da sua ocorrência.
+Como ressaltei no voto condutor, os documentos que instruíram a presente demanda, a posse exercida pela primeira embargante não restou demonstrada. Não há dúvidas de que a embargante adquiriu o bem e foi regularmente imitida na posse, já que tal situação se mostra efetivamente caracterizada diante dos documentos carreados aos autos, em especial, pela circunstância do pagamento do IPTU que recai sobre o imóvel.
+No entanto, não logrou a primeira embargante demonstrar nenhum dos requisitos previstos no artigo 561 do CPC. Isso porque, não há prova do exercício da sua posse, que de fato, está demonstrada de forma inequívoca entre 1985 até 2003, já que não há qualquer prova do que o seu falecido esposo e a própria primeira embargante a exercia de forma constante.
+Destaco que no voto condutor do acórdão, as testemunhas ouvidas em juízo nada esclareceram e nem indicaram se a primeira embargante e o seu falecido marido exerciam a posse do imóvel, valendo destacar que tanto as testemunhas arroladas pela autora quanto pela ré nada esclareceram acerca de tal ponto.
+Por fim, não restou demonstrado pela primeira embargante em que momento ocorreu o esbulho. Embora afirme que o laudo de avaliação realizado em 2008 teria constatado uma construção recente, tal situação, por si só, não é suficiente para caracterizar que se tratava de esbulho recente. Isso porque, não é desconhecido que não é necessário a presença do indivíduo para caracterizar a posse.
+Não se verifica a alegada ofensa aos artigos, pois a questão referente à omissão e à falta de fundamentação quanto a atos possessórios (pagamento de IPTU e inventário), má-fé da recorrida e demonstração do esbulho foi devidamente analisada pela Corte estadual que concluiu que não houve prova da posse anterior, nem da data e modo do esbulho, inexistindo vício apto a nulificar o acórdão recorrido.
+II - Arts. 1.196 do Código Civil, 371, 374, 375, 560 e 561 do Código de Processo Civil
+A recorrente afirma que o Tribunal de origem teria exigido contato físico e "constância" de atos de posse, confundindo posse com apreensão física, apesar de comprovados o pagamento de IPTU, a vigilância pelo cônjuge e a imediata atuação após ciência do esbulho. Sustenta violação do conceito legal de possuidor e indevida distribuição do ônus da prova. Alega a parte recorrente que houve má apreciação das provas, desconsiderando documentos e depoimentos sobre vigilância e cuidado com o imóvel, e o laudo judicial que indicaria esbulho recente. Sustenta que, comprovados posse, esbulho e sua data, deveria ter sido deferida a reintegração.
+O acórdão recorrido, examinando fatos e provas, assentou que não houve demonstração da posse anterior ao esbulho, nem quando e como o esbulho ocorreu; destacou que testemunhas nada esclareceram quanto à posse da autora; reconheceu posse fática exercida pela ré, e concluiu pela ausência dos requisitos do art. 561 do CPC (fls. 375-376). Registrou que "as testemunhas ouvidas em juízo nada esclareceram" sobre a posse exercida pela autora e seu falecido marido; que o pagamento de IPTU não comprovou atos de posse; e que o laudo de 2008 não bastou para definir a ocorrência e a data do esbulho (fls. 375-376). Afirmou, com base nas provas, que não houve demonstração da posse anterior nem da data do esbulho, concluindo pela improcedência da ação possessória (fls. 376).
+O Tribunal de origem analisando o acervo probatório dos autos concluiu que não se demonstrou o exercício da posse pela autora em data anterior ao esbulho, nem a ocorrência e a data do esbulho, e que a ré exerce a posse há anos, com base em contas de consumo e prova testemunhal (fls. 375-376).
+Rever tal entendimento, incluindo à análise quanto à presença dos requisitos para a reintegração (posse, esbulho e data), demandaria o reexame de provas, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+III - Conclusão
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Nos termos do § 11 do art. 85 do Código de Processo Civil, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+É o voto.
