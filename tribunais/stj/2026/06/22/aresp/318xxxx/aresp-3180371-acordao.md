@@ -1,0 +1,126 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/06/2026 a 22/06/2026, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro João Otávio de Noronha.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Luís Carlos Gambogi (Desembargador Convocado do TJMG) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA FUNDADA EM CHEQUE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL, EXCESSO DE EXECUÇÃO E TERMO INICIAL DOS ENCARGOS. AGRAVO EM RECURSO ESPECIAL CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial por consonância com a jurisprudência do STJ (Súmula n. 83 do STJ), necessidade de reexame de provas (Súmula n. 7 do STJ), inobservância do art. 702, §§ 2º e 3º, do CPC e não afetação ao Tema n. 1368 do STJ, com processamento pelo art. 1.030, V, do CPC.
+2. A controvérsia versa sobre ação monitória fundada em cheque, com cobrança de quantia acrescida de juros, correção monetária, custas e honorários.
+3. O Juízo de primeiro grau julgou improcedentes os embargos monitórios, constituiu título executivo judicial e fixou honorários em 10%.
+4. A Corte de origem manteve a sentença, afastou a prescrição com base na Súmula n. 106 do STJ, rejeitou cerceamento de defesa, não conheceu do excesso por ausência de demonstrativo e majorou honorários para 12%.
+II. QUESTÃO EM DISCUSSÃO
+5. Há cinco questões em discussão: (i) saber se o Tribunal de origem incorreu em violação do art. 489, § 1º, IV, do CPC por não enfrentar o termo inicial dos juros e da correção; (ii) saber se a alegação de excesso de execução poderia ser conhecida sem demonstrativo, à luz do art. 702, § 3º, do CPC; (iii) saber se a mora se constitui com a citação, conforme o art. 240 do CPC; (iv) saber se os juros moratórios contam da citação e observam a taxa legal, conforme os arts. 405 e 406 do CC; e (v) saber se, nos termos do art. 52, I e II, da Lei n. 7.357/1985, os juros legais do cheque correm desde a apresentação.
+III. RAZÕES DE DECIDIR
+6. Não ocorreu a ofensa ao art. 489, § 1º, IV, do CPC, pois a Corte local enfrentou a controvérsia e deixou de conhecer do excesso por inobservância do art. 702, §§ 2º e 3º, do CPC.
+7. Não se conhece da alegação de excesso de execução sem a indicação do valor tido por correto e demonstrativo discriminado e atualizado, conforme o art. 702, §§ 2º e 3º, do CPC.
+8. Incide a Súmula n. 211 do STJ sobre as teses relativas ao art. 240 do CPC, aos arts. 405 e 406 do CC e ao art. 52, I e II, da Lei n. 7.357/1985; e o acolhimento das pretensões demandaria reexame do acervo fático-probatório, atraindo a Súmula n. 7 do STJ.
+IV. DISPOSITIVO E TESE
+9. Agravo em recurso especial conhecido para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Tese de julgamento: "1. Incide a Súmula n. 211 do STJ quando a matéria federal invocada não foi efetivamente apreciada pelo Tribunal de origem. 2. Incide a Súmula n. 7 do STJ quando a pretensão demanda reexame do acervo fático-probatório. 3. A alegação de excesso de execução em ação monitória exige a indicação do valor tido por correto e demonstrativo discriminado e atualizado, conforme o art. 702, §§ 2º e 3º, do CPC. 4. Não ocorreu a ofensa ao art. 489, § 1º, IV, do CPC quando o acórdão enfrentou a controvérsia e fundamentou a decisão à luz do art. 702, §§ 2º e 3º, do CPC."
+Dispositivos relevantes citados: CPC, arts. 240, 489, § 1º, IV, 702, §§ 2º e 3º, e 85, § 11; CC, arts. 405 e 406; Lei n. 7.357/1985, art. 52, I e II.
+Jurisprudência relevante citada: STJ, Súmulas n. 7 e 211; STJ, AgInt no REsp n. 1.781.470/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 1/7/2024; STJ, AgInt no AREsp n. 2.135.804/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 12/8/2024; STJ, AgInt no AgInt no AREsp n. 2.267.997/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 29/5/2023.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por CARLOS FREDERICK DA SILVA INEZ DE ALMEIDA contra a decisão que inadmitiu o recurso especial, pelos seguintes óbices: pela consonância do acórdão recorrido com a jurisprudência do Superior Tribunal de Justiça, com incidência da Súmula n. 83 do STJ; pela necessidade de reexame do acervo fático-probatório, com incidência da Súmula n. 7 do STJ; pela não apreciação da alegação de excesso de execução diante da inobservância do art. 702, §§ 2º e 3º, do Código de Processo Civil; e pela não afetação ao Tema n. 1368 do STJ por distinguishing, mantendo-se o processamento pelo art. 1.030, V, do Código de Processo Civil (fls. 205-209). Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Mato Grosso em apelação cível, nos autos de ação monitória fundada em cheque.
+O julgado foi assim ementado (fls. 148-149):
+DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. PRELIMINAR DE PRESCRIÇÃO REJEITADA. DEMORA NA CITAÇÃO IMPUTÁVEL AO MECANISMO JUDICIÁRIO. SÚMULA 106 STJ. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. DESNECESSIDADE DE DEMONSTRAÇÃO DA CAUSA DEBENDI. ÔNUS DA PROVA DO DEVEDOR. MÉRITO. ALEGAÇÃO DE EXCESSO DE EXECUÇÃO. AUSÊNCIA DE DEMONSTRATIVOS OU PLANILHA DE CÁLCULO. INOBSERVÂNCIA DE ÔNUS PROCESSUAL (ART. 702, § 2º, DO CPC). RECURSO NÃO PROVIDO.
+I. Caso em exame
+1. Apelação cível contra sentença que, em Ação Monitória fundada em cheque, julgou improcedentes os embargos monitórios para constituir de pleno direito o título executivo judicial.
+II. Questão em discussão
+2. A questão em discussão consiste em: (i) saber se a pretensão monitória foi fulminada pela prescrição, diante da citação válida ocorrida após o prazo quinquenal; (ii) saber se a ausência do contrato que originou o cheque caracteriza cerceamento de defesa; e (iii) saber se houve excesso na cobrança em razão da forma de cálculo dos juros.
+III. Razões de decidir
+3. A prescrição foi corretamente afastada. A ação foi proposta dentro do prazo de cinco anos contados da emissão do cheque, e a demora na citação se deu por fatores atribuíveis ao mecanismo judicial, incidindo a Súmula 106 do STJ.
+4. A tese de cerceamento de defesa é improcedente. Nos termos da Súmula 531 do STJ, é desnecessária a demonstração do negócio jurídico subjacente, cabendo ao devedor comprovar fato impeditivo ou extintivo da obrigação.
+5. A alegação de excesso de execução não foi conhecida por ausência de cumprimento do ônus processual do art. 702, § 2º, do CPC, que exige a apresentação de demonstrativo discriminado do valor que entende devido.
+IV. Dispositivo e tese
+Recurso não provido.
+Tese de julgamento: "1. É incabível a alegação de prescrição se a ação monitória é proposta dentro do prazo legal, ainda que a citação ocorra posteriormente por atraso imputável ao sistema judiciário. 2. Não configura cerceamento de defesa a ausência de demonstração do negócio jurídico. 3. A alegação de excesso de execução exige a apresentação de planilha com o valor que se entende devido, sob pena de não conhecimento da matéria."
+Os embargos de declaração opostos foram decididos nestes termos (fls. 172-173):
+DIREITO CIVIL E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ALEGADA OMISSÃO QUANTO AO TERMO INICIAL DOS JUROS MORATÓRIOS E DA CORREÇÃO MONETÁRIA. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO. EMBARGOS REJEITADOS.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 702, § 3º, do Código de Processo Civil, porque o acórdão teria deixado de apreciar o excesso por discutir apenas o termo inicial dos encargos, o que não exigiria planilha de cálculo, mas definição jurídica do marco temporal;
+b) 240, do Código de Processo Civil, já que a mora teria sido constituída apenas com a citação, sendo indevida a contagem de juros desde o vencimento do cheque;
+c) 405 e 406, do Código Civil, pois os juros de mora deveriam contar da citação e observar a taxa legal aplicável, e não incidirem desde o vencimento do título;
+d) 52, I e II, da Lei n. 7.357/1985, porquanto os juros legais do cheque deveriam correr "desde o dia da apresentação", o que não ocorreu;
+e) 489, § 1º, IV, do Código de Processo Civil, visto que o acórdão teria deixado de enfrentar a tese sobre o termo inicial dos juros e da correção, configurando vício de fundamentação;.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, com reconhecimento do cerceamento de defesa e do excesso na execução pelo termo inicial indevido dos encargos; requer ainda o provimento do recurso para que se declare a nulidade por vício de fundamentação e se determine o retorno dos autos à origem para exame das teses e documentos (fls. 178-190).
+Nas contrarrazões, a parte recorrida aduz que o recurso não deve ser conhecido por ausência de prequestionamento (Súmula n. 211 do STJ), e que a pretensão demanda reexame de fatos e provas (Súmula n. 7 do STJ e Súmula n. 279 do STF), pugnando pelo desprovimento e pela condenação em honorários (fls. 196-204).
+É o relatório.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA FUNDADA EM CHEQUE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL, EXCESSO DE EXECUÇÃO E TERMO INICIAL DOS ENCARGOS. AGRAVO EM RECURSO ESPECIAL CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial por consonância com a jurisprudência do STJ (Súmula n. 83 do STJ), necessidade de reexame de provas (Súmula n. 7 do STJ), inobservância do art. 702, §§ 2º e 3º, do CPC e não afetação ao Tema n. 1368 do STJ, com processamento pelo art. 1.030, V, do CPC.
+2. A controvérsia versa sobre ação monitória fundada em cheque, com cobrança de quantia acrescida de juros, correção monetária, custas e honorários.
+3. O Juízo de primeiro grau julgou improcedentes os embargos monitórios, constituiu título executivo judicial e fixou honorários em 10%.
+4. A Corte de origem manteve a sentença, afastou a prescrição com base na Súmula n. 106 do STJ, rejeitou cerceamento de defesa, não conheceu do excesso por ausência de demonstrativo e majorou honorários para 12%.
+II. QUESTÃO EM DISCUSSÃO
+5. Há cinco questões em discussão: (i) saber se o Tribunal de origem incorreu em violação do art. 489, § 1º, IV, do CPC por não enfrentar o termo inicial dos juros e da correção; (ii) saber se a alegação de excesso de execução poderia ser conhecida sem demonstrativo, à luz do art. 702, § 3º, do CPC; (iii) saber se a mora se constitui com a citação, conforme o art. 240 do CPC; (iv) saber se os juros moratórios contam da citação e observam a taxa legal, conforme os arts. 405 e 406 do CC; e (v) saber se, nos termos do art. 52, I e II, da Lei n. 7.357/1985, os juros legais do cheque correm desde a apresentação.
+III. RAZÕES DE DECIDIR
+6. Não ocorreu a ofensa ao art. 489, § 1º, IV, do CPC, pois a Corte local enfrentou a controvérsia e deixou de conhecer do excesso por inobservância do art. 702, §§ 2º e 3º, do CPC.
+7. Não se conhece da alegação de excesso de execução sem a indicação do valor tido por correto e demonstrativo discriminado e atualizado, conforme o art. 702, §§ 2º e 3º, do CPC.
+8. Incide a Súmula n. 211 do STJ sobre as teses relativas ao art. 240 do CPC, aos arts. 405 e 406 do CC e ao art. 52, I e II, da Lei n. 7.357/1985; e o acolhimento das pretensões demandaria reexame do acervo fático-probatório, atraindo a Súmula n. 7 do STJ.
+IV. DISPOSITIVO E TESE
+9. Agravo em recurso especial conhecido para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Tese de julgamento: "1. Incide a Súmula n. 211 do STJ quando a matéria federal invocada não foi efetivamente apreciada pelo Tribunal de origem. 2. Incide a Súmula n. 7 do STJ quando a pretensão demanda reexame do acervo fático-probatório. 3. A alegação de excesso de execução em ação monitória exige a indicação do valor tido por correto e demonstrativo discriminado e atualizado, conforme o art. 702, §§ 2º e 3º, do CPC. 4. Não ocorreu a ofensa ao art. 489, § 1º, IV, do CPC quando o acórdão enfrentou a controvérsia e fundamentou a decisão à luz do art. 702, §§ 2º e 3º, do CPC."
+Dispositivos relevantes citados: CPC, arts. 240, 489, § 1º, IV, 702, §§ 2º e 3º, e 85, § 11; CC, arts. 405 e 406; Lei n. 7.357/1985, art. 52, I e II.
+Jurisprudência relevante citada: STJ, Súmulas n. 7 e 211; STJ, AgInt no REsp n. 1.781.470/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 1/7/2024; STJ, AgInt no AREsp n. 2.135.804/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 12/8/2024; STJ, AgInt no AgInt no AREsp n. 2.267.997/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 29/5/2023.
+VOTO
+A controvérsia diz respeito à ação monitória, em que a parte autora pleiteou o pagamento da quantia representada por cheque, com incidência de juros e correção monetária, além de custas e honorários.
+Na sentença, o Juízo de primeiro grau julgou improcedentes os embargos monitórios, constituiu de pleno direito o título executivo judicial no valor de R$ 18.966,91 e fixou honorários em 10% sobre o valor atualizado da condenação.
+A Corte de origem manteve a sentença e negou provimento à apelação, afastando a prescrição por demora na citação imputável ao mecanismo judiciário (Súmula n. 106 do STJ), rejeitando cerceamento de defesa e não conhecendo do excesso de execução por falta de demonstrativo (art. 702, §§ 2º e 3º, do Código de Processo Civil), majorando honorários para 12% (fls. 148-154).
+Passo à análise das supostas violações.
+I - Art. 489, § 1º, IV, do Código de Processo Civil
+A parte alega que o acórdão não enfrentou a tese sobre o termo inicial de juros e correção, configurando falta de fundamentação.
+O acórdão dos embargos de declaração registrou que a ausência de exame do excesso decorreu do descumprimento do ônus processual objetivo do art. 702, §§ 2º e 3º, do Código de Processo Civil, não havendo omissão a ser suprida, por se tratar de inconformismo com a fundamentação adotada (fls. 172-176).
+O art. 489, § 1º, IV, do CPC estabelece que não se considera fundamentada a decisão judicial que deixa de enfrentar todos os argumentos capazes de infirmar a conclusão adotada pelo julgador.
+Não se verifica a alegada negativa de prestação jurisdicional. O Tribunal de origem enfrentou expressamente a controvérsia suscitada pela parte recorrente, consignando, tanto no acórdão de apelação quanto nos embargos de declaração, que a alegação de excesso de execução não poderia ser conhecida diante do descumprimento do ônus previsto no art. 702, §§ 2º e 3º, do CPC, consistente na ausência de demonstrativo discriminado do valor tido por correto.
+Portanto, a corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitaram a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Ressalto que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. VIOLAÇÃO DOS ARTS. 489, § 1º, E 1.022, I, DO CPC. NÃO OCORRÊNCIA. PRESCRIÇÃO QUINQUENAL DAS PARCELAS ANTECEDENTES AO AJUIZAMENTO DA DEMANDA. PRESCRIÇÃO DO FUNDO DO DIREITO. INEXISTÊNCIA. DEVOLUÇÃO DE RESERVA DE POUPANÇA. DISCUSSÃO SOBRE SER CASO DE CONTRATO DE RISCO. REVISÃO DE CLÁUSULAS CONTRATUAIS E PROVAS. INCIDÊNCIA DAS SÚMULAS N. 5, 7, 291 E 427 DO STJ . AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa aos arts. 489 e 1.022 do CPC quando a corte de origem examina e decide, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+(..)
+4. Agravo interno desprovido. (AgInt no REsp n. 1.781.470/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 1/7/2024, DJe de 8/7/2024.).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE FUNDAMENTAÇÃO NA DECISÃO AGRAVADA. VIOLAÇÃO DO ART. 489 DO CPC. NÃO OCORRÊNCIA. AGRAVO DE INSTRUMENTO. OMISSÃO NO ACÓRDÃO RECORRIDO. OFENSA AO ART. 1.022 DO CPC. NÃO VERIFICAÇÃO. FALTA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS N. 211 DO STJ E 282 DO STF. FUNDAMENTAÇÃO DEFICIENTE E GENÉRICA. APLICAÇÃO DA SÚMULA N. 284 DO STF. MATÉRIA VENTILADA NO RECURSO ESPECIAL. REVISÃO. SÚMULA N. 7 DO STJ. NEGÓCIO JURÍDICO SIMULADO. APLICAÇÃO DO CÓDIGO CIVIL DE 1916. ANULAÇÃO. PRAZO DE 4 ANOS. NÃO VOLVIDO ATÉ A VIGÊNCIA DO CÓDIGO CIVIL DE 2002. REGRA ATUAL. NULIDADE ABSOLUTA. NÃO SUJEITO A PRAZO DE DECADÊNCIA E PRESCRIÇÃO. ENTENDIMENTO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 489 do CPC, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. Não há ofensa ao art. 1.022 do CPC quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+(..)
+8. Agravo interno desprovido. (AgInt no AREsp n. 2.135.804/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+No presente caso, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há que se falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+II - Arts. 702, §§ 2º e 3º, do Código de Processo Civil
+No recurso especial a parte recorrente alega que discutiu apenas o termo inicial dos encargos legais, o que prescindiria de memória de cálculo, devendo o Tribunal ter conhecido do excesso sem exigir planilha.
+O acórdão recorrido concluiu que a alegação de excesso não poderia ser conhecida sem a indicação do valor que entende correto, acompanhada de demonstrativo discriminado e atualizado, condição objetiva imposta pelos §§ 2º e 3º do art. 702, razão pela qual deixou de examinar o excesso (fls. 152-153).
+Os arts. 702, §§ 2º e 3º, do CPC impõem ao embargante, quando alegar excesso de cobrança em ação monitória, o dever de indicar o valor que entende correto e apresentar demonstrativo discriminado e atualizado da dívida.
+A Corte estadual decidiu a controvérsia em consonância com a literalidade do dispositivo legal e com a orientação consolidada desta Corte Superior, segundo a qual a alegação de excesso de execução exige demonstração concreta do valor reputado devido, acompanhada de memória discriminada de cálculo.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. AGRAVO DE INSTRUMENTO . EXCESSO DE CÁLCULO. AUSÊNCIA DE INDICAÇÃO DO VALOR DEVIDO. JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO NÃO PROVIDO . 1. A jurisprudência do STJ entende que a alegação de excesso de execução deve vir acompanhada do valor que a parte insurgente entende ser devido, não sendo suficiente a formulação de alegações genéricas acerca da incorreção do montante devido, como ocorreu no caso. 2. Agravo interno não provido. (AgInt no AgInt no AREsp n. 2.267.997/DF, relator Moura Ribeiro, Terceira Turma, julgado em 29/05/2023, DJe de 31/05/2023)
+A tese da recorrente, no sentido de que estaria discutindo apenas matéria jurídica relativa ao termo inicial dos encargos, não afasta o ônus processual expressamente previsto em lei, sobretudo porque eventual alteração do marco inicial dos juros e da correção monetária repercute diretamente no quantum executado.
+Ademais, infirmar a conclusão adotada pelo Tribunal de origem quanto à insuficiência da insurgência apresentada pela parte recorrente demandaria reexame do conteúdo dos embargos monitórios e dos elementos processuais constantes dos autos, providência vedada em recurso especial, nos termos da Súmula n. 7 do STJ.
+III - Art. 240, do Código de Processo Civil
+A recorrente afirma que a mora do devedor se constituiu com a citação, devendo os juros correrem apenas desse marco, não do vencimento do título.
+O acórdão recorrido não apreciou o mérito do termo inicial dos encargos por ausência de cumprimento do ônus processual do art. 702, §§ 2º e 3º, registrando que a discussão sobre encargos estava condicionada ao atendimento daquele requisito (fls. 149 e 153).
+O art. 240 do CPC disciplina os efeitos processuais da citação válida, inclusive no tocante à constituição em mora.
+A tese recursal carece de prequestionamento efetivo. O Tribunal de origem não examinou o mérito da discussão relativa ao termo inicial dos juros moratórios à luz do art. 240 do CPC, justamente porque deixou de conhecer da alegação de excesso de execução diante da ausência de demonstrativo discriminado do valor devido.
+Ainda que opostos embargos de declaração, a Corte estadual reiterou que a matéria não poderia ser apreciada em razão do descumprimento do ônus processual previsto no art. 702, §§ 2º e 3º, do CPC, sem emitir juízo de valor específico sobre a interpretação do art. 240 do CPC.
+Incide, portanto, o óbice da Súmula n. 211 do STJ, ante a ausência de efetivo debate e decisão sobre a matéria federal invocada.
+IV - Arts. 405 e 406, do Código Civil
+Alega o recorrente que os juros de mora devem contar da citação e observar a taxa legal, sendo indevida a incidência desde o vencimento do cheque.
+O acórdão recorrido afirmou que não houve exame do termo inicial dos encargos por inobservância do ônus de indicar valor e demonstrativo, motivo pelo qual a matéria não foi conhecida; e, no âmbito dos embargos de declaração, rejeitou a alegada omissão pelos mesmos fundamentos (fls. 173-176).
+Os arts. 405 e 406 do Código Civil tratam, respectivamente, do termo inicial dos juros moratórios e da taxa legal aplicável às obrigações civis.
+A controvérsia devolvida ao Tribunal de origem não foi solucionada com base na interpretação dos arts. 405 e 406 do Código Civil, mas sim na ausência de cumprimento do requisito processual previsto no art. 702, §§ 2º e 3º, do CPC, circunstância que impediu o conhecimento da alegação de excesso.
+Desse modo, inexiste prequestionamento específico acerca dos dispositivos federais invocados, incidindo a Súmula n. 211 do STJ.
+Além disso, eventual acolhimento da tese recursal exigiria incursão no conteúdo dos cálculos apresentados, no efetivo montante executado e na repercussão prática dos encargos incidentes sobre a dívida, providência incompatível com a via estreita do recurso especial, nos termos da Súmula n. 7 do STJ.
+V - Art. 52, I e II, da Lei n. 7.357/1985
+No recurso especial a parte recorrente alega que os juros legais do cheque correm "desde o dia da apresentação", não sendo possível contar desde o vencimento sem apresentação ao sacado.
+O acórdão recorrido manteve a sentença sem examinar o mérito da alegação de excesso, destacando que a definição de encargos dependeria da observância do art. 702, §§ 2º e 3º, do Código de Processo Civil; nos embargos de declaração, assentou a inexistência de vício e rejeitou a pretensão de rediscutir o mérito (fls. 149 e 172-176).
+O art. 52, I e II, da Lei n. 7.357/1985 disciplina os consectários legais incidentes sobre o cheque, inclusive juros e despesas decorrentes da inadimplência cambial.
+A matéria federal invocada não foi efetivamente apreciada pela Corte estadual, que deixou de examinar o mérito da alegação relativa aos encargos do cheque em razão da ausência de cumprimento do ônus processual previsto no art. 702, §§ 2º e 3º, do CPC.
+Embora a parte recorrente tenha suscitado a questão em embargos de declaração, o Tribunal local limitou-se a reafirmar a impossibilidade de conhecimento da alegação de excesso sem a apresentação do demonstrativo discriminado da dívida, inexistindo pronunciamento específico acerca da interpretação do art. 52 da Lei do Cheque.
+Incide, assim, a Súmula n. 211 do STJ.
+Ademais, a pretensão recursal exigiria reavaliação do contexto fático-processual atinente aos encargos efetivamente cobrados e à forma de cálculo da dívida, providência vedada pela Súmula n. 7 do STJ.
+VI - Conclusão
+Ante o exposto, conheço do agravo para conhecer parcialmente o recurso especial e, na extensão conhecida, negar-lhe provimento.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 3% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+É o voto.
