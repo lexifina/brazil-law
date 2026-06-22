@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/06/2026 a 22/06/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG), João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PLANO DE SAÚDE. OBRIGAÇÃO DE FAZER E DANOS MORAIS. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. REPRODUÇÃO DAS RAZÕES DO RESP. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. DECISÃO MANTIDA.
+1. Nos termos do art. 932, III, do Código de Processo Civil e do art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não se conhece de agravo em recurso especial cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação do enunciado 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por NOTRE DAME INTERMÉDICA SAÚDE S/A contra decisão singular da lavra do Ministro Presidente do STJ pela qual o agravo em recurso especial não foi conhecido em virtude da incidência da Súmula 182/STJ, haja vista a ausência de impugnação específica aos seguintes fundamentos: Súmula 7/STJ quanto ao cerceamento de defesa (fls. 594-595).
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que impugnou os óbices apontados na origem, sustenta a não aplicação da Súmula 7/STJ por tratar-se de matéria de direito, afirma ter demonstrado ofensa a dispositivos federais e reitera a validade da junta médica prevista na Lei 9.961/2000.
+Alega, ainda, violação do art. 1.022, II, do Código de Processo Civil e o necessário prequestionamento ficto, afirma extrapolação do juízo de admissibilidade pela decisão agravada e sustenta não ter invocado dispositivos da Constituição Federal, do Código de Ética Médica ou de resoluções da ANS.
+Apresentada impugnação (fls. 622/634).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PLANO DE SAÚDE. OBRIGAÇÃO DE FAZER E DANOS MORAIS. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. REPRODUÇÃO DAS RAZÕES DO RESP. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. DECISÃO MANTIDA.
+1. Nos termos do art. 932, III, do Código de Processo Civil e do art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não se conhece de agravo em recurso especial cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação do enunciado 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+VOTO
+De início, destaco que a decisão que não admitiu o recurso especial consignou: a) falta de prequestionamento quanto ao art. 52 do Código de Ética Médica (Súmula 282/STF); b) menção genérica à Resolução CONSU 8/1998 e RN 259/2011 sem indicação de artigos; c) incidência da Súmula 7/STJ quanto ao cerceamento de defesa; d) ausência de demonstração de violação dos arts. 6º da RN 424/2017; 4º, VII, da Lei 9.961/2000; e 156 do Código de Processo Civil; e) incidência da Súmula 7/STJ quanto aos arts. 6º da RN 424/2017; 4º, VII, da Lei 9.961/2000; e 156 do Código de Processo Civil (fls. 548-551).
+No seu agravo em recurso especial, a parte agravante apenas afirmou não incidir a Súmula 7/STJ por se tratar de tese jurídica, indicando ofensa ao art. 4º, VII, da Lei 9.961/2000 e apontou violação do art. 1.022, II, do Código de Processo Civil.
+Como se vê, as razões do agravo em recurso especial deixaram de impugnar integralmente os fundamentos da decisão que não admitiu o recurso especial, haja vista que não houve ataque específico ao óbice da Súmula 7/STJ quanto ao cerceamento de defesa, aplicado à necessidade de perícia e à revisão do acervo probatório.
+A propósito, a Corte Especial do STJ manteve o entendimento de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo em recurso especial, por aplicação da Súmula 182/STJ (Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Relator Ministro João Otávio de Noronha, Relator para acórdão Ministro Luis Felipe Salomão, julgado em 19/9/2018, DJe 30/11/2018).
+Outrossim, importa esclarecer que, conforme jurisprudência pacífica deste Superior Tribunal de Justiça, a mera reprodução do recurso especial não é suficiente para impugnar a decisão agravada que não admitiu o recurso (AgInt nos EAREsp 1.157.501/SP, Rel. Ministro Moura Ribeiro, Segunda Seção, julgado em 20/8/2019, DJe 22/8/2019).
+Desse modo, sem impugnação específica e suficiente para infirmar todos os fundamentos da decisão que não admitiu o recurso especial na origem, é correta a aplicação, por analogia, da Súmula 182/STJ, devendo-se manter a decisão ora agravada integralmente.
+Por fim, quanto ao pedido da parte ora agravada para aplicação de multa, registro que, em que pese o não provimento do recurso, a sua interposição, por si só, não pode ser considerada como protelatória ou como litigância de má-fé, de modo que é incabível, por ora, a aplicação de penalidade à parte que exerce regularmente faculdade processual prevista em lei (EDcl no AgInt nos EAREsp 782.294/DF, de minha relatoria, Segunda Seção, julgado em 13/12/2017, DJe 18/12/2017).
+Quanto à majoração de honorários requerida pela parte ora agravada, cumpre ressaltar que, nos termos do art. 85, § 11, do Código de Processo Civil, só tem cabimento quando inaugurada uma nova instância, não sendo essa a hipótese em apreço.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
