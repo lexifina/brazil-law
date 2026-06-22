@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/06/2026 a 22/06/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Regina Helena Costa, Gurgel de Faria, Paulo Sérgio Domingues e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APOSENTADORIA POR IDADE. TRABALHADOR RURAL. DOCUMENTAÇÃO INSUFICIENTE. AUSÊNCIA DE FUNDAMENTAÇÃO E OMISSÃO NO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. IMPOSSIBILIDADE DE INFIRMAR O CONTEXTO FÁTICO E PROBATÓRIO DEFINIDO PELO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Inexiste ausência de fundamentação ou omissão a ser sanada em acórdão que dirime fundamentadamente as questões submetidas à sua apreciação, de modo que não fica demonstrada a alegada violação aos arts. 489 e 1.022, II, do CPC/2015.
+2. O Tribunal de origem, com base no conteúdo processual apresentado, afirmou não haver comprovação de tempo de atividade rural que justifique a concessão da aposentadoria pleiteada, de modo que infirmar tal assertiva demandaria o revolvimento de matéria fático-probatória, o que é obstado pelo teor da Súmula n. 7/STJ.
+3. O dissídio jurisprudencial fica prejudicado tendo em vista a inadmissão do recurso pela alínea a do permisso constitucional no tocante ao supradito enunciado sumular.
+4. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator):  Trata-se de agravo interno interposto por Aristina Jacinta de Oliveira Faria e outros contra decisão que conheceu parcialmente do recurso especial para, nessa extensão, negar-lhe provimento, em virtude da não violação aos arts. 489 e 1.022 do CPC/2015 e diante incidência da Súmula n. 7/STJ (fls. 476/480).
+Sustentam os ora agravantes, em relação aos arts. 489 e 1.022 do CPC/2015, que (fls. 492/493):
+Nos embargos de declaração opostos na origem, a parte recorrente demonstrou expressamente que o acórdão deixou de enfrentar argumentos relevantes relativos à validade da prova material apresentada e à jurisprudência consolidada do STJ sobre o tema.
+Entretanto, tais questões não foram devidamente apreciadas pelo Tribunal de origem, circunstância que caracteriza violação aos arts. 489, §1º, IV, e 1.022 do CPC.
+Aduzem, ainda, em relação ao óbice do susodito verbete sumular, que (fl. 491):
+Assim, a questão jurídica posta no recurso especial não consiste em rediscutir a existência da prova, nem em reavaliar depoimentos ou documentos, mas apenas em verificar se o acórdão recorrido atribuiu interpretação juridicamente adequada ao início de prova material apresentado.
+Trata-se, portanto, de típica hipótese de revaloração jurídica da prova, providência que se encontra plenamente autorizada na jurisprudência deste Superior Tribunal.
+A aplicação da Súmula 7/STJ, nesse contexto, acaba por impedir o exame de matéria eminentemente jurídica, circunstância que justifica a reforma da decisão monocrática agravada.
+Requerem a reconsideração do decisum ou a submissão do feito ao julgamento colegiado.
+É o relatório.
+EMENTA
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APOSENTADORIA POR IDADE. TRABALHADOR RURAL. DOCUMENTAÇÃO INSUFICIENTE. AUSÊNCIA DE FUNDAMENTAÇÃO E OMISSÃO NO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. IMPOSSIBILIDADE DE INFIRMAR O CONTEXTO FÁTICO E PROBATÓRIO DEFINIDO PELO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Inexiste ausência de fundamentação ou omissão a ser sanada em acórdão que dirime fundamentadamente as questões submetidas à sua apreciação, de modo que não fica demonstrada a alegada violação aos arts. 489 e 1.022, II, do CPC/2015.
+2. O Tribunal de origem, com base no conteúdo processual apresentado, afirmou não haver comprovação de tempo de atividade rural que justifique a concessão da aposentadoria pleiteada, de modo que infirmar tal assertiva demandaria o revolvimento de matéria fático-probatória, o que é obstado pelo teor da Súmula n. 7/STJ.
+3. O dissídio jurisprudencial fica prejudicado tendo em vista a inadmissão do recurso pela alínea a do permisso constitucional no tocante ao supradito enunciado sumular.
+4. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator):  Em que pese os argumentos trazidos no presente recurso, a decisão agravada não merece reparos.
+Iniciando pela alegada violação aos arts. 489 e 1.022 do CPC/2015, verifico que, de fato, inexistiu ausência de fundamentação ou mesmo omissão no acórdão recorrido, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos, notadamente em relação à validade de início de prova material apresentada.
+Com efeito, a Corte local adotou fundamentação mais que suficiente para a solução da contenda, como mesmo se colhe às fls. 286/287:
+Caso Concreto
+Ação ajuizada em 11/07/2018 (ID 117357173, fl. 6). Aposentadoria por idade rural. DN: 30/06/1932 (ID 117357173, fl. 23). DER: 22/01/2018 (ID 117357173, fl. 36).
+Apelação do INSS - Apelação da parte autora
+O Juízo de primeiro grau que julgou procedente o pedido de aposentadoria por idade rural, a partir do requerimento administrativo, em 22/01/2018.
+O INSS sustenta, em síntese, a não comprovação do período rural, ausência de início de prova material e impossibilidade de utilização da certidão de casamento como início de prova material, já que a autora recebe pensão por morte urbana.
+Já a parte autora, em seu apelo, alega que a sentença foi citra e extra petita por ausência de análise do pedido declaratório de tempo de serviço rural, para que o INSS seja compelido a averbar/incluir a totalidade do período reconhecido entre 29/07/1950-05/10/1980 no CNIS.
+Assiste razão ao INSS.
+O tempo de serviço rural deve ser demonstrado mediante a apresentação de início de prova material contemporânea ao período a ser comprovado, considerando-se como tal os documentos emitidos em período próximo ao controverso, desde que indiquem a continuidade da atividade rural, complementada por prova testemunhal idônea.
+Conforme documentação anexada pela parte autora, constata-se que o requisito idade mínima foi observado quando da apresentação do requerimento administrativo em 22/01/2018, porquanto nascida em 30/06/1932, completou 55 anos em 1987 (carência de 60 meses).
+A fim de demonstrar o início de prova material de sua atividade rural, a parte autora juntou somente sua certidão de casamento, realizado em 1950, na qual o marido é qualificado como lavrador (ID 117357173, fl. 30).
+Entretanto, tal prova não lhe favorece, pois conforme extrato INFBEN juntado, a parte autora recebe pensão por morte do marido desde 05/10/1980, na forma de filiação "EMPRESÁRIO", ramo atividade "COMERCIÁRIO" (ID 117357173, fl. 60). Assim, não é possível estender a ela a qualificação de lavrador do marido informada na certidão de casamento.
+Sobre a repercussão de atividade urbana do cônjuge na pretensão de configuração jurídica de trabalhador rural previsto no art. 143 da Lei 8.213/1991, o STJ fixou o seguinte entendimento: "Em exceção à regra geral  .. , a extensão de prova material em nome de um integrante do núcleo familiar a outro não é possível quando aquele passa a exercer trabalho incompatível com o labor rurícola, como o de natureza urbana" (TEMA 533/STJ).
+Nesse contexto, não se deve confundir julgamento desfavorável ao interesse da parte com negativa, ou deficiência, de prestação jurisdicional, como o faz os ora recorrentes.
+A propósito, cito jurisprudência do STJ:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. CUMPRIMENTO DE SENTENÇA. OBRIGAÇÃO DE FAZER. ACÓRDÃO QUE REAFIRMA OS TERMOS DA DECISÃO SINGULAR. POSSIBILIDADE. PRECLUSÃO TEMPORAL. PREJUDICIALIDADE DO SOBRESTAMENTO. FUNDAMENTOS DO JULGADO INATACADOS. APLICAÇÃO DO VERBETE DA SÚMULA 283 DO STF. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.
+1. Não se verifica que o aresto a quo tenha incorrido na alegada ofensa aos arts. 1.021, § 3º, e 489, § 1º, IV, do CPC, na medida em que o órgão julgador apreciou, com coerência, clareza e devida fundamentação, as teses suscitadas pelo jurisdicionado. A propósito, observa-se que o Colegiado de origem manifestou-se expressamente acerca dos temas necessários à integral solução da lide, de modo que não é legítimo confundir a fundamentação deficiente com a sucinta, porém suficiente, mormente quando contrária aos interesses da parte.
+2. A Corte regional, ao reafirmar os termos da decisão singular, não destoou do entendimento firmado no âmbito deste Sodalício sobre o tema, segundo o qual "a vedação constante do art. 1.021, § 3º, do Código de Processo Civil não pode s er compreendida como uma obrigatoriedade de se refazer o texto do decisum com os mesmos fundamentos, porém em palavras distintas, mesmo diante da inexistência de uma nova tese apresentada pela parte agravante" (AgInt no REsp n. 2.081.901/MA, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 27/11/2023, DJe de 29/11/2023).
+3. O recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, o que torna inafastável o óbice da Súmula 283/STF para o conhecimento do pleito recursal.
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.042.324/SP, R elator Ministro Sérgio Kukina, Primeira Turma, DJe de 16/5/2024.)
+Em relação ao empeço contido na Súmula n. 7/STJ, observa-se, também, que a Corte de origem, de fato, analisando os elementos de prova, não reconheceu como início prova material a documentação apresentada, nestes termos (fl. 325):
+Conforme documentação anexada pela parte autora, constata-se que o requisito idade mínima foi observado quando da apresentação do requerimento administrativo em 22/01/2018, porquanto nascida em 30/06/1932, completou 55 anos em 1987 (carência de 60 meses). 60 anos em 1992.
+A fim de demonstrar o início de prova material de sua atividade rural, a parte autora juntou somente sua certidão de casamento, realizado em 1950, na qual o marido é qualificado como lavrador (ID 117357173, fl. 30).
+Entretanto, tal prova não lhe favorece, pois conforme extrato INFBEN juntado, a parte autora recebe pensão por morte do marido desde 05/10/1980, na forma de filiação "EMPRESÁRIO", ramo atividade "COMERCIÁRIO" (ID 117357173, fl. 60), indicativo de que o falecido marido, após o casamento, passou a exercer atividade urbana, de forma que não é possível estender a ela a qualificação de lavrador do marido informada na certidão de casamento.
+Sobre a repercussão de atividade urbana do cônjuge na pretensão de configuração jurídica de trabalhador rural previsto no art. 143 da Lei 8.213/1991, o STJ fixou o seguinte entendimento: "Em exceção à regra geral  .. , a extensão de prova material em nome de um integrante do núcleo familiar a outro não é possível quando aquele passa a exercer trabalho incompatível com o labor rurícola, como o de natureza urbana" (TEMA 533/STJ).
+O elemento essencial identificador da qualidade de segurado especial, para o fim da proteção extraordinária de segurado não contribuinte pelo Regime Geral de Previdência Social é o exercício das atividades rurais especificadas na lei em regime de economia familiar, indispensavelmente voltado à subsistência e ao desenvolvimento socioeconômico da família, em condições de mútua dependência e colaboração, sem a utilização de empregados, o que não ficou demonstrado nos autos.
+Embora favoráveis os depoimentos das testemunhas (ID 117357173, fls. 117/119) não foi juntado nenhum documento indicativo do exercício de atividade rural pela autora.
+Diante disso, não há como afastar a incidência do teor da Súmula n. 7/STJ, pois não há como infirmar o julgado em relação à efetiva atividade rural exercida que ensejasse o seu reconhecimento e a posterior concessão da aposentadoria pleiteada sem rever os elementos de prova.
+No tocante ao dissídio jurisprudencial invocado, inviável torna-se o conhecimento do recurso especial, uma vez que o mesmo obstáculo imposto à admissão do recurso pela alínea a do permissivo constitucional impede a análise recursal pela alínea c.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
