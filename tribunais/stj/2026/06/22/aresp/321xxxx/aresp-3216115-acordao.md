@@ -1,0 +1,86 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/06/2026 a 22/06/2026, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro João Otávio de Noronha.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Luís Carlos Gambogi (Desembargador Convocado do TJMG) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DENUNCIAÇÃO DA LIDE EM AÇÃO DE OBRIGAÇÃO DE FAZER. INDEFERIMENTO. REEXAME. AGRAVO EM RECURSO ESPECIAL CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
+I. CASO EM EXAME
+1. Agravo em recurso especial contra decisão do Tribunal de Justiça de São Paulo que inadmitiu o recurso especial por ausência de violação dos arts. 489 e 1.022 do CPC, ausência de demonstração de violação dos arts. 4º, 6º e 125, § 1º, II, do CPC, e incidência da Súmula n. 7 do STJ.
+2. A controvérsia diz respeito ao indeferimento da denunciação da lide em ação de obrigação de fazer sobre servidão de passagem, com alegação de obstrução por muro e pretensão de inclusão da vendedora no polo passivo.
+3. A Corte de origem negou provimento ao agravo de instrumento e manteve o indeferimento da denunciação da lide por não ser obrigatória, por ampliar indevidamente a lide e por preservar o direito regressivo por ação autônoma, nos termos do art. 125, § 1º, em atenção à economia e à duração razoável do processo.
+II. QUESTÃO EM DISCUSSÃO
+3. Há duas questões em discussão: (i) saber se houve violação dos arts. 489, II e § 1º, IV, e 1.022, I, do CPC, por ausência de fundamentação específica sobre a aplicação dos arts. 4º e 6º; e (ii) saber se o indeferimento da denunciação da lide violou os arts. 4º, 6º e 125, § 1º, II, do CPC, ao remeter o direito do agravante à ação regressiva e contrariar os princípios da economia e celeridade.
+III. RAZÕES DE DECIDIR
+4. Não há violação dos arts. 489 e 1.022 do CPC, pois o acórdão estadual enfrentou os pontos relevantes, justificando a desnecessidade da intervenção de terceiro e a suficiência da via regressiva por ação autônoma.
+5. A denunciação da lide não é obrigatória e o art. 125, § 1º, II, do CPC autoriza o exercício do direito regressivo por ação autônoma quando indeferida a intervenção, preservando a eficiência e a celeridade do processo principal, incidindo-se a Súmula n. 7 do STJ, pois a pretensão de rever a adequação concreta da denunciação da lide demanda reexame de matéria fático-probatória.
+IV. DISPOSITIVO E TESE
+7. Agravo em recurso especial conhecido para conhecer em parte do recurso especial e negar-lhe provimento.
+Tese de julgamento: "1. Não há violação dos arts. 489 e 1.022 do CPC quando o acórdão enfrenta os pontos essenciais e afasta a necessidade de intervenção de terceiro. 2. Incide a Súmula n. 7 do STJ na pretensão de reexame da adequação da denunciação da lide."
+Dispositivos relevantes citados: CPC, arts. 4, 6, 85, § 11, 125, § 1º, II, 489, II, § 1º, IV, 1.022, I; CF, art. 105, III, a
+Jurisprudência relevante citada: STJ, Súmula n. 7
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por DOUGLAS DA SILVA ALVES contra a decisão que inadmitiu o recurso especial, por ausência de violação dos arts. 489 e 1.022 do Código de Processo Civil, por ausência de demonstração de violação dos arts. 4º, 6º e 125, § 1º, II, do Código de Processo Civil, e pela incidência da Súmula n. 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça de São Paulo em agravo de instrumento nos autos de ação de obrigação de fazer.
+O julgado foi assim ementado (fl. 190):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER. SERVIDÃO DE PASSAGEM. DENUNCIAÇÃO DA LIDE. INDEFERIMENTO. Pleito de reforma. Inviabilidade. Denunciação da lide que, ainda que prevista no CPC, não é obrigatória. Deferimento que implicaria na ampliação dos limites da lide, geraria tumulto processual e ofensa aos princípios da economia e celeridade processual. Indeferimento da denunciação da lide que não implica em prejuízo ao direito de regresso. Inteligência do artigo 125, § 1º, do CPC. Precedentes. Decisão mantida.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 489, II e § 1º, IV, e 1.022, I, do Código de Processo Civil, porquanto os embargos de declaração teriam apontado obscuridade sobre a interpretação dos arts. 4º e 6º, e o acórdão embargado teria sido genérico e sem exame específico dessa questão, faltando fundamentação adequada;.
+b) 4º, 6º e 125, § 1º, II, do Código de Processo Civil, porque o acórdão reconheceu o cabimento da denunciação da lide e a indeferiu para evitar aumento da complexidade, remetendo o agravante à ação regressiva, o que teria violado os princípios da economia e da celeridade;
+Requer o provimento do recurso para que se defira a denunciação da lide, citando-se SCOPEL EMPREENDIMENTOS E OBRAS S.A., nos termos do art. 126 do Código de Processo Civil. Requer ainda o provimento do recurso para que se anule o acórdão dos embargos de declaração e se determine sua complementação, com exame dos pontos não apreciados.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DENUNCIAÇÃO DA LIDE EM AÇÃO DE OBRIGAÇÃO DE FAZER. INDEFERIMENTO. REEXAME. AGRAVO EM RECURSO ESPECIAL CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
+I. CASO EM EXAME
+1. Agravo em recurso especial contra decisão do Tribunal de Justiça de São Paulo que inadmitiu o recurso especial por ausência de violação dos arts. 489 e 1.022 do CPC, ausência de demonstração de violação dos arts. 4º, 6º e 125, § 1º, II, do CPC, e incidência da Súmula n. 7 do STJ.
+2. A controvérsia diz respeito ao indeferimento da denunciação da lide em ação de obrigação de fazer sobre servidão de passagem, com alegação de obstrução por muro e pretensão de inclusão da vendedora no polo passivo.
+3. A Corte de origem negou provimento ao agravo de instrumento e manteve o indeferimento da denunciação da lide por não ser obrigatória, por ampliar indevidamente a lide e por preservar o direito regressivo por ação autônoma, nos termos do art. 125, § 1º, em atenção à economia e à duração razoável do processo.
+II. QUESTÃO EM DISCUSSÃO
+3. Há duas questões em discussão: (i) saber se houve violação dos arts. 489, II e § 1º, IV, e 1.022, I, do CPC, por ausência de fundamentação específica sobre a aplicação dos arts. 4º e 6º; e (ii) saber se o indeferimento da denunciação da lide violou os arts. 4º, 6º e 125, § 1º, II, do CPC, ao remeter o direito do agravante à ação regressiva e contrariar os princípios da economia e celeridade.
+III. RAZÕES DE DECIDIR
+4. Não há violação dos arts. 489 e 1.022 do CPC, pois o acórdão estadual enfrentou os pontos relevantes, justificando a desnecessidade da intervenção de terceiro e a suficiência da via regressiva por ação autônoma.
+5. A denunciação da lide não é obrigatória e o art. 125, § 1º, II, do CPC autoriza o exercício do direito regressivo por ação autônoma quando indeferida a intervenção, preservando a eficiência e a celeridade do processo principal, incidindo-se a Súmula n. 7 do STJ, pois a pretensão de rever a adequação concreta da denunciação da lide demanda reexame de matéria fático-probatória.
+IV. DISPOSITIVO E TESE
+7. Agravo em recurso especial conhecido para conhecer em parte do recurso especial e negar-lhe provimento.
+Tese de julgamento: "1. Não há violação dos arts. 489 e 1.022 do CPC quando o acórdão enfrenta os pontos essenciais e afasta a necessidade de intervenção de terceiro. 2. Incide a Súmula n. 7 do STJ na pretensão de reexame da adequação da denunciação da lide."
+Dispositivos relevantes citados: CPC, arts. 4, 6, 85, § 11, 125, § 1º, II, 489, II, § 1º, IV, 1.022, I; CF, art. 105, III, a
+Jurisprudência relevante citada: STJ, Súmula n. 7
+VOTO
+I. Contextualização
+O caso trata de agravo de instrumento interposto por DOUGLAS DA SILVA ALVES, na ação de obrigação de fazer em que DOMINGAS FERREIRA DA SILVA e AGNALDO CALDEIRA DE SOUZA postulam a derrubada de muro erguido pelo réu e afirmam existir servidão de passagem reconhecida por certidão municipal antiga e documento da loteadora SCOPEL, fato que teria sido obstruído pelo fechamento realizado em 2021.
+O Juízo de primeiro grau indeferiu a denunciação da lide requerida pelo réu em face da SCOPEL, por entender que a ampliação dos limites subjetivos da demanda geraria tumulto processual e ofenderia os princípios da economia e da duração razoável do processo.
+O Tribunal de Justiça de São Paulo manteve a decisão e negou provimento ao agravo de instrumento, assentando que a denunciação da lide, embora prevista no Código de Processo Civil, não é obrigatória e que seu deferimento ampliaria as causas de pedir e os pedidos, sem prejuízo do direito de regresso a ser exercido em ação autônoma, nos termos do art. 125, § 1º, do CPC.
+Concluiu que a inclusão da SCOPEL acarretaria atraso e prejuízo aos autores, podendo o réu, em caso de derrota, pleitear eventual indenização em demanda própria.
+Os embargos de declaração opostos pelo réu foram rejeitados. O acórdão dos embargos registrou inexistência de omissão, obscuridade, contradição ou erro material, afirmando que a decisão embargada enfrentou de modo suficiente a controvérsia e que a pretensão tinha caráter infringente, devendo eventual inconformismo ser veiculado pelos recursos cabíveis.
+II. Arts. 1.022, I, e 489, II e § 1º, IV, do CPC
+A parte alega que opôs embargos de declaração para sanar obscuridade sobre a aplicação dos arts. 4º e 6º do Código de Processo Civil e que o acórdão dos embargos foi genérico e sem enfrentamento específico, configurando falta de fundamentação.
+O acórdão dos embargos registrou inexistência de vícios, afirmando que a decisão enfrentou de maneira suficiente a controvérsia apresentada, e reproduziu a fundamentação do acórdão embargado sobre a inviabilidade da denunciação e a suficiência da ação regressiva, nos termos do art. 125, § 1º, do Código de Processo Civil.
+Não se verifica a alegada ofensa aos dispositivos, pois a questão referente à indicada obscuridade sobre a aplicação dos princípios da economia e celeridade processual foi devidamente analisada pela Corte estadual, que concluiu, de forma fundamentada, pela desnecessidade da intervenção de terceiro e pela suficiência da ação regressiva, nos termos do art. 125, § 1º, do Código de Processo Civil, afastando qualquer vício apto a nulificar o acórdão.
+Confira-se trecho do acórdão de embargos (fl. 203-204 ):
+Em que pese a irresignação da parte que se sentiu prejudicada, não se pode dizer que o acórdão tenha sido omisso, pois, ainda que tenha adotado entendimento diferente daquele defendido pelo embargante, a decisão está bem fundamentada, tendo o acórdão explicitado, de maneira detalhada, as razões pelas quais se entendeu como inviável a pretensão do embargante.
+ ..
+No caso concreto, ainda que prevista a denunciação à lide no art. 125, inciso II, do CPC, não é obrigatória, de modo que não se vislumbra a necessidade da intervenção pretendida pelo agravante que, caso vencido na ação principal, poderá reclamar o prejuízo sofrido em face da empresa que realizou a venda do imóvel, por meio de ação regressiva. A denunciação da lide causaria inegável prejuízo aos agravados, inclusive porque implicaria em inegável ampliação das causas de pedir e pedidos a serem examinados e julgados.
+ ..
+Essa solução encontra amparo no disposto no art. 125, § 1º, do CPC , segundo o qual "o direito regressivo será exercido por ação autônoma quando a denunciação da lide for indeferida, deixar de ser promovida ou não for permitida". Ademais, o indeferimento da denunciação da lide não implica prejuízo ao agravante, uma vez que subsiste seu direito a eventual ação regressiva
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+III. Arts. 4º, 6º e 125, § 1º, II, do CPC
+No recurso especial, o agravante afirma que a Corte estadual, embora tenha reconhecido o cabimento da denunciação da lide, indeferiu-a para evitar a ampliação da lide e remeteu o direito do agravante a ação regressiva, o que violaria os princípios da economia e da celeridade processual. Sustenta que, se a ação principal vier a ser julgada procedente, suportará custos de demolição do muro e desvalorização do imóvel, de modo que a inclusão da SCOPEL no polo passivo seria medida de racionalidade processual.
+O acórdão recorrido concluiu que a denunciação da lide não é obrigatória e que seu deferimento implicaria em inegável ampliação das causas de pedir e pedidos a serem examinados e julgados, sendo suficiente a tutela do direito de regresso.
+Ressaltou ainda que, a intervenção pretendida acarretaria tumulto processual e ofenderia a economia e a duração razoável do processo, preservando-se, contudo, a via autônoma para eventual pretensão regressiva.
+Confira-se trecho do acórdão recorrido (fl. 192):
+No caso concreto, ainda que prevista a denunciação à lide no art. 125, inciso II, do CPC, não é obrigatória, de modo que não se vislumbra a necessidade da intervenção pretendida pelo agravante que, caso vencido na ação principal, poderá reclamar o prejuízo sofrido em face da empresa que realizou a venda do imóvel, por meio de ação regressiva. A denunciação da lide causaria inegável prejuízo aos agravados, inclusive porque implicaria em inegável ampliação das causas de pedir e pedidos a serem examinados e julgados.
+Ademais, a conclusão do Tribunal estadual de que o direito regressivo pode ser exercido por ação autônoma encontra respaldo no próprio art. 125, § 1º, do Código de Processo Civil, que prevê que o direito regressivo será exercido por ação autônoma quando a denunciação da lide for indeferida, deixar de ser promovida ou não for permitida.
+A alegada ofensa aos arts. 4º e 6º do Código de Processo Civil não se evidencia, porque o indeferimento da intervenção buscou, precisamente, resguardar a eficiência e a celeridade do processo principal, evitando sua indevida complexificação, sem suprimir a tutela do eventual direito de regresso do agravante.
+Nessa moldura, a pretensão recursal demanda a revaloração de juízo eminentemente concreto sobre a pertinência da intervenção de terceiro, as consequências processuais da ampliação subjetiva da lide e a correlação entre os elementos probatórios (existência e delimitação da passagem, impacto da obra, necessidade de prova pericial e de nova instrução), todos apreciados pela Corte de origem .
+Rever tais conclusões reclama o revolvimento das circunstâncias fáticas e do acervo probatório dos autos, hipótese vedada em sede de recurso especial.
+Incide, pois, a Súmula n. 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DIREITO AUTORAL. DENUNCIAÇÃO DA LIDE. INDEFERIMENTO. REEXAME. IMPOSSIBILIDADE. ÓBICE DAS SÚMULAS 5 E 7/STJ. USO DE IMAGEM FOTOGRÁFICA SEM AUTORIZAÇÃO. RESPONSABILIDADE CIVIL RECONHECIDA. DEVER DE INDENIZAR. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7/STJ. DANO MORAL. VALOR DA INDENIZAÇÃO. RAZOABILIDADE. REVISÃO. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Incabível o acolhimento de pretensão recursal que demande o reexame dos aspectos fáticos e probatórios da causa e/ou a interpretação de cláusulas contratuais, com vistas a modificar a conclusão exarada pelo Tribunal de origem, ante os óbices dispostos nas Súmulas 5 e 7 do Superior Tribunal de Justiça.
+2. Não há como afastar as premissas fáticas e probatórias estabelecidas pelas instâncias ordinárias, soberanas em sua análise, pois, na via estreita do recurso especial, a incursão em tais elementos esbarraria no óbice do enunciado 7 da Súmula do Superior Tribunal de Justiça.
+3. Esta Corte Superior entende que a fixação do valor devido, a título de danos morais, "deve considerar o método bifásico, sendo este o que melhor atende às exigências de um arbitramento equitativo da indenização por danos extrapatrimoniais, uma vez que minimiza eventual arbitrariedade ao se adotar critérios unicamente subjetivos do julga dor, além de afastar eventual tarifação do dano" (AgInt nos EDcl no REsp 1.809.457/SP, Rel. Min. Luis Felipe Salomão, Quarta Turma, julgado em 20/2/2020, DJe de 3/3/02020).
+4. Agravo interno improvido. (AgInt no AREsp n. 2.141.882/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/11/2022, DJe de 24/11/2022, destaquei.)
+IV. Conclusão
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial para negar-lhe provimento.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do Código de Processo Civil, em razão da inexistência de prévia fixação na origem.
+É o voto
