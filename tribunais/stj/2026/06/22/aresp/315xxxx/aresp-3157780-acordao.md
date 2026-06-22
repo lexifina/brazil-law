@@ -1,0 +1,82 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/06/2026 a 22/06/2026, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ALVARÁ JUDICIAL. EXTINÇÃO POR FALTA DE INTERESSE DE AGIR. PREQUESTIONAMENTO FICTO (ART. 1.025 DO CPC). NÃO CONFIGURAÇÃO. INOVAÇÃO RECURSAL ACERCA DA NEGATIVA DE PRESTAÇÃO JURISDICIONAL (ART. 1.022 DO CPC). INADMISSIBILIDADE. ART. 612 DO CPC. EXISTÊNCIA DE VALORES LIBERÁVEIS. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO (ART. 1.029, § 1º, DO CPC; ART. 255, § 1º, DO RISTJ). AGRAVO CONHECIDO EM PARTE. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Agravo em recurso especial contra decisão que inadmitiu recurso especial interposto em procedimento de alvará judicial extinto por ausência de interesse de agir, diante da inexistência de valores liberáveis.
+2. A questão recursal consiste em examinar se há violação do art. 612 do CPC, se é possível introduzir, em AREsp, negativa de prestação jurisdicional não arguida no REsp, e se há dissídio jurisprudencial demonstrado.
+3. O prequestionamento ficto não se configura quando o Tribunal estadual rejeita embargos de declaração e afirma não existir omissão sobre o dispositivo suscitado, incidindo o entendimento das Súmulas 282 e 356/STF.
+4. A inovação recursal no agravo, para ampliar o objeto do recurso especial com alegação de negativa de prestação não veiculada oportunamente, é inadmissível.
+5. O reconhecimento de valores aptos ao levantamento por alvará demanda reexame do conjunto probatório, vedado pela Súmula n. 7/STJ.
+6. O dissídio jurisprudencial não se demonstra sem cotejo analítico e identidade fática entre os paradigmas e o acórdão recorrido, ficando prejudicado.
+7. Agravo conhecido em parte para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por JULIANA KARLA RIQUE MARTINS (JULIANA), contra decisão que não admitiu seu apelo nobre manejado com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça da Paraíba (TJ/PB), assim ementado:
+ALVARÁ JUDICIAL. EXTINÇÃO POR FALTA DE INTERESSE DE AGIR. AUSÊNCIA DE INFORMAÇÕES DE VALORES PASSÍVEIS DE LIBERAÇÃO POR ALVARÁ. MANUTENÇÃO DA SENTENÇA. PROVIMENTO NEGADO AO RECURSO.
+1 - Falta interesse de agir para procedimento de alvará judicial se não comprovada a existência de valores aptos à liberação.
+2 - Ocorrendo pretensão resistida em procedimento de alvará judicial, deve o interessado recorrer às vias ordinárias (e-STJ, fls. 299/300).
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 320/323).
+Nas razões do agravo, JULIANA apontou (1) a não incidência do óbice da Súmula n. 211/STJ, por prequestionamento ficto do art. 612 do CPC com base no art. 1.025 do CPC; (2) negativa de prestação jurisdicional por não enfrentamento do art. 612 do CPC (art. 1.022 do CPC); e (3) violação do art. 612 do CPC ao extinguir o feito por ausência de interesse de agir apesar de prova documental de valores (e-STJ, fls. 348/361).
+Não houve a apresentação de contraminuta (e-STJ, fl. 362).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ALVARÁ JUDICIAL. EXTINÇÃO POR FALTA DE INTERESSE DE AGIR. PREQUESTIONAMENTO FICTO (ART. 1.025 DO CPC). NÃO CONFIGURAÇÃO. INOVAÇÃO RECURSAL ACERCA DA NEGATIVA DE PRESTAÇÃO JURISDICIONAL (ART. 1.022 DO CPC). INADMISSIBILIDADE. ART. 612 DO CPC. EXISTÊNCIA DE VALORES LIBERÁVEIS. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO (ART. 1.029, § 1º, DO CPC; ART. 255, § 1º, DO RISTJ). AGRAVO CONHECIDO EM PARTE. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Agravo em recurso especial contra decisão que inadmitiu recurso especial interposto em procedimento de alvará judicial extinto por ausência de interesse de agir, diante da inexistência de valores liberáveis.
+2. A questão recursal consiste em examinar se há violação do art. 612 do CPC, se é possível introduzir, em AREsp, negativa de prestação jurisdicional não arguida no REsp, e se há dissídio jurisprudencial demonstrado.
+3. O prequestionamento ficto não se configura quando o Tribunal estadual rejeita embargos de declaração e afirma não existir omissão sobre o dispositivo suscitado, incidindo o entendimento das Súmulas 282 e 356/STF.
+4. A inovação recursal no agravo, para ampliar o objeto do recurso especial com alegação de negativa de prestação não veiculada oportunamente, é inadmissível.
+5. O reconhecimento de valores aptos ao levantamento por alvará demanda reexame do conjunto probatório, vedado pela Súmula n. 7/STJ.
+6. O dissídio jurisprudencial não se demonstra sem cotejo analítico e identidade fática entre os paradigmas e o acórdão recorrido, ficando prejudicado.
+7. Agravo conhecido em parte para não conhecer do recurso especial.
+VOTO
+O agravo é espécie recursal cabível e foi interposto tempestivamente.
+Contudo, seu conhecimento deve ser parcial.
+A alegação de negativa de prestação jurisdicional, com fundamento no art. 1.022 do CPC, não foi veiculada nas razões do recurso especial, surgindo apenas nas razões do presente agravo. Cuida-se, portanto, de inovação recursal: o agravo em recurso especial tem como função precípua impugnar os fundamentos da decisão que inadmitiu o apelo nobre, não podendo ser utilizado como via para ampliar o objeto do recurso especial com fundamentos que a parte deixou de deduzir no momento próprio. A introdução de nova causa de pedir recursal em sede de agravo configura indevida expansão do objeto do recurso especial, o que impede seu conhecimento nesse ponto.
+CONHEÇO, portanto, parcialmente do agravo e passo ao exame do recurso especial.
+Do recurso especial
+Nas razões do apelo nobre, interposto com fundamento nas alíneas a e c do inciso III do art. 105 da CF, JULIANA alegou a violação do art. 612 do CPC, ao sustentar (1) prequestionamento implícito e explícito e, em todo caso, ficto do art. 612 do CPC, por ter suscitado a matéria em embargos de declaração; (2) a existência de prova documental suficiente da existência de valores, o que afastaria a extinção por falta de interesse de agir; e (3) dissídio jurisprudencial (e-STJ, fls. 326/340).
+Não houve a apresentação de contrarrazões (e-STJ, fl. 341).
+Breve contextualização da controvérsia
+De acordo com os autos, a controvérsia teve início em procedimento de alvará judicial para levantar valores supostamente devidos ao espólio de Estelita Rique Ferreira, com o requerimento para que fossem oficiados o INSS, a FUNASA, a Receita Federal e o Exército para apuração de eventuais créditos.
+O Juízo de primeira instância extinguiu o processo por falta de interesse de agir, destacando a inexistência de valores aptos ao levantamento por alvará e a inadequação do procedimento para discutir prescrição ou instaurar litígio.
+Irresignada, JULIANA interpôs apelação, que não foi provida, nestes termos:
+No curso do Processo foram expedidos ofícios solicitando informações de valores em nome da falecida Estelita Rique Ferreira, e na condição de dependente do seu falecido esposo Aristides Rodrigues Martins, e, diante das informações, o Juízo, na Decisão Id. n. 24486362, determinou a modificação da classe do Processo Inventário e Partilha para Alvará Judicial, e determinou a intimação da Requerente para se manifestar a respeito do interesse de agir, diante da inexistência de valores a serem liberados, tendo esta peticionado nos autos Id. n. 24486376, sem apresentação de novos documentos.
+Nas informações relativas às consultas perante o INSS e no Ofício n. 491/ 2016, oriundo da Receita Federal (Id. 24486363 a 24486371 e 24486095 pag. 81), consta inexistência de valores a serem liberados e inexistência de saldo pendente de restituição de Imposto de Renda.
+No Ofício oriundo da FUNASA consta que não há valores em nome da falecida Estelita Rique Ferreira, a serem liberados, e, em relação ao falecido Aristides Rodrigues Martins, consta que "deixou a quantia de 1.790,19, referente ao passivo dos 3,17%", o que se evidenciar não se tratar de saldo a liberar.
+Por fim, na resposta do Ministério do Exército, por meio do Ofício 089 - SS8/OPIP/23ª CSM, consta valores referentes à pensão em favor da falecida, do período de 27 de julho de 2006 a 31 de dezembro de 2006, entretanto, informou a Autoridade que os valores já foram alcançados pela prescrição (Id. n. 24486096 pág. 2).
+A jurisprudência dos Tribunais pátrios firmou o entendimento de que havendo óbice para liberação de valores por meio de alvará, em procedimento especial de ação de inventário e partilha ou de alvará judicial1, deve o interessado impugnar a recursa por meio das vias ordinárias, visto que o alvará não é ordem judicial para liberação (e-STJ, fl. 300).
+A recorrente opôs embargos de declaração, que foram rejeitados, conforme os seguintes fundamentos:
+No caso concreto, a inexistência de saldo em favor da falecida enseja a extinção do feito, sem resolução do mérito. Eventual discordância da Apelante com relação às respostas dos órgãos e instituições financeiras devem ser deduzidas pela via própria, posto que o feito não ostenta natureza contenciosa, razão pela qual não há o que se falar em instrução processual.
+ ..
+A conclusão exposta no Acórdão está em consonância com as recentes decisões deste Tribunal, não havendo, portanto, a ocorrência dos vícios alegados pela Embargante, de modo que a insurgência trazida nos Aclaratórios configura mero inconformismo com o que restou decidido, pretendendo ela rediscutir questão clara, expressa e coerentemente decidida, providência vedada nesta estreita via recursal.
+O caráter prequestionatório que a Embargante deseja emprestar aos Aclaratórios não tem como ser acolhido, porquanto o Acórdão embargado analisou toda a matéria posta em discussão, inexistindo, portanto, qualquer eiva de omissão, obscuridade, contradição ou erro de fato a ser sanado (e-STJ, fls. 322/323).
+Do decidido, JULIANA interpôs recurso especial pelas alíneas a e c, que não merece ser conhecido, pelas razões a seguir.
+(1) Da violação do art. 612 do CPC
+A recorrente sustenta a não incidência do óbice da Súmula n. 211/STJ, invocando o prequestionamento ficto previsto no art. 1.025 do CPC, ao argumento de que teria suscitado a matéria do art. 612 do CPC em embargos de declaração.
+Sem razão, contudo, a recorrente.
+O prequestionamento ficto, consagrado no art. 1.025 do CPC, pressupõe que: (i) a parte tenha oposto embargos de declaração com o propósito de provocar o Tribunal de origem a se manifestar sobre o dispositivo que pretende prequestionar; e (ii) o acórdão dos aclaratórios tenha sido omisso a esse respeito, isto é, tenha se silenciado sobre o tema suscitado.
+No caso dos autos, nenhum desses pressupostos está satisfeito. O Tribunal paraibano, ao rejeitar os embargos de declaração, foi expresso ao afirmar que não havia omissão a suprir e que o caráter prequestionatório que a recorrente pretendia emprestar aos aclaratórios não poderia ser acolhido, pois o acórdão embargado havia analisado toda a matéria posta em discussão. Não houve, portanto, silêncio do Tribunal estadual sobre o dispositivo invocado, mas expressa recusa em reconhecer omissão, o que afasta, de plano, a configuração do prequestionamento ficto.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. AÇÃO RESCISÓRIA COMO SUCEDÂNEO RECURSAL. INADEQUAÇÃO DA VIA ELEITA. 3. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA N. 283/STF. 4. OFENSA AOS ARTS. 4º, 5º, 9 E 10 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. 5. VIOLAÇÃO A DISPOSITIVO CONSTITUCIONAL. INVIABILIDADE DE EXAME PELO SUPERIOR TRIBUNAL DE JUSTIÇA. 6. AGRAVO INTERNO DESPROVIDO.
+ ..
+4. No tocante à aventada violação aos arts. 4º, 5º, 9º e 10 do CPC/2015, verifica-se que os conteúdos normativos dos citados dispositivos não foram objeto de apreciação pelo Tribunal de origem. Portanto, ausente o prequestionamento, entendido como a necessidade de ter o tema objeto do recurso sido examinado na decisão atacada, o que atrai a incidência das Súmulas 282 e 356 do Supremo Tribunal Federal.
+4.1. Segundo a orientação deste Superior Tribunal, mesmo as questões de ordem pública devem ser prequestionadas para serem examinadas em recurso especial.
+ ..
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.413.313/RJ, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 30/10/2023, DJe de 3/11/2023).
+Ainda que superado o óbice do prequestionamento, a tese da recorrente também não prosperaria no mérito.
+A conclusão do Tribunal estadual, de que a inexistência de valores aptos ao levantamento por alvará, confirmada pelas respostas oficiais dos órgãos consultados, impede o prosseguimento do procedimento especial, é de natureza essencialmente fático-probatória, decorrendo da valoração concreta dos documentos carreados aos autos.
+Conforme transcrição acima, verifica-se que o acórdão recorrido examinou detalhadamente as respostas de cada órgão oficialmente consultado (INSS, Receita Federal, FUNASA e Ministério do Exército), concluindo pela inexistência de valores liberáveis: o INSS e a Receita Federal informaram ausência de valores; a FUNASA não registrou créditos em nome da falecida; e o Ministério do Exército confirmou a existência de valores referentes à pensão, mas informou que já estavam alcançados pela prescrição.
+Rever essa conclusão para reconhecer a existência de prova documental suficiente a embasar a expedição do alvará demandaria necessariamente nova incursão no acervo probatório dos autos, o que é vedado nesta instância extraordinária pelo enunciado da Súmula n. 7/STJ.
+Acrescente-se que a tese da recorrente, de que seria possível expedir o alvará reservando ao órgão pagador a recusa fundada na prescrição, não afasta o óbice, pois pressupõe a existência de valores a serem liberados, premissa que o Tribunal paraibano, com base nas provas dos autos, expressamente afastou. Rever essa premissa é exatamente o que a Súmula n. 7/STJ veda.
+(2) Dissídio jurisprudencial
+A demonstração do dissídio jurisprudencial fica prejudicada em razão da incidência cumulativa dos óbices das Súmulas n. 282/STF (ausência de prequestionamento do art. 612 do CPC) e n. 7/STJ (natureza fático-probatória da controvérsia)
+A incidência dos referidos enunciados impede o conhecimento do recurso especial interposto com fundamento na alínea c do permissivo constitucional, uma vez que a falta de identidade fática entre os arestos confrontados, decorrente justamente das circunstâncias específicas e do conjunto probatório de cada caso concreto, obsta a demonstração do dissídio jurisprudencial.
+Na hipótese em exame, a conclusão do acórdão recorrido sobre a inexistência de valores aptos ao levantamento por alvará derivou da avaliação concreta das respostas dos órgãos consultados, de modo que qualquer confronto com os julgados paradigmas invocados pela recorrente pressuporia, inevitavelmente, o reexame desse substrato fático, providência vedada neste grau recursal.
+Acrescente-se, ainda, que a recorrente não realizou o necessário cotejo analítico entre as premissas fáticas e as razões de decidir dos julgados paradigmas e do acórdão recorrido, limitando-se a afirmar genericamente a existência de divergência, sem demonstrar que as situações fáticas confrontadas eram substancialmente análogas e que, não obstante, receberam soluções jurídicas divergentes.
+A ausência desse cotejo analítico rigoroso, exigido pelo art. 1.029, §1º, do CPC e pelo art. 255, §1º, do RISTJ, configura deficiência na fundamentação do recurso especial que, por si só, impediria o seu conhecimento pela via do dissídio, independentemente da incidência dos demais óbices.
+Nessas condições, CONHEÇO PARCIALMENTE do agravo para NÃO CONHECER do recurso especial.
+É o voto.
+Não é a hipótese de majoração dos honorários recursais.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente protelatório, poderá acarretar condenação nos termos do art. 1.026, §2º, do CPC.
