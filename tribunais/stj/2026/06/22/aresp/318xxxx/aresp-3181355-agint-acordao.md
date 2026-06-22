@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/06/2026 a 22/06/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA. PRINCÍPIO DA DIALETICIDADE. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. COTEJO ANALÍTICO. ARTS. 932, III, DO CPC; 1.029, § 1º, DO CPC; 253, PARÁGRAFO ÚNICO, I, E 255, § 1º, DO RISTJ. MULTA DO ART. 1.021, § 4º, DO CPC. NÃO INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial por ausência de impugnação específica de todos os fundamentos de inadmissibilidade, notadamente a deficiência do cotejo analítico para a demonstração do dissídio.
+2. A questão recursal consiste em examinar se (i) houve impugnação específica e suficiente aos fundamentos de inadmissibilidade do apelo nobre, à luz do princípio da dialeticidade e do art. 932, III, do CPC, especialmente sobre a comprovação do dissídio jurisprudencial, bem como se cabe a multa do art. 1.021, § 4º, do CPC.
+3. A impugnação deve ser efetiva e pormenorizada, alcançando todos os fundamentos que sustentam a inadmissibilidade. A comprovação do dissídio exige cotejo analítico com transcrição dos trechos dos acórdãos paradigmas e a exposição das circunstâncias que identifiquem ou assemelhem os casos confrontados. A mera declaração de autenticidade dos julgados paradigmas, sem o confronto analítico, não atende aos arts. 1.029, § 1º, do CPC, e 255, § 1º, do RISTJ.
+4. A multa do art. 1.021, § 4º, do CPC não é automática e somente incide quando o agravo interno é manifestamente inadmissível ou de improcedência evidente, hipótese não caracterizada.
+5 . Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por TENDA NEGÓCIOS IMOBILIÁRIOS S.A. (TENDA) contra decisão de relatoria do Ministro Presidente desta Corte, que não conheceu do agravo em recurso especial anteriormente manejado em virtude da ausência de impugnação dos fundamentos que obstaram a subida do apelo nobre (ausência de similitude fática).
+Nas razões do presente inconformismo, TENDA alegou ter se insurgido contra todos os fundamentos do juízo de admissibilidade do recurso especial, pugnando pela reforma da decisão agravada.
+Foi apresentada contraminuta requerendo a aplicação da multa prevista no art. 1.021, § 4º, do CPC (e-STJ, fls. 1.289/1.295).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA. PRINCÍPIO DA DIALETICIDADE. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. COTEJO ANALÍTICO. ARTS. 932, III, DO CPC; 1.029, § 1º, DO CPC; 253, PARÁGRAFO ÚNICO, I, E 255, § 1º, DO RISTJ. MULTA DO ART. 1.021, § 4º, DO CPC. NÃO INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial por ausência de impugnação específica de todos os fundamentos de inadmissibilidade, notadamente a deficiência do cotejo analítico para a demonstração do dissídio.
+2. A questão recursal consiste em examinar se (i) houve impugnação específica e suficiente aos fundamentos de inadmissibilidade do apelo nobre, à luz do princípio da dialeticidade e do art. 932, III, do CPC, especialmente sobre a comprovação do dissídio jurisprudencial, bem como se cabe a multa do art. 1.021, § 4º, do CPC.
+3. A impugnação deve ser efetiva e pormenorizada, alcançando todos os fundamentos que sustentam a inadmissibilidade. A comprovação do dissídio exige cotejo analítico com transcrição dos trechos dos acórdãos paradigmas e a exposição das circunstâncias que identifiquem ou assemelhem os casos confrontados. A mera declaração de autenticidade dos julgados paradigmas, sem o confronto analítico, não atende aos arts. 1.029, § 1º, do CPC, e 255, § 1º, do RISTJ.
+4. A multa do art. 1.021, § 4º, do CPC não é automática e somente incide quando o agravo interno é manifestamente inadmissível ou de improcedência evidente, hipótese não caracterizada.
+5 . Agravo interno não provido.
+VOTO
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+Da análise do presente inconformismo se verifica que, conforme consignado na decisão atacada, o agravo em recurso especial não se dirigiu especificamente contra a integralidade dos fundamentos da decisão que negou seguimento ao apelo nobre, pois TENDA, na ocasião, não refutou, de forma arrazoada, a ausência de similitude fática.
+E isso não fez porque apenas sustentou nas razões de seu agravo em recurso especial, (1) negativa da prestação jurisdicional; (2) que a solução das questões controvertidas independe da interpretação de cláusula contratual ou do reexame de provas; e (3) que foi demonstrada a vulneração aos dispositivos legais arrolados no apelo nobre.
+Assim, não houve a demonstração do adequado confronto dos fundamentos da decisão agravada em relação ao óbice acima mencionado.
+Cumpre registrar que, na hipótese em que a parte pretende se insurgir, no agravo em recurso especial, contra o não cabimento do apelo nobre por ausência de demonstração do dissídio jurisprudencial, deve ela demonstrar que realizou o cotejo analítico, com a transcrição dos trechos dos acórdãos paradigmas, mencionando as circunstâncias que identifiquem ou assemelhem os casos confrontados, nos moldes exigidos pelos arts. 1.029, § 1º, do CPC, e 255, § 1º, do RISTJ, o que não ocorreu no caso concreto.
+Logo, verifica-se que o agravo em recurso especial não impugnou adequadamente o óbice anteriormente mencionado, e nada trazido neste agravo interno é capaz de contrariar tal entendimento.
+Conforme já decidiu o STJ:
+ ..  à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge.
+(AgRg no Ag nº 1.056.913/SP, Relª. Ministra Eliana Calmon, Segunda Turma, DJe de 26/11/2008 - sem destaque no original)
+Por isso, o agravo em recurso especial não se mostrou viável, uma vez que a impugnação deve ser efetiva, concreta e direcionada a todos os fundamentos que sustentam a inadmissibilidade do apelo nobre. Alegações genéricas ou centradas no mérito não suprem o ônus de demonstrar, de modo específico, a inadequação dos óbices, nos termos do princípio da dialeticidade e do art. 932, III, do CPC, devendo ser mantida a decisão agravada.
+Nesse sentido, seguem os precedentes:
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL INADMITIDO. AGRAVO INTERNO. SÚMULA 182/STJ. IMPUGNAÇÃO ESPECÍFICA. AGRAVO INTERNO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que inadmitiu recurso especial com fundamento na Súmula 83 do STJ, por ausência de afronta a dispositivo legal e divergência não comprovada.
+2. A parte agravante não impugnou especificamente dois dos fundamentos da decisão recorrida, nomeadamente a incidência da Súmula 83/STJ e a ausência de comprovação da divergência, conforme exigido pelo art. 932, III, do CPC e art. 253, parágrafo único, I, do Regimento Interno do STJ.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a ausência de impugnação específica de todos os fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do agravo interno.
+III. Razões de decidir
+4. A decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, exigindo que a parte agravante impugne todos os fundamentos da decisão.
+5. A impugnação deve ser efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia.
+6. A decisão agravada está em consonância com a jurisprudência do STJ, conforme a Súmula 83, que impede o conhecimento do recurso especial quando o acórdão recorrido está alinhado com a orientação do Tribunal.
+7. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas. A mera transcrição de ementas e excertos, desprovida da realização do necessário cotejo analítico entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea "c" do permissivo constitucional. Incidência da Súmula 284 do STF.
+IV. Dispositivo
+8. Agravo interno não conhecido.
+(AgInt no AREsp nº 2.853.856/SP, Relª. Ministra Daniela Teixeira, Terceira Turma, j. em 9/6/2025, DJEN de 13/6/2025 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM. PRINCIPIO DA DIALETICIDADE. ART. 932, III, DO CPC DE 2.015. INSUFICIÊNCIA DE ALEGAÇÃO GENÉRICA. RECURSO MANIFESTAMENTE INADMISSÍVEL. MULTA DO ART. 1.021, § 4º, DO CPC. AGRAVO INTERNO NÃO PROVIDO.
+1. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 932, III, do CPC de 2.015 e art. 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado.
+2. Para afastar o fundamento da decisão agravada, de incidência do óbice da Súmula n. 7/STJ, não basta apenas deduzir alegação genérica de inaplicabilidade do referido óbice ou que a tese defensiva não demanda reexame de provas. Para tanto, o recorrente deve desenvolver argumentação que demonstre como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem nova análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão objurgado, ônus do qual, contudo, não se desobrigou. Precedentes.
+3. O recurso mostra-se manifestamente inadmissível, a ensejar a aplicação da multa prevista no artigo 1.021, § 4º, do CPC, no percentual de 1% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º, do citado artigo de lei.
+4. Agravo interno não provido, com aplicação de multa.
+(AgInt no AREsp nº 2.104.307/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, j. em 8/8/2022, DJe de 15/8/2022 - sem destaque no original)
+Assim, como TENDA não demonstrou o equívoco nos fundamentos da decisão agravada, deve ser mantido o não conhecimento do agravo em recurso especial, visto que não é admissível a impugnação somente no âmbito do agravo interno, em virtude da preclusão.
+Da multa prevista no art. 1.021, § 4º, do CPC
+Por derradeiro, conforme orienta a jurisprudência das Turmas que compõem a Segunda Seção do STJ, a aplicação da multa prevista no art. 1.021, § 4º, do CPC não é automática, pois não se trata de mera decorrência lógica do não provimento do agravo interno em votação unânime.
+A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória (AgInt nos EREsp nº 1.120.356/RS, Rel. Ministro Marco Aurélio Bellizze, Segunda Seção, j. em 24/8/2016, DJe de 29/8/2016).
+Nessa toada, confiram-se os seguintes julgados: AgInt no AREsp nº 605.532/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, j. em 31/8/2020, DJe de 9/9/2020; e AgInt no AREsp nº 1.590.140/PR, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, j. em 31/8/2020, DJe de 3/9/2020.
+Assim, não há que se falar na aplicação da aludida multa, uma vez que, no caso, o manejo do agravo interno por parte de TENDA, por si só, não deve ser tido como abusivo ou protelatório.
+Desse modo, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
+Por oportuno, previno as partes de que a interposição de recurso contra este acórdão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação à penalidade fixada no art. 1.026, § 2º, do CPC.
