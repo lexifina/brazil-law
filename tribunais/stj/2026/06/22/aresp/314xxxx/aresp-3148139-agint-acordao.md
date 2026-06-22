@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/06/2026 a 22/06/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C REPARAÇÃO DE DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação de rescisão contratual c/c reparação de danos materiais e compensação por danos morais.
+2. Não há violação ao art. 1.022 do CPC quando o Tribunal de origem aprecia e soluciona, de forma clara, objetiva e fundamentada, todas as questões essenciais à delimitação da controvérsia, inexistindo omissão, contradição ou obscuridade apta a macular o acórdão recorrido.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não se verifica violação do art. 489 do CPC.
+4. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. Agravo interno não provido.
+RELATÓRIO
+Examina-se agravo interno interposto por LAREDO URBANIZADORA LTDA e PORTO POXIM LOTEAMENTO SPE LTDA, contra decisão que conheceu do agravo para conhecer parcialmente do recurso especial que interpusera e, nessa extensão, negar-lhe provimento.
+Ação: de rescisão contratual c/c reparação de danos materiais e compensação por danos morais, ajuizada por DIANA SILVA DE ALMEIDA CARVALHO, em face de PORTO POXIM LOTEAMENTO SPE LTDA. e LAREDO URBANIZADORA LTDA., na qual requer a rescisão do contrato de compra e venda e a restituição integral dos valores pagos.
+Sentença: julgou parcialmente procedentes os pedidos, para: i) decretar a rescisão do contrato de compra e venda com pacto adjeto de alienação fiduciária referente ao Lote nº 955, quadra Y, do Loteamento "Porto Poxim"; ii) condenar as requeridas, solidariamente, à restituição integral dos valores efetivamente pagos, atualizados.
+Acórdão: negou provimento ao recurso de apelação interposto por LAREDO CONSTRUÇÃO LTDA. e PORTO POXIM LOTEAMENTO SPE LTDA. e deu parcial provimento ao recurso de apelação interposto por DIANA SILVA DE ALMEIDA CARVALHO, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO DE RESCISÃO CONTRATUAL. ATRASO NA ENTREGA DE IMÓVEL. DISTRATO. CULPA EXCLUSIVA DAS REQUERIDAS. RESTITUIÇÃO INTEGRAL DOS VALORES PAGOS. IMPOSSIBILIDADE DE RETENÇÃO DE TAXA DE CORRETAGEM E MULTA. INEXISTÊNCIA DE DANOS MORAIS. SUCUMBÊNCIA MÍNIMA DA PARTE AUTORA.
+I - O atraso na entrega do imóvel por quase três anos, motivado por irregularidades reconhecidas pela administração pública, configura falha na prestação do serviço, justificando a rescisão contratual e a restituição integral dos valores pagos, sem retenção de corretagem ou multa contratual, nos termos da Súmula 543 do STJ.
+II - O atraso na entrega de imóvel, por si só, não enseja danos morais. Revogação da Súmula 12 do TJSE e jurisprudência do STJ.
+III - Reformada a sentença apenas para afastar a sucumbência recíproca, reconhecendo a sucumbência mínima da parte autora, impondo-se às rés o pagamento integral das custas processuais e honorários advocatícios.
+IV - Recursos conhecidos, porém não provido o da parte ré e, parcialmente provido, o da parte autora. (e-STJ fls. 453-454)
+Embargos de Declaração: opostos por DIANA SILVA DE ALMEIDA CARVALHO, foram rejeitados. Embargos de Declaração opostos por LAREDO CONSTRUÇÃO LTDA. e PORTO POXIM LOTEAMENTO SPE LTDA., foram acolhidos para o fim de incluir, na fundamentação, manifestação clara sobre o Termo de Verificação de Obra (TVO) e sobre o impacto da COVID-19 no atraso do empreendimento, sem alterar o dispositivo.
+Recurso especial: alega violação dos arts. 489, § 1º, 1.013, 1.022, I, II e III, do CPC, e 403 do CC. Além da negativa de prestação jurisdicional, sustenta que o acórdão incorre em premissa equivocada ao desconsiderar a entrega do empreendimento e o TVO, sem enfrentar fundamentos essenciais do apelo. Argumenta que inexiste nexo causal entre o pedido de rescisão e o atraso na entrega, por ter a ação sido proposta meses após a expedição do TVO, impondo a aplicação da teoria da causalidade direta e imediata para afastar a restituição integral.
+Decisão unipessoal: conheceu do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento, com os seguintes fundamentos: i) ausência de violação dos arts. 489 e 1.022 do CPC; e ii) incidência do óbice da Súmula 7/STJ.
+Agravo interno: A parte agravante alega omissão não sanada quanto ao TVO e à entrega em outubro de 2022, impacto da COVID-19, ausência de nexo causal com a rescisão ajuizada em 15/5/2024, contrariedade à prova dos autos, e violação dos arts. 489, § 1º, e 1.022, I, II e III, do CPC e do art. 403 do CC; afirma que para exame da questão federal, não haverá necessidade de reexame das provas, afastando a Súmula 7 do STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C REPARAÇÃO DE DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação de rescisão contratual c/c reparação de danos materiais e compensação por danos morais.
+2. Não há violação ao art. 1.022 do CPC quando o Tribunal de origem aprecia e soluciona, de forma clara, objetiva e fundamentada, todas as questões essenciais à delimitação da controvérsia, inexistindo omissão, contradição ou obscuridade apta a macular o acórdão recorrido.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não se verifica violação do art. 489 do CPC.
+4. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. Agravo interno não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+I. Da violação dos arts. 489 e 1.022 do CPC
+1. Inicialmente, constata-se que realmente inexiste a alegada violação do art. 1.022 e do art. 489 do CPC, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, tendo o Tribunal de origem apreciado fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+2. Conforme consignado na decisão agravada, depreende-se da análise do acórdão recorrido e do acórdão nos embargos de declaração que o TJ/SE, de modo expresso e suficiente, enfrentou os pontos supostamente omissos. No julgamento da apelação, o colegiado consignou que a culpa das rés decorre de irregularidades reconhecidas pela administração pública e judicializadas, com atraso significativo, o que justifica a rescisão e a devolução integral nos termos da Súmula 543/STJ. (e-STJ fl. 458) Nos embargos de declaração, houve reconhecimento de omissão e inclusão textual específica sobre o TVO, a pendência judicial que inviabiliza a posse plena, a entrega simulada e a irrelevância dos argumentos de caso fortuito/força maior (chuvas e pandemia) para afastar a mora, sem alteração do dispositivo. (e-STJ fls. 484-485)
+3. Assim, há prestação jurisdicional suficiente e fundamentada, inexistindo negativa de prestação jurisdicional ou vício do art. 489, § 1º do CPC.
+4. Nesse sentido: Aglnt no AREsp 2.434.278/DF, Quarta Turma, DJe 2/5/2024; e REsp 1.923.107/SP, Terceira Turma, DJe 16/8/2021.
+III. Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+5. O exame da suposta violação aos dispositivos alegados foi igualmente afastado ante a incidência dos óbices das Súmulas 5 e 7 do STJ, em atenção às particularidades dos autos, razão pela qual a decisão agravada não merece reforma.
+6. Isso porque, o Tribunal local conclui pela culpa exclusiva das vendedoras, afirma que o TVO não comprova a conclusão das obras, qualifica a entrega como simulada e afasta caso fortuito/força maior, mantendo a restituição integral e o não cabimento de retenções.
+7. A esse respeito, colhe-se a seguinte fundamentação do acórdão recorrido:
+(..) Compulsando detidamente os autos, observo que restou incontroverso que a rescisão do contrato se deu por culpa exclusiva das requeridas, haja vista o atraso de quase 03 (três) anos teve como fato desencadeador a constatação, pela administração pública local, de irregularidades perpetradas pelas requeridas, ainda sob apreciação do Poder Judiciário, sendo, portanto, cabível a rescisão contratual por falha na prestação dos serviços das requeridas, nos termos do pedido.
+A cláusula do contrato estabelecia a entrega do lote em 31 de março de 2022, posteriormente alterada para outubro de 2022.
+Ocorre que, em que pesem as alegações da parte ré, a emissão do TVO não equivale à conclusão das obras devido à pendência judicial, impossibilitando a posse plena do imóvel pela autora. Não se reconhece a conclusão das obras, e a entrega foi considerada simulada. A justificativa da demandada sobre caso fortuito e força maior (chuvas e pandemia) não afasta a mora contratual.
+Destarte, conclui-se que a falha na prestação do serviço justifica a rescisão do contrato.
+Assim, em hipóteses de rescisão por culpa da vendedora, não há causa para aplicação das regras da Lei nº 9.514/97 (reservada aos casos de rescisão do contrato por iniciativa da credora fiduciária, em razão do inadimplemento).
+Da mesma forma, não deve ser aplicado o art. 32-A na Lei nº 6.766, haja vista que não restou configurada a mora do comprador, tendo este pleiteado a rescisão contratual respaldado no atraso da entrega por parte da demandada.
+Ademais, o contrato firmado entre as partes previa a entrega do lote em março/2022 e, ainda que se considere a suspensão das atividades da construção civil por determinação da Justiça do Trabalho, a referida liminar durou dois meses, enquanto o atraso da entrega do imóvel em questão foi em período muito superior.
+Diante disso, vislumbro que não houve a configuração de mora da compradora, visto que a rescisão contratual pleiteada foi respaldada no atraso da entrega do imóvel, por parte da requerida, descabida, então, a aplicação dos dispositivos da lei regente ao caso em concreto.
+8. Desse modo, rever tal entendimento, de fato, implicaria em reexame do acervo fático-probatório assim como a interpretação de cláusulas contratuais, o que é obstado pelos enunciados sumulares 5 e 7/STJ.
+9. A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no agravo em recurso especial.
