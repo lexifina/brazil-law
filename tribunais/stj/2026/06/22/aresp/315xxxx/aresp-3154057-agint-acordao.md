@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/06/2026 a 22/06/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. PRESCRIÇÃO INTERCORRENTE. ACÓRDÃO RECORRIDO QUE CONSIGNOU A EFETIVA REALIZAÇÃO DE PENHORA NO ROSTO DOS AUTOS. REVERSÃO DO ENTENDIMENTO. NECESSIDADE DE REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Afasta-se a alegada violação dos artigos 489 e 1.022 do CPC/2015 quando o acórdão recorrido manifesta-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia.
+3. No caso dos autos, a Corte de origem, após ampla análise do conjunto fático-probatório, consignou a efetiva realização de penhora no rosto dos autos. A revisão de tais conclusões demanda a incursão nos fatos e provas dos autos. Incidência da Súmula 7/STJ.
+4. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 874):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. CRÉDITO NÃO TRIBUTÁRIO. PRESCRIÇÃO INTERCORRENTE. DA TEMAS REPETITIVOS 566ART. 40 LEI 6.830/1981. E 568 DO STJ. ACÓRDÃO RECORRIDO QUE CONSIGNOU A EFETIVA REALIZAÇÃO DE PENHORA NO ROSTO DOS AUTOS. REVERSÃO DO ENTENDIMENTO. NECESSIDADE DE REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA AGRAVO CONHECIDO PARA NÃOSÚMULA 7/STJ. CONHECER DO RECURSO ESPECIAL.
+A agravante alega a existência de violação dos arts. 489 e 1.022 do CPC/2015, pois "o TRF4 limitou-se a ignorar a tese de que meros pedidos de reserva de numerário são inidôneos para interromper a prescrição, deixando de explicar por que as particularidades da recuperação judicial da agravante autorizariam a flexibilização das regras rígidas estabelecidas nos Temas 566 e 568 do STJ" (fl. 335).
+Sustenta, quanto à Súmula n. 7/STJ, que "é fato admitido pelas partes e pelo tribunal de origem que não houve a apreensão física ou jurídica de bens da executada, mas tão somente um requerimento da CVM para reserva de valores em outro processo. A controvérsia, portanto, é estritamente de direito: saber se esse requerimento administrativo ou judicial de reserva é apto a interromper o prazo prescricional intercorrente. A qualificação jurídica de um ato processual é questão de direito, amplamente admitida pela jurisprudência deste STJ. " (fl. 336).
+Argumenta que "a manutenção da decisão agravada implica em violação direta à sistemática da prescrição intercorrente estabelecida pelo artigo 40 da LEF e detalhada no Tema 566 deste Tribunal. A norma é clara ao estabelecer que, após um ano de suspensão da execução sem a localização de bens penhoráveis, inicia-se automaticamente o prazo prescricional quinquenal. No caso em tela, o hiato de inatividade da exequente entre 2017 e 2024 ultrapassa, em muito, o período legal permitido" (fl. 337).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. PRESCRIÇÃO INTERCORRENTE. ACÓRDÃO RECORRIDO QUE CONSIGNOU A EFETIVA REALIZAÇÃO DE PENHORA NO ROSTO DOS AUTOS. REVERSÃO DO ENTENDIMENTO. NECESSIDADE DE REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Afasta-se a alegada violação dos artigos 489 e 1.022 do CPC/2015 quando o acórdão recorrido manifesta-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia.
+3. No caso dos autos, a Corte de origem, após ampla análise do conjunto fático-probatório, consignou a efetiva realização de penhora no rosto dos autos. A revisão de tais conclusões demanda a incursão nos fatos e provas dos autos. Incidência da Súmula 7/STJ.
+4. Agravo interno não provido.
+VOTO
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, verifica-se que o presente recurso não merece prosperar, tendo em vista que, dos argumentos apresentados no agravo interno, não se vislumbram razões para reformar a decisão agravada.
+Conforme destacado na decisão recorrida, verifica-se que o Tribunal de origem decidiu a matéria de forma fundamentada e completa, enfrentando as questões essenciais à resolução da controvérsia. O fato de a decisão ser contrária aos interesses da parte não configura negativa de prestação jurisdicional.
+Observa-se, contudo, que o Tribunal a quo decidiu a matéria de forma fundamentada. O acórdão recorrido, ao rejeitar os aclaratórios, consignou expressamente que:
+A execução fiscal foi proposta em 06/05/2015.
+A citação da executada ocorreu em 19/10/2015 (evento 10, AR1).
+Após a citação, antes que fosse adotada qualquer diligência visando à localização de ativos penhoráveis do executado, a executada trouxe aos autos informação quanto à tramitação de recuperação judicial da devedora (evento 11, PET1), em 4/12/2015. Em 08/08/2016, a exequente requereu penhora no rosto dos autos da recuperação judicial (evento 23, PET1).
+Em 06/09/2016, o Juízo a quo, solicitou ao juízo da recuperação judicial a reserva de numerário suficiente à satisfação do crédito em execução nestes autos (evento 25, DESPADEC1).
+Em 27/01/2017 foi renovado pedido de penhora no rosto dos autos da recuperação judicial (evento 40, PET1).
+Em 10/05/2017, o Juízo a quo ordenou a suspensão da execução nos termos do art. 40 da LEF (evento 43, DESPADEC1), do que tomou conhecimento a exequente em 11/5/2017 (Evento 44).
+A partir de tal data, não houve nova intimação da parte exequente até que fosse cientificada da oposição de exceção de pré-executividade pela parte executada, em 13/6/2024 (evento 50, EXCPRÉEX1).
+Ressalto que o STJ, em 27/02/2018, reconheceu a repercussão geral do Tema 987, com a afetação dos Recursos Especiais 1.694.261, 1.694.316 e 1.712.484, que tratam da "possibilidade da prática de atos constritivos em face de empresa em recuperação judicial, em sede de execução fiscal" e determinou a suspensão de todos os processos pendentes.
+Essa suspensão vigeu no interstício de 27/2/2018, data de afetação dos referidos recursos especiais à sistemática dos recursos repetitivos, até 28/6/2021, quando foi publicado o acórdão da Primeira Seção do Superior Tribunal de Justiça que determinou a remoção da submissão do recurso especial ao regime dos recursos repetitivos, cancelando-se o Tema Repetitivo 987.
+Destaco até o momento, não foram trazidas aos autos, informação a respeito do encerramento do processo falimentar.
+Realizada penhora no rosto dos autos falimentares, não se pode exigir do credor outra atitude senão aguardar a realização do ativo naquele processo, com obediência à ordem de pagamento estabelecida na legislação falimentar. Nessa hipótese, o prazo quinquenal da prescrição intercorrente só começa a correr a partir do encerramento definitivo da falência.
+O julgador não está obrigado a rebater, um a um, os argumentos das partes, desde que fundamente sua decisão de maneira suficiente para resolver a controvérsia. O simples descontentamento da parte com o julgado não caracteriza omissão. Portanto, afasto a alegação de violação ao art. 1.022 do CPC/2015.
+No que diz respeito ao argumento da impossibilidade de incidência da Súmula 7/STJ, a irresignação igualmente não merece prosperar.
+Com efeito, a Corte de origem, soberana na análise do conjunto fático-probatório dos autos, consignou expressamente que houve a "realizada penhora no rosto dos autos falimentares" (fl. 205) e que, a partir desse ato constritivo, não seria exigível do credor outra conduta até o encerramento do processo universal.
+Nesse contexto, para acolher a tese recursal e concluir que houve apenas um mero "pedido" ou "tentativa frustrada" de penhora, seria indispensável o reexame de fatos e provas, o que é vedado em sede de recurso especial. Incide, na espécie, o óbice da "A Súmula 7/STJ: pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. EXECUÇÃO FISCAL. PENHORA NO ROSTO DE AÇÃO DE FALÊNCIA. PRESCRIÇÃO INTERCORRENTE. INOCORRÊNCIA. ALEGADO CERCEAMENTO DE DEFESA. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA FÁTICA. ÓBICE DA SÚMULA 7/STJ.
+1. Não havendo no acórdão recorrido omissão, obscuridade, contradição  ..
+2. O entendimento firmado pela instância de origem está em consonância com a jurisprudência do STJ, tendo em vista que "a existência de penhora no rosto dos autos do processo falimentar impõe à Fazenda Pública a paralisação do executivo fiscal até que se verifique a possibilidade de satisfação do crédito, sem que essa paralisação seja imputada à inércia do ente público, para efeito de decretação de prescrição intercorrente" (REsp 1682552/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/09/2017, DJe 09/10/2017).
+3. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+4. Agravo interno não provido. (AgInt no AREsp n. 1.549.829/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 5/11/2019, DJe de 7/11/2019.)
+Ainda:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO VINCULAÇÃO DESTA DECISÃO A OUTRAS DECISÕES MONOCRÁTICAS. NÃO OCORRÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS SOBRE MUDANÇA DO RELATOR E JULGAMENTO VIRTUAL. INCIDÊNCIA DA SÚMULA 283/STF. VALIDADE DA PENHORA NO ROSTO DOS AUTOS. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ. NÃO IMPUGNAÇÃO DO DESCABIMENTO DO RECURSO ESPECIAL CONTRA SUPOSTA VIOLAÇÃO DE RESOLUÇÃO. RAZÕES RECURSAIS INSUFICIENTES.
+1. Controvérsia acerca da ocorrência de negativa de prestação jurisdicional; prevenção; descabimento do julgamento virtual; e nulidade da penhora no rosto dos autos.
+2. O Tribunal de origem, com base nos fatos e provas dos autos, concluiu pela possibilidade de mudança do relator ao argumento de aposentadoria do relator anterior; que não foi comprovado nenhum prejuízo com o julgamento virtual; e pela validade da penhora no rosto dos autos.
+3. O acórdão recorrido abordou, de forma fundamentada, todos os pontos essenciais para o deslinde da controvérsia, razão pela qual não há falar na suscitada ocorrência de violação do art. 1.022 do CPC.
+4. Inviabilidade, ante o óbice da Súmula 7/STJ, de reversão da conclusão do Tribunal de origem, por demandar reexame de fatos e provas dos autos. Precedentes.
+5. Embora a agravante defenda a não incidência da Súmula 283/STF, não demonstrou ter impugnado, no recurso especial, os fundamentos da decisão (que a mudança de relator se deu pela aposentadoria do anterior e ausência de comprovação de prejuízos com o julgamento virtual).
+6. Não se insurgindo a agravante quanto ao descabimento do recurso especial contra suposta violação de resolução, o entendimento permanece hígido.
+Agravo interno improvido. (AgInt no AREsp n. 2.639.194/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 22/4/2026, DJEN de 27/4/2026.)
+Ademais, ao firmar a premissa de que a penhora foi efetivada, o acórdão recorrido acaba por se alinhar à jurisprudência do STJ (Temas 566 e 568), que reconhece a interrupção da prescrição mediante ato constritivo eficaz. Assim, a alteração do julgado encontra óbice instransponível na natureza extraordinária do recurso eleito.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
