@@ -1,0 +1,35 @@
+DECISÃO: Trata-se de recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado pelo Município do Rio de Janeiro, em face do acórdão do Tribunal de Justiça estadual assim ementado:
+
+“APELAÇÃO. TRIBUTÁRIO. MANDADO DE SEGURANÇA. ISSQN. INSTITUIÇÃO DE ENSINO IMPETRANTE QUE REQUER O AFASTAMENTO DA TRIBUTAÇÃO ANTECIPADA NA HIPÓTESE EM QUE O TOMADOR DE SERVIÇO (ALUNO) PAGA INTEGRALMENTE O VALOR DA ANUIDADE PARA OBTER DESCONTO. SENTENÇA QUE CONCEDEU A SEGURANÇA, QUE DEVE SER MANTIDA. INCONFORMISMO DO IMPETRADO. A LC Nº 116/2003 DISPÕE QUE O ISS TEM COMO FATO GERADOR A EFETIVA PRESTAÇÃO DO SERVIÇO. NÃO PODE PREVALECER SOBRE A LEI COMPLEMENTAR A INTERPRETAÇÃO DO MUNICÍPIO, LASTREADA NO ARTIGO 45, DO CTM, NO QUE DIZ RESPEITO À COBRANÇA ANTECIPADA DE ISS QUANDO OS SERVIÇOS AINDA NÃO FORAM PRESTADOS. RECURSO A QUE SE NEGA PROVIMENTO.” (Apelação cível nº  0322451-06.2021.8.19.0001, 12ª Vara de Fazenda Pública da Comarca da Capital do Tribunal de Justiça do Estado do Rio de Janeiro, j. 20.08.24)
+
+Na minuta, sustenta-se violação dos art. 97, 150, §7º, 156, III, da Constituição da República e à Súmula Vinculante nº 10. Argumenta-se, em síntese, que “No presente caso, o acórdão recorrido não declarou expressamente a inconstitucionalidade do art. 45 da Lei Municipal nº 691/1984, mas afastou sua aplicação com base em uma suposta incompatibilidade com o art. 1º da Lei Complementar nº 116/2003.”. Alega-se, ainda, que “O art. 45 da Lei Municipal nº 691/1984, ao prever a cobrança antecipada do ISS em casos de recebimento antecipado de valores, exerce de forma legítima essa competência constitucional.”
+É o relatório.
+Decido.
+O recurso não comporta seguimento.
+O Tribunal de origem decidiu a demanda sob os seguintes fundamentos:
+
+“Cuida-se de mandado de segurança impetrado por instituição de ensino, com o objetivo de garantir o recolhimento do ISS quando da efetiva prestação dos serviços e o consequente afastamento da tributação antecipada na hipótese em que o tomador de serviço (aluno) paga integralmente o valor da anuidade para obter desconto.
+[...]
+No mérito, não há dúvida de que o fato gerador do ISSQN é a efetiva prestação do serviço, na forma do artigo 1º, da LC nº 116/2003, que na hipótese de serviços educacionais, de caráter continuado, acontecem mensalmente, ao longo do ano letivo.
+“Art. 1º - O Imposto Sobre Serviços de Qualquer Natureza, de competência dos Municípios e do Distrito Federal, tem como fato gerador a prestação de serviços constantes da lista anexa, ainda que esses não se constituam como atividade preponderante do prestador”.
+Note-se que a Lei nº 691/84 (Código Tributário do Município) está no mesmo sentido.
+“Art. 8º - O Imposto sobre Serviços de Qualquer Natureza tem como fato gerador a prestação dos serviços constantes da lista a seguir: (...)”
+Dessa forma, é a partir da prestação do serviço que se origina a obrigação de pagar o imposto e não do efetivo adimplemento da contraprestação pecuniária pelo tomador do serviço (aluno) e, assim, se o pagamento é antecipado, por qualquer motivo, antes da prestação do serviço, a incidência do tributo não é abreviada para este momento.
+Destaque-se que a previsão do artigo 45, do Código Tributário Municipal, de que deve o contribuinte recolher o imposto sobre os valores recebidos antecipadamente, deve estar em consonância com a natureza jurídica do fato gerador do ISSQN, cuja previsão expressa está firmada na Lei de Regência, considerado o momento da prestação dos serviços, em detrimento do adimplemento por parte do contratante, sendo desimportante o fato de ser possível o cancelamento da nota fiscal na hipótese de rescisão contratual.” (e-doc 128)
+
+Não há falar em ofensa ao art. 97 da Carta Maior ou em contrariedade à Súmula Vinculante 10, uma vez que não foi declarada, na hipótese, a inconstitucionalidade de lei ou ato normativo do Poder Público. Com efeito, a Corte de origem solveu a questão à luz da aplicação das regras de hermenêutica no âmbito infraconstitucional (Lei Complementar 116/03 e Código Tributário Municipal), sem, portanto, declarar a incompatibilidade entre a Constituição Federal e a norma legal que se pretende ver incidir à espécie. Nesse sentido: RE 639.866-AgR/RS, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 16.9.2011; AI 848.332-AgR/RJ, Rel. Min. Dias Toffoli, 1ª Turma, DJe 24.4.2012; ARE 1.047.530-AgR/MS, Rel. Min. Edson Fachin, 2ª Turma, DJe 19.12.2017, e ARE 964.753-AgR/CE, Rel. Min. Roberto Barroso, 1ª Turma, DJe 10.02.2017, este assim ementado:
+
+“DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONCURSO PÚBLICO. MOMENTO DE COMPROVAÇÃO DO LIMITE DE IDADE MÁXIMO. DESÍDIA DA ADMINISTRAÇÃO. SÚMULA 279/STF. VIOLAÇÃO AO ART. 97 DA CONSTITUIÇÃO. NÃO OCORRÊNCIA. CARÁTER PROTELATÓRIO. IMPOSIÇÃO DE MULTA. 1. Esta Corte possui entendimento no sentido de que o limite de idade, quando regularmente fixado em lei e no edital de determinado concurso público, há de ser comprovado no momento da inscrição do certame. Precedentes. 2. A jurisprudência desta Corte é firme no sentido de que não se aplica a restrição do art. 97 da Constituição Federal quando o acórdão recorrido apenas interpreta legislação infraconstitucional, sem declarar sua inconstitucionalidade. 3. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 4. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.”
+
+Noutro giro, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional aplicável à espécie (Lei municipal 691/94 e da LC 116/2003) e no conjunto fático-probatório dos autos, cuja análise ou reexame se revelam inviáveis em recurso extraordinário. Aplicação das Súmulas nº 279 e 280/STF: “para simples reexame de prova não cabe recurso extraordinário” e “por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+“AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. ISSQN. SERVIÇO DE MANOBRISTA (VALET SERVICE). COBRANÇA ANTECIPADA DO TRIBUTO PARA A EMISSÃO DE BILHETES DE ESTACIONAMENTO PELA FAZENDA MUNICIPAL POR ESTIMATIVA MENSAL. LEI 15.406/2011 E INSTRUÇÃO NORMATIVA SF/SUREM 6/2012 DO MUNICÍPIO DE SÃO PAULO/SP. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. OFENSA AO ARTIGO 2º DA CONSTITUIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282 DO STF. VIOLAÇÃO À CLÁUSULA DE RESERVA DE PLENÁRIO. INOCORRÊNCIA. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MANDADO DE SEGURANÇA. INAPLICABILIDADE DO ARTIGO 85, § 11, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.” (ARE 1088649 AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe-029 13-02-2020)
+
+ Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+Publique-se.
+
+Brasília, 22 de junho de 2026.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
