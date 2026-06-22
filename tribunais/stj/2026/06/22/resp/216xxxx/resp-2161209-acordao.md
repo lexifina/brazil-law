@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/06/2026 a 22/06/2026, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luís Carlos Gambogi (Desembargador Convocado do TJMG), João Otávio de Noronha, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO EMPRESARIAL. MANUTENÇÃO DE EX-EMPREGADO APOSENTADO. NECESSIDADE DE MANIFESTAÇÃO TEMPESTIVA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. RECURSO NÃO CONHECIDO.
+I. Razões de decidir
+1. O recurso especial não comporta exame de questões que impliquem revolvimento de elementos fático-probatórios dos autos (Súmula n. 7/STJ).
+2. O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a demonstração da divergência mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC), ônus do qual a parte recorrente não se desincumbiu.
+II. Dispositivo
+3. Recurso especial não conhecido.
+RELATÓRIO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (fl. 167):
+AÇÃO DE OBRIGAÇÃO DE FAZER. Plano de saúde. Manutenção de ex-empregado aposentado. Opção pela não continuidade do plano após a demissão. Concessão da tutela de urgência. Sentença de procedência.
+Apela a ré, alegando que o autor poderia ter optado pela manutenção do plano de saúde, nos termos do art. 31 da Lei nº 9.656/98; cumpriu sua obrigação legal de disponibilização da manutenção do plano de saúde; não há resguardo legal para manutenção do plano após o pedido de cancelamento, que ultrapassa os limites legais e contratuais.
+Cabimento.
+Plano de saúde. Manutenção de ex-empregado aposentado. Opção, por ocasião do desligamento, de comunicar a prestadora dos serviços de saúde, no prazo de 30 dias, seu interesse na contratação de um plano de demitidos e inativos. Prazo expirado. Propositura da ação sem comprovação da cientificação da ré acerca da pretensão de manutenção do plano de saúde. Perda do vínculo entre as partes. Cancelamento do plano de saúde. Reconhecimento de que o art. 31 da Lei nº 9.656/98 garante aos aposentados demitidos "o direito de manutenção como beneficiário", nos termos ali previstos, sem contemplar, todavia, o direito de arrependimento, em caso de rescisão ou cancelamento da avença relacionada ao beneficiário. Impossibilidade de manutenção do autor e sua dependente junto ao plano de saúde réu. Precedentes.
+Sucumbência. Inversão do julgado. Responsabilização exclusiva do autor pelos ônus sucumbenciais, com honorários advocatícios de 15% sobre o valor da causa atualizado (art. 85, § 2º, CPC), ressalvada a gratuidade a ele concedida.
+Recurso provido, para desobrigar a ré de manter o autor e sua dependente como beneficiários.
+Em suas razões (fls. 174-196), a parte recorrente aponta dissídio jurisprudencial e violação do art. 31 da Lei n. 9.656/1998. Alega que o aposentado que contribuiu pelo prazo mínimo legal tem direito à manutenção no plano coletivo, em plano único de ativos e inativos, com mesmas condições assistenciais e de custeio, pagando integralmente a soma de sua cota-parte e da parcela antes suportada pelo empregador (Tema n. 1034/STJ) (fls. 182-189).
+Contrarrazões apresentadas (fls. 274-288).
+O recurso foi admitido na origem.
+É o relatório.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO EMPRESARIAL. MANUTENÇÃO DE EX-EMPREGADO APOSENTADO. NECESSIDADE DE MANIFESTAÇÃO TEMPESTIVA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. RECURSO NÃO CONHECIDO.
+I. Razões de decidir
+1. O recurso especial não comporta exame de questões que impliquem revolvimento de elementos fático-probatórios dos autos (Súmula n. 7/STJ).
+2. O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a demonstração da divergência mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC), ônus do qual a parte recorrente não se desincumbiu.
+II. Dispositivo
+3. Recurso especial não conhecido.
+VOTO
+A parte autora alega negativa de vigência do art. 31 da Lei n. 9.656/1998, sendo que, quanto ao ponto, o Tribunal de origem assim se manifestou (fls. 168-169):
+Em que pesem as ponderações do autor, o fato é que por ocasião da sua demissão, em 09.03.2021, ele não optou por usufruir do benefício dos arts. 30 e 31 da Lei nº 9.656/98, ou seja, pela continuidade do plano de saúde, mas sim, por notificar seu interesse na contratação de um plano de demitidos e inativos, mediante envio de carta de próprio punho aos cuidados da ré, no prazo de 30 dias da assinatura do termo de continuidade do plano de assistência médica para demitidos e aposentados plano de inativos, que se deu no mesmo dia da demissão (f. 32/37). (g. n.)
+A ação foi proposta apenas em 14.04.2021 (f. 01/19), portanto ultrapassados os 30 dias para manifestação de interesse, sem comprovação de que a formalização do interesse na manutenção do plano tivesse sido encaminhada à ré, de modo que, segundo se verifica, houve a perda do vínculo entre as partes e se operou o cancelamento do plano de saúde.
+Ocorre que o art. 311 da Lei nº 9.656/98 garante aos aposentados demitidos "o direito de manutenção como beneficiário", nos termos ali previstos, sem contemplar, todavia, o direito de arrependimento, em caso de rescisão ou cancelamento da avença relacionada ao beneficiário.
+Assim, não se verifica a possibilidade de manutenção do autor e sua dependente junto ao plano de saúde réu, porquanto operado o cancelamento do plano de saúde a ele relacionado.
+A insurgência recursal, embora rotulada como violação de lei federal, volta-se contra o núcleo fático-probatório delimitado pela Corte de origem, que, soberana na análise das provas, foi categórica ao afirmar que o recorrente não manifestou interesse tempestivo na manutenção do plano de saúde na ocasião do seu desligamento (a ação foi ajuizada após o exaurimento do prazo decadencial de 30 dias). Assim, para acolher a tese do recorrente, de que haveria direito à manutenção ou de que a notificação teria sido eficaz, este Superior Tribunal de Justiça teria de reexaminar o teor da "carta de próprio punho", rever a cronologia das comunicações entre as partes e desconstituir a premissa de que a renúncia ao benefício foi ato livre e consciente. Nesse sentido, a referida incursão no acervo documental é vedada em sede de recurso especial, em razão do óbice da Súmula n.7/STJ.
+Ainda, o conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige indicação do dispositivo legal objeto de interpretação divergente, bem como demonstração do dissídio, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e realização de cotejo analítico entre elas, nos termos definidos pelos arts. 255, §§ 1º e 2º, do RISTJ e 1.029, § 1º, do CPC, ônus dos quais a parte agravante não se desincumbiu.
+No caso dos autos, o recorrente alega que o acórdão recorrido diverge de julgados que garantem a manutenção do plano de saúde. No caso dos autos, o Tribunal de origem afirmou que o autor manifestou seu desinteresse no ato da demissão, tendo transcorrido o prazo de 30 dias para manifestação de interesse, sem comprovação de que a formalização do interesse na manutenção do plano tivesse sido encaminhada à ré. Assim, desconstituir essas premissas sobre o fato para analisar se a situação se amolda aos paradi gmas citados, esbarra no óbice da Súmula n. 7/STJ.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+É como voto.
