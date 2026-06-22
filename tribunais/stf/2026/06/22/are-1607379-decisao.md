@@ -1,0 +1,85 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. VERBAS TRABALHISTAS. TERÇO DE FÉRIAS. MODULAÇÃO DE EFEITOS NO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO N. 1.072.485-RG. APLICAÇÃO DO TEMA 985 PELO TRIBUNAL DE ORIGEM. ALEGADA CONTRARIEDADE AO INC. XXXVI DO ART. 5º DA CONSTITUIÇÃO DA REPÚBLICA. INEXISTÊNCIA DE REPERCUSSÃO GERAL: TEMA 660. RECURSO EXTRAORDINÁRIO COM AGRAVO NÃO CONHECIDO.
+
+Relatório
+1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto, com base na al. a do inc. III do art. 102 da Constituição da República, contra o seguinte julgado do Tribunal Regional Federal da Terceira Região:
+“PROCESSUAL CIVIL. RETRATAÇÃO. ART. 1.040 DO CPC. CONSTITUCIONAL. TRIBUTÁRIO. CONTRIBUIÇÕES PREVIDENCIÁRIAS PATRONAIS. SALÁRIO E GANHOS HABITUAIS DO TRABALHO. TERÇO CONSTITUCIONAL DE FÉRIAS GOZADAS. VERBA REMUNERATÓRIA. - Em favor da unificação do direito e da pacificação dos litígios, foi necessário acolher a orientação do E.STF no sentido da desoneração do terço de férias usufruídas (p. ex., RE-AgR 587941, j. 30/09/2008). Contudo, sob o fundamento de que o terço constitucional de férias usufruídas (art. 7º, XVII, da Constituição) é de verba periódica auferida como complemento à remuneração do trabalho, e que por isso, está no campo de incidência de contribuições incidentes sobre a folha de salários, o E. STF mudou sua orientação ao julgar o RE 1072485 (Sessão Virtual de 21/08/2020 a 28/08/2020), firmando a seguinte Tese no Tema 985: ‘É legítima a incidência de contribuição social sobre o valor satisfeito a título de terço constitucional de férias’. - Juízo de retratação positivo. Agravo legal da União parcialmente provido” (fl. 14 e-doc. 26).
+
+Os embargos de declaração opostos pela empresa agravada foram parcialmente acolhidos, “para fazer integrar ao que restou decidido pela 2ª Turma desta C. Corte Regional a modulação de efeitos determinada pelo c. STF quando do julgamento dos declaratórios opostos em face do v. acórdão proferido no RE nº 1.072.485 – Tema 985/STF” (fl. 3, e-doc. 45). Os embargos de declaração opostos pela União foram rejeitados (e-doc. 59).
+
+2. No recurso extraordinário, a agravante alegou ter o Tribunal de origem contrariado o caput e os incs. XXXVI e LXXVII do art. 5º, o inc. XVII do art. 7º, a al. a do inc. I e o § 5º do art. 195 e o § 11 do art. 201 da Constituição da República. Defendeu “a reforma do v. acórdão recorrido para reconhecer que é legítima a incidência da contribuição em discussão sobre o terço constitucional de férias” (fl. 31, e-doc. 63).
+
+Pediu fosse “provido o presente Recurso Extraordinário para determinar o sobrestamento do processo até a solução final do tema 985 pelo STF, ou, caso assim não se entenda, reformar o v. acórdão recorrido para julgar integralmente improcedente o pedido relativo ao reconhecimento da não incidência da contribuição sobre o terço constitucional de férias ou, subsidiariamente, adequar a modulação de efeitos determinada no tema 985/RG” (fl. 32, e-doc. 63).
+
+3. Foi negado seguimento ao recurso extraordinário pela aplicação do Tema 482 da repercussão geral e o recurso foi inadmitido pela ausência de ofensa constitucional direta e pela falta de prequestionamento (e-doc. 68).
+
+4. No agravo interposto contra a inadmissibilidade do recurso extraordinário, a agravante assevera “a necessidade de sobrestamento do presente feito até final julgamento do Tema 985 de Repercussão Geral pelo STF, sob pena de violação ao princípio da segurança jurídica previsto no art. 5º, XXXVI, da Constituição Federal e art. 927, § 3º e § 4º do Código de Processo Civil” (fl. 9, e-doc. 73).
+
+Assinala que, “diante da jurisprudência da Corte Suprema e do C. STJ, bem como da Recomendação n.º 134/2022 do CNJ, é forçoso reconhecer que o sobrestamento dos casos que versem sobre a exclusão do terço constitucional de férias das bases de cálculo das contribuições em debate é a medida mais prudente a ser adotada, de modo que tão somente após o julgamento pela Corte Constitucional dos embargos de declaração opostos no recurso paradigma, se dará uma fiel e justa hermenêutica sobre a matéria, para, somente a partir daí, passar a ser aplicada aos demais casos sobre a mesma discussão” (fl. 12, e-doc. 73).
+
+Salienta que “o v. acórdão objeto do recurso extraordinário contrariou os artigos 5º, caput, XXXVI, LXXVIII, da Constituição Federal, uma vez que afastou o sobrestamento e aplicou a modulação de efeitos do tema 985 do STF, sem que o Supremo Tribunal Federal tenha concluído esse julgamento” (fl. 28, e-doc. 73).
+
+Realça que, em “decisões proferidas no ARE 1525232 e ARE 1534343, o Supremo Tribunal Federal (STF) reconheceu a vigência da suspensão nacional dos processos que versam sobre o Tema 985 da repercussão geral” (fl. 29, e-doc. 73).
+
+Pede o provimento do presente recurso extraordinário com agravo.
+
+Apreciada a matéria trazida na espécie, DECIDO.
+
+5. Cumpre afastar os fundamentos da decisão agravada  por se tratar de matéria constitucional devidamente impugnada no recurso extraordinário e com repercussão geral reconhecida em relação à possibilidade de cobrança da contribuição previdenciária patronal incidente sobre o terço constitucional de férias.
+
+A superação desses óbices jurídicos, entretanto, é insuficiente para o acolhimento da pretensão da agravante.
+
+6. Ao acolher parcialmente os embargos de declaração opostos pela empresa agravada, a Segunda Turma do Tribunal Regional Federal da Terceira Região analisou os aspectos fático-jurídicos deste processo e aplicou a modulação de efeitos do Tema 985 da repercussão geral, com os seguintes fundamentos:
+“(...) em atenção ao pronunciamento do c. STF, em 12/06/2024, no julgamento dos embargos de declaração opostos em face do v. acórdão proferido no RE nº 1.072.485, é necessário conferir efeito ex nunc à ratio decidendi extraída do Tema 985/STF, razão pela qual incide contribuição previdenciária (e também as devidas ao ‘Sistema S’) sobre o terço constitucional de férias usufruídas, a contar da publicação de sua respectiva ata de julgamento (DJ nº 228, de 15/09/2020), ressalvando-se as contribuições já pagas e não impugnadas judicialmente até essa mesma data (que não serão devolvidas pela União).
+Por consequência, para os fatos geradores ocorridos até 14/09/2020 (inclusive), a regra geral é que não incidem as mencionadas contribuições sobre o terço constitucional de férias usufruídas. Conforme definido pelo e.STF nos embargos de declaração do Tema 985, fica impedido de recuperar o indébito apenas quem, cumulativamente: a) pagou essas exações; e b) não propôs ação judicial questionando-as (até essa mesma data)” (fls. 9-11, e-doc. 48).
+
+No julgamento do Recurso Extraordinário n. 1.072.485, Relator o Ministro Marco Aurélio, ao analisar controvérsia sobre a incidência de contribuição previdenciária patronal, este Supremo Tribunal fixou a tese de ser “legítima a incidência de contribuição social sobre o valor satisfeito a título de terço constitucional de férias”(Tema 985), em paradigma com esta ementa:
+“FÉRIAS – ACRÉSCIMO – CONTRIBUIÇÃO SOCIAL – INCIDÊNCIA. É legítima a incidência de contribuição social, a cargo do empregador, sobre os valores pagos ao empregado a título de terço constitucional de férias gozadas” (RE n. 1.072.485, Relator o Ministro Marco Aurélio, Plenário, DJe 2.10.2020).
+
+Como assinalado no acórdão recorrido, este Supremo Tribunal modulou os efeitos no Tema 985 da repercussão geral, para atribuir “efeitos ex nunc ao acórdão de mérito, a contar da publicação de sua ata de julgamento [15.9.2020], ressalvadas as contribuições já pagas e não impugnadas judicialmente até essa mesma data, que não serão devolvidas pela União”. Esta a ementa do acórdão dos embargos de declaração parcialmente acolhidos para a modulação de efeitos:
+“DIREITO CONSTITUCIONAL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO EM RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. CONTRIBUIÇÃO PREVIDENCIÁRIA DO EMPREGADOR. TERÇO DE FÉRIAS. MODULAÇÃO DE EFEITOS. ALTERAÇÃO DE JURISPRUDÊNCIA. PARCIAL PROVIMENTO.
+I. CASO EM EXAME
+1. Embargos de declaração que objetivam a modulação dos efeitos do acórdão que reconheceu a constitucionalidade da incidência da contribuição previdenciária do empregador sobre o terço constitucional de férias.
+II. QUESTÃO EM DISCUSSÃO
+ 2. Discute-se a presença dos requisitos necessários à modulação temporal dos efeitos da decisão.
+III. RAZÕES DE DECIDIR
+3. Em 2014, o Superior Tribunal de Justiça, sob a sistemática dos recursos repetitivos, assentou que o adicional de férias teria natureza compensatória, e, assim, não constituiria ganho habitual do empregado, razão pela qual sobre ele não incidiria contribuição previdenciária patronal. Havia, ainda, diversos precedentes desta Corte no sentido de que a discussão acerca da natureza jurídica e da habitualidade do pagamento das verbas para fins de incidência da contribuição previdenciária seria de índole infraconstitucional.
+ 4. Com o reconhecimento da repercussão geral e o julgamento de mérito deste recurso, há uma alteração no entendimento dominante, tanto no âmbito do próprio Supremo Tribunal Federal quanto em relação ao que decidiu o Superior Tribunal de Justiça em recurso repetitivo.
+5. A mudança da jurisprudência é motivo ensejador de modulação dos efeitos, em respeito à segurança jurídica e ao sistema integrado de precedentes. CPC/2015 e decisões desta Corte.
+IV. DISPOSITIVO
+6. Embargos de declaração parcialmente providos, para atribuir efeitos ex nunc ao acórdão de mérito, a contar da publicação de sua ata de julgamento, ressalvadas as contribuições já pagas e não impugnadas judicialmente até essa mesma data, que não serão devolvidas pela União.
+ Dispositivos relevantes citados: Constituição Federal, art. 195, I, a (com a redação dada pela Emenda Constitucional nº 20/1998); Lei nº 8.212/1991, art. 22, I.
+Jurisprudência relevante citada: STJ, REsp 1.230.957 (2014), Rel. Min. Mauro Campbell; STF, ARE 1.260.750 (2020), Rel. Min. Dias Toffoli; RE 643.247 EDs (2019), Rel. Min. Marco Aurélio; RE 594.435-EDs (2019), Red. p/o acórdão o Min. Alexandre de Moraes; RE 593.849 (2017), Rel. Min. Edson Fachin; RE 892.238 (2016), Rel. Min. Luiz Fux; RE 565.160 (2017), Rel. Min. Marco Aurélio (RE n. n. 1.072.485-ED, Redator para o acórdão o Ministro Luís Roberto Barroso, Plenário, DJe 19.9.2024).
+
+Na sessão virtual de 1º.8.2025 a 8.8.2025, este Supremo Tribunal rejeitou os embargos de declaração opostos pela União contra a modulação de efeitos no Tema 985 da repercussão geral, nestes termos:
+“4. Não há contradição ou omissão no julgamento. O voto condutor do acórdão foi claro ao afirmar que a alteração jurisprudencial justifica a modulação dos efeitos da decisão, em respeito à segurança jurídica e ao sistema integrado de precedentes. Destacou-se, ainda, que o reconhecimento da repercussão geral e o resultado do julgamento de mérito implicaram mudança no entendimento prevalente, tanto no âmbito desta Corte como em relação a precedente repetitivo do STJ.
+5. Também foram devidamente explicitadas as razões para a fixação do marco temporal da modulação. Nesse sentido, apontou-se a necessidade de considerar que o julgamento de mérito realizado por esta Corte reformou arcabouço jurisprudencial que abrangia precedentes do STF e do STJ. Daí a escolha pela data da publicação da ata do julgamento de mérito.
+6. Por fim, no que se refere à não inclusão entre as ressalvas das contribuições pagas, porém impugnadas judicialmente, o Plenário se manifestou expressamente no sentido de manter, para este caso, a aplicação da jurisprudência tradicional. Assim, ficam resguardadas as ações ajuizadas até a publicação da ata do julgamento de mérito. Essa solução não impede que, em futuros julgamentos, a Corte reflita sobre a conveniência de adotar marco temporal diverso, conforme as especificidades do caso” (RE n. 1.072.485-ED-ED, Relator o Ministro Luís Roberto Barroso, Plenário, DJe 27.8.2025).
+
+Ao rejeitar os embargos de declaração opostos pela Fazenda Nacional, este Supremo Tribunal manteve a modulação de efeitos aplicada pelo Tribunal de origem.
+
+O Tribunal de origem observou os limites temporais da modulação de efeitos no paradigma de repercussão geral, para reconhecer o período em que não incidiria a contribuição previdenciária patronal sobre o terço constitucional de férias. Confira-se, por exemplo, o seguinte julgado:
+“Segundo agravo regimental nos embargos de declaração nos embargos de declaração no recurso extraordinário. Embargos de declaração da parte agravante acolhidos com efeitos infringentes para reconhecer a aplicação da modulação de efeitos do Tema 985 da repercussão geral. Pretensão atendida integralmente. Inexistência de sucumbência. Ausência de interesse recursal. Agravo interno não conhecido. I. Caso em exame 1. Agravo interno interposto contra decisão que rejeitou os embargos de declaração opostos pela União, mantendo o acolhimento, com efeitos infringentes, dos embargos anteriormente apresentados pela parte ora agravante. II. Questão em discussão 2. A questão em discussão consiste em saber se subsiste interesse recursal por parte da agravante, diante da manutenção, pela decisão agravada, do acolhimento de seus embargos de declaração, com o consequente atendimento integral da pretensão recursal. III. Razões de decidir 3. Pela decisão agravada foram rejeitados os embargos de declaração opostos pela parte agravada, mantendo-se o acolhimento, com efeitos infringentes, dos declaratórios anteriormente opostos pela ora agravante, que reconheceram a aplicação da modulação de efeitos fixada no Tema 985 da repercussão geral, para declarar ilegítima a incidência da contribuição previdenciária sobre o terço constitucional de férias até 15.9.2020, bem como assegurar o direito à restituição das parcelas recolhidas indevidamente, respeitado o prazo prescricional. Nesse contexto, não se verifica a presença de interesse recursal, uma vez que a decisão agravada preservou integralmente o provimento já concedido à parte agravante. IV. Dispositivo 4. Agravo interno não conhecido” (RE n. 1.536.524-ED-ED-AgR-segundo, Relator o Ministro Flávio Dino, Primeira Turma, DJe 18.8.2025).
+
+Ao julgar o recurso especial interposto simultaneamente ao recurso extraordinário objeto do presente agravo, o Superior Tribunal de Justiça, reconheceu ser “escorreito o posicionamento do tribunal de origem que aplicou a modulação do Tema 985/STF com efeitos ex nunc (incidência a partir de 15/09/2020, ressalvadas contribuições já pagas e não impugnadas até essa data)” (fl. 6, e-doc. 139).
+
+A conclusão do acórdão questionado harmoniza-se com a jurisprudência deste Supremo Tribunal, a atrair, na espécie, a incidência da Súmula n. 286, com a seguinte disposição: “Não se conhece do recurso extraordinário fundado em divergência jurisprudencial, quando a orientação do plenário do Supremo Tribunal Federal já se firmou no mesmo sentido da decisão recorrida”. Assim, por exemplo: ARE n. 1.556.694-AgR, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJe 12.2.2026, e ARE n. 1.499.292-AgR, Relator o Ministro Cristiano Zanin, Primeira Turma, DJe 11.9.2024.
+
+7. A alegação da agravante de afronta ao inc. XXXVI do art. 5º da Constituição da República não merece acolhida, pois, no julgamento do Recurso Extraordinário com Agravo n. 748.371-RG, Relator o Ministro Gilmar Mendes, este Supremo Tribunal assentou inexistir repercussão geral na alegação de contrariedade aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal quando necessário exame da legislação infraconstitucional, nestes termos:
+“Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (ARE n. 748.371-RG, Relator o Ministro Gilmar Mendes, Plenário, DJe 1º.8.2013).
+
+Declarada a ausência de repercussão geral, os recursos extraordinários e agravos nos quais suscitada a mesma questão constitucional devem ter o conhecimento negado pelos respectivos relatores, conforme o inc. III do art. 932 e o art. 1.035 do Código de Processo Civil e o § 1º do art. 327 do Regimento Interno do Supremo Tribunal Federal.
+
+Comprovados os óbices jurídicos impeditivos da admissibilidade do recurso, nada há a prover em relação às alegações da agravante.
+
+8. Pelo exposto, não conheço do presente recurso extraordinário com agravo (inc. III do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+
+Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional.
+
+Publique-se.
+
+Brasília, 22 de junho de 2026.
+
+Ministra CÁRMEN LÚCIA
+Relatora
