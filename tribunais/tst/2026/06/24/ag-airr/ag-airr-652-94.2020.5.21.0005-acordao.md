@@ -1,0 +1,298 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Superior do Trabalho
+PROCESSO Nº TST-Ag-AIRR - 652-94.2020.5.21.0005
+A C Ó R D Ã O
+3ª Turma
+GMABB/af
+JUÍZO DE RETRATAÇÃO. AGRAVO. AGRAVO DE INSTRUMENTO.
+RECURSO DE REVISTA. RESPONSABILIDADE SUBSIDIÁRIA. ENTE
+INTEGRANTE DA ADMINISTRAÇÃO PÚBLICA. CULPA IN
+VIGILANDO. CONFISSÃO FICTA.
+1. O Supremo Tribunal Federal, no julgamento do Tema 1.118 da
+Tabela de Repercussão Geral, que transitou em julgado no dia
+29/04/2025, fixou a tese jurídica de que: "Não há responsabilidade
+subsidiária da Administração Pública por encargos trabalhistas
+gerados pelo inadimplemento de empresa prestadora de serviços
+contratada, se amparada exclusivamente na premissa da inversão
+do ônus da prova, remanescendo imprescindível a comprovação,
+pela parte autora, da efetiva existência de comportamento
+negligente ou nexo de causalidade entre o dano por ele invocado e
+a conduta comissiva ou omissiva do poder público".
+2. De outro lado, a jurisprudência desta Corte consolidou o
+entendimento de que, configurada a revelia e a confissão
+ficta do ente público tomador de serviços, presumem-se
+verdadeiras as alegações de que ele não cumpriu com seu dever
+de fiscalização do contrato de prestação de serviços,
+reconhecendo, dessa forma, a sua responsabilidade subsidiária.
+3. Conclui-se, portanto, que a decisão regional encontra-se em
+estrita consonância com a tese firmada no Tema de
+Repercussão Geral nº 1.118 do STF, ainda que por fundamento
+diverso, razão pela qual a 3ª Turma não exerce o juízo de
+retratação e determina o retorno dos autos à Vice-Presidência
+desta Corte para prosseguimento do feito, como de direito.
+Juízo de retratação não exercido.
+Vistos, relatados e discutidos estes autos de Agravo em Agravo de Instrumento
+em Recurso de Revista nº TST-Ag-AIRR-652-94.2020.5.21.0005, em que é Agravante ESTADO DO RIO
+GRANDE DO NORTE e são Agravados ANDRE LUIS PEREIRA e SAFE LOCAÇÃO DE MÃO DE OBRA E
+SERVIÇOS LTDA.
+Trata-se de agravo interposto em face da decisão que negou provimento ao
+agravo de instrumento.
+Não foram apresentadas contrarrazões.
+O Ministério Público do Trabalho opinou, a fls. 340, pelo conhecimento e não
+provimento do Agravo de Instrumento.
+É o relatório.
+V O T O
+I – JUÍZO DE RETRATAÇÃO
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067868CACAA7F8A8.
+RESPONSABILIDADE SUBSIDIÁRIA. ENTE INTEGRANTE DA ADMINISTRAÇÃO
+PÚBLICA. CULPA IN VIGILANDO. CONFISSÃO FICTA
+A controvérsia dos autos diz respeito ao tema “responsabilidade subsidiária da
+administração pública”.
+O Supremo Tribunal Federal, no julgamento do Tema 1.118 da Tabela de
+Repercussão Geral, que transitou em julgado no dia 29/04/2025, fixou a tese jurídica de que:
+“Não há responsabilidade subsidiária da Administração Pública por encargos trabalhistas
+gerados pelo inadimplemento de empresa prestadora de serviços contratada, se amparada
+exclusivamente na premissa da inversão do ônus da prova, remanescendo imprescindível a
+comprovação, pela parte autora, da efetiva existência de comportamento negligente ou nexo de
+causalidade entre o dano por ele invocado e a conduta comissiva ou omissiva do poder público”.
+(grifo nosso.)
+Na hipótese dos autos, o Tribunal Regional imputou a responsabilidade
+subsidiária ao ente público nos seguintes termos:
+“De fato, nos moldes dos arts. 27, IV, 55, XIII, e 67 da Lei 8.666/93, tem a Administração Pública
+a obrigação legal de fiscalizar o contrato de prestação de serviços, diligenciando se a empresa
+contratada cumpre com as suas obrigações legais e contratuais. Assim, não se desincumbindo a
+contento do dever legal, poderá o ente público responder, de forma subsidiária, pelas verbas
+trabalhistas inadimplidas pela empresa contratada, ante a sua culpa "in vigilando".
+In casu, não existe qualquer elemento nos autos a denotar o acompanhamento do
+cumprimento das obrigações trabalhistas relativas aos empregados que prestavam serviços em
+benefício do Estado do Rio Grande do Norte, ao contrário, a preposta o recorrente sequer soube
+informar acerca da existência de contrato de prestação de serviços tampouco se havia atraso do
+recolhimento do FGTS ou no recebimento de férias (ID. 15fa61b - Pág. 1), não havendo qualquer
+indício que evidencie a sua observância.
+Assim, diante da total omissão documental da recorrente, restou evidenciada, na espécie,
+a conduta culposa da Administração Pública no cumprimento das obrigações da lei de licitações,
+especialmente na fiscalização do cumprimento das obrigações contratuais e legais da
+prestadora de serviço como empregadora, devendo, portanto, responder subsidiariamente
+pelas obrigações trabalhistas assumidas pelo prestador. Convém destacar que as verbas
+postuladas são títulos ordinários que sequer ensejaram controle pormenorizado, mas apenas
+documental”
+A Suprema Corte, no julgamento da ADC 16/DF (DJE de 6/12/2010), declarou a
+constitucionalidade do art. 71, § 1.º, da Lei n.º 8.666/1193, com o fito de estabelecer que a condenação
+subsidiária da administração pública não decorre automaticamente do mero inadimplemento dos
+encargos trabalhistas, fiscais e comerciais.
+O Tribunal Superior do Trabalho editou o item V da Súmula n.º 331 para ajustar a
+súmula ao entendimento do Supremo Tribunal Federal, firmado no julgamento da ADC 16, restando
+evidenciada a necessidade de efetiva prova da conduta culposa da administração pública (tomador dos
+serviços) pelo inadimplemento das obrigações trabalhistas pela empresa prestadora dos serviços.
+Restou assim redigido o referido item:
+"V - Os entes integrantes da Administração Pública direta e indireta respondem
+subsidiariamente, nas mesmas condições do item IV, caso evidenciada a sua conduta culposa no
+cumprimento das obrigações da Lei n.º 8.666, de 21.06.1993, especialmente na fiscalização do
+cumprimento das obrigações contratuais e legais da prestadora de serviço como empregadora. A
+aludida responsabilidade não decorre de mero inadimplemento das obrigações trabalhistas
+assumidas pela empresa regularmente contratada"
+Mais tarde, a Corte Constitucional, ao julgar o Tema 246, estabeleceu critérios
+para determinar a responsabilidade subsidiária da administração pública. A decisão se fundamentou na
+interpretação do art. 71, § 1.º, da Lei n.º 8.666/1993, em que, como dito, discorria acerca da
+impossibilidade de transferir automaticamente à administração pública a responsabilidade pelo
+pagamento dos encargos trabalhistas, previdenciários e fiscais decorrentes da execução do contrato de
+prestação de serviços. Assim, o STF concluiu pela possibilidade da responsabilização subsidiária da
+administração pública, desde que comprovada a sua culpa in elegendo ou culpa in vigilando.
+Por oportuno, transcrevo a tese firmada no Tema 246: Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067868CACAA7F8A8.
+"O inadimplemento dos encargos trabalhistas dos empregados do contratado não transfere
+automaticamente ao Poder Público contratante a responsabilidade pelo seu pagamento, seja em
+caráter solidário ou subsidiário, nos termos do art. 71, § 1º, da Lei nº 8.666/93".
+Dessa forma, constata-se que a jurisprudência consolidada do tanto do Supremo
+Tribunal Federal como do Tribunal Superior do Trabalho demonstra que a responsabilidade
+subsidiária da Administração Pública por dívidas trabalhistas de empresas contratadas é excepcional e
+depende da comprovação de culpa na fiscalização do contrato, não bastando o mero inadimplemento
+das obrigações trabalhistas pela empresa prestadora de serviço.
+Extrai-se do acórdão proferido pelo Tribunal a quo que a responsabilidade
+subsidiária imputada à Administração Pública não foi automática, mas decorrente da análise do caso
+concreto, ao consignar que a "in casu, não existe qualquer elemento nos autos a denotar o
+acompanhamento do cumprimento das obrigações trabalhistas relativas aos empregados que
+prestavam serviços em benefício do Estado do Rio Grande do Norte, ao contrário, a preposta o
+recorrente sequer soube informar acerca da existência de contrato de prestação de serviços tampouco
+se havia atraso do recolhimento do FGTS ou no recebimento de férias (ID. 15fa61b - Pág. 1), não
+havendo qualquer indício que evidencie a sua observância" (fls. 208).
+Cabe ressaltar, ainda, ser incontroversa a confissão ficta, reconhecida em
+sentença e mantida pela Corte de origem:
+“a preposta o recorrente sequer soube informar acerca da existência de contrato de prestação
+de serviços tampouco se havia atraso do recolhimento do FGTS ou no recebimento de férias (ID.
+15fa61b - Pág. 1), não havendo qualquer indício que evidencie a sua observância" (fls. 208).
+A jurisprudência desta Corte consolidou o entendimento de que, configurada a
+revelia e a confissão ficta do ente público tomador de serviços, presumem-se verdadeiras as alegações
+de que ele não cumpriu com seu dever de fiscalização do contrato de prestação de serviços,
+reconhecendo assim a sua responsabilidade subsidiária.
+Neste sentido é a Orientação Jurisprudencial nº 152 da Subseção I Especializada
+em Dissídios Individuais desta Corte, que dispõe:
+"REVELIA. PESSOA JURÍDICA DE DIREITO PÚBLICO. APLICÁVEL. (ART. 844 DA CLT) (inserido
+dispositivo) - Res. 129/2005, DJ 20, 22 e 25.04.2005
+Pessoa jurídica de direito público sujeita-se à revelia prevista no artigo 844 da CLT".
+Ante a configuração de confissão ficta do ente público tomador de serviços,
+presumem-se verdadeiras as alegações de que ele não cumpriu com seu dever de fiscalização do
+contrato de prestação de serviços, reconhecendo assim a sua responsabilidade subsidiária.
+Nesse sentido, são os seguintes julgados:
+"AGRAVO DE INSTRUMENTO. TERCEIRIZAÇÃO. RESPONSABILIDADE SUBSIDIÁRIA DA
+ADMINISTRAÇÃO PÚBLICA. CULPA "IN VIGILANDO". TEMAS 246 E 1.118 DA REPERCUSSÃO GERAL DO
+STF. REVELIA E CONFISSÃO FICTA. TRANSCENDÊNCIA JURÍDICA RECONHECIDA. 1. Em que pese o
+decidido pelo Supremo Tribunal Federal no julgamento do Tema 246, no sentido de que o
+reconhecimento da responsabilidade subsidiária do contratante público não prescinde da
+demonstração da culpa, a qual não se presume pelo mero inadimplemento e, por outro lado, a
+decisão proferida no Tema 1.118 que atribui ao trabalhador o ônus de provar o comportamento
+culposo da administração pública, o Tribunal Regional consignou que o ente público foi fictamente
+confesso. 2. A confissão ficta prejudica qualquer discussão a respeito da distribuição do ônus da
+prova, pois faz presumir verdadeira a alegação da petição inicial no sentido da existência de falha
+fiscalizatória por parte da administração pública. 3. Precedentes do TST e do STF. Agravo de
+instrumento a que se nega provimento" (AIRR-1000391-42.2023.5.02.0521, 1.ª Turma, Relator
+Ministro Amaury Rodrigues Pinto Junior, DEJT 03/04/2025).
+"AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. INTERPOSIÇÃO SOB A ÉGIDE DAS LEIS
+13.015/2014 E 13.467/2017. RESPONSABILIDADE SUBSIDIÁRIA. ENTE PÚBLICO. CULPA IN VIGILANDO
+CARACTERIZADA. REVELIA. CONFISSÃO FICTA. OJ 152 DA SBDI-1 DO TST. TRANSCENDÊNCIA JURÍDICA.
+Ao julgar a ADC 16, o STF decidiu que o artigo 71, §1.º, da Lei n.º 8.666/93 é constitucional, mas que
+isso não impede a responsabilidade subsidiária da Administração Pública, desde que constatado que
+o ente público agiu com culpa in vigilando. Acompanhando o entendimento do Supremo Tribunal
+Federal, o Tribunal Superior do Trabalho alterou a redação da Súmula n.º 331, incluindo o item V. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067868CACAA7F8A8.
+Registre-se ainda, por oportuno, a recente decisão do STF no RE n.º 760.931, com repercussão geral,
+que exige prova efetiva e concreta da ausência de fiscalização e da configuração da culpa in vigilando
+da administração pública. Além disso, a SBDI-1, em sessão realizada no dia 12/12/2019, nos autos
+dos Embargos E-RR-925-07.2016.5.05.0281, relator Min. Cláudio Mascarenhas Brandão, entendeu que
+a questão relativa ao ônus da prova da fiscalização do contrato tem caráter infraconstitucional, não
+tendo sido brandida nas decisões proferidas pelo Supremo Tribunal Federal no RE 760.931, razão
+pela qual aquela Subseção fixou a tese de que é do Poder Público, tomador dos serviços, o ônus de
+demonstrar que fiscalizou de forma adequada o contrato de prestação de serviços, repelindo o
+entendimento de que o encargo era do empregado. Na hipótese dos autos, o TRT concluiu que "o 2.º
+Réu não se desincumbiu do encargo probatório que lhe pertencia acerca do
+monitoramento/fiscalização das obrigações contratuais assumidas pelo 1.ª Réu, incluindo a
+conformidade das obrigações trabalhistas, com consequente prejuízo para a parte trabalhadora que
+se dedicou à execução das atividades transferidas . No caso, o 2.º reclamado não apresentou defesa,
+tendo sido decretada a revelia e aplicada a confissão ficta e ausente prova pré-constituída quanto ao
+exercício de fiscalização, resta configurada a responsabilidade subsidiária do Estado de Mato
+Grosso.". Ademais, a decisão regional que aplicou a revelia e a confissão ficta ao ente público está
+em consonância com a iterativa, notória e atual jurisprudência desta Corte Superior,
+consubstanciada na Orientação Jurisprudencial n.º 152 da SBDI-1 do TST, segundo a qual se aplica a
+pena de confissão à pessoa jurídica de direito público. Portanto, o acórdão recorrido, ao determinar
+a culpa in vigilando do Estado de Mato Grosso através das regras de distribuição do ônus da prova,
+está em consonância com a iterativa e atual jurisprudência do Tribunal Superior do Trabalho,
+notadamente o item V da supramencionada Súmula 331, incidindo, portanto, o óbice do artigo 896, §
+7.º, da CLT c/c a Súmula 333 do TST a inviabilizar o conhecimento do pleito. Agravo de instrumento
+conhecido e desprovido " (AIRR-960-17.2019.5.23.0036, 7.ª Turma, Relator Ministro Alexandre de
+Souza Agra Belmonte, DEJT 14/04/2023).
+"RECURSO DE REVISTA. LEIS N.ºS 13.015/2014 E 13.467/2017. RESPONSABILIDADE SUBSIDIÁRIA.
+ENTE INTEGRANTE DA ADMINISTRAÇÃO PÚBLICA. REVELIA. CONFISSÃO FICTA. ORIENTAÇÃO
+JURISPRUDENCIAL 152 DA SBDI-1 DO TST. CULPA IN VIGILANDO. TRANSCENDÊNCIA POLÍTICA
+RECONHECIDA 1. Discute-se a responsabilidade subsidiária do contratante público pelas verbas
+trabalhistas inadimplidas pela empresa prestadora de serviços. 2. A tese fixada pelo STF não
+impossibilita a condenação do contratante público em responder de forma subsidiária, mas que a
+atribuição da respectiva responsabilidade não é automática , dependendo de prova efetiva da
+conduta culposa quanto à fiscalização da prestadora de serviços, o que não decorre de presunção
+nem do mero inadimplemento das obrigações trabalhistas pela prestadora de serviços (RE 760.931,
+em que fixou tese de repercussão geral - Tema 246). 3. A jurisprudência desta Corte consolidou o
+entendimento de que, configurada a revelia e a confissão ficta do contratante público tomador de
+serviços, presumem-se verdadeiras as alegações de que ele não cumpriu com seu dever de
+fiscalização do contrato de prestação de serviços, reconhecendo assim a sua responsabilidade
+subsidiária. Precedentes. 4. Ademais, a "Pessoa jurídica de direito público sujeita-se à revelia prevista
+no art. 844 da CLT" (Orientação Jurisprudencial 153 da SDI-1 desta Corte). Recurso de revista de que
+se conhece e a que se dá provimento" (RR-113-20.2021.5.12.0046, 3.ª Turma, Relator Ministro Alberto
+Bastos Balazeiro, DEJT 14/10/2022).
+"AGRAVO INTERNO. RECURSO DE REVISTA. LEIS 13.015/2014 E 13.467/2017. IN 40 DO TST.
+TERCEIRIZAÇÃO. ENTE PÚBLICO. RESPONSABILIDADE SUBSIDIÁRIA. CULPA IN VIGILANDO. CONFISSÃO
+FICTA DO ENTE PÚBLICO. Hipótese em foi aplicada a pena de confissão ficta ao ente público. A
+jurisprudência desta Corte tem se posicionado no sentido de que, havendo confissão ficta, o ônus
+probatório é transferido para o reclamado confesso, no caso, ente público tomador dos serviços.
+Nessa ordem de ideias, restou comprovada a ausência de fiscalização do contrato por meio
+da confissão ficta do contratante público recorrente. Correta, pois, a decisão Agravada que reformou
+o acórdão para restabelecer a sentença no ponto em que reconheceu a responsabilidade
+subsidiária do contratante público pelas verbas deferidas na presente reclamatória. Precedentes.
+Agravo interno não provido" (Ag-RR-100685-80.2018.5.01.0050, 2.ª Turma, Relatora Ministra Maria
+Helena Mallmann, DEJT 24/09/2021).
+"AGRAVO. AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA INTERPOSTO SOB A ÉGIDE DAS
+LEIS Nos 13.015/2014 E 13.467/2017. VIGÊNCIA DA IN N.º 40 do TST. ENTE PÚBLICO. REVELIA
+E CONFISSÃO FICTA. RESPONSABILIDADE SUBSIDIÁRIA 1 - De acordo com a sistemática vigente à
+época, reconheceu-se a transcendência na forma autorizada pelo art. 896-A, § 1.º, caput, parte final,
+da CLT (critério "e outros"), por ter se mostrado aconselhável o exame mais detido da controvérsia
+devido às peculiaridades do caso concreto. 2 - A jurisprudência atual, iterativa e notória deste
+Tribunal Superior consolidou-se no sentido de que, ante a configuração de revelia e de confissão
+ficta do tomador de serviços, presumem-se verdadeiras as alegações de que ele não cumpriu com
+seu dever de fiscalização do contrato de prestação de serviços, justificando-se, pois, o
+reconhecimento de responsabilidade subsidiária do contratante público. Há julgados. 3 - No caso
+concreto, o TRT reconheceu a responsabilidade subsidiária do contratante público, por considerar
+constatada a sua culpa in vigilando, tendo em vista a ocorrência de confissão ficta. A propósito,
+aquela Corte ressaltou que a "questão envolvendo a responsabilização subsidiária era
+eminentemente fática, ou seja, demandava apurar se durante o contrato administrativo firmado
+entre o DETRAN e a 1.ª ré houve fiscalização efetiva do tomador dos serviços, ponto fundamental
+para descobrir se ocorreu, ou não, negligência da Administração Pública. Assim, em razão da
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067868CACAA7F8A8.
+ausência do segundo réu na audiência em que deveria apresentar defesa e prestar depoimento, falha
+que necessariamente impõe o desprezo por toda a documentação antecipadamente acostada com a
+peça contestatória, nenhum reparo, não podendo nem sequer ser cogitada a regra do art. 345,
+merece a sentença Recorrida II, do CPC neste caso porque o presente litígio não versa sobre direitos
+indisponíveis." 4 - Nesse contexto, o acórdão regional, ao reconhecer a responsabilidade
+subsidiária da Administração Pública ante a ausência desta à audiência em que deveria apresentar
+defesa e prestar depoimento, revela-se em consonância com a jurisprudência deste Tribunal
+Superior. Ademais, a parte não renova no Agravo de Instrumento a controvérsia acerca dos efeitos
+da revelia, tampouco a alegada violação art. 345, II, do CPC, nem sequer impugna o fato de o TRT ter
+desconsiderado a prova pré-constituída nos autos. 5 - Ressalta-se que a premissa relativa à confissão
+ficta atrai a aplicação da técnica da distinção (distinguishing ), de modo a evidenciar que não houve
+afronta às decisões do STF na ADC n.º 16 e no RE n.º 760.931. 6 - Agravo a que se nega provimento"
+(Ag-AIRR-101922-84.2016.5.01.0062, 6.ª Turma, Relatora Ministra Katia Magalhaes Arruda, DEJT
+15/05/2020).
+"I. (...) II. AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. NÃO REGIDO PELA LEI
+13.015/2014. RESPONSABILIDADE SUBSIDIÁRIA. ENTE DA ADMINISTRAÇÃO PÚBLICA. AUSÊNCIA DE
+PREMISSAS QUE EVIDENCIEM A CONDUTA CULPOSA DA ENTIDADE PÚBLICA. SÚMULA 331 DO TST.
+Demonstrada possível contrariedade à Súmula 331 do TST, impõe-se o provimento do Agravo de
+Instrumento para determinar o processamento do Recurso de Revista. Agravo de instrumento
+provido. III. RECURSO DE REVISTA. NÃO REGIDO PELA LEI 13.015/2014. RESPONSABILIDADE
+SUBSIDIÁRIA. ENTE DA ADMINISTRAÇÃO PÚBLICA. AUSÊNCIA DO PREPOSTO À AUDIÊNCIA. PRESENÇA
+EXCLUSIVA DE PROCURADOR. SÚMULA 122 do TST. ORIENTAÇÃO JURISPRUDENCIAL 152 DA SBDI￾TST. CONFISSÃO FICTA. CULPA IN VIGILANDO. CONFIGURAÇÃO. 1. O Tribunal Regional entendeu que
+" A legislação trabalhista é expressa em determinar que na primeira audiência deverão estar
+presentes o reclamante e o reclamado, conforme o art. 843 da CLT. O não comparecimento do
+segundo importa revelia, além de confissão quanto à matéria de fato, nos termos do art. 844
+consolidado. (...) No presente caso, ocorreu confissão ficta em face da ausência do preposto à
+audiência para prestar depoimento pessoal" . 2. A Consolidação das Leis do Trabalho (CLT) é
+expressa quanto à necessidade de o reclamante e o reclamado comparecerem à audiência,
+independentemente do comparecimento de seus representantes, também fixando , como
+consequência jurídica para as hipóteses de ausência, respectivamente, o arquivamento do feito e a
+revelia e confissão ficta (arts. 843 e 844), inclusive quando figurar no polo passivo da lide pessoa
+jurídica de direito público (Orientação Jurisprudencial 152 da SBDI-1 do TST). 3. A presença do
+Procurador do Município à audiência, nesse cenário, ainda que munido de procuração, defesa e
+documentos, na forma do art. 12, II do CPC/1973, não elide a configuração da revelia e consequente
+confissão, segundo a exata compreensão depositada na Súmula 122, desta Corte, segundo a qual: " A
+reclamada, ausente à audiência em que deveria apresentar defesa, é revel, ainda que presente seu
+advogado munido de procuração, podendo ser ilidida a revelia mediante a apresentação de atestado
+médico, que deverá declarar, expressamente, a impossibilidade de locomoção do empregador ou do
+seu preposto no dia da audiência ". 4. Ainda que se possa estabelecer ressalvas quando ao sentido
+da diretriz jurisprudencial referida, dado que a revelia encerra estado processual que decorre da
+ausência de defesa, situação não verificada no caso concreto, é fato que esta Corte conferiu
+interpretação singular ao conjunto de regras que disciplinam o exercício do direito de defesa perante
+seus órgãos iniciais de jurisdição, considerando a presença da parte como pressuposto lógico￾essencial para aquele exercício, situação apenas recentemente corrigida, com o advento da Lei
+13.467/2017, que inseriu o § 5.º ao art. 844 da CLT (disposição inaplicável ao caso concreto) . 5. Nesse
+contexto, a decisão regional que aplicou a confissão ficta ao Recorrente guarda sintonia com a
+iterativa e notória jurisprudência desta Corte. Reconhecida a confissão ficta quanto à culpa in
+vigilando e sendo amplamente admitida a possibilidade de imputação da responsabilidade
+subsidiária aos entes da Administração Pública, por dívidas trabalhistas mantidas por empresas de
+terceirização por ela contratadas, desde que configurada conduta culposa, por omissão ou
+negligência, no acompanhamento da execução dos contratos de terceirização celebrados (Súmula
+331, V, do TST; STF, ADC 16; art. 71, § 1.º, da Lei 8.666/93), são inócuos os questionamentos recursais
+fundados em presunção de culpa e divisão do encargo probatório, sendo legítima a imputação
+da responsabilidade subsidiária combatida, Incidência da Súmula 331, V, TST. Julgados. Recurso de
+revista não conhecido" (RR-74540-47.2005.5.01.0048, 5.ª Turma, Relator Ministro Douglas Alencar
+Rodrigues, DEJT 08/05/2020.)
+Diante da consonância do acórdão regional com a tese vinculante da Suprema
+Corte, especialmente o item I do Tema nº 1.118 da Tabela de Repercussão Geral, incide o disposto no
+art. 896, § 7º, da CLT, bem como o entendimento da Súmula nº 333 do TST.
+Conclui-se, portanto, que a decisão regional encontra-se em estrita conformidade
+com a tese firmada no Tema de Repercussão Geral nº 1.118 do STF, ainda que por fundamento diverso,
+razão pela qual a 3ª Turma não exerce o juízo de retratação e determina o retorno dos autos à Vice￾Presidência desta Corte para prosseguimento do feito, como de direito.
+ISTO POSTO
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067868CACAA7F8A8.
+ACORDAM os Ministros da Terceira Turma do Tribunal Superior do Trabalho, por
+unanimidade, não exercer o juízo de retratação, previsto no art. 1.030, II, do CPC, e determinar o retorno
+dos autos à Vice-Presidência desta Corte para prosseguimento do feito, como de direito.
+Brasília, 24 de junho de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+ALBERTO BASTOS BALAZEIRO
+Ministro Relator
+Firmado por assinatura digital em 25/06/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067868CACAA7F8A8.
