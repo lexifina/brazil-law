@@ -1,0 +1,40 @@
+DECISÃO:
+Cuida-se de reclamação constitucional, com pedido liminar, ajuizada por Ziumar Cardoso de Oliveira contra decisão da 2ª Vara Cível da Comarca de Sobral, proferida nos autos do Processo nº 0062414-83.2017.8.06.0167, que teria desrespeitado a autoridade do Supremo Tribunal Federal e a eficácia da tese firmada no RE nº 1.304.964, vinculado ao Tema nº 1.154 da Repercussão Geral.
+Narra a parte reclamante que o processo em referência versa sobre ação de ressarcimento por perdas e danos promovida em seu desfavor por Silvia da Silva Rodrigues, objetivando indenização por danos materiais decorrente de oferta de curso de graduação em serviços social “pelo Instituto de Ensino e Pesquisa do Vale do Coreaú (IVC), instituição privada de ensino superior integrante do Sistema Federal de Ensino, a qual não possuía a devida autorização do Ministério da Educação para oferecer o referido curso no Estado do Ceará”.
+Afirma que o pedido foi julgado procedente em sentença transitada em julgado e que, na fase de execução, opôs exceção de pré-executividade com pedido de declaração de “incompetência absoluta da Justiça Estadual para processar e julgar feitos relacionados à expedição de diploma”, tendo a autoridade reclamada rejeitado o pleito e determinado “a expedição imediata da carta de arrematação e do mandado de imissão na posse em favor do arrematante”.
+Entende que a autoridade reclamada “realizou um distinguishing manifestamente equivocado ao afirmar que o caso versaria sobre ‘responsabilidade civil subjetiva e extracontratual’ decorrente de ‘ilícito civil de consumo’, diferindo do Tema 1.154, que trataria apenas de ‘formalidades de expedição ou registro de diploma’”.
+Infirma o argumento da decisão reclamada no sentido de que “a coisa julgada formada em 2019 constituiria óbice intransponível ao reconhecimento da incompetência arguida” ao sustentar que “que a coisa julgada não é absoluta e cede diante de normas constitucionais hierarquicamente superiores, especialmente quando a decisão anterior foi proferida por órgão sem competência constitucional para tanto, especialmente tem matéria quando há relação contratual de trato sucessivo, como é o caso”.
+Diz, por fim, que a pretensão desta reclamatória “não é o desfazimento de atos passados, mas a cessação de atos futuros praticados por juízo absolutamente incompetente, inclusive a expedição da carta de arrematação e do mandado de imissão na posse já determinados na decisão reclamada”.
+Requer que seja deferido o pedido liminar para suspender os efeitos do ato reclamado.
+No mérito, pleiteia
+
+e.1) anular a decisão reclamada (id 207737355), bem como todos os atos processuais praticados no Processo nº 0062414-83.2017.8.06.0167 a partir do momento em que o Tema 1.154 do STF passou a ter eficácia vinculante, por violação à tese fixada no RE nº 1.304.964/SP;
+ e.2) reconhecer a incompetência absoluta da Justiça Estadual para processar e julgar o feito de origem, em observância ao Tema 1.154 do STF;
+e.3) determinar ao juízo reclamado que decline da competência e remeta os autos do Processo nº 0062414-83.2017.8.06.0167 à Justiça Federal, Seção Judiciária do Ceará, Subseção de Sobral/CE, para regular prosseguimento;
+ f) a condenação da parte reclamada ao pagamento das custas processuais e honorários advocatícios, nos termos da lei.”
+É o relatório. Decido.
+A jurisprudência do STF se desenvolveu no sentido de exigir o esgotamento de instância como requisito de admissibilidade de reclamação constitucional com fundamento em tese de repercussão geral, sobrevindo a edição da Lei nº 13.105/2015 (CPC/2015), que positivou a condição no art. 988, § 5º, inc. II, in verbis:
+
+“Art. 988. […]
+§ 5º É inadmissível a reclamação:
+[…]
+II – proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias.”
+Vide precedentes do STF, no sentido de que o esgotamento de instância ocorre somente em sede de decisão colegiada da origem que, em sede de agravo interno, aprecia a negativa de seguimento de recurso extraordinário pela repercussão geral:
+
+“AGRAVO REGIMENTAL NA RECLAMAÇÃO. PROCESSUAL CIVIL. INTEMPESTIVIDADE. NÃO INTERPOSIÇAO DO AGRAVO INTERNO DO § 2º DO ART. 1.030 DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE ESGOTAMENTO DE INSTÂNCIA NA ORIGEM. IMPOSSIBILIDADE DE UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO DE RECURSO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA: INVIABILIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.” (Rcl nº 41.920/SC-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 25/9/2020).
+
+“DIREITO PROCESSUAL CIVIL. ALEGAÇÃO DE AFRONTA A TESE EM REPERCUSSÃO GERAL. AUSÊNCIA DE ESGOTAMENTO DE INSTÂNCIAS. RECLAMAÇÃO INVIÁVEL. 1. O CPC/2015 prevê como requisito para o ajuizamento de reclamação por alegação de afronta a tese firmada em repercussão geral o esgotamento das instâncias ordinárias (art. 988, § 5º, II, do CPC/2015). 2. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015, em caso de decisão unânime.” (Rcl nº 34.827/SP-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 13/9/2019).
+
+“Agravo regimental na reclamação. Repercussão geral. Ausência de esgotamento de instância. Agravo regimental não provido. 1. O reconhecimento da repercussão geral tem por precisa consequência esgotar a cognição nesta Corte acerca da matéria em “recursos com fundamento em idêntica controvérsia” (art. 543-B, caput, do CPC) e recomendar todos os processos, principais ou acessórios, à respectiva origem, a fim de aguardarem pronunciamento do STF , após o que competirá à Corte de origem proceder de acordo com a disciplina processual editada a fim de regulamentar a nova sistemática introduzida ao art. 102, §3º, da CF/88 pela EC nº 45/2004. 2. A reclamação constitucional com fundamento na erronia de aplicação de entendimento do STF firmado de acordo com a sistemática da repercussão geral admite como objeto tão somente decisão judicial proferida no exercício da competência conferida à Corte de origem quanto à apreciação de recurso extraordinário pelo Código de Processo Civil, sob pena de se subverter o instituto e tornar inócua a inovação normativa introduzida pela EC nº 45/04. Precedente plenário. 3. Agravo regimental não provido.” (Rcl nº 20.892/RJ-AgR, de minha relatoria, Segunda Turma, DJe de 18/4/2016).
+In casu, verifica-se dos autos que sequer houve a interposição de recurso extraordinário. Ausente, portanto, o necessário esgotamento das instâncias ordinárias, requisito indispensável ao conhecimento de reclamação fundada em tese fixada pelo Supremo Tribunal Federal em repercussão geral.
+ Nessa medida, entendo que o debate proposto deveria desenvolver-se pelos meios processuais adequados, não se podendo admitir o uso da reclamação constitucional como sucedâneo de recurso, conforme reiterada jurisprudência da Corte:
+Ante o exposto, com fundamento no art. 21, §1º, do RISTF, nego seguimento à reclamação. Prejudicada a apreciação do pedido liminar.
+Observo ainda que a reclamante não cumpriu integralmente os requisitos da petição inicial, deixando de indicar o endereço no qual a parte beneficiária deverá ser citada para integrar a presente reclamação (art. 989, III c/c art. 319, incisos II, do CPC/2015).
+Deixo de determinar sua emenda (art. 321 do CPC) ante o indeferimento liminar da inicial. Entretanto, na eventualidade de interposição de recurso desta decisão, seu conhecimento fica condicionado ao saneamento dos defeitos juntamente com a peça recursal.
+Considerando que o uso de meios processuais manifestamente inadmissíveis gera efeitos danosos à prestação jurisdicional, a parte reclamante fica advertida, na hipótese de recurso, da possibilidade de aplicação ipso facto da multa processual prevista no art. 1.021, §4º, do CPC/2015.
+Publique-se.
+Brasília, 24 de junho de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
