@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/06/2026 a 24/06/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. PRISÃO PREVENTIVA. ASSOCIAÇÃO CRIMINOSA VOLTADA À SUBTRAÇÃO SISTEMÁTICA DE MAQUINÁRIOS AGRÍCOLAS. GRAVIDADE CONCRETA DA CONDUTA. MODUS OPERANDI SOFISTICADO. INADEQUAÇÃO DA VIA ELEITA PARA EXAME DE INSUFICIÊNCIA PROBATÓRIA. MEDIDAS CAUTELARES DIVERSAS. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus impetrado em favor de paciente preso preventivamente por suposta participação em associação criminosa dedicada à subtração sistemática de maquinários agrícolas de alto valor, em diversas comarcas, no período de novembro de 2024 a abril de 2025.
+2. A defesa alega ausência de fundamentação idônea da prisão preventiva, sustentando que a decisão estaria calcada em gravidade abstrata , reputando ausentes os requisitos dos arts. 312 e 313 do CPP e postulando, em suma, a revogação da custódia ou sua substituição por medidas cautelares diversas.
+II. QUESTÃO EM DISCUSSÃO
+3. Há duas questões em discussão: (i) saber se a decisão que decretou e manteve a prisão preventiva está devidamente fundamentada na garantia da ordem pública, com base na gravidade concreta da conduta e no modus operandi empregado, em conformidade com os arts. 312 e 313 do CPP, tornando desnecessária a aplicação de medidas cautelares diversas do art. 319 do CPP; e (ii) saber se, na via estreita do habeas corpus, é possível apreciar alegação de insuficiência de provas de autoria, com vistas ao reconhecimento da inocência e consequente revogação da prisão.
+III. RAZÕES DE DECIDIR
+4. O habeas corpus não deve ser manejado como sucedâneo de revisão criminal ou recurso próprio, sendo incabível sua utilização quando se pretende reexame de matéria já apreciada pelas instâncias ordinárias, salvo em hipóteses de flagrante ilegalidade, abuso de poder ou teratologia.
+5. A autoridade judicial decretou a prisão preventiva com fundamentação idônea, destacando que os elementos colhidos nas investigações indicam que o paciente integraria associação criminosa voltada à subtração sistemática de maquinários agrícolas de alto valor, em diversas comarcas, por meio de modus operandi sofisticado, circunstâncias que evidenciam a gravidade concreta da conduta e justificam a custódia para garantia da ordem pública, nos termos do art. 312 do CPP.
+6. A jurisprudência consolidada dos tribunais superiores admite a gravidade concreta do delito e a periculosidade do agente, evidenciadas pelo modus operandi, como fundamentação idônea para a decretação e manutenção da prisão preventiva, especialmente quando voltada à interrupção ou diminuição da atuação de associação ou organização criminosa.
+7. A presença de condições pessoais favoráveis não afasta, por si só, a necessidade da prisão preventiva quando presentes os requisitos do art. 312 do CPP, razão pela qual se mostram inadequadas, na hipótese, medidas cautelares diversas do art. 319 do CPP diante da fundamentação concreta da custódia.
+8. A alegação defensiva de insuficiência de provas de autoria traduz pretensão de reconhecimento de inocência, que demandaria o revolvimento do acervo fático-probatório, providência incompatível com a via estreita do habeas corpus, motivo pelo qual o ponto não pode ser conhecido.
+9. Inexistindo flagrante ilegalidade na decretação e manutenção da prisão preventiva, não há falar em concessão de ordem de ofício, devendo ser mantida a decisão que não conheceu do habeas corpus.
+IV. DISPOSITIVO
+10. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por VITOR DA SILVA GOMES, contra decisão de fls. 308-311 que não conheceu do habeas corpus.
+Nas razões do agravo, a defesa reitera os termos da inicial e alega que ausência de fundamentação idônea da prisão preventiva, fundada em gravidade abstrata, presunção de periculosidade, reputando ausentes os requisitos autorizadores da medida extrema (arts. 312 e 313 do CPP).
+Requer a reconsideração da decisão agravada ou o envio do feito para apreciação perante a Turma julgadora.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. PRISÃO PREVENTIVA. ASSOCIAÇÃO CRIMINOSA VOLTADA À SUBTRAÇÃO SISTEMÁTICA DE MAQUINÁRIOS AGRÍCOLAS. GRAVIDADE CONCRETA DA CONDUTA. MODUS OPERANDI SOFISTICADO. INADEQUAÇÃO DA VIA ELEITA PARA EXAME DE INSUFICIÊNCIA PROBATÓRIA. MEDIDAS CAUTELARES DIVERSAS. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus impetrado em favor de paciente preso preventivamente por suposta participação em associação criminosa dedicada à subtração sistemática de maquinários agrícolas de alto valor, em diversas comarcas, no período de novembro de 2024 a abril de 2025.
+2. A defesa alega ausência de fundamentação idônea da prisão preventiva, sustentando que a decisão estaria calcada em gravidade abstrata , reputando ausentes os requisitos dos arts. 312 e 313 do CPP e postulando, em suma, a revogação da custódia ou sua substituição por medidas cautelares diversas.
+II. QUESTÃO EM DISCUSSÃO
+3. Há duas questões em discussão: (i) saber se a decisão que decretou e manteve a prisão preventiva está devidamente fundamentada na garantia da ordem pública, com base na gravidade concreta da conduta e no modus operandi empregado, em conformidade com os arts. 312 e 313 do CPP, tornando desnecessária a aplicação de medidas cautelares diversas do art. 319 do CPP; e (ii) saber se, na via estreita do habeas corpus, é possível apreciar alegação de insuficiência de provas de autoria, com vistas ao reconhecimento da inocência e consequente revogação da prisão.
+III. RAZÕES DE DECIDIR
+4. O habeas corpus não deve ser manejado como sucedâneo de revisão criminal ou recurso próprio, sendo incabível sua utilização quando se pretende reexame de matéria já apreciada pelas instâncias ordinárias, salvo em hipóteses de flagrante ilegalidade, abuso de poder ou teratologia.
+5. A autoridade judicial decretou a prisão preventiva com fundamentação idônea, destacando que os elementos colhidos nas investigações indicam que o paciente integraria associação criminosa voltada à subtração sistemática de maquinários agrícolas de alto valor, em diversas comarcas, por meio de modus operandi sofisticado, circunstâncias que evidenciam a gravidade concreta da conduta e justificam a custódia para garantia da ordem pública, nos termos do art. 312 do CPP.
+6. A jurisprudência consolidada dos tribunais superiores admite a gravidade concreta do delito e a periculosidade do agente, evidenciadas pelo modus operandi, como fundamentação idônea para a decretação e manutenção da prisão preventiva, especialmente quando voltada à interrupção ou diminuição da atuação de associação ou organização criminosa.
+7. A presença de condições pessoais favoráveis não afasta, por si só, a necessidade da prisão preventiva quando presentes os requisitos do art. 312 do CPP, razão pela qual se mostram inadequadas, na hipótese, medidas cautelares diversas do art. 319 do CPP diante da fundamentação concreta da custódia.
+8. A alegação defensiva de insuficiência de provas de autoria traduz pretensão de reconhecimento de inocência, que demandaria o revolvimento do acervo fático-probatório, providência incompatível com a via estreita do habeas corpus, motivo pelo qual o ponto não pode ser conhecido.
+9. Inexistindo flagrante ilegalidade na decretação e manutenção da prisão preventiva, não há falar em concessão de ordem de ofício, devendo ser mantida a decisão que não conheceu do habeas corpus.
+IV. DISPOSITIVO
+10. Agravo regimental desprovido.
+VOTO
+Presentes os requisitos de admissibilidade, conheço do recurso.
+No mérito, contudo, a irresignação deixa de justificar-se, devendo a decisão atacada ser mantida por seus próprios fundamentos.
+A decisão ora agravada foi proferida nos seguintes termos (fls. 309-310 ):
+ ..  Verifica-se que a prisão preventiva foi decretada mediante fundamentação idônea, lastreada na garantia da ordem pública, diante da gravidade concreta da conduta, pois os elementos colhidos no curso das investigações indicam que o paciente integraria associação criminosa dedicada à subtração sistemática de maquinários agrícolas de alto valor, mediante modus operandi sofisticado, no período de novembro de 2024 a abril de 2025, em diversas comarcas.
+Conforme entendimento consolidado no âmbito desta Corte Superior, constitui fundamentação apta a justificar, de modo concreto, a prisão preventiva, a bem da ordem pública, a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa. Nesse sentido:
+ ..
+Com efeito, esta Corte Superior possui orientação no sentido de que a gravidade concreta do delito imputado e a periculosidade do agente, evidenciadas no modus operandi empregado, são circunstâncias aptas a justificar a prisão preventiva para a garantia da ordem pública. Nesse entendimento:
+ ..
+Por sua vez, a tese defensiva referente à insuficiência de provas de autoria não deve ser conhecida, pois consiste em pleito de reconhecimento de inocência, providência incompatível com a estreita via do habeas corpus, uma vez que demanda necessário revolvimento do acervo fático-probatório. Nesse sentido: AgRg no HC n. 1.062.037/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 3/2/2026, DJEN de 10/2/2026.
+Adicionalmente, quando presentes os requisitos do art. 312 do CPP, a imposição da prisão preventiva é medida de rigor, independentemente de condições pessoais favoráveis do agente, mostrando-se inadequadas medidas cautelares diversas do art. 319, quando a custódia provisória apresentar fundamentação concreta.
+Nesse sentido, " a  presença de condições pessoais favoráveis não impede a imposição da prisão preventiva, quando presentes os requisitos legais" (AgRg no HC n. 990.311/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/4/2025, DJEN de 30/4/2025).
+Ademais, "tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no HC n. 965.960/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025).
+Ante o exposto, não conheço do habeas corpus.  ..
+Inicialmente, o habeas corpus não deve ser manejado como sucedâneo de revisão criminal ou recurso próprio, sendo incabível sua utilização quando se pretende reexame de matéria já apreciada pelas instâncias ordinárias, salvo em hipóteses de flagrante ilegalidade, abuso de poder ou teratologia, nos termos do art. 654, § 2º, do CPP, situação excepcional não evidenciada nos presentes autos.
+Posto isso, a decisão agravada deve ser mantida por seus próprios fundamentos, os quais não foram afastados pelas razões recursais, tendo em vista que a decretação e a subsequente manutenção da prisão estão amparadas em fundamentos idôneos da custódia cautelar.
+Foi indicada a gravidade concreta da conduta criminosa, a qual foi evidenciada pelo destacado modus operandi, pois o delito teria ocorrido com a participação do ora recorrente, em suposta associação criminosa dedicada à subtração sistemática de maquinários agrícolas de alto valor, situação que revela a indispensabilidade da imposição da medida extrema na hipótese.
+É firme a jurisprudência dessa Casa e do Supremo Tribunal Federal no sentido de que " a  gravidade em concreto do crime e a periculosidade do agente, evidenciada pelo modus operandi, constituem fundamentação idônea para a decretação da custódia preventiva" (HC 212647 AgR, Relator Ministro ANDRÉ MENDONÇA, Segunda Turma, julgado em 05/12/2022, DJe 10/01/2023).
+Igualmente, "tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no HC n. 965.960/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025).
+Não há, portanto, flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
