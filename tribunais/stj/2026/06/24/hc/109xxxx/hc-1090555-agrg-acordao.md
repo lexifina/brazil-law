@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/06/2026 a 24/06/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Carlos Pires Brandão e Nilsoni de Freitas (Desembargadora Convocada do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA DECRETADA EM MEDIDA CAUTELAR INOMINADA PARA ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO EM SENTIDO ESTRITO. DECISÃO LIMINAR PROFERIDA PELO TRIBUNAL DE ORIGEM. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 691 DO STF. AUSÊNCIA DE TERATOLOGIA OU FLAGRANTE ILEGALIDADE. REINCIDÊNCIA ESPECÍFICA. GARANTIA DA ORDEM PÚBLICA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Aplica-se, por analogia, a Súmula n. 691 do STF quando o habeas corpus é impetrado contra decisão liminar proferida por relator em medida cautelar inominada pendente de apreciação colegiada.
+2. O ajuizamento de medida cautelar inominada para atribuir efeito suspensivo a recurso em sentido estrito interposto pelo Ministério Público contra decisão que revogou prisão preventiva é admitido pela jurisprudência do Superior Tribunal de Justiça.
+3. A mitigação do óbice sumular somente é possível diante de decisão teratológica, desprovida de fundamentação ou marcada por manifesta ilegalidade, circunstâncias não verificadas no caso concreto.
+4. Os elementos colhidos nos autos indicam a apreensão de cocaína, expressiva quantia em dinheiro, munição e valores ocultados no interior da residência apontada como ponto de venda de drogas, evidenciando, em juízo sumário, gravidade concreta da conduta e indícios de atuação estável no comércio ilícito de entorpecentes.
+5. A agravante ostenta reincidência específica e, em tese, praticou o novo delito durante o cumprimento de pena em regime aberto ou domiciliar, circunstâncias que reforçam a necessidade da custódia cautelar para garantia da ordem pública.
+6. Não se identifica flagrante ilegalidade apta a justificar a concessão da ordem de ofício ou a superação excepcional da Súmula n. 691 do STF.
+7. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por EDINÉIA LOPES GONÇALVES contra a decisão de fls. 218-220, que não conheceu do habeas corpus impetrado, aplicando-se ao caso, por analogia, a orientação definida pela Súmula n. 691 do STF.
+Extrai-se dos autos que, a agravante foi presa em flagrante em 6/4/2026 e que, em 7/4/2026, o Juízo de primeiro grau concedeu liberdade provisória à agravante e determinou a imposição de medidas cautelares em seu desfavor.
+O Ministério Público do Estado de São Paulo interpôs Recurso em Sentido Estrito - RSE contra a referida decisão.
+No intuito de atribuir efeito ativo ao RSE, o Ministério Público estadual interpôs Medida Cautelar Inominada n. 2087213-05.2026.8.26.0000, no Tribunal de Justiça do Estado de São Paulo, tendo sido decretada a prisão preventiva da agravante, em liminar (fls. 37-45).
+A defesa alega que há flagrante ilegalidade e afronta direta a direito fundamental, o que autoriza superar o óbice da Súmula n. 691 do STF.
+Argumenta que a agravante é mãe de criança menor de 12 anos e responsável por filho com esquizofrenia e deficiência mental, que depende de cuidados contínuos de medicação, higiene e alimentação, inexistindo rede de apoio suficiente.
+Defende que manter a prisão preventiva contraria a proteção integral às crianças e às pessoas com deficiência, com risco concreto à saúde e à dignidade dos dependentes.
+Expõe que, embora a decisão do Tribunal de origem tenha apontado ausência de prova da imprescindibilidade da presença materna, há presunção legal desses cuidados e o vínculo materno não pode ser substituído por parentes.
+Alega que, à luz dos arts. 318 e 318-A do CPP e da orientação do HC coletivo n. 143.641/SP, deve ser substituída a prisão preventiva por domiciliar, pois o delito imputado não envolveu violência ou grave ameaça.
+Argumenta, nesse sentido, que a prisão domiciliar protege a criança e não se confunde com liberdade provisória, devendo o juízo avaliar cautelares adicionais, se necessário.
+Busca a reconsideração da decisão para que seja revogada a prisão preventiva da parte agra vante ou seja submetido o recurso ao colegiado.
+Consta memorial às fls. 249-256, reiterando as razões da impetração.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA DECRETADA EM MEDIDA CAUTELAR INOMINADA PARA ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO EM SENTIDO ESTRITO. DECISÃO LIMINAR PROFERIDA PELO TRIBUNAL DE ORIGEM. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 691 DO STF. AUSÊNCIA DE TERATOLOGIA OU FLAGRANTE ILEGALIDADE. REINCIDÊNCIA ESPECÍFICA. GARANTIA DA ORDEM PÚBLICA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Aplica-se, por analogia, a Súmula n. 691 do STF quando o habeas corpus é impetrado contra decisão liminar proferida por relator em medida cautelar inominada pendente de apreciação colegiada.
+2. O ajuizamento de medida cautelar inominada para atribuir efeito suspensivo a recurso em sentido estrito interposto pelo Ministério Público contra decisão que revogou prisão preventiva é admitido pela jurisprudência do Superior Tribunal de Justiça.
+3. A mitigação do óbice sumular somente é possível diante de decisão teratológica, desprovida de fundamentação ou marcada por manifesta ilegalidade, circunstâncias não verificadas no caso concreto.
+4. Os elementos colhidos nos autos indicam a apreensão de cocaína, expressiva quantia em dinheiro, munição e valores ocultados no interior da residência apontada como ponto de venda de drogas, evidenciando, em juízo sumário, gravidade concreta da conduta e indícios de atuação estável no comércio ilícito de entorpecentes.
+5. A agravante ostenta reincidência específica e, em tese, praticou o novo delito durante o cumprimento de pena em regime aberto ou domiciliar, circunstâncias que reforçam a necessidade da custódia cautelar para garantia da ordem pública.
+6. Não se identifica flagrante ilegalidade apta a justificar a concessão da ordem de ofício ou a superação excepcional da Súmula n. 691 do STF.
+7. Agravo regimental improvido.
+VOTO
+Conforme constou da decisão agravada, a pretensão não pode ser acolhida pelo Superior Tribunal de Justiça, pois a matéria não foi examinada por órgão colegiado do Tribunal de origem, pendendo de julgamento o mérito da ação cautelar inominada.
+A decisão impugnada foi proferida liminarmente. Não tendo sido demonstrada a respectiva apreciação do mérito, aplica-se, por analogia, o entendimento sedimentado na Súmula n. 691 do STF, que dispõe: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar."
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. SÚMULA N. 691/STF. MEDIDA CAUTELAR INOMINADA. EFEITO SUSPENSIVO A RECURSO EM SENTIDO ESTRITO. POSSIBILIDADE. ART. 244 C/C O ART. 9º, II, E, DO CPM. PRISÃO PREVENTIVA. MODUS OPERANDI DO DELITO. TEMOR CAUSADO À VÍTIMA E À TESTEMUNHA. AUSÊNCIA DE MANIFESTA ILEGALIDADE.
+1. Nos termos da Súmula n. 691 do STF, aplicável por analogia ao caso, não se admite, em regra, a impetração de habeas corpus contra decisão que indefere a liminar na origem, ressalvadas as hipóteses em que evidenciada a presença de decisão teratológica ou desprovida de fundamentação.
+2. Conforme a jurisprudência desta Corte Superior, "é admissível o ajuizamento de ação cautelar inominada para atribuir efeito suspensivo a recurso em sentido estrito interposto pelo Ministério Público contra decisão que revogou a prisão preventiva" (HC n. 485.727/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/4/2019, DJe de 30/4/2019).
+3. Tendo o pedido liminar sido deferido na origem com a indicação de fundamentação concreta, destacando-se a existência de indícios de autoria e de materialidade, bem como do periculum libertatis, evidenciado no modus operandi do delito, praticado por policiais com ameaça a civil, bem como no temor causado à vítima e à testemunha, não há manifesta ilegalidade apta a justificar a mitigação da Súmula n. 691/STF.
+4. Agravo regimental improvido.
+(AgRg no HC n. 794.156/SP, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, julgado em 7/2/2023, DJe de 10/2/2023 - grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO QUE INDEFERE LIMINAR EM CAUTELAR INOMINADA. EFEITO SUSPENSIVO AO RECURSO EM SENTIDO ESTRITO. VIOLAÇÃO À SÚMULA 604 DO STJ. AUSÊNCIA. SÚMULA N. 691 DO STF. INCIDÊNCIA. AUSÊNCIA DE TERATOLOGIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. "É admissível o ajuizamento de ação cautelar inominada para atribuir efeito suspensivo a recurso em sentido estrito interposto pelo Ministério Público contra decisão que revogou a prisão preventiva. Inaplicável, ao caso, a Súmula n. 604 do Superior Tribunal de Justiça, que é específica ao proibir o uso do mandado de segurança como via de atribuição de efeito suspensivo a recurso criminal da Acusação. (HC 485727 / SC, Relatora Ministra Laurita Vaz, Sexta Turma, Dje 30/4/2019)." (EDcl no HC n. 751.088/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 25/10/2022, DJe de 28/10/2022).
+2. Tratando-se de habeas corpus impetrado contra decisão que indeferiu a liminar, incide à espécie a Súmula n. 691 do STF, que, por analogia, também se aplica ao caso em análise, em que se trata de impugnação de decisão liminar proferida por Desembargador Relator de ação cautelar inominada.
+3. Não há ilegalidade flagrante que autorize a mitigação da incidência do enunciado sumular, na medida em que o magistrado estadual ressaltou aspectos concretos suficientes para a manutenção da custódia dos pacientes.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 874.075/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+Não há, ademais, teratologia ou manifesta ilegalidade para justificar a concessão da ordem de ofício.
+Consoante se extrai dos autos, Bruno e Edinéia foram presos em flagrante na residência indicada nos autos como ponto de venda de drogas. Consta dos autos de origem que, com Bruno Everton França, foram localizados aproximadamente 90 g de cocaína e a quantia de R$ 3.094,00 em espécie. No interior do imóvel, onde se encontrava Edinéia, os policiais localizaram valores adicionais ocultos em vestimentas femininas e dentro de um pote de arroz, totalizando aproximadamente R$ 5.068,00, além de uma munição calibre .22. Tais circunstâncias, consideradas em conjunto, evidenciam, em juízo de cognição sumária próprio da presente fase, a gravidade concreta da conduta, a possível destinação mercantil da droga apreendida e a existência de elementos indicativos de atuação estável no comércio espúrio de entorpecentes, circunstâncias aptas a justificar a segregação cautelar para garantia da ordem pública (fls. 43-44).
+Consta, ainda, que Edinéia é reincidente específica e que teria cometido o novo delito enquanto cumpria pena em regime aberto/domiciliar referente ao processo n. 1500435-66.2023.8.26.0559 (Execução n. 0011517-83.2024.8.26.0576), com trânsito em julgado em 16/05/2024 (fl. 44).
+Dessa forma, a agravante não trouxe fundamentos aptos a reformar a decisão agravada, que se mantém por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
