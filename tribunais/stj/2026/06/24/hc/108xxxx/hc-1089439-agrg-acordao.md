@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/06/2026 a 24/06/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Carlos Pires Brandão, Nilsoni de Freitas (Desembargadora Convocada do TJDFT) e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. UNIRRECORRIBILIDADE E PRECLUSÃO CONSUMATIVA. SUPRESSÃO DE INSTÂNCIA. PERÍCIA EM MAQUINÁRIO APREENDIDO. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. INEXISTÊNCIA DE ILEGALIDADE MANIFESTA PARA ORDEM DE OFÍCIO.
+1. A interposição de recurso especial contra o acórdão condenatório opera preclusão consumativa e impede o conhecimento do habeas corpus sobre o mesmo objeto, por violar o princípio da uni rrecorribilidade.
+2. Também é vedado apreciar matéria não debatida pelo Tribunal de origem, ainda que de ordem pública, sob pena de supressão de instância.
+3. O art. 647-A do Código de Processo Penal não autoriza concessão de ordem de ofício quando ausente ilegalidade manifesta.
+4. A perícia do maquinário apreendido é desnecessária quando a adulteração do sinal identificador do veículo automotor pode ser comprovada de forma clara por outros meios de prova.
+5. O conjunto probatório indicado no acórdão recorrido evidencia autoria por meio de conversas extraídas de aparelho celular sobre encomenda e confecção de placas inautênticas, comprovantes de pagamento, negociações eletrônicas, apreensão de placas com corréu, registros de câmeras municipais de veículo com placa adulterada e documentos oficiais, corroborados por depoimentos de agentes públicos sob contraditório.
+6. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Henrique Alcides Ariza contra a decisão de minha lavra que indeferiu liminarmente a petição inicial do habeas corpus (fls. 317/320).
+Nas razões do recurso, a defesa alega que a jurisprudência desta Corte Superior admite o processamento do writ quando o objeto da impetração é distinto do recurso próprio quando se busca a tutela direta à liberdade de locomoção diante da ilegalidade manifesta (fl. 327), como ocorreria no caso do agravante.
+Afirma que haveria nítida distinção entre as matérias veiculadas no recurso especial e aquelas citadas no presente habeas corpus, tendo em vista que, no primeiro, discute-se suposta violação a dispositivos infraconstitucionais sob a perspectiva da valoração probatória, ao passo que, neste feito, o impetrante questiona a ausência de perícia em crime que deixa vestígios, em afronta ao art. 158 do Código de Processo Penal (fl. 328).
+Quanto ao mérito da impetração, argumenta que o agravante foi condenado com base em máquinas de confecção de placas apreendidas e que estas deveriam ter sido periciadas para atestar se tais máquinas eram efetivamente destinadas à adulteração e se foram utilizadas para esse fim (fl. 334).
+Por essas razões, pede a reconsideração da decisão agravada e, em caso contrário, pede que o recurso seja submetido ao colegiado, para que este lhe dê provimento.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. UNIRRECORRIBILIDADE E PRECLUSÃO CONSUMATIVA. SUPRESSÃO DE INSTÂNCIA. PERÍCIA EM MAQUINÁRIO APREENDIDO. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. INEXISTÊNCIA DE ILEGALIDADE MANIFESTA PARA ORDEM DE OFÍCIO.
+1. A interposição de recurso especial contra o acórdão condenatório opera preclusão consumativa e impede o conhecimento do habeas corpus sobre o mesmo objeto, por violar o princípio da uni rrecorribilidade.
+2. Também é vedado apreciar matéria não debatida pelo Tribunal de origem, ainda que de ordem pública, sob pena de supressão de instância.
+3. O art. 647-A do Código de Processo Penal não autoriza concessão de ordem de ofício quando ausente ilegalidade manifesta.
+4. A perícia do maquinário apreendido é desnecessária quando a adulteração do sinal identificador do veículo automotor pode ser comprovada de forma clara por outros meios de prova.
+5. O conjunto probatório indicado no acórdão recorrido evidencia autoria por meio de conversas extraídas de aparelho celular sobre encomenda e confecção de placas inautênticas, comprovantes de pagamento, negociações eletrônicas, apreensão de placas com corréu, registros de câmeras municipais de veículo com placa adulterada e documentos oficiais, corroborados por depoimentos de agentes públicos sob contraditório.
+6. Agravo regimental improvido.
+VOTO
+As razões deduzidas no agravo regimental são insuficientes para determinar a revisão da decisão agravada, pelos motivos que passo a expor.
+Como consigna na fundamentação da decisão recorrida, a interposição de recurso especial contra o acórdão condenatório opera a preclusão consumativa, de maneira que não é possível conhecer do habeas corpus por violação ao princípio da unirrecorribilidade (AgRg no HC n. 824.855/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 23/10/2024).
+Além disso, a questão suscitada pelo impetrante neste habeas corpus não poderia ser apreciada, sob pena de supressão de instância, na medida em que a suposta necessidade de realização de perícia no maquinário apreendido não foi examinada pelo Tribunal de origem.
+Com efeito, a jurisprudência é pacífica no sentido de que, ainda que se trate de matéria de ordem pública, é imprescindível o seu prévio debate na instância de origem para que possa ser examinada por este Tribunal Superior (AgRg no HC 530.904/PR, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 24/9/2019, DJe 10/10/2019)" (AgRg no HC n. 623.101/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 7/12/2020) - (AgRg no HC n. 639.681/SC, Ministro Felix Fischer, Quinta Turma, DJe 8/4/2021).
+A propósito do disposto no art. 647-A do Código de Processo Penal, tampouco se identifica manifesta ilegalidade que autorize a concessão da ordem por decisão de ofício.
+Como se infere da jurisprudência do Superior Tribunal de Justiça, a perícia da máquina apreendida é medida desnecessária porque, nos casos de adulteração de sinal identificador de veículo automotor, a prova pericial é dispensável quando a adulteração pode ser constatada de forma clara por outros meios de prova (AgRg no AREsp n. 2.571.051/MG, Ministra Daniela Teixeira, Quinta Turma, DJEN 25/2/2025).
+No caso, segundo o voto condutor do acórdão impugnado, a responsabilização do agravante amparou-se em conversas extraídas de aparelho celular indicando a encomenda e confecção de placas frias, com confirmação de pagamento e logística de entrega; comprovantes de pagamento à empresa de estamparia a ele vinculada; negociação eletrônica por linha telefônica atribuída ao agravante; apreensão das placas em poder de corréu; registros de câmeras municipais identificando veículo com placa adulterada; e documentos oficiais como prova da materialidade. Tudo corroborado sob o crivo do contraditório por agentes públicos, que relataram a sequência fática: receptação do veículo, encomenda, pagamento, entrega e uso da placa adulterada (fls. 256/265).
+Isso posto, nego provimento ao agravo regimental.
