@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/06/2026 a 24/06/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Carlos Pires Brandão, Nilsoni de Freitas (Desembargadora Convocada do TJDFT) e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. AUSÊNCIA DE MANIFESTA ILEGALIDADE NA DOSIMETRIA DA PENA POR TRÁFICO DE DROGAS. ELEVAÇÃO DA PENA-BASE EM RAZÃO DA QUALIDADE DA DROGA. QUESTÃO CONTROVERTIDA AO TEMPO DO JULGAMENTO. MINORANTE DO ART. 33, § 4º, DA LEI N. 11.343/2006 REJEITADA PELA REINCIDÊNCIA.
+1. Os Tribunais Superiores firmaram jurisprudência no sentido da inadmissibilidade do habeas corpus como substitutivo de revisão criminal.
+2. Não se verifica manifesta ilegalidade apta a autorizar concessão de ofício, pois, à época do trânsito em julgado do acórdão condenatório, havia controvérsia jurisprudencial quanto à possibilidade de majoração da pena-base pela qualidade da droga em pequena quantidade, questão posteriormente pacificada no Tema 1.262, o que afasta a qualificação de ilegalidade flagrante.
+3. A causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006 é incompatível com a reincidência, situação expressamente impeditiva da minorante, razão pela qual a pretensão defensiva é infundada.
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Gilberto Modolon Severina contra a decisão da Presidência do Superior Tribunal de Justiça que indeferiu liminarmente a petição inicial do habeas corpus (fls. 98/101).
+Nas razões do recurso, a defesa alega, diversamente do disposto na decisão monocrática agravada, que a antiguidade do trânsito em julgado da condenação não se erige como impedimento à concessão da ordem.
+Quanto ao mérito do habeas corpus, sustenta que a condenação definitiva do paciente pelo crime de tráfico de drogas caracterizaria manifesta ilegalidade, porque a pena-base foi elevada apenas em consideração à qualidade da droga apreendida (cocaína); e, ainda, porque foi recusada ao agravante a causa de diminuição da pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, em contrariedade ao que decidiu o Superior Tribunal de Justiça no julgamento dos casos afetados aos Temas 1.139 e 1.262.
+Argumenta que haveria flagrante ilegalidade no procedimento de individualização da pena aplicada ao agravante, pois o redutor do tráfico privilegiado foi afastado, unicamente, com base em Boletins de Ocorrência, ações penais em curso e ação penal com extinção de punibilidade, bem como a pena-base foi aumentada na primeira etapa do cálculo devido, exclusivamente, à quantidade ínfima de drogas apreendidas (40 g de cocaína) e a natureza (qualidade do entorpecente) - (fl. 106).
+Por essas razões, pede o provimento do recurso, a fim de que seja concedida a ordem de ofício, com o redimensionamento da pena do paciente à luz dos Temas Repetitivos 1.139 e 1.262 (fl. 108).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. AUSÊNCIA DE MANIFESTA ILEGALIDADE NA DOSIMETRIA DA PENA POR TRÁFICO DE DROGAS. ELEVAÇÃO DA PENA-BASE EM RAZÃO DA QUALIDADE DA DROGA. QUESTÃO CONTROVERTIDA AO TEMPO DO JULGAMENTO. MINORANTE DO ART. 33, § 4º, DA LEI N. 11.343/2006 REJEITADA PELA REINCIDÊNCIA.
+1. Os Tribunais Superiores firmaram jurisprudência no sentido da inadmissibilidade do habeas corpus como substitutivo de revisão criminal.
+2. Não se verifica manifesta ilegalidade apta a autorizar concessão de ofício, pois, à época do trânsito em julgado do acórdão condenatório, havia controvérsia jurisprudencial quanto à possibilidade de majoração da pena-base pela qualidade da droga em pequena quantidade, questão posteriormente pacificada no Tema 1.262, o que afasta a qualificação de ilegalidade flagrante.
+3. A causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006 é incompatível com a reincidência, situação expressamente impeditiva da minorante, razão pela qual a pretensão defensiva é infundada.
+4. Agravo regimental improvido.
+VOTO
+As razões deduzidas no agravo regimental são insuficientes para determinar a revisão da decisão recorrida, pelos motivos que passo a expor.
+Como consigna a decisão monocrática agravada, a jurisprudência dos Tribunais Superiores se firmou no sentido da inadmissibilidade da impetração de habeas corpus como o substitutivo da revisão criminal, especialmente quando a condenação definitiva impugnada foi preferida pelo órgão jurisdicional diverso.
+Sobre o tema, há precedentes do Superior Tribunal de Justiça e do Supremo Tribunal Federal, como por exemplo, AgRg no HC n. 561.185/SP, da minha relatoria, Sexta Turma, DJe 16/3/2020; AgRg no HC n. 459.677/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/3/2020; HC n. 193.451, Relator p/ o acórdão Ministro Alexandre de Moraes, Primeira Turma, DJe 14/4/2021; e RHC n. 186.497 AgR, Ministra Rosa Weber, Primeira Turma, DJe 7/12/2020.
+Assim, é induvidoso que não se pode conhecer do habeas corpus.
+A propósito do disposto no art. 647-A do Código de Processo Penal, tampouco se vislumbra manifesta ilegalidade no acórdão transitado em julgado, o que, de outro modo, autorizaria a concessão da ordem por decisão de ofício.
+As alegações de patente ilegalidade no procedimento de individualização da pena privativa de liberdade aplicada ao agravante são improcedentes.
+A elevação da pena-base, entre outros motivos, em razão da qualidade da droga apreendida em poder do agravante, a despeito de sua pequena quantidade, era questão ainda controvertida na jurisprudência na data do trânsito em julgado do acórdão que negou provimento à apelação defensiva, cerca de 5 anos antes do julgamento do REsp n. 2.003.735/PR, afetado ao Tema n. 1.262, quando, enfim, pacificou-se o entendimento de que é desproporcional a majoração da pena-base quando a droga apreendida for de ínfima quantidade independentemente de sua natureza.
+Desse modo, não é possível afirmar que o acórdão transitado em julgado teria incorrido em manifesta ilegalidade ao reconhecer a validade da elevação da pena-base, a despeito da pequena quantidade de cocaína apreendida em poder do agravante.
+Já no que concerne ao reconhecimento da causa de diminuição da pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, a pretensão da defesa é flagrantemente infundada, tendo em vista que o agravante é reincidente, de modo que lhe é expressamente vedada a incidência da minorante.
+Isso posto, nego provimento ao agravo regimental.
