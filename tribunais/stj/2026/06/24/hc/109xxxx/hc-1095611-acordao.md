@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/06/2026 a 24/06/2026, por unanimidade, conceder a ordem, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Carlos Pires Brandão, Nilsoni de Freitas (Desembargadora Convocada do TJDFT) e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+HABEAS CORPUS. ESTELIONATO, ASSOCIAÇÃO CRIMINOSA, USO DE DOCUMENTO FALSO E RESISTÊNCIA. GENITORA DE CRIANÇAS MENORES DE 12 ANOS. SUBSTITUIÇÃO DA CUSTÓDIA PREVENTIVA POR PRISÃO DOMICILIAR. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL CONFIGURADO. LIMINAR CONFIRMADA.
+Ordem concedida.
+RELATÓRIO
+Trata-se de habeas corpus impetrado em nome de ARIADILA MONIQUE ALVES SANTANA, presa preventivamente e acusada, em tese, pelos crimes previstos nos arts. 171, § 2º-A, 288, 304 e 329, todos do Código Penal, no Processo n. 1526840-61.2026.8.26.0454, da Vara Regional das Garantias da Capital - comarca de São Paulo/SP (fls. 18/21).
+O impetrante aponta como autoridade coatora o Desembargador plantonista do Tribunal de Justiça do Estado de São Paulo, que, em 9/5/2026, indeferiu o pedido liminar no HC n. 2116741-84.2026.8.26.0000 (fls. 12/16).
+Alega, em síntese, a necessidade de superação da Súmula 691, por flagrante ilegalidade no indeferimento da prisão domiciliar, sustentando violação do art. 318-A do Código de Processo Penal e ao entendimento do Supremo Tribunal Federal no HC coletivo 143.641/SP, pois a paciente é mãe de crianças menores de 12 anos e a decisão exigiu "indispensabilidade" não prevista em lei.
+Afirma constrangimento ilegal por ausência de fundamentação concreta, individualizada e contemporânea da prisão preventiva, apontando que o ato se limitou à garantia da ordem pública e à "reiteração" baseada em acordo de não persecução penal, em descompasso com o art. 312 do Código de Processo Penal.
+Defende a incidência obrigatória do art. 318-A do Código de Processo Penal, por inexistirem as exceções legais (crime praticado com violência ou grave ameaça; crime contra descendentes).
+Sustenta a presunção legal da imprescindibilidade dos cuidados maternos, com fundamento no HC coletivo 143.641/SP e em precedentes do Superior Tribunal de Justiça.
+Argumenta a ausência de violência concreta ou excepcionalidade apta a afastar a domiciliar, ressaltando que os delitos imputados não envolvem grave ameaça, emprego de arma ou organização criminosa armada.
+Requer a substituição da prisão preventiva por prisão domiciliar, com ou sem medidas cautelares do art. 319 do Código de Processo Penal.
+O pedido de liminar foi por mim deferido em 11/5/2026 (fls. 28/31).
+As informações foram prestadas (fls. 34/37 e 41/49), e o Ministério Público Federal, em seu parecer, opinou pela revogação da liminar e pelo não conhecimento do habeas corpus (fls. 51/57).
+O impetrante peticionou requerendo a confirmação da liminar (fls. 60/63).
+É o relatório.
+EMENTA
+HABEAS CORPUS. ESTELIONATO, ASSOCIAÇÃO CRIMINOSA, USO DE DOCUMENTO FALSO E RESISTÊNCIA. GENITORA DE CRIANÇAS MENORES DE 12 ANOS. SUBSTITUIÇÃO DA CUSTÓDIA PREVENTIVA POR PRISÃO DOMICILIAR. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL CONFIGURADO. LIMINAR CONFIRMADA.
+Ordem concedida.
+VOTO
+Inicialmente, não obstante o parecer ministerial, como dito na análise da liminar, não desconheço a fundamentação apresentada pela Juíza singular ao decretar a prisão preventiva da paciente e entendo idônea a fundamentação baseada nas circunstâncias fáticas justificadoras, com destaque, principalmente, à reiteração delitiva e ao modus operandi.
+O Magistrado singular, ao decretar a prisão preventiva da paciente, fundamentou a decisão nestes termos (fls. 18/19 - grifo nosso):
+ ..
+No caso em apreço, a prova da materialidade e os indícios suficientes de autoria do crime de estelionato, associação criminosa, resistência e uso de documento falso (artigos 171, 288, 329 e 304, todos do Código Penal) encontram-se evidenciados pelos elementos de convicção constantes das cópias do Auto de Prisão em Flagrante, com destaque para as declarações colhidas e para o auto de exibição e apreensão de fls. 19.
+ ..
+Assim, no caso em tela, os elementos até então coligidos apontam a materialidade e indícios de autoria do cometimento dos crimes de crime de estelionato, associação criminosa, resistência e uso de documento falso, cujas penas privativa de liberdade máxima ultrapassam o patamar de 4 (quatro) anos.
+Assentado o fumus comissi delicti, debruço-me sobre o eventual periculum in libertatis.
+E, a esse respeito, observo que, embora o delito tenha sido praticado sem violência ou grave ameaça, a autuada ostenta recente envolvimento em prática criminosa da mesma natureza, tendo sido presa em flagrante em 02/07/2025 pela suposta prática do crime de estelionato, igualmente cometido no interior de agência bancária e em concurso com outro indivíduo, nos autos nº 1518012-12.2025.8.26.0228, em trâmite perante a 32ª Vara Criminal da Barra Funda, ocasião em que foi beneficiada com acordo de não persecução penal.
+Tal circunstância evidencia concreta propensão à reiteração delitiva, demonstrando que a autuada, mesmo após a atuação estatal anteriormente exercida em seu favor, voltou, em tese, a praticar delito da mesma espécie, o que revela a insuficiência das medidas cautelares diversas da prisão para contenção da atividade criminosa. Assim, a conversão da prisão em flagrante em preventiva mostra-se necessária para garantia da ordem pública e para impedir a continuidade delitiva, diante do perigo concreto gerado por sua liberdade.
+De fato, assentada a recalcitrância em condutas delituosas, cumpre prevenir a reprodução de novos delitos, motivação bastante para assentar a prisão ante tempus (STF, HC 95.118/SP, 94.999/SP, 94.828/SP e 93.913/SC), não como antecipação de pena, mas como expediente de socorro à ordem pública, fazendo cessar emergencialmente a prática criminosa.
+Dessa forma, reputo que a conversão do flagrante em prisão preventiva é necessária a fim de se evitar a reiteração delitiva, assegurando-se a ordem pública, bem como a conveniência da instrução criminal e a aplicação da lei penal.
+De fato, confirmando a liminar, há constrangimento ilegal apto a ensejar a concessão da ordem.
+No caso, embora houvesse fundamentos idôneos para a segregação cautelar, a aplicação do art. 318, V, do CPP (que permite substituição da prisão preventiva por domiciliar para mulher com filho de até 12 anos) enquadrava-se nas situações previstas no HC n. 143.641/SP do Supremo Tribunal Federal e na Recomendação 62/2020 do CNJ.
+É relevante pontuar também que o Supremo Tribunal Federal já se posicionou no sentido de que deve ser dada credibilidade à palavra da mãe, quanto a ser imprescindível ao cuidado dos menores, para garantir o direito à substituição da prisão preventiva por domiciliar (STF, HC n. 192.627 AgR, Min. Relator Edson Fachin, Relator p/ Acórdão Ricardo Lewandowski, Segunda Turma, julgado em 17/2/2021, DJe 5/3/2021).
+Ademais, conforme a jurisprudência da Sexta Turma desta Corte Superior, nos termos do art. 318, V, do Código de Processo Penal, a indispensabilidade dos cuidados maternos para o filho menor de 12 anos é legalmente presumida (HC n. 478.138/PB, Ministra Laurita Vaz, Sexta Turma, DJe 25/6/2019), notadamente porque o benefício visa ao interesse do menor.
+No mesmo sentido: AgRg no HC n. 934.177/PB, Ministra Daniela Teixeira, Quinta Turma, DJEN 23/12/2024; AgRg no RHC n. 200.201/MG, Ministra Daniela Teixeira, Quinta Turma, DJe 23/10/2024; e AgRg no HC n. 808.383/SP, Ministro Teodoro Silva Santos, Sexta Turma, DJe 18/4/2024.
+Assim, apesar de serem graves as condutas supostamente praticadas pela paciente, em cumprimento à determinação do Supremo Tribunal Federal e ao disposto no art. 318-A do CPP, tem-se a hipótese de respectiva colocação em regime domiciliar, dada a necessidade de observância à doutrina da proteção integral à criança e ao adolescente.
+Ante o exposto, concedo a ordem, confirmando-se a medida liminar, para substituir a prisão preventiva imposta à paciente por prisão domiciliar, cumulada com as medidas alternativas de monitoramento eletrônico e de proibição de utilização de computadores e telefones celulares, sem prejuízo da aplicação de outras cautelares pelo Juízo de primeiro grau competente ou de decretação da prisão preventiva em caso de descumprimento de qualquer das obrigações impostas por força das cautelares.
