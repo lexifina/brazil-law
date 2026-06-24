@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/06/2026 a 24/06/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Marluce Caldas, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental. Habeas corpus substitutivo. Dosimetria da pena. Multirreincidência e confissão espontânea. Concurso formal com três roubos e fração de 1/5. Agravo desprovido.
+I. Caso em exame
+1. O recurso. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus, por ser substitutivo de recurso próprio, e afastou flagrante ilegalidade na dosimetria da pena.
+2. Fato relevante. Condenação por roubo majorado, por três vezes, em concurso formal, com regime inicial fechado e dias-multa; na revisão criminal, postulada compensação integral entre a agravante da reincidência e a atenuante da confissão espontânea, e redução da fração do concurso formal para 1/6, pedidos rejeitados.
+3. As decisões anteriores. A decisão agravada não conheceu do writ por ser sucedâneo de recurso e entendeu inexistir flagrante ilegalidade: (i) admitiu compensação apenas parcial entre confissão e reincidência diante da multirreincidência; e (ii) reputou adequada a fração de 1/5 para três infrações em concurso formal, com critério objetivo pelo número de delitos.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se: (i) o habeas corpus substitutivo de recurso próprio pode ser conhecido ante alegação de flagrante ilegalidade; (ii) há ilegalidade na segunda fase da dosimetria por não se realizar compensação integral entre a agravante da reincidência e a atenuante da confissão espontânea em hipótese de multirreincidência; e (iii) a fração de 1/5 aplicada no concurso formal, para três crimes, exige fundamentação concreta diversa do critério objetivo do número de infrações.
+III. Razões de decidir
+5. O habeas corpus substitutivo de recurso próprio não é conhecido, ressalvada a superação do óbice apenas em hipóteses de flagrante ilegalidade, teratologia ou abuso de poder, circunstâncias não verificadas.
+6. A multirreincidência, evidenciada por diversas condenações anteriores, autoriza a preponderância da agravante de reincidência sobre a atenuante da confissão espontânea, impondo compensação apenas parcial, em respeito à individualização da pena e à proporcionalidade, conforme orientação firmada no Tema Repetitivo 585/STJ.
+7. É idôneo o critério objetivo do número de infrações para fixar a fração de aumento no concurso formal; a prática de três crimes justifica a fração de 1/5, dispensada fundamentação adicional quando o patamar decorre diretamente da quantidade de delitos reconhecida pelas instâncias ordinárias.
+8. Inexistindo flagrante ilegalidade na dosimetria nas segunda e terceira fases, não há fundamento para reformar a decisão agravada.
+IV. Dispositivo
+6. Resultado do Julgamento: Agravo regimental desprovido.
+Dispositivos relevantes citados:CP, art. 157, § 2º, II, e § 2º-A, I; CP, art. 70; CF/1988, art. 5º, XLVI
+Jurisprudência relevante citada:STJ, Tema Repetitivo 585; STJ, HC 421.419/MG, Quinta Turma, julgado em 09.04.2019
+RELATÓRIO
+Trata-se de AGRAVO REGIMENTAL interposto por LEANDRO MACHADO DOS SANTOS contra decisão monocrática que não conheceu do habeas corpus n. 1.084.656/PR.
+Consta dos autos que o agravante foi condenado pela prática do crime de roubo majorado, previsto no art. 157, § 2º, II, e § 2º-A, I, do Código Penal, por três vezes, na forma do art. 70 do Código Penal, à pena de 12 (doze) anos, 4 (quatro) meses e 13 (treze) dias de reclusão, em regime inicial fechado, além de 432 dias-multa.
+Após o julgamento da apelação defensiva, foi ajuizada revisão criminal perante o Tribunal de Justiça do Estado do Paraná, sustentando-se a necessidade de compensação integral entre a agravante da reincidência e a atenuante da confissão espontânea, bem como a redução da fração do concurso formal para 1/6. A revisão criminal foi julgada improcedente.
+Na impetração, foram reiteradas as teses de ilegalidade na dosimetria. A decisão agravada não conheceu do writ, por se tratar de habeas corpus substitutivo de recurso próprio, e afastou a existência de flagrante ilegalidade, ao fundamento de que a compensação parcial entre confissão e reincidência é admissível em caso de multirreincidência e de que a fração de 1/5 é adequada para três infrações em concurso formal.
+No presente agravo regimental, o agravante insiste na compensação integral entre reincidência e confissão espontânea e na aplicação da fração mínima de 1/6 para o concurso formal, alegando ausência de fundamentação concreta para a adoção do patamar de 1/5.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Habeas corpus substitutivo. Dosimetria da pena. Multirreincidência e confissão espontânea. Concurso formal com três roubos e fração de 1/5. Agravo desprovido.
+I. Caso em exame
+1. O recurso. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus, por ser substitutivo de recurso próprio, e afastou flagrante ilegalidade na dosimetria da pena.
+2. Fato relevante. Condenação por roubo majorado, por três vezes, em concurso formal, com regime inicial fechado e dias-multa; na revisão criminal, postulada compensação integral entre a agravante da reincidência e a atenuante da confissão espontânea, e redução da fração do concurso formal para 1/6, pedidos rejeitados.
+3. As decisões anteriores. A decisão agravada não conheceu do writ por ser sucedâneo de recurso e entendeu inexistir flagrante ilegalidade: (i) admitiu compensação apenas parcial entre confissão e reincidência diante da multirreincidência; e (ii) reputou adequada a fração de 1/5 para três infrações em concurso formal, com critério objetivo pelo número de delitos.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se: (i) o habeas corpus substitutivo de recurso próprio pode ser conhecido ante alegação de flagrante ilegalidade; (ii) há ilegalidade na segunda fase da dosimetria por não se realizar compensação integral entre a agravante da reincidência e a atenuante da confissão espontânea em hipótese de multirreincidência; e (iii) a fração de 1/5 aplicada no concurso formal, para três crimes, exige fundamentação concreta diversa do critério objetivo do número de infrações.
+III. Razões de decidir
+5. O habeas corpus substitutivo de recurso próprio não é conhecido, ressalvada a superação do óbice apenas em hipóteses de flagrante ilegalidade, teratologia ou abuso de poder, circunstâncias não verificadas.
+6. A multirreincidência, evidenciada por diversas condenações anteriores, autoriza a preponderância da agravante de reincidência sobre a atenuante da confissão espontânea, impondo compensação apenas parcial, em respeito à individualização da pena e à proporcionalidade, conforme orientação firmada no Tema Repetitivo 585/STJ.
+7. É idôneo o critério objetivo do número de infrações para fixar a fração de aumento no concurso formal; a prática de três crimes justifica a fração de 1/5, dispensada fundamentação adicional quando o patamar decorre diretamente da quantidade de delitos reconhecida pelas instâncias ordinárias.
+8. Inexistindo flagrante ilegalidade na dosimetria nas segunda e terceira fases, não há fundamento para reformar a decisão agravada.
+IV. Dispositivo
+6. Resultado do Julgamento: Agravo regimental desprovido.
+Dispositivos relevantes citados:CP, art. 157, § 2º, II, e § 2º-A, I; CP, art. 70; CF/1988, art. 5º, XLVI
+Jurisprudência relevante citada:STJ, Tema Repetitivo 585; STJ, HC 421.419/MG, Quinta Turma, julgado em 09.04.2019
+VOTO
+O agravo regimental não merece provimento.
+A decisão agravada deve ser mantida por seus próprios fundamentos.
+De início, permanece hígido o não conhecimento do habeas corpus, porquanto manejado como sucedâneo de recurso próprio, em especial contra acórdão proferido em revisão criminal. A jurisprudência desta Corte somente admite a superação desse óbice em hipóteses de flagrante ilegalidade, teratologia ou abuso de poder, o que não se verifica.
+Quanto à segunda fase da dosimetria, não há constrangimento ilegal na medida em que o Tribunal de origem registrou que o agravante é multirreincidente, com diversas condenações anteriores. Nessa moldura, a compensação apenas parcial entre a agravante da reincidência e a atenuante da confissão espontânea está em consonância com o Tema Repetitivo 585/STJ. Embora a confissão e a reincidência sejam, em regra, igualmente preponderantes, a multirreincidência autoriza a preponderância da agravante, em respeito à individualização da pena e à proporcionalidade.
+Nesse sentido:
+PENAL. RECURSO ESPECIAL. DESCAMINHO. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE PELA CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. QUANTUM PROPORCIONAL E RAZOÁVEL. INEXISTÊNCIA DE DIREITO SUBJETIVO DO RÉU DE ADOÇÃO DE FRAÇÃO DE AUMENTO ESPECÍFICA. PRECEDENTES. COMPENSAÇÃO INTEGRAL DA ATENUANTE DA CONFISSÃO ESPONTÂNEA COM A AGRAVANTE DA REINCIDÊNCIA. IMPOSSIBILIDADE. RÉU MULTIRREINCIDENTE. POSSIBILIDADE DE COMPENSAÇÃO PARCIAL. PRECEDENTES. FRAÇÃO DE AUMENTO SUPERIOR A 1/6 NA SEGUNDA FASE DA DOSIMETRIA. POSSIBILIDADE. MANUTENÇÃO DA DECISÃO AGRAVADA.
+I - O Supremo Tribunal Federal tem entendido que "a dosimetria da pena é questão de mérito da ação penal, estando necessariamente vinculada ao conjunto fático probatório, não sendo possível às instâncias extraordinárias a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada" (HC n. 137.769/SP, Primeira Turma, Rel. Min. Roberto Barroso, julgado em 24/10/2016). O Pretório Excelso também entende não ser possível para as instâncias superiores reexaminar o acervo probatório para a revisão da dosimetria, exceto em circunstâncias excepcionais, já que, ordinariamente, a atividade dos Tribunais Superiores, em geral, e do Supremo, em particular, deve circunscrever-se "ao controle da legalidade dos critérios utilizados, com a correção de eventuais arbitrariedades" (HC n. 128.446/PE, Segunda Turma, Rel. Min. Teori Zavascki, julgado em 15/9/2015).
+ ..
+V - A Terceira Seção deste Superior Tribunal de Justiça, por ocasião do julgamento do Recurso Especial Repetitivo n. 1.341.370/MT, fixou a tese de ser possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência. Ademais, no julgamento do Habeas Corpus n. 365.963/SP, a Terceira Seção deste Superior Tribunal de Justiça uniformizou o entendimento das Turmas que a compõe no sentido de possibilitar a compensação da atenuante da confissão espontânea com a agravante da reincidência, irradiando seus efeitos para ambas as espécies (genérica e específica), ressalvados os casos de multirreincidência.
+VI - No presente caso, tenho que a pretensão defensiva não deve ser acolhida, na medida em que, de fato, conforme acima consignado, a integral compensação entre a agravante da multireincidência com a atenuante da confissão espontânea vai de encontro ao princípio da individualização da pena. Entretanto, possível a compensação parcial, como restou decidido pelo eg. Tribunal de origem. Demais, na hipótese, uma vez que se trata de recorrente que detém duas condenações transitadas em julgado, verifica-se que as frações adotadas pelo Tribunal a quo, em razão da multirrencidência do recorrente, aliada à confissão, mostram-se adequadas ao caso concreto.
+Agravo regimental desprovido.
+(AgRg no REsp n. 1.907.572/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 22/11/2022, DJe de 2/12/2022.)
+Também não há ilegalidade na terceira fase. O agravante, mediante uma única ação, praticou três roubos contra vítimas distintas, atingindo três patrimônios diversos. Por isso, foi reconhecido o concurso formal e aplicada a fração de 1/5.
+A jurisprudência desta Corte considera idôneo o critério objetivo do número de infrações para definir a fração do concurso formal, sendo usual a aplicação de 1/5 quando praticados três crimes, de tal forma que não se exige fundamentação adicional quando a fração decorre diretamente da quantidade de delitos reconhecida pelas instâncias ordinárias. (HC n. 421.419/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 9/4/2019, DJe de 22/4/2019.)
+Assim, inexistindo flagrante ilegalidade na dosimetria, não há fundamento para pretensão de reforma da decisão agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
