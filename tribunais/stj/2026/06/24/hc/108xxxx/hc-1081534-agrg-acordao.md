@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/06/2026 a 24/06/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. NÃO CONHECIMENTO DO WRIT SUBSTITUTIVO. PRISÃO PREVENTIVA. ORGANIZAÇÃO CRIMINOSA. FUNDAMENTAÇÃO CONCRETA. CONTEMPORANEIDADE. COMPLEXIDADE DA INVESTIGAÇÃO. RISCO À APLICAÇÃO DA LEI PENAL. RÉU FORAGIDO. INAPLICABILIDADE DA EXTENSÃO A CORRÉUS. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus impetrado em favor do agravante, por inadequação da via eleita, afastando a existência de flagrante ilegalidade apta a justificar a concessão da ordem de ofício.
+2. O agravante sustenta ausência de fundamentação idônea da prisão preventiva, alegada falta de contemporaneidade entre os fatos e o decreto prisional, participação de menor relevância na suposta organização criminosa e possibilidade de aplicação de medidas cautelares diversas. Requer, ainda, a extensão dos benefícios concedidos a corréus pelo Tribunal de Justiça do Mato Grosso.
+II. Questão em discussão
+3. Discute-se se a decisão agravada deixou de reconhecer flagrante ilegalidade na manutenção da prisão preventiva; se o decreto prisional carece de fundamentação concreta ou de contemporaneidade; se a condição de foragido afasta a alegação de ilegalidade; e se é possível estender ao agravante as medidas cautelares aplicadas a corréus, à luz do princípio da isonomia.
+III. Razões de decidir
+4. A decisão agravada examinou adequadamente os argumentos defensivos, concluindo que o decreto prisional está amparado em elementos concretos relacionados à gravidade real dos fatos, à complexidade da investigação (Operação Cerco Verde) e à necessidade de resguardar a ordem pública e a aplicação da lei penal.
+5. A fuga do distrito da culpa, evidenciada pela citação por edital após tentativas frustradas de localização, constitui fundamento autônomo e suficiente para justificar a custódia cautelar, afastando a alegação de ausência de contemporaneidade e reforçando o risco à aplicação da lei penal.
+6. A extensão dos ben efícios concedidos a corréus é inviável quando não demonstrada identidade fático-processual, sobretudo diante da condição de foragido do agravante, circunstância que o distingue dos demais.
+7. Não configurada teratologia, abuso de poder ou flagrante ilegalidade, inviável a concessão da ordem de ofício em habeas corpus substitutivo.
+IV. Agravo regimental desprovido
+RELATÓRIO
+Trata-se de agravo regimental interposto por MARION MICHAEL BONINI, contra decisão monocrática em que não conheci do habeas corpus impetrado em seu favor.
+O agravante alega a ausência de fundamento idôneo para a manutenção da segregação cautelar, aduzindo que a decisão se baseia em elementos abstratos e na gravidade genérica do delito. Defende a falta de contemporaneidade entre os fatos investigados (dezembro de 2023) e o decreto prisional (julho de 2024), sem a indicação de fatos novos que justificassem a medida extrema. Argumenta, ainda, que sua participação na suposta organização criminosa seria de menor relevância, atuando apenas como motorista e tendo sido denunciado por um único evento delituoso.
+A defesa requer a aplicação do princípio da isonomia, com a extensão dos benefícios concedidos aos corréus Elvislandi Batista Borges, Uiliam Aparecido da Silva, Carla Ferreira Martins, Flavio Ferreira Martins e Guilherme Alves Castro, que tiveram suas prisões preventivas revogadas e substituídas por medidas cautelares alternativas pelo Tribunal de Justiça do Estado de Mato Grosso. Ressalta a desproporcionalidade da prisão e a possibilidade de substituição pelas medidas previstas no artigo 319 do Código de Processo Penal, argumentando que a evasão não pode ser presumida para justificar a restrição da liberdade.
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. NÃO CONHECIMENTO DO WRIT SUBSTITUTIVO. PRISÃO PREVENTIVA. ORGANIZAÇÃO CRIMINOSA. FUNDAMENTAÇÃO CONCRETA. CONTEMPORANEIDADE. COMPLEXIDADE DA INVESTIGAÇÃO. RISCO À APLICAÇÃO DA LEI PENAL. RÉU FORAGIDO. INAPLICABILIDADE DA EXTENSÃO A CORRÉUS. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus impetrado em favor do agravante, por inadequação da via eleita, afastando a existência de flagrante ilegalidade apta a justificar a concessão da ordem de ofício.
+2. O agravante sustenta ausência de fundamentação idônea da prisão preventiva, alegada falta de contemporaneidade entre os fatos e o decreto prisional, participação de menor relevância na suposta organização criminosa e possibilidade de aplicação de medidas cautelares diversas. Requer, ainda, a extensão dos benefícios concedidos a corréus pelo Tribunal de Justiça do Mato Grosso.
+II. Questão em discussão
+3. Discute-se se a decisão agravada deixou de reconhecer flagrante ilegalidade na manutenção da prisão preventiva; se o decreto prisional carece de fundamentação concreta ou de contemporaneidade; se a condição de foragido afasta a alegação de ilegalidade; e se é possível estender ao agravante as medidas cautelares aplicadas a corréus, à luz do princípio da isonomia.
+III. Razões de decidir
+4. A decisão agravada examinou adequadamente os argumentos defensivos, concluindo que o decreto prisional está amparado em elementos concretos relacionados à gravidade real dos fatos, à complexidade da investigação (Operação Cerco Verde) e à necessidade de resguardar a ordem pública e a aplicação da lei penal.
+5. A fuga do distrito da culpa, evidenciada pela citação por edital após tentativas frustradas de localização, constitui fundamento autônomo e suficiente para justificar a custódia cautelar, afastando a alegação de ausência de contemporaneidade e reforçando o risco à aplicação da lei penal.
+6. A extensão dos ben efícios concedidos a corréus é inviável quando não demonstrada identidade fático-processual, sobretudo diante da condição de foragido do agravante, circunstância que o distingue dos demais.
+7. Não configurada teratologia, abuso de poder ou flagrante ilegalidade, inviável a concessão da ordem de ofício em habeas corpus substitutivo.
+IV. Agravo regimental desprovido
+VOTO
+O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a decisão combatida por seus próprios e jurídicos fundamentos.
+Nessa linha, não obstante o teor das razões suscitadas no presente agravo, não vislumbro elementos hábeis a alterar a decisão agravada, porquanto todos os pontos apresentados pela parte foram analisados de forma devidamente fundamentada, em estrita conformidade com a jurisprudência pacífica desta Corte.
+A despeito da inadmissibilidade do habeas corpus como substitutivo recursal, esta Corte admite a concessão da ordem de ofício nas hipóteses em que se verifica a existência de flagrante ilegalidade, abuso de poder ou teratologia na decisão impugnada. Tal medida possui caráter excepcional e exige que a mácula ao direito de locomoção seja manifesta e prontamente identificável, o que não se coaduna com o caso em exame.
+No caso concreto, o exame preliminar realizado na decisão agravada demonstrou que o decreto de prisão preventiva encontra-se amparado em fundamentação idônea, lastreada em elementos fáticos que justificam a necessidade da medida extrema para a garantia da ordem pública e para assegurar a aplicação da lei penal. A complexidade da investigação, denominada Operação Cerco Verde, que apura a atuação de uma sofisticada organização criminosa especializada no furto de defensivos agrícolas de alto valor, afasta, por si só, qualquer alegação de teratologia ou arbítrio no ato judicial que determinou a segregação.
+Além disso, a circunstância de o agravante encontrar-se foragido, tendo sido citado por edital após frustradas as tentativas de localização, reforça a higidez da decisão que manteve a custódia em relação a ele. A fuga do distrito da culpa é elemento concreto que demonstra o risco à aplicação da lei penal, não havendo que se falar em ilegalidade flagrante que autorize a intervenção excepcional desta Corte Superior fora das vias recursais ordinárias.
+Dessa forma, a decisão monocrática agravada não comporta qualquer reparo, devendo ser mantida em sua integralidade.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
