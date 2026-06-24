@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/06/2026 a 24/06/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DO DELITO. MODUS OPERANDI VIOLENTO. ATUAÇÃO EM ORGANIZAÇÃO CRIMINOSA. RISCO DE REITERAÇÃO DELITIVA. INADEQUAÇÃO DA VIA ELEITA PARA ANÁLISE DE PROVAS. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que manteve a prisão preventiva decretada em desfavor dos pacientes, acusados de crimes graves, incluindo tentativas de homicídio com invasão de domicílio, disparos de arma de fogo, incêndio de residência, porte de arma de uso restrito e atuação em organização criminosa, em contexto de disputa territorial entre facções, visando à revogação da custódia cautelar.
+II. QUESTÃO EM DISCUSSÃO
+2. Há 3 questões em discussão: (i) definir se a prisão preventiva está devidamente fundamentada em elementos concretos aptos a justificar a garantia da ordem pública; (ii) estabelecer se há risco de reiteração delitiva a autorizar a manutenção da custódia; (iii) determinar se é possível, na via do habeas corpus, examinar alegações relativas à insuficiência probatória e à inocência do acusado.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não deve ser manejado como sucedâneo de revisão criminal ou recurso próprio, sendo incabível sua utilização quando se pretende reexame de matéria já apreciada pelas instâncias ordinárias, salvo em hipóteses de flagrante ilegalidade, abuso de poder ou teratologia.
+4. A prisão preventiva mostra-se devidamente fundamentada na gravidade concreta das condutas e no modus operandi violento, evidenciado por invasão de domicílio, disparos de arma de fogo e incêndio, em contexto de disputa entre facções criminosas.
+5. A atuação dos agentes em organização criminosa e a necessidade de interromper suas atividades justificam a custódia cautelar como garantia da ordem pública, conforme jurisprudência consolidada do STF e do STJ.
+6.O risco concreto de reiteração delitiva é evidenciado pelos registros criminais e pelas circunstâncias dos fatos, demonstrando periculosidade dos agentes.
+7. A análise acerca da efetiva participação do acusado em organização criminosa ou da suficiência das provas demanda dilação probatória, sendo incompatível com a via estreita do habeas corpus.
+8. A alegação de desproporcionalidade da prisão em relação à eventual pena futura constitui juízo prospectivo inadmissível no momento processual, não configurando ilegalidade.
+9. A inexistência de flagrante ilegalidade afasta a possibilidade de concessão da ordem de ofício.
+IV. DISPOSITIVO
+10. Agravo regimental desprovido
+RELATÓRIO
+Trata-se de agravo regimental interposto por MATHEUS FELLIPE MARQUES MARTINS, contra decisão de fls. 243-248, que não conheceu do writ.
+Sustenta a defesa que o agravante foi preso pela suposta prática dos delitos de organização criminosa, tentativa de homicídio qualificado, incêndio majorado e porte ilegal de arma de fogo de uso restrito.
+Alega que a decisão agravada apresenta manifesta ilegalidade na manutenção da prisão preventiva, fundada em elementos genéricos e abstratos, sem demonstração concreta da imprescindibilidade da medida extrema, bem como a desproporcionalidade da medida.
+Afirma que quando do incêndio, a vítima não se encontrava no interior do imóvel e, ainda que se cogitasse intenção homicida, os elementos fáticos revelam ausência de contato direto e de situação concreta de execução idônea voltada à produção do resultado morte.
+Ressalta que a suposta declaração do agravante de ser "simpatizante" de determinada facção não se confunde com prova de efetiva integração em organização criminosa, sendo ele oriundo de Rondonópolis/MT, onde é sabido o predomínio dessa facção, sendo comum que pessoas presas em cidades distintas, especialmente em locais marcados por rivalidade entre grupos criminosos, como Cáceres-MT, façam tal declaração por receio de represálias no ambiente carcerário.
+Menciona que não se admite a utilização de fundamentação genérica para afastar as providências previstas no art. 319 do CPP, sobretudo quando ausentes indícios de periculosidade concreta ou de risco efetivo à ordem pública, à instrução criminal ou à aplicação da lei penal.
+Requer que seja feito o juízo de retratação ou a submissão do feito ao Colegiado.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DO DELITO. MODUS OPERANDI VIOLENTO. ATUAÇÃO EM ORGANIZAÇÃO CRIMINOSA. RISCO DE REITERAÇÃO DELITIVA. INADEQUAÇÃO DA VIA ELEITA PARA ANÁLISE DE PROVAS. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que manteve a prisão preventiva decretada em desfavor dos pacientes, acusados de crimes graves, incluindo tentativas de homicídio com invasão de domicílio, disparos de arma de fogo, incêndio de residência, porte de arma de uso restrito e atuação em organização criminosa, em contexto de disputa territorial entre facções, visando à revogação da custódia cautelar.
+II. QUESTÃO EM DISCUSSÃO
+2. Há 3 questões em discussão: (i) definir se a prisão preventiva está devidamente fundamentada em elementos concretos aptos a justificar a garantia da ordem pública; (ii) estabelecer se há risco de reiteração delitiva a autorizar a manutenção da custódia; (iii) determinar se é possível, na via do habeas corpus, examinar alegações relativas à insuficiência probatória e à inocência do acusado.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não deve ser manejado como sucedâneo de revisão criminal ou recurso próprio, sendo incabível sua utilização quando se pretende reexame de matéria já apreciada pelas instâncias ordinárias, salvo em hipóteses de flagrante ilegalidade, abuso de poder ou teratologia.
+4. A prisão preventiva mostra-se devidamente fundamentada na gravidade concreta das condutas e no modus operandi violento, evidenciado por invasão de domicílio, disparos de arma de fogo e incêndio, em contexto de disputa entre facções criminosas.
+5. A atuação dos agentes em organização criminosa e a necessidade de interromper suas atividades justificam a custódia cautelar como garantia da ordem pública, conforme jurisprudência consolidada do STF e do STJ.
+6.O risco concreto de reiteração delitiva é evidenciado pelos registros criminais e pelas circunstâncias dos fatos, demonstrando periculosidade dos agentes.
+7. A análise acerca da efetiva participação do acusado em organização criminosa ou da suficiência das provas demanda dilação probatória, sendo incompatível com a via estreita do habeas corpus.
+8. A alegação de desproporcionalidade da prisão em relação à eventual pena futura constitui juízo prospectivo inadmissível no momento processual, não configurando ilegalidade.
+9. A inexistência de flagrante ilegalidade afasta a possibilidade de concessão da ordem de ofício.
+IV. DISPOSITIVO
+10. Agravo regimental desprovido
+VOTO
+Presentes os requisitos de admissibilidade, conheço do recurso.
+No mérito, contudo, a irresignação deixa de justificar-se, devendo a decisão atacada ser mantida por seus próprios fundamentos.
+A decisão ora agravada foi proferida nos seguintes termos (fls. 246-248):
+ ..
+Verifica-se que a prisão preventiva foi decretada para garantia da ordem pública e assegurar a aplicação da lei penal, com base na gravidade concreta das condutas imputadas, no modus operandi violento e na inserção dos fatos em cenário de disputa territorial entre facções criminosas na comarca. A autoridade judicial assentou a existência de tentativas de homicídio com invasão de domicílio e disparos de arma de fogo, incêndio de residência, porte de arma e munições de uso restrito e atuação em organização criminosa, além de registrar que os custodiados são oriundos de outras cidades e teriam ido até a localidade apenas para a prática dos delitos, e que há registros criminais, embora tecnicamente primários, de modo que as circunstâncias evidenciam risco de nova prática delitiva.
+Com efeito, esta Corte Superior possui orientação no sentido de que a gravidade concreta do delito imputado e a periculosidade do agente, evidenciadas no modus operandi empregado, são circunstâncias aptas a justificar a prisão preventiva para a garantia da ordem pública.
+Inicialmente, o habeas corpus não deve ser manejado como sucedâneo de revisão criminal ou recurso próprio, sendo incabível sua utilização quando se pretende reexame de matéria já apreciada pelas instâncias ordinárias, salvo em hipóteses de flagrante ilegalidade, abuso de poder ou teratologia, nos termos do art. 654, § 2º, do CPP, situação excepcional não evidenciada nos presentes autos.
+Observa-se que a prisão preventiva foi mantida com base em fundamentos concretos, ante a gravidade concreta da conduta, evidenciada no modus operandi violento e em local de disputa territorial entre facções criminosas.
+É firme a jurisprudência dessa Casa e do Supremo Tribunal Federal no sentido de que " a  gravidade em concreto do crime e a periculosidade do agente, evidenciada pelo modus operandi, constituem fundamentação idônea para a decretação da custódia preventiva" (HC 212647 AgR, Relator Ministro ANDRÉ MENDONÇA, Segunda Turma, julgado em 05/12/2022, DJe 10/01/2023).
+A jurisprudência pacífica do Supremo Tribunal Federal e desta Corte Superior são firmes no sentido de que a necessidade de se interromper ou diminuir a atuação daqueles que integram organização criminosa é fundamento idôneo para a imposição ou manutenção da medida cautelar extrema, enquadrando-se no conceito de garantia da ordem pública. Nesse sentido, " n ão há ilegalidade na prisão preventiva fundada na necessidade de se interromper a atuação de organização criminosa" (HC 216056 AgR, Relator(a): NUNES MARQUES, Segunda Turma, julgado em 22-08-2022, PROCESSO ELETRÔNICO DJe-174 DIVULG 31-08-2022 PUBLIC 01-09-2022)
+Nos termos da jurisprudência consolidada desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (AgRg no HC n. 1.002.927/MT, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/6/2025, DJEN de 30/6/2025).
+Quanto à tese de que o agravante é "simpatizante" de organização criminosa o que diferiria efetivamente de fazer parte de grupo criminoso e que tal declaração só foi feita por receio de represálias entre grupo criminosos rivais, é cediço que não cabe na estreita via do writ, apreciar se o paciente integra, de fato, organização criminosa.
+Com efeito, tais alegações demandam dilação probatória, própria das instâncias ordinárias. Todavia, merece destaque o fato de que seu envolvimento com a organização criminosa foi, inclusive, mencionado voluntariamente por ele, o que corrobora a pertinência da justificativa apresentada pelo juízo de origem para conversão da prisão em flagrante em preventiva.
+Por fim, as teses relativas à insuficiência das provas de autoria e materialidade, ausência de dolo e desconhecimento e/ou participação ativa não serão conhecidas, pois referem-se a alegações de inocência, não sendo matérias examináveis na estreita via do habeas corpus ou do recurso ordinário, uma vez que demandam necessário revolvimento do acervo fático-probatório. Nesse sentido: (AgRg no HC n. 1.025.471/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/10/2025, DJEN de 21/10/2025.)
+Tem-se como firme o entendimento de que " e m relação à alegação de desproporcionalidade da prisão em cotejo à futura pena a ser aplicada, trata-se de prognóstico que somente será confirmado após a conclusão do julgamento da ação penal, não sendo possível inferir, nesse momento processual e na estreita via ora adotada, o eventual regime prisional a ser fixado em caso de condenação (e consequente violação do princípio da homogeneidade)".(AgRg no HC n. 1.003.748/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/8/2025, DJEN de 19/8/2025.).
+Não há, portanto, flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
