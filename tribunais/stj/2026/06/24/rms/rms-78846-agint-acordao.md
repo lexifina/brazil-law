@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/06/2026 a 24/06/2026, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Teodoro Silva Santos, Afrânio Vilela, Francisco Falcão e Maria Thereza de Assis Moura votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Teodoro Silva Santos.
+EMENTA
+AGRAVO INTERNO EM RECURSO EM MANDADO DE SEGURANÇA. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO OBSERVÂNCIA AO DISPOSTO NOS ARTS. 932, III, E 1.021, § 1º, DO CPC. AGRAVO NÃO CONHECIDO.
+1. Cabe à parte insurgente, nas razões do agravo interno, trazer argumentos suficientes para contestar a decisão agravada. A ausência de fundamentos válidos para impugnar a decisão proferida no agravo em recurso especial atrai a aplicação do disposto nos arts. 932, III, e 1.021, § 1º, do Código de Processo Civil. Precedentes.
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se se agravo interno interposto por JOEL GOMES MENEZES contra decisão monocrática desta relatoria que não conheceu do recurso ordinário, considerando a incidência das Súmulas 283 e 284 do STF, assim ementada (e-STJ, fl. 137):
+RECURSO EM MANDADO DE SEGURANÇA. PROCESSUAL CIVIL. ADMINISTRATIVO. AUSÊNCIA DE DIALETICIDADE RECURSAL. APLICAÇÃO POR ANALOGIA DAS SÚMULAS 283 E 284 DO STF. RECURSO NÃO CONHECIDO.
+Em suas razões (e-STJ, fls. 143-154), o agravante afirma que no IRDR 8008020-52.2025.8.05.000, o Tribunal de Justiça do Estado da Bahia firmou entendimento no mesmo sentido da tese sustentada no mandado de segurança.
+Transcreve ementas do TJBA e não faz qualquer cotejo analítico. Apesar disso, diz que há dissídio jurisprudencial interno. Conclui, então, que há violação ao art. 37, § 6º, da Constituição Federal.
+Sustenta o agravante que "é Policial Militar do Estado da Bahia, tendo sido admitido mediante concurso público em 10/07/1992, sob a égide da Lei estadual nº 3.933/1981 (antigo Estatuto dos Policiais Militares do Estado da Bahia), hoje na reserva remunerada na graduação de Subtenente PM, recebe seus proventos com base na remuneração integral do Posto de 1º Tenente PM, conforme faz prova o BGO e contracheques anexos, quando deveria ter sido reclassificado para o Posto de 1º Tenente PM, tendo a sua remuneração calculada com base no Posto de Capitão PM, conforme determina a Lei nº 7.145/1997" (e-STJ, fl. 148).
+Aduz que foi preterido em sua promoção originária, de modo que as demais promoções por tempo de serviço deverão ser efetuadas automaticamente.
+Defende que "o art. 17, da Lei nº 7.145/97, estabeleceu a escala hierárquica da PMBA da seguinte forma: Coronel, Tenente-Coronel, Major, Capitão, 1º Tenente, 1º Sargento, Soldado de 1ª Classe e Recruta (e-STJ, fls. 15o-151), e que "art. 4º da aludida Lei estabeleceu expressamente que as Graduações de Subtenente e Cabo seriam EXTINTAS à medida que vagassem, passando os Policiais destas Graduações a integrarem o Posto de 1º Tenente PM e a Graduação 1º Sargento PM, respectivamente" (e-STJ, fl. 151).
+Conclui o agravante (e-STJ, fl. 151):
+Com a edição da Lei nº 7.145/97, que derrogou a Lei nº 3.933/81, o Agra- vante adquiriu o direito a ser promovido ao Posto de 1º Tenente PM, pois que, na vigência da Lei derrogante, já reunia os requisitos para a promoção ao nível hierárquico superior, no caso, 1º Tenente PM e, não, 1º Sargento PM, como foi feito, haja vista que na data da edição da Lei nº 11.356, de 06 de janeiro de 2009, contava com 08 na graduação de 1º Sargento PM, sendo que o interstício nessa graduação para concorrer a promoção é de oitenta e quatro meses (7 anos), fazendo jus a promoção ao Posto de 1º Tenente PM, pois que tinha o Recorrente toda a sua vida funcional regida pela Lei nº 7.145/97, inclusive com relação a promoção ao Posto imediatamente superior ao seu, que era 1º Tenente PM e, não, Subtenente, como foi promovido.
+Requer o provimento do agravo, "para assegurar o direito líquido e certo do recorrente ser promovido ao posto de 1º TENENTE PM, e consequentemente, seja revisado seus proventos afins de que sejam calculados com base no posto de CAPITÃO PM quanto na inatividade" (e-STJ, fl. 154).
+Impugnação apresentada (e-STJ, fl. 180).
+É o relatório.
+EMENTA
+AGRAVO INTERNO EM RECURSO EM MANDADO DE SEGURANÇA. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO OBSERVÂNCIA AO DISPOSTO NOS ARTS. 932, III, E 1.021, § 1º, DO CPC. AGRAVO NÃO CONHECIDO.
+1. Cabe à parte insurgente, nas razões do agravo interno, trazer argumentos suficientes para contestar a decisão agravada. A ausência de fundamentos válidos para impugnar a decisão proferida no agravo em recurso especial atrai a aplicação do disposto nos arts. 932, III, e 1.021, § 1º, do Código de Processo Civil. Precedentes.
+2. Agravo interno não conhecido.
+VOTO
+A irresignação não merece conhecimento.
+O acórdão impugnado mediante recurso ordinário em mandado de segurança restou assim ementado (e-STJ, fls. 84-85):
+MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO MILITAR INATIVO. GRATIFICAÇÃO DE HABILITAÇÃO POLICIAL MILITAR (GHPM). PRETENSÃO DE MAJORAÇÃO DO PERCENTUAL DE 55% PARA 100%. LEGISLAÇÃO REVOGADA. LEI ESTADUAL Nº 7.145/1997 QUE EXTINGUIU A GRATIFICAÇÃO. ATUAL PAGAMENTO DECORRENTE DE DECISÃO JUDICIAL ANTERIOR QUE RECONHECEU DIREITO ADQUIRIDO NO PERCENTUAL DE 55%. IMPOSSIBILIDADE DE MAJORAÇÃO SEM AMPARO LEGAL. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. SEGURANÇA DENEGADA.
+1. O mandado de segurança é ação constitucional destinada à proteção de direito líquido e certo contra ato ilegal de autoridade, quando não amparado por habeas corpus ou habeas data (art. 5º, LXIX, CF/88 e art. 1º da Lei 12.016/2009).
+2. A pretensão do impetrante visa a majoração da Gratificação de Habilitação Policial Militar (GHPM) do percentual de 55% para 100%, com base na Lei Estadual nº 3.803/1980 e Decreto Lei nº 1.199/1992, já revogados.
+3. A Lei Estadual nº 7.145/1997 expressamente extinguiu a GHPM e revogou toda a legislação anterior que a disciplinava.
+4. O pagamento atual da gratificação ao impetrante decorre exclusivamente de decisão judicial anterior, que reconheceu o direito adquirido à manutenção do benefício no percentual então recebido (55%), mas sem prever possibilidade de progressão ou aumento posterior.
+5. Inexiste fundamento legal vigente para amparar a pretendida majoração, uma vez que a legislação invocada foi expressamente revogada. O reconhecimento judicial do direito adquirido à manutenção da gratificação não importa em repristinação da legislação revogada, nos moldes do art. 2º, § 3º, da Lei de Introdução às Normas do Direito Brasileiro.
+6. A jurisprudência do Supremo Tribunal Federal é pacífica no sentido da inexistência de direito adquirido a regime jurídico, permitindo sua modificação pela Administração Pública, desde que preservado o núcleo essencial dos direitos já incorporados ao patrimônio dos servidores (STF - ARE 1447274/SP).
+7. Na hipótese, não há direito líquido e certo do impetrante à majoração do percentual da gratificação, uma vez que inexiste fundamento legal vigente que ampare sua pretensão.
+8. Ausência de direito líquido e certo a ser amparado pela via mandamental.
+9. Segurança denegada.
+O acórdão se limitou a apreciar o objeto da ação que é descrito na petição inicial (e-STJ, fl. 8):
+Antes de apresentar os fatos e fundamentos que justificam a causa de pedir e o direito do Requerente, esclarece a autoria que a pretensão final com a presente condenação da parte Requerida, traduzida na obrigação de fazer, consoante a obrigação de pagar os valores retroativos da G-HPM - Gratificação de HABILITAÇÃO PM, prevista no art. 21, da Lei Estadual nº 6.403/92.
+Na decisão ora agravada, não se conheceu do recurso ordinário interposto, sob o argumento de que os fundamentos do acordão denegatório não foram rebatidos naquele recurso, de acordo com as seguintes justificativas (e-STJ, fls. 139-140 - sem grifo no original):
+O recurso tem origem em mandado de segurança impetrado contra ato atribuído ao Secretário de Administração do Estado da Bahia objetivando majoração do percentual de Gratificação de Habilitação Policial Militar (GHPM), de 55% para 100% sobre o soldo, que foi denegado.
+No acórdão recorrido restou consignado (e-STJ, fls. 90-92):
+No caso em análise, o impetrante pretende a majoração do percentual da Gratificação de Habilitação Policial Militar (GHPM) de 55% para 100% sobre o soldo, com fundamento na Lei Estadual nº 3.803/1980 e no Decreto Lei nº 1.199/1992.
+Contudo, razão não lhe assiste.
+Com efeito, a Lei Estadual nº 7.145/1997, que reorganizou a escala hierárquica da Polícia Militar do Estado da Bahia, expressamente extinguiu a GHPM em seu art. 12, in verbis:
+ ..
+O atual pagamento da gratificação ao impetrante decorre exclusivamente de decisão judicial proferida nos autos do processo nº 0088058-93.2002.8.05.0001, que reconheceu o direito adquirido à manutenção do benefício no percentual então recebido (55%).
+Importante destacar que o reconhecimento judicial do direito adquirido à manutenção da gratificação não importa em repristinação da legislação revogada. A decisão judicial limitou-se a garantir a continuidade do pagamento no mesmo percentual anteriormente percebido, não estabelecendo qualquer possibilidade de progressão ou majoração posterior, conforme se depreende da parte dispositiva da sentença proferida nos autos da ação de n. 0088058-93.2002.8.05.0001 ..
+ ..
+O art. 2º, §3º da Lei de Introdução às Normas do Direito Brasileiro (Decreto-Lei nº 4.657/1942) é claro ao estabelecer que "salvo disposição em contrário, a lei revogada não se restaura por ter a lei revogadora perdido a vigência."
+Ademais, conforme pacífica jurisprudência do Supremo Tribunal Federal, não há direito adquirido a regime jurídico, sendo possível sua alteração pela Administração Pública, desde que preservado o núcleo essencial dos direitos já incorporados ao patrimônio dos servidores.
+O acórdão recorrido se sustenta nos seguintes fundamentos: i) a gratificação GHPM era paga com fundamento na Lei Estadual n. 3.803/1980 e no Decreto Lei n. 1.199/1992, mas referida legislação foi expressamente revogada pela Lei Estadual n. 7.145/1997; ii) o impetrante recebe a GHPM no valor de 55% do soldo por conta de sentença judicial transitada em julgado, a qual se limitou a garantir a continuidade do pagamento no referido percentual, sem estabelecer possibilidade de eventual majoração; iii) o reconhecimento judicial do direito não importa em repristinação da legislação revogada; e iv) não existe direito adquirido à manutenção de regime jurídico.
+O recorrente, por sua vez, se limita a discorrer sobre o princípio da legalidade, sem enfrentar qualquer desses fundamentos da decisão recorrida. Ao assim proceder, não impugna nenhum dos fundamentos do acórdão recorrido, qualquer deles quais suficiente para mantê-lo, nem demonstra de que maneira o acórdão recorrido violou o princípio da legalidade, o que autoriza a aplicação, por analogia, das Súmulas 283 e 284 do STF.
+Depreende-se que as razões do agravo interno não têm nenhuma pertinência com o objeto do processo, tampouco impugnam os fundamentos da decisão agravada. O recurso, em verdade, não analisa nem mesmo o caso concreto submetido a julgamento na petição inicial.
+Efetivamente, os arts. 932, III, e 1.021, § 1º, do Código de Processo Civil, preveem a obrigação de a parte recorrente observar o princípio da dialeticidade recursal, com impugnação específica dos fundamentos da decisão agravada na petição de agravo interno, sob pena de não conhecimento do recurso.
+Em situações idênticas a jurisprudência do Superior Tribunal de Justiça se consolidou pela aplicação, por analogia, da Súmula 182 do STJ, considerando que foi complemente desatendido o ônus da dialeticidade recursal, estabelecido no art. 1.021, §4º, do CPC, notadamente por não haver impugnado de forma específica e detalhada os fundamentos da decisão agravada.
+A propósito:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DOS ARTS. 932, III, E 1.021, § 1º, DO ESTATUTO PROCESSUAL CIVIL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO REFERIDO CÓDEX. DESCABIMENTO.
+I - Razões de agravo interno que não impugnam especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus do Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, combinado com o art. 1.021, § 1º, do Código de Processo Civil.
+II - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil, em razão do mero não conhecimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+III - Agravo interno não conhecido.
+(AgInt no RMS n. 77.609/BA, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 11/5/2026, DJEN de 15/5/2026.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015 E SÚMULA 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. A decisão agravada não conheceu do recurso ordinário em mandado de segurança, em razão da aplicação, por analogia, da Súmula 283 do STF.
+2. Nos termos do art. 1.021, § 1º, do CPC/2015, e da Súmula 182/STJ, a parte agravante deve infirmar, especificamente, nas razões do agravo interno, os fundamentos da decisão atacada, sob pena de não ser conhecido o seu recurso.
+3. Agravo interno não conhecido.
+(AgInt no RMS n. 76.932/BA, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 29/4/2026, DJEN de 6/5/2026).
+Ante o exposto, não conheço do agravo interno.
+É o voto.
