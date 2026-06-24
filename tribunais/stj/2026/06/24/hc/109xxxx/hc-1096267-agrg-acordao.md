@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/06/2026 a 24/06/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Pires Brandão, Nilsoni de Freitas (Desembargadora Convocada do TJDFT), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TUMULTO PROCESSUAL. RECURSO ESPECIAL EM PROCESSAMENTO. IMPOSSIBILIDADE DE CONHECIMENTO DO WRIT. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Conforme decidido pela Terceira Seção desta Corte no julgamento do HC n. 482.549/SP, em caso de interposição do recurso cabível contra o ato impugnado e contemporânea impetração de habeas corpus para igual pretensão, somente será permitido o exame do writ se for este destinado à tutela direta da liberdade de locomoção do acusado ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e refletir mediatamente na liberdade do paciente. Nas demais hipóteses, o habeas corpus não deve ser admitido e o exame das questões idênticas deve ser reservado ao recurso previsto para o caso, ainda que a matéria discutida resvale, por via transversa, na liberdade individual.
+2. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+CESAR AUGUSTO SILVA MARTINS interpõe agravo regimental contra decisão de fls. 175-176, em que indeferi liminarmente o habeas corpus.
+A defesa sustenta, em síntese, que "Esta Corte de Justiça já firmou compreensão de que o habeas corpus não deve ser utilizado como substitutivo do recurso padrão. Essa limitação, porém, não impede - e a jurisprudência do STJ expressamente admite - a concessão de ordem de habeas corpus de ofício, ao teor do Art. 647-A do Código de Processo Penal" (fl. 184).
+Reitera o pedido de absolvição do acusado quando ao delito de associação para o tráfico.
+Requer, assim, a reconsideração da decisão anteriormente proferida ou a submissão do feito a julgamento pelo órgão colegiado, para que seja concedida a ordem de habeas corpus.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TUMULTO PROCESSUAL. RECURSO ESPECIAL EM PROCESSAMENTO. IMPOSSIBILIDADE DE CONHECIMENTO DO WRIT. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Conforme decidido pela Terceira Seção desta Corte no julgamento do HC n. 482.549/SP, em caso de interposição do recurso cabível contra o ato impugnado e contemporânea impetração de habeas corpus para igual pretensão, somente será permitido o exame do writ se for este destinado à tutela direta da liberdade de locomoção do acusado ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e refletir mediatamente na liberdade do paciente. Nas demais hipóteses, o habeas corpus não deve ser admitido e o exame das questões idênticas deve ser reservado ao recurso previsto para o caso, ainda que a matéria discutida resvale, por via transversa, na liberdade individual.
+2. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Apesar d as justificativas apresentadas pela defesa, entendo que não lhe assiste razão.
+Em consulta processual realizada na página eletrônica do TJMG, verifico que, contra o acórdão da apelação, a defesa também interpôs recurso especial (em 25/3/2026), ainda pendente do juízo de admissibi lidade prévio a ser realizado pelo Tribunal de origem. No dia 12/5/2026, com o recurso especial ainda em trâmite, impetrou-se o presente habeas corpus.
+Diante de tal cenário, constata-se a impossibilidade de conhecimento deste mandamus, por violação do princípio da unirrecorribilidade.
+Conforme decidido pela Terceira Seção desta Corte no julgamento do HC n. 482.549/SP, de minha relatoria, em caso de interposição do recurso cabível contra o ato impugnado e contemporânea impetração de habeas corpus para igual pretensão, somente será permitido o exame do writ se for este destinado à tutela direta da liberdade de locomoção do acusado ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e refletir mediatamente na liberdade do paciente. Nas demais hipóteses, o habeas corpus não deve ser admitido e o exame das questões idênticas deve ser reservado ao recurso previsto para o caso, ainda que a matéria discutida resvale, por via transversa, na liberdade individual. Confira-se:
+ ..
+1. A existência de um complexo sistema recursal no processo penal brasileiro permite à parte prejudicada por decisão judicial submeter ao órgão colegiado competente a revisão do ato jurisdicional, na forma e no prazo previsto em lei. Eventual manejo de habeas corpus, ação constitucional voltada à proteção da liberdade humana, constitui estratégia defensiva válida, sopesadas as vantagens e também os ônus de tal opção.
+2. A tutela constitucional e legal da liberdade humana justifica algum temperamento aos rigores formais inerentes aos recursos em geral, mas não dispensa a racionalidade no uso dos instrumentos postos à disposição do acusado ao longo da persecução penal, dada a necessidade de também preservar a funcionalidade do sistema de justiça criminal, cujo poder de julgar de maneira organizada, acurada e correta, permeado pelas limitações materiais e humanas dos órgãos de jurisdição, se vê comprometido - em prejuízo da sociedade e dos jurisdicionados em geral - com o concomitante emprego de dois meios de impugnação com igual pretensão.
+3. Sob essa perspectiva, a interposição do recurso cabível contra o ato impugnado e a contemporânea impetração de habeas corpus para igual pretensão somente permitirá o exame do writ se for este destinado à tutela direta da liberdade de locomoção ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e que reflita mediatamente na liberdade do paciente. Nas demais hipóteses, o habeas corpus não deve ser admitido e o exame das questões idênticas deve ser reservado ao recurso previsto para a hipótese, ainda que a matéria discutida resvale, por via transversa, na liberdade individual.
+ .. .
+(HC n. 482.549/SP, Rel. Ministro Rogerio Schietti, 3ª S., DJe 3/4/2020, grifei.)
+À vista do exposto, nego provimento ao agravo regimental.
