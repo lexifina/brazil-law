@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/06/2026 a 24/06/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Carlos Pires Brandão, Nilsoni de Freitas (Desembargadora Convocada do TJDFT) e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. LATROCÍNIO E OCULTAÇÃO DE CADÁVER. REVISÃO CRIMINAL NÃO CONHECIDA NA ORIGEM POIS AJUIZADA EM FACE DE ACÓRDÃO QUE JULGOU RECURSO EM SENTIDO ESTRITO. INADEQUAÇÃO DA VIA ELEITA. PRETENSÃO DE EXAME ORIGINÁRIO DE NULIDADES E MÉRITO PROBATÓRIO NÃO APRECIADOS PELO TRIBUNAL ESTADUAL NO ATO COATOR. SUPRESSÃO DE INSTÂNCIA. DECISÃO MANTIDA.
+1. O Superior Tribunal de Justiça firmou entendimento de que o habeas corpus não pode ser conhecido quando a pretensão demanda exame originário de nulida des processuais e de mérito probatório não apreciados no ato coator, sob pena de supressão de instância.
+2. Ao que tudo indica, a pretensão defensiva consiste em impugnar eventual nulidade processual, bem como o próprio mérito da valoração probatória, matérias que devem ser deduzidas em face do ato que culminou na condenação definitiva, e não contra o acórdão que promoveu a desclassificação do delito imputado ao paciente.
+3. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por THIARLES DIEGO DA SILVA contra decisão monocrática assim ementada (fl. 444):
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. LATROCÍNIO E OCULTAÇÃO DE CADÁVER. REVISÃO CRIMINAL NÃO CONHECIDA NA ORIGEM POIS AJUIZADA EM FACE DE ACÓRDÃO QUE JULGOU RECURSO EM SENTIDO ESTRITO. INADEQUAÇÃO DA VIA ELEITA. PRETENSÃO DE EXAME ORIGINÁRIO DE NULIDADES E MÉRITO PROBATÓRIO NÃO APRECIADOS PELO TRIBUNAL ESTADUAL NO ATO COATOR. SUPRESSÃO DE INSTÂNCIA.
+Habeas corpus não conhecido.
+Nas razões, a parte agravante alega que a impetração não buscou transformar o Superior Tribunal de Justiça em instância revisora ampla do conjunto probatório, mas, sim, a correção de flagrante ilegalidade consistente na indevida transferência do ônus probatório à defesa, aferível de plano e documentalmente demonstrada.
+Argumenta que a ilegalidade decorre do acórdão proferido no recurso em sentido estrito, no qual se consignou que os acusados não teriam comprovado motivação diversa da patrimonial, operando-se, com isso, indevida inversão do ônus da prova quanto à elementar do latrocínio.
+Sustenta que não há supressão de instância quando se busca apenas o controle de legalidade constitucional sobre condenação fundada em raciocínio incompatível com o sistema acusatório, a presunção de inocência e o princípio do in dubio pro reo. Afirma a existência de "círculo de não apreciação jurisdicional" que perpetua o constrangimento ilegal.
+Defende a obrigatoriedade de aferição de ilegalidade manifesta em habeas corpus, ainda que haja óbices processuais, invocando o art. 647-A do Código de Processo Penal e precedente do Supremo Tribunal Federal (HC n. 269.349/PR), que autorizam a concessão de ordem mesmo quando não conhecidos a ação ou o recurso.
+Alega ilegalidade manifesta documentalmente demonstrada, pois a motivação patrimonial - elementar do latrocínio - teria sido presumida a partir da exigência indevida de que a defesa demonstrasse motivação alternativa, em violação da presunção de inocência e do in dubio pro reo.
+Argumenta ausência de prova da elementar patrimonial, destacando inexistência de apreensão de res furtiva, confissão do corréu Juliano de que agiu sozinho e sem subtração, testemunhos que corroboram a versão defensiva, e relato de Luiza Angelin sobre a posse de apenas R$ 50,00 pela vítima, além de decisão de primeiro grau que desclassificou a imputação por dúvida razoável quanto à subtração.
+Sustenta frustração da finalidade constitucional do habeas corpus e requer a reforma da decisão agravada para afastar o óbice processual e apreciar, ainda que em juízo sumário, a ilegalidade manifesta indicada, à luz do art. 647-A do Código de Processo Penal.
+Pede o conhecimento e o provimento do agravo regimental para afastar a supressão de instância, reconhecer o controle de flagrante ilegalidade e enfrentar as teses defensivas, com a nulidade do acórdão do recurso em sentido estrito e dos atos subsequentes. Subsidiariamente, a desclassificação do latrocínio ou absolvição por insuficiência probatória (fls. 458/459).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. LATROCÍNIO E OCULTAÇÃO DE CADÁVER. REVISÃO CRIMINAL NÃO CONHECIDA NA ORIGEM POIS AJUIZADA EM FACE DE ACÓRDÃO QUE JULGOU RECURSO EM SENTIDO ESTRITO. INADEQUAÇÃO DA VIA ELEITA. PRETENSÃO DE EXAME ORIGINÁRIO DE NULIDADES E MÉRITO PROBATÓRIO NÃO APRECIADOS PELO TRIBUNAL ESTADUAL NO ATO COATOR. SUPRESSÃO DE INSTÂNCIA. DECISÃO MANTIDA.
+1. O Superior Tribunal de Justiça firmou entendimento de que o habeas corpus não pode ser conhecido quando a pretensão demanda exame originário de nulida des processuais e de mérito probatório não apreciados no ato coator, sob pena de supressão de instância.
+2. Ao que tudo indica, a pretensão defensiva consiste em impugnar eventual nulidade processual, bem como o próprio mérito da valoração probatória, matérias que devem ser deduzidas em face do ato que culminou na condenação definitiva, e não contra o acórdão que promoveu a desclassificação do delito imputado ao paciente.
+3. Agravo regimental improvido.
+VOTO
+O agravo regimental não prospera, porquanto o agravante não conseguiu infirmar os fundamentos adotados na decisão atacada.
+A decisão agravada não conheceu do writ.
+Conforme já consignado na decisão combatida, a revisão criminal, na origem, não foi conhecida por inadequação da via eleita, por ter sido ajuizada contra acórdão que julgou recurso em sentido estrito.
+Sendo assim, a impetração pretende exame originário de nulidad e e do mérito probatório não apreciados pelo Tribunal estadual no ato coator, de maneira que o conhecimento direto dessas matérias configuraria supressão de instância, razão pela qual o habeas corpus, de fato, não pode ser conhecido.
+No mais, ao contrário do que sustenta a defesa, não se está diante de hipótese de "círculo de não apreciação judicial", mas, sim, de inadequação da via eleita. Isso porque, ao que tudo indica, a pretensão defensiva consiste em impugnar eventual nulidade processual, bem como o próprio mérito da valoração probatória, matérias que devem ser deduzidas em face do ato que culminou na condenação definitiva, e não contra o acórdão que promoveu a desclassificação do delito imputado ao paciente.
+Assim, na ausência de argumento apto a afastar as razões consideradas no julgado agravado, que está em sintonia com a jurisprudência desta Corte Superior de Justiça, deve ser mantida a decisão por seus próprios termos.
+Ante o exposto, nego provimento ao agravo regimental.
