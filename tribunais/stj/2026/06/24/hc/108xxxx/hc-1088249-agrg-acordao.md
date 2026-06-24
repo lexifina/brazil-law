@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/06/2026 a 24/06/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Carlos Pires Brandão e Nilsoni de Freitas (Desembargadora Convocada do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. REVISÃO DA PRISÃO PREVENTIVA A CADA 90 DIAS. ART. 316, PARÁGRAFO ÚNICO, DO CÓDIGO DE PROCESSO PENAL. PRAZO NONAGESIMAL NÃO PEREMPTÓRIO. AUSÊNCIA DE ILEGALIDADE AUTOMÁTICA. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A pretensão recursal não merece acolhimento, uma vez que os fundamentos apresentados no agravo regimental não evidenciam equívoco na decisão recorrida, a qual deve ser mantida por seus próprios fundamentos.
+2. Na hipótese, a defesa formulou diversos pedidos de revisão da prisão preventiva ao Juízo de primeiro grau e este analisou e indeferiu os pleitos, o que afasta a alegação de ausência de revisão dos requisitos legais para a manutenção da segregação cautelar.
+3. Consoante o entendimento pacificado desta Corte Superior, o prazo de 90 dias para reavaliação dos fundamentos da prisão preventiva, previsto no art. 316, parágrafo único, do Código de Processo Penal, não é peremptório, de modo que eventual atraso na execução do ato não implica o automático reconhecimento da ilegalidade da prisão, tampouco autoriza a imediata colocação do custodiado em liberdade.
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por CAIO FERNANDO GONCALVES contra a decisão de fls. 213-216, que não conheceu do habeas corpus.
+Nas razões deste recurso, a defesa aduz que a decisão partiu de premissa fática equivocada ao validar reavaliações feitas pelo Juízo de primeiro grau, porque a revisão periódica da prisão é atribuição exclusiva do órgão que a decretou.
+Argumenta que, como a prisão preventiva foi decretada pelo Tribunal de Justiça, as reavaliações realizadas em primeiro grau são nulas e não podem produzir efeitos para a contagem do art. 316, parágrafo único, do Código de Processo Penal .
+Defende que há omissão do Tribunal de origem em proceder à revisão nonagesimal, apesar de provocação nos autos, o que configuraria constrangimento ilegal.
+Expõe que não se trata de mero atraso, mas de ausência completa de revisão válida por período prolongado, mantendo o agravante encarcerado sem reavaliação pelo órgão competente.
+Requer, ao final, o acolhimento do agravo, a fim de obter a concessão da ordem, com o relaxamento da prisão preventiva ou a determinação de imediata revisão pelo Tribunal de origem.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. REVISÃO DA PRISÃO PREVENTIVA A CADA 90 DIAS. ART. 316, PARÁGRAFO ÚNICO, DO CÓDIGO DE PROCESSO PENAL. PRAZO NONAGESIMAL NÃO PEREMPTÓRIO. AUSÊNCIA DE ILEGALIDADE AUTOMÁTICA. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A pretensão recursal não merece acolhimento, uma vez que os fundamentos apresentados no agravo regimental não evidenciam equívoco na decisão recorrida, a qual deve ser mantida por seus próprios fundamentos.
+2. Na hipótese, a defesa formulou diversos pedidos de revisão da prisão preventiva ao Juízo de primeiro grau e este analisou e indeferiu os pleitos, o que afasta a alegação de ausência de revisão dos requisitos legais para a manutenção da segregação cautelar.
+3. Consoante o entendimento pacificado desta Corte Superior, o prazo de 90 dias para reavaliação dos fundamentos da prisão preventiva, previsto no art. 316, parágrafo único, do Código de Processo Penal, não é peremptório, de modo que eventual atraso na execução do ato não implica o automático reconhecimento da ilegalidade da prisão, tampouco autoriza a imediata colocação do custodiado em liberdade.
+4. Agravo regimental improvido.
+VOTO
+A pretensão recursal não merece acolhimento, uma vez que os fundamentos apresentados no agravo regimental não evidenciam equívoco na decisão recorrida.
+Conforme consta da decisão agravada, em relação à ilegalidade levantada, verifica-se que o relator do Tribunal de origem, em decisão de fls. 24-27, concluiu que:
+É verdade que o art. 316, parágrafo único, do Código de Processo Penal estabelece que "Decretada a prisão preventiva, deverá o órgão emissor da decisão revisar a necessidade de sua manutenção a cada 90 (noventa) dias, mediante decisão fundamentada, de ofício, sob pena de tornar a prisão ilegal.".
+Também não se ignora o entendimento jurisprudencial conforme o qual caberá ao órgão jurisdicional prolator da decisão a competência para reanálise da prisão preventiva após 90 dias; nesse sentido, aliás, a Eminente Ministra Carmén Lúcia destacou em seu voto, quando do julgamento da ADI nº 6.581, que: "Caso a prisão preventiva tenha sido decretada pelo Tribunal de segundo grau (em competência recursal ou originária), ao Relator dos autos em segunda instância incumbirá a reanálise da custódia cautelar a cada noventa dias, considerando a hierarquia entre os órgãos judiciais e a impossibilidade de que o juízo de primeiro grau reveja uma decisão do Tribunal respectivo." (sem destaque no original).
+No caso dos autos, porém, não houve revisão por órgão jurisdicional de primeiro grau de decisão emanada deste Colegiado, de sorte que inexistiu qualquer ofensa à hierarquia.
+Com efeito, a própria defesa formulou sucessivos pedidos de revogação da prisão preventiva ao Juízo a quo, ambos indeferidos, conforme decisões a fls. 511/514 e 542/545, dos autos principais (1513474-96.2023.8.26.0344), suscitando, inclusive, novos fatos, como o excesso de prazo para a formação da culpa, circunstância essa não submetida à análise deste Relator quando da decretação da prisão preventiva. Dessa forma, não houve quebra de hierarquia, porque inexistiu mera reanálise, mas sim apreciação de tese superveniente.
+Aliás, referido argumento já se encontra sob apreciação desta Relatoria no bojo do habeas corpus nº 2345412-70.2025.8.26.0000, cujo pedido de liminar fora indeferido, encontrando-se com vista aberta para a D. Procuradoria Geral de Justiça ofertar parecer, e então ser remetido à mesa para julgamento do mérito.
+ ..
+Enfim, nada havendo que se analisar, no presente momento e no âmbito deste Recurso em Sentido Estrito, determino o retorno dos autos à origem, sem prejuízo de que eventuais decisões proferidas em primeiro grau sejam trazidas a esta Corte por intermédio de ações e recursos próprios.
+Os embargos de declaração opostos perante o Tribunal de origem foram rejeitados pela Quarta Câmara de Direito Criminal, tendo-se concluído que (fls. 29-30):
+Na hipótese dos autos, não se verifica contradição sanável por esta via, uma vez que, sem negar vigência ao art. 316, parágrafo único do Código de Processo Penal ou ignorar o teor da ADI nº 6.581, do Supremo Tribunal Federal, considerou-se que, no caso concreto, "não houve revisão por órgão jurisdicional de primeiro grau de decisão emanada deste Colegiado, de sorte que inexistiu qualquer ofensa à hierarquia" (fls. 438), mens legis do indigitado comando legal.
+É de se ressaltar, também, que o magistrado, ao julgar questão posta à sua apreciação, o faz em seu livre convencimento, fundamentando-se nos fatos, na jurisprudência e na legislação que achar convenientes ao caso em julgamento.
+ ..
+Aliás, os argumentos trazidos nos presentes embargos nada mais são, vale dizer, do que mera reiteração do que já foi objeto do recurso de apelação e exaustivamente analisado.
+Conforme consta do acórdão recorrido, a defesa realizou diversos pedidos de revisão da prisão preventiva ao Juízo de primeiro grau, o qual analisou os pedidos, inclusive, sob perspectivas não apreciadas no julgamento do RESE. De modo que não há falar em ausência de revisão dos requisitos legais para a manutenção da medida.
+Acrescenta-se que, no que se refere à reavaliação nonagesimal dos fundamentos da prisão, de acordo com o art. 316 do CPP, esta Corte Superior possui entendimento de que " ..  o prazo de 90 dias para reavaliação dos fundamentos da prisão (conforme disposto no art. 316, parágrafo único, do CPP) não é peremptório, isto é, eventual atraso na execução deste ato não implica automático reconhecimento da ilegalidade da prisão, tampouco a imediata colocação do custodiado cautelar em liberdade (HC n. 621.416/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/4/2021, DJe de 16/4/2021)".
+Dessa forma, o agravante não trouxe fundamentos aptos a reformar a decisão agravada, que se mantém por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
