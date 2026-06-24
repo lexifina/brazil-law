@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/06/2026 a 24/06/2026, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Teodoro Silva Santos.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DO ART. 932, INCISO III, DO CPC E DA SÚMULA N. 182/STJ. DECISÃO DENEGATÓRIA COM DISPOSITIVO ÚNICO. NECESSIDADE DE IMPUGNAÇÃO INTEGRAL. PRECEDENTE DA CORTE ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+1. O agravo em recurso especial deve impugnar, de modo específico, todos os fundamentos da decisão que inadmitiu o recurso especial, em observância ao princípi o da dialeticidade.
+2. A ausência de refutação específica quanto ao fundamento de inexistência de vícios de fundamentação no acórdão recorrido atrai a incidência do art. 932, inciso III, do Código de Processo Civil e da Súmula 182 do Superior Tribunal de Justiça: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+3. A decisão que inadmite o recurso especial possui dispositivo único, ainda que sustentado por múltiplas razões, o que impõe a impugnação integral pelo agravante. Precedente: Embargos de divergência em agravo em recurso especial, Corte Especial, reafirmando a natureza incindível do provimento denegatório.
+4. Agravo em recurso especial não conhecido.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por ANEZIO ALVES CARNEIRO da decisão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Cível e Remessa Necessária n. 1000281-94.2017.4.01.4100, assim ementado (fls. 197-211):
+CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR. REMESSA NECESSÁRIA E DUPLA APELAÇÃO. TRANSPOSIÇÃO. EX-TERRITÓRIOS FEDERAIS. PAGAMENTO DE DIFERENÇAS REMUNERATÓRIAS RETROATIVAS. IMPOSSIBILIDADE. SUCESSIVAS VEDAÇÕES CONSTITUCIONAIS. AUSÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO (TEMAS 24 E 41 DO STF).
+1. Remessa necessária e apelações interpostas por ambas as partes contra sentença que condenou a parte ré ao pagamento de diferenças remuneratórias em favor da parte autora, consistentes na diferença entre os vencimentos percebidos junto ao Estado de Rondônia e aqueles devidos em relação ao cargo transposto, retroativas a 01/01/2014.
+2. A sentença foi proferida na vigência do CPC/2015 e não está sujeita à remessa necessária, pois a condenação nela imposta não tem o potencial de ultrapassar o limite previsto no art. 496, § 3º, do novo CPC/2015.
+3. A controvérsia cinge-se à possibilidade de pagamento de diferenças remuneratórias retroativas, decorrentes da transposição dos servidores do ex-Território Federal de Rondônia para quadro em extinção da União.
+4. As Emendas Constitucionais nº 60/2009, 79/2014 e 98/2017 vedam expressamente o pagamento de diferenças remuneratórias retroativas aos servidores transpostos.
+5. Os atos normativos regulamentadores da transposição não podem contrariar as disposições constitucionais expressas, que vedam os efeitos financeiros retroativos. Precedentes desta 9ª Turma.
+6. Antes da publicação no Diário Oficial da União do deferimento administrativo do pedidode transposição, o servidor possui mera expectativa de direito de obtê-la, não se podendo falar em direito adquirido ao regime jurídico dela decorrente, conforme entendimento firmado nos Temas 24 e 41, com repercussão geral reconhecida pelo Supremo Tribunal Federal.
+7. Remessa necessária não conhecida. Apelação da parte autora desprovida e apelação da União provida, para afastar os efeitos financeiros retroativos à publicação da Emenda Constitucional nº 60/2009, fixando como marco inicial dos efeitos financeiros a data da efetiva transposição do servidor.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DO ART. 932, INCISO III, DO CPC E DA SÚMULA N. 182/STJ. DECISÃO DENEGATÓRIA COM DISPOSITIVO ÚNICO. NECESSIDADE DE IMPUGNAÇÃO INTEGRAL. PRECEDENTE DA CORTE ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+1. O agravo em recurso especial deve impugnar, de modo específico, todos os fundamentos da decisão que inadmitiu o recurso especial, em observância ao princípi o da dialeticidade.
+2. A ausência de refutação específica quanto ao fundamento de inexistência de vícios de fundamentação no acórdão recorrido atrai a incidência do art. 932, inciso III, do Código de Processo Civil e da Súmula 182 do Superior Tribunal de Justiça: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+3. A decisão que inadmite o recurso especial possui dispositivo único, ainda que sustentado por múltiplas razões, o que impõe a impugnação integral pelo agravante. Precedente: Embargos de divergência em agravo em recurso especial, Corte Especial, reafirmando a natureza incindível do provimento denegatório.
+4. Agravo em recurso especial não conhecido.
+VOTO
+O Tribunal de origem não admitiu o apelo nobre pelos seguintes fundamentos: (i) a pretensão recursal demandaria o reexame do conjunto fático-probatório, atraindo a incidência da Súmula n. 7/STJ; e (ii) o acórdão recorrido não padeceria de qualquer vício de fundamentação a ser sanado (fls. 297-300).
+Todavia, a parte agravante, nas razões do agravo em recurso especial (fls. 306-317), não impugnou, de maneira específica, a fundamentação atinente à inexistência de vícios de fundamentação a serem sanados no acórdão recorrido.
+Por conseguinte, aplicam-se, à hipótese dos autos, o art. 932, inciso III, do Código de Processo Civil e a Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Ilustrativamente:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Por fim, esclareço que a Corte Especial deste Superior Tribunal de Justiça firmou entendimento no sentido de que o provimento judicial que não admite o recurso especial não é constituído por capítulos autônomos, mas, sim, por dispositivo único.
+Dessa forma, nas hipóteses tais como a presente, nas quais a parte agravante não se insurge de maneira adequada contra qualquer um dos fundamentos que alicerçam a inadmissibilidade, é inviável conhecer do agravo em recurso especial na integralidade.
+A propósito:
+ ..
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 208), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+É como voto.
