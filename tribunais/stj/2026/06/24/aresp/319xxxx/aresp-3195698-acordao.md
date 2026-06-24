@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/06/2026 a 24/06/2026, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Teodoro Silva Santos.
+EMENTA
+PROCESSO CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. MINUTA QUE NÃO INFIRMA ESPECIFICAMENTE FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. A parte agravante, no agravo em recurso especial, deixou de impugnar, de forma específica, fundamento da decisão que não admitiu o recurso especial na origem. Incidência da Súmula n. 182 do STJ.
+2. Agravo em recurso especial não conhecido.
+RELATÓRIO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS contra decisão do TRIBUNAL REGIONAL FEDERAL DA 1.ª REGIÃO, que não admitiu o recurso especial dirigido ao acórdão proferido na Apelação Cível n. 0050205-33.2021.8.19.0021 e assim ementado (fls. 186-187):
+Ação Acidentária. Auxílio-acidente. Doença do trabalho. Apelação desprovida. Reforma em parte da sentença no reexame necessário e de ofício.
+1. A prova pericial é peremptória quanto à ocorrência da doença do trabalho e à incapacidade permanente, com sequelas consolidadas, que reduziram a capacidade laborativa da apelada, ainda que mínima.
+2. Em que pese no quesito específico "a" de fls. 107 o perito tenha respondido que a apelada não é portadora de lesão ou perturbação funcional que implique redução de sua capacidade para o trabalho, dos demais quesitos, em especial da conclusão da perícia de que a apelada somente não faria jus ao auxílio-acidente por falta de enquadramento nas situações clínicas presentes no Anexo III do Decreto 3.048/99, conclui-se que a perícia entendeu que estão presentes os requisitos para concessão do auxílio-acidente.
+3. De outro lado, o anexo III do Decreto 3.048/99 não é exaustivo. Constatado que o obreiro está total ou parcial, mas, definitivamente incapacitado para o trabalho, faz jus, inicialmente, ao benefício de auxílio-doença acidentário e, posteriormente, consolidadas as lesões, ao de auxílio-acidente, como decidiu a sentença. Precedente do STJ em sede de recurso repetitivo.
+4. A correção monetária é devida desde a data do vencimento de cada prestação, observada a prescrição quinquenal, e o índice aplicável é o INPC, incidindo a taxa Selic a partir de 09.12.2021.
+5. Os juros de mora, devidos desde a citação, são devidos à taxa dos juros remuneratórios das cadernetas de poupança, incidindo a taxa Selic a partir de 09.12.2021.
+6. Condenação do apelante ao pagamento dos emolumentos de distribuição e de baixa.
+7. O percentual dos honorários deverá ser fixado na liquidação do julgado, o que deverá ocorrer sobre as parcelas vencidas até a data da sentença. Súmula 111, STJ.
+8. Apelação a que se nega provimento. Reforma em parte da sentença no reexame necessário e de ofício.
+Nas razões do apelo nobre, interposto com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, a parte recorrente alega ofensa ao art. 1.022, incisos I e II, do CPC e que " o  acórdão recorrido violou os arts. 85, § 11, e 927, III do CPC, pois majorou os honorários advocatícios de sucumbência arbitrados na origem, pois deveria ter dado provimento parcial à apelação interposta pelo INSS, não o fazendo, mas tendo determinado a aplicação da Súmula 111 do STJ em sede de remessa necessária, quando o deveria ter feito dando parcial provimento ao apelo da Autarquia" (fl. 230).
+Inadmitido o recurso especial pela incidência do óbice da Súmula n. 7 do STJ, bem como por ausência de malferimento ao art. 1022 do Código de Processo Civil (fls. 238-245). Daí o presente agravo em recurso especial (fls. 253-255), com apresentação de contraminuta (fls. 259-260).
+É o relatório.
+EMENTA
+PROCESSO CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. MINUTA QUE NÃO INFIRMA ESPECIFICAMENTE FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. A parte agravante, no agravo em recurso especial, deixou de impugnar, de forma específica, fundamento da decisão que não admitiu o recurso especial na origem. Incidência da Súmula n. 182 do STJ.
+2. Agravo em recurso especial não conhecido.
+VOTO
+O agravo em recurso especial não pode ser conhecido.
+A Corte a quo não admitiu o apelo nobre pelos seguintes fundamentos: incidência do óbice da Súmula n. 7 do STJ e por ausência de malferimento ao art. 1022 do Código de Processo Civil.
+Contudo, a parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório, não tendo esclarecido, à luz das teses veiculada no apelo nobre, de que maneira não seria necessária a incursão ao campo fático-probatório.
+Para buscar afastar a incidência da Súmula n. 7 do STJ, deve a parte cotejar a moldura fática incontroversa do acórdão recorrido com as teses por ele suscitadas, demonstrando de que forma o seu exame prescindiria da análise de elementos probantes, tal como explicitado na decisão que não admitiu o recurso especial. A propósito:
+ ..
+5. A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial. (AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021.)
+Agravo interno improvido.
+(AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do Código de Processo Civil). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte local para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNADO DE FORMA ESPECÍFICA O FUNDAMENTO DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA N. 182 DO STJ. SÚMULA N. 7 DO STJ. INSURGÊNCIA GENÉRICA. HONORÁRIOS RECURSAIS. AFRONTA AO PRINCÍPIO DA DIALETICIDADE. AGRAVO INTERNO PARCIALMENTE CONHECIDO E DESPROVIDO.
+1. A parte Agravante, no agravo em recurso especial, deixou de impugnar, de forma específica, um dos fundamentos da decisão que não admitiu o recurso especial na origem, qual seja, o óbice previsto na Súmula n. 7 do STJ. Incidência da Súmula n. 182 do STJ.
+2. Conforme remansosa jurisprudência desta Corte, " a  impugnação da Súmula 7 do STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica por ele conferida e a apreciação jurídica que lhes deveria ter sido efetivamente atribuída.  ..  O Recurso daí proveniente deveria se esmerar não em simplesmente reiterar as razões do Recurso Especial ou os argumentos referentes ao mérito da controvérsia, mas em demonstrar efetivamente que a referida Súmula não se aplica ao caso concreto e que, portanto, seria desnecessário revolver o acervo fático-probatório dos autos para a análise da insurgência" (AgInt no AREsp n. 2.371.208/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+3. Ao final da peça recursal, a Recorrente limita-se em postular a exclusão dos honorários recursais sem antes apontar o equívoco da decisão recorrida. Não se indicam, conforme exige o princípio da dialeticidade, os pressupostos fáticos e jurídicos que, no caso, desautorizariam a majoração dos honorários advocatícios sucumbenciais, razão pela qual o pedido subsidiário é incognoscível.
+4. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+(AgInt no AREsp 2346013/SP, relator Ministro Teodoro Silva Santos, DJe 22/8/2024.)
+Por fim, esclareço que a Corte Especial deste Superior Tribunal de Justiça firmou entendimento no sentido de que o provimento judicial que não admite o recurso especial não é constituído p or capítulos autônomos, mas, sim, por dispositivo único. Dessa forma, nas hipóteses tais como a presente, nas quais a parte agravante não se insurge de maneira adequada contra qualquer um dos fundamentos que alicerçam a inadmissibilidade, é inviável conhecer do agravo em recurso especial na integralidade.
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determ ino a sua majoração, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado (fl. 194), observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal .
+É o voto.
