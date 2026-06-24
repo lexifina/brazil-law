@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/06/2026 a 24/06/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Marluce Caldas, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental. Prisão preventiva. Homicídio qualificado tentado. Garantia da ordem pública. Fundamentação concreta. Medidas cautelares diversas. Agravo desprovido.
+I. Caso em exame
+1. O recurso. Agravo regimental contra decisão que negou provimento ao recurso ordinário em habeas corpus interposto contra acórdão de Tribunal de Justiça estadual, mantendo a prisão preventiva decretada e reafirmada na sentença de pronúncia. Pedido de revogação da prisão preventiva ou, subsidiariamente, substituição por medidas cautelares diversas.
+2. Fato relevante. Pronúncia pela prática, em tese, do delito previsto no art. 121, § 2º, II e IV, c/c art. 14, II, do Código Penal, com manutenção da prisão preventiva por subsistirem os requisitos dos arts. 312 e 313 do Código de Processo Penal. Fundamentação baseada na gravidade concreta e no modus operandi: agressões com pedaço de madeira que resultaram em politrauma e fraturas, impedido o óbito por intervenção de transeuntes, com prolongada internação e procedimentos cirúrgicos.
+3. As decisões anteriores. Ordem denegada no habeas corpus na origem; recurso ordinário em habeas corpus desprovido; agravo regimental repisando alegações de ausência de fundamentação idônea, existência de condições pessoais favoráveis e inadequação da custódia, além de questionar a vinculação da não localização do agravante à preventiva.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a prisão preventiva está concretamente fundamentada para a garantia da ordem pública, em razão da gravidade concreta da conduta e do modus operandi, e se há risco de reiteração delitiva que justifique a medida.
+5. A questão em discussão consiste em saber se circunstâncias pessoais favoráveis e a não localização do agravante, isoladamente, afastam a necessidade da custódia cautelar.
+6. A questão em discussão consiste em saber se medidas cautelares diversas da prisão se mostram suficientes e adequadas diante dos elementos dos autos e dos requisitos dos arts. 312 e 313 do Código de Processo Penal.
+III. Razões de decidir
+7. O agravante não apresenta argumentos novos capazes de infirmar os fundamentos da decisão monocrática, impondo-se a manutenção do decisum por seus próprios fundamentos.
+8. A prisão preventiva está devidamente fundamentada em dados concretos dos autos, evidenciando a necessidade da medida para a garantia da ordem pública, notadamente em razão do modus operandi e da gravidade concreta das lesões produzidas, atendendo ao art. 315 do Código de Processo Penal e ao art. 93, IX, da Constituição Federal.
+9. Há fundado risco de reiteração delitiva, demonstrado por anotações criminais, o que legitima a segregação cautelar para resguardar a ordem pública, conforme orientação jurisprudencial.
+10. A mera não localização do agravante ou a informação de residência em local incerto e não sabido, isoladamente, não sustenta o decreto preventivo; no caso, a custódia decorre de motivação concreta e autônoma, não vinculada exclusivamente a tal circunstância.
+11. Condições pessoais favoráveis (primariedade, ocupação lícita e residência fixa) não afastam a prisão preventiva quando presentes elementos idôneos que justificam a segregação cautelar.
+12. Medidas cautelares diversas da prisão se mostram inadequadas e insuficientes diante da gravidade concreta da conduta e do risco de reiteração, subsistindo os requisitos dos arts. 312 e 313 do Código de Processo Penal.
+IV. Dispositivo
+6. Resultado do Julgamento: Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por WESLEY ALVES DE CARVALHO contra decisão que negou provimento ao recurso ordinário em habeas corpus interposto contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+Depreende-se dos autos que o agravante foi pronunciado, pela prática do delito previsto no artigo 121, § 2º, incisos II e IV, c/c artigo 14, inciso II, ambos do Código Penal, tendo sido mantida a prisão preventiva, por ausência de mudança fática e subsistência dos requisitos dos artigos 312 e 313 do Código de Processo Penal - fl. 41.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de Justiça de origem, que denegou a ordem em acórdão às fls. 62-75.
+Sustentou a defesa, no presente recurso, em linhas gerais, a ausência de fundamentação concreta e idônea da decisão que decretou a prisão cautelar em desfavor do recorrente ponderando suas condições pessoais favoráveis.
+Alegou que o fato do recorrente não informar a mudança de endereço não condiz automaticamente à decretação da prisão preventiva e, ainda, que esta obrigação não figurava como uma das medidas cautelares diversas da prisão.
+Requereu a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medida cautelar diversa.
+O recurso ordinário em habeas corpus foi desprovido - fls. 118-120.
+No presente agravo, a defesa repisa os argumentos de mérito do habeas corpus, declarando a necessidade de revogação da prisão preventiva ou, subsidiariamente, sua substituição por medida cautelar diversa.
+Ressalta que "ao contrário do que determina a extensa jurisprudência das Cortes Superiores retromencionadas, houve a decretação da prisão preventiva com base exclusivamente em argumentos genéricos, inerentes do tipo penal, não restando preenchido nenhum dos requisitos presentes no artigo 312 do Código de Processo Penal" - fl. 129.
+Afirma que "a simples existência de registros criminais não demonstram o envolvimento da paciente em atividades criminosas, ante a necessidade de condenação transitada em julgado" - fl. 130.
+Pugna pela reconsideração da decisão agravada ou a submissão da irresignação ao Órgão Colegiado.
+Por manter a decisão agravada, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Prisão preventiva. Homicídio qualificado tentado. Garantia da ordem pública. Fundamentação concreta. Medidas cautelares diversas. Agravo desprovido.
+I. Caso em exame
+1. O recurso. Agravo regimental contra decisão que negou provimento ao recurso ordinário em habeas corpus interposto contra acórdão de Tribunal de Justiça estadual, mantendo a prisão preventiva decretada e reafirmada na sentença de pronúncia. Pedido de revogação da prisão preventiva ou, subsidiariamente, substituição por medidas cautelares diversas.
+2. Fato relevante. Pronúncia pela prática, em tese, do delito previsto no art. 121, § 2º, II e IV, c/c art. 14, II, do Código Penal, com manutenção da prisão preventiva por subsistirem os requisitos dos arts. 312 e 313 do Código de Processo Penal. Fundamentação baseada na gravidade concreta e no modus operandi: agressões com pedaço de madeira que resultaram em politrauma e fraturas, impedido o óbito por intervenção de transeuntes, com prolongada internação e procedimentos cirúrgicos.
+3. As decisões anteriores. Ordem denegada no habeas corpus na origem; recurso ordinário em habeas corpus desprovido; agravo regimental repisando alegações de ausência de fundamentação idônea, existência de condições pessoais favoráveis e inadequação da custódia, além de questionar a vinculação da não localização do agravante à preventiva.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a prisão preventiva está concretamente fundamentada para a garantia da ordem pública, em razão da gravidade concreta da conduta e do modus operandi, e se há risco de reiteração delitiva que justifique a medida.
+5. A questão em discussão consiste em saber se circunstâncias pessoais favoráveis e a não localização do agravante, isoladamente, afastam a necessidade da custódia cautelar.
+6. A questão em discussão consiste em saber se medidas cautelares diversas da prisão se mostram suficientes e adequadas diante dos elementos dos autos e dos requisitos dos arts. 312 e 313 do Código de Processo Penal.
+III. Razões de decidir
+7. O agravante não apresenta argumentos novos capazes de infirmar os fundamentos da decisão monocrática, impondo-se a manutenção do decisum por seus próprios fundamentos.
+8. A prisão preventiva está devidamente fundamentada em dados concretos dos autos, evidenciando a necessidade da medida para a garantia da ordem pública, notadamente em razão do modus operandi e da gravidade concreta das lesões produzidas, atendendo ao art. 315 do Código de Processo Penal e ao art. 93, IX, da Constituição Federal.
+9. Há fundado risco de reiteração delitiva, demonstrado por anotações criminais, o que legitima a segregação cautelar para resguardar a ordem pública, conforme orientação jurisprudencial.
+10. A mera não localização do agravante ou a informação de residência em local incerto e não sabido, isoladamente, não sustenta o decreto preventivo; no caso, a custódia decorre de motivação concreta e autônoma, não vinculada exclusivamente a tal circunstância.
+11. Condições pessoais favoráveis (primariedade, ocupação lícita e residência fixa) não afastam a prisão preventiva quando presentes elementos idôneos que justificam a segregação cautelar.
+12. Medidas cautelares diversas da prisão se mostram inadequadas e insuficientes diante da gravidade concreta da conduta e do risco de reiteração, subsistindo os requisitos dos arts. 312 e 313 do Código de Processo Penal.
+IV. Dispositivo
+6. Resultado do Julgamento: Agravo regimental desprovido.
+VOTO
+Inicialmente, consigna-se que se encontram presentes os pressupostos de admissibilidade, razão pela qual conheço do presente agravo regimental.
+Segundo o relatório, a parte agravante almeja a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medida cautelar diversa.
+Pois bem. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada por seus próprios fundamentos. Nesse compasso, não obstante o teor das razões suscitadas no presente recurso, não vislumbro elementos hábeis a alterar a decisão de fls. 118-120. Ao contrário, os argumentos ali externados merecem ser ratificados pelo Colegiado.
+No presente caso, a análise da sentença de pronúncia que manteve a prisão preventiva, permite a conclusão de que a prisão cautelar encontra-se devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para a garantia da ordem pública, notadamente pelo modus operandi da conduta em tese perpetrada, haja vista, que o agravante, praticou em tese, o crime de homicídio qualificado tentado. O acusado e a vítima, amigos há cerca de quatro anos, passaram a madrugada ingerindo bebidas alcoólicas até que, por volta das 4h, ao ter negado pedido de dinheiro para comprar mais bebidas, o recorrente teria se irritado e, munido de um pedaço de madeira, supostamente desferiu diversos golpes contra a cabeça e braços do ofendido, que caiu ao solo e não veio a óbito apenas porque transeuntes interromperam a agressão, permitindo que a vítima chegasse à casa do irmão que providenciou socorro, permanecendo internada por 1 mês e 14 dias, submetida a cirurgia no maxilar e traqueostomia, conforme laudo pericial que apontou politrauma, fratura da cartilagem tireóidea, fratura mandibular e contusão pulmonar - fl. 41.
+Destaca-se a jurisprudência deste Superior Tribunal de Justiça:
+"A custódia preventiva está idoneamente motivada, especialmente para a garantia da ordem pública, vulnerada pela gravidade concreta do crime em razão do modus operandi empregado no delito" (RHC n. 218.885/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 23/9/2025.)
+"A decisão que manteve a prisão preventiva encontra-se fundamentada em dados empíricos constantes dos autos, tais como a gravidade concreta da conduta imputada, o modus operandi, a periculosidade do agente" (RCD no HC n. 993.485/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 30/4/2025.)
+No mesmo sentido: AgRg no RHC n. 196.620/MA, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 28/8/2024; AgRg no HC n. 856.692/RS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 1/12/2023 e AgRg no RHC n. 184.703/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 11/10/2023.
+Outrossim, segundo consta nos autos, a manutenção da segregação cautelar mostra-se necessária diante da existência de fundado risco de reiteração delitiva, uma vez que o agravante "ostenta anotações criminais" - fl. 70.
+De acordo com a jurisprudência desta Corte, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública.
+A propósito:
+"como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência ou até mesmo outras ações penais ou inquéritos em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (AgRg no RHC n. 223.637/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 21/10/2025.)
+"a reiteração delitiva é fundamento apto a embasar o decreto prisional por evidenciar a periculosidade do agente"(AgRg no RHC n. 221.713/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 21/10/2025.)
+Vale destacar, segundo bem delimitado pelo acórdão recorrido, que a simples não localização do recorrente ou o fato de se encontrar em local incerto e não sabido não constitui fundamento suficiente para a decretação da prisão preventiva quando dissociado de outros elementos que indiquem sua condição de foragido, sendo que, no caso em apreço, embora tenha demonstrado descompromisso em comparecer aos autos, a custódia não foi decretada apenas por tal motivo, mas sim com decisões devidamente motivadas que ressaltam a conveniência da medida, em conformidade com o art. 93, IX, da Constituição Federal e o art. 315 do Código de Processo Penal - fl. 69.
+Ressalta-se que a presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+Desta feita, observa-se que a parte agravante não trouxe qualquer argumento novo capaz de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
