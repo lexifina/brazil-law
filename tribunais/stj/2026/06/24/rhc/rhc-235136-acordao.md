@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/06/2026 a 24/06/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Carlos Pires Brandão, Nilsoni de Freitas (Desembargadora Convocada do TJDFT) e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+RECURSO EM HABEAS CORPUS. HOMICÍDIO TENTADO. PRISÃO PREVENTIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA. MODUS OPERANDI. EVASÃO DO DISTRITO DA CULPA. FUNDAMENTAÇÃO IDÔNEA. FALTA DE CONTEMPORANEIDADE. NÃO OCORRÊNCIA. CONSTRANGIMENTO ILEGAL AUSENTE. PARECER  ACOLHIDO.
+Recurso em habeas corpus improvido.
+RELATÓRIO
+Trata-se de recurso em habeas corpus interposto por SERGIO SANTOS DA SILVA contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo que denegou a ordem no HC n. 2396604-42.2025.8.26.0000, mantendo a prisão preventiva decretada em razão da suposta prática do crime de tentativa de homicídio (fls. 56/65).
+O recorrente alega, em síntese, que a manutenção da prisão preventiva configura flagrante ilegalidade por apoiar-se em presunções de fuga e na gravidade abstrata do crime.
+Sustenta que não houve fuga, pois apenas retornou à sua terra natal por dificuldades de moradia e, desde então, manteve inserção social regular e vida laboral formalmente registrada, além de endereço fixo declarado, o que afasta a conclusão de que buscava furtar-se à aplicação da lei penal.
+Aduz que a decisão recorrida diverge de precedentes desta Corte quanto à insuficiência da mera não localização para justificar encarceramento, bem como a respeito da violação do princípio da contemporaneidade em prisões por fatos antigos, sem eventos novos.
+Destaca que os fatos ocorreram no ano de 2002, sem justificativa contemporânea para a segregação.
+Afirma ser desproporcional a custódia cautelar diante de condições pessoais favoráveis - primariedade, ocupação lícita atual e residência fixa.
+Requer a revogação da custódia, ainda que com a aplicação de medidas cautelares alternativas.
+O Ministério Público Federal, em seu parecer, opinou pelo não provimento do recurso (fls. 142/149).
+É o relatório.
+EMENTA
+RECURSO EM HABEAS CORPUS. HOMICÍDIO TENTADO. PRISÃO PREVENTIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA. MODUS OPERANDI. EVASÃO DO DISTRITO DA CULPA. FUNDAMENTAÇÃO IDÔNEA. FALTA DE CONTEMPORANEIDADE. NÃO OCORRÊNCIA. CONSTRANGIMENTO ILEGAL AUSENTE. PARECER  ACOLHIDO.
+Recurso em habeas corpus improvido.
+VOTO
+De acordo com reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade de restrição ao direito constitucional à liberdade de locomoção.
+Inexiste, na espécie, o alegado constrangimento ilegal. As instâncias ordinárias decidiram na linha da jurisprudência do Superior Tribunal de Justiça. Não há falar em revogação da prisão preventiva imposta ao recorrente.
+No caso, o Magistrado singular, ao manter a custódia preventiva, assim se manifestou (fls. 27/28 - grifo nosso):
+ ..
+Conforme se verifica dos autos, o réu SÉRGIO SANTOS DA SILVA permaneceu em local incerto e não sabido por período prolongado, impossibilitando o regular andamento do feito e demonstrando, assim, o intuito de furtar-se à aplicação da lei penal. Tal circunstância evidencia o perigo gerado pelo estado de liberdade do acusado, nos termos do art. 312 do Código de Processo Penal.
+A alegação defensiva de que o delito remonta ao ano de 2003 não é suficiente, por si só, para infirmar a necessidade da custódia, especialmente porque a demora na persecução penal decorreu, em grande parte, da própria ausência do réu.
+Além disso, as medidas cautelares diversas da prisão (art. 319 do CPP) mostram- se inadequadas e insuficientes para assegurar a aplicação da lei penal e a conveniência da instrução criminal, considerando o histórico de evasão.
+O Tribunal a quo, ao convalidar a custódia cautelar imposta ao recorrente, destacou que (fls. 58/64 - grifo nosso):
+ ..
+Segundo se depreende da consulta aos autos de origem, o paciente foi denunciado e está sendo processado como incurso no artigo 121, caput, c.c. artigo 14, II, do Código Penal, porque, em 06 de outubro de 2002, por volta de 19h, na Estrada Particular Suzuki, km 1,5, "Chácara dos Baianos", Jundiapeba, Mogi das Cruzes, ele teria tentado matar a vítima José Nilton da Silva, mediante golpes de faca, apenas não consumando o delito por circunstâncias alheias a sua vontade (fls. 04/05 do feito principal).
+A denúncia foi recebida em 16 de abril de 2003, ocasião em que a prisão preventiva do paciente também foi decretada (fls. 55/57 dos autos de origem).
+Esgotadas as tentativas de sua localização, o ora paciente foi citado por edital (fls. 84 dos autos de origem) e, uma vez que não compareceu aos autos, nem constitui advogado, em 27 de agosto de 2004, foram suspensos o processo e o curso do prazo prescricional (fls. 147/149).
+Em 10 de outubro de 2025, o mandado de prisão expedido em desfavor do paciente foi cumprido (fls. 546 do feito originário), tendo constituído advogado, o ora impetrante; pendente, no presente momento, o oferecimento de Resposta à Acusação para continuidade do feito.
+ ..
+No tocante ao periculum libertatis, a imposição da prisão preventiva do paciente assenta-se em diversos fundamentos, em especial na necessidade de garantia da ordem pública e na garantia de aplicação da lei penal.
+No particular, ressalta-se que o delito praticado é dotado de gravidade extrema, tratando-se de tentativa de homicídio mediante emprego de arma branca, que somente não se consumou porque o paciente foi contido por terceiro, situação obviamente comprometedora da ordem pública e da paz social.
+Mais a mais, Sérgio permaneceu foragido por DUAS DÉCADAS, o que ensejou a suspensão do curso do feito de origem, o que denota sua clara intenção de se furtar à aplicação da lei penal. À vista disso, a par dos indicativos da falta imputada e da necessidade de se resguardar a ordem pública, existe a possibilidade concreta de que o paciente venha a se ausentar novamente com a finalidade de impedir a aplicação da lei penal, pelo que a imposição de medida cautelar diversa da prisão não se revela, ao menos neste momento, adequada.
+Destaco que não há falar em ausência de contemporaneidade, mormente porque tal requisito não diz respeito ao momento da prática delitiva, mas sim aos motivos ensejadores da custódia cautelar, os quais, como visto, encontram-se presentes.
+ ..
+Dessa forma, a fundamentação exposta pela autoridade coatora encontra amparo nos juízos de urgência e necessidade que são próprios da prisão preventiva, consubstanciados, no caso em apreço, pela necessidade de resguardo da ordem pública e aplicação da lei penal.
+Como  se  vê,  o  periculum  libertatis  do  recorrente  foi  evidenciado  pelas  instâncias  ordinárias.
+Observa-se, da análise dos trechos transcritos, que a constrição cautelar está alicerçada em elementos vinculados à realidade, ante as referências às circunstâncias fáticas justificadoras, com destaque, principalmente, à evasão do distrito da culpa e ao modus operandi, a justificar a necessidade de manutenção da medida extrema.
+A custódia está corretamente motivada, pois a jurisprudência desta Corte é pacífica ao afirmar que a gravidade concreta do delito e a periculosidade do agente justificam a manutenção da prisão preventiva, especialmente quando a liberdade do réu representa risco à ordem pública (HC n. 850.429/MA, Ministra Daniela Teixeira, Quinta Turma, DJe 11/11/2024).
+Nesse sentido, a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública (AgRg no HC n. 687.840/MS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, DJe de 19/12/2022) - (AgRg no HC n. 968.850/PR, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN 11/3/2025).
+Além disso, conforme  a  jurisprudência  desta  Corte,  a  evasão  do  distrito  da  culpa,  comprovadamente  demonstrada  nos  autos  e  reconhecida  pelas  instâncias  ordinárias,  constitui  motivação  suficiente  a  justificar  a  preservação  da  segregação  cautelar  para  garantir  a  aplicação  da  lei  penal  (AgRg  no  RHC  n.  117.337/CE,  Ministro  Jorge  Mussi,  Quinta  Turma,  DJe  28/11/2019).
+Ainda,  confiram-se  o  AgRg  nos  EDcl  no  RHC  n.  197.493/CE,  Ministro  Reynaldo  Soares  da  Fonseca,  Quinta  Turma,  DJe  3/7/2024; e o AgRg no HC n. 914.054/SP, Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, DJe de 16/8/2024.
+Ademais, a contemporaneidade da prisão preventiva não está necessariamente ligada à data da prática do crime, mas, sim, com o risco que a liberdade do réu representa à garantia da ordem pública e à conveniência da instrução criminal, exatamente pelo lado concreto daqueles e de outros fatos que são posteriores, demonstrando a necessidade da prisão preventiva. Nesse sentido, do Supremo Tribunal Federal: HC n. 206.116-AgR, relatora Ministra Rosa Weber, Primeira Turma, DJe 18/10/2021; do Superior Tribunal de Justiça: HC n. 892.175/BA, relatora Ministra Daniela Teixeira, Quinta Turma, DJe 23/12/2024; e HC n. 890.683/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 30/4/2024.
+Não  é  outra  a  opinião  do  Ministério  Público  Federal,  a  qual  também  adoto  como  razão  de  decidir  (fls.  142/149).
+Por  fim,  eventuais  condições  pessoais  favoráveis  do  recorrente  não  têm  o  condão  de,  por  si  sós,  garantir  a  revogação  da  prisão  preventiva.  Há ,  nos  autos,  elementos  hábeis  a  recomendar  a  manutenção  da  custódia  preventiva,  não  se  mostrando  suficientes  as  medidas  previstas  no  art.  319  do  Código  de  Processo  Penal.
+Em  face  do  exposto,  nego  provimento  ao  recurso  ordinário.
