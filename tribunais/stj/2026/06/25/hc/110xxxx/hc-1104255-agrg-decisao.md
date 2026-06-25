@@ -1,0 +1,17 @@
+DECISÃO
+DALBERTO MORAIS SANTANA interpõe agravo regimental contra a decisão de fl. 107, por meio da qual indeferi liminarmente o habeas corpus.
+A defesa sustenta, em síntese, que não houve supressão de instância, pois a matéria foi previamente submetida ao Tribunal de Justiça do Estado de São Paulo no Habeas Corpus Criminal nº 2082592-62.2026.8.26.0000, o qual não foi conhecido por inadequação da via eleita. Afirma a necessidade de afastar o formalismo excessivo em prestígio à liberdade de locomoção, apontando constrangimento ilegal decorrente da homologação de falta grave amparada exclusivamente em boletim de ocorrência, sem prova idônea de autoria ou materialidade, que acarretou regressão ao regime fechado, perda de 1/3 dos dias remidos e reinício da contagem do lapso para progressão.
+Alega cabimento do habeas corpus para desconstituir a sanção disciplinar, por violação dos princípios do devido processo legal, do contraditório, da ampla defesa e da presunção de inocência.
+Requer a reconsideração da decisão agravada e, subsidiariamente, o provimento do regimental, a fim de que seja concedida a ordem de habeas corpus.
+Decido.
+A despeito de os impetrantes, na inicial deste habeas corpus, haverem indicado como ato coator "a decisão que o REGRIDO-O (sic) para o regime fechado, declaro a perda de 1/3 do tempo remido e determino o início da contagem do prazo de cumprimento de pena para fins de progressão de regime a partir da data da última infração (26/03/2025),observando-se a determinação contida na Súmula 441 do STJ" (fl. 3), esclareceu que foi impetrado prévio habeas corpus no Tribunal estadual, que, por meio de decisão monocrática, não foi conhecido.
+Diante de tal cenário, reconsidero a decisão de fl. 107 e passo à nova apreciação do feito, em que a defesa requer a desconstituição de falta disciplinar de natureza grave homologada em desfavor do paciente.
+Todavia, o habeas corpus não comporta processamento, uma vez que a decisão impugnada foi prolatada por Desembargador, que não conheceu, monocraticamente, do writ impetrado.
+Deve-se frisar que não houve a interposição de agravo interno, de modo a oportunizar o debate do tema pelo respectivo órgão colegiado e posterior impetração de habeas corpus perante esta Corte Superior, ônus de que a parte não se desincumbiu de realizar.
+Dessa forma, em creditamento às instâncias ordinárias, que primeiro devem conhecer da controvérsia, para, então, ser inaugurada a competência do Superior Tribunal de Justiça, fica inviabilizado o conhecimento deste mandamus. Nesse passo, por todos:
+ ..  O inconformismo dirigido contra decisão de Desembargador componente da Turma Criminal do Tribunal a quo, sem que tenha sido ajuizado o agravo interno e alcançado tal decisum o trânsito em julgado, inviabiliza o acesso a esta Corte Superior, em razão do não esgotamento das instâncias ordinárias.
+II. Evidenciado que os temas levantados não foram objeto de debate e decisão por parte de órgão colegiado do Tribunal de origem, sobressai a incompetência desta Corte para o exame das matérias, sob pena de indevida supressão de instância  ..
+(HC n. 164.785/MS, Rel. Min. Gilson Dipp, 5ª T., DJe 8/6/2011)
+À vista do exposto, reconsidero a decisão de fl. 107 somente para, ante o esclarecimento prestado pela parte, proceder à nova análise do feito. No entanto, embora por fundamento diverso, mantenho o indeferimento liminar do habeas corpus, com fulcro no art. 210 do RISTJ.
+Publique-se  e  intimem-se.
+EMENTA
