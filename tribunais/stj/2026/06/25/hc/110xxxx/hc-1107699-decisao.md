@@ -1,0 +1,17 @@
+DECISÃO
+FAVIAN VIDAL BOGADO VILLAR alega sofrer constrangimento ilegal no seu direito de locomoção em decorrência de ato do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO (Processo n. 5006813-94.2024.4.04.7104/RS).
+O paciente foi condenado, pela prática dos crimes de tráfico internacional de drogas e de receptação (arts. 33, caput, c/c o art. 40, I, da Lei n. 11.343/2006, e 180, caput, do Código Penal, na forma do art. 69 do Código Penal), a 5 anos e 8 meses de reclusão, em regime semiaberto, mais 421 dias-multa.
+Neste habeas corpus, a defesa pede o relaxamento da prisão preventiva do acusado, mediante a aplicação ou não de medidas cautelares diversas, sob o argumento de excesso de prazo no julgamento da apelação, que se prolonga desde o recebimento do recurso, em 24/5/2025, ou seja há mais quatorze meses, observado ainda que a custódia provisória se prolonga desde 24/6/2024.
+Decido.
+O habeas corpus comporta apreciação imediata, uma vez que a questão deduzida nesta impetração encontra solução no entendimento dominante do Superior Tribunal de Justiça.
+Não constato excesso de prazo para o julgamento da apelação.
+Os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando as particularidades do caso examinado.
+Consoante o entendimento desta Corte Superior, "O prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais. (Precedentes do STF e do STJ)" (RHC n. 58.274/ES, Rel. Ministro Felix Fischer, 5ª T., DJe 17/9/2015).
+De acordo com as informações prestadas pelas instâncias ordinárias e o andamento extraído da página eletrônica do Tribunal de origem, o acusado teve sua prisão preventiva decretada no dia 24/6/2024 e foi proferida sentença em 21/3/2025. Na ocasião, o réu foi condenado a 5 anos e 8 meses de reclusão, em regime inicial semiaberto, pela prática dos crimes de tráfico internacional de drogas e de receptação.
+A apelação interposta pela defesa foi recebida pelo Tribunal regional em 24/4/2025, e o Ministério Público Federal ofertou parecer em 14/5/2025. Embora os autos estejam conclusos desde então, e a prisão possa parecer prolongada diante da pena aplicada na sentença, constato que se trata de feito complexo, cujos fatos envolvem a apreensão de 229 kg de maconha, em contexto de tráfico internacional de entorpecentes, e a receptação de veículo roubado no exterior, com placas alteradas.
+Em virtude dessas considerações, não verifico, ao menos por ora, excesso injustificado de prazo para o julgamento da apelação, a ensejar a pretendida concessão de liberdade ao paciente.
+Todavia, diante do tempo decorrido desde a prisão do réu (cerca de 2 anos e 2 meses) e do período transcorrido desde o recebimento dos autos pelo Tribunal de origem para julgamento da apelação defensiva (24/4/2025 - aproximadamente 1 ano), deve ser recomendado à Corte revisora q ue dê máxima prioridade ao julgamento do recurso.
+À vista do exposto, denego a ordem, mas recomendo ao Tribunal de origem que dê máxima prioridade ao julgamento do recurso de apelação.
+Comunique-se, com urgência, o inteiro teor desta decisão à autoridade apontada como coatora.
+Publique-se e intimem-se.
+ EMENTA
