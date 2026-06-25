@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de JONATHAN FERREIRA, em que a defesa aponta como autoridade coatora o Tribunal de Justiça do Estado do Paraná, que deu provimento ao agravo ministerial para revogar a concessão de indulto (Agravo em Execução Penal n. 4001192-06.2026.8.16.4321).
+Em síntese, o impetrante alega que o acórdão recorrido criou requisito não previsto no art. 9º, XV, do Decreto n. 12.790/2025 ao exigir "arrependimento" ou "vontade de reparar o dano", pois, para os hipossuficientes, a reparação é excetuada pelo art. 12, § 2º, I.
+Aduz que a representação pela Defensoria Pública presume incapacidade econômica e dispensa a reparação, tornando indevida qualquer exigência de voluntariedade.
+Afirma a irrelevância do somatório das penas para o inciso XV do art. 9º, pois o art. 7º só opera quando há requisitos objetivos de fração ou limite global de pena, inexistentes na hipótese.
+Sustenta que o indulto pode incidir mesmo havendo concurso com delitos impeditivos, porque o decreto unifica penas, não tipos penais, e o inciso XV exige apenas condenação por crime patrimonial sem violência e a reparação ou sua dispensa por hipossuficiência.
+Pede, em liminar e no mérito, a cassação do acórdão e o restabelecimento da decisão de primeiro grau que concedeu o indulto com base no art. 9º, XV, e art. 12, § 2º, I, do Decreto n. 12.790/2025 (Processo n. 0019682-90.2014.8.16.0013, da Vara de Execuções Penais, Medidas Alternativas e Corregedoria dos Presídios da comarca de Curitiba/PR).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a inviabilidade do presente writ.
+O Tribunal local deu provimento ao agravo para afastar o indulto, afirmando que (fls. 104/108):
+ ..
+Nos presentes autos, não há comprovação de que o agravado tenha tomado qualquer atitude espontânea voltada à reparação dos danos ou demonstrado arrependimento posterior. Inexistem indícios de iniciativa voluntária destinada à recomposição dos prejuízos suportados pelas vítimas.
+A jurisprudência deste Tribunal tem se consolidado nesse entendimento, ao reconhecer que a presunção de hipossuficiência econômica não afasta a necessidade de comprovação do arrependimento posterior ou da intenção de reparar o dano, exigência expressamente prevista no referido Decreto Presidencial.
+ ..
+De mais a mais, nos termos do artigo 7º do referido decreto, verifica-se que, em 25.12.2025, as condenações acumuladas pelo apenado ultrapassavam o limite de 12 (doze) anos estabelecido no artigo 9º, inciso II, circunstância que igualmente impede a concessão do benefício de clemência (autos de execução n. 0019682-90.2014.8.16.0013 - SEEU):
+ ..
+Acrescente-se, ainda, que à época do Decreto o réu não havia cumprido 2/3 da pena relativa ao crime impeditivo, nos termos do artigo 7º, parágrafo único, do referido diploma normativo (autos n. autos n. 0005419-71.2023.8.16.0196, em que o agravado foi condenado por tráfico de drogas à pena de 10 anos e 06 meses de reclusão):
+ ..
+Os fundamentos são suficientes e autônomos para a manutenção do indeferimento. Ausente, portanto, flagrante ilegalidade.
+Nos termos da jurisprudência deste Tribunal Superior, sobre o art. 7º, parágrafo único, do Decreto n. 12.338/2024, que possui a mesma numeração e redação do Decreto n. 12.790/2025, a condenação por crime impeditivo, como o roubo, afasta a concessão do indulto para outros crimes patrimoniais sem violência, conforme interpretação do art. 9º, inciso XV, do Decreto Presidencial n. 12.338/2024 (AgRg no HC n. 1.028.797/SC, Ministro Ribeiro Dantas, Quinta Turma, DJEN de 18/11/2025).
+No caso, o paciente não havia cumprido 2/3 de sua reprimenda pelo delito de tráfico de drogas, não adimplindo o requisito do parágrafo único do art. 7º do Decreto n. 12.790/2025.
+Além disso, essa Corte entende que o fato de  ..  ser assistido pela Defensoria Pública não conduz, por si só, à conclusão de que é pessoa financeiramente vulnerável, conforme entendimento firmado pelo Superior Tribunal de Justiça. Ademais, não há notícia de arrependimento ou de vontade de reparar o dano (AgRg no HC n. 1.046.605/SP, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 2/6/2026, DJEN de 9/6/2026).
+E, ainda que ultrapassado tal entendimento, a presunção de incapacidade econômica do condenado, por ser representado pela Defensoria Pública, não afasta a necessidade de demonstração de arrependimento ou vontade de reparação do dano para concessão do indulto (AgRg no HC n. 1.058.736/SP, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 11/3/2026, DJEN de 17/3/2026).
+Nesse ponto, a respeito da intenção de reparar o dano, a presunção de hipossuficiência não afasta a necessidade de demonstração voluntária ou espontânea de reparação do dano, vide HC n. 1.008.710/SP, relator Ministro Ribeiro Dantas, julgado em 5/8/2025, DJEN de 14/8/2025; e AgRg no HC n. 1.053.200/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/4/2026, DJEN de 23/4/2026.
+No mesmo sentido desta Sexta Turma: AgRg nos EDcl no AgRg no HC n. 1.058.875/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/4/2026, DJEN de 14/4/2026; AgRg no AgRg no HC n. 1.062.506/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 25/3/2026, DJEN de 31/3/2026; AgRg no HC n. 1.034.237/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 11/3/2026, DJEN de 17/3/2026; AgRg no HC n. 1.044.415/SP, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 4/3/2026, DJEN de 10/3/2026; e AgRg no HC n. 1.029.341/ES, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/3/2026, DJEN de 9/3/2026.
+Necessário mencionar que fiquei isolado na posição originariamente exposta no HC n. 1.041.643/SP, de minha relatoria, Sexta Turma, julgado em 18/11/2025, DJEN de 28/11/2025.
+No caso, o paciente apresentou apenas a representação pela Defensoria e não comprovou o elemento anímico, a vontade de reparar o dano, razão pela qual também não faria jus ao indulto por essa razão.
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. ART. 9º, XV, DO DECRETO N. 12.790/2025. CRIMES PATRIMONIAIS SEM V IOLÊNCIA. CRIMES IMPEDITIVOS. ART. 7º. SOMA DAS PENAS. JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA SOBRE DECRETO N. 12.338/2024. MESMA REDAÇÃO. PRESUNÇÃO DE HIPOSSUFICIÊNCIA. ASSISTÊNCIA PELA DEFENSORIA PÚBLICA. NECESSIDADE DE DEMONSTRAÇÃO DA INTENÇÃO DE REPARAR O DANO. POSICIONAMENTO PREVALENTE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE.
+Petição inicial indeferida liminarmente.
