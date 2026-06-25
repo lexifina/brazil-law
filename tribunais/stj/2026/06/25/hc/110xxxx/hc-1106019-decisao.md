@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de EDNILSON FERREIRA MARTINS e JONATHAN FERNANDO PEREIRA RODRIGUES em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Consta dos autos que os pacientes foram presos preventivamente em 12/3/2025, em razão da suposta prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006, tendo sido, ainda, imputada ao paciente EDNILSON a prática do crime de posse de munições de uso permitido.
+A impetrante sustenta que o acórdão do agravo interno manteve prisão preventiva por aproximadamente 15 meses sem conclusão da instrução, caracterizando excesso de prazo e constrangimento ilegal.
+Alega que a paralisação decorre exclusivamente da demora do Instituto-Geral de Perícias em realizar a extração e a perícia de dados telefônicos, sem contribuição da defesa para o atraso.
+Assevera que a decisão de origem justificou o atraso pela suposta complexidade do feito, conferindo, na prática, prazo indeterminado à custódia cautelar, a qual teria sido convertida em indevida antecipação de pena.
+Afirma que o direito à razoável duração do processo, previsto nos arts. 5º, LXXVIII, da Constituição Federal e 648, II, do Código de Processo Penal - CPP, impedem que deficiências estruturais do Estado recaiam sobre a liberdade dos pacientes.
+Defende que o periculum libertatis foi esvaziado, carecendo o decreto prisional de contemporaneidade, o que autorizaria a aplicação de medidas cautelares diversas da prisão, nos termos do art. 319 do CPP.
+Argumenta que a instância ordinária foi exaurida e a matéria federal foi prequestionada, o que autoriza a apreciação do habeas corpus substitutivo.
+Requer, liminarmente e no mérito, o relaxamento da prisão preventiva dos pacientes ou a substituição por medidas cautelares diversas.
+É o relatório.
+Analisando os autos, verificou-se que o Tribunal de origem, no ato judicial impugnado, não examinou a alegação defensiva de excesso de prazo, com fundamento em que tal matéria já havia sido analisada recentemente no julgamento de writ anterior, cerca de 1 mês antes, tendo ressaltado a inexistência de andamento processual relevante ou de decurso de prazo excessivo que justificasse a reanálise do tema (fls. 24-26), circunstância que inviabiliza o exame da questão pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Ademais, o Tribunal local também não examinou as alegações de esvaziamento do periculum libertatis, de ausência de contemporaneidade da prisão e de possibilidade de aplicação de medidas cautelares alternativas.
+Não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC n. 126.604/MT, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 07/12/2020, DJe 16/12/2020).
+Nesse sentido, destaca-se:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. NÃO CONFIGURADA. ART. 312 DO CÓDIGO DE PROCESSO PENAL. GARANTIA DA ORDEM PÚBLICA. NECESSIDADE DE INTER ROMPER OU REDUZIR ATIVIDADE DE GRUPO CRIMINOSO. EXCESSO DE PRAZO. SUPRESSÃO DE INSTÂNCIA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES MAIS BRANDAS. INSUFICIÊNCIA E INADEQUAÇÃO. RECURSO NÃO PROVIDO.
+1. A prisão preventiva foi ordenada e mantida pelas instâncias ordinárias, nos termos do art. 312 do Código de Processo Penal, notadamente para a garantia da ordem pública.
+2. No caso, a periculosidade da paciente foi revelada em minuciosa investigação levada a efeito no âmbito da Operação ARAITAK, uma vez que integraria associação criminosa estruturalmente ordenada e com emprego de arma de fogo, ligada ao à facção KATIARA, voltada para a prática de tráfico de drogas e de armas em vários Municípios do Estado da Bahia, desempenhando a função de Olheira/Apoio Operacional, subordinada diretamente a gerente de pista, ficando responsável por informar sobre a movimentação de viaturas policiais e repassar informações sobre membros da facção rival, além de fornecer sua conta bancária para depósitos referentes à venda de drogas.
+2. O alegado excesso de prazo para a formação da culpa não foi sequer apreciado pelo Tribunal estadual, o que impede o exame da matéria por esta Corte, sob pena de indevida supressão de instância.
+3. Condições pessoais favoráveis não têm o condão de, isoladamente, desconstituir a prisão cautelar ou autorizar medidas cautelares alternativas quando há nos autos elementos hábeis que autorizam sua manutenção, como ocorre no caso.
+4. Agravo regimental não provido.
+(AgRg no HC n. 905.056/BA, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 5/8/2024, DJe de 23/8/2024 - sem o destaque no original.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
