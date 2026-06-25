@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Carlos Pires Brandão e Nilsoni de Freitas (Desembargadora Convocada do TJDFT) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Rogerio Schietti Cruz.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. VÍCIO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração não se prestam à rediscussão dos fundamentos do acórdão embargado quando a decisão apresenta motivação suficiente e não contém ambiguidade, obscuridade, contradição, omissão ou erro material.
+2. A apreensão de drogas, dinheiro, armas e munições, aliada à demonstração de atividade de traficância estruturada, em concurso de pessoas e com divisão de tarefas, atribuindo-se ao réu a função de cortar, embalar e armazenar entorpecentes, evidencia a dedicação a atividades criminosas e afasta a causa especial de diminuição do art. 33, § 4º, da Lei 11.343/2006.
+3. A suplementação e o reforço da fundamentação, com base em elementos probatórios constantes e debatidos nos autos, para manter a reprimenda imposta, sem agravamento do quantum de pena, são admissíveis em recurso exclusivo da defesa, não caracterizando inovação indevida.
+4. Ausente qualquer vício, constata-se a mera discordância da solução dada pelo acórdão e a pretensão de nova análise do recurso anterior, inviável em embargos de declaração.
+5. Consoante entendimento do Superior Tribunal de Justiça, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater, um a um, todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre no caso.
+6. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por LUAN FABRIS DA SILVA contra o acórdão de fls. 230-235, que negou provimento ao agravo regimental.
+A parte embargante alega, em síntese, que o acórdão deve ser reformado por omissão no exame de tese central já apontada no agravo regimental, relativa à inovação de fundamentos pelo Tribunal de origem para afastar o tráfico privilegiado, o que configuraria reformatio in pejus e extrapolação do efeito devolutivo da apelação.
+Defende que a decisão colegiada não enfrentou a alegação de que a habitualidade delitiva foi construída com base em elementos não constantes da decisão de origem, como concurso de pessoas, divisão de tarefas e apreensão de drogas, dinheiro, armas e munições, utilizados para negar o § 4º do art. 33 da Lei n. 11.343/2006.
+Expõe que, sanada a omissão, deve haver reconsideração do julgado para dar provimento ao agravo regimental, concedendo-se a ordem no habeas corpus, com o reconhecimento do tráfico privilegiado e a aplicação da causa de diminuição do § 4º do art. 33 da Lei n. 11.343/2006, na fração máxima de 2/3.
+Requer o acolhimento dos aclaratórios para sanar os defeitos apontados, com a correspondente repercussão jurídica.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. VÍCIO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração não se prestam à rediscussão dos fundamentos do acórdão embargado quando a decisão apresenta motivação suficiente e não contém ambiguidade, obscuridade, contradição, omissão ou erro material.
+2. A apreensão de drogas, dinheiro, armas e munições, aliada à demonstração de atividade de traficância estruturada, em concurso de pessoas e com divisão de tarefas, atribuindo-se ao réu a função de cortar, embalar e armazenar entorpecentes, evidencia a dedicação a atividades criminosas e afasta a causa especial de diminuição do art. 33, § 4º, da Lei 11.343/2006.
+3. A suplementação e o reforço da fundamentação, com base em elementos probatórios constantes e debatidos nos autos, para manter a reprimenda imposta, sem agravamento do quantum de pena, são admissíveis em recurso exclusivo da defesa, não caracterizando inovação indevida.
+4. Ausente qualquer vício, constata-se a mera discordância da solução dada pelo acórdão e a pretensão de nova análise do recurso anterior, inviável em embargos de declaração.
+5. Consoante entendimento do Superior Tribunal de Justiça, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater, um a um, todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre no caso.
+6. Embargos de declaração rejeitados.
+VOTO
+O art. 619 do Código de Processo Penal disciplina que "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão", tendo a jurisprudência os admitido, também, para sanar eventual erro material na decisão embargada.
+No caso, é inviável o acolhimento da pretensão recursal, uma vez que, conforme registrado no acórdão embargado, não estão presentes os requisitos para a incidência da causa especial de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Com efeito, consignou-se que, além da droga, foram apreendidos dinheiro, armas e munições, bem como que a atividade de traficância era exercida de forma estruturada, em concurso de pessoas e com divisão de tarefas, cabendo ao réu a função de cortar, embalar e armazenar os entorpecentes.
+Diante desse contexto, concluiu-se que tais circunstâncias demonstram a dedicação a atividades criminosas e, por conseguinte, obstam o reconhecimento do tráfico privilegiado.
+Sobre a suscitada ocorrência de reformatio in pejus, " c onforme entendimento desta Corte Superior de Justiça, é cabível ao Tribunal, em recurso de apelação exclusivo da defesa, acrescentar fundamentos relacionados àqueles já contidos na sentença condenatória para manter a reprimenda imposta, sem prejudicar o Réu" (AgRg no HC n. 839.848/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 4/3/2024, DJe de 7/3/2024).
+Assim, " n ão se verifica reformatio in pejus, pois o Tribunal local apenas suplementou e reforçou a fundamentação da sentença quanto ao afastamento do privilégio do tráfico, a partir de elementos probatórios já constantes e debatidos nos autos, sem agravar o quantum de pena imposto ao réu" (AgRg no HC n. 1.062.202/GO, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 29/4/2026, DJEN de 5/5/2026).
+Em complemento, " a  mera referência, em decisão de habeas corpus, a dados já constantes dos autos e considerados pela instância ordinária não caracteriza inovação de fundamentação nem viola o princípio da non reformatio in pejus" (AgRg nos EDcl no HC n. 1.052.628/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/5/2026, DJEN de 12/5/2026).
+Portanto, inexistindo vício a ser dissipado, a pretensão do recurso é de rediscussão dos fundamentos do acórdão, propósito inviável para o recurso em apreço, nada havendo que se possa acolher.
+Ainda, consoante entendimento do Superior Tribunal de Justiça, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater, um a um, todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido: AgRg no AREsp n. 2.372.869/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/3/2024, DJe de 22/3/2024; e EDcl no AgRg no RHC n. 170.844/PE, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, julgado em 9/4/2024, DJe de 12/4/2024.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
