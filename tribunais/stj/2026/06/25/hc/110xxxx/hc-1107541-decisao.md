@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de YASMIN VITÓRIA DE OLIVEIRA SILVA, contra ato do Tribunal de Justiça do Estado de Minas Gerais que denegou a ordem no Habeas Corpus Criminal n. 1.0000.26.188459-7/000 .
+Neste writ, a defesa sustenta a ausência de fundamentação concreta para a prisão preventiva, afirmando que o decreto prisional se baseou em anotações sem trânsito em julgado e na gravidade abstrata do delito para presumir risco de reiteração criminosa.
+Alega, ainda, a fragilidade dos elementos probatórios, a desproporcionalidade da custódia e a suficiência das medidas cautelares diversas da prisão, defendendo, por fim, que o art. 310, § 5º, do Código de Processo Penal não autoriza a decretação automática da medida extrema.
+Pede, em liminar, a revogação da prisão preventiva; e, no mérito, requer a concessão da ordem para soltura, subsidiariamente a substituição por medidas cautelares diversas - Autos n. 5005851-40.2026.8.13.0145, da 2ª Vara Criminal da comarca de Juiz de Fora/MG (fls. 2, 20).
+É o relatório.
+Infere-se dos autos que a paciente foi presa em flagrante ao tentar ingressar em unidade prisional portando 90,86g de maconha, substância identificada por body scanner e confirmada por laudo preliminar. Na audiência de custódia, homologou-se o flagrante e converteu-se a prisão em preventiva para garantia da ordem pública, com fundamento na quantidade de droga apreendida e nos registros constantes da CAC/FAC, que indicariam liberação anterior em audiência de custódia por fato semelhante, além da existência de inquérito policial em curso.
+A custódia cautelar foi mantida pelo Tribunal de Justiça, que reputou presentes os requisitos autorizadores da segregação preventiva.
+Pois bem, embora a quantidade de droga apreendida não seja elevada e a paciente ostente, tecnicamente, a condição de primária, a decisão impugnada não se amparou apenas nesses elementos. As instâncias ordinárias ressaltaram que a custodiada já havia sido beneficiada com a liberdade em audiência de custódia anterior, também relacionada à suposta prática de delito da mesma natureza, circunstância valorada como indicativa de risco concreto de reiteração criminosa e apta a justificar a preservação da ordem pública.
+Além disso, consta dos autos que, após a apreensão do entorpecente, a paciente teria adotado comportamento hostil em relação aos agentes responsáveis pela ocorrência. Conforme registrado, ao ser conduzida para atendimento administrativo, passou a proferir ofensas e ameaças contra policial penal, chegando, em tese, a avançar em sua direção com gesto indicativo de agressão física, o que exigiu intervenção para contê-la.
+Circunstâncias que amparam a legalidade da medida constritiva.
+Nesse sentido: AgRg no RHC n. 220.904/BA, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 11/2/2026, DJEN de 20/2/2026.
+Ante o exposto, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO EM FLAGRANTE HOMOLOGADA. CONVERSÃO EM PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. APREENSÃO DE 90,86G DE MACONHA. IDENTIFICAÇÃO POR BODY SCANNER. FUNDAMENTAÇÃO CONCRETA. RISCO DE REITERAÇÃO DELITIVA. LIBERDADE ANTERIOR EM AUDIÊNCIA DE CUSTÓDIA POR FATO SEMELHANTE. COMPORTAMENTO HOSTIL CONTRA POLICIAL PENAL. OFENSAS, AMEAÇAS E GESTO INDICATIVO DE AGRESSÃO. CIRCUNSTÂNCIAS QUE AMPARAM A LEGALIDADE DA SEGREGAÇÃO. MANUTENÇÃO DA PRISÃO PREVENTIVA PELO TRIBUNAL DE JUSTIÇA.
+Inicial indeferida liminarmente.
