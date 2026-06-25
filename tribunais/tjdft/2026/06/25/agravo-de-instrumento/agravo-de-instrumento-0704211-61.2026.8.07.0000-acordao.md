@@ -1,0 +1,147 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+3ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0704211-61.2026.8.07.0000AGRAVANTE(S)DISTRITO FEDERALAGRAVADO(S)CELIA MARIA PINTO DO NASCIMENTORelatorDesembargador LUÍS GUSTAVO B. DE OLIVEIRA
+ Acórdão Nº2143936
+
+EMENTA
+
+AGRAVO DE INSTRUMENTO. DIREITO CONSTITUCIONAL. CORREÇÃO MONETÁRIA. INCIDÊNCIA DE JUROS E SELIC. EC 113/21. POSSIBILIDADE. RECURSO CONHECIDO E DESPROVIDO.
+
+I. Caso em exame
+
+1. Trata-se de agravo de instrumento interposto contra decisão que rejeitou a impugnação ao cumprimento de sentença.
+
+II. Questão em discussão
+
+2. A questão em discussão consiste em verificar a possibilidade de incidência da taxa Selic sobre o montante da dívida atualizada com juros.
+
+III. Razões de decidir
+
+3. O constituinte derivado determinou a incidência da taxa SELIC acumulada mensalmente nos termos da Emenda Constitucional 113/2021 sobre o montante da dívida atualizada e com juros. Assim, trata-se de opção legislativa e de envergadura constitucional, não sujeita às limitações postas pela Lei da Usura.
+
+IV. Dispositivo e tese
+
+4. Recurso conhecido e desprovido.
+
+Tese de julgamento:
+
+A partir de dezembro de 2021, é possível a incidência da taxa Selic sobre o montante da dívida já atualizada e com juros.
+
+Dispositivos relevantes citados: Emenda Constitucional 113/2021.
+
+Jurisprudência relevante citada:
+
+Acórdão 1898369, 07073274620248070000, Relator(a): LUÍS GUSTAVO B. DE OLIVEIRA, Relator(a) Designado(a):ANA MARIA FERREIRA DA SILVA 3ª Turma Cível, data de julgamento: 25/7/2024, publicado no DJE: 20/8/2024. Pág.:  Sem Página Cadastrada.
+
+Acórdão 1898572, 07138662820248070000, Relator(a): MARIA DE LOURDES ABREU, 3ª Turma Cível, data de julgamento: 25/7/2024, publicado no DJE: 9/8/2024. Pág.:  Sem Página Cadastrada.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 3ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, LUÍS GUSTAVO B. DE OLIVEIRA - Relator, GISELLE ROCHA RAPOSO - 1º Vogal e MARILIA DE AVILA E SILVA SAMPAIO - 2º Vogal, sob a Presidência do Senhor Desembargador ROBERTO FREITAS FILHO, em proferir a seguinte decisão: CONHECER E NEGAR PROVIMENTO, UNÂNIME
+, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 03 de Julho de 2026
+
+Desembargador LUÍS GUSTAVO B. DE OLIVEIRARelator
+
+RELATÓRIO
+
+Trata-se de agravo de instrumento interposto pelo DISTRITO FEDERAL, em face à decisão da Terceira Vara da Fazenda Pública do Distrito Federal, que rejeitou impugnação ao cumprimento de sentença e fixou regra de transição para a correção da dívida fazendária a partir da vigência da Emenda Constitucional 113/2021.
+
+O juízo determinou que os cálculos da atualização monetária e dos juros de mora observassem o disposto no art. 22, §1º, da Resolução 303, do Conselho Nacional de Justiça e que, por sua vez, determina a incidência da taxa SELIC sobre o principal atualizado somado aos juros de mora a partir de 8 de dezembro de 2021, data em que entrou em vigor a Emenda Constitucional 113/2021.
+
+O DISRITO FEDERAL sustentou erro na fórmula de incidência da Taxa Selic a partir da Emenda Constitucional 113/21, ante a possibilidade de incidência de juros sobre juros (anatocismo).
+
+Propôs que, após o cálculo da atualização monetária e juros até novembro de 2021, o valor encontrado fosse mantido apartado, incidindo-se a SELIC tão somente sobre o crédito principal.
+
+Requereu o recebimento do recurso no efeito suspensivo e, ao final, o provimento para reformar a decisão e determinar a correção da dívida na forma proposta.
+
+Dispensado o preparo ante a prerrogativa institucional do ente público.
+
+O pedido liminar foi indeferido (ID. 80981147).
+
+Contrarrazões (ID. 81431906).
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador LUÍS GUSTAVO B. DE OLIVEIRA - Relator
+
+Presentes os pressupostos intrínsecos e extrínsecos de admissibilidade, conheço o recurso.
+
+Trata-se de agravo de instrumento interposto pelo DISTRITO FEDERAL, em face à decisão da Terceira Vara da Fazenda Pública do Distrito Federal, que rejeitou impugnação ao cumprimento de sentença e fixou regra de transição para a correção da dívida fazendária a partir da vigência da Emenda Constitucional 113/2021.
+
+Verifico não haver modificações substanciais nos argumentos jurídicos e nos fatos apresentados, quando apreciei o pedido liminar.
+
+A decisão objurgada foi proferida nos seguintes termos:
+
+“O Distrito Federal impugnou os cálculos da parte exequente, alegando anatocismo.
+
+O Tribunal de Justiça do Distrito Federal e dos Territórios vem afastando as teses de anatocismo pela incidência da taxa SELIC sobre o valor consolidado da dívida e de inconstitucionalidade da Resolução n. 303/2019 do Conselho Nacional de Justiça. Relativamente à tese de anatocismo, o Tribunal de Justiça do Distrito Federal e dos Territórios vem afastando as teses de anatocismo pela incidência da taxa SELIC sobre o valor consolidado da dívida. Nesse sentido, o seguinte precedente:
+
+(...)
+
+É cediço que o artigo 22 § 1º, da Resolução 303/2019 do Conselho Nacional de Justiça é objeto da Ação Direta de Inconstitucionalidade n. 7.435/RS, com pedido de medida cautelar. No entanto, não há notícia acerca da concessão de efeito suspensivo, de modo que não há como obstar o cumprimento de sentença por este fundamento. Além disso, a norma diz respeito à expedição, gestão e pagamento das requisições judiciais e não se vislumbra que suas disposições sejam contrárias à Emenda Constitucional 113/2021 ou que extrapola o intuito de regulamentar a operacionalização das requisições judiciais.
+
+Assim, REJEITO a impugnação do Distrito Federal.
+
+Expeça-se precatório em favor da parte exequente, conforme decisão ID 255709847.”
+
+Cinge-se a controvérsia na regra de transição fixada para a conversão do débito atualizado até novembro de 2021, para o novo regime de correção e juros inaugurado pela Emenda Constitucional n. 113/2021 e que determinou a correção dos débitos da Fazenda Pública pela SELIC.
+
+A nova regra de atualização dos débitos da Fazenda Pública está inserta no art. 3º, da Emenda Constitucional 113/2021:
+
+“Art. 3º Nas discussões e nas condenações que envolvam a Fazenda Pública, independentemente de sua natureza e para fins de atualização monetária, de remuneração do capital e de compensação da mora, inclusive do precatório, haverá a incidência, uma única vez, até o efetivo pagamento, do índice da taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic), acumulado mensalmente.
+
+No exercício de seu poder regulamentar dos trâmites administrativos no âmbito do Poder Judiciário, o Conselho Nacional de Justiça editou a Resolução n. 303, de 18 de dezembro de 2019, e que dispõe sobre a gestão dos precatórios e respectivos procedimentos operacionais, assim dispondo no art. 22, §1º, a respeito dos cálculos de atualização monetária e juros de mora:
+
+“§ 1º A partir de dezembro de 2021, a compensação da mora dar-se-á da forma discriminada no art. 20 desta Resolução, ocasião em que a taxa referencial do Sistema Especial de Liquidação e de Custódia – Selic incidirá sobre o valor consolidado, correspondente ao crédito principal atualizado monetariamente na forma do art. 22 desta Resolução até novembro de 2021 e aos juros de mora, observado o disposto nos §§ 5º e 6º do artigo anterior. (redação dada pela Resolução n. 482, de 19.12.2022)”
+
+O DISTRITO FEDERAL sustentou que o juízo teria incorrido em erro ao determinar a incidência do dispositivo regulamentar e, consequentemente, da taxa SELIC sobre o saldo acumulado de juros e correção monetária calculados até novembro de 2021, o que constituiria em juros compostos (juros sobre juros) e correção monetária também calculada sobre correção monetária.
+
+Ocorre que a proposta do recorrente seria o cálculo dos juros e correção monetária até novembro de 2021, devendo o valor encontrado constituir um crédito à parte e isento de correção e juros até a data do pagamento.
+
+A proposta não se coaduna com o texto constitucional, posto que o próprio constituinte derivado determinou a incidência da taxa SELIC acumulada mensalmente.
+
+Assim, trata-se de opção legislativa e de envergadura constitucional, não sujeita às limitações postas pela Lei da Usura.
+
+Nesse sentido, já decidiu o colegiado:
+
+“AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. SUSPENSÃO. TEMA 1170 DO STF. TEMA 1169 DO STJ. CRITÉRIOS PARA CÁLCULO DA CORREÇÃO MONETÁRIA. IPCA-E. EC 113/2021. TAXA SELIC. AGRAVO CONHECIDO E PARCIALMENTE PROVIDO.
+
+1. (...)
+
+2. (...)
+
+3. Na hipótese, portanto, em substituição à Taxa Referencial, deve ser aplicado o IPCA-E como índice de correção monetária para os cálculos do valor da condenação estabelecido no título exequendo, sem deixar de destacar que a Emenda Constitucional n. 113, de 8 de dezembro de 2021, alterou o regime jurídico dos juros e da correção monetária nos casos que envolvem a Fazenda Pública,
+
+4. Nos termos do mencionado art.3º da EC n. 113/2021, a partir de 09/12/2021, aplica-se a SELIC uma única vez até o efetivo pagamento, vedada a cumulação com qualquer outro índice, dado que o fator já engloba juros e correção monetária. Entretanto, a taxa SELIC deve incidir sobre o valor apurado com a correção monetária e os juros incidentes até aquela data, porque a nova norma constitucional não alcança períodos aquisitivos anteriores à sua entrada em vigor (eficácia retroativa mínima).
+
+5. AGRAVO CONHECIDO E PARCIALMENTE PROVIDO.
+
+(Acórdão 1898369, 07073274620248070000, Relator(a): LUÍS GUSTAVO B. DE OLIVEIRA, , Relator(a) Designado(a):ANA MARIA FERREIRA DA SILVA 3ª Turma Cível, data de julgamento: 25/7/2024, publicado no DJE: 20/8/2024. Pág.:  Sem Página Cadastrada.)”
+
+“AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. PROCESSO CIVIL. CUMPRIMENTO DE SENTENÇA COLETIVA CONTRA A FAZENDA PÚBLICA. AÇÃO COLETIVA N. 32.159/97. ATUALIZAÇÃO MONETÁRIA. INCIDÊNCIA DA TAXA SELIC (EC 113/2021). BASE DE CÁLCULO. VALOR CONSOLIDADO. COBRANÇA DE JUROS SOBRE JUROS. ANATOCISMO. INEXISTÊNCIA.
+
+1. É acertada a determinação de incidência, tão somente, da SELIC a partir de dezembro de 2021 sobre o valor do débito exequendo consolidado até o mês anterior, novembro de 2021, com o somatório do quantum original devido com a correção monetária e juros legais até então incidentes.
+
+2. O Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal estabelece que, para atualização da conta do precatório não tributário pela taxa SELIC a partir de dezembro/2021, deve ocorrer a incidência da referida taxa sobre o valor consolidado da dívida até novembro/2021, assim considerado o montante principal corrigido monetariamente acrescido de juros moratórios, não havendo se falar em cobrança de juros sobre juros (anatocismo).
+
+3. Recurso conhecido e desprovido.
+
+(Acórdão 1898572, 07138662820248070000, Relator(a): MARIA DE LOURDES ABREU,  3ª Turma Cível, data de julgamento: 25/7/2024, publicado no DJE: 9/8/2024. Pág.:  Sem Página Cadastrada.)”
+
+Portanto, a decisão agravada não merece reproche.
+
+Ante o exposto, CONHEÇO E NEGO PROVIMENTO AO RECURSO.
+
+É como voto.
+
+A Senhora Desembargadora GISELLE ROCHA RAPOSO - 1º Vogal Com o(a) relator(a)A Senhora Desembargadora MARILIA DE AVILA E SILVA SAMPAIO - 2º Vogal Com o(a) relator(a)
+
+DECISÃO
+
+CONHECER E NEGAR PROVIMENTO, UNÂNIME
