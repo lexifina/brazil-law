@@ -1,0 +1,20 @@
+DECISÃO
+JOSUE JONAS RODRIGUES DA SILVA opõe embargos de declaração à decisão de fls. 21-23.
+A defesa sustenta omissão e contradição no julgado, por entender aplicável o indulto do Decreto n. 11.302/2022 ao paciente. Explica que o ato presidencial abrange crimes praticados antes de sua edição e que a decisão embargada teria criado requisito temporal não previsto pelo Presidente da República.
+Sustenta que os precedentes desta Corte não se aplicariam ao caso concreto e invoca a competência privativa do Chefe do executivo para estabelecer os requisitos do indulto, nos termos do art. 84, XII, da Constituição Federal.
+Requer, ao final, o acolhimento dos embargos de declaração, com atribuição de efeitos infringentes.
+Decido.
+Os aclaratórios destinam-se a sanar ambiguidade, obscuridade, contradição ou omissão do julgado. Não constituem via adequada para novo julgamento da causa apenas porque a parte não se conforma com o resultado que lhe foi desfavorável.
+A decisão embargada, de forma expressa, consignou que o paciente não pode ser beneficiado com o Decreto Presidencial n. 11.302/2022, porque, em 31/12/2022, ele não se enquadrava no critério exigido pelo Presidente da República.
+O indulto não se confunde com lei penal mais benéfica. Trata-se de ato de clemência, editado no exercício da competência privativa prevista no art. 84, XII, da Constituição Federal. Cada decreto presidencial tem disciplina própria, delimitada pelas razões político-criminais, humanitárias ou de política penitenciária ponderadas pelo Chefe do Poder Executivo no momento da edição do ato normativo.
+Daí decorre que o Presidente da República pode, em determinado ano, estabelecer critérios mais amplos de indulgência e, em ano posterior, eleger requisitos diversos, mais restritivos ou mais abrangentes. Não há falar em retroatividade de um decreto sobre situações que não se enquadravam em seu âmbito temporal de incidência.
+O indulto não se projeta sobre condenações futuras; deve ser examinado à luz das condições expressamente fixadas no próprio ato presidencial, consideradas no marco temporal por ele estabelecido.
+No Decreto n. 11.302/2022, o Presidente da República resolveu conceder o indulto a pessoas condenadas que, até 25/12/2022, satisfizessem os requisitos nele previstos. O art. 9º, I, estabeleceu que também estavam abrangidas pelo perdão as condenações transitadas em julgado para o Ministério Público, na pendência de recurso defensivo.
+Essa regra não se aplica ao paciente, pois, em 25/12/2022, não havia contra ele condenação transitada em julgado, nem sequer para o órgão acusatório. Apesar das alegações do regimental, o próprio Presidente da República concedeu o indulto, expressamente, "às pessoas condenadas" (art. 5º) que, até 25/12/2022, registravam sentença que, ao menos, "tenha transitado em julgado para a acusação".
+O texto do ato normativo é claro e não alcança pessoas investigadas ou processadas por crimes praticados antes da data de referência.
+Em relação ao embargante, houve condenação com trânsito em julgado para a acusação, em 22/11/2024 e, para a defesa, em 13/5/2025. Assim, o fato de o delito haver sido praticado em 31/8/2022 não basta para atrair a incidência do Decreto n. 11.302/2022 e admitir o contrário significaria substituir a escolha polícito-criminal feita pelo Chefe do Poder Executivo.
+Não há contradição interna a ser sanada, uma vez que os fundamentos assinalados são compatíveis com a denegação da ordem. Ademais, são pertinentes ao caso os precedentes desta Corte que registram a inaplicabilidade do Decreto n. 11.302/2022 quando o trânsito em julgado da condenação ocorreu após a data de referência estabelecida no ato normativo.
+O que a defesa qualifica como omissão ou contradição corresponde, na verdade, a mero inconformismo com a denegação da ordem. Todavia, os aclaratórios não se prestam a substituir a conclusão desfavorável por outra mais conveniente à parte, quando ausentes os vícios do art. 619 do CPP.
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
