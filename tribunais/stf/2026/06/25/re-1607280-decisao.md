@@ -1,0 +1,103 @@
+DECISÃO
+
+RECURSOS EXTRAORDINÁRIOS. DIREITO CONSTITUCIONAL. AÇÃO CIVIL PÚBLICA. RESSARCIMENTO AO ERÁRIO. FATOS ANTERIORES À VIGÊNCIA DA LEI Nº 8.429/1992. PRESCRITIBILIDADE. TEMAS RG Nº 666, Nº 897 E Nº 899. OBRIGATORIEDADE DE LICITAÇÃO. ALEGADA DISPENSA. REEXAME DE MATÉRIA FÁTICA E LEGISLAÇÃO INFRACONSTITUCIONAL. DESCABIMENTO EM SEDE EXTRAORDINÁRIA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO. TEMA RG Nº 339. RECURSOS PARCIALMENTE PROVIDOS.
+
+1. Trata-se de três recursos extraordinários, interpostos por (i) Maria Luiza Bierrenbach Lima e outros; (ii) Arnaldo Jacó Goldman; e (iii) Umberto Cidade Semeghini (e-docs. 64, 69 e 83), contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+
+“AÇÃO CIVIL PÚBLICA — Ressarcimento do erário — Contratação pela SABESP da empresa COPLASA para prestação de serviços de consultoria, com dispensa de licitação — Apurada ilegalidade na contratação sem licitação, ante a falta de motivação que a justificasse, bem como adoção de valores superfaturados, em prejuízo do erário. Imprescritibilidade da ação de ressarcimento, art. 37, §5º da CF, assim como do pedido que possui natureza tão somente declaratória de nulidade do contrato — Pedido que busca apenas a certeza jurídica, que nada impõe, cria ou modifica no mundo jurídico. Caráter competitivo da licitação frustrado — Comprovado prejuízo ao erário — Condutas dos réus violadoras dos princípios que regem a administração pública — Dever de ressarcimento ao cofre lesado no valor total do contrato — Sentença reformada e recurso parcialmente provido.” (e-doc. 33, p. 2).
+
+2. Opostos quatro embargos de declaração em face desse acórdão, foram todos rejeitados (e-docs. 37, 39, 41, 43 e 46). Opostos segundos embargos de declaração por Umberto Cidade Semeghini, foram rejeitados (e-docs. 56 e 73).
+
+3. No recurso extraordinário interposto por Maria Luiza Bierrenbach Lima e outros, os recorrentes apontam violação ao art. 37, § 5º, da Constituição da República. Afirmam estar descaracterizado ato de improbidade e que não se constata a ocorrência de dano concreto aos cofres públicos. Alegam que, “se a prescrição se aplica às hipóteses de dano resultante de ilícito civil que não tipificado como ato de improbidade, tal como é a hipótese dos autos, com muito mais razão prescrevem as ações em que nem mesmo o dano concreto está caracterizado, fato que igualmente se constata no caso em exame” (e-doc. 64).
+
+4. No recurso extraordinário interposto por Arnaldo Goldman, o recorrente aponta violação ao inciso XXI do caput e § 5º do art. 37 da Constituição da República. Alega que “cuida-se de Ação Civil Pública, sem pedido de condenação dos réus por suposta improbidade administrativa. Nesses casos, há portanto mera ação de reparação de dano por suposto ato ilícito”. Complementa que, “em se tratando de ações de ressarcimento ao erário por ilícito civil, não há falar em imprescritibilidade”. Requer “que se reconheça a inaplicabilidade do art. 37, XXI, da Constituição, dada a exceção regulada peio Decreto-Lei 2.300/86” (e-doc. 69).
+
+5. No recurso extraordinário interposto por Umberto Semeghini, o recorrente aponta violação aos arts. 37, § 5º, e 93, inc. IX, da Constituição da República. Afirma que a “imprescritibilidade da ação que vise ao ressarcimento de danos supostamente causados ao erário público importaria, assim em evidente violação ao Princípio da Segurança Jurídica”. Alega que não foi devidamente fundamentada a decisão de responsabilização pelo suposto superfaturamento decorrido da contratação objeto da lide (e-doc. 83).
+
+6. Nas contrarrazões, a parte recorrida alega que os recorrentes não demonstraram repercussão geral da matéria. Argumenta que incidem os óbices dos enunciados nº 284 e nº 287 aos recursos. Sustenta, no mérito, o acerto da decisão recorrida (e-docs. 90, 94 e 95 ).
+
+7. Os recursos extraordinários foram sobrestados pelo Tribunal de origem até o pronunciamento deste Supremo Tribunal Federal no julgamento do Tema RG nº 897 (e-doc. 98).
+
+8. Após o julgamento do mencionado tema, foram proferidas decisões de negativa de seguimento e de inadmissão dos recursos extraordinários (e-docs. 104, 105 e 106). Contra essas decisões, foram opostos embargos de declaração (e-doc. 112), os quais foram acolhidos, com efeitos infringentes, para desconstituí-las (e-doc. 133).
+
+9. Devolvidos os autos ao Colegiado de origem para reapreciação da questão em razão do julgamento do Tema RG nº 666 (e-doc. 132), foi mantido o acórdão ao fundamento de que “restringe-se a tese fixada aos ilícitos de natureza civil aos quais não se subsume o ilícito em apreço nos autos”, por se tratar de ilícito de ordem administrativa (e-doc. 139).
+
+10. Opostos embargos de declaração em face dessa decisão (e-docs. 143 e 145), foram rejeitados (e-doc. 151).
+
+11. Em nova análise, o Tribunal de origem admitiu os três recursos extraordinários (e-docs. 167, 168 e 177).
+
+É o relatório.
+
+Decido.
+
+Em razão das semelhanças entre as teses apresentadas, serão analisados conjuntamente os três recursos extraordinários.
+
+12. Segundo consta do acórdão proferido pela Corte estadual, os recorrentes foram condenados a ressarcir os prejuízos causados ao erário em decorrência de contratação realizada pela Sabesp no ano de 1989, com previsão de três ordens de serviço, firmadas em 1989, 1990 e 1991.
+
+13. Alegada a ocorrência de prescrição, esta foi afastada pela Corte de origem, sob o fundamento de que, “em se tratando de ressarcimento do prejuízo causado ao erário público, a regra infraconstitucional da prescrição quinquenal não pode se sobrepor à regra do art. 37, §5º, da Constituição Federal, que confere imprescritibilidade à pretensão” (e-doc. 33, p. 9).
+
+14. Posto isso, merece reforma o acórdão, por estar em sentido contrário ao definido pelo Supremo Tribunal acerca do disposto no art. 37, § 5º, da Constituição da República.
+
+15. O caso dos autos destaca-se por envolver fatos anteriores à edição da Lei de Improbidade Administrativa (Lei nº 8.429, de 1992), que sobreveio em complemento à Constituição da República para satisfazer a modalidade de responsabilização do art. 37, § 4º, em acréscimo às esferas penal, civil e administrativa.
+
+16. Feita essa observação, foi sedimentado nesta Suprema Corte, quanto ao disposto no § 5º do art. 37 da Constituição da República, que a regra é a prescritibilidade e a exceção, a imprescritibilidade, de modo que sua interpretação deve ser restritiva. Não ao acaso à lei são determinados “prazo de prescrição para ilícitos praticados por qualquer agente (...) que causem prejuízos ao erário”.
+
+17. Em exame conjunto dos §§ 4º e 5º do art. 37, o Supremo Tribunal Federal aportou no plano da improbidade administrativa a exceção contida na parte final do § 5º para chancelar a tese de que “são imprescritíveis as ações de ressarcimento ao erário fundadas na prática de ato doloso tipificado na Lei de Improbidade Administrativa” (RE nº 852.475-RG/SP, Tema RG nº 897, Rel. Min. Alexandre de Moraes, Red. p/ Ac. Min. Edson Fachin, j. 08/08/2018, p. 25/03/2019).
+
+18. Desta feita, quanto aos fatos ocorridos em momento anterior à promulgação da Lei nº 8.429, de 1992, não cabe dizer que estariam tipificados como improbidade administrativa e, por conseguinte, que a imprescritibilidade os alcançaria. É o que se extrai do voto do e. Ministro Alexandre de Moraes no julgamento do referido RE nº 852.475-RG/SP:
+
+“Em outras palavras, com a promulgação da Constituição Federal de 1988, que ampliou a possibilidade de sanções por atos de improbidade administrativa, e em respeito aos princípios da reserva legal e da anterioridade, passou-se a exigir a edição de lei específica para tipificar as condutas correspondentes a atos de improbidade administrativa. Nesse momento, houve o justo receio do legislador constituinte quanto à ocorrência de interpretações que passassem a impossibilitar ações de ressarcimento ao erário pela prática de atos ilícitos tradicionalmente entendidos como improbidade administrativa, desde a década de 1940, mas ainda não tipificados pela nova legislação, que somente foi editada em 1992.
+A ressalva prevista no § 5º do art. 37 da CF não pretendeu estabelecer uma exceção implícita de imprescritibilidade, mas obrigar constitucionalmente a recepção das normas legais definidoras dos instrumentos processuais e dos prazos prescricionais para as ações de ressarcimento do erário, inclusive referentes a condutas ímprobas, mesmo antes da tipificação legal de elementares do denominado “ato de improbidade” (Decreto 20.910/1932, Lei 3.164/1957, Lei 3.502/1958, Lei 4.717/1965, Lei 7.347/1985, Decreto-Lei 2.300/1986); mantendo, dessa maneira, até a edição da futura lei e para todos os atos pretéritos, a ampla possibilidade de ajuizamentos de ações de ressarcimento.
+Essa previsão foi importante, pois, em que pese o combate específico à improbidade administrativa, no campo civil, ter sido iniciado na década de 1940, somente com a Constituição de 1988 foi estabelecida a exigência de edição de lei que tipificasse o denominado “ato de improbidade administrativa”, possibilitando, além do ressarcimento ao erário, a aplicação de graves sanções como a suspensão de direitos políticos, a perda do cargo ou função e a indisponibilidade de bens.
+O Decreto-Lei Federal 3.240, de 8 de maio de 1941, previa, somente, o sequestro e a perda dos bens de autores de crimes que resultaram prejuízo para a Fazenda Pública, desde que resultasse locupletamento ilícito, e subsidiariamente a reparação civil do dano e a incorporação ao patrimônio público de bens de aquisição ilegítima de pessoa que exercesse ou tivesse exercido função pública.
+(...)
+A Constituição Federal de 1988, portanto, foi mais além do que simplesmente prever o perdimento de bens e reparação de dano civil, pois em seu art. 37, § 4°, determinou que os atos de improbidade administrativa passariam a importar a suspensão dos direitos políticos, a perda da função pública, a indisponibilidade dos bens e o ressarcimento ao erário, na forma e gradação previstas em lei, sem prejuízo da ação penal cabível.
+Porém, por ser norma constitucional de eficácia limitada, o § 4º somente seria aplicado a partir da edição da legislação específica correspondente, o que poderia acarretar um vácuo jurídico em relação ao ressarcimento ao erário nas hipóteses de enriquecimento ilícito, por influência ou com abuso de cargo ou função pública que a legislação já admitia e que, certa e futuramente, seriam definidas como atos de improbidade administrativa. Em relação a essas hipóteses, o § 5º solucionou a questão da recepção, permitindo a continuidade das ações de ressarcimento ao erário nos prazos prescricionais já existentes, até a edição da lei específica (Lei 8.429/1992), que, inclusive, poderia nunca ter sido editada.
+Portanto, a ressalva do § 5º do art. 37 permitiu a recepção dos prazos prescricionais existentes para as ações de ressarcimento decorrentes de graves condutas de enriquecimento ilícito, por influência ou com abuso de cargo ou função pública pela legislação então em vigor, até que fosse editada a lei específica exigida pelo §4º do mesmo artigo; não tendo, portanto, estabelecido qualquer hipótese implícita de imprescritibilidade.
+(...)
+Atendendo ao mandamento constitucional e em respeito aos princípios da reserva legal, anterioridade, segurança jurídica e ao preceito jurídico universal de limitação de prazo de exercício de pretensões em juízo, em especial aquelas com conteúdo sancionatório, a Lei 8.429/1992 tipificou os denominados “atos de improbidade administrativa”, estabeleceu a forma e gradação na aplicação das sanções e o prazo prescricional para o ajuizamento da respectiva ação.
+A edição da Lei 8.429/1992 concedeu eficácia plena ao § 4º do art. 37 da Constituição, norma especificamente dirigida à responsabilização pela prática de atos de improbidade, deixando, portanto, de ser necessária a aplicação do § 5º do mesmo art. 37 para os atos de improbidade praticados após a edição da referida lei.
+(...)
+Por fim, importante salientar que, em relação aos atos ilícitos atentatórios à probidade da administração pública, mas anteriores à Lei 8.429/1992, as ações de ressarcimento serão regidas pelas leis específicas, devendo ser aplicados os prazos prescricionais dos demais atos ilícitos, na forma como decidido em Repercussão Geral no RE 669.069 (Rel. Min. TEORI ZAVASCKI).
+(...)
+Quanto aos ilícitos civis praticados antes da edição da Lei 8.429/1992, não há possibilidade de responsabilização dos agentes públicos por improbidade administrativa, nos termos do § 4º do art. 37. Consequentemente, não será possível a aplicação das sanções legais estabelecidas no art. 12 da referida lei, em virtude da necessidade de prévia previsão legal das condutas ilícitas, sob pena de ferimento aos princípios da reserva legal e anterioridade (FERNANDES, Flávio Sátiro. Improbidade administrativa. Revista de Informação Legislativa, Brasília: Senado Federal, ano 34, n. 136, out.-dez. 1997, p. 101; FIGUEIREDO, Marcelo. Responsabilidade por atos de improbidade. Cadernos de Direito Constitucional e Ciência Política, São Paulo: RT, ano 5, n. 19, abr.-jun. 1997, p. 123; OLIVEIRA, Régis Fernandes de. Moralidade e impessoalidade administrativa. RT 766/107; MELLO, Cláudio Ari. Improbidade administrativa: considerações sobre a Lei 8.429/92. Revista do Ministério Público do Estado do Rio Grande do Sul, Porto Alegre: RT, n. 36, 1995, p. 176).
+Dessa forma, os agentes públicos e terceiros somente poderão ser responsabilizados, nos termos do § 4º do artigo 37 da Constituição Federal, pelo cometimento de atos de improbidade posteriores à edição da Lei 8.429/1992, sendo vedada a aplicação do referido diploma legal retroativamente, como aponta IVES GANDRA DA SILVA MARTINS: (...).”
+(RE nº 852.475-RG/SP, Rel. Min. Alexandre de Moraes, Red. Min. Edson Fachin, Tribunal Pleno, j. 08/08/2018, p. 25/03/2019).
+
+19.  Em reforço a esse entendimento, o STF consignou que, além da responsabilização superveniente por improbidade administrativa, a regra da prescrição aplica-se aos demais ilícitos, sejam eles penais ou civis. No Tema RG nº 666, estabeleceu-se que “é prescritível a ação de reparação de danos à Fazenda Pública decorrente de ilícito civil” (RE nº 669.069-RG/MG, Rel. Min. Teori Zavascki, j. 03/02/2016, p. 28/04/2016).
+
+20. Mais recentemente, essa interpretação foi expressamente consolidada pelo Pretório Excelso, no julgamento do Tema nº 899 do ementário da Repercussão Geral, atinente à prescritibilidade da pretensão de ressarcimento ao erário fundada em decisão de Tribunal de Contas. Faz-se oportuno o destaque:
+
+“CONSTITUCIONAL E ADMINISTRATIVO. REPERCUSSÃO GERAL. EXECUÇÃO FUNDADA EM ACÓRDÃO PROFERIDO PELO TRIBUNAL DE CONTAS DA UNIÃO. PRETENSÃO DE RESSARCIMENTO AO ERÁRIO. ART. 37, § 5º, DA CONSTITUIÇÃO FEDERAL. PRESCRITIBILIDADE.
+1. A regra de prescritibilidade no Direito brasileiro é exigência dos princípios da segurança jurídica e do devido processo legal, o qual, em seu sentido material, deve garantir efetiva e real proteção contra o exercício do arbítrio, com a imposição de restrições substanciais ao poder do Estado em relação à liberdade e à propriedade individuais, entre as quais a impossibilidade de permanência infinita do poder persecutório do Estado.
+2. Analisando detalhadamente o tema da ‘prescritibilidade de ações de ressarcimento’, este SUPREMO TRIBUNAL FEDERAL concluiu que, somente são imprescritíveis as ações de ressarcimento ao erário fundadas na prática de ato de improbidade administrativa doloso tipificado na Lei de Improbidade Administrativa – Lei 8.429/1992 (TEMA 897). Em relação a todos os demais atos ilícitos, inclusive àqueles atentatórios à probidade da administração não dolosos e aos anteriores à edição da Lei 8.429/1992, aplica-se o TEMA 666, sendo prescritível a ação de reparação de danos à Fazenda Pública.
+3. A excepcionalidade reconhecida pela maioria do SUPREMO TRIBUNAL FEDERAL no TEMA 897, portanto, não se encontra presente no caso em análise, uma vez que, no processo de tomada de contas, o TCU não julga pessoas, não perquirindo a existência de dolo decorrente de ato de improbidade administrativa, mas, especificamente, realiza o julgamento técnico das contas à partir da reunião dos elementos objeto da fiscalização e apurada a ocorrência de irregularidade de que resulte dano ao erário, proferindo o acórdão em que se imputa o débito ao responsável, para fins de se obter o respectivo ressarcimento.
+4. A pretensão de ressarcimento ao erário em face de agentes públicos reconhecida em acórdão de Tribunal de Contas prescreve na forma da Lei 6.830/1980 (Lei de Execução Fiscal).
+5. Recurso Extraordinário DESPROVIDO, mantendo-se a extinção do processo pelo reconhecimento da prescrição. Fixação da seguinte tese para o TEMA 899: ‘É prescritível a pretensão de ressarcimento ao erário fundada em decisão de Tribunal de Contas’.”
+(RE nº 636.886-RG/AL, Tema RG nº 899, Rel. Min. Alexandre de Moraes, Tribunal Pleno, j. 20/04/2020, p. 24/06/2020; destaques acrescidos).
+
+21. Os presentes autos, conforme já apontado, envolvem fatos anteriores à Lei de Improbidade Administrativa e, portanto, a pretensão ora debatida é prescritível.
+
+22. Por outro lado, descabida a pronta definição acerca da ocorrência da prescrição no presente caso, como requerido pelos recorrentes, uma vez que está além dos limites da cognição de recursos extraordinários firmar qual seria o prazo prescricional aplicável à espécie, por se tratar de questão de índole infraconstitucional, cuja análise deve ser realizada pela Corte de origem.
+
+Passo a tratar das alegações de relacionadas aos arts. 37, inc. XXI, e 93, inc. IX, da Constituição da República.
+
+23. O art. 37, inc. XXI, é mencionado no acórdão para evidenciar a “regra de obrigatoriedade da licitação e só por exceção admite que a lei defina os casos em que ela poderá ser afastada” (e-doc. 33, p. 14).
+
+24. Acolher a alegação veiculada no recurso extraordinário — no sentido de que a contratação ocorreu em conformidade com exceção prevista em lei — demanda o exame de matéria infraconstitucional, como reconhece a própria parte recorrente, bem como a reanálise do conjunto fático-probatório dos autos, providência inviável em sede extraordinária, nos termos da Súmula nº 279 do STF.
+
+25. Tampouco merece acolhimento a alegada violação ao art. 93, inc. IX, uma vez que o acórdão foi efetivamente fundamentado. Nesse ponto, destaco que o Supremo Tribunal Federal, no julgamento do AI nº 791.292-QO-RG/PE, Tema nº 339 do ementário da Repercussão Geral, concluiu pela seguinte tese: “o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas”.
+
+26. Para a espécie, inclusive, é válido registrar a advertência de que, em casos de apresentação de medida recursal manifestamente inadmissível ou improcedente, o Supremo Tribunal Federal entende pela possibilidade de aplicação de multa, nos termos do art. 1.021, § 4º, do CPC (ARE nº 1.321.696-ED-AgR/MG, de minha relatoria, Segunda Turma, j. 06/06/2022, p. 29/06/2022; ARE nº 1.107.805-AgR/SP, Rel. Min. Roberto Barroso, Primeira Turma, j. 13/12/2019, p. 03/02/2020; Rcl nº 45.289-AgR/DF, Rel. Min. Dias Toffoli, j. 04/10/2021, j. 30/11/2021; Rcl nº 24.841-ED-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma, j. 20/04/2017, p. 11/05/2017; MS nº 37.637-AgR/DF, Rel. Min. Roberto Barroso, Tribunal Pleno, j. 17/05/2021, p. 16/06/2021; e MS nº 35.272-AgR-segundo/DF, Rel. Min. Edson Fachin, Segunda Turma, j. 16/06/2020, p. 08/10/2020).
+
+27. Para além, consigno ainda que a apresentação de embargos de declaração com intuito protelatório assoberba ilegitimamente a justiça, prejudicando a mais célere e efetiva prestação jurisdicional. A eventual insistência na apresentação de recursos protelatórios acarreta a possibilidade e, até mesmo, a obrigação da magistratura em fazer incidir a multa processual prevista no art. 1.026, §§ 2º a 4º, do CPC.
+
+28. Ante o exposto, com fundamento no art. 21, § 1º, do RISTF, dou parcial provimento aos recursos extraordinários interpostos por (i) Maria Luiza Bierrenbach Lima e outros; (ii) Arnaldo Jaco Goldman; e (iii) Umberto Cidade Semeghini, para determinar ao Tribunal de Justiça do Estado de São Paulo que realize novo julgamento a partir do estabelecido nesta decisão, aplicando ao caso a tese firmada no julgamento do Tema nº 666 do ementário da Repercussão Geral.
+
+28.1. Sem fixação de verba honorária, tendo em vista tratar-se de ação civil pública, nos termos do art. 18 da Lei nº 7.347, de 1985.
+
+Publique-se.
+
+Brasília, 25 de junho de 2026.
+Ministro ANDRÉ MENDONÇA
+Relator
