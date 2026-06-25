@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de CARLOS BONFIM LOPES DA SILVA - preso preventivamente desde 19/2/2025 -, em que a defesa aponta como órgão coator o Tribunal de Justiça do Estado do Tocantins, que negou provimento ao agravo interno, mantendo o não conhecimento do HC n. 0005871-27.2026.8.27.2700/TO (fls. 8/10).
+O impetrante alega, em síntese, a ocorrência de excesso de prazo na formação da culpa, com paralisação da instrução por cerca de 480 dias, por motivos exclusivamente imputáveis ao aparelho estatal - cancelamentos administrativos, sobrecarga de pauta e instabilidades técnicas do sistema SIVAT -, afirmando a violação do princípio da razoável duração do processo e perda do caráter cautelar da prisão.
+O impetrante pretende a superação do óbice da supressão de instância diante de flagrante ilegalidade, apontando negativa de prestação jurisdicional do Tribunal de origem ao não apreciar o mérito do constrangimento à liberdade, apesar do risco iminente decorrente da longa custódia preventiva.
+Em caráter liminar, pede o relaxamento da prisão preventiva, com expedição de alvará de soltura, com ou sem aplicação de medidas cautelares diversas; subsidiariamente, a suspensão dos efeitos do acórdão coator e ordem para que o Tribunal de Justiça do Estado do Tocantins afaste o óbice da supressão de instância e julgue imediatamente o mérito, nos termos do art. 647-A do Código de Processo Penal.
+No mérito, requer a concessão definitiva da ordem para relaxar a prisão por excesso de prazo imputável ao Estado; sucessivamente, que se determine ao Tribunal de origem a superação do óbice formal e o julgamento do writ de origem.
+É o relatório.
+Sob pena de indevida e dupla supressão de instância, o presente writ não pode ser conhecido, pois o Tribunal de origem não se debruçou sobre a efetiva ocorrência de excesso de prazo.
+Ora, a alegação de excesso de prazo na formação da culpa não pode ser apreciada diretamente pela Corte Superior quando ausente prévio enfrentamento da matéria pelo Tribunal de origem, sob pena de indevida supressão de instância e violação ao duplo grau de jurisdição (AgRg no HC n. 1.064.591/RS, Ministra Maria Marluce Caldas, Quinta Turma, DJEN 18/6/2026).
+Com efeito, quanto ao alegado excesso de prazo para a formação da culpa, destaca-se que o Tribunal de origem não a examinou, circunstância que inviabiliza o exame da questão pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância. 8. Não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise pelo Superior Tribunal de Justiça, sob a priori pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC n. 126.604/MT, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/12/2020, DJe de 16/12/2020) - (AgRg no RHC n. 216.824/CE, Ministro Og Fernandes, Sexta Turma, DJEN 1/9/2025 - grifo nosso).
+No mesmo sentido, confira-se, ainda: AgRg no HC n. 1.085.046/ES, Ministro Ribeiro Dantas, Quinta Turma, DJEN 19/6/2026.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. DUPLA SUPRESSÃO DE INSTÂNCIA.
+Writ não conhecido.
