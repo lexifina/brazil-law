@@ -1,0 +1,40 @@
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de Alderoni Rodrigues Pedroso de Melo contra decisão monocrática de Ministro do Superior Tribunal de Justiça que indeferiu liminarmente o HC 1.092.145/MT, nos seguintes termos:
+
+Cuida-se de Habeas Corpus impetrado em favor de ALDERONI RODRIGUES PEDROSO DE MELO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO (Habeas Corpus n. 1014668-68.2026.8.11.0000).
+Consta dos autos que o paciente foi condenado à pena unificada de 19 (dezenove) anos, 11 (onze) meses e 10 (dez) dias de reclusão, em regime fechado, pela prática dos delitos capitulados nos arts. 121, § 2º, do Código Penal, referente a homicídio qualificado, cometido em 18/04/2015, e 157, § 2º, do Código Penal, referente a roubo majorado, cometido em 08/06/2021, tendo sido fixada a data-base para progressão em 08/06/2021, com aplicação da fração de 3/5 para ambos os crimes.
+Alega o impetrante a ocorrência de constrangimento ilegal decorrente da decisão monocrática que indeferiu a petição inicial do writ impetrado na origem.
+Em suas razões, sustenta que a fração de 3/5 aplicada à progressão de regime no crime hediondo é indevida e produz efeitos retroativos mais gravosos, devendo ser substituída por 2/5, com observância da legislação vigente ao tempo do fato e da condição de reincidência não específica, além da necessidade de aplicação da interpretação mais benéfica diante de lacuna normativa.
+Alega que houve cerceamento do direito de defesa e negativa de prestação jurisdicional, pois o juízo da execução rejeitou o agravo sob o fundamento de tratar-se de “despacho de expediente”, e o tribunal de origem indeferiu liminarmente o habeas corpus, o que impede a análise de ilegalidade manifesta relacionada ao cálculo de progressão.
+Requer, liminarmente, a suspensão dos efeitos da decisão que fixou a fração de 3/5 e o recálculo para 2/5. E, no mérito, a concessão da ordem para aplicação da fração de 2/5 ao crime hediondo, com determinação do benefício executório correspondente.
+É o relatório.
+Decido.
+O writ não merece prosperar.
+A decisão combatida foi proferida monocraticamente pelo Desembargador relator na origem, não havendo, pois, deliberação colegiada do Tribunal a quo sobre a matéria trazida na presente impetração, o que inviabiliza o seu conhecimento por esta Corte Superior devido à ausência de exaurimento de instância. Nesse sentido, confiram-se os seguintes julgados: [...].
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus. (doc. 8 – grifei).
+
+Neste writ, o imperante requer:
+
+a) A concessão de medida liminar, inaudita altera pars, superando-se o óbice da Súmula 691/STF, para determinar a imediata progressão do paciente ao regime semiaberto, considerando que o requisito temporal foi implementado em 05/04/2026, expedindo-se o competente alvará de soltura ou determinando-se a prisão domiciliar com monitoramento eletrônico, até o julgamento definitivo do mérito; b) No mérito, a concessão definitiva da ordem para: – Determinar o desmembramento do cálculo penal, com aplicação de percentuais distintos para cada condenação isoladamente, nos termos do Tema 1.354/STJ; – Aplicar a fração de 40% (2/5) para o crime de homicídio (2015), por retroatividade da norma mais benéfica; – Aplicar a fração de 40% (2/5) para o crime de roubo (2021), por força do Tema 1.169/STF (reincidência genérica); – Reconhecer o direito à imediata progressão ao regime semiaberto, fazendo cessar o excesso de execução que perdura desde 05/04/2026. c) A comunicação urgente ao Juízo da 2ª Vara Criminal de Cuiabá/MT para cumprimento das determinações. (doc. 1, p. 6).
+
+É o relatório necessário. Decido.
+
+O art. 102, I, i, da Constituição Federal estabelece que a competência do Supremo Tribunal Federal para processar e julgar originariamente a ação constitucional do habeas corpus será inaugurada quando o coator for Tribunal Superior ou quando o coator ou o paciente for autoridade ou funcionário cujos atos estejam sujeitos diretamente à jurisdição desta Suprema Corte, ou se trate de crime sujeito à mesma jurisdição em uma única instância.
+
+Contudo, este habeas corpus, como visto, foi impetrado contra decisão monocrática de Ministro do Superior Tribunal de Justiça que indeferiu liminarmente o HC 1.092.145/MT (doc. 8). Assim, no caso, a ausência da análise dos fundamentos constantes do ato coator por colegiado daquele Superior Tribunal impede o prosseguimento do writ por supressão de instância.
+
+Nessa mesma direção:
+
+Ementa AGRAVO REGIMENTAL. HABEAS CORPUS IMPETRADO CONTRA DECISÃO MONOCRÁTICA DE MINISTRO DO SUPERIOR TRIBUNAL DE JUSTIÇA. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE OU ABUSO DE PODER APTOS A PERMITIR A SUPERAÇÃO DESSE ÓBICE. AGRAVO AO QUAL SE NEGA PROVIMENTO. I. Caso em exame 1. Nulidades processuais. II. Questão em discussão 2. Pretendida anulação da ação penal. III. Razões de decidir 3. O art. 102, I, i, da Constituição Federal prescreve que a competência do Supremo Tribunal Federal para processar e julgar originariamente a ação constitucional do habeas corpus será inaugurada quando o coator for Tribunal Superior ou quando o coator ou o paciente for autoridade ou funcionário cujos atos estejam sujeitos diretamente à jurisdição do Supremo Tribunal Federal, ou se trate de crime sujeito à mesma jurisdição em uma única instância. No caso, este habeas corpus foi impetrado contra decisão monocrática de Ministro do Superior Tribunal de Justiça. 4. Ausentes ilegalidade flagrante ou abuso de poder aptos a permitir a superação do óbice acima indicado. IV. Dispositivo 5. Agravo regimental ao qual se nega provimento. (HC 246.735 AgR/SP, da minha relatoria, Primeira Turma, DJe 30/10/2024 – grifei)
+
+Ementa AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO VOLTADA CONTRA DECISÃO MONOCRÁTICA DE MINISTRO DE TRIBUNAL SUPERIOR. IMPOSSIBILIDADE DE SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE ILEGALIDADE. PRECEDENTES. 1. Incidência de óbice ao conhecimento da ordem impetrada neste SUPREMO TRIBUNAL FEDERAL, uma vez que se impugna decisão monocrática de Ministro do Superior Tribunal de Justiça (HC 219.841-AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 6/10/2022; HC 219.672-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 6/10/2022; HC 216.953-AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 29/9/2022; HC 217.751-AgR, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe de 27/9/2022; HC 208.035-AgR, Rel. Min. EDSON FACHIN, Segunda Turma, DJe de 21/9/2022; RHC 213.550-AgR, Rel. Min. ANDRÉ MENDONÇA, Segunda Turma, DJe de 1º/9/2022; HC 216.979-AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 25/8/2022; HC 216.955-AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 25/8/2022; HC 217.067-AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 24/8/2022; RHC 214.783-AgR, Rel. Min. NUNES MARQUES, Segunda Turma, DJe de 4/8/2022). 2. O exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do SUPREMO TRIBUNAL FEDERAL, conforme vem sendo reiteradamente proclamado por esta CORTE (HC 211.364-AgR, Rel. Min. EDSON FACHIN, Segunda Turma, DJe de 24/8/2022; HC 172.384, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 10/2/2021; HC 180.895-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 18/6/2020; HC 262.350, Rel. p/ Acórdão: Min. ROSA WEBER, Primeira Turma, DJe de 30/8/2019). 3. Inexistência de teratologia ou caso excepcional caracterizadores de flagrante constrangimento ilegal. 4. Agravo Regimental a que se nega provimento. (HC 228.736 AgR/BA, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe de 27/6/2023 – grifei).
+
+Para além disso, não verifiquei, nestes autos, nenhuma ilegalidade flagrante, teratologia ou abuso de poder aptos a permitir a superação do óbice acima indicado.
+
+Ante o exposto, nego seguimento ao habeas corpus (art. 21, § 1°, do Regimento Interno do Supremo Tribunal Federal).
+
+Publique-se.
+
+Brasília, 25 de junho de 2026.
+
+Ministro Cristiano Zanin
+Relator
