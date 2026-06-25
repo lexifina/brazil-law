@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ANNA CECILIA OLIVEIRA ASSIS DE MORAES e JEFFERSON WINDER DA SILVA contra acórdão prolatado pelo Tribunal de Justiça do Estado de Goiás (HC n. 5403979-80.2026.8.09.0000).
+Depreende-se dos autos que os pacientes foram condenados às penas de 1 ano e 8 meses de reclusão em regime inicial aberto e do pagamento de 167 dias-multa, como incursos nas sanções do art. 33, caput, c/c o art. 33, § 4º, da Lei n. 11.343/2006, com substituição por duas penas restritivas de direitos.
+No presente writ, a impetrante sustenta a ocorrência de constrangimento ilegal, consubstanciado na alegada manutenção de condenação fundada em provas declaradas ilícitas por esta Corte Superior de Justiça no AREsp n. 3.095.021/GO.
+Alega que há identidade fático-processual entre os pacientes e o corréu beneficiado, pois as buscas domiciliares reputadas ilegais ocorreram no mesmo contexto e atingiram diretamente os domicílios dos pacientes, contaminando todo o acervo probatório.
+Afirma que o art. 580 do CPP impõe a extensão dos efeitos, por se tratar de motivo não pessoal.
+Aduz que a ilicitude probatória seria matéria de ordem pública, insuscetível de preclusão, e que a exigência de revisão criminal impõe formalismo indevido diante da necessidade de cessar constrangimento ilegal, sobretudo porque não há necessidade de nova valoração probatória, mas a simples aplicação do que decidido no agravo em recurso especial conexo.
+Assevera que a orientação do Tribunal de origem quanto à necessidade de petição incidental nos autos do AREsp n. 3.095.021/GO seria inviável, porque o recurso transitou em julgado sem participação dos pacientes, de modo que não teriam legitimidade processual para postular naquele feito.
+Requer, ao final, a concessão da ordem para estender aos pacientes os efeitos do julgamento do AREsp n. 3.095.021/GO, reconhecendo a nulidade das provas decorrentes das alegadas invasões domiciliares e absolvendo-os com fundamento no art. 386, II, do CPP.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ e pela concessão de habeas corpus de ofício, para estender aos pacientes os efeitos do AREsp n. 3.095.021/GO, declarando a nulidade das provas e absolvendo-os por ausência de materialidade delitiva, nos termos do art. 386, II, do CPP.
+É o relatório.
+O Superior Tribunal de Justiça firmou compreensão de que o habeas corpus não pode ser utilizado como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração quando assim manejado.
+Observam-se, a respeito: AgRg no HC n. 943.146/MG, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 22/10/2024; AgRg no HC n. 874.713/SP, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 20/8/2024; AgRg no HC n. 749.702/SP, Sexta Turma, relator Ministro Antonio Saldanha Palheiro, DJe de 29/2/2024; AgRg no HC n. 912.662/SP, Sexta Turma, relator Ministro Sebastião Reis Júnior, DJe de 27/6/2024; e HC n. 740.303/ES, Quinta Turma, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT -, DJe de 16/8/2022.
+Inicialmente, não se verifica constrangimento ilegal decorrente do acórdão do Tribunal de origem, que decidiu conforme a jurisprudência deste Superior Tribunal quanto à necessidade de formulação do pedido de extensão nos autos do processo no qual foi prolatada a decisão cujos efeitos se pretende estender, especialmente porque não haveria óbice à apresentação do pedido como expediente avulso naqueles autos.
+Ilustrativamente:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA. DECISÃO MONOCRÁTICA. PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. FUNDAMENTAÇÃO CONCRETA. GARANTIA DA ORDEM PÚBLICA. EXPRESSIVA QUANTIDADE E VARIEDADE DE ENTORPECENTES. APREENSÃO DE ARMA E MUNIÇÕES. INSUFICIÊNCIA DE MEDIDAS CAUTELARES DIVERSAS. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. PEDIDO DE EXTENSÃO. INOVAÇÃO RECURSAL. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+III. RAZÕES DE DECIDIR
+ ..
+6. O pedido de extensão dos efeitos de decisão favorável a corréus configura inovação recursal e não foi apreciado pelo Tribunal de origem, o que impede seu conhecimento por esta Corte, sob pena de supressão de instância. Ademais, o pedido de extensão deve ser formulado nos autos do processo em que proferida a decisão cujos efeitos se pretende estender, o que não ocorreu na hipótese.
+IV. DISPOSITIVO E TESE
+7. Agravo regimental desprovido.
+ ..
+(AgRg no RHC n. 221.746/MG, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 3/6/2026, DJEN de 10/6/2026.)
+Por essa razão, não se pode conhecer o presente habeas corpus. Contudo, a propósito do disposto no art. 647-A do CPP, passo à análise do pedido.
+O deferimento do pedido de extensão requer que a parte solicitante tenha a mesma situação fático-processual da já favorecida, assegurando que a motivação da decisão não seja exclusivamente pessoal, conforme o art. 580 do Código de Processo Penal.
+A decisão que beneficiou o corréu desclassificou a conduta pelos seguintes fundamentos (fl. 1.612 do AREsp. n. 3.095.021/GO, grifei):
+ ..  ainda que a palavra dos agentes policiais, como regra, autorize a imposição do decreto condenatório, nota-se que, no caso em exame, as declarações não permitem concluir que o acusado tenha praticado o delito que lhe foi imputado na denúncia.
+A apreensão da droga - 10,926g (dez gramas e novecentos e vinte e seis miligramas) de cocaína (e-STJ fl. 1.400) por si só, insta consignar, não indica a realização do tipo inserto no art. 33 da referida lei.
+Além disso, não foram localizados petrechos comuns a essa prática (balança de precisão, calculadora, material para embalar a droga, etc.), nem visualizados atos típicos de mercancia.
+Portanto, esse cenário probatório devidamente delineado nos atos decisórios ora impugnados não permite concluir que o recorrente deva ser condenado nos moldes da acusação formulada.
+Quanto aos recorrentes, consta da sentença condenatória (fls. 33-34, grifei):
+Pormenorizando os fatos, policiais militares realizavam patrulhamento de rotina no Setor Criméia Leste, momento em que visualizaram a motocicleta Honda/CG 150 Titan KS, cor vermelha, placa de identificação NGT-2161, cujo condutor, após notara presença da viatura, acelerou pela contramão da via e empreendeu fuga, atitude que foi considerada suspeita e que ensejou sua abordagem.
+Em busca pessoal, foram encontradas, com PAULO VICTOR MACIEL DOS SANTOS, em seu bolso, 12 (doze) porções cocaína", com massa bruta total de 10,926g (dez gramas e novecentos e vinte e seis miligramas). Questionado, o denunciado confessou a traficância e informou que o restante da droga estava guardada em dois endereços distintos, em posse dos demais integrantes da associação criminosa.
+Desse modo, a equipe policial se deslocou à primeira residência informada pelo denunciado PAULO VICTOR, onde foram recebidos pela denunciada ANNA CECÍLIA OLIVEIRA ASSIS DE M0RAES, localizaram e apreenderam 03 (três) porções "maconha" com massa bruta total de 2,925Kg (dois quilogramas, novecentos e vinte e cinco gramas), 01 (uma) balança de precisão e 02 (dois) rolos de plástico filme.
+Na sequência, os militares se dirigiram ao segundo endereço indicado, onde foram recebidos pelo denunciado JEFFERSON WINDER DA SILVA, localizaram e apreenderam: 01 (uma) porção de maconha , com massa bruta total de 52,785g (cinquenta e dois gramas, setecentos e oitenta e cinco miligramas); 01 (uma) porção de cocaína", com massa bruta total de 76,738g (setenta e seis gramas, setecentos e trinta e oito miligramas); 01 (uma) porção de cocaína ; com massa bruta total de 0,548g (quinhentos e quarenta e oito miligramas); 18 (dezoito) porções de material pulverizado de cor branca, constituído do alcaloide ""cocaína"; com massa bruta total de 16,314g (dezesseis gramas, trezentos e catorze miligramas); 01 (uma) balança de precisão; e 01 (um) rolo de plástico filme.
+Diante da situação de flagrância, os denunciados foram presos e conduzidos à Central Geral de Flagrantes e Pronto Atendimento ao Cidadão de Goiânia".
+Assim, a situação dos requerentes difere da situação fática do corréu beneficiado, pois, na posse da requerente ANNA CECÍLIA, foram apreendidos aproximadamente 3 kg de mac onha, além de balança de precisão e material para embalagem. Na posse do requerente JEFFERSON WINDER, foi apreendida diversidade de drogas (maconha e cocaína), além de balança de precisão e material para embalagem da droga.
+Dessa forma, verifica-se que não há identidade fático-processual entre as partes, razão pela qual não se mostra cabível, nos termos do art. 580 do CPP, deferir o pedido de extensão de benefício obtido pelo corréu.
+Nesse sentido (grifei):
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS E ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. REITERAÇÃO DE PEDIDO. NULIDADE DAS PROVAS. SUPRESSÃO DE INSTÂNCIA. PEDIDO DE EXTENSÃO. AUSÊNCIA DE IDENTIDADE FÁTICO PROCESSUAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que conheceu em parte do habeas corpus e, na parte conhecida, denegou a ordem.
+2. Prisão preventiva decretada pela suposta prática dos delitos previstos nos arts. 33, caput, c/c 40, VI, da Lei 11.343/2006 e 2º, § 4º, I, da Lei 12.850/2013, com pedido de extensão do benefício concedido a corréus (art. 580 do CPP), alegações de ausência de indícios suficientes de autoria, de falta de fundamentação idônea da preventiva, de possibilidade de medidas cautelares diversas e de nulidade de provas digitais por quebra da cadeia de custódia.
+II. QUESTÃO EM DISCUSSÃO
+3. Há cinco questões em discussão: (i) saber se é admissível a reiteração de pedido já apreciado em habeas corpus anterior com trânsito em julgado; (ii) saber se a nulidade das provas obtidas de extração de dados telemáticos e de aparelhos celulares pode ser apreciada sem exame prévio pelo Tribunal de origem; (iii) saber se é cabível a extensão prevista no art. 580 do CPP diante de alegada identidade fático-processual com corréus.
+III. RAZÕES DE DECIDIR
+4. A reiteração de pedido referente à prisão preventiva, já apreciado e denegado em habeas corpus anterior nesta Corte, com trânsito em julgado, é inadmissível em sede mandamental.
+5. A alegação de nulidade das provas digitais não foi examinada pelo Tribunal de origem, o que impede o conhecimento pela instância superior, sob pena de supressão de instância.
+6. A extensão do benefício concedido a corréus, nos termos do art. 580 do CPP, exige identidade fático-processual e ausência de circunstâncias exclusivamente pessoais; inexistente similitude com os corréus beneficiados, a extensão é inviável.
+IV. DISPOSITIVO
+7. Agravo regimental não provido.
+(AgRg no HC n. 1.084.143/MG, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 3/6/2026, DJEN de 16/6/2026.)
+AGRAVO REGIMENTAL NO PEDIDO DE EXTENSÃO NO HABEAS CORPUS . ESTELIONATO. EXTENSÃO DOS EFEITOS DA DECISÃO DE REVOGAÇÃO DA PRISÃO PREVENTIVA DA CORRÉ. APLICAÇÃO DO ART. 580 DO CPP. IMPOSSIBILIDADE. REQUERENTE. CONDIÇÃO RECENTE DE FORAGIDA. SITUAÇÃO FÁTICA E JURÍDICA DISTINTA DA BENEFICIADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O art. 580 do Código de Processo Penal prevê: "No caso de concurso de agentes (Código Penal, art. 25), a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros".
+2. Segundo a jurisprudência desta Corte, "a fuga do distrito da culpa é fundamento válido à segregação cautelar, forte da asseguração da aplicação da lei penal" (AgRg no HC n. 568.658/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 4/8/2020, DJe 13/8/2020).
+3. No caso, os fundamentos que ensejaram a substituição da prisão preventiva da ré Maria Eduarda de Oliveira Santos pela medidas cautelares previstas no art. 319, I, III e IV, do CPP não aproveitam à ora agravante, nos termos do art. 580 do CPP. Isso porque ela esteve foragida até 30/1/2026, o que a coloca em situação fática e jurídica distinta da corré, a qual ficou presa por mais de dois anos.
+4. Agravo regimental não provido.
+(AgRg no PExt no HC n. 1.042.157/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/5/2026, DJEN de 1/6/2026.)
+Ante o exposto, na forma do art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
