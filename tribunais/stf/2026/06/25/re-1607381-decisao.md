@@ -1,0 +1,34 @@
+DECISÃO: Trata-se de agravo  contra decisão de inadmissibilidade de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Pará, ementado nos seguintes termos:
+
+“EMENTA: AGRAVO INTERNO CONTRA DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO DE APELAÇÃO E, EM REMESSA NECESSÁRIA, MODIFICOU EM PARTE A SENTENÇA. SERVIDOR PÚBLICO TEMPORÁRIO. ADICIONAL POR TEMPO DE SERVIÇO. TEMAS 551 E 916 - RG. INAPLICABILIDADE. PRECEDENTES DESTA CORTE DE JUSTIÇA. RECURSO CONHECIDO E DESPROVIDO. DECISÃO UNÂNIME.” (eDOC 68 - ID: fc0c7d8a, p. 1)
+
+No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 37, I, II e IX; e 61, § 1º, texto constitucional.
+Nas razões recursais, o Estado sustenta que o vínculo de trabalho temporário junto à Administração Pública não produz efeitos em posterior cargo efetivo em que investida a interessada.
+Aponta ainda a nulidade do contrato temporário, em razão de sucessivas renovações, motivo pelo qual somente seria devida a percepção de FGTS e saldo de salário, nos termos dos Temas 916 e 1239 da repercussão geral.
+No ponto, aduz que “a contratação temporária, por ser aceita apenas em caráter de excepcionalidade e transitoriedade, padece de nulidade quando prorrogada por um grande lapso temporal, com retroação de efeitos ex tunc, o que impede a produção de quaisquer efeitos, afastando, consequentemente, o direito à averbação de tempo de serviço temporário, tanto para fins de ATS quanto para contagem de tempo de serviço para aposentação”. (eDOC 69 - ID 2bad7401, p. 13)
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+O Tribunal de origem, ao examinar a legislação local aplicável à espécie (Lei 5.810/94) e o conjunto probatório constante dos autos,  manteve a sentença que assentou o direito à averbação do tempo de serviço público laborado pela autora como servidora temporária, para fins de recebimento de adicional por tempo de serviço.
+Consignou, ainda, que os temas 916 e 551 da repercussão geral não se aplicam ao caso dos autos por tratarem de situações diversas, referentes ao recebimento de FGTS e saldo de salário em caso de nulidade da contratação temporária, bem como ao décimo terceiro salário e férias remuneradas acrescidas do terço constitucional. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+
+“O julgado vergastado reconheceu o tempo prestado durante o vínculo temporário à administração pública como tempo de serviço, mormente em razão da previsão expressa contida na legislação estadual, a saber: “qualquer que tenha sido a forma de admissão ou de pagamento”, conferindo, assim, direito a averbação e respectivo pagamento nos moldes decididos na sentença apelada.
+O agravante luta contra o texto expresso dos arts. 70, § 1º e 131, ambos da Lei n.º 5.810/94 (RJU Estadual).
+Por outro vértice, as teses jurídicas fixadas nos citados paradigmas (Temas 551 e 916) não trataram da contagem de tempo de serviço e, salvo pronunciamento específico da Suprema Corte, são incapazes de infirmar a conclusão deste Tribunal assentada na peculiaridade da legislação estadual”. (eDOC 68 – ID: fc0c7d8a, p. 3)
+
+Como visto, não foi reconhecida pelo Tribunal de origem a nulidade da contratação temporária.
+Assim, verifica-se que as matérias debatidas no acórdão recorrido, referentes à averbação do tempo de trabalho temporário para fins de recebimento de adicional por tempo de serviço e à regularidade da contratação, restringem-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório. Nesses termos, incidem no caso as Súmulas 280 e 279 do STF.
+Confiram-se, a propósito, os seguintes precedentes:
+
+“Direito administrativo. Agravo interno em recurso extraordinário com agravo. Servidor público estadual. Contagem de tempo de serviço. Período prestado em cargo temporário. Incidência das Súmulas 279 e 280/STF. I. Caso em exame 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário com agravo, o qual tem por objeto acórdão que reformou sentença de improcedência do pedido. II. Questão em discussão 2. Preenchimento dos pressupostos de admissibilidade do recurso extraordinário com agravo. III. Razão de decidir 3. A petição de agravo não trouxe novos argumentos aptos a desconstituir a decisão agravada, a qual deve ser mantida pelos seus próprios fundamentos. 4. Hipótese em que, para dissentir do entendimento firmado pelo Tribunal de origem, seria necessário analisar a legislação infraconstitucional aplicada ao caso, assim como reexaminar fatos e provas constantes dos autos, procedimentos vedados neste momento processual (Súmulas 279 e 280/STF). IV. Dispositivo 5. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência. 6. Agravo interno a que se nega provimento” (ARE 1536275 AgR, Luís Roberto Barroso (Presidente), Tribunal Pleno, DJe 09.05.2025 – grifo nosso)
+
+“Direito Administrativo. Agravo interno em recurso extraordinário com agravo. Servidor público estadual. Contagem de tempo de serviço. Cargo temporário. Legislação infraconstitucional. Súmulas 279 e 280/STF. I. Caso em exame 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário com agravo, o qual tem por objeto acórdão que deu provimento a recurso. II. Questão em discussão 2. Preenchimento dos pressupostos de admissibilidade do recurso extraordinário com agravo. III. Razão de decidir 3. A petição de agravo não trouxe novos argumentos aptos a desconstituir a decisão agravada, a qual deve ser mantida pelos seus próprios fundamentos. 4. Para dissentir do entendimento do Tribunal de origem, seria imprescindível a análise da legislação infraconstitucional pertinente e o reexame do conjunto fático-probatório dos autos, o que se mostra inviável no âmbito do recurso extraordinário, nos termos das Súmulas 279 e 280/STF. Precedente. IV. Dispositivo 5. Agravo interno a que se nega provimento, com a aplicação da multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.021, § 4º, do CPC/2015” (ARE 1524788 AgR, Rel. Min. Luís Roberto Barroso (Presidente), Tribunal Pleno, DJe 10.03.2025 – grifo nosso)
+
+Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente, observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+
+Publique-se.
+Brasília, 25 de junho de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
