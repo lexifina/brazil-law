@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em nome de WILLIAN ROCHA DA SILVA MARIA - condenado por roubo circunstanciado a 5 anos e 8 meses de reclusão e 14 dias-multa (Ação Penal n. 0004068-16.2016.8.26.0201, da 3ª Vara da comarca de Garça/SP) - apontando como ato coator o acórdão de revisão criminal proferido pelo 3º Grupo de Direito Criminal do Tribunal de Justiça de São Paulo, que deferiu em parte o pedido revisional para afastar a incidência do art. 157, § 2º-A, I, do Código Penal, reduzir a pena e estender o resultado ao corréu, mantidos os demais termos do acórdão condenatório (fls. 9/21).
+A impetração busca fixar o regime inicial semiaberto, com expedição de mandado/guia para adequação, sustentando:
+a) o cabimento do habeas corpus, pois não pretende rediscutir autoria ou materialidade, mas apenas a legalidade do regime inicial fechado, matéria de direito ligada à pena definitiva, à primariedade e à pena-base no mínimo legal (fl. 4);
+b) a ilegalidade do regime inicial fechado, porque a pena definitiva foi reduzida para 5 anos e 8 meses de reclusão, o paciente seria primário e a pena-base estaria no mínimo legal, circunstâncias que autorizariam o regime inicial semiaberto, nos termos do art. 33, § 2º, "b", do Código Penal (fls. 4/5);
+c) a fundamentação inidônea do regime mais gravoso, pois mantido com base em gravidade abstrata, desassossego à sociedade e anseios da coletividade, em afronta à Súmula 440/STJ e às Súmulas 718 e 719/STF (fl. 5); e
+d) a isonomia com o corréu Ivan Mendes Evaristo, pois, no HC n. 1.103.871/SP, em situação tida como idêntica - mesmo processo, mesma capitulação, mesma pena, mesma primariedade e mesma fundamentação genérica do regime -, foi concedida liminar para fixar o regime inicial semiaberto (fls. 6/7).
+É o relatório.
+O writ comporta acolhimento.
+Embora o habeas corpus não se preste, em regra, à revisão da condenação imposta e mantida pelas instâncias ordinárias, é possível o exame da impetração quando indicada ilegalidade manifesta.
+No caso, a tese não exige reexame de autoria, materialidade ou conjunto fático-probatório, pois se limita à compatibilidade entre a pena definitiva fixada no acórdão revisional - 5 anos e 8 meses de reclusão - e o regime inicial fechado mantido na origem.
+Verifico a ocorrência de constrangimento ilegal. O acórdão revisional reduziu a pena de Willian Rocha da Silva Maria para 5 anos e 8 meses de reclusão, e 14 dias-multa, manteve a pena-base no mínimo legal, à míngua de maus antecedentes, e aplicou, na terceira fase, acréscimo único de 5/12 (fls. 20/21).
+A manutenção do regime fechado, nesse contexto, contraria a Súmula 440/STJ, segundo a qual, fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+Assim, tratando-se de pena superior a 4 anos e não excedente a 8 anos, sem reincidência e sem circunstâncias judiciais desfavoráveis, impõe-se a fixação do regime inicial semiaberto, nos termos do art. 33, § 2º, "b", e § 3º, do Código Penal.
+A solução também preserva a isonomia com o corréu Ivan Mendes Evaristo. No HC n. 1.103.871/SP, foi concedida liminar, em parte, para fixar o regime inicial semiaberto ao corréu, diante da mesma condenação, da mesma pena definitiva, da pena-base no mínimo legal, da primariedade e da ausência de circunstâncias judiciais desfavoráveis. Naquele feito, reconheceu-se que o regime fechado havia sido mantido com base na gravidade abstrata do delito, em referências ao desassossego à sociedade e aos anseios da coletividade, em contrariedade à Súmula 440/STJ e às Súmulas 718 e 719/STF.
+Diante da identidade fático-jurídica, deve ser adotada a mesma solução: fixação do regime inicial semiaberto ao paciente Willian Rocha da Silva Maria, mantidos os demais termos da condenação.
+Em razão disso, concedo liminarmente a ordem para fixar o regime inicial semiaberto ao paciente, mantidos os demais termos da condenação referente à Ação Penal n. 0004068-16.2016.8.26.0201, da 3ª Vara da comarca de Garça/SP.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+DIREITO PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. REGIME INICIAL FECHADO. PENA-BASE NO MÍNIMO LEGAL. PRIMARIEDADE. GRAVIDADE ABSTRATA. SÚMULA 440/STJ. SÚMULAS 718 E 719/STF. ISONOMIA COM CORRÉU. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida nos termos do dispositivo.
