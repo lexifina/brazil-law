@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por WANDERLAN DOS SANTOS OLIVEIRA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ (Habeas Corpus n. 0810795-60.2026.8.14.0000).
+Consta dos autos que o recorrente foi condenado às penas de 12 anos de reclusão em regime inicial fechado e de 360 dias-multa, como incurso nas sanções do art. 2º, §§ 2º, 3º e 4º, I, IV e V, da Lei n. 12.850/2013.
+Informa que o recorrente está preso preventivamente desde 15/5/2024, por decisão mantida na sentença condenatória.
+Alega que o manejo do habeas corpus é admissível mesmo com recurso pendente, por se tratar de tutela imediata da liberdade e de pedido diverso do formulado na via ordinária.
+Assevera que há nulidade absoluta por cerceamento de defesa, pois o laudo pericial n. 2022.01.000196-FON, que embasou a sentença e o acórdão, não está acessível nos autos eletrônicos.
+Relata que a Secretaria da UPJ-Penal cer tificou a inexistência do laudo no PJe e a guarda física das mídias na Secretaria, o que inviabiliza a conferência e o contraditório da prova pela defesa.
+Defende que a inacessibilidade ao laudo compromete a cadeia de custódia e evidencia prejuízo, impondo a anulação da sentença e dos atos subsequentes.
+Requer, liminarmente, a suspensão dos efeitos da condenação e a soltura do recorrente. No mérito, busca a anulação da sentença e dos atos subsequentes ou, subsidiariamente, o conhecimento do habeas corpus originário pelo Tribunal de origem.
+É o relatório.
+Em uma análise inicial, não se verifica a ocorrência de hipótese que autorize o deferimento do pleito liminar.
+Da leitura do acórdão impugnado, observa-se que foram expressamente indicados os motivos para a solução adotada pelo Tribunal de origem. No ponto (fls. 192-194, grifei):
+No mérito, antecipo que a insurgência não merece acolhimento, devendo a decisão monocrática ser mantida por seus próprios e jurídicos fundamentos.
+A decisão agravada (ID 36190115) não conheceu do Habeas Corpus por uma razão técnica irretocável: a inadequação da via eleita. Conforme corretamente pontuado, a impetração foi manejada como um verdadeiro sucedâneo recursal, buscando a reforma de uma decisão de mérito e a discussão de nulidade por via processual imprópria, enquanto pende de julgamento recurso ordinário com o mesmo objeto. A
+jurisprudência dos Tribunais Superiores, em um esforço de racionalização do uso do writ, consolidou o entendimento de que o Habeas Corpus não pode ser utilizado como substitutivo de recursos ou ações autônomas de impugnação, sob pena de completa desvirtuação de sua finalidade constitucional.
+ ..
+No caso em análise, as teses levantadas pelo agravante  nulidade por cerceamento de defesa ante a ausência do laudo pericial no sistema PJe  já foram devolvidas ao conhecimento deste Tribunal nos autos da Apelação Criminal nº 0822473-38.2023.8.14.0401, especificamente em sede de Embargos de Declaração (ID 35891498). A tentativa de fragmentar a discussão, utilizando o writ como via paralela, configura nítida subversão do sistema recursal e ofensa ao princípio da unirrecorribilidade.
+A concessão da ordem de ofício, por sua vez, é medida de extrema excepcionalidade, cabível apenas quando a ilegalidade é manifesta. Não é o que ocorre nos autos. As informações prestadas pelo Juízo de origem (ID 36145573) e a certidão de ID 35891501 esclarecem que o Laudo Pericial nº 2022.01.000196-FON e as mídias digitais (Pen Drive de 64GB) encontram-se acautelados fisicamente na Secretaria da Vara, à disposição das partes.
+A ausência do documento em formato PDF no sistema eletrônico decorre de limitações técnicas do sistema PJe para arquivos de grande volume, o que não se confunde com cerceamento de defesa. O acesso à prova foi garantido mediante consulta presencial, e a defesa não demonstrou ter buscado tal acesso durante a instrução, vindo a alegar nulidade apenas após a condenação, o que atrai a incidência do princípio pas de nullité sans grief (art. 563 do CPP).
+Portanto, a decisão monocrática que não conheceu do writ agiu com acerto, aplicando a jurisprudência pacificada e preservando a correta utilização dos instrumentos processuais.
+Como visto, inexiste o alegado cerceamento de defesa que ocasionaria a suscitada nulidade, pois, diferentemente do que foi alegado, ficou demonstrado pelo acórdão impugnado, que "o Laudo Pericial n. 2022.01.000196-FON e as mídias digitais (Pen Drive de 64GB) encontram-se acautelados fisicamente na Secretaria da Vara, à disposição das partes" (fls. 193-194).
+Ademais, a jurisprudência consolidada no Superior Tribunal de Justiça exige a comprovação de prejuízo, em consonância com o princípio pas de nullité sans grief, consagrado nos termos do art. 563 do CPP, que dispõe que, para o reconhecimento da nulidade, é imprescindível a demonstração do prejuízo sofrido.
+Nesse contexto:
+Como é de conhecimento, no moderno sistema processual penal, eventual alegação de nulidade, ainda que absoluta, deve vir acompanhada da demonstração do efetivo prejuízo, uma vez que não se decreta nulidade processual por mera presunção. Desse modo, não se proclama uma nulidade sem que se tenha verificado prejuízo concreto à parte, sob pena de a forma superar a essência. Vigora, portanto, o princípio pas de nulitté sans grief, a teor do que dispõe o art. 563 do Código de Processo Penal. Precedentes.
+(AgRg no HC n. 906.529/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/6/2024, DJe de 19/6/2024.)
+Ante o exposto, nos termos do art. 34, XVIII, b, do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
