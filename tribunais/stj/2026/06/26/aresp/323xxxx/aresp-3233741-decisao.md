@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ALBINO FRANCHESQUETTO contra decisão do Tribunal Regional Federal da 6ª Região que inadmitiu recurso especial (fls. 669/670), apresentado contra acórdão proferido no julgamento de apelação criminal que negou provimento ao recurso defensivo e manteve a condenação do recorrente pelo crime de falso testemunho a 2 anos e 6 meses de reclusão, e 20 dias-multa (fls. 551/556).
+Requer a parte agravante a reforma da decisão de inadmissibilidade, ao argumento de que o recurso especial não demanda reexame de provas, mas apenas revaloração jurídica do quadro fático delineado no acórdão recorrido, especialmente quanto à atipicidade da conduta, à ausência de dolo específico e à insuficiência probatória para a condenação (fls. 700/710).
+A Procuradoria Regional da República da 6ª Região, em contraminuta, requereu o desprovimento do agravo, reportando-se aos fundamentos da decisão de inadmissibilidade e aos argumentos das contrarrazões ao recurso especial, para que fosse mantida a decisão que inadmitiu o apelo nobre (fl. 715).
+Em parecer, o Ministério Público Federal manifestou-se pelo não provimento do agravo, ao fundamento de que as teses de insuficiência probatória, tipicidade da conduta e dolo específico demandam revolvimento do acervo fático-probatório, providência vedada pela Súmula 7/STJ (fls. 737/743).
+É o relatório.
+O agravo em recurso especial não comporta conhecimento.
+Inicialmente, registre-se que a decisão que inadmite o recurso especial na origem não é composta por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada em sua integralidade, mediante ataque específico, suficiente e pormenorizado a todos os seus fundamentos. Não bastam, para tanto, alegações genéricas ou argumentos voltados apenas ao mérito da controvérsia, sob pena de incidência da Súmula 182/STJ. Nesse sentido: AgRg no AREsp n. 3.147.273/RS, Ministro Carlos Pires Brandão, Sexta Turma, DJEN de 25/5/2026.
+No caso, a Presidência do Tribunal de origem inadmitiu o recurso especial em razão da incidência da Súmula 7/STJ, diante da necessidade de reexame do conjunto fático-probatório, da insuficiência da mera alegação de que a controvérsia demandaria apenas revaloração jurídica e da impossibilidade de reconhecimento da ausência de dolo sem revisão das premissas fáticas fixadas pelas instâncias ordinárias (fls. 669/670).
+Entretanto, a parte agravante não impugnou, de maneira específica, suficiente e pormenorizada, os fundamentos da inadmissibilidade. Limitou-se a sustentar, genericamente, que o recurso especial não demandaria reexame de provas, mas revaloração jurídica, e a reiterar as teses de mérito relativas à atipicidade da conduta, à ausência de dolo específico e à insuficiência probatória (fls. 703/706).
+Embora tenha mencionado nominalmente a Súmula 7/STJ, o agravante não demonstrou, de forma concreta, como seria possível afastar as conclusões do acórdão recorrido sobre a relevância jurídica da falsidade, a autoria, a materialidade e o dolo sem revolvimento do acervo probatório. Tampouco enfrentou suficientemente o fundamento da decisão agravada de que a pretensão recursal avançava para a modificação do delineamento fático fixado pela origem.
+Incide, portanto, a Súmula 182/STJ.
+Ademais, não se verifica hipótese de concessão de habeas corpus de ofício.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. FALSO TESTEMUNHO. SÚMULA 7/STJ. IMPUGNAÇÃO GENÉRICA. MERA REITERAÇÃO DO MÉRITO DO RECURSO ESPECIAL. SÚMULA 182/STJ.
+Agravo não conhecido.
