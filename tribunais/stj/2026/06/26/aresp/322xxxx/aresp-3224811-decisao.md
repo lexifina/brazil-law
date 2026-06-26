@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo apresentado por CCISA08 Consultoria Imobiliária Ltda. para impugnar decisão que não admitiu seu recurso especial, interposto com fundamento no art. 105, III, a, da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fls. 221):
+DIREITO ADMINISTRATIVO. AÇÃO ANULATÓRIA. MULTA ADMINISTRATIVA. REMESSA NECESSÁRIA. NÃO CONHECIMENTO. APELAÇÃO CÍVEL. DESPROVIMENTO.
+I. CASO EM EXAME
+1. Ação anulatória de ato administrativo movida por CCISA08 Consultoria Imobiliária Ltda. contra o Município de São Paulo. A sentença julgou improcedentes os pedidos, fundamentando que não houve comprovação da ilegalidade dos atos fiscalizatórios e do auto de infração, pois a autora foi considerada a maior beneficiária da divulgação irregular, mesmo sem seu nome no cartaz publicitário afixado em poste público.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em determinar a responsabilidade da autora por afixar anúncio publicitário em poste de iluminação pública, apesar de negar conhecimento ou responsabilidade direta ou indireta.
+III. RAZÕES DE DECIDIR
+3. A Lei Municipal 13.478/2002, com modificações da Lei Municipal 16.612/2017, estabelece infrações administrativas para colagem de cartazes em postes de iluminação pública.
+4. A responsabilidade pode ser atribuída objetivamente a quem desrespeita as normas municipais de limpeza urbana, mesmo que indiretamente, conforme jurisprudência majoritária.
+IV. DISPOSITIVO E TESE
+5. Recurso não provido.
+Tese de julgamento: 1. A legislação municipal atribui responsabilidade solidária ao beneficiário da publicidade irregular, mesmo que afixada por terceiro. 2. Presunção de legitimidade do ato administrativo não elidida por prova inequívoca.
+Legislação e jurisprudência relevantes citadas: Lei Municipal 13.478/2002, art. 169; CPC, art. 85. STF, Tema 1076; STJ, Tema 1059; AC 1006669-53.2024.8.26.0053, Rel. Márcio Kammer de Lima, 11ª C. D. Público, j. 24.7.2025.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 235-239 e 253-257).
+No recurso especial (e-STJ, fls. 260-266), a parte recorrente alegou violação dos arts. 376 do Código de Processo Civil e da Lei Municipal 14.223/2006 (Lei Cidade Limpa), afirmando que houve vigência negada à norma local devidamente alegada e comprovada nos autos, pois o acórdão teria ignorado seu conteúdo normativo ao reconhecer responsabilidade do suposto beneficiário da publicidade irregular, sem previsão legal para punição nessa hipótese.
+Sustentou ofensa aos arts. 50, II, e § 1º, da Lei 9.784/1999, ao argumento de que o ato administrativo sancionador carece de motivação explícita, clara e congruente, não tendo a municipalidade demonstrado os fatos e fundamentos jurídicos que justificassem a autuação, sendo a imagem que embasou o auto de infração ilegível e sem qualquer elemento que vincule a recorrente ao anúncio.
+Apontou violação do art. 97, V, do Código Tributário Nacional, ao defender a tipicidade estrita das sanções e a impossibilidade de punir o suposto beneficiário da publicidade irregular sem previsão legal específica, já que a lei municipal mencionaria "responsáveis" sem definir beneficiário como sujeito passível de sanção.
+Contrarrazões às fls. 274-280 (e-STJ).
+O recurso não foi admitido (e-STJ, fls. 281-283), razão pela qual a recorrente interpõe o agravo ora examinado (e-STJ, fls. 291-297). O agravado apresenta contraminuta (e-STJ, fls. 303-306).
+Brevemente relatado, decido.
+A agravante impugna devidamente os fundamentos da decisão de inadmissibilidade da origem, razão por que conheço do agravo e passo à análise do recurso especial.
+O Tribunal de origem solucionou a controvérsia com base na seguinte fundamentação (e-STJ, fls. 223-225):
+Cinge-se a controvérsia a respeito da alegada conduta da parte autora em colar ou afixar anúncio publicitário em poste de iluminação pública, situação da qual nega conhecimento ou qualquer responsabilidade, direta ou indireta.
+A Lei Municipal nº 13.478/2002 (Lei Cidade Limpa) que, dentre outras atribuições, "dispõe sobre a organização do sistema de limpeza urbana do Município de São Paulo", assim determina, com as modificações da Lei Municipal nº 16.612/2017:
+ ..
+No caso dos autos, consta no Auto de Fiscalização nº 11-01.029.849-0 (fls. 38) imagem de cartaz colado/amarrado em poste de iluminação referente ao empreendimento promovido pela autora, cujo flagrante ocorreu em 11/9/2023.
+Ainda que não tenha constado o nome da autuada, é fato notório ser ela a parte beneficiada pelo serviço de publicidade, comumente desvinculado da pessoa jurídica para não haver implicações legais como a do presente caso e a fim de poder negar qualquer vínculo com terceiro que acaba promovendo trabalho de corretagem em benefício de ambos.
+Além disso, e também por isso, a responsabilidade por tais atos pode ser atribuída objetivamente a quem desrespeita as normas municipais de limpeza urbana, mesmo que indiretamente.
+ ..
+Como se verifica, no último caso, foi constatado que, "conforme levantamento realizado pela Prefeitura nos processos administrativos instaurados para a aplicação da multa, a denominação social da autora é CCISA08 Consultoria Imobiliária Ltda., atuando com o nome fantasia de Cury Vendas", de modo que "A simples associação da comercialização do imóvel pela Cury Incorporadora e o nome e razão social da autora revela que existem severos indícios de que o anúncio foi mesmo afixado pela parte", razão pela qual "à autora incumbia a comprovação de que o anuncio não se referia a imóvel por ela ou pela incorporadora comercializado".
+Na presente hipótese, não houve nenhuma demonstração, por parte da autora,em relação à possível corretagem atribuída a terceiros, ônus do qual não se desincumbiu (CPC, art. 373, I).
+De início, a respeito da violação ao art. 356 do CPC/2015, o recurso não poderá ser conhecido pela ausência do prequestionamento.
+Com efeito, o prequestionamento, entendido como a necessidade de o tema objeto do recurso haver sido examinado pela decisão atacada, constitui exigência inafastável contida na própria previsão constitucional, ao tratar do recurso especial, impondo-se como um dos principais pressupostos ao seu conhecimento.
+É de salientar que não basta à parte discorrer sobre o dispositivo legal que entende afrontado. Não examinada pela instância ordinária a matéria objeto do recurso especial, sem que a recorrente opusesse embargos de declaração a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados 282 e 356 da Súmula do excelso Supremo Tribunal Federal.
+No mais, as questões relativas às violações dos arts. 50, II, §1º da Lei 9.784/1999, e 97, V, do CTN também não chegaram a ser apreciadas pelas instâncias ordinárias, fazendo incidir, na espécie, a Súmula n. 211 do STJ, ante a ausência do necessário prequestionamento viabilizador do recurso especial, requisito indispensável ao acesso às instâncias excepcionais.
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos por vulnerados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+Importante assinalar que o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, a parte recorrente suscitar a violação ao art. 1.022 do mesmo diploma, porquanto somente dessa forma é que o órgão julgador, no STJ, poderá verificar a existência do vício e proceder à supressão de grau. Além disso, esta Corte deverá indicar que houve omissão do Tribunal de origem, o que não ocorreu no presente caso.
+Por fim, a pretensão recursal não comporta conhecimento no âmbito desta Corte no que diz respeito à suposta violação da Lei Municipal 13.478/2002 (Lei da Cidade Limpa), já que, nos termos da Súmula n. 280/STF, o recurso especial não é via adequada para debater a correta interpretação de normas locais.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Em razão do disposto no art. 85, § 11, do CPC, majoro em 1% (um ponto percentual) os honorários advocatícios sucumbenciais fixados na instância ordinária, observados os limites e parâmetros dos §§ 3º e 5º do mesmo dispositivo.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO ADMINISTRATIVO. AÇÃO ANULATÓRIA. MULTA ADMINISTRATIVA. 1. VIOLAÇÃO DO ART. 376 DO CPC/2015. PREQUESTIONAMENTO AUSENTE. SÚMULAS 282 E 356 DO STF. 2. VIOLAÇÃO DOS ARTS. 50, II, §1º DA LEI 9.784/1999 E 97, V, DO CTN. PREQUESTIONAMENTO AUSENTE. SÚMULA 211/STJ. 3. LEI DA CIDADE LIMPA. NORMA MUNICIPAL. SÚMULA 280/STF. 4. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
