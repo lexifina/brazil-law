@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de pedido de reconsideração formulado por LAUDO NATEL IASULAITIS (OAB n. 449.449/SP) em razã o da determinação de expedição de ofício à OAB/SP, na decisão anexada às e-STJ fls. 94/102, tendo em vista a utilização de jurisprudência criada na petição de habeas corpus.
+Em sua manifestação (e-STJ fls. 106/110), o causídico expõe justificativas pessoais e circunstâncias de força maior, a fim de que seja reconhecido erro material escusável na elaboração da referida petição.
+Ao final, enumera os seguintes pedidos:
+a) O recebimento e acolhimento do presente pedido de reconsideração, com base no poder geral de cautela e na autotutela jurisdicional, para o fim exclusivo de AFREAR e CANCELAR a expedição de ofício à Ordem dos Advogados do Brasil (OAB/SP), arquivando-se o comando sancionatório administrativo em face deste subscritor;
+b) Caso o expediente eletrônico já tenha sido transmitido, requer-se a emissão de certidão ou decisão aclaratória por este duto Relator, fazendo constar que este profissional compareceu voluntariamente aos autos, comprovou a justa causa por força maior e a ausência de litigância de má-fé, para fins de instrução e arquivamento sumário do procedimento no Tribunal de Ética da OAB/SP.
+É o relatório. Decido.
+De início, destaca-se que: Os pedidos de reconsideração carecem de qualquer respaldo no regramento processual vigente. Eles não constituem recursos, em sentido estrito, nem mesmo meios de impugnação atípicos. Por isso, não suspendem prazos e tampouco impedem a preclusão (STF. Segu nda Turma. Rcl n. 43007 AgR/DF, Relator Ministro RICARDO LEWANDOWSKI, julgado em 9/2/2021 - Informativo de Jurisprudência n. 1005).
+In casu, não obstante o esforço argumentativo do patrono, não é possível acolher o pleito aqui formulado, tendo em vista que não cabe a esta Corte Superior examinar os motivos pelos quais o nobre advogado utilizou jurisprudência criada em sua petição.
+Ademais, cumpre ressaltar que a mera expedição de ofício para a OAB não traz como consequência imediata e necessária a aplicação de penalidade ao causídico. Trata-se de mera comunicação de fatos que serão avaliados pelo conselho profissional, inexistindo ilegalidade ou abusividade na conduta desta relatoria.
+Com efeito, não houve qualquer alteração no contexto fático que justifique a superação do entendimento espos ado na decisão anterior quanto à determinação de ofício à OAB/SP, entidade competente para apurar a conduta profissional do advogado, de modo que não há razão para reformar o decisum aqui impugnado.
+Ao ensejo:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. 1. OFENSA À COLEGIALIDADE. DECISÃO PROFERIDA EM HARMONIA COM O RISTJ E O CPC. 2. IMPETRAÇÃO CONTRA ARQUIVAMENTO DE IP. AUSÊNCIA DE AMEAÇA A DIREITO AMBULATORIAL. NÃO CONHECIMENTO. 3. INDICAÇÃO DE JURISPRUDÊNCIA INEXISTENTE. DESLEALDADE PROCESSUAL. OFÍCIO À OAB PARA PROVIDÊNCIAS. 4. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Não há óbice ao julgamento monocrático do habeas corpus, nas hipóteses autorizadas pelo Regimento Interno do Superior Tribunal de Justiça e pelo art. 932 do Código de Processo Civil, os quais admitem inclusive interpretação extensi va para monocraticamente dar ou negar provimento a recurso contra decisão contrária ou em consonância com jurisprudência dominante.
+2. O habeas corpus, bem como o recurso em habeas corpus, se destina a preservar a liberdade de locomoção indevidamente restringida ou sobre a qual paire ameaça iminente de restrição em decorrência de ato de autoridade pública tido por ilegal. Nesse contexto, buscando o recorrente o desarquivamento de inquérito policial, revela-se manifesta a equivocada escolha do instrumento processual.
+3. Os precedentes indicados pelo agravante como jurisprudência consolidada do STJ não tratam do tema nem são dos relatores indicados, além de não terem sido publicados nas datas mencionadas.
+Com efeito, o RHC 108.832/SP, da relatoria da Min. Laurita Vaz, DJe 23/4/2019, trata de prisão preventiva, e o HC 478.176/SP, da relatoria do Min. Joel Ilan Paciornik, DJe 9/11/2018, nem ao menos foi conhecido, em virtude de sua deficiente instrução.
+- Verificando-se que os precedentes indicados pelo recorrente foram inventados, tem-se caracterizada, em princípio, a deslealdade processual, em contexto de judicialização excessiva e sobrecarga do Judiciário, justificando-se a expedição de ofício à Ordem dos Advogados do Brasil - Seccional do Estado de Minas Gerais, para as providências cabíveis.
+4. Agravo regimental a que se nega provimento.
+(AgRg no RHC n. 222.033/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/9/2025, DJEN de 17/9/2025.) - negritei.
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. OBJETO DISCUTIDO EM OUTRAS AÇÕES. REITERAÇÃO. IMPOSSIBILIDADE. EXTENSO HISTÓRICO DE REPETIÇÃO DE PEDIDOS. FALTA DE COOPERAÇÃO PROCESSUAL. ABUSO DO DIREITO DE AÇÃO. EXPEDIÇÃO DE OFÍCIO À OAB. AUSÊNCIA DE OFENSA AO EXERCÍCIO DA ADVOCACIA. AGRAVO IMPROVIDO.
+1. A apreciação anterior do Superior Tribunal de Justiça em outros autos impede a realização de novo exame da questão, devendo ser mantida a decisão que não conheceu do pedido.
+2. Configurado o abuso do direito de ação diante da reiteração infundada de pedidos, em desrespeito ao princípio da economia processual e em contexto de judicialização excessiva e sobrecarga do Judiciário, justifica-se a expedição de ofício à OAB/SP para as providências cabíveis.
+3. A alegação de que os habeas corpus anteriormente impetrados tratam de títulos executivos judiciais distintos e visam evitar o perecimento de direito, ainda que apresentada, mostra-se genérica e insuficiente para afastar a conclusão de eventual abuso do direito de recorrer.
+4. A remessa de ofício à Ordem dos Advogados do Brasil para apuração de conduta profissional não constitui sanção, mas sim medida de caráter informativo, que se insere na esfera da atuação fiscalizatória da entidade de classe.
+5. Agravo regimental improvido.
+(AgRg no RHC n. 198.696/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 11/6/2025, DJEN de 16/6/2025.) - negritei.
+Assim, diante de tal contexto fático, reafirmo não haver excepcionalidade que provoque a superação da fundamentação contida na decisão que se pretende reformar por meio do presente pedido de reconsideração.
+Ante o exposto, indefiro o pedido de reconsideração.
+Aguarde-se o decurso dos prazos legais e, após, certifique-se o trânsito em julgado e arquivem-se os au tos.
+Intimem-se.
+EMENTA
