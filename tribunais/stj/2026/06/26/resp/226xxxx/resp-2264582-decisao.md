@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por Positivo Tecnologia S.A., com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal (CF), no qual se insurge contra o acórdão do Tribunal Regional Federal da 4ª Região (TRF-4) assim ementado (fl. 725):
+TRIBUTÁRIO. APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. HONORÁRIOS DE ADVOGADO DE SUCUMBÊNCIA. AÇÃO AUTÔNOMA. CUMULAÇÃO. DESCABIMENTO.
+1. Nas situações em que a extinção da execução  scal é consequência do que foi decidido em ação anulatória, a jurisprudência deste Tribunal tem entendido pela impossibilidade de nova condenação da parte exequente ao pagamento dos honorários de advogado no processo de execução ou em embargos à execução fiscal, na medida em que estes já foram fixados na outra ação.
+Os embargos de declaração opostos foram rejeitados (fls. 732/735).
+A parte recorrente alega violação dos arts. 489, § 1º, incisos IV e VI, e 1.022, caput, inciso II e parágrafo único, incisos I e II, do Código de Processo Civil (CPC), porque o acórdão que julgou a apelação não enfrentou, de forma específica: (i) a tese firmada no Tema 587 do Superior Tribunal de Justiça (STJ) sobre a possibilidade de cumulação de honorários advocatícios na execução fiscal e na ação que visa desconstituir o crédito executado; e (ii) o argumento de que, se a ação anulatória fosse improcedente, o contribuinte suportaria, simultaneamente, honorários na ação ordinária e o encargo legal de 20% na execução fiscal, equivalente a honorários, de acordo com a jurisprudência do STJ.
+Sustenta ofensa aos arts. 85, §§ 2º, 3º, 6º-A e 8º, e 927, inciso III, do CPC, ao argumento de que: (i) a condenação em honorários na ação ordinária não impede nova condenação na execução fiscal, por se tratar de ações autônomas, conforme o Tema 587 do STJ; (ii) a fixação da verba deve observar os percentuais escalonados dos §§ 2º e 3º do art. 85 do CPC, tomando-se como base o proveito econômico (valor dos créditos extintos); (iii) é vedada a fixação por equidade em causas de valor elevado (Tema 1.076 do STJ) e, após a Lei 14.365/2022, pela regra do § 6º-A do art. 85 do CPC; e (iv) a observância de precedentes repetitivos é obrigatória (art. 927, inciso III).
+A parte recorrente aponta, ainda, a existência de divergência jurisprudencial às fls. 744/749.
+Contrarrazões apresentadas (fls. 779/788).
+O recurso foi admitido (fl. 789).
+É o relatório.
+Na origem, cuida-se de execução fiscal, cobrança de valores de Programa de Integração Social e Contribuição para o Financiamento da Seguridade Social (PIS/COFINS).
+Assiste razão à parte recorrente.
+A alegada ofensa ao art. 1.022 do Código de Processo Civil tem por base suposta omissão do acórdão recorrido sobre a aplicação obrigatória do Tema 587 do Superior Tribunal de Justiça, relativo à possibilidade de cumulação de honorários na execução fiscal e em ação autônoma que desconstitui o crédito, bem como sobre a tese de coerência/isonomia referente à dupla condenação do contribuinte na hipótese inversa, envolvendo a incidência do encargo legal de 20% do Decreto-Lei 1.025/1969 na execução fiscal.
+Constato que, apesar de provocado em duas oportunidades, por meio do recurso de apelação às fls. 706/711 e dos embargos de declaração às fls. 726/729, o Tribunal de origem manteve-se silente sobre essa matéria.
+A correção da omissão pela instância ordinária é essencial ao deslinde da controvérsia porque envolve a aplicação de precedente vinculante (Tema 587/STJ) e tese jurídica apta a infirmar a conclusão adotada quanto à inexistência de honorários na execução fiscal, impactando diretamente o regime de sucumbência e a mensuração da verba à luz do art. 85 do Código de Processo Civil.
+Para o Superior Tribunal de Justiça, presente algum dos vícios - omissão, contradição ou obscuridade -, e apontada a violação do art. 1.022 do CPC no recurso especial, deve ser anulado o acórdão proferido pelo Tribunal de origem ao examinar os embargos de declaração lá opostos, retornando-se os autos à origem para nova apreciação do recurso.
+A propósito, cito estes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ACIDENTE DE TRÂNSITO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 CONFIGURADA. ACÓRDÃO ESTADUAL OMISSO QUANTO A PONTO ESSENCIAL AO DESLINDE DA CONTROVÉRSIA. AGRAVO DESPROVIDO.
+1. Decisão atacada que deu provimento ao recurso especial da parte ora agravada para, reconhecendo violação ao art. 1.022 do CPC/2015, anular o acórdão que julgou os aclaratórios e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando a omissão reconhecida.
+2. Fica configurada a ofensa ao art. 1.022 do CPC/2015 quando o Tribunal a quo, apesar de devidamente provocado nos embargos de declaração, não se manifesta sobre tema essencial ao deslinde da controvérsia.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.914.275/PB, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/6/2021, DJe de 9/8/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. VIOLAÇÃO AO ART. 535 DO CPC/73 CONFIGURADA. OCORRÊNCIA DE OMISSÃO DE TEMA ESSENCIAL PARA DESLINDE DA CONTROVÉRSIA. AGRAVO INTERNO PROVIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1. Na hipótese de o eg. Tribunal local deixar de examinar questão nevrálgica ao desate do litígio, fica caracterizada a violação ao art. 535 do CPC/73.
+2. Reconhecida a existência de omissão essencial para o deslinde da controvérsia, deve-se determinar o retorno dos autos ao eg. Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando os vícios ora reconhecidos.
+3. Acolhida a alegada ofensa ao art. 535 do CPC/73, fica prejudicada a análise das demais teses trazidas no apelo nobre.
+4. Agravo interno provido para reconsiderar a decisão agravada e dar parcial provimento ao recurso especial e, reconhecendo a violação ao art. 535, II, do CPC/73, anular o v. acórdão de fls. 201/203, determinando o retorno dos autos ao eg. Tribunal a quo para promover novo julgamento dos embargos de declaração, como entender de direito.
+(AgInt no AREsp n. 218.092/RJ, relator Ministro Lázaro Guimarães - Desembargador Convocado do TRF da 5ª Região, Quarta Turma, julgado em 2/8/2018, DJe de 8/8/2018.)
+O provimento do recurso especial prejudica as demais matérias nele suscitadas.
+Ante o exposto, conheço do recurso especial e a ele dou provimento para reconhecer o vício de omissão e, assim, anular o acórdão recorrido, determinando o retorno dos autos à origem para novo exame dos embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
