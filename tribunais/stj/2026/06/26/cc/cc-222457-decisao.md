@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de conflito entre o r. juízo de direito da 19ª Vara Cível de Fortaleza/CE e o r. juízo de direito da 8ª Vara Cível de Porto Velho/RO acerca da competência para processar e julgar Ação de rescisão contratual cumulada com declaratória de inexistência de débito, restituição de valores e indenização por danos morais, com pedido de tutela antecipada, em contexto de contrato de multipropriedade.
+O Juízo da 8ª Vara Cível de Porto Velho/RO declinou, de ofício, da competência territorial, com fundamento em cláusula de eleição de foro estipulada em favor da Comarca de Fortaleza/CE, constante do contrato (Cláusula Quinquagésima), remetendo os autos para Fortaleza/CE, com base nos arts. 63 e 64, § 3º, do CPC (fls. 24-26).
+Distribuída a ação ao Juízo da 19ª Vara Cível de Fortaleza/CE, o autor manifestou interesse na manutenção da demanda no foro de seu domicílio e requereu a suscitação de conflito de competência ao Superior Tribunal de Justiça (fls. 473-474).
+O Juízo cearense, reconhecendo a natureza consumerista da relação, reputou relativa a competência territorial, invocou a Súmula 33/STJ, e suscitou conflito negativo de competência, nos termos do art. 105, I, d, da Constituição Federal (fls. 474-476).
+É o relatório.
+Decisão.
+A matéria subjacente ao presente incidente encontra-se pacificada no âmbito deste Superior Tribunal de Justiça, de modo a atrair a incidência da Súmula 568/STJ e a possibilidade do exame unipessoal da questão (ut. 179.787/PE, Rel. Min. Paulo de Tarso Sanseverino, DJe de 25/5/2021).
+1. Compete ao Superior Tribunal de Justiça o exame do presente incidente uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+2. O Superior Tribunal de Justiça consolidou entendimento no sentido de que, em ações de consumo propostas pelo consumidor, a competência territorial é relativa, podendo o autor escolher entre o foro de eleição, seu domicílio, o domicílio do réu ou o local de cumprimento da obrigação, sendo vedada a declaração de incompetência relativa de ofício. É o teor da Súmula 33/STJ, assim transcrita: "A incompetência relativa não pode ser declarada de ofício."
+Nessa linha: CC n. 215.729/SC, relator Ministro Humberto Martins, Segunda Seção, julgado em 12/11/2025, DJEN de 17/11/2025; CC n. 215.562/GO, relatora Ministra Daniela Teixeira, Segunda Seção, julgado em 8/10/2025, DJEN de 13/10/2025, dentre outros julgados.
+No caso vertente, o autor, consumidor, ajuizou a demanda em seu domicílio, Porto Velho/RO e invocou, expressamente, a prerrogativa do art. 101, I, do CDC para manter o feito no foro de seu domicílio (fls. 20).
+Diante desse quadro normativo e jurisprudencial, a declinação operada de ofício revela-se incompatível com a orientação consolidada desta Corte Superior para ações consumeristas propostas pelo consumidor, impondo-se a declaração de competência do Juízo suscitado, onde a demanda foi originalmente distribuída por opção legítima do autor.
+3. Do exposto, com fundamento no art. 955, parágrafo único, do CPC c/c Súmula 568/STJ conheço do conflito e declaro a competência do r. juízo de direito da 8ª Vara Cível de Porto Velho/RO, nos termos da fundamentação supracitada.
+Publique-se. Intimem-se. Oficiem-se aos r. juízos suscitados.
+EMENTA
