@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por WILSON MACIEL contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 245):
+EMENTA: DIREITO PROCESSUAL PENAL. HABEAS CORPUS. ROUBO QUALIFICADO. INADEQUAÇÃO DA VIA ELEITA. AGRAVO INTERNO. NÃO PROVIMENTO.
+I. Caso em Exame
+1. Habeas corpus impetrado em favor de Jean Machado de Almeida, condenado a 7 anos de reclusão em regime fechado por roubo qualificado. Alega-se fundamentação inidônea da sentença e questiona-se o regime de cumprimento de pena, requerendo anulação da sentença.
+II. Questão em Discussão
+2. A questão em discussão consiste em determinar se o habeas corpus é a via adequada para revisar a dosimetria da pena e o regime de cumprimento, após condenação em primeiro grau.
+III. Razões de Decidir
+3. Habeas corpus não é substituto de recurso próprio para discutir dosimetria e regime de pena, devendo tais questões ser analisadas em apelação.
+4. A jurisprudência do STJ não admite habeas corpus para reexame de matéria passível de recurso adequado, salvo em casos de flagrante ilegalidade.
+IV. Dispositivo e Tese
+5. Agravo interno não provido. Tese de julgamento: 1. Habeas corpus não é via adequada para revisão de dosimetria e regime de pena. 2. Questões devem ser tratadas em apelação, não cabendo reexame na via do habeas corpus.
+Consta dos autos que o recorrente foi condenado à pena de 7 anos de reclusão, em regime inicial fechado, e 18 dias-multa, como incurso no art. 157, § 2º, II, do Código Penal. O habeas corpus impetrado na origem, que visava anular a sentença e revisar o regime, não foi conhecido em decisão monocrática. O subsequente agravo interno foi desprovido, mantendo-se a inadmissão do writ.
+Sustenta a parte recorrente, em síntese, contradição interna na sentença quanto à existência de confissão do réu, o que ensejaria nulidade ou, ao menos, reconhecimento da atenuante específica.
+Alega fundamentação genérica na dosimetria, com pena-base no mínimo e circunstâncias judiciais favoráveis, o que tornaria indevido o regime fechado fixado apenas com base na quantidade de pena e na reincidência.
+Afirma constrangimento ilegal atual, por execução em regime mais gravoso sem motivação concreta, e pleiteia adequação imediata para evitar cumprimento indevido.
+Requer liminarmente a suspensão dos efeitos da sentença quanto ao regime inicial e a imediata adequação da execução ao regime menos gravoso, até o julgamento do recurso. No mérito, requer o provimento do recurso ordinário para anular a sentença ou, subsidiariamente, reconhecer a confissão com atenuante e fixar o regime semiaberto, com direito de apelar em liberdade.
+É o relatório.
+Verifica-se do exame dos autos que o Tribunal de origem não examinou as alegações defensivas no acórdão impugnado, como se verifica dos seguintes excertos (fls. 248-249):
+A impetração visava a rediscussão das penas impostas ao agravante após sua condenação em primeiro grau. Por se tratar de matéria passível de recurso adequado, restou consignado que a questão só poderia ser analisada por meio de Apelação, recurso autônomo destinado a esse fim.
+Inclusive, em consulta aos autos nº 1530895-88.2025.8.26.0228, a apelação interposta pelo agravante foi recebida em 20/01/2026, não havendo espaço para discussão de matérias referentes ao mérito na estreita via do writ, devendo ser levado à C. Câmara Criminal, cuja competência para apreciação dos temas se mostra adequada ao caso.
+Portanto, reafirmo, o "habeas corpus" não se presta ao reexame deste tipo de matéria, cabível a discussão unicamente em recurso próprio, cujo âmbito de cognição é mais amplo do que o do remédio heroico.
+Como visto, a Corte estadual não analisou o pleito defensivo por inadequação da via eleita e pela pendência do recurso cabível, à luz do princípio da unirrecorribilidade recursal.
+Com efeito, a ausência de prévia manifestação da Corte de origem sobre temas discutidos no mandamus inviabiliza seu conhecimento pelo Superior Tribunal de Justiça, porquanto estar-se-ia atuando em patente afronta à competência constitucional reconhecida a esta Corte, nos termos do art. 105 da Carta Magna.
+A propósito:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA. EXTENSÃO DE BENEFÍCIO CONCEDIDO A CORRÉ. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME 1. Agravo regimental interposto por Guilherme Santos Viola da Silva contra decisão monocrática da egrégia Presidência desta Corte que indeferiu liminarmente o habeas corpus impetrado em seu favor. O paciente foi condenado à pena de 4 anos, 7 meses e 9 dias de reclusão, em regime semiaberto, pelo crime previsto no art. 33 da Lei n. 11.343/2006. A defesa pleiteia a incidência da causa de diminuição de pena do tráfico privilegiado, sob o argumento de que a corré obteve tal benefício na apelação criminal.
+II. QUESTÃO EM DISCUSSÃO 2. Há duas questões em discussão: (i) definir se o pleito de reconhecimento do tráfico privilegiado pode ser analisado diretamente pelo Superior Tribunal de Justiça, sem prévio exame pelo Tribunal de origem; e (ii) estabelecer se a extensão do benefício concedido à corré poderia ser analisada por esta Corte.
+III. RAZÕES DE DECIDIR 3. O conhecimento da matéria pelo Superior Tribunal de Justiça configura indevida supressão de instância, pois a questão referente à aplicação do tráfico privilegiado ao paciente não foi objeto de deliberação pelo Tribunal de origem.
+4. A análise do pedido de extensão de benefício concedido a corré compete ao órgão jurisdicional que proferiu a decisão favorável, não cabendo ao Superior Tribunal de Justiça examinar a questão originariamente.
+5. A jurisprudência desta Corte é firme no sentido de que a extensão dos efeitos de decisão favorável a corréu não ocorre de forma automática e deve ser analisada pela instância competente, levando-se em conta as particularidades de cada acusado.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no HC n. 978.258/SC, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 18/3/2025, DJEN de 24/3/2025.)
+Tampouco há falar em ilegalidade ante a não apreciação da questão pelo Tribunal de origem, na medida em que devidamente fundamentado na ofensa ao princípio da unirrecorribilidade, ante a pendência de recurso próprio, no caso, apelação, para a análise da questão, entendimento que está em consonância com a jurisprudência desta Corte. A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA ACÓRDÃO QUE NÃO CONHECEU O HC IMPETRADO NA CORTE DE ORIGEM. AUSÊNCIA DE MANIFESTAÇÃO SOBRE O MÉRITO DO PEDIDO. SUPRESSÃO DE INSTÂNCIA. INTERPOSIÇÃO SIMULTÂNEA DE HABEAS CORPUS E AGRAVO EM EXECUÇÃO. OFENSA AO PRINCÍPIO DA UNIRRECORRIBILIDADE RECURSAL. AUSÊNCIA DE PATENTE ILEGALIDADE NO ACÓRDÃO QUE NÃO CONHECEU A IMPETRAÇÃO ORIGINÁRIA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A competência do STJ para examinar habeas corpus, na forma do art. 105, I, "c", da CF, somente é inaugurada quando o mérito da decisão judicial atacada tiver sido analisado pelo Tribunal, o que implica na exigência de exaurimento prévio da instância ordinária, com manifestação de mérito sobre o tema pelo órgão colegiado. Precedentes do STJ. Situação em que o habeas corpus aqui impetrado se volta contra acórdão que não conheceu da impetração originária.
+2. Não se revela teratológico o acórdão do habeas corpus impetrado na Corte de origem por entender que o habeas corpus não deve ser utilizado como via substitutiva de recursos previstos em lei, pois a utilização do writ como sucedâneo de recurso próprio avilta o princípio do amplo contraditório, porque suprimidas as etapas previstas para o recurso cabível.
+3. A ausência de prévia deliberação sobre o mérito da controvérsia pelas instâncias ordinárias impede a manifestação desta Corte a respeito do tema, sob pena de indevida supressão de instância.
+4. Situação em que deve ser observado o princípio da unirecorribilidade recursal, sendo pacífico o entendimento desta Corte Superior no sentido de "a interposição do recurso cabível contra o ato impugnado e a contemporânea impetração de habeas corpus para igual pretensão somente permitirá o exame do writ se for este destinado à tutela direta da liberdade de locomoção ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e que reflita mediatamente na liberdade do paciente. Nas demais hipóteses, o habeas corpus não deve ser admitido e o exame das questões idênticas deve ser reservado ao recurso previsto para a hipótese, ainda que a matéria discutida resvale, por via transversa, na liberdade individual" (HC n. 482.549/SP, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 11/3/2020, DJe de 3/4/2020).
+5. Agravo regimental desprovido.
+(AgRg no HC n. 1.053.405/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/2/2026, DJEN de 19/2/2026; grifos acrescidos.)
+Ante o exposto, não conheço do recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
