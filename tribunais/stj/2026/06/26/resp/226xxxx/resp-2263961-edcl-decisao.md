@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de embargos de declaração, opostos por G H S E S, em face de decisão monocrática (fls. 872-875, e-STJ), que deu provimento ao recurso especial da ora embargante.
+Daí os presentes aclaratórios (fls. 876-882, e-STJ), nos quais a parte sustenta, em síntese, contradição quanto ao regime de sucumbência (pretensão de afastar a sucumbência recíproca e atribuir integralmente os ônus à recorrida), alteração da base de cálculo dos honorários para o proveito econômico e majoração do respectivo percentual.
+Impugnação às fls. 917-925, e-STJ.
+É o relatório.
+Decido.
+Os embargos de declaração não merecem acolhimento, visto que a parte não demonstrou a existência de nenhum vício a macular o julgado, possuindo o recurso nítido caráter infringente.
+1. Nos estreitos lindes do artigo 1.022 do Código de Processo Civil, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretende a parte ora embargante.
+Nesse sentido, precedentes desta Corte:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. EMBARGOS DE DECLARAÇÃO REJEITADOS. 1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso. 2. No caso dos autos não ocorre nenhuma das hipóteses previstas no artigo 1.022 do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.  ..  4. Embargos de declaração rejeitados. (EDcl no AgRg no AREsp 860.920/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 02/06/2016, DJe 07/06/2016) (grifa-se)
+EMBARGOS DE DECLARAÇÃO OPOSTOS SOB A ÉGIDE DO CPC/2015. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. OBSCURIDADE, CONTRADIÇÃO, OMISSÃO OU ERRO MATERIAL. INEXISTÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REEXAME DE MATÉRIA JÁ DECIDIDA. NÃO CABIMENTO. CORREÇÃO DE VÍCIO FORMAL. ENUNCIADO ADMINISTRATIVO N. 5/STJ.  ..  2. Rejeitam-se os embargos declaratórios quando, no acórdão embargado, não há nenhum dos vícios previstos no art. 1.022 do CPC/2015. 3. Os embargos de declaração não se prestam para provocar o reexame de matéria já apreciada. 4. Primeiros embargos de declaração rejeitados. Segundos embargos de declaração não conhecidos. (EDcl no AgRg no AREsp 799.126/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 02/06/2016, DJe 09/06/2016) (grifa-se)
+No caso, as razões dos embargos revelam tão somente o intuito de reapreciação da questão já decidida, o que não se admite com a objetividade do recurso manejado.
+É que, a pretexto de contradição, na verdade, pretende a parte embargante a modificação do decisum que expôs de forma clara as razões da manutenção da decisão agravada.
+Não se vislumbram vícios na decisão embargada, pois decidiu de forma congruente a fixação dos honorários advocatícios (fl. 875, e-STJ):
+2. Do  exposto,  com  fulcro  no  artigo  932  do  CPC  c/c  a Súmula  568  do  STJ, dou provimento ao recurso especial, para reconhecer a ilegalidade da negativa de cobertura do tratamento indicado ao recorrente, restabelecendo integralmente a r. sentença de primeiro grau (fls. 332-336, e-STJ), inclusive quanto à distribuição do ônus sucumbencial.
+A sentença de fls. 332-336, e-STJ, assim dispôs acerca dos honorários:
+Em razão da sucumbência recíproca, arcará cada parte com 50% do valor das custas e despesas processuais, além dos honorários advocatícios que arbitro em 10% valor da causa, para ambos os procuradores, nos termos do art. 85, § 2º, do CPC, devendo ser ressalvada a gratuidade concedida à parte autora.
+No presente caso, por versar sobre tratamento continuado e sem limitação de sessões, a mensurabilidade do proveito econômico não se estabelece no momento do arbitramento dos honorários, impondo a base de cálculo no valor da causa.
+Nesse sentido:
+PROCESSUAL CIVIL E CONSUMIDOR. RECURSO ESPECIAL. PLANO DE SAÚDE. OBRIGAÇÃO DE FAZER CUMULADA COM DANOS MORAIS. TRATAMENTO MULTIDISCIPLINAR CONTÍNUO PARA MENOR COM TEA E SÍNDROME DE PITT-HOPKINS. ASTREINTES. ADEQUAÇÃO, SUFICIÊNCIA E PROPORCIONALIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. HONORÁRIOS SUCUMBENCIAIS. ART. 85, § 2º, DO CPC. PROVEITO ECONÔMICO IMENSURÁVEL. BASE DE CÁLCULO NO VALOR DA CAUSA. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RECURSO ESPECIAL NÃO CONHECIDO.
+(..)
+4. Os honorários sucumbenciais observam a ordem legal: sobre o valor da condenação, sobre o proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa. Em tratamento continuado e sem limitação de sessões, a mensurabilidade do proveito econômico não se estabelece no momento do arbitramento, impondo a base de cálculo no valor da causa.
+(..)
+7. Recurso especial não conhecido. (REsp n. 2.126.403/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 13/4/2026, DJEN de 16/4/2026.)
+Desta forma, ao contrário do que afirma a parte ora insurgente, não há vícios há serem sanados no julgado embargado. A pretensão da parte não está em harmonia com a natureza e a função dos embargos declaratórios, não demonstrando, em suas razões recursais, qualquer vício que a decisão embargada tenha incorrido.
+Portanto, não se vislumbra quaisquer das máculas do artigo 1.022 do CPC na decisão hostilizada.
+2. Não obstante a rejeição dos aclaratórios, deixa-se de aplicar a multa prevista no artigo 1.026, § 2º, do CPC, pois, em se tratando de primeiros embargos de declaração que não ostentam caráter manifestamente protelatório, pressuposto para aplicação da medida, descabida a sua incidência neste momento.
+No entanto , desde já se adverte que a reiteração de embargos de declaração, com intuito de rediscussão do julgado, poderá caracterizar o aludido caráter manifestamente protelatório, ensejando a aplicação da multa citada.
+3. Do exposto, rejeitam-se os presentes embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
