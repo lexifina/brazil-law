@@ -1,0 +1,23 @@
+DECISÃO
+Examina-se agravo em recurso especial adesivo interposto por MARIA AUXILIADORA DE SOUZA PRANDY, contra decisão que inadmitiu recurso especial, fundamentado, exclusivamente, no art. 105, inciso III, alínea "a", da Constituição Federal.
+Agravo em recurso especial adesivo interposto em: 22/8/2024.
+Concluso ao gabinete em: 24/2/2026.
+Ação: de obrigação de fazer c/c compensação por danos morais, ajuizada por MARIA AUXILIADORA DE SOUZA PRANDY, em face de UNIMED BELO HORIZONTE COOPERATIVA DE TRABALHO MÉDICO, na qual requer o fornecimento de tratamento domiciliar na modalidade home care, com equipe multidisciplinar, insumos, equipamentos e medicamentos.
+Sentença: julgou parcialmente procedentes os pedidos, para confirmar a tutela de urgência que determinou o fornecimento tratamento de home care pleiteado e afastar a pretensão relativa à compensação por danos morais.
+Acórdão: deu parcial provimento ao recurso de apelação interposto pela UNIMED, nos termos da seguinte ementa:
+EMENTA: APELAÇÃO CÍVEL. AÇÃO COMINATÓRIA DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. FORNECIMENTO DE "HOME CARE". DESNECESSIDADE DE INTERNAÇÃO HOSPITALAR. RECUSA DE COBERTURA. ABUSIVIDADE NÃO CONFIGURADA. PROGRAMA DE ACOMPANHAMENTO DOMICILIAR (PAD). SERVIÇO OFERTADO À BENEFICIÁRIA DO PLANO. MANUTENÇÃO. RECURSO PARCIAMENTE PROVIDO. SENTENÇA REFORMADA, EM PARTE.
+- O rol de procedimentos e eventos em saúde suplementar constitui referência básica para os planos privados de assistência à saúde.
+- O denominado "home care" se constitui, em linhas gerais, em ações de promoção à saúde, prevenção, tratamento de doenças e reabilitação desenvolvidas no domicílio do paciente, como meio substitutivo ou complementar às internações hospitalares e/ou ambulatoriais, visando a que a humanização e o bem-estar proporcionados pelo ambiente familiar tragam benefícios para a recuperação do paciente. Pelo "home care", o paciente recebe em sua residência os mesmos cuidados que receberia se estivesse internado em hospital e/ou ambulatório.
+- O Superior Tribunal de Justiça vem entendendo que a negativa do plano de saúde em cobrir as despesas do serviço de "home care" é abusiva porque, como medida substitutiva da internação hospitalar, é uma obrigação da operadora do plano de saúde. Entretanto, não sendo o caso de internação hospitalar, não é abusiva a recusa do plano de saúde em fornecer assistência domiciliar, com tratamentos, medicamentos e insumos não decorrentes de um quadro de necessária internação hospitalar, exceto os antineoplásicos, mormente se expressamente prevista em contrato a exclusão de tal serviço.
+- No presente caso, se a beneficiária do plano de saúde foi inserida no Programa de Acompanhamento Domiciliar (PAD) da prestadora, o qual "contempla o treinamento, por meio de equipe multidisciplinar, para cuidador e/ ou familiar que acompanhe o beneficiário", faz jus a ser mantida nesse Programa, em seus respectivos termos, em respeito à boa-fé que deve reger as relações contratuais. (e-STJ fl. 902)
+Embargos de Declaração: opostos pela UNIMED e por MARIA AUXILIADORA, foram rejeitados.
+Recurso especial: alega violação do art. 3º, §2º, 6º, 51, IV e §1º, I e II, do CDC.
+Aduz a necessidade do tratamento indicado, de modo que deve a seguradora custear o home care, bem como que é extra petita a determinação de sua manutenção no Programa de Acompanhamento Domiciliar (PAD).
+RELATADO O PROCESSO, DECIDE-SE.
+Nos termos do art. 997, § 2º, III, do CPC, não pode ser conhecido o recurso adesivo quando for declara do inadmissível o recurso principal. Nesse sentido: AgInt no AREsp n. 2.479.164/MG, Terceira Turma, DJe de 14/3/2024; AgInt no AREsp n. 1.398.956/SP, Quarta Turma, julgado em 8/4/2024, DJe de 19/4/2024; e AgInt no AREsp n. 1.582.951/MS, Terceira Turma, DJe de 12/6/2020.
+Ainda conforme entendimento assentado no STJ, "Interposto recurso especial principal e adesivo, e decidido o primeiro sem ingresso no mérito, fica prejudicado o recurso adesivo" (AgInt no AREsp 2.627.199/SP, Terceira Turma, DJEN 23/6/2025). No mesmo sentido: AgInt no REsp 1.418.786/RJ, Quarta Turma, DJe de 6/5/2020.
+Assim, diante do não conhecimento do recurso especial principal interposto pelo recorrente UNIMED BELO HORIZONTE COOPERATIVA DE TRABALHO MÉDICO, o presente recurso adesivo deve ser julgado prejudicado.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
