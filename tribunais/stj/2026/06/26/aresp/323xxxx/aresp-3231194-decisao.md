@@ -1,0 +1,42 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por RUBBER-FLEX INDUSTRIA E COMERCIO LTDA., contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em Recurso especial interposto em: 11/2/2026.
+Concluso ao gabinete em: 29/5/2026.
+Ação: abstenção de uso de patente c/c pedido indenizatório, ajuizada por BERTECH BRASIL PRODUTOS QUIMICOS LTDA. - EMPRESA DE PEQUENO PORTE, em face de RUBBER-FLEX INDUSTRIA E COMERCIO LTDA.
+Decisão interlocutória: deferiu o pedido de tutela de urgência para determinar que a parte agravante se abstenha de fabricar, importar, exportar, vender, expor ou oferecer à venda, ter em estoque, ocultar ou receber ou, de qualquer outro modo, comercializar produtos que violem a Patente de Invenção BR112012016629-8, em especial o produto FASTBELT, sob pena de multa pelo descumprimento de R$ 10.000,00 (dez mil reais), limitada a R$ 1.000.000,00 (um milhão de reais).
+Acórdão: negou provimento ao Agravo de Instrumento interposto pela parte agravante, nos termos da seguinte ementa:
+"AGRAVO DE INSTRUMENTO - AÇÃO DE ABSTENÇÃO DE USO DE PATENTE E PRÁTICA DE CONCORRÊNCIA DESLEAL - TUTELA DE URGÊNCIA DE URGÊNCIA CONCEDIDA - REFORMA DA DECISÃO - FATO NOVO - NÃO ACOLHIMENTO - RECURSO DESPROVIDO. Diante da ausência de alteração da situação fático-jurídica discutida nos autos originais, o suposto fato novo mencionado pelo agravante não tem o condão de tornar os requisitos autorizadores da medida de urgência inexistentes neste momento processual. Recurso negado." (e-STJ fl. 1129)
+Embargos de Declaração: opostos, pela parte agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 296, 300, §§ 1º, 3º, 489, 1.022, II, CPC, 8º, Lei 9.279/1996. Além de negativa de prestação jurisdicional, sustenta que: i) o regramento vigente acerca da tutela cautelar, aliado aos fatos da hipótese, ignorados pelo TJ/MG, são suficientes para demonstrar a impossibilidade de manutenção da tutela liminar uma vez que foi descaracterizada a probabilidade de direito da parte recorrida e o aferimento da violação exige dilação probatória, além de haver risco de irreversibilidade da decisão; e, ii) o TJ/MG ignorou o fato de que, nos autos da Ação de Nulidade nº 1074587-22.2021.4.01.3800, foram evidenciados fortes indícios de que a Carta Patente que lastreia o suposto direito da parte recorrida é, em verdade, nula; e, iii) o TJ/MG entendeu que não haveria alteração fática apta a ensejar, no mínimo, a alteração da liminar concedida para condicioná-la à prestação de caução, no entanto, o referido entendimento se apresenta como extremamente temerário, especialmente por versar sobre medida liminar e provisória; e, iv) a manutenção da tutela concedida, da forma em que concedida, será extremamente prejudicial à parte recorrente, que poderá ser submetida a expressivo ônus para reaver todo os lucros cessantes decorrentes da liminar que sequer possui fundamento de ser.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, Terceira Turma, DJe de 2/2/2018 e AgInt no AREsp 1.089.677/AM, Quarta Turma, DJe de 16/2/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da não ocorrência de fato novo capaz de justificar a revogação ou alteração da tutela concedida, de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC.
+- Da violação do art. 489 do CPC
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+- Da fundamentação deficiente
+Os argumentos invocados pela parte agravante não demonstram como o acórdão recorrido violou os arts. 296, 300, §§ 1º, 3º, CPC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do art. 8º, Lei 9.279/1996, indicados como violados, apesar da oposição de embargos de declaração.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "a parte agravante interpôs o Agravo de Instrumento nº 1.0000.21.130522-2/002), cujo julgamento ocorreu em 07/12/2022, relacionado ao mesmo fato ora discutido, tendo sido negado provimento", bem como de que "o novo parecer do INPI ao presente caso, não se trata de fato novo apto a anular ou mesmo fazer com que os requisitos que autorizaram a concessão da medida urgente deferida à parte agravada deixem de existir", assim também de que "não houve qualquer alteração fático-jurídica que leve ao entendimento quanto à desnecessidade da medida cautelar", além de que "inexistindo decisão de mérito, no sentido de se declarar nulo o ato que concedeu a patente à parte agravada, a decisão tomada em sede de cautelar deve ser mantida", ao entendimento de que "deve-se primar pela segurança jurídica e proteção de um direito da parte agravada, devidamente reconhecido em várias oportunidades e autoridades distintas (administrativa e judicial)", exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da Súmula 568/STJ
+Além de todo o exposto, fixa-se que a jurisprudência desta Corte se orienta no sentido de ser incabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, haja vista a natureza precária da decisão, a teor do que dispõe a Súmula 735/STF, aplicável por analogia.
+Assim, quanto ao ponto, há incidência da Súmula 568/STJ. Nesse sentido: REsp 2.058.606/RS, Quarta Turma, DJEN 13/2/2026; REsp 2.227.182/MG, Terceira Turma, DJEN 15/12/2025; AgInt no AREsp 2.747.029/SP, Quarta Turma, DJEN 27/11/2025; AREsp 2.999.000/RS, Terceira Turma, DJEN 27/11/2025.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ABSTENÇÃO DE USO DE PATENTE C/C PEDIDO INDENIZATÓRIO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. REVISÃO DE REQUISITOS PARA DEFERIMENTO DE TUTELA DE URGÊNCIA. DECISÃO PRECÁRIA. SÚMULA 568/STJ.
+1. Ação de abstenção de uso de patente c/c pedido indenizatório.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+6. O reexame de fatos e provas em recurso especial é inadmissível.
+7. Não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, haja vista a natureza precária da decisão, conforme a Súmula 568/STJ.
+8. Agravo conhecido. Recurso especial conhecido em parte e, nessa extensão, não provido.
