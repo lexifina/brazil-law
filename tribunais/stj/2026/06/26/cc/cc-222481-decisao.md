@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de conflito entre o r. juízo de direito da 5ª Vara Cível de Passo Fundo/RS e o r. juízo federal da 2ª Vara de Passo Fundo - SJ/RS acerca da competência para processar e julgar ação ordinária em que se questiona descontos em benefício previdenciário por alega fraude em contrato associativo, com pedidos de cessação dos descontos, restituição de valores e indenização por danos morais, ajuizada em face da AMBEC - Associação de Aposentados Mutualista para Benefícios Coletivos (fls. 6-28).
+É o relatório.
+Decisão.
+A matéria subjacente ao presente incidente encontra-se pacificada no âmbito deste Superior Tribunal de Justiça, de modo a atrair a incidência da Súmula 568 /STJ e a possibilidade do exame unipessoal da questão (ut. CC 179.787/PE, Rel. Min. Paulo de Tarso Sanseverino, Dje de 25/05/2021; CC 169.970/SP, Rel. Min. Antonio Carlos Ferreira, Dje de 30/03/2020).
+1. Destaca-se a competência deste Superior Tribunal de Justiça para o exame do presente incidente, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+2. Extrai-se da petição inicial que os pedidos decorrem da ilicitude do desconto levado a termo e estão amparados no Código Civil e no Código de Defesa do Consumidor, inexistindo controvérsia sobre relação trabalhista e levando-se em conta que a competência para o julgamento da demanda define-se em face de sua natureza jurídica, a qual, delineada em razão de seu pedido e causa de pedir, é evidente a natureza eminentemente civil da controvérsia posta na ação objeto do conflito.
+Nessa linha: AgRg no CC n. 135.744/RJ, Rel. Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 24/6/2015; CC n. 209.504/AM, Rel. Min. Moura Ribeiro, DJe de 05/03/2025; CC n. 210.727/AM, CC n. 208.826/MA, Rel. Min. Marco Aurélio Bellizze, DJe 13/11/2024; CC 211.645/AM, Rel. Min. Marco Buzzi, DJe de 28/3/2025.
+Dessa forma, quando a demanda versa sobre descontos indevidos de contribuição associativa/privada em benefícios previdenciários de aposentados, com causa de pedir e pedidos civis/consumeristas, a competência é da Justiça Comum Estadual.
+3. Do exposto, com fundamento no art. 955, parágrafo único, do CPC c/c Súmula 568/STJ, conheço do conflito e, por conseguinte, declaro a competência do r. juízo da 5ª Vara Cível de Passo Fundo/RS, nos termos da fundamentação supramencionada.
+Publique-se. Intimem-se. Oficiem-se.
+EMENTA
