@@ -1,0 +1,43 @@
+DECISÃO:
+Vistos.
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Patrícia Kroenlein Cantanhede, apontando como autoridade coatora o Superior Tribunal Militar, que indeferiu o pleito defensivo de sustentação oral, no Agravo Interno nº 7000351-50.2026.7.00.0000/DF, Relatora a Ministra Presidente Maria Elizabeth Guimarães Teixeira Rocha.
+Consta dos autos a absolvição da paciente no Juízo de primeira instância, rechaçando a denúncia do Ministério Público Militar acerca da prática do delito de estelionato (e-doc. 9). O Superior Tribunal Militar - STM, em sede de apreciação da Apelação Criminal nº 7000209-51.2023.7.00.0000/RJ negou provimento ao recurso ministerial (e-doc. 10).
+Irresignado, o Ministério Público Militar opôs embargos infringentes e de nulidade; estes foram acolhidos, a fim de fazer prevalecer o voto divergente e condenar a paciente à pena de 2 anos e 3 meses de reclusão, em regime aberto, pelo crime previsto no art. 251 do Código Penal Militar, com fixação da pena-base acima do mínimo legal, em razão da elevada extensão do dano, nos termos do art. 69 do mesmo Diploma Legal (e-doc. 2).
+Os embargos de declaração opostos pela defesa foram improvidos (e-doc. 4). Ainda, a defesa interpôs o Agravo Interno Criminal nº 7000351-50.2026.7.00.0000/DF, sinalizando que quanto ao pedido de realização do julgamento em sessão por videoconferência/presencial; este pleito foi deferido; enquanto o pedido de sustentação oral foi indeferido (e-doc. 11).
+Neste writ, sustenta-se a ocorrência de constrangimento ilegal diante do indeferimento do pedido de sustentação oral pela defesa técnica no âmbito da interposição de agravo interno. Defende, ainda, que: “ao indeferir o pedido de sustentação oral, a autoridade apontada como coatora deixou de considerar as peculiaridades e a manifesta excepcionalidade do caso concreto, marcado pela condenação da paciente após sucessivas decisões absolutórias e pela discussão de matérias constitucionais relevantes, suscitadas justamente para fins de apreciação colegiada e eventual acesso às instâncias extraordinárias” (e-doc. 1, p. 5).
+Lado outro, assevera que a imprescindibilidade de realização da sustentação oral assume relevância no caso concreto para permitir que a defesa exponha de forma aprofundada e diretamente ao órgão colegiado as peculiaridades da causa.
+Requer, ao final, o reconhecimento da ilegalidade da decisão proferida pela Ministra Presidente do Superior Tribunal Militar que indeferiu o pedido de sustentação oral, a fim de cassar o ato coator e determinar o julgamento do Agravo Interno nº 7000351- 50.2026.7.00.0000/DF, com a inclusão do feito em pauta presencial e a garantia de realização de sustentação oral pela defesa técnica.
+Examinados os autos, decido.
+O art. 102, I, i, da Constituição Federal preceitua que a competência do Supremo Tribunal Federal para processar e julgar originariamente o habeas corpus será inaugurada “[...] quando o coator for Tribunal Superior ou quando o coator ou o paciente for autoridade ou funcionário cujos atos estejam sujeitos diretamente à jurisdição do Supremo Tribunal Federal, ou se trate de crime sujeito à mesma jurisdição em uma única instância”.
+Na espécie, a ausência da análise pelo colegiado de Tribunal Superior, dos fundamentos constantes da decisão monocrática, impede o conhecimento do writ nesta Suprema Corte.
+Com efeito, é firme a jurisprudência deste Supremo Tribunal Federal no sentido de que não se revela admissível a utilização do habeas corpus quando se pretende discutir os pressupostos de admissibilidade de recurso interposto na origem.
+Nesse sentido, anote-se:
+
+“AGRAVO REGIMENTAL EM HABEAS CORPUS. MATÉRIA CRIMINAL. WRIT UTILIZADO COMO SUCEDÂNEO DE REVISÃO CRIMINAL. IMPOSSIBILIDADE. AUSÊNCIA DE ILEGALIDADE EVIDENTE OU TERATOLOGIA. REQUISITOS DE ADMISSIBILIDADE DE RECURSO INTERPOSTO EM OUTRO TRIBUNAL. IMPOSSIBILIDADE DE ANÁLISE EM HABEAS CORPUS. EMBARGOS PROTELATÓRIOS. TRÂNSITO EM JULGADO DETERMINADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA. POSSIBILIDADE. TESE ABSOLVIÇÃO. TESE DESPROVIDA DE VEROSSIMILHANÇA. CONDENAÇÃO DEVIDAMENTE FUNDAMENTADA PELO TRIBUNAL LOCAL. FATOS E PROVAS. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO. 1. No caso concreto, por contrariar frontalmente a jurisprudência do Supremo Tribunal Federal, o habeas corpus não merece conhecimento, na medida em que funciona como sucedâneo de revisão criminal. Precedentes. 2. Não há ilegalidade evidente ou teratologia a justificar a excepcionalíssima concessão da ordem de ofício. 3. A jurisprudência deste Supremo Tribunal Federal é firme no sentido de que é incabível, em sede de habeas corpus, a análise dos requisitos de admissibilidade de recurso interposto no Superior Tribunal de Justiça. Precedentes. 4. Não há ilegalidade na decisão que determina a imediata certificação do trânsito em julgado em razão da natureza protelatória dos embargos de declaração opostos. Precedentes. 5. A tese de que a Corte local condenou o agravante sem ler o processo não se reveste de verossimilhança, porquanto houve a devida análise do conjunto fático-probatório dos autos, estando o decreto condenatório devidamente fundamentado. 6. Não cabe a esta Corte rever as premissas decisórias encampadas pelas instâncias ordinárias, na medida em que tal proceder pressupõe aprofundado reexame de fatos e provas, providência incompatível com a estreita via do habeas corpus. 7. Agravo regimental desprovido.” (HC 222021 ED-AgR, Relator(a): EDSON FACHIN, Segunda Turma, julgado em 27-03-2023, PROCESSO ELETRÔNICO DJe-s/n  DIVULG 10-04-2023  PUBLIC 11-04-2023 – grifei)
+
+“PROCESSUAL PENAL. AGRAVO REGIMENTAL. HOMICÍDIO QUALIFICADO. ANÁLISE DOS PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO INTERPOSTO PERANTE TRIBUNAL SUPERIOR. INADEQUAÇÃO DA VIA ELEITA. 1. Inexistindo pronunciamento colegiado do Superior Tribunal de Justiça, não compete ao Supremo Tribunal Federal examinar a questão de direito discutida na impetração. 2. Não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante Tribunal Superior (vg. HC 111.324, Redator para o acórdão o Min. Luís Roberto Barroso; HC 109.156, Rel. Min. Dias Toffoli; HC 115.357-AgR, Rel. Min. Dias Toffoli). 3. Declarada a ausência de repercussão geral da matéria pelo Plenário do Supremo Tribunal Federal, os recursos que versem sobre questão constitucional idêntica devem ser inadmitidos na origem, com base no artigo 543-B, § 3º, do Código de Processo Civil. 4. Agravo regimental desprovido.” (HC nº 134.760-AgR/BA, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 24/11/16 – grifei)
+
+No mesmo sentido: HC nº 138.687-AgR/RS, Segunda Turma, Relator o Ministro Celso de Mello, DJe de 1º/3/17; HC nº 134.446-AgR/SE, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 5/12/16; HC nº 134.206-AgR/RO, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 22/6/16; HC nº 131.365/SP, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 30/3/16; HC nº 109.156/PR, Primeira Turma de minha relatoria, DJe de 15/4/13.
+Ainda, o despacho proferido pelo Superior Tribunal Militar, em sede do Agravo Interno Criminal nº 7000351-50.2026.7.00.0000/DF, não evidencia ilegalidade flagrante, abuso de poder ou teratologia que justifique o provimento do recurso.
+Conforme assentou a Ministra Presidente Maria Elizabeth Guimarães Teixeira Rocha, “a interposição do agravo foi manejada contra a Decisão monocrática que negou seguimento aos Embargos de Declaração n° 7000285-70.2026.7.00.0000”, sendo que esta hipótese não está contemplada nos termos do art. 76-A do Regimento Interno do Superior Tribunal Militar (e-doc. 11).
+Vê-se que o art. 76-A do Regimento Interno do STM  preceitua, in verbis:
+
+“Art. 76-A. No caso do Agravo previsto no art. 123 deste Regimento, caberá a sustentação oral se o Agravo for interposto contra a decisão monocrática que julgar o mérito ou não conhecer dos seguintes recursos e/ou ações:
+I - recurso de apelação;
+II - recurso ordinário;
+III - recurso extraordinário;
+IV - embargos de nulidade e infringentes do julgado;
+V - mandado de segurança;
+VI - reclamação;
+VII - habeas corpus;
+VIII - outras ações de competência originária.”
+
+De acordo com a previsão do referido normativo, a decisão monocrática de negativa de seguimento nos Embargos de Declaração Criminal nº 7000285-70.2026.7.00.0000/DF não é objeto cabível para suscitar o cabimento da sustentação oral.
+Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao habeas corpus, ficando prejudicado o pedido de liminar.
+
+Publique-se.
+Brasília, 26 de junho de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
