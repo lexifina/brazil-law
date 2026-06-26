@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ELZA SOARES FERREIRA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA DE SERVIÇOS MÉDICO- HOSPITALARES. ATENDIMENTO PARTICULAR. DÍVIDA PARCIALMENTE ADIMPLIDA. REVELIA. PRESCRIÇÃO AFASTADA. RECURSO DESPROVIDO (fl. 270).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 357 do Código de Processo Civil, no que concerne ao reconhecimento da nulidade do processo por ausência de decisão de saneamento e organização do feito, em razão de ter havido julgamento antecipado sem delimitação dos pontos controvertidos e sem oportunidade para especificação e produção de provas pela curadoria especial, trazendo a seguinte argumentação:
+A fase de saneamento é um momento processual de extrema relevância, no qual o juiz, em colaboração com as partes, delimita as questões de fato sobre as quais recairá atividade probatória e as questões de direito relevantes para a decisão de mérito. A não fixação dos pontos controvertidos deixa as partes em uma situação de incerteza, sem saber quais fatos precisam provar, o que acarreta um cerceamento de defesa.
+No caso em tela, a Recorrente arguiu a prescrição, a inépcia da inicial, o pagamento integral do débito e a necessidade de chamamento ao processo do médico responsável pela negociação. Nenhuma dessas questões foi devidamente delimitada como ponto controvertido, e a produção de provas foi sumariamente indeferida, culminando em um julgamento antecipado da lide que a prejudicou.
+Assim, imprescindível o reconhecimento da nulidade, por inobservância do procedimento, com o retorno dos autos à fase de saneamento, viabilizando-se a manifestação da parte sobre as provas que pretende produzir (fls. 334-335).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Preliminarmente, quanto à alegada nulidade do processo por ausência de fase de saneamento e de oportunidade para produção de provas, a preliminar não merece acolhida.
+Isto porque, a parte ré foi regularmente citada, conforme imagem abaixo certidão (id.000153):
+ ..
+Optando por permanecer inerte ensejando a decretação de sua revelia, nos termos do artigo 344 do CPC.
+Ato contínuo, às fls. 154, index 000154, foi exarada a certidão de que a Ré não apresentou defesa, acarretando a participação da D. Defensoria Pública às fls. 166, index 000166, aduzindo questões de ordem Pública.
+Desta forma, a Defensoria Pública atuou como curadora especial e apresentou contestação por negativa geral.
+Assim, em momento algum foi formulado pedido expresso de produção de provas, tampouco houve impugnação substancial aos fatos articulados na petição inicial.
+Ademais, a decretação de revelia, nos casos de direito disponível, autoriza o julgamento imediato da lide, inexistindo necessidade de saneamento formal, conforme dispõe o artigo 355, I, do CPC (fls. 274-275).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à necessidade ou não de dilação probatória demandaria o reexame do acervo fático-probatório juntado aos autos, o que não é possível em sede de recurso especial.
+Nesse sentido: "Para prevalecer a pretensão em sentido contrário à conclusão das instâncias ordinárias, que entenderam não ser preciso maior dilação probatória, seria necessária a revisão do conjunto fático-probatório dos autos, o que é inviável nesta instância especial por força da Súmula nº 7/STJ". (AgInt no AREsp n. 2.541.210/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/12/2024.)
+Na mesma linha: "XI - Para acolhimento da pretensão recursal, seria necessário o revolvimento de fatos e provas, a fim de compreender pela necessidade da produção probatória sobre os específicos fatos alegados como essenciais à demonstração da tese sustentada pela parte recorrente, mas que foram descartados para o deslinde da controvérsia pelo julgador a quo. XII - Não cabe, assim, o conhecimento da pretensão recursal, porque exigiria a revisão de juízo de fato exarado pelas instâncias ordinárias sobre o alegado cerceamento da produção probatória, o que é inviável em recurso especial. Incidência do Enunciado Sumular n. 7/STJ". (AgInt no REsp n. 2.031.543/PA, relator Ministro Francisco Falcão, Segunda Turma, DJEN de 9/12/2024.)
+Confiram-se ainda os seguint es precedentes: AgInt no AREsp n. 2.714.570/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJEN de 20/2/2025; AgInt no AREsp n. 2.542.388/MG, relator Ministro Raul Araújo, Quarta Turma, DJEN de 20/12/2024; AgInt no AREsp n. 2.683.088/MG, relator Ministro João Otávio de Noronha, Quarta Turma, DJEN de 29/11/2024; e AgInt no AREsp n. 2.578.737/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, DJe de 25/10/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
