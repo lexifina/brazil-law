@@ -1,0 +1,29 @@
+DECISÃO
+VINICIUS FRANCA HUBNER alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul nos Embargos Infringentes n. 5002042-84.2024.8.21.0017.
+A defesa afirma que o plenário do Júri foi contaminado pela juntada e menção, pela acusação, de documentos estranhos ao processo e ao paciente, usados como argumento de autoridade. Sustenta que houve quebra da imparcialidade e da paridade de armas, com impacto direto na íntima convicção dos jurados.
+Requer a declaração de nulidade do julgamento do Tribunal do Júri.
+O Ministério Público Federal opinou pela denegação da ordem (fls. 411-418).
+Decido.
+Verifico que não haver interesse-utilidade da parte no pleito formulado, uma vez que a sessão plenária de julgamento já foi anulada, por fundamento diverso, pelo Tribunal de origem. Confira-se, a propósito, as informações prestadas pela Corte local (fl. 395, destaquei):
+A Egrégia 1ª Câmara Especial Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul decidiu, por maioria, vencidas as Desembargadoras Viviane de Faria Miranda e Rosane Wanner da Silva Bordasch, dar parcial provimento aos Embargos Infringentes, para o fim de, fazendo prevalecer o douto voto vencido do e Des. Marcelo Machado Bertoluci, declarar a nulidade absoluta do julgamento a que foi submetido o PACIENTE, por ofensa à plenitude de defesa (art. 5º, XXXVIII, "a", da CF), determinando que a outro seja submetido, com a observância de todas as garantias processuais e constitucionais (processo 5002042- 84.2024.8.21.0017/TJRS, evento 124, ACOR2).
+Inconformado, o Ministério Público opôs embargos de declaração em 22/12/2025 (processo 5002042-84.2024.8.21.0017/TJRS, evento 132, EMBDECL1), os quais foram desacolhidos (processo 5002042-84.2024.8.21.0017/TJRS, evento 149, ACOR2).
+Veja-se, ainda, o dispositivo do acórdão impugnado (fl. 69, grifei):
+Ante o exposto, voto no sentido de dar parcial provimento aos Embargos Infringentes, para o fim de, fazendo prevalecer o douto voto vencido do e Des. Marcelo Machado Bertoluci, declarar a nulidade absoluta do julgamento a que foi submetido o réu VINICIUS FRANCA HUBNER, por ofensa à plenitude de defesa (art. 5º, XXXVIII, "a", da CF), determinando que a outro seja submetido, com a observância de todas as garantias processuais e constitucionais.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONDENADO POR HOMICÍDIO (CINCO VEZES). ABSOLVIDO POR HOMICÍDIO (DUAS VEZES). TRIBUNAL DE ORIGEM DEU PROVIMENTO AO RECURSO MINISTERIAL PARA ANULAR O JÚRI. PLEITO DE ANULAÇÃO DO JÚRI EM ACOLHIMENTO ÀS TESES DEFENSIVAS. AUSÊNCIA DE INTERESSE RECURSAL. NULIDADE. AUSÊNCIA DE MÍDIAS DAS AUDIÊNCIAS NOS AUTOS. INOVAÇÃO RECURSAL.
+1. A instituição do Júri, com a organização que lhe dá o Código de Processo Penal, assegura a soberania dos veredictos. Dúvidas não há de que o recurso não devolve ao colegiado local o julgamento da causa para substituir a decisão do Conselho de Sentença pela sua própria; ao órgão recursal permite-se, somente, a efetivação de um juízo de constatação relativo à existência de arcabouço probatório bastante a amparar a escolha dos jurados, apenas se afigurando possível a rescisão do veredicto quando absolutamente desprovido de provas mínimas.
+2. A doutrina e a jurisprudência recomendam o respeito à competência do Tribunal do Júri para decidir entre as versões plausíveis que o conjunto contraditório da prova admita.
+3. Na hipótese, tendo o acórdão recorrido dado provimento à apelação ministerial para submeter o réu a novo julgamento perante o Tribunal do Júri; eventual provimento do pedido recursal para anular o Júri, em acolhimento às razões defensivas, não traz nenhum proveito ao caso concreto, tendo em vista que o Conselho de Sentença é livre para decidir favoravelmente ou não ao réu no refazimento do julgamento, haja vista a soberania dos veredictos.
+4. A alegação de nulidade por cerceamento de defesa, em razão da ausência de mídias das audiências de instrução e julgamento nos autos, somente foi arguida neste agravo regimental, tratando-se de inovação recursal; tampouco foi prequestionada perante o Tribunal de origem, razão pela qual não se pode dela conhecer.
+5. Agravo regimental do qual se conhece em parte e, nessa parte, nega-se provimento.
+(AgRg no AREsp n. 1.625.666/CE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/9/2023, DJe de 18/9/2023, destaquei)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. JÚRI. ART. 483 DO CPP. QUESITOS. ABSOLVIÇÃO. AUSÊNCIA. ANULAÇÃO DO JULGAMENTO PELO TRIBUNAL DE ORIGEM. DETERMINAÇÃO DE NOVO JULGAMENTO. QUESITO ACERCA CAUSA DE DIMINUIÇÃO DA PENA. AUSÊNCIA DE ALEGAÇÃO PELA DEFESA. FALTA DE INTERESSE. AGRAVO PROVIDO PARA CONHECER DO AGRAVO E NEGAR-LHE PROVIMENTO.
+1. Reconsiderada a decisão que não conheceu do agravo com fundamento no art. 932, III, do CPC c/c art. 3º do CPP.
+2. Incabível, na via eleita, o exame de violação a dispositivos constitucionais (arts. 5º, XXXVIII, XLVII, LIV e LV, da CF), cuja competência é reservada ao STF, nos termos do art. 102, III, da Constituição Federal.
+3. Nos termos do art. 483, III, do CPP, após a indagação sobre a absolvição do acusado, deve ser formulado quesito acerca da existência de causa de diminuição de pena alegada pela defesa.
+4. Anulado o julgamento pelo Tribunal de origem, de ofício, por outro fundamento, ausente interesse recursal no reconhecimento da nulidade, porquanto a defesa poderá formular oportunamente a tese acerca da causa de diminuição que pretende submeter ao Conselho de Sentença.
+5. Agravo regimental provido para conhecer do agravo em recurso especial e negar-lhe provimento.
+(AgRg no AREsp n. 564.009/GO, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 27/9/2016, DJe de 10/10/2016.)
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
