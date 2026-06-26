@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de agravo interno interposto por VERÔNICA PEREIRA DE BARROS em face de decisão monocrática da Presidência desta Corte Superior, que não conheceu do agravo em recurso especial ante a aplicação, por analogia, da Súmula 182/STJ (e-STJ, fls. 1120/1121).
+O apelo extremo, fundamentado na alínea "a" do permissivo constitucional, objetivou reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 1048, e-STJ):
+APELAÇÃO. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. Colisão envolvendo motocicleta e automóvel. Sentença de improcedência. Apelo da autora. Exame: depoimentos das partes que permitem concluir que a autora, que estava na faixa da direita, ingressaria na rotatória, à esquerda, para então adentrar em outra via. Requerente que deveria ter se posicionado na faixa do meio ou naquela mais à esquerda para efetuar a manobra. Ausência de cautela da motorista que deu causa ao acidente. Violação dos art. 28, 29, II, 34 e 35 do Código de Trânsito Brasileiro. Fotografias da motocicleta que indicam ter havido colisão lateral, e não traseira, o que é corroborado pelas informações do boletim de ocorrência. Manutenção da sentença. Majoração dos honorários sucumbenciais. RECURSO DESPROVIDO. (fls. 1048, e-STJ)
+Nas razões do especial (e-STJ, fls. 1057/1063), a parte recorrente sustentou violação aos arts. 28, 29, II e § 2º, 34 e 35 do Código de Trânsito Brasileiro, defendendo a reforma do acórdão recorrido que reconheceu sua culpa exclusiva pelo acidente, ao argumento de que caberia à condutora do veículo maior, à luz de seu dever qualificado de segurança, prever o risco e adotar as medidas evasivas necessárias. Pretende, em síntese, a justa distribuição da responsabilidade pelo acidente.
+Oferecidas contrarrazões ao recurso especial às fls. 1070/1083 e 1085/1091 (e-STJ).
+Em sede de juízo provisório de admissibilidade, o Tribunal local negou seguimento ao recurso especial (fls. 1092/1093, e-STJ), o que ensejou o manejo do agravo (fls. 1096/1101, e-STJ), que não foi conhecido ante a aplicação, por analogia, da Súmula 182/STJ pela Presidência desta Corte Superior (e-STJ, fls. 1120/1121).
+Inconformada, no presente agravo interno (e-STJ, fls. 1125/1130), a ora agravante combate o óbice supracitado e afirma ter impugnado de forma específica os fundamentos da decisão de inadmissibilidade proferida pelo Tribunal estadual.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+Com impugnação (contrarrazões) às fls. 1133/1140, e-STJ.
+É o relatório.
+Decido.
+Ante as razões expendidas no agravo interno, reconsidero a decisão monocrática anteriormente proferida e passo, de plano, ao reexame do reclamo.
+A irresignação não merece prosperar.
+1. A Corte de origem, soberana na análise do acervo fático-probatório dos autos, consignou o seguinte acerca da dinâmica do acidente (e-STJ, fls. 1051):
+Assim, pelo depoimento de ambas as partes, conclui-se que a autora conduzia sua motocicleta pela faixa da direita em direção à rotatória para acessar via secundária, enquanto a ré ía com seu veículo pela faixa do meio e acessaria a rotatória para ingressar na Avenida Giovanni Gronchi, quando houve colisão. Veja-se que pelas fotografias de fls. 211 e seguintes não é possível concluir que a colisão foi traseira, como argumenta a apelante. Na realidade, as fotografias mencionadas demonstram danos à lateral da motocicleta e não há avaria aparente em sua parte traseira, o que é corroborado pelo boletim de ocorrência a fls. 26 e 30. Logo, não há falar-se em presunção de culpa da ré pela suposta colisão traseira. De mais a mais, nas razões de apelação a fls. 1.015, a autora faz menção à imagem de fls. 416, acostada na defesa.
+De fato, como bem consignado na r. sentença, se a autora vinha pela faixa de rolamento mais à direita, como demonstra a fotografia de fls. 416, então ela não estava na faixa adequada para ingresso na Rua Jules Rimet, atraindo para si a presunção de culpa, por violação dos art. 28, 29, II, 34 e 35 do Código de Trânsito Brasileiro.
+Não se olvida que, a teor do art. 29, §2 do Código de Trânsito Brasileiro, os veículos de maior porte são responsáveis pela incolumidade daqueles menores. No entanto, a previsão não retrata presunção absoluta de culpa dos veículos de maior porte, de modo que, em se tratando de manobra sem cautela por veículo de menor porte, o condutor deste deve ser responsabilizado.
+Diante isso, impõe-se a manutenção da r. sentença como lançada.
+Rever essa conclusão acerca de quem teve culpa pelo acidente e, consequentemente, quem deve ser responsável pela reparação dos danos sofridos pela recorrente demandaria o reexame de elementos fáticos e das provas que instruem os autos, o que não se admite em sede de recurso especial, ante a Súmula 7 deste Tribunal.
+A propósito:
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL POR ACIDENTE DE TRÂNSITO. TEMPESTIVIDADE DO RECURSO ESPECIAL E ÓBICE DA SÚMULA N. 7 DO STJ. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial contra decisão que inadmitiu o recurso especial por intempestividade, por ausência de comprovação idônea da prorrogação ou suspensão de prazos no ato da interposição, nos termos do art. 1.003, § 6º, do CPC, reputando insuficiente o print do sistema.
+2. A controvérsia envolve ação de indenização por danos de acidente de trânsito c/c danos materiais e morais, decorrente de abalroamento em cruzamento entre motocicleta e carro.
+3. Na sentença, o Juízo de primeiro grau julgou improcedentes os pedidos.
+4. A Corte de origem reformou parcialmente a sentença, reconheceu culpa concorrente (70% para a condutora e 30% para o autor), fixou danos morais, confirmou danos materiais e determinou liquidação para avarias na moto e lucros cessantes.
+II. QUESTÃO EM DISCUSSÃO
+5. Há quatro questões em discussão: (i) saber se houve violação do art. 34 do CTB, por ter sido imputada culpa à condutora que teria observado cautelas, sendo determinante a alta velocidade da vítima; (ii) saber se houve violação do art. 373, I, do CPC, por não ter o autor se desincumbido do ônus da prova; (iii) saber se houve violação do art. 945 do CC, por demandar distribuição igualitária da culpa em 50% para cada parte; e (iv) saber se há divergência jurisprudencial para reconhecer culpa exclusiva da vítima por excesso de velocidade ou, subsidiariamente, concorrência em iguais proporções.
+III. RAZÕES DE DECIDIR
+6. A superveniência da Lei n. 14.939/2024, que alterou o art. 1.003, § 6º, do CPC, configura fato processual novo, de aplicação imediata, tornando sanável a falta de comprovação no ato e impondo o reconhecimento da tempestividade quando a informação constar dos autos eletrônicos.
+7. Incide a Súmula n. 7 do STJ para obstar o reexame do conjunto fático-probatório sobre a dinâmica do acidente, a distribuição de culpas e a fixação dos percentuais de responsabilidade.
+8. O dissídio não se comprova por ausência de cotejo analítico, nos termos dos arts. 1.029, § 1º, do CPC, e 255, § 1º, do RISTJ, e, de todo modo, esbarra no óbice da Súmula n. 7 do STJ.
+IV. DISPOSITIVO E TESE
+9. Agravo em recurso especial desprovido.
+(..)
+(AREsp n. 2.540.595/PR, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 23/3/2026, DJEN de 27/3/2026.)
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ACIDENTE SOFRIDO POR PASSAGEIRA NO MOMENTO DO EMBARQUE EM TREM DA CONCESSIONÁRIA RECORRENTE. RESPONSABILIDADE OBJETIVA. PREMISSAS FIXADAS PELO TRIBUNAL DE ORIGEM ACERCA DA EXISTÊNCIA DE NEXO DE CAUSALIDADE E DA AUSÊNCIA DE DEMONSTRAÇÃO DA CULPA EXCLUSIVA DA VÍTIMA. DANO MORAL. VALOR DA COMPENSAÇÃO. QUANTIA NÃO EXACERBADA. RAZOABILIDADE E PROPORCIONALIDADE. PRETENSÃO DE REVISÃO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7 DO STJ. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. É inviável desconstituir as conclusões alcançadas pelo Tribunal de origem quanto à ausência de demonstração da culpa exclusiva da vítima no caso concreto, assim como em relação à configuração do nexo de causalidade entre os perigos inerentes ao serviço de transporte de passageiros prestado pela ora recorrente e o acidente sofrido pela ora recorrida. Isso porque, para que fossem revisadas essas premissas, seria imprescindível o reexame do acervo fático-probatório constante dos autos, providência inviabilizada na seara do recurso especial. Súmula 7/STJ.
+2. A revisão do montante fixado para a compensação dos danos morais somente pode ser realizada por esta Corte Superior em hipóteses excepcionais, nas quais se verifique violação dos princípios da proporcionalidade e da razoabilidade, situação que não se observa no caso concreto, no qual o valor arbitrado - R$ 8.000,00 (oito mil reais) - é condizente com as peculiaridades fáticas do caso.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.275.095/RJ, relator Ministro Humberto Martins, Terceira Turma, julgado em 4/9/2023, DJe de 6/9/2023.)
+2. Ante o exposto, dou provimento ao agravo interno para reconsiderar a decisão de fls. 1120/1121, e-STJ, tornando-a sem efeitos. Em seguida, com fulcro no art. 932 do CPC/2015 c/c Súmula 568/STJ, conheço do agravo para negar provimento ao recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem (fls. 1052, e-STJ), observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
