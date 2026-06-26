@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de agravo interposto por SIMONE MENEZES ZENI contra a decisão que inadmitiu o recurso especial manejado com fundamento no art. 105, III, "a", da Constituição da República em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado (e-STJ, fls. 294 - 299):
+"DIREITO PENAL. EMBARGOS INFRINGENTES. USO DE DOCUMENTO FALSO. CONFISSÃO INFORMAL. DOSIMETRIA DA PENA. INAPLICABILIDADE, NO CASO. DESACOLHIMENTO DOS EMBARGOS.
+I. CASO EM EXAME:
+1. Embargos infringentes opostos pela Defesa em face de decisão da Quarta Câmara Criminal que, por maioria, deu parcial provimento ao recurso defensivo para redimensionar a pena aplicada para o delito de uso de documento falso para 03 anos e 29 dias de reclusão, além de 20 dias-multa, rejeitando o reconhecimento da atenuante da confissão espontânea.
+II. QUESTÃO EM DISCUSSÃO:
+2. A questão em discussão consiste na possibilidade de reconhecimento da atenuante da "confissão informal" - prestada somente aos policiais no momento do flagrante -, na segunda fase da dosimetria da pena.
+III. RAZÕES DE DECIDIR:
+3. O Superior Tribunal de Justiça - que mostrou-se oscilante a respeito do tema -, mais recentemente, estabeleceu que a confissão informal do réu, não formalizada perante autoridade policial ou judicial, não autoriza o reconhecimento da atenuante, especialmente quando a condenação foi fundamentada em provas autônomas.
+4. Em regra, o mero relato perante os policiais não configura juridicamente uma confissão, pela ausência dos requisitos estabelecidos no CPP. É dizer, em casos em que existam provas autônomas, não utilizada a confissão informal para formar convicção, mostra-se descabida a aplicação da atenuante.
+5. No caso, conforme se denota do voto majoritário, a prova oral foi uníssona ao atribuir a autoria à embargante, além do laudo pericial ter confirmado a contrafação, a demonstrar que o relato informal da denunciada foi indiferente para a prova da condenação.
+IV. DISPOSITIVO E TESE:
+6. Embargos infringentes desacolhidos."
+Em suas razões de recurso especial, a agravante aponta violação da Súmula 17/STJ e do art. 65, III, "d" do CP, argumentando, em síntese, que (i) o delito de uso de documento falso deve ser absorvido pelo crime de estelionato tentado, por constituir mero crime-meio empregado para a prática do delito-fim e (ii) deve ser reconhecida a atenuante da confissão espontânea, nos termos da jurisprudência atual do STJ.
+Com contrarrazões (e-STJ, fls. 311 - 319), o recurso especial foi inadmitido na origem (e-STJ, fls. 320 - 324), ao que se seguiu a interposição de agravo (e-STJ, fls. 326 - 339).
+Ouvido, o MPF opinou pelo improvimento do agravo em recurso especial (e-STJ, fls. 362 - 366).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+De início, não pode ser conhecido o recurso quanto à apontada violação da Súmula 17/STJ, pois, nos termos da Súmula 518/STJ, para fins do art. 105, III, "a", da CR/1988, não é cabível recurso especial fundado em alegada violação de enunciado sumular. Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DESCAMINHO. INCIDÊNCIA DA SÚMULA N. 518 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGENTE QUE SE VALEU DA CONDIÇÃO DE MILITAR PARA PRÁTICA DO CRIME. COMPETÊNCIA DA JUSTIÇA MILITAR. RECONHECIMENTO DE ERRO DE TIPO. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Para fins do art. 105, III, a, da Constituição Federal - CF, não é cabível recurso especial fundado em alegada violação de enunciado de súmula." (Súmula 518, CORTE ESPECIAL, julgado em 26/2/2015, DJe 2/3/2015) (AgRg no REsp 1796340/MT, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DJe 23/6/2020).
+ ..
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.807.032/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 1/6/2021, DJe de 7/6/2021.)"
+No que diz respeito à atenuante prevista no art. 65, III, "d", do CP, a Terceira Seção deste STJ, no julgamento do REsp n. 2.001.973/RS, sob o rito dos recursos repetitivos, de relatoria do Ministro Og Fernandes, Tema 1.194/STJ, firmou entendimento de que a confissão espontânea é apta a abrandar a pena independentemente de ter sido utilizada na formação do convencimento do julgador e ainda que existam outros elementos suficientes de prova, desde que não tenha havido retratação, salvo quando, mesmo retratada, a confissão tiver servido à apuração dos fatos; assentou, ainda, que a confissão parcial ou qualificada também autoriza a incidência da atenuante, embora a redução deva ser aplicada em menor proporção e não possa ser considerada preponderante no concurso com agravantes quando o fato confessado for tipificado com menor pena ou caracterizar circunstância excludente da tipicidade, da ilicitude ou da culpabilidade. Colaciono a ementa do acórdão proferido no precedente vinculante:
+"PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO AGRAVO EM DIREITO PENAL. RECURSO ESPECIAL REPETITIVO. TEMA N. 1.194 DO STJ. CONFISSÃO ESPONTÂNEA. INFLUÊNCIA NA FORMAÇÃO DO CONVENCIMENTO DO JULGADOR. DESNECESSIDADE. RETRATAÇÃO. EFEITOS. CONFISSÃO PARCIAL E QUALIFICADA. PROPORCIONALIDADE. RECURSO PARCIALMENTE PROVIDO. TESES FIXADAS COM MODULAÇÃO DE EFEITOS.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal Regional Federal da 4ª Região que rejeitou a aplicação da atenuante da confissão espontânea, prevista no art. 65, III, d, do Código Penal, sob o fundamento de que a confissão não foi utilizada na formação do convencimento do julgador, porque retratada.
+2. O recorrente busca a redução da pena com base na aplicação da atenuante da confissão espontânea e a revisão do aumento de pena derivado dos maus antecedentes.
+II. Questão em discussão
+3. Há duas questões em discussão: (i) saber se a confissão espontânea do réu não utilizada para a formação do convencimento do julgador ou para o desdobramento das investigações, bem como a confissão parcial ou qualificada, autoriza o reconhecimento da atenuante prevista no art. 65, III, d, do Código Penal, discussões objeto de recurso especial repetitivo; e (ii) saber se o aumento da pena em razão dos maus antecedentes foi aplicado de forma proporcional e razoável.
+III. Razões de decidir
+4. A confissão espontânea, prevista no art. 65, III, d, do Código Penal, é apta a promover o abrandamento da pena independentemente de ter sido utilizada na formação do convencimento do julgador, desde que não tenha havido retratação ou, no caso de retratação, que a confissão tenha servido à apuração dos fatos.
+5. A atenuação deve ser aplicada em menor proporção e não poderá ser considerada preponderante no concurso com agravantes quando o fato confessado for tipificado com menor pena ou caracterizar circunstância excludente da tipicidade, da ilicitude ou da culpabilidade.
+6. O aumento da pena em razão dos maus antecedentes deve observar os princípios da proporcionalidade e não obedece a critérios estritamente matemáticos, sendo possível uma elevação mais acentuada quando o agente apresentar múltiplos registros criminais.
+7. Fixação de teses para o Tema n. 1.194 do STJ, conforme arts. 927, III, e 1.036 do Código de Processo Civil, com modulação de efeitos definida com fundamento no § 3º do art. 927 do mesmo diploma legal.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Recurso parcialmente provido para aplicar a atenuante da confissão espontânea e compensá-la com a agravante da reincidência, fixando a pena definitiva em 1 ano e 7 meses de reclusão. Teses fixadas para o Tema n. 1.194 com modulação de efeitos.
+Teses do Tema n. 1.194 do STJ:
+1. A atenuante genérica da confissão espontânea, prevista no art. 65, III, d, do Código Penal, é apta a abrandar a pena independentemente de ter sido utilizada na formação do convencimento do julgador e mesmo que existam outros elementos suficientes de prova, desde que não tenha havido retratação, exceto, neste último caso, que a confissão tenha servido à apuração dos fatos.
+2. A atenuação deve ser aplicada em menor proporção e não poderá ser considerada preponderante no concurso com agravantes quando o fato confessado for tipificado com menor pena ou caracterizar circunstância excludente da tipicidade, da ilicitude ou da culpabilidade.
+Dispositivos relevantes citados: CP, art. 65, III, d; CP, art. 59;
+CP, art. 68; CPC, art. 927, III e § 3º; CPC, art. 1.036.
+Jurisprudência relevante citada: STJ, AREsp n. 2.123.334/MG, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 20/6/2024, DJe de 2/7/2024; STJ, REsp n. 1.972.098/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/6/2022; STJ, AgRg no AREsp n. 1.640.414/DF, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 9/6/2020, DJe de 18/6/2020; STJ, AgRg no HC n. 986.463/PA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 13/8/2025, DJEN de 18/8/2025.
+(REsp n. 2.001.973/RS, relator Ministro Og Fernandes, Terceira Seção, julgado em 10/9/2025, DJEN de 16/9/2025.)
+No presente caso, extrai-se dos autos que, embora a confissão tenha sido explicitada apenas na transcrição dos depoimentos dos policiais condutores, desacompanhada, portanto, de termo formal, ela foi utilizada como fundamento expresso da condenação. Confira-se (e-STJ, fl. 213):
+"Bem delineada, portanto, autoria e materialidade delitivas.
+Registro que o Laudo Pericial nº 19436/2019 (evento 3, PROCJUDIC3, fls. 30-32) , comprovou os delitos de falsificação e de uso de documento falso praticados pela acusada, uma vez que atestou que a carteira de identidade apreendida com a acusada é inautêntica: "apresenta espelho originalmente autêntico que sofreu remoção da impressão primitiva de personalização, sucedida pela impressão dos dados que ora se verificam, resultando em documento inautêntico".
+Outrossim, no momento da abordagem realizada pelos policiais dentro da agência bancária, a denunciada apresentou a documentação falsa e, logo em seguida, confessou a prática delitiva informando seu nome verdadeiro.
+Por oportuno, necessário destacar que em nenhum momento foi comprovado pela ré que os policiais teriam interesse particular na sua condenação, de forma a lhe imputarem a autoria de crime de que saberiam ser inocente, ou mesmo, que teriam atuado no caso para atenderem a motivos outros que não ao cumprimento de atribuição funcional.
+Nunca é demais destacar a impropriedade de se duvidar da palavra firme dos policiais que flagraram a ré, em razão de serem agentes públicos credenciados pelo Estado para reprimirem a criminalidade, não havendo sentido para que seus depoimentos sejam desconsiderados pelo Juízo.
+Não há qualquer indício que coloque em dúvida o comprometimento dos policiais que atuaram no flagrante com a verdade. Afinal, não se pode duvidar das declarações das testemunhas por causa de sua profissão (STF, HC n.º 76.557/RJ).
+Dessa forma, não há de se falar em insuficiência probatória, sendo a autoria delitiva induvidosa." (grifos no original)
+Desse modo, se a orientação firmada pelo STJ reconhece a incidência da atenuante mesmo quando a confissão não é empregada como fundamento da condenação, com maior razão deve ser ela reconhecida quando efetivamente considerada pelo juízo sentenciante na reconstrução dos fatos e na formação de seu convencimento.
+Assim, a ré faz jus à referida atenuante, nos moldes em que estabelecida no voto divergente (e-STJ, fls. 269 - 270).
+Por isso, partindo da pena-base estabelecida na origem, de 2 anos, 7 meses e 21 dias de reclusão (e-STJ, fl. 275), compenso a atenuante da confissão espontânea com a agravante da reincidência, de modo que a reprimenda se torna definitiva, ante a ausência de outras causas modificadoras.
+Mantém-se o regime inicial semiaberto , em razão da presença de circunstâncias judiciais desfavoráveis e reincidência, nos termos do art. 33, § 2º, alínea "c", e § 3º, do CP.
+Ante o exposto, com fundamento no art. 253, parágrafo único, III, "a" e "c", do Regimento Interno do STJ, conheço do agravo para conhecer em parte do recurso especial e, nesta extensão, dar-lhe provimento, a fim de reconhecer a atenuante da confissão espontânea e redimensionar a pena da agravante.
+Publique-se. Intimem-se.
+EMENTA
