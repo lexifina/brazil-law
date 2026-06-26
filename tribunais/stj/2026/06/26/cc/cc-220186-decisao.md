@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de conflito negativo de competência suscitado pelo Juízo Federal da 1ª Vara de Americana - SJ/SP, em face do Juízo de Direito da 2ª Vara Cível de Santa Bárbara d"Oeste/SP, visando à definição do juízo competente para o cumprimento de carta precatória expedida nos autos da ação anulatória de leilão extrajudicial, com pedido de tutela de urgência (manutenção de posse), proposta por Estilotex Indústria e Comércio de Tecidos Ltda. contra a Caixa Econômica Federal (fls. 688-690).
+É o relatório.
+Decisão.
+A matéria subjacente ao presente incidente encontra-se pacificada no âmbito deste Superior Tribunal de Justiça, de modo a atrair a incidência da Súmula 568/STJ e a possibilidade do exame unipessoal da questão (ut. CC 179.587/PE, Rel. Min. Paulo de Tarso Sanseverino, Dje de 25/05/2021).
+1. De início, vale destacar a competência deste Superior Tribunal de Justiça para o exame do presente conflito, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+2. Em conflitos similares, esta Corte Superior já apreciou casos análogos consolidando o entendimento que as cartas precatórias expedidas pela Justiça Federal devem ser cumpridas pela Justiça Estadual sempre que a comarca não for sede de Vara Federal. Admite-se, todavia, a recusa por parte do juízo deprecado quando evidenciada uma das hipóteses do do CPC, a saber: a) a carta não estiver art. 267 revestida dos requisitos legais; b) faltar ao juízo deprecante competência em razão da matéria ou da hierarquia, ou c) o juízo deprecado tiver dúvida acerca da autenticidade da carta.
+Na hipótese, a comarca de Santa Bárbara d"Oeste não é sede de vara federal, conquanto integre o território da 34ª Subseção Judiciária sediada em Americana. A conjugação desses elementos  inexistência de sede federal na comarca de cumprimento e restrição territorial da atuação dos oficiais de justiça federais  reforça a aplicação do entendimento jurisprudencial do STJ no sentido da competência do Juízo estadual para o cumprimento da carta precatória expedida pelo Juízo Federal.
+Nessa linha: CC 212.621/SP, Dje de 19/5/2025; CC 212.746/SP, Rel. Min. Ricardo Villas Bôas Cueva, DJe de Rel. Min. Nancy Andrighi, DJe de 22/5/2025.
+3. Do exposto, com fundamento no art. 955, parágrafo único, do CPC c/c Súmula 568/STJ conheço do conflito e declaro a competência do r. juízo da 2ª Vara Cível de Santa Bárbara D"oeste/SP , nos termos da fundamentação supracitada.
+Publique-se. Intimem-se.
+EMENTA
