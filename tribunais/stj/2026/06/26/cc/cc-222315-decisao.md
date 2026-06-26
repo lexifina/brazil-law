@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o Juízo de Direito da 4ª Vara Cível de Brasília/DF (suscitante) e o Juízo de Direito da 14ª Vara da Fazenda Pública de Fortaleza/CE (suscitado), nos autos do mandado de segurança impetrado por candidato em concurso público em face do Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos - CEBRASPE, objetivando o fornecimento da cópia integral da folha de texto definitivo de sua Prova Discursiva realizada para o cargo de Delegado de Polícia Civil do Estado do Ceará, regido pelo Edital n. 1/2025.
+A ação foi inicialmente ajuizada perante a 14ª Vara da Fazenda Pública de Fortaleza que, contudo, declinou da competência para a Justiça do Distrito Federal em razão da natureza absoluta da competência em mandado de segurança, fixada pelo domicílio funcional da autoridade impetrada, no caso, o CEBRASPE, sediado em Brasília.
+Encaminhados os autos ao Juízo de Direito da 4ª Vara Cível de Brasília, foi suscitado o presente conflito negativo de competência.
+Manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo de Direito da 14ª Vara da Fazenda Pública de Fortaleza.
+É o relatório.
+Consoante relatado, trata-se de mandado de segurança impetrado por candidato em concurso público contra o CEBRASPE, entidade privada sediada em Brasília/DF que, no caso concreto, atua por delegação do Estado do Ceará na execução das etapas do certame.
+Nos termos do art. 5º, LXIX, da Constituição Federal, "conceder-se-á mandado de segurança para proteger direito líquido e certo, não amparado por habeas corpus ou habeas data, quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público".
+Segundo a jurisprudência desta Corte, em mandado de segurança, a competência é estabelecida em função da natureza da autoridade impetrada, ou seja, aquela indicada na petição inicial. Nos casos de delegação, contudo, a definição da competência jurisdicional não deve se restringir ao domicílio do ente executor, impondo-se considerar a origem do poder delegado.
+Nesse sentido, considerando que o CEBRASPE agiu por delegação do Estado do Ceará, torna-se clara a competência do Juízo de Direito da 14ª Vara da Fazenda Pública de Fortaleza para conhecer da demanda.
+A esse respeito, confira-se:
+ADMINISTRATIVO. CONFLITO DE COMPETÊNCIA. CONCURSO PÚBLICO. CONTRATAÇÃO TEMPORÁRIA DE DOCENTES NA REDE PÚBLICA DE ENSINO ESTADUAL. PROVA DE TÍTULOS. AUTORIDADE COATORA. ENTIDADE EXECUTORA DO CERTAME. ASSOCIAÇÃO CIVIL. PESSOA JURÍDICA DE DIREITO PRIVADO NO EXERCÍCIO DAS ATRIBUIÇÕES DO PODER PÚBLICO. COMPETÊNCIA DA JUSTIÇA ESTADUAL CEARENSE. CONFLITO DE COMPETÊNCIA CONHECIDO.
+1. A questão controvertida diz respeito à definição do Juízo competente para processar e julgar mandado de segurança impetrado contra Presidente de pessoa jurídica de direito privado contratada para execução de processo seletivo público, mediante o qual se busca a atribuição de pontos decorrentes de apresentação de diploma de conclusão de curso de licenciatura, conforme preconizado pelo edital do certame.
+2. O Presidente do Instituto Avalia, embora seja uma pessoa jurídica de direito privado, não age em nome próprio, mas por delegação do Poder Público Cearense, ou seja, exerce uma função pública que lhe foi contratualmente delegada, qual seja, de executor de um certame público estadual.
+3. Nos termos da jurisprudência do STJ, a competência para processar e julgar o mandado de segurança é definida em razão da categoria funcional da autoridade apontada como coatora, sendo da Justiça Estadual a competência quando se tratar de impetração contra autoridade estadual ou no exercício de delegação do Estado.
+3. Conflito de competência conhecido para declarar competente o JUIZ DE DIREITO DA 14a VARA DA FAZENDA PÚBLICA DE FORTALEZA/CE.
+(CC n. 217.033/PR, relator Ministro Afrânio Vilela, Primeira Seção, julgado em 11/2/2026, DJEN de 20/2/2026.)
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da 14ª Vara da Fazenda Pública de Fortaleza.
+Publique-se.
+Comunique-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. AUTORIDADE COATORA. ENTIDADE EXECUTORA DO CERTAME. PESSOA JURÍDICA DE DIREITO PRIVADO NO EXERCÍCIO DAS ATRIBUIÇÕES DO PODER PÚBLICO. COMPETÊNCIA DA JUSTIÇA ESTADUAL CEARENSE. CONFLITO DE COMPETÊNCIA CONHECIDO.
