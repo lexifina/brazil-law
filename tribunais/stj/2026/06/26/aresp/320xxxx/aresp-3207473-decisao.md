@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelos particulares, contra a inadmissão, na origem, de recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do TJRS, assim ementado:
+AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PÚBLICA. CUMPRIMENTO DE SENTENÇA. RECURSO INTERPOSTO CONTRA DECISÃO QUE, NA ORIGEM, FOI DESAFIADA POR EMBARGOS DE DECLARAÇÃO AINDA NÃO APRECIADOS. PRESTAÇÃO JURISDICIONAL NÃO ESGOTADA. IMPOSSIBILIDADE DE CONHECIMENTO DA INCONFORMIDADE. JURISPRUDÊNCIA DESTA CORTE. RECURSO NÃO CONHECIDO.
+Os embargos de declaração opostos foram rejeitados.
+O recurso especial foi inadmitido nestes termos:
+(..) É certo que a parte pode discordar da decisão por não ter acolhido a matéria de defesa. Tal, contudo, não significa que houve falta de fundamentação, pois "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (EDcl no AgInt nos EDcl no REsp 1498441/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 14/02/2022, DJe 17/02/2022).
+Conseguinte, estando o acordão recorrido em consonância com os aludidos precedentes, incide a Súmula 83 do Superior Tribunal de Justiça. (..)
+Em suas razões, os recorrentes insistem na negativa de vigência aos arts. 489, § 1º, IV, e 1022 do CPC. Sustentam que os embargos de declaração questionam aspecto relativo aos juros e não se insurgem quanto à base de cálculo, razão pela qual o agravo de instrumento, que pretende discutir essa última matéria, não é prematuro e pode ser apreciado.
+Houve contraminuta.
+É o relatório. Decido.
+Sem razão os recorrentes.
+Bem caminhou a Primeira Vice-Presidência do TJRS ao inadmitir o especial, porquanto não restaram demonstrados vícios de fundamentação ou omissões, na medida em que o acórdão impugnado explicitou de forma fundamentada as razões pelas quais, diante da pendência de aclaratórios por julgar, entendia que a apreciação do agravo de instrumento era prematura. Nos embargos de declaração, ainda foi consignado:
+Compulsando os autos, observo que pendem de análise pelo Juízo de origem os embargos de declaração do evento 65, EMBDECL1, os quais foram opostos contra a decisão ora agravada. (..)
+Apenas acrescento, atenta às razões do agravo interno, que os embargos declaratórios são recurso integrativo da decisão recorrida, razão pela qual a prestação jurisdicional somente se encerra, para ambas as partes, com o seu julgamento.
+Outrossim, tão logo apreciados os aclaratórios na origem, poderá o agravante dela recorrer regularmente, não havendo prejuízo ao exercício de sua defesa.
+A Súmula 83/STJ foi bem aplicada pelo juízo de admissibilidade, porque, de fato, vem da jurisprudência desta Casa que a mera insatisfação com o conteúdo da decisão proferida não importa em violação aos arts. 489, § 1º, IV e 1022 do CPC. O fato de o Tribunal eleger fundamentos distintos daqueles propostos pela parte, não configura omissão, contradição ou ausência de fundamentação. Nesse sentido: AgInt no AREsp n. 2.347.060/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 12/8/2024, DJe de 15/8/2024 e AgInt no REsp n. 2.130.408/CE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 12/8/2024, DJe de 15/8/2024. Ademais, "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentam. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução" (AgInt no AREsp n. 1.570.205/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/12/2023, DJe de 19/4/2024).
+E, não tendo sido infirmados adequada e suficientemente os fundamentos da inadmissão, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. ALEGADA NEGATIVA DE VIGÊNCIA AOS ARTIGOS 489, § 1º, IV, E 1022, DO CPC. INEXISTÊNCIA. RECURSO INADMITIDO NA ORIGEM. FUNDAMENTOS DA INDAMISSÃO NÃO INFIRMADOS. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
