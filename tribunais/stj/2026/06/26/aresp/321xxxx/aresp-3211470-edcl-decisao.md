@@ -1,0 +1,61 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por ROSELI APARECIDA BUENO CREVELARI à decisão de fls. 587/588, que não conheceu do recurso.
+Sustenta a parte embargante:
+A decisão embargada, conquanto sucinta, deixou de enfrentar pontos centrais articulados nas razões do agravo, todos eles indispensáveis à correta deliberação sobre o juízo de admissibilidade do Recurso Especial, configurando-se vício de omissão que demanda integração pela presente via.
+O primeiro ponto omitido diz respeito ao recesso forense e à suspensão dos prazos processuais.
+As razões do agravo expuseram, com lastro documental nos autos, que o Recurso Especial foi interposto em 22 de dezembro de 2025, no curso do recesso forense, e que a Guia de Recolhimento da União foi paga e juntada aos autos em 7 de janeiro de 2026, igualmente durante a suspensão dos prazos processuais.
+A própria Vice-Presidência do Tribunal de Justiça do Estado de Mato Grosso certificou, no documento de e-STJ Fls. 560, a tempestividade do recurso e expressamente reconheceu a suspensão dos prazos no período de 20 de dezembro de 2025 a 6 de janeiro de 2026 e de 7 a 20 de janeiro de 2026, conforme o Provimento nº 27/2025 do Conselho da Magistratura e o art. 220 do Código de Processo Civil.
+ ..
+O segundo ponto omitido refere-se à distinção, capital ao caso, entre as figuras do § 2º e do § 4º do art. 1.007 do Código de Processo Civil. O parágrafo segundo cuida da insuficiência do preparo, hipótese em que o recorrente é intimado, na pessoa de seu advogado, para complementar o valor, em recolhimento simples, no prazo de cinco dias, sob pena de deserção.
+O parágrafo quarto, diversamente, cuida da ausência de preparo no ato de interposição, hipótese em que a intimação determinará o recolhimento em dobro, sem possibilidade de nova intimação para complementação.
+No caso destes autos, é incontroversa a existência de recolhimento simples, comprovado pelo pagamento da GRU nº 4380909, no valor de R$ 259,08, efetuado em 7 de janeiro de 2026 perante o Banco do Brasil, com juntada do comprovante na mesma data.
+Tanto isso é verdadeiro que a própria Vice-Presidência do tribunal de origem, em sua decisão de e-STJ Fls. 561, expressamente reconheceu que foi realizado o preparo recursal, registrando apenas dificuldade pontual de confirmação do pagamento.
+Em hipótese alguma se está, pois, diante de ausência de preparo, mas, quando muito, de irregularidade formal sanável na comprovação, situação que reclama a aplicação do § 2º e não do § 4º do art. 1.007 do Código de Processo Civil. A decisão embargada, ao silenciar sobre essa distinção, deixou de enfrentar a tese mais relevante das razões agravadas, com violação ao art. 489, § 1º, IV, do diploma processual civil.
+O terceiro ponto omitido relaciona-se ao dever de coerência decisória inscrito no art. 926 do Código de Processo Civil.
+ ..
+O quarto ponto omitido respeita à incidência ao caso da tese fixada pela Segunda Seção desta egrégia Corte no Incidente de Assunção de Competência julgado no Recurso Especial nº 1.604.412/SC, da relatoria do eminente Ministro Marco Aurélio Bellizze, julgado em 27 de junho de 2018, com publicação no Diário da Justiça eletrônico de 22 de agosto de 2018.
+As razões do agravo foram explícitas ao demonstrar que a controvérsia subjacente versa sobre a eficácia interruptiva do bloqueio SISBAJUD positivado em 5 de abril de 2023, ainda que de valor reduzido, sobre o curso do prazo de prescrição intercorrente, matéria que se sujeita à orientação fixada no aludido incidente.
+ ..
+O quinto ponto omitido tange à inadequação técnica da Súmula 187 desta egrégia Corte para servir de alicerce à deserção decretada.
+O verbete sumular, em sua dicção textual, dispõe que é deserto o recurso interposto para o Superior Tribunal de Justiça quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos. Cuida-se, pois, de enunciado dirigido à hipótese específica de inadimplemento do porte de remessa e de retorno, figura distinta do preparo recursal em sentido estrito, este último regulado pelo art. 1.007 do Código de Processo Civil.
+Não bastasse a distinção dogmática, o Enunciado nº 215 do Fórum Permanente de Processualistas Civis assenta, com inegável autoridade doutrinária, que a Súmula 187 desta Corte se encontra superada pelas disposições dos §§ 2º e 4º do art. 1.007 do diploma processual civil, sobretudo no que tange à possibilidade de complementação simples do preparo insuficiente (fls. 590/592).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer que a petição de Recurso Especial foi protocolada, na origem, sem a comprovação do recolhimento das custas judiciais.
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção. Nesse sentido, os seguintes precedentes: AgInt no AREsp 1569257/RS, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 22.6.2020; e AgRg no AREsp 570.469/DF, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 23.6.2020.
+No caso, mesmo após a intimação da parte para sanear o vício, não houve a devida regularização, porquanto o recolhimento foi efetuado de modo simples.
+Todavia, nesse contexto, em que as custas não foram recolhidas no ato da interposição do Recurso Especial, imperiosa a observância do art. 1.007, § 4º do CPC, com o recolhimento em dobro.
+Cabe consignar que intimada a parte nos termos do art. 1.007, §§ 2º, 4º ou 7º, do CPC, não há previsão para que uma nova intimação seja realizada. Logo se a parte foi intimada e não providenciou a devida regularização, não há como dar nova oportunidade de sanar o óbice.
+Desse modo, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+Outrossim, registre-se que o princípio da instrumentalidade das formas não deve ser aplicado quando não for regularizado o preparo mesmo após a intimação da parte.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PREPARO. AUSÊNCIA DE GUIA DE RECOLHIMENTO. INTIMAÇÃO PARA RECOLHIMENTO EM DOBRO. ART. 1.007, § 4º, NCPC. NÃO ATENDIMENTO. DESERÇÃO.
+PRINCÍPIO DA INSTRUMENTALIDADE DAS FORMAS.
+INAPLICABILIDADE. AGRAVO INTERNO IMPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, não sendo devidamente comprovado o pagamento do preparo por ocasião da interposição do recurso, deve a parte ser intimada para o seu recolhimento em dobro, na forma do art. 1.007, § 4º, do CPC/2015, sob pena de deserção.
+2. A jurisprudência deste Tribunal Superior assevera que é deserto o recurso especial na hipótese em que a parte recorrente, mesmo após intimada a regularizar o preparo, nos termos do art. 1.007, § 7º, do CPC/2015, não o faz devidamente.
+3. Conforme posicionamento desta Corte, "a consequência prevista expressamente na lei processual civil para a ausência de regularização do preparo no prazo designado é o reconhecimento da deserção e o não conhecimento do recurso, razão pela qual não procede a alegação no sentido de que deve ser aplicado ao caso o princípio da instrumentalidade das formas, sobretudo quandofoi concedida à parte oportunidade de sanar o vício" (AgInt no AREsp 1.738.328 /RJ, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 10/5/2021, DJe 13/5/2021)
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.964.126/PR, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 23.2.2022.)
+Acrescente-se que o juízo de admissibilidade do Recurso Especial é bifásico, ou seja, a decisão de admissibilidade proferida pelo Tribunal local ou ainda a certidão expedida por servidor na instância de origem não vincula esta Corte Superior, na medida em que tal juízo está sujeito ao duplo controle, sendo o STJ competente para nova análise dos pressupostos recursais.
+Nesse sentido: AgInt no AREsp n. 2.459.649/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 3.5.2024; AgInt no AREsp n. 2.250.245/CE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 18.8.2023; AgInt no AREsp n.2.050.156/MG, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 11.4.2024; e, AgInt no AREsp 1686946/MA, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 18.12.2020.
+Ainda, verifica-se que a parte embargante pretende o exame de mérito do Recurso Especial. Porém, esse exame restou prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente não conhecimento do recurso, que obstou a abertura desta instância superior e, portanto, a produção do efeito translativo.
+Assim, não há que se cogitar da ocorrência de omissão, pois o recurso sequer ultrapassou o juízo prévio de admissibilidade para que o mérito fosse apreciado.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRETENSÃO DE REEXAME E ADOÇÃO DE TESE DISTINTA. AUSÊNCIA DE VÍCIO NO JULGADO.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual se deveria pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+2. Na hipótese, não há irregularidade ensejadora dos embargos de declaração, uma vez que a causa foi satisfatoriamente decidida em consonância com a jurisprudência do Supremo Tribunal Federal.
+3. Conforme entendimento pacífico desta Corte de Justiça, não é omisso o acórdão que deixa de se manifestar sobre o mérito do recurso que não ultrapassou o juízo de admissibilidade.
+Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg no AREsp 1556938/RS, Rel. Ministro Humberto Martins, Corte Especial, DJe de 11.3.2021).
+No mais, ressalta-se que, "Na esteira da uníssona jurisprudência desta Corte de Justiça, os embargos de declaração não constituem instrumento adequado ao prequestionamento, com vistas à futura interposição de recurso extraordinário, razão pela qual, para tal escopo, também não merecem prosperar" (EDcl no REsp n. 1.863.973/SP, Rel. Ministro Marco Aurélio Bellizze, Segunda Seção, DJe de 28.6.2022; e EDcl no AgInt no AREsp n. 1.654.182/SC, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 12.4.2022).
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 31.8.2020; AgInt no AREsp 1639930/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 3.8.2020; AgInt nos EDcl no AREsp 1342656/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 7.5.2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
