@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em nome de SANDRO GONZAGA MACIEL - condenado, em segundo grau, por vias de fato a 29 dias de prisão simples, em regime inicial semiaberto (fls. 19/30 - Ação Penal n. 5000158-57.2024.8.24.0010, da Vara Criminal da comarca de Braço do Norte/SC) -, apontando como ato coator o acórdão de apelação criminal proferido pelo Tribunal de Justiça de Santa Catarina, que desclassificou a imputação do art. 129, § 13, do Código Penal para a contravenção penal do art. 21 do Decreto-Lei n. 3.688/1941 e alterou a pena imposta na sentença (fls. 47/52).
+A impetração busca a concessão de medida liminar para suspender a execução da pena ou, subsidiariamente, determinar o início do cumprimento em regime aberto; no mérito, requer a concessão definitiva da ordem para reformar o acórdão e fixar o regime inicial aberto para o cumprimento da pena de 29 dias de prisão simples, sustentando:
+a) ilegalidade do regime semiaberto para pena de 29 dias de prisão simples, por violação dos princípios da proporcionalidade, razoabilidade e individualização da pena, pois a imposição do regime mais gravoso seria desproporcional à reprimenda aplicada (fls. 3/5);
+b) impossibilidade de imposição automática do regime semiaberto com fundamento exclusivo na reincidência, especialmente diante de contravenção penal e reprimenda ínfima, pois a reincidência, segundo a defesa, não autoriza, por si só, regime mais severo sem análise concreta da proporcionalidade (fls. 4/5); e
+c) adequação do regime aberto, diante do curto lapso da pena e da alegada ausência de finalidade ressocializadora do semiaberto no caso concreto, pois o período de 29 dias tornaria o regime intermediário inócuo e desarrazoado (fl. 5).
+A Presidência do STJ determinou a intimação da parte impetrante para emendar a inicial, por ausência de cópia do inteiro teor do acórdão apontado como ato coator (fl. 42); após a juntada da peça, determinou-se a distribuição do feito, nos termos do art. 9º do RISTJ (fl. 55).
+É o relatório.
+O writ é inadmissível.
+A impetração busca revisar novamente condenação imposta e mantida pelas instâncias ordinárias, providência incabível na via eleita, salvo hipótese de flagrante constrangimento ilegal, o que não se verifica.
+No caso, o Tribunal de origem desclassificou a imputação para a contravenção penal de vias de fato, mas manteve a exasperação da pena-base em 1/2 e aplicou a agravante da reincidência em 1/3, em razão do número de condenações, fixando a pena definitiva em 29 dias de prisão simples, no regime semiaberto, em razão da reincidência (fls. 49/52).
+A conclusão está em consonância com o art. 6º da Lei das Contravenções Penais e com a orientação desta Corte Superior, segundo a qual a reincidência, especialmente quando associada a circunstâncias judiciais desfavoráveis ou à pena-base fixada acima do mínimo legal, autoriza a imposição do regime mais gravoso cabível.
+A hipótese, portanto, não se confunde com imposição automática fundada na gravidade abstrata da contravenção, vedada pela Súmula n. 440/STJ e pela Súmula n. 719/STF.
+Também não prospera a alegação de adequação do regime aberto em razão do curto lapso da pena e da suposta ausência de finalidade ressocializadora do regime semiaberto. Embora o Tribunal de origem não tenha examinado a tese sob esse enfoque específico, não se identifica ilegalidade manifesta, pois a prisão simples admite cumprimento em regime semiaberto, e o reduzido quantum da reprimenda não impõe, por si só, regime mais brando quando presentes reincidência e circunstâncias judiciais desfavoráveis.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+DIREITO PENAL. HABEAS CORPUS. CONTRAVENÇÃO PENAL DE VIAS DE FATO. REGIME INICIAL SEMIABERTO. PRISÃO SIMPLES. REINCIDÊNCIA E CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. INEXISTÊNCIA DE ILEGALIDADE MANIFESTA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
