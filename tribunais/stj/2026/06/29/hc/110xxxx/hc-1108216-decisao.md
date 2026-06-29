@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de EDUARDO DA CRUZ, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, nos autos do Recurso em Sentido Estrito n. 0012649- 65.2025.8.16.0174.
+Consta dos autos que o paciente foi pronunciado pela prática de homicídio qualificado pelo meio cruel, previsto no art. 121, § 2º, inciso III, do Código Penal.
+Interposto Recurso em Sentido Estrito, o Tribunal de origem negou provimento ao recurso (fls. 15/19), nos termos da ementa (fl. 15):
+RECURSO EM SENTIDO ESTRITO - IMPUTAÇÃO AO ART. 121, § 2º, INC. III, DO CÓDIGO PENAL - DECISÃO DE . PRONÚNCIA RECURSO DA DEFESA. PEDIDO DE -AFASTAMENTO DA QUALIFICADORA MATERIALIDADE DO FATO E -DESPROVIMENTO INDÍCIOS SUFICIENTES DE AUTORIA DEMONSTRADOS - NECESSIDADE DE JULGAMENTO PERANTE O TRIBUNAL DO JÚRI - QUALIFICADORA DE ASFIXIA QUE É COMPATÍVEL COM VERSÃO APRESENTADA NOS AUTOS - QUALIFICADORA QUE NÃO É MANIFESTAMENTE DESCABIDA E IMPROCEDENTE - SENTENÇA DE PRONÚNCIA MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Sustenta a Defesa que a manutenção da qualificadora do meio cruel na pronúncia é manifestamente ilegal, por ausência de lastro probatório mínimo quanto ao elemento subjetivo específico exigido pelo tipo, afirmando que a simples constatação da asfixia como causa mortis não autoriza a qualificação do delito.
+Afirma que o standard probatório para a pronúncia demanda elevada probabilidade quanto à autoria e, para a incidência de qualificadoras, exige-se prova mínima acerca de todos os seus elementos, inclusive o dolo específico de infligir sofrimento desnecessário, intenso e prolongado, não bastando referência genérica ao laudo de necropsia.
+Argumenta, ainda, que o acórdão combatido teria se limitado a reproduzir a causa de morte apontada pelo perito, sem indicar elementos produzidos em juízo que evidenciem a forma de execução, a duração do sofrimento da vítima ou a intenção específica do agente, configurando fundamentação inidônea.
+Aponta contradição na própria jurisprudência da 1ª Câmara Criminal do Tribunal de Justiça do Estado do Paraná, que, em casos análogos envolvendo asfixia, teria afastado a qualificadora por falta de prova do dolo específico.
+Ressalta que a subsistência da qualificadora, além de agravar a imputação perante o Júri, reforça a manutenção da prisão preventiva e gera constrangimento ilegal atual e contínuo.
+Requer a concessão da ordem para afastar a qualificadora do meio cruel da decisão de pronúncia, com a submissão do paciente a julgamento por homicídio simples, previsto no art. 121, caput, do Código Penal. Subsidiariamente, pugna pela suspensão, em caráter liminar, da designação ou realização da sessão de julgamento perante o Tribunal do Júri até o julgamento definitivo do writ.
+É o relatório.
+Decido.
+No caso em exame, constata-se que a Defesa instruiu deficientemente o feito, pois deixou de colacionar cópia da sentença de pronúncia contra a qual se insurge, peça indispensável à exata compreensão da controvérsia.
+Essa falha processual, de responsabilidade exclusiva da Defesa, inviabiliza a análise do mérito. Isso porque o rito do habeas corpus e do respectivo recurso ordinário pressupõe a apresentação de prova pré-constituída, sendo ônus do impetrante demonstrar, de plano e por meio de documentos, a existência do alegado constrangimento ilegal.
+A jurisprudência de ambas as Turmas com competência em matéria penal neste Superior Tribunal de Justiça é consolidada nesse sentido. A propósito:
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO E OCULTAÇÃO DE CADÁVER. CONSTRANGIMENTO ILEGAL POR AUSÊNCIA DE FUNDAMENTOS CONCRETOS. INSTRUÇÃO DEFICIENTE. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO DA PRISÃO PROVISÓRIA. PACIENTE PRONUNCIADO. SÚMULA 21/STJ. REGULARIDADE DA TRAMITAÇÃO PROCESSUAL. PROPORCIONALIDADE NA DURAÇÃO DA PRISÃO CAUTELAR EM RELAÇÃO A PENA A SER APLICADA EM CASO DE CONDENAÇÃO.
+1. Não é possível conhecer do habeas corpus quanto à legalidade da decretação da prisão preventiva porque a petição inicial não veio acompanhada de cópia do decreto prisional e o Tribunal de origem não se manifestou sobre a questão no acórdão impugnado, de modo que o exame direto pelo Superior Tribunal de Justiça configuraria indevida supressão de instância.
+2. Conforme a jurisprudência do Superior Tribunal de Justiça, o juízo de proporcionalidade da duração da prisão preventiva deve considerar a complexidade do caso, a regularidade do andamento do feito e a pena em perspectiva, o que afasta a adoção de prazos processuais meramente matemáticos para aferição de excesso de prazo.
+3. Os elementos dos autos demonstram que não procede a alegação de que o paciente estaria preso cautelarmente desde 9/5/2024 sem decisão de pronúncia, pois o Juízo de primeiro grau o pronunciou em 28/11/2025, circunstância que atrai a incidência da Súmula 21/STJ, segundo a qual pronunciado o réu fica superado o alegado constrangimento por excesso de prazo na instrução.
+4. A alegação de irregularidade na tramitação processual não encontra respaldo na documentação juntada, e o tempo total de duração da prisão provisória, à luz dos crimes imputados e da pena privativa de liberdade potencialmente aplicável, não se revela desproporcional, inexistindo constrangimento ilegal apto a determinar o relaxamento da prisão provisória.
+5. Habeas corpus conhecido em parte e, nessa extensão, denegada a ordem.
+(HC n. 1.064.630/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/3/2026, DJEN de 24/3/2026.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. PRONÚNCIA. ALEGAÇÃO DE VIOLAÇÃO AO ART. 155 DO CPP. WRIT SUBSTITUTIVO DE RECURSO. NÃO CABIMENTO. INSTRUÇÃO DEFICIENTE. HABEAS CORPUS INDEFERIDO LIMINARMENTE. AGRAVO DESPROVIDO.
+1. O Superior Tribunal de Justiça vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais mas também da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção. Nessa linha, a jurisprudência desta Corte é firme no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio, seja por ter sido impetrado concomitantemente, seja por estar ainda escoando o prazo para a interposição da insurgência prevista no regramento legal e regimental, como na espécie.
+2. É inviável a apreciação da quaestio e a verificação de efetiva ilegalidade flagrante apta a eventualmente ensejar a concessão da ordem de ofício quando a deficiente instrução dos autos impede a exata compreensão da controvérsia.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 1.054.587/CE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 25/2/2026, DJEN de 3/3/2026.)
+DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. SENTENÇA DE PRONÚNCIA. INSTRUÇÃO DEFICIENTE. ATO COATOR. AUSÊNCIA. NÃO CONHECIDO. CONTRADIÇÃO E OMISSÃO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+I. CASO EM EXAME
+1. Embargos de declaração opostos contra acórdão que não conheceu do agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus, sob o fundamento de deficiência na instrução, pois ausente o ato coator.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se o acórdão embargado incorreu em omissão ao não analisar os argumentos específicos apresentados no agravo regimental, que teriam reportado ao acórdão da Corte de origem, ato coator, assim como sobre alegada contradição entre o julgado e as alegações do embargante.
+III. RAZÕES DE DECIDIR
+3. Os embargos de declaração, nos termos do art. 619 do Código de Processo Penal, são cabíveis para esclarecer ambiguidade, obscuridade, contradição ou omissão existente no julgado, não se prestando à rediscussão da matéria já decidida.
+4. A contradição que permite o acolhimento de embargos declaratórios é a que eventualmente ocorra dentro do próprio julgado, o que não ocorreu na hipótese.
+5. A alegação de que o habeas corpus teria impugnado validamente o ato tido por coator representa mero inconformismo com o resultado do julgamento, não caracterizando omissão apta a justificar o acolhimento dos embargos. Precedentes.
+IV. DISPOSITIVO
+6. Embargos de declaração rejeitados.
+Dispositivos relevantes citados: CPP, art. 619.
+Jurisprudência relevante citada: EDcl no AgRg no AREsp n. 2.510.405/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 22/4/2025, DJEN de 29/4/2025; EDcl no AgRg no RHC n. 212.713/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/8/2025, DJEN de 25/8/2025; EDcl no AgRg no AREsp n. 2.674.092/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/12/2024, DJEN de 11/12/2024.
+(EDcl no AgRg no HC n. 983.968/PR, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 11/11/2025, DJEN de 17/11/2025.)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
