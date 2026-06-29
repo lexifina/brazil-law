@@ -1,0 +1,804 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 18
+
+29/06/2026
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 1.605.133 AMAZONAS
+RELATOR
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+INTDO.(A/S)
+PROC.(A/S)(ES)
+INTDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. ALEXANDRE DE MORAES
+: MARILEI FIRMO DA SILVA
+: DEFENSOR PÚBLICO-GERAL FEDERAL
+: MUNICÍPIO DE MANAUS
+: PROCURADOR-GERAL
+DO
+MUNICÍPIO
+MANAUS
+: UNIÃO
+: ADVOGADO-GERAL DA UNIÃO
+: ESTADO DO AMAZONAS
+: PROCURADOR-GERAL
+DO
+ESTADO
+AMAZONAS
+
+DE
+
+DO
+
+EMENTA: AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO.
+TRIBUTÁRIO.
+TEMA
+793
+DA
+REPERCUSSÃO
+GERAL.
+RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERATIVOS.
+NECESSIDADE
+DE
+DIRECIONAMENTO
+DA
+OBRIGAÇÃO
+CONFORME REGRAS DE REPARTIÇÃO DE COMPETÊNCIAS DO SUS.
+NECESSIDADE DE DETERMINAÇÃO DE RESSARCIMENTO.
+AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1.
+No julgamento do RE 855.178-RG (Tema 793), o
+SUPREMO TRIBUNAL FEDERAL reafirmou sua jurisprudência no
+sentido da existência de responsabilidade solidária dos entes federados
+no dever de prestar assistência à saúde.
+2.
+Embora reconheça a existência de solidariedade entre os
+entes federados nas questões envolvendo a saúde pública, esta CORTE
+estabeleceu que a autoridade judicial tem o dever de direcionar o
+cumprimento dessas demandas, conforme as regras de repartição de
+competências estabelecidas pela lei orgânica do SUS, bem como
+determinar ressarcimento a quem suportou o ônus financeiro.
+3.
+No caso concreto, o Tribunal de origem limitou-se a
+reconhecer a responsabilidade solidária entre os entes federativos
+(MUNICÍPIO DE MANAUS, ESTADO DO AMAZONAS e UNIÃO),
+deixando de analisar as regras de competência para direcionar o
+cumprimento da obrigação ou o eventual dever de ressarcimento.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4029-535C-A2B6-623C e senha 0003-8E5C-F24B-E239
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 18
+
+RE 1605133 AGR / AM
+4.
+Ao assim decidir, o acórdão recorrido violou o
+estabelecido no julgamento do Tema 793 da repercussão geral, pois
+deixou de “direcionar o cumprimento conforme as regras de repartição
+de competências e determinar o ressarcimento a quem suportou o ônus
+financeiro”.
+5. Agravo interno a que se nega provimento.
+ACÓRDÃO
+A Turma, por unanimidade, negou provimento ao agravo interno,
+nos termos do voto do Relator, Ministro Alexandre de Moraes.
+Publique-se.
+Brasília, 30 de junho de 2026.
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4029-535C-A2B6-623C e senha 0003-8E5C-F24B-E239
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 18
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 1.605.133 AMAZONAS
+RELATOR
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+INTDO.(A/S)
+PROC.(A/S)(ES)
+INTDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. ALEXANDRE DE MORAES
+: MARILEI FIRMO DA SILVA
+: DEFENSOR PÚBLICO-GERAL FEDERAL
+: MUNICÍPIO DE MANAUS
+: PROCURADOR-GERAL
+DO
+MUNICÍPIO
+MANAUS
+: UNIÃO
+: ADVOGADO-GERAL DA UNIÃO
+: ESTADO DO AMAZONAS
+: PROCURADOR-GERAL
+DO
+ESTADO
+AMAZONAS
+
+DE
+
+DO
+
+RELATÓRIO
+O SENHOR MINISTRO ALEXANDRE DE MORAES (RELATOR):
+Trata-se de Agravo Interno interposto pela DEFENSORIA PÚBLICA
+DA UNIÃO contra decisão que deu provimento ao Recurso
+Extraordinário do MUNICÍPIO DE MANAUS para anular o acórdão
+recorrido e determinar a devolução dos autos à origem para que outro
+seja proferido em conformidade com o Tema 793 da repercussão geral,
+aos argumentos de que (i) no julgamento do RE 855.178-RG (Tema 793), o
+SUPREMO TRIBUNAL FEDERAL reafirmou sua jurisprudência no
+sentido da existência de responsabilidade solidária dos entes federados
+no dever de prestar assistência à saúde; (ii) embora reconheça a
+existência de solidariedade entre os entes federados nas questões
+envolvendo a saúde pública, o STF decidiu, na tese fixada nos referidos
+embargos, que a autoridade judicial tem o dever de direcionar o
+cumprimento dessas demandas, conforme as regras de repartição de
+competências estabelecidas pela lei orgânica do SUS, bem como
+determinar ressarcimento a quem suportou o ônus financeiro; (iii) no caso
+concreto, o Tribunal de origem limitou-se a reconhecer a
+responsabilidade solidária entre os entes federativos (MUNICÍPIO DE
+MANAUS, ESTADO DO AMAZONAS e UNIÃO), deixando de analisar
+as regras de competência para direcionar o cumprimento da obrigação ou
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código FC57-DBA1-4F99-B3A6 e senha CD3D-064F-7C70-1214
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 18
+
+RE 1605133 AGR / AM
+o eventual dever de ressarcimento; (iv) ao assim decidir, o acórdão
+recorrido violou o estabelecido no julgamento do Tema 793 da
+repercussão geral, pois deixou de “direcionar o cumprimento conforme
+as regras de repartição de competências e determinar o ressarcimento a
+quem suportou o ônus financeiro” (Doc. 24).
+Sustenta, a parte agravante, em suma, que (i) a obrigação foi
+integralmente satisfeita, remanescendo controvérsia exclusivamente
+relacionada a repartição de encargos no âmbito do Sistema Único de
+Saúde, o que diz respeito aos entes públicos, não à para agravante; (ii) a
+agravante não tem qualquer ingerência sobre a definição do ente
+responsável pelo custeio nem sobre a forma de repartição do ônus
+financeiro entre União, Estado do Amazonas e Município de Manaus,
+devendo a controvérsia ser resolvida pelos meios próprios, sem afetar o
+direito já satisfeito; (iii) o comando de direcionamento do cumprimento,
+que motivou a anulação, pressupõe prestação ainda devida, não
+justificando a desconstituição do título que reconheceu o direito da
+paciente; (iv) não houve violação ao Tema 793 da repercussão geral, uma
+vez que foi reconhecida a responsabilidade solidária dos entes
+federativos, e a consignação de que a repartição do ônus financeiro deve
+ser resolvida administrativa ou judicialmente; e (v) a anulação
+determinada pela decisão agravada, ao desconstituir o acórdão recorrido,
+ameaça atingir o reconhecimento do direito da Agravante e reabrir
+cognição sobre matéria que, quanto à paciente, não mais comporta
+discussão (Doc. 25).
+É o relatório.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código FC57-DBA1-4F99-B3A6 e senha CD3D-064F-7C70-1214
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 5 de 18
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 1.605.133 AMAZONAS
+RELATOR
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+INTDO.(A/S)
+PROC.(A/S)(ES)
+INTDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. ALEXANDRE DE MORAES
+: MARILEI FIRMO DA SILVA
+: DEFENSOR PÚBLICO-GERAL FEDERAL
+: MUNICÍPIO DE MANAUS
+: PROCURADOR-GERAL
+DO
+MUNICÍPIO
+MANAUS
+: UNIÃO
+: ADVOGADO-GERAL DA UNIÃO
+: ESTADO DO AMAZONAS
+: PROCURADOR-GERAL
+DO
+ESTADO
+AMAZONAS
+
+DE
+
+DO
+
+VOTO
+O SENHOR MINISTRO ALEXANDRE DE MORAES (RELATOR):
+Eis a decisão ora agravada:
+“Trata-se de Recurso Extraordinário interposto em face de
+acórdão do Tribunal Regional Federal da 1ª Região, assim
+ementado (Doc. 6):
+“PROCESSUAL CIVIL. CONSTITUCIONAL E
+ADMINISTRATIVO.
+DIREITO
+À
+SAÚDE.
+PROCEDIMENTO
+CIRÚRGICO.
+PRELIMINARES:
+ILEGITIMIDADE
+PASSIVA
+AD
+CAUSAM
+DO
+MUNICÍPIO, IMPOSSIBILIDADE JURÍDICA DO PEDIDO
+E FALTA DE INTERESSE DE AGIR. PRINCÍPIO DA
+DESCENTRALIZAÇÃO DO SUS. RESPONSABILIDADE
+SOLIDÁRIA. SEPARAÇÃO DOS PODERES. SENTENÇA
+MANTIDA. (...) 5. É responsabilidade do Estado,
+enquanto poder público (União, Estado, Distrito Federal e
+Município), garantir aos cidadãos o fornecimento de
+medicamentos e/ou tratamentos de saúde necessários à
+garantia dos direitos acima referidos. No caso em análise,
+a obrigação de fazer consistiu em determinar em
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 289B-C650-4C1C-DD3D e senha C138-F00E-7946-D109
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 6 de 18
+
+RE 1605133 AGR / AM
+definitivo, aos requeridos União, Estado do Amazonas e
+Município de Manaus que providenciassem a realização
+da cirurgia de que necessita a Autora (nefrolitotripsia), na
+forma indicada por profissional médico, por ter sido
+diagnosticada com Nefrolitíase no rim esquerdo (cálculo
+renal), conforme relatório médico apresentado. 6.
+Inadmissível condicionar a fruição de direito fundamental
+e inadiável à discussão acerca da parcela de
+responsabilidade de cada ente da Federação em arcar com
+os custos de medicamento ou de tratamento médico cujo
+fornecimento foi determinado por meio de decisão
+judicial, não podendo a divisão de atribuições ser arguida
+em desfavor do cidadão, questão que deve ser resolvida
+em âmbito administrativo ou por meio de ação judicial
+própria. 7. Recurso de apelação e remessa oficial
+conhecidos .e não providos. ”
+No Recurso Extraordinário (Doc. 9), interposto com
+amparo no art. 102, III, “a”, da CF/1988, o MUNICÍPIO DE
+MANAUS aponta violação aos arts. 2º; e 196, da CF/1988, pois
+fora condenado “ao fornecimento de cirurgia fora de sua
+competência legislativa. Tal determinação resulta em
+intervenção do Poder Judiciário em área de competência
+exclusiva do Poder Executivo, em clara afronta ao art. 2° da
+Constituição Federal” (Doc. 9, fl. 6).
+Aduz que “não há que se falar em responsabilidade do
+Município na execução de procedimentos tendentes ao
+fornecimento de tratamentos de média e alta complexidade”
+(...) porque a legislação do SUS é clara ao definir a competência
+de cada ente da Federação, com a respectiva destinação dos
+recursos. Assim, se o Município não possui a incumbência de
+fornecer determinado tratamento, nem recebe recursos para
+fazê-lo, não seria justo condená-lo ao pagamento solidário,
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 289B-C650-4C1C-DD3D e senha C138-F00E-7946-D109
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 7 de 18
+
+RE 1605133 AGR / AM
+quando apenas um dos três entes réus, qual seja, o Estado do
+Amazonas, possui dotação específica para tal, como se passará
+a demonstrar“ (Doc. 9, fl. 7).
+Argumenta que “o Município de Manaus, por não possuir
+gestão plena, apenas responde por procedimentos de baixa
+complexidade, de modo que os de média e alta complexidade
+devem ser executados por estados e união, os quais, ao
+contrário do primeiro, recebem verbas específicas para isso”
+(Doc. 09, fl. 7).
+Requer, ao final, o provimento do presente recurso
+reformando-se o acórdão recorrido para que seja reconhecida a
+ilegitimidade do Município de Manaus para figurar no polo
+passivo da demanda.
+Em seguida, determinou-se, na origem, o sobrestamento
+dos autos até julgamento de mérito do Tema 6/STF (Doc. 13).
+Em nova análise da questão, o Tribunal de origem afastou
+a aplicação ao caso dos Temas 6/STF; 1.234/STF; 500/STF; e
+106/STJ “por não se tratar de causa em que se busca o
+fornecimento de medicamento a que alude os referidos
+precedentes vinculantes”. No mais, à luz do Tema 793/STF,
+manteve o acórdão anteriormente prolatado ao fundamento de
+que “reconheceu a responsabilidade solidária dos entes
+federativos, em conformidade com o entendimento consolidado
+pelo Supremo Tribunal Federal, assim como destacou que a
+repartição do ônus financeiro deve ser resolvida pelos entes
+federativos administrativa ou judicialmente, o que atende ao
+comando exarado no aludido precedente vinculante” (Doc. 15,
+fl. 6).
+Na sequência, o RE foi admitido e os autos encaminhados
+ao STF (Doc. 17).
+É o relatório. Decido.
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 289B-C650-4C1C-DD3D e senha C138-F00E-7946-D109
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 8 de 18
+
+RE 1605133 AGR / AM
+
+Na origem, trata-se de demanda por meio da qual a parte
+autora postula a condenação do MUNICÍPIO DE MANAUS,
+ESTADO DO AMAZONAS e UNIÃO ao fornecimento de
+cirurgia (nefrolitotripsia percutânea) para retirada das pedras
+presentes nos néfrons, unidade renal responsável pela filtração
+e formação da urina (Doc. 4).
+No julgamento do RE 855.178-RG (Tema 793), o
+SUPREMO
+TRIBUNAL
+FEDERAL
+reafirmou
+sua
+jurisprudência no sentido da existência de responsabilidade
+solidária dos entes federados no dever de prestar assistência à
+saúde. Confira-se a ementa do julgado:
+“RECURSO
+EXTRAORDINÁRIO.
+CONSTITUCIONAL E ADMINISTRATIVO. DIREITO À
+SAÚDE.
+TRATAMENTO
+MÉDICO.
+RESPONSABILIDADE
+SOLIDÁRIA
+DOS
+ENTES
+FEDERADOS. REPERCUSSÃO GERAL RECONHECIDA.
+REAFIRMAÇÃO DE JURISPRUDÊNCIA. O tratamento
+médico adequado aos necessitados se insere no rol dos
+deveres do Estado, porquanto responsabilidade solidária
+dos entes federados. O polo passivo pode ser composto
+por qualquer um deles, isoladamente, ou conjuntamente.”.
+Posteriormente, ao rejeitar os Embargos de Declaração
+opostos em face do Acórdão acima citado, esta CORTE fixou a
+seguinte tese:
+“Os entes da federação, em decorrência da
+competência comum, são solidariamente responsáveis nas
+demandas prestacionais na área da saúde, e diante dos
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 289B-C650-4C1C-DD3D e senha C138-F00E-7946-D109
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 9 de 18
+
+RE 1605133 AGR / AM
+critérios
+constitucionais
+de
+descentralização
+e
+hierarquização, compete à autoridade judicial direcionar o
+cumprimento conforme as regras de repartição de
+competências e determinar o ressarcimento a quem
+suportou o ônus financeiro.”.
+Verifica-se, portanto, que, embora reconheça a existência
+de solidariedade entre os entes federados nas questões
+envolvendo a saúde pública, o STF decidiu, na tese fixada nos
+referidos embargos, que a autoridade judicial tem o dever de
+direcionar o cumprimento dessas demandas, conforme as
+regras de repartição de competências estabelecidas pela lei
+orgânica do SUS, bem como determinar ressarcimento a quem
+suportou o ônus financeiro.
+Como bem explicou o eminente Min. GILMAR MENDES,
+no julgamento de caso semelhante (RE 1.573.986, DJe 5/11/2025):
+“Espera-se, portanto, da autoridade judicial nas
+instâncias inferiores, dois tipos de atuação: uma
+prospectiva, de direcionar o cumprimento da obrigação ao
+ente responsável (nos casos de obrigações de trato
+sucessivo); e uma declaratório-constitutiva, de determinar
+o ressarcimento pelo cumprimento efetivo da obrigação
+pretéria, ou seja, já cumprida. Para tanto, faz-se necessário
+compreender as regras de financiamento e repartição de
+competências no âmbito do SUS.
+O Sistema Único de Saúde é constituído pelo
+conjunto de ações e serviços de saúde, prestados por
+órgãos e instituições públicas federais, estaduais e
+municipais, da Administração direta e indireta e das
+fundações mantidas pelo Poder Público (art. 4, Lei n.
+8.080/90). As ações e serviços de saúde, executados pelo
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 289B-C650-4C1C-DD3D e senha C138-F00E-7946-D109
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 10 de 18
+
+RE 1605133 AGR / AM
+SUS, seja diretamente ou mediante participação
+complementar da iniciativa privada, serão organizados de
+forma regionalizada e hierarquizada em níveis de
+complexidade crescente (baixa, média e alta), conforme
+dicção do artigo 8 da Lei n. 8.080/90.
+Ainda de acordo com a Lei n. 8.080/90, as Comissões
+Intergestores Bipartite e Tripartite (CIB e CIT,
+respectivamente) são reconhecidas como foros de
+negociação e pactuação entre gestores, quanto aos
+aspectos operacionais do SUS, cuja atuação tem como
+objetivo, dentre outros, “decidir sobre os aspectos
+operacionais, financeiros e administrativos da estão
+compartilhada do SUS, em conformidade com a definição
+da política consubstanciada em planos de saúde,
+aprovados pelos conselhos de saúde”.
+A legislação prevê ainda que, “no nível municipal, o
+SUS, poderá organizar-se em distritos de forma a integrar
+e articular recursos, técnicas e práticas voltadas para a
+cobertura total das ações de saúde”, bem como que “os
+municípios
+poderão
+constituir
+consórcios
+para
+desenvolver em conjunto as ações e os serviços de saúde
+que lhes correspondam” (art. 10 da Lei n. 8.080/90).
+Portanto, identificar a responsabilidade de cada ente
+pela prestação específica em saúde e pelo financiamento
+respectivo, vai muito além de uma interpretação
+constitucional ou uma análise do enquadramento fático da
+matéria à norma constitucional no caso concreto.
+Demanda análise da legislação infraconstitucional,
+das normativa dos entes e órgãos responsáveis pela
+execução das políticas do SUS, além de eventual matéria
+fático-probatória consistente na pactuação pontual de
+prestações e/ou serviços de saúde (como quando o
+município se organiza em consórcio ou assume a gestão
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 289B-C650-4C1C-DD3D e senha C138-F00E-7946-D109
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 11 de 18
+
+RE 1605133 AGR / AM
+plena do sistema municipal de saúde em seu território,
+responsabilizando-se pela gestão integral das ações e
+serviços de saúde de todos os níveis de complexidade
+dentro de sua extensão territorial).
+Deve-se consignar, ademais, que nem sempre o ente
+responsável pelo financiamento é o mesmo responsável
+pela execução da prestação em saúde, ou seja, essas
+atribuições (de financiamento e de execução) podem estar
+divididas, recaindo a responsabilidade pelo financiamento
+em um ente e a execução em outro.
+Assim, nos termos do Tema 793, caberá ao juiz
+analisar se o direito subjetivo pleiteado satisfaz os critérios
+constitucionais e legais para seu deferimento pelo SUS
+e/ou SUAS, e, uma vez sendo deferido, direcionar o
+cumprimento da ação em relação ao Ente federado
+competente pelo seu fornecimento, garantindo o
+ressarcimento, se for o caso, nos termos da legislação
+infraconstitucional incidente e eventuais pactuações locais,
+ou ainda, se necessário, determinar o deslocamento de
+competência.”
+No caso concreto, o Tribunal de origem limitou-se a
+reconhecer a responsabilidade solidária entre os entes
+federativos (MUNICÍPIO DE MANAUS, ESTADO DO
+AMAZONAS e UNIÃO), deixando de analisar as regras de
+competência para direcionar o cumprimento da obrigação ou o
+eventual dever de ressarcimento.
+Veja-se o seguinte trecho do voto condutor do acórdão
+recorrido (Doc. 6):
+“Nos termos do art. 196 da Constituição da
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 289B-C650-4C1C-DD3D e senha C138-F00E-7946-D109
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 12 de 18
+
+RE 1605133 AGR / AM
+República, incumbe ao Estado, em todas as suas esferas,
+prestar assistência à saúde da população, configurando
+essa obrigação, consoante entendimento pacificado do
+Supremo Tribunal Federal, responsabilidade solidária
+entre os entes da Federação. Portanto, é possível o
+ajuizamento da ação contra um, alguns ou todos os entes
+estatais.
+(...)
+O entendimento jurisprudencial predominante neste
+colegiado é de que a União, os Estados-membros e os
+Municípios são partes legítimas e solidárias para figurar
+no polo passivo de causas, como a presente, onde se
+objetiva a realização de procedimento cirúrgico e/ou
+medicamentoso através do Sistema Único de Saúde.
+Assim, pode ser demandada qualquer uma, visto que lhe
+compete garantir, por meio de políticas públicas que
+visem à proteção e recuperação da saúde, a plena
+observância do direito à saúde, independente do custo,
+aos hipossuficientes, em situação de risco à saúde.
+(...)
+Podendo assim, todos os entes federativos, União,
+Estado e Município ser demandados para o fim de ações
+protetivas da saúde, bem como suas autarquias e
+fundações, hipótese em que considero descabida a
+alegação de ilegitimidade passiva.
+A responsabilidade pelo fornecimento de remédios e
+tratamentos necessários ao cidadão, que decorre da
+garantia do direito fundamental à vida e à saúde, é
+constitucionalmente atribuída ao Estado, assim entendido
+a União, em solidariedade com os demais entes
+federativos (CF, arts. 6°, 196 e 198, § 1°).
+Na mesma linha de entendimento, ainda, precedente
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 289B-C650-4C1C-DD3D e senha C138-F00E-7946-D109
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 13 de 18
+
+RE 1605133 AGR / AM
+do Egrégio Tribunal Regional Federal da 5ªRegião,
+firmado no sentido de que a divisão administrativa de
+atribuições estabelecida pela legislação decorrente da Lei
+n° 8.080/90 não pode restringir a responsabilidade
+solidária da União, dos Estados-Membros, do Distrito
+Federal e dos Municípios, servindo apenas como
+parâmetro para a repartição do ônus financeiro, o qual
+deve
+ser
+resolvido
+pelos
+entes
+federativos
+administrativamente ou em ação judicial própria.
+(...)
+Ademais, a divisão administrativa de atribuições
+estabelecidas pela Lei. n. 8.080/90 não restringe a
+responsabilidade solidária da União, dos Estados e dos
+Municípios nas causas que versam sobre a prestação de
+assistência à saúde dos necessitados, prevista no art. 196
+da Constituição Federal.
+Não se mostra razoável a invocação de desrespeito a
+limites orçamentários quando se verifica que o tratamento
+médico vindicado é essencial para a garantia à vida de
+quem o requer, tornando-se secundárias as considerações
+de ordem orçamentária ou financeira.
+(...)
+É, portanto, responsabilidade do Estado, enquanto
+poder público (União, Estado, Distrito Federal e
+Município), garantir aos cidadãos o fornecimento de
+medicamentos e/ou tratamentos de saúde necessários à
+garantia dos direitos acima referidos. No caso em análise,
+a obrigação de fazer consistiu em determinar em
+definitivo, aos requeridos União, Estado do Amazonas e
+Município de Manaus que providenciassem a realização
+da cirurgia de que necessita a Autora (nefrolitotnpsia), na
+forma indicada por profissional médico, por ter sido
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 289B-C650-4C1C-DD3D e senha C138-F00E-7946-D109
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 14 de 18
+
+RE 1605133 AGR / AM
+diagnosticada com Nefrolitíase no rim esquerdo (cálculo
+renal), conforme relatório médico apresentado.
+Inadmissível condicionar a fruição de direito
+fundamental e inadiável à discussão acerca da parcela de
+responsabilidade de cada ente da Federação em arcar com
+os custos de medicamento ou de tratamento médico cujo
+fornecimento foi determinado por meio de decisão
+judicial, não podendo a divisão de atribuições ser arguida
+em desfavor do cidadão, questão que deve ser resolvida
+em âmbito administrativo ou por meio de ação judicial
+própria. (...)”
+Ao assim decidir, o acórdão recorrido violou o
+estabelecido no julgamento do Tema 793 da repercussão geral,
+pois deixou de “direcionar o cumprimento conforme as regras
+de repartição de competências e determinar o ressarcimento a
+quem suportou o ônus financeiro”.
+Nesse sentido:
+“EMENTA Agravo regimental e segundo agravo
+regimental em recurso extraordinário. Direito à saúde.
+Fornecimento de insumos e medicamentos para
+tratamento de diabetes mellitus tipo 1. Responsabilidade
+solidária dos entes federados. Inclusão da União no polo
+passivo. Competência da Justiça Federal. Tema nº 793 da
+Repercussão Geral. Precedentes. 1. A jurisprudência da
+Suprema Corte tem entendido que a interpretação do
+Tema nº 793 deve considerar a existência de solidariedade
+entre todos os entes em caso de competência comum, mas
+deve observar o direcionamento necessário da demanda
+judicial ao ente responsável pela prestação específica
+pretendida, permitindo que o cumprimento seja direto e
+
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 289B-C650-4C1C-DD3D e senha C138-F00E-7946-D109
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 15 de 18
+
+RE 1605133 AGR / AM
+eventual ressarcimento, eficaz. 2. “Em se tratando de
+pedido para disponibilização de produto não incluído nas
+políticas públicas do SUS para o fim desejado, a
+participação da União se torna imprescindível,
+especialmente para que a autoridade judicial possa,
+‘diante dos critérios constitucionais de descentralização e
+hierarquização direcionar, caso a caso, o cumprimento
+conforme as regras de repartição de competências e
+determinar o ressarcimento a quem suportou o ônus
+financeiro’, conforme determinado no RE 855.178-ED
+(Tema 793-RG)” (RE nº 1.564.085/RS-AgR, Primeira
+Turma, Rel. Min. Alexandre de Moraes, DJe de 10/12/25).
+3. Agravos regimentais não providos. (RE 1594871 AgR,
+Relator(a): DIAS TOFFOLI, Segunda Turma, julgado em
+29-04-2026, PROCESSO ELETRÔNICO DJe-s/n DIVULG
+30-04-2026 PUBLIC 04-05-2026)
+“Ementa: CONSTITUCIONAL E PROCESSUAL
+CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO.
+“AMIGDALECTOMIA” PARA TRATAMENTO DE
+HIPERTROFIA DAS AMÍGDALAS. CUSTEIO PELO
+APORTE DE RECURSOS FEDERAIS. NECESSIDADE DE
+INCLUSÃO DA UNIÃO NO POLO PASSIVO.
+COMPETÊNCIA DA JUSTIÇA FEDERAL. OFENSA AO
+QUE DECIDIDO POR ESTE TRIBUNAL NO
+JULGAMENTO
+DO TEMA 793 DA
+REPERCUSSÃO
+GERAL. RECURSO DESPROVIDO. I. CASO EM EXAME
+1. Agravo Interno em face de decisão que julgou
+procedente a Reclamação. II. QUESTÃO JURÍDICA EM
+DISCUSSÃO 2. Discute-se a correta interpretação e
+aplicação da tese fixada no Tema 793-RG, RE 855.178, Rel.
+Min. LUIZ FUX, Redator p/ Acórdão Min. EDSON
+FACHIN. III. RAZÕES DE DECIDIR 3. A interpretação
+do Tema 793 da Repercussão Geral deve considerar a
+
+11
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 289B-C650-4C1C-DD3D e senha C138-F00E-7946-D109
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 16 de 18
+
+RE 1605133 AGR / AM
+existência de solidariedade entre todos os entes em caso
+de
+competência
+comum,
+mas
+deve
+observar
+o direcionamento necessário da demanda judicial ao ente
+responsável pela prestação específica pretendida,
+permitindo-se que o cumprimento seja direto e, eventual
+ressarcimento, eficaz. 4. Hipótese em que é obrigatória a
+participação da União no polo passivo da demanda,
+especialmente para que a autoridade judicial possa
+“diante dos critérios constitucionais de descentralização e
+hierarquização direcionar, caso a caso, o cumprimento
+conforme as regras de repartição de competências e
+determinar o ressarcimento a quem suportou o ônus
+financeiro”, conforme assentado no RE 855.178-ED
+(Tema 793-RG). IV. DISPOSITIVO 5. Recurso de Agravo a
+que se nega provimento.” (Rcl 87146 AgR / RS, Primeira
+Turma, DJe de de 8/5/2026)
+Diante do exposto, com base no art. 21, § 1º, do Regimento
+Interno do Supremo Tribunal Federal, DOU PROVIMENTO
+AO RECURSO EXTRAORDINÁRIO para anular o acórdão
+recorrido e determinar a devolução dos autos à origem para
+que outro seja proferido em conformidade com o Tema 793 da
+repercussão geral.
+Publique-se.”
+
+Não há reparo a fazer no entendimento aplicado, pois o agravo
+regimental não apresentou qualquer argumento apto a desconstituir os
+fundamentos da decisão agravada.
+Ressalta-se, por oportuno, que a mera satisfação da obrigação em
+virtude de tutela antecipada não exaure a controvérsia objeto da
+demanda, em especial o necessário direcionamento da obrigação ao ente
+responsável e a determinação de ressarcimento a quem suportou o ônus
+12
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 289B-C650-4C1C-DD3D e senha C138-F00E-7946-D109
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 17 de 18
+
+RE 1605133 AGR / AM
+financeiro, nos termos do Tema 793 da repercussão geral.
+Por essas razões, NEGO PROVIMENTO AO AGRAVO INTERNO.
+É o voto.
+
+13
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 289B-C650-4C1C-DD3D e senha C138-F00E-7946-D109
+
+Supremo Tribunal Federal
+Extrato de Ata - 29/06/2026
+
+Inteiro Teor do Acórdão - Página 18 de 18
+
+PRIMEIRA TURMA
+
+EXTRATO DE ATA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 1.605.133
+PROCED. : AMAZONAS/AM
+RELATOR(A): MIN. ALEXANDRE DE MORAES
+AGTE.(S): MARILEI FIRMO DA SILVA
+PROC.(A/S)(ES): DEFENSOR PÚBLICO-GERAL FEDERAL
+AGDO.(A/S): MUNICÍPIO DE MANAUS
+PROC.(A/S)(ES): PROCURADOR-GERAL DO MUNICÍPIO DE MANAUS
+INTDO.(A/S): UNIÃO
+PROC.(A/S)(ES): ADVOGADO-GERAL DA UNIÃO
+INTDO.(A/S): ESTADO DO AMAZONAS
+PROC.(A/S)(ES): PROCURADOR-GERAL DO ESTADO DO AMAZONAS
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+interno, nos termos do voto do Relator, Ministro Alexandre de Moraes.
+Primeira Turma, Sessão Virtual de 19.6.2026 a 26.6.2026.
+Composição: Ministros Flávio Dino (Presidente), Cármen Lúcia,
+Alexandre de Moraes e Cristiano Zanin.
+Cintia da Silva Gonçalves
+Secretária da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 39B9-2784-9BB6-2073 e senha EDEA-44F8-C47A-26B4
