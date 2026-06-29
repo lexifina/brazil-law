@@ -1,0 +1,24 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por BRADESCO SAUDE S/A., BRADESCO SAUDE - OPERADORA DE PLANOS S/A contra decisão que inadmitiu recurso especial fundamentado na(s) alínea(s) "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 23/2/2026.
+Concluso ao gabinete em: 1º/6/2026.
+Ação: cominatória c/c revisional de contrato e declaração de nulidade de cláusula, ajuizada por CARLOS ALBERTO RAMALHO, em face de BRADESCO SAÚDE S/A, na qual requer a manutenção do plano coletivo nas mesmas condições anteriores, com fixação da mensalidade original de R$ 212,61 (duzentos e doze reais e sessenta e um centavos) e restituição de valores cobrados a maior.
+Sentença: julgou procedentes os pedidos, para: i) ratificar a tutela de urgência; ii) declarar nulos todos os reajustes das mensalidades e aplicar, a partir do primeiro reajuste abusivo, o índice anual de correção da ANS; iii) condenar a requerida a restituir os valores pagos a maior desde o primeiro reajuste abusivo.
+Acórdão: negou provimento ao recurso de apelação interposto por BRADESCO SAÚDE S/A, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO COMINATÓRIA C/C REVISIONAL DE CONTRATO E DECLARAÇÃO DE NULIDADE DE CLÁUSULA. CONTRATO DE PLANO DE SAÚDE VINCULADO A CONTRATO DE TRABALHO. PLANO DE SAÚDE COLETIVO. APOSENTADORIA. ART. 31 DA LEI 9.656/98. ASPECTO TEMPORAL. CONTRIBUIÇÃO POR TEMPO SUPERIOR A DEZ ANOS. NECESSIDADE DE MANUTENÇÃO DO SEGURADO NO PLANO DE SAÚDE. CLÁUSULA DE ATUALIZAÇÃO DO PRÊMIO POR FAIXA ETÁRIA. ABUSIVIDADE IN CASU. ADEQUAÇÃO. RECURSO DESPROVIDO.
+- Nos termos do art. 31 da Lei 9.656/98, é direito do aposentado manter- se com o "status" de segurado nas mesmas condições de quando estava vigendo o seu contrato de trabalho, desde que comprovado o tempo de contribuição superior a 10 anos e que assuma o pagamento integral da prestação.
+- Constatada a abusividade da cláusula que prevê o aumento do prêmio por faixa etária, no caso em comento, deve ser mantida a sentença que determinou sua adequação. (e-STJ fl. 1509)
+Embargos de declaração: opostos por BRADESCO SAÚDE S/A, foram rejeitados.
+Recurso especial: alega violação dos arts. 489, § 1º, II, III e IV, 1.022, I, II e III, 1.025 e 1.026, § 2º, do CPC e 30 e 31 da Lei 9.656/1998, bem como dissídio jurisprudencial. Além da negativa de prestação jurisdicional, afirma que o acórdão desconsidera a paridade de custeio entre ativos e inativos e aplica índices da ANS próprios de planos individuais a contrato coletivo. Aduz que há ofensa ao direito de manutenção nas mesmas condições de cobertura e igualdade de modelo de pagamento, com obrigação de custeio integral pelo inativo. Argumenta que é indevida a multa por embargos de declaração opostos com propósito de prequestionamento, devendo ser afastada.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da negativa de prestação jurisdicional
+Consoante o entendimento desta Corte, há ofensa ao art. 1.022 do CPC quando o órgão julgador deixa de se manifestar, de forma expressa, sobre questão oportunamente suscitada nos autos e relevante para o integral julgamento da demanda (AgInt no AREsp 1.081.502/MG, 3ª Turma, DJe de 02/02/2018 e EDcl no AgInt no REsp 1.281.316/MT, 4ª Turma, DJe de 02/03/2018).
+No particular, as razões recursais tecidas acerca da suposta violação do art. 1.022 do CPC residem na alegação de que o TJ/MG, apesar de provocado por meio dos embargos declaratórios opostos pela parte agravante, não se manifestou acerca do dever de custeio integral pelo inativo.
+Da análise do processo, constata-se que, de fato, o TJ/MG não analisou essas questões, em que pese tenham sido devidamente suscitadas nos embargos de declaração opostos pela parte agravante.
+Assim, observada a jurisprudência dominante desta Corte quanto ao tema, impõe-se a cassação do acórdão que apreciou os declaratórios a fim de que sejam sanadas a omissão acima referida, tendo-se como prejudicado o exame das demais questões aventadas no presente recurso.
+Forte nessas razões, com fundamento no art. 932, V, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO agravo para CONHECER do recurso especial e DAR-LHE PROVIMENTO, a fim de determinar a remessa dos autos ao Tribunal de origem, para que este se pronuncie, na esteira do devido processo legal, sobre os argumentos deduzidos nos embargos de declaração opostos pela parte agravante.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA C/C REVISIONAL DE CONTRATO E DECLARAÇÃO DE NULIDADE DE CLÁUSULA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. OMISSÃO CARACTERIZADA.
+1. Há ofensa ao art. 1.022 do CPC quando o Tribunal de Justiça deixa de se manifestar expressamente sobre questão suscitada nos autos e relevante para o julgamento integral da demanda.
+2. Agravo conhecido. Recurso especial conhecido provido.
