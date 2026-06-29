@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de FELIPE DE VASCONCELLOS MARMORE no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Agravo em Execução n. 5017711-09.2025.8.19.0500).
+Depreende-se dos autos que o Juízo da execução indeferiu o pedido de saídas temporárias para visita periódica ao lar formulado pelo paciente (e-STJ fl. 33).
+Interposto agravo em execução, o Tribunal de origem negou provimento ao recurso defensivo, nos termos de acórdão assim ementado (e-STJ fls. 23/24):
+AGRAVO DE EXECUÇÃO PENAL. RECURSO DEFENSIVO. VISITA PERIÓDICA AO LAR. INDEFERIMENTO. ALEGADA AUSÊNCIA DE REQUISITOS OBJETIVO E SUBJETIVO. CONDENAÇÃO POR CRIME COM VIOLÊNCIA. INCIDÊNCIA DA LEI Nº 14.843/2024. IMPOSSIBILIDADE DE CONTROLE INCIDENTAL DE CONSTITUCIONALIDADE POR ÓRGÃO FRACIONÁRIO. PRINCÍPIO DA RESERVA DE PLENÁRIO. INEXISTÊNCIA DE MÁCULA À IRRETROATIVIDADE DA LEI PENAL. DELITO OCORRIDO JÁ NA VIGÊNCIA DA NOVA LEGISLAÇÃO. TEMPUS REGIT ACTUM. JUÍZO DAS EXECUÇÕES CRIMINAIS QUE DEVE AVALIAR, EM CADA CASO CONCRETO, A PERTINÊNCIA E A RAZOABILIDADE EM DEFERIR A PRETENSÃO, PARA QUE POSSA COMPATIBILIZAR TAIS SAÍDAS COM OS OBJETIVOS DA PENA. CASO DOS AUTOS QUE TRATA DE APENADO CONDENADO POR CRIME QUE POSSUI VIOLÊNCIA COMO PARTE DO TIPO PENAL E QUE POSSUI AINDA TÉRMINO DE CUMPRIMENTO DA PENA PREVISTO PARA A LONGINQUA DATA DE 06/08/2031 TENDO CUMPRIDO APENAS 25% (VINTE E CINCO POR CENTO) DA PENA IMPOSTA. PENITENTE QUE POSSUI ÍNDICE DE COMPORTAMENTO NEUTRO, SEM REGISTRO DE ATIVIDADES EDUCACIONAIS OU LABORATIVAS NO CÁRCERE. CONCESSÃO QUE NÃO SE DÁ DE FORMA AUTOMÁTICA PELA INTRODUÇÃO AO REGIME SEMIABERTO. RECURSO A QUE SE NEGA PROVIMENTO.
+I. CASO EM EXAME
+1. Agravo interposto pela Defesa Técnica do apenado contra decisão do Juízo da Vara de Execuções Penais que indeferiu pedido de saída temporária para Visita Periódica ao Lar, sob o fundamento de ausência dos requisitos objetivo e subjetivo exigido pela Lei de Execuções Penais.
+2. A defesa sustenta o preenchimento dos requisitos legais e requer, incidentalmente, o reconhecimento da inconstitucionalidade da Lei nº 14.843/2024, que alterou o art. 122 da Lei de Execução Penal para vedar o benefício a condenados por crimes cometidos com violência ou grave ameaça.
+3. O apenado foi condenado à pena de 07 anos, 03 meses e 03 dias de reclusão pela prática de roubo majorado, tendo cumprido cerca de 25% da pena, com término previsto para 06/08/2031.
+II. QUESTÃO EM DISCUSSÃO
+4. Há duas questões em discussão: (i) saber se é possível o reconhecimento incidental da inconstitucionalidade da Lei nº 14.843/2024 em sede de agravo em execução penal por órgão fracionário do tribunal; e (ii) saber se estão presentes os requisitos legais para a concessão do benefício de saída temporária ao apenado condenado por crime cometido com violência.
+III. RAZÕES DE DECIDIR
+5. O pedido de declaração incidental de inconstitucionalidade não pode ser conhecido. O controle concentrado deve ser exercido por meio da ação direta própria e a declaração de inconstitucionalidade exige observância da cláusula de reserva de plenário.
+6. Nos termos do art. 97 da Constituição Federal e da Súmula Vinculante nº 10 do Supremo Tribunal Federal, órgão fracionário de Tribunal não pode afastar a incidência de lei ou ato normativo sem a manifestação da maioria absoluta do Tribunal ou de seu Órgão Especial.
+7. A Lei nº 14.843/2024 acrescentou o §2º ao artigo 122 da Lei nº 7.210/1984, vedando a saída temporária ao condenado por crime hediondo ou cometido com violência ou grave ameaça contra pessoa. O apenado cumpre pena por roubo majorado, delito que possui violência como elementar do tipo penal, o que constitui impedimento legal à concessão da benesse.
+8. Não há violação aos princípios da anterioridade e da irretroatividade da lei penal mais severa, pois o delito foi praticado em 05/05/2024, após a entrada em vigor da Lei nº 14.843/2024, em 11/04/2024
+9. Ainda que superado o impedimento legal, a concessão da saída temporária depende do preenchimento cumulativo dos requisitos do artigo 123 da Lei de Execução Penal e da avaliação do juízo da execução quanto à compatibilidade do benefício com os objetivos da pena.
+10. A longa pena remanescente, a natureza violenta do delito, o comportamento carcerário classificado como neutro e a ausência de registros de atividades laborais ou educacionais no cárcere evidenciam a ausência de requisitos subjetivos para a concessão do benefício.
+11. O benefício de Visita Periódica ao Lar visa à reintegração social em fase avançada do cumprimento da pena, sendo incabível a concessão precoce diante da ausência de aptidão demonstrada pelo apenado.
+IV. DISPOSITIVO E TESE
+12. Agravo em execução penal conhecido e desprovido.
+Tese de julgamento: "1. Órgão fracionário de tribunal não pode afastar a incidência de lei sob fundamento de inconstitucionalidade, em respeito à cláusula de reserva de plenário. 2. A saída temporária prevista no artigo 122 da Lei de Execução Penal é vedada ao condenado por crime cometido com violência ou grave ameaça, nos termos do §2º, introduzido pela Lei nº 14.843/2024. 3. A concessão do benefício exige, além dos requisitos objetivos, a demonstração de requisitos subjetivos e da compatibilidade com os objetivos da execução penal, especialmente quando ainda há longo período de pena a cumprir."
+Na presente impetração, a defesa alega que "a ficha disciplinar do Apenado demonstra ausência de faltas disciplinares, inexistência de anotações negativas contemporâneas e ausência de qualquer registro indicativo de comportamento inadequado durante a execução penal", e ressalta que "o denominado comportamento "neutro", utilizado pelo acórdão como fundamento desfavorável, não decorre de histórico disciplinar negativo, mas tão somente da classificação inicial atribuída quando do ingresso no sistema prisional, sem posterior atualização que demonstre efetiva inadequação comportamental" (e-STJ fl. 10).
+Afirma que "a decisão impugnada  ..  deixou de exercer mera atividade interpretativa e passou a inovar no ordenamento jurídico, agregando requisitos não previstos pelo legislador e convertendo circunstâncias favoráveis constantes dos próprios documentos oficiais em fundamentos restritivos à liberdade" (e-STJ fl. 13).
+Ao final, requer a concessão da ordem para (e-STJ fl. 20):
+a) A concessão da medida liminar, nos termos acima expostos, para determinar que o Juízo da Execução reaprecie o pedido de Visita Periódica ao Lar, afastando a vedação da Lei nº 14.843/2024;
+b.1) Reconhecer a ocorrência de teratologia executória decorrente da criação judicial de requisitos subjetivos autônomos não previstos nos arts. 122 e 123 da LEP;
+b.2) Cassar o acórdão por constrangimento ilegal;
+b.3) Determinar reapreciação concreta do pedido sem utilização de critérios extralegais.
+b.4) Subsidiariamente, que determine que o Tribunal de Justiça submeta a matéria ao Pleno ou ao órgão especial para fins de analisar a inconstitucionalidade arguida pelo paciente.
+Indeferido o pedido de liminar (e-STJ fls. 42/45) e prestadas as informações solicitadas (e-STJ fls. 54/70), o Ministério Público Federal opinou pelo não conhecimento da impetração (e-STJ fls. 76/79).
+É o relatório.
+Decido.
+A impetração está prejudicada.
+Isso, porque, das informações prestadas pelo Juízo de primeiro grau (e-STJ fls. 59/70), verifica-se ter sido proferido decisum concedendo regime aberto ao apenado em 11 /5/2026 , razão pela qual fica esvaziado o objeto desta impetração.
+Ante o exposto, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
