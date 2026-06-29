@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de BLENDON HENRIQUE DE SOUZA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da Revisão Criminal n. 2032507-72.2026.8.26.0000.
+Extrai-se dos autos que o Juízo da Vara de Execução Penal reconheceu a falta disciplinar de natureza grave, com transferência do cumprimento da pena para o regime fechado, revogação de 1/3 dos dias remidos, elaboração de novo cálculo de pena e perda do direito a novas saídas temporárias.
+O Tribunal de origem negou provimento ao agravo de execução penal interposto pelo paciente.
+Inconformada, a defesa ajuizou revisão criminal, que não foi conhecida, nos termos do acórdão assim ementado (fls. 12/14):
+"Ementa: DIREITO PENAL. REVISÃO CRIMINAL. EXECUÇÃO PENAL. FALTA DISCIPLINAR DE NATUREZA GRAVE. PRETENSÃO DE DESCONSTITUIÇÃO DE ACÓRDÃO PROFERIDO EM AGRAVO EM EXECUÇÃO. INADEQUAÇÃO DA VIA ELEITA. NÃO CONHECIMENTO DA AÇÃO REVISIONAL.
+I. Caso em exame
+1. Revisão criminal ajuizada com fundamento no artigo 621, inciso I, do Código de Processo Penal, visando à desconstituição de acórdão proferido em agravo em execução penal que manteve decisão reconhecendo a prática de falta disciplinar de natureza grave consistente no descumprimento das condições impostas para a fruição de saída temporária, com aplicação das sanções de regressão ao regime fechado, perda do direito a novas saídas temporárias e perda de 1/3 dos dias remidos. A defesa sustenta inexistir falta disciplinar, alegando que o reeducando se encontrava em hotel localizado no centro da cidade e não em casa de prostituição, afirmando ausência de ilicitude na contratação consensual de serviços sexuais entre adultos e apontando violação aos princípios da legalidade e da taxatividade. Requereu a absolvição quanto à imputação de falta grave ou, subsidiariamente, a aplicação de sanção mais branda.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se é cabível revisão criminal para desconstituir acórdão proferido em agravo em execução penal que reconheceu a prática de falta disciplinar de natureza grave no âmbito da execução penal.
+III. Razões de decidir
+3. A revisão criminal possui caráter excepcional e somente é admissível nas hipóteses expressamente previstas no artigo 621 do Código de Processo Penal, exigindo a existência de sentença penal condenatória transitada em julgado.
+4. A decisão impugnada foi proferida em sede de agravo em execução penal, no âmbito da execução da pena, tratando-se de ato jurisdicional de natureza executória e administrativa, regido pela Lei de Execução Penal, não equiparável à sentença penal condenatória ou absolutória imprópria.
+5. A utilização da revisão criminal para rediscutir matéria decidida em incidente de execução penal implicaria ampliação indevida do âmbito de incidência da ação revisional, em desconformidade com a sistemática recursal prevista no ordenamento jurídico.
+6. Ausentes as hipóteses legais autorizadoras previstas no artigo 621 do Código de Processo Penal, impõe-se o não conhecimento da revisão criminal.
+IV. Dispositivo e tese
+7. Revisão criminal não conhecida.
+Tese de julgamento: "1. A revisão criminal somente é cabível para desconstituição de sentença penal condenatória transitada em julgado, nos termos do artigo 621 do Código de Processo Penal. 2. Decisão proferida em agravo em execução penal que reconhece falta disciplinar grave não se sujeita ao controle por meio de revisão criminal."
+No presente writ, a defesa sustenta a inexistência de falta disciplinar, porque não houve ingresso ou permanência em casa de prostituição, mas permanência em hotel localizado no centro da cidade, sendo indevida a ampliação normativa para alcançar conduta não prevista.
+Assevera que a contratação de serviços sexuais consensuais entre adultos, fora de ambiente proibido, não configura ilícito penal ou disciplinar, inexistindo tipicidade da conduta atribuída ao paciente.
+Defende a incompatibilidade entre o descumprimento de condições da saída temporária e o reconhecimento de falta grave, por se tratar, à luz do art. 125 da Lei de Execução Penal - LEP, de hipótese de mera revogação do benefício, distinta das faltas previstas nos arts. 50 a 52 da LEP.
+Requer, em liminar, a absolvição do paciente da falta grave e, no mérito, a concessão da ordem para confirmar a inexistência de falta disciplinar de natureza grave, com o afastamento de qualquer sanção disciplinar ou regressão de regime decorrente do fato.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Ademais, a possibilidade de análise da matéria para eventual concessão da ordem, de ofício, não se mostra adequada ao presente caso.
+Da atenta leitura do acórdão impugnado, verifica-se que o Tribunal de origem não se manifestou expressamente sobre alegação de inexistência da falta grave, limitando-se a consignar a inadequação da via eleita.
+Desse modo, resta afastada a competência desta Corte Superior para conhecimento do feito, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ILEGALIDADE INEXISTENTE. OMISSÃO DEVE SER QUESTIONADA VIA EMBARGOS DE DECLARAÇÃO. SUPRESSÃO. AINDA QUE NULIDADE ABSOLUTA. DESÍGNIOS AUTONOMOS. ABSORÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA DO WRIT. AUSÊNCIA DE ARGUMENTOS NOVOS APTOS A ALTERAR A DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão agravada por seus próprios fundamentos.
+II - Ainda que a Defesa alegue que houve o prequestionamento implícito, porquanto ventilou a questão nas peças de defesa, todavia, ante a não manifestação daquela Corte, caberia o manejo dos embargos de declaração, aptos a prequestionar a matéria.
+III - Ausente manifestação do Tribunal sobre a questão de fundo também ora vindicada, incabível a análise de tal matéria, no presente habeas corpus, porquanto está configurada a absoluta supressão de instância quanto ao ponto debatido, ficando impedida esta Corte de proceder à sua análise.
+IV - A instância ordinária, diante do conjunto fático-probatório dos autos, concluiu por provas suficientes à condenação pelos 2 (dois) delitos, como sendo autônomos, bem como a defesa não logrou demonstrar o contrário.
+V - É iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses de insuficiência probatória, de negativa de autoria ou até mesmo de desclassificação, em razão da necessidade de incursão no acervo fático-probatório.
+Agravo regimental desprovido.
+(AgRg no HC n. 823.044/DF, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. WRIT IMPETRADO CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. AUSÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. TEMAS NÃO DEBATIDOS PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. TEMAS DEBATIDOS EM CONSONÂNCIA COM O ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE ILEGALIDADE FLAGRANTE.
+1. Não deve ser conhecido o writ que se volta contra sentença condenatória já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte Superior. Nos termos do art. 105, I, e, da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, as revisões criminais e as ações rescisórias de seus julgados. Precedentes.
+2. A Jurisprudência do Superior Tribunal de Justiça "é pacífica no sentido de que, ainda que se trate de matéria de ordem pública, é imprescindível o seu prévio debate na instância de origem para que possa ser examinada por este Tribunal Superior (AgRg no HC 530.904/PR, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 24/9/2019, DJe de 10/10/2019) - (AgRg no HC n. 726.326/CE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 28/3/2022).
+3. Quanto aos temas efetivamente debatidos pela Corte de origem, verifica-se que não há qualquer ilegalidade flagrante a ser sanada, na medida em que o acórdão objurgado se encontra em consonância com a jurisprudência desta Corte, no sentido de que as condenações alcançadas pelo período depurador de 5 anos, previsto no art. 64, inciso I, do Código Penal, afastam os efeitos da reincidência, mas não impedem a configuração de maus antecedentes, permitindo, assim, o aumento da pena-base; bem como de que para a incidência da causa de aumento relativa ao emprego de arma de fogo, dispensável a apreensão e perícia da arma, desde que o emprego do artefato fique comprovado por outros meios de prova. Precedentes.
+3. Agravo regimental improvido.
+(AgRg no HC n. 842.953/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/2/2024, DJe de 8/2/2024.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
