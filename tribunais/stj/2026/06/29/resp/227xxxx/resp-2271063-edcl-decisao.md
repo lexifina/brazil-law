@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JOEL MORAES ESTRELA contra decisão singular de minha lavra na qual dei provimento ao recurso especial da seguradora para julgar improcedente o pedido da parte autora, com fixação de custas e honorários (fls. 698-702).
+Nas razões do seu recurso, a parte embargante alega contradição na decisão, ao aplicar tese que pressupõe a existência de cláusula expressa de exclusão de cobertura, apesar de o acórdão recorrido afirmar que inexiste cláusula restritiva.
+Aduz que a Súmula 7 do STJ foi aplicada de forma assimétrica, pois a decisão protegeu premissas fáticas sobre prescrição e, no mérito, teria adotado premissa contrária quanto à existência de cláusula de exclusão, sem invocar os óbices das Súmulas 5 e 7/STJ (fl. 708).
+Sustenta que houve obscuridade na decisão, na medida em que a apólice nº 93.18979 contém Condições Particulares que garantem a cobertura de invalidez por acidente (IPA) a 200% e trazem cláusula que revoga todas as disposições das Condições Gerais conflitantes.
+Aponta omissão quanto à aplicação do Código de Defesa do Consumidor e à ausência de destaque das cláusulas restritivas.
+Alega omissão com relação à ausência de enfrentamento da distinção traçada pelo TJMA quanto ao Tema 1.112/STJ, sustentando que o caso não envolve transferência de dever informacional, mas ausência de cláusulas limitativas, sem manifestação específica.
+Impugnação aos embargos de declaração às fls. 718-727.
+Assim delimitada a questão, passo a decidir.
+Os presentes embargos não merecem prosperar.
+Inicialmente, não identifico na decisão embargada nenhum dos vícios necessários ao conhecimento dos embargos de declaração, a teor do art. 1.022 do Código de Processo Civil, adstrito à correção de omissão, obscuridade, contradição ou erro material.
+No caso, o Tribunal de origem reconheceu a equiparação da doença ocupacional a acidente pessoal ante o nexo de concausalidade, razão pela qual determinou a cobertura securitária para IPA com percentual correspondente a 200% do capital básico.
+Acrescento ainda que no julgamento dos embargos de declaração, a Corte local ressaltou que "a apólice específica firmada entre a estipulante e e a seguradora não contém cláusula clara e expressa de exclusão da cobertura para doenças ocupacionais equiparadas a acidente, motivo pelo qual não poderia prevalecer interpretação restritiva fundada em condições gerais do ramo de seguro não incorporadas validamente ao contrato" (fl. 605).
+A questão central dos embargos de declaração diz respeito à alegada contradição interna quanto à ausência de cláusula expressa de exclusão. Não há, todavia, contradição a ser sanada. A decisão embargada foi clara ao afirmar que, nos contratos de seguro, a cobertura se limita aos riscos predeterminados e expressamente delimitados na apólice, não sendo possível ampliar a cobertura para alcançar as doenças ocupacionais. O acórdão recorrido, ao equiparar a doença laboral ao conceito de acidente pessoal, contrariou a orientação consolidada desta Corte Superior.
+Assim, a ausência de cláusula expressa de exclusão de cobertura para doenças ocupacionais não autoriza a ampliação de cobertura, uma vez que o contrato de seguro deve ser interpretado restritivamente, de forma que o conceito de acidente pessoal, definido pelas normas regulatórias do setor securitário, exclui expressamente as doenças, inclusive as profissionais, quaisquer que sejam suas causas.
+Também não há obscuridade na decisão, considerando que a fundamentação foi suficiente para demonstrar que a concausalidade relevante no âmbito previdenciário não se aplica ao contrato de seguro. Tampouco há omissão, já que os pontos essenciais foram enfrentados, e o julgador não está obrigado a rebater todos os argumentos das partes, bastando enfrentar aqueles suficientes para a solução da controvérsia.
+Assim, a decisão embargada enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e suficiente, razão pela qual não merece reparo algum.
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
