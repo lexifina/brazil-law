@@ -1,0 +1,45 @@
+DECISÃO
+PAULO ROSA DOS SANTOS JÚNIOR alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Agravo de Execução Penal n. 0001032-54.2026.8.26.0026.
+A defesa sustenta que a decisão que condicionou a progressão de regime à realização de exame criminológico carece de fundamentação idônea. Afirma que o paciente preenche os requisitos objetivo e subjetivo para a progressão, comprovados por atestado de boa conduta carcerária e boletim informativo, sem registro de faltas disciplinares nos últimos doze meses. Aduz, ainda, que o exame criminológico não é obrigatório e não pode ser determinado com base na gravidade abstrata do delito ou na quantidade de pena a cumprir. Alega, por fim, a inexistência de efetivo técnico para realização do exame, o que acarreta atraso indevido na análise do pedido de progressão.
+Requer a concessão da progressão ao regime semiaberto, independentemente da realização do exame criminológico.
+Decido.
+I. Contextualização
+A controvérsia cinge-se a definir a legalidade da exigência de exame criminológico para fins de progressão de regime, com base na aplicação da Lei n. 14.843/2024 a fatos criminosos ocorridos antes de sua vigência.
+O Juízo da Execução determinou a realização do exame sob os seguintes fundamentos:
+Para a análise de adequação da concessão do benefício, conforme pleiteado, necessária se faz a realização de exame criminológico, uma vez que o sentenciado foi condenado pela prática do(s) crime(s) previsto(s) no(s) artigo(s) Art. 157 § 2º, I, II do(a) CP e Art. 33 "caput" do(a) SISNAD e Art. 16 "caput" do(a) LEI 10.826/03 e Art. 157 § 2º, I, II, V do(a) CP, demonstrando, assim, periculosidade e um conjunto psicossomático desajustado à vida em sociedade.
+Sobre o tema, Guilherme de Souza Nucci ensina ser "viável exigir o exame criminológico para a progressão de regime e obtenção de livramento condicional quando envolver condenados por delitos violentos contra a pessoa" ou "quando considerar necessário" à formação do convencimento do magistrado (in Curso de Execução Penal, 5ª ed., Rio de Janeiro: Forense, 2022, pp. 28 e 29).
+É nesse sentido o teor da Súmula Vinculante nº 26 do E. Supremo Tribunal Federal:
+ ..
+Também o E. Tribunal de Justiça do Estado de São Paulo vem decidindo no sentido de que, em casos graves, a mera declaração do estabelecimento prisional de bom comportamento carcerário é insuficiente:
+ ..
+Sendo certa a prática de crimes de elevada gravidade, para melhor instrução do pedido e segura decisão quanto ao pedido do sentenciado, determino a realização de avaliação criminológica voltada à colheita de subsídios quanto: (I) à absorção do sentenciado da terapêutica penal; e (II) ao prognóstico de eventual reincidência (fls. 33-35, grifei).
+O Tribunal de Justiça, por sua vez, denegou a ordem, por entender que a nova legislação deveria ser aplicada de imediato:
+AGRAVO EM EXECUÇÃO PENAL Livramento condicional Recurso da Defesa Insurgência contra decisão que determinou a realização de exame criminológico para o fim de análise do requisito subjetivo Alegação de desnecessidade da perícia Não acolhimento Peculiaridades do caso concreto que reforçam a necessidade de avaliação técnica aprofundada Atestado de boa conduta carcerária que não vincula o Juízo Inteligência da Súmula Vinculante nº 26 do STF Advento da Lei nº 14.843/2024 que reforça a natureza cogente da perícia Recurso não provido (fl. 13).
+II. Irretroatividade da Lei n. 14.843/2024
+A questão posta a deslinde não é nova. Esta Corte Superior já firmou o entendimento de que a alteração promovida pela Lei n. 14.843/2024 no art. 112, § 1º, da Lei de Execução Penal, por estabelecer um novo e mais rigoroso requisito para a concessão da progressão de regime, possui natureza de direito material e, por ser mais gravosa, não pode retroagir para atingir crimes cometidos antes de sua vigência.
+Com efeito, o princípio constitucional da irretroatividade da lei penal mais gravosa, previsto no art. 5º, XL, da Constituição Federal, impede que norma posterior prejudique a situação jurídica do sentenciado. A exigência do exame criminológico não é mera regra procedimental, mas um pressuposto substancial que interfere diretamente no direito do apenado de obter a progressão.
+Nesse sentido, a Sexta Turma já decidiu:
+RECURSO EM HABEAS CORPUS. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. LEI N. 14.843/2024. NOVATIO LEGIS IN PEJUS. IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA. CASOS COMETIDOS SOB ÉGIDE DA LEI ANTERIOR. PRECEDENTES.
+1. A exigência de realização de exame criminológico para toda e qualquer progressão de regime, nos termos da Lei n. 14/843/2024, constitui novatio legis in pejus, pois incrementa requisito, tornando mais difícil alcançar regimes prisionais menos gravosos à liberdade.
+2. A retroatividade dessa norma se mostra inconstitucional, diante do art. 5º, XL, da Constituição Federal, e ilegal, nos termos do art. 2º do Código Penal.
+3. No caso, todas as condenações do paciente são anteriores à Lei n. 14.843/2024, não sendo aplicável a disposição legal em comento de forma retroativa.
+4. Recurso em habeas corpus provido para afastar a aplicação do § 1º do art. 112 da Lei de Execução Penal, com redação dada pela Lei n. 14.843/2024, determinando o retorno dos autos ao Juízo da execução para que prossiga na análise do pedido de progressão de regime. (RHC n. 200.670/GO, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe de 23/8/2024.)
+III - Exame criminológico e fundamentação concreta
+Para os crimes praticados antes da vigência da Lei n. 14.843/2024, subsiste o entendimento consolidado na Súmula n. 439 desta Corte, que preceitua: "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+Do mesmo modo, preserva-se a orientação da Súmula Vinculante n. 26 do Supremo Tribunal Federal, a qual faculta ao juízo da execução "determinar, para tal fim, de modo fundamentado, a realização de exame criminológico".
+Além disso, a jurisprudência deste Tribunal Superior veda a exigência de exame criminológico com fundamento exclusivo na gravidade abstrata do delito ou no tempo de pena remanescente, conforme precedente da Quinta Turma:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO AO REGIME ABERTO DEFERIDA PELO JUÍZO DAS EXECUÇÕES PENAIS. CASSAÇÃO PELA CORTE DE ORIGEM COM BASE, TÃO SOMENTE, NA GRAVIDADE ABSTRATA DO DELITO E LONGA PENA A CUMPRIR. CONSTRANGIMENTO ILEGAL CONFIGURADO. RECURSO NÃO PROVIDO.
+1. Na espécie, a progressão do reeducando ao regime aberto foi cassada pelo Tribunal de origem com fundamento, tão somente, na gravidade abstrata do delito pelo qual foi condenado o paciente e na longa pena a cumprir.
+2. Sobre a matéria, esta Corte Superior de Justiça pacificou entendimento no sentido de que fatores relacionados ao crime praticado são determinantes da pena aplicada, mas não justificam diferenciado tratamento para a progressão de regime, de modo que a avaliação do cumprimento do requisito subjetivo somente poderá fundar-se em fatos ocorridos no curso da própria execução penal.
+3. Impende ressaltar que, recentemente, no julgamento do Ag Rg no HC n. 519301/SP, afetado à Terceira Seção desta Corte, por unanimidade, manteve-se entendimento de que ""a gravidade abstrata do crime praticado não justifica diferenciado tratamento para a progressão prisional"" (julgamento concluído em 27/11/2019).
+4. Agravo regimental não provido.
+(AgRg no HC n. 554.365/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., julgado em 3/3/2020, DJe de 9/3/2020)
+IV. O caso dos autos
+No caso, as instâncias ordinárias determinaram a realização do exame criminológico com base, unicamente, na obrigatoriedade trazida pela Lei n. 14.843/2024, por considerá-la norma de aplicação imediata. Não apontaram nenhum elemento concreto, extraído do histórico da execução penal da paciente, que indicasse a necessidade da perícia para a aferição do seu mérito.
+A decisão do Juízo de primeiro grau e o acórdão impugnado não fazem menção a faltas disciplinares ou a outros fatos desabonadores ocorridos no curso da execução que pudessem, por si sós, justificar a medida excepcional. A fundamentação limitou-se a discutir a natureza da nova lei, sem analisar as particularidades do caso. A propósito, o paciente não ostenta falta disciplinar em sua respectiva ficha (fl. 30).
+Desse modo, ao condicionar a progressão de regime a requisito de lei posterior mais gravosa, sem apresentar fundamentação idônea amparada em elementos concretos da execução, as decisões das instâncias ordinárias configuraram constrangimento ilegal.
+V. Dispositivo
+À vista do exposto, concedo a ordem, in limine, para afastar a exigência de realização do exame criminológico e determinar que o Juízo da Execução prossiga na análise do pedido de progressão de regime do paciente e de livramento condicional, aferindo o requisito subjetivo com base nos demais elementos constantes dos autos.
+Comunique-se, com urgência, o inteiro teor desta decisão ao Juízo de primeiro grau e ao Tribunal de origem, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
