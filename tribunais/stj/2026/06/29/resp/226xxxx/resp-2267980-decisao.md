@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO FEDERAL, com base no art. 105, III, a, da CF/88, contra o acórdão proferido pelo TRF-1ª Região, assim ementado (fls. 316-317):
+ADMINISTRATIVO. SERVIDOR PÚBLICO MILITAR. ANISTIA POLÍTICA. LEI N. 10.559/2002. NÃO OCORRÊNCIA DA PRESCRIÇÃO DO FUNDO DE DIREITO. PROMOÇÃO DE SEGUNDO-SARGENTO PARA SUBOFICIAL. POSSIBILIDADE. RE 165438/DF. CORREÇÃO MONETÁRIA E JUROS.
+1. Remessa necessária conhecida, a teor art. 496, I, do novo Código de Processo Civil.
+2. Ocorre prescrição apenas com relação às prestações de trato sucessivo relativas ao direito pleiteado, porquanto a Lei nº 10.559/2002, regulamentando o art. 8º do ADCT da CF/88, veiculou renúncia à prescrição ao reconhecer, por meio de um regime próprio, o direito à reparação econômica de caráter indenizatório aos anistiados políticos. Aplicação da SÚMULA 85/STJ.
+3. A jurisprudência já assentou no sentido de que a interpretação do instituto da anistia, conforme disposto no art. 8º do ADCT, há de ser feita de forma abrangente. Desse modo, é possível o abrandamento do rigor exigido para o acesso de praças (soldados, cabos e sargentos) aos postos mais elevados (suboficial), como se na ativa estivessem, dispensando-se a exigência de aprovação em cursos ou avaliação de merecimento, desde que considerada a situação paradigma e o quadro que o anistiado integrava.
+4. O STJ, no RE 165438/DF, pacificou o entendimento de que, diante da situação de anistiados com direito à graduação de segundo-sargento e proventos e vantagens de primeiro-sargento, é reconhecido o direito dos militares à promoção até suboficiais, com proventos de segundo- tenente.
+5. Devida a promoção do autor para a graduação de Suboficial com proventos de Segundo-Tenente, observada a prescrição quinquenal das parcelas vencidas no período anterior aos cinco anos que antecederam ao ajuizamento da ação, aplicando-se assim, as restrições e condições impostas no RE 165.438.
+6. Quanto aos consectários legais, o Supremo Tribunal Federal no Recurso Extraordinário nº 870.947/SE, considerou inconstitucional a atualização monetária segundo a remuneração oficial da caderneta de poupança (TR), "uma vez que não se qualifica como medida adequada a capturar a variação de preços da economia".
+7. Correção monetária e juros moratórios conforme Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal.
+8. Apelação e remessa necessária não providas.
+Embargos de declaração rejeitados..
+A recorrente alega violação ao artigo 1.022, II, do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia.
+Quanto às questões de fundo, sustenta ofensa aos artigos 1º do Decreto 20.910/1932, e 6º, §§ 3º e 4º, da Lei 10.559/2002, sob os seguintes argumentos: (a) a parte autora não busca o reconhecimento da anistia política, o que já foi feito, mas questionar a forma do cálculo e verbas que entende devidas, de modo que, passados mais de 12 (doze) anos do ato impugnado, a pretensão se encontra fulminada pela prescrição; (b) a Administração observou o princípio da legalidade no que tange à promoção objetivada pelo anistiado.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 429-430.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Assiste razão à recorrente.
+Com efeito, a jurisprudência do STJ sedimentou que, às ações em que se postula a revisão dos efeitos patrimoniais decorrentes do ato de anistia, visando a obtenção de novas promoções para o militar anistiado, aplica-se o prazo prescricional previsto no artigo 1º do Decreto 20.910/1932.
+A proposito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. MILITAR. ANISTIA POLÍTICA. REVISÃO DOS EFEITOS PATRIMONIAIS. PRESCRIÇÃO DO FUNDO DE DIREITO. INCIDÊNCIA DO PRAZO PRESCRICIONAL PREVISTO NO DECRETO 20.910/1932. PROVIMENTO NEGADO.
+1. Na origem, trata-se de ação proposta por viúva de militar que teve reconhecida a condição de anistiado político, tendo como objetivo a concessão de promoção à graduação de suboficial com proventos de segundo-tenente.
+2. Para o Superior Tribunal de Justiça (STJ), as ações que buscam a revisão dos efeitos patrimoniais do ato de anistia política, com o objetivo de obter novas promoções para o militar anistiado, submetem-se ao prazo prescricional estabelecido no art. 1º do Decreto 20.910/1932.
+3. Agravo interno a que se nega provimento (AgInt no REsp n. 2.152.740/DF, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 23/3/2026, DJEN de 26/3/2026, grifei).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ANISTIA POLÍTICA. REVISÃO DOS EFEITOS PATRIMONIAIS. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. PRESCRIÇÃO DO FUNDO DE DIREITO. INCIDÊNCIA DO PRAZO PRESCRICIONAL PREVISTO NO DECRETO 20.910/1932. DIVERGÊNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A parte agravante busca rever efeitos patrimoniais decorrentes da portaria que lhe concedeu a anistia, a fim de que seja reconhecido o direito à promoção à graduação de Suboficial.
+2. A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material, afastando-se, por conseguinte, a alegada violação ao art. 1.022 do CPC/2015.
+3. O entendimento alcançado no acórdão impugnado diverge da jurisprudência do STJ, no sentido de que as ações em que se postula a revisão dos efeitos patrimoniais decorrentes do ato de anistia, a fim de obter novas promoções para o militar anistiado, estão sujeitas ao prazo prescricional previsto no art. 1º do Decreto 20.910/1932. Precedentes. Incidência da Súmula 568/STJ.
+4. Agravo interno improvido (AgInt no REsp n. 2.146.812/DF, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 11/3/2026, DJEN de 17/3/2026, grifei).
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. ANISTIADO POLÍTICO. REVISÃO DO ATO DE APOSENTADORIA. PRESCRIÇÃO DO FUNDO DE DIREITO. OCORRÊNCIA.
+1. É firme a jurisprudência deste Superior Tribunal "no sentido de que "as ações em que se postula a revisão do ato de anistia política, a fim de obter novas promoções para o militar anistiado, estão sujeitas ao prazo prescricional previsto no art. 1º do Decreto 20.910/1932." (AgInt no REsp n. 2.053.797/DF, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 12/6/2023, DJe de 15/6/2023.)" (AgInt no REsp n. 2.126.547/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 29/5/2024).
+2. Agravo interno desprovido (AgInt no REsp n. 2.151.771/DF, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 17/2/2025, DJEN de 20/2/2025, grifei).
+Assim, dou provimento ao recurso especial, nos termos da fundamentação. Invertidos os ônus sucumbenciais.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. AÇÃO ORDINÁRIA. ANISTIA POLÍTICA. REVISÃO DOS EFEITOS PATRIMONIAIS. PRESCRIÇÃO DO FUNDO DE DIREITO. ACÓRDÃO RECORRIDO EM DISSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. RECURSO ESPECIAL PROVIDO.
