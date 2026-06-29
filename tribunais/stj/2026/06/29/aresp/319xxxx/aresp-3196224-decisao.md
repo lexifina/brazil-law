@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso especial manejado por Engecopi - Comércio de Materiais de Construção Ltda. com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região.
+No juízo de prelibação realizado pela Presidência da Seção de Direito Público, houve inadmissão do apelo raro a despeito de a matéria controvertida se subsumir àquela decidida nos Temas Repetitivos n. 779 e 780/STJ .
+É O BREVE RELATO. SEGUE A FUNDAMENTAÇÃO
+Verifica-se que, ao tempo da prolação do juízo de admissibilidade do recurso especial, o Superior Tribunal de Justiça já havia afetado a questão controvertida para julgamento sob o rito dos repetitivos: "Discute-se o conceito de insumo tal como empregado nas Leis 10.637/02 e 10.833/03 para o fim de definir o direito (ou não) ao crédito de PIS e COFINS dos valores incorridos na aquisição" (REsp n. 1221.170/PR, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Seção, DJe 24/04/2018 - Temas 779 e 780/STJ).
+Nos termos do art. 1.030, I, b, e II, do CPC, a aplicação da sistemática dos recursos especiais repetitivos deve anteceder a análise dos pressupostos de admissibilidade do apelo raro, competindo ao Presidente do Tribunal de origem adotar tal providência relativamente aos recursos especiais que tratem de matérias já apreciadas sob esse regime. Compete, pois, ao Tribunal a quo efetuar o juízo de conformidade antes de analisar os pressupostos de prelibação do recurso especial.
+No caso, a leitura do acórdão recorrido revela que já houve a observância do precedente vinculante (fls. 199/213).
+Entretanto, em evidente error in procedendo, a Vice-Presidência inadmitiu o recurso especial, sem que antes fosse cumprido o rito do art. 1.030, I, b, do CPC, isto é, a negativa de seguimento do recurso especial quando o acórdão recorrido estiver em conformidade com o julgado repetitivo em relação àquele tema.
+ANTE O EXPOSTO, hei por bem, de ofício, cassar a decisão de fls. 328/331, ante o error in procedendo no juízo de admissibilidade do apelo raro frente aos Temas 779 e 780/STJ, determinando, em consequência, o retorno dos autos à ilustrada Corte de origem para que seja realizado novo juízo de prelibação, observando o comando do art. 1.030, I, b, do CPC.
+Publique-se.
+EMENTA
