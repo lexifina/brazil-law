@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de DANIEL BRANDAO OLIVEIRA - condenado como incurso no crime de tráfico de drogas majorado (Processo n. 0745331-52.2024.8.07.0001) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, não comporta processamento.
+Com efeito, busca a impetração revisar a condenação e a dosimetria da pena impostas ao paciente pelo Juízo da 3ª Vara de Entorpecentes do Distrito Federal e mantidas pelo Tribunal de Justiça do Distrito Federal e dos Territórios, ao argumento de que seria indevido o afastamento da causa especial de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, em razão da ínfima quantidade de drogas apreendidas.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência de ilegal constrangimento.
+O acórdão impugnado, com base em fundamentação concreta, valorou negativamente os antecedentes do paciente em razão de condenação por contravenção penal (porte de arma branca - art. 19 do Decreto-Lei n. 3.688/1941), com trânsito em julgado no curso da ação por fato anterior, e afastou, por isso, o redutor do tráfico privilegiado. Tal compreensão - de que a contravenção, conquanto não gere reincidência, pode caracterizar maus antecedentes, aptos a impedir a incidência do art. 33, § 4º, da Lei n. 11.343/2006 - está em consonância com a orientação desta Corte Superior, inexistindo, pois, constrangimento ilegal a ser sanado.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. DOSIMETRIA DA PENA. MINORANTE DO TRÁFICO PRIVILEGIADO. AFASTAMENTO EM RAZÃO DE MAUS ANTECEDENTES DECORRENTES DE CONTRAVENÇÃO PENAL (PORTE ILEGAL DE ARMA BRANCA). CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
