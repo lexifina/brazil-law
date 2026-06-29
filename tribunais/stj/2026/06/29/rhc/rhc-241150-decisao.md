@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por NERI CAETANO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ proferido no HC n. 0025178-22.2026.8.16.0000.
+Consta dos autos que o recorrente está preso provisoriamente desde 03/04/2025 e foi denunciado pela suposta prática do crime de integrar organização criminosa, previsto no art. 2º, § 2º e § 4.º, incisos I e IV, da Lei n. 12.850/2013, sendo apontado como Vice-Presidente do Comando Vermelho no Paraná (fl. 8 do Apenso 2).
+Foi impetrado habeas corpus perante o Tribunal de origem, que conheceu parcialmente da impetração e, nessa parte, denegou a ordem (fls. 50-55).
+Neste recurso ordinário, a Defesa alega a ausência de fundamentação idônea e dos requisitos necessários para a prisão preventiva.
+Aduz falta de contemporaneidade da custódia cautelar.
+Defende a possibilidade de aplicação de medidas cautelares alternativas.
+Sustenta excesso de prazo na formação da culpa.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura em favor do acusado. Subsidiariamente, pugna pela aplicação de medidas cautelares diversas da prisão.
+É o relatório.
+Decido.
+Inicialmente, ressalto que, conforme o entendimento consolidado desta Corte, as disposições contidas nos arts. 64, inciso III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam a prerrogativa do relator de apreciar liminarmente, em habeas corpus ou recurso em habeas corpus, a pretensão que esteja em conformidade com súmula ou com a jurisprudência consolidada dos Tribunais Superiores, ou, ainda, que as contrarie, v.g. AgRg no HC n. 856.046/SP, de relatoria do Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023.
+Assim, passo a analisar diretamente o pedido formulado na insurgência.
+O Tribunal de origem afastou a alegação de excesso de prazo nestes termos (fl. 53; sem grifos no original):
+Quanto ao aventado excesso de prazo, verifica-se que mandado de prisão foi cumprido em 03/04/2025, e a legalidade da custódia tem sido reavaliada periodicamente pelo juízo de origem, com a última decisão proferida em 19/02/2026 (mov. 14.1 dos autos n. 0001185-42.2026.8.16.0034).
+A denúncia foi oferecida em 02/07/2025 (mov. 1.1 dos autos da ação penal n. 0005788-95.2025.8.16.0034) e recebida em 13/07/2025 (mov. 9.1). Diante da pluralidade de réus, o processamento está na fase de apresentação de resposta à acusação por parte das defesas.
+Conquanto o paciente Neri Caetano esteja preso desde 03/04/2025, não se observa, ao que tudo indica, desídia estatal ou atraso injustificado na tramitação da ação penal que autorize o relaxamento da custódia por excesso de prazo, sobretudo diante da regularidade do andamento processual.
+Na verdade, cuida-se de processo de considerável complexidade, que apura a prática dos crimes de integrar organização criminosa armada. A ação penal envolve 7 (sete) denunciados representados por procuradores distintos, além de demandar quebra de sigilo de aparelhos telefônicos apreendidos e a elaboração de diversos laudos periciais.
+Esse contexto justifica certa dilação no andamento dos autos, de modo que o tempo de tramitação não pode ser considerado excessivo, pois é compatível com as particularidades do caso.
+Cumpre salientar que a aferição de eventual constrangimento ilegal por excesso de prazo não resulta de uma simples soma dos prazos processuais. Trata-se de uma análise que convoca a aplicação do princípio da razoabilidade, segundo o qual a demora no trâmite processual deve ser avaliada à luz das particularidades do caso concreto. A mera extrapolação dos prazos legalmente previstos não induz, de forma automática, o reconhecimento da ilegalidade, sendo imprescindível a demonstração de que a delonga é injustificada e decorre de desídia do aparato judicial (AgRg no HC n. 907.485/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024).
+A análise, portanto, é casuística e demanda uma ponderação entre a duração da prisão e a complexidade da causa, a pluralidade de réus, a necessidade de diligências específicas (como a expedição de cartas precatórias ou a realização de perícias) e a eventual contribuição da defesa para a demora processual.
+Como bem concluiu o Tribunal a quo, não se verifica flagrante excesso de prazo para a formação da culpa do recorrente, considerando a pena em abstrato prevista para o delito, bem como a complexidade do processo.
+No caso em apreço, a ação penal originária apura a conduta de 7 (sete) acusados, aos quais se imputa a prática do crime de organização criminosa estruturada, estável e hierarquizada, voltada ao cometimento de várias infrações penais, especialmente o tráfico de drogas, roubos e homicídios, o que, por sua própria natureza, demanda maior dilação temporal para a regular instrução do processo.
+Ademais, a Corte local, ao denegar a ordem, destacou que o feito vem recebendo impulso regular. A propósito, consta dos autos que a audiência de instrução foi realizada em 15/04/2026 e o feito aguarda a realização de diligências requeridas pelas partes, não se verificando, portanto, desídia do magistrado condutor do processo. A complexidade do caso, e não a inércia do Judiciário, é o que justifica o prolongamento da instrução.
+No mesmo sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. EXCESSO DE PRAZO NA INSTRUÇÃO CRIMINAL. INEXISTÊNCIA. RECURSO DESPROVIDO. I. CASO EM EXAME
+(..)
+6. A alegação de excesso de prazo não se sustenta, pois o processo tramita de forma compatível com sua complexidade, que envolve mais de 20 réus, vários advogados, diligências pendentes e audiências redesignadas por necessidade probatória, sem desídia do juízo.
+7. A jurisprudência pacífica desta Corte considera que o excesso de prazo não pode ser aferido apenas por critério cronológico, devendo-se aplicar juízo de razoabilidade diante das peculiaridades do caso concreto.
+8. A existência de novos aditamentos à denúncia e a redesignação de audiências visam preservar o contraditório e a ampla defesa, não sendo indicativos de morosidade indevida.
+IV. RECURSO DESPROVIDO.
+(AgRg no RHC n. 214.014/PR, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 13/8/2025, DJEN de 19/8/2025.)
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. INTEGRAR ORGANIZAÇÃO CRIMINOSA. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O MESMO FIM. LAVAGEM DE DINHEIRO. OPERAÇÃO MANGUEZAIS. NEGATIVA DE AUTORIA. APROFUNDADO EXAME FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. PEDIDO DE EXTENSÃO DA LIBERDADE PROVISÓRIA CONCEDIDA A OUTRAS DENUNCIADAS. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. NECESSIDADE DE REDUZIR OU INTERROMPER A ATIVIDADE DO GRUPO CRIMINOSO. RESGUARDO DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA. MOTIVAÇÃO IDÔNEA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE ATO PROCRASTINATÓRIO POR PARTE DAS AUTORIDADES PÚBLICAS. IMPULSIONAMENTO DO PROCESSO DE FORMA REGULAR. COMPLEXIDADE DO FEITO. DESMEMBRAMENTO DO PROCESSO EM RELAÇÃO À PACIENTE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTES. PARECER ACOLHIDO. HABEAS CORPUS CONHECIDO EM PARTE E, NESSA EXTENSÃO, ORDEM DENEGADA.
+(..)
+6. Não há excesso de prazo na formação da culpa, considerando a complexidade do caso, o número de réus e a quantidade de fatos imputados, além de não haver desídia do juízo ou do Ministério Público.
+IV. Dispositivo e tese
+7. Habeas corpus conhecido em parte e, nessa extensão, ordem denegada.
+Tese de julgamento: "1. A prisão preventiva é idônea quando fundamentada na garantia da ordem pública e na aplicação da lei penal, com base em indícios de participação em organização criminosa. 2. Não há excesso de prazo na formação da culpa em casos complexos, considerando a quantidade de réus e fatos imputados, desde que não haja desídia do juízo ou do Ministério Público."
+Dispositivos relevantes citados: CPP, art. 312; CPP, art. 313, inciso I.
+Jurisprudência relevante citada: STJ, AgRg no RHC 171.820/PR, Min. Laurita Vaz, Sexta Turma, DJe 20/4/2023; STF, HC 191.068-AgR, Min. Gilmar Mendes, relator p/ acórdão Min. Nunes Marques, Segunda Turma, julgado em 8/4/2021, DJe 16/6/2021.
+(HC n. 975.776/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/6/2025, DJEN de 23/6/2025.)
+De outra parte, constata-se que as demais questões suscitadas no recurso ordinário não foram conhecidas pelo Tribunal de origem no writ originário, pois já analisadas pela Corte a quo em habeas corpus impetrado anteriormente (HC n. 0081423-87.2025.8.16.0000), o que obsta o conhecimento do recurso, no ponto. No mesmo sentido, confira-se: AgRg nos EDcl no RHC n. 122.683/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/2/2021, DJe de 22/2/2021.
+Ante o exposto, conheço em parte do recurso em habeas corpus e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
