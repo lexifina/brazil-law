@@ -1,0 +1,35 @@
+DECISÃO
+Em análise, recurso especial interposto pela FAZENDA NACIONAL contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim ementado (fl. 207):
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. IMPOSTO SOBRE A RENDA DE PESSOA FÍSICA. RENDIMENTOS RECEBIDOS ACUMULADAMENTE (RRA). LEGITIMIDADE ATIVA. DOCUMENTOS SUFICIENTES. HONORÁRIOS ADVOCATÍCIOS. 1. O Superior Tribunal de Justiça firmou jurisprudência no sentido de que reconhecida a legitimidade da parte no processo de conhecimento não é possível renovar a discussão em sede cumprimento de sentença, sob pena de ofensa à coisa julgada. Precedentes. 2. Não se pode exigir a comprovação de que os beneficiados estavam associados à época do ajuizamento da ação quando as listas foram apresentadas nos autos do processo originários, sem impugnação a esse respeito. 3. Constando dos autos documento apresentado pelo órgão público, no qual estão discriminados os pagamentos realizados a título de Rendimentos Recebidos Acumuladamente (RRA) e as respectivas competências, não se pode acolher a alegação de ausência de documentos indispensáveis para a execução. 4. Não se pode realizar o fracionamento dos honorários advocatícios para considerar o valor devido a cada beneficiado, quando o pedido de cumprimento de sentença não é apresentado por ele individualmente. 5. Agravo de instrumento provido em parte.
+Opostos embargos de declaração, foram rejeitados pelo Tribunal de origem (fls. 250-259; 324-331).
+Nas razões recursais, sustenta a recorrente, em síntese, i) nulidade por negativa de prestação jurisdicional, com retorno dos autos para sanar omissões sobre arts. 502 e 203, do CPC/2015, art. 2º-A, caput, da Lei 9.494/1997, e art. 12-A da Lei 7.713/1988; e ii) violação aos limites subjetivos da sentença coletiva (restrição aos filiados e domiciliados na data do ajuizamento) e excesso de execução por aplicação indevida ou retroativa do art. 12-A da Lei 7.713/1988, em afronta ao art. 504, do CPC/2015, devendo prevalecer o regime de competência "mês a mês" definido no título executivo.
+Contrarrazões às fls. 308-315.
+É o relatório.
+Passo a dec idir.
+Na origem, trata-se de agravo de instrumento no cumprimento de sentença coletivo em que se homologaram cálculos e se rejeitou a impugnação; o Tribunal manteve a legitimidade e a suficiência documental e apenas ajustou a base de cálculo dos honorários para o valor global da execução.
+Da negativa de prestação jurisdicional
+Quanto à apontada violação ao art. 1.022, II, do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+Para justificar a alegada omissão do julgado recorrido, argumenta a necessidade de o acórdão recorrido se manifestar quanto à exigência de comprovação da legitimidade dos exequentes, nos exatos limites da coisa julgada, e quanto à documentação hábil para distinguir valores abrangidos pelo título coletivo, incluindo dados mês a mês do RRA e correta aplicação do art. 12-A da Lei 7.713/1988.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que (fls. 210-211):
+A legitimidade ativa da Exequente foi reconhecida na sentença proferida no processo de conhecimento, não sendo o caso de novo exame a esse respeito.
+O Superior Tribunal de Justiça firmou jurisprudência no sentido de que reconhecida a legitimidade da parte no processo de conhecimento, não é possível a rediscussão do tema em cumprimento de sentença, sob pena de ofensa à coisa julgada.
+Nesse sentido são os seguintes precedentes:
+ ..
+No caso, a preliminar de ilegitimidade ativa ad causam foi afastada quando do julgamento da apelação interposta pela União (PFN) nos autos da Ação de conhecimento nº 0052279-94.2011.4.01.3400, sob o fundamento de que foram apresentadas pela autora as listas e as autorizações individuais de seus associados.
+Não é o caso, também, de se exigir a comprovação de que estavam associados à época do ajuizamento da ação, pois as listas foram apresentadas nos autos do processo originário, sem qualquer impugnação nesse sentido.
+A alegação genérica de que os beneficiados não constam nas listas não pode ser examinada, pois a União deixou de realizar impugnação específica, com indicação daqueles que não figuram como beneficiados, tratando-se de alegações genéricas.
+De igual maneira, como bem apontado pela Apelada, conforme bem decidido na primeira instância, "consta dos autos documento apresentado pelo órgão pagador, no qual estão discriminados os pagamentos realizados e as respectivas competências".
+Não é o caso, portanto, de se acolher a alegação de ausência de prova de que os créditos reclamados se referem ao título judicial.
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+O mero inconformismo com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador.
+Assim, inexiste violação ao art. 1.022, II, do CPC.
+Súmula 7 do STJ
+Quanto ao mais, o acórdão recorrido consignou que a legitimidade ativa da exequente foi reconhecida na sentença da ação de conhecimento, não sendo possível rediscuti-la no cumprimento de sentença, sob pena de violação à coisa julgada. Foram apresentados, na fase cognitiva, listas e autorizações individuais dos associados, sem impugnação específica da União na ocasião. Assim, a alteração da conclusão do Tribunal de origem, acerca das teses envolvendo a legitimidade ativa, coisa julgada e ônus da prova, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Isso posto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o agravo em recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Intimem-se.
+EMENTA
