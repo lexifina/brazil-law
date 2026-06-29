@@ -1,0 +1,13 @@
+DECISÃO
+LUIZ CARLOS PREVIDE alega sofrer constrangimento ilegal em decorrência de decisão proferida por Relator do Tribunal de Justiça do Estado de Santa Catarina na Apelação Criminal n. 5000250-70.2025.8.24.0084.
+A defesa sustenta que houve violação ao art. 142-M, I, do Regimento Interno do TJSC diante de objeção tempestiva ao julgamento virtual não acolhida pela relatoria. Afirma que a decisão monocrática invocou indevidamente o art. 142-Q do mesmo Regimento, criando fundamentação circular e suprimindo a sustentação oral síncrona. Aduz, ainda, que a intimação ocorreu na véspera do início da sessão virtual, tornando materialmente impossível o envio de argumentos audiovisuais no prazo regimental. Alega que pretende sustentação oral ao vivo em sessão presencial ou por videoconferência, nos termos do art. 177, parágrafo único, do RITJSC, combinado com o art. 937, § 4º, do CPC, e que inexiste urgência apta a justificar a manutenção do julgamento na modalidade virtual.
+Requer a suspensão do julgamento virtual e a retirada do feito da pauta, a realização da sessão presencial física ou por videoconferência com asseguramento de sustentação oral, e, se já houver deliberação, a anulação do julgamento realizado na sessão totalmente virtual.
+Decido.
+Todavia, o habeas corpus não comporta processamento, uma vez que a decisão impugnada foi prolatada por Desembargador, que não conheceu, monocraticamente, do writ impetrado.
+Deve-se frisar que não houve a interposição de agravo interno, de modo a oportunizar o debate do tema pelo respectivo órgão colegiado e posterior impetração de habeas corpus perante esta Corte Superior, ônus de que a parte não se desincumbiu de realizar.
+Dessa forma, em creditamento às instâncias ordinárias, que primeiro devem conhecer da controvérsia, para, então, ser inaugurada a competência do Superior Tribunal de Justiça, fica inviabilizado o conhecimento deste mandamus. Nesse passo, por todos:
+ ..  O inconformismo dirigido contra decisão de Desembargador componente da Turma Criminal do Tribunal a quo, sem que tenha sido ajuizado o agravo interno e alcançado tal decisum o trânsito em julgado, inviabiliza o acesso a esta Corte Superior, em razão do não esgotamento das instâncias ordinárias.
+II. Evidenciado que os temas levantados não foram objeto de debate e decisão por parte de órgão colegiado do Tribunal de origem, sobressai a incompetência desta Corte para o exame das matérias, sob pena de indevida supressão de instância  ..
+(HC n. 164.785/MS, Rel. Min. Gilson Dipp, 5ª T., DJe 8/6/2011)
+À vista do exposto, indefiro liminarmente o habeas corpus.
+EMENTA
