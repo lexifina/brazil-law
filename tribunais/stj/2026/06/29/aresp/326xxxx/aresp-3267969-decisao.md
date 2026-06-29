@@ -1,0 +1,24 @@
+DECISÃO
+GUILHERME ERICO VALDAMERI agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina na Apelação Criminal n. 5017950-05.2025.8.24.0005.
+Nas razões do recurso especial, a defesa alega violação do art. 118 do Código de Processo Penal, além de dissídio jurisprudencial.
+A defesa requer a restituição do veículo, ao argumento de que foi adquirido de forma lícita.
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso.
+Decido.
+O agravo é tempestivo, mas não infirmou adequadamente as motivações lançadas na decisão de inadmissibilidade do recurso especial, razão pela qual não merece conhecimento.
+No caso em exame, a Corte local não admitiu o recurso pelos seguintes motivos (fls. 187-188, grifei):
+Quanto à primeira controvérsia, consta da ementa do acórdão:
+A sentença condenatória reconheceu expressamente a função instrumental do bem no tráfico e decretou seu perdimento com base no art. 63 da Lei nº 11.343/2006, art. 243, parágrafo único, da CF e art. 91, II, "a", do CP. A decisão recorrida tinha caráter provisório; com a superveniência da sentença definitiva, consolidou-se a situação jurídica, tornando prejudicado o recurso.
+Aplicável, portanto, a Súmula n. 284/STF, tendo em vista que as razões delineadas no Recurso Especial estão dissociadas dos fundamentos utilizados no aresto impugnado, pois a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: " É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia ".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" (AgInt no AREsp n. 2.604.183/PR, relator Ministro Francisco Falcão, Segunda Turma, DJEN de 2/12/2024).
+ ..
+Quanto à segunda controvérsia, embora o Recurso Especial tenha sido formalmente interposto com fundamento na alínea "c" do permissivo constitucional, verifico a ausência de fundamentação recursal correlata, porquanto a parte recorrente não desenvolveu qualquer argumentação jurídica apta a demonstrar a alegada interpretação jurisprudencial divergente, limitando-se à invocação genérica do fundamento constitucional.
+Tal deficiência compromete a delimitação da controvérsia e inviabiliza o exame do recurso pela instância especial, na medida em que não se evidencia a necessária correlação entre o permissivo constitucional indicado e as razões efetivamente deduzidas, circunstância que obsta a admissão do apelo especial.
+Por isso, incide a Súmula n. 284/STF, porquanto "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+A parte, contudo, não rebateu todos os fundamentos da inadmissão do especial, uma vez que se limitou a afirmar, de forma genérica, a não incidência da Súmula n. 284 do STF, sem, contudo, demonstrar, no agravo em recurso especial, a realização de cotejo analítico e a indicação de dispositivos legais relacionados ao acórdão recorrido.
+Deveras, o agravante deve expor, com particularidade, a inexistência de óbices para o conhecimento do especial, ao evidenciar a tese jurídica que se pretende ver examinada e ao colacionar trechos do acórdão que demonstram que a matéria foi analisada sob o viés pretendido.
+Nessa perspectiva: "A jurisprudência desta Corte é assente no sentido de que, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada, é necessário que a contestação seja específica e suficientemente demonstrada". (AgInt no AREsp n. 867.735/SE, Rel. Ministro Humberto Martins, 2ª T., DJe 10/8/2016, destaquei)
+Portanto, o agravante não se desincumbiu do ônus de expor, integral, específica e detalhadamente, os motivos de fato e de direito por que entende incorreta a decisão agravada, a atrair, à espécie, a Súmula n. 182 do STJ, segundo a qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se  e  intimem-se.
+EMENTA
