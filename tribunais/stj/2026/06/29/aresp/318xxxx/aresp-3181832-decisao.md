@@ -1,0 +1,46 @@
+DECISÃO
+Trata -se de agravo interposto por MONICA NASIASENE GOMES DA SILVA contra decisão de fls. 568-571, que inadmitiu o recurso especial com fundamento na Súmula 7/STJ (necessidade de revolvimento do acervo fático-probatório).
+A recorrente foi condenada pelo Juízo da 3ª Vara Criminal da Comarca de João Pessoa/PB como incursa no art. 302 do Código de Trânsito Brasileiro, à pena de 2 anos de detenção, em regime aberto, com suspensão da habilitação por 2 meses e substituição por pena restritiva de direitos (prestação de serviços à comunidade) (fls. 392-395). Interposta apelação pela defesa, o Tribunal de Justiça da Paraíba rejeitou a preliminar de nulidade por ausência de exame de corpo de delito e negou provimento ao apelo, mantendo a condenação (fls. 496-504). Embargos de declaração opostos pela defesa foram rejeitados (fls. 541-545).
+No agravo em recurso especial, a parte sustenta que a controvérsia é exclusivamente de direito, relativa à violação do art. 158 do Código de Processo Penal, e que não incide o óbice da Súmula 7/STJ. Argumenta que a ausência de exame de corpo de delito em infração que deixa vestígios gera nulidade absoluta e não pode ser suprida por boletim de ocorrência, depoimentos e laudo tanatoscópico. Requer o processamento e o provimento do recurso especial (fls. 577-584).
+No recurso especial, sustenta-se violação do art. 158, "caput", do Código de Processo Penal, aduzindo a indispensabilidade do exame técnico-pericial nas infrações que deixam vestígios, e a inexistência, no caso, de justificativa para sua dispensa. Pleiteia a nulidade do processo e a absolvição (fls. 550-561). Transcrição normativa (fls. 551): "Art. 158, CPP. Quando a infração deixar vestígios, será indispensável o exame de corpo de delito, direto ou indireto, não podendo supri-lo a confissão do acusado".
+Requer o provimento do recurso, a fim de: a) reconhecer a contrariedade ao art. 158, "caput", do CPP; b) declarar a nulidade absoluta do processo por ausência de exame de corpo de delito; c) absolver a recorrente das imputações do art. 302 do CTB (fls. 560-561).
+Contraminuta apresentada (fls. 586-590). O Ministério Público do Estado da Paraíba pugnou pelo não conhecimento do agravo e, subsidiariamente, pelo seu desprovimento, enfatizando o óbice da Súmula 7/STJ e a suficiência das provas reconhecida pelo acórdão recorrido.
+O Ministério Público Federal apresentou parecer, manifestando-se pelo não conhecimento do agravo (fls. 619-621).
+É o relatório.
+De início, verifico que o agravo em recurso especial deve ser conhecido.
+A decisão de inadmissibilidade aplicou a Súmula 7/STJ, por entender que a pretensão defensiva demandaria reexame do conjunto fático-probatório. Nas razões do agravo, a defesa enfrentou esse fundamento, sustentando que a tese veiculada no recurso especial não exigiria revolvimento probatório, mas apenas exame jurídico da alegada violação ao art. 158 do CPP.
+Nesse sentido, houve impugnação suficiente do fundamento da inadmissão. Não se aplica, portanto, a Súmula 182/STJ.
+Passo ao exame do recurso especial.
+A controvérsia consiste em definir se a ausência de perícia técnica relativa à dinâmica do acidente de trânsito enseja, por si só, nulidade da condenação por homicídio culposo na direção de veículo automotor, por violação ao art. 158 do CPP, ou se a pretensão defensiva, tal como formulada, demanda reexame do conjunto probatório.
+Nesse cenário, entende-se que o recurso especial não comporta conhecimento.
+Nos termos do art. 158 do Código de Processo Penal, quando a infração deixar vestígios, será indispensável o exame de corpo de delito, direto ou indireto, não podendo supri-lo a confissão do acusado. O art. 167 do mesmo diploma, por sua vez, admite o suprimento por prova testemunhal quando não for possível a realização do exame em razão do desaparecimento dos vestígios.
+Essa regra, contudo, deve ser aplicada com a necessária distinção entre a comprovação da materialidade do delito e a valoração do conjunto probatório relativo à culpa em sentido estrito.
+No caso concreto, o acórdão recorrido assentou que a materialidade do crime previsto no art. 302 do CTB foi comprovada por boletim de ocorrência de acidente de trânsito, depoimentos testemunhais, laudo tanatoscópico e depoimento da própria ré, elementos que, segundo a Corte local, demonstraram a ocorrência do acidente automobilístico e o resultado morte.
+A defesa não se limita a afirmar a inexistência absoluta de exame de corpo de delito sobre o resultado morte. O que pretende, em verdade, é sustentar que a culpa da condutora somente poderia ser demonstrada por perícia técnica de acidente de trânsito, apta a reconstruir a dinâmica da colisão e a afastar qualquer dúvida quanto à negligência, imprudência ou imperícia.
+Essa tese, embora apresentada como violação ao art. 158 do CPP, exige, no caso concreto, revisão da conclusão firmada pelas instâncias ordinárias quanto à suficiência do acervo probatório para comprovar a autoria e a conduta culposa.
+O Tribunal de origem, soberano na análise dos fatos e das provas, entendeu que os elementos constantes dos autos foram suficientes para formação de juízo condenatório seguro. Para concluir em sentido diverso, no sentido de que os documentos e depoimentos não seriam aptos a demonstrar a culpa da recorrente, seria necessário reexaminar a dinâmica do acidente, o conteúdo dos depoimentos, as circunstâncias da colisão e o alcance probatório dos elementos valorados na origem.
+Tal providência é incompatível com a via estreita do recurso especial, nos termos da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. TIPICIDADE. REEXAME DE FATOS E PROVAS. SÚMULA 71ST . CONTINUIDADE DELITIVA. ÓBICE DA SÚMULA 283/STF. ATENUANTE INOMINADA DO ART. 66 DO CÓDIGO PENAL. SÚMULA 7/STJ. VALOR DA PRESTAÇÃO PECUNIÁRIA. SÚMULA 568/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. No que diz respeito à atipicidade da conduta, em razão da ausência da alegada ausência de dolo, deve-se ressaltar que para afastar a incidência da Súmula 7 desta Corte exige-se a demonstração clara e objetiva de que a solução da controvérsia e a violação de lei federal independem do reexame do conjunto fático-probatório dos autos.
+ ..
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.517.591/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/4/2024, DJe de 23/4/2024).
+DIREITO PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. APROPRIAÇÃO INDÉBITA. REEXAME DE PROVAS. AGRAVO NÃO CONHECIDO
+ ..
+III. Razões de decidir
+5. O entendimento desta Corte Superior é que a simples assertiva genérica de revaloração da prova não é suficiente para afastar o óbice da Súmula n. 7 do STJ, sendo necessário o cotejo com as premissas fáticas do acórdão recorrido.
+6. A incidência da Súmula n. 7/STJ impede o exame do dissídio jurisprudencial aventado nas razões do apelo nobre, conforme jurisprudência consolidada.
+7. A ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre obsta o conhecimento do agravo, conforme precedentes desta Corte.
+IV Dispositivo e tese
+8. Agravo não conhecido.
+(AREsp n. 2.739.086/RN, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/2/2025, DJEN 25/2/2025).
+A alegação de nulidade processual não autoriza, por si só, a superação desse óbice quando o reconhecimento do vício pressupõe a revisão da moldura fática fixada pelo acórdão recorrido. Esta Corte admite o controle jurídico da prova no recurso especial, mas não a substituição da valoração probatória realizada pelas instâncias ordinárias, especialmente quando a tese defensiva depende da afirmação de que os elementos existentes não demonstram a culpa ou não autorizam a condenação.
+Também não prospera a alegação de que a ausência de perícia técnica de acidente de trânsito equivaleria automaticamente à inexistência de exame de corpo de delito. O laudo tanatoscópico foi expressamente referido pelo acórdão recorrido como elemento de comprovação do resultado morte, ao lado de outros elementos probatórios. A pretensão defensiva desloca a discussão para a suficiência da prova quanto à imprudência, negligência ou imperícia, matéria que se insere na apreciação do conjunto fático-probatório.
+Nesse contexto, não há como acolher a tese de nulidade sem reexaminar os elementos que levaram o Tribunal de origem a reconhecer a autoria e a culpa da recorrente.
+A jurisprudência desta Corte é firme no sentido de que o recurso especial não se presta à revisão da conclusão das instâncias ordinárias acerca da suficiência da prova para a condenação, quando essa revisão demanda nova incursão no acervo probatório. Incide, portanto, a Súmula 7/STJ.
+Por fim, não se verifica flagrante ilegalidade apta a justificar a concessão de "habeas corpus" de ofício. A condenação foi mantida pelo Tribunal de origem com base em fundamentação que apontou os elementos probatórios considerados suficientes para a comprovação da materialidade, da autoria e da imprudência. A insurgência defensiva volta-se, em essência, contra a valoração desse conjunto probatório.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
