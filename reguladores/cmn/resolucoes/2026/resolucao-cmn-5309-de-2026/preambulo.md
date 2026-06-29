@@ -1,0 +1,4 @@
+RESOLUÇÃO CMN Nº 5.309, DE 19 DE JUNHO DE 2026
+Estabelece as condições, os encargos financeiros, os prazos e as demais normas regulamentadoras aplicáveis às linhas de financiamento para investimentos de que trata o art. 8º-A da Lei nº 14.947, de 2 de agosto de 2024, conforme o art. 3º da Medida Provisória nº 1.366, de 12 de junho de 2026.
+O Banco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, torna público que o Conselho Monetário Nacional, em sessão extraordinária realizada em 19 de junho de 2026, tendo em vista o disposto no art. 4º, caput, inciso VI, da Lei nº 4.595, de 31 de dezembro de 1964, e no art. 7º do Decreto nº 12.157, de 29 de agosto de 2024, e com base na Medida Provisória nº 1.366, de 12 de junho de 2026, na Resolução CGEFROTA nº 1, de 12 de junho de 2026, e na Resolução CGEFROTA nº 2, de 12 de junho de 2026,
+R E S O L V E U :
