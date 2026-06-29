@@ -1,0 +1,25 @@
+DECISÃO
+LUCAS BARBOSA DIAS alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Goiás no Habeas Corpus n. 5520523-54.2026.8.09.0000.
+Consta dos autos que o paciente foi condenado a 7 anos, 9 meses e 10 dias de reclusão pela prática de homicídio tentado e a 2 anos e 6 meses, substituída por penas restritivas de direitos, pela prática de tráfico privilegiado.
+A defesa sustenta que o acórdão revisional substituiu a pena do tráfico por restritivas de direitos e que a execução penal, ao unificar as reprimendas, reconverteu indevidamente as penas alternativas em privativas de liberdade, impondo regime fechado sem amparo em título condenatório. Afirma haver excesso de execução e violação à eficácia desconstitutiva da revisão criminal. Aduz, ainda, a possibilidade de cumprimento concomitante das penas restritivas de direitos com a pena em regime semiaberto.
+Requer a suspensão imediata da decisão impugnada, a expedição de alvará de soltura, a readequação do regime para o semiaberto harmonizado com monitoração eletrônica, além da cassação da reconversão das penas restritivas em privativas de liberdade, o reconhecimento do cumprimento concomitante das penas e a retificação dos cálculos de liquidação.
+Decido.
+A Corte local assim não conheceu do habeas corpus impetrado na origem:
+As alegações deduzidas no recurso são insuficientes para modificar o entendimento anteriormente firmado na decisão monocrática, que não conheceu do habeas corpus por inadequação da via eleita, uma vez que o meio impugnativo cabível é o agravo em execução. Em matéria de execução penal, o habeas corpus somente é admitido quando a alegada ilegalidade puder ser constatada de plano, sem necessidade de aprofundado exame do conjunto fático- probatório.
+Conforme consignado na decisão agravada, as teses relativas à unificação das penas à imposição de regime prisional menos gravoso e à retificação dos cálculos de liquidação constituem matérias próprias da execução penal, cuja análise demanda incursão no acervo probatório e nos atos executórios, circunstância incompatível com a estreita via do habeas corpus. Por essa razão, devem ser veiculadas por meio do recurso previsto no art. 197 da Lei nº 7.210/84, sendo inadmissível a utilização do habeas corpus como sucedâneo recursal.
+Ademais, o agravante não apresenta qualquer fato novo ou fundamento jurídico apto a infirmar a decisão monocrática, limitando-se a reproduzir os argumentos já expendidos na impetração.
+Logo, inexistindo elementos capazes de justificar a revisão do entendimento anteriormente adotado, impõe-se a manutenção integral da decisão agravada por seus próprios fundamentos (fl. 21, grifei).
+A "matéria não analisada pelo Tribunal de origem não pode ser diretamente enfrentada neste momento, sob pena de supressão de instância" (RHC n. 98.130/MG, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 16/10/2018).
+Entretanto, verifico que a defesa suscitou a tese na impetração originária, não conhecida ao fundamento de que não é possível a utilização do writ em substituição ao agravo em execução. Este posicionamento, contudo, não tem o condão de subtrair do órgão julgador a verificação quanto à existência de manifesto erro na decisão do Juiz da VEC. A tese apresentada pela defesa não demanda análise de provas e está relacionada a direito de locomoção.
+Se for verificada a não interposição do agravo em execução, o remédio constitucional é o único instrumento de que dispõe o apenado para sanar eventual ilegalidade do decisum originário que indeferiu os pedidos.
+Assim, reconheço a negativa de prestação jurisdicional.
+Com efeito:
+ ..
+2. O Tribunal de Justiça indeferiu liminarmente o writ, deixando de apreciar o pleito formulado na impetração, ao fundamento de que "a via eleita não se presta a funcionar como substitutivo do agravo em execução, recurso cabível para o reexame da matéria ora ventilada".
+Entretanto, esta Corte Superior de Justiça consolidou o entendimento de que "é bem verdade que o STJ não mais tem admitido a impetração de habeas corpus, quando substitutivo de recursos próprios. Todavia, tal posicionamento não tem o condão subtrair do magistrado a verificação quanto à existência de ilegalidade flagrante, caso em que deverá conceder habeas corpus de ofício. Inteligência do art. 654, § 2º, do CPP" (HC n. 301.883/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 23/10/2014, DJe 10/11/2014).
+3. Agravo a que se nega provimento. Ordem concedida de ofício, tão somente para determinar que o Tribunal de Justiça do Estado de São Paulo aprecie o mérito do habeas corpus originário como entender de direito.
+(AgRg no HC 561.747/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 4/8/2020).
+À vista do exposto, não conheço do habeas corpus, haja vista a indevida supressão de instância. Contudo, de ofício, determino ao Tribunal de Justiça estadual que aprecie, como entender de direito - verificada a não interposição de agravo em execução - a aventada ilegalidade na decisão do Juiz da VEC.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
+EMENTA
