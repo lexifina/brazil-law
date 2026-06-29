@@ -1,0 +1,4 @@
+​RESOLUÇÃO CMN Nº 5.313, DE 25 DE JUNHO DE 2026
+Altera a Resolução CMN nº 5.309, de 19 de junho de 2026, que estabelece as definições, os encargos financeiros, as condições e as demais normas regulamentadoras aplicáveis às linhas de financiamento reembolsável para investimentos em infraestruturas, equipamentos e renovação da frota de veículos de serviços de transporte urbano individual de passageiros ou de cargas.
+O Banco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, torna público que o Conselho Monetário Nacional, em sessão realizada em 25 de junho de 2026, tendo em vista o disposto no art. 4º, caput, inciso VI, da Lei nº 4.595, de 31 de dezembro de 1964, e no art. 8º-A da Lei nº 14.947, de 2 de agosto de 2024, e com base na Medida Provisória nº 1.366, de 12 de junho de 2026,
+R E S O L V E U :
