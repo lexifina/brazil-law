@@ -1,0 +1,21 @@
+DECISÃO
+ANDRÉ PEREIRA DA ROCHA alega sofrer coação ilegal diante de acórdão prolatado pelo Tribunal de origem, no Agravo em Execução n. 0000950-68.2026.8.26.0496.
+Consta dos autos que a defesa requereu a concessão de indulto ao paciente com fundamento no Decreto n. 12.790/2025. As instâncias ordinárias indeferiram o pedido.
+O impetrante sustenta que a condenação pelo crime de roubo majorado, objeto do pedido, refere-se a fato praticado antes da entrada em vigor da Lei n. 13.964/2019. Alega que a posterior inclusão do delito no rol dos crimes hediondos não pode retroagir.
+Requer a concessão da ordem, para que seja extinta a pena com base no Decreto n. 12.790/2025.
+Decido.
+É possível o avanço para a pronta solução do habeas corpus, uma vez que prevalece nesta Corte o entendimento de que as condições do indulto devem ser aferidas na data da publicação do decreto, pois, por escolha do Chefe do Executivo, naquele ano específico, indivíduos condenados por determinados crimes são passíveis de perdão (total ou parcial).
+Não estamos diante de agravamento da pena ou do regime prisional, nem de vedação ou de aumento da fração de benefícios previstos na legislação anterior, mas de ato de clemência anual do Presidente da República, o qual, consoante critérios de política criminal, poderá excluir alguns delitos e situações do decreto concessivo.
+Aplica-se ao caso a compreensão de que:
+ ..
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO PELO EMPREGO DE ARMA DE FOGO. COMUTAÇÃO DE PENA. DECRETO N. 12.338/2024. AFERIÇÃO DA HEDIONDEZ DO DELITO. DATA DE EDIÇÃO DO DECRETO PRESIDENCIAL COMO PARÂMETRO. REQUISITO OBJETIVO. FRAÇÃO MÍNIMA DE CUMPRIMENTO DE PENA NÃO IMPLEMENTADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A concessão de indulto ou comutação de pena constitui ato discricionário do Presidente da República, condicionado ao preenchimento dos requisitos estabelecidos no decreto presidencial, nos termos do art. 84, XII, da Constituição Federal. O Decreto n. 12.338/2024 estabelece, em seu art. 1º, I, que o indulto e a comutação de pena não alcançam as pessoas condenadas por crime hediondo ou equiparado, conforme a Lei n. 8.072/1990.
+2. A jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que a aferição da natureza hedionda do delito, para fins de indulto ou comutação, deve observar a data de edição do decreto presidencial, e não a data da prática do crime. A vedação da concessão do indulto aos condenados por crimes hediondos não configura aplicação retroativa de lei mais gravosa, pois a abrangência dos limites e dos pressupostos da indulgência deve ser analisada a partir da publicação do diploma normativo.
+ ..  (AgRg no HC n. 1.055.812/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/5/2026, DJEN de 26/5/2026.)
+A Constituição Federal veda expressamente a concessão de indulto, graça e anistia a condenados por crimes hediondos e equiparados (tortura, tráfico de drogas e terrorismo). Essa proibição também foi prevista no decreto de regência.
+O perdão presidencial não decorre da lei penal vigente à época do crime, mas de ato editado anulamente. Por isso, seus requisitos e vedações devem ser aferidos nos estritos limites do decreto de referência, sem incidência dos princípios da irretroatividade ou da ultratividade próprios das alterações da legislação penal.
+No caso, à luz do Decreto n. 12.790/2025, o apenado não se enquadrava na situação exigida pelo Chefe do Executivo para a concessão do indulto ou da comutação, pois ostentava condenação por delito classificado como hediondo segundo a legislação vigente ao tempo do ato presidencial.
+O acórdão recorrido observou o entendimento de que "a comutação de pena é ato de clemência condicionado ao preenchimento dos requisitos fixados no Decreto presidencial, sendo legítima a exclusão dos condenados por crimes hediondos. 3. A hediondez do delito, para fins de indulto e comutação, deve ser aferida na data da edição do Decreto presidencial, não na data da prática do crime, inexistindo violação ao princípio da irretroatividade da lei penal mais gravosa" (AgRg no HC n. 1.084.574/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/5/2026, DJEN de 12/5/2026).
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
