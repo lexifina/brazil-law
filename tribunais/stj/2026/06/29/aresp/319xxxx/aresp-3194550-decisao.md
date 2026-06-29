@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por ORLANDO RALPH DA SILVA contra decisão de fls. 249-251, que inadmitiu o recurso especial com fundamento na Súmula n. 284 do Supremo Tribunal Federal.
+O recorrente foi condenado pelo juízo de primeiro grau, como incurso no art. 33, caput, da Lei n. 11.343/2006, à pena de 5 anos de reclusão, no regime inicial fechado, e ao pagamento de 500 dias-multa.
+Interposta apelação pela defesa, restou conhecida e desprovida, mantendo-se a sentença.
+No recurso especial, sustenta-se violação do art. 33, § 4º, da Lei n. 11.343/2006, pois o Tribunal de origem baseia-se em "elemento inidôneo como a quantidade da droga isoladamente para afastar o benefício" (fl. 229). Requer a aplicação da minorante, com a redução da pena, fixação do regime inicial aberto e substituição da pena por restritiva de direitos.
+No agravo em recurso especial, a parte sustenta que, embora não tenha mencionado expressamente a alínea, descreveu as hipóteses do permissivo constitucional de forma inequívoca, diante da violação ao art. 33, § 4º da Lei n. 11.343/2006 e ao art. 44 do Código Penal.
+Contraminuta apresentada (fls. 266-268).
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo e, caso conhecido, pelo não conhecimento do recurso especial, nos termos da seguinte ementa (fl. 287):
+AGRAVO CONTRA DECISÃO QUE INADMITIU O RECURSO ESPECIAL INTERPOSTO COM FUNDAMENTO NO ART. 105, III, "A", DA CONSTITUIÇÃO FEDERAL. TRÁFICO DE DROGAS. AGRAVO QUE NÃO IMPUGNA ESPECIFICAMENTE O FUNDAMENTO DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. PRINCÍPIO DA DIALETICIDADE RECURSAL NÃO OBSERVADO. PLEITO DE RECONHECIMENTO DO TRÁFICO PRIVILEGIADO (ARTIGO 33, § 4º, DA LEI Nº 11.343/06). EXPRESSIVA QUANTIDADE DE ENTORPECENTES (MAIS DE 65 QUILOS DE COCAÍNA). ELEMENTOS CONCRETOS QUE INDICAM DEDICAÇÃO A ATIVIDADES CRIMINOSAS E ENVOLVIMENTO COM ORGANIZAÇÃO CRIMINOSA. REVISÃO DO JULGADO. ÓBICE DA SÚMULA 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESSA CORTE SUPERIOR. SÚMULA 83 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+PARECER PELO NÃO CONHECIMENTO DO AGRAVO OU, SE CONHECIDO, PELO SEU DESPROVIMENTO.
+É o relatório.
+Verifica-se que a decisão agravada resultou na inadmissão do recurso especial interposto pelo recorrente, sob o fundamento de que incide o óbice previsto na Súmula n. 284 do Supremo Tribunal Federal.
+A defesa, na tentativa de infirmar o referido óbice sumular, alega que, apesar de não ter apontado a alínea do art. 105, III, da Constituição Federal, expressamente indicou os dispositivos violados, reiterando o mérito do recurso especial.
+A despeito das razões apresentadas, o agravante deixou de rebater, especificamente, o óbice apontado pelo Tribunal de origem para inadmitir o recurso especial, limitando-se a apontar que o presente recurso não possui fundamentação deficiente.
+Assim, a fundamentação utilizada no agravo não atendeu o requisito da dialeticidade recursal, conforme exigido pelo art. 932 do CPC e pela Súmula n. 182 do STJ, porquanto utilizou-se de argumentos genéricos, sem rebater pormenorizadamente o óbice elencado pela Corte local e acima descrito.
+Nesse sentido:
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO E CONTRADIÇÃO. ART. 619 DO CPP. OCORRÊNCIA PARCIAL. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS.
+1. Os embargos de declaração, no processo penal, são oponíveis com fundamento na existência de ambiguidade, obscuridade, contradição e/ou omissão no decisum embargado e, por isso, não constituem instrumento adequado para demonstração de inconformismos da parte com o resultado do julgado e/ou para formulação de pretensões de modificações do entendimento aplicado, salvo quando, excepcionalmente, cabíveis os efeitos infringentes.
+2. A questão posta foi decidida à luz de fundamentos adequados. As razões veiculadas nos embargos de declaração revelam, em verdade, o inconformismo da parte com o julgamento da causa, legítimo, mas impróprio na espécie recursal.
+3. Na linha dos precedentes desta Corte Superior, " ..  não está o juiz obrigado a rebater, pormenorizadamente, todas as questões trazidas pela parte, configurando-se a negativa de prestação jurisdicional somente nas hipóteses em que o Tribunal deixa de emitir posicionamento acerca de matéria essencial (REsp 1259899.
+Rel. Ministra Assusete Magalhães. DJ de 7/4/2014)" (AgRg no REsp n. 1.189.155/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 15/12/2015, DJe 2/2/2016).
+4. Compulsando as razões do recurso especial, verifico que não houve, de fato, o enfrentamento das teses remanescentes de "ausência de individualização das condutas" e de "ausência de lastro probatório para a condenação" (e-STJ fls. 3.805/3.806).
+5. Sem embargo, o agravante não apontou os dispositivos legais supostamente violados, o que impossibilita a análise das razões do recurso especial interposto com base na alínea a do permissivo constitucional. Nesse ponto, por analogia, incide o óbice da Súmula n. 284 do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+6. Embargos de declaração parcialmente acolhidos, sem atribuição de efeitos infringentes.
+(EDcl nos EDcl no AgRg no AgRg no REsp n. 2.172.708/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/4/2026, DJEN de 14/4/2026.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS (5,3G DE COCAÍNA, 81G DE COCAÍNA, 7,5G DE MACONHA E 69,7G DE MACONHA). MINUTA DE AGRAVO QUE NÃO INFIRMA ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N.º 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nas razões do agravo em recurso especial, não foi rebatido, especificamente, o fundamento da decisão agravada relativo à incidência da Súmula 284 do Supremo Tribunal Federal ante ao erro/equívoco no tocante à indicação do permissivo constitucional autorizador do apelo nobre.
+2. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.627.361/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 19/5/2020, DJe de 2/6/2020.)
+Desse modo, a ausência de impugnação específica e adequada dos fundamentos empregados pelo Tribunal de origem para obstar o trânsito do recurso especial impede o conhecimento do agravo, cujo propósito exclusivo consiste em demonstrar a inaplicabilidade dos fundamentos indicados na decisão de inadmissibilidade, mediante a impugnação individualizada de cada um deles.
+Assim, incide, por analogia, a Súmula n. 182 do STJ, segundo a qual: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, com fundamento nos arts. 932, III, do CPC e 253, parágrafo único, I , do Regimento Interno do STJ, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+ EMENTA
