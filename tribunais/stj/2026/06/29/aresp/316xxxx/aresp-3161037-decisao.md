@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo interposto por MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO DO SUL contra decisão que inadmitiu o recurso especial diante do óbice das Súmulas n. 83 e 211 do Superior Tribunal de Justiça.
+Consta dos autos que o Juízo da 1ª Vara de Execução Penal da Comarca de Campo Grande concedeu a Davyd Samuel Boaventura Salvador a remição de 177 dias de pena pela conclusão do ensino fundamental. A decisão baseou-se na aprovação integral do reeducando no Exame Nacional para Certificação de Competências de Jovens e Adultos.
+O Ministério Público do Estado de Mato Grosso do Sul interpôs agravo de execução penal, insurgindo-se contra a remição e pleiteando a redução da benesse para apenas 10 dias, sob o argumento de que o reeducando concluiu o ensino fundamental estando matriculado em ensino regular formal presencial no estabelecimento penal, o que impede a remição com base na aprovação no ENCCEJA.
+O acórdão negou provimento ao recurso ministerial e consignou a viabilidade jurídica da remição pelo ENCCEJA com base em interpretação extensiva favorável ao apenado, resguardando os fins ressocializadores da execução penal.
+Inconformada, a acusação opôs embargos de declaração de efeitos infringentes, sustentando a existência de duplicidade de benefícios e de bis in idem e que o apenado já houvera obtido a remição de 12 dias pela frequência às aulas do CEJA, de modo que o período anterior deveria ser decotado.
+O Tribunal de origem rejeitou os embargos de declaração e assentou que a tese de compensação de dias não fora devolvida nas razões de agravo, o que configurou inovação recursal e impediu o exame da matéria por supressão de instância.
+No recurso especial, o Ministério Público alegou que a cumulação das remições de pena pela frequência escolar no CEJA e pela aprovação no ENCCEJA no mesmo nível de ensino acarreta indevida cumulação pelo mesmo fato gerador. Requer que sejam descontados dos 177 concedidos, os 12 dias relativos às remições anteriormente deferidas em decorrência da participação no CEJA de nível fundamental.
+No agravo, sustenta que houve violação ao artigo 619 do CPP e que a tese de bis in idem constitui consequência lógica da homologação da remição pelo ENCCEJA, o que afastaria as teses de inovação recursal e de preclusão, restando devidamente prequestionada a matéria federal.
+Apresentada a contraminuta, o Ministério Público Federal manifestou-se pelo provimento do agravo para não conhecer do recurso especial e, caso examinado, pelo provimento do recurso.
+É o relatório.
+Atendidos os requisitos de admissibilidade do agravo, passa-se à análise do recurso especial.
+Inicialmente, no tocante à dosimetria, negou-se seguimento ao recurso especial e foi improvido o agravo regimental, de forma que a questão está superada.
+O Tribunal de Justiça negou provimento ao recurso ministerial com a seguinte conclusão (fls. 42-45):
+Trata-se de Agravo em Execução Penal, interposto pelo Ministério Público Estadual, por irresignação contra a decisão que deferiu 177 (cento e setenta e sete) dias de remição de pena ao sentenciado Davyd Samuel Boaventura Salvador, diante da conclusão do ensino fundamental por meio do ENCCEJA.
+O Parquet requer, em suma, a reforma da decisão agravada, para que sejam concedidos ao reeducando apenas 10 (dez) dias de remição, porquanto o sentenciado estava vinculado a atividades regulares de ensino.
+Sem razão.
+O estudo por reeducandos realizado no cumprimento da execução da pena, reflete relevante instrumento pelo intuito da reinserção social, de forma a propiciar estímulo ao sentenciado que cumpre pena nos regimes fechado e semiaberto, além de reduzir em benefício deste, a duração da pena conforme previsto no artigo 126 da Lei de Execução Penal.
+E em complemento a legislação, o Conselho Nacional de Justiça, por meio da Resolução n. 391, de 10 de maio de 2021 (que revogou a Recomendação CNJ n. 44/2013), estabelece procedimentos e diretrizes a serem observadas pelo Poder Judiciário para o reconhecimento do direito à remição de pena por meio de práticas sociais educativas em unidades de privação de liberdade.
+ ..
+Nesse contexto, embora não se descure a divergência jurisprudencial acerca do tema, com posicionamentos contrapostos no STJ assim destacados da decisão objurgada e da manifestação ministerial, entendo que deve ser mantida a decisão proferida pelo juízo da execução penal, considerando que, assim já admitido em precedentes pela possibilidade de remição de pena aos aprovados no ENCCEJA que estejam vinculados a atividades de ensino no interior do estabelecimento prisional, como resultado de interpretação analógica in bonam partem da norma inserta no art. 126 da LEP - (STJ; HC 361.462; Proc. 2016/0174043-5; DF; Rel. Minª Ribeiro Dantas; DJE 25/05/2017).
+ ..
+Nessa linha de compreensão, pertinente de destaque dos fundamentos do julgado acima que, a aplicação de entendimento contrário, implicaria a criação de "duas classes de reeducandos dentro do estabelecimento penal e desestimulando aqueles que se encontram vinculados à atividades regulares de ensino, violando o princípio da igualdade e, ainda, a finalidade do cumprimento de pena, que é a reinserção social", ou seja, não se podendo desprezar do recorrido o esforço realizado nas condições em que se encontra, garantindo-lhe com isso, o direito ao desenvolvimento educacional a atividades intelectuais, com a finalidade de sua reintegração social.
+Logo, irretocável a decisão objurgada, que concedeu a remição por estudo ao recorrido, encontrando-se o cálculo elaborado em compasso ao entendimento jurisprudencial apresentado.
+Em relação ao prequestionamento cabe esclarecer que, prescinde de manifestação explícita dos dispositivos legais invocados, sendo que a matéria em questão foi expressamente abordada.
+Foram postos embargos de declaração alegando contradição e omissão em relação a suposto bis in idem. Os aclaratórios foram rejeitados sob o fundamento de inovação de teses recursais e supressão de instância (fls. 86-88):
+4.1. Ausência de omissão e delimitação do tema na decisão
+No acórdão embargado, o colegiado enfrentou precisamente as questões submetidas no agravo ministerial: (i) possibilidade de remição pela aprovação integral no ENCCEJA a sentenciado vinculado ao ensino formal; e (ii) critério de cálculo aplicável. A controvérsia relativa ao suposto bis in idem por "decote" de 12 dias já remidos pela frequência ao EJA não integrou as razões do agravo e, portanto, não compôs o objeto devolvido à instância revisora.
+Logo, não se exige que o decisum trate de matéria não suscitada e estranha à devolução recursal, sob pena de violação à congruência e de indevida supressão de instância.
+O silêncio sobre tema que não foi devolvido não configura omissão nos termos do art. 619 do CPP, pois inexiste obrigação jurisdicional de emitir juízo sobre questão não deduzida oportunamente.
+4.2. Inadequação dos embargos como via de inovação e rediscussão
+Os embargos de declaração têm fundamentação vinculada e não se prestam à rediscussão do mérito nem à inovação recursal, exigindo-se a demonstração concreta de ambiguidade, obscuridade, contradição ou omissão (art. 619 do CPP).
+A pretensão do Parquet, a rigor, busca ampliar o conteúdo do julgamento para além do que foi provocado no agravo, a fim de obter pronunciamento inédito sobre abatimento de dias anteriormente remidos, providência que, se admitida, converteria os aclaratórios em sucedâneo recursal impróprio.
+4.3. Observação sobre a natureza do ponto levantado (matéria de cálculo)
+Ainda que superado o óbice acima, cumpre observar que a questão do eventual encontro de contas entre remições decorrentes de frequência ao ensino formal e aprovação no ENCCEJA, sobretudo quando se alega identidade de etapa de ensino, envolve matéria de cálculo e execução, vocacionada ao crivo do Juízo das Execuções, onde se formou o título executivo e onde se mantêm os registros de carga horária/áreas avaliadas, para aferição concreta de coincidências temporais e de nível.
+O acórdão embargado limitou-se a reconhecer a possibilidade jurídica da remição pelo ENCCEJA em cenário de vínculo a ensino formal e a definir o critério de cálculo para essa remição específica; não determinou a cumulação automática de títulos remissivos sobre o mesmo fato gerador, tampouco realizou operações aritméticas sobre o cômputo global da pena.
+Inexistem, pois, contradição ou omissão internas ao julgado.
+4.4. Conclusão do mérito
+Inexistente vício sanável por embargos de declaração.
+O que se pretende é, em verdade, novo julgamento da causa, com alargamento do objeto decidido, providência incompatível com a via estreita do art. 619 do CPP.
+O recurso especial do Ministério Público carece do indispensável prequestionamento da matéria de mérito ventilada. O recorrente arguiu que o apenado já havia sido beneficiado com a remição de 12 dias pela frequência escolar no CEJA, sustentando que a ausência de compensação representaria bis in idem.
+Essa matéria não constava da petição de agravo em execução ministerial nem foi submetida ao crivo do juízo de origem. A pretensão foi trazida de forma inédita apenas nos embargos de declaração criminal.
+A inovação de argumentos operada em sede de embargos de declaração impede o prequestionamento da matéria na origem. O colegiado do Tribunal de Justiça de Mato Grosso do Sul asseverou expressamente a ocorrência de inovação recursal e de supressão de instância e o órgão julgador absteve-se de analisar o mérito da compensação matemática de dias por óbice estritamente processual. Esse cenário atrai a aplicação do enunciado da Súmula 211 deste Superior Tribunal de Justiça.
+A Súmula 211 do STJ obsta o conhecimento de recurso especial sobre matéria que não foi prequestionada na origem, mesmo após a oposição de embargos de declaração:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO. REMIÇÃO . FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Apesar da oposição dos embargos de declaração, o Tribunal de origem não se manifestou sobre a matéria discutida no recurso especial, o que atrai a incidência da Súmula 211/STJ.
+2. O prequestionamento ficto somente seria cabível se o recurso especial tivesse demonstrado ofensa ao art. 619 do CPP, para que fosse possível aferir eventual omissão da Corte local. Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no REsp 2033349/SC, Rel. Ministro Ribeiro Dantas, Quinta Turma, Julgado em 06/03/2023, DJe 10/3/2023)
+Outrossim, afasta-se a alegação de violação ao artigo 619 do CPP. O colegiado estadual decidiu de forma clara e fundamentada todas as questões legitimamente devolvidas à sua cognição no agravo de execução originário. A recusa em manifestar-se sobre tese acobertada pela preclusão e inovação argumentativa não representa omissão no julgado, em perfeita conformidade com a orientação do Superior Tribunal de Justiça:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. ART. 619 DO CPP. OMISSÃO. NÃO OCORRÊNCIA. INOVAÇÃO RECURSAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração, como se infere da redação do artigo 619 do CPP, supõem defeitos na mensagem do julgado, em termos de ambiguidade, omissão, contradição ou obscuridade, isolada ou cumulativamente, que não se fazem presentes no caso.
+2. A omissão configura-se quando o magistrado ou o Colegiado deixam de apreciar questões relevantes para o julgamento da causa, suscitadas pelas partes ou cognoscíveis de ofício.
+3. A questão posta foi decidida à luz de fundamentos adequados. As razões veiculadas nos embargos de declaração revelam, em verdade, o inconformismo da parte com o julgamento da causa, legítimo, mas impróprio na espécie recursal, além de constituírem inovação recursal.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no HC 335.978/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/8/2016, DJe de 16/8/2016)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+ EMENTA
