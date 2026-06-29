@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por WESLLEY LIEVERSON NOGUEIRA DO CARMO contra decisão da Vice-Presidência do TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAPÁ que inadmitiu o recurso especial (fls. 1349-1354).
+Consta dos autos que o agravante foi pronunciado pela suposta prática de homicídio qualificado.
+No recurso especial (fls. 1268-1289), sustentou, em síntese, violação dos arts. 239, 315, § 2º, IV, 413, § 1º, e 619 do Código de Processo Penal, bem como do art. 8.2 da Convenção Americana sobre Direitos Humanos. Alegou ausência de indícios suficientes de autoria, nulidade da decisão de pronúncia por excesso de linguagem e negativa de prestação jurisdicional.
+Inadmitido o recurso especial, foi interposto o presente agravo (fls. 2464-2522).
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso especial (fls. 2607-2616).
+É o relatório. DECIDO.
+O agravo merece ser conhecido. Todavia, o recurso especial não comporta provimento.
+De início, não se verifica a alegada ofensa ao art. 619 do Código de Processo Penal.
+A Corte de origem apreciou de forma fundamentada as questões suscitadas pela defesa, expondo as razões pelas quais entendeu presentes os indícios suficientes de autoria aptos a justificar a submissão do recorrente a julgamento pelo Tribunal do Júri. O simples inconformismo da parte com a conclusão adotada não se confunde com negativa de prestação jurisdicional.
+Com efeito, o acórdão que julgou os embargos de declaração consignou expressamente que a tese defensiva relativa à ausência de indícios de autoria já havia sido enfrentada, destacando os elementos probatórios considerados relevantes para a manutenção da pronúncia. Assim, ainda que a solução adotada seja contrária aos interesses da defesa, não há falar em omissão apta a caracterizar violação do art. 619 do Código de Processo Penal.
+No tocante à alegação de ausência de indícios suficientes de autoria, à suposta violação dos arts. 239 e 413 do Código de Processo Penal e à pretensão de impronúncia, verifica-se que o Tribunal de origem concluiu estarem presentes elementos indiciários aptos a justificar o envio da causa ao Tribunal do Júri.
+A modificação desse entendimento exigiria, necessariamente, nova análise do conjunto fático-probatório dos autos, especialmente da prova testemunhal e dos demais elementos considerados pelas instâncias ordinárias para a formação do juízo de admissibilidade da acusação, providência inviável na via do recurso especial, nos termos da Súmula 7 do Superior Tribunal de Justiça.
+A propósito, a própria decisão de inadmissão do recurso especial destacou precedentes desta Corte segundo os quais a revisão da decisão de pronúncia, quando fundada na alegação de inexistência de indícios suficientes de autoria, demanda revolvimento do acervo probatório, circunstância incompatível com a estreita via do recurso especial, citando, entre outros, o AgRg no AREsp 1.383.395/MG, o AgRg nos EDcl no AREsp 1.383.234/SP, o AgRg no REsp 1.497.907/SC, o AgRg no AREsp 1.755.674/AM e o AgRg no AREsp 1.776.521/TO.
+Também não prospera a insurgência relacionada ao alegado excesso de linguagem da decisão de pronúncia.
+A conclusão adotada pelo Tribunal local decorreu da análise das circunstâncias concretas do caso e da compreensão de que o magistrado limitou-se ao exame da materialidade e dos indícios de autoria, sem antecipar juízo definitivo de culpabilidade. O acolhimento da tese defensiva exigiria, igualmente, incursão no contexto fático-probatório delineado pelas instâncias ordinárias, providência vedada nesta instância excepcional.
+Por fim, a invocação do art. 8.2 da Convenção Americana sobre Direitos Humanos não é suficiente para afastar os fundamentos adotados pelo acórdão recorrido, que manteve a pronúncia em razão da presença de prova da materialidade e de indícios suficientes de autoria, nos termos exigidos pelo art. 413 do Código de Processo Penal.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intime-se.
+EMENTA
