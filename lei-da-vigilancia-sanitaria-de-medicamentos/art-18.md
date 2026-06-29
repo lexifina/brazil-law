@@ -1,3 +1,3 @@
-Art. 18 - O registro de drogas, medicamentos e insumos farmacêuticos de procedência estrangeira dependerá, além das condições, das exigências e dos procedimentos previstos nesta Lei e seu regulamento, da comprovação de que já é registrado no país de origem.
-§ 1º Na impossibilidade do cumprimento do disposto no caput deste artigo, deverá ser apresentada comprovação do registro em vigor, emitida pela autoridade sanitária do país em que seja comercializado ou autoridade sanitária internacional e aprovado em ato próprio da Agência Nacional de Vigilância Sanitária do Ministério da Saúde.
-§ 2º No ato do registro de medicamento de procedência estrangeira, a empresa fabricante deverá apresentar comprovação do cumprimento das Boas Práticas de Fabricação, reconhecidas no âmbito nacional.
+Art. 18. O registro de medicamentos e insumos farmacêuticos, de fabricação nacional ou estrangeira, fica sujeito à comprovação da certificação em Boas Práticas de Fabricação (BPF), na forma do regulamento emanado da autoridade sanitária.
+§ 1º (Revogado).
+§ 2º (Revogado).
