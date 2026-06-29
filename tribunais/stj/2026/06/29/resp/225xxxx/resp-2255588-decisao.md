@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra acórdão do Tribunal de Justiça local, que deu provimento ao Agravo de Execução Penal n. 1.0231.17.008919-8/003.
+Consta nos autos que o recorrido cumpre pena unificada de 19 (dezenove) anos, 8 (oito) meses e 24 (vinte e quatro) dias de reclusão, em regime inicial fechado. No curso do livramento condicional concedido em 29/06/2021, sobreveio notícia da prática de novo crime, ocasionando a suspensão e, posteriormente, a revogação do benefício. Em seguida, o Juízo da Execução somou as penas, fixou a data-base para benefícios na "última prisão" (13/09/2023) e estabeleceu o regime inicial fechado.
+O Tribunal de origem, ao julgar o agravo em execução interposto pela Defesa, reformou essa providência para restabelecer a data-base anterior, por entender que o livramento condicional possui regramento específico que não autoriza a alteração do marco temporal em razão do descumprimento de suas condições (fls. 58-63).
+Inconformado, o Parquet Estadual interpôs recurso especial, com arrimo no artigo 105, inciso III, alínea "a", da Constituição da República, no qual sustenta contrariedade aos artigos 111, parágrafo único, 140, 142 e 145, todos da Lei de Execução Penal, sob o argumento de que a prática de novo crime durante o livramento condicional justifica a alteração da data-base para a data da última prisão ocorrida.
+Requer, assim, que seja restabelecida a decisão do Juiz da Execução que fixou a data-base como a data da última prisão.
+Contrarrazões apresentadas às fls. 91-97.
+O Ministério Público Federal manifesta-se pelo não conhecimento do recurso especial às fls. 115-120.
+É o relatório.
+Decido.
+A controvérsia cinge-se à definição do marco temporal para concessão de benefícios executórios após a prática de novo delito durante o livramento condicional, em cenário no qual o Juízo da execução fixou a data da última prisão e o Tribunal de origem, em agravo, restabeleceu a data-base anterior, sob fundamento de que o instituto possui regramento próprio e não se aplica, nesse contexto, a lógica dos consectários da falta grave.
+No que tange ao impacto da falta grave e do novo delito sobre marcos temporais, a orientação desta Corte é firme no sentido de que os efeitos interruptivos alcançam, especificamente, a progressão de regime, não incidindo sobre o requisito objetivo do livramento condicional, comutação e indulto. A partir dessa baliza, o raciocínio do recorrente, que pretende deslocar a data-base para a última prisão como regra geral em razão do reingresso ao cárcere, não se sustenta quando o evento desencadeante é a prática de crime durante o livramento condicional.
+Nessa senda, o acórdão estadual, ao restabelecer a data-base anterior e distinguir os efeitos próprios do livramento daqueles decorrentes de faltas graves, conforma-se com a diretriz jurisprudencial deste Tribunal Superior, impondo a negativa de provimento do apelo.
+A propósito:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. WRIT SUBSTITUTIVO DE RECURSO. FLAGRANTE ILEGALIDADE. ORDEM CONCEDIDA DE OFÍCIO. FALTA GRAVE. COMETIMENTO DE NOVO DELITO NO CURSO DA EXECUÇÃO. IMPOSSIBILIDADE DE ALTERAÇÃO DA DATA-BASE PARA LIVRAMENTO CONDICIONAL. SÚMULA N. 441 DO STJ. TEMA REPETITIVO N. 709 DO STJ. AGRAVO IMPROVIDO.
+1. É pacífica a jurisprudência desta Corte de Justiça quanto à possibilidade de concessão de habeas corpus de ofício quando substitutivo de recurso, no caso de ser constatada ilegalidade flagrante, como é o caso.
+2. "A jurisprudência sedimentada neste Superior Tribunal de Justiça é no sentido de que a prática de falta grave ou crime no curso da execução penal, somente pode ensejar a alteração da data-base para a progressão de regime, não surtindo qualquer efeito no que tange ao requisito objetivo para o livramento condicional, comutação e indulto, nos termos dos enunciados n. 441, 534 e 535 deste STJ" (AgRg no HC n. 675.459/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/2/2022, DJe de 14/2/2022).
+3. O acórdão impugnado contraria a orientação da jurisprudência desta Corte Superior ao manter a decisão que interrompeu o prazo para obtenção do livramento condicional do agravado devido ao reconhecimento da prática de falta grave, consistente no cometimento de novo crime durante o cumprimento da pena.
+4. Agravo regimental improvido.
+(AgRg no HC n. 994.115/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 12/8/2025, DJEN de 26/8/2025.)
+Ante o exposto, conheço do recurso especial e nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
