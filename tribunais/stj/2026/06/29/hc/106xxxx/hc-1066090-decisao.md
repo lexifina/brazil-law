@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GLAITON MARQUES DOS SANTOS FILHO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL proferido no HC n. 1415347-10.2025.8.12.0000.
+Consta dos autos que, em o paciente teve a prisão em flagrante 20/7/2025, convertida em preventiva pela suposta prática do crime descrito no da art. 33 Lei n. 11.343/2006.
+Em suas razões, o impetrante alega falta de fundamentação idônea do decreto prisional, baseado na gravidade abstrata do delito. Ressalta a desproporcionalidade, a desnecessidade e a excepcionalidade da medida extrema.
+Destaca as condições pessoais favoráveis do paciente e defende a suficiência das medidas cautelares não prisionais.
+Requer, liminarmente e no mérito, a revogação da prisão, ainda que mediante a imposição de medidas cautelares diversas do cárcere.
+Liminar indeferida às fls. 56/57. Informações prestadas às fls. 60/65.
+Parecer ministerial de fls. 85/92 opinando pela denegação da ordem.
+É o relatório. Decido.
+A prisão preventiva, no ordenamento jurídico brasileiro, constitui medida cautelar de natureza excepcional, cuja manutenção está condicionada à permanência dos fatos que a justificaram, e somente se legitima em situações em que a liberdade do indivíduo represente um risco concreto e atual aos bens jurídicos tutelados pelo art. 312 do Código de Processo Penal.
+Sua decretação não representa antecipação de pena nem viola o princípio da presunção de não culpabilidade, desde que a decisão judicial esteja fundamentada em elementos concretos, e não na gravidade abstrata do delito, demonstrando a efetiva necessidade da medida para o caso específico.
+Para tanto, exige-se a comprovação da existência de prova da materialidade do crime e de indícios suficientes de autoria, bem como do perigo gerado pelo estado de liberdade do imputado, que se manifesta na necessidade de garantir a ordem pública, a ordem econômica, a conveniência da instrução criminal ou a aplicação da lei penal. Trata-se, portanto, da última e mais gravosa das medidas cautelares, cuja aplicação demanda a demonstração inequívoca de que as alternativas previstas no art. 319 do CPP são insuficientes para acautelar o processo e o meio social.
+O Tribunal de origem ao manter a medida extrema em desfavor do paciente, consignou o que se segue (fls. 49/53):
+O fundamento central da prisão, garantia da ordem pública, foi adequadamente demonstrado pelas instâncias antecedentes. O paciente foi flagrado com diferentes tipos de drogas e instrumentos típicos da mercancia ilícita, inclusive mantidos no quarto do próprio filho, circunstância que revela risco social elevado.
+Além disso, registra condenação definitiva por furto qualificado, encontrando-se em cumprimento de pena no momento da prisão, o que denota propensão à reiteração criminosa.
+Tais elementos caracterizam a gravidade concreta da conduta e justificam a custódia preventiva, não se tratando de mera gravidade abstrata.
+As medidas previstas no art. 319 do CPP mostram-se insuficientes diante do modus operandi, da reincidência e do risco de reiteração delitiva, não sendo capazes de neutralizar o periculum libertatis.
+Na hipótese dos autos, verifica-se que a necessidade da prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, tendo sido destacado o risco concreto de reiteração delitiva, tendo em vista que o paciente se encontrava cumprindo pena em regime aberto por ocasião da nova prática. Os elementos apontados efetivamente demonstram a potencial periculosidade do agente e são aptos a justificar a segregação cautelar para garantia da ordem pública, conforme a orientação do Superior Tribunal de Justiça. No mesmo sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO DELITIVA. SÚMULA N. 444 DO STJ. AUSÊNCIA DE ÓBICE. TEMA N. 506 DO STF. PERSPECTIVA RACIAL. INOVAÇÕES RECURSAIS. AGRAVO REGIMENTAL CONHECIDO EM PARTE E IMPROVIDO.
+1. A prisão preventiva pode ser decretada antes do trânsito em julgado da sentença condenatória, desde que estejam presentes os requisitos previstos no art. 312 do Código de Processo Penal.
+2. Foram constatados elementos concretos capazes de justificar a privação cautelar da liberdade que indicam a habitualidade delitiva do agravante, evidenciada pela existência de múltiplos processos penais e registros de ocorrências criminais em seu desfavor, inclusive condenação por crime de roubo.
+3. A Súmula n. 444 do STJ não impede a consideração de inquéritos e ações penais em curso como indicativos de risco de reiteração delitiva, conforme precedentes desta Corte Superior.
+(..)
+5. Agravo regimental conhecido em parte e improvido. (AgRg no RHC n. 215.646/BA, relator Ministro Og Fernandes, Sexta Turma, julgado em 5/8/2025, DJEN de 27/8/2025.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS. APREENSÃO DE MAIS DE 800 G DE MACONHA E DE R$ 3.350,00. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS. REITERAÇÃO DELITIVA. NECESSIDADE DA CUSTÓDIA PARA A GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+1. A jurisprudência desta Corte e do colendo Supremo Tribunal Federal alinha-se no sentido de que a prisão preventiva pode ser justificada pela preservação da ordem pública, especialmente quando há risco de reiteração delitiva.
+2. No caso, a segregação cautelar se encontra justificada na probabilidade concreta de reiteração delitiva, tendo em vista a existência de notícia sobre a existência de acordo de não persecução em razão da prática do crime de tráfico privilegiado praticado anteriormente.
+3. Agravo regimental improvido. (AgRg no HC n. 1.004.357/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/8/2025, DJEN de 18/8/2025.)
+Portanto, tendo em vista que a necessidade da prisão preventiva foi concretamente demonstrada nos termos dos arts. 312 e 313, ambos do Código de Processo Penal, não se mostra suficiente a aplicação de medidas cautelares mais brandas.
+Ademais, a alegada existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da segregação provisória, como ocorre no caso. Exemplificativamente: AgRg no HC n. 1.005.547/MG, relator Ministro Og Fernandes, Sexta Turma, julgado em 27/8/2025, DJEN de 1/9/2025; RHC n. 210.607/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/6/2025, DJEN de 23/6/2025.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
