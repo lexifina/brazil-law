@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por YAGO ABNER FAVARETTO contra decisão em que neguei provimento ao recurso em habeas corpus.
+Alega o embargante a ocorrência de omissões ao argumento de que a decisão teria sido omissa com relação à extensão da prescrição do co-querelante pelos mesmos fatos; ao prequestionamento ficto; e à natureza do recurso em habeas corpus.
+Aponta, ainda, a ocorrência de contradições ao argumento de que o recorrente teria sim oposto embargos de declaração e que não seria necessária a incursão probatória, uma vez que a data estaria documentada em ato judicial oficial.
+Requer, assim, o acolhimento dos aclaratórios com efeitos infringentes.
+É o relatório.
+Decido.
+Os embargos de declaração, nos termos do art. 619 do Código de Processo Penal, supõem defeitos na mensagem do julgado, em termos de ambiguidade, omissão, contradição ou obscuridade, isolada ou cumulativamente.
+Essa é a vocação legal do recurso, sempre enfatizada nos precedentes desta Corte Superior, como se depreende do aresto a seguir:
+DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. PRISÃO PREVENTIVA. CONTEPORANEIDADE DOS FATOS. GARANTIA DE APLICAÇÃO DA LEI PENAL. AUSÊNCIA DE VÍCIOS DO ART. 619 DO CPP. EMBARGOS REJEITADOS.
+I. Caso em exame
+1. Embargos de declaração opostos contra decisão que negou provimento a agravo regimental.
+2. Embargante alega omissão quanto à avaliação do requisito da contemporaneidade e equívoco quanto ao preenchimento da hipótese de garantia de aplicação da lei penal, postulando o saneamento dos vícios para revogação da prisão preventiva, com ou sem medidas cautelares alternativas.
+3. A decisão embargada manteve a medida extrema, assentando a contemporaneidade dos fatos e a subsistência dos fundamentos da prisão preventiva, inclusive a garantia de aplicação da lei penal.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a decisão embargada padece de omissão, obscuridade, contradição ou ambiguidade, nos termos do art. 619 do Código de Processo Penal, quanto à contemporaneidade dos fatos e à garantia de aplicação da lei penal, a justificar o acolhimento dos embargos de declaração.
+III. Razões de decidir
+5. Os embargos de declaração têm finalidade específica de sanar omissão, obscuridade, contradição ou ambiguidade do julgado (CPP, art. 619), não se prestando à rediscussão do mérito.
+6. A decisão embargada enfrentou de forma precisa a contemporaneidade dos fatos e a subsistência dos fundamentos da prisão preventiva, inclusive a garantia de aplicação da lei penal, inexistindo omissão ou equívoco.
+7. Os argumentos apresentados revelam mero inconformismo com a conclusão adotada, não evidenciando vícios sanáveis pela via aclaratória.
+IV. Dispositivo
+8. Embargos de declaração rejeitados. (EDcl no AgRg no HC n. 1.039.520/PR, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 9/6/2026, DJEN de 24/6/2026, grifo nosso.)
+No caso em tela, não se fazem presentes nenhum dos citados defeitos.
+A decisão embargada foi fundamentada nos seguintes termos (e-STJ fls. 153/155):
+O Tribunal de origem, ao denegar a ordem do habeas corpus, consignou que (e-STJ fls. 65/66, grifo nosso):
+O paciente está sendo processado porque, em tese, no dia 26 de setembro de 2020, às 22h40, valendo-se de conta falsa de e-mail, enviou mensagem eletrônica a mais de 365 condôminos do Condomínio Conjunto Residencial Parque Eldorado, administrado pela Associação dos Moradores do Conjunto Residencial Parque Eldorado, imputando-lhe condutas aptas a configurar os delitos de difamação e injúria (fls. 01/10 autos originais).
+Inicialmente, incabível o reconhecimento, de plano, da decadência do direito de queixa.
+Malgrado o impetrante sustente que a querelante teria tido ciência inequívoca da autoria dos crimes em 08.12.2022, consta dos autos que a apuração dos fatos envolveu o envio de mensagens por conta eletrônica falsa a elevado número de destinatários, investigação de dados técnicos (IP e telefonia) e eventual envolvimento de terceiros, circunstâncias que dificultam a fixação segura e incontroversa do marco inicial do prazo decadencial.
+Além disso, a querelante ajuizou queixa-crime de conteúdo idêntico em 08.05.2023, nos autos do inquérito policial n. 1512160-97.2021.8.26.0405 (fls. 216/226 autos de origem), evidenciando que a definição do momento da ciência inequívoca da autoria demanda exame aprofundado do conjunto fático-probatório, que é incompatível com a via estreita do habeas corpus.
+Quanto à prescrição da pretensão punitiva, não assiste razão ao impetrante.
+Antes do trânsito em julgado, nos termos do artigo 109 do Código Penal, a prescrição regula-se pelo máximo da pena privativa de liberdade cominada em abstrato aos delitos imputados.
+No caso em apreço, a queixa-crime atribui ao paciente, em tese, a prática de crimes contra a honra, cujas penas máximas previstas variam conforme o tipo penal, alcançando até 02 anos de detenção. Considerado o parâmetro legal, não se verifica o decurso do prazo prescricional entre os marcos interruptivos indicados nos autos, inexistindo, portanto, causa extintiva da punibilidade a ser reconhecida de plano.
+Inicialmente, no tocante à alegação de que teria ocorrido a decadência do direito de queixa, verifica-se que a Corte de origem consignou que, em razão de os fatos envolverem "envio de mensagens por conta eletrônica falsa", não era possível "a fixação segura e incontroversa do marco inicial do prazo decadencial".
+Dessa maneira, verifica-se que não é possível acolher a tese defensiva, porquanto, ausente descrição no acórdão da data de conhecimento da prática da infração, é inviável a realização do cálculo da decadência sem incursão em elementos de fatos e provas, o que é inadmissível em sede de habeas corpus.
+Com relação à alegação de ocorrência da prescrição da pretensão punitiva, verifica-se que o Tribunal de origem absteve-se de analisar a ocorrência do transcurso do lapso temporal para cada uma dos crimes imputados ao recorrente, limitando-se a afirmar que as penas dos crimes variavam, podendo alcançar até 2 (dois) anos de detenção.
+E o recorrente não se insurgiu contra tal ponto em sede de embargos de declaração. Assim, verifica-se que, não debatida a matéria perante a Corte de origem, inviável a análise diretamente por este Tribunal Superior, sob pena de incorrer em indevida supressão de instância.
+No que tange à alegação de que pessoa jurídica não pode sofrer crime de injúria, novamente verifica-se que a tese não foi debatida perante a Corte estadual, não obstante a oposição de embargos de declaração.
+No presente recurso, o recorrente suscita tal tema, contudo, não alegou violação ao art. 619 do Código de Processo Penal, de modo que não é possível acolher o seu pedido.
+Por fim, com relação à alegação de que a queixa-crime teria apontado a ocorrência dos crimes de difamação e injúria, mas nos pedidos foi requerida condenação pelos crimes de calúnia e injúria, destaca-se que esta Corte Superior entende que "o princípio da correlação representa um dos mais importantes postulados para a defesa, por estabelecer balizas fixas para a produção da prova, condução do processo e prolação do édito condenatório. De fato, é premissa comezinha do Direito Penal e Processual Penal que o réu se defende dos fatos narrados na inicial, e não da capitulação jurídica a eles atribuída pela acusação" (AgRg no REsp n. 2.252.364/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/4/2026, DJEN de 23/4/2026).
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+No tocante à alegação de omissão ao argumento de que não teria sido analisada a tese defensiva de que a prescrição já teria sido reconhecida para outro querelante, de fato, assiste razão ao embargante.
+Contudo, da análise do acórdão proferido pelo Tribunal de origem (e-STJ fls. 63/67 e 105/111), verifica-se que tal ponto não foi analisado, o que impede o debate diretamente por esta Corte Superior, sob pena de incorrer em indevida supressão de instância.
+Ademais, apesar de a defesa ter opostos embargos de declaração perante o Tribunal de primeira instância, não se insurgiu contra tal ponto, conforme pode se observar do relatório do acórdão proferido em sede de embargos de declaração, a saber (e-STJ fls. 106/107, grifo nosso):
+Trata-se de embargos de declaração opostos por Y. A. F. contra o acórdão proferido por esta 16ª Câmara de Direito Criminal, que, por unanimidade, denegou a ordem em habeas corpus, mantendo a decisão do D. Juízo de Direito da 3ª Vara Criminal da Comarca de Osasco que recebeu a queixa-crime ofertada em seu desfavor, nos autos da ação penal n. 1019233-12.2023.8.26.0405.
+Sustenta o embargante, em síntese, a existência de omissões no v. acórdão quanto à ilegitimidade da pessoa jurídica para figurar como vítima do crime de injúria, à decadência do direito de queixa e à inépcia da queixa-crime por violação ao princípio da correlação, requerendo o saneamento dos vícios apontados, com atribuição de efeitos infringentes, além do prequestionamento da matéria (fls. 01/06).
+No tocante à alegação de omissão quanto à existência de prequestionamento ficto e contradição em razão de ter oposto embargos de declaração perante o Tribunal de origem, não assiste razão à defesa.
+Conforme consignado na decisão embargada e na presente decisão, a defesa, ao opor embargos de declaração contra o acórdão do Tribunal estadual que denegou o habeas corpus, não se insurgiu com relação aos pontos questionados no presente recurso em habeas corpus a fim de provocar a manifestação específica e pormenorizada da Corte a quo.
+Na decisão embargada, foi consignado que:
+Com relação à alegação de ocorrência da prescrição da pretensão punitiva, verifica-se que o Tribunal de origem absteve-se de analisar a ocorrência do transcurso do lapso temporal para cada uma dos crimes imputados ao recorrente, limitando-se a afirmar que as penas dos crimes variavam, podendo alcançar até 2 (dois) anos de detenção.
+E o recorrente não se insurgiu contra tal ponto em sede de embargos de declaração. Assim, verifica-se que, não debatida a matéria perante a Corte de origem, inviável a análise diretamente por este Tribunal Superior, sob pena de incorrer em indevida supressão de instância.
+A decisão foi clara ao especificar que a defesa não se insurgiu com relação ao presente ponto, uma vez que, apesar de ter oposto embargos de declaração, não instou a Corte estadual a se manifestar a respeito da prescrição com relação a cada crime específico.
+Dessa forma, conforme consignado, a análise diretamente por este Tribunal Superior incorreria em indevida supressão de instâncias.
+Por fim, no concernente à alegação de contradição ao argumento de que não pretende o reexame de fatos e provas, uma vez que a data estaria fixada em ato judicial, constou da decisão impugnada que "a Corte de origem consignou que, em razão de os fatos envolverem "envio de mensagens por conta eletrônica falsa", não era possível "a fixação segura e incontroversa do marco inicial do prazo decadencial"".
+Ou seja, na moldura fática delineada no acórdão proferido em sede de habeas corpus não constou a data do conhecimento do crime para fins de cálculo da decadência, de modo que não é possível, em sede de recurso em habeas corpus, alterar a moldura fática fixada no acórdão recorrido, uma vez que seria necessário revolvimento de fatos e provas para fins de aferir qual teria sido a data do conhecimento do ilícito.
+Assim, ausente a contradição arguida.
+Ante o exposto, acolho em parte os embargos de declaração sem efeitos infringentes.
+Publique-se. Intimem-se.
+EMENTA
