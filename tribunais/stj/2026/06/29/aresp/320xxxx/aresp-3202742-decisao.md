@@ -1,0 +1,42 @@
+DECISÃO
+LUCAS GUTTEMBERG TAVARES LINHARES agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais na Apelação Criminal n. 1.0000.24.524306.8002.
+O agravante foi condenado, pelo crime previsto no art. 157, §§ 2º, II e 2º-A, I, do Código Penal, à sanção de 9 anos, 8 meses e 20 dias de reclusão, mais 23 dias-multa, em regime inicial fechado.
+Nas razões do recurso especial, a defesa alegou violação do art. 128, X, da Lei Complementar n. 80/1994. Sustentou a ocorrência de cerceamento de defesa, pelo indeferimento do juízo do pleito da Defensoria Pública de solicitação de dados de geolocalização do telefone do acusado no momento dos fatos. Aduziu que a Defensoria Pública não tem a prerrogativa mandamental de solicitar dados de entes privados. Alegou que a prova solicitada era essencial na demonstração da negativa de autoria.
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O Ministério Público Federal manifestou-se, às fls. 1.356-1.360, pelo não conhecimento do AR Esp.
+Decido.
+I. Não admissibilidade do recurso especial
+A Corte de origem assim se manifestou quanto ao indeferimento da diligência pretendida (fls. 1.153-1.155):
+ ..
+Conforme visto, suscita a defesa de Lucas preliminar de nulidade por alegado cerceamento de defesa, ao argumento de que a decisão judicial que indeferiu o pedido de geolocalização do acusado comprometeu a elucidação dos fatos, uma vez que essa prova poderia ser determinante para sua defesa.
+Contudo, a despeito das judiciosas ponderações do il. defensor, após detida análise dos autos não vislumbro qualquer irregularidade a ensejar a decretação da alegada nulidade.
+No procedimento criminal, o indeferimento de pedido de realização de prova pericial é matéria reservada ao poder discricionário do juiz, quando da observância do preceito norteador da busca da verdade real, não caracterizando cerceamento de defesa o seu indeferimento, mormente diante da legalidade de todo o contexto probatório coligido aos autos, demonstrando o envolvimento do réu no delito de roubo majorado.
+O indeferimento do pedido formulado pela defesa encontra-se devidamente e escorreitamente fundamentado, vejamos:
+"A LC 80/94 prevê que, por meio do poder de requisição, que tem previsão constitucional (art. 134 da CRFB), a Defensoria Pública tem a legitimidade de solicitar às autoridades, agentes públicos e entidades privadas certidões, exames, perícias, vistorias, diligências, processos, documentos, informações, esclarecimentos e demais providências necessárias à sua atuação.
+É sabido que a Defensoria Pública consiste em função essencial à Justiça, possuindo regime jurídico diverso da advocacia privada por ter atribuições além da atuação estritamente individual e judicializada, já que precisa assegurar o cumprimento dos objetivos institucionais de primazia da dignidade humana e redução das desigualdades sociais, afirmação do Estado Democrático de Direito e prevalência e efetividade dos direitos humanos.
+A prerrogativa da requisição pertence às pessoas em situações de vulnerabilidades; amplia o acesso à justiça; evita maior sobrecarga do Judiciário; promove a democracia e os direitos humanos; para além de garantir a cidadania. Consoante cediço, constitui entendimento pacífico, inclusive no âmbito do Supremo Tribunal Federal, de que a previsão legal que confere às Defensorias Públicas o poder de requisitar de agentes e órgãos do poder público, assim como de entidades privadas, documentos, informações, materiais, esclarecimentos e providências indispensáveis ao cumprimento das suas funções institucionais não interfere no equilíbrio da relação processual, uma vez que viabilizam o acesso facilitado e rápido da coletividade e dos mais pobres a documentos e informações.
+Entre os precedentes, merece destaque o julgamento da ADI 6852, em que o Plenário do STF validou dispositivos com previsão semelhante na Lei Complementar 80/1994, que organiza a Defensoria Pública da União, do Distrito Federal e dos Territórios e dispõe sobre normas gerais das Defensorias estaduais.
+Segundo o relator do julgado acima referenciado, a Defensoria Pública é instituição essencial à função jurisdicional do Estado Democrático de Direito, na medida em que promove a efetivação dos direitos fundamentais, com destaque para a igualdade e a dignidade de pessoas mais necessitadas, assim como o acesso à Justiça. "Dessa forma, o poder de requisição é uma ferramenta fundamental para o desempenho da função constitucional da Defensoria Pública", concluiu.
+A Corte reconheceu a constitucionalidade dessa prerrogativa, por entender que o órgão exerce uma função essencial à Justiça e à democracia, notadamente na atuação coletiva e fiscalizadora.
+Outrossim, como dito alhures, o poder de requisição da Defensoria é uma ferramenta importante para garantir o acesso à justiça das pessoas mais vulneráveis, assegurando que elas tenham as informações e elementos necessários para exercer seus direitos e defender seus interesses na esfera judicial.
+Por oportuno, é missão institucional da Defensoria Pública a promoção do amplo acesso à justiça dos mais vulneráveis e a redução das desigualdades, motivo pelo qual atribuiu-se à Defensoria Pública o dever de proteção dos direitos humanos e a tutela de direitos coletivos, abandonando qualquer enfoque anterior, restrito à mera assistência judiciária gratuita.
+Esse o cenário, e considerando o poder requisitório da Defensoria Pública no que tange, não somente as autoridades e agentes públicos, mas também entidades privadas, indefiro o pleito de expedição de ofício nos moldes pretendidos, encargo que incumbe à defesa." (fls. 900/901).
+No caso em tela, verifica-se que a prova solicitada pela defesa não seria determinante e necessária à elucidação do caso concreto, dado que o referido processo possuía um lastro probatório robusto, formado por prova testemunhal e elementos colhidos na fase investigatória, ou seja, a geolocalização do apelante serviria apenas como adendo aos demais conjuntos de prova.
+Ademais, a il. Magistrada a quo obedeceu rigorosamente aos ditames obrigatórios do art. 93, XI, da Constituição Federal, referente à fundamentação, não havendo que se falar em nulidade do decisum, tampouco em cerceamento de defesa ou ofensa aos princípios do contraditório e ampla defesa.
+Diante do exposto, rejeito a preliminar.
+O STJ compreende ser possível ao Juízo indeferir diligências desnecessárias ou procrastinatórias. A Corte antecedente asseverou que a diligência pleiteada (geolocalização do WhatsApp) não "seria determinante e necessária à elucidação do caso concreto, dado que o referido processo possuía lastro probatório robusto" (fl. 1.154).
+Portanto, a par de se discutir o alcance do poder de requisição da Defensoria Pública perante instituições privadas, seria necessário empreender a análise sobre a pertinência da prova requerida, o que seria inviável, na via eleita, por demandar incursão probatória vedada, segundo o disposto na Súmula n. 7 do STJ.
+Sobre o tema, cito os seguintes precedentes:
+ ..
+2. Quanto à produção de provas, cabe lembrar que o Código de Processo Penal, em seu art. 400, § 1º, autoriza, expressamente, o magistrado a indeferir as provas que considerar irrelevantes, impertinentes ou protelatórias, sendo ele o destinatário final da atividade probatória.
+3. O indeferimento fundamentado da prova requerida pela defesa não revela cerceamento quando justificada sua desnecessidade para o deslinde da controvérsia, conforme jurisprudência consolidada desta Corte Superior.
+4. Registre-se que, para se alcançar conclusão diversa, acerca da efetiva utilidade da prova, seria necessário o revolvimento do conjunto fático-probatório da ação penal, o que é inviável em sede de habeas corpus.
+5. Ordem denegada.
+(HC n. 975.653/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJEN 19/2/2026.)
+ ..
+1. A alegação de cerceamento de defesa pelo indeferimento de produção de prova e o pleito de afastamento da causa de aumento com base na incompatibilidade dos valores demandam reexame de fatos e provas, vedado pela Súmula n. 7 do STJ  ..
+(REsp n. 2.215.136/RS, relator Ministro Og Fernandes, 6ª T., DJEN 15/12/2025.)
+II. Dispositivo
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
