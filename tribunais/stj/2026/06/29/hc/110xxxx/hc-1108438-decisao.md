@@ -1,0 +1,38 @@
+DECISÃO
+RICARDO SILVA DIAS DE SOUSA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo em Execução n. 0002082-43.2026.8.26.0050.
+A defesa sustenta que o período de recolhimento domiciliar noturno e nos dias de folga deve ser detraído da pena, por ter restringido a liberdade do paciente. Afirma que o acórdão afastou a detração sob o fundamento de ausência de previsão legal. Aduz que as horas de recolhimento devem ser convertidas em dias, desprezando-se frações inferiores a 24 horas. Alega excesso de execução diante da negativa de cômputo do período cautelar.
+Requer a concessão da ordem, em caráter liminar e definitivo, para cassar o acórdão e manter a detração do período de recolhimento domiciliar noturno e nos dias de folga.
+Decido.
+O Juízo da VEC assim decidiu a controvérsia (fls. 37):
+Assiste razão à Defesa quanto ao cabimento da detração. Isto porque, ao analisar o Tema 1155, a Terceira Seção do C. Superior Tribunal de Justiça fixou, por unanimidade, sob o rito dos recursos repetitivos, três teses sobre o reconhecimento do período de recolhimento obrigatório noturno e nos dias de folga para fins detração da pena privativa de liberdade.
+O Tribunal de origem, por sua vez, deu provimento ao agravo ministerial (fl. 11):
+AGRAVO EM EXECUÇÃO PENAL. DETRAÇÃO. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. CÁLCULO DE PENA. PROVIMENTO AO RECURSO MINISTERIAL. Agravo em Execução Penal, formulado pelo Ministério Público do Estado de São Paulo em face de decisão que deferiu o pedido de detração penal formulado pela defesa, relativamente ao período em que o sentenciado esteve submetido à medida cautelar diversa da prisão, consistente em recolhimento domiciliar noturno e nos dias de folga, durante o curso da liberdade provisória. O artigo 42 do Código Penal não prevê a detração para medidas cautelares diversas da prisão, como o recolhimento domiciliar noturno. Jurisprudência do STF e decisões monocráticas reforçam a ausência de previsão legal para detração em tais casos. Inaplicabilidade, ao caso, da Tese vazada no Tema 1155, do C. Superior Tribunal de Justiça.
+Agravo provido para cassar a detração e retificar o cálculo de penas.
+É possível o avanço para a pronta solução do habeas corpus, pois existe precedente vinculante sobre o tema, firmado em recurso especial julgado sob o rito dos recursos repetitivos.
+O art. 42 do Código Penal estabelece que se computam, na pena privativa de liberdade, o tempo de prisão provisória, de prisão administrativa e de internação.
+A jurisprudência do Superior Tribunal de Justiça, contudo, em interpretação teleológica e consentânea com os princípios da proporcionalidade e da vedação à dupla punição pelo mesmo fato, ampliou o alcance da norma para abranger situações que, embora não se configurem como prisão em sentido estrito, representam efetiva restrição à liberdade de locomoção.
+Nesse sentido, a Terceira Seção desta Corte, no julgamento do REsp n. 1.977.135/SC, sob o rito dos recursos repetitivos (Tema n. 1.155), pacificou a controvérsia e firmou as seguintes teses:
+1. O período de recolhimento obrigatório noturno e nos dias de folga, por comprometer o status libertatis do acusado, deve ser reconhecido como período a ser detraído da pena privativa de liberdade e da medida de segurança, em homenagem aos princípios da proporcionalidade e do non bis in idem.
+2. O monitoramento eletrônico associado, atribuição do Estado, não é condição indeclinável para a detração dos períodos de submissão a essas medidas cautelares, não se justificando distinção de tratamento ao investigado ao qual não é determinado e disponibilizado o aparelhamento.
+3. As horas de recolhimento domiciliar noturno e nos dias de folga devem ser convertidas em dias para contagem da detração da pena. Se no cômputo total remanescer período menor que vinte e quatro horas, essa fração de dia deverá ser desprezada.
+A fundamentação do precedente vinculante é a de que a submissão do indivíduo ao recolhimento domiciliar noturno, por restringir severamente sua liberdade, assemelha-se ao cumprimento de pena, o que justifica o cômputo desse período na sanção final para evitar punição em duplicidade.
+O Tema n. 1.155 não estabeleceu, como requisito para a detração, a identidade entre a natureza da medida cautelar e o regime prisional imposto. O critério definido foi objetivo: a existência de comprometimento da condição de liberdade.
+Ilustrativamente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. DETRAÇÃO. PERÍODO DE RECOLHIMENTO DOMICILIAR NOTURNO. POSSIBILIDADE. MATÉRIA PACIFICADA EM RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Terceira Seção do Superior Tribunal de Justiça, em recurso especial representativo da controvérsia, firmou a compreensão majoritária "de se admitir a detração, na pena privativa de liberdade, do período de cumprimento da medida cautelar do art. 319, V, do Código de Processo Penal - CPP, com ou sem monitoração eletrônica. No cálculo, as horas de recolhimento domiciliar obrigatório devem ser somadas e convertidas em dias, desprezando-se o período inferior a 24 horas" (AgRg no HC n. 733.909/MG, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 15/8/2022).
+2. Agravo regimental não provido.
+(AgRg no HC n. 558923/SC, Rel. Ministro Rogerio Schietti Cruz, 6ª T., DJe 19/4/2023).
+A jurisprudência desta Corte Superior também não estabeleceu distinção quanto à natureza da pena definitivamente imposta. O fundamento do Tema Repetitivo n. 1.155 reside no reconhecimento de que o recolhimento obrigatório noturno e nos dias de folga compromete significativamente a condição de liberdade do acusado e deve ser reconhecido como período a detrair em homenagem aos princípios da proporcionalidade e da vedação à dupla punição.
+Cumpre destacar que o Tribunal de origem fundamentou seu acórdão em julgado da Primeira Turma do Supremo Tribunal Federal para reforçar argumento contrário à redação do Tema n. 1.155 do Superior Tribunal de Justiça.
+Porém, há divergência no Supremo Tribunal Federal sobre a matéria.
+Cito, no mesmo sentido da decisão embargada, julgado da 2ª Turma do STF e destaco que a Corte Constitucional não estabeleceu tese jurídica de repercussão geral em sentido contrário ao Tema Repetitivo. Confira-se:
+ ..  1. O recolhimento domiciliar noturno, por comprometer o status libertatis do investigado, deve ser computado para efeitos de detração penal quando houver semelhança e homogeneidade entre a medida cautelar aplicada no curso do processo e a pena imposta na sentença condenatória, em homenagem aos princípios da proporcionalidade e do non bis in idem.
+2. Ante a lógica da detração, destinada a evitar o bis in idem no cumprimento da pena, deve-se proceder à analogia in bonam partem.
+3. Agravo regimental provido para determinar a detração, da pena final aplicada, do período em que o recorrente cumpriu medida cautelar de recolhimento noturno e nos dias de folga.
+(RHC 190429 AgR, Rel. Ministro Edson Fachin, 2ª T., pub. 27/6/2024.)
+Este julgado da Segunda Turma do Supremo Tribunal Federal demonstra claramente que não há uniformidade no entendimento daquela Corte sobre a matéria, que fundamente eventual revogação do Tema Repetitivo n. 1.155 do STJ.
+A decisão apontada como ato coator, portanto, está em discordância com o entendimento vinculante do Superior Tribunal de Justiça e merece reparo.
+À vista do exposto, concedo a ordem em habeas corpus para restabelecer a decisão do Juízo da execução.
+Comunique-se, com urgência, o inteiro teor da presente decisão às instâncias ordinárias
+Publique-se e intimem-se.
+EMENTA
