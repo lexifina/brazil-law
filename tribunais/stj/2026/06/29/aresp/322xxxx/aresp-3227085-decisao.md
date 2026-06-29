@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo ESTADO DE RONDÔNIA, contra inadmissão, na origem, de recurso especial fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado (fl. 325):
+ADMINISTRATIVO. PROCESSUAL CIVIL. RECURSO DE APELAÇÃO. SERVIDOR PÚBLICO FEDERAL. TÉCNICO EM RADIOLOGIA. JORNADA DE TRABALHO. 24 HORAS SEMANAIS. LEI 7.394/1985. PREVALÊNCIA DE NORMA ESPECIAL SOBRE GERAL. APELAÇÃO DESPROVIDA.
+1. Trata-se de apelação interposta pelo Estado de Rondônia, em face de sentença que julgou procedente o pedido do Conselho Regional de Técnicos em Radiologia - 18ª Região RO/AC e determinou ao Estado de Rondônia que proceda a imediata redução da carga horária dos servidores Técnicos em Radiologia, tanto celetistas (se houver) quanto estatutários, para o limite máximo de 24 (vinte e quatro) horas semanais, acrescentando ao vencimento básico de cada um, tendo por parâmetro o valor de R$ 1.090,00 (mil e noventa reais) fixado pelo Supremo Tribunal Federal, o adicional de 40% (quarenta por cento) a título de insalubridade.
+2. O Estado de Rondônia, por meio do Edital 013/GCP/SEGEP/2017, abriu concurso público para o cargo de Técnico em Radiologia e técnico em Radioterapia, com carga horária de 40 horas semanais e vencimento de R$ 1.253,29, mais benefícios legais cabíveis.
+3. A Lei Federal 7.394/85, ao dispor sobre a regulamentação e o exercício da profissão de Técnico em Radiologia, estabeleceu, em seu artigo 14, a limitação da carga horária semanal a 24 horas. Tal restrição fundamenta-se na natureza insalubre da atividade desempenhada, considerando que a exposição dos profissionais à radiação, quando excedente aos limites legalmente permitidos, pode ocasionar graves prejuízos à saúde.
+4. Apelação do Estado de Rondônia desprovida.
+Não foram opostos embargos de declaração.
+Em seu recurso especial, às fls. 338-348, a parte recorrente sustenta violação aos arts. 14 e 16, ambos da Lei n. 7.394/1985, argumentando, para tanto, que:
+Quanto a esta violação, o Tribunal se limitou a fundamentar sua decisão no sentido de que a lei em voga se aplicaria ao Estado de Rondônia em razão da competência privativa da União para editar "normas gerais" sobre emprego e suas condições, nos termos do art. 22, XVI, da Constituição Federal.
+Ocorre que o art. 14 prevê que a jornada de trabalho dos profissionais regidos por essa lei será de 24 horas semanais, enquanto o art. 16 preconiza a gratificação de 40% por risco de vida e insalubridade.
+Entretanto, há de se reconhecer que a lei n. 7.394/85 foi erroneamente aplicada ao caso concreto, tendo em vista a impossibilidade de estendê-la aos servidores públicos estatutários dos demais entes públicos, sendo que, como cediço, uma lei mal aplicada é, naturalmente, uma lei violada.
+(..)
+Considerando que os Técnicos de Radiologia que possuem vínculo estatutário com o Estado de Rondônia estão abarcados por lei estadual que dispõe sobre o seu regime jurídico, não é cabível que sejam impostas, a estes servidores, regras contidas em lei federal, que na verdade regular profissional no âmbito privado. (fls. 345-346, sic)
+No mais, aponta ofensa aos arts. 489, §1º, inciso IV, e 1.022, ambos do Código de Processo Civil, uma vez que "o Tribunal de origem deixou de se pronunciar sobre pontos de grande importância para a solução do caso em tela" (fl. 346).
+O Tribunal de origem, no entanto, inadmitiu o recurso especial, conforme trecho in verbis (fl. 448):
+(..)
+A teor do dispositivo ao final lançado, tem-se que o recurso não merece trânsito pelo não-atendimento integral aos seus pressupostos admissionais, notadamente porque há aparente necessidade de revolver probatório, vedado pela SÚMULAS 07/STJ e 279/STF, e/ou tentativa de superação de jurisprudência atual do STJ e/ou não-demonstração de que tenha havido, em tese, frontal violação ao sentido evidente de norma(s) federal(is) infraconstitucional(is); há aparente manejo do Recurso Especial como se 3ª Instância Recursal ordinária fosse.
+Prestigia-se, pois, o acórdão do colegiado do TRF1, também aqui invocado, por sua ampla fundamentação, julgado que não aparenta ostentar, ademais, quaisquer dos vícios do art. 1.022 do CPC/2025 nem se apresentou hipótese real de divergência jurisprudencial qualificada.
+Em seu agravo, às fls. 491-497, a parte agravante afirma que:
+(..) ao contrário do que equivocadamente afirmado na decisão combatida, data maxima venia, a celeuma não repousa na ocorrência ou não de determinado fato no mundo concreto, mas, sim, acerca da sua capitulação jurídica, isto é, do respectivo regramento a reger os seus consectários.
+Noutras palavras, uma vez que a conjuntura fática observada nos autos dispensa qualquer revolvimento, restando à toda vista incontroversa, a celeuma ventilada no recurso especial interposto se limita ao campo jurídico constitucional, razão pela qual inoponível, in casu, o óbice estabelecido na Súmula n. 07 deste Supremo Sodalício. (fl. 494, sic)
+Outrossim, alega que, " silente o acórdão regional acerca do eventual contexto em que devido o pretendido adicional insalutífero, inegável a apontada violação dos arts. 489, §1º, e 1.022, ambos do Código de Processo Civil" (fl. 496).
+É o relatório.
+Decido.
+O recurso não comporta conhecimento.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto a parte agravante não infirmou especificamente nenhum dos fundamentos utilizados para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se em dois fundamentos distintos: (i) - incidência do enunciado 7 da Súmula do STJ, tendo em vista a impossibilidade de revisão do acervo probatório e (ii) - inexistência da alegada ofensa ao art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida.
+Entretanto, em sede de agravo em recurso especial a parte recorrente deixou de infirmar especificamente e a contento, ambos os fundamentos da decisão de inadmissibilidade, os quais, à míngua de fundamentação pormenorizada, detalhada e específica, permanecem hígidos, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar os fundamentos do juízo de admissibilidade realizado pelo Tribunal de origem, a parte agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intimem-se.
+EMENTA
+DIREITO ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC E 253, P. Ú, I, DO RISTJ. AGRAVO NÃO CONHECIDO.
