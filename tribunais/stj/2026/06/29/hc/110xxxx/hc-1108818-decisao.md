@@ -1,0 +1,30 @@
+DECISÃO
+WASHINGTON ONOFRIO BEMFICA COLOVATTI alega sofrer constrangimento ilegal em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Agravo Interno na Revisão Criminal n. 0011514-76.2025.8.26.0000/50000).
+Consta dos autos que o paciente foi condenado à pena de 6 anos, 9 meses e 20 dias de reclusão, em regime fechado, mais multa, pela prática do crime de tráfico de drogas.
+Neste writ, a defesa afirma que não há elementos objetivos que indiquem dedicação do acusado a atividades criminosas.
+Requer a aplicação da causa de diminuição na fração máxima de 2/3, fixação do regime aberto e substituição da pena privativa de liberdade por restritivas de direitos.
+Decido.
+Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida." (AgRg no AgRg no AREsp n. 2.458.375/RS, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 13/11/2023).
+No caso, o Tribunal de origem, no julgamento do agravo interno na revisão criminal, considerou indevida a incidência do referido redutor, com base nos seguintes argumentos (fls. 86-94, grifei):
+O pedido formulado pelo recorrente, na revisão criminal, restou indeferido liminarmente, nos seguintes termos:
+ ..
+Estabelecidas tais premissas, pretende o requerente a revisão da condenação, sob o fundamento inicial de que a reprimenda teria sido estabelecida em desconformidade com as provas carreadas aos autos.
+ ..
+As sanções foram bem individualizadas, oportunidade em que esta E. Corte bem observou os ditames contidos no art. 59, caput, do Código Penal c. c. art. 42 da Lei nº 11.343/06, como se depreende dos seguintes excertos (fls. 370/379):
+(..) Quanto ao corréu (..) WASHINGTON, tendo cm vista a excessiva quantidade de entorpecente apreendido, é aplicada a pena-base em 05 (cinco) anos e 10 (dez) meses de reclusão e pagamento de 583 (quinhentos oitenta e três) dias-multa. Diante da causa de aumento de pena disposta Diante da causa de aumento da pena disposta no art. 40, inciso IM. da Dei nº 11.343/06, exaspera-se em 1/6 (um sexto), o que perfaz (..) 06 (seis) anos, 09 (nove) meses e 20 (vinte) dias de reclusão e pagamento de 680 (seiscentos e oitenta) dias-multa, para WASHINGTON. Embora reconhecida a primariedade dos acusados FRANCIELE e WASHINGTON, não há dúvidas de que os apelantes se dedicavam à atividade criminosa (..). Afasta-se, portanto, a incidência da causa de diminuição de pena disposta no art. 33, §4º da Lei nº 11.343/06.
+ ..
+Destarte, não configurada a hipótese arguida como argumento da pretensão - a contrariedade da condenação à evidência dos autos, (art. 621, I, CPP) - não há falar no acolhimento da pretensão revisional.
+No julgamento da apelação criminal, a Corte estadual destacou que "Embora reconhecida a primariedade dos acusados FRANCIELI e WASHINGTON, não há dúvida de que os apelantes se dedicavam a atividade criminosa, mormente se considerando que FRANCIELI disse que já estava guardando drogas para os corréus há pelo menos dois meses" (fl. 40, grifei)
+Todavia, o fato de a corré ter confessado que guardava drogas há dois meses para o paciente, não é o bastante, ao menos no caso concreto, para levar à conclusão de que ele se dedica, com certa frequência e anterioridade, ao tráfico de drogas de forma habitual.
+Portanto, à ausência de fundamento suficiente para justificar o afastamento da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei de Drogas, deve a ordem ser concedida, a fim de aplicar, em favor do paciente, o referido benefício.
+No que tange ao quantum de redução de pena, considero, dentro do livre convencimento motivado e à luz das peculiaridades do caso concreto, ser suficiente e adequada a diminuição da reprimenda no patamar de 2/3, por se tratar de réu primário e a quantidade de droga não ser exorbitante (1,365 kg de maconha e 20,8 g de cocaína).
+Em razão da modificação efetivada anteriormente, deve ser realizada a nova dosimetria da pena.
+Na primeira fase, a reprimenda-base ficou estabelecida em 5 anos e 10 meses de reclusão e pagamento de 583 dias-multa (fl. 39), mantida na segunda etapa. Na terceira fase, aumento a pena em 1/6, pela majorante do art. 40, III, da Lei de Drogas e, após, reduzo a reprimenda em 2/3 em decorrência da minorante descrita no § 4º do art. 33 da Lei de Drogas. Consequentemente, fica a sanção do acusado definitivamente estabelecida em 2 anos, 3 meses e 6 dias de reclusão mais o pagamento de 266 dias-multa.
+Uma vez que o paciente foi condenado a reprimenda inferior a 4 anos de reclusão, era tecnicamente primário ao tempo do delito, foi beneficiado com a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, mas sem perder de vista a existência de circunstâncias judiciais negativas (tanto que a pena base foi estabelecida acima do mínimo legal), fixo o regime inicial semiaberto, nos termos do art. 33, § 2º, "b", e § 3º, do Código Penal, com observância, ainda, ao preceituado no art. 42 da Lei n. 11.343 /2006.
+Pelo mesmo motivo, o réu não faz jus à substituição da pena privativa de liberdade por restritivas de direitos.
+À vista do exposto, concedo a ordem, in limine, a fim de reconhecer a incidência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 em favor do acusado, aplicá-la no patamar de 2/3 e, por conseguinte: a) reduzir a sua reprimenda para 2 anos, 3 meses e 6 dias de reclusão mais o pagamento de 266 dias-multa e b) fixar o regime inicial semiaberto.
+Determino a imediata expedição de alvará de soltura ao paciente, se por outro motivo não estiver preso.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
+ EMENTA
