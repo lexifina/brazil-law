@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de SIDIRLEY ZULATO DOS SANTOS, condenado e em execução de pena, cuja progressão ao regime aberto foi concedida pelo Juízo da execução em 6/2/2026 e posteriormente cassada em grau recursal, com retorno ao regime semiaberto (Processo n. 0001179-28.2026.8.26.0496, DEECRIM 6ª RAJ - Ribeirão Preto/SP).
+Os impetrantes apontam como autoridade coatora o Tribunal de Justiça de São Paulo, que, em 18/6/2026, deu provimento ao recurso ministerial, cassando a decisão que havia deferido a progressão ao regime aberto e determinando o retorno do paciente ao regime semiaberto (Agravo de Execução Penal n. 0001179-28.2026.8.26.0496).
+Alegam violação ao direito à progressão por equiparação indevida do Parecer da Comissão Técnica de Classificação ao exame criminológico pericial, sem realização de avaliação multidisciplinar individualizada, prevista na Lei de Execução Penal e referida pela Súmula Vinculante n. 26/STF e pela Súmula n. 439/STJ.
+Sustenta desconsideração do laudo psicológico favorável, elaborado por profissional habilitada, sem fundamentação técnica idônea.
+Afirma que o acórdão não indicou vício metodológico, contradição interna ou razão concreta para afastar o relatório psicológico.
+Defende que o histórico disciplinar valorizado é antigo e reabilitado, com última falta em 2019, e que as doze saídas temporárias realizadas entre 2017 e 2025 foram sem intercorrências recentes, demonstrando evolução e reabilitação.
+Aduz ofensa ao princípio da individualização da pena e à proporcionalidade, pois se adotou critério burocrático e automático, privilegiando parecer administrativo da CTC em detrimento de avaliação técnica especializada, sem análise atual e concreta das condições pessoais do sentenciado.
+Aponta inadequada aplicação do in dubio pro societate na execução penal, invocada no acórdão, por contrariar entendimento do Superior Tribunal de Justiça de que, na execução, prevalece o princípio da legalidade na verificação dos requisitos para a progressão
+Em caráter liminar, pede a manutenção do paciente no regime aberto até o julgamento definitivo do writ.
+No mérito, requer a concessão definitiva da ordem para confirmar a progressão ao regime aberto do paciente, declarando-se a ilegalidade do acórdão e restabelecendo integralmente a decisão de primeiro grau (fls. 2/11).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a inviabilidade do presente writ.
+O Tribunal local cassou a progressão com base nos seguintes fundamentos (fls. 17/18):
+Na hipótese, o agravante cumpre pena de 27 anos, 3 meses e 15 dias de reclusão pela prática de crimes graves, como roubo majorado, entre outros, com término de cumprimento da pena previsto para 29/07/2038 (fls. 73/82).
+Não obstante a necessidade de maior rigor na análise do requisito subjetivo para a progressão de regime, o juízo a quo deferiu, em 06/02/2026, o pedido de progressão ao regime aberto formulado pela defesa, mesmo com o resultado negativo do exame criminológico (fls. 129/131).
+Com efeito, os elementos coligidos no processo demonstram que o sentenciado não reúne, por ora, as condições pessoais necessárias para a progressão, pois ostenta relevante histórico criminal, marcado pela prática de crimes com violência à pessoa e cometimento de faltas graves durante o cumprimento da pena, revelando traços de personalidade incompatíveis, neste momento, com a adequada reinserção social e com a observância das normas de convivência em sociedade, além de longa pena a cumprir, com TCP para a data de 29/07/2038.
+Nota-se, ademais, que, em que pese o relatório psicológico favorável ao sentenciado, o exame criminológico elaborado pela Comissão Técnica de Classificação se posicionou contrariamente à concessão da progressão ao regime aberto (fls. 121), pontuando que: "Verifica-se que o reeducando apresenta extenso histórico disciplinar, com registros de faltas de natureza média e grave, incluindo condutas de elevada gravidade institucional, tais como tentativa de fuga, posse de objeto e aparelho celular, bem como descumprimento de normas e não retorno de saída temporária, circunstâncias que comprometem a avaliação das condições subjetivas exigidas para a concessão de benefícios."
+A jurisprudência deste Tribunal Superior admite que aspectos negativos do exame criminológico desfavorável, ainda que favorável a conclusão, constitui fundamento válido para o indeferimento do benefício (AgRg no HC n. 1.030.765/AL, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 19/5/2026, DJEN de 26/5/2026).
+Nessa mesma linha: AgRg no AREsp n. 3.117.158/SP, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 20/5/2026, DJEN de 25/5/2026; AgRg no HC n. 1.074.343/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 29/4/2026, DJEN de 5/5/2026.
+No caso, as instâncias de origem extraíram conclusão sobre a falta de requisito subjetivo do exame criminológico, especificamente do relatório elaborado pela Comissão Técnica de Classificação, não havendo como afastar tal conclusão sem se imiscuir em provas, medida essa incabível na via eleita.
+É certo que o habeas corpus tem suas hipóteses de cabimento restritas e não deve ser utilizado a fim de provocar a discussão de temas afetos a recurso de apelação criminal, a recurso especial, a agravo em execução, recurso em sentido estrito, tampouco deve vir como sucedâneo de revisão criminal.
+A ilegalidade passível de justificar a impetração desse remédio constitucional deve ser manifesta, de constatação evidente, restringindo-se a questões de direito que não demandem incursão em fatos e provas da ação penal ou exijam dilação probatória, inclusive no que diz respeito à execução penal.
+Assim, não demonstrado constrangimento ilegal a ser sanado.
+Ausente flagrante ilegalidade.
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO. TEOR DE EXAME CRIMINOLÓGICO. VALORAÇÃO DE ASPECTOS NEGATIVOS DO RELATÓRIO. POSSIBILIDADE. PRECEDENTES. INCURSÃO EM PROVAS. IMPOSSIBILIDADE.
+Petição inicial indeferida liminarmente.
