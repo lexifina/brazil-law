@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por SIDINEI CARDOSO PAES contra decisão de fls. 510-511, que inadmitiu o recurso especial com fundamento nas Súmulas n. 7 e 83 do Superior Tribunal de Justiça.
+O agravante foi condenado como incurso nos arts. 155, caput, c/c 14, II e art. 307, na forma do art. 69, todos do Código Penal, à pena de 9 meses de reclusão, mais multa e 3 meses e 11 dias de detenção, mais multa.
+Interpostas apelações pelo Ministério Público e pela Defesa, o Tribunal de Justiça de origem negou provimento aos recursos.
+No recurso especial, sustenta-se violação dos arts. 155, caput, c/c 14, II, do Código Penal e 386, III, do Código de Processo Penal, aduzindo que o acórdão recorrido afastou indevidamente a aplicação do princípio da insignificância, apesar do reduzido valor do bem (R$ 59,90), da restituição da res furtiva e da mínima ofensividade da conduta, mantendo condenação desproporcional e contrária à tipicidade material. Requer, portanto, a absolvição pela atipicidade do fato.
+No agravo em recurso especial, a parte sustenta que a decisão agravada aplicou indevidamente as Súmulas 7 e 83/STJ.
+Contraminuta apresentada (fls. 557-559).
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo, nos termos da seguinte ementa (fl. 578):
+AGRAVO EM RECURSO ESPECIAL. FURTO TENTADO. ART. 155, CAPUT, C/C ART. 14, II, DO CÓDIGO PENAL. CAIXA DE SOM MULTIMÍDIA AVALIADA EM R$ 59,90. RES FURTIVA RESTITUÍDA À VÍTIMA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. AGENTE PORTADOR DE MAUS ANTECEDENTES POR CONDENAÇÃO ANTERIOR PELA PRÁTICA DE DELITO DA MESMA NATUREZA. HABITUALIDADE DELITIVA CONFIGURADA. DEFICIÊNCIA NA IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. PRETENSÃO QUE DEMANDA REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESSA CORTE SUPERIOR. SÚMULA 83/STJ. PARECER PELO DESPROVIMENTO DO AGRAVO.
+É o relatório.
+Os requisitos de admissibilidade foram atendidos, inclusive tendo a defesa impugnado cada ponto da decisão agravada. Passa-se a análise do recurso especial.
+A tese central do presente recurso especial é a violação aos arts. 155, caput, c/c 14, II, do Código Penal e 386, III, do Código de Processo Penal, com a consequente absolvição da recorrente, em razão da aplicação do princípio da insignificância.
+Delimitada a controvérsia, destaca-se o entendimento firmado pela Corte local (fls. 477-478):
+O Supremo Tribunal Federal fixou quatro balizas para a aplicação do princípio da insignificância, quais sejam: mínima ofensividade da conduta do agente; a ausência de periculosidade social da ação; o reduzidíssimo grau de reprovação e a inexpressividade da lesão jurídica causada: ..
+Nesse contexto, a jurisprudência sedimentou entendimento no sentido de que as condições pessoais do agente devem ser analisadas em conjunto com os requisitos objetivos para o afastamento do crime com fundamento no princípio da insignificância.
+Sendo assim, é necessário observar certos requisitos como o valor do bem, a conduta e os antecedentes do acusado a fim de verificar se a aplicação do princípio da insignificância não prejudicará os fins da pena de reprovação e prevenção do crime.
+In casu, não se pode falar em reduzidíssimo grau de reprovação, uma vez que o apelante possui condenação anterior por delito da mesma natureza (CAC de ordem nº27), o que afasta a aplicabilidade do princípio da insignificância.
+Nesse contexto, o reconhecimento da irrelevância material da conduta do acusado, no caso, serviria muito mais como um estímulo ao cometimento de novos delitos, em condição contrária ao sentido do benefício legal da bagatela.
+É firme o entendimento deste Superior Tribunal de Justiça no sentido de que a reincidência e os maus antecedentes, como regra, afastam a incidência do princípio da insignificância. Cumpre destacar, entretanto, que tais vetores não podem ser analisados de forma isolada, pois não constituem diretrizes absolutas, devendo ser sopesados à luz das circunstâncias objetivas do caso concreto.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. ATIPICIDADE MATERIAL DA CONDUTA. REINCIDÊNCIA. REDUZIDO VALOR DA RES FURTIVA. PRINCÍPIO DA INSIGNIFICÂNCIA. INCIDÊNCIA. AGRAVO PROVIDO.
+1. A incidência do princípio da insignificância pressupõe a concomitância de quatro vetores: a mínima ofensividade da conduta do agente; nenhuma periculosidade social da ação; o reduzidíssimo grau de reprovabilidade do comportamento; e a inexpressividade da lesão jurídica provocada.
+2. No caso destes autos, o agravado foi condenado por furtar 1 (uma) garrafa de Whisky, marca Passaporte, de valor mercadológico aproximado a R$ 30,00 (trinta reais).
+3. Não obstante a reincidência relacionada à prática de delito da mesma natureza do narrado na denúncia, verifico que o reduzido valor do produto menos de 5% do salário mínimo vigente à época dos fatos, revela que o dano causado ao bem jurídico tutelado foi irrelevante, de modo que não se constata interesse social na intervenção do Estado por meio do Direito Penal.
+4. Assim, na espécie, a situação enquadra-se dentre as hipóteses excepcionais em que é recomendável a aplicação do princípio da insignificância, reconhecendo-se a atipicidade material da conduta.
+5. Agravo regimental provido"
+(AgRg no AREsp n. 1.668.699/TO, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 15/6/2020).
+No caso, verifica-se que o Tribunal de origem afastou a aplicação do princípio da insignificância em razão da elevada reprovabilidade da conduta, uma vez que o recorrente ostenta condenação anterior por delito da mesma natureza.
+Contudo, o caso concreto revela circunstâncias que afastam a conclusão adotada na decisão agravada. Embora o recorrente seja reincidente, trata-se de uma tentativa de subtração, sem violência ou grave ameaça, de uma caixa de som avaliada em R$ 59,90, a qual foi apreendida e restituída ao proprietário do estabelecimento, circunstância que evidencia a inexpressividade da lesão jurídica.
+Ressalte-se que o valor do bem corresponde a aproximadamente 5,7% do salário mínimo vigente à época dos fatos (R$ 1.045,00), percentual inferior ao patamar de 10% que esta Corte Superior usualmente utiliza como referência para aferir a incidência do princípio da insignificância.
+Nesse contexto, a mínima ofensividade da conduta, a ausência de periculosidade social da ação, o reduzido grau de reprovabilidade e a ínfima lesão ao patrimônio - cumulativamente presentes - revelam a excepcionalidade necessária para o reconhecimento da atipicidade material, ainda que exista anotação anterior por delito da mesma natureza.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "c", do Regimento Interno do STJ e na Súmula n. 568 do STJ, conheço do agravo para dar provimento ao recurso especial, a fim de absolver o agravante do delito de furto tentado (Processo n. 0055799-46.2020.8.13.0145, 4ª Vara Criminal da Comarca de Juiz de Fora/MG).
+Publique-se.
+Intimem-se.
+ EMENTA
