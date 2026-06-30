@@ -1,0 +1,106 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/06/2026 a 30/06/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. No caso dos autos, não houve impugnação específica de todos os fundamentos da decisão que inadmitiu o recurso especial.
+2. Para que se considere adequadamente impugnada a Súmula n. 7/STJ, o agravo em recurso especial deve empreender um cotejo entre os fatos estabelecidos no acórdão recorrido e as teses recursais, mostrando em que medida essas não exigem a alteração do quadro fático delineado pelo Tribunal local, o que não se observa quando apenas se reafirmam as razões do recurso obstado.
+3. Em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por LUIZ FERNANDO SALLES FLORES contra decisão proferida pela Presidência do STJ, que não conheceu do agravo em recurso especial com base na Súmula n. 182/STJ (fls. 1.262-1.263).
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA cuja ementa guarda os seguintes termos (fls. 1.179-1.180):
+DIREITO CIVIL E CONSUMIDOR. APELAÇÃO CÍVEL. AÇÃO COMINATÓRIA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CONTRATO EDUCACIONAL. DESCUMPRIMENTO DE ACORDO DE RENEGOCIAÇÃO DE DÉBITO. INOVAÇÃO RECURSAL. AUSÊNCIA DE DANO MORAL INDENIZÁVEL. MANUTENÇÃO DA SENTENÇA.
+I. CASO EM EXAME
+1. Apelação cível interposta por estudante contra sentença que reconheceu o inadimplemento contratual da instituição de ensino ao não liberar acesso ao curso após pagamento da entrada em acordo de renegociação, determinando a rematrícula do autor. Indeferiu, contudo, os pedidos de indenização por danos morais, materiais e pelo tempo perdido.
+II. QUESTÃO EM DISCUSSÃO
+2. As questões em discussão consistem em saber se: (i) é admissível a análise, em sede recursal, de alegações não submetidas ao juízo de origem; (ii) o inadimplemento contratual da instituição configura, por si só, dano moral indenizável; (iii) é cabível a devolução em dobro do valor pago a título de entrada no acordo, nos termos do art. 42, parágrafo único, do CDC.
+III. RAZÕES DE DECIDIR
+3. As alegações formuladas apenas em sede recursal configuram inovação vedada, nos termos dos arts. 1.013, §1º, e 329 do CPC, não sendo possível seu conhecimento.
+4. O descumprimento do acordo pela instituição de ensino, embora configurado, não se reveste de gravidade suficiente para justificar o reconhecimento de dano moral, ausente prova de repercussão extraordinária, constrangimento ou violação à personalidade do aluno.
+5. A quantia paga a título de entrada decorreu de acordo que o próprio autor pretende manter, não havendo prova de cobrança indevida ou exigência em duplicidade que justifique a repetição em dobro.
+IV. DISPOSITIVO E TESE
+6. Recurso conhecido em parte e, na parte conhecida, desprovido. Sentença mantida.
+Embargos de declaração rejeitados (fl. 401):
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. INADIMPLEMENTO CONTRATUAL DE INSTITUIÇÃO DE ENSINO. AUSÊNCIA DE OMISSÃO OU CONTRADIÇÃO. EMBARGOS REJEITADOS.
+I. CASO EM EXAME
+1. Embargos de declaração opostos em face de acórdão que negou provimento à apelação cível contra sentença que indeferiu pedidos de matrícula, acesso à plataforma educacional, conclusão de curso e indenização por danos morais e materiais.
+2. O embargante alega omissão e contradição no acórdão, por supostamente reconhecer inadimplemento da instituição de ensino e, ainda assim, afastar os pedidos indenizatórios. Sustenta que o afastamento do curso por mais de 24 meses e a impossibilidade de formatura seriam suficientes para caracterizar dano moral.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se o acórdão embargado contém omissão ou contradição quanto à análise do inadimplemento contratual da instituição de ensino e à negativa de indenização por danos morais e materiais.
+III. RAZÕES DE DECIDIR
+4. Os embargos de declaração não demonstram omissão ou contradição no acórdão embargado, mas apenas inconformismo com a decisão.
+5. O acórdão recorrido foi claro ao afirmar que o inadimplemento verificado não possui gravidade suficiente para configurar dano moral indenizável.
+6. O julgado destacou ainda que determinadas teses levantadas pelo embargante foram apresentadas apenas na apelação, caracterizando inovação recursal vedada nos termos do art. 1.013, § 1º, do CPC.
+7. Assim, ausentes os vícios previstos no art. 1.022 do CPC, não há justificativa para acolhimento dos embargos.
+IV. DISPOSITIVO E TESE
+8. Embargos de declaração rejeitados.
+Sustenta a parte agravante, em síntese, que impugnou especificamente todos os fundamentos de inadmissibilidade do agravo, porquanto não é o caso de aplicação da Súmula n. 182/STJ (fls. 466-471).
+Pugna, por fim, pela reforma da decisão agravada.
+Impugnação às fls. 475-481.
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. No caso dos autos, não houve impugnação específica de todos os fundamentos da decisão que inadmitiu o recurso especial.
+2. Para que se considere adequadamente impugnada a Súmula n. 7/STJ, o agravo em recurso especial deve empreender um cotejo entre os fatos estabelecidos no acórdão recorrido e as teses recursais, mostrando em que medida essas não exigem a alteração do quadro fático delineado pelo Tribunal local, o que não se observa quando apenas se reafirmam as razões do recurso obstado.
+3. Em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O recurso não merece prosperar.
+Conforme exposto na decisão agravada, verifica-se que o Tribunal de origem inadmitiu o recurso especial com base nos seguintes fundamentos: 1) ausência de violação dos arts. 489 e 1.022 do CPC; e 2) incidência da Súmula n. 7/STJ.
+Entretanto, o agravante deixou de impugnar especificamente a incidência da Súmula n. 7/STJ . Verifica-se que a parte agravante apresenta argumentos demasiadamente genéricos, sem realizar a indispensável contextualização do caso concreto e a demonstração da prescindibilidade de reanálise fático-probatória.
+Nos termos do art. 932, inciso III, do Código de Processo Civil e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+É firme a jurisprudência no sentido de que a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+A propósito, confiram-se precedentes:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. ENTENDIMENTO DA CORTE ESPECIAL.
+1. A Corte Especial, ao julgar os EREsp n. 1.424.404/SP (Rel.
+Ministro LUIS FELIPE SALOMÃO, DJe 17/11/2021), decidiu que, em relação ao agravo interno manejado contra decisão monocrática de relator, aplicar-se-á o óbice encartado na Súmula 182/STJ quando a parte agravante: a) deixar de empreender combate ao único ou a todos os capítulos autônomos da decisão agravada; b) deixar de refutar a todos os fundamentos empregados no capítulo autônomo por ela impugnado.
+2. Caso concreto em que a parte agravante não se desincumbiu de infirmar o fundamento contido na decisão atacada, no sentido de que o termo de acordo para quitação do precatório não pode alcançar créditos pertencentes a terceiros que não participaram da avença e que somente em momento posterior restaram cedidos ao impetrante, ora recorrente.
+3. Agravo interno não conhecido.
+(AgInt no RMS n. 72.051/RN, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL DA UNIÃO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. ALEGAÇÕES GENÉRICAS. SÚMULA 182/STJ. RECURSO ESPECIAL DO PARTICULAR. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FATO NOVO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO. CARÁTER PROTELATÓRIO. MULTA. MANUTENÇÃO. PROVIMENTO NEGADO.
+1. Para ver examinado por esta Corte Superior seu recurso especial, a parte recorrente precisa, primeiro, desconstituir os fundamentos da decisão que não o admitiu na instância ordinária, sob pena de vê-los mantidos.
+2. A decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, sendo exigido da parte agravante a impugnação de todos os fundamentos da decisão que, na origem, não admitiu o recurso especial, o que não ocorreu no caso dos autos. Incidência, por analogia, da Súmula 182 do STJ.
+3. O Tribunal de origem analisou todas as questões necessárias ao deslinde da controvérsia. Não padece o acórdão de omissão, contradição, obscuridade ou erro material a ensejar o acolhimento da tese de violação do art. 535 do CPC/1973.
+4. Para que seja considerado fato novo nos termos art. 462 do CPC/1973, diploma processual vigente à época em que foi prolatado o acórdão recorrido, a circunstância noticiada pela parte deve ser capaz de alterar o resultado do julgamento. Hipótese que não está presente no caso dos autos.
+5. A oposição reiterada de embargos de declaração, alegando a mesma matéria já afastada pelo acórdão embargado, configura intuito protelatório a ensejar a aplicação da multa prevista no art. 538, parágrafo único, do CPC/1973.
+6. Agravo em recurso especial da UNIÃO não conhecido e recurso especial de CARLOS ALBERTO PIATTI a que se nega provimento.
+(REsp n. 1.589.562/AL, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 20/2/2024, DJe de 1º/3/2024.)
+Com efeito, para que se considere adequadamente impugnada a Súmula n. 7/STJ, o agravo em recurso especial deve empreender um cotejo entre os fatos estabelecidos no acórdão recorrido e as teses recursais, mostrando em que medida estas não exigem a alteração do quadro fático delineado pelo Tribunal local, o que não se observa na simples reafirmação do mérito do recurso obstado.
+Nesse sentido, cito:
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. RAZÕES DESCONEXAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284/STF.
+AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+1. Da análise das razões do agravo interposto (e-STJ fls. 745/753), se extrai que a parte agravante deixou de infirmar, de forma específica e pormenorizada, a incidência de óbice ventilado pela Corte de origem para inadmitir o recurso especial, no caso, a Súmula n. 7/STJ (e-STJ fls. 734/737).
+2. Nos termos da orientação jurisprudencial deste Superior Tribunal, "para que se considere adequadamente impugnada a Súmula 7/STJ, o agravo precisa empreender um cotejo entre os fatos estabelecidos no acórdão e as teses recursais, mostrando em que medida estas não exigem a alteração do quadro fático delineado pelo Tribunal local, o que não se observa na alegação genérica de ser prescindível reexame de fatos e provas" (AgRg no AREsp n. 2.060.997/SC, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe 10/8/2022).
+3. Ora, a abertura de tópico próprio destinado a refutar o óbice não se mostra suficiente, por si só, à efetiva impugnação, não eximindo a parte do dever de demonstrar de forma efetiva, no caso da Súmula 7/STJ, como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem nova análise do conjunto de fatos e provas, deixando claro quais fatos foram devidamente consignados no acórdão recorrido, o que não ocorreu na hipótese dos autos.
+4. A falta de impugnação específica de todos os fundamentos utilizados na decisão agravada (despacho de inadmissibilidade do recurso especial) atrai a incidência da Súmula n. 182 desta Corte Superior.
+5. Ademais, no tocante à alegação constante na petição do agravo de que a Corte local teria apontado a Súmula n. 284/STF como razão de decidir para inadmitir o recurso especial, em decorrência da ausência de indicação expressa do permissivo constitucional que embasaria a insurgência (e-STJ fl. 762), verifica-se a apresentação de razões desconexas, dissociadas dos fundamentos da decisão agravada (e-STJ fls. 734/737), circunstância que caracteriza deficiência na fundamentação do recurso, impeditiva da exata compreensão da controvérsia, e atrai para a espécie, por analogia, o óbice da Súmula n. 284/STF, no ponto. Precedentes.
+6. Agravo em recurso especial não conhecido.
+(AREsp n. 3.008.134/AM, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/10/2025, DJEN de 23/10/2025.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE POLUIÇÃO (ART. 54, §2º, V, DA LEI N. 9.605/1998. TEMPESTIVIDADE DO RECURSO ESPECIAL. INADMISSÃO PELO ÓBICES DAS SÚMULAS N. 7 E 83 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. EMBARGOS ACOLHIDOS PARA NÃO CONHECER DO AGRAVO EM RECURSO ESPECIAL.
+I. CASO EM EXAME
+1. Embargos de declaração interpostos contra acórdão que negou provimento a agravo regimental, sob o fundamento de intempestividade do recurso especial. A Vice-Presidência do Tribunal de origem, em juízo de retratação, reconheceu a tempestividade do recurso especial, mas manteve sua inadmissão com base nas Súmulas n. 7 e 83 do STJ.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se a falha induzida por informação equivocada prestada por sistema eletrônico do Tribunal pode ser considerada para aferir a tempestividade do recurso especial.
+3. Outra questão é saber se o agravo no recurso especial atende aos pressupostos de admissibilidade para assim ser conhecido e, se o caso, provido.
+III. RAZÕES DE DECIDIR
+4. A jurisprudência do STJ considera que a falha induzida por informação equivocada prestada por sistema eletrônico de Tribunal deve ser levada em consideração para aferir a tempestividade do recurso, em homenagem aos princípios da boa-fé e da confiança.
+5. A superação do óbice da Súmula 7/STJ exige que o agravante demonstre, de forma clara e objetiva, ser desnecessário o reexame de fatos e provas, o que deixou de ser feito no caso em análise.
+6. "Inadmitido o recurso especial com base na incidência da Súmula 83/STJ, incumbe à parte apontar julgados, deste Superior Tribunal, contemporâneos ou supervenientes sobre a matéria, procedendo ao cotejo entre eles a fim de demonstrar que a orientação desta Corte Superior é diversa da do Tribunal a quo ou que não se encontra pacificada, ou mesmo demonstrar a existência de distinção do caso tratado nos autos, o que não ocorreu na espécie" (AgRg no AREsp n. 2.253.769/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/8/2023, DJe de 18/8/2023).
+7. "A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso por violação ao princípio da dialeticidade, sendo insuficientes as assertivas de que todos os requisitos de admissibilidade foram preenchidos ou a mera reiteração da controvérsia. Incidência da Súmula n. 182, STJ" (AgRg no AREsp n. 2.428.844/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/2/2024, DJe de 15/2/2024.) IV. EMBARGOS ACOLHIDOS PARA NÃO CONHECER DO AGRAVO EM RECURSO ESPECIAL.
+(EDcl no AgRg no AREsp n. 2.189.527/SC, relator Ministro Carlos Cini Marchionatti (desembargador convocado TJRS), Quinta Turma, julgado em 5/8/2025, DJEN de 14/8/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICA E FUNDAMENTADAMENTE, A DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL, NA ORIGEM. IMPUGNAÇÃO GENÉRICA. REITERAÇÃO DAS RAZÕES DO APELO NOBRE. INSUFICIÊNCIA. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. CORRETA A DECISÃO DA PRESIDÊNCIA QUE NÃO CONHECERA DO AGRAVO. AGRAVO INTERNO NÃO PROVIDO.
+I. Agravo interno interposto contra decisão da Presidência do STJ que não conheceu do agravo em recurso especial, ante o óbice da Súmula 182/STJ, porquanto o agravante não infirmara, especifica e fundamentadamente, o óbice da Súmula 7/STJ, aplicado, na origem, para inadmitir o apelo nobre.
+II. Consoante pacífica jurisprudência desta Corte, cumpre ao agravante infirmar, especifica e fundamentadamente, todos os fundamentos da decisão que inadmitiu o Recurso Especial, demonstrando o seu desacerto, de modo a justificar o processamento do apelo nobre, sob pena de não ser conhecido o Agravo (art. 932, III, do CPC e Súmula 182/STJ, por analogia). Nesse sentido: AgRg no AREsp 704.988/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/09/2015; EDcl no AREsp 741.509/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 16/09/2015; AgInt no AREsp 888.667/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 18/10/2016; AgInt no AREsp 895.205/PB, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 20/10/2016.
+III. Nos termos da jurisprudência desta Corte, quando o recurso especial não é admitido pelo Tribunal de origem com base na Súmula 7/STJ, é dever da parte agravante demonstrar, no agravo em recurso especial, sob pena de preclusão, que a referida Súmula não se aplica ao caso, evidenciando de que forma a violação aos dispositivos federais, suscitada nas razões recursais, não depende de reanálise do conjunto fático-probatório dos autos - deixando claro, por exemplo, que todos os fatos estão devidamente consignados no acórdão recorrido -, sendo insuficiente a mera alegação no sentido da inaplicabilidade da Súmula 7/STJ ou de que o exame da controvérsia dispensa reexame probatório, por revelar-se como combate genérico e não específico. Ou seja, "Para afastar a incidência da Súmula 182/STJ, não basta que o recorrente tenha explicitado, de maneira genérica, a desnecessidade do reexame das provas dos autos para a análise da tese suscitada no apelo nobre. Faz-se necessário que o agravante, analiticamente, contraste as conclusões do acórdão combatido com os fundamentos da decisão de inadmissibilidade do recurso especial, demonstrando que, na situação dos autos, a Súmula 7/STJ foi aplicada indevidamente" (STJ, AgInt no AREsp 1.160.579/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 11/04/2018).
+IV. No caso, por simples cotejo entre o decidido, pelo juízo prévio de admissibilidade da origem, e as razões do Agravo em Recurso Especial verifica-se a ausência de impugnação específica e fundamentada ao referido óbice sumular, o que atrai a aplicação do disposto no art. 932, III, do CPC/2015, bem como do teor da Súmula 182 do Superior Tribunal de Justiça, por analogia. Decisão da Presidência do STJ que não merece censura.
+V. Agravo interno improvido.
+(AgInt no AREsp n. 2.584.143/ES, relator Ministro Francisco Falcão, Segunda Turma, julgado em 17/10/2024, DJe de 22/10/2024.)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ, o que não ocorreu no presente caso.
+Nesse sentido, confiram-se os seguintes julgados: AgRg no AREsp n. 2.016.016/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 6/5/2022; AgInt no AREsp n. 1.477.310/RJ, relator Ministro Manoel Erhardt (desembargador convocado do TRF5), Primeira Turma, DJe de 18/3/2022; AgInt no AREsp n. 1.897.137/AL, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/11/2021.
+Portanto, é inviável o conhe cimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
