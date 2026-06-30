@@ -1,0 +1,89 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/06/2026 a 30/06/2026, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Luís Carlos Gambogi (Desembargador Convocado do TJMG) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO DO CONSUMIDOR. RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR GOLPE DA FALSA CENTRAL E TRANSFERÊNCIA VIA PIX. RESPONSABILIDADE CIVIL DE INSTITUIÇÃO FINANCEIRA E INCIDÊNCIA DA SÚMULA N. 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Trata-se de recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que, em apelação, manteve a sentença de parcial procedência e desproveu o recurso do réu.
+2. A controvérsia envolve ação indenizatória por danos materiais e morais decorrentes de golpe da falsa central de atendimento, com transferência via PIX, sob alegação de falha do serviço bancário e responsabilidade objetiva do fornecedor.
+3. Na sentença, o Juízo de primeiro grau julgou parcialmente procedente o pedido para condenar o réu ao pagamento de R$ 41.880,06, com correção monetária desde o mês do ilícito e juros de mora desde a citação, fixando sucumbência recíproca e honorários em 10% sobre o valor da causa.
+4. A Corte de origem manteve integralmente a sentença, rejeitou as preliminares, reconheceu relação de consumo, fortuito interno e vício do serviço por falha no dever de segurança e monitoramento de perfil, confirmou a devolução do valor com correção desde o ato ilícito (Súmula n. 43 do STJ) e majorou os honorários nos termos do art. 85, § 11, do CPC.
+II. QUESTÃO EM DISCUSSÃO
+5. Há seis questões em discussão: (i) saber se incide a excludente do art. 14, § 3º, da Lei n. 8.078/1990, por defeito inexistente e culpa exclusiva do consumidor ou de terceiro, diante do uso de credenciais pessoais; (ii) saber se, à luz do art. 188 do CC, a conduta do banco não configurou ato ilícito por fato exclusivo de terceiro; (iii) saber se se trata de fortuito externo, nos termos do art. 393 do CC, rompendo o nexo causal; (iv) saber se não se comprovou a tríade ilícito, nexo e dano, conforme o art. 927 do CC; (v) saber se deve ser reconhecida culpa concorrente da vítima para reduzir a indenização, nos termos do art. 945 do CC; e (vi) saber se há dissídio jurisprudencial quanto à responsabilização objetiva de bancos em fraudes do golpe da falsa central.
+III. RAZÕES DE DECIDIR
+6. Incide a Súmula n. 7 do STJ, pois a modificação das conclusões do acórdão recorrido sobre falha do serviço, fortuito interno e inexistência de culpa concorrente demanda reexame do conjunto fático-probatório, inviável no recurso especial.
+7. O dissídio jurisprudencial alegado fica prejudicado quando o recurso é inviável pela alínea a em razão de óbice sumular, por ausência de similitude fático-jurídica com os paradigmas.
+IV. DISPOSITIVO E TESE
+8. Recurso especial não conhecido.
+Tese de julgamento: "1. Incide a Súmula n. 7 do STJ por exigir reexame de fatos e provas para afastar a conclusão de falha do serviço, fortuito interno e inexistência de culpa concorrente. 2. Estando o recurso inviável por óbice sumular, fica prejudicada a análise do dissídio jurisprudencial, ante a ausência de similitude fático-jurídica".
+Dispositivos relevantes citados: Lei n. 8.078/1990, arts. 2º, 3º, § 2º, e 14, § 3º; CC, arts. 188, 393, 927 e 945; CPC, arts. 85, § 11, 1.022 e 1.025.
+Jurisprudência relevante citada: STJ, AREsp n. 2.363.046/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/9/2025; STJ, Súmulas n. 7, 43 e 479.
+RELATÓRIO
+Trata-se de recurso especial interposto por BANCO BRADESCO S. A. com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação nos autos de ação indenizatória por danos materiais e morais.
+O julgado foi assim ementado (fl. 194):
+AÇÃO INDENIZATÓRIA - Julgamento de parcial procedência - Golpe da Falsa Central de Atendimento - APELAÇÃO DO RÉU - Preliminares de litisconsórcio passivo necessário e ilegitimidade passiva rejeitadas - Relação de consumo - Ligação efetuada pelo número da Central do banco, informando acesso à conta e transação em análise, com posterior orientações à correntista sobre como proceder para cancelar a transferência - Transação realizada desconexa com o perfil de consumo da correntista - Falha do dever de segurança e cuidado de monitoramento do perfil do consumidor - Fortuito interno, inerente à atividade explorada pelo Banco - Vício do serviço configurado - Art. 14 do CDC e Súmula 479 do C. STJ - Determinação de devolução do valor transferido mantida - Correção monetária que deve incidir desde o ato ilícito (Súmula 43 do C. STJ) - Sentença mantida - Honorários advocatícios majorados (art. 85, § 11 do CPC) - RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 283):
+EMBARGOS DE DECLARAÇÃO - Não ocorrência dos vícios previstos no art. 1022 do Código de Processo Civil - Pretensão que visa rediscussão do mérito recursal - Impossibilidade - Prequestionamento - Aplicação do art. 1025 do Código de Processo Civil - EMBARGOS REJEITADOS.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 14, § 3º, da Lei n. 8.078/1990, porque sustenta excludente de responsabilidade por defeito inexistente e por culpa exclusiva do consumidor ou de terceiro, afirmando que as operações contestadas foram realizadas com credenciais pessoais e sigilosas fornecidas pela própria correntista;
+b) 188 do CPC, pois a conduta do banco não configuraria ato ilícito diante de fato exclusivo de terceiro alheio à prestação de serviços;
+c) 393 do CPC, porquanto invoca caso fortuito/força maior como fortuito externo, rompendo o nexo causal e afastando o dever de indenizar;
+d) 927 do CPC, visto que não estariam presentes os pressupostos da responsabilidade civil, na tríade ilícito, nexo e dano, ao argumento de que não houve falha do serviço bancário; e
+e) 945 do CPC, pois requer, ao menos, o reconhecimento da culpa concorrente da vítima pelas instruções seguidas no golpe, com redução proporcional da indenização.
+Sustenta que o Tribunal de origem divergiu da orientação do STJ e de Tribunais Estaduais, ao reconhecer responsabilidade objetiva do banco em fraudes do golpe da falsa central, quando deveria aplicar a excludente do § 3º do art. 14 do CDC por culpa exclusiva da vítima ou de terceiro, indicando como paradigmas, entre outros, REsp n. 2.010.941/SP, AgInt no REsp n. 1.914.255/AL, AgInt no AREsp n. 1.399.771/MG, AgInt nos EDcl no REsp n. 1.612.178/SP, AgInt no REsp n. 1.910.270/PR, AgInt nos EDcl no AREsp n. 741.863/SP, e julgados do TJPR e do TJRS (fls. 209-224).
+Sustenta que o Tribunal de origem divergiu (fls. 209-224) ao aplicar fortuito interno e responsabilidade objetiva, enquanto os paradigmas acima elencados reconhecem fortuito externo e culpa exclusiva da vítima em hipóteses de fornecimento de credenciais pessoais ou atuação temerária do consumidor em golpes de estelionatários, com consequente exclusão do nexo causal e do dever de indenizar.
+Requer o provimento do recurso para que se casse o acórdão recorrido, se reconheça a ausência de responsabilidade do banco recorrente por culpa exclusiva da vítima ou de terceiro e se julgue improcedente o pedido indenizatório. Requer ainda o provimento do recurso para que se minorem os danos materiais, caso mantida a responsabilidade, ao se reconhecer a culpa concorrente da recorrida.
+Contrarrazões às fls. 289-294.
+O recurso foi admitido pelo Tribunal de origem (fls. 337-338).
+É o relatório.
+EMENTA
+DIREITO DO CONSUMIDOR. RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR GOLPE DA FALSA CENTRAL E TRANSFERÊNCIA VIA PIX. RESPONSABILIDADE CIVIL DE INSTITUIÇÃO FINANCEIRA E INCIDÊNCIA DA SÚMULA N. 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Trata-se de recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que, em apelação, manteve a sentença de parcial procedência e desproveu o recurso do réu.
+2. A controvérsia envolve ação indenizatória por danos materiais e morais decorrentes de golpe da falsa central de atendimento, com transferência via PIX, sob alegação de falha do serviço bancário e responsabilidade objetiva do fornecedor.
+3. Na sentença, o Juízo de primeiro grau julgou parcialmente procedente o pedido para condenar o réu ao pagamento de R$ 41.880,06, com correção monetária desde o mês do ilícito e juros de mora desde a citação, fixando sucumbência recíproca e honorários em 10% sobre o valor da causa.
+4. A Corte de origem manteve integralmente a sentença, rejeitou as preliminares, reconheceu relação de consumo, fortuito interno e vício do serviço por falha no dever de segurança e monitoramento de perfil, confirmou a devolução do valor com correção desde o ato ilícito (Súmula n. 43 do STJ) e majorou os honorários nos termos do art. 85, § 11, do CPC.
+II. QUESTÃO EM DISCUSSÃO
+5. Há seis questões em discussão: (i) saber se incide a excludente do art. 14, § 3º, da Lei n. 8.078/1990, por defeito inexistente e culpa exclusiva do consumidor ou de terceiro, diante do uso de credenciais pessoais; (ii) saber se, à luz do art. 188 do CC, a conduta do banco não configurou ato ilícito por fato exclusivo de terceiro; (iii) saber se se trata de fortuito externo, nos termos do art. 393 do CC, rompendo o nexo causal; (iv) saber se não se comprovou a tríade ilícito, nexo e dano, conforme o art. 927 do CC; (v) saber se deve ser reconhecida culpa concorrente da vítima para reduzir a indenização, nos termos do art. 945 do CC; e (vi) saber se há dissídio jurisprudencial quanto à responsabilização objetiva de bancos em fraudes do golpe da falsa central.
+III. RAZÕES DE DECIDIR
+6. Incide a Súmula n. 7 do STJ, pois a modificação das conclusões do acórdão recorrido sobre falha do serviço, fortuito interno e inexistência de culpa concorrente demanda reexame do conjunto fático-probatório, inviável no recurso especial.
+7. O dissídio jurisprudencial alegado fica prejudicado quando o recurso é inviável pela alínea a em razão de óbice sumular, por ausência de similitude fático-jurídica com os paradigmas.
+IV. DISPOSITIVO E TESE
+8. Recurso especial não conhecido.
+Tese de julgamento: "1. Incide a Súmula n. 7 do STJ por exigir reexame de fatos e provas para afastar a conclusão de falha do serviço, fortuito interno e inexistência de culpa concorrente. 2. Estando o recurso inviável por óbice sumular, fica prejudicada a análise do dissídio jurisprudencial, ante a ausência de similitude fático-jurídica".
+Dispositivos relevantes citados: Lei n. 8.078/1990, arts. 2º, 3º, § 2º, e 14, § 3º; CC, arts. 188, 393, 927 e 945; CPC, arts. 85, § 11, 1.022 e 1.025.
+Jurisprudência relevante citada: STJ, AREsp n. 2.363.046/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/9/2025; STJ, Súmulas n. 7, 43 e 479.
+VOTO
+I - Contextualização
+A controvérsia diz respeito a ação de indenizatória por danos materiais e morais em que a parte autora pleiteou a condenação do banco ao ressarcimento do valor transferido via PIX em golpe de falsa central, com correção monetária desde o ato ilícito e juros de mora desde a citação, bem como ao pagamento de honorários, sob fundamento de falha do serviço, relação de consumo (arts. 2º, 3º, § 2º, e 14, caput, do CDC) e responsabilidade objetiva segundo a Súmula n. 479 do STJ.
+Na sentença, o Juízo de primeiro grau julgou parcialmente procedente o pedido para condenar o réu ao pagamento de R$ 41.880,06, com correção monetária desde o mês do ilícito e juros de mora desde a citação, fixando sucumbência recíproca, divisão de custas e despesas, e honorários em 10% sobre o valor da causa, rateados em 50% para cada patrono (fls. 132-142).
+A Corte estadual manteve integralmente a sentença, rejeitou as preliminares, reconheceu relação de consumo, fortuito interno e vício do serviço por falha no dever de segurança e monitoramento de perfil, confirmou a devolução do valor com correção desde o ato ilícito (Súmula n. 43 do STJ) e majorou os honorários em 50% nos termos do art. 85, § 11, do CPC (fls. 194-198).
+II - Arts . 14, § 3º, do CDC, 188, 393, 927 e 945 do CC
+O recorrente sustenta a violação dos mencionados artigos, porque sustenta excludente de responsabilidade por defeito inexistente e por culpa exclusiva do consumidor ou de terceiro, afirmando que as operações contestadas foram realizadas com credenciais pessoais e sigilosas fornecidas pela própria correntista.
+Argumenta que a conduta do banco não configuraria ato ilícito diante de fato exclusivo de terceiro alheio à prestação de serviços, invocando caso fortuito/força maior como fortuito externo, rompendo o nexo causal e afastando o dever de indenizar.
+Alega que não estariam presentes os pressupostos da responsabilidade civil, na tríade ilícito, nexo e dano, ao argumento de que não houve falha do serviço bancário, e pugna, ao menos, o reconhecimento da culpa concorrente da vítima pelas instruções seguidas no golpe, com redução proporcional da indenização.
+O recurso especial interposto pelo Banco Bradesco S. A. busca, em sua essência, a reforma do acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que, por sua vez, confirmou a sentença de primeira instância.
+Para tanto, o recorrente apresenta uma série de teses que foram exaustivamente analisadas pelas instâncias ordinárias, que culminaram na condenação do Banco ao ressarcimento dos danos materiais decorrentes da fraude, fundamentada na responsabilidade objetiva da instituição financeira, à luz do Código de Defesa do Consumidor e da Súmula n. 479 do Superior Tribunal de Justiça.
+A tese central do recorrente, de que não houve falha na prestação de serviços, mas sim culpa exclusiva da vítima ou de terceiro, caracterizando fortuito externo, foi afastada pelas instâncias ordinárias.
+O acórdão recorrido, analisando o contexto fático-probatório, assim dispôs (fls. 196-197):
+Ocorre que a transação contestada destoa do perfil de utilização da correntista, especialmente porque o PIX foi efetuado em quantia considerável e acima do saldo positivo da conta (fl. 21 R$ 41.400,00), além de ter ocorrido comunicação oficial (fl. 24) e registro de Boletim de Ocorrência no dia seguinte (fls. 28/29), evidenciando verossimilhança dos fatos declinados na petição inicial.
+E ainda, o acórdão enfatizou que (fl. 196) "o vício do serviço do réu reside na ausência de identificação da movimentação suspeita, deixando de exercer o devido dever de segurança e cuidado de monitoramento do perfil da consumidora, devendo, portanto, responder pelos danos causados".
+A tentativa do recorrente de reverter essas conclusões, alegando que as transações foram realizadas com credenciais de segurança pessoais da recorrida ou que se trata de fortuito externo, implica necessariamente na reanálise dos elementos de prova produzidos nos autos. A avaliação sobre se a transação destoa ou não do perfil do cliente, se as medidas de segurança do banco foram suficientes para evitar a fraude e se a conduta da vítima foi decisiva para o sucesso do golpe, são questões eminentemente fáticas.
+O Tribunal de origem, ao sopesar o conjunto probatório, concluiu pela falha na prestação do serviço do Banco, caracterizando fortuito interno, conforme a Súmula n. 479 do STJ. Alterar tal entendimento implicaria em um revolvimento de fatos e provas, providência incabível em sede de recurso especial, dada a incidência da Súmula n. 7 do STJ.
+A respeito da alegada culpa concorrente da recorrida, o acórdão recorrido e a sentença de primeira instância, com base na análise do conjunto fático-probatório, não identificaram contribuição da vítima que mitigasse a responsabilidade do Banco.
+A reanálise da suposta culpa concorrente, para determinar a gravidade da culpa da recorrida em confronto com a do Banco, conforme o art. 945 do Código Civil, também exige um novo exame dos fatos e das provas, tarefa inviável em sede de recurso especial, devido à Súmula n. 7 do STJ.
+Desta forma, verifica-se que todas as insurgências apresentadas pelo Banco recorrente, sob o pretexto de violação de lei federal, buscam, na verdade, a rediscussão do mérito e o reexame do conjunto fático-probatório, o que é vedado em sede de recurso especial.
+III - Dissídio Jurisprudencial
+Por fim, não se conhece do dissídio quando o recurso é considerado inviável pela análise da alínea a do inciso III do da Constituição Federal, art. 105 especialmente por incidência da Súmula n. 7 e outros óbices sumulares.
+Nesse sentido:
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO.CUMPRIMENTO DE SENTENÇA. RENDIMENTOS. PENHORA. POSSIBILIDADE. VALOR PENHORADO. REVISÃO. SÚMULA Nº 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+ ..
+3. A aplicação de óbices sumulares torna prejudicada a análise da alegada divergência jurisprudencial, tendo em vista a ausência de similitude fático-jurídica entre o acórdão recorrido e o paradigma indicado.
+4. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa
+extenso, negar-lhe provimento.
+(AREsp n. 2.363.046/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/9/2025, DJEN de 18/9/2025, destaquei.)
+I V - Conclusão
+Ante o exposto, não conheço do recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+É o voto.
