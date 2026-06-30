@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/06/2026 a 30/06/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG), João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉEXECUTIVIDADE. DILAÇÃO PROBATÓRIA. NECESSIDADE. PRECEDENTES. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. A exceção de pré-executividade é cabível para discutir questões de ordem pública, quais sejam, os pressupostos processuais, as condições da ação, os vícios objetivos do título executivo atinentes à certeza, liquidez e exigibilidade, desde que não demandem dilação probatória.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão singular da minha lavra em que neguei provimento ao recurso especial, pelos seguintes fundamentos: a) inexistência de negativa de prestação jurisdicional; b) incidência da Súmula 7/STJ; c) incidência da Súmula 83/STJ; d) impossibilidade de exame de matéria constitucional (fls. 309-311).
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que não cabe a Súmula 7/STJ porque a controvérsia envolve qualificação jurídica de fatos incontroversos sobre certeza, liquidez e exigibilidade do título, além de ilegitimidade passiva, sem reexame probatório (fls. 318-319).
+Alega, ainda, indevida aplicação da Súmula 83/STJ porque o acórdão de origem diverge da jurisprudência do STJ quanto aos requisitos do art. 783 do CPC e quanto à adequação da exceção de pré-executividade para matérias verificáveis de plano, inclusive inexigibilidade e ilegitimidade (fls. 319).
+Por fim, sustenta ter ocorrido negativa de prestação jurisdicional por ausência de enfrentamento específico das teses sobre inexistência de bens do penhor, falta de causa obrigacional e ilegitimidade passiva, com violação do art. 489, § 1º, IV, do CPC (fls. 320).
+Na sua impugnação ao agravo interno, a parte agravada alega que a decisão agravada aplicou corretamente as Súmulas 7 e 83/STJ, inexistiu negativa de prestação jurisdicional, e a discussão constitucional é estranha ao recurso especial; assinala, ademais, argumentos genéricos do agravante e necessidade de dilação probatória, inclusive quanto à preclusão consumativa sinalizada na origem (fls. 328-333).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉEXECUTIVIDADE. DILAÇÃO PROBATÓRIA. NECESSIDADE. PRECEDENTES. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. A exceção de pré-executividade é cabível para discutir questões de ordem pública, quais sejam, os pressupostos processuais, as condições da ação, os vícios objetivos do título executivo atinentes à certeza, liquidez e exigibilidade, desde que não demandem dilação probatória.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+Originariamente, trata-se de execução de título extrajudicial ajuizada por Delta Fomento Mercantil LTDA em face de Qualybom Indústria e Comércio LTDA e corresponsáveis, fundada em contrato de fomento mercantil e em instrumentos de adiantamento de recursos com penhor mercantil e indicação de depositário, com cobrança de valores adiantados.
+Na decisão de 1º grau, o juízo rejeitou a exceção de pré-executividade por entender presentes título executivo e assinatura do executado nos instrumentos e, além disso, que as teses suscitadas exigiam dilação probatória; determinou o prosseguimento da execução.
+O Tribunal de origem negou provimento ao agravo de instrumento, manteve a rejeição da exceção por necessidade de prova, registrou a necessidade de escrutínio sobre preclusão consumativa diante de embargos à execução opostos em 2010, afirmou ausência de comprovação "de plano" das alegações, e rejeitou embargos de declaração por inexistência de vícios.
+Feito esse breve retrospecto da demanda, passo à análise das alegações apresentadas no agravo interno.
+A alegação de negativa de prestação jurisdicional não procede. O Tribunal de origem enfrentou as teses essenciais e fundamentou a conclusão adotada. Como assentado pelo STJ: "não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida" (AgInt no AREsp 1.768.573/SP). O agravante reiterou ausência de exame de pontos específicos, porém a decisão local resolveu a controvérsia nos limites da exceção de pré-executividade e indicou a suficiência da motivação (fls. 77-82, 105-107, 163-165).
+Quanto à certeza, liquidez, exigibilidade e ilegitimidade passiva, incide a Súmula 7 do STJ. O acórdão fixou a premissa de "não comprovou de plano suas alegações" e necessidade de "exame mais aprofundado das provas", além de escrutínio sobre eventual preclusão. O agravante sustenta qualificação jurídica de fatos incontroversos, porém pretende afastar conclusões assentadas em provas. Conforme já consignado, rever tais premissas demanda reexame probatório, vedado pelo enunciado 7/STJ.
+No tocante ao cabimento e limites da exceção de pré-executividade, o acórdão alinhou-se à orientação pacífica desta Corte. O STJ afirma ser adequada para matérias de ordem pública amparadas em prova pré-constituída, incidindo a Súmula 83 quando há necessidade de dilação (AgInt no AREsp 2.006.257/SP). O agravante sustenta divergência, porém não indica distinção concreta. As alegações dependem de prova robusta, não detectada na origem, portanto, incompatível com a via excepcional utilizada.
+Por fim, a via especial não comporta discussão de matéria constitucional. O STJ previne usurpação da competência do Supremo Tribunal Federal: "é incabível recurso especial para discutir violação de norma constitucional" (AgRg no AREsp 2.274.110/RJ). O agravante insiste em fundamentos do art. 93, IX, sem via própria. A decisão agravada corretamente afastou esse ponto, mantendo o exame restrito à legislação federal.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
