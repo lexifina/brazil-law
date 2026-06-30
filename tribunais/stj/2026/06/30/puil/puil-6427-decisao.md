@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei protocolado por ANA LIGIA MEDEIROS DO NASCIMENTO LTDA, com fundamento no art. 18 da Lei 12.153/2009, contra acórdão proferido pela Terceira Turma Recursal da Fazenda Pública do Estado do Rio Grande do Norte, assim ementado (e-STJ, fls. 372-373):
+RECURSO INOMINADO. DIREITO CONSTITUCIONAL E TRIBUTÁRIO. PRETENSÃO DE RECOLHIMENTO DE ISSQ FIXO RECONHECIDA PELA SENTENÇA. SOCIEDADE COM ATIVIDADE MÉDICA FINALÍSTICA. RECURSO INTERPOSTO PELO ENTE PÚBLICO DEMANDADO. SOCIEDADE PROFISSIONAL NÃO VINCULADA AO CONSELHO PROFISSIONAL. INEXISTÊNCIA DE RESPONSABILIDADE ÉTICA/ADMINISTRATIVA. IMPOSSIBILIDADE DE EXECUÇÃO DO LABOR MÉDICO. VIOLAÇÃO DA LEI Nº 6.839/80 E nº 9.656/98. RESOLUÇÃO CFM Nº 1.980/2011. IMPESSOALIDADE COMPROVADA. REGISTRO ÚNICO PERANTE A JUCERN. NATUREZA EMINENTEMENTE EMPRESÁRIA. CONTRATOS APRESENTADOS QUE DESVIRTUAM O ATENDIMENTO TÉCNICO PESSOAL DO PROFISSIONAL RESPONSÁVEL PELA EMPRESA. EXCLUSÃO DO BENEFÍCIO DO TRATAMENTO TRIBUTÁRIO ESPECIAL. RECURSO CONHECIDO E PROVIDO.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 396-401).
+Em suas razões (e-STJ, fls. 402-433), a requerente sustenta a existência de divergência jurisprudencial entre Turmas Recursais do Estado do Rio Grande do Norte quanto à interpretação do art. 9º, §§ 1º e 3º, do Decreto-Lei n. 406/1968.
+Afirma que, enquanto o acórdão paradigma da Primeira Turma Recursal reconheceu o direito de sociedade médica uniprofissional, ainda que constituída sob a forma limitada, ao regime de ISS fixo com base na pessoalidade da prestação e ausência de estrutura empresarial, o acórdão recorrido da Terceira Turma Recursal adotou entendimento oposto ao exigir, de forma formalista, o registro da pessoa jurídica no CRM e ao considerar que a existência de contrato de prestação de serviços intermediado afastaria a pessoalidade, descaracterizando o regime especial, razão pela qual pleiteia a uniformização da interpretação para fazer prevalecer o entendimento do paradigma.
+Contrarrazões às fls. 546-552 (e-STJ).
+O relator da Turma Recursal determinou a remessa dos autos a esta Corte, ao fundamento de que o incidente veicula controvérsia relativa à interpretação de norma federal, aliada à alegação de divergência jurisprudencial em relação à orientação do STJ (e-STJ, fls. 553-554).
+Brevemente relatado, decido.
+Da análise dos autos, verifica-se que o requerente fundamentou o cabimento do pedido de uniformização na existência de divergência entre julgados de Turmas Recursais do mesmo Estado, hipótese que não se insere na competência do STJ prevista no art. 18, § 3º, da Lei 12.153/2009, a qual se restringe às situações de dissídio entre Turmas de diferentes unidades federativas ou de contrariedade a súmula daquela Corte. Veja-se:
+Art. 18. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+(..)
+§ 3.º Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado.
+Assim, o que se observa é que o feito foi indevidamente encaminhado a esta Corte Superior, uma vez que não há, nos autos, pedido de uniformização dirigido ao STJ.
+Logo, como a divergência deduzida pela parte limita-se a julgados de Turmas Recursais do Estado do Rio Grande do Norte (Primeira e Terceira Turmas), hipótese que atrai a competência da Turma de Uniformização local, nos termos do art. 18, § 1º, da Lei 12.153/2009, impõe-se o retorno dos autos à origem para que o pedido de uniformização seja examinado pelo órgão competente.
+No mesmo sentido, os seguintes precedentes: PUIL n. 2.926, Ministro Gurgel de Faria, DJe de 20/06/2022; PUIL n. 4.014, Ministro Gurgel de Faria, DJe de 29/04/2024; e PUIL n. 5.333, Ministro Gurgel de Faria, DJEN de 25/09/2025.
+Ademais, o fato de a requerente haver invocado entendimentos do STF e do STJ como supostamente favoráveis à sua tese não é suficiente para atrair a competência desta Corte, porquanto tal circunstância não se enquadra nas hipóteses legais de cabimento do pedido de uniformização, nem altera o regime específico de processamento do incidente no âmbito dos Juizados Especiais.
+Nesse sentido (sem grifos no original):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. ALEGADA DIVERGÊNCIA DO ENTENDIMENTO FIRMADO, PELA TURMA RECURSAL ESTADUAL, COM A JURISPRUDÊNCIA DO STF. NÃO CABIMENTO. PRECEDENTES.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. "nos termos do art. 18, § 3º, da Lei n. 12.153/2009, o mecanismo de uniformização de jurisprudência e de submissão das decisões das turmas recursais ao crivo do Superior Tribunal de Justiça, no âmbito dos juizados especiais da Fazenda Pública, restringe-se a questões de direito material, quando as turmas de diferentes estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade a súmula do Superior Tribunal de Justiça" (AgInt no PUIL 1.774/BA, relator Ministro Gurgel de Faria, Primeira Seção, DJe 24/11/2020).
+3. No caso concreto, o requerente aponta suposta divergência com o entendimento firmado pelo STF no julgamento das ADI"s n. 4.167 e 4.848, ao interpretar a Lei n. 11.738/2008, no sentido de que o reajuste anual do piso salarial do magistério deve ocorrer a partir de janeiro, hipótese a que não se destina o pedido de uniformização.
+4. Agravo interno não provido.
+(AgInt no PUIL n. 5.065/RN, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 12/11/2025, DJEN de 18/11/2025.)
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. CONTRARIEDADE A JURISPRUDÊNCIA DO STJ. DESCABIMENTO. SIMILITUDE FÁTICA. AUSÊNCIA.
+1. O incidente de uniformização dirigido ao STJ, nos termos do art. 18, § 3.º, da Lei n. 12.153/2009, é cabível quando as Turmas Recursais de diferentes Estados derem à lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, especificamente no que se refere a questões de direito material.
+2. O PUIL não é cabível contra a alegação de contrariedade a jurisprudência deste Tribunal que não esteja sedimentada em súmula, como na hipótese dos autos.
+3. A ausência de similitude fática entre os julgados confrontados inviabiliza o processamento do pedido.
+4. Agravo interno desprovido.
+(AgInt no PUIL n. 4.060/MG, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 1/10/2024, DJe de 4/10/2024.)
+AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. DIVERGÊNCIA COM ENTENDIMENTO JURISPRUDENCIAL NÃO SUMULADO. AUSÊNCIA DE PREVISÃO LEGAL. IMPOSSIBILIDADE
+ ..
+3. Ademais, a jurisprudência do Superior Tribunal de Justiça entende que o Pedido de Uniformização de Jurisprudência nos Juizados Especiais da Fazenda Pública é admissível somente quando há afronta a súmula do Superior Tribunal de Justiça.
+4. Agravo Interno não provido.
+(AgInt no PUIL n. 1.941/SP, relator Ministro Herman Benjamin, Primeira Seção, julgado em 29/6/2021, DJe de 1/7/2021.)
+Ante o exposto, determino a devolução dos autos, com a respectiva baixa ao Tribunal de origem para que aprecie o pedido como entender de direito.
+Publique-se.
+EMENTA
+PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. INCIDENTE FUNDADO EM DIVERGÊNCIA ENTRE TURMAS RECURSAIS DO MESMO ESTADO. ART. 18, § 1º, DA LEI 12.153/2009. REMESSA AO SUPERIOR TRIBUNAL DE JUSTIÇA. INADEQUAÇÃO. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
