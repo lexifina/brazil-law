@@ -1,0 +1,93 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/06/2026 a 30/06/2026, por unanimidade, conhecer do recurso e lhe dar provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Luís Carlos Gambogi (Desembargador Convocado do TJMG) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. INCLUSÃO EM CADASTROS DE INADIMPLENTES VIA SERASAJUD. DESNECESSIDADE DE PRÉVIO REQUERIMENTO ADMINISTRATIVO E IMPOSSIBILIDADE DE CONDICIONANTES JUDICIAIS. RECURSO ESPECIAL PROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão proferido em agravo de instrumento que manteve o indeferimento da inclusão dos devedores nos cadastros de inadimplentes pelo SERASAJUD, sob o argumento de que a medida seria apenas suplementar e dependente da impossibilidade de negativação direta pelo credor.
+2. A controvérsia versa sobre execução de título extrajudicial, em que se pleiteou a inscrição dos executados nos cadastros de inadimplentes mediante o SERASAJUD, após frustradas as diligências para localização de bens penhoráveis.
+3. O Juízo de primeiro grau indeferiu o pedido de inscrição dos devedores nos cadastros de inadimplentes por meio do SERASAJUD.
+4. A Corte de origem manteve o indeferimento, afirmando que o art. 782, § 3º, do CPC confere faculdade suplementar ao magistrado, condicionada à demonstração de impossibilidade de negativação extrajudicial pelo exequente.
+II. QUESTÃO EM DISCUSSÃO
+5. A questão em discussão consiste em saber se a inclusão do executado em cadastros de inadimplentes, com base no art. 782, § 3º, do CPC, pode ser condicionada à prévia demonstração de impossibilidade de negativação extrajudicial pelo credor, à luz do poder geral de efetivação do art. 139, IV, do CPC.
+III. RAZÕES DE DECIDIR
+6. O Código de Processo Civil de 2015 privilegia a efetividade da tutela executiva; o art. 139, IV, autoriza medidas coercitivas necessárias ao cumprimento das decisões e o art. 782, § 3º, admite a inscrição do executado em cadastros de inadimplentes sem condicionantes não previstas em lei. A jurisprudência do STJ (REsp n. 1.835.778/PR e REsp n. 1.968.880/RS) afasta a exigência de prévio requerimento administrativo e valida o uso do SERASAJUD, desde que observadas a proporcionalidade e a razoabilidade.
+IV. DISPOSITIVO E TESE
+7. Recurso especial provido.
+Tese de julgamento: 1. O art. 782, § 3º, do CPC autoriza a inclusão do executado em cadastros de inadimplentes sem necessidade de prévio requerimento administrativo ou demonstração de impossibilidade de negativação direta pelo credor. 2. O art. 139, IV, do CPC consagra o poder geral de efetivação, legitimando medidas coercitivas, inclusive o uso do SERASAJUD, para conferir efetividade à execução, afastadas condicionantes não previstas em lei.
+Dispositivos relevantes citados: CPC, arts. 139, IV, 782, § 3º e 85, § 11.
+Jurisprudência relevante citada: STJ, Recurso Especial n. 1.835.778/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 6/2/2020; STJ, Recurso Especial n. 1.968.880/RS, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 17/9/2024.
+RELATÓRIO
+Trata-se de recurso especial interposto por MULTIPLAN EMPREENDIMENTOS IMOBILIÁRIOS S. A. e por CAIXA DE PREVIDÊNCIA DOS FUNCS DO BANCO DO BRASIL e MULTIPLAN PARKSHOPPING E PARTICIPAÇÕES LTDA., com fundamento no art. 105, III, a e c , da Constituição Federal, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios em agravo de instrumento nos autos de execução de título extrajudicial.
+O julgado foi assim ementado (fl. 78):
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. INSCRIÇÃO DO NOME DOS DEVEDORES. CADASTRO DE INADIMPLENTES. SERASAJUD. RECURSO DESPROVIDO.
+I - Caso em exame 1. Execução de título extrajudicial. 2. Decisão anterior - A decisão agravada indeferiu o pedido de inscrição do nome dos devedores nos cadastros de inadimplentes, por meio do sistema Serasajud. II - Questão em discussão 3. A questão em discussão consiste em examinar a possibilidade de se deferir o pedido de inscrição do nome dos devedores nos cadastros de inadimplentes, por meio do sistema Serasajud. III - Razões de decidir
+4. A inscrição do nome do devedor nos cadastros de inadimplentes pode ser requerida pelo próprio exequente, sem a intervenção do Poder Judiciário, e o disposto no art. 782, §3º, do CPC representa faculdade conferida ao Magistrado, que poderá deferir a medida, de forma suplementar, quando demonstrada a impossibilidade do credor em fazê-lo. Decisão mantida.
+IV - Dispositivo 5. Recurso conhecido. Agravo de instrumento desprovido. Jurisprudência relevante citada: TJDFT, AGI 0700135-33.2022.8.07.0000, Relator Luís Gustavo B. de Oliveira, Órgão Julgador 3ª Turma Cível, Data de Julgamento 28/04/2022; AGI
+Os embargos de declaração opostos foram rejeitados (fl. 131-135).
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 4º do Código de Processo Civil, porque o acórdão recorrido indeferiu medida voltada à efetividade da tutela executiva e negou maior amplitude à atividade satisfativa, que foi prevista como norma fundamental, quando condicionou o uso do SERASAJUD à prévia tentativa extrajudicial;
+b) 6º do Código de Processo Civil, já que o julgado desconsiderou a cooperação entre os sujeitos do processo para obtenção, em tempo razoável, de decisão justa e efetiva, ao rechaçar a negativação judicial dos executados como meio de conferir celeridade e efetividade à execução;
+c) 7º do Código de Processo Civil, pois o acórdão recorrido não assegurou paridade de tratamento entre as partes, ao restringir a via judicial para negativação e impor ônus não previsto em lei à exequente;
+d) 139, IV, do Código de Processo Civil, porquanto a Corte local afastou o poder geral de efetivação e tratou como mera faculdade a adoção de medidas coercitivas atípicas para assegurar o cumprimento de ordem judicial em prestação pecuniária, quando indeferiu a inscrição via SERASAJUD;
+e) 782, § 3º, do Código de Processo Civil, visto que o acórdão condicionou a inscrição em cadastros de inadimplentes à demonstração de impossibilidade de o credor fazê-la extrajudicialmente e reputou a medida como suplementar, embora o dispositivo não preveja tais requisitos, tendo indeferido o pleito de negativação dos executados via sistema SERASAJUD.
+Sustenta que o Tribunal de origem, ao decidir que a inclusão do nome dos executados em cadastros de inadimplentes via SERASAJUD somente poderia ser deferida de forma suplementar, quando demonstrada a impossibilidade do credor de fazê-la, divergiu do entendimento dos precedentes do Superior Tribunal de Justiça que admitem a negativação judicial independentemente de prévio requerimento administrativo e sem criação de óbices não previstos em lei (REsp n. 1.968.880/RS e REsp n. 1.835.778/PR) (fls. 152-165).
+Requer o provimento para que se determine a inclusão do nome dos recorridos nos cadastros de proteção ao crédito por meio do sistema SERASAJUD; requer ainda o provimento para que se façam as publicações exclusivamente em nome do advogado Gustavo Henrique Caputo Bastos.
+Contrarrazões às fls. 201-202.
+O recurso especial foi admitido (fls. 346-348).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. INCLUSÃO EM CADASTROS DE INADIMPLENTES VIA SERASAJUD. DESNECESSIDADE DE PRÉVIO REQUERIMENTO ADMINISTRATIVO E IMPOSSIBILIDADE DE CONDICIONANTES JUDICIAIS. RECURSO ESPECIAL PROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão proferido em agravo de instrumento que manteve o indeferimento da inclusão dos devedores nos cadastros de inadimplentes pelo SERASAJUD, sob o argumento de que a medida seria apenas suplementar e dependente da impossibilidade de negativação direta pelo credor.
+2. A controvérsia versa sobre execução de título extrajudicial, em que se pleiteou a inscrição dos executados nos cadastros de inadimplentes mediante o SERASAJUD, após frustradas as diligências para localização de bens penhoráveis.
+3. O Juízo de primeiro grau indeferiu o pedido de inscrição dos devedores nos cadastros de inadimplentes por meio do SERASAJUD.
+4. A Corte de origem manteve o indeferimento, afirmando que o art. 782, § 3º, do CPC confere faculdade suplementar ao magistrado, condicionada à demonstração de impossibilidade de negativação extrajudicial pelo exequente.
+II. QUESTÃO EM DISCUSSÃO
+5. A questão em discussão consiste em saber se a inclusão do executado em cadastros de inadimplentes, com base no art. 782, § 3º, do CPC, pode ser condicionada à prévia demonstração de impossibilidade de negativação extrajudicial pelo credor, à luz do poder geral de efetivação do art. 139, IV, do CPC.
+III. RAZÕES DE DECIDIR
+6. O Código de Processo Civil de 2015 privilegia a efetividade da tutela executiva; o art. 139, IV, autoriza medidas coercitivas necessárias ao cumprimento das decisões e o art. 782, § 3º, admite a inscrição do executado em cadastros de inadimplentes sem condicionantes não previstas em lei. A jurisprudência do STJ (REsp n. 1.835.778/PR e REsp n. 1.968.880/RS) afasta a exigência de prévio requerimento administrativo e valida o uso do SERASAJUD, desde que observadas a proporcionalidade e a razoabilidade.
+IV. DISPOSITIVO E TESE
+7. Recurso especial provido.
+Tese de julgamento: 1. O art. 782, § 3º, do CPC autoriza a inclusão do executado em cadastros de inadimplentes sem necessidade de prévio requerimento administrativo ou demonstração de impossibilidade de negativação direta pelo credor. 2. O art. 139, IV, do CPC consagra o poder geral de efetivação, legitimando medidas coercitivas, inclusive o uso do SERASAJUD, para conferir efetividade à execução, afastadas condicionantes não previstas em lei.
+Dispositivos relevantes citados: CPC, arts. 139, IV, 782, § 3º e 85, § 11.
+Jurisprudência relevante citada: STJ, Recurso Especial n. 1.835.778/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 6/2/2020; STJ, Recurso Especial n. 1.968.880/RS, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 17/9/2024.
+VOTO
+A controvérsia diz respeito a agravo de instrumento interposto contra decisão que, em execução de título extrajudicial, indeferiu a inclusão do nome dos devedores nos cadastros de inadimplentes, por meio do sistema SERASAJUD (fls. 79-83).
+I - Da alegada violação dos arts. 139, IV, e 782, § 3º, do Código de Processo Civil
+Sustenta a recorrente que o acórdão recorrido violou os arts. 139, IV, e 782, § 3º, do Código de Processo Civil ao afastar a possibilidade de inclusão dos executados em cadastros de inadimplentes por meio do sistema SERASAJUD, sob o fundamento de que a medida somente poderia ser deferida de forma suplementar, caso demonstrada a impossibilidade de o próprio credor promovê-la extrajudicialmente. Afirma que o Tribunal de origem criou condicionante não prevista em lei, esvaziando a efetividade da tutela executiva e restringindo indevidamente o poder geral de efetivação conferido ao magistrado. Aduz que, após o insucesso das diligências ordinárias voltadas à localização de bens penhoráveis, requereu providência coercitiva expressamente admitida pelo ordenamento processual, sendo ilegítima a recusa judicial fundada em conveniência administrativa ou na suposta desnecessidade da atuação jurisdicional.
+As alegações procedem.
+Conforme consignado no acórdão recorrido, a controvérsia consistia precisamente em "examinar a possibilidade de se deferir o pedido de inscrição do nome dos devedores nos cadastros de inadimplentes, por meio do sistema Serasajud" (fl. 78). Todavia, a Corte local concluiu que (fl. 78):
+a inscrição do nome do devedor nos cadastros de inadimplentes pode ser requerida pelo próprio exequente, sem a intervenção do Poder Judiciário, e o disposto no art. 782, § 3º, do CPC representa faculdade conferida ao Magistrado, que poderá deferir a medida, de forma suplementar, quando demonstrada a impossibilidade do credor em fazê-lo".
+No voto condutor, reiterou-se que "a inscrição em exame pode ser requerida pelo próprio exequente, sem a intervenção do Poder Judiciário" e que a providência seria apenas suplementar (fls. 80-81).
+O entendimento adotado, contudo, destoa da jurisprudência consolidada desta Corte Superior.
+O Código de Processo Civil de 2015 foi estruturado sob a premissa da efetividade da tutela jurisdicional, especialmente no âmbito executivo, em que a prestação jurisdicional somente se completa com a obtenção concreta da satisfação do crédito.
+Nesse contexto, o art. 139, IV, do CPC consagra verdadeiro poder geral de efetivação, autorizando a adoção de medidas coercitivas, indutivas, mandamentais ou sub-rogatórias necessárias ao cumprimento da ordem judicial, inclusive em obrigações de pagar quantia.
+De igual modo, o art. 782, § 3º, do CPC introduziu mecanismo típico de coerção patrimonial consistente na inclusão do nome do executado em cadastros de inadimplentes, sem estabelecer qualquer exigência de prévio requerimento administrativo ou demonstração de impossibilidade de atuação direta pelo credor.
+A Terceira Turma desta Corte, ao examinar controvérsia substancialmente idêntica, firmou orientação expressa no sentido da impossibilidade de criação judicial de condicionantes não previstas na norma processual:
+RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. QUESTÕES DEVIDAMENTE APRECIADAS PELO TRIBUNAL DE ORIGEM. REQUERIMENTO DE INCLUSÃO DO NOME DO EXECUTADO EM CADASTROS DE INADIMPLENTES, NOS TERMOS DO ART. 782, § 3º, DO CPC/2015. DESNECESSIDADE DE PRÉVIO REQUERIMENTO ADMINISTRATIVO. NORMA QUE DEVE SER INTERPRETADA DE FORMA A GARANTIR AMPLA EFICÁCIA À EFETIVIDADE DA TUTELA JURISDICIONAL EXECUTIVA. REFORMA DO ACÓRDÃO RECORRIDO. RECURSO ESPECIAL PROVIDO EM PARTE.
+1. A controvérsia posta no presente recurso especial consiste em saber, além da adequação da tutela jurisdicional prestada, se o requerimento de inclusão do nome do executado em cadastros de inadimplentes, nos termos do que dispõe o art. 782, § 3º, do Código de Processo Civil de 2015, depende da comprovação de prévia recusa administrativa das entidades mantenedoras do respectivo cadastro.
+(..)
+2. O ordenamento jurídico brasileiro deve tutelar não apenas o reconhecimento do direito postulado pela parte perante o Poder Judiciário, mas, também, a efetivação desse direito.
+(..)
+3. Em relação às medidas executivas típicas, uma das novidades trazidas pelo novo diploma processual civil é a possibilidade de inclusão do nome do devedor nos cadastros de inadimplentes, a qual encontra previsão expressa no art. 782, § 3º, do CPC de 2015.
+4. Tal norma deve ser interpretada de forma a garantir maior amplitude possível à concretização da tutela executiva, em conformidade com o princípio da efetividade do processo, não se mostrando razoável que o Poder Judiciário imponha restrição ao implemento dessa medida, condicionando-a à prévia recusa administrativa das entidades mantenedoras do respectivo cadastro, em manifesto descompasso com o propósito defendido pelo CPC/2015, especialmente em casos como o presente, em que as tentativas de satisfação do crédito foram todas frustradas.
+(..)
+(REsp 1.835.778/PR, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 6/2/2020, grifos acrescidos).
+Em igual direção, a Segunda Turma reafirmou a legitimidade da utilização do SERASAJUD como instrumento apto a conferir efetividade à execução:
+DMINISTRATIVO. PROCESSUAL CIVIL. EXECUÇÃO. OMISSÃO. AUSÊNCIA. MULTA DO TRIBUNAL DE CONTAS. SERASAJUD. POSSIBILIDADE. CENTRAL NACIONAL DA INDISPONIBILIDADE DE BENS - CNIB. RECURSO ESPECIAL PROVIDO.
+1. A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material, afastando-se, por conseguinte, a alegada violação ao art. 1.022 do CPC/2015.
+2. A jurisprudência do STJ, alinhada ao entendimento do STF na ADI 5.941/DF, admite a adoção de medidas executivas atípicas, desde que observados os princípios da proporcionalidade e razoabilidade no caso concreto.
+3. Reforma-se o acórdão que indefere o uso da ferramenta denominada "SERASAJUD" que inclui o nome do executado nos cadastros de inadimplência, porquanto seu uso confere maior efetividade na demanda executória, não se mostrando medida desproporcional.
+ ..
+4. Recurso especial provido.
+(REsp 1.968.880/RS, Rel. Ministro Afrânio Vilela, Segunda Turma, DJe 17/9/2024.)
+No caso dos autos, a Corte local não indeferiu a providência por juízo concreto de inadequação, desproporcionalidade ou inutilidade da medida no caso específico, mas sim por premissa abstrata segundo a qual a atuação judicial somente seria admissível se previamente demonstrada a impossibilidade de negativação extrajudicial pelo credor. Trata-se, precisamente, da restrição já rechaçada pela jurisprudência desta Corte.
+Assim, tendo o acórdão recorrido condicionado a aplicação da medida coercitiva a requisito não previsto no art. 782, § 3º, do CPC, em dissonância com a orientação consolidada do Superior Tribunal de Justiça, impõe-se o reconhecimento da violação dos arts. 139, IV, e 782, § 3º, do Código de Processo Civil.
+Diante disso, o recurso especial deve ser provido no ponto, para afastar o fundamento jurídico adotado pelo Tribunal de origem e determinar o deferimento da inclusão dos executados nos cadastros de inadimplentes por meio do sistema SERASAJUD, observadas as providências processuais cabíveis.
+Em razão do reconhecimento da violação dos arts. 139, IV, e 782, § 3º, do Código de Processo Civil, com o consequente provimento do recurso especial para deferimento da medida executiva pleiteada, fica prejudicado o exame das demais teses recursais, por perda superveniente de objeto, ante a suficiência da solução ora conferida para o deslinde da controvérsia.
+II - Conclusão
+Ante o exposto, conheço do recurso especial e dou-lhe provimento para reformar o acórdão recorrido a fim de deferir a inclusão dos executados nos cadastros de inadimplentes, por meio do sistema SERASAJUD, nos termos do requerimento formulado pela parte exequente.
+Deixo de fixar honorários recursais, nos termos do § 11 do art. 85 do Código de Processo Civil, em razão da inexistência de prévia fixação na origem.
+É o voto.
