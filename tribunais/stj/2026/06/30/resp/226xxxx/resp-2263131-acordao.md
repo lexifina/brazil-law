@@ -1,0 +1,84 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/06/2026 a 30/06/2026, por unanimidade, conhecer do recurso e lhe dar parcial provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Luís Carlos Gambogi (Desembargador Convocado do TJMG) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EFEITO DEVOLUTIVO DO AGRAVO DE INSTRUMENTO E SUPRESSÃO DE INSTÂNCIA. RECURSO ESPECIAL CONHECIDO E PARCIALMENTE PROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão que, em agravo de instrumento, extinguiu a ação sem resolução do mérito por suposta competência arbitral.
+2. A controvérsia decorre de agravo de instrumento contra decisão liminar que, em ação de indenização c/c resolução de contrato c/c tutela provisória, determinou bloqueios via BacenJud, Renajud e CNIB, busca e apreensão de bens e prova pericial.
+3. A Corte de origem deu provimento ao agravo para extinguir integralmente a ação sem resolução de mérito por existência de convenção de arbitragem e fixou honorários de 10% sobre o valor da causa.
+II. QUESTÃO EM DISCUSSÃO
+4. Há nove questões em discussão: (i) saber se houve violação dos arts. 1.002, 1.008 e 1.013 do CPC por supressão de instância e extrapolação do efeito devolutivo do agravo; (ii) saber se a extinção da ação configurou julgamento extra e ultra petita, em afronta ao art. 492 do CPC; (iii) saber se da convenção de arbitragem, matéria de defesa, se poderia conhecer de ofício em agravo, à luz do art. 337, §§ 5º e 6º, X, do CPC; (iv) saber se houve afronta ao art. 485, §§ 3º e 4º, do CPC quanto à desistência parcial antes da contestação e à impossibilidade de exame de ofício da arbitragem; (v) saber se o acórdão foi omisso ou contraditório, em ofensa ao art. 489, § 1º, IV e V, do CPC; (vi) saber se a fixação de honorários em 10% sobre o valor da causa, em processo extinto sem resolução de mérito, contrariou o art. 85, § 8º, do CPC; (vii) saber se houve ofensa ao foro do lugar do dano previsto no art. 53, IV, a, do CPC; (viii) saber se a extensão da convenção de arbitragem violou os arts. 10 e 32, IV, da Lei n. 9.307/1996; e (ix) saber se houve afronta aos arts. 2º e 3º, I e IV, da Constituição Federal.
+III. RAZÕES DE DECIDIR
+5. Incide o art. 1.013 do CPC, à luz da técnica secundum eventum litis, porque, na espécie, o acórdão recorrido conheceu originariamente de matérias não apreciadas pelo juízo natural (competência arbitral e desistência parcial) e extinguiu a ação relativamente ao limite cognitivo do agravo de instrumento.
+IV. DISPOSITIVO E TESE
+6. Recurso especial conhecido e parcialmente provido.
+Tese de julgamento: "Aplica-se o art. 1.013 do CPC para vedar a apreciação, em agravo de instrumento, de matéria não decidida pelo juízo de origem, sob pena de supressão de instância".
+Dispositivos relevantes citados: CPC, arts. 53, IV, a, 85, § 8º, 337, §§ 5º e 6º, X, 485, §§ 3º e 4º, 489, § 1º, IV e V, 492, 1.002, 1.008 e 1.013; Lei n. 9.307/1996, arts. 10 e 32, IV; CF, arts. 2º e 3º, I e IV.
+Jurisprudência relevante citada: STJ, Súmula n. 83; STJ, AgInt nos EDcl no AREsp n. 1.692.724/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 2/9/2024; STJ, AgInt no AREsp n. 1.931.075/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/5/2023.
+RELATÓRIO
+Trata-se de recurso especial interposto por REINARDA MINERAÇÃO LTDA. com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Pará em agravo de instrumento nos autos de ação de indenização c/c resolução de contrato c/c tutela provisória de urgência.
+O julgado foi assim ementado (fl. 806):
+AGRAVO DE INSTRUMENTO. RESCISÃO CONTRATUAL E DANOS MATERIAIS. ANTECIPAÇÃO DE TUTELA. BLOQUEIO VIA BACEN JUD DAS CONTAS DOS AGRAVANTES. BUSCA E APREENSÃO DE BENS. DESISTÊNCIA DO PEDIDO. DESCONSIDERAÇÃO. PEDIDO RESISTIDO. INSTALAÇÃO DO CONTRADITÓRIO. HOMOLOGAÇÃO DO JUÍZO. PRODUÇÃO DE EFEITOS. AUSÊNCIA. EXISTÊNCIA DE CLÁUSULA ARBITRAL. INCOMPETÊNCIA DO JUÍZO ESTATAL. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. RECURSO CONHECIDO E PROVIDO À UNANIMIDADE.
+1. A atitude do autor da ação de desistir de pedido com o intuito de contornar decisão proferida por Órgão deste Tribunal é claro sinal de violação a boa-fé processual, assim como atenta contra o princípio da cooperação que deve nortear todos os sujeitos do processo na busca da decisão justa e efetiva.
+2. O art. 200, parágrafo único, do Código de Processo Civil vigente expressamente estabelece a necessidade da homologação judicial para que o pedido de desistência produza seus efeitos. Precedentes do STJ.
+3- Existindo entre as partes cláusula compromissória é prerrogativa primeira do juízo arbitral decidir sobre a extensão dessa cláusula.
+4 - A cláusula arbitral, uma vez contratada pelas partes, goza de força vinculante e caráter obrigatório, definindo ao juízo arbitral eleito a competência para dirimir os litígios relativos aos direitos patrimoniais disponíveis, derrogando-se a jurisdição estatal
+4. Agravo de Instrumento conhecido e provido para extinguir a ação sem resolução do mérito ente a existência de convenção de arbitragem, à unanimidade.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 905):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. PRESPOSTOS DE ADMISSIBILIDADE PREENCHIDOS. CONHECIMENTO DO RECURSO. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. PRECEDENTES DO STF E STJ. RECURSO CONHECIDO E DESPROVIDO À UNANIMIDADE.
+1. A insurgência da embargante representa mero inconformismo com a conclusão adotada, em nítida pretensão de rediscutir o mérito da decisão na parte que lhe é desfavorável, o que é incabível nesta via recursal.
+2. Conforme art. 1.025 do Código de Processo Civil, consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade.
+3. Embargos de Declaração conhecido e desprovido à unanimidade.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 53, IV, a, do Código de Processo Civil, porquanto o acórdão recorrido extinguiu a ação integralmente e reconheceu a competência arbitral também para controvérsia indenizatória decorrente de fatos ocorridos no local do ato, afastando o foro do lugar do dano;
+b) 85, § 8º, do Código de Processo Civil, visto que a fixação de honorários sucumbenciais em 10% sobre o valor da causa foi desproporcional em demanda extinta sem resolução do mérito, devendo ser adotada a apreciação por equidade;
+c) 337, §§ 5º e 6º, X, do Código de Processo Civil, porque o acórdão recorrido apreciou de ofício, em agravo de instrumento, a convenção de arbitragem e extinguiu o processo, apesar de se tratar de matéria de defesa a ser arguida pela parte ré e cuja ausência implicou aceitação da jurisdição estatal;
+d) 485, §§ 3º e 4º, do Código de Processo Civil, já que a desistência parcial foi formulada antes da contestação e não poderia ser afastada sob fundamento de má-fé; além disso, o exame da convenção de arbitragem não poderia ocorrer de ofício;
+e) 489, § 1º, IV e V, do Código de Processo Civil, pois houve omissão e falta de enfrentamento de argumentos capazes de infirmar a conclusão; contradição quanto à competência do Juízo de origem para homologar a desistência; e ausência de fundamentação específica sobre a delimitação da cláusula arbitral em relação ao DM n. 810.354/1976;
+f) 492 do Código de Processo Civil, porque o acórdão foi extra e ultra petita ao extinguir a ação, quando o pedido no agravo de instrumento se limitava à revogação da liminar; e
+g) 1.002, 1.008 e 1.013 do Código de Processo Civil, já que houve ofensa ao duplo grau de jurisdição e à devolutividade recursal, com extinção da ação em agravo sem prévia apreciação pelo Juízo de origem;
+h) 10 e 32, IV, da Lei n. 9.307/1996, porque a extensão da convenção de arbitragem deve observar a matéria contratual objeto do compromisso, sendo nula a decisão que extrapola os limites da convenção;
+i) 2º, 3º, I e IV, da Constituição Federal.
+Sustenta que o Tribunal de origem, ao extinguir integralmente a ação em agravo de instrumento, por suposta incompetência estatal decorrente de convenção de arbitragem, divergiu do entendimento de outros tribunais estaduais sobre supressão de instância e limites do efeito devolutivo do agravo, notadamente de julgados do TJMS, do TJMT e do TJMG.
+Requer o provimento do recurso para que se reconheça a nulidade do acórdão por ofensa ao duplo grau de jurisdição e por julgamento extra petita; para que se determine o retorno dos autos ao Juízo de origem, com extinção apenas parcial em relação ao DM n. 850.940/2011 e manutenção da competência estatal quanto ao DM n. 810.354/1976; e para que se reforme a condenação em honorários sucumbenciais e se fixe a verba por equidade, nos termos do § 8º do art. 85 do Código de Processo Civil.
+Nas contrarrazões, ÂNCORA SIDERÚRGICA NORTE LTDA. requer a majoração de honorários em 5% (art. 85, § 11, do Código de Processo Civil).
+O recurso especial foi admitido.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EFEITO DEVOLUTIVO DO AGRAVO DE INSTRUMENTO E SUPRESSÃO DE INSTÂNCIA. RECURSO ESPECIAL CONHECIDO E PARCIALMENTE PROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão que, em agravo de instrumento, extinguiu a ação sem resolução do mérito por suposta competência arbitral.
+2. A controvérsia decorre de agravo de instrumento contra decisão liminar que, em ação de indenização c/c resolução de contrato c/c tutela provisória, determinou bloqueios via BacenJud, Renajud e CNIB, busca e apreensão de bens e prova pericial.
+3. A Corte de origem deu provimento ao agravo para extinguir integralmente a ação sem resolução de mérito por existência de convenção de arbitragem e fixou honorários de 10% sobre o valor da causa.
+II. QUESTÃO EM DISCUSSÃO
+4. Há nove questões em discussão: (i) saber se houve violação dos arts. 1.002, 1.008 e 1.013 do CPC por supressão de instância e extrapolação do efeito devolutivo do agravo; (ii) saber se a extinção da ação configurou julgamento extra e ultra petita, em afronta ao art. 492 do CPC; (iii) saber se da convenção de arbitragem, matéria de defesa, se poderia conhecer de ofício em agravo, à luz do art. 337, §§ 5º e 6º, X, do CPC; (iv) saber se houve afronta ao art. 485, §§ 3º e 4º, do CPC quanto à desistência parcial antes da contestação e à impossibilidade de exame de ofício da arbitragem; (v) saber se o acórdão foi omisso ou contraditório, em ofensa ao art. 489, § 1º, IV e V, do CPC; (vi) saber se a fixação de honorários em 10% sobre o valor da causa, em processo extinto sem resolução de mérito, contrariou o art. 85, § 8º, do CPC; (vii) saber se houve ofensa ao foro do lugar do dano previsto no art. 53, IV, a, do CPC; (viii) saber se a extensão da convenção de arbitragem violou os arts. 10 e 32, IV, da Lei n. 9.307/1996; e (ix) saber se houve afronta aos arts. 2º e 3º, I e IV, da Constituição Federal.
+III. RAZÕES DE DECIDIR
+5. Incide o art. 1.013 do CPC, à luz da técnica secundum eventum litis, porque, na espécie, o acórdão recorrido conheceu originariamente de matérias não apreciadas pelo juízo natural (competência arbitral e desistência parcial) e extinguiu a ação relativamente ao limite cognitivo do agravo de instrumento.
+IV. DISPOSITIVO E TESE
+6. Recurso especial conhecido e parcialmente provido.
+Tese de julgamento: "Aplica-se o art. 1.013 do CPC para vedar a apreciação, em agravo de instrumento, de matéria não decidida pelo juízo de origem, sob pena de supressão de instância".
+Dispositivos relevantes citados: CPC, arts. 53, IV, a, 85, § 8º, 337, §§ 5º e 6º, X, 485, §§ 3º e 4º, 489, § 1º, IV e V, 492, 1.002, 1.008 e 1.013; Lei n. 9.307/1996, arts. 10 e 32, IV; CF, arts. 2º e 3º, I e IV.
+Jurisprudência relevante citada: STJ, Súmula n. 83; STJ, AgInt nos EDcl no AREsp n. 1.692.724/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 2/9/2024; STJ, AgInt no AREsp n. 1.931.075/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/5/2023.
+VOTO
+A controvérsia diz respeito a agravo de instrumento interposto contra decisão liminar que, em ação de indenização c/c resolução de contrato c/c tutela provisória de urgência, determinou bloqueios via BacenJud, Renajud e CNIB, busca e apreensão de bens e produção de prova pericial. O valor da causa foi fixado em R$ 265.970.787,00.
+A Corte de origem deu provimento ao agravo de instrumento para extinguir a ação sem resolução de mérito, reconhecendo a incompetência do Juízo estatal em razão de convenção de arbitragem; fixou honorários sucumbenciais em 10% sobre o valor da causa.
+I - Arts. 337, §§ 5º e 6º, X, 492, 1.002, 1.008 e 1.013 do CPC
+Assiste razão à recorrente quanto à preliminar de violação do princípio do duplo grau de jurisdição.
+O agravo de instrumento consubstancia recurso de cognição restrita, regido pelo princípio secundum eventum litis, limitando-se ao exame do acerto ou desacerto da decisão de primeiro grau impugnada.
+No caso, a decisão interlocutória de primeiro grau apreciou tão somente a concessão da tutela provisória de urgência de bloqueio e busca e apreensão de bens.
+O magistrado singular não proferiu nenhuma deliberação sobre a competência do Juízo estatal, a validade da cláusula compromissória ou sobre o pedido de desistência parcial formulado pela autora.
+Dessa forma, ao conhecer originariamente da convenção de arbitragem no julgamento do agravo de instrumento para extinguir integralmente a ação de origem sem resolução do mérito, o Tribunal de Justiça do Estado do Pará usurpou a competência funcional da instância originária e incorreu em manifesta supressão de instância, violando o efeito devolutivo previsto no art. 1.013 do CPC. Nesse sentido:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. IMPOSSIBILIDADE DE O TRIBUNAL ANALISAR QUESTÃO AINDA NÃO APRECIADA PELO JUÍZO NATURAL . SUPRESSÃO DE INSTÂNCIA. INOVAÇÃO RECURSAL. DESCABIMENTO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE . SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. No caso, verifica-se que o entendimento esposado pelo Tribunal de origem, no julgamento do agravo de instrumento, está em consonância com a pacífica jurisprudência do Superior Tribunal de Justiça assente no sentido da impossibilidade de análise de questão que ainda não foi apreciada pelo juízo de origem, a qual não pode ser objeto de deliberação pela instância ad quem, sob pena de supressão de instância e ofensa ao duplo grau de jurisdição . Súmula 83/STJ.
+2. Agravo interno a que se nega provimento. (AgInt nos EDcl no AREsp n. 1.692.724/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 2/9/2024, DJe de 13/9/2024, destaquei.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AGRAVANTE.
+ ..
+3. O Tribunal estadual julgou a lide em conformidade com o entendimento desta Corte no sentido da impossibilidade de análise de questão que ainda não foi apreciada pelo juízo de origem, não pode ser objeto de deliberação, sob pena de supressão de instância e ofensa ao duplo grau de jurisdição . Incidência da Súmula 83/STJ.
+4. Agravo interno desprovido. (AgInt no AREsp n. 1.931.075/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023.)
+Por conseguinte, a ausência de prévia manifestação do juiz singular sobre a competência arbitral impedia o órgão fracionário de segundo grau de deliberar sobre o tema na via estreita do agravo de instrumento, devendo o Tribunal limitar-se a analisar a higidez dos requisitos da tutela de urgência deferida.
+II - Conclusão
+Ante o exposto, conheço do recurso especial e dou-lhe parcial provimento para cassar os acórdãos recorridos e afastar o decreto de extinção do processo de origem, determinando o retorno dos autos ao Juízo de Direito da Vara Única de Rio Maria (PA) para o regular processamento do feito. Deve o magistrado singular apreciar as preliminares e o pedido de desistência parcial, prosseguindo com a demanda quanto aos pleitos extracontratuais. Por sua vez, o Tribunal de origem deverá proceder a novo julgamento dos recursos de agravo de instrumento, limitando-se ao exame do acerto ou desacerto da decisão de primeiro grau impugnada.
+Considerando o resultado do julgamento, fica prejudicada a análise dos demais artigos tidos como violados e da alegada divergência jurisprudencial.
+É o voto.
