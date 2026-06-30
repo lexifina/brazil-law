@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se, na origem, de agravo de instrumento interposto por mutuária do Sistema Financeiro de Habitação (SFH) em ação ordinária que busca cobertura securitária da Apólice do Seguro Habitacional para vícios construtivos em imóvel, no qual o juízo de origem havia excluído as seguradoras do polo passivo e reconhecido a legitimidade exclusiva da Caixa Econômica Federal (CEF).
+O Tribunal Regional Federal da 1ª Região deu provimento ao agravo de instrumento para afirmar que, à luz da Medida Provisória 513/2010 (convertida na Lei 12.409/2011, com alterações da MP 633/2013 e da Lei 13.000/2014) e do Tema 1.011 do Supremo Tribunal Federal, a CEF representa o Fundo de Compensação de Variações Salariais (FCVS) nas apólices públicas (ramo 66), sem excluir a legitimidade das seguradoras, que devem figurar em litisconsórcio passivo com a CEF.
+Posteriormente, TRADITIO COMPANHIA DE SEGUROS (atual denominação da Sul América Companhia Nacional de Seguros) interpôs recurso especial (e-STJ, fls. 270-303), o qual foi negado seguimento, quanto ao Tema 1.011/STF e, no restante, não admitido pelo Tribunal de origem, nos termos da decisão de fls. 525-528 (e-STJ).
+Diante disso, TRADITIO COMPANHIA DE SEGUROS interpôs agravo em recurso especial e agravo interno (e-STJ, fls. 531-548 e 580-594, respectivamente).
+Em decisão posterior de retratação parcial, a Vice-Presidência do TRF da 1ª Região esclareceu que o Tema 1.011/STF versa sobre legitimidade passiva da CEF e competência da Justiça Federal (não sobre a responsabilidade final das seguradoras), mas, ainda assim, inadmitiu o Recurso Especial das seguradoras com base na Súmula 83/STJ, por estar o acórdão recorrido em consonância com a orientação do Superior Tribunal de Justiça quanto à legitimidade passiva da seguradora em ações de cobertura securitária no SFH, inclusive quando acobertadas pelo FCVS.
+Em seguida, COMPANHIA DE SEGUROS ALIANÇA DA BAHIA interpôs agravo em recurso especial (e-STJ, fls. 609-622), com fundamento no art. 1.042 do CPC/2015.
+Contraminuta apresentada às fls. 635-640 (e-STJ).
+Assim, os autos ascenderam a esta Corte.
+Brevemente relatado, decido.
+O agravo não merece conhecimento.
+Nos termos do art. 1.042 do CPC/2015, cabe agravo contra decisão do presidente ou do vice-presidente do tribunal recorrido que inadmitir recurso extraordinário ou recurso especial.
+Entretanto, no caso em estudo, diante da ausência de interposição de recurso especial pela ora insurgente, com o objetivo de demonstrar sua inconformidade com o acórdão regional, afigura-se equivocado o manejo do agravo previsto no art. 1.042 do CPC/2015, pois, inexistente a respectiva decisão denegatória do apelo especial, não há possibilidade, bem como interesse recursal, de interposição do agravo.
+Efetivamente, "o instrumento processual denominado agravo em recurso especial (ARESP) possui como única finalidade no ordenamento jurídico pátrio "destrancar" o recurso especial interposto e obstado na origem, mediante a impugnação aos fundamentos da decisão do Tribunal a quo, que desautorizou a "subida" do apelo nobre. Desse modo, não havendo interposição de recurso especial pela parte, não há possibilidade - tampouco necessidade - de manejo do recurso de agravo para este STJ (AgInt nos EDcl no AREsp n. 349.577/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 19/10/2017, DJe 26/10/2017).
+Diante do exposto, não conheço do agravo em recurso especial da COMPANHIA DE SEGUROS ALIANÇA DA BAHIA .
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO ESPECIAL. INEXISTÊNCIA DE INTERESSE RECURSAL. AGRAVO DE COMPANHIA DE SEGUROS ALIANÇA DA BAHIA NÃO CONHECIDO.
