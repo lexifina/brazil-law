@@ -1,0 +1,39 @@
+DECISÃO:
+Vistos.
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Alexandre Pereira dos Santos Godoy contra decisão monocrática proferida por Ministro do Superior Tribunal de Justiça, que indeferiu a liminar no HC nº 1.105.386/RJ (e-doc. 11).
+Consta dos autos a condenação, em sessão do Tribunal do Júri realizada no dia 21/8/2025, do paciente à pena de 18 anos e 8 meses de reclusão, em regime inicial fechado, pela prática do delito previsto no art. 121, § 2º, II, do Código Penal, com incidência da agravante do art. 61, II, “e”, do Código Penal.
+Interposta apelação criminal, o Tribunal de Justiça do Estado do Rio de Janeiro deu parcial provimento ao recurso defensivo, para redimensionar a pena do paciente para 14 anos de reclusão, em regime inicial fechado (e-doc. 3). Opostos embargos de declaração pela defesa; estes foram desprovidos (e-doc. 4).
+No âmbito do Superior Tribunal de Justiça, o Ministro Reynaldo Soares da Fonseca indeferiu a liminar (e-doc. 11).
+Neste writ, sustenta-se a superação da Súmula 691/STF diante da ocorrência de teratologia, em que: “a manutenção da prisão do Paciente decorre de um veredito do Tribunal do Júri absolutamente contaminado por uma prova que o próprio Tribunal de Justiça reconheceu como inválida, mas cujos efeitos sobre o Conselho de Sentença são impossíveis de aferir” (e-doc. 1, p. 3). Assevera, ainda, a nulidade absoluta do julgamento do Tribunal do Júri, de modo que a ilegalidade reside na oitiva de uma das testemunhas, sendo que a defesa não teve ciência prévia das condições em que o ato ocorreria, impossibilitando a fiscalização do procedimento.
+Requer, ao final, a suspensão imediata dos efeitos da decisão monocrática proferida no Superior Tribunal de Justiça e do acórdão do Tribunal de Justiça do Estado do Rio de Janeiro na Apelação Criminal nº 0010583- 11.2006.8.19.0008, com a expedição de alvará de soltura em favor do paciente.
+Pugna, ainda, a concessão da ordem, a fim de declarar a nulidade absoluta do julgamento realizado pelo Tribunal do Júri, determinando-se a submissão do paciente a novo julgamento.
+Examinados os autos, decido.
+Transcrevo, no que interessa à presente impetração, trecho da decisão monocrática combatida:
+“(...)
+A liminar em habeas corpus, bem como em recurso em habeas corpus, não possui previsão legal, tratando-se de criação jurisprudencial que visa a minorar os efeitos de eventual ilegalidade que se revele de pronto.
+Em um juízo de cognição sumária, não visualizo manifesta ilegalidade no ato ora impugnado a justificar o deferimento da medida de urgência.
+Em relação à manutenção da prisão do paciente, cumpre ressaltar que, no julgamento do RE n. 1.235.340/SC (Tema n. 1.068 de repercussão geral), concluído em 12/9/2024, o Supremo Tribunal Federal firmou entendimento de que "a soberania dos veredictos proferidos pelo Tribunal do Júri permite a imediata execução da condenação imposta pelo corpo de jurados, independentemente do quantum da pena aplicada". No caso, o paciente foi condenado pelo Tribunal do Júri à pena de 18 anos e 8 meses de reclusão, que foi reduzida pelo Tribunal de origem, no julgamento da apelação defensiva, para 14 anos de reclusão, circunstância que autoriza a execução provisória da pena, nos termos do dispositivo acima mencionado.
+Noutras palavras, não obstante as alegações defensivas sobre a pendência de recursos interpostos perante as Cortes Superiores, potencialmente capazes de anular o julgamento popular, não mais subsiste a necessidade de discussão sobre os requisitos da custódia cautelar ou sobre a idoneidade da fundamentação da prisão preventiva, pois, havendo a condenação pelo júri popular, independentemente da reprimenda aplicada, deverá ser determinada a execução provisória da pena e expedido o mandado de prisão, nos termos do art. 492, I, e, do Código de Processo Penal, em conjunto com o julgamento supramencionado.
+(...)
+Quanto aos demais temas trazidos na impetração, não obstante os fundamentos apresentados na inicial, mostra-se imprescindível uma análise mais aprofundada dos elementos de convicção constantes dos autos, para se aferir a existência de constrangimento ilegal.
+Ante o exposto, indefiro a liminar.” (e-doc. 11, p. 6-8, grifei)
+Em vista do que consta dos autos, este pleito não deve prosseguir.
+A orientação jurisprudencial deste Supremo Tribunal é torrencial no sentido de que a superação da Súmula 691 somente se justifica nos casos de flagrante teratologia, ilegalidade manifesta ou abuso de poder, situações nas quais não se enquadra a decisão impugnada.
+Outrossim, registre-se que não é possível aferir na decisão questionada situações aptas a justificar a superação do referido verbete. Nesse sentido, ressalte-se que o Ministro do STJ, ao analisar a impetração do habeas corpus, concluiu pela inexistência dos requisitos autorizadores daquela excepcional medida.
+Não há nesse ato nenhuma ilegalidade flagrante, tampouco abuso de poder. Pelo contrário, não se pode exigir, nesta fase processual, que o julgador esgote os fundamentos pelos quais a ordem deva ou não ser concedida, cabendo ao colegiado, depois de instruído o processo, analisar as questões postas sob exame, não havendo nesse agir nenhum constrangimento ilegal.
+Tal circunstância impede o exame do tema por este Supremo Tribunal, sob pena de incorrer-se em indevida supressão de instância, com evidente extravasamento dos limites de competência descritos no art. 102 da Constituição Federal.
+Ainda que superado esse óbice, na espécie, consideradas as particularidades do caso no sentido de que descartou-se, em sede de apelação criminal, preliminar defensiva afeta à decretação de nulidade de audiência realizada por videoconferência, porquanto não restou demonstrado qualquer prejuízo ao paciente e tendo em vista o disposto na legislação processual penal a respeito de se exigir a comprovação do prejuízo para o reconhecimento de nulidade processual, o recurso não merece prosperar.
+A jurisprudência do STF encontra-se consolidada no sentido de que “o princípio do ‘pas de nullité sans grief’ exige, em regra, a demonstração de prejuízo concreto à parte que suscita o vício, podendo ser ela tanto a nulidade absoluta quanto a relativa, pois não se decreta nulidade processual por mera presunção” (HC 132.149-AgR, Primeira Turma, Rel. Min. Luiz Fux, DJe 2.6.2017).
+A esse respeito, confiram-se:
+
+“PROCESSUAL PENAL. HABEAS CORPUS. EXECUÇÃO DA PENA ANTES DO TRÂNSITO EM JULGADO DA CONDENAÇÃO. PEDIDO NÃO CONHECIDO PELO STJ. IMPOSSIBILIDADE DE CONHECIMENTO POR ESTA SUPREMA CORTE SOB PENA DE SUPRESSÃO DE INSTÂNCIA. INVERSÃO NA ORDEM DOS DEPOIMENTOS DAS TESTEMUNHAS. INDEFERIMENTO DE PERGUNTAS DA DEFESA. QUEBRA DA INCOMUNICABILIDADE DAS TESTEMUNHAS. AUSÊNCIA DE DEMONSTRAÇÃO DE EFETIVO PREJUÍZO PARA O ACUSADO. ALEGAÇÃO DE INEXISTÊNCIA DE CONTINUIDADE DELITIVA. NECESSIDADE DE REEXAME DE MATÉRIA DE FATO QUE ULTRAPASSA OS LIMITES RESTRITOS DO HABEAS CORPUS.” (HC nº 95.786/PR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 6/2/09);
+
+“RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL. FURTO. INÉPCIA DA DENÚNCIA. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA E IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCOMUNICABILIDADE DAS TESTEMU-NHAS. AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. AUSÊNCIA DO RÉU EM AUDIÊNCIA. INEXISTÊNCIA DE CONTRARIEDADE AO INC. IX DO ART. 93 DA CONSTITUIÇÃO DA REPÚBLICA. ALEGAÇÃO DE OFENSA AO INC. LV DO ART. 5º DA CONSTITUIÇÃO DA REPÚBLICA: INEXISTÊNCIA DE REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA SEGUIMENTO” (ARE nº 1.240.453/SC, Relatora a Ministra Cármen Lúcia, DJe de 4/12/19).
+Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido liminar.
+
+Publique-se.
+Brasília, 30 de junho de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
