@@ -1,0 +1,49 @@
+DECISÃO
+
+Trata-se de Ação Penal proposta em face de ROSANGELA DE OLIVEIRA SANTOS, julgada procedente, para CONDENAR a RÉ à pena de 1 (um) ano de reclusão e 20 (vinte) dias-multa, cada dia-multa no valor de 1/2 (meio) salário mínimo nacional, em regime inicial aberto para o início do cumprimento da pena, pois incurso nos artigos:
+
+- 286, parágrafo único (incitação ao crime equiparada pela animosidade das Forças Armadas contra os Poderes Constitucionais), do Código Penal, à pena de 20 (vinte) dias-multa, cada dia-multa no valor de 1/2 (meio) salário mínimo nacional.
+- 288 (associação criminosa), do Código Penal, à pena de 1 (um) ano de reclusão.
+
+Foi substituída a pena privativa de liberdade, nos termos do artigo 44, § 2º, do Código Penal, por penas restritivas de direitos, consistentes em:
+
+- (i) Prestação de serviços à comunidade ou a entidades públicas, pelo total de 225h (duzentas e vinte e cinco horas), observados os limites mensais de cumprimento no mínimo de 30h (trinta horas), em local a ser indicado pelo Juízo da Execução;
+- (ii) Participação presencial em curso, elaborado pelo Ministério Público Federal, com temática sobre “Democracia, Estado de Direito e Golpe de Estado”, com carga horária de 12h (doze horas), distribuída em 4 (quatro) módulos de 3h (três horas), a ser ministrado pelo Juízo da Execução;
+- (iii) Proibição de ausentar-se da Comarca em que reside, até a extinção da pena;
+- (iv) Proibição de utilização de redes sociais, até a extinção da pena;
+- (v) Manutenção da suspensão dos passaportes emitidos pela República Federativa do Brasil, em nome do condenado;
+- (vi) Revogação de registro ou porte de arma de fogo, se existente;
+- (vii) 20 (vinte) dias-multa, cada um no valor de 1/2 (meio) salário mínimo à época dos fatos, pela prática do crime previsto no artigo 286, parágrafo único, do Código Penal (incitação ao crime equiparada pela animosidade das Forças Armadas contra os Poderes Constitucionais).
+
+A ré também foi condenada ao pagamento do valor mínimo indenizatório a título de danos morais coletivos de R$ 5.000.000,00 (cinco milhões de reais), a ser adimplido de forma solidária pelos demais condenados, em favor do fundo a que alude o art. 13 da Lei 7.347/1985.
+Foi fixado o regime aberto para o início do cumprimento da pena, tudo nos termos da seguinte ementa:
+
+Ementa: PENAL E PROCESSO PENAL. A CONSTITUIÇÃO FEDERAL NÃO PERMITE A PROPAGAÇÃO DE IDEIAS CONTRÁRIAS À ORDEM CONSTITUCIONAL E AO ESTADO DEMOCRÁTICO (CF, ARTIGOS 5º, XLIV, E 34, III E IV), TAMPOUCO A REALIZAÇÃO DE MANIFESTAÇÕES PÚBLICAS VISANDO À RUPTURA DO ESTADO DE DIREITO, POR MEIO DE GOLPE DE ESTADO COM INDUZIMENTO E INSTIGAÇÃO À INTERVENÇÃO MILITAR, COM A EXTINÇÃO DAS CLÁUSULAS PÉTREAS CONSTITUCIONAIS, DENTRE ELAS A QUE PREVÊ A SEPARAÇÃO DE PODERES (CF, ARTIGO 60, § 4º), COM A CONSEQUENTE INSTALAÇÃO DO ARBÍTRIO. ATOS ANTIDEMOCRÁTICOS DE 8/1. CONFIGURAÇÃO DE CRIMES MULTITUDINÁRIOS E ASSOCIAÇÃO CRIMINOSA (CP, ART. 288) PARA A PRÁTICA DOS DELITOS DE ABOLIÇÃO VIOLENTA DO ESTADO DEMOCRÁTICO DE DIREITO (CP, ART. 359- L), GOLPE DE ESTADO (CP, ART. 359-M), DANO QUALIFICADO (CP, ART. 163, P. U, I, III e IV), DETERIORAÇÃO DO PATRIMÔNIO TOMBADO (ART. 62, I, DA LEI 9.605/1998) E INCITAÇÃO DE ANIMOSIDADE DAS FORÇAS ARMADAS CONTRA OS PODERES CONSTITUCIONAIS (CP, ART. 286, PARÁGRAFO ÚNICO). MATERIALIDADE E AUTORIA DELITIVAS DE LUIS CARLOS DE SOUSA FERREIRA COMPROVADAS APENAS EM RELAÇÃO AOS CRIMES PREVISTOS NO ART. 288 E NO ART. 286, PARÁGRAFO ÚNICO, AMBOS DO CP. ABSOLVIÇÃO EM RELAÇÃO AOS CRIMES PREVISTOS NO ART. 359-L, NO ART. 359-M, NO ART. 163, § ÚNICO, TODOS DO CÓDIGO PENAL, E NO ART. 62,I, DA LEI 9605/98. INSUFICIÊNCIA PROBATÓRIA. AÇÃO PENAL PARCIALMENTE PROCEDENTE.
+1. Contexto de crimes multitudinários. Acampamento em frente de Quartel General do Exército, em Brasília, com complexa estrutura organizacional. Estabilidade e permanência comprovados. Propósito criminoso amplamente difundido e previamente conhecido. Manifestantes induzindo e instigando as Forças Armadas à tomada inconstitucional de poder, mediante uso da força e quebra da normalidade democrática. 2. Crime de incitação de animosidade das forças armadas contra os Poderes Constitucionais (art. 286, § único, do Código Penal) e de associação criminosa (art. 288 do Código Penal). Materialidade e autoria delitiva comprovadas. Propósito criminoso amplamente difundido e conhecido anteriormente. Manifestantes induziam e instigavam as Forças Armadas à tomada do poder. Acampamento na frente do Quartel General do Exército em Brasília com complexa estrutura organizacional. Estabilidade e permanência comprovados. 3. Especificidade em relação à ré ROSANGELA DE OLIVEIRA SANTOS. Ausência de provas suficientes para demonstrar efetiva participação na invasão à Praça dos Três Poderes e, em especial, ao Palácio do Planalto, durante os eventos do dia 8 de janeiro de 2023. 5. Provas suficientes, por outro lado, da demonstração da adesão voluntária da ré à associação criminosa e aos objetivos antidemocráticos do acampamento, incitando publicamente as Forças Armadas contra os Poderes Constitucionais, condutas enquadradas no artigo 286, parágrafo único, e no artigo 288, ambos do Código Penal. Interrogatório policial e prisão da ré que corroboram a conclusão, reforçando a condenação. 6. CONFISSÃO EXTRAJUDICIAL DA RÉ E DE 529 CO-AUTORES – ao realizarem Acordos de não persecução penal (ANPP) com a PGR – da prática dos crimes de associação criminosa (CP, art. 288, caput) e incitação ao crime, equiparada pela animosidade das Forças Armadas contra os Poderes Constitucionais (CP, art. 286, parágrafo único). PRISÃO DA ACUSADA no acampamento em frente ao Quartel-General do Exército. 7. PROCEDÊNCIA PARCIAL DA AÇÃO PENAL para: (1) ABSOLVER a ré ROSÂNGELA DE OLIVEIRA SANTOS dos crimes previstos no artigo 359-L (abolição violenta do Estado Democrático de Direito), no artigo 359-M (golpe de Estado), no artigo 163, parágrafo único, I, II, III e ubstância inflamável, contra o patrimônio da União e com considerável prejuízo para a vítima), todos do Código Penal e no artigo 62, I, da Lei 9.605/1998 (deterioração de patrimônio tombado), nos termos do art. 386, VII, do Código de Processo Penal; (2) CONDENAR a ré ROSÂNGELA DE OLIVEIRA SANTOS, em concurso material (CP, art. 69), a: (2.1) 1 (um) ano de reclusão pela prática do crime previsto no art. 288, caput, do Código Penal (Associação Criminosa), substituída a pena privativa de liberdade, nos termos do artigo 44, § 2º, do Código Penal, por pena restritiva de direitos; (2.2) 20 (vinte) dias-multa, cada um no valor de 1/2 (meio) salário mínimo à época dos fatos, pela prática do crime previsto no artigo 286, parágrafo único, do Código Penal (incitação ao crime equiparada pela animosidade das Forças Armadas contra os Poderes Constitucionais); (2.3) R$ 5.000.000,00 (cinco milhões de reais), como pagamento do valor mínimo indenizatório a título de danos morais coletivos, a ser adimplido de forma solidária pelos demais condenados, em favor do fundo a que alude o art. 13 da Lei 7.347/1985.
+
+A Secretaria Judiciária certificou que o acórdão condenatório transitou em julgado em  30/6/2026 (eDoc. 241).
+
+É o breve relato. DECIDO.
+
+Em virtude do trânsito em julgado desta Ação Penal, DETERMINO o início do cumprimento das penas restritivas de direitos impostas a ROSANGELA DE OLIVEIRA SANTOS, nos seguintes termos:
+
+- (i) Prestação de serviços à comunidade ou a entidades públicas, pelo total de 225h (duzentas e vinte e cinco horas), observados os limites mensais de cumprimento no mínimo de 30h (trinta horas), em local a ser indicado pelo Juízo da Execução;
+- (ii) Participação presencial em curso, elaborado pelo Ministério Público Federal, com temática sobre “Democracia, Estado de Direito e Golpe de Estado”, com carga horária de 12h (doze horas), distribuída em 4 (quatro) módulos de 3h (três horas), a ser ministrado pelo Juízo da Execução;
+- (iii) Proibição de ausentar-se da Comarca em que reside, até a extinção da pena;
+- (iv) Proibição de utilização de redes sociais, até a extinção da pena;
+- (v) Manutenção da suspensão dos passaportes emitidos pela República Federativa do Brasil, em nome do condenado;
+- (vi) Revogação de registro ou porte de arma de fogo, se existente;
+- (vii) 20 (vinte) dias-multa, cada um no valor de 1/2 (meio) salário mínimo à época dos fatos, pela prática do crime previsto no artigo 286, parágrafo único, do Código Penal (incitação ao crime equiparada pela animosidade das Forças Armadas contra os Poderes Constitucionais).
+
+DETERMINO, ainda, a expedição de guia de execução penal a ser realizada pelo Juízo da 1ª Vara Criminal de Barra do Garças-MT, no Juízo de Execução, à qual delego a competência para a imediata determinação das providências cabíveis.
+Deverá o Juízo da  1ª Vara Criminal de Barra do Garças-MT, no Juízo de Execução, encaminhar mensalmente – ou no caso de qualquer intercorrência –, a este SUPREMO TRIBUNAL FEDERAL, relatório circunstanciado sobre o cumprimento da pena pela condenada, cabendo-lhe dar ciência a esta SUPREMA CORTE de qualquer circunstância relevante no curso do cumprimento da reprimenda.
+DETERMINO, ainda, a extração de certidão do acórdão para fins de execução da pena de multa fixada, com remessa da mesma à Procuradoria-Geral da República, para ajuizamento oportuno, junto à Vara de Execução Criminal competente, da execução respectiva, nos termos do art. 164 e seguintes da Lei de Execução Penal c/c. art. 51 do Código Penal.
+Por fim, DETERMINO ao  Juízo da  1ª Vara Criminal de Barra do Garças-MT, no Juízo de Execução, que sejam adotadas as medidas pertinentes para a retirada do equipamento de monitoração eletrônica por ocasião do início do cumprimento da pena.
+Intimem-se os advogados regularmente constituídos.
+Ciência à Procuradoria-Geral da República.
+Publique-se.
+Brasília, 30 de junho de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
