@@ -1,0 +1,70 @@
+DECISÃO
+Cuida-se de agravo interposto por RYAN DA SILVA DE OLIVEIRA contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "c", da Constituição Federal, contra acórdão proferido no julgamento da Apelação Criminal n. 1501096-10.2025.8.26.0548.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 33 da Lei n. 11.343/2006 (tráfico de drogas), à pena de 4 anos de reclusão, em regime inicial aberto, substituída por duas restritivas de direitos, e 400 dias-multa (fl. 138).
+Recurso de apelação interposto pela defesa foi desprovido (fl. 202). O acórdão ficou assim ementado (fl. 184):
+"EMENTA: Tráfico ilícito de entorpecentes (artigo 33, § 4º, da Lei nº 11.343/2006). Crime caracterizado, integralmente. Flagrante inquestionável. Palavras coerentes e incriminatórias de Policiais Militares. Validade. Versões exculpatórias inverossímeis. Inexistência de nulidade processual. Ilegalidade de busca pessoal. Desnecessidade de ordem judicial. Existência de fundadas razões para a ação. Diligências dentro da legalidade. Precedentes desta C. Câmara Criminal. Responsabilização inevitável. Necessidade condenatória imperiosa. Apenamento e regime benevolentes. Isenção de pagamento de taxa judiciária. Impossibilidade. Apelo improvido."
+Em sede de recurso especial (fls. 211/217), a defesa aponta que o acórdão recorrido conferiu aos arts. 59 do CP e 33, § 4º, da Lei n. 11.343/06 interpretação divergente da adotada pelos Tribunais Superiores. Sustenta que a utilização da quantidade e da natureza das drogas tanto para exasperar a pena-base quanto para limitar a fração redutora do tráfico privilegiado, na terceira fase da dosimetria, configura nítido bis in idem.
+Defende, ainda, que a consideração isolada da quantidade de drogas não é motivo hábil a ensejar a exasperação na primeira fase.
+Requer o afastamento da exasperação na primeira fase, com a fixação da pena-base no mínimo legal, e a diminuição da pena pelo reconhecimento do tráfico privilegiado em seu grau máximo (2/3).
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO (fls. 226/230).
+O recurso especial foi inadmitido no TJ em razão da ausência de demonstração analítica do dissídio jurisprudencial (fls. 231/234).
+Em agravo em recurso especial, a defesa impugnou referido impeditivo (fls. 239/242).
+Contraminuta do Ministério Público (fls. 247/252).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal, este opinou pelo conhecimento do agravo em recurso especial e pelo conhecimento parcial, com provimento, do recurso especial (fls. 268/272).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+A princípio, verifica-se ser inviável o conhecimento do recurso especial no tocante à interposição com fundamento na alínea "c" do permissivo constitucional, uma vez que o recorrente não procedeu ao necessário confronto analítico entre os julgados, nos termos dos arts. 1.029, § 1º, do CPC, e 255, § 1º, do RISTJ.
+Destarte, o recurso especial não deve ser conhecido nesse ponto, pois não foi feito o cotejo analítico entre os julgados, com a devida demonstração da similitude fática entre eles e da aplicação de distinta solução jurídica. Não se considera comprovado o dissídio jurisprudencial com mera transcrição de ementa ou trecho esparso do acórdão paradigma, que não permite a constatação da alegada semelhança entre os julgados.
+Nesse sentido, citam-se precedentes:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. CONDENAÇÃO PELO TRIBUNAL A QUO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. PELITO DE ABSOLVIÇÃO. SÚMULA 7/STJ. TRÁFICO PRIVILEGIADO INCOMPATÍVEL COM A CONDENAÇÃO POR ASSOCIAÇÃO AO TRÁFICO. SÚMULA 83/STJ. AUSÊNCIA DO NECESSÁRIO COTEJO ANALÍTICO ENTRE OS ACÓRDÃOS APONTADOS. AGRAVO REGIMENTAL NÃO CONHECIDO.
+ ..
+10. Por fim, não obstante a interposição do recurso especial fundado em dissídio jurisprudencial, o recorrente não realizou o cotejo analítico entre os acórdãos confrontados, limitando-se a transcrever trecho do acórdão recorrido e a ementa do acórdão tido como paradigma. Como é cediço na jurisprudência desta Corte Superior, não se pode conhecer de recurso especial fundado na alínea "c" do permissivo constitucional quando a parte recorrente não realiza o necessário cotejo analítico entre os acórdãos confrontados, a fim de evidenciar a similitude fática e a adoção de teses divergentes, sendo insuficiente a mera transcrição de ementa. Requisitos previstos no art. 255, §1º, do Regimento Interno do Superior Tribunal de Justiça e do art. 1.029, § 1º, do CPC. Divergência jurisprudencial não demonstrada.
+11. Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.458.142/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/2/2024, DJe de 14/2/2024.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 383 DO CPP. MUTATIO LIBELLI. NÃO OCORRÊNCIA. CASO DE EMENDATIO LIBELLI. DENÚNCIA QUE DESCREVE MOLDURA FÁTICA COMPATÍVEL COM O DELITO DO ART. 313-A DO CP. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA NÃO DEMONSTRADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+5. Conforme disposição dos arts. 1.029, § 1º, do CPC, e 255, § 1º, do RISTJ, quando o recurso interposto estiver fundado em dissídio pretoriano, deve a parte colacionar aos autos cópia dos acórdãos em que se fundamenta a divergência, bem como realizar o devido cotejo analítico, demonstrando de forma clara e objetiva suposta incompatibilidade de entendimentos e similitude fática entre as demandas, o que não ocorreu na hipótese.
+6. No caso dos autos, a parte limitou-se a indicar julgado desta Corte Superior relacionado a outra ação penal decorrente da mesma operação deflagrada para investigar fraudes na concessão de benefícios previdenciários sem, no entanto, realizar o devido cotejo analítico para demonstrar a similitude fática entre os julgados e a adoção de teses divergentes.
+7. Agravo regimental não provido.
+(AgRg no AREsp n. 1.441.689/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/8/2022, DJe de 31/8/2022.)
+Não obstante, revela-se forçosa a reforma, de ofício, da decisão recorrida, nos termos do art. 647-A do CPP.
+Isso porque as instâncias ordinárias incorreram em manifesto bis in idem ao valorarem o mesmo elemento em momentos distintos da dosimetria.
+Na primeira fase, a pena-base foi majorada em 1/5 em razão da quantidade de substâncias apreendidas; na terceira etapa, a Corte local manteve a redução em 1/3 devido à redutora do tráfico privilegiado, justificando expressamente o patamar escolhido com base na quantidade e na natureza dos entorpecentes.
+Essa fundamentação contraria o entendimento pacificado desta Corte, que veda categoricamente a dupla valoração, porquanto a natureza e a quantidade das drogas devem ser sopesadas em apenas um momento do cálculo da pena, como vetor único, seja na fixação da pena-base ou na escolha da fração de diminuição.
+A propósito:
+DIREITO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. HABEAS CORPUS SUBSTITUTIVO. TRÁFICO DE DROGAS. TRÁFICO PRIVILEGIADO. NÃO CABIMENTO. PENA-BASE. NATUREZA E QUANTIDADE DE DROGAS. VETORIAL ÚNICA. AGRAVO IMPROVIDO, COM CONCESSÃO DE ORDEM DE OFÍCIO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática do Ministro Presidente que indeferiu liminarmente habeas corpus impetrado em favor de condenado pelos crimes de tráfico de drogas e corrupção ativa, no qual se pretendia o reconhecimento do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006), com redimensionamento da pena e adequação do regime inicial.
+2. Fato relevante. Instâncias ordinárias afastaram a causa especial de diminuição sob fundamento de dedicação a atividades criminosas, notadamente em razão da apreensão de 778,68g de cocaína em 1.512 pinos, mais de 1,7kg de maconha e diversos petrechos para embalo e pesagem.
+3. Decisão agravada. A decisão atacada não conheceu do habeas corpus, por ser substitutivo de recurso próprio, e afastou a alegada ilegalidade na negativa do tráfico privilegiado, mantendo, contudo, a dosimetria tal como realizada pelas instâncias de origem.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão é saber se, em sede de habeas corpus substitutivo de recurso próprio, é possível reexaminar o conjunto fático-probatório para afastar a conclusão das instâncias ordinárias quanto à dedicação do condenado a atividades criminosas e, assim, aplicar a causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006.
+III. RAZÕES DE DECIDIR
+5. A orientação do Superior Tribunal de Justiça e do Supremo Tribunal Federal veda o uso de habeas corpus como substitutivo do recurso cabível, impondo o não conhecimento da impetração, ressalvada a possibilidade de concessão da ordem de ofício em caso de flagrante ilegalidade.
+6. As instâncias antecedentes, soberanas na análise da prova, concluíram pela dedicação do condenado à atividade de tráfico, com base na expressiva quantidade e variedade de entorpecentes apreendidos e na existência de petrechos e estrutura organizada para comercialização, de modo que a pretendida incidência da minorante do tráfico privilegiado demandaria reexame do acervo probatório, providência incabível em habeas corpus.
+7. Verificada desproporcionalidade na exasperação da pena-base, que havia sido elevada à razão de 1/5 para cada circunstância desfavorável, com valoração em separado da natureza e da quantidade de drogas, impõe-se o ajuste de ofício, pois tais vetores, à luz do art. 42 da Lei n. 11.343/2006, compõem circunstância judicial única e devem ser analisados conjuntamente.
+IV. DISPOSITIVO E TESE
+8. Resultado do Julgamento: Agravo regimental desprovido, com concessão de habeas corpus de ofício para reduzir a pena-base do crime de tráfico de drogas e redimensionar a pena final para 8 anos de reclusão e 610 dias-multa, mantido o regime inicial fechado.
+Tese de julgamento:
+1. O habeas corpus substitutivo de recurso próprio não deve ser conhecido, admitindo-se, contudo, a concessão de ordem de ofício diante de flagrante ilegalidade.
+2. A revisão, em habeas corpus, da conclusão das instâncias ordinárias sobre a dedicação do condenado à atividade criminosa, para fins de aplicação da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, é inviável quando demanda reexame do conjunto fático-probatório.
+3. A natureza e a quantidade de drogas previstas no art. 42 da Lei n. 11.343/2006 integram circunstância judicial única, devendo ser valoradas conjuntamente.
+Dispositivos relevantes citados: CR/1988, art. 5º, LXVIII; Lei n. 11.343/2006, arts. 33, caput e § 4º, e 42; Código Penal, arts. 69 e 333.
+Jurisprudência relevante citada: STJ, HC 535.063/SP, Terceira Seção, j. 10.06.2020; STF, AgRg no HC 180.365, Primeira Turma, j.
+27.03.2020; STF, AgR no HC 147.210, Segunda Turma, j. 30.10.2018;
+STJ, AgRg no REsp 2.141.983/SC, Sexta Turma, j. 26.02.2025; STJ, AgRg no AREsp 2.814.944/RS, Quinta Turma, j. 18.02.2025; STJ, HC 849.487/SP, Sexta Turma, j. 13.08.2025; STJ, REsp 2.176.663/PR, Quinta Turma, j. 17.12.2024; STJ, AgRg no HC 878.774/MG, Sexta Turma, j. 18.06.2024.
+(AgRg no HC n. 1.080.972/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/5/2026, DJEN de 18/5/2026.)
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. TRÁFICO DE DROGAS (2.830 G DE SKUNK). PRETENSÃO DE REVISÃO DA DOSIMETRIA. ILEGALIDADE FLAGRANTE. NATUREZA DE DROGA APREENDIDA COMO FUNDAMENTO PARA MAJORAR A PENA-BASE E QUANTIDADE PARA AFASTAR A APLICAÇÃO DO REDUTOR DO TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. A ANÁLISE DOS VETORES DEVE SER CONJUNTA. REDIMENSIONAMENTO DA REPRIMENDA. REGIME SEMIABERTO. SUBSTITUIÇÃO DAS PENAS PRIVATIVAS DE LIBERDADE POR DUAS RESTRITIVAS DE DIREITOS.
+1. A utilização concomitante da natureza e da quantidade da droga apreendida na primeira e na terceira fases da dosimetria, nesta última para descaracterizar o tráfico privilegiado ou modular a fração de diminuição de pena, configura bis in idem, expressamente rechaçado no julgamento do Recurso Extraordinário n. 666.334/AM, submetido ao regime de repercussão geral pelo Supremo Tribunal Federal (Tese de Repercussão Geral n. 712) - (REsp n. 1.887.511/SP, Ministro João Otávio de Noronha, Terceira Seção, DJe 1º/7/2021).
+2. No caso, há ilegalidade flagrante na consideração da natureza do entorpecente (skunk) para aumentar a pena-base, com fundamento no art. 42 da Lei n. 11.343/2006 e, ao mesmo tempo, modular o redutor do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006) com base na quantidade, visto que, nos termos da jurisprudência desta Corte, a natureza e a quantidade de drogas constituem vetor judicial único (art. 42 da Lei n. 11.343/2006) e não podem ser cindidas.
+Precedente.
+3. Ordem concedida para fixar a pena da paciente em 1 ano, 11 meses e 10 dias de reclusão, em regime inicial semiaberto, e 194 dias-multa, substituída a pena privativa de liberdade por duas restritivas de direitos, a serem fixadas pelo Juízo da execução.
+(HC n. 849.487/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/8/2025, DJEN de 18/8/2025.)
+Passo, portanto, ao redimensionamento da pena.
+Na primeira fase, mantido o aumento em 1/5 em razão da grande quantidade de entorpecentes apreendida, fixa-se a pena-base em 6 anos de reclusão e 600 dias-multa.
+Ausentes agravantes ou atenuantes, fica inalterada a reprimenda.
+Na terceira fase, reconhecidos o tráfico privilegiado e a inidoneidade do afastamento do grau máximo de diminuição, reduzem-se as penas em 2/3, fixando-as, definitivamente, em 2 anos de reclusão e 200 dias-multa.
+Ante o exposto, conheço do agravo para, com fulcro no art. 932, III, do CPC, não conhecer do recurso especial, mas concedo habeas corpus, de ofício, para redimensionar a pena definitiva para 2 anos de reclusão e 200 dias-multa.
+Publique-se. Intimem-se.
+ EMENTA
