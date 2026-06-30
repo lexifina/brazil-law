@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LUCIVAL PEREIRA SOUSA LIMA contra decisão que inadmitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea a, da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de Goiás, assim ementado:
+"DIREITO DO CONSUMIDOR. APELAÇÃO CÍVEL. COBRANÇA INDEVIDA DE TARIFA BANCÁRIA. AUSÊNCIA DE CONTRATAÇÃO EXPRESSA. DANO MORAL. INEXISTÊNCIA. REPETIÇÃO DO INDÉBITO EM DOBRO. HONORÁRIOS ADVOCATÍCIOS FIXADOS POR EQUIDADE. SENTENÇA MANTIDA COM ADEQUAÇÃO DOS CONSECTÁRIOS LEGAIS.
+I. CASO EM EXAME:
+1. Ação declaratória de inexistência de débito cumulada com repetição de indébito e indenização por danos morais ajuizada em razão da cobrança de tarifa bancária não contratada. Sentença que julgou parcialmente procedentes os pedidos para declarar a inexistência do débito, condenar o banco à devolução em dobro dos valores descontados e indeferir o pedido de indenização por danos morais. Recurso da parte autora visando a reforma da sentença quanto à indenização por danos morais e à majoração dos honorários advocatícios.
+II. QUESTÃO EM DISCUSSÃO:
+2. A questão em discussão consiste em: (i) analisar a existência de dano moral decorrente de descontos bancários mensais não autorizados de valor ínfimo; (ii) examinar os critérios legais para a fixação dos honorários advocatícios sucumbenciais em valor superior ao arbitrado; (iii) verificar a necessidade de adequação dos consectários legais incidentes sobre a condenação à restituição do indébito.
+III. RAZÕES DE DECIDIR:
+3. Inexistência de demonstração de repercussão negativa significativa apta a configurar violação a direitos da personalidade, sendo insuficiente o mero aborrecimento decorrente do desconto de valor módico;
+4. Fixação da verba honorária por equidade adequada ao baixo valor da condenação e à complexidade da causa, sendo inaplicável, no caso, a Tabela da OAB/GO como parâmetro obrigatório;
+5. Reconhecimento de ofício da necessidade de adequação dos consectários legais incidentes sobre o dano material, com atualização monetária pelo IPCA desde cada desembolso e aplicação de juros de mora pela taxa SELIC, conforme o art. 406 do Código Civil com redação dada pela Lei n.º 14.905/2024.
+IV. DISPOSITIVO E TESE:
+6. Apelação cível conhecida e desprovida. Sentença mantida, com adequação, de ofício, dos consectários legais aplicáveis à condenação em danos materiais.
+Tese(s) de julgamento: 1. O desconto bancário indevido de valor ínfimo, sem comprovação de repercussões relevantes à esfera pessoal do consumidor, configura mero aborrecimento e não enseja indenização por danos morais; 2. A fixação dos honorários sucumbenciais por equidade é admissível quando o proveito econômico for irrisório, sendo a Tabela da OAB mero referencial não vinculante; 3. Os consectários legais da condenação em danos materiais devem observar os índices legais vigentes, com correção pelo IPCA desde cada desconto e juros moratórios pela SELIC a partir da citação.
+Dispositivos legais citados: Código de Defesa do Consumidor, art. 6º, III, e art. 42, parágrafo único; Código Civil, art. 406 (com redação da Lei nº 14.905/2024); Código de Processo Civil, art. 85, §§ 2º, 8º, 8º-A e 11." (e-STJ, fls. 394-395)
+Não foram opostos embargos de declaração.
+Em seu recurso especial, o recorrente alega violação dos seguintes dispositivos da legislação federal, com as respectivas teses:
+(i) art. 14 do CDC, pois teria havido falha na prestação do serviço bancário, consubstanciada na cobrança de tarifa não contratada, o que, por responsabilidade objetiva, ensejaria reparação por danos morais, à luz da Súmula n.º 479/STJ.
+(ii) art. 85, § 2º, § 8º e § 8º-A do CPC, porque, nas hipóteses de proveito econômico irrisório, a fixação por equidade deveria observar obrigatoriamente os valores recomendados pela Tabela da OAB, sendo indevida a estipulação de honorários em patamar inferior, o que contrariaria também a orientação do Tema 1.076/STJ.
+Foram apresentadas contrarrazões (e-STJ, fls. 424-434).
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+É o relatório. Passo a decidir.
+No caso, o recurso especial versa, entre outros pontos, sobre a necessidade de observância dos parâmetros mínimos previstos no art. 85, § 8º-A, do CPC, quando da fixação dos honorários advocatícios por equidade.
+A referida controvérsia foi afetada, em 07.11.2025, pela Segunda Seção desta Corte à sistemática de recursos especiais repetitivos, cadastrado como Tema 1388, a saber: "Necessidade de observância dos parâmetros mínimos estabelecidos no art. 85, § 8º-A, do CPC, quando da fixação dos honorários advocatícios por apreciação equitativa".
+Ademais, foi determinada a suspensão da tramitação dos recursos especiais e dos agravos em recurso especial que versem sobre idêntica questão jurídica.
+Dessa forma, impõe-se a devolução dos autos ao eg. Tribunal de origem para que seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC/15, conforme determinação prevista no art. 256-L do Regimento Interno desta Corte Superior, que assim dispõe:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Por fim, registre-se que, segundo a orientação jurisprudencial desta Corte, o ato judicial que determina o sobrestamento e o retorno dos autos à Corte de origem, a fim de que seja exercido o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC/2015) não possui carga decisória, por isso se trata de provimento irrecorrível.
+Nesse sentido: AgInt no REsp 1140843/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 23/10/2018, DJe 30/10/2018, AgInt nos EDcl nos EREsp 1.126.385/MG, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe 20/09/2017; AgInt no REsp 1663877/SE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/08/2017, DJe 04/09/2017; AgInt no REsp 1661811/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/06/2018, DJe 29/06/2018.
+Diante do exposto, determino a remessa dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que, nos termos dos arts. 1.039 e 1.040 do CPC/2015, após o julgamento do tema de recurso repetitivo: i) negue-se seguimento ao recurso especial no caso de o acórdão recorrido coincidir com a tese firmada sobre o aludido tema; ou ii) proceda-se a novo exame da matéria, no órgão prolator da decisão vergastada, na hipótese desta última divergir da referida tese.
+Publique-se.
+EMENTA
