@@ -1,0 +1,1 @@
+Art. 32. O Estado, em colaboração com o Município e a comunidade de Palmeira e sob a coordenação da Secretaria de Estado da Cultura, reconstituirá, dentro de dois anos da promulgação desta Constituição, parte da Colônia Cecília, fundada nesse Município, no século XIX, para a preservação de seus caracteres histórico-culturais.

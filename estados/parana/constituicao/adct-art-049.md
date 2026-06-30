@@ -1,0 +1,1 @@
+Art. 49. Os Municípios com litígios territoriais contarão com a assistência do Estado para o cumprimento do disposto no art. 12, § 2°, do Ato das Disposições Constitucionais Transitórias da Constituição Federal.

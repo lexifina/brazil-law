@@ -1,0 +1,1 @@
+Art. 34. Em fevereiro de 1993, será criada uma comissão com representantes dos Poderes Legislativo, Executivo, e Judiciário, sem prejuízo da colaboração da União e dos Municípios interessados, para promover as comemorações do centenário da Revolução Federalista, em 9 de fevereiro de 1994.

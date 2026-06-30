@@ -1,0 +1,1 @@
+Art. 24. A Rádio e Televisão Educativa do Paraná - RTVE manterá seu caráter educativo e cultural, com a prioridade de sua programação à produção e à difusão dos valores culturais paranaenses, estando vinculada à Secretaria de Estado da Comunicação Social - SECS.

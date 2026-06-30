@@ -1,0 +1,2 @@
+Art. 8º. Os titulares das escrivanias judiciais cíveis, comuns e especializadas, remunerados por custas processuais, não pertencerão ao quadro efetivo de servidores públicos estaduais, preservado os direitos dos atuais titulares.
+Parágrafo único. No caso das serventias judiciais privativas de família, as mesmas obedecerão o caput do presente artigo, sendo que na medida em que ocorrerem vacâncias as mesmas serão estatizadas.

@@ -1,0 +1,1 @@
+Art. 56A. A Carreira Especial de Advogado do Estado do Paraná em extinção e seus integrantes, em atividade, são vinculados e coordenados pela Procuradoria-Geral do Estado, no exercício das atribuições que lhes são conferidas, aplicando-se, no que couber, as disposições previstas no Estatuto da Procuradoria-Geral do Estado.

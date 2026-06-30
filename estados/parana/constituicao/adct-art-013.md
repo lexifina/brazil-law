@@ -1,0 +1,1 @@
+Art. 13. No prazo de cento e oitenta dias da promulgação desta Constituição, a lei disporá sobre mecanismos de compensação ﬁnanceira para os Municípios que sofrerem diminuição ou perda de receita por atribuições e funções decorrentes do planejamento estadual.

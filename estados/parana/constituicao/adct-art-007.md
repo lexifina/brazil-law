@@ -1,0 +1,2 @@
+Art. 7º. No prazo máximo de um ano, a contar da promulgação desta Constituição, a Assembléia Legislativa, através de comissão especial que atuará com o auxílio do Tribunal de Contas do Estado, promoverá auditoria da dívida externa do Estado do Paraná.
+Parágrafo único. A comissão terá força legal e prerrogativas de comissão parlamentar de inquérito, garantida tanto quanto possível a participação proporcional dos partidos ou blocos parlamentares com representação na Assembléia Legislativa.

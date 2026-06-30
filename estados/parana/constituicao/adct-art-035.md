@@ -1,0 +1,1 @@
+Art. 35. Aos que, por força de atos institucionais, tenham exercido gratuitamente mandato eletivo de Vereador serão computados, para efeito de aposentadoria no serviço público e previdência social, os respectivos períodos.

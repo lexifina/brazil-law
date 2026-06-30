@@ -1,0 +1,1 @@
+Art. 20. O Poder Executivo iniciará a implantação, no prazo máximo de quatro anos da promulgação desta Constituição, de uma estação ecológica em cada uma das unidades ﬁsiográﬁcas características do Paraná e, pelo menos, de um parque estadual em áreas representativas da Serra do Mar, dos Campos Gerais, da Floresta de Araucária e das escarpas do segundo e terceiro planaltos.

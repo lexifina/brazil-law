@@ -1,0 +1,1 @@
+Art. 50. No prazo máximo de cento e vinte dias da promulgação desta Constituição, o Estado deverá abrir vagas necessárias para que os professores detentores de aulas extraordinárias e especialistas de educação detentores de um padrão possam fazer a opção por trinta ou quarenta horas de trabalho, de acordo com regime diferenciado de trabalho.

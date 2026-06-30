@@ -1,0 +1,1 @@
+Art. 9º. Ao ex-combatente que tenha efetivamente participado de operações bélicas durante a Segunda Guerra Mundial, nos termos da Lei Federal n° 5.315, de 12 de setembro de 1967, serão assegurados todos os direitos que a Constituição Federal lhe outorga.

@@ -1,0 +1,2 @@
+Art. 55. Fica assegurado aos advogados e assistentes jurídicos estáveis do Quadro Único de Pessoal do Poder Executivo, em exercício, na data da instalação da Assembléia Constituinte Estadual, na função de assistência judiciária no órgão referido pelo art. 22 do Regulamento aprovado pelo Decreto 1185, de 19 de agosto de 1987, e nas funções jurídicas do Departamento Penitenciário do Estado, o direito ao enquadramento no cargo inicial da carreira de defensor público referida nos arts. 127 e 128 desta Constituição.
+(vide ADIN 175)

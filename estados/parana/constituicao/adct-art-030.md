@@ -1,0 +1,1 @@
+Art. 30. A partir de 1990, todas as entidades que estejam recebendo recursos serão submetidas a um reexame para a veriﬁcação de sua condição de utilidade pública estadual ou benemerência, na forma da lei.

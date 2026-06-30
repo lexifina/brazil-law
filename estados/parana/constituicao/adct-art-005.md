@@ -1,0 +1,2 @@
+Art. 5º. É assegurada a acumulação de dois cargos ou empregos privativos de médico, na administração pública direta ou indireta, aos médicos militares no exercício destes, à data da promulgação da Constituição Federal.
+Parágrafo único. É assegurada a acumulação de dois cargos ou empregos privativos de proﬁssionais de saúde, na administração pública direta e indireta, àqueles em exercício destes, à data da promulgação da Constituição Federal.

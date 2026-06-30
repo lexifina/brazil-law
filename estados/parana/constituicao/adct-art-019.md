@@ -1,0 +1,1 @@
+Art. 19. No mesmo prazo do artigo anterior, o Estado dará apoio às universidades públicas estaduais no sentido da descentralização de suas atividades, de modo a estender suas unidades de ensino superior às cidades de maior densidade populacional nas respectivas microrregiões.

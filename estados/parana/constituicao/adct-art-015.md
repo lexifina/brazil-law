@@ -1,0 +1,2 @@
+Art. 15. O Estado fará, no prazo de um ano da promulgação desta Constituição, a restauração dos caminhos históricos e de colonização existentes em seu território, permitindo-se a sua utilização, em respeito às servidões de passagens estabelecidas como instrumento de integração social, econômica e cultural, asseguradas a sua permanente conservação e a proteção do meio ambiente.
+Parágrafo único. O Estado, para viabilizar os objetivos deste artigo, instituirá mecanismos para a organização, planejamento e execução de ações integradas com os Municípios e microrregiões envolvidas.

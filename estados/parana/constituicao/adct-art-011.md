@@ -1,0 +1,1 @@
+Art. 11. A Imprensa Oﬁcial do Estado promoverá edição popular do texto integral desta Constituição, que será posta à disposição das escolas, dos cartórios, dos sindicatos, dos quartéis, das igrejas, das bibliotecas e de outras instituições representativas da comunidade, gratuitamente.

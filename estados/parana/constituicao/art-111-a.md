@@ -1,0 +1,1 @@
+Art. 111A. Quando o Tribunal de Justiça apreciar a inconstitucionalidade, em tese, de norma legal ou ato normativo estadual, citará previamente o Procurador-Geral do Estado e o Procurador-Geral da Assembleia Legislativa, que defenderão o ato ou texto impugnado, ou, no caso de norma legal ou ato normativo municipal, o Prefeito e o Presidente da Câmara, para a mesma finalidade.

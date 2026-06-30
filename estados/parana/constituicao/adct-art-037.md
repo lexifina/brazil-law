@@ -1,0 +1,1 @@
+Art. 37. Os servidores públicos que não gozaram férias referentes aos exercícios anteriores a 1989, inclusive, e nem por eles receberam qualquer compensação pecuniária poderão transformar o período correspondente em tempo de serviço em dobro.

@@ -1,0 +1,3 @@
+Art. 243C. O assessoramento jurídico das atividades técnicas e administrativas e, por determinação do Presidente do Tribunal de Contas, a representação judicial do Tribunal de Contas do Estado, serão exercidos por servidores efetivos do quadro próprio do Tribunal de Contas do Estado, regularmente inscritos na Ordem dos Advogados do Brasil. (vide ADI/7177)
+§ 1º Os servidores referidos no caput deste artigo podem exercer a representação judicial nos casos em que o Tribunal atuar em nome próprio, na defesa de sua autonomia e de suas prerrogativas institucionais.
+§ 2º Aos servidores designados nos termos do § 1º deste artigo, aplica-se o disposto no § 3º do art. 125 desta Constituição.

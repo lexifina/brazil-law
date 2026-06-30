@@ -1,0 +1,1 @@
+Art. 48. Nos Municípios recém-emancipados e que terão eleições para Prefeito, Vice-Prefeito e Vereadores em 15 de novembro de 1989 caberá à Câmara Municipal, no prazo de seis meses, contados a partir da data da posse dos Vereadores, votar a lei orgânica respectiva, em dois turnos de discussão e votação, respeitando o disposto na Constituição Federal e nesta.

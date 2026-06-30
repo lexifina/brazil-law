@@ -1,0 +1,1 @@
+Art. 31. Ficam revogados, a partir da promulgação desta Constituição, todos os dispositivos legais que atribuam ou deleguem a órgãos do Poder Executivo competência assinalada pela Constituição à Assembléia Legislativa.

@@ -1,0 +1,3 @@
+Art. 25. O servidor público estadual estável que, na data da promulgação desta Constituição, estiver à disposição de órgão diferente daquele de sua lotação de origem, por tempo superior a um ano, poderá requerer, no prazo de noventa dias, a permanência no órgão em que se encontra prestando serviços, sendo neste, ainda que de outro Poder, deﬁnitivamente enquadrado em cargo de remuneração equivalente, desde que haja interesse da administração pública, que decidirá no mesmo prazo.
+(vide ADIN 483)
+Parágrafo único. O exercício da opção, desde que deferida, extingue o cargo ou emprego público no órgão de origem.

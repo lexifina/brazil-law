@@ -1,0 +1,1 @@
+Art. 4º. Os vencimentos, a remuneração, as vantagens e os adicionais, bem como os proventos de aposentadorias que estejam sendo percebidos em desacordo com a Constituição Federal e esta serão imediatamente reduzidos aos limites delas decorrentes, não se admitindo, neste caso, invocação de direito adquirido, ou percepção de excesso a qualquer título.

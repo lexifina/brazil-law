@@ -1,0 +1,2 @@
+Art. 12. A Assembléia Legislativa criará, dentro de noventa dias da promulgação desta Constituição, uma comissão para apresentar estudos sobre as implicações da nova Constituição e anteprojetos de legislação complementar.
+Parágrafo único. A comissão a que se refere este artigo ouvirá, em audiência pública e desde que julgue necessário, cidadãos paranaenses de notórios conhecimentos pertinentes às matérias objeto de seus estudos.

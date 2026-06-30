@@ -1,0 +1,1 @@
+Art. 23. A legislação que criar a Justiça de Paz manterá os atuais juízes de paz até a posse dos novos titulares, assegurando-lhes os direitos e atribuições conferidas a estes, e designará o dia para a eleição prevista no art. 98, II, da Constituição Federal.
