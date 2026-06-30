@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de Agravo apresentado por YASMIN JORGE DE SOUZA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO DE REINTEGRAÇÃO DE POSSE - PRELIMINAR DE CARÊNCIA DE AÇÃO - CONFUSÃO COM O MÉRITO - REQUISITOS ESSENCIAIS DEMONSTRADOS - PROCEDÊNCIA DO PEDIDO - SENTENÇA QUE JULGOU PROCEDENTE O PEDIDO - FUNDAMENTAÇÃO PER RELATIONEM - MANTIDA - PREQUESTIONAMENTO - RECURSO CONHECIDO E NÃO PROVIDO.
+Nos termos dos artigos 560 e 561 do Código de Processo Civil, o possuidor tem o direito de ser mantido ou reintegrado em sua posse no caso de turbação ou de esbulho, impondo-se a prova do fato para que se defira o pedido de manutenção ou de reintegração.
+Comprovados os requisitos previstos no artigo 561 do Código de Processo Civil, impõe-se a reintegração de posse do autor no imóvel descrito na petição inicial.
+Recurso conhecido e não provido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação aos arts. 1.196 e 1.210, caput, do Código Civil, e ao art. 561, caput e inciso I, do Código de Processo Civil, no que concerne ao reconhecimento da carência de ação por inadequação da via possessória de reintegração, em razão da ausência de exercício fático de posse anterior pela ora recorrida, evidenciada por atos meramente vinculados ao domínio, como o termo administrativo de recebimento do imóvel e o protocolo de pedido de ligação de água, trazendo a seguinte argumentação:
+Vê-se, portanto, que na origem a causa versa sobre ação de reintegração de posse ajuizada pela autora/recorrida em desfavor da ré/recorrente (fls. 223).
+Como se sabe, para pedir reintegração a parte autora na demanda precisa provar que antes tinha a posse e que dela foi injustamente esbulhada. Do contrário, ou seja, não tendo chegado a entrar na posse do imóvel, cabe à parte autora ajuizar ação de imissão na posse, daí a carência de ação na via eleita (fls. 223).
+Pois bem, o acórdão transcreve expressamente os artigos 1.196 e 1.210, caput, ambos do Código Civil, respectivamente na p. 210 e p. 209,
+Da conjugação desses dispositivos decorre logicamente a conclusão jurídica de que para ser considerada possuidora de um bem a pessoa deve ter manifestado atos concretos de posse para que depois, se houver esbulho, possa pedir sua reintegração (fls. 223).
+Ocorre que o acórdão negou vigência a esses artigos ao entender que configura exercício de posse a mera assinatura da recorrida em "Termo de Recebimento do Imóvel" na Prefeitura Municipal e "protocolo de pedido de ligação de água", como se vê no expressamente registrado no seguinte trecho do voto:  (fls. 223).
+Note-se que no "Termo de Recebimento do Imóvel" cuja imagem foi reproduzida no acórdão (p. 210), consta textualmente que a aqui recorrida "Declara também, estar ciente de que é proibida a locação, venda, cessão, doação ou qualquer outro meio de transferência da posse do imóvel pelo prazo de 05 (cinco) anos" (fls. 224).
+Pois bem, no acórdão consta transcrição da sentença na parte onde resume o que disseram as testemunhas ouvidas:  (fls. 224).
+Note-se: ambas testemunhas disseram que o imóvel objeto da lide estava abandonado e se extrai das suas palavras que embora a recorrida tivesse a propriedade, jamais exerceu efetivamente a posse e, inclusive, nem fez questão disso, pois intentava vender o imóvel, a despeito da proibição nesse sentido (fls. 224).
+Logo, juridicamente a recorrida tinha o domínio, mas não a posse (fls. 224).
+É justamente o presente caso, pois os atos praticados pela recorrida (termo de recebimento do imóvel e pedido de ligação de serviço de abastecimento de água e esgoto) que o acórdão considerou como demonstração de posse anterior exercida pela recorrida  não passam de mero exercício do domínio, eis que posse, ao contrário, exige exterioridade, ou seja, manifestação para terceiros do animus domini, situação incompatível com a conduta da recorrida descrita na prova testemunhal transcrita no acórdão (fls. 225).
+O Código de Processo Civil diz no seu art. 561, caput e inciso I, dispositivo esse transcrito no acórdão (p. 209) que:  Logo, como não qualificam posse os atos anteriores praticados pela recorrida - e indicados no acórdão - não cabe o ajuizamento de ação de reintegração de posse (fls. 225).
+Disso decorre que o Tribunal de Justiça de Mato Grosso do Sul também negou vigência a esse artigo ao qualificar juridicamente de posse o que é, na verdade, mero domínio, insuficiente para validar a propositura de ação de reintegração de posse (fls. 226).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Em que pese as alegações do apelante, sua pretensão e documentos juntados aos autos não são suficientes para afastar o direito dos apelados quanto ao preenchimento dos requisitos para reintegração da posse no imóvel.
+ ..
+Além da comprovação do exercício de posse anterior pelo autor para o sucesso da presente demanda há, ainda, que se determinar o que é a posse para efeitos de sua proteção judicial.
+ ..
+No caso concreto, infere-se que a posse anterior restou devidamente demonstrada através do termo de recebimento do imóvel (f. 9), datado de 10.11.2022, bem como o pedido de ligação de serviço de abastecimento de água e esgoto em 16.11.2022. Veja:
+ ..
+Ainda, constata-se que a apelada fez um Boletim de Ocorrência informando a invasão do imóvel em 05.12.2022, ou seja, menos de 1 mês após ter tomado posse do bem, comprovando a ocupação injusta.
+Por fim, a apelante não logrou êxito em comprovar a alegação de que a apelada teria anunciado o imóvel à venda.
+Assim, restaram demonstrados os requisitos para a proteção possessória da apelada, razão pela qual impõe-se a manutenção da sentença (fls. 209/211)
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
