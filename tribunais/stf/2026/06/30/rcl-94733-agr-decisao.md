@@ -1,0 +1,34 @@
+DECISÃO: Trata-se de agravo regimental interposto por Davi Neves de Oliveira, beneficiário do ato reclamado, em face de decisão que julgou procedente a reclamação constitucional para detrminar o sobrestamento do processo nº 0021053-94.2025.5.04.0011, até o julgamento de mérito do Tema 1.389 da repercussão geral.
+Em suas razões recursais a parte recorrente sustenta, em síntese, i) nulidade da decisão recorrida por ausência de citação do beneficiário do ato reclamado; e ii) ausência de estrita aderência entre o caso dos autos e o Tema 1389 da repercussão geral.
+Requer a concessão de tutela provisória recursal para suspender imediatamente os efeitos da decisão agravada e restabelecer o  trâmite processual perante o Juízo a quo e, no mérito, o conhecimento e provimento do recurso para julgar improcedente a reclamação constitucional.
+
+É o relatório.
+Decido.
+
+Conforme já consignado na decisão agravada, o Supremo Tribunal Federal, no julgamento do ARE-RG 1.532.603, de minha relatoria (Tema 1.389), reconheceu a repercussão geral das seguintes questões, que serão oportunamente apreciadas pelo Plenário: 1) competência da Justiça do Trabalho para julgar as causas em que se discute a fraude no contrato civil de prestação de serviços; 2) licitude da contratação de trabalhador autônomo ou pessoa jurídica para a prestação de serviços, à luz do entendimento firmado pelo STF no julgamento da ADPF 324, que reconheceu a validade constitucional de diferentes formas de divisão do trabalho e a liberdade de organização produtiva dos cidadãos; e 3) ônus da prova relacionado à alegação de fraude na contratação civil, averiguando se essa responsabilidade recai sobre o autor da reclamação trabalhista ou sobre a empresa contratante.
+Na sequência, foi determinada a suspensão nacional da tramitação de todos os processos que tratem das questões mencionadas no Tema 1.389 da repercussão geral, até julgamento definitivo do recurso extraordinário, com fundamento no art. 1.035, § 5º, do CPC, com a finalidade para impedir a multiplicação de decisões divergentes sobre a matéria, privilegiando o princípio da segurança jurídica.
+No caso em análise, verifica-se que o Juízo da 11ª Vara do Trabalho de Porto Alegre determinou a suspensão da ação trabalhista de origem, com fundamento na determinação proferida no âmbito do Tema 1389.
+Em face dessa decisão, foi impetrado mandado de segurança, no qual o Tribunal Regional do Trabalho da 4ª Região deferiu a liminar para suspender os efeitos da determinação de sobrestamento do processo nº 0021053-94.2025.5.04.0011, determinando ao juízo de origem o imediato prosseguimento do feito. A decisão fundamentou-se no entendimento de que a suspensão prevista no paradigma em referência não se aplicaria às hipóteses de contratação verbal.
+ Confira-se trecho da decisão:
+
+“A controvérsia gira em torno da aplicação do Tema 1389 do STF, que trata da legalidade de formas alternativas de contratação (civil ou comercial) em detrimento do vínculo de emprego. No entanto, a aplicação de precedentes vinculantes exige a técnica do distinguishing, verificando-se se a moldura fática do caso concreto efetivamente se amolda à tese fixada ou em discussão na Corte Superior.
+No caso em exame, o impetrante alega a inexistência de qualquer contrato civil ou de prestação de serviços formalizado e assinado pelas partes. A defesa das reclamadas, inclusive, admite que a relação se deu mediante "contrato verbal", corroborada pela emissão de notas fiscais via MEI.
+Ora, o Tema 1389 do STF pressupõe o debate sobre a validade de um negócio jurídico civil ou comercial formalmente estabelecido. Quando a relação é puramente verbal e há alegação de fraude mediante a utilização de MEI para mascarar o vínculo de emprego (fenômeno conhecido como "pejotização"), a matéria permanece no campo da prova fática dos elementos dos artigos 2º e 3º da CLT.
+Nesse sentido, a 1ª Seção de Dissídios Individuais deste Tribunal tem firmado o entendimento de que a ausência de instrumento contratual civil ou comercial afasta a incidência automática do sobrestamento determinado pelo STF, conforme se depreende do seguinte precedente:
+(...)
+Presente, portanto, a probabilidade do direito, consubstanciado na inaplicabilidade imediata do Tema 1389 a relações sem contrato civil assinado, e o perigo na demora, dada a natureza alimentar das verbas trabalhistas e o prejuízo decorrente da paralisação indefinida da marcha processual”. (eDOC 11; grifos nossos)
+
+Daí o ajuizamento da presente reclamação.
+No caso concreto, a discussão cinge-se à possível fraude na contratação verbal de profissional autônomo para prestação de serviços (Produtor de Eventos), com vistas ao reconhecimento de vínculo de emprego, matéria inequivocamente abrangida pelo referido Tema 1.389.
+Ademais, ressalte-se que a própria autoridade reclamada afirmou que no caso em análise há alegação de fraude mediante a utilização de MEI para mascarar o vínculo de emprego (fenômeno conhecido como "pejotização"), o que reforça o enquadramento da hipótese no referido paradigma e justifica a manutenção do sobrestamento do processo de origem.
+Por esse motivo, julguei procedente a reclamação para cassar o ato impugnado e restabelecer a decisão que determinou o sobrestamento do processo nº 0021053-94.2025.5.04.0011, até o julgamento de mérito do Tema 1.389 da repercussão geral (eDOC 15/ ID:6a530489).
+Ocorre que, em 18.06.2026, foi proferida decisão que alterou o marco temporal da suspensão nacional dos processos vinculados ao Tema 1.389 da repercussão geral. Na ocasião, determinou-se o levantamento do sobrestamento dos feitos em trâmite perante os Juízos de primeiro grau e os Tribunais Regionais do Trabalho, a fim de viabilizar a completa instrução processual e o julgamento das controvérsias pelas instâncias ordinárias, estabelecendo-se que a suspensão somente deve ocorrer após o esgotamento da jurisdição do Tribunal Regional do Trabalho.
+Na sequência, com o objetivo de uniformizar a prestação jurisdicional, prestaram-se esclarecimentos no sentido de que o sobrestamento deverá ocorrer imediatamente após a prolação do acórdão pelos Tribunais Regionais do Trabalho, sem abertura de prazo para interposição de recurso de revista, devendo os processos abrangidos pelo Tema 1.389 permanecer suspensos no âmbito dessas Cortes.
+Diante desse contexto, considerando que, no caso em exame, o pedido recursal se restringe ao levantamento da suspensão determinada por Juízo de primeiro grau, situação já alcançada pela decisão proferida no paradigma, impõe-se o reconhecimento da perda superveniente do objeto da presente reclamação.
+Ante o exposto, reconsidero a decisão anterior e julgo prejudicada a reclamação e o agravo regimental, em razão da perda superveniente de seu objeto.
+Publique-se.
+Brasília, 30 de junho de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
