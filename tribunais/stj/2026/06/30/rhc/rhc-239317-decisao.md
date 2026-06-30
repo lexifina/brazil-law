@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por PAULO EMILIO SILVA PESSOA (preso preventivamente pela suposta prática do delito de tráfico de drogas, com apreensão de 58 "buchas" de maconha pesando 509,70 g, 5 bolas de haxixe pesando 2,92 g, 57 pedras de crack pesando 46,26 g e 196 pinos de cocaína pesando 251,80 g, além de balança de precisão), no qual se aponta como órgão coator o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Habeas Corpus n. 1.0000.26.157991-6/000).
+Alega-se, aqui, constrangimento ilegal decorrente da ausência de fundamentação idônea no decreto prisional, que seria baseado apenas na gravidade abstrata do crime.
+Requer-se, no âmbito liminar e no mérito, a revogação da prisão preventiva, com ou sem a aplicação de medidas cautelares alternativas.
+É o relatório.
+Do atento exame dos autos observo que a segregação cautelar do acusado se encontra fundamentada no fato de que as substâncias apreendidas durante as diligências são de natureza diversificada e em quantidade relevante, totalizando 58 (cinquenta e oito) "buchas" de maconha, pesando 509,70g, 5 (cinco) bolas de haxixe, subproduto da maconha, pesando 2,92g, 57 (cinquenta e sete) pedras de crack, subproduto da cocaína, pesando 46,26g e 196 (cento e noventa e seis) pinos de cocaína, pesando 251,80g, além da apreensão de balança de precisão, denotando a presença veemente de indícios da mercancia ilícita dos entorpecentes (fl. 103).
+In casu, foram apreendidos 58 "buchas" de maconha pesando 509,70 g, 5 bolas de haxixe pesando 2,92 g, 57 pedras de crack pesando 46,26 g e 196 pinos de cocaína pesando 251,80 g, além de balança de precisão.
+O entendimento das instâncias ordinárias de que é legítima a prisão cautelar em questão está em consonância com a firme jurisprudência do Superior Tribunal de Justiça. A propósito, esta Corte Superior entende que hipóteses em que a quantidade e/ou a natureza das drogas apreendidas e outras circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são bastantes para demonstrar a gravidade concreta do delito e, por conseguinte, justificar a custódia cautelar para a garantia da ordem pública (AgRg no HC n. 899.502/SP, Ministro Schietti Cruz, Sexta Turma, DJe 12/6/2024).
+E, ainda: AgRg no HC n. 981.884/SP, rela tor Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 14/5/2025, DJEN de 20/5/2025; e AgRg no HC n. 990.118/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/5/2025, DJEN de 20/5/2025.
+Em face do exposto, nego provimento ao recurso.
+Publique-se .
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS QUE DENOTAM A NECESSIDADE DA CUSTÓDIA PARA A GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Recurso improvido.
