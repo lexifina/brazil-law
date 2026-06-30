@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de NICKOLAS TADEU RIBEIRO DE CAMPOS, GUSTAVO AFONSO RIBEIRO E LACERDA, ABELARDO DANTAS ALVARES em que se aponta como ato coator a decisão monocrática de Desembargador do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO que indeferiu o pedido de liminar formulado no HC n. 5017859-11.2026.4.03.0000.
+Consta dos autos que os pacientes foram denunciados pela suposta prática dos delitos capitulados no art. 2º, caput, da Lei n. 12.850/2013; no art. 1º, caput, e § 4º, da Lei n. 9.613/1998; no art. 22, caput, e parágrafo único, da Lei n. 7.492/1986; e no art. 299, caput, do Código Penal, na forma dos arts. 29, caput, e 69, caput, também do Código Penal (ABERLADO DANTAS ALVARES); no art. 2º, caput, da Lei n. 12.850/2013; no art. 1º, caput, e § 4º, da Lei n. 9.613/1998; e no art. 22, caput, e parágrafo único, da Lei n. 7.492/1986, na forma dos arts. 29, caput, e 69, caput, ambos do Código Penal (NICKOLAS TADEU RIBEIRO DE CAMPOS); e no art. 2º, caput, da Lei n. 12.850/2013; no art. 1º, caput, e § 4º, da Lei n. 9.613/1998; e no art. 299, caput, do Código Penal, na forma dos arts. 29, caput, e 69, caput, ambos do CP (GUSTAVO AFONSO RIBEIRO E LACERDA).
+Preliminarmente, os impetrantes pugnam pela distribuição do presente writ ao Ministro Messod Azulay Neto, tendo em vista a existência de prevenção em decorrência do julgamento do Habeas Corpus n. 1.054.198/SP.
+Em suas razões, sustentam os impetrantes a ocorrência de constrangimento ilegal, porquanto a persecução penal estaria contaminada pela utilização, no relatório final policial, de citações jurisprudenciais fictícias, cuja exclusão foi requerida e não apreciada antes do prosseguimento do feito.
+Afirmam que há ausência de fundamentação individualizada na origem, pois a inclusão do paciente deu-se por mera remissão a Relatório de Inteligência Financeira, sem descrição concreta de condutas, o que violaria parâmetros constitucionais e legais de motivação.
+Argumentam que a denúncia é inepta e carece de justa causa, por utilizar linguagem conjectural ("teriam atuado"), imputar antecedentes não investigados diretamente em relação ao paciente e confessar caráter provisório, o que impediria a marcha da ação penal.
+Defendem, em exame individualizado, que em relação ao paciente GUSTAVO, a imputação de falsidade ideológica colapsaria sem a descrição concreta da alegada simulação em contrato de mútuo; quanto ao paciente NICKOLAS, a atuação tecnológica lícita e a movimentação em criptoativos em rede pública não revelariam ocultação; e, em relação ao paciente ABELARDO, os atos empresariais neutros descritos não configurariam evasão de divisas em operação concreta.
+Expõem que a superveniência da denúncia não convalida o vício do relatório final policial, por se tratar de cadeia persecutória em que a peça acusatória herdaria a base comprometida, requerendo, subsidiariamente, a anulação do decisum que deu prosseguimento sem deliberar sobre o desentranhamento.
+Requerem, assim, liminarmente, a suspensão dos efeitos das decisões de 12.06.2026 e 18.06.2026, com sustação das medidas cautelares pessoais e do curso do feito. E, no mérito, o trancamento da Ação Penal por inépcia e ausência de justa causa. Subsidiariamente, pugnam pela anulação da decisão de 12.06.2026 para que o juízo de origem delibere previamente sobre o desentranhamento do relatório final policial, com a cessação das medidas cautelares pessoais.
+É o relatório.
+Decido.
+No que tange ao pedido de distribuição dos autos em razão da prevenção, tem-se que a delegação de competência à Presidência do Superior Tribunal de Justiça para julgamento dos feitos manifestamente inadmissíveis está prevista no Regimento Interno, de acordo com suas regras de distribuição interna. Nos termos do art. 21-E, IV, do RISTJ, entre as atribuições do Presidente antes da distribuição está de "apreciar os e as revisões criminais inadmissíveis por incompetência manifesta", habeas corpus, hipótese na qual se enquadra analogicamente o enunciado da Súmula n.691/STF. Nesse sentido, vale citar os seguintes julgados: AgRg no HC n. 708.929/ES, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 16.12.2021; AgRg no HC n. 684.708/ES, Rel Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 20.9.2021.
+Ademais, a prevenção em razão de processo conexo só é observada no momento de sua distribuição, a qual pressupõe que a Revisão Criminal e o Habeas Corpus não sejam inadmissíveis por incompetência manifesta. Por fim, a decisão proferida pelo Presidente desta Corte não viola o princípio do juiz natural porquanto sujeita a posterior controle dos órgãos frac ionários deste Tribunal Superior no caso de eventual interposição de Agravo Regimental.
+Assim, indefiro o pedido.
+Outrossim, constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes julgados:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA n. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2.  ..
+3.  ..
+4. A demora ilegal não resulta de um critério aritmético, mas de aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo injustificado na prestação jurisdicional.
+5.  ..
+6. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 16.11.2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2.  ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 27.9.2022.)
+No caso, a situação dos autos não apresenta nenhuma excepcionalidade a justificar a prematura intervenção desta Corte Superior e superação do referido verbete sumular. Deve-se, por ora, aguardar o esgotamento da jurisdição do Tribunal de origem.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
