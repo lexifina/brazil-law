@@ -1,0 +1,139 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/06/2026 a 30/06/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. ADMISSIBILIDADE DE RECURSO ESPECIAL. REVISÃO DO QUANTUM DE DANOS MORAIS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que conheceu do agravo para não conhecer do recurso especial, em demanda de ação declaratória de nulidade de negócio jurídico cumulada com inexistência de débito e indenização por danos morais decorrente de inscrição indevida em cadastro de inadimplentes.
+2. Pedido principal consistente na reforma do acórdão de origem para majorar o valor da indenização por danos morais, sob alegação de violação aos arts. 186, 927 e 944 do Código Civil e aos princípios da razoabilidade e da proporcionalidade, com fundamento no art. 105, III, "a", da Constituição Federal.
+3. Decisão anterior mantida pelo órgão julgador ao afirmar a incidência da Súmula 7/STJ quanto à pretensão de revisão fático-probatória, bem como a inviabilidade de conhecimento do recurso especial por suposta ofensa a princípios e a necessidade de impugnação específica dos fundamentos (art. 1.021, § 1º, do CPC).
+II. Questão em discussão
+4. A questão em discussão consiste em: (i) saber se cabe recurso especial com fundamento em violação a princípios como razoabilidade e proporcionalidade; (ii) saber se é possível, na via especial, a revisão do valor fixado a título de danos morais por inscrição indevida sem incidir o óbice da Súmula 7/STJ; e (iii) saber se o agravante impugnou especificamente os fundamentos da decisão agravada, nos termos do art. 1.021, § 1º, do CPC, aptos a afastar a manutenção da decisão monocrática com base em jurisprudência consolidada.
+III. Razões de decidir
+5. Recurso especial não comporta conhecimento por alegada violação a princípios, por não se enquadrarem no conceito de lei federal para os fins do art. 105, III, "a", da Constituição Federal.
+6. A revisão do quantum de danos morais, na via especial, é excepcional e somente se admite quando irrisório ou exorbitante o valor arbitrado; ausente tal hipótese, incide o óbice da Súmula 7/STJ, vedando o reexame de fatos e provas.
+7. A conclusão do Tribunal de origem quanto à inexistência de nexo causal direto entre a demissão e a inscrição indevida, e quanto à adequação do valor fixado (R$ 12.000,00), demanda revolvimento do acervo fático-probatório, incompatível com o recurso especial (Súmula 7/STJ).
+8. O agravante não apresentou impugnação específica e suficiente aos fundamentos da decisão agravada, em afronta ao art. 1.021, § 1º, do CPC, o que impõe a manutenção da decisão monocrática proferida nos termos do art. 932, III e IV, do CPC e da Súmula 568/STJ.
+9. Agravo interno tempestivo (art. 1.003, § 5º, do CPC), porém desprovido de razões aptas a desconstituir os fundamentos jurídicos e fáticos da decisão agravada, mantendo-se, ainda, os honorários fixados.
+IV. Dispositivo
+10. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão proferida pelo Presidente do Superior Tribunal de Justiça, que conheceu do Agravo para não conhecer do Recurso Especial interposto.
+Segundo a parte agravante, o recurso preenche os requisitos necessários ao conhecimento e provimento.
+Intimada nos termos do art. 1.021, § 2º, do Código de Processo Civil, a parte agravada afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. ADMISSIBILIDADE DE RECURSO ESPECIAL. REVISÃO DO QUANTUM DE DANOS MORAIS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que conheceu do agravo para não conhecer do recurso especial, em demanda de ação declaratória de nulidade de negócio jurídico cumulada com inexistência de débito e indenização por danos morais decorrente de inscrição indevida em cadastro de inadimplentes.
+2. Pedido principal consistente na reforma do acórdão de origem para majorar o valor da indenização por danos morais, sob alegação de violação aos arts. 186, 927 e 944 do Código Civil e aos princípios da razoabilidade e da proporcionalidade, com fundamento no art. 105, III, "a", da Constituição Federal.
+3. Decisão anterior mantida pelo órgão julgador ao afirmar a incidência da Súmula 7/STJ quanto à pretensão de revisão fático-probatória, bem como a inviabilidade de conhecimento do recurso especial por suposta ofensa a princípios e a necessidade de impugnação específica dos fundamentos (art. 1.021, § 1º, do CPC).
+II. Questão em discussão
+4. A questão em discussão consiste em: (i) saber se cabe recurso especial com fundamento em violação a princípios como razoabilidade e proporcionalidade; (ii) saber se é possível, na via especial, a revisão do valor fixado a título de danos morais por inscrição indevida sem incidir o óbice da Súmula 7/STJ; e (iii) saber se o agravante impugnou especificamente os fundamentos da decisão agravada, nos termos do art. 1.021, § 1º, do CPC, aptos a afastar a manutenção da decisão monocrática com base em jurisprudência consolidada.
+III. Razões de decidir
+5. Recurso especial não comporta conhecimento por alegada violação a princípios, por não se enquadrarem no conceito de lei federal para os fins do art. 105, III, "a", da Constituição Federal.
+6. A revisão do quantum de danos morais, na via especial, é excepcional e somente se admite quando irrisório ou exorbitante o valor arbitrado; ausente tal hipótese, incide o óbice da Súmula 7/STJ, vedando o reexame de fatos e provas.
+7. A conclusão do Tribunal de origem quanto à inexistência de nexo causal direto entre a demissão e a inscrição indevida, e quanto à adequação do valor fixado (R$ 12.000,00), demanda revolvimento do acervo fático-probatório, incompatível com o recurso especial (Súmula 7/STJ).
+8. O agravante não apresentou impugnação específica e suficiente aos fundamentos da decisão agravada, em afronta ao art. 1.021, § 1º, do CPC, o que impõe a manutenção da decisão monocrática proferida nos termos do art. 932, III e IV, do CPC e da Súmula 568/STJ.
+9. Agravo interno tempestivo (art. 1.003, § 5º, do CPC), porém desprovido de razões aptas a desconstituir os fundamentos jurídicos e fáticos da decisão agravada, mantendo-se, ainda, os honorários fixados.
+IV. Dispositivo
+10. Agravo interno não provido.
+VOTO
+O agravo interno é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, hipótese que resulte na reconsideração dos argumentos fáticos e jurídicos anteriormente lançados, motivo pelo qual mantenho a decisão agravada pelos fundamentos anteriormente expostos, os quais transcrevo para que passem a fazer parte da presente decisão (e-STJ fls. 248-251):
+Cuida-se de Agravo apresentado por KELLY DE OLIVEIRA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+DIREITO CIVIL E DO CONSUMIDOR. AÇÃO DECLARATÓRIA DE NULIDADE DE NEGÓCIO JURÍDICO C/C INEXISTÊNCIA DE DÉBITO E INDENIZAÇÃO POR DANOS MORAIS. APELAÇÃO CÍVEL. INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. VALORAÇÃO DOS DANOS MORAIS. DESPROVIMENTO DOS RECURSOS.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 186, 927 e 944 do Código Civil, bem como aos princípios da razoabilidade e da proporcionalidade, no que concerne à necessidade de majoração da indenização por danos morais, em razão de inscrição indevida em cadastro de inadimplentes que gerou reprimenda formal no emprego e consequente abalo à esfera anímica e profissional, trazendo a seguinte argumentação:
+Fixada a premissa de que aquele que comete ato ilícito fica obrigado a repará-lo, na proporção do dano, de se observar que na hipótese dos autos o nome do Recorrente foi indevidamente utilizado para fraude, o que acarretou na indevida inscrição de seu nome nos órgãos de proteção ao crédito. (fl. 208)
+
+Além disso, na hipótese dos autos a situação se mostrou mais gravosa, já que a Recorrente era funcionária de cooperativa de crédito, que exigia de seus empregados que não estivessem inscritos em cadastros de inadimplentes. (fl. 208)
+
+Ou seja, demonstrado de forma inequívoca que a inscrição indevida gerou prejuízo à Recorrente no desempenho de seu labor. (fl. 209)
+
+E, embora o acórdão recorrido tenha concluído que não comprovada a relação direta entre a demissão da Recorrente e a inscrição indevida, não afastou tal possibilidade. (fl. 209)
+
+De qualquer forma, presumível que a reprimenda escrita e formal contribuiu para abalar a relação de emprego. (fl. 209)
+
+Por consequência lógica, o montante arbitrado a título de danos morais, no valor de R$ 12.000,00 (doze mil reais), se mostra irrisório, ofendendo aos princípios da proporcionalidade e da razoabilidade, sobretudo considerando-se a gravidade do fato em si, a intensidade do sofrimento da Recorrente, que acabou demitida, o grau de culpa e elevada capacidade financeira da Recorrida. (fls. 209-210)
+
+Logo, com devido acatamento, considerando que o montante arbitrado se mostra irrisório, não se prestando para reparar o prejuízo sofrido, na forma como postado o acórdão recorrido implicou em violação aos artigos 186, 927 e 944 do Código Civil. (fl. 210)
+
+Por consequência lógica, merece reforma o acórdão recorrido, para majorar-se o quantum indenizatório para R$ 30.000,00 (trinta mil reais) ou, ainda, para outro valor a ser prudentemente arbitrado por este Egrégia Corte Recursal. (fl. 210)
+É o relatório.
+Decido.
+Quanto à controvérsia, sobre a violação aos princípios da razoabilidade e da proporcionalidade, não é cabível a interposição de Recurso Especial fundado na ofensa a princípios, tendo em vista que não se enquadram no conceito de lei federal.
+Nesse sentido: "Não se conhece de recurso especial fundado na alegação de violação ou afronta a princípio, sob o entendimento pacífico de que não se enquadra no conceito de lei federal, razão pela qual não está abarcado na abrangência de cabimento do apelo nobre" (AgInt no AREsp n. 2.513.291/PE, relator Ministro Teodoro Silva Santos, Segunda Turma, DJe de 4/11/2024).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 2.630.311/RS, relator Ministro Francisco Falcão, Segunda Turma, DJEN de 2/12/2024; AgInt no AREsp n. 2.229.504/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 23/8/2024; AgInt no AREsp n. 2.442.998/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 22/8/2024; AgRg no AREsp n. 2.450.023/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/5/2024; AgInt no REsp n. 2.088.262/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 23/5/2024; AgInt no AREsp n. 2.403.043/GO, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 6/3/2024; AgInt no REsp n. 2.046.776/PE, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 28/9/2023; AgInt no AREsp n. 1.130.101/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 23/3/2018.
+No mais, o Tribunal a quo se manifestou nos seguintes termos:
+Por isso, consideradas as circunstâncias peculiares da situação em apreço, que devem englobar o fato de que a autora trabalhava em cooperativa de crédito, a qual, por operar de forma semelhante aos bancos, exige que seus empregados não estejam inscritos em cadastros de inadimplentes - inclusive, a inscrição indevida rendeu reprimenda escrita e formal da empregadora evento 1, DOC7 -, a capacidade econômica das partes (que, no caso, conta no polo passivo com uma instituição financeira de expressivo porte e ampla atuação no cenário nacional), o meio social em que o fato ocorreu e o grau de sua repercussão, entendo razoável o arbitramento feito pela sentença em soma superior ao patamar usualmente estabelecido.
+Por outro lado, não há correlação direta entre a demissão sofrida pela autora e a inscrição indevida.
+Isso porque a inscrição ocorreu em 30-09-2021 (evento 24, DOC2), já a notificação do empregador data de 02-03-2022 (evento 1, DOC7) e a da demissão de 02-10-2023 (evento 38, DOC3), ou seja, houve o decurso de 19 meses entre a data da notificação e a da demissão.
+Ademais, em 01-08-2022 já não havia mais inscrição ativa em nome da autora, conforme ofício do Serasa informando o cumprimento da liminar deferida judicialmente (evento 16, DOC1).
+Logo, em que pese seja, evidentemente, possível que a demissão da autora tenha decorrido da inscrição indevida, não há elementos suficientes para estabelecer o nexo de causalidade entre uma e outra coisa.
+Portanto, a sentença recorrida, que fixou o valor dos danos morais em R$ 12.000,00 (doze mil reais), deve ser mantida. (fl. 197).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), tendo em vista que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Apenas em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento da Súmula n. 7/STJ, para possibilitar a revisão. No caso, o montante estabelecido pelo Tribunal de origem não se mostra excessivo, a justificar sua reavaliação em recurso especial" (AgInt no REsp n. 2.144.733/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJEN de 9/12/2024).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 2.718.125/RJ, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.582.976/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 5/3/2025; AgInt no AREsp n. 2.685.985/RJ, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/2/2025; AgInt no AREsp n. 2.632.436/MG, relator Ministro Marco Buzzi, Quarta Turma, DJEN de 9/12/2024; AgInt no AREsp n. 2.315.287/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 22/11/2024; AgInt no REsp n. 1.860.301/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 24/6/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Com efeito, a legislação processual estabelece, no art. 932, III e IV, do Código de Processo Civil, a faculdade de o relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal.
+Cuida-se de inovação legal que reflete a já consagrada jurisprudência deste Superior Tribunal de Justiça, no sentido de que: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema." (Súmula nº 568 do STJ, aprovada pela Corte Especial em 16/03/2016)
+Dada a sólida fundamentação que respalda a atuação do relator, a redação do art. 1.021, §1º, do Código de Processo Civil é clara no sentido de estabelecer que: "Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada."
+Há, assim, ônus imposto ao agravante que deseja ver reformada a decisão que impugna, no sentido de que as razões por ele invocadas sejam especificamente voltadas à integralidade dos fundamentos trazidos pela decisão agravada e, ainda, que sejam aptas a desconstituir, de maneira contundente, os argumentos que sustentaram a decisão atacada.
+O não atendimento a tais requisitos importa, via de consequência, na manutenção do que decidido monocraticamente com base na inadmissibilidade manifesta ou na jurisprudência consolidada nesta Corte, conforme se extrai dos seguintes precedentes:
+CIVIL. TÍTULO EXTRAJUDICIAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MONITÓRIA PARA COBRANÇA DE CHEQUES PRESCRITOS. IMPROCEDÊNCIA. MULTA EM PRIMEIROS EMBARGOS DECLARATÓRIOS. INTUITO PROTELATÓRIO. MERA INTERPOSIÇÃO DE RECURSO CABÍVEL NÃO ENSEJA LITIGÂNCIA DE MÁ-FÉ. PRECEDENTE. CONDIÇÃO DE CREDOR DO IMPUTADO QUE NEM SEQUER SE COADUNA COM A DE QUEM TEM INTUITO PROTELATÓRIO. AUSÊNCIA, ADEMAIS, DE IMPUGNAÇÃO AO FUNDAMENTO. DIALETICIDADE. SÚMULA Nº 283/STF, POR ANALOGIA. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, TAMBÉM PARCIALMENTE PROVIDO. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. O princípio da dialeticidade exige impugnação específica dos fundamentos da decisão recorrida, sendo que a ausência de enfrentamento direto aos argumentos autônomos justifica o não provimento do agravo, nos termos da Súmula nº 283 do STF, aplicada por analogia.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.475.471/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMISSIBILIDADE. IMPUGNAÇÃO ESPECÍFICA. DECISÃO AGRAVADA. FUNDAMENTOS DEPENDENTES OU FUNDAMENTO ÚNICO. ART. 1.021, §1º,DO CPC. SÚMULA Nº 182/STJ. MOMENTO. IMPUGNAÇÃO. MULTA. ART.1.021, § 4º, DO CPC. NÃO AUTOMÁTICA.
+1. A ausência de impugnação de fundamentos autônomos não acarreta o não conhecimento do recurso, mas, tão somente, a preclusão do tema, o que não se aplica na hipótese de decisão com fundamento único ou com capítulos que dependam um do outro. Precedente da Corte Especial.
+2. No caso, constatada a ausência de impugnação específica, incide o disposto no art. 1.021, § 1º, do Código de Processo Civil e no entendimento jurisprudencial do Superior Tribunal de Justiça, reproduzido na redação da Súmula nº 182/STJ.
+3. O momento processual adequado para a impugnação completa dos termos da decisão de inadmissibilidade é no agravo em recurso especial, e não no agravo interno interposto contra a decisão que não conheceu do recurso por ausência de impugnação específica dos fundamentos daquela decisão.
+4. A Segunda Seção decidiu que a aplicação da penalidade prevista no art. 1.021, § 4º, do Código de Processo Civil não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno.
+5. Agravo interno não conhecido.
+(AgInt no AREsp n. 2.696.873/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/12/2024, DJEN de 20/12/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE AFASTOU A IMPENHORABILIDADE DE IMÓVEL E MANTEVE SUA EXPROPRIAÇÃO, BEM COMO INDEFERIU O PEDIDO DE NOVA AVALIAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL.
+1. Cumprimento de sentença em que foi proferida decisão afastando a impenhorabilidade do imóvel e mantendo sua expropriação, bem como indeferindo o pedido de nova avaliação.
+2. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, em razão da não impugnação do seguinte fundamento da decisão de inadmissibilidade: incidência da Súmula 7 do STJ.
+3. Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Precedentes.
+4. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.494.296/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/11/2024, DJe de 26/11/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CAPÍTULO AUTÔNOMO NÃO IMPUGNADO. LITISCONSÓRCIO NECESSÁRIO. PRECLUSÃO. PROCESSUAL CIVIL. CIVIL. CONTRIBUIÇÃO PREVIDENCIÁRIA. CESSAÇÃO DOS DESCONTOS. REPETIÇÃO DO INDÉBITO. PRESCRIÇÃO DECENAL. DIVERSOS PRECEDENTES ESPECÍFICOS. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC INEXISTENTE. LEGITIMIDADE PASSIVA DO RECORRENTE. REVISÃO. SUMULAS N. 7/STJ E 280/STF.
+1. No âmbito do agravo interno, a ausência de impugnação específica de capítulo autônomo impõe o reconhecimento da preclusão da matéria não impugnada, afastando-se a incidência da Súmula n. 182/STJ (EREsp n. 1.424.404/SP, relator Ministro Luis Felipe Salomão, Corte Especial do Superior Tribunal de Justiça, DJe 17/11/2021). Preclusa, portanto, a tese de imprescindibilidade de formação de litisconsórcio passivo.
+(..)
+(AgInt no AREsp n. 2.206.481/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 7/10/2024, DJe de 9/10/2024.)
+Há, portanto, orientação clara e firme desta Terceira Turma no sentido de que, ausente impugnação específica dos fundamentos presentes na decisão agravada, ou inexistente apresentação de fundamentação robusta e suficiente à desconstituição dos argumentos fáticos e jurídicos alvo da pretensão recursal, a parte recorrente não logrará êxito em sua pretensão.
+No presente recurso, a parte agravante afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+Ocorre, contudo, que a questão já foi enfrentada pela decisão agravada, que analisou detidamente todas as questões jurídicas postas.
+Para conhecer da controvérsia apresentada neste recurso, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com o entendimento firmado pela Súmula 7 deste Superior Tribunal de Justiça, que estabelece que "A pretensão de simples reexame de prova não enseja recurso especial."
+De fato, presente a função uniformizadora do Recurso Especial, não se pode cogitar de seu emprego para a realização de rejulgamento do contexto fático-probatório, em atitude típica de revisão promovida por nova instância.
+Diante disso, é reiterada a jurisprudência desta Corte que assenta que "o reexame de fatos e provas (é) vedado em recurso especial pela Súmula 7 do STJ."(AgInt no REsp n. 2.151.760/SC, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/12/2024, DJEN de 12/12/2024.)
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES E INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. RESTITUIÇÃO DE QUANTIA PAGA. CONTRATO DE COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO POR CULPA DA CONSTRUTORA/VENDEDORA. DEVOLUÇÃO DA COMISSÃO DE CORRETAGEM. PRESCRIÇÃO. PRAZO TRIENAL. INAPLICABILIDADE. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA.
+1. Ação de rescisão contratual cumulada com restituição de valores e indenização por danos morais e materiais.
+2. Alterar o decidido no acórdão impugnado no que se refere às teses atinentes à alegada ilegitimidade passiva dos recorrentes no tocante à relação jurídica havida entre as partes e à delimitação de suposta responsabilidade, envolve o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+(..)
+(AgInt nos EDcl no AREsp n. 2.627.058/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRODUÇÃO ANTECIPADA DE PROVAS. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA N.º 283 DO STF, POR ANALOGIA. CERCEAMENTO DE DEFESA. NÃO CONFIGURAÇÃO. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. NÃO CABIMENTO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. TEMA NÃO DEBATIDO PELAS INSTÂNCIAS ORDINÁRIAS. APLICAÇÃO DA SÚMULA N.º 282 DO STF. PREQUESTIONAENTO. MATÉRIA DE ORDEM PÚBLICA. NECESSIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. A falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso.
+Inteligência da Súmula n.º 283 do STF, aplicável, por analogia, ao recurso especial.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+(..)
+(AgInt no AREsp n. 2.662.287/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 28/10/2024, DJe de 30/10/2024.)
+Não há, portanto, dúvida acerca da inaptidão do recurso especial para promover a revisão do quadro fático-probatório, viabilizando reformar da compreensão firmada pela Corte de origem acima do tema.
+Não se quer dizer, contudo, que o debate do quadro fático não possa ser revisado nesta instância especial. Ao revés, é também pacífico o entendimento de que "a revaloração jurídica de fatos e provas incontroversos delineados no acórdão impugnado afasta a aplicação da Súmula 7 do STJ na espécie." (AgInt no AREsp n. 1.742.678/MT, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 8/6/2021, DJe de 11/6/2021.)
+Cuida-se, contudo, de ônus imputado à parte agravante, que não pode se limitar a afirmar que sua pretensão demanda apenas o reenquadramento fático à moldura legal pretendida, devendo, isto sim, evidenciar, objetivamente, que a análise fática estabilizada melhor se enquadra em outra forma jurídica.
+Daí porque este colegiado também tem afirmado, reiteradamente, que "No tocante às Súmulas nºs 5 e 7/STJ, não basta a parte sustentar genericamente a não aplicação dos óbices, sem explicitar, à luz do contexto fático delineado no acórdão e da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame fático-probatório ou da análise das cláusulas contratuais." (AgInt no AREsp n. 2.250.305/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 2/10/2023, DJe de 6/10/2023.)
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE RESCISÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. INDENIZAÇÃO. DANOS MATERIAIS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC (ART. 544, § 4º, I, DO CPC/73). AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (544, § 4º, I, do CPC/73), não impugna os fundamentos da respectiva inadmissibilidade (incidência das Súmulas n.ºs 5 e 7 do STJ e 284 do STF).
+3. Não basta para considerar "especificamente impugnados" os fundamentos da decisão recorrida a mera transcrição de súmulas ou reprodução de dispositivos legais violados. Necessário, além das indicações expressas e claras, a sua vinculação aos fatos tal como analisados pelo acórdão ou decisão para então, mediante enfrentamento dialético desse conjunto de permissivos constitucionais em face do exame soberano do material de cognição pela Corte estadual, se chegar ao almejado entendimento de que a classificação jurídica concluída não espelha o melhor direito ao caso.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.925.017/SC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/9/2022, DJe de 8/9/2022.)
+No presente feito, o acolhimento da tese recursal demandaria inevitável revisão do quadro fático-probatório estabelecido na instância de origem, providência que, como visto, é inviável nesta sede.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
