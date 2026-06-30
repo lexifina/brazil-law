@@ -1,0 +1,55 @@
+DECISÃO: Trata-se de reclamação constitucional, com pedido de medida liminar, ajuizada por Unimed Maceió Cooperativa de Trabalho Médico em face de decisão proferida pelo Juízo de Direito da Vara Plantonista Cível da Comarca de Maceió, vinculado ao Tribunal de Justiça do Estado de Alagoas, nos autos do Processo nº 0500102-22.2026.8.02.0066.
+Em suas razões, a reclamante sustenta, em síntese, o descumprimento da orientação firmada por esta Corte no julgamento da ADI 7.265, Rel. Min. Roberto Barroso.
+Narra que, na origem, foi ajuizada ação ordinária pela parte beneficiária em seu desfavor, na qual pleiteia o custeio integral de terapia celular avançada CART-Cell mediante o medicamento CARVYKTI (ciltacabtagene autoleucel), bem como do medicamento de suporte TOCILIZUMABE, para tratamento de Mieloma Múltiplo em recidiva.
+Salienta que “o tratamento imposto judicialmente consiste em terapia gênica avançada de altíssimo custo, superior a R$ 3.329.362,50 (três milhões, trezentos e vinte e nove mil, trezentos e sessenta e dois reais e cinquenta centavos), cuja incorporação à saúde suplementar não foi aprovada pelos órgãos regulatórios competentes” (eDOC 1, p. 2).
+Destaca que, no caso, o NatJus emitiu parecer desfavorável ao acolhimento do pedido formulado nos autos de origem, em razão da inexistência de elementos técnicos suficientes para justificar a imposição da cobertura pretendida e, em especial, pela existência de alternativas terapêuticas ainda não utilizadas pela paciente, além dos riscos inerentes à própria terapia celular.
+Considera, em síntese, que “foi imposta à Operadora obrigação de custeio de terapia celular avançada de altíssimo custo econômico, sem que houvesse enfrentamento individualizado dos aspectos técnicos e regulatórios que permeiam a controvérsia” (eDOC 1, p. 5).
+Por fim, considera o perigo de dano evidente, já que a decisão reclamada impõe o custeio integral de terapia com custo estimado em R$ 3.329.362,50 (três milhões, trezentos e vinte e nove mil, trezentos e sessenta e dois reais e cinquenta centavos), além dos medicamentos de suporte e procedimentos necessários à sua implementação. Acrescenta que a reversão dos efeitos práticos da decisão é extremamente difícil, senão impossível e que, no caso, a controvérsia diz respeito à observância da metodologia decisória estabelecida no julgamento da ADI 7.265, cuja orientação deve ser preservada.
+Requer a concessão de liminar para suspender imediatamente os efeitos da decisão reclamada, inclusive no que concerne à obrigação de custeio da terapia celular avançada CAR-T Cell mediante o medicamento CARVYKTI® (ciltacabtagene autoleucel), bem como do medicamento de suporte TOCILIZUMABE, além da suspensão de quaisquer atos executórios decorrentes da decisão reclamada. No mérito, pleiteia a cassação da decisão reclamada, a fim de que outra seja proferida, em observância ao paradigma indicado.
+
+É o relatório. Decido.
+
+Registro, a princípio, que a concessão de medida liminar em reclamação dá-se em caráter excepcional, em razão da configuração do fumus boni iuris e do periculum in mora.
+Com efeito, é necessária a conjugação dos dois requisitos: fundamento relevante (fumus boni juris) e possibilidade de o ato apontado como ilícito resultar na ineficácia da medida, caso seja apenas concedido o pedido ao final da tramitação da reclamação constitucional (periculum in mora).
+Na hipótese, verifico a presença de ambos os requisitos, a ensejar o deferimento do pleito de urgência, dadas as circunstâncias do caso concreto.
+Explico.
+A reclamante se insurge contra decisão que deferiu o pedido de tutela provisória de urgência formulado pela parte beneficiária, nos autos de ação de obrigação de fazer de origem, na qual o Juízo reclamado concluiu por:
+
+    a) “Determinar que a ré autorize e custeie integralmente, no prazo máximo de 5 (cinco) dias, a continuidade do tratamento oncológico da autora, providenciando o custeio de todas as etapas da terapia com o medicamento CARVYKTI (ciltacabtagene autoleucel — CAR-T Cell), o que engloba o envio das células já coletadas ao laboratório responsável pelo seu processamento (nacional ou estrangeiro), o retorno do material e a respectiva reinfusão no Hospital A.C. Camargo Câncer Center ou em outro centro médico especializado e capacitado para o procedimento; e
+    b) Determinar, ainda, que a ré autorize e forneça, nos mesmos moldes e prazo, a medicação de suporte clínico Tocilizumabe, conforme prescrição médica, necessária para garantir a segurança da paciente durante e após o procedimento de reinfusão.” (eDOC 13, p. 1)
+
+Alega-se, em síntese, que o Juízo reclamado, ao impor o custeio de todas as etapas de terapia com medicamentos de elevado custo, sem a observância dos critérios estabelecidos por esta Corte no julgamento da ADI 7.265, incorreu em desrespeito ao paradigma.
+Pois bem.
+No ponto, destaco que esta Corte, ao apreciar a controvérsia atinente à natureza do rol de procedimentos e eventos em saúde suplementar, cuja elaboração compete à ANS, conferiu interpretação conforme à Constituição ao § 13 do art. 10 da Lei 9.656/1998 (incluído pela Lei 14.454/2022), assentando a seguinte tese:
+
+“1. É constitucional a imposição legal de cobertura de tratamentos ou procedimentos fora do rol da ANS, desde que preenchidos os parâmetros técnicos e jurídicos fixados nesta decisão.
+2. Em caso de tratamento ou procedimento não previsto no rol da ANS, a cobertura deverá ser autorizada pela operadora de planos de assistência à saúde, desde que preenchidos, cumulativamente, os seguintes requisitos:
+(i) prescrição por médico ou odontólogo assistente habilitado;
+(ii) inexistência de negativa expressa da ANS ou de pendência de análise em proposta de atualização do rol (PAR);
+(iii) ausência de alternativa terapêutica adequada para a condição do paciente no rol de procedimentos da ANS;
+(iv) comprovação de eficácia e segurança do tratamento à luz da medicina baseada em evidências de alto grau ou ATS, necessariamente respaldadas por evidências científicas de alto nível; e
+(v) existência de registro na Anvisa.
+3. A ausência de inclusão de procedimento ou tratamento no rol da ANS impede, como regra geral, a sua concessão judicial, salvo quando preenchidos os requisitos previstos no item 2, demonstrados na forma do art. 373 do CPC. Sob pena de nulidade da decisão judicial, nos termos do art. 489, §1º, V e VI, e art. 927, III, §1º, do CPC, o Poder Judiciário, ao apreciar pedido de cobertura de procedimento ou tratamento não incluído no rol, deverá obrigatoriamente:
+(a) verificar se há prova do prévio requerimento à operadora de saúde, com a negativa, mora irrazoável ou omissão da operadora na autorização do tratamento não incorporado ao rol da ANS;
+(b) analisar o ato administrativo de não incorporação pela ANS à luz das circunstâncias do caso concreto e da legislação de regência, sem incursão no mérito técnico-administrativo;
+(c) aferir a presença dos requisitos previstos no item 2, a partir de consulta prévia ao Núcleo de Apoio Técnico do Poder Judiciário (NATJUS), sempre que disponível, ou a entes ou pessoas com expertise técnica, não podendo fundamentar sua decisão apenas em prescrição, relatório ou laudo médico apresentado pela parte; e
+(d) em caso de deferimento judicial do pedido, oficiar a ANS para avaliar a possibilidade de inclusão do tratamento no rol de cobertura obrigatória”.
+
+Nesses termos, por versar sobre tratamento que não se encontra listado no rol de cobertura da ANS e tampouco encontra previsão em seus Anexos I e II, incide o entendimento firmado por esta Corte no julgamento da ADI 7.265, segundo o qual a imposição legal de cobertura de tratamentos ou procedimentos fora do rol da ANS deve observar os parâmetros técnicos e jurídicos citados anteriormente.
+No caso, a decisão reclamada limitou-se a consignar que o medicamento pleiteado encontra-se registrado na Anvisa, mas não foi previsto no Protocolo Clínico e Diretrizes do Ministério da Saúde para a situação clínica da autora e nem incorporado ao SUS. Além disso, aponta a existência de relatório médico atestando a progressão da doença e indicando o tratamento com o medicamento Carvykti, corroborado pelo laudo médico que comprova a gravidade do quadro clínico da paciente.
+Como visto, a decisão reclamada não se debruçou sobre o preenchimento dos demais requisitos estabelecidos por esta Corte no julgamento do paradigma, notadamente em relação à inexistência de negativa expressa da ANS ou de pendência de análise em proposta de atualização do rol (PAR), à ausência de alternativa terapêutica adequada para a condição do paciente no rol de procedimentos da ANS e à comprovação de eficácia e segurança do tratamento à luz da medicina baseada em evidências de alto grau ou ATS, necessariamente respaldadas por evidências científicas de alto nível.
+Dessa forma, verifica-se, em análise perfunctória própria do exame de medidas cautelares, que pode haver plausibilidade na alegação deduzida pelo reclamante no que concerne à inobservância dos requisitos previstos na tese fixada por esta Corte no julgamento da ADI 7.265.
+Sob outra ótica, o periculum in mora evidencia-se diante da imposição de prazo exíguo para cumprimento da obrigação - 5 (cinco) dias - sob pena de multa diária no valor de R$ 5.000,00 (cinco mil reais), sem prejuízo da adoção de outras medidas coercitivas, como o bloqueio judicial de ativos financeiros e da apuração de responsabilidade criminal por desobediência.
+Com efeito, nesta apreciação preliminar, a mim me parece que a manutenção da decisão reclamada pode impor à reclamante o ônus de custear tratamento de altíssimo custo, a despeito da ausência de análise acerca dos requisitos estabelecidos por esta Corte para concessão de tratamentos fora do rol da ANS, a evidenciar o risco de irreversibilidade da medida.
+Ressalto que o deferimento da presente liminar tem por objetivo resguardar a utilidade da prestação jurisdicional, evitando o caráter satisfativo da tutela de urgência ora impugnada.
+Ante o exposto, sem prejuízo de análise mais aprofundada por ocasião do julgamento de mérito, defiro a medida liminar para suspender os efeitos da decisão reclamada, proferida pelo Juízo de Direito da Vara Plantonista Cível da Comarca de Maceió, vinculada ao TJAL, bem como para suspender eventuais atos executórios voltados ao cumprimento da obrigação.
+ Solicitem-se, com urgência, informações à autoridade reclamada acerca das alegações deduzidas na petição inicial. Cite-se a parte beneficiária da reclamação para, querendo apresentar contestação  (art. 989, III, CPC).Intime-se, se necessário, a reclamante para que forneça o endereço da parte beneficiária do ato impugnado nesta sede reclamatória, sob pena de extinção do feito (arts. 319, II; 321; e 989, III, do CPC).
+Sem prejuízo, dê-se vista dos autos à Procuradoria-Geral da República pelo prazo de 5 dias (art. 991, CPC).
+Atribuo a esta decisão força de mandado e ofício.
+Comunique-se com urgência.
+Publique-se.
+Brasília, 30 de junho de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
