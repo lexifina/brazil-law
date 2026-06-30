@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LORENGE SPE 137 EMPREENDIMENTO IMOBILIÁRIO LTDA contra decisão que inadmitiu seu recurso especial, fundamentado no artigo 105, inciso III, alíneas a e c, da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado do Espírito Santo, assim ementado:
+"DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÕES CÍVEIS. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. PROMESSA DE COMPRA E VENDA DE IMÓVEL. QUITAÇÃO INTEGRAL DO PREÇO. BAIXA DE GRAVAME HIPOTECÁRIO. LEGITIMIDADE PASSIVA DO BANCO CREDOR HIPOTECÁRIO E DA CONSTRUTORA. RESPONSABILIDADE SOLIDÁRIA. DANOS MORAIS CONFIGURADOS. MANUTENÇÃO DA MULTA COMINATÓRIA. RECURSOS DESPROVIDOS.
+I. CASO EM EXAME
+Apelações Cíveis interpostas por Banco Bradesco S.A. e Lorenge SPE 137 Empreendimento Imobiliário Ltda. contra sentença que julgou procedente pedido de obrigação de fazer, determinando a baixa de gravame hipotecário sobre imóvel quitado pelos autores, e condenou os réus solidariamente ao pagamento de indenização por danos morais e honorários advocatícios. A sentença fixou multa cominatória em caso de descumprimento e condenou os apelantes ao pagamento das custas processuais e honorários advocatícios.
+II. QUESTÃO EM DISCUSSÃO
+Há três questões em discussão: (i) definir se o Banco Bradesco S.A. possui legitimidade passiva para integrar o polo passivo da ação em virtude de sua condição de credor hipotecário; (ii) determinar a responsabilidade solidária do banco e da construtora para a baixa do gravame hipotecário após a quitação do imóvel pelos adquirentes; e (iii) avaliar a procedência do pedido de indenização por danos morais, bem como a razoabilidade do valor arbitrado.
+III. RAZÕES DE DECIDIR
+O Banco Bradesco S.A. possui legitimidade passiva para integrar a ação, visto que é o credor hipotecário do imóvel, e a baixa do gravame depende de sua anuência, conforme entendimento consolidado pela jurisprudência e previsão no art. 251, II, da Lei nº 6.015/73.
+A responsabilidade pela baixa do gravame hipotecário é solidária entre a construtora e o banco credor, pois a hipoteca, embora constituída para garantir financiamento à construtora, é ineficaz em relação aos adquirentes do imóvel, conforme Súmula 308 do STJ.
+Os adquirentes, após quitarem o preço do imóvel, fazem jus à transferência do bem livre de ônus, sendo dever da construtora e do banco proceder à baixa do gravame hipotecário, sob pena de violação à segurança jurídica e boa-fé objetiva.
+A não efetivação da baixa do gravame, mesmo após diversas tentativas extrajudiciais dos autores, configura transtorno que ultrapassa o mero dissabor, justificando a condenação em danos morais, visto que os autores foram privados de usufruir integralmente do imóvel.
+O valor da indenização por danos morais, fixado em R$10.000,00, é adequado e proporcional à gravidade do abalo sofrido, considerando a conduta dos réus e o princípio da razoabilidade.
+A multa cominatória, fixada em R$500,00 por dia de descumprimento, limitada a R$30.000,00, é razoável e adequada para compelir os réus ao cumprimento da obrigação de fazer, respeitando o princípio da proporcionalidade.
+IV. DISPOSITIVO E TESE
+Recursos desprovidos.
+Tese de julgamento:
+O credor hipotecário possui legitimidade passiva para compor o polo passivo de ação que visa à baixa de gravame hipotecário sobre imóvel quitado.
+A responsabilidade pela baixa do gravame hipotecário é solidária entre a construtora e o credor hipotecário, devendo o imóvel ser transferido livre de ônus ao adquirente que quitou integralmente o preço.
+A não realização de baixa de hipoteca após quitação do imóvel caracteriza transtorno que justifica a condenação por danos morais.
+A multa cominatória fixada em valor razoável visa garantir o cumprimento da obrigação de fazer e é devida no caso de descumprimento.
+Dispositivos relevantes citados: Lei nº 6.015/73, art. 251, II; Código de Defesa do Consumidor (CDC); CPC/15, art. 85, § 11.
+Jurisprudência relevante citada: Súmula n.º 308/STJ; TJ-DF, AC 07195541320218070020; TJ-SP, AC 10062684120198260114; REsp 1.837.203/RS; AgInt no AREsp n. 1.916.671/RS; TJ-MG, AC 10000211998463001; TJ-DF, AI 07166082620248070000." (e-STJ, fls. 459-461)
+Os embargos de declaração foram rejeitados (e-STJ, fls. 503-523).
+Em seu recurso especial, a parte recorrente alega violação aos artigos 186, 421, 422, 425 e 927 do Código Civil.
+Sustenta, inicialmente, a impossibilidade de cumprimento da obrigação de fazer que lhe foi imposta (baixa do gravame hipotecário), porquanto tal obrigação é de responsabilidade exclusiva da instituição financeira demandada.
+Requer, ainda, a exclusão das astreintes fixadas liminarmente, com base na jurisprudência do Superior Tribunal de Justiça, segundo a qual não há falar em manutenção da multa cominatória diante da impossibilidade do cumprimento da obrigação.
+Argumenta, também, que não se verificam os elementos configuradores da responsabilidade civil, razão por que o acórdão recorrido deve ser reformado no tocante à concessão do pedido de danos morais.
+Foram ofertadas contrarrazões (e-STJ, fls. 562-578).
+O recurso especial foi inadmitido na origem (e-STJ, fls. 579-583), dando ensejo à interposição do presente agravo.
+É o Relatório. Decido.
+A irresignação não prospera.
+Inicialmente, do exame do presente recurso, verifica-se que o recorrente sustenta a impossibilidade de cumprimento da obrigação de fazer (baixa do gravame hipotecário) e a consequente necessidade de afastamento das astreintes, sem, contudo, indicar qual ou quais dispositivos de lei federal entendeu violados pelo acórdão recorrido nesse sentido. De fato, no tópico no qual tais teses foram suscitadas, não houve o apontamento preciso das normas legais federais eventualmente afrontadas pela Corte de origem.
+Assim, diante da patente falta de fundamentação do apelo especial, incide, por analogia, o óbice da Súmula 284 do STF. Nesse sentido:
+"CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. INSEGURANÇA JURÍDICA NA ACEITAÇÃO DE PROVA UNILATERALMENTE PRODUZIDA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVOS VIOLADOS. INCIDÊNCIA DA SÚMULA 284/STF. INSCRIÇÃO EM CADASTRO DE INADIMPLENTES. PRÉVIA NOTIFICAÇÃO DO CONSUMIDOR COMPROVADA. AFASTAMENTO DA COMPENSAÇÃO POR DANO MORAL. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NA EXTENSÃO, DESPROVIDO.
+1. A ausência de indicação do dispositivo de lei federal supostamente violado e a impossibilidade de compreensão da controvérsia impedem a abertura da instância especial, nos termos da Súmula 284 do Supremo Tribunal Federal, aplicável, por analogia, neste Tribunal.
+2. A Segunda Seção desta Corte estabeleceu, no julgamento do REsp 1.061.134/RS, Rel. Ministra NANCY ANDRIGHI, que "a ausência de prévia comunicação ao consumidor da inscrição do seu nome em cadastros de proteção ao crédito, prevista no art. 43, § 2º do CDC, enseja o direito à compensação por danos morais, salvo quando preexista inscrição desabonadora regularmente realizada."
+3. Agravo conhecido para conhecer parcialmente do recurso especial e, na extensão, negar-lhe provimento."
+(AREsp n. 3.097.385/PR, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 4/5/2026, DJEN de 12/5/2026)
+"PROCESSUAL CIVIL E CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. ERRO MÉDICO. RESPONSABILIDADE DA OPERADORA. FUNDAMENTAÇÃO DEFICIENTE. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVOS LEGAIS. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. FALTA DE COTEJO ANALÍTICO. ART. 1.029, § 1º, DO CPC E ART. 255 DO RISTJ. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA. SÚMULA 83/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial em ação de responsabilidade civil por suposto erro médico em atendimento por profissional credenciado a plano de saúde.
+2. O objetivo recursal é decidir se se pode conhecer do recurso especial sobre a ausência de responsabilidade da operadora e sobre o dissídio jurisprudencial.
+3. Não se conhece do recurso especial quando a parte deixa de indicar, de forma expressa, os dispositivos de lei federal violados, caracterizando deficiência de fundamentação à luz da Súmula 284 do Supremo Tribunal Federal.
+4. O dissídio jurisprudencial exige cotejo analítico com demonstração de similitude fática e interpretação diversa do mesmo dispositivo legal.
+5. Agravo conhecido. Recurso especial não conhecido."
+(AREsp n. 2.989.849/SE, relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 18/5/2026, DJEN de 21/5/2026)
+Igualmente se aplica a Súmula 284/STF no que se refere à aludida ofensa aos artigos 421, 422, 425 do Código Civil.
+Com efeito, a parte recorrente somente faz alegação genérica da violação aos dispositivos supracitados (arts. 421, 422, 425 do Código Civil), sem indicar, de forma clara e precisa, de que modo o aresto teria contrariado tais preceitos legais, o que também atrai a incidência da Súmula 284 do STF. A propósito:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE FALÊNCIA. HONORÁRIOS ADVOCATÍCIOS FIXADOS POR EQUIDADE. ART. 85, § 8, DO CPC/2015. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO LEGAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284 DO STF. CONCLUSÕES ADOTADAS PELO TRIBUNAL DE ORIGEM EM CONSONÂNCIA COM O ENTENDIMENTO FIRMADO NO STJ. SÚMULA 83 DO STJ. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. A deficiência na fundamentação do recurso obsta o conhecimento do recurso especial se, da leitura, não for possível aferir de que maneira o acordão impugnado violou os dispositivos de lei federal indicados no recurso especial (Súmula n. 284 do STF).
+2. O recurso especial é inviável quando o tribunal de origem decide em consonância com a jurisprudência do STJ (Súmula 83/STJ).
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.219.305/SC, relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 7/4/2025, DJEN de 11/4/2025)
+Finalmente, sobre a caracterização dos danos extrapatrimoniais, a Corte de origem se manifestou nos seguintes moldes:
+"No tocante a alegada ausência de configuração de danos morais, vale ainda salientar que a presente ação foi ajuizada pelos apelados em razão do descaso dos apelantes em providenciar o quanto necessário para a baixa do gravame averbado na matrícula do imóvel referido nos autos e, consequentemente, a outorga de sua escritura definitiva.
+Note-se que de acordo com os e-mails acostados aos autos, os apelados tentaram, por diversas vezes, dirimir a questão de forma amigável com a construtora, tendo, inclusive, obtido auxílio de funcionário para formular notificação ao Banco Bradesco com vistas a informar o adimplemento integral da obrigação e, por fim, exigindo o Termo de Liberação de Hipoteca (TLH), documento este imprescindível para prosseguimento do registro.
+Destarte, como bem ressaltou a sentença apelada, a conduta dos apelantes evidenciou mera burocracia desnecessária e que poderia ser solucionada por meio de simples resolução administrativa, tanto por parte da instituição financeira como da construtora, ora apelantes.
+A quitação do imóvel adquirido deu-se em 30/10/2017 e a presente demanda foi ajuizada em 15/02/2022, em razão de não terem, os ora apelados, obtido êxito nas tentativas de resolução administrativa de obter a documentação necessária para o registro imobiliário do imóvel, mesmo tendo quitado o preço.
+Tais fatos ultrapassam o mero dissabor, não se podendo olvidar, ainda, que os recorridos foram privados de dispor do imóvel adquirido por período considerável, mesmo após terem pagado integralmente o valor acordado e empenhado todos os esforços a fim de resolverem a questão administrativamente junto à apelante.
+Destarte, o fato de não ter havido o cancelamento da hipoteca, mesmo tendo havido o integral pagamento do imóvel pelos apelados, é motivo suficiente para ocasionar transtornos e angústias que ultrapassam o mero aborrecimento e o simples dissabor." (e-STJ, fl. 471)
+Consoante se depreende do excerto acima transcrito, o Tribunal a quo manteve a condenação por danos morais por reconhecer que a demora injustificada e a burocracia desnecessária dos apelantes (réus) em providenciar a baixa do gravame hipotecário, mesmo após a quitação integral do imóvel em 30/10/2017 e após diversas tentativas administrativas dos adquirentes, impediram a plena disposição do bem por período considerável, o que ultrapassou o mero dissabor, configurando abalo moral indenizável.
+Portanto, a modificação da conclusão do Tribunal de origem acerca da presença dos elementos aptos a ensejar indenização por danos morais, como pleiteia a parte ora recorrente, demandaria o revolvimento do suporte fático-probatório dos autos, o que é inadmissível em sede de recurso especial, por vedação da Súmula 7 do STJ.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil de 2015, majoro os honorários advocatícios devidos pela parte ora recorrente em 10% sobre o valor já fixado pelas instâncias ordinárias, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+EMENTA
