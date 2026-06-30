@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por BENEDITO FILADELFO COELHO à decisão monocrática desta relatoria (e-STJ, fls. 515-519), que deu provimento ao seu recurso especial, a fim de "a) declarar o caráter abusivo da cobrança de juros capitalizados diariamente sem previsão da taxa diária aplicada; e b) consequentemente, afastar a mora e seus efeitos em razão da aludida cobrança abusiva, julgando improcedente a ação de busca e apreensão e parcialmente procedente a reconvenção".
+Em suas razões recursais, a parte embargante sustenta omissão no dispositivo da decisão quanto às consequências jurídicas da improcedência da ação de busca e apreensão. Afirma que, embora tenha sido declarado o caráter abusivo da capitalização diária sem taxa e afastada a mora, com a improcedência da ação e parcial procedência da reconvenção, não teria havido determinação expressa de devolução do bem e, na impossibilidade, de indenização pelo valor de mercado à época da apreensão, nem a fixação de multa equivalente a cinquenta por cento do valor financiado, além do reconhecimento da responsabilidade por perdas e danos.
+Defende que tais providências decorreriam automaticamente do resultado do julgamento, conforme orientação jurisprudencial, impondo-se a condenação do credor fiduciário à restituição do veículo e, se já alienado, à indenização pelo valor indicado na Tabela FIPE no momento da apreensão, somada à multa mencionada e à composição dos prejuízos do devedor fiduciante. Aduz que a ausência de determinação específica configuraria omissão sanável via embargos de declaração, por se tratar de ponto sobre o qual o órgão julgador deveria se pronunciar de ofício.
+Impugnação apresentada às fls. 531-535 (e-STJ), pela confirmação da decisão embargada.
+É o relatório. Decido.
+O recurso deve ser parcialmente acolhido.
+Com efeito, em decorrência do afastamento da mora, que é pressuposto de procedibilidade, a ação de busca e apreensão deve ser extinta, sem julgamento de mérito, devendo ser corrigido o dispositivo, que, por erro material, apontou a improcedência da ação.
+Assim, não é aplicável a multa prevista pelo art. 3º, § 6º, do Decreto-Lei n. 911/1969, que, segundo a jurisprudência desta Corte, somente incide na hipótese restritiva de improcedência da ação.
+Entretanto, como consequência lógica do resultado da extinção da ação, é cabível a restituição do veículo ao devedor fiduciante ou o seu ressarcimento pelo valor equivalente, conforme apuração pela Tabela FIPE à época da apreensão, devidamente atualizado.
+Nesse sentido:
+"DIREITO CIVIL. RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA. BUSCA E APREENSÃO. DESCARACTERIZAÇÃO DA MORA. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. AFASTAMENTO DA MULTA. INVERSÃO DOS HONORÁRIOS.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça de Santa Catarina que manteve sentença de procedência em ação de busca e apreensão de veículo alienado fiduciariamente, reconhecendo a abusividade dos juros remuneratórios, mas não afastando a mora do devedor.
+2. O acórdão recorrido entendeu que a abusividade dos encargos contratuais não seria suficiente para descaracterizar a mora, considerando a inadimplência substancial do contrato e a ausência de depósito do valor incontroverso ou caução idônea.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o reconhecimento da abusividade dos encargos remuneratórios no período de normalidade contratual é suficiente para descaracterizar a mora do devedor em contratos de alienação fiduciária.
+III. Razões de decidir
+4. O Superior Tribunal de Justiça firmou entendimento no Tema 28 de que a cobrança de encargos abusivos no período de normalidade contratual descaracteriza a mora, pois dificulta o pagamento e causa impontualidade.
+5. O reconhecimento da abusividade dos encargos contratuais, por si só, descaracteriza a mora do devedor, independentemente de depósito prévio do valor incontroverso ou oferecimento de caução idônea.
+6. A mora é pressuposto essencial para a propositura de ação de busca e apreensão, nos termos dos arts. 2º, § 2º, e 3º do Decreto-Lei n. 911/1969. A inexistência da mora inviabiliza o prosseguimento da ação, sendo imperativa sua extinção sem julgamento de mérito.
+7. A devolução do bem ao devedor fiduciante é consequência lógica da extinção da demanda. Caso o bem tenha sido vendido, o credor deve ressarcir o valor correspondente à Tabela FIPE na data da apreensão, devidamente atualizado.
+8. A multa prevista no art. 3º, § 6º, do Decreto-Lei n. 911/1969 não é aplicável quando o processo é extinto sem julgamento de mérito.
+IV. Dispositivo e tese
+Recurso provido para afastar a caracterização da mora, extinguir a ação de busca e apreensão sem julgamento de mérito, determinar a restituição do veículo ou ressarcimento pelo valor da Tabela FIPE, afastar a multa prevista no art. 3º, § 6º, do Decreto-Lei n. 911/1969, e fixar honorários advocatícios em desfavor do banco.
+Tese de julgamento:
+1. A cobrança de encargos abusivos no período de normalidade contratual descaracteriza a mora do devedor em contratos de alienação fiduciária.
+2. O reconhecimento da abusividade dos encargos contratuais, por si só, descaracteriza a mora do devedor, independentemente de depósito prévio do valor incontroverso ou oferecimento de caução idônea.
+3. A inexistência da mora inviabiliza o prosseguimento da ação de busca e apreensão, sendo imperativa sua extinção sem julgamento de mérito.
+4. A multa prevista no art. 3º, § 6º, do Decreto-Lei n. 911/1969 não é aplicável quando o processo é extinto sem julgamento de mérito.
+Dispositivos relevantes citados: Decreto-Lei n. 911/1969, arts. 2º, § 2º, e 3º, § 6º; Código de Defesa do Consumidor, art. 51, IV; CPC/2015, art. 85, § 11.
+Jurisprudência relevante citada: STJ, REsp 1.061.530/RS, relator Min. Nancy Andrighi, Segunda Seção, julgado em 22/10/2008; STJ, REsp 1.933.739/RS, relator Min. Nancy Andrighi, Terceira Turma, julgado em 15/6/2021; STJ, AgInt no AREsp 2.355.093/SP, relator Min. Maria Isabel Gallotti, Quarta Turma, julgado em 12/3/2024."
+(REsp n. 2.134.805/SC, relator Ministro HUMBERTO MARTINS, TERCEIRA TURMA, julgado em 24/11/2025, DJEN de 27/11/2025.)
+"DIREITO CIVIL E DIREITO DO CONSUMIDOR. RECURSO ESPECIAL. BUSCA E APREENSÃO DE VEÍCULO E REVISÃO DE CLÁUSULAS CONTRATUAIS. CAPITALIZAÇÃO DIÁRIA SEM INDICAÇÃO DA TAXA DIÁRIA. DESCARACTERIZAÇÃO DA MORA. RECURSO ESPECIAL PROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado do Paraná em apelação cível, em ação de busca e apreensão de veículo cumulada com revisão de cláusulas contratuais.
+2. A controvérsia decorre de ação de busca e apreensão com pretensão de consolidação da propriedade e posse do bem, autorização de venda e revisão de cláusulas contratuais c/c tutela de urgência. O valor da causa foi fixado em R$ 51.514,48.
+3. Na sentença, o Juízo de primeiro grau julgou procedente a busca e apreensão, consolidou a posse e a propriedade do veículo, determinou a prestação de contas e condenou o réu nas verbas de sucumbência.
+4. A Corte de origem manteve a busca e apreensão e, parcialmente, reconheceu abusividade da tarifa de avaliação do bem, venda casada nos seguros, limitação dos juros moratórios a 1% ao mês, recálculo do CET e restituição em dobro dos valores cobrados a maior; embargos de declaração rejeitados.
+II. QUESTÃO EM DISCUSSÃO
+5. Há cinco questões em discussão: (i) saber se houve violação do art. 6º, III, do CDC pelo dever de informação clara e adequada quanto à capitalização diária sem indicação da taxa diária; (ii) saber se a cláusula de capitalização diária sem taxa correspondente é abusiva à luz do art. 51, IV, do CDC; (iii) saber se a ausência de informação essencial sobre a taxa diária configura vantagem exagerada e nulidade nos termos do art. 51, § 1º, do CDC; (iv) saber se a admissão de capitalização diária sem pactuação da taxa viola a boa-fé objetiva do art. 422 do CC; e (v) saber se há divergência jurisprudencial quanto à exigência da indicação da taxa diária para validade da capitalização diária.
+III. RAZÕES DE DECIDIR
+6. A Segunda Seção do STJ admite a capitalização diária apenas com pactuação expressa da periodicidade e da taxa diária; a mera referência às taxas mensal e anual é insuficiente, impondo-se o afastamento da capitalização diária.
+7. A cobrança de encargo abusivo no período da normalidade contratual descaracteriza a mora, por dificultar o adimplemento das parcelas.
+IV. DISPOSITIVO E TESE
+8. Recurso especial provido.
+Tese de julgamento: "1. Aplica-se a Súmula n. 530 do STJ e a Súmula n. 541 do STJ: a capitalização de juros em periodicidade inferior à anual exige pactuação expressa e clara, sendo imprescindível, na capitalização diária, a indicação da taxa diária; insuficiente a mera menção às taxas mensal e anual, razão pela qual se afasta a capitalização diária. 2. Aplica-se o entendimento do REsp n. 1.061.530/RS: a cobrança de encargos abusivos na fase de normalidade contratual descaracteriza a mora."
+Dispositivos relevantes citados: CDC, arts. 6º, III, 51, IV, § 1º;
+CC, art. 422; DL n. 911/1969, arts. 3º, 2º, § 3º; CPC, arts. 294, 300, 85, § 11; CPC/1973, art. 543-C; MP n. 2.170-36/2001, art. 5º.
+Jurisprudência relevante citada: STJ, Súmulas n. 530, 541, 7; STJ, REsp n. 1.826.463/SC, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 14/10/2020; STJ, AgRg no AREsp n. 429.029/PR, relator Ministro Marco Buzzi, Segunda Seção, julgado em 9/3/2016; STJ, AgInt no REsp n. 1.999.148/PR, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 21/8/2023; STJ, AgInt na Rcl n. 38.994/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 18/2/2020; STJ, REsp n. 1.061.530/RS, relator Ministro Luis Felipe Salomão, Segunda Seção, julgados em 22/10/2008.
+(REsp n. 2.247.669/PR, relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 9/3/2026, DJEN de 12/3/2026.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA. BUSCA E APREENSÃO INDEVIDAS. RESTITUIÇÃO. BENS ALIENADOS. CONVERSÃO EM PERDAS E DANOS. VALOR DE REFERÊNCIA. FIPE. REEXAME. SÚMULAS N. 7 E 83/STJ. NÃO PROVIMENTO.
+1. "5. Consolidado o bem no patrimônio do credor, estará ele investido em todos os poderes inerentes à propriedade, podendo vender o bem. Se, contudo, efetivar a venda e a sentença vier a julgar improcedente o pedido, o risco do negócio é seu, devendo ressarcir os prejuízos que o devedor fiduciante sofrer em razão da perda do bem. 6. Privado indevidamente da posse de seu veículo automotor, a composição do prejuízo do devedor fiduciante deve traduzir-se no valor de mercado do veículo no momento de sua apreensão indevida (valor do veículo na Tabela FIPE à época da ocorrência da busca e apreensão). 7. A multa prevista no art. 3º, § 6º, do Decreto-lei 911/69 não é cabível quando houver extinção do processo sem julgamento do mérito." (REsp 1933739/RS, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 15/6/2021, DJe 17/6/2021).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. É inadmissível o recurso especial interposto contra acórdão que decidiu a causa nos termos da jurisprudência do Superior Tribunal de Justiça, como ensina o verbete n. 83 da Súmula.
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.355.093/SP, relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 12/3/2024, DJe de 14/3/2024.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESTITUIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. VEÍCULO. ALIENAÇÃO FIDUCIÁRIA. CONSTITUIÇÃO EM MORA. DANO MORAL. INEXISTÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. MULTA DO ART. 3º, § 6º, DO DECRETO-LEI Nº 911/1969. NÃO CABIMENTO. AÇÃO DE BUSCA E APREENSÃO. EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO.
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211/STJ.
+2. Para rever o entendimento firmado pelas instâncias ordinárias acerca da constituição da mora do devedor fiduciário e da ausência de dano moral indenizável, seria necessário o revolvimento de fatos e de provas nos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+3. O acórdão recorrido está em consonância com a jurisprudência desta Corte, no sentido de que é incabível a aplicação da multa do 3º, § 6º, do Decreto-lei nº 911/1969 quando a ação de busca e apreensão for extinta sem resolução do mérito.
+4. Agravo interno não provido."
+(AgInt no AREsp n. 2.394.999/DF, relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/5/2024, DJe de 23/5/2024.)
+Ante o exposto, acolho os embargos de declaração, com efeitos infringentes, a fim de integrar o dispositivo da decisão embargada para constar o seguinte do item "b": "b) consequentemente, afastar a mora e seus efeitos em razão da aludida cobrança abusiva, julgando extinta, sem resolução de mérito, a ação de busca e apreensão e parcialmente procedente a reconvenção, determinando-se a restituição do veículo ao devedor fiduciante ou o seu ressarcimento pelo valor equivalente, conforme apuração pela Tabela FIPE à época da apreensão, devidamente atualizado.
+Publique-se.
+EMENTA
