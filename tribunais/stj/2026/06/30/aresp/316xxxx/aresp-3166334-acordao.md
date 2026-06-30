@@ -1,0 +1,115 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/06/2026 a 30/06/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luís Carlos Gambogi (Desembargador Convocado do TJMG), João Otávio de Noronha, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. CIVIL. AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA IMOBILIÁRIO. ATRASO NA ENTREGA DAS CHAVES. LUCROS CESSANTES. BASE DE CÁLCULO. ACÓRDÃO RECORRIDO CONFORME A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. LUCROS CESSANTES. MONTANTE. REVISÃO. FUNDAMENTO DO ACÓRDÃO RECORRIDO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 283 DO STF. REEXAME DE MATÉRIA FÁTICA. SÚMULAS N. 5 E 7 DO STJ. AGRAVO NOS PRÓPRIOS AUTOS NÃO PROVIDO.
+I. Razões de decidir
+1. Conforme o entendimento desta Corte Superior, "a alteração do julgado também se impõe em respeito ao dever de uniformização, integridade, estabilidade e coerência da jurisprudência (art. 926 do CPC), uma vez que, em casos idênticos relativos ao mesmo empreendimento imobiliário, esta Corte já determinou que a base de cálculo da indenização por lucros cessantes corresponda ao valor de mercado, extraído do valor locatício de imóvel assemelhado. Em consequência, a indenização por lucros cessantes, decorrente da privação do uso do imóvel, deve ser fixada em 0,5% (meio por cento) ao mês sobre o valor de mercado do imóvel, a ser apurado em liquidação de sentença" (EDcl no AREsp n. 2.109.686/RS, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 30/3/2026, DJEN de 8/4/2026), entendimento aplicado pelo Tribunal a quo.
+2. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283 do STF.
+3. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. Sem incorrer nos óbices mencionados, não há como rever o entendimento da Corte de origem de que seria proporcional às peculiaridades do caso concreto o valor de 0,5% (cinco décimos percentuais) do valor atualizado do contrato, a título de lucros cessantes, a ser apurado mensalmente.
+II. Dispositivo
+5. Agravo nos próprios autos não provido.
+RELATÓRIO
+Trata-se de agravo nos próprios autos (CPC, art. 1.042) interposto contra decisão que inadmitiu o recurso especial, ante a aplicação da Súmula n. 7 do STJ (fls. 508-510).
+O acórdão do TJPA traz a seguinte ementa (fls. 375-376):
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO EM APELAÇÃO CÍVEL. ATRASO NA ENTREGA DE IMÓVEL. LUCROS CESSANTES. BASE DE CÁLCULO. DANO MORAL. VALOR DA INDENIZAÇÃO. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo Interno interposto por LUXEMBURGO INCORPORADORA LTDA contra decisão monocrática que, em sede de Apelação Cível, desproveu o recurso da incorporadora e deu provimento ao recurso dos promitentes compradores, ADRIANO CARVALHO OLIVEIRA e SHIRLEY RANGEL CARVALHO OLIVEIRA, reconhecendo o direito à indenização por danos morais em razão do atraso na entrega de unidade autônoma no empreendimento "Residencial Torre Parnaso", cujo pagamento fora integralmente quitado antes da mora contratual.
+II. QUESTÃO EM DISCUSSÃO
+1. Há duas questões em discussão: (i) definir se a base de cálculo da indenização por lucros cessantes deve ser o valor total do contrato atualizado ou apenas os valores efetivamente pagos; (ii) estabelecer se o valor arbitrado a título de danos morais (R$ 10.000,00) mostra-se excessivo ou proporcional à extensão do dano.
+III. RAZÕES DE DECIDIR
+1. A jurisprudência do Superior Tribunal de Justiça admite a fixação de lucros cessantes pela privação do uso do imóvel, com base em percentual sobre o valor contratual atualizado, independentemente da comprovação do prejuízo ou da destinação do bem, presumindo-se o dano do adquirente.
+2. O percentual de 0,5% ao mês sobre o valor do contrato atualizado é usual e considerado razoável pelos tribunais superiores, não havendo enriquecimento ilícito quando o imóvel foi integralmente quitado antes do início do atraso, como comprovado nos autos.
+3. A indenização por danos morais é cabível quando o atraso supera os limites contratuais e a cláusula de tolerância, sendo o valor de R$ 10.000,00 compatível com precedentes do STJ e da jurisprudência local, não havendo afronta ao art. 944, parágrafo único, do Código Civil.
+IV. DISPOSITIVO E TESE
+1. Recurso desprovido.
+Tese de julgamento:
+1. A base de cálculo da indenização por lucros cessantes, em razão do atraso na entrega de imóvel, pode ser o valor total do contrato atualizado, quando quitado integralmente antes da mora contratual.
+2. O atraso superior ao prazo contratual e à cláusula de tolerância justifica a indenização por danos morais.
+3. O valor de R$ 10.000,00 a título de danos morais não é excessivo quando compatível com os precedentes jurisprudenciais e proporcional ao dano causado.
+Dispositivos relevantes citados: CC, arts. 402 e 944, parágrafo único; CPC/2015, arts. 85, § 2º, 86, parágrafo único.
+Jurisprudência relevante citada: STJ, EREsp 1.341.138/SP, Rel. Min. Maria Isabel Gallotti, 2ª Seção, j. 09.05.2018; STJ, AgInt no AREsp 978237/MG, Rel. Min. Luis Felipe Salomão, 4ª Turma, DJe 16.03.2017; STJ, AgInt no AREsp 2143077/RJ, Rel. Min. Marco Aurélio Bellizze, 4ª Turma, DJe 14.12.2022; TJ-SP, Apelação Cível 1058972-95.2022.8.26.0576, Rel. Des. Flavio Abramovici, j. 28.08.2024.
+Nas razões apresentadas (fls. 391-413), a recorrente apontou dissídio jurisprudencial e ofensa ao art. 402 do CC, defendendo que o montante da indenização por lucros cessantes fixado pelas instâncias de origem, ante o atraso na entrega da obra, deveria ser arbitrado em 0,5% (cinco décimos percentuais) sobre os valores pagos pelos compradores, a fim de evitar seu enriquecimento sem causa.
+Ao final, requereu a concessão de efeito suspensivo à in surgência.
+Foram ofertadas contrarrazões, requerendo a condenação da agravante ao pagamento de multa por litigância de má-fé, assim como o arbitramento de honorários recursais (fls. 485-507).
+O agravo (fls. 511-519) afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada, reiterando o pedido de multa por litigância de má-fé (fls. 523-530).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. CIVIL. AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA IMOBILIÁRIO. ATRASO NA ENTREGA DAS CHAVES. LUCROS CESSANTES. BASE DE CÁLCULO. ACÓRDÃO RECORRIDO CONFORME A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. LUCROS CESSANTES. MONTANTE. REVISÃO. FUNDAMENTO DO ACÓRDÃO RECORRIDO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 283 DO STF. REEXAME DE MATÉRIA FÁTICA. SÚMULAS N. 5 E 7 DO STJ. AGRAVO NOS PRÓPRIOS AUTOS NÃO PROVIDO.
+I. Razões de decidir
+1. Conforme o entendimento desta Corte Superior, "a alteração do julgado também se impõe em respeito ao dever de uniformização, integridade, estabilidade e coerência da jurisprudência (art. 926 do CPC), uma vez que, em casos idênticos relativos ao mesmo empreendimento imobiliário, esta Corte já determinou que a base de cálculo da indenização por lucros cessantes corresponda ao valor de mercado, extraído do valor locatício de imóvel assemelhado. Em consequência, a indenização por lucros cessantes, decorrente da privação do uso do imóvel, deve ser fixada em 0,5% (meio por cento) ao mês sobre o valor de mercado do imóvel, a ser apurado em liquidação de sentença" (EDcl no AREsp n. 2.109.686/RS, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 30/3/2026, DJEN de 8/4/2026), entendimento aplicado pelo Tribunal a quo.
+2. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283 do STF.
+3. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. Sem incorrer nos óbices mencionados, não há como rever o entendimento da Corte de origem de que seria proporcional às peculiaridades do caso concreto o valor de 0,5% (cinco décimos percentuais) do valor atualizado do contrato, a título de lucros cessantes, a ser apurado mensalmente.
+II. Dispositivo
+5. Agravo nos próprios autos não provido.
+VOTO
+A jurisprudência da Segunda Seção do STJ, firmada na sistemática dos recursos repetitivos, é firme no sentido de que o atraso injustificado na entrega do imóvel, faz surgir o dever da vendedora de pagar aluguel mensal aos compradores, a título de lucros cessantes, "com base no valor locatício de imóvel assemelhado, com termo final na data da disponibilização da posse direta ao adquirente da unidade autônoma" (REsp n. 1.729.593/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 25/9/2019, DJe 27/9/2019).
+Do mesmo modo:
+DIREITO CIVIL E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ATRASO NA ENTREGA DE IMÓVEL. LUCROS CESSANTES PELA PRIVAÇÃO DO USO. TEMA 996/STJ. CRITÉRIO DE CÁLCULO DA INDENIZAÇÃO. ERRO MATERIAL NA APLICAÇÃO DE PRECEDENTE VINCULANTE. EMBARGOS ACOLHIDOS, COM EFEITOS INFRINGENTES.
+1. O acórdão embargado reconhece ter havido erro material ao atribuir ao Tema 996/STJ a possibilidade de cálculo da indenização "em percentual sobre o valor atualizado do contrato ou de mercado", texto oriundo do IRDR julgado pelo Tribunal de Justiça local, e que foi expressamente reformado pelo STJ no julgamento do REsp 1.729.593/SP.
+2. A tese 1.2 firmada no Tema 996/STJ estabelece, de forma clara e vinculante, que, no descumprimento do prazo para entrega do imóvel, o prejuízo do comprador é presumido e a indenização por lucros cessantes deve ser fixada na forma de aluguel mensal, com base no valor locatício de imóvel assemelhado, o que remete ao valor de mercado para fins de locação, não havendo "flexibilidade" entre valor contratual e valor de mercado.
+3. A correção da decisão, para adequar o critério indenizatório ao precedente obrigatório, configura necessária correção de premissa jurídica equivocada, sem necessidade de reexame de fatos ou provas, tratando-se de requalificação jurídica do critério de cálculo, razão pela qual não incide o óbice da Súmula 7/STJ.
+4. A alteração do julgado também se impõe em respeito ao dever de uniformização, integridade, estabilidade e coerência da jurisprudência (art. 926 do CPC), uma vez que, em casos idênticos relativos ao mesmo empreendimento imobiliário, esta Corte já determinou que a base de cálculo da indenização por lucros cessantes corresponda ao valor de mercado, extraído do valor locatício de imóvel assemelhado. (grifo nosso)
+5. Em consequência, a indenização por lucros cessantes, decorrente da privação do uso do imóvel, deve ser fixada em 0,5% (meio por cento) ao mês sobre o valor de mercado do imóvel, a ser apurado em liquidação de sentença, mantendo-se inalterados os demais pontos da decisão embargada.
+6. Embargos de declaração acolhidos, com efeitos infringentes, para sanar erro material e dar parcial provimento em maior extensão ao recurso especial.
+(EDcl no AREsp n. 2.109.686/RS, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 30/3/2026, DJEN de 8/4/2026.)
+CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. ATRASO NA ENTREGA DE IMÓVEL. LEGITIMIDADE PASSIVA. REEXAME. SÚMULA 7/STJ. LUCROS CESSANTES. PARÂMETROS DE FIXAÇÃO. CONSONÂNCIA COM O ENTENDIMENTO DO STJ. SÚMULA 83/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. A pretensão de alterar o posicionamento consolidado acerca da legitimidade passiva das empresas rés implicaria, necessariamente, a reavaliação do conjunto fático-probatório, providência que se mostra incabível em recurso especial, conforme dispõe a Súmula 7 do STJ.
+2. Quanto à indenização por lucros cessantes, fixada em 1% do valor do imóvel, observa-se que o critério adotado está em conformidade com o entendimento do STJ. Nos Embargos de Divergência no REsp 1.341.138/SP e no REsp 1.635.428/SC (Tema 970), a Corte reconheceu o direito à reparação com base no valor locatício durante o período de atraso na entrega. O percentual de 1% ao mês sobre o valor já quitado insere-se nos parâmetros jurisprudenciais consolidados, que variam entre 0,5% e 1% do valor do imóvel, aplicando-se, portanto, a Súmula 83/STJ.
+3. Agravo conhecido para negar provimento ao recurso especial.
+(AREsp n. 3.076.066/PA, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 30/3/2026, DJEN de 8/4/2026.)
+DIREITO CIVIL. RECURSO ESPECIAL. ATRASO NA ENTREGA DE IMÓVEL. LUCROS CESSANTES. BASE DE CÁLCULO. VALOR DO IMÓVEL. RECURSO ESPECIAL CONHECIDO EM PARTE E DESPROVIDO.
+ ..
+III. RAZÕES DE DECIDIR
+6. Em ação de indenização, os lucros cessantes fixados no percentual de 0,5% ao mês sobre o valor do imóvel é razoável e adequado, conforme a jurisprudência consolidada do STJ.
+7. O acórdão recorrido está em consonância com a orientação dominante desta Corte, incidindo a Súmula n. 83 do STJ e prejudicando o dissídio.
+IV. DISPOSITIVO E TESE
+8. Recurso especial conhecido em parte e desprovido.
+Tese de julgamento: "1. Em ação de indenização, os lucros cessantes fixados em percentual de 0,5% ao mês sobre o valor do imóvel, a título de lucros cessantes pelo atraso na entrega, é compatível com a jurisprudência do STJ. 2. Aplica-se a Súmula n. 83 do STJ para afastar a alegada divergência jurisprudencial."
+Dispositivos relevantes citados: CC, arts. 402 e 884; CPC, art. 85, §§ 2º e 11.
+Jurisprudência relevante citada: STJ, Súmulas n. 7 e 83; STJ, REsp n. 2.181.514/PA, relator Ministro Raul Araújo, Quarta Turma, julgado em 16/12/2025; STJ, AREsp n. 2.920.054/PA, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/11/2025; STJ, AREsp n. 2.662.553/CE, relatora Ministra Daniela Teixeira, Terceira Turma, julgados em 16/6/2025; STJ, AREsp n. 2.760.737/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/5/2025.
+(REsp n. 2.181.694/PA, relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 16/3/2026, DJEN de 19/3/2026.)
+Com efeito, descabe cogitar de arbitramento de lucros cessantes sobre 0,5% (cinco décimos percentuais) dos valores pagos pelos adquirentes, pois a base de cálculo é o valor de imóvel semelhante, enquanto o percentual é aferido no caso concreto, a fim de gerar uma indenização que repare integralmente os prejuízos dos compradores, ante o atraso na entrega da obra.
+Tal entendimento foi seguido pelo Tribunal a quo, conforme se verifica no seguinte trecho (fls. 379-380):
+Cinge-se controvérsia recursal o parâmetro utilizado para a base de cálculo dos lucros cessantes (valor total do contrato atualizado) violaria o art. 402 do CC, defendendo-se o uso do valor efetivamente pago; e o
+valor de R$ 10.000,00 a título de danos morais seria excessivo, requerendo sua redução.
+Quanto a insurgência contra os parâmetros da indenização por lucros cessantes, jurisprudência do STJ tem admitido, de forma consolidada, a fixação de indenização por lucros cessantes em razão do atraso na entrega de imóvel com base em percentual sobre o valor do contrato, independentemente da finalidade do bem, conforme se extrai do julgamento do EREsp 1.341.138/SP (Rel. Min. Maria Isabel Gallotti, 2a Seção, j. 09/05/2018), e do Aglnt no AREsp 978237/MG (Rei. Min. Luis Felipe Salomão, 4a Turma, DJe 16/03/2017). O percentual de 0,5% ao mês sobre o valor atualizado do contrato mostra-se razoável e usual, não se tratando de fixação excessiva.
+ ..
+Ademais, a própria documentação constante dos autos (ID 6601078 - Termo de Quitação) demonstra que os autores quitaram integralmente o imóvel antes mesmo do início da mora contratual (janeiro de 2015), o que afasta a tese de que o valor do contrato não seria apropriado como base de cálculo. Não havendo que se falar em reforma neste ponto.
+Estando o acórdão impugnado conforme a jurisprudência assente neste Tribunal Superior, incide no caso a Súmula n. 83/STJ, que se aplica tanto aos recursos interpostos com base na alínea "c", quanto àqueles fundamentados pela alínea "a", do permissivo constitucional.
+O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+Sem incorrer nos óbices mencionados, não há como rever o entendimento da Corte de origem de que seria proporcional às peculiaridades do caso concreto, o valor de 0,5% (cinco décimos percentuais) do valor atualizado do contrato, a título de lucros cessantes, a ser apurado mensalmente.
+A esse respeito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DO IMÓVEL. FORÇA MAIOR. NÃO OCORRÊNCIA. SÚMULA 7 DO STJ. LUCROS CESSANTES. DANO MATERIAL PRESUMIDO. TERMO FINAL. PRECEDENTES. VALOR. SÚMULA 7 DO STJ. JUROS DE OBRA. COBRANÇA NO PERÍODO DA MORA. IMPOSSIBILIDADE. JURISPRUDÊNCIA REPETITIVA DO STJ. DANO MORAL. OCORRÊNCIA. VALOR. SÚMULA 7 DO STJ. ÔNUS DA SUCUMBÊNCIA. REDISTRIBUIÇÃO. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. A jurisprudência da Segunda Seção do STJ, firmada na sistemática dos recursos repetitivos, é no sentido de que, "no caso de descumprimento do prazo para a entrega do imóvel, incluído o período de tolerância, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento de indenização, na forma de aluguel mensal, com base no valor locatício de imóvel assemelhado, com termo final na data da disponibilização da posse direta ao adquirente da unidade autônoma" (REsp n. 1.729.593/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 25/9/2019, DJe 27/9/2019).
+3. Alterar o decidido no acórdão impugnado, no que se refere à razoabilidade do valor da indenização por lucros cessantes, exige o reexame de fatos e provas, o que é vedado em recurso especial, ante o teor da Súmula 7/STJ. (grifo nosso)
+ ..
+8. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.936.821/SP, relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMa, julgado em 9/8/2022, DJe de 19/8/2022.)
+Direito civil. Recurso especial. Indenização por atraso na entrega de imóvel. Lucros cessantes. Base de cálculo.
+ ..
+III. Razões de decidir
+5. O reexame da base de cálculo dos lucros cessantes fixada pelo Tribunal de origem demandaria análise de matéria fático-probatória e interpretação de cláusulas contratuais, procedimentos vedados em recurso especial, conforme as Súmulas n. 5 e 7 do STJ. 6. A jurisprudência do STJ estabelece que os lucros cessantes, em casos de atraso na entrega de imóvel, podem ser calculados com base no valor locatício de imóvel assemelhado ou no valor dos alugueres que o comprador deixaria de pagar, sendo irrelevante o percentual fixado pelo Tribunal de origem, desde que razoável.
+7. A incidência das Súmulas nº 5 e 7 do STJ também prejudica o conhecimento do recurso quanto à alegada divergência jurisprudencial, por ausência de similitude fática entre os julgados recorrido e paradigma. IV.
+Dispositivo
+8. Resultado do Julgamento: Recurso especial não conhecido.
+(REsp n. 2.187.428/PA, relator Ministro HUMBERTO MARTINS, TERCEIRA TURMA, julgado em 13/10/2025, DJEN de 16/10/2025.)
+Nas razões do especial, a parte recorrente não rechaçou especificamente o fundamento de que a utilização do valor do contrato como base de cálculo dos lucros cessantes advindos do atraso na entrega das chaves seria medida adequada ao caso concreto, considerando a existência de provas sobre o pagamento integral do preço do imóvel (fl. 380).
+Incide, portanto, a Súmula n. 283/STF, pois não foi impugnado fundamento suficiente para sustentar o acórdão recorrido no ponto.
+O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015), ônus dos quais as recorrentes não se desincumbiram.
+Ademais:
+(i) "é impossível conhecer da alegada divergência interpretativa, pois a incidência da Súmula 7 do STJ na questão controversa apresentada é, por consequência, óbice também para a análise do apontado dissídio, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional" (AREsp n. 3.043.381/MS, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16/12/2025, DJEN de 19/12/2025),
+(ii) "a incidência da Súmula nº 283 do STF, também obsta o conhecimento do recurso especial quanto ao dissídio" (REsp n. 2.170.633/AL, relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 15/12/2025, DJEN de 18/12/2025), e
+(iii) "a aplicação da Súmula 83 do STJ impede o conhecimento do recurso especial, pois o entendimento do tribunal de origem está em consonância com a jurisprudência consolidada do STJ" (AREsp n. 2.706.106/SE, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 27/10/2025, DJEN de 3/11/2025).
+Desprovido o recurso, descabe cogitar de efeito suspensivo.
+Rejeito o pedido de condenação da agravante à multa por litigância de má-fé, visto que não ficou demonstrada conduta maliciosa ou temerária a justificar tal sanção, pois a parte tão somente intentava a reforma da decisão que lhe foi desfavorável.
+Conforme a jurisprudência da Corte Especial do STJ, "é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso. 10. é dispensada a configuração do trabalho adicional do advogado para a majoração dos honorários na instância recursal, que será considerado, no entanto, para quantificação de tal verba" (AgInt nos EAREsp n. 762.075/MT, Relator p/ acórdão Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 19/12/2018, DJe 7/3/2019).
+No caso concreto, não se justifica a fixação de honorários recursais no julgado, pois apenas a parte recorrida foi condenada em honorários advocatícios sucumbenciais, considerando o entendimento da Justiça local sobre o decaimento mínimo da parte recorrente (cf. fls. 316 e 322-323).
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+É como voto.
