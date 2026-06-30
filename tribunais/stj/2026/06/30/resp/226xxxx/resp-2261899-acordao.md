@@ -1,0 +1,83 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/06/2026 a 30/06/2026, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro João Otávio de Noronha.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Luís Carlos Gambogi (Desembargador Convocado do TJMG) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PENHORA DE VERBAS REMUNERATÓRIAS E IMPENHORABILIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA N. 7 DO STJ. RECURSO ESPECIAL CONHECIDO EM PARTE E DESPROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão proferido em agravo de instrumento que manteve decisão do cumprimento de sentença determinando o desbloqueio parcial de valores e a penhora de percentuais dos vencimentos dos executados.
+2. A controvérsia versa sobre cumprimento de sentença fundado em honorários advocatícios, com bloqueio de ativos financeiros, discussão sobre a natureza salarial ou alimentar dos valores constritos e a relativização da impenhorabilidade para assegurar subsistência.
+3. A Corte de origem manteve a decisão agravada, aderindo aos fundamentos de que a documentação (carteira de trabalho, recibos de pagamento, comprovantes de pró-labore e extratos bancários) justificou a impenhorabilidade parcial e assegurou a subsistência com manutenção de percentuais da penhora.
+II. QUESTÃO EM DISCUSSÃO
+4. Há três questões em discussão: (i) saber se houve negativa de prestação jurisdicional por violação ao art. 489, § 1º, IV, do CPC; (ii) saber se houve violação aos arts. 833, IV e § 2º, do CPC pela liberação parcial dos valores e relativização da impenhorabilidade frente à natureza alimentar dos honorários; e (iii) saber se foi demonstrada divergência jurisprudencial adequada acerca da penhora de verbas remuneratórias.
+III. RAZÕES DE DECIDIR
+5. Não ocorreu a ofensa ao art. 489, § 1º, IV, do CPC, pois o Tribunal de origem enfrentou a controvérsia com fundamentação suficiente, aderindo aos motivos da decisão de primeiro grau e explicitando a relativização da impenhorabilidade para preservar a subsistência.
+6. Aplica-se a Súmula n. 7 do STJ para obstar o reexame de fatos e provas quanto à natureza dos valores constritos e à idoneidade da documentação apresentada, inviabilizando o conhecimento da alegada violação aos arts. 833, IV e § 2º, do CPC.
+7. Não se conhece do recurso pela alínea c do art. 105, III, da CF, por ausência de indicação de paradigmas e de cotejo analítico .
+IV. DISPOSITIVO E TESE
+8. Recurso especial conhecido em parte e desprovido.
+Tese de julgamento: "1. Aplica-se a Súmula n. 7 do STJ para obstar o reexame de fatos e provas quanto à natureza dos valores constritos e à idoneidade da documentação apresentada. 2. Não ocorreu a ofensa ao art. 489, § 1º, IV, do CPC, quando o acórdão recorrido enfrenta a controvérsia com fundamentação suficiente. 3. Não se conhece pela alínea c do art. 105, III, da CF, ante a ausência de paradigmas e de cotejo analítico.".
+Dispositivos relevantes citados: CPC, arts. 85, § 11, 489, § 1º, IV, e 833, IV e § 2º; CF, art. 105, III, c.
+Jurisprudência relevante citada: STJ, Súmula n. 7.
+RELATÓRIO
+Trata-se de recurso especial interposto por BELOTTO & BELOTTO SOCIEDADE DE ADVOGADOS, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em agravo de instrumento nos autos de cumprimento de sentença.
+O julgado foi assim ementado (fl. 32):
+AGRAVO DE INSTRUMENTO. SERVIÇOS PROFISSIONAIS. CUMPRIMENTO DE SENTENÇA. BLOQUEIO JUDICIAL. ACOLHIMENTO PARCIAL DAS IMPUGNAÇÕES DOS DEVEDORES, COM MANUTENÇÃO DO BLOQUEIO DOS PERCENTUAIS FIXADOS PELA R. JUÍZA "A QUO" E ORDEM DE DESBLOQUEIO DO RESTANTE. PENHORABILIDADE ABSOLUTA. FLEXIBILIZAÇÃO OBSERVADA. INCIDÊNCIA DO ENTENDIMENTO DO C. STJ. MANUTENÇÃO DA CONSTRIÇÃO JUDICIAL REALIZADA E PENHORA DOS PERCENTUAIS FIXADOS PARA NÃO PREJUDICAR A SUBSISTÊNCIA DOS AGRAVADOS. DECISÃO AGRAVADA MANTIDA.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 489, § 1º, IV, do Código de Processo Civil, porque o acórdão recorrido não enfrentou argumentos e documentos que teriam infirmado a conclusão adotada, caracterizando omissão e cerceamento de defesa; e
+b) 833, IV e § 2º, do Código de Processo Civil, já que a decisão permitiu desbloqueio substancial e manteve penhora em percentuais que não teriam considerado a natureza alimentar do crédito de honorários advocatícios e os vícios dos documentos dos executados.
+Sustenta que o Tribunal de origem, ao decidir pela flexibilização da impenhorabilidade com desbloqueio da maior parte dos valores e manutenção de penhora em percentuais reduzidos, divergiu do entendimento sobre a equiparação de honorários advocatícios a créditos de natureza alimentar e da possibilidade de penhora para satisfação de crédito alimentar.
+Requer o provimento do recurso para que se seja reconhecida a omissão e anulado o acórdão com determinação de retorno dos autos ao Tribunal de origem para que aprecie os documentos e argumentos apresentados. Requer ainda que seja reformada a decisão recorrida, mantido o bloqueio dos valores e autorizada a liberação ou, subsidiariamente, seja ampliado o percentual retido e concedido efeito suspensivo e ativo ao recurso.
+Contrarrazões às fls. 93-103, em que a parte recorrida pede a aplicação de multa por litigância de má-fé (arts. 79, 80, I, V e VII, e 81 do Código de Processo Civil) e condenação do recorrente a honorários.
+O recurso especial foi admitido.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PENHORA DE VERBAS REMUNERATÓRIAS E IMPENHORABILIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA N. 7 DO STJ. RECURSO ESPECIAL CONHECIDO EM PARTE E DESPROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão proferido em agravo de instrumento que manteve decisão do cumprimento de sentença determinando o desbloqueio parcial de valores e a penhora de percentuais dos vencimentos dos executados.
+2. A controvérsia versa sobre cumprimento de sentença fundado em honorários advocatícios, com bloqueio de ativos financeiros, discussão sobre a natureza salarial ou alimentar dos valores constritos e a relativização da impenhorabilidade para assegurar subsistência.
+3. A Corte de origem manteve a decisão agravada, aderindo aos fundamentos de que a documentação (carteira de trabalho, recibos de pagamento, comprovantes de pró-labore e extratos bancários) justificou a impenhorabilidade parcial e assegurou a subsistência com manutenção de percentuais da penhora.
+II. QUESTÃO EM DISCUSSÃO
+4. Há três questões em discussão: (i) saber se houve negativa de prestação jurisdicional por violação ao art. 489, § 1º, IV, do CPC; (ii) saber se houve violação aos arts. 833, IV e § 2º, do CPC pela liberação parcial dos valores e relativização da impenhorabilidade frente à natureza alimentar dos honorários; e (iii) saber se foi demonstrada divergência jurisprudencial adequada acerca da penhora de verbas remuneratórias.
+III. RAZÕES DE DECIDIR
+5. Não ocorreu a ofensa ao art. 489, § 1º, IV, do CPC, pois o Tribunal de origem enfrentou a controvérsia com fundamentação suficiente, aderindo aos motivos da decisão de primeiro grau e explicitando a relativização da impenhorabilidade para preservar a subsistência.
+6. Aplica-se a Súmula n. 7 do STJ para obstar o reexame de fatos e provas quanto à natureza dos valores constritos e à idoneidade da documentação apresentada, inviabilizando o conhecimento da alegada violação aos arts. 833, IV e § 2º, do CPC.
+7. Não se conhece do recurso pela alínea c do art. 105, III, da CF, por ausência de indicação de paradigmas e de cotejo analítico .
+IV. DISPOSITIVO E TESE
+8. Recurso especial conhecido em parte e desprovido.
+Tese de julgamento: "1. Aplica-se a Súmula n. 7 do STJ para obstar o reexame de fatos e provas quanto à natureza dos valores constritos e à idoneidade da documentação apresentada. 2. Não ocorreu a ofensa ao art. 489, § 1º, IV, do CPC, quando o acórdão recorrido enfrenta a controvérsia com fundamentação suficiente. 3. Não se conhece pela alínea c do art. 105, III, da CF, ante a ausência de paradigmas e de cotejo analítico.".
+Dispositivos relevantes citados: CPC, arts. 85, § 11, 489, § 1º, IV, e 833, IV e § 2º; CF, art. 105, III, c.
+Jurisprudência relevante citada: STJ, Súmula n. 7.
+VOTO
+A controvérsia diz respeito a agravo de instrumento interposto contra decisão proferida no cumprimento de sentença que determinou o desbloqueio de parte dos valores constritos em contas dos executados e a manutenção de penhora sobre percentuais dos vencimentos, com vistas a não prejudicar a subsistência dos devedores.
+I - Art. 489, § 1º, IV, do CPC
+Sustenta a parte recorrente que o acórdão recorrido teria deixado de enfrentar argumentos relevantes deduzidos no agravo de instrumento, especialmente aqueles voltados a demonstrar supostas inconsistências e irregularidades nos documentos apresentados pelos executados para comprovar a natureza salarial ou alimentar dos valores constritos.
+Afirma que apontou divergências entre extratos bancários, comprovantes de rendimentos, declarações fiscais e documentos empresariais, circunstâncias que, em sua ótica, infirmariam a conclusão adotada pelo Tribunal de origem quanto à legitimidade da liberação parcial dos valores bloqueados. Defende, assim, a configuração de omissão apta a caracterizar negativa de prestação jurisdicional.
+A insurgência, contudo, não procede.
+Nos termos da jurisprudência consolidada desta Corte, a violação do art. 489, § 1º, IV, do CPC somente se configura quando o órgão julgador deixa de examinar argumento efetivamente capaz, em tese, de infirmar a conclusão adotada, não se exigindo, porém, o enfrentamento individualizado e exaustivo de todas as alegações deduzidas pela parte, desde que a fundamentação adotada seja suficiente para solucionar a controvérsia.
+Não se verifica a alegada omissão. O acórdão recorrido examinou a controvérsia devolvida, consignando expressamente tratar-se de cumprimento de sentença fundado em honorários advocatícios, no qual houve bloqueio judicial de ativos financeiros, tendo os executados apresentado documentação destinada a comprovar a natureza salarial ou de pró-labore dos valores constritos.
+A Corte de origem, ao manter a decisão de primeiro grau, aderiu expressamente aos fundamentos nela lançados, reproduzindo a motivação segundo a qual os executados apresentaram carteira de trabalho, recibos de pagamento, comprovantes de pró-labore e extratos bancários aptos, naquele contexto processual, a embasar o reconhecimento parcial da impenhorabilidade, com manutenção de percentuais da constrição compatíveis com a preservação da subsistência dos devedores.
+Além disso, o Tribunal explicitou que a solução adotada observava a orientação jurisprudencial acerca da relativização da impenhorabilidade das verbas remuneratórias, preservando, simultaneamente, a efetividade da execução e a dignidade dos executados, concluindo, de forma motivada, pela manutenção da constrição apenas nos percentuais fixados.
+Percebe-se, portanto, que o inconformismo da recorrente não decorre da ausência de prestação jurisdicional, mas da discordância quanto à valoração conferida pelo Tribunal de origem ao conjunto probatório e às conclusões jurídicas extraídas a partir dele. Tal circunstância, contudo, não se confunde com omissão ou ausência de fundamentação.
+Afasta-se, assim, a alegada violação do art. 489, § 1º, IV, do Código de Processo Civil.
+II - Art. 833, IV e § 2º, do CPC
+Aponta o recorrente violação dos arts. 833, IV e § 2º, do Código de Processo Civil ao argumento de que os valores bloqueados não deveriam ter sido parcialmente liberados aos executados, seja porque não teria havido comprovação idônea da alegada natureza salarial ou alimentar das quantias constritas, seja porque o crédito exequendo, decorrente de honorários advocatícios contratuais e sucumbenciais, também ostentaria natureza alimentar, circunstância que, em sua ótica, autorizaria a manutenção integral da constrição judicial. Destaca ainda que os documentos apresentados pelos executados conteriam inconsistências e contradições aptas a afastar a incidência da regra de impenhorabilidade.
+A alegada violação, contudo, não comporta conhecimento.
+O acórdão recorrido, ao manter a decisão agravada, consignou expressamente que os executados apresentaram documentação comprobatória da origem remuneratória dos valores constritos, fazendo referência específica à carteira de trabalho, recibos de pagamento, comprovantes de pró-labore e extratos bancários apresentados nos autos. A partir desse contexto, a Corte de origem reputou cabível a relativização da constrição, preservando parte dos valores para assegurar a subsistência digna dos executados, ao mesmo tempo em que manteve percentuais da penhora para resguardar a efetividade da execução.
+A parte recorrente, contudo, pretende infirmar justamente essa premissa fática adotada pelo Tribunal de origem. Defende que os documentos apresentados seriam inidôneos, inconsistentes ou mesmo forjados e que, por isso, os valores bloqueados não poderiam ser reconhecidos como verbas protegidas pela regra do art. 833, IV, do CPC.
+Ocorre que o acolhimento dessa tese demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, com nova incursão sobre a autenticidade, coerência e suficiência dos elementos documentais produzidos pelas partes, providência inviável na estreita via do recurso especial, nos termos da Súmula n. 7 do STJ.
+De igual modo, a aferição acerca da possibilidade de ampliação da constrição judicial sobre verbas remuneratórias, à vista das circunstâncias concretas do caso e da capacidade econômica dos executados, igualmente pressuporia nova análise das particularidades fáticas da controvérsia, especialmente quanto à extensão da renda percebida, à natureza dos valores bloqueados e ao impacto da constrição sobre a subsistência dos devedores, circunstâncias insuscetíveis de reexame nesta instância excepcional.
+Assim, inviável o conhecimento da insurgência quanto à alegada ofensa ao art. 833, IV e § 2º, do Código de Processo Civil, ante a incidência da Súmula 7 do STJ.
+III - Divergência jurisprudencial
+No tocante à divergência jurisprudencial, a insurgência igualmente não comporta conhecimento.
+Embora o recorrente tenha mencionado, de forma genérica, a existência de dissídio interpretativo logo na parte inicial do recurso especial, a controvérsia não foi adequadamente desenvolvida.
+Com efeito, a demonstração da divergência jurisprudencial exige o cumprimento dos requisitos legais e regimentais próprios, com a indicação precisa dos paradigmas invocados, a transcrição ou reprodução dos trechos que evidenciem a similitude fática entre os casos confrontados e a realização do indispensável cotejo analítico entre o acórdão recorrido e os julgados apontados como paradigmas, de modo a demonstrar a adoção de soluções jurídicas distintas diante de contextos fáticos substancialmente semelhantes.
+No caso, contudo, a parte limitou-se a afirmar, de maneira meramente retórica, a existência de dissídio jurisprudencial acerca da possibilidade de penhora de valores para satisfação de crédito de natureza alimentar, sem desenvolver argumentação específica sobre o tema, sem promover o necessário confronto analítico entre julgados e, ademais, sem instruir adequadamente o apelo com os acórdãos paradigma aptos a demonstrar a divergência suscitada.
+Tal deficiência inviabiliza o conhecimento do recurso pela alínea c do permissivo constitucional.
+De toda sorte, ainda que superado esse óbice formal, subsistiria a inviabilidade de conhecimento ante a incidência da Súmula n. 7 do STJ, pois a pretensão recursal pressupõe a revisão da moldura fática delineada pelo Tribunal de origem, especialmente quanto à natureza dos valores constritos, à suficiência da documentação apresentada pelos executados e à adequação dos percentuais de constrição fixados no caso concreto.
+Assim, não se conhece da insurgência também quanto ao alegado dissídio jurisprudencial.
+I V - Conclusão
+Ante o exposto, conheço em parte do recurso especial e nego-lhe provimento.
+Deixo de fixar honorários recursais, nos termos do § 11 do art. 85 do Código de Processo Civil, em razão da inexistência de prévia fixação na origem.
+É o voto.
