@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/06/2026 a 30/06/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVOS LEGAIS VIOLADOS OU OBJETO DE DISSÍDIO. SÚMULA 284/STF (ANALOGIA). DISTINGUISHING DO TEMA 970/STJ. PREVISÃO CONTRATUAL DE CUMULAÇÃO DE CLÁUSULA PENAL MORATÓRIA COM LUCROS CESSANTES. PACTA SUNT SERVANDA. MULTA (ART. 1.021, § 4º, DO CPC). NÃO APLICAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. Agravo interno contra decisão que não conheceu de recurso especial por deficiência na indicação dos dispositivos federais e na demonstração do dissídio.
+2. A questão recursal consiste em examinar se (i) o apelo nobre supera o óbice da Súmula 284/STF; (ii) há contrariedade ao Tema 970/STJ; (iii) cabe majoração de honorários recursais do art. 85, § 11, do CPC; (iv) incide a multa do art. 1.021, § 4º, do CPC.
+3. Ausente indicação precisa dos dispositivos legais violados ou objeto de dissídio, mantém-se o não conhecimento do apelo nobre por deficiência formal, conforme a Súmula 284/STF por analogia.
+4. Ademais, no caso, o Tribunal estadual afastou a aplicação do Tema 970/STJ (distinguishing), uma vez que foi o próprio contrato, elaborado pela incorporadora, que previu a cumulação de cláusula penal moratória com lucros cessantes, devendo prevalecer o princípio pacta sunt servanda.
+5.A multa do art. 1.021, § 4º, do CPC não é automática, exigindo caráter manifestamente inadmissível, abusivo ou protelatório do agravo interno, hipótese não verificada.
+6. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por CATAGUA CONSTRUTORA E INCORPORADORA LTDA. (CATAGUA) contra decisão de relatoria do Ministro Presidente desta Corte, que não conheceu do recurso especial e m virtude da ausência de indicação dos dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo (incidência da Súmula n. 284 do STJ).
+Nas razões do presente inconformismo, CATAGUA alegou que o recurso especial encontra-se estruturado em torno de tese específica, a vedação da cumulação da cláusula penal moratória com lucros cessantes, à luz da jurisprudência consolidada nesta Corte no julgamento do REsp nº 1.635.428/SC (Tema 970/STJ), tendo havido a indicação de acórdão paradigma deste Tribunal, o que afasta a aplicação do referido óbice sumular.
+Foi apresentada contraminuta requerendo a aplicação da multa prevista no art. 1.021, § 4º, do CPC (e-STJ, fls. 426-436).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVOS LEGAIS VIOLADOS OU OBJETO DE DISSÍDIO. SÚMULA 284/STF (ANALOGIA). DISTINGUISHING DO TEMA 970/STJ. PREVISÃO CONTRATUAL DE CUMULAÇÃO DE CLÁUSULA PENAL MORATÓRIA COM LUCROS CESSANTES. PACTA SUNT SERVANDA. MULTA (ART. 1.021, § 4º, DO CPC). NÃO APLICAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. Agravo interno contra decisão que não conheceu de recurso especial por deficiência na indicação dos dispositivos federais e na demonstração do dissídio.
+2. A questão recursal consiste em examinar se (i) o apelo nobre supera o óbice da Súmula 284/STF; (ii) há contrariedade ao Tema 970/STJ; (iii) cabe majoração de honorários recursais do art. 85, § 11, do CPC; (iv) incide a multa do art. 1.021, § 4º, do CPC.
+3. Ausente indicação precisa dos dispositivos legais violados ou objeto de dissídio, mantém-se o não conhecimento do apelo nobre por deficiência formal, conforme a Súmula 284/STF por analogia.
+4. Ademais, no caso, o Tribunal estadual afastou a aplicação do Tema 970/STJ (distinguishing), uma vez que foi o próprio contrato, elaborado pela incorporadora, que previu a cumulação de cláusula penal moratória com lucros cessantes, devendo prevalecer o princípio pacta sunt servanda.
+5.A multa do art. 1.021, § 4º, do CPC não é automática, exigindo caráter manifestamente inadmissível, abusivo ou protelatório do agravo interno, hipótese não verificada.
+6. Agravo interno não provido.
+VOTO
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+Da análise do presente inconformismo se verifica que, conforme consignado na decisão atacada, a parte recorrente não indicou precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, atraindo a incidência da Súmula n. 284 do STF, por analogia.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM DEVOLUÇÃO DE QUANTIAS PAGAS E COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Ação de rescisão contratual cumulada com devolução de quantias pagas e compensação por danos morais.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente (Súmula 284/STF).
+5. A existência de fundamento do acórdão recorrido não impugnado quando suficiente para a manutenção de suas conclusões impede a apreciação do recurso especial (Súmula 283/STF).
+6. A incidência das Súmulas 283 e 284 do STF prejudicam a análise do dissídio jurisprudencial pretendido.
+7. Agravo interno não provido.
+(AgInt na PET no REsp nº 1.930.298/AM, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. em 20/9/2021, DJe de 22/9/2021 - sem destaques no original)
+Ademais, foi realizada a correta distinção (distinguishing) pelo acórdão recorrido em relação ao Tema 970/STJ. Isso porque a tese firmada por esta Corte estabelece que "A cláusula penal moratória tem a finalidade de indenizar pelo adimplemento tardio da obrigação e, em regra, estabelecida em valor equivalente ao locativo, afasta-se sua cumulação com lucros cessantes".
+Na espécie, o Tribunal estadual concluiu que foi o próprio contrato elaborado pela incorporadora, ora insurgente, que previu a possibilidade de cobrança cumulativa da cláusula penal com os lucros cessantes, não havendo que se falar, portanto, em inobservância ao referido precedente vinculante (REsp nº 1.635.428/SC), mas, em respeito ao princípio pacta sunt servanda, que garante a força obrigatória dos contratos.
+Confira-se:
+ .. , o caso dos autos, a situação se mostra peculiar. É que, embora a questão da cumulação da multa com os lucros cessantes tenha sido analisada pelo c. Superior Tribunal de Justiça que afasta a aplicação das duas penalidades em conjunto , nota-se que o próprio contrato estabeleceu o pagamento de "uma multa compensatória no valor correspondente a 2% (dois por cento) do valor principal até então pago pelo COMPRADOR a título de preço (excluídos os juros e multas pagos pelo menos em razão de mora), corrigido pelo mesmo índice ajustado neste Contrato, aplicável uma única vez, a partir do final do Prazo de Tolerância" (cláusula 8.8 fls. 52/53), além de "multa moratória no valor correspondente a 0,5% (meio por cento) ao mês (ou fração, pro rata dies), do valor do valor principal até então pago pelo COMPRADOR a título de preço (excluídos os juros e multas pagos pelo menos em razão de mora), corrigido pelo mesmo índice ajustado neste Contrato, aplicável uma única vez, a partir do final do Prazo de Tolerância até a efetiva conclusão do Empreendimento (..)" (cláusula 8.8.1 fls. 52).
+E, não há qualquer razão para o reconhecimento da abusividade contratual, observando-se que a incorporadora não é a parte vulnerável da relação e o contrato firmado de adesão foi estabelecido de acordo com sua própria manifestação de vontade.
+Destaca-se, aliás, que a assinatura do pacto se deu em 24 de fevereiro de 2021, quando já vigorava o entendimento firmado quando do julgamento do Tema 970, do STJ, cujo trânsito em julgado se deu em novembro de 2019.
+O princípio pacta sunt servanda garante a força obrigatória dos contratos, conforme previsto nos arts. 421 e 422, ambos do Código Civil, inexistindo violação aos princípios da probidade e boa-fé.
+Não se descura da possibilidade de relativização do princípio mencionado, quando demonstrada a existência de abusividade contratual, mas sempre com o intuito de restabelecer o equilíbrio entre as partes. Contudo, não se pode falar em desequilíbrio em desfavor da requerida, a qual figura como fornecedora.
+Nesse contexto, observando-se que a própria ré estipulou a fixação de multas diversas no contrato entabulado com os autores, de rigor que seja mantida a aplicação, ainda que cumulada, das penalidades estabelecidas (e-STJ, fls. 359/360).
+Assim, não há que se falar em dissídio jurisprudencial, tampouco em inobservância ao Tema 970/STJ, por se tratar de situações distintas.
+Da multa prevista no art. 1.021, § 4º, do CPC
+Por derradeiro, conforme orienta a jurisprudência das Turmas que compõem a Segunda Seção do STJ, a aplicação da multa prevista no art. 1.021, § 4º, do CPC não é automática, pois não se trata de mera decorrência lógica do não provimento do agravo interno em votação unânime.
+A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória (AgInt nos EREsp nº 1.120.356/RS, Rel. Ministro Marco Aurélio Bellizze, Segunda Seção, j. em 24/8/2016, DJe de 29/8/2016).
+Nessa toada, confiram-se os seguintes julgados: AgInt no AREsp nº 605.532/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, j. em 31/8/2020, DJe de 9/9/2020; e AgInt no AREsp nº 1.590.140/PR, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, j. em 31/8/2020, DJe de 3/9/2020.
+Assim, não há que se falar na aplicação da aludida multa, uma vez que, no caso, o manejo do agravo interno por parte de CATAGUA, por si só, não deve ser tido como abusivo ou protelatório.
+Desse modo, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
+Por oportuno, previno as partes de que a interposição de recurso contra este acórdão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação à penalidade fixada no art. 1.026, § 2º, do CPC.
