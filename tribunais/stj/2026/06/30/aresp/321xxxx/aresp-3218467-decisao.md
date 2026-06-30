@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO RURAL S.A - EM LIQUIDAÇÃO EXTRAJUDICIAL contra decisão que inadmitiu seu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado:
+"PROCESSUAL CIVIL. AGRAVO INTERNO EM APELAÇÃO CÍVEL. DECISÃO QUE NÃO CONHECEU DO RECURSO. DESERÇÃO. GRATUIDADE DE JUSTIÇA INDEFERIDA. NÃO RECOLHIMENTO DO PREPARO RECURSAL. PARTE DEVIDAMENTE INTIMADA PARA TAL FINALIDADE. INOCORRÊNCIA DE CERCEAMENTO DE DEFESA. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO CABÍVEL DENTRO DO PRAZO LEGAL. MANUTENÇÃO DA DECISÃO. RECURSO CONHECIDO E DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática que não conheceu da apelação cível por deserção, em razão do indeferimento do pedido de gratuidade judiciária e da ausência de recolhimento do preparo recursal.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verifica se houve cerceamento de defesa em decorrência da decisão que não conheceu da apelação por deserção, tendo em vista o indeferimento da gratuidade judiciária e do não recolhimento do preparo recursal.
+III. RAZÕES DE DECIDIR
+3. Indeferido o pedido de gratuidade judiciária e intimada para preparar o recurso, sob pena de deserção, a parte recorrente deixou de cumprir a determinação e não interpôs recurso cabível, apenas peticionando nos autos reiterando o pedido de gratuidade judiciária 4. A inércia da parte apelante em atender a determinação de recolhimento do preparo recursal (pressuposto recursal objetivo ou requisito extrínseco de admissibilidade recursal) enseja o não conhecimento do recurso, em razão da caracterização da deserção, nos termos da norma contida no art. 1.007 do novo Código de Processo Civil. 5. A preclusão temporal impede a rediscussão do indeferimento do pedido de gratuidade judiciária e afasta a alegação de cerceamento de defesa, uma vez que o prazo para interposição do recurso findou-se sem manifestação do agravante.
+IV. DISPOSITIVO E TESE
+6. Agravo interno conhecido e desprovido. Tese de julgamento: "1. O não recolhimento do preparo recursal, após intimação específica para tanto, caracteriza deserção e impede o conhecimento da apelação, nos termos do art. 1.007 do CPC, sendo inaplicável o benefício da justiça gratuita quando a parte não comprova os requisitos legais, conforme disciplinado no art. 99, § 2º, do CPC. 2. A inércia do agravante em interpor o recurso cabível dentro do prazo legal contra o indeferimento de justiça gratuita resulta em preclusão temporal, impossibilitando a rediscussão da decisão."
+Dispositivos relevantes citados: CPC, arts. 99, § 5º; 1.007; 1.021, § 2º. Jurisprudência relevante citada: TJMG, Agravo Interno Cv 1.0000.24.243003-1/002, Rel. Des. Marcelo de Oliveira Milagres, 18ª Câmara Cível, j. 24.09.2024; TJRN, Apelação Cível 0841124-27.2023.8.20.5001, Rel. Des. Berenice Capuxu de Araújo Roque, 2ª Câmara Cível, j. 21.03.2025." (e-STJ, fls. 380-381)
+Não foram opostos embargos de declaração.
+Em seu recurso especial, o recorrente alega dissídio jurisprudencial em relação à aplicação da Súmula 481 do STJ e violação dos arts. 4º, 6º, 10 e 99 do Código de Processo Civil, art. 18 da Lei 6.024/1974 e art. 5º, XXXV, da Constituição Federal.
+Sustenta que houve decisão surpresa e inobservância dos princípios da cooperação e primazia do julgamento de mérito ao se o se declarar a deserção sem oportunizar prazo adequado para complementação da prova da hipossuficiência e sem prévia intimação específica para manifestação sobre fundamento capaz de influenciar o resultado do julgamento.
+Aduz que foi desconsiderado os efeitos e finalidade do regime de liquidação extrajudicial, prejudicando a proteção da massa liquidanda e seu acesso à justiça.
+Não foram ofertadas contrarrazões.
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+É o Relatório. Passo a decidir.
+A irresignação não prospera.
+Extrai-se dos autos que, na origem, cuida-se de execução de título extrajudicial extinta, com fundamento nos arts. 487, II, e 921, § 5º, do CPC, em razão do reconhecimento da prescrição intercorrente.
+O recurso de apelação não foi conhecido por ausência de recolhimento do preparo (fls. 363-364).
+No julgamento do agravo interno, o Tribunal de origem negou provimento ao recurso, nos seguintes termos:
+"O mérito do recurso limita-se à análise da decisão que, com arrimo nos arts. 932, III, e 1.009, ambos do Código de Processo Civil, não conheceu do agravo de instrumento anteriormente interposto, por deserção (id 30096008).
+Ocorre que, ao analisar as razões apresentadas em conjunto com a fundamentação apresentada na decisão agravada, constato que as teses ora reiteradas não se mostram suficientes para refutar os fundamentos que ensejaram não conhecimento do agravo de instrumento. Assim sendo, transcrevo as razões da decisão agravada, verbis:
+ ..  Nas razões recursais (Id 30171341), a parte apelante pede a concessão da gratuidade judiciária.
+O pedido foi indeferido (decisão de Id 30748741). Intimada para preparar o recurso, sob pena de deserção, a parte recorrente deixou de cumprir a determinação e não interpôs recurso que cabível, apenas peticionou nos autos reiterando o pedido de gratuidade judiciária (Id 31326276 e 31326278).
+É o que importa relatar no momento.
+A inércia da parte apelante em atender a determinação de recolhimento do preparo recursal (pressuposto recursal objetivo ou requisito extrínseco de admissibilidade recursal) enseja o não conhecimento do recurso, em razão da caracterização da deserção, nos termos da norma contida no art. 1.007 do novo Código de Processo Civil.
+Ressalto, ademais, que a petição juntada aos autos pela parte recorrente não tem o condão de reformar a decisão que indeferiu a justiça gratuita, pois não se trata de recurso.  ..
+É importante ressaltar que não há que se falar em cerceamento de defesa, posto que, indeferida justiça gratuita (decisão de Id 30748741) e, intimada parte requerente para o pagamento das custas processuais, deve cumpri-lo no prazo legal, sob pena de deserção.
+Ressalto que, na própria decisão o recorrente foi expressamente advertido acerca da possibilidade de não conhecimento do recurso em caso de não comprovação do pagamento do preparo recursal.
+Por tais premissas, deve ser mantida a decisão agravada, em virtude da ausência de regularidade formal apontada, fato que, conforme o art. 932, III c/c art. 1.007, ambos do Código de Processo Civil, torna a Apelação Cível inadmissível.
+ ..
+Outrossim, a falta de interposição do recurso cabível contra a decisão de indeferimento da gratuidade de justiça, dentro do prazo estabelecido, resultou na preclusão do direito de discutir a matéria, não havendo como reconhecer eventual cerceamento de defesa neste momento." (Fls. 383-385)
+No tocante à violação dos arts. 4º, 6º, 10 e 99 do Código de Processo Civil e art. 18 da Lei 6.024/1974, verifica-se, todavia, que o conteúdo normativo do dispositivo invocado no apelo nobre não foi apreciado pelo Tribunal a quo. Esse pressuposto específico do recurso especial é exigido inclusive para matérias de ordem pública. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. SÚMULA 182/STJ. INAPLICABILIDADE. RECONSIDERAÇÃO. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. PRECLUSÃO CONSUMATIVA. NÃO CONFIGURAÇÃO. REDISCUSSÃO DA MATÉRIA. INVIABILIDADE. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO. ( )
+4. A Corte local não se pronunciou sobre a tese de julgamento citra petita, não se configurando o prequestionamento da matéria, a qual nem sequer foi suscitada nos embargos de declaração opostos na origem. Incidência, por analogia, das Súmulas 282 e 356/STF.
+5. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial."
+(AgInt no AREsp n. 2.652.215/DF, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/2/2025, DJEN de 28/2/2025).
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. COMPROMISSO DE COMPRA E VENDA IMOBILIÁRIO. CHAVES. ATRASO NA ENTREGA. ASTREINTES. REVISÃO. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. MULTA COMINATÓRIA. PROPORCIONALIDADE E RAZOABILIDADE. VERIFICAÇÃO. SÚMULA N. 7/STJ. DANOS MORAIS. EXCLUSÃO. INEXISTÊNCIA DE ALCANCE NORMATIVO DO ARTIGO INDICADO. SÚMULA N. 284/STF. DECISÃO MANTIDA. ( )
+2. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF. ( )
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.621.589/AM, Relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, j. 24/2/2025, DJEN de 28/2/2025)
+Outrossim, quanto ao dissídio jurisprudencial, é sabido que os óbices impostos ao recurso especial interposto com base na alínea "a" do permissivo constitucional prejudicam a análise do recurso especial interposto com base na alínea "c". Além disso, o conhecimento do recurso especial fundado na alínea "c" do permissivo constitucional exige a indicação precisa do dispositivo legal tido por objeto de interpretação divergente.
+Por fim, no tocante ao art. 5º, XXXV, da Constituição Federal, não se conhece da alegada violação, pois o recurso especial não constitui via adequada para o exame de temas constitucionais, sob pena de usurpação da competência do STF.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+E, quanto ao ônus da sucumbência recursal, deixo de majorar os honorários advocatícios na forma do art. 85, §11, do CPC/2015, por ausência de condenação na origem.
+Publique-se.
+EMENTA
