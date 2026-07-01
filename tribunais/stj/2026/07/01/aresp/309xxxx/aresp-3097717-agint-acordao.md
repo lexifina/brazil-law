@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/06/2026 a 01/07/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Teodoro Silva Santos.
+EMENTA
+DIREITO PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CRÉDITOS DE PIS/COFINS. CONTROVÉRSIA SOBRE A ESSENCIALIDADE DAS DESPESAS COM PUBLICIDADE. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA N. 182 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A parte agravante, no agravo em recurso especial, deixou de impugnar, de forma específica e concreta, um dos fundamentos da decisão que não admitiu o recurso especial na origem (Súmula n. 7/STJ). Incidência da Súmula n. 182 do STJ.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por JRCA VEICULOS S.A. contra decisão da Presidência desta Casa, que não conheceu do Agravo em Recurso Especial (fls. 553-554).
+Na origem, cuida-se de mandado de segurança, impetrado por JRCA VEÍCULOS LTDA., AKANE VEÍCULOS LTDA. e NIKAI VEÍCULOS LTDA, "por meio do qual postulam o reconhecimento do direito à ampla fruição de créditos de PIS e COFINS sobre os valores das despesas relativas a publicidade, propaganda, marketing, feiras e eventos" (fl. 211).
+A segurança foi denegada em primeiro grau de jurisdição (fls. 211-219).
+As Impetrantes apelaram ao Tribunal local, que negou provimento ao recurso, em acórdão assim resumido (fls. 345-346):
+TRIBUTÁRIO. APELAÇÃO. MANDADO DE SEGURANÇA. CREDITAMENTO DE PIS/COFINS. INSUMOS. CRITÉRIO DA ESSENCIALIDADE. ROL LEGAL EXEMPLIFICATIVO. TEMA 779 E 780 DO STJ. DESPESAS GENÉRICAS NÃO ESPECÍFICAS DA ATIVIDADE FIM DA PESSOA JURÍDICA. IMPOSSIBILIDADE DO CREDITAMENTO. RECURSO IMPROVIDO.
+ ..
+5. Desta feita, as despesas com marketing e propaganda para incremento das vendas se revelam deveras genéricas, não sendo próprias das atividades finais da impetrante, o que afasta a possibilidade de creditamento do PIS/COFINS.
+6. Inexistindo viabilidade de as recorrentes se creditarem do PIS/COFINS pelas despesas mencionadas nos autos, torna-se prejudicado o pleito quanto à compensação tributária.
+7. Apelação a que se nega provimento. Sem honorários recursais em razão da natureza mandamental da demanda.
+Opostos embargos declaratórios, foram rejeitados (fls. 414-417).
+Nas razões de recurso especial, interposto com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, as Recorrente alegaram haver "afronta aos arts. 3.º das Leis n. 10.637/02 e 10.833/03 e ao conceito de insumo definido no Recurso Especial n. 1.221.170/PR" (fl. 450).
+Sustentaram, em síntese, que atuam no comércio varejista de veículos novos e usados, peças e acessórios, lubrificantes, oficina mecânica para assistência técnica e que as despesas com publicidade, propaganda, marketing, eventos e feiras são essenciais para as suas atividades, razão pela qual deveriam gerar créditos de PIS e COFINS.
+Em caráter subsidiário, apontaram afronta aos arts. 489 e 1.022, ambos do Código de Processo Civil, argumentando que, caso se entendesse pela falta de prequestionamento, o acórdão de origem teria de ser anulado, ante o não saneamento das omissões apontadas nos embargos declaratórios opostos perante a Corte regional.
+O recurso especial foi inadmitido na origem (fls. 474-476), advindo o presente Agravo nos próprios autos (fls. 498-534).
+Em decisão de fls. 553-554, a Presidência desta Casa não conheceu do recurso, com fundamento na Súmula n. 182/STJ.
+No presente agravo interno, a Agravante sustenta, em síntese, que, no Agravo de fls. 498-534, teria, sim, impugnado, concretamente, o óbice da Súmula n. 7/STJ, fazendo referência aos excertos da petição de Agravo em Recurso Especial que, supostamente, conteria a referida impugnação.
+Ao final, requer, não havendo a reconsideração da decisão recorrida, o provimento do agravo interno a fim de que seja conhecido e integralmente provido o apelo nobre.
+A Agravada não apresentou contraminuta (fl. 572) e, não tendo havido a retratação da decisão agravada (fl. 574), os autos vieram conclusos para julgamento.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CRÉDITOS DE PIS/COFINS. CONTROVÉRSIA SOBRE A ESSENCIALIDADE DAS DESPESAS COM PUBLICIDADE. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA N. 182 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A parte agravante, no agravo em recurso especial, deixou de impugnar, de forma específica e concreta, um dos fundamentos da decisão que não admitiu o recurso especial na origem (Súmula n. 7/STJ). Incidência da Súmula n. 182 do STJ.
+2. Agravo interno desprovido.
+VOTO
+A despeito dos argumentos declinados às fls. 558-563, o recurso não comporta acolhimento.
+Observa-se que a Corte local inadmitiu o recurso especial, pois (i) o aresto de origem não teria incorrido em nenhuma omissão. No mais, consignou que o apelo nobre encontraria óbice na (ii) Súmula n. 7/STJ, pois "a discussão reside não na revaloração de prova, mas, sim, no reexame de fato, eis que a caracterização da essencialidade e relevância da despesa discutida demandaria necessariamente a incursão no acervo fático-probatório dos autos, medida inviável em sede de recurso especial" (fl. 475).
+No entanto, a parte agravante, nas razões do agravo em recurso especial, não impugnou, concretamente, a fundamentação da decisão agravada atinente ao item ii, nos termos preconizados pelo princípio da dialeticidade. Por conseguinte, aplicam-se, à hipótese dos autos, o art. 932, inciso III, do CPC/2015 e a Súmula n. 182 do STJ, in verbis: " é  inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Ilustrativamente:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Cabe referir que, para buscar afastar a incidência da Súmula n. 7 do STJ, deve a parte cotejar a moldura fática incontroversa do acórdão recorrido com as teses por ele suscitadas, demonstrando de que forma o seu exame prescindiria da análise de elementos probantes, o que não se verifica nas razões recursais de fls. 498-534.
+Nos termos da jurisprudência desta Corte:
+A impugnação da Súmula 7 do STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica por ele conferida e a apreciação jurídica que lhes deveria ter sido efetivamente atribuída.
+ ..
+O Recurso daí proveniente deveria se esmerar não em simplesmente reiterar as razões do Recurso Especial ou os argumentos referentes ao mérito da controvérsia, mas em demonstrar efetivamente que a referida Súmula não se aplica ao caso concreto e que, portanto, seria desnecessário revolver o acervo fático-probatório dos autos para a análise da insurgência.
+(AgInt no AREsp n. 2.371.208/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; sem grifos no original.)
+Com efeito, no apelo nobre, a Recorrente sustentou que as despesas com publicidade, propaganda, marketing, eventos e feiras seriam essenciais para as suas atividades, razão pela qual deveriam gerar créditos de PIS e COFINS.
+A Corte de origem inadmitiu o apelo nobre com amparo na Súmula n. 7/STJ por entender que "a discussão reside não na revaloração de prova, mas sim no reexame de fato, eis que a caracterização da essencialidade e relevância da despesa discutida demandaria necessariamente a incursão no acervo fático-probatório dos autos, medida inviável em sede de recurso especial" (fl. 475).
+Assim, tendo sido inadmitido o recurso especial, com fundamento na Súmula n. 7/STJ, caberia à Agravante demonstrar como seria possível o acolhimento da tese recursal sem a necessidade de reexame probatório, procedendo ao devido cotejo entre trechos do acórdão de origem que retratassem a moldura fática incontroversa lá definida com os argumentos do recurso especial, providência da qual não se desincumbiu.
+Reitere-se uma vez mais: a impugnação à Súmula n. 7/STJ pressupõe o cotejo de trechos do acórdão de origem que contenham a moldura fática definida como incontroversa com as teses suscitadas no apelo nobre.
+Nesse sentido, caberia à Recorrente demonstrar que, para acolher a alegação de que as despesas com publicidade seriam essenciais para as suas atividades, esta Casa não precisaria infirmar nenhuma premissa de fato fixada pelo Tribunal de origem. No entanto, desse ônus, não se desincumbiu a Agravante.
+Ressalto ser manifestamente insuficiente a realização de digressão em tese sobre outro ramo de atividade (comércio de cervejas) que nem sequer diz respeito à atividade da Parte (venda de veículos), porque esse tipo de argumentação de nada serve para correlacionar, de forma concreta, a moldura fática definida como incontroversa nestes autos com a pretensão veiculada no apelo nobre.
+Ademais, também é insuficiente a alegação de que não se pretende reexame probatório se não demonstrado, concretamente, como o exame da controvérsia prescindiria da reanálise dos fatos e das provas. Ressalte-se, ainda, que:
+ a  mera afirmação de que o caso não demanda o reexame de fatos e provas ou então a menção às razões expostas no recurso especial não bastam para infirmar a incidência da Súmula n. 7/STJ. A jurisprudência do Superior Tribunal de Justiça (STJ) entende que, para comprovar a inaplicabilidade do enunciado sumular em questão, a parte agravante deve realizar o cotejo entre o acórdão recorrido e a tese recursal.
+(AgInt no AREsp n. 2.302.127/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 3/6/2024, DJe de 7/6/2024; sem grifos no original.)
+Inequívoco, assim, que as razões de Agravo configuram impugnação insuficiente e que não atende os ditames preconizados pelo princípio da dialeticidade, a implicar, também por esse fundamento, o não conhecimento do recurso. Nesse norte:
+Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+(AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt, Desembargador Convocado do TRF-5ª Região, Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Para afastar o óbice do Enunciado 7 da Súmula do STJ, caberia à parte agravante desenvolver argumentos que demonstrassem como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem rever o acervo fático-probatório, esclarecendo especificamente quais fatos foram devidamente consignados no acórdão proferido e como se dá a subsunção das normas que entende violadas a eles.
+(AgInt no AREsp n. 2.498.984/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/5/2024, DJe de 4/6/2024; sem grifos no original.)
+A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial. (AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021.)
+Agravo interno improvido.
+(AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+Por fim, cabe destacar que a Corte Especial deste Superior Tribunal de Justiça firmou entendimento no sentido de que o provimento judicial, que não admite o recurso especial não é constituído por capítulos autônomos, mas, sim, por dispositivo único.
+Dessa forma, nas hipóteses em que a parte Agravante não se insurge de maneira adequada contra qualquer um dos fundamentos que alicerçam a inadmissibilidade, é inviável conhecer do agravo em recurso especial na integralidade.
+A propósito, a ementa do mencionado julgado:
+ ..
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+Assim, não  havendo  fundamentos  jurídicos  que  infirmem  as  razões  declinadas  no  julgado  ora  agravado,  deve  ser  mantida  a  decisão  recorrida.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
