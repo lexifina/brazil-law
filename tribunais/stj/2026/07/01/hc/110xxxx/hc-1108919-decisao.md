@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de ARIADNE MARIA CAVALCANTE MARANHÃO DA CRUZ - condenada como incursa nos crimes de estelionato simples e sonegação de documento (Ação Penal n. 5038860-44.2022.4.02.5101/RJ) -, em que se aponta como autoridade coatora o Tribunal Regional Federal da 2ª Região, não comporta processamento.
+Com efeito, busca a impetração a revisão da dosimetria da pena imposta pelo Juízo da 7ª Vara Federal Criminal do Rio de Janeiro, ao argumento de bis in idem, por suposta duplicidade de valoração do mesmo contexto fático nos vetores circunstâncias e consequências do crime.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência de ilegal constrangimento.
+O Juízo de primeiro grau explicitou, de modo autônomo, que as consequências do crime são gravosas, na medida em que a ré, com sua conduta, prejudicou seu então cliente à época, a parte reclamante, bem como o advogado da reclamante, todos envolvidos no ardil perpetrado. As circunstâncias também justificam a exasperação da pena, uma vez que a ré utilizou documento falso perante o Poder Judiciário, cuja função é defender os direitos de cada cidadão, promovendo a justiça e resolvendo os prováveis conflitos que possam surgir. Ademais, o crime foi praticado em evidente violação de ofício e profissão, valendo-se a ré de uma relação de confiança para alcançar seu intento (fls. 32), não havendo que se falar em bis in idem.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ESTELIONATO SIMPLES E SONEGAÇÃO DE DOCUMENTO. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. DOSIMETRIA DA PENA. ALEGAÇÃO DE UTILIZAÇÃO DO MESMO FATO PARA VALORAR, SIMULTANEAMENTE, AS CIRCUNSTÂNCIAS E AS CONSEQUÊNCIAS DO CRIME. IMPROCEDÊNCIA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
