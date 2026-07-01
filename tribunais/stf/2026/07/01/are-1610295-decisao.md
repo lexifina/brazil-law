@@ -1,0 +1,38 @@
+Trata-se de agravo interposto contra decisão do Tribunal de Justiça do Estado de Minas Gerais – TJMG, que não admitiu o recurso extraordinário, com fundamento no Tema 339 da Repercussão Geral e na Súmula 283 do Supremo Tribunal Federal.
+
+O recorrente sustenta que:
+
+(...) no presente Recurso Extraordinário ultrapassa os limites  dos interesses das partes envolvidas no processo. Face a negativa da  prestação jurisdicional tem guarida o processamento do Recurso  Extraordinário diante da existência de violação ao art. 5º, LXXVIII, da  Constituição Federal: “LXXVIII - a todos, no âmbito judicial e  (e-STJ Fl.735) administrativo, são assegurados a razoável duração do processo e os meios  que garantam a celeridade de sua tramitação (doc. 144, p.3).
+
+É o relatório. Decido.
+
+Bem examinados os autos, verifico que o recurso não merece prosperar.
+
+ Isso porque o art. 1.042, caput, do Código de Processo Civil não permite a interposição de agravo contra a decisão do Tribunal de origem que aplica a sistemática da repercussão geral, conforme se observa no texto do referido dispositivo:
+
+Art. 1.042. Cabe agravo contra decisão do presidente ou do vice-presidente do tribunal recorrido que inadmitir recurso extraordinário ou recurso especial, salvo quando fundada na aplicação de entendimento firmado em regime de repercussão geral ou em julgamento de recursos repetitivos (grifei).
+
+Nesse sentido, cito precedente do Plenário do Supremo Tribunal Federal:
+
+Ementa: DIREITO DO TRABALHO. DEMISSÃO POR JUSTA CAUSA. INTERPOSIÇÃO DE AGRAVO DA DECISÃO DE ADMISSIBILIDADE DO RECURSO QUE APLICA SISTEMÁTICA DA REPERCUSSÃO GERAL. NÃO CABIMENTO. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. SÚMULA Nº 279/STF. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE TRÂNSITO. AGRAVO NÃO PROVIDO. 1. Pacífica a jurisprudência desta Suprema Corte no sentido de que incabível agravo para o Supremo Tribunal Federal contra a aplicação da sistemática da repercussão geral (arts. 1.036 a 1.040 do CPC) pelo Tribunal de origem. 2. Exaustivamente examinados os argumentos veiculados no agravo interno, ratifica-se a sistemática aplicada à espécie (arts. 1.035, § 7º, e 1.042 do CPC). 3. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula nº 279 do STF. 4. A teor do art. 85, § 11, do CPC/2015, o “tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento”. 5. Agravo interno conhecido e não provido (ARE 1.434.310 AgR/SP, Rel. Min. Rosa Weber, Presidente, DJe 4/9/2023 — grifei).
+
+Ademais, o  TJMG embasou sua decisão na aplicação do Tema 339 da Repercussão Geral,  fundamento suficiente para a manutenção da decisão recorrida. O recorrente, contudo, não impugnou esse fundamento do acórdão, o que atrai a incidência da Súmula 283/STF. Nesse sentido, destaco os seguintes julgados:
+
+Ementa: DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. MILITAR. REFORMA EM RAZÃO DA IDADE LIMITE. PRESCRIÇÃO. FUNDAMENTO SUFICIENTE À MANUTENÇÃO DO ACÓRDÃO RECORRIDO. 1. Nas razões de seu recurso extraordinário, a parte recorrente deixou de impugnar fundamento autônomo e suficiente à manutenção do acórdão recorrido. Súmula 283/STF. Precedente. 2. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 10% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015 e a eventual concessão de justiça gratuita. 3. Agravo interno a que se nega provimento, com a aplicação da multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.021, § 4°, do CPC/2015 (ARE 1.486.141 AgR/SP, Rel. Min. Luís Roberto Barroso, Tribunal Pleno, DJe 3/6/2024 — grifei).
+
+Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROIBIÇÃO DE BOMBAS DE AUTOSSERVIÇO EM POSTO DE GASOLINA. LEI N. 9.956/2000. INSUFICIÊNCIA DA PRELIMINAR DE REPERCUSSÃO GERAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTOS DO ACÓRDÃO RECORRIDO: SÚMULA N. 283 DO SUPREMO TRIBUNAL FEDERAL.AGRAVO REGIMENTAL DESPROVIDO COM APLICAÇÃO DE MULTA DE 1% SOBRE O VALOR ATUALIZADO DA CAUSA, SE UNÂNIME A VOTAÇÃO (RE 1.435.395 AgR/PR, Rel. Min.  Cármen Lúcia, Primeira Turma, DJe 3/7/2023 — grifei).
+
+Ementa: RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. AUSÊNCIA DE DEMONSTRAÇÃO FUNDAMENTADA. DEFICIÊNCIA DOS FUNDAMENTOS DO RECURSO EXTRAORDINÁRIO. ENUNCIADO N. 283 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL.1. É inadmissível o recurso extraordinário que não apresentou fundamentação apta a demonstrar a repercussão geral das questões constitucionais examinadas na espécie. Precedentes. 2. Inviável o acesso à via extraordinária quando a decisão recorrida apresenta mais de um fundamento suficiente e o recurso não abrange todos eles (enunciado n. 283 da Súmula do Supremo). Precedentes. 3. Recurso extraordinário não conhecido (RE 1.333.899/MT, Rel. Min. Nunes Marques, Segunda Turma, DJe 2/12/2021 — grifei).
+
+Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. APOSENTADORIA. INTERPOSIÇÃO DE AGRAVO INTERNO. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE. IMPOSSIBILIDADE. REPERCUSSÃO GERAL. DEMONSTRAÇÃO. DEFICIÊNCIA. DEVER DE IMPUGNAR OS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA. INCIDÊNCIA SÚMULA 287 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO SUFICIENTE DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 283/STF DO STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I - A interposição de agravo interno em face de decisão que não admite o recurso extraordinário evidencia a ocorrência de erro grosseiro, insuscetível ao princípio da fungibilidade recursal, uma vez que o recurso correto, nessa hipótese, é o agravo nos próprios autos, previsto no artigo 1.042 do Código de Processo Civil. II - A mera alegação, nas razões do recurso extraordinário, de existência de repercussão geral das questões constitucionais discutidas, desprovida de fundamentação adequada que demonstre seu efetivo preenchimento, não satisfaz a exigência prevista no art. 1.035, § 2°, do Código de Processo Civil/2015. III – É deficiente a fundamentação do agravo cujas razões não atacam especificadamente todos os fundamentos da decisão do Tribunal de origem que não admite o recurso extraordinário. Incidência da Súmula 287/STF. IV - É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. Incide o óbice da Súmula 283/STF. V - Agravo regimental a que se nega provimento, com aplicação de multa (art. 1.021, § 4°, do CPC) e majoração de honorários (ARE 1.426.411 AgR/SP, da minha relatoria, Primeira Turma, DJe 23/2/2024 — grifei).
+
+Registro, ainda, que, para divergir do acórdão impugnado, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279/STF. Também seria indispensável a análise da legislação infraconstitucional pertinente, de modo que eventual ofensa à Constituição Federal ocorreria de forma indireta, o que inviabiliza o recurso.
+
+Posto isso, nego provimento ao recurso (art. 932 do CPC).
+
+Publique-se.
+
+Brasília, 1º de julho de 2026.
+
+Ministro Cristiano Zanin
+Relator
