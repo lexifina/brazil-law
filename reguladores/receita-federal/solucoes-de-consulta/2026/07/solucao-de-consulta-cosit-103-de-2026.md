@@ -1,0 +1,14 @@
+Solução de Consulta Cosit nº 103, de 29 de junho de 2026
+Assunto: Contribuição para o PIS/Pasep
+REGIME DE APURAÇÃO NÃO CUMULATIVA. INSUMOS. IMPOSIÇÃO LEGAL OU INFRALEGAL. CREDITAMENTO. SAÚDE E SEGURANÇA DE TRABALHADORES NA FABRICAÇÃO DE CALÇADOS. NORMAS REGULAMENTADORAS DO MINISTÉRIO DO TRABALHO E EMPREGO.
+Consideram-se insumos para fins de desconto de créditos no regime de apuração não cumulativa da Contribuição para o PIS/Pasep, nos termos do art. 3º, caput, inciso II, da Lei nº 10.637, de 30 de dezembro de 2002, os dispêndios incorridos com a emissão de laudos técnicos, elaborados por profissional habilitado em medicina e segurança do trabalho, sobre as condições de trabalho dos funcionários de pessoa jurídica fabricante de calçados de couro, em atendimento às Normas Regulamentadoras nº 1, nº 7 e nº 15 do Ministério do Trabalho e Emprego.
+SOLUÇÃO DE CONSULTA PARCIALMENTE VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 309, DE 15 DE DEZEMBRO DE 2023.
+Dispositivos Legais: Lei nº 10.637, de 30 de dezembro 2002, art. 3º, caput, inciso II; Consolidação das Leis do Trabalho (Decreto-Lei nº 5.452, de 1º de maio de 1943), arts. 155 a 157 e 200; Parecer Normativo Cosit/RFB nº 5, de 17 de dezembro de 2018; Instrução Normativa RFB nº 2.121, de 15 de dezembro de 2022, arts. 175, incisos I e II, e 176, § 1º, inciso II, e 177; Normas Regulamentadoras nº 1, nº 7 e nº 15 do Ministério do Trabalho e Emprego.
+Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins
+REGIME DE APURAÇÃO NÃO CUMULATIVA. INSUMOS. IMPOSIÇÃO LEGAL OU INFRALEGAL. CREDITAMENTO. SAÚDE E SEGURANÇA DE TRABALHADORES NA FABRICAÇÃO DE CALÇADOS. NORMAS REGULAMENTADORAS DO MINISTÉRIO DO TRABALHO E EMPREGO.
+Consideram-se insumos para fins de desconto de créditos no regime de apuração não cumulativa da Cofins, nos termos do art. 3º, caput, inciso II, da Lei nº 10.833, de 29 de dezembro de 2003, os dispêndios incorridos com a emissão de laudos técnicos, elaborados por profissional habilitado em medicina e segurança do trabalho, sobre as condições de trabalho dos funcionários de pessoa jurídica fabricante de calçados de couro, em atendimento às Normas Regulamentadoras nº 1, nº 7 e nº 15 do Ministério do Trabalho e Emprego.
+SOLUÇÃO DE CONSULTA PARCIALMENTE VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 309, DE 15 DE DEZEMBRO DE 2023.
+Dispositivos Legais: Lei nº 10.833, de 29 de dezembro de 2003, art. 3º, caput, inciso II; Consolidação das Leis do Trabalho (Decreto-Lei nº 5.452, de 1º de maio de 1943), arts. 155 a 157 e 200; Parecer Normativo Cosit/RFB nº 5, de 17 de dezembro de 2018; Instrução Normativa RFB nº 2.121, de 15 de dezembro de 2022, arts. 175, incisos I e II, e 176, § 1º, inciso II, e 177; Normas Regulamentadoras nº 1, nº 7 e nº 15 do Ministério do Trabalho e Emprego.
+[arquivo anexo: SC Cosit nº 103-2026.pdf]
+RODRIGO AUGUSTO VERLY DE OLIVEIRA
+Coordenador-Geral
