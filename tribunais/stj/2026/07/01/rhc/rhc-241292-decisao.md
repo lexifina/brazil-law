@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto em favor de DANILO BATISTA DEKERT, contra acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso (HC nº 1022626-08.2026.8.11.0000).
+Extrai-se dos autos que foi instaurada ação penal em desfavor do recorrente para apurar a prática dos crimes previstos nos art. 121, § 2º, incisos I, IV e VIII, do Código Penal, c/c artigo 311 do Código Penal, c/c artigos 14 e 16, § 1º, inciso I, da Lei n. 10.826/2003, todos na forma dos artigos 29 e 69 do Código Penal.
+No curso das investigações a prisão preventiva dos acusados foi decretada. Contudo, em julgamento do habeas corpus nº 1013593-33.2022.8.11.0000, o Tribunal estadual decidiu por substituir a prisão preventiva por medidas cautelares diversas, dentre elas, o monitoramento eletrônico, que foi implementado em agosto de 2022.
+Sobreveio em 21/5/2026 a decisão que pronunciou os acusados e novamente deliberou pela manutenção das medidas cautelares diversas, incluindo a monitoração eletrônica.
+Irresignada, a defesa impetrou habeas corpus na Corte estadual pleiteando a revogação da medida cautelar de monitoração eletrônica. Todavia, o pleito restou indeferido em acórdão, assim ementado (e-STJ fls. 494-496):
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. MANUTENÇÃO DE MEDIDA CAUTELAR DIVERSA DA PRISÃO. MONITORAMENTO ELETRÔNICO. SENTENÇA DE PRONÚNCIA. AUSÊNCIA DE FATO NOVO. PROPORCIONALIDADE E ADEQUAÇÃO DA MEDIDA. ORDEM DENEGADA.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de acusado pronunciado pela suposta prática dos delitos de homicídio qualificado, adulteração de sinal identificador de veículo automotor e crimes previstos no Estatuto do Desarmamento, visando à revogação da medida cautelar de monitoramento eletrônico imposta em substituição à prisão preventiva desde agosto de 2022. A defesa sustenta a perda da contemporaneidade dos fundamentos cautelares em razão do longo período de submissão à tornozeleira eletrônica, da ausência de descumprimento das cautelares, da primariedade, do exercício de atividade laborativa lícita e da inexistência de fatos supervenientes que demonstrem risco concreto à persecução penal.
+II. QUESTÃO EM DISCUSSÃO
+2. Há 2 questões em discussão: (i) definir se o prolongado período de monitoramento eletrônico, aliado ao cumprimento regular das cautelares, torna desnecessária ou desproporcional a manutenção da medida; e (ii) estabelecer se a superveniência da sentença de pronúncia e a inexistência de fatos novos autorizam a revogação da cautelar anteriormente fixada em substituição à prisão preventiva.
+III. RAZÕES DE DECIDIR
+3. O monitoramento eletrônico foi estabelecido por decisão desta Corte como medida substitutiva da prisão preventiva, constituindo mecanismo menos gravoso destinado a compatibilizar a liberdade do acusado com a necessidade de assegurar os fins da persecução penal.
+4. A gravidade concreta dos fatos imputados, caracterizados por alegada premeditação, divisão de tarefas, monitoramento da vítima, utilização de veículo
+adulterado e emprego de armas de fogo, sustenta a permanência das cautelares impostas.
+5. A sentença de pronúncia, proferida após ampla instrução criminal, confirma a existência de prova da materialidade e indícios suficientes de autoria, reforçando a subsistência dos fundamentos cautelares anteriormente reconhecidos.
+6. A tramitação processual ocorreu de forma regular e contínua, com produção de provas testemunhais, periciais e técnicas, afastando a alegação de manutenção automática ou desatualizada da medida cautelar.
+7. O encerramento da instrução criminal e a pronúncia dos acusados não enfraquecem o suporte cautelar, mas evidenciam que os elementos probatórios permaneceram hígidos após o contraditório judicial.
+8. O mero decurso do tempo e o cumprimento regular das obrigações impostas não configuram, por si sós, fato novo apto a justificar a revogação da medida cautelar anteriormente considerada necessária e adequada.
+9. A revisão de medida cautelar fixada por acórdão exige demonstração de alteração substancial do quadro fático-processual, circunstância não verificada no caso concreto.
+10. As condições pessoais favoráveis do paciente, como primariedade, residência fixa e atividade laborativa lícita, não afastam isoladamente a necessidade de manutenção da cautelar quando persistem fundamentos concretos que a justificam.
+11. O monitoramento eletrônico preserva a liberdade do acusado e se revela providência proporcional, necessária e menos gravosa do que a prisão preventiva anteriormente decretada.
+IV. DISPOSITIVO E TESE
+12. Ordem denegada. Tese de julgamento:
+"A sentença de pronúncia reforça a subsistência dos fundamentos cautelares quando confirma a existência de prova da materialidade e indícios suficientes de autoria após a instrução criminal".
+"O decurso do tempo e o cumprimento regular das medidas cautelares não autorizam, por si sós, a revogação do monitoramento eletrônico".
+Na presente oportunidade, o impetrante alega que a medida cautelar diversa perdura por demasiado tempo, e que a boa conduta demonstrada pelo réu no decorrer destes 4 anos que permaneceu sob monitoramento justifica a revogação da medida que deve ser ponderada acerca da necessidade e contemporaneidade, sendo vedada a manutenção da medida por tempo indeterminado. Nesse sentido, aduz que a decisão de pronúncia tem por finalidade apenas verificar se existentes as provas da materialidade e indícios suficientes de autoria, não sendo apta a reavaliar a manutenção da contemporaneidade das medidas cautelares diversas.
+Diante disso, pede, liminarmente, e no mérito, a revogação da medida cautelar de monitoração eletrônica.
+É o relatório, decido.
+Preliminarmente, verifico que o presente recurso em habeas corpus configura mera reiteração de pedido, porquanto apresenta as mesmas partes, causa de pedir e foi interposto contra mesmo acórdão impugnado no HC 1108108/MT, que teve o pedido liminar indeferido e aguarda as informações solicitadas e o parecer do Ministério Público Federal.
+Com efeito, "embora o recurso ordinário em habeas corpus consista no meio próprio para a apreciação da irresignação, a defesa optou por impetrar, também, habeas corpus substitutivo, o qual primeiramente foi despachado nesta Corte. Desse modo, a tese idêntica não pode ser simultaneamente analisada em impetrações/interposições posteriores". (AgRg no RHC n. 103.808/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/11/2018, DJe 10/12/2018).
+Nesse ponto, cumpre salientar que, embora esta Corte entenda ser, de início, incabível o habeas corpus substitutivo de recurso, em homenagem ao princípio da ampla defesa, é de rigor o exame da insurgência, para verificar a existência de eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício. Destarte, não haverá qualquer prejuízo ao recorrente em ter as teses ora levantadas analisadas quando do julgamento do writ e não do presente recurso ordinário.
+Ante o exposto, com fundamento no art. 34, XVIII, a, do RISTJ, não conheço do presente recurso.
+Intimem-se.
+EMENTA
