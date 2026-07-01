@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de RODRIGO JOSÉ RODRIGUES, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado do Espírito Santo, que negou provimento ao agravo de execução penal defensivo, nos termos do acórdão assim ementado:
+"DIREITO PENAL E PROCESSUAL PENAL. EXECUÇÃO PENAL. AGRAVO EM EXECUÇÃO. PRINCÍPIO DA IDENTIDADE FÍSICA DO JUIZ. NULIDADE NÃO CONFIGURADA. DESCUMPRIMENTO DAS CONDIÇÕES DA SAÍDA TEMPORÁRIA. FALTA GRAVE RECONHECIDA. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo em Execução Penal interposto por reeducando contra decisão do Juízo que homologou a prática de falta grave, fixou nova data-base e decretou a perda de 1/6 dos dias remidos, em razão de descumprimento das condições da saída temporária. O agravante pretende a anulação da decisão, sob alegação de violação ao princípio da identidade física do juiz e insuficiência probatória da conduta dolosa, buscando a preservação dos dias remidos, a manutenção da data-base anterior e a autorização de saídas temporárias.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se a decisão que homologou a falta grave é nula por violação ao princípio da identidade física do juiz; (ii) estabelecer se o descumprimento das condições da saída temporária, consubstanciado na ocorrência de acidente motociclístico sem habilitação durante o benefício, configura falta grave nos termos da Lei de Execução Penal.
+III. RAZÕES DE DECIDIR
+3. O princípio da identidade física do juiz não possui caráter absoluto, admitindo exceções quando não demonstrado prejuízo concreto à defesa, sendo inválida a anulação automática de atos processuais.
+4. Não há demonstração de prejuízo à ampla defesa ou ao contraditório, pois a audiência de justificação foi regularmente realizada e os argumentos foram apreciados pelo magistrado substituto.
+5. O rol de faltas graves previsto no art. 50 da LEP é taxativo, mas abrange o descumprimento de condições impostas na execução penal, notadamente no tocante às saídas temporárias, em consonância com o art. 39, II e V, da LEP.
+6. O apenado violou expressamente a ordem judicial ao se ausentar das condições impostas, situação que caracteriza falta grave conforme o art. 50, VI, da LEP e precedentes firmados pelo Superior Tribunal de Justiça.
+7. O reconhecimento da falta grave legitima a perda de dias remidos, a fixação de nova data-base e a restrição ao benefício de saídas temporárias, como consectários legais da sanção disciplinar aplicada.
+IV. DISPOSITIVO E TESE
+8. Recurso desprovido." (fls. 13-14)
+A impetrante sustenta que a falta grave foi reconhecida sem prova direta da condução de motocicleta e sem demonstração de descumprimento doloso das condições da saída temporária, destacando que o acidente ocorreu em propriedade rural da família. Também alega que houve violação ao princípio da identidade física do juiz, porque a decisão foi proferida por magistrado diverso daquele que conduziu a audiência de justificação.
+Requer, em liminar, a suspensão imediata dos efeitos da homologação da falta grave e, no mérito, a anulação da decisão homologatória ou, subsidiariamente, a devolução dos dias remidos e o restabelecimento da data-base anterior.
+Indeferido o pedido de liminar (fls. 222-223) e prestadas as informações solicitadas (fls. 226-251, 252-260 e 264-273), o Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (fls. 279-288).
+É o relatório.
+Decido.
+Esta Corte - HC n. 535.063/SP, Terceira Seção, relator Ministro Sebastião Reis Junior, julgado em 10/6/2020, DJe de 25/8/2020 - e o Supremo Tribunal Federal - AgRg no HC n. 180.365/PB, Primeira Turma, relatora Ministra Rosa Weber, julgado em 27/3/2020, DJe de 2/4/2020; AgRg no HC n. 147.210/SP, Segunda Turma, relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/2/2020 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo ao exame da impetração, a fim de verificar a ocorrência de manifesta ilegalidade que autorize a concessão da ordem de ofício.
+No caso, as instâncias ordinárias reconheceram a prática de falta grave prevista no art. 50, VI, da Lei de Execução Penal, ao consignarem que o paciente, durante o gozo de saída temporária, descumpriu condição expressamente imposta para fruição do benefício, consistente em permanecer em sua residência. Confira-se, a propósito, o seguinte trecho do acórdão:
+"Com relação à falta grave, compulsando os autos, sem maiores delongas, observo que a decisão que concedeu a saída temporária ao agravante determinou que ele deveria "recolher-se durante todo o período da saída temporária em sua residência, deslocando-se apenas da PSSM para casa ou para eventual atendimento médico, quando deverá comunicar imediatamente à Direção da PSSM".
+No entanto, restou demonstrado que o apenado descumpriu as referidas condições, porquanto sofreu um acidente motociclístico, no dia 10/05/2025, ressaltando, ainda, que ele sequer possuía carteira de habilitação." (fl. 17)
+Nesse contexto, para se acolher a pretensão defensiva, é indispensável proceder à nova valoração do acervo probatório, com incursão sobre as circunstâncias do deslocamento do apenado, o local efetivo do acidente, a existência ou não de justificativa plausível para o descumprimento das condições impostas e, ainda, sobre a suficiência dos elementos relativos à condução do veículo sem habilitação, providências que extrapolam os limites cognitivos do habeas corpus.
+A jurisprudência desta Corte Superior é firme no sentido de que o habeas corpus não se presta ao revolvimento do conjunto fático-probatório, sobretudo quando as instâncias ordinárias, soberanas na análise das provas, reconheceram, de forma fundamentada, a prática de falta disciplinar no curso da execução penal. Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. DESCUMPRIMENTO DE CONDIÇÕES DA SAÍDA TEMPORÁRIA. RECONHECIMENTO DE FALTA GRAVE. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. IMPOSSIBILIDADE DE REEXAME PROBATÓRIO NA VIA ELEITA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Segundo entendimento firmado nessa Corte, o descumprimento das condições da saída temporária, assim como o atraso ou a ausência de retorno à unidade prisional após o seu término, constitui falta grave.
+2. Para modificar a decisão de origem e acolher eventuais teses absolutórias seria necessário o reexame do acervo fático-probatório, o que é inviável na via estreita do habeas corpus.
+3. Agravo regimental desprovido."
+(AgRg no HC n. 1.070.141/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/3/2026, DJEN de 24/3/2026.)
+No que diz respeito à violação ao princípio da identidade física do juiz, porque a decisão foi proferida por magistrado diverso daquele que conduziu a audiência de justificação, constato que a impetrante não demonstrou prejuízo, requisito imprescindível ao reconhecimento da alegada nulidade. A propósito:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IDENTIDADE FÍSICA DO JUIZ. EXIGÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO CONCRETO. INCIDÊNCIA DA SÚMULA 83/STJ. PRETENSÃO ABSOLUTÓRIA. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O princípio da identidade física do juiz não possui caráter absoluto e a decretação de nulidade demanda demonstração de prejuízo concreto. Estando o acórdão recorrido em conformidade com a jurisprudência desta Corte quanto ao tema, incide o óbice da Súmula 83/STJ.
+2. A alegação de revaloração jurídica dos fatos, quando visa substituir a valoração probatória firmada pelas instâncias ordinárias, inclusive sobre a suficiência da palavra da vítima em delitos sexuais, demanda revolvimento do conjunto fático-probatório, o que é vedado em recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo regimental não provido."
+(AgRg no AREsp n. 3.109.655/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/5/2026, DJEN de 20/5/2026.)
+Ante o exposto, não conheço do habeas corpus, com fundamento no art. 34, XX, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
