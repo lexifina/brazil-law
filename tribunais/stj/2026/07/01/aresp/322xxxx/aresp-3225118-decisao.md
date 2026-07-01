@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interposto por EDVAN PEDRO DOS SANTOS contra decisão proferida pela 1º Vice-Presidência do TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO que não admitiu o recurso especial anteriormente aviado.
+Aproveito o bem lançado relatório do representante do Ministério Público Federal (e-STJ fls. 1.475/1.477, grifo nosso):
+1. Tratam os autos de agravos em recursos especiais interpostos por Edvan Pedro dos Santos (fls. 1403/1425), Gerson Gomes de Lima (1431/1435) e Eliane Gomes de Sa (fls. 1426/1430), contra decisão proferida pelo Tribunal de Justiça do Estado de Pernambuco que inadmitiu o processamento dos recursos especiais.
+2. Nas razões do recurso especial manejado por Edvan Pedro dos Santos, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, a defesa alega que o acórdão recorrido contrariou o art. 386, e incisos, do CPP, bem como divergiu da interpretação jurisprudencial adotada por esse Superior Tribunal de Justiça.
+3. Gerson Gomes de Lima, por sua vez, em recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal, alega contrariedade ao artigo 386, inciso VII, do Código de Processo Penal, assim como o art. 33, § 4º, da Lei nº 11.343/06.
+4. A defesa de Eliane Gomes de Sa, em recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal, sustenta violação ao art. 91, II, do Código Penal.
+5. Contudo, o Tribunal de origem negou seguimento aos recursos especiais, pelos seguintes fundamentos:
+Atendidos os requisitos extrínsecos de admissibilidade, analiso o especial.
+- Aplicação da Súmula 284/STF
+A admissibilidade do Recurso Especial reclama a expressa indicação de permissivo constitucional em que se estriba o reclamo, dos artigos de lei federal supostamente violados ou interpretados de forma divergente pelo Tribunal, bem como a efetiva exposição das razões pelas quais o acórdão recorrido teria afrontado os referidos dispositivos legais, não sendo suficiente o mero apontamento dos normativos, sem a concreta demonstração das violações.
+Portanto, recai sobre a parte insurgente o ônus de indicar especificamente os dispositivos violados e de demonstrar as razões pelas quais sustenta a ofensa à norma legal.
+In casu, não consta das razões recursais ofertadas por Edvan Pedro dos Santos a indicação de qualquer dispositivo de lei federal tido por vulnerado, se limitando a questionar a prova dos autos, sem apontar qual a norma federal violada pelo acórdão recorrido.
+Eiva semelhante acoima o recurso manejado por Eliane Gomes de Sá, que a despeito de receber contrarrazões favoráveis ofertadas pela Procuradoria de Justiça, deixou de indicar os dispositivos de lei federal que respaldam seu inconformismo, apenas apontando sua condição de terceiro de boa-fé e a origem lícita do veículo apreendido.
+Tais vícios formais obstam a cognição dos apelos nobres. Nesse norte:
+(..)
+- Violação ao art. 386, VII, do CPP - Aplicação da Súmula 07/STJ.
+Ao analisar o mérito dos apelos defensivos, o Tribunal, após detidamente cotejar o acervo probatório contido nos autos, refutou a pretensão absolutória sufragada pelas defesas dos Recorrentes e reputou devidamente comprovada a prático do tráfico de drogas, cujas autorias são atribuídas aos réus, conforme se extrai de fragmentos de voto-condutor:
+(..)
+Destarte, a alteração da conclusão adotada por esta Corte, quanto à existência de provas suficientes para a condenação dos réus, exigiria reexame fático-probatório, vedado em sede de recurso especial pela Súmula 7/STJ. Sobre o tema colaciona-se:
+(..)
+- Violação ao art. 59, CP - Aplicação da Súmula 83/STJ
+(..)
+- Violação ao art. 33, §4 º, Lei de Drogas - Aplicação da Súmula 7/STJ
+(..)
+- Do regime prisional - Aplicação da Súmula 211/STJ e 284/STF
+6. Vieram, então, os presentes agravos, em cujas razões os agravantes sustentam o cumprimento dos requisitos para admissibilidade dos recursos especiais.
+7. Ausente contraminuta, os autos foram enviados ao Superior Tribunal de Justiça e, após, vieram com vista ao Ministério Público Federal.
+Manifestou-se o Parquet Federal, pois, pelo não conhecimento do recurso (e-STJ fls. 1.475/1.479).
+É o relatório.
+Decido.
+Presentes os pressupostos de admissibilidade, conheço do agravo. Passo à análise do recurso especial.
+Com efeito, a ausência de indicação específica de dispositivos legais -em relação à tese absolutória, sem a correspectiva demonstração da correlação jurídica entre a tese defensiva e o mandamento legal - implica em inafastável deficiência recursal a impedir a exata compreensão da controvérsia, atraindo a aplicação da Súmula n. 284/STF.
+É dizer, "o argumento de violação de normas legais sem a individualização precisa e compreensível do dispositivo legal supostamente ofendido, isto é, sem a específica indicação numérica do artigo de lei, parágrafos e incisos e das alíneas, e a citação de passagem de artigos sem a efetiva demonstração da contrariedade de lei federal impedem o conhecimento do recurs o especial por deficiência de fundamentação (Súmula n. 284 do STF)" - AgInt no AREsp n. 2.355.302/SP, Relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 26/2/2024, DJe de 28/2/2024, grifo nosso .
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. FALTA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. DEFICIÊNCIA DAS RAZÕES DO RECURSO ESPECIAL. SÚMULA 284/STF. COMPLEMENTAÇÃO DAS RAZÕES EM AGRAVO REGIMENTAL. INVIABILIDADE. INSURGÊNCIA DESPROVIDA.
+1. A ausência de indicação do dispositivo legal tido por violado traduz deficiência nas razões do recurso especial, atraindo a incidência do óbice da Súmula 284 do STF.
+2. Segundo o entendimento consolidado Nesta Corte, "a complementação da fundamentação deficiente do recurso especial não é possível, por meio de agravo, por se tratar de indevida inovação recursal, a qual é vedada, haja vista a preclusão consumativa". Precedentes.
+3. Agravo regimental desprovido. (AgRg no AREsp n. 2.209.048/SP, relator Ministro João Batista Moreira - Desembargador convocado do TRF1, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023.)
+RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. ESTELIONATO MAJORADO. VIOLAÇÃO DO ART. 382 DO CPP. DISPOSITIVO DE LEI TIDO POR VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. APRESENTAÇÃO DE FORMA NÃO COMPREENSÍVEL. PRETENSÃO RECURSAL NÃO DELIMITADA. SÚMULA 284/STF. ALEGAÇÃO DE PRESTAÇÃO JURISDICIONAL DEFICIENTE EM SEDE DE EMBARGOS DE DECLARAÇÃO. INOCORRÊNCIA. PLEITO DE RECONHECIMENTO DA DECADÊNCIA. TESE DE NECESSIDADE DE REPRESENTAÇÃO DA VÍTIMA. NÃO INDICAÇÃO DE DISPOSITIVOS INFRACONSTITUCIONAIS VIOLADOS. SÚMULA 284/STF. REPRESENTAÇÃO É ATO QUE DISPENSA MAIORES FORMALIDADES. PRECEDENTES. VONTADE DA VÍTIMA PRESENTE NOS AUTOS. NOTÍCIA CRIME OFERTADA. PLEITO DE ABERTURA DE VISTA DOS AUTOS AO PARQUET PARA POSSIBILIDADE DE OFERECIMENTO RETROATIVO DE PROPOSTA DE ACORDO DE NÃO PERSECUÇÃO PENAL (ANPP). CARÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. DENÚNCIA QUE JÁ TINHA SIDO RECEBIDA. IMPOSSIBILIDADE. JURISPRUDÊNCIA DE AMBAS AS TURMAS DA TERCEIRA SEÇÃO. VIOLAÇÃO DOS ARTS. 563 E 566, AMBOS DO CPP. TESE DE CERCEAMENTO DE DEFESA POR CONTA DA PRECLUSÃO DE OITIVA DE TESTEMUNHA. MATÉRIA NÃO DEBATIDA PELO TRIBUNAL DE ORIGEM SOB O ENFOQUE DADO PELO RECORRENTE. CARÊNCIA DE PREQUESTIONAMENTO. ÓBICE DA SÚMULA 211/STJ. TESE DE CERCEAMENTO DE DEFESA POR INDEFERIMENTO DAS DILIGÊNCIAS E DA PROVA PERICIAL. FUNDAMENTOS IDÔNEOS APRESENTADOS PELA CORTE DE ORIGEM. MAGISTRADO, DESTINATÁRIO FINAL DA PROVA. JURISPRUDÊNCIA DO STJ. VIOLAÇÃO DO ART. 89 DA LEI N. 9.099/1995. SUSPENSÃO CONDICIONAL DO PROCESSO. DIREITO SUBJETIVO DO RECORRENTE. INEXISTÊNCIA. FUNDAMENTAÇÃO IDÔNEA. SOMA DAS PENAS MÍNIMAS IN ABSTRATO IMPOSTAS AOS CRIMES PERPETRADOS EM CONTINUIDADE DELITIVA SUPERIOR A 1 ANO. SÚMULA 243/STJ. TESES DE NÃO COMPROVAÇÃO DE MATERIALIDADE E DE NEGATIVA DE AUTORIA. PLEITO ABSOLUTÓRIO. INSTÂNCIAS ORDINÁRIAS QUE LASTREARAM O ÉDITO CONDENATÓRIO COM SUPORTE EM VASTO CONJUNTO PROBATÓRIO, NOTADAMENTE DOCUMENTOS E TESTEMUNHOS. ALTERAÇÃO DE ENTENDIMENTO VEDADO NA VIA ELEITA. ÓBICE DA SÚMULA 7/STJ. CARÊNCIA DE INDICAÇÃO DE DISPOSITIVO INFRACONSTITUCIONAL VIOLADO. SÚMULA 284/STF.
+ ..
+3. O recurso especial possui natureza vinculada, exigindo, para o seu cabimento, a imprescindível demonstração da parte recorrente, de forma clara e precisa, dos dispositivos apontados como malferidos pela decisão recorrida, juntamente com argumentos suficientes à exata compreensão da controvérsia estabelecida, sob pena de inadmissão pela aplicação da Súmula 284/STF (AgInt no REsp n. 1.955.109/DF, Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 8/9/2022).
+ ..
+6. Quanto à tese de decadência, ante a necessidade de representação da vítima, o recurso especial não ultrapassa as condições de admissibilidade, haja vista a não indicação de dispositivos infraconstitucionais violados, o que faz incidir na espécie o teor da Súmula 284/STF.
+7. Não tendo sido apontadas, especificamente, quais normas teriam sido contrariadas, incide a Súmula 284 do STF, segundo o qual: É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia (AgRg no AREsp n. 1.151.992/TO, Ministro Nefi Cordeiro, Sexta Turma, DJe 11/5/2018).
+ ..
+24. Constata-se, no ponto, a ausência de indicação de dispositivo infraconstitucional violado. Com efeito, o STJ possui a missão constitucional de, por meio do recurso especial, uniformizar a jurisprudência pátria a respeito da adequada aplicação dos dispositivos infraconstitucionais. Nesse contexto, a ausência de indicação do dispositivo violado ou cuja aplicação revela dissídio jurisprudencial, impede o conhecimento do recurso especial, em virtude de sua deficiente fundamentação, o que atrai o óbice do enunciado n. 284 da Súmula do STF (AgRg no AREsp n. 1.821.153/GO, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 16/8/2021 - grifo nosso).
+25. Recurso especial parcialmente conhecido e, nessa extensão, desprovido. (REsp n. 1.891.923/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/2/2023, DJe de 16/2/2023.).
+Ante o exposto, conheço do agravo e não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
