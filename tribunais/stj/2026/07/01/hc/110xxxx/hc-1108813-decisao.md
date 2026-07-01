@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas cor pus, com pedido liminar, impetrado em favor de MAYCON SOARES contra decisão de relator que indeferiu a liminar no writ de origem.
+Consta dos autos que o paciente foi preso em flagrante em 05/06/2026 por tráfico de drogas (Lei 11.343/2006, art. 33), com apreensão de 20 pedras de crack (5,7 g), 3 microtubos de cocaína (2,4 g) e 1 porção de maconha (1,8 g), além de R$ 127,00 e celular. Em 06/06/2026, o juízo plantonista homologou e converteu a prisão em preventiva, para garantia da ordem pública, destacando gravidade e modus operandi.
+No presente writ, a impetrante sustenta a superação excepcional da Súmula 691 do STF por flagrante ilegalidade decorrente de preventiva sem base concreta, fundada em gravidade abstrata e presunções genéricas. Alega que a decisão carece de motivação idônea contemporânea, em descompasso com o art. 312 do CPP, e que não há demonstração de perigo atual na liberdade.
+Aponta uso indevido de inquéritos e termos circunstanciados em curso para inferir risco de reiteração, em afronta ao princípio da presunção de inocência e ao enunciado da Súmula 444 do STJ.
+Defende primariedade técnica, bons antecedentes, residência fixa e trabalho lícito como gesseiro autônomo, além de reduzida quantidade e diversidade de drogas, sem balança, material de fracionamento ou caderno de contabilidade, o que afasta periculosidade extraordinária e sinaliza a incidência do tráfico privilegiado (art. 33, § 4º, da Lei 11.343/2006) e o princípio da homogeneidade.
+Aduz que são suficientes medidas cautelares alternativas, nos termos dos arts. 282, § 6º, e 319 do CPP, diante da adequação e proporcionalidade, inexistindo risco concreto à instrução ou à aplicação da lei penal. Para fundamentar, invoca o art. 312 do CPP, cuja redação legal é: Art. 312. A prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado.
+Requer liminarmente a suspensão imediata da custódia e a expedição de alvará de soltura para que o paciente aguarde o julgamento em liberdade.
+No mérito, requer a concessão da ordem para revogar a prisão preventiva por ilegalidade e desproporcionalidade. Subsidiariamente, pleiteia a substituição por medidas cautelares diversas do art. 319 do CPP .
+A defesa entrou com PET 00657298/2026, anexando julgados de casos com entendimento de pouca quantidade de drogas.
+É o relatório.
+A teor do disposto na Súmula 691 do Supremo Tribunal Federal, não se admite a impetração de habeas corpus contra decisão que indeferiu o pedido de liminar em writ impetrado no Tribunal de origem, sob pena de indevida supressão de instância.
+A despeito do óbice, a jurisprudência do STJ firmou a compreensão de que, em casos excepcionais, quando evidenciada a presença de decisão teratológica ou desprovida de fundamentação, é possível a mitigação da referida Súmula.
+O pedido de liminar foi indeferido no Tribunal de origem nos seguintes termos (fls. 9-10):
+Pois bem, analisando os autos com acuidade, não se mostra, ao menos por ora, ilegal nem desproporcional a custódia cautelar do paciente, não havendo comprovação, de forma manifesta, do fumus boni iuris, razão pela qual torna imprescindível a oitiva da autoridade apontada como coatora, visando a uma melhor análise do mérito do pedido exordial, com a consequente apreciação pela competente Turma Julgadora.
+Diante do exposto, INDEFIRO O PEDIDO LIMINAR.
+Determino seja oficiada à d. autoridade impetrada para, no prazo máximo de 10 (dez) dias, prestar as informações de praxe, informando a atual situação do processo, além de juntar os documentos que entender necessários.
+Após, remetam-se os autos à douta Procuradoria-Geral de Justiça pelo prazo do art. 449, do RITJMG, e, ao final, façam-me novamente conclusos.
+Igualmente, o decreto de prisão preventiva restou assim fundamentado (fls. 73-76 ):
+Apesar de sua CAC não indicar antecedentes propriamente ditos, sua versão dos fatos, agora apresentada, não é firme o suficiente para afastar a ocorrência de tráfico, já que mesmo se dizendo usuário e já ter comprado drogas para si e um "amigo" precedentemente em outro lugar da cidade, não esclareceu porque parara no escadão do Bairro Santa Rita, conhecido ponto de tráfico e que por isso ensejou nas imediações a atuação da PMMG, e de lá saíra em uma moto de aluguel ("uber") com mais de 20 pedras de crack, 2 pinos de cocaína e certa quantia de maconha.
+O contexto fático concretamente divisado realmente indica a prática de tráfico de entorpecentes, justificando-se, assim, a manutenção da prisão, notadamente para recompor a ordem pública, bastante esbulhada pelo comportamento do flagranteado!
+O modus operandi do delito de tráfico de drogas constitui indício veemente da concreta e excessiva periculosidade do flagrado a evidenciar a necessidade da manutenção da prisão preventiva.
+Ora, não se pode olvidar a alta ofensividade que o tipo em apreço representa à saúde e à segurança pública, sendo o delito de tráfico de drogas equiparado a hediondo e punido com reclusão, de modo que a concessão da liberdade ao increpado, neste momento, poderá acarretar sérios riscos à sociedade.
+ ..
+Assim, para conter sua indiciária progressividade criminosa, protegendo a ordem pública, deve ser acolhido o pleito do MPMG.
+Além do mais, revela-se inadequada e insuficiente a aplicação de quaisquer outras medidas cautelares ao flagrado, restando justificada a manutenção da prisão.
+Isso posto, com fundamento no artigo 310, II e 313, II, todos do CPP, CONVERTO a prisão em flagrante em prisão preventiva.
+Verifica-se, nesse juízo inicial, que a prisão preventiva foi decretada mediante fundamentação idônea, lastreada na gravidade concreta da conduta - modus operandi -evidências de dinâmica mercantil de tráfico de dro gas, pela forma de acondicionamento das drogas (20 pedras de crack (5,7 g), 3 microtubos de cocaína (2,4 g) e 1 porção de maconha (1,8 g), além de R$ 127,00 e celular.
+Apesar de sua CAC não indicar antecedentes propriamente ditos, a versão dos fatos do paciente, não é firme o suficiente para afastar a ocorrência de tráfico, já que mesmo se dizendo usuário e já ter comprado drogas para si e um "amigo" precedentemente em outro lugar da cidade, não esclareceu porque parara no escadão do Bairro Santa Rita, conhecido ponto de tráfico e que por isso ensejou nas imediações a atuação da PMMG, e de lá saíra em uma moto de aluguel ("uber").
+Sendo assim, o pedido de liminar foi fundamentadamente indeferido na origem, porquanto não evidenciados, de plano, os pressupostos autorizativos da medida urgente, em especial, o fumus boni iuris e o periculum in mora.
+Não se verifica, portanto, teratologia ou manifesta ilegalidade apta a autorizar a mitigação da Súmula 691/STF, cabendo ao Tribunal de origem a análise do mérito da questão.
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
