@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/06/2026 a 01/07/2026, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Teodoro Silva Santos.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ICMS-DIFAL. TEMA N. 1.266/STF. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA JUÍZO DE CONFORMAÇÃO. PEDIDO DE DISTINÇÃO PREVIAMENTE INDEFERIDO. DECISÃO DE SOBRESTAMENTO. ATO DESTITUÍDO DE CONTEÚDO DECISÓRIO. IRRECORRIBILIDADE. IMPOSSIBILIDADE DE CISÃO DO JULGAMENTO DO RECURSO ESPECIAL. AGRAVO INTERNO NÃO CONHECIDO.
+1. É irrecorrível a decisão que determina a devolução dos autos ao Tribunal de origem para observância da sistemática dos recursos repetitivos ou da repercussão geral, por se tratar de ato sem conteúdo decisório e incapaz de gerar prejuízo imediato às partes.
+2. Nos termos do art. 1.037, §§ 9º e 10, do CPC/2015, eventual distinguishing deve ser suscitado mediante requerimento próprio, e não por intermédio de recurso.
+3. Hipótese em que o pedido de distinção anteriormente formulado pela parte agravante já foi expressamente examinado e indeferido, ao fundamento de que a controvérsia devolvida no recurso especial possui núcleo eminentemente constitucional, relacionado à incidência das anterioridades anual e nonagesimal na cobrança do ICMS-DIFAL após a edição da LC n. 190/2022, subsistindo, portanto, a aderência material ao Tema n. 1.266/STF.
+4. A existência de alegações autônomas no recurso especial, inclusive quanto à suposta negativa de prestação jurisdicional, não autoriza a cisão do julgamento do apelo nobre antes do exaurimento da instância ordinária.
+5. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por AMAZON SERVIÇOS DE VAREJO DO BRASIL LTDA. contra decisão que julgou prejudicado o recurso especial e determinou a devolução dos autos ao Tribunal de origem, para manutenção do sobrestamento do feito até o julgamento definitivo do Tema n. 1.266/STF, submetido ao regime da repercussão geral.
+Sustenta a agravante, em síntese, que a controvérsia devolvida no recurso especial não se confundiria com a matéria submetida ao Supremo Tribunal Federal no Tema n. 1.266/STF, porquanto o caso concreto versaria sobre diferencial de alíquota do ICMS - DIFAL incidente em operações destinadas a consumidor final contribuinte do imposto, hipótese que, segundo afirma, estaria submetida ao Tema Repetitivo n. 1.369/STJ.
+Alega, ainda, que a análise da incidência das anterioridades anual e nonagesimal dependeria, logicamente, da definição prévia acerca da suficiência normativa da Lei Kandir para disciplinar a cobrança do DIFAL antes da edição da LC n. 190/2022.
+Defende, ademais, que subsistiria questão autônoma relativa à alegada violação dos arts. 489 e 1.022 do CPC/2015, concernente à tese da denominada "base dupla", circunstância que impediria o sobrestamento integral do recurso especial.
+Requer, ao final, a reconsideração da decisão agravada ou a submissão da controvérsia ao competente órgão colegiado julgador.
+Regularmente intimada, a parte
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ICMS-DIFAL. TEMA N. 1.266/STF. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA JUÍZO DE CONFORMAÇÃO. PEDIDO DE DISTINÇÃO PREVIAMENTE INDEFERIDO. DECISÃO DE SOBRESTAMENTO. ATO DESTITUÍDO DE CONTEÚDO DECISÓRIO. IRRECORRIBILIDADE. IMPOSSIBILIDADE DE CISÃO DO JULGAMENTO DO RECURSO ESPECIAL. AGRAVO INTERNO NÃO CONHECIDO.
+1. É irrecorrível a decisão que determina a devolução dos autos ao Tribunal de origem para observância da sistemática dos recursos repetitivos ou da repercussão geral, por se tratar de ato sem conteúdo decisório e incapaz de gerar prejuízo imediato às partes.
+2. Nos termos do art. 1.037, §§ 9º e 10, do CPC/2015, eventual distinguishing deve ser suscitado mediante requerimento próprio, e não por intermédio de recurso.
+3. Hipótese em que o pedido de distinção anteriormente formulado pela parte agravante já foi expressamente examinado e indeferido, ao fundamento de que a controvérsia devolvida no recurso especial possui núcleo eminentemente constitucional, relacionado à incidência das anterioridades anual e nonagesimal na cobrança do ICMS-DIFAL após a edição da LC n. 190/2022, subsistindo, portanto, a aderência material ao Tema n. 1.266/STF.
+4. A existência de alegações autônomas no recurso especial, inclusive quanto à suposta negativa de prestação jurisdicional, não autoriza a cisão do julgamento do apelo nobre antes do exaurimento da instância ordinária.
+5. Agravo interno não conhecido.
+VOTO
+O agravo interno não merece ser conhecido.
+Consoante orientação firmada no âmbito do Superior Tribunal de Justiça, é irrecorrível a decisão que determina o sobrestamento do feito ou a devolução dos autos ao Tribunal de origem para observância da sistemática dos recursos repetitivos ou da repercussão geral, por se tratar de ato destituído de conteúdo decisório.
+Com efeito, nos termos dos arts. 1.037, §§ 9º e 10, do CPC/2015, eventual insurgência quanto à distinção entre a matéria discutida nos autos e aquela submetida ao rito dos repetitivos ou da repercussão geral deve ser deduzida mediante requerimento próprio, e não por intermédio de recurso.
+No caso concreto, inclusive, a parte agravante já havia se utilizado precisamente da via processual prevista no art. 1.037, §§ 9º e 10, do CPC/2015, tendo formulado pedido de distinção, posteriormente indeferido por decisão fundamentada deste Relator.
+Naquela oportunidade, consignou-se expressamente que não se verificava distinguishing apto a afastar a incidência do Tema n. 1.266/STF, porquanto o núcleo da controvérsia devolvida no recurso especial permanecia relacionado à alegada ofensa às garantias constitucionais da anterioridade anual e nonagesimal na cobrança do DIFAL após a edição da LC n. 190/2022.
+Assentou-se, ainda, que, embora a agravante sustentasse tratar-se de hipótese envolvendo consumidor final contribuinte do ICMS, tal circunstância não afastaria a identidade material da controvérsia submetida ao Supremo Tribunal Federal, uma vez que a questão determinante para o deslinde da causa continuaria sendo a eficácia temporal da LC n. 190/2022 à luz do art. 150, III, "b" e "c", da Constituição Federal.
+Também ficou consignado que o Tema Repetitivo n. 1.369/STJ possui objeto distinto, de natureza predominantemente infraconstitucional, voltado à definição acerca da suficiência normativa da LC n. 87/1996 para disciplinar o DIFAL anteriormente à LC n. 190/2022, ao passo que, no presente recurso, a controvérsia central gravita em torno da incidência das anterioridades tributárias.
+Portanto, a questão atinente ao alegado distinguishing já foi devidamente examinada e rejeitada por decisão específica, proferida nos exatos moldes do procedimento previsto no art. 1.037, §§ 9º e 10, do CPC/2015.
+Ainda assim, a agravante interpõe agravo interno contra decisão que determinou a devolução dos autos ao Tribunal de origem para manutenção do sobrestamento do feito, providência esta que, segundo a jurisprudência pacífica desta Corte Superior, possui natureza de ato de mero expediente e não se sujeita à impugnação recursal.
+Nesse sentido, a jurisprudência do STJ é firme ao assentar que "não se deve conhecer do recurso de agravo interno impugnando a decisão que determinou a devolução dos autos ao Tribunal de origem para que observe a sistemática prevista nos arts. 1.039 e 1.040 do CPC/2015, tendo em vista que o aludido sobrestamento não é capaz de gerar nenhum prejuízo às partes, motivo pelo qual é irrecorrível" (AgInt no REsp n. 1.663.877/SE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 4/9/2017).
+Na mesma linha (sem grifos no original):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. TEMA SUBMETIDO AO RITO DE RECURSOS REPETITIVOS. DEVOLUÇÃO DOS AUTOS. IRRECORRIBILIDADE.
+1. É inadmissível a interposição de recurso em desfavor de decisão que determina a baixa dos autos para juízo de conformação, em virtude de julgamento de recurso especial submetido à sistemática dos recursos repetitivos.
+2. Nos termos do art. 1.037, §§ 9º e 10, do CPC, a única hipótese de alteração da decisão de sobrestamento seria a demonstração, por meio de requerimento, de que a questão a ser decidida no processo e aquela julgada no recurso especial seriam distintas, o que não se viu na hipótese dos autos.
+3. Agravo interno não conhecido.
+(AgInt no PDist no REsp n. 2.194.410/PE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 16/3/2026, DJEN de 19/3/2026.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. PEDIDO DE DISTINÇÃO NO RECURSO ESPECIAL. DECISÃO QUE SOBRESTOU OS AUTOS. AFETADO TEMA N. 1.209/STJ. AGRAVO. DESCABIMENTO. IRRECORRIBILIDADE. PEDIDO NÃO CONHECIDO.
+1. A reiterada jurisprudência deste Tribunal Superior é no sentido de que "o ato de sobrestamento e remessa dos autos à origem, para a devida observação do rito de demandas repetitivas ou entendimento a ser definido pelo STF com repercussão geral reconhecida, não possui conteúdo decisório, razão por que é irrecorrível" (AgInt nos EDcl no AgInt no REsp n. 1.849.739/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 6/12/2023).
+2. Pedido de distinção não conhecido.
+(AgInt no PDist no REsp n. 2.050.900/AL, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 4/3/2026, DJEN de 10/3/2026.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PEDIDO DE DISTINÇÃO. RECURSO ESPECIAL. TEMA AFETADO. SOBRESTAMENTO DO FEITO. DEVOLUÇÃO DOS AUTOS. IRRECORRIBILIDADE. AGRAVO INTERNO NÃO CONHECIDO.
+1. É irrecorrível a decisão que determina a baixa dos autos para sobrestamento do feito, em virtude da pendência de julgamento de tema submetido à sistemática de recursos repetitivos ou repercussão geral.
+2. Nos termos dos arts. 1.037, §§ 9º e 10, do CPC/2015, a única hipótese de alteração da decisão de sobrestamento seria a demonstração, por meio de requerimento, de que a questão a ser decidida no processo e aquela a ser julgada pelo tema afetado seriam distintas.
+3. Agravo interno não conhecido.
+(AgInt no REsp n. 2.204.327/AL, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 4/3/2026, DJEN de 9/3/2026.)
+Cuida-se, portanto, de ato processual sem carga decisória apta a ensejar impugnação recursal imediata.
+Ademais, a alegação de subsistência de questão autônoma relativa à suposta negativa de prestação jurisdicional igualmente não autoriza o processamento fragmentado do recurso especial.
+A jurisprudência desta Corte Superior firmou compreensão no sentido da impossibilidade de cisão do julgamento dos recursos excepcionais antes do exaurimento da instância ordinária, sobretudo quando presente tema submetido ao rito dos repetitivos ou da repercussão geral. Não por outro motivo é que se firmou a orientação de que: "o vigente sistema processual brasileiro não comporta a cisão e a concomitância de julgamentos perante as instâncias ordinária e especial" (AgInt no REsp 1.728.078/RJ, Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 13/8/2019, DJe de 16/8/2019 ).
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+É o voto.
