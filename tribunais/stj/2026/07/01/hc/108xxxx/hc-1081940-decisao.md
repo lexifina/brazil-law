@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de ANTONIO DE NEZ MARTINS, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, que não conheceu writ ali impetrado, nos termos do acórdão assim ementado:
+"HABEAS CORPUS. EXECUÇÃO PENAL. INSURGÊNCIA CONTRA DECISÃO QUE INDEFERIU PEDIDO DE CONCESSÃO DE INDULTO. AUSÊNCIA DE ILEGALIDADE A SER AFERIDA DE PLANO. MATÉRIA A SER DISCUTIDA EM RECURSO PRÓPRIO. WRIT NÃO CONHECIDO."
+Neste writ, a defesa alega que o parecer ministerial e a decisão da execução não analisaram a questão sob a ótica dos incisos IV e V do art. 9º do Decreto 12.790/2025, tendo o Juízo apenas acolhido manifestação que tratou de questões específicas (incisos I, II, III, VIII, XIV e XV), o que caracterizaria erro de aplicação do decreto e negativa de prestação jurisdicional.
+Argumenta, ainda, que o paciente preencha os requisitos objetivos para o indulto parcial: cumprimento de mais de 26 anos e 7 meses até 25/12/2025; inexistência de falta grave no período impeditivo do art. 6º do decreto; e cumprimento de dois terços das penas referentes aos crimes impeditivos. As penas dos crimes impeditivos somariam 16 anos e 3 meses, sendo que dois terços representariam cerca de 10 anos e 10 meses, lapso já superado, o que permitiria a incidência do indulto sobre as condenações não impeditivas, nos termos do art. 7º, parágrafo único, do decreto.
+Requer, ao final, a concessão do indulto natalino previsto no art. 9º, inciso XV, do Decreto n. 12.790/2025.
+A Subprocuradoria-Geral da República opinou pelo não conhecimento do writ (e-STJ, fls. 69-75).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Inicialmente, cabe ressaltar que, na dicção do Supremo Tribunal Federal, o indulto natalino é um instrumento de política criminal e carcerária adotada pelo Executivo, com amparo em competência constitucional, que encontra restrições apenas na própria Constituição da República, que veda a concessão de anistia, graça ou indulto aos crimes de tortura, tráfico de drogas, terrorismo e aos classificados como hediondos.
+Ademais, " consoante  a jurisprudência deste Superior Tribunal de Justiça, a interpretação extensiva das restrições contidas no decreto concessivo de comutação/indulto de penas consiste, nos termos do art. 84, XII, da Constituição Federal, em invasão à competência exclusiva do Presidente da República, motivo pelo qual, preenchidos os requisitos estabelecidos na norma legal, o benefício deve ser concedido por meio de sentença - a qual possui natureza meramente declaratória -, sob pena de ofensa ao princípio da legalidade" (AgRg no REsp n. 1.902.850/GO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 17/4/2023, DJe de 20/4/2023).
+No caso, o Tribunal de origem assim considerou:
+"A decisão atacada (evento 1, ANEXO2) se remeteu à manifestação Ministerial, que assim rechaçou a possibilidade de concessão de indulto ao apenado (evento 1, PROMOÇAO4):
+"Sobreveio pedido defensivo para análise da concessão de indulto com base no Decreto Presidencial n. 12.790/2025 (seq. 482.1). O apenado foi condenado às penas somadas de 62 anos, 1 mês e 7 dias, pela prática de crimes hediondos e crimes comuns com e sem violência ou grave ameaça, na condição de reincidente.
+Extrai-se do decreto invocado:
+Art. 6º A declaração do indulto e da comutação de pena prevista neste Decreto fica condicionada à inexistência de aplicação de sanção reconhecida pelo juízo competente em audiência de justificação, garantidos os principios do contraditório e da ampla defesa, por falta disciplinar de natureza grave prevista na Lei nº 7.210, da 11 de julho de 1884, cometida nos doze meses de cumprimento da pena, contados retroativamente a 25 da dezembro de 2025.
+Art. 7º Para fins da declaração do indulto e da comutação da pana, as panas correspondentes a infrações diversas deverão ser somadas alé 25 de dezembro da 2025.
+Parágrafo único. Na hipótese de haver concurso com crime previsto no art, 1º, não serã declarado o indulto ou a comutação de pena correspondente ao crime não impeditivo enquanto a pessoa condenada não cumprir dois terços da pena correspondente ao crime impeaditivo.
+ ..
+Art. 9º Concede-se o indulto coletivo às pessoas, nacionais e migrantes, condenadas:
+I - à pena privativa de liberdade não superior a oito anos, por crime praticado sem violência ou grave ameaça a pessoa, que tenham cumprido, até 25 de dezembro de 2025, um quinto da pena, se não reincidentes, ou um terço da pena, se reincidentes;
+II - à pena privativa de liberdade não superior a doze anos, por crime praticado sem violência ou grave ameaça a pessoa, que tenham cumprido, até 25 ds dezembro de 2025, um terço da pena, se não reincidantes, ou matada da pena, se reincidentes;
+III - à pena privativa de liberdade não superior a quatro anos, por crime praticado com violência ou grave ameaça a pessoa, qua tenham cumprido, atá 25 de dezembro de 2025, um terço da pena, se não reincidantes, ou metade da pana, se reincidentes; (grifos nossos)
+De início, cumpre referir que, havendo soma de penas, não há possibilidade de análiso individual de cada condenação imposta, eis que o próprio artigo 7º do referido Decreto determina que "as penas correspondentes a infrações diversas deverão ser somadas aíé 25 de dezembro de 2025".
+Desse modo, "não é possível a análise dos requisitos estabelecidos no ato presidencial de forma individualizada e em desconsideração da soma das penas, sob pena de se promover indevida invasão na privativa competência do Presidente da República para fixação das hipóteses de fruição do benefício" (TJSC, Agravo de Execução Penal n. 8000064-56.2025.8.24.0064, de São José, rel. Des. Ana Lia Moura Lisboa Carneiro, j. 13-3-2025).
+No caso concreto, as penas somadas totalizam 62 anos, 1 mês e 7 dias, superando, de forma expressiva, os limites máximos previstos nos incisos I e II do art. 9º do Decreto, que exigem pena privativa de liberdade não superior à 8 anos e 12 anos, respectivamente.
+De igual modo, não se aplica o inciso III, uma vez que a apenado possui condenação superior ao limite legal ali previsto, além de responder por outros crimes, inclusive de natureza diversa.
+Também não incide o inciso VIII, pois o apenado não se encontrava em regime aberto nem em livramento condicional na data de publicação do Decreto.
+Outrossim, não é caso de aplicação do chamado "indulto dos crimes patrimoniais", previsto nos incisos XIV e XV do ar, 9º, uma vez que q benefício exige que todas as condenações sejam relativas a crimes patrimoniais praticados sem violência ou grave ameaça à pessoa, requisito manifestamente ausente no
+caso em exame.
+Por fim, analisados os demais incisos do ari. 9º, verifica-se que nenhuma das hipóteses legais de concessão do indulto se amolda à situação do apenado.
+Assim, forçoso indeferir o pedido de concessão do indulto."
+Pois bem.
+Observa-se que apesar de não apontar expressamente para os incisos invocados pela defesa, foram fundamentadas as razões pelas quais o pedido de concessão de indulto foi indeferido, diante do não preenchimento dos requisitos objetivos para reconhecimento da benesse.
+Como visto, o representante Ministerial, em manifestação manifestada por Juízo, mencionou que "nenhuma das hipóteses legais de concessão do indulto se amolda à situação do apenado"
+Apesar de a defesa apontou que "  o PACIENTE cumpriu mais de 26 anos de pena até 25/12/2025, não possui falta grave no período impeditivo do decreto e já cumpriu mais de dois terços das penas correspondentes aos crimes impeditivos  J" (evento 1, INIC1), a norma que se pretende aplicar disposições ainda condições de cumprimento contínuo da pena:
+Arte. 9º Concede-se o indulto coletivo às pessoas, nacionais e migrantes, condenadas:  IV - à pena privativa de liberdade que, até 25 de dezembro de 2025, tenham cumprido, ininterruptamente, quinze anos da pena, se não reincidentes, ou vinte anos da pena, se reincidentes; V - à pena privativa de liberdade que, até 25 de dezembro de 2025, tenham cumprido, não ininterruptamente, vinte anos da pena, se não reincidentes, ou vinte e cinco anos da pena, se reincidentes, desde que o período em liberdade não supere dois anos;
+Logo, ainda que não haja manifestação expressa sobre os dispositivos aventados, sua análise foi realizada, razão pela qual não se constata flagrante ilegalidade na decisão.
+O art. 5º da Constituição da República dispõe:
+LXVII - se-á "habeas-corpus" sempre que alguém sofra ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder;
+O Código de Processo Penal, por sua vez, reproduz o texto constitucional em seu art. 647.
+A pretensão do impetante, no entanto, não se adequa às hipóteses de cabimento do writ.
+O habeas corpus é remédio processual que tutela a liberdade de locomoção do paciente em casos de abuso de poder ou de ilegalidade, ou que não esteja evidenciado no caso concreto. Incabível, dessa forma, a desvirtuação deste remédio constitucional.
+ .. "
+Inicialmente, deve ser afastada a alegação de falta de prestação jurisdicional pois se verifica que a análise da possibilidade de concessão de indulto foi analisada com base na totalidade do conjunto de requisitos constantes do Decreto Presidencial.
+Por outro lado, verifica-se que o entendimento mantido pelo Tribunal de origem encontra-se alinhado ao desta Corte, no sentido de que a interpretação restritiva própria dos decretos de indulto impõe a regra do somatório das penas.
+No caso concreto, o art. 7º do Decreto n. 12.790/2025 prevê que "Para fins da declaração do indulto e da comutação de pena, as penas correspondentes a infrações diversas deverão ser somadas até 25 de dezembro de 2025", não sendo possível individualizar as sanções para fins de verificação do preenchimento do requisito objetivo para a concessão do indulto.
+Ainda, o Tribunal apontou que o paciente foi condenado a um total de penas que ultrapassa o limite previsto no art. 9º, II, do Decreto Presidencial 12.790/2025
+Ante o exposto, não conheço o habeas corpus.
+Publique-se.
+Intime-se.
+EMENTA
