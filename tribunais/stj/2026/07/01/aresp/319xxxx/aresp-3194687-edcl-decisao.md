@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por STELLANTIS AUTOMOVEIS BRASIL LTDA. contra decisão monocrática de minha relatoria que conheceu do agravo para não conhecer do recurso especial (fls. 970-974).
+O embargante alega que, na decisão monocrática foi aplicada a Súmula 7/STJ, sem que fosse indicado os fatos ou as provas que precisariam ser reexaminados para apreciar a tese jurídica sobre os efeitos da rescisão contratual e a incidência do art. 884 do Código Civil; reconheceu a natureza jurídica da controvérsia e, contraditoriamente concluiu pela necessidade de revolvimento probatório.
+Requer a reforma da decisão embargada.
+A embargada apresentou impugnação às fls. 991-996
+É, no essencial, o relatório.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+No caso em exame, inexistem vícios no julgado.
+Não há omissão ou contradição na decisão embargada porquanto, embora a tese invocada pela recorrente insista na violação do art. 884 do Código Civil, a decisão monocrática foi clara ao enfatizar que qualquer alteração, seja para negar o vício, afirmar sua correção, substituir a restituição integral por abatimento/Tabela FIPE, ou impor condicionantes não fixadas, implicaria o reexame da moldura fática e as conclusões probatórias já firmadas.
+O Tribunal de origem concluiu pela rescisão e pela restituição integral com amparo em laudo pericial técnico, histórico de ordens de serviço e tempo de imobilização do automóvel (fls. 829-830). A decisão ora embargada explicitou que a alteração de tal entendimento atrai o óbice da Súmula 7STJ, uma vez que a desconstituição da moldura fática fixada na Corte de origem exigiria a incursão nos elementos de prova dos autos, afastando a natureza exclusivamente jurídica alegada.
+Do mesmo modo, não há que se falar em omissão ou contradição no tocante às condições específicas para a devolução do veículo (como entrega de documentos e quitação de multas e impostos). A decisão monocrática prestigiou e manteve o fundamento adotado no acórdão recorrido no sentido de que se mostra descabida a fixação detalhada de tais condicionantes na fase recursal, devendo a matéria ser integralmente disciplinada e operacionalizada na fase de cumprimento de sentença. Uma vez definida a via adequada para a solução da questão prática, resta prejudicada a análise pormenorizada de cada requisito listado pela recorrente, inexistindo vício de fundamentação.
+Ademais, conforme pacífica jurisprudência deste Tribunal Superior, a incidência da Súmula 7/STJ impede o conhecimento do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional, ficando inviabilizado o exame do dissídio jurisprudencial quando fundado na mesma tese que demanda reexame de provas.
+Observa-se, portanto, que na verdade, a parte embargante não se conforma com a decisão embargada e, ainda neste momento, pleiteia novo julgamento da demanda. Todavia, os embargos de declaração não são a via adequada para se buscar o rejulgamento da causa.
+A propósito, cito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PRETENSÃO DE PARCELAMENTO DO DÉBITO EXEQUENDO. IMPOSSIBILIDADE. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. EMBARGOS REJEITADOS
+1. Nos termos do que dispõe o art. 1.022 do CPC/2015, os embargos de declaração são cabíveis apenas quando amparados em suposta omissão, contradição, obscuridade ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Na hipótese, o acórdão embargado encontra-se suficientemente fundamentado, em relação à aplicabilidade dos arts. 805 e 916, § 7º, do CPC, seja em relação à alínea a do permissivo constitucional seja em relação à alínea c.
+3. Embargos de declaração rejeitados. (EDcl no REsp n. 1.891.577/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 2/9/2022.)
+No mesmo sentido, cito: EDcl no AgInt no AREsp n. 1.896.238/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 25/3/2022; EDcl no AgInt no AREsp n. 1.880.896/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 26/5/2022.
+A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita. Portanto, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
