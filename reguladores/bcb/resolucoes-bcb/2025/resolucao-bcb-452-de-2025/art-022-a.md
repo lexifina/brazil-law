@@ -1,0 +1,1 @@
+Art. 22-A. O valor da exposição mencio​nada no art. 5º, caput, inciso VIII, deve corresponder ao valor estabelecido pelo art. 4º, caput, inciso I, alínea “i”, e §§ 8º e 9º, da Resolução CMN nº 4.955, de 21 de outubro de 2021.” (NR)
