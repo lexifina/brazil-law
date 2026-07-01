@@ -1,0 +1,55 @@
+Decisão
+
+Recurso ordinário em habeas corpus. Condenação transitada em julgado. Inadequação da via eleita. Pena. Dosimetria. Ausência de ilegalidade manifesta. Negativa de seguimento.
+
+1. Trata-se de recurso ordinário em habeas corpus interposto contra acórdão do Superior Tribunal de Justiça, pelo qual a Sexta Turma negou provimento ao Agravo Regimental no Habeas Corpus nº 1.038.581/SP.
+
+2. Consta dos autos que o recorrente foi condenado definitivamente à pena de 30 anos de reclusão, em regime inicial fechado, pela prática do crime do art. 159, § 3º, do Código Penal (extorsão mediante sequestro com resultado morte). Posteriormente, foram ajuizadas duas revisões criminais, uma julgada improcedente e outra não conhecida, sobrevindo a impetração do habeas corpus perante o STJ.
+
+3. No presente recurso ordinário, a defesa sustenta, em síntese, que o habeas corpus permanece cabível para sanar ilegalidade manifesta, ainda que após o trânsito em julgado da condenação. Alega que a pena-base foi fixada no patamar máximo de 30 anos com fundamento na valoração negativa de apenas três circunstâncias judiciais, em afronta ao art. 59 do Código Penal. Afirma, ainda, que o horário em que praticado o delito (período vespertino, por volta das 13 horas) não constitui circunstância judicial desfavorável apta a demonstrar maior ousadia ou reprovabilidade da conduta.
+
+4. Requer a redução da pena-base, ou, subsidiariamente, a aplicação de critério proporcional de exasperação.
+
+5. A Procuradoria-Geral da República manifesta-se pelo não conhecimento ou, sucessivamente, pela negativa de provimento.
+
+É o relatório.
+
+Decido.
+
+6. De início, observo que a jurisprudência deste Supremo Tribunal Federal consolidou-se no sentido da inviabilidade de utilização do habeas corpus como sucedâneo de revisão criminal, salvo em hipóteses de manifesta ilegalidade. (RHC nº 203.506-AgR/ES, Rel. Min. Cármen Lúcia, Primeira Turma, j. 23/08/2021, p. 25/08/2021; HC nº 154.106-ED/MS, Rel. Min. Roberto Barroso, Primeira Turma, j. 29/06/2018, p. 06/08/2018; HC nº 135.239-AgR/SP, Rel. Min. Celso de Mello, Segunda Turma, j. 07/08/2018, p. 17/09/2018; e HC nº 161.656-AgR/SP, Rel. Min. Ricardo Lewandowski, Segunda Turma, j. 23/10/2018, p. 31/10/2018).
+
+7. Verificada a inadequação da via eleita, eventual concessão da ordem de ofício é providência excepcional, a ser implementada somente quando constatada flagrante ilegalidade, abuso de poder ou mesmo teratologia na decisão impugnada. Da análise das peças que instruem a impetração, no entanto, não vislumbro situação a autorizá-la.
+
+8. A jurisprudência desta Suprema Corte é firme no sentido de que a dosimetria da pena é matéria sujeita à discricionariedade judicial, por ser “relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático-probatório, não sendo possível às instâncias extraordinárias a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada” (HC nº 203.100-AgR/DF, Rel. Min. Roberto Barroso, Primeira Turma, j. 27/09/2021, p. 04/10/2021).
+
+9. Assim, é cabível somente o controle da legalidade dos critérios utilizados. Nessa linha decidiram ambas as Turmas: HC nº 192.670/PA, Rel. Min. Marco Aurélio, Primeira Turma, j. 07/12/2020, p. 14/12/2020; HC nº 131.842-AgR/SP, Rel. Min. Rosa Weber, Primeira Turma, j. 06/11/2018, p. 16/11/2018; HC nº 186.143-AgR/SP, Rel. Min. Cármen Lúcia, Segunda Turma, j. 24/08/2020, p. 31/08/2020; e HC nº 180.118-AgR/SP, Rel. Min. Edson Fachin, Segunda Turma, j. 08/04/2021, p. 29/04/2021.
+
+10. O Juízo de origem, ao proceder ao cômputo da pena, assim fundamentou o acréscimo na pena basilar:
+
+“(…) Na primeira fase da dosimetria penal, em observância às circunstâncias judiciais previstas no art. 59, do Código Penal, verifico que: a) Culpabilidade: foi anormal, necessitando o réu de punição acima do mínimo para sentir os efeitos da reprovação de sua conduta, e também para a prevenção especial e geral do crime ora analisado, porquanto exsurge nítida reprovação social da conduta perpetrada, em decorrência do excesso de violência concretamente empregado, pois a vítima, ato contínuo ser alvejada pelos disparos de arma de fogo, foi arrastada pelas pernas, caída ao solo, no interior de seu próprio estabelecimento comercial. Denota-se, assim, desprezo pelos mais comezinhos princípios civilizatórios, instaurando-se a barbárie e transcendendo a figura típica básica. Em verdade, e no bom português, trata-se de verdadeira psicopatia. b) Antecedentes: não ostenta maus antecedentes. c) Conduta social: nada a considerar. e) Motivos do crime: foram próprios do tipo penal, não havendo nada a se valorar. f) Circunstâncias do crime: foram anormais, pois o gravíssimo delito foi praticado no período vespertino (13hrs00min), denotando exaceberda ousadia por parte do Réu. g) Consequências do crime: transcendem a figura típica. A vítima, consoante depoimento e relato das testemunhas, com 47 anos de idade, deixou família e, especialmente, filhos. O comércio, segundo relataram, ficou impactado negativamente, pois não conseguem mais administrá-lo. A família da vítima, em suma, passa por dificuldades financeiras. h) Comportamento da vítima: não influenciou a prática das infrações. Assim, diante da valoração negativa de 03 (três) circunstâncias judiciais, fixo a pena base no patamar máximo, isto é, em 30 (trinta) anos de reclusão.”
+
+11. O entendimento foi mantido pelas instâncias revisoras. Entendo que não há ilegalidade a ser reconhecida, uma vez que o aumento realizado na primeira fase da dosimetria da pena está fundamentado em elementos concretos, devidamente explicitados nos pronunciamentos judiciais, demonstrando a medida em que extrapolam os elementos inerentes ao tipo penal.
+
+12. Saliente-se que o Juízo, na sentença condenatória, ao levar em conta três circunstâncias judiciais negativas, fixou a pena-base em 30 anos de reclusão, ante o piso de 24 e o teto de 30 anos de reclusão. Não se vislumbra desproporcionalidade no cômputo. Com efeito, o Código Penal não estabelece regras aritméticas objetivas para a fixação da pena. Esta, consoante disposto no art. 59 do referido Código, deve ser necessária e suficiente para a reprovação e a prevenção do crime, sobressaindo o aspecto qualitativo, em detrimento do aritmético.
+
+13. A conclusão está em harmonia com a jurisprudência desta Corte, conforme demonstram os seguintes precedentes:
+
+“AGRAVO REGIMENTAL EM HABEAS CORPUS. PENAL. PENA-BASE. PACIENTE CONDENADO POR CRIME DE RESPONSABILIDADE DE PREFEITO MUNICIPAL (ART. 1º, XIV, DO DECRETO-LEI N. 201/1967). INVIABILIDADE DE REEXAME DOS FUNDAMENTOS APONTADOS PELO JUIZ NATURAL DA CAUSA A PARTIR DO SISTEMA TRIFÁSICO. SANCIONAMENTO ADEQUADO E PROPORCIONAL AO CASO EM APREÇO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – A orientação jurisprudencial deste Supremo Tribunal Federal firmou-se no sentido de que somente em situações excepcionais é admissível o reexame dos fundamentos da dosimetria da pena fixada pelo juiz natural da causa a partir do sistema trifásico. Precedentes. II – No caso sob exame, houve fundamentação adequada para a valoração negativa das circunstâncias judiciais (art. 59 do CP) apontadas na sentença condenatória e no acórdão de segundo grau, bem como para a escolha da fração de exasperação operada na primeira fase da dosimetria, que levou em conta justamente o maior grau de censurabilidade da conduta do acusado, a partir de quatro dos oito vetores previstos no art. 59 do Código Penal, quais sejam: culpabilidade, motivos, circunstâncias e consequências do crime. III – Seria inviável, na via do habeas corpus, refutar os fundamentos utilizados pelas instâncias antecedentes para exasperar a reprimenda do acusado. Este remédio constitucional não se presta para fazer juízo de valor sobre os aspectos fáticos utilizados no acórdão impugnado para dosar a reprimenda do paciente. IV – Não se vislumbra, nesse contexto, nenhuma ilegalidade ou teratologia no ato impugnado que justifique a atuação deste Supremo Tribunal Federal, especialmente porque a pena estabelecida em segundo grau de jurisdição (1 ano, 3 meses e 25 dias, num intervalo que varia de 3 meses a 3 anos de detenção) encontra-se proporcional ao caso em apreço, em que se analisa condenação pela prática do crime de responsabilidade de prefeito municipal (art. 1º, XIV, do Decreto-Lei n. 201/1967). V – Agravo regimental a que se nega provimento.”
+(HC nº 231.734-AgR/MS, Rel. Min. Cristiano Zanin, Primeira Turma, j. 24/10/2023, p. 26/10/2023; grifos nossos).
+
+“AGRAVO REGIMENTAL EM HABEAS CORPUS. PENAL. HOMICÍDIO. DOSIMETRIA DA PENA. EXASPERAÇÃO DA PENA-BASE. CONSEQUÊNCIAS DO CRIME. AUSÊNCIA DE ILEGALIDADE. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+(HC nº 207.842-AgR/PR, Rel. Min. Cármen, Primeira Turma, j. 06/12/2021, p. 10/12/2021; grifos nossos).
+
+“Ementa: AGRAVO REGIMENTAL EM HABEAS CORPUS. PENAL. PACIENTE CONDENADO PELO CRIME DE ORGANIZAÇÃO CRIMINOSA ARMADA E TRANSNACIONAL (ART. 2º, CAPUT e §§ 2º, 3º e 4º, V, DA LEI 12.850/2013). INVIABILIDADE DE REEXAME DOS FUNDAMENTOS APONTADOS PELO JUIZ NATURAL DA CAUSA A PARTIR DO SISTEMA TRIFÁSICO. PENA-BASE ADEQUADA E PROPORCIONAL AO CASO EM APREÇO. INEXISTÊNCIA DE VIOLAÇÃO DO PRINCÍPIO DA CORRELAÇÃO OU CONGRUÊNCIA NA APLICAÇÃO DA AGRAVANTE DO § 3º DO ART. 2º DA LEI 12.850/2013. REINCIDÊNCIA CORRETAMENTE DEMONSTRADA POR DOCUMENTOS IDÔNEOS CONSTANTES DOS AUTOS. NÃO OCORRÊNCIA DE BIS IN IDEM. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – A orientação jurisprudencial desta Suprema Corte firmou-se no sentido de que somente em situações excepcionais é admissível o reexame dos fundamentos da dosimetria da pena fixada pelo juiz natural da causa a partir do sistema trifásico. II – Houve motivação adequada para a valoração negativa das circunstâncias judiciais (art. 59 do CP) apontadas na sentença condenatória, com as adequações procedidas pelo Tribunal Regional Federal da 3ª Região – TRF3, bem como para a escolha da fração de exasperação operada na primeira fase da dosimetria, que levou em conta o maior grau de censurabilidade da conduta do paciente, a partir da sua personalidade negativa e das consequências do crime. III – É inviável, na via do habeas corpus, refutar os fundamentos utilizados pelas instâncias antecedentes para exasperar a reprimenda do acusado. Este remédio constitucional não se presta para fazer juízo de valor sobre os aspectos fáticos utilizados no acórdão questionado para dosar a reprimenda do paciente.  (...) IX – Agravo regimental a que se nega provimento.“
+(HC nº 204.651-AgR/SP, Rel. Min. Ricardo Lewandowski, Segunda Turma, j. 22/08/2021, p. 31/08/2021; grifos nossos).
+
+14. Tendo em vista a jurisprudência do Supremo Tribunal Federal, e não sendo caso de concessão da ordem de ofício, o processo deve ser extinto sem resolução de mérito.
+
+15. Ante o exposto, nego seguimento ao recurso ordinário em habeas corpus, com base no art. 21, § 1º, do RISTF.
+
+Publique-se.
+
+Brasília, 1º de julho de 2026.
+
+Ministro ANDRÉ MENDONÇA
+Relator
