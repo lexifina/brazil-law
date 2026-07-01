@@ -1,0 +1,79 @@
+DECISÃO
+Cuida-se de agravo interposto por MARIA DA GLÓRIA OLEGÁRIO - ESPÓLIO e OUTROS contra decisão que obstou a subida de recurso especial.
+A parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO assim ementado (fl. 4.199):
+DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO REIVINDICATÓRIA. MATRÍCULA IMOBILIÁRIA SEM CORRESPONDÊNCIA FÍSICA. INDEFERIMENTO DE PROVA TESTEMUNHAL. HONORÁRIOS ADVOCATÍCIOS. ILEGITIMIDADE RECURSAL DE ADVOGADOS DESTITUÍDOS. RECURSO DOS AUTORES NÃO PROVIDO. RECURSO DOS ADVOGADOS NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Apelações cíveis interpostas contra sentença que julgou improcedente ação reivindicatória relativa a imóvel rural de 4.202 ha e 6.000 m  (matrícula nº 1.991 do CRI de Chapada dos Guimarães/MT), condenando os autores ao pagamento de custas e honorários advocatícios fixados por equidade em R$ 50.000,00. Os autores alegam cerceamento de defesa e domínio anteriormente reconhecido. Os advogados requerem majoração da verba honorária com base no valor da causa (R$ 90.000.000,00).
+II. QUESTÃO EM DISCUSSÃO
+1. Há três questões em discussão: (i) definir se o indeferimento da prova testemunhal e a validade do laudo pericial configuram cerceamento de defesa; (ii) estabelecer se a matrícula nº 1.991 tem correspondência física que permita a reivindicação; (iii) apurar se é legítimo o pedido de majoração de honorários por advogados destituídos do mandato.
+III. RAZÕES DE DECIDIR
+1. O indeferimento de prova testemunhal não configura cerceamento de defesa quando o juízo fundamentadamente entende que os elementos documentais e periciais já são suficientes à formação do convencimento (art. 370 do CPC).
+2. A matrícula nº 1.991 foi aberta com base em erro cartorial, descrevendo área fisicamente inexistente e sobreposta a propriedades vizinhas, o que inviabiliza a procedência da ação reivindicatória.
+3. O reconhecimento de domínio em ação anterior não supre a necessidade de correspondência física da matrícula para efeito de imissão na posse, sendo imprescindível a existência de área real e identificável. Advogados destituídos do mandato não possuem legitimidade para recorrer com o fim de majorar honorários sucumbenciais nos próprios autos, devendo postular eventual direito por meio de ação autônoma.
+IV. DISPOSITIVO E TESE
+1 Recurso dos autores não provido. Recurso dos advogados não conhecido por ilegitimidade recursal.
+Rejeitados os embargos de declaração opostos (fls. 4.290-4.299).
+No recurso especial, a parte recorrente alega ofensa ao art. 489, § 1º, I ao VI, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz que o acórdão contrariou o disposto nos arts. 5º, incisos XXII, XXXV, XXXVI, XL, LIV, LV e LXXVIII, e 93, inciso IX, da Constituição Federal; nos arts. 7º, 9º, 10, 11, 370, §§ 2º e 3º, e 538, todos do Código de Processo Civil, c/c o art. 1.228 do Código Civil.
+Sustenta cerceamento do contraditório e da ampla defesa, pois o Juízo de origem teria proferido julgamento sem oportunizar manifestação adequada sobre o laudo e sem cumprir o despacho saneador que organizou a instrução processual.
+Sustenta, ainda, que o despacho saneador de 30/9/2020 delimitou pontos controvertidos, deferiu prova pericial e determinou designação de audiência. A sentença foi proferida sem observância integral dessas etapas, contrariando a estabilidade do saneamento e os comandos de organização do processo.
+Afirma que requereu perícia completa com "plotagem" e confronto da cadeia dominial dos réus, inclusive documentos do INTERMAT (Instituto de Terras de Mato Grosso), para apurar sobreposições. O julgamento teria sido antecipado sem complementação da prova técnica necessária.
+Alega que o perito não respondeu conclusivamente aos quesitos, emitiu opiniões além dos limites da designação, e não realizou a "segunda fase" da perícia para confronto das cadeias dominiais e plotagem dos títulos dos réus. O laudo teria sido homologado sem abertura de contraditório sobre impugnações e sem esclarecimentos, caracterizando cerceamento.
+Sustenta nulidade absoluta de transcrições e escrituras (p. ex., Transcrição n. 505 e n. 54.003) por afronta à continuidade registral e por terem sido lavradas sob argumento inválido (inclusive após vigência da Lei n. 6.015/1973) ou com vício de impossibilidade (outorgantes falecidos).
+Afirma titularidade, individualização por marcos naturais, e posse injusta dos réus, de modo que a reivindicatória deveria prosperar; o indeferimento sem a prova técnica completa viola o poder de sequela e a tutela do domínio.
+Alega ter cumprido seu ônus com documentos públicos e requerem a instrução adequada para apurar origem e autenticidade dos títulos dos réus. A ausência de exame pericial específico sobre falsidade/continuidade teria violado tais regras.
+Alega, ainda, afronta à proporcionalidade, razoabilidade, legalidade, eficiência e duração razoável do processo, por julgamento açodado sem a devida instrução e sem enfrentamento dos pontos controvertidos.
+Aponta divergência jurisprudencial.
+Foram oferecidas contrarrazões ao recurso especial (fls. 4.473-4.479).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 4.481-4.484), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 4.565-4.576).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A controvérsia está em definir a existência e a localização da área descrita na matrícula n. 1.991 (Fazenda Buriti) e apurar se há sobreposição com as terras dos recorridos e se os títulos destes derivam da mesma cadeia dominial, à luz da continuidade registral. Também envolve o impacto do cancelamento da matrícula n. 1.991 e das alegadas nulidades/irregularidades registrárias (transcrições e escrituras) na cadeia dominial do imóvel dos recorrentes somada à insurgência contra o julgamento sem a "segunda fase" da perícia prevista no saneador, com alegado cerceamento do contraditório e da ampla defesa.
+Inicialmente, não há falar em ofensa ao art. 489 do CPC, uma vez que o Tribunal de origem, ao negar provimento à apelação dos ora recorrentes, fundamentou o acórdão nos seguintes termos (fls. 4.191-4.192; 4.201-4.202):
+No mérito, os autores arguem que a propriedade e o domínio do imóvel objeto do feito foi reconhecido na Ação de Nulidade de Ato Jurídico nº 0001045-69.2001.8.11.0051, cabendo unicamente nesta Ação, a imissão na posse.
+Contudo, conforme restou vastamente comprovado no laudo pericial, a matrícula n. 1.991 foi aberta com base em transcrição registral equivocada, abrangendo área superior à efetivamente herdada por Moacyr Pereira Borges e não há área física correspondente a essa matrícula, inviabilizando a imissão uma vez que haveria sobreposição com os imóveis dos réus, além de não existir posse anterior dos autores, elemento essencial para a procedência da ação.
+Eis alguns itens que se destaca do laudo (Id n. 214484633) e da complementação (Id n. 214489162):
+"A matrícula nº 1.991 foi aberta com base em transcrição registral equivocada, abrangendo área superior à efetivamente herdada por Moacyr Pereira Borges e não há área física correspondente a essa matrícula, inviabilizando a imissão uma vez que haveria sobreposição com os imóveis dos réus, além de não existir posse anterior dos autores, elemento essencial para a procedência da ação."
+ ..
+O juízo de origem deferiu ampla produção de prova pericial, que foi realizada com apresentação de laudo principal e complementar, ambos analisando a cadeia dominial e concluindo que a matrícula nº 1.991 descreve imóvel fisicamente inexistente.
+As impugnações apresentadas pelos autores não demonstraram vício técnico capaz de invalidar o trabalho do perito, que apresentou resposta a todos os quesitos necessários para a compreensão da controvérsia.
+Ao julgador é conferida a análise da necessidade da oitiva de testemunhas, sendo lícito o indeferimento quando os autos estão instruídos com documentos e laudo pericial suficientes para o julgamento.
+ ..
+Diante disso, rejeito a preliminar.
+ ..
+Quanto aos honorários advocatícios, no julgamento do Tema 1076/STJ, definiu-se que "i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória, nesses casos, a observância dos percentuais previstos nos §§ 2º ou 3º do art. 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo".
+E complementou no acórdão dos embargos de declaração (fl. 4.299):
+O Espólio sustenta nulidades e omissões, em especial quanto ao contraditório no laudo pericial, cerceamento de defesa pela ausência de segunda fase da perícia, princípio da continuidade registral, distribuição do ônus da prova e erro material na referência à matrícula.
+Entretanto, o acórdão embargado enfrentou amplamente essas matérias e afastou a preliminar de cerceamento de defesa, com base no art. 370 do CPC, ao considerar suficientes as provas documental e pericial produzidas.
+Analisou expressamente a matrícula nº 1.991, concluindo tratar-se de registro cartorial sem correspondência física, o que inviabiliza a procedência da ação.
+Apreciou a cadeia dominial e a inexistência de posse anterior dos autores.
+Definiu a distribuição dos honorários conforme Tema 1076/STJ, majorando-os nos termos do art. 85, §11, do CPC.
+Não se verifica, portanto, qualquer omissão ou contradição. A alegação de erro material também não procede, pois a constatação de inexistência física da matrícula é questão de mérito, já decidida.
+No tocante aos advogados associados, alegam nulidade absoluta e omissões na apreciação de suas impugnações, além de contradição entre fundamentos e conclusão.
+Contudo, o acórdão também enfrentou a questão dos honorários advocatícios, reconhecendo a impossibilidade de fixação por equidade em causas de elevado valor e determinando a aplicação dos percentuais previstos em lei.
+Eventuais controvérsias sobre legitimidade recursal e direito autônomo à verba sucumbencial foram igualmente tratadas, inexistindo omissão ou contradição.
+Assim, verifica-se que ambos os embargos traduzem mero inconformismo com o julgamento, pretendendo rediscutir matéria já analisada, o que não se coaduna com a finalidade dos Embargos de Declaração, restrita aos vícios do art. 1.022 do CPC.
+E, este Recurso não se presta ao fim único e exclusivo de prequestionar ou reapreciar assunto já examinado, com o pretexto de admissibilidade para futura interposição na instância superior.
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+Quanto à alegada violação dos artigos 5º, incisos XXII, XXXV, XXXVI, XL, LIV, LV e LXXVIII, e 93, IX, da Constituição Federal, cumpre registrar que a análise de eventual afronta a dispositivos constitucionais é de competência exclusiva do Supremo Tribunal Federal, nos termos do art. 102, III, da Carta Magna, sendo vedada sua apreciação em recurso especial.
+Quanto à alegação de afronta aos arts. 11 e 370, §§ 2º e 3º, do CPC, o recurso não comporta conhecimento, visto que a recorrente limitou-se a enumerar os artigos de lei que entende violados sem, todavia, cotejar e explicitar os motivos pelos quais o comando normativo deixou de ser aplicado, o que também atrai os preceitos da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, cito:
+2. A alegação genérica de ofensa à lei, sem indicação clara dos motivos pelos quais a norma teria sido malferida esbarra na Súmula n. 284 do STF.
+(AgInt no AREsp n. 2.254.455/RJ, relator Ministro Moura Ribeiro, Terceira Turma, DJEN de 20/2/2025.)
+4. A parte agravante limita-se a reiterar argumentos genéricos, sem demonstrar, de maneira clara e objetiva, a violação de norma federal ou o desacerto da interpretação conferida pela instância inferior, o que configura deficiência de fundamentação e justifica o não conhecimento do recurso, à luz da Súmula 284/STF.
+(AgInt no AREsp n. 2.865.858/PE, relatora Ministra Daniela Teixeira, Terceira Turma, DJEN de 26/6/2025.)
+1. É inadmissível o recurso especial que não indica, de forma clara e objetiva, como o acórdão recorrido teria contrariado os dispositivos apontados como violados, caracterizando-se a deficiência de fundamentação da Súmula nº 284/STF.
+(AgInt no AREsp n. 2.474.913/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 25/9/2024.)
+Nos termos da jurisprudência pacífica do STJ, é inviável o conhecimento do recurso especial quando os artigos tidos por violados não foram apreciados pelo Tribunal de origem.
+Conforme se extrai dos autos, o art. 538 do CPC, apontado como violado, e a tese a ele vinculada não foi prequestionado, incidindo o óbice das Súmulas 211/STJ e 282/STF.
+Ressalta-se que, na instância especial, a apreciação de ofício de matéria, mesmo de ordem pública, não dispensa o requisito do prequestionamento (AgInt nos EAREsp n. 1.327.393/MA, relator Ministro Felix Fischer, Corte Especial, DJe de 18/12/2020).
+O Tribunal de origem concluiu que a prova pericial (laudo principal e complementar) demonstrou a inexistência física do imóvel descrito na matrícula n. 1.991, sendo suficiente para rejeitar o cerceamento de defesa e julgar improcedente a ação reivindicatória, como se pode depreender do seguinte trecho extraído do acórdão recorrido (fls. 4.201-4.202):
+O juízo de origem deferiu ampla produção de prova pericial, que foi realizada com apresentação de laudo principal e complementar, ambos analisando a cadeia dominial e concluindo que a matrícula nº 1.991 descreve imóvel fisicamente inexistente. As impugnações apresentadas pelos autores não demonstraram vício técnico capaz de invalidar o trabalho do perito, que apresentou resposta a todos os quesitos necessários para a compreensão da controvérsia." (fl. 4.201)
+"Conforme restou vastamente comprovado no laudo pericial, a matrícula n. 1.991 foi aberta com base em transcrição registral equivocada  e não há área física correspondente a essa matrícula, inviabilizando a imissão  além de não existir posse anterior dos autores (fl. 4.202).
+Afastar o referido entendimento para concluir no sentido de que existe área física correspondente à matrícula n. 1.991 e que se impõe a complementação da perícia (segunda fase com confronto e plotagem dos títulos), com consequente procedência da reivindicatória, como pretende o recorrente, demandaria o reexame do material fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+Quanto à interposição pela alínea "c" do permissivo constitucional, verifica-se que não houve demonstração da divergência nos moldes legais, tendo em vista que a parte recorrente limitou-se a transcrever as ementas e não realizou o devido cotejo analítico, conforme previsto nos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ, atraindo o óbice da Súmula n. 284/STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados para R$ 52.500,00 .
+Publique-se. Intimem -se.
+ EMENTA
