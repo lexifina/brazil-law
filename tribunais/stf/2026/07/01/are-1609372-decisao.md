@@ -1,0 +1,24 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado pela União, em face do acórdão do Tribunal Regional Federal da Primeira Região assim ementado:
+
+“AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. AÇÃO COLETIVA N° 0006306-43.2016.4.01.3400/DF. RMS 25.841/DF PARCELA AUTÔNOMA DE EQUIVALÊNCIA - PAE. AÇÃO ORDINÁRIA DE COBRANÇA VISANDO AO PAGAMENTO DE PARCELAS PRETÉRITAS A EX-JUÍZES CLASSISTAS HAVIAM PREENCHIDO OS REQUISITOS PARA A APOSENTADORIA NO CARGO. ASSOCIADO ABRANGIDO PELOS EFEITOS DO RMS 25.841/STF E BENEFICIÁRIO, PORTANTO, DOS EFEITOS DO ACÓRDÃO TRANSITADO EM JULGADO NA AÇÃO COLETIVA N. 0006306- 43.2016.4.01.3400/DF. PRESCRIÇÃO QUINQUENAL INEXISTENTE. PASSIVO DEVIDO. ATUALIZAÇÃO PELO MANUAL DE CÁLCULO DA JUSTIÇA FEDERAL. PRESUNÇÃO DE CERTEZA, VERACIDADE E LEGITIMIDADE, NÃO AFASTADA PELA AGRAVANTE. AGRAVO DE INSTRUMENTO IMPROVIDO.” (Agravo de instrumento nº  1011731-68.2024.4.01.0000, 2ª Turma do Tribunal Regional Federal da 1ª Região, Rel. Des. Rui Gonçalves, j. 13.05.25)
+
+Na minuta, sustenta-se violação dos arts. 5º, XXI e XXXVI, 100, caput, §§ 1º, 3º e 5º, da Constituição da República. Argumenta-se, em síntese, que “[...] o acórdão recorrido negou provimento ao agravo de instrumento da União, sem apreciar os argumentos que versam sobre a impossibilidade de expedição de requisições de pagamento, neste momento processual. Com isso, há inegável violação a dispositivos constitucionais que regem a sistemática dos precatórios.”
+É o relatório.
+Decido.
+O recurso não comporta seguimento.
+Da análise dos autos, verifica-se que o Tribunal de origem inadmitiu o recurso extraordinário com base na possível perda superveniente de objeto, em razão da comprovação do cancelamento do precatório, e pela deficiência da demonstração da repercussão geral.
+Contudo, a parte recorrente não impugnou, nas razões do agravo, o fundamento referente à perda superveniente de objeto, alegando matéria desconexa ao presente caso, nos seguintes termos “[...] o Tribunal de origem conferiu indevida ampliação subjetiva do título judicial, estendendo os seus efeitos a quem não integrou a relação processual de origem, o que implica ofensa direta à norma constitucional que disciplina a legitimação extraordinária das associações para defesa de seus filiados. Essa interpretação, além de desbordar dos limites fixados pelo título executivo, viola o princípio da segurança jurídica e o modelo constitucional de tutela coletiva de direitos, cuja legitimação deve ser estritamente observada, sob pena de nulidade dos atos executivos daí decorrentes.”. Aplicável, na hipótese, o entendimento jurisprudencial vertido na Súmula nº 287/STF: “nega-se provimento ao agravo, quando a deficiência na sua fundamentação, ou na do recurso extraordinário, não permitir a exata compreensão da controvérsia”. Anoto precedentes:
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL. PROCESSO PENAL. PRESCRIÇÃO. ORGANIZAÇÃO CRIMINOSA, ROUBO MAJORADO, LATROCÍNIO TENTADO, DANO, RECEPTAÇÃO, INCÊNDIO, EXPLOSÃO E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO. DEMONSTRAÇÃO INSUFICIENTE DA PRELIMINAR DE REPERCUSSÃO GERAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO E DA DECISÃO MONOCRÁTICA DO RECURSO EXTRAORDINÁRIO COM AGRAVO: SÚMULA N. 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL DESPROVIDO.” (ARE 1470276 AgR, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 06.03.2024)
+
+“AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DECISÃO DE INADMISSÃO DO RECURSO EXTRAORDINÁRIO. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ENUNCIADO N. 287 DA SÚMULA DO SUPREMO. VERBA HONORÁRIA. ART. 85, § 11, DO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO CABÍVEL. 1. É inviável o agravo que deixa de atacar especificadamente os fundamentos da decisão de inadmissibilidade de recurso extraordinário. Incidência do enunciado n. 287 da Súmula do Supremo. 2. Majora-se em 1% (um por cento) a verba honorária fixada na origem, observados os limites impostos. Disciplina do art. 85, §§ 2º, 3º e 11, do Código de Processo Civil. 3. Agravo interno desprovido.” (ARE 1438315 AgR, Rel. Min. Nunes Marques, 2ª Turma, 08.03.2024)
+
+ Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+
+Brasília, 1º de julho de 2026.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
