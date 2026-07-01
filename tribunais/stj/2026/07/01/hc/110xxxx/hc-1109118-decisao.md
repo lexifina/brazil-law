@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de RAIMUNDO NONATO DA SILVA, condenado pelo crime previsto no art. 14 da Lei n. 10.826/2003, à pena de 2 anos e 6 meses de reclusão, em regime inicial semiaberto (Processo n. 4400164-76.2026.8.13.0713, da Vara de Execuções Penais da comarca de Viçosa/MG).
+Os impetrantes apontam como autoridade coatora o Desembargador do Tribunal de Justiça do Estado de Minas Gerais, que, em 19/6/2026, indeferiu o pedido liminar formulado no HC n. 1.0000.26.422958-4/000 (fls. 14/16).
+Alega violação direta à Súmula Vinculante n. 56 do Supremo Tribunal Federal, pois o paciente estaria cumprindo pena em condições equiparadas ao regime fechado por inexistência de estabelecimento adequado ao semiaberto na comarca, configurando excesso de execução e afronta aos princípios da legalidade, da individualização da pena e da dignidade da pessoa humana.
+Sustenta tese específica sobre o trabalho externo no regime semiaberto: a desnecessidade do cumprimento de 1/6 da pena como requisito objetivo, por se tratar de elemento estruturante do regime, afirmando que a negativa de trabalho externo pelo juízo da execução - fundada na literalidade do art. 37 da Lei n. 7.210/1984 - contraria jurisprudência consolidada do Superior Tribunal de Justiça e do Supremo Tribunal Federal.
+Defende a superação do óbice da Súmula 691 do Supremo Tribunal Federal, em razão de flagrante ilegalidade e teratologia, com referência a precedentes que admitem mitigação excepcional do enunciado sumular quando evidenciados abuso de poder ou ilegalidade manifesta.
+Em caráter liminar, pede a concessão de prisão domiciliar com monitoramento eletrônico ou, subsidiariamente, a imediata autorização para trabalho externo. No mérito, requer a concessão definitiva da ordem, cassando a decisão monocrática no HC n. 1.0000.26.422958-4/000, e determinando o cumprimento da pena em regime compatível com o semiaberto, observando a Súmula Vinculante n. 56, com autorização de trabalho externo sem o requisito de 1/6 da pena.
+É o relatório.
+Na espécie, aplica-se o enunciado da Súmula 691/STF, observado também por esta Corte, segundo o qual não cabe habeas corpus contra o indeferimento de pedido liminar formulado no Tribunal a quo.
+Com efeito, as questões trazidas na impetração não foram ainda enfrentadas pelo colegiado competente, não se admitindo a pretendida supressão de instância.
+Esse posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada dos autos a configuração de flagrante ilegalidade ou abuso de poder, o que não ocorreu no caso em tela, diante das particularidades mencionadas no decisum impugnado.
+A decisão apontada como coatora indeferiu a liminar por não vislumbrar, em exame sumário, a concomitância de periculum in mora e fumus boni iuris, determinando a requisição de informações e posterior manifestação ministerial, ante a necessidade de análise mais detida da matéria e risco de ofensa ao princípio da unirrecorribilidade (fls. 14/16).
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. PRISÃO PREVENTIVA. INCOMPATIBILIDADE COM O REGIME SEMIA BERTO. POSSIBILIDADE DE TRABALHO EXTERNO. WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU PEDIDO LIMINAR NO TRIBUNAL DE ORIGEM. SÚMULA 691/STF. INCIDÊNCIA. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE.
+Habeas corpus indeferido liminarmente.
