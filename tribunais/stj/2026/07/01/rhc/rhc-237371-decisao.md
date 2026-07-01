@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto por JOAO PEDRO BRAITE MARCHIORI em face de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que denegou a ordem no HC n. 2382222-44.2025.8.26.0000.
+Depreende-se dos autos que o recorrente foi preso em flagrante, tendo sido convertido o flagrante em prisão preventiva e já foi denunciado pela prática, em tese, do delito tipificado no artigo 33, caput, da Lei Antidrogas.
+Daí a interposição do presente recurso em habeas corpus, buscando a concessão da ordem para: (i) "Reconhecer a nulidade da abordagem policial em razão da ausência de fundada suspeita, declarando-se ilícitas todas as provas produzidas a partir da busca pessoal irregular, determinando-se o desentranhamento dos elementos maculados e, em consequência, o trancamento da ação penal, nos termos dos artigos 157, 240, 244 e 564, IV, todos do Código de Processo Penal"; (ii) "Reconhecer a atipicidade material da conduta, aplicando-se o entendimento firmado pelo Supremo Tribunal Federal no RE 635.659 (Tema 506), diante da posse de apenas 6 gramas de maconha, quantidade que atrai a presunção de uso pessoal e afasta qualquer configuração típica"; e (iii) "Subsidiariamente, que seja revogada a prisão preventiva, por ausência de fundamentação concreta e por inexistência dos requisitos do artigo 312 do CPP, aplicando-se, se necessário, qualquer das medidas cautelares diversas previstas no artigo 319 do CPP, com a consequente expedição de alvará de soltura" (fl. 159).
+As informações foram devidamente prestadas (fls. 177-180 e 188-190).
+O Ministério Público Federal opinou pela perda do objeto (fls. 193-195).
+É o relatório. DECIDO.
+A controvérsia dos autos gira em torno de possível ilegalidade flagrante; atipicidade material da conduta; e, subsidiariamente, revogação da prisão preventiva.
+O presente recurso em habeas corpus está parcialmente prejudicado.
+Com efeito, constou das informações prestadas pelo Tribunal de origem que (fl. 178):
+ ..  Por decisão datada de 05 de fevereiro de 2026, foi recebida à denúncia e designada audiência de instrução, debates e julgamento para o dia 27 de março de 2026 (fls. 140/144).
+Em 27 de março de 2026, realizada audiência de instrução, debates e julgamento, onde inquiridas três testemunhas e interrogado o réu (fls. 228/230).
+Por sentença datada de 30 de março de 2026, a ação penal foi julgada procedente e o paciente foi condenado ao cumprimento de pena de 05 (cinco) anos de reclusão em regime inicial fechado e pagamento de 500 (quinhentos) dias-multa, no valor unitário mínimo legal (fls. 232/237), sem direito de recurso em liberdade.  ..  (grifei)
+Constata-se, portanto, que a realidade fática apresentada na inicial do presente recurso em habeas corpus encontra-se alterada pela decisão superveniente proferida que julgou o mérito da ação penal, condenando o ora recorrente.
+O parecer do MPF também consignou a prejudicialidade do recurso em habeas corpus (fl. 194):
+Verifica-se por informações requisitadas e prestadas pelo juízo singular de piso competente que "Por sentença datada de 30 de março de 2026, a ação penal foi julgada procedente e o paciente foi condenado ao cumprimento de pena de 05 (cinco) anos de reclusão em regime inicial fechado e pagamento de 500 (quinhentos) dias-multa, no valor unitário mínimo legal (fls. 232/237), sem direito de recurso em liberdade" (fl. 178), o que torna absolutamente despiciendo este pleito defensivo, por superveniente perda de seu objeto e interesse processual.
+Dessarte, ante a nova realidade, eventual discordância deverá ser, agora, questionada por recurso próprio, observando-se a dialeticidade apropriada ao ato judicial proferido.
+Aplica-se, assim, o entendimento da Súmula 648, STJ, que diz: "A superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito em habeas corpus".
+De toda forma, no que tange à questão da nulidade, trago à colação o acórdão de origem (fl. 130):
+A princípio, diante das circunstâncias narradas, não se verifica qualquer ilicitude na apreensão das drogas, tendo os agentes públicos destacado que o paciente já era conhecido nos meios policiais pela prática de tráfico e, ao notar a viatura, tentou se esconder, abaixando-se dentro do veículo, a indicar a existência de fundadas suspeitas para a abordagem.
+Tampouco é patente a configuração da conduta de posse de drogas para uso pessoal (Tese 506 de Repercussão Geral do C. STF), especialmente em vista da declaração do condutor do veículo, indicando que havia acabado de comprar uma das porções de maconha com o paciente.
+Cumpre ressaltar que incursões mais aprofundadas sobre a dinâmica dos fatos os questionamentos defensivos acerca da credibilidade da narrativa dos policiais não são passíveis de serem analisadas na estreita sede do habeas corpus, remédio constitucional de rito célere e que só admite a análise de provas pré-constituídas, pois acabaríamos por invadir o próprio mérito da ação penal ajuizada em desfavor do paciente.
+O embate de narrativas, evidentemente, deve ser esmiuçado ao longo da instrução probatória. (grifei)
+Como se observa, a situação narrada no acórdão representava realmente uma situação de flagrante delito, razão pela qual não se observa flagrante ilegalide nem mesmo neste aspecto.
+Ante o exposto, conheço em parte e, nesta, nego provimento ao recurso.
+Publique-se. Intimem-se
+ EMENTA
