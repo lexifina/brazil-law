@@ -1,0 +1,4 @@
+iNSTRUÇÃO NORMATIVA BCB Nº 750, DE 19 DE JUNHO DE 2026
+Altera a Instrução Normativa BCB nº 81 de 23 de fevereiro de 2021, que consolida os procedimentos para a remessa das informações relativas às apurações de limites e padrões regulamentares de que trata o art. 1º da Resolução BCB nº 69, de 10 de fevereiro de 2021, bem como as Instruções de preenchimento e o Leiaute do documento de código 2061 - Demonstrativo de Limites Operacionais – DLO, de que trata a referida Instrução Normativa.
+O Chefe do Departamento de Monitoramento do Sistema Financeiro – Desig, no uso da atribuição que confere o art. 23, inciso I, alínea “a”, do Regimento Interno do Banco Central do Brasil, anexo à Resolução BCB nº 340, de 21 de setembro de 2023, com base no art. 85, inciso I, alíneas “a” e “b”, do referido Regimento, e tendo em vista o disposto na Resolução CMN nº 5.223, de 30 de maio de 2025, e Resoluções BCB ns. 478, de 30 de maio de 2025, e 573, de 10 de junho de 2026,
+R E S O L V E:
