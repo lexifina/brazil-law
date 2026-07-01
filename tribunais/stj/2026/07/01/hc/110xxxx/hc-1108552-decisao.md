@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de ANDERSON HENRIQUE BRITO CANDIDO, recolhido na Unidade de Segurança Máxima de Francisco Sá e cumprindo pena (Processo n. 0160466-40.2015.8.13.0701, da Vara de Execuções Criminais de Francisco Sá/MG).
+A impetrante aponta como autoridade coatora o Tribunal de Justiça de Minas Gerais, que deu parcial provimento ao agravo defensivo, cassando a decisão que exigira exame criminológico com base exclusiva na Lei n. 14.843/2024 e determinando o retorno dos autos à origem para novo pronunciamento fundamentado, à luz das peculiaridades do caso concreto (Agravo de Execução Penal n. 1.0000.26.180544-4/001).
+Alega que o paciente cumpre pena por fatos anteriores à alteração normativa que passou a exigir exame criminológico para a progressão de regime. Além disso, ao determinar a realização do referido exame, o juízo de primeira instância não apresentou fundamentação adequada. O próprio Tribunal reconheceu essa ausência de motivação, o que evidencia a ilegalidade do ato. Contudo, em vez de anular a decisão, limitou-se a determinar a expedição de ofício ao magistrado (fl. 4).
+Sustenta que a redação trazida pela lei 14.843/2024, não deverá ser aplicada aos condenados que estão cumprindo pena por fatos anteriores a nova legislação (fl. 5), devendo o pedido de progressão de regime ser analisado sem o exame criminológico.
+Defende que o paciente preencheu requisitos para a progressão e que a morosidade estatal para realizar o exame configura constrangimento ilegal.
+Em caráter liminar, pede a progressão de regime sem o exame criminológico; no mérito, requer a declaração do constrangimento ilegal pela morosidade e a progressão para o semiaberto (fls. 2/6).
+É o relatório.
+A concessão de ordem de habeas corpus demanda a demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico a inviabilidade do presente writ.
+O Tribunal de Justiça deu parcial provimento ao agravo de execução interposto pelo sentenciado, determinando o retorno dos autos para nova avaliação (fls. 27/28):
+Assim, ainda que afastada a aplicação imediata da nova lei, incumbia ao Juízo da execução apreciar, de modo fundamentado, a pertinência da prova técnica requerida pelo Ministério Público, indicando, com base em elementos concretos dos autos, as razões pelas quais as circunstâncias específicas do reeducando justificariam a medida.
+Ocorre que a decisão agravada não procedeu dessa forma. Ao deferir o pedido ministerial, o magistrado de origem fundamentou-se, preponderantemente, na nova redação legal e em ementa jurisprudencial de caráter genérico, sem examinar, de modo expresso e individualizado, os elementos do histórico executório do sentenciado que, em tese, poderiam justificar a submissão ao exame.
+Não obstante as particularidades apontadas pelo órgão ministerial, que, em tese, poderiam justificar a submissão do reeducando à avaliação técnica especializada, antes da manifestação deste Tribunal, tais elementos precisam ser previamente submetidos ao crivo do magistrado da execução, sob pena de supressão de instância.
+Nessas condições, impõe-se o retorno dos autos à origem para que o Juízo singular aprecie, de forma expressa e fundamentada, a necessidade do exame criminológico nos moldes admitidos antes da Lei n. 14.843/2024, com base nas peculiaridades do caso concreto.
+A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que o julgador, antes de apreciar o pedido de progressão de regime, pode determinar a submissão do apenado a exame criminológico, desde que o faça de forma fundamentada, nos termos da Súmula n. 439/STJ (HC n. 505.302/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 1º/7/2019; e AgRg no HC n. 469.499/SP, Ministra Laurita Vaz, Sexta Turma, DJe 5/4/2019).
+No presente caso, a impetração se insurge contra a decisão que determinou o retorno dos autos à origem para reavaliação do pedido, após afastar fundamentação reputada inidônea. Não se vislumbra flagrante ilegalidade, pois o Tribunal afastou a exigência do exame, determinando a reavaliação da medida, que pode importar em fundamentos concretos para realização do exame criminológico ou dispensá-lo.
+Ausente flagrante ilegalidade a ser sanada.
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. SÚMULA 439/STJ. FUNDAMENTAÇÃO INIDÔNEA. FUNDAMENTAÇÃO REVOGADA. AUTOS DEVOLVIDOS À ORIGEM. POSSIBILIDADE.
+Petição inicial indeferida liminarmente.
