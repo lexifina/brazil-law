@@ -1,0 +1,5 @@
+DECISÃO
+Por meio da petição de fls. 647-652, o Município de Porto informa que "o Superior Tribunal de Justiça concluiu o julgamento do recurso especial ao negar provimento ao agravo interno, exaurindo a competência desta Corte sobre a matéria infraconstitucional. (..) o art. 1.031, § 1º, do CPC determina que, concluído o julgamento do recurso especial, os autos sejam remetidos ao Supremo Tribunal Federal para apreciação do recurso extraordinário, se este não estiver prejudicado. (..) deve este Relator determinar o encaminhamento dos autos para apreciação do recurso extraordinário sobrestado, nos termos do art. 1.031, § 1º, do CPC. (..) Forte no exposto, requer o Município: a) RECONHECER o esgotamento da via especial e a incidência do art. 1.031, § 1º, do CPC, com o consequente ENCAMINHAMENTO dos autos para apreciação do recurso extraordinário" (fls. 648-651).
+Recebo, portanto, a presente petição como renúncia ao prazo recursal e determino à Coordenadoria que certifique o trânsito em julgado e providencie a baixa imediata dos autos à origem, para demais providências.
+Publique-se. Intimem-se.
+EMENTA
