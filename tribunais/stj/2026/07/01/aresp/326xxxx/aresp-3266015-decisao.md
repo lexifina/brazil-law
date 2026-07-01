@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de agravo interposto por EMANUEL DANTAS TONHECA BAKA contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CR, desafiando acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios (fls. 424-430 e 433-437).
+No recurso especial inadmitido, apontou violação aos artigos 155, caput, do Código Penal, e 33, § 2º, alínea c, do Código Penal (fls. 451-455 e 469-474).
+Pleiteou: a) a desclassificação do crime de roubo impróprio (art. 157, § 1º, do CP) para furto (art. 155, caput, do CP), sob alegação de ausência de violência ou grave ameaça para viabilizar a subtração ou assegurar a posse do bem, com aplicação do princípio do in dubio pro reo (fls. 469-473 e 490, item 51); b) subsidiariamente, a fixação do regime inicial aberto, por ofensa ao art. 33, § 2º, alínea c, do CP e aos princípios da proporcionalidade e individualização da pena (fls. 473-475 e 490, item 52).
+O recurso especial foi inadmitido na origem. Seguiu-se a interposição de agravo (fls. 523-553).
+O agravante alega, em síntese, a não incidência da Súmula 7/STJ por se tratar de mera revaloração jurídica de fatos incontroversos, sustentando a viabilidade de desclassificação para furto à luz do princípio do in dubio pro reo, além de pugnar pela fixação do regime aberto com fundamento no art. 33, § 2º, alínea c, do CP.
+Afirma ter impugnado especificamente os fundamentos da decisão agravada, invocando os arts. 21-E, V, e 253, I, do RISTJ e a Súmula 182/STJ, e busca afastar a Súmula 83/STJ mediante precedentes que reputa contemporâneos ou pertinentes (fls. 528-547).
+Em fls. 593-603 a defesa interpôs petição e alega que, em juízo, afirmou estar internado na Clínica Recanto (Brazlândia), encontrando-se à época em situação de rua e sob efeito de drogas. Sustenta a necessidade de instauração de incidente de insanidade mental, à luz dos arts. 149 e seguintes do Código de Processo Penal, com base em Relatório de Análise Funcional subscrito por médico especialista (Dr. Ricardo Caiado, CRP/01-16844), que aponta múltiplas patologias psiquiátricas e necessidade de acompanhamento intensivo, afirmando que o sistema prisional não está apto a acolher apenado com transtornos mentais graves e que o recorrente não tem condições psíquicas de suportar o aprisionamento.
+Invoca, ainda, a impossibilidade de produção probatória no STJ (Súmula 7), requerendo a remessa à origem para realização de perícia.
+Requer: a) a baixa dos autos ao Juízo de origem para a instauração de incidente de insanidade mental superveniente e a realização de exame pericial médico-legal; b) a suspensão do andamento processual, bem como do julgamento do agravo em recurso especial, até a solução da questão superveniente relativa à sanidade mental.
+É o relatório.
+Decido.
+Conforme constante da decisão agravada, o recurso especial foi inadmitido pelos seguintes óbices: i) incidência da Súmula 7/STJ quanto ao pedido de desclassificação, por demandar reexame do conjunto fático-probatório (fls. 512) e ii) aplicação da Súmula 83/STJ quanto ao regime inicial, por estar o acórdão recorrido em consonância com a orientação desta Corte.
+E ntretanto, a defesa deixou de impugnar adequadamente os referidos fundamentos .
+Essa omissão é importante porque a Corte Especial do STJ manteve o entendimento da necessidade de impugnação suficiente de todos os fundamentos da decisão agravada, sob pena de incidência da Súmula 182/STJ.
+Eis a ementa do precedente:
+"PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos".
+(EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator p/ Acórdão Ministro Luís Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+No agravo, a Defesa sustenta "mera revaloração jurídica" e cita precedentes, porém reconstrói a moldura fática para afirmar que a faca teria sido empunhada por medo, não para assegurar a detenção da coisa (fls. 538-541). Essa argumentação contraria, diretamente, as premissas fáticas firmadas pelo Tribunal local  confissão do réu quanto às ameaças, relatos da vítima e da testemunha, laudo e imagens que evidenciam uso da faca para assegurar a detenção do bem (fls. 434-436 e 428-430)  e busca substituir tais premissas por versão própria, o que revela a necessidade de revolvimento probatório, precisamente vedado pela Súmula 7/STJ.
+Nessa linha, não se configura impugnação específica, mas inconformismo genérico quanto ao óbice.
+No mesmo sentido:
+" ..
+1. Nas razões do agravo em recurso especial, não foram rebatidos, de modo específico e concreto, os fundamentos da decisão agravada relativos à aplicação das Súmulas n. 7 e 83, ambas do Superior Tribunal de Justiça, atraindo, à espécie, a incidência da Súmula n. 182 do Superior Tribunal de Justiça.
+2. No tocante à incidência da Súmula n. 7/STJ, a Agravante limitou-se a sustentar, genericamente, que as pretensões elencadas no apelo nobre envolvem mero debate jurídico, não demandando, assim, reexame de provas, sem explicitar, contudo, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas. Assim, não houve a observância da dialeticidade recursal, motivo pelo qual careceu de pressuposto de admissibilidade, qual seja, a impugnação efetiva e concreta aos fundamentos utilizados para inadmitir o recurso especial, no caso, a incidência da Súmula n. 7 do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido".
+(AgRg no AREsp n. 1.789.363/SP, relator Ministra Laurita Vaz, Sexta Turma, julgado em 2/2/2021, DJe de 17/2/2021.)
+" ..
+1. A falta de impugnação específica dos fundamentos utilizados na decisão ora agravada atrai a incidência do enunciado sumular n. 182 desta Corte Superior. Como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas ou à insistência no mérito da controvérsia.
+ ..
+11. Agravo regimental não conhecido".
+(AgRg no RHC n. 128.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/8/2020, DJe de 24/8/2020.)
+Seguindo, a Defesa sustenta, genericamente, a "não incidência" da Súmula 83/STJ e apresenta julgados que não guardam pertinência específica com o fundamento aplicado  como REsp n. 2.200.922/RS (18/6/2025), sobre reformatio in pejus na pena-base (fls. 545-546)  sem trazer precedentes contemporâneos ou supervenientes, em 2026, capazes de infirmar a orientação citada na decisão agravada quanto ao regime inicial diante de maus antecedentes. Tampouco demonstra distinção concreta entre os julgados referidos na decisão (fls. 512-513) e a hipótese dos autos.
+Afinal, esta Corte firmou o entendimento de que, "quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp n. 709.926/RS, relator Ministro Marco Aurélio Belizze, Terceira Turma, julgado em 18/10/2016, DJe de 28/10/2016), o que não ocorreu no caso destes autos.
+Por conseguinte, a Súmula 182/STJ impede que se passe ao mérito do agravo do art. 1.042 do CPC, o qual não supera o juízo de admissibilidade.
+No tocante a petição n. 664386/2026 em fls. 593-612 (e-STJ), a pretensão de instaurar incidente de insanidade mental, tal como apresentada diretamente nesta instância especial, igualmente, não comporta conhecimento, por importar supressão de instância.
+As teses da defesa não foram submetidas ao exame do juízo de origem, tampouco há decisão das instâncias ordinárias a respeito da higidez mental do recorrente, tema que demanda instrução e prova pericial.
+A jurisprudência desta Corte é firme no sentido de que a matéria deve ser deduzida e apreciada na origem, sob pena de indevida supressão de instância, como assentado:
+"DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA DA PENA. SUPRESSÃO DE INSTÂNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça não admite o conhecimento de habeas corpus contra acórdão já transitado em julgado, utilizado como substitutivo de revisão criminal, quando não há julgamento de mérito passível de revisão criminal em relação à condenação.
+2. É imprescindível o prévio enfrentamento da matéria pelas instâncias ordinárias para evitar indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal.
+3. A análise direta por esta Corte de eventual ilegalidade não submetida ao crivo do Tribunal de origem configura desprestígio às instâncias ordinárias e desvirtuamento do ordenamento recursal.
+4. Não há ilegalidade nos critérios de dosimetria adotados pela instância antecedente, que aumentou a pena na primeira fase em razão da quantidade e natureza da droga apreendida e afastou o tráfico privilegiado na terceira fase devido à condenação pelo crime de associação para o tráfico.
+5. O habeas corpus não é via adequada para apreciação de pedido de absolvição ou desclassificação de condutas, pois exige reexame aprofundado de fatos e provas, procedimento vedado pelo rito célere do mandamus.
+6. Habeas corpus parcialmente conhecido e, nessa extensão, denegada a ordem."
+(HC n. 1.021.432/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/12/2025, DJEN de 16/12/2025.)
+No mesmo sentido, reafirma-se a competência meramente recursal do Superior Tribunal de Justiça na hipótese, vedada a condução, nesta sede, de aspectos incidentais que exigem instrução, como o incidente de insanidade mental, o qual se processa em autos apartados, nos termos do art. 153 do Código de Processo Penal.
+No mesmo sentido:
+"DIREITO PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO. INCIDENTE PROCESSUAL DE INSANIDADE MENTAL. COMPETÊNCIA DO STJ. PEDIDO NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Pedido de reconsideração formulado contra acórdão que rejeitou embargos de declaração opostos contra decisão que negou provimento ao agravo regimental.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se o pedido de incidente processual de insanidade mental pode ser apreciado pelo STJ, considerando sua competência estritamente recursal.
+III. RAZÕES DE DECIDIR
+3. A competência do STJ é estritamente recursal, não cabendo a apreciação de questões incidentais como o incidente de insanidade mental, que devem ser suscitadas e processadas perante o juízo de origem.
+4. A interposição reiterada de recursos desprovidos dos requisitos formais de admissibilidade caracteriza abuso de direito e desrespeito às funções do Poder Judiciário.
+IV. DISPOSITIVO E TESE
+5. Pedido não conhecido. Determinada a certificação do trânsito em julgado e arquivamento do processo, antes mesmo da publicação do acórdão e independentemente da interposição de novos recursos pelo requerente."
+(RCD nos EDcl no AgRg no AREsp n. 2.694.715/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2025, DJEN de 8/9/2025.)
+Assim, à míngua de deliberação prévia pelas instâncias ordinárias e de instrução formal adequada, a pretensão de baixa dos autos e de suspensão do julgamento do agravo em recurso especial não pode ser conhecida por este Tribunal.
+Eventual instauração do incidente deverá ser provocada e decidida perante o juízo de primeiro grau, com a necessária produção de prova pericial, conforme indicado pela defesa, sem prejuízo do controle recursal na via própria.
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do Regimento Interno do STJ, não conheço do agravo em recurso especial e da petição de fls. 593-612 (e-STJ).
+Publique-se. Intimem-se.
+EMENTA
