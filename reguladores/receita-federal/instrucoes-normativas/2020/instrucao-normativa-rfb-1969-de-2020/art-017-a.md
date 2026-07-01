@@ -1,0 +1,4 @@
+Art. 17-A. Para fins do disposto no art. 32-D do Decreto nº 6.306, de 14 de dezembro de 2007, o IOF incide sobre qualquer aquisição de cotas de fundos de investimento em direitos creditórios - FIDC no âmbito de novas emissões, independentemente da forma de colocação, pública ou privada.
+Parágrafo único. O IOF será cobrado na data da integralização das cotas de FIDC, independentemente da forma realizada, seja em moeda corrente nacional ou em outros ativos autorizados nos termos da regulamentação editada pela Comissão de Valores Mobiliários.
+CAPÍTULO VI
+DO IOF SOBRE OPERAÇÕES COM DERIVATIVOS

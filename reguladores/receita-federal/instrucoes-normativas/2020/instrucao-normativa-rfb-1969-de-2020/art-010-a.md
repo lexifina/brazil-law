@@ -1,0 +1,3 @@
+Art. 10-A. Para fins do disposto no inciso XXXVI do caput do art. 8º do Decreto nº 6.306, de 14 de dezembro de 2007, aplica-se a alíquota zero de IOF às operações de crédito contratadas no âmbito da Faixa 1 do Programa Emergencial de Renegociação de Dívidas de Pessoas Físicas Inadimplentes - Desenrola Brasil, instituído pela Lei nº 14.690, de 3 de outubro de 2023, inclusive no caso de renegociação de dívidas, até a data da realização do último leilão dos créditos não recuperados de que trata o § 3º do art. 25 da referida Lei.
+Seção VI
+Do IOF sobre operações de crédito para liquidação ou amortização de dívidas de que trata a Medida Provisória nº 1.314, de 2025
