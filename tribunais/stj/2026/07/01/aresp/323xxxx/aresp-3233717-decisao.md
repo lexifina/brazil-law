@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo manejado por Prevodoctor Assistência Odontológica Ltda.- Me contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fls. 777/778):
+DIREITO ADMINISTRATIVO. EMBARGOS À EXECUÇÃO FISCAL. CERTIDÃO DE DÍVIDA ATIVA. REGULARIDADE. MULTA ADMINISTRATIVA. PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE.
+I. Caso em exame 1. Apelação interposta por PREVODOCTOR ASSISTÊNCIA ODONTOLÓGICA LTDA.-ME contra sentença que julgou improcedentes os embargos à execução fiscal movida pela AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR - ANS, em razão da imposição de multa administrativa.
+2. A recorrente sustenta a nulidade da decisão por omissão quanto à análise de provas e princípios aplicáveis, bem como a inexigibilidade da multa e o excesso do seu valor, por afronta aos princípios da proporcionalidade, razoabilidade e não confisco.
+II. Questão em discussão 3. O cerne da controvérsia reside na verificação da validade da Certidão de Dívida Ativa (CDA) e na regularidade do procedimento administrativo que culminou na imposição da multa, especialmente quanto ao respeito ao contraditório e ampla defesa.
+4. Também se discute a razoabilidade do valor da multa aplicada, considerando o porte da empresa e o impacto financeiro da sanção. III. Razões de decidir
+5. A ANS, no exercício de suas atribuições fiscalizatórias, possui competência legal para aplicar penalidades em caso de descumprimento das normas regulatórias do setor de planos de saúde.
+6. A CDA que instrui a execução fiscal preenche os requisitos de liquidez, certeza e exigibilidade exigidos pela Lei nº 6.830/80, sendo considerada título hábil a embasar a cobrança. 7. O processo administrativo observou os ditames do devido processo legal, garantindo oportunidade de defesa, ainda que intempestiva.
+8. A multa aplicada foi calculada com base nos critérios previstos na Resolução ANS nº 124/2006, levando em consideração o número de beneficiários e o impacto da infração. 9. Inexistência de desproporcionalidade manifesta na penalidade imposta, não se configurando ofensa aos princípios da razoabilidade e da preservação da empresa.
+IV. Dispositivo e tese
+10. Recurso desprovido.
+Opostos embargos declaratórios, foram rejeitados (fls. 809/813).
+Nas razões do recurso especial, a parte agravante aponta violação aos seguintes dispositivos:
+I - art. 1.022, II, do CPC e art. 489, § 1º, IV, do CPC, ao argumento de que o acórdão a quo teria incorrido em negativa de prestação jurisdicional por não enfrentar dois pontos específicos: (a) a existência de "erro manifesto" reconhecido em ação diversa sobre a quantidade de beneficiários e (b) a desproporcionalidade da multa frente à capacidade econômico-financeira da recorrente.
+II - arts. 371 e 372 do CPC, porque o acórdão recorrido teria deixado de valorar provas constantes dos autos e desconsiderado decisão proferida em outro processo, que reconheceria a inviabilidade de presunções sobre o número de beneficiários, o que, segundo a recorrente, impõe a utilização da prova emprestada e o dever de motivação.
+III - art. 2º, VI, da Lei n. 9.784/1999 e art. 8 do CPC, uma vez que a sanção seria desarrazoada e desproporcional ao porte econômico da operadora, devendo ser revista para adequação aos fins sociais e à preservação da empresa. Acrescenta que a simples confrontação entre a gravidade da infração e a elevada sanção não exige revolvimento probatório.
+IV - arts. 394 e 396 do Código Civil, pois não seria possível a incidência de juros de mora antes da constituição definitiva do débito no processo administrativo, inexistindo mora do devedor que exerce contraditório e ampla defesa. Em complemento, afirma que a mora apenas poderia ser caracterizada após decisão final irrecorrível.
+Foram ofertadas contrarrazões às fls. 864/891.
+É O RELATÓRIO.SEGUE A FUNDAMENTAÇÃO.
+O recurso merece acolhida pelo art. 1.022, do CPC/2015, pois a parte recorrente alega em seu recurso especial o seguinte (fl. 832):
+24 - A Recorrente opôs Embargos de Declaração em razão do V. Acórdão que negou provimento ao Recurso de Apelação:
+a) relativamente à suposta ausência da informação da quantidade de beneficiários por parte da Operadora Recorrente ter omitido apreciação sobre o fato incontroverso trazido ao conhecimento do magistrado de piso e da C. Turma Regional de que o MM. Juízo da 7ª Vara Federal Cível da Seção Judiciária de São Paulo declarou que houve manifesto erro quando do lançamento da quantidade de beneficiários da Operadora Recorrente nos autos da Ação Ordinária nº 0019270 04.2012.4.03.6100 por ela ajuizada em face da mesma Agência Reguladora, o que inviabiliza a utilização do critério da presunção da quantidade de vidas para o embasamento da multa impugnada nestes embargos à execução; e
+Entretanto, o Tribunal de origem quedou silente sobre tais argumentos, em franca violação ao art. 1.022, do CPC/2015, porquanto não prestada a jurisdição de forma integral.
+Nesse vértice, vejam-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OCORRÊNCIA. RETORNO DOS AUTOS À CORTE DE ORIGEM.
+1. É firme o entendimento do STJ de que, "tratando-se de questão relevante para o deslinde da causa, a ausência de manifestação sobre ela caracteriza ofensa ao art. 535 do CPC/1973. Verificada tal ofensa, em sede de recurso especial, impõe-se a anulação do acórdão proferido em sede de embargos de declaração, para que seja proferido novo julgamento suprindo tal omissão" (AgInt no AREsp 868.604/RN, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 14/09/2016).
+2. Caso concreto em que o Tribunal de origem, mesmo provocado em sede de embargos declaratórios, quedou silente sobre argumentação que se mostra relevante para a solução da controvérsia, em franca violação ao art. 1.022 do CPC/2015.
+3. Agravo interno não provido.
+(AgInt no REsp 1.650.218/AL, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 25/9/2018, DJe 9/10/2018)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. TRIBUTO SUJEITO A LANÇAMENTO POR HOMOLOGAÇÃO. DECADÊNCIA TRIBUTÁRIA. ALEGATIVA DE EXISTÊNCIA DE DOCUMENTOS QUE COMPROVAM PAGAMENTO PARCIAL A ATRAIR A INCIDÊNCIA DO ART. 150, § 4º, DO CTN. QUESTÃO JURÍDICA RELEVANTE. ACÓRDÃO RECORRIDO. OMISSÃO. NULIDADE.
+ ..
+2. Na espécie, assiste razão à parte recorrente no ponto em que sustenta violação do art. 535, II, do CPC, pois uma análise detida das decisões proferidas pelo Tribunal de origem, em cotejo com os recursos do contribuinte, revela que houve omissão no acórdão recorrido quanto à alegativa de que há informações constantes dos autos que seriam relevantes ao deslinde da controvérsia, notadamente aquelas que comprovariam a existência de pagamento parcial do tributo a atrair a orientação jurisprudencial pacificada no STJ no sentido de que a decadência tributária, nessas hipóteses, tem início com a ocorrência do fato gerador, e não a partir do primeiro dia do exercício seguinte.
+3. Não havendo o Tribunal a quo se pronunciado a respeito dessas alegativas, caracteriza-se afronta ao art. 535 do CPC, impondo-se a anulação da decisão proferida nos embargos, a fim de que outra seja proferida com apreciação da questão.
+4. Recurso especial provido para anular o acórdão dos embargos de declaração, determinando o retorno dos autos à Corte de origem, a fim de que se manifeste, expressamente, a respeito do quanto alegado em sede declaratória.
+(REsp 1.633.154/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 28/11/2017, DJe 5/12/2017).
+Dessarte, diante do acolhimento da questão preliminar, fica prejudicada a análise dos demais pedidos recursais.
+ANTE O EXPOSTO, conheço do agravo e dou parcial provimento ao recurso especial por afronta ao art. 1.022, do CPC/2015, para determinar o retorno dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento dos embargos declaratórios, desta feita com o expresso enfrentamento das questões omitidas.
+Publique-se.
+EMENTA
