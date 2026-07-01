@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por JOSEVAN DUARTE MAGALHÃES contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO, assim ementado (f. 89):
+"DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. UTILIZAÇÃO DO WRIT COMO SUCEDÂNEO RECURSAL. INADEQUAÇÃO DA VIA ELEITA. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus, sob o fundamento de que a impetração foi utilizada como substitutiva de recurso próprio, sem a presença de ilegalidade manifesta a ser sanada por meio do writ.
+2. O agravante sustentou que a decisão que rejeitou a exceção de incompetência não comportaria recurso específico, sendo o habeas corpus o único meio cabível para sua impugnação.
+II. Questão em discussão
+3. Há duas questões em discussão: (i) saber se o habeas corpus é meio adequado para impugnar decisão que rejeitou exceção de incompetência em ação penal; e (ii) saber se a decisão que não conheceu do habeas corpus, por ausência de flagrante ilegalidade e necessidade de análise probatória, deve ser mantida.
+III. Razões de decidir
+4. A impetração de habeas corpus como sucedâneo de recurso próprio é inadmissível, salvo em hipóteses de manifesta ilegalidade ou flagrante constrangimento ilegal, não configurados no caso concreto.
+5. A alegada incompetência da Justiça Estadual não se mostra evidente, exigindo exame aprofundado do conjunto fático-probatório, medida incompatível com o rito célere e cognição sumária do habeas corpus.
+6. A decisão agravada observou a jurisprudência consolidada dos Tribunais Superiores, segundo a qual a verificação de competência material demanda análise de provas pré- constituídas, não admitindo incursão probatória ampla no âmbito do writ.
+IV. Dispositivo e tese
+7. Agravo regimental conhecido e desprovido. Tese de julgamento: "1. O habeas corpus não é a via adequada para questionar decisão que rejeitou exceção de incompetência quando a análise demanda incursão no conjunto fático- probatório. 2. A utilização do habeas corpus como sucedâneo recursal exige a demonstração de ilegalidade manifesta ou constrangimento ilegal evidente."
+Dispositivos relevantes citados: CPP, arts. 5º, LXVIII, e 647.
+Jurisprudência relevante citada: STJ, AgRg no HC 890347/GO, Rel. Min. Daniela Teixeira, Quinta Turma, j. 16.10.2024, DJe 23.10.2024; STJ, AgRg no RHC 202213/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, j. 27.11.2024, DJEN 03.12.2024."
+Consta dos autos que o paciente responde a queixa-crime por calúnia (art. 138 do Código Penal), com causas de aumento dos incisos II e III do art. 141 do Código Penal, em tramitação na Vara Única da Comarca de Alcântara/MA.
+A defesa arguiu preliminar de incompetência absoluta da Justiça Estadual, por se tratar de suposta ofensa contra professora do Instituto Federal do Maranhão (IFMA), em razão de suas funções, o que foi rejeitado em primeiro grau.
+Impetrou-se habeas corpus no Tribunal de Justiça do Maranhão, o qual não foi conhecido por decisão monocrática, ao fundamento de inadequação da via eleita e necessidade de dilação probatória. Interposto agravo regimental, a Corte estadual, por unanimidade, manteve o não conhecimento do writ.
+Sustenta a parte recorrente, em síntese, que há constrangimento ilegal decorrente da manutenção do feito perante juízo absolutamente incompetente, pois a suposta vítima é servidora de autarquia federal e os fatos teriam ocorrido em razão de suas funções no IFMA, atraindo a competência da Justiça Federal pelo art. 109, IV, da Constituição Federal e pela Súmula n. 147 do STJ.
+Requer, assim, o provimento do recurso ordinário para declarar a incompetência absoluta da Justiça Estadual, anular os atos decisórios (art. 564, I, CPP) e determinar a remessa dos autos à Justiça Federal da Seção Judiciária do Maranhão.
+Não houve pedido liminar.
+Em sede de parecer, o Ministério Público Federal manifestou-se pelo não provimento do recurso ordinário, nos seguintes termos (f. 166-170):
+"RECURSO EM HABEAS CORPUS. AGRAVO REGIMENTAL EM HABEAS CORPUS. INADMISSIBILIDADE DO HABEAS CORPUS COMO SUCEDÂNEO RECURSAL. MATÉRIA RELATIVA À INCOMPETÊNCIA DO JUÍZO ESTADUAL. APLICAÇÃO DA SÚMULA 691 STF. NÃO CONHECIMENTO. PARECER PELO NÃO PROVIMENTO DO RECURSO ORDINÁRIO."
+É o relatório.
+Conforme se extrai do acórdão recorrido, o Tribunal de origem manteve o não conhecimento do habeas corpus por entender que a alegada incompetência da Justiça Estadual não se evidenciaria de plano, demandando análise aprofundada da matéria e incursão no conjunto probatório, providências incompatíveis com o rito célere e a cognição limitada próprios do writ.
+A conclusão, todavia, não se sustenta, ao menos nos termos em que formulada.
+É certo que o habeas corpus não se presta, em regra, à ampla revisão de matéria dependente de dilação probatória, nem pode ser manejado como sucedâneo irrestrito dos recursos ordinariamente previstos no sistema processual. Também é correto afirmar que nem toda controvérsia sobre competência poderá ser conhecida na via mandamental.
+Nada obstante, não se mostra juridicamente correto afirmar, em termos absolutos, que a discussão acerca da competência jurisdicional seja estranha, por si só, à via do habeas corpus.
+A jurisprudência do Superior Tribunal de Justiça admite, em tese, a utilização do writ para o exame de controvérsias atinentes ao juízo natural e à competência, desde que a alegação de constrangimento ilegal possa ser aferida a partir dos elementos constantes dos autos, sem necessidade de revolvimento probatório incompatível com a natureza da ação constitucional:
+"PROCESSUAL PENAL. HABEAS CORPUS. CRIME AMBIENTAL. ART. 69-A DA LEI N. 9.605/1998. CONDENAÇÃO TRANSITADA EM JULGADO. ALEGAÇÃO DE NULIDADE. INCOMPETÊNCIA DA JUSTIÇA ESTADUAL. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE ILEGALIDADE MANIFESTA. INTERESSE DA UNIÃO NÃO CONFIGURADO. DISTINGUISHING EM RELAÇÃO AOS CRIMES CONTRA A FAUNA E A FLORA. PRECEDENTES. Ordem denegada."
+(HC 1012588 / SC, Relator: Ministro Sebastião Reis Júnior, Sexta Turma, DJEN 19/02/2026, grifei).
+"RECURSO EM HABEAS CORPUS. LESÃO CORPORAL PRATICADA POR BRASILEIRO NO EXTERIOR. INCOMPETÊNCIA DA JUSTIÇA ESTADUAL. WRIT NÃO CONHECIDO NO TRIBUNAL DE ORIGEM. DESCABIMENTO DO RECURSO ORDINÁRIO. ART. 105, II, A, DA CF/88. INEXISTÊNCIA DE MANIFESTA ILEGALIDADE. (..) 1. Compete à Justiça Federal o processamento e julgamento de crimes praticados por brasileiros no exterior apenas quando houver transferência do procedimento para a jurisdição brasileira por negativa de extradição. (..)"
+(RHC 220318 / SP, Relator: Ministro Sebastião Reis Júnior, Sexta Turma, DJEN 11/11/2025, grifei).
+"DIREITO PROCESSUAL PENAL. HABEAS CORPUS. OPERAÇÃO ALQUIMIA. QUEBRA DE SIGILO BANCÁRIO E FISCAL. COMPETÊNCIA DA JUSTIÇA ESTADUAL. ORDEM DENEGADA. (..) 3. A questão em discussão consiste em saber se a Justiça Estadual é competente para processar e julgar o caso, considerando a alegação de que a competência seria da Justiça Federal, e se a quebra de sigilo bancário e fiscal foi devidamente fundamentada. (..) Tese de julgamento: "1. A Justiça Estadual é competente para processar e julgar crimes de lavagem de dinheiro quando não há indícios de que afetam bens ou interesses da União. 2. A quebra de sigilo bancário e fiscal deve ser fundamentada em indícios concretos e ser considerada medida excepcional. 3. A denúncia deve atender aos requisitos necessários para a delimitação de uma relação processual válida, com descrição pormenorizada dos atos imputados"."
+(HC 750740 / SP, Relator: Ministro Sebastião Reis Júnior, Sexta Turma, DJEN 18/08/2025, grifei).
+Porém, não cabe a esta Corte, todavia, substituir-se desde logo ao Tribunal de origem para resolver, originariamente, o mérito da controvérsia sobre a competência, especialmente porque o acórdão recorrido limitou-se a manter o não conhecimento do writ, sem enfrentar, de forma efetiva, a tese de fundo deduzida pela impetração.
+A providência adequada, portanto, é a anulação do acórdão recorrido, para que o Tribunal de Justiça do Estado do Maranhão proceda ao exame do mérito do habeas corpus, especificamente quanto à alegação de incompetência da Justiça Estadual, como entender de direito.
+Ante o exposto, conheço do recurso em habeas corpus, de ofício, anular o acórdão recorrido e determinar que o Tribunal de Justiça do Estado do Maranhão aprecie o mérito do habeas corpus originário, no tocante à questão da competência, como entender de direito.
+Publique-se.
+Intimem-se.
+EMENTA
