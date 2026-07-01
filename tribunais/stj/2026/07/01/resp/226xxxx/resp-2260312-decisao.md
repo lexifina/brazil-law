@@ -1,0 +1,129 @@
+DECISÃO
+Trata-se de recurso especial interposto por PROTEL ADMINISTRAÇÃO HOTELEIRA LTDA com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fls. 184-191):
+AÇÃO RESCISÓRIA. ERRO DE FATO. NÃO CARACTERIZAÇÃO. MATÉRIA CONTROVERSA. OFENSA MANIFESTA A NORMA JURÍDICA. INOCORRÊNCIA. 1. Não se admite, em sede de ação rescisória, alegação de erro de fato atinente a matéria controvertida nos autos originários sobre a qual o juízo tinha de pronunciar-se (art. 966, § 1º, do CPC), e efetivamente se pronunciou, ao cabo de intenso debate entre as partes litigantes. 2. A violação de norma jurídica que autoriza o juízo rescindente é aquela que, na dicção do inciso V do art. 966 do CPC, se apresente manifesta, isto é, patente à primeira vista, evidenciando induvidoso e evidente desprezo pelo sistema jurídico, assim corporificando uma decisão aberrante e teratológica. No caso dos autos, a ofensa aos arts. 884 e 991 é sutil, oculta, de difícil percepção, somente vislumbrada mediante mergulho nas peculiaridades da causa originária, o que é sinal de improcedência da pretensão rescisória. 3. IMPROCEDÊNCIA DO PEDIDO.
+Sustenta a parte recorrente violação aos seguintes dispositivos legais: artigos 489, §1º, IV e 1.022, I, II e parágrafo único, II, do Código de Processo Civil; artigo 966, V, VIII e §1º, do Código de Processo Civil; e artigos 884, 944 e 991 do Código Civil.
+Defende que o recurso preenche os requisitos necessários ao conhecimento e provimento.
+Intimada nos termos do art. 1.030 do Código de Processo Civil, a parte recorrida afirmou a inexistência de requisitos de admissibilidade e, no mérito, a ausência de elementos aptos a promover a alteração do julgado impugnado, destacando as peculiaridades de duas ações anteriores entre as partes.
+É o relatório.
+DECIDO.
+O recurso especial é tempestivo e cabível, pois interposto em face de acórdão que julgou improcedente ação rescisória.
+No presente processo, a parte afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+No que tange à alegada violação aos arts. 489, § 1º, inciso IV, e 1.022 do CPC, verifica-se que o Tribunal de origem se manifestou expressamente sobre os pontos a respeito dos quais a parte recorrente alega contradição e omissão.
+Segundo a parte recorrente, haveria contradição, no Acórdão, ao ter reconhecido a violação de norma jurídica, mas entendido que não seria manifesta a ponto de justificar a rescisão do julgado.
+Acrescenta ainda ter havido omissão sobre as violações aos artigos 996 e 944 do Código Civil, bem como sobre o "evidente erro de fato existente nos autos".
+Porém, não há contradição nem omissão, mas mero descontentamento com o resultado do julgamento - apontamento de erro de julgamento, e não negativa de prestação jurisdicional.
+Quanto à alegada contradição, o Tribunal de Justiça, na realidade, entendeu que a questão dependeria de uma valoração da prova constante no processo originário, de uma análise da boa ou má avaliação do conjunto probatório pelo título rescindendo, concluindo não ser possível na via da ação rescisória. Trata-se de raciocínio com premissas coerentes e, se o resultado jurídico estiver equivocado, consistirá em erro de julgamento, e não negativa de prestação jurisdicional.
+Igualmente, sobre as alegadas omissões, o Acórdão externou a sua conclusão, entregando a prestação jurisdicional, ainda que em desacordo à pretensão da parte.
+Afasta-se a alegada ofensa aos artigos 489 e 1.022 do CPC quando o Colegiado originário aprecia a demanda de forma clara e precisa, pronunciando-se, de forma motivada e suficiente, sobre os pontos relevantes ao deslinde da controvérsia.
+A jurisprudência desta Corte tem sido firme no sentido de que a ausência de menção a um outro argumento invocado pela defesa não macula o comando decisório se a fundamentação for apta, por si só, a sustentar a conclusão adotada. Como se tem sistematicamente reafirmado nesta Corte, o teor do art. 489, § 1º, inc. IV, do CPC/2015  ao dispor que não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que não enfrentar todos os argumentos expendidos no processo que sejam capazes de, em tese, infirmar a conclusão adotada pelo julgador  não significa que este tenha que enfrentar todos os argumentos trazidos pelas partes, senão apenas aqueles que sejam capazes de, em tese, infirmar a conclusão alcançada pelo julgador (EDcl nos EREsp 1523744/RS, Rel. Ministro Og Fernandes, Corte Especial, julgado em 07/10/2020, DJe 28/10/2020).
+Portanto, tendo o Tribunal de origem julgado o caso à luz dos fatos e das provas, aplicando o direito que entendeu correto à espécie em análise, não se afigura violação aos artigos 1.022, inciso II, e 489, § 1º, inciso IV do Código de Processo Civil, por alegada deficiência na fundamentação do acórdão recorrido.
+Em relação à alegada violação aos artigos 884, 944 e 991 do Código Civil, a análise do teor do acórdão recorrido indica que os dispositivos tidos por violados não foram debatidos pela Corte de origem.
+Não há, aqui, nenhuma contradição com a assertiva supra, de que não houve negativa de prestação jurisdicional.
+Na realidade, a ação rescisória proposta pela parte recorrente foi decidida com fundamentos atinentes ao seu não cabimento, por não se enquadrar, a pretensão, nas hipóteses do artigo 966 do Código de Processo Civil. Não houve incursão no mérito quanto à hipótese do inciso V, que tratava, justamente, da alegada violação aos artigos 884, 944 e 991 do Código Civil.
+Logo, não houve prequestionamento e se, no tópico seguinte, decidir-se pelo cabimento da rescisória, será o caso de devolução do processo ao Tribunal de origem, a fim de que sobrevenha a decisão meritória.
+Isso, porque, por força constitucional (art. 105, inciso III, da CF), ao Superior Tribunal de Justiça somente é dado o julgamento em recurso especial "das causas decididas, em única ou última instância", uma vez que, presente a finalidade revisional da insurgência recursal, não se mostra viável o pronunciamento originário a respeito de matérias ainda não discutidas na origem.
+Desse modo, a falta de prequestionamento da matéria suscitada no recurso especial impede seu conhecimento, a teor da Súmula n. 282/STF.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. INDENIZAÇÃO SECURITÁRIA. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. VIOLAÇÃO DOS ARTS. 489 E 1022 DO CPC/15. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. DECISÃO MANTIDA.
+ ..
+5. A ausência de decisão acerca dos dispositivos legais indicados como violados e dos argumentos invocados pelo recorrente impede o conhecimento do recurso especial (súmulas 282 e 356/STF).
+6. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.228.031/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+No presente feito, verifica-se que o acórdão recorrido não tratou diretamente dos dispositivos legais do Código Civil, em cotejo com a matéria probatória, de modo que, ausente o prequestionamento, até mesmo de modo implícito, dos dispositivos apontados como violados no recurso especial, incide o disposto na Súmula n. 282/STF.
+Passa-se, agora, a apreciar o capítulo recursal atinente à alegada violação ao artigo 966, V, VIII e §1º, do Código de Processo Civil.
+Na origem, a ação rescisória tem dois fundamentos jurídicos de cabimento: erro de fato (artigo 966, VIII e §1º, CPC) e violação manifesta de norma jurídica (artigo 966, V, CPC).
+Em relação ao alegado erro de fato (suposta violação ao artigo 966, VIII e §1º, CPC), a partir das premissas fáticas fixadas pela instância ordinária (imodificáveis nesta via especial), constata-se que o Acórdão recorrido está em consonância com a jurisprudência desta Corte, incidindo o óbice da Súmula 83/STJ.
+O Acórdão recorrido afirmou que, sobre o suposto erro de fato, houve exaustivo debate entre as partes, "a ponto de o juízo sentenciante, ao decidir o feito, dissentir do laudo pericial e acolher o critério ora defendido pela sociedade autora - critério do qual viria a dissentir a turma julgadora, em grau de apelação" (fl. 187).
+Eis a íntegra da premissa fática (fl. 187-188), seguida da conclusão jurídica:
+"Ora, a questão do valor devido pela então ré (ora autora) a título de aluguel mensal integrou o objeto já da ação preparatória de exibição de documentos. E, embora a petição inicial da demanda originária (e-fls. 03/15) pareça não impugnar claramente o valor que a parte então ré (ora autora) apresentava como devido a título de aluguel mensal, cumpre observar, sobretudo à luz da prévia existência de coisa julgada na ação exibitória, que o pedido de cobrança remetia a definição do quantum debeatur à ulterior perícia (item 46. a da inicial, à e-fl. 14 dos autos originários).
+Não por outra razão, durante toda a instrução processual, notadamente durante a prova pericial de contabilidade e o debate que se lhe seguiu, a definição do valor devido a título de aluguel mensal foi exaustiva entre as partes, a ponto de o juízo sentenciante, ao decidir o feito, dissentir do laudo pericial e acolher o critério ora defendido pela sociedade autora - critério do qual viria a dissentir a turma julgadora, em grau de apelação.
+E, ao contra-arrazoar o apelo interposto pelos ora réus nos autos originários (e-fls. 1.629/1.643), a ora autora em momento algum procurou alertar o Tribunal de que eventual acolhimento do pleito para se adotar o valor de aluguel mensal calculado no laudo pericial implicaria nulidade do acórdão por suposto vício de julgamento ultra petita. A ora autora se limitou a alegar um "erro crasso" do perito, mas no que diz respeito ao exame das particularidades do contrato, e não à delimitação da matéria fática controversa.
+Assim, é inviável a caracterização do erro de fato, sob o prisma do requisito de não se tratar de ponto controverso. A definição do valor devido a título de aluguel - bem como a existência de resultados positivos a participar - consistia o cerne da controvérsia nos autos originários."
+A Corte de origem, ao assim decidir, adotou entendimento alinhado à jurisprudência do Superior Tribunal de Justiça, que é no sentido de não haver erro de fato quando houve controvérsia e pronunciamento judicial a respeito, o que atrai a incidência da Súmula n. 83/STJ.
+Quanto ao tema, esta Corte Superior vem se manifestando da seguinte forma:
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO RESCISÓRIA. DOCUMENTO NOVO E ERRO DE FATO. SÚMULA N. 83 DO STJ. RECURSO ESPECIAL CONHECIDO EM PARTE E DESPROVIDO.
+I. CASO EM EXAME
+1. Trata-se de recurso especial interposto contra acórdão da Corte estadual que julgou improcedente a ação rescisória e manteve a higidez do acórdão rescindendo.
+2. A controvérsia envolve ação rescisória destinada a rescindir acórdão da 14ª Câmara Cível, em ação indenizatória proposta por VIBRA ENERGIA S.A., por alegado documento novo e erro de fato.
+3. A Corte de origem julgou improcedente a rescisória, afastou erro de fato por existir pronunciamento judicial sobre o fato e sobre a tese de fato do príncipe, concluiu que sentença posterior não configura documento novo e vedou o uso da rescisória como sucedâneo recursal.
+II. QUESTÃO EM DISCUSSÃO
+4. Há três questões em discussão: (i) saber se houve violação dos arts. 489, § 1º, e 1.022, I e II, do CPC, por vício de fundamentação e omissões; (ii) saber se é admissível a ação rescisória por documento novo ou por erro de fato, à luz do art. 966, VII, VIII e § 1º, do CPC; e (iii) saber se está demonstrado o dissídio jurisprudencial, nos termos dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+III. RAZÕES DE DECIDIR
+5. Não ocorreu a ofensa aos art. 489, § 1º, e 1.022, I e II, do CPC, pois o Tribunal de origem analisou de modo claro e objetivo as questões relevantes ao deslinde da controvérsia, bastando enfrentar os pontos essenciais.
+6. Incide a Súmula n. 83 do STJ, pois é inadmissível a ação rescisória por documento novo consistente em sentença proferida após o trânsito em julgado da decisão rescindenda e não há erro de fato quando houve controvérsia e pronunciamento judicial sobre o ponto.
+7. Não se comprova o dissídio jurisprudencial por ausência de similitude fática entre os julgados confrontados, em desconformidade com os arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+IV. DISPOSITIVO E TESE
+8. Recurso especial conhecido em parte e desprovido.
+Tese de julgamento: "1. Incide a Súmula n. 83 do STJ quando o acórdão recorrido está em consonância com a jurisprudência consolidada desta Corte sobre os conceitos de documento novo e erro de fato em ação rescisória. 2. Não ocorreu a ofensa aos art. 489, § 1º, e 1.022, I e II, do CPC quando o Tribunal enfrenta, de modo suficiente, as questões relevantes do litígio. 3. Não se comprova o dissídio jurisprudencial sem identidade fática entre os paradigmas."
+Dispositivos relevantes citados: CPC, arts. 489, § 1º, 1.022, I e II, 966, § 1º, VII e VIII, 1.029, § 1º, 85, §§ 11 e 2º, e 505, I;
+CF, art. 105, III, a e c; RISTJ, art. 255, § 1º.
+Jurisprudência relevante citada: STJ, REsp n. 2.166.999/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/3/2025; STJ, EDcl no AgInt no REsp n. 1.925.562/SP, relator Ministro Marco Buzzi, Quarta Turma, julgados em 17/3/2025; STJ, AgInt no REsp n. 2.152.327/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/2/2025; STJ, AgInt na AR n. 6.991/BA, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 5/3/2024; STJ, REsp n. 2.227.246/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/9/2025; STJ, AR n. 5.905/PR, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 28/4/2021; STJ, AgInt no AREsp n. 924.819/CE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/12/2018; STJ, Súmulas n. 83 e 401.
+(REsp n. 2.125.390/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 22/4/2026, DJEN de 27/4/2026.)
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO RESCISÓRIA. DECISÃO NÃO MERITÓRIA. AUSÊNCIA DE PRESSUPOSTOS PROCESSUAIS ESPECÍFICOS.
+I. CASO EM EXAME
+1. Recurso especial interposto por instituição financeira contra acórdão do Tribunal de Justiça do Estado do Ceará que não conheceu de ação rescisória por ausência de pressupostos específicos de constituição e desenvolvimento válido do processo.
+2. O acórdão recorrido entendeu que a decisão rescindenda, por versar apenas sobre legitimidade passiva, não constitui decisão de mérito, nos termos do art. 966, caput, do CPC, e que a ação foi ajuizada antes de proferida a última decisão no processo originário, que ainda se encontra em tramitação, desatendendo ao requisito do art. 975, caput, do CPC.
+II. QUESTÃO EM DISCUSSÃO
+3. Há duas questões em discussão: (i) saber se o acórdão recorrido violou os arts. 1.022, I, e 489, §1º, IV, do CPC, por não sanar os vícios de obscuridade e erro de premissa apontados nos embargos de declaração; e (ii) saber se a decisão rescindenda, que versou sobre legitimidade passiva, configura decisão de mérito e atende aos requisitos dos arts. 966, caput, e 975, caput, do CPC para o ajuizamento de ação rescisória.
+III. RAZÕES DE DECIDIR
+4. O Tribunal de origem solucionou integralmente a controvérsia submetida à sua apreciação, de forma clara e fundamentada, não havendo omissão, contradição, obscuridade ou erro material no acórdão recorrido. A jurisprudência do STJ é pacífica ao afirmar que decisão contrária ao interesse da parte não implica ausência de fundamentação ou negativa de prestação jurisdicional.
+5. A decisão rescindenda, por tratar exclusivamente da legitimidade passiva, não constitui decisão de mérito, conforme o art. 966, caput, do CPC, e não se enquadra nas hipóteses excepcionais do §2º do mesmo artigo.
+6. A ação rescisória foi ajuizada antes de proferida a última decisão no processo originário, que ainda se encontra em tramitação, desatendendo ao requisito do art. 975, caput, do CPC. A coisa julgada é una e indivisível, aperfeiçoando-se apenas com o exaurimento da via recursal contra o último pronunciamento judicial na causa.
+7. A alegação de erro de fato não prospera, pois a sucessão empresarial foi objeto de controvérsia e pronunciamento judicial no processo originário, configurando erro de julgamento, e não erro de fato, o que afasta o cabimento da ação rescisória por este fundamento.
+8. A análise dos alegados erros de fato exigiria reexame do conjunto fático-probatório, o que é vedado em sede de recurso especial, conforme a Súmula n. 7 do STJ.
+9. O recurso especial em ação rescisória deve versar exclusivamente sobre os dispositivos reguladores da ação, seus pressupostos e procedimento, sendo incabível a alegação de violação a outros dispositivos de lei federal não relacionados à ação rescisória.
+IV. DISPOSITIVO
+Recurso especial conhecido em parte e, na parte conhecida, improvido.
+(REsp n. 2.203.543/CE, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/3/2026, DJEN de 12/3/2026.)
+Além disso, a constatação da afirmação recursal de que não teria havido controvérsia sobre o valor, contrariando a premissa fática estabilizada no Acórdão recorrido, atrairia inevitavelmente o óbice da Súmula 7/STJ.
+É que, para conhecer da controvérsia apresentada neste recurso, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com o entendimento firmado pela Súmula n. 7/STJ, que estabelece que a pretensão de simples reexame de prova não enseja recurso especial.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. VIOLAÇÃO LITERAL A LEI FEDERAL. NÃO OCORRÊNCIA. SÚMULA 83/STJ. TRIBUNAL ESTADUAL CONCLUIU PELA INEXISTÊNCIA DE ERRO DE FATO NO ACÓRDÃO RESCINDENDO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. APLICAÇÃO DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. A ação rescisória fundada no art. 966, V, do CPC/2015 (art. 485, V, do CPC/73) exige que a interpretação dada pelo decisum rescindendo seja claramente discrepante do teor do dispositivo legal apontado como violado. Assim, se a decisão rescindenda elege uma dentre outras interpretações cabíveis, a ação rescisória não merece prosperar.
+2. Estando o acórdão estadual em consonância com a jurisprudência do STJ, o apelo nobre encontra óbice na Súmula 83/STJ.
+3. A pretensão posta no recurso especial, quanto à eventual ocorrência de erro de fato para julgar procedente a Ação Rescisória e alterar o entendimento do Tribunal de origem, pressupõe o reexame do conjunto fático-probatório, medida obstada pela Súmula 7/STJ.
+4.Agravo conhecido para negar provimento ao recurso especial.
+(AREsp n. 2.696.299/PE, relator Ministro Raul Araújo, Quarta Turma, julgado em 16/3/2026, DJEN de 23/3/2026.)
+Por fim, em relação à alegada violação ao artigo 966, V, do CPC, incide, igualmente, o óbice da Súmula 83/STJ.
+Sobre o ponto, o Acórdão afirmou que a alegação atinente à violação dos artigos 884 e 991 é "sútil, oculta, de difícil percepção", não sendo manifesta, impedindo o reconhecimento da sua ocorrência.
+De fato, a jurisprudência desta Corte alinhou-se no sentido de que a violação de norma jurídica para fins de ação rescisória deve ser manifesta, evidente, correspondente ao um erro crasso.
+Constata-se, assim, que o Acórdão recorrido está em consonância com a jurisprudência desta Corte, incidindo o óbice da Súmula 83/STJ.
+Quanto ao tema, esta Corte Superior vem se manifestando da seguinte forma:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA EM PREVIDÊNCIA PRIVADA. INCIDÊNCIA DAS SÚMULAS N. 7 E 83 DO STJ NA IMPUGNAÇÃO POR ERRO DE FATO E VIOLAÇÃO MANIFESTA DE NORMA JURÍDICA. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial contra decisão que inadmitiu o recurso especial pela necessidade de reexame do conjunto fático-probatório, com aplicação da Súmula n. 7 do STJ.
+2. A controvérsia envolve ação rescisória em previdência privada, com alegação de erro de fato na fixação do valor indenizatório e violação manifesta de norma jurídica da LC n. 109/2001.
+3. Na sentença, o Juízo de primeiro grau condenou a entidade ao pagamento de danos materiais e rejeitou o pedido de danos morais.
+4. A Corte de origem julgou improcedente o pedido rescisório;
+embargos de declaração foram acolhidos apenas para sanar omissão, mantendo-se o julgado.
+II. QUESTÃO EM DISCUSSÃO
+5. Há quatro questões em discussão: (i) saber se houve erro de fato nos termos do art. 966, VIII, do CPC pela utilização de documento que não representaria a reserva de pensão por morte; (ii) saber se houve violação manifesta de norma jurídica, art. 966, VI, do CPC;
+(iii) saber se houve afronta ao art. 1º da LC n. 109/2001 quanto à necessidade de reservas para custeio; e (iv) saber se a decisão contrariou os arts. 3º, VI, 31, § 1º, e 32 da LC n. 109/2001.
+III. RAZÕES DE DECIDIR
+6. Incide a Súmula n. 7 do STJ sobre a tese de erro de fato, pois a matéria foi controvertida e decidida na ação originária e a pretensão demanda reexame de provas.
+7. Não se verifica a alegada violação ao art. 966, V, do CPC, ausente erro crasso e havendo adequada aplicação da norma, o que atrai a incidência da Súmula n. 83 do STJ.
+8. Não se aplica a multa do art. 1.021, § 4º, do CPC, ausente reiteração abusiva ou intuito protelatório.
+IV. DISPOSITIVO E TESE
+9. Agravo em recurso especial desprovido.
+Tese de julgamento: "1. Incide a Súmula n. 7 do STJ quando a alegação de erro de fato pressupõe reexame do conjunto fático-probatório já decidido na origem. 2. Incide a Súmula n. 83 do STJ quando afastada a violação manifesta de norma jurídica por inexistência de erro crasso e por pretensão de rediscutir provas. 3.
+Não se aplica a multa do art. 1.021, § 4º, do CPC sem demonstração de insurgência manifestamente protelatória".
+Dispositivos relevantes citados: CPC, arts. 85 § 11, 966 § 1º, V, VIII e 1.021 § 4º; LC n. 109/2001, arts. 1º, 3º VI, 31 § 1º e 32.
+Jurisprudência relevante citada: STJ, Súmulas n. 7 e 83; STF, Súmula n. 343; STJ, AgInt no AREsp n. 1.981.489/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/3/2022; STJ, AgInt no REsp n. 1.924.558/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/5/2024; STJ, AgInt no AREsp n. 1.658.454/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 31/8/2020.
+(AREsp n. 2.729.324/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 9/3/2026, DJEN de 12/3/2026.)
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. VIOLAÇÃO MANIFESTA DE NORMA JURÍDICA. RECURSO DESPROVIDO.
+1. A ação rescisória, nos termos do art. 966, V, do CPC, exige demonstração clara e inequívoca de que a decisão rescindenda conferiu interpretação flagrantemente contrária ao conteúdo da norma jurídica impugnada, o que não se verificou no caso.
+2. A ação rescisória não é meio adequado para rediscutir a justiça ou injustiça da decisão, reexaminar fatos ou provas, ou complementar a decisão, conforme entendimento consolidado na jurisprudência do STJ.
+3. A pretensão do recorrente de utilizar a ação rescisória como sucedâneo recursal para contornar a inadmissão de recurso especial encontra óbice na jurisprudência do STJ e na Súmula 343 do STF.
+4. Recurso especial desprovido.
+(AREsp n. 1.895.793/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 9/2/2026, DJEN de 13/2/2026.)
+Além disso, para conhecer da controvérsia apresentada neste recurso, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com o entendimento firmado pela Súmula n. 7/STJ, que estabelece que a pretensão de simples reexame de prova não enseja recurso especial.
+Explicita-se.
+No caso, a alegação de violação manifesta de norma jurídica está atrelada à afirmação de que a condenação imposta originariamente acabou por provocar enriquecimento de uma parte em detrimento da outra (suposta afronta ao artigo 884 do Código Civil), concentrando todas as receitas em um dos sócios, em supressão da natureza de uma sociedade em conta de participação.
+Logo, evidencia-se tanto não haver uma manifesta violação à norma jurídica, quanto que, para a conclusão contrária, seria necessária não só a verificação das provas produzidas na ação originária, mas, até, a sua extrapolação.
+Presente a função uniformizadora do recurso especial, não se pode cogitar de seu emprego para a realização de rejulgamento do contexto fático-probatório, em atitude típica de revisão promovida por nova instância. Diante disso, é reiterada a jurisprudência no sentido de que o reexame de fatos e provas é vedado em recurso especial pela Súmula n. 7/STJ.
+Assim, o acolhimento da tese recursal demandaria inevitável revisão d o quadro fático-probatório estabelecido na instância de origem, providência que, como visto, é inviável nesta sede.
+Ante o exposto, conheço parcialmente do recurso especial e, na extensão, nego-lhe provimento.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 2% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
