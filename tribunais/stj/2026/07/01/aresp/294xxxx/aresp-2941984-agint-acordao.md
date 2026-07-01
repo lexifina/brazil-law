@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/06/2026 a 01/07/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão e Maria Thereza de Assis Moura votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Teodoro Silva Santos.
+Impedido o Sr. Ministro Marco Aurélio Bellizze.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OFENSA AOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. MODULAÇÃO DOS EFEITOS DO TEMA N. 880 DO STJ APLICADA PELA CORTE DE ORIGEM. COISA JULGADA E PRESCRIÇÃO EXECUTÓRIA. REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há negativa de prestação jurisdicional quando o acórdão recorrido enfrenta, de modo expresso, a aplicabilidade e a modulação dos efeitos do Tema n. 880 do STJ, bem como a inexistência de prescrição da pretensão executória.
+2. A Primeira Seção, no Tema n. 880 do STJ (EDcl no REsp n. 1.336.026/PE), fixou modulação segundo a qual, para decisões transitadas em julgado até 17/3/2016 e que estejam dependendo do fornecimento, pelo executado, de documentos ou fichas financeiras, o prazo prescricional quinquenal para o cumprimento de sentença conta-se a partir de 30/6/2017.
+3. As teses relativas à coisa julgada, à modulação dos efeitos do Tema n. 880 do STJ e à prescrição executória, como formuladas, dependem do reexame do conjunto fático-probatório, providência vedada em recurso especial, nos termos da Súmula n. 7 do STJ.
+4. Ausentes argumentos específicos e suficientes para alterar os fundamentos da decisão monocrática agravada, o agravo interno não merece prosperar.
+5. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por UNIÃO contra a decisão monocrática por mim proferida que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento (fls. 1061-1079), nos termos da seguinte ementa (fl. 1061):
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. MODULAÇÃO DE EFEITOS DO TEMA N. 880 DO STJ. APLICABILIDADE. ILEGITIMIDADE. COISA JULGADA E PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Alega a parte agravante, em suma, violação ao art. 1.022 do Código de Processo Civil por omissão quanto a pontos específicos indicados no recurso especial.
+Sustenta que indevida a aplicação da Súmula n. 7 do Superior Tribunal de Justiça na tese referente à prescrição.
+Acrescenta que a pretensão executória estaria prescrita e que seria inaplicável a modulação dos efeitos do Tema n. 880 do STJ, pois o cumprimento de sentença não dependeria de fichas financeiras.
+Sustenta, ainda, que não se aplica o óbice da Súmula n. 7 do STJ, visto que não busca o reexame de fatos e provas.
+Apresentada impugnação às fls. 1095-1097.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OFENSA AOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. MODULAÇÃO DOS EFEITOS DO TEMA N. 880 DO STJ APLICADA PELA CORTE DE ORIGEM. COISA JULGADA E PRESCRIÇÃO EXECUTÓRIA. REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há negativa de prestação jurisdicional quando o acórdão recorrido enfrenta, de modo expresso, a aplicabilidade e a modulação dos efeitos do Tema n. 880 do STJ, bem como a inexistência de prescrição da pretensão executória.
+2. A Primeira Seção, no Tema n. 880 do STJ (EDcl no REsp n. 1.336.026/PE), fixou modulação segundo a qual, para decisões transitadas em julgado até 17/3/2016 e que estejam dependendo do fornecimento, pelo executado, de documentos ou fichas financeiras, o prazo prescricional quinquenal para o cumprimento de sentença conta-se a partir de 30/6/2017.
+3. As teses relativas à coisa julgada, à modulação dos efeitos do Tema n. 880 do STJ e à prescrição executória, como formuladas, dependem do reexame do conjunto fático-probatório, providência vedada em recurso especial, nos termos da Súmula n. 7 do STJ.
+4. Ausentes argumentos específicos e suficientes para alterar os fundamentos da decisão monocrática agravada, o agravo interno não merece prosperar.
+5. Agravo interno desprovido.
+VOTO
+Trata-se, na origem, de cumprimento de sentença promovida pela ASSOCIAÇÃO NACIONAL DOS SERVIDORES DA POLÍCIA FEDERAL - ANSEF em favor dos seus associados, visando ao pagamento de diferenças da GOE - Gratificação de Operações Especiais - a que fora condenada a União na Ação Coletiva de n. 0002329-17.1990.4.05.8000, que tramitou na 2ª Vara da Seção Judiciária de Maceió/AL.
+Após sucumbência nas instâncias ordinárias, a União interpôs recurso especial, do qual se conheceu parcialmente e, nessa extensão, foi-lhe negado provimento.
+Ato contínuo, o Ente Federal interpôs o presente agravo interno a fim de modificar a decisão que lhe foi desfavorável.
+A despeito dos argumentos veiculados no presente recurso, a insatisfação não merece prosperar.
+O caso em tela foi devidamente apreciado pelo Tribunal a quo, não havendo falar em omissão passível de se invocar os arts. 489 e 1.022, incisos I e II, parágrafo único, do CPC.
+Com efeito, o Tribunal de origem enfrentou a controvérsia e fundamentou sua decisão, conforme se segue (fls. 736-747; grifos nos originais):
+ ..
+E o pronunciamento do juízo de primeiro grau restou integralmente confirmado pela 1ª Turma deste Tribunal quando do julgamento do agravo de instrumento interposto pela ANSEF e outros (Processo nº 0000286- 69.2018.4.05.0000), com trânsito em julgado já certificado dos autos do agravo.
+Por todo o exposto, evidencia-se que a demora havida em relação aos pretensos beneficiários do título judicial remanescentes não decorreu de entrave passível de ser atribuído à executada, já que havia fichas financeiras nos autos originários e não há nenhum indicativo de que especificamente para todos estes 2.081 servidores remanescentes faltassem tais documentos e muito menos que foi intentada pelos interessados e obstada pela executada a apresentação das fichas.
+Decorreu, a bem da verdade, de lapso por parte da própria entidade associativa em obter os elementos necessários à individualização necessária dos 2.081 servidores remanescentes, ou seja, da dificuldade dela em conseguir oportunamente a prova de que eles eram associados quando da prolação da sentença coletiva exequenda, pressuposto necessário para que pudesse ser intentada a execução em prol deles.
+Consequentemente, não se cogita a aplicação da modulação de efeitos do Tema 880 do STJ no caso dos autos.
+No mesmo sentido, cito julgado recente da 7ª Turma deste Tribunal:
+ ..
+Esta não é, todavia, a orientação prevalecente no âmbito deste Colegiado, que em casos análogos tem reiteradamente refutado a prescrição da pretensão executiva por entender demonstrado que os autos não estão instruídos com as fichas financeiras dos exequentes, atraindo a incidência da modulação de efeitos do Tema 880 do STJ, bem como que não restou provada pela executada a retomada do curso do prazo prescricional, interrompido pela propositura da execução coletiva originalmente ajuizada nos autos da Ação Ordinária nº 0002329-17.1990.4.05.8000.
+ .. .
+Assim, considerando a fundamentação do acórdão recorrido acima transcrita, os argumentos utilizados pela parte recorrente - no sentido de que, ao contrário do que ficou decidido na origem, é inaplicável a tese firmada na modulação do Tema n. 880/STJ - somente poderiam ter a sua procedência verificada mediante necessário reexame de matéria fático-probatório. Todavia, não cabe a esta Corte, a fim de alcançar conclusão diversa, reavaliar todo o conjunto de fatos e provas da causa, conforme preceitua o enunciado da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial").
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. MODULAÇÃO DOS EFEITOS DO TEMA 880/STJ. INAPLICABILIDADE. EXISTÊNCIA DE PEDIDO DE ENTREGA DAS FICHAS FINANCEIRAS. CIRCUNSTÂNCIA FÁTICA NÃO RECONHECIDA NO ACÓRDÃO DA ORIGEM. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Este Tribunal de Uniformização, no julgamento do REsp n. 1.336.026/PE, submetido ao rito dos recursos repetitivos, consolidou o entendimento de que, "A partir da vigência da Lei n. 10.444/2002, que incluiu o § 1º ao art. 604, dispositivo que foi sucedido, conforme Lei n. 11.232/2005, pelo art. 475-B, §§ 1º e 2º, todos do CPC/1973, não é mais imprescindível, para acertamento de cálculos, a juntada de documentos pela parte executada ou por terceiros, reputando-se correta a conta apresentada pelo exequente, quando a requisição judicial de tais documentos deixar de ser atendida, injustificadamente, depois de transcorrido o prazo legal. Assim, sob a égide do diploma legal citado, incide o lapso prescricional, pelo prazo respectivo da demanda de conhecimento (Súmula 150/STF), sem interrupção ou suspensão, não se podendo invocar qualquer demora na diligência para obtenção de fichas financeiras ou outros documentos perante a administração ou junto a terceiros" (REsp n. 1.336.026/PE, relator Ministro Og Fernandes, Primeira Seção, julgado em 28/6/2017, DJe de 30/6/2017).
+2. No julgamento dos EDcl no REsp 1.336.026/PE, a Primeira Seção do STJ resolveu modular os efeitos do entendimento supracitado, deixando claro que os comandos ali contidos valeriam apenas para as decisões transitadas em julgado sob a vigência do CPC/1973 e que estivessem dependendo, para ingressar com o pedido de cumprimento de sentença, do fornecimento de documentos ou fichas financeiras pelo executado.
+3. No caso em exame, foi assentado nos pronunciamentos judiciais da primeira e da segunda instância que a promoção do cumprimento de sentença ora em exame não dependeria do fornecimento de documentos ou fichas financeiras pelo executado, o que afastaria a aplicação da modulação de efeitos do Tema 880/STJ.
+4. Embora a parte alegue que houve pedido expresso do sindicato, na qualidade de substituto processual, de entrega das fichas financeiras, indicando que o cumprimento de sentença dependia do fornecimento da documentação solicitada, é certo que tal circunstância fática não foi reconhecida na origem, de modo que o seu acolhimento não prescindiria do revolvimento do acervo fático-probatório, procedimento inviável na via eleita, ante a previsão contida na Súmula 7/STJ.
+5. Agravo interno desprovido.
+(AgInt no AgInt no AgInt no AREsp n. 1.816.363/AL, relator Ministro Marco Aurélio Bellizze, Segunda Turma, julgado em 17/12/2025, DJEN de 22/12/2025. Sem grifos no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART 1.022 DO CPC/2015. NÃO OCORRÊNCIA. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TEMA 880/STJ. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não há violação do art. 1.022 do Código de Processo Civil de 2015 (CPC/2015) quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão recorrido.
+3. A revisão do entendimento do Tribunal de origem, no que se refere à inaplicabilidade da modulação estabelecida no julgamento do tema 880/STJ, demandaria necessariamente o reexame do conteúdo fático-probatório dos autos, o que é vedado em sede de recurso especial, ante o óbice da Súmula 7 do STJ.
+4. Agravo interno não conhecido.
+(AgInt no REsp n. 2.141.844/AL, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 17/11/2025, DJEN de 24/11/2025. Sem grifos no original)
+Como se vê, as teses relativas à coisa julgada, modulação dos efeitos do Tema n. 880/STJ e prescrição executória, tal como formuladas, dependem do reexame do conjunto fático-probatório, providência vedada em recurso especial, nos termos da Súmula n. 7/STJ.
+Assim, o agravo interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
