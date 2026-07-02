@@ -1,0 +1,68 @@
+DECISÃO
+
+Trata-se de Agravo em Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (Doc. 57, fl. 1):
+
+“EMENTA: APELAÇÃO CÍVEL – MANDADO DE SEGURANÇA – ISENÇÃO ICMS – COMPRA DE VEÍCULO POR PESSOA COM DEFICIÊNCIA – ISENÇÃO SOB CONDIÇÃO – DESCUMPRIMENTO DE PRAZO PARA APRESENTAÇÃO DO DANFE – REVOGAÇÃO DA ISENÇÃO – PREVISÃO LEGAL – RECURSO NÃO PROVIDO.
+1. As pessoas com deficiência têm isenção de ICMS para compra de veículo novo, desde que observados requisitos e prazos previstos no RICMS.
+2. A lei determina que o adquirente do veículo deve apresentar o DANFE – documento auxiliar da nota fiscal – à autoridade fazendária, no prazo de quinze dias úteis da data de emissão da nota, sob pena de revogação da isenção.
+3. Se o beneficiário não cumpre todas as obrigações, deixando de apresentar o DANFE dentro do prazo exigido, não é ilegal nem abusivo o ato que revoga a isenção, pois decorrente de expressa previsão legal.
+4. Recurso desprovido.”
+Opostos Embargos de Declaração (Doc. 68), foram rejeitados (Doc. 74).
+No Recurso Extraordinário (Doc. 79), com fundamento no art. 102, III, “a”, da Constituição Federal, MARIA APARECIDA MORAIS DA MATA aponta violação ao art. 5º, LV, da CF/1988.
+Alega que por ser portadora de deficiência, “na forma autorizada pela Lei Estadual 15.757/2005 e pelo Regulamento do ICMS1 faz jus à isenção do imposto na aquisição de veículo automotor novo” (Doc. 79, fl. 2). (...) “Todavia, foi recentemente cientificada da revogação da isenção” (Doc. 79, fl. 2), ao fundamento de que teria extrapolado “o prazo de 15 (quinze) dias úteis para protocolar a cópia do Documento Auxiliar de Nota Fiscal Eletrônica (DANFE) de aquisição do automóvel perante a Administração Fazendária, o que acarretaria a perda do benefício” (Doc. 79, fl. 3).
+Afirma que “os atos administrativos que repercutem sobre a esfera de direitos ou interesses individuais somente podem ser revogados ou anulados mediante instauração de processo administrativo, por meio do qual se garanta ampla defesa e contraditório ao administrado, previamente à decisão administrativa” (Doc. 79, fl. 5). Entretanto, “o acórdão, singelamente, compreendeu que por se tratar de ato vinculado, desnecessária a prévia instauração de procedimento administrativo” (Doc. 79, fl. 5).
+Destaca que “o STF, no Tema 138, já definiu que “ao Estado é facultada a revogação de atos que repute ilegalmente praticados; porém, se de tais atos já tiverem decorrido efeitos concretos, seu desfazimento deve ser precedido de regular processo administrativo”(Doc. 79, fls. 5-6).
+Aduz que “a existência de processo administrativo é condição indispensável à revogação da isenção, sobretudo porque há consequências diretas ao particular, beneficiário do ato administrativo” (Doc. 79, fl. 6).
+Requer, ao final, seja provido o presente recurso reformando-se o acórdão recorrido para conceder a segurança.
+Em seguida, determinou-se, na origem, o retorno dos autos ao órgão julgador para eventual juízo de retratação ao Tema 138 da repercussão geral (Doc. 90), ocasião em que o acórdão recorrido foi mantido (Doc. 92).
+Em exame de admissibilidade (Doc. 93), o Juízo de origem inadmitiu o RE aos fundamentos de que: (a) a parte recorrente não apontou qual dispositivo constitucional teria sido violado, circunstância que atrai a incidência da Súmula 284/STF; (b) a revisão do acórdão recorrido só seria possível mediante o reexame do acervo probatório e da legislação local, atraindo a incidência das Súmulas 279/STF e 280/STF.
+No agravo (Doc. 96), a parte agravante refuta todos os óbices sumulares apontados na decisão de inadmissibilidade.
+É o relatório. Decido.
+
+Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+A obrigação do recorrente de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgRsegundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+Eis os fundamentos da parte para sustentar a repercussão geral da matéria (Doc. 79, fl. 4):
+
+“16. Impõe-se, de plano, a demonstração da relevância política, social e jurídica do presente recurso extraordinário, nos termos do art. 102, § 3º, da CF/88.
+17. Nesse ponto específico, cumpre ressaltar que a repercussão geral da matéria suscitada pela recorrente já se encontra reconhecida no âmbito desse C. Supremo Tribunal Federal: a) no Tema nº 138, o STF já reconheceu a existência de repercussão geral acerca da necessidade de prévio processo administrativo para revogar ato que tenha efeitos concretos e fixou a tese de que “Ao Estado é facultada a revogação de atos que repute ilegalmente praticados; porém, se de tais atos já tiverem decorrido efeitos concretos, seu desfazimento deve ser precedido de regular processo administrativo.” b) de outro lado, a matéria objeto de recurso guarda relação direta com a orientação estabelecida pela Súmula 544/STF, uma vez que “isenções tributárias concedidas, sob condição onerosa, não podem ser livremente suprimidas.”
+18. Portanto, preenchido o requisito da repercussão geral das matérias abordadas no presente recurso, resta imperioso o seu conhecimento.”
+
+Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+Além disso, o Tribunal de origem manteve a sentença denegatória da ordem pretendida nos autos do mandado de segurança impetrado pela recorrente, visando ver reconhecida a ilegalidade do ato que revogou a isenção do Imposto sobre Circulação de Mercadorias e Serviços (ICMS) conferida para aquisição de veículo novo, haja vista o descumprimento de obrigação prevista no RICMS. Vejam-se os seguintes trechos do voto condutor do acórdão recorrido (Doc. 57, fls. 3-7):
+
+“A controvérsia versa sobre a legalidade do ato que revogou a isenção do ICMS conferida à impetrante.
+(...)
+O Regulamento do ICMS vigente à época (RICMS/2002) previa, em seu art. 6º, § 2º, que as isenções concedias sob condições posteriores poderiam ser revogadas no caso de descumprimento pelo beneficiário.
+(...)
+Realizada a aquisição do veículo, com a emissão da nota fiscal, o adquirente tinha o prazo de 15 dias uteis para apresentar o DANFE, conforme item 28.14 do Anexo I, parte 1, sob pena de revogação da isenção (item 28.15, d) e todo o procedimento estaria sujeito à homologação pelo Superintendente Regional da Fazenda.
+(...)
+No caso, a autorização para compra foi concedida em 24.01.2018, com prazo de validade até 21.10.2018. A nota fiscal foi emitida na data de 08.03.2018 e apresentada em 09.04.2018. Entretanto, da decisão administrativa que revogou a isenção fundou-se no descumprimento do prazo para apresentação do DANFE (ordem 04).
+(...)
+Assim, como não foi observado o prazo estipulado no item 28.14 do Anexo I, parte 1 do RICMS, não há ilegalidade na revogação da isenção, porque fundada na previsão do item 28.15, d do Anexo I, parte 1 do RICMS.
+Em consequência, por se tratar de ato vinculado, desnecessária a prévia instauração de procedimento administrativo.”
+
+Esse entendimento foi mantido por ocasião do juízo de retratação negativo ao Tema 138 da repercussão geral, oportunidade em que o Tribunal local decidiu que “a revogação do benefício decorreu da inobservância de requisito legal objetivo (apresentação extemporânea da nota  fiscal), nos termos do sub item 28.14 do Anexo I do RICMS/2002, o que configura ato administrativo vinculado, afastando qualquer margem de discricionariedade por parte da Administração Pública” (Doc. 92, fl. 2).
+Assim, concluiu pela inaplicabilidade ao caso do Tema 138 da repercussão geral, “pois houve procedimento administrativo regular, iniciado pela própria interessada, e o desfazimento do ato não decorreu de revisão discricionária, mas sim do descumprimento de condição de condição legal expressa, cujo controle é objetivo e automático” (Doc. 92, fl. 2).
+Assim, para divergir do entendimento formulado pelo Tribunal de origem, seria necessário o reexame da legislação infraconstitucional local, o que inviabiliza a análise do presente apelo em face do óbice da Súmula 280/STF (por ofensa a direito local não cabe recurso extraordinário), bem como do conteúdo probatório dos autos, providência igualmente vedada na via extraordinária, conforme previsto na Súmula 279/STF (para simples reexame de prova não cabe recurso extraordinário).
+Nesse sentido, confiram-se os seguintes precedentes:
+“Ementa: Direito tributário. Agravo regimental no recurso extraordinário com agravo. Tributário. IPVA. ICMS. Isenção. Pessoa com deficiência. Aquisição de veículo. Limite de valor. Legislação estadual. Ofensa constitucional indireta. Súmula 280/STF. Agravo não provido. I. Caso em exame 1. Trata-se de agravo regimental interposto contra decisão que negou seguimento a recurso extraordinário. II. Questão em discussão 2. A questão em discussão consiste em saber se o princípio da isonomia autoriza a extensão do valor-teto de isenção do IPI, tributo federal, para fins de isenção de ICMS e IPVA, tributos estaduais, na aquisição de veículo por pessoa com deficiência, quando a legislação estadual estabelece um limite de valor para o benefício. III. Razões de decidir 3. Não ficou demonstrado o desacerto da decisão agravada, sendo as alegações da parte impertinentes e decorrentes de mero inconformismo, sem argumentos suficientes para infirmá-la. 4. A matéria debatida restringe-se ao âmbito infraconstitucional, de modo que eventual ofensa à Constituição Federal seria reflexa ou indireta, o que inviabiliza o processamento do recurso, conforme Súmula 280 do Supremo Tribunal Federal. IV. Dispositivo e tese 5. Agravo não provido.” (ARE 1597316 AgR / GO, Relator(a): Min. GILMAR MENDES, Segunda Turma, DJe de 24/6/2026)
+
+“DIREITO TRIBUTÁRIO. ISENÇÃO DO IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS ICMS. AQUISIÇÃO DE VEÍCULO. DEFICIENTE FÍSICO. DEBATE INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. ACÓRDÃO RECORRIDO PUBLICADO EM 14.7.2010.
+A suposta ofensa à Constituição Federal somente poderia ser constatada a partir da análise da legislação infraconstitucional que fundamentou o acórdão da origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada. Agravo regimental conhecido e não provido.” (ARE 715.383 AGR, Rel. Min. ROSA WEBER, Primeira Turma, DJe 22/10/2013)
+
+“Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. ICMS. Isenção. Deficiente físico. 3. Necessidade do reexame de conteúdo fático-probatório. Súmula 279. 4. Ofensa meramente reflexa ao texto constitucional. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento” (ARE 660.441 AGR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe 11/6/2014).
+
+“EMENTA: RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ICMS. AQUISIÇÃO DE VEÍCULOS AUTOMOTORES POR PORTADOR DE DEFICIÊNCIA FÍSICA. ISENÇÃO. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279 DESTA CORTE. INEXISTÊNCIA DE REPERCUSSÃO GERAL.”(RE 790.799-RG, Rel. Min. LUIZ FUX, Tribunal Pleno, DJe 29/4/2014)
+
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO EM RECURSO EXTRAORDINÁRIO.
+Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+Ficam AMBAS AS PARTES advertidas de que:
+- a interposição de recursos manifestamente inadmissíveis ou improcedentes, ou meramente protelatórios, acarretará a imposição das sanções cabíveis;
+- decorridos 15 (quinze) dias úteis da intimação de cada parte sem a apresentação de recursos, será certificado o trânsito em julgado e dada baixa dos autos ao Juízo de origem.
+Publique-se.
+Brasília, 2 de julho de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
