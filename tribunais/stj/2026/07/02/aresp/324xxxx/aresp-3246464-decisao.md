@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo interposto por Ivo Wippel em face de decisão proferida pelo Tribunal de Justiça do Estado de Santa Catarina (TJSC) que não admitiu recurso especial, sob os seguintes fundamentos: (i) ausência de ofensa ao art. 1.022 do CPC; (ii) falta de prequestionamento dos arts. 10, § 6º, e 59 da Lei 11.101/2005; (iii) quanto ao art. 49 da Lei 11.101/2005, conformidade do julgado com o Tema Repetitivo 1.051 do Superior Tribunal de Justiça (STJ); e (iv) quanto ao art. 9º, II, aplicação da Súmula 83/STJ (fls. 121-123).
+Nas razões do presente agravo em recurso especial, a parte agravante alega, em síntese, que a decisão ora recorrida violou o art. 1.022 do CPC ao rejeitar embargos de declaração sem enfrentar pedidos de prequestionamento dos arts. 485, VI, do CPC e 9º, II, 10, § 6º, 49 e 59 da Lei 11.101/2005.
+Argumenta haver prequestionamento implícito dos arts. 10, § 6º, e 59 da Lei 11.101/2005, com apoio em precedente do STJ, sustentando que a matéria foi efetivamente debatida pelo acórdão recorrido, ainda que sem menção expressa aos dispositivos.
+Defende que não incide a Súmula 83/STJ sobre o art. 9º, II, da Lei 11.101/2005, citando decisão do STJ que teria permitido a atualização do crédito até a segunda recuperação judicial, e não até a primeira.
+Impugnação ao agravo em recurso especial às fls. 152-160, na qual a parte agravada alega que não houve demonstração da relevância do art. 105, § 3º, da Constituição Federal, falta de prequestionamento, fundamentação deficiente (Súmula 284/STF), necessidade de reexame de provas (Súmula 7/STJ) e consonância do acórdão com a jurisprudência do STJ.
+Assim posta a questão, passo a decidir.
+O recurso não merece prosperar.
+Nos termos do art. 932, inciso III, do Código de Processo Civil (CPC) e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+Considerando todos os fundamentos da decisão que não admitiu o recurso especial acima relatados, observo que a parte, nas razões do seu agravo em recurso especial, deixou de impugnar, em absoluto, a negativa de seguimento quanto ao art. 49 da Lei 11.101/2005 por matéria repetitiva (Tema 1051/STJ), nos termos do art. 1.030, I, "b", c/c art. 1.040, I, do CPC.
+Ademais, quanto à aplicação da Súmula 83/STJ, a impugnação mostrou-se genérica, haja vista que a parte indica tão somente uma decisão singular sobre a matéria, desconsiderando, contudo, que a referida decisão já foi alterada em julgamento colegiado, sendo o argumento insuficiente, portanto, para afastar o óbice aplicado na origem.
+Observe-se, por oportuno, a ementa do julgado mencionado pela parte, qual seja, o Recurso Especial 2.138.916/RS, de relatoria do Ministro Ricardo Villas Bôas Cueva:
+RECURSO ESPECIAL. EMPRESARIAL. RECUPERAÇÃO JUDICIAL. FALHA NA PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. ATUALIZAÇÃO DOS CRÉDITOS. FATO GERADOR. PRIMEIRA RECUPERAÇÃO JUDICIAL. SUJEIÇÃO. ATUALIZAÇÃO. DATA DO PRIMEIRO PEDIDO. INTELIGÊNCIA DO ARTIGO 9º, II, DA LREF.
+1. A controvérsia dos autos resume-se a definir: (i) se houve falha na prestação jurisdicional e (ii) se o crédito que tem como fato gerador data anterior ao primeiro pedido de recuperação judicial deve ser atualizado, para o fim de habilitação, até o ajuizamento do segundo pedido de recuperação judicial.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, ainda que de forma sucinta, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. O artigo 9º, inciso II, da Lei nº 11.101/2005, determina que o crédito a ser habilitado pelo credor deve ser atualizado até a data da decretação da falência ou do pedido de recuperação judicial.
+4. A determinação de atualização do crédito até a data do pedido tem como objetivo equalizar os parâmetros de correção para uniformizar os direitos dos credores no momento da votação do plano de recuperação judicial.
+5. O crédito deve ser corrigido somente até a data do pedido, pois, posteriormente, ele será atualizado na forma que dispuser o plano de recuperação judicial, tratando-se de uma garantia mínima.
+6. O reconhecimento judicial da concursalidade do crédito, seja antes ou depois do encerramento do procedimento recuperacional, torna obrigatória a sua submissão aos efeitos da recuperação judicial, nos termos do art. 49, caput, da Lei nº 11.101/2005.
+7. Na hipótese, para manter a paridade com os demais credores submetidos ao primeiro plano de recuperação judicial, o crédito deve ser corrigido até a data do primeiro pedido e, em sequência, sofrer os eventuais deságios e atualizações previstos no primeiro plano.
+Ajuizada a segunda recuperação judicial, deverá seguir o mesmo destino que os créditos remanescentes da primeira recuperação, ainda não quitados, terão.
+8. Recurso especial não provido.
+(REsp n. 2.138.916/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 8/4/2025, DJEN de 15/4/2025)
+Confiram-se outros julgados no mesmo sentido:
+RECURSO ESPECIAL. PROCESSUAL CIVIL E EMPRESARIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. RECUPERAÇÃO JUDICIAL. CRÉDITO CONCURSAL ILÍQUIDO NÃO HABILITADO. TEMA 1.051/STJ. ATUALIZAÇÃO LIMITADA À DATA DO PRIMEIRO PEDIDO. ART. 9º, II, DA LEI 11.101/2005. HABILITAÇÃO TARDIA. ENCERRAMENTO DA PRIMEIRA RECUPERAÇÃO E SEGUNDO PEDIDO. IRRELEVÂNCIA. RECURSO A QUE SE NEGA PROVIMENTO.
+1. O acórdão recorrido enfrentou de modo suficiente as questões essenciais ao julgamento, não se configurando negativa de prestação jurisdicional quanto ao art. 1.022 do Código de Processo Civil.
+Precedentes.
+2. Créditos decorrentes de fatos geradores anteriores ao pedido de recuperação judicial submetem-se aos seus efeitos, ainda que ilíquidos ou não habilitados, incidindo a limitação da atualização à data do primeiro pedido, nos termos do art. 9º, II, da Lei 11.101/2005 (Tema 1.051/STJ). Precedente.
+3. O encerramento da primeira recuperação judicial, a existência de segundo pedido e a opção pela habilitação tardia não afastam a sujeição do crédito ao plano originário nem alteram o termo final da atualização. Precedente.
+4. Recurso especial a que se nega provimento.
+(REsp n. 2.188.642/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 30/3/2026, DJEN de 7/4/2026)
+RECURSO ESPECIAL. EMPRESARIAL E PROCESSUAL CIVIL. RECUPERAÇÃO JUDICIAL. CRÉDITO COM FATO GERADOR ANTERIOR AO PEDIDO RECUPERACIONAL. SUBMISSÃO AOS EFEITOS DO PLANO DE SOERGUIMENTO. OBRIGATORIEDADE. CRÉDITO NÃO HABILITADO. ATUALIZAÇÃO MONETÁRIA. LIMITAÇÃO. DATA DO PEDIDO DE RECUPERAÇÃO JUDICIAL. INTELIGÊNCIA DOS ARTIGOS 49 E 59 DA LEI Nº 11.101/2005. TRATAMENTO ISONÔMICO AOS CREDORES. JURISPRUDÊNCIA DO STJ. RECURSO ESPECIAL PROVIDO.
+1. A controvérsia jurídica se limita a saber se o crédito com fato gerador anterior ao pedido de recuperação judicial se submete aos efeitos do plano de soerguimento, ainda que o credor opte por não habilitá-lo.
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, o reconhecimento da natureza concursal do crédito torna obrigatória sua submissão aos efeitos da recuperação judicial.
+3. Apesar de ser uma faculdade do credor a habilitação do crédito, este se sujeita à novação e às condições do plano de soerguimento.
+4. Para garantir o tratamento isonômico a todos os credores, a atualização monetária do crédito, seja ele habilitado ou não, deve ser limitada à data do pedido de recuperação judicial, conforme o art. 9º, inciso II, da Lei nº 11.101/2005.
+5. A decisão do Tribunal de origem, ao permitir a continuidade da execução e a não limitação da atualização monetária, está em dissonância com a jurisprudência desta Corte Superior.
+6. Recurso especial provido para reformar o acórdão recorrido e declarar que o crédito está sujeito aos efeitos da recuperação judicial, e sua atualização monetária limitada à data do primeiro pedido recuperacional.
+(REsp n. 2.112.504/RS, relator Ministro Humberto Martins, Terceira Turma, julgado em 11/5/2026, DJEN de 15/5/2026)
+Sendo assim, o acórdão recorrido, ao decidir que a atualização do crédito concursal deve observar o art. 9º, inciso II, da Lei 11.101/2005, com marco final na data do primeiro pedido de recuperação judicial, não se afastou da jurisprudência do STJ, como apontado na decisão de inadmissibilidade do especial.
+Registro, por fim, que a impugnação da decisão agravada há de ser específica, de maneira que, não admitido o recurso especial, a parte recorrente deve explicitar os motivos pelos quais não incidem os óbices apontados, sob pena de vê-los mantidos.
+Assim, em respeito ao princípio da dialeticidade, os recursos devem ser fundamentados, sendo necessária a impugnação específica a todos os pontos analisados na decisão recorrida, sob pena de não conhecimento do recurso, por ausência de cumprimento dos requisitos previstos no art. 932, III, do CPC, e pela aplicação analógica da Súmula 182 do STJ. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO, ANTE A AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Consoante expressa previsão contida nos artigos 932, III, do CPC/15 e 253, I, do RISTJ e em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão que inadmitiu o apelo extremo, o que não aconteceu na hipótese. Incidência da Súmula 182 do STJ.
+2. São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte autora, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada.
+Precedentes.
+3. Agravo interno não provido.
+(AgInt no AREsp 1904123/MA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 4/10/2021, DJe 8/10/2021)
+A propósito, a Corte Especial do STJ manteve o entendimento de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo em recurso especial, por aplicação da Súmula 182/STJ (Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Relator Ministro João Otávio de Noronha, Relator para acórdão Ministro Luis Felipe Salomão, julgamento em 19/9/2018, DJe 30/11/2018).
+Desse modo, sem a impugnação específica e suficiente para infirmar todos os fundamentos da decisão agravada, aplica-se, por analogia, o enunciado n. 182 da Súmula do STJ.
+Em face do exposto, não conheço do agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro em 10% a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
