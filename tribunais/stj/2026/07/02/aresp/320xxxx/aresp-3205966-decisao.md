@@ -1,0 +1,88 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual o SINDICATO DOS POLICIAIS CIVIS DO ESTADO DE SC se insurgira contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA assim ementado (fls. 32/33):
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. ALEGAÇÃO DE ILEGITIMIDADE ATIVA DE EXEQUENTES QUE AJUIZARAM AÇÕES INDIVIDUAIS POSTERIORES À COLETIVA. RENÚNCIA TÁCITA AOS EFEITOS DA COISA JULGADA COLETIVA. COMPROVAÇÃO DE CIÊNCIA INEQUÍVOCA POR IDENTIDADE DE PATRONOS NAS DEMANDAS COLETIVA E INDIVIDUAL. ILEGITIMIDADE CONFIGURADA. AUSÊNCIA DE PROVA DE CIÊNCIA EM RELAÇÃO A EXEQUENTE REPRESENTADO POR ADVOGADO DIVERSO. LEGITIMIDADE PRESERVADA. DECISÃO REFORMADA EM PARTE. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+I. CASO EM EXAME:
+1. Agravo de instrumento interposto pelo Estado de Santa Catarina contra decisão que, em cumprimento de sentença coletiva, rejeitou a alegação de ilegitimidade ativa de determinados exequentes, sob o fundamento de ausência de prova inequívoca de ciência prévia da ação coletiva no momento do ajuizamento das ações individuais.
+II. QUESTÃO EM DISCUSSÃO:
+2. A questão em discussão consiste em saber se:
+(i) o ajuizamento de ação individual posterior à coletiva configura renúncia tácita aos efeitos da coisa julgada coletiva;
+(ii) a identidade de procuradores nas ações coletiva e individual é suficiente para demonstrar ciência inequívoca da demanda coletiva;
+(iii) a ausência de prova da ciência prévia impede o reconhecimento da renúncia tácita e a exclusão do substituído processualmente do cumprimento de sentença coletiva.
+III. RAZÕES DE DECIDIR:
+1. O art. 104 do Código de Defesa do Consumidor aplica-se apenas quando a ação coletiva é posterior à individual.
+2. A jurisprudência do STJ e do TJSC exige prova inequívoca de ciência da parte sobre a existência da ação coletiva para configurar renúncia tácita.
+3. Havendo identidade de procuradores nas ações coletiva e individual, presume-se a ciência inequívoca da parte substituída.
+4. Na ausência de identidade de procuradores ou de manifestação nos autos sobre a ação coletiva, não se configura renúncia tácita.
+5. A mera condição de associado ou a existência de informações em website não são suficientes para presumir ciência inequívoca.
+6. Reconhecida a ilegitimidade ativa do exequente representado pelo mesmo procurador nas duas ações. 7. Mantida a legitimidade ativa da exequente que não teve representação comum nas ações.
+IV. DISPOSITIVO E TESE:
+Recurso conhecido e parcialmente provido.
+Tese de julgamento:
+"1. O art. 104 do CDC aplica-se apenas quando a ação coletiva é posterior à individual."
+"2. A renúncia tácita aos efeitos da coisa julgada coletiva exige prova inequívoca de ciência da parte sobre a existência da ação coletiva no momento do ajuizamento da demanda individual."
+"3. Havendo identidade de procuradores nas ações coletiva e individual, presume-se a ciência inequívoca e configura-se renúncia tácita."
+"4. A ausência de identidade de procuradores ou de manifestação nos autos sobre a ação coletiva impede o reconhecimento da renúncia tácita."
+Dispositivos relevantes citados: CDC, art. 104.
+Jurisprudência relevante citada: STJ, AgInt no AgInt no REsp n. 2.102.724/AL, relator Ministro Gurgel de Faria, julgado em 24/2/2025, DJEN de 28/2/2025; STJ, AgInt no AREsp n. 1.980.851/RS, Rel. Min. Francisco Falcão, 2ª Turma, D Je 14.09.2022; STJ, AgInt no AREsp n. 1.766.122/SC, Rel. Min. Sérgio Kukina, 1ª Turma, D Je 18.08.2021; TJSC, Apelação n. 5000599-72.2019.8.24.0023, Rel. Des. Francisco José Rodrigues de Oliveira Neto, 2ª Câmara de Direito Público, j. 22.03.2022; TJSC, Agravo de Instrumento n. 5021329-66.2025.8.24.0000, Rel. Des. Sandro Jose Neis, 3ª Câmara de Direito Público, j. 03.06.2025.
+Não foram opostos embargos de declaração.
+A parte agravante requereu o provimento de seu recurso.
+A parte adversa apresentou contraminuta (fls. 65/68).
+É o relatório.
+Da irresignação não é possível conhecer porque a parte agravante não refutou adequadamente a decisão agravada.
+O recurso especial não foi admitido, primeiramente, porque o acórdão recorrido estaria alinhado ao entendimento do Superior Tribunal de Justiça (STJ) no sentido de que as regras do art. 104 do Código de Defesa do Consumidor incidiriam apenas quando a propositura da ação coletiva ocorresse posteriormente à propositura da ação individual. Na ocasião foi aplicado o enunciado 83 da Súmula deste Tribunal (fls. 55/57).
+Também não se admitiu o recurso porque a reforma do acórdão recorrido, no que diz respeito à ciência inequívoca da parte recorrente sobre a existência de ação coletiva antecedente, demandaria a revisão de fatos e de provas constantes nos autos, incidindo a Súmula 7 do STJ (fl. 57).
+Confiram-se estes trechos da decisão de admissibilidade:
+(1) "Quanto à controvérsia, no tocante ao alegado dissídio jurisprudencial em relação ao art. 104 do Código de Defesa do Consumidor, o Colegiado de origem, ao dar provimento parcial ao agravo de instrumento a fim de reconhecer a ilegitimidade ativa do exequente Adalberto Luiz Gavioli Júnior, concluiu que, além de a ação individual ter sido ajuizada após a ação coletiva, restou demonstrado que a parte insurgente - exequente - tinha ciência inequívoca sobre a tramitação da ação coletiva quando do ajuizamento da ação individual.
+Por esclarecedora, convém reproduzir a ementa do acórdão recorrido:
+ ..
+E, ao assim decidir, verifico que o Órgão Julgador não destoou da jurisprudência firmada pelo Superior Tribunal de Justiça, a saber:
+ ..
+Dessarte, tendo em vista que a decisão hostilizada perfilhou tese congruente com a jurisprudência do STJ, o presente reclamo não merece ser admitido em razão do óbice trazido pela Súmula 83 do STJ, in verbis: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida"" (fls. 55/57); e
+(2) "A par disso, quanto à controvérsia, no que pertine à ausência de prova da ciência inequívoca da parte recorrente sobre a existência de ação coletiva antecedente, a ascensão do reclamo esbarra na Súmula 7 do STJ, pois verifico que a análise das razões recursais, tais como postas, e a reversão da conclusão alcançada pelo acórdão recorrido demandariam reexame do contexto fático-probatório, e não sua mera revaloração, providência inviável em sede de recurso especial, nos termos do referido enunciado sumular ("A pretensão de simples reexame de prova não enseja recurso especial").
+A propósito, mudando o que deve ser mudado, por amostragem, colho da jurisprudência da Corte Superior:  .. " (fl. 57).
+O Superior Tribunal de Justiça possui o entendimento de que, inadmitido o recurso especial em razão de divergência entre sua jurisprudência e a pretensão recursal, a parte recorrente deve, obrigatoriamente, apresentar julgados deste Tribunal contemporâneos ou supervenientes aos que figuraram na decisão de admissibilidade, realizando o cotejo analítico entre eles. Ou, a depender do caso, pode ainda demonstrar que a questão tratada no processo em nada se assemelha àquelas indicadas na decisão agravada.
+Confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMPRÉSTIMO COMPULSÓRIO. ELETROBRÁS. JUROS REMUNERATÓRIOS E MORATÓRIOS. IMPUTAÇÃO DE PAGAMENTO. INADMISSÃO COM FUNDAMENTO NA SÚMULA 83 DO STJ. AUSÊNCIA DE INDICAÇÃO DE PRECEDENTE CONTEMPORÂNEO OU POSTERIOR. NECESSIDADE DE REEXAME PROBATÓRIO. INADMISSIBILIDADE.
+ ..
+2. Na hipótese em que o recurso especial não é admitido com apoio na Súmula 83 do STJ, na impugnação recursal, devem-se apontar julgados deste Tribunal Superior contemporâneos ou supervenientes em sentido contrário aos precedentes indicados na decisão de inadmissão, ou indicar a distinção entre os casos julgados. Precedentes.
+3. No caso dos autos, o julgado da Segunda Turma invocado para a inadmissão do especial externa que "a parcela referente aos juros remuneratórios reflexos, inconfundível com os juros moratórios, compõe o principal do débito exequendo, de modo a ensejar, na imputação de pagamento, a aplicação do art. 354 do CC/2002" (REsp n. 1.810.639/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/6/2020, DJe de 18/9/2020), mas a parte recorrente não aponta nenhum precedente que, tratando da mesma situação fático-jurídica, tenha chegado à outra conclusão.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.336.038/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 2/10/2023, DJe de 4/10/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do recurso especial para que se conheça do respectivo agravo.
+2. Como registrado na primeira oportunidade, a empresa agravante não infirma especificamente a tese de que o acórdão recorrido estaria em consonância com o entendimento deste STJ. Logo, a Súmula 182 desta Corte foi corretamente aplicada ao caso.
+3. Incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão combatida, procedendo ao cotejo analítico entre eles.
+4. O disposto nos arts. 932, parágrafo único, e 1.029, § 3º, do Código de Processo Civil de 2015 não é aplicável na hipótese de incidência da Súmula 182 do Superior Tribunal de Justiça. Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.112.333/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 21/3/2019, DJe de 28/3/2019.)
+No mesmo sentido, entre outros: AgInt nos EDcl no AREsp 1.842.229/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 2/5/2023, DJe de 11/5/2023; AgInt no AREsp 2.190.005/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/5/2023, DJe de 26/6/2023; AgInt nos EDcl no AREsp 2.271.129/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/5/2023, DJe de 17/5/2023; AgInt no AREsp 1.902.574/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 28/3/2022, DJe de 4/4/2022.
+Em seu agravo em recurso especial, a parte agravante não trouxe argumentação idônea a indicar que o óbice em questão teria sido mal aplicado pela instância de origem, pois reiterou o mérito da causa, sem trazer julgados desta Corte em sentido contrário ao presente na decisão de inadmissão, assim dispondo (fl. 62):
+O acórdão recorrido sustentou renúncia tácita com base na suposta ciência dos substituídos, independentemente de comunicação processual. Todavia, a regra do art. 104 do CDC exige ciência inequívoca para que haja preclusão do direito de suspender a ação individual  elemento de fato que o acórdão não comprovou, sendo essa justamente a controvérsia central.
+Há precedentes inequívocos  muitos inclusive citados no próprio Recurso Especial, demonstrando orientação interpretativa diversa em tribunais superiores e no próprio TJSC  reconhecendo que na ausência de comunicação formal, não se presume ciência, afastando-se, portanto, renúncia automática aos efeitos coletivos.
+Portanto, não há coerência para aplicação da Súmula 83/STJ, pois a tese adotada no acórdão diverge do entendimento consolidado pela Corte Superior: a renúncia tácita é excepcional, nunca presumida.
+Deve-se observar, também, que a parte recorrente rebateu com fórmulas genéricas a aplicação da Súmula 7/STJ como óbice ao conhecimento do recurso especial, sem demonstrar a sua não incidência no caso concreto, conforme excerto a seguir reproduzido (fls. 62/63):
+A decisão agravada fundamentou-se na Súmula 7/STJ, alegando necessidade de revolvimento probatório. Ocorre que o ponto impugnado não demanda produção, revisão ou revaloração de provas  apenas correta interpretação jurídica do art. 104 do CDC, considerando ausência de ciência inequívoca devidamente alegada desde a origem.
+O que se discute é interpretação normativa, e não reconstrução fático-probatória.
+Logo, a inadmissão por Súmula 7/STJ não subsiste.
+A alegação de que o caso não demanda o reexame de fatos e de provas, ou a menção às razões expostas no recurso especial, não basta para infirmar a incidência da Súmula 7 do STJ.
+O entendimento deste Tribunal é o de que, para comprovar a inaplicabilidade do enunciado sumular em questão, a parte recorrente deve realizar o cotejo entre o acórdão recorrido e a tese recursal, o que não foi feito no presente caso.
+A propósito, cito o seguinte julgado deste Tribunal:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+II. Incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que inadmitiu o Recurso Especial, demonstrando o seu desacerto, de modo a justificar o processamento do apelo nobre, sob pena de não ser conhecido o Agravo (art. 932, III, do CPC vigente). Nesse sentido: STJ, AgRg no AREsp 704.988/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/09/2015; EDcl no AREsp 741.509/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 16/09/2015; AgInt no AREsp 888.667/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 18/10/2016; AgInt no AREsp 895.205/PB, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 20/10/2016.
+III. No caso, por simples cotejo entre o decidido e as razões do Agravo em Recurso Especial verifica-se a ausência de impugnação específica de todos os fundamentos da decisão que, em 2º Grau, inadmitira o Especial, o que atrai a aplicação do disposto no art. 932, III, do CPC/2015 - vigente à época da publicação da decisão então agravada e da interposição do recurso -, que faculta ao Relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida", bem como do teor da Súmula 182 do Superior Tribunal de Justiça, por analogia.
+IV. Na forma da jurisprudência "não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual" (STJ, AgInt no AREsp 1.067.725/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 20/10/2017).
+V. Agravo interno improvido.
+(AgInt no AREsp n. 1.223.898/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 21/3/2018, DJe 27/3/2018, sem destaques no original.)
+O agravo em recurso especial tem por objetivo desconstituir a decisão de inadmissão de recurso especial e, por isso, é imprescindível a impugnação específica de todos os fundamentos nela lançados com o fim de demonstrar o seu desacerto, o que, com o se vê, não foi feito no presente caso.
+Por faltar impugnação pertinente, aplico ao presente caso, por analogia, a Súmula 182 do Superior Tribunal de Justiça, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Sobre o tema:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+II. Incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que inadmitiu o Recurso Especial, demonstrando o seu desacerto, de modo a justificar o processamento do apelo nobre, sob pena de não ser conhecido o Agravo (art. 932, III, do CPC vigente). Nesse sentido: STJ, AgRg no AREsp 704.988/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/09/2015; EDcl no AREsp 741.509/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 16/09/2015; AgInt no AREsp 888.667/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 18/10/2016; AgInt no AREsp 895.205/PB, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 20/10/2016; AgInt no AREsp 800.320/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 13/10/2016; EAREsp 701.404/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018; EAREsp 831.326/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018; EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018.
+III. No caso, por simples cotejo entre o decidido e as razões do Agravo em Recurso Especial verifica-se a ausência de impugnação específica de todos os fundamentos da decisão que, em 2º Grau, inadmitira o Especial, o que atrai a aplicação do disposto no art. 932, III, do CPC/2015 - vigente à época da publicação da decisão então agravada e da interposição do recurso -, que faculta ao Relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida", bem como do teor da Súmula 182 do Superior Tribunal de Justiça, por analogia.
+IV. Agravo interno improvido.
+(AgInt no AREsp 1.503.814/MA, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/10/2019, DJe de 28/10/2019, sem destaque no original.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
