@@ -1,0 +1,8 @@
+DECISÃO
+Em análise dos autos, verifica-se que a controvérsia devolvida ao conhecimento desta Corte Superior, mediante o pedido de uniformização de interpretação de lei federal - PUIL, foi afetada pela Primeira Seção do STJ, nos autos dos PUILs 6.113/RO, 6.153/RO e 6.166/RO, por aplicação subsidiária do procedimento do art. 1.036 do CPC/ 2015, no Tema cuja questão submetida a julgamento restou assim delimitada: "Definir se a isenção de imposto de renda prevista no art. 6º, XIV, da Lei 7.713/1988  concedida a portadores de doença grave  abrange os proventos percebidos por militares na reserva remunerada, ou se se restringe exclusivamente aos proventos de aposentadoria ou reforma".
+Nesse contexto, os PUILs que tratam da mesma controvérsia neste Superior Tribunal de Justiça devem aguardar, na Turma Recursal, a solução da questão, viabilizando, assim, o juízo de conformação.
+Isso posto, determino a devolução dos autos à Turma Recursal para que o PUIL permaneça suspenso até a publicação dos acórdãos paradigmas, nos termos do art. 19, § 1º, da Lei 12.153/2019, observando-se, em seguida, o procedimento do art. 19, § 6º, da referida Lei.
+Advirto as partes que, na esteira da jurisprudência tranquila desta Corte, esta decisão possui recorribilidade limitada à demonstração do distinguishing, na forma do art. 1.037, §§ 9º e 10, IV, do CPC, sendo que não será conhecido eventual agravo interno ou pedido de reconsideração a pretender o julgamento do presente PUIL.
+A oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Intimem-se.
+EMENTA
