@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual Instituto Nacional do Seguro Social (INSS) se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do Tribunal Regional Federal da 4ª Região assim ementado (fl. 266):
+PREVIDENCIÁRIO. CONCESSÃO DE AUXÍLIO-RECLUSÃO. SEGURADO DE BAIXA RENDA. FORMA DE CÁLCULO DA MÉDIA DOS SALÁRIOS DE CONTRIBUIÇÃO NO PERÍODO DE 12 MESES ANTERIORES AO MÊS DE RECOLHIMENTO À PRISÃO. REQUISITOS PREENCHIDOS.
+1. Para a concessão auxílio-reclusão, em casos de prisões havidas a partir da edição da Medida Provisória n. 871/2019, é necessário o preenchimento dos seguintes requisitos: a) o recolhimento do segurado à prisão (em regime fechado); b) o não recebimento de remuneração da empresa ou de benefício previdenciário; c) a qualidade de dependente do requerente; d) a prova de que o presidiário era, ao tempo de sua prisão, segurado junto ao INSS; e) renda mensal do segurado inferior ao limite estipulado para a data do encarceramento; e f) o cumprimento da carência de 24 contribuições mensais (artigo 25, IV, da Lei 8.213/91).
+2. Para  ns de enquadramento do instituidor como segurado de baixa renda, o cálculo da média dos salários de contribuição nos últimos 12 meses anteriores ao mês de recolhimento à prisão deve ser feito dividindo-se a soma dos salários de contribuição do período por 12.
+3. Preenchidos os requisitos legais, faz jus a parte autora ao benefício de auxílio-reclusão postulado, devendo, pois, ser mantida a sentença de procedência.
+Não foram opostos embargos de declaração.
+A parte recorrente alega violação dos arts. 80, §§ 3º e 4º, da Lei 8.213/1991, sob a tese de que a aferição da renda para fins de baixa renda deve considerar a média aritmética apenas dos meses com contribuição ou percepção de salário dentro do período de doze meses, adotando como divisor o número de meses com efetiva contribuição, e não o número fixo doze (fls. 269/271).
+Sustenta ofensa ao(s) art(s). 80, § 3º, da Lei 8.213/1991, ao afirmar que a definição de baixa renda do segurado na competência do recolhimento à prisão deve observar, para apuração da renda, o critério do § 4º, interpretado como média aritmética dos salários de contribuição apenas dos meses com aporte, resultando divisor variável conforme a quantidade de competências contributivas (fls. 269/271).
+Aponta violação do(s) art(s). 80, § 4º, da Lei 8.213/1991, ao defender que "a aferição da renda mensal bruta para enquadramento do segurado como de baixa renda ocorrerá pela média dos salários de contribuição apurados no período de 12 meses anteriores", entendendo que o período de doze meses é apenas janela de apuração e não o divisor, o qual deve refletir os meses com efetiva contribuição ou percepção de salário (fls. 269/271).
+Argumenta que o art. 116, § 1º, do Decreto 3.048/1999, com redação do Decreto 10.410/2020, confirma a interpretação de média aritmética simples dos salários de contribuição apurados no período, sugerindo divisor correspondente aos meses com contribuição, e que a decisão do Tribunal de origem teria contrariado essa normatividade regulamentar (fls. 270/271).
+Contrarrazões apresentadas às fls. 273/276 e 286/291.
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado (fls. 277/279 e 282/284).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Na origem, cuida-se de ação para concessão de auxílio-reclusão, com pedido de reconhecimento de baixa renda do segurado instituidor e implementação do benefício aos dependentes.
+O TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim se manifestou sobre a controvérsia abordada no recurso "por se tratar de "média" relativa ao "período de 12 (doze) meses anteriores ao mês de recolhimento à prisão" é que o divisor a ser utilizado é 12, ainda que o número de salários-de-contribuição seja inferior" (fl. 264).
+A Primeira Turma do Superior Tribunal de Justiça firmou entendimento no sentido de que o critério de baixa renda para concessão do auxílio-reclusão deve ser apurado pela média dos salários de contribuição do segurado no período de doze meses anteriores ao mês do recolhimento à prisão, utilizando-se o divisor fixo de 12 (doze) meses, mesmo que existam competências com salário de contribuição zero.
+Nesse sentido:
+PREVIDENCIÁRIO. AUXÍLIO-RECLUSÃO. CRITÉRIO DE CÁLCULO DA RENDA MÉDIA. DIVISOR FIXO. LEGALIDADE.
+1. O critério de baixa renda para concessão do auxílio-reclusão deve ser apurado pela média dos salários de contribuição do segurado no período de doze meses anteriores ao mês do recolhimento à prisão, utilizando-se o divisor fixo de 12, mesmo que existam competências com salário de contribuição zero.
+2. A adoção de um divisor fixo (12) é mais condizente com a finalidade de alcançar o segurado de baixa renda, considerando a realidade social de trabalhadores com vínculos precários e com renda intermitente.
+3. A interpretação teleológica do critério de baixa renda busca direcionar os recursos da Seguridade Social para famílias em situação de vulnerabilidade econômica e social, em conformidade com os princípios da solidariedade, da universalidade da cobertura e da proteção à família.
+4. Caso em que merece prevalecer o acórdão recorrido, que reconheceu o direito ao auxílio-reclusão aos dependentes de segurado preso em 3/7/2022, com base na utilização do divisor fixo de doze para cálculo da renda média mensal.
+5. Agravo conhecido para negar provimento ao recurso especial.
+(AREsp n. 2.819.695/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 16/12/2025, DJEN de 20/1/2026.)
+Assim, o acórdão proferido pelo Tribunal de origem está em consonância com a jurisprudência da Primeira Turma do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor já arbitrado dos honorários sucumbenciais, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo, bem como os termos do art. 98, § 3º, desse diploma legal.
+Publique-se. Intimem-se.
+EMENTA
