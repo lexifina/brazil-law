@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por SANTA MARIA CIA. DE PAPEL E CELULOSE S.A., com fulcro na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 208):
+MANDADO DE SEGURANÇA. SENTENÇA EXTRA PETITA. NULIDADE. MÉRITO. PRETENSÃO DE NÃO TRIBUTAR POR IRPJ E CSLL O AUMENTO DO RESULTADO DECORRENTE DA IMUNIDADE DE ICMS NAS OPERAÇÕES DE EXPORTAÇÃO. DESCABIMENTO.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ fl. 205).
+Nas suas razões, a recorrente aponta violação dos arts. 43; 44; 97; 113; 114 do CTN; 489, 927, 1.022 do CPC; 2º, § 1º; 4º da Lei n. 7.689/1988.
+Sustenta, preliminarmente, a existência de negativa de prestação jurisdicional, em virtude de o Tribunal de origem não ter se manifestado sobre as questões levantadas nos embargos de declaração e que são relevantes para o deslinde da controvérsia.
+No mérito, alega, em resumo, que é indevida a incidência do IRPJ e da CSLL sobre o ICMS desonerado nas operações de exportação, por extrapolar a materialidade dos tributos sobre renda e lucro prevista nos arts. 43 e 44 do CTN e nos arts. 2º e 4º da Lei n. 7.689/1988.
+Defende, ainda, que benefícios fiscais de ICMS não configuram renda ou acréscimo patrimonial e, portanto, não podem compor a base de cálculo do IRPJ/CSLL e invoca o Tema 1182 do STJ e a necessidade de observância dos arts. 10 da Lei Complementar n. 160/2017 e 30 da Lei n. 12.973/2014, bem como a aplicação obrigatória de precedentes nos termos do art. 927 do CPC.
+Contrarrazões apresentadas às e-STJ fls. 261/270.
+Parecer do Ministério Público Federal pelo conhecimento e parcial provimento do recurso especial (e-STJ fls. 284/290).
+Passo a decidir.
+Cuidam os autos, na origem, de mandado de segurança, objetivando declarar o direito da impetrante de não recolher IRPJ e CSLL incidentes sobre o ICMS desonerado nas operações de exportação, cuja ordem foi concedida no primeiro grau de jurisdição.
+O Tribunal de origem, ao examinar a apelação da impetrante, anulou a sentença por julgamento extra petita.
+Adentrando o mérito, no entanto, rejeitou a pretensão da impetrante, negando provimento à apelação, e deu provimento à remessa necessária, restando prejudicada a apelação da Fazenda Nacional.
+Na ocasião, teceu os seguintes fundamentos, no que interessa (e-STJ fls. 184/185):
+Porém, no mérito  que passo a examinar com fundamento no artigo 1.013, § 3º, II, do Código de Processo Civil  deve ser rejeitada a pretensão da impetrante.
+Como visto acima, a imunidade do ICMS, cuja incidência é classificada como uma dedução da receita bruta, produz um aumento da receita líquida da empresa e, consequentemente, do seu resultado. Contudo, não há nenhum fundamento jurídico ou contábil para não considerar tal aumento do resultado como lucro tributável.
+Nesse sentido, embora tenha previsto a não incidência do ICMS sobre as operações de exportação no seu artigo 155, § 2º, X, "a", com redação dada pela Emenda Constitucional nº 42, de 2003, a Constituição Federal não afastou a incidência do IRPJ e da CSLL sobre o aumento do lucro tributável proporcionado por essa imunidade.
+Ressalto que, diferentemente da isenção, que consiste em um benefício fiscal concedido pelo ente detentor da respectiva competência tributária, a imunidade constitui uma não incidência constitucionalmente definida. Ou seja, enquanto na isenção o ente abre mão de tributar determinado contribuinte ou operação, na imunidade esse ente simplesmente carece de competência para a tributação.
+Dessa forma, a situação dos autos é completamente diversa daquela do crédito presumido de ICMS, o qual, segundo o Superior Tribunal de Justiça, não pode ser incluído na base de cálculo do IRPJ e da CSLL, pois implicaria a possibilidade de a União retirar, por via oblíqua, o incentivo fiscal que o Estado-membro, no exercício de sua competência tributária, outorgou. No caso, porém, não há renúncia por parte do Estado-membro, mas incompetência para exigir o ICMS sobre operações de exportação. Logo, não se pode dizer que, ao tributar a porção do lucro correspondente ao ICMS desonerado na exportação, a União esteja tributando receita renunciada pelo Estado-membro em favor do contribuinte, com o consequente esvaziamento do incentivo fiscal concedido.
+Ademais, como fica claro nos cenários exemplificativos descritos acima, a tributação da parcela do lucro do exportador decorrente da não incidência do ICMS não esvazia o incentivo às exportações pretendido pelo Constituinte, uma vez que a situação do exportador continua bastante favorável quando comparada àquela do contribuinte que vende para o mercado interno.
+Portanto, impõe-se, preliminarmente, anular a sentença recorrida e, no mérito, rejeitar a pretensão da impetrante.
+Pois bem.
+Constata-se que o recurso especial não merece ser conhecido quanto à suposta violação dos arts. 489 e 1.022 do CPC, porquanto esta Corte de Justiça tem decidido, reiteradamente, que a referida alegação deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado.
+No caso, a recorrente limita-se a afirmar que Tribunal de origem não teria apreciado as questões ventiladas nos embargos de declaração, sem indicar em que aspectos residiriam as omissões. Tal circunstância impede o conhecimento do recurso especial, à luz da Súmula 284 do Supremo Tribunal Federal.
+A propósito, cito os seguintes precedentes: AgInt no AREsp 2107963/MG, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 14/09/2022; AgInt no AREsp 2053264/SP, Relator Ministro Marco Buzzi, Quarta Turma, DJe 01/09/2022; AgInt no REsp 1987496/SP, Relator Ministro Benedito Gonçalves, Primeira Turma, DJe 01/09/2022; EDcl nos EDcl no AgInt no AREsp 1574705/PR, Relator Ministro Herman Benjamin, Segunda Turma, DJe 15/03/2022; AgInt no AREsp 1718316/RS, Relator Ministro Og Fernandes; Segunda Turma, DJe 24/11/2020.
+Quanto ao mais, a insurgência não merece conhecimento, pois, como evidenciado no texto colacionado acima, a fundamentação do acórdão recorrido tem natureza constitucional, acerca da imunidade tributária em razão da exportação.
+Desse modo, descabe o exame da insurgência pela via do recurso especial.
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
