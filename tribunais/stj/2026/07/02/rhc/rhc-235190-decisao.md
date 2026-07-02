@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por WALACE BATISTA SANTOS contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO.
+Consta nos autos que o recorrente teve a prisão preventiva decretada em 01 de dezembro de 2023, tendo sido denunciado pela suposta prática da conduta descrita no artigo 121, §2º, incisos I, III e IV do Código Penal.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de Justiça de origem, que denegou a ordem em acórdão às fls. 464-492.
+Neste recurso sustenta, em suma, que o recorrente estaria sofrendo constrangimento ilegal em razão do excesso de prazo para a formação da culpa.
+Requer a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medida cautelar diversa.
+Liminar indeferida às fls. 524-525.
+Informações prestadas às fls. 531-537.
+O Ministério Público Federal, às fls. 543-549, manifestou-se pelo desprovimento do recurso.
+É o relatório. DECIDO.
+Na presente hipótese, extrai-se dos autos que o recorrente teve a prisão preventiva decretada em 1º de dezembro de 2023, em razão da suposta prática de homicídio qualificado, sendo a denúncia recebida na mesma data.
+Em que pese o fato do acusado estar recolhido preventivamente desde dezembro de 2023, destacou o acórdão recorrido que "considerando a complexidade das investigações, a pluralidade de réus e o rito complexo de julgamento dos crimes dolosos contra a vida,  ..  concluo que o processo tramita dentro da normalidade, inexistindo desídia do órgão jurisdicional que ocasione o relaxamento da prisão por excesso de prazo" - fl. 478.
+Outrossim, conforme informações prestadas pela corte de origem "em Audiência de instrução e julgamento realizada em 15/04/2026, foram realizadas as oitivas das testemunhas PMES MOACYR BERETA JUNIOR, PCES MATHEUS M. DOS SANTOS, ERICK DE JESUS MENESES, ROSELY DE JESUS LOPES e TESTEMUNHA DE IDENTIDADE NÃO REVELADA N. 33/2023 (arroladas pelo MP). Foi proferido despacho concedendo o prazo de 5 (cinco) dias, para o Ministério Público diligenciar os endereços das testemunhas TESTEMUNHA DE IDENTIDADE NÃO REVELADA N. 36/2023 e TESTEMUNHA DE IDENTIDADE NÃO REVELADA N. 58/2023 (arroladas pelo MP) e se manifestar quanto aos pedidos de revogação da prisão preventiva dos acusados MARCOS ANTONIO NEVES OLIVEIRA, WALACE BATISTA SANTOS e RONALDO DO NASCIMENTO DE SOUZA NETO, de modo que o feito aguarda a manifestação do Ministério Público" - fl. 534.
+Ressalte-se que a ação penal tramita com regularidade sem qualquer elemento que evidenciasse a desídia do aparelho judiciário na condução do feito, o que não permite a conclusão, ao menos por ora, da configuração de constrangimento ilegal passível de ser sanado pela presente via.
+A propósito, esta Corte, firmou jurisprudência no sentido de se considerar o juízo de razoabilidade para eventual constatação de constrangimento ilegal ao direito de locomoção decorrente de excesso de prazo, levando-se em consideração as circunstâncias do caso concreto, com a complexidade da causa e quaisquer outros fatores que possam influir na tramitação da ação penal ou do inquérito, e que não só do tempo da prisão cautelar.
+Sobre o tema:
+"A aferição de excesso de prazo na formação da culpa demanda a aplicação do princípio da razoabilidade. Constatado que a tramitação processual segue dentro dos limites da razoabilidade, sem inércia ou desídia do Poder Judiciário, estando o processo em curso regular, com a prática dos atos necessários à elucidação dos fatos, não há falar em constrangimento ilegal por excesso de prazo" (AgRg no HC n. 1.034.384/PE, relator Ministro Carlos Pires Brandão, Sexta Turma, DJEN de 28/11/2025.)
+"Eventual constrangimento ilegal por excesso de prazo não se apura por critério aritmético, mas à luz da razoabilidade e proporcionalidade, consideradas as peculiaridades do caso"(AgRg no RHC n. 224.193/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 27/11/2025.)
+Nesse sentido: AgRg no HC n. 898.465/SC, de minha relatoria, Quinta Turma, DJe de 16/8/2024; AgRg no RHC n. 197.279/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 16/8/2024 e AgRg no HC n. 915.504/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 15/8/2024.
+Por fim, salientou o acórdão recorrido que o recorrente possui outras condenações penais e atualmente cumpre pena em regime fechado (atestado de pena à fl. 09 - ID nº 16113115), circunstância que evidencia a indispensabilidade da manutenção da prisão preventiva e afasta a possibilidade de substituição por medidas cautelares diversas - fl. 479.
+Com efeito, não há que se cogitar da aplicação de medidas cautelares diversas da prisão quando os autos revelam elementos suficientes a justificar a manutenção da custódia cautelar do acusado.
+Sobre o tema:
+"As condições pessoais favoráveis do agente não são suficientes, isoladamente, para afastar a custódia cautelar, e a gravidade concreta dos fatos demonstra a insuficiência das medidas alternativas do art. 319 do CPP" (AgRg no HC n. 1.047.066/SP, relator Ministro Carlos Pires Brandão, Sexta Turma, DJEN de 16/12/2025.)
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus. Expeça-se, contudo, recomenda ção ao Juízo a quo para que imprima maior celeridade possível no julgamento do presente processo.
+Publiq ue-se. Intimem-se.
+EMENTA
