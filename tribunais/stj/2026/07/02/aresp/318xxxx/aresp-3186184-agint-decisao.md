@@ -1,0 +1,32 @@
+DECISÃO
+Diante das razões apresentadas no agravo interno de fls. 351-354, reconsidero a decisão de fls. 346-347, tornando-a sem efeito, e passo à nova análise do recurso.
+Trata-se de agravo interposto por Mauri Martins Bueno contra decisão que não admitiu recurso especial manejado contra acórdão assim ementado (fls. 292):
+AGRAVO INTERNO - AGRAVO DE INSTRUMENTO - EMBARGOS À EXECUÇÃO - GRATUIDADE DA JUSTIÇA - INDEFERIMENTO - DECISÃO MONOCRÁTICA MANTIDA - ELEMENTOS DOS AUTOS QUE DEMONSTRAM CAPACIDADE ECONÔMICA - RENDIMENTOS DECLARADOS E OPERAÇÃO FINANCEIRA REALIZADA - PATRIMÔNIO SUBSTANCIAL. CRISE NO SETOR RURAL E ENDIVIDAMENTO - CIRCUNSTÂNCIAS QUE, EMBORA REPRESENTEM DIFICULDADES, NÃO CARACTERIZAM, POR SI SÓS, A INSUFICIÊNCIA DE RECURSOS PARA FINS DE CONCESSÃO DO BENEFÍCIO, DIANTE DO CONJUNTO PROBATÓRIO - AUSÊNCIA DE ELEMENTOS NOVOS APTOS A REFORMAR O DECISUM - RECURSO CONHECIDO E DESPROVIDO. Se na ação discute-se quantia vultosa e os elementos dos autos afastam a condição de miserabilidade ou a insuficiência de recursos, impõe-se o indeferimento da justiça gratuita. A impossibilidade de arcar com as despesas processuais, condição para o deferimento da justiça gratuita, não deve ser confundida com a mera dificuldade momentânea ou a falta de disposição em direcionar parte de seus recursos para o custeio do processo, visto que a benesse legal é destinada àqueles cuja subsistência e a de sua família seriam gravemente comprometidas pelo dispêndio.
+Nas razões do recurso especial, a parte recorrente alega que o acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul (TJMS) violou os arts. 98 e 99, §§ 2º e 3º, do Código de Processo Civil (fls. 297-309).
+Afirma que o acórdão do TJMS se restringiu à análise do seu patrimônio, desconsiderando a ausência de liquidez e o contexto de endividamento severo que o acomete.
+Defende a incapacidade para suportar as custas sem comprometer o seu sustento, comprovada por extratos bancários com saldos negativos, certidões de protesto, laudo que atesta a quebra de safra e múltiplos processos judiciais de cobrança.
+Nas suas contrarrazões, a parte recorrida informa que o recorrente pretende o reexame de provas, o que é vedado pela Súmula 7 do STJ. Aponta a falta de dialeticidade e a ausência de prequestionamento. Discorre, ainda, sobre a capacidade econômica da parte recorrente (fls. 314-319).
+A não admissão do recurso na origem ensejou a interposição do presente agravo.
+Na sua impugnação, a parte agravada alega que não houve a impugnação específica aos fundamentos da decisão recorrida, não ocorreu o prequestionamento das teses discutidas e incide o óbice da Súmula 7 do STJ (fls. 334-338).
+Assim delimitada a controvérsia, passo à análise do recurso.
+De início, cumpre destacar que o TJMS entendeu por manter a decisão de primeira instância que indeferiu os benefícios da justiça gratuita ao autor, ora recorrente, sob o fundamento de que o acervo probatório dos autos afasta a alegada condição de hipossuficiência da parte.
+A propósito, confiram-se trechos do acórdão recorrido (fls. 294-295):
+No caso em apreço, a própria documentação acostada pelo agravante, e os elementos relativos à operação financeira que embasou a decisão, são hábeis a demonstrar que o agravante detém um patrimônio considerável e acesso a recursos financeiros que se mostram incompatíveis com a verdadeira hipossuficiência.
+Ainda que se considere a alegada "imobilização" de bens e o quadro de endividamento, bem como as dificuldades inerentes à atividade rural, estes fatores, por si só, não são suficientes para caracterizar a incapacidade financeira para custear as despesas processuais. A existência de um patrimônio substancial, ainda que com restrições ou dívidas, sugere uma capacidade de acesso a capital ou de manejo financeiro que destoa da situação de pobreza legal.
+(..)
+A decisão monocrática analisou adequadamente os documentos e fundamentos apresentados, afastando a presunção de hipossuficiência com base em elementos objetivos e concretos, notadamente os rendimentos declarados e a operação financeira de vulto.
+Portanto, não havendo elementos novos ou convincentes que justifiquem a alteração do entendimento exarado na decisão monocrática, impõe-se a sua manutenção integral.
+Ante o exposto, nego provimento ao Agravo Interno.
+Segundo a jurisprudência do Superior Tribunal de Justiça, a presunção de hipossuficiência é relativa, de tal modo que o pedido de gratuidade judiciária pode ser indeferido ou revogado se houver elementos que infirmem a alegada hipossuficiência. Veja-se:
+PROCESSO CIVIL E CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA. USUCAPIÃO. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. GRATUIDADE DE JUSTIÇA. HIPOSSUFICIÊNCIA AFASTADA. ACÓRDÃO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. USUCAPIÃO. POSSE COM ANIMUS DOMINI NÃO CARACTERIZADA. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL, E NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+(..)
+2. Em se tratando de pessoa natural, há presunção juris tantum de que quem pleiteia o benefício não possui condições de arcar com as despesas do processo sem comprometer seu próprio sustento ou de sua família. Tal presunção, contudo, é relativa, podendo o magistrado indeferir ou revogar a gratuidade de justiça se encontrar elementos que infirmem a hipossuficiência do requerente. Precedentes. Súmula 83/STJ.
+(..)
+(AR Esp n. 2.929.445/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 1/9/2025, DJEN de 8/9/2025.)
+Na hipótese dos autos, verifica-se que o Tribunal de Justiça do Estado de Mato Grosso do Sul indeferiu o pedido da parte recorrente. Assim, diante das peculiaridades do caso concreto e, como o Tribunal de origem decidiu de acordo com a jurisprudência do Superior Tribunal de Justiça, não há como prosperar o recurso interposto.
+Sendo assim, incide, no caso, o óbice da Súmula 83 do STJ.
+Ademais, alterar a conclusão a que chegou o TJMS, no que se refere aos elementos que indicam a hipossuficiência da parte recorrente apta a ensejar a concessão da gratuidade da justiça, demandaria, necessariamente, o reexame de fatos e provas, providência inviável em recurso especial, a teor do disposto na Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do Código de Processo Civil, visto que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória.
+Intimem-se.
+EMENTA
