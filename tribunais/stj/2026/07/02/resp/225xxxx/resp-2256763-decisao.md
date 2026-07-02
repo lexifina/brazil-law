@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (fls. 423-424):
+APELAÇÕES CÍVEIS. SUPERENDIVIDAMENTO. INEXISTÊNCIA. CONTRATOS BANCÁRIOS. DESCONTO DAS PRESTAÇÕES EM CONTA. RESOLUÇÃO BACEN 4.790. CONTRATOS FIRMADOS APÓS INÍCIO DE SUA VIGÊNCIA. CANCELAMENTO DA AUTORIZAÇÃO. POSSIBILIDADE. RESTITUIÇÃO DE VALORES. IMPROCEDÊNCIA. LIMITAÇÃO DOS DESCONTOS A 30%. PREJUDICADO. DANOS MORAIS. NÃO CONFIGURAÇÃO.
+1. Não há que se falar em superendividamento, considerando que o autor não adotou o rito previsto na Lei nº 14.181/2021. A instauração do processo de repactuação de dívidas é uma faculdade do juiz e ocorrerá apenas quando o consumidor se encontrar superendividado em razão de dívidas de consumo, o que não representa o caso em comento.
+2. A Resolução nº 4.790/2020, em seu artigo 6º, dispõe sobre a possibilidade de o mutuário cancelar a autorização de desconto de prestações em conta corrente.
+3. Tendo a parte pactuado, sob a égide da Resolução 4.790, contratos de empréstimo com previsão de desconto das prestações em conta, pode haver o cancelamento das autorizações conferidas a esse título.
+4. O cancelamento das autorizações de desconto em conta não impedirá o banco de alterar os juros e a forma de cobrança.
+5. O mutuário não está isento do pagamento das parcelas após o pedido de revogação, sendo legítimos os descontos realizados até o reconhecimento judicial da revogação. As dívidas, ainda que pagas por outro meio, permanecem sendo devidas, de modo que a restituição pretendida resultaria em enriquecimento sem causa do consumidor.
+6. Resta prejudicado o pedido de exclusão do limite legal de 30% dos rendimentos do mutuário, se este cancelou a autorização de desconto das prestações em conta corrente.
+7. No caso concreto, não logrou o autor comprovar a ocorrência de constrangimento que tenha causado danos à sua imagem ou a negativação de seu nome, até porque ele não apresentou outra forma de pagamento, além de se tratar de débito exigível, de modo que a situação de cobrança dos valores pelo banco réu não se enquadra em situação ensejadora de danos morais.
+8. Apelos conhecidos e parcialmente providos.
+Em suas razões (fls. 508-522), a parte recorrente aponta dissídio jurisprudencial e violação dos arts. 313, 314, 421, 421-A, 422 e 684, do CC, 927, III, do CPC e 51 do CDC.
+Impugna a revisão do contrato e assevera que "não cabe ao Poder Judiciário intervir nos negócios jurídicos realizados de forma autônoma pelas partes contratantes, porquanto a liberdade contratual deve ser exercida nos limites da função social do contrato, observando-se o princípio da intervenção mínima e a excepcionalidade da revisão contratual" (fl. 511).
+Afirma que "a parte autora firmou contratos livremente, oportunidade em que tomou ciência e autorizou o débito automático em sua contracorrente dos valores relativos às prestações, conforme cláusulas dos contratos" (fl. 514).
+Ressalta que "não há razão que justifique qualquer limitação do desconto referente às parcelas do empréstimo, respeitada a autonomia privada das partes na entabulação dos negócios jurídicos objeto desta inicial" (fl. 518).
+Ao final, requer o provimento do recurso, "frente à manifesta ofensa a legislação federal" (fl. 521).
+Contrarrazões apresentadas (fls. 537-548).
+O recurso foi admitido na origem (fls. 554-556).
+É o relatório.
+Decido.
+Na origem, o ora recorrido ajuizou ação de conhecimento contra o BRB - Banco de Brasília S.A., pleiteando a suspensão dos efeitos da autorização de desconto automático, em sua conta corrente, das parcelas de contratos de mútuo e de outras modalidades de concessão de crédito celebrados com a instituição ré, com fundamento na Resolução n. 4.790/2020 do Banco Central e no Tema n. 1.085/STJ, bem como a restituição, na forma simples, dos valores que reputa indevidamente descontados (fls. 2-22).
+O Juízo de primeiro grau julgou parcialmente procedentes os pedidos, para suspender os efeitos da autorização de desconto em conta corrente das parcelas dos referidos contratos e determinar o ressarcimento, na forma simples, dos valores descontados (fls. 305-311).
+Irresignadas, as partes interpuseram apelação. A 5ª Turma Cível deu parcial provimento ao apelo do recorrido para "determinar que o banco réu se abstenha de descontar, na conta corrente do autor, os valores das parcelas correspondentes aos contratos anexados à contestação (ids 72627715 a 72627719)" (fl. 459).
+O Tribunal de origem entendeu que a consumidora agiu em exercício regular de direito ao cancelar a autorização de débito automático em conta corrente, decidindo a questão controvertida nos seguintes termos (fls. 457-458):
+Noutro giro, assiste razão ao autor apelante, ao requerer que a revogação da autorização para desconto das parcelas em conta corrente abranja todos os contratos impugnados neste feito, e não somente o contrato de id 195948806 dos autos de origem.
+Com efeito, a Resolução nº 4.790/2020, em seu artigo 6º, dispõe sobre a possibilidade de o mutuário cancelar a autorização de débitos:
+"Art. 6º É assegurado ao titular da conta o direito de cancelar a autorização de débitos.
+Parágrafo único. O cancelamento da autorização de débitos em conta pode ser formalizado na instituição depositária ou por meio da instituição destinatária."
+De acordo com o artigo 19, II, da Resolução nº 4.790, sua entrada em vigor ocorreu em 01/03/2021.
+Por sua vez, todos os contratos impugnados foram celebrados em 2023, conforme documentos de id 72627715 a 72627719 anexados à contestação, ou seja, na vigência da Resolução 4.790, podendo haver o cancelamento da autorização de desconto em conta a esse título.
+Sobre a controvérsia, a Segunda Seção desta Corte, no julgamento do Tema 1.085 (REsp 1.863.973/SP, REsp 1.877.113/SP e REsp 1.872.441/SP, Rel. Ministro Marco Aurélio Bellizze, j. 9/3/2022), firmou a seguinte tese:
+São lícitos os descontos de parcelas de empréstimos bancários comuns em conta-corrente, ainda que utilizada para recebimento de salários, desde que previamente autorizados pelo mutuário e enquanto esta autorização perdurar, não sendo aplicável, por analogia, a limitação prevista no § 1º do art. 1º da Lei n. 10.820/2003, que disciplina os empréstimos consignados em folha de pagamento.
+A própria ratio decidendi do precedente vinculante estabelece nítida distinção entre o empréstimo consignado e o desconto em conta corrente. Naquele, a autorização é, por força de lei, irrevogável e irretratável (art. 1º da Lei 10.820/2003). Neste, a cláusula que autoriza o débito automático consubstancia uma faculdade dada às partes contratantes, como expressão da autonomia da vontade, passível de revogação a qualquer tempo pelo mutuário, que detém a faculdade de revogar o ajuste ao seu alvedrio, assumindo, naturalmente, as consequências contratuais de sua opção.
+Nesse contexto, a tese fixada pela Corte de origem  de que "o banco réu deve se abster de descontar na conta corrente do autor as prestações avençadas nos contratos indicados nesta ação, uma vez que o autor cancelou a autorização para tais descontos, e o cancelamento está autorizado pela Resolução 4.790" (fl. 458)  está em consonância com a orientação vinculante.
+Condicionar a revogação ao assentimento do credor equivale a tornar irrevogável a autorização de débito em conta nos mútuos comuns, equiparando-a, indevidamente, ao consignado, em descompasso com a ressalva "enquanto esta autorização perdurar" contida na própria tese.
+Com efeito, a revogação da autorização de débito automático não extingue a obrigação nem exonera o mutuário do dever de pagar; altera, tão somente, a forma de adimplemento. Subsiste a dívida, que poderá ser exigida pelo credor pelos meios ordiná rios de cobrança, arcando o devedor com as consequências contratuais de sua escolha, inclusive os efeitos da eventual mora. Não se trata, portanto, de revisão ou de desconstituição do contrato, mas de exercício de faculdade inerente à relação.
+Incide a Súmula n. 83/STJ.
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
