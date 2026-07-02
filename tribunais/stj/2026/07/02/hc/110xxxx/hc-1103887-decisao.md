@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de WILLIAM MOESCH em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Consta dos autos que o paciente foi denunciado pela suposta prática do delito previsto no art. 155, § 4º, IV, do Código Penal, tendo o Tribunal de origem dado provimento ao recurso em sentido estrito para receber a denúncia e determinar o prosseguimento da ação penal.
+A impetrante sustenta que a decisão de primeiro grau que rejeitou a denúncia por atipicidade material estava correta ao reconhecer a insignificância do fato diante do reduzido valor dos bens subtraídos e da imediata restituição.
+Alega que o princípio da intervenção mínima deve prevalecer, pois a mobilização do aparato penal para apurar a subtração de bens alimentícios de valor modesto é desproporcional e contrária à fragmentariedade do Direito Penal.
+Aduz que a qualificadora objetiva de concurso de pessoas não afasta, por si, a aplicação da insignificância, impondo-se a análise concreta dos vetores da mínima ofensividade, ausência de periculosidade social, reduzido grau de reprovabilidade e inexpressividade da lesão.
+Assevera que, embora o valor supere em pequena margem o patamar de 10% do salário mínimo, a natureza dos bens, a pronta recuperação e a inexistência de prejuízo patrimonial concreto evidenciam a bagatela.
+Afirma que a manutenção do acórdão impugnado impõe constrangimento ilegal, por violar proporcionalidade, subsidiariedade e dignidade da pessoa humana, transformando o Direito Penal em instrumento de repressão de fatos cotidianos de mínima relevância.
+Defende que a jurisprudência desta Corte Superior e do Supremo Tribunal Federal admite a insignificância mesmo em hipóteses de furto qualificado por concurso de agentes, desde que presentes os vetores materiais, o que ocorre no caso.
+Entende que há fumus boni iuris e periculum in mora, pois o andamento da ação penal acarretará estigmas e prejuízos indevidos ao paciente, recomendando a suspensão imediata do processo originário até o julgamento final do writ.
+Requer, liminarmente, a suspensão do andamento da ação penal de origem. No mérito, postula a cassação do acórdão impugnado, com o restabelecimento da decisão que rejeitou a denúncia por atipicidade material.
+É o relatório.
+O Superior Tribunal de Justiça firmou compreensão de que o habeas corpus não pode ser utilizado como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração quando assim manejado.
+Observem-se a respeito: AgRg no HC n. 943.146/MG, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 22/10/2024; AgRg no HC n. 874.713/SP, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 20/8/2024; AgRg no HC n. 749.702/SP, Sexta Turma, relator Ministro Antonio Saldanha Palheiro, DJe de 29/2/2024; AgRg no HC n. 912.662/SP, Sexta Turma, relator Ministro Sebastião Reis Júnior, DJe de 27/6/2024.
+No caso em exame, não se verifica a ocorrência de ilegalidade flagrante apta a superar esse entendimento.
+A concessão da ordem de habeas corpus demanda demonstração da ilegalidade de plano, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+Da leitura do acórdão impugnado extrai-se que foram expressamente indicados os motivos para a solução adotada pelo Tribunal de origem. No ponto (fls. 9-11):
+Eis o teor da decisão impugnada:
+ ..  O Ministério Público, com base no inquérito policial vinculado à presente ação penal (5008144-88.2025.8.21.0017) ofereceu DENÚNCIA contra William Moesch, qualificado nos autos, querendo-o incurso nas sanções do artigo 155, § 4º, IV, do Código Penal.
+Narra a denúncia:"
+FATO DELITUOSO:
+No dia 02 de junho de 2025, segunda-feira, por volta das 15h30min, nas dependências do estabelecimento comercial Supermercado Rede Polo, localizado na BR 386, nº 2088, Bairro Americano, em Lajeado/RS, o denunciado WILLIAM MOESCH, em conjunção de esforços e comunhão de vontades com DINARTE HOFFMANN, subtraiu, para si e para seu comparsa, coisas alheias móveis, consistentes em 17 (dezessete) barras de chocolate marca Nestlé e 9 (nove) barras de chocolate marca Lacta, conforme auto de apreensão (Ev. 1, OUT31, p. 13).
+Na oportunidade, o denunciado WILLIAM e o comparsa DINARTE ingressaram no referido estabelecimento comercial e, em dado momento, apoderaram-se dos referidos objetos, que estavam expostos no local.
+Ato contínuo, em poder dos objetos, ambos saíram do estabelecimento sem efetuar o pagamento das referidas mercadorias no caixa, de forma intencional, e foram embora do local, assim, consumando o delito.
+Pouco tempo depois, enquanto trafegavam pela cidade no automóvel placas IVV-0580, os indivíduos foram abordados por policiais militares, que encontraram os objetos subtraídos em poder dos indivíduos, no interior do veículo, efetuando a prisão em flagrante.
+O delito foi cometido mediante concurso de duas pessoas.
+Os bens subtraídos foram avaliados em, aproximadamente, R$ 270,00 (duzentos e setenta reais), conforme auto de avaliação indireta (Ev. 36, OUT1, p. 6). Ainda, posteriormente, foram restituídos ao estabelecimento vitimado, conforme auto restituição do Ev. 1 (TERMRESTIT29)."
+ ..
+Prospera a inconformidade.
+Isso porque, entre os requisitos necessários para que, em razão da observância do princípio da insignificância, seja considerada materialmente atípica a conduta observada pelo agente, encontra-se o ínfimo valor do objeto da subtração, delimitado na jurisprudência, inclusive na emanada das cortes superiores, em dez por cento do salário mínimo vigente ao tempo do evento.
+Contudo, na hipótese presente, além de se estar diante de crime de furto qualificado (cometido mediante concurso de agentes), os bens subtraídos não apresentam valor irrisório (R$ 270,00), atingindo cerca de dezessete por cento do salário mínimo vigente ao tempo do evento, com o que não se está diante da atipicidade material da conduta observada pelo denunciado, não havendo cogitar da observância do princípio da insignificância.
+Diante de tal contexto, deve ter prosseguimento a persecução penal, oportunizando-se às partes a produção de provas, inclusive acerca do valor das ferramentas subtraídas para, então, aferir-se se se está, ou não, diante de hipótese de observância do princípio da insignificância.
+Por conseguinte, voto por dar provimento ao recurso em sentido estrito, recebendo a denúncia.
+O Superior Tribunal de Justiça possui entendimento de que, para a incidência do princípio da insignificância, torna-se necessário averiguar a inexpressividade do fato delitivo, as circunstâncias pessoais do agente e do caso concreto.
+No caso, o Tribunal de origem afastou a aplicação do princípio da insignificância ao concluir que o valor dos bens subtraídos não pode ser considerado ínfimo.
+De fato, verifica-se que o valor econômico dos objetos subtraídos não é insignificante: R$ 270,00, tendo em vista que supera o correspondente a 10% do salário mínimo vigente à época dos fatos, R$ 1.518,00. Logo, para o fim específico de incidência do princípio da insignificância e de acordo com o parâmetro consolidado na jurisprudência, constata-se que, na espécie, o valor dos bens subtraídos não pode ser considerado ínfimo.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. FURTO QUALIFICADO. INSIGNIFICÂNCIA. VALOR DO BEM SUBTRAÍDO. MAIOR REPROVABILIDADE DA CONDUTA. AGRAVO REGIMENTAL QUE NÃO IMPUGNA OS FUNDAMENTOS DA DECISÃO RECORRIDA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A decisão agravada consignou a inaplicabilidade do princípio da insignificância à hipótese, tendo em vista o valor do bem subtraído - de aproximadamente 34% do valor do salário mínimo à época da conduta -, aliado aos fatos de que houve rompimento de obstáculo e de que o recorrente voltou a ser detido por idêntico delito seis semanas após ser colocado em liberdade, o que demonstrou a expressividade da lesão ao bem jurídico tutelado e o maior grau de reprovabilidade do comportamento do agente, impedindo a aplicação do princípio da insignificância. Além disso, destacou-se que esta Corte, no julgamento do tema repetitivo n. 1.205, assentou a tese de que " a  restituição imediata e integral do bem furtado não constitui, por si só, motivo suficiente para a incidência do princípio da insignificância".
+2. No agravo regimental, as razões recursais apenas reiteram os termos da inicial do writ, não impugnando os fundamentos da decisão monocrática, o que atrai o óbice da Súmula n. 182/STJ.
+3. Agravo regimental não conhecido.
+(AgRg no HC n. 880.029/SP , relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE FURTO QUALIFICADO. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. VALOR DO BEM SUBTRAÍDO ACIMA DE 10% DO SALÁRIO MÍNIMO À ÉPOCA DOS FATOS. CONCURSO DE PESSOAS. RESTITUIÇÃO. NÃO OBRIGATORIEDADE DE APLICAÇÃO DO PRINCÍPIO. RECURSO DESPROVIDO.
+1. Consoante entendimento da Suprema Corte, são requisitos para aplicação do princípio da insignificância: a mínima ofensividade da conduta, a ausência de periculosidade social na ação, o reduzido grau de reprovabilidade do comportamento e a inexpressividade da lesão jurídica provocada.
+2. A jurisprudência consolidada do Superior Tribunal de Justiça, para aferir a relevância do dano patrimonial, leva em consideração o salário mínimo vigente à época dos fatos, considerando irrisório o valor inferior a 10% do salário mínimo, independentemente da condição financeira da vítima No caso dos autos, além de os ora agravantes terem praticado o crime mediante o concurso de agentes, o que afasta o reduzido grau de reprovabilidade do comportamento, o furto foi praticado no dia 16/5/2021, quando o salário mínimo estava fixado em R$ 1.100,00 (mil e cem reais). Nesse contexto, seguindo a orientação jurisprudencial desta Corte, a res furtiva, avaliada em R$ 200,00 (duzentos reais), não pode ser considerada de valor ínfimo, por superar 10% do salário mínimo vigente à época dos fatos.
+3. A restituição dos bens subtraídos não conduz, necessariamente, à incidência do princípio da insignificância. Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 811.618/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/10/2023, DJe de 4/10/2023.)
+Ademais, consoante consignado, o crime teria sido cometido em concurso de agentes, cenário que, como bem salientado no acórdão recorrido, revela não estar caracterizado o reduzidíssimo grau de reprovabilidade da conduta do paciente .
+Não há, pois, que se cogitar de flagrante ilegalidade no caso em apreço, apta a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 210 do RISTJ, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
