@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial na origem com fundamento nos óbices da Súmula n. 282/STF (e-STJ, fls. 236-239).
+Segundo a parte agravante, a insurgência preenche os requisitos necessários ao conhecimento e provimento do recurso especial interposto em face do acórdão assim ementado (e-STJ, fl. 181):
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. CABIMENTO DE RECURSO CONTRA DECISÃO QUE HOMOLOGA PARTILHA DE BENS. IMPROCEDÊNCIA DO PEDIDO DE RECONSIDERAÇÃO. RECURSO CONHECIDO E DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática que não conheceu de agravo de instrumento manejado para impugnar decisão homologatória de partilha de bens em processo de inventário.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se é cabível agravo de instrumento contra decisão que homologa plano de partilha, rejeitando impugnação do interessado, e se a ausência de recolhimento do imposto de transmissão e outras pendências processuais descaracteriza a natureza sentencial da decisão.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência majoritária entende que a decisão que homologa partilha de bens em inventário possui natureza de sentença, conforme o art. 654 do CPC, sendo cabível o recurso de apelação.
+4. A homologação da partilha não depende do recolhimento prévio do imposto de transmissão causa mortis (ITCMD), conforme decidido pelo STJ no Tema Repetitivo n.º 1.074.
+5. A ausência de encerramento formal do inventário e a existência de providências processuais pendentes não alteram a natureza jurídica da decisão homologatória.
+6. A via recursal eleita é manifestamente inadequada, caracterizando erro grosseiro e afastando a aplicação do princípio da fungibilidade recursal.
+IV. DISPOSITIVO E TESE
+7. Recurso conhecido e desprovido.
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil (CPC), a parte agravada afirmou a inexistência de pressupostos aptos a promover a alteração do julgado impugnado (e-STJ, fls. 271-278).
+É o relatório.
+DECIDO.
+O agravo é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil, encontra-se formalmente em ordem e impugnou específica e suficientemente os óbices invocados pela decisão de inadmissibilidade na origem, razão pela qual passo ao exame do recurso especial, que foi interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal.
+A parte recorrente sustenta, em síntese, que a decisão do juízo de primeiro grau deliberou sobre o plano de partilha em inventário "na forma do art. 647 do Código de Processo Civil", rejeitando impugnação do recorrente e homologando a partilha apresentada pelo inventariante, com pendências de recolhimento do ITCMD e de manifestação das Fazendas Públicas, razão pela qual referida decisão teria natureza interlocutória, recorrível por agravo de instrumento.
+Aduz ainda violação literal aos arts. 647, 654 e 655 do Código de Processo Civil, e inadequada aplicação do Tema Repetitivo nº 1.074 do STJ ao caso, por entender restrita sua incidência ao arrolamento sumário (e-STJ fls. 200-212).
+Na espécie, tem-se que a controvérsia gira em torno da natureza jurídica da decisão proferida pelo juízo de origem, que homologou o plano de partilha apresentado e rejeitou impugnação formulada pela parte recorrente, no âmbito de inventário.
+Nas razões, o Tribunal de origem assentou que "a jurisprudência majoritária, reconhece que a deliberação que resolve definitivamente as questões relativas à partilha tem natureza de sentença, nos moldes do artigo 654 do Código de Processo Civil, sujeita, portanto, à apelação." (e-STJ, fl. 184).
+Fixa ainda suas conclusões no sentido de que a homologação da partilha não depende do recolhimento prévio do imposto de transmissão causa mortis (ITCMD), isso porque, conforme decidido pelo STJ no Tema Repetitivo nº 1.074, "é possível a homologação da partilha mesmo sem o prévio recolhimento do imposto de transmissão causa mortis, cabendo à Fazenda Pública promover a cobrança administrativa após o trânsito em julgado da decisão." (e-STJ, fl. 184).
+Conclui, assim, a Corte que a ausência de encerramento formal do inventário e a existência de providências processuais pendentes não alteram a natureza jurídica da decisão homologatória, de tal forma que "inexiste ilegalidade ou irregularidade na decisão que homologou o plano de partilha nos autos de origem, tampouco cabimento do agravo de instrumento" (e-STJ, fl. 185).
+Desse modo, verifico que, em relação à alegada violação aos arts. 647, caput, 654, caput, e 655, caput, todos do CPC, a análise do teor do acórdão recorrido indica que os dispositivos tidos por violados não foram debatidos pela Corte de origem.
+É certo que, por força constitucional (art. 105, inciso III, da CF), ao Superior Tribunal de Justiça somente é dado o julgamento em recurso especial "das causas decididas, em única ou última instância", uma vez que, presente a finalidade revisional da insurgência recursal, não se mostra viável o pronunciamento originário a respeito de matérias ainda não discutidas na origem.
+Isso porque, conforme se depreende do acórdão combatido, o arresto da Quinta Câmara Cível do Tribunal de Justiça do Estado de Goiás, que, por unanimidade, conheceu e negou provimento a agravo interno manejado contra decisão monocrática que não conheceu de agravo de instrumento interposto em inventário, teve como fundamento a inadequação da via recursal, por se tratar de agravo de instrumento interposto contra decisão com natureza de sentença homologatória de partilha (e-STJ, fls. 179-186).
+Desse modo, a falta de prequestionamento da matéria suscitada no recurso especial impede seu conhecimento, a teor da Súmula n. 282/STF.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. INDENIZAÇÃO SECURITÁRIA. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. VIOLAÇÃO DOS ARTS. 489 E 1022 DO CPC/15. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. DECISÃO MANTIDA.
+ ..
+5. A ausência de decisão acerca dos dispositivos legais indicados como violados e dos argumentos invocados pelo recorrente impede o conhecimento do recurso especial (súmulas 282 e 356/STF).
+6. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.228.031/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OPERAÇÃO ENTERPRISE. PEDIDO DE RESTITUIÇÃO. BEM QUE AINDA INTERESSA AO PROCESSO. POSSIBILIDADE DE PERDIMENTO. INVIABILIDADE DO REEXAME DE FATOS E PROVAS. SÚMULA 7, STJ. TESE DE VIOLAÇÃO AO ART. 49-A, CC. FATOS CRIMINOSOS ATRIBUÍDOS AO ADMINISTRADOR DA EMPRESA. POSSIBILIDADE DE CONSTRIÇÃO DE BENS DE PESSOA JURÍDICA SUPOSTAMENTE UTILIZADA NA LAVAGEM DE CAPITAIS. PRECEDENTES. VIOLAÇÃO AO ART. 156, CPP. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282, STF.
+I - É inviável o reexame de fatos e provas para afastar as conclusões do Tribunal a quo de que há fortes indícios de que foram utilizados recursos decorrentes de atividades criminosas para adquirir o veículo sobre o qual versa o pedido de restituição. Incidência da Súmula n. 7, STJ.
+II - Segundo a jurisprudência desta Corte, é possível determinar a constrição de bens de pessoas jurídicas quando houver indícios de que elas tenham sido utilizadas para a prática delitiva ou para ocultar ativos decorrentes de atividades ilícitas. Precedentes.
+III - Para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno do dispositivo legal tido como violado, a fim de que se possa, na instância especial, abrir discussão sobre a correta aplicação da lei federal.
+IV - No caso sob exame, não se verificou, a partir da leitura dos acórdãos recorridos, discussão efetiva acerca do ônus da prova e do art. 156 do Código de Processo Penal, de modo que deve ser mantido o óbice da Súmula n. 282, STF.
+Agravo regimental desprovido.
+(AgRg no AREsp 2333928 / PR, RELATOR Ministro MESSOD AZULAY NETO, QUINTA TURMA, DATA DO JULGAMENTO 04/06/2024, DATA DA PUBLICAÇÃO/FONTE DJe 07/06/2024)
+No presente feito, verifica-se que o acórdão recorrido não tratou dos dispositivos legais tidos por violados, tampouco das teses jurídicas ora trazidas a esta Corte, de modo que, ausente o prequestionamento, até mesmo de modo implícito, dos dispositivos apontados como violados no recurso especial, incide o disposto na Súmula n. 282/STF.
+Em relação à alegada violação ao Tema Repetitivo nº 1.074 do STJ ao caso, por entender restrita sua incidência ao arrolamento sumário, não é cabível, na via especial, a análise de violação de precedente qualificado, na medida em que, para os fins do art. 105, inciso III, alínea a, da Constituição Federal, não se enquadra no conceito de "lei federal", nos termos da Súmula n. 518/STJ.
+Nesse sentido:
+AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL E CIVIL. CONTRATO BANCÁRIO. REVISÃO DE CLÁUSULAS CONTRATUAIS. CERCEAMENTO DE DEFESA. PRINCÍPIO DO LIVRE CONVENCIMENTO DO JUIZ. PROVAS SUFICIENTES. REVISÃO. SÚMULA Nº 7/STJ. JUROS REMUNERATÓRIOS ACIMA DO PACTUADO. VIOLAÇÃO DOS ARTS. 421 E 422 DO CÓDIGO CIVIL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. REEXAME PROBATÓRIO. SÚMULA Nº 7/STJ. TEMA REPETITIVO. VIOLAÇÃO. INVIABILIDADE. DISSÍDIO JURISPRUDENCIAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF.
+1. Deve ser respeitado o princípio do livre convencimento do juiz que permite que o Tribunal de origem firme sua convicção à luz do acervo probatório dos autos, fundamentando os motivos que levaram à condenação.
+2. Alterar a conclusão da Corte local sobre a suficiência de provas e a inexistência de cerceamento de defesa demandaria o revolvimento do acervo fático-probatório dos autos, obstado no recurso especial pela Súmula nº 7/STJ.
+3. Os dispositivos legais indicados como malferidos não possuem comando normativo suficiente para infirmar os fundamentos do acórdão recorrido, tampouco para sustentar a tese defendida pela recorrente, o que configura deficiência de fundamentação do recurso especial, atraindo, por analogia, o óbice da Súmula nº 284/STF.
+4. Ademais, rever o entendimento firmado pelas instâncias ordinárias, para entender pelo descumprimento de cláusula contratual, demandaria a análise de circunstâncias fático-probatórias dos autos, procedimento inviável em recurso especial devido à incidência da Súmula nº 7/STJ.
+5. A alegação de violação de tema repetitivo não autoriza a abertura da via especial, tendo em vista que o art. 105, III, alíneas "a" e "c", da Constituição Federal, exige a demonstração da contrariedade, da negativa de vigência ou da interpretação divergente a dispositivo de lei federal.
+6. É inadmissível o inconformismo por deficiência na fundamentação quando o recurso especial deixa de indicar qual dispositivo legal seria objeto de interpretação divergente. Aplicação da Súmula nº 284/STF.
+7. Agravo conhecido para não conhecer do recurso especial.
+(AREsp n. 3.017.340/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 1/6/2026, DJEN de 9/6/2026.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA C/C OBRIGAÇÃO DE FAZER. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL, DE SÚMULA, DE TEMA REPETITIVO OU ATO NORMATIVO DIVERSO DE LEI FEDERAL. DESCABIMENTO.
+1. Ação declaratória de inexistência de relação jurídica c/c obrigação de fazer.
+2. "A alegação de violação de tema repetitivo não autoriza a abertura da via especial, tendo em vista que o art. 105, III, "a" e "c", da Constituição Federal, exige a demonstração da contrariedade, negativa de vigência ou interpretação divergente ao artigo de lei federal". (REsp 2.150.045/SP, Terceira Turma, DJEN de 4/4/2025).
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 2.256.628/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 18/5/2026, DJEN de 22/5/2026.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. JUROS DE MORA E CORREÇÃO MONETÁRIA SOBRE DEPÓSITO JUDICIAL. COISA JULGADA. PRECLUSÃO PRO JUDICATO. MATÉRIA DE ORDEM PÚBLICA. RECURSO ESPECIAL FUNDADO EM VIOLAÇÃO DE TEMA DE RECURSOS REPETITIVOS. DESCABIMENTO. SÚMULAS 83 E 518/STJ.
+1. Não é cabível o recurso especial quando se busca analisar a violação ou a interpretação divergente de tese fixada em julgamento de recursos repetitivos, porquanto tal normativo não se enquadra no conceito de lei federal para fins de interposição do apelo nobre, incidindo, por analogia, o óbice da Súmula 518/STJ: "Para fins do art. 105, III, "a", da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula."
+2. As matérias de ordem pública estão sujeitas à preclusão pro judicato, razão pela qual não podem ser revisitadas quando já foram objeto de anterior manifestação jurisdicional transitada em julgado.
+3. Estando o acórdão recorrido em harmonia com a orientação jurisprudencial desta Corte Superior, incide o óbice da Súmula 83/STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.959.343/PR, relator Ministro Humberto Martins, Terceira Turma, julgado em 18/5/2026, DJEN de 21/5/2026.)
+Assim, o recurso não merece conhecimento no ponto.
+Ante o exposto, conheço agravo para não conhecer do recurso especial interposto, tendo em vista a incidência dos óbices verificados.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, em 2% sobre o percentual já arbitrado ou em 10% se a verba houver sido fixada em valor líquido, tudo nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
