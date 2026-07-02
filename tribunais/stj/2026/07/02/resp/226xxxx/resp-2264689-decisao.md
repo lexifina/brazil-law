@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO (FAZENDA NACIONAL), com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO.
+Nas razões do recurso especial (e-STJ fls. 279/313), a parte recorrente aponta violação aos arts. 489, § 1º, IV e V, e 1.022, II, parágrafo único, I e II, do Código de Processo Civil (CPC), aos arts. 168, caput e II, e 170 do Código Tributário Nacional (CTN), ao art. 1º do Decreto n. 20.910/1932 e ao art. 74, §§ 1º e 14, da Lei n. 9.430/1996.
+A controvérsia principal consiste em definir se o prazo prescricional de cinco anos previsto no art. 168 do CTN, para o exercício do direito de compensação de créditos tributários reconhecidos judicialmente, aplica-se apenas ao início do procedimento compensatório ou à sua integral conclusão, bem como em aferir os efeitos do pedido administrativo de habilitação do crédito nessa contagem.
+A questão foi afetada ao rito dos recursos repetitivos pela Primeira Seção desta Corte, originando o Tema 1.428 do STJ assim delimitado:
+Definir se o prazo prescricional de cinco anos para o exercício do direito de compensação de créditos tributários reconhecidos judicialmente, previsto no art. 168 do Código Tributário Nacional (CTN), aplica-se ao início do procedimen to compensatório ou à sua integral conclusão, bem como aferir os efeitos do pedido administrativo de habilitação de crédito na contagem desse prazo.
+Ante o exposto, com base no art. 256-L do RISTJ, DETERMINO a DEVOLUÇÃO dos autos ao Tribunal Regional Federal da 3ª Região, a fim de que permaneçam suspensos até o julgamento do Tema Repetitivo 1.428/ do S TJ, observando-se, após a publicação do respectivo acórdão, o disposto no art. 1.040 e seguintes do CPC.
+Publique-se. Intimem-se.
+ EMENTA
