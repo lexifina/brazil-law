@@ -1,0 +1,111 @@
+DECISÃO
+Trata-se de recurso especial interposto por RITA DE CASSIA DE MELO SILVA, com fundamento no art. 105, inciso III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Agravo de instrumento Execução de título extrajudicial Insurgência em face de despacho que deferiu a penhora de imóvel, de automóvel e de contas bancárias Provimento não agravável Inteligência do art. 1.001 do CPC As matérias levantadas nas razões do recurso (bem de família, essencialidade do automóvel e ausência de responsabilidade de terceiro) devem ser anteriormente aduzidas em primeiro grau por meio de impugnação à penhora Supressão de instância configurada Recurso não conhecido." (e-STJ fl. 53)
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 71/73
+Nas razões do recurso especial (e-STJ fls. 77/86), a parte recorrente alega, além de divergência jurisprudencial, violação dos seguintes dispositivos com as respectivas teses:
+(i) art. 1.022, do Código de Processo Civil  porque teria havido negativa de prestação jurisdicional ao deixar de se manifestar o Tribunal de origem sobre ponto central suscitado nos embargos de declaração, relativo ao reconhecimento dos aclaratórios opostos na origem como impugnação à decisão de penhora;
+(ii) art. 1.026, caput, do Código de Processo Civil  pois os embargos de declaração, por sua natureza recursal, configuram impugnação ao provimento interlocutório de penhora e interrompem o prazo para interposição de outros recursos;
+(iii) art. 1.015, parágrafo único, do Código de Processo Civil  porque há ampla recorribilidade das decisões interlocutórias na fase de cumprimento de sentença, sendo cabível agravo de instrumento diretamente contra decisão que determina penhora;
+(iv) art. 5º, incisos LIV e LV, da Constituição Federal  pois a exigência de impugnação prévia inexistente em lei teria violado o devido processo legal e a ampla defesa, suprimindo o direito de utilizar os meios e recursos inerentes, e
+(v) art. 93, inciso IX, da Constituição Federal  porque a manutenção da decisão sem enfrentamento do ponto omissivo caracterizaria ausência de fundamentação suficiente.
+Aponta como paradigma o REsp nº 2.023.890/MS.
+As contrarrazões foram apresentadas (e-STJ fls. 96/102), com pedido de não conhecimento do recurso, por aplicação das Súmulas 7/STJ e 284/STF, e, subsidiariamente, de negativa de provimento, além de requerer a condenação ao pagamento de honorários advocatícios recursais, nos termos do art. 85, § 11, do Código de Processo Civil.
+É o relatório.
+DECIDO.
+A irresignação não merece acolhida.
+Quanto aos arts. art. 5º, incisos LIV e LV, e 93, IX, da Constituição Federal, observa-se que compete ao Superior Tribunal de Justiça, em recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável invocar, nesta seara, a violação de dispositivos constitucionais, pois, como consabido, a matéria é afeta à competência do Supremo Tribunal Federal.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o Tribunal de origem entendeu que as questões relativas à impenhorabilidade do automóvel, por ser necessário à subsistência da família, e do imóvel, por constituir bem de família, deviam ser examinadas em primeiro grau, não sendo possível a impugnação direta ao Tribunal, sob pena de supressão de instância:
+"A recorrente aponta que o imóvel e o automóvel são impenhoráveis e que os seus bens não respondem pelo pagamento da dívida. Todavia, a matéria não pode ser conhecida na presente sede. Isso porque o recorrente levantou suas teses diretamente no agravo de instrumento, sem antes levá-las ao juízo de primeiro grau. Trata-se de inadmissível supressão de instância, motivo pelo qual as matérias ainda não podem ser conhecidas. Sobre o tema, confira-se a jurisprudência." (e-STJ fl. 54 - grifou-se).
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+Cumpre assinalar que nos termos da jurisprudência desta Corte é cabível a interposição direta de agravo de instrumento contra decisão que determina a penhora, podendo o recorrente abrir mão do benefício da impugnação em primeiro grau. Eis a ementa do acórdão trazido como paradigma:
+"RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. PENHORA. DECISÃO. NATUREZA JURÍDICA. DECISÃO INTERLOCUTÓRIA. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. APRESENTAÇÃO PRÉVIA DE SIMPLES PETIÇÃO NOS TERMOS DO ART. 525, §11 DO CPC. DESNECESSIDADE. FACULDADE DO DEVEDOR.
+1- Recurso especial interposto em 14/1/2022 e concluso ao gabinete em 2/9/2022.
+2- O propósito recursal consiste em dizer se, na fase de cumprimento de sentença, é cabível a interposição direta de agravo de instrumento sem a prévia utilização do procedimento de impugnação previsto no art. 525, §11, do CPC.
+3- O pronunciamento judicial que determina a penhora de bens possui natureza jurídica de decisão interlocutória e não de simples despacho, notadamente porque não se limita a impulsionar o procedimento, caracterizando inegável gravame à parte devedora.
+4- Na fase de cumprimento de sentença, não há óbice à interposição direta do recurso de agravo de instrumento contra decisão que determina a penhora de bens sem a prévia utilização do procedimento de impugnação previsto no art. 525, §11, do CPC.
+5- Recurso especial não provido".
+(REsp nº 2.023.890/MS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 25/10/2022, DJe de 27/10/2022 - grifou-se)
+Na hipótese dos autos, porém, o Tribunal de origem não conheceu do agravo de instrumento por mais um fundamento, qual seja, a ocorrência de supressão de instância.
+De fato, conforme se verifica da decisão que julgou os embargos de declaração em primeiro grau, as matérias relativas ao automóvel se constituir em bem indispensável à manutenção do núcleo familiar e o imóvel ser bem de família não foram tratadas na decisão agravada.
+Eis os termos da decisão de primeiro grau proferida no julgamento dos embargos de declaração opostos pela recorrente, que se limitou à análise da possibilidade de penhora de bens do cônjuge:
+"(..)
+Vistos. 1. Fls. 821/823: Embargos de Declaração opostos por Rita Cássia de Melo Silva contra a decisão de fls. 799/800.
+É O RELATÓRIO.
+A decisão encontra-se suficientemente fundamentada, não demonstrando contradição, omissão ou obscuridade a serem sanadas.
+Conforme entendimento do juízo, com base em precedente expressamente indicado na decisão embargada, é possível a incursão no patrimônio do cônjuge da devedora, inclusive por meio da busca de ativos financeiros via SISBAJUD, vez que eventuais valores que detenha, ainda que em nome próprio, a título de ações, investimentos, poupança e outros valores, poderão ser constritos no que se refere a meação pertencente a devedora:
+(..)
+A possibilidade de penhora de valores, ademais, não afasta a prévia intimação do cônjuge para contraditório, em caso localizados bens ou valores, incumbindo ao cônjuge comprovar que esses não integram o patrimônio comum do casal (art. 1659 do CC) ou eventual impenhorabilidade (art. 833 do CPC).
+2. Fls. 824/826: Embargos de declaração opostos por Rita de Cássia de Melo Silva contra a decisão de fls. 795/798.
+É O RELATÓRIO.
+Os embargos de declaração devem ser parcialmente acolhidos.
+Sendo a devedora casada em regime de comunhão parcial de bens, é possível a incursão no patrimônio de seu cônjuge, a fim de buscar bens cuja meação detenha a devedora, de forma permitir a respectiva penhora.
+Tal possibilidade já havia sido reconhecida na decisão de fls. 506/507 não recorrida, estando preclusa a oportunidade para discussão quanto ao ponto.
+Lado outro, tratando-se o automóvel penhorado e levado a hasta pública de bem indivisível, a penhora deve recair sobre a integralidade do bem, sendo que, para fins de arrematação, o lance deve ser suficiente a garantir o pagamento referente a meação pertencente ao cônjuge que não figura no polo passivo (R$ 25.568,50).
+Nesse sentido:
+(..)
+Assim, acolho os declaratórios em parte, tão somente para consignar que, do produto da arrematação, deverá ser reservado valor suficiente a assegurar a meação do cônjuge que não figura no polo passivo, sendo que, caso o lance não seja suficiente a cobrir tal valor, será indeferido.
+3. Fls. 827/836: Defere-se o edital de praceamento do imóvel apresentado, nos termos indicados pelo leiloeiro. Ciência às partes sobre as datas designadas para hasta pública do imóvel:
+"1ª PRAÇA: De 07/07/2025 às 15:00:00 até 10/07/2025 às 15:00:00 - valor igual ou superior ao da avaliação;
+2ª PRAÇA: De 10/07/2025 às 15:00:00 até 30/07/2025 às 15:00:00 - mínimo de 75%* do valor de 1ª Praça. *tratando-se de bem indivisível, o percentual indicado para segunda praça resulta da aplicação do desconto judicial apenas sobre a quota-parte pertencente ao(s) executado(s)" (e-STJ fl. 19)
+Daí a conclusão de que as matérias (bem essencial e bem de família) não poderiam ser conhecidas no julgamento do agravo de instrumento, pois não foram analisadas em primeiro grau. A recorrente, porém, não impugnou esse fundamento, o que atrai a incidência da Súmula nº 283/STJ.
+Vale lembrar que o agravo de instrumento é um recurso de efeito devolutivo estrito, limitado à matéria objeto da decisão impugnada. Em vista disso, não cabe ao Tribunal se pronunciar sobre matéria que não foi tratada na decisão agravada.
+A propósito:
+"DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DEVOLUTIVIDADE DO AGRAVO DE INSTRUMENTO. PREQUESTIONAMENTO. PRESCRIÇÃO INTERCORRENTE. DISSÍDIO JURISPRUDENCIAL. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão que negara provimento a agravo em recurso especial, mantida a inadmissão de recurso especial fundado nas alíneas a e c do art. 105, III, da CF, em razão da incidência das Súmulas n. 283, 284 do STF, Súmula n. 7 do STJ e ausência de similitude fática para o dissídio.
+2. O recurso especial buscava reformar acórdão proferido em agravo de instrumento manejado contra decisão que rejeitara exceção de pré-executividade em execução de título extrajudicial (nota promissória vinculada a contrato de mútuo de arrobas de boi), na qual a executada, na condição de fiadora, alegava prescrição, prescrição intercorrente, ilegitimidade passiva, bem como iliquidez, incerteza e inexequibilidade do contrato de mútuo e do título.
+3. O juízo de primeiro grau examinou apenas prescrição do contrato de empréstimo, prescrição intercorrente e validade da fiança e da nota promissória, reservando as demais alegações para momento posterior, após o trânsito em julgado de acórdão em outro processo, para evitar decisões conflitantes. O Tribunal de origem, ao julgar o agravo de instrumento, limitou-se às matérias efetivamente decididas, rejeitando a exceção de pré-executividade e afastando a prescrição intercorrente e a alegada ilegitimidade da fiadora.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se há negativa de prestação jurisdicional e violação dos arts. 11 e 489, § 1º, IV, do CPC, pela ausência de manifestação do Tribunal de origem sobre alegações de iliquidez, incerteza e inexequibilidade do contrato de mútuo e do título executivo.
+5. A questão em discussão consiste ainda em: (i) saber se matérias tidas como de ordem pública, relativas à iliquidez, incerteza e inexigibilidade do título, poderiam e deveriam ser conhecidas de ofício pelo Tribunal de origem, afastando a fundamentação de supressão de instância, com consequente violação dos arts. 783, 786, 798, I, b, e 803, I, do CPC; (ii) saber se há ocorrência de prescrição intercorrente em razão da morte do executado e da ausência de habilitação de sucessores por lapso superior ao prazo prescricional; e (iii) saber se é possível apreciar o dissídio jurisprudencial acerca da inexequibilidade do título e da prescrição intercorrente, ante a ausência de prévio enfrentamento da matéria e de similitude fática entre os julgados.
+III. RAZÕES DE DECIDIR
+6. O Tribunal de origem limitou a análise do agravo de instrumento às matérias decididas na interlocutória que rejeitou a exceção de pré-executividade (prescrição, prescrição intercorrente, validade da fiança e da nota promissória), em respeito ao efeito devolutivo restrito do agravo de instrumento e para evitar supressão de instância, o que afasta violação dos arts. 11 e 489, § 1º, IV, do CPC.
+7. A ausência de manifestação do Tribunal de origem sobre a alegada iliquidez, incerteza e inexequibilidade do contrato de mútuo decorreu do fato de que tais questões não foram objeto da decisão de primeiro grau e foram expressamente reservadas para análise posterior, de modo que não há omissão relevante a caracterizar negativa de prestação jurisdicional nem afronta ao dever de fundamentação.
+8. Ainda que se trate de matéria de ordem pública, a falta de enfrentamento prévio pelas instâncias ordinárias e a ausência de embargos de declaração buscando suprir a omissão implicam falta de prequestionamento, incidindo, por analogia, os óbices das Súmulas n. 356 e 282 do STF, o que inviabiliza o conhecimento do recurso especial quanto à suposta violação dos arts. 783, 786, 798, I, b, e 803, I, do CPC.
+9. Quanto à prescrição intercorrente, o acórdão recorrido fixou premissa fática no sentido de que, embora não tenha havido habilitação dos sucessores do executado falecido, a execução não permaneceu paralisada por mais de seis anos sem impulso do exequente, inexistindo inércia apta a caracterizá-la, premissa que não pode ser revista em recurso especial, ante o óbice da Súmula n. 7 do STJ.
+10. A divergência jurisprudencial quanto à ocorrência de prescrição intercorrente resta prejudicada tanto pela incidência da Súmula n. 7 do STJ, em relação à interposição pela alínea a, como pela ausência de similitude fática entre o acórdão recorrido, que reconheceu atuação diligente do exequente, e os paradigmas indicados, que tratam de hipóteses de desídia processual.
+11. A discussão relativa à inexequibilidade do contrato de mútuo e do título executivo não foi objeto de deliberação pelo Tribunal de origem, razão pela qual também não se encontram presentes os requisitos de prequestionamento indispensáveis à análise do dissídio jurisprudencial sobre o tema.
+12. Inexistindo violação de dispositivos legais federais e mantidos os óbices sumulares relativos à ausência de prequestionamento, à necessidade de reexame de matéria fática e à falta de similitude fática para o dissídio, impõe-se a manutenção da decisão que negara provimento ao agravo em recurso especial.
+IV. DISPOSITIVO E TESE
+13. Resultado do Julgamento: Agravo interno desprovido, mantida a decisão que negara provimento ao agravo em recurso especial.
+Tese de julgamento:
+1. O agravo de instrumento possui efeito devolutivo limitado às matérias efetivamente apreciadas na decisão agravada, sendo vedado ao Tribunal de origem examinar questões não decididas em primeiro grau, sob pena de supressão de instância.
+2. A ausência de deliberação prévia pelas instâncias ordinárias, ainda que sobre matéria de ordem pública, impede o conhecimento do recurso especial por falta de prequestionamento.
+3. A caracterização da prescrição intercorrente exige inércia do exequente, intimação para a prática de ato de sua responsabilidade e transcurso do prazo prescricional, não sendo possível, em recurso especial, revisar premissas fáticas firmadas pelo Tribunal de origem a esse respeito, em razão da Súmula n. 7 do STJ.
+4. A inadmissão do recurso especial pela alínea a do art. 105, III, da CF, em razão de óbices sumulares, prejudica a análise do dissídio jurisprudencial referente à mesma matéria.
+Dispositivos relevantes citados: CF/1988, art. 105, III, a e c;
+CPC/2015, arts. 11, 489, § 1º, IV, 783, 786, 798, I, b, 803, I, 313, I, § 2º, I; Súmula n. 7 do STJ; Súmulas n. 150, 282, 283, 284, 356 do STF.
+Jurisprudência relevante citada: STJ, AREsp n. 2.686.691/MS, Quarta Turma, j. 16/12/2025; STJ, REsp n. 2.231.797/SP, Quarta Turma, j. 2/3/2026; STJ, AREsp n. 2.944.556/SC, Quarta Turma, j. 9/2/2026; STJ, AgInt no AREsp n. 1.898.375/RS, Terceira Turma, j. 27/6/2022; STJ, AgInt no AREsp n. 1.866.385/DF, Segunda Turma, j. 16/5/2022; STJ, AgInt no AREsp 1.611.756/GO, Quarta Turma, j. 29/8/2022; STJ, AgInt no AREsp n. 1.724.656/DF, Terceira Turma, j. 22/8/2022; STJ, AgInt no REsp n. 1.503.880/PE, Primeira Turma, j. 27/2/2018; STJ, AREsp n. 2.704.409/SP, Terceira Turma, j. 16/3/2026.
+(AgInt no AREsp nº 2.090.287/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 22/4/2026, DJEN de 27/4/2026 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. AGRAVO DE INSTRUMENTO. EFEITO DEVOLUTIVO LIMITADO. SUPRESSÃO DE INSTÂNCIA. ILEGITIMIDADE DA EXECUTADA PARA DEFENDER DIREITO DE TERCEIRO. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. ÓBICES SUMULARES. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
+1. O acórdão enfrenta de modo suficiente e coerente os pontos devolvidos, delimita o escopo do agravo de instrumento e afasta matérias não apreciadas na decisão agravada, inexistindo violação dos arts. 489 e 1.022 do CPC.
+2. O efeito devolutivo do agravo de instrumento limita-se ao conteúdo da decisão impugnada. Apreciar matéria não tratada na origem configura supressão de instância.
+3. Não se pode pleitear em nome próprio direito de terceiro, salvo excepcional autorização por lei.
+4. O dissídio jurisprudencial não é demonstrado por ausência de cotejo analítico e distinção fática, incidindo, ademais, os óbices das Súmulas 7/STJ, 83/STJ e 283/STF.
+5. Agravo conhecido. Recurso especial conhecido em parte e, nessa extensão, não provido".
+(AREsp nº 3.054.951/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 16/3/2026, DJEN de 20/3/2026 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EFEITO DEVOLUTIVO. ART. 1.015 DO CPC/2015. LIMITAÇÃO À MATÉRIA EFETIVAMENTE DECIDIDA. ILEGITIMIDADE PASSIVA. QUESTÃO NÃO SUSCITADA PERANTE O JUÍZO DE ORIGEM. IMPOSSIBILIDADE DE APRECIAÇÃO PELO TRIBUNAL REVISOR. SUPRESSÃO DE INSTÂNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. SÚMULA N. 83/STJ.
+1. O efeito devolutivo do agravo de instrumento, nos termos do art. 1.015 do Código de Processo Civil de 2015, restringe-se à matéria efetivamente decidida na decisão interlocutória impugnada, sendo inviável a apreciação, pelo Tribunal revisor, de questões não submetidas ao crivo do Juízo de primeiro grau.
+2. Embora a legitimidade ad causam constitua matéria de ordem pública, cognoscível de ofício em qualquer tempo e grau de jurisdição, não se admite o manejo de agravo de instrumento para provocar o Tribunal a decidir sobre questão que não foi apresentada ao Juízo de origem e sobre a qual inexiste deliberação, sob pena de supressão de instância e tumulto processual.
+3. A não apreciação pela Corte de origem de questões estranhas ao conteúdo da decisão agravada, ainda que eventualmente suscitadas na peça recursal, não constitui negativa de prestação jurisdicional.
+Precedentes.
+4. Incidência da Súmula n. 83/STJ, porquanto o acórdão recorrido encontra-se em consonância com a jurisprudência consolidada deste Tribunal Superior.
+Agravo interno improvido".
+(AgInt no AREsp nº 2.349.997/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 16/3/2026, DJEN de 19/3/2026 - grifou-se)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. IMPOSSIBILIDADE DE O TRIBUNAL ANALISAR QUESTÃO AINDA NÃO APRECIADA PELO JUÍZO NATURAL. SUPRESSÃO DE INSTÂNCIA. INOVAÇÃO RECURSAL. DESCABIMENTO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. No caso, verifica-se que o entendimento esposado pelo Tribunal de origem, no julgamento do agravo de instrumento, está em consonância com a pacífica jurisprudência do Superior Tribunal de Justiça assente no sentido da impossibilidade de análise de questão que ainda não foi apreciada pelo juízo de origem, a qual não pode ser objeto de deliberação pela instância ad quem, sob pena de supressão de instância e ofensa ao duplo grau de jurisdição. Súmula 83/STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp nº 1.692.724/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 2/9/2024, DJe de 13/9/2024 - grifou-se)
+Cabe à recorrente, portanto, apresentar as matérias arguidas ao Juízo de primeiro grau, valendo-se do instrumento processual que entender cabível.
+Ante o exposto, conheço parcialmente do recurso especial, e nessa parte nego-lhe provimento.
+Fica prejudicada a análise do pedido de tutela de urgência de fls. 128/139 (e-STJ).
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO PENHORA. DESNECESSIDADE. EFEITO DEVOLUTIVO ESTRITO. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA 283/STF. VIOLAÇÃO. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA. SUPREMO TRIBUNAL FEDERAL.
+1. Não viola o artigo 1.022 do Código de Processo Civil nem importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+2. Não há óbice para a interposição direta de recurso de agravo de instrumento contra decisão que determina a penhora de bens. Precedente.
+3. A subsistência de fundamento não impugnado apto a manter a conclusão do aresto recorrido impõe o não conhecimento da pretensão recursal. Súmula nº 283/STF.
+3. Não cabe ao Superior Tribunal de Justiça examinar a suposta violação de matéria constitucional, porquanto enfrentá-la significaria usurpar competência que, por expressa determinação da Constituição Federal, pertence ao Supremo Tribunal Federal.
+4. Recurso especial não conhecido.
