@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por AGUIMAR DE OLIVEIRA CORREA, contra decisão da Vice-Presidência do Tribunal de Justiça do Estado do Espírito Santo que inadmitiu o recurso especial, manejado com fundamento no art. 105, III, "a", da Constituição Federal.
+Consta dos autos que o agravante foi condenado pela prática do crime de homicídio qualificado (art. 121, §2º, IV, do Código Penal), em concurso de pessoas, à pena de 21 (vinte e um) anos de reclusão, em regime inicial fechado, além de indenização por danos morais posteriormente afastada em revisão criminal .
+A defesa ajuizou revisão criminal, julgada parcialmente procedente pelo Tribunal de origem apenas para excluir a reparação civil, mantendo-se, no mais, a condenação e a dosimetria da pena.
+Irresignada, interpôs recurso especial, sustentando, em síntese: (i) violação aos arts. 59 e 68 do Código Penal, em razão da indevida valoração das circunstâncias judiciais; (ii) ocorrência de bis in idem entre qualificadora e circunstâncias do crime; (iii) desproporcionalidade na fixação da pena-base.
+O Tribunal de origem, contudo, inadmitiu o recurso especial, ao fundamento de: (a) ausência de prequestionamento das matérias suscitadas; e (b) incidência da Súmula 7 do STJ, por demandar reexame do conjunto fático-probatório .
+Daí o presente agravo, no qual a defesa sustenta a admissibilidade do recurso especial, alegando tratar-se de matéria exclusivamente de direito.
+O Ministério Público Federal, em parecer, opinou pelo não conhecimento do agravo, ao entendimento de que: não houve impugnação específica do fundamento relativo à ausência de prequestionamento; as teses recursais não foram objeto de debate na instância de origem; subsiste o óbice da Súmula 7/STJ .
+É o relatório.
+A decisão agravada inadmitiu o recurso especial com base em dois fundamentos autônomos: (i) ausência de prequestionamento; (ii) incidência da Súmula 7/STJ.
+Nos termos da jurisprudência consolidada desta Corte, incumbe à parte agravante impugnar especificamente todos os fundamentos da decisão agravada, sob pena de incidência do princípio da dialeticidade recursal.
+No caso concreto, verifica-se que a defesa não enfrentou adequadamente o fundamento relativo à ausência de prequestionamento, limitando-se a reiterar as razões do recurso especial, sem demonstrar que as matérias invocadas foram efetivamente debatidas e decididas pelo Tribunal de origem à luz dos dispositivos legais indicados.
+Com efeito, conforme consignado no parecer ministerial, as teses relacionadas ao redimensionamento da pena não foram objeto de apreciação no acórdão recorrido, o que inviabiliza o acesso à instância especial .
+Ademais, a ausência de oposição de embargos de declaração para suprir eventual omissão reforça a inexistência de prequestionamento, atraindo a incidência das Súmulas 282 e 356 do STF e 211 do STJ.
+Não bastasse, a pretensão recursal demanda, ainda que sob o rótulo de violação de lei federal, o reexame da valoração das circunstâncias judiciais e da proporcionalidade da pena, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+Com efeito, a controvérsia trazida pela defesa, embora formalmente apresentada como violação aos arts. 59 e 68 do Código Penal, revela inconformismo com a valoração concreta das circunstâncias judiciais realizada pelas instâncias ordinárias, especialmente no que se refere às consequências do crime e à intensidade da reprovabilidade da conduta. A aferição da alegada desproporcionalidade da pena-base, nessas hipóteses, demanda incursão no contexto fático-probatório dos autos, a fim de verificar se os elementos considerados pelo julgador extrapolam ou não os limites do tipo penal.
+Assim, a manutenção da decisão de inadmissão do recurso especial é medida que se impõe.
+Diante do exposto, NÃO CONHEÇO do agravo em recurso especial.
+EMENTA
