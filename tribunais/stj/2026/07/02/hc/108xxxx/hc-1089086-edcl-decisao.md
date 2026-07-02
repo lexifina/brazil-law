@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de embargos de declaração, opostos por DANILO BERNARDES MATHIAS, contra decisão de fls. 2.468-2.479, que não conheceu do habeas corpus e, de ofício, redimensionou as penas de três delitos, mantendo o regime inicial fechado.
+A parte embargante sustenta omissão quanto ao reconhecimento da restituição integral do dano. Afirma que o acórdão de origem teria registrado quitação total e que a decisão embargada não analisou esse trecho , o que, no entender da defesa, tornaria indevida a negativa da atenuante de reparação.
+Alega, ainda, contradição interna na manutenção do regime inicial fechado. Aponta que a própria decisão embargada reduziu a fração de aumento da pena-base para 1/6, reconhecendo apenas uma circunstância judicial desfavorável por crime, mas, mesmo assim, concluiu pela fixação do regime mais gravoso com reprimenda pouco acima de 4 anos, sem elementos adicionais que justificassem a medida.
+Requer o acolhimento dos embargos para sanar os vícios apontados, com a integração da decisão no tocante à reparação integral do dano e à fundamentação do regime prisional, e, com os respectivos efeitos modificativos.
+O Ministério Público Federal opinou pela rejeição dos embargos (fls. 2.496-2.499).
+É o relatório.
+I. Omissão na análise da atenuante pela reparação do dano (art. 65, III, b, do CP)
+A parte embargante aponta vício processual quanto ao não reconhecimento da reparação integral do dano para fins de redução da pena, alegando que tal circunstância estaria afirmada no acórdão de origem.
+O Tribunal local, ao avaliar a possibilidade de conceder a atenuação da pena, consignou o que segue (fls. 95-96):
+ ..  Inviável o reconhecimento das atenuantes da confissão espontânea e da prevista no artigo 65, inciso III, alínea "b" do Código Penal. Apesar de o sentenciado ter confirmado o atraso no pagamento dos valores devidos à vítima, em nenhum momento confessou ter se apropriado do numerário. Pelo contrário. Sempre buscou justificar sua conduta. Além disso, verifica-se que a reparação do dano não ocorreu de forma espontânea, somente tendo o sentenciado iniciado o pagamento após ser interpelado pelo Promotor de Justiça.
+A decisão embargada, com base nesse excerto, concluiu que não houve a reparação total do dano e, assim, estaria inviabilizada a incidência da atenuante.
+A controvérsia sobre a entrega ou não dos valores à vítima surgiu, em especial, pois a parte foi condenada por falsidade ideológica. Com efeito, consta que o embargante inseriu, em recibo particular assinado pela vítima, a informação de quitação integral sem conhecimento da ofendida sobre essa informação.
+Em outra oportunidade, o embargante coagiu a vítima a gravar um vídeo afirmando que todos os valores tinham sido devolvidos, circunstância que, à época da gravação, era inverídica.
+Desse modo, considerou-se que a devolução integral era controvertida e não estava devidamente comprovada. Apesar desse cenário, o trecho indicado pelo embargante registra que a última parcela só foi paga após a orientação dada à vítima para apresentar versão inverídica.
+De fato, a narrativa indica que o pagamento final ocorreu, embora tenha sido condicionado à exigência de que a vítima fizesse uma declaração falsa. Confira-se (fls. 91-98):
+ ..  Depois, diante da insistência, as atendeu em seu escritório em 2 de outubro de 2018 onde as enganou induzindo-as a assinar o recibo de fls. 122 e 130, mas nenhum valor lhes entregou.
+ ..  Demais disso, visando acobertar sua conduta ilícita, no dia 3 de setembro de 2019, o acusado compareceu à residência da vítima acompanhado pela testemunha V. e gravou um vídeo onde obrigou a testemunha I. declarar que sua genitora recebeu todo o valor no dia 6 de novembro de 2018, fato inexistente conforme demonstrado nestes autos (fls. 228/238)
+A testemunha I. afirmou ainda que depois disso, por várias vezes o acusado esteve em sua residência e determinou que deveria mentir se fosse procurada pela polícia ou pelo fórum, afirmando que receberam o valor no ano de 2018 e que seria melhor "retirar a queixa".
+ ..  E ao contrário do afirmado pelo acusado, ficou devidamente demonstrado ter, o apelante, sido empolgado pelo animo de criar muitas e inexplicáveis dificuldades no dever de restituir os valores pertencente à vítima, eis que tão-somente iniciou o pagamento, e o fez de maneira fracionada, após esta ter se dirigido à Promotoria de Justiça. E a última parcela só foi entregue à vítima após esta ser orientada pelo acusado a apresentar versão inverídica perante as Autoridades.
+Então, houve omissão na decisão embargada sobre esse trecho do acórdão, o qual reconheceu que o último pagamento ocorreu após a vítima ser orientada pelo embargante a apresentar versão inverídica perante as autoridades.
+Apesar disso, permanece inviável a concessão da atenuante. Ainda que se admita a reparação integral, o Tribunal de origem apresentou fundamento autônomo que afasta o benefício: a ausência de espontaneidade nesse ato.
+A Quinta Turma, em situação análoga e tratando da mesma atenuante, assentou a necessidade de espontaneidade na conduta do agente. Como esse requisito foi afastado pelas instâncias ordinárias, com motivação adequada, a benesse não incidiu. Confira-se:
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO MAJORADO. ARREPENDIMENTO POSTERIOR. ART. 16 DO CÓDIGO PENAL. AUSÊNCIA DE VOLUNTARIEDADE NA RESTITUIÇÃO. REPARAÇÃO NÃO INTEGRAL DO DANO. REEXAME DE PROVAS. INADEQUAÇÃO DA VIA ELEITA. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus impetrado em favor de condenado pela prática de furto majorado.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é possível reconhecer a causa de diminuição de pena do arrependimento posterior diante da não restituição voluntária dos bens e da reparação não integral; (ii) estabelecer se é cabível o reconhecimento da atenuante genérica da reparação do dano quando as instâncias ordinárias afastaram a voluntariedade da restituição.
+III. RAZÕES DE DECIDIR
+3. A aplicação da causa de diminuição prevista no art. 16 do Código Penal exige o preenchimento cumulativo dos requisitos de voluntariedade da restituição ou reparação do dano e de sua integralidade.
+4. As instâncias ordinárias concluíram, com base no conjunto probatório, que a recuperação dos bens ocorreu por iniciativa da vítima e em decorrência de diligências policiais, não por ato voluntário do réu.
+5. O Tribunal de origem também reconhece que a restituição não foi integral, pois um dos objetos subtraídos não foi devolvido, circunstância que impede a incidência da atenuante do arrependimento posterior.
+6. A atenuante genérica do art. 65, III, b, do Código Penal exige a espontaneidade da conduta do agente, requisito afastado pelas instâncias ordinárias com fundamentação idônea.
+7. O pretendido reconhecimento da voluntariedade da restituição ou da integralidade da reparação demandaria reexame aprofundado do conjunto fático-probatório, providência incompatível com a via estreita do habeas corpus.
+8. AGRAVO REGIMENTAL NÃO PROVIDO.
+(AgRg no HC n. 1.049.005/SC, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 13/5/2026, DJEN de 18/5/2026.)
+Desse modo, entendo que o posicionamento recentemente adotado pela Quinta Turma deve ser aplicado ao caso, para confirmar o acórdão de origem e manter a negativa da atenuante.
+Então, os embargos devem ser acolhidos nesse ponto, apenas para suprir a omissão quanto à análise do trecho do acórdão que menciona a reparação integral, sem efeitos modificativos, pois permanece inviável a concessão da atenuante.
+II. Alegação de contradição na manutenção do regime fechado
+Sobre essa questão, a parte aponta que a decisão embargada reduziu a fração de aumento da pena-base para 1/6, reconhecendo apenas uma circunstância judicial desfavorável por crime, mas, mesmo assim, concluiu pela fixação do regime mais gravoso com reprimenda pouco acima de 4 anos, sem elementos adicionais que justificassem a medida.
+No entanto, não há contradição na manutenção do regime inicial fechado, pois a decisão impugnada fundamentou a opção no somatório da pena, que permanece superior a 4 anos, e na existência de circunstâncias judiciais desfavoráveis concretas reconhecidas na origem, como a deslealdade, a coação de testemunha para apresentar versão inverídica e a orientação para gravação de vídeo com declarações falsas, adotadas para assegurar ocultação e vantagem do crime antecedente (fl. 2.478):
+ ..  f) Regime inicial
+O impetrante pleiteia regime mais brando, porém a reprimenda situada entre quatro e oito anos, somada às circunstâncias judiciais desfavoráveis já reconhecidas e utilizadas para elevar a pena-base, autoriza a fixação de regime mais severo.
+Delimitada a controvérsia, a Corte local assim decidiu sobre o regime inicial (fls. 63, 102-103):
+ ..  Por sua vez, o sentenciado pediu o abrandamento do regime prisional para o aberto;  ..  Nos termos do artigo 33, §§ 2º e 3º, do Código Penal, para a fixação do regime inicial de cumprimento de pena, o magistrado deverá observar a quantidade da reprimenda aplicada, a primariedade do agente e a eventual existência de circunstâncias judiciais desfavoráveis. No caso, em razão do quantum de pena definitivamente aplicado - acima de 4 (quatro) e abaixo de 8 (oito) anos de reclusão -, caberia a imposição do regime inicial intermediário. No entanto, diante da presença de circunstâncias judiciais desfavoráveis, todas destacadas no voto, circunstâncias estas que fundamentaram a majoração das reprimendas básicas, é justificável a modificação do regime prisional para o mais severo.  ..  Ante o exposto, meu voto dá parcial provimento aos recursos para  ..  modificar o regime prisional inicial para o fechado, mantida, no mais, a respeitável sentença condenatória.
+Ainda que tenham sido efetuados ajustes na dosimetria, a pena continua acima de 4 anos e permanecem circunstâncias judiciais desfavoráveis, razão pela qual não há modificação no regime inicial.
+A redução da fração de aumento da pena-base para 1/6 não neutraliza esses elementos e não impede a fixação de regime mais gravoso quando presentes dados concretos desfavoráveis. Portanto, inexiste incoerência lógica ou ausência de base adicional a justificar a medida.
+A propósito:
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU AMBIGUIDADE. ART. 619 DO CPP. PRETENSÃO DE REDISCUSSÃO DO MÉRITO. INVIABILIDADE. PREQUESTIONAMENTO. NÃO CABIMENTO.
+1. Os embargos de declaração constituem recurso de fundamentação vinculada, cabíveis apenas para sanar ambiguidade, obscuridade, contradição, omissão ou erro material, nos termos do art. 619 do Código de Processo Penal.
+2. Não se verificam os vícios apontados quando o acórdão embargado apresenta fundamentação clara, coerente e suficiente para a conclusão adotada, enfrentando o núcleo das alegações deduzidas pela parte.
+3. A ausência de cotejo analítico entre as premissas fáticas fixadas no acórdão recorrido e as teses jurídicas sustentadas no recurso evidencia deficiência de impugnação específica do óbice da Súmula 7/STJ, atraindo, ainda, a incidência da Súmula 182/STJ em razão da insuficiência da dialeticidade recursal.
+4. A pretensão de reexaminar a valoração realizada quanto à adequação da impugnação recursal traduz mero inconformismo com o resultado do julgamento, providência incompatível com a finalidade integrativa dos embargos de declaração.
+5. Ausentes os vícios previstos no art. 619 do CPP, não há falar em prequestionamento por via reflexa, inclusive quanto ao art. 93, IX, da Constituição Federal.
+6. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp n. 3.188.192/PB, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/6/2026, DJEN de 24/6/2026.)
+Desse modo, os embargos representaram apenas inconformismo da parte com a solução jurídica conferida, sem evidenciar vícios processuais a serem sanados.
+Ante o exposto, acolho parcialmente os embargos de declaração, apenas para suprir a omissão quanto à análise do trecho do acórdão que menciona a reparação integral, sem efeitos modificativos.
+Intimem-se.
+Publique-se.
+EMENTA
