@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se  de  habeas  corpus  com  pedido  liminar  impetrado  em  favor  de  PAULO  RENATO  MIRANDA  DE  SOUZA  apontando  como  autoridade  coatora  o  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DE  SÃO  PAULO  (Embargos  Infringentes  e  de  Nulidade  n.  1534192-06.2025.8.26.0228/50000).
+Os  autos  dão  conta  de  que  o  paciente  foi  condenado  à  pena  de  12  (doze)  anos,  10  (dez)  meses  e  20  (vinte)  dias  de  reclusão,  em  regime  inicial  fechado,  como  incurso  nos  arts.  157,  §  § 2º,  II,  e  2º-A,  I;  180,  caput;  e  311,  §  2º,  III,  na  forma  do  art.  69,  caput,  todos  do  Código  Penal  (e-STJ  fls.  136/143).
+O  Tribunal  local  negou  provimento  ao  apelo  defensivo  (e-STJ  fls.  209/238)  e  aos  embargos  infringentes  do  réu  (e-STJ  fls.  268/281).
+No  presente  writ,  a  defesa  sustenta  a  existência  de  constrangimento  ilegal  na  dosimetria  da  pena  do  delito  de  roubo  imposta  ao  paciente.
+Aduz  a  ilegalidade  na  terceira  fase  do  cálculo  dosimétrico  diante  da  incidência  cumulativa  e  imotivada  das  duas  causas  de  aumento  relativas  ao  concurso  de  pessoas  e  ao  emprego  de  arma  de  fogo,  em  violação  ao  art.  68,  parágrafo  único,  do  Código  Penal  , e  à  Súmula  n.  443/STJ.
+Requer,  inclusive  liminarmente,  o  redimensionamento  da  reprimenda  .
+É  o  relatório.  Decido.
+A  jurisprudência  do  Superior  Tribunal  de  Justiça  é  uníssona  no  sentido  de  que  não  cabe  a  utilização  de  habeas  corpus  como  sucedâneo  de  recurso  próprio  ou  de  revisão  criminal,  sob  pena  de  desvirtuamento  do  objeto  ínsito  ao  remédio  heroico,  qual  seja,  o  de  prevenir  ou  remediar  lesão  ou  ameaça  de  lesão  ao  direito  de  locomoção.
+A  propósito:
+PENAL  E  PROCESSUAL  PENAL.  AGRAVO  REGIMENTAL  NO  "HABEAS  CORPUS".  ORGANIZAÇÃO  CRIMINOSA.  DOSIMETRIA.  INEXISTÊNCIA  DE  ILICITUDE  FLAGRANTE.  RECURSO  NÃO  PROVIDO.
+1.  A  Terceira  Seção  desta  Corte,  seguindo  entendimento  firmado  pela  Primeira  Turma  do  Supremo  Tribunal  Federal,  sedimentou  orientação  no  sentido  de  não  admitir  habeas  corpus  em  substituição  a  recurso  próprio  ou  a  revisão  criminal,  situação  que  impede  o  conhecimento  da  impetração,  ressalvados  casos  excepcionais  em  que  se  verifica  flagrante  ilegalidade  apta  a  gerar  constrangimento  ilegal.  ..
+(AgRg  no  HC  n.  921.445/MS,  relatora  Ministra  Daniela  Teixeira,  Quinta  Turma,  julgado  em  3/9/2024,  DJe  de  6/9/2024,  grifo  nosso.)
+AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  TRÁFICO  DE  DROGAS.  ABSOLVIÇÃO.  APLICAÇÃO  DO  IN  DUBIO  PRO  REO.  CONCESSÃO  DE  HABEAS  CORPUS  DE  OFÍCIO.  POSSIBILIDADE.  AGRAVO  REGIMENTAL  IMPROVIDO.
+ ..  4.  "Firmou-se  nesta  Corte  o  entendimento  de  que  " n ão  deve  ser  conhecido  o  writ  que  se  volta  contra  acórdão  condenatório  já  transitado  em  julgado,  manejado  como  substitutivo  de  revisão  criminal,  em  hipótese  na  qual  não  houve  inauguração  da  competência  desta  Corte"  (HC  n.  733.751/SP,  relatora  Ministra  Laurita  Vaz,  Sexta  Turma,  julgado  em  12/9/2023,  DJe  de  20/9/2023).  Não  obstante,  em  caso  de  manifesta  ilegalidade,  é  possível  a  concessão  da  ordem  de  ofício,  conforme  preceitua  o  art.  654,  §  2º,  do  Código  de  Processo  Penal"  (AgRg  no  HC  n.  882.773/SP,  relator  Ministro  Jesuíno  Rissato  -  Desembargador  Convocado  do  TJDFT,  Sexta  Turma,  julgado  em  24/6/2024,  DJe  de  26/6/2024).  ..
+(AgRg  no  HC  n.  907.053/SP,  relator  Ministro  Antônio  Saldanha  Palheiro,  Sexta  Turma,  julgado  em  16/9/2024,  DJe  de  19/9/2024,  grifo  nosso.)
+Não  se  desconhece  a  determinação  para  que,  quando  presente  flagrante  ilegalidade,  é  de  se  conceder  a  ordem  de  ofício,  nos  termos  do  art.  647-A,  parágrafo  único,  do  Código  de  Processo  Penal.
+Entretanto,  não  observo  ilegalidade  a  ser  sanada  na  presente  ocasião.
+Isso,  porque  a  Corte  estadual  demonstrou  que  a  aplicação  das  majorantes  do  roubo  nos  percentuais  adotados  foi  idoneamente  fundamentada  em  fatos  concretos  da  dinâmica  delituosa  ,  destacando  que  o  concurso  de  três  agentes  e  o  emprego  de  arma  de  fogo  configuraram  elementos  que  revelaram  que  as  causas  de  aumento  permitiram  a  consumação  do  delito  e,  ainda,  tornaram  mais  gravosas  as  circunstâncias  do  crime ,  justificando  a  excepcional  e  motivada  incidência  cumulativa  das  majorantes,  o  que  encontra  guarida  na  jurisprudência  desta  Corte  Superior.
+Ilustrativamente:
+DIREITO  PROCESSUAL  PENAL  E  DIREITO  PENAL.  AGRAVO  REGIMENTAL  EM  RECURSO  ESPECIAL.  PROVA  PENAL.  CADEIA  DE  CUSTÓDIA.  RECONHECIMENTO  FOTOGRÁFICO.  PROVA  DERIVADA  DA  ILÍCITA.  DOSIMETRIA  DA  PENA.  AGRAVO  DESPROVIDO.
+I.  CASO  EM  EXAME
+1.  O  recurso.  Agravo  regimental  interposto  contra  decisão  monocrática  que  negara  provimento  a  recurso  especial  criminal  em  que  o  recorrente,  policial  militar,  buscava  a  reforma  de  acórdão  condenatório  por  roubo  majorado  (art.  157  do  Código  Penal),  sob  alegações  de  nulidades  probatórias  e  de  ilegalidades  na  dosimetria  da  pena.  ..
+III.  RAZÕES  DE  DECIDIR
+ ..  14.  A  aplicação  cumulativa  das  causas  de  aumento  relativas  ao  concurso  de  agentes  (1/3)  e  ao  emprego  de  arma  de  fogo  (2/3)  está  autorizada  pelo  art.  68,  parágrafo  único,  do  Código  Penal,  quando  ambas  incidirem  sobre  o  mesmo  delito  e  houver  fundamentação  idônea,  como  verificado  no  caso.
+ ..  (AgRg  nos  EDcl  no  REsp  n.  2.140.242/SP,  relator  Ministro  Messod  Azulay  Neto,  Quinta  Turma,  julgado  em  22/4/2026,  DJEN  de  29/4/2026,  grifo  nosso.)
+Diante  do  exposto  ,  indefiro  liminarmente  o  writ.
+Publique-se.  Intimem-se.
+EMENTA
