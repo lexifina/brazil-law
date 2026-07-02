@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interposto por JONATAS BIZERRA SOARES SOUSA DO NASCIMENTO contra decisão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, que inadmitiu o recurso especial.
+O agravante foi condenado pela prática do delito tipificado no art. 33, caput, c/c o art. 40, inciso III, ambos da Lei n. 11.343/2006, à pena de 5 anos e 10 meses de reclusão, em regime inicial semiaberto, além de 583 dias-multa.
+O TJDFT negou provimento à apelação criminal, mantendo a condenação.
+No recurso especial, a defesa pugnou, na terceira fase da dosimetria, pelo reconhecimento da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, no patamar máximo de 2/3, e pelo afastamento da majorante do art. 40, inciso III, do mesmo diploma.
+O Tribunal de Justiça do Distrito Federal e dos Territórios inadmitiu o recurso especial, por incidir os óbices das Súmulas n. 7 e 83, ambas do STJ (fls. 413/415).
+No presente agravo, a Defesa sustenta a viabilidade do processamento do apelo nobre, alegando, em síntese, que o afastamento do tráfico privilegiado careceu de fundamentação concreta, e que a questão posta não demandaria revolvimento fático-probatório vedado pela Súmula n. 7/STJ (fls. 423/434).
+O Ministério Público Federal manifestou-se pelo conhecimento do agravo e, no mérito, pelo desprovimento do recurso especial (fls. 474/478).
+É o relatório. DECIDO.
+Tendo em vista os argumentos apresentados pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+A defesa sustenta que o afastamento da benesse do tráfico privilegiado, prevista no art. 33, § 4º, da Lei n. 11.343/2006, carece de fundamentação idônea, uma vez que a quantidade de droga e o valor em espécie apreendidos, considerados isoladamente, seriam insuficientes para demonstrar a dedicação do agravante a atividades criminosas.
+Sem razão a defesa.
+Conforme assentado no acórdão recorrido  cujas premissas fáticas integram o conjunto probatório já delineado pelas instâncias ordinárias  , o afastamento do privilégio não se lastreou em elementos genéricos ou presumidos, mas em circunstâncias concretas e individualizadas que evidenciam, de forma robusta, a habitualidade delitiva do agravante. O próprio réu, em sede de interrogatório judicial, confessou ter iniciado a venda de entorpecentes no ano de 2024, afirmando comercializar drogas nas proximidades de estabelecimento de ensino, em dias e horários rotineiros, com o intuito de obter recursos financeiros. Tal confissão foi corroborada pelo depoimento do policial Lucas Araújo de Sá, que relatou denúncias anônimas recebidas a respeito das atividades do réu naquela localidade e o monitoramento prévio da região. Ademais, conforme consignado pelo Parquet de origem, Jonatas perpetrou o presente delito menos de trinta dias após ter sido colocado em liberdade provisória em razão de outra investigação por tráfico de drogas (autos n. 0709005-59.2025.8.07.0001), praticado na mesma região em que foi novamente preso.
+O benefício previsto no art. 33, § 4º, da Lei n. 11.343/2006 exige o preenchimento cumulativo de requisitos subjetivos  primariedade, ausência de antecedentes, não integração a organização criminosa e não dedicação a atividades criminosas  , sendo vedada sua aplicação quando elementos concretos dos autos revelem habitualidade na prática delitiva. No caso, a conclusão das instâncias ordinárias pela dedicação do agravante ao tráfico, deriva não de suposições ou de dados genéricos, mas de circunstâncias factualmente assentadas, que prescindem de reexame probatório para sua compreensão.
+Nada obstante, a pretensão defensiva de desconstituir essa conclusão  sustentando que os elementos colhidos seriam insuficientes para demonstrar a habitualidade  inevitavelmente demandaria o reexame aprofundado do acervo fático-probatório dos autos, providência vedada nesta via especial, nos termos da Súmula n. 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial.
+Acrescento que o entendimento adotado pelo acórdão recorrido  no sentido de que a habitualidade devidamente comprovada obsta o reconhecimento do tráfico privilegiado  está em consonância com a jurisprudência desta Corte Superior:
+DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. INTIMAÇÃO DE TESTEMUNHA. TENTATIVAS FRUSTRATDAS. PERÍCIA DE VOZ. DESNECESSIDADE. PRINCÍPIO DA CORRELAÇÃO. OBSERVÂNCIA. TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. REGIME INICIAL FECHADO. ELEVADA QUANTIDADE DE DROGAS. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Embargos de declaração recebidos como agravo regimental contra decisão que negou provimento a recurso especial, em que se alegam omissões relacionadas a cerceamento de defesa, negativa de produção de prova pericial de voz, violação ao princípio da correlação, nulidade por quebra de cadeia de custódia, enquadramento como "mula do tráfico", aplicação do Tema Repetitivo 1.139 do STJ e regime inicial fechado.
+II. Questão em discussão
+2. Há cinco questões em discussão: (i) saber se houve cerceamento de defesa pela não realização de nova tentativa de intimação da testemunha Kaedla Maria da Silva, incluindo a possibilidade de intimação por rede social; (ii) saber se a negativa de realização de perícia de voz configura cerceamento de defesa; (iii) saber se houve violação ao princípio da correlação entre denúncia e sentença;
+(iv) saber se houve nulidade por quebra de cadeia de custódia; (v)
+saber se o afastamento do tráfico privilegiado e o regime inicial fechado foram devidamente fundamentados.
+III. Razões de decidir
+3. O Tribunal de Justiça realizou diversas tentativas de intimação da testemunha Kaedla Maria da Silva, incluindo pesquisas em sistemas oficiais, sem sucesso. A intimação por rede social foi considerada inviável, pois não possui base legal e apresenta riscos de incerteza quanto à entrega e recebimento do ato processual.
+4. A negativa de realização de perícia de voz foi fundamentada na suficiência de outros elementos probatórios para demonstrar a responsabilidade penal da recorrente. O juiz pode indeferir diligências irrelevantes ou protelatórias, conforme art. 400, § 1º, do CPP.
+5. Não houve violação ao princípio da correlação, pois a conduta descrita na sentença corresponde ao núcleo essencial dos fatos narrados na denúncia. A alegação de uso de elementos de outro processo foi afastada, pois não houve demonstração de prejuízo concreto, conforme art. 563 do CPP.
+6. A quebra de cadeia de custódia não foi comprovada, sendo presumida a idoneidade da prova. A defesa não demonstrou prejuízo concreto, conforme entendimento pacífico do STJ.
+7. Foi identificado pelos julgadores pretéritos, através de interceptações telefônicas, indícios de envolvimento estável da agravante com o tráfico, situação que denota habitualidade delitiva e afasta a redutora do art. 33, §4º, da Lei 11.343/2006.
+8. O regime inicial fechado foi fundamentado na gravidade concreta do delito, evidenciada pela expressiva quantidade de droga apreendida (mais de 11kg de maconha), em conformidade com os arts. 33, §§ 2º e 3º, do Código Penal.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Embargos de declaração recebidos como agravo regimental e, nessa extensão, desprovido.
+Tese de julgamento:
+1. A intimação de testemunha por rede social é inviável, pois não possui base legal e apresenta riscos de incerteza quanto à entrega e recebimento do ato processual.
+2. O juiz pode indeferir, motivadamente, diligências irrelevantes ou protelatórias, sem que isso configure cerceamento de defesa.
+3. Não há violação ao princípio da correlação quando a conduta descrita na sentença corresponde ao núcleo essencial dos fatos narrados na denúncia.
+4. A idoneidade da prova é presumida, cabendo à parte que alega irregularidade demonstrar prejuízo concreto.
+5. A habitualidade delitiva afasta a possibilidade de reconhecimento do tráfico privilegiado.
+6. A gravidade concreta do delito, evidenciada pela quantidade de droga apreendida, justifica a fixação de regime inicial fechado.
+(AgRg no AREsp n. 2.883.149/SP, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 7/10/2025, DJEN de 14/10/2025.)
+Verifico, portanto, que o acórdão recorrido se alinha à jurisprudência desta Corte Superior, o que atrai a aplicação da Súmula n. 83, STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Ressalto, a esse respeito, que o entendimento sumulado alcança não só o recurso especial fundamentado na alínea "c", mas também na alínea "a" do permissivo constitucional (AgRg no AREsp n. 2.407.873/SE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 7/11/2023, DJe de 9/11/2023).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art. 253, parágrafo único, inciso II, alínea a, do RISTJ.
+Publique-se. Intimem-se.
+ EMENTA
