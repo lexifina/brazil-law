@@ -1,0 +1,94 @@
+DECISÃO
+Cuida-se de conflito de competência instaurado entre o JUÍZO DE DIREITO DA 3A VARA DA FAZENDA PÚBLICA DO FORO CENTRAL DE PORTO ALEGRE - RS e o TRIBUNAL SUPERIOR DO TRABALHO.
+Inicialmente, o TRIBUNAL REGIONAL DO TRABALHO DA 4A REGIÃO deu provimento ao recurso ordinário e declarou a incompetência absoluta da Justiça do trabalho, com base na seguinte fundamentação (fls. 1.684-1.686):
+A parte autora é a sucessão de Maria da Gloria Vasconcellos Bode, viúva de Ernesto Paulo Bode, empregado da extinta autarquia Comissão Estadual de Energia Elétrica, sucedida pela Companhia Estadual de Energia Elétrica (CEEE) por força da Lei 4.136/61 do Rio Grande do Sul. O empregado de cujus laborou para a sociedade de economia mista de 26.02.1957 até 01.03.1983, quando foi extinto o seu contrato de trabalho pela obtenção do benefício da aposentadoria (Id. 8e75a89 - Pág. 6), tendo falecido em 03.03.2008.
+Incontroverso que o empregado falecido recebia mensalmente a complementação de Proventos de aposentadoria, baseado nas Leis 1751/52 e 3096/56.
+Todavia, entende-se que a matéria debatida nos presentes autos não está abrangida pela competência desta Justiça especializada, prevista no art. 114 da Constituição Federal. Conforme decisão do Supremo Tribunal Federal no Recurso Extraordinário (RE) 586453, julgado em 20.02.2013, foi reconhecida a competência da Justiça Comum para julgar os processos decorrentes de contrato de previdência complementar privada. Ainda, a Suprema Corte modulou os efeitos da decisão, definindo que permanecerão na Justiça do Trabalho todos os processos que já tiverem sentença de mérito até a referida data. Dessa forma, os processos que tramitam nesta Justiça Especializada que já tenham sentença de mérito proferida até 20.02.2013, devem permanecer na seara laboral.
+Todavia esta não é a hipótese dos autos, uma vez que não há sentença de mérito proferida antes de 20.02.2013 (a reclamatória trabalhista é ajuizada em 2020).
+Existe íntima relação entre os benefícios da complementação de aposentadoria e de complementação de pensão por morte, o que é evidenciado pelo próprio pedido formulado: "pagamento de diferenças de complementação de pensão, pela consideração, para determinação de seu valor, do montante integral pago ao de cujus na data do óbito a título de complementação de aposentadoria". Mais
+ainda, o contracheque de Id. 29889d9 - Pág. 1 demonstra que a complementação de pensão paga à viúva falecida é feita pela Fundação CEEE, entidade privada de previdência complementar (vide CNPJ inscrito no cabeçalho do documento). Cristalina, portanto, a natureza eminentemente previdenciária da parcela postulada pela sucessão autora.
+A alegação da parte autora de que as diferenças de pensão por morte postuladas devem ser pagas diretamente pela ex-empregadora do empregado de cujus (CEEE), e não por entidade privada de previdência complementar, não a socorre. Isso porque a definição da competência da Justiça do Trabalho está diretamente ligada à natureza jurídica da matéria debatida, e não às partes litigantes. É preciso destacar que é consabido que a complementação de pensão paga às viúvas dos ex-empregados da CEEE são pagas atualmente pela Fundação Eletroceee, instituição de previdência privada criada pela sociedade de economia mista. A respeito da irrelevância da fonte pagadora para fins de definição do órgão julgador materialmente competente, cita-se voto proferido pelo Exmo. Desembargador João Pedro Silvestrin nesta 4a Turma, em processo também movido contra a CEEE:
+ ..
+Pelo exposto, dá-se provimento ao recurso das reclamadas para reconhecer a incompetência absoluta da Justiça do Trabalho em razão da matéria, determinando-se a remessa dos autos à Justiça Comum. Restam prejudicados os demais tópicos do recurso das reclamadas e o recurso da parte autora.
+A referida decisão foi mantida pelo TRIBUNAL SUPERIOR DO TRABALHO, com base nos seguintes fundamentos (fls. 1.650-1.665):
+Conforme registrado na decisão agravada, a hipótese sub judice amolda-se à tese vinculante firmada pelo Supremo Tribunal Federal nos autos do RE-1.265.549, Tema nº 1.092 da Tabela de Repercussão Geral, in verbis: "Compete à Justiça comum processar e julgar causas sobre complementação de aposentadoria instituída por lei cujo pagamento seja, originariamente ou por sucessão, da responsabilidade da Administração Pública direta ou indireta, por derivar essa responsabilidade de relação jurídico-administrativa".
+Como o caso apreciado pelo Supremo Tribunal Federal, o pedido de diferenças de pensão (espólio) de ex-empregado (falecido) da Companhia Estadual de Energia - CEEE também é fundamentado em lei estadual, conforme defende a reclamante (espólio).
+Além disso, a citada reclamada e a Companhia de Saneamento Básico do Estado de São Paulo (recorrente nos autos do ARE-1.265.549) são sociedades de economia mista. Assim, o fato de a ex-empregadora do de cujus ser sociedade de economia mista, por si só, não é fundamento para o reconhecimento da competência da Justiça do Trabalho para apreciar e julgar o feito.
+Ratifica-se a aplicação da Súmula nº 333 do TST e do artigo 896, § 7º, da CLT, na medida em que a jurisprudência desta Corte firmou-se no sentido de que a Justiça do Trabalho é incompetente para apreciar e julgar pedido relativo à diferenças de pensão pleiteada por viúva de ex-empregado da Companhia Estadual de Energia - CEEE, com fundamento na tese vinculante fixada no Tema nº 1.092 da Tabela de Repercussão Geral, consoante os recentes julgados:
+ ..
+Por outro lado, o Supremo Tribunal Federal decidiu modular os efeitos do acórdão proferido nos autos do RE-1.265.549 para estabelecer que a Justiça Especializada continua competente "para processar e julgar, até o trânsito em julgado e a correspondente execução, todas as causas da espécie nas quais houver sido proferida sentença de mérito até a data da publicação do acórdão do julgamento do recurso no Plenário Virtual da Repercussão Geral do Supremo Tribunal Federal (19/6/20)".
+Como exposto na decisão agravada, inviável a manutenção da competência desta Justiça Especializada para apreciar e julgar o feito, por não se adequar ao critério estabelecido pelo Supremo Tribunal Federal, na modulação (decisão de mérito até 19/6/20), na medida em que a sentença de págs. 1.118-1.142, pela qual foi julgado procedente o pedido de diferenças de complementação de pensão foi proferida em 23/03/2021 (pág. 1.142).
+Destaque-se, ademais que os argumentos trazidos pela ora agravante, quanto ao tema da privatização da CEEE, mostram-se totalmente inovatórios, visto que não foram ventilados nas razões de recurso de revista (págs. 1.319-1378), motivo pelo qual se deixa de analisa-los.
+Remetidos os autos, o JUÍZO DE DIREITO DA 3A VARA DA FAZENDA PÚBLICA DO FORO CENTRAL DE PORTO ALEGRE - RS suscitou o presente conflito argumentando que (fls. 2.168-2.170):
+Trata-se de ação originalmente distribuída como reclamatória trabalhista pelo ESPÓLIO DE MARIA DA GLORIA VASCONCELLOS BODE contra COMPANHIA ESTADUAL DE GERAÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA - CEEE-GT, COMPANHIA ESTADUAL DE DISTRIBUIÇÃO DE ENERGIA ELÉTRICA - CEEE-D e COMPANHIA ESTADUAL DE ENERGIA ELÉTRICA PARTICIPAÇÕES - CEEEPAR requerendo, em suma, a condenação solidária das rés ao pagamento de diferenças de complementação de pensão (evento 1, DOC1).
+Após regular trâmite junto à 28ª VARA DO TRABALHO DE PORTO ALEGRE, o feito foi julgado parcialmente procedente (evento 1, DOC37, p.38/61).
+Interposto Recurso Ordinário, a 4ª Turma do Tribunal Regional do Trabalho da 4ª Região deu provimento ao recurso das reclamadas para fins de reconhecer a incompetência absoluta da Justiça do Trabalho em razão da matéria, determinando-se a remessa dos autos à Justiça Comum (evento 1, DOC44).
+O feito foi redistribuído à 18ª Vara Cível do Foro Central da Comarca de Porto Alegre que, ao evento 19, DOC1, acolheu a preliminar suscitada pelas rés e determinou a inclusão do Estado do Rio Grande do Sul no polo passivo, com a declinação da competência para uma das varas da Fazenda Pública.
+Inicialmente redistribuído à 1ª Vara da Fazenda Pública do Foro Central da Comarca de Porto Alegre, o feito foi posteriormente redistribuído a este juízo por força da Resolução 1545/2025 COMAG.
+ ..
+Referida Turma afastou a alegação da parte autora de que as diferenças de pensão por morte postuladas devem ser pagas diretamente pela ex-empregadora porquanto a complementação de pensão paga às viúvas dos ex-empregados da CEEE são pagas atualmente pela Fundação Eletroceee, instituição de previdência privada criada pela
+sociedade de economia mista.
+Desta forma, a Justiça Trabalhista entendeu que a presente demanda tem por objeto discussão eferente a entidades de previdência privada, sendo de competência da Justiça Comum.
+Ocorre que, conforme dispõe o art. 114, inciso I, da Constituição Federal: "Compete à Justiça do Trabalho processar e julgar:"  ..  "as ações oriundas da relação de trabalho, abrangidos os entes de direito público externo e da administração pública direta e indireta da União, dos Estados, do Distrito Federal e dos Municípios ".
+No caso em voga, a demanda é dirigida contra a ex-empregadora, Companhia Estadual de Energia Elétrica - CEEE, e o direito invocado decorre de cláusula contratual que foi incorporada ao contrato de trabalho por ocasião da transformação em sociedade de economia mista, com anuência tácita dos então servidores públicos ao regime celetista. A complementação constitui obrigação assumida pela própria empregadora, ainda que o pagamento tenha passado a ser operacionalizado por entidade por ela instituída, Fundação CEEE de Seguridade Social - ELETROCEEE.
+Não se olvida do entendimento firmado pelo Supremo Tribunal Federal no julgamento do Tema 190, acima referido, em que se fixou a competência da Justiça Comum para processar e julgar demandas ajuizadas contra entidades de previdência complementar privada.
+Contudo, no precedente discutiu-se relação jurídica de natureza previdenciária, distinta e autônoma em relação ao contrato de trabalho, enquanto na presente demanda a pretensão está diretamente fundada em cláusula contratual trabalhista e é direcionada contra a ex-empregadora, razão pela qual não incide o referido entendimento.
+ ..
+Assim, impõe-se a suscitação do Conflito Negativo de Competência, nos termos do art. 66, inciso II, do CPC a ser dirimido pelo Superior Tribunal de Justiça, nos termos do art. 105, inciso I, alínea "d", da CRFB.
+Suscito conflito negativo de competência, para que o Superior Tribunal de Justiça reconheça a competência da Justiça do Trabalho.
+O ESTADO DO RIO GRANDE DO SUL apresentou petição às fls. 2.182-2.362. Deferida correção na autuação do incidente às fls. 2.369-2.372.
+Parecer do Ministério Público Federal, às fls. 2.363-2.366, sem emitir opinião meritória.
+É, no essencial, o relatório.
+Com fundamento na orientação contida na Súmula 568/STJ, procedo ao julgamento monocrático do presente conflito, tendo em vista a existência de precedentes acerca da questão ora discutida e a necessidade de redução das pautas já bastante numerosas da Segunda Seção.
+Cinge-se a controvérsia à definição do juízo competente para o processamento e julgamento de reclamação trabalhista interposta pelo espólio de MARIA DA GLORIA VASCONCELLOS BODE contra CPFL TRANSMISSAO S.A., COMPANHIA ESTADUAL DE DISTRIBUICAO DE ENERGIA ELETRICA - CEEE-D e COMPANHIA ESTADUAL DE ENERGIA ELETRICA PARTICIPACOES - CEEE-PAR, em que objetiva o pagamento de diferenças de complementação de pensão, decorrente de cláusula inserida no contrato de trabalho do de cujus (fls. 12-43).
+Em relação à competência da Justiça do Trabalho, prevê o art. 114 da Constituição Federal que compete à Justiça especializada processar e julgar:
+I - as ações oriundas da relação de trabalho, abrangidos os entes de direito público externo e da administração pública direta e indireta da União, dos Estados, do Distrito Federal e dos Municípios;
+II - as ações que envolvam exercício do direito de greve;
+III - as ações sobre representação sindical, entre sindicatos, entre sindicatos e trabalhadores, e entre sindicatos e empregadores;
+IV - os mandados de segurança, habeas corpus e habeas data , quando o ato questionado envolver matéria sujeita à sua jurisdição;
+V - os conflitos de competência entre órgãos com jurisdição trabalhista, ressalvado o disposto no art. 102, I, o;
+VI - as ações de indenização por dano moral ou patrimonial, decorrentes da relação de trabalho;
+VII - as ações relativas às penalidades administrativas impostas aos empregadores pelos órgãos de fiscalização das relações de trabalho;
+VIII - a execução, de ofício, das contribuições sociais previstas no art. 195, I, a , e II, e seus acréscimos legais, decorrentes das sentenças que proferir;
+IX - outras controvérsias decorrentes da relação de trabalho, na forma da lei.
+A controvérsia dos autos encontra solução na firme jurisprudência desta Corte: nas hipóteses em que a causa de pedir principal decorre de cláusula contratual inserida no contrato de trabalho da falecida, conforme a Lei Estadual n. 4.136/1961, e não envolve diretamente a entidade de previdência complementar, mas apenas as ex-empregadoras, deve ser reconhecida a competência da Justiça especializada.
+Não se aplica, portanto, o entendimento firmado no julgamento do RE n. 586.453/SE (Tema n. 190/STF), tendo em vista que a causa de pedir não decorre de regulamento de entidade de previdência privada.
+A propósito, cito:
+DIREITO PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. COMPLEMENTAÇÃO DE PENSÃO FUNDADA EM CONTRATO DE TRABALHO. SITUAÇÃO ESPECÍFICA. DEMANDA DEMANDA AJUIZADA APENAS CONTRA EX-EMPREGADORES. COMPETÊNCIA DA JUSTIÇA ESPECIALIZADA. CONFLITO CONHECIDO.
+I. Caso em exame
+1. Conflito negativo de competência suscitado pelo Juízo de Direito da 3ª Vara Cível de Novo Hamburgo/RS, tendo por suscitado o Tribunal Regional do Trabalho da 4ª Região.
+2. A controvérsia decorre de ação proposta pela viúva de ex-empregado das demandadas, postulando o pagamento de complementação de pensão, sustentando que tal direito decorre diretamente do contrato de trabalho do falecido.
+3. O Tribunal Regional do Trabalho da 4ª Região declarou sua incompetência absoluta, encaminhando os autos para a Justiça Comum, sob o argumento de que a matéria não estaria abrangida pela competência da Justiça do Trabalho, conforme decisão do STF no RE 586.453.
+4. O Juízo suscitante argumenta que a pretensão da autora não se fundamenta em regulamento de entidade de previdência privada, mas sim em obrigação assumida diretamente pela ex-empregadora do falecido, decorrente de cláusula contratual trabalhista de origem legal.
+II. Questão em discussão
+5. A questão em discussão consiste em determinar se a competência para o julgamento da ação de complementação de pensão, fundamentada em cláusula contratual oriunda da relação de trabalho e dirigida exclusivamente contra as ex-empregadoras do falecido, é da Justiça do Trabalho ou da Justiça Comum.
+III. Razões de decidir
+6. A competência da Justiça do Trabalho para processar e julgar ações oriundas da relação de trabalho está prevista no art. 114, I, da Constituição Federal.
+7. A causa de pedir principal da ação tem origem em cláusula inserida nos contratos de trabalho do falecido, conforme legislação estadual, e a pretensão foi formulada exclusivamente contra as ex-empregadoras, não envolvendo entidade de previdência complementar.
+8. A jurisprudência do Superior Tribunal de Justiça já decidiu que, em casos de demandas oriundas da relação de trabalho, a competência é da Justiça do Trabalho, conforme o art. 114, I, da Constituição Federal.
+9. A decisão do STF no RE 586.453, que reconheceu a competência da Justiça Comum para processos decorrentes de contrato de previdência complementar privada, não se aplica ao caso, pois a pretensão não decorre de regulamento de entidade de previdência privada, mas sim de cláusula contratual trabalhista.
+IV. Dispositivo
+10. Conflito conhecido para declarar competente o Tribunal Regional do Trabalho da 4ª Região.
+(CC n. 216.813/RS, relatora Ministra Daniela Teixeira, Segunda Seção, julgado em 10/12/2025, DJEN de 15/12/2025, grifo meu.)
+DIREITO PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. DIREITO PREVISTO EM CONTRATO DE TRABALHO. COMPLEMENTAÇÃO DE APOSENTADORIA. SITUAÇÃO ESPECÍFICA. CLÁUSULAS DO CONTRATO DE TRABALHO. DEMANDA AJUIZADA APENAS EM DESFAVOR DO EMPREGADOR. COMPETÊNCIA DA JUSTIÇA DO
+TRABALHO. CONFLITO CONHECIDO
+I. Caso em exame
+1. Conflito negativo de competência suscitado pelo Juízo de Direito da 2ª Vara Judicial de Estância Velha/RS, tendo como suscitado o Tribunal Regional do Trabalho da 4ª Região.
+2. A controvérsia envolve reclamação trabalhista ajuizada pela viúva de ex-empregado da Companhia Estadual de Energia Elétrica (CEEE), visando ao pagamento de diferenças de complementação de aposentadoria, com fundamento em cláusula prevista em contrato de trabalho que está sendo descumprida.
+3. O Juízo suscitante argumenta que, em casos similares, o Superior Tribunal de Justiça declarou a competência da Justiça do Trabalho, enquanto o suscitado sustenta que a matéria possui natureza jurídica previdenciária, de competência da Justiça Comum, conforme entendimento do STF no RE 586.453.
+II. Questão em discussão
+4. A questão em discussão consiste em determinar se a competência para processar e julgar a demanda é da Justiça do Trabalho ou da Justiça Comum, considerando que o pedido decorre de cláusula contratual inserida em contrato de trabalho e não envolve diretamente entidade de previdência complementar.
+III. Razões de decidir
+5. A competência da Justiça do Trabalho é definida pelo art. 114, I, da Constituição Federal.
+6. A causa de pedir principal decorre de cláusula contratual inserida no contrato de trabalho do falecido, conforme previsão na Lei Estadual 4.136/1961, e não envolve diretamente entidade de previdência complementar.
+7. A situação em exame difere das demandas ajuizadas contra entidades de previdência privada, que possuem natureza jurídica previdenciária, conforme entendimento do STF no RE 586.453.
+8. Precedentes do STJ indicam que ações propostas contra ex-empregadoras, visando ao cumprimento de cláusulas contratuais de índole trabalhista, devem ser processadas e julgadas pela Justiça do Trabalho.
+IV.
+Dispositivo
+9. Conflito conhecido para declarar competente o Tribunal Regional do Trabalho da 4ª Região.
+(CC n. 214.915/RS, relatora Ministra Daniela Teixeira, Segunda Seção, julgado em 12/11/2025, DJEN de 17/11/2025, grifo meu.)
+Confiram-se, ainda, os seguintes julgados: CC n. 213.062, Ministro Raul Araújo , DJEN de 23/12/2025; CC n. 214.676, Ministro Antonio Carlos Ferreira, DJEN de 16/09/2025.
+Ante o exposto , conheço do conflito para declarar a competência do TRIBUNAL SUPERIOR DO TRABALHO.
+Comunique-se às autoridades judiciárias em conflito.
+Publique-se. Intimem-se.
+EMENTA
