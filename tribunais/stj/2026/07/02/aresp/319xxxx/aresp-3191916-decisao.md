@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por Best Conexão e Desenvolvimento Ltda. contra decisão do Tribunal Regional Federal da 4ª Região, que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 520):
+DIREITO TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. IDPJ. PENHORA ONLINE. IMPENHORABILIDADE DE VALORES.
+1. O Incidente de Desconsideração da Personalidade Jurídica (arts. 133 a 137 do CPC/2015) não se mostra incompatível com o rito da Lei nº 6.830/80. Nas hipóteses dos arts. 124, 133 e 135 do CTN, admite-se o redirecionamento sem necessidade de prévia instauração, dada a aplicação subsidiária do CPC.
+2. A penhora eletrônica via SISBAJUD com reiteração automática ("teimosinha") é instrumento legítimo de efetividade da execução, devendo o magistrado aferir, caso a caso, eventual excesso que comprometa a atividade econômica, nos termos do art. 854, § 3º, do CPC.
+3. Valores depositados em conta de pessoa jurídica não se enquadram, em regra, nas hipóteses legais de impenhorabilidade, admitindo-se a liberação apenas diante de prova concreta de destinação à quitação de verbas trabalhistas e desde que garantida a execução por outros bens.
+4. Ausente comprovação de destinação específica dos recursos, mantém-se a constrição.
+No especial obstaculizado, o ora agravante apontou, além de divergência jurisprudencial, violação dos arts. 833, inciso IV, e 835 do Código de Processo Civil e 11 da Lei n. 6.830/1980 (e-STJ fls. 522-534).
+Defendeu, em suma, a nulidade da constrição via SISBAJUD com reiteração automática ("teimosinha"), por violação à ordem legal de preferência (arts. 11 da Lei n. 6.830/1980 e 835 do CPC) e por atingir valores impenhoráveis destinados ao pagamento de salários (art. 833, IV, do CPC), além da incompatibilidade do Incidente de Desconsideração da Personalidade Jurídica com o rito especial da execução fiscal, requerendo, subsidiariamente, o sobrestamento do feito à luz do Tema 1209 do Superior Tribunal de Justiça.
+Contrarrazões apresentadas às e-STJ fls. 540-547.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem (e-STJ fls. 548-550).
+Passo a decidir.
+Considerando que os fundamentos da decisão de inadmissibilidade foram devidamente atacados (e-STJ fls. 552-559), é o caso de examinar o recurso especial.
+A Primeira Seção do STJ decidiu afetar a sistemática dos recursos repetitivos os REsps n. 2.039.132/SP, 2.013.920/RJ, 2.035.296/SP, 1.971.965/PE e 1.843.631/PE, Rel. Ministro Francisco Falcão, com a seguinte tese controvertida (Tema 1209):
+"Definição acerca da (in)compatibilidade do Incidente de Desconsideração de Personalidade Jurídica, previsto no art. 133 e seguintes do Código de Processo Civil, com o rito próprio da Execução Fiscal, disciplinado pela Lei n. 6.830/1980 e, sendo compatível, identificação das hipóteses de imprescindibilidade de sua instauração, considerando o fundamento jurídico do pleito de redirecionamento do feito executório".
+Registre-se que há determinação de suspensão da tramitação de processos com recurso especial e/ou agravo em recurso especial interposto, em tramitação na Segunda Instância e/ou no STJ.
+Dessa forma, encontrando-se o tema afetado à sistemática dos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordin ária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar, também, o desmembramento dos apelos especiais e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou da unicidade recursal.
+Ante o exposto DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que após a publicação do acórdão a ser proferido no recurso representativo da controvérsia e em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelo Tribunal Superior; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem-se.
+EMENTA
