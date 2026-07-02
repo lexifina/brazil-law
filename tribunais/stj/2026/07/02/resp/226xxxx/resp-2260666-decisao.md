@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por KA PASSO FUNDO 1 SPE LTDA., com fulcro nas alíneas "a" e "c" do permissivo constitucional, para impugnar acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 265):
+MANDADO DE SEGURANÇA. TRANSAÇÃO POR ADESÃO. CRÉDITOS TRIBUTÁRIOS. RESCISÃO DE PARCELAMENTO. IMEDIATA INSCRIÇÃO EM DÍVIDA ATIVA. ILEGALIDADE. NÃO DEMONSTRAÇÃO.
+No seu recurso especial, a parte aponta a existência de dissenso pretoriano e a ofensa ao art. 22 do Decreto-Lei n. 147/1967.
+Para tanto, defende, em resumo, o seguinte (e-STJ fls. 273/274):
+(..) constata-se que houve violação pelo Tribunal a quo ao art. 22 do Decreto-Lei 147/1967, uma vez que entendeu que o encaminhamento dos débitos do contribuinte à Procuradoria-Geral da Fazenda Nacional para inclusão em dívida ativa se trata de ato privativo da Administração.
+Ocorre que, no caso em tela, a recorrida não cumpriu com o prazo determinado no art. 22 do Decreto-Lei 147/1967, visto que não encaminhou os débitos da recorrente para inscrição em dívida ativa no prazo de 90 (noventa) dias, ficando a recorrente obrigada a contratar o parcelamento ordinário da RFB em 02/05/2023 (Evento 1, INSTNORM11), em detrimento ao parcelamento regulamentado pelo Edital PGDAU n. 3 de 25/05/2023 da PGFN (Evento 1, EDITAL12), mais benéfico à recorrente, porque necessitava da emissão de Certidão Negativa de Débito para seguir exercendo suas atividades.
+Nesse sentido, diferente do afirmado pelo Tribunal a quo, houve violação do direito líquido e certo da recorrente pela permanência indefinida de seus débitos junto na RFB por mais de 90 dias sem o envio respectivo à PGFN, o que a obrigou a aderir ao parcelamento junto à RFB, causando-lhe prejuízos, eis que ficou impossibilitada de realizar a transação tributária regulamentada pelo Edital PGDAU n. 3 de 25/05/2023.
+Desta forma, o Tribunal a quo, ao manter o julgamento de primeiro grau, contrariou o disposto no art. 22 do Decreto-Lei 147/1967, que dispõe a obrigação das repartições públicas competentes a encaminhar o débito à Procuradoria da Fazenda Nacional da respectiva unidade federativa, dentro de 90 dias, para efeito de inscrição e cobrança amigável ou judicial das dívidas deles originadas, após a apuração de sua liquidez e certeza.
+Contrarrazões às e-STJ fls. 294/303.
+Recurso especial admitido (e-STJ fl. 304).
+Passo a decidir.
+A controvérsia recursal reside em saber se, no caso dos autos, teria sido descumprido o prazo de noventa dias assinalado no art. 22 do Decreto-lei n. 147/1967 para o envio à PGFN dos débitos apurados contra o contribuinte.
+A irresignação não merece prosperar.
+Vale reproduzir o seguinte trecho do voto condutor do acórdão recorrido (e-STJ fls. 263/264):
+O art. 1º, §1º, da Lei nº 13.988, de 2020, resume o mote da transação tributária, a qual pode ser utilizada pela União a seu exclusivo critério de discricionariedade sempre em que for medida favorável ao interesse público.
+Já por aí se verifica que não se justifica mandado de segurança para determinar ao Fisco efetive a rescisão de parcelamento atualmente em curso, nem reconhecer ilegalidade em razão de a rescisão não ter sido efetivada pelo Fisco à época em que seria conveniente ao contribuinte, como postulado no mandado de segurança de origem.
+Tampouco se justifica mandado de segurança para, apenas por conta de conveniência ao contribuinte, estabelecer diretrizes em relação à gestão dos créditos pela Administração Tributária, para o efeito de encaminhar os créditos à PGFN para inscrição em dívida ativa, apenas para atender ao objetivo do contribuinte de aproveitar benefícios estabelecidos pela lei de forma restrita a esta determinada classe de créditos.
+Com efeito, o manejo dos créditos entre os órgãos da Administração Tributária atende a requisitos específicos, não tendo o contribuinte impetrante demonstrado ilegalidade a ponto de justificar a pronta inscrição em dívida ativa.
+A tanto não bastaria a existência de regulamentos administrativos em que previsto o prazo de 90 dias para encaminhamento do crédito à PGFN, pois tais regulamentos, como normas infralegais, possuem efeitos internos a fim de condicionar a rotina administrativa e estabelecer deveres aos servidores, sem que daí decorra direito subjetivo aos contribuintes, capaz de justificar concessão de segurança em juízo. Enfim, o prazo de 90 dias previsto no Decreto-Lei nº 147, de 1967 (art. 22), e na Portaria MF nº 447, de 2018, é para a remessa à PGFN "para fins de controle de legalidade e inscrição em Dívida Ativa". Haveria, pois, essa necessidade de prévio "controle de legalidade", de modo que de nenhuma forma ocorreria a automática inscrição em dívida ativa.
+Acresce que no caso se trata de crédito com vencimentos entre 05-2023 e 08-2023 (evento 01, OUT6, do processo originário), sem que tenha sido demonstrado que todos os atos de atribuição da Receita Federal do Brasil já tenham sido finalizados (v. g. notificação para pagamento e transcurso do prazo) e menos ainda que o crédito já esteja pronto para remessa à PGFN.
+Ante o exposto, voto por dar provimento à remessa necessária.
+Conforme se observa, um dos fundamentos do acórdão recorrido foi de que não se teria demonstrado, no caso, "que todos os atos de atribuição da Receita Federal do Brasil já tenham sido finalizados (v. g. notificação para pagamento e transcurso do prazo) e menos ainda que o crédito já esteja pronto para remessa à PGFN".
+Entretanto, em seu recurso especial, a parte não impugnou essa fundamentação do julgado - no sentido da falta de prova de que o próprio evento impulsionador do início do curso do prazo de noventa dias teria mesmo ocorrido.
+Assim, de aplicar, na hipótese, por analogia, a Súmula 283 do STF.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem arbitramento de honorários recursais, pois se cuida, na origem, de mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
