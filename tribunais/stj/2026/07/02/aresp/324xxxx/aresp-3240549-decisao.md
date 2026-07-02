@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por LOURDES REGINA BERGAMI contra decisão que inadmitiu o recurso especial com base na Súmula n. 7 do STJ.
+A agravante foi condenada como incurso no art. 304, c/c art. 297 do Código Penal à pena de 2 anos de reclusão, em regime inicial aberto, substituída por restritivas de direitos, além do pagamento de 10 dias-multa. O Tribunal de origem negou provimento ao recurso de apelação interposto pela defesa.
+O recurso especial foi interposto com fulcro no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal. Nas razões do apelo nobre (fls. 353-362), a parte sustentou, em síntese: a) a necessidade de aplicação do princípio da consunção, sob o argumento de que a conduta de falsificar (crime-meio) teria sido exaurida pela conduta de usar o documento (crime-fim) no mesmo contexto fático; e b) a ausência de dolo, alegando que a recorrente acreditava na validade da assinatura aposta por terceiro.
+As contrarrazões foram oferecidas.
+Em parecer, o Ministério Público Federal manifestou-se nos termos da seguinte ementa (fl. 427):
+Penal e processo penal. Agravo em recurso especial. Art. 304 c/c art. 297 do Código Penal. Uso de documento falso. Admissibilidade do agravo. Impugnação dos fundamentos da decisão agravada. Recurso especial. Alegação de ausência de dolo e aplicação do princípio da consunção. Conclusão do Tribunal a quo pela comprovação do elemento subjetivo e da materialidade com base no acervo probatório. Reversão do julgado. Impossibilidade. Incidência da Súmula 7/STJ. Parecer pelo conhecimento do agravo para não conhecer do recurso especial.
+É o relatório.
+Atendidos os requisitos de admissibilidade, conheço do agravo e passo à análise do recurso especial.
+A controvérsia jurídica consiste em verificar se houve dolo na conduta da agravante e se é possível a aplicação do Princípio da Consunção da conduta de falsificar documento público (crime-meio) na conduta de usar documento falso (crime-fim).
+Sobre o tema, o Tribunal de Justiça concluiu da seguinte forma (fls.344-345):
+"Cabe assinalar que para a configuração do delito de uso de documento falso basta a ocorrência do dolo genérico, não sendo exigível finalidade específica para a caracterização do delito. Significa, pois, que a vontade de utilizar o documento em situação juridicamente relevante, com consciência da sua falsidade, é suficiente para sua caracterização.
+Como bem pontuado pelo juízo de origem, não se trata a ré de pessoa com precário nível de instrução ou informação, pelo contrário. A ré é contadora com vasta experiência profissional, possuindo ciência não apenas da ilegitimidade da assinatura, como da irregularidade do registro.
+Logo, tendo a apelante utilizado documento público falsificado perante a Previdência Social e posteriormente em ação judicial a fim de instruir pedido de concessão de aposentadoria por tempo de contribuição, resta inequivocamente demonstrada a materialidade e a autoria do delito a ela imputado na peça inicial acusatória.
+É certo que não se admite a inversão do ônus da prova em processo penal, porquanto o réu goza de presunção de inocência, sendo da acusação o encargo de provar a existência do fato e demonstrar sua autoria, assim como o elemento subjetivo. Essa atribuição, porém, não isenta o agente de provar os fatos em que se funda a defesa, a teor do art. 156, primeira parte, do CPP.
+Os argumentos expostos em razões de apelação não infirmam as conclusões firmadas na sentença condenatória, porquanto já expostos pela defesa em alegações finais e fundamentadamente rechaçados na sentença recorrida (evento 165, MEMORIAIS1).
+Nesse contexto, não tendo a defesa apresentado qualquer elemento concreto, acompanhado de provas mínimas, capaz de trazer dúvida fundamentada sobre as conclusões firmadas na sentença, não há que se falar na reforma do decisum para fins de absolver a apelante, na forma requerida.
+Assim, devidamente comprovado que a acusada a perpetrou, de forma livre e consciente, a conduta delitiva descrita na exordial acusatória, e sendo o fato típico, antijurídico e culpável, inexistindo causas excludentes, mantenho a condenação da ré pela prática do delito previsto no artigo 304 combinado com o art. 297, ambos do Código Penal."
+No caso, o Tribunal de origem, a partir do contexto probatório dos autos, concluiu pela existência do elemento subjetivo (dolo) na conduta da agravante, ao destacar que tem um nível adequado de instrução, exercendo profissionalmente a função de contadora com vasta experiência, notadamente se utilizando do documento ciente dos vícios que o inquinava.
+Senão, vejamos:
+DIREITO PENAL. AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO E USO DE DOCUMENTO PÚBLICO FALSO. PLEITO DE ABSOLVIÇÃO E DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. PRETENSÃO DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. REGIME INICIAL FECHADO. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA CONSTADA DE OFÍCIO. RECURSO CONHECIDO E DESPROVIDO.
+1. Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial, no qual se busca rediscutir a valoração das provas quanto ao dolo na conduta do réu e à suficiência dos elementos para sua condenação pelos crimes de receptação dolosa e uso de documento falso.
+2. O recorrente alega violação ao art. 155 do Código de Processo Penal, sustentando insuficiência probatória para a condenação.
+3. A questão em discussão consiste em saber se a condenação do réu por receptação dolosa e uso de documento falso pode ser revista em sede de recurso especial, considerando a alegada insuficiência probatória e a necessidade de reexame do conjunto fático-probatório.
+4. Outra questão em discussão é a adequação do regime inicial de cumprimento de pena, considerando a fundamentação utilizada pelo Tribunal de origem.
+5. A jurisprudência do STJ é firme no sentido de que a revisão de condenação com base no material probatório produzido nos autos não se coaduna com a via do recurso especial, dada a necessidade de reexame do material probatório, o que é vedado pela Súmula 7/STJ.
+6. O Tribunal de origem concluiu pela existência de provas suficientes da autoria e materialidade delitivas, não havendo espaço para revisão em recurso especial.
+7. Quanto ao regime inicial de cumprimento de pena, a imposição de regime mais gravoso com base na gravidade abstrata do delito não é idônea, conforme as Súmulas 269 e 440 do STJ e as Súmulas 718 e 719 do STF.
+8. O regime inicial de cumprimento de pena deve ser fixado no semiaberto, considerando a reincidência, a fixação das basilares no mínimo legal, e a ausência de elementos idôneos que justifiquem regime mais gravoso.
+9. Agravo desprovido e, de ofício, fixado o regime semiaberto para início de cumprimento da pena.
+(AREsp n. 2.450.021/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 18/2/2025, DJEN de 25/2/2025.)
+Todavia, não se verifica necessidade prática quanto à análise sobre a aplicação do Princípio da Consunção entre as condutas descritas nos art. 304 e 297, ambos do CP, pois a condenação imposta pelo juízo de origem e mantida pelo TRF4 deu-se exclusivamente pela conduta tipificada no art. 304 do Código Penal.
+Por fim, resta prejudicada a análise do alegado dissídio jurisprudencial, fundado na alínea "c" do permissivo constitucional, visto que a controvérsia nele veiculada se apoia nos mesmos fundamentos já afastados no exame da suposta violação de lei federal, prevista na alínea "a".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
