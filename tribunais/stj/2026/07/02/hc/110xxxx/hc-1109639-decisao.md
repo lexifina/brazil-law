@@ -1,0 +1,12 @@
+DECISÃO
+O presente writ, impetrado em benefício de JANIO IDEAM DE FREITAS JUNIOR, em que se aponta como autoridade coatora o Juízo de Direito da 2ª Vara Genérica da Comarca de Buritis/RO, não comporta processamento.
+No caso, além de a petição in icial apontar como autoridade coatora o Juízo de primeiro grau e de não indicar, com precisão, o ato coator, aduz, ainda, o seguinte (fls. 4/5 - grifo nosso):
+O presente Habeas Corpus, por sua vez, funda-se em causa de pedir integralmente distinta, jamais submetida a qualquer órgão jurisdicional, em qualquer instância: a fragilidade estrutural do fumus comissi delicti relativo à autoria material atribuída ao Paciente no duplo homicídio, fragilidade esta que se extrai diretamente do confronto entre (a) a própria denúncia oferecida em 12/12/2025, (b) os dois relatórios de inteligência policial que constituem sua base quase exclusiva quanto ao Paciente, e (c) a única peça de natureza pericial formal constante dos autos, a qual se limita à extração bruta de dados, sem qualquer análise certificada de conteúdo. Nenhum desses elementos foi objeto de exame em qualquer dos writs anteriores, que se voltavam exclusivamente à contemporaneidade da prisão e à idoneidade da fundamentação quanto à periculosidade.
+A defesa não requer a este Tribunal que reexamine a litispendência ou que avance sobre o mérito já devolvido pelo recurso ordinário pendente. Requer-se, isto sim, que se examine, originariamente, fundamento jurídico autônomo  a insuficiência da própria base indiciária da imputação de autoria material  que jamais foi árbitro de qualquer decisão judicial até o presente momento, em nenhuma das instâncias percorridas.
+Acontece que o Superior Tribunal de Justiça é incompetente, originariamente, para processar e julgar habeas corpus quando a autoridade coatora é juiz de primeiro grau (CF/1988, art. 105, I, c) (AgRg no HC n. 1.098.049/SP, Ministra Maria Marluce Caldas, Quinta Turma, DJEN de 22/6/2026).
+É inadmissível a apreciação diretamente por esta Corte da temática suscitada no presente writ sem que tenha sido submetida primeiro ao Tribunal a quo, sob pena de incorrer em indevida supressão de instância.
+Ante o exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. JUIZ DE DIREITO APONTADO COMO AUTORIDADE COATORA. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE.
+Petição inicial indeferida liminarmente.
