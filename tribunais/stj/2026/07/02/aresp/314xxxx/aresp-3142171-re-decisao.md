@@ -1,0 +1,38 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que negou provimento ao agravo regimental e, por conseguinte, manteve a decisão que conheceu do agravo para não conhecer do recurso especial.
+O julgado recorrido rec ebeu a seguinte ementa (fls. 1.671-1.672):
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PROVA PENAL. ACESSO A MENSAGENS DE WHATSAPP EM APARELHO CELULAR APREENDIDO POR MANDADO DE BUSCA E APREENSÃO. FUNDAMENTAÇÃO DISSOCIADA DOS DISPOSITIVOS ALEGADAMENTE VIOLADOS. SÚMULA N. 284, STF. PLEITO ABSOLUTÓRIO. SÚMULA N. 7, STJ. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que conheceu de agravo para não conhecer de recurso especial em matéria penal, no qual a agravante alegava ilicitude de provas obtidas mediante acesso a mensagens do aplicativo WhatsApp constantes de aparelho celular apreendido.
+2. Segundo a agravante, a decisão agravada teria desconsiderado a jurisprudência do Superior Tribunal de Justiça sobre a necessidade de autorização judicial específica para acesso a dados de WhatsApp, tratar-se-ia de questão de direito insuscetível de óbice da Súmula n. 7/STJ, e a teoria dos frutos da árvore envenenada imporia o desentranhamento das provas reputadas ilícitas e das delas derivadas.
+3. O acórdão do Tribunal de origem consignou a regular expedição e cumprimento de mandados de busca e apreensão, a legitimidade da apreensão de objetos relacionados aos crimes investigados, inclusive o aparelho celular, e a existência de interceptações telefônicas devidamente autorizadas pelo Juízo de primeiro grau.
+II. QUESTÃO EM DISCUSSÃO
+4. Há duas questões em discussão: (i) saber se o acesso às mensagens do aplicativo WhatsApp extraídas de aparelho celular apreendido em cumprimento a mandado judicial de busca e apreensão, bem como a utilização de interceptações telefônicas autorizadas judicialmente, configuram prova ilícita apta a ensejar o desentranhamento com fundamento na teoria da árvore dos frutos envenenados; e (ii) saber se o exame da alegada ilicitude probatória demanda reexame do conjunto fático-probatório, o que atrairia a incidência da Súmula n. 7/STJ, bem como se o agravo regimental pode servir apenas à reiteração dos argumentos já apreciados na decisão monocrática.
+III. RAZÕES DE DECIDIR
+5. O agravo regimental exige demonstração concreta de erro de fato, erro de direito ou abuso de poder na decisão monocrática, não sendo suficiente a mera repetição das razões anteriormente expostas, sob pena de transformar o recurso em instrumento protelatório.
+6. A agravante não apresentou fundamentos novos, limitando-se a reproduzir argumentos já enfrentados, razão pela qual não se justifica a revisão da decisão monocrática que não conheceu do recurso especial.
+7. O recurso especial foi interposto com fulcro no permissivo constitucional disposto na alínea "a" do art. 105 da Constituição da República, a recorrente invoca como violados os arts. 2º, §§ 2º e 4º, inciso IV, da Lei n. 12.850/2013, e 35, caput, c/c art. 40, inciso VI, da Lei n. 11.343/2006, sem qualquer correlação com a tese de ilicitude probatória por ausência de autorização judicial para acesso aos dados armazenados no celular, o que atrai a incidência, por analogia, da Súmula 284, STF.
+8. Ainda, pretender que esta Corte substitua as premissas fáticas que deram suporte ao exame da legalidade em questão pela tese de que o acesso às mensagens do WhatsApp se deu sem autorização judicial implica reexame do conjunto fático-probatório, providência inviável em recurso especial, nos termos da Súmula n. 7, STJ.
+9. Tese absolutória rejeitada em razão da aplicação da Súmula n. 7, STJ.
+IV. DISPOSITIVO E TESE
+Resultado do Julgamento: Agravo regimental conhecido e desprovido.
+Tese de julgamento:
+1. É lícita a utilização de dados extraídos de aparelho celular apreendido em cumprimento a mandado judicial de busca e apreensão, bem como de interceptações telefônicas previamente autorizadas, não se configurando prova ilícita pela mera análise posterior do dispositivo eletrônico.
+2. A incidência da teoria da árvore dos frutos envenenados (art. 157, § 1º, do CPP) exige a demonstração prévia da ilicitude da prova originária, não havendo nulidade derivada quando o Tribunal de origem afirma a regularidade da busca, apreensão e interceptações.
+3. A revisão, em recurso especial, das premissas fáticas firmadas pelas instâncias ordinárias quanto à existência de mandado judicial e de interceptações regularmente autorizadas encontra óbice na Súmula n. 7, STJ.
+4. O agravo regimental não se presta à mera reiteração de argumentos já analisados, exigindo a demonstração de erro de fato, erro de direito ou abuso de poder na decisão monocrática para ensejar sua reforma.
+A parte recorrente alega que a discussão proposta no recurso extraordinário possui repercussão geral e que há contrariedade, no acórdão recorrido, ao art. 5º, X e XII, da Constituição Federal.
+Requer, assim, a admissão e o provimento do recurso.
+É o relatório.
+2. Nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o Supremo Tribunal Federal já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não possui repercussão geral.
+Quando o STJ não analisar o mérito do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos.
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o STF não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+3. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF. NEGATIVA DE SEGUIMENTO.
