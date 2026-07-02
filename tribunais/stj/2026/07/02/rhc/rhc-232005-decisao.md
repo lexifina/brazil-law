@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por C da S contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA que, por unanimidade, conheceu em parte e denegou a ordem no HC n. 5104867-42.2025.8.24.0000.
+Consta dos autos que o recorrente é investigado pela suposta prática dos crimes de receptação qualificada (art. 180, § 1º, do Código Penal) e estelionato (art. 171 do Código Penal), tendo a autoridade policial representado pela decretação de sua prisão preventiva.
+O juízo de primeiro grau indeferiu o pedido de prisão preventiva, por ausência dos requisitos do art. 312 do Código de Processo Penal, mas aplicou medidas cautelares diversas, dentre elas a suspensão do exercício de atividade econômica e financeira consistente na comercialização de aparelhos celulares.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, sustentando a desproporcionalidade e inadequação da medida cautelar, bem como a inexistência de risco concreto a justificar sua imposição (fls. 5-13)
+A ordem foi parcialmente conhecida e denegada, ao fundamento de que há elementos indicativos de que o paciente utilizaria a atividade profissional para a prática de ilícitos, evidenciando risco de reiteração delitiva, sendo adequada a manutenção da medida com base no art. 319, VI, do Código de Processo Penal, não se conhecendo do pedido subsidiário por supressão de instância (fls. 54-59).
+No presente recurso ordinário, a defesa sustenta, em síntese, a ilegalidade da medida cautelar imposta, ao argumento de ausência de fundamentação idônea, desproporcionalidade e violação do direito ao livre exercício profissional, requerendo sua revogação ou, subsidiariamente, a modulação de seu alcance (fls. 63-79).
+O pedido liminar foi indeferido pelo relator, por ausência, em juízo de cognição sumária, de demonstração de constrangimento ilegal ou dos requisitos autorizadores da tutela de urgência (fls. 87-88).
+O Ministério Público Federal manifestou-se pelo não provimento do recurso, ao entendimento de inadequação da via eleita e da existência de fundamentação idônea para a manutenção da medida cautelar, destinada a evitar a reiteração delitiva (fls. 101-108).
+É o relatório. DECIDO.
+O recurso não merece provimento.
+De início, cumpre destacar que, segundo orientação consolidada desta Corte Superior, o habeas corpus não se presta à tutela de interesses que não envolvam, direta ou imediatamente, ameaça ou restrição à liberdade de locomoção, sendo inadequada sua utilização para impugnar medidas cautelares que não possuam tal repercussão.
+Nesse sentido:
+"O habeas corpus constitui garantia constitucional vocacionada, de modo exclusivo, à tutela do direito de locomoção (..), não sendo via adequada para questionar medidas que não impliquem restrição ou ameaça a esse direito." (STJ, orientação reiterada; cf. também STF, HC 191.294 AgR).
+Na hipótese, a controvérsia restringe-se à legalidade da medida cautelar de suspensão do exercício de atividade econômica, a qual, embora possa repercutir na esfera jurídica do recorrente, não evidencia, de plano, constrangimento direto ao direito de ir e vir, circunstância que evidencia a inadequação da via eleita.
+Ademais, ainda que assim não fosse, verifica-se que o acórdão impugnado se encontra em consonância com a jurisprudência desta Corte, que admite a imposição e manutenção da medida cautelar prevista no art. 319, VI, do Código de Processo Penal, quando demonstrada sua necessidade para evitar a reiteração delitiva.
+Conforme bem ponderado pelo Ministério Público Federal, a medida imposta revela-se adequada e devidamente fundamentada, notadamente diante da constatação de que os fatos imputados ao recorrente teriam sido praticados justamente no exercício da atividade econômica por ele desenvolvida.
+A propósito:
+"A manutenção da medida cautelar de suspensão de atividade econômica é justificada pela necessidade de evitar a reiteração delitiva (..), não havendo ilegalidade quando amparada em fundamentação concreta." (STJ, AgRg no HC 737.657/PE, Quinta Turma).
+No caso concreto, a decisão de origem evidenciou, com base em elementos concretos dos autos, o risco de reiteração delitiva e a utilização da atividade profissional como meio de prática dos ilícitos investigados, circunstância que legitima a imposição da medida cautelar, nos termos dos arts. 282 e 319 do Código de Processo Penal.
+No tocante ao pedido subsidiário de modulação da medida cautelar, consistente na autorização para o exercício parcial da atividade econômica sob determinadas condições, verifica-se que a pretensão não foi submetida à apreciação do juízo de origem, tampouco examinada pelo Tribunal a quo, circunstância que impede sua análise por esta Corte Superior, sob pena de indevida supressão de instância, conforme orientação pacífica do Superior Tribunal de Justiça.
+Desse modo, ausente flagrante ilegalidade ou teratologia, deve ser mantido o acórdão recorrido.
+Assim, diante da manifesta improcedência do recurso e em conformidade com a jurisprudência dominante desta Corte, deve ser negado provimento ao recurso.
+Ante o exposto, conheço do recurso ordinário em habeas corpus e nego provimento.
+Publique-se. Intimem-se.
+EMENTA
