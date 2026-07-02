@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de conflito de competência suscitado por RAIMUNDO FERNANDES DA SILVA e FERNANDA SOUZA DA SILVA (suscitantes).
+O Juízo do 4º Juizado Especial da Fazenda Pública do Distrito Federal (TJDFT), sob o fundamento de que o órgão que reteve os valores requeridos pelos autores estava vinculado à União e que o Tribunal de Justiça do Distrito Federal e Territórios era órgão da Justiça estadual, que não possuía competência federal, declarou a sua incompetência absoluta para a apreciação do pedido e extinguiu o processo, sem resolução de mérito (fls. 14/15).
+O Juizado Especial Federal Cível Adjunto à 19ª Vara Federal de Execução Fiscal da Seção Judiciária do Distrito Federal (SJDF), reconhecendo a ilegitimidade da União para figurar no pólo passivo de demanda em que se busca o reconhecimento do direito à isenção de imposto de renda sobre os proventos de aposentadoria ou pensão pagos por entidade de previdência estadual, declinou da competência para processar e julgar o pedido inicial em favor de uma das Varas da Justiça do Distrito Federal e dos Territórios (fls. 16/19).
+A parte suscitante, por sua vez, entendeu que a falecida genitora mantinha vínculo funcional com a Controladoria-Geral da União (CGU), órgão da administração pública federal direta, sendo a União a pagadora dos rendimentos e responsável pela retenção do IRRF, o que atraía a competência da Justiça Federal à luz do art. 109, inciso I, da Constituição Federal. Além disso, sustentou a inaplicabilidade do Tema 193/STJ ao caso, por não se tratar de rendimentos pagos por estado ou pelo Distrito Federal (fls. 4/5), motivo pelo qual suscitou o presente conflito (fls. 2/7).
+O Ministério Público Federal manifestou-se no sentido de conversão do julgamento em diligência, tendo em vista não constar dos autos a petição inicial e os documentos aptos a esclarecer a origem da aposentadoria (fls. 47/49).
+A decisão de fls. 52/53 acolheu a manifestação e determinou a intimação dos suscitantes para a apresentação da documentação pertinente.
+Diante do decurso do prazo sem resposta, foi reiterada a intimação das partes suscitantes e determinada a posterior remessa dos autos ao MPF (fl. 64).
+O Ministério Público Federal ofertou parecer no sentido do não conhecimento do conflito de competência (fls. 75/77).
+É o relatório.
+De acordo com o art. 953, parágrafo único, do Código de Processo Civil, o conflito de competência poderá ser suscitado pela parte, por petição, que deverá ser instruída com documentos necessários à prova do conflito, não só para a comprovação da existência de juízos em conflito, mas a fim de possibilitar decidir a qual deles incumbe o processamento e o julgamento da causa.
+No caso em tela, embora intimados para apresentação dos documentos as partes suscitantes permaneceram inertes ante o comando judicial. Nesse contexto, ausentes os documentos necessários ao deslinde da controvérsia, é de rigor o não conhecimento do presente conflito de competência.
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. CONFLITO DE COMPETÊNCIA. AUSÊNCIA DE DECISÕES CONFLITANTES PROFERIDAS POR JUÍZOS DIVERSOS. CONFLITO NÃO VERIFICADO. AGRAVO INTERNO DESPROVIDO.
+1. Com amparo no art. 1.024, § 3º, do CPC/2015, e em homenagem aos princípios da economia e da celeridade processual, os embargos de declaração são recebidos como agravo interno.
+2. Segundo o art. 66 do CPC/2015, o conflito de competência se configura quando dois ou mais juízes declaram-se competentes ou consideram-se incompetentes para o processamento e julgamento de uma mesma matéria, ou quando existir controvérsia acerca da reunião ou separação de processos entre duas ou mais autoridades judiciárias.
+3. Na espécie, observa-se que não existem decisões anteriores nas quais os juízos envolvidos tenham se posicionado sobre sua competência ou incompetência para a condução do feito. Dessa forma, a origem do conflito provém unicamente da iniciativa da parte, sem qualquer manifestação prévia e sem a apresentação dos documentos necessários para comprovar desacordo dos Juízos a respeito da competência.
+4. Embargos de declaração recebidos como agravo interno, ao qual se nega provimento.
+(AgInt no CC n. 219.136/RJ, relator Ministro Marco Aurélio Bellizze, Primeira Seção, julgado em 14/4/2026, DJEN de 22/4/2026, sem destaque no original.)
+Ante o exposto, não conheço do conflito de competência.
+Publique-se. Intimem-se.
+EMENTA
