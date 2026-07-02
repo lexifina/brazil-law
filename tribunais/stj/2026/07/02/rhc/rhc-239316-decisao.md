@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso interposto por Alexsander de Lima dos Santos contra o acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais no HC n. 1.0000.26.148232-7/000, que denegou a ordem.
+O recorrente foi preso em flagrante em 11/3/2026, com conversão da custódia em preventiva em 12/3/2026, por suposta prática de estelionato tentado (Inquérito n. 5001276-30.2026.8.13.0390 em trâmite na 2ª Vara Cível, Criminal e de Execuções Penais de Machado).
+Sustenta excesso de prazo e ausência de justa causa, pois houve prorrogação do inquérito por 15 dias para diligências complementares, exames periciais e aprofundamento investigativo relacionados à própria materialidade delitiva e à autoria, sem contribuição defensiva para a mora.
+Alega que a prisão preventiva vem sendo utilizada como instrumento de investigação - identificação de supostos comparsas e análise de aparelho celular -, sem demonstração concreta de risco à instrução criminal, o que configuraria indevida "prisão para averiguações".
+Defende a suficiência de medidas cautelares diversas, destacando condições pessoais favoráveis, inexistência de violência ou grave ameaça e possibilidade de monitoramento eletrônico, comparecimento periódico e proibição de ausentar-se da comarca, entre outras cautelas.
+Pede o provimento do recurso para relaxar a prisão por excesso de prazo e, subsidiariamente, revogar a prisão preventiva ou substituí-la por medidas cautelares, com expedição de alvará de soltura.
+Instado  a  se  manifestar,  o  Ministério  Público  Federal  opinou  pelo não provimento do recurso (fls. 134/141).
+É o relatório.
+O recurso está prejudicado em parte. Isso porque, em contato telefônico com a 2ª Vara da comarca de Machado/MG, nos foi informado que a denúncia foi oferecida em 1/6/2026 e foi recebida em 2/6/2026 (inquérito n. 5001276-30.2026.8.13.0390).
+Como cediço, o superveniente oferecimento da denúncia implica a perda de objeto do agravo e do habeas corpus que impugnavam excesso de prazo para conclusão de inquérito policial (AgRg no RHC n. 143.457/RS, Ministro João Otávio de Noronha, Quinta Turma, DJe 28/6/2021).
+No mais, quanto aos fundamentos da prisão, não vislumbro ilegalidade.
+Extraem-se os seguintes fundamentos do decreto preventivo (fls. 94/95):
+ ..
+A garantia da ordem pública está evidenciada pela reiteração delitiva e pelo modo de agir do investigado.
+Os elementos colhidos indicam que Alexsander de Lima dos Santos atua de forma estruturada e contínua. Ele arregimenta trabalhadores de entregas por meio de aplicativos de mensagens, entrega cheques clonados ou falsificados e os orienta a realizar saques em agências bancárias. Em seguida, exige que o dinheiro seja depositado em contas de terceiros.
+A investigação aponta que o investigado não cometeu um fato isolado. Há indícios da prática de quatro tentativas de estelionato, sendo duas na cidade de Campestre e duas na cidade de Machado, no mesmo dia. Essa conduta seriada e a utilização de terceiros de boa-fé para dificultar a identificação do verdadeiro autor revelam um elevado risco de que, em liberdade, o investigado continue a praticar crimes patrimoniais semelhante.
+Além disso, a prisão preventiva é necessária para a conveniência da instrução criminal, pois é imprescindível aprofundar a investigação. A Polícia Civil relatou que o investigado atua em concurso de pessoas, havendo a informação de um comparsa identificado preliminarmente como Guilherme, que utilizava um veículo Hyundai HB20 branco. É necessário manter o investigado custodiado para evitar a destruição de provas e para garantir a correta identificação dos demais envolvidos, bem como dos titulares das contas bancárias indicadas para o recebimento dos valores ilícitos. A análise dos dados do aparelho celular do investigado também é medida fundamental para mapear a extensão das fraudes.
+Por fim, a prisão é necessária para assegurar a aplicação da lei penal. O investigado reside no Estado de Santa Catarina, não possui vínculos comprovados no distrito da culpa e foi preso em uma cidade vizinha após tentar fugir da abordagem policial. Esses fatores demonstram um risco concreto de que ele fuja e comprometa o andamento do processo caso seja colocado em liberdade.
+As condições pessoais favoráveis apresentadas pela Defesa, como primariedade, endereço certo e família constituída, não são suficientes, por si sós, para impedir a decretação da prisão preventiva quando presentes os requisitos legais que a justificam.
+ ..
+Vê-se dos autos que a prisão encontra-se devidamente fundamentada na gravidade concreta do delito, uma vez que os elementos dos autos revelam atuação organizada e contínua do recorrente, que recrutava motoboys por aplicativos de mensagens, entregava cheques clonados ou falsificados, orientava saques em agências bancárias e exigia o depósito dos valores em contas de terceiros. Ademais, há indícios de quatro tentativas de estelionato no mesmo dia, com uso de pessoas de boa-fé para dificultar sua identificação, o que evidencia elevado risco de reiteração delitiva caso permaneça em liberdade.
+A propósito:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PRISÃO PREVENTIVA. REGIME INICIAL SEMIABERTO. NEGATIVA DE DIREITO DE RECORRER EM LIBERDADE. COMPATIBILIDADE ENTRE CUSTÓDIA CAUTELAR E REGIME FIXADO. MEDIDAS CAUTELARES ALTERNATIVAS. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+4. A manutenção da prisão preventiva é juridicamente possível após a condenação em regime inicial semiaberto quando persistem, de forma concreta, os requisitos do art. 312 do CPP, devendo-se compatibilizar a custódia com as condições inerentes ao regime fixado.
+5. A negativa do direito de recorrer em liberdade não exige fundamentação exaustiva quando a sentença reafirma motivos cautelares anteriores e não há alteração do quadro fático-jurídico.
+6. No caso, a gravidade concreta do estelionato mediante fraude eletrônica, o modus operandi estruturado e sofisticado, a reiteração delitiva em curto lapso e a articulação entre corréus evidenciam periculosidade e risco de reiteração, justificando a custódia para garantia da ordem pública.
+ ..
+(AgRg no RHC n. 234.937/BA, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 20/5/2026, DJEN de 25/5/2026.)
+No mesmo sentido, os seguintes precedentes: AgRg no RHC n. 237.479/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/6/2026, DJEN de 22/6/2026 e AgRg no RHC n. 234.854/SP, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 11/6/2026, DJEN de 16/6/2026.
+Registre-se que, estando concretamente demonstrada pelas instâncias ordinárias a necessidade da prisão preventiva, não se afigura suficiente a fixação de medidas cautelares alternativas.
+Além disso, cabe ressaltar que, na via do habeas corpus, não há como se discutir a negativa de autoria e a ausência de provas, pois demandariam o exame aprofundado do conjunto fático-probatório que compõe o processo principal. O envolvimento ou não do agente no delito que lhe é imputado é matéria cuja análise é reservada à ação penal, bastando, para justificar a prisão cautelar, haver indícios de autoria.
+Ante o exposto, julgo parcialmente prejudicado o recurso em habeas corpus e, na parte conhecida, nego provimento ao recurso.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ESTELIONATO. EXCESSO DE PRAZO PARA CONCLUSÃO DE INQUÉRITO POLICIAL. SUPERVENIÊNCIA DE OFERECIMENTO DA DENÚNCIA. PERDA PARCIAL DO OBJETO. PRISÃO. FUNDAMENTOS CONCRETOS. GRAVIDADE CONCRETA. MODUS OPERANDI ESTRUTURADO. REITERAÇÃO DELITIVA. INSUFICIÊNCIA DAS MEDIDAS CAUTELARES ALTERNATIVAS.
+Recurso parcialmente prejudicado e, na parte conhecida, improvido.
