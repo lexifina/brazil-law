@@ -1,0 +1,53 @@
+DECISÃO
+De início, anota-se que o presente habeas corpus não havia sido conhecido, em virtude do princípio da unirrecorribilidade. Todavia, com o provimento da Medida Cautelar no Recurso Ordinário em Habeas Corpus n. 272.307 dirigida ao Supremo Tribunal Federal, conforme ofício constante das fls. 438/446, que determinou a análise do mandamus, passa-se à sua apreciação.
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de MARCIO EVALDO PIERITZ, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, no julgamento da Apelação Criminal n. 0002404-29.2016.8.24.0031.
+Extrai-se dos autos que o paciente foi condenado à pena de 4 anos e 8 meses de reclusão, no regime inicial semiaberto, além do pagamento de 26 dias-multa, pela prática do crime tipificado no art. 180, § 1º, c/c o art. 71, ambos do Código Penal - CP; e à pena de 1 ano, 7 meses e 1 dia de reclusão, além do pagamento de 26 dias-multa, pelo crime tipificado no art. 304, c/c o art. 299, caput, e art. 71, todos do CP.
+O Tribunal de origem negou provimento à apelação interposta pelo paciente, por acórdão que restou assim ementado:
+"APELAÇÕES CRIMINAIS. DOIS RÉUS CONDENADOS PELA PRÁTICA DO CRIME PREVISTO NO ART. 299, CAPUT, C/C ART. 71, AMBOS DO CÓDIGO PENAL. UM RÉU CONDENADO PELA PRÁTICA DO CRIME DE RECEPTAÇÃO QUALIFICADA, POR DUAS VEZES, NA FORMA CONTINUADA - ART. 180, § 1º, C/C ART. 71, AMBOS DO CÓDIGO PENAL, E DO CRIME DE USO DE DOCUMENTO PARTICULAR FALSIFICADO IDEOLOGICAMENTE, POR DUAS VEZES, EM CONTINUIDADE DELITIVA, - ART. 304, C/C ART. 299, CAPUT, E ART. 71, TODOS DO CÓDIGO PENAL.
+RECURSO DE DOIS DOS RÉUS. PRETENSO RECONHECIMENTO DA CONFISSÃO ESPONTÂNEA. ATENUANTE JÁ CONSIDERADA NA DOSIMETRIA OPERADA NA ORIGEM. AUSÊNCIA DE INTERESSE RECURSAL. ADEMAIS, PLEITO GENÉRICO DE QUE TODAS AS CIRCUNSTÂNCIAS JUDICIAIS FOSSEM CONSIDERADAS FAVORÁVEIS, COM A FIXAÇÃO DA PENA NO MÍNIMO LEGAL. AUSÊNCIA DE FUNDAMENTAÇÃO ESPECÍFICA A AMPARAR O PLEITO. OFENSA À DIALETICIDADE RECURSAL. APELO NÃO CONHECIDO.
+RECURSO DE UM DOS RÉUS. PLEITO ABSOLUTÓRIO POR INSUFICIÊNCIA PROBATÓRIA. AUTORIA E MATERIALIDADE DEVIDAMENTE COMPROVADAS POR MEIO DA PROVA ORAL E DOCUMENTAL. RÉU QUE POSSUÍA EM DEPÓSITO DIVERSAS UNIDADES DE PNEUS ROUBADOS, TENDO SIMULADO AS COMPRAS DA MERCADORIA COM EMPRESAS "LARANJAS", A FIM DE JUSTIFICAR A SUPOSTA ORIGEM LÍCITA DOS BENS. NOTAS FISCAIS FRAUDULENTAS APRESENTADAS PELO RÉU QUE NÃO SÃO SUFICIENTES PARA ATESTAR A REGULAR AQUISIÇÃO DOS PNEUS. ÔNUS QUE INCUMBIA À DEFESA. INTELIGÊNCIA DO ART. 156 DO CÓDIGO DE PROCESSO PENAL. CONDENAÇÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+RECURSO DA ACUSAÇÃO. PLEITO DE APLICAÇÃO DO CONCURSO MATERIAL EM DETRIMENTO DA CONTINUIDADE DELITIVA QUANTO AOS DELITOS PRATICADOS POR UM DOS RÉUS. IMPOSSIBILIDADE. PRESENÇA DOS REQUISITOS DO ART. 71 DO CÓDIGO PENAL. MANIFESTAÇÃO DA PROCURADORIA-GERAL DE JUSTIÇA NO MESMO SENTIDO. RECURSO CONHECIDO E DESPROVIDO." (fls. 228-229)
+No presente writ, a defesa sustenta a nulidade da ação penal, por incompetência da Justiça Estadual e, consequentemente, busca a absolvição do paciente.
+É o relatório.
+Decido.
+Conforme a decisão do Supremo Tribunal Federal passo à análise do presente remédio constitucional.
+Todavia, verifica-se que a questão levantada neste writ está preclusa, em virtude da ocorrência da denominada nulidade de algibeira, pois a defesa não alegou a suposta incompetência da justiça estadual quando poderia ter feito, logo no início da ação penal, que teve a denúncia oferecida em 13/8/2018.
+Com efeito, só levantou essa tese muito tempo depois do oferecimento da denúncia, em 12/2/2026, na impetração deste remédio constitucional.
+A respeito do tema, esta Corte possui entendimento consolidado no sentido de que no processo penal as nulidades processuais, mesmo as denominadas absolutas pela defesa, devem ser alegadas oportunamente pelo interessado, sob pena de preclusão, não se admitindo a chamada "nulidade de algibeira". Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. PRETENSÃO DE RECONHECIMENTO DE NULIDADE. AUDIÊNCIA DE INSTRUÇÃO. AUSÊNCIA DO ADVOGADO CONSTITUÍDO SEM JUSTIFICATIVA. NOMEAÇÃO DE DEFENSOR PÚBLICO. RÉU NÃO INTIMADO. MUDANÇA DE ENDEREÇO SEM COMUNICAÇÃO AO JUÍZO. AUSÊNCIA DE NULIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É reiterada a orientação jurisprudencial desta Corte no sentido de que a decretação da nulidade processual, ainda que absoluta, depende da demonstração do efetivo prejuízo, à luz do art. 563 do Código de Processo Penal - CPP, ex vi do princípio pas de nullité sans grief, o que não ocorreu no caso em debate.
+2. No caso, conforme se vê no acórdão impugnado, a mudança de endereço do réu que tinha conhecimento do processo, sem comunicar ao Juízo, impossibilitou sua intimação para a audiência, assim, não padece de vícios a realização da audiência sem a sua participação.
+3. De outra parte, o advogado constituído pelo paciente, apesar de intimado, não compareceu à audiência, razão pela qual o Juízo nomeou defensor público para substituí-lo. E, após o encerramento da instrução, o patrono do paciente apresentou alegações finais sem suscitar nulidade em razão da realização da audiência com o defensor público, que era o momento oportuno para arguir tal vício processual. Assim, ocorreu a preclusão temporal da matéria.
+4. Ademais, o entendimento desta Corte Superior não admite a nulidade de algibeira ou de bolso, que se verifica quando a parte, ciente do vício, não se manifesta no momento oportuno, deixando para suscitar a nulidade apenas quando for conveniente.
+5. Agravo Regimental desprovido.
+(AgRg no HC n. 969.395/RN, de minha relatoria, Quinta Turma, julgado em 21/5/2025, DJEN de 26/5/2025.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRONÚNCIA. EXCESSO DE LINGUAGEM. ALEGAÇÃO NÃO SUSCITADA NOS RECURSOS INTERPOSTOS PELA DEFESA. PRECLUSÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. " ..  a jurisprudência desta Corte evoluiu para considerar que no processo penal mesmo as nulidades absolutas exigem prejuízo e estão sujeitas à preclusão" (RHC n. 43.130/MT, Rel. Ministro Nefi Cordeiro, 6ª T., D Je 16/6/2016). Significa dizer que, em respeito à segurança jurídica e à lealdade processual, tem-se orientado no sentido de que mesmo as nulidades denominadas absolutas também devem ser arguidas em momento oportuno, sujeitando-se à preclusão (AgRg no HC n. 527.449/PR, Rel. Ministro Joel Ilan Paciornik, 5ª T., D Je 5/9/2019; AgRg no HC n. 593.029/MT, Rel. Ministro Rogerio Schietti, 6ª T., D Je 21/6/2022).
+2. O paciente, denunciado, em 25/8/1995, comoincurso no art. 121, § 2º, I e IV, do CP, foi impronunciado, em 1/2/1996. O Ministério Público interpôs recurso de apelação, ao qual o Tribunal estadual, em 12/2/1998, deu provimento para pronunciar o acusado nos termos da denúncia. Ato contínuo, a defesa apresentou Recurso Especial em 21/8/1998, no qual pleiteou a nulidade do acórdão, sob o argumento de que a pronúncia se baseou exclusivamente em prova ilícita, recurso esse que não foi conhecido. O paciente, então, foi submetido a julgamento pelo Conselho de Sentença em 27/2/2015, ocasião em que foi proferida sentença condenatória contra o réu.
+3. No que concerne ao alegado excesso de linguagem, não houve nenhum reclamo da defesa acerca da nulidade no momento oportuno, de modo que operou-se a preclusão. Em verdade, a parte invocou a referida tese, de forma inédita, por ocasião deste habeas corpus.
+4. "A jurisprudência deste STJ não tolera a chamada nulidade de algibeira - aquela que, podendo ser sanada pela insurgência imediata da defesa após ciência do vício, não é alegada, como estratégia, numa perspectiva de melhor conveniência futura" (AgRg no AR Esp n. 2.106.665/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 10/8/2022).
+5. Agravo regimental não provido.
+(AgRg no HC n. 810.742/CE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/6/2025, DJEN de 16/6/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. SUPRESSÃO DE INSTÂNCIA. NULIDADE DE ALGIBEIRA. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisãomonocrática que indeferiu liminarmente a ordem de habeas corpus, em razão de supressão de instância.
+2. O agravante foi condenado pelos crimes de homicídio qualificado e associação criminosa, tendo a defesa impetrado habeas corpus alegando violação ao contraditório e à ampla defesa, devido à não disponibilização integral de material de interceptação telefônica e da cadeia decisória sobre seu deferimento e prorrogações.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a análise de tais alegações pelo Superior Tribunal de Justiça configuraria indevida supressão de instância.
+4. Outra questão é se há ilegalidade manifesta a justificar a concessão ex officio da ordem.
+III. Razões de decidir
+5. O Superior Tribunal de Justiça não pode conhecer de matéria não apreciada pelas instâncias ordinárias, sob pena de supressão de instância, conforme art. 105, I, c, da Constituição Federal.
+6. O Tribunal de origem apontou que o conteúdo da mídia mencionada pela defesa técnica se encontra integralmente nos autos, em perfeito estado. Conclusãodiversa sobre a questão implicaria em revolvimento fáticoprobatório inadmissível em habeas corpus.
+7. A defesa não alegou oportunamente a nulidade relativa à cadeia decisória, configurando a chamada "nulidade de algibeira", que não é admitida pela jurisprudência.
+8. Não se verifica ilegalidade flagrante ou teratologia que justifique a concessão ex officio da ordem.
+IV. Dispositivo e tese
+9. Agravo regimental desprovido.
+Tese de julgamento:
+"1. O Superior Tribunal de Justiça não pode conhecer de matéria não apreciada pelas instâncias ordinárias, sob pena de supressão de instância.
+2. É inviável em habeas corpus a desconstituição da moldura fática traçada na origem, eis que a via não comporta revolvimento fático-probatório.
+3. A nulidade de algibeira, não impugnada oportunamente, não é admitida pela jurisprudência.". Dispositivos relevantes citados: CF/1988, art. 105, I, c; CPP, art. 387, § 1º.Jurisprudência relevante citada: STJ, AgRg no RHC 182.899/PB, Rel. Min. Jesuíno Rissato,Sexta Turma, julgado em 08.04.2024; STJ, AgRg no HC 912.889/MG, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 09.09.2024.
+(AgRg no HC n. 980.016/CE, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 11/6/2025, DJEN de 26/6/2025.)
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, denego a ordem de habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
