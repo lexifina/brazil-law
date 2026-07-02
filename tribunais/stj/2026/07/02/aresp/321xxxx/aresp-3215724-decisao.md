@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial interposto contra acórdão assim ementado (fl. 213):
+Agravo de Instrumento. Ação Indenizatória. Decisão interlocutória que rejeitou a alegação de prescrição. Irresignação da ré. Manutenção. Início do prazo prescricional quando a parte toma ciência da lesão do seu direito. Caso concreto, no qual a agravada foi instada a prestar contas dos valores recebidos pela prestação de serviços advocatícios na ação trabalhista, feito nº 0130700- 69.2007.5.01.0033, em 09 de agosto de 2023. Distribuição da ação em 21/11/2023. Inocorrência de prescrição. Jurisprudência e Precedentes citados: 0829511-35.2024.8.19.0205 - APELAÇÃO. Des(a). SERGIO RICARDO DE ARRUDA FERNANDES - Julgamento: 05/06/2025 - DECIMA CAMARA DE DIREITO PRIVADO (ANTIGA 1ª CÂMARA CÍVEL); 0095550-80.2024.8.19.0000 - AGRAVO DE INSTRUMENTO. Des(a). JOSÉ CARLOS PAES - Julgamento: 03/07/2025 - DECIMA SEGUNDA CAMARA DE DIREITO PRIVADO (ANTIGA 14ª CÂMARA CÍVEL). DESPROVIMENTO DO RECURSO.
+No recurso especial, a parte recorrente aponta violação ao art. 206, § 3º, V, do Código Civil.
+Sustenta que "o prazo prescricional deve ter início quando o titular do direito puder exercer sua pretensão, e não quando opta por registrar o ato lesivo. Com efeito, trata-se de fato inerente a processo judicial no qual a própria recorrida figurava como parte beneficiária, tendo acesso aos autos e pleno conhecimento dos atos praticados, inclusive da expedição do referido alvará. Assim, não há como admitir que somente em 2023 tenha tomado ciência do levantamento, pois isso implicaria admitir prescrição com prazo indefinido" (fl. 226).
+Sem contrarrazões.
+Assim, delimitada a questão, passo a decidir.
+A irresignação não merece prosperar.
+No que se refere ao termo inicial do prazo prescricional, a recorrente apontou como afrontado o artigo art. 206, § 3º, V, do Código Civil, contudo, tem-se que tal dispositivo não se relaciona com o termo inicial do prazo prescricional, visto que o dispositivo legal que versa sobre a matéria é o art. 189 do CC, sendo que o art. 206, § 3º, V, do Código Civil versa a respeito da prescrição trienal. Desse modo, o aludido dispositivo legal não detém força normativa apta para possibilitar o conhecimento do recurso especial em relação à tese relativa ao termo inicial do prazo prescricional.
+Com efeito, "a indicação de artigo de lei federal tido por violado que não guarda pertinência temática com a matéria discutida nos autos obsta o conhecimento do recurso especial, a teor da Súmula 284/STF" (REsp 846.049/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJ de 8.9.2008). Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. OMISSÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. IRRESIGNAÇÃO FORMULADA GENERICAMENTE. SÚMULA 284/STF. INCIDÊNCIA. VALOR INDENIZATÓRIO. REVISÃO DO CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. JUROS DE MORA. TERMO INICIAL. RESPONSABILIDADE CONTRATUAL. DATA DA CITAÇÃO. DPVAT. DEDUÇÃO DOS VALORES INDENIZATÓRIOS. AUSÊNCIA DE PERTINÊNCIA TEMÁTICA. SÚMULA 284/STF. APLICAÇÃO POR ANALOGIA.
+1. Recurso especial que suscita negativa de prestação jurisdicional, nos termos do art. 1.022 do CPC/2015, sem indicar precisamente o ponto que supostamente estaria omisso, contraditório, obscuro ou com erro material, é deficiente em sua fundamentação e atrai a aplicação do óbice descrito na Súmula 284/STF.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. O Superior Tribunal de Justiça firmou orientação no sentido de que o termo inicial dos juros de mora, nas indenizações por danos materiais e morais decorrentes de ilícito contratual, é a data da citação.
+4. Na forma da jurisprudência, "a impertinência do dispositivo legal apontado como violado, no sentido de ser incapaz de infirmar o aresto recorrido, revela a deficiência das razões do recurso especial, fazendo incidir a Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"" (STJ, AgRg no AREsp 144.399/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 18/6/2012).
+5.Agravo interno a que se nega provimento.
+(AgInt no AREsp 1343812/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 09/04/2019, DJe 12/04/2019)
+ADMINISTRATIVO. DESAPROPRIAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. VIOLAÇÃO AO ART. 535. INOCORRÊNCIA. COMANDO INCAPAZ DE INFIRMAR A CONCLUSÃO DO ACÓRDÃO. TAXA DE 6% AO ANO. EFICÁCIA DA MP 1.577/97. PRINCÍPIO DO TEMPUSREGIT ACTUM. PRECEDENTES.
+(..)
+3. Não pode ser conhecido o recurso especial se o dispositivo apontado como violado não contém comando capaz de infirmar o juízo formulado no acórdão recorrido. Incidência, por analogia, a orientação posta na Súmula 284/STF.
+(..)
+6. Recurso especial parcialmente conhecido e, nesta parte, provido. (REsp 884.146/MT, Primeira Turma, Rel. Min. Teori Albino Zavascki, DJ de 16.8.2007)
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
