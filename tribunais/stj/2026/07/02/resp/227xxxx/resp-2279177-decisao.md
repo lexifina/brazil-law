@@ -1,0 +1,52 @@
+DECISÃO
+Cuida-se de recurso especial interposto por LOURDES ALMEIDA MELO, fundamentado nas alíneas a e c do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fls. 619-620, e-STJ):
+DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. CONTRATOS DE CARTÃO DE CRÉDITO. AÇÃO DECLARATÓRIA C/C INDENIZAÇÃO POR DANOS MORAIS. REGISTRO NO SISTEMA DE INFORMAÇÕES DE CRÉDITOS DO BACEN (SCR). COMUNICAÇÃO PRÉVIA AO CONSUMIDOR. OBRIGAÇÃO DO CREDOR. AUSÊNCIA DE FALHA NA PRESTAÇÃO DE SERVIÇOS.
+I - CASO EM EXAME: Apelação cível interposta contra sentença que julgou improcedente a ação declaratória cumulada com pedido de indenização por danos morais. A parte autora alega a ausência de notificação prévia ao cadastro de débito em seu nome no SCR e postula a exclusão do lançamento e indenização por danos morais.
+II - QUESTÃO EM DISCUSSÃO: Há as seguintes questões em análise: (i) estabelecer se existe obrigação do credor em notificar previamente o consumidor acerca do débito a ser lançado no SCR, e (ii) definir se há dever de indenizar decorrente do registro de dados no SCR, por ausência de notificação prévia ao consumidor.
+III - RAZÕES DE DECIDIR: As instituições financeiras devem comunicar previamente ao cliente que os dados de suas operações serão registrados no SCR, conforme art. 13 da Resolução CMN nº 5.037/2022. Tal comunicação, entretanto, não se confunde com a notificação prevista no art. 43, § 2º, do CDC, aplicável apenas aos cadastros restritivos de crédito. No caso, o banco comprovou que no contrato celebrado pelas partes há cláusula sobre o tratamento e compartilhamento de dados e o envio de informações contratuais ao SCR, inexistindo falha na prestação dos serviços ou dano moral indenizável.
+IV - TESE DE JULGAMENTO: O registro de dados contratuais no SCR do Banco Central, precedido de informação prévia ao consumidor no instrumento contratual, não configura ilícito nem gera dever de indenizar, por não se tratar de cadastro restritivo de crédito, mas de providência compulsoriamente imposta às instituições financeiras pelo CMN.
+V - DISPOSITIVO: APELAÇÃO DESPROVIDA. UNÂNIME.
+Opostos embargos de declaração, foram rejeitados nos termos dos acórdãos de fls. 748-752, e-STJ.
+Nas razões de recurso especial (fls. 637-662, e-STJ), aponta a parte recorrente ofensa aos seguintes dispositivos: art. 186 e art. 927 do Código Civil; art. 13, § 2º, da Resolução CMN n. 5.037/2022; art. 43, § 2º, art. 46, art. 51, §§ 3º e 4º, do Código de Defesa do Consumidor; LGPD.
+Sustenta, em síntese: a) que o SCR/SISBACEN possui natureza de cadastro restritivo de crédito e, por isso, exige notificação prévia específica antes da inclusão de dados, a cargo da instituição financeira, nos termos do art. 43, § 2º, do CDC e do art. 13, § 2º, da Resolução CMN n. 5.037/2022; b) que a mera cláusula contratual genérica sobre comunicação ao SCR não supre o dever legal de prévia notificação antes de cada remessa de dado desabonatório; c) que a ausência de notificação prévia torna ilícita a inscrição e enseja dano moral in re ipsa; d) que cláusulas de adesão que impõem compartilhamento compulsório de dados sem opção de discordância são abusivas, em afronta aos arts. 46, 51 e 54, §§ 3º e 4º, do CDC e à LGPD; e) que há divergência jurisprudencial quanto à responsabilidade pela notificação e à configuração do dano moral.
+Contrarrazões apresentadas às fls. 755-760, e-STJ.
+Em juízo de admissibilidade (fls. 761-764, e-STJ), admitiu-se o recurso, ascendendo os autos a esta Corte.
+É o relatório.
+Decido.
+A irresignação merece prosperar.
+1. Cinge-se a controvérsia à ocorrência de ato ilícito e dano moral em razão da ausência de prévia comunicação acerca do registro de dados no SCR/SISBACEN.
+O Tribunal de origem concluiu que a ausência de notificação prévia não gera dano moral presumido, cabendo ao consumidor comprovar o prejuízo sofrido, e que a legitimidade da dívida afasta o dever de indenizar.
+Confira-se, in verbis (fls. 616, e-STJ):
+Assim, não há obrigação da instituição financeira de notificar o consumidor mensalmente acerca das informações que serão prestadas ao SCR, sequer quando haja lançamento de informação relativa a débito vencido ou em situação de prejuízo, porquanto a natureza jurídica de tal sistema não é de proteção ao crédito, ainda que possa, como efeito secundário, causar restrição de crédito, mas sim de subsidiar informações ao Banco Central e demais instituições financeiras.
+Importante referir que a notificação exigida pelo art. 13 não se confunde com a notificação prévia prevista no art. 43, § 2º do CDC, que deve ser enviada pelo mantenedor do cadastro de inadimplentes (arquivista), antes da inclusão de débito no respectivo cadastro, pois, como já referido, o SCR não se trata de cadastro negativo e o envio de informações pelas instituições financeiras é compulsório.
+Na hipótese dos autos, a instituição financeira cumpriu com o seu mister, porquanto no contrato havido entre as partes consta disposições acerca do tratamento de dados, compartilhamento de informações entre as instituições financeiras e envio de informações contratuais ao SCR (evento 10, OUT6 - fls. 17/18).
+Contudo, segundo a jurisprudência do STJ, o Sistema de Informações de Crédito do Banco Central - SCR, embora tenha finalidade e estrutura distintas dos cadastros tradicionais de inadimplentes (SPC/Serasa), possui natureza de cadastro restritivo de crédito, de modo que a inclusão de informação sem notificação prévia configura ato ilícito ensejador de dano moral in re ipsa.
+Neste sentido:
+DIREITO CIVIL. RECURSO ESPECIAL. INSCRIÇÃO INDEVIDA EM CADASTRO DE CRÉDITO. DANOS MORAIS. RECURSO NÃO CONHECIDO.
+I. Caso em exame
+1. Recurso especial interposto por instituição financeira contra acórdão do Tribunal de Justiça do Estado de Santa Catarina que manteve sentença de procedência em ação declaratória de inexistência de débito cumulada com indenização por danos morais.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a inscrição no Sistema de Informações de Crédito (SCR) sem comprovação de dívida configura ato ilícito passível de indenização por danos morais.
+III. Razões de decidir
+3. A inscrição indevida em cadastro de crédito, sem comprovação de dívida, configura ato ilícito e gera dano moral, conforme entendimento consolidado do STJ. Rever tal entendimento encontra óbice nas Súmulas n. 5 e 7 do STJ.
+4. A incidência das Súmulas n. 5 e 7 do STJ no tocante à violação de lei federal prejudica a análise do dissídio jurisprudencial acerca do mesmo dispositivo legal ou tese jurídica, tendo em vista a diferença fática dos julgados paradigma e recorrido.
+5. O recurso especial não comporta conhecimento no que tange à invalidação de um ato jurídico perfeito, ante a incidência das Súmulas n. 282 do STF e 211 do STJ, devido à falta de prequestionamento da matéria.
+IV. Dispositivo e tese
+6. Recurso especial não conhecido.
+Tese de julgamento:
+"1. A inscrição indevida em cadastro de crédito, sem comprovação de dívida, configura ato ilícito e gera dano moral, cujo reexame encontra óbice nas Súmulas n. 5 e 7 do STJ.
+2. A incidência das Súmula n. 5 e 7 do STJ no tocante à violação de lei federal prejudica a análise do dissídio jurisprudencial acerca do mesmo dispositivo legal.
+3. O não enfrentamento pelo acórdão recorrido da matéria contida nos dispositivos infraconstitucionais tidos por violados inviabiliza o conhecimento do recurso pelo Superior Tribunal de Justiça, tendo em vista a incidência das Súmulas n. 211 do STJ e 282 do STF". Dispositivos relevantes citados: CC, arts. 186, 187, 927; CPC, art. 1.022.Jurisprudência relevante citada: STJ, AgInt no AREsp n. 1.962.179/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/2/2022; STJ, AgInt no AREsp n. 1.898.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/6/2022. (REsp n. 2.199.845/SC, relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 26/5/2025, DJEN de 2/6/2025.)
+AGRAVO EM RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. VIOLAÇÃO. DISPOSITIVOS CONSTITUCIONAIS. INADEQUAÇÃO. VIA. SCR. SISTEMA. INFORMAÇÕES. BACEN. CRÉDITO. RESTRIÇÃO. ANOTAÇÃO INDEVIDA. ATO ILÍCITO. DANO MORAL.
+1. Não viola o art. 1.022 do Código de Processo Civil nem importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+2. Compete ao Superior Tribunal de Justiça, em recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável invocar, nesta seara, a violação de dispositivos constitucionais, pois, como consabido, a matéria é afeta à competência do Supremo Tribunal Federal
+3. Segundo a jurisprudência do STJ, embora não se caracterize como cadastro de inadimplentes, o Sistema de Informações de Crédito do Banco Central do Brasil - SCR dispõe de informações que possuem o potencial de restringir o crédito, de modo que a manutenção de informação acerca de débito inexistente configura ato ilícito ensejador do dever de indenizar. Precedentes.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, provido.
+(AREsp n. 2.698.607/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/10/2025, DJEN de 30/10/2025.)
+A inclusão em cadastro restritivo sem a comunicação prévia obrigatória caracteriza inscrição indevida, independentemente da legitimidade do débito, pois a ilicitude reside na violação do procedimento legal (art. 13, § 2º, da Resolução BACEN 5.037/2022).
+De rigor, portanto, a reforma do acórdão recorrido.
+Considerados os fatos delineados pelas instâncias ordinárias, fixo a indenização por danos morais em R$ 5.000,00 (cinco mil reais), valor condizente com causas análogas apreciadas por este Tribunal Superior (AgInt no REsp n. 1.656.226/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 19/10/2017, DJe de 27/10/2017; AgInt no AREsp n. 1.139.656/RS, relator Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª REGIÃO), Quarta Turma, julgado em 24/10/2017, DJe de 31/10/2017).
+2. Do exposto, dou provimento ao recurso especial para reconhecer a ilicitude da conduta e fixar danos morais no montante de R$ 5.000,00 (cinco mil reais) em favor da autora, ficando invertida a sucumbência.
+Publique-se.
+Intimem-se.
+EMENTA
