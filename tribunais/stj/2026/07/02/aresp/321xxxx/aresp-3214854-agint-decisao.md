@@ -1,0 +1,29 @@
+DECISÃO
+Diante das razões contidas no agravo interno, reconsidero a decisão de fls. 347-348, passando, desde já, à análise do agravo em recurso especial de fls. 305-311.
+Trata-se de agravo interposto por Joana D"arc de Souza Campos contra decisão que não admitiu recurso especial manifestado em face de acórdão assim ementado (fl. 256):
+DIREITO CIVIL. PROCESSO CIVIL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO CONTRATUAL C/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. EMPRÉSTIMO CONSIGNADO. ALEGAÇÃO DE FRAUDE NA CONTRATAÇÃO. PEDIDO DE PRODUÇÃO DE PROVA PERICIAL. DESNECESSIDADE. MANUTENÇÃO DA SENTENÇA DE IMPROCEDÊNCIA. Trata-se de ação declaratória cumulada com pedidos de repetição de indébito e indenização por danos morais, ajuizada sob a alegação de inexistência de contratação válida de empréstimos consignados, supostamente firmados mediante fraude, com descontos incidentes sobre proventos previdenciários.
+A controvérsia cinge-se à alegada falsidade das assinaturas apostas nos contratos de portabilidade bancária, e à necessidade de realização de perícia grafotécnica para apuração da autenticidade.
+Não se vislumbra necessidade de produção de prova técnica quando os documentos acostados aos autos evidenciam, por si, a regularidade da contratação, mediante exame visual das assinaturas, em confronto com documento oficial da parte autora.
+Comprovada a quitação de dívidas anteriores por parte da instituição financeira, no bojo de operação típica de portabilidade bancária, bem como a ausência de indícios concretos de vício ou fraude, deve ser mantida a sentença que reconheceu a validade dos contratos celebrados.
+A ausência de elementos que desabonem a licitude da contratação afasta a pretensão de declaração de inexistência de relação jurídica, repetição de valores descontados e indenização por danos morais.
+Nas razões do recurso especial, a parte recorrente alega que o acórdão recorrido violou os arts. 429, II, do Código de Processo Civil e 5º, LV, da Constituição Federal.
+Argumenta a ocorrência de cerceamento de defesa pela negativa de perícia grafotécnica imprescindível à verificação da autenticidade das assinaturas nos contratos de empréstimos, sustentando a violação dos princípios do contraditório e da ampla defesa, pois o exame visual não substitui a prova técnica idônea.
+Contrarrazões às fls. 279-285.
+A não admissão do recurso na origem ensejou a interposição do presente agravo.
+Impugnação às fls. 318-324.
+Assim posta a questão, satisfeitos os requisitos de admissibilidade do agravo, dele conheço e passo à análise do recurso especial.
+O recurso não merece prosperar.
+Inicialmente, é necessário salientar que a via especial não é a sede própria para a discussão de matéria de índole constitucional, sob pena de usurpação da competência exclusiva do STF.
+Observo, por outro lado, que o Tribunal de origem reconheceu a validade dos contratos celebrados entres as partes e afastou, com base em prova idônea e suficiente, a suposta ilicitude no procedimento adotado pelo banco recorrido, conforme se extrai dos seguintes trechos (fls. 257-258):
+(..)
+A controvérsia devolvida a esta instância cinge-se à alegada inexistência de relação contratual entre a autora e o banco recorrido, com fundamento na suposta falsidade da assinatura aposta nos contratos de portabilidade bancária celebrados com o Banrisul. Sustenta a parte apelante que jamais contratou tais empréstimos e que seria indispensável a produção de perícia grafotécnica para comprovar a autenticidade dos documentos apresentados.
+No entanto, a sentença combatida corretamente afastou a necessidade de realização da mencionada prova técnica. Isso porque os documentos acostados aos autos  especialmente o contrato de portabilidade, a cédula de crédito bancário (CCB) e a cópia do documento oficial da autora  permitem a constatação, mediante simples exame visual, de que as assinaturas ali constantes possuem identidade gráfica inequívoca. Tais elementos demonstram que a própria autora firmou os contratos questionados, sendo absolutamente descabida a alegação de fraude.
+Além disso, restou amplamente comprovado que o banco recorrido quitou os débitos anteriormente existentes da autora junto ao Banco Pan e ao Banco Bradesco, passando, assim, à condição de novo credor, nos termos típicos da operação de portabilidade. Tal movimentação financeira, associada à validade dos instrumentos contratuais, afasta qualquer dúvida sobre a licitude da contratação. Diante disso, é forçoso reconhecer que não subsiste qualquer vício a macular a avença firmada, razão pela qual não há espaço para o reconhecimento da inexistência da relação contratual, tampouco para a condenação da instituição financeira à restituição de valores ou indenização por danos morais.
+A alegação de que a assinatura não seria da autora, sem qualquer suporte técnico mínimo e diante da análise visual favorável à autenticidade, revela apenas uma tentativa de alterar a verdade dos fatos, o que não pode ser admitido em juízo.
+A sentença deve, portanto, ser mantida em sua integralidade, na medida em que reconhece a validade dos contratos e afasta, com base em prova idônea e suficiente, qualquer ilicitude no procedimento adotado pelo banco apelado.
+(..)
+No presente caso, a revisão das conclusões proferidas pelo Colegiado estadual demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n. 7/ STJ.
+Em face do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiária da justiça gratuita.
+Intimem-se.
+EMENTA
