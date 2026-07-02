@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido de liminar, impetrado em favor de JOHN HEBERT SOARES COSTA contra acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo na Revisão Criminal nº 5019238-47.2025.8.08.0000.
+Consta da denúncia que o Ministério Público Estadual imputou ao paciente a prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006, por fatos ocorridos em 25.09.2021, com apreensão de 05 pedras de crack e 01 pino de cocaína, além de tesoura e quantia em dinheiro (fls. 12-14).
+O Juízo da 1ª Vara Criminal de Colatina/ES condenou o réu à pena de 05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa, fixando o regime inicial aberto, e afastou a causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006 com base em ação penal em curso e registros genéricos de atos infracionais (fls. 15-20).
+O Tribunal de origem, em revisão criminal, julgou parcialmente procedente o pedido para reconhecer o tráfico privilegiado e redimensionar a pena para 04 (quatro) anos e 02 (dois) meses de reclusão e 417 (quatrocentos e dezessete) dias-multa, mantendo o regime inicialmente aberto, aplicando o redutor na fração de 1/6 em razão do "contexto da prisão em flagrante, precedida de observação de movimentos típicos de mercancia  ..  denotando um certo profissionalismo na conduta" (fls. 6-11).
+O juízo de origem prestou informações sobre a condenação e o fundamento para afastar a minorante na sentença, bem como o trânsito em julgado em 22.05.2023 (fls. 80-81).
+O Tribunal de Justiça do Estado do Espírito Santo encaminhou o acórdão e destacou a aplicação do Tema Repetitivo nº 1.139 quanto à vedação de uso de inquéritos e ações em curso para afastar a minorante (fls. 85-91).
+Na inicial, a defesa sustenta que a fração mínima aplicada é desprovida de fundamentação idônea diante da pequena quantidade de droga, requerendo a aplicação do redutor máximo de 2/3 (fls. 2-4).
+O Ministério Público Federal opinou pelo não conhecimento do writ por inadequação da via eleita e ausência de flagrante ilegalidade na dosimetria (fls. 96-99).
+É o relatório. DECIDO.
+A impetração volta-se contra acórdão que julgou Revisão Criminal, funcionando assim como sucedâneo do recurso próprio.
+É pacífica a orientação de que o habeas corpus não deve ser admitido quando houver recurso legalmente previsto contra a decisão impugnada, impondo-se o não conhecimento, ressalvada a hipótese de flagrante ilegalidade, passível de correção de ofício (AgRg no HC n. 874.345/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 30/4/2025, DJEN de 13/5/2025).
+Verifico que a impetração se volta exclusivamente contra a fração de redução aplicada na terceira fase da dosimetria, buscando a readequação da causa de diminuição do art. 33, §4º, da Lei n. 11.343/2006, de 1/6 para 2/3.
+Registro que o Tribunal a quo reconheceu o privilégio por ilegalidade do fundamento sentencial que o afastou, à luz do Tema Repetitivo nº 1.139, ao consignar que "inquéritos policiais e ações penais em curso não podem ser utilizados para afastar a causa especial de diminuição do art. 33, §4º, da Lei 11.343/06" (fls. 10).
+A Corte local, ao individualizar a pena, manteve a pena-base no mínimo e, na fração de redução, fixou 1/6 em razão de elementos concretos relacionados ao contexto fático da prisão e à observação de "movimentos típicos de mercancia ao buscar objetos em um monte de areia e entregá-los a terceiros, denotando um certo profissionalismo" (fl. 10).
+Constato que a pretensão defensiva demanda o reexame do juízo de conveniência e oportunidade exercido pelas instâncias ordinárias quanto à calibragem da fração da minorante a partir de uma nova valoração das circunstâncias concretas do fato, sem apontar ilegalidade manifesta ou fundamento vedado pelo ordenamento para a modulação escolhida.
+Nessa linha, as informações e o acórdão impugnado evidenciam que a Corte estadual aplicou critérios de individualização compatíveis com a discricionariedade juridicamente vinculada da dosimetria, sem utilização de elementos proscritos e com suporte em dados do caso, notadamente o modo de execução e a dinâmica observada pelos agentes públicos.
+A revisão da fração de redução, em sede de habeas corpus, somente se justificaria diante de constrangimento ilegal evidente, o que não se configura na espécie.
+A decisão impugnada que motivou o reconhecimento do privilégio não incorreu na ilegalidade (já sanada ao afastar o uso de ações penais em curso e atos infracionais genéricos) e fundamentou, de forma concreta, a escolha da fração de 1/6, mantendo íntegra a pena-base no mínimo e preservando o regime inicial aberto, inclusive com consideração da detração.
+Para infirmar tais premissas e impor a fração máxima de 2/3, seria necessário revolver o acervo fático-probatório e substituir o juízo de proporcionalidade efetuado pelas instâncias ordinárias, providência incompatível com a via estreita do habeas corpus.
+No mesmo sentido:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. BUSCA PESSOAL. NULIDADE. AUSÊNCIA. JUSTA CAUSA. SÚMULA N. 7 DO STJ. REDUTOR DO § 4º DO ART. 33 DA LEI N. 11.343/2006. FRAÇÃO. SÚMULA N. 7 DO STJ AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+4. O § 4º do art. 33 da Lei n. 11.343/2006 dispõe que, para o crime de tráfico de entorpecentes e suas figuras equiparadas, as penas poderão ser reduzidas de 1/6 (um sexto) a 2/3 (dois terços), desde que o agente seja primário, possua bons antecedentes, não se dedique às atividades criminosas e não integre organização criminosa.
+ ..
+7. A definição da fração de redução relativa ao tráfico privilegiado insere-se na discricionariedade motivada do julgador, baseada nas circunstâncias concretas do caso, sendo inviável sua revisão em recurso especial quando ausente ilegalidade manifesta, sob pena de violação ao óbice da Súmula n. 7/STJ.
+ .. "
+(AgRg no REsp n. 2.236.993/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/5/2026, DJEN de 26/5/2026).
+Além disso, esta Corte Superior registra precedente no sentido de que "a fração de 1/6 para o redutor do tráfico privilegiado é adequada quando fundamentada nas circunstâncias do caso concreto, como a quantidade de droga apreendida e informações de envolvimento" (AgRg no HC n. 1.044.537/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/12/2025, DJEN de 23/12/2025).
+Ausente flagrante ilegalidade, e diante da inadequação do habeas corpus como sucedâneo de recurso próprio, a impetração não deve ser conhecida.
+Ante o exposto, não conheço do habeas corpus, nos termos do art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
