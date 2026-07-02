@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo interposto por MAICON FABIANO CARDOSO contra decisão que inadmitiu recurso especial, fundado no permissivo constitucional, o qual desafia acórdão proferido pelo TRF4, assim ementado (e-STJ fls. 97/98):
+AÇÃO RESCISÓRIA. HONORÁRIOS ADVOCATÍCIOS EM DEMANDA DE SAÚDE (FORNECIMENTO DE MEDICAMENTO). ACÓRDÃO RESCINDENDO QUE FIXOU A VERBA POR EQUIDADE (ART. 85, § 8º, CPC). PRETENSÃO DE APLICAÇÃO DAS FAIXAS DO ART. 85, § 3º, III, CPC, COM BASE EM SUPOSTO "PROVEITO ECONÔMICO" (PREÇO DO FÁRMACO). INADEQUAÇÃO DO PARÂMETRO PECUNIÁRIO EM OBRIGAÇÃO DE FAZER PERSONALÍSSIMA. PROVEITO INESTIMÁVEL. TEMA 1.313/STJ. DISTINÇÃO EM RELAÇÃO AO TEMA 1.076/STJ. INEXISTÊNCIA DE VIOLAÇÃO MANIFESTA À NORMA JURÍDICA (ART. 966, V, CPC). NÃO SUCEDÂNEO RECURSAL. IMPROCEDÊNCIA..
+I. Caso em exame Ação rescisória proposta por advogado para desconstituir capítulo de decisão que  xou honorários em R$ 4.000,00 por equidade, visando novo arbitramento nas faixas do art. 85, § 3º, III, CPC (8% sobre o preço do medicamento Zolgensma, aproximado de R$ 11.857.500,00), totalizando R$ 948.600,00.
+II. Questão em discussão Saber se a  xação de honorários por equidade, em demanda de saúde (obrigação de fazer), violou manifestamente norma jurídica ao deixar de aplicar o critério objetivo do art. 85, § 3º, III, CPC, tomando por "proveito econômico" o preço do medicamento, de modo a autorizar a rescisão (art. 966, V, CPC).
+III. Razões de decidir
+1. A via rescisória exige afronta direta, evidente e inquestionável à ordem jurídica; não se presta como sucedâneo recursal nem para revisitar interpretação plausível.
+2. Em demandas de saúde, a prestação é personalíssima e não se incorpora ao patrimônio do autor; o bem tutelado (saúde/vida) é de valor inestimável. Cabe  xação por equidade (art. 85, § 8º, CPC).
+3. Tese repetitiva (Tema 1.313/STJ): nas ações em que se pleiteia do Poder Público a satisfação do direito à saúde, os honorários são  xados por apreciação equitativa; não incidem o art. 85, § 8º-A, nem o arbitramento sobre o "valor do procedimento/medicamento". Distinção em relação ao Tema 1.076/STJ (que cuida de condenação pecuniária/proveito mensurável).
+4. O acórdão rescindendo motivou a aplicação da equidade, à luz dos vetores do § 2º do art. 85, CPC, inexistindo teratologia ou violação manifesta.
+5. Anota-se, ademais, que a rescisória não pode suprir recurso não interposto, e houve controvérsia sobre a própria legitimidade ativa, sem alterar o desfecho.
+IV. Dispositivo e tese Ação rescisória julgada improcedente, mantida a  xação dos honorários por equidade em R$ 4.000,00. Condenação do autor em custas e honorários de 10% sobre o valor atualizado da causa, com exigibilidade suspensa pela gratuidade. Tese: Em demandas de saúde (obrigação de fazer), o preço do fármaco não constitui proveito econômico; os honorários sucumbenciais contra a Fazenda Pública são  xados por equidade (art. 85, § 8º, CPC), à luz do Tema 1.313/STJ, não havendo violação manifesta apta a rescindir julgado que assim decidiu.
+Embargos de declaração rejeitados.
+Em suas razões do especial, o recorrente aponta violação do art. 85, §§ 2º, 3º e 8º, do Código de Processo Civil, bem como divergência jurisprudencial.
+Defende, em suma, que houve aplicação retroativa indevida da tese firmada no Tema 1.313 do Superior Tribunal de Justiça para validar o acórdão rescindendo proferido em 2023, que fixou os honorários advocatícios por equidade no valor de R$ 4.000,00, quando vigente o Tema 1.076 do STJ.
+Alega que os honorários devem ser fixados sobre o proveito econômico, correspondente ao valor da medicação ou, subsidiariamente, sobre o valor atualizado da causa, devendo ser afastado o arbitramento por equidade.
+Contrarrazões apresentadas às e-STJ fls. 154/157 (União) e 158/165 (Estado do Rio Grande do Sul).
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 166/167.
+Passo a decidir.
+O Superior Tribunal de Justiça possui entendimento no sentido de que, nas hipóteses de improcedência da ação rescisória, o recurso especial deve voltar-se à demonstração dos requisitos previstos no art. 966 do CPC, sendo incabível a mera rediscussão da matéria decidida no acórdão rescindendo, sob pena de incidir o óbice da Súmula 284 do STF.
+Nessa linha:
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. ANÁLISE DO MÉRITO DO ACÓRDÃO RESCINDENDO. INVIABILIDADE.
+1. A jurisprudência desta Corte orienta-se no sentido de que o recurso especial manejado em ação rescisória deve se restringir aos pressupostos de cabimento da ação, sem adentrar nos fundamentos do acórdão rescindendo, providência não adotada na hipótese ora analisada.
+2. Hipótese em que o recorrente limitou a insurgência recursal ao próprio mérito do julgado rescindendo, sem tecer considerações acerca dos pressupostos da ação rescisória, razão pela qual é deficiente a fundamentação recursal.
+3. Agravo interno desprovido.
+(AgInt no AREsp 2.405.652/MT, de minha relatoria, Primeira Turma, julgado em 11/3/2024, DJe de 2/4/2024).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. HIPÓTESE EM QUE A ANÁLISE DA VIOLAÇÃO DE LEI FEDERAL É REFLEXA, UMA VEZ QUE EXIGE O EXAME DE NORMA CONSTITUCIONAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. RATIFICAÇÃO DA DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO INTERNO DESPROVIDO.
+1. Com efeito, "é impossível o conhecimento do apelo nobre interposto contra acórdão que julgou improcedente o pedido rescisório quando não se aponta eventual violação ao art. 966 do CPC e aos pressupostos da ação rescisória (incidência da Súmula n. 284 do STF)" (AgInt no AREsp n. 1.775.796/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 12/3/2025, DJEN de 18/3/2025).
+2. Com efeito, não é cabível o recurso especial porquanto eventual violação de lei federal seria meramente indireta e reflexa, pois exigiria um juízo anterior de norma constitucional, o que extrapola a competência desta Corte Superior.
+3. É imprescindível o prequestionamento para que se possa, efetivamente, apreciar o recurso especial. Incidência da Súmula 211/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.805.982/PE, relator Ministro Marco Aurélio Bellizze,
+Segunda Turma, julgado em 14/5/2025, DJEN de 20/5/2025.)
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL EM SEDE DE AÇÃO RESCISÓRIA. RAZÕES RECURSAIS QUE NÃO APONTAM VIOLAÇÃO DO ART. 966 DO CPC. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. PRECEDENTES. CORREÇÃO DAS DEFICIÊNCIAS DA FUNDAMENTAÇÃO DO APELO NOBRE. INVIABILIDADE. PRECLUSÃO CONSUMATIVA. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. Consoante destacado na decisão ora impugnada, é impossível o conhecimento do apelo nobre interposto contra acórdão que julgou improcedente o pedido rescisório quando não se aponta eventual violação ao art. 966 do CPC e aos pressupostos da ação rescisória (incidência da Súmula n. 284 do STF).
+2. "Nos termos da jurisprudência desta Corte, o recurso especial interposto contra acórdão que examina ação rescisória deve se voltar contra os pressupostos desta (art. 966 do CPC/15), e não contra os fundamentos do aresto rescindendo" (AgInt no REsp n. 2.103.131/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 19/8/2024, DJe de 22/8/2024).
+3. Ao sustentar, apenas nas razões deste agravo interno, a suposta ofensa ao art. 966, incisos V e VIII, do CPC, pretende a parte agravante corrigir a fundamentação deficiente do recurso especial, desiderato que é inexequível, dada a preclusão consumativa.
+4. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+(AgInt no AREsp n. 1.775.796/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 12/3/2025, DJEN de 18/3/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DA NORMA CONTIDA NO ART. 1.021, § 1º, DO CPC/2015. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo 3/2016/STJ.
+2. Cuida-se de agravo interno interposto contra decisão que não conheceu do recurso especial sob o fundamento de que as razões recursais são deficientes, pois as recorrentes, ao impugnarem acórdão em ação rescisória, se limitaram a tecer considerações acerca da violação do art. 1º do Decreto 20.910/1932, sem tratar dos arts. 485 a 495, do CPC/1973 correspondentes aos artigos 966 a 975 do CPC de 2015, o que, por si só, caracteriza deficiência na sua fundamentação a impedir seu conhecimento, em observância à Súmula 284 do STF, aplicável por analogia.
+3. O não cumprimento pelo agravante do que dispõe o § 1º do artigo 1.021 do CPC/2015, que exige a impugnação especificada dos fundamentos da decisão agravada, impõe o não conhecimento do agravo interno. Incide ao caso a Súmula 182/STJ.
+4. Agravo interno não conhecido.
+(AgInt no REsp n. 1.930.731/PI, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 6/12/2021, DJe de 9/12/2021.)
+Na hipótese dos autos, observa-se que o recorrente não indicou ofensa ao art. 966 do CPC/2015 nem impugnou os fundamentos adotados pelo Tribunal de origem relativos à improcedência da ação rescisória, limitando-se a rediscutir o mérito da decisão rescindenda acerca dos critérios de fixação dos honorários advocatícios.
+Tal deficiência de fundamentação atrai a incidência, por analogia, das Súmulas 283 e 284 do STF, inviabilizando o conhecimento do recurso especial.
+Por fim, cabe destacar que "o não conhecimento do especial pelo conduto da alínea a do permissivo constitucional inviabiliza, por conseguinte, a análise do alegado dissídio pretoriano" (AgInt no REsp 1601154/PR, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 27/2/2018, DJe 6/4/2018).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista, nos autos, prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observado s, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
