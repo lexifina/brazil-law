@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de VANCLECIO DE JESUS FERREIRA contra acórdão do Tribunal de Justiça do Estado de Sergipe (HC n. 0028200-73.2025.8.25.0000).
+Consta que, em 26/6/2024, o paciente foi preso temporariamente no curso de investigação relativa à suposta prática de tentativa de homicídio qualificado (art. 121, § 2º, II e IV, c/c art. 14, II, do Código Penal), tendo sido posteriormente mantida a custódia cautelar em caráter preventivo no processo de competência do Júri. Em 11/11/2025, sobreveio sentença de pronúncia, confirmando a submissão do acusado ao Tribunal do Júri pelos referidos tipos penais.
+A defesa impetrou habeas corpus perante o Tribunal de Justiça, alegando excesso de prazo na formação da culpa, ausência de fundamentos idôneos para a prisão preventiva (art. 312 do CPP) e suficiência de medidas cautelares diversas da prisão, ressaltando condições pessoais favoráveis do paciente e a natureza tentada do delito.
+O Tribunal a quo denegou a ordem nos termso da seguinte ementa, em julgamento realizado em 18/12/2025, com publicação do acórdão e subsequente trânsito em julgado, nos termos dos registros de movimentação (e-STJ fls. 68/70).
+Interposto recurso em sentido estrito, a pronúncia foi mantida e o pedido de substituição da prisão preventiva por medidas cautelares não foi conhecida, sob o fundamento de inadequação da via eleita (e-STJ fls. 85/107).
+No presente writ, a defesa alega excesso de prazo na formação da culpa, destacando a demora na realização de perícia indireta e a juntada tardia do prontuário médico da vítima, apesar de se tratar de réu preso. Aduz que a prisão preventiva carece dos requisitos do art. 312 do CPP, que o paciente é primário, possui residência fixa e trabalha como "tirador de laranja", e que medidas cautelares do art. 319 do CPP seriam adequadas e suficientes. Sustenta, ainda, que o caso envolve crime tentado, que haveria desistência voluntária e que a vítima apresentou quadro clínico estável.
+Requer a concessão de liminar para expedição de alvará de soltura em favor do paciente; subsidiariamente, pleiteia a substituição da prisão por monitoração eletrônica e demais medidas cautelares do art. 319 do CPP.
+É o relatório. Decido.
+De plano, verfica-se que o mandamus foi deficitariamente instruído, pois não consta dos autos o inteiro do acórdão proferido no HC n. 0028200-73.2025.8.25.0000, peças essenciais ao exame da impetração.
+O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao recorrente.
+No mesmo sentido, esta Corte assentou que " e m sede de habeas corpus, é cediço que a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n. 772.017/SC, Relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 28/11/2022, D Je 2/12/2022).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Intimem-se.
+EMENTA
