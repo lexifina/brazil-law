@@ -1,0 +1,87 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, em favor de GUILHERME OLIMPIO CALESTINI, contra acórdão de apelação proferido pelo TJSP (fls. 225-236).
+O paciente foi condenado à pena de 1 ano e 4 meses de reclusão, em regime aberto, e ao pagamento de 6 dias-multa, por tentativa de furto qualificado (art. 155, §4º, II, c/c art. 14, II, ambos do Código Penal) . Interposta apelação, foi desprovida.
+Em síntese, a defesa pugna pelo afastamento da qualificadora da escalada, por inexistir informação nos autos a respeito da altura do muro da residência da vítima. Afirma que a execução do delito foi logo interrompida por populares e pela vítima, ensejando a aplicação da fração da tentativa no patamar máximo.
+Também alega que a negativa de substituição da pena privativa de liberdade por restritivas de direitos não se encontra devidamente fundamentada, destacando a primariedade e a fixação da pena-base no mínimo legal, em razão das circunstâncias judiciais totalmente favoráveis. Destaca, por fim, que o paciente terá condições de regeneração muito mais significativas fora do sistema penitenciário.
+Liminarmente e no mérito, pugna pela diminuição da pena imposta e sua substituição por restritivas de direitos.
+A liminar foi indeferida (fls. 241-242) e as informações foram prestadas (fls. 248-251).
+O Ministério Público Federal manifestou-se pelo não conhecimento da impetração, ficando assim ementado (fl. 257):
+PENAL. HABEAS CORPUS SUBSTITUTIVO. NÃO CABIMENTO. FURTO QUALIFICADO TENTADO. DOSIMETRIA DA PENA. QUALIFICADORA DA ESCALADA. AFASTAMENTO. AUSÊNCIA DE LAUDO A REVELAR A ALTURA DO MURO. IRRELEVÂNCIA, SE HÁ OUTRAS PROVAS. INCIDÊNCIA DA FRAÇÃO DE REDUÇÃO PELA TENTATIVA NO GRAU MÁXIMO. NECESSIDADE DE INCURSÃO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADEQUAÇÃO DA VIA ELEITA. AUSÊNCIA DE MANIFESTA ILEGALIDADE A PERMITIR A CONCESSÃO DA ORDEM DE OFÍCIO.
+- Parecer pelo não conhecimento do habeas corpus.
+É o relatório.
+DECIDO.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto, consoante previsto no art. 105, III, da CF, o recurso cabível contra acórdão que julga apelação, recurso em sentido estrito e agravo em execução é o recurso especial.
+Nada impede, contudo, a concessão de habeas corpus de ofício quando constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, nos termos do art. 654, §2º, do CPP, o que ora passa-se a examinar.
+A impetrante visa o afastamento da qualificadora da escalada, bem como a modulação da fração da tentativa para o patamar máximo. Pretende, ainda, a substituição da pena privativa de liberdade por restritivas de direitos.
+Sobre a controvérsia do afastamento da qualificadora da escalada do crime de furto, o Tribunal de origem consignou que (fl. 234):
+No tocante à qualificadora da escalada, sua incidência é inafastável. A ofendida narrou em juízo que o acusado ingressou no imóvel escalando a parede da garagem e passando pelo vão entre a parede e o teto. Tal versão foi corroborada pela prova técnica (laudo acostado às págs. 111/119), que constatou a presença de "sujidades na parede direita da garagem", concluindo que os vestígios materiais sugerem a transposição por escalada. Malgrado o laudo não tenha especificado a altura exata do obstáculo, o registro fotográfico realizado durante a perícia demonstra não se tratar de muro baixo. Assim, a prova produzida não deixa dúvidas de que o réu se valeu de via anormal e esforço incomum para ingressar na residência, sendo de rigor a manutenção da qualificadora.
+Como se observa, a incidência da qualificadora da escalada foi mantida com fundamento em elementos concretos extraídos da prova oral e pericial.
+Destacou que a prova produzida sob o crivo do contraditório, especialmente os depoimentos da vítima, aliados aos elementos documentais e fotográficos, revela-se idônea para comprovar o modo de execução do delito, evidenciando a necessidade de esforço incomum para acesso ao local, caracterizando a escalada.
+De acordo com o depoimento em juízo da vítima, o acusado teria ingressado no imóvel mediante escalada da parede da garagem e passagem por espaço existente entre a parede e o teto, versão corroborada pelo laudo pericial, que constatou vestígios compatíveis com a transposição do obstáculo. Além disso, apesar de não especificar a altura exata do muro, o registro fotográfico evidencia que o acesso ao imóvel demandou esforço incomum e utilização de meio anormal, constatando não se tratar de muro muito baixo, circunstâncias aptas a justificar a manutenção da qualificadora.
+Tal entendimento está em consonância com a jurisprudência desta Corte Superior, no sentido de que, embora a incidência das qualificadoras previstas no art. 155, § 4º, I e II, do Código Penal dependa, em regra, da realização de perícia técnica, admite-se, excepcionalmente, o seu reconhecimento com base em outros meios de prova idôneos, quando suficientemente demonstradas as circunstâncias qualificadoras. Vejamos:
+PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. FURTO TENTADO QUALIFICADO PELO CONCURSO DE PESSOAS E ROMPIMENTO DE OBSTÁCULO. ATENUANTE DA CONFISSÃO ESPONTÂNEA. IMPOSSIBILIDADE DE REDUÇÃO DA PENA ABAIXO DO MÍNIMO LEGAL. INCIDÊNCIA DA SÚMULA 231/STJ. QUALIFICADORA DE ROMPIMENTO DE OBSTÁCULO. PRESCINDIBILIDADE DE PERÍCIA TÉCNICA, EM CARÁTER EXCEPCIONAL, QUANDO CABALMENTE COMPROVADA POR OUTROS MEIOS DE PROVA. PRECEDENTES. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça de Santa Catarina que manteve a qualificadora de rompimento de obstáculo no crime de furto, sem a realização de exame pericial.
+2. Fato relevante. Os recorrentes foram condenados por furto qualificado, com base em prova oral e documental, sem a realização de laudo pericial para comprovar o rompimento de obstáculo.
+II. Questão em discussão
+3. A discussão consiste em saber se a qualificadora de rompimento de obstáculo pode ser mantida sem a realização de exame pericial quando comprovada cabalmente por prova oral e documental.
+4. A questão também envolve a possibilidade de redução da pena abaixo do mínimo legal em virtude da atenuante da confissão espontânea.
+III. Razões de decidir
+5. Embora a incidência das qualificadoras previstas no art. 155, § 4º, I e II, do Código Penal dependa, em regra, da confecção de laudo pericial, em situações excepcionais, é possível reconhecê-las, mesmo sem a produção da prova técnica, se cabalmente demonstrada a escalada ou o rompimento de obstáculo por meio de outras provas.
+6. No caso, a prova testemunhal e documental, aliada à confissão de um dos acusados, foi considerada suficiente para comprovar o rompimento de obstáculo.
+7. A decisão está em sintonia com a jurisprudência desta Corte, que admite a manutenção da qualificadora com base em robusto conjunto probatório.
+8. Quanto à atenuante da confissão espontânea, a jurisprudência consolidada na Súmula 231 do STJ impede a redução da pena abaixo do mínimo legal, de modo que o conhecimento do recurso, no ponto, esbarra no óbice da Súmula 83 do STJ.
+IV. Dispositivo e tese
+9. Recurso parcialmente conhecido e, nessa extensão, improvido.
+(REsp 2172321/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/06/2025, DJe de 30/06/2025; grifos acrescidos.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE FURTO. QUALIFICADORA. ESCALADA. EXAME PERICIAL. OUTROS MEIOS DE PROVA. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Corte estadual destacou que restou "inconteste a prova da escalada, precipuamente com as declarações dos policiais militares que relataram que ao chegar no local, um vigilante narrou ter visto o réu pulando o muro, e que o referido muro tinha cerca de três a quatro metros, além da própria confissão do réu sobre a qualificadora, na fase inquisitiva e em juízo, ao declarar ter entrado no estabelecimento escalando o muro para pegar os ferros" (fl. 106).
+Tal posicionamento está em consonância com a jurisprudência desta Corte que admite, excepcionalmente, a comprovação por outros meios da qualificadora da escalada (art. 155, § 4º, I, do Código Penal - CP), quando evidente a sua incidência. Precedentes.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 930.867/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 27/11/2024, DJEN de 03/12/2024.)
+Noutro ponto, concernente à fração de diminuição pela tentativa, nos termos da jurisprudência desta Corte, o critério de diminuição de pena do crime tentado deve corresponder à maior ou menor proximidade com a consumação.
+Ao estabelecer a fração de 1/3 pela tentativa, a Corte local, no julgamento da apelação, trouxe os seguintes argumentos (fl. 235):
+O crime não ultrapassou a esfera da tentativa, uma vez que o acusado não logrou consumar a subtração por circunstâncias alheias à sua vontade, notadamente a interferência causada pelos latidos do cão da família, seguida pela fiscalização do cunhado da vítima, da própria ofendida e do vigilante Wagner.
+Passa-se à dosimetria da pena.
+Na primeira fase, a pena-base foi fixada no mínimo legal de 02 (dois) anos de reclusão e 10 (dez) dias-multa, patamar que permaneceu inalterado na etapa intermediária ante a ausência de circunstâncias agravantes ou atenuantes. Na terceira fase, correta a aplicação da fração redutora mínima de 1/3 (um terço) pela tentativa, a qual deve ser mantida.
+Isso porque a análise do iter criminis revela que o réu praticou todas as condutas constitutivas do tipo penal em questão, aproximando-se consideravelmente da consumação.
+Verifica-se que o acusado já havia invadido o imóvel, mediante escalada, selecionado e separado os objetos que pretendia subtrair (bicicletas, micro-ondas e caixa de palmito) e estava posicionado junto ao portão, tentando abri-lo. Nota-se, portanto, que todos os atos de execução ao alcance do agente foram praticados, restando apenas a transposição do portão para que se operasse a inversão da posse (amotio) e a consequente consumação do delito. Diante dessa proximidade com o resultado buscado, a redução mínima mostrou-se adequada, resultando na pena definitiva de 01 (um) ano e 04 (quatro) meses de reclusão e 06 (seis) dias-multa, no valor unitário mínimo.
+ ..
+Na hipótese, verifica-se que a pena restou reduzida em 1/3, fundamentadamente, tendo em vista o iter criminis percorrido, uma vez que o acusado "praticou todas as condutas constitutivas do tipo penal em questão, aproximando-se consideravelmente da consumação", tendo invadido o imóvel, mediante escalada, selecionado e separado os objetos que pretendia subtrair (bicicletas, micro-ondas e caixa de palmito) e estava posicionado junto ao portão, tentando abri-lo, restando, apenas, a transposição do portão para consumar o crime.
+Tal circunstância demonstra que o paciente esteve muito próximo da consumação do delito, sendo impedido por circunstâncias alheias à sua vontade, inexistindo, pois, constrangimento ilegal a ser sanado, sendo imprópria a estreita via do writ à revisão do entendimento.
+A propósito, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO DE PEQUENO VALOR. ATIPICIDADE MATERIAL. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO CONFIGURADA. RÉU REINCIDENTE. HABITUALIDADE DELITIVA. CRIME IMPOSSÍVEL. NÃO CONFIGURADO. MAUS ANTECEDENTES E REINCIDÊNCIA. BIS IN IDEM. NÃO CONFIGURADO. REDUTORA EM 1/2 PELA TENTATIVA. OBSERVÂNCIA AO INTER CRIMINIS. PLEITO QUE DEMANDA REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. CIRCUSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. REGIME MAIS GRAVOSO. AGRAVO DESPROVIDO.
+1. A reincidência e a habitualidade delitiva têm sido compreendidas como obstáculos iniciais à tese da insignificância, ressalvada excepcional peculiaridade do caso penal.
+2. Com relação à teoria do crime impossível aventada pela defesa, não há o que ser reparado no acórdão recorrido, tendo em vista o Enunciado n. 567 da Súmula do Superior Tribunal de Justiça - STJ.
+3. A jurisprudência desta Corte prevê a possibilidade de reconhecimento concomitante de maus antecedentes e reincidência.
+4. O juiz a quo aplicou o percentual de 1/2 de diminuição da pena pela tentativa, de acordo com o iter criminis percorrido, modificar essa conclusão demanda o exame aprofundado de provas, providência incabível na via eleita.
+5. O reconhecimento de circunstâncias judiciais desfavoráveis e a reincidência justificam até mesmo a fixação do regime inicial fechado, quanto mais o semiaberto para réu que foi condenado à pena inferior a quatro anos de reclusão.
+6. Agravo Regimental desprovido.
+(AgRg no HC n. 788.738/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 22/5/2023, DJe de 24/5/2023.)
+HABEAS CORPUS. TENTATIVA. QUANTUM DE REDUÇÃO. ITER CRIMINIS PERCORRIDO. FUNDAMENTAÇÃO IDÔNEA. ORDEM DENEGADA.
+1. A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal. Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de sanção a ser aplicada ao condenado criminalmente, com vistas à prevenção e à reprovação do delito perpetrado.
+2. Em relação à tentativa, a fração de diminuição da sanção decorre da maior ou da menor proximidade da conduta ao resultado almejado.
+3. No caso, as instâncias ordinárias justificaram o índice escolhido pelo iter criminis percorrido pelos agentes, os quais desferiram, com um facão, "seis golpes na vítima, sendo um na cabeça e os demais no braço direito".
+4. Ademais, a alteração do entendimento a respeito da maior ou da menor proximidade da consumação do crime, adotado nas instâncias ordinárias, dependeria do reexame do conjunto fático-probatório dos autos, o que é vedado em habeas corpus.
+5. Ordem denegada.
+(HC n. 856.821/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/10/2023, DJe de 25/10/2023.)
+Por fim, o acórdão impugnado pontuou, no tocante à substituição da pena privativa de li berdade por restritivas de direitos (fl. 236):
+Todavia, mostra-se incabível a substituição da pena privativa de liberdade por restritivas de direitos ou a concessão do sursis, por ausência de preenchimento dos requisitos subjetivos (art. 44, III, e art. 77, II, do CP). Isso porque, embora o réu seja tecnicamente primário e a pena-base tenha ficado no mínimo, verifica-se que ele responde a processo por tráfico de drogas e cometeu o furto em comento enquanto gozava do benefício da liberdade provisória naquele feito e já havia sido condenado em primeiro grau de jurisdição. Tal circunstância revela que penas alternativas se revelam ineficazes e insuficientes e não se mostram socialmente recomendáveis.
+Como se pode observar, apesar de fixada pena inferior a 4 anos de reclusão para o paciente, as instâncias ordinárias apresentaram argumentos válidos que revelam não ser recomendável a substituição da pena privativa de liberdade por restritivas de direitos, evidenciada pelo fato de o delito ter sido praticado enquanto o réu se encontrava em liberdade provisória em processo por tráfico de drogas, com condenação em primeiro grau de jurisdição, conforme os ditames do art. 44, do Código Penal.
+Em caso análogo:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TENTATIVA DE FURTO QUALIFICADO. EXASPERAÇÃO DA PENA-BASE. POSSIBILIDADE. MAIOR DESVALOR DAS CIRCUNSTÂNCIAS DO CRIME. SUBSTITUIÇÃO DA PENA. IMPOSSIBILIDADE. NÃO PREENCHIMENTO DOS REQUISITOS. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+4. Não há se falar em substituição da pena privativa de liberdade por restritivas de direitos tendo em vista que o Tribunal local entendeu que a medida não era socialmente recomendável, tendo em vista que o acusado cometeu o crime quando estava em liberdade provisória pela prática de crime da mesma espécie, inclusive contra o mesmo estabelecimento comercial (CP, art. 44, III).
+5. Habeas corpus não conhecido
+(HC 412.691/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 28/11/2017, DJe 4/12/2017)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBRIAGUEZ AO VOLANTE. COMPROVAÇÃO. QUALQUER MEIO DE PROVA. CRIME DE PERIGO ABSTRATO. INCIDÊNCIA DA SÚMULA N. 83 DO STJ. SUBSTITUIÇÃO DA PENA. INVIABILIDADE. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consoante entendimento desta Corte, a comprovação da embriaguez ao volante passou a ser admitida por qualquer meio de prova (vídeo, testemunhos etc), como ocorreu no caso. Além disso, o crime previsto no art. 306 do CTB é de perigo abstrato. Incidência da Súmula n. 83 do STJ.
+2. O indeferimento da substituição da pena privativa de liberdade por restritivas de direitos, in casu, não é socialmente recomendável. Decisão de origem devidamente fundamentada. Ausência de violação do art. 44 do Código Penal.
+3. Ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 1.559.740/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 5/10/2021, DJe de 13/10/2021.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
