@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo JUÍZO FEDERAL DA 2ª VARA DE PALMAS - SJ/TO, figurando como suscitado o JUÍZO DE DIREITO DA 6ª VARA CÍVEL DE PALMAS - TO, sendo o incidente originado do Procedimento Comum Cível n. 0004831-98.2018.8.27.2729/TO.
+A demanda originária foi proposta perante o Juízo Estadual, que entendeu ser necessária a formação de litisconsórcio passivo necessário entre o INSS e a parte requerida (Banco Itaú Consignado S.A. e Banco PAN S. A.) e determinou a inclusão da autarquia previdenciária no feito, declinando de sua competência para a Justiça Federal (fls. 353-363).
+Os autos foram remetidos ao Juízo Federal, que suscitou o presente conflito negativo de competência afirmando, em suma, que " é  direito potestativo da parte autora escolher contra quem demandar. A Justiça Estadual, portanto, não pode substituir a vontade da parte demandante e forçar a inclusão de litisconsorte passivo facultativo contra o qual a parte não quis demandar" (fl. 367).
+O Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República Brasilino Pereira dos Santos, "oficia no sentido de seja declarada a competência do Juízo de Direito da 6ª Vara Cível de Palmas/TO, o suscitado" (fl. 939).
+É o relatório.
+Decido.
+Conheço do Conflito, porquanto se trata de controvérsia instaurada entre Juízes vinculados a Tribunais distintos, a teor do que preceitua o art. 105, inciso I, alínea d, da Constituição da República.
+Cuida-se, na origem, de ação de repetição de indébito cumulada com inexistência de relação jurídica e indenização por danos morais, na qual a parte autora sustenta a ilegalidade de descontos em sua aposentadoria, promovidos perante a parte requerida (Banco Itaú Consignado S.A. e Banco PAN S. A.).
+O Juízo Federal deixou assente que, na relação processual, "não figuram quaisquer das entidades ou interesses versados no artigo 109 da Constituição Federal, o que é suficiente para afastar a competência da Justiça Federal para o processo e julgamento deste processo" (fl. 367; grifo no original), bem como afirmou que, no caso dos autos, a parte autora escolheu demandar somente contra instituições financeiras, e que não pode a Justiça Estadual "substituir a vontade da parte demandante e forçar a inclusão de litisconsorte passivo facultativo contra o qual a parte não quis demandar" (fl. 367).
+Conforme estabelece a Súmula n. 150 do STJ, compete à Justiça Federal decidir acerca da existência de interesse jurídico que justifique a presença da União, suas autarquias ou empresas públicas no processo.
+Nesse contexto, tendo o Juízo Federal afirmado que o INSS não possui interesse jurídico na lide, deve ser declara a competência da Justiça Estadual para processar e julgar o feito.
+Destaco, por oportuno, o seguinte trecho do parecer ofertado pelo representante do Ministério Público Federal (fl. 939):
+O Juiz Federal entendeu como ilegítima a presença do INSS no polo passivo da demanda.
+Assim, como não figura nos autos, como parte, nenhuma das entidades dispostas no art. 109, I, "a", da Constituição Federal, compete à Justiça Estadual o julgamento da presente demanda.
+Portanto, tendo o Juiz Federal excluído do feito o INSS, os autos devem ser remetidos para serem processados e julgados pela Justiça comum estadual.
+A título ilustrativo:
+DIREITO PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO OBRIGACIONAL. DESCONTO INDEVIDO EM BENEFÍCIO. AÇÃO AJUIZADA EM FACE APENAS DA ASSOCIAÇÃO. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL. CONFLITO CONHECIDO.
+I. Caso em exame
+1. Conflito negativo de competência suscitado pelo Juízo Federal da 2ª Vara de Palmas - SJ/TO, tendo por suscitado o Juízo de Direito da 6ª Vara Cível de Palmas/TO.
+2. A demanda versa sobre a ilegalidade de desconto em benefício previdenciário, ajuizada exclusivamente contra uma entidade associativa perante a Justiça Comum Estadual. O Juízo Estadual declinou da competência para a Justiça Federal, entendendo que o INSS deveria integrar o polo passivo da demanda. O Juízo Federal suscitou o presente conflito negativo de competência.
+II. Questão em discussão
+3. A questão em discussão consiste em determinar qual o juízo competente para processar e julgar a ação declaratória de inexistência de relação obrigacional com repetição de indébito e indenização por danos morais, ajuizada exclusivamente contra uma entidade associativa.
+III. Razões de decidir
+4. A competência do Superior Tribunal de Justiça para processar e julgar conflitos de competência entre tribunais distintos está prevista no art. 105, I, d, da Constituição Federal.
+5. O Juiz natural é garantia constitucional das partes, conforme o art. 5º, LIII, da Constituição Federal, que assegura que ninguém será processado ou sentenciado senão pela autoridade competente.
+6. Nos termos do art. 66 do Código de Processo Civil, há conflito de competência quando dois ou mais juízes se declaram competentes ou incompetentes para processar e julgar a mesma demanda.
+7. A jurisprudência do STJ estabelece que cabe à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença de ente federal no processo (Súmula 150/STJ). Excluído o interesse de ente federal, os autos devem ser devolvidos ao Juízo Estadual, sem suscitação de conflito (Súmula 224/STJ).
+8. No caso, o Juízo Federal entendeu que não seria o caso de litisconsórcio passivo necessário, não cabendo ao juízo estadual interferir na vontade da parte autora de demandar somente contra a entidade associativa o que, por consequência, exclui o interesse jurídico de ente federal na lide e a competência da justiça federal.
+9. Deve ser respeitada a escolha da parte autora de demandar exclusivamente contra a entidade associativa, não sendo permitido ao Juízo Estadual forçar a inclusão do INSS no polo passivo.
+IV. Dispositivo
+10. Conflito conhecido para declarar competente o Juízo de Direito da 6ª Vara Cível de Palmas/TO para processar e julgar a demanda de origem.
+(CC n. 218.373/TO, relatora Ministra Daniela Teixeira, Segunda Seção, julgado em 17/3/2026, DJEN de 20/3/2026.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. CONFLITO DE COMPETÊNCIA. CUMPRIMENTO INDIVIDUAL DE SENTENÇA. CONDENAÇÃO DOS RÉUS AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS, DECORRENTES DA AUSÊNCIA DE ENTREGA DE DIPLOMA. DECISÃO DO JUÍZO FEDERAL, RECONHECENDO A INEXISTÊNCIA DE INTERESSE JURÍDICO DA UNIÃO (SÚMULA 150/STJ). PROVIMENTO NEGADO.
+1. O entendimento do Superior Tribunal de Justiça é o de que "a competência da Justiça Federal, nos termos do art. 109, I, da CF/88, é determinada por critério objetivo, em regra, em razão das pessoas que figuram no polo passivo da demanda (competência ratione personae), competindo ao Juízo federal decidir sobre o interesse da União no processo (Súmula 150 do STJ), não cabendo ao Juízo estadual, ao receber os autos que lhe foram restituídos em vista da exclusão do ente federal do feito, suscitar conflito de competência (Súmula 254 do STJ)" (CC 187.276/RS, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 12/4/2023, DJe de 18/4/2023).
+2. Consta do processo que os entes públicos citados na inicial (Estado e União Federal) foram excluídos do polo passivo da demanda por decisão do Juízo federal, ficando no polo passivo somente a Fundação Faculdade Vizinhança Vale do Iguaçu - VIZIVALI, pessoa jurídica de direito privado. Em se tratando de demanda em que não há interesse de nenhum dos entes previstos no art. 109, I da Constituição Federal, a competência é da Justiça estadual.
+3. Agravo interno a que se nega provimento.
+(AgInt no CC n. 208.460/PR, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 13/8/2025, DJEN de 19/8/2025.)
+Com a mesma orientação, as seguintes decisões monocráticas, em que foram apreciadas hipóteses análogas à presente: CC 218.611/TO, relatora Ministra Maria Thereza de Assis Moura, DJEN 22/1/2026; CC 220.655/GO, relator Ministro Francisco Falcão, DJEN 8/6/2026; CC 216.737/GO, relator Ministro Teodoro Silva Santos, DJEN 16/12/2025; e CC 215.319/GO, relator Ministro Gurgel de Faria, DJEN 5/11/2025.
+Ante o exposto, CONHEÇO do conflito para declarar a competência do JUÍZO DE DIREITO DA 6ª VARA CÍVEL DE PALMAS - TO, o suscitado.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO DECLARATÓRIA. DESCONTOS SUPOSTAMENTE INDEVIDOS EM BENEFÍCIO PREVIDENCIÁRIO. INTERESSE JURÍDICO DA AUTARQUIA PREVIDENCIÁRIA AFASTADO PELO JUÍZO FEDERAL. COMPETÊNCIA DO JUÍZO COMUM ESTADUAL. PRECEDENTES. CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO DE DIREITO DA 6ª VARA CÍVEL DE PALMAS - TO, O SUSCITADO.
