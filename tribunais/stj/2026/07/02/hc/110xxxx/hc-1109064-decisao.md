@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de MARCIO ROGERIO SANTOS DE OLIVEIRA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo em Execução n. 0029066-28.2025.8.26.0041).
+Depreende-se dos autos que ao paciente foi indeferido o pedido de indulto pelo Juízo das Execuções (e-STJ fls. 35/37).
+Interposto agravo em execução, o Tribunal de origem deu provimento ao recurso ministerial para cassar o benefício, consoante acórdão assim ementado (e-STJ fl. 15):
+AGRAVO EM EXECUÇÃO PENAL - INDULTO - DECRETO PRESIDENCIAL Nº 12.338/2024 - INSURGÊNCIA DO SENTENCIADO - REJEIÇÃO - Sentenciado que cumpre pena privativa de liberdade por crime contra o patrimônio cometido sem violência ou grave ameaça à pessoa - Caso em que ausente a comprovação da reparação do dano ou da incapacidade econômica do sentenciado - Exigência do art. 9º, inciso XV do Decreto Presidencial - Impossibilidade de se presumir a hipossuficiência do sentenciado - Decisão mantida - NEGARAM PROVIMENTO AO RECURSO.
+Daí o presente writ, no qual alega a defesa que o apenado deve ser considerado hipossuficiente, nos termos do art. 9º, inciso XV, c/c o art. 12, § 2º, ambos do Decreto n. 12.338/2024.
+Destaca que "pelo fato de o paciente estar contemplado na hipótese do art. 12, § 2º, inciso I, qual seja, ser representado pela Defensoria Pública, não cabe aqui a exigência da comprovação da figura do arrependimento posterior ou da atenuante prevista no art. 65, caput, III, alínea b, do CP" (e-STJ fl. 12).
+Requer, liminarmente e no mérito, a concessão do indulto natalino previsto no Decreto n. 12.338/2024.
+É o relatório.
+Decido.
+Inicialmente, imperioso ressaltar que o decreto de indulto deve ser interpretado restritivamente, sob pena de invasão do Poder Judiciário na competência exclusiva da Presidência da República, conforme art. 84, XII, da Constituição Federal.
+No caso, o indulto foi concedido pelo Magistrado de primeiro grau nos seguintes termos (e-STJ fls. 35/36, grifo nosso):
+As penas somadas totalizam de nove anos e três meses e o sentenciado apenas cumpriu preventivamente dois meses e treze dias.
+A defesa requereu a concessão do Indulto somente em relação ao crime patrimonial, com base no artigo 9º, XV do Decreto, que assim dispõe:
+"Art. 9º, inciso XV - a pena privativa de liberdade por crime contra o patrimônio, cometido sem violência ou grave ameaça a pessoa que, até 25 de dezembro de 2024, tenham reparado o dano conforme o disposto no art. 16 ou no art. 65, caput, inciso III, alínea "b", do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, excetuada a necessidade de reparação do dano nas hipóteses previstas no art. 12, § 2º, deste Decreto"."
+Ressalta-se que nos termos do artigo 7º do Decreto no qual se baseia o pedido as penas de infrações diversas devem somar-se para efeito da declaração de Indulto e Comutação.
+Deste modo, não há que se falar em concessão somente em relação a uma das penas, eis que todos os crimes foram cometidos antes da publicação do Decreto, e que as penas já foram unificadas.
+Os outros crimes praticados pelo(a) sentenciado(a) (art. 14 e art. 16 IV da Lei 10.826/03 e art. 311 §2º do CP) foram praticados sem violência ou grave ameaça, contudo não se tratam de crimes contra o patrimônio, de modo que incabível a concessão do Indulto pelo artigo 9º, XV, do Decreto.
+Assim, a análise deve ser realizada com base nos incisos I ou II, do artigo 9º, observando a pena unificada.
+ .. .
+Conforme se verifica de fls. 179, o(a) sentenciado(a) que foi condenado(a) a pena superior a oito, mas não superior a doze anos, por crime(s) sem violência ou grave ameaça a pessoa, 1/3 de sua pena até 25/12/2024, de modo que não preenche o requisito objetivo previsto no inciso II do artigo 9º, do do referido Decreto.
+Desse modo, considerando que o(a) sentenciado(a) não cumpriu os requisitos exigidos pelo Decreto, o pedido não prospera.
+O indeferimento do benefício foi mantido pelo Tribunal estadual. Colhe-se do acórdão recorrido (e-STJ fls. 16/17):
+Com efeito, conforme dispõe o art. 9º, inciso XV, do Decreto Presidencial nº 12.338/2024, o indulto somente alcança os condenados por crimes contra o patrimônio cometidos sem violência ou grave ameaça à pessoa que tenham reparado voluntariamente o dano até 25/12/2024, ou demonstrado incapacidade econômica para tanto, ressalvadas as exceções previstas no art. 12, § 2º, do mesmo diploma.
+E como se vê, existindo previsão expressa no Decreto Presidencial para que haja reparação dos danos em crimes patrimoniais praticados sem violência ou grave ameaça, e, por outro lado, não tendo se comprovado a reparação do dano causado e/ou a incapacidade econômica do agravante em fazê-lo, é inviável a concessão do benefício.
+No ponto, cabe ressaltar que a exceção contida no art. 12, § 2º, do Decreto Presidencial para além de se tratar de presunção relativa, pois não afasta a necessidade de comprovação de efetiva incapacidade econômica ou a intenção de reparar o dano, em estrita observância ao princípio da legalidade, é exceção que se aplica tão somente aos casos de condenação exclusiva à pena de multa, situação diversa da verificada nos autos.
+E eventual arbitramento do dia-multa no mínimo legal não implica presunção de hipossuficiência econômica, podendo apenas refletir a inexistência, à época da condenação, de elementos que indicassem capacidade econômica suficiente para justificar a fixação em patamar superior ao mínimo legal. Além disso, não há nos autos elementos concretos que demonstrem tratar-se de pessoa desempregada ou completamente desprovida de bens ou rendimentos.
+No contexto, o entendimento adotado pelo Magistrado de primeiro grau não destoa da orientação jurisprudencial do Superior Tribunal de Justiça, conforme se extrai do seguinte precedente:
+DIREITO PROCESSUAL PENAL. EXECUÇÃO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. INDULTO NATALINO E COMUTAÇÃO DE PENAS. DECRETO PRESIDENCIAL N. 12.338/2024. REQUISITO OBJETIVO DE FRAÇÃO MÍNIMA DE CUMPRIMENTO DE PENA. COMPETÊNCIA DO PRESIDENTE DA REPÚBLICA. IMPOSSIBILIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO NA VIA ESTREITA DO HABEAS CORPUS. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. O recurso. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus impetrado em favor de condenado em execução penal, no qual se buscava o reconhecimento do direito ao indulto natalino e à comutação de pena com fundamento no Decreto n. 12.338/2024.
+2. Fato relevante. Agravante cumpre pena total de 5 anos e 2 meses de reclusão, em regime semiaberto, pela prática de crimes de furto noturno qualificado pela destruição de obstáculos, furto qualificado pelo concurso de pessoas e direção de veículo automotor sem habilitação, delitos não impeditivos em si dos benefícios pleiteados, tendo o juízo da execução e o Tribunal de origem indeferido o indulto e a comutação por ausência de cumprimento da fração mínima da pena até 25 de dezembro de 2024.
+3. A decisão recorrida. O Tribunal de origem conheceu do agravo de execução penal e negou-lhe provimento.
+II. QUESTÃO EM DISCUSSÃO
+4. Há duas questões em discussão: (i) saber se, à luz do Decreto n. 12.338/2024, é juridicamente possível reconhecer o direito ao indulto natalino; e (ii) saber se a via do habeas corpus e de seu agravo regimental admite o reexame de matéria fático-probatória relativa ao percentual de pena efetivamente cumprida para fins de aferição de requisito objetivo para indulto e comutação.
+III. RAZÕES DE DECIDIR
+5. O indulto e a comutação de penas constituem expressão da competência exclusiva e discricionária do Presidente da República (CF, art. 84, XII), cabendo ao Poder Judiciário apenas controlar a constitucionalidade do decreto e verificar o efetivo preenchimento dos requisitos objetivos e subjetivos nele estabelecidos, sem interpretação extensiva de restrições ou criação de condicionantes não previstas na norma presidencial.
+6. O Decreto n. 12.338/2024 exige, para a concessão do indulto e da comutação, o cumprimento de, no mínimo, 1/5 da pena para apenados não reincidentes, consoante art. 9º, I, e art. 13, devendo-se observar a soma das penas impostas ao condenado, nos termos do art. 7º do mesmo Decreto.
+7. Afastou-se a incidência do art. 9º, XV, do Decreto n. 12.338/2024, por existir condenação por crime não patrimonial, o que impõe a aplicação da regra geral de fração mínima do art. 9º, I, cumulada com o art. 13, não podendo o art. 7º ser interpretado de forma a afastar requisito objetivo claro quanto ao tempo de cumprimento de pena.
+8. Conforme informações do SEEU, o agravante havia cumprido, até 25 de dezembro de 2024, apenas 8% da pena total, percentual inferior ao mínimo de 1/5 exigido pelo Decreto n. 12.338/2024, o que impede, objetivamente, a concessão tanto do indulto quanto da comutação.
+9. A alegação de hipossuficiência econômica e de representação pela Defensoria Pública, para fins de incidência das exceções à exigência de reparação do dano, não tem o condão de suprir o não atendimento do requisito objetivo temporal previsto no decreto presidencial.
+10. A via do habeas corpus - e de seu agravo regimental - é imprópria para o revolvimento do conjunto fático-probatório necessário à rediscussão do tempo efetivamente cumprido de pena e da forma de cálculo utilizada na execução, razão pela qual não se admite, no estreito âmbito do writ, o reexame detalhado dos dados de execução constantes do SEEU.
+11. Não se evidenciou flagrante ilegalidade, teratologia ou manifesta contrariedade ao texto do Decreto n. 12.338/2024 na decisão da instância de origem.
+IV. DISPOSITIVO E TESE
+12. Resultado do Julgamento: Negado provimento ao agravo regimental.
+(AgRg no HC n. 1.049.188/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/6/2026, DJEN de 10/6/2026.)
+Diante do exposto, denego o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
