@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo interposto por JOAQUIM ALVES DA COSTA e ANDERSON ALBERTH RODRIGUES JUNIOR contra decisão que obstou a subida de recurso especial. Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (10ª Câmara Cível) cuja ementa guarda os seguintes termos:
+APELAÇÃO CÍVEL - AÇÃO INDENIZATÓRIA - IRREGULARIDADE NA REPRESENTAÇÃO PROCESSUAL - PARTE NÃO OUTORGOU PROCURAÇÃO AO PATRONO - INEXISTÊNCIA DE PODERES DE REPRESENTAÇÃO - AUSÊNCIA DE PRESSUPOSTO DE VALIDADE DO PROCESSO - EXTINÇÃO DO FEITO.
+O advogado não pode postular nos autos sem instrumento de mandato, salvo nos casos excepcionados pela legislação processual, a teor do art. 104 do CPC.
+Se há fortes indícios de que a procuração constante nos autos não é válida, evidencia-se a ausência de pressuposto processual de validade, visto que o patrono pleiteia direito alheio sem poderes para tanto, devendo ser extinto o feito, nos termos do art. 485, inciso IV, do CPC.
+Rejeitados os embargos de declaração opostos (fl. 612).
+No recurso especial, a parte recorrente alega violação dos arts. 9, 10, 76, 104, § 2º, e 485, IV, do Código de Processo Civil, bem como do art. 653 do Código Civil.
+Sustenta, em síntese, que a extinção do processo de ofício, com base em indícios de invalidade da procuração, violou o contraditório e a primazia do julgamento de mérito (fls. 623-624). Argumenta que existe procuração pública válida juntada aos autos (fl. 15) e que o autor, quando intimado pessoalmente, confirmou ter conhecimento da ação (fl. 627).
+Aponta divergência jurisprudencial com arestos de outros tribunais e desta Corte (fls. 647-652).
+Sem contrarrazões ao recurso especial (fl. 679).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 680-683), o que ensejou a interposição do presente agravo.
+Sem contraminuta do agravo (fl. 702).
+É, no essencial, o relatório.
+1. Da admissibilidade do agravo
+Verifica-se que a parte agravante impugnou especificamente os fundamentos da decisão de inadmissibilidade, notadamente a incidência das Súmulas 283 e 284 do STF por analogia e da Súmula 7 do STJ (D8, fls. 690-694). No agravo, demonstrou que o recurso especial atacou o fundamento central do acórdão recorrido (a extinção por indícios de invalidade da procuração) e que a controvérsia é de direito, não demandando reexame de prova.
+Assim, presentes os pressupostos de admissibilidade, conheço do agravo e passo à análise do recurso especial.
+2. Da alegada violação dos arts. 9 e 10 do CPC e do art. 76 do CPC
+O acórdão recorrido, com base na certidão do oficial de justiça que registrou que o autor "informou que não conhece, nem tem conhecimento de quem sejam os advogados que o representa" (D3, fl. 572), extinguiu o processo de ofício por suposta ausência de pressuposto de validade, sem antes oportunizar contraditório sobre essa questão. Essa conduta viola frontalmente os arts. 9 e 10 do Código de Processo Civil, que vedam a prolação de decisão contra uma das partes sem que ela seja previamente ouvida e proíbem o juiz de decidir com base em fundamento a respeito do qual não se tenha dado às partes oportunidade de se manifestar, ainda que se trate de matéria sobre a qual deva decidir de ofício.
+A jurisprudência desta Corte é firme no sentido de que o princípio da não surpresa é garantia fundamental do processo civil, e sua inobservância acarreta a nulidade da decisão. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. SERVIDOR PÚBLICO. VIOLAÇÃO AO ART. 10 DO CPC/2015. DECISÃO COM BASE EM ARGUMENTO NÃO DEBATIDO PELAS PARTES. NECESSIDADE DE PRÉVIA INTIMAÇÃO. CONTRADITÓRIO PREVENTIVO. DECISÃO SURPRESA. NULIDADE. OCORRÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. A decisão de origem está em conformidade com o que tem decidido este Superior Tribunal: "Na hipótese há de ser aplicada tal orientação jurisprudencial tendo em vista que o art. 10 do novo Código de Processo Civil estabelece que o juiz não pode decidir, em grau algum de jurisdição, com base em fundamento a respeito do qual não se tenha dado às partes oportunidade de se manifestar, ainda que se trate de matéria sobre a qual deva decidir de ofício." (AgInt no AREsp n. 1.743.765/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 16/11/2021, DJe de 13/12/2021).
+2. Agravo interno não provido.
+(AgInt no REsp n. 2.102.097/RN, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+Além disso, o art. 76 do CPC estabelece que a irregularidade na representação processual é vício sanável, devendo o juiz suspender o processo e conceder prazo para sua correção, e não extinguir de imediato o feito.
+Nesse sentido:
+PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N.º 3/STJ. AÇÃO ANULATÓRIA. ICMS. ARTIGO 932, PARÁGRAFO ÚNICO, DO CPC/2015. VÍCIOS FORMAIS. PRECEDENTE DO STF. ARE 953.221/SP. AGRAVO INTERNO NÃO PROVIDO.
+1. "O prazo de cinco dias previsto no parágrafo único do art. 932 do CPC/2015  "Art. 932. Incumbe ao relator: .. III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente. .. Parágrafo único. Antes de considerar inadmissível o recurso, o relator concederá o prazo de 5 (cinco) dias ao recorrente para que seja sanado vício ou complementada a documentação exigível"  só se aplica aos casos em que seja necessário sanar vícios formais, como ausência de procuração ou de assinatura, e não à complementação da fundamentação" (ARE 953.221/SP, Relator Ministro Luiz Fux) 2. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 982.077/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 28/3/2017, DJe de 3/4/2017.)
+No caso, havia procuração pública juntada aos autos (fl. 15) e o autor, quando intimado pessoalmente, confirmou ter conhecimento da ação (fl. 627). Portanto, a regularidade da representação poderia ter sido sanada se houvesse sido oportunizado o contraditório. A extinção prematura violou também o princípio da primazia do julgamento de mérito, insculpido no art. 4º do CPC.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, cassando o acórdão recorrido e determinando o retorno dos autos ao Tribunal de Justiça do Estado de Minas Gerais para que prossiga no julgamento da apelação, observado o contraditório prévio sobre a questão da representação processual.
+Publique-se. Intimem-se.
+EMENTA
