@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual CONFIDENTE DISTRIBUIDORA DE COSMETICOS EIRELI se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO assim ementado (fls. 370/371):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA VISANDO AFASTAR O DEPÓSITO RELATIVO AO FUNDO DE ORÇAMENTO TEMPORÁRIO (FOT), INSTITUÍDO PELA LEI 8.645/2019. PRINCÍPIO DA PRESUNÇÃO DA CONSTITUCIONALIDADE DAS LEIS. Lei Estadual nº 8645/2019, que instituiu o FOT (Fundo Orçamentário Temporário), condicionando a fruição de benefícios e incentivos fiscais já concedidos ao depósito do percentual de 10% aplicado sobre a diferença entre o valor do ICMS calculado, com ou sem a fruição de benefício ou incentivo fiscal, o que não caracteriza a criação de novo tributo, pois a obrigação já se mostrava vigente desde a edição da Lei nº 7.428/16. Liminar para a suspensão da cobrança negada em sede de ADI ajuizada sobre o tema. Isonomia e anterioridade anual não violadas. Acerto da sentença. Recurso desprovido.
+Os embargos de declaração opostos foram rejeitados (fls. 427/438).
+Nas razões de seu recurso especial, a parte recorrente alega que houve violação aos arts. 85, § 3º, 90, e 1.022, II, do Código de Processo Civil (CPC), assim como ao art. 178 do Código Tributário Nacional (CTN).
+Dispõe que o acórdão recorrido dissentiu do entendimento firmado na jurisprudência do Supremo Tribunal Federal (STF) no tocante ao fato de a isenção tributária concedida por prazo certo e sob condição onerosa gerar direito adquirido ao contribuinte beneficiado, incidindo a Súmula 544/STF (fl. 464 e fls. 469/471).
+Argumenta que assumiu obrigações para o gozo dos benefícios outorgados, e que a Lei estadual 7.428/2016 fere o princípio constitucional da segurança jurídica (fl. 466).
+Defende que "o Estado não pode contrariar a promessa fiscal conferida à Recorrente, o direito adquirido tem o claro efeito de impor ao poder Público o dever de cumprir o acordado" (fl. 466), e, em relação ao art. 178 do CTN, assevera que "a intenção do legislador foi conferir o maior grau possível de Segurança Jurídica aos contribuintes especificados pelos dispositivos, excluindo-os dos efeitos de qualquer supressão dos seus benefícios" (fl. 467).
+Alega que "houve omissão em relação ao fato do Supremo Tribunal Federal já ter consolidado entendimento de que a isenção tributária concedida por prazo certo e sob condição onerosa gera direito adquirido ao contribuinte (STF - AI 861261 AgR, STF - RE 582926 AgR)" (fl. 466).
+No mesmo sentido, alega que o Tribunal de origem "não analisou a aplicação da Súmula 544/STF, apesar da sua arguição em apelação" (fl. 468).
+Afirma, por fim, que "as  suas  operações de venda  ..  não são alcançadas pela obrigação de recolher o FEEF, visto expressa exclusão da legislação e, ainda, conforme assevera a citada Solução de Consulta Fiscal nº 082/2019" (fl. 471).
+Requer que seja dado provimento ao recurso.
+A parte adversa apresentou contrarrazões (fls. 552/572).
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, tendo o Tribunal de origem apreciado fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+A parte recorrente sustenta omissão da instância ordinária no tocante a estas questões: (a) "em relação ao fato do Supremo Tribunal Federal já ter consolidado entendimento de que a isenção tributária concedida por prazo certo e sob condição onerosa gera direito adquirido ao contribuinte (STF - AI 861261 AgR, STF - RE 582926 AgR)" (fl. 466); e (b) "a aplicação da Súmula 544/STF, apesar da sua arguição em apelação" (fl. 468).
+Todavia, conforme se depreende da análise do acórdão recorrido, o Tribunal de origem, de modo expresso, fundamentado e coeso, enfrentou cada um dos pontos, tendo concluído que:
+(1) não houvera supressão ou modificação arbitrária das condições pré-estabelecidas para fruição do benefício fiscal anteriormente concedido, sendo inaplicáveis, na espécie, o art. 178 do CTN e a Súmula 544 do STF  por conseguinte, não haveria violação a direito adquirido;
+(2) a Lei 8.645/2019 não instituíra novo tributo, não haveria descontinuidade normativa em relação à Lei 7.428/2016, e, portanto, inexistiria violação à anterioridade anual;
+(3) deveria prevalecer a presunção de constitucionalidade das leis, especialmente à luz do julgamento da ADI 5.635 pelo Supremo Tribunal Federal; e
+(5) diante do julgamento mencionado, não se vislumbraria incompatibilidade com a legislação tributária, nem com as normas constitucionais, ressaltando que não houve criação de novo imposto nem redução do benefício fiscal.
+Por ser oportuno, transcrevo o seguinte trecho, extraído do acórdão que julgou os embargos de declaração opostos (fls. 432/435):
+Constou do aresto, quanto à alegação de redução do benefício fiscal concedido por prazo e sob condições:
+" A Lei nº 7428/2016, que criou o FEEF (Fundo Especial de Equilíbrio Fiscal), foi revogada pela Lei Estadual nº 8645/2019, instituidora do Fundo Orçamentário Temporário (FOT), sendo aquele sucedido por este.
+Trata-se de norma que condiciona a fruição de benefícios e incentivos fiscais já concedidos ao depósito de percentual de 10% aplicado sobre a diferença entre o valor do ICMS calculado com e sem a fruição de benefício ou incentivo fiscal.
+Assim, a Lei 8645/2019 não instituiu novo tributo, trazendo, na sua essência, a mesma obrigação já vigente desde a edição da Lei nº 7.428/16, qual seja, a obrigação das empresas beneficiadas por qualquer isenção ou incentivo fiscal efetuarem, provisoriamente, enquanto vigorar o Regime de Recuperação Fiscal - RRF, um depósito de quantia equivalente a 10% da diferença entre os valores do ICMS calculado com e sem a utilização do benefício fiscal.
+Veja-se que, inclusive, não há descontinuidade normativa, pelo que ausente ofensa ao princípio da anterioridade anual. É certo que a Lei 7.428/2016 é objeto de representação de inconstitucionalidade (..)
+Não há que se cogitar a materialização de uma conduta tendente à supressão ou modificação arbitrária das condições pré-estabelecidas para a fruição do benefício fiscal anteriormente concedido, restando inaplicável, na espécie, as disposições do art. 178 do CTN e da Súmula n. 544 do e. STF.
+Por conseguinte, não há que se falar em violação a direito adquirido.
+Destaque-se que o fato gerador do depósito em favor do Fundo Orçamentário Temporário (FOT) é o ICMS, tendo ele caráter genérico, visando o equilíbrio das finanças públicas do Estado."
+Como visto, a análise foi feita.
+Mas não só. O entendimento esposado é no sentido de que deve prevalecer a presunção de constitucionalidade das leis.
+Aqui, importa consignar que a ADIN nº 5.635 foi recentemente julgada pelo STF parcialmente procedente, e fixada a seguinte Tese de julgamento, conforme informado pela Presidência deste Tribunal de Justiça, em 01/11/23:
+"São constitucionais as Leis nºs 7.428/2016 e 8.645/2019, ambas do Estado do Rio de Janeiro, que instituíram o Fundo Estadual de Equilíbrio Fiscal - FEEF e, posteriormente, o Fundo Orçamentário Temporário - FOT, fundos atípicos cujas receitas não estão vinculadas a um programa governamental específico e detalhado".
+Assim, e diante do julgamento mencionado, não se vislumbra incompatibilidade com a legislação tributária, bem como com as normas constitucionais, não havendo que se falar em criação de novo imposto nem em redução do benefício fiscal.
+Descabe a análise da forma de apuração do FEET.
+É ele constitucional e já foi revogado para dar lugar ao FOT, daí porque não há omissão alguma.
+É importante ressaltar que o contraponto aos argumentos das partes não demanda a citação literal de suas palavras ou dos mesmos dispositivos legais. É suficiente que haja fundamentação fática e jurídica coerente e adstrita ao que se debate nos autos.
+O recurso especial tem como uma de suas características a fundamentação vinculada, sendo imprescindível que em suas razões sejam apontados os dispositivos de lei que teriam sido violados pelo acórdão recorrido, com a indicação, de forma clara e direta, da interpretação que se entende deva ser dada à norma, não bastando a mera citação dos dispositivos de lei.
+Neste caso, no que se refere à alegação de violação dos arts. 85, § 3º, 90, do CPC, a parte recorrente não fez sua indicação acompanhada de argumentação específica sobre o modo como foram violados, limitando-se a mencioná-los na fl. 463. A ausência de demonstração clara da suposta violação impede a exata compreensão da controvérsia, razão pela qual incide, por analogia, a Súmula 284 do Supremo Tribunal Federal, não sendo possível conhecer do recurso quanto ao ponto.
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. ALEGAÇÃO DE ERRO NOS CÁLCULOS DE CORREÇÃO MONETÁRIA E JUROS MORATÓRIOS. ADEQUAÇÃO DA MEMÓRIA DE CÁLCULO AO TÍTULO JUDICIAL EXECUTIVO. SÚMULA 7/STJ. REEXAME DE MATÉRIA FÁTICA. SÚMULA 284/STF. DEFICIÊNCIA NA FUNDAMENTAÇÃO.
+ ..
+3. O recorrente não enfrentou especificamente os fundamentos da decisão agravada, limitando-se a apresentar argumentação genérica sobre a suposta violação legal, o que atrai a incidência da Súmula 284 do Supremo Tribunal Federal, por analogia, em razão da deficiência na fundamentação do Recurso.
+4. A jurisprudência do STJ é pacífica no sentido de ser inadmissível o Recurso Especial quando o agravante não demonstra de forma adequada e específica o equívoco na decisão que não admitiu o Recurso, conforme princípio da dialeticidade.
+ ..
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.409.038/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 14/3/2024, DJe de 7/5/2024, sem destaque no original.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. CONSELHO PROFISSIONAL. ANUIDADE. REGULAR CONSTITUIÇÃO DO CRÉDITO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 07/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+ ..
+II - Revela-se deficiente a argumentação quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+ ..
+VII - Agravo Interno improvido.
+(AgInt no REsp n. 1.921.863/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 22/3/2021, DJe de 25/3/2021, sem destaque no original.)
+Quanto ao cerne da insurgência recursal, constato , da leitura do acórdão recorrido, que o mérito recursal foi decidido à luz da interpretação das Leis estaduais 7.428/2016 e 8.645/2019.
+A alteração do julgado, conforme pretendido nas razões recursais, demandaria, necessariamente, a análise da legislação local, providência vedada em recurso especial.
+Desse modo, aplico à espécie, por analogia, o enunciado 280 da Súmula do Supremo Tribunal Federal ("Por ofensa ao direito local não cabe recurso extraordinário").
+Nesse mesmo sentido, tratando de casos análogos ao presente, as seguintes decisões monocráticas proferidas nesta Corte: AREsp 2.813.333/RJ, relator Ministro Paulo Sérgio Domingues, DJEN 17/6/2026; AREsp 3.118.276/RJ, relator Ministro Gurgel de Faria, DJEN 5/5/2026; REsp 2.266.403/RJ, relatora Ministra Regina Helena Costa, DJEN 15/4/2026; AREsp 2.893.043/RJ, relator Ministro Marco Aurélio Bellizze, DJEN 6/3/2026.
+Por fim, não compete a esta Corte conhecer de dissídio jurisprudencial com acórdão do Supremo Tribunal Federal (STF) porque sua competência, conforme estabelecido no art. 105, III, da Constituição Federal, limita-se ao julgamento de recursos especiais que envolvam interpretação divergente de lei federal. O STF, por sua vez, é responsável por interpretar a Constituição da República e decidir sobre questões constitucionais. Assim, o Superior Tribunal de Justiça não tem jurisdição para revisar ou confrontar decisões do STF, pois as competências de ambos os tribunais não se confundem.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, a ele negar provimento.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor já arbitrado dos honorários sucumbenciais, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo, bem como os termos do art. 98, § 3º, desse diploma legal.
+Publique-se. Intimem-se.
+ EMENTA
