@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, inciso III, al ínea a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, que julgou a Apelação Cível n. 5001297-87.2022.4.03.6103, assim ementado:
+MANDADO DE SEGURANÇA. COMPENSAÇÃO DO MONTANTE INTEGRAL DE INDÉBITOS TRIBUTÁRIOS ORIUNDO DE DECISÃO JUDICIAL TRANSITADA EM JULGADO. ART. 106 DA IN RFB Nº 2.055/21. DELIMITAÇÃO TEMPORAL QUE EXTRAPOLOU O QUANTO PREVISTO NA LEI 9.430/96. OFENSA AO PRINCÍPIO DA LEGALIDADE.
+Opostos embargos de declaração, foram rejeitados.
+A parte recorrente alega violação dos arts. 489 e 1.022 do Código de Processo Civil - CPC/2015, do art. 1º do Decreto n. 20.910/1932, dos arts. 168 e 170 do Código Tributário Nacional - CTN e do art. 74, §§ 1º e 14, da Lei n. 9.430/199, sustentando, em síntese: a) ser o trânsito em julgado da decisão judicial o termo inicial do prazo de prescrição para o contribuinte proceder à compensação de indébito tributário reconhecido em juízo; e b) a suspensão do prazo prescricional dessa pretensão somente pelo pedido de habilitação dos créditos reconhecidos nos respectivos títulos executivos judiciais (fls. 573-607).
+Contrarrazões apresentadas por MUBEA DO BRASIL LTDA., nas quais pede, preliminarmente, o não conhecimento do recurso e, no mérito, seu desprovimento (fls. 609-618).
+Parecer do Ministério Público Federal pelo provimento do recurso especial (fls. 644-649).
+É o relatório.
+Decido.
+A matéria d ebatida - definir se o prazo prescricional de 5 (cinco) anos para o exercício do direito de compensação de créditos tributários reconhecidos judicialmente, previsto no art. 168 do Código Tributário Nacional - CTN, aplica-se ao início do procedimento compensatório ou à sua integral conclusão, bem como aferir os efeitos do pedido administrativo de habilitação de crédito na contagem desse prazo - será julgada pelo Superior Tribunal de Justiça, no rito dos recursos repetitivos (Tema n. 1.428 do STJ).
+Há determinação de suspensão do julgamento de todos os processos em primeira e segunda instâncias envolvendo a matéria, inclusive no Superior Tribunal de Justiça (art. 1.037, inciso II, do CPC/2015 e art. 256-L do RISTJ).
+E, por medida de economia processual e para evitar decisões dissonantes os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, disciplinado no art. 1.040 do CPC/2015.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, o recurso especial deverá ser encaminhado para esta Corte Superior para que aqui possam ser analisadas as questões jurídicas que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, JULGO PREJUDICADA a análise do recurso especial e, com fundamento no art. 256-L, inciso I, do Regimento Interno do Superior Tribunal de Justiça, DETERMINO a devolução dos autos ao Tribunal Regional Federal da 3ª Região, com a respectiva baixa, para que, após a publicação dos acórdãos dos recursos representativos da controvérsia (Tema n. 1.428 do STJ), sejam observadas as normas dos arts. 1.040 e 1.041 do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. AFETAÇÃO DA CONTROVÉRSIA AO REGIME DOS RECURSOS REPETITIVOS (TEMA N. 1.428 DO STJ). DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
