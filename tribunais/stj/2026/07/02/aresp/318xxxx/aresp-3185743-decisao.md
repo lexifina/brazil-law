@@ -1,0 +1,58 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC), interposto por JULIANA BEATRIZ DE CARVALHO, contra decisão que não admitiu recurso especial.
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafia acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado (fl. 433, e-STJ):
+EMENTA: V.V. APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. INSTITUIÇÃO FINANCEIRA. RESPONSABILIDADE OBJETIVA. FALHA NA PRESTAÇÃO DOS SERVIÇOS. FRAUDE DE TERCEIRO. GOLPE DA FALSA CENTRAL DE ATENDIMENTO. CULPA EXCLUSIVA DA VÍTIMA. SENTENÇA REFORMADA.
+1. As instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias, nos termos da Súmula nº 479 do STJ.
+2. Verificando-se que a autora, em contato com falsários que se passaram por funcionários de uma da instituição financeira demandada, promoveu transferências de valores para conta mantida junto à ré e, em seguida, para terceiras pessoas, sem que a instituição financeira tivesse tomado parte da fraude, evidencia-se a culpa exclusiva da vítima em razão de ato de terceiro (fortuito externo), afastando a responsabilidade da ré.
+3. Recurso provido.
+v.v. APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO - PRELIMINAR - ILEGITIMIDADE PASSIVA - REJEIÇÃO - GOLPE DA FALSA CENTRAL DE ATENDIMENTO - FORTUITO INTERNO - RESPONSABILIDADE OBJETIVA - RESTITUIÇÃO DE VALORES - RECURSO DESPROVIDO. As instituições financeiras possuem legitimidade passiva para responder por fraudes e delitos praticados por terceiros no âmbito de operações bancárias que as beneficiam. As instituições financeiras são responsáveis pelos danos decorrentes de operações fraudulentas, a teor do art. 14, §3º, II, do CDC, e da Súmula 479 do Superior Tribunal de Justiça, por se tratarem de fortuito interno, não havendo que se falar em culpa concorrente.
+Nas razões de recurso especial (fls. 455-465, e-STJ), aponta a parte recorrente ofensa aos artigos 14 do Código de Defesa do Consumidor; 6º, 44 e 46 da Lei 13.709/2018 (LGPD).
+Sustenta, em síntese, responsabilidade objetiva da instituição financeira por fortuito interno em fraude bancária, decorrente de falha de segurança e tratamento irregular de dados pessoais (LGPD) e diante da inexistência de culpa da consumidora, que apenas realizou transferências via PIX entre contas de sua própria titularidade.
+Contrarrazões apresentadas às fls. 469-475, e-STJ.
+Em juízo de admissibilidade (fls. 478-479, e-STJ), negou-se o processamento do recurso especial, dando ensejo ao presente agravo (fls. 482-487, e-STJ).
+Sem contraminuta (fl. 491, e-STJ).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Cinge-se a controvérsia acerca da alegada violação aos artigos artigos 14 do Código de Defesa do Consumidor; 6º, 44 e 46 da Lei 13.709/2018 (LGPD), ao argumento de que a instituição financeira responde objetivamente pelos danos decorrentes de falhas na prestação do serviço e tratamento irregular de dados pessoais (LGPD) e diante da inexistência de culpa da consumidora, que apenas realizou transferências via PIX entre contas de sua própria titularidade.
+Sobre o tema, a jurisprudência desta Corte, em julgamento de recurso especial representativo de controvérsia, firmou entendimento de que a instituição bancária responde objetivamente pelos danos causados em razão da deficiência na prestação do serviço, inclusive quando praticada por terceiros.
+Desse modo:
+"RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. JULGAMENTO PELA SISTEMÁTICA DO ART. 543-C DO CPC. RESPONSABILIDADE CIVIL. INSTITUIÇÕES BANCÁRIAS. DANOS CAUSADOS POR FRAUDES E DELITOS PRATICADOS POR TERCEIROS. RESPONSABILIDADE OBJETIVA. FORTUITO INTERNO. RISCO DO EMPREENDIMENTO. 1. Para efeitos do art. 543-C do CPC: As instituições bancárias respondem objetivamente pelos danos causados por fraudes ou delitos praticados por terceiros - como, por exemplo, abertura de conta-corrente ou recebimento de empréstimos mediante fraude ou utilização de documentos falsos -, porquanto tal responsabilidade decorre do risco do empreendimento, caracterizando-se como fortuito interno. 2. Recurso especial provido" (REsp 1.199.782/PR, Rel. Ministro LUIS FELIPE SALOMÃO, Segunda Seção, julgado em 24/8/2011, DJe 12/9/2011)
+No entanto, na hipótese em exame, com base nos elementos de prova dos autos, concluiu o Tribunal de origem que os fatos descritos no curso processual excluem a responsabilidade civil da instituição financeira demandada, diante da culpa exclusiva da vítima.
+Acrescentou que a consolidação da fraude se deu em razão do comportamento da própria autora que, de forma descuidada, realizou transações financeira incomuns ao homem médio.
+A esse respeito, extrai-se trecho do acórdão (fls. 440-443, e-STJ):
+Contudo, não se tratando da teoria do risco integral, admitem-se hipóteses de excludente de responsabilidade por eliminação do nexo causal, notadamente, a inexistência do defeito do serviço e a culpa exclusiva do consumidor ou de terceiros. É o que se extrai do § 3º do supramencionado art. 14 do CDC, in verbis:
+ ..
+Na hipótese em apreço, vê-se que a autora/apelada afirmou que foi vítima de golpe praticado por estelionatários em março de 2023, quando, após receber telefonema de uma pessoa identificada como funcionária da apelante, foi induzida a transferir valores de sua conta do SICOOB para o NUBANK e, posteriormente, sem entender, foram realizadas diversas transferências para contas de terceiros, além de estar sendo realizada uma cobrança parcela em seu cartão de crédito..
+ ..
+Diante dessa narrativa e dos demais documentos colacionados aos autos, é fácil inferir que as transferências de valores se concretizaram por culpa exclusiva da vítima em razão de ato de terceiro.
+Com efeito, em que pese a alegação deduzida na peça inicial de que a ré (Nubank) atuou culposamente, verifica-se que a própria autora, de forma ativa e voluntária, transferiu os valores para a conta bancária indicada pelos falsários (doc. ordem 09).
+O contexto dos autos revela que a demandante foi descuidada ao receber uma ligação de contato com o número de telefone desconhecido e ao seguir orientações dadas por pessoas estranhas, executando transações financeiras sem adotar as cautelas exigidas do homem comum para evitar a fraude, conhecida como "golpe da falsa Central de Atendimento", que tem sido amplamente divulgada nos meios de comunicação.
+ ..
+Assim, o contexto dos autos revela claramente que a recorrente foi vítima de fraude praticada por terceiros estelionatários e, portanto, ensejador de fortuito externo que afasta a responsabilidade civil da apelante de indenizá-la por danos material e moral.  grifou-se
+Assim sendo, para derruir as premissas sobre a quais se baseou a Corte de origem, a fim de se reconhecer a responsabilidade da instituição financeira, ante a não comprovação de falha na prestação de serviço bancário, já assentado pelo tribunal de origem ter havido culpa exclusiva do consumidor, seria necessário o revolvimento dos elementos de prova constantes dos autos, hipótese vedada na presente esfera recursal, ante o óbice contido na Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO CUMULADA COM REPETIÇÃO DE INDÉBITO E PEDIDO DE DANOS MORAIS. RESPONSABILIDADE CIVIL. INSTITUIÇÕES BANCÁRIAS. DELITO PRATICADO POR TERCEIRO. AUSÊNCIA DE FALHA NA PRESTAÇÃO DO SERVIÇO. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Tema Repetitivo n. 466: "As instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias." (REsp 1.197.929/PR, Rel. Ministro Luis Felipe Salomão, Segunda Seção, julgado em 24/08/2011, DJe de 12/09/2011).
+2. No caso, o Tribunal de Justiça, com arrimo no acervo fático-probatório carreado aos autos, concluiu que não ficou caracterizada responsabilidade da instituição financeira ora agravada, assentando que a fraude fora praticada exclusivamente por culpa de terceiro. A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial, conforme dispõe a Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.792.999/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 7/6/2021, DJe de 1/7/2021.)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DANOS MATERIAIS. INDENIZAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PROVA PERICIAL. DESNECESSIDADE. INDEFERIMENTO. CERCEAMENTO DE DEFESA. SÚMULA Nº 7/STJ. FALHA DE SERVIÇO. FRAUDE BANCÁRIA. INSTITUIÇÃO FINANCEIRA. RESPONSABILIDADE OBJETIVA. EXCLUSÃO. CONJUNTO FÁTICO-PROBATÓRIO E CLÁUSULAS CONTRATUAIS. REEXAME. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ.
+(..)
+3. Na hipótese, rever as conclusões do tribunal quanto à desnecessidade da realização de prova pericial demandaria análise de matéria fático-probatória, procedimento inviável em recurso especial, nos termos da Súmula nº 7/STJ.
+4. A Segunda Seção do Superior Tribunal de Justiça consolidou entendimento no sentido de que as instituições bancárias respondem objetivamente pelos danos causados por fraudes praticadas por terceiros, pois tal responsabilidade decorre do risco do empreendimento que se caracteriza como fortuito interno.
+5. O acolhimento da tese recursal, no sentido de que não houve falha de serviço nem a prática de ato ilícito pelo banco, requer o reexame das provas e cláusulas contratuais, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.670.026/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 6/6/2022, DJe de 10/6/2022.)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE INDENIZAÇÃO POR DANO MATERIAL. FALHA NA PRESTAÇÃO DE SERVIÇO BANCÁRIO. RESPONSABILIDADE OBJETIVA. NÃO CONFIGURAÇÃO. CULPA EXCLUSIVA DA VÍTIMA E DE TERCEIRO. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+(..)
+2. "Tratando-se de consumidor direto ou por equiparação, a responsabilidade da instituição financeira por fraudes praticadas por terceiros, das quais resultam danos aos consumidores, é objetiva e somente pode ser afastada pelas excludentes previstas no CDC, como por exemplo, culpa exclusiva da vítima ou de terceiro" (REsp 1.199.782/PR, Rel. Ministro Luis Felipe Salomão, SEGUNDA SEÇÃO, julgado em 24/08/2011, DJe de 12/09/2011).
+3. Na hipótese, o Tribunal de origem entendeu que não houve falha na prestação do serviço bancário, ficando evidenciada a culpa exclusiva da vítima e de terceiro na realização de depósito fraudulento em terminal de autoatendimento. A modificação de tal entendimento demandaria o revolvimento do conjunto fático-probatório dos autos, o que é vedado nesta instância especial, a teor do disposto na Súmula 7 do STJ.
+4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.660.099/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/8/2020, DJe de 26/8/2020.)  grifou-se
+Incide, no ponto, o óbice da Súmula 7/STJ.
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não se conhecer do recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
