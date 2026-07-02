@@ -1,0 +1,87 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de TIAGO BARBOSA DE MOURA, contra acórdão que negou provimento ao agravo em execução interposto pela defesa.
+Consta dos autos que o paciente requereu a remição da pena por estudos, tendo o juízo das execuções indeferido o pedido sob o fundamento de que o sentenciado já havia concluído o ensino médio antes do ingresso no sistema prisional.
+Interposto agravo em execução, o Tribunal de origem negou-lhe provimento.
+No presente recurso, a defesa alega constrangimento ilegal, sob o argumento de que a prévia conclusão do ensino médio não impede a remição pela aprovação no ENCCEJA/ENEM, inexistindo bis in idem, por tratar-se de esforço autônomo voltado à reintegração social.
+Requer, liminarmente e no mérito, a concessão da ordem para reconhecer a integralidade dos dias de pena remidos indeferidos pelo acórdão impugnado.
+Indeferida a liminar, prestadas as informações, manifestou-se o MPF pela concessão da ordem de ofício.
+É o relatório.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, III, da CF/88, o recurso cabível contra o agravo em execução é o recurso especial.
+Nada impede, contudo, constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, a concessão de habeas corpus de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal, o que ora passa-se a examinar.
+Consta dos autos que indeferido o pedido de remição das penas, o paciente interpôs agravo em execução perante a Corte local, a qual manteve a decisão com base nos seguintes fundamentos (fls. 17-25):
+ ..
+A remição fundada na aprovação em exame nacional pressupõe que o estudo realizado durante a execução se refira à educação básica e que o exame funcione como instrumento de certificação ou conclusão de etapa escolar até então não superada.
+Quando o apenado já é portador de diploma de ensino médio, a posterior realização do ENEM, em regra, não se vincula à conclusão da educação básica no ambiente prisional, mas à mera utilização do exame como prova vestibular ou avaliativa de saberes anteriormente consolidados.
+Conforme se extrai dos autos, o agravante já possuía ensino médio completo em data anterior ao fato que gerou a execução, não havendo notícia de que estivesse cursando novamente essa etapa de ensino ou buscando certificação de nível escolar que não detinha.
+A realização do ENEM, embora revele digna disposição de se submeter à avaliação intelectual, não se encaixa na moldura normativa e jurisprudencial que rege a remição por estudo voltada à educação básica, justamente porque não representa avanço escolar objetivo, mas tão somente reiteração de conhecimento já comprovado por diploma anterior.
+ ..
+Ademais, ainda que fosse permitido o reconhecimento da benesse aos executados já portadores de diploma de ensino médio, não é possível a incidência da remição parcial.
+Com efeito, da documentação acostada aos autos, não se extrai notícia de aprovação integral do executado no ENEM, mas tão somente de que obteve pontuação mínima em duas áreas de conhecimento, circunstância que não se confunde com a aprovação plena exigida para fins de certificação do nível médio.
+Não houve, portanto, aprovação no exame, mas apenas desempenho parcial em duas disciplinas, o que não gera certificação de conclusão de ensino nem se enquadra na hipótese excepcional de remição.  .. .
+Como visto, ressaltou o Tribunal local estar justificada a decisão do juízo das execuções, tendo em vista que o sentenciado já havia concluído o nível de escolaridade (ensino médio) anteriormente e que não houve a aprovação integral do paciente no ENEM.
+O entendimento, todavia, não está em consonância com a jurisprudência hodierna deste Superior Tribunal, firmada no sentido de que a aprovação no ENEM/ENCCEJA pode ser utilizada como fundamento para remição de pena, ainda que o apenado já tenha concluído o ensino médio ou superior antes do início do cumprimento da pena. A propósito:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL. REMIÇÃO DE PENA POR APROVAÇÃO NO ENCCEJA. ENSINO SUPERIOR ANTERIOR. POSSIBILIDADE. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público do Distrito Federal e Territórios contra decisão monocrática que reconheceu o direito de remição de pena do recorrente pela aprovação no ENCCEJA, mesmo possuindo diploma de curso superior antes do início do cumprimento da pena.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a aprovação no ENCCEJA gera direito à remição de pena para condenado que já possuía ensino superior antes do início do cumprimento da pena.
+III. Razões de decidir
+3. A jurisprudência desta Corte considera que a aprovação no ENEM/ENCCEJA é critério apto a comprovar a ocorrência de estudos por conta própria no interior da unidade prisional, ainda que o sentenciado já tenha obtido o diploma de curso superior antes do início do cumprimento da pena.
+4. As normas da execução penal, especialmente aquelas relacionadas à remição pelos estudos, devem ser interpretadas de modo mais favorável ao réu, não havendo restrição à concessão do direito àqueles que já tenham concluído o ensino médio ou superior.
+IV. Dispositivo e tese
+5. Agravo regimental não provido.
+Tese de julgamento: "1. As aprovações no ENEM e no ENCCEJA não configuram bis in idem para fins de remição de pena como regra. 2. A remição de pena por aprovação no ENCCEJA é permitida, mesmo que o apenado já tenha concluído o ensino superior anteriormente, sem acréscimo de 1/3 previsto no art. 126, § 5º, da LEP.".
+ ..
+(AgRg nos EDcl no AgRg nos EDcl no AREsp n. 2.815.124/DF, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/8/2025, DJEN de 19/8/2025).
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. REMIÇÃO. APROVAÇÃO NO ENEM. CABIMENTO. PRECEDENTES DO STJ. AGRAVO IMPROVIDO.
+1. Ainda que o apenado já possuísse nível médio ou superior antes do cumprimento da pena, tal fato não impede de remir o quantum da pena por sua aprovação no ENEM (Exame Nacional do Ensino Médio), pois, conforme o art. 126 da LEP e Recomendação 391/21 do CNJ, tal certificação configura aproveitamento dos estudos realizados durante a execução da pena.
+2. Agravo regimental improvido.
+(AgRg no REsp n. 2.132.114/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/6/2024, DJe de 21/6/2024).
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DE PENA. APROVAÇÃO NO EXAME NACIONAL DO ENSINO MÉDIO - ENEM. POSSIBILIDADE DE CONCESSÃO DA BENESSE MESMO APÓS CONCLUSÃO DO ENSINO MÉDIO E/OU DO ENSINO SUPERIOR. ORDEM CONCEDIDA. AUSÊNCIA DE ARGUMENTOS NOVOS APTOS A ALTERAR A DECISÃO AGRAVADA AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão agravada por seus próprios fundamentos.
+II - Conforme consignado na decisão agravada, a jurisprudência desta Corte Superior de Justiça passou a considerar que a aprovação no Exame Nacional do Ensino Médio - ENEM é critério apto a comprovar a ocorrência de estudos por conta própria no interior da unidade prisional, mesmo após a conclusão do ensino médio e ainda que o sentenciado já tenha obtido o diploma de curso superior antes do início do cumprimento da pena, com ressalva do entendimento do Relator. Precedentes.
+Agravo regimental desprovido.
+(AgRg no HC n. 790.202/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 4/3/2024, DJe de 11/3/2024).
+Não obstante, no que diz respeito à comprovação das horas, devem ser observados os critérios estabelecidos no HC 602425/SC, como se vê:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO PELO ESTUDO POR CONTA PRÓPRIA. APROVAÇÃO TOTAL NO ENCCEJA. ART. 126 DA LEP. CONCLUSÃO DO ENSINO MÉDIO. CONCESSÃO DE 50 DIAS DEFERIDA PELAS INSTÂNCIAS ORDINÁRIAS. CONSTRANGIMENTO ILEGAL CONFIGURADO. PRECEDENTES. AGRAVO DESPROVIDO.
+1. Visando a ressocialização do apenado e tendo como base o direito fundamental à Educação, o Conselho Nacional de Justiça (CNJ), por meio da Recomendação n. 44/2013 - posteriormente substituída pela Resolução n. 391/2021 -, estabeleceu a possibilidade de remição de pena à pessoa privada de liberdade, que, por meio de estudos por conta própria, vier a ser aprovada nos exames que certificam a conclusão do ensino fundamental ou médio (ENCCEJA ou outros).
+2. A Terceira Seção desta Corte, por ocasião do julgamento do HC n. 602.425/SC, decidiu que a base de cálculo da carga horária, a fim de dar aplicação do disposto no art. 126 da Lei de Execução Penal aos apenados que realizam estudos por conta própria conforme a Recomendação n. 44/2013 do Conselho Nacional de Justiça, seria de 1.200 horas para o ensino médio e de 1.600 horas para o ensino fundamental, ou 100 e 133 dias, respectivamente (HC n. 602.425/SC, Terceira Seção, julgado em 10/3/2021, DJe de 6/4/2021) - (EDcl no AgRg no HC n. 630.878/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 22/9/2021).
+3. A jurisprudência desta Corte e do Supremo Tribunal Federal é assente no sentido de que as 1.200 horas, correspondentes ao ensino médio, divididas por 12 (1 dia de pena a cada 12 horas de estudo) resultam em 100 dias remidos, acrescidos de 1/3 pela conclusão do ensino médio.
+4. Agravo regimental desprovido. (AgRg no HC n. 789.154/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 30/10/2023, D Je de 3/11/2023).
+Outrossim, tratando-se de apenado que concluiu o ensino médio anteriormente não se aplica o acréscimo de 1/3 dos dias remidos. A propósito:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. REMIÇÃO DE PENA. APROVAÇÃO NO ENEM APÓS CONCLUSÃO DO ENSINO MÉDIO. POSSIBILIDADE DA BENESSE. VEDADO O ACRÉSCIMO DE 1/3 DO ART. 126, § 5º, DA LEP. BASE DE CÁLCULO. REMIÇÃO DE 20 (VINTE) DIAS DE PENA POR MATÉRIA QUE HOUVE APROVAÇÃO. INEXISTÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão agravada pelos próprios fundamentos.
+II - É possível a remição da pena pela aprovação no ENEM, ainda que o sentenciado tenha concluído o ensino médio antes do início do cumprimento da pena, ressalvado o acréscimo de 1/3 (um terço) com fundamento no art. 126, § 5º, da Lei de Execução Penal.
+III - A Resolução n. 391/2021, CNJ determina que, para a remição decorrente do estudo individual com a aprovação total no Enem ou no Encceja, será considerada como base de cálculo para fins de cômputo das horas visando à remição da pena 50% (cinquenta por cento) da carga horária definida legalmente para cada nível de ensino, fundamental ou médio, o que corresponde o montante de 1.600 (mil e seiscentas) horas para os anos finais do ensino fundamental e 1.200 (mil e duzentas) horas para o ensino médio ou educação profissional técnica de nível médio.
+IV - O Superior Tribunal de justiça tem entendido de forma reiterada que o total de 1.200 horas, pela aprovação em exame que certifica a conclusão do ensino médio, deve incidir na proporção de 1 dia de pena para cada 12 horas de estudo, resultando em 100 dias de remição, o que equivale a 20 dias de remição para cada uma das cinco áreas de conhecimento avaliadas no exame.
+Agravo regimental desprovido.
+(AgRg no HC n. 792.658/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 1/7/2024, DJe de 2/8/2024; grifos acrescidos).
+PENAL E PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. DESCABIMENTO. EXISTÊNCIA, ENTRETANTO, DE COAÇÃO ILEGAL MANIFESTA. REMIÇÃO PELO ESTUDO. APROVAÇÃO NO ENCCEJA - ENSINO FUNDAMENTAL. BASE DE CÁLCULO. 1.600 HORAS. RESOLUÇÃO N. 391/2021 DO CONSELHO NACIONAL DE JUSTIÇA. DIREITO À REMIÇÃO DE 26 DIAS DE PENA POR MATÉRIA APROVADA. CONCLUSÃO DO REFERIDO NÍVEL DE ESCOLARIDADE ANTES DO INÍCIO DO CUMPRIMENTO DA PENA. IRRELEVÂNCIA. DIREITO À REMIÇÃO SEM O ACRÉSCIMO DE 1/3 PREVISTO NO ART. 126, § 5º, DA LEI DE EXECUÇÕES PENAIS. PRECEDENTES.
+Ordem parcialmente concedida nos termos do dispositivo.
+(HC n. 1.002.591/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/9/2025, DJEN de 15/9/2025; grifos acrescidos).
+Ademais, verifica-se que o Tribunal de origem entendeu que para obtenção do benefício da remição o paciente também teria que ter a aprovação total no exame certificador da conclusão do ensino médio (obtenção de nota mínima em todas as áreas de conhecimento).
+O entendimento, todavia, não coaduna com a jurisprudência mais recente desta Corte Superior, fulcrada no sentido de que a aprovação, mesmo que parcial, no ENEM ou no ENCCEJA, ainda que não comprovada a dedicação do agente aos estudos ou participação em instituto formal para tanto, importa na remição da pena, mesmo que, ratifique-se, o reeducando já tenha concluído o ensino fundamental. A propósito:
+DIREITO PENAL. HABEAS CORPUS. EXECUÇÃO. REMIÇÃO DE PENA POR ESTUDO. APROVAÇÃO PARCIAL NO ENEM. POSSIBILIDADE, AINDA QUE APROVADO ANTERIORMENTE NO ENSINO MÉDIO. INCENTIVO À RESSOCIALIZAÇÃO DA PENA. O ENEM NÃO MAIS CERTIFICA A CONCLUSÃO DO ENSINO MÉDIO DESDE 2017, MAS POSSIBILITA O INGRESSO EM ENSINO SUPERIOR. ORDEM CONCEDIDA DE OFÍCIO.
+I. CASO EM EXAME
+1. Habeas corpus impetrado contra decisão que negou remição de pena por estudo, com base na aprovação do reeducando no Exame Nacional do Ensino Médio (ENEM), sob o argumento de que a remição não se aplica a quem já concluiu o ensino médio antes da prática criminosa.
+2. O Tribunal de Justiça do Estado do Espírito Santo negou provimento ao agravo em execução, mantendo a decisão de indeferimento do pedido de remição.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se é cabível a remição de pena pela aprovação no ENEM, mesmo que o apenado já tenha concluído o ensino médio anteriormente.
+III. RAZÕES DE DECIDIR
+4. A jurisprudência do Superior Tribunal de Justiça admite a remição de pena pela aprovação no ENEM, mesmo para aqueles que já concluíram o ensino médio, pois a aprovação no exame demanda estudos por conta própria, incentivando a ressocialização.
+5. A remição de pena por estudo visa fomentar a aquisição de novos conhecimentos e facilitar a reintegração social do apenado, não se limitando àqueles que ainda não concluíram o ensino médio.
+6. No caso concreto, o paciente faz jus à remição de 20 dias de pena pela aprovação em uma área de conhecimento do ENEM, conforme entendimento pacificado nesta Corte. IV. ORDEM CONCEDIDA DE OFÍCIO PARA DECLARAR REMIDOS 20 DIAS DA PENA DO PACIENTE EM RAZÃO DA APROVAÇÃO EM UMA ÁREA DE CONHECIMENTO DO ENEM.  .. .
+(HC 927806/ES, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 03/12/2024, DJEN de 18/12/2024; grifos acrescidos).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. REMIÇÃO DA PENA. APROVAÇÃO PARCIAL NO ENEM (EXAME NACIONAL DO ENSINO MÉDIO). INCENTIVO AO ESTUDO E À RESSOCIALIZAÇÃO COMO FINALIDADE PRECÍPUA DA PENA. INTERPRETAÇÃO EXTENSIVA DO ART. 126 DA LEI DE EXECUÇÃO PENAL - LEP. POSSIBILIDADE. RECOMENDAÇÃO N. 44/2013 DO CONSELHO NACIONAL DE JUSTIÇA - CNJ. PRECEDENTES. QUESTÃO NÃO SUSCITADA NAS CONTRARRAZÕES DO APELO NOBRE. PRECLUSÃO CONSUMATIVA. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. Segundo firme entendimento desta Corte Superior, há direito à remição da pena, pelo estudo, em decorrência da aprovação parcial no Exame Nacional do Ensino Médio - ENEM.
+2. O tema encontra-se atualmente pacificado em consonância com a jurisprudência prevalente na Quinta Turma desta Corte, no sentido de considerar como bases de cálculo para a remição pela aprovação no ENCCEJA os totais de 1600 (mil e seiscentas) horas para os anos finais do ensino fundamental e 1200 (mil e duzentas) horas para o ensino médio, o que corresponde a 50% (cinquenta por cento) da carga horária legalmente prevista para os referidos níveis de ensino, nos termos da Lei n. 9.394/1996 (Lei de Diretrizes e Bases da Educação Nacional) e Recomendação n. 44/2013 do Conselho Nacional de Justiça.
+3. O Agravado foi aprovado em 4 (quatro) das 5 (cinco) áreas de conhecimento do ENEM, razão pela qual, conforme a jurisprudência dominante nesta Corte Superior, tem direito à remição de 80 (oitenta) dias de pena.
+4. O Agravante, ao oferecer as contrarrazões ao recurso especial defensivo, não suscitou a alegação de que o Agravado não teria comprovado que não havia concluído anteriormente o ensino médio, o que, no seu entender, impediria a concessão da remissão, vindo a trazer tal questionamento tão-somente no presente regimental, o que configura indevida inovação, inadmissível no recurso interno, pela preclusão consumativa.
+5. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido.  ..
+(AgRg no REsp 1995491/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 07/06/2022, DJEN de 13/06/2022; grifos acrescidos).
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem de ofício para determinar ao juízo das execuções que proceda à remição da pena do paciente, em razão da sua aprovação no ENEM, nos termos acima delineados .
+Comunique-se.
+Publique-se.
+Intimem-se.
+ EMENTA
