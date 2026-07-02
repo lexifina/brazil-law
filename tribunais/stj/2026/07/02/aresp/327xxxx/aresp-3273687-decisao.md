@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por GUSTAVO HENRIQUE DE CARVALHO ROCHA contra a decisão que inadmitiu o recurso especial, fundamentado no art. 105, III, alíneas a e c, da Constituição Federal, interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no julgamento da Revisão Criminal n. 2092451-39.2025.8.26.0000.
+Nas razões do recurso especial, a defesa aponta violação dos art. 395, III, do Código de Processo Penal e do art. 33, § 4º, da Lei n. 11.343/2006.
+Sustenta, inicialmente, a ausência de justa causa para a ação penal, requerendo a rejeição da denúncia e a absolvição, ao argumento de que a condenação se baseou exclusivamente no depoimento do corréu, desacompanhado de elementos probatórios corroborantes.
+Subsidiariamente, requer a incidência da causa especial de diminuição prevista no art. 33, § 4º, da Lei de Drogas, por entender preenchidos os requisitos legais.
+Por fim, com fundamento no art. 105, III, c, da Constituição Federal, sustenta a existência de dissídio jurisprudencial quanto à suficiência probatória para a condenação e à aplicação da minorante do tráfico privilegiado.
+A Corte de origem inadmitiu o recurso especial ao fundamento de: i) deficiência de fundamentação (Súmula 284/STF), ii) ausência de impugnação de todos os fundamentos do acórdão (Súmula 283/STF), iii) necessidade de reexame de provas (Súmula 7/STJ), e iv) não demonstração formal do dissídio jurisprudencial, inclusive por utilização de julgados do mesmo Tribunal (Súmula 13/STJ), com exigência de cotejo analítico e comprovação nos termos do art. 1.029, § 1º, do Código de Processo Civil e art. 255, § 1º, do RISTJ (fls. 281-285).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou pelo desprovimento do agravo em recurso especial (fls. 357-361).
+É o relatório.
+O agravo merece ser conhecido, porquanto presentes os pressupostos de admissibilidade.
+No mérito, contudo, não comporta provimento.
+Quanto à alegada violação do art. 395, III, do Código de Processo Penal, o Tribunal de origem assentou que a condenação não se amparou exclusivamente no depoimento do corréu, mas em elementos probatórios consistentes, notadamente os depoimentos policiais, os laudos periciais, a apreensão de drogas e de petrechos relacionados à traficância, além de relatório contendo áudios trocados entre os corréus. A alteração desse entendimento pressupõe o reexame das provas, providência inviável em recurso especial, nos termos da Súmula 7/STJ.
+Nesse sentido: AgRg no HC n. 1.077.622/ES, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 17/6/2026, DJEN de 23/6/2026.
+No que se refere à causa especial de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, a Corte local afastou sua incidência por entender que a quantidade de droga apreendida (856,62 g de maconha), aliada à apreensão de balança de precisão e de outros apetrechos utilizados na traficância, evidencia dedicação à atividade criminosa, circunstância incompatível com o tráfico privilegiado. Também nesse ponto, a pretensão recursal esbarra no óbice da Súmula 7/STJ.
+A corroborar: AgRg no HC n. 1.051.449/GO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 15/6/2026, DJEN de 23/6/2026.
+Por fim, o dissídio jurisprudencial suscitado com fundamento no art. 105, III, c , da Constituição Federal não foi adequadamente demonstrado. Conforme consignado na decisão de admissibilidade, a parte recorrente deixou de realizar o indispensável cotejo analítico e de comprovar a divergência na forma exigida pelo art. 1.029, § 1º, do Código de Processo Civil e pelo art. 255, § 1º, do RISTJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. SUFICIÊNCIA PROBATÓRIA. DEPOIMENTOS POLICIAIS. LAUDOS PERICIAIS. APREENSÃO DE DROGAS E APETRECHOS. RELATÓRIO COM ÁUDIOS ENTRE CORRÉUS. INCIDÊNCIA DA SÚMULA 7/STJ. TRÁFICO PRIVILEGIADO. QUANTIDADE DE DROGA E APETRECHOS. DEDICAÇÃO À ATIVIDADE CRIMINOSA. INCOMPATIBILIDADE COM A CAUSA DE DIMINUIÇÃO. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. EXIGÊNCIAS DO ART. 1.029, § 1º, DO CPC, E DO ART. 255, § 1º, DO RISTJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+Agravo conhecido para não conhecer do recurso especial.
