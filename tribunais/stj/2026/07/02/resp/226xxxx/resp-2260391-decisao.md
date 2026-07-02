@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (fl. 127):
+AGRAVO INTERNO EM APELAÇÃO - AÇÃO REVISIONAL DE CONTRATO DE EMPRÉSTIMO - ENCARGOS ABUSIVOS - DEVER DE PROMOVER A DEVOLUÇÃO DO MONTANTE COBRADO INDEVIDAMENTE - CORREÇÃO MONETÁRIA QUE DEVE VERTER DO DESEMBOLSO INDEVIDO E JUROS DE MORA DE 1% AO MÊS A CONTAR DA CITAÇÃO - AGRAVO INTERNO DESPROVIDO
+A restituição do indébito decorrente da densaturação de contrato fraudulento de empréstimo pessoal deve operar acrescido de juros de mora de 1% ao mês, desde a citação, além de correção monetária, pela variação do INPC/IBGE, a partir do efetivo pagamento (neste sentido: Apelação Cível nº 5057523-59.2023.8.24.0930, da Unidade Estadual de Direito Bancário, Quinta Câmara de Direito Comercial, unânime, relatora Desembargadora Soraya Nunes Lins, j. em 21.3.2024).
+Em suas razões (fls. 132-160), a parte recorrente aponta dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(i) arts. 6º, VI e VII, e 39, III, IV e V, do CDC e 5º, V e X da CF/1988, defendendo que o acórdão "recorrido ignora a sistemática de proteção integral ao consumidor e a inversão do ônus da prova" (fl. 133);
+(ii) arts. 186 e 927 do CC e Tema n. 1.328 do STJ, asseverando que a Corte local "deixa de aplicar a reparação civil (dano moral) diante de desconto indevido em verba de natureza alimentar" (fls. 133-134);
+(iii) 398 do CC e Súmula n. 54 do STF, "fixa termo inicial de juros em desconformidade com a natureza extracontratual do ilícito" (fl. 134), e
+(iv) 85, §§ 2º e 8º do CPC, aduzindo que "O acórdão manteve os honorários em 11% sobre o valor da condenação. Considerando que a condenação se resume à restituição de pequenas parcelas descontadas, o valor final dos honorários torna-se irrisório, incapaz de remunerar dignamente o trabalho advocatício realizado ao longo de anos" (fl. 145).
+Contrarrazões não apresentadas.
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+Cumpre esclarecer que não cabe ao Superior Tribunal de Justiça manifestar-se acerca de violação de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+No âmbito restrito do recurso especial, não se permite a análise de alegação de ofensa a resolução, portaria, instrução normativa, temas ou outros atos que não se caracterizem como lei federal, conforme estabelecido no art. 105, III, "a", da Constituição Federal.
+No âmbito restrito do recurso especial, não se permite a análise de alegação de ofensa a súmula, conforme o Enunciado n. 518/STJ.
+A alegação de ofensa aos arts. 6º, VI e VII, e 39, III, IV e V, do CDC, não foi analisada pelo Tribunal de origem e não foram opostos embargos de declaração para tratar da matéria, circunstância que impede o conhecimento da insurgência por falta de prequestionamento. Assim, devem ser aplicadas as Súmulas n. 282 e 356 do STF.
+A alegação de ofensa aos arts. 186 e 927 do CC, sob o fundamento de ocorrência de dano moral in re ips a, sustentada pela parte recorrente, não pode ser conhecida, pois apenas foi apreciada por meio de decisão monocrática (fl.s 118-119), de modo que não houve o necessário exaurimento de instância em relação a essa matéria.
+Por conseguinte, a Súmula n. 281/STF obsta o recurso, no ponto.
+Relativamente à alegação de ofensa ao art. 398 do CC, sob o fundamento de que em se tratando de ato ilícito/responsabilidade extracontratual, os juros moratórios tem como marco inicial a data do evento danoso e não a data da citação, a Corte local concluiu que (fl. 128):
+Os precedentes deste Tribunal de Justiça ecoam no sentido de que os valores a serem repetidos em favor do consumidor devem ser acrescidos de juros de mora de 1% ao mês, estes a fluir da citação (Apelação nº 5057523-59.2023.8.24.0930, da Unidade Estadual de Direito Bancário, Quinta Câmara de Direito Comercial, unânime, relatora Desembargadora Soraya Nunes Lins, j. em 21.3.2024; Apelação nº 5057214-38.2023.8.24.0930, da Unidade Estadual de Direito Bancário, Primeira Câmara de Direito Comercial, unânime, rel. Des. Guilherme Nunes Born, j. em 21.3.2024; Apelação nº 5041534-13.2023.8.24.0930, da Unidade Estadual de Direito Bancário, Quarta Câmara de Direito Comercial, unânime, rel. Des. Túlio Pinheiro, j. em 19.3.2024).
+Porque o consectário legal foi fixado nesses moldes na sentença vergastada, o veredito, no ponto, não comporta reforma.
+O acórdão recorrido encontra-se em consonância com o posicionamento do STJ de que, no caso de responsabilidade contratual, em que existe um negócio jurídico prévio entre as partes, como o presente caso, em que a correntista sofreu descontos indevidos, os juros de mora incidem desde a citação, inclusive no caso de danos morais.
+Nesse sentido:
+CIVIL E PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO E DE INDENIZAÇÃO POR DANOS MORAIS. CONTRATOS BANCÁRIOS. 1. JUROS DE MORA. TERMO INICIAL. RELAÇÃO CONTRATUAL. CITAÇÃO. PRECEDENTES. 2. DANOS MORAIS. IMPUGNAÇÃO DO VALOR ARBITRADO. RECURSO MANEJADO NO PONTO COM BASE NA ALÍNEA C DO TEXTO CONSTITUCIONAL. AUSÊNCIA DE APONTAMENTO DE REGRAMENTO FEDERAL A QUE TERIA SIDO ATRIBUÍDA INTERPRETAÇÃO DIVERGENTE. AUSÊNCIA DE CARACTERIZAÇÃO DO DISSÍDIO PRETORIANO.
+PRECEDENTES. PARADIGMA ORIUNDO DO MESMO TRIBUNAL PROLATOR DO ACÓRDÃO RECORRIDO. NEGATIVA DE CARACTERIZAÇÃO DO DISSENSO PRETORIANO.
+SÚMULA N.º 13 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência dominante desta Corte entende que, no caso de responsabilidade contratual, em que existe um negócio jurídico prévio entre as partes, os juros de mora incidem desde a citação.
+2. Além de indicar o dispositivo legal e transcrever os julgados apontados como paradigmas, é necessário realizar o cotejo analítico, com a demonstração da identidade das situações fáticas e da interpretação diversa dada ao mesmo dispositivo legal, o que não ocorreu na hipótese em tela.
+3. Não é possível a indicação de acórdão paradigma proveniente do próprio Tribunal de Justiça prolator da decisão. Incidência da Súmula n.º 13 do STJ.
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 2.029.860/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANOS MORAIS E MATERIAIS. COBRANÇA INDEVIDA DE ANUIDADE DE CARTÃO DE CRÉDITO NÃO SOLICITADO PELO CORRENTISTA. VIOLAÇÃO DO ARTIGO 1.022 DO CPC. NÃO OCORRÊNCIA. TERMO INICIAL DOS JUROS DE MORA INCIDENTES SOBRE A INDENIZAÇÃO POR DANOS MORAIS. RELAÇÃO CONTRATUAL. JUROS DEVIDOS A PARTIR DA SENTENÇA. INCIDÊNCIA DA SÚMULA N.º 83 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em ofensa ao art. 1022 do CPC, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte.
+2. O dano moral, na hipótese dos autos, decorreu da relação contratual preexistente entre as partes, em que houve cobrança, na conta corrente do recorrente, de tarifa oriunda de serviço bancário não solicitado de cartão de crédito, de modo que o termo inicial dos juros de mora é a citação. Precedentes.
+3. Agravo interno não provido (AgInt no REsp n. 2.041.063/MA, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/6/2023, DJe de 7/6/2023.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. COBRANÇA INDEVIDA PELA INSTITUIÇÃO FINANCEIRA EM CONTA CORRENTE. TERMO INICIAL DOS JUROS DE MORA PARA INDENIZAÇÃO POR DANOS MORAIS. FALTA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. TERMO INICIAL DOS JUROS DE MORA PARA A INDENIZAÇÃO POR DANOS MATERIAIS. CITAÇÃO. RELAÇÃO CONTRATUAL. SÚMULA 83 DO STJ. AGRAVO INTERNO CONHECIDO EM PARTE E NÃO PROVIDO.
+1. (..).
+2. No presente caso, a indenização por danos materiais é decorrente de responsabilidade contratual, contando-se os juros de mora a partir da citação. Precedentes. 3. Agravo interno conhecido em parte e não provido. (AgInt nos EDcl no REsp n. 1.982.034/MA, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/6/2022, DJe de 28/6/2022.)
+Aplica-se, no ponto, a Súmula 83/STJ.
+Por fim, no que concerne à alegação de violação do art. 85, §§ 2º e 8º do CPC, sob a alegação de necessidade de majoração dos honorários advocatícios, a Corte local concluiu que (fl. 128):
+2. Quanto aos honorários sucumbenciais - fixados em 10% (dez por cento) sobre o valor da condenação -, estes não comportam majoração. A causa não é complexa, não demandou dilação probatória, nem exigiu demasiado esforço do advogado para vencê-la, o que não justifica a elevação da quantia estipulada.
+Modificar o entendimento do acórdão impugnado quanto à denecessidade de majoração dos honorários sucumbenciais, pois "A causa não é complexa, não demandou dilação probatória, nem exigiu demasiado esforço do advogado para vencê-la, o que não justifica a elevação da quantia estipulada", nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo e a gratuidade da justiça.
+Publique-se e intimem-se.
+ EMENTA
