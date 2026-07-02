@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de recurso especial no qual a parte recorrente se insurge contra negócio jurídico envolvendo cartão de crédito consignado, com descontos em contracheque.
+A matéria em debate foi afetada para julgamento de acordo com o rito dos recursos repetitivos (Tema n. 1.414), o que impõe a suspensão do presente recurso perante o Tribunal de origem, até a publicação do acórdão paradigma, nos termos do art. 256-L, I, do RISTJ. Vejamos:
+"I) Definir parâmetros objetivos para a aferição da validade e eventual caráter abusivo dos contratos de cartão de crédito consignado, considerando: (i) o dever de prestar informações suficientes, claras e adequadas ao consumidor, em especial quando este alega que pretendia contratar simples empréstimo consignado; e (ii) o prolongamento indeterminado da dívida, ante a aparente insuficiência dos descontos mensais para amortizá-la, frente aos juros rotativos aplicados no refinanciamento do saldo.
+II) Em caso de invalidação do contrato, aferir se a consequência a ser adotada deverá ser a restituição das partes ao estado anterior, a conversão do contrato em empréstimo consignado ou a revisão das cláusulas contratuais, bem como se haverá configuração de dano moral in re ipsa".
+Com efeito, a decisão de afetação foi proferida no REsp 2215851/RJ, REsp 2215853/GO, REsp 2224599/PE e REsp 2224598/PE, de relatoria do Ministro Raul Araújo, Segunda Seção, julgado em 24/2/2026, DJEN de 6/3/2026.
+Ante o exposto, determino a devolução dos autos ao Tribunal de Justiça local, com a devida baixa nesta Corte de Justiça, para aplicação dos artigos 1.039 e 1.040 do CPC, devendo-se: i) negar seguimento ao recurso, se o acórdão recorrido coincidir com a tese vinculante do Tribunal Superior; ou ii) proceder ao juízo de retratação, na hipótese de ter o Colegiado local divergido da interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
+EMENTA
