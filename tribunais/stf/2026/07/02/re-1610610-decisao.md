@@ -1,0 +1,47 @@
+DECISÃO
+
+Trata-se de Recurso Extraordinário interposto em face de acórdão do Tribunal Regional Federal da 3ª Região, cuja ementa possui o seguinte cabeçalho (Doc. 105, fl. 14):
+
+“TRIBUTÁRIO E CONSTITUCIONAL. APELAÇÕES E REEXAME NECESSÁRIO. MANDADO DE SEGURANÇA. IRPJ E CSLL SOBRE JUROS DE MORA E CORREÇÃO MONETÁRIA (TAXA SELIC) NA REPETIÇÃO DE INDÉBITO. INEXIGIBILIDADE. TEMA 962 DO STF. NOS DEPÓSITOS JUDICIAIS. LEGALIDADE. TEMA 504/STJ. RECURSOS E REEXAME NECESSÁRIO PROVIDOS EM PARTE.”
+
+Opostos Embargos de Declaração (Doc. 112), foram acolhidos, em parte, para aclarar a decisão embargada, sem efeitos modificativos, para  “aclarar que a tese subsidiária de que não incidiria IRPJ e CSLL sobre juros quando o principal não for objeto desses tributos sob o fundamento de que o acessório acompanha o principal não deve prevalecer, à vista da ausência de supedâneo na legislação tributária vigente. Conforme fundamentado no acórdão embargado, os juros de mora têm natureza autônoma, que pode ser indenizatória ou remuneratória e neste último justifica-se a incidência desses tributos independentemente da natureza da verba principal” (Doc. 129, fls. 3-4).
+No recurso extraordinário (Doc. 137), interposto com amparo no art. 102, III, “a”, da CF/1988, AIR LIQUIDE BRASIL LTDA aponta, preliminarmente, violação aos arts. 5º, XXXV, e 93, IX, da CF/1988, defendendo a nulidade do acórdão recorrido, por negativa de prestação jurisdicional, pois deixou de enfrentar questões essenciais, como a extensão do entendimento do Tema 962 aos juros incidentes sobre ressarcimentos e créditos escriturais, a análise da natureza indenizatória dos juros de mora e o pedido subsidiário de não incidência tributária quando o principal não for tributável.
+Sustenta, por outro lado, que o acórdão recorrido afronta aos arts. arts. 5º, caput, I, LIV; 145, § 1º; 146, III; 149; 150, I, II e IV; 153, III; 154, I; e 195, I, “c”, e § 4º, da Constituição Federal, “ao (a) denegar a exclusão dos valores a título de qualquer índice de juros das bases de cálculo do IRPJ e da CSL, não somente a taxa SELIC, incidentes sobre as rubricas acima apontadas; (b) deixar de aplicar o entendimento fixado por este STF no julgamento do Tema n. 962 para excluir da base de cálculo do IRPJ e da CSL a SELIC aplicada aos ressarcimentos e aos créditos escriturais; e ainda, ao (c) denegar o pedido subsidiário da Recorrente para afastar aincidência do IRPJ e da CSL sobre os juros de mora calculados sobre verbas cujo montante principal não são alcançadas por tais tributos” (Doc. 137, fl. 5).
+Nessa linha afirma que o acórdão deve ser reformado por ter admitido a incidência de IRPJ e CSL sobre juros de mora, inclusive diversos da SELIC, em hipóteses em que tais valores representam mera recomposição patrimonial, em afronta aos princípios da isonomia, da capacidade contributiva e da legalidade tributária.
+Destaca, ainda, a extensão do entendimento do STF no Tema 962 às demais situações analisadas, bem como a aplicação da regra segundo a qual o acessório segue o principal, para afastar a tributação de juros quando a verba principal não é tributável.
+Ao final, requer a anulação do acórdão recorrido, por negativa de prestação jurisdicional, ou, subsidiariamente, sua reforma para afastar a incidência de IRPJ e CSL sobre os juros de mora nas hipóteses indicadas, inclusive em relação a créditos escriturais, ressarcimentos, depósitos judiciais e demais verbas de natureza indenizatória, nos termos delineados no recurso.
+No SUPERIOR TRIBUNAL DE JUSTIÇA determinou-se o sobrestamento do recurso especial e a remessa dos autos a esta CORTE, por considerar o recurso extraordinário prejudicial, nos termos do art. 1.031, §2º, do CPC (Doc. 154).
+É o relatório. Decido.
+
+No julgamento do RE 1.063.187-RG (Tema 962, Relator Min. DIAS TOFFOLI, DJe de 16/12/2021), esta SUPREMA CORTE fixou a seguinte tese:
+
+É inconstitucional a incidência do IRPJ e da CSLL sobre os valores atinentes à taxa Selic recebidos em razão de repetição de indébito tributário.
+
+Veja-se o acórdão desse julgado:
+
+“EMENTA Recurso extraordinário. Repercussão geral. Direito Tributário. IRPJ e CSLL. Incidência sobre os valores atinentes à taxa Selic recebidos em razão de repetição de indébito tributário. Inconstitucionalidade.
+1. A materialidade do imposto de renda e a da CSLL estão relacionadas com a existência de acréscimo patrimonial. Precedentes.
+2. A palavra indenização abrange os valores relativos a danos emergentes e os concernentes a lucros cessantes. Os primeiros, que correspondem ao que efetivamente se perdeu, não incrementam o patrimônio de quem os recebe e, assim, não se amoldam ao conteúdo mínimo da materialidade do imposto de renda prevista no art. 153, III, da Constituição Federal. Os segundos, desde que caracterizado o acréscimo patrimonial, podem, em tese, ser tributados pelo imposto de renda.
+3. Os valores atinentes à taxa Selic recebidos em razão de repetição de indébito tributário visam, precipuamente, a recompor efetivas perdas (danos emergentes). A demora na restituição do indébito tributário faz com que o credor busque meios alternativos ou mesmo heterodoxos para atender a suas necessidades, os quais atraem juros, multas, outros passivos, outras despesas ou mesmo preços mais elevados.
+4. Foi fixada a seguinte tese para o Tema nº 962 de repercussão geral: “É inconstitucional a incidência do IRPJ e da CSLL sobre os valores atinentes à taxa Selic recebidos em razão de repetição de indébito tributário”.
+5. Recurso extraordinário não provido”.
+
+Como bem reconheceu o eminente Relator do Recurso Especial nº 2224843/SP (2025/0271840-8), Min. SÉRGIO KUKINA, “a ora recorrente defende a extensão de teses da repercussão geral para a solução do presente caso, argumentando que o conceito constitucional de renda afastaria a tributação dos juros sobre as parcelas debatidas neste feito” (Doc. 154, fl. 6), e “nessa mesma linha, o recurso extraordinário de fls. 24.002-24.063 procura a extensão das razões de decidir dos aludidos Temas vinculantes, debatendo a natureza dos juros de mora para afastar a caracterização de renda e lucro” (Doc. 154, fl. 7).
+Por essa razão, determinou o sobrestamento do recurso especial, por considerar prejudicial a controvérsia do recurso extraordinário, nos termos do art. 1.031, §2º, do CPC (Doc. 154).
+Ocorre que, no julgamento dos embargos de declaração opostos no RE 1.063.187/SC (Tema 962-RG, Rel. Min. DIAS TOFFOLI, DJe de 2/5/2022), esta CORTE esclareceu que “a decisão embargada se aplica apenas nas hipóteses em que há o acréscimo de juros moratórios mediante a taxa Selic em questão na repetição de indébito tributário (inclusive na realizada por meio de compensação), seja na esfera administrativa, seja na esfera judicial”, de modo que “desborda do presente tema de repercussão geral definir quais os casos em que  ou quando  restam configuradas a mora ou as hipóteses nas quais os juros moratórios devem ser acrescidos mediante a taxa Selic na repetição de indébito tributário. Também desborda desse tema definir a natureza jurídica dos juros relativos aos depósitos judiciais ou dos juros avençados em contratos entre particulares.”.
+Veja-se a ementa do julgado:
+
+“Embargos de declaração em recurso extraordinário. Tema nº 962. Ausência de contradição quanto ao art. 3º, § 1º, da Lei nº 7.713/88. Prestação de esclarecimento. Modulação dos efeitos da decisão.
+1. O equivocado entendimento acerca da possibilidade das tributações questionadas nos autos partia de uma determinada interpretação sobre diversos dispositivos legais, entre os quais o art. 3º, §1º, da Lei nº 7.713/88, não tendo, assim, a Corte incidido em contradição ao decidir sobre esse dispositivo.
+2. No acórdão embargado, o Tribunal Pleno fixou a seguinte tese para o Tema nº 962: “É inconstitucional a incidência do IRPJ e da CSLL sobre os valores atinentes à taxa Selic recebidos em razão de repetição de indébito tributário”. Presta-se o esclarecimento de que a decisão embargada se aplica apenas nas hipóteses em que há o acréscimo de juros moratórios mediante a taxa Selic em questão na repetição de indébito tributário (inclusive na realizada por meio de compensação), seja na esfera administrativa, seja na esfera judicial.
+3. Modulação dos efeitos da decisão embargada, estabelecendo-se que ela produza efeitos ex nunc a partir de 30/9/21 (data da publicação da ata de julgamento do mérito), ficando ressalvados: a) as ações ajuizadas até 17/9/21 (data do início do julgamento do mérito); b) os fatos geradores anteriores à 30/9/21 em relação aos quais não tenha havido o pagamento do IRPJ ou da CSLL a que se refere a tese de repercussão geral.
+4. Embargos de declaração parcialmente acolhidos”. (RE 1.063.187 ED, Rel. Min. DIAS TOFFOLI, Pleno, DJe de 16/5/2022)
+
+Adite-se que esta CORTE tem reconhecido a natureza infraconstitucional de controvérsias semelhantes à dos autos, conforme se vê das seguintes decisões monocráticas: ARE 1399835, Rel. Min. ALEXANDRE DE MORAES, DJe de 6/9/2022; ARE 1395781, Rel. Min. CÁRMEN LÚCIA, DJe de 5/9/2022; ARE 1395788, Rel. Min. LUÍS ROBERTO BARROSO, DJe de 29/8/2022; e ARE 1397730, Rel. Min. RICARDO LEWANDOWSKI, DJe de 31/8/2022.
+Ante o exposto, rejeito a prejudicialidade do recurso extraordinário e devolvo os autos ao Superior Tribunal de Justiça para o julgamento do recurso especial, nos termos do art. 1.031, §3º, do CPC.
+Publique-se.
+Brasília, 2 de julho de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
