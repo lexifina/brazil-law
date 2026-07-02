@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por LUCIA HELENA PILEGI FAVORETO, MARIA FERNANDA FAVORETO, PEDRO FAVARETTO FILHO à decisão de fls. 1001/1002, que não conheceu do recurso.
+Sustenta a parte embargante:
+Com a devida vênia, há omissão relevante a ser sanada, pois a decisão embargada não enfrentou a contagem expressa da tempestividade constante da própria petição de interposição do Agravo em Recurso Especial, na qual os Embargantes já haviam demonstrado, de modo específico, que os dias 18 e 19 de dezembro de 2025 não foram computados e que o curso do prazo permaneceu suspenso no período de 20/12/2025 a 20/01/2026, por força de ato normativo do Tribunal de Justiça do Estado do Paraná.
+Na petição de interposição do Agravo em Recurso Especial, os Embargantes afirmaram expressamente que:
+ ..
+Esse trecho é determinante, pois evidencia que a parte não deixou de demonstrar a tempestividade do recurso. Ao contrário: indicou o termo inicial, discriminou a exclusão dos dias 18 e 19 de dezembro de 2025 e consignou a suspensão do prazo entre 20/12/2025 e 20/01/2026.
+A decisão embargada, entretanto, limitou-se a afirmar que o Agravo teria sido interposto em 28/01/2026, partindo da intimação em 04/12/2025, sem enfrentar a contagem apresentada na própria petição recursal.
+ ..
+A tempestividade do Agravo em Recurso Especial depende do correto cômputo do prazo processual, com a exclusão dos dias não úteis e a observância do período de suspensão dos prazos processuais no Tribunal de origem.
+ ..
+A Resolução nº 515-OE/2025 do Tribunal de Justiça do Estado do Paraná dispõe, em seu art. 1º, sobre a suspensão do expediente forense, dos prazos processuais, salvo hipóteses legalmente ressalvadas, e da realização de audiências e sessões de julgamento no período de 20 de dezembro de 2025 a 6 de janeiro de 2026.
+O mesmo ato normativo, em seu § 2º, estabelece a suspensão dos prazos processuais, da realização de audiências e de sessões de julgamento no período de 7 a 20 de janeiro de 2026.
+Portanto, a suspensão indicada na petição recursal  de 20/12/2025 a 20/01/2026  não foi alegação genérica, mas fato processual objetivo, normativamente amparado e expressamente informado desde a interposição do Agravo (fls. 1042/1044).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp n. 2.227.508/BA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 27.6.2023; AgInt nos EDcl no AREsp n. 2.270.942/SP, Rel. Ministro João Otávio de Noronha, Quarta Turma, DJe de 7.6.2023; e AgInt no AREsp n. 2.280.536/BA, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24.5.2023.
+Tendo em vista a nova redação do art. 1.003, § 6º, do CPC (dada pela Lei n. 14.939/2024), bem como a QO no AREsp n. 2.638.376/MG, a parte foi intimada para comprovar, por documento idôneo, eventual suspensão, interrupção ou prorrogação do prazo processual para interposição do recurso.
+No entanto, mesmo após a intimação da parte para regularizar a questão da tempestividade, não houve a devida regularização, porquanto quedou-se inerte.
+Observe-se que houve a disponibilização da decisão de inadmissibilidade do Recurso Especial em 03.12.2025, considerando-se publicada em 04.12.2025 (fl. 976). Excluindo-se o dia 04.12.2025 (primeiro dia), inicia-se a contagem no dia 05.12.2025. Exclui-se da contagem o dia 08.12.2025, porquanto se trata de feriado forense nacional, que não necessita ser comprovado. Após, a contagem é reiniciada no dia 09.12.2025 até o dia 19.12.2025. Exclui-se da contagem o período de 20.12.2025 a 20.01.2026 (art. 220 do CPC). Após, a contagem é reiniciada no dia 21.01.2026, finalizando o prazo no dia 27.01.2026.
+Dessa forma, o prazo recursal de 15 (quinze) dias úteis, nos termos art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil, terminou no dia 27.01.2026, sendo que o Agravo em Recurso Especial foi interposto somente em 28.01.2026, fora do prazo.
+É certo que o feriado de 08.12.2025 não precisa ser comprovado. Porém, os dias 18 e 19.12.2025 são supostamente feriados locais, razão pela qual deveriam ter sido comprovados no momento oportuno, o que não ocorreu.
+Veja que o princípio da cooperação foi observado, tendo em vista que a parte foi devidamente intimada para comprovar a tempestividade.
+Outrossim, "a existência de recesso forense e suspensão de prazos processuais nos Tribunais de Justiça não se presume público e notório em âmbito nacional" (AgInt no AREsp. 1641985/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe 18.8.2021.)
+Registre-se, ainda, que "A instrumentalidade das formas e a primazia do julgamento de mérito, previstos no art. 277 do Código de Processo Civil, não autorizam a admissão de recurso intempestivo nem a superação dos efeitos da preclusão temporal. A jurisprudência desta Corte considera que esses princípios já foram observados na concessão de prazo para regularizar o vício" (AgInt no AREsp n. 3.107.944/SP, Rel. Ministra Daniela Teixeira, Terceira Turma, DJEN de 27.4.2026.)
+No mais, os documentos trazidos às fls.1007/1019 não podem ser aceitos, porquanto preclusa a oportunidade.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 31.8.2020; AgInt no AREsp 1639930/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 3.8.2020; AgInt nos EDcl no AREsp 1342656/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 7.5.2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
