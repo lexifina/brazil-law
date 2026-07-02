@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interposto pelo DISTRITO FEDERAL contra decisão do Tribunal de Justiça do Distrito Federal e dos Territórios, que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem (e-STJ fls. 362/366), o que ensejou a interposição do presente agravo.
+Passo a decidir.
+Cuida-se, na origem, de agravo de instrumento interposto pelo DISTRITO FEDERAL nos autos da ação de cumprimento de sentença contra a Fazenda P ública n. 0702195-95.2017.8.07.0018 em que aduz que "na elaboração dos cálculos foi utilizado como base de cálculo para incidência da SELIC, posteriormente à promulgação da Emenda Constitucional 113/2021, o montante principal mais a correção monetária e os juros anteriores, o que viola as normas legais e constitucionais regentes da matéria" (e-STJ fl. 221 ).
+Verifico que a matéria tratada nos autos foi afetada ao rito da repercussão geral - Tema 1.349 do STF - para "saber se o art. 3º da EC nº 113/2021 determina a incidência da taxa SELIC sobre o valor do débito corrigido acrescido de juros".
+Encontrando-se o tema afetado à sistemática da repercussão geral, esta Corte orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo sobrestados no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Confiram-se as seguintes decisões monocráticas no mesmo viés: AgInt nos EDcl no Ag n. 1.432.709/ES, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, DJe 18/12/2018; REsp n. 1.770.141/RJ, Relatora Ministra REGINA HELENA COSTA, Primeira Turma, DJe 18/10/2018.
+Depois de realizada esta providência, que representa o exaurimento da instância ordinária, é que os recursos especiais deverão ser encaminhados para este Tribunal, a fim de que aqui possam ser analisadas as questões jurídicas neles suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que a medida visa evitar também o desmembramento dos apelos especiais e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou da unicidade recursal.
+Ante o exposto, DETERMINO a DEVOLUÇÃO dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia e em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pela Suprema Corte; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem-se.
+ EMENTA
