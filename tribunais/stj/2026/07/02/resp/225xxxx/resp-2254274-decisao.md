@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARCELE BARILE MONTEIRO MACHADO, fundamentado no art. 105, III, "a e c", da CF, contra acórdão assim ementado (fls. 549-550):
+DIREITO CIVIL. APELAÇÃO CÍVEL. AÇÃO DE USUCAPIÃO ESPECIAL URBANA. POSSE PRECÁRIA. AUSÊNCIA DE ANIMUS DOMINI. RECURSO DESPROVIDO.
+I. Caso em exame: Apelação cível interposta por Marcele Barile Monteiro Machado contra sentença da 2ª Vara Cível e Empresarial Distrital de Icoaraci que julgou improcedente o pedido de usucapião especial urbana, sob o fundamento de ausência de animus domini, reconhecendo a posse precária decorrente de mera tolerância pelo recorrido, Marco Antonio Souza Machado.
+II. Questão em discussão: (i) Saber se a ocupação do imóvel, alegadamente decorrente de promessa verbal de doação, configura posse ad usucapionem; e (ii) Verificar se a destinação do imóvel para locação, em vez de moradia própria, descaracteriza o requisito da função social da propriedade.
+III. Razões de decidir:
+1. Para a configuração da usucapião especial urbana, é imprescindível a posse qualificada pelo animus domini, nos termos do art. 183 da CF/1988 e do art. 1.240 do CC. A ocupação decorrente de mera liberalidade ou comodato verbal caracteriza posse precária, sem ânimo de dono, conforme entendimento reiterado do STJ (AgInt no AREsp 2008958/GO).
+2. A destinação do imóvel para fins de locação, sem utilização para moradia própria ou familiar, afasta a caracterização da usucapião urbana, conforme já decidiu o STJ (REsp 1.765.438/SP).
+3. A sentença recorrida fundamentou adequadamente a desnecessidade de novas provas, considerando suficientes os elementos já constantes dos autos para a formação do convencimento do juízo, em observância ao art. 370 do CPC.
+IV. Dispositivo e tese: Recurso conhecido e desprovido. Tese de julgamento: "1. A posse decorrente de mera liberalidade, comodato ou promessa verbal de doação não configura animus domini para fins de usucapião especial urbana. 2. A destinação do imóvel para locação, sem que o possuidor nele estabeleça residência habitual, descaracteriza a posse ad usucapionem ." Dispositivos relevantes citados: CF/1988, art. 183; CC, art. 1.240; CPC, arts. 370 e 487, I. Jurisprudência relevante citada: STJ, AgInt no AREsp 2008958/GO, j. 03/10/2022; STJ, REsp 1.765.438/SP, j. 11/03/2023.
+Os embargos de declaração foram rejeitados (fls. 595-604).
+Em suas razões (fls. 607-630), a parte recorrente alegou, além de dissídio jurisprudencial, violação dos seguintes dispositivos legais:
+(i) arts. 93, IX, da CF, 489, § 1º, I e II, e 1.022, do Código de Processo Civil, visto que houve omissão no enfrentamento de documentos que comprovariam a posse com animus domini por mais de cinco anos, além de contradições e ausência de análise de pontos tidos como incontroversos, o que evidenciaria fundamentação aparente e negativa de prestação jurisdicional (fls. 620-621). ;
+(ii) arts. 5º, LV, da CF e 370 e 373, I, do Código de Processo Civil, defendendo a existência de cerceamento de defesa pelo julgamento antecipado sem produção de prova testemunhal, requerida em diversas oportunidades. Afirma que a prova oral era imprescindível para demonstrar o animus domini e que não se possibilitou a instrução adequada para cumprimento do ônus probatório (fls. 619-621);
+(iii) art. 183 da CF e art. 1.240 do Código Civil, porque demonstrou posse contínua, pacífica e com animus domini por mais de treze anos, com realização de benfeitorias e pagamento de IPTU e taxas, e que a interpretação dada pelo acórdão à posse ad usucapionem desconsiderou atos próprios de proprietária, incluindo tentativa de regularização formal do direito (fls. 621-623) (fls. 621-623);
+(iv) art. 1.046 do Código de Processo Civil, sem desenvolver tese recursal;
+(v) art. 1.208 do Código Civil, sem desenvolver tese recursal.
+Contrarrazões apresentadas (fls. 634-638).
+O recurso especial foi admitido na origem (fls. 639-642).
+É o relatório.
+Decido.
+Inexiste afronta aos arts.489, § 1º, I e II, e 1.022 do CPC quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+Passo à análise de cada um dos supostos vícios no acórdão recorrido.
+Alega-se "omissão no enfrentamento de documentos que demonstrariam o exercício de posse com animus domini por mais de cinco anos, cujo exame foi imprescindível para afastar a fundamentação aparente e reconhecer a necessidade de instrução". Sobre isso, o Tribunal de origem manifestou-se (fls. 599):
+Essa conclusão reflete uma análise exauriente da prova constante nos autos, inclusive os documentos alegadamente desconsiderados pela embargante, como contas de IPTU, condomínio, energia elétrica e declaração de seu ex-cônjuge. Todavia, conforme assentado no próprio acórdão: "A jurisprudência pátria é remansosa ao afirmar que a posse exercida por mera liberalidade, ainda que por longo período, não ostenta o caráter possessório apto à configuração da prescrição aquisitiva".
+E, ainda, no acórdão integrativo (fls. 601-602):
+Analisando os argumentos do embargante, entendo que não merecem ser acolhidos, pois inexiste no acórdão combatido as omissões apontadas, uma vez que todos os pontos invocados na presente peça processual foram decididos de forma clara, logo a matéria se encontra suficientemente analisada e julgada.
+Ainda, em relação à tese de "omissão quanto ao cerceamento de defesa decorrente do indeferimento da prova testemunhal, não obstante múltiplos requerimentos, com manutenção do julgamento antecipado da lide" o Tribunal de origem assim se manifestou (fls. 599):
+A alegada omissão quanto ao indeferimento da prova testemunhal também foi enfrentada. O colegiado entendeu legítimo o julgamento antecipado da lide, com base no art. 370 do CPC, diante da suficiência do conjunto probatório existente.
+Por fim, quanto à apontada "omissão na apreciação de ponto reputado incontroverso sobre o reconhecimento da posse da autora por mais de 11 anos e sua robustez documental" o Tribunal de origem assim se manifestou (fl. 599 - destaquei):
+A recorrente não logrou êxito em comprovar o animus domini, tendo, inclusive, reconhecido, em diversas oportunidades, a titularidade do recorrido sobre o imóvel, situação que afasta a configuração da posse qualificada. A apelante não apresentou qualquer documento ou testemunha que comprovasse a existência de ato inequívoco de posse com intenção de dono, limitando-se a alegar a existência de promessa verbal de doação.
+Desse modo, não se constatam os vícios alegados.
+No que tange à suscitada ofensa aos arts. 5º, LV, 93, IX e 183 da CF, cumpre esclarecer que não cabe ao Superior Tribunal de Justiça manifestar-se acerca de violação de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Quanto ao cerceamento pelo indeferimento da prova, sob a ofensa aos arts. 370 e 373, I, do Código de Processo Civil , a Justiça local decidiu de acordo com a jurisprudência desta Corte, que entende que o juiz pode indeferir, desde que fundamentadamente, aquelas consideradas desnecessárias ou protelatórias.
+A esse respeito:
+PROCESSO CIVIL, AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. REEXAME DE PROVAS. SÚMULA N. 7/STJ. CERCEAMENTO DE DEFESA. AUSÊNCIA.
+ ..
+3. O juiz é o destinatário das provas e pode indeferir, fundamentadamente, aquelas que considerar desnecessárias, nos termos do princípio do livre convencimento motivado, não configurando cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte, quando devidamente demonstradas a instrução do feito e a presença de dados suficientes à formação do convencimento.
+ ..
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.368.822/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 2/9/2024, DJe de 4/9/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO DE NORMA REGIMENTAL DE TRIBUNAL LOCAL. IMPOSSIBILIDADE DE ANÁLISE NO ÂMBITO DO RECURSO ESPECIAL. SÚMULA 399/STF. CERCEAMENTO DE DEFESA. MAGISTRADO COMO DESTINATÁRIO FINAL DO ACERVO PROBATÓRIO. SÚMULA 83/STJ. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. O magistrado é o destinatário final das provas, competindo a ele indeferir a produção daquelas consideradas desnecessárias ou protelatórias, não havendo se falar em cerceamento de defesa.
+3. Agravo interno desprovido. (AgInt no AREsp n. 1.984.819/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 9/5/2022, DJe de 11/5/2022.)
+Na origem, concluiu-se na sentença, mantida pelo acórdão, que a prova documental demonstrou que a autora tinha plena consciência de que o imóvel pertencia ao réu, que é seu pai, tendo, inclusive, solicitado a transferência da titularidade para o seu nome, o que descaracteriza a intenção de dona, essencial para a usucapião. Concluiu-se que os elementos acostados aos autos evidenciaram que a ocupação do imóvel decorreu de mera permissão ou tolerância por parte do proprietário, caracterizando posse precária.
+Sobre a alegação de violação do art. 1.240 do Código Civil, i ncide a Súmula 7/STJ, pois a pretensão demanda reexame do conjunto fático-probatório relativo ao animus domini e à natureza da posse.
+O acórdão recorrido assentou que a recorrente não logrou êxito em comprovar o animus domini (fls. 601-602).
+Eventual conclusão desta Corte Superior em sentido contrário ao das instâncias ordinárias, que assentaram que a recorrente não logrou êxito em comprovar o animus domini, exigiria incursão no campo fático-probatório, providência vedada na via especial, nos termos da Súmula n. 7 do STJ.
+Quanto aos arts. 1.046 do CPC e 1.028 do CC, a peça recursal não esclareceu de que forma tais dispositivos teriam sido violados, tampouco como dariam amparo a qualquer tese recursal, não servindo para tal propósito a citação genérica de normas, sem argumentação clara e associada às razões de decidir do aresto impugnado. Limitando-se a parte recorrente a afirmar ofensa a dispositivos de lei sem, contudo, demonstrar a suposta violação ou a correta interpretação, há evidente deficiência na fundamentação, fazendo incidir a Súmula n. 284 do STF.
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Na forma do art. 85, § 11, do CPC, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como eventual deferimento da gratuidade de justiça (fl. 560).
+Publique-se e intimem-se.
+EMENTA
