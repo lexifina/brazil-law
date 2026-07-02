@@ -1,0 +1,38 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por PEDRO GONÇALVES VIANA NETO contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 11/2/2026.
+Concluso ao gabinete em: 17/6/2026.
+Ação: de compensação por danos morais e reparação de danos materiais, ajuizada por ESPÓLIO DE ROBSON KAIPPER SILVA, JUREMA ANTUNES KAIPPER e ANTONIO GASPAR SILVA, em face de PEDRO GONÇALVES VIANA NETO, MUNICÍPIO DE PARANATINGA, ESTADO DE MATO GROSSO e GUIDO DA CONCEIÇÃO DA SILVA, na qual requer compensação por danos morais, reparação de danos materiais de R$ 5.085,00 (cinco mil e oitenta e cinco reais) e pensão mensal de R$ 2.378,29 (dois mil, trezentos e setenta e oito reais e vinte e nove centavos).
+Decisão interlocutória: rejeitou a preliminar de coisa julgada, deferiu prova testemunhal do requerido PEDRO GONÇALVES VIANA NETO e designou audiência de instrução e julgamento.
+Acórdão: manteve a decisão unipessoal do Relator que não conheceu do recurso de agravo de instrumento interposto por PEDRO GONÇALVES VIANA NETO, nos termos da seguinte ementa:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. ROL TAXATIVO DO ART. 1.015 DO CPC. INADMISSIBILIDADE DO AGRAVO DE INSTRUMENTO CONTRA DECISÃO SANEADORA QUE REJEITA PRELIMINAR DE COISA JULGADA. AUSÊNCIA DE URGÊNCIA. ROL TAXATIVO MITIGADO. RECURSO CONHECIDO E DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto por Pedro Gonçalves Viana Neto contra decisão monocrática que não conheceu de agravo de instrumento por ausência de tempestividade, posteriormente afastada em novo agravo interno. No mérito, a decisão agravada entendeu ser incabível o agravo de instrumento interposto contra decisão saneadora que rejeitou preliminar de coisa julgada, sob o fundamento de que não se enquadra no rol do art. 1.015 do CPC nem se verifica situação de urgência a justificar a aplicação da tese da taxatividade mitigada (Tema 988/STJ).
+II. Questão em discussão
+2. A questão em discussão consiste em definir se é cabível a interposição de agravo de instrumento contra decisão saneadora que rejeita preliminar de coisa julgada, com fundamento na mitigação do rol taxativo do art. 1.015 do CPC (Tema 988/STJ), diante da alegação de urgência decorrente de possível afronta à coisa julgada.
+III. Razões de decidir
+3. A tese firmada pelo STJ no Tema Repetitivo 988 admite a mitigação do rol do art. 1.015 do CPC apenas em hipóteses de urgência decorrente da inutilidade do julgamento da questão em apelação.
+4. A rejeição da preliminar de coisa julgada não configura, por si só, urgência qualificada, pois a matéria pode ser reapreciada em sede de apelação, por se tratar de questão de ordem pública e não sujeita à preclusão.
+5. A mera permanência do agravante no polo passivo da demanda e a alegação de violação à coisa julgada não demonstram prejuízo concreto e imediato, tampouco risco de inutilidade da decisão futura.
+6. O sistema de recorribilidade diferida, adotado pelo CPC/2015, visa à racionalização do processo e à celeridade, sendo vedada a recorribilidade imediata de decisões interlocutórias fora das hipóteses legais ou sem demonstração de urgência.
+7. A decisão agravada está em conformidade com a jurisprudência do STJ e com a interpretação restritiva do rol do art. 1.015, não havendo violação aos princípios da duração razoável do processo, da efetividade ou da coisa julgada.
+IV. Dispositivo e tese 6. Recurso conhecido e desprovido. Tese de julgamento:
+"1. A rejeição da preliminar de coisa julgada em decisão saneadora não enseja, por si só, a interposição de agravo de instrumento, por não estar prevista no rol do art. 1.015 do CPC nem demonstrar urgência concreta que inviabilize sua reapreciação em apelação. 2. A taxatividade mitigada do rol do art. 1.015 do CPC, conforme fixado no Tema 988 do STJ, exige demonstração objetiva de inutilidade do julgamento posterior, o que não se verifica no caso. 3. A admissibilidade de agravo de instrumento fora das hipóteses legais deve ser interpretada restritivamente, sob pena de violação ao sistema de recorribilidade diferida e à efetividade processual".
+Dispositivos relevantes citados: CF/1988, art. 5º, XXXVI; CPC, arts. 4º, 6º, 373, 932, III, 1.009, § 1º, 1.015, 1.021; RITJMT, art. 51, XV e art. 134-A.
+Jurisprudência relevante citada: STJ, REsp 1.704.520/MT (Tema 988), Rel. Min. Nancy Andrighi, Segunda Seção, j. 19.12.2018; TJMT, AI nº 1019885-63.2024.8.11.0000, Rel. Des. Luiz Octavio Ribeiro, j. 04.12.2024; TJMG, AI nº 1.0000.22.029429-2/001, Rel. Des. Luiz Carlos Gomes da Mata, j. 02.03.2023; TJMS, AI nº 1408012-71.2024.8.12.0000, Rel. Des. Marcos José de Brito Rodrigues, j. 29.05.2024. (e-STJ fls. 381-383)
+Recurso especial: Alega violação dos arts. 4º, 6º, e 1.015 do CPC. Afirma que a taxatividade mitigada autoriza o agravo de instrumento diante da urgência decorrente da inutilidade de postergar a análise da coisa julgada para a apelação. Aduz que a negativa de recorribilidade imediata afronta os princípios da efetividade e da duração razoável do processo.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+A Corte Especial do STJ, sob a sistemática dos recursos repetitivos, definiu que "o rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação" (REsp 1.704.520/MT, CORTE ESPECIAL, , DJe 19/12/2018)
+Na hipótese, o Tribunal de origem consignou que a decisão interlocutória impugnada limitou-se a rejeitar a preliminar de coisa julgada suscitada pelo recorrente, hipótese não contemplada no rol do art. 1.015 do CPC/2015. Assentou, ainda, que não ficou demonstrada a urgência qualificada apta a justificar a mitigação da taxatividade desse dispositivo, porquanto a alegação de coisa julgada, por constituir matéria de ordem pública, pode ser reapreciada em sede de apelação, sem sujeição à preclusão e sem prejuízo à parte. Acrescentou que os custos e o desgaste decorrentes da permanência no polo passivo da ação não são suficientes para caracterizar a urgência exigida pela jurisprudência. Concluiu, assim, não estar caracterizada situação de urgência apta a justificar a mitigação da taxatividade do rol pre visto no art. 1.015 do CPC/2015.
+Nesse contexto, a alteração da conclusão alcançada pelo Tribunal de origem demandaria o reexame do conjunto fático-probatório dos autos, providência inviável em recurso especial, nos termos da Súmula 7/STJ.
+Nesse sentido: AgInt no AREsp 2.976.309/CE, Terceira Turma, DJEN de 22/5/2026; EDcl no AREsp 3.049.359/RS, Terceira Turma, DJEN de 21/5/2026; AgInt no AREsp 2.955.930/RJ, Quarta Turma, DJEN de 19/11/2025.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS E REPARAÇÃO DE DANOS MATERIAIS. AGRAVO DE INSTRUMENTO. MITIGAÇÃO DO ROL DO ART. 1.015 DO CPC. URGÊNCIA NÃO VERIFICADA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de compensação por danos morais e reparação de danos materiais.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Agravo conhecido. Recurso especial não conhecido.
