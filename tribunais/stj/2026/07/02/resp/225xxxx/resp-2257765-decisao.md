@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (fls. 334-335):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO DE COBRANÇA.
+APELAÇÃO DO BANCO AUTOR
+COMPULSANDO DETIDAMENTE O CONTRATO DE ABERTURA DE CRÉDITO EM CONTA CORRENTE Nº 2012006532100082000133/00038 VERIFICA-SE QUE O RÉU LARRI FIRMOU O CONTRATO NA CONDIÇÃO DE FIADOR DA OPERAÇÃO.
+DA ANÁLISE DA QUALIFICAÇÃO DOS CONTRATANTES, LARRI FOI GARANTIDOR DA OPERAÇÃO, NÃO APENAS ANUENTE COMO CÔNJUGE DE ANDREIA CRISTINA HEBERLE, TAMBÉM FIADORA.
+A COMPROVAR, NO FINAL DO INSTRUMENTO, O RÉU ASSINA COMO GARANTIDOR DA OPERAÇÃO (FIADOR).
+LOGO, EM RAZÃO DA SOLIDARIEDADE ASSUMIDA PELA GARANTIA PRESTADA PELOS DEVEDORES (FIANÇA), A PARTE CREDORA POSSUI O DIREITO DE COBRAR O VALOR INTEGRAL DO DÉBITO EM FACE DE TODOS OS DEVEDORES.
+DESTA FORMA, MERECE ACOLHIMENTO O PLEITO RECURSAL PARA INCLUIR O RÉU LARRI NO POLO PASSIVO DA DEMANDA, FEZ QUE FIADOR DA OPERAÇÃO CONTRATO DE ABERTURA DE CRÉDITO EM CONTA CORRENTE Nº 2012006532100082000133/00038.
+RECURSO PROVIDO, NO PONTO.
+CONTRATOS DE ABERTURA DE CRÉDITO. CONTRATAÇÕES COMPROVADAS. VALORES DEPOSITADOS EM CONTA CORRENTE.
+ALÉM DOS VALORES INADIMPLIDOS ORIUNDOS DO CONTRATO DE ABERTURA DE CRÉDITO EM CONTA CORRENTE Nº 2012006532100082000133/00038, TAMBÉM POSTULA A PARTE AUTORA O PAGAMENTO DOS VALORES EM ABERTO DOS CONTRATOS DE ABERTURA DE CRÉDITO.
+TODAVIA, TAL PEDIDO FOI JULGADO IMPROCEDENTE PELO JULGADOR DE ORIGEM, SOB O FUNDAMENTO DE QUE NÃO HÁ PROVA DA CONTRATAÇÃO.
+CONTUDO, NÃO HÁ COMO MANTER A SENTENÇA RECORRIDA.
+ISSO PORQUE, QUANDO DO AJUIZAMENTO DA AÇÃO DA COBRANÇA, A PARTE AUTORA ACOSTOU AOS AUTOS, ALÉM DOS DOCUMENTOS NECESSÁRIOS DA CONTA CORRENTE (CONTRATO Nº 2012006532100082000133/00038), JUNTOU TAMBÉM O CONTRATO DA ABERTURA DE CRÉDITO Nº 2012006532100082000133/00035, DEVIDAMENTE ASSINADO, ALÉM DOS EXTRATOS DAS OPERAÇÕES DE CRÉDITO, QUANDO SOLICITADOS OS VALORES DE R$ 15.000,00, EM 04/10/2012, R$ 2.000,00, EM 05/02/2013, R$ 5.700,00, EM 01/04/2013, E R$ 1.540,00, EM 06/05/2013 (PROCESSO JUDICIAL 1).
+ADEMAIS, DEMONSTRADO NOS AUTOS QUE OS VALORES FORAM DEPOSITADOS EM CONTA CORRENTE NA DATA DE CADA CONTRATAÇÃO RESPECTIVA, CUJOS VALORES SÃO DIFERENTES DA CONTRATAÇÃO EM RAZÃO DOS DESCONTOS DAS TARIFAS BANCÁRIAS E IOF, CONFORME COMPROVADO MEDIANTE CADA EXTRATO DA OPERAÇÃO.
+NÃO HÁ DÚVIDAS, PORTANTO, QUE AS OPERAÇÕES DE CRÉDITO FORAM CONTRATADAS CUJOS VALORES FORAM DEPOSITADOS EM CONTA CORRENTE.
+RESSALTO QUE O CRÉDITO EM CONTA CORRENTE DE CADA OPERAÇÃO OCORREU APÓS OS DESCONTOS DAS TARIFAS BANCÁRIAS E IOF, CONFORME DEMONSTRADO NOS EXTRATOS ACOSTADOS AOS AUTOS (PROCESSO JUDICIAL 1).
+ADEMAIS, NOS EXTRATOS COLACIONADOS DE CADA OPERAÇÃO, HÁ DEMONSTRAÇÃO DA TAXA DE JUROS CONTRATADA, BEM COMO DA EVOLUÇÃO DO DÉBITO, AMORTIZANDO, AINDA, OS PAGAMENTOS EFETUADOS.
+ASSIM, HÁ COMPROVAÇÃO SUFICIENTE NOS AUTOS A INDICAR A ORIGEM DO DÉBITO, BEM COMO SUA EVOLUÇÃO ATÉ CHEGAR AO VALOR COBRADO NOS AUTOS DA AÇÃO DE COBRANÇA.
+DESTE MODO, SOMANDO-SE AS INFORMAÇÕES TRAZIDAS AOS AUTOS, NOTADAMENTE OS DOCUMENTOS ATINENTES ÀS CONTRATAÇÕES E À CONTA DE EVOLUÇÃO DO DÉBITO, NÃO HÁ FALAR EM AUSÊNCIA DE COMPROVAÇÃO DA CONTRATAÇÃO DO DÉBITO SUB JUDICE.
+PORTANTO, MERECE REFORMA A SENTENÇA RECORRIDA PARA INCLUIR NA CONDENAÇÃO A INTEGRALIDADE DOS CONTRATOS OBJETO DA PETIÇÃO INICIAL (DENOMINADOS A, B, C, D E E), CUJOS VALORES DEVERÃO SER CORRIGIDOS MONETARIAMENTE PELO IGP- M, ACRESCIDO DE JUROS MORATÓRIOS DE 1% AO MÊS, A PARTIR DA CITAÇÃO.
+RECURSO PROVIDO, NO PONTO.
+DIANTE DO RESULTADO DO JULGAMENTO, RESTA PREJUDICADO O RECURSO DA PARTE RÉ.
+À UNANIMIDADE, APELAÇÃO DA PARTE AUTORA PROVIDA. RECURSO DO RÉU PREJUDICADO.
+Os embargos de declaração foram rejeitados (fls. 339-343).
+Em suas razões (fls. 345-354), a parte recorrente aponta dissídio jurisprudencial e violação dos arts. 389 e 395 do CC e 1º, § 1º, da Lei n. 6.899/1981, sustentando violação aos efeitos da mora, sob o argumento de que a inadimplência persiste até o efetivo pagamento, de modo que os encargos contratuais devem incidir até essa data, e não apenas até o ajuizamento da ação.
+Contrarrazões não apresentadas.
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+A controvérsia consiste em definir se, em caso de inadimplemento, é admissível a incidência dos encargos contratuais até o efetivo pagamento do débito ou se sua exigibilidade se limita ao ajuizamento da ação.
+No caso, o Tribunal de origem, no julgamento dos aclaratórios, concluiu que "os encargos contratuais não podem incidir após a data de ajuizamento da ação, sendo cabível apenas a incidência dos encargos legais, sob pena de se incorrer em bis in idem" (fl. 340).
+Referida conclusão diverge do entendimento deste Tribunal Superior acerca da questão, cuja jurisprudência é firme no sentido de que, "no caso de inadimplência, é permitida a cobrança dos encargos contratados até o efetivo pagamento, não estando limitado ao ajuizamento da ação" (AgInt nos EDcl no AREsp n. 2.495.072/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+No mesmo sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. INADIMPLÊNCIA. ENCARGOS MORATÓRIOS CONTRATUAIS. TERMO FINAL. DATA DO EFETIVO PAGAMENTO DO DÉBITO. PRECEDENTES.
+1. O termo final para a cobrança dos encargos contratados não é o ajuizamento da ação executiva, mas o efetivo pagamento do débito.
+ ..
+(AgInt no AREsp n. 2.381.744/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 16/3/2026, DJEN de 19/3/2026.)
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. ENCARGOS CONTRATUAIS. LIMITAÇÃO À DATA DA ÚLTIMA ATUALIZAÇÃO DO DÉBITO. IMPOSSIBILIDADE. BIS IN IDEM NÃO CONFIGURADO. TERMO FINAL. EFETIVO PAGAMENTO. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
+1. A jurisprudência desta Corte é firme no sentido de que, havendo inadimplência, os encargos contratuais incidem até o efetivo pagamento do débito, e não se limitam ao ajuizamento da ação ou à data da última atualização da planilha.
+2. A mera inclusão dos encargos na planilha que instrui a inicial não configura bis in idem para o período subsequente, devendo a atualização prosseguir conforme o pactuado.
+ ..
+(AREsp n. 3.038.815/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 30/3/2026, DJEN de 7/4/2026.)
+Imperiosa, portanto, a reforma do acórdão recorrido no ponto.
+Ante o exposto, DOU PROVIMENTO ao recurso especial para reconhecer a possibilidade de incidência dos encargos contratuais pactuados até o efetivo pagamento do débito.
+Publique-se e intimem-se.
+ EMENTA
