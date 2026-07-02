@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de RAFAEL INACIO DE OLIVEIRA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, em decorrência do julgamento da Apelação Criminal n. 5089015-90.2024.8.21.0001.
+Consta nos autos que o paciente foi inicialmente condenado pelo Juízo da 3ª Vara do Júri do Foro Central da Comarca de Porto Alegre pelas infrações previstas nos artigos 14 e 15 da Lei 10.826/2003, na forma do artigo 69 do Código Penal, à pena de 5 (cinco) anos, 6 (seis) meses e 18 (dezoito) dias de reclusão, em regime inicial fechado, além de 16 (dezesseis) dias-multa, à razão unitária mínima (fls. 22-30).
+A defesa interpôs apelação perante o Tribunal de Justiça do Estado do Rio Grande do Sul, que negou provimento ao recurso (fls. 12-21), sobrevindo o trânsito em julgado.
+Na impetração, busca-se a concessão da ordem para: (i) reconhecer a aplicação do princípio da consunção, com a absorção do delito previsto no artigo 14 da Lei 10.826/2003 pelo delito previsto no artigo 15 do mesmo diploma legal, com o consequente redimensionamento da pena; e (ii) subsidiariamente, reconhecer a ocorrência de concurso formal próprio entre os delitos previstos nos artigos 14 e 15 da Lei 10.826/2003, afastando o concurso material e promovendo a readequação das reprimendas (fls. 2-9).
+É o relatório. DECIDO.
+A controvérsia consiste na verificação da ocorrência de possível constrangimento ilegal, caracterizado pela alegada ausência de aplicação do princípio da consunção entre os delitos previstos nos artigos 14 e 15 da Lei 10.826/2003 ou, subsidiariamente, pelo reconhecimento equivocado do concurso material em detrimento do concurso formal próprio, com reflexos na dosimetria e no quantitativo final da pena imposta ao paciente.
+Contudo, o presente habeas corpus investe contra um acórdão com trânsito em julgado. Portanto, não deve ser conhecido, pois foi utilizado como substituto de uma revisão criminal, em uma situação em que não se configurou a competência originária desta Corte.
+Conforme o artigo 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, as revisões criminais e as ações rescisórias de seus julgados.
+A esse respeito: "1. Na hipótese, a condenação transitou em julgado em 31/5/2023. Dessa forma, o presente writ seria sucedâneo de revisão criminal, sendo esta Corte incompetente para o processamento do pleito revisional." (AgRg no HC n. 861.867/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024.)
+O artigo 210 do Regimento Interno do Superior Tribunal de Justiça autoriza o relator a indeferir liminarmente o habeas corpus quando constatada a manifesta incompetência, hipótese verificada nos presentes autos.
+De todo modo, não verifico a presença de ilegalidade flagrante que desafie a concessão da ordem nos termos do §2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
