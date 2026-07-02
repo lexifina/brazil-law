@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de HUDSON VINICIUS DOS SANTOS XAVIER, decorrente de prisão em flagrante ocorrida em Unaí/MG.
+Consta dos autos que o paciente foi admitido no sistema prisional por prisão em flagrante. A Defensoria Pública da União informou dificuldades para obter a identificação do processo de origem e requereu a expedição de ofício para que a autoridade responsável prestasse informações, tendo sido juntado apenas atestado carcerário básico, sem número do processo judicial.
+No presente writ, o impetrante sustenta ilegalidade da abordagem policial em via pública, seguida de revista pessoal e em aparelho celular sem mandado ou justificativa legal.
+Afirma ingresso domiciliar sem autorização judicial, com revista e danos no imóvel, ocasião em que se localizou pequena quantidade de cocaína que seria para uso pessoal.
+Ainda, aponta flagrante forjado, porque na audiência de custódia teriam sido exibidos 58 pinos de cocaína e uma balança de precisão que não lhe pertenciam, sendo que a balança não foi encontrada na delegacia quando requisitado o acesso.
+Relata tentativa de extorsão por agentes policiais, que exigiram arma de fogo em troca da liberdade, e, diante da negativa, conduziram-no à delegacia com promessa de pena mínima se assumisse o tráfico.
+Na ocasião, indica condições pessoais favoráveis: trabalho com carteira assinada, primariedade, residência alugada e boa reputação, além de informar estar preso preventivamente há 59 dias.
+Por fim, alega excesso de prazo da prisão preventiva, com base no artigo 316 do Código de Processo Penal e na Súmula n. 52, requerendo relaxamento da prisão ou aplicação de medidas cautelares diversas.
+Requer, em liminar, o relaxamento da custódia ou a substituição por medidas cautelares diversas. No mérito, pede a concessão da ordem para reconhecimento da ilegalidade da prisão e sua imediata soltura ou aplicação de cautelares.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus, com encaminhamento de cópia dos autos ao Tribunal de Justiça de Minas Gerais, por ausência de indicação da autoridade coatora, do número do processo de origem e de ato de Tribunal sujeito à jurisdição do STJ.
+É o relatório.
+Como bem pontuado pelo Ministério Público Federal, a presente impetração encontra óbice na supressão de instância e na instrução deficiente, impondo o não conhecimento do writ na ocasião.
+A supressão de instância reside ao se observar que a pretensão do paciente decorre de prisão em flagrante ocorrida no Estado de Minas Gerais e, ao que tudo indica, vinculada a atos de autoridade policial ou de juízo de primeiro grau da comarca de Unaí/MG. Nesses casos, a competência originária para apreciar o habeas corpus, em regra, é do Tribunal de Justiça local.
+A deficiência na instrução se observa na ausência do número de processo criminal de origem, de decreto prisional ou quaisquer outros documentos que permitam esta Corte analisar as insurgências ventiladas em sede de inicial.
+É pacífico o entendimento do Superior Tribunal de Justiça de que o habeas corpus , porquanto vinculado à demonstração de plano da ilegalidade arguida, exige provas pré-constituídas dos elementos fáticos essenciais para a apreciação do pedido, sendo ônus da parte impetrante juntar a documentação necessária no momento da impetração.
+Porém, conforme consignado pela Defensoria Pública, esta vem encontrando obstáculos para ter acesso às informações referentes ao paciente. O número do processo que motivou a prisão não foi informado no documento manuscrito em anexo e, ao tentar obter a documentação necessária para instruir o feito junto à Secretaria de Estado de Justiça e Segurança Pública de Minas Gerais (SEJUSP), exige-se um ofício formalmente endereçado ao Diretor-Geral da unidade prisional.
+Ante o cenário delineado nos autos, não conheço o presente habeas corpus. Contudo, em atenção ao parecer do Ministério Público Federal e ao requerimento da Defensoria Pública da União (fls. 16-19), concedo a ordem de ofício, determinando o envio de cópia dos autos ao Tribunal de Justiça do Estado de Minas Gerais, para as providências que julgar pertinentes.
+Publique-se.
+Intimem-se.
+EMENTA
