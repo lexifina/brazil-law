@@ -1,0 +1,41 @@
+DECISÃO
+Examina-se recurso especial interposto por PAULA GABRIELA BARBOSA CASTILLO, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 2/2/2026.
+Concluso ao gabinete em: 30/4/2026.
+Ação: obrigação de fazer c/c compensação por danos morais, ajuizada por PAULA GABRIELA BARBOSA CASTILLO, em face de UNIMED NACIONAL - COOPERATIVA CENTRAL, na qual requer a autorização e o custeio de cirurgias reparadoras pós-bariátrica e a compensação por danos morais.
+Sentença: julgou procedentes os pedidos, para: i) determinar à requerida que autorize e custeie as cirurgias reparadoras descritas na inicial; ii) condenar a requerida à compensação por danos morais de R$ 7.500,00 (sete mil e quinhentos reais).
+Acórdão: deu parcial provimento ao recurso de apelação interposto por UNIMED NACIONAL - COOPERATIVA CENTRAL, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. CONSUMIDOR. PLANO DE SAÚDE. PROCEDIMENTOS MÉDICOS. CIRURGIA PÓS-BARIÁTRICA. OBRIGAÇÃO DE CUSTEIO. PROFISIONAL NÃO CREDENCIADO. DANO MORAL. NÃO OCORRÊNCIA. RECURSO PROVIDO PARCIALMENTE.
+1. Na presente hipótese as questões submetidas ao conhecimento deste Egrégio Tribunal de Justiça consistem em deliberar a respeito da imposição, à operadora de plano de saúde, da obrigação de custear o procedimento cirúrgico reparador indicado à consumidora após ter sido submetida à cirurgia bariátrica, bem como da ocorrência de eventuais danos morais compensáveis.
+2. A relação jurídica substancial havida entre as partes é de consumo, uma vez que as partes se enquadram nos conceitos de consumidor e fornecedor previstos nos artigos 2º e 3º, ambos, do CDC.
+3. De acordo com a tese fixada pelo Colendo Superior Tribunal de Justiça no julgamento do REsp nº 1870834, submetido à sistemática dos recursos repetitivos (tema nº 1.069), é obrigatório o custeio, pelos planos de saúde, da cirurgia plástica reparadora pós-bariátrica indicada pelo profissional médico que acompanha a paciente.
+4. Em relação ao alegado dano moral é necessário observar que a obrigação de compensar assenta-se na demonstração simultânea da ação ou omissão, da existência do dano efetivo e do nexo de causalidade, sendo este a correlação lógica e necessária entre a ação e o evento danoso. 4.1. Além disso não é suficiente apenas a alegada conduta restritiva para que seja reconhecido o dever de compensação, sendo imprescindível constatar que o ato praticado tenha efetivamente atingido a esfera jurídica extrapatrimonial da parte, a exigir a devida compensação. 4.2. A despeito do inconveniente vivenciado pela apelada em razão da recusa inicial da operadora de plano de saúde, a demora na autorização do procedimento não transgrediu a dimensão do aborrecimento. Na hipótese, a recusa inicial de custeio, pela ré, não ocasionou prejuízos adicionais à saúde da autora ou a sua esfera jurídica extrapatrimonial.
+5. Recurso conhecido e parcialmente provido. (e-STJ fls. 335-336)
+Recurso especial: alega violação dos arts. 186, 927 do CC, 6º, VI, e 14 do CDC, bem como dissídio jurisprudencial. Afirma que a recusa indevida de cobertura de cirurgia reparadora pós-bariátrica configura ato ilícito e impõe a reparação por danos. Aduz que a negativa injusta de cobertura, ao exigir prova de agravamento do quadro para reconhecer o dano moral, viola a proteção do consumidor e a responsabilidade objetiva do fornecedor. Argumenta que o dano moral é in re ipsa em hipóteses de recusa indevida de cobertura médico-assistencial e que o acórdão recorrido desconsidera esse entendimento consolidado. Assevera que há divergência entre julgados quanto à presunção do dano moral em negativa de cobertura de tratamento essencial.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do art. 6º VI, do CDC, indicado como violado, não tendo a parte recorrente oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Do dano moral decorrente da recusa indevida de cobertura médicoassistencial por operadora de plano de saúde (Tema 1.365/STJ)
+Consoante tese firmada no Tema 1.365/STJ, "a simples recusa indevida de cobertura médico-assistencial por operadora de plano de saúde não gera, por si só, dano moral presumido (in re ipsa), sendo imprescindível a presença de outros elementos que permitam constatar a alteração anímica da vítima em grau suficiente para ultrapassar o mero aborrecimento ou dissabor." (REsp 2.165.670/SP, Segunda Seção, DJEN de 20/3/2026).
+Na hipótese, ficou consignado no acórdão recorrido que:
+Além disso não se afigura suficiente apenas a alegada conduta restritiva para que seja reconhecido o dever de compensação, sendo imprescritível constatar que o ato praticado tenha efetivamente atingido a esfera jurídica extrapatrimonial da parte, a exigir a devida compensação.
+(..)
+No presente caso observe-se que, a despeito do inconveniente vivenciado pela consumidora em razão da recusa inicial da operadora de plano de saúde, a negativa da autorização do procedimento não transgrediu a dimensão do aborrecimento.
+Na hipótese, verifica-se que a recusa inicial de custeio pela demandada não ocasionou prejuízos adicionais à saúde da autora ou a sua esfera jurídica extrapatrimonial. (e-STJ fls. 353-358).
+Da leitura dos trechos acima destacados, verifica-se que a recusa não culminou no agravamento da situação psicológica do paciente, não caracterizando, portanto, o efetivo abalo moral.
+Nota-se, portanto, que o acórdão recorrido encontra-se alinhando à jurisprudência do STJ.
+Dessa forma, o recurso não merece provimento quanto ao ponto, com fundamento no Tema 1.365/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no sentido de que "(..) a recusa inicial de custeio pela demandada não ocasionou prejuízos adicionais à saúde da autora ou a sua esfera jurídica extrapatrimonial." (e-STJ fl. 358), exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO PARCIALMENTE do recurso especial e, nessa parte, NEGO-LHE PROVIMENTO, com fundamento no art. 932, III e IV, "a" e "b", do CPC, bem como na Súmula 568/STJ.
+Nos termos do art. 85, §11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor da condenação (e-STJ fl. 299) para 15%, a ser arcado exclusivamente pela parte recorrente, devendo essa pagar 50% do montante citado, em razão da sucumbência recíproca reconhecida pelo TJDFT, observada eventual concessão de justiça gratuita.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. SAÚDE SUPLEMENTAR. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação de obrigação de fazer c/c compensação por danos morais.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. Segundo o entendimento firmado no Tema 1.365 do STJ, para que o dano moral seja cabível na recusa indevida de cobertura médico-assistencial por operadora de plano de saúde, é imprescindível a presença de elementos que permitam constatar a alteração anímica da vítima em grau suficiente para ultrapassar o mero aborrecimento ou dissabor (REsp 2.165.670/SP, Segunda Seção, DJEN de 20/3/2026).
+4. Alterar o decidido no acórdão impugnado, no sentido de que "(..) a recusa inicial de custeio pela demandada não ocasionou prejuízos adicionais à saúde da autora ou a sua esfera jurídica extrapatrimonial." (e-STJ fl. 358), exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+5. Recurso especial parcialmente conhecido e, nessa extensão, não provido, com majoração de honorários.
