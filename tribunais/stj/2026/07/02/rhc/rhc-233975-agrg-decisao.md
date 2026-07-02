@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo regimental interposto por JOAO MARCOS PEREIRA DA COSTA SIMIAO contra decisão, às fls. 188-190, na qual neguei provimento ao recurso ordinário em habeas corpus.
+Consta nos autos que o agravante é investigado por suposta prática dos delitos previstos nos arts. 4º e 16 da Lei nº 7.492/86 (ou art. 27-E da Lei nº 6.385/76) e art. 1º da Lei nº 9.613/98, no âmbito do IPL nº 5007235-15.2024.4.02.5103, e teve imposto em seu desfavor, entre outras cautelares, recolhimento domiciliar noturno e aos finais de semana e monitoramento eletrônico.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de Justiça de origem, que denegou a ordem em acórdão às fls. 147-153.
+Nas razões deste recurso, o agravante reafirma a ocorrência de constrangimento ilegal consubstanciado na ausência de fundamentação concreta e idônea para as medidas cautelares de recolhimento domiciliar noturno e aos finais de semana e de monitoração eletrônica.
+Alega, ainda, a ausência de proporcionalidade e desnecessidade de tais medidas.
+Requer, ao final, a reconsideração da decisão objurgada, ou, em caso de entendimento diverso, a submissão ao colegiado.
+É o relatório. DECIDO.
+Defende o agravante a necessidade de reforma da decisão de fls. 188-190, apontando, para tanto, a ocorrência de constrangimento ilegal consubstanciado na ausência de fundamentação concreta e idônea para as medidas cautelares de recolhimento domiciliar noturno e nos finais de semana e de monitoração eletrônica.
+Considerando as razões aduzidas, às fls. 194-201, reconsidero a referida decisão, e passo a uma nova análise do recurso ordinário em habeas corpus.
+Inicialmente, verifico que o recorrente se encontra submetido a 4 (quatro) cautelares, dentre elas monitoramento eletrônico e recolhimento noturno desde o mês de dezembro de 2025, e até o momento, sequer, há denúncia e as investigações, por crimes relacionados ao Sistema Financeiro Nacional -SFN, foram prorrogadas.
+Da análise dos autos, observo que a argumentação utilizada para a manutenção das cautelares alternativas é a existência de suposto esquema relacionado a operações em plataformas transnacionais de opções binárias, cuja apuração se encontra em fase embrionária, com prorrogação das investigações.
+E o ponto principal para a aplicação das medidas cautelares é o fato de os investigados ostentarem estilo de vida luxuoso, a fim de atrair seguidores e persuadi-los de que seria possível obter ganhos por meio de operações em plataformas transnacionais de opções binárias, ao argumento de que o recorrente supostamente teria concorrido para a estruturação de uma rede complexa de movimentações financeiras, envolvendo pessoas jurídicas.
+Na hipótese, fazendo uma releitura desse caso, entendo que as medidas de monitoramento eletrônico e recolhimento noturno não guardam a devida proporcionalidade, além de se mostrarem desarrazoadas, na medida em que se encontram mantidas desde o mês de dezembro de 2025.
+Ademais, o argumento apontado no acórdão recorrido de que as medidas de monitoramento eletrônico e recolhimento noturno objetivavam a fiscalização do cumprimento das medidas cautelares anteriores e estariam fundamentadas na necessidade de assegurar a aplicação da lei penal em caso de eventual tentativa de fuga do recorrente, não encontra amparo nos autos, porquanto não existe qualquer evidência nesse sentido.
+Em sentido diverso, constata-se que, quando convocado para colocar a tornozeleira, o recorrente se dirigiu ao local indicado, dentro do prazo mencionado de 5 (cinco) dias, para cumprir a determinação, demonstrando a sua aptidão para cumprir determinações judiciais.
+Assim, tenho que as medidas de monitoramento eletrônico e recolhimento noturno não se ajustam ao presente caso, sendo desnecessárias e inadequadas, considerando que o recorrente, residente em uma cidade pequena de pouco mais de 42.000 (quarenta e dois mil) habitantes, encontra-se submetido a tais medidas por aproximadame nte 6 meses, sem apresentar risco concreto de fuga.
+Ante o exposto, dou provimento ao recurso ordinário, para relaxar o monitoramento eletrônico e o recolhimento noturno, devendo ser mantidas as demais medidas cautelares alternativas, com o recolhimento de seu passaporte.
+Comunique-se ao recorrente que, em caso de descumprimento injustificado das obrigações impostas por força das demais cautelares, a prisão preventiva poderá ser decretada.
+Comunique-se para cumprimento.
+Publique-se. Intimem-se.
+EMENTA
