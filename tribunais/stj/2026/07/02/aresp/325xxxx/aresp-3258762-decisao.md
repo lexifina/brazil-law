@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo da decisão de inadmissibilidade do recurso especial interposto por LUIS FERNANDO LOPEZ VARGAS contra acórdão do Tribunal de Justiça do Estado do Acre que negou provimento à apelação defensiva.
+O recorrente sustenta contrariedade ao art. 386, VII, do Código de Processo Penal, visto que incorreu em erro de proibição pela prática do crime previsto no art. 306 do Código de Trânsito Brasileiro.
+Com contrarrazões, o recurso especial foi inadmitido na origem pelo óbice da Súmula n. 7/STJ, ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o Ministério Público Federal manifestou-se pelo desprovimento do agravo.
+É o relatório.
+Atendidos os requisitos de admissibilidade, conheço do agravo e passo à análise do recurso especial.
+A controvérsia central do recurso está na verificação de ocorrência de erro de proibição, nos termos do art. 21 do Código Penal.
+A defesa sustenta que "o réu a ser questionado em audiência informou que a conduta de dirigir sob efeito de álcool não é crime em seu país, sendo proibida como mera infração administrativa" (fl. 252).
+Ocorre que o Tribunal de origem consignou que o recorrente, cidadão boliviano, detinha, conforme o interrogatório, ao menos, potencial consciência da ilicitude do fato, elemento integrante da culpabilidade, o qual não foi afastado pela mera condição de estrangeiro.
+Vale conferir o acórdão recorrido (fls. 228-230):
+A materialidade do crime não comporta discussão. A insurgência do Apelante, quanto à prática do crime previsto no artigo 306 do CTB, restringe-se à aplicação da excludente de culpabilidade, argumentando que deve haver a incidência do instituto do erro sobre a ilicitude do fato (art. 21 do CP).
+Sustenta o Recorrente que a sua conduta não pode ser descrita como ilícita, notadamente porque desconhecia a proibição contida na Lei brasileira, visto que é de nacionalidade estrangeira, tal seja: boliviana.
+Analiso, pois, os argumentos ventilados em sede recursal.
+De início, no tocante à tese defensiva de desconhecimento da lei e do erro de proibição; primeiro, à luz do disposto no art. 3º da Lei de Introdução às Normas do Direito Brasileiro, "ninguém se escusa de cumprir a lei, alegando que não a conhece".
+Outrossim, a ninguém é permitido se escusar da aplicação da Lei, sob o argumento de seu desconhecimento, salvo se o erro for inevitável. Essa é a previsão contida no artigo 21, do Código Penal, a saber: "O desconhecimento da lei é inescusável. O erro sobre a ilicitude do fato, se inevitável, isenta da pena, se evitável, poderá diminui-la de um sexto a um terço".
+Todavia, para tanto, o agente precisa demonstrar que não sabia e nem tinha condições de compreender o caráter ilícito do fato, o que não é o caso dos autos.
+Veja-se que, no mínimo, o Apelante sabia que sua conduta podia ser enquadrada como infração administrativa, como ocorre no país vizinho e de sua residência  a Bolívia. Assim, com base nas particularidades e soberania de cada Estado, podia presumir que a sua conduta podia ser ilícita neste território, afastando, pois, o erro sobre a ilicitude do fato, seja escusável ou inescusável.
+Tanto é verdade que indagado pelo Promotor de Justiça em sede de audiência de instrução, o Apelante foi categórico ao afirmar que, sim, dirigir embriagado também constituía fato típico em seu país de origem. Ressalte-se que neste momento processual sequer foi necessário o uso de tradutor do Juízo, mormente porque o agente foi claro e preciso em sua resposta.
+Sendo o erro de proibição inevitável (escusável) excluída estará a culpabilidade, não sendo o agente punido em nenhuma hipótese; já em sendo o erro de proibição evitável (inescusável), a punição a título de dolo é medida que se impõe, porém com redução da pena.
+Afasto, pois, a alegação de erro de proibição, seja escusável, ou inescusável, uma vez que, a meu ver, não encontra amparo nos autos.
+De mais a mais, o acusado revelou total conhecimento da ilicitude de sua conduta, inclusive confessou de forma espontânea o cometimento do crime contra ele imputado, seja em sede policial, seja durante o seu interrogatório em Juízo. Tanto é que fez jus à atenuante da confissão.
+Ora, não se confunde desconhecimento da lei com erro de proibição. O próprio réu disse que sabia que sua conduta podia ser enquadrada como ato ilícito. Nas palavras do Ministro Luiz Vicente Cernicchiaro, "no erro de ilicitude, o agente pensa ser lícita, autorizada a sua conduta  em razão das normas de cultura . No desconhecimento de lei, o agente sente a ilicitude, embora não saiba capitular seu comportamento no Código Penal, ou em lei especial dessa natureza" (voto-vista no RHC n. 4.772/SP).
+Por fim, o parecer ministerial (fls. 336-337):
+No caso vertente, a condição de cidadão estrangeiro (boliviano) do recorrente não é salvo-conduto para o cometimento de infrações penais em território nacional, especialmente quando a conduta perpetrada  direção hidráulica sob o efeito de álcool e em contramão de direção  atenta frontalmente contra a segurança viária e a incolumidade pública.
+Conforme assentado pelo Tribunal de origem, o próprio acusado foi categórico e preciso ao afirmar em juízo que tinha plena ciência de que dirigir embriagado constitui um comportamento proibido (ainda que administrativamente) em seu país natal. Portanto, partindo-se do pressuposto de que o réu sabia que sua conduta configurava um ilícito em sua terra de origem, era-lhe perfeitamente exigível, por dever de cuidado e em respeito à soberania do Estado brasileiro, presumir que tal ato também sofreria repressão legal em solo estrangeiro, o que afasta de pronto qualquer alegação de erro escusável.
+É caso, no entanto, de substituição da pena de detenção por pena restritiva de direitos  na modalidade prevista no art. 312-A do Código de Trânsito Brasileiro  , já que a reprimenda foi estabelecida no mínimo legal e não houve justificativa idônea para impedir o benefício.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial. Concedo a ordem de ofício para substituir a pena privativa de liberdade por prestação de serviço a entidades públicas, a ser fixada pelo Juiz da execução.
+Publique-se.
+Intimem-se.
+EMENTA
