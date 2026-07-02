@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PATRÍCIA BUZOLIN MOZAQUATRO e MARCELO BUZOLIN MOZAQUATRO contra decisão do Tribunal Regional Federal da 3ª Região que inadmitiu o recurso especial por incidência da Súmula n. 7, STJ e afastou a preliminar de prescrição.
+Os agravantes foram condenados por corrupção ativa, com pena redimensionada em apelação para 02 (dois) anos e 04 (quatro) meses de reclusão, em regime inicial aberto, e 11 (onze) dias-multa, mantendo-se a negativação das circunstâncias do crime, com redução da fração para 1/6 (um sexto) (fls. 5245-5254).
+A Corte Regional rejeitou embargos de declaração, esclarecendo a manutenção da fundamentação da sentença quanto ao desvalor das circunstâncias do delito (fls. 5345-5349).
+O recurso especial dos réus foi inadmitido na origem por necessidade de revolvimento fático-probatório e por alinhamento da questão da prescrição à orientação do STF e do Tema n. 1.100, STJ (fls. 5367-5374).
+Os recorrentes interpuseram agravo em recurso especial, sustentando a inaplicabilidade da Súmula n. 7, STJ e a inidoneidade da fundamentação utilizada para negativar o vetor "circunstâncias do crime" do art. 59 do Código Penal (fls. 5397-5403).
+O Ministério Público Federal opinou pelo não conhecimento do agravo por ausência de impugnação específica de todos os fundamentos da decisão agravada, com incidência da Súmula n. 182, STJ, e, se conhecido, pelo desprovimento, ante a idoneidade da dosimetria e o óbice da Súmula n. 7, STJ (fls. 5487-5498).
+É o relatório. DECIDO.
+Verifico que o agravo não ataca, de modo específico e completo, todos os fundamentos da decisão de inadmissibilidade.
+A decisão agravada, além de apontar o óbice da Súmula n. 7, STJ quanto à dosimetria, afastou a tese de prescrição com base na orientação consolidada quanto à interrupção pelo acórdão confirmatório, referindo precedentes do STF e o entendimento do Tema n. 1.100, STJ (fls. 5369-5372).
+No agravo os recorrentes limitaram-se a sustentar a possibilidade de controle, em sede especial, da legalidade da fundamentação da pena-base, afirmando genericamente a desnecessidade de reexame de provas, sem demonstrar, de forma específica, a superação do óbice aplicado à tese de prescrição e sem infirmar, ponto a ponto, os fundamentos da negativa de seguimento.
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do recurso especial, nos termos do art. 932, inciso III, do CPC, e do art. 253, parágrafo único, inciso I, do RISTJ obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+A propósito:
+"AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE DA DECISÃO DE INADMISSÃO NA ORIGEM. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. TENTATIVA DE ACRESCER ARGUMENTOS, EM SEDE DE AGRAVO REGIMENTAL, COM VISTAS À IMPUGNAÇÃO DOS FUNDAMENTOS TIDOS COMO INATACADOS. INADMISSIBILIDADE, PRECLUSÃO CONSUMATIVA. PLEITO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. DESCABIMENTO.
+1. A decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive, de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+2. No caso, a defesa do agravante não logrou impugnar, de forma efetiva, a íntegra da decisão de inadmissão na origem.
+ ..
+5. Agravo regimental improvido."
+(AgRg no AREsp n. 2.404.539/CE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 12/9/2023, DJe de 21/9/2023).
+Aplicável, ainda, a Súmula n. 182, STJ: "é inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ainda que, em tese, fosse superado o vício formal, não encontro razão para acolhimento da pretensão.
+A negativação das circunstâncias do crime foi mantida pela Corte estadual com base em dados concretos do modo de execução da conduta, destacando o atentado à higiene e à saúde públicas e à livre concorrência, com potencialidade ampla de lesão, o que excede a gravidade ínsita ao tipo penal. A pena-base foi fixada 04 (quatro) meses acima do mínimo legal, em fração de 1/6 (um sexto), dentro de parâmetros de proporcionalidade reconhecidos na jurisprudência.
+Para afastar tal conclusão seria necessário reexaminar o conjunto fático-probatório que embasou o desvalor das circunstâncias, o que é inviável na via estreita do recurso especial, nos termos da Súmula n. 7, STJ.
+Ressalto, por fim, que o acórdão dos embargos de declaração consignou a preservação integral da fundamentação sentencial e não identificou contradição ou omissão capaz de afastar o desvalor atribuído ao vetor "circunstâncias", de modo que a insurgência dos agravantes demanda, em essência, revaloração probatória e substituição do juízo de proporcionalidade firmados nas instâncias ordinárias, providência vedada.
+Ante o exposto, não conheço do agravo em recurso especial, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
