@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 (CPC/2015), devendo ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+De acordo com o que dispõem os artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça - RISTJ (redação dada pela Emenda Regimental n. 22/2016), compete ao agravante impugnar especificamente os fundamentos da decisão que obstou o recurso especial na origem.
+Assim, além da manifestação do inconformismo, inerente ao ato de irresignação, impõe-se ao recorrente o ônus de contrapor-se, de forma clara e específica, aos fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade.
+Com efeito, encontra-se consolidado nesta Corte o entendimento de que incumbe à parte agravante infirmar, especificamente, todos os fundamentos da decisão que não admitiu o processamento do recurso especial. A propósito: EAREsp 701.404/SC, rel. Ministro João Otávio de Noronha, rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018.
+No caso dos autos, a decisão de não admissão do recurso especial contém os seguintes fundamentos: (a) ausência de afronta aos artigos 489 e 1022 do CPC/2015; (b) o acórdão combatido contém fundamentação adequada e não ficou evidenciado maltrato às normas legais; (c) rever a posição da Turma Julgadora importaria em ofensa à Súmula nº 7/STJ; e (d) o fundamento utilizado para a interposição somente poderia ter sua procedência verificada mediante o reexame de direito local, o que não é possível, conforme Súmula 280/STF.
+Ocorre que a parte agravante não impugnou, especificamente, a aplicação das súmulas 7/STJ e 280/STF, o que acarreta o não conhecimento do agravo.
+No concernente à Súmula 280/STF, a singela alegação de que a tese da recorrente se baseia na violação da Lei Federal nº 9.784/1999, e não em legislação local, não é suficiente à impugnação do óbice sumular. Quanto ao fundamento em debate, cabe à parte demonstrar a desnecessidade, na solução da controvérsia, de análise de legislação local, fazendo o contraponto com a incidência tão somente da legislação federal invocada, o que não ocorreu, já que a própria parte sustenta que pretende a análise da "extrapolação dos limites da lei municipal pelo decreto, bem como a falta de motivação técnica" "sob a perspectiva da Lei Federal nº 9.784/1999, que possui aplicabilidade subsidiária" (fl. 563).
+A propósito:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMISSIBILIDADE. IMPUGNAÇÃO ESPECÍFICA. PREQUESTIONAMENTO. LEGISLAÇÃO LOCAL. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO INTERNO DESPROVIDO.
+(..)
+6. É inviável o exame, em recurso especial, de controvérsia decidida à luz de legislação local, em razão da limitação recursal do art. 105, III, "a", da Constituição Federal, incidindo, por analogia, o entendimento da Súmula 280 do Supremo Tribunal Federal, sem que a parte agravante tenha demonstrado que a solução da lide prescinde da interpretação de direito local.
+(..)
+(AgInt no AREsp n. 3.054.854/SP, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 1/6/2026, DJEN de 8/6/2026.)
+Em relação ao óbice da Súmula 7/STJ, é necessário que a parte desenvolva uma argumentação que demonstre a desnecessidade de revolvimento do conjunto fático-probatório dos autos, seja porque a questão é meramente de interpretação (devendo comprovar tal circunstância, não apenas alegá-la), seja porque os fatos e provas necessários à adequada solução da controvérsia já tenham sido devidamente delineados no julgado recorrido (devendo transcrever os trechos do julgado em que constem tais fatos e provas e conectá-los à violação legal apontada), comprovando, assim, que não é preciso para a solução do caso rever, nesta Corte Superior, aquele conjunto.
+No caso, a parte afirma que a questão central é de direito, pois consistiria em "saber se um ato administrativo com motivação genérica e baseado em norma infralegal que extrapola a lei formal é válido" (fl. 562). Contudo, não demonstrou que a premissa em que se baseia (de que o ato administrativo questionado possui motivação genérica e se baseia em norma infralegal que extrapola a lei) foi fixada na origem, para comprovar que, ao contrário do que concluiu a decisão de admissibilidade, trata-se de questão de mera interpretação, sem necessidade de reanálise probatória sobre a motivação e fundamentação do ato .
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS. MANUTENÇÃO DA DECISÃO QUE NÃO CONHECEU DO RECURSO. MULTA DO ART. 1.021 DO CPC. INAPLICABILIDADE. AGRAVO INTERNO. MAJORAÇÃO DE HONORÁRIOS RECURSAIS. IMPOSSIBILIDADE. PROVIMENTO NEGADO.
+(..)
+3. A afirmação de que o caso não demanda o reexame de fatos e de provas, ou a citação das razões recursais, não é suficiente para infirmar a incidência da Súmula 7 do Superior Tribunal de Justiça.
+Para este Tribunal, a parte recorrente deve realizar o cotejo entre o acórdão recorrido e a tese recursal a fim de comprovar a inaplicabilidade do enunciado sumular em questão.
+(..)
+(AgInt no AREsp n. 3.112.199/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 8/6/2026, DJEN de 11/6/2026.)
+Ante o exposto, não conheço do agravo.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10%, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual gratuidade da justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
