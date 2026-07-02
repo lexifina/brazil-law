@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por Cooperativa de Crédito de Livre Admissão Sicoob Unimais Centro Leste Paulista contra decisão que não admitiu recurso especial manejado em face de acórdão assim ementado:
+DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE CÉDULA DE CRÉDITO. CONTRATO ENTRE PESSOAS JURÍDICAS. INAPLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR. LEGALIDADE DE TARIFA CONTRATUAL. IMPOSSIBILIDADE DE UTILIZAÇÃO DO CDI COMO ÍNDICE DE CORREÇÃO. CUMULAÇÃO DE ENCARGOS. RECURSO PARCIALMENTE PROVIDO.
+I. CASO EM EXAME
+Apelação interposta pela cooperativa ré contra sentença que julgou parcialmente procedente pedido revisional de contrato de empréstimo celebrado entre as partes.
+II. QUESTÃO EM DISCUSSÃO
+As questões em discussão consistem em: (i) definir se é válida a cláusula contratual que estipula o CDI como índice de correção monetária; (ii) estabelecer se é legal a cobrança de tarifa no valor de R$350,00 em cédula de crédito firmada por pessoa jurídica; e (iii) determinar a possibilidade de cumulação de encargos moratórios (juros remuneratórios, moratórios e multa).
+III. RAZÕES DE DECIDIR
+1. A utilização do CDI como índice de correção monetária não se mostra devida, pois não se trata de índice que recompõe a desvalorização monetária, mas sim reflete a remuneração entre instituições financeiras.
+2. A cobrança da tarifa no valor de R$350,00 mostra-se válida, por se tratar de contrato celebrado entre pessoas jurídicas, não se aplicando as disposições do Código de Defesa do Consumidor.
+3. Não há ilegalidade na cumulação de juros remuneratórios com juros moratórios e multa contratual, sendo vedada apenas a cumulação com comissão de permanência, a qual não foi prevista no contrato.
+4. A repetição do indébito deve ocorrer de forma simples, tendo em vista a inaplicabilidade do CDC à relação contratual firmada entre pessoas jurídicas.
+IV. DISPOSITIVO Recurso parcialmente provido.
+Nas razões do recurso especial, a parte recorrente alega que o acórdão recorrido violou arts. 1.045 e 1.055 do Código de Processo Civil e 105, III, "a", da Constituição Federal.
+Sustenta inadequação do CDI como índice de correção monetária, por não refletir a recomposição inflacionária, defendendo substituição por IPCA, INPC ou outro índice reconhecido. Invoca precedentes e a Súmula 176 do STJ (fls. 318-331).
+Argumenta existência de jurisprudência que afasta o CDI como indexador de correção, com transcrição de julgados do Tribunal de Justiça de São Paulo e referência ao REsp 2.081.432, para reforçar a nulidade da cláusula contratual pertinente (fls. 320-331).
+Nas suas contrarrazões, a parte recorrida alega que não há prequestionamento, que incide a Súmula 7 do STJ, que não existe violação direta a lei federal e que não foi demonstrada divergência jurisprudencial específica. Sustenta acerto do afastamento do CDI, com base em precedentes do STJ e na Súmula 176 do STJ. Requer honorários recursais (fls. 337-341).
+A não admissão do recurso na origem ensejou a interposição do presente agravo.
+Na sua impugnação ao agravo, a parte agravada alega correção da aplicação da Súmula 284 do STF pela deficiência de fundamentação e acerto da aplicação da Súmula 518 do STJ quanto à alegação de ofensa a enunciado sumular. Aponta vedação de reexame fático pela Súmula 7 do STJ e ausência de demonstração de dissídio jurisprudencial (fls. 359-364).
+Assim delimitada a questão, satisfeitos os requisitos de admissibilidade do agravo, dele conheço, passando à análise do recurso especial.
+O recurso prospera.
+Sobre o tema versado nos autos, possibilidade de pactuação de encargos moratórios e remuneratórios que contenham o CDI na sua composição, recentemente, a Quarta Turma deste Superior Tribunal de Justiça, no julgamento do AResp 2.175.236/SC, no qual fui relatora para acórdão, decidiu que não há obstáculo legal à estipulação dos encargos financeiros em contratos bancários com base no CDI, acrescido de juros remuneratórios.
+Conforme exposto no pronunciamento, o relevante, a meu sentir, não é qualificar o índice de variação do CDI como "correção monetária", "correção remuneratória", "encargo financeiro" ou "juros remuneratórios", mas assegurar que a remuneração total auferida pela instituição financeira (nela incluídos fator de correção e os juros) não seja abusiva se cotejada com as taxas médias praticadas no mercado regularmente divulgadas pelo Banco Central para operações da mesma espécie, conforme acórdão da Segunda Seção, sob o rito dos recursos repetitivos, da relatoria da Ministra Nancy Andrighi (REsp. 1.061.530, DJe 10.3.2009).
+Por relevante, transcrevo a ementa do julgado:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E BANCÁRIO. CERTIFICADO DE DEPÓSITO INTERBANCÁRIO (CDI). ÍNDICE FLUTUANTE QUE REFLETE A VARIAÇÃO DO CUSTO DA MOEDA NO MERCADO INTERBANCÁRIO. POSSIBILIDADE DE SUA UTILIZAÇÃO, SOMADA A JUROS REMUNERATÓRIOS, NOS CONTRATOS BANCÁRIOS. CAPITALIZAÇÃO DE JUROS. TAXA DIÁRIA. INFORMAÇÃO DEFICIENTE. ILEGALIDADE.
+1. Em se tratando de serviços que tenham por objeto a captação de recursos ou concessão de empréstimos pelas instituições financeiras, o CDI é índice flutuante adequado para medir a variação do custo da moeda, uma vez que é o adotado no mercado interbancário ao qual recorrem as instituições financeiras no fechamento diário de suas operações.
+2. Ao contrário do INPC e do IPCA, que são índices neutros de correção destinados a reajustar os contratos envolvendo bens e serviços em geral, o índice setorial que mede a variação do custo do dinheiro em negócios bancários é o CDI, do mesmo modo como INCC é o índice que mede a variação do custo dos insumos na construção civil.
+3. Não há obstáculo legal à estipulação dos encargos financeiros em contratos bancários com base no índice flutuante CDI, acrescido de juros remuneratórios, sendo desimportante o nome atribuído a tal encargo (juros, correção monetária, "correção remuneratória"), cumprindo apenas verificar se a somatória dos encargos contratados não se revela abusiva, devendo eventual abuso ser observado caso a caso, em cotejo com as taxas médias de mercado regularmente divulgadas pelo Banco Central do Brasil para as operações de mesma espécie, o que não se evidencia na espécie. Precedente.
+4 . Agravo interno a que se nega provimento"
+No caso em exame, o Tribunal de origem substituiu a taxa CDI-CETIP para que a correção monetária fosse a variação do IPCA-E, sem, contudo, indicar que a remuneração total auferida pela agravante, na utilização do referido índice, tenha sido abusiva se cotejada com as taxas médias de mercado divulgadas pelo BACEN.
+Assim, entendo que deve permanecer hígida a previsão da referida taxa de juros, conforme contratada.
+Em face do exposto, conheço do agravo para dar provimento ao recurso especial para admitir a contratação do CDI como fator de reajuste do contrato.
+Intimem-se.
+EMENTA
