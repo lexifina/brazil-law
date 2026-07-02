@@ -1,0 +1,89 @@
+DECISÃO
+Trata-se de agravo interposto por Tocchi Móveis Ltda ME e outros contra decisão que não admitiu recurso especial manifestado em face de acórdão assim ementado (fls. 970-971):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO DE REVISÃO CONTRATUAL. AÇÃO DE COBRANÇA. AÇÃO MONITÓRIA. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA EM AÇÃO MONITÓRIA.
+1. Carecem os apelantes de interesse para postular, em grau recursal, o acolhimento de pedidos já acolhidos na instância de origem, sem que exista notícia de eventual revogação.
+2. Diante do trânsito em julgado da sentença proferida em ação monitória - que atualmente se encontra em fase de cumprimento -, mostra-se inviável a revisão dos encargos inscritos no contrato que aparelhou aquele feito e, por consequência, não há falar em excesso de execução.
+3. Diante da apresentação de um único recurso de apelação contra a sentença que julgou todos os feitos, não há falar em suspensão dos demais feitos até o julgamento definitivo da ação de revisão contratual.
+4. Os negócios jurídicos bancários estão sujeitos às normas inscritas no CDC (Súmula n. 297 do STJ), com consequente relativização do ato jurídico perfeito e do princípio pacta sunt servanda.
+5. Os juros remuneratórios são abusivos quando pactuados em índice consideravelmente superior à média de mercado divulgada pelo Banco Central do Brasil para operações similares na data da contratação (STJ, R Esp nº. 1.061.530/RS, Temas 24 a 27).
+6. Nos contratos que não indicam expressamente os juros remuneratórios, estes vão limitados à média de mercado divulgada pelo Banco Central do Brasil para operações similares na data da contratação, salvo se as taxas efetivamente cobradas forem mais favoráveis aos consumidores (STJ, Súmula nº. 530).
+7. Mostra-se lícita a capitalização de juros em periodicidade inferior à anual quando expressamente pactuada em contrato celebrado após a vigência da Medida Provisória nº. 2.170-36/2001, mostrando-se suficiente a indicação de juros anuais superiores ao duodécuplo do seu índice mensal (STJ, R Esp nº. 973.827/RS, Temas 246 e 247; Súmula nº. 541). Ato contínuo, nos contratos em que não há indicação dos juros remuneratórios, resta vedada sua capitalização.
+8. Não há óbice à cobrança da comissão de permanência em caso de inadimplemento, desde que expressamente pactuada, de forma isolada e sem cumulação com qualquer outro encargo moratório, limitado seu montante na forma da Súmula n. 472 do STJ (STJ, R Esp nº. 1.058.114/RS e 1.063.343/RS, Tema 52). 9. Carece a parte consumidora de interesse para pleitear o afastamento de encargos não pactuados e cuja efetiva cobrança não foi demonstrada.
+10. Em caso de inadimplemento, incidem juros moratórios de 1% ao mês, na forma da Súmula nº. 397 do STJ.
+11. Não há falar em redução da multa contratual, pois prevista em índice idêntico àquele previsto no artigo 52, § 1º, do CDC.
+12. A compensação de valores e a repetição de indébito em sua forma simples (ausente prova de má-fé por parte da instituição financeira) dependem da revisão - total ou parcial - das cláusulas pactuadas entre os litigantes.
+13. Sobre as quantias a serem repetidas incidem correção monetária segundo a variação do IPCA- IBGE desde o desembolso, e juros moratórios desde a citação, a partir de quando tal montante será atualizado exclusivamente pela taxa referencial do Sistema Especial de Liquidação e de Custódia (SELIC).
+14. A descaracterização da mora debendi decorre da abusividade dos encargos remuneratórios pactuados para o período de normalidade contratual (juros remuneratórios e sua capitalização (STJ, REsp nº. 1.061.530/RS, Temas 28 e 29). 15. Ônus sucumbenciais redimensionados, vedada a compensação dos honorários advocatícios (CPC, art. 85, § 14).
+PRIMEIRA APELAÇÃO (DA INSTITUIÇÃO FINANCEIRA) CONHECIDA EM PARTE E PARCIALMENTE PROVIDA. SEGUNDA APELAÇÃO (DOS CONSUMIDORES) CONHECIDA EM PARTE E PARCIALMENTE PROVIDA.
+Embargos de declaração rejeitados (fls. 979-981).
+Nas razões do recurso especial, a parte recorrente alega que o acórdão recorrido violou os arts. 55, § 2º, I, 86, 313, V, "a", 369, 370, 489, § 1º, IV e VI, e 1.022, II, do Código de Processo Civil e 5º, LV, da Constituição Federal.
+Aduz negativa de prestação jurisdicional quanto à distribuição dos ônus de sucumbência.
+Sustenta a omissão e a contradição do julgado estadual relativamente à análise das tarifas bancárias e do cerceamento de defesa.
+Defende a suspensão do feito até o julgamento da ação revisional, diante da conexão e da prejudicialidade externa entre a ação revisional, a ação monitória e o cumprimento de sentença.
+Contrarrazões às fls. 1.005-1.012 e 1.013-1.027.
+A não admissão do recurso na origem ensejou a interposição do presente agravo.
+Impugnação às fls. 1.085-1.094 e 1.095-1.098.
+Assim posta a questão, satisfeitos os requisitos de admissibilidade do agravo, dele conheço, passando à análise do recurso especial.
+O recurso não merece prosperar.
+Inicialmente, com relação à suposta ofensa dos arts. 489 e 1.022 do CPC/2015, verifico que não existe omissão ou ausência de fundamentação na apreciação das questões suscitadas.
+Além disso, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+Observo, por outro lado, que o Tribunal de origem afastou as alegações de cerceamento de defesa e de suspensão do feito ; consignou que os contratos celebrados entre os litigantes não preveem a cobrança de tarifas bancárias; assim como concluiu que ficou caracterizado o decaimento integral da parte recorrente nos autos da ação revisional de contrato e o decaimento substancial recíproco dos litigantes no âmbito da ação monitória, conforme se extrai dos seguintes trechos (fls. 964-969 e 980):
+(..)
+Em primeiro plano, não há falar em cerceamento de defesa, tendo em vista que a rejeição dos pleitos formulados pelos consumidores não se confundem com o indeferimento das provas eventualmente pleiteadas pelos ora apelantes.
+De outra parte, o reconhecimento de excesso de execução depende, em síntese, da abusividade dos encargos inscritos no título exequendo.
+(..)
+Por sua vez, tendo sido deduzido um recurso de apelação único nos autos da ação de revisão contratual, englobando todos os feitos (cumprimento de sentença, ação monitória e ação de cobrança), não há falar em suspensão dos demais feitos.
+(..)
+Ante o exposto, voto por: (1) conhecer em parte da primeira apelação (da instituição financeira), dando-lhe parcial provimento, a fim de condenar a parte consumidora ao pagamento das custas processuais incidentes nos autos da ação de revisão contratual (proc. nº. 5001778-74.2013.8.21.0010) em sua integralidade e dos honorários advocatícios devidos ao procurador da parte adversa, fixados em 15% sobre o valor atualizado da causa; e (2) conhecer em parte da segunda apelação (dos consumidores), dando-lhe parcial provimento , a fim de: (a) limitar os juros remuneratórios incidentes nos contratos nº. 322.000.843 e 322.008.738 à média de mercado divulgada pelo Banco Central do Brasil para operações similares na data de cada contratação (28,24% ao mês em junho de 2012, e 21,40% ao mês em dezembro de 2010, respectivamente, salvo se as taxas praticadas forem mais benéficas aos consumidores; (b) afastar a capitalização de juros nos contratos nº. 322.000.843 e 322.008.738; e (c) na ação monitória (proc. nº. 5001780-44.2013.8.21.0010) e na ação de cobrança (proc. nº. 5001779-59.2023.8.21.0010), condenar a instituição financeira e os consumidores ao pagamento de 50% das custas processuais e dos honorários advocatícios devidos ao procurador da parte adversa, fixados em 15% sobre o valor de cada uma das causas, vedada a compensação (CPC, art. 85, § 14).
+(..)
+Compulsando os autos, observa-se que os contratos firmados entre os litigantes não preveem a cobrança das tarifas de abertura de crédito e de emissão de carnê, de modo que carecem os consumidores de interesse para pleitear o afastamento de tais encargos.
+Por sua vez, os juros moratórios foram pactuados em 1% ao mês, e a multa contratual restou contratada em 2%, atendendo, respectivamente, disposto na Súmula nº. 397 do STJ e no artigo 52, § 1º, do CDC, o que inviabiliza o acolhimento do pedido de redução a tais índices.
+Por derradeiro, caracterizado o decaimento integral da parte consumidora nos autos da ação de revisão contratual e o decaimento substancial recíproco dos litigantes no âmbito da ação monitória, vai mantida a distribuição dos ônus sucumbenciais fixada no julgamento ora hostilizado.
+(..)
+Com efeito, registro que a revisão das premissas adotadas no acórdão recorrido para alcançar tais conclusões, demandaria, necessariamente, o reexame de cláusulas contratuais, fatos e provas, providência vedada em recurso especial, nos termos das Súmulas n. 5 e 7 do STJ.
+Anoto, por outro lado, que a jurisprudência do STJ já decidiu que o ajuizamento de ação revisional ou de qualquer outra demanda relacionada ao débito não obsta o regular andamento da execução, sendo a suspensão medida excepcional, condicionada à verificação dos requisitos legais pelo juízo competente. Nesse sentido, confiram-se:
+CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO EXTRAJUDICIAL. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. CONEXÃO COM AÇÃO REVISIONAL. SUSPENSÃO. CARÁTER NÃO OBRIGATÓRIO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. SÚMULA 83/STJ. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+1. Não configura ofensa aos arts. 489 e 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar indiv idualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. A jurisprudência consolidada do Superior Tribunal de Justiça é no sentido de que o ajuizamento de ação revisional ou qualquer outra demanda relacionada ao débito não obsta o regular andamento da execução, sendo a suspensão medida excepcional, condicionada à verificação dos requisitos legais pelo juízo competente. Incidência da Súmula 83/STJ.
+3. A existência de prejudicialidade externa decorrente de outra demanda não acarreta, de forma automática, a suspensão do feito, competindo ao Juízo de origem avaliar e rever a necessidade ou não de suspensão do feito demandaria o revolvimento das provas dos autos, situação inviável de ser apreciada na via estreita do recurso especial, nos termos da Súmula 7 do Superior Tribunal de Justiça.
+4. Agravo conhecido para conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+(AREsp n. 3.055.424/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 16.12.2025, DJEN de 19.12.2025.)
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO. CONEXÃO COM AÇÃO RENOVATÓRIA CUMULADA COM REVISIONAL DE ALUGUEL. REUNIÃO PARA JULGAMENTO CONJUNTO. PREJUDICIALIDADE EXTERNA. SUSPENSÃO DO PROCESSO (ART. 313, V, DO CPC). FACULDADE DO MAGISTRADO. AFERIÇÃO DAS CIRCUNSTÂNCIAS DO CASO CONCRETO. DESNECESSIDADE DE SUSPENSÃO QUANDO HÁ JULGAMENTO CONJUNTO. REEXAME DOS FATOS DA CAUSA E DA NECESSIDADE DA SUSPENSÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial, no qual se alegava violação ao art. 313, V, do Código de Processo Civil e dissídio jurisprudencial, em razão da rejeição do pedido de suspensão do andamento de ação de despejo por falta de pagamento.
+2. O Tribunal de origem concluiu pela inexistência de necessidade de suspensão do processo, considerando que as ações foram reunidas para julgamento conjunto, afastando o risco de decisões conflitantes.
+3. O juízo de admissibilidade do recurso especial foi negativo, sob o fundamento de que a análise da questão demandaria reexame de fatos e provas, vedado pela Súmula 7/STJ.
+II. Questão em discussão
+4. A controvérsia cinge-se em verificar a obrigatoriedade da suspensão do processo cível (ação de despejo) em razão de prejudicialidade externa (conexão com ação renovatória), à luz do art. 313, V, "a", do CPC, quando houve a reunião dos feitos para julgamento conjunto, e se a revisão dessa conclusão demanda o reexame do contexto fático-probatório.
+III. Razões de decidir
+5. A suspensão do processo por prejudicialidade externa (art. 313, V, "a", do CPC) não possui caráter obrigatório, constituindo faculdade do juiz que deve ser aferida de acordo com as circunstâncias do caso concreto.
+6. O Tribunal de origem, ao determinar a reunião das ações para julgamento simultâneo, afastou o risco de decisões conflitantes e, em exame do contexto fático-probatório, concluiu pela desnecessidade de suspensão.
+7. A pretensão de rever a conclusão da instância ordinária sobre a (des)necessidade de suspensão do processo e o risco de proferimento de decisões conflitantes exige o reexame do conjunto fático-probatório dos autos, o que é vedado em Recurso Especial, conforme o óbice da Súmula 7/STJ.
+8. A incidência da Súmula 7/STJ impede o conhecimento do recurso, inclusive pela alínea "c" do permissivo constitucional, pois o alegado dissídio jurisprudencial baseia-se em premissas fáticas distintas, cuja reanálise é inviável nesta via.
+IV. Dispositivo
+9. Agravo em recurso especial não conhecido.
+(AREsp n. 2.898.168/SP, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 17.11.2025, DJEN de 24.11.2025.)
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CONEXÃO, PREVENÇÃO E PREJUDICIALIDADE EXTERNA EM EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Trata-se de agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial por alegação de violação a normas constitucionais fora do âmbito do art. 105, III, a, por ausência de demonstração de vulneração aos arts. 55, 59 e 313, V, a, do Código de Processo Civil, e por óbice da Súmula n. 7 do STJ.
+2. A controvérsia diz respeito a agravo de instrumento interposto contra decisão que rejeitou a exceção de pré-executividade, afastou a incompetência da Justiça estadual e indeferiu a suspensão da execução de título extrajudicial.
+3. A Corte de origem negou provimento ao agravo e manteve a decisão de primeiro grau, assentando que o trâmite de ação revisional na Justiça Federal não desloca a competência nem implica a suspensão da execução.
+II. QUESTÃO EM DISCUSSÃO
+4. Há duas questões em discussão: (i) saber se há conexão, prevenção e prejudicialidade externa aptas a justificar a reunião ou a suspensão da execução; e (ii) saber se a presença de ação federal envolvendo o BNDES atrai a competência da Justiça Federal e autoriza a invocação de súmula como fundamento autônomo de violação.
+III. RAZÕES DE DECIDIR
+5. Eventual conexão ou prejudicialidade externa não modifica competência de natureza absoluta e que a simples propositura de ação revisional não determina a suspensão do processo executivo, em consonância com a jurisprudência do STJ, atraindo a aplicação da Súmula n. 83 do STJ.
+6. Rever as premissas fáticas adotadas pelo Tribunal de origem quanto à ausência dos requisitos para suspensão da execução demandaria reexame de provas, o que é vedado pelo óbice da Súmula n. 7 do STJ.
+7. Não cabe, em recurso especial, a análise de suposta ofensa a dispositivo da Constituição Federal, matéria afeta ao Supremo Tribunal Federal.
+8. É inviável recurso especial fundado em alegada violação de enunciado de súmula, conforme Súmula n. 518 do STJ.
+IV. DISPOSITIVO E TESE
+4. Agravo em recurso especial desprovido.
+Tese de julgamento:
+"1. Aplica-se a Súmula n. 83 do STJ quando o acórdão recorrido está em consonância com o entendimento desta Corte acerca da não obrigatoriedade de suspensão da execução por ação revisional e da impossibilidade de modificação de competência absoluta por conexão ou prejudicialidade externa. 2. A Súmula n. 7 do STJ obsta o reexame do conjunto fático-probatório quanto às premissas adotadas pelo Tribunal de origem sobre a suspensão da execução. 3. Refoge à competência do STJ a análise de suposta ofensa a dispositivo da Constituição Federal. 4. Incide a Súmula n. 518 do STJ, sendo incabível recurso especial fundado em alegada violação de enunciado de súmula."
+Dispositivos relevantes citados: CPC, arts. 55, 59, 313, V, a, 85, § 11; CF, art. 109.
+Jurisprudência relevante citada: STJ, Súmulas n. 7, 83, 518; STJ, REsp n. 1.988.920/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 21/3/2023; STJ, AREsp n. 3.055.424/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 16/12/2025; STJ, AgInt no REsp n. 2.129.315/SC, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 19/8/2024; STJ, EDcl no AgInt nos EDcl no AREsp n. 2.431.807/PR, relator Ministro João Otávio de Noronha, Quarta Turma, julgados em 22/8/2024; STJ, AREsp n. 2.846.365/CE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 25/8/2025.
+(AREsp n. 2.798.539/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 4.5.2026, DJEN de 7.5.2026.)
+Destaco, ademais, que a pretensão de rever a conclusão da Corte local, a qual entendeu ser desnecessária a suspensão do processo, demandaria, novamente, o reexame fático dos autos, situação vedada pelo óbice da Súmula n. 7 do STJ.
+Em face do exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro em 10% a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo .
+Intimem-se.
+EMENTA
