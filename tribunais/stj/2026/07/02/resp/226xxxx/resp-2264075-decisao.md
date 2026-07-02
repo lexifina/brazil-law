@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a", da CF, interposto contra acórdão assim ementado (fls. 288-290):
+Direito do Consumidor. Apelação Cível. Mútuo bancário. Conta corrente. Desconto automático. Cláusula contratual. Irrevogabilidade. Legalidade. Apelação desprovida.
+I. CASO EM EXAME
+1. Apelação contra sentença que rejeitou o pedido de revogação da autorização de desconto de parcelas de mútuo bancário em conta corrente de consumidor.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em aferir a legalidade da cláusula que estabelece a irrevogabilidade de autorização de desconto de parcelas de mútuo bancário diretamente da conta corrente do consumidor.
+III. RAZÕES DE DECIDIR
+3. As cláusulas do contrato formado com observância dos requisitos de validade equiparam-se a preceitos normativos imperativos, são dotadas de intangibilidade. É vedada a revisão ou extinção pelo magistrado e a retratabilidade pelas partes contratantes. Admite-se a alteração do conteúdo contratual somente mediante um novo acordo de vontade das partes envolvidas no negócio jurídico. A força obrigatória do contrato objetiva conferir segurança jurídica ao vínculo obrigacional estabelecido pelas partes contratantes.
+4. A pretensão de cancelamento da autorização de desconto de parcelas de empréstimo e débito de cartão de crédito em conta corrente configura ofensa à boa-fé objetiva e à proibição de comportamento contraditório quando o consumidor não renegocia outra forma de pagamento de seus débitos com a instituição financeira.
+5. O cancelamento dos débitos automáticos em conta corrente é possível só nos casos em que o consumidor não reconheça a autorização prévia para a implementação da medida. O cancelamento em razão de arrependimento posterior ou alto comprometimento de renda, como foi alegado pelo apelado, será possível só mediante quitação integral do saldo devedor ou repactuação do contrato com a adequação das taxas de juros aplicáveis em razão da mudança nos termos originais do contrato.
+6. O Superior Tribunal de Justiça não autorizou quebra unilateral irrestrita do contrato mediante revogação de autorização de descontos em conta corrente. Reconheceu a legalidade das cláusulas de irrevogabilidade comuns em contratos de mútuo com desconto em conta corrente e destacou que a revogação da referida cláusula poderia acontecer apenas mediante quitação do saldo devedor ou renegociação deste.
+IV. DISPOSITIVO E TESE
+7. Apelação desprovida.
+Tese de julgamento: "1. É vedado ao consumidor cancelar unilateralmente autorização de desconto de parcelas de mútuo bancário diretamente em conta corrente quando esta foi a condição determinante para a celebração do contrato e oferta das taxas bancárias. 2. A cláusula de irrevogabilidade prevista em contratos de mútuo com débito em conta corrente não é abusiva ou ilegal, visto que constitui-se em mero expediente para garantir o adimplemento da dívida e viabilizar a concessão do crédito ao consumidor a juros menores, que de outro modo talvez não tivesse a oportunidade de celebrar o negócio jurídico".
+___________
+Dispositivos relevantes citados : CDC, art. 4º, III; CC, arts. 421, caput, e 422; Lei nº 13.874/2019; Resolução nº 4.790/2020 do Conselho Monetário Nacional (CMN), arts. 6º, 8º e 9º.
+Jurisprudência relevante citada:Tema Repetitivo nº 1.085/STJ.
+Em suas razões (fls. 321-331), a parte recorrente alegou violação dos seguintes dispositivos legais:
+(i) art. 489, § 1º, VI, do CPC, "pois o acórdão recorrido deixou de demonstrar a existência de qualquer fundamento apto a sustentar a distinção (distinguishing) no caso em julgamento ou a superação do entendimento superior, a decisão é absolutamente nula por falta de fundamentação" (fl. 324),
+(ii) art. 927, III, do CPC, uma vez que " o  Tribunal de Justiça do Distrito Federal e Territórios não observou o julgamento do REsp. nº 1.863.973 - SP (2020/0040610-3), de relatoria do Ministro MARCO AURÉLIO BELLIZZE, sob a sistemática dos Recursos Especiais Repetitivo, Tema 1.085" (fl. 325).
+Contrarrazões apresentadas (fls. 403-418).
+O recurso especial foi admitido na origem (fls. 423-427).
+É o relatório.
+Decido.
+A controvérsia tem origem na ação de obrigação de fazer cumulada com indenização por danos morais, proposta por consumidor para cancelar descontos automáticos em conta corrente relativos a parcelas de mútuos bancários, sob o argumento de que seria abusiva a cláusula de irrevogabilidade da autorização dos descontos. O Tribunal de origem, reformada a sentença, julgou improcedentes os pedidos (fls. 456-465).
+O recurso especial versa, entre outras matérias, sobre questão decidida pelo STJ, segundo o rito dos recursos especiais repetitivos, no julgamento do Tema n. 1.085/STJ, no qual foi fixada tese de que: "São lícitos os descontos de parcelas de empréstimos bancários comuns em conta-corrente, ainda que utilizada para recebimento de salários, desde que previamente autorizados pelo mutuário e enquanto esta autorização perdurar, não sendo aplicável, por analogia, a limitação prevista no § 1º do art. 1º da Lei n. 10.820/2003, que disciplina os empréstimos consignados em folha de pagamento".
+Conforme a jurisprudência pacífica do STJ, "a aplicação em concreto do precedente  se dá na via recursal ordinária, até eventualmente culminar no julgamento, no âmbito do Tribunal local, do agravo interno de que trata o art. 1.030, § 2º, do CPC/15" (Rcl n. 36.476, Ministra Nancy Andrighi, Corte Especial, DJe de 6/3/2020 - grifei).
+A estrita observância do rito de admissibilidade é essencial para a funcionalidade do sistema de precedentes, conforme ressaltou a Corte Especial do STJ, na QO no Ag n. 1.154.599/SP (Relator Ministro Cesar Asfor Rocha, DJe de 12/5/2011 - grifei):
+Não se perca de vista que a redução de processos idênticos permite que o Superior Tribunal de Justiça se ocupe cada vez mais de questões novas, ainda não resolvidas, e relevantes para as partes e para o País.
+Assim, criado o mecanismo legal para acabar com inúmeros julgamentos desnecessários e inviabilizadores de atividade jurisdicional ágil e com qualidade, os objetivos da lei devem, então, ser seguidos também no momento de interpretação dos dispositivos por ela inseridos no Código de Processo Civil e a ela vinculados, sob pena de tornar o esforço legislativo totalmente inócuo e de eternizar a insatisfação das pessoas que buscam o Poder Judiciário com esperança de uma justiça rápida.
+Uma vez que o recurso especial pretende devolver ao STJ questão decidida em recurso repetitivo, cabia ao Tribunal de origem, no juízo de admissibilidade, "negar seguimento ao recurso", com base no art. 1.030, I, "b", do CPC, ou "encaminhar o processo ao órgão julgador para realização de juízo de retratação", nos termos do art. 1.030, II, do CPC, a fim de exaurir a cognição das instâncias de origem sobre a aplicação da tese do repetitivo ao caso concreto. Eventualmente, poderia apontar distinção para o caso, a fim de justificar a não observância do rito do art. 1.030, I e II, do CPC.
+O Juízo de admissibilidade, no entanto, passou diretamente à hipótese do inciso V do art. 1.030 do CPC, razão pela qual torna-se necessário devolver os autos ao Tribunal de origem a fim de que outra decisão de admissibilidade seja proferida, observando-se o rito dos repetitivos.
+Esclareça-se que a presente decisão versa apenas sobre o rito de admissibilidade na origem, não havendo antecipação de juízo sobre o mérito recursal.
+Ante o exposto, DETERMINO a devolução dos autos ao Tribunal de origem para que outra decisão de admissibilidade seja proferida, observando-se o rito do art. 1.030, I e II, do CPC.
+Fica prejudicado, por ora, o recurso especial.
+Publique-se e intimem-se.
+EMENTA
