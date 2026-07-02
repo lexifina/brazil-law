@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA contra a decisão que inadmitiu o recurso especial (art. 105, III, a, da Constituição Federal) apresentado contra o acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina no julgamento dos embargos de declaração em apelação criminal, assim ementado (fl. 589):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CRIMINAL. OMISSÃO INEXISTENTE. IMPOSSIBILIDADE DE REDISCUSSÃO DE MATÉRIA APRECIADA NO JULGADO IMPUGNADO. AUSÊNCIA DOS REQUISITOS DO ART. 619, DO CPP. EMBARGOS REJEITADOS.
+Nas razões do recurso especial, a parte agravante suscita violação dos seguintes dispositivos de lei federal: arts. 476; 483, IV e V, § 3º, I e II; 492, I, a, b e c; e 619, do Código de Processo Penal; e arts. 59 e 68, do Código Penal (fls. 593/596 e 598/606).
+Sustenta que a Corte estadual violou o art. 619 do Código de Processo Penal ao rejeitar os embargos de declaração sem enfrentar, de maneira objetiva, os dispositivos legais que regulam as matérias sujeitas a debates em plenário e deliberação pelos jurados, bem como a sistemática da dosimetria, especialmente a competência do juiz-presidente para fixar a pena-base à luz do art. 59 do Código Penal, e a discricionariedade regrada do magistrado na primeira fase (fls. 598/599).
+Argumenta que a negativa de conhecimento da apelação criminal por "inovação recursal" contraria os arts. 476; 483, IV e V, § 3º, I e II; 492, I, a, b e c, do Código de Processo Penal, e nega vigência aos arts. 59 e 68 do Código Penal, pois não há comando legal que condicione a valoração das circunstâncias judiciais do art. 59 do Código Penal ao prévio debate em plenário ou à apreciação pelo Conselho de Sentença (fls. 600/606).
+A Corte de origem inadmitiu o reclamo com base no fundamento de incidência da Súmula 7/STJ (fls. 635/641).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou pelo provimento do agravo em recurso especial (fls. 686/693).
+É o relatório.
+O presente agravo em recurso especial deve ser conhecido, uma vez que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+Não há ofensa ao art. 619 do Código de Processo Penal, uma vez que a matéria foi examinada pelo Tribunal a quo, quando do julgamento da apelação, no sentido de que a tese trazida pelo recorrente, sobre a dosimetria da pena, configura inovação recursal, por não ter sido sustentada nos debates em plenário nem registrada em ata, razão pela qual é insuscetível de exame, sob pena de usurpação da competência do Tribunal do Júri. Confira-se o julgado (fl. 576):
+ ..
+DOSIMETRIA. PLEITO DE EXASPERAÇÃO DA PENA-BASE EM RAZÃO DA CULPABILIDADE, DAS CIRCUNSTÂNCIAS E DAS CONSEQUÊNCIAS DO CRIME QUE EXTRAPOLARAM A NORMALIDADE. TESE NÃO APRESENTADA NOS DEBATES EM PLENÁRIO E QUE, CONSEQUENTEMENTE, NÃO FORAM SUBMETIDAS À APRECIAÇÃO DO CONSELHO DE SENTENÇA. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE DE ANÁLISE PELO JUIZ PRESIDENTE E POR ESTE TRIBUNAL, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO TRIBUNAL DE JÚRI.
+ ..
+Na hipótese, constou no acórdão que  ..  da leitura da ata sessão de julgamento do tribunal do júri (evento 486, DOC1), esta tese não foi sustentada pelo representante da acusação, durante os debates, tampouco houve impugnação e registro na ata de julgamento  ..  e que  ..  não há registro de que esta tese tenha sido sustentada em plenário, nem que tenha sido apreciada pelo Conselho de Sentença  ..  (fl. 574).
+E quando opostos embargos de declaração, o julgador local deixou expresso que a decisão fundamentou e rebateu todas as teses suscitadas no recurso de apelação criminal. Dessa forma, inviável a oposição de Embargos Declaratórios para a mera rediscussão da matéria, ou interposição de novas teses recursais, eis que ausentes os requisitos do art. 619, do Código de Processo Penal (fl. 588).
+Com efeito, não é necessário que o tema tenha sido objeto de quesito específico, mas apenas que tenha sido aventado nos debates em Plenário, o que não se verifica na hipótese dos autos (AgRg no HC n. 822.409/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, j. 28/8/2023 - grifo nosso).
+Aplica-se, diante disso, a Súmula 568/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+DIREITO PROCESSUAL PENAL E PENAL. AGRAVO EM RECURSO ESPECIAL. TRIBUNAL DO JÚRI. DOSIMETRIA DA PENA. PENA-BASE. INOVAÇÃO RECURSAL. TESE NÃO SUSTENTADA EM PLENÁRIO NEM REGISTRADA EM ATA. USURPAÇÃO DA COMPETÊNCIA DO TRIBUNAL DO JÚRI. EMBARGOS DE DECLARAÇÃO REJEITADOS. APLICAÇÃO DA SÚMULA 568 DO STJ.
+Agravo conhecido para negar provimento ao recurso especial.
