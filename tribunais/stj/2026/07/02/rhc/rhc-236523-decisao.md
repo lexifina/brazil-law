@@ -1,0 +1,85 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, sem pedido liminar, interposto por ELIVALDO XAVIER BARBOSA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ que denegou o writ de origem.
+Consta dos autos que o recorrente foi condenado pelo Tribunal do Júri à pena de 16 anos de reclusão, como incurso nas sanções do art. 121, § 2º, II, III e IV, do Código Penal, sendo determinado o cumprimento imediato da pena, nos termos do Tema n. 1.068/STF.
+No presente recurso ordinário, a defesa sustenta que a decisão merece reforma, pois contraria o entendimento constitucional de que a execução da pena exige o trânsito em julgado ou fundamentação cautelar idônea, não se concordando com a posição do STF firmada no Tema n. 1.068.
+Aduz que está pendente o julgamento do recurso de apelação, não sendo possível o cumprimento imediato da pena, por se revelar em prisão cautelar que requer o preenchimento dos requisitos constantes da lei e que não foram demonstrados. Alega, ainda, a ausência de fundamentos para a decretação da prisão preventiva.
+Requer o provimento do recurso para que seja, liminarmente, concedido o efeito suspensivo ao recorrente que aguarda o julgamento do recurso de apelação e, no mérito, a cassação do acórdão recorrido e a concessão do habeas corpus.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso, através de parecer assim ementado (fl. 634):
+RECURSO EM HABEAS CORPUS. CONDENAÇÃO PELO TRIBUNAL DO JÚRI. CRIME DE HOMICÍDIO QUALIFICADO. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO. DETERMINAÇÃO DA EXECUÇÃO IMEDIATA DA PENA. CABIMENTO.
+- A partir do julgamento do Tema 1.068, a jurisprudência do STF autoriza a imediata execução da pena imposta pelo Tribunal do Júri, independentemente do total da pena aplicada e de quando ocorreram os fatos.
+Pelo desprovimento recursal.
+É o relatório.
+O recurso é tempestivo e deve ser conhecido. Passa-se, portanto, ao exame do mérito.
+Acerca da controvérsia, consta do acórdão recorrido (fls. 514-519):
+No caso dos autos, verifica-se que, ao final da sentença, o Magistrado a quo condenou o paciente ao cumprimento de pena de 16 (dezesseis) anos de reclusão, em regime inicialmente fechado, pela prática do delito descrito no art. 121, § 2º, incisos II (motivo fútil), III (meio cruel) e IV (recurso que impossibilitou a defesa da vítima), do Código Penal Brasileiro, sendo determinada a imediata expedição de mandado de prisão (fls. 414/417 dos autos originários), in verbis:
+" ..
+A soberania dos vereditos do Tribunal do Júri autoriza a imediata execução da condenação imposta pelo corpo de jurados, independentemente do total da pena aplicada.
+Esse entendimento é do Plenário do Supremo Tribunal Federal, em decisão com repercussão geral.
+O Supremo Tribunal Federal (STF) decidiu que a soberania das decisões do Tribunal do Júri (ou júri popular), prevista na Constituição Federal, justifica a execução imediata da pena imposta. Dessa forma, condenados por júri popular podem ser presos imediatamente após a decisão.
+O entendimento foi firmado por maioria de votos, no julgamento do Recurso Extraordinário (RE) 1235340. A matéria tem repercussão geral (Tema 1068), o que significa que a tese fixada deve ser aplicada a todos os casos semelhantes nas demais instâncias do Judiciário.
+Também prevaleceu no julgamento o entendimento de que o artigo 492do Código de Processo Penal (CPP), na parte que condiciona a execução imediata apenas das condenações a penas de no mínimo 15 anos de reclusão, é inconstitucional, pois relativiza a soberania do júri.
+Assim, seguindo o entendimento da Excelsa Corte, NEGO AO RÉU O DIREITO DE RECORRER EM LIBERDADE, tendo como motivação a posição do STF e para garantir a eficácia e execução da decisão do Colegiado Popular e determino a EXPEDIÇÃO DE MANDADO DE PRISÃO, devendo ser encaminhado à Vara de Custódia.
+ .. "
+Em fundamento da sua decisão, o Juízo a quo asseverou que, considerando o entendimento do Pretório Excelso, adotado no RE nº. 1235340, sob a sistemática de julgamento de recursos repetitivos, portanto de observância obrigatória, e ressalvado seu entendimento pessoal em contrário, determinava a imediata expedição de mandado de prisão no sistema BNMP.
+Pois bem.
+É imperioso ressaltar que, anteriormente, consoante o diploma legal do art. 492, inciso I, alínea "e", do CPP, nos casos em que o réu fosse condenado pelo Tribunal do Júri, o magistrado poderia determinar a execução provisória da pena quando esta fosse igual ou superior a 15 (quinze) anos, ou decretar a prisão preventiva, se presentes os requisitos do art. 312 do CPP.
+ ..
+Entretanto, quanto a análise da (in)constitucionalidade do art. 492, inciso I, alínea "e", do CPP, a matéria foi alçada como de Repercussão Geral, no Recurso Extraordinário 1.235.340, sob relatoria do Min. Luís Roberto Barroso.
+O eminente Relator, o Min. Luís Roberto Barroso, defendeu a viabilidade de fundamentar a segregação unicamente em decisão condenatória do Tribunal do Júri independentemente da pena aplicada, pois a instância recursal não poderia substituir a vontade do Conselho de Sentença quanto à autoria e materialidade do delito, mas, tão-somente, propiciar ao réu novo julgamento, isso em hipóteses excepcionais, o que, na sua ótica, autorizaria a execução imediata da pena depois da condenação pelos jurados.
+Ainda conforme o insigne Relator, essa decisão não contrariava o que foi julgado pelo Supremo Tribunal Federal nas AD Cs 43, 44 e 54, em face da soberania dos veredictos do Tribunal do Júri. Destacou, em seu voto, que o princípio da presunção de inocência pode ser mitigado, se ponderado com outros princípios ou bens jurídicos constitucionais colidentes.
+Com efeito, após voto do Ministro Edson Fachin, que divergiu do Relator, votando pela execução imediata da pena, mas apenas para condenações com pena superior a 15 (quinze) anos, formando o STF maioria para permitir execução imediata de prisão após júri popular, o Ministro Gilmar Mendes, na data de 06 de agosto de 2023, pediu destaque e interrompeu o julgamento do RE 1.235.340. Assim, o julgamento, que contava com 9 (nove) votos, foi reiniciado, com análise da matéria em plenário físico.
+O Recurso Extraordinário teve seu julgamento reiniciado e, em 12/09/2024, os ministros fixaram a tese da possibilidade da execução provisória da pena no caso de condenação proferida pelo Tribunal do Júri, independentemente do quantum de pena.
+Superada essa questão, convém analisar a natureza jurídica da norma e a possibilidade de sua aplicação imediata.
+De logo, registro que a Lei n. 13.964/19 (com vigência superveniente a partir de 23/01/2020), na sua parte processual, é dotada de aplicação imediata, vigorando o princípio do tempus regit actum - nos termos do próprio art. 2º do CPP: "A lei processual penal aplicar-se-á desde logo, sem prejuízo da validade dos atos realizados sob a vigência da lei anterior".
+Inegável, ainda, que a norma do art. 492, inciso I, alínea e, do Código de Processo Penal, que determina a execução provisória da pena é de natureza eminentemente processual e, portanto, tem aplicação imediata aos processos em curso, pois se submete ao princípio tempus regit actum, segundo o qual a lei processual penal deve ser aplicada a partir de sua vigência.
+ ..
+Dessa forma, não há em que se falar em retroatividade de lei mais gravosa, afinal, a decisão do Supremo Tribunal Federal fundamenta-se no texto constitucional, tanto é que o caso paradigma julgado no RE n. 1.235.340/SC versou sobre crime praticado em 11 de agosto de 2016, anterior, portanto, ao próprio Pacote Anticrime.
+No caso deste mandamus, embora o fato delitivo tenha ocorrido em março de 2006, o julgamento pelo Tribunal do Júri foi realizado em 18 de novembro de 2025 portanto, posteriormente ao decidido no Tema 1068 do STF.
+Por fim, quanto a alegativa de que não houve modulação dos efeitos da decisão pelo STF, tal afirmativa somente reforça que o efeito da decisão é imediato e aplicável aos processos em curso.
+Verifica-se que a execução imediata da pena foi determinada com base em fundamentação idônea, especialmente o constante do Tema n. 1.068, em que a jurisprudência do Supremo Tribunal F ederal autoriza a execução imediata da pena, independentemente da pena aplicada e da data dos fatos.
+Ademais, o acórdão está em consonância com a jurisprudência do Superior Tribunal de Justiça no sentido de que a execução imediata da pena imposta pelo Tribunal do Júri tem aplicabilidade imediata, mesmo em relação a fatos ocorridos antes da vigência da Lei n. 13.964/2019, em razão da ausência de modulação temporal dos efeitos da decisão do Supremo Tribunal Federal.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. DOSIMETRIA. REITERAÇÃO DE PEDIDO. EXECUÇÃO PROVISÓRIA DA PENA. POSSIBILIDADE. APLICABILIDADE IMEDIATA. TEMA N. 1.068 DA REPERCUSSÃO GERAL. PRISÃO DOMICILIAR. INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, mantendo a execução provisória de pena, com base no art. 492, I, e, do Código de Processo Penal, introduzido pela Lei n. 13.964/2019.
+2. O agravante foi condenado pelo delito de homicídio qualificado à pena de 9 anos e 2 meses de reclusão, em regime inicial fechado, sendo negado o direito de apelar em liberdade.
+3. A defesa alegou abusividade na fixação da pena-base e reformatio in pejus quanto à fração da confissão espontânea, além de requerer a suspensão da execução da pena ou, alternativamente, o direito de recorrer em prisão domiciliar.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se a dosimetria da pena imposta ao agravante pode ser discutida em habeas corpus, a despeito da interposição de recurso especial concomitante contra o mesmo acórdão.
+5. Também se discute se a execução provisória da pena imposta pelo Tribunal do Júri pode ser aplicada a fatos ocorridos antes da vigência da Lei n. 13.964/2019, considerando a tese de repercussão geral fixada pelo STF no Tema 1.068.
+III. RAZÕES DE DECIDIR
+6. A dosimetria da pena imposta ao agravante está sendo discutida em sede de recurso especial, meio recursal próprio, o que impede a análise concomitante da matéria por meio de habeas corpus, em observância ao princípio da unirrecorribilidade.
+7. A jurisprudência do STF autoriza a imediata execução da pena imposta pelo Tribunal do Júri, independentemente do total da pena aplicada, conforme o Tema 1.068 de repercussão geral.
+8. A ausência de modulação temporal dos efeitos da decisão do STF permite a aplicação imediata da execução provisória da pena, mesmo para fatos ocorridos antes da vigência da Lei n. 13.964/2019.
+9. A possibilidade de concessão de prisão domiciliar constitui inovação recursal, sendo inviável o seu conhecimento por não ter sido suscitada nas razões iniciais do habeas corpus.
+IV. DISPOSITIVO E TESE
+10. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. O princípio da unirrecorribilidade impede a utilização simultânea de habeas corpus e recurso especial contra o mesmo ato judicial. 2.
+A execução provisória da pena imposta pelo Tribunal do Júri é autorizada pela soberania dos veredictos, independentemente do total da pena aplicada. 3. A ausência de modulação temporal dos efeitos da decisão do STF permite a aplicação imediata da execução provisória da pena.
+Dispositivos relevantes citados: CPP, art. 492, I, e.
+Jurisprudência relevante citada: STJ, AgRg no RHC n. 184.017/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/9/2023, DJe de 13/9/2023; STF, RE 1.235.340/SC, Tema 1068 da Repercussão Geral; STJ, AgRg no REsp n. 1.951.442/PE, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 23/11/2021; STJ, AgRg no HC 788.126/SC, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 17/9/2024.
+(AgRg no HC n. 1.031.764/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/3/2026, DJEN de 9/3/2026.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. TRIBUNAL DO JÚRI. EXECUÇÃO IMEDIATA DA PENA. APLICAÇÃO DO ART. 492, I, "E", DO CPP A FATOS ANTERIORES À LEI 13.964/2019. PENA INFERIOR A 15 ANOS. REFORMATIO IN PEJUS. TEMA 1.068/STF. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto pela defesa contra decisão monocrática que conheceu e deu provimento ao recurso especial do Ministério Público estadual, para reformar acórdão do Tribunal de origem e determinar a imediata execução da pena fixada pelo Tribunal do Júri, em condenação pelo crime do art. 121, caput, c/c o art. 14, II, do Código Penal, à reprimenda de 4 anos e 8 meses de reclusão.
+2. O agravante sustenta que a sentença lhe assegurara o direito de recorrer em liberdade, de modo que a posterior ordem de prisão implicaria agravamento de sua situação (reformatio in pejus), que o crime ocorreu em 2005, antes da vigência da Lei n. 13.964/2019, e que não seria obrigatória a prisão automática na hipótese de condenação pelo Tribunal do Júri a pena inferior a 15 anos.
+II. QUESTÃO EM DISCUSSÃO
+3. Há três questões em discussão: (i) saber se a execução imediata da pena, prevista no art. 492, I, "e", do Código de Processo Penal e consolidada pelo Tema 1.068 do STF, pode ser aplicada a fatos anteriores à vigência da Lei n. 13.964/2019; (ii) saber se a determinação de execução imediata da pena, após a sentença ter permitido ao réu recorrer em liberdade, configura violação ao princípio da vedação à reforma para pior ou preclusão consumativa em desfavor da acusação; (iii) saber se a execução provisória da pena imposta pelo Tribunal do Júri depende do patamar mínimo de 15 anos de reclusão ou se se legitima pela soberania dos veredictos, independentemente do quantum da pena aplicada.
+III. RAZÕES DE DECIDIR
+4. O colegiado adota a orientação de que, à luz do Tema 1.068 de repercussão geral, a execução imediata da pena imposta pelo Tribunal do Júri tem aplicabilidade imediata, mesmo em relação a fatos ocorridos antes da vigência da Lei n. 13.964/2019, em razão da ausência de modulação temporal dos efeitos da decisão do Supremo Tribunal Federal.
+5. A determinação de início da execução da pena antes do trânsito em julgado não configura violação ao princípio da impossibilidade de reforma para pior, nem preclusão consumativa, porque decorre de tese vinculante fixada pelo STF, fundada na soberania dos veredictos do Tribunal do Júri, e o Ministério Público não praticou ato processual em repetição que impedisse a formulação do pleito de execução imediata.
+6. A exequibilidade da decisão do Tribunal do Júri não se vincula ao montante da pena aplicada, mas à soberania dos veredictos, razão pela qual, conforme interpretação conforme à Constituição conferida ao art. 492, I, "e", do CPP no RE 1.235.340/SC (Tema 1.068/STF), é inconstitucional condicionar a execução imediata ao limite mínimo de 15 anos de reclusão, devendo ser afastada essa restrição.
+7. A jurisprudência desta Corte Superior, em consonância com o entendimento firmado pelo Supremo Tribunal Federal, consolidou-se no sentido de que a execução provisória da pena imposta pelo Tribunal do Júri não configura constrangimento ilegal, devendo ser observada pelos tribunais de origem, independentemente do quantum da pena e da data do fato delituoso.
+IV. DISPOSITIVO E TESE
+8. Resultado do Julgamento: Agravo regimental desprovido, mantida a decisão que deu provimento ao recurso especial ministerial para determinar a imediata execução da pena fixada pelo Tribunal do Júri.
+Tese de julgamento:
+1. Os efeitos do Tema 1.068 do STF autorizam a aplicação imediata da execução provisória da pena imposta pelo Tribunal do Júri, inclusive a fatos anteriores à vigência da Lei n. 13.964/2019, ante a ausência de modulação temporal.
+2. A execução imediata da pena fixada pelo Tribunal do Júri não depende do patamar mínimo de 15 anos de reclusão, por decorrer da soberania dos veredictos, sendo incompatível com a Constituição Federal a limitação contida no art. 492, I, "e", do CPP.
+3. A determinação de execução provisória da pena, em observância a tese firmada pelo Supremo Tribunal Federal, não configura reformatio in pejus nem preclusão consumativa em desfavor da acusação, ainda que a sentença tenha assegurado ao réu o direito de recorrer em liberdade.
+Dispositivos relevantes citados: CF/1988, art. 105, III, "a"; CPP, art. 492, I, "e"; Lei n. 13.964/2019; CP, art. 121, caput; CP, art. 14, II Jurisprudência relevante citada: STF, RE 1.235.340/SC (Tema 1.068 da repercussão geral), Plenário, Rel. Min. Luís Roberto Barroso, DJe 13.11.2024; STJ, AgRg no HC 1.031.764/RS, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 09.03.2026; STJ, AgRg no RHC 221.371/PE, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJEN 28.10.2025
+(AgRg no REsp n. 2.237.220/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 13/5/2026, DJEN de 19/5/2026.)
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
