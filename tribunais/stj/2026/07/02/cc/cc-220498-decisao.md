@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de conflito negativo de competência, por iniciativa do Juízo da 6ª Vara Federal de Niterói/RJ em face do Juízo da 2ª Vara Cível da Comarca de Maricá/RJ.
+A demanda subjacente consiste em ação de obrigação de fazer ajuizada por Verônica de Souza Silva em face de várias instituições financeiras, dentre elas a Caixa Econômica Federal - CEF, buscando limitar descontos oriundos de empréstimos consignados ao percentual de 35% (trinta e cinco por cento) de sua renda líquida (fls. 3-16).
+O Juízo estadual declinou da competência sob o fundamento de que a presença da CEF no polo passivo da demanda atrairia a competência da Justiça Federal. Veja-se:
+Nos termos do artigo 109, inciso I, da Constituição Federal, compete à Justiça Federal julgar as causas em que a União, suas autarquias ou empresas públicas federais forem interessadas na condição de autoras, rés, assistentes ou oponentes, excetuadas as causas de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho.
+A CAIXA ECONÔMICA FEDERAL, sendo empresa pública federal, enquadra-se na hipótese do dispositivo constitucional mencionado, o que atrai a competência absoluta da Justiça Federal (fl. 19).
+Por sua vez, o Juízo federal suscitou este conflito sob fundamento de que as ações de repactuação de dívidas em razão de superendividamento devem ser processadas pela Justiça Estadual. Transcrevo:
+A Segunda Seção do Superior Tribunal de Justiça firmou recentemente entendimento no Conflito de Competência nº 193.066 no sentido de que compete ao juízo comum, estadual ou distrital, processar e julgar ações de repactuação de dívidas fundamentadas nos artigos 104-A a 104-C, do CDC, dispositivos inseridos pela lei do superendividamento (Lei nº 14.181/21).
+(..)
+Outrossim, diante da natureza concursal da ação de repactuação de dívidas, descabe a cisão processual ante a necessidade de concentrar todas as decisões que envolvam os interesses e patrimônio do consumidor, a fim de não comprometer os procedimentos atinentes à tentativa de, preservado o mínimo existencial, o devedor possa solver suas obrigações financeiras (trecho do voto do Ministro Marco Buzzi no Conflito de Competência nº 193.066) - (fl. 17).
+O Ministério Público Federal ofereceu parecer (fls. 91-94), opinando pelo reconhecimento da competência do Juízo estadual.
+Assim delimitada a controvérsia, verifica-se que a questão já foi dirimida no âmbito da Segunda Seção do Superior Tribunal de Justiça, que adotou o entendimento de que cabe à Justiça Federal julgar as demandas de repactuação de dívidas quando propostas exclusivamente em face de ente federal, ao passo que, havendo concurso de credores, a competência será da Justiça Estadual. Confiram-se:
+CONFLITO DE COMPETÊNCIA. AÇÃO DE REPACTUAÇÃO DE DÍVIDAS. SUPERENDIVIDAMENTO. POLO PASSIVO COMPOSTO APENAS PELA CAIXA
+ECONÔMICA FEDERAL. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. Conflito de competência instaurado no âmbito de ação de repactuação de dívidas por superendividamento, movida exclusivamente contra a Caixa Econômica Federal, em que se busca a revisão e a integração dos contratos, além da repactuação dos débitos mediante plano judicial compulsório.
+2. Nos termos da jurisprudência desta Corte, deve ser reconhecida a competência da Justiça Federal para processar e julgar as ações de repactuação de dívidas por superendividamento em que não há concurso de credores entre instituições financeiras diversas e o polo passivo é composto apenas por ente federal.
+Conflito de competência conhecido para declarar a competência do Juízo federal.
+(CC n. 215.067/PA, relator Ministro Humberto Martins, Segunda Seção, julgado em 16/9/2025, DJEN de 19/9/2025, grifou-se.)
+CONFLITO DE COMPETÊNCIA. AÇÃO DE REPACTUAÇÃO DE DÍVIDAS. SUPERENDIVIDAMENTO. POLO PASSIVO COMPOSTO POR DIVERSOS CREDORES BANCÁRIOS, INCLUSIVE A CAIXA ECONÔMICA FEDERAL. EXCEÇÃO À REGRA GERAL. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+1. Conflito de competência instaurado no âmbito de ação de repactuação de dívidas por superendividamento, movida contra diversos credores bancários, incluindo a Caixa Econômica Federal, em que se busca a revisão e a integração dos contratos, além da repactuação dos débitos mediante plano judicial compulsório.
+2. Nos termos da jurisprudência desta Corte, deve ser reconhecida a excepcional competência da Justiça estadual ou distrital para processar e julgar as ações de repactuação de dívidas por superendividamento em que há concurso de credores entre instituições financeiras diversas e o polo passivo não é composto apenas por ente federal.
+Conflito de competência conhecido para declarar a competência do Juízo estadual.
+(CC n. 215.336/SC, relator Ministro Humberto Martins, Segunda Seção, julgado em 14/10/2025, DJEN de 17/10/2025, grifou-se.)
+Tal compreensão também se estende às demandas em que se busca a limitação do percentual de descontos oriundos de empréstimos consignados, em contexto de superendividamento, conforme se verifica do seguinte precedente:
+CONFLITO DE COMPETÊNCIA. DIREITO DO CONSUMIDOR. LIMITAÇÃO DE DESCONTOS POR EMPRÉSTIMOS CONSIGNADOS. CONCURSO DE CREDORES. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL.
+1. Conflito negativo de competência instaurado entre Juízos vinculados à Justiça Federal e à Justiça Estadual relacionado a ação que visa a limitar os descontos realizados na remuneração da autora, por empréstimos consignados, a percentual definido na legislação local.
+2. A Segunda Seção do Superior Tribunal de Justiça sedimentou o entendimento de que é competente a Justiça Federal para processar e julgar ações de repactuação de dívidas por superendividamento quando não há concurso de credores e o polo passivo é composto apenas por ente federal (CC n. 215.067/PA, relator Ministro Humberto Martins, Segunda Seção, julgado em 16/9/2025, DJEN de 19/9/2025).
+3. Por sua vez, compete à Justiça Estadual ou Distrital julgar as referidas ações quando há concurso de credores e o polo passivo não é composto apenas por ente federal (CC n. 215.336/SC, relator Ministro Humberto Martins, Segunda Seção, julgado em 14/10/2025, DJEN de 17/10/2025).
+4. A ação que busca compelir os credores, em conjunto, a observar percentual máximo de descontos na folha de pagamento do consumidor por empréstimos consignados, em contexto de superendividamento, envolve concurso de credores, o que afasta a competência da Justiça Federal, nos termos do art. 109, inciso I, da Constituição Federal.
+5. Conflito de competência conhecido para declarar competente a Justiça Comum Estadual.
+(CC n. 218.225/RJ, de minha relatoria, Segunda Seção, julgado em 16/6/2026, DJEN de 19/6/2026, grifou-se).
+No caso concreto, segundo já relatado, a autora busca exclusivamente impor aos réus, em conjunto, a observância do percentual máximo de desconto em sua folha de pagamento (fl. 16), afirmando expressamente estar em situação de superendividamento (fl. 12).
+Além disso, a inclusão de várias instituições financeiras no polo passivo da demanda (fl. 3) evidencia a existência de concurso de credores, atraindo a competência da Justiça Estadual.
+Em face do exposto, conheço do conflito para declarar competente o Juízo da 2ª Vara Cível da Comarca de Maricá/RJ.
+Comunique-se. Intimem-se.
+EMENTA
