@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de VINICIUS ALVES COUTINHO, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, que, nos autos do Agravo Regimental no HC n. 5500160-46.2026.8.09.0000, negou provimento ao recurso para não conhecer da impetração (fls. 115-123).
+Consta dos autos que o paciente cumpre pena na Execução Penal n. 7001261-31.2023.8.09.0006, tendo, à época, sido fiscalizado por monitoração eletrônica em regime semiaberto. Após comunicação técnica da Diretoria-Geral de Polícia Penal acerca de indícios de uso de dispositivo inibidor de sinal, o Juízo de Execução decretou a regressão cautelar do regime prisional do apenado e determinou a expedição de mandado de prisão.
+O decreto prisional foi cumprido no dia 09/04/2026 (fl. 112), sendo a respectiva audiência de custódia realizada em 11/04/2026 (fls. 97-100).
+Em seguida, examinadas as justificativas defensivas, o Juízo de primeiro grau homologou falta grave, determinou a regressão definitiva ao regime fechado, alterou a data-base para 09/04/2026 e decretou a perda de 1/3 (um terço) dos dias remidos (fls. 112-114).
+O Tribunal local, por decisão monocrática mantida em agravo regimental, indeferiu liminarmente a impetração originária por inadequação da via eleita.
+No presente writ , a impetrante alega que o habeas corpus é cabível por evidenciar coação ilegal direta à liberdade, consistente na regressão definitiva de regime e na homologação da falta grave sem a prévia realização de audiência de justificação, exigida pelo art. 118, § 2º, da Lei n. 7.210/1984 (Lei de Execução Penal), sendo desnecessária dilação probatória para constatar a nulidade, pois bastaria o exame dos atos praticados na execução.
+Sustenta que o paciente estava preso e à disposição do Juízo quando sobreveio a decisão definitiva, o que tornaria injustificável a supressão da oitiva judicial, e que a autodefesa oral é imprescindível e não se supre por defesa técnica escrita, dada a gravidade das consequências executórias impostas.
+Argumenta, ainda, que a existência de agravo em execução não impede o manejo concomitante do habeas corpus quando a ilegalidade é manifesta e o recurso não possui efeito suspensivo, de modo que a manutenção do regime fechado e dos efeitos da falta grave perpetua constrangimento ilegal.
+Aponta, ademais, negativa de prestação jurisdicional, porque o acórdão impugnado não teria enfrentado a tese objetiva de nulidade por violação ao art. 118, § 2º, limitando-se a rechaçar a via eleita sem examinar o mérito da irregularidade apontada.
+Requer, liminarmente e no mérito, a concessão da ordem para cassar o acórdão do Tribunal de origem e reconhecer a nulidade da decisão que homologou a falta grave sem audiência de justificação.
+Subsidiariamente, pugna pelo reconhecimento da negativa de prestação jurisdicional, com cassação do acórdão e retorno para novo julgamento do habeas corpus.
+É o relatório.
+Decido.
+É consolidada a jurisprudência deste Superior Tribunal de Justiça no sentido de que a prerrogativa do relator para julgar monocraticamente o habeas corpus e o respectivo recurso não é afastada pelas normas regimentais que preveem a oitiva prévia do Ministério Público Federal (arts. 64, III, e 202 do RISTJ), notadamente quando a matéria se conforma com o entendimento dominante desta Corte (AgRg no HC n. 856.046/SP, de relatoria do Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023).
+De início, verifico que, conquanto a Corte estadual haja decidido pela manutenção do indeferimento liminar da impetração originária, o voto condutor do respectivo acórdão enfrentou o mérito da controvérsia, ainda que de forma tangencial, conforme se extrai dos seguintes trechos (fl. 121, grifamos):
+(..)
+A defesa sustenta a nulidade da decisão proferida nos autos da execução penal nº 7001261-31.2023.8.09.0006, ao argumento de que a homologação da falta grave, a regressão definitiva do regime prisional, a alteração da data-base para progressão e a perda de dias remidos ocorreram sem a prévia realização da audiência de justificação prevista no art. 118, § 2º, da Lei de Execução Penal.
+(..)
+De toda sorte, não se verifica situação excepcional que justifique o afastamento da via recursal adequada. Conforme destacado na decisão monocrática, o Juízo da Execução analisou os relatórios de monitoramento eletrônico e as justificativas apresentadas pela defesa, concluindo pela prática da falta grave e pela regressão definitiva do regime prisional.
+Assim, não se identifica flagrante ilegalidade, teratologia ou ausência de fundamentação capaz de justificar o conhecimento excepcional da impetração.
+Nesse contexto, a mera discordância da defesa quanto ao procedimento adotado pelo Juízo da Execução não caracteriza constrangimento ilegal manifesto apto a autorizar a utilização do habeas corpus.
+(..)
+Quanto ao tema, impende salientar que o Superior Tribunal de Justiça possui entendimento sedimentado acerca da impossibilidade de dispensa do processo administrativo disciplinar para fins do reconhecimento definitivo da infração disciplinar, a partir do julgamento, pela Terceira Seção, do REsp n. 1.378.557/RS, sob o rito de julgamento de recursos repetitivos.
+É esse o teor da tese fixada pelo Tema Repetitivo n. 652 do Superior Tribunal de Justiça:
+Para o reconhecimento da prática de falta disciplinar, no âmbito da execução penal, é imprescindível a instauração de procedimento administrativo pelo diretor do estabelecimento prisional, assegurado o direito de defesa, a ser realizado por advogado constituído ou defensor público nomeado.
+Posteriormente, tal compreensão consolidou-se por meio da Súmula n. 533/STJ, segundo a qual,
+Para o reconhecimento da prática de falta disciplinar, no âmbito da execução penal, é imprescindível a instauração de procedimento administrativo pelo diretor do estabelecimento prisional, assegurado o direito de defesa, a ser realizado por advogado constituído ou defensor público nomeado.
+Outrossim, em virtude de recente orientação do Supremo Tribunal Federal, o Superior Tribunal de Justiça adotou a interpretação de que
+a Súmula n. 533 do STJ deve ser relativizada, sobretudo em casos como o presente, em que o reeducando pratica a falta grave fora do estabelecimento prisional e não é realizado o PAD, porém, é efetuada audiência de justificação garantindo ao sentenciado o direito ao contraditório e à ampla defesa, pois, dessa forma, a ausência de realização do Procedimento Administrativo Disciplinar (PAD) não causaria prejuízo à defesa do apenado (HC n. 577.233/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/8/2020, DJe de 24/8/2020, grifamos)
+No caso dos autos, todavia, tenho que a ordem deve ser denegada.
+Com efeito, no dia 09/04/2026, o Juízo de Execução, diante da notícia de suposta infração disciplinar pelo paciente, determinou a regressão cautelar do apenado, com a expedição de mandado prisional em seu desfavor para que apresentasse justificação (fls. 31-34).
+Ato contínuo, em decisão proferida no dia 05/05/2026, assim relatou o Magistrado (fl. 112, grifamos):
+Versam os autos sobre procedimento de execução penal do sentenciado Vinícius Alves Coutinho, atualmente em regime fechado.
+Nos termos da decisão do evento 112.1, após notícia de utilização de Jammer, foi decretada a regressão cautelar.
+Mandado de prisão cumprido no dia 09/04/2026.
+A defesa manifesta pelo relaxamento da prisão, pois houve a prisão antes da expedição do mandado no sistema BNMP.
+Sobre o mérito da violação, argumenta que não há provas seguras do descumprimento ou prova do dolo e da culpa.
+Diz ainda, que não houve perícia na tornozeleira eletrônica e a não localização do aparelho bloqueador de sinal e que as violações podem ter sido registradas por defeitos técnicos.
+Cita ainda, que a defesa já havia antecipado que os policiais penais estiveram na residência e mesmo sendo informado pela genitora que o sentenciado lá estava, os agentes penais foram embora e fizeram a notificação.
+O parquet, manifesta pela regressão definitiva.
+Vieram-me conclusos.
+(..)
+Dos verbetes acima destacados, extrai-se, portanto, ter havido o recolhimento cautelar do paciente, tendo-lhe sido oportunizado o direito ao contraditório e ampla defesa, os quais, como visto, foram regularmente exercidos.
+Por fim, assim restou fundamentado o decisum que reconheceu e homologou a falta disciplinar atribuída ao paciente (fl. 113, grifamos):
+Sobre a alegação de nulidade da prisão, entendo que é matéria superada.
+Logo após o cumprimento da ordem de prisão, a defesa impetrou Habeas Corpus em favor do sentenciado, que conforme decisão do evento 124.1, indeferiu o pedido liminar e manteve a prisão já devidamente regularizada no sistema BNMP.
+O uso de dispositivo bloqueador de sinal "Jammer" com a finalidade de impedir ou dificultar o regular funcionamento da monitoração eletrônica, revela conduta incompatível com os deveres inerentes ao regime de cumprimento da pena.
+A Lei de Execuções Penais em seu artigo 146C, I e II, estabelece expressamente que o condenado submetido a monitoração eletrônica deve receber, conservar e utilizar adequadamente o equipamento, abstendo-se de removê-lo, violá-lo, modificá-lo ou praticar qualquer ato destinado a frustrar sua finalidade.
+A defesa contesta as informações da central de monitoramento e entende que a não apreensão do bloqueador de sinal, macula a aplicação de sanção, bem como, inexistir perícia técnica que indique o perfeito funcionamento da tornozeleira eletrônica.
+Pois bem, o princípio da não incriminação também deve ser valorado na execução da pena.
+Ora, se o sentenciado é sabedor de que o uso do bloqueador de sinal é falta grave, por óbvio não entregaria o aparelho para fins de comprovação.
+No momento do cumprimento do mandado de prisão, não foi concedida ordem de busca e apreensão.
+No entanto, os relatórios do monitoramento eletrônico são suficientes para a demonstração da violação, que inclusive, não foi destituída pela defesa.
+Sobre a notícia de que forjaram o fato do monitorado não estar na residência, a prova material trazida pela equipe responsável demonstra que, em momento algum houve conversa com a genitora do apenado, sendo que, a informação de que não estava em sua residência foi prestada por outra pessoa e confirma pelo sistema de triangulação de sinal, que apontou que estava nas imediações de Planalmira e Corumbá de Goiás.
+Necessário ainda ressaltar, que o sentenciado utilizou-se conscientemente do aparelho inibidor de sinal, os quais registram pelo menos 508 (quinhentas e oito) violações.
+Isso posto, pelas razões declinadas, rejeito as justificativas apresentadas e homologo a falta grave nos termos do artigo 52 da LEP e regrido-o definitivamente ao regime fechado.
+Da leitura dos excertos supratranscritos, vê-se que a decisão de primeiro grau que homologou a falta grave e determinou a regressão definitiva do regime prisional do apenado, foi proferida com base nos relatórios de monitoramento eletrônico expedidos pela Central de Monitoramento, os quais foram considerados suficientes pelo Magistrado para a demonstração da violação apontada; motivo pelo qual foram rejeitadas as justificativas apresentadas pelo ora paciente.
+Insta salientar que o reconhecimento da infração disciplinar adveio de decisum exarado pelo Juízo da Execução Penal competente e foi precedido da oitiva judicial do paciente que, acompanhado por defesa técnica, apresentou suas justificações, seguidas de manifestação do Ministério Público estadual; sendo os respectivos termos corroborados pelo Tribunal de origem, ao dispor que o Juízo da Execução analisou os relatórios de monitoramento eletrônico e as justificativas apresentadas pela defesa, concluindo pela prática da falta grave e pela regressão definitiva do regime prisional (fl. 121).
+Vale dizer, muito embora a decretação da regressão do regime não tenha se dado em sede de formal audiência de justificação, inexistem, ao meu ver, razões capazes para a reforma do aresto combatido, para considerar inócuo o procedimento realizado no primeiro grau; na medida em que o objetivo da almejada solenidade restou igualmente alcançado, ainda que por via diversa, com a integral garantia dos direitos fundamentais a que faz jus o paciente, sem se vislumbrar qualquer prejuízo à sua defesa.
+Isto é, em que pese os argumentos defensivos no sentido da imprescindibilidade da aludida audiência, entendo que, na espécie, sua ausência restou suprida; além do que não se desincumbiu a parte impetrante do ônus de demonstrar o prejuízo concreto ao direito de defesa, sem o qual alteraria o resultado do julgamento e tornaria nula a homologação da falta; de modo a incidir à hipótese o princípio Pas de nullité sans grief (RCD no HC n. 1.006.856/RS, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 13/8/2025, DJEN de 18/8/2025).
+Desse modo, não se vislumbra a existência de constrangimento ilegal a ser sanado nesta via.
+Ante  o  exposto,  denego o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
