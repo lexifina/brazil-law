@@ -1,0 +1,48 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que manteve a decisão de não conhecimento do agravo em recurso especial.
+O julgado recorrido recebeu a seguinte ementa (fl. 181):
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PROCURAÇÃO DO SUBSCRITOR DO AGRAVO E DO APELO ESPECIAL. INTIMAÇÃO PARA REGULARIZAÇÃO. FALHA NÃO SUPRIDA OPORTUNAMENTE. SÚMULA 115/STJ. DECISÃO DA PRESIDÊNCIA MANTIDA.
+1. Conforme se depreende dos autos, a parte agravante não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes ao subscritor do recurso especial e do agravo em recurso especial, no momento de sua interposição, o que torna inexistente o recurso, na linha da jurisprudência do Superior Tribunal de Justiça. A parte agravante, devidamente intimada, não sanou o vício de sua representação no prazo determinado. Incidência da Súmula 115/STJ.
+2. Nos termos da jurisprudência desta Corte, a alegação de existência de procuração nos autos originários não sana a irregularidade na representação processual, que deve ser comprovada no ato da interposição do recurso especial.
+Agravo interno improvido.
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, XXXV, LIV e LV, e 93, IX, da Constituição Federal.
+Nesse sentido, sustenta ter havido negativa de prestação jurisdicional, pois o órgão julgador teria deixado de enfrentar de modo específico o combate à aplicação das Súmulas n. 284 do STF e n. 182 do STJ, incorrendo em fundamentação genérica.
+Afirma ter havido cerceamento de defesa e violação do devido processo legal, porque a aplicação do óbice sumular teria impedido o exame das teses deduzidas e o acesso à jurisdição plena.
+Argumenta ter sido aplicado excessivo rigor formal no acórdão recorrido, sem haver cotejo do que efetivamente constaria das razões do recurso interposto, o que enfraqueceria a segurança jurídica e desvirtuaria a função constitucional dos tribunais superiores.
+Defende o retorno dos autos ao órgão julgador, prolator do acórdão recorrido, para afastar o óbice da Súmula n. 182 do STJ e viabilizar o julgamento do agravo em recurso especial e, por conseguinte, do recurso especial.
+Requer, assim, a admissão e o provimento do recurso.
+É o relatório.
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 183-185):
+A decisão agravada conheceu do agravo para não conhecer do recurso especial em razão do óbice da Súmula 115/STJ.
+A propósito, consignou-se (fls. 150):
+Por meio da análise do recurso de verifica-se que a SILVA & DARIO LTDA, parte recorrente não procedeu à juntada da procuração cadeia completa de e/ousubstabelecimento conferindo poderes à subscritora do Agravo e do Recurso Especial, Dra. LORENA PONTES IZEQUIEL LEAL.
+Ademais, percebeu-se, no STJ, haver irregularidade na representação processual do recurso. A parte, embora regularmente intimada para sanar referido vício, deixou o prazo transcorrer in albis.
+Dessa forma, o recurso não foi devida e oportunamente regularizado, incidindo, na espécie, o disposto na Súmula n. 115/STJ.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do § 11, do Código de Processo Civil, art. 85, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Vale ressaltar que, ao analisar o recurso especial, esta Corte verificou a ocorrência do vício e determinou a intimação da parte recorrente para a regularização da representação processual no prazo de 5 (cinco) dias (fls. 143), o que não foi feito no prazo estipulado, conforme certidão de decurso de prazo (fls. 148).
+Conforme se depreende dos autos, a parte agravante não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes ao subscritor do recurso especial e do agravo em recurso especial, no momento de sua interposição, o que torna inexistente o recurso, na linha da jurisprudência do Superior Tribunal de Justiça. A parte agravante, devidamente intimada, não sanou o vício de sua representação no prazo determinado.
+Nesse ínterim, é de bom alvitre o registro de que é ônus da parte zelar pela correta formação do agravo de instrumento, não sendo suficiente a afirmação de que existe procuração nos autos originários. Inclusive, esta Corte já assentou o entendimento de que a dispensa da juntada de procuração em processos eletrônicos, prevista no art. 1.017, § 5º, do CPC/2015, não se estende ao recurso especial ou ao agravo em recurso especial, visto que o referido dispositivo é direcionado apenas à classe agravo de instrumento.
+Nesse sentido, cito:  .. .
+Ademais, nos termos da jurisprudência desta Corte, a alegação de existência de procuração nos autos originários não sana a irregularidade na representação processual, que deve ser comprovada no ato da interposição do recurso especial.
+A propósito, cito:  .. .
+Dessa forma, a Presidência desta Corte exarou acertadamente decisão de não conhecimento do recurso, em razão da incidência da Súmula 115/STJ.
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. No tocante às demais alegações, nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o STF já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não tem repercussão geral.
+Quando o STJ não analisar o mérito do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos.
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do recurso extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+4. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REP ERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
