@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo da decisão de inadmissibilidade do recurso especial interposto por LUCIANO PAULINO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo que indeferiu a revisão criminal.
+No recurso especial, a parte aponta negativa de vigência aos arts. 59 e 68 do Código Penal e aos arts. 41 e 156 do Código de Processo Penal. Requer a anulação da condenação.
+Com contrarrazões, o recurso especial foi inadmitido na origem, ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o Ministério Público Federal manifestou-se pelo não conhecimento do agravo ou pelo não conhecimento do recurso especial.
+É o relatório.
+Atendidos os requisitos de admissibilidade, conheço do agravo e passo à análise do recurso especial.
+O recurso especial é deficiente na sua fundamentação, por ausência de indicação de ofensa ao art. 621 do Código de Processo Penal e de impugnação aos motivos que levaram ao não conhecimento da revisão criminal na origem, quais sejam, "a revisão não se presta a funcionar como apelação ante a perda de prazo para interposição desta e, bem por isso, inadmissível o reexame de matéria probatória já exaustivamente debatida no bojo do processo de conhecimento, nem pode servir para ensejar nova interpretação da evidência dos autos ou para adotar outra corrente jurisprudencial, ainda que predominante" (fl. 122), motivo pelo qual incidem os óbices das Súmulas n. 283 e 284 do STF, por simetria.
+A propósito:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REVISÃO CRIMINAL. ART. 621 DO CÓDIGO DE PROCESSO PENAL - CPP. DESCABIMENTO. FUNDAMENTO INATACADO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS NS. 283 E 284 DO SUPREMO TRIBUNAL FEDERAL - STF. OFENSA MANIFESTA AO TEXTO LEGAL. INOCORRÊNCIA. DESCABIMENTO DA REVISIONAL. PRECEDENTES DESTA CORTE. RECONHECIMENTO DA CONTINUIDADE DELITIVA. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. As razões do apelo raro não trazem nenhuma argumentação referente aos requisitos da revisão criminal, elencados no art. 621 do Código de Processo Penal, julgados desatendidos no acórdão recorrido. Incidente, pois, a Súmula n. 283 do Supremo Tribunal Federal - STF, além de configurar deficiência de fundamentação, porquanto as razões do recurso especial estão dissociadas do que restou decidido na origem, sendo aplicável o óbice da Súmula n. 284/STF.
+2. "Apenas a ofensa manifesta ao texto legal permite a revisão da sentença protegida pelo trânsito em julgado, diante da necessidade de ponderar as garantias constitucionais da segurança jurídica (art. 5., XXXVI, da Constituição da República) e do devido processo legal (art. 5., inciso LVI, da Constituição da República)" (RvCr n. 4.890/DF, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 26/5/2021, DJe de 2/6/2021).
+3. A pretensão de reconhecimento de crime continuado esbarra no óbice da Súmula n. 7 do STJ, pois demanda o reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial.
+4. O dissídio jurisprudencial não foi demonstrado de forma adequada, nos termos do art. 1.029, § 1º, do Código de Processo Civil - CPC e do art. 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça - RISTJ.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.268.914/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/8/2023, DJe de 18/8/2023.)
+Além disso, a admissibilidade do recurso especial reclama demonstração analítica e suficiente da violação normativa imputada ao acórdão recorrido.
+Vale dizer, impõe-se ao recorrente explicitar, de maneira clara e completa, a correlação lógica entre as premissas fático-jurídicas fixadas pelas instâncias ordinárias e o conteúdo do dispositivo legal tido por ofendido.
+Não se mostra suficiente a simples invocação genérica de artigos de lei, tampouco o enunciado abstrato de teses doutrinárias ou de entendimento que o recorrente tenha como correto; cumpre-lhe identificar o trecho do julgado que reputa desconforme ao direito federal e, em cotejo direto, demonstrar como e por que razão tal conclusão afronta a norma indicada, o que não ocorreu.
+Nessas condições, a deficiência de fundamentação atrai, de maneira automática, o óbice da Súmula n. 284 do STF, aplicada por analogia, e conduz à negativa de seguimento do recurso. O enunciado não traduz mero rigor formal, mas constitui garantia de racionalidade decisória e de delimitação objetiva do debate.
+A esse respeito, os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. INADMISSIBILIDADE. PALAVRA DA VÍTIMA. VALOR PROBATÓRIO. REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. REGIME PRISIONAL SEMIABERTO. RÉU REINCIDENTE. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. IMPOSSIBILIDADE DE SUBSTITUIÇÃO DA PENA CORPORAL. SÚMULAS N. 269/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A ausência de demonstração clara e específica da forma pela qual os dispositivos legais teriam sido violados atrai a incidência do óbice da Súmula n. 284 do STF, impedindo o conhecimento do recurso especial.
+ ..
+(AgRg no AREsp n. 2.933.122/MT, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/8/2025, DJEN de 15/8/2025.)
+DIREITO PROCESSUAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. SÚMULA N. 284 DO STF. AUSÊNCIA DE DEMONSTRAÇÃO DE DISSÍDIO JURISPRUDENCIAL. REPRESENTAÇÃO POR ADVOGADO SEM PROCURAÇÃO. SÚMULA N. 523 DO STF. ART. 563 DO CPP. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. O recurso especial não demonstrou a correlação entre todos os dispositivos legais apontados como violados e os fundamentos recursais, atraindo o óbice da Súmula n. 284 do STF, não bastando que a parte faça uma indicação genérica de artigos legais, sem que seja demonstrada claramente a ligação entre os acontecimentos do caso concreto, os pleitos recursais, as afrontas aos direitos e comandos legais supostamente ocorridos e o teor dos dispositivos legais.
+ ..
+Tese de julgamento: "1. A ausência de demonstração de correlação entre dispositivos legais indicados e fundamentos recursais impede o conhecimento do recurso especial, por incidência da Súmula n. 284 do STF. 2. O conhecimento do recurso especial interposto pela alínea "c" do art. 105, III, da CF só é cabível quando demonstrada a similitude fática entre julgados a partir do cotejo analítico entre eles. 3. A nulidade processual por ausência de procuração do advogado representante só se configura com a demonstração de prejuízo efetivo ao réu, em conformidade com o princípio "pas de nullité sans grief" inscrito no art. 563 do CPP e a Súmula n. 523 do STF".
+(AgRg no AREsp n. 2.684.007/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 30/4/2025, DJEN de 7/5/2025.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
