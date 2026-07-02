@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MATEUS NAPOLI DE ALMEIDA, contra decisão monocrática da 6ª CÂMARA DE DIREITO CRIMINAL DO TRIBUNAL DE JUSTIÇA DE SÃO PAULO que negou seguimento ao writ por entender que o acesso às provas deve ser pleiteado perante o Juízo da 2ª Vara de Itapecerica da Serra, onde tramitou a Operação Cacária.
+Consta dos autos que o paciente foi denunciado e se encontra preso preventivamente pelos crimes previstos na Lei n. 12.850/2013 (art. 1º, § 1º; art. 2º, caput, §§ 2º e 3º), no art. 299 do Código Penal e no art. 1º da Lei n. 9.613/1998. A ação penal de origem é a n. 1006402-56.2025.8.26.0050, com audiência de instrução designada para 3/8/2026.
+Segundo a inicial, a persecução penal decorre da Operação Cacária (autos n. 1005387-14.2024.8.26.0268), a partir da extração de dados do celular do corréu Gustavo de Moura, elemento nunca disponibilizado integralmente à defesa. A defesa formulou pedidos de acesso no juízo de origem e de habilitação no juízo da Operação Cacária, sem apreciação útil, e o Tribunal local negou seguimento ao habeas corpus, remetendo o pleito ao juízo de Itapecerica da Serra.
+No presente writ, o impetrante sustenta teratologia e flagrante constrangimento ilegal. Afirma que a negativa de acesso integral à prova digital matriz e aos autos da Operação Cacária impede o exercício da ampla defesa, exigindo a superação da Súmula 691/STF, dado o impasse entre os juízos e a proximidade da instrução.
+Alega cerceamento de defesa e violação à comunhão da prova. Defende que a extração completa do celular e os elementos produzidos na Operação Cacária devem estar disponíveis à defesa, em paridade de armas, para apresentação adequada da resposta e para a instrução, com controle de integridade e contextualização dos dados.
+Por fim, argumenta necessidade de acesso à mídia original e à cadeia de custódia. Sustenta que, sem a mídia bruta, não há como verificar identidade, inalterabilidade, geração de hash e regularidade dos procedimentos previstos nos arts. 158-A a 158-F do Código de Processo Penal, inclusive quanto à autoria e metodologia da extração.
+Requer, liminarmente, o sobrestamento da ação penal n. 1006402-56.2025.8.26.0050 até o julgamento deste habeas corpus, para evitar a realização da audiência sem acesso às provas que embasam a acusação.
+No mérito, requer a concessão da ordem para anular o feito a partir da resposta à acusação, determinar a disponibilização integral da extração do aparelho celular de Gustavo de Moura, a habilitação da defesa nos autos da Operação Cacária n. 1005387-14.2024.8.26.0268, e a renovação do prazo processual, além da intimação para sustentação oral.
+É o relatório.
+Verifica-se que o habeas corpus foi impetrado contra decisão monocrática de Relator, deixando de haver o devido exaurimento da instância antecedente, o que obsta o conhecimento da impetração.
+Nesse sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA DECISÃO DE DESEMBARGADOR QUE INDEFERIU LIMINARMENTE O HC IMPETRADO NA CORTE DE ORIGEM. AUSÊNCIA DE EXAURIMENTO DAS INSTÂNICAS ORDINÁRIAS E DE MANIFESTAÇÃO SOBRE O MÉRITO DO PEDIDO. SUPRESSÃO DE INSTÂNCIA. INTERPOSIÇÃO SIMULTÂNEA DE HABEAS CORPUS E APELAÇÃO. OFENSA AO PRINCÍPIO DA UNIRRECORRIBILIDADE RECURSAL. AUSÊNCIA DE PATENTE ILEGALIDADE NA DECISÃO QUE INDEFERIU LIMINARMENTE A IMPETRAÇÃO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A competência do STJ para examinar habeas corpus, na forma do art. 105, I, "c", da CF, somente é inaugurada quando a decisão judicial atacada tiver sido proferida por Tribunal, o que implica na exigência de exaurimento prévio da instância ordinária, com manifestação do órgão colegiado. Precedentes do STJ. Situação em que o habeas corpus aqui impetrado se volta contra decisão monocrática de Relator.
+2. Não se revela teratológica a decisão do Desembargador Relator do habeas corpus impetrado na Corte de origem por entender que "o habeas corpus não deve ser utilizado como via substitutiva de recursos previstos em lei, no caso a apelação criminal, até porque a utilização do writ como sucedâneo de recurso próprio avilta o princípio do amplo contraditório, porque suprimidas as etapas previstas para o recurso cabível".
+3. A ausência de prévia deliberação sobre o mérito da controvérsia pelas instâncias ordinárias impede a manifestação desta Corte a respeito do tema, sob pena de indevida supressão de instância.
+ ..
+5. Agravo regimental desprovido."
+(AgRg no HC n. 947.602/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/11/2024, DJe de 6/11/2024, grifei.)
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
