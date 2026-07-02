@@ -1,0 +1,11 @@
+DECISÃO
+Examina-se requerimento de tutela provisória de urgência incidental a recurso especial formulado por E.Z.L.I. EMPREENDIMENTO IMOBILIÁRIO LTDA.
+Alega a requerente, em síntese, que deve ser determinada a imediata suspensão dos efeitos da penhora que recai sobre o imóvel em relação ao qual dispõe da propriedade fiduciária até o julgamento final do recurso especial. Refere que a questão de fundo (possibilidade de penhora de imóvel alienado fiduciariamente para a satisfação de dívida condominial de exclusiva responsabilidade do devedor fiduciante) foi afetada para julgamento pelo STJ sob o rito dos recursos especiais repetitivos (Tema 1.266), a evidenciar a relevância da questão e recomendar a preservação do estado de fato e de direito até a solução da controvérsia. Argumenta estarem presentes os requisitos do fumus boni iuris e do periculum in mora. Ao final, requer: "a concessão da medida liminar, independentemente da prévia manifestação do Requerido, para SUSPENDER IMEDIATAMENTE OS EFEITOS DA PENHORA QUE RECAI SOBRE A INTEGRALIDADE DO IMÓVEL DE TITULARIDADE FIDUCIÁRIA DA REQUERENTE, até o julgamento definitivo do Recurso Especial ou até o julgamento definitivo do Tema Repetitivo nº 1.266/STJ" (e-STJ fl. 07).
+É O RELATÓRIO. DECIDO.
+De acordo com o art. 1.029, § 5º, I e III, do CPC, o pedido de concessão de efeito suspensivo a recurso especial somente pode ser dirigido a esta Corte após a publicação da decisão de admissão do recurso, devendo ser formulado, em um primeiro momento, ao Presidente ou ao Vice-presidente do Tribunal de origem.
+Na hipótese, não se tem notícia nos autos de exercício do juízo de admissibilidade pelo TJ/SP, tampouco de que o requerimento de tutela de urgência tenha sido formulado na origem, circunstâncias que inviabilizam o conhecimento da matéria diretamente pelo Superior Tribunal de Justiça.
+Logo, o presente pedido liminar não merece ser conhecido.
+Forte nessas razões, NÃO CONHEÇO do pedido.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
