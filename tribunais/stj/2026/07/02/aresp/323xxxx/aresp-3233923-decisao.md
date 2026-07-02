@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS da decisão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Cível n. 1002130-08.2019.4.01.3300 e assim ementado (fls. 496-497):
+DIREITO PREVIDENCIÁRIO. APELAÇÃO CÍVEL. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. APLICAÇÃO DOS TETOS DAS EMENDAS CONSTITUCIONAIS Nº 20/1998 E Nº 41/2003. DECADÊNCIA INAPLICÁVEL. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Apelação interposta pelo Instituto Nacional do Seguro Social - INSS contra sentença que julgou procedente o pedido inicial, determinando a revisão da renda mensal do benefício previdenciário da parte autora com base nos novos tetos estabelecidos pelo art. 14 da Emenda Constitucional nº 20/1998 e pelo art. 5º da Emenda Constitucional nº 41/2003, além do pagamento das diferenças devidas, respeitada a prescrição quinquenal.
+2. O INSS alega, em síntese, a incidência da decadência. No mérito, sustenta que o entendimento firmado no RE 564.354/SE não autoriza a alteração do cálculo da renda mensal inicial, mas apenas a aplicação do novo limitador aos benefícios que, na data das emendas constitucionais, estavam limitados ao teto.
+II. QUESTÃO EM DISCUSSÃO
+3. As questões em discussão consistem em: (i) verificar a incidência da decadência ao direito de revisão do benefício previdenciário; e (ii) analisar a possibilidade de aplicação dos tetos das Emendas Constitucionais nº 20/1998 e nº 41/2003 aos benefícios concedidos antes da Constituição Federal de 1988.
+III. RAZÕES DE DECIDIR
+4. A decadência não se aplica ao caso, pois a parte autora não questiona o ato de concessão do benefício, mas sim a adequação da renda mensal ao novo teto previdenciário, conforme entendimento consolidado pelo Supremo Tribunal Federal no julgamento do RE 564.354/SE (Tema 76).
+5. O salário de benefício representa a média dos salários de contribuição do segurado e, quando superior ao teto previdenciário vigente na data da concessão, sofre limitação para fins de pagamento. O STF, no RE 564.354/SE, firmou o entendimento de que a elevação dos tetos previdenciários pelas Emendas Constitucionais nº 20/1998 e nº 41/2003 autoriza a readequação dos benefícios anteriormente limitados.
+6. O STJ, no julgamento do Tema 1.140, consolidou que a revisão dos benefícios concedidos antes da Constituição de 1988 deve observar a aplicação dos limitadores vigentes à época da concessão, permitindo a adequação ao novo teto sempre que demonstrado que o benefício foi inicialmente restringido pelo limitador previdenciário.
+IV. DISPOSITIVO E TESE
+8. Recurso conhecido e desprovido.
+Tese de julgamento: "1. A revisão de benefícios previdenciários para aplicação dos novos tetos estabelecidos pelas Emendas Constitucionais nº 20/1998 e nº 41/2003 é permitida sempre que demonstrado que o benefício foi originalmente limitado pelo teto previdenciário vigente à época da concessão. 2. A decadência não se aplica às ações que visam à recomposição da renda mensal em razão da elevação do teto previdenciário".
+É o relatório.
+Decido.
+O Tribunal de origem não admitiu o apelo nobre pelos seguintes fundamentos: "há aparente necessidade de revolver probatório, vedado pela SÚMULAS 007/STJ e 279/STF, e/ou tentativa de superação de jurisprudência atual do STJ e/ou não-demonstração de que tenha havido, em tese, frontal violação ao sentido evidente de norma(s) federal(is) infraconstitucional(is); há aparente manejo do Recurso Especial como se 3ª Instância Recursal ordinária fosse" (fl. 573). Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira concreta e específica, nenhum dos fundamentos constantes da decisão agravada.
+Por conseguinte, aplicam-se, à hipótese dos autos, o art. 932, inciso III, do Código de Processo Civil e a Súmula n. 182 do STJ, in verbis: " é  inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Ilustrativamente:
+ ..
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 494) , respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. MINUTA QUE NÃO INFIRMA ESPECIFICAMENTE NENHUM DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
