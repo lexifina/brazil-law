@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por EDNA MAZZOLA DE ALMEIDA e OUTRO contra decisão de inadmissão de seu recurso especial, que foi manejado, com respaldo nas alíneas "a" e "c" do permissivo constitucional, para impugnar acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 683):
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE TERCEIRO. INADEQUAÇÃO DA VIA ELEITA. RESGUARDO DA MEAÇÃO. SÚMULA 251 DO STJ. APROVEITAMENTO AO CASAL. SUBSTITUIÇÃO DE PENHORA.
+1. O espectro cognitivo dos embargos de terceiro restringe-se à posse e propriedade do imóvel constrito por quem se diz terceiro em relação à demanda, de modo que o pedido de análise da regularidade/irregularidade da constituição dos créditos é matéria estranha à lide.
+2. De acordo com o artigo 655-B do CPC/73, "tratando-se de penhora em bem indivisível, a meação do cônjuge alheio à execução recairá sobre o produto da alienação do bem" (art. 843 do CPC).
+3. Diante do teor da Súmula 251 do STJ, "A meação só responde pelo ato ilícito quando o credor, na execução fiscal, provar que o enriquecimento dele resultante aproveitou ao casal".
+4. Na hipótese dos autos, as embargantes efetivamente se beneficiaram da dívida contraída por seus esposos à época, pois as atividades financeiras dos mesmos, aliadas ao inadimplemento de vultosos montantes, colaboraram para o crescimento financeiro da família como um todo.
+5. A medida cautelar fiscal, prevista na Lei nº 8.397/92, é instrumento para a defesa da pretensão executória do Fisco. Através dela a Fazenda Pública visa obter judicialmente a indisponibilidade patrimonial de seus devedores, até o limite do valor exigido.
+6. O inciso I do artigo 15 da Lei nº 6.830/80 faculta ao devedor, no bojo da execução fiscal, a substituição da garantia da execução por depósito em dinheiro ou fiança bancária, sendo que a aceitação de outros bens está sujeita à anuência do credor.
+Em seu recurso especial, a parte aponta a existência de dissenso pretoriano e a violação dos arts. 674 e 843, § 2º, do CPC e os arts. 1º e 2º da Lei n. 8.397/1992.
+Para tanto, argumenta, em resumo, o seguinte (e-STJ fl. 693):
+3.1. A d. acórdão afastou as alegações de inadequação da Medida Cautelar, sob a fundamentação de impossibilidade de análise do referido ponto na ação judicial de Embargos de Terceiro, deixando de fundamentar a respeito do mérito do tópico recursal.
+3.2. Ocorre que a indisponibilidade gerada pela Medida Cautelar Fiscal restringe o direito do terceiro (o qual não é devedor) de dispor livremente de seu patrimônio, possibilitando a analise do mérito dos fundamentos utilizados na Ação Cautelar para evitar a futura penhora sobre os bens.
+3.3. As Recorrentes, por não figurarem no polo da Medida Cautelar, não podem ter o patrimônio indisponibilizado, sem que seja oportunizado meios de defesa. Neste sentido, os Embargos de Terceiros são cabíveis para demonstrar a impossibilidade de constrição patrimonial e alegação de inadequação da via processual para possibilitar o bloqueio do patrimônio do terceiro.
+Aduz, ainda, que a própria decretação da indisponibilidade dos bens teria sido ilegal, bem como que não haveria prova do benefício supostamente alcançado pelas ora agravantes com a prática do ilícito gerador do decreto de indisponibilidade contra seus cônjuges.
+Contrarrazões às e-STJ fls. 711/720.
+Recurso especial inadmitido, com base na Súmula 7 do STJ (e-STJ fls. 721/723).
+Decisão de inadmissão agravada (e-STJ fls. 725/737).
+Sem contraminuta.
+Passo a decidir.
+A controvérsia recursal concentra-se em três pontos: a) possibilidade de impugnação do próprio decreto de indisponibilidade em sede de embargos de terceiro; b) ilegalidade original da decretação de indisponibilidade; c) falta de prova do benefício alcançado pelas ora agravantes com a prática do ilícito gerador do decreto de indisponibilidade contra seus cônjuges.
+A irresignação não merece prosperar.
+Sobre o ponto "a", o fundamento do acórdão recorrido foi de que seria inviável ao terceiro atacar a legalidade do decreto de indisponibilidade dos bens. É que, caso o fizesse, estaria a defender direito que não lhe pertence, mas ao próprio réu original da ação cautelar fiscal. Daí por que os embargos de terceiro, justamente porque instituídos no interesse de "terceiro", não se prestariam a tal desiderato.
+Entretanto, em seu recurso especial, a parte ora agravante não impugnou, de forma clara e suficiente, essa fundamentação do acórdão, havendo-se limitado a afirmar que seu direito à ampla defesa teria sido desrespeitado.
+Aplica-se, pois, no ponto, por analogia, a Súmula 283 do STF.
+Sobre o ponto "b", a matéria se ressente, a toda evidência, do necessário prequestionamento. Ora, negada pelo Tribunal de origem a possibilidade de enfrentamento da matéria em sede de embargos de terceiro, não houve, obviamente, exame desse mérito.
+Sobre o ponto "c", vale reproduzir o seguinte trecho do julgado de segunda instância (e-STJ fls. 677/678):
+As apelantes efetivamente beneficiaram-se da dívida contraída por seus esposos à época, pois as atividades financeiras dos mesmos, aliadas ao inadimplemento de vultosos montantes, colaboraram para o crescimento financeiro da família como um todo. Não se trata de meros indícios, como alega a recorrente, mas de constatação da realidade trazida aos autos.
+Assim constou da sentença:
+"Extrai-se (i) da Declaração de Imposto de Renda - Pessoa Física - Ano Calendário 2014, apresentada pela embargante Fernanda Carla Henrique que, naquele ano, esta, cuja natureza de ocupação era "profissional liberal ou autônomo sem vínculo empregatício", recebeu rendimentos da empresa Belidom Transporte de Pacientes Ltda (Autos n.º 5000190-80.2016.4.04.7011, Evento 1 - DECL102); e (ii) d a Declaração de Imposto de Renda - Pessoa Física - Ano Calendário 2012, apresentada pela embargante Edna Mazzola de Almeida que, naquele ano, esta, cuja natureza de ocupação era "proprietário/empresa ou firma individual ou empregador-titular", recebeu rendimentos das empresas Fernanda Carla Henrique - ME e Wilson Roberto de Almeida - ME (Autos n.º 5000190- 80.2016.4.04.7011, Evento 1 - DECL101). O recebimento, pelas embargantes, de rendimentos de empresas integrantes do grupo econômico de fato administrado por seus cônjuges indica que estas trabalhavam em conjunto com aqueles ou, no mínimo, eram beneficiadas economicamente pelo resultado das atividades empresariais".
+Impossível rever esse juízo emitido pela Corte a quo no sentido de que as ora agravantes teriam efetivamente se beneficiado da prática do ilícito, dada a vedação contida na Súmula 7 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, I, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Majoro os honorários advocatícios de sucumbência, fixados em desfavor da parte ora agravante, em 10% sobre o valor já arbitrado, nos termos do § 11 do art. 85 do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Publique-se. Intimem-se.
+EMENTA
