@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto por CAMILA DE OLIVEIRA GUTIERREZ, com fundamento no art. 105, inciso II, alínea b, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul assim ementado (fls. 400/401):
+DIREITO ADMINISTRATIVO. MANDADO DE SEGURANÇA. ARGUIÇÃO DE DECADÊNCIA. INÍCIO DO PRAZO A CONTAR DO ATO COATOR. PRELIMINAR REJEITADA. CONCURSO PÚBLICO. INVESTIGAÇÃO SOCIAL. AUSÊNCIA DE DOCUMENTO EXIGIDO EM EDITAL. CERTIDÃO GENÉRICA DE ATESTADO FUNCIONAL. EXIGÊNCIA DE CERTIDÃO POR AUTORIDADE CORRECIONAL OU COMPETENTE. INABILITAÇÃO. SEGURANÇA DENEGADA.
+I. Caso em exame
+1.Mandado de segurança impetrado contra ato de autoridades estaduais que inabilitou candidata na fase de investigação social de concurso público para o cargo de Investigador de Polícia Judiciária, em razão da não apresentação de certidão funcional expedida por órgão correcional, conforme exigido em edital.
+2.A impetrante apresentou declaração funcional genérica e, posteriormente, documento complementar fora do prazo, tendo a eliminação sido mantida na via administrativa. Liminar deferida para assegurar matrícula no curso de formação.
+3. O Estado apresentou informações com arguição de preliminar de decadência da ação mandamental.
+II. Questão em discussão
+Há duas questões em discussão: (i) saber se houve decadência para impetração do mandado de segurança; e (ii) saber se a apresentação de documento diverso do exigido em edital, ou sua juntada extemporânea, autoriza a manutenção da candidata no certame.
+III. Razões de decidir
+5. A preliminar de decadência deve ser rejeitada, pois o prazo do art. 23 da Lei nº 12.016/2009 inicia-se com o ato concreto de inabilitação, e não com a publicação do edital. Impetração tempestiva.
+6. O edital vincula a Administração e os candidatos, nos termos do art. 37, caput, da CF/1988, devendo ser observadas suas regras de forma objetiva.
+7. A certidão funcional expedida por órgão correcional possui finalidade específica de aferição da regularidade disciplinar, não sendo suprida por declaração genérica de vínculo funcional.
+8. A não apresentação do documento exigido no prazo fixado, bem como a tentativa de juntada extemporânea, não pode ser admitida, sob pena de violação aos princípios da isonomia e da impessoalidade.
+9. Inexistente direito líquido e certo, pois a candidata não comprovou o cumprimento integral da exigência editalícia no momento oportuno.
+IV. Dispositivo e tese 10.
+Segurança denegada.
+Tese de julgamento: "1. O prazo decadencial no mandado de segurança inicia-se com o ato concreto que causa lesão ao direito, e não com a publicação do edital. 2. É legítima a eliminação de candidato que não apresenta, no prazo fixado, documento expressamente exigido em edital. 3. Declaração funcional genérica não supre a exigência de certidão expedida por órgão correcional."
+Não foram opostos embargos de declaração.
+A parte recorrente, inicialmente, requer a concessão de efeito suspensivo ativo, ou da tutela de urgência recursal, com fundamento no art. 995, parágrafo único, do CPC, para assegurar retorno imediato ao Curso de Formação Policial, sob alegação de risco de perecimento do direito e probabilidade de provimento do recurso.
+No mérito, afirma interpretação incompleta do edital pelo acórdão recorrido, pois os itens 12.3.4 do edital de abertura e 4.1 do edital de convocação para a Etapa II da Investigação Social autorizam, a qualquer tempo, solicitação de documentos complementares para esclarecer fatos e comprovar dados, o que tornaria sanável a insuficiência documental inicial e incompatível a eliminação automática por vício meramente formal.
+Alega que não houve fato desabonador, fraude ou ocultação dolosa, apenas controvérsia sobre a forma do documento funcional, e que foi convocada para entrevista pessoal em 27/3/2026, demonstrando investigação ainda em curso, reforçando a necessidade de interpretação sistemática e finalística do edital e a preservação da razoabilidade e proporcionalidade.
+Ao final, requer o provimento para conceder a segurança, com retorno e permanência no curso; ou, subsidiariamente, a reabertura da fase de investigação social para reapreciação da documentação conforme as cláusulas editalícias citadas.
+A parte adversa apresentou contrarrazões (fls. 477/483).
+É o relatório.
+Na origem cuida-se de mandado de segurança impetrado por Camila de Oliveira Gutierrez, objetivando a anulação do ato que a declarou inapta na investigação social e sua reinclusão no Concurso Público SAD/SEJUSP/PCMS/APJ/2025, com participação nas fases subsequentes, em face de ato atribuído ao Secretário de Estado de Administração e Desburocratização de Mato Grosso do Sul, ao Secretário de Estado de Justiça e Segurança Pública de Mato Grosso do Sul e ao Delegado-Geral da Polícia Civil do Estado de Mato Grosso do Sul.
+O Tribunal de origem denegou a segurança sob os seguintes fundamentos (fls. 403/407):
+No mérito, a segurança deve ser denegada, por ausência de direito líquido e certo.
+O edital de convocação para a investigação social (publicado em 15/10/2025) estabeleceu prazo peremptório até 22/10/2025 para a inserção dos documentos. A regra da alínea "h" do item 12.3.1 é clara ao exigir certidão de "órgão correcional ou correlato". Vejamos (f. 74/78):
+"7. No ato do preenchimento do Formulário de Informações para Investigação Social, o candidato deverá inserir uma foto de seu rosto (arquivo com tamanho máximo de 1 Megabyte, em fundo branco, não utilizando boné, óculos escuros ou qualquer objeto que impossibilitem a visualização completa do rosto do candidato), e anexar ao mesmo, por meio de campo próprio, os seguintes documentos, todos devidamente digitalizados em um único arquivo em formato PDF (Portable Document Format) e legíveis:
+(..)
+g) o candidato servidor público ou empregado público da administração direta e indireta de quaisquer dos poderes da União, dos estados do Distrito Federal e dos municípios, deverá apresentar, também, certidão funcional atualizada, expedida pelo respectivo órgão correcional ou correlato".
+O objetivo dessa exigência é verificar a existência de processos administrativos disciplinares ou sanções, informações que uma simples declaração de tempo de serviço ou cargo - como a apresentada inicialmente pela impetrante - não supre.
+ ..
+A certidão emitida pelo Corregedor da UFMS, que de fato atenderia ao edital, possui data de 09/12/2025, ou seja, foi obtida alguns dias após o encerramento do prazo fixado para a entrega de documentos faltantes no Edital 35/2025 (f. 79/105), que previa o prazo até 01/12/2025 para complementar a documentação. A impetrante fez a juntada somente de print de aplicativo contendo seus dados pessoais (f. 222/223).
+Admitir a juntada extemporânea de documento essencial, que a candidata já deveria possuir ou ter diligenciado no prazo próprio, fere frontalmente os princípios da isonomia e da impessoalidade. Não cabe ao Poder Judiciário flexibilizar prazos e requisitos editalícios claros para beneficiar candidata que não cumpriu com o ônus documental no momento oportuno, sob pena de tratamento privilegiado em relação aos demais concorrentes que observaram as normas do certame.
+ ..
+Os demais concorrentes que cumpriram com zelo as disposições do edital e anexaram os arquivos de forma completa dentro do prazo fixado seriam injustamente preteridos se fosse conferido tratamento benéfico e isolado à impetrante.
+Dessa forma, a atuação da administração pública pautou-se na estrita vinculação ao instrumento convocatório, inexistindo direito líquido e certo a ser amparado pela via mandamental, razão pela qual a segurança deve ser denegada.
+Segundo entendimento desta Corte, "o edital é a lei interna do concurso público, que vincula não apenas os candidatos, mas também a própria Administração, e estabelece regras dirigidas à observância do princípio da igualdade, devendo ambas as partes observar suas disposições" (AgInt no RMS 69.310/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 14/11/2022, DJe de 17/11/2022).
+A respeito da fase de investigação social, vejam-se as disposições, no que interessa, contidas no Edital 25/2025 (fl. 75):
+5. No período compreendido entre os dias 15/10/2025 e as 23h59min do dia 22/10/2025, observado o horário oficial de Mato Grosso do Sul, o candidato deverá acessar o site http://fip.pc.ms.gov.br, realizar o acesso com login e senha ao Formulário de informações Pessoais para a Investigação Social, preencher todos os campos com as informações solicitadas, e realizar seu envio online, em campo específico para envio via UPLOAD, da documentação solicitada no item 7 deste Edital.
+ ..
+7. No ato do preenchimento do Formulário de Informações para Investigação Social, o candidato deverá inserir uma foto de seu rosto (arquivo com tamanho máximo de 1 Megabyte, em fundo branco, não utilizando boné, óculos escuros ou qualquer objeto que impossibilitem a visualização completa do rosto do candidato), e anexar ao mesmo, por meio de campo próprio, os seguintes documentos, todos devidamente digitalizados em um único arquivo em formato PDF (Portable Document Format) e legíveis:
+ ..
+g) o candidato servidor público ou empregado público da administração direta e indireta de quaisquer dos poderes da União, dos estados do Distrito Federal e dos municípios, deverá apresentar, também, certidão funcional atualizada, expedida pelo respectivo órgão correcional ou correlato;
+Por sua vez, o Edital 35/2025, no item 3, assim previu (fl. 79):
+3. Aos candidatos inabilitados na Fase de Investigação Social, por ausência de envio dos documentos e não participação na fase, caberá interposição de recurso no prazo máximo de 02 (dois) dias úteis, contados a partir da data de publicação deste Edital. O recurso deverá ser protocolado, no período do dia 27/11/2025 às 23h59min do dia 01/12/2025, por meio do link https://fip.pc.ms.gov.br, acessando a ÁREA DO CANDIDATO, observado o horário oficial do Mato Grosso do Sul/MS.
+Como visto, o edital definiu que os candidatos deverão apresentar, dentre outros documentos, certidão funcional atualizada expedida pelo respectivo órgão correcional, ou correlato, até o dia 22/10/2025, fixando o prazo final para apresentação de documentação complementar, o dia 1º/12/2025.
+No presente caso, tal como consignado no acórdão recorrido, a parte impetrante apresentou, inicialmente, uma declaração genérica do órgão que apenas atestou o tempo de serviço e o cargo ocupado (fl. 221). Somente em 9/12/2025, a candidata apresentou uma certidão emitida pelo Corregedor da UFMS (fl. 224) que, de fato, atenderia à exigência do edital.
+Assim, a candidata não cumpriu as regras editalícias, pois além de apresentar documentação em desconformidade com as exigências do edital do concurso, ainda apresentou a documentação complementar correta de forma intempestiva.
+Ausente, portanto, a demonstração do direito líquido e certo alegado, não há razão para alterar o acórdão recorrido, que denegou a segurança.
+Ante o exposto, nego provimento ao recurso. Prejudicado o exame do pedido liminar.
+Publique-se. Intimem-se.
+EMENTA
