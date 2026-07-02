@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por Tatiana Maurício da Silva e Cosme Luciano Veloso de Gondra contra decisão proferida pelo Tribunal de Justiça do Estado do Rio de Janeiro que não admitiu recurso especial por entender que houve apreciação adequada das teses, sem negativa de prestação jurisdicional, e pela incidência das Súmulas 5 e 7 do STJ quanto aos arts. 12, V, "c", e 35-C da Lei 9.656/1998; e 14 e 51, IV, do Código de Defesa do Consumidor (fls. 628-635).
+Nas razões do presente agravo em recurso especial, a parte agravante alega, em síntese, que a decisão ora recorrida aplicou indevidamente a Súmula 7 do STJ, pois a controvérsia envolve revaloração jurídica de fatos incontroversos e não reexame de provas, distinguindo tecnicamente as duas hipóteses, com citação de precedentes do STJ que admitem a revaloração jurídica em recurso especial.
+Argumenta que a discussão é de direito, relativa à obrigatoriedade de cobertura em casos de urgência e emergência e à carência máxima de 24 horas prevista na Lei 9.656/1998, sustentando que a recusa da operadora configura falha na prestação do serviço e enseja danos morais, conforme a jurisprudência do STJ, com transcrições de julgados sobre negativa indevida de cobertura em situações emergenciais e responsabilidade civil das operadoras.
+Decorreu o prazo sem apresentação de impugnação (fl. 693).
+Assim posta a questão, passo a decidir.
+O recurso não merece prosperar.
+Nos termos do art. 932, inciso III, do Código de Processo Civil e do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+Considerando todos os fundamentos da decisão que não admitiu o recurso especial acima relatados, observo que a parte, nas razões do seu agravo em recurso especial, deixou de impugnar a ausência de negativa de prestação jurisdicional, reconhecida pela origem com base na apreciação clara e suficiente das teses e na inexistência de violação dos arts. 93, IX, da Constituição Federal e 489, § 1º, do Código de Processo Civil.
+Deixou de impugnar a incidência da Súmula 5 do STJ quanto à interpretação de cláusulas contratuais, aplicada conjuntamente com a Súmula 7 do STJ aos arts. 12, V, "c", e 35-C da Lei 9.656/1998 e aos arts. 14 e 51, IV, do Código de Defesa do Consumidor.
+A impugnação da decisão agravada há de ser específica, de maneira que, não admitido o recurso especial, a parte recorrente deve explicitar os motivos pelos quais não incidem os óbices apontados, sob pena de vê-los mantidos.
+Assim, em respeito ao princípio da dialeticidade, os recursos devem ser fundamentados, sendo necessária a impugnação específica a todos os pontos analisados na decisão recorrida, sob pena de não conhecimento do recurso, por ausência de cumprimento dos requisitos previstos no art. 932, III, do Código de Processo Civil, e pela aplicação analógica da Súmula 182 do STJ. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO, ANTE A AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Consoante expressa previsão contida nos artigos 932, III, do CPC/15 e 253, I, do RISTJ e em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão que inadmitiu o apelo extremo, o que não aconteceu na hipótese. Incidência da Súmula 182 do STJ.
+2. São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte autora, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada.
+Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1904123/MA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 4/10/2021, DJe 8/10/2021)
+A propósito, a Corte Especial do STJ manteve o entendimento de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo em recurso especial, por aplicação da Súmula 182/STJ (Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Relator Ministro João Otávio de Noronha, Relator para acórdão Ministro Luis Felipe Salomão, julgamento em 19/9/2018, DJe 30/11/2018).
+Desse modo, sem a impugnação específica e suficiente para infirmar todos os fundamentos da decisão agravada, aplica-se, por analogia, o enunciado n. 182 da Súmula do STJ.
+Em face do exposto, não conheço do agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro em 10% a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal, ônus suspensos no caso de beneficiário da justiça gratuita.
+Intimem-se.
+EMENTA
