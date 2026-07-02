@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por TREVO SUL TRANSPORTES LTDA, com fundamento no art. 105, III, da Constituição Federal, contra acórdão assim ementado:
+DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA. IRPJ E CSLL. BENEFÍCIOS FISCAIS DE ICMS (DIVERSOS DO CRÉDITO PRESUMIDO). JUÍZO DE RETRATAÇÃO. MANUTENÇÃO DO ACÓRDÃO.
+I. CASO EM EXAME:
+1. Mandado de segurança em que se busca a exclusão de benefícios fiscais de ICMS (diversos do crédito presumido) da base de cálculo do IRPJ e da CSLL, sem as condicionantes da LC nº 160/2017 e do art. 30 da Lei nº 12.973/2014, com direito à compensação ou restituição dos valores recolhidos a maior.
+II. QUESTÃO EM DISCUSSÃO:
+2. A questão em discussão consiste em saber se benefícios fiscais de ICMS (diversos do crédito presumido) podem ser excluídos da base de cálculo do IRPJ e da CSLL, independentemente do cumprimento dos requisitos do art. 30 da Lei nº 12.973/2014.
+III. RAZÕES DE DECIDIR:
+3. O Superior Tribunal de Justiça, no julgamento do Tema 1.182 dos recursos especiais repetitivos, firmou o entendimento de que não é possível estender a exclusão do crédito presumido de ICMS (conforme ER Esp n. 1.517.492/PR) para outros benefícios fiscais de ICMS. 4. A exclusão de benefícios fiscais de ICMS (diversos do crédito presumido) da base de cálculo do IRPJ e da CSLL somente é permitida se atendidos os requisitos do art. 30 da Lei nº 12.973/2014, que incluem o registro em reserva de lucros e a utilização exclusiva para os fins indicados nos incisos I e II do referido artigo. 5. O acórdão recorrido, ao rejeitar a pretensão da impetrante de exclusão de benefícios fiscais de ICMS (diversos do crédito presumido), não se pôs em contradição com o entendimento firmado pelo STJ no Tema nº 1.182, sendo incabível a retratação do julgado.
+IV. DISPOSITIVO E TESE:
+6. Acórdão submetido a juízo de retratação mantido. Tese de julgamento: 7. A exclusão de benefícios fiscais de ICMS (diversos do crédito presumido) da base de cálculo do IRPJ e da CSLL é condicionada ao cumprimento dos requisitos legais.
+No presente recurso especial, o recorrente apontou violação de dispositivos de lei federal.
+É o relatório. Decido.
+A competência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal.
+Nesse contexto, impõe-se não apenas a correta indicação dos dispositivos legais federais supostamente contrariados pelo Tribunal a quo, mas também a delimitação clara da violação da matéria insculpida nos regramentos indicados, para que, assim, seja viabilizando o necessário confronto interpretativo e, consequentemente, o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame.
+Dessa forma, verificado que o recorrente não logrou êxito em fundamentar adequadamente a ocorrência de suposta incorreção da interpretação jurídica realizada pelo Tribunal de origem acerca do comando normativo dos dispositivos legais indicados como violados, apresenta-se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF.
+Acerca do assunto, destaco os seguintes precedentes:
+PROCESSUAL CIVIL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO TIDO POR VIOLADO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. ALEGAÇÃO DE JULGAMENTO EXTRA PETITA. NECESSIDADE DE REEXAME DOS FATOS E DAS PROVAS. INCIDÊNCIA. SÚMULA 7/STJ.
+1. "A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, em conformidade com o Enunciado Sumular nº 284 do STF". (AgRg no REsp n. 919.239/RJ; Rel. Min. Francisco Falcão; Primeira Turma; DJ de 3/9/2007.)
+2. O Tribunal de origem concluiu: "No mérito, trata-se de ação de obrigação de fazer cumulada com pleito indenizatório, através da qual objetivou a autora obstar cobrança pela ré em relação à tarifa de esgoto, serviço não prestado pela concessionária, bem como a repetição, em dobro, dos valores já pagos" (fl. 167, e-STJ).
+3. A agravante sustenta não haver na demanda pedido que objetive o cumprimento de obrigação de fazer/não fazer. Decidir de forma contrária ao que ficou expressamente consignado no v. acórdão recorrido, com o objetivo de rever o objeto do pedido deduzido na petição inicial, implica revolvimento do conjunto fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 983.543/RJ, Rel. Ministro Herman Benjamin, DJe 5/5/2017.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. SUPOSTO ERRO MATERIAL. NÃO INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF. SERVIDOR PÚBLICO. GDAR. TRANSFORMAÇÃO EM VPNI. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.
+I - Pretende o agravante o reconhecimento de que a gratificação GDAR, transformada em VPNI, não foi retirada do ordenamento jurídico pela Lei n. 11.784/08 e que sua supressão vai de encontro ao direito adquirido, ao ato jurídico perfeito e à irredutibilidade de vencimentos.
+II - Considera-se deficiente a fundamentação do recurso que deixa de estabelecer, com a precisão necessária, quais os dispositivos de lei federal que considera violados, para sustentar sua irresignação pela alínea a do permissivo constitucional, o que atrai a incidência do enunciado n. 284 da Súmula STF.
+III - O Tribunal de origem não analisou o erro material mencionado nas razões recursais, não debateu a suposta afronta ao direito adquirido, ao ato jurídico perfeito e à irredutibilidade de vencimentos, tampouco examinou a matéria recursal à luz do art. 29 da Lei n. 11.094/05.
+IV - Descumprido o necessário e indispensável exame dos dispositivos de lei invocados pelo acórdão recorrido, apto a viabilizar a pretensão recursal da recorrente, de maneira a atrair a incidência dos enunciados n. 282 e n. 356 da Súmula do STF, sobretudo ante a ausência de oposição dos cabíveis embargos declaratórios a fim de suprir os supostos erro material e a contradição do julgado.
+V - Agravo interno improvido.
+(AgInt no REsp n. 1.597.355/CE, Rel. Ministro Francisco Falcão, DJe 10/3/2017.)
+O Tribunal de origem, ao analisar o conteúdo probatório colacionado aos autos, consignou expressamente que a insurgência defendida pelo recorrente é contrária às evidências fáticas sobre as quais se fundamentou o julgador a quo para solucionar a controvérsia apresentada na presente demanda judicial.
+Dessa forma, verifica-se que a irresignação do recorrente vai de encontro às convicções do julgador a quo, que tiveram como lastro o conjunto fático-probatório constante dos autos. Nesse diapasão, para rever tal posição seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ademais, o reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que os fundamentos apresentados naquele julgado, e que fundamentaram a construção da sólida ratio decidendi alcançada pelo Tribunal de origem, foram utilizados de forma suficiente para manter a decisão proferida no Tribunal a quo e não foram suficientemente rebatidos no apelo nobre, fator capaz de atrair a aplicação dos óbices das Súmulas n. 283 e 284, ambas do STF. In verbis:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
