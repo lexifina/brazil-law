@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência das Súmulas n. 5 e 7 do STJ e falta do devido cotejo analítico (fls. 361-365).
+O acórdão recorrido encontra-se assim ementado (fls. 275-276):
+DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. EMPRÉSTIMO CONSIGNADO. CONTRATO ASSINADO DIGITALMENTE SEM OBSERVÂNCIA DAS FORMALIDADES LEGAIS. NULIDADE CONTRATUAL. RESPONSABILIDADE OBJETIVA DA INSTITUIÇÃO FINANCEIRA. REPETIÇÃO DO INDÉBITO. DANOS MORAIS. QUANTUM INDENIZATÓRIO MAJORADO. RECURSOS CONHECIDOS. APELAÇÃO DA INSTITUIÇÃO BANCÁRIA DESPROVIDA. APELO DA PARTE AUTORA PARCIALMENTE PROVIDO.
+I. CASO EM EXAME
+1. Trata-se de recurso de apelação e recurso adesivo da parte autora interposto em face de sentença que julgou parcialmente procedente a presente Ação de Inexigibilidade de Débito c/c Nulidade Contratual c/c Danos Morais e Materiais. A sentença declarou nulo o contrato de empréstimo consignado nº 061120005191, condenou a instituição financeira à restituição em dobro das parcelas descontadas posteriores a 30/03/2021 e ao pagamento de indenização por danos morais no valor de R$1.500,00. A instituição bancária recorreu pleiteando a reforma da sentença para julgar improcedente o feito, enquanto a parte autora interpôs recurso adesivo para majoração dos danos morais.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) saber se é válida a contratação de empréstimo consignado realizada mediante assinatura digital sem observância das formalidades legais exigidas; (ii) saber se configura responsabilidade civil da instituição financeira pelos descontos indevidos realizados em benefício previdenciário; e (iii) saber se o quantum indenizatório arbitrado a título de danos morais deve ser majorado.
+III. RAZÕES DE DECIDIR
+3. O contrato foi assinado digitalmente por meio de plataforma privada não credenciada no ICP-Brasil, sem que fossem apresentados meios adequados para averiguar a autenticidade da assinatura, como QR code ou link certificador, não possuindo a mesma robustez probatória de uma assinatura digital certificada conforme os requisitos da Infraestrutura de Chaves Públicas Brasileira.
+4. A instituição financeira não se desincumbiu do ônus de comprovar a existência de fatos impeditivos, modificativos ou extintivos do direito da parte autora, apresentando defesa esvaziada de documentos probatórios, mesmo após a inversão do ônus da prova.
+5. Os descontos realizados na conta da parte autora em razão de contrato inexistente configuram falha na prestação do serviço e constituem ato ilícito, gerando obrigação de reparar os danos materiais e morais causados.
+6. Quanto à repetição do indébito, conforme entendimento do STJ no EAREsp 676.608/RS, deve ser aplicada restituição simples para descontos anteriores a 30/03/2021 e em dobro para descontos posteriores a essa data, observada a modulação dos efeitos da decisão.
+7. O quantum indenizatório deve ser majorado para R$ 3.000,00, valor razoável e proporcional, em consonância com a jurisprudência desta Corte.
+IV. DISPOSITIVO
+8. Recursos conhecidos. Negado provimento ao recurso da instituição bancária e dado parcial provimento ao recurso adesivo da parte autora para majorar a indenização por danos morais para R$3.000,00.
+Dispositivos relevantes citados: Lei 14.063/2020, art. 4º; CC, arts. 186, 373, II, 406, 927; CDC, arts. 14, 42, parágrafo único; CPC, art. 85, § 2º.
+Jurisprudência relevante citada: STJ, EAR Esp 676.608/RS, Rel. Min. OG Fernandes, Corte Especial, j. 21/10/2020, D Je 30/03/2021; TJCE, Apelação Cível 0201444-81.2022.8.06.0160, Rel. Des. Paulo Airton Albuquerque Filho, 2ª Câmara Direito Privado, j. 28/06/2023; TJCE, Apelação Cível 0202536- 21.2022.8.06.0055, Rel. Des. Inacio de Alencar Cortez Neto, 2ª Câmara Direito Privado, j. 28/06/2023.
+Os embargos de declaração foram rejeitados (fls. 314-320).
+Nas razões do recurso especial (fls. 330-345), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos arts. 186, 188, 927 e 944 do CC.
+Defendendo que "não praticou qualquer ato ilícito porque apenas cobrou valores do Recorrido para adimplemento das parcelas vencidas e não pagas referentes ao contrato de empréstimo celebrado entre as partes. Aliás, restou demonstrado que as partes celebraram sim os contratos e que não procede a afirmação da Recorrida de que não reconhece os empréstimos que deu origem aos descontos em sua conta" (fls. 336-337).
+No agravo (fls. 368-374), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 400-406).
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (fls. 280-281):
+Assim, é certo que a contratação decorreu de prestação de serviços falha, e o banco deve responder objetivamente pelos danos causados ao consumidor, nos termos do artigo 14 do Código de Defesa do Consumidor.
+Os descontos realizados na conta da parte autora, em razão de contrato inexistente, configuram falha na prestação do serviço e as cobranças indevidas constituem ato ilícito, na medida em que a instituição bancária deixou de agir com o cuidado necessário para o regular desenvolvimento de sua atividade, causando os danos e resultando, por via de consequência, na obrigação de repará-los, na forma dos arts. 186 e 927 do Código Civil.
+ ..
+Desse modo, estando comprovado nos autos os descontos indevidos na conta da autora, é certa a obrigação da instituição financeira de reparar os danos materiais causados no valor correspondente ao que foi descontado indevidamente. De modo que a devolução dos valores pagos por força do reconhecimento da invalidade dos descontos é medida que se impõe em observância à vedação do enriquecimento sem causa. Em relação à repetição do indébito, por ocasião do julgamento dos embargos de divergência em agravo em recurso especial EAR Esp n. 676.608/RS, de relatoria do Ministro OG FERNANDES, o entendimento do Superior Tribunal de Justiça foi reformulado de modo reconhecer o direito à restituição em dobro do indébito por cobrança de valores referentes a serviços não contratados, por ser conduta contrária à boa-fé objetiva; porém, com a modulação dos efeitos do julgado para cobranças realizadas a partir da data da publicação do acórdão, em 30 de março de 2021. (..)
+ ..
+Desse modo, em consonância com o entendimento jurisprudencial do STJ, deve ser reformada a sentença para determinar a restituição de forma simples dos valores descontados indevidamente, contudo, devendo a restituição se dar de forma dobrada em relação aos descontos eventualmente realizados após 30/03/2021, observada a prescrição quinquenal.
+A Corte local entendeu que estaria configurado o dano moral e o dever de indenizar. A alteração do decidido pelo Colegiado implicaria reavaliação fático-probatória dos autos, atraindo a Súmula n. 7/STJ
+O recurso também não pode ser admitido pela alínea "c" pois, "consoante iterativa jurisprudência desta Corte, a incidência da Súmula 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso" (AgInt no REsp 181.234 5/AM, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/11/2019, DJe 21/11/2019).
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
