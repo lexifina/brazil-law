@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto, com base nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, por Maristela Corrêa Marques contra acórdão assim ementado (fl. 324):
+AGRAVO INTERNO EM APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS.
+PRÉVIA NOTIFICAÇÃO. EM HAVENDO PRÉVIO CONHECIMENTO E AUTORIZAÇÃO DO CONSUMIDOR PARA QUE A INSTITUIÇÃO FINANCEIRA CONSULTASSE/PRESTASSE INFORMAÇÕES JUNTO AO SCR/BACEN, NÃO HÁ FALAR EM NECESSIDADE DE PRÉVIA NOTIFICAÇÃO DO CONSUMIDOR A ESSE RESPEITO.
+INOVAÇÃO RECURSAL. NÃO DEVE SER CONHECIDO O RECURSO NAQUILO QUE ESTÁ A CARACTERIZAR INOVAÇÃO RECURSAL.
+AGRAVO INTERNO PARCIALMENTE CONHECIDO, E NESTA PARTE IMPROVIDO.
+Nas razões do recurso especial, a parte recorrente alega que o acórdão recorrido violou o art. 43, § 2º, da Lei 8.078/1990 (Código de Defesa do Consumidor), o art. 13 da Resolução CMN 5.037/2022, os arts. 186, 187 e 944 da Lei 10.406/2002 (Código Civil), os arts. 344, 345 e 346 do Código de Processo Civil e os incisos V e X do art. 5º da Constituição Federal.
+Defende necessidade de notificação prévia antes do envio de informações ao SCR, com base no art. 43, § 2º, do Código de Defesa do Consumidor e no art. 13 da Resolução CMN 5.037/2022.
+Sustenta irregularidade do registro e pleiteia exclusão do apontamento.
+Afirma ocorrência de dano moral e requer indenização fundada nos arts. 186, 187 e 944 do Código Civil.
+Argumenta que a natureza restritiva do SCR impõe observância ao regime dos bancos de dados de consumo previsto no art. 43 do Código de Defesa do Consumidor.
+Asserta que a autorização contratual não afasta dever legal de comunicar previamente o consumidor. Invoca violação dos incisos V e X do art. 5º da Constituição Federal, apontando ofensa à honra.
+Sustenta abusividade contratual, à luz do art. 51, incisos "I" e "IV", do Código de Defesa do Consumidor, por cláusula que autoriza envio de dados ao SCR sem notificação prévia. Afirma que cláusula não pode suprimir garantia de comunicação prevista pelo Conselho Monetário Nacional. Requer reconhecimento de nulidade com restauração da legalidade.
+Nas contrarrazões de fls. 369-377, o Banco do Brasil S/A sustenta inadmissibilidade por ausência de prequestionamento e deficiência de fundamentação, apontando incidência da Súmula 284/STF.
+Assim posta a questão, passo a decidir.
+O recurso não prospera.
+Com efeito, o Superior Tribunal de Justiça considera que, "embora os gestores de bancos de dados para proteção de crédito possam realizar o tratamento de dados pessoais de terceiros e, inclusive, abrir cadastro sem prévio consentimento do cadastrado, não estão autorizados a disponibilizar dados pessoais e histórico de crédito sem o consentimento prévio de seus titulares". Por outro lado, "a disponibilização de dados pessoais, por si só, não configura dano moral presumido (in re ipsa), sendo imprescindível a comprovação de que a conduta do gestor de banco de dados resultou em abalo significativo aos direitos de personalidade do titular" (REsp n. 2.221.650/SP, de minha relatoria, Quarta Turma, julgado em 4/11/2025, DJEN de 14/11/2025.)
+Ainda nesse sentido:
+CIVIL E CONSUMIDOR. RECURSO ESPECIAL. AÇÃ O DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. 1 INSCRIÇÃO NO SISTEMA DE INFORMAÇÕES DE CREDITO DO BACEN (SCR). INADIMPLÊNCIA INCONTROVERSA. DANOS MORAIS. AFASTAMENTO. REVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. APLICAÇÃO DA SÚMULA N. 7 DO STJ. 2. DISSÍDIO JURISPRUDENCIAL PREJUDICADO ANTE A INCIDÊNCIA DO ÓBICE SUMULAR. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Esta Corte Superior já se manifestou no sentido de que a legítima inscrição e manutenção de anotação em sistema de informação de crédito não configura conduta ilícita, o que afasta a pretensão de indenização por danos morais.
+2. Para alterar a conclusão a que chegou o aresto recorrido, no sentido da não ocorrência do dano moral, indispensável seria o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula n. 7 do STJ.
+3. A incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+4. Recurso especial não conhecido. (REsp n. 2.181.788/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/3/2025, DJEN de 27/3/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO. DANOS MORAIS. SISTEMA DE INFORMAÇÕES DE CRÉDITO DO BANCO CENTRAL DO BRASIL (SCR). ANOTAÇÃO JUSTIFICADA. INEXISTÊNCIA DE CONDUTA ANTIJURÍDICA. DEVER DE INDENIZAR. PRESSUPOSTOS. INEXISTÊNCIA. REVISÃO. INVIABILIDADE. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. A legítima inscrição e manutenção de anotação em sistema de informação de crédito não configura conduta antijurídica.
+2. Rever o entendimento do tribunal de origem acerca das premissas fáticas firmadas no caso demanda o reexame do suporte fático-probatório dos autos, o que é vedado em recurso especial, ante a incidência do óbice da Súmula n. 7 do STJ.
+3. Agravo interno desprovido. (AgInt no AREsp n. 2.468.974/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 29/4/2024, DJe de 2/5/2024.)
+No caso concreto, o Tribunal de origem assentou que "descabe falar em necessidade de notificação prévia ao registro dos dados do consumidor junto ao Sistema de Informações de Crédito - SCR, já que, conforme acima apontado, não há como afastar-se houvera prévio conhecimento e autorização do consumidor para que a instituição financeira prestasse informações junto ao SCR/BACEN, inexistindo sequer alegação de eventual equívoco nas informações repassadas pela instituição financeira a esse respeito, de modo que não há dever de prévia notificação da ré, não havendo falar em exclusão de registro junto ao SCR, tampouco em indenização por danos morais".
+Assim, alterar a conclusão a que chegou o Tribunal de origem, no que se refere à existência de dano, demandaria, necessariamente, o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na Súmula 7/STJ.
+Em face do exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiário da Justiça gratuita.
+Intimem-se.
+EMENTA
