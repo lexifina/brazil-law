@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por FABIANE DE LIMA contra a decisão de e-STJ fls. 1.202/1.205, por meio da qual não se conheceu do agravo em recurso especial.
+Colhe-se dos autos que a embargante foi condenada, como incursa no art. 33, caput, c/c o art. 40, I, ambos da Lei n. 11.343/2006, à reprimenda de 14 (quatorze) anos de reclusão, em regime inicial fechado, e 1.400 (mil e quatrocentos) dias-multa.
+Em apelação, o Tribunal de origem deu parcial provimento ao recurso para redimensionar a pena-base, resultando na pena definitiva de 9 (nove) anos, 7 (sete) meses e 15 (quinze) dias de reclusão, em regime inicial fechado, mais 963 (novecentos e sessenta e três) dias-multa (e-STJ fls. 786/833).
+Os embargos de declaração defensivos foram rejeitados (e-STJ fls. 901/904).
+No recurso especial, a recorrente sustentou, em síntese: i) nulidade da prova por acesso a telefones celulares sem autorização judicial e quebra da cadeia de custódia, com violação aos arts. 155, 156, 157, 158 e seguintes do Código de Processo Penal e aos arts. 3º, II e III, 7º, I, II, III e VII, 10 e 11 da Lei n. 12.965/2014; ii) inadmissibilidade da confissão extrajudicial informal, por ausência de advertência do direito ao silêncio; iii) insuficiência de provas para condenação; iv) indevida exasperação da pena-base; e v) possibilidade de reconhecimento do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006).
+A Vice-Presidência do Tribunal Regional Federal da 4ª Região inadmitiu o recurso especial com fundamento nas Súmulas n. 7 e 83 do Superior Tribunal de Justiça (e-STJ fls. 1.064/1.073).
+Daí o agravo, no qual a agravante reafirmou que não pretende o reexame de provas e reiterou as nulidades e teses de dosimetria e tráfico privilegiado (e-STJ fls. 1.083/1.105).
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo em recurso especial, com incidência da Súmula n. 182/STJ, e pela concessão, de ofício, de ordem de habeas corpus para correção da pena-base (e-STJ fls. 1.191/1.199).
+Do agravo em recurso especial não se conheceu (e-STJ fls. 1.202/1.205).
+Neste recurso, sustenta a embargante, omissão no julgado quanto à análise da tese de nulidade da confissão informal, por violação ao direito ao silêncio.
+Requer o acolhimento dos embargos para sanar o referido vício.
+É o relatório.
+Decido.
+Os embargos de declaração, nos termos do art. 619 do Código de Processo Penal, dirigem-se à correção de defeitos na mensagem do julgador, em termos de ambiguidade, omissão, contradição ou obscuridade, isolada ou cumulativamente, situação não evidenciada no caso em análise.
+Os embargos declaratórios constituem instrumento de colaboração no processo. Trata-se de instrumento de efetivo aperfeiçoamento da tutela jurisdicional.
+Acerca do vício da omissão, o vaticínio da doutrina aponta na seguinte direção:
+A omissão configura-se quando o juízo ou tribunal deixa de apreciar questões relevantes para o julgamento, suscitadas pelas partes ou cognoscíveis de ofício; ou quando não se manifesta sobre algum tópico da matéria submetida à sua apreciação, inclusive quanto ao ponto acessório, como seria o caso da condenação em despesas processuais. Mas inexiste omissão suprível por embargos de declaração quando se trata de matéria cuja apreciação dependia de provocação da parte, que não ocorreu. (GRINOVER, Ada Pellegrini; FILHO; Antonio Magalhães Gomes; FERNANDES, Antonio Scarance. Recursos no processo penal: teoria geral dos recursos, recursos em espécie, ações de impugnação, reclamação aos tribunais. 5. ed. rev. atual. e ampl. São Paulo: Editora Revista dos Tribunais, 2008, p. 228, grifo nosso.)
+Observa-se que inexiste vício na decisão embargada, que foi clara ao concluir que, nas razões do agravo em recurso especial, a defesa deixou de impugnar, de maneira adequada e suficiente, os fundamentos utilizados pela Corte de origem para obstar a admissão do apelo nobre, notadamente a incidência da Súmula n. 7/STJ.
+De mais a mais, não se verifica flagrante ilegalidade quanto à tese de nulidade da confissão informa l por violação ao direito ao silêncio, porquanto o Tribunal de origem assentou que o corréu SERGIO prestou declarações em dois momentos, sendo, na oitiva formal perante a autoridade policial, devidamente cientificado de seu direito de permanecer calado e de ser assistido por advogado, optando, ainda assim, por confessar; ademais, em juízo, com intérprete, tanto SERGIO quanto MARCOS reiteraram a confissão, de modo que, mesmo se desconsideradas as declarações informais, não há qualquer prejuízo, razão pela qual se afastou a nulidade suscitada (e-STJ fl. 790).
+Percebe-se uma insatisfação da parte com o resultado do julgamento e a pretensão de modificá-lo por meio de instrumento processual nitidamente inábil à finalidade almejada.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
