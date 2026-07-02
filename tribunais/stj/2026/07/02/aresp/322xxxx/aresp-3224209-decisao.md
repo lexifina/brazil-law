@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FRANCISCO ELIDAM GRACIANO DE MORAIS contra decisão que inadmitiu seu recurso especial, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado:
+"EMENTA: DIREITO PROCESSUAL CIVIL E DO CONSUMIDOR. APELAÇÃO CÍVEL. CARTÃO DE CRÉDITO CONSIGNADO. ALEGAÇÃO DE NULIDADE DO CONTRATO E PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. NEGÓCIO JURÍDICO VÁLIDO. RECURSO DESPROVIDO." (e-STJ, fls. 239)
+Não foram opostos embargos de declaração.
+Em seu recurso especial, o recorrente alega violação dos seguintes dispositivos da legislação federal, com as respectivas teses:
+(i) arts. 6º, III, CDC e 147 do Código Civil, pois houve vício de consentimento decorrente de indução do consumidor a erro e falha no dever de informação qualificada, já que as informações sobre a natureza e os riscos do cartão de crédito com reserva de margem consignável foram insuficientes e pouco claras;
+(ii) arts. 39, V, e 51, IV, do CDC, porquanto a contratação do cartão de crédito consignado com desconto mínimo em folha configurou prática abusiva, colocando o consumidor em desvantagem exagerada.
+Foram apresentadas contrarrazões (e-STJ, fls. 257-287).
+O recurso especial foi inadmitido na origem (e-STJ, fls. 288-293), dando ensejo à interposição do presente agravo.
+É o Relatório. Decido.
+A questão de direito objeto do recurso especial foi afetada pela Segunda Seção como representativa de controvérsia a ser julgada sob o rito dos recursos repetitivos, nos termos dos arts. 1.036 e 1.037 do CPC/2015, tendo as decisões de afetação dos REsp 2224599/PE, delimitando o Tema 1.414, nos termos da seguinte ementa:
+"PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. PROCESSUAL CIVIL. CIVIL. CONTRATOS DE CARTÃO DE CRÉDITO CONSIGNADO. VALIDADE E CONSEQUÊNCIAS. DEFINIÇÃO SOB O RITO DOS RECURSOS ESPECIAIS REPETITIVOS. VIABILIDADE DA FIXAÇÃO DE TESE CONCENTRADA E DE EFEITOS VINCULANTE.
+1. Delimitação da controvérsia: Para os efeitos dos arts. 927 e 1.036 do CPC, propõe-se a afetação do seguinte tema repetitivo:
+I - Definir parâmetros objetivos para a aferição da validade e eventual caráter abusivo dos contratos de cartão de crédito consignado, considerando: (i) o dever de prestar informações suficientes, claras e adequadas ao consumidor, em especial quando este alega que pretendia contratar simples empréstimo consignado; e (ii) o prolongamento indeterminado da dívida, ante a aparente insuficiência dos descontos mensais para amortizá-la, frente aos juros rotativos aplicados no refinanciamento do saldo.
+II - Em caso de invalidação do contrato, aferir se a consequência a ser adotada deverá ser a restituição das partes ao estado anterior, a conversão do contrato em empréstimo consignado ou a revisão das cláusulas contratuais, bem como se haverá configuração de dano moral in re ipsa.
+2. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 DO CPC/2015 (REsp 2.215.851/RJ, REsp 2.215.853/GO, REsp 2.224.599/PE e REsp 2.224.598/PE)."
+(ProAfR no REsp n. 2.224.599/PE, relator Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 24/2/2026, DJEN de 6/3/2026)
+Além disso, nesses julgamentos, houve determinação de "suspensão dos recursos especiais ou agravos em recurso especial em segunda instância e/ou no STJ cujos objetos coincidam com o da matéria afetada (observada a orientação do art. 256-L do RISTJ)".
+Nesse contexto, em observância à economia processual e ao art. 256-L do RISTJ, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução da questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Cumpre destacar que, em conformidade com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que eventualmente não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo ou pelo novo pronunciamento do Tribunal de origem.
+Diante do exposto, determino a remessa dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que, nos termos dos arts. 1.039 e 1.040 do CPC/2015, após o julgamento do tema de recurso repetitivo: i) negue-se seguimento ao recurso especial no caso de o acórdão recorrido coincidir com a tese firmada sobre o aludido tema; ou ii) proceda-se a novo exame da matéria, no órgão prolator da decisão vergastada, na hipótese desta última divergir da referida tese.
+Publique-se.
+EMENTA
