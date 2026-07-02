@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por ALEX DE AMARANTE SILVA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA que denegou a ordem impetrada, mantendo a prisão preventiva decretada em seu desfavor pela suposta prática do crime de roubo majorado.
+Sustenta o recorrente, em síntese, a ocorrência de excesso de prazo para o início da instrução criminal, bem como a ausência de fundamentação concreta da prisão preventiva. Afirma que a mera citação por edital não autoriza a conclusão de que estivesse foragido, aduz possuir residência e vínculo empregatício em outra comarca e requer a revogação da custódia cautelar, com aplicação de medidas cautelares diversas da prisão.
+As informações prestadas pelo Juízo de origem esclarecem que o recorrente permaneceu em local incerto e não sabido, tendo sido citado por edital, sem constituir defensor ou apresentar resposta à acusação, circunstância que ensejou a decretação da prisão preventiva, ressaltando, ainda, que eventual demora na marcha processual decorreu exclusivamente da não localização do acusado (fls. 110-118).
+É o relatório.
+DECIDO.
+O recurso não merece provimento.
+A prisão preventiva encontra-se adequadamente fundamentada em elementos concretos aptos a evidenciar a necessidade da medida para garantia da aplicação da lei penal e da instrução criminal, em conformidade com o art. 312 do Código de Processo Penal.
+Conforme consignado pelas instâncias ordinárias, o recorrente permaneceu em local incerto e não sabido durante o regular andamento da ação penal, circunstância que culminou em sua citação por edital, sem apresentação de resposta à acusação ou constituição de defesa técnica, vindo a ser decretada a prisão preventiva justamente para assegurar a aplicação da lei penal.
+A alegação de que a simples citação por edital não autoriza, por si só, a decretação da prisão preventiva não socorre o recorrente.
+Isso porque o acórdão recorrido não se limitou à existência da citação ficta, mas destacou o contexto concreto revelador da não localização do acusado durante a persecução penal, entendimento posteriormente reafirmado pelo Juízo de origem ao prestar informações, circunstância que evidencia risco concreto à aplicação da lei penal.
+A jurisprudência desta Corte Superior, inclusive mencionada nas informações prestadas pelo magistrado processante, firmou-se no sentido de que a fuga do distrito da culpa ou a permanência do acusado em local incerto e não sabido constituem fundamentos idôneos para a decretação e manutenção da prisão preventiva, além de afastarem alegações de ausência de contemporaneidade da medida (AgRg no HC n. 853.440/SP, Sexta Turma, Rel. Ministro Jesuíno Rissato; RHC n. 185.017/PI, Quinta Turma, Rel. Ministra Daniela Teixeira).
+Também não prospera a alegação de excesso de prazo.
+Conforme ressaltado pelas instâncias ordinárias, a paralisação do feito decorreu da impossibilidade de localização do recorrente para regular citação, circunstância que lhe é imputável e impede o reconhecimento de constrangimento ilegal. Não se admite que a parte se beneficie de atraso processual para cuja ocorrência contribuiu decisivamente.
+Igualmente não procede a alegação de ausência de contemporaneidade da custódia cautelar. Permanecendo hígido o fundamento relacionado ao risco de não aplicação da lei penal, a medida conserva sua atualidade, sobretudo enquanto não superada a situação que justificou sua decretação.
+As condições pessoais favoráveis invocadas pela defesa, tais como residência fixa, vínculo empregatício ou eventual primariedade, não são suficientes para afastar a prisão preventiva quando presentes fundamentos concretos autorizadores da medida, conforme pacífica orientação desta Corte.
+Por fim, a alegação de que o recorrente exercia atividade laborativa em outro município e, por isso, não poderia ser considerado foragido demanda aprofundado exame do conjunto fático-probatório, providência incompatível com a estreita via do habeas corpus e do respectivo recurso ordinário.
+Nessas condições, inexistindo ilegalidade apta a justificar a revogação da custódia cautelar, deve ser mantido o acórdão recorrido.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus .
+Intime-se. Publique-se.
+EMENTA
