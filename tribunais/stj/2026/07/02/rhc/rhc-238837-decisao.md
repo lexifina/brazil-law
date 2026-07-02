@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, impetrado em favor de VALDEMIR APARECIDO DE SOUSA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o recorrente foi preso preventivamente no âmbito da "Operação Ícaro", deflagrada para apurar a prática dos delitos de tráfico de drogas e associação para o tráfico (artigos 33 e 35 da Lei n. 11.343/2006). Em seu favor, foi impetrado habeas corpus pretendendo que seja posto em liberdade até o julgamento do mérito e que, ao final, lhe seja concedida a ordem, confirmando-se a liminar.
+A ordem foi denegada pelo Tribunal de origem.
+Inconformada, a defesa interpôs o presente recurso, no qual sustenta, em síntese, constrangimento ilegal decorrente de excesso de prazo para o oferecimento da denúncia, alegando que a investigação foi formalmente concluída em 12 de janeiro de 2026 e que a manutenção da prisão decorre de impasse institucional sobre a competência jurisdicional.
+Ao final, requer o provimento do recurso, para que seja reconhecido o constrangimento ilegal e determinado o relaxamento da prisão. Subsidiariamente, a substituição da prisão preventiva por medidas cautelares diversas da prisão.
+Parecer ministerial de fls. 376/380 opinando pelo improvimento do recurso.
+É o relatório.
+Decido.
+A aferição de eventual constrangimento ilegal por excesso de prazo não resulta de uma simples soma dos prazos processuais. Trata-se de uma análise que convoca a aplicação do princípio da razoabilidade, segundo o qual a demora no trâmite processual deve ser avaliada à luz das particularidades do caso concreto. A mera extrapolação dos prazos legalmente previstos não induz, de forma automática, o reconhecimento da ilegalidade, sendo imprescindível a demonstração de que a delonga é injustificada e decorre de desídia do aparato judicial (AgRg no HC n. 907.485/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024).
+A análise, portanto, é casuística e demanda uma ponderação entre a duração da prisão e a complexidade da causa, a pluralidade de réus, a necessidade de diligências específicas (como a expedição de cartas precatórias ou a realização de perícias) e a eventual contribuição da defesa para a demora processual.
+No caso em exame, o Tribunal de origem, ao analisar a questão, apresentou fundamentação idônea para afastar, por ora, a alegação de mora processual injustificada. Confira-se a ementa do acórdão impugnado (fls. 346/351):
+Habeas corpus. Associação para o tráfico de drogas. Excesso de prazo não configurado. Processo segue seu curso normal. Demora que não se pode atribuir à desídia do Magistrado. Dilação de prazos tolerada com prazo no princípio da razoabilidade e das circunstâncias do caso. Constrangimento ilegal não caracterizado. Ordem denegada na parte conhecida.
+Como bem concluiu a Corte local, não se verifica flagrante excesso de prazo para a formação da culpa do paciente, considerando a pena em abstrato prevista para o delito, bem como a complexidade do processo.
+No caso em apreço, a ação penal originária apura a conduta de vários acusados em organização criminosa com inúmeros incidentes de natureza cautelar, o que demanda maior dilação temporal para a análise do feito.
+Ademais, o Tribunal de origem, ao denegar a ordem, destacou que o feito vem recebendo impulso regular, tendo sido designada sessão para o julgamento do conflito que competência suscitado, não se verificando, portanto, desídia do magistrado condutor do processo. A complexidade do caso, e não a inércia do Judiciário, é o que justifica o prolongamento do feito, em razão, principalmente, do conflito instaurado que aguarda apreciação.
+No mesmo sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. EXCESSO DE PRAZO NA INSTRUÇÃO CRIMINAL. INEXISTÊNCIA. RECURSO DESPROVIDO. I. CASO EM EXAME
+(..)
+6. A alegação de excesso de prazo não se sustenta, pois o processo tramita de forma compatível com sua complexidade, que envolve mais de 20 réus, vários advogados, diligências pendentes e audiências redesignadas por necessidade probatória, sem desídia do juízo.
+7. A jurisprudência pacífica desta Corte considera que o excesso de prazo não pode ser aferido apenas por critério cronológico, devendo-se aplicar juízo de razoabilidade diante das peculiaridades do caso concreto.
+8. A existência de novos aditamentos à denúncia e a redesignação de audiências visam preservar o contraditório e a ampla defesa, não sendo indicativos de morosidade indevida.
+IV. RECURSO DESPROVIDO.
+(AgRg no RHC n. 214.014/PR, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 13/8/2025, DJEN de 19/8/2025.)
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. INTEGRAR ORGANIZAÇÃO CRIMINOSA. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O MESMO FIM. LAVAGEM DE DINHEIRO. OPERAÇÃO MANGUEZAIS. NEGATIVA DE AUTORIA. APROFUNDADO EXAME FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. PEDIDO DE EXTENSÃO DA LIBERDADE PROVISÓRIA CONCEDIDA A OUTRAS DENUNCIADAS. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. NECESSIDADE DE REDUZIR OU INTERROMPER A ATIVIDADE DO GRUPO CRIMINOSO. RESGUARDO DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA. MOTIVAÇÃO IDÔNEA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE ATO PROCRASTINATÓRIO POR PARTE DAS AUTORIDADES PÚBLICAS. IMPULSIONAMENTO DO PROCESSO DE FORMA REGULAR. COMPLEXIDADE DO FEITO. DESMEMBRAMENTO DO PROCESSO EM RELAÇÃO À PACIENTE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTES. PARECER ACOLHIDO. HABEAS CORPUS CONHECIDO EM PARTE E, NESSA EXTENSÃO, ORDEM DENEGADA.
+I. Caso em exame
+1. Habeas corpus impetrado em favor de paciente cuja prisão preventiva foi decretada no âmbito da Operação Manguezais, que investiga organização criminosa voltada para tráfico de drogas, associação para o tráfico e lavagem de dinheiro, dentre outros crimes. A defesa alega constrangimento ilegal por excesso de prazo na formação da culpa, ausência de fundamentação idônea para a prisão e inexistência de indícios mínimos de autoria.
+2. O Tribunal de Justiça de Pernambuco denegou a ordem e convalidou a prisão preventiva, destacando a fundamentação baseada na garantia da ordem pública e na aplicação da lei penal, com indícios de participação ativa da paciente no tráfico de drogas.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a prisão preventiva da paciente está devidamente fundamentada e se há excesso de prazo na formação da culpa que justifique a concessão da ordem de habeas corpus.
+III. Razões de decidir
+(..)
+6. Não há excesso de prazo na formação da culpa, considerando a complexidade do caso, o número de réus e a quantidade de fatos imputados, além de não haver desídia do juízo ou do Ministério Público.
+IV. Dispositivo e tese
+7. Habeas corpus conhecido em parte e, nessa extensão, ordem denegada.
+Tese de julgamento: "1. A prisão preventiva é idônea quando fundamentada na garantia da ordem pública e na aplicação da lei penal, com base em indícios de participação em organização criminosa. 2. Não há excesso de prazo na formação da culpa em casos complexos, considerando a quantidade de réus e fatos imputados, desde que não haja desídia do juízo ou do Ministério Público."
+Dispositivos relevantes citados: CPP, art. 312; CPP, art. 313, inciso I.
+Jurisprudência relevante citada: STJ, AgRg no RHC 171.820/PR, Min. Laurita Vaz, Sexta Turma, DJe 20/4/2023; STF, HC 191.068-AgR, Min. Gilmar Mendes, relator p/ acórdão Min. Nunes Marques, Segunda Turma, julgado em 8/4/2021, DJe 16/6/2021.
+(HC n. 975.776/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/6/2025, DJEN de 23/6/2025.)
+Como bem consignado na manifestação ministerial, "no presente feito, a segregação do recorrente insere-se no contexto da "Operação Ícaro", investigação complexa que envolve múltiplos investigados e a necessidade de análise de vasto material probatório, incluindo perícias em aparelhos celulares. Embora o relatório final da autoridade policial tenha sido apresentado em 12 de janeiro de 2026, os autos revelam a ocorrência de incidentes processuais legítimos, notadamente o conflito negativo de atribuição e a discussão acerca da competência entre o juízo da 1ª Vara Criminal de Taubaté e a Vara Regional das Garantias (e-STJ Fl.350)".
+Ainda que assim não fosse, não houve retardamento da marcha processual pelo Juízo de primeiro grau, tendo em vista que, no momento, não se pode precisar qual o Magistrado competente para o julgamento do feito, por restar pendente de apreciação no Tribunal de Justiça um conflito de competência suscitado.
+Não há, portanto, desídia na condução do processo que possa incorrer em flagrante ilegalidade, mormente se considerada a complexidade das investigações realizadas, além da forma de atuação da associação criminosa, o que tem provocado dúvidas a respeito da fixação da competência para processamento e julgamento da causa.
+Dessa forma, inexistindo flagrante ilegalidade na decisão impugnada e estando o andamento processual compatível com as peculiaridades da causa, não há falar em constrangimento ilegal a ser sanado por esta via.
+Ante o exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
+EMENTA
