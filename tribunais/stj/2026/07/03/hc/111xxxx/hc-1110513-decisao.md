@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de GEAN DOS SANTOS CASTORINO, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que, após sentença absolutória em primeiro grau (art. 33 e art. 35 da Lei n. 11.343/2006), o Tribunal de origem deu provimento ao apelo ministerial e reformou a decisão para condenar o paciente pelos arts. 33, caput, e 35 da Lei de Drogas, fixando a pena em 15 anos e 3 meses de reclusão, em regime inicial fechado, e 2.225 dias-multa. Posteriormente, em revisão criminal, o paciente foi absolvido do delito do art. 35 da Lei n. 11.343/2006 (art. 386, VII, CPP) e teve a pena do art. 33, caput, redimensionada para 6 anos e 8 meses de reclusão, em regime inicial fechado, e 666 dias-multa.
+Neste habeas corpus, requer o impetrante, em síntese: (i) a absolvição remanescente quanto ao art. 33, caput, da Lei n. 11.343/2006, por insuficiência de provas de autoria, em respeito ao princípio da presunção de inocência; (ii) subsidiariamente, o reconhecimento da nulidade das provas por violação de domicílio, ante ingresso sem mandado de busca e apreensão em residência de terceiro, sem comprovação idônea de consentimento, à luz do art. 5º, XI, da Constituição da República, e da regra de exclusão do art. 157, § 1º, do Código de Processo Penal, bem como do Tema 280 do Supremo Tribunal Federal, quanto à necessidade de comprovação inequívoca do consentimento; (iii) alternativamente, a determinação de novo julgamento pelo Tribunal de origem, com fundamentação específica sobre a matéria de autoria, em observância ao art. 93, IX, da Constituição da República.
+É o relatório.
+Decido.
+Em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado (AgRg no HC n. 1.006.527/RJ, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 20/8/2025, DJEN de 26/8/2025.).
+No caso, verifica-se que o processo não foi instruído com cópia integral do acórdão impugnado . Logo, inviável a aferição de constrangimento ilegal sofrido pelo acusado.
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+Publique-se. Intime-se.
+EMENTA
