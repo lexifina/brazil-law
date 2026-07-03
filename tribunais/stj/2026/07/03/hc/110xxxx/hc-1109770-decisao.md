@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOAO VITOR NUNES VITORIA CHAGAS, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, que, nos autos da Correição Parcial n. 5005603-51.2026.8.21.7000/RS, julgou procedente o pedido ministerial para autorizar, em plenário do Júri, a leitura de documentos relativos à vida pregressa e aos antecedentes criminais do acusado.
+Consta dos autos que o paciente responde à ação penal de competência do Júri por suposta prática de homicídio qualificado tentado, com pronúncia para julgamento pelo Conselho de Sentença. Na fase do art. 422 do Código de Processo Penal, surgiram requerimentos das partes quanto ao uso de documentos e recursos audiovisuais em plenário, tendo o Juízo de origem vedado, sob pena de nulidade, a referência a antecedentes e histórico policial do réu, decisão depois cassada na correição parcial.
+A defesa alega que o acórdão importa constrangimento ilegal, por afastar a decisão de primeiro grau que resguardou a plenitude de defesa e a paridade de armas.
+Sustenta que o procedimento do Júri exige proteção reforçada à imparcialidade dos jurados, razão pela qual a menção, leitura ou exibição de certidões de antecedentes e relatórios de "consultas integradas" em plenário configura indevido argumento de autoridade, em violação ao art. 478, I, do Código de Processo Penal, e promove julgamento fundado em "direito penal do autor", em detrimento do fato e das provas produzidas nos autos.
+Argumenta, ainda, que a exposição da vida pregressa do paciente, desconectada do fato em apuração, tem potencial de influenciar irremediavelmente a íntima convicção dos jurados, cujos votos são sigilosos e desprovidos de fundamentação, acarretando prejuízo irreparável à defesa técnica e ao próprio acusado.
+Aponta que há excesso acusatório e risco concreto de nulidade do julgamento, enfatizando a proximidade da sessão plenária designada.
+Requer, liminarmente, a suspensão dos efeitos do acórdão impugnado e, no mérito, a concessão da ordem para restabelecer a decisão do Juízo de primeiro grau na Ação Penal n. 5000658-69.2024.8.21.0055/RS, a fim de proibir qualquer referência, leitura ou exibição, em plenário do Júri, aos antecedentes criminais ou ao histórico de procedimentos em nome do paciente.
+É o relatório.
+Decido.
+É consolidada a jurisprudência deste Superior Tribunal de Justiça no sentido de que a prerrogativa do relator para julgar monocraticamente o habeas corpus e o respectivo recurso não é afastada pelas normas regimentais que preveem a oitiva prévia do Ministério Público Federal (arts. 64, III, e 202 do RISTJ), notadamente quando a matéria se conforma com o entendimento dominante desta Corte (AgRg no HC n. 856.046/SP, de relatoria do Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023).
+Esta Corte e o Supremo Tribunal Federal pacificaram o entendimento de que não cabe habeas corpus como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (STJ, HC n. 535.063/SP, Terceira Seção, Relator Ministro Sebastião Reis Junior, julgado em 10/6/2020, DJe de 25/8/2020; STF, AgRg no HC n. 180.365/PB, Primeira Turma, Relatora Ministra Rosa Weber, julgado em 27/3/2020, DJe de 2/4/2020; e AgRg no HC n. 147.210/SP, Segunda Turma, Relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/2/2020).
+Ademais, verifico que não há ilegalidade flagrante que justifique a concessão de habeas corpus de ofício.
+A controvérsia cinge-se à validade da autorização para referência e leitura de antecedentes e histórico policial em plenário, à luz das vedações legais.
+A jurisprudência desta Corte Superior é firme no sentido de que o rol de proibições contido no art. 478 do Código de Processo Penal é taxativo. O dispositivo legal veda, sob pena de nulidade, apenas as referências à decisão de pronúncia, às decisõe s posteriores que julgaram admissível a acusação ou à determinação do uso de algemas como argumento de autoridade, bem como ao silêncio do acusado.
+O Tribunal de origem, ao examinar a controvérsia, concluiu pela taxatividade das vedações previstas na legislação processual, assentando a inexistência de proibição legal à mera referência ou leitura de antecedentes, desde que não empregadas para substituir o juízo dos jurados por autoridade alheia ao caso, e enfatizou o poder de polícia do Juiz Presidente para coibir excessos pontuais durante os debates. Nessa moldura, a orientação fixada preserva o equilíbrio entre o amplo debate em plenário e a vedação ao argumento de autoridade, sem instituir filtros prévios não previstos em lei.
+Nesse sentido, reforça-se o entendimento de que a juntada e a consequente menção de documentos sobre a vida pregressa do acusado não violam o art. 478 do CPP, que não admite interpretação ampliativa para abarcar hipóteses não previstas pelo legislador.
+A propósito:
+Direito processual penal. Agravo regimental. Juntada de documentos sobre antecedentes criminais. Rol taxativo do art. 478 do CPP.
+Agravo REGIMENTAL não conhecido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento a recurso ordinário em habeas corpus, no qual se alegava constrangimento ilegal pela juntada de documentos referentes aos antecedentes criminais do agravante, com vistas à sua apresentação em plenário do Tribunal do Júri.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a juntada de documentos sobre antecedentes criminais do réu, respeitada a fase do art. 422 do CPP, configura ilegalidade, e se a menção a tais documentos em plenário viola o rol taxativo do art. 478 do CPP.
+III. Razões de decidir
+3. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que a juntada de documentos sobre antecedentes criminais, desde que não utilizados como argumento de autoridade para a condenação, não configura ilegalidade.
+4. O rol do art. 478, inciso I, do CPP é taxativo, não admitindo interpretações ampliativas, sendo vedada apenas a leitura de certas peças em plenário, mas não a mera menção a antecedentes criminais.
+5. O agravante não impugnou especificamente os fundamentos da decisão agravada, limitando-se a reiterar argumentos já refutados, o que impede o conhecimento do agravo regimental.
+IV. Dispositivo e tese
+6. Agravo regimental não conhecido.
+Tese de julgamento: "1. A juntada de documentos sobre antecedentes criminais, respeitada a fase do art. 422 do CPP, não configura ilegalidade. 2. O rol do art. 478, inciso I, do CPP é taxativo, vedando apenas a leitura de certas peças em plenário, mas permitindo a menção a antecedentes criminais. 3. A ausência de impugnação específica dos fundamentos da decisão agravada impede o conhecimento do agravo regimental".
+Dispositivos relevantes citados: CPP, arts. 422 e 478.
+Jurisprudência relevante citada: STJ, AgRg no HC 763.981/MS, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 06.03.2023; STJ, HC 333.390/MS, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 18.08.2016.
+(AgRg no RHC n. 218.458/MT, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 3/9/2025, DJEN de 8/9/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRIBUNAL DO JÚRI. MENÇÃO À FOLHA DE ANTECEDENTES EM PLENÁRIO. ROL TAXATIVO DO ART. 478 DO CPP. AUSÊNCIA DE NULIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, admitindo-se a concessão da ordem de ofício apenas em hipóteses de ilegalidade flagrante.
+2. O rol do art. 478 do CPP é taxativo, não abrangendo a folha de antecedentes criminais, sendo admitidas, nos termos do art. 480, § 3º, perguntas ao réu sobre sua vida pregressa em plenário do Júri.
+3. O habeas corpus não se presta ao reexame do contexto fático dos debates em plenário do Júri, inclusive quanto ao impacto de referências à vida pregressa do acusado, ausentes elementos concretos de nulidade ou constrangimento ilegal.
+4. Agravo regimental improvido.
+(AgRg no HC n. 982.539/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 15/4/2026, DJEN de 22/4/2026.)
+Portanto, a pretensão defensiva de proibir de modo absoluto a menção aos antecedentes e a documentos relativos à vida pregressa não se harmoniza com a técnica do júri nem com a regra processual que delimita, de forma precisa, o que é vedado durante os debates. Ao contrário, a leitura controlada de documentos licitamente carreados aos autos e previamente cientificados à parte adversa não configura, por si, vício processual, desde que o uso não se converta em substituição indevida da prova do processo por autoridade extrínseca.
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
