@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por NELSON RUGGIERO SOCIEDADE DE ADVOGADOS contra decisão singular de minha lavra na qual dei provimento ao seu recurso especial, para fixar os honorários sucumbenciais em 10% sobre o proveito econômico obtido pela autora, correspondente à soma do valor declarado inexigível com o valor da condenação por dano moral (fls. 395-398).
+A parte embargante alega, em síntese, que houve contradição na decisão embargada, na medida em que "ao reduzir de ofício o percentual de 20% para 10%, sem que houvesse pedido de qualquer das partes nesse sentido, incorreu em julgamento extra petita, em manifesta violação ao princípio dispositivo e ao art. 492 do Código de Processo Civil, que veda ao julgador proferir decisão de natureza diversa da pedida, bem como avançar sobre matéria sobre a qual já havia ocorrido preclusão." (fl. 402).
+Sustenta que "se a v. decisão embargada reconheceu que a base de cálculo deveria ser ampliada para abranger o proveito econômico total de R$ 146.168,28  e não apenas os R$ 5.000,00 da condenação por danos morais -, era de rigor que o percentual aplicado fosse, no mínimo, o mesmo já fixado na origem, isto é, 20% (vinte por cento), uma vez que a parte contrária não impugnou tal percentual e o princípio da non reformatio in pejus igualmente vedava a sua redução." (fl. 403).
+Alega, por fim, que houve omissão quanto à fundamentação para redução do percentual dos honorários.
+Impugnação às fls. 410 - 413.
+Assim delimitada a controvérsia, passo a decidir.
+A decisão embargada enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e suficiente, razão pela qual não merece reparo algum, conforme se depreende de seus próprios fundamentos.
+No caso, a decisão embargada deu provimento ao recurso especial da embargante para afastar a adoção exclusiva do valor da condenação por danos morais como base de cálculo dos honorários advocatícios, redimensionando a verba sucumbencial em 10% sobre o proveito econômico obtido pela autora, correspondente à soma do valor do débito declarado inexigível com o valor da condenação por dano moral.
+A alteração da base de cálculo tornou necessário novo arbitramento da verba honorária, observados os limites de 10% a 20% estabelecidos no art. 85, § 2º, do Código de Processo Civil. Não há falar, portanto, em vinculação ao percentual anteriormente aplicado pelo Tribunal de origem sobre base de cálculo diversa.
+Desse modo, diversamente do que sustenta a parte embargante, não houve violação ao princípio da non reformatio in pejus, pois a adoção de base de cálculo significativamente superior resultou em aumento substancial da verba honorária fixada em seu favor.
+Ademais, a jurisprudência do STJ é firme no sentido de que, havendo parcial provimento do recurso, haverá consequente modificação na sucumbência, não se traduzindo esta em julgamento extra petita (AgRg no Ag n. 1.370.174/SC, relatora de minha relatoria, Quarta Turma, julgado em 25/10/2011, DJe de 8/11/2011.).
+Ressalto, ainda, que não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos encontra-se objetivamente fixado nas razões da decisão embargada, motivo pelo qual rejeito a alegação de omissão no julgado.
+A propósito, confira-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL. AUSÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC, destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, o que não ocorre na hipótese em apreço.
+2. Argumenta-se que as questões levantadas no agravo denegado, capazes, em tese, de infirmar a conclusão adotada monocraticamente, não foram analisadas pelo acórdão embargado (art. 489 do CPC/2015).
+Entende-se, ainda, que o art. 1.021, § 3º, do CPC/2015 veda ao relator limitar-se à reprodução dos fundamentos da decisão agravada para julgar improcedente o agravo interno.
+3. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+4.Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp n. 1.483.155/BA, relator Ministro Og Fernandes, Corte Especial, julgado em 15/6/2016, DJe de 3/8/2016.)
+Assim, não demonstrada efetivamente a existência de nenhum dos vícios previstos no art. 1.022 do CPC, conclui-se que a pretensão da parte embargante é unicamente o rejulgamento da causa, finalidade à qual não se presta a via eleita. (v. EDcl no AgRg nos EREsp n. 1.213.226/SC, relator Ministro Raul Araújo, Corte Especial, julgado em 24/10/2016, DJe de 22/11/2016.).
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
