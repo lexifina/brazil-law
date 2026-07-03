@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ROCELO BEZERRA LOPES, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em decorrência do julgamento do habeas corpus n. 2030418-76.2026.8.26.0000.
+Consta dos autos que foram impostas em desfavor do paciente medidas cautelares diversas da prisão, notadamente a entrega de passaportes, manutenção de endereço atualizado e comparecimento aos atos processuais.
+A defesa impetrou habeas corpus ao Tribunal de Justiça do Estado de São Paulo, que denegou a ordem (fls. 20-29).
+Na presente impetração, a defesa aponta a ocorrência de constrangimento ilegal, consubstanciado na ausência de fundamentação acerca da necessidade de imposição da medida cautelar de proibição de saída do país em desfavor do paciente.
+Defende que o artigo 319 do Código de Processo Penal prevê medidas cautelares alternativas plenamente capazes de assegurar a aplicação da lei penal, como o comparecimento periódico em juízo, a proibição de contato com investigados ou testemunhas, entre outras providências menos gravosas.
+Requer, ao final, a revogação da medida cautelar de proibição de saída do país; e subsidiariamente, sua substituição por medida menos gravosa.
+Liminar indeferida às fls. 117-118.
+Informações prestadas às fls. 123-126.
+O Ministério Público Federal, às fls. 129-138, manifestou-se pelo não conhecimento da ordem.
+É o relatório. DECIDO.
+No caso em apreço, não se verifica qualquer irregularidade decorrente da alegada ausência de fundamentação idônea para a manutenção da medida cautelar de proibição de saída do país.
+Com efeito, o acórdão recorrido destacou que o Ministério Público ofereceu denúncia contra o paciente e outros seis indivíduos pela prática, em tese, dos crimes previstos nos arts. 155, § 4º-B (por duas vezes), 288, caput, e 347, parágrafo único, todos combinados com o art. 69 do Código Penal, referentes a furto de altos valores mediante fraude praticada por dispositivo eletrônico ou informático, circunstância que, segundo consignado, evidencia elevado poder aquisitivo e, consequentemente, a possibilidade de evasão do distrito da apuração ou do país, fatores que indicam a necessidade de manutenção da medida cautelar imposta - fls. 25-26.
+Ressalta-se que, diante das circunstâncias concretas e em observância aos princípios da proporcionalidade e da adequação, é legítima a manutenção de medidas cautelares quando necessárias à garantia da ordem pública, à conveniência da instrução criminal ou à aplicação da lei penal.
+Sobre o tema:
+"A validade da imposição de qualquer medida cautelar de natureza pessoal está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, quando se tratar de prisão preventiva, ou aos requisitos do art. 282 do mesmo diploma legal quando for o caso de cautelares diversas da prisão, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+In casu, os agravantes são acusados de integrar organização criminosa e providenciar a lavagem de dinheiro atuando como operadores financeiros de esquema que teria movimentado mais de R$ 30.000.000,00 (trinta milhões de reais). Há nos autos, ainda, a informação de que no dia do cumprimento do mandado de busca e apreensão, Gláucia viajou aos Estados Unidos e Thiago estava com passagem comprada, razão pela qual está evidenciado o risco à aplicação da lei penal" (AgRg no RHC n. 223.693/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 27/11/2025.)
+"As medidas cautelares diversas da prisão são adequadas e proporcionais à gravidade concreta do fato e à situação subjetiva da paciente, que responde por outros processos criminais.
+A autorização irrestrita para viajar ao exterior comprometeria a efetividade da persecução penal e configuraria proteção insuficiente aos interesses públicos envolvidos" (AgRg no HC n. 1.005.947/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJEN de 11/9/2025.)
+"Para a aplicação das medidas cautelares diversas da prisão, exige-se fundamentação específica que demonstre a necessidade e adequação de cada medida imposta no caso concreto (HC 480.001/SC, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 12/02/2019, DJe 07/03/2019).
+Na espécie, o Magistrado, ao proferir sentença, revogou as medidas cautelares outrora aplicadas, mas manteve a retenção do passaporte do réu e a proibição de se ausentar do país, como forma de assegurar a permanência do réu ao alcance da lei nacional, porquanto teve resguardado o direito de recorrer em liberdade e dispõe de recursos financeiros para deixar o país a qualquer momento" (AgRg no HC n. 497.856/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 14/6/2019.)
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, denego a ordem.
+Publique-s e. Intimem-se.
+EMENTA
