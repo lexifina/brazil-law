@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de FELIPE GODOI DOS SANTOS, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, em decorrência do julgamento da apelação c riminal n. 0001463-18.2021.8.16.0196.
+Consta nos autos que o paciente foi inicialmente condenado pelo Juízo da 4ª Vara Criminal do Foro Central da Comarca da Região Metropolitana de Curitiba à pena de 3 (três) anos, 1 (um) mês e 15 (quinze) dias de reclusão, em regime semiaberto, além de 312 (trezentos e doze) dias-multa, pela prática do delito previsto no artigo 33, caput, da Lei 11.343/2006, com reconhecimento da causa de diminuição de pena prevista em seu § 4º (fls. 35-61).
+Ambas as partes interpuseram apelação perante o Tribunal de Justiça do Estado do Paraná, que negou provimento ao recurso da defesa e deu provimento ao recurso da acusação para afastar a causa de diminuição prevista no § 4º do artigo 33 da Lei 11.343/2006, redimensionando a pena do paciente para 6 (seis) anos e 3 (três) meses de reclusão, além de 625 (seiscentos e vinte e cinco) dias-multa, em regime semiaberto, mantidos os demais termos da condenação (fls. 62-70), sobrevindo o trânsito em julgado em 20 de setembro de 2022.
+Na impetração, busca-se a concessão da ordem para: (i) manter o reconhecimento e a aplicação da causa de diminuição de pena do tráfico privilegiado na terceira fase da dosimetria, na fração máxima; e (ii) fixar o regime inicial aberto para o cumprimento da pena (fls. 14-16).
+É o relatório. DECIDO.
+A controvérsia consiste na verificação da ocorrência de possível constrangimento ilegal, caracterizado pelo afastamento da causa de diminuição de pena prevista no artigo 33, § 4º, da Lei 11.343/2006 pelo Tribunal de origem, bem como pela alegada necessidade de redimensionamento da reprimenda e de fixação de regime inicial mais brando para o cumprimento da pena.
+Contudo, o presente habeas corpus investe contra um acórdão com trânsito em julgado. Portanto, não deve ser conhecido, pois foi utilizado como substituto de uma revisão criminal, em uma situação em que não se configurou a competência originária desta Corte.
+Conforme o artigo 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, as revisões criminais e as ações rescisórias de seus julgados.
+A esse respeito: "1. Na hipótese, a condenação transitou em julgado em 31/5/2023. Dessa forma, o presente writ seria sucedâneo de revisão criminal, sendo esta Corte incompetente para o processamento do pleito revisional." (AgRg no HC n. 861.867/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024.)
+O artigo 210 do Regimento Interno do Superior Tribunal de Justiça autoriza o relator a indeferir liminarmente o habeas corpus quando constatada a manifesta incompetência, hipótese verificada nos presentes autos.
+De todo modo, não verifico a presença de ilegalidade flagrante que desafie a concessão da ordem nos termos do §2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
