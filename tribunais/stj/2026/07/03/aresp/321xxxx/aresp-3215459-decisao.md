@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo interposto por KAROLINE COSTA ALMEIDA contra decisão que obstou a subida de recurso especial.
+A parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS assim ementado (fl. 309):
+DIREITO CIVIL E BANCÁRIO. APELAÇÃO CÍVEL. SISTEMA DE INFORMAÇÕES DE CRÉDITO DO BANCO CENTRAL - SCR. INCLUSÃO DE DADOS SEM NOTIFICAÇÃO PRÉVIA. FINALIDADE INSTITUCIONAL DO SISTEMA. DANO MORAL NÃO CONFIGURADO.
+I. CASO EM EXAME Trata-se de apelação cível interposta contra sentença que julgou improcedente o pedido de indenização por danos morais, formulado em razão da alegada ausência de notificação prévia quanto à inclusão de informações da parte autora no Sistema de Informações de Crédito do Banco Central (SCR).
+II. QUESTÃO EM DISCUSSÃO 2. A questão em discussão consiste em saber se a instituição financeira responde civilmente por danos morais pela inclusão de dados da parte autora no SCR sem prévia comunicação.
+III. RAZÕES DE DECIDIR 3. a. O SCR é sistema de caráter público, de acesso restrito e regulado pelo Banco Central, cuja finalidade é o intercâmbio de informações entre instituições financeiras para fins de monitoramento do crédito. 3. b. A remessa de dados é compulsória, nos termos da Resolução n. 5.037/2022 do Conselho Monetário Nacional, e seu envio independe de autorização individual para cada operação, bastando ciência prévia durante a relação contratual. 3. c. A ausência de notificação individualizada não configura, por si só, conduta ilícita ou ofensiva a direitos da personalidade. 3. d. A responsabilidade civil exige a demonstração do efetivo prejuízo. Inexistindo prova de dano, não é devida a indenização. 3. e. A sentença determinou a exclusão da anotação no SCR, mas tal ponto não foi objeto de impugnação da instituição financeira, sendo incabível sua reforma de ofício.
+IV. TESE 4. Tese de julgamento: "1. A inclusão de dados no Sistema de Informações de Crédito do Banco Central (SCR), sem prévia notificação específica, não configura ato ilícito ou enseja, por si só, o dever de indenizar por danos morais. 2. Para a configuração da responsabilidade civel é necessária a demonstração de efetivo prejuízo à esfera extrapatrimonial do consumidor."
+Sem embargos de declaração.
+No recurso especial, alega que o acórdão estadual contrariou as disposições contidas nos arts. 43, § 2º, do CDC, 13, §§ 1º, 2º e 3º, da Resolução 5.037 do Banco Central do Brasil, na Súmula 40 do STJ e no Tema Repetitivo nº 40 do STJ.
+Aponta divergência jurisprudencial com arestos desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 821-825).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 828-831), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fl. 922).
+É, no essencial, o relatório.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial com base nos seguintes fundamentos: o recurso especial não se presta à apreciação de eventual ofensa a atos normativos secundários, tema ou súmula de tribunal, que não se enquadram no conceito de lei federal contido no artigo 105, III, "a", da Constituição da República e o óbice da Súmula 7 do STJ.
+Entretanto, a parte agravante não impugnou todos os fundamentos da decisão agravada, abstendo-se de rebater o fundamento no sentido de que o recurso especial não se presta à apreciação de eventual ofensa a atos normativos secundários, tema ou súmula de tribunal, que não se enquadram no conceito de lei federal contido no artigo 105, III, "a", da Constituição da República.
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+A propósito, cito precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. A ausência de impugnação específica a todos os fundamentos da decisão combatida, ônus da parte recorrente, atrai a incidência dos arts. 1.021, § 1º, do CPC, e da Súmula 182 desta Corte.
+2. A Corte Especial do STJ firmou o entendimento segundo o qual a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+3. Agravo regimental improvido. (AgRg no AREsp n. 1.949.904/GO, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, DJe de 10/6/2022.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. A Súmula 182/STJ é aplicável no âmbito dos agravos internos do Superior Tribunal de Justiça, tendo sido editada, inclusive, para este fim.
+3. Conforme firmado pela Corte Especial do STJ no EREsp 1.424.404/SP (Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe 17/11/2021), a aplicação da Súmula 182/STJ depende de que a parte não ataque o capítulo único da decisão agravada ou, havendo nela mais de um, que a parte deixe de atacar todos os fundamentos impostos ao capítulo impugnado. No mesmo sentido: EREsp 1738541/RJ, Rel. Min. Mauro Campbell Marques, Corte Especial, DJe de 8/2/2022.
+4. No caso concreto, o mérito do recurso especial foi decidido de forma unificada através da aplicação das Súmulas 283/STF, 7/STJ e 284/STF, tendo a parte interessada, no seu agravo interno, deixado de impugnar a incidência da Súmula 284/STF. Deste modo, como um capítulo autônomo da decisão monocrática foi combatido apenas parcialmente, aplicável o enunciado da Súmula 182/STJ.
+5. Embargos de declaração acolhidos, para esclarecimento, sem efeitos infringentes. (EDcl no AgInt no REsp n. 1.689.848/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 24/3/2022.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados pelo Tribunal de origem para 12% sobre o valor atualizado da causa, observada a concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
