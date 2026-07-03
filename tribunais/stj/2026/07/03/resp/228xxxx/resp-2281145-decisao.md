@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO TOCANTINS, com respaldo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS assim ementado (e-STJ fls. 223/224):
+EMENTA: DIREITO ADMINISTRATIVO. APELAÇÃO CÍVEL. SERVIDOR PÚBLICO ESTADUAL. PROGRESSÃO FUNCIONAL. COBRANÇA DE RETROATIVOS. PRESCRIÇÃO DE PARCELAS ANTERIORES AO QUINQUÊNIO. IMPOSSIBILIDADE DE RECONHECIMENTO DE PEDIDOS AUTÔNOMOS EM CONTRARRAZÕES. RECURSO CONHECIDO E DESPROVIDO.
+I. CASO EM EXAME
+1. Trata-se de Apelação Cível interposta por servidor público estadual contra Sentença que julgou parcialmente procedente pedido formulado em Ação de Cobrança de valores retroativos oriundos de progressão funcional concedida administrativamente por meio da Portaria n. 365/2022-GASEC, com efeitos retroativos a 2018. A Sentença condenou o Estado do Tocantins ao pagamento das parcelas vencidas, observada a prescrição quinquenal. O Apelante pleiteia a reforma da Sentença, com a condenação ao pagamento integral das parcelas retroativas desde 2018, afastando- se a prescrição reconhecida. Em Contrarrazões, o Estado do Tocantins suscitou preliminares e defendeu a legalidade da limitação temporal e da observância do cronograma instituído pela Lei Estadual n. 3.901/2022.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) verificar a possibilidade de reconhecimento de pedidos autônomos em sede de contrarrazões recursais; (ii) de nir se é cabível o afastamento da prescrição quinquenal reconhecida na Sentença; (iii) estabelecer se é exigível judicialmente o pagamento de valores retroativos da progressão funcional, mesmo diante da previsão de parcelamento contida em legislação estadual superveniente.
+III. RAZÕES DE DECIDIR
+3. As contrarrazões de apelação possuem natureza defensiva, não sendo admissível o oferecimento de pedidos autônomos ou inovação no objeto litigioso, nos termos do artigo 1.009, §2º, do Código de Processo Civil. Assim, é incabível a apreciação de pleitos como a extinção do processo, a impossibilidade jurídica do pedido, ou a limitação da condenação, quando não interposto recurso próprio pelo recorrido.
+4. No mérito, o direito à progressão funcional reconhecido pela Administração configura direito subjetivo do servidor, incorporando- se ao seu patrimônio jurídico e sendo exigível judicialmente, nos termos do Tema 1.075 do Superior Tribunal de Justiça, que afasta a alegação de ausência de dotação orçamentária como óbice à implementação de progressões.
+5. A Lei Estadual n. 3.901/2022, que estabeleceu cronograma de parcelamento para efeitos financeiros de progressões, não possui o condão de afastar a exigibilidade do crédito reconhecido, notadamente quando ausente adesão expressa do servidor à norma, sendo indevida a imposição unilateral de regime de parcelamento como causa impeditiva de demanda judicial.
+6. A prescrição das parcelas vencidas anteriormente a 27 de fevereiro de 2020 foi corretamente reconhecida com base na Súmula 85 do Superior Tribunal de Justiça, aplicável às relações jurídicas de trato sucessivo envolvendo a Fazenda Pública, nas quais a prescrição incide apenas sobre as parcelas anteriores ao quinquênio contado da data de ajuizamento da ação, que no caso ocorreu em 27 de fevereiro de 2025.
+IV. DISPOSITIVO E TESE
+7. Recurso conhecido e desprovido.
+Tese de julgamento:
+1. Não é admissível ao recorrido, em contrarrazões recursais, formular pedidos autônomos ou inovar na causa, sob pena de preclusão, sendo incabível a análise de pretensões que demandariam apelação própria.
+2. O reconhecimento administrativo da progressão funcional confere ao servidor direito subjetivo à percepção das vantagens dela decorrentes, sendo indevida a imposição de cronograma de parcelamento não aceito expressamente, ainda que previsto em legislação estadual.
+3. Nas ações envolvendo créditos de trato sucessivo contra a Fazenda Pública, a prescrição atinge apenas as parcelas vencidas antes do quinquênio anterior à propositura da ação, nos termos da Súmula 85 do Superior Tribunal de Justiça.
+Dispositivos relevantes citados: Código de Processo Civil, arts. 485, VI; 487, I e II; 491, §1º; 1.009, §2º. Constituição Federal de 1988, art. 97. Lei Estadual n. 3.901/2022.
+Jurisprudência relevante citada no voto: STJ, Tema 1.075, Rel. Min. Assusete Magalhães, Primeira Seção, j. 13.10.2021; STJ, Súmula 85.
+Os embargos de declaração opostos foram rejeitados, em julgado assim sintetizado (e-STJ fls. 248/249):
+EMENTA: DIREITO ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. SERVIDOR PÚBLICO ESTADUAL. PROGRESSÃO FUNCIONAL. COBRANÇA DE RETROATIVOS. PRESCRIÇÃO QUINQUENAL. LEI ESTADUAL Nº 3.901/2022. RECONHECIMENTO LEGISLATIVO DE DÍVIDA. RENÚNCIA TÁCITA À PRESCRIÇÃO. ART. 191 DO CÓDIGO CIVIL. TEMA 1.109 DO STJ. EMBARGOS ACOLHIDOS COM EFEITOS INFRINGENTES.
+I. Caso em exame
+1. Embargos de declaração opostos por servidor público estadual contra acórdão que, ao negar provimento à apelação cível em ação de cobrança de valores retroativos de progressão funcional implementada administrativamente, manteve o reconhecimento da prescrição quinquenal das parcelas anteriores a 27/02/2020, com fundamento na Súmula 85 do STJ.
+II. Questão em discussão
+2. A questão em discussão consiste em: (i) saber se o acórdão embargado incorreu em omissão ao deixar de enfrentar a tese de renúncia tácita à prescrição; e (ii) saber se a Lei Estadual nº 3.901/2022, ao reconhecer o passivo funcional e instituir cronograma de pagamento, con gura renúncia tácita à prescrição, nos termos do art. 191 do Código Civil e do Tema 1.109 do STJ, afastando a limitação quinquenal.
+III. Razões de decidir
+3. Os embargos de declaração são cabíveis para suprir omissão relevante, nos termos do art. 1.022, II, do Código de Processo Civil, não se prestando à mera rediscussão do mérito, mas admitindo efeitos infringentes quando a integração do julgado altera sua conclusão.
+4. O acórdão embargado deixou de apreciar expressamente a alegação de que a Lei Estadual nº 3.901/2022, ao reconhecer formalmente o passivo decorrente de progressões funcionais e estabelecer cronograma de quitação, con gura ato inequívoco incompatível com o exercício da prescrição.
+5. O reconhecimento legislativo da dívida pelo próprio ente público caracteriza renúncia tácita à prescrição, nos termos do art. 191 do Código Civil, conforme a tese firmada no Tema 1.109 do Superior Tribunal de Justiça.
+6. Configurada a renúncia à prescrição, mostra-se inaplicável a Súmula 85 do STJ ao caso concreto, afastando-se a limitação quinquenal anteriormente reconhecida e assegurando-se o pagamento integral dos valores retroativos da progressão funcional.
+IV. Dispositivo
+7. Embargos de declaração conhecidos e acolhidos, com efeito infringente, para suprir a omissão e reformar parcialmente o acórdão embargado, afastando a prescrição quinquenal e reconhecendo o direito ao recebimento integral dos valores retroativos da progressão funcional.
+Ementa redigida em conformidade com a Recomendação CNJ 154/2024, com apoio de IA, e programada para não fazer buscas na internet.
+Referências: Código de Processo Civil, art. 1.022; Código Civil, art. 191; Lei Estadual nº 3.901/2022; Súmula 85/STJ; Tema 1.109/STJ.
+Nas suas razões, a parte recorrente alega, além de divergência jurisprudencial, violação dos arts. 191 do Código Civil e do art. 1º do Decreto n. 20.910/1932, sustentando que a da Lei estadual n. 3.901/2022, ao estabelecer cronograma de pagamento de passivos funcionais, não configurou renúncia tácita à prescrição.
+Contrarrazões às e-STJ fls. 260/267.
+Passo a decidir
+A insurgência não merece prosperar.
+O Tribunal de origem decidiu a questão à luz de legislação estadual, inviabilizando, assim, a análise da insurgência na via do recurso especial, ante o óbice da Súmula 280 do STF. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ADMINISTRATIVO E SERVIDOR PÚBLICO. AÇÃO DE COBRANÇA. RETROATIVOS DE PROGRESSÃO FUNCIONAL. RELAÇÃO DE TRATO SUCESSIVO. APLICAÇÃO DA SÚMULA 85/STJ. RENÚNCIA TÁCITA. INAPLICABILIDADE. TEMA 1.109/STJ. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. VIOLAÇÃO AOS ARTS. 191 E 884 DO CÓDIGO CIVIL E AO TEMA REPETITIVO N. 1.109/STJ. NORMA LOCAL. REEXAME. IMPOSSIBILIDADE. SÚMULA 280/STF, POR ANALOGIA. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem enfrentou todos os fundamentos capazes de infirmar sua decisão, não havendo violação aos arts. 489 e 1.022 do CPC, conforme jurisprudência do Superior Tribunal de Justiça, que não exige a análise individual de todos os argumentos das partes, mas sim a fundamentação das razões do convencimento.
+2. Para chegar à conclusão de ausência de renúncia à prescrição, o Tribunal a quo realizou a análise da legislação estadual invocada pela parte recorrente. Em consequência, incide a Súmula 280/STF, por analogia, uma vez que é incabível o reexame de norma local por meio de recurso especial.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.251.225/TO, relator Ministro Marco Aurélio Bellizze, Segunda Turma, julgado em 27/5/2026, DJEN de 1/6/2026.)
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. RENÚNCIA TÁCITA À PRESCRIÇÃO. LEI ESTADUAL N. 3.901/2022. MATÉRIA DECIDIDA À LUZ DE DIREITO LOCAL. SÚMULA N. 280 DO STF, POR ANALOGIA. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Para concluir pela inexistência de renúncia à prescrição, o Tribunal de origem, à luz da tese firmada pelo Superior Tribunal de Justiça no Tema n. 1.109 dos recursos repetitivos, procedeu ao exame da legislação estadual, qual seja, a Lei n. 3.901/2022. Inviável a sua revisão na via do recurso especial, nos termos da Súmula n. 280 do STF, aplicada por analogia.
+2. A parte recorrente não realizou o cotejo analítico, nos moldes legais e regimentais, vício insanável.
+3. Agravo conhecido para não conhecer do recurso especial.
+(AREsp n. 3.141.987/TO, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 20/5/2026, DJEN de 28/5/2026.)
+Por fim, quanto ao apelo fundado na alínea "c" do permissivo constitucional, consigne-se que a incidência dos óbices acima indicados impede seu exame, visto que a análise da divergência jurisprudencial fica prejudicada se a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional (AgRg no AREsp 278.133/RJ, rel. Ministro SÉRGIO KUKINA, Primeira Turma, DJe 24/09/2014).
+Ante o exposto, com base no art. 255, §4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
