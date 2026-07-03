@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JOSÉ FABIO FERNANDES DE OLIVEIRA MOURA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no HC n. 2008581-62.2026.8.26.0000.
+Sustenta o impetrante, em suma, a ausência de fundamentação idônea e concreta na decisão que decretou a prisão preventiva do paciente, alegando que a custódia estaria lastreada apenas na gravidade abstrata dos delitos e que a decisão teria tratado os três corréus de forma homogênea, sem individualização da conduta de José Fabio.
+Sustenta, ainda, ser o paciente primário e de bons antecedentes, requerendo, subsidiariamente, a imposição de medidas cautelares diversas da prisão.
+O pedido de liminar foi indeferido (fls. 140-141).
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 155-161).
+É o relatório. DECIDO.
+O presente writ foi impetrado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO em substituição a recurso próprio. Diante dessa situação, não deve ser conhecido, nos termos da jurisprudência do Superior Tribunal de Justiça:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. WRIT NÃO CONHECIDO. CONCESSÃO DA ORDEM DE OFÍCIO. POSSIBILIDADE. DELITOS DE ROUBO EM CONCURSO MATERIAL. CUMULAÇÃO DE CAUSAS DE AUMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO DESPROVIDO.
+1. Conforme consignado na decisão agravada, o presente habeas corpus não merece ser conhecido, pois foi impetrado em substituição a recurso próprio. Contudo, a existência de flagrante ilegalidade justifica a concessão da ordem de ofício.
+2.  ..
+3. Agravo regimental desprovido." (AgRg no HC n. 738.224/SP Quinta Turma, Min. Rel. Joel Ilan Paciornik, DJe de 12/12/2023.)
+"PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REDUTOR DO ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTIDADE E NATUREZA DAS DROGAS ISOLADAMENTE. ELEMENTOS INSUFICIENTES PARA DENOTAR A HABITUALIDADE DELITIVA DA AGENTE. INCIDÊNCIA NA FRAÇÃO MÁXIMA (2/3). REGIME ABERTO. ADEQUADO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. AGRAVO NÃO PROVIDO.
+1. Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+ ..
+6. Agravo regimental não provido." (AgRg no HC n. 857.913/SP, Quinta Turma, Min. Rel. Ribeiro Dantas, DJe de 1/12/2023.)
+Tendo em vista, contudo, o disposto no artigo 654, § 2º, do Código de Processo Penal, passo à análise de possível ilegalidade flagrante que autorize a concessão da ordem, de ofício.
+A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, conforme art. 312 do Código de Processo Penal.
+No caso em exame, os requisitos cautelares encontram-se plenamente demonstrados, de forma concreta e individualizada, tanto pela decisão que decretou a preventiva, quanto pelo acórdão que a manteve e pela sentença condenatória superveniente.
+Os fatos são categóricos: em 28/12/2025, policiais militares que possuíam informação sobre o roubo de veículo Hyundai/Creta, ocorrido em Guarulhos dias antes, avistaram na Marginal Tietê automóvel de características semelhantes, com emplacamento adulterado.
+Após sinal de parada, o veículo empreendeu fuga em alta velocidade - superior a 160 km/h -, realizando manobras perigosas em via de intenso fluxo, subindo calçadas e chegando a colidir com outros veículos, percorrendo cerca de 25 quilômetros de perseguição, até colidir com uma mureta.
+No interior do veículo, foram localizados cinco aparelhos celulares e diversos instrumentos frequentemente empregados na prática de crimes patrimoniais, tais como pé de cabra, luvas, balaclava e chaves de fenda industriais. Os ocupantes, entre eles o paciente, admitiram estar se dirigindo a residências do bairro do Morumbi para a prática de furtos, declarando-se "especialistas" na conduta.
+A gravidade concreta do conjunto fático é manifesta.
+A condução de veículo roubado com sinal identificador adulterado, associada ao transporte de instrumental delitivo específico e à confissão da finalidade criminosa da empreitada, demonstra organização voltada à reiteração de crimes patrimoniais.
+A fuga em alta velocidade pela Marginal Tietê, colocando em risco inúmeros cidadãos, acrescenta gravidade em concreto à situação, que vai muito além da simples subsunção abstrata ao tipo penal.
+Não há, portanto, o vício apontado pela defesa. A fundamentação das instâncias ordinárias assentou-se em elementos concretos extraídos dos próprios autos do flagrante, relativos às circunstâncias objetivas da prisão, ao modus operandi e às condições pessoais do paciente.
+O acórdão da Corte a quo identificou, especificamente em relação a José Fabio, sua reincidência pela prática de furto qualificado (processo n. 1514293-61.2021.8.26.0228, com trânsito em julgado em 19/7/2021) e três maus antecedentes pelo cometimento dos crimes de furto qualificado, roubo majorado, porte ilegal de arma de fogo e corrupção ativa. A sentença condenatória ulteriormente reconheceu ser o paciente multiplamente reincidente (processos ns. 7000151-58.2021.8.26.0405; 7005714-04.2015.8.26.0224; 7020811-18.2014.8.26.0050 e 7029610-84.2013.8.26.0050).
+A tese defensiva de que a decisão teria tratado os corréus de forma homogênea não encontra amparo na análise dos autos.
+A reincidência e a condição de procurado referentes aos demais coacusados foram apontadas como circunstâncias adicionais de cada um; a decisão do juízo plantonista identificou expressamente, no conjunto, a recalcitrância delitiva dos autuados, e o aresto do Tribunal estadual individualizou as condições do paciente, listando, com precisão, os processos que compõem sua extensa folha criminal.
+O fato de um dos corréus estar em saída temporária e outro ser foragido, em nada retira do paciente a sua condição de multirreincidente, circunstância que lhe é própria e que justifica, por si mesma, o periculum libertatis.
+Nessa linha, a jurisprudência desta Corte é firme no sentido de que deve ser mantida a prisão preventiva quando estiver demonstrada, por meio das provas reconhecidas, a presença dos requisitos autorizadores, quer para a garantia da ordem pública, quer pela gravidade concreta dos crimes e pelo risco de reiteração delitiva:
+"PROCESSO PENAL. HABEAS CORPUS. RECEPTAÇÃO. FURTOS. PRISÃO PREVENTIVA. ART. 312 DO CÓDIGO DE PROCESSO PENAL. GARANTIA DA ORDEM PÚBLICA. FUNDADO RISCO DE REITERAÇÃO DELITIVA. PRISÃO DOMICILIAR. FILHO MENOR DE 12 ANOS. PRINCÍPIO DA FRATERNIDADE. ORDEM CONCEDIDA.
+I. Caso em exame
+1. Habeas Corpus impetrado visando a revogação da prisão preventiva ou sua substituição por prisão domiciliar, com base no art. 318 do CPP, em favor de paciente mãe de criança menor de 12 anos. A paciente está presa preventivamente, sendo reincidente, e a prisão foi decretada para garantia da ordem pública.
+II. Questão em discussão
+2. A questão em discussão consiste na possibilidade de substituição da prisão preventiva por prisão domiciliar, considerando a condição da paciente como mãe de criança menor de 12 anos.
+III. Razões de decidir
+3. A prisão preventiva é justificada pela necessidade de garantir a ordem pública, dada a reincidência da paciente.
+4. A condição de mãe de criança menor de 12 anos, aliada à ausência de violência ou grave ameaça nos crimes imputados, permitem a substituição da prisão preventiva por domiciliar.
+IV. Dispositivo
+5. Ordem concedida." (HC n. 929.471/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 1/10/2024, DJe de 4/10/2024.)
+Ademais, a gravidade concreta da conduta, reveladora do elevado grau de periculosidade do paciente e consubstanciada na alta reprovabilidade do modus operandi empregado, é fundamento idôneo a lastrear a prisão preventiva com o intuito de preservar a ordem pública, notadamente diante do risco concreto e substancial de reiteração delitiva, evidenciado pelo histórico criminal do paciente.
+Também não merece acolhimento o pedido subsidiário de substituição por medidas cautelares diversas da prisão.
+Mostra-se inviável a aplicação de medidas cautelares diversas da prisão, quando a gravidade concreta da conduta delituosa e a periculosidade do agente indicam que a ordem pública não estaria acautelada com sua soltura. A presença de circunstâncias pessoais eventualmente favoráveis não tem o condão de, por si só, garantir a liberdade ao acusado, quando há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese.
+De mais a mais, o quadro fático - multirreincidência, modus operandi organizado, instrumental delitivo especializado, fuga em alta velocidade e confissão do propósito, por parte do paciente, quanto à prática iminente de crimes patrimoniais naquela ocasião - revela que medidas como monitoramento eletrônico ou proibição de frequentar determinados lugares, seriam manifestamente incapazes de obstar a reiteração delitiva, tornando absolutamente insuficiente qualquer medida alternativa à prisão.
+Acrescente-se que, com a superveniência de sentença condenatória à pena de 4 (quatro) anos e 8 (oito) meses de reclusão, em regime inicial fechado, ficou ainda mais reforçada a necessidade de manutenção da custódia, nos termos do art. 313, I, do Código de Processo Penal.
+Ante todo o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
