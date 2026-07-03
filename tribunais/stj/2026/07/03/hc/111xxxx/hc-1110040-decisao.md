@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de DANILO DOS SANTOS ALBINO, contra ato coator do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo Interno Criminal nº 2084113-42.2026.8.26.0000/50000).
+Neste writ, a defesa sustenta que o paciente atingiu o requisito objetivo (lapso temporal) para a progressão ao regime semiaberto.
+Informa que, conforme atestado comprobatório, o paciente possui bom comportamento carcerário.
+Aduz a ocorrência de nulidade absoluta por cerceamento de defesa habilitada e violação ao contraditório técnico.
+Alega violação às regras obrigatórias do exame criminológico.
+Defende que "A exigência de exame criminológico obrigatório é inaplicável, pois o crime é anterior à vigência da nova lei (11/04/2024), tratando-se de novatio legis in pejus" (fl. 10).
+Requer, inclusive liminarmente, a concessão da medida para determinar que o paciente aguarde em regime semiaberto o julgamento do mérito do presente writ. E no mérito, requer a concessão definitiva da ordem para "a) Declarar a NULIDADE ABSOLUTA do laudo pericial  .. ; b) Cassar o v. acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, bem como a decisão do juízo da execução, reconhecendo o preenchimento integral dos requisitos e determinando a imediata progressão do Paciente ao Regime Prisional Semiaberto" (fl. 12).
+É o relatório. DECIDO.
+A controvérsia consiste na declaração de nulidade de laudo de exame criminológico por suposto cerceamento de defesa na busca pela progressão ao regime semiaberto.
+A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância ao § 2º do artigo 654 do Código de Processo Penal.
+Aqui, a moldura fática do acórdão impugnado (fl. 130):
+DIREITO PROCESSUAL PENAL. AGRAVO INTERNO EM HABEAS CORPUS. INADEQUAÇÃO DA VIA ELEITA. LITISPENDÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. PRINCÍPIO DA DIALETICIDADE RECURSAL. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+Agravo interno interposto contra decisão monocrática que não conheceu de habeas corpus por inadequação da via eleita e litispendência, em razão da existência de agravo em execução com o mesmo objeto.
+II. QUESTÃO EM DISCUSSÃO Há 2 questões em discussão: (i) definir se o agravante impugnou especificamente os fundamentos da decisão agravada; e (ii) estabelecer se subsistem as causas de não conhecimento do habeas corpus.
+III. RAZÕES DE DECIDIR O agravante apenas reproduz os argumentos da impetração originária, sem enfrentar os fundamentos da decisão recorrida. A ausência de impugnação específica aos fundamentos relativos à inadequação da via e à litispendência viola o princípio da dialeticidade recursal. A existência de recurso próprio com idêntico objeto justifica a manutenção da decisão monocrática.
+IV. DISPOSITIVO E TESE Recurso desprovido. Tese de julgamento: O agravo interno deve impugnar especificamente os fundamentos da decisão agravada. A mera reiteração das teses da impetração não afasta os fundamentos do decisum recorrido. A existência de recurso próprio com o mesmo objeto impede o conhecimento de habeas corpus paralelo. (grifei)
+Como se observa, a origem, aplicando o princípio da unirrecorribilidade, assentou que a existência de recurso apropriado em trâmite prejudicaria a análise da impetração, até mesmo pelas restrições da via eleita.
+Ainda, da leitura dos autos, verifica-se que o Tribunal de Justiça não analisou o mérito da controvérsia no acórdão.
+Assim, ausente manifestação do Tribunal sobre a questão de fundo também ora vindicada, incabível a análise do presente habeas corpus, porquanto está configurada a absoluta supressão de instância quanto ao ponto debatido, ficando impedida esta Corte de proceder à sua análise.
+O Superior Tribunal de Justiça entende que: "como é de conhecimento, matéria não apreciada pelo Tribunal de origem inviabiliza a análise por esta Corte Superior, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal, mesmo em caso de suposta nulidade absoluta." (AgRg no HC n. 813.772/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023).
+Ainda nesse sentido: AgRg no HC n. 804.815/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023; AgRg no HC n. 813.293/PB, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/4/2023, DJe de 28/4/2023; e AgRg nos EDcl na PET no REsp n. 1.908.093/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/4/2023, DJe de 18/4/2023.
+Vale ressaltar, ademais, que esta Corte Superior de Justiça pacificou o entendimento de que: "o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte" (AgRg nos EDcl no REsp n. 1.955.005/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/4/2023, DJe de 24/4/2023).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
