@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto diretamente neste Superior Tribunal de Justiça, por WEMERSON RIBEIRO RAMOS, contra acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais no HC 1.0000.26.213237-6/000.
+Colhe-se dos autos que o recorrente foi denunciado pela suposta prática dos crimes previstos no artigo 121, § 2º, inciso IV, combinado com o artigo 14, inciso II, e do artigo 163, parágrafo único, inciso I, todos do Código Penal, na forma do artigo 69 do mesmo diploma legal (e-STJ, fl. 28).
+A defesa impetrou prévio writ perante o Tribunal de origem, que denegou a ordem, nos termos da seguinte ementa:
+"HABEAS CORPUS - ROUBO MAJORADO E LESÃO CORPORAL - REVOGAÇÃO DA PRISÃO PREVENTIVA - IMPOSSIBILIDADE - PRESENÇA DOS REQUISITOS DOS ARTIGOS 312 E 313 DO CPP - DECISÃO DEVIDAMENTE FUNDAMENTADA - GARANTIA DA ORDEM PÚBLICA - CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO - ORDEM DENEGADA. - Cabível a manutenção da prisão preventiva quando o decreto constritivo estiver devidamente fundamentado na presença dos requisitos dos artigos 312 e 313 do Código de Processo Penal e na inadequação e insuficiência de medidas cautelares mais brandas - À reincidência específica em crime de roubo majorado e o cometimento do delito durante o cumprimento de pena em regime aberto evidenciam o fundado receio de reiteração delitiva e justificam a segregação cautelar." (e-STJ, fl. 400).
+Nesta Corte, a defesa sustenta, em síntese, que o acórdão afirmou reincidência específica e prática dos fatos durante cumprimento de pena em regime aberto, porém a Execução Penal nº 0030856-53.2015.8.13.0528 demonstra trânsito em julgado em 18/07/2016 e extinção da punibilidade em 25/08/2023, inexistindo cumprimento de pena em 28/03/2026.
+Defende a ausência de reincidência, à luz do art. 64, inciso I, do Código Penal.
+Afirma também a ausência de periculum libertatis e adequação de cautelares diversas, ressaltando as condições pessoais do recorrente, como residência fixa e trabalho lícito.
+Requer, assim, a revogação da prisão preventiva, com ou sem a aplicação das medidas alternativas previstas no art. 319 do CPP.
+É o relatório.
+Decido.
+Inicialmente, verifica-se que a defesa interpôs este recurso ordinário em habeas corpus diretamente nesta Corte, conforme a certidão de fl. 612 (e-STJ).
+Cumpre salientar que a interposição de recurso ordinário deve ocorrer perante o Tribunal de origem, tendo em vista que a competência do Superior Tribunal de Justiça para julgamento do recurso ordinário, conforme previsão do art. 105, II, "a", da Constituição Federal, exige a forma de procedimento estabelecida na lei, que determina a interposição perante o próprio Tribunal no qual a ordem de habeas corpus fora denegada.
+Ocorre que, ainda que o presente recurso ordinário tenha sido manejado sem a observância das regras processuais de regência, as razões recursais alegam constrangimento ilegal, situação que autorizaria a apreciação de possível constrangimento ilegal.
+Ocorre que, da análise dos autos, note-se que o presente feito , distribuído em 25/06/2026, constitui mera reiteração do pedido formulado no HC 1105953/MG, de minha relatoria, distribuído em 15/06/2026, cujo processamento se encontra em curso, com decisão monocrática não conhecendo da impetração prolatada em 25/06/2026. Dessa forma, havendo identidade de partes e da causa de pedir, além de impugnarem os dois feitos o mesmo acórdão (HC 1.0000.26.213237-6/000), constitui-se óbice ao conhecimento do recurso.
+Nesse sentido:
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. REITERAÇÃO DO PLEITO FORMULADO NO HC N. 750.512/SP. LITISPENDÊNCIA. PETIÇÃO RECURSAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. No HC n. 750.512/SP, foi formulada idêntica pretensão em favor do ora Recorrente. O recurso ordinário, portanto, é mera reiteração de pedido anterior, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem ambos o mesmo acórdão e a mesma matéria. Assim, é incognoscível a insurgência defensiva.
+2. Não é possível a concessão da ordem de habeas corpus de ofício na hipótese de reiteração de pedido, porquanto a viabilidade de se proceder de tal maneira deve ser verificada quando do julgamento do writ conexo.
+3. Agravo regimental desprovido."
+(AgRg nos EDcl no RHC n. 172.358/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, DJe de 19/12/2022.)
+"PROCESSO PENAL. AGRAVO REGIMENTAL DA DECISÃO QUE INDEFERIU LIMINARMENTE O HABEAS CORPUS. REITERAÇÃO DE PARTES, CAUSA DE PEDIR E PEDIDOS DO HC 674.420/PR. LITISPENDÊCIA. TRÍPLICE IDENTIDADE. NÃO CONHECIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+II - O presente habeas corpus guarda identidade de partes, causa de pedir e pedidos com o HC 674.420/PR, impetrado em momento anterior.
+III - Em ambas as impetrações, tem-se o mesmo paciente e o mesmo cenário fático-processual. Levantam-se idênticas teses de violação aos princípios da ampla defesa, do contraditório e do devido processo legal em virtude do indeferimento do pedido de produção probatória e de deficiência da assistência jurídica prestada pela Defensoria Pública da União até o momento em que o agravante constituiu advogado particular nos autos. E, finalmente, requer-se a mesma providência: o deferimento do pedido de produção probatória ou a declaração de nulidade da Ação Penal n. 5012581-37.2015.4.04.7000.
+IV - O habeas corpus é espécie de ação e, nessa medida, deve observar os pressupostos processuais e as suas condições. Entre os pressupostos processuais, destaca-se, no caso, a litispendência, doutrinariamente classificada como pressuposto processual objetivo extrínseco negativo, a qual, de acordo com a teoria da tríplice identidade, obsta o ajuizamento de nova ação que guarde identidade de partes, causa de pedir e pedido com outra ação anterior que esteja em curso.
+V - Por esse motivo, esta Corte Superior tem jurisprudência firme para não conhecer de habeas corpus com reiteração de pedidos.
+Agravo regimental desprovido."
+(AgRg no HC n. 691.648/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 19/10/2021, DJe de 4/11/2021.)
+Ante o exposto, não conheço o rec urso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
