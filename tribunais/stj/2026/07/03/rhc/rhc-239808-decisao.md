@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por ELLYSSON ANDRE DA SILVA COSTA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ que concedeu parcialmente a ordem para declarar a nulidade da sessão plenária do Tribunal do Júri realizada em 10/7/2025 e dos atos subsequentes, mantendo, contudo, a custódia cautelar do recorrente, sob o fundamento de que se encontrava evadido do distrito da culpa (fls. 131-152).
+No recurso, a defesa sustenta que a prisão preventiva não subsiste após a anulação do julgamento plenário, uma vez que a custódia teria sido decretada em decorrência da condenação posteriormente anulada. Afirma que inexistem fundamentos concretos para a segregação cautelar, bem como ausência de contemporaneidade da medida. Requer a concessão da liberdade, com ou sem a aplicação de medidas cautelares diversas da prisão (fls. 160-175).
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (fls. 193-196).
+É o relatório. DECIDO
+O recurso não comporta provimento.
+Conforme consignado pelo Tribunal de origem, a sessão plenária do Tribunal do Júri foi anulada em razão da ausência de intimação válida do acusado para o julgamento, com a consequente invalidação dos atos subsequentes, inclusive da sentença condenatória (fls. 135-145).
+Todavia, o acórdão recorrido consignou expressamente que a manutenção da custódia cautelar não decorreu da condenação posteriormente anulada, mas da existência de fundamento autônomo apto a justificar a prisão preventiva.
+Segundo registrado pela Corte estadual, o recorrente não foi localizado em seu endereço residencial, tendo sido certificado que sua genitora informou haver ele se mudado para a cidade de Caruaru/PE sem deixar endereço ou meios de contato, circunstância extraída da certidão constante às fls. 75 e seguintes dos autos de origem e reproduzida no voto condutor (fls. 138-144).
+O acórdão registrou, ainda, que o Ministério Público requereu formalmente a decretação da prisão preventiva e que a defesa, embora tenha assumido o compromisso de atualizar o paradeiro do acusado, permaneceu inerte, concluindo que a situação evidenciava risco concreto à aplicação da lei penal (fls. 138-144).
+Tal compreensão encontra-se em consonância com a jurisprudência desta Corte Superior, segundo a qual a fuga do distrito da culpa constitui fundamento idôneo para a decretação e manutenção da prisão preventiva destinada a assegurar a aplicação da lei penal.
+Nesse sentido:
+"3. A prisão preventiva está devidamente fundamentada na necessidade de assegurar a aplicação da lei penal, uma vez que o agravante, após o cometimento do delito, evadiu-se do distrito da culpa, permanecendo em local incerto e não sabido, o que inviabiliza o regular trâmite da ação penal.
+4. A condição de foragido do agravante foi corroborada pela certidão do Oficial de Justiça, que registrou a informação da genitora do acusado sobre sua saída da cidade sem deixar contato ou endereço.
+5. A jurisprudência consolidada desta Corte Superior de Justiça reconhece que a fuga do distrito da culpa constitui fundamento válido para a decretação da segregação cautelar, a fim de garantir a futura aplicação da lei penal." (AgRg no RHC n. 221.842/PE, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 25/3/2026, DJEN de 30/3/2026 )
+" ..  3. A alegação de inexistência de fuga do distrito da culpa e demais circunstâncias fáticas controvertidas demandam dilação probatória, incompatível com a via estreita do habeas corpus e de seu sucedâneo recursal.
+4. Havendo motivação idônea para a custódia cautelar, com base no art. 312 do CPP, mostra-se insuficiente a aplicação de medidas cautelares diversas da prisão.
+5. A análise de versões divergentes sobre a dinâmica dos fatos, incluindo motivação do crime, circunstâncias do encontro entre agente e vítima e extensão do resultado lesivo, demanda instrução probatória incompatível com a via eleita.  .. " (AgRg no RHC n. 232.997/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 17/6/2026, DJEN de 23/6/2026)
+No caso concreto, a Corte de origem assentou que a custódia permanece necessária porque o recorrente se evadiu do distrito da culpa, circunstância que demonstra risco concreto de frustração da aplicação da lei penal (fls. 138-145).
+A pretensão defensiva de afastar tal conclusão demandaria o reexame do quadro fático-probatório delineado nas instâncias ordinárias, providência incompatível com os estreitos limites cognitivos do recurso ordinário em habeas corpus.
+Também não se verifica constrangimento ilegal quanto ao afastamento das medidas cautelares diversas da prisão, pois o acórdão recorrido consignou, de forma fundamentada, que a incerteza acerca do paradeiro do acusado inviabiliza a substituição da custódia por medidas previstas no art. 319 do Código de Processo Penal.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
