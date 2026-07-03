@@ -1,0 +1,11 @@
+DECISÃO
+JOAO PAULO OLIVEIRA DA SILVA, condenado a 13 anos, 2 meses e 20 dias de reclusão, em regime fechado, e 25 dias-multa, como incurso no art. 288, parágrafo único, c/c o art. 157, § 2º, I, II e V (por duas vezes), ambos do Código Penal, alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação n. 0000880-30.2016.8.26.0390).
+Neste writ, a defesa pleiteia a revisão da terceira fase da dosime tria ante a ausência de fundamentação idônea para o aumento da reprimenda.
+O caso comporta o julgamento antecipado, porquanto se adequa a recente orientação desta Corte acerca do não cabimento do habeas corpus substitutivo de recurso próprio.
+Com efeito, compulsando os autos, observa-se que a defesa se insurge contra acórdão de apelação, cuja condenação transitou em julgado no dia 27/11/2019 (conforme informação obtida no site do Tribunal de origem), o qual não foi objeto de recurso próprio, isto é, não foi ajuizada a revisão criminal.
+Esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024).
+Apesar da ampliação do uso do remédio heroico, e sem esquecer a sua importância na defesa da liberdade de locomoção, a crescente quantidade de impetrações que, antes, deveriam ser examinadas em instâncias diversas, está prejudicando as funções constitucionais desta Corte. É notável o excessivo volume de habeas corpus, que ultrapassaram 905 mil, em detrimento da eficácia do recurso especial ou da revisão criminal, o que prejudica a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico.
+Assim, o impetrante deve apresentar o pedido cabível, direcionando-o à autoridade que tem atribuição para decidir sobre a questão, em primeiro lugar, notadamente porque a defesa deixou de solicitar ao Tribunal de Justiça a revisão da condenação.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, não conheço in limine do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
