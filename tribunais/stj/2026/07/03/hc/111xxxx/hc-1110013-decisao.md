@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de LUIZ EDUARDO DE FIGUEIREDO ROCHA E SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO.
+Consta dos autos que o paciente se encontra preso preventivamente, tendo sido pronunciado como incurso nas sanções do art. 121, § 2º, I e IV, do Código Penal.
+O impetrante sustenta que houve perda de chance probatória: requisição tardia de imagens da Base Comunitária da PM do Boa Esperança, que se perderam por política de armazenamento, com prejuízo à reconstrução da dinâmica dos fatos.
+Assevera que foi indeferida, sem motivação idônea, a reprodução simulada dos fatos, embora reconhecido o contraste de versões, o que imporia a impronúncia nos termos do procedimento do júri.
+Afirma que houve acesso extemporâneo a vídeo relevante (id. 322709706), somente após o encerramento da instrução, comprometendo o contraditório e a plenitude de defesa.
+Defende que a investigação registrou entrevistas de populares sem qualificá-los ou arrolá-los, em afronta ao dever legal de coleta imediata de provas, ocasionando perda de testemunhas oculares potenciais.
+Entende que não foi realizado exame de balística no projétil extraído do cadáver, inviabilizando prova essencial e hoje irreproduzível, em violação do regime dos vestígios.
+Pondera que a prova oral é exclusivamente por ouvir dizer, sem testemunha ocular em juízo, insuficiente para o standard mínimo do art. 413 do CPP e incompatível com a presunção de inocência firmada pelo STF.
+Informa que houve deficiência de defesa técnica: ausência de oitiva do perito do laudo necroscópico para aclarar contradições, e omissões na impugnação de nulidades relevantes.
+Relata que há contradição não enfrentada entre a narrativa acusatória (tiro em região frontal) e o laudo necroscópico (região parietal), sem a devida abordagem técnico-pericial.
+Alega que o exame toxicológico juntado se refere a pessoa diversa da vítima e com data pretérita ao fato, e, ainda assim, foi mencionado na pronúncia como elemento de materialidade.
+Aduz a quebra da cadeia de custódia da prova audiovisual: ausência da íntegra da filmagem, impossibilidade de auditoria e juntada de arquivo oriundo de aplicativo de mensagens, tornando a prova digital imprestável.
+Assevera reformatio in pejus e excesso de linguagem no acórdão que confirmou a pronúncia, com agregação de fatos não constantes da decisão de primeiro grau e valoração indevida de denúncia anônima.
+Afirma que a denúncia anônima é imprestável sem confirmação por diligências preliminares, em violação do entendimento consolidado do STF e do regime processual aplicável.
+Defende que o estudo técnico de geolocalização juntado pela defesa confirma deslocamentos para bases policiais no período, infirmando a tese de perseguição à vítima, sem enfrentamento pelo acórdão.
+Entende que o perfil da vítima indica histórico de agressividade e uso de substâncias, com vídeos que evidenciam conduta violenta, reforçando a tese de legítima defesa.
+Pondera que a prisão em flagrante é ilegal por apresentação espontânea do paciente, com cronologia documental que afasta as hipóteses do art. 302 do CPP e revela inconsistências horárias.
+Informa que a preventiva se funda em gravidade abstrata e clamor social, sem concretude contemporânea, além de partir de premissa fática contrariada pelo laudo necroscópico.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, com substituição por medidas cautelares diversas, e, quanto ao processo, a anulação da pronúncia e o desentranhamento das provas digitais e da denúncia anônima, bem como o reconhecimento das nulidades indicadas.
+É o relatório.
+Em uma análise inicial, não se verifica a ocorrência de hipótese que autorize o deferimento do pleito liminar.
+No procedimento do habeas corpus, não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a materialidade e a autoria delitiva.
+Verifica-se que os fundamentos do decreto prisional foram anteriormente apreciados por esta Corte Superior nos autos do RHC n. 216.721/MT, tendo sido o recurso improvido.
+Acerca da manutenção da prisão preventiva na decisão de pronúncia, o Superior Tribunal de Justiça fixou o entendimento de que:
+A manutenção da custódia cautelar no momento da sentença de pronúncia, nos casos em que o Acusado permaneceu preso durante toda a instrução criminal, não requer fundamentação exaustiva, sendo suficiente o entendimento de que permanecem inalterados os motivos que levaram à decretação da medida extrema em um primeiro momento, desde que estejam, de fato, preenchidos os requisitos legais do art. 312 do Código de Processo Penal" (AgRg no HC n. 775.947/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 6/12/2022, DJe de 15/12/2022).
+Assim constou da sentença de pronúncia (fls. 83-86, grifei):
+Em observância ao disposto no art. 413, § 3º, do Código de Processo Penal, ao ensejo a reavaliar a necessidade da manutenção da prisão do pronunciado e, nos termos do parágrafo único do Art. 316, do CPP, com redação dada pela Lei nº 13.964/19, verifica-se a imperiosa necessidade e contemporaneidade dos requisitos autorizadores da prisão preventiva.
+Finda a primeira fase processual do rito dos crimes dolosos contra a vida, restou comprovada a prova da materialidade e os indícios suficientes de autoria delitiva com a submissão do pronunciado a julgamento pelo Conselho de Sentença.
+A gravidade concreta do crime é inconteste e revela a necessidade e contemporaneidade ainda premente da manutenção da medida cautelar extrema, sobretudo pelo modus operandi empregado na execução do delito.
+Mas, para além da gravidade concreta da conduta de ceifar a vida daquele em situação de extrema vulnerabilidade, o modus operandi indica possível premeditação, frieza no fato do agente, ao verificar que seu veículo foi danificado por uma pessoa em situação de rua, com doença mental, termina tranquilamente sua refeição familiar, leva os seus em segurança à sua residência e, em tese, retorna as ruas da cidade em busca do causador do prejuízo econômico ocasionado, o localiza, identifica-o, para o veículo e efetua um disparo de arma de fogo atingindo a cabeça, em plena via pública, evadindo-se do local, deixando-a morrer na calçada 3 .
+Nesse contexto, a prisão preventiva está justificada na garantia de ordem pública, motivada na gravidade concreta do crime (premeditação, disparo de arma de fogo, em plena via pública movimentada, vítima sendo pessoa de extrema vulnerabilidade humana e social) e total ausência de proporcionalidade ou razoabilidade entre a conduta empregada pelo agente e a motivação do crime (dano em seu carro) apontada pelo Parquet.
+Acerca da justificação da prisão preventiva fundada na gravidade concreta do crime evidenciada pelo modus operandi, trago à baila processual decisão proferida pelo Supremo Tribunal Federal em crimes da mesma jaez:
+ ..
+Ainda, no caso versando, as medidas alternativas à prisão não preenchem os requisitos exigidos para o cabimento da medida. Nenhuma das cautelares mostra-se adequada à gravidade concreta do crime e, as circunstâncias do crime são desfavoráveis, em especial diante da aparente certeza da impunidade, cujo ímpeto lesivo fatal à vida humana demonstra periculosidade social, que não será contida com medidas cautelares diversas da prisão, porquanto as circunstâncias apontam para o risco de reiteração delitiva.
+Logo, constatado que o Magistrado singular, na pronúncia, mencionou que subsistiam os motivos autorizadores da prisão preventiva, não há que em ilegalidade a ser sanada.
+Por outro lado, quanto à alegação de ausência de contemporaneidade, destaca-se que o Tribunal de origem não a examinou, circunstância que inviabiliza o exame da questão pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC n. 126.604/MT, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/12/2020, DJe de 16/12/2020).
+Por fim, a análise dos demais pedidos demanda exame circunstancial dos autos, o que será realizado após a manifestação do Ministério Público Federal, no julgamento de mérito.
+Ante o exposto, indefiro o pedido liminar.
+Dê-se vista dos autos ao Ministério Público Federal para parecer.
+Publique-se. Intimem-se.
+ EMENTA
