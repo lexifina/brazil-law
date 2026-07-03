@@ -1,0 +1,37 @@
+DECISÃO
+DANILO ALVES TEIXEIRA alega sofrer coação ilegal em virtude de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO na Apelação n. 0000489-82.2018.8.26.0559.
+Nas razões da impetração, a defesa sustenta não haver provas concretas da finalidade mercantil do entorpecente apreendido. Afirma que a quantidade de 13,8 g de maconha, dividida em 20 cigarros, é compatível com consumo pessoal e que inexistem elementos típicos de tráfico. Aduz, ainda, que houve indevida inversão do ônus da prova e violação aos princípios da presunção de inocência e do in dubio pro reo.
+O Ministério Público Federal opinou pelo não conhecimento do writ (fls. 68-71).
+Decido.
+I. Habeas corpus substituto de revisão criminal
+Segundo os autos, o paciente foi condenado a 9 anos e 26 dias de reclusão, em regime fechado, mais multa, por infração do art. 33, caput, da Lei n. 11.343/2006.
+Conforme informou o Ministério Público Federal em seu parecer às fls. 69, verifica-se que a condenação transitou em julgado em 7/12/2022. Este writ é, portanto, substitutivo de revisão criminal perante o Tribunal a quo.
+Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo acusado, é forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+Além disso, para desconstituir a conclusão alcançada pelo Tribunal a quo - como pretende a defesa -, seria necessário, nesta oportunidade, realizar revolvimento de todo o conjunto fático-probatório, providência incabível na via estreita do habeas corpus.
+As duas turmas que compõem a Terceira Seção do Superior Tribunal de Justiça entendem não ser cabível, em habeas corpus, o reexame aprofundado de fatos e provas. Nesse sentido, cito o seguinte julgado:
+ ..
+2. A via estreita do habeas corpus não se presta ao revolvimento da matéria fática, como ocorre quando a decisão é atacada sob alegações de má apreciação das provas e de desclassificação da conduta, devendo a coação ser manifestamente ilegal.
+3. Estabelecida a pena definitiva em 5 anos e 10 meses de reclusão, sendo primário o agente e favoráveis as circunstâncias judiciais, o regime semiaberto é o adequado à prevenção e à reparação do delito, nos termos do art. 33 do Código Penal.
+4. Habeas corpus não conhecido, mas ordem concedida de ofício para fixar o regime inicialmente semiaberto para o cumprimento da pena reclusiva.
+(HC n. 270.011/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 22/4/2016)
+Nestes termos, o habeas corpus não comporta conhecimento.
+II. Flagrante ilegalidade
+Entretanto, identifico flagrante ilegalidade quanto à dosimetria da pena, que justifica a concessão da ordem de ofício por este Tribunal Superior.
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de sanção a ser aplicada ao condenado criminalmente, com vistas à prevenção e à reprovação do delito perpetrado.
+Assim, para obter-se uma aplicação justa da lei penal, o julgador, dentro dessa discricionariedade juridicamente vinculada, há de atentar para as singularidades do caso concreto.
+No caso em análise, a Corte estadual reformou a sentença e reduziu a fração relativa à causa de aumento do art. 40, III, da Lei n. 11.343/2006, para 1/3, sob os seguintes fundamentos (fls. 53-55, grifei):
+Na terceira fase, observou o MM. Juízo a quo inviabilizada a aplicação da causa de diminuição prevista no parágrafo 4º do artigo 33 da lei 11.343/06, em razão da reincidência. Considerando a presença de causa de aumento de pena, o D. Juiz sentenciante aumentou a reprimenda em dois terços (2/3), nos termos do artigo 40, inciso III, da Lei 11.343/06, totalizando, em definitivo, 11 (onze) anos, 04 (quatro) meses e 03 (três) dias de reclusão e pagamento de 1.133 (um mil, cento e trinta e três) dias-multa, no mínimo legal. Dispõe o art. 40 da Lei nº 11.343/2006: "(..) As penas previstas nos arts. 33 a 37 desta Lei são aumentadas de um sexto a dois terços, se (..) III - a infração tiver sido cometida nas dependências ou imediações de estabelecimentos prisionais, de ensino ou hospitalares, de sedes de entidades estudantis, sociais, culturais, recreativas, esportivas, ou beneficentes, de locais de trabalho coletivo, de recintos onde se realizem espetáculos ou diversões de qualquer natureza, de serviços de tratamento de dependentes de drogas ou de reinserção social, de unidades militares ou policiais ou em transportes públicos (..)". Essa a circunstância do caso de que se trata, bem observado pela MMª Juíza sentenciante. Destaca-se que a presença da causa de aumento prevista no artigo 40, inciso III, da Lei 11.343/06, como anotado na r. sentença, justifica a exasperação das penas, contudo, conquanto o legislador ordinário não tenha estabelecido percentuais fixos para nortear o cálculo da reprimenda, deixando a critério do julgador encontrar parâmetros suficientes, o salto quantitativo, no caso concreto, mostra-se exagerado, sendo proporcional o acréscimo de um terço (1/3), obtendo-se, então, uma pena privativa de liberdade de 09 (nove) anos e 26 (vinte e seis) dias de reclusão e pagamento de 906 (novecentos e seis) dias-multa, no valor unitário mínimo legal, com fulcro art. 155, § 4º, inciso I, c. c. arts. 60, "caput", e 49, §§ 1º e 2º, todos do Código Penal.
+Pelos trechos colacionados, constato que a instância originária considerou não haver justificativa idônea por parte do sentenciante para fixar a fração de aumento em 2/3 e, por isso, reduziu a reprimenda. Entretanto, verifico o mesmo vício de fundamentação no acórdão, já que este também não justificou quais circunstâncias do caso concreto implicavam a necessidade de aplicar fração diversa da mínima legalmente prevista (1/6).
+Assim, porque não foi adequadamente fundamentada, reduzo a fração relativa à causa de aumento do art. 40, III, da Lei n. 11.343/2006, para o patamar de 1/6.
+III. Nova dosimetria
+Em face das alterações promovidas, realizo nova dosimetria.
+Na primeira fase, a pena-base foi fixada em 5 anos e 10 meses de reclusão mais, 583 dias-multa, pela valoração negativa dos antecedentes do paciente, o que não comporta reparos.
+Na segunda fase, rememoro a agravante da reincidência, reconhecida pelas instâncias originárias, razão pela qual a sanção intermediária foi de 6 anos, 9 meses e 20 dias de reclusão, mais 680 dias-multa.
+Na terceira fase, aplico a causa de aumento de pena por delito praticado nas imediações de estabelecimento prisional, em 1/6 e, reduzo a sanção definitiva para 7 anos, 10 meses e 15 dias de reclusão, mais 790 dias-multa.
+Mantenho o regime inicial fechado, nos termos do art. 33, § 2º, "a", do Código Penal, porque o réu foi condenado a reprimenda superior a 4 anos de reclusão e é reincidente.
+IV. Dispositivo
+À vista do exposto, não conheço do habeas corpus, entretanto, concedo de ofício a ordem, para reduzir a reprimenda para 7 anos, 10 meses e 15 dias de reclusão, mais 790 dias-multa, em regime fechado .
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
