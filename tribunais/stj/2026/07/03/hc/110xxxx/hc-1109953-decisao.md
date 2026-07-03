@@ -1,0 +1,40 @@
+DECISÃO
+ALEXANDRE DA SILVA ROKEMBACKE alega sofrer constrangimento ilegal no seu direito de locomoção em decorrência de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, que negou provimento à Apelação Criminal n. 5004131-27.2024.8.21.0067/RS.
+O paciente foi condenado, pela prática do crime tipificado no art. 12 da Lei n. 10.826/2003, a 1 ano e 4 meses de reclusão, em regime aberto, mais 14 dias-multa.
+A defesa pede a aplicação do princípio da insignificância em relação ao delito objeto da condenação.
+Decido.
+O habeas corpus comporta apreciação imediata, uma vez que a questão deduzida nesta impetração encontra solução no entendimento dominante do Superior Tribunal de Justiça.
+Para que o fato seja considerado criminalmente relevante, não basta a mera subsunção formal a um tipo penal. Deve ser avaliado o desvalor representado pela conduta humana, bem como a extensão da lesão causada ao bem jurídico tutelado, com o intuito de aferir se há necessidade e merecimento da sanção, à luz dos princípios da fragmentariedade e da subsidiariedade.
+As hipóteses de aplicação do princípio da insignificância se revelam com mais clareza no exame da punibilidade concreta - possibilidade jurídica de incidência da pena -, que atribui conteúdo material e sentido social a um conceito integral de delito como fato típico, ilícito, culpável e punível, em contraste com a estrutura tripartite (formal) tradicionalmente adotada, conforme expus de maneira mais aprofundada no julgamento do REsp n. 1.864.600/MG, ocorrido em 15/9/2020.
+Por oportuno, ressalto que, por se tratar de categorias de conteúdo absoluto, a tipicidade e a ilicitude não comportam dimensionamento do grau de ofensa ao bem jurídico tutelado, compreendido a partir da apreciação dos contornos fáticos da conduta delitiva e dos condicionamentos sociais em que se inserem o agente e a vítima.
+Nesse contexto, o diálogo entre a política criminal e a dogmática na jurisprudência sobre a bagatela deve também ser informado pelos elementos subjacentes ao crime, que se compõem do valor dos bens subtraídos e do comportamento social do acusado nos últimos anos.
+Assim, os registros de vida pregressa devem ser entendidos como elementos objetivos, e não subjetivos. Isso porque não se avalia a pessoa do agente, mas, sim, o seu histórico penal - que pode ser incompatível com a exclusão da punibilidade - e a perspectiva de recidiva do comportamento avesso ao direito.
+O exame desses dados alinha-se com o princípio da isonomia, pois o indivíduo que comete crime uma vez não pode ser igualado ao que o faz habitualmente, escorando-se este, conscientemente, na impunidade.
+Na espécie, verifico que os maus antecedentes foram reconhecidos pelas instâncias antecedentes, uma vez que o paciente ostenta "condenação definitiva por crime da mesma natureza (art. 14 da Lei nº 10.826/03)" (fl. 12).
+Portanto, entendo não ser viável a incidência do princípio da insignificância, diante da recidiva criminal, o que está em consonância com a jurisprudência desta Corte Superior
+Ilustrativamente:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. POSSE DE MUNIÇÃO DE USO PERMITIDO. PRINCÍPIO DA INSIGNIFICÂNCIA. HABITUALIDADE DELITIVA. AUSÊNCIA DE ILEGALIDADE MANIFESTA. AGRAVO IMPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão da Presidência que indeferiu liminarmente habeas corpus impetrado em favor de acusado condenado pela posse de 4 (quatro) munições de uso permitido, apreendidas no interior de sua residência, desacompanhadas de arma de fogo, em que se pleiteia a absolvição com fundamento na incidência do princípio da insignificância.
+2. A defesa alega constrangimento ilegal ao argumento de que a quantidade de munições é ínfima, não houve risco concreto à incolumidade pública e os fundamentos utilizados pelas instâncias ordinárias para afastar a insignificância - existência de condenação anterior sem trânsito em julgado, acordo de não persecução penal em outro feito e menção a possível auxílio a investigado - seriam inadequados e destituídos de relação com o delito de posse de munição.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se é possível aplicar o princípio da insignificância à conduta de posse de 4 (quatro) munições de uso permitido, desacompanhadas de arma de fogo e apreendidas no interior de residência, diante das circunstâncias fáticas reconhecidas pelas instâncias ordinárias, inclusive a existência de maus antecedentes e de outros registros criminais.
+4. Também se discute se há ilegalidade manifesta ou teratologia na decisão que afastou a aplicação do princípio da insignificância, apta a justificar a superação do entendimento consolidado no sentido do não cabimento de habeas corpus substitutivo de recurso próprio, com concessão da ordem de ofício.
+III. RAZÕES DE DECIDIR
+5. A Terceira Seção do STJ firmou orientação no sentido de que o habeas corpus não se presta como substitutivo de recurso próprio, impondo-se, em regra, o não conhecimento da impetração, admitindo-se a concessão da ordem apenas quando configurada teratologia ou ilegalidade manifesta no ato judicial impugnado.
+6. A jurisprudência do STJ admite, em hipóteses excepcionais, a incidência do princípio da insignificância na posse ou no porte de pequena quantidade de munição desacompanhada de arma de fogo, desde que não haja perigo concreto à incolumidade pública e inexistam elementos de reiteração delitiva ou circunstâncias concretas que revelem maior reprovabilidade da conduta.
+7. Afasta-se a incidência do princípio da insignificância quando presentes, dentre outros fatores, habitualidade delitiva evidenciada por maus antecedentes, condenações ou ações penais em curso, ou quando as circunstâncias do caso concreto - inclusive a quantidade e a eficiência das munições apreendidas - demonstram periculosidade social da conduta.
+8. No caso concreto, as instâncias ordinárias registraram a existência de condenação anterior pendente de trânsito em julgado, acordo de não persecução penal em outro feito e notícia de envolvimento do acusado em contexto delitivo, além de laudo pericial que atesta a eficiência das quatro munições apreendidas, circunstâncias que, somadas, afastam a tese de atipicidade material e impedem a aplicação do princípio da insignificância.
+9. O acórdão impugnado encontra-se alinhado à jurisprudência desta Corte quanto aos critérios para aplicação do princípio da insignificância em crimes de posse ou porte de munição, inexistindo ilegalidade flagrante ou decisão teratológica a justificar a concessão da ordem de ofício no âmbito de habeas corpus substitutivo de recurso próprio.
+IV. DISPOSITIVO E TESE
+10. Resultado do Julgamento: Agravo regimental improvido, mantendo-se o indeferimento liminar do habeas corpus e não se reconhecendo hipótese de concessão da ordem de ofício.
+Tese de julgamento:
+1. O habeas corpus manejado como substitutivo de recurso próprio não deve ser conhecido, admitindo-se a concessão da ordem de ofício apenas em casos de teratologia ou ilegalidade manifesta.
+2. A aplicação do princípio da insignificância ao crime de posse ou porte de munição desacompanhada de arma de fogo exige, além da pequena quantidade, a inexistência de perigo concreto à incolumidade pública e de elementos de habitualidade delitiva ou maior reprovabilidade da conduta.
+3. A existência de maus antecedentes, de outros registros criminais e a eficiência das munições apreendidas constituem fundamentos idôneos para afastar a tipicidade material e impedir a aplicação do princípio da insignificância em delito de posse de munição.
+Dispositivos relevantes citados: Não há dispositivos legais expressamente mencionados no voto.
+Jurisprudência relevante citada: STJ, HC 535.063/SP, Terceira Seção, Rel. Min. Sebastião Reis Júnior, DJe 25.08.2020.
+(AgRg no HC n. 1.073.290/DF, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/5/2026, DJEN de 26/5/2026)
+À vista do exposto, in limine, denego a ordem.
+Publique-se e intimem-se.
+ EMENTA
