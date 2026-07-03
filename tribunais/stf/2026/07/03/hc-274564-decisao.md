@@ -1,0 +1,50 @@
+DECISÃO:
+Vistos.
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Vanessa Cristina de Matos, apontando como autoridade coatora o Superior Tribunal de Justiça, que provimento ao agravo interposto no HC nº 884.215/SP, Relator o Ministro Rogerio Schietti Cruz.
+Consta dos autos que a paciente foi condenada - pelos crimes previstos nos arts. 121, § 2º, IV e V, c/c. o art. 29, caput; 121, § 2º, IV e V, c/c o art. 14, II, e 29 (por duas vezes); 171, caput; 129, caput, e 288, caput, todos do Código Penal - à pena de 33 anos e 3 meses de reclusão e 05 meses e 07 dias de detenção, nos regimes iniciais fechado e semiaberto, mais multa.
+Neste writ, a defesa aduz, em síntese, nulidade do julgamento, em razão da ausência justificada da paciente e da não redesignação da sessão plenária.
+Requer, ao final:
+“1. o conhecimento da presente impetração, por se tratar de constrangimento ilegal decorrente de ato do Superior Tribunal de Justiça, com matéria constitucional direta relativa à plenitude de defesa no Tribunal do Júri;
+2. a concessão de medida liminar para suspender a execução da pena e os efeitos da condenação imposta à paciente;
+3. caso a prisão decorra exclusivamente deste processo, a expedição de alvará de soltura;
+4. subsidiariamente, a suspensão dos efeitos do julgamento impugnado ou a atribuição de prioridade na apreciação definitiva deste habeas corpus;
+5. a requisição de informações à autoridade coatora, se assim entender Vossa Excelência, e, após, a remessa dos autos à Procuradoria-Geral da República;
+6. no mérito, a concessão definitiva da ordem para reconhecer a nulidade da sessão do Tribunal do Júri realizada em 20 de maio de 2021, nos autos da Ação Penal nº 0017245- 52.2017.8.26.0576, determinando-se a realização de novo julgamento, com garantia de presença física e efetiva participação da paciente;
+7. alternativamente, caso não se reconheça desde logo a nulidade, que seja cassado o acórdão proferido no AgRg no HC nº 884.215/SP, determinando-se ao Superior Tribunal de Justiça que examine a existência de flagrante ilegalidade apta à concessão da ordem de ofício, afastado o óbice meramente formal do habeas corpus substitutivo de revisão criminal”.
+
+Com efeito, no STJ o Ministro Rogerio Schietti Cruz, no voto condutor do acórdão, destacou o seguinte:
+
+“Não obstante os esforços perpetrados pela ora agravante, não constato fundamentos suficientes a infirmar a decisão impugnada, cuja conclusão mantenho.
+No caso, consta dos autos que a paciente foi condenada às penas de 33 anos e 3 meses de reclusão, além de 5 meses e 7 dias de detenção, nos regimes iniciais fechado e semiaberto, além de pagamento de 11 dias-multa, como incursa nos arts. 121, § 2º, IV e V, na forma do art. 29; 129, caput, 171, caput, c/c o art. 14, II; e 288, todos do Código Penal. Consta, ainda, que a defesa impetrou o HC em 18/1/2024, depois do trânsito em julgado da condenação, de modo que o presente writ é substitutivo de revisão criminal.
+A esse respeito, releva salientar que o Superior Tribunal de Justiça, na esteira do que vem decidindo o Supremo Tribunal Federal – “prestigiando o sistema recursal ao tempo que preserva a importância e a utilidade do writ” (HC n. 320.306/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., Dje 11/10/2016) –, não admite que o remédio constitucional seja utilizado em substituição ao recurso próprio (apelação, recurso especial, recurso ordinário), tampouco à revisão criminal ou à medida cautelar, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus.
+Na hipótese, verifica-se que a sentença condenatória transitou em julgado em 12/5/2023 (fl. 149), de modo que o writ constitui substitutivo de revisão criminal, a obstar, assim, seu conhecimento.
+Logo, qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado pelo impetrante seria precoce, além de implicar a subversão da essência do remédio heroico e no alargamento inconstitucional de sua competência para julgamento de habeas corpus. Dessarte, mostra-se indevida a subversão do sistema recursal.
+Portanto, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental”. (e-doc. 3, p. 2-3, grifei)
+
+O julgado proferido Superior Tribunal de Justiça não evidencia ilegalidade flagrante, abuso de poder ou teratologia. Com efeito, o entendimento emanado daquela Corte de Justiça encontra-se suficientemente motivado, restando justificado o convencimento formado.
+A pretensão dos impetrantes vai de encontro à jurisprudência desta Corte que entende que “a nulidade não suscitada no momento oportuno é impassível de ser arguida através de habeas corpus, no afã de superar a preclusão, sob pena de transformar o writ em sucedâneo da revisão criminal” (RHC 107.758, Rel. Min. Luiz Fux).
+A esse respeito:
+
+“Recurso Ordinário em habeas corpus. Direito Constitucional e Penal. Ausência de intimação de defensor dativo para a sessão de julgamento da apelação. Arguição posterior. Preclusão da matéria. Precedentes. Nulidade. Não ocorrência. Recurso ao qual se nega provimento. 1. Embora se reconheça a prerrogativa de intimação pessoal dos defensores dativos para as sessões de julgamento das apelações, incide na espécie a preclusão da questão, já que a referida nulidade somente foi arguida, em relação ao primeiro paciente, mais de 7 anos e 5 meses após o julgamento e, no tocante ao segundo paciente, mais de 2 anos e 9 meses após o julgamento. Precedentes. 2. Recurso não provido”. (RHC 124110, Relator(a): MARCO AURÉLIO, Relator(a) p/ Acórdão: DIAS TOFFOLI, Primeira Turma, DJe de 25-02-2021, grifamos)
+
+“HABEAS CORPUS. CONSTITUCIONAL. PENAL. TRÂNSITO EM JULGADO DO ACÓRDÃO PROFERIDO NO JULGAMENTO DO RECURSO EM SENTIDO ESTRITO DA DEFESA. ALEGAÇÃO DE NULIDADE PELA NÃO INTIMAÇÃO PESSOAL DO DEFENSOR DO PACIENTE PARA SESSÃO DE JULGAMENTO. PRECLUSÃO. 1. Decorridos quase dois anos do trânsito em julgado do acórdão do recurso em sentido estrito da defesa, ocorreu a preclusão da alegada nulidade ocorrida nesse julgamento. Precedentes. 2. Ordem denegada. (HC 112360, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe de 18/5/2012, grifamos).
+
+“Habeas Corpus Substitutivo de Recurso Ordinário. Homicídio Qualificado. Alegada Ausência de intimação pessoal do Defensor Dativo da data de julgamento da apelação. Preclusão da matéria. 1. A atual jurisprudência do Supremo Tribunal Federal entende que “a nulidade não suscitada no momento oportuno é impassível de ser arguida através de habeas corpus, no afã de superar a preclusão, sob pena de transformar o writ em sucedâneo da revisão criminal” (RHC 107.758, Rel. Min. Luiz Fux). 2. O defensor dativo foi intimado pessoalmente do resultado do julgamento da apelação e não arguiu, por meio dos instrumentos processuais cabíveis, a nulidade suscitada nesta impetração. 3. Preclusão da matéria com o trânsito em julgado da apelação. 4. Habeas Corpus extinto sem resolução de mérito por inadequação da via processual. Cassada a liminar deferida.” (HC 102077, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 1º/4/2014).
+
+“Habeas corpus. Processual Penal. Ausência de intimação do defensor público para a sessão de julgamento da apelação interposta, ocorrida em 16/4/98. Nulidade. Não ocorrência. Questão invocada, tão somente, por ocasião do habeas corpus impetrado ao Superior Tribunal de Justiça em 17/3/11. Decurso de lapso temporal superior a 13 (treze) anos. Preclusão da matéria. Precedentes. 1. Via de regra, o entendimento da Corte caminha no sentido de que “a falta de intimação pessoal do defensor público ou dativo para a sessão de julgamento é causa de nulidade” (HC nº 111.976/BA, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 12/4/12). 2. Contudo, as circunstâncias do caso importam, na linha de precedentes, no reconhecimento da preclusão da matéria, pois, conforme se verifica, a alegada nulidade veio a ser invocada, tão somente, por ocasião do HC nº 200.029/SP impetrado ao Superior Tribunal de Justiça em 17/3/11, ou seja, mais de 13 (treze) anos após o julgamento do recurso apelação, ocorrido em 16/4/98. 3. Ordem denegada. (HC 110954, de minha relatoria, Primeira Turma, DJe de 18/6/2012).
+
+Além disso, esta Suprema Corte exige a comprovação do prejuízo para o reconhecimento de nulidade processual. A esse respeito, confiram-se:
+
+“PROCESSUAL PENAL. HABEAS CORPUS. EXECUÇÃO DA PENA ANTES DO TRÂNSITO EM JULGADO DA CONDENAÇÃO. PEDIDO NÃO CONHECIDO PELO STJ. IMPOSSIBILIDADE DE CONHECIMENTO POR ESTA SUPREMA CORTE SOB PENA DE SUPRESSÃO DE INSTÂNCIA. INVERSÃO NA ORDEM DOS DEPOIMENTOS DAS TESTEMUNHAS. INDEFERIMENTO DE PERGUNTAS DA DEFESA. QUEBRA DA INCOMUNICABILIDADE DAS TESTEMUNHAS. AUSÊNCIA DE DEMONSTRAÇÃO DE EFETIVO PREJUÍZO PARA O ACUSADO. ALEGAÇÃO DE INEXISTÊNCIA DE CONTINUIDADE DELITIVA. NECESSIDADE DE REEXAME DE MATÉRIA DE FATO QUE ULTRAPASSA OS LIMITES RESTRITOS DO HABEAS CORPUS.” (HC nº 95.786/PR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 6/2/09)
+
+“RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL. FURTO. INÉPCIA DA DENÚNCIA. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA E IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCOMUNICABILIDADE DAS TESTEMUNHAS. AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. AUSÊNCIA DO RÉU EM AUDIÊNCIA. INEXISTÊNCIA DE CONTRARIEDADE AO INC. IX DO ART. 93 DA CONSTITUIÇÃO DA REPÚBLICA. ALEGAÇÃO DE OFENSA AO INC. LV DO ART. 5º DA CONSTITUIÇÃO DA REPÚBLICA: INEXISTÊNCIA DE REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA SEGUIMENTO” (ARE nº 1.240.453/SC, Relatora a Ministra Cármen Lúcia, DJe de 4/12/19)
+
+Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+
+Publique-se.
+Brasília, 3 de julho de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
