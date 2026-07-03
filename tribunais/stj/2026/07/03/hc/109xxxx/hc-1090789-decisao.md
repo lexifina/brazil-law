@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de CARLOS ROBERTO DE CASTRO ALMEIDA contra o acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais na Revisão Criminal n. 1.0000.25.388543-8/000, que julgou improcedente o pleito revisional.
+O paciente foi condenado, nos autos n. 0001979-31.2020.8.13.0657 pelo delito previsto no art. 33, caput, da Lei 11.343/2006, por fatos ocorridos em 23.02.2017, tendo o Tribunal local afastado, em apelação, a causa de diminuição do art. 33, §4º, da Lei de Drogas, com fixação da pena em 05 (cinco) anos de reclusão, em regime inicial semiaberto, e 500 (quinhentos) dias-multa (fls. 4-8).
+Na presente impetração a defesa postula a aplicação do tráfico privilegiado no patamar máximo, com redimensionamento da pena e fixação de regime inicial mais brando. Subsidiariamente requer a nulidade da audiência de instrução por ausência do réu no ato virtual (fls. 2-3).
+O pedido de liminar foi indeferido por estar intrinsecamente relacionado ao mérito da controvérsia, com determinação de requisição de informações e posterior vista ao Ministério Público Federal (fls. 21).
+A Corte de origem prestou informações sobre a Revisão Criminal, noticiando a distribuição, a remessa para parecer da Procuradoria-Geral de Justiça, a designação de julgamento virtual, a publicação do acórdão de improcedência em 11.02.2026 e o trânsito em julgado em 03.03.2026 (fls. 24-34).
+O Juízo da execução penal encaminhou ofício informando a unificação das penas, totalizando 15 (quinze) anos e 4 (quatro) meses de reclusão, com cumprimento aproximado de 6 (seis) anos e regime atual fechado, bem como esclarecendo que a revisão criminal não é afeta à execução (fls. 38-39).
+O Ministério Público Federal opinou pelo não conhecimento do writ e, no mérito, pela denegação da ordem (fls. 45-49).
+É o relatório. DECIDO.
+Verifico que a impetração investe contra acórdão proferido em Revisão Criminal, buscando reabrir discussão sobre a dosimetria e, em particular, sobre o afastamento da causa de diminuição prevista no art. 33, §4º, da Lei 11.343/2006.
+Nessa moldura, reconheço que o habeas corpus não se presta como sucedâneo do recurso cabível para impugnar o acórdão revisional, o que impõe o seu não conhecimento, na linha da orientação restritiva de utilização do writ, ressalvada a hipótese de flagrante ilegalidade, passível de correção de ofício, o que não encontro no caso.
+Examinando as razões defensivas, observo que o Tribunal a quo, ao julgar improcedente a revisão criminal, assentou, com base em elementos fáticos concretos, a distinção entre os dois episódios e a habitualidade delitiva do paciente. No voto condutor, a relatora registrou que o primeiro fato, objeto do processo n. 0001979-31.2020.8.13.0657, refere-se à apreensão, em 23.02.2017, de 41 invólucros de cocaína (28,67g) e 7 invólucros mais um pedaço de maconha (22,12g), ao passo que o outro processo, n. 0010604-59.2017.8.13.0657, trata de mandado de busca e apreensão cumprido em 28.07.2017, no mesmo imóvel, com apreensão de 7 "pinos" de cocaína, afastando, por isso, qualquer bis in idem (fls. 6-7).
+A Corte de origem também destacou, para justificar o afastamento da minorante do tráfico privilegiado, que a dedicação a atividades criminosas deve ser aferida pelo conjunto probatório e que, embora condenações posteriores não configurem maus antecedentes ou reincidência, podem, quando associadas a outros elementos fáticos, evidenciar a dedicação habitual a atividades ilícitas.
+No mesmo sentido, o parecer do Ministério Público Federal pontuou que o paciente foi novamente flagrado na prática de tráfico de drogas no mesmo imóvel cinco meses após o primeiro fato (28.07.2017), circunstância apta a demonstrar que faz da traficância um "meio de vida" (fl. 48).
+Assim, não identifico ilegalidade a ser sanada.
+A título de exemplo, cito o seguinte precedente:
+"DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. TRÁFICO PRIVILEGIADO. REQUISITOS NÃO PREENCHIDOS. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+8. O Tribunal de origem afastou a aplicação da minorante do art. 33, §4º, da Lei n. 11.343/2006 com base em certidão de antecedentes que registra condenações do agravante, em processos distintos, por tráfico e associação (fatos de 2023) e por porte ilegal de arma, tráfico e associação (fatos de 2016), concluindo que tais elementos demonstram intenso envolvimento com a traficância organizada e sistemática.
+9. A partir do cotejo dos antecedentes do condenado no momento do julgamento da revisão criminal, a Corte local assentou que o agravante não ostenta o perfil exigido para a incidência da causa de diminuição, por se dedicar a atividades criminosas e integrar contexto de traficância organizada, circunstâncias que descaracterizam os requisitos legais da benesse.
+10. É consolidado o entendimento de que a minorante do tráfico privilegiado pode ser afastada quando elementos concretos dos autos evidenciam a dedicação do agente à atividade criminosa ou sua vinculação à organização criminosa, não havendo, nessa situação, ilegalidade flagrante a justificar intervenção excepcional via habeas corpus substitutivo.
+ ..
+IV. Dispositivo e tese
+12. Resultado do Julgamento: Agravo regimental não provido.
+ ..
+2. A causa de diminuição de pena prevista no art. 33, §4º, da Lei n. 11.343/2006 pode ser afastada quando condenações criminais que evidenciam dedicação do agente à traficância organizada e sistemática demonstram o não preenchimento dos requisitos legais da benesse, não configurando tal fundamentação flagrante ilegalidade sanável na via do habeas corpus.
+ .. "
+(AgRg no HC n. 1.050.523/RS, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 15/4/2026, DJEN de 22/4/2026).
+No mais, a pretensão de restabelecimento da causa de diminuição do art. 33, § 4º, da Lei 11.343/2006 demanda o revolvimento do acervo fático-probatório, providência incompatível com a via estreita do habeas corpus.
+Do mesmo modo, a tese subsidiária de nulidade por cerceamento de defesa, fundada na ausência do réu em audiência virtual, não demonstrou prejuízo concreto e exigiria análise minuciosa dos atos processuais de origem, o que também se mostra inviável nesta sede.
+Registro, por oportuno, que o afastamento do benefício das penas restritivas, a fixação da pena em 05 (cinco) anos e o regime inicial semiaberto, tal como estabelecidos, foram reputados compatíveis com a gravidade concreta e as circunstâncias judiciais delineadas, não se evidenciando descompasso flagrante que autorize intervenção excepcional.
+Portanto, não vislumbro constrangimento ilegal a ser sanado, seja para reconhecer o tráfico privilegiado, seja para decretar nulidade processual. A decisão do Tribunal de Justiça mineiro encontra-se fundamentada em elementos concretos dos autos, e a revisão pretendida pressupõe incursão indevida em matéria fática.
+Ante o exposto, não conheço do habeas corpus, nos termos do art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
