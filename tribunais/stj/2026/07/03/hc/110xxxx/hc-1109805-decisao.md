@@ -1,0 +1,81 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de CLAUDIO MAGNO DE SOUSA, contra acórdão do Tribunal de Justiça do Estado de São Paulo, que deu provimento ao apelo defensivo e reduziu a pena do paciente para 7 anos e 6 meses de reclusão, em regime inicial fechado, mais pagamento de 750 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006.
+Nesta Corte, a defesa alega que a pena-base foi exasperada indevidamente à luz da natureza e quantidade de drogas apreendidas, em violação ao art. 42 da Lei n. 11.343/2006 e ao art. 59 do Código Penal, pois a quantidade de 33,1 g de cocaína, fracionada em 123 porções, não excede as elementares do tipo, não justificando incremento na primeira fase, segundo a jurisprudência do STJ.
+Afirma que, na segunda fase, a fração de aumento pela reincidência foi fixada acima do patamar usual sem fundamentação concreta idônea, contrariando a tese firmada no Tema 585/STJ e o art. 61, I, do Código Penal, já que, reconhecida a confissão, deve haver compensação parcial com a agravante da reincidência, e, em caso de dupla reincidência com uma condenação sobressalente, o aumento não deve superar 1/6, conforme orientação sedimentada.
+Requer a readequação da pena conforme razões acima expostas.
+É o relatório.
+Decido.
+O Supremo Tribunal Federal e esta Corte pacificaram orientação de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado. Cumpre, então, avaliar a possibilidade de concessão da ordem de ofício, se presente ilegalidade flagrante.
+O Tribunal de origem manteve a pena-base aplicada em primeiro grau sob a seguinte motivação:
+ ..  a pena-base foi fixada 1/5 acima do mínimo legal, em razão da expressiva quantidade de entorpecentes apreendidos, bem como dos maus antecedentes do réu. O aumento, a despeito das ponderações da defesa, foi acertadamente aplicado. A uma, porque a operação encontra lastro no artigo 42 da Lei de Drogas. E a duas, porque a fração de aumento não se mostra desproporcional, considerando-se a apreensão de cerca de 123 porções de cocaína em forma de "crack" com massa líquida de 33,1 gramas, totalizando 6 anos de reclusão, e 600 dias-multa, o que fica mantido. Ademais, o acusado possui condenação transitada em julgado por crime contra o patrimônio (processo nº 0062001-22.2010.8.26.0050 - páginas 33/36), a qual não mais se presta à caracterização da reincidência, mas deve ser considerada para fins de valoração negativa dos antecedentes.
+Inicialmente, convém destacar que a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+Na hipótese, observa-se que a pena-base foi majorada em 1 ano de reclusão, tendo como fundamento a quantidade e a natureza da droga (33,1g de crack), assim como o registro de maus antecedente pelo agente.
+Todavia, esta Corte tem decidido que a análise das vetorias da natureza e da quantidade de entorpecentes deve ser feita conjuntamente, sendo desproporcional o aumento da pena-base quando a droga apreendida for de pequena quantidade, independentemente de sua natureza. Em decisões similares, este Superior Tribunal de Justiça já procedeu ao redimensionamento da pena-base reconhecendo o excesso no agravamento da pena pela aferição de quantidade de droga não significativa, razão pela qual a pena-base merece pequeno reparo.
+Vejamos:
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DOSIMETRIA DA PENA. TRÁFICO DE DROGAS. TRÁFICO PRIVILEGIADO. AGRAVO REGIMENTAL NÃO
+PROVIDO. I. Caso em exame
+1. Agravo regimental no habeas corpus interposto pelo Ministério Público Federal contra decisão que não conheceu e concedeu de ofício a ordem de habeas corpus.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a quantidade de droga apreendida justifica o aumento da pena-base e se a aplicação da minorante do tráfico privilegiado na fração de 2/3 foi devidamente fundamentada.
+III. Razões de decidir
+3. A quantidade de droga apreendida, 30,6g de crack, não justifica a elevação da pena-base acima do mínimo legal.
+4. A natureza e a quantidade da droga devem ser analisadas conjuntamente, não sendo possível cindir a sua análise.
+5. A ausência de elementos concretos que indiquem a dedicação do paciente a atividades criminosas justifica a aplicação da minorante do tráfico privilegiado.
+IV. Dispositivo e tese
+6. Agravo regimental não provido.
+Tese de julgamento:
+1. A quantidade de droga apreendida deve ser relevante para justificar o aumento da pena-base.
+2. A minorante do tráfico privilegiado aplica-se quando não há elementos concretos de dedicação a atividades criminosas ou integração a organização criminosa.
+Dispositivos relevantes citados:Lei nº 11.343/2006, art. 33, § 4º;
+art. 42; Código Penal, art. 33, § 2º, "c", e § 3º; art. 44.
+Jurisprudência relevante citada:STJ, AgRg no AREsp 2.617.112/AL, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 13.08.2024; STJ, AgRg no REsp 2.203.257/RS, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14.05.2025.
+(AgRg no HC n. 1.010.904/SC, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 2/9/2025, DJEN de 11/9/2025.)
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO ILÍCITO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. VIOLAÇÃO DE DOMICÍLIO. LEGALIDADE DA DILIGÊNCIA POLICIAL. ASSOCIAÇÃO PARA O TRÁFICO. ESTABILIDADE E PERMANÊNCIA DO VÍNCULO ASSOCIATIVO. ABSOLVIÇÃO. IMPOSSIBILIDADE. DOSIMETRIA. PEQUENA QUANTIDADE DE DROGA. PENA-BASE FIXADA NO MÍNIMO LEGAL. AGRAVANTE DA REINCIDÊNCIA. FRAÇÃO SUPERIOR A 1/6. AUSÊNCIA DE FUNDAMENTAÇÃO VÁLIDA. FLAGRANTE ILEGALIDADE VERIFICADA. ORDEM PARCIALMENTE CONCEDIDA.
+I. CASO EM EXAME
+1. Habeas corpus impetrado pela defesa de condenado por tráfico ilícito de drogas e associação para o tráfico (arts. 33 e 35, c/c o art. 40, IV, da Lei 11.343/2006), além de concurso material (art. 69 do Código Penal), com pena de 12 anos, 4 meses e 12 dias de reclusão em regime fechado, e 1.795 dias-multa. A defesa pleiteia a nulidade das provas obtidas por suposta violação de domicílio, a absolvição pelo crime de associação para o tráfico e a redução da pena-base.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) definir se houve ilicitude das provas obtidas mediante violação de domicílio; (ii) estabelecer se há provas suficientes para a condenação pelo crime de associação para o tráfico; (iii) determinar se houve fundamentação idônea para o aumento da pena-base do crime de tráfico.
+III. RAZÕES DE DECIDIR
+3. A entrada no domicílio do réu é considerada válida, dadas informações de serviço de inteligência, denúncias especificadas e mandado de prisão em aberto. A ação policial se deu em flagrante delito, conforme autorizado pela Constituição.
+4. O crime de associação para o tráfico está comprovado por elementos que demonstram a estabilidade e permanência do vínculo associativo. O paciente desempenhava a função de "vapor" do tráfico de drogas, com emprego de arma de fogo devidamente municiada, sendo comprovado vínculo com organização criminosa, com função definida e auferindo renda com sua atividade.
+5. A quantidade de droga apreendida (31g de crack) não é suficiente para justificar o aumento desproporcional da pena-base. O art. 42 da Lei 11.343/2006 estabelece a preponderância da natureza e quantidade da droga, mas, no caso, a quantidade apreendida não configura fundamento idôneo para o agravamento.
+6. A agravante da reincidência foi fixada em patamar superior a 1/6 sem fundamentação idônea, em contrariedade à jurisprudência desta Corte.
+IV. ORDEM DE HABEAS CORPUS PARCIALMENTE CONCEDIDA.
+(HC n. 828.903/RJ, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 26/11/2024, DJEN de 10/12/2024.)
+Do mesmo modo, cabe acolhimento ao pedido de aplicação do índice de aumento de 1/6 pela dupla reincidência específica do paciente, uma vez que o Tribunal de origem decidiu em confronto com Tema Repetitivo n. 585:
+"É possível, na segunda fase da dosimetria da pena, a compensação integral da atenuante da confissão espontânea com a agravante da reincidência, seja ela específica ou não. Todavia, nos casos de multirreincidência, deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade".
+Portanto, na hipótese, sendo duas as condenações transitadas em julgado valoradas pelo acórdão e reconhecida a incidência da atenuante da confissão espontânea, um dos títulos condenatórios deve ser compensado com a aludida atenuante, e o remanescente utilizado para justificar a exasperação da pena em 1/6, ainda que específica a reincidência.
+Confira:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. BUSCA PESSOAL. FUNDADA SUSPEITA. PROVAS VÁLIDAS. DOSIMETRIA DA PENA. FRAÇÃO DA MULTIRREINCIDÊNCIA. AUSÊNCIA DE ILEGALIDADE. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. REITERAÇÃO DELITIVA. AGRAVO REGIMENTAL IMPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que conheceu do agravo para conhecer em parte do recurso especial e, nesta extensão, negar-lhe provimento. O agravante sustenta nulidade da busca pessoal, alegando ausência de fundada suspeita na abordagem policial, e requer a revogação da prisão preventiva, alegando ausência de fundamentação concreta para a medida. Além disso, impugna a dosimetria da pena, afirmando que a elevação pela dupla reincidência foi realizada em fração inadequada.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) saber se a busca pessoal realizada pelos policiais foi fundamentada em fundada suspeita, conforme exigido pelo art. 244 do Código de Processo Penal; (ii) saber se a elevação da pena pela dupla reincidência foi realizada em fração adequada e devidamente fundamentada; e (iii) saber se a manutenção da prisão preventiva do agravante foi devidamente fundamentada, considerando a gravidade concreta do delito e o risco de reiteração delitiva.
+III. RAZÕES DE DECIDIR
+3. A busca pessoal foi considerada válida, pois os policiais estavam em patrulhamento tático em local conhecido pela prática de tráfico de drogas e observaram o agravante realizando atos típicos de venda de entorpecentes, além de empreender fuga e resistir violentamente à abordagem, configurando fundada suspeita conforme o art. 244 do Código de Processo Penal.
+4. No que tange à fração da reincidência, verifica-se do acórdão recorrido que o recorrente possui duas condenações (dupla reincidência), razão pela qual a primeira delas foi compensada com a atenuante da confissão espontânea, e a segunda ensejou a elevação da pena em 1/6.
+5. A manutenção da prisão preventiva foi fundamentada na garantia da ordem pública, como forma de evitar a reiteração delitiva, diante da dupla reincidência no tráfico de drogas e de circunstância judicial desfavorável - o recorrente estava em cumprimento de pena em meio aberto quando voltou a delinquir, tendo sido preso, ainda, com elevada quantidade e variedade de drogas.
+IV. DISPOSITIVO E TESE
+6. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. A busca pessoal realizada em via pública é válida quando há fundada suspeita, nos termos do art. 244 do Código de Processo Penal, baseada em circunstâncias concretas e objetivas que indiquem a prática de ilícito. 2. Não há ilegalidade na dosimetria da pena, quando uma das condenações definitivas é compensada com a atenuante da confissão espontânea e a outra é utilizada para elevar a pena em 1/6. 3. A manutenção da prisão preventiva é justificada pela reincidência e risco de reiteração delitiva, sendo inviável a aplicação de medidas cautelares diversas.
+Dispositivos relevantes citados:CPP, arts. 244, 312, 315, § 2º, II e III, 387 e 564; Lei nº 11.343/2006, art. 33, § 4º; Súmula 284 do STF; Súmulas 282 e 356 do STF.
+Jurisprudência relevante citada:STJ, AgRg no AREsp 1403409/RS, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 26.03.2019; STJ, AgRg no AREsp 2.198.300/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 01.04.2025; STJ, AgRg no HC 935.146/RJ, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 04.11.2024;
+STJ, AgRg no AREsp 2.832.860/RS, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 12.08.2025; STJ, RHC 118.027/AL, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 08.10.2019.
+(AgRg no AREsp n. 3.028.139/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/12/2025, DJEN de 16/12/2025.)
+PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ROUBO. FALSA IDENTIDADE. CONFISSÃO QUALIFICADA. RÉU QUE CONFIRMA A AUTORIA DO DELITO, PORÉM NEGA O EMPREGO DE VIOLÊNCIA OU GRAVE AMEAÇA CONTRA A VÍTIMA. EFETIVA CONTRIBUIÇÃO PARA A ELUCIDAÇÃO DOS FATOS. POSSIBILIDADE DE RECONHECIMENTO. COMPENSAÇÃO PARCIAL DA AGRAVANTE DA REINCIDÊNCIA (DUPLA CONDENAÇÃO) COM A ATENUANTE DA CONFISSÃO. NECESSIDADE DE REDIMENSIONAMENTO DA PENA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+I. CASO EM EXAME
+1. Habeas corpus impetrado como substitutivo de recurso próprio, visando ao reconhecimento da atenuante da confissão no delito de roubo e à revisão da dosimetria da pena.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em determinar se a confissão qualificada do paciente, no tocante à subtração dos bens, pode ser utilizada para compensação parcial com a agravante da reincidência, resultando no redimensionamento da pena.
+III. RAZÕES DE DECIDIR
+3. O Superior Tribunal de Justiça, em consonância com o Supremo Tribunal Federal, tem orientação pacífica de que o habeas corpus não pode ser utilizado como substitutivo de recurso próprio, exceto em casos de flagrante ilegalidade. Precedentes: HC n. 602.425/SC, rel. Min. Reynaldo Soares da Fonseca, DJe de 6/4/2021.
+4. A confissão qualificada, ainda que o réu tenha negado o emprego de violência, quando utilizada para a formação do convencimento do magistrado, deve ser reconhecida como circunstância atenuante. Nesse sentido, a confissão espontânea, mesmo que qualificada, justifica a compensação com a agravante da reincidência, nos termos do art. 65, III, "d", do Código Penal. Precedentes: AgRg no HC n. 545.931/SP, rel. Min. Reynaldo Soares da Fonseca, DJe de 19/12/2019.
+5. Na segunda fase da dosimetria, tendo em vista a dupla reincidência do paciente, procede-se à compensação parcial com a atenuante da confissão, fixando-se o aumento da pena em 1/6.
+IV. Habeas corpus não conhecido. Ordem concedida de ofício para redimensionar a pena do crime de roubo para 5 anos, 5 meses e 10 dias de reclusão e 13 dias-multa.
+(HC n. 792.499/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 5/11/2024, DJe de 11/11/2024.)
+Sob tal contexto, passo ao redimensionamento da pena do paciente.
+A pena-base parte de 5 anos e 10 meses de reclusão e 583 dias-multa, pela aferição de circunstância preponderante prevista no art. 42 da Lei de Drogas (os maus antecedentes). Na segunda etapa, compensando-se a atenuante da confissão espontânea com o registro de uma condenação caracterizadora da reincidência, aumento a pena em 1/6 pela remanescente, resultando a pena definitiva em 6 anos, 9 meses e 20 dias de reclusão e 680 dias-multa. Em vista da dupla reincidência e dos maus antecedentes do agente, é inviável a alteração do regime prisional.
+Ante o exposto, não conheço do habeas corpus. Todavia, concedo a ordem, de ofício, para reduzir a pena final do paciente - pelo delito de tráfico de drogas - para 6 anos, 9 meses e 20 dias de reclusão e 680 dias-multa, ma ntido o regime inicial fechado.
+Publique-se. Intimem-se.
+EMENTA
