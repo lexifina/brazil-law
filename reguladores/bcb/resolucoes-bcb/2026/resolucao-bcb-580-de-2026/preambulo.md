@@ -1,0 +1,4 @@
+RESOLUÇÃO BCB Nº 580, DE 1º D​E JULHO DE 2026
+Altera as Resoluções BCB ns. 436, de 28 de novembro de 2024, e 201, de 11 de março de 2022, com vistas a classificar, como Tipo 3, as sociedades prestadoras de serviços de ativos virtuais e os conglomerados prudenciais liderados por essas sociedades e a vedar a prestação de serviços de ativos virtuais para fins da opção pelo enquadramento no Segmento 5 – S5, e estabelece data para aplicação de regramento prudencial.
+A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em 1º de julho de 2026, com base nos arts. 9º, caput, inciso II, e 15 da Lei nº 12.865, de 9 de outubro de 2013, 9º-A da Lei nº 4.728, de 14 de julho de 1965, 4º, 6º e 9º da Lei nº 14.478, de 21 de dezembro de 2022, e 1º e 2º do Decreto nº 11.563, de 13 de junho de 2023, e tendo em conta o disposto na Resolução nº 4.282, de 4 de novembro de 2013, e na Resolução CMN nº 5.105, de 28 de setembro de 2023,
+R E S O L V E :
