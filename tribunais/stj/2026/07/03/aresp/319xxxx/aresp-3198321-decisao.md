@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de agravo interposto por CLAUDIO ASSIS XAVIER, EUGENIO PEREIRA MUNIZ, JORGE CARLOS PINHO DELGADO, MARIA CECILIA LOUREIRO ARCHANJO contra decisão que obstou a subida de recurso especial.
+A parte agravante interpôs recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO cuja ementa guarda os seguintes termos (fl. 35-36):
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. AÇÃO ORDINÁRIA DE REVISÃO DE COMPLEMENTAÇÃO DE APOSENTADORIA. IMPUGNAÇÃO FUNDADA EM EXCESSO DE EXECUÇÃO. DIFERENÇA EXPRESSIVA ENTRE OS VALORES APRESENTADOS PELAS PARTES. NECESSIDADE DE PROVA PERICIAL ATUARIAL. ANULAÇÃO DA DECISÃO AGRAVADA. RECURSO PROVIDO.
+I. CASO EM EXAME
+1. Agravo de instrumento interposto contra decisão que rejeitou impugnação ao cumprimento de sentença, sob o fundamento de ausência de atendimento ao art. 525, § 4º, do CPC, diante da coerência das planilhas apresentadas pela parte exequente. 2. Controvérsia originada em ação ordinária de revisão de complementação de aposentadoria, em fase de cumprimento de sentença, na qual a agravante questiona diferença significativa entre o valor apresentado pelos autores (R$ 1.018.751,68) e aquele que entende devido (R$ 313.435,26), pugnando pela realização de perícia atuarial.
+II. QUESTÃO EM DISCUSSÃO
+3. Definir se, diante da divergência substancial nos cálculos e da complexidade técnica da matéria, é necessária a realização de perícia atuarial para apuração do valor devido a cada autor.
+III. RAZÕES DE DECIDIR
+4. Embora o juiz detenha a prerrogativa de indeferir provas desnecessárias, tal faculdade não pode suprimir a produção de prova técnica indispensável ao deslinde da controvérsia entre os cálculos apresentados pelas partes. 5. A diferença expressiva entre os valores apresentados e a natureza atuarial dos cálculos evidenciam a necessidade de perícia especializada, a fim de conferir segurança e precisão à apuração do "quantum debeatur" de cada autor.
+IV. DISPOSITIVO E TESE
+7. Agravo de instrumento conhecido e provido para anular a decisão agravada e determinar o retorno dos autos ao juízo de origem, com a realização de perícia atuarial. Tese de julgamento: Configura cerceamento de defesa o indeferimento de perícia atuarial em cumprimento de sentença, quando a controvérsia envolve cálculos complexos e expressiva divergência entre os valores apresentados pelas partes, sendo imprescindível a prova técnica para apuração do valor devido.
+Rejeitados os embargos de declaração opostos (fls. 77-84).
+No recurso especial, alega a parte recorrente que o acórdão contrariou as disposições contidas nos artigos 525, §4º e §5º do CPC e artigo 489, §1º, IV, do CPC.
+Contrarrazões ao recurso especial (fls. 109-115).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 146-150), o que ensejou a interposição do presente agravo.
+Contraminuta do agravo (fl. 168-175).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Não conheço do apelo nobre.
+Em recurso especial a parte recorrente pretende que se reconheça a preclusão da faculdade processual da parte executada impugnar o valor do débito, conforme art. 525, §4º e §5º, do CPC.
+No particular, não há ofensa ao art. 525, §4º e §5º, do CPC, pois a sanção processual de rejeição liminar da impugnação ao cumprimento de sentença que alega excesso de execução tem como hipótese legal de incidência que o impugnante não declare de plano o valor que entende devido.
+A leitura do acórdão recorrido, contudo, revela que o devedor alegou oportunamente o valor que entende devido e o respectivo excesso, transcrevo o acórdão recorrido, no particular (fls. 39):
+Nada obstante, na específica hipótese dos autos, a matéria objeto da ação principal versa sobre complementação de Aposentadoria em fase de cumprimento de sentença, cuja diferença entre os valores apresentados pelas partes é de R$705.316,42, onde os Autores/Agravados apresentaram uma planilha no valor total de R$1.018.751,68 e a Agravante aponta o valor de R$313.435,26, sendo, portanto, necessária a prova pericial a fim de averiguar o valor devido a cada autor/agravado, ante a complexidade dos cálculos e de uma análise técnica especializada na matéria, objeto da ação.
+Como consta do trecho transcrito, a corte de origem entendeu que houve pelo devedor indicação precisa do valor que entende devido, afastando, por via de consequência a sanção processual de rejeição liminar da impugnação.
+Lado outro, o tribunal de origem entendeu que é necessário na espécie a elaboração de prova técnica contábil para elucidação do valor devido. Nesse cenário transcrevo o acórdão recorrido (fls. 39):
+Ademais, é preciso conferir segurança a definição do "quantum debeatur" a cada um dos quatro autores/exequentes/Agravados e dirimir todas as questões postas pelas partes.
+Nessa direção se faz necessária a nomeação de perito atuarial pelo juízo de piso.
+Para alcançar entendimento distinto daquele firmado pelo acórdão recorrido, isto é, analisar se a prova técnica contábil é necessária ou não, seria indispensável a reapreciação do contexto fático-probatório dos autos, incidindo, portanto o óbice do enunciado 7/STJ.
+Finalmente, esta Corte Superior possui entendimento consolidado no sentido de que em matéria probatória não ocorre preclusão para o Juízo, de modo que não há como obstar ao julgador a produção da prova técnica que entende necessária, transcrevo:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO NO RECURSO ESPECIAL. ROL DE PROCEDIMENTOS DA ANS. ELUCIDAÇÃO DE QUESTÃO TÉCNICA DE SUA IMPRESCINDIBILIDADE. INEXISTÊNCIA DE PRECLUSÃO PRO JUDICATO EM MATÉRIA PROBATÓRIA. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. INCIDÊNCIA DOS ARTS. 932, III, E 1.021, § 1º, DO CPC/2015. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. A decisão monocrática agravada está assentada nas seguintes razões: a) entendimento perfilhado pela Corte Especial, por ocasião do julgamento do recurso repetitivo, REsp 1.124.552/RS, nos sentido de que as "regras de experiência comum" e as "as regras da experiência técnica" devem ceder vez à necessidade de "exame pericial", cabível sempre que a prova do fato "depender do conhecimento especial de técnico"; b) na vigência do CPC/2015, o art. 375 do Códex estabelece textualmente que o juiz aplicará as regras de experiência comum subministradas pela observação do que ordinariamente acontece e, ainda, as regras da experiência técnica, ressalvado, quanto a estas, o exame pericial; c) as regras da experiência técnica devem ser de conhecimento de todos, principalmente das partes, exatamente porque são vulgarizadas; se se trata de regra de experiência técnica, de conhecimento exclusivo do juiz ou "apanágio de especialistas", que por qualquer razão a tenha, torna-se indispensável a realização da perícia. Essa é a razão pela qual se faz a ressalva, no final do texto, ao exame pericial.
+(DIDIER JÚNIOR, Fredie; BRAGA, Paula Sarno; OLIVEIRA, Rafael Alexandria de. Curso de direito processual civil. Vol. 2. 12 ed.
+Salvador: Juspodivm, 2017, p. 78)
+2. Esta Corte Superior ressalta que cabe ao magistrado, como destinatário final, respeitando os limites adotados pelo Código de Processo Civil, a interpretação da prova necessária à formação do seu convencimento. A jurisprudência deste Superior Tribunal de Justiça possui entendimento no sentido de que, em matéria de instrução probatória, não há se falar em preclusão pro judicato, uma vez que, como fundamentos principiológicos daquela etapa processual, os princípios da busca da verdade e do livre convencimento motivado afastam o sistema da preclusão dos poderes instrutórios do juiz (precedentes).
+3. Nas razões do agravo interno em apreço, a parte agravante não impugna especificamente os fundamentos da decisão ora recorrida (nem mesmo menciona os dispositivos que embasam a decisão recorrida, quais sejam, os arts. 375 e 1.034 do CPC/2015).
+4. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida.
+Incide na espécie o disposto no arts. 932, III e 1.021, § 1º, do Código de Processo Civil de 2015.
+5. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 1.817.742/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 11/10/2021, DJe de 18/10/2021.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+ EMENTA
