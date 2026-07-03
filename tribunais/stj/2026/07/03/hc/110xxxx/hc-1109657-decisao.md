@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GEILSON SANTOS FONSECA, apontando-se como autoridade coatora o Tribunal de Justiça do Estado do Maranhão.
+Consta que o paciente foi preso temporariamente em 18/3/2026 e teve a custódia convertida em prisão preventiva em 15/4/2026, no âmbito de investigação pelos delitos previstos nos arts. 33, caput, e 35, caput, da Lei n. 11.343/2006.
+A defesa impetrou mandado de segurança criminal no Tribunal de origem, que foi indeferido liminarmente. Posteriormente, os embargos de declaração, com pedido de efeitos infringentes, não foram conhecidos.
+Sustenta cerceamento de defesa por negativa de acesso aos elementos já documentados, em violação à Súmula Vinculante n. 14 do Supremo Tribunal Federal, afirmando que a decisão que decretou a prisão preventiva é ato judicial incorporado aos autos e não se confunde com diligências em curso, inexistindo justificativa juridicamente válida para manutenção de sigilo contra advogado regularmente constituído.
+Alega excesso de prazo da prisão preventiva, pois o paciente está preso há mais de três meses  100 dias contados desde 18/3/2026  sem notícia de manutenção fundamentada da cautelar ou de denúncia, inexistindo qualquer ato protelatório da defesa.
+Defende o cabimento do writ nesta Corte e a superação da Súmula n. 691 do Supremo, em razão de flagrante ilegalidade e risco de dano irreparável à liberdade, evidenciados pela privação de acesso à decisão que decreta a custódia e pela duração irrazoável do encarceramento, após indeferimento liminar do mandado de segurança e não conhecimento dos aclaratórios no Tribunal de origem.
+Pugna, liminarmente, pela imediata habilitação do impetrante nos autos da prisão preventiva, o acesso integral aos elementos já documentados e a disponibilização da decisão que decretou a prisão, com comunicação urgente ao juízo.
+No mérito, requer o reconhecimento do constrangimento ilegal pela negativa de acesso e do excesso de prazo, com expedição de alvará de soltura, salvo outro título prisional, ou, subsidiariamente, a determinação de acesso imediato e integral aos autos e à decisão de preventiva.
+É o relatório.
+Decido.
+Conforme se verifica dos autos, a defesa impetrou o presente writ contra decisões monocráticas de Desembargador do Tribunal de Justiça do Maranhão, que indeferiu liminarmente mandado de segurança e, após, não conheceu dos embargos de declaração.
+Portanto, a competência deste Superior Tribunal de Justiça para processamento e análise do feito ainda não foi inaugurada, diante do não esgotamento das instâncias ordinárias, sendo incabível o exame de habeas corpus impetrado contra decisão singular de desembargador. Nesse sentido: (AgRg no HC n. 783.925/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/3/2023, DJe de 23/3/2023; AgRg no HC n. 833.615/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/9/2023, DJe de 26/9/2023).
+Saliente-se que as questões relavas à validade da prisão do paciente e de eventual excesso de prazo na formação da culpa não foram objeto de análise no Tribunal de origem, o que inviabiliza o seu exame diretamente por este Tribunal Superior, sob pena de indevida supressão de instância. A propósito: (AgRg no HC n. 1.040.357/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/10/2025, DJEN de 23/10/2025.)
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+Publique-se. Intime-se.
+EMENTA
