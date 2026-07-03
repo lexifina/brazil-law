@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JOSE MOREIRA ALVES JUNIOR, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, no julgamento da apelação criminal n. 0000569-12.2019.4.03.6112.
+Segundo consta dos autos, o paciente foi condenado, em primeiro grau, às penas de 17 (dezessete) anos e 4 (quatro) meses de reclusão, em regime inicial fechado, e ao pagamento de 2.205 (dois mil, duzentos e cinco) dias-multa, pela prática dos delitos previstos nos artigos 33, caput, c.c. art. 40, inciso I, e 35, caput, da Lei nº 11.343/2006, em concurso material, sem que lhe fosse concedido o direito de recorrer em liberdade.
+Interposta apelação, a defesa formulou pedido incidental de revogação da prisão preventiva, indeferido pelo relator e mantido pela Turma julgadora no agravo regimental ora impugnado.
+A impetração sustenta, em síntese, ausência de fundamentação cautelar contemporânea, afirmando que os elementos invocados para a manutenção da custódia remontam a fatos de 2019, sem relação com o momento atual, bem como a inadequação da prisão preventiva, diante de condições pessoais favoráveis e a suficiência de medidas cautelares diversas, nos termos do art. 319 do Código de Processo Penal.
+O pedido liminar foi indeferido, e as informações prestadas pelo Juízo de origem constam dos autos.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ e, subsidiariamente, pela denegação da ordem (fls. 367/387).
+É o relatório. DECIDO.
+O presente writ foi impetrado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO em substituição a recurso próprio. Diante dessa situação, não deve ser conhecido, nos termos da jurisprudência do Superior Tribunal de Justiça:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. WRIT NÃO CONHECIDO. CONCESSÃO DA ORDEM DE OFÍCIO. POSSIBILIDADE. DELITOS DE ROUBO EM CONCURSO MATERIAL. CUMULAÇÃO DE CAUSAS DE AUMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO DESPROVIDO.
+1. Conforme consignado na decisão agravada, o presente habeas corpus não merece ser conhecido, pois foi impetrado em substituição a recurso próprio. Contudo, a existência de flagrante ilegalidade justifica a concessão da ordem de ofício.
+2.  ..
+3. Agravo regimental desprovido." (AgRg no HC n. 738.224/SP Quinta Turma, Min. Rel. Joel Ilan Paciornik, DJe de 12/12/2023.)
+"PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REDUTOR DO ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTIDADE E NATUREZA DAS DROGAS ISOLADAMENTE. ELEMENTOS INSUFICIENTES PARA DENOTAR A HABITUALIDADE DELITIVA DA AGENTE. INCIDÊNCIA NA FRAÇÃO MÁXIMA (2/3). REGIME ABERTO. ADEQUADO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. AGRAVO NÃO PROVIDO.
+1. Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+ ..
+6. Agravo regimental não provido." (AgRg no HC n. 857.913/SP, Quinta Turma, Min. Rel. Ribeiro Dantas, DJe de 1/12/2023.)
+Tendo em vista, contudo, o disposto no artigo 654, § 2º, do Código de Processo Penal, passo à análise de possível ilegalidade flagrante que autorize a concessão da ordem de ofício.
+O decreto de prisão preventiva, mantido pelas instâncias ordinárias, está lastreado em elementos concretos extraídos da denominada "Operação Flying Low", que apurou organização criminosa voltada ao tráfico transnacional de entorpecentes, tendo o paciente sido identificado, por meio de quebra de sigilo telemático regularmente autorizada, como um dos responsáveis pelas tratativas com fornecedores de droga no Paraguai e pelo financiamento da logística de transporte aéreo de 476,5 kg de cocaína.
+A materialidade delitiva e os indícios de autoria, suficientes para a decretação da custódia, foram robustecidos pela sentença condenatória, que reconheceu expressamente a participação do paciente na liderança da organização. Não há, portanto, falar em ausência de lastro probatório idôneo a amparar o fumus comissi delicti.
+Quanto ao periculum libertatis, a manutenção da prisão está fundada na garantia da ordem pública, tendo em vista a sofisticação do modus operandi do grupo criminoso  uso de aeronaves próprias, planos de voo fictícios, comunicação cifrada e expressivo aporte patrimonial  e a posição de liderança exercida pelo paciente, circunstâncias que extrapolam a mera gravidade abstrata do delito e evidenciam a periculosidade concreta do agente, nos moldes exigidos pela jurisprudência desta Corte para a validade da segregação cautelar.
+A alegação de ausência de contemporaneidade não prospera.
+É entendimento assente nesta Corte Superior que a contemporaneidade da prisão preventiva se relaciona à persistência, no momento da decretação e de sua manutenção, dos motivos que a ensejam, e não ao lapso temporal decorrido desde a prática do fato delituoso.
+Nesse sentido:
+Direito processual penal. Agravo regimental no recurso em habeas corpus. TRÁFICO DE DROGAS, ASSOCIAÇÃO AO NARCOTRÁFICO E LAVAGEM DE CAPITAIS . Prisão preventiva. Fundamentação concreta. Contemporaneidade. Medidas cautelares diversas. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento ao recurso em habeas corpus voltado à revogação de prisão preventiva decretada em investigação de organização criminosa voltada ao tráfico de drogas, sob alegação de ausência de contemporaneidade, fundamentação genérica e suficiência de medidas cautelares do art. 319 do CPP.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se: (i) há ausência de contemporaneidade do decreto prisional, diante do lapso entre os fatos investigados (2022/2023) e o cumprimento da prisão preventiva, sem indicação de fatos supervenientes; (ii) a fundamentação do decreto é genérica, baseada em gravidade abstrata e posição hierárquica, sem individualização do risco; e (iii) medidas cautelares diversas da prisão seriam suficientes para acautelar a ordem pública, a instrução criminal e a aplicação da lei penal.
+III. Razões de decidir
+3. A decisão de origem está lastreada em dados concretos extraídos dos autos, evidenciando fumus comissi delicti e periculum libertatis pela gravidade concreta, estrutura organizada e liderança do agravante em organização especializada na prática do tráfico de drogas.
+4. A contemporaneidade da medida cautelar refere-se aos motivos ensejadores da prisão e não ao momento da prática dos fatos, sendo idônea quando demonstrado perigo atual de rearticulação, notadamente em caso de pertencimento à organização criminosa.
+5. Medidas cautelares diversas da prisão mostram-se inadequadas e insuficientes quando as circunstâncias evidenciam que providências menos gravosas seriam insuficientes para manutenção da ordem pública.
+6. Condições pessoais favoráveis não obstam a prisão preventiva quando presentes, de forma fundamentada, os requisitos do art. 312 do CPP.
+7. A jurisprudência do STF e do STJ legitima a prisão preventiva, com base na garantia da ordem pública, para cessar ou mitigar a atuação de integrantes de organização criminosa, afastando alegações de ausência de contemporaneidade quando demonstrado periculum libertatis atual.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. A contemporaneidade da prisão preventiva diz respeito ao periculum libertatis no momento da decretação, e não ao tempo do fato investigado, sendo idônea quando demonstrado perigo atual de rearticulação, notadamente em caso de pertencimento à organização criminosa.
+2. A prisão preventiva se legitima para garantir a ordem pública e interromper a atuação de organização criminosa quando fundamentada em elementos concretos de gravidade e risco de rearticulação.
+3. Medidas cautelares do art. 319 do CPP são inaplicáveis quando insuficientes diante da estrutura e da periculosidade evidenciadas no caso.
+4. Condições pessoais favoráveis não impedem a custódia cautelar quando presentes os requisitos do art. 312 do CPP.
+Dispositivos relevantes citados:CPP, art. 312; CPP, art. 313, I e III; CPP, art. 319.
+Jurisprudência relevante citada:STF, RHC 122.182, Rel. Min. Luiz Fux, Primeira Turma, j. 19.08.2014; STJ, AgRg no RHC 193.763/RS, Rel. Min. Ribeiro Dantas, Quinta Turma, j. 08.04.2024, DJe 12.04.2024; STJ, AgRg no HC 882.394/MS, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. 23.04.2024, DJe 28.05.2024; STJ, AgRg no HC 856.915/RJ, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 14.02.2024; STJ, RHC 188.821/PE, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, DJe 12.12.2023; STJ, AgRg no RHC 182.966/SC, Rel. Min. Jesuíno Rissato (Des. Convocado do TJDFT), Sexta Turma, DJe 26.10.2023; STJ, AgRg no HC 844.747/RJ, Rel. Min. Messod Azulay Neto, Quinta Turma, DJe 01.12.2023.
+(AgRg no RHC n. 235.359/DF, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 24/6/2026, DJEN de 29/6/2026.)
+No caso concreto, a contemporaneidade está demonstrada pela própria conduta do paciente quando da execução do mandado de prisão preventiva, ocasião em que tentou se evadir e arremessou aparelhos eletrônicos e documentos para imóvel vizinho, em nítida tentativa de destruição de provas, bem como pelo teor das mensagens extraídas de seu aparelho telefônico, reveladoras de contatos permanentes com integrantes da organização criminosa e de pesquisas relacionadas a facção criminosa, circunstâncias que, somadas à liderança exercida e às conexões internacionais do grupo, denotam risco atual e concreto de fuga e de reiteração delitiva, e não simples ilação genérica.
+Relevante anotar, com relação ao modus operandi e a reiteração delitiva, a recente alteração legislativa, com o acréscimo do § 3º ao artigo 312 do CPP, incluído pela Lei 15.272/25, perfeitamente aplicável ao caso:
+§ 3º Devem ser considerados na aferição da periculosidade do agente, geradora de riscos à ordem pública:
+I - o modus operandi, inclusive quanto ao uso reiterado de violência ou grave ameaça à pessoa ou quanto à premeditação do agente para a prática delituosa;
+..
+IV - o fundado receio de reiteração delitiva, inclusive à vista da existência de outros inquéritos e ações penais em curso.
+Diante da gravidade concreta da conduta, da posição de liderança do paciente em organização criminosa estruturada e dotada de aparato logístico sofisticado, bem como do risco de fuga e da possibilidade de reorganização das atividades ilícitas  mormente em razão de nem todos os integrantes do grupo terem sido identificados  , as medidas cautelares alternativas previstas no art. 319 do Código de Processo Penal revelam-se manifestamente insuficientes e inadequadas para a tutela da ordem pública e para assegurar a aplicação da lei penal.
+Eventuais condições pessoais favoráveis, como primariedade técnica e residência fixa, não têm o condão de, isoladamente, afastar a necessidade da custódia quando presentes outros elementos concretos que a justifiquem, conforme jurisprudência pacífica desta Corte:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. FEMINICÍDIO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA. MODUS OPERANDI. FUGA. MEDIDAS CAUTELARES ALTERNATIVS INSUFICIENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento ao recurso ordinário em habeas corpus e manteve a prisão preventiva do agravante.
+2. Na decisão agravada foi ressaltada a gravidade concreta da conduta, periculosidade evidenciada pelo modus operandi, risco à ordem pública e risco à aplicação da lei penal diante de evasão após os fatos; medidas cautelares diversas foram reputadas insuficientes. A Defesa sustenta ausência de fundamentação concreta e individualizada (art. 315, § 2º, do CPP), condições pessoais favoráveis, apresentação espontânea e suficiência de cautelares do art. 319 do CPP.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se permanecem presentes fundamentos concretos, atuais e individualizados para a prisão preventiva, em conformidade com os arts. 312, 313 e 315 do CPP, diante da gravidade em concreto do delito e do modus operandi e, se a posterior apresentação espontânea e condições pessoais favoráveis afastam o risco à aplicação da lei penal e permitem substituição por medidas cautelares do art. 319 do CPP.
+III. Razões de decidir
+4. A decisão de decretação e manutenção da custódia cautelar está motivada em dados concretos dos autos, com demonstração do fumus comissi delicti (materialidade e indícios de autoria) e do periculum libertatis, atendendo às exigências dos arts. 312 e 315 do CPP.
+5. O modus operandi de extrema violência, com execução por múltiplos disparos no tórax em contexto de conflito familiar, evidencia periculosidade concreta e elevada reprovabilidade, autorizando a custódia para garantia da ordem pública.
+6. A fuga após o crime, registrada em boletim de ocorrência e presenciada por agentes policiais, constitui elemento idôneo para justificar a prisão preventiva a fim de assegurar a aplicação da lei penal, não sendo a posterior apresentação espontânea suficiente para elidir o risco demonstrado.
+7. Condições pessoais favoráveis não afastam, por si sós, a necessidade da segregação quando presentes fundamentos concretos da medida extrema.
+8. Medidas cautelares diversas da prisão mostram-se inadequadas e insuficientes diante da gravidade concreta dos fatos e da periculosidade evidenciada, nos termos do art. 282, § 6º, e do art. 319 do CPP.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo regimental não provido.
+(AgRg no RHC n. 234.251/MG, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 17/6/2026, DJEN de 25/6/2026.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
