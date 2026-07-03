@@ -1,0 +1,4 @@
+INSTRUÇÃO NORMATIVA BCB Nº 756, DE 2 DE JULHO DE 2026
+Altera a Instrução Normativa BCB nº 693, de 19 de dezembro de 2025 que estabelece os procedimentos para a remessa ao Banco Central do Brasil de informações relativas a prestação de serviços de ativos virtuais no mercado de câmbio de que trata a Resolução BCB nº 277, de 31 de dezembro de 2022.
+O Chefe do Departamento de Monitoramento do Sistema Financeiro – Desig e o Chefe do Departamento de Regulação Prudencial e Cambial – Dereg, no uso das atribuições que lhes conferem o art. 23, inciso I, alínea “a” do Regimento Interno do Banco Central do Brasil, divulgado por meio da Resolução BCB nº 340, de 21 de setembro de 2023, com base nos arts. 85, inciso I, alínea “b”, e 1​19, inciso II, alínea “a”, respectivamente, do referido Regimento, e tendo em vista o disposto na Resolução BCB nº 277, de 31 de dezembro de 2022,
+R E S O L V E M:
