@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pela RUMO MALHA SUL S.A, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fls. 1.407-1.408):
+DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. APELAÇÃO CÍVEL EM EMBARGOS À EXECUÇÃO FISCAL. MULTA ADMINISTRATIVA. NULIDADE DE AUTO DE INFRAÇÃO. RECURSO DESPROVIDO.
+I. CASO EM EXAME:
+1. Apelação cível interposta contra sentença que julgou improcedentes os embargos à execução fiscal movida pela ANTT contra a Rumo Malha Sul S.A, referente à cobrança de multa por infração a contrato de concessão/arrendamento. A apelante busca o reconhecimento da prescrição intercorrente, a nulidade do auto de infração e do processo administrativo por incompetência da autoridade, violação ao princípio do non bis in idem, ausência de motivação e desproporcionalidade da multa.
+II. QUESTÃO EM DISCUSSÃO:
+2. Há cinco questões em discussão: (i) a ocorrência de prescrição intercorrente no processo administrativo; (ii) a competência da autoridade que instaurou o processo administrativo; (iii) a violação ao princípio do non bis in idem; (iv) a ausência de motivação adequada da decisão administrativa; e (v) a proporcionalidade e razoabilidade da multa aplicada.
+III. RAZÕES DE DECIDIR:
+3. A prescrição intercorrente não se caracterizou, pois, conforme a Lei nº 9.873/1999, o processo administrativo não ficou paralisado por mais de três anos entre sua instauração e o julgamento.
+4. A alegação de incompetência da autoridade que instaurou o processo administrativo é afastada, uma vez que o ato foi convalidado por autoridades hierarquicamente superiores (Gerente de Controle e Fiscalização de Infraestrutura e Serviços e Superintendente de Transporte Ferroviário), conforme o art. 55 da Lei nº 9.784/1999, sem lesão ao interesse público ou prejuízo a terceiros. Precedentes do TRF4.
+5. A alegação de violação ao princípio do non bis in idem é afastada, pois não houve duplo sancionamento pela mesma conduta, uma vez que cada auto de infração descreve imputações distintas.
+6. A decisão administrativa apresenta motivação adequada, tendo examinado individualmente os argumentos da defesa e justificado o não acolhimento. O Auto de Infração nº 828/2016 e o Relatório nº 019/COFER/URRS/2016 detalham a infração. A Resolução ANTT nº 442/04, art. 23, inc. V e §1º, exige a indicação do dispositivo legal, regulamentar ou contratual infringido, o que foi cumprido, não havendo cerceamento de defesa.
+7. A multa de R$ 678.511,96 é mantida, pois a aplicação da sanção é um juízo discricionário da administração pública, fundamentado nas disposições contratuais (Cláusula 4ª, inciso X, do Contrato de Arrendamento) e no Regulamento de Transportes Ferroviários (Art. 4º, Inciso I, do RTF), que prevê apenas a penalidade pecuniária. O Poder Judiciário não pode intervir no mérito administrativo para substituir ou reduzir a penalidade, salvo ilegalidade ou desproporcionalidade manifesta, o que não se verificou. Precedentes do TRF4.
+IV. DISPOSITIVO E TESE:
+8. Apelação desprovida.
+Tese de julgamento:
+9. A convalidação de atos administrativos por autoridade superior e a discricionariedade da administração na aplicação de multas contratuais, quando motivadas e dentro dos limites legais e contratuais, impedem a revisão judicial da penalidade, salvo ilegalidade manifesta.
+Opostos embargos declaratórios, foram estes rejeitados, em aresto assim ementado (fl. 1.430):
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. REDISCUSSÃO DE MÉRITO. PREQUESTIONAMENTO. RECURSO DESPROVIDO.
+I. CASO EM EXAME:
+1. Embargos de declaração opostos contra acórdão que negou provimento à apelação. O embargante alega omissão quanto à natureza dos atos aptos a afastar a prescrição intercorrente, à suposta ausência de providências da Rumo diante das invasões na via férrea, à observância dos princípios da razoabilidade e proporcionalidade na aplicação da multa, e à manifestação sobre precedentes do TRF4 e do STJ. Requer o prequestionamento da matéria.
+II. QUESTÃO EM DISCUSSÃO:
+2. Há duas questões em discussão: (i) a existência de omissão no acórdão embargado quanto aos pontos suscitados pelo embargante; (ii) a necessidade de prequestionamento explícito de dispositivos legais e precedentes para acesso aos Tribunais Superiores.
+III. RAZÕES DE DECIDIR:
+3. Não há omissão na decisão recorrida, pois o embargante, em verdade, pretende rediscutir o mérito da causa, o que não é cabível por meio de embargos de declaração, conforme o art. 1.022 do CPC.
+4. A nova apreciação de fatos e argumentos já analisados ou implicitamente afastados por ocasião do julgamento do recurso destoa da finalidade dos embargos declaratórios.
+5. Todos os pedidos formulados no recurso foram examinados de maneira fundamentada, à luz do direito material e processual aplicáveis e dos argumentos capazes de influenciar no resultado do julgamento.
+6. Em relação ao prequestionamento, a jurisprudência entende que é desnecessária a individualização numérica dos artigos, bastando que a matéria tenha sido debatida e dissecada no julgamento, com posição clara e expressa acerca da pretensão deduzida, conforme precedentes do STF e STJ.
+7. O art. 489, §1º, I e IV, do CPC/2015, estabelece que a decisão é fundamentada quando examina todos os argumentos deduzidos e capazes de influenciar na conclusão adotada, o que foi observado no acórdão embargado.
+IV. DISPOSITIVO E TESE:
+8. Embargos de declaração desprovidos.
+Tese de julgamento:
+9. Os embargos de declaração não se prestam à rediscussão do mérito da causa, e o prequestionamento é atendido quando a matéria é devidamente debatida e fundamentada no acórdão, sendo desnecessária a menção explícita de todos os dispositivos legais ou precedentes.
+Em seu recurso especial, às fls. 1.433-1.457, a parte recorrente sustenta violação ao art. 1.022, inciso II, do Código de Processo Civil, tendo em vista que, mesmo sendo opostos embargos de declaração, o Tribunal a quo não sanou as omissões constantes no acórdão recorrido.
+Aduz, ainda, ofensa ao art. 2º, parágrafo único, inciso VI, da Lei n. 9.784/1999, na medida em que, ao reconhecer a legalidade da decisão administrativa que aplicou multa à parte ora recorrente, o Tribunal de origem deixou de "observar os princípios da legalidade, finalidade, motivação, razoabilidade e proporcionalidade" (fls. 1.443-1.444).
+No mais, aponta desrespeito aos arts. 1º, §1º, e 2º, inciso II, ambos da Lei n. 9.873/1999, uma vez que, no caso em tela, "resta notória a ocorrência de prescrição intercorrente, sendo imperiosa a nulidade do PA e por consequência, da CDA" (fl. 1.447).
+Por fim, sustenta violação ao art. 5º, inciso LIV, da Constituição Federal, já que "a imputação de multa sem a definição clara dos princípios e limites - pela indevida imposição de multa - implica ofensa ao devido processo legal - trazendo ofensa reflexa ao princípio constitucional" (fls. 1.455-1.456).
+O Tribunal de origem, no entanto, inadmitiu o recurso especial, conforme trecho in verbis (fls. 1.470-1.472):
+Quanto à alegação de afronta ao artigo 1.022 do Código de Processo Civil, em virtude de não supressão de vício apontado em embargos de declaração, não resta configurada violação à(s) norma(s) legal(is) invocada(s), uma vez que (i) a controvérsia foi integralmente julgada pelo órgão colegiado, com a explicitação das razões de seu convencimento, e (ii) todas as questões necessárias à solução do litígio foram apreciadas, com base em fundamentação idônea e suficiente.
+Na esteira da jurisprudência do Superior Tribunal de Justiça, "Não se caracteriza negativa de prestação jurisdicional quando a decisão adota tese jurídica devidamente fundamentada, suficiente para a resolução integral da controvérsia, ainda que contrária aos interesses da parte", e "O julgador não está obrigado a rebater um a um todos os argumentos ou dispositivos legais invocados, desde que os fundamentos utilizados sejam suficientes para embasar a conclusão adotada" (STJ, EDcl no AgInt no AREsp n. 2.785.882/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 18/6/2025, DJEN de 25/6/2025).
+(..)
+No tocante à alegada ofensa a normas constitucionais, a competência do Superior Tribunal de Justiça, delimitada pelo artigo 105, inciso III, da Constituição Federal, restringe-se à uniformização de interpretação e aplicação de legislação infraconstitucional. Com efeito, é inviável o processamento de recurso especial nesse tópico específico.
+(..)
+Além disso, a(s) questão(ões) suscitada(s) pelo(a)(s) recorrente(s) envolve(m) análise do conjunto fático-probatório, a qual é inviável em recurso especial, nos termos da Súmula n.º 07 do Superior Tribunal de Justiça ("A pretensão de simples reexame de prova não enseja recurso especial").
+Em seu agravo, às fls. 1.477-1.501, a parte agravante afirma que impugnou especificamente o artigo 1.022 do Código de Processo Civil, "quando no recurso especial indicou de forma expressa a negativa de prestação jurisdicional quanto aos pontos trazidos em sede de embargos de declaração para fins de pré-questionamento" (fl. 1.483).
+Ademais, alega não incidir na espécie o óbice do enunciado 7 da Súmula do STJ, uma vez que, "ao contrário do que decidido pelo Tribunal a quo, o recurso especial não se baseia em análise de provas. O que se verifica é que, sob as questões de fato e de direito bem delineadas pelo acórdão recorrido, o Tribunal a quo contrariou dispositivos infraconstitucionais" (fl. 1.490).
+Outrossim, sustenta que não há que se falar em matéria constitucional em seu recurso especial, tendo em vista que "a violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal têm natureza infralegal" (fl. 1.498).
+É o relatório.
+Decido.
+O recurso não comporta conhecimento.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto a parte agravante não infirmou especificamente nenhum dos fundamentos utilizados para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se em três fundamentos distintos: (i) - inexistência da alegada ofensa ao art. 1022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida; (ii) - impropriedade da via eleita, já que a análise de matéria constitucional é de competência exclusiva do Supremo Tribunal Federal e (iii) - incidência do enunciado 7 da Súmula do STJ, tendo em vista a impossibilidade de revisão do acervo probatório.
+Entretanto, em sede de agravo em recurso especial a parte recorrente deixou de infirmar especificamente e a contento, todos os fundamentos da decisão de inadmissibilidade, os quais, à míngua de fundamentação pormenorizada, detalhada e específica, permanecem hígidos, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar os fundamentos do juízo de admissibilidade realizado pelo Tribunal de origem, a parte agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intimem-se.
+EMENTA
+DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC E 253, P. Ú, I, DO RISTJ. AGRAVO NÃO CONHECIDO.
