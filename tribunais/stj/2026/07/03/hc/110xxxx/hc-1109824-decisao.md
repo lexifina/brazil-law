@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de TIAGO BONFIM CONCEICAO ARAUJO, condenado e cumprindo pena em regime fechado pelo crime de roubo (art. 157, § 2º, II e I, do Código Penal), com término previsto para 4/2/2030 (Processo n. 0021590-07.2023.8.26.0041, DEECRIM 2ª RAJ - Araçatuba/SP).
+A impetrante aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que, em 2/6/2026, negou provimento ao recurso defensivo, mantendo a exigência de exame criminológico para a análise do requisito subjetivo à progressão de regime.
+Alega irretroatividade da Lei n. 14.843/2024 por ser norma penal mais gravosa, invocando o art. 5º, XL, da Constituição Federal e o entendimento do Supremo Tribunal Federal no HC 240770, além de afirmar a natureza material do art. 112, § 1º, da Lei de Execução Penal (fls. 3/5).
+Defende violação ao princípio da individualização da pena pela imposição automática e indistinta do exame criminológico, sustentando a necessidade de fundamentação específica, conforme a Súmula Vinculante n. 26 do Supremo Tribunal Federal e a Súmula 439 do Superior Tribunal de Justiça.
+Aduz desproporcionalidade da exigência generalizada do exame criminológico, com potencial de agravar o estado de coisas inconstitucional reconhecido na ADPF 347, pelo atraso sistêmico na execução.
+Sustenta constrangimento ilegal por excesso de prazo na realização do exame criminológico, determinado em 11/2/2026, sem cumprimento pela administração penitenciária por três meses, e requer análise do benefício sem a exigência do exame.
+Em caráter liminar, pede a concessão imediata da progressão de regime. No mérito, requer o reconhecimento da inconstitucionalidade do art. 112, § 1º, da Lei de Execução Penal, o afastamento da realização do exame criminológico e a concessão da progressão de regime (fls. 2/12).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+Verifico, de plano, a presença de ilegalidade apta a justificar a concessão da ordem.
+O Tribunal local manteve a exigência de realização do exame criminológico aos seguintes fundamentos (fls. 15/18):
+Com efeito, ainda que tenha o sentenciado atingido o lapso temporal exigido para a progressão de regime e apresente atestado de bom comportamento carcerário, tais elementos, por si sós, não bastariam para comprovar os requisitos necessários à concessão do benefício, tampouco vinculam o magistrado, cujo poder decisório não se restringe à mera homologação de atos administrativos.
+ ..
+A Lei nº 10.792/03 já conferia ao juiz o poder-dever de fundamentar suas decisões com base em elementos diversos, inclusive mediante realização de exame criminológico. Tal prerrogativa foi reforçada pela recente alteração legislativa promovida pela Lei nº 14.843/2024, que tornou obrigatória a realização do exame para o fim de progressão de regime:
+ ..
+A exigência da perícia técnica não afronta garantias constitucionais, mas reforça o princípio da individualização da pena (art. 5º, XLVI, da Constituição Federal), conforme reiterado pela jurisprudência do TJSP (Agravo de Execução Penal nº 0008915-23.2024.8.26.0996 e nº 0002689-56.2024.8.26.0590).
+A novel legislação, por sua natureza processual, tem aplicação imediata, nos termos do princípio tempus regit actum.
+Esta Corte possui entendimento sumulado de que se admite o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada (Súmula 439/STJ).
+É assente na jurisprudência do Superior Tribunal de Justiça que não há constrangimento ilegal na exigência de exame criminológico, mesmo após a edição da Lei n. 10.792/2003, desde que fundamentada a decisão na gravidade concreta do delito ou em dados concretos da própria execução (AgRg no HC n. 302.033/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 16/9/2014). Na mesma linha, HC n. 523.840/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 29/10/2019; e AgRg no HC n. 562.274/SP, Ministro Felix Fischer, Quinta Turma, DJe 28/5/2020.
+No entanto, gravidade abstrata do delito, longa pena a cumprir e reincidência não são fundamentos idôneos para exigir exame criminológico, ausentes elementos concretos e contemporâneos da execução. É o que se depreende da leitura destes precedentes, por exemplo: HC n. 620.368/SP, Ministra Laurita Vaz, Sexta Turma, DJe 2/12/2020; AgRg no HC n. 702.817/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 19/11/2021; e HC n. 436.653/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 26/3/2018.
+Também não justifica a imposição do exame a referência à prática de falta média ( AgRg no HC n. 947.987/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/12/2024, DJEN de 23/12/2024).
+Especificamente, em relação ao § 1º do art. 112 da Lei de Execução Penal, com redação dada pela Lei n. 14.843/2024, a Sexta Turma desta Corte, no RHC n. 200.670/GO, decidiu que a exigência de realização do exame criminológico para qualquer progressão de regime constitui novatio legis in pejus, pois incrementa requisito, tornando mais difícil alcançar regimes prisionais menos gravosos à liberdade. A retroatividade dessa norma se mostra inconstitucional, diante do art. 5º, XL, da Constituição Federal, e ilegal, nos termos do art. 2º do Código Penal.
+No caso, é nítida a existência de ilegalidade, a ponto de justificar a concessão da ordem, pois o tribunal não indicou elementos idôneos da execução para impor a realização do exame criminológico, mas apenas a retroatividade da Lei n. 14.843/2024, fundamento este que não encontram aporte na jurisprudência.
+Ante o exposto, concedo liminarmente a ordem para afastar a exigência de realização do exame criminológico, determinando que o Juízo da Execução proceda à imediata análise do pedido de progressão.
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. IMPOSIÇÃO DO EXAME CRIMINOLÓGICO. GRAVIDADE ABSTRATA DOS DELITOS, REINCIDÊNCIA OU LONGA PENA A CUMPRIR. FUNDAMENTAÇÃO INIDÔNEA. PRECEDENTES. LEI N. 14.843/2024. NOVATIO LEGIS IN PEJUS. IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida liminarmente.
