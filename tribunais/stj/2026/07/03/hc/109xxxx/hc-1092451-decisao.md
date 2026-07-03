@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de KATIA SUELY PEREIRA MORAIS, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, em decorrência do julgamento da apelação criminal n. 0002200-93.2021.8.08.0050.
+Consta nos autos que a paciente foi inicialmente condenada pelo Juízo da 3ª Vara Criminal da Comarca de Viana à pena de 7 (sete) anos de reclusão, em regime inicial semiaberto, além de 700 (setecentos) dias-multa, por infração ao artigo 33, caput, da Lei n. 11.343/2006 (fls. 26-36).
+A defesa apelou ao Tribunal de Justiça do Estado do Espírito Santo, que negou provimento ao recurso (fls. 15-21).
+Na presente impetração, busca-se a concessão da ordem para: (i) neutralizar a valoração negativa dos antecedentes e das circunstâncias do crime, com a fixação da pena-base no mínimo legal; (ii) subsidiariamente, redimensionar a exasperação da pena-base pela fração de um sexto para cada vetorial negativa; (iii) fixar o regime inicial aberto; e (iv) substituir a pena privativa de liberdade por restritivas de direitos (fls. 12).
+O pedido de liminar foi indeferido (fl. 53).
+As informações foram prestadas (fls. 56-61 e 66-74).
+O Ministério Público Federal opinou pela concessão parcial da ordem para afastar a valoração negativa das circunstâncias do crime (fls. 80-85).
+É o relatório. DECIDO.
+A controvérsia consiste em uma possível ilegalidade flagrante, consubstanciada pela negativa ao afastamento da valoração negativa dos antecedentes e das circunstâncias do bem como ao redimensionamento da fração de exasperação da pena-base, com as consequências sobre o regime de cumprimento de pena.
+A impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Tendo em vista, contudo, a possibilidade de concessão da ordem de ofício, em observância ao §2º do artigo 654 do Código de Processo Penal, transcrevo os fundamentos empregados na decisão colegiada impugnada (fls. 15-21):
+ ..
+A pena-base foi fixada em 07 (sete) anos de reclusão pela valoração dos antecedentes e das circunstâncias do crime.
+Tenho que a culpabilidade da acusada comum ao tipo Os antecedentes são maculados, conforme certidão id. 65008142 e espelho de Guia em anexo, processo nº0002593-52.2020.8.08.0050, não sendo reincidente pois o trânsito em julgado se deu após os fatos aqui apurados; A conduta social da acusada, que abrange o comportamento da réu em grupo, não pode ser aferida em razão de ausência de elementos para tanto; a personalidade do agente, não pode ser aferida em razão da ausência de elementos técnicos que possibilite fazer a análise, eis que necessita de uma avaliação mais detida e apropriada de toda a vida da acusada, a começar pela infância; Os motivos do crime não restaram apurados; Circunstâncias do crime, graves já que a acusado trazia tinha em depósito variedade de drogas, dentre elas o crack , droga altamente nociva à saúde
+Os antecedentes foram corretamente valorados já que "a condenação por crime anterior à prática delitiva, com trânsito em julgado posterior à data do crime sob apuração, malgrado não configure reincidência, enseja a valoração negativa dos antecedentes do agente" (AgRg no HC n. 913.019/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/6/2024, D Je de 1/7/2024).
+De igual forma, a quantidade e variedade de drogas justificam o incremento da pena.
+Assim, na primeira fase, mantenho a pena-base em 07 (sete) anos de reclusão e 700 (setecentos) dias-multa, a qual torno definitiva ante a ausência de agravantes e atenuante e causas de aumento e diminuição de pena.
+Mantenho o regime inicial semiaberto.
+ ..
+Da leitura do acórdão impugnado, observo que não assiste razão ao impetrante.
+O Superior Tribunal de Justiça possui entendimento consolidado no sentido de admitir a valoração negativa dos antecedentes quando se tratar de condenação por fato anterior ao delito em exame, desde que o trânsito em julgado tenha ocorrido em momento posterior à prática da infração ora analisada. A esse respeito, cito o seguinte julgado:
+ ..
+2. Os maus antecedentes do paciente foram reconhecidos em virtude de condenação por fato anterior, datado de 16/10/2013, com trânsito em julgado em data posterior, ocorrido em 7/10/2019 (e-STJ, fl. 67), levando-se em conta que os fatos tratados nestes autos ocorreram em 29/9/2014 (e-STJ, fl. 9). Com efeito, não verifico ilegalidade a ser sanada no desvalor conferido a essa vetorial, pois nos termos da jurisprudência desta Corte de Justiça, a condenação definitiva por fato anterior ao crime descrito na denúncia, com trânsito em julgado posterior à data do ilícito de que ora se cuida, embora não configure a agravante da reincidência, pode caracterizar maus antecedentes e ensejar o acréscimo da pena-base
+ ..
+(AgRg no HC n. 924725/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/8/2024, DJe de 13/8/2024)
+De igual forma, não se constata qualquer ilegalidade na exasperação da pena-base fundada na quantidade e na natureza dos entorpecentes apreendidos, uma vez que tal valoração se insere no âmbito da discricionariedade vinculada do julgador. Cumpre salientar que a apreensão de 21 (vinte e uma) pedras de crack (fl. 26) não pode ser reputada ínfima, sobretudo em se tratando de substância de elevado potencial lesivo à saúde pública; ademais, verifica-se, no mesmo contexto fático, a apreensão de 27 (vinte e sete) porções de maconha, o que, em conjunto, legitima o recrudescimento da pena-base.
+No tocante à fração de aumento a ser aplicada na primeira fase da dosimetria, cumpre registrar que o réu não possui direito subjetivo à adoção de frações predeterminadas, como 1/6 (um sexto) da pena-base, 1/8 (um oitavo) do intervalo entre os limites mínimo e máximo cominados, ou qualquer outro critério matemático específico. Tais parâmetros não ostentam caráter vinculante, impondo-se apenas que o magistrado fundamente adequadamente a exasperação, observando os princípios da proporcionalidade e da razoabilidade na fixação da reprimenda. Nesse sentido:
+ ..
+1. A dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+ .. (AgRg no HC n. 872277/SP, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/2/2024, DJe de 14/2/2024.)
+Inalterada a pena, ficam prejudicados os demais pedidos.
+Portanto, não se constata a ocorrência de flagrante ilegalidade apta a autorizar a concessão da ordem, nos termos do § 2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
