@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por FRANCISCO CLAYTON MARTINS DO NASCIMENTO à decisão de fls. 1135/1136, que não conheceu do recurso.
+Sustenta a parte embargante:
+Com a devida vênia, tal conclusão merece integração, pois o Agravo em Recurso Especial enfrentou de forma direta os fundamentos da inadmissão, sustentando a inexistência de deficiência de fundamentação, a inaplicabilidade da Súmula 7/STJ, a existência de divergência jurisprudencial e a indevida aplicação da própria Súmula 284/STF.
+A defesa demonstrou, no agravo, que a controvérsia devolvida ao Superior Tribunal de Justiça não dependia de revolvimento fático-probatório, mas de controle jurídico da dosimetria da pena, especialmente quanto à fração aplicada por circunstância judicial desfavorável, à base de cálculo utilizada e ao emprego de fundamentos idênticos para valorar mais de uma vetorial.
+Também foi apontada a discussão relativa à aplicação cumulativa das causas de aumento previstas no art. 2º, §§ 2º e 4º, inciso I, da Lei n.º 12.850/2013, em confronto com a regra do art. 68, parágrafo único, do Código Penal, matéria de natureza jurídica e devidamente delimitada nas razões recursais.
+A omissão, portanto, consiste na ausência de exame do conteúdo efetivo do Agravo em Recurso Especial, pois a decisão embargada afirmou inexistir indicação dos dispositivos federais, sem enfrentar que a defesa havia apontado, de modo suficiente, os artigos de lei vinculados à tese de ilegalidade na dosimetria da pena.
+ ..
+No Recurso Especial, a defesa sustentou que o Tribunal de Justiça do Estado do Acre majorou a reprimenda mediante aplicação da fração de 1/4 por vetorial, com base em fundamentos genéricos e reiterados, especialmente a suposta vinculação ao Primeiro Comando da Capital, sem individualização concreta da conduta atribuída ao recorrente.
+A insurgência recursal não se limitou a inconformismo genérico com o resultado do julgamento, pois apontou vício jurídico específico na dosimetria, consistente na utilização de um mesmo fundamento para negativar circunstâncias judiciais distintas, em afronta ao critério de individualização da pena previsto no art. 59 do Código Penal.
+Além disso, o Recurso Especial também questionou a cumulação das majorantes previstas no art. 2º, §§ 2º e 4º, inciso I, da Lei n.º 12.850/2013, sustentando que, ausente fundamentação concreta para a incidência cumulativa, deveria ser observada a disciplina do art. 68, parágrafo único, do Código Penal.
+No Agravo em Recurso Especial, a defesa reiterou que a matéria era de direito, pois se restringia à legalidade do critério adotado na dosimetria, à proporcionalidade da fração de aumento, à vedação ao bis in idem e à adequada aplicação das causas de aumento em concurso. Dessa forma, a premissa adotada na decisão embargada  ausência de indicação precisa dos dispositivos violados  não corresponde ao conteúdo das peças recursais, pois os dispositivos federais estavam expressamente vinculados à tese defensiva e permitiam a exata compreensão da controvérsia.
+ ..
+A decisão deve ser integrada para que haja manifestação expressa sobre a suficiência da indicação do art. 59 do Código Penal, do art. 68, parágrafo único, do Código Penal, e do art. 2º, §§ 2º e 4º, inciso I, da Lei n.º 12.850/2013, todos relacionados à questão jurídica devolvida ao Colendo Superior Tribunal de Justiça. (fls. 1042/1043).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 619 do Código de Processo Penal, os Embargos de Declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado expressamente na decisão embargada incide a Súmula n. 284/STF, porquanto a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou objeto de divergência jurisprudencial.
+Em outras palavras, para que haja a admissão do Recurso Especial pela alínea "a" do permissivo constitucional - necessariamente - deve haver a indicação precisa dos dispositivos de lei federal violados e, pela alínea "c" do permissivo constitucional, deve haver a indicação precisa de quais dispositivos legais seriam objeto de dissídio interpretativo, não bastando, para ambos casos, a mera transcrição dos artigos legais.
+Neste ponto, impende salientar que a parte ora embargante, na petição do Recurso Especial, menciona genericamente alguns artigos sem, contudo, apontar especificamente se aqueles eram os artigos que considerava violado ou em que medida teria ocorrido a suposta violação.
+Ademais, no que se refere à suposta indicação dos artigos de lei violados na petição de agravo em recurso especial, impende salientar que se mostra inviável a indicação posterior do dispositivo violado na medida em que os requisitos do recurso especial necessariamente devem ser preenchidos em concomitância com a sua interposição.
+Observe que a parte embargante pretende o exame de mérito do Recurso Especial. Porém, esse exame restou prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente não conhecimento do recurso, que obstou a abertura desta instância superior e, portanto, a produção do efeito translativo.
+Desse modo, não há que se cogitar da ocorrência de omissão, pois o recurso sequer ultrapassou o juízo prévio de admissibilidade para que o mérito fosse apreciado.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRETENSÃO DE REEXAME E ADOÇÃO DE TESE DISTINTA. AUSÊNCIA DE VÍCIO NO JULGADO.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual se deveria pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+2. Na hipótese, não há irregularidade ensejadora dos embargos de declaração, uma vez que a causa foi satisfatoriamente decidida em consonância com a jurisprudência do Supremo Tribunal Federal.
+3. Conforme entendimento pacífico desta Corte de Justiça, não é omisso o acórdão que deixa de se manifestar sobre o mérito do recurso que não ultrapassou o juízo de admissibilidade.
+Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg no AREsp 1556938/RS, Rel. Ministro Humberto Martins, Corte Especial, DJe de 11.3.2021).
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 31.8.2020; AgInt no AREsp 1639930/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 3.8.2020; AgInt nos EDcl no AREsp 1342656/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 7.5.2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes Embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição ou omissão.
+Ante o exposto, rejeito os Embargos de Declaração.
+Publique-se.
+Intimem-se.
+ EMENTA
