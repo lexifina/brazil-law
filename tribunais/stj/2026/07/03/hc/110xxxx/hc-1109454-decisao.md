@@ -1,0 +1,19 @@
+DECISÃO
+LUCIOLA MARABINI EID alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1501275-85.2020.8.26.0396.
+Consta dos autos que a paciente foi condenada, definitivamente, pela prática do delito previsto no art. 171 do Código Penal, em continuidade delitiva, à pena de 2 anos e 4 meses de reclusão, no regime fechado, além do pagamento de 21 dias-multa, à razão mínima) (fls. 21-31).
+Nas razões deste writ, a defesa, liminarmente e no mérito, pugna por regime prisional mais favorável e substituição da pena privativa de liberdade por restritivas de direitos (fls. 2-20).
+Decido.
+É possível o avanço para a pronta solução do habeas corpus, com fundamento na jurisprudência desta Corte.
+A impetrante se insurge contra acórdão de apelação julgado em 17/11/2025. Em consulta realizada no sítio eletrônico do TJSP constata que o trânsito em julgado se deu em 12/6/2026.
+A título de acréscimo, observa-se, que no âmbito desta Corte Superior, consta o Resp n. 1509961/SP, autuado em 4/2/2015 e refere-se a crime diverso do ora em análise. Além disso, o processo foi baixado à origem.
+O presente writ foi impetrado em 25/6/2026 e fora do prazo legal para a interposição do recurso especial. Logo, está desprovido de dúvidas o caráter substitutivo de revisão criminal com a impetração do habeas corpus.
+Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+Importante destacar que esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal e assim se posiciona: "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg n. HC n. 805.183/SP, Rel. Ministro Teodoro Silva Santos, 6ª T., DJe 15/3/2024).
+Na mesma direção, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+A despeito da ampliação do uso do habeas corpus, e sem esquecer a sua importância na defesa da liberdade de locomoção, a crescente quantidade de impetrações, que, antes, deveriam ser examinadas em instâncias diversas, prejudica as funções constitucionais desta Corte, a fim de trazer uniformidade e previsibilidade ao sistema jurídico.
+Portanto, diante do manifesto caráter substitutivo recursal do presente writ, inviável seu processamento.
+Ainda que assim não fosse, o caso ora em apreço não comporta a concessão de ofício da ordem de habeas corpus. Trata-se de estelionato perpetrado contra vítimas beneficiadas pelo sistema previdenciário, a ré dispõe de maus antecedentes, as circunstâncias judiciais não são inteiramente favoráveis a ela que, por sua vez, é reincidente específica e os ofendidos foram pessoas idosas.
+Esta Corte Superior compreende ser " legítima a fixação do regime inicial fechado ao réu reincidente com circunstâncias judiciais desfavoráveis, mesmo com pena de até 4 anos, nos termos do art. 33, §§ 2º e 3º, do art. 59 do Código Penal e da Súmula n. 269/STJ" (AgRg no AREsp n. 3.181.001/SC, Rel. Ministra Nilsoni de Freitas (Desembargadora convocada do TJDFT), 6ª T., DJEN 23/6/2026).
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
