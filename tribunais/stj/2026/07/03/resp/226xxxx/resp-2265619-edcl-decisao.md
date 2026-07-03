@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por José Osmar Freire contra decisão de fls. 1.195/1.197 , em que se cassou a decisão de admissibilidade proferida na instância de origem de fls. 1.178/1.179, por error in procedendo, haja vista que o acórdão recorrido já observou o precedente vinculante firmado no Tema 103/STJ e a Primeira Vice-Presidência da Corte a quo inadmitiu o recurso especial sem cumprir o rito do art. 1.030, I, b, do CPC, quando lhe cabia negar seguimento ao apelo raro.
+Em suas razões, a parte embargante aduz, em resumo, que "a r. decisão merece ser aclarada, a fim de que se esclareça se, mesmo diante do questionamento acerca da incidência do art. 135 do CTN  uma vez que a eventual responsabilidade tributária, em tese, somente poderia decorrer da aplicação dos arts. 124, 128 e 134 do CTN, e não do referido dispositivo, circunstância que, inclusive, não se verifica nos autos  , ainda assim a tese firmada no Tema 103 do Superior Tribunal de Justiça seria apta a obstar a admissibilidade do recurso" (fl. 1.203).
+A parte embargada apresentou impugnação às fls. 1.212/1.214.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do decisum atacado ou, ainda, para corrigir erro material.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois a decisão enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, restou devidamente consignado que, na instância de origem, já houve a observância do precedente vinculante firmado no 103/STJ, com a realização do devido juízo de adequação pelo Tribunal de origem (fls. 1.095/1.110 e fls. 1.133/1.140).
+Reconheceu-se, ainda, que, embora a matéria inadmitida trazida no apelo extremo esteja intrinsecamente ligada ou atrelada à tratada no mencionado recurso representativo da controvérsia, a Presidência da Seção de Direito Público da Corte a quo inadmitiu o recurso especial sem cumprir o rito do art. 1.030, I, b do CPC, isto é, negar seguimento ao recurso especial quando o acórdão recorrido estiver em conformidade com o julgado repetitivo em relação àquele tema (conforme foi decidido pelo órgão colegiado do Tribunal de origem às fls. 1.095/1.110 e fls. 1.133/1.140)).
+Dessa forma, determinou-se a devolução dos autos à instância de origem para que seja realizado novo juízo de prelibação, observando o comando do art. 1.030, I, b, do CPC.
+Em verdade, o que se extrai das razões de embargos de declaração é a mera irresignação da parte com a decisão ora embargada, objetivando a reforma do decidido, o que, como cediço, não se coaduna com o recurso integrativo.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+(EDcl no REsp n. 1.978.532/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 11/3/2024, DJe de 15/3/2024.)
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
