@@ -1,0 +1,63 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por GERALDO JOSÉ SANTOS contra decisão que inadmitiu o recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, em desafio a acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE, assim ementado (fls. 196-197, e-STJ):
+APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. EMBARGOS À AÇÃO M O N I T Ó R I A REJEITADOS. PRELIMINARES DE ERROR IN PROCEDENDO E ERROR IN JUDICANDO QUE SE CONFUNDEM COM O MÉRITO, RAZÃO PELA QUAL SERÃO ANALISADOS CONJUNTAMENTE. PARTE RÉ ASSISTIDA PELA DEFENSORIA PÚBLICA DO ESTADO DE SERGIPE. EXCESSO NA EXECUÇÃO. PARTE EMBARGANTE QUE NÃO INDICOU O VALOR QUE ENTENDE CORRETO E NEM SEQUER APRESENTOU DEMONSTRATIVO DISCRIMINADO E ATUALIZADO DA DÍVIDA. INTELIGÊNCIA DO ART. 702, §§ 2º E 3º, DO CPC. PRECEDENTES DA JURISPRUDÊNCIA PÁTRIA E DESTE TRIBUNAL DE JUSTIÇA. SENTENÇA MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO. POR UNANIMIDADE.
+Nas razões de recurso especial (fls. 216-230, e-STJ), a parte recorrente sustentou violação aos arts. 156, 370 e 702, §2º, todos do Código de Processo Civil, defendendo a imprescindibilidade de prova pericial contábil quando a controvérsia envolve abusividade de encargos bancários; apontando o dever do magistrado de determinar, de ofício ou a requerimento, as provas necessárias ao julgamento do mérito em hipóteses que demandam conhecimento técnico;
+e alegando a impossibilidade de rejeição liminar dos embargos monitórios quando a defesa aponta abusividade de cláusulas contratuais com base em parâmetros públicos (taxa média do BACEN), reclamando dilação probatória.
+Apontou, ainda, divergência jurisprudencial.
+Contrarrazões apresentadas às fls. 236-238, e-STJ.
+Em sede de juízo provisório de admissibilidade, o Tribunal local inadmitiu o recurso especial (fls. 241-246, e-STJ), o que ensejou o manejo do presente agravo (fls. 254-264, e-STJ), buscando destrancar o processamento daquela insurgência.
+Contraminuta apresentada às fls. 266-273, e-STJ.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. No que diz respeito à alegada violação aos arts. 156 e 370 do CPC, a parte sustenta cerceamento de defesa, aduzindo que o acórdão deve ser reformado para que os embargos monitórios não sejam rejeitados liminarmente, viabilizando-se o regular processamento da defesa e a produção da prova pericial necessária à apuração da abusividade alegada.
+Todavia, o Tribunal de origem consignou que a parte "em nenhum momento requereu a realização de perícia contábil". Confira-se (e-STJ, fl. 207):
+Por fim, válido frisar, mais uma vez, que o executado/embargante/apelante defende que houve abusividade da taxa de juros contratada, que segundo o mesmo estaria acima da média de mercado. Todavia, não comprovou com prova técnica ou documental idônea, que a taxa contratada implicaria desequilíbrio contratual ou enriquecimento sem causa.
+Outrossim, mesmo se assim não fosse, em nenhum momento requereu a realização de perícia contábil, razão pela qual cai por terra sua tese recursal de error in judicando e error in procedendo.
+Nesse sentido, como esse fundamento é suficiente por si só para manter a conclusão do julgado, o qual não foi atacado de forma específica nas razões do recurso especial, incide, à hipótese, o comando da Súmula 283 do Supremo Tribunal Federal, por aplicação analógica.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. CAPITALIZAÇÃO DE JUROS. TAXA ANUAL SUPERIOR AO DUODÉCUPLO DA MENSAL. POSSIBILIDADE. PRECEDENTES. REVISÃO DAS PREMISSAS FÁTICAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. JUROS REMUNERATÓRIOS. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. AGRAVO INTERNO IMPROVIDO.
+(..)
+3. A ausência de impugnação específica sobre fundamento suficiente, que por si só, é capaz de manter a conclusão esposada no acórdão recorrido, configura deficiência na fundamentação e atrai a incidência das Súmulas 283 e 284 do STF.
+4. Agravo interno improvido.
+(AgInt no REsp n. 2.013.366/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/10/2022, DJe de 20/10/2022.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REGRESSIVA. RESSARCIMENTO DE DANOS. TRANSPORTE AÉREO DE MERCADORIA. AVARIA DE CARGA. ALEGAÇÃO DE DECADÊNCIA. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. LIMITAÇÃO DA RESPONSABILIDADE. POSSIBILIDADE. PREVALÊNCIA DA CONVENÇÃO DE MONTREAL. NECESSIDADE DE RETORNO DOS AUTOS À ORIGEM PARA ANÁLISE DE QUESTÃO FÁTICA. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. É inadmissível o recurso especial nas hipóteses em que o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. Aplicação analógica da Súmula 283 do STF.
+(..)
+(AgInt no AREsp n. 1.636.421/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/10/2022, DJe de 21/10/2022.)
+2. Quanto à alegada ofensa ao 702, § 2º, a pretensão recursal também não prospera.
+No caso, o Tribunal de origem identificou que os embargos à monitória estavam fundados em alegação de excesso de execução, mas a parte embargante não declarou o valor que entendia correto nem apresentou o demonstrativo discriminado e atualizado da dívida, descumprindo o requisito mandamental do art. 702, § 2º, do CPC.
+Confira-se (fl. 201):
+Sabe-se que a Ação Monitória é um procedimento de cognição sumária, cujo objetivo primário é o alcance de título executivo, de forma antecipada, sem a necessidade do processo de conhecimento. A finalidade do procedimento monitório, entretanto, não é só a formação de um título executivo, mas também a consecução do direito tido como lesado, ou seja, o cumprimento da obrigação inadimplida voluntariamente e representada pela "prova escrita". Prevê ainda o CPC que, em caso de discordância com as alegações contidas na inicial da monitória, após expedido o mandado de pagamento, de entrega de coisa ou para execução de obrigação de fazer ou de não fazer, poderá o réu apresentar embargos monitórios, independentemente de segurança do juízo (CPC, art. 702).
+De acordo com a sentença a parte executada/embargante não cumpriu o determinado no art. 702, §2º, do CPC. Vejamos o que diz o referido artigo:
+Art. 702. Independentemente de prévia segurança do juízo, o réu poderá opor, nos próprios autos, no prazo previsto no art. 701 , embargos à ação monitória.
+§ 1º Os embargos podem se fundar em matéria passível de alegação como defesa no procedimento comum.
+§ 2º Quando o réu alegar que o autor pleiteia quantia superior à devida, cumprir-lhe-á declarar de imediato o valor que entende correto, apresentando demonstrativo discriminado e atualizado da dívida.
+§ 3º Não apontado o valor correto ou não apresentado o demonstrativo, os embargos serão liminarmente rejeitados, se esse for o seu único fundamento, e, se houver outro fundamento, os embargos serão processados, mas o juiz deixará de examinar a alegação de excesso.
+Verificando o contido nos embargos monitórios, observa-se que a sentença deve ser mantida, uma vez que, em que pese alegar que o valor cobrado no presente processo se mostra excessivo, a parte ré, ora apelante não aponta o valor correto a ser cobrado, nem tampouco traz ao processo demonstrativo discriminado e atualizado da dívida. Registre-se que o excesso no valor cobrado, ainda que trazido sob a alegação de abusividade de cláusula contratual acerca dos juros remuneratórios é o único fundamento dos embargos monitórios, e, em assim sendo, outra solução não há, senão a rejeição liminar da peça de defesa.
+A jurisprudência do STJ é firme no sentido de que "No caso dos embargos à monitória fundados em excesso de execução, a apresentação de demonstrativo de cálculo e a indicação do valor incontroverso constituem pressupostos processuais específicos de admissibilidade da defesa (embargos), impostos por norma cogente (art. 702, §§ 2º e 3º, do CPC). A ausência desses requisitos enseja a rejeição liminar dos embargos, matéria que, por afetar a própria regularidade da constituição e desenvolvimento válido do processo de embargos, pode a instância ordinária dela conhecer de ofício a qualquer tempo e grau de jurisdição." (AREsp n. 2.858.590/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 16/3/2026, DJEN de 20/3/2026.)
+Confira-se:
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. EMBARGOS. EXCESSO DE EXECUÇÃO. AUSÊNCIA DE MEMÓRIA DE CÁLCULO E INDICAÇÃO DO VALOR INCONTROVERSO. ART. 702, §§ 2º E 3º, DO CPC. MATÉRIA DE ORDEM PÚBLICA. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 1.009 E 1.013 DO CPC. AGRAVO CONHECIDO E RECURSO NÃO PROVIDO.
+1. O efeito translativo do recurso de apelação permite ao Tribunal o conhecimento de ofício de matérias de ordem pública, tais como pressupostos processuais e condições da ação, ainda que não suscitadas em razões recursais.
+2. A ausência de apresentação de demonstrativo de cálculo e de indicação do valor incontroverso nos embargos à monitória, conforme exigido pelo art. 702, §§ 2º e 3º, do CPC, evidencia carência de pressuposto processual específico de admissibilidade da defesa e en seja a rejeição liminar dos embargos.
+3. Agravo conhecido e recurso não provido.
+(AREsp n. 2.858.590/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 16/3/2026, DJEN de 20/3/2026.)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À MONITÓRIA. ALEGAÇÃO DE EXCESSO DE EXECUÇÃO. NECESSIDADE DE INDICAÇÃO DO VALOR INCONTROVERSO E DE APRESENTAÇÃO DE DEMONSTRATIVO DISCRIMINADO E ATUALIZADO DO CÁLCULO. PROVAS DOCUMENTAIS HÁBEIS À COMPROVAÇÃO DO DIREITO DO AUTOR. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Consoante entendimento desta Corte Superior, nos embargos por excesso de execução, exige-se a indicação do valor incontroverso e a apresentação de demonstrativo discriminado e atualizado do cálculo, sob pena de rejeição liminar. Precedentes.
+2. No caso, o Tribunal de origem concluiu que houve a juntada aos autos de documentos suficientes à instrução da ação monitória e à verificação dos encargos pactuados, que demonstram de forma inequívoca a existência do débito. A modificação desse entendimento demandaria o revolvimento do conjunto fático-probatório dos autos, providência que encontra óbice na Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 3.068.499/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 30/3/2026, DJEN de 8/4/2026.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL CONVERTIDA EM AÇÃO MONITÓRIA - EMBARGOS MONITÓRIOS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO RÉU.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação aos artigos 489 e 1022 do CPC/15.
+Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta. Precedentes.
+2. Para afastar a conclusão do Tribunal de origem no sentido de que não há como reconhecer a prescrição, ante a ausência de desídia da exequente, seria necessário promover o reexame do acervo fático-probatório dos autos, providência vedada na via eleita, a teor do óbice da Súmula 7 do STJ.
+3. Conforme entendimento desta Corte, é inviável o conhecimento de alegação de excesso de execução em embargos do devedor ou à monitória nas hipóteses em que o embargante não indica o valor que entende correto mediante memória de cálculo, limitando-se a formular alegações genéricas acerca da incorreção do montante executado. Súmula 83/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.548.933/BA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 30/9/2024, DJe de 3/10/2024.)
+O acórdão recorrido está em conformidade com a jurisprudência desta Corte Superior sobre o tema, razão pela qual incide a súmula 83 do STJ.
+Ademais, rever o entendimento adotado pelo Tribunal de origem na espécie, demandaria o reexame do contexto fático-probatório dos autos, vedado em sede de recurso especial, nos termos da Súmula 7/STJ.
+3. Do exposto, com fundamento no art. 932 do Código de Processo Civil c/c Súmula 568/STJ, conheço do agravo para negar provimento ao recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
