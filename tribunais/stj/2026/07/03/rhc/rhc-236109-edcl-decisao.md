@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MADONNA ISABELLA WEBBER SALDANHA DA SILVA contra decisão de fls. 88-91 (e-STJ) que não conheceu o recurso em habeas corpus.
+Neste recurso, o embargante sustenta, em síntese, a existência de omissão quanto ao pedido principal, voltado a determinar que o TJRS conhecesse da impetração originária e analisasse o seu mérito.
+Aponta a inadequação do não conhecimento do writ pelo TJRS e defende a aplicação do princípio da fungibilidade recursal, por falta de tempo hábil para interposição de correção parcial quanto aos atos coatores do evento 303 (dispensa da ouvida da testemunha Gilberto de Almeida) e do evento 375 (reconhecimento de abandono processual e negativa de juntada das mídias), com fundamento no artigo 579 do CPP e no artigo 195, § 2º, do COJE/RS.
+Aduz a existência de constrangimento ilegal direto à liberdade, em razão: (i) do indeferimento da ouvida de testemunha urgente (Gilberto de Almeida), cuja ouvida havia sido inicialmente ferida em audiência e depois dispensada de forma contraditória; (ii) da não juntada, nos automóveis eletrônicos, das comunicações de câmeras de segurança que embasaram uma denúncia, com risco de integridade, fidedignidade e qualidade dos dados se apenas disponibilizados em cartório; (iii) fazer reconhecimento indevido de abandono processual, apesar de manifestação defensiva e da vontade expressa da recorrente de manutenção de seus patronos.
+Afirma a demonstração do perigo na demora, tendo em vista o risco de apresentação de memoriais por defensor não eleito e de perpetuação de nulidades processuais, inclusive quanto ao prazo aberto no eproc para questões finais pela DPE até 09/04/2026.
+Pleiteia o acolhimento dos embargos declaratórios para sanar o vício apontado. Pugna, ainda, pela concessão de liminar para suspender o trâmite da ação penal (e-STJ, fl. 103).
+É o relatório.
+Decido.
+Os embargos merecem ser acolhidos.
+Consoante disposto no art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente em julgado.
+No mesmo sentido, esta Corte possui entendimento de que "são cabíveis embargos declaratórios quando houver, na decisão embargada, contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e pela jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado" (EDcl no AgRg no RHC n. 163.279/RS, relator Ministro Jesuíno Rissato (desembargador Convocado do Tjdft), Quinta Turma, DJe de 30/5/2022).
+Da análise dos autos, observa-se que a decisão embargada incidiu em omissão, quanto ao pleito de retorno dos autos ao Tribunal de origem.
+No caso, a decisão embargada consignou que o Tribunal de origem não analisou as questões suscitadas pela defesa no julgamento do writ originário, razão pela qual sua apreciação direta por esta Corte Superior fica obstada, sob pena de se incorrer em indevida supressão de instância.
+Ocorre que a defesa formulou pedido a fim de determinar ao Tribunal de Justiça do Rio Grande do Sul que conhecesse do habeas corpus originário e analisasse o mérito da impetração, ainda que como correição parcial.
+Com efeito, o writ originário não foi conhecido sob o entendimento de que não cabe habeas corpus como sucedâneo de correição parcial.
+Apesar de a jurisprudência desta Corte já ter julgados no sentido de, embora realmente não se admita a impetração de habeas corpus substitutivo do recurso próprio, caberia ao órgão julgador aferir a existência de eventual coação ilegal imposta ao paciente, a justificar a concessão da ordem, de ofício, note-se que, em consulta ao sítio eletrônico do Tribunal de origem, foi proferida decisão de pronúncia em 24/6/2026, novo título apto a ser atacado pelo sistema recursal próprio .
+Ante o exposto, acolho os embargos de declaração apenas para sanar a omissão, sem atribuição de efeitos infringentes.
+Publique-se. Intimem-se.
+EMENTA
