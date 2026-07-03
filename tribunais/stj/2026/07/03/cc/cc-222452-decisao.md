@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o Juízo Federal da 1ª Vara do Juizado Especial Cível de Marília - SJ/SP em face do Juízo de Direito da 2ª Vara Cível de Marília - SP, nos autos de ação de repactuação de dívidas por superendividamento proposta por Marcela Aparecida Cassachia Franco contra a Caixa Econômica Federal (CEF), Vemcard Participações S. A. e Banco Digimais S. A..
+A demanda foi inicialmente proposta no Juízo de Direito da 2ª Vara Cível de Marília - SP,, que declinou de sua competência para a Justiça Federal.
+Encaminhados os autos ao Juízo Federal da 1ª Vara do Juizado Especial Cível de Marília - SJ/SP, foi suscitado o presente conflito negativo de competência.
+O Ministério Público Federal opinou pela competência da Justiça estadual (fls. 277-282).
+É o relatório.
+Cinge-se a controvérsia à competência para processar e julgar ação de obrigação de fazer ajuizada contra a Caixa Econômica Federal (CEF), Vemcard Participações S. A. e Banco Digimais S. A., em que pretende a limitação dos descontos de empréstimo consignado.
+De acordo com reiterados precedentes do Superior Tribunal de Justiça, as ações de repactuação de dívidas por superendividamento têm natureza concursal, razão pela qual não se submetem à regra de competência da Justiça Federal, ainda que a Caixa Econômica Federal esteja no polo passivo.
+Nesse sentido, "considerando a natureza concursal, compete à Justiça estadual ou distrital conhecer do processo de superendividamento previsto nos arts. 104-A e 104-B do Código de Defesa do Consumidor, com a redação da Lei n. 14.181/2021, e julgá-lo, ainda que um ente federal integre o polo passivo, tratando-se de exceção ao art. 109, I, da Constituição Federal" (CC 192.140/DF, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 10/5/2023, DJe de 16/5/2023).
+A esse respeito:
+CONFLITO DE COMPETÊNCIA - CÓDIGO DE DEFESA DO CONSUMIDOR - AÇÃO DE REPACTUAÇÃO DE DÍVIDAS - SUPERENDIVIDAMENTO - CONCURSO DE CREDORES PREVISTO NOS ARTIGOS 104-A, B E C, DO CDC, NA REDAÇÃO CONFERIDA PELA LEI 14.181/21 - POLO PASSIVO COMPOSTO POR DIVERSOS CREDORES BANCÁRIOS, DENTRE ELES, A CAIXA ECONÔMICA FEDERAL - EXCEÇÃO À REGRA DE COMPETÊNCIA PREVISTA NO ART. 109, I, DA CF/88 - EXEGESE DO COL. SUPREMO TRIBUNAL FEDERAL DEFINIDA EM REPERCUSSÃO GERAL - DECLARAÇÃO DE COMPETÊNCIA DA JUSTIÇA COMUM DO DISTRITO FEDERAL.
+1. O Superior Tribunal de Justiça é competente para o conhecimento e processamento do presente incidente, pois apresenta controvérsia acerca do exercício da jurisdição entre juízos vinculados a Tribunais diversos, nos termos do artigo 105, I, "d", da Constituição Federal.
+2. A discussão subjacente ao conflito consiste na declaração do juízo competente para o processar e julgar ação de repactuação de dívidas decorrentes do superendividamento do consumidor, em que é parte, além de outras instituições financeiras privadas, a Caixa Econômica Federal.
+3. A alteração promovida no Código de Defesa do Consumidor, por meio do normativo legal n.º 14.181/2021, de 1º de julho de 2021, supriu lacuna legislativa a fim de oferecer à pessoa física, em situação de vulnerabilidade (superendividamento), a possibilidade de, perante seus credores, rediscutir, repactuar e, finalmente, cumprir suas obrigações contratuais/financeiras.
+4. Cabe à Justiça comum estadual e/ou distrital processar e julgar as demandas oriundas de ações de repactuação de dívidas decorrentes de superendividamento - ainda que exista interesse de ente federal - porquanto a exegese do art. 109, I, do texto maior, deve ser teleológica de forma a alcançar, na exceção da competência da Justiça Federal, as hipóteses em que existe o concurso de credores.
+5. Conflito conhecido para declarar a competência do r. juízo comum do Distrito Federal e Territórios para processar e julgar a ação de repactuação de dívidas por superendividamento, recomendando-se ao respectivo juízo, ante à delicada condição de saúde do interessado, a máxima brevidade no exame do feito.
+(CC n. 193.066/DF, relator Ministro Marco Buzzi, Segunda Seção, julgado em 22/3/2023, DJe de 31/3/2023.)
+Confiram-se, na mesma linha, as seguintes decisões monocráticas: CC n. 217.705, Ministro Paulo Sérgio Domingues, DJEN de 26/11/2025; CC n. 217.029, Ministro Gurgel de Faria, DJEN de 26/11/2025; e CC n. 215.339, Ministro Afrânio Vilela, DJEN de 15/10/2025.
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da 2ª Vara Cível de Marília - SP.
+Publique-se.
+Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. LIMITAÇÃO DE DESCONTOS. SERVIDOR PÚBLICO. SUPERENDIVIDAMENTO. POLO PASSIVO COMPOSTO POR DIVERSOS CREDORES BANCÁRIOS, INCLUSIVE A CAIXA ECONÔMICA FEDERAL. EXCEÇÃO À REGRA GERAL. COMPETÊNCIA DA JUSTIÇA ESTADUAL. PRECEDENTES.
