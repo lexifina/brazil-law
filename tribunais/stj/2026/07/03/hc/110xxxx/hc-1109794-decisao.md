@@ -1,0 +1,19 @@
+DECISÃO
+MATHEUS PEREIRA DA SILVA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO na Apelação Criminal n. 5001563-77.2024.4.03.6144.
+Neste writ, a defesa pleiteia, liminarmente e no mérito, a reforma da dosimetria do delito de roubo.
+Afirma que a pena-base deve ser fixada no mínimo legal ou, subsidiariamente, exasperada na fração mínima.
+Sustenta que não incide a causa de aumento por restrição da liberdade, pois o tempo de privação teria sido apenas o necessário à consumação do delito.
+Aduz, ainda, que a premeditação não se confunde com mera predisposição e que o alegado "terror psicológico" não foi demonstrado por elementos concretos.
+Alega que a restrição foi rápida, com deslocamento inferior a 1 km, insuficiente para caracterizar o exigido pelo tipo circunstanciado.
+Decido.
+O caso comporta o julgamento antecipado, visto que se adequa a recente orientação desta Corte acerca do não cabimento do habeas corpus substitutivo de recurso próprio, notadamente quando a defesa pleiteia, ao fim e ao cabo, a desconstituição da sentença condenatória.
+Com efeito, compulsando os autos, observa-se que a defesa se insurge contra acórdão de apelação que transitou em julgado em 11/6/2026 - conforme consulta realizada por essa relatoria ao andamento processual perante a Corte estadual - e não há notícia de que foi ajuizado pedido de revisão criminal.
+Esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024).
+Apesar da ampliação do uso do remédio heroico, e sem esquecer a sua importância na defesa da liberdade de locomoção, a crescente quantidade de impetrações que, antes, deveriam ser examinadas em instâncias diversas, está prejudicando as funções constitucionais desta Corte. É notável o excessivo volume de habeas corpus, que ultrapassaram 905 mil, em detrimento da eficácia do recurso especial ou da revisão criminal, o que prejudica a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico.
+Assim, o impetrante deve apresentar o pedido cabível à autoridade competente a revisão da condenação, sobretudo se considerado que o pedido de revisão da dosimetria se funda em providências incompatíveis com a apreciação de provas pré-constituídas em habeas corpus, de análise imediata.
+Menciono, por oportuno:
+ ..  depois de já transitada em julgado a condenação, revela-se inviável, notadamente diante da incompetência deste Superior Tribunal para analisar habeas corpus substitutivo de revisão criminal, tendente a reapreciar o posicionamento exarado por Colegiado estadual  ..  (AgRg no HC n. 713.747/SP, relator Ministro Rogerio Schietti, Sexta Turma, DJe 24/2/2022)
+Na mesma direção, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, relatora Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, relator Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, relator Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, não conheço in limine, do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
