@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de CLEUVER MATHEUS DE PAULA RODRIGUES, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado definitivamente como incurso no art. 33, caput, da Lei n. 11.343/2006, às penas de a 2 anos e 6 meses de reclusão, em regime inicial semiaberto, e 250 dias-multa, no valor mínimo unitário, com substituição por pena restritiva de direitos, além de 10 dias-multa.
+O Tribunal estadual julgou improcedente a revisão criminal.
+Neste writ, a impetrante alega constrangimento ilegal decorrente da condenação lastreada em prova ilícita, derivada de violação de domicílio, já que inexistentes mandado judicial, fundadas razões ou autorização do morador. Subsidiariamente, afirma ser o caso de aplicação da minorante do § 4º do art. 33 da Lei n. 11.343/2006 na fração máxima de 2/3, já que a quantidade de drogas não foi expressiva.
+Requer a absolvição do paciente ou a redução da pena na fração de 2/3 pelo tráfico privilegiado.
+É o relatório.
+Decido.
+Preliminarmente, observa-se que a defesa busca desconstituir condenação acobertada pela coisa julgada, o que confere a este habeas corpus nítidas características revisionais.
+Todavia, a esta Corte cabe tão somente a revisão criminal dos seus próprios julgados, de acordo com o art. 105, inciso I, alínea e, da Constituição Federal. Ademais, uma vez priorizando o uso racional do habeas corpus e a sistemática recursal estabelecida pelo CPP, o Supremo Tribunal Federal e o Superior Tribunal de Justiça não tem admitido o habeas corpus substitutivo de recurso próprio, ressalvadas as hipóteses de manifesta ilegalidade no ato judicial impugnado.
+No caso, da leitura atenta do acórdão impugnado, não se identifica o manifesto constrangimento sustentado pela defesa quanto à busca domiciliar, tendo as instâncias ordinárias consignado a existência de fundadas razões para o ingresso domiciliar, destacando que "A operação que suprimiu o tráfico praticado pelo acusado apresentou-se regular e conforme a lei, sendo certo que, a partir dos elementos de prova produzidos, os policiais presenciaram o acusado em clara e evidente prática de comercialização de drogas, confirmando as denúncias preexistentes, além de localizarem no interior de sua residência as porções de entorpecentes, maconha e cocaína." (e-|STJ, fl. 27). Ademais, a genitora do paciente autorizou o ingressos dos policiais no domicílio (e-STJ, fl .19).
+Na mesma toada, quanto à dosimetria da pena, nota-se que a fração de 1/2 foi aplicada em razão da quantidade e natureza de drogas apreendidas no caso concreto - 32 cápsulas plásticas com cocaína, uma porção maior da mesma droga envolta em plástico, 20 papelotes de maconha, uma porção maior da mesma droga e 23 pedras de crack - que não se mostra desproporcional.
+Por tais razões, deixo de conhecer do habeas corpus.
+Nesse sentido : AgRg no HC n. 940.391/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/3/2025, DJEN de 24/3/2025; AgRg no HC n. 958.212/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/3/2025, DJEN de 19/3/2025; AgRg no HC n. 961.564/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 5/3/2025, DJEN de 11/3/2025.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
