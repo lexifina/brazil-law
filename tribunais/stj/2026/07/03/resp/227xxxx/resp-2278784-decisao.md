@@ -1,0 +1,30 @@
+DECISÃO
+Examina-se recurso especial interposto por NOTRE DAME INTERMÉDICA SAÚDE S.A, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 13/1/2026.
+Concluso ao gabinete em: 11/6/2026.
+Ação: declaratória de inexistência de débito, ajuizada por V.V.M. BENICIO, em face de NOTREDAME INTERMEDICA SAÚDE S/A, na qual requer a rescisão do contrato a partir de 19/5/2025 e a declaração de inexigibilidade das mensalidades posteriores.
+Sentença: julgou procedentes os pedidos, para: i) confirmar a liminar; ii) declarar inexistentes os débitos relativos ao aviso prévio contratual; iii) declarar rescindido o contrato a partir de 19/5/2025.
+Acórdão: negou provimento ao recurso de apelação interposto por NOTRE DAME INTERMÉDICA SAÚDE S.A, nos termos da seguinte ementa:
+PLANO DE SAÚDE. RESILIÇÃO DO CONTRATO PELA BENEFICIÁRIA. Discussão sobre a cobrança de valor de aviso prévio de 60 dias. Inexigibilidade do débito. Cláusula nula de pleno direito. Período em que não houve qualquer prestação de serviço a justificar a cobrança de valor contraprestacional. Precedentes do TJSP e do STJ. Sentença de procedência do pedido integralmente mantida. Recurso da ré desprovido. (e-STJ fl. 812)
+Recurso especial: alega violação dos arts. 421 e 422 do CC. Afirma que a cláusula contratual de aviso prévio de 60 dias para rescisão é válida e deve ser observada, por força da autonomia privada e da função social dos contratos. Aduz que, entre o pedido de rescisão e sua efetivação, subsiste a prestação dos serviços e, por conseguinte, a obrigação de pagamento, afastando a pecha de abusividade. Argumenta que a RN 557/2022, ao replicar a necessidade de estipular condições de rescisão no instrumento contratual, afasta a conclusão de ilegalidade do aviso prévio, que estaria regularmente pactuado.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 568 do STJ
+O TJ/SP ao julgar o recurso de apelação interposto pela parte recorrente, concluiu o seguinte:
+Na hipótese, a beneficiária do plano de saúde pediu o cancelamento e não houve prestação de serviços no período a justificar uma cobrança de valor contraprestacional.
+Além disso, não se infere óbice, em tese, para a empresa prestadora de serviço quanto à providência de cessar, desde então, no caso, a contar do requerimento de cancelamento, os efeitos do contrato, seja quanto à prestação de serviços, seja com relação à obrigação da parte contrária.
+Não se verifica que tal proceder implicaria, de alguma forma, em desequilíbrio contratual.
+Ademais, como já se decidiu neste Egrégio Tribunal de Justiça de São Paulo:
+Direito civil e consumidor. Apelação cível. Plano de saúde coletivo empresarial. Cláusula de aviso prévio de 60 dias para cancelamento contratual. Nulidade da cláusula de aviso prévio de 60 dias. Abusividade reconhecida. Recurso desprovido. I. Caso em exame 1. Apelação cível interposta pela ré contra sentença que julgou procedente ação para declarar inexigível a cobrança de mensalidades após pedido de cancelamento de plano de saúde coletivo empresarial e considerar rescindido o contrato na data solicitada pela parte autora. II. Questão em discussão 2. A questão em discussão consiste em definir se é válida a cláusula contratual que impõe aviso prévio de 60 dias para rescisão de contrato coletivo empresarial de plano de saúde, legitimando a cobrança de mensalidade após a solicitação de cancelamento. III. Razões de decidir 3. Nulidade da cláusula do contrato que prevê aviso prévio de 60 dias para cancelamento. Violação da liberdade de escolha do consumidor e vantagem excessiva à operadora. O artigo 17, parágrafo único da RN 195/2009 que foi invalidado em ação civil pública. RN nº 455/2020 emitida pela ANS dando efetivo cumprimento à decisão proferida na ação coletiva, anulando o parágrafo único da RN nº 195/2009. RN nº 455/2020 revogada pela RN 557/2022, na qual ausente previsão análoga à contida no parágrafo único do art. 17 da RN 195/2009. Ausência de vedação regulamentar expressa da prática que não a autoriza. Abusividade reconhecida. Decisão judicial proferida na Ação Civil Pública nº. 0136265-83.2013.4.02.5101, que deve ser prestigiada. 4. A cobrança de mensalidade posterior à data do cancelamento (09/11/2024) é inexigível, pois o plano já não estava ativo. IV. Dispositivo 5. Apelação cível conhecida e desprovida.
+(e-STJ fls. 815-817, grifos no original)
+Da análise dos trechos acima, constata-se que a decisão do TJ/SP está alinhada com a jurisprudência do STJ no sentido de que é abusiva a cláusula fundamentada no parágrafo único do art. 17 da RN nº 195/2009 da ANS, que impõe a exigência de aviso prévio de 60 dias para o cancelamento de contratos de planos de saúde.
+Nesse sentido: REsp n. 2.268.757/SP, Quarta Turma, DJEN de 19/6/2026; AgInt no REsp n. 2.236.410/SP, Terceira Turma, DJEN de 18/6/2026; REsp n. 2.218.243/SP, Quarta Turma, DJEN de 19/12/2025; AREsp n. 3.028.075/SC, Terceira Turma, DJEN de 27/11/2025; REsp n. 2.225.949/SP, Terceira Turma, DJEN de 25/9/2025.
+Assim, com fundamento na Súmula 568/STJ, o recurso não deve ser provido.
+Forte nessas razões, com fundamento no art. 932, IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 2% (dois pro cento) sobre o valor da causa.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO DA SAÚDE. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO. SAÚDE SUPLEMENTAR. CLÁUSULA DE AVISO PRÉVIO DE 60 DIAS. ABUSIVIDADE.
+1. Ação declaratória de inexistência de débito.
+2. Consoante jurisprudência do STJ, é abusiva a cláusula que estabelece exigência de aviso prévio de 60 dias para o cancelamento de contratos de planos de saúde.
+3. Recurso especial conhecido e não provido.
