@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de VERONICA BORGES RESENDE, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, em decorrência do julgamento do habeas corpus criminal n. 1.0000.26.148148-5/000.
+Consta nos autos que a paciente teve a prisão em flagrante homologada e convertida em preventiva pelo Juízo da 1ª Vara Criminal da Comarca de Uberaba, pela suposta prática dos crimes capitulados no artigo 2º-A da Lei 7.716/1989, c/c artigo 21, da Lei de Contravenções Penais e artigos 147, 321 e 331, todos do Código Penal.
+A defesa impetrou habeas corpus no Tribunal de Justiça do Estado de Minas Gerais, que denegou a ordem (fls. 13- 45).
+Na presente impetração, busca-se a concessão da ordem para: (i) relaxar a prisão por violência policial e ilegalidade da abordagem sem policial feminina, em violação ao artigo 249 do Código de Processo Penal; (ii) revogar a prisão preventiva por ausência de periculum libertatis e suficiência de medidas cautelares; e (iii) subsidiariamente conceder liberdade provisória com medidas cautelares.
+Pedido de liminar indeferido às fls. 245-246.
+Informações prestadas às fls. 249-279. Juntada de petição às fls. 296-297.
+O Ministério Público Federal manifestou, às fls. 286-293, pela "denegação da ordem".
+É o relatório. DECIDO.
+Primeiramente, no que tange a alegação de violência policial e ilegalidade da abordagem sem policial feminina, o Tribunal de origem manifestou:
+"a paciente alega ter sido vítima de uso desproporcional de força policial, sustentando não ter oferecido resistência à abordagem. Contudo, tal narrativa diverge dos depoimentos colhidos de policiais e testemunhas, que descrevem a paciente em estado de exaltação e agressividade. Segundo os relatos, ela teria proferido ofensas verbais e agredido fisicamente a vítima. Adicionalmente, foram registrados danos materiais de grande monta tanto no interior quanto no exterior do veículo da vítima, corroborando o comportamento hostil apresentado no momento da custódia"- fl. 21.
+Ir contrário ao decidido pelo tribunal a quo demendaria revolvimento fático- probatório inviável na via estreita do habeas corpus.
+A propósito:
+" Impossibilidade de se percorrer o acervo fático-probatório dos autos de origem neste writ, como forma de desconstituir as conclusões das instâncias ordinárias, soberanas na análise dos fatos e provas, providência inviável, como consabido, de ser realizada dentro dos estreitos limites do habeas corpus, que não admite dilação probatória" (AgRg no HC n. 779.337/SE, Minha relatoria, Quinta Turma, DJe de 31/8/2023.)
+In casu, ao contrário do afirmado pela defesa, extrai-se que a segregação cautelar da paciente está devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para garantia da ordem pública, notadamente pela forma na qual o delito foi em tese praticado:"expressivos prejuízos patrimoniais à vítima e a prática de gravíssimas ofensas de cunho racial, em ação de verdadeiro crime de ódio, observa-se que esta não é a primeira vez que a autuada se envolve na prática de atos contrários ao ordenamento, na medida em que já foi presa em flagrante delito no ano de 2018. Por outro lado, embora seja tecnicamente primária, coleciona anotações por infrações como ameaça, lesão corporal, e delitos de outra natureza, tendo inclusive celebrado transação penal em data recente"- fl. 93.
+Destaca-se a jurisprudência deste Superior Tribunal de Justiça:
+"A gravidade em concreto do crime e a periculosidade do agente, evidenciada pelo modus operandi, constituem fundamentação idônea para a decretação da custódia preventiva" (AgRg no HC n. 889.696/GO, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 18/4/2024.)
+Outrossim, conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública. Nesse sentido: AgRg no HC n. 910.540/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/7/2024; AgRg no HC n. 902.557/SP, Sexta Turma; Rel. Min. Antonio Saldanha Palheiro, DJe de 3/7/2024 e AgRg no HC n. 912.267/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 28/6/2024.
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão se há nos autos elementos hábeis a recomendar a manutenção de sua custó dia cautelar, o que ocorre na hipótese.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem -se.
+EMENTA
