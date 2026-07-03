@@ -1,0 +1,54 @@
+EMBARGOS DE DECLARAÇÃO           NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. DECISÃO ANTERIORMENTE PROFERIDA PELA PRESIDÊNCIA DO SUPREMO TRIBUNAL FEDERAL QUE DETERMINOU A DEVOLUÇÃO DO FEITO AO TRIBUNAL DE ORIGEM PARA APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL QUANTO À MATÉRIA RELATIVA AO TEMA 899 E NEGOU SEGUIMENTO AO  AGRAVO QUANTO ÀS QUESTÕES REMANESCENTES. OCORRÊNCIA DE TRÂNSITO EM JULGADO QUANTO ÀS QUESTÕES REMANESCENTES. DECISÃO DE ADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. APLICAÇÃO DE PRECEDENTE DESTA CORTE PROFERIDO NA SISTEMÁTICA DE REPERCUSSÃO GERAL - TEMA 899. NEGATIVA DE SEGUIMENTO COM FUNDAMENTO NO ARTIGO 1.030, INCISO I, DO CÓDIGO DE PROCESSO CIVIL. AGRAVO INTERNO INTERPOSTO E DESPROVIDO PELO TRIBUNAL DE ORIGEM. INTERPOSIÇÃO DE AGRAVO. DESCABIMENTO. EMBARGOS DE DECLARAÇÃO PARCIALMENTE PROVIDOS APENAS PARA FINS DE ESCLARECIMENTO, SEM EFEITOS MODIFICATIVOS QUANTO AO NÃO CONHECIMENTO DO AGRAVO INTERPOSTO.
+
+DECISÃO: Trata-se de embargos de declaração opostos por Renato Nunes de Oliveira Junior contra decisão monocrática de minha lavra, cuja ementa possui o seguinte teor:
+
+“RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PROCESSUAL CIVIL. DECISÃO ANTERIORMENTE PROFERIDA PELA PRESIDÊNCIA DO SUPREMO TRIBUNAL FEDERAL QUE DETERMINOU A DEVOLUÇÃO DO FEITO AO TRIBUNAL DE ORIGEM PARA APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL QUANTO À MATÉRIA RELATIVA AO TEMA 899 E NEGOU SEGUIMENTO AO  AGRAVO QUANTO ÀS QUESTÕES REMANESCENTES. OCORRÊNCIA DE TRÂNSITO EM JULGADO QUANTO ÀS QUESTÕES REMANESCENTES. AGRAVO NÃO CONHECIDO.” (Doc. 158, p. 1)
+
+A parte ora embargante alega, em síntese, a existência de contradição e omissão na mencionada decisão.
+Afirma que, ao “determinar o retorno dos autos à origem para o juízo de retratação (art. 1.030, II, do CPC) unicamente sobre o tema da prescrição, o STF, na prática, cindindo o julgamento, criou dois destinos processuais distintos: 1. Um para as ‘questões remanescentes’ (nulidades, etc.): Cujo recurso foi negado e, de fato, transitou em julgado. 2. Outro, específico e apartado, para a questão da prescrição: Que voltou a ser discutida, resultou em um novo acórdão (negativo de retratação), ensejou um novo Recurso Extraordinário (Doc. 138) e, posteriormente, o Agravo (Doc. 148) ora em análise.” (Doc. 159, p. 2-3)
+Alega ser contraditório “que um ato processual desta Corte (a devolução para retratação) garanta a sobrevida de uma discussão jurídica específica, para que, ao final, outra decisão desta mesma Corte ignore esse fato e aplique a essa discussão o trânsito em julgado de outra” (Doc. 159, p. 3).
+Sustenta que, “como consequência direta da contradição apontada, a decisão embargada tornou-se omissa sobre o ponto nevrálgico que o Agravo buscava submeter a este Tribunal: a autonomia da matéria prescricional e a impossibilidade de ser contaminada pela coisa julgada de temas diversos” (Doc. 159, p. 3).
+Salienta que “não pedia o reexame das ‘questões remanescentes’, mas sim o julgamento de uma questão autônoma: a prescrição” (Doc. 159, p. 3).
+Requer, ao final, o provimento dos presentes embargos declaratórios para “a) Sanar a contradição apontada, reconhecendo que a matéria da prescrição, por ter seguido itinerário processual autônomo, não foi atingida pela coisa julgada”; e “b) Sanar a omissão verificada, manifestando-se expressamente sobre a impossibilidade de extensão da coisa julgada operada sobre temas diversos à questão prescricional sub judice” (Doc. 159, p. 4-5).
+É o relatório. DECIDO.
+Merece acolhida a pretensão da parte ora embargante apenas para fins de esclarecimento, sem efeitos modificativos quanto ao não conhecimento do agravo.
+Conforme devidamente consignado na decisão ora embargada, quanto às questões remanescentes, a Presidência desta Suprema Corte, em 19/12/2024, negou seguimento ao agravo anteriormente interposto por  Renato Nunes de Oliveira Junior (Doc. 117), em decisão que transitou em julgado em 25/02/2025 (Doc. 127).
+Quanto à questão da prescrição, verifica-se que, in casu, a Vice-Presidência do Tribunal Regional Federal da 4ª Região negou seguimento ao recurso extraordinário (Doc. 138) com base no Tema 899 da Repercussão Geral e inadmitiu-o em relação às questões remanescentes (Doc. 140).
+Renato Nunes de Oliveira Junior interpôs, então, agravo (Doc. 148) e agravo interno (Doc. 149), o qual foi desprovido pela 2ª Seção do Tribunal Regional Federal da 4ª Região (Doc. 155).
+Assevere-se que o recurso de agravo é inadmissível contra decisão que aplica a sistemática da repercussão geral. Nesse sentido:
+
+“Questão de Ordem. Repercussão Geral. Inadmissibilidade de agravo de instrumento ou reclamação da decisão que aplica entendimento desta Corte aos processos múltiplos. Competência do Tribunal de origem. Conversão do agravo de instrumento em agravo regimental.
+1. Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3º do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral.
+2. Ao decretar o prejuízo de recurso ou exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria, de forma que a remessa dos autos individualmente ao STF apenas se justificará, nos termos da lei, na hipótese em que houver expressa negativa de retratação.
+3. A maior ou menor aplicabilidade aos processos múltiplos do quanto assentado pela Suprema Corte ao julgar o mérito das matérias com repercussão geral dependerá da abrangência da questão constitucional decidida.
+4. Agravo de instrumento que se converte em agravo regimental, a ser decidido pelo tribunal de origem.” (Agravo de Instrumento 760.358-QO, Rel. Min. Gilmar Mendes, Plenário, DJe de 19/02/2010)
+
+“AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. DECISÃO DO TRIBUNAL A QUO QUE APLICA A SISTEMÁTICA DA REPERCUSSÃO GERAL (ART. 543-B DO CPC). DESCABIMENTO DO AGRAVO PREVISTO NO ART. 544 DO CPC. CABIMENTO DE AGRAVO REGIMENTAL (OU INTERNO) PARA A ORIGEM. IMPOSSIBILIDADE DE CONVERSÃO EM AGRAVO REGIMENTAL. ACÓRDÃO RECORRIDO PUBLICADO APÓS 19.11.2009.
+É pacífico o entendimento desta Corte de que, por não se cuidar de juízo negativo de admissibilidade de recurso extraordinário, não é cabível o agravo previsto no art. 544 do Código de Processo Civil, para atacar decisão de Presidente de Tribunal ou Turma Recursal de origem que aplique a sistemática da repercussão geral.
+A parte que queira impugnar decisão monocrática de Presidente de Tribunal ou de Turma Recursal de origem, proferida nos termos do art. 543-B do CPC, deve fazê-lo por meio de agravo regimental (ou interno).
+Inaplicável a conversão do presente recurso em agravo regimental a ser apreciado pela origem, já que a jurisprudência desta Corte já fixou entendimento de que após 19.11.2009, data em que julgado o AI 760.358-QO, a interposição do agravo previsto no art. 544 do CPC configura erro grosseiro.
+Agravo regimental a que se nega provimento.” (Recurso Extraordinário com Agravo 761.661-AgR, Rel. Min. Joaquim Barbosa, Plenário, DJe de 28/04/2014)
+
+Em casos como este, somente é cabível a interposição de agravo interno no Tribunal a quo, nos termos do artigo 1.030, § 2º, do Código de Processo Civil, que foi devidamente interposto pela parte ora agravante (Doc. 149) e desprovido pela 2ª Seção do Tribunal Regional Federal da 4ª Região (Doc. 155). Nesse sentido, à guisa de exemplo, foram os seguintes julgados:
+
+“AGRAVO REGIMENTAL NA RECLAMAÇÃO. PROCESSUAL CIVIL. APLICAÇÃO DO ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL FIRMADO EM SEDE DE REPERCUSSÃO GERAL NO TEMA 451. (CPC/2015, ART. 1.030, I). ALEGADA USURPAÇÃO DA COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. ALEGADA VIOLAÇÃO À SÚMULA 727. INOCORRÊNCIA. INADEQUAÇÃO DO MEIO RECURSAL UTILIZADO, POR ADMISSÍVEL, NA ESPÉCIE, UNICAMENTE O RECURSO DE AGRAVO INTERNO (CPC/2015, ART. 1.030, § 2º). PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.” (Reclamação 29.491-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe de 17/09/2018, destaquei)
+
+“Agravo regimental na reclamação. Negativa de seguimento a recurso extraordinário com fundamento no Tema nº 660 de repercussão geral (ARE nº 748371/MT-RG). Recurso extraordinário com agravo. Não conhecimento pelo Tribunal a quo. Ausência de usurpação de competência do STF. Artigo 1.042, caput, parte final, do CPC/15. Agravo regimental não provido.
+1. Não cabe recurso de agravo contra decisão com que o órgão de origem, fundado em entendimento firmado em regime de repercussão geral, não admite recurso extraordinário (CPC/15, art. 1.042, caput, parte final).
+2. Compete ao órgão colegiado ao qual pertence o juízo prolator do despacho de inadmissibilidade de recurso extraordinário na origem (CPC-2015, art. 1.021, caput) proceder, em sede de agravo interno, à análise de adequação entre o teor do provimento concedido pelo órgão de origem acerca do tema constitucional destacado no recurso extraordinário e a tese de repercussão geral firmada pela Suprema Corte (CPC/2015, art. 1.029, § 1º c/c o art. 1.030, § 2º).
+3. Agravo regimental não provido.” (Reclamação 25.078-AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe de 21/02/2017, destaquei)
+
+“Agravo regimental no recurso extraordinário com agravo. Processual Civil. Aplicação da sistemática da repercussão geral pelo juízo de origem. Recurso cabível. Agravo interno (art. 1.030, § 2º, do CPC). Agravo ao tribunal superior (art. 1.042 do CPC). Recurso manifestamente incabível. Precedentes.
+1. Segundo a firme jurisprudência do Supremo Tribunal Federal, não cabe recurso ou outro instrumento processual na Corte contra decisão do juízo de origem em que se aplique a sistemática da repercussão geral.
+2. Essa orientação está consolidada no Código de Processo Civil de 2015, que prevê, como instrumento processual adequado contra a aplicação do instituto da repercussão geral, a interposição de agravo interno perante o próprio tribunal de origem (art. 1.030, § 2º, do CPC).
+3. Agravo regimental não provido.” (Recurso Extraordinário com Agravo 1.278.628-AgR, Rel. Min. Dias Toffoli, Plenário, DJe de 17/09/2020, destaquei)
+
+Conclui-se, dessa forma, que, após o exame da existência de repercussão geral da matéria versada em recurso extraordinário, pelo Supremo Tribunal Federal, compete às Cortes de origem a aplicação da decisão aos demais casos, motivo pelo qual é manifestamente incabível o agravo nesse ponto específico - Tema 899 da Repercussão Geral.
+Destarte, constata-se que nada mais há que prover no presente feito.
+Ex positis, PROVEJO PARCIALMENTE os EMBARGOS DE DECLARAÇÃO apenas para fins de esclarecimento, sem efeitos modificativos quanto ao NÃO CONHECIMENTO DO AGRAVO interposto (Doc. 148).
+Publique-se.
+Brasília, 3 de julho de 2026.
+
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
