@@ -1,0 +1,93 @@
+DECISÃO
+MARCIO LEANDRO MAGALINI alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo em Execução n. 0011357-70.2025.8.26.0496.
+A defesa aduz, em síntese, que o paciente cumpre pena privativa de liberdade de forma sucessiva e ininterrupta desde 6/4/2009 e que, por ocasião da digitalização e da migração dos PECs físicos para o sistema digital, foram inseridas nos cálculos de liquidação de pena interrupções fictícias de 2 anos e 2 dias, para fins de progressão de regime, e de 13 anos, 7 meses e 8 dias, para fins de livramento condicional.
+Sustenta que tais interrupções não decorrem de nenhuma hipótese legalmente prevista (como fuga ou outra falta grave), mas de mera reorganização processual. Aponta violação da Súmula n. 441 do Superior Tribunal de Justiça - STJ, do princípio da legalidade e da vedação ao excesso de execução.
+Assevera que o próprio acórdão impugnado reconhece a linearidade da execução desde 2009.
+Requer a exclusão das interrupções dos cálculos de progressão de regime e de livramento condicional, com a expedição de novo cálculo de liquidação de pena (fls. 2-9).
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (fls. 101-104).
+Decido.
+I. Contextualização
+Marcio Leandro Magalini foi condenado às penas totais de 22 anos, 5 meses e 4 dias de reclusão, com término previsto para 5/12/2044.
+No curso da execução, verificou-se que o sentenciado tinha PECs em tramitação física perante a 1ª Vara do Júri e Execuções Criminais de Ribeirão Preto - SP, concomitantemente a outros em meio digital.
+Diante da superveniência de nova condenação em regime inicial fechado, o Juízo da 1ª Vara do Júri e Execuções Criminais daquela Comarca unificou as penas para cumprimento no regime fechado e determinou a digitalização dos autos físicos e a redistribuição ao DEECRIM 6ª RAJ.
+A decisão foi proferida com os seguintes argumentos (fls. 23-24, destaques no original):
+ ..
+Consoante se depreende dos autos, o sentenciado, cumprindo pena em regime semiaberto (execuções ns. 8, 9, 10 e 11), sofreu nova condenação, à pena privativa de liberdade, em regime inicial fechado (execução n. 0020810.64.2022). Tendo em vista a divergência de regimes impostos, e a inviabilidade do cumprimento de pena em regimes diversos, UNIFICO para cumprimento no REGIME FECHADO, as penas impostas ao sentenciado Márcio Leandro Magalini, MTR: 304733-9, RJI: 170115515-69, recolhido junto à Penitenciária de Ribeirão Preto, nos termos dos artigos 111 e 118, da Lei de Execução Penal. Atualizem-se os cálculos de liquidação de penas.
+ ..
+Após a digitalização dos autos físicos, junte-se o presente expediente aos autos digitalizados e, em razão do local da prisão do sentenciado (Penitenciária de Ribeirão Preto), proceda-se sua redistribuição ao Juízo competente (Deecrim UR6), consoante item 10.4.2 do Comunicado supracitado.
+ .. .
+Posteriormente, naquele mesmo juízo da Comarca de Ribeirão Preto - SP houve o seguinte despacho (fl. 50, destaques no original):
+ ..
+Os autos vieram conclusos com a informação de cadastramento de novo PEC n. 24975-57.2022, em regime fechado, estando o sentenciado preso no(a) Penitenciária de Ribeirão Preto.
+O cadastramento foi realizado por este Juízo em razão da existência de execução criminal física (n. 716.673) em andamento.
+Tendo em vista que os cálculos referem-se apenas às execuções migradas; após, eventual soma da nova condenação, os lapsos para livramento condicional e progressão de regime serão atualizados.
+Tendo em vista a digitalização da referida execução física para tramitação integral digital, nos termos do item 10.4.2 do Comunicado Conjunto n. 575/2022, redistribuam-se os autos ao juízo competente (Deecrim UR6).
+ .. .
+Diante da migração dos PECs físicos, o DEECRIM 6ª RAJ atualizou os cálculos de liquidação de pena com a inserção de anotações de interrupção.
+A defesa requereu a retificação, pedido que o juízo da execução penal indeferiu nos seguintes termos (fl. 62, destaques no original):
+ ..
+O cálculo de pena elaborado encontra-se correto, pois em conformidade com os acontecimentos processuais e com as normas de regência. No tocante ao pedido formulado pela defesa (fls. 790-791), embora na resposta ao ofício enviado tenha constado somente que os PECs haviam sido cancelados (fls. 736-737), verifico que o cancelamento ocorreu em razão do cumprimento da pena privativa de liberdade, como se verifica no print abaixo.
+ .. .
+O Tribunal de origem negou provimento ao agravo em execução interposto pela defesa, mantendo as anotações de interrupção nos cálculos (fls. 11-13).
+O acórdão apontado como coator foi assim ementado (fl. 11):
+AGRAVO EM EXECUÇÃO. Cálculos da execução. Decisão que indeferiu o pedido de retificação dos cálculos apresentado pela defesa, o qual pretendia a exclusão das anotações dos períodos de interrupção que constam no cálculo dos lapsos necessários à concessão de benefícios. Sentenciado que apresentava execuções em meio físico que tramitaram concomitantemente a outras em meio digital. Anotação da interrupção que se justifica para evitar o cumprimento simultâneo de pena de execuções distintas. Cálculos que se apresentam corretos. Recurso desprovido.
+Constou no voto do relator (fls. 12-13):
+ ..
+Em que pese a argumentação defensiva, verifica-se que os cálculos estão corretos. Não se nega que o sentenciado de fato se encontre em cumprimento de pena ininterruptamente desde meados de 2009, como corretamente afirmado. Entretanto, nota-se que, por certo período, coexistiram cumprimentos de pena em autos físicos e digitais.
+Em relação aos PECs que tramitavam em meio físico, muito embora a resposta ao ofício tenha mencionado o seu cancelamento, verifica-se que houve a extinção dos processos pelo cumprimento regular da pena.
+Diante deste contexto, a fim de regularizar os cálculos, foram inseridas as anotações de interrupção nos cálculos dos lapsos para a obtenção de benefícios, medida que se revelou necessária a fim de evitar que os cálculos chancelassem o cumprimento simultâneo de penas cadastradas em execuções físicas e digitais.
+Neste sentido, correto o lançamento das interrupções nos cálculos pois referentes a períodos em que cumpriu pena em execuções distintas e já extintas, conforme reconhecido pelo juízo a quo:  ..
+II. Ilegalidade das interrupções fictícias nos cálculos de pena
+A questão central é saber se a migração de autos (PECs) físicos para o meio digital pode gerar interrupções nos cálculos de liquidação de pena, em especial no lapso destinado ao livramento condicional.
+A resposta é negativa.
+O princípio da legalidade, previsto no art. 5º, II e XXXIX, da Constituição Federal, impõe que, na execução penal, somente as hipóteses expressamente contempladas em lei possam gerar a interrupção do cômputo de períodos necessários à obtenção de benefícios.
+A Lei de Execução Penal prevê hipóteses taxativas: a prática de falta grave, nos termos do art. 112, § 6º, e a fuga, nos termos do art. 118, II. Em nenhum de seus dispositivos há autorização para a desconsideração de tempo efetivamente cumprido com base em reorganização processual, migração de autos ou coexistência formal de execuções em meio físico e digital.
+Esta Corte Superior já assentou que a ausência de previsão legal torna ilegítima qualquer interrupção do lapso temporal para a obtenção de benefícios executórios:
+EXECUÇÃO PENAL. HABEAS CORPUS. FALTA DISCIPLINAR DE NATUREZA GRAVE. NULIDADE DO PAD. MATÉRIA NÃO APRECIADA NA ORIGEM. NÃO CONHECIMENTO. INTERRUPÇÃO DO LAPSO TEMPORAL PARA A CONCESSÃO DE BENEFÍCIOS. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL. REGRESSÃO DE REGIME E PERDA DOS DIAS REMIDOS. POSSIBILIDADE. ORDEM PARCIALMENTE CONCEDIDA.
+1. Não se conhece, sob pena de supressão de instância, da alegação de nulidade do PAD, por falta de defesa técnica (advogado), onde se apura falta grave, se não foi a matéria decidida pelo acórdão em xeque.
+2. Fere o princípio da legalidade a interrupção do lapso temporal para a concessão de benefícios, em razão do cometimento de falta disciplinar de natureza grave, diante da ausência de previsão legal para tanto.
+3. O cometimento de falta grave (celular no presídio) rende ensejo à perda dos dias remidos e à regressão de regime, conforme iterativa jurisprudência desta corte.
+4. Ordem parcialmente conhecida e nesta parte concedida apenas para afastar a interrupção da contagem do lapso temporal para a concessão de benefícios inerentes à execução penal.
+(HC n. 179.175/RS, relatora Ministra Maria Thereza de Assis Moura, 6ª T., DJe de 29/11/2010, destaquei.)
+Na época do julgado acima (2010) havia discussão jurisprudencial sobre o fato de a falta grave interromper ou não o lapso temporal, o que veio a se consolidar pela caracterização da interrupção com a edição da Súmula 534 do STJ (2015). Mas o que importa efetivamente no julgado é o argumento de não se poder criar marcos interruptivos sem previsão legal.
+O raciocínio se aprofunda com a Súmula n. 441 do Superior Tribunal de Justiça: "A falta grave não interrompe o prazo para obtenção de livramento condicional."
+Se a própria falta grave (fato jurídico expressamente descrito na Lei de Execução Penal, apurado em procedimento formal com observância do contraditório e da ampla defesa) não pode interromper o lapso para o livramento condicional, com muito mais razão não pode fazê-lo uma interrupção de natureza meramente burocrática, desprovida de qualquer suporte normativo.
+A interpretação chancelada pelo Tribunal de origem produz resultado mais gravoso do que aquele que a jurisprudência desta Corte Superior expressamente veda. A propósito:
+AGRAVO REGIMENTAL. HABEAS CORPUS. UNIFICAÇÃO DE PENAS. PROGRESSÃO DE REGIME E LIVRAMENTO CONDICIONAL. MODIFICAÇÃO DA DATA-BASE. AUSÊNCIA DE PREVISÃO LEGAL. EXCESSO DE EXECUÇÃO. CONSTRANGIMENTO ILEGAL. INEXISTÊNCIA DE NOVOS FUNDAMENTOS CAPAZES DE MODIFICAR A DECISÃO IMPUGNADA. AGRAVO IMPROVIDO.
+1. Segundo o entendimento jurisprudencial deste Superior Tribunal de Justiça, a modificação de decisão, por meio de agravo regimental, requer a apresentação de novos fundamentos capazes de alterar o posicionamento anteriormente firmado.
+2. No caso em exame, o Ministério Público Federal insurge-se contra decisão proferida por esta relatoria, a qual reconheceu a existência de constrangimento ilegal no acórdão objurgado e concedeu habeas corpus de ofício para determinar como marco inicial para benefícios, após a unificação das penas, a data da última prisão.
+3. A Terceira Seção deste Superior Tribunal de Justiça, em recente mudança jurisprudencial acerca do tema, oriundo do julgamento do REsp n. 1.557.461/SC, firmou o entendimento de que o marco para novos benefícios deve ser a data da última prisão, quando ocorre a unificação por fatos anteriores à execução. Contudo, a interrupção só ocorre para a progressão de regime, não abrangendo o livramento condicional, a comutação e o indulto. Precedentes.
+4. Agravo improvido.
+(AgRg no HC n. 499.329/SP, relator Ministro Jorge Mussi, 5ª T., DJe de 1º/7/2019, destaquei.)
+O argumento central das instâncias ordinárias consistiu na necessidade de evitar o cômputo simultâneo de penas em execuções distintas.
+O próprio acórdão impugnado, porém, reconheceu expressamente que o paciente estava em cumprimento de pena ininterrupto desde meados de 2009.
+Não existiu execução simultânea, pois as penas foram cumpridas de forma sucessiva e os autos físicos foram extintos pelo próprio cumprimento regular das reprimendas.
+A interrupção lançada nos cálculos não preveniu distorção alguma; ao contrário, criou-a, por haver suprimido artificialmente períodos já cumpridos.
+A situação guarda analogia com a superveniência de nova condenação no curso da execução, que enseja a unificação das penas.
+Esta Corte Superior firmou o entendimento de que a unificação não autoriza a alteração da data-base para a concessão de novos benefícios executórios, porquanto inexiste previsão legal para tanto. A desconsideração do período de cumprimento de pena anteriormente acumulado configura excesso de execução:
+AGRAVO REGIMENTAL. HABEAS CORPUS. UNIFICAÇÃO DE PENAS. BENEFÍCIOS EXECUTÓRIOS. MODIFICAÇÃO DA DATA-BASE. AUSÊNCIA DE PREVISÃO LEGAL. EXCESSO DE EXECUÇÃO. CONSTRANGIMENTO ILEGAL. NOVOS FUNDAMENTOS. INEXISTÊNCIA.
+1. Segundo o entendimento vigente neste Superior Tribunal de Justiça, a modificação de decisão por meio de agravo regimental requer a apresentação de novos fundamentos capazes de alterar o posicionamento anteriormente firmado.
+2. No caso em exame, o Ministério Público Federal insurge-se contra decisão proferida por esta relatoria, no julgamento monocrático de habeas corpus impetrado nesta Corte Superior, a qual reconheceu a existência de constrangimento ilegal decorrente da alteração da data-base para concessão de benefícios prisionais após a unificação das penas.
+3. Embora esta Corte Superior possuísse o entendimento firmado no sentido de que, sobrevindo nova condenação aos autos e reformulado o cálculo das penas, o marco inicial para concessão de futuros benefícios executórios passaria a ser a data do trânsito em julgado da última sentença condenatória, a Terceira Seção deste Sodalício  ao julgar o REsp n. 1.557.461/SC, de relatoria do Ministro Rogério Schietti Cruz, e o Habeas Corpus n. 381.248/MG, com Relator para o acórdão o Ministro Sebastião Reis Júnior  revisando a jurisprudência aplicada ao tema, modificou seu posicionamento, passando a considerar constrangimento ilegal a referida alteração.
+4. Nos termos da atual jurisprudência vigente nesta Corte Superior, embora a superveniência de nova condenação aos autos enseje a unificação das reprimendas para fins de execução, inexiste previsão legal para alteração da data-base exigida para deferimento de benesses prisionais, constituindo excesso de execução a fixação do trânsito em julgado do último édito condenatório como marco inicial para obtenção de benefícios executórios. Precedentes.
+5. Agravo improvido.
+(AgRg no HC n. 443.369/RS, relator Ministro Jorge Mussi, 5ª T., DJe de 28/6/2018, destaquei.)
+No mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DE SENTENÇA CONDENATÓRIA. TERMO A QUO PARA CONCESSÃO DE NOVOS BENEFÍCIOS. REGISTRO DE INFRAÇÃO DISCIPLINAR. IMPOSIÇÃO DE NOVA DATA-BASE. SÚMULA N. 534 DO STJ. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A superveniência de nova condenação no curso da execução penal enseja a unificação das reprimendas impostas ao reeducando. Caso o quantum obtido após o somatório torne incabível o regime atual, está o condenado sujeito a regressão a regime de cumprimento de pena mais gravoso, consoante inteligência dos arts. 111, parágrafo único, e 118, II, da Lei de Execução Penal.
+2. A alteração da data-base para concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal. Portanto, a desconsideração do período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado depois e já apontado como falta disciplinar grave, configura excesso de execução.
+3. O entendimento jurisprudencial incidente na hipótese deu origem ao texto do Enunciado Sumular n. 534 do STJ, segundo o qual " a  prática da falta grave interrompe a contagem do prazo para a progressão de regime de cumprimento de pena, o qual se reinicia a partir do cometimento dessa infração".
+4. Agravo regimental não provido.
+(AgRg no RHC n. 169.094/AL, relator Ministro Rogerio Schietti Cruz, 6ª T., DJe de 6/10/2022, destaquei.)
+A migração de autos (PECs) físicos para o meio digital é operação de índole exclusivamente técnico-administrativa, de relevância jurídica ainda menor do que a própria unificação formal de penas.
+Se nem mesmo a unificação pode atingir a data-base para benefícios, com mais razão a mera transposição de autos físicos para o suporte digital não pode suprimir períodos de pena efetivamente cumpridos.
+Converter falha administrativa em sanção ao sentenciado contraria a lógica elementar do ordenamento jurídico-penal e o Tema Repetitivo n. 1.106 deste Superior Tribunal.
+O Ministério Público Federal, em sua manifestação (fls. 101-104), indicou, como aplicável ao caso, o REsp n. 2.059.311/RJ (relatora Ministra Daniela Teixeira, 5ª T., DJEN de 23/12/2024), segundo o qual o ordenamento jurídico brasileiro não admite a execução simultânea de penas privativas de liberdade, e o art. 111 da Lei de Execução Penal deve ser observado para a fixação do termo inicial da nova execução. O precedente, porém, não se aplica ao caso concreto.
+Naquele julgado, o debate versou sobre situação fática genuinamente diversa. O sentenciado, em pleno período de prova do livramento condicional, havia sido preso preventivamente em razão de novo delito, com real sobreposição de dois marcos jurídicos distintos (o período de prova e a nova cautelar).
+No presente caso, não existiu sobreposição de nenhuma espécie. As penas de Marcio Leandro Magalini foram cumpridas de forma sucessiva e ininterrupta desde 6/4/2009, conforme reconhecido pelo próprio acórdão impugnado. Os autos (PECs) físicos foram regularmente extintos pelo cumprimento das respectivas reprimendas. A migração para o meio digital é fato exclusivamente administrativo, sem relevância jurídica autônoma capaz de retroagir e suprimir períodos de pena já cumpridos.
+III. Dispositivo
+À vista do exposto, concedo a ordem de habeas corpus para determinar ao Juízo da execução penal da Comarca de Ribeirão Preto - SP (DEECRIM 6ª RAJ) que proceda à exclusão das interrupções de ordem meramente administrativa lançadas nos cálculos de liquidação de pena do paciente (de 2 anos e 2 dias, para fins de progressão de regime, e de 13 anos, 7 meses e 8 dias, para fins de livramento condicional), com a elaboração de novo cálculo de liquidação de pena, preservadas, nesse, as consequências jurídicas da falta grave reconhecida em 12/11/2020 para fins exclusivos de progressão de regime.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para providências determinadas.
+Oficie-se ao Grupo de Monitoramento e Fiscalização do Sistema Carcerário do Tribunal de Justiça do Estado de São Paulo (GMF TJSP) para que avalie a necessidade de constituição de equipe para verificação da correção nos lançamentos de cumprimentos de pena naquele juízo d a execução penal (DEECRIM 6ª RAJ), em especial quando das migrações de autos físicos para o meio digital. Encaminhe-se cópia da presente decisão.
+Publique-se e intimem-se.
+EMENTA
