@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de EDSON BARRETO DA SILVA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em decorrência do julgamento da apelação criminal n. 0105334-87.2011.8.26.0050.
+Consta nos autos que o paciente foi inicialmente condenado pelo Juízo da 5ª Vara Criminal da Comarca de São Paulo à pena de 26 (vinte e seis) anos e 8 (oito) meses de reclusão, em regime inicial fechado, além de 13 (treze) dias-multa, pela prática dos crimes previstos no artigo 157, § 2º, incisos I e II (por três vezes), combinado com o artigo 29, e no artigo 157, § 3º, parte final, combinado com o artigo 14, inciso II, e artigo 29 (por duas vezes), todos do Código Penal, na forma do artigo 71, parágrafo único (fls. 56-66).
+A defesa apelou ao Tribunal de Justiça do Estado de São Paulo, que deu parcial provimento ao recurso para redimensionar a pena, mantendo-a em 26 (vinte e seis) anos e 8 (oito) meses de reclusão, preservados os demais termos da sentença (fls. 25-47), sobrevindo o trânsito em julgado.
+A defesa impetrou o HC n. 1109721-SP perante o Superior Tribunal de Justiça, no qual buscava a concessão da ordem para: (i) reduzir a fração de aumento decorrente da continuidade delitiva ao patamar de um quarto, incidente sobre a pena do crime mais grave; e (ii) conceder, liminarmente, prisão domiciliar com monitoração eletrônica. O referido pedido liminar foi indeferido (fls. 154-154, HC n. 1109721-SP).
+Nesta impetração, busca-se a concessão da ordem para: (i) reduzir a fração de aumento da continuidade delitiva para um quarto, incidente sobre a pena do crime mais grave; e (ii) conceder, em sede liminar, prisão domiciliar com monitoração eletrônica ao paciente (fls. 2-24).
+É o relatório. DECIDO.
+A pretensão deduzida pelo impetrante caracteriza reiteração de pedido previamente submetido ao Superior Tribunal de Justiça por ocasião do julgamento do HC n. 1109721-SP, indeferido liminarmente por ter sido manejado em substituição à revisão criminal, sem que se verificasse a presença de constrangimento ilegal ou teratologia.
+A impetração evidencia o propósito de dupla apreciação da mesma controvérsia, o que não é admitido pela jurisprudência do Superior Tribunal de Justiça. Com efeito, os pedidos formulados nesta ação reproduzem aqueles já deduzidos no HC n. 1109721-SP, sem a demonstração de fato novo apto a justificar nova análise da matéria.
+A esse respeito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. WRIT INDEFERIDO LIMINARMENTE. MATÉRIA PREVIAMENTE E EXAUSTIVAMENTE ANALISADA NO HC N. 849.414-SP. REITERAÇÃO DE PEDIDOS. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I - Os pleitos ora veiculados já foram anteriormente submetidos à apreciação desta Corte, tendo sido julgados no âmbito do HC n. 849.414-SP, não havendo ilegalidade no não conhecimento do writ em razão da reiteração de pedidos.
+II - Consoante artigo 210 do Regimento Interno do STJ, bem como nos moldes da jurisprudência desta Corte Superior, quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, tal qual ocorreu no presente caso, o relator o indeferirá liminarmente, não havendo ilegalidade a ser sanada quanto ao ponto.
+Agravo regimental desprovido.
+(AgRg no HC n. 894.011/SP, minha relatoria, Quinta Turma, julgado em 17/6/2024, DJe de 20/6/2024.)
+O artigo 210 do Regimento Interno do Superior Tribunal de Justiça autoriza o relator a indeferir liminarmente o habeas corpus quando se tratar de reiteração de outro anteriormente impetrado com os mesmos fundamentos, hipótese configurada nos presentes autos.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
