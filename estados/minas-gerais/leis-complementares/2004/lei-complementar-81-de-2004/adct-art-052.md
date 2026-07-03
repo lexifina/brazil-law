@@ -1,0 +1,1 @@
+Art. 52 - O cargo de provimento em comissão de recrutamento limitado lotado em procuradoria de autarquia ou fundação pública poderá ser ocupado por Procurador do Estado, indicado pelo Advogado-Geral do Estado, mediante nomeação do Governador do Estado.

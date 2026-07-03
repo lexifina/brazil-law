@@ -1,0 +1,1 @@
+Art. 45 - A Advocacia-Geral do Estado manterá estágio profissional remunerado para acadêmicos de Direito selecionados mediante processo seletivo simplificado, na forma que dispuser resolução do Advogado-Geral do Estado.

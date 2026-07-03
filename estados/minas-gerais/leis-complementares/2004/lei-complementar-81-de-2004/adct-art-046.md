@@ -1,0 +1,1 @@
+Art. 46 - Os servidores que, na data de publicação desta lei complementar, forem ocupantes dos cargos de provimento efetivo de que tratam os arts. 42 e 43 serão enquadrados na estrutura estabelecida no Anexo I, conforme a tabela de correlação constante no Anexo II.

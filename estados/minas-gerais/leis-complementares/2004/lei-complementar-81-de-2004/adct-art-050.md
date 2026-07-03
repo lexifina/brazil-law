@@ -1,0 +1,4 @@
+Art. 50 - Os atos de posicionamento dos servidores efetivos decorrentes do enquadramento de que trata o art. 46 somente ocorrerão após a publicação da lei que estabelecer a tabela de vencimento básico das carreiras instituídas por esta lei complementar, bem como do decreto a que se refere o art. 49.
+§ 1º - Os atos a que se refere o caput deste artigo somente produzirão efeitos após sua publicação.
+§ 2º - Enquanto não ocorrer a publicação dos atos de posicionamento a que se refere o caput deste artigo, será mantido o valor do vencimento básico percebido pelo servidor ocupante dos cargos de carreira de que trata esta lei complementar na data de publicação do decreto a que se refere o art. 49, acrescido das vantagens previstas na legislação vigente.
+§ 3º - Os atos a que se refere o caput deste artigo serão formalizados por meio de resolução conjunta do Advogado-Geral do Estado e do Secretário de Estado de Planejamento e Gestão.

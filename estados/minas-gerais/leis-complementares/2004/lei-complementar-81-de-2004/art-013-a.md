@@ -1,0 +1,4 @@
+Art. 13-A - (Revogado pelo inciso IV do art. 25 da Lei Complementar nº 92, de 23/6/2006.)
+Dispositivo revogado:
+"Art. 13-A - O servidor público ocupante de cargo de provimento efetivo do Poder Executivo do Estado de Minas Gerais que, em razão de concurso público posterior à publicação desta lei, ingressar em cargo da carreira da Advocacia Pública do Estado, com jornada equivalente à do cargo de origem, cuja remuneração, incluídos adicionais, gratificações e vantagens pessoais, for superior à remuneração do cargo de Procurador do Estado, poderá perceber a diferença a título de vantagem pessoal nominalmente identificada, sujeita exclusivamente à revisão geral da remuneração dos servidores estaduais.
+Parágrafo único - Para o cálculo da diferença prevista no caput deste artigo, não serão computados os adicionais a que se refere o art. 118 do Ato das Disposições Constitucionais Transitórias da Constituição do Estado."

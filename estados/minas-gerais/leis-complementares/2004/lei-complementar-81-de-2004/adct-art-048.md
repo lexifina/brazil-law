@@ -1,0 +1,1 @@
+Art. 48 - Fica assegurado ao servidor que for enquadrado nos termos do caput do art. 46 desta lei complementar o direito a que se refere o art. 115 do Ato das Disposições Constitucionais Transitórias da Constituição do Estado.

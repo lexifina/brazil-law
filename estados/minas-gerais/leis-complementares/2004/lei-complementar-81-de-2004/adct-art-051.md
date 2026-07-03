@@ -1,0 +1,2 @@
+Art. 51 - O servidor inativo será enquadrado na estrutura das carreiras de que trata esta lei complementar, na forma da correlação constante no Anexo II, apenas para fins de percepção do vencimento básico correspondente ao nível e ao grau em que for posicionado, observadas as regras de posicionamento estabelecidas para os servidores ativos, levando-se em consideração, para tal fim, o cargo ou a função em que se deu a aposentadoria.
+Parágrafo único - (Vetado).

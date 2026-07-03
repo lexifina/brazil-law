@@ -1,0 +1,2 @@
+Art. 47 - As tabelas de vencimento básico das carreiras de que trata esta lei complementar serão estabelecidas em lei ordinária, observada a estrutura prevista no Anexo I.
+Parágrafo único - Os vencimentos básicos dos cargos das carreiras de que trata esta lei complementar serão estabelecidos em tabelas que conterão valores diferenciados para as cargas horárias definidas nos arts. 5º e 34 desta lei complementar.

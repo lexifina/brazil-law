@@ -1,0 +1,3 @@
+Art. 4º-A - No exercício de suas atribuições, o ocupante de cargo da carreira da Advocacia Pública do Estado buscará garantir a segurança jurídica das ações governamentais e das políticas públicas do Estado, zelando pelo interesse público e respeitando a uniformidade institucional da atuação.
+§ 1º - O ocupante de cargo da carreira a que se refere o caput não é passível de responsabilização em razão de manifestações exaradas no exercício de suas funções, ressalvadas as hipóteses de dolo ou fraude e o poder disciplinar exercido pela Corregedoria da AGE.
+§ 2º - A apuração de falta disciplinar de ocupante de cargo da carreira de que trata o caput compete exclusivamente à Corregedoria da AGE.
