@@ -1,0 +1,3 @@
+Artigo 7° - O acesso especial será efetuado por meio de concurso interno na forma indicada no artigo 32 desta lei complementar, para cada classe.
+§ 1° - As vagas a serem apresentadas corresponderão a 50% (cinqüenta por cento) do total de cargos vagos de Executivo Público I existentes no Quadro da Secretaria do Tribunal de Contas do Estado de São Paulo.
+§ 2° - Quando da aplicação do percentual fixado neste artigo resultar número fracionário, será desprezada a fração se a primeira decimal for inferior a 5 (cinco), ou efetuada a aproximação para a unidade subseqüente, quando a primeira decimal for igual ou superior a 5 (cinco).

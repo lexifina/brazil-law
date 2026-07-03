@@ -1,0 +1,5 @@
+Artigo 5° - Na implantação da progressão considerar-se-á, para efeito de interstício, o tempo de efetivo exercício no nível da respectiva classe, contado a partir de 1° de janeiro de 1989 até 1° de janeiro do ano de realização do primeiro certame.
+§ 1° - A primeira progressão ocorrerá em 1993.
+§ 2° - Para fins do disposto no "caput" deste artigo, considerar-se-á o tempo de serviço prestado, sem solução de continuidade, no cargo ou na função-atividade cuja denominação foi alterada nos termos do artigo 1° destas Disposições Transitórias.
+§ 3° - Efetuada a progressão de que trata este artigo, se ainda houver tempo remanescente, este será computado para fins de interstício da progressão subseqüente.
+§ 4° - O disposto neste artigo substitui, para os integrantes das classes constantes do Anexo I, a promoção de que tratam o artigo 11 da Lei Complementar n° 559, de 15 de julho de 1988, e o artigo 15 da Lei Complementar n° 597, de 15 de maio de 1989, referente aos processos seletivos especiais de 1989, 1990, 1991 e 1992.

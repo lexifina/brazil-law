@@ -1,0 +1,1 @@
+Artigo 14 - Os proventos dos inativos que, ao passarem à inatividade eram ocupantes de cargos ou funções-atividades das classes indicadas no Anexo I, serão revistos e calculados na conformidade dos artigos 2° a 4° destas Disposições Transitórias.

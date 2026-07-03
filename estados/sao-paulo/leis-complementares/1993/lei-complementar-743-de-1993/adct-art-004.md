@@ -1,0 +1,1 @@
+Artigo 4° - Sobre o valor da vantagem pessoal, apurado nos termos do § 5° do artigo 2° e do § 1° do artigo 3° destas Disposições Transitórias, incidirão apenas os índices de reajuste geral concedidos aos servidores públicos.
