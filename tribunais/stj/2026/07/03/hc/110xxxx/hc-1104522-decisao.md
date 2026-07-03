@@ -1,0 +1,80 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de FABIANO MARQUES RODRIGUES - preso em 8/12/2023, pela suposta prática dos crimes de homicídio e furto qualificado -, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, nos autos do HC n. 5006634-20.2026.8.08.0000.
+Consta dos autos que "o paciente foi denunciado pela prática dos crimes previstos nos artigos 121, §2º, incisos II, III e IV e 155, §§1º e 4º, inciso IV do Código Penal, em razão de, em 24 de maio de 2022, por volta das 01h00min, em coautoria, ter provocado a morte da vítima indicada nos autos e subtraído seus pertences" (e-STJ fl. 43)
+O paciente permaneceu foragido até 8/12/2023.
+Em setembro de 2025, a defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado do Espírito Santo, que denegou a ordem.
+Em 10/4/2026, foi impetrado novo writ, registrado sob o n. 5006634-20.2026.8.08.0000, com fundamento no agravamento da estagnação processual, na reiteração das remarcações de audiência e na manifestação do Ministério Público pela desistência da oitiva de uma das testemunhas arroladas.
+O colegiado local não conheceu da impetração, ao fundamento de se tratar de mera reiteração de pedido, e manteve a prisão preventiva.
+Nesta oportunidade, esclarece a defesa que a custódia cautelar jamais foi submetida à revisão periódica obrigatória, como determina o art. 316, parágrafo único, do Código de Processo Penal. Segundo afirma, todas as deliberações acerca da manutenção da custódia decorreram de provocação defensiva.
+Também aponta excesso de prazo na formação da culpa.
+Assere que o paciente está preso desde 8/12/2023, sem encerramento da instrução, embora seja primário e não possua antecedentes criminais.
+Pondera que a demora não pode ser atribuída à defesa, pois decorre da dificuldade estrutural de localização das testemunhas, circunstância reconhecida pelo próprio magistrado nas informações prestadas ao Tribunal de origem.
+Reverbera, por fim, que a prisão preventiva está fundada na necessidade de assegurar a aplicação da lei penal, em razão da fuga anterior do paciente.
+Contudo, sustenta que esse fundamento perdeu atualidade, pois o acusado foi capturado em dezembro de 2023 e permanece preso desde então.
+Sublinha inexistir elemento concreto e contemporâneo que indique que, em liberdade, especialmente mediante imposição de medidas cautelares diversas, o paciente voltaria a se furtar à aplicação da lei penal.
+Diante desses fundamentos, requer, liminar e definitivamente , a revogação da prisão preventiva do acusado, com a imposição de medidas cautelares diversas, previstas no art. 319 do Código de Processo Penal.
+Liminar indeferida.
+O Ministério Público Federal manifestou-se "pelo não conhecimento do habeas corpus e, no mérito, pela denegação da ordem" "(e-STJ fl. 113)
+É o relatório.
+Decido.
+Insta consignar que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+No caso, o Tribunal de origem, ao vislumbrar que a soltura do paciente caracterizaria risco à ordem pública, denegou a ordem valendo-se dos seguintes fundamentos (e-STJ fls. 27/28, grifo nosso):
+ ..  os elementos dos autos demonstram que a custódia cautelar permanece concretamente justificada. O paciente foi denunciado por crime de extrema gravidade  homicídio qualificado cometido com 27 facadas no ano de 2022  e permaneceu foragido até fevereiro de 2024, quando foi capturado no Estado de Alagoas. Tal circunstância, por si só, evidencia o risco à aplicação da lei penal, legitimando a manutenção da segregação conforme o princípio da confiança no juiz da causa, que detém a proximidade necessária com os fatos e a repercussão social do crime.
+Quanto ao alegado excesso de prazo, é cediço que o tempo da tramitação processual não se submete a um cálculo meramente aritmético, devendo ser interpretado à luz do princípio da razoabilidade. No caso vertente, a necessidade de colheita de depoimentos de testemunhas residentes em outros estados justifica a dilação do rito, mormente quando o processo permaneceu estagnado por mais de dois anos em virtude do próprio sumiço do paciente. Assim, a conduta pretérita do acusado reforça a imprescindibilidade da medida extrema, não havendo que se falar em substituição por cautelares diversas ou em constrangimento ilegal por desídia do Judiciário.
+A jurisprudência deste Egrégio Tribunal de Justiça do Estado do Espírito Santo é firme no sentido de que não se conhece de Habeas Corpus que consista em reiteração de pedido anterior com as mesmas partes e fundamentos, bem como na compreensão de que a fuga do distrito da culpa e a complexidade da instrução, pautada pela razoabilidade, afastam a ilegalidade da prisão.
+Vê-se que a prisão foi decretada em decorrência do modus operandi empregado na conduta delitiva, revelador da periculosidade do paciente, consistente na prática, em tese, dos crimes de homicídio e furto qualificado, praticados por meio de 27 facadas contra a vítima e subtração de seus pertences.
+Tais circunstâncias, como já destacado, evidenciam a gravidade concreta da conduta, porquanto extrapolam a mera descrição dos elementos próprios do tipo de homicídio e furto qualificados. Assim, por conseguinte, a segregação cautelar faz-se necessária como forma de acautelar a ordem pública.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. DECISÃO MONOCRÁTICA ALINHADA À JURISPRUDÊNCIA DOMINANTE. GRAVIDADE CONCRETA E RISCO DE REITERAÇÃO DELITIVA. MEDIDAS CAUTELARES ALTERNATIVAS INSUFICIENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+5. A prisão preventiva está lastreada em dados concretos: gravidade concreta e elevada reprovabilidade do modus operandi (ataque pelas costas com faca e tentativa subsequente de atropelamento), risco iminente à ordem pública e à integridade da vítima, evidenciando periculum libertatis nos termos do art. 312 do CPP.
+6. As medidas cautelares do art. 319 do CPP mostram-se inadequadas e insuficientes para acautelar a ordem pública e proteger a vítima diante da periculosidade evidenciada, nos termos do art. 282, § 6º, do CPP.
+7. Condições pessoais favoráveis (primariedade, ocupação lícita e residência fixa) não afastam, por si, a custódia cautelar quando presentes os requisitos dos arts. 312 e 313, I, do CPP.
+IV. Dispositivo
+8. Resultado do Julgamento: Agravo regimental não provido.
+(AgRg no RHC n. 234.586/MG, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 17/6/2026, DJEN de 25/6/2026.)
+Ademais, o paciente empreendeu fuga logo após a prática dos delitos, no ano de 2022, permanecendo foragido até dezembro de 2023, quando foi capturado no Estado de Alagoas.
+Diante desse contexto, justificada está a necessidade de segregação cautelar para garantir a aplicação da lei penal e a instrução criminal.
+Nesse mesmo sentido, os seguintes precedentes desta Corte:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA. MODUS OPERANDI. PREMEDITAÇÃO E EMBOSCADA. GARANTIA DA ORDEM PÚBLICA. FUGA DO DISTRITO DA CULPA. EXTENSÃO DE EFEITOS A CORRÉU. AUSÊNCIA DE IDENTIDADE FÁTICO-PROCESSUAL. AGRAVO REGIMENTAL IMPROVIDO.
+1. A análise de teses defensivas relacionadas à fragilidade dos indícios de autoria demanda revolvimento aprofundado do acervo fático-probatório, providência incompatível com a via estreita do habeas corpus.
+2. A prisão preventiva pode ser decretada antes do trânsito em julgado da sentença condenatória desde que estejam presentes os requisitos previstos no art. 312 do CPP.
+3. Foram constatados elementos concretos capazes de justificar a privação cautelar da liberdade, diante da gravidade real da conduta, evidenciada pelo planejamento prévio, emboscada e tentativa de execução da vítima mediante disparos de arma de fogo, circunstâncias que revelam elevada periculosidade social.
+4. O modus operandi empregado, caracterizado por premeditação, estratégia para atrair a vítima e execução mediante ocultação, constitui fundamento idôneo para a custódia cautelar, nos termos do art. 312, § 3º, I, do CPP.
+5. A fuga do distrito da culpa e a ocultação em outro Estado configuram fundamento concreto para assegurar a aplicação da lei penal, demonstrando risco efetivo de evasão.
+6. Condições pessoais favoráveis não afastam a necessidade da prisão preventiva quando presentes fundamentos concretos autorizadores da custódia cautelar.
+7. A extensão dos efeitos de decisão favorável ao corréu exige identidade fático-processual, não se justificando quando o benefício decorre de elemento probatório superveniente e específico, apto a fragilizar a imputação apenas em relação ao corréu favorecido.
+8. Agravo regimental improvido.
+(AgRg no HC n. 1.075.883/RO, relator Ministro Og Fernandes, Sexta Turma, julgado em 17/6/2026, DJEN de 23/6/2026, grifo nosso.)
+No mais, frise-se que as condições subjetivas favoráveis do acusado, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória.
+De igual forma, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal não surtiriam o efeito almejado para a proteção da ordem pública.
+Passo, por fim, a examinar a alegação de que há excesso de prazo na segregação cautelar. E, ao fazê-lo, verifico não assistir razão à defesa.
+Insta consignar que a aferição da existência do excesso de prazo impõe a observância ao preceito inserto no art. 5º, LXXVIII, da Constituição Federal, que assim dispõe:
+A todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação.
+Não obstante, a aferição da violação à garantia constitucional acima referida não se realiza de forma puramente matemática. Reclama, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+Cumpre esclarecer que o ora paciente está custodiado desde 8/12/2023, após longo período foragido, e a defesa alega que não há previsão para o encerramento da instrução criminal.
+Na origem, a ordem foi denegada, firmado o entendimento de que o excesso de prazo não estava configurado. Consignou o voto condutor do acórdão impugnado que "a necessidade de colheita de depoimentos de testemunhas residentes em outros estados justifica a dilação do rito, mormente quando o processo permaneceu estagnado por mais de dois anos em virtude do próprio sumiço do paciente" (e-STJ fl. 28) .
+As informações complementares dão conta de que (e-STJ fls. 103/104, grifo nosso):
+O feito encontra-se na fase de instrução processual e, diante da complexi dade das diligências probatórias, verifica-se que as testemunhas residentes no locus delicti já foram inquiridas; contudo, no curso da instrução, constatou-se que as demais testemunhas passaram a residir no interior de diferentes estados da Federação, a exemplo de Pernambuco e Alagoas, circunstância que dificulta sobremaneira a sua conclusão. Ademais, as testemunhas aparentam exercer atividade laborais sazonais, com frequente migração pelo território nacional em razão da atividade agrícola, circunstância que agrava os notórios obstáculos. Compreendo, por tais motivos, que a dilação temporal encontra-se justificada, sem que se possa configurar a inércia ou paralisação injustificada deste Juízo. É importante esclarecer a Vossa Excelência que as testemunhas ainda pendentes de oitiva não pertencem exclusivamente ao órgão acusatório, tampouco foram arroladas ex offício, tratando-se também de testemunhas de interesse da própria Defesa.
+Por isso, ainda que o Ministério Público delas desistisse - o que findaria o libelo acusatório - persistiria a necessidade de ouvi-las em prol do próprio paciente, o que, na es- teira da Súmula 64/STJ seria razão para afastar, eventual alegação de excesso de prazo, maxime somada à inerente complexidade desta instrução (STJ, AgRg no HC 1013012/PR).
+Desse modo, considerados os dados acima referidos, não há falar-se em excesso de prazo, pois o processo vem tendo regular andamento na origem. Ademais, o atraso para o seu término se deve, como consignado, à fuga do paciente por longo período e à dificuldade na oitiva de testemunhas, arroladas não só pela acusação mas também pela defesa, o que afasta, por ora, a ocorrência de excesso de prazo para a conclusão da instrução criminal.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO. EXCESSO DE PRAZO. AUSÊNCIA DE CONTEMPORANEIDADE. MATÉRIAS NÃO ANALISADAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE INDÍCIOS DE AUTORIA. REEXAME DE PROVAS. INADEQUAÇÃO DA VIA ELETIA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GARANTIR A APLICAÇÃO DA LEI PENAL. RÉU QUE PERMANECEU FORAGIDO POR QUASE 4 ANOS. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. Ainda que assim não o fosse, não se verifica manifesta ilegalidade por excesso de prazo, tendo em vista que se trata de ação penal complexa, que apura crimes graves, com elevadas penas em abstrato, e envolve 23 réus, 8 testemunhas de acusação e 13 testemunhas de defesa. Além disso, apesar de a prisão preventiva do paciente ter sido decretada em 23/10/2020, ele estava foragido até o julgamento do habeas corpus originário pelo Tribunal de origem, realizado em 23/5/2024, não havendo nos autos informação sobre a data precisa na qual o mandado de prisão foi cumprido.
+ ..
+8. No caso, a prisão preventiva encontra-se devidamente fundamentada na necessidade de garantir a aplicação da lei penal, tendo em vista que, conforme ressaltado pelas instâncias ordinárias, o mandado de prisão expedido contra o agravante estava pendente de cumprimento desde 23/10/2020, pois o réu se evadiu do distrito da culpa e permaneceu foragido por quase 4 anos.
+9. A propósito, "nos termos da jurisprudência desta Quinta Turma, a evasão do distrito da culpa, comprovadamente demonstrada nos autos e reconhecida pelas instâncias ordinárias, constitui motivação suficiente a justificar a preservação da segregação cautelar para garantir a aplicação da lei penal" (AgRg no RHC n. 117.337/CE, Relator Ministro JORGE MUSSI, Quinta Turma, julgado em 21/11/2019, DJe 28/11/2019).
+ ..
+13. Agravo regimental desprovido.
+(AgRg no HC n. 918.681/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/6/2024, DJe de 21/6/2024, grifo nosso.)
+Por fim, quanto à alegada ausência de contemporaneidade da custódia, tem-se que a tese não foi debatida pelo Tribunal de origem, o que impede a análise por esta Corte Superior, sob pena de indevida supressão de instância.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. FLAGRANTE. DOMICÍLIO COMO EXPRESSÃO DO D IREITO À INTIMIDADE. ASILO INVIOLÁVEL. EXCEÇÕES CONSTITUCIONAIS. INTERPRETAÇÃO RESTRITIVA. FUGA PARA O INTERIOR DO DOMICÍLIO. FUNDADAS RAZÕES. PRISÃO PREVENTIVA. REITERAÇÃO CRIMINOSA. AUSÊNCIA DE CONTEMPORANEIDADE. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+7. A apontada ausência de contemporaneidade da custódia preventiva não foi analisada pelo Tribunal de origem, o que impede o exame dessa questão diretamente por esta Corte Superior de Justiça, sob pena de, assim o fazendo, incidir-se na indevida supressão de instância.
+8. Agravo regimental não provido.
+(AgRg no HC n. 1.079.153/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 24/6/2026, DJEN de 29/6/2026.)
+Ante todo o exposto, conheço em parte do presente habeas corpus e, nessa extensão, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
