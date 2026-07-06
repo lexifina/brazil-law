@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MARISTENIO JACO JAHN contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, no julgamento do recurso em sentido estrito n. 5002518-98.2025.8.21.0143/RS.
+Consta dos autos que o acórdão impugnado, proferido no Recurso em Sentido Estrito nº 5002518-98.2025.8.21.0143/RS, manteve a decisão de pronúncia e preservou a prisão preventiva do paciente, pela suposta prática de tentativa de homicídio qualificado.
+Neste writ, a defesa sustenta, em suma, a ausência de fundamentação concreta e contemporânea da decisão que manteve a prisão preventiva, afirmando que os motivos invocados se limitaram à gravidade do delito, ao modus operandi e à suposta periculosidade social, sem indicar fatos novos ou individualizados que demonstrem risco efetivo à instrução criminal, à ordem pública ou à aplicação da lei penal.
+Alega, ainda, a inadmissibilidade das mídias digitais por violação aos artigos 158-A a 158-F do Código de Processo Penal, destacando que a prova não se presume autêntica e que incumbe ao Estado comprovar sua integridade e confiabilidade, especialmente em processos do Tribunal do Júri.
+Requer a concessão de medida liminar para revogar a prisão preventiva do paciente, com expedição de alvará de soltura, ou, subsidiariamente, a substituição por medidas cautelares diversas previstas no artigo 319 do Código de Processo Penal. Postula, também, a declaração de nulidade ou inadmissibilidade das provas digitais produzidas sem observância da cadeia de custódia, com seu desentranhamento, e a proibição expressa de utilização, exibição, leitura, menção ou referência a essas mídias perante o Tribunal do Júri; subsidiariamente, requer a realização de perícia técnica de integridade e autenticidade, com suspensão de seu uso até a conclusão da diligência.
+As informações foram prestadas (fls. 125-127).
+O Ministério Público Federal opinou pela denegação da ordem (fls. 130-133).
+É o relatório. DECIDO.
+O presente writ foi impetrado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL em substituição a recurso próprio. Diante dessa situação, não deve ser conhecido, nos termos da jurisprudência do Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. WRIT NÃO CONHECIDO. CONCESSÃO DA ORDEM DE OFÍCIO. POSSIBILIDADE. DELITOS DE ROUBO EM CONCURSO MATERIAL. CUMULAÇÃO DE CAUSAS DE AUMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO DESPROVIDO.
+1. Conforme consignado na decisão agravada, o presente habeas corpus não merece ser conhecido, pois foi impetrado em substituição a recurso próprio. Contudo, a existência de flagrante ilegalidade justifica a concessão da ordem de ofício.
+2.  ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 738.224/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/12/2023, DJe de 12/12/2023.)
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REDUTOR DO ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTIDADE E NATUREZA DAS DROGAS ISOLADAMENTE. ELEMENTOS INSUFICIENTES PARA DENOTAR A HABITUALIDADE DELITIVA DA AGENTE. INCIDÊNCIA NA FRAÇÃO MÁXIMA (2/3). REGIME ABERTO. ADEQUADO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. AGRAVO NÃO PROVIDO.
+1. Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+ ..
+6. Agravo regimental não provido.
+(AgRg no HC n. 857.913/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/11/2023, DJe de 1/12/2023.)
+Inobstante o não conhecimento do habeas corpus, passo a analisar eventual constrangimento ilegal que possibilite a concessão de ofício da garantia constitucional.
+In casu, contudo, a prisão preventiva se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente por se tratar de crime doloso contra a vida de agente de segurança pública, praticado dentro de sua residência, durante a madrugada, com múltiplos disparos de arma de fogo (fl. 32). Tais circunstâncias demonstram a gravidade concreta da conduta e a periculosidade em tese do agente, justificando a segregação cautelar para a garantia da ordem pública.
+Ainda, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a custódia cautelar.
+Ademais, no tocante à quebra da cadeia de custódia, a decisão impugnada está de acordo com a jurisprudência desta Corte a respeito do tema.
+"Nos termos da jurisprudência desta Corte, a quebra da cadeia de custódia não configura invariavelmente causa de nulidade processual, mas está relacionada à eficácia da prova, a ser sopesada em cada caso concreto" (AgRg no RHC n. relator Ministro210.548/RS, Antônio Saldanha Palheiro, Sexta Turma, julgado DJEN de . 19/11/2025, 27/11/2025)
+Verifico que não há nulidade automática sem demonstração de adulteração ou prejuízo, aplicando orientação de que a eficácia da prova deve ser sopesada no caso concreto e reconhecendo a preferência, e não obrigatoriedade, de perito oficial, sem acolher, nessa fase, a tese de ilicitude apta a infirmar os elementos de informação utilizados para a decretação da prisão preventiva. Tampouco há que se cogitar a proibição de exibição ou leitura de referidas mídias, diante da ausência de prova de sua adulteração.
+Assim, não verifico na moldura fática do acórdão impugnado (fls. 15-33) nenhuma teratologia ou coação ilegal que autorize a concessão da ordem nos termos do § 2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
