@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por CARLOS ALBERTO MARTINS contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO que denegou a ordem no HC n. 5019745-08.2025.8.08.0000.
+Consta dos autos que o recorrente foi preso em flagrante, posteriormente teve convertida a custódia em prisão preventiva, pela suposta prática do crime previsto no art. 121 do Código Penal, em razão da morte de seu companheiro de cela, ocorrida no interior do Centro de Detenção Provisória de Guarapari/ES.
+Na origem, a defesa impetrou habeas corpus sustentando: a) cerceamento de defesa decorrente do indeferimento do pedido de instauração de incidente de insanidade mental; b) excesso de prazo para oferecimento da denúncia; e c) inadequação da manutenção da prisão preventiva em estabelecimento prisional comum, com pedido subsidiário de substituição da custódia por internação provisória (fls. 3-8).
+O Tribunal estadual denegou a ordem e concluiu que a prisão preventiva está devidamente fundamentada na gravidade concreta do delito e na necessidade de garantia da ordem pública, que inexiste dúvida razoável apta a justificar a instauração de incidente de insanidade mental e que não foi demonstrada a impossibilidade de tratamento do paciente no sistema prisional. Reconheceu, ainda, a prejudicialidade da alegação de excesso de prazo em razão do superveniente oferecimento e recebimento da denúncia (fls. 108-129).
+No presente recurso, a defesa sustenta que o diagnóstico de esquizofrenia e a prática do fato ora imputado constituiriam circunstâncias aptas a justificar a instauração de novo incidente de insanidade mental. Reitera, ainda, o pedido de substituição da prisão preventiva por internação provisória em hospital de custódia ou estabelecimento adequado. Requer, ao final, o provimento do recurso (fls. 132-140).
+Informações prestadas às fls. 162-166.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso (fls. 168-176).
+É o relatório. DECIDO.
+O recurso não merece prosperar.
+O acórdão recorrido consignou expressamente que o recorrente foi submetido a exame pericial oficial em novembro de 2024, no âmbito de outro processo criminal, oportunidade em que foi considerada preservada sua capacidade de entender o caráter ilícito dos fatos e de determinar-se de acordo com esse entendimento.
+Assentou, ainda, que a defesa não demonstrou fato novo apto a infirmar as conclusões daquele laudo ou evidenciar agravamento superveniente do quadro clínico capaz de gerar dúvida razoável acerca da imputabilidade do acusado.
+Tal compreensão está em consonância com a jurisprudência desta Corte Superior, segundo a qual a instauração do incidente de insanidade mental não constitui direito subjetivo da defesa, dependendo da existência de elementos concretos que suscitem dúvida razoável acerca da integridade mental do acusado.
+A propósito:
+ ..  5. A instauração de incidente de insanidade mental, nos termos do art. 149 do Código de Processo Penal, depende da existência de dúvida razoável sobre a integridade mental do acusado, a ser avaliada pelo magistrado com base nas circunstâncias fáticas do caso concreto.
+6. A decisão agravada está fundamentada na análise das provas dos autos, que indicam a capacidade do agravante para realizar atividades típicas da vida civil, como dirigir e integrar quadro societário, além do longo lapso temporal desde o último incidente de insanidade instaurado em 2014.
+7. A jurisprudência desta Corte Superior é pacífica no sentido de que a instauração do incidente de insanidade mental não constitui direito subjetivo do acusado, cabendo ao magistrado avaliar a necessidade da medida com base nos elementos probatórios disponíveis.  ..
+(AgRg no HC n. 1.015.494/PB, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 12/11/2025, DJEN de 18/11/2025.)
+Alterar a conclusão das instâncias ordinárias quanto à inexistência de dúvida razoável sobre a higidez mental do recorrente demandaria aprofundado reexame do conjunto fático-probatório, providência incompatível com a estreita via do habeas corpus e do recurso ordinário constitucional.
+Também não procede a pretensão de substituição da prisão preventiva por internação provisória.
+O Tribunal de origem registrou que a Secretaria de Estado da Justiça informou que o recorrente vem recebendo acompanhamento médico e assistência de saúde no estabelecimento prisional em que se encontra recolhido, inexistindo comprovação de impossibilidade de tratamento no cárcere.
+Destacou, ademais, que a custódia cautelar foi fundamentada na gravidade concreta do delito e na elevada periculosidade do agente, circunstâncias que evidenciam a insuficiência de medidas cautelares menos gravosas.
+Com efeito, a jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que a substituição da prisão preventiva por medida mais branda, fundada em alegações de enfermidade, exige demonstração consistente de extrema debilidade do acusado e da impossibilidade de tratamento adequado no ambiente prisional, requisitos não evidenciados na hipótese.
+Por fim, a insurgência relacionada ao alegado excesso de prazo para oferecimento da denúncia resta superada, tendo em vista que o próprio acórdão recorrido registrou o posterior oferecimento e recebimento da peça acusatória, circunstância que prejudica o exame da matéria.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
