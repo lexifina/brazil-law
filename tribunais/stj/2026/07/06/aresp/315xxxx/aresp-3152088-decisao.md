@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por WILLIAN FLAUZINO DE OLIVEIRA contra a decisão que inadmitiu o recurso especial com fundamento no art. 105, III, a, da Constituição Federal, apresentado contra o acórdão exarado pelo Tribunal de Justiça do Estado da Bahia no julgamento do Recurso em Sentido Estrito n. 0016479-71.2004.8.05.0080, assim ementado (fls. 712/713):
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO EM SENTIDO ESTRITO. EXTINÇÃO DA PUNIBILIDADE. PRESCRIÇÃO VIRTUAL ART 157 § 2º, INCISO I E II, C/C O ART. 29 DO CP. INADMISSIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL. PRECEDENTES STF E STJ. SÚMULA 438 STJ. PRESCRIÇÃO DA PRETENSÃO PUNITIVA ART. 14 da lei 10.826/2003.
+Recurso parcialmente provido.
+Nas razões do recurso especial (fls. 800/809), a parte agravante suscita violação dos seguintes dispositivos de lei: art. 619 do Código de Processo Penal e art. 93, IX, da Constituição Federal.
+Alega que o acórdão dos embargos de declaração incorreu em negativa de prestação jurisdicional ao não enfrentar tese autônoma de ausência de interesse de agir na vertente utilidade, fundada nos princípios da eficiência, da economia processual e da razoável duração do processo, violando o art. 619 do Código de Processo Penal e o art. 93, IX, da Constituição Federal.
+Sustenta que o tema veiculado é de natureza estritamente jurídica - verificação de omissão no acórdão dos embargos à luz do art. 619 do Código de Processo Penal -, não demandando reexame de fatos ou provas.
+Argumenta que o prequestionamento se aperfeiçoou com a oposição dos embargos de declaração e sua rejeição, porquanto a omissão apontada foi devidamente provocada e mantida, consubstanciando a violação do art. 619 do Código de Processo Penal.
+Defende que o acórdão recorrido se limitou a reafirmar a Súmula 438 do Superior Tribunal de Justiça, sem examinar a tese autônoma de inutilidade do prosseguimento da ação penal - condição da ação -, o que exige pronunciamento explícito e, não o havendo, configura a nulidade por negativa de prestação jurisdicional.
+A Corte de origem inadmitiu o reclamo com base nos seguintes fundamentos: 1) ofensa ao art. 93, IX, da Constituição Federal não é cognoscível em recurso especial; e 2) inexistência de violação do art. 619 do Código de Processo Penal, por pretender o recorrente a rediscussão de matéria já apreciada (fls. 825/833), sendo a decisão atacada pelo presente agravo (fls. 835/845).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou pelo desprovimento do agravo em recurso especial (fls. 876/879).
+É o relatório.
+Conheço do agravo, porquanto presentes os seus pressupostos de admissibilidade. O agravante logrou infirmar, com suficiência, os fundamentos para inadmissão do especial.
+No caso dos autos, mostra-se inviável o acolhimento da tese de violação do art. 619 do CPP, uma vez que o acórdão combatido não apresenta vícios, enfrentando de forma suficiente a questão central referente à impossibilidade de reconhecimento da prescrição em perspectiva ou virtual. O julgado fundou-se no entendimento de que tal modalidade de prescrição carece de amparo legal no ordenamento jurídico, sendo expressamente vedada pela Súmula 439/STJ e jurisprudência consolidada do STF, inclusive em sede de repercussão geral.
+Ao realizar o cálculo prescricional com base na pena máxima em abstrato para o crime de roubo e constatar que o lapso de 20 anos não havia transcorrido, o Tribunal de origem apresentou motivação clara e suficiente, afastando, portanto, a alegação de obscuridade, contradição e omissão e, por consequência, a tese de violação do art. 619 do CPP.
+Sendo assim, encontrando-se o acórdão recorrido em conformidade com o entendimento deste Tribunal sobre o tema, verifica-se a incidência do óbice da Súmula 83/STJ.
+Pelo exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO. PRESCRIÇÃO VIRTUAL. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA DE OMISSÃO NO ACÓRDÃO. ENFRENTAMENTO SUFICIENTE DA IMPOSSIBILIDADE DA PRESCRIÇÃO EM PERSPECTIVA. AUSÊNCIA DE PREVISÃO LEGAL. APLICAÇÃO DA SÚMULA 439/STJ. CONSONÂNCIA COM A JURISPRUDÊNCIA DO STF. CÁLCULO PRESCRICIONAL PELA PENA MÁXIMA EM ABSTRATO. INCIDÊNCIA DA SÚMULA 83/STJ.
+Agravo conhecido para não conhecer do recurso especial.
