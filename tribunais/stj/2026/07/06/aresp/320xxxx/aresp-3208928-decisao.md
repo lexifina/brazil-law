@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo interposto por CREFISA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTOS contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE RORAIMA cuja ementa guarda os seguintes termos (fl. 29):
+DIREITO DO CONSUMIDOR - APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE NULIDADE CONTRATUAL C/C INDENIZATÓRIA - EMPRÉSTIMO PESSOAL - SENTENÇA DE IMPROCEDÊNCIA - RECURSO DA CONSUMIDORA - HIPERVULNERABILIDADE CONFIGURADA - PESSOA IDOSA, ESTRANGEIRA E DE BAIXA INSTRUÇÃO - VÍCIO DE CONSENTIMENTO - FALHA NO DEVER DE INFORMAÇÃO E NA AVALIAÇÃO DE CRÉDITO RESPONSÁVEL - INTELIGÊNCIA DOS ARTS. 6º E 54-D DO CDC - DANO MORAL CONFIGURADO - REPETIÇÃO DO INDÉBITO EM DOBRO - RECURSO PROVIDO. 1. A contratação de serviços por consumidora idosa, estrangeira e com baixo nível de instrução exige das instituições financeiras um dever de cautela e informação acentuado, em razão de sua manifesta hipervulnerabilidade, sob pena de violação da boa-fé objetiva. 2. A concessão de crédito pessoal sem análise responsável das condições financeiras da consumidora, que já não possuía margem consignável e teve sua renda de subsistência comprometida abaixo do mínimo existencial, caracteriza prática abusiva e violação ao princípio do crédito responsável (arts. 6º, XI e XII, e 54-D, II, do CDC). 3. A anulação do contrato, com o reconhecimento dos descontos indevidos sobre os parcos proventos de pessoa hipervulnerável, acarreta dano moral, sendo razoável a fixação de indenização no valor de R$ 3.000,00 (três mil reais). 4. A devolução dos valores indevidamente descontados deve ocorrer na forma dobrada, conforme o art. 42, parágrafo único, do CDC, uma vez que não demonstrado o engano justificável por parte da instituição financeira. 5. Apelação conhecida e provida para reformar a sentença, declarando-se a nulidade do contrato e condenando-se as rés à restituição em dobro e ao pagamento de danos morais.
+Rejeitados os embargos de declaração opostos (fls. 76-79).
+No recurso especial, a parte recorrente alega violação do art. 373, I, do CPC, dos arts. 927 e 421 do Código Civil, e do art. 42 do Código de Defesa do Consumidor.
+Sustenta que não praticou ato ilícito, que inexiste nexo causal e dano moral indenizável, além da ausência de comprovação por parte da consumidora da lesão que geraria direito à indenização.
+Por fim, aduz e que eventual repetição de indébito não poderia ocorrer em dobro, dado que não houve descontos ilícitos por parte da agravada.
+Aponta, ainda, divergência jurisprudencial com aresto desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 156-163).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 166-168), o que ensejou a interposição do presente agravo (fls. 176-184).
+Apresentada contraminuta do agravo (fls. 212-215).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Nos termos da jurisprudência pacífica do STJ, é inviável o conhecimento do recurso especial quando os artigos tidos por violados não foram apreciados pelo Tribunal de origem.
+Conforme se extrai dos autos, os arts. 373 do CPC e 42 do CDC, apontados como violados e as teses a eles vinculadas - quanto a ausência de comprovação do dano e do nexo causal e a impossibilidade de repetição in débito em dobro - não foram prequestionados, incidindo o óbice das Súmulas 211/STJ e 282/STF.
+Ressalta-se que na instância especial, a apreciação de ofício de matéria, mesmo de ordem pública, não dispensa o requisito do prequestionamento (AgInt nos EAREsp n. 1.327.393/MA, relator Ministro Felix Fischer, Corte Especial, DJe de 18/12/2020).
+Quanto a existência de dano moral, o Tribunal de origem, soberano na análise das provas carreadas aos autos, concluiu pela configuração de dano moral diante da hipervulnerabilidade da consumidora e da ausência dos devidos esclarecimentos por parte da instituição, in verbis (fls. 25-27):
+Feitas essas considerações e, analisando os autos do processo, observa-se que a apelante alega que é beneficiária do INSS (Benefício de Prestação Continuada a Pessoa Idosa), tendo sido induzida a realizar o negócio jurídico sem os devidos esclarecimentos.
+O caso possui minúcias que devem ser levadas em consideração. A recorrente é pessoa idosa, contando com 75 anos à época da contratação, portanto, consumidora hipervulnerável.
+Não bastasse essa circunstância, também não é brasileira (nacionalidade venezuelana), o que demonstra mais uma dificuldade para ela diante da barreira da língua e das leis nacionais, notadamente o não conhecimento dos direitos básicos do consumidor.
+Aliado a tudo isso, as recorridas deveriam ter sido mais prudentes na hora de ofertar seus produtos/serviços a uma pessoa idosa, estrangeira e com baixa instrução, o que não foi observado, gerando graves danos à vida e subsistência da apelante.
+Já no contrato apresentado pelas apeladas, consta a informação de que se trata de cidadã brasileira, indicando o descaso com a consumidora e que não houve, de fato, uma conversa com ela, pois, caso tivesse havido, as informações estariam corretas e a autora teria sido devidamente informada acerca da contratação que lhe ofereciam.
+Outrossim, as ora recorridas também tinham ciência de que a recorrente não possuía mais margem consignável, uma vez que já possuía empréstimo consignado com descontos de R$ 423,50, em 15 parcelas, nos seus parcos rendimentos (R$ 1.412,00), contudo, ainda assim, não avalialiaram de forma responsável as condições de crédito da consumidora e lhe concederam crédito pessoal, violando o art. 6º, XI, XII e o art. 54-D, todos do Código de Defesa do Consumidor.
+ ..
+Desse modo, está claramente demonstrada a prática abusiva das apeladas, que deixaram sua consumidora em situação de precariedade, restando-lhe apenas R$ 400,00 para sobreviver, não chegando sequer ao determinado como mínimo existencial (R$ 600,00).
+ ..
+Assim, a sentença de primeiro grau não pode ser mantida.
+Em decorrência da contratação irregular, a apelante foi indevidamente cobrada por dívida que não teve plena ciência de que estava contratando, colocando em grave situação a sua subsistência.
+Dessa forma, inexistindo a relação contratual entre as partes, conclui-se que as recorridas agiram sem as cautelas e diligências necessárias, causando transtorno na vida pessoal da parte autora, gerando a consequente obrigação de reparar o dano.
+Alterar o decidido no acórdão impugnado, no que se refere a existência de dano moral indenizável, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Verifica-se que não houve demonstração da divergência nos moldes legais, tendo em vista que a parte recorrente limitou-se a transcrever as ementas e não realizou o devido cotejo analítico, conforme previsto nos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ, atraindo o óbice da Súmula n. 284/STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre o valor atualizado da causa.
+Publique-se. Intimem-se.
+EMENTA
