@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MARCELO BATISTA ALVES, em que se aponta como ato coator a decisão monocrática de Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que indeferiu o pedido de liminar formulado no HC n. 2150667-56.2026.8.26.0000.
+Consta dos autos que o paciente é investigado pela suposta prática do crime de tráfico de drogas, no âmbito do Inquérito n. 1500719-90.2026.8.26.0455, em trâmite perante a Vara Regional das Garantias - 1ª RAJ - Osasco.
+Registrou-se que a Defesa requereu habilitação e acesso aos autos do procedimento investigatório, alegando a existência de medidas cautelares decretadas em desfavor do paciente e a necessidade de conhecer os elementos informativos já documentados e o Juízo de origem teria indeferido o acesso sob o fundamento de que há diligências investigativas em curso, mantendo o sigilo.
+Impetrado habeas corpus, o Desembargador Relator indeferiu o pedido liminar (fls. 12/13).
+Sustenta a Defesa que a negativa de acesso viola a Súmula Vinculante n. 14 do Supremo Tribunal Federal, por restringir o direito do defensor de examinar os elementos de prova já documentados que digam respeito ao exercício da ampla defesa.
+Afirma que o sigilo das investigações não pode impedir o acesso às peças já documentadas, sobretudo diante de medidas cautelares decretadas em desfavor do paciente, e que a negativa configura potencial abuso de autoridade nos termos do art. 32 da Lei n. 13.869/2019.
+Assevera que, sendo o inquérito digital, é possível resguardar o sigilo de diligências em curso em autos apartados, sem supressão do acesso às provas já formalizadas, e que a restrição impõe desequilíbrio processual e constrangimento ilegal, atingindo o status libertatis do paciente.
+Requer a concessão da ordem para assegurar o acesso do defensor aos elementos de prova já documentados no procedimento investigatório, nos termos da Súmula Vinculante n. 14, e, no mérito, a confirmação definitiva desse direito.
+É o relatório.
+Decido.
+De plano, observo que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário, incidindo analogicamente à hipótese a Súmula n. 691/STF, in verbis:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Em análise perfunctória, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, sobretudo diante da decisão do Desembargador Relator do writ originário que, em juízo preliminar, não se sentindo apta para se manifestar com a profundidade ordinária que o caso exige, requisitou informações à autoridade apontada como coatora e o parecer ministerial para melhor firmar a sua convicção sobre o caso.
+O Desembargador Relator indeferiu o pedido liminar nos seguintes termos (fls. 12/13 - grifamos):
+O impetrante ajuizou o presente pedido de habeas corpus com pedido liminar, contra decisão1 que indeferiu o pedido de habilitação e acesso da defesa aos autos de investigação que apura a suposta prática do crime de tráfico de drogas.
+Alega violação às prerrogativas da advocacia, ao contraditório e à ampla defesa, alegando afronta à Súmula Vinculante nº 14 do Supremo Tribunal Federal, uma vez que foi negado acesso aos elementos já documentados no procedimento investigatório, apesar da existência de medidas cautelares decretadas em desfavor do paciente. Afirma, ainda, que o sigilo da investigação não justifica a restrição pretendida.
+Requer seja assegurado ao patrono o acesso aos autos e às provas já documentadas. Há pedido liminar.
+O paciente está sendo investigado no curso dos autos de n º 1500719-90.2026.8.26.0455.
+Verifica-se que às folhas 10 dos presentes autos, consta decisão a qual indeferiu a habilitação solicitada pelo patrono do paciente, nos termos da cota do DD. Representante do Ministério Público, apontando restarem pendentes diligências investigativas em andamento.
+Afigura-se inviável, a concessão da liminar, já que não restou comprovado o periculum in mora, eis que como visto, , o que se afasta, em tese, a incidência da Súmula Vinculante nº 14 do STF, eis que o direito de acesso do investigado só compreende elementos de prova já documentados em procedimento investigatório, após a finalização da medida, visando possibilitar o sucesso do ato investigatório, conforme a jurisprudência do Supremo Tribunal Federal.
+Ante o exposto, INDEFIRO A LIMINAR postulada. Requisitem-se informações à autoridade coatora, que deverá indicar a existência de peças e diligências já completadas que levaram à decretação e remetam-se os autos à Procuradoria Geral de Justiça para que após, tornem conclusos.
+É firme a jurisprudência desta Corte no sentido de que a Súmula Vinculante 14 garante o amplo acesso da defesa ao procedimento policial, desde que não se trate de diligências em curso, o que é a hipótese dos autos. Nesse sentido:
+DIREITO PENAL. DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PARTICIPAÇÃO DOS ADVOGADOS DE DEFESA NA OITIVA DOS POLICIAIS CONDUTORES. NEGATIVA. DILIGÊNCIA EM CURSO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. AGRAVO IMPROVIDO.
+1. O acórdão recorrido está em consonância com a jurisprudência do Superior Tribunal de Justiça, segundo a qual não configura irregularidade a ausência do advogado nos atos do inquérito policial, que ostenta natureza inquisitiva e informativa, no qual deve ser assegurada a ampla defesa, mas não necessariamente o contraditório.
+2. A Súmula Vinculante n. 14 garante o amplo acesso da defesa ao procedimento policial, desde que não se trate de diligências em curso, o que é exatamente o caso dos autos, no qual foi indeferida a presença dos advogados na oitiva dos policiais responsáveis pela prisão do paciente ainda no momento do registro do flagrante em delegacia.
+3. O art. 7º, XXI, da Lei n. 8.906/1994 garante ao advogado o direito d e assistir aos seus clientes durante as investigações, mas não lhe assegura o direito de acompanhar a realização de todas as diligências em andamento nem autoriza que ele esteja presente durante a oitiva de qualquer pessoa ouvida no inquérito, além de seus próprios clientes.
+4. Agravo regimental improvido.
+(AgRg no RHC n. 224.471/PR, relator Ministro Og Fernandes, Sexta Turma, julgado em 22/4/2026, DJEN de 27/4/2026 - grifamos.)
+Nestes termos, a situação dos autos não apresenta nenhuma excepcionalidade a justificar a prematura intervenção desta Corte e a superação da Súmula 691/STF.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
