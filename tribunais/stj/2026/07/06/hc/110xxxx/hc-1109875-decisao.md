@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de BRUNO TEIXEIRA DA SILVA, preso preventivamente e acusado pela prática, em tese, dos crimes de tentativa de homicídio qualificado e associação para o tráfico de drogas (Processo n. 0000808-08.2026.8.19.0028, da 1ª Vara Criminal da comarca de Macaé/RJ).
+O impetrante aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, que, em 13/6/2026, denegou a ordem no HC n. 0033896-24.2026.8.19.0000, mantendo a prisão preventiva.
+Alega, preliminarmente, o cabimento do writ e a superação de óbices formais diante de flagrante ilegalidade, sustentando que o habeas corpus substitutivo pode ser conhecido para sanar teratologia e abuso de poder, com concessão de ofício.
+Afirma nulidade do reconhecimento fotográfico por violação ao art. 226 do Código de Processo Penal, realizado mediante exibição simultânea de dez fotografias, e demonstração objetiva do fenômeno de falsas memórias, destacando que, no mesmo procedimento, a vítima reconheceu "com certeza absoluta" corréu que comprovadamente se encontrava em outro Estado no momento dos fatos, o que contaminaría toda a diligência e afastaria a justa causa para a custódia.
+Sustenta inclusão tardia e imputação genérica do paciente, pois o primeiro depoimento audiovisual da vítima, prestado em 13/2/2026, não mencionou o nome ou traços do paciente; apenas uma semana depois surgiu referência lacônica de que ele "chegou no carro Ford Focus", sem individualização de conduta agressiva.
+Aduz fundamentação inidônea da prisão preventiva, com afronta à Súmula n. 444 do Superior Tribunal de Justiça e ao art. 28-A, § 12, do Código de Processo Penal, porque o acórdão teria indevidamente valorado anotação criminal vinculada a acordo de não persecução penal, além de se basear na gravidade abstrata do concurso de agentes.
+Aponta condições pessoais favoráveis - residência fixa, trabalho lícito no comércio familiar de alimentos e vínculos familiares - que, aliadas à fragilidade probatória, tornariam a prisão medida desproporcional.
+Em caráter liminar, pede a suspensão imediata dos efeitos do decreto de prisão preventiva, com expedição de contramandado e baixa no Banco Nacional de Monitoramento de Prisões; e, no mérito, requer: i) reconhecimento da nulidade absoluta do reconhecimento fotográfico, com seu desentranhamento; ii) revogação definitiva da prisão preventiva por ausência de justa causa e de fundamentação idônea; iii) subsidiariamente, substituição por medidas cautelares do art. 319 do Código de Processo Penal.
+Os autos vieram a mim conclusos por prevenção do HC n. 1.096.948/RJ.
+É o relatório.
+Com efeito, a parte impetrante não se desincumbiu do ônus de instruir suficientemente o writ com a cópia da decisão que decretou a prisão preventiva do paciente, peça essencial para a verificação da verossimilhança das alegações e que poderia dar suporte à premissa da defesa.
+Como é sabido, o habeas corpus, ação constitucional de natureza mandamental destinada a afastar eventual ameaça ao direito de ir e vir, tem, em virtude de seu escopo, natureza urgente e, por essa razão, não comporta dilação probatória e exige prova pré-constituída das alegações, a qual deve ser trazida no momento do seu ajuizamento, cabendo o ônus da instrução à parte impetrante.
+Nesse sentido: AgRg no RHC n. 216.241/SP, Ministro Ribeiro Dantas, Quinta Turma, DJEN 4/7/2025; AgRg no HC n. 970.516/BA, Ministro Og Fernandes, Sexta Turma, DJEN 12/3/2025; e RCD no HC n. 954.142/PR, Ministro Og Fernandes, Sexta Turma, DJEN 2/12/2024.
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. ASSOCIAÇÃO AO TRÁFICO DE DROGAS. NULIDADE. RECONHECIMENTO FOTOGRÁFICO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO DA CUSTÓDIA CAUTELAR. DEFICIÊNCIA NA INSTRUÇÃO DO PEDIDO. ÔNUS DO IMPETRANTE. FALTA DE PEÇA ESSENCIAL. INVIABILIDADE DE VERIFICAÇÃO DA VEROSSIMILHANÇA DAS ALEGAÇÕES.
+Writ não conhecido.
