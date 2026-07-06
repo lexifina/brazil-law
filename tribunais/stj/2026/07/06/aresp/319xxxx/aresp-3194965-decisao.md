@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra a decisão que inadmitiu o recurso especial, fundado no art. 105, III, a, da Constituição Federal, apresentado contra o acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais no julgamento da apelação criminal n. 1.0351.14.001243-3/001, assim ementado (fls. 4011/4012):
+APELAÇÃO CRIMINAL - FALSIDADE IDEOLÓGICA E PECULATO DESVIO - PRELIMINAR DE NULIDADE DE SENTENÇA POR AUSÊNCIA DE FUNDAMENTAÇÃO - ACOLHIMENTO - SENTENÇA ANULADA - PREJUDICIAL DE MÉRITO - ART. 299 DO CP - PRESCRIÇÃO RECONHECIDA - ART. 1ª, I, DO DECRETO- LEI 201/67 - PRESCRIÇÃO DA PRETENSÃO PUNITIVA RECONHECIDA DE OFÍCIO - POSSIBILIDADE - RECURSO PROVIDO.
+1. O artigo 93, inciso IX, da Constituição Federal exige fundamentação adequada de todas as decisões judiciais, como garantia da ampla defesa e do contraditório.
+2. A omissão quanto à análise de tese defensiva relevante configura nulidade absoluta, por cerceamento de defesa e violação aos princípios constitucionais do devido processo legal.
+3. Anulada a primeira decisão, operando-se o trânsito em julgado para o Ministério Público, não pode o magistrado de primeiro grau proferir nova sentença além dos limites an teriormente estabelecidos, agravando as penas.
+4. Reconhecida a nulidade da sentença, opera-se a prescrição quando transcorrido o prazo prescricional entre o recebimento da denúncia e a decisão que decretou aquele vício, tendo em vista a inexistência de causa interruptiva.
+5. Preliminar de nulidade de sentença acolhida, reconhecida a prescrição da pretensão punitiva em relação ao delito previsto no art. 299 do CP e declarada, de ofício, a prescrição da pretensão punitiva em relação ao delito previsto no art. 1º, inciso I do Decreto-Lei 201/67.
+Nas razões do recurso especial, a parte agravante suscita violação dos arts. 1º, I, do Decreto-Lei n. 201/1967; 315, § 2º, IV e VI, 381, III, 564, IV, e 619, todos do Código de Processo Penal (fls. 4068/4073).
+Alega que a nulidade da sentença por omissão quanto às teses defensivas deveria ter sido arguida por meio de embargos de declaração pela defesa; ausente essa providência, operou-se a preclusão da matéria, com o consequente afastamento da prescrição reconhecida quanto ao art. 1º, I, do Decreto-Lei n. 201/1967 e retorno dos autos ao Tribunal de Justiça para prosseguimento do julgamento da apelação (fls. 4070/4073).
+Argumenta que houve deficiência de fundamentação no acórdão dos embargos de declaração, por não enfrentar a tese de preclusão, atraindo a incidência do art. 619 e do art. 315, § 2º, IV e VI, ambos do Código de Processo Penal (fls. 4069/4071).
+Sustenta que está presente o prequestionamento ficto da matéria, à luz do art. 1.025 do Código de Processo Civil, diante da oposição de embargos ministeriais e da persistência da omissão no acórdão aclaratório (fls. 4069/4072).
+Defende que a tese recursal é exclusivamente jurídica e encontra amparo na jurisprudência do Superior Tribunal de Justiça, ou seja, preclusão da alegação de nulidade por omissão da sentença quando não opostos embargos de declaração, citando o AgRg no AREsp n. 1.661.876/MG (fls. 4071/4072).
+A Corte de origem inadmitiu o recurso especial com base nos seguintes fundamentos: 1) incidência da Súmula 7/STJ; 2) aplicação da Súmula 83/STJ, citando o AREsp n. 2.699.052/RJ, com (fls. 4089/4090), sendo a decisão atacada pelo presente agravo (fls. 4098/4105).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou pelo desprovimento do agravo (fls. 4140/4142).
+É o relatório.
+O presente agravo em recurso especial deve ser conhecido, uma vez que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+No caso dos autos, o Tribunal a quo anulou a sentença por nulidade absoluta decorrente de vício de fundamentação, consubstanciado na omissão do juízo singular quanto ao exame de teses defensivas relevantes articuladas nas alegações finais (promotor natural e ausência de notificação para defesa preliminar), em violação ao art. 93, IX, da Constituição da República, o que acarreta prejuízo à ampla defesa e ao contraditório (fls. 4015/4017).
+Nesse contexto, infere-se que a Corte de origem, soberana na análise aprofundada das provas, apontou elementos idôneos e judicializados para demonstrar a ocorrência de prejuízo para a defesa.
+Consta, inclusive, na sentença a ressalva de que  ..  Faltam duas preliminares (promotor natural e rito ordinário x rito funcional)  ..  (fl. 3050).
+Não há falar em violação aos dispositivos de lei apontados pelo recorrente, já que no recurso de apelação a defesa apontou a ausência de prestação jurisdicional, alegando não ter, o magistrado sentenciante, analisado todas as teses defensivas.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. NULIDADE DE SENTENÇA POR AUSÊNCIA DE FUNDAMENTAÇÃO. OMISSÃO NA ANÁLISE DE TESES DEFENSIVAS. PROMOTOR NATURAL. AUSÊNCIA DE NOTIFICAÇÃO PARA DEFESA PRELIMINAR. AMPLA DEFESA E CONTRADITÓRIO. SOBERANIA DAS INSTÂNCIAS ORDINÁRIAS NA ANÁLISE PROBATÓRIA. AUSÊNCIA DE VIOLAÇÃO AOS DISPOSITIVOS APONTADOS.
+1. A nulidade da sentença por ausência de fundamentação se caracteriza quando há omissão na análise de teses defensivas relevantes, com prejuízo à ampla defesa e ao contraditório.
+2. No caso concreto, o Tribunal de origem anulou a sentença por nulidade absoluta decorrente de omissão na apreciação de teses defensivas relevantes, reconhecendo prejuízo à defesa e registrando ressalva de incompletude na decisão recorrida.
+3. À vista disso, não se verifica violação aos dispositivos invocados no recurso especial, já que consta expressamente na sentença a ressalva de não análise de duas preliminares.
+4. Agravo conhecido para negar provimento ao recurso especial.
