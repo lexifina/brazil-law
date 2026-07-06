@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo JUÍZO DE DIREITO DA VARA DAS FAZENDAS PÚBLICAS DE NIQUELÂNDIA - GO em virtude de decisão declinatória de competência proferida pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO (TRF1), nos autos da reclamação trabalhista ajuizada contra o INSTITUTO NACIONAL DO SEGURO SOCIAL (INSS), em que a parte autora pleiteou indenização por danos morais e materiais pela morte de servidor no exercício do cargo público federal.
+O TRF1, ao apreciar o recurso de apelação da parte autora, reconheceu a sua incompetência sob o seguinte fundamento:
+"A apelante pleiteia indenização por dano material e mora, com base em acidente de trabalho, além de horas extras e intrajornada. Em tal hipótese, a competência para processar e julgar o feito não é da Justiça Federal, conforme interpretação do Superior Tribunal de Justiça, porque decorrente de ação acidentária, que a Constituição Federal expressamente excluiu de sua competência" (fl. 134).
+A Justiça estadual, por sua vez, declarou-se incompetente nestes termos (fls. 154/155):
+No caso em exame, figura no polo passivo autarquia federal, qual seja, o INSS, sendo a pretensão deduzida de viés indenizatório. A circunstância de o fato gerador do dano estar relacionado a acidente de trabalho não transmuda a natureza jurídica da demanda, que não versa sobre concessão, revisão ou restabelecimento de benefício previdenciário acidentário, mas sim sobre reparação civil.
+A Súmula 501 do Supremo Tribunal Federal, ao dispor sobre a competência da Justiça comum para as causas decorrentes de acidente de trabalho, deve ser interpretada restritivamente, à luz do próprio sistema constitucional, alcançando as ações acidentárias típicas, especialmente aquelas voltadas à obtenção de benefícios previdenciários. A ampliação de seu alcance para abarcar demandas indenizatórias propostas diretamente contra autarquia federal implicaria indevida mitigação da regra prevista no art. 109, I, da Constituição Federal, o que não se admite.
+De igual modo, os pedidos de pagamento de horas extraordinárias e indenização pela supressão de intervalo intrajornada não alteram a definição da competência. Isso porque tais parcelas decorrem do exercício de cargo público submetido a regime jurídico estatutário, não configurando relação de trabalho regida pela Consolidação das Leis do Trabalho.
+Assim, tanto a pretensão indenizatória quanto os pedidos de natureza remuneratória inserem-se no âmbito de uma relação jurídico-administrativa mantida com ente federal, o que reforça a incidência da regra geral de competência da Justiça Federal, prevista no art. 109, I, da Constituição Federal.
+Parecer do Ministério Público Federal (MPF) pela declaração da competência da Justiça Federal (fls. 167/169).
+É o relatório.
+Inicialmente, conheço do conflito, pois há um juízo e um tribunal distintos declinando de suas respectivas competências.
+Neste processo, o objetivo é saber qual juízo seria competente para processar e julgar demanda em que os familiares de servidor público federal, falecido em acidente de trabalho, pleiteiam de ente público reparação por danos materiais e morais.
+A Primeira Seção desta Corte, no julgamento do Conflito de Competência 91.572/RJ, de relatoria do Ministro Teori Albino Zavascki (DJe de 7/4/2008), consagrou orientação no sentido de que compete à Justiça comum estadual processar e julgar as ações de indenização por danos morais e materiais decorrentes de acidente de trabalho quando envolverem servidores públicos, ainda que de entidades federais (União, suas autarquias e empresas públicas), nos termos do art. 109, I, da Constituição Federal.
+A propósito , cito os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS DECORRENTES DE ACIDENTE DE TRABALHO. SERVIDOR ESTATUTÁRIO. COMPETÊNCIA DA JUSTIÇA ESTADUAL. SÚMULA VINCULANTE N. 22/STF. NÃO INCIDÊNCIA ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 1973.
+II - Esta Corte já firmou o entendimento de que o julgamento das ações de indenização por danos morais e materiais decorrentes de acidente de trabalho, que envolverem servidor estatutário e o ente público, ainda que federal, a competência será da Justiça estadual.
+III - Impossibilidade de incidência da Súmula Vinculante n. 22, pois o caso concreto envolve servidor público estatutário e ente público.
+IV - A Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+V - Agravo Regimental improvido.
+(AgRg no CC n. 127.312/MG, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 22/2/2018, DJe de 28/2/2018.)
+PROCESSO CIVIL. CONFLITO DE COMPETÊNCIA. ACIDENTE DE TRABALHO SERVIDOR PÚBLICO ESTATUTÁRIO. AUTARQUIA FEDERAL.
+A competência para apreciar e julgar as causas em que se pleiteia indenização por acidente de trabalho, mesmo naquelas que envolverem servidor estatutário e ente público federal, será da Justiça Comum Estadual, pois as ações de acidente de trabalho, lato sensu, foram, nos termos do art. 109, I, da Constituição Federal, excluídas da competência da Justiça Federal.
+Agravo regimental desprovido
+(AgRg no CC 115.766/CE, relatora Ministra Marga Tessler, Juíza Federal Convocada do TRF 4ª Região, Primeira Seção, julgado em 8/10/2014, DJe de 14/10/2014.)
+Ainda, no mesmo sentido, estas recentes decisões monocráticas: CC 218.552, Ministro Afrânio Vilela, DJEN de 24/12/2025; CC 216.438, Ministro Teodoro Silva Santos, DJEN de 3/11/2025; CC 215.103, Ministro Teodoro Silva Santos, DJEN de 22/10/2025; e CC 199.044, Ministro Paulo Sérgio Domingues, DJe de 1º/2/2024.
+Pelo exposto, conheço do conflito de competência para declarar competente o JUÍZO DE DIREITO DA VARA DAS FAZENDAS PÚBLICAS DE NIQUELÂNDIA - GO, o suscitado.
+Publique-se. Comunique-se.
+ EMENTA
