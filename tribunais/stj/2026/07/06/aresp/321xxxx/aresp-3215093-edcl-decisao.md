@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MUNICIPIO DE CARAPICUIBA contra a decisão que não conheceu do agravo em razão da ausência de impugnação específica dos fundamentos de inadmissão do recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante, em síntese, a existência de omissão na decisão embargada, ao argumento de que "o ato incorre em vício de omissão já que não foram fixados os honorários recursais, apesar da sucumbência da parte autora. Logo, pede-se que a omissão seja suprima. Ademais, se mantido com tal o ato, haverá vício de contradição om o teor normativo do art. 85, § 1º, do CPC, que prevê a fixação de honorários nos julgamentos dos recursos" (fl. 266).
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Os embargos não comportam acolhimento.
+O Código de Processo Civil, ao prever o instituto da majoração dos honorários advocatícios em razão do julgamento de recurso, condicionou sua aplicação aos processos cíveis, desde que haja prévia fixação de honorários pela instância a quo.
+Ademais, conforme dicção do Enunciado Administrativo n. 7 do Superior Tribunal de Justiça, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+Observe-se que não há omissão, porquanto somente serão majorados se houver prévia fixação de honorários de advogado pelas instâncias de origem. Assim, como não houve prévia fixação, não haverá, também, majoração.
+Outrossim, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de ser incabível a condenação ao pagamento de honorários advocatícios em sede de agravo de instrumento, objeto do Recurso Especial (AgInt no REsp 1850535/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 24.4.2020; AgInt no AREsp 1505380/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 5.11.2019.)
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo tema serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+ EMENTA
