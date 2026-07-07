@@ -1,0 +1,39 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de São Paulo, ementado nos seguintes termos:
+
+“Apelação Cível. Desapropriação. Embargos à Execução. Findo o processo de conhecimento e iniciado o processo de execução, inaugura-se novo juízo, o que se dá uma única vez, mesmo na execução em face da Fazenda Pública.
+Aplica-se o artigo 730 do CPC para o início da execução, tão-somente - Desnecessária nova citação decorrente de insuficiência de depósito de precatório, devendo Estado ser instado se manifestar acerca do cálculo, na execução, defeso novos embargos.
+Anula-se o processo, prejudicados recurso voluntário remessa oficial”. (eDOC 12 – ID: 2c9ca7d9)
+
+No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5º, LIV e LV, 100, 165, §§ 8º e 9º, e 167, II e V, do texto constitucional. (eDOC 18 – ID: c858d49c)
+Nas razões recusais, insurge-se contra acórdão que, em sede de embargos à execução em ação de desapropriação, extinguiu a execução, considerando a necessidade de expedição de precatório complementar.
+Alega-se que “[n]ão existe a possibilidade legal de ser determinado um pagamento, a título de complementação, sem a precedente citação e a eventual interposição de embargos. Daí a necessidade de pronta correção, mediante a determinação de citação, nos termos da Constituição Federal”. (eDOC 18 – ID: c858d49c, p. 6)
+Restituídos os autos ao órgão julgador para eventual juízo de retratação com relação ao tema 266 da repercussão geral, o acórdão recorrido foi mantido em decisão assim ementada:
+
+“Desapropriação – Embargos à execução – Precatório – Art. 33 do ADCT – Depósito insuficiente - Divergência quanto aos critérios de atualização do débito - Determinação do juízo ex officio de nova citação do devedor – Acordão que reconheceu a desnecessidade da medida - Carência decretada e anulação do processo ab ovo – Tema n° 266/STF: “Expedição de precatório complementar. Necessidade de citação da Fazenda Pública. Ratificação da jurisprudência firmada por esta Suprema Corte. Existência de Repercussão Geral”.
+A medida cabível tão somente para o início da execução - Desnecessidade de nova situação na hipótese de insuficiência de depósito de precatório - mera determinação de manifestação do devedor acerca do cálculo, na execução, defeso novos embargos.
+Acórdão mantido”. (eDOC 28 – ID: ff2989a7)
+
+Após o recurso extraordinário foi inadmitido e, após a interposição de agravo, os autos foram encaminhados a esta Corte.
+É o relatório.
+Decido.
+Inicialmente, registro que o Supremo Tribunal Federal julgou o mérito do ARE 1.491.413, Rel. Min. Presidente, DJe 29.11.2024, paradigma do tema 1.360 da repercussão geral, no qual se assentou que é vedada a expedição de precatórios complementares ou suplementares de valor pago, salvo nas hipóteses de erro material, inexatidão aritmética ou substituição de índices aplicáveis por força de alteração normativa. Eis o acórdão deste precedente:
+
+“Direito constitucional e processual civil. Recurso extraordinário com agravo. Complementação de precatório. Substituição de índices. Possibilidade. Reafirmação de jurisprudência. I. Caso em exame 1. Recurso extraordinário com agravo contra acórdão do Tribunal de Justiça de São Paulo que rejeitou impugnação do Estado quanto à necessidade de expedição de novo precatório para a complementação de diferença de correção monetária. Isso ao fundamento de que é possível a complementação de depósito insuficiente nos casos de substituição de índices por força de lei. II. Questão em discussão 2. A questão em discussão consiste em saber se o § 8º do art. 100 da Constituição, que veda a expedição de precatórios complementares ou suplementares de valor pago, se aplica aos casos de depósito insuficiente decorrente de substituição de índices de correção monetária por alteração normativa. III. Razões de decidir 3. A jurisprudência do STF afirma que a vedação constitucional à expedição de precatórios complementares ou suplementares não se aplica às hipóteses de erro material e de inexatidão aritmética de cálculos de precatório expedido. 4. De igual forma, o Supremo admite a complementação de depósito insuficiente de precatório nos casos de substituição de índices de correção monetária por alteração legislativa. Identificação de grande volume de ações sobre o tema. 5. A verificação de enquadramento nas hipóteses admitidas de expedição de precatório complementar ou suplementar exige o reexame de matéria fático-probatória (Súmula 279/STF). IV. Dispositivo e tese 6. Recurso extraordinário conhecido e desprovido. Teses de julgamento: “1. É vedada a expedição de precatórios complementares ou suplementares de valor pago, salvo nas hipóteses de erro material, inexatidão aritmética ou substituição de índices aplicáveis por força de alteração normativa; 2. A verificação de enquadramento nas hipóteses admitidas de complementação ou suplementação de precatório pressupõe o reexame de matéria fático-probatória” (ARE 1491413 RG, Rel. Min. Presidente, Tribunal Pleno, DJe 29.11.2024)
+
+Na espécie, o Tribunal de origem deferiu a expedição de precatório complementar, tendo em vista a insuficiência do depósito efetuado pelo Estado de São Paulo, ocorrendo justamente a hipótese de inexatidão aritmética. Nesse sentido, extrai-se o seguinte trecho do acórdão proferido em sede de juízo de retratação:
+
+“Ao revés, trata-se de mera atualização do débito originário, pago em atraso pelo executado, de execução há muito iniciada, cujo requisitório data de 29 de janeiro de 1986 (fl. 415vº), no qual as partes divergem sobre os critérios incidentes sobre valor devido.
+Nesse sentido, sem adentrar ao mérito, colhe-se que, após o pagamento da oitava parcela, os exequentes pleitearam a realização de cálculos à luz do RE 189.172-6/SP (fl. 538 - apenso). Apresentados os cálculos pelo Contador Judicial (fl. 542/546), requereram a homologação, e a expedição de ofício requisitório relativo insuficiência dos depósitos, nos termos suso referidos.
+Assim, desnecessária nova citação decorrente de insuficiência de depósito de precatório, devendo o Estado ser instado se manifestar acerca do cálculo, na execução, defeso novos embargos, providência que, além de não colidir com o Tema nº 266 do Supremo Tribunal Federal, preserva o precatório original, e assegura a obediência da ordem cronológica dos créditos.
+(...)
+Assim, indubitavelmente, não se vislumbra hipótese de incidência da tese fixada pelo Pretório Excelso no Tema n° 266 no V. Acordão de fl. 193/200, que reconheceu a carência de ação, e determinou a anulação do processo ab ovo, em virtude da desnecessidade in casu de nova situação do devedor, dispensando a providência prevista no artigo 730 da lei adjetiva civil então vigente, ressaltando que seus preceitos somente se aplicam no início da execução para pagamento de quantia certa e não para liquidações posteriores decorrentes de atualização de cálculos (cf. AgRg RI 494.164-SP, rel. Min. Paulo Medina), de modo que outra não pode ser a solução, senão a manutenção do decisum.
+(...)”. (eDOC 28 – ID: ff2989a7, p. 5-10)
+
+Assim, verifica-se que o acórdão do Tribunal de origem está devidamente alinhado à jurisprudência do Supremo Tribunal Federal, que entende ser possível a expedição de precatório complementar nas hipóteses em que apurado erro material, inexatidão aritmética ou substituição de índices aplicáveis por força de alteração normativa.
+Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+Publique-se.
+Brasília, 7 de julho de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
