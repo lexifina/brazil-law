@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por LOURENCO CONSTRUTORA E INCORPORADORA LTDA à decisão que conheceu do Agravo para não conhecer do Recurso Especial, em razão da aplicação de óbices de admissibilidade recursal, nos termos do art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante:
+A decisão embargada, ao tratar da primeira controvérsia do Recurso Especial (violação ao art. 139, IV, do CPC), adotou dois fundamentos de inadmissão que se excluem mutuamente, incorrendo em contradição interna sanável pela via dos embargos de declaração, nos termos do art. 1.022, inciso I, do Código de Processo Civil.
+ ..
+A decisão embargada afirmou, em relação à primeira controvérsia, que "incide a Súmula n. 284/STF, tendo em vista que a parte recorrente deixou de indicar precisamente os dispositivos legais que teriam sido violados". Imediatamente depois, no mesmo fundamento e quanto ao mesmo recurso, assentou que "o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos", aplicando a Súmula 7/STJ como fundamento adicional e simultâneo (e-STJ Fl. 230).
+A incompatibilidade lógica é manifesta: a Súmula 284/STF pressupõe deficiência na fundamentação recursal que impede a exata compreensão da controvérsia, ou seja, parte da premissa de que os dispositivos legais não foram indicados com precisão suficiente para que o tribunal superior pudesse examinar o recurso.
+Já a Súmula 7/STJ pressupõe exatamente o oposto: que o recurso chegou ao exame do mérito e que o acolhimento da tese demandaria a análise do substrato fático- probatório. Se o recurso não indicou os dispositivos violados (Súmula 284/STF), não há como, simultaneamente, afirmar que seu acolhimento demandaria reexame fático (Súmula 7/STJ), pois a segunda premissa exige que o recurso tenha sido compreendido em sua inteireza.
+ ..
+A decisão embargada incorre em omissão sanável nos termos do art. 1.022, inciso II, do CPC, ao deixar de enfrentar o argumento central das razões do Agravo em Recurso Especial, consistente na demonstração analítica de que a controvérsia posta no Recurso Especial não demandava reexame de prova, mas sim a revaloração jurídica de fato já incontroverso no acórdão recorrido.
+ ..
+Nas razões do Agravo em Recurso Especial, a Embargante sustentou expressamente, com fundamento em jurisprudência desta própria Corte Superior, que "em momento algum o Recurso Especial solicitou que o STJ verificasse se o oficial de justiça cumpriu o mandado ou se os ofícios foram expedidos; tais fatos já estão delineados e admitidos no acórdão recorrido. O que se busca é a qualificação jurídica desses fatos incontroversos frente à legislação federal" . A decisão embargada silenciou por completo sobre esse argumento.
+ ..
+A decisão embargada incorre em nova omissão ao concluir, sem fundamentação específica, que o cotejo analítico realizado nas razões do Recurso Especial e reiterado no Agravo era insuficiente para demonstrar o dissídio jurisprudencial, sem apontar, concretamente, qual elemento exigível pelo art. 1.029, § 1.º, do CPC estava ausente. O vício é sanável nos termos do art. 1.022, II, do CPC. (fls. 238-240).
+Requer, assim, o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Primeiramente, inexiste contradição na decisão atacada ao aplicar cumulativamente a Súmula 284/STF, em razão da ausência de indicação dos dispositivos tidos como violados, e a Súmula 7/STJ, tendo em vista a impossibilidade do reexame do substrato fático-probatório dos autos.
+Isso porque o julgador possui a prerrogativa de julgamento integral do recurso em análise.
+De fato, no caso concreto, a parte recorrente deixou de indicar precisamente os dispositivos legais que teriam sido violados pelo acórdão impugnado, hipótese de aplicação da Súmula 284/STF.
+Ao mesmo tempo, a tese recursal (possibilidade de utilização do Cadastro Nacional de Indisponibilidade de Bens (CNIB) como medida executiva atípica na execução, em razão de estarem esgotados os meios executivos típicos), em cotejo com a conclusão do acórdão recorrido, no sentido de que " ..  antes de esbarrar na Central Nacional de Indisponibilidade de Bens  ..  existem outras medidas para o êxito da execução promovida pela instituição ora agravante" (fl. 82), não poderia ser examinada sem o reexame do acervo fático-probatório juntado aos autos. Correta, portanto, a aplicação da Súmula 7/STJ.
+Assim, não se vislumbra qualquer contradição na aplicação conjunta das Súmulas 284/STF e Súmula 7/STJ.
+Em segundo lugar, a decisão embargada analisou o recurso especial de forma clara e bem fundamentada, não restando patente qualquer nulidade.
+Com efeito, a controvérsia trazida nas razões recursais não deve ser conhecida, já que, - repita-se - para tanto, obrigatório seria o reexame de fatos e provas contidos nos autos, especialmente quanto necessidade da utilização do Cadastro Nacional de Indisponibilidade de Bens (CNIB) como medida executiva.
+Do mesmo modo, tampouco deve ser conhecida a controvérsia relativa à alínea "c" do permissivo constitucional. Como bem ressaltado na decisão embargada, a parte recorrente não efetuou adequadamente o confronto das teses jurídicas existentes entre o acór dão de origem e os julgados paradigmas, conforme determinação legal e regimental.
+Em terceiro lugar, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 28.8.2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+ EMENTA
