@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, om fundamento no artigo 105, III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ fls. 178/184):
+AGRAVO EM EXECUÇÃO - REEDUCANDO EM REGIME SEMIABERTO - CUMPRIMENTO DE PENA EM PRISÃO DOMICILIAR - RECONHECIMENTO DE FALTA GRAVE - IMPOSSIBILIDADE - INEXISTÊNCIA DE PREVISÃO LEGAL. Não é cabível o reconhecimento de falta grave quando o reeducando descumpre as condições do regime semiaberto, havendo previsão legal exclusivam ente para o descum prim ento das condições no aberto, nos termos do artigo 50, inciso V da LEP. Inviável, portanto, estender as hipóteses de falta grave para além das legalmente previstas, sob pena de ofender o princípio da reserva legal.
+Nas razões do recurso especial (e-STJ fls. 192/198) sustenta violação ao art. 50, inciso V, da Lei de Execução Penal, afirmando, em síntese, que o descumprimento da monitoração eletrônica na prisão domiciliar concedida no regime semiaberto harmonizado  por consistir em antecipação das condições do regime aberto, à luz da Súmula Vinculante n. 56 e do Tema Repetitivo n. 993 do STJ  configura falta grave, impondo o reconhecimento judicial e a aplicação dos consectários legais.
+Apresentadas contrarrazões (e-STJ fls. 203/206), o Tribunal de origem admitiu o recurso especial (e-STJ fls. 210/213). O MPF manifestou-se pelo provimento do recurso (e-STJ, fls. 228/237).
+É o relatório. Decido.
+O Juiz das execuções criminais reconheceu falta grave disciplinar ao reeducando que cumpria a pena em regime semiaberto harmonizado por falta de vagas no regime semiaberto, consistente em descumprimento das condições de monitoramento eletrônico, aplicando a ele os consectários legais (perda de dias remidos, interrupção do prazo para progressão e regressão de regime) e a revogação da prisão domiciliar.
+O Tribunal, contudo, concedeu parcialmente o recurso, ao deixar de aplicar os consectários legais e manter apenas a revogação da domiciliar, por julgar que o descumprimento das condições do monitoramento na domiciliar é prevista como falta grave somente no regime aberto.
+A decisão da instância de origem não está em consonância com os julgados desta Corte.
+O descumprimento das regras do monitoramento é previsto como falta grave na LEP, independentemente de estar o apenado no regime aberto ou semiaberto, porque significa descumprimento das ordens recebidas (regras) - art. 50,VI, c/c art. 39, V.
+Nesse sentido:
+RECURSO ESPECIAL. PROPOSTA DE JULGAMENTO SOB O RITO DOS RECURSOS REPETITIVOS. EXECUÇÃO PENAL. DESCUMPRIMENTO DO PERÍMETRO FIXADO PARA MONITORAMENTO DE TORNOZELEIRA ELETRÔNICA. CARACTERIZAÇÃO DE FALTA GRAVE. INTELIGÊNCIA DOS ARTS. 50, INCISO VI, E 39, INCISO V, DA LEI DE EXECUÇÃO PENAL. MULTIPLICIDADE DE CASOS SEMELHANTES. SUSPENSÃO DOS PROCESSOS. DESNECESSIDADE. RECURSO ESPECIAL AFETADO.
+1. Questão de direito a ser definida: "A inobservância do perímetro estabelecido para monitoramento de tornozeleira eletrônica configura falta disciplinar de natureza grave, nos termos dos arts. 50, VI, e 39, V, da Lei de Execuções Penais."
+2. A matéria em debate, conforme pontuado pela Comissão Gestora de Precedentes, já foi, por diversas vezes, objeto de julgamento neste Tribunal Superior nas duas Turmas que compõem esta Terceira Seção, o que demonstra a multiplicidade de recursos que versam sobre o referido tema.
+3. Desnecessidade da interrupção do andamento dos processos que tenham curso em primeiro e em segundo graus de jurisdição (art. 1.036, § 1º, do Código de Processo Civil).
+4. Recurso especial afetado a julgamento na sistemática dos recursos repetitivos, prevista nos arts. 1.036 e seguintes do Código de Processo Civil e 256 ao 256-X do Regimento Interno do Superior Tribunal de Justiça.
+(ProAfR no REsp n. 1.981.264/RS, relator Ministro Antonio Saldanha Palheiro, Terceira Seção, julgado em 18/2/2025, DJEN de 1/4/2025.)
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FALTA GRAVE POR DESCUMPRIMENTO DE CONDIÇÕES DO REGIME SEMIABERTO COM MONITORAÇÃO ELETRÔNICA. REGRESSÃO DE REGIME. RECURSO IMPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental contra decisão que não conheceu de habeas corpus, no qual se alegou constrangimento ilegal decorrente da homologação de falta disciplinar de natureza grave, relativa ao descumprimento das condições do monitoramento eletrônico.
+2. O Tribunal de origem manteve a decisão que homologou a falta grave, considerando o descumprimento reiterado das condições do regime semiaberto com monitoração eletrônica, consistente em violações da área de inclusão, descarregamento do equipamento e não comparecimento às obrigações impostas.
+II. QUESTÃO EM DISCUSSÃO
+3. Há duas questões em discussão: (i) saber se o descumprimento das condições do regime semiaberto com monitoração eletrônica configura falta grave, nos termos da Lei de Execução Penal, e autoriza a regressão de regime e os demais consectários legais; (ii) saber se é possível afastar ou desclassificar a falta grave para falta de natureza média ou leve, sem revolvimento do conjunto fático-probatório, na via do habeas corpus.
+III. RAZÕES DE DECIDIR
+4. O descumprimento das condições e dos limites impostos ao regime semiaberto com monitoração eletrônica caracteriza falta grave, conforme entendimento consolidado do Superior Tribunal de Justiça.
+5. A análise do enquadramento da conduta como falta grave não pode ser realizada por meio de habeas corpus, pois demandaria revolvimento do conjunto fático-probatório.
+6. A jurisprudência do STJ estabelece que o reconhecimento de falta disciplinar de natureza grave acarreta a aplicação de seus consectários legais, incluindo a regressão de regime, não sendo cabível a invocação do princípio da proporcionalidade para afastar tais consequências.
+IV. DISPOSITIVO E TESE
+7. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. O descumprimento das condições e dos limites impostos ao regime semiaberto com monitoramento eletrônico configura falta disciplinar de natureza grave na execução penal.
+2. A análise do enquadramento da conduta como falta grave não pode ser realizada por meio de habeas corpus, pois demandaria revolvimento do conjunto fático-probatório.
+3. A prática de falta grave durante a execução penal autoriza a aplicação de seus consectários legais, incluindo a regressão de regime, não sendo cabível a invocação do princípio da proporcionalidade para afastar tais consequências.
+Dispositivos relevantes citados: LEP, arts. 39, V, 50, VI, 118, I e 127.
+Jurisprudência relevante citada: STJ, AgRg no HC n. 1.042.342/GO, Rel. Min. Joel Ilan Paciornik, Quinta Turma, DJEN de 9/3/2026; STJ, HC n. 1.066.181/MG, Rel. Min. Sebastião Reis Júnior, Sexta Turma, DJEN de 24/3/2026; STJ, AgRg no HC n. 973.850/SP, Rel. Min. Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJEN de 2/6/2025; STJ, HC n. 769.948/SP, Rel. Min. Daniela Teixeira, Quinta Turma, DJEN de 14/2/2025; STJ, AgRg no HC n. 859.493/SC, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 19/6/2024; STJ, AgRg no HC n. 957.330/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, DJEN de 14/4/2025; STJ, AgRg no HC n. 965.323/RS, Rel. Min. Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJEN de 26/6/2025.
+(AgRg no HC n. 1.091.881/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/6/2026, DJEN de 1/7/2026.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. DESCUMPRIMENTO DE MONITORAMENTO ELETRÔNICO. FALTA GRAVE. VIA ADEQUADA E SUPRESSÃO DE INSTÂNCIA. DECISÃO MONOCRÁTICA MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental contra decisão monocrática que não conheceu do habeas corpus.
+2. Tribunal de origem não conheceu do habeas corpus por entender que a insurgência deveria ser veiculada por agravo em execução, por se tratar de matéria afeta ao juízo da execução penal, inexistindo situação excepcional de urgência. Descumprimento de monitoramento eletrônico, após audiência de justificação e garantia do exercício da defesa, caracterizado, em princípio, como falta grave apta a ensejar regressão de regime.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se: (i) o habeas corpus é cabível para impugnar matéria de execução penal passível de agravo em execução, sem situação excepcional de urgência, e se o exame pelo Superior implicaria supressão de instância; (ii) o descumprimento do monitoramento eletrônico, durante a execução penal, configura falta grave por desobediência à determinação judicial, independentemente do regime fixado na condenação; (iii) a decisão monocrática viola o princípio da colegialidade em controvérsia sobre liberdade e tipicidade disciplinar; e (iv) há manifesta ilegalidade a justificar medida liminar e o afastamento da regressão de regime.
+III. RAZÕES DE DECIDIR
+3. A decisão monocrática não viola o princípio da colegialidade, porquanto sujeita ao controle do órgão colegiado mediante agravo regimental, como no caso.
+4. Matéria afeta ao juízo da execução penal deve ser veiculada por agravo em execução; inexistente situação excepcional de urgência, o habeas corpus é incabível, e o exame direto pela instância superior configura supressão de instância.
+5. O descumprimento do perímetro imposto pelo monitoramento eletrônico, durante a execução penal, constitui desobediência a determinação judicial e caracteriza falta grave, nos termos da Lei de Execução Penal, art. 50, VI, c/c art. 39, V, independentemente do regime fixado na condenação.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no HC n. 1.054.895/SC, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 9/6/2026, DJEN de 16/6/2026.)
+Como bem fundamentado no parecer ministerial (e-STJ, fl. 230):
+Nesse contexto, entende-se que a monitoração eletrônica é condição inerente ao benefício da prisão domiciliar substitutiva. A violação do perímetro de inclusão ou o descaso com a carga da bateria do dispositivo revelam a autêntica quebra das obrigações da execução penal, equiparando-se à inobservância dos deveres previstos no art. 50, V, da LEP.
+Fazendo uma interpretação sistemática da LEP, embora o disposto no art. 146-B, da LEP, permita ao Juiz a aplicação de outras consequências mais leves (como a advertência), em caso de violação dos deveres do monitoramento, trata-se de uma decisão apenas discricionária. No caso, como foram diversas as violações não justificadas (mais de 10), bem fundamentado o reconhecimento como falta grave.
+Ante o exposto, dou provimento ao recurso especial, passar cassar o acórdão recorrido e determinar o restabelecimento da decisão do Juízo de origem, que havia reconhecido como falta grave o descumprimento das condições do regime semiaberto harmonizado, aplicando, em consequência, os consectários legais (regressão ao regime fechado, interrupção do prazo para progressão de regime e perda de dias remidos), além da revogação da prisão domiciliar.
+Comunique-se, com urgência.
+Intimem-se.
+EMENTA
