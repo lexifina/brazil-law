@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo interposto por HAPVIDA ASSISTENCIA MEDICA S.A. contra decisão que obstou a subida de recurso especial.
+A parte agravante interpôs recurso especial, com fundamento no art. 105, III, alínea a, da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 75):
+AGRAVO INTERNO Decisão monocrática que denegou o efeito suspensivo pretendido pela requerida Recurso desta Não acolhimento Necessidade de observância dos requisitos legais previstos pelo art. 995, parágrafo único, do Código de Processo Civil Risco de dano reverso Probabilidade do direito não demonstrada Impossibilidade de rediscussão de mérito em sede de cumprimento de sentença Decisão mantida RECURSO DESPROVIDO.
+Sem embargos de declaração.
+Nas razões do recurso especial, a HAPVIDA aduz que o acórdão contrariou as disposições contidas nos arts. 10, § 4º, da Lei n. 9.656/1998; 536 do Código de Processo Civil (CPC); 505, I, do CPC; e 995 do CPC.
+Sustenta, em síntese, que houve cerceamento de defesa pelo indeferimento de nova avaliação médica e pela não remessa dos autos ao Núcleo de Apoio Técnico do Poder Judiciário (NAT-Jus); que, por se tratar de obrigação de trato continuado, é imprescindível a reavaliação do quadro clínico para aferir a necessidade de continuidade do tratamento; e que estão presentes os requisitos do art. 995, parágrafo único, do Código de Processo Civil para concessão de efeito suspensivo (fls. 82-87).
+Sem contrarrazões ao recurso especial (fl. 92).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 93-94), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta ao agravo (fl. 103).
+Instado a se manifestar, o Ministério Público opinou pelo não provimento do agravo, apontando óbices das Súmulas n. 282, 284 e 356 do Supremo Tribunal Federal (fls. 120-122).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O recurso especial decorre de agravo de instrumento interposto em cumprimento de sentença que discute o fornecimento de medicamentos por plano de saúde. A insurgência visa atribuir efeito suspensivo ao processo para obstar o levantamento de valores e impor nova avaliação técnica, inclusive via NAT-Jus.
+Da análise do acórdão recorrido, observa-se que o Tribunal de origem, ao negar provimento ao agravo interno, limitou-se a consignar os requisitos do art. 995, parágrafo único, do CPC, a existência de risco de dano reverso, a ausência de probabilidade de provimento do recurso e a impossibilidade de rediscussão de mérito em sede de cumprimento de sentença, sem abordar a questão de que seria necessária a reavaliação técnica do tratamento e a remessa ao NAT-Jus à luz dos arts. 10, § 4º, da Lei n. 9.656/1998, 536 do CPC e 505, I, do CPC, bem como a proporcionalidade das astreintes.
+Com efeito, verifica-se que a Corte de origem não analisou, sequer implicitamente, o art. 10, § 4º, da Lei n. 9.656/1998, o art. 536 do CPC e o art. 505, I, do CPC, tampouco as teses vinculadas à necessidade de novo laudo médico, reavaliação do quadro clínico em obrigação de trato continuado, medidas executivas e NAT-Jus, apontadas como violadas na petição do recurso especial (fls. 82-87).
+Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente. Assim, incide, no caso, o enunciado das Súmulas n. 282 e n. 356 do excelso Supremo Tribunal Federal.
+Súmula n. 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Súmula n. 356/STF: "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento."
+Por fim, o Tribunal de origem concluiu no sentido de que não estavam presentes os requisitos do art. 995, parágrafo único, do CPC para concessão de efeito suspensivo, destacando o risco de dano reverso à parte agravada e a impropriedade de remeter os autos ao NAT-Jus em sede de cumprimento de sentença, como se pode depreender do seguinte trecho extraído do acórdão recorrido (fl. 76):
+No presente caso, verifica-se que a agravante requer a atribuição de efeito suspensivo ao recurso, para evitar possível levantamento de numerários por parte da exequente, uma vez que seria necessária a prévia remessa dos autos ao setor do NatJus, para aferir o atual quadro de saúde da autora e a pertinência do tratamento prescrito.
+No entanto, não vislumbro o preenchimento dos requisitos legais autorizadores da tutela recursal pretendida, tendo em vista que, em regra, não há margem para rediscussão de questão de mérito em sede de cumprimento de sentença, razão pela qual não se mostraria pertinente o envio dos autos ao setor NatJus, tal como pretendido pela devedora.
+Ainda, entendo que o risco de grave dano, em verdade, recairia sobre a parte agravada, que poderia ter seu tratamento médico interrompido em caso de suspensão dos efeitos da r. decisão de origem.
+Afastar o referido entendimento para concluir no sentido de que deveria ser atribuído efeito suspensivo e determinada nova avaliação técnica, inclusive via NAT-Jus, como pretende a recorrente, demandaria o reexame do material fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+ EMENTA
