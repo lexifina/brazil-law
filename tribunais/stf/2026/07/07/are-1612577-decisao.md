@@ -1,0 +1,71 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CIVIL E PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM: TEMAS 339 E 660. AUSÊNCIA DE PREVISÃO LEGAL DE RECURSO PARA O SUPREMO TRIBUNAL FEDERAL. RESPONSABILIDADE CIVIL POR BLOQUEIO JUDICIAL DE CONTAS BANCÁRIAS. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL APLICÁVEL À ESPÉCIE. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. INCIDÊNCIA DA SÚMULA N. 279 DESTE SUPREMO TRIBUNAL. ALEGADA CONTRARIEDADE AO INC. XXXV DO ART. 5º DA CONSTITUIÇÃO DA REPÚBLICA: AUSÊNCIA DE REPERCUSSÃO GERAL. TEMAS 660, 895 E 1.086. RECURSO EXTRAORDINÁRIO COM AGRAVO NÃO CONHECIDO.
+
+Relatório
+1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto, com base na al. a do inc. III do art. 102 da Constituição da República, contra o seguinte julgado da 17ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo:
+“AÇÃO DE OBRIGAÇÃO DE FAZER. Alegação de bloqueio indevido nas contas bancárias que mantém junto ao réu. Prova dos autos que demonstra que o banco apenas cumpriu ordens judiciais recebidas ao longo de anos para constrição e bloqueio das contas, em razão das inúmeras execuções em que o autor figurou no polo passivo. Sentença mantida. Ratificação nos termos do artigo 252 do Regimento Interno deste Tribunal. RECURSO DESPROVIDO” (fl. 2, e-doc. 174).
+
+Os embargos de declaração opostos foram rejeitados (e-doc. 215).
+
+2. No recurso extraordinário, o agravante alegou ter o Tribunal de origem contrariado o caput e os incs. XXXV, LIV e LV do art. 5º, o inc. IX do art. 93 e o inc. I do art. 109 da Constituição da República.
+
+Questionou “a validade de atos administrativos que resultaram na manutenção de penhora sem respaldo judicial, cuja origem, à luz da ausência de ordens dos TRTs, pode ser atribuída à inércia ou conduta da própria União. Assim, o interesse jurídico da União não é apenas eventual ou indireto. Ao contrário, é direto e concreto, pois poderá ser responsabilizada pelos danos decorrentes da indevida manutenção da constrição patrimonial” (fl. 21, e-doc. 194).
+
+Assinalou que “a competência da Justiça Federal se impõe, sob pena de nulidade da decisão proferida por juízo absolutamente incompetente para julgar matéria que envolva a análise da validade de atos administrativos da União” (fl. 21, e-doc. 194).
+
+Pediu o provimento do recurso extraordinário, “reconhecendo-se a responsabilidade objetiva do recorrido pela manutenção indevida de bloqueios judiciais, bem como a incompetência absoluta da Justiça Estadual para o julgamento do interesse da União” (fl. 23, e-doc. 194).
+
+3. O Presidente da Seção de Direito Privado do Tribunal de Justiça de São Paulo negou seguimento ao recurso extraordinário pela aplicação dos Temas 339 e 660 da repercussão geral e inadmitiu o recurso pela incidência da Súmula n. 279 do Supremo Tribunal Federal (e-doc. 222).
+
+4. No agravo interposto contra a inadmissibilidade do recurso extraordinário, o agravante assevera que “não busca reavaliar fatos nem rediscutir provas; pretende, sim, o reconhecimento de que o acórdão recorrido violou, de modo direto e frontal, os arts. 93, IX, 5º, LIV e LV, e 109, I, da Constituição Federal, por ter: (i) proferido decisão sem fundamentação substancial; (ii) surpreendido a parte com fundamentos não submetidos ao contraditório; (iii) omitido o enfrentamento de argumentos jurídicos essenciais; e (iv) mantido constrição patrimonial sem identificação de ordem judicial válida” (fl. 8, e-doc. 230).
+
+Salienta que “a controvérsia não envolve a revaloração de provas, tampouco a rediscussão do acervo fático delineado pelo Tribunal de origem” (fl. 10, e-doc. 230).
+
+Pede o provimento do presente recurso extraordinário com agravo.
+
+Apreciada a matéria trazida na espécie, DECIDO.
+
+5. Razão jurídica não assiste ao agravante.
+
+6. Sobre a alegada contrariedade aos incs. LIV e LV do art. 5º e ao inc. IX do art. 93 da Constituição da República, nos termos do inc. I do art. 1.030 do Código de Processo Civil, o Presidente da Seção de Direito Privado do Tribunal de origem negou seguimento ao recurso extraordinário pela aplicação dos Temas 339 e 660 da repercussão geral.
+
+No julgamento da Questão de Ordem no Agravo de Instrumento n. 760.358, Relator o Ministro Gilmar Mendes, assentou-se não caber recurso ou outro instrumento processual para o Supremo Tribunal Federal contra decisão pela qual se aplica a sistemática da repercussão geral na origem, com os seguintes fundamentos:
+“Questão de Ordem. Repercussão Geral. Inadmissibilidade de agravo de instrumento ou reclamação da decisão que aplica entendimento desta Corte aos processos múltiplos. Competência do Tribunal de origem. Conversão do agravo de instrumento em agravo regimental. 1. Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3º do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral. 2. Ao decretar o prejuízo de recurso ou exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria, de forma que a remessa dos autos individualmente ao STF apenas se justificará, nos termos da lei, na hipótese em que houver expressa negativa de retratação. 3. A maior ou menor aplicabilidade aos processos múltiplos do quanto assentado pela Suprema Corte ao julgar o mérito das matérias com repercussão geral dependerá da abrangência da questão constitucional decidida. 4. Agravo de instrumento que se converte em agravo regimental, a ser decidido pelo tribunal de origem” (Plenário, DJe 3.12.2009).
+
+Essa orientação jurisprudencial foi acolhida pela legislação processual vigente, na qual, nos termos do § 2º do art. 1.030 e do caput do art. 1.042 do Código de Processo Civil, previsto o agravo interno como recurso cabível contra decisão da presidência de tribunal ou de turma recursal pela qual se aplica a sistemática da repercussão geral para inadmitir, negar seguimento ou concluir prejudicado o recurso extraordinário. Confiram-se, por exemplo, os seguintes julgados: ARE n. 1.530.679-AgR, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJe 20.3.2025; ARE n. 1.554.549-AgR, Relator o Ministro Cristiano Zanin, Primeira Turma, DJe 10.9.2025; e ARE n. 1.429.914-AgR, Relator o Ministro Flávio Dino, Primeira Turma, DJe 6.5.2024
+
+A jurisprudência consolidada deste Supremo Tribunal é no sentido de que “o art. 1.042 do Código de Processo Civil é expresso sobre o não cabimento de agravo dirigido ao STF nas hipóteses em que a negativa de seguimento do recurso extraordinário tiver como base exclusivamente a sistemática da repercussão geral, sendo essa decisão passível de impugnação somente por agravo interno (art. 1.030, § 2º, do CPC/2015)” (ARE n. 1.596.232-AgR, Relator o Ministro Edson Fachin, Plenário, DJe 26.5.2026).
+
+Com a aplicação dos Temas 339 e 660 da repercussão geral pelo Tribunal de origem e a não interposição do agravo interno previsto no § 2º do art. 1.030 do Código de Processo Civil, nada mais há a ser apreciado por este Supremo Tribunal sobre as questões processuais referentes à alegada ausência de fundamentação e à pretensa afronta aos princípios do contraditório e da ampla defesa.
+
+7. Na espécie, o Tribunal de origem manteve a sentença de primeiro grau pela qual julgados improcedentes os pedidos iniciais de imediato desbloqueio de contas bancárias e condenação por danos morais e materiais, sob o fundamento de inexistência de responsabilidade civil do banco agravado em relação às ordens de constrição judicial das contas do agravante.
+
+O Desembargador relator do voto condutor do acórdão questionado assentou que “não há nada nos autos que autorize o encaminhamento do feito à Justiça Federal” (fl. 11, e-doc. 174).
+
+Como assinalado na decisão agravada, rever o decidido nas instâncias ordinárias sobre responsabilidade civil da empresa agravada e sobre a competência da Justiça Federal para processar e julgar a presente demanda, exigiria reexame do conjunto fático-probatório e análise da legislação infraconstitucional aplicável ao processo (Código Civil). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal. Assim, por exemplo:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. RESPONSABILIDADE CIVIL. ACIDENTE AÉREO. CUMPRIMENTO DE SENTENÇA. ALEGADA RESPONSABILIDADE SUBSIDIÁRIA DA UNIÃO. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO, COM APLICAÇÃO DE MULTA DE 1% SOBRE O VALOR ATUALIZADO DA CAUSA, SE UNÂNIME A VOTAÇÃO” (ARE n. 1.463.149-AgR, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJe 23.2.2024).
+
+“Direito penal e processual penal. Agravo regimental em recurso extraordinário com agravo. Bloqueio de bens. Pedido de liberação. Exame da legislação infraconstitucional. Reexame de fatos e provas. Súmula 279/STF. I. Caso em exame 1. Agravo regimental contra decisão que negou seguimento a recurso extraordinário com agravo interposto para impugnar acórdão que deu parcial provimento ao recurso. II. Questão em discussão 2. Preenchimento dos pressupostos de admissibilidade do recurso extraordinário com agravo. III. Razão de decidir 3. A petição de agravo não trouxe novos argumentos aptos a desconstituir a decisão agravada, a qual deve ser mantida pelos seus próprios fundamentos. 4. Hipótese em que, para dissentir do entendimento firmado pelo Tribunal de origem, seria necessário analisar a legislação infraconstitucional aplicada ao caso, assim como reexaminar fatos e provas constantes dos autos, procedimentos vedados neste momento processual (Súmula 279/STF). IV. Dispositivo 5. Agravo regimental a que se nega provimento” (ARE n. 1.541.024-AgR, Relator o Ministro Luís Roberto Barroso, Plenário, DJe 5.5.2025).
+
+“Direito civil. Agravo interno em recurso extraordinário com agravo. Responsabilidade civil. Danos morais e materiais. Controvérsia decidida a partir do acervo probatório e da legislação infraconstitucional pertinente. I. Caso em exame 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário com agravo, o qual tem por objeto acórdão que negou provimento ao recurso especial. II. Questão em discussão 2. Preenchimento dos pressupostos de admissibilidade do recurso extraordinário com agravo. III. Razão de decidir 3. A petição de agravo não trouxe novos argumentos aptos a desconstituir a decisão agravada, a qual deve ser mantida pelos seus próprios fundamentos. 4. Hipótese em que, para dissentir do entendimento firmado pelo Tribunal de origem, seria necessário analisar a legislação infraconstitucional aplicada ao caso, assim como reexaminar fatos e provas constantes dos autos, procedimentos vedados neste momento processual (Súmula 279/STF). IV. Dispositivo 5. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 10% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015 e a eventual concessão de justiça gratuita. 6. Agravo interno a que se nega provimento” (ARE n. 1.488.375-AgR, Relator o Ministro Luís Roberto Barroso, Plenário, DJe 27.6.2024).
+
+8. A alegada afronta ao inc. XXXV do art. 5º da Constituição da República não procede, pois, no julgamento do Recurso Extraordinário com Agravo n. 748.371, Relator o Ministro Gilmar Mendes, Tema 660, e do Recurso Extraordinário n. 956.302, Tema 895, Relator o Ministro Edson Fachin, este Supremo Tribunal assentou inexistir repercussão geral nas alegações de contrariedade aos princípios do devido processo legal, dos limites da coisa julgada, do contraditório, da ampla defesa e da inafastabilidade da jurisdição quando o exame da questão depende de prévia análise da adequada aplicação de normas infraconstitucionais. Estas as ementas dos julgados:
+“Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (ARE n. 748.371, Relator o Ministro Gilmar Mendes, Tema 660, Plenário, DJe 1º.8.2013).
+
+“PRINCÍPIO DA INAFASTABILIDADE DA JURISDIÇÃO. ÓBICES PROCESSUAIS INTRANSPONÍVEIS. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. QUESTÃO INFRACONSTITUCIONAL. MATÉRIA FÁTICA. AUSÊNCIA DE REPERCUSSÃO GERAL. Não há repercussão geral quando a controvérsia refere-se à alegação de ofensa ao princípio da inafastabilidade de jurisdição, nas hipóteses em que se verificaram óbices intransponíveis à entrega da prestação jurisdicional de mérito” (RE n. 956.302, Tema 895, Relator o Ministro Edson Fachin, Plenário, DJe 16.6.2016).
+
+Este Supremo Tribunal assentou que, “quanto à alegada afronta ao art. 5º, XXXV, da Constituição Federal, não há negativa de prestação jurisdicional se a parte valeu-se dos meios recursais cabíveis e teve a jurisdição devidamente prestada por decisões fundamentadas, ainda que contrárias aos seus interesses” (ARE n. 1.249.095-RG, Tema 1.086 da repercussão geral, Relator o Ministro Cristiano Zanin, Plenário, DJe 27.2.2025), como se tem na espécie sob análise.
+
+Comprovados os óbices jurídicos impeditivos da admissibilidade do recurso, nada há a prover em relação às alegações do agravante.
+
+9. Pelo exposto, não conheço do presente recurso extraordinário com agravo (inc. III do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal) e condeno a parte sucumbente, nesta instância recursal, ao pagamento de honorários advocatícios majorados em 10%, percentual que se soma ao fixado na origem, obedecidos os limites dos §§ 2º, 3º e 11 do art. 85 do Código de Processo Civil.
+
+Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional.
+
+Publique-se.
+
+Brasília, 7 de julho de 2026.
+
+Ministra CÁRMEN LÚCIA
+Relatora
