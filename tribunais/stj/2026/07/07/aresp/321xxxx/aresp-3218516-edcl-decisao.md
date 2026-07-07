@@ -1,0 +1,57 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por PAZ CONSTRUÇÃO E PRESTAÇÃO SERVIÇOS PÚBLICOS LTDA. e OUTROS à decisão de fls. 700/701, que não conheceu do recurso.
+Sustenta a parte embargante que: (fls. 705/709)
+" ..  o pronunciamento incorre em omissão e contradição relevantes, além de deixar de enfrentar questão jurídica contemporaneamente controvertida no âmbito desta própria Corte Superior. Isso porque o decisum adota como absolutamente pacífica interpretação que já se encontra submetida a evidente dissenso jurisprudencial interno no Superior Tribunal de Justiça, especialmente após precedentes da Colenda 4ª Turma que passaram a admitir a regularização da representação processual mediante ratificação posterior do mandato.
+O ponto possui relevância central, pois o decisum não apenas deixa de enfrentar a existência da divergência, como afirma categoricamente impossibilidade jurídica absoluta de regularização, circunstância incompatível com a evolução jurísprudencial atualmente verificada.
+(..)
+Nesse sentido, destaca-se o julgamento do AgInt no AREsp 2.296.022/RJ, da relatoria do eminente Ministro João Otávio de Noronha, cuja orientação flexibiliza a interpretação rígida historicamente atribuída à Súmula 115/STJ.
+(..)
+O Superior Tribunal de Justiça, ao adotar solução restritiva que conduz à eliminação definitiva do recurso por irregularidade formal posteriormente ratificada, também se submete, após o CPC/2015, ao dever de fundamentação qualificada previsto no art. 489, § 1º, IV e VI, do CPC, cumprindo-lhe justificar, de modo específico, por que afasta orientação divergente existente no âmbito da própria Corte e por que a ratificação posterior do mandato, embora expressamente admitida como tese jurídica em precedente contemporâneio, não seria apta a preservar o ato processual no caso concreto.
+(..)
+O decisum embargado também deixa de enfrentar a incidência do art. 76 do CPC; a possibilidade de saneamento do vício processual; e a própria disciplina civil da ratificação dos atos praticados sem mandato.
+O art. 662 do Código Civil estabelece expressamente que os atos praticados sem poderes podem ser ratificados pelo mandante.
+O pronunciamento embargado, entretanto, simplesmente desconsidera a incidência do instituto jurídico da ratificação, como se inexistisse no ordenamento. Ora, a omissão possui inequívoca relevância jurídica e constitucional, sobretudo porque o CPC/2015 passou a prestigiar o aproveitamento dos atos processuais; a cooperação processual; e a superação do formalismo excessivo."
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Impende ressaltar que, em se tratando de procuração ao subscritor do Recurso Especial, ou ao subscritor do Agravo em Recurso Especial, a regular cadeia de representação deveria estar demonstrada no momento da apresentação dos referidos recursos, o que não aconteceu no caso concreto.
+Porém, o Código de Processo Civil abre a possibilidade de regularização posterior do vício de representação, nos termos do art. 76 do Código de Processo Civil.
+Diante dessa premissa, foi percebido, nesta Corte, que o subscritor do Agravo e do Recurso Especial, Dr. Sílvio Eduardo Macedo Martins, não tinha procuração nos autos, razão pela qual houve a intimação da parte embargante para que o referido vício fosse sanado (fls. 691 e 694).
+Apesar disso, mesmo tendo sido regularmente intimada para efetuar o saneamento, não houve a devida regularização da representação processual, porquanto o instrumento de mandato juntado à fl. 696 não pode ser aceito. Veja que o referido documento possui data posterior (16.04.2026) à da interposição do Recurso Especial que ocorreu em 02.10.2025 e do Agravo em Recurso Especial que ocorreu em 03.02.2026.
+Nesse sentido, em recente julgado, a Corte Especial assim decidiu:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE REPRESENTAÇÃO PROCESSUAL QUANDO DA INTERPOSIÇÃO DO AGRAVO EM RECURSO ESPECIAL E DO RECURSO ESPECIAL NA INSTÂNCIA ESPECIAL. NÃO CORREÇÃO DA IRREGULARIDADE MESMO APÓS INTIMAÇÃO PARA ESTE FIM. OUTORGA DE PODERES PELA PARTE AO SUBSCRITOR DO AGRAVO EM RECURSO ESPECIAL E DO RECURSO ESPECIAL EM DATA POSTERIOR AO DA SUA INTERPOSIÇÃO. PROVIMENTO DO AGRAVO INTERNO.
+I. CASO EM EXAME
+1. Agravo interno interposto em face da decisão monocrática que deu provimento a anterior agravo interno a fim de reconsiderar decisão da Presidência desta Corte que não conhecera do agravo da ora recorrida (dirigido contra a inadmissão de recurso especial) com base na Súmula n. 115/STJ.
+II. QUESTÃO EM DISCUSSÃO
+2. Ausência de representação processual na instância especial uma vez que o agravo em recurso especial e o recurso especial foram opostos por advogado sem instrumento de mandato nos autos e a respectiva apresentação somente ocorreu em data posterior ao da interposição dos recursos.
+III. RAZÕES DE DECIDIR
+3. Consoante firmado por jurisprudência consolidada desta Corte, os poderes outorgados ao subscritor do recurso na instância especial devem ter sido conferidos em data anterior à da respectiva interposição, salvo comprovada situação excepcional indicada no artigo 104 do Código de Processo Civil, sob pena de não conhecimento do recurso por inexistência (Súmula 115/STJ).
+4. Na hipótese, verifica-se que os poderes conferidos ao signatário do agravo em recurso especial e do recurso especial no instrumento de procuração juntado aos autos somente foram outorgados em data posterior ao da interposição do recurso, sem que houvesse a respectiva justificativa para tanto.
+IV. DISPOSITIVO
+5. Agravo interno provido para não conhecer do agravo em recurso especial.
+(AgInt nos EDcl no AgInt no AREsp n. 2.506.209/SP, Rel. Ministro Moura Ribeiro, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, DJEN de 18.12.2025.).
+Ademais, em atenta leitura do inteiro teor do citado acórdão, depreendem-se as principais balizas do atual entendimento do Superior Tribunal de Justiça sobre o tema, das quais destaca-se a impossibilidade de se emprestar efeitos jurídicos à ratificação posterior dos atos processuais praticados sem procuração, salvo situação excepcional prevista em lei.
+Veja-se: (Página 9 de 14)
+"Não se desconhece, ainda, recente julgado da Quarta Turma no sentido de que " ..  a jurisprudência do STJ admite, nos termos do art. 662 do CC, que a ratificação tácita de atos processuais praticados sem mandato regulariza a representação, desde que a conduta posterior do mandante constitua ato inequívoco de confirmação" (AgInt nos AREsp n. 2713514/SP, relator Ministro João Otávio de Noronha, julgado em 23/6/2025, DJe de 10/7/2025). Entretanto, o fundamento deste julgado implica negativa de vigência ao disposto no art. 104 do CPC, sobretudo ao indicar que as hipóteses de postulação do advogado em Juízo sem procuração seriam excepcionais, limitadas à situações consideradas de urgência para evitar o perecimento de direitos (para evitar a preclusão, a decadência ou a prescrição, ou para praticar ato considerado urgente). Não se vislumbra, portanto, a existência de argumentos jurídicos suficientes a alterar a jurisprudência consolidada desta Corte no sentido do disposto na Súmula 115/STJ". (Transcrição de parte do voto vencedor do AREsp n. 2.506.209/SP, Rel. Ministro Moura Ribeiro, relator para acórdão Ministro Luis Felipe Salomão, fl. 10/14).
+Desse modo, inexistindo situação excepcional prevista em lei, mantém-se a aplicação da Súmula 115 do STJ, reconhecendo-se a irregularidade da representação processual e a invalidade do ato praticado.
+Agora, mesmo que o recurso tenha sido interposto por advogado sem procuração nos autos, antes de o recurso ser considerado inexistente, a parte será intimada para sanar o vício, de acordo com o art. 76 c/c art. 932, parágrafo único, o que ocorreu na espécie. No entanto, apesar de intimada, a parte não logrou êxito em regularizar o vício.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUBSCRITOR DO RECURSO. PROCURAÇÃO. AUSÊNCIA. FALHA NA REPRESENTAÇÃO PROCESSUAL. REGULARIZAÇÃO. INTIMAÇÃO. INÉRCIA. ART. 76, §2º, I, DO CPC. SÚMULA Nº 115/STJ.
+1. O Superior Tribunal de Justiça considera inexistente o recurso subscrito por advogado que não possui procuração ou substabelecimento capaz de conferir-lhe poderes para atuar nos autos (Súmula nº 115/STJ).
+2. Na hipótese, regularmente intimados, os agravantes não atenderam ao despacho que determinou a regularização processual nos termos do art. 76, c/c art. 932, parágrafo único, do Código de Processo Civil, situação que enseja o não conhecimento do recurso por força do que expressamente estabelece o art. 76, §2º, I, do CPC e da inteligência da Súmula nº115/STJ.
+3. É assente na jurisprudência desta Corte que a dispensa da juntada de procuração em processos eletrônicos, de que trata o art. 1.017, §5º, do CPC, diz respeito apenas ao "agravo de instrumento", não se aplicando ao recurso especial ou ao agravo contra a sua inadmissibilidade. Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.536.253/SP, Rel. Ministro Villas Bôas Cueva, TerceiraTurma, DJe de 6.9.2024)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE PROCURAÇÃO. NÃO REGULARIZAÇÃO NO PRAZO ASSINALADO. SÚMULA115/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Não se conhece de recurso interposto sem procuração e/ou cadeia completa de substabelecimento nos autos, nos casos em que, devidamente intimada, a parte agravante deixa de regularizar a representação processual, no prazo estabelecido. Incidência da Súmula 115/STJ.
+2. Agravo interno não conhecido.
+(AgInt no REsp n.1.887.170/SC, Rel. Ministro Afrânio Vilela, Segunda Turma, DJe de15.8.2024)
+Outrossim, "Os princípios da instrumentalidade das formas, da primazia do julgamento de mérito e da cooperação processual não afastam a incidência da Súmula n. 115 do STJ quando a parte, mesmo regularmente intimada para sanar o vício de representação, deixa de cumprir a determinação no prazo legal." (AgInt no AREsp 2777960/SP, Rel. Ministro Teodoro Silva Santos, Segunda Turma, DJEN 25.06.2025)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+EMENTA
