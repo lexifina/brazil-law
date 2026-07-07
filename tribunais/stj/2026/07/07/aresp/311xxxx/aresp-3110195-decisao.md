@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial no qual ETG Transgomes Ltda se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 251):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ICMS. JUROS. Insurgência contra os juros superiores à taxa SELIC (lei 13.918/09). Inadmissibilidade. Débitos se referem à 202 3, época em que já estava em vigor a Lei Estadual nº 16.497/17, que determina a aplicação dos juros pela taxa SELIC.
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ICMS. Pretensão de exclusão do PIS e da COFINS da base de cálculo do ICMS. Inadmissibilidade. ICMS, que integra o preço e consequentemente, o faturamento, compondo a base de cálculo da COFINS, sendo, pois, hipótese inversa do alegado pela agravante. Art. 2º da LC nº 70/91 e art. 2º da Lei Federal nº 9.178/98. Decisão mantida.
+EXCEÇÃO DE PRÉ-EXECUTIVIDADE. Alegação de inclusão do percentual a título de honorários advocatícios, sem observância da previsão legal insculpida no artigo 85, §3º, do CPC. Alegação equivocada. Honorários advocatícios fixados em 10% na execução fiscal. Decisão mantida. Recurso improvido.
+Os embargos de declaração opostos foram acolhidos, sem efeitos modificativos, para suprir omissão quanto ao pedido de sobrestamento à luz do Tema 1223 do Superior Tribunal de Justiça, consignando-se que a suspensão não se aplica à execução fiscal sem recurso especial ou agravo em recurso especial interposto (fls. 266/269):
+EMBARGOS DE DECLARAÇÃO. Omissão. Ocorrência. Acórdão complementado. Embargos acolhidos, mas sem efeito modificativo.
+A parte recorrente alega violação do art. 96 da Lei 13.918/2009, pois entende que os juros moratórios previstos na legislação estadual, ao fixarem taxa diária de 0,13% e critérios superiores à taxa referencial do Sistema Especial de Liquidação e de Custódia (SELIC), afrontam a competência concorrente do art. 24 da Constituição Federal e devem ser reduzidos aos patamares da SELIC, com nulidade das Certidões de Dívida Ativa.
+Sustenta ofensa ao art. 2º, § 5º, da Lei 6.830/1980, ao argumento de que as Certidões de Dívida Ativa não indicam, com precisão, o termo inicial e a forma de calcular os juros de mora e demais encargos, comprometendo a liquidez do título executivo.
+Aponta violação dos arts. 202 e 203 do Código Tributário Nacional (CTN), alegando nulidade da inscrição e do processo de cobrança por erro ou omissão nos requisitos obrigatórios, com possibilidade de substituição da certidão e devolução de prazo para defesa.
+Argumenta que o art. 8º da Lei Complementar 87/1996 e o art. 112 do CTN impedem a inclusão do Programa de Integração Social (PIS) e da Contribuição para o Financiamento da Seguridade Social (Cofins) na base de cálculo do Imposto sobre Circulação de Mercadorias e Serviços (ICMS), por inexistência de lei autorizadora e por força de interpretação mais favorável ao contribuinte, requerendo a exclusão e, subsidiariamente, o sobrestamento em razão da discussão no Superior Tribunal de Justiça.
+A parte recorrente aponta, ainda, a existência de divergência jurisprudencial às fls. 296/301.
+Contrarrazões apresentadas às fls. 340/343.
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado (fls. 443/445 e 448/485).
+É o relatório.
+Preliminarmente, destaco o fato de que a decisão de admissibilidade (fls. 443/445), ao negar seguimento ao recurso, tomou por fundamento a tese firmada nesta Corte Superior pela sistemática dos recursos repetitivos (art. 543-C do CPC/73, art. 1030 e seguintes do CPC/2015) ao julgar o Tema 1223/STJ no sentido de que "a inclusão do PIS e da Cofins na base de cálculo do ICMS atende à legalidade nas hipóteses em que a base de cálculo é o valor da operação, por configurar repasse econômico". Sendo assim, o Tribunal de origem, ao exercer o juízo de conformidade com a aplicação de tese repetitiva ao caso concreto, o faz em caráter exclusivo e definitivo, de modo que se torna inviável a sua reapreciação nesta Corte Superior, sob pena de ineficácia do instituto inserido pela Lei 11.672/2008, inclusive, a apreciação do agravo interno interposto na origem (fls. 514/518). Remanesce ao STJ apenas a apreciação de capítulo não relacionado à tese repetitiva.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Na origem, cuida-se de execução fiscal, visando à cobrança de créditos tributários de ICMS declarado e não pago.
+Nos exatos termos do acórdão recorrido, o Tribunal de Justiça do Estado de São Paulo assim se manifestou (fl. 253):
+"3. Quanto a questão dos juros de mora, as CDAs são referentes a ICMS declarado e não pago de 2023, quando já estava em vigor a lei estadual nº 16.497/17, que determina a aplicação dos juros pela taxa SELIC.
+Os juros são os da SELIC e 1% na fração do mês, como autoriza expressamente o CTN. Logo, equivocada a argumentação da agravante".
+O Tribunal de origem reconheceu a aplicação dos juros pela taxa do Sistema Especial de Liquidação e de Custódia, com acréscimo de 1% na fração de mês, à luz da Lei Estadual 16.497/2017 e do Código Tributário Nacional, afastando a alegação de excesso de juros nas certidões de dívida ativa.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Com relação à alegada violação ao art. 96 da Lei Estadual 13.918/2009, a alteração do julgado, conforme pretendido nas razões recursais, demandaria, necessariamente, a análise da legislação local, providência vedada em recurso especial.
+Desse modo, aplico à espécie, por analogia, o enunciado 280 da Súmula do Supremo Tribunal Federal ("Por ofensa ao direito local não cabe recurso extraordinário").
+Confira-se:
+PROCESSUAL CIVIL. ACÓRDÃO RECORRIDO. FUNDAMENTO CONSTITUCIONAL. LEGISLAÇÃO LOCAL. EXAME. IMPOSSIBILIDADE.
+
+3. A análise das teses apresentadas depende do exame de legislação local, o que não é viável no âmbito do recurso especial, nos termos da Súmula 280 do STJ (Leis Complementares Municipais n. 01/2012 e 02/2000).
+4. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 2.092.887/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+Por fim, é pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c; em razão disso fica prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+A propósito, confiram-se as decisões proferidas nestes processos: (1) AgInt no REsp 1.878.337/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/12/2020, DJe de 18/12/2020; e (2) AgInt no REsp 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários advocatícios, por não ter sido fixada tal verba na origem.
+Publique-se. Intimem-se.
+EMENTA
