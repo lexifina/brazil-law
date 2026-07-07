@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial sob os fundamentos de ausência de violação aos arts. 489 e 1.022 do CPC e falta de demonstração da divergência jurisprudencial.
+Segundo a parte agravante, a insurgência preenche os requisitos necessários ao conhecimento e provimento do recurso especial interposto em face do acórdão assim ementado (e-STJ fl. 47):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO. Imóvel penhorado e levado a leilão. Copropriedade da Agravada Edalbrás e da terceira interessada Bueninvest. Alegação da Bueninvest de que seria coproprietária de percentual maior do que aquele que consta na matrícula. Porém, até o momento não tomou providências para a eventual retificação. Magistrada que, cautelarmente, determinou que o eventual produto da arrematação permanecesse depositado nos autos até averiguação dos fatos. Decisão que não prejudica a Agravante, pois pode ser revista a qualquer tempo, sobretudo se não efetivada qualquer medida concreta pela terceira interessa. Matrícula do imóvel que detém presunção de veracidade, portanto, até prova em contrário, a presunção é de que cada coproprietário seja titular de 50% do imóvel. Decisão mantida. Recurso não provido.
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil, a parte agravada não se manifestou.
+É o relatório.
+DECIDO.
+O agravo é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise das razões recursais não aponta, contudo, argumento que viabiliza o conhecimento da insurgência.
+Nos termos do art. 932, inciso III, do Código de Processo Civil e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+A Corte Especial do Superior Tribunal de Justiça já estabeleceu que a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial.
+No presente caso, não foram devidamente impugnados os óbices relativos à ausência de violação dos arts. 489 e 1.022 do CPC e à deficiência de fundamentação quanto à divergência jurisprudencial (alínea "c" do permissivo constitucional).
+Ressalte-se que a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula 182/STJ.
+Observa-se que, no presente caso, que o recurso de agravo não impugna, de maneira efetiva e detida, todos os capítulos da decisão de inadmissão.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA Nº 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, por óbice da Súmula nº 182/STJ.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 726.599/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 20/3/2018, DJe de 3/4/2018.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. VIOLAÇÃO DO ART. 557 DO CPC/73. INEXISTÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+1. Inaplicáveis as disposições do NCPC a este julgamento ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. A possibilidade de interposição de agravo regimental contra decisão monocrática proferida com esteio no art. 557 do CPC/73, afasta qualquer alegação de ofensa ao princípio da colegialidade.
+3. O agravo regimental não impugnou as razões da decisão agravada, pois não refutou a aplicação das Súmulas nºs 282 e 356 do STF, em razão da ausência de prequestionamento dos arts. 113, § 2º, 128, 165, 183, § 1º, 267, § 3º, 301, 319, 322, parágrafo único, 458, II, III, 460 do CPC/73. Incide, no ponto, a Súmula nº 182 do STJ: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+4. Agravo regimental parcialmente conhecido e, nessa parte, não provido.
+(AgRg no REsp n. 1.464.098/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 10/10/2017, DJe de 20/10/2017.)
+Com efeito, verifica-se que o agravante não cumpriu o requisito da dialeticidade recursal, deixando de impugnar especificamente os fundamentos da decisão de admissibilidade.
+No que tange ao afastamento da ofensa aos arts. 489 e 1.022 do CPC, a decisão de inadmissão consignou que o Colegiado estadual resolveu de forma fundamentada e clara a controvérsia, inexistindo qualquer omissão ou vício de fundamentação.
+No agravo em recurso especial, contudo, o recorrente limitou-se a transcrever os argumentos de mérito do apelo nobre acerca de omissões (prescrição da retificação de matrícula, comparecimento tardio e ausência de firma reconhecida no instrumento de compra e venda), sem de fato contrapor-se de modo específico ao fundamento de que o acórdão recorrido se manifestou de forma suficiente e clara sobre os temas propostos.
+Quanto ao óbice relativo à alínea "c" do permissivo constitucional, a decisão agravada inadmitiu o recurso especial sob o fundamento de que não restou demonstrada a similitude fática e a divergência jurisprudencial nos moldes exigidos pelo art. 1.029, § 1º, do CPC e art. 255 do RISTJ.
+O agravante, todavia, esquivou-se de refutar este fundamento, limitando-se a aduzir contraditoriamente que o recurso especial teria sido interposto exclusivamente com base na alínea "a" e que inexistia alegação de dissídio jurisprudencial.
+Contudo, verifica-se na petição de interposição de e-STJ fl. 65 que o recurso especial foi expressamente interposto com fulcro nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal.
+Ao negar a própria fundamentação do recurso em vez de demonstrar o cumprimento dos requisitos formais de admissibilidade da alínea "c", o agravante deixou de impugnar especificamente o óbice apontado.
+Nesse contexto, nos termos do entendimento consolidado pela Corte Especial deste Tribunal Superior no julgamento do EAREsp 746.775/PR, a ausência de impugnação específica e suficiente de todos os fundamentos autônomos da decisão de inadmissibilidade obsta o conhecimento do agravo em recurso especial.
+Ante o exposto, não conheço do agravo em recurso especial por incidência da Súmula n. 182/STJ.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 2% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
