@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por JOSE CARLOS LEAO BARRETTO DE ARAUJO à decisão de fls. 962/963, que não conheceu do recurso.
+Sustenta a parte embargante:
+Todavia, a conclusão externada na r. decisão embargada partiu de premissa equivocada, que não corresponde integralmente à realidade processual da causa.
+Isso porque a contagem do prazo recursal sofreu impacto não apenas em razão dos eventos climáticos ocorridos na Capital e reconhecidos posteriormente pelo E. Tribunal de Justiça do Estado de São Paulo, mas também em razão dos feriados e suspensões de expediente forense regularmente previstos pelo próprio Tribunal de Justiça.
+ ..
+Além disso, sobreveio o COMUNICADO CONJUNTO Nº 1057/2025, por meio do qual a Presidência do Tribunal de Justiça do Estado de São Paulo e a Corregedoria Geral da Justiça reconheceram oficialmente a suspensão excepcional dos prazos processuais nos dias 10, 11 e 12 de dezembro de 2025, em razão dos fenômenos climáticos que ocasionaram prolongada interrupção do fornecimento de energia elétrica e sinal de internet na Grande São Paulo (ANEXO).
+ ..
+Todavia, referido comunicado somente foi publicado em 17/12/2025, ao passo que o Agravo em Recurso Especial foi interposto em 15/12/2025  como muito bem constatou a r. decisão embargada.
+Assim, ao contrário da premissa adotada na r. decisão embargada, não houve inércia deliberada da parte recorrente quanto à demonstração da suspensão/interrupção do prazo processual, mas impossibilidade material de apresentação prévia de ato administrativo oficial cuja própria publicação somente ocorreu posteriormente à interposição do recurso.
+Além disso, o próprio Tribunal de Justiça reconheceu oficialmente fato notório consistente na interrupção prolongada do fornecimento de energia elétrica e sinal de internet na Capital, circunstância que efetivamente impactou o regular exercício da atividade profissional da patrona do recorrente (fls. 966/968).
+Alega ainda:
+A r. decisão embargada também determinou a majoração dos honorários advocatícios, nos termos do art. 85, §11, do Código de Processo Civil.
+Todavia, verifica-se omissão relevante quanto à ausência dos pressupostos autorizadores da referida majoração.
+Isso porque a parte agravada sequer apresentou contraminuta ao Agravo em Recurso Especial (fls. 950), inexistindo atuação recursal apta a justificar a incidência da verba honorária recursal prevista no art. 85, §11, do CPC.
+Conforme entendimento consolidado do Colendo Superior Tribunal de Justiça, a majoração prevista no art. 85, §11, do CPC pressupõe efetiva atuação da parte adversa em grau recursal, o que não se verificou no presente caso (fl. 969).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp n. 2.227.508/BA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 27.6.2023; AgInt nos EDcl no AREsp n. 2.270.942/SP, Rel. Ministro João Otávio de Noronha, Quarta Turma, DJe de 7.6.2023; e AgInt no AREsp n. 2.280.536/BA, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24.5.2023.
+Tendo em vista a nova redação do art. 1.003, § 6º, do CPC (dada pela Lei n. 14.939/2024), bem como a QO no AREsp n. 2.638.376/MG, a parte foi intimada para comprovar, por documento idôneo, eventual suspensão, interrupção ou prorrogação do prazo processual para interposição do recurso.
+No entanto, mesmo após a intimação da parte para regularizar a questão da tempestividade, não houve a devida regularização, porquanto quedou-se inerte.
+É certo que o feriado nacional de 20.11.2025 e o feriado forense de 08.12.2025 não precisam ser comprovados. Porém, os dias 21.11.2025, 10.12.2025, 11.12.2025 e 12.12.2025 são supostamente feriados locais, razão pela qual deveriam ter sido comprovados no momento oportuno, o que não ocorreu.
+Além disso, "a existência de recesso forense e suspensão de prazos processuais nos Tribunais de Justiça não se presume público e notório em âmbito nacional" (AgInt no AREsp. 1641985/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe 18.8.2021.)
+Registre-se que a posterior invocação do Comunicado Conjunto nº 1057/2025 não tem o condão de afastar a intempestividade já reconhecida. Isso porque o vício apontado não decorreu da inexistência do ato administrativo à época da interposição do recurso, mas da ausência de comprovação da tempestividade após o recorrente ter sido expressamente intimada por esta Corte para tanto.
+Ainda que se admita que o referido comunicado tenha sido publicado apenas em 17.12.2025, tal circunstância não exime o recorrente do dever de apresentar, quando instado a se manifestar, os documentos e esclarecimentos aptos a demonstrar a alegada suspensão dos prazos processuais.
+Agora, em sede destes aclaratórios a parte trouxe documentos de fls. 971/976, com o fim de comprovar a tempestividade, no entanto, não podem ser aceitos, porquanto preclusa a oportunidade.
+Quanto aos honorários, registre-se que o Código de Processo Civil vigente, ao prever o instituto da majoração dos honorários advocatícios em razão do julgamento de recurso, condicionou sua aplicação, aos processos cíveis, desde que haja prévia fixação de honorários pela instância a quo.
+Outrossim, "não incide a regra do art. 85, § 11, do Código de Processo Civil, que trata da majoração de honorários advocatícios, quando o recurso é interposto contra decisão interlocutória em que não houve prévia fixação da verba." (AgInt no AREsp n. 1.178.063/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/12/2018, DJe de 19/12/2018.)
+No presente caso, o Recurso Especial foi interposto contra acórdão do Agravo Interno (fls. 717/719), decorrente da decisão de fls. 695/696 que indeferiu o pedido de gratuidade de justiça requerido quando do protocolo da Apelação. Ou seja, o recurso de Apelação ainda não foi analisado pelo Tribunal de origem, tendo o Recurso E special se originado de uma decisão interlocutória.
+Portanto, não há omissão uma vez que o dispositivo da decisão embargada é claro no sentido de que somente serão majorados se houver "prévia fixação de honorários de advogado pelas instâncias de origem". Dessa forma, a contrario sensu , como não houve prévia fixação, não haverá, também, majoração.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
