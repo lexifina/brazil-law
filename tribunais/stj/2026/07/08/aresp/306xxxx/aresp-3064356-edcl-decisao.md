@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por HELENA HERNANDES DERZI e MIGUEL HERNANDEZ DERZI contra decisão monocrática de minha relatoria que conheceu do agravo para não conhecer do recurso especial interposto pela embargante (fls. 680-693).
+A parte embargante alega que a decisão embargada incorreu em erro material, visto que a ausência de intimação prévia, com consequente nulidade, por ela sustentada, deu-se em razão do julgamento dos primeiros embargos de declaração por ela opostos em face do acórdão proferido pela corte estadual e não dos segundos, mencionados no julgado impugnado.
+A parte embargada, instada a manifestar-se, apresentou impugnação (fls. 706-714).
+É, no essencial, o relatório.
+Os embargos de declaração são o recurso processualmente previsto para sanar vícios de obscuridade, omissão, contraditoriedade e erro material constantes de decisões judiciais, sentenças e acórdãos, conforme se extrai do art. 1.022, incisos I, II e III do CPC.
+No caso em apreço, a parte recorrida aduz a existência de erro material na decisão recorrida, já que ao sustentar a violação ao art. 935 do CPC, por ausência de prévia intimação para participação de julgamento virtual, referiu-se ao julgamento dos primeiros embargos de declaração opostos em face do acórdão proferido pela corte estadual.
+Portanto, sendo uma das hipóteses previstas no art. 1.022 do CPC, tem-se que os presentes embargos de declaração são cabíveis.
+No mérito, os embargos merecem acolhimento, sem, contudo, acarretar efeitos modificativos à decisão embargada, como passo a expor.
+De fato, ao apreciar a violação do art. 935 do CPC, referi-me, expressamente aos segundos embargos de declaração opostos pela parte ora embargante contra acórdão proferido pela Corte estadual. No entanto, sustenta ausência de devida intimação quando o julgamento virtual dos primeiros embargos por ela opostos.
+Analisando o feito, tem-se que a irresignação igualmente não procede.
+Dos autos, tem-se que foram opostos os primeiros embargos de declaração às fls. 205-212; houve impugnação da parte adversa (fls. 230-237); na sequência, foi lavrado termo de conclusão, realizada em 23.04.2025 (fl. 238); em seguida, certificado o início do julgamento virtual em 29.04.2025 (fl. 239) e concluído o julgamento em 30.04.2025 (fl. 246-247).
+Portanto, diferentemente do alegado, houve intimação prévia acerca do julgamento realizado virtualmente (fl. 239).
+No mais, ainda que assim não o fosse, inviável o reconhecimento de nulidade processual se não demonstrado prejuízo e, no caso concreto, a parte embargante não informou pretensão de realizar sustentação oral em sede de embargos de declaração, daí porque irrelevante sua intimação prévia acerca do julgamento virtual dos embargos por ela opostos.
+A propósito, assim me manifestei monocraticamente:
+"Sustenta a parte recorrente violação do disposto no art. 935 do CPC, já que não houve a prévia e necessária intimação dos ora recorrentes quanto ao julgamento virtual dos embargos de declaração opostos, de maneira que ficaram impossibilitados de apresentar memoriais e acompanhar o ato processual.
+Para que se reconheça a nulidade de um determinado ato processual, é de rigor a demonstração de prejuízo.
+No caso em apreço, tendo em vista que a parte recorrente não pretendia realizar sustentação oral em embargos de declaração, não demonstrado o prejuízo ante a sua suposta ausência prévia de intimação quanto julgamento virtual do referido recurso.
+Veja-se que esta Corte, mesmo na seara penal, cujas consequências de nulidade processual podem ser até mais gravosas do que no âmbito processual civil, já que se trata, naquela matéria de direito, de liberdade dos envolvidos, tem reconhecido a ausência de nulidade em virtude da não intimação das partes quando do julgamento de embargos de declaração:
+AGRAVO REGIMENTAL EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR. (ART. 302 DO CTB). VIOLAÇÃO DOS ARTS. 619 DO CPP E 3º DO CPP, C/C O ART. 473, III, DO CPC. TESE DE NULIDADE NO JULGAMENTO VIRTUAL DOS EMBARGOS DE DECLARAÇÃO. INOCORRÊNCIA. INEXIGIBILIDADE DE INCLUSÃO EM PAUTA. VEDADO O USO DA PALAVRA EM SUSTENTAÇÃO ORAL. PREJUÍZO NÃO DEMONSTRADO. TESE DE NULIDADE DA PERÍCIA. MÉTODO DEVIDAMENTE IDENTIFICADO PELO TRIBUNAL DE ORIGEM. PRECEITOS PRÓPRIOS DA CRIMINALÍSTICA APLICADOS AO CASO CONCRETO. REVISÃO DO MÉTODO E DAS CONCLUSÕES RETIRADAS DO LAUDO PERICIAL. SÚMULA 7/STJ .
+1. Não há que se falar em nulidade decorrente de supressão do direito do réu de ter a sessão de julgamento acompanhada por seu defensor constituído, bem como de violação do entendimento da Suprema Corte consubstanciado na Súmula 431 "É nulo o julgamento de recurso criminal, na segunda instancia, sem prévia intimação, ou publicação em pauta, salvo em habeas corpus", haja vista a ausência de previsão para a realização de sustentação oral em julgamento de embargos de declaração.
+(..)
+(AgRg no AgRg no AREsp n. 1.848.233/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/6/2021, DJe de 17/6/2021.) (Grifei.)
+PEDIDO DE TUTELA PROVISÓRIA. PROCESSO PENAL. AGRAVO REGIMENTAL. JULGAMENTO POR VIDEOCONFERÊNCIA. AUSÊNCIA DE INTIMAÇÃO DA DEFESA. VIOLAÇÃO DO ART. 184- D DO RISTJ. DESRESPEITO AO QUINQUÍDIO REGIMENTAL ENTRE A DATA DA PUBLICAÇÃO DA PAUTA E A DA SESSÃO DE JULGAMENTO DO AGRAVO. NULIDADE. NÃO OCORRÊNCIA. DESPROVIMENTO DO AGRAVO REGIMENTAL.
+1. Ante a impossibilidade de sustentação oral nas hipóteses mencionadas no art. 159 do RISTJ, é manifestamente improcedente o pleito de intimação para a sessão dos respectivos julgamentos.
+2. O julgamento virtual no STJ, regulado pelo art. 184-D do RISTJ, não se confunde com o julgamento presencial por videoconferência, cujas regras estão previstas nos arts. 159 e 258 do RISTJ.
+3. O quinquídio regimental entre a data de publicação da pauta e a da sessão de julgamento, conforme prevê o art. 90 do RISTJ, não se aplica ao julgamento de agravo regimental, que deve ser apresentado em mesa, dispensando-se prévia comunicação da data de julgamento à parte recorrente por meio da imprensa oficial (art. 159, IV, do RISTJ), hipótese em que não há ofensa ao devido processo legal.
+4. Agravo regimental desprovido.
+(AgRg no TP n. 2.716/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 1/6/2021, DJe de 9/6/2021.)"
+Ante o exposto, acolho os embargos de declaração apenas para retificar o erro material apontado, sem atribuir-lhe, contudo, efeitos modificativos.
+Publique-se. Intimem-se.
+ EMENTA
