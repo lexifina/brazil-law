@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto por YURI RODRIGUES FERREIRA, com fundamento na alínea "a" do permissivo constitucional, em face do acórdão do Estado de Minas Gerais que, em preliminar de ofício, não conheceu da apelação da defesa, assim ementado (e-STJ fl. 407):
+APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - PRELIMINAR DE OFÍCIO - INTEMPESTIVIDADE DO RECURSO - NÃO CONHECIMENTO. Constatado que o prazo recursal não foi devidamente observado, não há como conhecer do recurso defensivo, por ausência de um de seus pressupostos constitutivos.
+Nas razões do recurso especial (e-STJ fls. 425/431), fundado na alínea "a" do permissivo constitucional, a defesa aponta violação do artigo 600 do Código de Processo Penal.
+Argumenta que, conquanto a Defensoria Pública tenha exarado ciência da sentença sem apelar, o próprio sentenciado, intimado pessoalmente, compareceu à secretaria do juízo e manifestou o desejo de recorrer, vindo o magistrado a receber o apelo e a abrir vista à Defensoria Pública para o oferecimento das razões, apresentadas dentro do prazo legal, observada a prerrogativa da contagem em dobro dos prazos processuais (art. 128, inciso I, da Lei Complementar n. 80/94).
+Aduz que o acórdão, ao desconsiderar a manifestação de vontade do réu de recorrer, incorreu em equívoco na contagem do prazo recursal, tolhendo-lhe o direito ao duplo grau de jurisdição.
+Requer, ao final, a reforma do julgado e o retorno dos autos à origem para o conhecimento e julgamento da apelação.
+Admitido o recurso especial na origem (e-STJ fls. 440/441).
+O Ministério Público Federal manifestou-se pela negativa de seguimento ao recurso especial, com base na Súmula n. 284/STF, e pela concessão de ordem de habeas corpus, de ofício, para invalidar o acórdão e determinar o julgamento da apelação (e-STJ fls. 453/458).
+É o relatório. Decido.
+O recurso especial comporta conhecimento.
+Inicialmente, cabe pontuar que, nos termos do art. 578 do Código de Processo Penal, o recurso de apelação pode ser interposto por petição ou por termo nos autos, de sorte que a manifestação do réu, pessoalmente intimado, no sentido de recorrer da sentença constitui, por si só, ato de interposição do recurso, fluindo daí o prazo para o oferecimento das razões.
+Na espécie, colhe-se dos autos que, em 26 de maio de 2025, o réu compareceu à secretaria do juízo, foi intimado da sentença condenatória e manifestou expressamente o desejo de recorrer (certidão de e-STJ fl. 344).
+Assim, considerada a data da intimação pessoal por mandado (18 de maio de 2025) e a prerrogativa da contagem em dobro do prazo recursal em favor da Defensoria Pública, o quinquídio do art. 593, inciso I, do Código de Processo Penal somente se encerraria em 28 de maio de 2025, termo final reconhecido, aliás, pelo próprio acórdão recorrido.
+Recebida a apelação pelo juízo e aberta vista à Defensoria Pública, que foi intimada em 10 de junho de 2025, as razões recursais vieram a ser apresentadas em 24 de junho de 2025, igualmente dentro do prazo, que também é contado em dobro, de que dispunha a instituição para tanto.
+Nesse contexto, ao tomar como termo de interposição do recurso a data de apresentação das razões, qual seja, 24 de junho de 2025, e ao desconsiderar a manifestação pessoal e tempestiva do réu de recorrer, ocorrida em 26 de maio de 2025, o Tribunal de origem proclamou indevidamente a intempestividade da apelação, em descompasso com as regras de contagem do prazo recursal e com a garantia do duplo grau de jurisdição, em clara violação ao art. 600 do CPP.
+Impõe-se, pois, o conhecimento do recurso para reconhecer a tempestividade da apelação, invalidar o acórdão recorrido e determinar que o Tribunal de origem proceda ao seu regular conhec imento e julgamento.
+Ante o exposto, conheço do recurso especial e dou-lhe provimento para reconhecer a tempestividade da apelação criminal, invalidar o acórdão recorrido e determinar o retorno dos autos ao Tribunal de Justiça do Estado de Minas Gerais, a fim de que proceda ao conhecimento e julgamento do recurso de apelação interposto pela defesa.
+Intimem-se.
+EMENTA
