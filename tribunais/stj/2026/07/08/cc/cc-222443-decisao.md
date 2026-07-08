@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de conflito de competência instaurado entre o JUÍZO DE DIREITO DA 1A VARA CÍVEL DE IBIRITÉ - MG e o JUÍZO DE DIREITO DA 1A VARA CÍVEL DE OSASCO - SP.
+Inicialmente, o JUÍZO DE DIREITO DA 1A VARA CÍVEL DE OSASCO - SP declinou de sua competência em razão dos seguintes fundamentos (fls. 59-60):
+1 - Trata-se de ação de Procedimento Comum Cível, proposta por DOUGLAS BITARAES DE ASSIS, domiciliado em Ibirité - MG, em face de IFOOD.COM AGENCIA DE RESTAURANTES ONLINE S.A., distribuída perante este Juízo da Comarca de Osasco/SP.
+A controvérsia processual cinge-se à competência territorial para processamento e julgamento da demanda, em contexto de relação de consumo e evidente prática de ajuizamento em foro aleatório.
+Nas relações de consumo, incide a regra especial do art. 101, I, do CDC, que faculta ao consumidor a proposição da ação no seu domicílio, como mecanismo de facilitação de acesso à Justiça e de reequilíbrio processual em razão da hipossuficiência técnica, econômica e informacional do consumidor.
+Tal regra, em situações de litigância massificada e ausência de justificativa plausível, opera como norma de ordem pública, atraindo competência em favor do consumidor devendo ser observador os observando os princípios da efetividade e instrumentalidade processual, especialmente quando a escolha do foro diverso revela caráter aleatório.
+O art. 63, §5º, do CPC expressamente veda o juízo aleatório e autoriza a declinação de ofício quando a escolha do foro não guarde pertinência com os fatos, com o domicílio do autor ou com cláusula válida de eleição de foro. O dever de gerência processual (arts. 337, §5º, 370 e 485, § 3º, CPC) impõe ao magistrado prevenir abusos e assegurar a observância da competência adequada.
+O C. Superior Tribunal de Justiça, ao julgar o REsp 2.173.132/DF (Rel. Min. João Otávio de Noronha, 4ª Turma, j. 22/09/2025, DJEN 29/09/2025), firmou orientação no sentido de que, em relações de consumo, "a competência territorial é absoluta, permitindo ao consumidor escolher o foro, mas não se admite escolha aleatória sem justificativa plausível."
+No caso concreto, a concentração artificial de feitos em foro sem pertinência desvirtua a regra protetiva e sobrecarrega indevidamente unidades jurisdicionais, ensejando correção pela via da declinação.
+A constatação de ajuizamento em massa com distribuição em foros sem conexão objetiva com o litígio atrai as diretrizes da Recomendação CNJ nº 159/2024, que orienta a identificação, tratamento e prevenção da litigância abusiva, conceptualizada como o desvio ou excesso manifesto dos limites do direito de acesso à Justiça que comprometa a capacidade de prestação jurisdicional e a isonomia na distribuição da carga processual.
+A escolha aleatória de foro, ainda que em ambiente de processo eletrônico, não legitima concentração artificial de demandas, devendo prevalecer a regra do domicílio do consumidor, por promover celeridade, reduzir custos e assegurar maior efetividade.
+O art. 53, III, "b" e "d", do CPC estabelece que, em demandas ligadas a obrigações bancárias, o foro competente é o do local da agência correspondente ou do domicílio do consumidor.
+Ausente demonstração de contratação, cumprimento de obrigação ou fato relevante ocorrido nesta Comarca de Osasco, resta reforçada a competência do domicílio do autor (Comarca de Ibirité - MG).
+Ante o exposto, com fundamento nos arts. 101, I, do CDC e 63, §5º, 53, III, "b" e "d", 64, §4º, todos do Código de Processo Civil, bem como em observância às diretrizes da Recomendação CNJ nº 159/2024 e ao entendimento consolidado pelo STJ no REsp 2.173.132/DF, declino da competência para uma das Varas Cíveis da Comarca do domicílio da parte autora, onde melhor poderá deduzir sua defesa, nos termos do art. 53 do CPC e art. 6º, VIII, do CDC.
+Recebidos os autos, o JUÍZO DE DIREITO DA 1A VARA CÍVEL DE IBIRITÉ - MG suscitou o presente conflito, argumentando que (fls. 130-131):
+Compulsando os autos, verifico que se trata de ação de obrigação de fazer contra a plataforma onde o autor tinha conta para realizar entregas e obter renda, submetendo-se ao Código de Defesa do Consumidor.
+A competência é definida no art. 101 do Código de Defesa do Consumidor, contudo, tal como asseverado pela própria parte autora, pertence ao consumidor escolher e ajuizar a demanda no local em que melhor possa deduzir a sua defesa, podendo escolher do seu domicílio ou do domicílio do réu, que foi o caso dos presentes autos.
+Não bastasse isso, nos termos da Súmula 33 do STJ a incompetência relativa não pode ser declarada de ofício e ainda que o fosse, é lícita a escolha do consumidor de foro diverso do seu domicílio, desde que respeitadas as regras do CPC.
+ ..
+Considerando que no caso dos autos não consta impugnação do foro pelo réu, tal questão não deve ser conhecida de ofício pelo juízo ao qual a causa foi apresentada, motivo pelo qual não vejo como acolher o declínio realizado pelo ilustre colega.
+Diante de tais fundamentos, a teor do art. 66, II do CPC, SUSCITO CONFLITO NEGATIVO DE COMPETÊNCIA, determinando a remessa dos autos ao egrégio Superior Tribunal de Justiça, para processamento do conflito, servindo a presente decisão como informações a serem prestadas, se for o caso.
+O Ministério Público Federal apresentou parecer, às fls. 140-143, sem opinião meritória.
+É, no essencial, o relatório.
+Com fundamento na orientação contida na Súmula n. 568/STJ, procedo ao julgamento monocrático do conflito, tendo em vista a existência de precedentes acerca da questão ora discutida e a necessidade de se reduzirem as pautas já bastante numerosas da Segunda Seção.
+Na origem, cuida-se de ação de obrigação de fazer cumulada com indenização por danos morais e materiais interposta por DOUGLAS BITARAES DE ASSIS contra IFOOD.COM AGENCIA DE RESTAURANTES ONLINE S.A.
+Acerca do tema em análise, a jurisprudência desta Corte Superior firmou entendimento no sentido de que, nos casos em que o consumidor está no polo ativo da relação processual, a competência é relativa, sendo-lhe facultado optar entre o foro de eleição, o de seu domicílio, o do domicílio do réu ou o do local de cumprimento da obrigação.
+Dessarte, ajuizando em um desses foros, o consumidor age nos limites de seu direito processual, não podendo o juiz declinar, de ofício, de sua competência, aplicando-se a Súmula n. 33/STJ: "A incompetência relativa não pode ser declarada de ofício".
+Nesse sentido, cito:
+AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. CONTRATO BANCÁRIO. FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. AÇÃO REVISIONAL. AÇÃO PROPOSTA PELO CONSUMIDOR NO FORO ONDE O RÉU POSSUI FILIAL. POSSIBILIDADE.
+1. Nos casos em que o consumidor, autor da ação, elege, dentro das limitações impostas pela lei, o foro que melhor atende seus interesses, a competência é relativa, somente podendo ser alterada caso o réu apresente exceção de incompetência (CPC, art. 112), não sendo possível sua declinação de ofício, nos termos da Súmula 33/STJ.
+2. Aos litigantes em geral é dado escolher, dentro das limitações legais, o foro onde pretendem contender, cumprindo ao réu apresentar, se for o caso, exceção de incompetência, sob pena de prorrogação da competência. Assim, não há razão para negar essa possibilidade justamente ao consumidor, a quem o legislador conferiu especial proteção.
+3. Agravo regimental a que se nega provimento.
+(AgRg no CC 130.813/DF, relator Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 22/6/2016, DJe 3/08/2016.)
+No caso, o consumidor optou pelo foro da sede da empresa ré, qual seja, Osasco - SP (fl. 10), adotando uma das opções possíveis, não sendo admitida a atuação de ofício do Juiz suscitado.
+Ante o exposto, conheço do presente conflito de competência para declarar competente o JUÍZO DE DIREITO DA 1A VARA CÍVEL DE OSASCO - SP.
+Comunique-se o teor da presente decisão aos juízos suscitado e suscitante.
+Publique-se. Intimem-se.
+EMENTA
