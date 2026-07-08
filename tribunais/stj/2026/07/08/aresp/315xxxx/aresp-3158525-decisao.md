@@ -1,0 +1,24 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por BANCO RIBEIRÃO PRETO S/A contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 31/10/2025.
+Concluso ao gabinete em: 25/3/2026.
+Ação: de rescisão contratual c/c restituição de valores, ajuizada por MARTA PRAXEDES ALVES, em face de BANCO RIBEIRÃO PRETO S/A e API SPE 56, na qual requer a rescisão contratual e a restituição dos valores pagos.
+Sentença: julgou parcialmente procedente os pedidos, para: i) declarar rescindido o contrato entre as partes; ii) condenar, solidariamente, os requeridos a restituírem à autora os valores pagos, com retenção de 20% (vinte por cento).
+Acórdão: negou provimento ao recurso de apelação interposto por BANCO RIBEIRÃO PRETO S/A, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. Resilição contratual. Insurgência do corréu em face do parcial acolhimento da pretensão. Irresignação vazia, à luz dos autos. Inexistência de inadimplência e correlata constituição em mora da devedora. Desistência da compradora tempestiva, a evitar a excussão do bem. Dever de mitigação de perdas que a todos obriga - Devolução de parcelas pagas devidas. Retenção do montante de 20% da quantia desembolsada que se mostra razoável e guarda consonância com não poucos precedentes. Ante a cessão dos direitos e obrigações em prol do banco - também credor fiduciário - inelutável assuma a condenação feição solidária. RECURSO IMPROVIDO. (e-STJ fl. 297)
+Embargos de Declaração: opostos por BANCO RIBEIRÃO PRETO S/A, foram rejeitados.
+Recurso especial: alega violação dos arts. 489, § 1º, III e IV, e 1.022, II, do CPC; 22, 26, e 27, § 4º e 5º, da Lei 9.514/1997; 31-A, § 12, e 67-A, § 14º, da Lei 4.591/1964, bem como dissídio jurisprudencial. Além da negativa de prestação jurisdicional, sustenta que o credor/cessionário não assume obrigações do incorporador ou do construtor, inexistindo responsabilidade solidária em razão da cessão de créditos. Aduz que, em contratos com alienação fiduciária, a resolução e eventual restituição devem observar o procedimento de leilão, com devolução somente do que sobejar após a quitação da dívida e despesas. Argumenta que, nas hipóteses de leilão de imóvel vinculado à alienação fiduciária, aplica-se a lei especial quanto aos critérios de restituição, afastando o Código de Defesa do Consumidor.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+Consoante o entendimento desta Corte, há ofensa ao art. 1.022 do CPC quando o órgão julgador deixa de se manifestar, de forma expressa, sobre questão oportunamente suscitada nos autos e relevante para o integral julgamento do processo (AgInt no AREsp 1.081.502/MG, Terceira Turma, DJe 2/2/2018; e EDcl no AgInt no REsp 1.281.316/MT, Quarta Turma, DJe 2/3/2018).
+No particular, as razões recursais tecidas acerca da suposta violação do art. 1.022 do CPC residem na alegação de que a Corte de origem, apesar de provocada por meio dos embargos declaratórios, não se manifestou acerca da tese jurídica de regência da hipótese pela legislação especial (Lei 9.514/1997) e pelo Tema 1.095/STJ, nem enfrentou o conteúdo normativo do art. 31-A, § 12, da Lei 4.591/1964 quanto à alegada ilegitimidade do credor/cessionário e à não transferência de obrigações do incorporador.
+Da análise do processo, constata-se que, de fato, o TJ/SP não analisou essas questões, em que pese tenham sido devidamente suscitadas nos embargos de declaração.
+Assim, impõe-se a cassação do acórdão que apreciou os declaratórios, a fim de que seja sanado o vício acima referido, tendo-se como prejudicado o exame das demais questões aventadas no presente recurso.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, DOU PROVIMENTO ao recurso especial, a fim de determinar a remessa dos autos ao TJ/SP, para que este se pronuncie, na esteira do devido processo legal, sobre os argumentos deduzidos nos embargos de declaração opostos pela parte recorrente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE VALORES. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OCORRÊNCIA. DETERMINAÇÃO DE RETORNO DOS AUTOS.
+1. Ação de rescisão contratual c/c restituição de valores.
+2. O TJ/SP deixou de se pronunciar sobre questões relevantes arguidas pela parte agravante e reiteradas em embargos de declaração. Ofensa ao art. 1.022 do CPC. Acórdão cassado. Autos devolvidos.
+3. Agravo conhecido. Recurso especial conhecido e provido.
