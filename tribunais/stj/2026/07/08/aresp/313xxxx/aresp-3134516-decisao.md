@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial no qual a UNIÃO se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do Tribunal Regional Federal da 1ª Região assim ementado (fls. 59/60):
+DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO DA UNIÃO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. PROTESTO INTERRUPTIVO REALIZADO POR SINDICATO. EXTENSÃO AOS SUCESSORES DO CREDOR ORIGINÁRIO. JURISPRUDÊNCIA DO STJ. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto pela União contra decisão que negou provimento ao seu agravo de instrumento, mantendo a decisão de primeiro grau que, em cumprimento de sentença, rejeitou impugnação oposta e afastou a alegada prescrição da pretensão executória.
+2. Alega a União que a interrupção da prescrição pelo protesto realizado pelo Sindicado não pode beneficiar os sucessores do credor originário e que o prazo para habilitação dos herdeiros não se confunde com o prazo prescricional da pretensão executória, não sendo a morte do titular do direito causa suspensiva da prescrição.
+3. Sustenta que houve prescrição, pois o trânsito em julgado ocorreu em 18/06/2016 e a ação executiva foi ajuizada pelos herdeiros após o prazo de cinco anos.
+II. QUESTÃO EM DISCUSSÃO 4. Discute-se se o protesto interruptivo da prescrição, ajuizado pelo Sindicato autor antes do decurso do prazo quinquenal, pode ser aproveitado pelos sucessores do credor originário na execução individual.
+III. RAZÕES DE DECIDIR 5. O título executivo judicial transitou em julgado em 18/06/2016. Antes do esgotamento do prazo quinquenal, o Sindicato ajuizou ação de protesto para interromper a prescrição, o que fez com que o prazo voltasse a correr pela metade. 6. Considerando que o cumprimento de sentença foi ajuizado em 02/05/2022, não há prescrição da pretensão executória. 7. A jurisprudência do STJ reconhece a legitimidade do Sindicato para substituir os sucessores dos servidores falecidos, permitindo o aproveitamento da interrupção da prescrição em execução individual. 8. A questão relativa à suspensão ou não do prazo prescricional pela morte do credor originário é irrelevante, pois o prazo prescricional para o próprio credor originário não havia se esgotado quando do ajuizamento do cumprimento de sentença.
+IV. DISPOSITIVO E TESE
+9. Recurso desprovido.
+Tese de julgamento: "1. O protesto interruptivo da prescrição ajuizado pelo Sindicato autor pode ser aproveitado pelos sucessores do credor originário na execução individual. 2. A jurisprudência do STJ reconhece a legitimidade do Sindicato para substituir os sucessores de servidores falecidos em demandas coletivas.
+Legislação relevante citada: CPC, art. 240, § 1º.
+Jurisprudência relevante citada: STJ, AgInt no REsp 1.593.648/RS, Rel. Min. Benedito Gonçalves, Primeira Turma, j. 21/02/2022; STJ, AgInt no AREsp 1.724.137/MA, Rel. Min. Assusete Magalhães, Segunda Turma, j. 29/08/2022.
+Os embargos de declaração opostos foram rejeitados (fls. 95/104).
+A parte recorrente aponta violação dos arts. 1.022 e 489 do Código de Processo Civil, indicando omissão e deficiência de fundamentação quanto ao caráter personalíssimo do protesto.
+Alega violação do art. 204 do Código Civil e do art. 1º do Decreto 20.910/1932, sustentando que o protesto interruptivo da prescrição possui caráter personalíssimo e não se estende aos substituídos e sucessores em execuções individuais, e que a pretensão executória contra a Fazenda Pública prescreve em cinco anos a contar do trânsito em julgado da ação de conhecimento.
+Sustenta ofensa ao art. 196 do Código Civil, afirmando que a prescrição iniciada contra o titular continua a correr contra o sucessor e que a morte não suspende o prazo prescricional, inexistindo causa suspensiva nos arts. 197 a 199 do Código Civil.
+A parte recorrente aponta, ainda, a existência de divergência jurisprudencial.
+Contrarrazões apresentadas às fls. 124/150.
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+A questão debatida nos autos foi afetada à Corte Especial do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.033), e foi assim delimitada: "interrupção do prazo prescricional para pleitear o cumprimento de sentença coletiva, em virtude do ajuizamento de ação de protesto ou de execução coletiva por legitimado para propor demandas coletivas" (REsps 1.801.615/SP e 1.774.204/RS, relator Ministro Raul Araújo, DJEN de 30/10/2019).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria se identifique com o tema afetado, para neles permanecerem suspensos até o fim do julgamento qualificado.
+O envio do recurso especial a esta Corte Superior deve ocorrer somente após o esgotamento da instância ordinária, formalizado com o novo julgamento pelo Tribunal de origem, quando então será possível examinar, no âmbito do STJ, as matérias jurídicas que eventualmente permanecerem controvertidas. Essa cautela também evita o fracionamento do recurso e previne eventual violação ao princípio da unicidade recursal, que veda a interposição simultânea ou sucessiva de recursos contra a mesma decisão.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos de controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguintes do mesmo CPC.
+Publique-se. Intimem-se.
+EMENTA
