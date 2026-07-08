@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de recurso especial interposto pela Fazenda Nacional, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região que, em juízo de retratação, deu parcial provimento à apelação.
+A Terceira Turma, no julgamento da apelação, havia negado provimento ao recurso em acórdão assim ementado (fls. 6/7):
+CONSTITUCIONAL. TRIBUTÁRIO. PIS. LEI COMPLEMENTAR N. 7/70. CONSTITUCIONALIDADE. IMUNIDADE SOBRE OPERAÇÕES DE COMBUSTÍVEL E DERIVADOS DE PETRÓLEO. ARTIGO 155, PARÁGRAFO 3.º, CF/88. INAPLICABILIDADE. LEI 9718/98.
+1. Quanto à invocada imunidade, a questão dispensa maiores elucubrações, pois ainda sob a égide da EC n. 03/93, já se encontrava pacificado no Supremo Tribunal Federal o entendimento no sentido de que a imunidade definida no § 3º do art. 155 da CF estava em harmonia com o artigo 195, caput, sendo legítima, portanto, a incidência de PIS sobre o faturamento das empresas que operam com combustíveis e derivados de petróleo. Súmula 659 do STF.
+2. O regime de substituição tributária progressiva, nos termos da Lei nº 9.718/98, em sua redação original, impunha às refinadoras e distribuidoras a obrigação de recolher, em antecipação, o PIS e a COFINS, devidos respectivamente por distribuidoras e comerciantes varejistas de combustíveis, calculados sobre o preço de venda em cada fase, multiplicado por um fator definido conforme a hipótese de incidência.
+3. Com o advento da Lei nº 9.990, de 21.07.00, foi alterado tal regime, com o que deixaram as refinarias e distribuidoras a condição de substitutos tributários e passaram a assumir a condição de contribuintes do PIS e da COFINS, enquanto os antigos substituídos ficaram sujeitos à regra geral do artigo 2º da Lei nº 9.718/98, embora a alíquota aplicável não seja a do artigo 8º, mas a alíquota zero, prevista no artigo 42 da MP nº 2.158,de 24.08.01, vigente por força do artigo 2º da EC nº 32, de 11.09.01.
+4. Todavia, enquanto vigorava, era válido o regime previsto nos arts. 4º a 6º da Lei nº 9.718/98. Isso porque, a chamada substituição tributária para frente, técnica de facilitação da arrecadação tributária, foi declarada constitucional pelo Supremo Tribunal Federal (RE 194.382 e 213.396) e se trata, inclusive, de instituto que já se encontrava previsto no sistema jurídico-tributário anteriormente à EC nº 03/93. 5. Pelo desprovimento do apelo.
+Os primeiros embargos de declaração foram acolhidos com efeitos modificativos para anular o acórdão extra petita e reapreciar a apelação, com improcedência do pedido, nos seguintes termos (fls. 14):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ACÓRDÃO EXTRA PETITA. ACOLHIMENTO. TRIBUTÁRIO. COFINS/ PIS. SUBSTITUIÇÃO TRIBUTÁRIA PROGRESSIVA. LEI Nº 9.718/98. OPERAÇÕES COM COMBUSTÍVEIS E DERIVADOS DE PETRÓLEO. RECOLHIMENTO A MAIOR. ARTIGO 150, § 7º DA CF/88. INAPLICABILIDADE. RESTITUIÇÃO. IMPOSSIBILIDADE.
+1. Tendo o acórdão deliberado acerca de matéria estranha ao objeto da ação, incorrendo, portanto, em julgamento extra petita de rigor a sua anulação.
+2. A disposição contida no § 7º do artigo 150 da Constituição Federal, que assegura a imediata e preferencial restituição da quantia a ser restituída, aplica-se, tão-somente, quando o fato gerador presumido não se realizar, não incidindo, desse modo, nas hipóteses em que houver recolhimento a maior do tributo. Precedentes do E. STF, do C. STJ e desta Corte.
+3. Inexistente direito à restituição, despicienda menção à legitimidade para requerer a compensação.
+4. Embargos de declaração conhecidos e acolhidos, para anular o acórdão embargado, posto que extra petita, com a conseqüente reapreciação do apelo que restou julgado improcedente.
+Em juízo de retratação o Tribunal de origem adequou o julgado, nos seguintes termos (fls. 537/538):
+DIREITO TRIBUTÁRIO. APELAÇÃO CÍVEL E REMESSA NECESSÁRIA. PIS E COFINS. SUBSTITUIÇÃO TRIBUTÁRIA PROGRESSIVA. RESTITUIÇÃO DE INDÉBITO. BASE DE CÁLCULO INFERIOR À PRESUMIDA. TEMA 228/STF. JUÍZO DE RETRATAÇÃO.
+I. CASO EM EXAME
+1. Devolução dos autos à Turma Julgadora para juízo de retratação, nos termos do art. 1.040, II, do CPC, em razão do julgamento do RE nº 596.832/RJ (Tema 228/STF), que reconheceu o direito do contribuinte à restituição da diferença do PIS e da COFINS pagos a maior no regime de substituição tributária progressiva.
+2. Acórdão anterior negava a restituição do indébito, restringindo-a aos casos de inexistência do fato gerador presumido, contrariando o entendimento vinculante do STF.
+II. QUESTÃO EM DISCUSSÃO
+3. Discute-se se o contribuinte, no regime de substituição tributária progressiva do PIS e da COFINS, tem direito à restituição dos valores pagos a maior quando a base de cálculo efetiva for inferior à presumida.
+III. RAZÕES DE DECIDIR
+4. O Supremo Tribunal Federal, no julgamento do RE nº 596.832/RJ (Tema 228), fixou a tese de que a restituição do indébito é devida tanto nos casos em que o fato gerador presumido não ocorre quanto naqueles em que a base de cálculo efetiva é inferior à antecipada.
+5. O acórdão recorrido contrariava o entendimento vinculante do STF, impondo a necessidade de retratação para adequação ao julgamento do Tema 228.
+6. A restituição do indébito deve observar o regime constitucional de precatórios (art. 100 da CF/1988) e, caso o contribuinte opte pela compensação administrativa, esta deve ocorrer apenas após o trânsito em julgado, nos termos do art. 170-A do CTN e do art. 74 da Lei nº 9.430/1996.
+IV. DISPOSITIVO E TESE
+7. Juízo positivo de retratação. Embargos de declaração acolhidos. Apelação parcialmente provida para reconhecer o direito à restituição dos valores pagos a maior no regime de substituição tributária progressiva do PIS e da COFINS, quando a base de cálculo efetiva for inferior à presumida.
+Os embargos de declaração opostos pela Fazenda Nacional foram rejeitados em acórdão assim ementado (fls. 586/588):
+EMBARGOS DE DECLARAÇÃO. VÍCIOS INEXISTENTES. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. PREQUESTIONAMENTO.
+I. CASO EM EXAME
+1. Embargos de declaração em face do v. acórdão.
+II. QUESTÃO EM DISCUSSÃO
+2. A parte embargante alega vício na decisão recorrida, sustentando a configuração de hipótese(s) prevista(s) pelo art. 1.022 do CPC.
+III. RAZÕES DE DECIDIR
+3. Os embargos de declaração são cabíveis nas hipóteses de omissão, contradição ou obscuridade, bem como para correção de erro material, não sendo o meio adequado para modificação ou reexame de matéria analisada pelo órgão julgador.
+4. O v. acórdão apresentou de maneira clara e suficiente as razões que nortearam a convicção do colegiado. Na realidade, a embargante não concorda com as premissas e fundamentos adotados na decisão e pretende sua reforma, o que não é admissível por meio de embargos de declaração.
+5. O magistrado não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas, ou a responder, um a um, a todos os seus argumentos quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu.
+6. Desnecessária a referência expressa aos dispositivos legais e constitucionais tidos por violados para fins de prequestionamento, haja vista que os embargos de declaração não se prestam a tal finalidade se neles não se evidencia a ocorrência de omissão, contradição, obscuridade ou erro material.
+IV. DISPOSITIVO E TESE
+7. Embargos de declaração rejeitados.
+Nas razões do recurso especial, a parte recorrente sustenta violação dos arts. 1.022, II, e 489, § 1º, IV, do Código de Processo Civil, alegando omissão e fundamentação deficiente por ausência de enfrentamento quanto à ilegitimidade ativa do comerciante varejista nas vendas de cigarros e à inaplicabilidade do Tema 228 do Supremo Tribunal Federal ao regime setorial de cigarros.
+Aponta violação do art. 485, VI, do Código de Processo Civil, defendendo a ilegitimidade ativa dos recorridos para postular restituição no regime de substituição tributária de PIS/COFINS em vendas de cigarros.
+Indica ofensa ao art. 3º da Lei Complementar 70/1991, ao art. 5º da Lei 9.715/1998 e ao art. 62 da Lei 11.196/2005, afirmando que a sistemática dos cigarros, com coeficientes multiplicadores e preço final tabelado, afasta a aplicação do Tema 228 e não admite restituição atribuída ao varejista substituído.
+Não houve contrarrazões ao recurso especial (fl. 585).
+O recurso especial foi admitido pelo Tribunal de origem (fls. 654/659).
+É o relatório.
+Na origem, trata-se de ação ordinária que visa à restituição/compensação de PIS e COFINS recolhidos no regime de substituição tributária, originalmente sobre operações com combustíveis e derivados de petróleo.
+A apelação foi desprovida, com afastamento de imunidade e validade da substituição. Em embargos de declaração, houve reapreciação e improcedência por entender cabível a restituição apenas quando não realizado o fato gerador presumido.
+Em juízo de retratação, o Tribunal de origem adequou o julgado ao Tema 228 do Supremo Tribunal Federal e reconheceu o direito à restituição quando a base efetiva é inferior à presumida, com observância do regime de precatórios e da compensação após o trânsito. Os embargos de declaração opostos pela União foram rejeitados por inexistência de omissão, contradição, obscuridade ou erro material, registrando-se que os embargos não se prestam à rediscussão do mérito nem ao prequestionamento sem vício.
+Para o Superior Tribunal de Justiça, é inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. É o caso dos autos.
+A controvérsia submetida ao exame do acórdão recorrido circunscreve-se, exclusivamente, à legalidade da cobrança de PIS e COFINS sobre operações com combustíveis e derivados de petróleo, sendo esse o único objeto da impetração deduzida em juízo.
+No juízo de retratação, o Tribunal de origem limitou-se a adequar o julgado ao Tema 228 do Supremo Tribunal Federal, reconhecendo o direito à restituição quando a base de cálculo efetiva for inferior à presumida no regime de substituição tributária, sem qualquer ampliação do objeto litigioso para abarcar outros segmentos econômicos.
+Somente nos embargos de declaração, portanto em momento processual ulterior ao julgamento de retratação, a Fazenda Nacional introduziu a questão atinente ao setor de comércio de cigarros e cigarrilhas, arguindo ilegitimidade ativa dos comerciantes varejistas, a existência de regime tributário específico com coeficientes multiplicadores e preço final tabelado, e a inaplicabilidade do Tema 228 àquele segmento.
+O Tribunal rejeitou os declaratórios por inexistência de omissão, contradição, obscuridade ou erro material, assentando que o acórdão recorrido já apresentava, de forma clara e suficiente, as razões determinantes da conclusão adotada e que os embargos de declaração não se prestam à rediscussão do mérito nem ao forçado prequestionamento. Também consignou que o magistrado não está obrigado a enfrentar todos os argumentos deduzidos pelas partes quando já houver motivo suficiente para fundamentar a decisão.
+Essa conclusão era necessária, pois o acórdão não tinha por que se pronunciar sobre matéria estranha ao objeto da demanda e jamais deduzida na impetração.
+Tampouco haveria que se presumir, sem amparo em qualquer elemento dos autos, que a parte impetrante pretendesse estender a segurança obtida em relação a operações com combustíveis e derivados de petróleo ao comércio de cigarros e cigarrilhas.
+Não obstante, nas razões do recurso especial, a Fazenda Nacional reiterou e aprofundou amplamente a argumentação setorial, indicando suposta violação a dispositivos legais específicos do segmento de cigarros, citando precedentes relativos a esse setor e dedicando a maior parte da peça recursal às suas particularidades normativas e econômicas  preço tabelado, coeficientes multiplicadores, peculiaridades extrafiscais e ilegitimidade ativa do varejista.
+A própria minudência com que construídas essas razões, centradas em especificidades do comércio de cigarros e cigarrilhas absolutamente alheias ao julgado, evidencia a inadequação da argumentação para impugnar um acórdão que versou, exclusiva e delimitadamente, sobre o recolhimento das contribuições ao PIS e à COFINS incidentes sobre operações com combustíveis e derivados de petróleo.
+A desconexão entre as razões recursais e a fundamentação determinante dos acórdãos recorridos impede que o apelo dialogue com o núcleo litigioso efetivamente decidido, na medida em que o recurso especial desloca o debate para matéria estranha ao objeto da ação  inclusive para regime setorial distinto  sem enfrentar a decisão tal como proferida.
+Essa fundamentação deficiente, dissociada tanto das razões dos acórdãos quanto do objeto da causa, obsta a exata compreensão da controvérsia submetida ao Superior Tribunal de Justiça e atrai o óbice da Súmula 284 do Supremo Tribunal Federal, segundo a qual é inadmissível o recurso quando a deficiência em sua fundamentação não permitir a exata compreensão da controvérsia, impondo-se, por isso, o não conhecimento do recurso especial.
+Nessa mesma direção:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL  . RAZÕES RECURSAIS DISSOCIADAS DO JULGADO. SÚMULA 284/STF.
+
+3. É inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.").
+
+7. Agravo interno conhecido parcialmente para, na parte conhecida, negar-se-lhe provimento.
+(AgInt nos EDcl no AREsp n. 1.700.429/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/4/2021, DJe de 29/4/2021)
+Ante o exposto, não conheço do recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor já arbitrado dos honorários sucumbenciais, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo, bem como os termos do art. 98, § 3º, desse diploma legal.
+Publique-se. Intimem-se.
+EMENTA
