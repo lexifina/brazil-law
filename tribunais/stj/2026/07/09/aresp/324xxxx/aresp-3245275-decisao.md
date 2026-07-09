@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual WILLIAM MENDONCA CARVALHO se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado (fls. 823/824):
+DIREITO PREVIDENCIÁRIO. APELAÇÕES CÍVEIS. RECONHECIMENTO DE TEMPO ESPECIAL. AERONAUTA. NEGATIVA DE REALIZAÇÃO DE PROVA PERICIAL. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. PROVA EMPRESTADA. POSSIBIIDADE. APELAÇÕES DESPROVIDAS.
+I. CASO EM EXAME
+1. Apelações interpostas contra sentença que julgou parcialmente procedente o pedido de reconhecimento de tempo especial para fins de concessão de aposentadoria por tempo de contribuição, reconhecendo a especialidade do período de 13/12/1996 a 02/08/2006, mas rejeitando o reconhecimento do intervalo de 01/06/2009 a 14/09/2012. A parte autora, comissário de bordo, pleiteava o reconhecimento do período remanescente, enquanto o INSS buscava a reforma da sentença para afastar a especialidade já reconhecida.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se o período de 01/06/2009 a 14/09/2012 deve ser reconhecido como especial, para fins de cômputo no tempo de contribuição do autor; e (ii) verificar a validade da prova emprestada para a caracterização do período de 13/12/1996 a 02/08/2006 como especial. III. RAZÕES DE DECIDIR
+3. O período de 01/06/2009 a 14/09/2012 não pode ser reconhecido como especial, pois o autor, conforme anotação em sua CTPS, ocupava o cargo de "agente de loja júnior", sem demonstração documental mínima acerca de exposição a agentes nocivos ou exercício de atividade especial.
+4. A realização de prova pericial foi indeferida corretamente pelo Juízo de origem, considerando a ausência de elementos mínimos que indicassem a relevância ou necessidade da produção probatória.
+5. O reconhecimento do período de 13/12/1996 a 02/08/2006 como especial está embasado em prova emprestada consistente em laudos periciais e Perfil Profissiográfico Previdenciário (PPP), admitidos sob o contraditório, em conformidade com o art. 372 do CPC e precedentes do STJ, que confirmam a validade da prova emprestada mesmo em processos envolvendo partes diferentes.
+6. A atividade de aeronauta, durante o período reconhecido, foi caracterizada como especial devido à exposição a pressão atmosférica anormal, conforme previsão nos anexos dos Decretos nº 53.831/1964, nº 83.080/1979, nº 2.172/1997 e nº 3.048/1999, bem como por prova técnica que atestou habitualidade e permanência dessa exposição.
+7. A caracterização da especialidade pelo agente físico ruído segue o entendimento firmado no Tema Repetitivo nº 1.083/STJ, que adota o Nível de Exposição Normalizado (NEN) como critério principal, admitindo-se o pico de ruído em caso de ausência de medição técnica detalhada, desde que demonstrada a habitualidade e permanência.
+8. Majorada a condenação da parte autora em honorários advocatícios em 1% (um por cento), com fulcro no artigo 85, §11, do CPC, suspendendo, contudo, a exigibilidade de sua cobrança, nos termos do artigo 98, §3º, do CPC, em razão da concessão da gratuidade de justiça.
+IV. DISPOSITIVO
+9. Apelações do INSS e do autor desprovidas.
+Os embargos de declaração opostos foram rejeitados (fls. 832/835).
+Nas razões de seu recurso especial, a parte recorrente alega, além da divergência jurisprudencial, violação aos arts. 370, 464, § 1º, II, e 372 do Código de Processo Civil, por cerceamento de defesa, e afronta aos arts. 57 e 58 da Lei 8.213/1991, por recusa de reconhecimento da especialidade sem se permitir a produção de prova técnica adequada.
+Requer o conhecimento e o provimento de seu recurso.
+A parte adversa não apresentou contrarrazões.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Inicialmente, pontuo que o entendimento do Superior Tribunal de Justiça é o de que "o magistrado tem ampla liberdade para analisar a conveniência e a necessidade da produção de provas, podendo perfeitamente indeferir provas periciais, documentais, testemunhais e/ou proceder ao julgamento antecipado da lide, se considerar que há elementos nos autos suficientes para a formação da sua convicção em relação às questões de fato ou de direito vertidas no processo, sem que isso implique cerceamento do direito de defesa" (AREsp 1.546.405/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/10/2019).
+Nas razões de seu recurso, a parte recorrente sustenta que " o  Tribunal incorreu em cerceamento de defesa, ao negar a produção de perícia técnica  ainda que por similaridade  capaz de apurar as condições ambientais de trabalho do autor" (fl. 837).
+Quanto ao ponto, no acórdão recorrido, o Tribunal de origem decidiu nestes termos (fl. 819, sem destaques no original):
+Voltando ao exame dos autos , cumpre rechaçar, de plano, a alegação da parte autora quanto à ocorrência de cerceamento de defesa em razão de negativa de produção da prova pericial. Como bem observado pelo julgador de primeiro grau, encontra-se anotado na CTPS acostada ao processo 5039787- 78.2020.4.02.5101/RJ, evento 14, PROCADM5, fls. 7 e 19, que o autor foi contratado em 01/06/2009 pela Continental Airlines Inc. para o cargo de "agente de loja júnior", não havendo quaisquer outras informações sobre a atividade desempenhada pelo segurado, sequer quanto à ocupação de outros cargos junto ao ex-empregador.
+Desta forma, tem-se que o requerimento de realização de perícia judicial, para fins de enquadramento do período entre 01/06/2009 e 14/09/2012, não está embasado em prova documental mínima, que ao menos indique a natureza da atividade exercida e o objeto da prova que o autor pretendia ver realizada, tendo em vista que o cargo anotado em CTPS não corresponde ao de comissário de bordo.
+À míngua de elementos que conduzam à conclusão de que, no período em tela, o segurado teria exercido atividade em condições insalubres, descabe anular a sentença e, por igual razão, deve ser mantido o cômputo como tempo comum, devendo ser desprovido o recurso da parte autora.
+Na decisão integrativa, o Tribunal ainda pontuou (fl. 832, sem destaques no original):
+Assim, não foi caracterizado o cerceamento de defesa, uma vez que o autor não apresentou prova documental mínima que indicasse atividade em condição insalubre para o período de 01/06/2009 e 14/09/2012.
+Além disso, foi analisada a jurisprudência sobre prova emprestada apenas sobre o período de 13/12/1996 a 02/08/2006, já reconhecido pela sentença, uma vez que no período de 01/06/2009 e 14/09/2012, não há prova o suficiente da exposição a agentes insalubres.
+Como se observa, o Tribunal de origem, após a análise das circunstâncias fáticas da causa, concluiu pela desnecessidade de produção de provas, tendo em vista a inexistência de suporte documental mínimo para autorizar a perícia técnica .
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CERCEAMENTO DO DIREITO DE DEFESA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AÇÃO DE REINTEGRAÇÃO DE POSSE. IMPROCEDÊNCIA. OCUPAÇÃO IRREGULAR DE BEM PÚBLICO. MERA DETENÇÃO PELO PARTICULAR. ENUNCIADO N. 619/STJ.
+ ..
+2. No caso, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, para se concluir pela necessidade de realização das provas requeridas e indeferidas, demandaria novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto na Súmula n. 7/STJ.
+ ..
+4. Agravo interno não provido.
+(AgInt no AREsp n. 3.073.894/DF, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/4/2026, DJEN de 28/4/2026.)
+Por fim, é pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c; em razão disso fica prejudicada a apreciação do dissídio jurispru d encial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor já arbitrado dos honorários sucumbenciais, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo, bem como os termos do art. 98, § 3º, desse diploma legal.
+Publique-se. Intimem-se.
+EMENTA
