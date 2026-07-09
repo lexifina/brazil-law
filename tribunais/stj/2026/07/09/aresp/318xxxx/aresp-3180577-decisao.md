@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo interposto contra a decisão que inadmitiu o recurso especial no qual POWER BRASIL LOCAÇÃO E COMÉRCIO DE GERADORES LTDA. EPP se insurgira, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (fls. 398-401):
+APELAÇÃO CÍVEL. Ação monitória. Pagamento parcial do contrato de prestação de serviços de fornecimento de geradores de energia elétrica. Comprovação da prestação de serviço integral. Alegação de repactuação verbal. Não ocorrência. Ausência de verossimilhança da tese que ensejaria a renúncia a metade do valor devido à parte apelada. Inexistência de fato impeditivo, modificativo ou extintivo da obrigação de pagar restante de R$ 100.000,00. Sentença de parcial procedência mantida, bem como a condenação recíproca em honorários sucumbenciais, e respectivos percentuais. RECURSO NÃO PROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 413-416).
+A parte recorrente alegou violação dos arts. 428, I, 445 e 457, § 2º, do Código de Processo Civil, bem como a não aplicação da teoria da aparência, sustentando que houve negativa de vigência à legislação federal pela forma de valoração da prova.
+Contrarrazões foram apresentadas (fls. 459-473).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 474-475), o que ensejou a interposição do presente agravo.
+Foi apresentada contraminuta ao agravo (fls. 497-514).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O recurso especial teve origem em ação monitória na qual se reconheceu pagamento parcial e se manteve a condenação da recorrente ao pagamento de R$ 100.000,00, diante da inexistência de fato impeditivo, modificativo ou extintivo da obrigação.
+Inicialmente, observa-se quanto à admissibilidade que o acórdão recorrido firmou premissas fáticas claras sobre a prestação dos serviços, a ausência de prova da repactuação e a tentativa de reexame de provas na apelação.
+O Tribunal a quo, ao analisar a controvérsia, consignou que (fl. 400):
+"Busca a parte apelante, na verdade, o reexame das provas e revaloração de forma a comprovar sua tese de que teria ocorrido uma repactuação, pela qual a apelada teria concordado em reduzir em praticamente metade o valor originalmente contratado para a locação dos referidos geradores. Todavia, o juízo a quo, em análise minuciosa de todos os depoimentos e provas, verificou com acerto que (1) parte do pagamento já tinha sido realizado; (2) o restante injustificadamente não foi adimplido e (3) que a tese de repactuação verbal não tem verossimilhança diante da matéria probatória presente nos autos."
+No julgamento dos embargos de declaração, a Câmara reafirmou que não houve omissão e que a apontada repactuação verbal não se demonstrou, registrando, inclusive, que "as meras citações de artigos do Código de Processo Civil, não têm o condão de abalar a fundamentação do v. acórdão embargado" (fls. 415-416).
+À luz dessas premissas, verifica-se que a pretensão recursal demandaria a revisão do acervo fático-probatório, vedada em recurso especial. Incide, portanto, a Súmula n. 7/STJ, cujo enunciado dispõe: "A pretensão de simples reexame de prova não enseja recurso especial" (fl. 464).
+Ademais, constata-se não ter havido debate específico, no acórdão recorrido, acerca dos dispositivos federais invocados (arts. 428, I, 445 e 457, § 2º, do CPC). Os embargos de declaração foram rejeitados sem que se tenha sido integrado o julgado com enfrentamento direto das teses legais em comento. Nessa hipótese, é inaplicável o recurso especial, por ausência de prequestionamento, conforme a Súmula n. 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo" (fl. 504).
+A insurgência especial se apoiou em premissas fáticas já fixadas pelas instâncias ordinárias e pretendeu, em última análise, revalorar o conjunto probatório para reconhecer a repactuação verbal e afastar a força probatória de documentos e depoimentos adversos, o que esbarra na imutabilidade das premissas fáticas reconhecidas pelo Tribunal de origem. Incide na hipótese a Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre o valor atualizado da condenação.
+Publique-se. Intimem -se.
+ EMENTA
