@@ -1,6 +1,6 @@
 Art. 67. Os sistemas de ensino promoverão a valorização dos profissionais da educação, assegurando-lhes, inclusive nos termos dos estatutos e dos planos de carreira do magistério público:
 I - ingresso exclusivamente por concurso público de provas e títulos;
-II - aperfeiçoamento profissional continuado, inclusive com licenciamento periódico remunerado para esse fim;
+II - aperfeiçoamento profissional continuado, inclusive com licenciamento periódico remunerado para esse fim, compreendendo, entre outras atividades, cursos de qualificação, cursos de pós-graduação lato sensu e stricto sensu e período para realização de pesquisa na área da educação;
 III - piso salarial profissional;
 IV - progressão funcional baseada na titulação ou habilitação, e na avaliação do desempenho;
 V - período reservado a estudos, planejamento e avaliação, incluído na carga de trabalho;
