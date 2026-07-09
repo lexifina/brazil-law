@@ -1,0 +1,57 @@
+DECISÃO:
+Trata-se de dois recursos extraordinários com agravo interpostos por GABRIEL PEREIRA e por CLEIDEMIR DOS SANTOS GOMES contra decisão de inadmissão dos recursos interpostos contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA MILITAR DO ESTADO DO RIO GRANDE DO SUL.
+O recurso de GABRIEL PEREIRA foi interposto com fundamento na alínea "a" do permissivo constitucional.
+O acórdão recorrido  ficou assim ementado:
+
+DIREITO PENAL MILITAR. APELAÇÃO CRIMINAL. CRIME DE TORTURA (ART. 1º, INC. II, E § 4º, INC. I, DA LEI FEDERAL Nº 9.455/1997). PRELIMINARES DEFENSIVAS DE NULIDADE DA SENTENÇA. IMPRATICABILIDADE DE ANÁLISE EM SEDE PRELIMINAR. EXAME A SER REALIZADO JUNTO AO MÉRITO. TESES RECURSAIS. VIOLAÇÃO AO RITO DE JUDICIALIZAÇÃO DAS PROVAS. INOCORRÊNCIA. VÍCIO NA CADEIA DE CUSTÓDIA. INEXISTÊNCIA. INIDONEIDADE DO RECONHECIMENTO FOTOGRÁFICO. NÃO COMPROVADA. APELO DESPROVIDO. UNANIMIDADE.
+I. Caso em Exame
+1. Tratam-se de recursos de Apelações Criminais interpostos pelas defesas dos Sds. Cleidemir dos Santos Gomes, Dalvan Rohr e Gabriel Pereira contra sentença penal que julgou procedente a denúncia ofertada pelo Ministério Público, condenando-os às sanções do art. 1º, inciso II, e § 4º, inciso I, da Lei Federal nº 9.455/1997, à pena de 2 (dois) anos e 4 (quatro) meses de reclusão, a ser cumprida em regime inicial aberto, sem direito “sursis”, porém, com direito a recorrer em liberdade.
+III. Razões de decidir
+1. Na análise dos autos, incialmente, constata-se que as preliminares arguidas não configuram nulidade processual autônoma, pois se referem à validade e à confiabilidade das provas, e não a vício da sentença. Tratam-se, portanto, de matérias que se confundem com o mérito da causa, razão pela qual serão examinadas nessa oportunidade.
+2. O art. 295 do Código de Processo Penal Militar (CPPM) admite qualquer espécie de prova, desde que não atente contra a moral, a saúde, a segurança individual ou coletiva, nem contra a hierarquia ou a disciplina militar.
+3. No Direito Processual Penal Militar, vigora o princípio do livre convencimento motivado, arts. 297 e 438 do CPPM, art. 24 do CEMN e art. 93, IX, da Constituição Federal (CF/88), segundo o qual o juiz forma sua convicção a partir da apreciação racional e fundamentada das provas produzidas em contraditório.
+4. Declarações prestadas exclusivamente na fase inquisitorial, sem confirmação em juízo, não devem fundamentar a condenação, em respeito aos princípios do contraditório e da ampla defesa, porém, cabe sua utilização como prova complementar, desde que corroboradas por elementos produzidos sob o crivo do contraditório judicial.
+5. A cadeia de custódia corresponde ao conjunto de procedimentos destinados a assegurar a autenticidade, a integridade e a rastreabilidade dos vestígios, mediante a documentação de todas as etapas de coleta, guarda, transporte, processamento e destinação final. O registro de existência de provas, por sua vez, não implica a coleta física do material, mas apenas a formalização da presença ou ocorrência de determinado elemento no contexto investigativo. Assim, eventuais falhas na cadeia de custódia podem comprometer a validade da prova material, ao passo que o registro de existência preserva seu valor probatório, desde que analisado em consonância com o conjunto probatório dos autos. No mais, lei processual penal comum estabelece os procedimentos para registro e preservação da cadeia de custódia, mas não prevê, como consequência imediata, a declaração de nulidade de prova obtida de modo diverso.
+6. O art. 226 do Código de Processo Penal disciplina, prioritariamente, o reconhecimento pessoal presencial. Todavia, tanto a jurisprudência do Supremo Tribunal Federal (STF) e do Superior Tribunal de Justiça (STJ), quanto a Resolução nº 484/2022 do Conselho Nacional de Justiça (CNJ), consolidaram o entendimento de que o reconhecimento fotográfico, desde que realizado em observância às formalidades legais e corroborado por outros elementos probatórios, constitui meio de prova válido.
+7. No caso em exame, o conjunto probatório mostrou-se coeso e harmônico, revelando-se suficiente para a comprovação da materialidade e da autoria delitiva, não se constatando qualquer fragilidade probatória apta a infirmar a condenação imposta.
+8. É incabível a pretensão de desclassificação da conduta atribuída aos apelantes, do crime de tortura (art. 1º da Lei nº 9.455/1997) para o delito de lesão corporal agravada (art. 209 do Código Penal Militar). Isso porque os elementos objetivos e subjetivos do tipo penal da tortura diferenciam-se substancialmente daqueles inerentes ao crime de lesão corporal. Enquanto este tutela a incolumidade física ou a saúde do indivíduo, aquele protege, além da integridade física e psíquica, a dignidade da pessoa humana, exigindo conduta dolosa com intuito específico de causar sofrimento físico ou mental intenso, circunstância devidamente comprovada no caso em análise.
+IV. Dispositivo e Tese
+11. O Pleno acordou, por unanimidade, negar provimento aos recursos defensivos de Apelação Criminal, mantendo a sentença em sua integralidade.
+Tese de Julgamento: “No caso em apreço, não há falar em fragilidade da persecução penal. Ao revés, verifica-se a realização de procedimento regular, amparado por um conjunto probatório harmônico e coerente, suficiente para demonstrar, de forma segura, que os apelantes praticaram o crime que lhes foi imputado. Com efeito, os indícios colhidos, corroborados por outros elementos de convicção constantes dos autos convergem, de modo consistente, para a atribuição da autoria e materialidade delitiva”.
+Dispositivos relevantes citados: CF/88 art. 93, IX; CPP: arts. 155, 158-A e F, 226 , 228; CPPM: arts. 209, 295, 297, 438. Lei nº 9.455/1997. Resolução 484/2022 CNJ. Revista do MP/RJ nº92, abr/jun.2024, pgs 03 a 06.
+Jurisprudência: STF: Ap 1.032/DF; Ag.Reg.Recurso Ordinário em HC 255.898. TJM/RS: ApCr nº 1000086- 18.2017.9.21.0000; ApCr nº 1000260- 27.2017.9.21.0000, CnJst nº 0900020- 93.2018.9.21.0000; ApCr nº 1000153- 74.2017.9.21.0002; ApCr nº 1004628- 15.2013.9.21.0002; ApCr nº 1001758- 29.2015.9.21.0001.
+
+No recurso extraordinário de GABRIEL PEREIRA sustenta-se violação do(s) art.(s) 37, caput, e 5º, incisos LIV e LV, da Constituição Federal.
+Decido.
+Quanto à insurgência de CLEIDEMIR DOS SANTOS GOMES, verifica-se que o recurso extraordinário não foi admitido pelo seguinte fundamento: não cabimento de RE para reexame fático-probatório (Súmula 279/STF) e ausência de tópico de RG devidamente fundamentado (art. 102, § 3º, da CF/88).
+A parte agravante, todavia, deixou de impugnar especificamente o seguinte fundamento: ausência de tópico de RG devidamente fundamentado (art. 102, § 3º, da CF/88).
+A jurisprudência da Corte já assentou ser inviável o agravo em recurso extraordinário que não ataca especificamente todos os fundamentos da decisão de admissibilidade do recurso, a teor da Súmula 287/STF.
+A propósito, confira-se o seguinte julgado:
+
+"Agravo regimental no recurso extraordinário com agravo. Agravo contra a inadmissão do processamento do recurso extraordinário pelo juízo de origem. Fundamentos. Ausência de impugnação. Precedentes.
+1. Segundo a firme jurisprudência do Supremo Tribunal Federal, devem ser impugnados, na petição do agravo, todos os fundamentos da inadmissão do apelo extremo.
+2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC).
+3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita" (ARE nº 1.189.373/RS - AgR, Tribunal Pleno; Rel. Min. Dias Toffoli, DJe de 16/05/2019).
+
+Nesse sentido, vejam-se ainda: ARE nº 1.123.973/AP – AgR, Tribunal Pleno, Rel. Min. Cármen Lúcia, DJe de 25/09/2018; ARE nº 1.076.524/SP – AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 01/02/2019; ARE nº 1.161.442/PE – AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 01/02/2019; ARE nº 1.1.135.071/RJ – AgR, Primeira Turma, Rel. Min. Luiz Fux, DJe de 17/09/2018; ARE nº 890.639/SP – AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 10/10/2017.
+Já quanto à insurgência de GABRIEL PEREIRA, no que tange à alegação de violação do(s) art(s). 5º, incisos LIV e LV, da Constituição, verifica-se que a decisão de inadmissão do recurso extraordinário está amparada em aplicação de precedente firmado com base na sistemática da repercussão geral.
+Todavia, o art. 1.042 do Código de Processo Civil é expresso sobre o não cabimento de agravo dirigido ao STF nas hipóteses em que a negativa de seguimento do recurso extraordinário tiver como base exclusivamente a sistemática da repercussão geral, sendo essa decisão passível de impugnação somente por agravo interno (art. 1.030, § 2º, do CPC/2015). Sobre o tema, destaque-se:
+
+“EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM: AUSÊNCIA DE PREVISÃO LEGAL DE RECURSO PARA O SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 1.109.295/RS-ED-ED, Tribunal Pleno, Rel. Min. Cármen Lúcia, DJe de 25/09/2018).
+
+Assim, não conheço do recurso quanto ao(s) capítulo(s) acima referenciado(s).
+Além disso, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, nos termos da Súmula 279/STF. Sobre o tema, a propósito:
+
+“Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Fatos e provas. Reexame. Impossibilidade. Legislação infraconstitucional. Ofensa Reflexa. Precedentes. 1. Não se presta o recurso extraordinário para o reexame dos fatos e das provas constantes dos autos, tampouco para a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 2. Agravo regimental não provido” (ARE 1183314/CE - AgR, Tribunal Pleno, Rel. Min. Dias Toffoli, DJe de 15/04/2019).
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. MANUTENÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida. 2. O recurso extraordinário esbarra no óbice previsto na Súmula 279 do STF, por demandar o reexame de fatos e provas. 3. Agravo regimental desprovido” (ARE 1165382/SP - AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 04/03/2020).
+
+“RECURSO EXTRAORDINÁRIO COM AGRAVO – MATÉRIA PENAL – ALEGADA VIOLAÇÃO AO PRECEITO INSCRITO NO ART. 5º, LVII, DA CONSTITUIÇÃO DA REPÚBLICA – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – AGRAVO INTERNO IMPROVIDO” (ARE 1131709 AgR, Segunda Turma, Rel. Min. Celso de Mello, DJe de 30/10/2018).
+
+Ante o exposto, nego seguimento aos recursos (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 9 de julho de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
