@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MASOTTI VIVERE EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA. contra decisão monocrática de minha relatoria que não conheceu do recurso especial em razão das Súmulas 5 e 7 do STJ (fls. 512-517)
+A parte emb argante alega, em suma, que: a) a decisão embargada deixou de enfrentar adequadamente a divergência jurisprudencial demonstrada no recurso especial, limitando-se a afirmar que a incidência da Súmula 7/STJ impediria o conhecimento do recurso pela alínea "c"; b) a divergência apontada não depende de reexame de fatos ou provas, mas diz respeito à interpretação jurídica do art. 67-A da Lei nº 4.591/1964, especialmente quanto aos limites da intervenção judicial na cláusula penal em contratos submetidos ao patrimônio de afetação.
+Requer o conhecimento e provimento dos presentes embargos de declaração, a fim de que sejam sanadas as omissões apontadas.
+Não foi apresentada impugnação (fls.535-536).
+É, no essencial, o relatório.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+No caso em exame, inexistem vícios no julgado.
+Não há obscuridade ou omissão na decisão embargada porquanto, ficou, expressa e claramente, consignado que, conforme consta na decisão monocrática anterior, rever a conclusão do acórdão impugnado acerca das disposições contratuais com objetivo de restabelecer o percentual da cláusula penal abusiva, ensejaria o reexame de fatos e provas, bem como uma nova análise do contrato (fls. 514-515):
+Com efeito, a Corte estadual concluiu, com base na interpretação das cláusulas contratuais, que a intervenção judicial nas disposições contratuais é possível para mitigar cláusula penal abusiva, fixando a retenção em 20% dos valores pagos, não obstante a previsão contratual de deduções e penalidades, como se pode depreender do seguinte trecho extraído (fl. 437): Asim, se o IV, do CDC prevê a necessidade de art. 51, devolução dos valores pagos, isso não significa que não seja impossível a previsão de cláusula penal para favorecer a parte inocente. E significa que essa devolução deve ser feita em percentual significativo, para que se considere que o ordenamento foi atendido. Possível a intervenção do Judiciário nos termos contratuais, essa intervenção justifica- se se o percentual previsto em contrato tiver caráter abusivo.
+E ainda, o Tribunal de origem entendeu que a unidade não foi disponibilizada aos compradores e que a ré não comprovou prejuízo material relacionado a encargos, afastando, por isso, retenções adicionais e fixando a retenção em 20%, conforme se afere do trecho a seguir (fl. 437):
+Ressalto que o percentual ora fixado já abrange eventuais despesas administrativas e os valores correspondentes aos tributos incidentes sobre os pagamentos efetuados, notadamente porque a unidade imobiliária objeto do compromisso não foi disponibilizada aos compradores em estado de conclusão, o que afasta a aplicação do disposto no § 2º do artigo 67-A da  ..  Lei nº 4.591/1964 Ainda que assim não fosse, a ré não demonstrou prejuízo material relacionado a tais encargos, de modo que inexiste fundamento para autorizar retenção superior à ora estabelecida." (fls. 438-438)
+De modo que, rever o citado entendimento para reconhecer que devem prevalecer as cláusulas contratuais que autorizam retenção de 50% dos valores pagos, além das deduções de despesas administrativas, impostos e comissão de corretagem, como pretende a parte recorrente, demandaria o reexame das cláusulas do contrato e do material fático-probatório dos autos, o que encontra óbice nas Súmulas 5 e 7/STJ.
+Observa-se, portanto, que, na verdade, a parte embargante não se conforma com a decisão embargada e, ainda neste momento, pleiteia novo julgamento da demanda. Todavia, os embargos de declaração não são a via adequada para se buscar o rejulgamento da causa.
+A propósito, cito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PRETENSÃO DE PARCELAMENTO DO DÉBITO EXEQUENDO. IMPOSSIBILIDADE. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. EMBARGOS REJEITADOS
+1. Nos termos do que dispõe o art. 1.022 do CPC/2015, os embargos de declaração são cabíveis apenas quando amparados em suposta omissão, contradição, obscuridade ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Na hipótese, o acórdão embargado encontra-se suficientemente fundamentado, em relação à aplicabilidade dos arts. 805 e 916, § 7º, do CPC, seja em relação à alínea a do permissivo constitucional seja em relação à alínea c.
+3. Embargos de declaração rejeitados. (EDcl no REsp n. 1.891.577/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 2/9/2022.)
+No mesmo sentido, cito: EDcl no AgInt no AREsp n. 1.896.238/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 25/3/2022; EDcl no AgInt no AREsp n. 1.880.896/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 26/5/2022.
+Ressalte-se ainda que a alegada divergência jurisprudencial foi igualmente analisada de forma fundamentada e clara, pois foi afastada com base no entendimento desta Corte, no sentido de que a incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido, cito:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO AUTÔNOMO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 283/STF. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que não conheceu do recurso especial.
+2. A decisão agravada aplicou os óbices das Súmulas 283 e 284 do STF e 7 do STJ, concluindo pela ausência de impugnação específica a fundamento autônomo suficiente do acórdão recorrido, pela deficiência de fundamentação das razões recursais e pela necessidade de revolvimento do acervo fático-probatório.
+3. O agravante sustenta, em síntese, que a decisão monocrática teria incorrido em erro de premissa ao atribuir ao acórdão recorrido fundamento nele inexistente, que a controvérsia seria exclusivamente de direito e que o dissídio jurisprudencial teria sido regularmente demonstrado.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o agravo interno logrou desconstituir os fundamentos da decisão monocrática que não conheceu do recurso especial, à luz: (i) da alegada inexistência de fundamento autônomo não impugnado; (ii) da alegação de que a controvérsia seria de direito puro, afastando o óbice da Súmula 7/STJ; e (iii) da alegada comprovação regular do dissídio jurisprudencial.
+III. Razões de decidir
+5. O agravo interno é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil, mas não há motivos para reconsideração, devendo ser mantida a decisão agravada.
+6. A ausência de impugnação específica a fundamento autônomo suficiente do acórdão recorrido impede o conhecimento do recurso, conforme Súmula 283/STF.
+7.O acolhimento da pretensão recursal demandaria revolvimento do acervo fático-probatório, providência vedada pelo enunciado da Súmula 7/STJ.
+8.A comprovação do dissídio jurisprudencial permanece deficiente, sendo certo que, de todo modo, a divergência invocada assenta em base fática, atraindo igualmente o óbice da Súmula 7/STJ.
+IV. Dispositivo
+9. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 2.023.420/SP, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 15/6/2026, DJEN de 18/6/2026.)
+Ora, a pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita. Portanto, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
