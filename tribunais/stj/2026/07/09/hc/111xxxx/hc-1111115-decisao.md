@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de Habeas Corpus com pedido de liminar impetrado em favor de GUILHERME SOUSA OLIVEIRA, no qual se aponta como ato coator os julgados proferidos pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA na Medida Cautelar Inominada n. 8045661-40.2026.8.05.0000 e no HC n. 8045619-88.2026.8.05.0000.
+Consta dos autos a prisão temporária do paciente, decorrente da suposta prática dos delitos capitulados nos arts. 33, caput, e 35, caput, ambos da Lei n. 11.343/2006, posteriormente convertida em prisão preventiva por decisão do juízo plantonista em 13.06.2026 e, em seguida, mantida pela decisão monocrática do Desembargador Relator que concedeu efeito suspensivo ativo ao Recurso em Sentido Estrito na Medida Cautelar Inominada n. 8045661-40.2026.8.05.0000.
+Sustenta-se a ocorrência de constrangimento ilegal decorrente da decisão monocrática que deferiu o pedido de liminar no âmbito de Medida Cautelar Inominada que atribuiu efeito suspensivo ativo ao Recurso em Sentido Estrito, decretando-se, por consequência, a prisão preventiva do paciente, bem como da decisão monocrática que julgou extinto o writ impetrado na origem.
+Alega que há manifesto excesso de prazo da prisão cautelar desde 14.04.2026, sem conclusão do inquérito e sem oferecimento de denúncia.
+Ressalta, ademais, que não estão presentes os requisitos autorizadores da medida extrema, por ausência de fatos novos ou contemporâneos e por inexistência de perigo atual à instrução ou à ordem pública, com referência aos arts. 312 e 315, § 1º, do CPP.
+Argumenta que está ausente a contemporaneidade dos motivos ensejadores da custódia cautelar, pois a prisão preventiva foi decretada com base nos mesmos elementos da prisão temporária, sem acréscimo fático superveniente.
+Defende que se revelam adequadas e suficientes as medidas cautelares alternativas previstas no art. 319 do aludido diploma legal, já anteriormente fixadas pelo juiz natural ao conceder liberdade provisória, e que deixaram de ser explicitados os motivos para a sua não aplicação na decisão posterior.
+Expõe que há nulidade substancial na decisão monocrática do Relator, por ter atribuído efeito suspensivo a recurso em sentido estrito contra decisão concessiva de liberdade provisória e decretado prisão preventiva sem a devida observância do devido processo legal, além de ter julgado prejudicado o Habeas Corpus impetrado na origem, impedindo o exame da legalidade do encarceramento.
+Requer, assim, liminarmente e no mérito, o relaxamento da prisão cautelar ou a sua revogação, ainda que mediante a aplicação de medidas cautelares alternativas não prisionais.
+É o relatório.
+Decido.
+Q uanto ao julgado proferido no HC n. 8045619-88.2026.8.05.0000, a decisão combatida foi proferida monocraticamente pelo Desembargador relator na origem, não havendo, pois, deliberação colegiada do Tribunal a quo sobre a matéria trazida na presente impetração, o que inviabiliza o seu conhecimento por esta Corte Superior devido à ausência de exaurimento de instância.
+Nesse sentido, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INTERPOSIÇÃO DE DOIS RECURSOS. PRINCÍPIO DA UNIRRECORRIBILIDADE E DA PRECLUSÃO CONSUMATIVA. INVIABILIDADE DE ANÁLISE DO ÚLTIMO. TRÁFICO ILÍCITO DE ENTORPECENTES. WRIT CONTRA DECISÃO MONOCRÁTICA. QUESTÃO NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. NECESSIDADE DE INTERPOSIÇÃO DE AGRAVO REGIMENTAL. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. Não é cabível a impetração de habeas corpus contra decisão monocrática de desembargador, sendo necessária a interposição de recurso para submissão do decisum ao colegiado competente a fim de que ocorra o exaurimento de instância (art. 105, II, a, da Constituição Federal).
+ ..  (AgRg no HC n. 743.582/SP, Rel. Ministro João Otávio de Noronha, Quinta Turma, DJe de 17.6.2022.)
+EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA. NÃO CABIMENTO.
+1. Esta Corte entende que não é cabível a impetração do writ contra decisão monocrática proferida pelo Tribunal de origem, tendo em vista ser necessária a interposição do recurso adequado para a submissão do respectivo decisum ao colegiado daquele Tribunal, de modo a exaurir referida instância. Precedentes do STJ.
+2. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento. (EDcl no RHC n. 160.065/PE, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, DJe de 11.3.2022.)
+Em relação ao julgado proferido na Medida Cautelar Inominada n. 8045661-40.2026.8.05.0000, constata-se, desde logo, que a pretensão não pode ser acolhida pelo Superior Tribunal de Justiça, pois não se admite a impetração de Habeas Corpus contra decisão que indefere a liminar na origem.
+Aplica-se ao caso, por analogia, o enunciado n. 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. SÚMULA N. 691/STF. MEDIDA CAUTELAR INOMINADA. EFEITO SUSPENSIVO A RECURSO EM SENTIDO ESTRITO. POSSIBILIDADE. ART. 244 C/C O ART. 9º, II, E, DO CPM. PRISÃO PREVENTIVA. MODUS OPERANDI DO DELITO. TEMOR CAUSADO À VÍTIMA E À TESTEMUNHA. AUSÊNCIA DE MANIFESTA ILEGALIDADE.
+1. Nos termos da Súmula n. 691 do STF, aplicável por analogia ao caso, não se admite, em regra, a impetração de habeas corpus contra decisão que indefere a liminar na origem, ressalvadas as hipóteses em que evidenciada a presença de decisão teratológica ou desprovida de fundamentação.
+2. Conforme a jurisprudência desta Corte Superior, "é admissível o ajuizamento de ação cautelar inominada para atribuir efeito suspensivo a recurso em sentido estrito interposto pelo Ministério Público contra decisão que revogou a prisão preventiva" (HC n. 485.727/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/4/2019, DJe de 30/4/2019).
+3. Tendo o pedido liminar sido deferido na origem com a indicação de fundamentação concreta, destacando-se a existência de indícios de autoria e de materialidade, bem como do periculum libertatis, evidenciado no modus operandi do delito, praticado por policiais com ameaça a civil, bem como no temor causado à vítima e à testemunha, não há manifesta ilegalidade apta a justificar a mitigação da Súmula n. 691/STF.
+4. Agravo regimental improvido.
+(AgRg no HC n. 794.156/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDF), Sexta Turma, DJe de 10.2.2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. IMPETRAÇÃO CONTRA DECISÃO DEFERITÓRIA DE LIMINAR PROFERIDA POR DESEMBARGADOR RELATOR DE MEDIDA CAUTELAR INOMINADA PROPOSTA PELO MINISTÉRIO PÚBLICO. AUSÊNCIA DE TERATOLOGIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO DESPROVIDO.
+1. Consoante o entendimento consolidado na Súmula n. 691 do Supremo Tribunal Federal, também adotado nesta Corte Superior de Justiça, não deve ser conhecido o writ impetrado contra decisão do Relator que indefere a liminar postulada em outro habeas corpus requerido na origem, sob pena de indevida supressão de instância. Tal entendimento, por analogia, também se aplica o caso em análise, em que se trata de impugnação de decisão liminar proferida por Desembargador Relator de ação cautelar inominada.
+2. No caso, não se constata ilegalidade patente que autorize a mitigação da Súmula n. 691 da Suprema Corte, tendo em vista que a prisão preventiva está, em princípio, justificada para a garantia da ordem pública, em virtude da gravidade concreta do delito, evidenciada pela quantidade da droga apreendida.
+3. Agravo regimental desprovido. (AgRg no HC n. 884.434/PR, Rel. Ministro Teodoro Silva Santos, Sexta Turma, DJe de 18.3.2024.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. DECISÃO DE DESEMBARGADOR QUE DEFERE LIMINAR EM MEDIDA CAUTELAR INOMINADA. CONCESSÃO DE EFEITO SUSPENSIVO A RECURSO EM SENTIDO ESTRITO. PRISÃO CAUTELAR. GARANTIA DA ORDEM PÚBLICA. NECESSIDADE EVIDENCIADA PELA QUANTIDADE E DIVERSIDADE DE DROGAS. SÚMULA N. 691 DO STF. APLICAÇÃO POR ANALOGIA. PRECEDENTES. AGRAVO REGIMENTAL IMPROVIDO.
+1.Nos termos da Súmula n. 691 do STF, "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido ao tribunal superior, indefere a liminar".
+2. É firme o entendimento do Superior Tribunal de Justiça  de que aplica-se, por analogia, a inteligência da Súmula n. 691 do STF para negar conhecimento a habeas corpus impetrado contra decisão liminar de desembargador que concede efeito suspensivo a recurso em sentido estrito interposto contra decisão que revoga a prisão preventiva.
+Precedentes.
+3. Não ficou demonstrada a ocorrência de ilegalidade flagrante que autorize a mitigação da incidência do enunciado sumular.
+4. Agravo regimental improvido. (AgRg no HC n. 1.018.320/SP, relator Ministro Og Fernandes, Sexta Turma, DJEN de 9.9.2025.)
+No caso, a situação dos autos não justifica a prematura intervenção desta Corte Superior. Deve-se, por ora, aguardar o esgotamento da jurisdição do Tribunal de origem.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
