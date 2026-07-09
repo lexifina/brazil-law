@@ -1,0 +1,68 @@
+Decisão
+
+Trata-se de Habeas Corpus impetrado contra acórdão do Superior Tribunal Militar (Apelação Criminal 7000238-07.2024.7.02.0002/SP, Rel. Min. ARTUR VIDIGAL DE OLIVEIRA), assim ementado:
+
+[...]
+I. CASO EM EXAME
+1. Recursos de apelação interpostos pelo Ministério Público Militar e pela Defensoria Pública da União contra sentença que julgou parcialmente procedente a denúncia para condenar o réu civil, que atuava como despachante, à pena de 1 ano de reclusão pelo crime de uso de documento falso, e absolver o corréu civil, contratante, da mesma imputação, por insuficiência de provas. Narra a denúncia que o despachante apresentou declaração de filiação materialmente falsa a clube de tiro perante o Serviço de Fiscalização de Produtos Controlados do Exército, com o fim de obter Certificado de Registro de arma de fogo em nome do corréu.
+[...]
+III. RAZÕES DE DECIDIR
+4. A competência penal da Justiça Militar da União em tempo de paz para julgar civil define-se em razão da matéria (ratione materiae) e do bem jurídico tutelado, e não em razão da pessoa (ratione personae).
+5. O uso de declaração de filiação falsa perante o Serviço de Fiscalização de Produtos Controlados do Exército para obter Certificado de Registro de arma de fogo atinge diretamente a ordem administrativa militar e a regularidade dos serviços da Força Terrestre, atraindo a competência da Justiça Militar da União.
+6. Mostra-se inaplicável a Súmula n.º 36 do Supremo Tribunal Federal, uma vez que a fiscalização de armas e registros de CAC pelo Exército envolve a segurança nacional e o controle de produtos de alto risco, diferenciando-se de atividades civis ou recreativas de navegação.
+7. O crime de uso de documento falso é delito formal e de perigo presumido, consumando-se com a mera utilização ou apresentação do papel contrafeito, sendo dispensável a demonstração de resultado naturalístico ou obtenção de vantagem.
+8. A autoria e a materialidade quanto ao despachante estão devidamente comprovadas por laudo pericial, documentos que demonstram o modo de operação e depoimento testemunhal que atesta a falsidade da assinatura e do número de registro no clube de tiro, além de indicar padrão de conduta repetitivo em casos idênticos.
+[...]
+IV. DISPOSITIVO E TESE
+Recursos desprovidos.
+
+Nesta ação, alega-se, em síntese: “o uso de documento falso (art. 315 do CPM) utilizado por civil para obtenção de um documento junto ao Exército não é de competência da Justiça Militar o seu julgamento. O que se observa na prática judicante é que o paciente jamais teve o objetivo de macular ou manchar as instituições militares”. Em razão disso, requer-se a concessão da ordem “para determinar a remessa dos autos para a Justiça Federal comum”.
+É o relatório. Decido.
+
+As garantias fundamentais aos princípios do Devido Processo Legal e do Juiz Natural, diferentemente do que ocorria nos textos constitucionais anteriores, foram incorporadas ao texto da Constituição brasileira de 1988.
+A garantia do Devido Processo Legal configura dupla proteção ao indivíduo, atuando tanto no âmbito material de proteção ao direito de liberdade e propriedade quanto no âmbito formal, ao assegurar-lhe paridade total de condições com o Estado-persecutor e plenitude de defesa, visando salvaguardar a liberdade individual e impedir o arbítrio do Estado.
+A imparcialidade do Judiciário e a segurança do povo contra o arbítrio estatal encontram no Devido Processo Legal e no princípio do Juiz Natural, proclamadas nos incisos LV, XXXVII e LIII do art. 5º da Constituição Federal, suas garantias indispensáveis. Como consagrado pelo SUPREMO TRIBUNAL FEDERAL:
+
+“O princípio da naturalidade do Juízo – que traduz significativa conquista do processo penal liberal, essencialmente fundado em bases democráticas – atua como fator de limitação dos poderes persecutórios do Estado e representa importante garantia de imparcialidade dos juízes e tribunais” (STF – 1a T. – HC no 69.601/SP – Rel. Min. CELSO DE MELLO, Diário da Justiça, Seção I, 18 dez. 1992, p. 24.377).
+
+O juiz natural é somente aquele integrado no Poder Judiciário, com todas as garantias institucionais e pessoais previstas na Constituição Federal, devendo deve ser interpretado em sua plenitude, de forma a não só proibir a criação de Tribunais ou juízos de exceção, como também exigir respeito absoluto às regras objetivas de determinação de competência, para que não seja afetada a independência e a imparcialidade do órgão julgador.
+Nesse mesmo sentido, decidiu o TRIBUNAL CONSTITUCIONAL FEDERAL ALEMÃO:
+
+“O mandamento ‘ninguém será privado de seu juiz natural’, bem como ocorre com a garantia da independência dos órgãos judiciários, deve impedir intervenções de órgãos incompetentes na administração da Justiça e protege a confiança dos postulantes e da sociedade na imparcialidade e objetividade dos tribunais: a proibição dos tribunais de exceção, historicamente vinculada a isso, tem a função de atuar contra o desrespeito sutil a esse mandamento. Como esses dispositivos em sua essência concretizam o princípio do Estado de Direito no âmbito da constituição (organização) judiciária, elas já foram introduzidas na maioria das Constituições estaduais alemãs do século XIX, dando-lhes, assim, a dignidade de norma constitucional. O art. 105 da Constituição de Weimar deu prosseguimento a esse legado. À medida que os princípios do Estado de Direito e Separação de Poderes se foram aprimorando, também as prescrições relativas ao juiz natural foram sendo aperfeiçoadas. A lei de organização judiciária, os códigos de processo e os planos de distribuição das causas (definidos nas Geschäftsordnungen – regimentos internos) dos tribunais determinavam sua competência territorial e material, (o sistema de) a distribuição das causas, bem como a composição dos departamentos individualizados, câmaras e senados. Se originalmente a determinação ‘ninguém será privado de seu juiz natural’ era dirigida sobretudo para fora, principalmente contra qualquer tipo de ‘justiça de exceção’ (Kabinettsjustiz), hoje seu alcance de proteção estendeu-se também à garantia de que ninguém poderá ser privado do juiz legalmente previsto para sua causa por medidas tomadas dentro da organização judiciária” (Decisão – Urteil – do Primeiro Senado de 20 de março de 1956 – 1 BvR 479/55 – Cinquenta anos de Jurisprudência do Tribunal Constitucional Federal Alemão. Coletânea Original: Jürgem Schawabe. Organização e introdução. Leonardo Martins. Konrad Adenauer – Stiffung – Programa Estado de Derecho para Sudamérica, p. 900/901).
+
+Nos termos do art. 124, caput, da Constituição Federal, à Justiça Militar da União compete processar e julgar os crimes militares definidos em lei.
+Dessa maneira, enquanto o art. 124, da Constituição Federal de 1988, fixa a competência da Justiça Militar como uma justiça especializada para o julgamento dos crimes militares, é o Código Penal Militar que dispõe sobre os crimes militares, adotando o critério ratione lege ao delegar para o legislador a tarefa de definir os crimes militares.
+O Código Penal Militar estabelece no seu art. 9º as hipóteses de crime militar praticados em tempo de paz, enquanto o art. 10º do mesmo estatuto aponta as hipóteses nas quais serão considerados crimes militares em tempo de guerra.
+Observa-se, ainda, que o art. 9º, III, do Código Penal Militar, por sua vez, estabelece que haverá delito militar praticado por civil quando o fato ofender as instituições militares, considerando-se como tal, entre outros, o seguinte caso: “a) contra o patrimônio sob a administração militar, ou contra a ordem administrativa militar”.
+Como ensinado por nosso sempre Decano, Ministro CELSO DE MELLO (HC 106171, SEGUNDA TURMA, 1º de março de 2011):
+
+“O foro especial da Justiça Militar da União não existe para os crimes dos militares, mas, sim, para os delitos militares, tout court. E o crime militar, comissível por agente militar ou, até mesmo, por civil, só existe quando o autor procede e atua nas circunstâncias taxativamente referidas pelo art. 9º do Código Penal Militar, que prevê a possibilidade jurídica de configuração de delito castrense eventualmente praticado por civil, mesmo em tempo de paz”.
+
+Conforme tive oportunidade de registrar nos autos do Inquérito 4.923 (decisão monocrática, j. 27/2/2023) – referente a “procedimento investigatório para apuração de autoria e materialidade de eventuais crimes cometidos por integrantes das Forças Armadas e Polícias Militares relacionados aos atentados contra a Democracia que culminaram com os atos criminosos e terroristas do dia 8 de janeiro de 2023” – o Código Penal Militar não tutela a pessoa do militar, mas sim a dignidade da própria instituição das Forças Armadas – competência ad institutionem, conforme pacificamente decidido por esta SUPREMA CORTE ao definir que a Justiça Militar não julga "CRIMES DE MILITARES", mas sim "CRIMES MILITARES" (HC 118047, Rel. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 21/11/2013; HC 107146, Rel. GILMAR MENDES, Segunda Turma, DJe de 22/6/2011; HC 100230, Rel. AYRES BRITTO, Segunda Turma, DJe de 24/9/2010; CC 7120, Rel. CARLOS VELLOSO, Tribunal Pleno, DJ de 19/12/2002).
+Naquela decisão, reafirmei a competência do SUPREMO TRIBUNAL FEDERAL, pois não estava presente nenhuma das hipóteses definidoras da competência da Justiça Militar.
+Assim, da mesma maneira que “CRIMES DE MILITARES” devem ser julgados pela Justiça Comum quando não definidos em lei como crimes militares, “CRIMES MILITARES”, mesmo praticados por civis devem ser julgados pela Justiça Militar quando assim definidos pela lei e por afetarem a dignidade da instituição das Forças Armadas.
+Na presente hipótese, apura-se “o uso de declaração de filiação a entidade de tiro falsa apresentada perante o Serviço de Fiscalização de Produtos Controlados (SFPC) do Exército Brasileiro, com a finalidade de obter o Certificado de Registro (CR) de arma de fogo”, circunstância que se amolda à hipótese prevista no mencionado art. 9º, III, “a”, do CPM, “na medida em que a proteção penal destina-se aos interesses moral e organizacional da administração militar, valores esses compreendidos no conceito amplo de hierarquia e disciplina militares, que, à luz do art. 142 da Constituição da República, constituem a base institucional das Forças Armadas” (HC 124858, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 31/8/2015).
+O acórdão emanado do Superior Tribunal Militar reconheceu a competência da Justiça Militar, ao consignar que “a apresentação de declaração de filiação falsa a fim de instruir pedido de CR de arma de fogo compromete gravemente a confiabilidade dos registros de controle de armamento do país. Tal conduta expõe a risco a segurança pública e afeta diretamente a credibilidade do serviço de fiscalização militar”, atingindo, portanto, “diretamente a ordem administrativa militar e a regularidade dos serviços da Força Terrestre”.
+Realmente, essa conclusão não implica constrangimento ilegal, pressuposto para o deferimento da ordem. Isso porque, com base no regramento normativo vigente, esta CORTE SUPREMA, em casos análogos ao relatado, tem reconhecido a competência da Justiça especializada. Cite-se, a esse propósito, julgado do Pleno:
+
+[...]
+1. Paciente denunciado pela suposta prática do delito do art. 309, caput, do Código Penal Militar (corrupção ativa militar), "por ter oferecido vantagem indevida a Oficial do Exército para o fim de obter aprovação e registro de produtos produzidos por empresa de vidros blindados". 2. A prática de atos funcionais ilícitos em âmbito militar afeta diretamente a ordem administrativa militar, pois, em alguma medida compromete o bom andamento dos respectivos trabalhos e enseja a incidência da norma especial, ainda que em desfavor de civil. 3. Competência da Justiça Militar em razão de suposta ofensa às instituições militares e às suas finalidades, à luz da regra prevista no art. 9º, inciso III, alínea a, do Código Penal Militar.
+[...]
+(RHC 142608, Rel. Min. EDSON FACHIN, Redator para o Acórdão: Min. DIAS TOFFOLI, DJe de 12/4/2024)
+
+Em caso semelhante, a Primeira Turma deste STF também concluiu pela competência da Justiça especializada:
+
+COMPETÊNCIA – CRIME CONTRA A ADMINISTRAÇÃO MILITAR – PRÁTICA POR CIVIL. Compreendem-se, nos delitos militares contra a ordem administrativa militar, as infrações que atingem a organização, a existência e a finalidade das Forças Armadas. Artigo 9º, inciso III, alínea “a”, do Código Penal Militar (RHC 131317, Rel. Min. MARCO AURÉLIO, Primeira Turma, DJe de 3/2/2020).
+
+Cabe transcrever ainda, mutatis mutandis, o seguinte trecho do voto proferido pela eminente Ministra CÁRMEN LÚCIA, no julgamento do HC 187708 AgR, Segunda Turma, DJe de 31/8/2020:
+
+A atribuição subsidiária do Comando do Exército, prevista nos arts. 24 e 27 da Lei n. 10.826/2003, de autorização e fiscalização de importação de armas de uso restrito classifica-se como ato administrativo militar atípico. Essa característica não afasta a competência da Justiça Militar da União prevista no caput do art. 124 da Constituição da República e no art. 9º do Código Penal Militar.
+
+Na mesma linha de consideração: HC 240592 AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 3/6/2024; HC 113950, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 16/5/2013; HC 187708 AgR, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 31/8/2020; HC 170305 AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 3/9/2019; HC 115912, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 30/10/2014.
+Diante do exposto, com base no art. 21, § 1º, do Regimento interno do STF, INDEFIRO a ordem de HABEAS CORPUS.
+Publique-se.
+Brasília, 9 de julho de 2026.
+
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
