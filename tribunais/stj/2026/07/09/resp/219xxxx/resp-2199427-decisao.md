@@ -1,0 +1,9 @@
+DECISÃO
+A controvérsia discutida nos presentes autos foi apreciada pela Primeira Seção do Superior Tribunal de Justiça no julgamento dos Recursos Especiais 2031813/SC e 2032021/RS, submetidos ao rito dos recursos repetitivos (Tema 1251/STJ).
+Na ocasião, firmou-se a tese de que "Reconhecido judicialmente o direito à indenização por danos morais decorrentes de perseguição política sofrida durante a ditadura militar, os juros de mora devem incidir a partir do evento danoso, nos termos da Súmula 54 do STJ".
+Nesse cenário, tendo a matéria sido apreciada sob a sistemática dos recursos repetitivos, orienta esta Corte que os recursos que versem sobre questão idêntica sejam remetidos ao Tribunal de origem, a fim de que realize o juízo de conformidade (art. 34, XXIV, do RISTJ).
+Apenas após essa providência, que representa o exaurimento da instância ordinária, é que o recurso, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que, eventualmente, não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o referido tema ou pelo novo pronunciamento do Tribunal a quo.
+Ressalte-se que a Primeira Seção desta Corte Superior tem posicionamento consolidado de não ser necessário aguardar o trânsito em julgad o para a aplicação do paradigma firmado em recurso repetitivo ou com repercussão geral (AgInt no PUIL 1.494/RS, relator Ministro Herman Benjamin, DJe de 9/9/2020). Nesse mesmo sentido: REsp 2.129.237, Ministro Paulo Sérgio Domingues, DJEN de 10/12/2025.
+Pelo exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil, proceda ao juízo de conformidade com a tese firmada por esta Corte no julgamento do Tema Repetitivo 1.251.
+Publique-se. Intimem-se.
+EMENTA
