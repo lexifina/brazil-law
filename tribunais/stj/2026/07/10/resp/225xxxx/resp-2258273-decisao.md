@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 311):
+AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. PEDIDO DE RECONHECIMENTO DA ESPECIALIDADE DO TRABALHO. LEGITIMIDADE PASSIVA DO INSS. REGIME PRÓPRIO DE PREVIDÊNCIA. EXTINÇÃO.
+1. O INSS é parte legítima para discussão acerca da especialidade de atividades exercidas por servidor público municipal que era vinculado a regime próprio de previdência, posteriormente extinto.
+2. Agravo de instrumento provido.
+Os embargos de declaração opostos foram rejeitados (fl. 322).
+A parte recorrente alega violação dos arts. 1.022, inciso II, do Código de Processo Civil, por negativa de prestação jurisdicional quanto à ilegitimidade do INSS para reconhecer tempo especial prestado em Regime Próprio de Previdência Social e quanto à impossibilidade de conversão de tempo especial em comum para fins de contagem recíproca (fls. 325/326). Sustenta ofensa ao art. 17 do Código de Processo Civil, tese de ilegitimidade passiva do INSS para reconhecimento de tempo especial prestado no regime próprio, ainda que extinto (fls. 325/327). Aponta violação dos arts. 94, caput e § 1º, e 96, inciso IX, da Lei 8.213/1991, e do art. 3º, § 2º, da Lei 9.876/1999, para afirmar que a compensação financeira entre regimes pressupõe registro do tempo especial na certidão de tempo de contribuição, sem conversão, pelo regime de origem (fls. 326/327). Argumenta que há ofensa aos arts. 96, incisos I e IX, da Lei 8.213/1991, e aos arts. 201, § 9º e § 14, e 40, § 10, da Constituição Federal, por vedação à contagem de tempo fictício e, portanto, impossibilidade de conversão de tempo especial em comum para contagem recíproca (fls. 327/330).
+Não foram apresentadas contrarrazões (fl. 347).
+O recurso foi admitido (fl. 347).
+É o relatório.
+Na origem, cuida-se de ação previdenciária, visando ao reconhecimento da especialidade do trabalho no período de 28/01/1993 a 15/07/1999 para fins de contagem recíproca.
+Assiste razão à parte recorrente.
+A alegada ofensa ao art. 1.022 do Código de Processo Civil tem por base suposta omissão do acórdão recorrido sobre o dispostos nos arts. 94, caput e § 1º, e 96, inciso IX, da Lei 8.213/1991, e do art. 3º, § 2º, da Lei 9.876/1999, referente à ilegitimidade passiva do INSS, bem como o disposto no art. 96, I e IX, da Lei 8.213/91, sobre a conversão de tempo especial em comum para fins de contagem recíproca.
+No caso, o Tribunal de origem não aponta em quais os fundamentos legais amparam sua decisão, apenas afastando o disposto no art. 96, inciso I, da Lei 8.213/1991, nestes termos (fls. 308):
+Acerca da legitimidade do INSS para responder pelo pedido de reconhecimento de tempo especial em período no qual a parte autora esteve vinculada a Regime Próprio de Previdência Social, esclareça-se que, nos casos em que o segurado passa a contribuir para o RGPS sem solução de continuidade (interrupção) do vínculo laboral e no exercício das mesmas atividades que exercia sob regime diverso, a extinção do Regime Próprio de Previdência anteriormente instituído pelo ente público não pode prejudicar o direito do trabalhador de ter o cômputo diferenciado do tempo em que efetivamente laborou sob exposição a agentes nocivos, afastando-se, nessa hipótese, a incidência do art. 96, inc. I, da Lei n.º 8.213/91.
+Mesmo após ser provocado por meio de embargos de declaração (fls. 312/316), o Tribunal de origem manteve-se silente sobre o fundamento legal do julgado, configurando, assim, violação ao art. 1.022 do CPC.
+Para o Superior Tribunal de Justiça, presente algum dos vícios - omissão, contradição ou obscuridade -, e apontada a violação do art. 1.022 do CPC no recurso especial, deve ser anulado o acórdão proferido pelo Tribunal de origem ao examinar os embargos de declaração lá opostos, retornando-se os autos à origem para nova apreciação do recurso.
+A propósito, cito estes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. TRIBUTÁRIO. ICMS. OFENSA AO ART. 1.022 DO CPC/2015. OMISSÃO CONFIGURADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Configurada a omissão no acórdão prolatado pelo Tribunal a quo e preenchidos os requisitos para o reconhecimento de violação ao art. 1 .022 do CPC/2015, impõe-se o retorno dos autos à origem, a fim de que o vício seja sanado.
+II - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência.
+III - Agravo Interno improvido.
+(AgInt no REsp n. 2.237.530/MT, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 9/2/2026, DJEN de 13/2/2026.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. REPETIÇÃO DE INDÉBITO. CONTRIBUIÇÃO PREVIDENCIÁRIA. SERVIDOR PÚBLICO CEDIDO. VIOLAÇÃO AO ART. 1.022 DO CPC. OMISSÃO CONFIGURADA. AUSÊNCIA DE MANIFESTAÇÃO SOBRE TESES RELEVANTES. PRESCRIÇÃO E SUCUMBÊNCIA RECÍPROCA. ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO GENÉRICA. NULIDADE. RETORNO DOS AUTOS À ORIGEM. NECESSIDADE. AGRAVO INTERNO IMPROVIDO.
+1. Configurada a violação ao art. 1.022 do CPC quando o Tribunal de origem, mesmo após a oposição de embargos de declaração, deixa de se manifestar sobre questões essenciais ao deslinde da controvérsia, notadamente o termo inicial do prazo prescricional para a repetição de indébito tributário (art. 168, I, do CTN) e a configuração da sucumbência recíproca (art. 86 do CPC).
+2. A rejeição dos embargos de declaração com fundamentação genérica, sem o enfrentamento específico dos argumentos capazes de, em tese, infirmar a conclusão adotada, caracteriza negativa de prestação jurisdicional.
+3. Necessidade de anulação do acórdão proferido no julgamento dos embargos de declaração e de retorno dos autos à origem para novo julgamento, a fim de que as omissões apontadas sejam sanadas, sob pena de supressão de instância.
+4. Agravo interno improvido.
+(AgInt no REsp n. 2.176.632/PE, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 25/2/2026, DJEN de 3/3/2026.)
+O reconhecimento da negativa de prestação jurisdicional prejudica a análise das demais matérias suscitadas no recurso especial.
+Ante o exposto, conheço do recurso especial e a ele dou provimento para reconhecer o vício de omissão e, assim, anular o acórdão recorrido, determinando o retorno dos autos à origem para novo exame dos embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
