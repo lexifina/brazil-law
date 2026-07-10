@@ -1,0 +1,81 @@
+Decisão
+
+Habeas corpus. Condenação transitada em julgado. Sucedâneo de revisão criminal. Inadequação da via eleita. Crime contra a ordem tributária. Art. 1º, i, da lei nº 8.137/1990.  Alegada violação ao art. 384 do CPP e ao princípio da correlação entre acusação e sentença. Mera redução do alcance da imputação. Ausência de cerceamento de defesa. Pretensão de reconhecimento da ausência de dolo. Necessidade de reexame do conjunto fático-probatório. Impossibilidade. Extinção superveniente do crédito tributário. Autonomia entre as esferas penal e tributária. Inexistência de ilegalidade manifesta. Negativa de seguimento. Pedido liminar prejudicado.
+
+1. Trata-se de habeas corpus impetrado contra acórdão proferido pela Corte Especial do Superior Tribunal de Justiça nos autos dos EDcl no AgRg no RE nos EDcl no AgRg no REsp nº 2.132.517/RN (e-doc. 17).
+
+2. Consta dos autos que o paciente, na qualidade de sócio-administrador da empresa Uvifrios Distribuidora Atacadista Ltda., foi denunciado por supostamente ter omitido receitas e operações tributáveis realizadas pela pessoa jurídica, nos anos-calendário de 2007 a 2011, com o propósito de suprimir ou reduzir o pagamento de IRPJ, CSLL, PIS e COFINS, fatos que teriam ensejado a constituição de crédito tributário inicialmente apurado em aproximadamente R$ 15,7 milhões (e-doc. 4).
+
+3. Após a instrução processual, o Juízo de primeira instância  reconheceu que parte dos créditos tributários indicados na denúncia ainda não havia sido definitivamente constituída, restringindo o objeto da ação penal às irregularidades relativas aos anos-calendário de 2007 e 2008. Ao final, julgou parcialmente procedente a pretensão punitiva e condenou o paciente à pena de 3 anos e 2 meses de reclusão, no regime aberto, substituída por duas restritivas de direito, e pagamento de 71 dias-multa,  pela prática do delito previsto no art. 1º, I, da Lei nº 8.137/1990 (e-doc. 11).
+
+4. Recurso especial não foi conhecido e, em seguida, foi negado seguimento ao recurso extraordinário, por incidência dos Temas nºs 339 e 181 da repercussão geral, sobrevindo o desprovimento dos agravos regimentais e a rejeição dos subsequentes embargos de declaração. Sobreveio o trânsito em julgado da condenação em 19/6/2026 (e-docs. 15-17).
+
+5. No presente habeas corpus, a defesa sustenta, em síntese, a nulidade da condenação por violação ao art. 384 do CPP e ao princípio da correlação entre acusação e sentença. Frisa a atipicidade material superveniente em razão da extinção definitiva do crédito tributário que passou a constituir o suporte da condenação, à luz da Súmula Vinculante nº 24. Aponta a ausência de demonstração do elemento subjetivo do tipo, diante do reconhecimento administrativo da inexistência de fraude, simulação ou conluio pelo  Conselho Administrativo de Recursos Fiscais – CARF.
+
+6. Requer, liminarmente e no mérito, a desconstituição da condenação imposta ao paciente.
+
+É o relatório.  Decido.
+
+7. De início, observa-se que o presente habeas corpus foi manejado após o trânsito em julgado da condenação, ocorrido em 19/06/2026, com baixa definitiva do processo ao Tribunal Regional Federal da 5ª Região, circunstância que revela a inadequação da via eleita. Com efeito, a jurisprudência deste Supremo Tribunal Federal consolidou-se no sentido da inviabilidade de utilização do habeas corpus como sucedâneo de revisão criminal, salvo em hipóteses de manifesta ilegalidade. (RHC nº 203.506-AgR/ES, Rel. Min. Cármen Lúcia, Primeira Turma, j. 23/08/2021, p. 25/08/2021; HC nº 154.106-ED/MS, Rel. Min. Roberto Barroso, Primeira Turma, j. 29/06/2018, p. 06/08/2018; HC nº 135.239-AgR/SP, Rel. Min. Celso de Mello, Segunda Turma, j. 07/08/2018, p. 17/09/2018; e HC nº 161.656-AgR/SP, Rel. Min. Ricardo Lewandowski, Segunda Turma, j. 23/10/2018, p. 31/10/2018).
+
+8. Verificada a inadequação da via eleita, eventual concessão da ordem de ofício é providência excepcional, a ser implementada somente quando constatada flagrante ilegalidade, abuso de poder ou mesmo teratologia na decisão impugnada. Da análise das peças que instruem a impetração, no entanto, não vislumbro situação a autorizá-la.
+
+9. Com efeito, ao apreciar o agravo regimental interposto contra a decisão que não conheceu do recurso especial, o Superior Tribunal de Justiça confirmou a óptica de que as teses deduzidas pela defesa já haviam sido devidamente examinadas pelas instâncias ordinárias e que eventual acolhimento das pretensões recursais demandaria, em maior ou menor medida, o reexame do conjunto fático-probatório dos autos, providência inviável na via do recurso especial, nos termos do verbete nº 7 da Súmula daquela Corte.
+
+10. Assentou, ainda, a autonomia entre as esferas penal e tributária, afastando a alegação de extinção da punibilidade em razão da posterior prescrição do crédito tributário. Em suma, embora mantido o não conhecimento do recurso especial, o STJ examinou as teses deduzidas pela defesa e concluiu pela inexistência de ilegalidade apta a justificar a reforma do acórdão recorrido. Confira-se a ementa do julgado:
+
+“Direito Penal. Agravo regimental. Crime Tributário. Sonegação Fiscal. Autonomia das esferas penal e tributária. Recurso desprovido.
+I. Caso em exame
+ 1. Agravo regimental interposto contra decisão monocrática que não conheceu de recurso especial manejado em oposição a acórdão do Tribunal Regional Federal da 5ª Região, que condenou o agravante pela prática de crime de sonegação fiscal, previsto no art. 1º, inciso I, da Lei nº 8.137/90.
+2. O agravante foi condenado por omitir receitas e operações tributáveis realizadas pela empresa que administrava, com o propósito de suprimir ou reduzir o pagamento de tributos, resultando na constituição de crédito tributário no montante de R$ 15.798.551,32.
+3. O Tribunal de origem concluiu pela inexistência de aditamento substancial à denúncia, pela comprovação do dolo genérico na conduta do agravante e pela autonomia entre as esferas penal e tributária, afastando a tese de extinção da punibilidade em razão da prescrição do crédito tributário. II. Questão em discussão
+4. Há três questões em discussão: (i) saber se houve cerceamento de defesa em razão de suposta modificação da acusação após a instrução processual; (ii) saber se a ausência de dolo específico na conduta do agravante afasta a tipicidade do crime de sonegação fiscal; e (iii) saber se a prescrição do crédito tributário na esfera administrativa extingue a punibilidade na esfera penal.
+III. Razões de decidir
+5. A delimitação da imputação ao Processo Administrativo nº 10469.720715 /2017-95 não configurou alteração substancial da acusação, mas apenas uma redução do alcance da imputação, o que não configura cerceamento de defesa.
+6. O dolo genérico necessário à configuração do crime de sonegação fiscal foi comprovado pelas instâncias ordinárias, que destacaram a responsabilidade do agravante como gestor da empresa em fiscalizar a escrituração fiscal e evitar irregularidades.
+7. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido da autonomia entre as esferas penal e tributária, de modo que a extinção do crédito tributário por prescrição ou pagamento, após o recebimento da denúncia, não acarreta a extinção da punibilidade do crime tributário material, uma vez que a constituição definitiva do débito é suficiente para a tipificação do crime previsto no art. 1º, inciso I, da Lei n. 8.137/90.
+IV. Dispositivo e tese
+ 8. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento: 1. A redução do alcance da imputação na denúncia, sem inclusão de novos fatos, não configura cerceamento de defesa. 2. O dolo genérico é suficiente para a configuração do crime de sonegação fiscal previsto no art. 1º, inciso I, da Lei nº 8.137/90. 3. A extinção do crédito tributário por prescrição ou pagamento na esfera administrativa não extingue a punibilidade do crime tributário material na esfera penal, uma vez que a constituição definitiva do débito é suficiente para a tipificação do crime previsto no art. 1º, inciso I, da Lei n. 8.137/90” (decisão disponível para acesso público no sítio eletrônico do STJ).
+
+11. Conforme se observa, quanto à alegada violação do art. 384 do Código de Processo Penal, assentou-se expressamente que não houve alteração substancial da acusação, mas mera redução do alcance da imputação inicialmente deduzida pelo Ministério Público, circunstância que, longe de representar cerceamento de defesa, mostrou-se inclusive favorável ao acusado. Vale, no ponto, transcrever o seguinte trecho constante do acórdão de apelação:
+
+(...)
+11. É verdade que, durante a instrução criminal, veio aos autos ofício da Receita Federal dando conta (e-STJ Fl.5165) Documento recebido eletronicamente da origem 11. 12. 13. 14. 15. 16. 17. 18. de que a Representação Fiscal para Fins Penais nº 10469.731908/2012-67 está relacionada aos créditos dos processos nº 10469.731616/2012-24 e nº 10469.724147/2014-59, com a ressalva de que os créditos do Processo nº 10469.724147/2014-59 ainda não estão constituídos definitivamente, tendo em vista estarem suspensos por recurso voluntário pendente de julgamento no CARF, e de que parte dos créditos do Processo nº 10469.731616/2012-24 foi extinta (sendo tal extinção objeto de recurso especial da Fazenda Nacional, que aguarda julgamento na CSRF), sendo a outra parte constituída definitivamente em 09/08/2017 (ante o esgotamento das vias recursais) e transferida para cobrança judicial nos autos do Processo nº 10469.720715/2017-95, cuja cópia fora posteriormente anexada ao presente feito entre os ids. 4058400.8914947 e 4058400.8915147.
+12. Ciente dessa realidade, o MPF requereu, nas suas alegações finais, como explicitado, a redução do objeto da ação penal, restringindo a acusação aos créditos tributários definitivamente constituídos, vinculados ao Processo Administrativo nº 10469.720715/2017-95, resultante do desmembramento do Processo Administrativo nº 10469.731616/2012-24, que compõe desde o início os autos da RFFP nº 10469.731908/2012-67. Cumpriu-se, portanto, o que exige a Súmula Vinculante nº 24, segundo a qual " Não se tipifica crime material contra a ordem tributária, previsto no art. 1°, incisos I a IV, da Lei n° 8.137/90, antes do lançamento definitivo do tributo ". (e-doc. 12, p. 8; grifos nossos)
+
+12. Pelo que consta dos autos, o Juízo de origem, ao reconhecer que parte dos créditos tributários descritos na denúncia ainda não havia sido definitivamente constituída, rejeitou parcela da imputação relativa aos fatos referentes aos anos-calendário de 2009 a 2011, restringindo a condenação às irregularidades atinentes aos anos de 2007 e 2008, já descritas na peça acusatória e submetidas ao contraditório durante toda a instrução criminal (e-doc. 11).
+
+13. No tocante à alegada ausência de dolo, concluiu-se que as instâncias ordinárias, à luz das provas produzidas sob o crivo do contraditório, reconheceram a presença do elemento subjetivo do tipo, destacando que o paciente, na condição de sócio-administrador da empresa, detinha o dever de fiscalização sobre a escrituração fiscal e de acompanhamento da regularidade das operações tributárias realizadas pela pessoa jurídica.  Veja-se o que constou do acórdão de segundo grau:
+
+“(...)
+15. No cenário traçado nos autos, não há dúvidas acerca do comportamento doloso do recorrente, uma vez que, na condição de gestor da empresa, cabia-lhe a responsabilidade por fiscalizar a escrituração fiscal e se inteirar acerca da legalidade dos atos praticados pela assessoria contábil contratada, a fim de evitar a ocorrência de irregularidades. Se deixou de fazê-lo, assumiu, no mínimo, " o risco de incorrer em conduta típica conscientemente omissiva, quando, na verdade, tinha todos os meios para não só desconfiar da ilegalidade da omissão de informações referentes a fatos geradores de tributos como para agir em conformidade com a legislação de regência ", tal qual salientou o parecer da Procuradoria Regional da República. Daí merecer suportar a responsabilidade criminal pelo fato” (e-doc. 12, p. 8; grifos nossos).
+
+14. Dessa forma, alcançar conclusão diversa quanto à suposta alteração substancial da acusação ou quanto à ausência de demonstração do elemento subjetivo do tipo — inclusive para considerar eventual conclusão de pronunciamento administrativo do CARF — demandaria, inequivocamente, incursão sobre o conjunto fático-probatório produzido na ação penal, providência incompatível não apenas com o recurso especial, conforme reconhecido pelo Superior Tribunal de Justiça, mas também com a estreita via do habeas corpus. Veja-se, nesse sentido:
+
+“PENAL E PROCESSUAL PENAL. HABEAS CORPUS. CRIME CONTRA A ORDEM TRIBUTÁRIA. ANÁLISE DA EXISTÊNCIA DE DOLO NA CONDUTA DO AGENTE. NECESSIDADE DO REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NA VIA DO HABEAS CORPUS. ORDEM DENEGADA.
+1. O dolo na conduta imputada ao agente demanda o revolvimento do conjunto fático-probatório, inviável na via do habeas corpus. Precedentes: HC 118.912-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJE de 12.02.14; RHC 117.074, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 24.10.13; HC 115.432-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 27.06.13; HC 112.465, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 18.02.13; RHC 103.354, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 09.08.11; HC 102.745, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 03.03.11.
+2. In casu, a paciente foi condenada a 2 (dois) anos e 11 (onze) meses de reclusão, em regime aberto, pela prática do crime previsto no artigo 1º, inciso I, da Lei 8.137/90, tendo a Corte Regional, em sede de apelação, assentado que “se os agentes omitiram informação ou prestaram declaração falsa às autoridades fazendárias, reduzindo ou suprimindo, com isso, tributo e qualquer acessório, perfectibilizado estará o tipo penal. Na espécie, o dolo exigido no artigo 1º, I e II da Lei nº 8.137/90 ficou configurado por ter o réu realizado conscientemente fraudes e mal formações na escrita fiscal, demonstrando agir para a proposital sonegação de tributos”.
+3. Ordem denegada.”
+(HC nº 122.310/PR, Rel. Min. Luiz Fux, Primeira Turma, j. 10/06/2014, p. 01/07/2014; grifos nossos)
+
+15. A hipótese, portanto, não revela quadro de manifesta teratologia ou ilegalidade evidente, mas mero inconformismo da defesa com as conclusões alcançadas pelas instâncias ordinárias acerca dos fatos e das provas produzidas nos autos, circunstância insuficiente para autorizar a concessão da ordem de ofício.
+
+ 16. Por fim, relativamente à repercussão da prescrição do crédito tributário na esfera penal, a Corte Superior apenas reafirmou sua jurisprudência consolidada no sentido da autonomia entre as instâncias tributária e criminal, segundo a qual a extinção do crédito tributário, por prescrição ou pagamento, após o recebimento da denúncia, não acarreta a extinção da punibilidade do crime tributário material.
+
+17. O entendimento adotado pelo STJ encontra respaldo na jurisprudência consolidada desta Corte. Nesse sentido, cito os seguintes precedente:
+
+“ (...) Nessa linha intelectiva, insta sublinhar que, ante a autonomia e independência entre as esferas cível, penal e administrativa, a posterior declaração de prescrição do crédito tributário em ação anulatória não impede o regular prosseguimento da ação penal pelos delitos previstos no artigo 1º da Lei nº 8.137/90, desde que esta tenha sido validamente instaurada após a constituição definitiva do referido crédito, como se verifica na hipótese em exame.”
+(HC nº 257.683/ES, Rel. Min. Nunes Marques, j. 12/08/2025, p. 22/08/2025)
+
+“Definitivamente constituído o débito tributário correlato ao crime fiscal e sendo a dívida daquelas que legalmente tem a Fazenda interesse em executar, a posterior prescrição civil reconhecida em Juízo, no que seja fundamento a extinção da execução fiscal em curso, não elide a justa causa à persecução penal.”
+(HC nº 205.016/PR, Rel. Min. Dias Toffoli, j. 28/02/2022, p. 02/03/2022)
+
+18. Ante o exposto, nego seguimento ao habeas corpus, com fundamento no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+
+Publique-se.
+
+Brasília, 10 de julho de 2026.
+
+Ministro ANDRÉ MENDONÇA
+Relator
