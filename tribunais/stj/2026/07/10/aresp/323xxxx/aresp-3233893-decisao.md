@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por VALTEIR RABELO contra acordão que julgou questão relativa à contratação de cartão de crédito consignado com reserva de margem consignável em proventos de aposentadoria.
+No recurso especial, a parte recorrente pede a reforma do acórdão hostilizado exclusivamente quanto ao pedido de condenação da parte recorrida ao pagamento de indenização por danos morais, sob o fundamento de alegada violação ao art. 14 do Código de Defesa do Consumidor.
+A controvérsia objeto do recurso especial está submetida a julgamento no rito dos recursos repetitivos pela Segunda Seção, afetado ao Tema n. 1.414/STJ:
+Delimitação da controvérsia nos seguintes termos:
+I) Definir parâmetros objetivos para a aferição da validade e eventual caráter abusivo dos contratos de cartão de crédito consignado, considerando: (i) o dever de prestar informações suficientes, claras e adequadas ao consumidor, em especial quando este alega que pretendia contratar simples empréstimo consignado; e (ii) o prolongamento indeterminado da dívida, ante a aparente insuficiência dos descontos mensais para amortizá-la, frente aos juros rotativos aplicados no refinanciamento do saldo.
+II) Em caso de invalidação do contrato, aferir se a consequência a ser adotada deverá ser a restituição das partes ao estado anterior, a conversão do contrato em empréstimo consignado ou a revisão das cláusulas contratuais, bem como se haverá configuração de dano moral in re ipsa.
+Tendo em vista que o presente agravo em recurso especial enquadra-se no tema acima descrito, em observância ao princípio da economia processual e à finalidade dos precedentes vinculantes, é imperioso determinar o retorno dos autos à origem, onde devem ficar sobrestados até a publicação do acórdão a ser proferido nos autos dos recursos representativos da controvérsia.
+Ante o exposto, determino que o feito seja devolvido e sobrestado no Tribunal de origem, para que se aguarde o julgamento Tema n. 1.414 , de modo que, após sua publicação, em observância ao art. 1.040 do CPC: a) seja negado seguimento ao recurso, se a decisão recorrida coincidir com a orientação emanada pela Corte de Justiça; ou b) proceda-se ao juízo de retratação, na hipótese de o acórdão vergastado divergir da decisão sobre o tema posto no rito dos recursos repetitivos.
+Publique-se. Intimem-se.
+ EMENTA
