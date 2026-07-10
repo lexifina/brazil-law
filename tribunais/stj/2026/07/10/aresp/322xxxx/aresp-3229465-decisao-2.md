@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo interposto por JOSÉ SEVERINO DA SILVA e VANESSA ANDELINA DE SOUZA ZUCHI SILVA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o recurso especial foi interposto, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fls. 1.180-1.181):
+APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL C.C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. Sentença de parcial procedência para condenar a ré ao pagamento de indenização por danos morais no importe de R$ 10.000,00. INSURGÊNCIA DE AMBAS AS PARTES. Preliminares. Impugnação à gratuidade de justiça, em contrarrazões. Rejeição. Benefício deferido por esta Câmara. Ausente demonstração concreta de alteração na situação financeira dos autores. Alegação de carência de ação e decadência. Não acolhimento. A pretensão está sujeita ao prazo prescricional decenal previsto no art. 205 do Código Civil, nos termos da jurisprudência consolidada do Superior Tribunal de Justiça (REsp 1.721.694/SP). Inexistência de decadência. Dano moral configurado. Laudo pericial produzido nos autos atestando a presença de vícios construtivos que superaram o mero aborrecimento. Valor da indenização, arbitrado em R$ 10.000,00, que se revela proporcional e razoável, não havendo motivo para sua modificação. Precedentes. Sentença preservada. NEGADO PROVIMENTO AOS RECURSOS. (v. 48355).
+Sem embargos de declaração.
+No recurso especial, os recorrentes apontam violação do art. 944 do Código Civil, pois sustentam que a indenização por dano moral deve observar o princípio da reparação integral e medir-se pela extensão do dano, considerando a gravidade dos vícios construtivos crônicos e ativos, o comprometimento da salubridade e segurança do imóvel, o acidente sofrido pelo recorrente José Severino, e a função pedagógica da condenação.
+Afirma que o valor de R$ 10.000,00 é irrisório e desconectado da extensão do dano, devendo ser majorado à luz da proporcionalidade e razoabilidade, sem óbice da Súmula n. 7/STJ em hipóteses excepcionais.
+Foram oferecidas contrarrazões (fls. 1.227-1.235).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 1.239-1.240), o que ensejou a interposição do presente agravo.
+Foi apresentada contraminuta do agravo (fls. 1.258-1.262).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O cerne da controvérsia cinge-se à definição da adequação do quantum indenizatório por danos morais fixado em R$ 10.000,00, decorrentes de vícios construtivos em imóvel residencial, e à pretensão de sua majoração para R$ 50.000,00, à luz do art. 944 do Código Civil.
+Sobre o tema, o Tribunal de origem consignou o seguinte (fls. 1.187-1.192):
+O critério de arbitramento da indenização deve atender aos princípios da proporcionalidade e razoabilidade, tendo em vista que, por um lado, a indenização destina-se a compensar o abalo moral decorrente do ato ilícito, por outro não pode servir de fonte de enriquecimento indevido.
+ ..
+No caso concreto, levando-se em consideração a extensão do dano e a reprovabilidade da conduta, bem como em observância à função pedagógica da responsabilidade civil, conclui-se que a indenização fixada pela r. sentença de R$ 10.000,00 é adequada para evitar a reiteração dos presentes fatos e ressarcir a parte autora pelos transtornos amargados, sendo a adoção de tal parâmetro adequado à reparação do abalo sofrido sem que, para tanto, se prestigie o enriquecimento ilícito de quaisquer das partes  ..
+Assim, alterar as conclusões do acórdão recorrido quanto ao quantum indenizatório a título de danos morais demandaria, necessariamente, o reexame do acervo fático-probatório dos autos, providência inviável na via do recurso especial, em razão do óbice da Súmula n. 7 do STJ.
+No mesmo sentido, confiram-se os precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DANO MORAL. OCORRÊNCIA. QUANTUM. REVISÃO. IMPOSSIBILIDADE. REFORMA DO ACÓRDÃO QUE DEMANDA REEXAME DE PROVAS E DE CLÁUSULAS CONTRATUAIS. ÓBICE DAS SÚMULAS N. 5 E 7/STJ. AGRAVO IMPROVIDO.
+1. O Tribunal de origem, com base nas premissas fáticas e probatórias dos autos, atestou a ocorrência de dano moral e o dever de indenizar em razão do vícios construtivos e do atraso na entrega do imóvel.
+2. A compensação por dano moral em hipóteses de vícios construtivos é admitida quando demonstrada ofensa concreta a direitos da personalidade. No caso, o acórdão recorrido reconheceu que os vícios ocasionaram frustração e angústia aos adquirentes, circunstâncias que justificam a condenação.
+3. Modificar o entendimento do Tribunal local demandaria reexame de matéria fático-probatória e de cláusulas contratuais, o que é inviável no âmbito do recurso especial, nos termos das Súmulas n. 5 e 7/STJ.
+4. O valor arbitrado a título de indenização por danos morais não se mostra irrisório nem exorbitante, afastando-se a possibilidade de revisão em recurso especial (Súmula 7/STJ). Precedentes.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.951.220/RJ, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/2/2026, DJEN de 12/2/2026.)
+DIREITO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. VÍCIOS CONSTRUTIVOS. OCORRÊNCIA. APURAÇÃO EM PERÍCIA E PROVAS. DEVER DE INDENIZAR. IMPOSSIBILIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO E DAS CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. REVISÃO DO QUANTUM INDENIZATÓRIO A TÍTULO DE DANOS MORAIS. VALOR NÃO EXORBITANTE. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E DESPROVIDO.
+1. Na hipótese, o Tribunal a quo, após o exame acurado dos autos, das provas, da natureza da avença e da interpretação das cláusulas contratuais, concluiu que: a) conforme laudo pericial, ficou demonstrado que o tubo extravasor de escoamento instalado pela parte recorrente não é suficiente; b) independentemente de falha da Administração Pública, a inundação ocorrida em 2020 configurou defeito no projeto realizado pela parte recorrente; c) há vídeos que demonstram os efeitos da inundação e a falha do serviço; d) houve dano extrapatrimonial aos recorridos.
+2. A modificação da conclusão do Tribunal de origem sobre esses fatos demandaria o revolvimento do suporte fático-probatório dos autos, além da necessidade de interpretação de cláusulas contratuais, o que é inviável em sede de recurso especial, a teor do que dispõem as Súmulas 5 e 7/STJ.
+3. Quanto à pretensão de reduzir o valor da indenização a título de danos morais, a jurisprudência desta Corte assevera que o montante indenizatório arbitrado na instância ordinária pode ser revisto nesta instância extraordinária somente nos casos em que o valor for ínfimo ou exorbitante. Na hipótese, verifica-se que o quantum de R$ 10.000,00 fixado pelos danos morais não se afigura exorbitante.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e desprovido.
+(AREsp n. 3.085.998/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 1/6/2026, DJEN de 9/6/2026.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários, visto que já foram fixados na origem no patamar máximo de 20% (fl. 1.196).
+Publique-se. Intimem-se.
+EMENTA
