@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial interposto por PARNAIBA 296 EMPREENDIMENTOS IMOBILIARIOS SPE LTDA, com fundamento na alínea a do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo, proferido com a seguinte ementa (fl. 899):
+APELAÇÕES. COMPROMISSO DE COMPRA E VENDA. Atraso na entrega da obra por culpa das compromissarias vendedoras. Preliminar de ilegitimidade passiva rejeitada. Relação que está sujeita ao Código de Defesa do Consumidor. Atraso na entrega do lote que não pode ser atribuída à postura do Poder Público, ou à pandemia da Covid- 19, conforme entendimento deste E. Tribunal de Justiça, consolidado em sua Súmula nº 161. Compromissários compradores que não podem ser responsabilizados pelo pagamento do IPTU e demais tributos porque não houve imissão na posse. Indenização a título de lucros cessantes que comporta parcial modificação, quanto ao prazo inicial e aos juros moratórios. Sentença, em parte, modificada. RECURSO DO REQUERIDO PARNAÍBA 296 EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA PARCIALMENTE PROVIDO E RECURSO DO REQUERIDO CAMPO ALTO AGRO-PASTORIL E PARTICIPAÇÕES LTDA NÃO PROVIDO.
+Inconformada, a recorrente alega violação dos arts. 186, 320, 393, 403, 434, 435 e 884 do Código Civil, defendendo que não houve inadimplemento contratual, pois a alteração do cronograma de entrega decorreu de caso fortuito e força maior, especialmente em razão da pandemia de COVID-19 e de entraves burocráticos das concessionárias (Sabesp e Enel) e da Prefeitura, o que configura excludente de responsabilidade.
+Sustenta, ainda, que não foram devidamente comprovadas as despesas condominiais e de IPTU, além do efetivo dano por lucros cessantes.
+Não foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+Não merece reforma o acórdão recorrido.
+1. Relativamente às alegações de excludente de responsabilidade por caso fortuito e força maior, a Corte de origem entendeu que o atraso na entrega do loteamento não pode ser atribuível às exigências administrativas, ao Poder Público ou à pandemia de COVID-19, destacando que a construção fora considerada serviço público essencial pela legislação local, afastando a necessidade de paralização dos serviços destinados à conclusão da obra. Verbis:
+Por outro lado, as rés não negam o atraso na entrega do loteamento, mas a atribuem à postura do Poder Público, à pandemia da Covid-19 e a exigências administrativas, argumentos que não a socorrem, em razão de pacífico entendimento deste E. Tribunal de Justiça, consolidado em sua Súmula nº 161. Vide:
+"Não constitui hipótese de caso fortuito ou de força maior, a ocorrência de chuvas em excesso, falta de mão de obra, aquecimento do mercado, embargo do empreendimento ou, ainda, entraves administrativos. Essas justificativas encerram "res inter alios acta" em relação ao compromissário adquirente."
+Ademais, aludida pandemia não pode ser considerada para fins de inadimplemento, porque a construção fora considerada serviço público essencial, consoante disposto pelo artigo 2º , § 1º do Decreto Estadual nº 64.881/20 e artigo 3º, § 1º, inciso LIV, do Decreto nº 10.282/20. Nesse sentido:
+ ..  (fls. 902/903).
+Nessas condições, a reversão do julgado, na forma pretendida, de modo a reconhecer eventual excludente de responsabilidade, demandaria necessariamente o reexame do conteúdo fático-probatório dos autos, medida vedada na via do recurso especial, atraindo o óbice da Súmula nº 7 do STJ.
+A propósito, colhem-se precedentes recentes da Quarta Turma desta Corte, proferidos em circunstâncias semelhantes às dos presentes autos:
+PROCESSUAL CIVIL E CIVIL. AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. CASO FORTUITO OU FORÇA MAIOR. PANDEMIA (COVID-19). NÃO CONFIGURAÇÃO. COMISSÃO DE CORRETAGEM. RESTITUIÇÃO INTEGRAL. CULPA DA VENDEDORA. SÚMULA 83/STJ. CORREÇÃO MONETÁRIA. IGP-M. LEGALIDADE. CUMULAÇÃO DE MULTAS MORATÓRIA E COMPENSATÓRIA. POSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. A jurisprudência deste Superior Tribunal de Justiça orienta que, nos casos em que a vendedora dá causa à resolução do contrato de compra e venda, a restituição das parcelas pagas deve ocorrer de forma integral, incluindo-se a comissão de corretagem.
+2. Na hipótese, o acórdão estadual determinou a devolução de todos os valores pagos em razão da culpa exclusiva da vendedora pelo inadimplemento contratual, inclusive o valor pago a título de comissão de corretagem. Incide, quanto ao ponto, o óbice da Súmula 83 do STJ.
+3. Sobre a excludente de responsabilidade, o Tribunal de origem concluiu que o atraso na entrega do imóvel não decorreu de força maior ou caso fortuito oriundo da pandemia, visto que o contrato foi firmado em agosto de 2020, quando o cenário pandêmico já era notório, e o setor da construção civil não paralisou integralmente.
+ .. .
+5. A revaloração das premissas fáticas e a interpretação das cláusulas contratuais que levaram o Tribunal de origem a chegar às conclusões acima narradas atrai os óbices das Súmulas 5 e 7 do STJ.
+6. Agravo conhecido para negar provimento ao recurso especial.
+(AREsp n. 2.973.133/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 9/3/2026, DJEN de 16/3/2026.)
+DIREITO CIVIL E PROCESSUAL CIVIL. RECURSOS ESPECIAIS. ATRASO NA ENTREGA DE IMÓVEL. ALEGAÇÃO DE FORÇA MAIOR. RESPONSABILIDADE SOLIDÁRIA. RECURSO DESPROVIDO.
+1. A revisão da conclusão das instâncias ordinárias no sentido de que o atraso na entrega do imóvel não pode ser justificado pela pandemia da Covid-19 ou por atos do Poder Público, pois a construção civil foi considerada atividade essencial e o prazo contratual expirou antes do início da pandemia, importaria vedada reapreciação do acervo fático-probatório.
+2. A revisão da conclusão das instâncias ordinárias no sentido de que a recorrente foi corretamente incluída no polo passivo, pois celebrou contrato de parceria para execução de obras e figurou como sócia no empreendimento, demandaria o reexame de provas e a interpretação de cláusulas contratuais, o que é vedado em sede de recurso especial, conforme as Súmulas 5 e 7 do STJ.
+3. A responsabilidade pelo pagamento do IPTU não pode ser transferida aos consumidores, pois não houve imissão na posse do imóvel, conclusão cuja revisão demandaria o reexame de provas, o que é vedado em sede de recurso especial, conforme a Súmula 7 do STJ.
+4. Recursos especiais desprovidos.
+(AREsp n. 2.854.170/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/11/2025, DJEN de 25/11/2025.)
+2. Relativamente às despesas condominiais e de IPTU, carece a parte recorrente de interesse recursal, na medida em que o Tribunal de origem, quanto ao ponto, reconheceu a necessidade de restituição, sem estabelecer condenação precisa nesta etapa, limitando-se a afirmar que eventuais déb itos devem ser apurados em liquidação de sentença. Segue trecho do acórdão (fl. 904):
+Inadimplida, pois, a obrigação, de rigor a devolução dos pagamentos realizados a título de IPTU e demais encargos, a serem apurados em cumprimento de sentença, na consideração de que os autores não puderam ser imitidos na posse do bem em decorrência da não conclusão da obra, tal como já decidiu o C. STJ:
+ .. .
+Assim, não há falar em falta d e demonstração dos pagamentos nesta seara, vez que não se adentrou à questão da comprovação e liquidação dos débitos.
+3. Por fim, acerca dos lucros cessantes, o acórdão recorrido se limitou a apreciar a questão atinente ao termo inicial e final do seu cômputo, não adentrando ao exame da efetiva comprovação da sua existência. É o que se observa do trecho a seguir (fl. 906):
+Relativamente à indenização por lucros cessantes, ao contrário do que decidido, essa deve incidir após o prazo estipulado para entrega da obra, no caso, 16/4/20, até a expedição do TVO. Isso não significa que a r. sentença é propriamente ultra petita, na consideração de que o direito é reconhecido, devendo ser reformada apenas quanto ao termo inicial, conforme destacado.
+Nesse contexto, carece o recurso especial de prequestionamento quanto ao ponto, diante da falta de manifestação do Tribunal de origem acerca do tema e de oportuna oposição de embargos de declaração na origem. Incide, na espécie, o óbice da Súmula nº 282 do STF.
+Nesse sentido:
+PROCESSUAL CIVIL E DIREITO MARCÁRIO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ABSTENÇÃO DE USO DE DIREITOS AUTORAIS/MARCA C/C PERDAS E DANOS. LUCROS CESSANTES. FALTA DE PREQUESTIONAMENTO (SÚMULA 282/STF). DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO (ART. 1.029, § 1º, DO CPC; ART. 255, § 1º, DO RISTJ). DANOS MORAIS IN RE IPSA. MAJORAÇÃO. ÓBICE DA SÚMULA 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Agravo em recurso especial contra decisão que inadmitiu apelo nobre em ação de contrafação de marca, com pedidos de lucros cessantes e compensação por dano moral, fixada em R$ 5.000,00 (cinco mil reais).
+2. A ausência de pronunciamento específico do tribunal sobre os dispositivos legais invocados impede o exame das teses no recurso especial, incidindo, por analogia, a Súmula 282/STF.
+3. O dissídio jurisprudencial exige cotejo analítico e similitude fática estrita, não atendida quando se pretende rediscutir o valor dos danos morais.
+4. A majoração do valor fixado a título de danos morais somente é possível em hipóteses excepcionais de irrisoriedade ou exorbitância evidentes; ausentes tais extremos, incide o óbice da Súmula 7/STJ.
+5. Agravo conhecido para não conhecer do recurso especial.
+(AREsp n. 3.129.959/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 22/6/2026, DJEN de 29/6/2026.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. LUCROS CESSANTES. SÚMULAS 5 E 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal a quo, amparado nas provas carreadas aos autos, entendeu devida a condenação do agravante ao pagamento de lucros cessantes, em razão de não ter observado o prazo de aviso prévio estipulado contratualmente. A reforma desse entendimento demandaria a interpretação de cláusulas contratuais e o reexame das provas, providência inviável em recurso especial, nos termos das Súmulas 5 e 7 deste Pretório.
+2. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidência das Súmulas 282 e 356 do Supremo Tribunal Federal.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.380.433/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/6/2026, DJEN de 12/6/2026.)
+4. Diante do exposto, com fulcro no artigo 932 do CPC c/c a Súmula nº 568 do STJ, não conh eço do recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
