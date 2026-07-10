@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo interposto por ENZO MARQUES CALANDRA contra decisão que obstou a subida de recurso especial.
+A parte agravante interpôs recurso especial, com fundamento no art. 105, III, "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 793):
+EMENTA: DIREITO CIVIL. APELAÇÃO. REPACTUAÇÃO DE DÍVIDAS. IMPROCEDÊNCIA.
+I. Caso em Exame
+1. Autor busca repactuação de dívidas com base na Lei nº 14.181/2021, alegando superendividamento e comprometimento de 149,18% de sua renda com empréstimos. Sentença de primeiro grau julgou extinto o feito sem resolução do mérito quanto ao pedido de repactuação e parcialmente procedente em relação ao Banco do Brasil para cessação de descontos em conta.
+II. Questão em Discussão
+2. A questão em discussão consiste em analisar (i) se há superendividamento que justifique a repactuação de dívidas e (ii) a validade da cessação de descontos em conta corrente pelo Banco do Brasil. III. Razões de Decidir
+3. Não se verifica comprometimento do mínimo existencial, conforme Decretos nº 11.150/2022 e 11.567/2023, que estabelecem o mínimo existencial em R$600,00.
+4. A Lei nº 14.181/2021 prevê repactuação apenas em audiência conciliatória ou mediante plano judicial compulsório, não atendidos os requisitos financeiros mínimos pelo autor.
+IV. Dispositivo e Tese
+5. Recurso do autor parcialmente provido para anular a sentença na parte que extinguiu o pedido de repactuação sem resolução do mérito, julgando-o improcedente. Recurso do Banco do Brasil desprovido.
+Tese de julgamento: 1. Não há superendividamento quando o mínimo existencial não é comprometido. 2. Descontos em conta corrente são válidos se autorizados pelo mutuário.
+Rejeitados os embargos de declaração opostos (fls. 818-824).
+No recurso especial, alega, em síntese, que o valor de R$ 600,00 (seiscentos reais) não pode ser utilizado como fator limitante à identificação do mínimo existencial.
+Aponta divergência jurisprudencial com arestos de outros tribunais e desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 1.015-1.018 e 1.020-1.026).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1.027-1.028), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 1.043-1.047 e 1.049-1.056).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O apelo nobre não comporta conhecimento, visto que, interposto apenas pela alínea "c" do permissivo constitucional, deixou a recorrente de: i) apontar qual artigo de lei que teria sido dado interpretação divergente; e ii) não promoveu o devido cotejamento analítico, limitando-se a promover a citação de ementas de julgados que entendem acolher sua tese recursal.
+Ness e sentido:
+IV - Para a caracterização da divergência, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a indicação de dispositivo legal supostamente violado, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso. Nesse sentido: AgInt no AREsp 1.235.867/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/5/2018, DJe 24/5/2018; AgInt no AREsp 1.109.608/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/3/2018, DJe 19/3/2018; REsp 1.717.512/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/4/2018, DJe 23/5/2018.
+ ..  (AgInt no AREsp n. 1.916.463/PE, relator Ministro Francisco Falcão, Segunda Turma, DJe de 11/11/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. MERA TRANSCRIÇÃO DAS EMENTAS DOS ACÓRDÃOS PARADIGMAS. FALTA DE INDICAÇÃO DO DISPOSITIVO COM INTERPRETAÇÃO DIVERGENTE. INTIMAÇÃO DOS RECORRENTES PARA COMPLEMENTAÇÃO DAS RAZÕES DO RECURSO ESPECIAL. ART. 932, PARÁGRAFO ÚNICO, DO CPC/2015. INVIABILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. No que tange à interposição do recurso especial pela alínea "c" do permissivo constitucional, convém ressaltar que o recorrente deve cumprir o disposto no art. 1029, § 1º, do CPC/2015, e no art. 255, § 1º, do RISTJ. Assim, considera-se inviável a apreciação de recurso especial fundado em divergência jurisprudencial, quando o recorrente não demonstrar o suposto dissídio pretoriano por meio: (a) da juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração pelo advogado da autenticidade dessas; (b) da citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado; (c) do cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, além da demonstração das circunstâncias que identificam ou assemelham os casos confrontados, não bastando, para tanto, a mera transcrição da ementa e de trechos do voto condutor do acórdão paradigma; (d) a indicação dos dispositivos de lei federal com interpretação divergente entre os Tribunais.
+2. No presente caso, os recorrentes não indicaram, precisamente, quais seriam os julgados paradigmas, limitando-se a transcreverem ementas de vários julgados proferidos por esta Corte Superior e também pelo TRF1 e pelo TRF4. Assim, deixaram de realizar o devido cotejo analítico entre o acórdão recorrido e os julgados mencionados, mediante a transcrição de trechos do relatório e do voto dos acórdãos confrontados.
+3. Ademais, os recorrentes não indicaram, de forma clara e específica, qual teria sido o dispositivo legal com interpretação divergente entre os Tribunais, o que também impede o conhecimento do recurso pela divergência.
+4. O art. 932, parágrafo único, do CPC/2015 permite apenas o suprimento de vício formal sanável, como ausência de procuração ou assinatura, mas não a complementação das razões do recurso interposto.
+5. Agravo interno não provido. (AgInt no REsp n. 1.975.392/MA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 30/6/2022.)
+4. Cumpre ressaltar que, mesmo que o apelo nobre seja interposto exclusivamente pela divergência jurisprudencial, deve a parte recorrente apontar de maneira clara e precisa que artigo de lei federal foi, no seu entender, interpretado de forma equívoca pela Corte de origem, o que não ocorreu na espécie. (AgInt no AREsp n. 1.727.341/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1/7/2021.)
+5. A apreciação do recurso excepcional pela alínea c do permissivo constitucional exige que o recorrente mencione os artigos de lei considerados violados pela divergência jurisprudencial, sob pena de aplicação da Súmula 284/STF. (AgInt no AREsp n. 1.634.989/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 28/5/2020.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor atualizado causa.
+Publique-se. Intime-se.
+ EMENTA
