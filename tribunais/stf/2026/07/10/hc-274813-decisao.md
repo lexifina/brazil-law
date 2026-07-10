@@ -1,0 +1,36 @@
+Decisão
+
+Trata-se de Habeas Corpus, com pedido de liminar, impetrado contra decisão proferida pelo Ministro SEBASTIÃO REIS JÚNIOR, do Superior Tribunal de Justiça, no Agravo em Recurso Especial 3.020.468/SC.
+Consta dos autos que a paciente foi condenada à pena de 5 anos de reclusão, em regime semiaberto, pela prática do crime de estelionato (art. 171 do Código Penal).
+O Tribunal de Justiça do Estado de Santa Catarina negou provimento ao apelo defensivo, em acórdão assim ementado:
+
+APELAÇÃO CRIMINAL. CONTRAVENÇÃO PENAL DE EXERCÍCIO ILEGAL DA PROFISSÃO (ART. 47 DO DECRETO-LEI N.º 3.688/41) EM CONCURSO MATERIAL COM O CRIME DE ESTELIONATO (ART. 171, CAPUT, E § 4º, DO CÓDIGO PENAL). MÚLTIPLOS FATOS. VÍTIMAS DIVERSAS. SENTENÇA CONDENATÓRIA. RECURSO DE AMBAS AS PARTES.
+PLEITO DE ABSOLVIÇÃO DAS CONDENAÇÕES. IMPOSSIBILIDADE. PRÁTICA DO EXERCÍCIO ILEGAL DA ADVOCACIA E DO CRIME DE ESTELIONATO DEVIDAMENTE COMPROVADAS. INÚMEROS DEPOIMENTOS DE TESTEMUNHAS E VÍTIMAS, ALIADOS A PROVAS DOCUMENTAIS E ORAIS ROBUSTAS. ACUSADO QUE SE PASSAVA POR ADVOGADO PARA PRATICAR FRAUDES, VISANDO À CAPTAÇÃO DE RECURSOS FINANCEIROS DAS VÍTIMAS. CONDENAÇÃO DA CORRÉ QUE, COM CIÊNCIA DA ILICITUDE, AUXILIOU NA PRÁTICA DOS DELITOS, APRESENTANDO O COMPANHEIRO COMO ADVOGADO E DISPONIBILIZANDO SUA CONTA BANCÁRIA PARA RECEBER OS DEPÓSITOS DAS VÍTIMAS. ALEGAÇÃO DE DESCONHECIMENTO QUE NÃO SE SUSTENTA DIANTE DAS PROVAS. UNIDADE DE DESÍGNIOS CONFIGURADA.
+DOSIMETRIA. PENA EXASPERADA COM FUNDAMENTAÇÃO IDÔNEA, EM RAZÃO DA MULTIPLICIDADE DE VETORES NEGATIVOS NA PRIMEIRA FASE DA DOSIMETRIA. IMPOSSIBILIDADE DE REDUÇÃO.
+PLEITO DE EXCLUSÃO DA REPARAÇÃO DOS DANOS. INVIABILIDADE. PEDIDO FORMULADO EXPRESSAMENTE NA DENÚNCIA E ENQUADRADO COMO EFEITO GENÉRICO DA CONDENAÇÃO, NOS TERMOS DO ART. 91, INC. I, DO CÓDIGO PENAL.
+RECURSOS DEFENSIVOS CONHECIDOS E DESPROVIDOS.
+
+A defesa, então, interpôs Recurso Especial, que, inadmitido na origem, ascendeu ao Superior Tribunal de Justiça por meio de Agravo, conhecido pelo Ministro relator para negar provimento ao apelo defensivo, em decisão assim fundamentada:
+
+Todavia, o recurso especial não comporta provimento.
+Este Tribunal Superior tem o entendimento consolidado no sentido de que a dosimetria da pena é passível de revisão, nesta instância extraordinária, apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de reexame do acervo fático-probatório dos autos (AgRg no REsp n. 1.977.921/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJe de 2/10/2023) .
+No caso dos autos, a elevação da pena-base fundou-se na análise desfavorável da culpabilidade e circunstâncias do delito, em razão de aspectos concretos que extrapolaram a normalidade inerente a cada um dos vetores em questão.
+Quanto à culpabilidade, o acórdão de origem destacou que o comportamento da ré demonstra um desrespeito significativo às normas jurídicas porque conforme relatado pelas testemunhas, Sandra apresentava seu marido como advogado, além de representar um risco à integridade do sistema judiciário. A ação de se passar por advogado não apenas compromete a confiança pública na justiça, mas também pode resultar em danos concretos aos interesses dos envolvidos, sejam clientes, advogados legítimos ou a própria administração da justiça (fl. 2.486).
+Relativamente às circunstâncias do crime, o acórdão destacou que as vítimas foram pessoas que estavam em situação de fragilidade, vez que perderam o pai pouco tempo antes dos fatos e confiavam na ré, buscando auxílio para a solução da questão, momento que Sandra indicou seu marido como advogado (fl. 2.487).
+Sendo assim, a valoração negativa dos vetores em questão encontrou fundamentos orientados pelas circunstâncias concretas do fato, justificando a exasperação no patamar escolhido.
+
+Nesta ação, o impetrante requer a concessão da ordem “para reconhecer a ilegalidade na dosimetria da pena imposta à paciente; como consequência, seja redimensionada a pena-base para patamar proporcional, preferencialmente em 01 (um) ano e 04 (quatro) meses de reclusão, e seja fixado o regime inicial aberto, nos termos do art. 33, § 2º, alínea c, do Código Penal e reavaliada a possibilidade de substituição da pena privativa de liberdade por restritivas de direitos, nos termos do art. 44 do Código Penal”.
+É o relatório. Decido.
+
+No presente caso, incide óbice ao conhecimento da ordem impetrada neste SUPREMO TRIBUNAL FEDERAL, uma vez que se impugna decisão monocrática de Ministro do Superior Tribunal de Justiça (HC 151.344-AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 21/3/2018; HC 122.718/SP, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 3/9/2014; HC 121.684-AgR/SP, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 16/5/2014; HC 138.687-AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 1º/3/2017; HC 116.875/AC, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 17/10/2013; HC 117.346/SP, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 22/10/2013; HC 117.798/SP, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014; HC 119.821/TO, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 29/4/2014; HC 122.381-AgR/SP, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 9/10/2014; RHC 114.737/RN, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 18/4/2013; RHC 114.961/SP, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 8/8/2013).
+De fato, o exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do SUPREMO TRIBUNAL FEDERAL, conforme vem sendo reiteradamente proclamado por esta CORTE (HC 129.142, Rel. Min. MARCO AURÉLIO, Redator p/ Acórdão Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 10/8/2017; RHC 111.935, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC 97.009, Redator p/ Acórdão: Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC 118.189, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014).
+Em hipóteses como a presente, o exaurimento da jurisdição na origem exige a interposição de agravo interno, não sendo possível sua substituição por habeas corpus dirigido a tribunal diverso. Admitir o contrário permitiria à parte escolher, conforme sua conveniência, o órgão revisor da decisão monocrática, em afronta ao princípio do juiz natural e ao necessário exaurimento das instâncias, pressuposto da competência desta CORTE, que não comporta ampliação por via imprópria (HC 131226 AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 25/2/2016 e HC 270760, Rel. Min. CÁRMEN LÚCIA, DJe de 15/4/2026).
+Esta Primeira Turma vem autorizando, somente em circunstâncias específicas, o exame de habeas corpus quando não encerrada a análise na instância competente, óbice superável apenas em hipótese de teratologia (HC 138.414/RJ, Primeira Turma, DJe de 20/4/2017) ou em casos excepcionais (HC 137.078/SP, Primeira Turma, DJe de 24/4/2017), como bem destacado pela Ministra ROSA WEBER.
+No caso, entretanto, não se apresentam hipóteses de teratologia ou excepcionalidade aptas a justificar a intervenção desta CORTE.
+Diante do exposto, com fundamento no art. 21, § 1º, do Regimento Interno do STF, INDEFIRO a ordem de HABEAS CORPUS.
+Publique-se.
+Brasília, 10 de julho de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
