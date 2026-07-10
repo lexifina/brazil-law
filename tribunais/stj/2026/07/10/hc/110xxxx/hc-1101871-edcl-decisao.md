@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por DANILO MOURA DE ANDRADE contra decisão que indeferiu liminarmente a ordem de habeas corpus.
+A ordem foi indeferida liminarmente, por insuficiência de instrução e ausência de delimitação objetiva da controvérsia, consignando-se a necessidade de prova pré-constituída e a inviabilidade, na via estreita do habeas corpus, de apreciar alegações superpostas sem a adequada correlação entre fatos, atos coatores e documentos (e-STJ fls. 78/80).
+Nos presentes embargos de declaração, o embargante, assistido pela Defensoria Pública da União, alega que, embora não tenha juntado inicialmente a integralidade do ato coator, a DPU obteve a sentença, a denúncia e cópia integral dos habeas corpus citados, o que viabilizaria a análise do mérito. Sustenta, com fundamento nos arts. 620 do Código de Processo Penal e 263 do RISTJ, a necessidade de suprimento de omissão e de reconsideração, invocando, ainda, a garantia da duração razoável do processo (art. 5º, LXXVIII, da Constituição Federal) (e-STJ fls. 85/86).
+Requer a reconsideração da decisão de e-STJ fls. 78/80 e, por conseguinte, a análise do habeas corpus com base nos documentos ora apresentados (e-STJ fls. 85/86).
+É o relatório.
+Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+É insuficiente, todavia, a mera irresignação com o entendimento apresentado na decisão, assim como inviável seu uso como meio de reanálise das alegações.
+No caso, não se constatam os vícios alegados.
+A decisão embargada indicou, de forma expressa e suficiente, a deficiência de instrução do habeas corpus, consignando a ausência de documentos indispensáveis e a impossibilidade de exame das alegações sem prova pré-constituída.
+Todavia, isso não é óbice absoluto para a reconsideração e análise do writ após a juntada dos documentos ausentes, como reconhecido pela jurisprudência desta Corte. Ocorre que a decisão também registrou, de modo claro, a falta de delimitação objetiva da controvérsia e a sobreposição de insurgências contra múltiplos atos, o que inviabiliza a identificação de eventual constrangimento ilegal aferível de plano e tratam-se de circunstâncias inviáveis de serem sanadas no rito célere e de cognição sumária do habeas corpus.
+No caso, o embargante pretende, na realidade, rediscutir matéria já decidida e que foi contrária à sua pretensão, sem demonstrar, todavia, ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do CPP.
+De fato, o entendimento desta Corte é pacífico no sentido de que "os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão)". (EDcl no AgRg no REsp n. 1339703/RS, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 4/11/2014, DJe 17/11/2014).
+Manifesta, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, porquanto não demonstrada ambiguidade, omissão, contradição ou obscuridade, mas mera irresignação do embargante com a solução apresentada por esta Corte Superior.
+Diante do exposto, rejeito os presentes embargos.
+Intimem-se.
+EMENTA
