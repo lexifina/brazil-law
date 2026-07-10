@@ -1,0 +1,83 @@
+DECISÃO:
+Cuida-se de reclamação constitucional, com pedido liminar, ajuizada pelo Município de Tijucas do Sul contra acórdão da Turma Recursal Reunida dos Juizados Especiais do Tribunal de Justiça do Estado do Paraná, proferido nos autos do Processo nº 0004520-66.2026.8.16.0035, que teria negado seguimento ao recurso extraordinário com aplicação teratológica dos Temas nº 1.359, 660 e 339 da sistemática da repercussão geral.
+O Município de Tijucas do Sul narra que, na origem, Hildanabia Viana da Silva, parte ora beneficiária, ajuizou ação que tinha como objetivo a implementação e pagamento retroativo do adicional por tempo de serviço, previsto na Lei Municipal nº 50/2005.
+Continua a relatar que, após decisão da primeira instância que julgou parcialmente procedente o pedido, interpôs recurso inominado, o qual foi provido pela 6ª Turma Recursal do Tribunal de Justiça do Estado do Paraná, “acolhendo a tese do Município de que seria impossível a percepção simultânea do adicional por tempo de serviço e da progressão horizontal instituída pela Lei Municipal nº 498/2014" (e-doc. 1, p. 2).
+Prossegue narrando que a ora beneficiária opôs embargos de declaração e que a Turma Recursal, ao apreciá-los, deixou de exercer a função meramente integrativa prevista no art. 1.022 do CPC, promovendo novo julgamento da causa. Nesse tocante, alega que
+
+“O órgão julgador reabriu toda a discussão jurídica,  reinterpretou a legislação local, afastou os fundamentos anteriores e  restabeleceu a sentença de procedência, utilizando os embargos como  nítido sucedâneo recursal.” (e-doc. 1, p. 2)
+
+Diante desse cenário, discorre que interpôs recurso extraordinário, tendo o Tribunal de origem negado seguimento ao apelo com fundamento nos Temas nº 1.359, 660 e 339 da RG.
+Sustenta que:
+
+“há manifesta ausência de identidade material entre o paradigma e o caso concreto.
+ O Município não postulou pronunciamento acerca de  requisitos legais para percepção de vantagem funcional.
+ O núcleo da controvérsia reside na conformidade  constitucional da atuação jurisdicional desenvolvida pela Turma Recursal, que usou os aclaratórios para subverter decisão anterior.
+A discussão é estritamente sobre os limites  constitucionais do exercício da jurisdição e da estabilidade das decisões.” (e-doc. 1, p. 3).
+Acrescenta que:
+
+“[o] Tema 660 aplica-se quando a afronta  constitucional depende da revisão prévia de normas infraconstitucionais  (como leis administrativas locais).
+  No caso em exame, a violação decorre diretamente da  própria conduta do órgão julgador, que transpôs os limites objetivos do  artigo 1.022 do CPC para realizar um novo julgamento.” (e-doc. 1, p. 4)
+
+Aduz, ainda, que:
+
+“invocou-se o Tema 339/STF, relativo ao dever  de fundamentação das decisões judiciais.
+ Ocorre que o Município jamais sustentou nulidade por  insuficiência ou escassez de fundamentação.
+ A deficiência apontada não reside na quantidade de  fundamentos, mas na natureza da atividade jurisdicional desempenhada,  visto que uma decisão amplamente fundamentada continua sendo  incompatível com a Carta Magna se proferida por via recursal inadequada e  preclusa.” (e-doc. 1, p. 4).
+
+Defende, sob essa perspectiva, que a negativa de processamento do recurso extraordinário impediu o exame da matéria constitucional por esta Suprema Corte, configurando hipótese de cabimento da presente reclamação.
+Por fim, requer
+
+“b) A concessão de medida liminar, inaudita altera  parte, para determinar a suspensão imediata dos efeitos do acórdão  reclamado e o sobrestamento do processo de origem nº 0012506 76.2023.8.16.0035 e recurso 0004520-66.2026.8.16.0035até o julgamento  definitivo desta Reclamação;
+(...)
+f) No mérito, seja julgada totalmente procedente a  Reclamação para cassar o acórdão proferido pela Turma Recursal Reunida  que aplicou indevidamente os Temas 1359, 660 e 339 da Repercussão  Geral, determinando o regular processamento do Recurso Extraordinário  interposto pelo Município.” (e-doc. 1, p. 5).
+É o relatório. Decido.
+A presente reclamação é utilizada pelo Município de Tijucas do Sul com o objetivo de impugnar a decisão da autoridade reclamada que negou seguimento ao recurso extraordinário mediante aplicação dos Temas nº 1.359, 660 e 339 da sistemática da repercussão geral.
+Para tanto, defende que o recurso extraordinário não busca discutir o direito ao adicional por tempo de serviço previsto na legislação municipal, mas a “utilização dos embargos de declaração como instrumento de substituição integral de mérito” pela Turma Recursal, que teria promovido novo julgamento da causa, circunstância que, segundo sustenta, configura ofensa direta às garantias constitucionais do devido processo legal, do contraditório, da ampla defesa e da segurança jurídica.
+Compulsados os autos e o sítio eletrônico do TJPR, verifiquei que, na origem, o pedido referente à implementação e pagamento retroativo do adicional por tempo de serviço foi julgado parcialmente procedente. Interposto recurso inominado pelo Município de Tijucas do Sul, a 6ª Turma Recursal do Tribunal de Justiça do Estado do Paraná deu-lhe provimento para reformar a sentença, conforme se extrai da seguinte ementa:
+
+“RECURSO INOMINADO. FAZENDA PÚBLICA. SERVIDOR PÚBLICO DO MUNICÍPIO DE TIJUCAS DO SUL. TÉCNICO EM ENFERMAGEM. ADICIONAL POR TEMPO DE SERVIÇO (ART. 66, LEI Nº 50/2005). PLEITO DE PAGAMENTO DAS DIFERENÇAS PELA NÃO IMPLEMENTAÇÃO DA VANTAGEM. SENTENÇA DE PARCIAL PROCEDÊNCIA. INSURGÊNCIA RECURSAL DO MUNICÍPIO. ESTATUTO DOS SERVIDORES (LEI Nº 50/2005) QUE PREVIA O PAGAMENTO DE ADICIONAL DE 1% POR ANO LABORADO A CADA 02 (DOIS) ANOS, DESDE QUE A PARTE FOSSE APROVADA EM AVALIAÇÃO DE DESEMPENHO. VANTAGEM QUE ESTABELECEU DOIS REQUISITOS LEGAIS PARA SUA IMPLEMENTAÇÃO, QUAIS SEJAM, ANTIGUIDADE E MERECIMENTO (ART. 66,   CAPUT E §3º). LEI Nº 499/2014 QUE REORGANIZOU O PLANO DE CARREIRA DOS SERVIDORES, ESTABELECENDO A PROGRESSÃO HORIZONTAL POR MÉRITO A CADA 02 (DOIS) ANOS EM SUBSTITUIÇÃO AO ADICIONAL POR TEMPO DE SERVIÇO PREVISTO NO ART. 66. BENEFÍCIO QUE EXIGE AS MESMAS CONDIÇÕES PARA CONCESSÃO DO AVANÇO (ANTIGUIDADE E MERECIMENTO). OPÇÃO LEGISLATIVA. IMPOSSIBILIDADE DE MANUTENÇÃO DOS DOIS INSTITUTOS, SOB PENA DA CONCESSÃO DE 02 (DUAS) VANTAGENS PELO MESMO FATO GERADOR ( ). BIS IN IDEM MANUTENÇÃO CONCOMITANTE DO ADICIONAL E DA PROGRESSÃO QUE VIOLA O INCISO XIV DO ART. 37 DA CF/88 E ART. 17 DO ADCT. JURISPRUDÊNCIA DO STF. PARTE AUTORA QUE NÃO TEM DIREITO À VANTAGEM PREVISTA NA LEI MAIS ANTIGA. PRINCÍPIO DA HIERARQUIA DAS NORMAS. SENTENÇA REFORMADA. RECURSO CONHECIDO E PROVIDO.” (e-doc. 3, p. 1)
+
+Posteriormente, a ora beneficiária opôs embargos de declaração. Ao apreciá-los, a Turma Recursal alterou o resultado anteriormente firmado e restabeleceu a parcial procedência do pedido. Vide:
+
+“EMBARGOS DE DECLARAÇÃO EM RECURSO INOMINADO. MUNICÍPIO DE TIJUCAS DO SUL. FAZENDA PÚBLICA. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. SENTENÇA DE PROCEDÊNCIA. ACÓRDÃO FAVORÁVEL AO MUNICÍPIO, PELO PROVIMENTO DO RECURSO PARA JULGAR IMPROCEDENTE A AÇÃO. PLEITO DE IMPLEMENTAÇÃO DO ADICIONAL POR TEMPO DE SERVIÇO (ATS). BENEFÍCIO PREVISTO NO ART. 66 DA LEI MUNICIPAL Nº 50/2005. SENTENÇA DE PROCEDÊNCIA DO PEDIDO. INSURGÊNCIA RECURSAL DO MUNICÍPIO. ALEGAÇÃO DE IDENTIDADE DE REQUISITOS ENTRE O ADICIONAL POR TEMPO DE SERVIÇO E A PROGRESSÃO HORIZONTAL POR MÉRITO. AFIRMAÇÃO DE QUE HOUVE REVOGAÇÃO TÁCITA DO ATS COM O ADVENTO DA LEI MUNICIPAL Nº 498/2014 (PLANO DE CARREIRA DOS SERVIDORES MUNICIPAIS). IMPOSSIBILIDADE DE REVOGAÇÃO TÁCITA. ART. 2º, §1º DA LINDB E LC Nº 95/98. COINCIDÊNCIA DE CRITÉRIO TEMPORAL E DE APROVAÇÃO EM AVALIAÇÃO DE DESEMPENHO QUE NÃO SE CONFUNDEM COM O MESMO BENEFÍCIO. ADICIONAL POR TEMPO DE SERVIÇO QUE É BENEFÍCIO OBJETIVO DO SERVIDOR PELA ANTIGUIDADE. PROGRESSÃO HORIZONTAL POR MÉRITO QUE É DIREITO SUBJETIVO DO SERVIDOR PELA SATISFAÇÃO DOS REQUISITOS LEGAIS PARA DESENVOLVIMENTO NA CARREIRA. IMPLEMENTAÇÃO E DIFERENÇAS DEVIDAS. PRESCRIÇÃO QUINQUENAL QUE INCIDE APENAS SOBRE AS PARCELAS DECORRENTES DE DIREITO JÁ RECONHECIDO. PRESCRIÇÃO APLICÁVEL À FAZENDA PÚBLICA QUE ATINGE APENAS AS PARCELAS VENCIDAS ANTERIORES AO QUINQUÊNIO QUE ANTECEDE AO AJUIZAMENTO DA AÇÃO . OBSCURIDADE SANADA. SENTENÇA MANTIDA. EMBARGOS DE DECLARAÇÃOCONHECIDO SE PROVIDOS.” (e-doc. 4, p. 1).
+
+Irresignado, o Município de Tijucas do Sul interpôs recurso extraordinário, ao qual foi negado seguimento com fundamento da adequação da controvérsia aos Temas 1.359, 660 e 339 da RG, nos seguintes termos:
+
+“Trata-se de recurso extraordinário interposto pelo   Município de Tijucas do Sul/PR, com fundamento no artigo 102, inciso III, alínea “a”, da Constituição Federal, em face de acórdão proferido pela 6ª Turma Recursal deste Tribunal.
+Alegou o recorrente a repercussão geral da questão constitucional suscitada. No mérito, sustentou ter havido ofensa aos artigos 5º, incisos XXXVI, LIV e LV e 93, inciso IX, da Constituição da República.
+Quanto à alegada violação ao artigo 5º XXXVI, LIV e LV a Excelsa Corte, ao apreciar o ARE 748.371, decidiu pela   inexistência de repercussão geral do tema: “Violação dos princípios do contraditório e da ampla defesa quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais. Extensão do entendimento ao princípio do devido processo legal e aos limites da coisa julgada”(Tema nº 660).
+(...)
+O Supremo Tribunal Federal, ao apreciar o ARE 1493366, decidiu pela inexistência de repercussão geral do tema: “Controvérsias sobre a existência de fundamento legal e/ou requisitos para o recebimento de auxílios e vantagens remuneratórias por servidores públicos”(Tema n. 1359).
+Ao julgar o referido leading case, a Suprema Corte fixou a seguinte tese: “São infraconstitucionais e fáticas as controvérsias sobre a existência de fundamento legal e sobre os requisitos para o recebimento de auxílios e vantagens remuneratórias por servidores públicos.”.
+(...)
+Por fim, no que tange à suposta ofensa ao artigo 93, inciso IX, da Constituição Federal, da mesma forma não assiste razão à parte recorrente, tendo em vista que o STF já estabeleceu o seguinte entendimento:
+(...)
+No mais, constata-se do referido julgado que a alegada violação ao artigo 93, IX da Constituição Federal por ausência de fundamentação, não merece prosperar uma vez que o colegiado dirimiu toda a controvérsia posta em debate com fundamento claro e suficiente.
+Nota-se dos termos do acórdão que o órgão fracionário analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes coerente e correta fundamentação.
+Atenta-se que “Ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.08.2010, o Plenário desta Corte assentou a repercussão geral do Tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.” (ARE 1536548 AgR, Relator(a): EDSON FACHIN, Segunda Turma, julgado em 25-06-2025, PROCESSO ELETRÔNICO DJe-s/n  DIVULG 02-07 2025  PUBLIC 03-07-2025).
+Diante do exposto, nos termos do disposto no art. 1030, I, "a", do Código de Processo Civil, nego  seguimento ao presente recurso extraordinário. “ (e-doc. 6, p. 1-3)
+
+Em face dessa decisão, o ora reclamante interpôs agravo interno, o qual restou desprovido. Eis a ementa do julgado:
+
+“AGRAVO INTERNO. DECISÃO MONOCRÁTICA QUE NEGOU  SEGUIMENTO AO RECURSO EXTRAORDINÁRIO PELO ART. 1.030, I, "A", DO CPC.  APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL. MATÉRIA VINCULADA AOS  TEMAS 1359, 660 E 339 DO STF. CONTROVÉRSIA SOBRE PAGAMENTO DE PARCELAS  REMUNERATÓRIAS A SERVIDORES COM CARÁTER INFRACONSTITUCIONAL E  FÁTICO (TEMA 1359). AUSÊNCIA DE REPERCUSSÃO GERAL QUANTO A ALEGAÇÕES  SOBRE CONTRADITÓRIO, AMPLA DEFESA E DEVIDO PROCESSO LEGAL (TEMA 660).  QUESTÃO RELATIVA À FUNDAMENTAÇÃO DAS DECISÕES ALCANÇADA PELO TEMA  339, SEM POSSIBILIDADE DE EXAME DETALHADO DE MÉRITO. MULTA DO ARTIGO  1.021, § 4º DO CÓDIGO DE PROCESSO CIVIL. AGRAVO CONHECIDO E DESPROVIDO.” (e-doc. 7, p. 1).
+
+Assim delineada a moldura fático-jurídica subjacente à presente reclamação, tenho que tanto a decisão de inadmissibilidade quanto o acórdão em agravo interno interposto contra o despacho denegatório de seguimento do apelo extremo se encontram devidamente fundamentados, não havendo teratologia na aplicação da sistemática da repercussão geral ao caso concreto.
+A reclamação constitucional é instrumento de promoção do diálogo, nesta Suprema Corte, entre a decisão no caso concreto e os seus precedentes obrigatórios tem cabimento excepcional, estando sua admissibilidade condicionada à efetiva demonstração, além do esgotamento de instância (CPC, art. 988, §5º, II), de:
+a) desrespeito à autoridade da decisão do STF, porquanto configurada erronia na aplicação do entendimento vinculante a evidenciar teratologia da decisão reclamada ou
+b) usurpação da competência do STF, pois existente, no caso concreto, peculiaridades que impossibilitam a aplicação adequada da norma de interpretação extraída do precedente (distinguishing) a demandar pronunciamento desta Suprema Corte acerca da matéria constitucional no caso concreto, acaso verificada repercussão geral.
+A disciplina legal instituída pela Lei nº 13.105/2015 reforça o entendimento firmado pelo STF sob a égide do Código de Processo Civil de 1973, no sentido de não caber recurso ou outro instrumento processual da competência da Suprema Corte contra decisão do juízo de origem em que se aplique a sistemática da repercussão geral. Vide:
+
+“Questão de Ordem. Repercussão Geral. Inadmissibilidade de agravo de instrumento ou reclamação da decisão que aplica entendimento desta Corte aos processos múltiplos. Competência do Tribunal de origem. Conversão do agravo de instrumento em agravo regimental. 1. Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3º do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral. 2. Ao decretar o prejuízo de recurso ou exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria, de forma que a remessa dos autos individualmente ao STF apenas se justificará, nos termos da lei, na hipótese em que houver expressa negativa de retratação. 3. A maior ou menor aplicabilidade aos processos múltiplos do quanto assentado pela Suprema Corte ao julgar o mérito das matérias com repercussão geral dependerá da abrangência da questão constitucional decidida. 4. Agravo de instrumento que se converte em agravo regimental, a ser decidido pelo tribunal de origem” (AI nº 760.358-QO, Plenário, Relator o Ministro Gilmar Mendes, DJe de 12/2/10).”
+
+Verifico, assim, que a autoridade reclamada atuou nos limites de sua competência, não havendo excepcionalidade que justifique o cabimento da reclamação por alegada má aplicação dos Temas nº 1.359, 660 e 339 da RG na análise do recurso extraordinário e do agravo interno, mormente porquanto a solução do caso concreto, de fato, demanda a análise da legislação infraconstitucional.
+Assim, não configurada teratologia na aplicação da tese de repercussão geral pelo órgão de origem ou peculiaridade que justifique reapreciação do tema pelo STF, não há que se falar em desrespeito à sua autoridade ou usurpação de sua competência.
+Ante o exposto, nego seguimento à reclamação, nos termos do artigo 21, § 1º, do RISTF. Prejudicada a apreciação do pedido liminar.
+Observo que a parte reclamante não cumpriu integralmente os requisitos da petição inicial, deixando de  indicar o endereço da parte beneficiária da decisão apontada como reclamada no qual deverá ser citada para integrar a presente reclamação (arts. 989, III c/c art. 319, inciso II, do CPC/2015).
+Deixo de determinar sua emenda (art. 321 do CPC) ante o indeferimento liminar da inicial. Entretanto, na eventualidade de interposição de recurso desta decisão, seu conhecimento fica condicionado ao saneamento dos vícios juntamente com a peça recursal.
+Considerando que o uso de meios processuais manifestamente inadmissíveis gera efeitos danosos à prestação jurisdicional, a parte reclamante fica também advertida, na hipótese de recurso, da possibilidade de aplicação ipso facto da multa processual prevista no art. 1.021, §4º, do CPC/2015.
+Publique-se.
+Brasília, 10 de julho de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
