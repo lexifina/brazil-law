@@ -1,0 +1,96 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO. PENAL. TRÁFICO DE DROGAS. PRETENDIDA DESCLASSIFICAÇÃO DA CONDUTA DE POSSE DE DROGAS PARA CONSUMO PESSOAL. APREENSÃO DE 30G DE MACONHA. APLICAÇÃO DO TEMA 506 DA REPERCUSSÃO GERAL. IMPOSSIBILIDADE. COMPROVAÇÃO DA PRÁTICA DO CRIME DE TRÁFICO. NECESSÁRIO REEXAME PROBATÓRIO: INVIABILIDADE. SÚMULA N. 279 DESTE SUPREMO TRIBUNAL. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA SEGUIMENTO.
+
+Relatório
+1. Recurso extraordinário interposto, com base na al. a do inc. III do art. 102 da Constituição da República, contra acórdão da Quinta Câmara Criminal do Tribunal de Justiça do Paraná:
+“DIREITO PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. RECURSO CONHECIDO E PROVIDO.
+1. CASO EM EXAME
+Apelação criminal interposta pelo Ministério Público do Estado do Paraná contra sentença que absolveu Marcos Renan de Castro Garcia da prática do crime de tráfico de drogas. O réu foi denunciado por portar 16 porções de maconha (aproximadamente 30g) em fundo falso de bolsa, dentro do Centro de Reintegração Social de Londrina – CRESLON. A sentença de primeiro grau julgou improcedente a denúncia, absolvendo o réu com base no art. 386, VII, do CPP. O Ministério Público recorreu, pleiteando a condenação.
+2. QUESTÃO EM DISCUSSÃO
+A questão em discussão consiste em saber se: (a) há provas suficientes para condenar o réu pela prática de tráfico de drogas; (b) a versão defensiva de uso pessoal é verossímil; (c) a sentença absolutória deve ser reformada; (d) há elementos para aplicação da causa de aumento prevista no art. 40, III, da Lei de Drogas; (e) é possível reconhecer o tráfico privilegiado.
+3. RAZÕES DE DECIDIR
+3.1 A materialidade do delito foi comprovada por boletim de ocorrência, auto de apreensão, laudo toxicológico e prova oral.
+3.2 A autoria foi confirmada por depoimentos de agente penitenciário que realizou a revista e encontrou a droga na bolsa do réu.
+3.3 A versão defensiva de que a droga não pertencia ao réu foi considerada inverossímil e isolada frente ao conjunto probatório.
+3.4 A conduta ocorreu dentro de unidade prisional, justificando a aplicação da causa de aumento prevista no art. 40, III, da Lei nº 11.343/2006.
+3.5 A evasão do réu após a apreensão reforça o dolo e a consciência da ilicitude da conduta.
+3.6 A tese de uso pessoal foi afastada pela forma de ocultação da droga e pelo comportamento do réu.
+3.7 A jurisprudência do TJPR e do STJ reconhece a validade dos depoimentos de agentes públicos como prova idônea.
+3.8 A dosimetria da pena considerou culpabilidade elevada, maus antecedentes e multirreincidência, resultando em pena de 12 anos e 3 meses de reclusão, além de 1.050 dias-multa.
+3.9 Foi fixado o regime fechado para início do cumprimento da pena.
+3.10 Foram arbitrados honorários advocatícios ao defensor dativo.
+4. DISPOSITIVO Recurso conhecido e provido” (fls. 1-2, e-doc. 17).
+
+2. No recurso extraordinário, o recorrente alega ter o Tribunal de origem contrariado os incs. X, L, LVII, LVIII e LXII do art. 5º da Constituição da República.
+
+Argumenta que “o simples acondicionamento da substância entorpecente no fundo da mochila não configura, por si só, qualquer indício de mercantilização” (fl. 18, e-doc. 20).
+
+Assevera que “justificou posteriormente sua evasão, afirmando ter agido por receio das penalidades e reprimendas que inevitavelmente sofreria em razão da posse do entorpecente, o que demonstra a ausência de animus mercantil, tratando-se de tentativa de evitar consequências administrativas e disciplinares” (fl. 18, e-doc. 20).
+
+Defende que, “no caso dos autos, a apreensão de 30g (trinta gramas) de maconha, desacompanhada de outros elementos indicativos de mercancia, não autoriza a subsunção da conduta ao art. 33 da Lei nº 11.343/2006. Ainda assim, diante da fragilidade probatória, o Tribunal, ao que se observa, acabou por inverter o ônus valorativo da prova, adotando presunção de culpabilidade em prejuízo do réu” (fls. 21-22, e-doc. 20).
+
+Enfatiza que “a equiparação automática do porte de 30g de maconha ao crime de tráfico, sem prova concreta de mercancia, somada à valoração negativa da evasão que nada tem a ver com o tipo penal de tráfico de drogas, transforma a tutela da intimidade em presunção de culpabilidade, em afronta direta ao entendimento firmado pelo STF e aos limites constitucionais do poder de punir” (fl. 23, e-doc. 20).
+
+Estes os pedidos:
+“Ante o exposto, requer-se o conhecimento e o provimento do presente recurso extraordinário para que seja reformado o acórdão, absolvendo-se o réu, em estrita observância aos direitos constitucionais previstos no art 5º, incisos X e LVII, bem em obediência à tese firmada por esta Suprema Corte no Tema 506 (Leading case RE 635659)” (fl. 24, e-doc. 20).
+
+O Ministério Público do Paraná apresenta contrarrazões ao recurso extraordinário, pedindo a inadmissão do recurso (e-doc. 22).
+
+3. Em 31.3.2026, o Primeiro Vice-Presidente do Tribunal de Justiça do Paraná admitiu o recurso extraordinário (e-doc. 25).
+
+Examinados os elementos havidos nos autos, DECIDO.
+
+4. Razão jurídica não assiste ao recorrente.
+
+5. No presente recurso extraordinário, pretende-se a absolvição do recorrente da conduta descrita no art. 33 da Lei n. 11.343/2006 (tráfico de drogas), pela aplicação do Tema 506 da repercussão geral.
+
+6. A alegação de contrariedade aos incs. L, LVIII e LXII do art. 5º da Constituição da República não foi objeto de debate e decisão prévios no Tribunal de origem, tampouco foram opostos embargos de declaração para comprovar ter havido, no momento processual próprio, prequestionamento. Incidem, na espécie, as Súmulas ns. 282 e 356 do Supremo Tribunal Federal. Assim, por exemplo:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSO PENAL. REVISÃO CRIMINAL. TRÁFICO DE DROGAS. APLICAÇÃO DA REPERCUSSÃO GERAL NA ORIGEM: TEMAS 339 E 660. AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. ALEGADA VIOLAÇÃO DE DOMICÍLIO NÃO CONFIGURADA: FUNDADAS RAZÕES. TEMA 280 DA REPERCUSSÃO GERAL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO PROBATÓRIO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. PRETENSA REVISÃO DA DOSIMETRIA DA PENA. CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS: TEMA 182 DA REPERCUSSÃO GERAL. AGRAVO REGIMENTAL DESPROVIDO” (ARE n. 1.590.084-AgR, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJe 24.4.2026).
+
+“DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS CONSTITUCIONAIS. INADIMISSIBILIDADE DO PREQUESTIONAMENTO IMPLÍCITO. INCIDÊNCIA DAS SÚMULAS 282 E 356/STF. AGRAVO NÃO PROVIDO. I. Caso em exame 1. Agravo regimental contra decisão que negou seguimento a recurso extraordinário com agravo. II. Questão em discussão 2. Preenchimento dos pressupostos de admissibilidade do recurso extraordinário com agravo. III. Razão de decidir 3. A petição de agravo não trouxe novos argumentos aptos a desconstituir a decisão agravada, a qual deve ser mantida pelos seus próprios fundamentos. 4. Os dispositivos constitucionais indicados como violados, não foram objeto de discussão pelo acórdão recorrido, tampouco foram suscitados em sede de embargos declaratórios. Ausente, portanto, o indispensável prequestionamento (Súmulas 282 e 356 do STF). 5. O Supremo Tribunal Federal não admite o prequestionamento implícito. Precedentes. IV. Dispositivo 6. Agravo regimental a que se nega provimento” (ARE n. 1.577.073-AgR, Relator o Ministro Edson Fachin, Plenário, DJe 3.3.2026).
+
+7. Quanto à suposta violação aos incs. X e LVII do art. 5º da Constituição da República, melhor sorte não assiste ao recorrente.
+
+8. Em 6.8.2024, o juízo da Segunda Vara Criminal da comarca de Londrina/PR julgou improcedente a Ação Penal n. 0063250-75.2022.8.16.0014 para absolver o recorrente da prática do delito previsto no caput do art. 33 c/c inc. III do art. 40, ambos da Lei n. 11.343/2006 (tráfico de entorpecente majorado) por insuficiência de provas para fundamentar a condenação (e-doc. 10).
+
+9. Em 27.11.2025, a Quinta Câmara Criminal do Tribunal de Justiça do Paraná deu provimento à apelação interposta pelo Ministério Público estadual para reformar a sentença condenatória e condenar o recorrente às penas de doze anos e três meses de reclusão, em regime inicial fechado, e mil e cinquenta dias-multa, pela prática do crime previsto no caput do art. 33 da Lei n. 11.343/2006 (tráfico de entorpecente), nestes termos:
+“De início, verifica-se que a materialidade delitiva está devidamente comprovada pela portaria (mov. 1.1), auto de exibição e apreensão (mov. 1.6), auto de constatação provisória de droga (mov. 1.7), boletim de ocorrência sob nº 2022/1117415 (mov. 1.2), laudo toxicológico definitivo (mov. 17.2), bem como pela prova oral coligida sob a égide do contraditório.
+No que tange à autoria, o mosaico probatório se mostra firme e uníssono ao apontar o réu como autor do fato pelo qual ora condenado.
+(...) O contexto reconstruído durante a persecução penal comprova todos os detalhes que circundam a prática delitiva, mostrando-se suficiente na demonstração da materialidade e autoria do crime, nos termos narrados pela exordial acusatória.
+E, conquanto o réu refute a prática de tráfico de drogas, sustentando tratar-se de mero usuário à luz do novo entendimento firmado pelo Supremo Tribunal Federal, tal alegação não merece guarida, porquanto destituída de amparo probatório mínimo.
+Em sentido contrário, mostra-se firme, coeso e harmônico o depoimento do agente público responsável pela ocorrência, que detalhou com clareza as circunstâncias dos fatos.
+No dia 14 de outubro de 2022, por volta das 13h30, ao retornar ao CRESLON após saída temporária, o apelado foi submetido à revista minuciosa de praxe, ocasião em que se apreenderam aproximadamente 30 (trinta) gramas de ‘maconha’, acondicionadas em fundo falso de sua mochila. Em seguida, foi conduzido ao cubículo disciplinar para aguardar deliberação do Conselho, mas acabou evadindo-se da unidade prisional, conduta registrada no prontuário sob nº 13015 (mov. 1.10), em perfeita correspondência com o boletim de ocorrência e o auto de exibição e apreensão.
+A própria evasão subsequente do recorrido, imediatamente após a apreensão da droga, corrobora sua consciência acerca da ilicitude da conduta e reforça o dolo, afastando qualquer dúvida sobre sua intenção criminosa.
+Diante desse conjunto probatório sólido e convergente, não subsiste espaço para admitir a versão defensiva de que a droga se destinava apenas ao consumo pessoal. A forma de ocultação em fundo falso e o comportamento posterior do réu constituem circunstâncias que, analisadas em conjunto, revelam inequívoca destinação mercantil do entorpecente.
+Portanto, a tese defensiva não passa de tentativa de afastar a responsabilização criminal, sem qualquer respaldo nas provas produzidas. A negativa de autoria e a alegação de uso próprio restam completamente isoladas, fragilizadas diante da robustez das evidências coligidas ao longo da instrução, impondo-se a manutenção da condenação pelo crime de tráfico de drogas.
+A alegação de que o réu seria apenas usuário não possui, no particular dos autos, qualquer relevância para afastar a tipificação do crime de tráfico de drogas. A condição de usuário não exclui a possibilidade de que o indivíduo também exerça a venda de entorpecentes, sendo essa uma prática comum no contexto da narcotraficância. Assim, restando plenamente caracterizada a traficância, a condenação do acusado deve é medida que se impõe.
+A respeito, os recentes julgados desta Corte: (...).
+No caso concreto, o entendimento firmado pela Suprema Corte não se aplica ao apelado. Embora tenha sido apreendida quantidade inferior a 40g de maconha, o contexto fático em que se deu a apreensão revela, de forma clara e incontestável, a prática do tráfico ilícito de entorpecentes.
+É que o réu foi surpreendido ao retornar à unidade prisional trazendo consigo 30g de maconha, ocultadas em fundo falso da mochila que portava — circunstância que, por si só, afasta a alegação de uso pessoal. A isso se soma a conduta subsequente de evadir-se do estabelecimento prisional logo após a revista e apreensão, fato que reforça sua consciência acerca da ilicitude e demonstra inequívoco dolo de mercancia.
+Em essência, a conjugação desses elementos — quantidade da droga, forma sofisticada de ocultação e evasão da unidade prisional — afasta qualquer dúvida razoável quanto a narcotraficância, impondo o reconhecimento da prática de tráfico de drogas pelo apelado.
+Diante desse cenário, resta evidente que os fatos narrados na denúncia foram devidamente comprovados, não subsistindo qualquer dúvida quanto à materialidade e autoria do delito. As circunstâncias da apreensão, aliadas aos elementos colhidos durante a instrução processual, confirmam que a conduta do réu se amolda perfeitamente ao crime ora tratado.
+Assim, esgotada a análise dos argumentos ministeriais e constatada a plena comprovação da prática criminosa, dou provimento ao recurso interposto pelo Ministério Público do Estado do Paraná, acolhendo a pretensão punitiva estatal e condenando o réu Marcos Renan de Castro Garcia pela infração ao artigo 33, caput, da Lei de Drogas” (fls. 3-7, e-doc. 17).
+
+10. Na espécie vertente, o acórdão recorrido está em consonância com a jurisprudência deste Supremo Tribunal, fixada no julgamento do Tema 506 da repercussão geral, de que a presunção de ser usuário aquele que trouxer consigo quantidade inferior a 40g de cannabis sativa ou seis plantas-fêmeas pode ser afastada quando presentes elementos que indiquem intuito de mercância.
+
+Consta do acórdão que as circunstâncias que envolveram a prisão do recorrente denotam o intuito de mercância da droga apreendida, pois “o réu foi surpreendido ao retornar à unidade prisional trazendo consigo 30g de maconha, ocultadas em fundo falso da mochila que portava — circunstância que, por si só, afasta a alegação de uso pessoal. A isso se soma a conduta subsequente de evadir-se do estabelecimento prisional logo após a revista e apreensão, fato que reforça sua consciência acerca da ilicitude e demonstra inequívoco dolo de mercancia” e que “a conjugação desses elementos — quantidade da droga, forma sofisticada de ocultação e evasão da unidade prisional — afasta qualquer dúvida razoável quanto a narcotraficância, impondo o reconhecimento da prática de tráfico de drogas pelo apelado” (fl. 7, e-doc. 17).
+
+11. Considerados os dados dos autos, é de se anotar que, para rever o entendimento adotado pelas instâncias ordinárias e, eventualmente, concluir pela aplicação do Tema 506 e a absolvição pelo crime de tráfico de drogas, seria necessária a análise do conjunto probatório constante dos autos, procedimento incabível de ser adotado validamente em recurso extraordinário, como se tem na Súmula n. 279 do Supremo Tribunal Federal. Assim, por exemplo:
+“Direito processual penal. Agravo regimental no recurso extraordinário com agravo. tráfico de drogas. Pretensão de desclassificação da conduta para usuário. Presunção relativa de usuário (art. 28, §2º, da lei 11.343/2006) afastada com base em provas. Reexame de fatos e provas. Inviabilidade em recurso extraordinário. Súmula 279 do stf. Agravo regimental desprovido. (...) 4. O Tribunal de origem afastou a presunção de usuário com base em elementos objetivos constantes dos autos, que demonstraram o intuito de mercancia do entorpecente. Além das substâncias estarem embaladas em pequenas porções e em plásticos fechados por pressão, houve testemunha que afirmou ter comprado drogas com a ré. 5. A desconstituição desse entendimento exigiria reexame do conjunto fático-probatório, providência vedada em recurso extraordinário, nos termos da Súmula nº 279 do STF. IV. Dispositivo e tese 6. Agravo regimental desprovido” (ARE n. 1.563.597-AgR, Relator o Ministro Cristiano Zanin, Primeira Turma, DJe 2.10.2025).
+
+“Direito Penal. Agravo regimental no recurso extraordinário com agravo. Tráfico de drogas. Desclassificação para porte de drogas para consumo pessoal. Reexame de fatos e provas. Súmula 279 do STF. Matéria infraconstitucional. Recurso desprovido. (...) 4. A alteração do entendimento adotado pelo Tribunal de origem, que comprovou a prática do delito de tráfico de drogas com base em elementos fáticos e probatórios, exigiria, necessariamente, a interpretação de legislação infraconstitucional e o reexame do conjunto fático-probatório constante dos autos. 5. O reexame de fatos e provas é inviável em recurso extraordinário, conforme vedado pela Súmula 279 do STF, entendimento pacífico desta Corte. IV. Dispositivo 6. Agravo regimental não provido” (ARE n. 1.569.606-AgR, Relator Edson Fachin, Plenário, DJe 24.11.2025).
+
+“Direito processual penal. Agravo regimental no recurso extraordinário com agravo. Agravante condenado por tráfico pede a desclassificação do delito. Impossibilidade. Provas da prática do crime de tráfico. Agravo improvido. I. Caso em exame 1. Condenado por tráfico pede a desclassificação, com fundamento no Tema 506. II. Questão em discussão 2. A questão em discussão consiste em saber se o acórdão recorrido demonstrou a prática do crime de tráfico de drogas e se é possível a aplicação do entendimento firmado no Tema 506. III. Razões de decidir 3. O presente caso não tem nenhuma relação com o Tema 506, porquanto evidenciada a prática do crime previsto no artigo 33 da Lei de Drogas. 4. Para concluir de modo diverso, seria necessário o revolvimento-fático probatório, providência vedada pela súmula 279. IV. Dispositivo e tese 5. Agravo improvido” (ARE n. 1.554.251-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 27.4.2026).
+
+“DIREITO CONSTITUCIONAL E PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO EXTRAORDINÁRIO. TRÁFICO DE DROGAS. PRETENSÃO DE DESCLASSIFICAÇÃO PARA USO PESSOAL. TEMA 506 DA REPERCUSSÃO GERAL. PRESUNÇÃO RELATIVA DE USUÁRIO. CIRCUNSTÂNCIAS DA APREENSÃO E FORMA DE ACONDICIONAMENTO. REEXAME DE PROVAS. SÚMULA 279/STF. RECURSO DESPROVIDO. (...) 3. O acórdão recorrido encontra-se em harmonia com o entendimento firmado pelo Supremo Tribunal Federal no julgamento do Tema 506 da Repercussão Geral (RE 635.659, Rel. Min. Gilmar Mendes), segundo o qual a presunção de usuário é relativa e deve ser apreciada à luz das circunstâncias da apreensão, da forma de acondicionamento da droga e de outros elementos concretos que indiquem a destinação mercantil. 4. No caso, as provas coligidas – quantidade e forma de embalagem da droga, local da apreensão e depoimentos colhidos – indicam inequívoca destinação ao tráfico, afastando a hipótese de uso pessoal. 5. A pretensão recursal demandaria reavaliação do conjunto fático-probatório e da aplicação da legislação infraconstitucional, o que atrai a incidência da Súmula 279/STF. (...) IV. DISPOSITIVO 7. Agravo regimental desprovido” (ARE n. 1.550.532-AgR, Relator o Ministro André Mendonça, Segunda Turma, DJe 5.2.2026).
+
+Nada há a prover quanto às alegações do recorrente.
+
+12. Pelo exposto, nego seguimento ao recurso extraordinário (art. 638 do Código de Processo Penal e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+
+Publique-se.
+Brasília, 13 de julho de 2026.
+
+Ministra CÁRMEN LÚCIA
+Relatora
