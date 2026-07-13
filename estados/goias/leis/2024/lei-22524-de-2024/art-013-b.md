@@ -1,0 +1,4 @@
+Art. 13-B. A categoria profissional de Farmacêutico-Bioquímico dos cargos de Fiscal de Saúde Pública e de Auditor de Sistemas e Serviços de Saúde, prevista nos incisos I e II do art. 6º desta Lei, fica automaticamente transformada na categoria profissional de Farmacêutico, de que tratam os mesmos dispositivos.
+§ 1º Os atuais ocupantes do cargo de Auditor de Sistemas e Serviços de Saúde, na categoria profissional de Farmacêutico-Bioquímico, serão enquadrados automaticamente no mesmo cargo na categoria profissional de Farmacêutico e será mantido o nível anteriormente ocupado.
+§ 2º A alteração de que trata o caput deste artigo não modifica as atribuições do cargo, não reduz os vencimentos e preserva as vantagens já concedidas e incorporadas.
+§ 3º O enquadramento previsto no § 1º deste artigo não suspende nem interrompe as condições para a apuração dos requisitos de evolução funcional para o próximo nível, estabelecidas no art. 9º desta Lei e no regulamento específico.

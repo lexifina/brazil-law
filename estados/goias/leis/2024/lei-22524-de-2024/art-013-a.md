@@ -1,0 +1,4 @@
+Art. 13-A. O cargo de Farmacêutico-Bioquímico, previsto na alínea "g" do inciso V do art. 5º desta Lei, fica automaticamente transformado no cargo de Farmacêutico, de que trata a alínea "f" do mesmo inciso e artigo, e os atuais ocupantes ficam enquadrados no cargo resultante da transformação.
+§ 1º Os atuais Farmacêuticos-Bioquímicos serão enquadrados automaticamente no cargo de Farmacêutico no mesmo nível anteriormente ocupado.
+§ 2º A alteração de que trata o caput deste artigo não modifica as atribuições do cargo, não reduz os vencimentos e preserva as vantagens já concedidas e incorporadas.
+§ 3º O enquadramento previsto no § 1º deste artigo não suspende nem interrompe as condições para a apuração dos requisitos de evolução funcional para o próximo nível, estabelecidas no art. 9º desta Lei e no regulamento específico.
