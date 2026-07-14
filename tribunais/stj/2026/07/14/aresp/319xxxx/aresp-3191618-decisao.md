@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual DOUGLAS POLICARPO se insurgira contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO de fls. 25/28.
+Nas razões de seu recurso especial, a parte recorrente requer o provimento de seu recurso.
+A parte adversa não foi intimada para apresentar contrarrazões (fl. 75).
+É o relatório.
+A decisão de admissibilidade foi devidamente impugnada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Após o julgamento dos embargos de declaração, realizado em sessão de 12/12/2023 (fl. 47), com publicação do respectivo acórdão (fls. 48/51), a parte recorrente, em 17/1/2024, protocolizou petição intitulada "questão de ordem", por meio da qual suscitou nulidades relativas ao julgamento (fls. 56/59).
+Aquela petição somente foi apreciada em 12/9/2025, ocasião em que o Tribunal de origem indeferiu o pedido ao fundamento de que inexistia insurgência contra a decisão que havia conhecido da petição de ID 275795683 como embargos de declaração, consignando, ainda, que a medida era destituída de amparo legal (fl. 60).
+Na sequência, foi certificado o trânsito em julgado em 24/9/2025 (fl. 61), tendo o recurso especial sido interposto apenas em 25/9/2025 (fls. 62/74), razão pela qual o Tribunal de origem não o admitiu por intempestividade (fl. 76).
+A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que a interposição de recurso manifestamente incabível  como pedido de reconsideração, chamamento do feito à ordem ou medida processual equivalente destituída de previsão legal  não interrompe nem suspende o prazo para a interposição do recurso cabível.
+No presente caso, após o julgamento dos embargos de declaração, competia à parte recorrente interpor o recurso adequado. Entretanto, optou por apresentar petição intitulada "questão de ordem", posteriormente reputada destituída de fundamento legal pelo próprio Tribunal de origem. Por se tratar de medida manifestamente incabível, sua interposição não produziu nenhum efeito sobre o prazo recursal.
+Assim, é manifesta a intempestividade do recurso especial, nos termos do art. 1.003, § 5º, c/c os arts. 219, 224 e 994, VI, todos do Código de Processo Civil.
+Nesse mesmo sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NA PETIÇÃO NO RECURSO ESPECIAL. CHAMAMENTO DO FEITO À ORDEM. REGULARIZAÇÃO PROCESSUAL. DESATENDIMENTO. NULIDADE CAUSADA PELA PRÓPRIA PARTE. EFETIVIDADE DO ATO DE COMUNICAÇÃO. PROCURAÇÃO TARDIA. VÍCIO MANTIDO. RECURSO MANIFESTAMENTE INCABÍVEL. CERTIFICAÇÃO DO TRÂNSITO EM JULGADO E APLICAÇÃO DE MULTA (ART. 1.021, § 4º, DO CPC/2015). AGRAVO INTERNO NÃO CONHECIDO.
+1. A decisão recorrida, ao negar o "chamamento do feito à ordem", após o julgamento do agravo interno contra a decisão da Presidência, considerou que a falha na comunicação decorreu de informação equivocada prestada pela própria parte, que permaneceu registrando o número equivocado do número de registro na Ordem de seu próprio patrono mesmo por ocasião do julgamento colegiado.
+2. Mesmo com o número incorreto informado por si, a parte pôde agravar da decisão, em petição que permaneceu indicando o registro de OAB equivocado, tendo a comunicação cumprido sua finalidade.
+3. Além disso, a procuração datada de momento posterior ao ato processual não supre o vício de representação, conforme reafirmado recentemente pela Corte Especial.
+4. A interposição de recurso manifestamente incabível não interrompe a fluência do prazo recursal e atrai a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015, fixada em 5% (cinco por cento) do valor atualizado da causa.
+5. Agravo interno não conhecido, com determinação de certificação imediata do trânsito em julgado e aplicação de multa.
+(AgInt na PET no REsp n. 2.135.315/PE, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 25/3/2026, DJEN de 31/3/2026, sem destaques no original.)
+PROCESSUAL CIVIL. PEDIDO DE RECONSIDERAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PETIÇÃO MANIFESTAMENTE INCABÍVEL. PRINCÍPIO DA FUNGIBILIDADE. INAPLICABILIDADE. ERRO GROSSEIRO. AUSÊNCIA DE INTERRUPÇÃO DO PRAZO RECURSAL. JURISPRUDÊNCIA DO STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. É manifestamente incabível pedido de reconsideração em face de decisão colegiada ante a ausência de amparo legal e regimental, bem como o seu recebimento como embargos de declaração, por inadmissível a aplicação do princípio da fungibilidade recursal na presença de erro grosseiro. Confiram-se: RCD nos EDcl no AgInt no REsp 1.942.993/DF, Re. Min. Herman Benjamin, Segunda Turma, DJe 4/6/2024;
+AgInt no AgInt nos EDcl no REsp 2.000.425/SP, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 16/8/2023; RCD nos EDcl no AgRg no AREsp 2.211.694/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, DJe 24/4/2023.
+3. Sendo manifestamente incabível pedido de reconsideração de decisão colegiada, não há interrupção ou suspensão de prazo para interposição de recurso próprio.
+4. A firme jurisprudência do STJ consigna que " a  interposição de recurso manifestamente incabível, como nas hipóteses de pedido de reconsideração ou embargos de declaração opostos à decisão de admissibilidade do recurso especial, não interrompe ou suspende o prazo para a interposição do recurso próprio" (AgInt no AREsp n. 2.491.589/GO, Rel. Min. Nancy Andrighi, Terceira Turma, DJe 24/4/2024). No mesmo sentido, citem-se: AgInt no AREsp 1.715.642/AM, Rel. Min. Sérgio Kukina, Primeira Turma, . DJe 16/9/2022; AgInt no RCD na AR 6.287/SP, Rel. Min. Regina Helena Costa, Primeira Seção, DJe 17/2/2022; AgInt no AREsp 1.415.848/SP, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 20/8/2019; AgInt no AREsp 2.375.456/SC, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, DJe 19/10/2023.
+5. Pedido de Reconsideração não conhecido.
+(RCD no AgInt no AREsp n. 2.529.901/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 17/3/2025, DJEN de 27/3/2025, sem destaques no original.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
