@@ -1,0 +1,4 @@
+Minuta INSTRUÇÃO NORMATIVA BCB Nº 761, DE 9 DE JULHO DE 2026
+Divulga orientações sobre as medidas reforçadas a serem observadas pelas instituições autorizadas a funcionar pelo Banco Central do Brasil na aplicação do disposto na Circular nº 3.978, de 23 de janeiro de 2020, no caso de operações e situações que envolvam clientes, instituições financeiras correspondentes e parceiros estabelecidos em países e territórios com deficiências estratégicas na implementação das recomendações do Grupo de Ação Financeira (Gafi).
+O Chefe do Departamento de Regulação do Sistema Financeiro (Denor), no uso da atribuição que lhe confere o art. 23, inciso I, alínea "a", do Regimento Interno do Banco Central do Brasil, anexo à Resolução BCB nº 340, de 21 de setembro de 2023, e tendo em vista o disposto nos arts. 9º, 10, 13, 18, 39, 56, 59, da Circular nº 3.978, de 23 de janeiro de 2020,
+R E S O L V E :
