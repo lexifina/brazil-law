@@ -15,5 +15,6 @@ VI - que tenha prole.
 § 8º A exibição de filmes de produção nacional constituirá componente curricular complementar integrado à proposta pedagógica da escola, sendo a sua exibição obrigatória por, no mínimo, 2 (duas) horas mensais.
 § 9º Conteúdos relativos aos direitos humanos e à prevenção de todas as formas de violência contra a criança, o adolescente e a mulher serão incluídos, como temas transversais, nos currículos de que trata o caput deste artigo, observadas as diretrizes da legislação correspondente e a produção e distribuição de material didático adequado a cada nível de ensino.
 § 9º-A. A educação alimentar e nutricional será incluída entre os temas transversais de que trata o caput.
+§ 9º-B. Educação política e direitos da cidadania constituirá componente curricular obrigatório no âmbito do estudo da realidade social e política a que se refere o § 1º deste artigo.
 § 10. A inclusão de novos componentes curriculares de caráter obrigatório na Base Nacional Comum Curricular dependerá de aprovação do Conselho Nacional de Educação e de homologação pelo Ministro de Estado da Educação.
 § 11. A educação digital, com foco no letramento digital e no ensino de computação, programação, robótica e outras competências digitais, será componente curricular do ensino fundamental e do ensino médio.
