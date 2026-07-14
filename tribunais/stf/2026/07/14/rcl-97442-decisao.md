@@ -1,0 +1,31 @@
+DECISÃO: Trata-se de reclamação constitucional, com pedido de medida liminar, ajuizada pelo Ministério Público do Estado de Minas Gerais contra acórdão da Quarta Câmara Criminal do Tribunal de Justiça do Estado de Minas Gerais (eDOC 1, p. 1), sob a alegação de ofensa ao que decidido por esta Suprema Corte no HC 232.627/DF e na Questão de Ordem no Inq. 4.787 (eDOC 1, p. 2).
+Na ação penal de origem, Cleide Maria Ferreira Rangel, ex-Prefeita do Município de Santa Rosa da Serra/MG, e Vicente de Paula respondem pela suposta prática do delito previsto no art. 1º, I, do Decreto-Lei n. 201/1967 (eDOC 3, p. 3). Segundo registrado no acórdão reclamado, a acusação atribui à primeira beneficiária, no ano de 2016 e durante o exercício do mandato, o desvio de quatro cheques emitidos pelo Município, com apropriação de recursos públicos em proveito próprio e do corréu (eDOC 3, p. 3).
+Após a prática de atos processuais na comarca de origem, inclusive o recebimento da denúncia, o juízo de primeiro grau determinou a remessa dos autos ao TJMG, em observância à orientação firmada no HC 232.627/DF (eDOC 3, p. 3).
+A Quarta Câmara Criminal do TJMG, contudo, por maioria, determinou o retorno do processo ao juízo de primeiro grau (eDOC 3, p. 2). O voto condutor afirmou que o HC 232.627/DF não teria efeito vinculante nem teria sido objeto de modulação, razão pela qual a segurança jurídica e a estabilidade das decisões exigiriam a preservação da competência anteriormente declinada (eDOC 3, p. 8).
+O Ministério Público interpôs recurso extraordinário contra o acórdão (eDOC 2, p. 1) e ajuizou a presente reclamação (eDOC 1, p. 1).
+Alega, em síntese, que se deve observar a “aplicação imediata da nova tese aos processos em curso” (eDOC 1, p. 2) e que a ressalva relativa aos atos anteriormente praticados não alcança “a declinação da competência anterior em si” (eDOC 1, p. 3).
+Requer, liminarmente, a suspensão do acórdão reclamado. No mérito, pede a procedência da reclamação, “determinando-se a continuidade perante o TJMG do processamento da ação penal 1.0000.26.113.178-3/000, para que possa ter imediato prosseguimento”(eDOC 1, p. 10).
+Deixei de abrir vista dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (RISTF, art. 52, parágrafo único).
+É o relatório. Decido.
+Nos termos do art. 102, I, “l”, da Constituição Federal, compete ao Supremo Tribunal Federal processar e julgar originariamente reclamação destinada à preservação de sua competência e à garantia da autoridade de suas decisões. O art. 988, II, do Código de Processo Civil prevê o mesmo instrumento para garantir a autoridade das decisões do tribunal.
+A controvérsia é delimitada: deve-se definir se a ressalva temporal estabelecida no HC 232.627/DF preserva apenas os atos processuais praticados sob a orientação anterior ou se também estabiliza, para o futuro, a competência do juízo de primeiro grau.
+No julgamento do HC 232.627/DF, o Plenário assentou que “a prerrogativa de foro para julgamento de crimes praticados no cargo e em razão das funções subsiste mesmo após o afastamento do cargo, ainda que o inquérito ou a ação penal sejam iniciados depois de cessado seu exercício”. Determinou, ainda, “a aplicação imediata da nova interpretação aos processos em curso, ressalvados todos os atos praticados pelo STF e pelos demais Juízos com base na jurisprudência anterior”. A mesma orientação foi reafirmada na Questão de Ordem no Inq. 4.787.
+No caso, os fatos imputados à beneficiária teriam ocorrido em 2016, quando ela exercia o mandato de Prefeita, e consistiriam em suposto desvio de recursos públicos municipais, circunstâncias que evidenciam, em tese, a contemporaneidade e a pertinência funcional exigidas pela orientação do Plenário (eDOC 3, p. 3). O próprio acórdão reclamado registra que a prerrogativa atribuída à ex-Prefeita atraía o outro denunciado, Vicente de Paula (eDOC 3, p. 8).
+Há, portanto, correspondência material entre o caso concreto e a decisão cuja autoridade se busca garantir.
+A maioria da Quarta Câmara Criminal, todavia, concluiu:
+
+“É preciso destacar, ainda, que a citada decisão do STF (HC nº 232.627/DF), além de não ter modulado os efeitos do novo entendimento, não possui efeito vinculante, eis que não fora submetida ao rito de repercussão geral.
+Diante disso, em estrita observância aos princípios constitucionais da segurança jurídica e da estabilidade das decisões judiciais, a remessa do processo à instância de origem se mostra necessária” (eDOC 3, p. 8).
+
+Esse entendimento não pode prevalecer.
+A solução da presente reclamação não depende de atribuir, em abstrato, eficácia vinculante a toda decisão proferida em habeas corpus. Trata-se, aqui, de assegurar a autoridade do comando específico firmado pelo Plenário no HC 232.627/DF e reiterado na Questão de Ordem no Inq. 4.787, que determinou expressamente a aplicação imediata da nova orientação aos processos em curso.
+A ressalva relativa aos atos praticados com base na jurisprudência anterior protege o iter processual já percorrido — como o recebimento da denúncia, as decisões regularmente proferidas e os atos instrutórios —, evitando repetição inútil e preservando a economia processual. Ela não perpetua, contudo, uma definição de competência incompatível com a orientação superveniente. Interpretação diversa esvaziaria a determinação de aplicação imediata aos processos ainda em tramitação.
+A segurança jurídica é preservada pela conjugação de duas providências: o reconhecimento da competência atual do TJMG e a manutenção da validade dos atos processuais anteriormente praticados. Por isso, não se exige a repetição, a ratificação ou a convalidação desses atos.
+Ante o exposto, julgo procedente a reclamação para cassar o acórdão proferido pela Quarta Câmara Criminal do Tribunal de Justiça do Estado de Minas Gerais na Ação Penal n. 1.0000.26.113178-3/000 e assentar a competência daquela Corte para o processamento e julgamento do feito, preservados os atos processuais já praticados e decisões judiciais já proferidas, nos termos do HC 232.627/DF.
+Comunique-se.
+Publique-se.
+Brasília, 14 de julho de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
