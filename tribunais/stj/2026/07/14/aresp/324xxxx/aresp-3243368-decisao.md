@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por CESAR DA CA S, em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado do Paraná, cuja ementa é a seguinte (e-STJ fls. 698):
+DIREITO PENAL. APELAÇÃO CRIMINAL. POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO (ART. 12, CAPUT, DA LEI Nº 10.826/03). SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA. PLEITO DE EXCLUSÃO DO MONITORAMENTO ELETRÔNICO DENTRE AS CONDIÇÕES ESTIPULADAS COMO CONDIÇÃO DO REGIME SEMIABERTO HARMONIZADO. APELO PREJUDICADO. SENTENÇA QUE DEVE SER ANULADA NESTA PARTE, DE OFÍCIO, PARA EXCLUIR A CONCESSÃO DO REGIME SEMIABERTO HARMONIZADO AO ACUSADO, CONSIDERANDO QUE A COMPETÊNCIA É DO JUÍZO DA EXECUÇÃO. ALTERAÇÃO, EX OFFICIO, DA PENA DE MULTA ESTIPULADA EM OBSERVÂNCIA DO PRINCÍPIO DA PROPORCIONALIDADE. RECURSO PREJUDICADO, COM EXCLUSÃO, EX OFFICIO, DA HARMONIZAÇÃO DO REGIME SEMIABERTO E, REDIMENCIONAMENTO, EX OFFICIO, DA PENA DE MULTA.
+Interpostos embargos de declaração, esses foram rejeitados (e-STJ fls. 748/751).
+Nas razões do recurso especial (e-STJ fls. 764/769), fundado na alínea "a" do permissivo constitucional, alega a parte recorrente violação do artigo 386, inciso III, do CPP e do artigo 12 da Lei nº 10.826/03. Sustenta a absolvição do acusado, tendo em vista a ausência de tipicidade material da conduta.
+Aduz que, no caso concreto, a afronta à lei federal evidencia-se de forma inequívoca, pois o Tribunal de origem manteve a condenação mesmo diante de circunstâncias fáticas incontroversas que afastam o desvalor material da conduta, quais sejam: a arma apreendida era antiga e de inequívoca origem familiar, transmitida do avô ao pai do Recorrente; o artefato permanecia guardado há vários anos no interior da residência, sem qualquer circulação externa; havia apenas uma única munição, jamais utilizada; não houve porte, uso, ameaça, exibição ou emprego do objeto para qualquer finalidade ilícita; não se verificou qualquer risco concreto à segurança pública ou à incolumidade coletiva (e-STJ fls. 767).
+Apresentadas contrarrazões (e-STJ fls. 779/781), o Tribunal a quo não admitiu o recurso especial (e-STJ fls. 785/786), tendo sido interposto o presente agravo (e-STJ fls. 797/802).
+O Ministério Público Federal, instado a se manifestar, opinou pelo não provimento do agravo (e-STJ fls. 837/838).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+No caso em exame, a única insurgência deduzida pela defesa em sede de apelação restringiu-se à ilegalidade da imposição de monitoramento eletrônico para o cumprimento da pena, não tendo sido suscitada, perante as instâncias ordinárias, qualquer controvérsia acerca da atipicidade material da conduta.
+Desse modo, a referida questão não foi objeto de debate pela instância ordinária, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento. Incidem ao caso as Súmulas n. 211/STJ e 282/STF.
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea a, parte final, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se
+EMENTA
