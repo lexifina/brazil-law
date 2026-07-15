@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de petição apresentada por ALAZE GABRIEL DO BREVIÁRIO nos autos do habeas corpus impetrado contra ato do Tribunal de Justiça do Estado de São Paulo nos autos do HC n. 2083885-67.2026.8.26.0000.
+Depreende-se da petição que o impetrante/paciente ajuizou queixa-crime pela suposta prática de crimes contra a honra, mas a inicial foi rejeitada pelo juízo de primeiro grau. O impetrante noticia que atendeu à notificação do Ministério Público e fez adequações formais à petição. Contudo, os documentos não teriam sido juntados e a rejeição da peça inaugural foi mantida pelo Tribunal de Justiça permitindo, com isso que os crimes contra a honra do paciente que geram graves danos materiais e reputacionais diários (e-STJ, fl.2022) se perpetuem.
+Requer, ao final, a concessão da ordem para que seja determinada a reabertura do feito criminal, com a juntada das provas.
+É o relatório. Decido.
+A impetração não reúne condições de prosseguir.
+Ainda que tenham sido juntados novos documentos à petição inicial deste habeas corpus, as alegações do impetrante continuam não evidenciando situação concreta que demonstre risco concreto à liberdade de locomoção do paciente de modo a autorizar a concessão da ordem nos termos pleiteados.
+Ao que se pode depreender das razões apresentadas pelo impetrante, a pretensão é no sentido de reformar a decisão que rejeitou a queixa-crime por ele ajuizada. A decisão encerrou o processo pois a petição apresentada pela advogada constituída pelo autor (fls. 2802-2831) mistura diversas questões, a maioria delas não relacionadas a este processo ou ao estágio processual em que este se encontra (e-STJ, fl. 2183).
+A Constituição Federal dispõe que o habeas corpus se destina a tutelar a liberdade de locomoção por ilegalidade ou abuso de poder. Trata-se, portanto, de ação mandamental voltada especificamente para a tutela da liberdade de locomoção, não se prestando a amparar pretensão não relacionada a hipóteses em que haja risco de constrição ou mesmo efetiva limitação à liberdade ambulatorial do paciente.
+Ausente, portanto, risco concreto à liberdade de locomoção, requisito essencial ao habeas corpus, independentemente de quaisquer questões de fundo, cujo exame deve ser feito na via judicial adequada, mostra-se inviável o emprego da ação mandamental para discutir a matéria aqui ventilada.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. NÃO INDICAÇÃO DE RESTRIÇÃO OBJETIVA E ATUAL AO JUS AMBULANDI. REMÉDIO HEROICO: VIA PROCESSUAL DESTINADA A TUTELAR APENAS IMEDIATO CONSTRANGIMENTO ILEGAL AO DIREITO DE LIBERDADE. IMPROPRIEDADE ABSOLUTA DA IMPETRAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na hipótese, em razão do cancelamento da execução provisória da pena privativa de liberdade imposta ao Agravante, as instâncias ordinárias entenderam não haver a necessidade imediata de se analisar os pedidos pendentes de remição feitos pelo Agravante antes de sua soltura, até mesmo porque sequer se tem certeza sobre a sua condenação, já que a ação penal ainda não transitou em julgado.
+Dessa forma, não há como se afirmar, no momento, que o Agravante ficará mais tempo no regime semiaberto do que o necessário, caso os dias remidos pleiteados não sejam desde já homologados pelo Juízo das Execuções Criminais.
+2. Impugnou-se a mera possibilidade de constrangimento, sem que houvesse elementos categóricos demonstrativos de que a suposta ameaça ao direito ambulatorial materializar-se-ia. Ocorre que "o habeas corpus preventivo tem cabimento quando, de fato, houver ameaça à liberdade de locomoção, isto é, sempre que fundado for o receio de o paciente ser preso ilegalmente  e  tal receio haverá de resultar de ameaça concreta de iminente prisão" (STJ, AgRg no HC 84.246/RS, Rel. Ministro NILSON NAVES, SEXTA TURMA, DJ 19/12/2007).
+3. A ameaça de constrangimento ao jus libertatis a que se refere a garantia prevista no rol dos direitos fundamentais (art. 5.º, inciso LXVIII, da Constituição da República) há de se constituir objetivamente, de forma iminente e plausível, e não hipoteticamente, como no caso dos autos.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 674.143/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 3/8/2021, DJe de 18/8/2021.)
+Diante do exposto, não conheço deste pedido.
+Publique-se.
+EMENTA
