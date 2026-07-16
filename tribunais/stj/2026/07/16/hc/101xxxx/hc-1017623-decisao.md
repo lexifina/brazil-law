@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ADEOMIR DE OLIVEIRA BRANDÃO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL.
+Consta dos autos que o paciente foi condenado às penas de 7 anos, 4 meses e 20 dias de reclusão em regime inicial semiaberto e do pagamento de 77 dias-multa, como incurso no art. 157, § 2º, I e II, do Código Penal.
+A defesa alega que houve nulidade absoluta na audiência de instrução de 10/9/2009, realizada sem a presença do paciente e sem nomeação de defensor, violando o contraditório e a ampla defesa, com ofensa aos arts. 5º, LV, da Constituição Federal; 3º, 212, 396, 399, 400 e 564 do Código de Processo Penal e da Súmula n. 523 do STF.
+Afirma que a instrução prosseguiu sem reabertura para reinquirição das testemunhas, apesar de pedido ministerial de desmembramento para evitar nulidades, inicialmente acolhido e depois reconsiderado pelo Juízo de origem.
+Assevera que a condenação do paciente se apoiou exclusivamente em elementos informativos do inquérito não reproduzidos em Juízo, em afronta ao art. 155, caput, do CPP, o que impõe absolvição em habeas corpus, nos termos do art. 648, I, do CPP, à luz da jurisprudência desta Corte Superior.
+Defende que, subsidiariamente, deve ser reconhecida a participação dolosamente distinta (art. 29, § 2º, do CP), com desclassificação da conduta para o crime de furto de semoventes (art. 155, § 6º, do CP), diante do papel de motorista após a separação das reses e sem envolvimento com a violência empregada.
+Entende que estão presentes fumus boni iuris e periculum in mora, pois há trânsito em julgado, guia expedida e risco iminente de início do cumprimento de pena em regime fechado, devendo ser suspenso o curso da ação penal e da execução até o julgamento do writ.
+Requer, liminarmente, a suspensão do curso da ação penal e da execução, com salvo-conduto. E, no mérito, postula a anulação do processo desde a audiência viciada; ou, subsidiariamente, a absolvição; ou, ainda, a desclassificação da conduta com redimensionamento da pena.
+A liminar foi indeferida às fls. 1.695-1.696, e as informações foram prestadas às fls. 1.698-1.713.
+O Ministério Público Federal, por meio do parecer de fls. 1.720-1.730, opinou pela denegação da ordem.
+É o relatório.
+É firme no Superior Tribunal de Justiça a compreensão de que o habeas corpus não pode ser utilizado como substitutivo do recurso legalmente previsto.
+No caso, apreciado pela instância de origem o pedido de revisão criminal, a impugnação deve ser feita por meio de recurso especial, nos termos previstos no art. 105, III, da Constituição Federal, por se tratar de "causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios".
+Nesse sentido: AgRg no HC n. 1.042.849/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/11/2025, DJEN de 12/11/2025; AgRg no HC n. 1.015.569/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 24/9/2025, DJEN de 30/9/2025; e HC n. 988.028/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/5/2025, DJEN de 21/5/2025.
+Por isso, e observado o princípio da unirrecorribilidade, a impetração é substitutiva de recurso próprio, razão pela qual do habeas corpus não se pode conhecer.
+Deve-se registrar, em acréscimo, que, nas hipóteses em que a instância de origem não conhece do pedido revisional, por entender não caracterizada alguma das previsões contidas no art. 621 do Código de Processo Penal, a irresignação quanto a tal conclusão - cabível no recurso especial, como esclarecido - depende da demonstração de aplicação incorreta do referido dispositivo da lei processual.
+Com efeito, a jurisprudência deste Superior Tribunal não admite a utilização da revisão criminal como nova oportunidade de interpor apelação, reabrindo-se a rediscussão de questões já acobertadas pela coisa julgada, sendo indispensável a demonstração de cabimento do pedido revisional. Nesse sentido: HC n. 988.028/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/5/2025, DJEN de 21/5/2025; e HC n. 970.713/BA, de minha Relatoria, Sexta Turma, julgado em 3/9/2025, DJEN de 9/9/2025.
+Por fim, em atenção à previsão do art. 647-A do CPP, observo que não há flagrante ilegalidade que possa autorizar a concessão da ordem de ofício, especialmente diante do registro feito no acórdão impugnado, no sentido de que o paciente e os corréus estiveram devidamente representados em todos os atos da ação penal, e que a arguição da deficiência de defesa em revisão criminal constitui nulidade de algibeira.
+Em suma, nada modificando a conclusão pela impossibilidade de conhecimento do writ, conforme entendimento consolidado.
+Ante o exposto, nos termos do art. 210 do RISTJ, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
