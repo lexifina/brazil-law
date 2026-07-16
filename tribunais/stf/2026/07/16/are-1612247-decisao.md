@@ -1,0 +1,74 @@
+DECISÃO
+
+O Município de Calumbi - PE interpusera, inicialmente, com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, recurso extraordinário (eDoc 24) contra acórdão do Tribunal de Justiça do Estado de Pernambuco, cuja ementa se encontra assim redigida (eDoc 16):
+
+EMENTA: CONSTITUCIONAL E ADMINISTRATIVO. AÇÃO DE OBRIGAÇÃO DE FAZER. CALUMBI. SERVIDORA MUNICIPAL DE CALUMBI. PREJUDICIAL DE PRESCRIÇÃO E PRELIMINARES DE CERCEAMENTO DO DIREITO DE DEFESA, IMPUGNAÇÃO À JUSTIÇA GRATUITA E DE AUSÊNCIA DE DOCUMENTOS ESSENCIAIS. REJEIÇÃO. DIREITO AO ADICIONAL POR TEMPO DE SERVICO (QUINQUÊNIO). PREVISÃO NA LEI ORGÂNICA DO MUNICÍPIO. EXTINÇÃO EM 07/11/2019. LEI MUNICIPAL Nº 664/2019. REEXAME NECESSÁRIO IMPROVIDO. APELO VOLUNTÁRIO PREJUDICADO. DECISÃO UNÂNIME. 1. Prejudicial de prescrição afastada, posto a violação ao direito pleiteado se renovar a cada mês, sendo, neste caso, a prescrição de trato sucessivo (Súmula 85 do STJ) e não do fundo do direito. 2. Preliminar de cerceamento do direito de defesa rejeitada, uma vez que não há que se falar Cerceamento do Direito de Defesa da Apelante, posto o Juízo singular ter firmado seu convencimento sobre os aspectos decisivos do litígio sem a necessidade de dilação probatória. 3. Preliminar de impugnação à concessão de justiça gratuita não acolhida, porquanto é cediço que o beneficio da gratuidade judicial deve ser deferido com a simples alegação do requerente de não possuir condições de arcar com os ônus financeiros do processo sem prejuízo próprio ou de sua família, conforme disposição dos arts. 98, §3º e 99, §3º, do CPC/15; inexistindo prova em contrário. 4. Preliminar de ausência de documentos essenciais afastada, pois a Autora, juntou TODOS os documentos necessários a propositura da presente demanda, conforme art. 319, do CPC/15, sendo possível, ademais, consultar o teor da Lei Orgânica do Município de Calumbi na página eletrônica da Câmara Municipal. 5. MÉRITO. Cinge-se a controvérsia em averiguar se a apelada, servidora do Município de Calumbi, fazem jus ao recebimento do Adicional por Tempo de Serviço. 6. Da análise dos autos, infere-se que o Adicional por Tempo de Serviço estava previsto expressamente no art. 85, §2º, XX, da Lei Orgânica do Município, publicada em 20/03/1990. Contudo, em 07/11/2019, o Município de Calumbi editou a Lei nº 664/2019, vedando, em seu art. 3º, a concessão da gratificação por tempo de serviço. Portanto, faram jus a percepção do adicional do por tempo de serviço, os servidores municipais que completarem o requisito temporal até 07/11/2019. 7. Destaca-se não desconhecer este Colegiado do Tema 223/STF, o qual declarou a impossibilidade de leis orgânicas normatizarem direitos dos servidores públicos municipais por afronta a iniciativa do Chefe do Poder Executivo. Todavia, a norma embaçadora do direito almejado sequer foi objeto de Ação Declaratória de Inconstitucionalidade, vigente, portanto, até 07/11/2019, a previsão em lume. 8. Ademais, nas declarações de inconstitucionalidade em casos semelhantes, o E. Órgão Especial deste Sodalício tem modulado seus efeitos para atribuir eficácia prospectiva (ex nunc) à ditas declarações, restando fixado como marco inicial o trânsito em julgado dos acórdãos proferidos. 9. Admitida a Apelada no cargo de Auxiliar de Serviços Gerais em 17/05/1995, até a edição da Lei Municipal nº 664/2019, a Sra. Edineide Pereira de Lima completou tempo suficiente para percepção de 04 (quatro) quinquênios (1995-2000, 2000-2005, 2005-2010, 2010-2015), os quais devem ser incorporados aos proventos da Recorrida e devidamente adimplidos, respeitada, contudo, a prescrição quinquenal. Ressalte-se que a aquisição do 5º (quinto) quinquênio só se daria em 17/05/2020, data posterior à edição da Lei Municipal n.º 664/2019, de 07/11/2019. 10. Reexame necessário improvido, mantendo a sentença de procedência do pedido autoral, a qual determinou que o Município de Calumbi “a) INCORPORE as “gratificações adicional por tempo de serviço" (quinquênios) que a parte autora faz jus, observando o seu tempo de serviço e a data limite de 06 de novembro de 2019 (dia anterior à publicação da Lei Complementar Municipal nº 664 de 07 de novembro de 2019, calculadas no percentual de 5% sobre o vencimento do cargo, por quinquênio de efetivo exercício prestado ao Município” assim como efetue o pagamento das prestações vencidas, observada a prescrição quinquenal, com incidência de juros de mora de acordo com os Enunciados Administrativos nºs 8º, 11, 15 e 20 da Seção de Direito Público deste Sodalício. Condenado o Município de Belém de São Francisco ao pagamento de custas processuais e honorários advocatícios fixados em 10% sobre o valor da condenação. Prejudicado o Apelo Voluntário. Decisão unânime.
+
+Opostos embargos de declaração, foram rejeitados nestes termos (eDoc 20):
+
+EMENTA: PROCESSUAL CIVIL. PRELIMINAR DE INSTAURAÇÃO DE INCIDENTE DE RESOLUÇÃO DE DEMANDA REPETITIVA. NÃO CUMPRIMENTO DOS REQUISITOS DO ART. 974 DO CPC. IRDR INADMITIDO. PRELIMINAR REJEITADA. SERVIDORA MUNICIPAL DE CALUMBI. DIREITO AO ADICIONAL POR TEMPO DE SERVIÇO (QUINQUÊNIO). PREVISÃO NA LEI ORGÂNICA DO MUNICÍPIO. INEXISTÊNCIA DAS OMISSOES E CONTRADIÇÕES APONTADAS. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS. DECISÃO UNANIME. 1. Busca o embargante a uniformização da jurisprudência deste Sodalício mediante o disposto no art. 976 do CPC. Ocorre que, de acordo com a citada normativa, o requisito de admissibilidade para instauração de Incidente de Resolução de Demanda Repetitiva a demonstração de existência de “efetiva repetição de processos que contenham controvérsia sobre a mesma questão unicamente de direito” e “risco de ofensa à isonomia e à segurança jurídica”. 2. In casu, não houve o preenchimento dos requisitos legais, pois o recorrente limitou-se a colacionar 4 (quatro) julgados, sendo um da 1ª Câmara de Direito Público, o segundo referente à Arguição Incidental de Inconstitucionalidade e os dois últimos da lavra do mesmo Relator. 3. Dessa maneira, não se pode dizer que ha efetiva repetição de processos com a mesma controvérsia e risco à isonomia. 4. Ademais, o acórdão vergastado explicitamente consignou que “nas declarações de inconstitucionalidade em casos semelhantes, o E Órgão Especial deste Sodalício tem modulado seus efeitos para atribuir eficácia prospectiva (ex nunc) as ditas declarações, restando fixado como marco inicial o trânsito em julgado dos acórdãos proferidos”. 5. Preliminar rejeitada, inadmitindo a instauração do IRDR. 6. Mérito. Alega o embargante ser o acórdão contraditório quanto ao ônus da prova do direito perseguido, assim como aponta omissão no tocante à alegação de inconstitucionalidade do art. 85, § 2º, XXI, da Lei Orgânica Municipal, ensejando violação ao Tema nº 223/STF. 7. Ademais, o próprio art. 373, II, do CPC preceitua o dever do réu de provar a existência de fato impeditivo, modificativo ou extintivo do direito do autor. 8. Consta manifestação expressa no acórdão combatido, refutando as alegações da parte embargante, não havendo qualquer omissão, contradição, obscuridade ou erro material a ser sanado e a justificar a interposição do recurso previsto no art. 1.022 do CPC. 9. Inviabilidade de rediscussão do mérito em sede de aclaratórios. 10. Embargos de Declaração rejeitados à unanimidade.
+
+Nas razões do extraordinário, o recorrente alegou violação ao art. 61, § 1º, inciso II, alíneas “a” e “c”, da Constituição da República, bem como contrariedade à tese fixada no Tema 223 da Repercussão Geral. Para melhor compreensão dos argumentos encampados na peça recursal, transcrevem-se os seguintes trechos (eDoc 24, fls. 14, 15 e 16):
+
+[...]
+Como cediço, a presente demanda foi proposta no sentido de ser concedida e implementada as verbas de quinquênio (adicional de tempo de serviço) com base no art. 85, § 2º, da Lei Orgânica do Município, que assim dispõe:
+[...]
+Ocorre que o referido dispositivo padece de INCONSTITUCIONALIDADE FORMAL, em virtude da usurpação de competência para a iniciativa de projetos de lei que disponham sobre servidores públicos, conforme demanda o art. 61 da Constituição Federal.
+[...]
+Essa regra é aplicada também no âmbito estadual e municipal, por força do Princípio da Simetria, tendo em vista o dever de as demais esferas observarem, em linhas gerais, o mesmo modelo imposto pela Constituição Federal, a fim de manter a harmonia e a independência entre os poderes.
+[...]
+Trata-se exatamente do caso em apreço, uma vez que a Lei Orgânica do Município de Calumbi, em seu art. 85, § 2º, XXI III, prevê direito à percepção de quinquênio pelos servidores municipais, sendo flagrante, assim, a inconstitucionalidade do dispositivo por usurpação da iniciativa privativa do Chefe do Poder Executivo.
+[...]
+E assim sendo, inexistindo lei de autoria do chefe do executivo municipal que regule a matéria, resta patente a INCONSTITUCIONALIDADE FORMAL DO ART. 85, § 2º, XXI DA LEI ORGÂNICA DO MUNICÍPIO DE CALUMBI e por este motivo, resta caracterizada a violação do art. 61, § 1º, II, “c”, da CF/88, restando configurada a sua violação, bem como, do referido Tema 223 do STF.
+[...]
+
+Por entender como incidente na espécie o óbice do enunciado n. 280 da Súmula do Supremo Tribunal Federal, o 2º Vice-Presidente do Tribunal de Justiça do Estado de Pernambuco inadmitiu o apelo extremo. Da aludida decisão colhe-se o excerto a seguir (eDoc 33, fl. 4):
+
+[...]
+Conforme o acórdão recorrido, a lei municipal em questão não foi objeto de ação declaratória de inconstitucionalidade, até 07/11/2019, além do que foi fruto de iniciativa do chefe do poder executivo municipal. Assim sendo, é evidente que a hipótese dos autos diverge daquela objeto de julgamento pelo STF, razão pela qual não se aplica, na espécie, o Tema 223 suscitado pelo recorrente.
+Análise de direito local. Aplicação da Súmula 280 do Supremo Tribunal Federal (STF).
+Destaco, outrossim, a necessidade de análise de legislação local para alterar o entendimento firmado pela câmara julgadora, bem como analisar a pretensão da parte.
+Isto porque, o caso concreto fora solucionado a partir de interpretação conferida a normas locais, quais sejam, a lei municipal n. 664/2019 e a Lei Orgânica do município de Calumbi.
+[...]
+
+Irresignado com a decisão de inadmissibilidade, o Município de Calumbi - PE interpôs agravo em recurso extraordinário (eDoc 36), nos termos do art. 1.042 do Código de Processo Civil. Os argumentos utilizados pelo agravante podem ser extraídos dos fragmentos reproduzidos abaixo (eDoc 36, fls. 12, 24 e 25):
+
+[...]
+Ocorre que, no caso em apreço, ao contrário do argumentado na decisão combatida, o direito invocado pelo Agravante não encontra guarida em norma local, mas sim, no entendimento das cortes superiores acerca do disposto nos art. 61, §1º, II, “c”, da CF/88 – que trata das competências legislativas constitucionalmente definidas, para todos os entes federativos (União, Estados e Municípios) – restando configurado a sua violação, in casu, conforme inteligência do Tema 223 do STF.
+Em outras palavras, não se trata de discussão atinente à interpretação de qualquer dispositivo da lei local Municipal (no caso, a lei Orgânica do Município de Calumbi) e sim, de aplicação da Lei EM VIOLAÇÃO AO ENTENDIMENTO CONSOLIDADO PELO SUPREMO TRIBUNAL FEDERAL POR MEIO DO TEMA 223, em exegese ao art. 61, §1º, II, “c”, da CF/88.
+[...]
+Deste modo, percebe-se que o cerne da controvérsia revolve-se à necessidade de DECLARAR A INCONSTITUCIONALIDADE DO ART. 85, § 2º, XXI, DA LEI ORGÂNICA DO MUNICÍPIO DE CALUMBI, por padecer o dispositivo que fundamentaria a concessão dos quinquênios pleiteados na ação em tela, de PATENTE INCONSTITUCIONALIDADE FORMAL, em virtude da usurpação de competência para a iniciativa de projetos de lei que disponham sobre servidores públicos, conforme demanda o art. 61 da Constituição Federal.
+Evidente, portanto, que o Recurso Excepcional em evidência jamais teve como objetivo debater a Lei orgânica municipal, mas sim, demonstrar que o Egrégio Tribunal a quo DECIDIU COM FUNDAMENTO EM NORMA INVÁLIDA, por vício de iniciativa – em ofensa ao disposto no art. 61, § 1º, II, “c”, da CF/88, restando configurada à violação a este dispositivo constitucional, bem como ao referido Tema 223 do STF, estas sim, OBJETO DE ANÁLISE DO RECURSO EXTRAORDINÁRIO INTERPOSTO.
+[...]
+
+Por fim, ascendeu a esta Corte o inconformismo do recorrente.
+
+É o relatório. Decido.
+
+Por meio do agravo interposto, o recorrente deveria ter impugnado o fundamento de que se valeu o 2º Vice-Presidente do Tribunal de Justiça do Estado de Pernambuco para inadmitir o apelo extremo.
+
+De tal ônus, todavia, não se desincumbiu o agravante. Ao contrário, quando intentou afastar a aplicação do enunciado n. 280 da Súmula, terminou por confirmá-la. A propósito, colho da peça de agravo o seguinte fragmento (eDoc 36, fl. 25):
+
+[...]
+Evidente, portanto, que o Recurso Excepcional em evidência jamais teve como objetivo debater a Lei orgânica municipal, mas sim, demonstrar que o Egrégio Tribunal a quo DECIDIU COM FUNDAMENTO EM NORMA INVÁLIDA, por vício de iniciativa – em ofensa ao disposto nos art. 61, §1º, II, “c”, da CF/88, restando configurada à violação a este dispositivo constitucional, bem como ao referido Tema 223 do STF, estas sim, OBJETO DE ANÁLISE DO RECURSO EXTRAORDINÁRIO INTERPOSTO”.
+[...]
+
+Diferentemente do que supõe o agravante, referido óbice do enunciado n. 280 da Súmula do Supremo Tribunal Federal não diz respeito aos recursos extraordinários, cujas razões se põem a combater a higidez de norma local.
+
+Reporta-se o aludido verbete sumular à impossibilidade de se rediscutir o teor de acórdão fundamentado em lei local, independentemente de sua compatibilidade com a Constituição Federal, bem porque cogitado juízo de validade não tem, em regra, cabimento na via estreita do extraordinário.
+
+Assim, ao registrar o acerto do Tribunal de origem quando inadmitiu o recurso extraordinário, consigno que, no presente feito, incide também o óbice do enunciado n. 287 da Súmula do Supremo Tribunal Federal, ensejando-se a negativa de provimento ao agravo.
+
+Diante do exposto, nego provimento ao agravo em recurso extraordinário.
+
+Advirto que o manejo de recurso manifestamente inadmissível, improcedente ou protelatório causa embaraço à tramitação dos feitos, sendo incompatível com o dever de boa-fé processual (CPC, art. 5º). Tal circunstância, inclusive, para além de autorizar, recomenda ao Poder Judiciário a aplicação de multa, nos termos dos arts. 1.021, § 4º, e 1.026, §§ 2º e 3º, ambos do Código de Processo Civil.
+
+Por fim, com fundamento no § 11 do art. 85 do Código de Processo Civil, majoro em 10% (dez por cento) a verba honorária fixada pelas instâncias de origem, observados os limites previstos nos §§ 2º e 3º.
+
+Publique-se.
+
+Brasília, 16 de julho de 2026.
+
+Ministro NUNES MARQUES
+Relator
+Documento assinado digitalmente
