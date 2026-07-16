@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de GUILHERME LUIZ MOREIRA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SANTA CATARINA (Apelação criminal n. 5065517-80.2022.8.24.0023/SC).
+Consta dos autos que o paciente foi condenado às penas de 5 anos de reclusão em regime semiaberto e de 500 dias-multa, como incurso nas sanções do art. 33, caput, da Lei n. 11.343/2006.
+A impetrante sustenta que a condenação por tráfico carece de fundamentação concreta, pois a quantidade de droga é ínfima  6,8 g de cocaína  e não revela, por si, destinação comercial.
+Alega que o fracionamento em 12 porções e a apreensão de R$ 151,00 não evidenciam comércio, podendo compatibilizar-se com posse para uso, e que a abordagem ocorreu sem elementos objetivos prévios.
+Assevera que a suposta fuga ao avistar a viatura não constitui indício válido de tráfico, por ser circunstância subjetiva que também pode ocorrer com usuários.
+Afirma que eventual confissão informal não é apta a sustentar a condenação, por ausência de formalização e garantias legais, sendo inadmissível sua utilização como prova.
+Defende que há precedentes deste Superior Tribunal que, em hipóteses similares de pequena quantidade e ausência de elementos robustos, determinam a desclassificação para o art. 28 da Lei de Drogas.
+Entende que, subsidiariamente, incide a causa especial de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, pois o paciente é primário, sem antecedentes e não integra organização criminosa.
+Pondera que o afastamento do redutor com base em condenação por fato posterior viola a legalidade e a previsibilidade da resposta penal, além de contrariar a orientação deste Superior Tribunal.
+Relata, ainda, razões para o conhecimento do habeas corpus substitutivo e, não o sendo, requer a concessão de ofício, em tutela da liberdade.
+Requer, em suma, a desclassificação da conduta e a absolvição; subsidiariamente, busca o redimensionamento da pena com aplicação do redutor do art. 33, § 4º, da Lei n. 11.343/2006, a alteração do regime para aberto e a substituição da sanção por restritivas de direitos.
+O Ministério Público Federal opina pela concessão parcial da ordem de habeas corpus para que seja reconhecida minorante do tráfico privilegiado (fls. 545).
+É o relatório.
+Inicialmente, insta consignar que o Superior Tribunal de Justiça firmou compreensão de que o habeas corpus não pode ser utilizado como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração quando assim manejado.
+Observem-se, a respeito: AgRg no HC n. 943.146/MG, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 22/10/2024; AgRg no HC n. 874.713/SP, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 20/8/2024; AgRg no HC n. 749.702/SP, Sexta Turma, relator Ministro Antonio Saldanha Palheiro, DJe de 29/2/2024; AgRg no HC n. 912.662/SP, Sexta Turma, relator Ministro Sebastião Reis Júnior, DJe de 27/6/2024.
+Ademais, a propósito do disposto no art. 647-A do CPP, verifica-se que o acórdão impugnado possui ilegalidade flagrante que permita a concessão da ordem de ofício, conforme analisado a seguir.
+A impetração merece acolhimento quanto ao pedido de incidência da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Verifica-se que o acórdão impugnado amparou-se nos seguintes fundamentos para afastar o benefício (fls. 467-468):
+Sobre a aplicação da causa especial de diminuição do tráfico privilegiado, o art. 33, § 4º, da Lei n. 11.343/06 dispõe, in verbis: "§ 4º Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa".
+ ..
+Da leitura do dispositivo, retira-se que a aplicação do redutor deve ser afastada sempre que o agente não atenda a pelo menos um dos requisitos acima referidos. Logo, estamos diante de requisitos cumulativos.
+ ..
+Dito isso, em que pese o insurgente ser tecnicamente primário, extrai-se dos autos que possui contra si condenação pelo crime de extorsão mediante sequestro (art. 158, § 1º, do CP), praticado em data posterior aos fatos desta ação penal (evento 96, CERTANTCRIM1), de modo que se torna incabível a aplicação do redutor por ficar evidenciado sua dedicação às atividades criminosas, logo, não preenche os requisitos legais.
+Conforme consta dos elementos trazidos à apreciação, as instâncias de origem afastaram o redutor especial sob o fundamento de que o paciente ostentaria condenação decorrente de fato posterior ao delito objeto destes autos, circunstância reputada suficiente para demonstrar dedicação a atividades criminosas.
+No entanto, nos termos da jurisprudência desta Corte Superior de Justiça , não é possível concluir pela dedicação a atividades criminosas e afastar o benefício legal unicamente com base em inquéritos ou ações penais em curso, sem condenação definitiva, nem mesmo em condenações transitadas em julgado relacionadas a fatos posteriores.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO. NATUREZA E NOCIVIDADE DA DROGA. INVIABILIDADE. MINORANTE. TRÁFICO PRIVILEGIADO. AFASTAMENTO EM RAZÃO DE AÇÕES PENAIS EM CURSO. FATOS POSTERIORES COM TRANSITADO EM JULGADO. IM POSSIBILIDADE. RECURSO NÃO PROVIDO.
+1. A teor do art. 42 da Lei 11.343/2006, a natureza e a quantidade da substância entorpecente são preponderantes sobre o previsto no art. 59 do CP e serão consideradas na fixação da pena.
+2. No caso, entretanto, o aumento efetuado na primeira fase dosimétrica está fundamentado somente na natureza e nocividade da droga (23,920g de crack; 4,970g de cocaína e 137,730g de maconha), o que não se revela fundamento idôneo, sobretudo, em razão da quantidade de entorpecentes não ser expressiva.
+3. No tocante ao reconhecimento do tráfico privilegiado, este Superior Tribunal de Justiça, por ocasião do julgamento dos Recursos Especiais n. 1.977.027/PR e 1.977.180/PR, realizado em 10/08/2022, sob o rito dos recursos especiais repetitivos (Tema 1.139), firmou entendimento segundo o qual "É vedada a utilização de inquéritos e/ou ações penais em curso para impedir a aplicação do art. 33, § 4.º, da Lei n. 11.343/06"
+4. "Inquéritos ou ações penais em curso, sem condenação definitiva, não constituem fundamentos idôneos para afastar ou modular a fração de diminuição de pena do tráfico privilegiado, sob pena de violação do princípio constitucional da presunção de inocência (RE n. 591.054/SC, submetido ao regime de repercussão geral). O mesmo entendimento se aplica às condenações transitadas em julgado relacionadas a fatos posteriores" (AgRg no REsp 1.891.998/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 14/6/2022, DJe de 17/6/2022).
+5. Agravo regimental não provido. (AgRg no AREsp n. 2.107.531/GO, Ministra Daniela Teixeira, Quinta Turma, DJe 22/3/2024, grifo nosso).
+Assim, não há motivos idôneos para o não reconhecimento da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus, mas, de ofício, concedo a ordem para reconhecer a incidência da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006 no patamar de 2/3, fixando a pena em 1 ano e 8 meses de reclusão em regime aberto e determinando ao Tribunal de origem que faça a substituição da pena corporal por duas penas restritivas de direitos.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
