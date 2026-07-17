@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de Habeas Corpus com pedido de liminar impetrado em favor de MICHEL ANDRE CAVASSANI, no qual se aponta como autoridade coatora Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL.
+Consta dos autos que o Desembargador Relator, na origem, deferiu o pedido liminar, em Medida Cautelar Inominada promovida pelo Ministério Público, para atribuir efeito suspensivo ao Agravo em Execução interposto contra decisão do Juízo da Execução que concedeu ao paciente saída antecipada ao regime semiaberto harmonizado, determinando-se o seu retorno ao regime prisional anteriormente fixado até o julgamento definitivo do recurso.
+A Defesa sustenta o cabimento excepcional do writ, afirmando que, embora haja regra de esgotamento da jurisdição, a intervenção seria admissível diante de flagrante ilegalidade e risco de dano irreversível, pois a decisão monocrática teria recrudescido imediatamente o regime prisional sem efeito suspensivo automático do Agravo Interno já interposto.
+Argumenta que a saída antecipada monitorada, em contexto de déficit de vagas, encontraria respaldo constitucional e jurisprudencial.
+Alega que faltaria indicação de fato concreto que justificasse o retorno ao regime mais gravoso, pois a decisão monocrática teria se limitado a mencionar indícios de comportamento incompatível com os deveres inerentes ao regime semiaberto, sem apontar fuga, rompimento de tornozeleira, violação de área, descumprimento de horário, nova infração ou qualquer ocorrência individualizada, em afronta ao dever constitucional de fundamentação.
+Ressalta que haveria periculum in mora inverso, na medida em que o paciente estaria submetido à monitoração eletrônica e às demais condições impostas, situação controlável e reversível, ao passo que o retorno ao regime mais severo acarretaria dano diário e irreparável caso o colegiado viesse a reformar a decisão monocrática, sendo proporcional manter o status monitorado até o julgamento do Agravo Interno.
+Destaca a existência de incongruência objetiva no dispositivo da liminar, porque, embora a cautelar ministerial e o Agravo em Execução atacassem a decisão do mov. 303.1, a ordem teria determinado a suspensão do mov. 190.1, reforçando a necessidade de sustação do cumprimento da medida até a apreciação colegiada ou esclarecimento do exato objeto suspenso.
+Requer, liminarmente, a suspensão dos efeitos da decisão monocrática proferida na Cautelar Inominada Criminal n. 1414368-14.2026.8.12.0000, exclusivamente quanto ao restabelecimento do regime prisional mais gravoso. No mérito, pugna pela concessão da ordem para que o paciente seja mantido, provisoriamente, no regime semiaberto harmonizado com monitoração eletrônica integral e todas as condições já impostas pelo Juízo da Execução, até o julgamento do Agravo Interno pelo órgão colegiado do Tribunal de origem.
+É o relatório.
+Decido.
+O writ não merece prosseguir.
+A decisão combatida foi proferida monocraticamente pelo Desembargador relator na origem. Não há, pois, deliberação colegiada sobre a matéria trazida na presente impetração, o que inviabiliza o seu conhecimento pelo Superior Tribunal de Justiça. Confira-se, a propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. AÇÃO CONSTITUCIONAL CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADOR RELATOR. INCOMPETÊNCIA DO STJ. IMPETRAÇÃO SUBSTITUTIVA DE REVISÃO CRIMINAL. CONDENAÇÃO TRANSITADA EM JULGADO. INADMISSIBILIDADE. INCOMPETÊNCIA DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+ ..  2. O habeas corpus investe contra decisão singular de Desembargador relator do Tribunal de origem, a qual não foi recorrida por agravo interno/regimental. Assim, ausente o exaurimento da instância ordinária, impõe-se o não conhecimento da ação mandamental, pois o Superior Tribunal de Justiça não é competente para processar e julgar writ sem o devido exaurimento da jurisdição na instância antecedente.
+ ..  4. Agravo regimental desprovido. (AgRg no HC n. 903.069/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024; grifos acrescidos.)
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente este Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
