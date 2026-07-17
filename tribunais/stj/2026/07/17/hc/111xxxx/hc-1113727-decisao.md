@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de Habeas Corpus com pedido de liminar impetrado em favor de ALLAN DE OLIVEIRA AMORIM e GUSTAVO DE OLIVEIRA AMORIM, no qual se aponta como autoridade coatora Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que, em 6/10/2025, os pacientes foram presos em flagrante pela suposta prática dos delitos previstos nos arts. 129, § 1º, II, e 345 do Código Penal, e no art. 4º da Lei n. 1.521/1951, tendo-lhes sido concedida liberdade provisória mediante fiança e medidas cautelares. Em 5/5/2026, foi decretada sua prisão preventiva no curso da Ação Penal pela suposta prática dos delitos previstos nos arts. 157, § 2º, II e VII, e 288, caput, do Código Penal, e no art. 4º, a, da Lei n. 1.524/1951.
+A Defesa sustenta que o fundamento central do decreto prisional  a suposta coação da vítima que teria motivado a alteração de sua versão  careceria de suporte fático, pois o ofendido teria formalmente se retratado em instrumento público notarial e, assistido por advogado, declarado nos autos não ter sido coagido, ameaçado, intimidado ou constrangido por qualquer dos acusados, inexistindo elementos concretos e reais de coação. A manutenção da custódia com base em tal hipótese contrariaria o art. 315, § 2º, II e III, do Código de Processo Penal.
+Argumenta que o não comparecimento mensal em juízo não poderia sustentar a prisão, porque os pacientes não teriam sido cientificados da integralidade das cautelares impostas na audiência de custódia, configurando falha de comunicação do ato e não descumprimento voluntário.
+Ressalta existir contradição objetiva entre a decisão monocrática impugnada na origem  que teria afirmado não ter havido decretação da preventiva por descumprimento de cautelar  e o teor literal do decreto prisional, que registraria expressamente o não comparecimento dos réus como razão de decidir, o que demandaria a incidência do regime jurídico do art. 282, § 4º, do Código de Processo Penal.
+Alega ausência de contemporaneidade e fundamentação idônea, porquanto, após a soltura, os pacientes teriam permanecido em liberdade por quase sete meses sem fatos novos concretos, e o decreto estaria apoiado apenas na gravidade dos delitos e em considerações genéricas sobre a ordem pública.
+Defende que, ainda que se entenda presente necessidade cautelar, seriam suficientes medidas diversas da prisão, como comparecimento periódico em juízo, proibição de contato com a vítima e seus familiares, recolhimento domiciliar noturno ou monitoração eletrônica, destacando que na audiência de custódia já se havia reconhecido a suficiência de cautelares não prisionais.
+Requer, assim, liminarmente e no mérito, a revogação da prisão cautelar, ainda que mediante a aplicação de medidas cautelares alternativas não prisionais.
+É o relatório.
+Decido.
+O writ não merece prosseguir.
+A decisão combatida foi proferida monocraticamente pelo Desembargador relator na origem. Não há, pois, deliberação colegiada sobre a matéria trazida na presente impetração, o que inviabiliza o seu conhecimento pelo Superior Tribunal de Justiça. Confira-se, a propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. AÇÃO CONSTITUCIONAL CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADOR RELATOR. INCOMPETÊNCIA DO STJ. IMPETRAÇÃO SUBSTITUTIVA DE REVISÃO CRIMINAL. CONDENAÇÃO TRANSITADA EM JULGADO. INADMISSIBILIDADE. INCOMPETÊNCIA DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+ ..  2. O habeas corpus investe contra decisão singular de Desembargador relator do Tribunal de origem, a qual não foi recorrida por agravo interno/regimental. Assim, ausente o exaurimento da instância ordinária, impõe-se o não conhecimento da ação mandamental, pois o Superior Tribunal de Justiça não é competente para processar e julgar writ sem o devido exaurimento da jurisdição na instância antecedente.
+ ..  4. Agravo regimental desprovido. (AgRg no HC n. 903.069/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024; grifos acrescidos.)
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente este Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
