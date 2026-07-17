@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em benefício de GABRIEL ALEXANDRE CÂNDIDO FERNANDES, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS no julgamento do Habeas Corpus n. 5370958-83.2026.8.09.0107.
+Extrai-se dos autos que não há notícia de condenação do paciente nem de pena aplicada.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, nos termos do acórdão que restou assim ementado (fls. 18/19):
+"EMENTA: DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRANCAMENTO DE INQUÉRITO POLICIAL. AUSÊNCIA DE JUSTA CAUSA. CRIME DE TRÁFICO DE DROGAS. DISCORDÂNCIA DO MINISTÉRIO PÚBLICO. TITULAR DA AÇÃO PENAL PÚBLICA. COMPLEMENTAÇÃO DE DILIGÊNCIAS. DENEGAÇÃO DA ORDEM.
+I. CASO EM EXAME
+1. Habeas Corpus impetrado em favor de paciente investigado pela suposta prática do crime de tráfico de drogas, buscando o trancamento do inquérito policial. O impetrante alega ausência de indícios mínimos de materialidade e autoria, apesar de apreendidas porções de substância análoga a maconha, sacos plásticos e dinheiro. A autoridade policial se manifestou pelo arquivamento, mas o Ministério Público discordou, requisitando complementação de diligências, laudo pericial definitivo.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se, mesmo com a manifestação policial pelo arquivamento, justifica o trancamento de inquérito policial por Habeas Corpus, quando o Ministério Público, titular da ação penal, discorda e requisita novas diligências.
+III. RAZÕES DE DECIDIR
+3. A discordância do Ministério Público com a manifestação policial pelo arquivamento não vincula o órgão ministerial, dada sua titularidade privativa da ação penal pública,
+4. O trancamento de inquérito policial pela via do Habeas Corpus é medida excepcionalíssima, cabível apenas diante de evidente atipicidade da conduta, inocência do paciente, ausência de indícios mínimos de materialidade e autoria ou extinção da punibilidade.
+5. A ausência dessas hipóteses, havendo diligências a serem cumpridas para a formação da opinio delicti do Ministério Público, não se justifica o trancamento do inquérito policial.
+IV. DISPOSITIVO E TESE
+6. Ordem denegada."
+No presente writ, a defesa sustenta a ausência de justa causa para a persecução penal, porque não foram colhidos indícios mínimos de autoria e materialidade do delito de tráfico de drogas, circunstância reconhecida pela própria autoridade policial no relatório final do inquérito.
+Assevera que o laudo pericial definitivo apenas confirmou a natureza da substância como Cannabis sativa L., sem inovar quanto à traficância, sendo a pequena quantidade apreendida compatível com a conduta prevista no art. 28 da Lei n. 11.343/2006.
+Argui grave falha na preservação da cadeia de custódia dos objetos apreendidos, notadamente dos aparelhos celulares, sem registro de lacre ou procedimentos de armazenamento e guarda, além da ausência de registros fotográficos dos materiais vinculados ao suposto tráfico.
+Alega incompletude da investigação, por se tratar de residência compartilhada com diversos moradores, sem a oitiva de todos os residentes, o que impede a individualização de conduta típica de traficância.
+Defende que a manutenção do inquérito, após manifestação policial pelo arquivamento por ausência de elementos mínimos, configura constrangimento ilegal, por estar fundada em suposições desprovidas de lastro empírico.
+Requer a concessão da ordem para determinar o imediato trancamento e arquivamento do Inquérito Policial n. 2506423065.
+Parecer do Ministério Público Federal pelo não conhecimento do habeas corpus substitutivo de recurso ordinário. (fls. 56/60).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Todavia, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+Fixada essa premissa, observo que o trancamento de inquérito policial por meio de habeas corpus constitui medida excepcional, somente admitida quando evidenciada, de plano, a atipicidade da conduta, a existência de causa extintiva da punibilidade ou a manifesta ausência de indícios de autoria ou de prova sobre a materialidade delitiva, circunstâncias que não se verificam na hipótese dos autos.
+No caso, as instâncias ordinárias concluíram que a materialidade indiciária da conduta atribuída ao paciente está amparada não apenas na apreensão de porções de substância confirmadamente análoga à maconha, mas também na existência de diversos sacos do tipo ziplock vazios e da quantia de R$ 1.630,00 em espécie, elementos que não podem ser de plano descartados como indicativos de mercancia, ainda que a defesa sustente tratar-se de posse para uso próprio.
+A definição da conduta como tráfico, na forma do art. 33 da Lei n. 11.343/2006, ou como porte para consumo pessoal, nos termos do art. 28 do mesmo diploma, depende do exame do conjunto probatório - circunstâncias da apreensão, quantidade e forma de acondicionamento da droga, contexto do local e demais elementos de convicção - providência inviável na via estreita do habeas corpus, mercê da vedação ao revolvimento fático-probatório.
+Ademais, a discordância do Ministério Público quanto à promoção de arquivamento formulada pela autoridade policial não configura, por si só, constrangimento ilegal apto a justificar o trancamento do inquérito.
+O órgão ministerial é o titular privativo da ação penal pública, nos termos do art. 129, inciso I, da Constituição Federal, competindo-lhe, com exclusividade, avaliar a suficiência dos elementos de convicção reunidos na fase investigatória e requerer as diligências que reputar necessárias à formação da opinio delicti, entre as quais se insere a juntada de laudo pericial definitivo sobre a substância apreendida.
+Também não prospera o argumento de que o laudo já acostado nada teria acrescentado à investigação: a circunstância de o exame pericial ter se limitado a identificar a natureza da substância, sem proceder à pesagem do material, não afasta a legitimidade da diligência requerida pelo Parquet, tampouco autoriza concluir, desde logo, pela atipicidade da conduta ou pela ausência de justa causa para a persecução penal.
+Quanto às alegações relativas a eventual falha na cadeia de custódia dos aparelhos celulares apreendidos e à ausência de oitiva de todos os moradores do imóvel, tais matérias não foram objeto de exame pelo Tribunal de origem, o que atrai, na espécie, a vedação à supressão de instância, além de demandarem, igualmente, dilação probatória incompatível com o rito do habeas corpus.
+Por fim, cumpre observar que o inquérito policial sequer foi concluído, remanescendo pendente a análise, pela autoridade policial e pelo Ministério Público, dos elementos coligidos após a juntada do laudo pericial definitivo, de modo que o trancamento da investigação, nesta fase, revelar-se-ia providência prematura.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS.  ..  TRANCAMENTO DA AÇÃO PENAL.  ..  VIA ESTREITA DO HABEAS CORPUS.  ..  1. Conforme entendimento desta Corte Superior, o trancamento do feito em habeas corpus é medida excepcional, apenas admissível quando evidenciada, de modo claro e imediato, a atipicidade da conduta, a ausência absoluta de prova da materialidade e de indícios de autoria ou a existência de causa extintiva da punibilidade. (AgRg no RHC 231583 / SP, Relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 11/06/2026, D Je 16/06/2026).
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS.  ..  TRANCAMENTO DA AÇÃO PENAL. IMPOSSIBILIDADE. ATIPICIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.  ..  4. As teses defensivas voltadas à atipicidade e à ausência de dolo específico demandam amplo revolvimento do conteúdo fático-probatório, providência incompatível com a presente via estreita do habeas corpus. (AgRg no RHC 230831 / MG, Relator Ministro OG FERNANDES, SEXTA TURMA, julgado em 11/06/2026, D Je 16/06/2026).
+Diante do exposto, não verificada flagrante ilegalidade apta a justificar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
