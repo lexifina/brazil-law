@@ -1,0 +1,80 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de MARCELLO HENRIQUE LOFFLER, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA no julgamento da Apelação Criminal n. 5019740-22.2025.8.24.0038/SC.
+Extrai-se dos autos que não há condenação imposta ao paciente. A peça acusatória pelo art. 28, caput, da Lei n. 11.343/2006, relativa ao porte para consumo pessoal de 2 porções de cocaína com massa bruta de 1,4 g, foi rejeitada em primeiro grau por atipicidade material, decisão posteriormente reformada pelo Tribunal de origem, que recebeu a denúncia e determinou o prosseguimento da ação penal.
+O Tribunal de origem deu provimento à apelação interposta pelo parquet estadual, para receber a denúncia e determinar o prosseguimento regular da ação penal. Confira-se a ementa do julgado (fl. 239):
+"APELAÇÃO CRIMINAL. INSURGÊNCIA CONTRA DECISÃO QUE REJEITOU A DENÚNCIA PELO CRIME DE POSSE DE DROGAS PARA USO PESSOAL (ART. 28 DA LEI N. 11.343/06) EM VIRTUDE DA ATIPICIDADE MATERIAL DA CONDUTA (ART. 395, INC. III, DO CÓDIGO DE PROCESSO PENAL). RECURSO DA ACUSAÇÃO.
+1. RECEBIMENTO DA INSURGÊNCIA COMO RECURSO EM SENTIDO ESTRITO. AUSÊNCIA DE ERRO GROSSEIRO OU MÁ-FÉ (ART. 579, CPP). APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. DETERMINAÇÃO DO JUÍZO PARA PROSSEGUIMENTO DO FEITO PELO RITO SUMÁRIO APENAS APÓS A INTERPOSIÇÃO DA INSURGÊNCIA.
+2. PRETENDIDO PROSSEGUIMENTO DA AÇÃO PENAL. ACOLHIMENTO. ENTENDIMENTO FIRMADO PELO SUPREMO TRIBUNAL FEDERAL, NO JULGAMENTO DO RECURSO EXTRAORDIÁRIO N. 635.359, SUBMETIDO À SISTEMÁTICA DE REPERCUSSÃO GERAL (TEMA 506/STF) QUE RESTRINGE-SE À SUBSTÂNCIA CANNABIS SATIVA (MACONHA). HIPÓTESE DOS AUTOS QUE ENVOLVE A POSSE DE PORÇÕES DE COCAÍNA. INAPLICABILIDADE DO PRINCÍPIO DA INSIGNIFICÂNCIA AO DELITO DE POSSE DE DROGAS PARA CONSUMO PESSOAL. CONDUTA TÍPICA. CRIME DE PERIGO ABSTRATO. SENTENÇA DESCONSTITUÍDA. DENÚNCIA RECEBIDA (SÚMULA 709/STF) RETORNO DOS AUTOS À ORIGEM PARA O REGULAR PROCESSAMENTO.
+RECURSO CONHECIDO E PROVIDO."
+Posteriormente, não foram conhecidos os embargos opostos:
+"EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CRIMINAL. INSURGÊNCIA DA DEFESA. ALEGADA OMISSÃO EM VIRTUDE DA AUSÊNCIA DE PRONUNCIAMENTO ACERCA DA "COMPATIBILIDADE DA CRIMINALIZAÇÃO DO PORTE DE COCAÍNA PARA CONSUMO COM O DIREITO FUNDAMENTAL À INTIMIDADE E À VIDA PRIVADA PREVISTO NO ART. 5.º, X, DA CRFB/88". HIPÓTESES DO ART. 619 DO CPP NÃO OBSERVADAS. INDEVIDA INOVAÇÃO RECURSAL. INEXISTÊNCIA DE OBRIGAÇÃO DO RECONHECIMENTO, DE OFÍCIO, DE TESE NÃO DEBATIDA NAS PEÇAS RECURSAIS, EM ALUSÃO AO PRINCÍPIO DO TANTUM DEVOLUTUM QUANTUM APELLATUM. ADEMAIS, AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. TENTATIVA DE EXTENSÃO DOS EFEITOS DA DECISÃO DO STF NO TEMA N. 506 À ENTORPECENTES DIVERSOS QUE CONFIGURA INTERPRETAÇÃO ANALÓGICA INDEVIDA, VEDADA NO ÂMBITO PENAL. PRECEDENTES.
+EMBARGOS NÃO CONHECIDOS." (fls. 257)
+No presente writ, a defesa sustenta a inconstitucionalidade material do art. 28 da Lei n. 11.343/2006 em relação a todas as substâncias, inclusive a cocaína, com o reconhecimento da atipicidade do porte para consumo de 1,4 g e o restabelecimento da decisão que rejeitou a denúncia.
+Sustenta que os fundamentos que compõem a ratio decidendi do Tema 506 do Supremo Tribunal Federal  privacidade e intimidade, proporcionalidade e necessidade de políticas alternativas sem estigmatização do usuário  impõem, por isonomia e coerência, a extensão da orientação para abranger o porte de cocaína para uso pessoal.
+Assevera violação aos direitos fundamentais à dignidade humana, à liberdade individual e à intimidade e vida privada, por se tratar de conduta inserida na esfera de autonomia pessoal, incompatível com intervenção penal, à luz dos postulados da lesividade e da alteridade.
+Argui desproporcionalidade da criminalização do porte para consumo próprio, por não superar o teste de proporcionalidade (adequação, necessidade e proporcionalidade em sentido estrito), destacando a ineficácia da política proibicionista e a existência de medidas alternativas menos gravosas para tutela da saúde pública.
+Defende que o acórdão recorrido incorre em ilegalidade ao restringir indevidamente os efeitos do Tema 506 à maconha, quando a declaração de inconstitucionalidade do art. 28 da Lei n. 11.343/2006 foi proferida sem redução de texto, com razões gerais que afastam a punição penal de usuários de outras substâncias.
+Requer, em liminar e no mérito, a concessão da ordem para declarar a inconstitucionalidade do art. 28 da Lei n. 11.343/2006 em relação a todas as substâncias, inclusive a cocaína, reconhecer a atipicidade do porte para consumo de 1,4 g de cocaína e restabelecer a decisão que rejeitou a denúncia.
+Parecer do Ministério Público Federal pelo não conhecimento writ. Caso assim não se entenda, pela denegação da ordem (fls. 276/284).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Todavia, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+A defesa sustenta, em síntese, que os fundamentos que compõem a ratio decidendi do Tema 506 do Supremo Tribunal Federal - relativos à privacidade, à intimidade e à desproporcionalidade da criminalização do porte para consumo próprio - deveriam ser estendidos, por isonomia e coerência, a todas as substâncias entorpecentes, inclusive à cocaína, de modo a reconhecer a atipicidade material da conduta do paciente e restabelecer a rejeição da denúncia.
+Sem razão a impetrante.
+O julgamento do Recurso Extraordinário n. 635.659/SP, sob a sistemática da repercussão geral (Tema 506), restringiu-se, de forma expressa, à substância cannabis sativa, fixando parâmetros específicos para a descaracterização penal da conduta de porte para consumo pessoal exclusivamente quanto a essa substância. A tese não abrangeu, tampouco autorizou, a extensão de seus efeitos a outras drogas, como a cocaína, apreendida no caso concreto.
+Foi exatamente essa a compreensão adotada pelo Tribunal de origem ao julgar a apelação criminal ministerial, ao aplicar a técnica de distinção (distinguishing) entre o precedente vinculante e a hipótese dos autos, porquanto o paciente foi flagrado na posse de duas porções de cocaína, com massa bruta de 1,4g, circunstância que, à luz da fundamentação do acórdão recorrido, afasta a descriminalização pretendida (fls. 235/237).
+Registre-se que este Superior Tribunal de Justiça tem reconhecido que o Tema 506 aplica-se exclusivamente à maconha, não vinculando casos envolvendo outras substâncias, cuja tipicidade permanece hígida. A propósito:
+Neste sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. INCOMPETÊNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. INCABÍVEL REEXAME FÁTICO-PROBATÓRIO. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. O recurso. Agravo regimental contra decisão que não conheceu de habeas corpus impetrado em face de revisão criminal de condenação por tráfico de drogas transitada em julgado.
+2. Fato relevante. Condenação por infração ao art. 33, caput, c/c art. 40, III, da Lei nº 11.343/2006, em razão da apreensão de 25 g de cocaína no interior de cela prisional, acompanhada de sacos de picolé novos utilizados para acondicionamento e fracionamento da droga.
+3. As decisões anteriores. A ação revisional não foi conhecida pelo Tribunal estadual, mantendo-se a condenação.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se o habeas corpus, impetrado contra revisão criminal de condenação transitada em julgado, pode ser conhecido como via adequada.
+5. Há quatro questões em discussão: (i) saber se estão presentes os requisitos do art. 621 do Código de Processo Penal para admitir revisão criminal; (ii) saber se há teratologia ou coação ilegal apta a autorizar concessão de ordem de ofício, nos termos do § 2º do art. 654 do Código de Processo Penal; (iii) saber se o habeas corpus comporta revaloração jurídica sem revolvimento fático-probatório em hipótese de condenação por tráfico; e (iv) saber se inovação jurisprudencial posterior (Tema 506) pode desconstituir coisa julgada penal ou repercutir na tipicidade quando apreendida cocaína em ambiente prisional.
+III. RAZÕES DE DECIDIR
+6. O habeas corpus não se presta como sucedâneo de revisão criminal após o trânsito em julgado, sendo inviável utilizar a via mandamental para substituir o manejo da ação própria, à luz da competência definida na CF/1988, art. 105, I, e.
+7. Os requisitos do art. 621, incisos I a III, do Código de Processo Penal não foram demonstrados: inexistência de contrariedade ao texto expresso da lei penal ou à evidência dos autos; inexistência de falsidade de provas; e inexistência de provas novas de inocência ou de circunstância de diminuição especial da pena.
+8. Ausência de teratologia ou coação ilegal que autorize a concessão da ordem de ofício, nos termos do § 2º do art. 654 do Código de Processo Penal.
+9. É imprópria a via do habeas corpus para pretensões que demandem incursão no acervo fático-probatório, sendo inviável revisar a valoração de elementos materiais e circunstanciais da condenação por tráfico.
+10. Os elementos concretos evidenciam a traficância em ambiente prisional (apreensão de 25 g de cocaína e utensílios para acondicionamento e fracionamento), afastando a tese de mero consumo e confirmando a adequação típica do art. 33, caput, c/c art. 40, III, da Lei nº 11.343/2006.
+11. O Tema 506 do STF (posse de maconha para uso pessoal) não se aplica ao caso de apreensão de cocaína e não constitui fundamento para desconstituir coisa julgada penal ou para revisão criminal por alteração jurisprudencial superveniente.
+12. Inexistência de argumentos novos no agravo regimental capazes de infirmar os fundamentos da decisão agravada, que deve ser mantida.
+IV. DISPOSITIVO
+13. Resultado do Julgamento: Agravo regimental desprovido, mantida a decisão que não conheceu do habeas corpus.
+Dispositivos relevantes citados:
+CF/1988, art. 105, I, e; CPP, art. 621, I, II e III; CPP, art. 654, § 2º; Lei nº 11.343/2006, art. 33, caput; Lei nº 11.343/2006, art. 40, III Jurisprudência relevante citada:STJ, AgRg no HC 861.867/SC, Quinta Turma, j. 02.09.2024; STJ, AgRg no HC 817.562/RS, Quinta Turma, j.
+30.06.2023; STJ, AgRg no HC 812.438/SP, Quinta Turma, j. 29.06.2023;
+STJ, HC 704.718/SP, Sexta Turma, j. 23.05.2023; STJ, AgRg no HC 811.106/SP, Sexta Turma, j. 22.06.2023; STJ, AgRg no HC 819.078/SP, Sexta Turma, j. 15.06.2023; STF, RE 635.659 (Tema 506), Plenário, 2024.
+(AgRg no HC n. 1.089.331/PE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 17/6/2026, DJEN de 23/6/2026.)
+Direito Penal. Agravo Regimental. Tráfico de Drogas. Configuração.
+Reexame de Provas. Recurso Desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, no qual se alegava ilegalidade na condenação por tráfico de drogas, pleiteando a desclassificação para o crime de posse de substância para consumo pessoal.
+2. O agravante foi flagrado em local conhecido pela prática de tráfico de drogas, portando 3,11 gramas de cocaína, divididas em oito porções, e arremessando uma sacola com mais porções do entorpecente. Para configurar o tráfico de drogas, o Tribunal de origem considerou a natureza da droga, o local dos fatos, a forma de acondicionamento e a conduta do agente.
+3. O agravante alegou que, em outro processo, com maior quantidade de drogas, houve desclassificação para o crime de posse para consumo pessoal, e invocou a aplicação do Tema 506 da Repercussão Geral do STF, o qual estabelece presunção de uso pessoal para determinadas quantidades de maconha.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a condenação por tráfico de drogas, com base nos elementos fáticos e probatórios analisados pelo Tribunal de origem, poderia ser desclassificada para o crime de posse de substância para consumo pessoal, considerando a quantidade de droga apreendida e a aplicação do Tema 506 da Repercussão Geral do STF.
+III. Razões de decidir
+5. O Tribunal de origem fundamentou a condenação por tráfico de drogas em diversos elementos, como a natureza do entorpecente, o local dos fatos, a forma de acondicionamento e a conduta do agente, não se limitando à quantidade apreendida.
+6. O reexame do conjunto probatório para desclassificar a conduta é incabível na via estreita do habeas corpus, na qual não se admite a dilação probatória.
+7. O julgamento em processo diverso, ainda que envolva o mesmo acusado, não vincula a decisão em ação distinta, especialmente quando as substâncias apreendidas são de natureza diversa, como no caso em análise.
+8. O Tema 506 da Repercussão Geral do STF se refere especificamente à maconha e não se aplica automaticamente, sendo necessário avaliar as peculiaridades do caso concreto.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. A configuração do crime de tráfico de drogas não se limita à quantidade de substância apreendida, devendo ser analisados outros elementos, como a natureza da droga, o local dos fatos, a forma de acondicionamento e a conduta do agente.
+2. O reexame de provas é incabível na via do habeas corpus.
+3. O Tema 506 da Repercussão Geral do STF se aplica exclusivamente à maconha, não vinculando casos envolvendo outras substâncias entorpecentes.
+Dispositivos relevantes citados: Lei nº 11.343/2006, arts. 28, caput, e 33, caput.
+Jurisprudência relevante citada: STF, RE 635659, Rel. Min. Gilmar Mendes, Tribunal Pleno, julgado em 26.06.2024; STJ, AgRg no HC 1.032.565/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 07.10.2025; STJ, AgRg no HC 962.854/RJ, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 27.08.2025.
+(AgRg no HC n. 1.033.356/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 4/11/2025, DJEN de 10/11/2025.) (grifos nossos).
+Não prospera, tampouco, a alegação de inconstitucionalidade material do art. 28 da Lei n. 11.343/2006 em relação a todas as substâncias, por violação aos postulados da intimidade, da vida privada e da proporcionalidade. A tese, ainda que sustentada com base em ampla fundamentação doutrinária, não foi acolhida pelo Supremo Tribunal Federal quando do julgamento do Tema 506, cuja tese fixada é expressa e limitada à cannabis sativa, não competindo a este Superior Tribunal de Justiça, em sede de habeas corpus, promover a extensão ou o overruling de precedente vinculante da Corte Suprema para alcançar situação diversa daquela nele efetivamente decidida.
+Quanto à alegada omissão do acórdão que julgou os embargos de declaração, também não assiste razão à defesa. Verifica-se que o Tribunal de origem enfrentou adequadamente as teses deduzidas pela defesa, tendo consignado que a arguição de incompatibilidade da criminalização do porte de cocaína com os direitos fundamentais à intimidade e à vida privada não havia sido suscitada nas razões recursais, de modo que sua apreciação em sede de aclaratórios configuraria indevida inovação recursal, incompatível com o princípio do tantum devolutum quantum apellatum (fls. 254/256). Não se vislumbra, portanto, omissão a ser sanada, tampouco obrigação de o órgão julgador pronunciar-se de ofício sobre matéria não submetida ao seu crivo pelas partes.
+Nesse contexto, não se constata flagrante ilegalidade ou abuso de poder aptos a justificar a concessão da ordem de ofício, mostrando-se hígidos os fundamentos do acórdão que recebeu a denúncia e determinou o regular prosseguimento da ação penal, bem como daquele que não conheceu dos embargos de declaração.
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
