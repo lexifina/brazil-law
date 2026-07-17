@@ -1,0 +1,115 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de WILSON MARCELO PEREIRA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - TJSP no julgamento do Agravo de Execução Penal n. 0002055-53.2026.8.26.0602.
+Extrai-se dos autos que o Juízo da Vara de Execução Penal deferiu o pedido de indulto, formulado pelo paciente com fundamento no Decreto Presidencial n. 12.790/2025, com declaração de extinção da punibilidade.
+O Tribunal de origem deu provimento ao agravo de execução penal interposto pelo parquet, a fim de cassar o indulto concedido e determinar o prosseguimento da execução, nos termos do acórdão que restou assim ementado (fl. 58):
+"DIREITO PENAL. AGRAVO DE EXECUÇÃO PENAL. INDULTO. PROVIMENTO.
+I. Caso em Exame Agravo em execução interposto pelo Ministério Público do Estado de São Paulo contra sentença que declarou extinta a punibilidade das penas privativas de liberdade impostas a Wilson Marcelo Pereira, condenado por furto simples, com substituição da pena por restritivas de direitos.
+II. Questão em Discussão
+2. A questão em discussão consiste na possibilidade de concessão de indulto ao agravado, considerando a necessidade de reparação do dano conforme o Decreto nº 12.790/2025.
+III. Razões de Decidir
+3. O Decreto Presidencial nº 12.790/2025 exige, para a concessão de indulto em crimes patrimoniais sem violência, a reparação do dano o que não foi demonstrado pelo agravado.
+IV. Dispositivo e Tese
+4. Dá-se provimento ao agravo para cassar a decisão que concedeu o indulto, com base no artigo 9º, inciso XV, do Decreto nº 12.790/2025.
+Tese de julgamento: 1. Indulto em crimes patrimoniais sem violência exige reparação do dano."
+No presente writ, a defesa sustenta que a hipossuficiência econômica do paciente está amplamente comprovada nos autos, não apenas pela assistência da Defensoria Pública, mas também por documentos que atestam sua vulnerabilidade social e incapacidade financeira, o que satisfaz a alternativa de comprovação prevista no decreto indulgente.
+Alega que a inscrição no "CADÚnico/CRAS", os laudos médicos que comprovam doença grave com limitação da capacidade laboral e despesas contínuas com saúde, bem como o desemprego, demonstram a impossibilidade de reparação do dano.
+Assevera que o juízo das execuções reconheceu expressamente a hipossuficiência do sentenciado ao conceder o indulto, e que a presunção decorrente da atuação da Defensoria Pública encontra respaldo no próprio decreto.
+Argui que a manutenção do acórdão impugnado configura constrangimento ilegal, por impor o cumprimento de pena já extinta por força do indulto, em violação aos princípios da legalidade e da dignidade da pessoa humana.
+Requer, assim, a concessão da ordem para que seja restabelecida a decisão de 1º grau que concedeu o indulto ao paciente, com a extinção da punibilidade.
+A liminar foi indeferida às fls. 85/87.
+Informações foram prestadas às fls. 90/112 e 118/127.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ, em parecer às fls. 130/139.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Todavia, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+A questão controvertida está na aplicação do indulto com fulcro no art. 9º, XV, do Decreto Presidencial n. 12.790/2025. Transcrevo:
+"Art. 9º Concede-se o indulto coletivo às pessoas, nacionais e migrantes, condenadas:
+ ..
+XV - à pena privativa de liberdade por crime contra o patrimônio, cometido sem violência ou grave ameaça a pessoa que, até 25 de dezembro de 2025, tenham reparado o dano conforme o disposto no art. 16 ou no art. 65, caput, inciso III, alínea "b", do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, excetuada a necessidade de reparação do dano nas hipóteses previstas no art. 12, § 2º, deste Decreto; ou"
+Consoante o art. 9º, XV, do Decreto Presidencial n. 12.790/2025, o indulto será concedido para condenados à pena privativa de liberdade por crime contra o patrimônio cometido sem violência ou grave ameaça à pessoa que tenha reparado o dano, na forma dos institutos do arrependimento posterior (art. 16 do CP) ou da atenuante de reparação do dano (art. 65, III, b, do CP), ficando excetuada a necessidade de reparação do dano nas hipóteses previstas no art. 12, § 2º, do próprio Decreto.
+Por sua vez, o art. 12, § 2º, do Decreto Presidencial n. 12.790/2025, preconiza quem são os agentes que possuem incapacidade econômica presumida (grifos nossos):
+"Art. 12. Concede-se o indulto coletivo às pessoas, nacionais e migrantes, condenadas à pena de multa:
+ ..
+§ 2º Para fins do disposto no inciso II do caput, poderá ser feita prova de pobreza por qualquer forma admitida em direito e será presumida a incapacidade econômica nas seguintes hipóteses:
+I - a pessoa for representada pela Defensoria Pública ou por advogado dativo ou houver atuação de entidade pro bono;
+II - a pessoa for beneficiária de qualquer programa social ou usuária de serviço de assistência social;
+III - a pessoa for qualificada como desempregada, ou não houver, no processo, elementos de identificação de vínculo empregatício ou trabalho formal, ou não forem localizados bens ou renda em nome dela;
+IV - a pessoa, por razão de idade ou patologia, não dispuser de capacidade laborativa;
+V - o valor do dia-multa tiver sido fixado em patamar mínimo pelo juízo da condenação; ou
+VI - a pessoa estiver em situação de rua ao tempo da prisão."
+Pois bem, cumpre recordar que o indulto coletivo é prerrogativa privativa do Presidente da República (art. 84, XII, da Constituição Federal), expressão do poder de clemência e de natureza eminentemente discricionária quanto às hipóteses, requisitos e condições de sua concessão. Ao intérprete judicial reserva-se o papel de aferir o preenchimento dos pressupostos estabelecidos no decreto, não o de ampliá-los, tampouco o de restringi-los contra beneficium, sob pena de indevida ingerência em ato político e de subtrair-lhe a eficácia pretendida.
+Onde o Decreto presume, descabe ao intérprete exigir prova adicional, sob pena de criar condicionante não prevista pelo Chefe do Poder Executivo no exercício da competência que lhe confere o art. 84, XII, da Constituição Federal. A separação dos poderes, aliás, milita em favor  e não contra  o apenado: invocada pela origem para negar o benefício, deve antes resguardar a integralidade da benesse tal como desenhada no Decreto, vedada a restrição pretoriana de seus requisitos.
+Com essa premissa, o art. 9º, XV, do Decreto Presidencial n. 12.790/2025, que excetua a necessidade de reparação do dano sempre que verificadas as hipóteses de incapacidade econômica, na forma do art. 12, § 2º, do Decreto Presidencial n. 12.790/2025, deve ser interpretado sem outras exigências, tais como o arrependimento posterior ou prévia tentativa de reparação do dano.
+A exigência de demonstração de "arrependimento" ou de "voluntariedade" da reparação, presente em parte da jurisprudência, não pode ser oposta a quem o próprio Decreto dispensa da reparação. A exceção do art. 9º, XV - "excetuada a necessidade de reparação do dano nas hipóteses previstas no art. 12, § 2º" - esvaziaria-se por completo se, a pretexto de aferir voluntariedade, reintroduzisse a obrigação que a norma expressamente afastou. Configurada a hipossuficiência presumida, a reparação simplesmente deixa de ser requisito.
+De igual modo, com base na mesma premissa, a interpretação do art. 12, § 2º, do Decreto Presidencial n. 12.790/2025 deve ser realizada sem outras exigências, ou seja, admitindo-se a presunção de incapacidade econômica pelo enquadramento do autor do delito nos incisos do referido dispositivo.
+A leitura sistemática desses dispositivos conduz à conclusão diversa da adotada pela origem. O próprio texto normativo exige a representação pela Defensoria Pública como condição de hipótese legal de presunção de incapacidade econômica, e essa presunção, por expressa dicção do art. 9º, XV, dispensa a reparação do dano. Não se trata de presunção a ser construída a partir do nada, mas de presunção que o Decreto já estabelece em abstrato, transferindo a quem a impugna o ônus de demonstrar a aptidão econômica do apenado.
+No mesmo sentido, invocam-se precedentes que se posicionam pela prescindibilidade de comprovação do arrependimento ou da tentativa de reparar o dano para incidência da ressalva do art. 9º, XV; bem como pela presunção da incapacidade econômica aos enquadrados nos incisos do art. 12, § 2º, do Decreto Presidencial n. 12.790/2025 e dispositivos equivalentes do Decreto 12.338/2024.
+Vejamos (grifos nossos):
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. INDULTO COLETIVO. CRIME CONTRA O PATRIMÔNIO SEM VIOLÊNCIA OU GRAVE AMEAÇA. PRESUNÇÃO LEGAL DE HIPOSSUFICIÊNCIA ECONÔMICA. RECURSO PROVIDO.
+I. CASO EM EXAME
+1. O recurso. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus por ser substitutivo de recurso próprio, mantendo a cassação de indulto concedido pelo juízo da execução penal com fundamento nos arts. 9º, XV, e 12, § 2º, do Decreto n. 12.338/2024.
+2. Fato relevante. A autoridade local afastou o indulto por ausência de reparação do dano ou de intenção de fazê-lo e por inexistência de comprovação concreta de incapacidade econômica, entendendo insuficientes a atuação da Defensoria Pública e a fixação do dia-multa no mínimo legal para presumir hipossuficiência.
+3. As decisões anteriores. O juízo da execução penal havia declarado extinta a punibilidade pelo indulto; o Tribunal de origem deu provimento ao recurso ministerial para cassar a decisão concessiva;
+a decisão agravada não conheceu do habeas corpus e não concedeu a ordem de ofício.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se, à luz do art. 9º, XV, do Decreto n. 12.338/2024, é exigível a reparação do dano ou a demonstração de arrependimento posterior para a concessão do indulto a condenados por crime contra o patrimônio sem violência ou grave ameaça, quando configuradas as hipóteses de presunção de incapacidade econômica do art. 12, § 2º, do mesmo decreto.
+5. Há duas questões em discussão: (i) saber se a presunção de hipossuficiência econômica prevista no art. 12, § 2º, do Decreto n. 12.338/2024 dispensa comprovação adicional, inclusive a voluntariedade na reparação do dano; e (ii) saber se é adequada a transposição do entendimento firmado no Tema repetitivo n. 931 do STJ à análise de indulto coletivo previsto em decreto presidencial.
+III. RAZÕES DE DECIDIR
+6. O indulto coletivo é prerrogativa privativa do Presidente da República (CF, art. 84, XII), expressão de poder de clemência com hipóteses e requisitos definidos no próprio decreto; ao Judiciário compete aferir o cumprimento dos pressupostos normativos, sem ampliá-los ou restringi-los contra o benefício.
+7. O art. 9º, XV, do Decreto n. 12.338/2024 excetua, de forma expressa, a necessidade de reparação do dano nas hipóteses previstas no art. 12, § 2º, do mesmo decreto, não exigindo arrependimento posterior ou prévia tentativa de reparar o dano.
+8. A presunção de incapacidade econômica prevista no art. 12, § 2º, do Decreto n. 12.338/2024 incide quando verificada qualquer das situações taxativamente descritas, inclusive atuação da Defensoria Pública e fixação do dia-multa no mínimo legal, dispensando comprovação adicional da hipossuficiência para tanto.
+9. É inadequada a transposição do Tema n. 931 do STJ para a matéria de indulto, pois ali se formou solução jurisprudencial em contexto de ausência de previsão legal específica, ao passo que o Decreto n. 12.338/2024 disciplina, em rol expresso, as hipóteses em que "será presumida" a incapacidade econômica.
+10. No caso, ao exigir demonstração de reparação do dano ou de intenção de fazê-lo e afastar a presunção legal de hipossuficiência decorrente da atuação da Defensoria Pública e do dia-multa no mínimo legal, o acórdão recorrido contrariou os arts. 9º, XV, e 12, § 2º, do Decreto n. 12.338/2024, impondo-se o restabelecimento do indulto concedido pelo juízo da execução penal.
+IV. DISPOSITIVO E TESE
+11. Resultado do Julgamento: Agravo regimental provido para restabelecer o indulto concedido na execução penal.
+Tese de julgamento:
+1. O art. 9º, XV, do Decreto n. 12.338/2024 dispensa a reparação do dano sempre que configurada qualquer hipótese de presunção de incapacidade econômica do art. 12, § 2º, sem exigir arrependimento posterior ou tentativa de reparação.
+2. A presunção legal de hipossuficiência econômica incide de pleno quando presentes as situações do art. 12, § 2º, do Decreto n. 12.338/2024, inclusive atuação da Defensoria Pública e fixação do dia-multa no mínimo legal, dispensando comprovação adicional para tanto.
+3. É inadequada a transposição do Tema repetitivo n. 931 do STJ para a análise do indulto coletivo previsto em decreto presidencial.
+(AgRg no HC n. 1.050.739/SP, de minha relatoria, Quinta Turma, julgado em 16/6/2026, DJEN de 23/6/2026.)
+DIREITO PENAL. HABEAS CORPUS. INDULTO COLETIVO. PRESUNÇÃO DE HIPOSSUFICIÊNCIA. REQUISITOS CUMULATIVOS. ORDEM CONCEDIDA.
+I. Caso em exame
+1. Habeas corpus impetrado em favor de condenado por crime contra o patrimônio, sem violência ou grave ameaça, nos termos do art. 171, caput, do Código Penal, à pena de 1 ano, 4 meses e 10 dias de reclusão, e 12 dias-multa, visando ao restabelecimento de decisão que concedeu indulto com base nos arts. 9º, XV, e 12, § 2º, do Decreto n. 12.338/2024.
+2. O Tribunal de Justiça de São Paulo deu provimento ao agravo de execução penal interposto pelo Ministério Público, revogando o indulto concedido em primeira instância, sob o fundamento de ausência de comprovação de voluntariedade na reparação
+do dano.
+II. Questão em discussão
+3. A questão em discussão consiste
+em saber se o indulto coletivo previsto no Decreto n. 12.338/2024 pode ser concedido a condenado por crime contra o patrimônio, sem violência ou grave ameaça, que não tenha reparado o dano, mas que se enquadre nas hipóteses de presunção de hipossuficiência previstas no
+art. 12, § 2º, do referido decreto.
+III. Razões de decidir
+4. O Decreto n. 12.338/2024 estabelece no art. 9º, XV, que os condenados por crimes contra o patrimônio, cometidos sem violência ou grave ameaça à pessoa que tiverem reparado o dano, nos termos dos arts. 16 ou 65, III, d, do Código Penal, ou sejam hipossuficientes, nos termos do art. 12, § 2º, do mencionado decreto.
+5. A presunção de hipossuficiência, conforme o art. 12, § 2º, do Decreto n. 12.338/2024, pode ser demonstrada por qualquer meio legalmente aceito, incluindo elementos como atuação pela Defensoria Pública e fixação do dia-multa no mínimo legal.
+6. A exigência de demonstração de voluntariedade na reparação do dano não se aplica aos hipossuficientes, conforme exceção expressa no Decreto n. 12.338/2024.
+7. No caso concreto, o apenado foi representado pela Defensoria Pública e teve o dia-multa fixado no mínimo legal, configurando presunção de hipossuficiência nos termos do art. 12, § 2º, V, do Decreto n. 12.338/2024.
+IV. Dispositivo e tese
+8. Ordem
+concedida para restabelecer a decisão de origem que concedeu o indulto com base nos arts. 9º, XV, e 12, § 2º, do Decreto n. 12.338/2024.
+Tese de julgamento: 1. O indulto coletivo previsto no Decreto n. 12.338/2024 pode ser concedido a condenados por crime contra o patrimônio, sem violência ou grave ameaça, que não tenham reparado o dano, desde que se enquadrem nas hipóteses de presunção de hipossuficiência previstas no art. 12, § 2º, do referido decreto.
+2. A presunção de hipossuficiência econômica, nos termos do art. 12, § 2º, do Decreto n. 12.338/2024, pode ser demonstrada por qualquer meio legalmente aceito, incluindo elementos como atuação pela Defensoria Pública e fixação do dia-multa no mínimo legal.
+(HC n. 1.045.795/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/3/2026, DJEN de 17/3/2026.)
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. DECRETO PRESIDENCIAL N. 12.338/2024. CONDENAÇÃO POR CRIMES CONTRA O PATRIMÔNIO. INADIMPLÊNCIA DA PENA DE MULTA. PACIENTE REPRESENTADO PELA DEFENSORIA PÚBLICA. PRESUNÇÃO LEGAL DE HIPOSSUFICIÊNCIA ECONÔMICA. TEMA REPETITIVO N. 931 DO STJ. DECISÃO AGRAVADA MANTIDA. RECURSO DESPROVIDO.
+1. A jurisprudência desta Corte Superior, em casos análogos, tem reconhecido que, uma vez alegada a hipossuficiência pelo condenado, especialmente quando representado pela Defensoria Pública, transfere-se ao Ministério Público o ônus de comprovar a existência de condições econômicas que infirmem tal presunção.
+2. Na hipótese, verifica-se que o paciente foi condenado por crime contra o patrimônio sem violência ou grave ameaça, situação que, em regra, exigiria a comprovação da reparação do dano como condição para o indulto (art. 9º, XV, do Decreto n. 12.338/2024).
+3. Todavia, o próprio diploma normativo excepciona a exigência de reparação do dano quando configurada alguma das hipóteses do art. 12, § 2º. Dentre elas, destaca-se a prevista no inciso I, segundo a qual presume-se a incapacidade econômica quando o condenado está assistido pela Defensoria Pública.
+4. No presente feito, restou incontroverso que o paciente é representado pela Defensoria Pública, circunstância que atrai a presunção legal de hipossuficiência econômica e, consequentemente, dispensa a comprovação da reparação do dano como condição para a fruição do indulto, conforme expressamente disposto no Decreto n. 12.338/2024.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 1.046.398/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 3/2/2026, DJEN de 10/2/2026.)
+Em tempo, mostra-se inad equada a transposição do entendimento firmado no Tema n. 931 para o exame do indulto.
+O Tema 931 formou-se em cenário de vácuo normativo: nem o Código Penal, nem a Lei de Execução Penal enumeram, em texto expresso, hipóteses taxativas de presunção de hipossuficiência para os fins ali debatidos. Coube à jurisprudência, median te construção principiológica, fixar os contornos do ônus e dos meios de prova da impossibilidade econômica.
+Diversamente, em matéria de indulto, é o próprio ato normativo concessivo que disciplina, em rol expresso, as hipóteses em que a incapacidade econômica "será presumida" (art. 12, § 2º, I a VI, do Decreto nº 12.790/2025). Não há, portanto, espaço normativo a ser preenchido por construção jurisprudencial, nem, por corolário, pertinência em transpor  por analogia  solução construída justamente para suprir ausência de previsão.
+Passando ao caso concreto.
+O Tribunal estadual afastou o indulto concedido nos seguintes termos (grifo nosso, fls. 59/60):
+"Consta dos autos que o reeducando foi condenado pela prática do crime de furto simples, por duas vezes, à pena de 02 anos e 02 meses de reclusão, em regime inicial aberto, com substituição da pena privativa de liberdade por restritivas de direitos, cujo término do cumprimento está previsto para 21/12/2026 (fls. 25/28).
+Embora não haja impedimento objetivo à análise do benefício em relação à natureza do delito, verifica-se que, nos termos do artigo 9º, inciso XV, do Decreto Presidencial nº 12.790/2025, a concessão do indulto aos condenados por crimes patrimoniais praticados sem violência ou grave ameaça à pessoa está condicionada à reparação do dano, a ser realizada até 25 de dezembro de 2025, observadas as hipóteses previstas nos artigos 16 ou 65, inciso III, alínea "b", do Código Penal, ressalvadas apenas as situações expressamente previstas no artigo 12, § 2º, do referido Decreto.
+A norma em comento é clara ao estabelecer que, nos casos de crimes patrimoniais sem violência ou grave ameaça como na hipótese dos autos, em que houve condenação por furto (fls. 31/33) , o indulto da pena privativa de liberdade pressupõe a efetiva reparação do dano causado à vítima.
+Tal reparação deve, necessariamente, enquadrar-se nas hipóteses do artigo 16 do Código Penal, atinentes ao arrependimento posterior, ou, ainda, naquelas descritas no artigo 65, inciso III, alínea "b", do mesmo diploma legal, as quais exigem iniciativa voluntária, espontânea e eficaz do agente, destinada à eliminação ou mitigação das consequências do crime, ou à reparação do prejuízo antes do julgamento, o que não ocorreu no presente feito, conforme se extrai da sentença proferida em fase de conhecimento.
+Confira-se, a propósito, o teor da referida sentença (fl. 17): "Por fim Eliseu, disse que foi irradiado o furto do veiculo e em diligencia, recebeu nova comunicação de que o mesmo automóvel teria abastecido em um posto de combustível sem realizar o pagamento, em prosseguimento, encontrou o automóvel colidido com outro veiculo, e populares informaram as características físicas do motorista e conseguiram a abordagem do acusado, pessoa que não conhecia. O acusado confessou que pegou o veiculo de um conhecido.". Bem como se extrai da mesma sentença, fl. 19: "É fato que o réu aproveitou-se e pegou as chaves do veiculo não se tratando de furto de uso, mas sim da conduta prevista no artigo 155 caput. Alias, para considerar o furto de uso, o veiculo deveria ter sido devolvido intacto e com a mesma quantidade de combustível, o que não ocorreu, primeiro porque não foi devolvido pelo réu, segundo estava avariado, e terceiro caberia ao acusado o ônus dessa prova nos termos do artigo 156 do CPP, do qual não se desincumbiu. A prova é farta, o réu furtou o automóvel, e ainda furtou combustível, causando uma colisão pela direção sem cuidados, causando prejuízo ao proprietário, sendo o fato típico e antijurídico, e culpável. Foi reconhecido pela vitima, e pelo motorista do outro veiculo que envolveu-se no acidente, não deixando duvidas quanto a participação do acusado.".
+No caso concreto, a condenação transitou em julgado sem que houvesse qualquer demonstração de ato voluntário e espontâneo do agravado voltado à reparação do dano."
+Tem-se no trecho acima que o TJSP afastou o indulto concedido porque o agravante não comprovou ter reparado o dano ou, ao menos, intentado fazê-lo.
+Esse entendimento, conforme já explanado, não deve prevalecer, porquanto o disposto nos arts. 9º, XV, e 12, § 2º, ambos do Decreto-Lei n. 12.790/2025, não traz como requisito para incidência da ressalva a reparação do dano ou a tentativa de repará-lo, e traz a presunção de incapacidade econômica tanto em razão da atuação da defensoria pública, quanto em razão da fixação da multa no mínimo legal.
+Destarte, deve ser restabelecido o indulto assim concedido pelo juízo da execução penal.
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente mandamus. Contudo, concedo a ordem de habeas corpus, de ofício, para restabelecer a decisão que concedeu o indulto ao paciente.
+Publique-se.
+Intimem-se.
+EMENTA
