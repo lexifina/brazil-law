@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo interposto contra decisão que inadmitiu o recurso especial no qual CALHANDRA BAR E LANCHONETE LTDA. se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fls. 438-438):
+AGRAVO INTERNO. Decisão que indeferiu pedido de recolhimento diferido ou parcelado, no preparo de recurso de apelação. Agravo desprovido.
+Os embargos de declaração opostos foram rejeitados (fls. 451-453).
+A parte recorrente alega em seu recurso (fls. 456-461) violação dos arts. 98, § 6º, 489, § 1º, e 1.022 do CPC. Sustenta ofensa ao art. 98, § 6º, do CPC, afirmando que o parcelamento das despesas processuais é técnica legalmente prevista para compatibilizar o custeio do processo com o acesso à jurisdição e que o acórdão recorrido negou aplicação ao dispositivo com fundamentação genérica e incompatível com sua finalidade, ao invocar "tempo suficiente para reservar valores" e "inauguração de restaurante de elevado padrão".
+Aponta violação do art. 489, § 1º, do CPC, por não enfrentar adequadamente os argumentos concretos sobre a pertinência do parcelamento, indicando que a motivação adotada é abstrata, padronizada e desconectada do comando normativo, com referência aos incisos III e IV do § 1º.
+Argumenta violação do art. 1.022 do CPC, porque os embargos de declaração teriam sido rejeitados sem apreciação do ponto central, omissão quanto ao pedido subsidiário de parcelamento e à incompatibilidade da razão do "tempo para reservar valores" com o art. 98, § 6º, do CPC, caracterizando negativa de prestação jurisdicional.
+Alega, ainda, que não incide a Súmula n. 7/STJ, pois pretende revaloração jurídica de fatos delineados no acórdão, sem reexame de provas, e requer o afastamento do óbice.
+Contrarrazões apresentadas (fls. 466-478).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 489-491), o que ensejou a interposição do presente agravo. Apresentada contraminuta do agravo (fls. 504-519).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+Inicialmente, não se verifica a alegada violação aos arts. 489, § 1º, e 1.022 do Código de Processo Civil.
+O Tribunal de origem apreciou de forma suficiente as questões devolvidas à sua apreciação, examinando expressamente tanto o pedido de diferimento quanto o pedido subsidiário de parcelamento do preparo (fls. 438-439).
+Conforme consignado no acórdão recorrido, a recorrente é empresa em plena atividade, operando restaurante de elevado padrão, inexistindo demonstração de efetiva limitação econômico-financeira apta a justificar o deferimento do diferimento ou do parcelamento das custas processuais. Registrou-se, ainda, que a apelação havia sido interposta com antecedência suficiente para possibilitar a formação de reserva financeira destinada ao recolhimento do preparo (fl. 439).
+Os embargos de declaração, por sua vez, foram rejeitados mediante fundamentação expressa, assentando a inexistência de omissão, obscuridade ou contradição e consignando que os fundamentos do acórdão estavam alinhados ao contexto jurídico da demanda e às provas produzidas (fls. 452-453).
+Desse modo, verifica-se que a Corte de origem apreciou integralmente a controvérsia, emitindo pronunciamento fundamentado, ainda que em sentido contrário aos interesses da recorrente.
+A jurisprudência desta Corte é firme no sentido de que não há negativa de prestação jurisdicional quando o Tribunal de origem se manifesta de forma clara e fundamentada acerca dos pontos indispensáveis ao deslinde da controvérsia, apreciando as questões suscitadas e expondo as razões de seu convencimento, ainda que em sentido contrário aos interesses da parte, não estando obrigado a rebater individualmente todos os argumentos deduzidos pelas partes. Nesse sentido: "Não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o deslinde da controvérsia, apreciando-a e apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte." (AgInt no AREsp 2.120.547/SP, Rel. Ministro Humberto Martins, Terceira Turma, DJe de 12/6/2024).
+Superada essa questão, também não prospera a alegada violação do art. 98, § 6º, do Código de Processo Civil.
+O Tribunal estadual indeferiu o pedido de parcelamento do preparo com fundamento nas circunstâncias concretas da causa, destacando inexistirem elementos aptos a demonstrar limitação econômico-financeira da recorrente, bem como registrando que a empresa permanecia em atividade, explorando restaurante de elevado padrão, além de dispor de tempo suficiente para reservar recursos destinados ao recolhimento das custas processuais.
+Assim, a conclusão adotada pelo acórdão recorrido decorreu da análise das provas e das circunstâncias fáticas constantes dos autos.
+Desconstituir tais premissas para reconhecer o alegado direito ao parcelamento do preparo demandaria, necessariamente, o reexame do conjunto fático-probatório, providência inviável na via do recurso especial, em razão do óbice previsto na Súmula n. 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários advocatícios, porquanto inexistente condenação anterior nesta instância recursal que autorize a incidência do art. 85, § 11, do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
