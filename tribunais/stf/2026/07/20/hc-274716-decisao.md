@@ -1,0 +1,68 @@
+DECISÃO
+
+HABEAS CORPUS. PROCESSUAL PENAL. EXTORSÃO MEDIANTE SEQUESTRO, AMEAÇA E PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA ARMADA. RECURSO ORDINÁRIO NÃO CONHECIDO NO SUPERIOR TRIBUNAL DE JUSTIÇA: DEFICIÊNCIA NA INSTRUÇÃO. ALEGAÇÃO DE ERRO IN JUDICANDO IMPUTANDO-SE AO RECORRENTE O ÔNUS DE ZELAR PELA INSTRUÇÃO DO RECURSO. INOCORRÊNCIA. INEXISTÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO: POSSIBILIDADE DE RENOVAÇÃO DO HABEAS CORPUS AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Habeas corpus, com requerimento de medida liminar, impetrado, em 6.7.2026, por Carlo Velho Masi, em benefício de Francisco Narciso Dantas, contra acórdão da Quinta Turma do Superior Tribunal de Justiça, pelo qual negado provimento a agravo regimental, mantendo-se decisão da Relatora, Ministra Maria Marluce Caldas, que não conheceu do Recurso em Habeas Corpus n. 232.022/RS, pela ausência de peça essencial (íntegra do decreto de prisão preventiva).
+O caso
+2. Consta dos autos que o paciente foi denunciado, com outros onze acusados, em decorrência da denominada “Operação Villa Germânica”, tendo sido decretada sua prisão preventiva por extorsão mediante sequestro, ameaça e associação criminosa armada, afirmando-se que seria o administrador da empresa de segurança que servia de instrumento ao grupo.
+
+Segundo a acusação, as  investigações revelaram “a atuação de uma complexa organização criminosa voltada ao domínio territorial e administrativo de um complexo residencial, mediante a prática de crimes de extorsão, ameaça, perseguição e apropriação indébita. Ao paciente, aponta-se a condição de  proprietário de fato da empresa de portaria “Força Tática Sul” (FTS), a qual seria utilizada como braço operacional para intimidar moradores e como meio para movimentar e ocultar  ativos ilícitos da facção ‘Os Manos’” (fls. 188-189, doc. 2).
+
+3. Impugnando a decretação da prisão preventiva, a defesa impetrou o Habeas Corpus n. 5004942-72.2026.8.21.7000/RS no Tribunal de Justiça do Rio Grande do Sul, denegado em acórdão com a ementa seguinte:
+“DIREITO PROCESSUAL PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. EXTORSÃO MEDIANTE SEQUESTRO. ASSOCIAÇÃO CRIMINOSA. REQUISITOS DO ART. 312 DO CPP PRESENTES. ORDEM DENEGADA.
+I. CASO EM EXAME: 1. Habeas corpus impetrado em favor do paciente preso preventivamente desde 12-11-2025 pela prática do crime de extorsão mediante sequestro, no âmbito da "Operação Villa Germânica", que apura a atuação de associação criminosa para obter o controle administrativo e financeiro de condomínio residencial mediante intimidação e coação dos moradores.
+II. QUESTÃO EM DISCUSSÃO: 1. Há duas questões em discussão: (i) a alegada ausência dos requisitos para manutenção da custódia cautelar; (ii) a desproporcionalidade da medida, considerando as condições subjetivas favoráveis do paciente e sua imprescindibilidade para os cuidados do filho menor.
+III. RAZÕES DE DECIDIR: 1. A ocorrência dos fatos delituosos e os indícios de autoria estão presentes, justificando a manutenção da prisão preventiva para garantia da ordem pública e por conveniência da instrução criminal. 2. Conforme constou na decisão liminar da impetração anterior, a empresa de portaria administrada pelo paciente era utilizada para intimidação e coação dos moradores, além de servir como instrumento para controle de acesso ao condomínio, sendo elemento fundamental para a imposição do domínio territorial do grupo criminoso. 3. A periculosidade do agente está evidenciada pelos critérios do artigo 312, § 3º, do CPP, com redação dada pela Lei n.º 15.272/2025, notadamente o modus operandi do grupo (inciso I) e a participação em associação criminosa (inciso II). 4. O modus operandi da associação criminosa era complexo e dotado de alta reprovabilidade, consistindo na tomada de controle de um condomínio residencial mediante intimidação sistemática. 5. A substituição por medidas cautelares diversas revela-se insuficiente diante da gravidade concreta dos delitos e da necessidade de interromper as atividades do grupo criminoso.
+IV. DISPOSITIVO E TESE: 1. Ordem denegada” (fl. 198, doc. 2).
+
+4. Essa decisão foi objeto do Recurso em Habeas Corpus n. 232.022/RS no Superior Tribunal de Justiça, tendo a Ministra Maria Marluce Caldas, em 26.2.2026, não conhecido do recurso em razão da deficiência na sua instrução, assentando que, “no presente caso, não foi juntada à petição inicial a cópia do decreto prisional, documento de fundamental importância para a compreensão da controvérsia” (fls. 234-235, doc. 2).
+
+Foram opostos embargos declaratórios pela defesa, que alegou obscuridade na decisão, pois “o presente recurso foi interposto diretamente ao Tribunal de Justiça de origem, órgão que faz o traslado dos documentos essenciais”. Em 9.4.2026, a Quinta Turma do Superior Tribunal de Justiça rejeitou os embargos, assentando que “incumbe à parte recorrente zelar pela adequada formação do instrumento, ainda que o traslado dos autos seja realizado pelo Tribunal de origem” (fls. 251-256, doc. 2).
+
+Contra o julgado foi interposto agravo regimental, insistindo-se na ausência de responsabilidade da defesa pela deficiente instrução do recurso em habeas corpus, juntando-se o decreto de prisão preventiva e a íntegra do processo na origem, requerendo o exame de mérito da impetração. Em 17.6.2026, a Quinta Turma do Superior Tribunal de Justiça conheceu do agravo regimental e a ele negou provimento em acórdão com a ementa seguinte:
+“DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA MAJORADA E AMEAÇA. NÃO CONHECIMENTO. DEFICIÊNCIA NA INSTRUÇÃO. AUSÊNCIA DE CÓPIA DO DECRETO PRISIONAL. ÔNUS DA DEFESA. JUNTADA TARDIA EM AGRAVO REGIMENTAL. PRECLUSÃO CONSUMATIVA. IMPOSSIBILIDADE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. DECISÃO AGRAVADA MANTIDA. DESPROVIMENTO.
+I. CASO EM EXAME 1. Agravo regimental interposto contra decisão que não conheceu de recurso ordinário em habeas corpus ante a deficiência na instrução, caracterizada pela ausência de cópia do decreto prisional. 2. A defesa alega constrangimento ilegal, sustentando que, no caso de recurso ordinário, não lhe cabe o ônus pelo traslado das peças processuais, o qual seria de responsabilidade do Tribunal de origem. Busca sanar a omissão originária anexando a cópia integral dos autos no presente agravo.
+II. QUESTÃO EM DISCUSSÃO 3. A questão em discussão consiste em definir se a obrigação de instruir o recurso ordinário em habeas corpus com as provas pré-constituídas (peças essenciais) é ônus da defesa, bem como se é admissível a juntada tardia de documentos na fase de agravo regimental para sanar o vício instrutório inicial.
+III. RAZÕES DE DECIDIR 4. O rito do habeas corpus e do seu respectivo recurso pressupõe prova pré-constituída do direito alegado. Exige-se a demonstração de plano da ilegalidade, não comportando o feito dilação probatória, de modo que é ônus da parte impetrante juntar a documentação necessária no momento da impetração. 5. Ainda que o traslado dos autos seja formalmente realizado pelo Tribunal de origem, incumbe à parte recorrente zelar pela adequada formação do instrumento, fiscalizando a presença das peças indispensáveis à compreensão da controvérsia. 6. A instrução deficiente deve ser aferida no exato momento da interposição do apelo ou do protocolo da impetração. A jurisprudência não admite a regularização extemporânea do feito em sede de agravo regimental, uma vez que se opera a preclusão consumativa. O recurso interposto visa unicamente demonstrar o eventual desacerto da decisão combatida com base no cenário fático-processual existente no instante de sua prolação, não possuindo a juntada superveniente o condão de desconstituir o óbice corretamente reconhecido.
+IV. RESULTADO E TESE 7. Agravo regimental desprovido” (fls. 619-626, doc. 2).
+
+5. Contra esses julgados foi impetrado o presente habeas corpus, no qual o impetrante alega constrangimento ilegal por parte do Superior Tribunal de Justiça, ao “cobrar do recorrente (ora paciente) a complementação de provas pré-constituídas sob pena de não conhecimento do recurso ordinário constitucional”, sendo do Tribunal de origem a instrução do pedido, já que se cuidava de recurso ordinário.
+
+Esclarece que “não se busca a concessão da ordem para revogação da prisão preventiva, mas tão somente para que seja cessada a constrição ilegal ao direito de acesso à justiça, que manteve, por via reflexa, a prisão preventiva flagrantemente desnecessária do paciente”.
+
+Argumenta que, “se o Habeas Corpus foi julgado pelo Tribunal de Justiça do Rio Grande do Sul é porque estava devidamente instrumentalizado. Se estava devidamente instrumentalizado, não havia quaisquer motivos para desacreditar na remessa realizada ao Superior Tribunal de Justiça, pois a secretaria do Tribunal de Justiça só deveria realizar o traslado do instrumento”.
+
+Afirma que “não se pode responsabilizar o paciente por falta de documento essencial, pois era dever da serventia do Tribunal de origem a devida remessa do recurso instrumentalizado, com acesso integral aos autos”. Assim, “não sendo o traslado atribuição da defesa, não pode o paciente suportar as consequências da eventual ausência documental”.
+Estes os requerimentos e o pedido:
+“Ante o exposto, requer a concessão de medida liminar para imediata determinação para que a Autoridade Coatora examine o mérito do Recurso Ordinário em Habeas Corpus no STJ, e, no mérito, a concessão definitiva da ordem.
+Outrossim, requer a expressa intimação do impetrante para fins de sustentação oral na sessão de julgamento, nos termos do art. 131, § 1º, do RISTF” (doc. 1).
+
+Em 7.7.2026, a Presidência deste Supremo Tribunal proferiu despacho no sentido de que “a questão em análise não se ajusta à circunstância do art. 13, VIII, do Regimento Interno deste Supremo Tribunal Federal. Encaminhe-se a(o) Relator(a)” (doc. 5).
+
+Os autos vieram-me conclusos, em 8.7.2026.
+
+Examinada a matéria posta à apreciação, DECIDO.
+
+6. Os elementos fáticos e jurídicos apresentados não autorizam o prosseguimento desta ação no Supremo Tribunal Federal.
+
+7. Registre-se, inicialmente, a singular tramitação processual do Recurso em Habeas Corpus n. 232.022/RS, no Superior Tribunal de Justiça, no qual se constata o julgamento por órgão colegiado (Quinta Turma) de embargos declaratórios opostos contra decisão monocrática, e o conhecimento e julgamento de agravo regimental interposto contra decisão colegiada (acórdão prolatado nos embargos declaratórios).
+
+8. No caso, não se busca nesta impetração o exame da legalidade do decreto de prisão preventiva do paciente, mas o reconhecimento de erro in judicando do Superior Tribunal de Justiça, ao não conhecer do recurso em habeas corpus por deficiência na instrução, imputando à defesa (e não ao Tribunal de origem) a responsabilidade pelo correto e integral traslado das peças essenciais.
+
+9. Na espécie, concluiu o Superior Tribunal de Justiça que a “ausência de peça essencial (decreto prisional) impede o conhecimento do recurso ordinário em habeas corpus, recaindo sobre a defesa o ônus de zelar pela correta formação do instrumento, mesmo quando o traslado é realizado pelo Tribunal de origem”, tendo afirmado, ainda, ser “incabível a juntada tardia de documentos em sede de agravo regimental com o fito de sanar deficiência na instrução do recurso em habeas corpus, ante a ocorrência da preclusão consumativa” (fls. 622, doc. 2).
+
+10. Diversamente das impetrações originárias, nos casos de recurso ordinário em habeas corpus cabe ao Tribunal de origem a remessa integral dos autos, com todas as peças dele integrantes. Contudo, não se verifica constrangimento ilegal no acórdão recorrido, estando o julgado em consonância com a pacífica jurisprudência deste Supremo Tribunal Federal quanto ao não conhecimento de impetração (ou recurso ordinário) deficientemente instruído, cabendo ao impetrante garantir que todas as peças essenciais ao exame do alegado constrangimento ilegal tenham sido juntadas.
+
+11. O recorrente alega que o decreto de prisão preventiva estaria presente na impetração no Tribunal de origem, tendo sido o mérito do habeas corpus devidamente apreciado e denegado. Entretanto, independente da responsabilidade pelo traslado ou das razões pelas quais a decisão não constava no recurso, essa circunstância não desincumbe o recorrente do ônus de verificar a correta formação dos autos e de realizar a conferência das peças trasladadas.
+12. Quanto à juntada tardia do decreto de prisão preventiva (quando do agravo regimental interposto), embora questionável a “preclusão consumativa” assentada pelo acórdão recorrido   tanto em razão do princípio da instrumentalidade das formas, quanto considerada a envergadura da ação constitucional do habeas corpus e do direito à locomoção que visa resguardar    não se constata prejuízo ao paciente, por lhe ter sido facultado renovar o pedido em nova impetração originária (substitutiva de recurso ordinário), devidamente instruída, junto ao Superior Tribunal de Justiça, impugnando o mesmo acórdão objeto do recurso ordinário.
+
+13. Pela jurisprudência do Supremo Tribunal Federal, “pode o Relator, com fundamento no art. 21, § 1º, do Regimento Interno, negar seguimento ao habeas corpus manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante, embora sujeita a decisão a agravo regimental” (HC n. 96.883-AgR, Relatora a Ministra Cármen Lúcia, DJe 1º.2.2011).
+
+14. Pelo exposto, nego seguimento ao habeas corpus (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal), prejudicada a medida liminar requerida.
+
+Publique-se.
+
+Brasília, 20 de julho de 2026.
+
+Ministra CÁRMEN LÚCIA
+Relatora
