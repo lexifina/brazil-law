@@ -1,0 +1,34 @@
+DECISÃO:
+Vistos.
+Trata-se de agravo interposto pelo Ministério Público do Estado da Paraíba contra decisão que não admitiu o recurso extraordinário formalizado em face de acórdão proferido pela Sexta Turma do Superior Tribunal de Justiça, assim ementado (e-doc. 39):
+“AGRAVO REGIMENTAL EM HABEAS CORPUS. CRIME AMBIENTAL. PRETENSÃO DE TRANCAMENTO DA AÇÃO PENAL. INÉPCIA DA DENÚNCIA. INICIAL QUE NÃO DEMONSTROU O MÍNIMO NEXO CAUSAL ENTRE O PACIENTE E OS FATOS IMPUTADOS. CONSIDERAÇÃO, APENAS, DA CONDIÇÃO DO PACIENTE DE, JUNTO COM OUTROS TRÊS SÓCIOS, SER UM DOS GERENTES DA EMPRESA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. PRECEDENTES. PESSOA JURÍDICA. PROSSEGUIMENTO DA AÇÃO PENAL.
+1. Esta Corte Superior de Justiça tem reiteradamente decidido ser inepta a denúncia que, mesmo em crimes societários ou de autoria coletiva, atribui responsabilidade penal à pessoa física, levando em consideração apenas a qualidade dela dentro da empresa, deixando de demonstrar o vínculo desta com a conduta delituosa, por configurar, além de ofensa à ampla defesa, ao contraditório e ao devido processo legal, responsabilidade penal objetiva, repudiada pelo ordenamento jurídico pátrio.
+2. Agravo regimental provido para conceder a ordem e trancar a ação penal em razão da inépcia da denúncia, permitindo que outra seja oferecida, desde que sanados os vícios aqui apontados.”
+Nas razões do recurso extraordinário (e-doc. 50), a parte recorrente alegação ao artigo 5º, inciso LXVIII, da Constituição da República.
+Sustenta, em síntese, que
+“A decisão do STJ, ao reformar o acórdão do TJ/PB e trancar a ação penal, adentrou indevidamente no mérito da acusação, realizando um exame aprofundado do conjunto fático probatório para concluir pela ausência de nexo causal e pela inépcia da denúncia. Tal proceder contraria a jurisprudência do STF, que veda a utilização do habeas corpus para aprofundada análise de provas ou para discutir o mérito da acusação, especialmente quando não demonstrado, de plano, qualquer constrangimento ilegal ou abuso de poder”
+Requer, ao final, o conhecimento e provimento do apelo extremo para:
+“1. REFORMAR o v. acórdão proferido pelo Superior Tribunal de Justiça no AgRg no HABEAS CORPUS Nº 1004784 - PB (2025/0178610-4), que, equivocadamente, concedeu a ordem de habeas corpus para trancar a ação penal em desfavor de WAGNER DE ARAÚJO GOMES;
+2. RESTABELECER a decisão do Tribunal de Justiça do Estado da Paraíba que denegou a ordem de habeas corpus originária, reconhecendo a aptidão da denúncia e a regularidade do prosseguimento da ação penal nº 0807592 73.2023.815.2003;
+3. DETERMINAR o regular prosseguimento da ação penal nº 0807592 73.2023.815.2003, permitindo que a instrução processual seja concluída e que a análise aprofundada dos fatos e da participação do recorrido seja realizada na via adequada.” (e-doc. 50, p. 12)
+É o relatório. Decido.
+A irresignação revela-se inviável.
+Com efeito, em consulta aos andamentos processuais na origem, verifica-se que a intimação do acórdão sob o qual interposto o apelo extremo ocorreu em 24/09/25 (e-doc. 43) e o Parquet estadual manifestou ciência em 25/09/25 (e-doc. 47); contudo, o recurso extraordinário somente foi interposto somente em 13/10/25 (e-doc. 51), ou seja, após o término do prazo recursal ocorrido em 10/10/25.
+Portanto, o apelo extremo é intempestivo, visto que foi deduzido fora do prazo de 15 (quinze) dias corridos previsto no art. 1.003, § 5º, do CPC/15 c/c o art. 798 do CPP.
+Perfilham esse entendimento:
+“RECURSO EXTRAORDINÁRIO COM AGRAVO – INTEMPESTIVIDADE DO APELO EXTREMO – INOBSERVÂNCIA DO PRAZO PARA INTERPOSIÇÃO DO RECURSO EXTRAORDINÁRIO EM MATÉRIA CRIMINAL – MODO DE CONTAGEM DOS PRAZOS PROCESSUAIS PENAIS – DISCIPLINA NORMATIVA EXPRESSA (CPP, ART. 798, 'CAPUT') – INEXISTÊNCIA DE OMISSÃO NA LEGISLAÇÃO PROCESSUAL PENAL (CPP, ART. 3º) – INAPLICABILIDADE DA REGRA FUNDADA NO ART. 219, 'CAPUT', DO CÓDIGO DE PROCESSO CIVIL DE 2015 – AGRAVO INTERNO IMPROVIDO” (ARE nº 1.086.135/SP-AgR, Segunda Turma, Rel. Min. Celso de Mello, DJe de 23/1/18).
+
+“AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. CONFLITO DE COMPETÊNCIA. TEMPESTIVIDADE EM MATÉRIA PENAL. PRAZO DE 15 (QUINZE) DIAS PARA INTERPOSIÇÃO DO AGRAVO EM RECURSO EXTRAORDINÁRIO (ARTIGOS 1.003, § 5º, E 1.042 DO CPC/2015). CONTAGEM DOS PRAZOS DE FORMA CONTÍNUA (ARTIGO 798 DO CPP). DECISÃO MONOCRÁTICA DE ACORDO COM A JURISPRUDÊNCIA PACÍFICA DESTA SUPREMA CORTE. MERA REFERÊNCIA ÀS RAZÕES ANTERIORMENTE APRESENTADAS. SUCESSIVA INTERPOSIÇÃO DE RECURSOS CONTRÁRIOS À JURISPRUDÊNCIA CONSOLIDADA PELO PRETÓRIO EXCELSO CONFIGURA ABUSO DO DIREITO DE RECORRER. PRECEDENTES. CARÁTER PROTELATÓRIO DO RECURSO. DETERMINADA A CERTIFICAÇÃO DO TRÂNSITO EM JULGADO COM A CONSEQUENTE BAIXA IMEDIATA DOS AUTOS, INDEPENDENTEMENTE DA PUBLICAÇÃO DO ACÓRDÃO. AGRAVO REGIMENTAL DESPROVIDO” (ARE nº 1.160.336/MG, Primeira Turma, Rel. Min. Luiz Fux, DJe de 30/11/18).
+
+No mesmo sentido: ARE nº 1.196.714/MG, Rel. Min. Ricardo Lewandowski, DJe de 13/5/19 e ARE nº 1.197.868/SP, Rel. Min. Alexandre de Moraes, DJe de 4/4/19.
+Como pertinentemente observou o Ministro Celso de Mello, em caso similar,
+“[m]ostra-se importante destacar, por oportuno, que, tratando-se de prazo processual penal, o modo de sua contagem é disciplinado por norma legal que expressamente dispõe sobre a matéria (CPP, art. 798, caput), o que torna inaplicável a regra fundada no art. 219, caput, do Código de Processo Civil de 2015, pois, como se sabe, a possibilidade de aplicação analógica da legislação processual civil ao processo penal, embora autorizada pelo art. 3º do próprio Código de Processo Penal, depende, no entanto, para incidir, da existência de omissão na legislação processual penal (Lei de Introdução às Normas do Direito Brasileiro, art. 4º).
+Como anteriormente deixei registrado, inexiste omissão, no Código de Processo Penal, quanto à regulação do modo de contagem dos prazos processuais penais, eis que, nessa específica matéria, há cláusula normativa expressa que estabelece que Todos os prazos (…) serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado (CPP, art. 798, caput grifei), ressalvadas, unicamente, as hipóteses em que o prazo terminar em domingo ou em dia feriado, caso em que se considerará prorrogado até o dia útil imediato (CPP, art. 798, § 3º), ou em que houver impedimento do juiz, força maior ou obstáculo judicial oposto pela parte contrária (CPP , art. 798, § 4º)”(ARE nº 1248073/PR, DJe de 23/4/20)
+
+Ante o exposto, nego seguimento ao recurso. Determino - ante a manifesta intempestividade do apelo extremo - a certificação do trânsito em julgado e a baixa imediata dos autos, independente de publicação desta decisão.
+Publique-se.
+Brasília, 20 de julho de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
