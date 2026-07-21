@@ -1,0 +1,67 @@
+DECISÃO
+
+Habeas corpus. Decisão individual de ministro do STJ. Substitutivo de agravo regimental. Inadequação da via eleita. Homicídio qualificado. Prisão preventiva. Fundamentação idônea. Negativa de seguimento. Pedido liminar prejudicada.
+
+1. Trata-se de habeas corpus impetrado contra decisão proferida no Superior Tribunal de Justiça, pela qual o Ministro Relator não conheceu do Habeas Corpus nº 1.076.221/SP (e-doc. 17).
+
+2. Consta dos autos que o paciente foi preso em flagrante em 01/05/2025, tendo a custódia sido convertida em prisão preventiva, ante a suposta prática do crime previsto no art. 121, § 2º, incs. III e IV, c/c § 4º, do Código Penal (homicídio qualificado, com causa de aumento) (e-doc. 3). O Juízo de origem pronunciou o paciente, mantendo a custódia preventiva (e-doc. 6)
+
+3.  A defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado de São Paulo, que denegou a ordem. Contra esse acórdão, formalizou-se o citado writ no STJ, ato coator impugnado.
+
+4. Neste habeas corpus, o impetrante sustenta, em síntese, a ausência dos requisitos autorizadores da prisão preventiva. Afirma inexistir provas de que o paciente estaria com a capacidade psicomotora alterada por ingestão de álcool, nem de que estaria dirigindo com excesso de velocidade. Refuta o argumento relativo à tentativa de fuga do local do acidente, afirmando que teria o paciente tentado se esconder da ação de populares revoltados com a situação. Destaca a suficiência da substituição por cautelares diversas.
+
+5. Requer, no âmbito liminar e no mérito, a revogação da prisão preventiva, com ou sem a imposição de cautelar diversa.
+
+6. Consulta ao site do TJSP revelou haver sido incluído em pauta eletrônica de 06/08/2026 a 13/08/2026 o Recurso em Sentido Estrito nº 1500983-80.2025.8.26.0540 protocolado pela defesa.
+
+É o relatório.
+
+Decido.
+
+7. Este habeas corpus volta-se contra decisão individual de Ministro do Superior Tribunal de Justiça. Inexistindo pronunciamento colegiado do STJ, não compete ao Supremo Tribunal Federal examinar a questão de direito versada na impetração (CRFB, art. 102, inc. I, al. “i”). O caso é de habeas corpus substitutivo de agravo interno, cabível na origem. Nesse sentido: HC nº 115.659/PR, Rel. Min. Luiz Fux, Primeira Turma, j. 02/04/2013, p. 25/04/2013; HC nº 199.029-AgR/MA, Rel. Min. Edson Fachin, Segunda Turma, j. 19/04/2021, p. 29/04/2021; e HC nº 197.645-AgR/RJ, Rel. Min. Roberto Barroso, Primeira Turma, j. 08/04/2021, p. 16/04/2021.
+
+8. Verificada a inadequação da via eleita, eventual concessão da ordem de ofício é providência excepcional, a ser implementada somente quando constatada flagrante ilegalidade, abuso de poder ou mesmo teratologia na decisão impugnada. Da análise das peças que instruem a impetração, no entanto, não vislumbro situação a autorizá-la.
+
+9. O Ministro Relator, no ato coator perante o STJ, afastou a alegação de ilegalidade na imposição e manutenção da medida extrema, com a fundamentação a seguir:
+
+“Inicialmente, verifica-se que a prisão em flagrante do paciente foi convertida em preventiva nos seguintes termos (grifos nossos):
+"[...] A custódia cautelar, neste caso, é necessária para a garantia da ordem pública, considerando a gravidade concreta do delito, em que o autuado, após ingerir bebida alcoólica e substância psicoativa, assumiu a direção de veículo automotor e veio a atropelar e causar a morte de um idoso, que estava sentado na calçada em frente à própria residência. Importante ressaltar que, no presente caso, há indícios suficientes, neste momento processual, da presença de dolo eventual, uma vez que o autuado, ao ingerir conscientemente bebida alcoólica e substância psicoativa e, posteriormente, assumir a direção de veículo automotor, não apenas agiu com imprudência, mas assumiu deliberadamente o risco de produzir o resultado morte. Lembre-se, na hipótese, o princípio da actio libero in causa (art. 28, II, CP). A conduta do autuado demonstra desprezo pela incolumidade pública, evidenciando que, embora não tenha desejado diretamente o resultado, aceitou a possibilidade concreta de causá-lo. Neste sentido, ao decidir conduzir sob o efeito de álcool e substância psicoativa, comprovado pelo exame clínico positivo e pela presença de garrafa de uísque parcialmente consumida no interior do veículo, o autuado colocou-se voluntariamente em situação de risco previsível e assumiu suas consequências1. Corrobora ainda esta tese o fato de que o autuado tentou evadir-se do local após o atropelamento, demonstrando plena consciência da gravidade de sua conduta e indiferença quanto ao resultado produzido. Consta ainda que o indiciado, de acordo com o boletim de ocorrência, "foi identificado compulsoriamente pois não exibiu identificação civil válida" (fl. 10), evidenciando a necessidade da segregação cautelar também para assegurar a aplicação da lei penal. Assim, tendo em vista as circunstâncias específicas do caso concreto, notadamente a natureza do crime, cometido sob influência de álcool e substância psicoativa, bem como a tentativa de fuga do local, revela-se absolutamente necessária a conversão da prisão em flagrante em preventiva como único expediente por ora aplicável, já que a liberdade provisória e as medidas cautelares diversas da prisão (previstas no artigo 319 do Código de Processo Penal) são inadequadas e insuficientes para o caso concreto aqui analisado" (fls. 50/51)
+Ao manter a custódia antecipada do réu na sentença de pronúncia, o Magistrado singular consignou que:
+"Os motivos que ensejaram o decreto de prisão preventiva foram ainda mais reforçados pela prova produzida em juízo. Ressalto que, em caso de eventual condenação pelo Tribunal do Júri, incabível a concessão de qualquer benefício liberatório imediato em razão da pena privativa de liberdade prevista para o delito imputado. Por tais razões, denego ao réu o direito de recorrer em liberdade." (fl. 32)
+O Tribunal de origem denegou a ordem apontando os seguintes fundamentos:
+"Dito isto, cumpre salientar que o trecho alusivo à necessidade de custódia cautelar não se encontra apartado do corpo da r. decisão de pronúncia, mas, ao revés, constitui parte integrante desta. Desse modo, as circunstâncias ponderadas na origem, quer se refiram aos fatos imputados, quer se refiram à pessoa do acusado, exercem, por óbvio, influência na aferição dos requisitos que autorizam a prisão preventiva.
+In casu, trata-se de paciente pronunciado pela prática, em tese, de crime de homicídio qualificado pela utilização de meio de que resultou perigo em comum à incolumidade pública e recurso que dificultou a defesa da vítima maior de 60 (sessenta) anos de idade, sendo dispensável e até mesmo contraproducente a reiteração, em outros trechos da decisão, dos elementos escrutinados, uma vez que a periculosidade do réu foi devidamente valorada, vislumbrando-se a necessidade da medida extrema para a garantia da ordem pública.
+Outrossim, o ordenamento jurídico permite que seja decretada ou mantida a prisão processual quando da prolação da decisão de pronúncia, desde que de forma fundamentada [...]" (fls. 16/17)
+O Superior Tribunal de Justiça - STJ firmou posicionamento segundo o qual, considerando a natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição e manutenção quando evidenciado, de forma fundamentada em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do CPP.
+Convém, ainda, ressaltar que, considerando os princípios da presunção da inocência e a excepcionalidade da prisão antecipada, a custódia cautelar somente deve persistir em casos em que não for possível a aplicação de medida cautelar diversa, de que cuida o art. 319 do CPP.
+No caso dos autos, conforme se tem da leitura do acórdão impugnado, verifica-se que a prisão cautelar foi adequadamente motivada pela instância ordinária, que demonstrou, com base em elementos concretos dos autos, a periculosidade do agente e a gravidade concreta do delito, na medida em que o paciente, conduzindo veículo automotor em alta velocidade, subiu sobre a calçada, onde atropelou um idoso, o qual veio a óbito. Ainda segundo as instâncias ordinárias, o paciente estava com a capacidade psicomotora alterada pela ingestão de álcool e tentou fugir do local.
+Nesse contexto, forçoso concluir que a prisão processual está devidamente fundamentada na garantia da ordem pública, não havendo falar, portanto, em existência de evidente flagrante ilegalidade capaz de justificar a sua revogação. A propósito, vale observar precedentes desta Corte (grifos nossos):(...).” (e-doc. 17, p. 2-4; grifos adicionados).
+
+10. As premissas adotadas pelas instâncias antecedentes estão em harmonia com a jurisprudência desta Corte. Na linha de precedentes de ambas as Turmas, a gravidade concreta da conduta, revelada pelo modus operandi empregado, bem como o fato de o paciente ter tentado evadir-se do local, são motivos idôneos para a decretação da prisão preventiva:
+
+“Agravo regimental em habeas corpus. Direito Processual e Processual Penal. Homicídio qualificado (promessa de recompensa e emboscada). Prisão preventiva. Alegada falta de fundamentação idônea. Custódia fundamentada na periculosidade do agravante para a ordem pública em face de seu modus operandi e da gravidade em concreto de sua conduta, bem como das evidências de risco à instrução criminal (intimidação das testemunhas). Ausência de constrangimento ilegal a amparar ordem de habeas corpus ex officio. Agravo regimental não provido.”
+(HC nº 191.120-AgR/PE, Rel. Min. Dias Toffoli, Primeira Turma, j. 03/05/2021, p. 16/08/2021; grifos nossos).
+
+“AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO, POR DUAS VEZES. PRISÃO PREVENTIVA. MOTIVAÇÃO ADEQUADA. MEDIDAS CAUTELARES DIVERSAS. INAPLICABILIDADE. 1. Nos termos da jurisprudência de ambas as Turmas desta CORTE, o destacado modo de execução e a gravidade concreta do delito constituem fundamentos idôneos à determinação da custódia cautelar para resguardar a ordem pública. 2. Além da gravidade dos crimes de homicídio qualificado retratados nestes autos, a indicada ‘situação de fuga’ reforça a legitimidade da imposição da prisão preventiva não só para garantia da ordem pública, mas também para assegurar a aplicação da lei penal. 3. Agravo regimental a que se nega provimento.”
+ (HC nº 210.039-AgR/GO, Rel. Min. Alexandre de Moraes, Primeira Turma, j. 02/03/2022, p. 07/03/2022; grifos nossos).
+
+“AGRAVO REGIMENTAL EM HABEAS CORPUS. MATÉRIA CRIMINAL. PACIENTE FORAGIDO. PRISÃO PREVENTIVA. NECESSIDADE PARA ASSEGURAR A APLICAÇÃO DA LEI PENAL. ACUSADO CONDENADO EM SEGUNDA INSTÂNCIA A PENA A SER CUMPRIDA EM REGIME FECHADO. AUSÊNCIA DE OFENSA AO PRINCÍPIO DA HOMOGENEIDADE. AGRAVO REGIMENTAL DESPROVIDO. 1. É legítima a manutenção da prisão preventiva decretada em desfavor de réu foragido, dada a necessidade concreta da medida para assegurar a aplicação da lei penal. Precedentes. 2. A constatação de que o paciente teve a sua condenação confirmada, em segundo grau de jurisdição, à pena de 08 (oito) anos de reclusão, em regime fechado, torna desprovida de verossimilhança a tese de ofensa ao princípio da homogeneidade das penas. 2. Agravo regimental desprovido.”
+(HC nº 207.957-AgR/SP, Rel. Min. Edson Fachin, Segunda Turma, j. 28/03/2022, p. 18/04/2022; grifos nossos).
+
+“Recurso ordinário em habeas corpus. 2. Homicídio qualificado. 3. Prisão preventiva. Alegação de ausência dos requisitos autorizadores da custódia cautelar (art. 312 do CPP). 4. Paciente foragido do distrito da culpa. Necessidade da custódia preventiva para assegurar a aplicação da lei penal, bem como garantir a ordem pública. Precedentes. 5. Acusado integrante de organização criminosa. 6. Idoneidade da prisão decretada com base em fatos concretos observados pelo juiz na instrução processual, notadamente a periculosidade do recorrente, não só em razão da gravidade do crime, mas também pelo modus operandi da conduta delituosa. 7. Recurso ordinário não provido.”
+(RHC nº 131.537/MS, Rel. Min. Gilmar Mendes, Segunda Turma, j. 28/06/2016, p. 24/10/2016; grifos nossos).
+
+11. Ademais, registro que o fato de o paciente apresentar atributos favoráveis, alegados pela defesa, é insuficiente para afastar a prisão (HC nº 154.394-AgR/SP, Rel. Min. Dias Toffoli, Segunda Turma, j. 29/06/2018, p. 24/08/2018; HC nº 214.290-AgR/SP, Rel. Min. Edson Fachin, Segunda Turma, j. 23/05/2022, p. 06/06/2022; e RHC nº 217.679-AgR/SC, Rel. Min. Roberto Barroso, Primeira Turma, j. 03/10/2022, p. 06/10/2022).
+
+12. Por fim, as alegações quanto à ausência de comprovação de circunstâncias do fato criminoso, tais como a alta velocidade e a tentativa de fuga, não são passíveis de análise na presente via, por demandarem revolvimento de fatos e provas.
+
+13. Com efeito,  “[a] ação de ‘habeas corpus’ constitui remédio processual inadequado, quando ajuizada com o objetivo (a) de promover a análise da prova penal, (b) de efetuar o reexame do conjunto probatório regularmente produzido, (c) de provocar a reapreciação da matéria de fato e (d) de proceder à revalorização dos elementos instrutórios coligidos no processo penal de conhecimento.“ (HC nº 118.912-AgR/SP, Rel. Min. Celso de Mello, Segunda Turma, j. 17/12/2013, p. 13/02/2013).
+
+14. Ante o exposto, nego seguimento ao habeas corpus, com fundamento no art. 21, §1º, do RISTF, ficando prejudicado o pedido de liminar.
+
+Publique-se.
+
+Brasília, 21 de julho de 2026.
+
+Ministro ANDRÉ MENDONÇA
+Relator
