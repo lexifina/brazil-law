@@ -1,0 +1,9 @@
+DECISÃO
+Conforme petição das fls. 520-524, a interessada Nivello Soluções Empresariais Ltda. informou ter desistido do Agravo de Instrumento 0020005-13.2026.8.04.9001, em que se deu a antecipação da tutela recursal que gerou o pedido de contracautela, formulado pelo Estado do Amazonas. Por esse motivo, comunicou a perda de objeto da presente Suspensão de Liminar e de Sentença.
+Intimado a se manifestar, o ente público (fls. 529-533) expressamente concordou com a perda de objeto, mas informa e requer seja consignado que tal fato não tem origem na desistência do Agravo de Instrumento, mas diante do reconhecimento das condições de legalidade no procedimento licitatório, como resultado da decisão que, no Agravo Interno do Estado do Amazonas (nos autos do citado Agravo de Instrumento 0020005-13.2026.8.04.9001), concedeu liminar para revogar a decisão anterior.
+Com a devida vênia, é irrelevante, para os fins do presente feito, adentrar a análise das razões que ensejaram a desistência do Agravo de Instrumento interposto pela empresa (ora interessada) nas instâncias de origem. Ainda que os fatos tenham ocorrido nos exatos termos descritos pelo Estado do Amazonas, o próprio ente público admite que o pedido de desistência foi formulado - desistência essa que constitui faculdade processual da parte então agravante, pois ela poderia insistir no julgamento do mérito do Agravo de Instrumento, ou mesmo interpor recursos para as instâncias superiores.
+O que importa é que é fato incontroverso que foi formulado o pedido de desistência do Agravo de Instrumento 0020005-13.2026.8.04.9001 e que o ora querente anuiu com a indicação de perda de objeto do presente feito, ao expressamente pleitear "a extinção do presente incidente, sem resolução de mérito" (fl. 530).
+Diante do exposto, julgo extinto o feito, em razão da perda de objeto.
+Publique-se.
+Intimem-se.
+EMENTA
