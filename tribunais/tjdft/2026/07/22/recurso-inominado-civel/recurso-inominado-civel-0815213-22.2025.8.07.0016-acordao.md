@@ -1,0 +1,69 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Primeira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0815213-22.2025.8.07.0016RECORRENTE(S)LORENA PIMENTEL FOIZERRECORRIDO(S)LATAM AIRLINES GROUP S/ARelatorJuiz EVANDRO NEIVA DE AMORIM
+ Acórdão Nº2150960
+
+EMENTA
+
+ DIREITO DO CONSUMIDOR. DIREITO AERONÁUTICO. JUIZADOS ESPECIAIS CÍVEIS. RECURSO INOMINADO. TRANSPORTE AÉREO INTERNACIONAL. COBRANÇA DE BAGAGEM DESPACHADA EM TRECHO DOMÉSTICO. RESERVA ÚNICA. EXTENSÃO AUTOMÁTICA DO CONTRATO DE BAGAGEM. IMPOSSIBILIDADE. SERVIÇO ACESSÓRIO. RESOLUÇÃO ANAC Nº 400/2016, ART. 13. AUSÊNCIA DE ATO ILÍCITO. DANOS MATERIAIS E MORAIS. NÃO CONFIGURAÇÃO. GRATUIDADE DE JUSTIÇA. ISENÇÃO DE IMPOSTO DE RENDA. DEFERIMENTO. RECURSO CONHECIDO E NÃO PROVIDO.
+
+I. CASO EM EXAME
+
+1. Trata-se de ação de indenização por danos materiais e morais ajuizada por L.P.F. em face de LATAM AIRLINES GROUP S/A. A autora sustenta, em síntese, que adquiriu passagens aéreas para dois voos consecutivos — LA 8119, trecho Montevidéu/MVD–São Paulo/GRU, com partida programada às 4h40 do dia 26 de junho de 2025, e LA 3259, trecho São Paulo/GRU–Brasília/BSB, com chegada prevista às 23h50 do mesmo dia —, ambos sob reserva única de código ONZFKO, na modalidade stop-over prolongado. Afirma que, por ocasião da mesma compra, contratou o serviço de bagagem despachada de 23 kg para ambos os voos, pelo valor total de US$ 74,17 (equivalente a R$ 383,48 à cotação de R$ 5,17 por dólar), conforme documentos acostados aos autos. Narra que, ao desembarcar no aeroporto de Guarulhos após o primeiro voo e se dirigir ao check-in para o segundo trecho, foi surpreendida por orientação da companhia aérea no sentido de que os dois voos seriam tratados como contratações isoladas, e não como itinerário único. Em decorrência disso, foi exigido novo pagamento pelo despacho da bagagem no trecho doméstico, sob pena de a autora não poder transportar seus pertences. Diante da iminência de perder o voo, a autora efetuou o pagamento adicional. Sustenta, ainda, que a recorrida deixou de prestar assistência material e deixou-a à própria sorte, em afronta à Resolução ANAC nº 400/2016. Por tais razões, requereu a condenação da ré ao ressarcimento de R$ 383,48 a título de danos materiais, correspondentes ao valor pago em duplicidade pelo despacho da bagagem e a condenação ao pagamento de R$ 10.000,00 a título de danos morais, perfazendo o total de R$ 10.383,48.
+
+2. A sentença prolatada no ID 83960025, julgou improcedentes todos os pedidos deduzidos pela autora, com resolução do mérito na forma do art. 487, inciso I, do CPC, com base no documento extraído do sistema interno da recorrida e nos documentos apresentados pela própria autora, de onde se concluiu que o serviço de bagagem despachada de 23 kg foi contratado exclusivamente para o trecho Montevidéu–São Paulo (voo LA 8119), não abrangendo o trecho doméstico São Paulo–Brasília (voo LA 3259).
+
+3. Inconformada, a recorrente interpôs recurso inominado (ID 83960027), alegando, em síntese: (i) que os voos foram adquiridos sob reserva única, o que implicaria automaticamente a extensão do serviço de bagagem despachada a todo o itinerário; (ii) que a recorrida incorreu em falha na prestação do serviço ao não reconhecer a unicidade da reserva e exigir novo pagamento pelo despacho da bagagem no trecho doméstico; (iii) que os danos morais são devidos, em face dos transtornos, frustrações, constrangimentos e angústias vivenciados durante a viagem, bem como da ausência de assistência material por parte da recorrida; e (iv) que a sentença merece reforma para condenar a recorrida ao pagamento integral de R$ 10.383,48 a título de danos materiais e morais.
+
+4. A recorrida apresentou contrarrazões no ID 83960031, pugnando pelo desprovimento do recurso. Não suscitou preliminar processual. No mérito, sustentou: (a) que a documentação dos autos demonstra, de forma inequívoca, que a bagagem foi contratada exclusivamente para o trecho internacional Montevidéu–São Paulo; (b) que não há previsão normativa que obrigue a extensão automática do serviço à totalidade do itinerário pelo fato de os voos constarem de uma mesma reserva; (c) que a cobrança efetuada no aeroporto decorreu do exercício regular de direito, em conformidade com as condições contratuais pactuadas e com a Resolução ANAC nº 400/2016; e (d) que ausente o ato ilícito, não há configuração de danos materiais ou morais indenizáveis, sendo eventual desconforto mero aborrecimento cotidiano insuscetível de reparação.
+
+II. QUESTÃO EM DISCUSSÃO
+
+5. As questões em discussão consistem em verificar: (i) se a recorrente faz jus à gratuidade de justiça, diante da documentação acostada aos autos em resposta à decisão de ID 84813947; (ii) se o contrato de bagagem despachada celebrado sob reserva única abrange automaticamente todos os trechos do itinerário ou se constitui serviço acessório que deve ser especificamente contratado para cada segmento de voo; e (iii) se a cobrança efetuada no aeroporto de São Paulo pelo despacho da bagagem no trecho São Paulo–Brasília configura ato ilícito capaz de gerar obrigação de indenizar danos materiais e morais.
+
+III. RAZÕES DE DECIDIR
+
+6. Inicialmente, cumpre analisar o pedido de gratuidade de justiça formulado pela recorrente. Por decisão de ID 84813947, determinou-se a intimação da recorrente para comprovação da hipossuficiência alegada, mediante apresentação de declaração de imposto de renda atualizada, extratos bancários e demais documentos pertinentes. Em cumprimento, a recorrente juntou aos autos, petição (ID 85202809) esclarecendo ser trabalhadora autônoma, sem renda regular, acompanhada de comprovante de situação cadastral no CPF (ID 85202810) e de declaração de isenção de imposto de renda extraída do sítio eletrônico da Receita Federal do Brasil (ID 85202811), da qual consta que o nome da recorrente não figura na base de dados do órgão fazendário como obrigada ao recolhimento do tributo, indicando que seus rendimentos anuais não alcançam o limite mínimo sujeito à tributação. O art. 98 do CPC assegura a gratuidade de justiça à pessoa natural que comprove insuficiência de recursos para arcar com as custas, despesas processuais e honorários advocatícios. O art. 99, §3º, do mesmo diploma estabelece presunção relativa de veracidade da declaração de hipossuficiência prestada por pessoa natural. A comprovação da isenção do imposto de renda, por constituir informação oficial extraída de sistema da própria Receita Federal do Brasil, representa elemento objetivo suficiente para evidenciar que os rendimentos da requerente não ultrapassam o patamar mínimo de tributação, tornando plausível a afirmação de hipossuficiência econômica. Tal circunstância, aliada à presunção legal em favor da pessoa natural e à ausência de elementos concretos que a infirmem, autoriza o deferimento do benefício. Defiro, portanto, a gratuidade de justiça à recorrente. Passo ao exame do mérito.
+
+7. A controvérsia deve ser examinada, no que toca ao contrato de transporte aéreo, sob a égide da Convenção de Montreal, promulgada no ordenamento brasileiro pelo Decreto nº 5.910/2006, cuja prevalência sobre as normas gerais do Código de Defesa do Consumidor, em hipóteses de transporte aéreo internacional, foi definitivamente assentada pelo Supremo Tribunal Federal no julgamento do RE 636.331/RJ e do ARE 766.618/SP, com reconhecimento de repercussão geral sob o Tema 210 — tese esta que não foi impugnada pela recorrente e, portanto, transitou em julgado. Ressalva-se, nos termos do próprio acórdão do STF, a possibilidade de diálogo das fontes para lacunas não disciplinadas pela Convenção.
+
+8. O exame do mérito cinge-se à questão central de saber se a cobrança pelo despacho da bagagem no trecho doméstico São Paulo–Brasília foi ou não indevida. A solução da controvérsia é essencialmente probatória. O art. 13 da Resolução ANAC nº 400/2016 dispõe que o transporte de bagagem despachada configura contrato acessório em relação ao contrato principal de transporte de passageiro, devendo ser especificamente pactuado. Não existe, portanto, qualquer previsão normativa que imponha à companhia aérea a extensão automática do serviço de bagagem a todos os segmentos de um itinerário pelo simples fato de os voos constarem de uma reserva de código único. A reserva única identifica o itinerário do passageiro, mas não determina, por si só, o escopo dos serviços acessórios contratados para cada trecho.
+
+9. O elemento probatório determinante é o documento extraído do sistema interno da recorrida (ID 83960014),  que demonstra ter o serviço de bagagem despachada de 23 kg sido adquirido exclusivamente para o trecho Montevidéu–São Paulo, referente ao voo LA 8119, sem extensão ao voo LA 3259 (São Paulo–Brasília). Corroboram essa conclusão os documentos apresentados pela própria autora como suporte de seu direito: o comprovante de compra revela que a tarifa SLEQPZ0L aplicada ao itinerário não inclui bagagem despachada, tendo o serviço sido adquirido como contrato acessório específico para o trecho internacional (ID. 83958551). A circunstância de os dois voos integrarem uma reserva única de código ONZFKO é incontroversa. O que os documentos demonstram, porém — e é neste ponto que reside a questão jurídica central —, é que a contratação da bagagem despachada foi realizada como serviço acessório vinculado exclusivamente ao trecho internacional, não se estendendo automaticamente ao trecho doméstico. Não há, nos autos, qualquer documento que comprove o pagamento pelo despacho de bagagem para ambos os voos.
+
+10. Competia à recorrente, nos termos do art. 373, inciso I, do CPC, comprovar o fato constitutivo de seu direito — isto é, que havia contratado e pago pelo serviço de bagagem despachada também para o trecho São Paulo–Brasília, e que a cobrança efetuada no aeroporto de Guarulhos era, portanto, indevida. Todavia, não se desincumbiu desse ônus. Ao contrário, a prova que ela própria apresentou corrobora a versão da recorrida.
+
+11. Registra-se, ademais, inconsistência relevante na fundamentação do recurso: a recorrente afirma ser "fato incontroverso a falha na prestação de serviços" — premissa que, contudo, é diametralmente oposta à conclusão da sentença, que expressamente reconheceu a regularidade da cobrança. O recurso não enfrenta o fundamento central da decisão recorrida, qual seja, o conteúdo dos documentos que demonstram a não contratação da bagagem para o trecho doméstico. A mera reiteração da narrativa fática da inicial, sem controvérsia probatória específica, é insuficiente para afastar a fundamentação da sentença.
+
+12. Assim, constatada a regularidade da cobrança efetuada pela recorrida — por se tratar de serviço acessório não previamente contratado para o trecho doméstico —, está afastada a ilicitude da conduta. Sem ato ilícito, não há que se falar em dano material indenizável. O valor pago pela recorrente no aeroporto de Guarulhos correspondeu à contratação e fruição de serviço efetivamente prestado, de modo que sua restituição implicaria enriquecimento sem causa, vedado pelo ordenamento.
+
+13. A mesma conclusão aplica-se ao pedido de reparação por danos morais. A responsabilidade civil, seja contratual ou extracontratual, pressupõe, em qualquer das suas modalidades, a existência de conduta antijurídica. Inexistindo ilicitude na conduta da recorrida — que agiu em estrita conformidade com as condições contratuais pactuadas e com a regulamentação aplicável —, não há fundamento jurídico para o reconhecimento de dano extrapatrimonial. Ainda que se cogitasse de algum transtorno suportado pela recorrente em razão da divergência sobre as condições contratuais, este não transcende ao patamar do mero aborrecimento ou dissabor inerente às vicissitudes das relações contratuais, insuficiente para caracterizar lesão à personalidade apta a justificar compensação moral. O dano moral, conforme pacífica orientação jurisprudencial, não se presume do inadimplemento contratual nem de simples inconvenientes da vida de relação, exigindo-se a demonstração de fato excepcional que cause sofrimento intenso e duradouro, o que não se verifica nos autos.
+
+IV. DISPOSITIVO
+
+14. RECURSO CONHECIDO e NÃO PROVIDO.
+
+15. Sendo a recorrente integralmente vencida, condeno-a ao pagamento de honorários advocatícios em favor do patrono da recorrida, fixados em 10% (dez por cento) sobre o valor da causa (R$ 10.383,48), nos termos do art. 55, §1º, da Lei nº 9.099/1995. Em razão do deferimento da gratuidade de justiça, suspendo a exigibilidade dos honorários até eventual alteração da situação econômica da recorrente, nos termos do art. 98, §3º, do CPC, ficando ressalvado ao patrono da recorrida o direito de executá-los na hipótese de cessação da hipossuficiência econômica da beneficiária.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Primeira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, EVANDRO NEIVA DE AMORIM - Relator, ELISABETH CRISTINA AMARANTE BRANCIO MINARE - 1º Vogal e FLÁVIO FERNANDO ALMEIDA DA FONSECA - 2º Vogal, sob a Presidência do Senhor Juiz LUIS EDUARDO YATSUDA ARIMA, em proferir a seguinte decisão: CONHECIDO. NÃO PROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 22 de Julho de 2026
+
+Juiz EVANDRO NEIVA DE AMORIMRelator
+
+RELATÓRIO
+
+A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+VOTOS
+
+O Senhor Juiz EVANDRO NEIVA DE AMORIM - RelatorA ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+A Senhora Juíza ELISABETH CRISTINA AMARANTE BRANCIO MINARE - 1º Vogal Com o(a) relator(a)O Senhor Juiz FLÁVIO FERNANDO ALMEIDA DA FONSECA - 2º Vogal Com o(a) relator(a)
+
+DECISÃO
+
+CONHECIDO. NÃO PROVIDO. UNÂNIME.
