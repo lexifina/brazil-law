@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto por IAGO DOS SANTOS CAJAÍBA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do Habeas Corpus n. 2019278-45.2026.8.26.0000.
+Extrai-se dos autos que o Juízo da Vara de Execução Penal regrediu cautelarmente o paciente, do regime semiaberto para o fechado.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, nos termos do acórdão assim resumido:
+"HABEAS CORPUS - EXECUÇÃO PENAL - Regressão cautelar do regime semiaberto para o fechado -Medida amparada no poder geral de cautela do magistrado (art. 66, VI, da LEP), diante da notícia de falta grave - Aplicação do princípio in dubio pro societate - Ausência de constrangimento ilegal - Matéria própria de agravo em execução - Habeas corpus não é via adequada para análise do mérito da regressão definitiva - ORDEM DENEGADA." (fl. 120).
+Nas razões recursais, a defesa sustenta nulidade absoluta por cerceamento de defesa, em violação ao devido processo legal, ao contraditório e à ampla defesa, diante da imposição e manutenção de regime mais gravoso sem controle defensivo minimamente legítimo.
+Sustenta a ausência de audiência de justificação e de oitiva judicial do reeducando, apontando que a providência cautelar foi estabilizada sem submissão posterior ao procedimento regular com contraditório e ampla defesa.
+Assevera a inexistência de ciência formal e de intimação válida da defesa técnica acerca dos atos que importaram em restrição de liberdade, o que esvaziou o contraditório e impossibilitou participação defensiva real.
+Aponta a absoluta precariedade do suporte fático-probatório, pois, embora houvesse câmeras no local dos fatos, não foram apresentadas imagens, mídias, relatórios técnicos ou autos de preservação, subsistindo apenas relatos dos policiais penais, sem corroboração externa, independente e verificável.
+Defende que a imputação foi construída a partir de relatos internos da unidade, reproduzidos em portaria administrativa, sem produção probatória externa e objetiva, revelando o uso indevido da cautelaridade como atalho para substituir a apuração regular.
+Argumenta a desproporcionalidade da medida diante da inexistência de histórico disciplinar negativo do paciente, o que torna arbitrária a regressão cautelar fundada em narrativa unilateral e desprovida de prova objetiva.
+Aduz a inexistência de contraditório útil e a impossibilidade de estabilização indefinida da medida cautelar, tendo sido inclusive suspensa a análise de benefícios até o encerramento do procedimento apuratório, o que desnatura a excepcionalidade e a brevidade da cautela.
+Requer, em liminar, a suspensão imediata dos efeitos do acórdão recorrido e do ato executório que manteve a regressão/sustação cautelar do regime prisional, com o restabelecimento do regime anteriormente cumprido pelo paciente, ou a realização, em prazo exíguo, de audiência de justificação, com oitiva pessoal do reeducando e contraditório pleno. No mérito, pugna pelo provimento integral do recurso, para anular o acórdão recorrido, reconhecer a nulidade da manutenção da regressão/sustação cautelar e determinar o restabelecimento do regime anteriormente cumprido. Subsidiariamente, busca o reconhecimento da nulidade procedimental e a determinação de audiência contraditória.
+Liminar indeferida às fls. 152/154.
+Informações prestadas às fls. 157/186 e 190/193.
+O Ministério Público Federal opinou pelo desprovimento do recurso (fls. 198/200).
+É o relatório.
+Decido.
+O Tribunal de origem afastou a ocorrência de constrangimento ilegal mediante a seguinte fundamentação (fls. 121/123):
+"Inicialmente, cumpre destacar que a decisão impugnada foi proferida no âmbito da execução penal. O habeas corpus não é a via adequada para exame da matéria, pois o recurso cabível é o agravo em execução, nos termos do art. 197 da Lei de Execução Penal (Lei nº 7.210/84).
+Ainda que se analisem os argumentos, não se verifica constrangimento ilegal. A Lei de Execução Penal, em seu art. 118, §2º, prevê a necessidade de oitiva prévia para regressão definitiva de regime, o que foi reconhecido pela 12ª Câmara em agosto de 2025. Contudo, a decisão ora impugnada apenas manteve a suspensão cautelar do regime semiaberto, fls. 200/201 e 272.
+Houve a sustação cautelar do regime semiaberto diante da notícia da prática de suposta falta. Trata-se de regressão cautelar, admitida na execução penal, conforme art. 66, VI, da LEP, diante do poder geral de cautela do magistrado, aplicando-se, nessa fase, o princípio do in dubio pro societate. Portanto, não há exigência de oitiva prévia para a medida cautelar. A jurisprudência é pacífica nesse sentido:
+ ..
+Ausente constrangimento ilegal. Ante o exposto, nega-se a ordem. Considera-se prequestionada toda matéria infraconstitucional e constitucional, sendo desnecessária a citação numérica dos dispositivos legais, bastando que a questão tenha sido decidida (EDROMS 18205/SP, Min. Felix Fischer, DJ 08.05.2006, p. 24)."
+O acórdão recorrido está em perfeita sintonia com a jurisprudência desta Corte, que é firme no sentido de que "a regressão cautelar de regime prisional, por sua natureza provisória, não exige prévia oitiva do apenado, conforme entendimento consolidado no Tema n. 1.347 dos recursos repetitivos do STJ" (AgRg nos EDcl no HC n. 1.018.403/MG, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 25/2/2026, DJEN de 3/3/2026).
+No mesmo sentido, confira-se o seguinte julgado:
+PROCESSO PENAL. EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PRINCÍPIO DA COLEGIALIDADE. AUSÊNCIA DE OFENSA. REGRESSÃO CAUTELAR DE REGIME. FALTA GRAVE (EVASÃO E DESCUMPRIMENTO DO MONITORAMENTO ELETRÔNICO). OITIVA PRÉVIA PRESCINDÍVEL. AUDIÊNCIA DE JUSTIFICAÇÃO REALIZADA. SÚMULA 444/STJ. INAPLICABILIDADE. TEMA REPETITIVO N. 1.347/STJ. INEXISTÊNCIA DE COMANDO VINCULANTE AFASTANDO A PRESCINDIBILIDADE DE OITIVA EM REGRESSÃO CAUTELAR NAS CIRCUNSTÂNCIAS DO CASO. INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prolação de decisão monocrática pelo Ministro Relator está autorizada não apenas pelo RISTJ, mas também pelo CPC. Nada obstante, como é cediço, os temas decididos monocraticamente sempre poderão ser levados ao colegiado, por meio do controle recursal, o qual foi efetivamente utilizado no caso dos autos, com a interposição do presente agravo regimental.
+2. As alegações de atipicidade do "fato gatilho" e a narrativa circunstanciada sobre descarga isolada da bateria da tornozeleira, com horários e suposta ausência de advertência, configuram inovação recursal e não podem ser conhecidas na via do agravo regimental.
+3. A regressão cautelar foi motivada em falta grave consistente em evasão e descumprimentos do monitoramento eletrônico. A oitiva prévia é prescindível para a regressão cautelar quando há comunicação de falta grave, sendo suficiente a realização de audiência de justificação para a regressão definitiva, como ocorreu.
+4. A Súmula 444/STJ não se aplica, pois a decisão não se baseou em inquéritos ou ações penais em curso para agravar pena-base, mas em condutas típicas de falta disciplinar grave no âmbito da execução penal.
+5. O Tema Repetitivo n. 1.347/STJ não apresenta comando vinculante apto a afastar, nas circunstâncias dos autos, a prescindibilidade da oitiva prévia em regressão cautelar, sobretudo diante da audiência de justificação realizada.
+6. As alegações de falha pontual de bateria e desproporcionalidade demandam dilação probatória, inviável na via estreita do habeas corpus e de seu agravo.
+7. Agravo regimental não provido.
+(AgRg no RHC n. 231.354/AC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/3/2026, DJEN de 24/3/2026.)
+Desse modo, não há falar em nulidade das decisões proferidas pelas instâncias ordinárias por deficiência de fundamentação ou desrespeito ao contraditório e à ampla defesa.
+Por outro lado, verifica-se que a tese de negativa de autoria do crime que constituiu a falta grave não foi analisada pelo Tribunal de origem, o que obsta a apreciação por esta Corte Superior de Justiça, sob pena de atuar em indevida supressão de instância.
+Ausente, portanto, qualquer constrangimento ilegal que justifique a concessão da ordem de ofício.
+Por tais razões, com fulcro no art. 34, XVIII, "a", do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
