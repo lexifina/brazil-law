@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por RICARDO AUGUSTO PINHO DE PAULA contra a decisão do Tribunal de Justiça do Estado de Mato Grosso do Sul que inadmitiu recurso especial, apresentado contra o acórdão exarado no julgamento da Apelação Criminal n. 0900085-12.2024.8.12.0033.
+O Ministério Público Federal apresentou parecer opinando pelo não conhecimento do agravo em recurso especial (fls. 574/580).
+É o relatório.
+O agravo é inadmissível.
+Inicialmente, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos, inclusive de forma específica, suficiente e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula n. 182/STJ (AgRg nos EDcl no AREsp n. 2.985.942/MA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/9/2025, DJEN de 25/9/2025).
+O Tribunal de origem inadmitiu o apelo nobre pelo seguinte fundamento: incidência da Súmula 7/STJ, por entender que o acolhimento das teses - estado de necessidade (art. 24 do CP) e aplicação do art. 33, § 4º, da Lei n. 11.343/2006 - exigiria revolvimento fático-probatório.
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, o óbice da Súmula 7/STJ, pois apenas afirma a não incidência do verbete e invoca o princípio do in dubio pro reo, sem demonstrar a viabilidade de acolhimento das teses por mera revaloração das premissas fáticas fixadas no acórdão recorrido .
+Com efeito, é entendimento desta Corte Superior que inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível (AgRg no AREsp n. 2.204.136/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 16/5/2023, DJe de 19/5/2023).
+Ademais, as razões de mérito - que sequer foram conhecidas, mas foram reiteradas neste recurso - voltam-se contra o acórdão recorrido, evidenciando, mais uma vez, a violação ao princípio da dialeticidade.
+Assim, aplica-se, à hipótese dos autos, o art. 932, inciso III, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, e a Súmula 182/STJ por analogia.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
