@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ADALMAR GONÇALVES, ADALAN GONÇALVES JÚNIOR, JOSÉ CARLOS DOS SANTOS e LUCAS VINICIUS RODRIGUES contra a decisão do Tribunal Regional Federal da 6ª Região que inadmitiu recurso especial, apresentado contra o acórdão exarado no julgamento da Apelação Criminal n. 0040054-64.2015.4.01.3800/MG.
+O Ministério Público Federal apresentou parecer opinando pelo improvimento do agravo em recurso especial (fls. 10.841/10.844).
+É o relatório.
+O agravo é inadmissível.
+Inicialmente, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos, inclusive de forma específica, suficiente e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula n. 182/STJ (AgRg nos EDcl no AREsp n. 2.985.942/MA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/9/2025, DJEN de 25/9/2025).
+O Tribunal de origem inadmitiu o apelo nobre pelos seguintes fundamentos: a) ausência de prequestionamento quanto à falta de intimação da Defensoria Pública (fls. 9496/9497); b) acórdão em consonância com a jurisprudência acerca da desnecessidade da sustentação oral e da inexistência de nulidade pelo indeferimento de adiamento da sessão (fls. 9497/9499); c) incidência da Súmula 7/STJ quanto à alegada quebra da cadeia de custódia e à legitimidade da prova (fl. 9498); d) acórdão alinhado à orientação d o Superior Tribunal de Justiça sobre a inexistência de bis in idem na causa de aumento da transnacionalidade, com aplicação da Súmula 83/STJ (fls. 9498/9499); e e) inexistência de negativa de prestação jurisdicional, por terem sido expostos fundamentos suficientes, com afastamento de violação aos arts. 1.022 do CPC e 315, § 2º, e 619 do CPP (fl. 9499).
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a íntegra da decisão de inadmissão.
+No ponto da falta de prequestionamento, a impugnação é genérica, sem indicação das folhas ou excertos dos acórdãos que demonstrem o efetivo debate da tese, tampouco comprova, de forma concreta, a incidência do prequestionamento ficto (fls. 9617/9618).
+Quanto à conformidade jurisprudencial relativa à nulidade da sessão e sustentação oral, não houve distinção dos precedentes citados nem indicação de julgados contemporâneos ou subsequentes em sentido contrário, permanecendo incólume o fundamento de inadmissão (fls. 9615/9618).
+No tema do bis in idem ligado à transnacionalidade, a impugnação não afastou a aplicação da Súmula 83/STJ, por ausência de distinção do precedente indicado (AgRg no REsp n. 2.204.130/MG) e de precedentes divergentes (fls. 9620/9621).
+Ainda que a tese da cadeia de custódia tenha sido desenvolvida sob enfoque jurídico e com citação de precedente, faltou demonstrar, concretamente, a possibilidade de solução por mera revaloração dos fatos expressamente consignados no acórdão recorrido, não superando, assim, o óbice da Súmula 7/STJ (fls. 9618/9620).
+Por fim, acerca da negativa de prestação jurisdicional, não foram apontadas folhas ou trechos dos acórdãos que evidenciassem omissão específica ou vício de fundamentação, mantendo-se hígido o fundamento de suficiência da motivação (fls. 9621/9623).
+Assim, aplica-se, à hipótese dos autos, o art. 932, inciso III, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, e a Súmula 182/STJ por analogia.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
