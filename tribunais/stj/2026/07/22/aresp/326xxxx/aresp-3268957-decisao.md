@@ -1,0 +1,28 @@
+DECISÃO
+Estes autos foram a mim redistribuídos por prevenção de turma (fl. 661).
+Trata-se de agravo interposto por THIAGO PAULO PEREIRA FORTUNATO contra a decisão que inadmitiu o recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, apresentado contra o acórdão exarado pelo Tribunal de Justiça do Estado de Minas Gerais no julgamento da Apelação Criminal n. 1.0000.25.237183-6/001, assim ementado (fl. 450):
+APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. PRELIMINAR. NULIDADE DO FLAGRANTE POR VIOLAÇÃO DE DOMICÍLIO. REJEIÇÃO. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. DESCABIMENTO. REDUÇÃO DA PENA-BASE. NECESSIDADE.
+1. Tendo em vista que o ingresso dos militares na residência do réu se deu porque o próprio agente autorizou expressamente, inviável se falar em nulidade do flagrante, por suposta invasão de domicílio.
+2. Comprovado que todo o material entorpecente apreendido pertencia ao réu e se destinava à mercancia ilícita, deve ser mantida a condenação do acusado nas penas do art. 33, caput, da Lei nº 11.343/06, não havendo, em contrapartida, que se falar em desclassificação criminal benéfica.
+3. Não havendo dados concretos processuais que justifiquem a negativação de determinada circunstância judicial, deve ela ser neutralizada na fixação da pena-base.
+Nas razões do recurso especial, a parte agravante, além do dissídio jurisprudencial, suscita violação dos arts. 5º, XI e LVI, da Constituição Federal; 33, caput, e 28, § 2º, ambos da Lei n. 11.343/2006 (fls. 617).
+Sustenta que o acórdão violou o art. 5º, XI, da Constituição Federal ao validar o ingresso domiciliar sem comprovação dos requisitos de consentimento livre e voluntário - documentação por escrito e registro audiovisual (fls. 483/488).
+Argumenta que houve erro na subsunção ao art. 33 da Lei n. 11.343/2006, pois a mera cogitação de vender, sem atos concretos de mercancia, não caracteriza dolo específico de tráfico, impondo a desclassificação para o art. 28, à luz dos critérios do § 2º (fls. 489/490).
+A Corte de origem inadmitiu o reclamo com base na incidência da Súmula 7/STJ (fls. 601/604), sendo a decisão atacada pelo presente agravo (fls. 607/618).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou pelo não provimento do agravo (fls. 668/680).
+É o relatório.
+O presente agravo em recurso especial deve ser conhecido, uma vez que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+Quanto ao recurso especial, observa-se que este não merece prosperar.
+Nas razões do recurso especial, a defesa do agravante suscitou dissídio jurisprudencial e vulneração dos arts. 5º, XI e LVI, da Constituição Federal; 33, caput, e 28, § 2º, ambos da Lei n. 11.343/2006 (fls. 617).
+Sucede que, consoante disposto no art. 105 da Carta Magna, o Superior Tribunal de Justiça não é competente para se manifestar sobre suposta violação de dispositivo constitucional, nem mesmo a título de prequestionamento (AgInt no AREsp n. 2.425.182/SP, Ministro Moura Ribeiro, Terceira Turma, julgado em 19/8/2024, DJe 22/8/2024 - grifo nosso).
+No mesmo sentido: EDcl no AgRg no REsp n. 2.152.614/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1º/10/2024, DJe 4/10/2024.
+Ademais, a pretensão recursal está nitidamente voltada à desclassificação da conduta para uso de entorpecente por insuficiência de provas acerca da ocorrência do dolo quanto à intenção de merca ncia da droga apreendida em seu poder - 34,04 g de maconha e 21,25 g de crack, além de três aparelhos celulares e duas balanças de precisão -, providência essa vedada nos termos da Súmula 7/STJ.
+Aliás, essa foi a opinião do parecerista ao destacar que a conclusão adotada pelo Tribunal de origem está lastreada em fundamentação idônea e em elementos concretos extraídos dos autos, especialmente na confissão parcial do recorrente quanto à aquisição da droga, na apreensão de substâncias entorpecentes de naturezas diversas, bem como de balanças de precisão, além da inexistência de elementos que corroborassem a versão defensiva de posse para consumo próprio. Sob tais premissas, a pretendida desclassificação para o delito previsto no art. 28 da Lei nº 11.343/2006 demandaria inevitável reexame do acervo fático-probatório, providência incompatível com a via estreita do recurso especial, atraindo, por consequência, mais uma vez, o óbice da Súmula nº 7 do Superior Tribunal de Justiça (fl. 679).
+A propósito: AgRg no REsp n. 2.102.371/PB, Ministra Daniela Teixeira, Quinta Turma, DJe 14/10/2024.
+E, por fim, observo que a defesa não cumpriu com as diretrizes estabelecidas em norma regimental para fins de comprovação da divergência, pois não demonstrou, de forma analítica, a identidade fática entre os julgados paradigmas e o acórdão impugnado e, por conseguinte, também não demonstrou a existência de soluções jurídicas distintas dos órgãos julgadores desta Corte sob uma mesma base fática, condição essa indispensável para a configuração do dissídio jurisprudencial.
+Sobre o tema, confira-se: AgInt nos EAREsp n. 1.723.304/DF, Ministro Francisco Falcão, Corte Especial, DJe 14/2/2024.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CRIME DE TRÁFICO DE DROGAS. APREENSÃO DE 34,04 G DE MACONHA E 21,25 G DE CRACK, ALÉM DE TRÊS APARELHOS CELULARES E DUAS BALANÇAS DE PRECISÃO. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO. PLEITO DESCLASSIFICATÓRIO POR AUSÊNCIA DE PROVA DO DOLO QUANTO À MERCANCIA. INADMISSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.
+Agravo conhecido para não conhecer do recurso especial.
