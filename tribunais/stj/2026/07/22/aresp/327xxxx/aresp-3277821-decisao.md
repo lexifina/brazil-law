@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por GABRIEL WESLEY SZCZYPA CARDOSO contra a decisão do Tribunal de Justiça do Estado do Paraná que inadmitiu recurso especial, apresentado contra o acórdão exarado no julgamento da Apelação Criminal n. 003845-76.2024.8.16.0196.
+O Ministério Público Federal apresentou parecer opinando pelo desprovimento do agravo em recurso especial (fls. 2452/2470).
+É o relatório.
+O agravo é inadmissível.
+Inicialmente, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos, inclusive de forma específica, suficiente e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula n. 182/STJ (AgRg nos EDcl no AREsp n. 2.985.942/MA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/9/2025, DJEN de 25/9/2025).
+O Tribunal de origem negou seguimento com base no art. 1.030, I, b, do Código de Processo Civil, diante do Tema 190/STJ e da Súmula 231/STJ, relativamente à pretensão de reduzir a pena aquém do mínimo legal em razão da confissão espontânea. No mais, inadmitiu o apelo nobre pelos seguintes fundamentos: a) incidência da Súmula 7/STJ quanto à desclassificação do roubo impróprio e ao concurso de agentes; e b) incidência da Súmula 83/STJ quanto ao princípio da insignificância (fls. 2393/2399).
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a íntegra da decisão de inadmissão.
+No ponto do concurso de agentes (Súmula 7/STJ), a insurgência não demonstrou possibilidade de mera revaloração jurídica a partir de premissas fáticas incontroversas; ao contrário, reclama reexame do conjunto probatório - depoimentos das vítimas, abordagem policial, posse da res e imagens - que embasaram a conclusão pela cooperação entre agentes, atraindo o óbice da referida súmula: A pretensão de simples reexame de prova não enseja recurso especial (decisão de inadmissibilidade, fls. 2394/2396; razões do agravo, fl. 2417).
+Quanto ao princípio da insignificância (Súmula 83/STJ), a impugnação não evidenciou de forma concreta e efetiva a inaplicabilidade do precedente indicado na decisão de origem (REsp n. 2.062.375/AL), que fixa a tese de afastamento do referido princípio em furto qualificado por concurso de pessoas, com valor superior a 10% do salário mínimo, nem apresentou orientação contemporânea da Terceira Seção em sentido contrário. Incide, por isso, a referida súmula: Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida (fls. 2397/2398; razões do agravo, fls. 2415/2416).
+Assim, aplica-se, à hipótese dos autos, o art. 932, inciso III, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, e a Súmula 182/STJ por analogia.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
