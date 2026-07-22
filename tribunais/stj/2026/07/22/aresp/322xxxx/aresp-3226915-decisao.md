@@ -1,0 +1,42 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por RICARDO SCRAVAJAR GOUVEIA contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 18/12/2025.
+Concluso ao gabinete em: 30/4/2026.
+Ação: falência de ACROPOLE VIAGENS E TURISMO LTDA, na qual o agravante requer a homologação de sua proposta de arrematação pelo valor integral da avaliação, com pagamento parcelado, em observância à maximização dos ativos.
+Decisão interlocutória: rejeitou a impugnação apresentada pelo agravante e homologou o auto de arrematação do imóvel em favor de terceiro.
+Acórdão: negou provimento ao agravo de instrumento interposto pelo agravante, nos termos da seguinte ementa:
+Agravo de instrumento - Decisão interlocutória que, no curso da falência  Acrópole Viagens e Turismo Ltda. , indeferiu a impugnação do agravante e homologou auto de arrematação do imóvel em favor de terceiro - Prevalência do pagamento à vista sobre o parcelado - Inteligência do art. 895, §7º do Código de Processo Civil - Previsão editalícia expressa - Proposta ofertada pelo agravante que previa pagamento parcelado em até doze vezes - Prevalência da proposta do arrematante, prevendo pagamento à vista, ainda que em valor inferior ao de avaliação - Inexistência de prejuízo à massa falida ou violação ao princípio da maximização dos ativos - Decisão mantida - Recurso não provido. (e-STJ fl. 80)
+Embargos de Declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 1.022, II, do CPC; 22, III, alínea I e IV, 75, I, 158 e 189 da Lei 11.101/2005. Afirma que o acórdão não aprecia questão essencial atinente à observância do princípio da maximização dos ativos e, por isso, incorre em negativa de prestação jurisdicional. Aduz que a disciplina falimentar impõe a maximização do valor dos ativos e a adoção da proposta mais vantajosa aos credores, ainda que com pagamento parcelado. Argumenta que o administrador judicial deve realizar o ativo de modo a assegurar o pagamento da coletividade de credores. Assevera que a extinção das obrigações do falido e o encerramento da falência pressupõem a otimização da arrecadação, incompatível com a homologação de arrematação por valor inferior ao da avaliação quando há proposta integral.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal local, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da observância ao princípio da maximização de ativos, de maneira que os embargos de declaração opostos, de fato, não comportavam acolhimento.
+A lastrear o exposto:
+(..) Na espécie irrepressível a decisão, por razões curtíssimas, na medida em que a validade da arrematação e a homologação do respectivo auto em favor de terceiro decorreu do disposto no art. 895, §7.º do Código de Processo Civil e da previsão editalícia a respeito da prevalência do pagamento à vista sobre o pagamento parcelado, inexistindo demonstração mínima de que a arrematação no valor ofertado pelo terceiro  79,36% da avaliação  tenha causado prejuízo à massa falida, de modo que não houve violação ao disposto no art. 75 da Lei n. 11.101/05 ou ao princípio da maximização dos ativos, sem se olvidar que a proposta do agravante ainda que em valor superior e equivalente ao de avaliação do imóvel - previa expressamente o pagamento de entrada de 30% e o restante em doze parcelas mensais, donde o reconhecimento da prevalência da proposta do arrematante e a inconsistência dos argumentos articulados.
+(..) (e-STJ fl. 80, grifo nosso).
+Nota-se, assim, que o Tribunal local concedeu a devida prestação jurisdicional ao tema, em atenção às particularidades da hipótese, enfrentando a tese de maximização dos ativos ante a prevalência legal e editalícia do pagamento à vista e explicitando a razão de decidir, com aplicação do art. 895, § 7º, do CPC e ausência de demonstração de prejuízo à massa.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 22, III, alínea I e IV, 158 e 189 da Lei 11.101/2005, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ. Nesse sentido: AgInt no REsp n. 1.820.915/SP, Terceira Turma, DJe de 17/4/2024 e AgInt no AREsp n. 2.116.675/MG, Quarta Turma, DJe de 2/5/2024.
+- Da fundamentação deficiente
+Ademais, os argumentos invocados pela parte agravante não demonstram como o acórdão recorrido violou os arts. 22, III, alínea I e IV, 75, I, 158 e 189 da Lei 11.101/2005, tendo em vista que não explicita, de forma clara e específica, de que modo tais dispositivos infirmam a aplicação do art. 895, § 7º, do CPC, e da previsão editalícia que fundamentaram a conclusão colegiada pela prevalência do pagamento à vista e pela inexistência de prejuízo à massa falida.
+Dessa forma, a ausência de argumentação específica que correlacione o conteúdo dos dispositivos legais apontados como violados aos fundamentos do acórdão recorrido compromete a exata compreensão da controvérsia, atraindo a aplicação da Súmula 284/STF. Nesse sentido: AgInt no AREsp 1.947.682/SP, Terceira Turma, DJe 20/12/2023; e AgInt no AREsp 2.138.858/SP, Quarta Turma, DJe 15/6/2023.
+- Da existência de fundamento não impugnado
+Nesse mesmo passo, o agravante não impugnou os fundamentos utilizados pelo TJ/SP, notadamente quanto à previsão editalícia de prevalência do pagamento à vista, bem como não se indica violação ao art. 895, § 7º, do CPC. Por conseguinte, mesmo que se superassem os argumentos relativos à maximização dos ativos sob a Lei 11.101/2005, o acórdão se manteria pelo fundamento não impugnado. Aplica-se, na hipótese, a Súmula 283/STF. Nesse sentido: AgInt no REsp 2.072.391/SP, Quarta Turma, DJe de 25/4/2024; e AgInt no REsp n. 2.013.576/SP, Terceira Turma, DJe de 11/4/2024.
+- Do reexame de fatos e provas
+Consigne-se, ainda, que alterar o decidido no acórdão impugnado, no que se refere à vantagem econômica, ao prejuízo da massa falida e às condições das propostas apresentadas e previsão editalícia, acatando-se as alegações do agravante, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal local.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. FALÊNCIA. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTAÇÃO. DEFICIENTE. SÚMULA 284/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Falência.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+6. O reexame de fatos e provas em recurso especial é inadmissível.
+7. Agravo conhecido. Recurso especial parcialmente conhecido, e nessa extensão, não provido.
