@@ -1,0 +1,40 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por SOMAR - COOPERATIVA DE ENERGIA ELÉTRICA E DESENVOLVIMENTO LTDA e FERNANDES, BERALDO, PIGOZZI E ADVOGADOS ASSOCIADOS contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 5/12/2025.
+Concluso ao gabinete em: 1/7/2026.
+Ação: monitória, ajuizada por SOMAR - COOPERATIVA DE ENERGIA ELÉTRICA E DESENVOLVIMENTO LTDA e FERNANDES, BERALDO, PIGOZZI E ADVOGADOS ASSOCIADOS, em face de KMG EQUIPAMENTOS ELÉTRICOS LTDA, MANOEL AUGUSTO ROSSI DE FARIA e LUCIMAR BAZAN ROSSI DE FARIA, objetivando o pagamento de R$ 720.000,00 (setecentos e vinte mil reais) com constituição de título executivo judicial.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: negou provimento ao recurso de apelação interposto por SOMAR - COOPERATIVA DE ENERGIA ELÉTRICA E DESENVOLVIMENTO LTDA e FERNANDES, BERALDO, PIGOZZI E ADVOGADOS ASSOCIADOS, nos termos da seguinte ementa:
+APELAÇÃO. Sentença de improcedência de ação monitória decorrente de obrigação estabelecida em Escritura Pública de Cessão de Crédito e de Direitos, firmada em 12 de agosto de 2019, registrada no 2º Tabelionato de Notas de Monte Sião/MG. Sentença confirmada por seus próprios fundamentos, nos termos do art. 252 do Regimento Interno deste E. Tribunal de Justiça. Recurso improvido. (e-STJ fl. 455)
+Embargos de Declaração: opostos por SOMAR COOPERATIVA DE ENERGIA ELÉTRICA E DESENVOLVIMENTO LTDA e FERNANDES, BERALDO, PIGOZZI E ADVOGADOS ASSOCIADOS, foram rejeitados.
+Recurso especial: alegam violação dos arts. 369, 489, § 1º, III e IV, e 1.022, II, parágrafo único, II, do CPC, e 5º, LV, e 93, IX, da CF, bem como dissídio jurisprudencial. Além da negativa de prestação jurisdicional, sustentam que há cerceamento de defesa em razão do indeferimento de provas essenciais requeridas e do julgamento antecipado desfavorável por ausência de prova. Acentua que a utilização da técnica de fundamentação per relationem, sem enfrentamento dos argumentos específicos do apelo, inviabiliza a adequada prestação jurisdicional.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação de dispositivo constitucional ou de súmula
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca de todas as questões necessárias ao deslinde da controvérsia, concluindo pela inexistência de inadimplemento apto a justificar a procedência da ação monitória e reconhecendo que a sentença continha fundamentação suficiente, razão pela qual foi legitimamente adotada mediante técnica de fundamentação per relationem.
+Assim, os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+- Da violação do art. 489 do CPC
+Ademais, devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+- Do cerceamento de defesa
+Quanto ao alegado cerceamento de defesa, a Corte local destacou que o conjunto probatório constante dos autos era suficiente para o julgamento da demanda, concluindo pela desnecessidade da produção das provas requeridas e pela possibilidade de julgamento antecipado da lide.
+Em contrapartida, os agravantes não conseguiram demonstrar o desacerto do acórdão do Tribunal de origem, na medida em que a jurisprudência desta Corte orienta que "a avaliação quanto à necessidade e à suficiência ou não das provas e a fundamentação da decisão demanda, em regra, incursão no acervo fático-probatório dos autos e encontram óbice no Enunciado 7 do STJ" (AgInt no AREsp 1.429.834/SP, Terceira Turma, DJe 29/10/2020; AgInt no REsp 1.850.724/RJ, Segunda Turma, DJe 28/10/2020), bem como que "não configura cerceamento de defesa o julgamento da causa, com o julgamento antecipado da lide, quando o Tribunal de origem entender substancialmente instruído o feito, declarando a prescindibilidade de produção probatória, por se tratar de matéria eminentemente de direito ou de fato já provado documentalmente" (AgInt no AgInt nos EDcl no AREsp 850.552/PR, Quarta Turma, DJe de 19/5/2017; AgInt no AREsp 1.645.878/SP, Segunda Turma, DJe 23/10/2020; AgInt no REsp 1.548.228/RJ, Quarta Turma, DJe 26/10/2020).
+- Da divergência jurisprudencial
+Por fim, entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, §1º do CPC e 255, § 1º, do RISTJ.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente (cerceamento de defesa), impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821.337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1.215.736/SP, 4ª Turma, DJe de 15/10/2018.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor da causa (e-STJ fls. 470) para 20%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL OU DE SÚMULA. DESCABIMENTO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. CERCEAMENTO DE DEFESA. NÃO CONFIGURAÇÃO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação monitória.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+4. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+5. A jurisprudência desta Corte orienta que a avaliação quanto à necessidade e à suficiência das provas demanda, em regra, incursão no acervo fático-probatório dos autos e encontra óbice na súmula 7/STJ, bem como que não configura cerceamento de defesa o julgamento antecipado da lide, quando o Tribunal de origem entender substancialmente instruído o feito, declarando a prescindibilidade de produção probatória.
+6. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Agravo conhecido. Recurso especial parcialmente conhecido e não provido.
