@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo de Direito da Vara Regional de Garantias de Chapecó/SC, o suscitante, e o Juízo Federal da 1ª Vara de Itajaí - SJ/SC, o suscitado.
+Versam os autos acerca de investigação de crimes de tráfico de drogas e corrupção de menores, na qual se pleiteiam prisão preventiva de seis investigados e expedição de mandados de busca e apreensão.
+O Juízo Federal declinou da competência à Justiça Estadual por entender ausentes elementos concretos de transnacionalidade, enfatizando a dinâmica local do tráfico na região de Chapecó/SC, a territorialidade dos alvos e que o mero fato de a droga ser proveniente do Paraguai não desloca a competência para a Justiça Federal (fls. 386/388).
+O Juízo estadual, por sua vez, suscitou o presente conflito ao sustentar a competência da Justiça Federal, invocando indícios objetivos de internacionalidade: tratativas diretas com fornecedor que operaria a partir do Paraguai por meio de linha com prefixo  595; negociação de logística transfronteiriça, com contratação de motorista paraguaio e pagamento de frete em espécie; e movimentação de expressivas quantidades de entorpecentes, em padrão típico de importação clandestina, aplicando-se o art. 109, inciso V, da Constituição Federal e o art. 70 da Lei n. 11.343/2006 (fls. 398/400).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou pela competência do Juízo suscitado, à luz de indícios concretos da transnacionalidade do delito: negociação com fornecedor paraguaio, emprego de aparelho celular com prefixo internacional e ajuste de transporte fronteiriço por motorista de nacionalidade paraguaia. Eis a ementa do parecer (fl. 406):
+CONFLITO DE COMPETÊNCIA. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. INDÍCIOS CONCRETOS DA TRANSNACIONALIDADE DO DELITO: DESCRIÇÃO DE NEGOCIAÇÃO PARA AQUISIÇÃO E DE LOGÍSTICA PARA TRANSPORTE FRONTEIRIÇO DE DROGAS COM FORNECEDOR PARAGUAIO, MEDIANTE EMPREGO DE APARELHO CELULAR COM PREFIXO INTERNACIONAL. COMPETÊNCIA DA JUSTIÇA FEDERAL (ART. 70 DA LEI 11.343/2006). PRECEDENTES. PARECER PELO CONHECIMENTO DO CONFLITO, A FIM DE QUE SEJA DECLARADO COMPETENTE O JUÍZO FEDERAL, ORA SUSCITADO.
+É o relatório.
+Com razão o parecerista.
+Há indícios concretos da transnacionalidade do tráfico de drogas, pois a representação policial descreve a conduta de fornecedor que atua diretamente do Paraguai, além de mensagens que indicam negociação voltada à contratação de transporte transfronteiriço (fls. 398/399):
+ ..
+Consoante se extrai dos autos, os fatos investigados apontaram A T de S como principal responsável pela aquisição de grande quantidade de entorpecentes (maconha, cocaína e crack) junto a fornecedor identificado como H R S V (vulgo "H R"), o qual "operaria a partir do Paraguai" circunstância que se evidencia pelo emprego de número telefônico com prefixo internacional " 595" nas tratativas mantidas via WhatsApp, conforme destacado na dinâmica criminosa e nas análises decorrentes da extração do aparelho celular apreendido (Laudo Pericial n. 2026.22.01171.26.001-44 e Relatório de Investigação n. 91.2026.37).
+Ainda, logrou-se extrair das mensagem analisadas informações relacionadas a negociações de logística de transporte transfronteiriço, incluindo a contratação de motorista paraguaio para realizar o transporte da droga, com o pagamento de "frete" no valor de R$ 16.000,00 em espécie, em razão de o transportador ser de nacionalidade paraguaia.
+ ..
+Nesse contexto, a competência para processar o inquérito, por ora, é da Justiça Federal, inclusive quanto aos delitos conexos (Súmula 122/STJ).
+Caso, no curso da investigação, esses indícios sejam infirmados por outros que afastem a prática de tráfico transnacional, nada obsta o retorno dos autos à Justiça estadual.
+Com efeito, em sede de inquérito policial, o julgamento do conflito não implica decisão definitiva, pois, nessa fase, a competência é fixada à luz dos indícios colhidos até a instauração do incidente, sendo possível que, no curso da investigação, surjam novos elementos aptos a justificar sua modificação (EDcl no CC n. 161.123/SP, de minha relatoria, Terceira Seção, DJe 20/2/2019).
+Ante o exposto, acolhendo o parecer, conheço do conflito para declarar a competência do Juízo Federal da 1ª Vara de Itajaí - SJ/SC, o suscitado.
+Dê-se ciência aos Juízos em conflito.
+Publique-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. INQUÉRITO POLICIAL. JUSTIÇA FEDERAL E JUSTIÇA ESTADUAL. TRÁFICO DE DROGAS. INDÍCIOS CONCRETOS DE TRÁFICO TRANSNACIONAL. COMPETÊNCIA QUE REMANESCE, POR ORA, COM A JUSTIÇA FEDERAL. PARECER ACOLHIDO.
+Conflito conhecido para declarar a competência do Juízo Federal da 1ª Vara de Itajaí - SJ/SC, o suscitado.
