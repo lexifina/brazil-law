@@ -1,0 +1,76 @@
+Ementa: Direito Tributário. Recurso Extraordinário. Imunidade tributária. Entidade beneficente. Requisitos legais. Natureza infraconstitucional. Reexame de fatos e provas. Recurso a que se nega seguimento.
+I. Caso em exame
+1.  Recurso extraordinário interposto contra acórdão pelo qual se negou a imunidade de contribuições à seguridade social a entidade beneficente de assistência social.
+2.  A recorrente alega violação ao art. 195, § 7º, da Constituição da República, sustentando que, com a certificação Cebas-Saúde, a imunidade deveria ser concedida.
+3.  O Tribunal Regional Federal da 4ª Região havia negado a imunidade pelo não preenchimento dos requisitos legais, conforme o art. 29 da Lei nº 12.101, de 2009, apontando ausência e incompletude de informações contábeis e financeiras.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o preenchimento dos requisitos legais para o enquadramento de pessoa jurídica como entidade beneficente de assistência social, para fins de imunidade tributária, configura matéria de natureza constitucional e se o exame da controvérsia demanda o reexame de fatos e provas.
+III. Razões de decidir
+5. A questão do preenchimento dos requisitos legais para enquadramento de pessoa jurídica como entidade beneficente de assistência social, para fins de imunidade tributária, possui natureza infraconstitucional, conforme entendimento firmado no Tema RG nº 459 (RE nº 642.442-RG/RS).
+6. Para divergir da conclusão da instância de origem, que negou a imunidade com base na análise de documentos e informações contábeis, seria necessário o reexame do conjunto fático-probatório, o que é vedado em sede de recurso extraordinário, nos termos do enunciado nº 279 da Súmula do Supremo Tribunal Federal.
+7. A apresentação de recursos manifestamente inadmissíveis ou improcedentes pode ensejar a aplicação de multa, nos termos do art. 1.021, § 4º, do Código de Processo Civil.
+IV. Dispositivo
+8.  Recurso extraordinário a que se nega seguimento.
+_________
+Dispositivos relevantes citados: CRFB, art. 195, § 7º; Lei nº 12.101, de 2009, art. 29, incs. VII e VIII; CPC, arts. 373, inc. I, 1.021, § 4º, e 1.026, §§ 2º a 4º; RISTF, art. 21, § 1º.
+Jurisprudência relevante citada: RE nº 642.442-RG/RS, Rel. Min. Cezar Peluso, Tribunal Pleno, j. 05/08/2011; AI nº 848.643-AgR/PE, Rel. Min. Luiz Fux, Primeira Turma, j. 18/12/2012; RE nº 1.308.462-AgR/RN, Rel. Min. Nunes Marques, Segunda Turma, j. 17/05/2021; RE nº 997.592-AgR/RS, Rel. Min. Luiz Fux, Red. do Acórdão Min. Alexandre de Moraes, Primeira Turma, j. 11/04/2022; enunciado nº 279  da  Súmula do STF.
+
+DECISÃO
+
+1. Trata-se de recurso extraordinário interposto contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+
+“IMUNIDADE. ENTIDADE BENEFICENTE DE ASSISTÊNCIA SOCIAL. ART. 195, §7º, CONSTITUIÇÃO FEDERAL. REQUISITOS. CEBAS E ART. 29 DA LEI N. 12.101, DE 2009. NÃO PREENCHIMENTO. RE 566.622 E ADI 4.480.” (e-doc. 84).
+
+2. Os embargos de declaração opostos foram parcialmente acolhidos, para prestar esclarecimentos (e-doc. 107).
+
+3. No presente recurso extraordinário, interposto com fundamento na alínea “a” do permissivo constitucional, a recorrente alega violação ao art. 195, § 7º, da Constituição da República.
+
+3.1. Salienta, em essência, que, “certificada a recorrente com o CEBAS-SAÚDE (Portaria no 353, de 30 de março de 2021, da Secretaria de Atenção Especializada à Saúde do Ministério da Saúde) e não afastado, pela União, o não preenchimento dos requisitos legais para fruição da imunidade, notadamente porque não desconstituídas as provas carreadas pela autora, o acórdão recorrido viola frontalmente o art. 195, §7º, da Constituição da República ao negar à recorrente a fruição da imunidade das contribuições à seguridade social” (e-doc. 118, p. 12).
+
+É o relatório.
+
+Decido.
+
+4. O recurso não merece prosperar.
+
+5. Quanto ao preenchimento de requisitos legais para o enquadramento de pessoa jurídica como entidade beneficente de assistência social para fins de imunidade tributária, rememoro que, no RE nº 642.442-RG/RS, leading case do Tema nº 459 do ementário da Repercussão Geral, o Supremo Tribunal Federal julgou a matéria de fundo objeto do presente recurso: atendimento a requisitos para uma entidade beneficente ser abrangida pela imunidade tributária.
+
+6. Na ocasião, ao concluir pela natureza infraconstitucional da questão e pela ausência de repercussão geral da matéria, esta Corte firmou a seguinte tese de julgamento:
+
+“A questão do preenchimento dos requisitos legais para enquadramento de pessoa jurídica como entidade beneficente de assistência social, para fins de imunidade tributária, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.”
+(RE nº 642.442-RG/RS, Tema RG nº 459, Rel. Min. Cezar Peluso, Tribunal Pleno, j. 05/08/2011, p. 08/09/2011; grifos nossos).
+
+7. Com efeito, observo que não ficou configurada ofensa direta à Constituição da República. Ademais, é inquestionável o fato de que, para apreciar os fundamentos elencados pelo Tribunal a quo e a respectiva decisão quanto à temática do presente caso, seria necessário o reexame dos pressupostos fático-probatórios constantes dos autos. Extraio, ainda, do voto condutor do acórdão recorrido, trecho que ressalta os aspectos fático-probatórios que conduziram aquele julgamento, os quais, como dito, são insuscetíveis de revolvimento na seara extraordinária:
+
+“No caso, compulsando os documentos apresentados (evento 30, INF2), a autoridade fiscal registrou que houve a entrega regular dos documentos fiscais e contábeis aos quais a autora estava obrigada, na condição de pessoa jurídica imune/isenta ao IRPJ sem fins lucrativos, no período solicitado, sem, todavia, o preenchimento integral das informações legalmente exigíveis, bem como (a) Ausência total de informações sobre o Balanço Patrimonial e Demonstrativo de Resultados para 2019; (b) Ausência total de informações sobre Origem e Aplicação de Recursos para todo o período analisado; (c) Informações incompletas na Identificação e Rendimentos de Dirigentes e Conselheiros.
+Assim, percebe-se que inexiste como auferir o cumprimento, pela parte autora, das exigências dos incs. VII e VIII, art. 29, Lei n. 12.101, de 2009, circunstância esta que, por si só, já é suficiente para afastar a imunidade postulada, tendo em vista o disposto no art. 373, I, do Código de Processo Civil.” (e-doc. 84, p. 5-6).
+
+8. Assim, somente pela análise do quadro fático-probatório próprio da hipótese analisada seria possível concluir de forma diversa daquela definida pela Corte a quo, providência inviável em sede extraordinária, tendo em vista o óbice do enunciado nº 279 da Súmula do STF.
+
+E. 279: “Para simples reexame de prova não cabe recurso extraordinário.”
+
+8.1. Nessa linha, destaco os seguintes precedentes jurisprudenciais de ambas as Turmas deste Pretório Excelso:
+
+“Ementa: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. IMUNIDADE. ENTIDADE DE ASSISTÊNCIA SOCIAL. CERTIFICADO. REQUISITOS. LEIS Nº 8.212/91 E 12.101/09. QUALIFICAÇÃO PRÉVIA COMO ORGANIZAÇÃO SOCIAL. ALEGADA DESNECESSIDADE DE NOVA CERTIFICAÇÃO. NECESSIDADE DO REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 279/STF. OFENSA INDIRETA. PRECEDENTE DA REPERCUSSÃO GERAL NO RE 642.442. AGRAVO REGIMENTAL DESPROVIDO. 1. O enquadramento eventual de uma Organização Social previamente reconhecida como Entidade Beneficente de Assistência Social depende da averiguação, em concreto, do preenchimento dos requisitos estabelecidos na norma infraconstitucional, e, para tanto, torna-se imprescindível o reexame fático-probatório, inviável na instância extraordinária. 2. Incide, no caso, o óbice da Súmula 279/STF, verbis: Para simples reexame de prova não cabe recurso extraordinário. 3. O Plenário virtual do Supremo negou a repercussão geral do tema de fundo versado nos presentes autos, por ocasião do julgamento do RE 62.442, cuja ementa restou assim editada: ‘RECURSO. Extraordinário. Inadmissibilidade. Imunidade tributária. Entidade beneficente de assistência social. Requisitos legais. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto o preenchimento dos requisitos impostos pelo art. 55 da Lei 8.212/1991, aptos a caracterizar pessoa jurídica como entidade beneficente de assistência social, para efeitos de reconhecimento de imunidade tributária, versa sobre tema infraconstitucional.” 4. Agravo Regimental a que se nega provimento.”
+(AI nº 848.643-AgR/PE, Rel. Min. Luiz Fux, Primeira Turma, j. 18/12/2012, p. 18/02/2013; grifos nossos).
+
+“EMENTA: AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO – DIREITO TRIBUTÁRIO – PREENCHIMENTO DOS REQUISITOS PARA FINS DE RECONHECIMENTO DE IMUNIDADE TRIBUTÁRIA – LEI Nº 12.101/2009 – INEXISTÊNCIA DE REPERCUSSÃO GERAL – MATÉRIA INFRACONSTITUCIONAL – RE 642.442-RG/RS, TEMA 459 RG – NECESSIDADE DE ANÁLISE DA LEGISLAÇÃO DE REGÊNCIA – AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO FEDERAL – REEXAME DE FATOS E PROVAS – INCIDÊNCIA DA SÚMULA 279/STF – AO AMPARO DO ENUNCIADO 512 DA SÚMULA/STF, NÃO SE APLICA O DISPOSTO NO § 11 DO ART. 85 DO CPC – AGRAVO INTERNO DESPROVIDO. I – Esta Suprema Corte reputou ser infraconstitucional, a ela se aplicando os efeitos da ausência de repercussão geral, a controvérsia relativa ao preenchimento dos requisitos para fins de reconhecimento da imunidade tributária prevista no §7º do art. 195 da Carta Magna (RE 642.442-RG/RS , Tema 459 RG, Ministro Cezar Peluso). II – O acórdão da instância de origem amparou-se em legislação de natureza infraconstitucional para chegar a conclusão de estarem presentes os requisitos para reconhecimento da imunidade tributária em questão, de modo que a suposta ofensa aos dispositivos constitucionais qualificar-se-ia como reflexa. III – Para chegar à conclusão de que a pessoa jurídica impetrante fazia jus a imunidade tributária pleiteada, ainda que não apresentado o Certificado de Entidade Beneficente de Assistência Social – CEBAS, o Tribunal a quo respaldou-se nas provas acostadas aos autos, demandando, assim, o reexame de fatos e provas, o que é inviável em sede de recurso extraordinário. Enunciado 279 da Súmula/STF. IV – Não aplicação do disposto no § 11 do art. 85 do CPC por tratar-se, na origem, de recurso interposto em autos de mandado de segurança, o que atrai a incidência do Enunciado 512 da Súmula/STF. V – Agravo interno desprovido.”
+(RE nº 1.308.462-AgR/RN, Rel. Min. Nunes Marques, Segunda Turma, j. 17/05/2021, p. 24/05/2021; grifos nossos).
+
+“Ementa: AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. VIOLAÇÃO À CLÁUSULA DE RESERVA DE PLENÁRIO. INEXISTÊNCIA. FUNDAÇÃO DE ATENDIMENTO SÓCIO-EDUCATIVO DO RIO GRANDE DO SUL (FASE). FUNDAÇÃO PÚBLICA DE DIREITO PRIVADO. CONTRIBUIÇÃO À SEGURIDADE SOCIAL. PREENCHIMENTO DOS REQUISITOS LEGAIS PARA FINS DE RECONHECIMENTO DA IMUNIDADE TRIBUTÁRIA DO ARTIGO 195, § 7º, DA CF/1988. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL, CONFORME TEMA 459. REAPRECIAÇÃO DE PROVAS. INADMISSIBILIDADE. SÚMULA 279 DO STF. INCIDÊNCIA. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA SUPREMA CORTE. 1. A jurisprudência desta CORTE preconiza que os casos relacionados com a mera interpretação da norma não se submetem à cláusula de reserva de Plenário. Nesse sentido: Rcl 18.013 AgR, Rel. Min. LUIZ FUX, Primeira Turma, julgado em 10/5/2016; Rcl 13.514 AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, julgado em 10/06/2014; Rcl 12.122 AgR, Rel. Min. GILMAR MENDES, Tribunal Pleno, julgado em 19/6/2013; Rcl 6.944, Rel. Min. CÁRMEN LÚCIA, Tribunal Pleno, julgado em 23/06/2010. 2. O Plenário desta SUPREMA CORTE, no julgamento do RE 642.442-RG (Rel. Min. Presidente, Tema 459), sob a sistemática da repercussão geral, fixou a seguinte tese: A questão do preenchimento dos requisitos legais para enquadramento de pessoa jurídica como entidade beneficente de assistência social, para fins de imunidade tributária, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009. 3. Trata-se da mesma matéria debatida nos presentes autos, ressalvando-se apenas que, neste caso, trata-se de fundação pública de direito privado. 4. A argumentação do recurso extraordinário traz versão dos fatos diversa da exposta no acórdão, de modo que seu acolhimento passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta Corte (Para simples reexame de prova não cabe recurso extraordinário). 5. De todo modo, o acórdão recorrido encontra-se em conformidade com a jurisprudência desta SUPREMA CORTE no sentido de que a imunidade prevista no art. 195, § 7º, da Constituição Federal abrange fundação pública de direito privado. 6. Agravo Interno da FUNDAÇÃO DE ATENDIMENTO SÓCIO-EDUCATIVO DO RIO GRANDE DO SUL (FASE) a que se dá provimento, para negar provimento ao Recurso Extraordinário da UNIÃO.”
+(RE nº 997.592-AgR/RS, Rel. Min. Luiz Fux, Red. do Acórdão Min. Alexandre de Moraes, Primeira Turma, j. 11/04/2022, p. 09/05/2022; grifos nossos).
+
+8.2. Nesse mesmo sentido, menciono, ainda, as seguintes decisões monocráticas: RE nº 1.424.759/SC, de minha relatoria, j. 18/08/2023, p. 21/08/2023; ARE nº 1.429.849/SP, Rel. Min. Roberto Barroso, j. 16/05/2023, p. 18/05/2023; ARE nº 1.407.655/SP, Rel. Min. Rosa Weber, j. 24/10/2022, p. 25/10/2022; e RE nº 1.366.444/RN, Rel. Min. Luiz Fux (Presidente), j. 11/02/2022, p. 14/02/2022.
+
+9. Para a espécie, inclusive, se faz válido registrar a advertência de que, em casos de apresentação de medida recursal manifestamente inadmissível ou improcedente, o Supremo Tribunal Federal entende pela possibilidade de aplicação de multa, nos termos do art. 1.021, § 4º, do CPC (ARE nº 1.321.696-ED-AgR/MG, de minha relatoria, Segunda Turma, j. 06/06/2022, p. 29/06/2022; ARE nº 1.107.805-AgR/SP, Rel. Min. Roberto Barroso, Primeira Turma, j. 13/12/2019, p. 03/02/2020; Rcl nº 45.289-AgR/DF, Rel. Min. Dias Toffoli, j. 04/10/2021; Rcl nº 24.841-ED-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma, j. 20/04/2017, p. 11/05/2017; MS nº 37.637-AgR/DF, Rel. Min. Roberto Barroso, Tribunal Pleno, j. 17/05/2021, p. 16/06/2021; e MS nº 35.272-AgR-segundo/DF, Rel. Min. Edson Fachin, Segunda Turma, j. 16/06/2020, p. 08/10/2020).
+
+10. Para além, consigno ainda que a apresentação de embargos de declaração com intuito protelatório assoberba ilegitimamente a justiça, prejudicando a mais célere e efetiva prestação jurisdicional. A eventual insistência na apresentação de recursos protelatórios acarreta a possibilidade e, até mesmo, a obrigação da magistratura em fazer incidir a multa processual prevista no art. 1.026, §§ 2º a 4º, do CPC.
+
+11. Ante o exposto, nego seguimento ao recurso extraordinário, nos termos do art. 21, § 1º, do RISTF. Considerando não ter havido condenação em honorários advocatícios pelo Tribunal de origem, deixo de fixar honorários recursais.
+
+Publique-se.
+
+Brasília, 22 de julho de 2026.
+
+Ministro ANDRÉ MENDONÇA
+Relator
