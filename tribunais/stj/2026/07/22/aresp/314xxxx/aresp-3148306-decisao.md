@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ALEX DOS SANTOS DE OLIVEIRA contra a decisão do Tribunal de Justiça do Estado de São Paulo que inadmitiu recurso especial, apresentado contra o acórdão exarado no julgamento da Apelação Criminal n. 0008954-94.2013.8.26.0126.
+O Ministério Público Federal apresentou parecer opinando pelo não conhecimento do agravo em recurso especial (fls. 666/669).
+É o relatório.
+O agravo é inadmissível.
+Inicialmente , esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos, inclusive de forma específica, suficiente e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula n. 182/STJ (AgRg nos EDcl no AREsp n. 2.985.942/MA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/9/2025, DJEN de 25/9/2025).
+O Tribunal de origem inadmitiu o apelo nobre pelos seguintes fundamentos: a) inadequação do recurso especial para veicular contrariedade à Constituição Federal, por ausência de adequação ao art. 105, III (fl. 628); b) deficiência de fundamentação do recurso especial, nos termos do art. 1.029 do Código de Processo Civil, com incidência da Súmula 284/STF (fl. 629); c) incidência da Súmula 7/STJ, vedando o reexame do conjunto fático-probatório (fls. 629/630).
+Todavia, a parte agravante, nas razões do agravo em recurso especial, deixou de impugnar especificamente o fundamento da decisão recorrida calcado na inadequação do recurso especial para veicular contrariedade à Constituição Federal, motivo pelo qual, restando inatacado óbice autônomo e suficiente, o juízo negativo de admissibilidade permanece incólume.
+Defende que a controvérsia seria eminentemente de direito, mas não delimita capítulos do recurso especial fundados exclusivamente em normas federais, mantendo alegações de ofensa a dispositivos constitucionais - o que não é cognoscível em sede especial -, razão pela qual não afasta o óbice de inadequação (fls. 635/637).
+Ainda que assim não fosse, argumenta a inexistência de fundamentação deficiente, sustentando que o recurso especial teria articulado teses de excesso de linguagem e uso de algemas, porém não demonstra, com correlação específica às razões do acórdão recorrido, como as razões do apelo extremo infirmam os fundamentos do aresto, mantendo impugnação abstrata e dissociada do vício apontado (fl. 637).
+Sustenta que não pretende revolver provas, mas promover revaloração jurídica de fatos incontroversos; contudo, não identifica fatos tidos como incontroversos pelas instâncias ordinárias, nem indica trechos do acórdão que permitam o enfrentamento da tese sem revolvimento probatório, deixando de demonstrar, concretamente, a inaplicabilidade da Súmula 7/STJ (fls. 638/639).
+Assim, aplica-se, à hipótese dos autos, o art. 932, inciso III, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, e a Súmula 182/STJ por analogia.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
