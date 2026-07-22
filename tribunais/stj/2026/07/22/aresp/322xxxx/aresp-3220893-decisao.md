@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por RÓGER BULGANI DE SOUZA contra a decisão do Tribunal de Justiça do Estado de São Paulo que inadmitiu recurso especial, apresentado contra o acórdão exarado no julgamento da Apelação Criminal nº 1500024-31.2024.8.26.0060.
+O Ministério Público Federal apresentou parecer opinando pelo não conhecimento do agravo em recurso especial e, caso conhecido, pelo não provimento (fls. 245/249).
+É o relatório.
+O agravo é inadmissível.
+Inicialmente, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos, inclusive de forma específica, suficiente e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula n. 182/STJ.
+Ao que se observa, o Tribunal de origem inadmitiu o apelo nobre com base na aplicação da Súmula 269/STJ, segundo a qual é admissível o regime inicial semiaberto ao reincidente condenado a pena igual ou inferior a quatro anos, bem como em razão da incidência da Súmula 83/STJ, p or estar o acórdão recorrido em consonância com a jurisprudência desta Corte (fls. 191/193).
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não cuidou de trazer julgado contemporâneo ao provimento judicial agravado e prolatado em moldura fática análoga, de forma a atestar que o acórdão recorrido não estaria em harmonia com a jurisprudência atual do Superior Tribunal de Justiça. Além disso, não comprovou que o precedente apontado na decisão agravada (AgRg no AgRg no AREsp 2.391.999/MG) seria inaplicável à hipótese dos autos, limitando-se a reiterar que a reincidência, isoladamente não justificaria imposição de regime mais gravoso.
+C abe ao agravante, nas razões do agravo, demonstrar que a orientação jurisprudencial desta Corte Superior é diversa daquela referida na decisão agravada ou que a situação retratada nos autos possui uma peculiaridade que a distingue dos precedentes invocados.
+Nessas condições, não se desobrigou do ônus de comprovar a incorreção do decisum que não admitiu o apelo nobre. Ilustrativamente: AgRg no AREsp n. 2.253.769/PR, de minha relatoria, Sexta Turma, DJe 18/8/2023; e AgRg no AREsp n. 2.223.178/BA, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 16/6/2023.
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC, c/c o art. 3º do CPP). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e conc reta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula 182/STJ. Nesse sentido: AgRg no AREsp n. 2.423.301/RS, Ministro Messod Azulay Neto, Quinta Turma, DJe 24/10/2023.
+Ante o exposto, não conheço do agravo em recurso especial (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
