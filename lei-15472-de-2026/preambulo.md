@@ -1,0 +1,2 @@
+Altera a Lei nº 8.906, de 4 de julho de 1994 (Estatuto da Advocacia e da Ordem dos Advogados do Brasil), a fim de explicitar a natureza alimentar dos honorários advocatícios.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
