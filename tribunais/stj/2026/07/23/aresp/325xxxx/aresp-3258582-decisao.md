@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual o ESTADO DE SÃO PAULO se insurgira contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 52):
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. RECURSO DESPROVIDO.
+I. Caso em Exame
+Agravo de instrumento interposto contra decisão que rejeitou a alegação de inexigibilidade do título executivo e determinou a realização de prova pericial contábil, impondo ao agravante o ônus de pagamento dos honorários do perito. A agravante sustenta que o título executivo é inexigível por violar a ADI n. 666/PE e decisões do STF, além de defender a divisão dos custos da perícia entre as partes.
+II. Questão em Discussão 2. A questão em discussão consiste em (i) determinar a inexigibilidade do título executivo à luz da ADI n. 666/PE e do Tema 106/STF, e (ii) definir a responsabilidade pelo pagamento dos honorários periciais conforme o Tema 671/STJ.
+III. Razões de Decidir 3. A alegação de inexigibilidade do título executivo já foi analisada e afastada em recurso anterior, estando superada pela preclusão consumativa. 4. A responsabilidade pelo pagamento dos honorários periciais cabe ao devedor, conforme a tese fixada pelo STJ no Tema 871, não se aplicando o Tema 671/STJ ao caso.
+IV. Dispositivo e Tese 5. Recurso desprovido. Tese de julgamento: 1. Preclusão consumativa impede rediscussão de matéria já decidida. 2. Na fase de cumprimento de sentença, incumbe ao devedor a antecipação dos honorários periciais.
+Os embargos de declaração foram rejeitados (fls. 77/84).
+Nas razões de seu recurso especial, a parte recorrente alega violação do art. 91 do Código de Processo Civil (CPC), sustentando que foi indevidamente compelida a adiantar integralmente os honorários periciais na fase de cumprimento de sentença, mediante aplicação de regra própria da fase de conhecimento, em descompasso com os Temas 671 e 871 do Superior Tribunal de Justiça (STJ), segundo os quais, na liquidação por cálculos, não se pode transferir ao executado o ônus do adiantamento da remuneração do perito. Sustenta, ainda, ofensa ao art. 95 do CPC, ao argumento de que, tendo a perícia sido determinada de ofício, os honorários periciais deveriam ser rateados entre as partes, e não integralmente suportados pela Fazenda Pública, conforme determinado pelo Tribunal de origem (fls. 94/97).
+Requer o provimento de seu recurso.
+A parte adversa apresentou contrarrazões (fls. 100/103).
+A decisão de inadmissão apresentou fundamentação híbrida: de um lado, negou seguimento ao recurso especial quanto à tese relativa à determinação de adiantamento dos valores dos honorários periciais, em razão da aplicação do Tema 871 do Superior Tribunal de Justiça (STJ); de outro, inadmitiu o recurso no tocante à alegada violação ao art. 95 do CPC, diante da incidência do óbice da Súmula 7 do STJ.
+Nesse contexto, a análise do agravo em recurso especial limitar-se-á ao exame do capítulo em que houve sua inadmissão.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Em seu recurso, a parte recorrente apontou como violado o art. 95 do CPC ao argumento de que, tendo a perícia sido determinada de ofício, os honorários periciais deveriam ser rateados entre as partes, e não integralmente suportados pela Fazenda Pública.
+O acórdão recorrido, entretanto, não decidiu a questão à luz do dispositivo indicado pela parte recorrente e, portanto, não tratou da tese judicial a ele vinculada.
+No que importa, confira-se a fundamentação do acórdão recorrido (fls. 57/59):
+Em relação à irresignação contra a determinação de pagamento dos honorários periciais, melhor sorte não socorre à agravante.
+A advertência a respeito da responsabilidade do executado pelo pagamento dos honorários periciais no cumprimento de sentença não constitui erro passível de correção, vez que a decisão agravada está devidamente fundamentada na tese fixada pelo C. Superior Tribunal de Justiça sob a sistemática dos recursos repetitivos (Tema nº 871):
+ ..
+Ademais, dispõe a Súmula nº 232 da Corte Superior: "A Fazenda Pública, quando parte no processo, fica sujeita à exigência do depósito prévio dos honorários do perito".
+Frise-se que o disposto no art. 91 do Código de Processo Civil, que trata do pagamento de honorários periciais pela Fazenda Pública, aplica-se apenas aos casos de produção de prova pericial durante a fase de conhecimento. Isto porque, conforme se denota da redação do dispositivo legal, consta que as despesas "serão pagas ao final pelo vencido". No caso dos autos, a Fazenda Pública já é parte vencida e, por isso, deve antecipar os valores necessários à correta liquidação do julgado, em consonância com o entendimento do Superior Tribunal de Justiça.
+ ..
+Ainda que não se trate de liquidação por artigos ou arbitramento, a necessidade de perícia contábil decorreu da impugnação da executada, situação diversa da tese fixada no Tema 671/ STJ, a qual preceitua que "Na liquidação por cálculos do credor, descabe transferir do exequente para o executado o ônus do pagamento de honorários devidos ao perito que elabora a memória de cálculos". O Tema nº 671 se refere ao dever do exequente de custear a elaboração dos cálculos na fase inicial do cumprimento de sentença, enquanto nos autos o trabalho pericial se faz necessário apenas para conferir os cálculos elaborados pela exequente, tendo em vista que não foram aceitos pela parte executada.
+Como se observa, o acórdão recorrido emitiu juízo de valor apenas sobre a responsabilidade pelo adiantamento dos honorários periciais, à luz do art. 91 do CPC, sem examinar a tese distinta veiculada com fundamento no art. 95 do mesmo diploma legal, relativa ao alegado rateio dos honorários quando a perícia é determinada de ofício.
+Essa circunstância revela a ausência de prequestionamento, a impedir o conhecimento do recurso especial nos exatos termos das Súmulas 282 e 356 do Supremo Tribunal Federal (STF), aplicadas por analogia.
+Para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa seja decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não no caso concreto.
+Ausente pronunciamento do Tribunal de origem sobre o ponto, caberia, inicialmente, suscitá-lo em embargos de declaração. Mantida a omissão, deveria a parte interessada deduzir a nulidade do julgamento por violação do art. 1.022 do Código de Processo Civil.
+No caso dos autos, a questão não foi suscitada nos embargos de declaração opostos na origem.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
