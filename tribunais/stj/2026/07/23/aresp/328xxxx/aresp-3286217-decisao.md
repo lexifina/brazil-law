@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de Agravo apresentado por JOSE ALVES DO NASCIMENTO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Apelação cível. Ação de indenização por danos materiais e morais. Disparo de projéteis pelo réu contra o autor. Requerido condenado criminalmente por tentativa de homicídio. Sentença de parcial procedência, para condenar o réu no pagamento do tratamento dentário prescrito ao autor (R$ 23.446,00), e da indenização pelos danos morais sofridos (R$40.000,00). Improcedência do pedido de indenização pelo veículo que foi alvejado na ocasião do crime, e do pedido de pensão vitalícia. Apelo de ambas as partes. A sentença criminal reconheceu a autoria e materialidade, fazendo coisa julgada na seara cível. Tese da legítima defesa já rechaçada. Responsabilidade civil construídas. Restou, apenas, ao julgador a apreciação dos danos advindos da ação ilícita. Validade do orçamento apresentado, a respeito do tratamento dentário do qual o autor necessitou, em razão da perda de dentes. Danos morais. Valor fixado que atende parâmetros jurisprudenciais, sendo razoável e proporcional. Descabe seja majorado ou minorado. Os danos ao veículo advieram da depreciação sofrida em razão do tempo parado no pátio público, rompido o nexo causal direto entre a ação do réu e a "depenagem" sofrida por ele (perda do motor, capô etc.). Descabe a fixação da pensão vitalícia porque o autor não fez prova nestes autos de sua incapacidade permanente para o trabalho. O presente feito também não está submetido ao julgamento da ação ajuizada em face do INSS. Sentença mantida, com majoração das sucumbências fixadas. Recursos desprovidos.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz violação aos arts. 944 e 945 do Código Civil, no que concerne à necessidade de redução da indenização por danos morais, em razão de valor desproporcional em face da gravidade dos fatos e das condições pessoais e econômicas das partes. Argumenta que:
+Trata-se de ação indenizatória proposta pelo Recorrido em face do Recorrente. (fl. 305)
+A sentença julgou parcialmente procedente o pedido, fixando indenização por danos morais no valor de R$ 40.000,00, e o v. acórdão manteve integralmente tal condenação.
+O Recorrente, contudo, entende que o montante arbitrado mostra-se excessivo e desproporcional em relação à gravidade dos fatos e às condições pessoais e econômicas das partes, violando o disposto nos arts. 944 e 945 do Código Civil.
+ ..
+O v. acórdão recorrido afronta o disposto nos arts. 944 e 945 do Código Civil, pois manteve indenização por danos morais em valor manifestamente desproporcional, sem observar a necessária moderação exigida pela lei e pela jurisprudência do STJ.
+
+No caso concreto, o acórdão não levou em conta:
+a ausência de prova de sequelas permanentes;
+o contexto de animosidade prévia entre as partes;
+a condição econômica modesta do recorrente.
+Ao desconsiderar tais fatores, o Tribunal de origem fixou valor desarrazoado, superior à média fixada em casos análogos, incorrendo em violação direta aos princípios da proporcionalidade e razoabilidade previstos nos arts. 944 e 945 do Código Civil. (fl. 307)
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Sobre os danos morais, entendo que o julgador fixou valor adequado, que se coaduna com os fatos e com a jurisprudência em casos similares. Daí que o valor de R$ 40.000,00 não comporta majoração.
+Ao mesmo tempo, a redução deste valor para os R$ 2.000,00 pretendidos pelo réu seria uma forma acintosa de desvalorizar o prejuízo à integridade moral e dignidade do autor, o que não pode ser, sequer, considerado. (fl. 289)
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), tendo em vista que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Apenas em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento da Súmula n. 7/STJ, para possibilitar a revisão. No caso, o montante estabelecido pelo Tribunal de origem não se mostra excessivo, a justificar sua reavaliação em recurso especial" (AgInt no REsp n. 2.144.733/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJEN de 9/12/2024).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 2.718.125/RJ, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.582.976/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 5/3/2025; AgInt no AREsp n. 2.685.985/RJ, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/2/2025; AgInt no AREsp n. 2.632.436/MG, relator Ministro Marco Buzzi, Quarta Turma, DJEN de 9/12/2024; AgInt no AREsp n. 2.315.287/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 22/11/2024; AgInt no REsp n. 1.860.301/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 24/6/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
