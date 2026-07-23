@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANA CREUZA PEREIRA, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do Tribunal de Justiça do Estado do Maranhão, assim ementado (fl.378):
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. EXECUÇÃO SENTENÇA COLETIVA. ILEGITIMIDADE. SERVIDOR INTEGRANTE DE OUTRO SINDICATO.
+I - O servidor público integrante de determinada categoria profissional tem legitimidade para propor execução/cumprimento individual de sentença prolatada em ação coletiva proposta por sindicato em substituição processual de servidores de sua categoria, ainda que não ostente a condição de filiado da entidade sindical autora. Todavia, não tem o servidor público legitimidade para promover execução individual de sentença produzida em ação coletiva ajuizada por sindicato em substituição processual de servidores pertencentes a categoria profissional distinta da categoria a que ele pertence.
+Os embargos de declaração opostos foram rejeitados (fls. 441/442).
+A parte recorrente alega violação dos arts. 1.022, inciso II, e 489, § 1º, inciso IV, do Código de Processo Civil, porquanto sustenta negativa de prestação jurisdicional.
+Afirma que o tribunal de origem, mesmo provocado por embargos de declaração, deixou de enfrentar a tese de que a aferição de sua legitimidade ativa precluiu na fase de liquidação coletiva, momento em que seu crédito teria sido individualizado e homologado, e se omitiu sobre os documentos juntados que comprovariam seu enquadramento no título.
+Requer a anulação do acórdão para novo julgamento.
+Contrarrazões apresentadas pelo Estado do Maranhão (fls. 470/474)
+O recurso foi admitido na origem (fls. 484/485).
+É o relatório.
+Na origem, cuida-se de cumprimento individual de sentença coletiva, no qual a exequente pretende executar o título formado na Ação Coletiva 6.542/2005 (SINTSEP-MA), relativo à implantação de percentual e ao pagamento de diferenças decorrentes da conversão em URV.
+I nexiste a alegada violação do art. 1.022 e do art. 489 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido.
+O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+A parte recorrente sustenta omissão da instância ordinária no tocante a estas questões: (a) a preclusão da aferição de sua legitimidade ativa, supostamente definida e homologada na fase de liquidação coletiva transitada em julgado; e (b) o título coletivo abrange todos os servidores públicos estaduais.
+Todavia, conforme se depreende da análise do acórdão recorrido, o Tribunal de origem, de modo expresso, fundamentado e coeso, enfrentou cada um dos pontos supostamente omissos.
+O Tribunal de Justiça do Estado do Maranhão concluiu que a legitimidade ativa constitui condição da ação e matéria de ordem pública, cognoscível a qualquer tempo e grau de jurisdição, circunstância que afasta a alegada preclusão.
+E, no caso concreto, entendeu o Tribunal que a recorrente não se insere no alcance subjetivo do título formado em ação do SINTSEP-MA, que congrega servidores estatutários, por manter vínculo celetista com a EMARHP, sociedade de economia mista dotada de personalidade jurídica própria. Desse modo, insuficiente, para deslocar esse enquadramento, a mera inclusão de seu nome em lista de liquidação. Vejamos (fl.445):
+ ..  ao examinar detidamente o acórdão embargado, constata-se que não há omissão, pois o acórdão destacou que a exequente não é considerada servidora pública vinculada ao SINTSEP/MA, mas sim à EMARHP, entidade que, segundo a Lei Estadual nº 11.000/2019, art. 2º, é uma sociedade de economia mista, constituída sob a forma de sociedade anônima, vinculada à Secretaria de Estado de Governo - SEGOV, tendo como regime de pessoal o da CLT.
+Foi observado, ainda, que o fato de a exequente ter sido inserida em lista de processo de liquidação contendo centenas de servidores filiados ao sindicato não é suficiente para alterar a responsabilidade pelo pagamento das verbas de servidores vinculados a outros órgãos, como no presente caso.
+Além disso, a alegada preclusão não encontra respaldo, uma vez que a legitimidade ativa é condição da ação e matéria de ordem pública, cognoscível a qualquer tempo e fase do processo, não havendo preclusão que a afaste, conforme entendimento pacífico do Superior Tribunal de Justiça (STJ). Assim, não há omissão a ser suprida no julgado.
+É importante ressaltar que o contraponto aos argumentos das partes não demanda a citação literal de suas palavras ou dos mesmos dispositivos legais. É suficiente que haja fundamentação fática e jurídica coerente e adstrita ao que se debate nos autos.
+Ante o exposto, nego provimento ao recurso especial.
+Por fim, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termo s do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
