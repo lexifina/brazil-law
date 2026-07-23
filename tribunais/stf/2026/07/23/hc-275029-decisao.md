@@ -1,0 +1,50 @@
+DECISÃO: Trata-se de habeas corpus impetrado pela Lidiane Aparecida Duveza de Brito, em favor de Vinicius de Souza Silva, contra acórdão do Superior Tribunal de Justiça, proferido no julgamento do AgRg no HC n.1088386/SP, assim ementado:
+
+“DIREITO PENAL. DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO  HABEAS   CORPUS. TRÁFICO DE DROGAS. BUSCA PESSOAL. FUNDADAS RAZÕES. FUGA E DESOBEDIÊNCIA À ORDEM DE PARADA. JUSTA CAUSA NA AÇÃO POLICIAL.  HABEAS   CORPUS SUBSTITUTIVO. REVOLVIMENTO DO ACERVO FÁTICOPROBATÓRIO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça firmou compreensão de que o  habeas corpus não pode ser utilizado como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração quando assim manejado.
+2. A validade da busca pessoal está condicionada à existência de fundadas suspeitas, amparadas em situação fática que denote, diante das peculiaridades e da dinâmica dos acontecimentos próprios da diligência policial, clareza e objetividade quanto à posse, por parte do investigado, de objeto que constitua corpo de delito.
+3. No caso, o acórdão impugnado registrou que, durante patrulhamento, policiais avistaram motocicleta em alta velocidade com dois ocupantes. Ao perceber a presença policial, o condutor desobedeceu à ordem de parada, empreendeu fuga, ingressou na contramão e foi abordado apenas após colidir com outro veículo.
+4. Ausente ilegalidade flagrante apta a autorizar a concessão da ordem de ofício nesta estreita via, mantém-se a conclusão das instâncias ordinárias quanto à higidez da ação policial.
+5. A desconstituição da conclusão do Tribunal de origem demandaria revolvimento do conteúdo fático-probatório, providência incompatível com a via do habeas  corpus e com o estreito âmbito cognitivo do agravo regimental.
+6. Agravo regimental improvido.” (eDOC 20).
+
+Narra a impetrante (eDOC 1) que o paciente foi condenado à pena de 6 anos, 9 meses e 20 dias de reclusão, em regime fechado, pela prática do crime de tráfico de drogas (art. 33, caput, da Lei n. 11.343/2006). (eDOC 9)
+O Tribunal de Justiça do Estado de São Paulo negou provimento ao apelo defensivo. (eDOC 19)
+No Superior Tribunal de Justiça, o habeas corpus foi indeferido liminarmente. A Sexta Turma negou provimento ao agravo regimental. (eDOC 20).
+Nesta Corte, reitera que o processo penal é nulo desde o início em razão da ausência de fundada suspeita para a busca pessoal.
+Afirma que “a abordagem decorreu exclusivamente da alegada fuga do paciente e da desobediência à ordem de parada, inexistindo qualquer investigação prévia, denúncia específica, monitoramento policial ou qualquer outro dado objetivo que previamente vinculasse o paciente à prática do crime de tráfico de drogas.” (p. 34)
+Requer a concessão da ordem para anular a condenação.
+Decido.
+
+Para melhor delimitação da controvérsia, transcrevo trechos do acórdão impugnado:
+
+“No caso dos autos, consta do acórdão impugnado que a dinâmica dos fatos se desenvolveu da seguinte maneira (fls. 44-47, grifei):
+A arguição de nulidade é de ser afastada.
+Isso porque verificou-se que durante o patrulhamento no local dos fatos, os policiais militares avistaram uma motocicleta que trafegava em alta velocidade, ocupada por duas pessoas. Ao visualizar a presença policial o condutor desobedeceu às ordens de parada emitidas pelos policiais militares e empreendeu fuga, pilotando de maneira bastante perigosa, invadindo a contramão de direção e sendo somente abordado certo tempo depois, quando colidiu em outro veículo.
+[...]
+policial militar Glaubert Ferreira Barbosa, [...]
+[...]
+Em juízo, disse que, durante patrulhamento, avistaram a motocicleta e se aproximaram pelo contrafluxo. Declarou que ao darem ordem de abordagem, o condutor acelerou e iniciou fuga, e após perderem o veículo de vista, receberam indicações de populares e, ao adentrarem uma via na contramão, encontraram o indivíduo levantando a motocicleta e uma moça sentada na calçada. Relatou que o réu apresentava sangramento no nariz e a moça estava machucada, tendo recusado socorro. Declarou que durante a confecção do boletim de ocorrência, a moça os chamou informando que o réu havia solicitado que ela guardasse uma sacola em sua bolsa, desconhecendo seu conteúdo, tendo constatado tratar-se de um pote com várias porções de crack. Informou que o acusado colidiu com outro veículo enquanto trafegava em alta velocidade pela contramão. Afirmou que o réu já era conhecido nos meios policiais por envolvimento com tráfico de drogas.
+No mesmo sentido, depôs o policial militar Mauro Sergio Araujo da Silva, confirmando que realizava patrulhamento com o Cabo Ferreira quando avistaram uma motocicleta com dois ocupantes em alta velocidade no contrafluxo. Declarou que tentaram realizar abordagem, mas o condutor fugiu em direção ao centro. Relatou que na Rua Airton Orlando foram informados sobre uma colisão envolvendo motocicleta que descia na contramão, tendo encontrado o acusado levantando a moto e a moça na calçada. Informou que minutos depois a passageira revelou que o réu havia lhe entregado um volume após a queda, pedindo que guardasse sem revelar do que se tratava, tendo verificado ser entorpecente. Declarou que o acusado permaneceu em silêncio quanto à droga estava muito agitado.
+Verifica-se, portanto, que a busca pessoal realizada foi precedida de fundadas razões. Isso porque, durante o patrulhamento, os policiais avistaram motocicleta em alta velocidade, com dois ocupantes. Ao perceber a presença policial, o condutor desobedeceu à ordem de parada, empreendeu fuga, ingressou na contramão e foi abordado apenas após colidir com outro veículo.
+Tal sequência fática foi confirmada de modo coeso pela prova oral e documental, inclusive pela informação da passageira de que recebera do apelante uma sacola 45 porções de  crack foram localizadas na sacola, o que reforça o nexo entre o comportamento inicial e a apreensão do corpo de delito.
+Nas palavras do Ministro Gilmar Mendes, "se um agente do Estado não puder realizar abordagem em via pública a partir de comportamentos suspeitos do alvo, tais como fuga, gesticulações e demais reações típicas, já conhecidas pela ciência aplicada à atividade policial, haverá sério comprometimento do exercício da segurança pública" (RHC n. 229.514/PE, julgado em 28/8/2023).
+[...]
+Ademais, a desconstituição da conclusão exarada pelo Tribunal de origem implicaria revolvimento de matéria fático-probatória, o que não se coaduna com o rito sumário do habeas corpus ou de seu recurso ordinário.” (eDOC 20).
+
+O art. 244 do Código de Processo Penal estabelece que a busca pessoal independerá de mandado, no caso de prisão ou quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito, ou quando a medida for determinada no curso de busca domiciliar.
+Além disso, a jurisprudência da Corte não admite busca pessoal, em via pública, fundamentada em critério subjetivo, a exemplo de cor de pele, condição social, naturalidade, nacionalidade, gênero, credo ou orientação sexual, de modo que não se verifica ilegalidade em busca pessoal motivada pelo tirocínio policial construído a partir de dados objetivos obtidos na ciência aplicada à atividade policial.
+No caso dos autos, extrai-se que policiais militares realizavam patrulhamento de rotina quando avistaram o paciente pilotando uma motocicleta. Ao perceber a aproximação da viatura, o paciente tentou fugir em alta velocidade e na contramão, momento em que colidiu com outro veículo e foi abordado pelos policiais que o perseguiam. Na ocasião, foram apreendidos 11 porções de cocaína, com peso bruto de 45 gramas.
+  Tais circunstâncias evidenciam a existência de dados objetivos que comprovam a existência de fundada suspeita para a abordagem pessoal, razão por que não se falar em ilicitude das provas dela decorrentes.
+A propósito do tema:
+
+“EMENTA AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ALEGADA ILICITUDE DA BUSCA PESSOAL. EXISTÊNCIA DE FUNDADA SUSPEITA DE QUE O INVESTIGADO ESTEJA EM POSSE DE ELEMENTOS QUE CONSTITUAM CORPO DE DELITO. JUSTA CAUSA PARA A BUSCA PESSOAL EVIDENCIADA NO CONTEXTO FÁTICO-PROBATÓRIO DELIMITADO NO ACÓRDÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA. IMPERTINÊNCIA DO ENUNCIADO N. 279 DA SÚMULA. 1. É lícita a busca pessoal em caso de fundada suspeita de que o investigado esteja em posse de elementos que constituam corpo de delito. 2. Não incide o enunciado n. 279 da Súmula do Supremo quando a justa causa para a busca pessoal está evidenciada no contexto fático-probatório delineado no acórdão recorrido. 3. Agravo interno provido a fim de, dando-se provimento ao recurso extraordinário, cassar o acórdão recorrido e determinar a remessa dos autos ao Tribunal de Justiça do Estado do Rio Grande do Sul para, superada a preliminar de ilicitude da busca pessoal, dar sequência ao julgamento da apelação”. (ARE 1475638 AgR, redator p/ acórdão Min. Nunes Marques, Tribunal Pleno, Dje. 14.5.2024);
+“Agravo regimental no recurso ordinário em habeas corpus . 2. Agravante, reincidente, preso com drogas, arma e balança. 3. A Constituição que assegura o direito à intimidade, à ampla defesa, ao contraditório e à inviolabilidade do domicílio é a mesma que determina punição a criminosos e o dever do Estado de zelar pela segurança pública. O policiamento preventivo e ostensivo, próprio das Polícias Militares, a fim de salvaguardar a segurança pública, é dever constitucional. 4. Fugir ao avistar viatura, pulando muros, gesticular como quem segura algo na cintura e reagir de modo próprio e conhecido pela ciência aplicada à atividade policial, objetivamente, justifica a busca pessoal em via pública. 5. Alegação de violação a domicílio. Caso concreto. Inocorrência. 6. Agravo improvido”. (AgR no RHC 229.514, de minha relatoria, Segunda Turma, Dje 23.10.2023).
+
+Ante o exposto, denego a ordem de habeas corpus (RISTF, art. 192).
+Publique-se.
+Brasília, 23 de julho de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
