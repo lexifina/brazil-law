@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DAVIDSON ALVES DOS SANTOS contra a decisão do Tribunal de Justiça de Minas Gerais que inadmitiu recurso especial, apresentado contra o acórdão exarado no julgamento da Apelação Criminal n. 1.0000.25.145500-2/001.
+O Ministério Público Federal apresentou parecer opinando pelo não conhecimento do agravo em recurso especial e, se conhecido, pelo não conhecimento do recurso especial (fls. 1792/1797).
+É o relatório.
+O agravo é inadmissível.
+Inicialmente, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos, inclusive de forma específica, suficiente e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula n. 182/STJ (AgRg nos EDcl no AREsp n. 2.985.942/MA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/9/2025, DJEN de 25/9/2025).
+O Tribunal de origem inadmitiu o apelo nobre pelos seguintes fundamentos: a) incidência da Súmula 7/STJ, por demandar reexame do acervo fático-probatório quanto às teses de nulidade por cerceamento de defesa (art. 400, § 1º, do Código de Processo Penal) e de insuficiência probatória (art. 386, VII, do Código de Processo Penal); b) incidência da Súmula 126/STJ, ante a existência de fundamento constitucional autônomo sem a interposição do respectivo recurso e xtraordinário (fls. 1599/1600).
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a íntegra da decisão de inadmissão.
+Argumenta que a controvérsia sobre o art. 400, § 1º, do Código de Processo Penal versa sobre error in procedendo e que, quanto ao art. 386, VII, do Código de Processo Penal, pretende mera revaloração jurídica do padrão probatório; entretanto, não indica trechos do acórdão recorrido que permitam, com base no próprio delineamento fático já fixado, o acolhimento das teses por simples revaloração, mantendo-se genérica a impugnação ao óbice da Súmula 7/STJ (fls. 1687/1690).
+É entendimento desta Corte Superior que inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível (AgRg no AREsp n. 2.204.136/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 16/5/2023, DJe de 19/5/2023).
+Sustenta que a menção constitucional seria meramente reflexa, mas não demonstra, com referência a excertos do acórdão recorrido, a inexistência de fundamento constitucional autônomo e suficiente, deixando de infirmar, de modo concreto, a aplicação da Súmula 126/STJ (fl. 1688).
+Assim, aplica-se, à hipótese dos autos, o art. 932, inciso III, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, e a Súmula 182/STJ por analogia.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
