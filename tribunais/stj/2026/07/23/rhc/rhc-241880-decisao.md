@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de Recurso em Habeas Corpus com pedido de liminar interposto por JOSE ANTONIO RAMOS DA SILVA contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO (5029928-12.2025.4.03.0000).
+Consta dos autos a prisão preventiva do recorrente foi decretada em razão da suposta prática dos delitos previstos no art. 2º da Lei n. 12.850/2013 e nos arts. 33, 35 e 40, I, da Lei n. 11.343/2006, no contexto da denominada Operação Veterano, cujas investigações se estenderam entre 2018 e meados de 2023, tendo o decreto prisional sido proferido em 18/7/2025.
+Nas razões do presente recurso, a defesa sustenta a ocorrência de constrangimento ilegal, porquanto está ausente a contemporaneidade dos motivos ensejadores da custódia cautelar, enfatizando que a decisão paradigma no caso da corré Cleuza reconheceu a inexistência de fatos novos ou atuais aptos a justificar a segregação e reputou suficientes medidas cautelares alternativas.
+Alega que a segregação processual está despida de fundamentação idônea, pois não há demonstração objetiva e atual do periculum libertatis, tendo o acórdão favorável à corré Cleuza assentado a insuficiência da fundamentação cautelar e a desnecessidade da prisão preventiva diante da ausência de risco concreto à ordem pública, à instrução criminal ou à aplicação da lei penal.
+Argumenta que se revelam adequadas e suficientes as medidas cautelares alternativas previstas no art. 319 do CPP, uma vez que a própria decisão paradigma aplicou cautelares diversas à corré Cleuza, cenário que, por identidade fático-processual, deve aproveitar ao recorrente.
+Defende que, nos termos do art. 580 do CPP, a decisão favorável proferida no Habeas Corpus da corré Cleuza, fundada em motivos não personalíssimos, deve ser estendida ao recorrente, sob pena de violação ao princípio da isonomia, especialmente diante de decisões conflitantes para os investigado que se encontram em idêntica situação jurídico-processual.
+Diante disso, pede, liminarmente e no mérito, a revogação da prisão cautelar, com extensão dos efeitos da ordem concedida no Habeas Corpus n. 5029928-12.2025.4.03.0000 e aplicação, em seu favor, das mesmas medidas cautelares alternativas não prisionais.
+A liminar foi indeferida (e-STJ fls. 584/585) e o Ministério Público Federal, previamente ouvido, manifestou-se pelo desprovimento do recurso, em parecer assim resumido (e-STJ fl. 587):
+RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO INTERNACIONAL DE DROGAS. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. PEDIDO DE EXTENSÃO. IMPOSSIBILIDADE. SITUAÇÃO JURÍDICA DISTINTA. AUSÊNCIA DE CONTEMPORANEIDADE. INOCORRÊNICA. PARECER PELO NÃO PROVIMENTO DO RECURSO EM HABEAS CORPUS.
+É o relatório, decido.
+No caso, assim se manifestou o Tribunal Regional Federal (e-STJ fl. 334/335):
+Analisando as razões da presente impetração, observo que repetem aquelas apresentadas no "writ" anterior, julgado na sessão da 5ª Turma deste Tribunal, realizada aos 23.02.2026, por meio do qual o colegiado, por maioria, DENEGOU A ORDEM de Habeas corpus, com ementa assim redigida, confira-se:
+(..)
+Desta forma, a reiteração de pedido desprovido de novos fatos e argumentos impede o conhecimento do pedido.
+Por derradeiro, cabe destacar que a requerente formulou pedidos idênticos em favor do paciente José Antônio Ramos da Silva nos habeas corpus nº. 5029099- 31.2025.4.03.0000, nº. 5029598-15.2025.4.03.0000 e nº. 5029993-07.2025.4.03.0000 levados a julgamento de mérito perante o órgão colegiado em 09.02.2026 e 09.03.2026.
+De fato, " a  mera reiteração de pedido, que se limita a reproduzir, sem qualquer inovação de fato e/ou de direito, os mesmos fundamentos subjacentes a postulação anterior, torna inviável o próprio conhecimento da ação de habeas corpus ". (AgRg no HC n. 190.293, Rel. Min. Celso de Mello, julgado em 20/10/2020, DJe 19/11/2020).
+Além disso, os referidos writs originários mecionados também já foram objeto de debate nesta Corte: 5029099-31.2025.4.03.0000 - RHC 241877, 5029598-15.2025.4.03.0000 - RHC 241895 e 5029993-07.2025.4.03.0000 - no RHC 241977, todos pendentes de julgamento do mérito.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso em habeas corpus .
+Intimem-se.
+EMENTA
