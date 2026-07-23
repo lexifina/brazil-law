@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo regimental interposto por MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO contra decisão monocrática assim ementada (fl. 155):
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. UTILIZAÇÃO INDEVIDA DA VIA ELEITA. EXISTÊNCIA, ENTRETANTO, DE CONSTRANGIMENTO ILEGAL MANIFESTO. NECESSÁRIO O RECONHECIMENTO DO REDUTOR DO ART. 33, § 4º, DA LEI N. 11.343/2006. AFASTAMENTO COM BASE EM FUNDAMENTAÇÃO INIDÔNEA.
+Agravo regimental provido para, reconsiderada a decisão agravada, conceder a ordem de ofício.
+Nas razões, a parte agravante alega que o habeas corpus é sucedâneo recursal incabível, ausente teratologia e flagrante ilegalidade, devendo ser não conhecido, a fim de evitar a banalização do mandamus e em observância à jurisprudência consolidada que coíbe o desvio de finalidade do remédio constitucional.
+Argumenta que é inidônea a via do habeas corpus para aplicar a causa de diminuição do § 4º do art. 33 da Lei n. 11.343/2006, por demandar revolvimento fático-probatório.
+Sustenta que os elementos do caso - 2.615,3 g de maconha e 9,6 g de ADB-BUTINACA, estufa com planta em secagem, balança de precisão, anotações de contabilidade e porções fracionadas - evidenciam dedicação a atividades criminosas e afastam o tráfico privilegiado.
+Aduz que a fixação de regime inicial aberto e a substituição da pena privativa de liberdade por restritiva de direitos são insuficientes e desproporcionais.
+Pede o provimento do agravo regimental para afastar o redutor do § 4º do art. 33 da Lei n. 11.343/2006, restabelecer o regime inicial fechado e impedir a substituição da pena por restritivas de direitos, ou, subsidiariamente, adequar a decisão para que não haja a completa desconsideração da quantidade de drogas.
+É o relatório.
+No que se refere ao pedido de afastamento do redutor do tráfico privilegiado, sem razão o recorrente.
+Primeiro, por ser desnecessário o reexame probatório, uma vez que a conclusão de que o Tribunal de origem não se valeu do melhor direito para afastar a aplicação da minorante prevista no art. 33, § 4º, da Lei de Drogas, não implica, no caso em análise, reavaliar fatos e provas, mas apenas reconhecer que, no acórdão de apelação, não foram consignados elementos suficientes para demonstrar que o Réu se dedicava às atividades criminosas ou integrava organização criminosa (AgRg no HC n. 781.355/SP, Ministra Laurita Vaz, Sexta Turma, DJe 19/12/2022).
+Segundo, embora se trate de writ substitutivo de revisão criminal, destinado a revisar a condenação imposta e mantida pelas instâncias ordinárias, verifica-se a ocorrência de constrangimento ilegal, o que justifica a concessão da ordem de ofício.
+Ademais, da análise dos autos, tem-se que o acórdão recorrido não logrou justificar adequadamente o afastamento do redutor, expondo que (fls. 43/44 - grifo nosso):
+
+No entanto, entendo que, in casu, não é possível aplicar o benefício previsto no artigo 33, § 4º, da Lei nº 11.343/06, uma vez que, de acordo com o referido dispositivo legal, o Magistrado "poderá" reduzir a pena fixada ao agente, de um sexto a dois terços, desde que este seja primário, não possua antecedentes criminais, não se dedique a atividades criminosas, nem integre organização criminosa. No caso dos autos, porém, apesar de o réu ser primário e não ter maus antecedentes, restou amplamente demonstrado que ele se dedicava à atividade criminosa, pois não se pode imaginar que traficante iniciante e eventual tivesse em seu poder tamanha quantidade de drogas (2.615,3g de maconha e 9,6g de ADB- BUTINACA ), além de uma estufa e balanças de precisão, o que afasta definitivamente o reconhecimento de tal benefício. Nesse contexto, nesta fase da dosimetria, atendendo ao apelo Ministerial, afasto a incidência do redutor previsto no § 4º do artigo 33 da Lei nº 11.343/06, resultando a pena em 06 anos de reclusão e pagamento de 600 dias-multa, no valor unitário mínimo legal, pena essa que torno definitiva, à míngua de outras causas modificativas.
+
+Dos trechos transcritos, verifica-se que os fundamentos invocados não bastam para afastar a causa de diminuição, pois o Tribunal de origem limitou-se a mencionar a quantidade de droga apreendida e a apreensão de estufa e balança de precisão, sem apontar qualquer dado concreto que evidencie a dedicação do agente a atividades criminosas ou a integração a organização criminosa.
+Com efeito, sendo o agravado primário, de bons antecedentes e à míngua de elementos concretos que evidenciem a dedicação do agente a atividades criminosas e/ou de que integre organização criminosa, de rigor a incidência da minorante do tráfico privilegiado.
+Contudo, melhor sorte assiste ao agravante, no que concerne ao pedido subsidiário.
+Assim como o fez o Tribunal a quo e nos termos do art. 42 da Lei de Drogas, mostra-se plenamente possível a fixação da pena-base acima do mínimo legal em razão da quantidade e variedade das drogas apreendidas (2.615,3g de maconha e 9,6 g de ADB-BUTINACA).
+Ademais, não há falar em bis in idem, e, tratando-se de volume expressivo de drogas, afasta-se a aplicação do Tema 1.262 desta Corte.
+Redimensionando-se a reprimenda imposta, temos:
+Na primeira fase, aumenta-se a pena em 1/5, nos termos do acórdão a quo, fixando-se a pena-base em 6 anos de reclusão e 600 dias-multa.
+Na segunda fase, ausentes atenuantes e agravantes.
+Na terceira fase, aplica-se a minorante do tráfico privilegiado na fração de 2/3, nos termos da sentença, fixando-se a pena, definitivamente, em 2 anos de reclusão e 200 dias-multa.
+Diante do quantum de pena aplicado e da fixação da pena-base acima do mínimo legal (art. 42 da Lei de Drogas), estabeleço o regime semiaberto para início da reprimenda.
+Ante o exposto, dou parcial provimento ao agravo regimental para reconsiderar a decisão de fls. 155/157 apenas para aumentar a pena-base, fixando-se a pena definitiva em 2 anos de reclusão e 200 dias-multa, no regime inicial semiaberto.
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. CONCESSÃO DO TRÁFICO PRIVILEGIADO QUE SE MANTÉM. AUSÊNCIA DE FUNDAMENTOS IDÔNEOS PARA OBSTAR O REDUTOR. PENA-BASE. QUANTIDADE E VARIEDADE DE ENTORPECENTES. 2.615,3 G DE MACONHA E 9,6 G DE ADB-BUTINACA. POSSIBILIDADE DE MAJORAÇÃO DA PENA-BASE. REGIME INICIAL SEMIABERTO.
+Agravo regimental parcialmente provido. Decisão reconsiderada nos termos do dispositivo.
