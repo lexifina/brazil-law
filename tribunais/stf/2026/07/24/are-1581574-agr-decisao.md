@@ -1,0 +1,39 @@
+DECISÃO: Trata-se de agravo regimental interposto contra decisão que negou seguimento a recurso extraordinário com agravo, com fundamento na jurisprudência desta Corte. Eis um trecho desse julgado:
+
+“(...) Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (arts. 98, § 2º, I e 100, I, da Lei nº 8.078/1990) e o conjunto probatório constante dos autos, consignou que, a despeito de não se tratar de seu domicílio ou do órgão julgador na fase de conhecimento, o recorrente ajuizou a execução individual perante a Seção Judiciária do Distrito Federal, elegendo foro não previsto na legislação. Com base nisso, declinou da competência para o foro para o juízo que proferiu a sentença. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+“A despeito dos argumentos expendidos no agravo regimental, tenho que a decisão agravada, vazada nos seguintes termos, não merece reparos. Confira-se:
+Preliminarmente, conquanto a decisão declinatória não esteja incluída no rol constante dos incisos I a XIII do art. 1.015 do NCPC, as decisões interlocutórias proferidas no processo de execução, como neste caso, independentemente do objeto da deliberação, são agraváveis de instrumento, nos termos do parágrafo único do citado dispositivo.
+O Superior Tribunal de Justiça, ao julgar o REsp nº 1.243.887/PR, em regime de recurso repetitivo, firmou entendimento no sentido de que a execução individual de sentença proferida em ação coletiva pode ser ajuizada no foro do domicílio do beneficiário ou no juízo no qual foi proferida a sentença coletiva. (...)
+Dessa forma, para garantir o acesso à justiça e evitar o emperramento dos serviços judiciais com o acúmulo de processos em um único juízo, a execução individual pode ser ajuizada perante o juízo que julgou a ação coletiva em primeiro grau ou perante o domicílio do beneficiário, não podendo haver eleição de foro diverso.
+Na espécie, a despeito de não se tratar de seu domicílio, o agravante ajuizou a execução individual perante a Seção Judiciária do Distrito Federal, elegendo foro não previsto na legislação.
+Entendo que, no caso, não se aplica o art. 109, §2º, da Constituição Federal que prevê que “as causas intentadas contra a União poderão ser aforadas na seção judiciária em que for domiciliado o autor, naquela onde houver ocorrido o ato ou fato que deu origem à demanda ou onde esteja situada a coisa, ou, ainda, no Distrito Federal”, tendo em vista que suas disposições estão claramente voltadas ao ajuizamento de ação de conhecimento, que, por sua vez, como regra geral, tornará prevento o juízo para o correspondente cumprimento de sentença.
+Assim, nos termos do art. 516, II, do CPC/2015, a regra é o ajuizamento da execução individual no juízo que julgou a ação coletiva, facultando-se ao jurisdicionado, para facilitar o acesso à justiça, por meio da interpretação sistemática dos arts. 101, I, e art. 98, § 2º, I, do CDC, o foro do seu próprio domicílio para o ajuizamento da liquidação/execução individual de sentença proferida na ação coletiva, conforme o colacionado precedente do Egrégio Superior Tribunal de Justiça.
+A propósito, as exceções inseridas no parágrafo único do citado art. 516, como local de situação dos bens sujeitos à execução ou local do cumprimento da obrigação, embora não se apliquem ao caso concreto, servem para orientar a interpretação quanto à finalidade das exceções, qual seja a de propiciar uma maior efetividade da execução ou do cumprimento de sentença, e como exceções devem ser interpretadas restritivamente.
+Dessa forma, firmada a prevenção do juízo da 19ª Vara Federal da 1ª Subseção Judiciária do Estado de São Paulo pelo ajuizamento da ação civil pública, não há que se falar em aplicação do art. 109, §2º, da Constituição Federal para permitir o ajuizamento das execuções individuais também no Distrito Federal, pois não incide, na hipótese, nenhuma das exceções vistas acima.
+Nesse sentido é o entendimento desta Oitava Turma, que, em sede de agravo de instrumento, por maioria, cujos acórdãos foram por mim lavrados, afastou a aplicação do art. 109, § 2º, da Constituição Federal e manteve a decisão proferida pelo Juízo a quo, que declinou da competência para processar e julgar as execuções individuais em ação coletiva para o juízo que proferiu a sentença (AI 0073942-26.2016.4.01.3400/DF, e-DJF1 20/10/2018; AI 0073971- 91.2016.4.01.0000/DF, e-DJF1 17/05/2019)” (eDOC 22 – ID: 117b911d)
+Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, notadamente no que se refere à interpretação dos arts. 98, § 2º, I, e 100, I, da Lei nº 8.078/1990, Código de Defesa do Consumidor, que dispõem sobre a competência nas ações coletivas, que de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.(eDOC 66, p.3-6)
+
+No presente agravo(eDOC 68), argumenta-se que “Ao apreciar o Recurso Especial (admitido na origem), o Ministro Teodoro Silva Santos,  do  STJ,  proferiu  decisão monocrática  que deu “PARCIAL  PROVIMENTO  ao  recurso  especial  para declarar a competência do Juízo da 19ª Vara Federal Cível da Seção Judiciária do Distrito  Federal  para  o  processamento  e  o  julgamento  do  cumprimento  de  sentença”  (REsp  2215249/DF, decisão em anexo). Tal circunstância não foi levada em consideração na apreciação, por Vossa Excelência,  do Agravo em Recurso Extraordinário que, diante da solução da controvérsia perante o STJ  para firmar a competência do foro do Distrito Federal como competente para julgamento do  feito (alinhado aos pedidos formulados no Agravo de  Instrumento que originou os recursos  aqui mencionados), teve esvaziado seu objeto.”(p.1)
+Sustenta-se que “O interesse processual no presente recurso reside na possibilidade de ser interpretado  conflito entre as decisões do STJ e deste C. STF acerca da matéria, levando à instauração de  nova discussão sobre o tema dentro dos autos na origem.”(p.1)
+Por fim, requer seja reconsiderada a decisão para dar provimento ao recurso interposto.
+É o relatório.
+Decido.
+Com razão a recorrente.
+Verifico que o STJ deu parcial provimento ao recurso especial para declarar a competência do Juízo da 19ª Vara Federal Cível da Seção Judiciária do Distrito Federal para o processamento e o julgamento do cumprimento de sentença (eDoc 53 - ID: d527da7b). Eis um trecho da decisão mencionada:
+
+“EMENTA - PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ARTS. 489 E 1022 DO CPC/2015. VÍCIOS INEXISTENTES. COMPLEMENTAÇÃO DO FUNDEF. CUMPRIMENTO DE SENTENÇA COLETIVA CONTRA A UNIÃO. AJUIZAMENTO NO DISTRITO FEDERAL. POSSIBILIDADE. RECURSO ESPECIAL PARCILAMENTE PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE CONDE/PB, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, no julgamento do Agravo de Instrumento de n. 0005097-20.2017.4.01.0000/DF.
+(...)
+Ante o exposto, DOU PARCIAL PROVIMENTO ao recurso especial para declarar a competência do Juízo da 19ª Vara Federal Cível da Seção Judiciária do Distrito Federal para o processamento e o julgamento do cumprimento de sentença.”
+
+Nesses termos, verifico que o presente recurso extraordinário está prejudicado, em razão da perda superveniente de seu objeto.
+Ante o exposto, com fundamento no art. 21, IX, do RI/STF, torno sem efeito a decisão do eDOC 66 (ID: da3f1840) e julgo prejudicado o recurso extraordinário.
+
+Publique-se.
+Brasília, 24 de julho de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
