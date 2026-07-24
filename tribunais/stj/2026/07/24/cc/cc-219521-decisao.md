@@ -1,0 +1,21 @@
+DECISÃO
+Examina-se conflito negativo de competência instaurado entre o JUÍZO DE DIREITO DA 13ª VARA CÍVEL DE BELO HORIZONTE - MG, suscitante, e o TRIBUNAL REGIONAL DO TRABALHO DA 3ª REGIÃO, suscitado.
+Ação: reclamação trabalhista proposta por SHIRLEY DA CONCEIÇÃO GONÇALVES DE ARAÚJO em desfavor de GADLE TECNOLOGIA S/A, pleiteando o reconhecimento de vínculo empregatício em razão da prestação de serviços como motorista para a empresa ré , atuante no setor de logística e transportes, bem como a condenação ao pagamento das verbas trabalhistas correlatas.
+Manifestação da Justiça Laboral: entendeu não competir à Justiça Laboral o julgamento de demandas envolvendo motoristas de aplicativo e plataformas digitais - como Uber, Cabify, 99, iFood e congêneres -, declinando da competência para a Justiça Comum.
+Manifestação do Justiça Comum Estadual: suscitou o presente conflito, sob a alegação de que a pretensão deduzida na ação consiste no reconhecimento de vínculo empregatício, matéria que atrai a competência da Justiça do Trabalho.
+Parecer do MPF: opinou pela competência do juízo estadual.
+RELATADO O PROCESSO, DECIDE-SE.
+Inicialmente, conheço do conflito, porquanto envolve juízos vinculados a Tribunais diversos, nos moldes delineados pelo art. 105, I, "d", da Constituição Federal.
+A controvérsia cinge-se à definição do juízo competente para processar e julgar ação em que trabalhador que atua por meio de plataforma digital de intermediação de serviços pretende o reconhecimento de vínculo empregatício com a empresa ré.
+A Segunda Seção desta Corte, ao apreciar controvérsias análogas, firmou orientação no sentido de que a relação jurídica estabelecida entre motoristas de aplicativo e plataformas digitais, em regra, não se amolda aos requisitos caracterizadores do vínculo de emprego, previstos no art. 3º da CLT, notadamente a subordinação jurídica, a pessoalidade, a habitualidade e a onerosidade, inexistindo relação hierárquica típica entre as partes.
+Com efeito, trata-se de prestação de serviços de natureza civil, inserida no contexto da chamada economia compartilhada, na qual os prestadores atuam com autonomia na organização de sua atividade, assumindo os riscos do empreendimento, circunstância que afasta, em princípio, a incidência da legislação trabalhista.
+Nesse contexto, as controvérsias oriundas dessa relação jurídica, tal como ocorre na hipótese, submetem-se à competência da Justiça Comum, ainda que a parte autora pleiteie o reconhecimento de vínculo empregatício, porquanto a simples alegação desse enquadramento não é suficiente, por si só, para atrair a competência da Justiça Especializada. A propósito:
+1. A relação entre motoristas de aplicativo e plataformas digitais não caracteriza vínculo empregatício, pois não há relação hierárquica, habitualidade, subordinação e onerosidade. 2. A prestação de serviços por motoristas de aplicativo é de natureza civil, inserida na economia compartilhada, onde motoristas atuam como empreendedores individuais. 3. A competência para julgar ações decorrentes dessa relação jurídica é da Justiça Comum Estadual, conforme precedentes do STF e STJ. 4. Conflito conhecido para declarar competente a Justiça Estadual. (CC 203.201/SC, Segunda Seção, DJe 22/9/2025)
+No mesmo sentido: CC 164.544/MG, Segunda Seção, DJe 4/9/2019 e REsp 2.144.902/MG, Terceira Turma, DJe 6/12/2024.
+Diante desse cenário, impõe-se o reconhecimento da competência da Justiça Comum estadu al para processar e julgar a presente demanda.
+Forte nessas razões, conheço do conflito e declaro competente o JUÍZO DE DIREITO DA 13ª VARA CÍVEL DE BELO HORIZONTE - MG.
+Publique -se. Intimem-se. Oficie-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA COMUM ESTADUAL E JUSTIÇA TRABALHISTA. MOTORISTA DE APLICATIVO. PLATAFORMA DIGITAL. PRETENSÃO DE RECONHECIMENTO DE VÍNCULO EMPREGATÍCIO. AUSÊNCIA DOS REQUISITOS DO ART. 3º DA CLT. RELAÇÃO JURÍDICA DE NATUREZA CIVIL. ECONOMIA COMPARTILHADA. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL.
+1. Compete à Justiça comum estadual processar e julgar as controvérsias oriundas da relação jurídica estabelecida entre motoristas de aplicativo e plataformas digitais.
+2. Conflito conhecido para declarar competente o JUÍZO DE DIREITO DA 13ª VARA CÍVEL DE BELO HORIZONTE - MG.
