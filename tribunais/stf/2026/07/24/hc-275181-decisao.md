@@ -1,0 +1,58 @@
+DECISÃO
+
+Habeas corpus. Estelionato. Prisão preventiva. Garantia da ordem pública e aplicação da lei penal. Fundamentação idônea no caso concreto. Manifesta ilegalidade ou teratologia não identificadas. Negativa de seguimento.
+
+Trata-se de habeas corpus impetrado em favor de Carla Ferreira Tomé contra acórdão do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no HC 1.030.387/SP (evento 10).
+
+A paciente foi presa preventivamente pela suposta prática do crime de estelionato, disposto no art. 171 do Código Penal (evento 3).
+
+No presente writ, a defesa sustenta a ausência de contemporaneidade da prisão preventiva, visto que os fatos supostamente delituosos ocorreram em 07.05.2022 e a prisão preventiva foi decretada em 09.11.2023. Alega que não foram apontados fatos novos ou contemporâneos aptos a justificar a manutenção da medida. Aduz que o fundamento de que a paciente estaria se furtando à aplicação da lei penal não encontra amparo legal, visto que “a paciente saiu do país de forma legal e documentada, com visto válido e registro migratório regular, antes mesmo de qualquer restrição judicial”. Requer, em medida liminar e no mérito, a suspensão dos efeitos do mandado de prisão.
+
+É o relatório. Decido.
+
+O ato apontado como coator restou assim ementado (evento 10):
+
+“AGRAVO REGIMENTAL NO HABEAS CORPUS. ESTELIONATO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. RISCO DE REITERAÇÃO DELITIVA. FUGA DO DISTRITO DA CULPA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, do CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+2. Na hipótese, o Juiz de primeiro grau apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial a gravidade da conduta, caracterizada pelo modus operandi empregado, que atingiu elevado número de vítimas e produziu vultoso prejuízo financeiro, e o risco de reiteração delitiva, em razão do registro de outros 137 processos em andamento pela prática de delitos da mesma espécie.
+3. Além disso, o Magistrado ressaltou, ainda, a fuga da acusada, ao consignar que, após o recebimento dos valores e o fechamento da empresa, ela se evadiu e não foi mais localizada.
+4. Por idênticos fundamentos, a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais.
+5. Agravo regimental não provido.”
+
+De início, cabe destacar a inviabilidade de utilização do writ como sucedâneo recursal ou revisão criminal (HC 232.539-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 19.10.2023; HC 233.932-AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe 02.02.2024; HC 225.089-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 13.4.2023).
+
+De qualquer maneira, mesmo que superado referido óbice, não detecto constrangimento ilegal ou teratologia hábil à concessão da ordem de ofício.
+
+Revelam os autos que o Juízo da 3ª Vara Criminal da Comarca de Piracicaba/SP, ao constatar o preenchimento dos requisitos legais e, com base nos artigos 312 e 313 do Código de Processo Penal, decretou a prisão preventiva da paciente. Na ocasião, consignou que a paciente, juntamente com outros investigados, “após constituírem empresa e firmarem contratos para realização de eventos com inúmeros clientes, premeditadamente e após o recebimento dos valores acordados, fecharam o estabelecimento e não ofereceram a contrapartida referente ao evento contratado. O valor era depositado direto na conta de Leandro de Oliveira Ferreira, irmão de Carla. Os acusados estão foragidos”. Destacou, ainda, que os imputados figuram em mais de 137 processos vinculados ao TJSP, circunstância que evidencia a necessidade de manutenção da prisão preventiva para garantia da aplicação da lei penal (evento 3).
+
+Impetrado habeas corpus, o Tribunal de Justiça de São Paulo denegou a ordem e manteve a prisão preventiva da paciente, ao consignar que os fundamentos adotados pelo magistrado de primeiro grau - garantia da ordem pública, conveniência da instrução criminal e aplicação da lei penal - constituem motivação idônea e suficiente para justificar a necessidade da custódia cautelar.
+
+A Corte Estadual ressaltou que “consta contra a paciente mais de uma centena de processos cíveis de resolução de contrato em que os contratantes pleiteiam a devolução dos valores adiantados à empresa dos acusados e o ressarcimento dos prejuízos causados pelo inadimplemento contratual”, além da existência de informação prestada pelo Núcleo de Cooperação Internacional da Polícia Federal no sentido de que a paciente se encontra foragida, tendo sido localizada em um endereço nos Estados Unidos da América, o que evidencia a necessidade da segregação cautelar para assegurar a aplicação da lei penal (evento 2).
+
+O Superior Tribunal de Justiça, por sua vez, reputou idôneos os fundamentos adotados pelas instâncias inferiores para a decretação da prisão preventiva, ao consignar que “essas circunstâncias revelam a periculosidade da agente e o risco de reiteração delitiva, dada a aparente habitualidade da conduta, situação que, por si só, na linha da orientação que tem sido adotada por esta Corte, justifica a custódia cautelar”. Fundamentou que “apesar de não se tratar de delito cometido com violência contra a pessoa, o conjunto de circunstâncias gravosas, tais como a grande quantidade de vítimas, o elevado valor desviado e a reiteração da conduta ao longo do tempo, denotam um risco à ordem pública a justificar a medida cautelar extrema” (evento 10).
+
+O decreto de prisão cautelar há de se apoiar nas circunstâncias fáticas do caso concreto, evidenciando que a soltura colocará em risco a ordem pública, a ordem econômica, a instrução criminal ou a aplicação da lei penal, à luz do art. 312 do CPP, e desde que igualmente presentes prova da materialidade do delito e indícios suficientes da autoria.
+
+Nesse contexto, se as circunstâncias concretas da prática do ilícito indicam, pelo modus operandi, a gravidade em concreto do crime, a periculosidade do agente ou o risco de reiteração delitiva, está justificada a decretação ou a manutenção da prisão cautelar para resguardar a ordem pública, desde que igualmente presentes boas provas da materialidade e da autoria, à luz do art. 312 do CPP. Nesse sentido: HC 212.682-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 18.4.2022; HC 210.384-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 31.5.2022; HC 213.022-AgR, Rel. Min. Nunes Marques, Segunda Turma, DJe 02.6.2022; HC 216.608-AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 19.8.2022; e HC 228.256-AgR, Rel. Min. André Mendonça, Segunda Turma, DJe 08.11.2023.
+
+Na hipótese, a decretação da prisão preventiva possui fundamentação idônea, legitimada diante de elementos concretos e hígidos que exigem a restrição da liberdade da paciente, não tendo as instâncias anteriores se valido de argumentos genéricos, abstratos ou desproporcionais.
+
+Desse modo, a jurisprudência consolidada desta Suprema Corte é no sentido de que a gravidade em concreto do crime constitui fundamentação idônea para a decretação da custódia preventiva. Nesse prisma: “a gravidade in concreto do delito, ante o modus operandi empregado, permite concluir pela periculosidade social do agente e pela consequente presença dos requisitos autorizadores da prisão cautelar elencados no art. 312 do Código de Processo Penal, em especial para garantia da ordem pública” (RHC 235.461-AgR, Rel. Min. Cristiano Zanin, Primeira Turma, DJe 09.02.2024); “Esta Corte tem considerado legítimos os decretos prisionais consubstanciados no modus operandi do delito e na gravidade concreta da conduta do agente” (HC 231.632-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 01.03.2024).
+
+Ademais, “A circunstância de o recorrente ter permanecido em lugar incerto e não sabido logo depois de supostamente ter cometido o crime, em nítido intuito de furtar-se à aplicação da lei penal, também mostra-se apta a justificar o decreto de prisão preventiva. Precedentes do STF. […]” (RHC 193.153-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 28.01.2021); “É idônea a prisão cautelar decretada para assegurar a aplicação da lei penal, quando houver fuga do distrito da culpa.” (HC 203.322- AgR/MG, Rel. Min. Nunes Marques, Segunda Turma, DJe 22.11.2021); “a circunstância de o paciente encontrar-se foragido desde a prática do crime (razões do recurso em sentido estrito do MP), em nítido intuito de furtar-se à aplicação da lei penal, mostra-se apta a justificar o decreto de prisão preventiva. Precedentes.” (HC 231.023-AgR, Rel. Min. Cristiano Zanin, Primeira Turma, DJe 14.09.2023); “O entendimento do STF é no sentido de que a ‘condição de foragido do distrito da culpa reforça a necessidade da custódia para se garantir a aplicação da lei penal’ (RHC 118.011, Rel. Min. Dias Toffoli)” (HC 221.372-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 01.12.2022).
+
+Acrescento que o posicionamento desta Suprema Corte é no sentido de que “a condição de foragido impede o acolhimento da tese de ausência de contemporaneidade entre o decreto prisional e os fatos imputados , pois “evidencia o risco concreto e atual à instrução criminal e à aplicação da lei penal, não desaparecendo, portanto, a contemporaneidade dos requisitos do art. 312 do Código de Processo Penal e a necessidade de que seja imposta a prisão provisória” (HC 216005-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, julgado em 21.06.2022).
+
+No tocante à tese de ausência de contemporaneidade, “As instâncias de origem estão alinhadas com a orientação do Supremo Tribunal Federal no sentido de que a contemporaneidade da prisão preventiva não está necessariamente ligada à data da prática do crime, mas sim à subsistência da situação de risco que justifica a medida cautelar” (HC 222.938-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 27.02.2023); “A existir elementos indicativos de que ao menos uma das condutas delitivas têm desdobramentos ainda persistentes não há que se falar em ausência de contemporaneidade para imposição da prisão cautelar” (HC 221.163-AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe 03.03.2023).
+
+Por fim, dada a necessidade da constrição cautelar da paciente, carece de plausibilidade jurídica o pleito defensivo de aplicação das medidas cautelares diversas da prisão (arts. 282, § 6º, e 319 do CPP).
+
+Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, RISTF).
+
+Publique-se.
+
+Brasília, 24 de julho de 2026.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
