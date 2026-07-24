@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por DIEGO GUILHERME BARBOSA contra acórdão da Quinta Turma que negou provimento ao agravo regimental, mantendo a decisão monocrática por meio da qual se conheceu do agravo para não se conhecer do recurso especial, nos termos da seguinte ementa (e-STJ fls. 1.667/1.668):
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRIBUNAL DO JÚRI. ALEGAÇÃO DE DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. TESTEMUNHO REFERENCIAL. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto pela parte agravante contra decisão monocrática que conheceu do agravo para não conhecer do recurso especial criminal, em que se discutia a possibilidade de anulação de veredicto condenatório do Tribunal do Júri, sob o fundamento de decisão manifestamente contrária à prova dos autos.
+2. A parte agravante sustenta que a controvérsia seria estritamente normativa, relativa à correta aplicação do art. 593, III, d, do CPP em hipótese de condenação fundada em depoimentos de familiares que reproduzem relatos da vítima falecida, qualificados como testemunho referencial, sem corroboração autônoma, bem como aponta suposta contradição entre veredictos de corréus e insuficiência qualitativa do conjunto probatório.
+3. O Tribunal de origem, ao julgar a apelação, havia afirmado a suficiência do acervo probatório, a validade do testemunho referencial prestado por familiares da vítima e a inexistência de contradição ou arbitrariedade nos veredictos, preservando a soberania do Conselho de Sentença.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se, à luz do art. 593, III, d, do CPP, a condenação proferida pelo Tribunal do Júri, fundada em testemunho referencial de familiares que ouviram diretamente da vítima a identificação dos agressores, sem perícia em aparelho telefônico e diante da absolvição de corréus com base no mesmo conjunto probatório, pode ser considerada manifestamente contrária à prova dos autos.
+5. Discute-se, ainda, se a análise pretendida pela parte agravante demanda reexame do conjunto fático-probatório, o que atrairia a incidência da Súmula 7/STJ, impedindo o conhecimento do recurso especial.
+III. RAZÕES DE DECIDIR
+6. O Tribunal de origem registrou, de forma motivada, que o acervo probatório é suficiente para amparar o veredicto condenatório, inexistindo dissociação manifesta entre a decisão do Conselho de Sentença e as provas colhidas sob o crivo do contraditório.
+7. A instância ordinária distinguiu o testemunho de ouvir dizer, tecnicamente imprestável como prova principal, do testemunho referencial da vítima, reconhecendo que, no caso, os depoimentos de familiares reproduziram relato direto do ofendido, falecido posteriormente, o que configura prova irrepetível e admissível, segundo a jurisprudência consolidada.
+8. Concluiu-se que a autoria delitiva foi afirmada com base em testemunho referencial válido, somado a outros elementos colhidos na investigação e em juízo, afastando a tese de condenação fundada exclusivamente em testemunho indireto desprovido de rastreabilidade.
+9. Rever a conclusão das instâncias ordinárias, no sentido de que há suporte probatório idôneo para a condenação e de que o veredicto não é manifestamente contrário à prova dos autos, demandaria reexame aprofundado do contexto fático-probatório, providência vedada em recurso especial pela Súmula 7/STJ.
+IV. DISPOSITIVO E TESE
+10. Resultado do Julgamento: Agravo regimental improvido, mantida a decisão monocrática que não conheceu do recurso especial.
+Tese de julgamento:
+1. O testemunho referencial prestado por familiares que reproduzem relato direto da vítima falecida configura prova irrepetível válida, apta a embasar veredicto condenatório do Tribunal do Júri.
+2. A aferição de eventual decisão manifestamente contrária à prova dos autos, quando exige reexame do acervo fático-probatório, encontra óbice na Súmula 7/STJ, não sendo admissível em recurso especial.
+Neste recurso, sustenta o embargante a existência de dissenso entre a Quinta e a Sexta Turmas, questionando a suficiência de testemunhos referenciais de familiares a partir do relato da vítima, posteriormente falecida, como standard probatório mínimo a justificar a condenação pelo Tribunal do Júri.
+Aduz que o acórdão embargado, não obstante a incidência da Súmula n. 7/STJ, não se limitou a ratificar a inadmissão do recurso especial na origem, e avançou sobre a questão de direito, afirmando, em juízo de mérito implícito, que o testemunho referencial seria meio válido e suficiente à sustentação da autoria (e-STJ fl. 1.711).
+Requer, ao final, o provimento do recurso para fazer prevalecer a orientação da Sexta Turma, "reconhecendo-se que o controle do veredicto fundado, de modo central, em testemunho indireto/referencial constitui questão de direito, não obstada pela Súmula 7/STJ" (e-STJ fl. 1.714), e o consequente provimento do recurso especial para anular o julgamento e determinar que o embargante submeta-se a novo Júri.
+É o relatório. Decido.
+O recurso de embargos de divergência possui a função precípua de uniformizar a jurisprudência interna do tribunal, de modo a afastar antinomias entre julgados sobre questões ou teses submetidas à sua apreciação.
+Nesse contexto, cumpre asseverar que os embargos de divergência são inadmissíveis nas hipóteses em que o mérito do recurso especial não foi apreciado, conforme o disposto na Súmula n. 315/STJ, segundo a qual "não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+Ilustrativamente:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA. REQUISITOS NÃO CUMPRIDOS. AGRAVO DESPROVIDO.
+ ..
+4. A jurisprudência do STJ é pacífica no sentido de que não cabem embargos de divergência quando o mérito do recurso especial não foi apreciado, conforme Súmula n. 315 do STJ.
+ ..
+(AgRg nos EAREsp n. 2.869.442/MG, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 13/8/2025, DJEN de 19/8/2025, grifo nosso.)
+No caso, o acórdão aqui embargado manteve a decisão por meio da qual não se conheceu do recurso especial, consignando que "afastar a conclusão de que houve suporte probatório idôneo para o veredicto condenatório demandaria o reexame aprofundado das provas dos autos, providência inviável em recurso especial, nos termos da Súmula 7 do STJ" (e-STJ fl. 1.674).
+Nesse contexto, é também preciso rememorar que não são cabíveis embargos de divergência amparados em eventual inobservância de regras técnicas alusivas ao conhecimento do recurso especial, como no caso, em que o apelo nobre esbarrou no óbice da Súmula n. 7 do STJ.
+De toda forma, ainda que assim não fosse, e mesmo que configurada a hipótese ventilada pelo embargante de que houve julgamento de mérito implícito do recurso especial, incumbiria à parte embargante a comprovação do dissídio pretoriano, nos moldes do art. 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça, providência da qual não se desincumbiu o recorrente.
+É que, para a comprovação do dissídio, não é suficiente a mera transcrição de ementas, trechos isolados dos julgados ou referências aos julgados, já que é imperiosa a demonstração analítica da similitude fática entre os acórdãos embargado e paradigma que no entanto resultaram em tratamento jurídico diverso, o que não foi realizado.
+Nesse sentido:
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE EXAME DO MÉRITO PELO ACÓRDÃO EMBARGADO. INCIDÊNCIA DA SÚMULA 315/STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. INEXISTÊNCIA DE COTEJO ANALÍTICO E SIMILITUDE FÁTICA. DESCUMPRIMENTO DOS REQUISITOS DO ART. 266, § 4º, DO RISTJ. PRETENSÃO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. INADEQUAÇÃO DA VIA ELEITA. AUSÊNCIA DE ARGUMENTOS NOVOS CAPAZES DE INFIRMAR A DECISÃO AGRAVADA.
+1. Nos termos da Súmula 315/STJ, não cabem embargos de divergência quando ausente o exame de mérito da controvérsia. Na hipótese, o acórdão embargado deixou de conhecer do agravo regimental, ante a deficiência de dialeticidade (Súmula 182/STJ), o que obstou a apreciação do mérito do recurso especial. Nessas circunstâncias, fica inviabilizada a oposição de embargos de divergência, por inexistir juízo de mérito a ser confrontado.
+2. A admissibilidade dos embargos de divergência exige a demonstração analítica do dissídio, mediante o confronto entre os trechos do acórdão embargado e dos julgados paradigmas que configurem a identidade ou similitude fática e a divergência jurídica. A mera transcrição de ementas ou trechos isolados, sem o necessário cotejo analítico, desatende ao comando do art. 266, § 4º, do RISTJ.
+3. O princípio da primazia do julgamento de mérito e a flexibilização do formalismo não autorizam o descumprimento de pressupostos recursais objetivos e específicos, de natureza técnica, estabelecidos na legislação processual e no Regimento Interno desta Corte.
+4. É inviável a concessão de habeas corpus de ofício em sede de embargos de divergência para desconstituir acórdão proferido por Turma julgadora, ante a ausência de competência constitucional da Seção para tal desiderato nesta via processual.
+5. Agravo regimental improvido.
+(AgRg nos EAREsp n. 3.115.775/SP, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 19/5/2026, DJEN de 25/5/2026, grifo nosso.)
+Ante o exposto, indefiro liminarmente os embargos de divergência.
+Publique-se. Intimem-se.
+EMENTA
