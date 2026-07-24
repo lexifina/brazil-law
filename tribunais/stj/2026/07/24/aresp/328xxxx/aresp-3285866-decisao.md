@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE PERNAMBUCO contra decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO (Apelação Criminal n. 0001886-45.2020.8.17.0370).
+Consta dos autos que o réu foi condenado, em primeira instância, à pena de 5 (cinco) anos de reclusão, em regime inicial semiaberto, pela suposta prática do crime previsto no art. 33 da Lei n. 11.343/2006.
+O Tribunal de origem, por unanimidade, deu provimento ao apelo defensivo, nos termos do acórdão combatido (e-STJ fls. 232/240):
+EMENTA: PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. CONDENAÇÃO PELO CRIME PREVISTO NO ARTIGO 33, CAPUT, DA LEI Nº 11.343/2006. PEDIDO DE ABSOLVIÇÃO. NÃO CABIMENTO. CONSTATAÇÃO DE ILEGALIDADE DA ABORDAGEM POLICIAL. FUNDADA DÚVIDA SOBRE A PROPRIEDADE, IMPUTADA AO RECORRENTE, DA DROGA APREENDIDA. CONTRADIÇÕES DO POLICIAL MILITAR SOBRE AS CIRCUNSTÂNCIAS DA APREENSÃO DO MATERIAL ILÍCITO. INSUFICIÊNCIA DE PROVA. APELO PROVIDO PARA ABSOLVER O RECORRENTE COM ESTEIO NO ARTIGO 386, INCISO VII, DO CÓDIGO DE PROCESSO PENAL. DECISÃO UNÂNIME.
+I  Pelo material probatório dos autos revisto nessa instância recursal, entende-se necessária a reforma da sentença para absolver o recorrente pela constatação de ilegalidade da ação policial e por insuficiência de prova (artigo 386, inciso VII, do Código de Processo Penal).
+II  Recurso provido para absolver o recorrente com esteio no artigo 386, inciso VII, do Código de Processo Penal. Decisão unânime.
+O recorrente interpôs recurso especial, alegando violação ao art. 33 da Lei n. 11.343/2006, sustentando que, à luz do quadro fático delimitado, havia justa causa para a abordagem, bem como que os elementos de prova carreados aos autos seriam suficientes à condenação (e-STJ fls. 256/268).
+O recurso especial foi inadmitido (e-STJ fls. 274/275).
+No agravo, o recorrente impugna os óbices opostos à admissibilidade do apelo nobre e requer o provimento do agravo para admitir o recurso especial e possibilitar a análise de seu mérito (e-STJ fls. 277/289).
+O Ministério Público Federal manifestou-se pelo conhecimento do agravo para não conhecer do recurso especial (e-STJ fls. 321/322).
+É o relatório.
+Decido.
+Preenchidos os requisitos de admissibilidade do agravo, passo à análise do recurso especial.
+O recurso especial não comporta conhecimento.
+O Tribunal local, ao apreciar a controvérsia, apresentou os seguintes fundamentos (e-STJ fls. 229/240):
+ ..
+Entendo que a defesa tem razão em persistir na absolvição do recorrente.
+E que, primeiramente, pelo contexto probatório produzido nos autos, concluo que a busca pessoal realizada no recorrente, em que, inclusive, nada foi encontrado com ele, não se amparou nas disposições do artigo 244 do Código de Processo Penal.
+Ouvido em juízo, o policial militar Jezaias Gomes Soares disse notadamente que não lembrava das circunstâncias da prisão do recorrente; e, pelos relatos do policial militar Maxwel Rozendo Leite em juízo, percebo que eles policiais sabiam da ocorrência rotineira de tráfico de drogas no local; que, quando lá chegaram, um beco, viram quatro homens jogando bola, sem que eles tivessem apresentado qualquer comportamento considerado "suspeito", relacionado a qualquer atividade ilícita, sendo certo, pelas declarações do policial Maxwel, que eles não fizeram campana e não presenciaram qualquer movimentação de atos de comércio de substância ilícita que justificasse a abordagem.
+Depois da abordagem pessoal ao recorrente, não houve a apreensão de qualquer droga em poder do recorrente, tampouco de dinheiro, a servir de confirmação de que ele estava realizando o tráfico de drogas no local.
+Como decidiu o Superior Tribunal de Justiça, "Exige-se, em termos de standard probatório para busca pessoal ou veicular sem mandado judicial, a existência de fundada suspeita (justa causa) - baseada em um juizo de probabilidade, descrita com a maior precisão possível, aferida de modo objetivo e devidamente justificada pelos indícios e circunstâncias do caso concreto - de que o indivíduo esteja na posse de drogas, armas ou de outros objetos ou papéis que constituam corpo de delito, evidenciando-se a urgência de se executar a diligência" e que "Não satisfazem a exigência legal, por si sós, meras informações de fonte não identificada (e.g. denuncias anónimas)" (RHC n. 158.580/BA, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/4/2022, DJe de 25/4/2022.).
+Convém registrar os questionamentos - a partir dos informes de populares que os policiais afirmaram, perante a autoridade policial, terem recebido - de que, se havia intenso tráfico de drogas, por qual razão não houve flagrância em atos de comércio e apreensão de dinheiro; e, se o tráfico de drogas era "comandado" pelo recorrente, por qual motivo outras pessoas não foram apreendidas.
+Noutro aspecto, quanto ao momento em que a droga constante do auto de apresentação e apreensão foi encontrada, a qual, ressalte-se, não estava em poder do recorrente e havia outros três homens no local, policial militar Maxwel Rozendo Leite fez afirmações contraditórias.
+Perante a autoridade policial, dito policial disse que o recorrente apontou onde estava a droga; em juízo, o policial afirmou notadamente que a droga foi encontrada no local, embaixo de uma pedra; que eles policiais acharam durante a busca; que o recorrente não apontou espontaneamente o local; depois, ainda, disse que não lembra se eles policiais acharam a droga ou se o recorrente apontou onde estava a droga.
+Por tais contradições, considero que não há elementos de prova suficientes a constatação de que a droga encontrada pertencia ao recorrente.
+Ainda em outro aspecto relativamente às declarações de dito policial, prosseguiu, ele, dizendo que, depois que localizaram as drogas, eles policiais perguntaram e disseram que iam levar os quatro para saberem de quem era a droga, e que, nesse momento, o recorrente admitiu.
+A defesa do recorrente alega nulidade pela falta de advertência ao recorrente pelos policiais de seu direito ao silêncio.
+O tema  exigência de advertência sobre o direito ao silêncio na abordagem policial - é controvertido no Superior Tribunal de Justiça.
+No caso concreto dos autos, para além da falta de advertência acerca do direito ao silêncio, o recorrente, na minha compreensão, se for considerar verdade a declaração do policial militar Maxwel Rozendo Leite de que eles policiais disseram que iam levar os quatro para saberem de quem era a droga, o recorrente foi coagido.
+Por tais aspectos, considero que a abordagem policial foi ilegal e que as declarações contraditórias do policial militar Maxwel Rozendo Leite não servem à comprovação de que a droga encontrada pertencia ao recorrente.
+Merecem transcrição outros aspectos das declarações de dito policial observados pelo Defensor Público do Estado de Pernambuco e externados nas razões do presente recurso (ID 41307376):
+"A condenação proferida pelo juízo de primeiro grau é baseada exclusivamente no depoimento de uma unica testemunha, o policial Maxwell.
+Verifica-se que a única testemunha ouvida em juízo, o policial Maxwell, apresentou depoimento em juízo em contradição com o prestado em sede de inquérito policial. Explica-se.
+Primeiramente, quanto ao conteúdo dos supostos informes. O referido miliciano expôs em juizo que estava realizando rondas quando fora abordado por populares que indicaram a ocorrência de tráfico em determinado local. Ou seja, os informes não teria especificado a pessoa de Danilo (ora Recorrente). Em sede policial, a testemunha mencionou expressamente o nome de Danilo, dando a entender que já teria ocorrido a individualização.
+Á segunda contradição diz respeito que Danilo teria assumido a propriedade em sede de interrogatório sub- reptício, contudo em sede policial não consta essa informação. Ora, é de se estranhar tal afirmação não estar presente no seu depoimento em fase preliminar, uma vez que dado ao calor dos fatos, essa informação seria essencial e de fácil lembrança por parte do policial. Contudo, só veio a trazer à tona mais de um ano depois em sede de audiência de instrução.
+Á terceira contradição versa sobre Danilo o ter levado a um local específico para mostrar as drogas. Em sede de inquérito policial, constava tal informação. Em juizo, a testemunha negou. Contudo, após ter o seu depoimento lido pela Promotora de Justiça limitouse a responder que "se estava lá, então é porque foi."
+Á quarta contradição é extraída do inquérito policial e da novidade trazia pelo policial em audiência, consistindo no fato de Danilo ter, supostamente, confessado, durante o interrogatório sub-reptício, e não obstante tal confissão os policiais ainda assim diligenciaram junto a casa de Gabriel. Caso o Recorrente tivesse, de fato, confessado, não haveria razões para os milicianos se dirigirem até a residência de Gabriel.
+Diante desse cenário, surge, no mínimo, um cenário de dúvida.
+Logo, não há qualquer prova robusta e incontestável de que o denunciado tivesse qualquer envolvimento com o crime de tráfico que lhe foi imputado nesses autos. ( )"
+Não se descarta a possiblidade da prática do crime pelo recorrente, mas uma condenação criminal, como se sabe, deve se basear em juizo de certeza, o que, no caso concreto dos autos, no meu sentir, não está constatado.
+Por todo o exposto, voto pelo provimento do recurso para absolver o recorrente com esteio no artigo 386, inciso VII, do Código de Processo Penal.
+As instâncias ordinárias, após ampla instrução, concluíram pela improcedência da pretensão punitiva em razão da ilegalidade da abordagem policial e da insuficiência probatória, ressaltando divergências substanciais entre os testemunhos e os demais elementos de prova colhidos sob o crivo do contraditório e da ampla defesa.
+No que tange ao delito de tráfico, a Corte local, soberana na análise fático-probatória, assentou que a autoria não se mostrou segura, pois, além de inexistirem elementos aptos a justificar a abordagem policial  reputada ilícita  , também não existem elementos mínimos capazes de vincular os entorpecentes ao agravado, considerando que os depoimentos colhidos em juízo se revelam contraditórios e não alcançam o standard probatório mínimo exigido para a condenação.
+Portanto, à luz das premissas fático-probatórias fixadas pelas instâncias de origem , a pretensão recursal, fundada na revisão do juízo de suficiência das provas para condenação, esbarra no óbice da Súmula n. 7/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CRIMES CONTRA A LEI DE LICITAÇÕES. ART. 90 DA LEI Nº 8.666/93. PRETENDIDA ABSOLVIÇÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. LEGALIDADE DAS INTERCEPTAÇÕES TELEFÔNICAS. DOSIMETRIA DA PENA BASE. CULPABILIDADE E CIRCUNSTÂNCIAS DO CRIME. FUNDAMENTAÇÃO IDÔNEA. ART. 580 DO CPP. AUSÊNCIA DE PREQUESTIONAMENTO. INADMISSIBILIDADE DE EXTENSÃO AUTOMÁTICA DE EFEITOS DE DECISÃO PROFERIDA EM FAVOR DE CORRÉU. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. A inversão do julgado, com vistas à absolvição do ora agravante, exigiria aprofundado reexame fático-probatório, expediente vedado nesta seara recursal, conforme se extrai do óbice da Súmula n. 7/STJ.
+ ..
+8. Agravo regimental desprovido.
+(AgRg no REsp n. 2.118.541/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/5/2025, DJEN de 20/5/2025.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE ENTORPECENTES. DESCLASSIFICAÇÃO. ART. 28 DA LEI N. 11.343/2006. AUSÊNCIA DE PROVA DA MERCANCIA ILÍCITA. QUANTIDADE NÃO RELEVANTE DE DROGAS. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. A condenação pressupõe prova robusta, que indique, sem espaço para dúvida, a existência do crime e a prova de autoria, situação não ocorrente na espécie, em que o Juízo condenatório apoiou-se em uma presunção.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 879.585/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/4/2024, D Je de 3/5/2024.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
