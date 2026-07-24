@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de Agravo apresentado por CONSELHO REGIONAL DE FARMÁCIA DO ESTADO DE SÃO PAULO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. RESP 1.340.553/RS. CONSELHO PROFISSIONAL. INTIMAÇÂO PESSOAL. ART. 25 DA LEF. AUSÊNCIA. PRINCÍPIO DA INSTRUMENTAUDADEDAS FORMAS.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 25 da Lei 6.830/1980 e 183 do Código de Processo Civil, no que concerne ao afastamento da prescrição intercorrente em execução fiscal, em razão de as intimações terem sido realizadas por meio de publicação, sem intimação pessoal do representante judicial do conselho profissional, trazendo a seguinte argumentação:
+Inicialmente cumpre esclarecer QUE ESTE CONSELHO FOI INTIMADO DURANTE TODA A TRAMITAÇÃO DO FEITO POR MEIO DE PUBLICAÇÃO, EM TOTAL INOBSERVÂNCIA AO QUE PRECONIZA O ARTIGO 25, DA LEI N.º 6.830/80 (fls. 189).
+A intimação por meio de publicação oficial não supre a determinação do artigo 25 da Lei nº 6.830/80 (fls. 190).
+Não tendo ocorrida a intimação pessoal do ora Exequente, considera-se não efetivada a intimação por publicação (fls. 190).
+Dessa forma, não há que se falar em marcos suspensivos ou interruptivos do prazo prescricional, tendo em vista que não houve a intimação pessoal do Conselho sobre a não localização do Executado ou sobre a não localização de bens penhoráveis,  e do que está positivado pelo Diploma Processual Civil pelas alterações empreendidas pela Lei n.º 14.125/91 (fls. 190-191).
+Desta forma, considerando a deficiente intimação pessoal desta entidade nos autos, bem como a ausência de decurso de prazo tanto para localização de bens penhoráveis, não há que se falar em prescrição intercorrente (fls. 192).
+É o relatório.
+Decido.
+Quanto à controvérsia, incide a Súmula n. 283/STF, porquanto a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja:
+Por fim, cabe à Fazenda pronunciar-se, na primeira oportunidade para tanto, a respeito de qualquer prejuízo sofrido em razão da ausência de sua intimação, não se considerando tal hipótese em seu aspecto puramente formal, ou seja, não havendo que se falar em prejuízo somente em razão da ausência de intimação - exceção feita à própria intimação de não localização do devedor ou de bens penhoráveis, . cujo prejuízo é presumido.
+ ..
+A intimação da Fazenda Pública deve, em regra ser feita pessoalmente, conforme dispõe o art. 25 da LEF, seja por mandado ou, caso não haja representante na sede do juízo, por meio de carta com Aviso de Recebimento, regra que igualmente se aplica aos Conselhos Profissionais:
+ ..
+Por sua vez, considera-se realizada a intimação se, mesmo não realizada pessoalmente, o exequente demonstra ciência do ato, ocorrendo o saneamento de eventual vício, em virtude do princípio da instrumentalidade das formas, consoante inteligência do art. 244 do Código de Processo Civil de 1973, então vigente, ao qual presentemente equivale o art. 277 do CPC/2015.
+No caso em tela, a realização de intimações por publicação não acarretou prejuízo ao apelante, o que se demonstra por suas respostas aos chamamentos; assim, em 28.12.2007 foi determinado o fornecimento de número de CNPJ (fls. 25), intimação enviada e recebida em 06.02.2008 (fls. 27), mantendo-se inerte o apelante. Em 18.04.2014, novamente determinada sua manifestação; embora a decisão meramente tenha sido publicada, em 13.08.2014 o apelante requereu a penhora contra o responsável (fls. 30). Embora as decisões seguintes também tenham sido publicadas, a todas o apelante respondeu com celeridade e nos termos demandados (fls. 36 a 91), até a prolação da sentença extintiva, em 25.08.2002 (fls. 93) (fls. 182-186).
+Nesse sentido: "Incide a Súmula n. 283 do STF, aplicável analogicamente a esta Corte Superior, quando o acórdão recorrido é assentado em mais de um fundamento suficiente para manter a conclusão do Tribunal a quo e a parte não impugna todos eles" (REsp n. 2.082.894/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 28/8/2023).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 2.267.385/ES, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 21/3/2025; REsp n. 2.180.608/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 18/3/2025, DJEN de 21/3/2025; AgInt no AREsp n. 2.470.308/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 21/10/2024; AgInt no AREsp n. 2.040.000/RJ, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/10/2024; AgInt no AREsp n. 638.541/MA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 24/11/2023.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
