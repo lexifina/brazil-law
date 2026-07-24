@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de recurso ordinário interposto por ANISIO NETO FERREIRA NUNES, preso cautelarmente pela suposta prática do crime de furto qualificado, desafiando acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ, nos autos do HC n. 0752160-75.2026.8.18.0000.
+Foi o paciente preso em flagrante, em 1º de fevereiro de 2026, pela suposta prática de furto qualificado de semoventes, mediante rompimento de obstáculo e escalada, durante o repouso noturno, no Município de Joaquim Pires/PI.
+O Juízo da Central Regional de Inquéritos de Teresina homologou a prisão em flagrante e a converteu em preventiva.
+Nas razões recursais, a defesa sustenta a ausência de fundamentação idônea para a manutenção da custódia, ao argumento de que não foi demonstrado perigo concreto decorrente da liberdade do recorrente.
+Alega, ainda, a desproporcionalidade da medida extrema e a suficiência da aplicação de cautelares diversas da prisão.
+Afirma que o fato imputado consiste na subtração de nove galinhas, sem emprego de arma, violência ou grave ameaça contra pessoa, tampouco resistência à prisão. Ressalta que sete dos animais foram recuperados e restituídos à vítima, circunstância que, a seu ver, reduz sensivelmente a lesividade patrimonial da conduta.
+Argumenta que, embora o Tribunal de origem tenha mantido a prisão com fundamento na reiteração delitiva, diante da existência de outros processos e de condenação recente por crime patrimonial, tais elementos não seriam suficientes, por si sós, para justificar a custódia cautelar. Defende que a prática reiterada de infrações de reduzida expressão econômica não autoriza a antecipação da pena, sobretudo quando medidas menos gravosas se mostram adequadas à preservação da ordem pública.
+A defesa destaca, ainda, as condições pessoais do recorrente, que seria analfabeto, desempregado e pai de quatro filhos menores, sustentando que o encarceramento acentua a situação de vulnerabilidade de seu núcleo familiar, sem que esteja demonstrada a imprescindibilidade da prisão.
+Além da revogação da prisão preventiva, requer o reconhecimento da atipicidade material da conduta, mediante a aplicação do princípio da insignificância.
+Sustenta que, embora o fato se amolde formalmente ao art. 155 do Código Penal, a subtração de nove galinhas, das quais sete foram recuperadas e devolvidas, representa lesão patrimonial inexpressiva.
+Acrescenta que os bens seriam de pequeno valor econômico e que a conduta não teria revelado periculosidade social relevante, por não ter sido praticada com violência física ou moral. Pondera que as qualificadoras do rompimento de obstáculo e da escalada não impedem, por si sós, o reconhecimento da bagatela, quando reduzido o valor da coisa subtraída e ausente perigo concreto a terceiros.
+Ao final, requer o provimento do recurso para revogar a prisão preventiva, com ou sem a aplicação de medidas cautelares diversas. Postula, ainda, o reconhecimento da insignificância da conduta e o consequente trancamento da ação penal por ausência de tipicidade material.
+Não houve pedido liminar.
+Ouvido, o Ministério Público Federal manifestou-se pelo desprovimento do presente inconformismo.
+É o relatório.
+Decido.
+Busca a defesa, preliminarmente, o reconhecimento da atipicidade material da conduta imputada ao recorrente.
+Todavia, a matéria não pode ser apreciada por esta Corte, ante a ausência de manifestação das instâncias ordinárias acerca do tema suscitado.
+Conforme se extrai do acórdão impugnado, o Tribunal de origem limitou-se à análise dos requisitos autorizadores da prisão preventiva.
+Nessas circunstâncias, mostra-se inviável o pronunciamento desta Corte Superior, sob pena de indevida supressão de instância e afronta aos princípios do duplo grau de jurisdição e do devido processo legal.
+A propósito, leciona Renato Brasileiro ser inadmissível o "pedido de julgamento de habeas corpus per saltum, ou seja, do julgamento do remédio heroico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único. 4. ed. rev., ampl. e atual. Salvador: JusPodivm, 2016, p. 2.470).
+Nesse mesmo sentido:
+DIREITO PROCESSUAL PENAL E DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO. FURTO. PLEITO DE ABSOLVIÇÃO. PRINCÍPIO DA INSIGNIFICÂNCIA. INOVAÇÃO RECURSAL. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus impetrado em favor do agravante, condenado pela prática do delito de furto na modalidade tentada.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se é cabível a apreciação, em habeas corpus e em sede de agravo regimental, de pedido de absolvição com fundamento no princípio da insignificância, quando a tese não foi suscitada nas razões de apelação e, por isso, não foi examinada pelo Tribunal de origem, sob pena de supressão de instância.
+3. Outra questão em discussão consiste em saber se, a despeito da inadequação do habeas corpus substitutivo de recurso próprio, seria possível a concessão de ordem de ofício pelo Superior Tribunal de Justiça, em razão de suposta flagrante ilegalidade na manutenção da condenação por furto de pequeno valor, à luz do princípio da insignificância.
+III. Razões de decidir
+4. O habeas corpus não é cabível como substitutivo de recurso próprio, conforme entendimento consolidado da Quinta Turma do STJ
+5. Apesar da inadequação do habeas corpus substitutivo, a Corte admite, nos termos do art. 654, § 2º, do Código de Processo Penal, a concessão de ordem de ofício quando constatada flagrante ilegalidade, abuso de poder ou teratologia, hipótese que, contudo, não se verifica no caso concreto.
+6. A tese defensiva de aplicação do princípio da insignificância não foi deduzida nas razões de apelação perante o Tribunal de origem, tendo sido suscitada apenas em embargos de declaração, o que configurou inovação recursal.
+7. A ausência de prévia manifestação da instância ordinária sobre a incidência do princípio da insignificância impede o exame direto da matéria pelo Superior Tribunal de Justiça em habeas corpus ou em agravo regimental, sob pena de indevida supressão de instância e afronta à competência constitucional atribuída à Corte (CF/1988, art. 105, II e III).
+8. Inexistindo flagrante ilegalidade na manutenção da condenação por furto, não há campo para a concessão de habeas corpus de ofício.
+IV. Dispositivo
+9. Agravo regimental desprovido.
+(AgRg no HC n. 1.067.317/SC, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 9/6/2026, DJEN de 16/6/2026, grifo nosso.)
+Passo ao exame dos fundamentos da prisão preventiva do recorrente .
+Nos termos do art. 93, inciso IX, da Constituição Federal, as decisões judiciais devem ser devidamente fundamentadas.
+A prisão preventiva, quando lastreada em fundamentos concretos e nos requisitos legais, não afronta os princípios da presunção de inocência e da proporcionalidade, por não representar antecipação de pena, mas medida destinada à tutela da ordem pública e à efetividade da persecução penal, conforme orientação consolidada do Supremo Tribunal Federal (HC n. 211.105 AgR, relator Ministro Dias Toffoli, Primeira Turma, julgado em 11/4/2022, DJe de 30/5/2022).
+No caso, segundo consta do decreto constritivo (fls. 94/96, grifo nosso):
+Conforme art. 311 do Código de Processo Penal, "caberá a prisão preventiva decretada pelo juiz, a requerimento do Ministério Público, do querelante ou do assistente, ou por representação da autoridade policial". A prisão preventiva é admissível no presente caso, pois o delito tipificado no art. 155, §1º, §4º, I, II e §6º, do Código Penal é crime doloso punido com pena privativa de liberdade máxima superior a 4 (quatro) anos, enquadrando-se na hipótese do art. 313, I, do CPP. A materialidade delitiva está comprovada pelo Auto de Exibição e Apreensão nº 1164/2026 que relaciona sete semoventes recuperados em poder do custodiado, pelos Termos de Entrega/Restituição que demonstram o reconhecimento dos semoventes pela vítima e pelo Boletim de Ocorrência nº 23927/2026 que registra a subtração de semoventes domesticáveis de produção, em Esperantina/PI.
+Quanto aos indícios suficientes de autoria, os autos demonstram que os policiais militares diligenciaram no sentido de identificar o autor do furto dos semoventes, tendo sido anexada mídia audiovisual que relaciona o apresentado ao fato (ID 89831402), houve reconhecimento pela vítima, cfr. se depreende do Termo de Declarações (às fls. 15/ ID 89831401). Além da confissão do furto das galinhas pelo custodiado em sede policial (às fls. 18/ ID 89831401).
+Portanto, os elementos probatórios satisfazem o requisito do fumus comissi delicti previsto no art. 312 do CPP.
+Quanto ao perigo decorrente do estado de liberdade do custodiado, verifica-se que ele responde a outros processos criminais, inclusive, há condenação nos autos do processo 0806606-30.2025.8.18.0140, tendo sido devidamente intimado da sentença no dia 09/10/2025, por delito de mesma natureza, qual seja, furto qualificado mediante escalada (art. 155, §4º, II, do CP), na forma mais gravosa do §6º do mesmo dispositivo por se tratar de subtração de animal semovente domesticável de produção.
+No caso, a prisão preventiva encontra-se devidamente fundamentada em elementos concretos extraídos dos autos, aptos a demonstrar a presença dos requisitos previstos no art. 312 do Código de Processo Penal.
+Conforme consignado no decreto prisional e corroborado por consulta aos sistemas processuais, o recorrente responde a mais de quinze processos pela suposta prática de delitos patrimoniais, além de ostentar condenação recente no Processo n. 0806606-30.2025.8.18.0140 por infração de idêntica natureza.
+Não se trata, portanto, de referência genérica a antecedentes desfavoráveis ou a fatos remotos, mas de elementos objetivos e atuais que evidenciam persistência na prática de crimes contra o patrimônio, inclusive envolvendo a subtração de semoventes domesticáveis de produção.
+Nesse contexto, a custódia preventiva encontra fundamento no risco concreto de reiteração delitiva, uma vez que a liberdade do recorrente revela acentuada probabilidade de renovação da atividade criminosa, circunstância apta a justificar a intervenção cautelar do Estado para a garantia da ordem pública.
+Com efeito, a jurisprudência consolidada desta Corte Superior firmou entendimento de que antecedentes criminais, reincidência, atos infracionais pretéritos e até mesmo ações penais em andamento constituem fundamentos idôneos para a decretação ou manutenção da custódia cautelar, quando demonstrado risco concreto de reiteração delitiva.
+Nesse sentido, os seguintes precedentes desta Corte:
+HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. FURTO QUALIFICADO. PRISÃO PREVENTIVA. REINCIDÊNCIA ESPECÍFICA. EXTENSA FOLHA DE ANTECEDENTES CRIMINAIS. NECESSIDADE DE EVITAR A REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO IDÔNEA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. COVID-19. INSERÇÃO EM GRUPO DE RISCO. NÃO COMPROVAÇÃO. ORDEM NÃO CONHECIDA.
+ ..
+3. No caso dos autos, foi destacado que embora o delito não seja revestido de violência ou grave ameaça - furto qualificado por rompimento de obstáculo -, a prisão do paciente se mostra necessária como forma de obstar a reiteração delitiva, tendo em vista os péssimos antecedentes criminais por ele ostentados.
+4. Com efeito, em exame de sua extensa ficha criminal, há registro de diversos delitos de mesma natureza, com condenações transitadas em julgado, sendo que sua contumácia advém de longa data - os primeiros fatos são datados de 2004 -, e os registros se referem a variadas comarcas. Além disso, não há informação de vínculo com o distrito da culpa, tampouco demonstração de exercício de atividade laborativa lícita, indícios relevantes de que faz do crime o meio de vida. Esse cenário é suficiente para indicar que a custódia se mostra necessária para evitar novas condutas e preservar a ordem pública.
+ ..
+9. Ordem não conhecida.
+(HC n. 640.123/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/6/2021, DJe de 14/6/2021, grifo nosso.)
+Ressalte-se, por fim, que as condições pessoais favoráveis do acusado, por si sós, não afastam a possibilidade de decretação ou manutenção da prisão preventiva, quando presentes os requisitos autorizadores da medida extrema.
+Da mesma forma, as circunstâncias concretas do caso evidenciam a insuficiência das medidas cautelares diversas, previstas no art. 319 do Código de Processo Penal, para resguardar a ordem pública.
+Ante o exposto, nego provimento ao recurso ordinário.
+Publique-se. Intimem-se.
+EMENTA
