@@ -1,0 +1,4 @@
+Resolução Nº 5.331 RESOLUÇÃO CMN Nº 5.331, DE 23 DE JULHO DE 2026
+Disciplina linha de crédito com recursos do Fundo Nacional de Desenvolvimento Científico e Tecnológico – FNDCT a ser executada mediante crédito descentralizado concedido por agências de fomento, bancos de desenvolvimento ou instituições de crédito oficiais credenciados pela Financiadora de Estudos e Projetos – Finep, nos termos do art. 15-A da Lei nº 11.540, de 12 de novembro de 2007.
+O Banco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, torna público que o Conselho Monetário Nacional, em sessão extraordinária realizada em 23 de julho de 2026, tendo em vista as disposições do art. 4º, caput, inciso VI, da Lei nº 4.595, de 31 de dezembro de 1964, dos arts. 4º e 14 da Lei nº 4.829, de 5 de novembro de 1965, e do art. 15-A da Lei nº 11.540, de 12 de novembro de 2007,
+R E S O L V E U :
