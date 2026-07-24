@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por RAMÃO CASTRO ROMEIRO contra a decisão do Tribunal de Justiça do Estado do Paraná que inadmitiu recurso especial, apresentado contra o acórdão exarado no julgamento da Apelação Criminal n. 0004496-38.2023.8.16.0069.
+O Ministério Público Federal apresentou parecer opinando pelo desprovimento do agravo em recurso especial (fls. 1964/1969).
+É o relatório.
+O agravo é inadmissível.
+Inicialmente, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos, inclusive de forma específica, suficiente e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula n. 182/STJ (AgRg nos EDcl no AREsp n. 2.985.942/MA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/9/2025, DJEN de 25/9/2025).
+O Tribunal de origem inadmitiu o apelo nobre pelo seguinte fundamento: incidência da Súmula 7/STJ, por demandar reexame do conjunto fático-probatório para infirmar a condenação pelo art. 35 da Lei n. 11.343/2006, mantida diante da robustez do acervo de provas que evidenciou vínculo estável e permanente, a partir da divisão de tarefas entre quatro agentes (com função específica); trocas de mensagens, atuação de batedor no transporte de entorpecentes e apreensão de grande quantidade de drogas e dinheiro em notas trocadas (fls. 1830/1832).
+Todavia, não foi impugnado, de forma clara, concreta e suficiente, o fundamento quanto à incidência da Súmula 7/STJ, pois o agravante limitou-se a afirmar a pretensa revaloração de provas e a invocar precedente, sem cotejar as premissas fáticas expressamente fixadas no acórdão recorrido - mensagens entre os envolvidos, escolta do veículo com entorpecentes, funções específicas dos quatro agentes e apreensão relevante (fls. 1831/1832).
+Aduziu, assim, formulações genéricas - revaloração da prova, correção da valoração e violação ao art. 35 da Lei n. 11.343/2006 -, desacompanhadas de referência a trechos do acórdão que amparem a ausência de estabilidade e permanência, ou que permitam a qualificação jurídica diversa sem reabrir debate fático. Por isso, permanece incólume o óbice de origem.
+É entendimento desta Corte Superior que inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível (AgRg no AREsp n. 2.204.136/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 16/5/2023, DJe de 19/5/2023).
+Assim, aplica-se, à hipótese dos autos, o art. 932, inciso III, do CPC, c/c o art. 3º do CPP, e a Súmula 182/STJ por analogia.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
