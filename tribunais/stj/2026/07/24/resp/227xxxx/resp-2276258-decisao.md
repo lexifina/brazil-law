@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por CYCIAN S/A, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do Tribunal Regional Federal da 4ª Região assim ementado (fls. 302/303):
+DIREITO TRIBUTÁRIO. APELAÇÃO. EMBARGOS À EXECUÇÃO FISCAL. CDA. REQUISITOS LEGAIS. CREDITAMENTO DE IPI. ICMS NA BASE DE CÁLCULO DO PIS E COFINS. TAXA SELIC. CONSTITUCIONALIDADE. MULTA MORATÓRIA. CONFISCO. NÃO CONFIGURAÇÃO.
+I. Caso em exame
+1. Apelação em face de sentença que julgou extinto o processo, sem resolução de mérito, quanto à pretensão de reconhecimento de excesso de execução em razão de inclusão do ICMS na base de cálculo do PIS e da COFINS e em razão do direito de creditamento dos valores referentes à aquisição de insumos, matérias-primas e materiais de embalagens isentos, não tributados ou tributados à alíquota zero, e de exclusão dos descontos incondicionais da base de cálculo do IPI , nos termos do art. 485, I, do CPC e quanto ao restante do objeto litigioso, julgou improcedente o pedido formulado pela parte embargante, com resolução de mérito, nos termos do art. 487, I, do CPC.
+II. Questões em discussão
+2. As questões em discussão visam saber se: a) a CDA preenche os requisitos legais; b) o montante discutido em embargos à execução  scal pode ser apurado em cumprimento de sentença; c) a multa moratória de 20% é confiscatória; d) a taxa Selic é constitucional.
+III. Razões de decidir
+3. Nos embargos à execução  scal é ônus do embargante produzir prova destinada a afastar a presunção de certeza e liquidez de que goza o crédito tributário, como a produção de prova que aponte concretamente o montante do excesso de execução.
+4. Não há nulidade na CDA que atende aos requisitos previstos no art. 202, I a IV e parágrafo único, do CTN, e no § 5º do art. 2º da LEF.
+5. O "caput" do art. 161 do CTN autoriza que o crédito não integralmente pago no vencimento seja acrescido de juros de mora, sem prejuízo da imposição das penalidades cabíveis. O §1º autoriza que os juros de mora sejam  xados em percentuais maiores do que 1% ao mês: "se a lei não dispuser de modo diverso, os juros de mora são calculados à taxa de 1% (um por cento) ao mês", de modo que a aplicação da SELIC está de acordo com as normas vigentes.
+6. Não possui caráter con scatório a multa moratória aplicada em 20%, bem como sua cumulação com juros de mora.
+IV. Dispositivo 7. Apelação desprovida.
+Dispositivos relevantes citados: artigo 161 e 202 do CTN; artigo 2º, § 5º, da Lei 6.830/80; art. 917, § 3º, do CPC;
+Jurisprudência relevante citada: Súmula nº 559 do STJ; REsp 1073846/SP, Rel. Ministro LUIZ FUX, PRIMEIRA SEÇÃO, julgado em 25/11/2009, DJe 18/12/2009; TRF4, AG 5043040- 60.2021.4.04.0000, PRIMEIRA TURMA, Relator ANDREI PITTEN VELLOSO, juntado aos autos em 09/12/2022.
+Os embargos de declaração opostos foram rejeitados (fl. 314).
+A parte recorrente alega violação dos arts. 47, inciso II, alínea a, e 110 do Código Tributário Nacional (CTN), sustentando, em síntese, que a inclusão dos descontos incondicionais na base de cálculo do Imposto sobre Produtos Industrializados (IPI) contraria o art. 47, inciso II, alínea a, do CTN; e que a inclusão do Imposto sobre Circulação de Mercadorias e Serviços (ICMS) na base de cálculo da Contribuição ao Programa de Integração Social (PIS) e da Contribuição para o Financiamento da Seguridade Social (COFINS) altera indevidamente o conceito de faturamento, em afronta ao art. 110 do CTN.
+Contrarrazões apresentadas às fls. 338/347.
+O recurso foi admitido (fls. 348/349).
+É o relatório.
+Na origem, cuida-se de embargos à execução fiscal, com pedido principal de reconhecimento de excesso de execução .
+Quanto à primeira tese, relativa à exclusão dos descontos incondicionais da base de cálculo do IPI (art. 47, inciso II, alínea a, do CTN), o acórdão recorrido não resolveu a controvérsia com apoio na interpretação desse dispositivo.
+O Tribunal de origem assentou que a parte embargante não se desincumbiu do ônus de comprovar o excesso de execução, pois não apresentou documentação apta a demonstrar a incidência indevida nem indicou o valor específico tido por indevido, tendo desistido da prova pericial. Para tanto, invocou o art. 917, § 3º, e o art. 373, inciso I, do CPC, bem como a presunção de certeza e liquidez do título executivo.
+Esse fundamento, de índole processual e probatória, é autônomo e suficiente para a manutenção do julgado e não foi impugnado no recurso especial, que se limita à tese de direito material sobre a base de cálculo do IPI. Incide no presente caso, por analogia, a Súmula 283 do Supremo Tribunal Federal, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ainda que ultrapassado esse óbice, o afastamento da premissa de que não houve comprovação do excesso de execução exigiria o reexame do conjunto fático-probatório dos autos, providência vedada nesta via, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+A segunda tese, atinente à exclusão do ICMS da base de cálculo do PIS e da COFINS (art. 110 do CTN), comporta idêntica solução. O Tribunal de origem não decidiu a questão pela ótica do conceito de faturamento, mas pela falta de prova do alegado excesso. Registrou que a parte embargante deixou de trazer documentação hábil a evidenciar que o ICMS teria composto a base das contribuições e não apontou o montante reputado indevido, tendo abdicado da perícia.
+Subsiste, portanto, fundamento processual bastante a sustentar o desprovimento, não atacado nas razões do recurso especial. Aplica-se, também neste ponto, a Súmula 283 do STF, ante a existência de motivação suficiente e não combatida. Do mesmo modo, a revisão do julgado, para admitir excesso não demonstrado na origem, dependeria do revolvimento do acervo probatório, o que atrai a Súmula 7 do STJ.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
