@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de agravo interposto por LEONARDO LUCAS KLINGELER contra a decisão do Tribunal de origem que inadmitiu o recurso especial com fundamento na deficiência de fundamentação (art. 1.029 do CPC e Súmula n. 283 do STF) e na necessidade de reexame de provas (Súmula n. 7 do STJ).
+A parte agravante sustenta que não houve deficiência de fundamentação e que o recurso especial não demanda reexame do conjunto fático-probatório, por se limitar à correção de violação de dispositivos legais na dosimetria e no regime prisional, afirmando ter impugnado todos os fundamentos indicados no acórdão recorrido.
+Requer o provimento do recurso, com a consequente repercussão jurídica.
+A contraminuta foi apresentada (fls. 530-531).
+O Ministério Público Federal apresentou parecer, manifestando-se pelo conhecimento do agravo para negar provimento ao recurso especial, conforme a ementa a seguir (fl. 565):
+AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. DOSIMETRIA DA PENA. PENA-BASE ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. REGIME INICIAL SEMIABERTO. DEVIDAMENTE MOTIVADO. VIOLAÇÃO NÃO CARACTERIZADA. CONHECIMENTO DO AGRAVO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+É o relatório.
+Suficientemente impugnada a decisão agravada, passa-se ao exame do recurso especial interposto.
+Consta dos autos que o recorrente foi condenado às penas de 2 anos e 4 meses de reclusão, em regime inicial fechado, e de 11 dias-multa, como incurso nas sanções do art. 155, § 4º, I e IV, do Código Penal.
+Interposta apelação pela defesa, o recurso foi parcialmente provido para afastar a agravante da reincidência e fixar o regime inicial semiaberto, redimensionando a pena para 2 anos de reclusão e 10 dias-multa, mantida, no mais, a sentença. Os embargos de declaração defensivos foram acolhidos parcialmente, apenas para sanar omissão quanto à primeira fase da dosimetria, sem efeitos modificativos.
+No recurso especial, interposto com fundamento no art. 105, III, a, da Constituição Federal, sustenta a defesa a violação dos arts. 59, 33, § 2º, e 44, § 2º, do Código Penal, sob os argumentos de (i) indevida exasperação da pena-base em 1/6 na primeira fase; (ii) fixação de regime inicial semiaberto com fundamentação inidônea; e (iii) negativa da substituição da pena privativa de liberdade por pena restritiva de direitos com motivação insuficiente.
+O Superior Tribunal de Justiça firmou o entendimento de que a dosimetria da pena se insere no âmbito da discricionariedade do magistrado, dentro do livre convencimento motivado, não sendo cabível a revisão, salvo em casos excepcionais, quando constatada, sem a necessidade de incursão no acervo fático-probatório, a inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+Quanto ao aumento realizado na primeira fase da dosimetria, ao julgar os embargos de declaração, o Tribunal estadual assim consignou (fls. 462-464, destaquei):
+A tese diz respeito à alegação de que as circunstâncias judiciais consideradas na primeira fase de dosimetria, que culminaram na exasperação da pena-base, não restaram comprovadas nos autos. A defesa sustenta que há necessidade de prévia avaliação dos bens para que seja aferida a expressividade ou não da lesão jurídica provocada, de modo que o fundamento de que os bens subtraídos eram de elevado valor não passa de uma ilação. Também sustenta que o recrudescimento da pena-base pela "incursão em residência, espaço de íntima convivência humana" não é motivação suficiente, de modo que a pena-base deve ser fixada no mínimo patamar legal.
+Pois bem.
+Em que pese o pleito defensivo, tem-se que a pena do embargante foi estabelecida dentro dos limites legais e se encontra devidamente motivada, individualizada e adequada à hipótese dos autos, não se cogitando de redução.
+Nessa esteira, não prospera o pleito de afastamento da valoração negativa das circunstâncias judiciais, aplicando-se a pena em seu mínimo legal.
+Ora, a pena-base foi estabelecida na fração de 1/6 acima do patamar mínimo legal, tendo em vista o elevado valor dos bens subtraídos e a incursão em residência, espaço de íntima convivência humana.
+O Juízo a quo valorou negativamente as circunstâncias do delito, notadamente pelo fato de o furto ter sido perpetrado no interior de imóvel residencial.
+De fato, tal avaliação revela-se acertada, pois o grau de reprovação e censura social ultrapassa o ordinário, uma vez que o artigo 5º, inciso XI, da Constituição Federal assegura o direito fundamental à inviolabilidade domiciliar, ao dispor que a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial.
+Diante desse necessário, a despeito das alegações defensivas, resta evidente que essa circunstância específica invasão de domicílio para a prática do crime configura elemento apto a justificar a exasperação da pena-base, tendo em vista que a prática delitiva no interior da residência das vítimas, local onde estas devem sentir-se seguras e protegidas, transcende a gravidade comum dos delitos contra o patrimônio.
+A outra circunstância judicial avaliada negativamente diz respeito ao elevado valor dos bens subtraídos.
+Neste ponto, faz-se necessário destacar que somente dois objetos, subtraídos do interior da residência, foram recuperados, quais sejam dois relógios e um aparelho celular, que foram avaliados em R$ 100,00, respectivamente, consoante auto de exibição, apreensão e entrega de fls. 7.
+No entanto, os demais bens subtraídos não foram recuperados, sendo que consta no boletim de ocorrência a relação desses bens e o valor de avaliação de cada um: i) 2 mochilas da marca Traxart, avaliadas no total de R$ 300,00; ii) 2 patins, avaliados em R$ 1.400,00; iii) um televisor da marca LG, avaliado em R$ 4.000,00; iv) um notebook da marca Samsung, avaliado em R$ 800,00; e v) um vídeo- game da marca Nintendo, avaliado em R$ 1.500,00.
+Portanto, os bens subtraídos totalizaram R$ 8.200,00.
+Logo, não há que se falar em redução da pena- base para o mínimo legal, diante do significativo valor econômico dos bens subtraídos, imprimindo maior gravidade ao delito.
+Como se constata, a vetorial relativa às circunstâncias do crime foi fundamentada em circunstâncias concretas que extrapolaram aquelas inerentes ao tipo penal de furto qualificado, destacando-se a invasão da residência das vítimas, local que deveria figurar como recinto de descanso e segurança, bem como o alto valor dos bens subtraídos e não recuperados, totalizando R$ 8.200,00, cabendo a desvaloração do mencionado vetor e a consequente exasperação da pena-base do recorrente.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. PENA-BASE. FUNDAMENTAÇÃO VÁLIDA. FRAÇÃO DE AUMENTO PROPORCIONAL. USO DA QUALIFICADORA SOBEJANTE NA ELEVAÇÃO DA PENA-BASE. POSSIBILIDADE. DETRAÇÃO PENAL. REINCIDÊNCIA E MAUS ANTECEDENTES. REGIME INICIAL DIFERENTE DO FECHADO. NÃO CABIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O aplicador do direito, consoante sua discricionariedade motivada, deve, na primeira etapa do procedimento trifásico, orientar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal. Não é imprescindível dar rótulos e designações corretas às vetoriais, mas indicar elementos concretos relacionados às singularidades do caso para atender ao dever de motivação da mais severa individualização da pena. Precedentes.
+2. "É idônea a valoração negativa das circunstâncias do delito, tendo em vista a gravidade concreta da conduta de quem invade a residência da vítima" (AgRg no HC n. 609.143/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/2/2021, DJe de 4/2/2021).
+3. Segundo a orientação desta Corte, "em caso de existência de duas circunstâncias qualificadoras, uma delas pode ser utilizada para qualificar o delito e a outra para exasperar a pena-base, como circunstância judicial negativa" (AgRg no HC n. 609.143/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/2/2021, DJe de 4/2/2021).
+4. No caso, o fato de o crime haver sido cometido em residência (asilo inviolável), a qualificadora sobressalente e a pluralidade de maus antecedentes não são inerentes ao tipo penal nem insuficientes para justificar a elevação da pena-base.
+ ..
+8. Agravo regimental não provido.
+(AgRg no AgRg no AREsp n. 2.918.901/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/8/2025, DJEN de 25/8/2025, grifei.)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. PENA-BASE. EXASPERAÇÃO. FUNDAMENTAÇÃO IDÔNEA. PROPORCIONALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No tocante à fixação da pena-base acima do mínimo legal, cumpre registrar que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+2. As circunstâncias do crime como circunstância judicial referem-se à maior ou menor gravidade do crime em razão do modus operandi. Constata-se, assim, a existência de fundamentação concreta e idônea, a qual efetivamente evidenciou aspectos mais reprováveis do modus operandi delitivo e que não se afiguram inerentes ao próprio tipo penal, a justificar a majoração da pena, uma vez que o delito foi comedido com invasão à residência da vítima, o que demonstra uma reprovabilidade superior àquela ínsita ao tipo penal, a merecer uma maior resposta do Estado.
+3. No mais, embora o prejuízo financeiro seja decorrência comum dos crimes contra o patrimônio, sua análise pode ser considerada quando extrapolar a normalidade. Precedentes. No caso, o alto prejuízo causado à vítima, mais de R$ 5.000,00, é dado concreto válido para valorar de forma negativa o vetor judicial do crime patrimonial.
+ ..
+7. Agravo regimental não provido.
+(AgRg no AREsp n. 2.744.847/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/11/2024, DJEN de 4/12/2024, grifei.)
+Direito Penal. Agravo Regimental. Dosimetria da Pena. Exasperação da Pena-Base. Fundamentação Idônea. Recurso Desprovido.
+ ..
+III. Razões de decidir
+5. A jurisprudência do STJ é pacífica no sentido de que a dosimetria da pena está inserida no âmbito de discricionariedade das instâncias ordinárias, cabendo revisão apenas em casos de flagrante ilegalidade ou desproporcionalidade.
+6. A exasperação da pena-base é justificada quando o prejuízo financeiro das vítimas extrapola a tipicidade do furto, desde que haja fundamentação concreta e idônea, como no caso em análise, em que o prejuízo de R$ 800,00 foi devidamente valorado.
+7. Não há direito subjetivo do réu à adoção de fração específica para a exasperação da pena-base, sendo possível o aumento em frações superiores, desde que fundamentado adequadamente.
+8. A aplicação da Súmula 83/STJ é adequada, pois o agravante não demonstrou a existência de precedentes contemporâneos que evidenciassem divergência jurisprudencial em relação ao entendimento adotado no acórdão recorrido.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. A dosimetria da pena está inserida no âmbito de discricionariedade das instâncias ordinárias, cabendo revisão apenas em casos de flagrante ilegalidade ou desproporcionalidade.
+2. A exasperação da pena-base é válida quando fundamentada em prejuízo financeiro que extrapola a tipicidade do delito, desde que haja fundamentação concreta e idônea.
+3. Não há direito subjetivo do réu à adoção de fração específica para a exasperação da pena-base, sendo possível o aumento em frações superiores, desde que devidamente fundamentado.
+4. A aplicação da Súmula 83/STJ é cabível quando o acórdão recorrido está em consonância com a jurisprudência consolidada do STJ.
+ ..
+(AgRg no REsp n. 2.200.241/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 4/11/2025, DJEN de 10/11/2025, grifei.)
+No mais, o regime intermediário foi estabelecido pela instância ordinária em razão da existência de circunstância judicial desfavorável e das circunstâncias concretas do delito, praticado durante o repouso noturno e mediante invasão à residência, gerando prejuízo às vítimas, entendimento que se encontra em conformidade com a jurisprudência deste Tribunal Superior.
+Com efeito:
+A determinação do regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 deste Código. Assim, a presença de circunstância judicial desfavorável justifica a imposição do regime intermediário, bem como veda a substituição da pena privativa de liberdade por restritiva de direitos, ainda que a pena seja inferior a 4 anos de reclusão.
+(AgRg nos EDcl no AgRg no AREsp n. 2.087.968/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/10/2023, DJe de 6/10/2023.)
+O regime inicial semiaberto foi devidamente fundamentado, pois, embora a agravante seja primária e a pena seja inferior a 4 anos, as circunstâncias judiciais desfavoráveis e as particularidades do caso foram consideradas suficientes para afastar o regime aberto.
+(AgRg no AREsp n. 3.157.729/SP, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 3/6/2026, DJEN de 16/6/2026.)
+Quanto ao pleito de substituição da pena privativa de liberdade por pena restritiva de direitos, o Tribunal de origem concl uiu não ser recomendável a benesse, "considerando que as circunstâncias judiciais são desfavoráveis e indicam que a medida não é socialmente recomendável na espécie. Ademais, o acusado praticou furto a residência, mediante arrombamento do portão do imóvel, além de registrar condenação definitiva posterior pelo mesmo delito de furto, que demonstram personalidade desvirtuada e conduta social imprópria" (fl. 471), não havendo manifesta ilegalidade.
+A propósito:
+A existência de circunstância judicial desfavorável, decorrente das consequências significativas do crime, demonstra gravidade concreta suficiente para afastar a substituição da pena privativa de liberdade por restritiva de direitos, nos termos do art. 44, inciso III, do Código Penal, por não se mostrar socialmente recomendável nem adequada para fins de reprovação e prevenção do delito, sob pena de transmitir mensagem de impunidade e estímulo a crimes patrimoniais de grande vulto.
+(AgRg no REsp n. 2.114.029/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 29/4/2026, DJEN de 6/5/2026.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
