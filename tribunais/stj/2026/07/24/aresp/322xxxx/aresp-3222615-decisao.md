@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS - IBAMA, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado (fl. 740):
+ADMINISTRATIVO E PROCESSUAL CIVIL. DIREITO AMBIENTAL. AUTO DE INFRAÇÃO. PROCESSO ADMINISTRATIVO PARALISADO POR PRAZO SUPERIOR A TRÊS ANOS. PRESCRIÇÃO INTERCORRENTE. OCORRÊNCIA. APELAÇÃO E REMESSA NECESSÁRIA DESPROVIDAS.
+1. A prescrição intercorrente no processo administrativo sancionador, prevista no art. 1º, § 1º, da Lei nº 9.873/1999 e no art. 21, § 2º, do Decreto nº 6.514/2008, consiste na extinção da pretensão punitiva da Administração Pública devido à inércia ou paralisação do processo por mais de três anos, sem julgamento, despacho ou decisão relevante. Essa medida impede a continuidade da aplicação de sanções administrativas, como multas ou interdições, assegurando segurança jurídica e celeridade processual.
+2. Ao contrário do que sustenta a apelante, o Despacho Instrutório nº 9681412/2021 - GN-I não possui eficácia para interromper o curso da prescrição. Do mesmo modo, o despacho subsequente também não é apto a interromper o curso da prescrição, por se limitar a determinar o cumprimento da redistribuição do feito administrativo.
+3. A movimentação do processo administrativo por meio de meros despachos de encaminhamento ao setor competente para seguimento do feito ou por juntadas de informações técnicas não pode ser reconhecida como causa interruptiva da prescrição.
+4. Remessa necessária e apelação desprovidas. Honorários majorados em 10% sobre a verba fixada (§11, do art. 85, do CPC).
+Não foram opostos embargos de declaração.
+Em seu recurso especial, às fls. 742-747, a parte recorrente sustenta que, "ao limitar as causas interruptivas da prescrição intercorrente administrativa a atos essencialmente decisórios ou apuratórios, a decisão recorrida violou o disposto no artigo 1º, §1º da Lei n. 9.873/99" (fl. 746).
+Afirma que, no caso em tela, ocorreram vários atos de movimentação do processo administrativo e, mesmo não tendo estes atos conteúdo decisório ou apuratório, "são suficientes para a interrupção da prescrição intercorrente prevista no art. 1º, §1º, da Lei n. 9.873/99" (fl. 742).
+O Tribunal de origem, no entanto, inadmitiu o recurso especial, conforme trecho in verbis (fls. 763-764):
+(..)
+O recurso, contudo, não merece ser admitido. A controvérsia foi decidida com base em premissas fáticas firmadas pelo acórdão recorrido, que reconheceu a ausência de atos instrutórios ou decisórios no período superior a três anos, limitando-se a registrar a existência de meros despachos de tramitação interna, sem conteúdo apto a impulsionar o feito de forma efetiva.
+A pretensão recursal exige o reexame do conjunto fático-probatório dos autos, notadamente quanto à natureza dos atos praticados no processo administrativo e sua aptidão para interromper o prazo prescricional, providência vedada em sede de recurso especial, nos termos da Súmula 7 do Superior Tribunal de Justiça: "A pretensão de simples reexame de prova não enseja recurso especial." Especialmente no que se refere à apontada violação do art. 1º, § 1º, da Lei nº 9.873/99, de acordo com a jurisprudência do STJ, rever o posicionamento do órgão julgador acerca da inocorrência da prescrição intercorrente demandaria o revolvimento do acervo fático-probatório.
+Em seu agravo, às fls. 767-773, a parte agravante argumenta que:
+A matéria objeto do presente recurso diz respeito exclusivamente à controvérsia sobre a possibilidade de atos de movimentação que não tenham essencialmente conteúdo decisório ou apuratório serem suficientes para interromper o fluxo do prazo da prescrição intercorrente no bojo do processo administrativo sancionador.
+Trata-se, desta feita, de questão exclusivamente de direito, dada a desnecessidade de apuração de fatos ou de discussão sobre "se e quando" estes ocorreram, sendo estas variantes fático-probatórias irrelevantes. O que se discute no recurso é a interpretação jurídica do artigo 1º, §1º, da Lei n. 9.873/99. (fl. 770)
+É o relatório.
+Decido.
+O recurso não comporta conhecimento.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto a parte agravante não infirmou especificamente o fundamento utilizado para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se no fundamento da incidência do enunciado 7 da Súmula do STJ, tendo em vista a impossibilidade de revisão do acervo probatório.
+Entretanto, em sede de agravo em recurso especial a parte recorrente deixou de infirmar especificamente e a contento, o referido fundamento da decisão de inadmissibilidade, o qual, à míngua de fundamentação pormenorizada, detalhada e específica, permanece hígido, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar o fundamento do juízo de admissibilidade realizado pelo Tribunal de origem, a parte agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intimem-se.
+EMENTA
+DIREITO AMBIENTAL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU O FUNDAMENTO DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC E 253, P. Ú, I, DO RISTJ. AGRAVO NÃO CONHECIDO.
