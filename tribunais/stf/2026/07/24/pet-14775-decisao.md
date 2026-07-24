@@ -1,0 +1,36 @@
+DECISÃO
+
+Trata-se de Pet autuada, por prevenção à Pet 13.238/DF, a partir da Informação de Polícia Judiciária nº 1065600/20233 e dos depoimentos de JOSÉ HÉLIO LINO, RAFAEL DORNELES PIRES, OSMAR CARBONI, IRANI PAMPLONA PETERS, CLÁUDIO JOSÉ DO PRADO, JOCIMAR IGNÁCIO, JOEL BATISTA e DANIEL BORGES, investigados inicialmente no Juízo da 4ª Vara Federal Cível e Criminal de Uberaba/MG que, reconhecendo a conexão dos fatos com os delitos cometidos no contexto dos atos antidemocráticos ocorridos em 8/1/2023, declinou da competência para apreciação das representações oferecidas pela Polícia Federal no curso das investigações e determinou a remessa de todos os autos ao SUPREMO TRIBUNAL FEDERAL.
+Em 20/10/2025, determinei o encaminhamento dos autos à Polícia Federal para que verificasse se há investigação em curso contra JOSÉ HÉLIO LINO, RAFAEL DORNELES PIRES, OSMAR CARBONI, IRANI PAMPLONA PETERS, CLÁUDIO JOSÉ DO PRADO, JOCIMAR IGNÁCIO, JOEL BATISTA e DANIEL BORGES e, em caso negativo, elaborasse relatório com o cotejo dos elementos de informação e de prova colhidos.
+Em 29/4/2026, a Polícia Federal, por meio do Ofício nº 1832006/2026 - CINQ/CGRC/DICOR/PF, requereu a dilação do prazo da investigação, tendo em vista a necessidade de realização de diligências pendentes (eDoc. 22), o que deferi em 30/4/2026 (eDoc. 24).
+Em 12/5/2026, a autoridade policial, por meio do Ofício nº 1978729/2026 - CINQ/CGRC/DICOR/PF, informou a conclusão da investigação e encaminhou, aos autos, o respectivo Relatório Final, bem como os arquivos de mídia contendo as oitivas dos investigados realizadas no curso das diligências investigativas (eDocs. 29-37).
+Com a vista dos autos, a Procuradoria-Geral da República manifestou-se “pelo arquivamento do feito em relação a José Hélio Lino e Joel Batista” e, quanto aos demais investigados, requereu a remessa dos autos à Polícia Federal para a realização de diligências. (eDoc.46).
+
+É o relatório. DECIDO.
+
+O princípio do monopólio constitucional da titularidade da ação penal pública no sistema jurídico brasileiro somente permite a deflagração do processo criminal por denúncia do Ministério Público (Pet. 4.281/DF, Rel. Min. CELSO DE MELLO, DJE de 17/8/2009), tendo esta CORTE decidido pela incompatibilidade do novo modelo acusatório consagrado pelo artigo 129, inciso I, do texto constitucional com todos os procedimentos que afastavam a titularidade privativa da ação penal pública do Parquet, previstos antes da promulgação da Constituição brasileira de 5 de outubro de 1988 (RTJ, 149/825, Rel. Min. SEPÚLVEDA PERTENCE; HC 67.931/RS, Rel. Min. MOREIRA ALVES, Diário da Justiça, Seção I, 31 ago. 1990).
+Ressalte-se, ainda, que em nosso sistema acusatório consagrado constitucionalmente, a titularidade privativa da ação penal ao Ministério Público (CF, art. 129, I), a quem compete decidir pelo oferecimento de denúncia ou solicitação de arquivamento do inquérito ou peças de informação, não afasta o dever do Poder Judiciário de exercer sua atividade de supervisão judicial(Pet. 3.825/MT, rel. Min. GILMAR MENDES), evitando ou fazendo cessar toda e qualquer ilegal coação por parte do Estado-acusador (HC 160.124, Rel. Min. CELSO DE MELLO, Segunda Turma, d. 22/11/2011).
+Na presente hipótese, a Procuradoria-Geral da República, ao se manifestar pela negativa de seguimento desta Petição em relação aos investigados JOSÉ HÉLIO LINO e JOEL BATISTA, assim registrou (eDoc. 46):
+
+“As declarações prestadas por José Hélio Lino e Joel Batista, no sentido de seu não envolvimento nos fatos ora investigados, foram confirmadas pelos depoimentos de Rafael Dorneles Pires e Daniel Borges, que assumiram a propriedade dos veículos com as logomarcas “Via Náutica” e “Star Proteção Veicular” apresentados na IPJ n. 1065600/2023. Tais circunstâncias recomendam o arquivamento do feito em relação a José Hélio Lino e Joel Batista.
+As declarações prestadas pelos demais investigados necessitam confirmação por outros elementos de prova. As análises até aqui empreendidas pela autoridade policial esbarram na circunstância de que não há, até o momento, identificação das placas dos veículos indicados na IPJ n. 1065600/2023, nem de seus respectivos motoristas, o que dificulta a individualização das condutas.
+O bloqueio rodoviário objeto da presente investigação ocorreu nas proximidades de praça de pedágio mantida pela Arteris Litoral Sul no Km 157,4 da BR-101. As imagens analisadas revelam que a interdição da via se deu apenas no sentido que conduzia ao referido pedágio, circunstância que torna factível assumir que os veículos ora investigados por ali passaram após a liberação da rodovia pelas forças de segurança.
+Diante desse contexto, cabe averiguar quais veículos compunham as frotas utilizadas pelas empresas Rodoviário Monte Sereno Ltda., Pamplona Alimentos S/A e Expresso Concórdia Ltda. entre os meses de outubro e novembro de 2022. Tais informações poderão ser cotejadas com os registros de tráfego mantidos pela concessionária na retromencionada praça de pedágio, permitindo a oportuna identificação dos veículos exibidos na IPJ n. 1065600/2023 e de seus motoristas.”
+
+Assim, tendo o Ministério Público requerido o arquivamento no prazo legal, não cabe ação privada subsidiária, ou a título originário (CPP, art. 29; CF, art. 5º, LIX), sendo essa manifestação irretratável, salvo no surgimento de novas provas (HC 84.253/RO, Segunda Turma, Rel. Min. CELSO DE MELLO; Inquérito 2028/BA, Pleno, Rel. Min. ELLEN GRACIE Red. p/ o acórdão Min. JOAQUIM BARBOSA, 28.4.2004, HC 68.540-DF, Primeira Turma, Rel. Min. OCTÁVIO GALLOTTI, DJU, 28 jun. 1991).
+Diante do exposto, ACOLHO a manifestação da Procuradoria-Geral da República e DEFIRO O ARQUIVAMENTO DESTA INVESTIGAÇÃO em face de  JOSÉ HÉLIO LINO e JOEL BATISTA , nos termos do art. 3º, I, da Lei 8.038/1990, c/c os arts. 21, XV, e 231, § 4º, do RISTF, ressalvada a hipótese do art. 18 do Código de Processo Penal.
+DETERMINO, ainda, o retorno dos autos à Polícia Federal a fim de que, no prazo de 30 (trinta) dias, adote as seguintes providências quanto aos demais investigados:
+
+(1) identificação de todos os caminhões utilizados pelas empresas Rodoviário Monte Sereno Ltda., Pamplona Alimentos S/A e Expresso Concórdia Ltda. entre os meses de outubro e novembro de 2022;
+(2) verificação, junto à concessionária Arteris Litoral Sul, de quais dos veículos utilizados pelas empresas investigadas cruzaram a praça de pedágio situada no Km 157,4 da BR-101, entre os dias 30.10.2022 e 3.11.2022;
+(3) identificação dos motoristas das empresas Rodoviário Monte Sereno Ltda., Pamplona Alimentos S/A e Expresso Concórdia Ltda. que conduziam os veículos mostrados na IPJ n. 1065600/2023, realizando-se sua oitiva;
+(4)obtenção de informações complementares junto ao Sr. Jocimar Ignácio, para que informe a lista de passageiros e o motorista responsável pela condução do ônibus de placa ILT1010 entre os dias 31.10.2022 e 1º.11.2022, a serem ouvidos pela autoridade policial.
+
+Com a vinda das informações, ENCAMINHEM-SE os autos à Procuradoria-Geral da República para manifestação, no prazo de 15 (quinze) dias.
+Ciência à Procuradoria-Geral da República.
+Publique-se.
+Brasília, 24 de julho de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
