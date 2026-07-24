@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão doTribunal de assim ementado (fls. 432):
+DIREITO EMPRESARIAL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. CRÉDITO CONCURSAL. RECUPERAÇÃO JUDICIAL ENCERRADA. INEXISTÊNCIA DE EXTINÇÃO AUTOMÁTICA DA EXECUÇÃO INDIVIDUAL. LEGITIMIDADE DA EXECUÇÃO NÃO HABILITADA. INCOMPATIBILIDADE DO BLOQUEIO VIA SISBAJUD COM O PLANO DE RECUPERAÇÃO. PROVIMENTO PARCIAL DO RECURSO.
+Sustenta a parte recorrente violação aos artigos 6º, 9º, inciso II, 47, 49 e 59 da Lei 11.101/2005.
+Defende que o recurso preenche os requisitos necessários ao conhecimento e provimento.
+Intimada nos termos do art. 1.030 do Código de Processo Civil (CPC), a parte recorrida não se manifestou.
+É o relatório.
+DECIDO.
+O recurso especial é tempestivo e cabível, pois interposto em face de acórdão deu provimento ao agravo de instrumento.
+No presente processo, a parte afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+Afirma a parte recorrente, em suma, que "a natureza do crédito principal desta lide é concursal, estando sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos" e que " prosseguimento da presente execução com o valor integral e pagamento imediato caracterizaria a satisfação do crédito em condições mais benéficas em relação a outros credores integrantes da mesma classe.|"
+A análise dos autos indica que, embora tenha reconhecido a concursalidade do crédito, a Corte de origem adotou entendimento que destoa do perfilhado pela jurisprudência desta Corte, no sentido de que "a despeito de o crédito, de natureza concursal, não ter sido habilitado, seu valor comporta atualização somente até a data do pedido recuperacional, a fim de garantir tratamento isonômico aos credores". (REsp n. 2.185.335/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 14/4/2025, DJEN de 23/4/2025.)
+Com efeito, em demandas com a mesma causa de pedir, este colegiado vem se manifestando da seguinte forma:
+Nos termos da jurisprudência do STJ, a despeito de o crédito, de natureza concursal, não ter sido habilitado, seu valor comporta atualização somente até a data do pedido recuperacional, a fim de garantir tratamento isonômico aos credores. Precedentes.
+(REsp n. 2.185.335/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 14/4/2025, DJEN de 23/4/2025.)
+Assim, tratando-se de crédito não habilitado a ser cobrado após o encerramento da recuperação judicial, deverá ele se sujeitar aos efeitos da recuperação judicial, devendo ser pago de acordo com o plano de soerguimento e, por consequência lógica, em observância à data limite de atualização monetária - data do pedido de recuperação judicial - prevista no art. 9º, II, da Lei n. 11.101/2005. 6. Na hipótese, inobstante não estar o crédito habilitado, deverá o mesmo ser submetido aos efeitos da recuperação judicial, respeitando-se, em relação à atualização monetária, a limitação imposta pela lei de regência - corrigidos até a data do pedido de recuperação judicial (LREF, art. 9º, II) - e, no período compreendido entre o pedido de recuperação judicial e a data do efetivo pagamento, nos termos e índices deliberados no plano de soerguimento.
+(REsp n. 2.041.721/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/6/2023, DJe de 26/6/2023. Grifo acrescido.)
+A habilitação é faculdade do credor, mas o crédito concursal se submete aos efeitos da recuperação judicial, inclusive à novação ope legis, nos termos dos arts. 49, caput, e 59 da Lei n. 11.101/2005, conforme jurisprudência consolidada do STJ. 6. A atualização monetária dos créditos concursais se limita à data do pedido de recuperação judicial, de acordo com o art. 9º, II, da Lei n. 11.101/2005, e, entre o pedido e o pagamento, observa os termos e índices do plano. 7. A execução ou cumprimento de sentença do crédito não habilitado somente pode prosseguir ou iniciar após o encerramento da recuperação judicial, respeitadas as condições do plano.
+(REsp n. 2.086.804/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 9/2/2026, DJEN de 12/2/2026. Grifo acrescido)
+Ante o exposto, conheço e dou provimento ao recurso especial para reformar o acórdão recorrido e determinar que os créditos da parte recorrida, ainda que não habilitados, tenham seus valores adequados aos termos do plano aprovado.
+Deixo de majorar a verba honorária em razão do provimento. Eventual recálculo de sucumbência há de ser realizado pelo juízo processante do cumprimento de sentença após a adequação ao decidido por esta corte.
+Publique-se. Intimem-se.
+EMENTA
