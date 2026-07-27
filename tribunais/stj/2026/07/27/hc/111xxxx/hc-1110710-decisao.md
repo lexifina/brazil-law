@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de MATHEUS DOS SANTOS SILVA (denunciado pelo delito de associação para o tráfico de drogas), no qual se aponta como órgão coator o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Habeas Corpus n. 0029275-81.2026.8.19.0000).
+Alega-se, aqui, constrangimento ilegal decorrente da ausência de fundamentação idônea no decreto prisional, que seria baseado apenas na gravidade abstrata do crime.
+Aduz-se que a prisão preventiva é desproporcional, pois a apreensão limitou-se a um único rádio comunicador, sem drogas, armas, munições ou dinheiro, inexistindo elementos que indiquem periculosidade elevada a justificar a medida extrema.
+Argumenta-se que houve violação ao princípio da homogeneidade, pois a custódia em regime fechado é mais gravosa do que a provável sanção em caso de condenação por crime sem violência e com atuação periférica, revelando descompasso entre a medida cautelar e o provável regime de cumprimento da pena.
+Requer-se, no âmbito liminar e no mérito, a revogação da prisão cautelar, ainda que mediante a aplicação de medidas cautelares alternativas não prisionais.
+É o relatório.
+Do atento exame dos autos observo que a segregação cautelar do acusado se encontra fundamentada na probabilidade de reiteração criminosa (ante a existência de indícios de integrar organização criminosa armada e anotações anteriores em sua FAC, sendo reincidente (fl. 63).
+Como se vê, a imposição da prisão preventiva se encontra adequadamente fundamentada a partir da análise particularizada da situação fática dos autos, tendo sido amparada no risco concreto de reiteração delitiva, notadamente porque o autuado ostenta antecedentes criminais, registrando anotações anteriores e condenação com trânsito em julgado pela prática do crime de tráfico de drogas, o que justifica a custódia cautelar, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+Com efeito, a jurisprudência desta Corte Superior compreende que a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (AgRg no RHC n. 159.385/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 27/5/2022).
+Noutro ponto, do atento exame dos autos, observo que a segregação cautelar do acusado se encontra fundamentada no fato de que o réu supostamente integra organização criminosa Comando Vermelho, exercendo a função de "radinho" há um mês (fl. 62).
+Nesse contexto, observa-se que a manutenção da constrição cautelar está baseada em elementos vinculados à realidade, pois as instâncias ordinárias fizeram referências às circunstâncias fáticas justificadoras, destacando a gravidade em concreto do delito.
+Ora, tratando-se de associação criminosa que possui constante atuação, para que se interrompa ou diminua seu desempenho, faz-se necessária a ordem de prisão.
+Nesse sentido: HC n. 974.892/SP, de minha relatoria, Sexta Turma, DJEN 27/3/2025; AgRg no HC n. 947.800/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN 11/3/2025; e AgRg no RHC n. 207.913/CE, Ministro Og Fernandes, Sexta Turma, DJEN 12/3/2025.
+Por fim, a defesa alega violação do princípio da homogeneidade, já que, na hipótese de condenação, dificilmente cumprirá pena no regime mais gravoso.
+Ora, não há que se cogitar, por outro lado, de ofensa ao princípio da homogeneidade ou da proporcionalidade da prisão preventiva em relação à eventual condenação do réu ao cumprimento de pena menos gravosa, pois referida análise deve ficar sujeita ao Juízo de origem, que realizará cognição exauriente dos fatos e provas apresentados no caso concreto. Não sendo possível, assim, concluir, na via eleita, a quantidade de pena que poderá ser imposta (AgRg no RHC n. 155.071/RS, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 21/3/2022).
+Em face do exposto, denego a ordem do habeas corpus.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS QUE DENOTAM A NECESSIDADE DA CUSTÓDIA PARA A GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
