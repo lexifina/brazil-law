@@ -1,0 +1,80 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de LUIS EDUARDO DIAS LOPES, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO no julgamento da Apelação Criminal n. 0900353-07.2023.8.19.0001.
+Extrai-se dos autos que o paciente foi condenado à pena de 6 anos, 9 meses e 20 dias de reclusão, no regime inicial fechado, além do pagamento de 680 dias-multa, pela prática do crime tipificado no art. 33, caput, c/c o art. 40, V, da Lei n. 11.343/2006.
+O Tribunal de origem deu parcial provimento à apelação interposta pelo paciente, para afastar a valoração negativa da circunstância judicial da personalidade, sem reflexos na pena definitiva. Confira-se a ementa do julgado (fls. 14/16):
+"DIREITO PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. REMESSA INTERESTADUAL DE DROGA SINTÉTICA POR VIA POSTAL. AFASTADA VALORAÇÃO NEGATIVA DA PERSONALIDADE VOLTADA PARA A PRÁTICA DE CRIMES. RECURSO PARCIALMENTE PROVIDO, SEM REFLEXOS NA PENA DEFINITIVA.
+I. Caso em exame
+1. Apelação criminal interposta pelo réu contra sentença que o condenou pela prática do crime do art. 33, caput, c/c o art. 40, V, da Lei n.º 11.343/2006, às penas de 06 (seis) anos, 09 (nove) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, além de 680 (seiscentos e oitenta) dias-multa, à razão unitária mínima.
+2. A condenação decorreu da remessa, via Correios, de significativa quantidade de droga sintética (MDA), destinada a outro Estado da Federação.
+II. Questão em discussão
+3. Verificar: (i) se a prova produzida nos autos é suficiente para a condenação pelo crime de tráfico de drogas, com a causa de aumento do art. 40, V, da Lei n.º 11.343/2006; e (ii) a valoração negativa da circunstância judicial da personalidade na fixação da pena-base.
+III. Razões de decidir
+4. A prova pericial, documental, audiovisual e oral, depoimentos de agentes policiais corroborado com os demais elementos dos autos demonstra a materialidade e a autoria delitivas.
+5. A causa de aumento do art. 40, V, da Lei n.º 11.343/2006 configurada, diante da comprovada remessa interestadual da substância entorpecente.
+6. É indevida a causa de diminuição do art. 33, § 4º, da Lei nº 11.343/2006, evidenciada a dedicação do agente à atividade criminosa.
+7. A valoração negativa da personalidade exige fundamentação concreta e autônoma, não pode se apoiar em ilações subjetivas, na dinâmica do crime ou em elementos próprios de outras fases da dosimetria.
+8. Afastada a negativação da personalidade, mantida a pena-base acima do mínimo legal, diante da natureza e da quantidade da droga apreendida - art. 42 da Lei n.º 11.343/2006.
+IV. Dispositivo e tese
+9. Recurso parcialmente provido para afastar a valoração negativa da circunstância judicial da personalidade.
+Tese de julgamento: "1. A circunstância judicial da personalidade somente pode ser valorada negativamente quando demonstrados, por elementos concretos, traços desfavoráveis do caráter do agente. 2. A natureza e a quantidade da droga justificam, por si sós, a exasperação da pena-base, nos termos do art. 42 da Lei nº 11.343/2006."
+No presente writ, a defesa sustenta constrangimento ilegal na dosimetria, pois a pena-base permaneceu em 5 anos e 10 meses de reclusão mesmo após o afastamento da vetorial negativa da personalidade, em violação aos arts. 59 e 68 do Código Penal - CP e ao art. 42 da Lei n. 11.343/2006.
+Assevera desproporcionalidade e ofensa ao princípio da individualização da pena, porquanto a manutenção do patamar de exasperação, antes apoiado em duas circunstâncias desfavoráveis, não observou redução proporcional após o decote da personalidade.
+Argui ausência de motivação idônea para a fixação da pena-base no patamar exasperado, impedindo o adequado controle de legalidade da dosimetria.
+Defende ilegalidade na fixação do regime inicial fechado, em afronta ao art. 33, § 2º, b, do CP, dado que o paciente é primário, de bons antecedentes e a pena definitiva não excede 8 anos.
+Requer, em liminar e no mérito, a concessão da ordem para reduzir a pena-base e readequar o regime prisional ao semiaberto.
+O pedido liminar foi indeferido.
+Parecer do Ministério Público Federal pelo não conhecimento do habeas corpus (fls. 130/132).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Todavia, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+No caso concreto, acerca da irresignação defensiva, o Tribunal de origem assentou o seguinte:
+"Assiste parcial razão à defesa quanto à dosimetria da pena, especificamente no tocante à valoração negativa da circunstância judicial da personalidade voltada para o crime.
+Com efeito, a r. sentença exasperou a pena-base com fundamento na personalidade do agente, amparando-se, em síntese, na forma de atuação delitiva e em elementos extraídos da investigação acerca de suposta inserção em atividade criminosa estruturada. Todavia, tal fundamentação não se revela idônea para justificar o desvalor atribuído à referida vetorial.
+Isso porque a personalidade, enquanto circunstância judicial prevista no art. 59 do Código Penal, deve ser aferida a partir de elementos concretos constantes dos autos que permitam extrair traços negativos do caráter do agente, tais como agressividade exacerbada, frieza incomum ou propensão reiterada à prática delitiva, devidamente demonstrados por dados seguros e autônomos.
+Não se admite, por outro lado, que tal vetorial seja valorada negativamente com base em presunções, ilações subjetivas ou, ainda, em circunstâncias inerentes ao próprio tipo penal ou já valoradas em outras fases da dosimetria.
+No caso dos autos, verifica-se que os fundamentos utilizados pelo Juízo a quo  relacionados à dinâmica do crime e à suposta inserção do agente em atividade organizada  dizem respeito, em verdade, às circunstâncias do crime, não se prestando a evidenciar, por si sós, traço negativo da personalidade do apelante.
+Ademais, eventual referência a investigações ou processos em curso não pode ser utilizada para esse fim, sob pena de violação ao princípio da presunção de inocência e ao enunciado de súmula n.º 444 do Superior Tribunal de Justiça.
+Desse modo, ausentes elementos concretos e idôneos a demonstrar personalidade voltada à prática criminosa, deve ser afastada a valoração negativa dessa circunstância judicial.
+Não obstante, o acolhimento da tese recursal não conduz, no caso concreto, à redução da pena-base fixada na sentença. Isso porque o Juízo de origem também fundamentou a exasperação da reprimenda na natureza e na quantidade da droga apreendida, nos termos do art. 42 da Lei n.º 11.343/2006, circunstância que, de fato, autoriza maior rigor na fixação da pena-base.
+Com efeito, a apreensão de significativa quantidade de droga sintética  consistente em expressivo número de comprimidos de substância de elevada nocividade  revela maior reprovabilidade concreta da conduta, legitimando a elevação da pena-base acima do mínimo legal.
+Nessa linha, a fração de exasperação de 1/6 (um sexto) adotada na sentença mostra-se proporcional e em consonância com a jurisprudência consolidada dos Tribunais Superiores.
+Assim, embora se afaste a circunstância judicial da personalidade voltada para o crime, mantém-se a pena-base no patamar de 05 (cinco) anos e 10 (dez) meses de reclusão e 583 (quinhentos e oitenta e três) dias-multa, à razão unitária mínima, por encontrar respaldo idôneo na valoração negativa da natureza e quantidade da droga, nos termos do art. 42 da Lei n.º 11.343/2006.
+Dessa forma, acolhe-se parcialmente a pretensão recursal apenas para excluir a vetorial da personalidade, mantendo-se, contudo, inalterado o quantum da pena-base aplicado na sentença, porquanto devidamente justificado por fundamento autônomo e suficiente." (fls. 31/33, grifos nossos)
+Em relação ao procedimento da Corte a quo, verifico a ocorrência de constrangimento ilegal.
+Conforme se extrai da sentença condenatória (fls. 44/51), o Juízo de primeiro grau fixou a pena-base em 5 anos e 10 meses de reclusão, ou seja, 1/6 acima do mínimo legal previsto para o delito de tráfico de drogas, em virtude da valoração negativa de duas circunstâncias judiciais do art. 59 do Código Penal (personalidade do agente e quantidade de droga), o que equivale a uma fração aproximada de 1/12 (5 meses) de acréscimo para cada vetor desfavorável.
+Ao julgar o apelo defensivo, a Corte estadual afastou a circunstância judicial relativa à personalidade do agente e manteve o vetor relativo à quantidade de droga. Todavia, não procedeu ao redimensionamento da reprimenda, atribuindo o patamar de aumento de 10 meses de reclusão sobre o piso legal ao único vetor subsistente.
+Ocorre que, ao majorar o peso da circunstância remanescente em relação ao quantum originalmente fixado na sentença, o acórdão acabou por agravar indiretamente a situação do paciente em recurso manejado exclusivamente pela defesa, o que é vedado pelo ordenamento jurídico.
+A questão foi objeto de afetação por esta Corte Superior no regime dos recursos repetitivos, restando firmada a seguinte tese no Tema 1214/STJ: "é obrigatória a redução proporcional da pena-base quando o tribunal de segunda instância, em recurso exclusivo da defesa, afastar circunstância judicial negativa reconhecida na sentença".
+Nesse sentido:
+HABEAS CORPUS. PENAL. DOSIMETRIA. EXTORSÃO MEDIANTE SEQUESTRO. TRIBUNAL ESTADUAL QUE, EM RECURSO INTERPOSTO EXCLUSIVAMENTE PELA DEFESA, AFASTOU DUAS CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS E, AO REDIMENSIONAR A SANÇÃO, UTILIZOU FRAÇÃO DE INCREMENTO DA PENA SUPERIOR ÀQUELA EMPREGADA PELO JUÍZO DE PRIMEIRA INSTÂNCIA PARA CADA VETORIAL. VIOLAÇÃO AO PRINCÍPIO DA NON REFORMATIO IN PEJUS INDIRETA. ENTENDIMENTO PACIFICADO PELA TERCEIRA SEÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA NO JULGAMENTO DOS EMBARGOS DE DIVERGÊNCIA NOS ERESP N. 1.826.799/RS. CONSTRANGIMENTO ILEGAL VERIFICADO. ORDEM DE HABEAS CORPUS CONCEDIDA.
+1. Em julgamento de recurso de apelação interposto exclusivamente pela defesa, não é autorizado ao Tribunal, caso afaste circunstâncias judiciais negativas, adotar fração de incremento da pena superior àquela utilizada pelo Juízo de primeiro grau de jurisdição para cada vetor considerado desfavorável, sob pena de violação ao princípio do non reformatio in pejus indireta, tendo em vista que tal comportamento representaria verdadeiro aumento da pena ex officio. Trata-se do entendimento firmado pela Terceira Seção desta Corte Superior de Justiça no julgamento dos Embargos de Divergência nos EREsp n. 1.826.799/RS (Relator Ministro RIBEIRO DANTAS, relator para acórdão Ministro ANTONIO SALDANHA PALHEIRO, Terceira Seção, julgado em 8/9/2021, DJe de 8/10/2021), no qual declinou-se que " é  imperiosa a redução proporcional da pena-base quando o Tribunal de origem, em recurso exclusivo da defesa, afastar uma circunstância judicial negativa do art. 59 do CP reconhecida no édito condenatório".
+2. No caso, o Juízo sentenciante utilizou a fração de 1 (um) ano para exasperar a pena por cada vetor negativo e o Tribunal, equivocadamente, valeu-se do quantum de 1 (um) ano e 6 (seis) meses para cada circunstância judicial desfavorável, o que revela o constrangimento ilegal apontado pela Defesa.
+3. Ordem de habeas corpus concedida a fim de diminuir a pena para 16 (dezesseis) anos e 4 (quatro) meses de reclusão, em regime inicial fechado.
+(HC n. 670.639/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/9/2022, DJe de 19/9/2022.)
+Assim, mantido o critério matemático adotado pelo magistrado sentenciante, a pena-base deve ser proporcionalmente reduzida para 5 anos e 5 meses de reclusão e 542 dias-multa (mantido o acréscimo de 1/12 pela quantidade de entorpecente).
+Na segunda fase, não se altera.
+No terceiro estágio, incide a causa de aumento prevista no art. 40, V, da Lei de Drogas, em 1/6, de modo que a pena alcança o patamar definitivo de 6 anos, 3 meses e 25 dias de reclusão, e pagamento de 632 dias-multa.
+De outro lado, não há ilegalidade na fixação do regime inicial fechado, nos termos do art. 33, § 2º, do CP, dado que, embora seja o paciente primário e a pena definitiva não exceda 8 anos, a presença de circunstâncias judiciais desfavoráveis - quantidade de droga - justifica o recrudescimento do ergástulo.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006 DE OFÍCIO. SUPOSTA DEDICAÇÃO A ATIVIDADES CRIMINOSAS. QUANTIDADE DE DROGAS E PACIENTE QUE OSTENTA UMA AÇÃO PENAL EM CURSO. APLICAÇÃO DO ATUAL ENTENDIMENTO JURISPRUDENCIAL DESTA CORTE DE JUSTIÇA. PRECEDENTES. NOVA DOSIMETRIA DA PENA MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+6. Apesar de o novo montante da pena - 1 ano e 8 meses de reclusão -, admitir, em tese, a fixação do regime inicial aberto; a gravidade concreta da conduta, consubstanciada na expressiva quantidade de drogas apreendidas - 798,5g de maconha e 335g de cocaína (e-STJ, fl. 13) -, o que justificou, inclusive, a exasperação da basilar em 1/5, recomenda a manutenção do regime prisional intermediário, nos termos do art. 33, § 2º, "c" e § 3º, do Código Penal, e da jurisprudência desta Corte de Justiça, a qual é pacífica no sentido de que a existência de circunstâncias judiciais desfavoráveis, ou ainda outra situação que demonstre a gravidade concreta do delito perpetrado são condições aptas a recrudescer o regime prisional, em detrimento apenas do quantum de pena imposta, de modo que não existe ilegalidade no resgate da reprimenda do paciente no regime inicial semiaberto. No mesmo sentido em relação à negativa de substituição da pena privativa de liberdade, por medidas restritivas de direitos, nos termos do art. 44, III, do CP. Precedentes.
+7. Nova dosimetria da pena mantida.
+8. Agravo regimental não provido.
+(AgRg no HC n. 1.091.838/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/6/2026, DJEN de 2/7/2026.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. ASSOCIAÇÃO PARA O TRÁFICO. SENTENÇA CONDENATÓRIA TRANSITADA EM JULGADO. INADEQUAÇÃO DA VIA ELEITA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. REGIME INICIAL FECHADO MANTIDO POR FUNDAMENTAÇÃO CONCRETA. AGRAVO IMPROVIDO.
+ ..
+III. RAZÕES DE DECIDIR
+5. A jurisprudência do Tribunal Superior e do Supremo Tribunal Federal firmou orientação no sentido de não caber habeas corpus substitutivo do recurso legalmente previsto, impondo-se o não conhecimento da impetração, salvo em caso de flagrante ilegalidade.
+6. Questões relativas a sentença condenatória transitada em julgado devem ser deduzidas em revisão criminal, nos termos do art. 621 do Código de Processo Penal, sendo inadequado o exame pela via do habeas corpus, sob pena de supressão de instância e subversão das normas processuais penais.
+7. No caso concreto, a manutenção do regime inicial fechado decorre de pena-base elevada por circunstâncias judiciais desfavoráveis e de motivação específica, inexistindo fixação com base em gravidade abstrata do delito e, portanto, não havendo afronta às Súmulas 440 do STJ e 718 e 719 do STF.
+8. Inexistente flagrante ilegalidade, não se justifica a concessão da ordem, de ofício
+IV. DISPOSITIVO E TESE
+9. Resultado do Julgamento: Agravo regimental improvido.
+ ..
+(AgRg no HC n. 1.090.429/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/6/2026, DJEN de 1/7/2026.)
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus. Contudo, concedo a ordem de ofício para redimensionar a pena-base ao patamar de 6 anos, 3 meses e 25 dias de reclusão e pagamento de 632 dias-multa, mantidos os demais termos da condenação.
+Publique-se.
+Intimem-se.
+EMENTA
