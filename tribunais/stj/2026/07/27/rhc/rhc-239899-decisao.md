@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso interposto por CARLOS DOBERTO CABRAL SILVA contra o acórdão proferido pelo Tribunal de Justiça de Pernambuco que negou provimento ao agravo interno, mantendo a decisão monocrática de não conhecimento do HC n. 0000280-78.2026.8.17.9000.
+O recorrente foi condenado à pena de 11 anos, 6 meses e 7 dias de reclusão, em regime inicial fechado, pela prática dos crimes do art. 299 do Código Penal e do art. 16, caput, e parágrafo único, III, da Lei n. 10.826/2003 (Ação Penal n. 0005963-45.2017.8.17.0001, da 2ª Vara Criminal da comarca de Recife/PE).
+Sustenta a negativa de prestação jurisdicional por supressão da jurisdição no habeas corpus e equívoco de enquadramento jurídico no acórdão recorrido, ao tratar nulidades objetivas - ilicitude da busca e apreensão e quebra da cadeia de custódia - como se dependessem de revaloração probatória, quando seriam verificáveis de plano por documentos pré-constituídos.
+Aduz, em resumo, que a condenação se alicerça em provas ilícitas, pois houve busca e apreensão sem mandado judicial e sem justa causa; que houve ruptura insanável da cadeia de custódia; que a materialidade é inconclusiva; que a autoria não foi demonstrada, diante da inexistência de prova física que conecte o réu aos objetos apreendidos; e que o reconhecimento pessoal é inválido por inobservância do art. 226 do Código de Processo Penal.
+Requer, em caráter liminar, a suspensão dos efeitos da condenação. No mérito, busca a declaração de nulidade das provas, com a consequente absolvição, ao menos quanto aos crimes de posse de arma de fogo de uso restrito e de artefato explosivo.
+Processado o recurso sem pedido liminar, o Ministério Público Federal manifestou-se pelo seu não provimento (fls. 188/194).
+Os autos foram a mim distribuídos por prevenção de Turma.
+É o relatório.
+Não tem cabimento este recurso, uma vez que o Tribunal a quo não conheceu do prévio habeas corpus, não tendo havido, pois, decisão denegatória a ensejar o cabimento do recurso ordinário na espécie, conforme dispõe o art. 105, II, a, da Constituição Federal (AgRg no RHC n. 186.449/MG, de minha relatoria, Sexta Turma, DJe 25/10/2023). No mesmo sentido, entre outros: RHC n. 40.780/RS, Ministro Nefi Cordeiro, Sexta Turma, DJe 20/6/2014.
+Ademais, segundo o acórdão recorrido, houve reiteração de pedido quanto à alegação de nulidade das buscas e apreensões por ausência de mandado judicial e configuração de fishing expedition, uma vez que a matéria já fora objeto de análise e decisão meritória transitada em julgado no bojo do HC n. 0006930-15.2024.8.17.9000 (fl. 117).
+Ocorre que a defesa não trouxe aos autos cópia desse decisum. Sem esse elemento, não é possível aferir o alcance da decisão transitada em julgado nem verificar a procedência das alegações deduzidas.
+Afora isso, encontra-se em tramitação o recurso do recorrente contra a sentença condenatória.
+Assim, considerando que este feito não tutela a liberdade imediata de locomoção do recorrente, que responde ao processo em liberdade, e que a apelação defensiva, meio adequado para impugnar as nulidades suscitadas, ainda pende de julgamento, não há como conhecer da presente insurgência, sem prejuízo de que a matéria seja novamente trazida a este Superior Tribunal depois de julgado o apelo (AgRg no RHC n. 166.080/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 30/8/2023).
+Ante o exposto, não conheço do recurso.
+Publique-se.
+EMENTA
+DIREITO PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. PRÉVIO WRIT NÃO CONHECIDO. FALTA DE CABIMENTO DO RECURSO. INOBSERVÂNCIA DO ART. 105, II, A, DA CONSTITUIÇÃO FEDERAL. FALSIDADE IDEOLÓGICA E POSSE DE ARMA DE FOGO DE USO RESTRITO E DE ARTEFATO EXPLOSIVO. NULIDADES. APELAÇÃO EM TRAMITAÇÃO. VIA ADEQUADA PARA A IMPUGNAÇÃO DAS MATÉRIAS. AUSÊNCIA DE RISCO IMEDIATO À LIBERDADE DE LOCOMOÇÃO.
+Recurso não conhecido.
