@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de RONALDO RODRIGUES DA SILVA, condenado pelo crime do art. 33, caput, da Lei n. 11.343/2006, à pena de 5 anos de reclusão, em regime inicial fechado (Processo n. 1503815-42.2025.8.26.0393, da 1ª Vara Criminal da comarca de Sertãozinho/SP).
+O impetrante aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que, em 27/4/2026, rejeitou a preliminar de nulidade e deu parcial provimento à apelação apenas para reduzir a pena, com posterior rejeição de embargos de declaração (fls. 13/27 e 108/115).
+Sustenta nulidade pela inobservância do rito do art. 55 da Lei n. 11.343/2006, com prejuízo à defesa por perda da oportunidade de oferecer defesa preliminar antes do recebimento da denúncia, para arguir a inépcia com base na inadmissibilidade da confissão extrajudicial (AREsp 2.123.334).
+Afirma que a decisão de primeiro grau não apreciou a nulidade do art. 55 na resposta à acusação, reforçando o prejuízo.
+Em caráter liminar, pede a suspensão dos efeitos da condenação e a expedição de alvará de soltura. No mérito, requer a decretação de nulidade da decisão que recebeu a denúncia e dos atos subsequentes, com observância do rito do art. 55 da Lei n. 11.343/2006.
+A liminar foi indeferida (fls. 189/190).
+Depois de prestadas as informações de praxe, os autos seguiram ao Ministério Público Federal, que opinou pela extinção do writ sem resolução de mérito ou, subsidiariamente, pela denegação da ordem, conforme parecer assim resumido (fls. 551/552):
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. PENAL E PROCESSO PENAL. TRÁFICO DE DROGAS. ARGUIÇÃO DE NULIDADE DA DECISÃO DE RECEBIMENTO DA DENÚNCIA E DOS ATOS PROCESSUAIS POSTERIORES. INVERSÃO DO RITO. FALTA DE INTIMAÇÃO PARA DEFESA PRÉVIA (ART. 55, DA LEI Nº 11.343/2006). PREJUÍZO NÃO DEMONSTRADO. OPORTUNIZADA A APRESENTAÇÃO DE RESPOSTA À ACUSAÇÃO ANTES DA INSTRUÇÃO CRIMINAL. PARECER PELA EXTINÇÃO DO WRIT SEM RESOLUÇÃO DE MÉRITO E, SUBSIDIARIAMENTE, PELA DENEGAÇÃO DA ORDEM.
+Sobreveio a apresentação dos memoriais defensivos (fls. 247/249).
+É o relatório.
+Na espécie, inexiste constrangimento ilegal passível de ser reparado pela via eleita, como bem demonstrado pelo parecerista, cuja manifestação acolho como razão de decidir (fls. 242/244 - grifo nosso):
+ ..
+Preliminarmente, verifica-se o indevido manejo do remédio heroico como substitutivo de recurso próprio, em contraposição à jurisprudência firmada nos Tribunais Superiores acerca da necessidade de racionalização do uso do habeas corpus, não merecendo ser conhecido o presente writ.
+Tampouco se vislumbra flagrante ilegalidade apta a ensejar, de ofício, a concessão da ordem.
+Isso porque o Tribunal de Justiça Paulista entendeu que a defesa não logrou demonstrar como a adoção do procedimento ordinário, com o recebimento da denúncia e a citação do acusado para oferecer resposta à acusação, impediu a defesa de arguir as teses que lhe interessavam.
+E, de fato, o art. 396-A, do Código de Processo Penal, prevê expressamente que "na resposta, o acusado poderá argüir preliminares e alegar tudo o que interesse à sua defesa, oferecer documentos e justificações, especificar as provas pretendidas e arrolar testemunhas, qualificando-as e requerendo sua intimação, quando necessário".
+Ademais, a ação penal seguiu o curso regular, com a apresentação de resposta à acusação pela defesa, o afastamento das hipóteses de absolvição sumária e a realização de audiência de instrução e julgamento.
+Na linha de orientação desse Tribunal Superior, "a inversão do rito não enseja nulidade quando a defesa prévia é oferecida antes da audiência de instrução e julgamento" (AgRg nos EDcl no HC n. 1.013.505/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 4/3/2026, DJEN de 11/3/2026).
+Outrossim, em tema de nulidades no processo penal, é dogma fundamental a assertiva de que não se declara a nulidade de um ato se dele não resultar prejuízo para a acusação ou para a defesa (art. 563, do Código de Processo Penal) ou se não houver influído na apuração da verdade substancial ou na decisão da causa.
+No mesmo sentido, confira-se:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GRAVIDADE EVIDENCIADA PELA QUANTIDADE E QUALIDADE DOS ENTORPECENTES APREENDIDOS. POSSIBILIDADE. ARGUIÇÃO DE NULIDADES (VIOLAÇÃO DO RITO PREVISTO NO ART. 55 DA LEI. N.º 11.343/2006, INÉPCIA DA INICIAL ACUSATÓRIA E VIOLAÇÃO DA SÚMULA VINCULANTE 11). MANUTENÇÃO DA VALIDADE DOS ATOS PROCESSUAIS. RECURSO DESPROVIDO.
+
+2. Nos termos do art. 55 da Lei n.º 11.343/2006, " o ferecida a denúncia, o juiz ordenará a notificação do acusado para oferecer defesa prévia, por escrito, no prazo de 10 (dez) dias". Contudo, no caso, a despeito de constar nos autos que a denúncia foi recebida antes da manifestação da Defesa, também está registrado que sobreveio defesa prévia e, só então, o Juiz processante designou audiência de instrução, mantendo assim o recebimento da exordial acusatória e prosseguindo com o trâmite processual, não havendo prejuízo concreto.
+3. Não merece prosperar a alegação de inépcia contra denúncia que perfilha todos os requisitos do art. 41 do Código de Processo Penal. O substrato fático descrito na denúncia indica minimamente que o Recorrente teria praticado o núcleo do tipo "transportar", para fins de tráfico de drogas, elevada quantidade de entorpecentes em comparsaria, o que permite o exercício do direito de defesa.
+4. No presente feito, nada se registrou, em ata, acerca do uso indevido de algemas durante a audiência de custódia realizada, não demonstrando a Defesa de forma pré-constituída (com eventuais degravações) a ocorrência de inconformismo na oportunidade, o que torna preclusa a questão (violação à Súmula Vinculante n.º 11).
+5. Recurso ordinário em habeas corpus ao qual se nega provimento." (grifos nossos) (RHC n. 114.649/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 27/8/2019, DJe de 10/9/2019).
+ ..
+Ante o exposto, opina o MINISTÉRIO PÚBLICO FEDERAL pela extinção do processo sem resolução do mérito e, subsidiariamente, pela denegação da ordem.
+Há que se observar, ademais, que, consoante entendimento jurisprudencial desta Corte,  a  inobservância do rito do art. 55 da Lei n. 11.343/2006 constitui nulidade relativa, que exige a demonstração de prejuízo, o que não foi comprovado no caso, pois a resposta à acusação foi oportunizada à defesa e apresentada logo depois de recebida a denúncia, com expressa apreciação pelo magistrado das teses e documentos juntados (AREsp n. 2.701.015/GO, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 17/12/2024, DJEN de 3/1/2025).
+Ante o exposto, com base na jurisprudência e no parecer, denego a ordem (art. 34, XX, do RISTJ).
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. INADEQUAÇÃO DA VIA ELEITA. WRIT UTILIZADO COMO SUBSTITUTIVO DE RECURSO PRÓPRIO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. NULIDADE POR INOBSERVÂNCIA DO RITO DA LEI DE DROGAS. PREJUÍZO NÃO DEMONSTRADO. POSSIBILIDADE DE ARGUIÇÃO EM RESPOSTA À ACUSAÇÃO. PRECEDENTES. PARECER ACOLHIDO.
+Ordem denegada.
