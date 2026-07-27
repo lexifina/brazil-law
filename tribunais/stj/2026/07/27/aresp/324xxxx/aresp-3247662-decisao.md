@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual ROSEANE DIBO DANTAS MUNIZ se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS assim ementado (fls. 343/344):
+DIREITO ADMINISTRATIVO. APELAÇÃO CÍVEL. CONCURSO PÚBLICO. CANDIDATA CLASSIFICADA ALÉM DO NÚMERO DE VAGAS EDITALÍCIAS. REMANEJAMENTO DE VAGAS. EXPIRAÇÃO DO PRAZO DE VALIDADE DO CERTAME. AUSÊNCIA DE DIREITO SUBJETIVO À NOMEAÇÃO. RECURSO NÃO PROVIDO.
+I. CASO EM EXAME
+1. Trata-se de obrigação de fazer proposta por candidata aprovada em concurso público regido pelo Edital n. 001/2009-CBMAM, que pleiteia a nomeação para o cargo de 2º Tenente Enfermeiro, alegando que as desistências e remanejamentos ocorridos no certame alcançariam sua posição. No entanto, a sentença julgou extinto o feito sem resolução de mérito, por ausência de interesse processual, ao considerar que a classificação da requerente ficou além das vagas editalícias e que o prazo de validade do certame expirou.
+II. QUESTÃO EM DISCUSSÃO
+2. Determinar se o remanejamento de vagas e desistências ocorridas no certame conferem à candidata o direito subjetivo à nomeação, mesmo após a expiração do prazo de validade do concurso.
+III. RAZÕES DE DECIDIR
+3. A candidata foi classificada na 156ª posição, enquanto o edital previa 107 vagas para o cargo pleiteado. Para que tivesse direito à nomeação, seria necessário que ao menos 49 desistências ocorressem, o que não se verificou no caso concreto.
+4. Conforme a análise das convocações, 62 candidatos foram matriculados no curso de formação, resultando em apenas 45 vagas remanescentes, insuficientes para atingir a classificação da apelante.
+5. O prazo de validade do certame expirou antes do ajuizamento da demanda, o que reforça a inexistência de direito subjetivo à nomeação, pois o remanejamento ou reaproveitamento de vagas não é obrigatório fora do prazo de validade do concurso.
+6. A jurisprudência do Tribunal de Justiça do Amazonas admite a nomeação de candidatos classificados fora das vagas editalícias apenas em situações excepcionais, como desistências suficientes para alcançar a posição do interessado.
+7. No caso dos autos, não há provas de que as vagas remanescentes tenham atingido a classificação da autora, inviabilizando o reconhecimento de seu direito subjetivo.
+IV. DISPOSITIVO E TESE
+8. Recurso não provido.
+Os embargos de declaração opostos foram rejeitados (fls. 407/412).
+A parte recorrente alega violação dos arts. 489, § 1º, VI, e 1.022 do Código de Processo Civil, ao argumento de que o acórdão recorrido não enfrentou precedentes análogos nem procedeu à distinção ou superação, além de não apreciar documentação relativa às 5 vagas não constantes do portal de transparência.
+Sustenta dissídio jurisprudencial e ofensa aos arts. 926 e 927, III e IV, do Código de Processo Civil, afirmando que o Tribunal de origem não observou o dever de manter jurisprudência estável, íntegra e coerente, bem como afastou indevidamente a tese do Tema 784 do Supremo Tribunal Federal, além de contrariar precedentes internos sobre o mesmo concurso e cargo públicos, tudo por desconsiderar a existência de vagas desocupadas suficientes para o alcance da classificação da recorrente, o que garantiria seu direito à nomeação.
+Contrarrazões apresentadas às fls. 510/518.
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Na origem, cuida-se de ação de obrigação de fazer, com pedido de nomeação para o cargo de 2º Tenente Enfermeiro, em razão de alegadas vagas remanescentes por desistência de candidatos mais bem classificados.
+Inexiste a alegada violação dos arts. 1.022 e 489 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, tendo o Tribunal de origem apreciado fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+A parte recorrente sustenta omissão da instância ordinária no tocante a estas questões: (a) ausência de enfrentamento das "5 vagas ociosas" que não constariam do portal da transparência; (b) ausência de manifestação sobre a modulação de efeitos da decisão; e (c) falta de análise específica dos precedentes análogos, sem distinção ou superação.
+Todavia, conforme se depreende da análise do acórdão recorrido, o Tribunal de origem, de modo expresso, fundamentado e coeso, enfrentou cada um dos pontos supostamente omissos, tendo concluído que, das 107 vagas, 62 candidatos foram matriculados e restando 45 vagas remanescentes, insuficientes para alcançar a 156ª colocação; que a tese de "49 vagas" carece de demonstração fática robusta; e que os precedentes citados foram analisados e não vinculam causas distintas, permanecendo necessária a comprovação objetiva do alcance da classificação da candidata.
+É importante ressaltar que o contraponto aos argumentos das partes não demanda a citação literal de suas palavras ou dos mesmos dispositivos legais. É suficiente que haja fundamentação fática e jurídica coerente e adstrita ao que se debate nos autos.
+No mérito, o TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS assim se manifestou (fl. 348):
+Quanto aos demais candidatos aprovados, há precedente do Tribunal Pleno desta Corte reconhecendo que, a despeito de já ter se encerrado o prazo de validade do certame, as peculiaridades da situação, que perdurou por anos no Judiciário amazonense, impõem que seja dada solução razoável para proteger o direito daqueles que se submeteram ao concurso público, a fim de que, em caso de desistência dos candidatos aprovados dentro das vagas, seja reconhecido o direito subjetivo de nomeação dos aprovados no cadastro reserva no estrito limite das vagas editalícias não preenchidas (MS nº 4005481-87.2020.8.04.0000).
+Entretanto, a autora não possui direito à convocação pretendida, pois constatou-se que as vagas remanescentes não alcançam a posição da candidata.
+Isso porque, para alcançar a 156ª posição (classificação da requerente), seria necessário que ao menos 49 (quarenta e nove pessoas) tivessem desistido de uma das 107 (cento e sete vagas) vagas fixadas pelo edital para o cargo de 2º Tenente Enfermeiro. No entanto, verifica-se que dos 107 candidatos convocados, 62 foram matriculados para o curso de formação, de forma que haveriam apenas 45 vagas disponíveis, o que, em tese, faria com que as vagas disponíveis atingissem a posição 152ª (e não 156ª).
+Dessa forma, verifica-se que a parte autora não logrou êxito em demonstrar o seu direito subjetivo à nomeação. Portanto, é de rigor a improcedência do pleito.
+O Tribunal de origem reconheceu que, das 107 vagas editalícias, apenas 62 candidatos foram efetivamente matriculados no curso de formação, gerando 45 vagas remanescentes, quantitativo insuficiente para alcançar a 156ª colocação da recorrente.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, a ele negar provimento.
+Publique-se. Intimem-se.
+EMENTA
