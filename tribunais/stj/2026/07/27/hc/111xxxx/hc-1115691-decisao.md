@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em benefício de KAIQUE HENRIQUE DOS SANTOS OLIVEIRA REIS no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação n. 1531448-87.2025.8.26.0050).
+Depreende-se dos autos que o ora paciente foi condenado a 15 (quinze) anos, 6 (seis) meses e 20 (vinte) dias de reclusão, no regime inicial fechado, por haver praticado o crime de latrocínio, na forma tentada (e-STJ fls. 29/45).
+O Tribunal de origem deu parcial provimento provimento à apelação (e-STJ fls. 12/20).
+Daí o presente writ, no qual sustenta a defesa que o "reconhecimento realizado em audiência não cura o vício anterior. A vítima já havia sido exposta à fotografia do paciente e, portanto, sua memória visual originária encontrava-se sujeita à substituição ou reforço pela imagem apresentada durante a investigação" (e-STJ fl. 6).
+Acrescenta, ainda, que, " desconsiderada a cadeia de reconhecimento, não há prova independente suficientemente robusta de autoria" (e-STJ fl. 6).
+Diante dessas considerações, pede (e-STJ fls. 9/10):
+a) o conhecimento do presente habeas corpus, por se destinar à tutela direta da liberdade de locomoção diante de flagrante ilegalidade demonstrável por prova pré-constituída;
+b) a concessão da medida liminar, nos termos do item X, com expedição imediata de alvará de soltura, salvo prisão por outro motivo, ou, subsidiariamente, substituição da prisão por medidas cautelares;
+c) a requisição de informações à 16ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo e ao Juízo de origem;
+d) a vista dos autos ao Ministério Público Federal;
+e) no mérito, a concessão definitiva da ordem para declarar inválida e imprestável a cadeia de reconhecimento referente ao paciente, em aplicação ao artigo 226 do CPP e ao Tema Repetitivo nº 1.258/STJ;
+f) desconsiderada a prova inválida e ausente corroboração autônoma suficiente, a absolvição do paciente com fundamento no artigo 386, inciso VII, do CPP;
+g) subsidiariamente, a anulação do acórdão coator para novo julgamento, com observância do Tema 1.258/STJ e individualização das provas autônomas atribuídas ao paciente;
+h) ainda subsidiariamente, a desclassificação do latrocínio tentado para roubo, com redimensionamento da pena, fixação de regime compatível e imediata reavaliação da prisão;
+i) caso o writ não seja formalmente conhecido em razão da existência de recurso próprio, a concessão da ordem de ofício, diante da flagrante ilegalidade.
+É o relatório.
+Decido.
+Conforme consta dos autos e em consulta ao sítio eletrônico do Tribunal de origem, a defesa interpôs recurso especial contra o acórdão proferido na Apelação Criminal n. 1531448-87.2025.8.26.0050, ainda em trâmite perante o Tribunal de origem.
+A pacífica jurisprudência desta Corte Superior não admite a tramitação concomitante de recursos legalmente previstos e habeas corpus manejados contra o mesmo ato ou que questionem as mesmas matérias, sob pena de violação do princípio da unirrecorribilidade. A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. MANEJO CONCOMITANTE, CONTRA O ACÓRDÃO DO JULGAMENTO DA REVISÃO CRIMINAL, DA INICIAL DO PRESENTE FEITO E DE RECURSO ESPECIAL, A INDICAR A POSSIBILIDADE DE QUE A MATÉRIA ORA VENTILADA SEJA ANALISADA NA VIA DE IMPUGNAÇÃO INTERPOSTA NA CAUSA PRINCIPAL. PRETENSÕES DE MÉRITO COINCIDENTES. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE OU UNICIDADE. PREJUÍZO PELO NÃO CONHECIMENTO DO WRIT NÃO DEMONSTRADO. POSSIBILIDADE DE FORMULAÇÃO DE PEDIDO URGENTE AO ÓRGÃO JURISDICIONAL COMPETENTE, NA VIA DE IMPUGNAÇÃO ADEQUADA. RECURSO DESPROVIDO.
+1. "Em atenção ao princípio da unirrecorribilidade das decisões, não é possível a impetração de habeas corpus para tratar de máculas já suscitadas em recurso especial  ..  (AgRg no HC n. 573.510/SP, Ministro Jorge Mussi, Quinta Turma, DJe 3/8/2020)" (STJ, AgRg no HC 590.414/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 04/05/2021, DJe 10/05/2021).
+2. No recurso especial interposto pelo Agravante também contra o acórdão impugnado na inicial destes autos, formulou-se pretensão de mérito idêntica à que ora se postula. Ocorre que, em razão da coincidência de pedidos, não se configura a conjuntura na qual seria admissível a tramitação simultânea de habeas corpus e de recurso, conforme o que fora definido em leading case da Terceira Seção do Superior Tribunal de Justiça (HC 482.549/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, julgado em 11/03/2020, DJe 03/04/2020).
+3. As vias recursais - nelas incluídas o recurso especial (a via de impugnação cabível no caso) - não são incompatíveis com o manejo de pedidos que demandam apreciação urgente. O Código de Processo Civil, aliás, em seu art. 1.029, § 5.º, inciso III, prevê o remédio jurídico para a referida hipótese, ao possibilitar a atribuição de efeito suspensivo ao recurso, ainda na origem, por meio de decisão proferida pelo Presidente ou Vice-Presidente do Tribunal recorrido.
+Nesse caso, incumbe à Defesa formular pedido de tutela de urgência recursal que demonstre a plausibilidade jurídica da pretensão invocada e que a imediata produção dos efeitos do acórdão recorrido pode implicar risco de dano grave, de difícil ou impossível reparação (art. 995, parágrafo único, do Código de Processo Civil). Precedente.
+4. Ao menos por ora, deve tramitar tão somente a via de impugnação manejada na causa principal, a qual ainda não tem solução definitiva (valendo destacar que as alegações ora formuladas poderão, eventualmente, ser apreciadas pelo Superior Tribunal de Justiça no julgamento do recurso especial). Diante desse cenário fático-processual, em que na via de impugnação adequada ainda é possível a análise da pretensão recursal, ou até mesmo a concessão de ordem de habeas corpus ex officio, "qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado  pelo  impetrante seria precoce, além de implicar a subversão da essência do remédio heroico e o alargamento inconstitucional de sua competência para julgamento de habeas corpus" (STJ, AgRg no HC 733.563/RS, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 10/05/2022, DJe 16/05/2022).
+5. Recurso desprovido.
+(AgRg no HC n. 788.403/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 7/2/2023, DJe de 14/2/2023.)
+Assim, constatada a interposição concomitante de recurso especial, em processamento na instância inferior, e de habeas corpus, este último não pode subsistir.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
