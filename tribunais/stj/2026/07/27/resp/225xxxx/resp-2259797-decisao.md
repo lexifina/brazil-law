@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de recurso especial interposto por INCORPORACAO GARDEN LTDA EM RECUPERACAO JUDICIAL, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS que julgou demanda relativa à extinção de cumprimento de sentença e à fixação de honorários advocatícios sucumbenciais em face da superveniência de plano de recuperação judicial.
+O julgado negou provimento ao recurso de apelação da recorrente, nos termos da seguinte ementa (fls.2.760 ):
+Ementa: PROCESSO CIVIL. APELAÇÃO CÍVEL. CUMPRIMENTO DE SENTENÇA. RECUPERAÇÃO JUDICIAL. HOMOLOGAÇÃO DO PLANO. NOVAÇÃO DOS CRÉDITOS. PERDA SUPERVENIENTE DO OBJETO. EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. RECURSO DESPROVIDO. I. CASO EM EXAME 1. Apelação cível interposta por empresa em recuperação judicial contra sentença que extinguiu cumprimento de sentença, sem resolução de mérito, diante da homologação do plano de recuperação judicial, que acarretou a novação dos créditos habilitados. 2. A apelante insurgiu-se contra a ausência de fixação de honorários sucumbenciais em seu favor, defendendo a incidência do princípio da causalidade. II. QUESTÃO EM DISCUSSÃO 3. A controvérsia consiste em definir se, em caso de extinção do cumprimento de sentença por perda superveniente do objeto decorrente da recuperação judicial, é devida a condenação em honorários advocatícios em favor da executada, à luz do princípio da causalidade. III. RAZÕES DE DECIDIR 4. A distribuição da verba de sucumbência deve pautar-se pelo princípio da causalidade, segundo o qual, somente aquele que deu causa à demanda ou ao incidente processual é quem deve arcar com as despesas deles decorrentes. Precedentes do Superior Tribunal de Justiça. 5. O cumprimento de sentença foi ajuizado legitimamente pelos credores, com base em título judicial válido e exigível, em momento anterior à homologação do plano recuperacional. 6. O cumprimento de sentença foi ajuizado legitimamente pelos credores, com base em título judicial válido e exigível, em momento anterior à homologação do plano recuperacional. 7. Sendo necessária a propositura de ação para ver o direito das apeladas em receber o seu crédito, não se há falar em sua condenação em honorários sucumbenciais. IV. DISPOSITIVO E TESE 8. Recurso conhecido e desprovido.
+Sem embargos de declaração.
+No presente recurso especial, a recorrente alega, no mérito, que o acórdão estadual contrariou as disposições contidas no art. 85, §§ 10 e 11, do Código de Processo Civil, ao passo que aponta divergência jurisprudencial com arestos desta Corte, em especial com o Tema Repetitivo nº 410/STJ.
+Sustenta, outrossim, que a extinção do processo por perda de objeto não afasta a responsabilidade da parte que deu causa à sua instauração, devendo os honorários ser suportados pela parte exequente, ora recorrida.
+Apresentadas as contrarrazões (fls.2.809-2.812), sobreveio o juízo de admissibilidade positivo da instância de origem (fls.2.819-2.822).
+É, no essencial, o relatório.
+O recurso não merece prosperar.
+A controvérsia central reside em definir a responsabilidade pelo pagamento dos honorários advocatícios na hipótese de extinção de execução individual em virtude da aprovação superveniente do plano de recuperação judicial da empresa executada.
+A recorrente, com base no princípio da causalidade, postula a condenação da parte exequente.
+Contudo, sua tese não apenas carece de amparo na jurisprudência deste Superior Tribunal, como também propõe uma inversão da lógica que orienta a aplicação do referido princípio em casos análogos.
+Com efeito, o entendimento pacificado nesta Corte é no sentido de que a causa primária e determinante para a instauração de uma demanda executiva é o inadimplemento do devedor.
+A posterior extinção do feito, em decorrência de fato imputável ao próprio executado, como o é a novação operada pela aprovação de seu plano de recuperação judicial , não possui o condão de transferir ao credor o ônus pela instauração do processo.
+Em outras palavras, a jurisprudência do STJ é firme ao assentar que, em tal cenário, o princípio da causalidade impõe à própria devedora, que deu origem à execução com sua mora, o dever de arcar com as custas e os honorários advocatícios do patrono do credor.
+Nesse sentido, colacionam-se recentes e elucidativos precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARALÇÃO NO AGRAVO EM RECURSO ESPECIAL - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO (ART. 1.042, DO CPC/15) PARA NEGAR PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA PARTE EXECUTADA.
+1. Assim como ocorre nas hipóteses de execução frustrada ou reconhecimento de prescrição intercorrente, afigura-se um contrassenso condenar o credor ao pagamento de honorários advocatícios de sucumbência em razão da extinção parcial e anômala do feito executório, em razão da aprovação do plano de recuperação judicial da parte devedora.
+1.1Nestes casos, mostra-se oportuno que o princípio da causalidade incida em desfavor da parte executada, já que foi a causadora da demanda executiva ao deixar de cumprir espontaneamente e tempestivamente com a obrigação evidenciada no título executivo.
+2. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 1.959.034/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 28/3/2022, DJe de 31/3/2022.)
+E ainda:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO POR QUANTIA CERTA. EXTINÇÃO DA EXECUÇÃO. DEFERIMENTO DA RECUPERAÇÃO JUDICIAL. ÔNUS SUCUMBENCIAIS. FIXAÇÃO. PRINCÍPIO DA CAUSALIDADE. SÚMULA Nº 83 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do STJ é firme no sentido de que a extinção de execução por fato superveniente imputado ao executado - deferimento da recuperação judicial - enseja à devedora o ônus de arcar com as custas e os honorários advocatícios.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 2.367.679/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 29/4/2024, DJe de 2/5/2024.)
+Dessa forma, a pretensão da recorrente de ver a parte credora condenada aos ônus sucumbenciais é manifestamente contrária à jurisprudência dominante desta Corte.
+Ademais, é igualmente equivocada a invocação do Tema Repetitivo nº 410/STJ.
+O referido precedente vinculante aplica-se a hipóteses de acolhimento, ainda que parcial, de impugnação ao cumprimento de sentença, situação na qual se reconhece um excesso ou vício na execução manejada pelo credor.
+Tal cenário é distinto da extinção por perda de objeto decorrente da novação concursal, que não guarda relação com a existência de qualquer irregularidade na execução originalmente proposta.
+O acórdão recorrido, portanto, ao afastar a condenação dos credores, decidiu em sentido que, na prática, não destoa da impossibilidade de se onerar o credor, estando o resultado do julgamento, no ponto impugnado, em harmonia com a orientação desta Corte.
+Ante o exposto, nego provimento ao recurso especial.
+Deixo de condenar em honorários recursais em razão da ausência de fixação da verba na origem (EDcl no AgInt no REsp n. 1.910.509/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/11/2021).
+Publique-se. Intimem-se.
+ EMENTA
