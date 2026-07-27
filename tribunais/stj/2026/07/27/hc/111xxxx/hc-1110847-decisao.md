@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de MARLENE AGAPIO DE ALMEIDA PORTO, condenada pelo crime de receptação (art. 180, caput, do Código Penal), à pena de 1 ano e 2 meses de reclusão, em regime inicial aberto, substituída por duas restritivas de direitos, além de 10 dias-multa (Processo n. 5001893-89.2022.8.21.0104, da 1ª Vara Judicial da comarca de Horizontina/RS).
+A impetrante aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul, que, em 23/6/2026, por unanimidade, negou provimento aos apelos, mantendo a condenação por receptação dolosa (fls. 8/23).
+Alega contrariedade ao art. 180, caput, do Código Penal, por ausência de prova do dolo exigido pelo tipo penal, sustentando inexistir ciência inequívoca da origem ilícita do aparelho celular apreendido na posse da paciente; requer a desclassificação para receptação culposa (art. 180, § 3º, do Código Penal), com redimensionamento da pena.
+Em caráter liminar, pede a suspensão dos efeitos do acórdão impugnado; no mérito, requer a concessão da ordem para reformar o acórdão recorrido, desclassificar a conduta para receptação culposa e redimensionar a pena.
+A liminar foi indeferida (fls. 110/111).
+Depois de prestadas informações de praxe, os autos seguiram ao Ministério Público Federal, que opinou pelo não conhecimento do writ ou, subsidiariamente, pela denegação da ordem, conforme o parecer assim resumido (fl. 142):
+HABEAS CORPUS. RECEPTAÇÃO DOLOSA (ART. 180, CAPUT, DO CÓDIGO PENAL). CONDENAÇÃO MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. PRETENSÃO DE DESCLASSIFICAÇÃO PARA RECEPTAÇÃO CULPOSA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA ESTREITA DO HABEAS CORPUS. CIRCUNSTÂNCIAS CONCRETAS DA AQUISIÇÃO DO BEM QUE EVIDENCIAM O DOLO, AO MENOS EVENTUAL. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. INADEQUAÇÃO DA VIA ELEITA. PARECER PELO NÃO CONHECIMENTO DO WRIT E, SUBSIDIARIAMENTE, PELA DENEGAÇÃO DA ORDEM.
+É o relatório.
+Na espécie, inexiste constrangimento ilegal passível de ser reparado pela via eleita, como bem demonstrado pelo parecerista, cuja manifestação acolho como razão de decidir (fls. 144/148 - grifo nosso):
+ ..
+Preliminarmente, não deve ser conhecido o presente habeas corpus, porquanto impetrado em indevida substituição a recurso próprio, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais nos quais configurada flagrante ilegalidade apta a gerar constrangimento ilegal, sendo possível a concessão da ordem de ofício.
+A jurisprudência do Superior Tribunal de Justiça em consonância com o entendimento do Supremo Tribunal Federal, consolidou-se no sentido de não admitir a impetração de writ em substituição ao recurso cabível, salvo em situações excepcionais, nas quais a ilegalidade flagrante justifique a concessão da ordem de ofício (HC nº 602.425/SC, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 10/03/2021, DJe de 06/04/2021; HC nº 929.733/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 08/10/2024, DJe de 11/11/2024).
+Inviável, portanto, o conhecimento do presente mandamus, pois manejado como substitutivo de recurso especial.
+Ainda que conhecido o habeas corpus, a ordem deve ser denegada.
+As instâncias ordinárias, soberanas na análise do conjunto fático-probatório, concluíram pela presença do dolo, ao menos na modalidade eventual, a partir das circunstâncias concretas da aquisição do bem.
+O acórdão impugnado, ao manter a condenação, fundamentou de maneira clara e coesa que os elementos dos autos eram suficientes para demonstrar a ciência da paciente sobre a origem ilícita do bem. Conforme destacado pelo Tribunal a quo, a aquisição de um aparelho celular por valor consideravelmente inferior ao de mercado, desacompanhado de nota fiscal ou acessórios e bloqueado, são indicativos robustos do conhecimento da procedência criminosa. Nesses termos, consignou o Tribunal de origem (e-STJ fl. 20):
+"O dolo no crime de receptação, na sua modalidade "saber", pode ser extraído das circunstâncias fáticas que envolvem a aquisição do bem. A aquisição de um produto por preço vil, de pessoa sem atividade comercial lícita e sem a devida documentação que comprove sua procedência, são indicativos veementes da ciência da origem criminosa do objeto, sobretudo se o telefone celular sequer estava acompanhado de carregador e se encontrava bloqueado, o que claramente indica se tratar de bem de origem espúria.
+A ré, ao adquirir o celular nessas condições, no mínimo, assumiu o risco de estar adquirindo produto de crime, configurando, ao menos, o dolo eventual, que é suficiente para a caracterização do tipo penal do artigo 180, caput, do Código Penal."
+A tese de que o ônus de provar o dolo seria exclusivamente da acusação não se sustenta de forma absoluta no crime de receptação. Conforme a consolidada jurisprudência deste Superior Tribunal de Justiça, a apreensão de bem de origem criminosa na posse do agente inverte o ônus probatório, cabendo à defesa demonstrar a sua origem lícita ou, ao menos, a ausência de dolo, o que não ocorreu no caso.
+Nesse sentido, colacionam-se recentes julgados desta Corte:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL INADMITIDO. RECEPTAÇÃO. INVERSÃO DO ÔNUS DA PROVA. PRECEDENTES. SÚMULAS 7 E 83 DO STJ. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial, em razão da aplicação das Súmulas n. 7 e 83 do STJ, por entender que o acórdão recorrido está em consonância com a jurisprudência do Superior Tribunal de Justiça.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o agravante apresentou argumentos suficientes para infirmar a aplicação das Súmulas n. 7 e 83 do STJ, que fundamentaram a inadmissão do recurso especial.
+III. Razões de decidir
+3. O agravante não apresentou argumentos capazes de alterar o entendimento firmado na decisão agravada, mantendo-se a aplicação das Súmulas n. 7 e 83 do STJ.
+4. Conforme jurisprudência pacífica desta Corte, a apreensão do bem em poder do agente inverte o ônus da prova, cabendo ao acusado comprovar a origem lícita do bem, conforme o art. 156 do CPP.
+5. A decisão do Tribunal de origem está em conformidade com a jurisprudência do STJ, não havendo justificativa para o reexame de provas, conforme a Súmula n. 7 do STJ.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "1. A prova do dolo no crime de receptação pode ser realizada por meios indiretos, considerando-se os indícios e as circunstâncias dos fatos. 2. A apreensão do bem em poder do agente inverte o ônus da prova, cabendo ao acusado comprovar a origem lícita do bem. 3. A decisão do Tribunal de origem está em conformidade com a jurisprudência do STJ, não havendo justificativa para o reexame de provas, conforme a Súmula n. 7 do STJ".
+(AgRg no AREsp n. 2.551.668/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/3/2025, DJEN de 25/3/2025)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. RECEPTAÇÃO. CONDENAÇÃO. PLEITO DE DESCLASSIFICAÇÃO DA CONDUTA PARA RECEPTAÇÃO CULPOSA. IMPOSSIBILIDADE. REVOLVIMENTO DO MATERIAL FÁTICO PROBATÓRIO DOS AUTOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. No caso, as instâncias ordinárias consignaram que o agente tinha certeza da origem ilícita do veículo utilizado, uma vez que recebeu o veículo de traficantes, com a documentação adulterada, para o transporte de grande quantidade de entorpecentes, situação que pode configurar o dolo na prática do delito de receptação, impossibilitando a desclassificação da conduta para a modalidade culposa.
+2. "Para se proceder à desclassificação do delito para a conduta prevista na forma culposa, seria necessário reformar o quadro fático-probatório firmado na origem, tarefa inviável no habeas corpus" (AgRg no HC n. 727.955/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 29/3/2022, DJe de 31/3/2022)
+- AgRg nos EDcl no HC n. 835.353/SP, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 860.366/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/8/2024, DJe de 22/8/2024)
+Portanto, a pretensão de desclassificação da conduta para a modalidade culposa demandaria, inevitavelmente, o revolvimento do acervo fático-probatório, providência incompatível com a via estreita do habeas corpus.
+Não se vislumbra, assim, qualquer ilegalidade manifesta que justifique a concessão da ordem.
+Realmente, a orientação jurisprudencial é de que, na hipótese de flagrante na posse de objeto de proveniência ilícita, cabe à defesa comprovar eventual alegação de que o acusado não tinha prévia ciência da origem ilegal (AgRg no AREsp n. 3.218.434/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 16/6/2026, DJEN de 23/6/2026).
+Além disso, a reversão da conclusão da instância a quo quanto à suficiência do conjunto probatório em relação à presença do dolo no crime de receptação - baseado nas circunstâncias concretas da aquisição do aparelho celular por preço vil, sem nota fiscal, desacompanhado de acessórios e bloqueado - demandaria amplo reexame de fatos e provas, providência incompatível com a via estreita do habeas corpus.
+Ante o exposto, com base na jurisprudência e no parecer, denego a ordem (art. 34, XX, do RISTJ).
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. RECEPTAÇÃO. INADEQUAÇÃO DA VIA ELEITA. WRIT UTILIZADO COMO SUBSTITUTIVO DE RECURSO PRÓPRIO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. DESCLASSIFICAÇÃO PARA RECEPTAÇÃO CULPOSA. INVIABILIDADE. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. ÔNUS DA PROVA QUANTO À ORIGEM LÍCITA DO BEM. APREENSÃO NA POSSE DO AGENTE. MANUTENÇÃO DA CONDENAÇÃO. PARECER ACOLHIDO.
+Ordem denegada.
