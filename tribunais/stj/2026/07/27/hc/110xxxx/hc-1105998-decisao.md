@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de FELIPE DIAS DA SILVA PINTO, preso preventivamente pela prática do delito do art. 33, caput, da Lei n. 11.343/2006 - Processo n. 0801069-03.2026.8.19.0007, do Juízo da 1ª Vara Criminal da comarca de Barra Mansa/RJ.
+Aponta-se como autoridade coatora o Tribunal de Justiça de Rio de Janeiro, que denegou o HC n. 0012248-85.2026.8.19.0000 (fls. 13/14).
+Aqui, alega-se, em síntese, constrangimento ilegal na segregação cautelar, ante ausência de fundamentação, além da possibilidade de substituição por medidas cautelares diversas.
+Requer-se, liminarmente e no mérito, a revogação da prisão preventiva, com ou sem a aplicação das medidas cautelares previstas no art. 319 do CPP.
+Indeferida a liminar e prestadas as informações de praxe, o Ministério Público Federal opinou pelo não conhecimento e, no mérito, pela denegação da ordem.
+É o relatório.
+Do atento exame dos autos observo que a segregação cautelar do acusado se encontra fundamentada no fato de que foram apreendidas 12 gramas de Cannabis sativa L., acondicionadas em embalagem própria; 68 gramas de cocaína em pó, acondicionadas em embalagem própria; e 6 gramas de cocaína (crack), acondicionadas em embalagem própria. Além disso, foi apreendido junto ao acusado um rádio transmissor  ..  Ademais, consta das decisões proferidas nos autos que o paciente possui outras anotações criminais (fls. 13/14).
+Como se vê, a imposição da prisão preventiva se encontra adequadamente fundamentada a partir da análise particularizada da situação fática dos autos, tendo sido amparada no risco concreto de reiteração delitiva, notadamente porque o autuado ostenta antecedentes criminais, registrando várias anotações criminais, o que justifica a custódia cautelar, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+Com efeito, a jurisprudência desta Corte Superior compreende que a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (AgRg no RHC n. 159.385/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 27/5/2022).
+In casu, foram apreendidos 12 g de Cannabis saliva L., 68 g de cocaína e 6 g de crack, além de um rádio transmissor.
+O entendimento das instâncias ordinárias de q ue é legítima a prisão cautelar em questão está em consonância com a firme jurisprudência do Superior Tribunal de Justiça. A propósito, esta Corte Superior entende que hipóteses em que a quantidade e/ou a natureza das drogas apreendidas e outras circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são bastantes para demonstrar a gravidade concreta do delito e, por conseguinte, justificar a custódia cautelar para a garantia da ordem pública (AgRg no HC n. 899.502/SP, Ministro Schietti Cruz, Sexta Turma, DJe 12/6/2024).
+E, ainda: AgRg no HC n. 981.884/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 14/5/2025, DJEN de 20/5/2025; e AgRg no HC n. 990.118/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/5/2025, DJEN de 20/5/2025.
+Em face do exposto, denego a ordem do habeas corpus.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS QUE DENOTAM A NECESSIDADE DA CUSTÓDIA PARA A GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
