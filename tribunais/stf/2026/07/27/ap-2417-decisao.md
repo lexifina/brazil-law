@@ -1,0 +1,60 @@
+DECISÃO
+
+ Trata-se de ação penal autuada em face de FABIO AUGUSTO VIEIRA, KLEPTER ROSA GONÇALVES, JORGE EDUARDO NAIME BARRETO, PAULO JOSÉ FERREIRA DE SOUSA BEZERRA, MARCELO CASIMIRO VASCONCELOS RODRIGUES, FLAVIO SILVESTRE DE ALENCAR e RAFAEL PEREIRA MARTINS.
+No mérito, a ação penal foi julgada parcialmente procedente para:
+I) CONDENAR OS RÉUS:
+“1) FÁBIO AUGUSTO VIEIRA, KLEPTER ROSA GONÇALVES, JORGE EDUARDO NAIME BARRETO, PAULO JOSÉ FERREIRA DE SOUSA BEZERRA, MARCELO CASIMIRO VASCONCELOS RODRIGUES pelos crimes de tentativa de abolição violenta do Estado Democrático de Direito (CP, art. 359-L do CP), golpe de Estado (CP, art. 359-M), dano qualificado pela violência e grave ameaça, contra o patrimônio da União, e com considerável prejuízo para a vítima (CP, art. 163, parágrafo único, I, III e IV), e deterioração de patrimônio tombado (art. 62, I, da Lei n. 9.605/1998)”;
+II) ABSOLVER “os réus FLÁVIO SILVESTRE DE ALENCAR e RAFAEL PEREIRA MARTINS, nos termos do artigo 386, VII do Código de Processo Penal.
+
+Os réus também foram condenados ao pagamento do valor mínimo de R$ 30.000.000,00 (trinta milhões de reais), a título de danos morais coletivos, nos termos do art. 387, IV, do Código de Processo Penal, valor este a ser revertido ao fundo de que trata o art. 13 da Lei n. 7.347/1985.
+A PRIMEIRA TURMA resolveu, ainda, decretar a perda dos cargos públicos exercidos pelos réus FÁBIO AUGUSTO VIEIRA, KLÉPTER ROSA GONÇALVES, JORGE EDUARDO NAIME BARRETO, PAULO JOSÉ FERREIRA DE SOUSA BEZERRA e MARCELO CASIMIRO VASCONCELOS RODRIGUES, nos termos do art. 92, I, “b”, do Código Penal, em razão da violação direta e grave aos deveres inerentes à função pública.
+Por fim, a PRIMEIRA TURMA determinou que, após o trânsito em julgado: (a) Lancem-se os nomes dos réus no rol dos culpados; (b) Expeça-se guia de execução definitiva; (e) nos termos do art. 15, III, da Constituição Federal, os réus estarão suspensos dos seus direitos políticos, enquanto durarem os efeitos da condenação criminal transitada em julgado.
+O acórdão condenatório foi publicado em 9/12/2025 (eDoc. 2437), com a seguinte ementa:
+
+Ementa: PENAL E PROCESSO PENAL. RESPONSABILIZAÇÃO PENAL POR OMISSÃO IMPRÓPRIA. CONDUTA DELITIVA DOLOSA DE AGENTES PÚBLICOS EM POSIÇÃO DE COMANDO NA PMDF. DESRESPEITO CONSCIENTE E VOLUNTÁRIO EM DESRESPEITAR O DEVER JURÍDICO DE AGIR. NEXO CAUSAL ENTRE OMISSÃO E RESULTADO. CONSUMAÇÃO DOS CRIMES DE ABOLIÇÃO VIOLENTA DO ESTADO DE DIREITO (CP, ART. 359-L), GOLPE DE ESTADO (CP, ART. 359-M), DANO QUALIFICADO AO PATRIMÔNIO PÚBLICO (CP, ART. 163) E DETERIORAÇÃO DE PATRIMÔNIO TOMBADO (ART. 62, I, DA LEI 9.605/1988). AUTORIA E MATERIALIDADE COMPROVADAS. AÇÃO PENAL PARCIALMENTE PROCEDENTE.
+1. OBSERVÂNCIA DO PRINCÍPIO DO JUIZ NATURAL. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL, por sua PRIMEIRA TURMA – a partir de 18 de dezembro de 2023 (art. 9º, I, ‘l’ do Regimento Interno) – para o processo e julgamento de todas as investigações, inquéritos e ações penais referentes aos atos antidemocráticos, milícias digitais, tentativa de golpe e atentado contra os Poderes e Instituições, inclusive aqueles ocorridos no dia 8 de janeiro de 2023. PRECEDENTES.
+2. INEXISTÊNCIA DE CERCEAMENTO À AMPLA DEFESA: (a) INEXISTÊNCIA DE INÉPCIA DA INICIAL E AUSÊNCIA DE JUSTA CAUSA. Acusação narrada detalhadamente e bem delimitada pela Procuradoria-Geral da República. Existência de justa causa para a instauração da ação penal, analisada a partir de seus três componentes (tipicidade, punibilidade e viabilidade), de maneira a garantir a presença de um suporte probatório mínimo a indicar a legitimidade da imputação e possibilitar a ampla defesa. (b) ABSOLUTO RESPEITO AO DEVIDO PROCESSO LEGAL. A alegação de prova nova colhida em ação penal distinta não justifica a reabertura da instrução, ausente a demonstração de impossibilidade objetiva de acesso anterior ou de potencial alteração substancial do quadro probatório já consolidado. (c) AUSÊNCIA DE CERCEAMENTO DE DEFESA. INEXISTÊNCIA DE NULIDADE DA INSTRUÇÃO PROCESSUAL. É válida a realização de audiência de instrução por videoconferência, conforme art. 185, §2º, do CPP. Não há demonstração de prejuízo processual, sendo inaplicável a nulidade sem a comprovação de dano, nos termos da jurisprudência desta CORTE (Súmula 523/STF).
+3. AUTORIA E MATERIALIDADE COMPROVADAS. Consumação das infrações penais previstas nos artigos 359-L; 359-M; 163, parágrafo único, I, III e IV, todos do Código Penal; e art. 62, I, da Lei 9.605/1998, na forma do art. 29, caput, e do artigo 69, caput, ambos do Código Penal.
+4. ATUAÇÃO DELITIVA DE MEMBROS DA POLÍCIA MILITAR DO DISTRITO FEDERAL. E ATOS ANTIDEMOCRÁTICOS DE 8 DE JANEIRO DE 2023. FÁBIO AUGUSTO VIEIRA, KLÉPTER ROSA GONÇALVES, JORGE EDUARDO NAIME BARRETO, PAULO JOSÉ FERREIRA DE SOUSA BEZERRA e MARCELO CASIMIRO VASCONCELOS RODRIGUES, todos ocupantes de posições estratégicas na estrutura da PMDF, omitiram-se de modo funcionalmente relevante, favorecendo a tentativa de abolição do Estado Democrático de Direito e a tentativa de Golpe de Estado com a finalidade de deposição do governo legitimamente constituído.
+5. OMISSÃO DOLOSA NA TENTATIVA DE RUPTURA CONSTITUCIONAL E GOLPE DE ESTADO. Inércia consciente, voluntária e coordenada por agentes da cúpula da PMDF, mediante planejamento e execução omissiva, que permitiu e auxiliou a invasão violenta dos prédios dos Três Poderes da República.
+6. DOLO E NEXO CAUSAL. Presença de dolo, caracterizado pela omissão consciente e voluntária apesar do dever jurídica de agir. Comprovação do nexo causal entre a omissão e o resultado.
+7. CONCURSO MATERIAL ENTRE OS CRIMES DE ABOLIÇÃO VIOLENTA DO ESTADO DE DIREITO (CP, art. 359-L) e GOLPE DE ESTADO (CP, art. 359-M). Consumação de tipos penais que tutelam bens jurídicos distintos com absoluta independência típica, cujas condutas dos agentes, de forma autônoma, ofenderam cada bem jurídico tutelado pelo ordenamento jurídico, e foram praticadas em momentos distintos por meio de diversas condutas com desígnios autônomos, impedindo a aplicação da consunção ou absorção. Aplicação do art. 69 do Código Penal. Precedentes.
+8. CONDENAÇÃO DE FÁBIO AUGUSTO VIEIRA, KLÉPTER ROSA GONÇALVES, JORGE EDUARDO NAIME BARRETO e PAULO JOSÉ FERREIRA DE SOUSA BEZERRA pelas infrações aos artigos 359-L; 359-M; 163, parágrafo único, I, III e IV, todos do Código Penal; e art. 62, I, da Lei 9.605/1998, na forma do art. 29, caput, e do artigo 69, caput, ambos do Código Penal, à pena privativa de liberdade de 16 (dezesseis) anos, sendo 13 (treze) anos e 6 (seis) meses de reclusão e 2 (dois) anos e 6 (seis) meses de detenção, aplicado o regime inicial fechado para início de cumprimento da pena do ora condenado, na forma do art. 33, do CP, e a pena pecuniária de 100 (cem) dias-multa que deverão ser calculados à razão de 1/3 (um terço) do salário-mínimo vigente à época do fato, devidamente corrigido, nos termos do artigo 49, § 1º, do CP.
+9. ABSOLVIÇÃO DE FLÁVIO SILVESTRE DE ALENCAR e RAFAEL PEREIRA MARTINS, nos termos do art. 386, VII, do Código de Processo Penal, por insuficiência de provas de adesão subjetiva ou omissão penalmente relevante.
+10. CONDENAÇÃO POR DANOS MORAIS COLETIVOS COM A FIXAÇÃO DO VALOR INDENIZATÓRIO em R$ 30.000.000,00 (trinta milhões de reais), a ser adimplido de forma solidária pelos condenados FÁBIO AUGUSTO VIEIRA, KLÉPTER ROSA GONÇALVES, JORGE EDUARDO NAIME BARRETO, PAULO JOSÉ FERREIRA DE SOUSA BEZERRA e MARCELO CASIMIRO VASCONCELOS RODRIGUES.
+11. PERDA DO CARGO PÚBLICO de FÁBIO AUGUSTO VIEIRA, KLÉPTER ROSA GONÇALVES, JORGE EDUARDO NAIME BARRETO, PAULO JOSÉ FERREIRA DE SOUSA BEZERRA e MARCELO CASIMIRO VASCONCELOS RODRIGUES, nos termos do art. 92, I, “b”, do Código Penal, diante da prática de crimes com violação direta de dever funcional (TEMA 1200/RG - ARE 1.320.744/DF, Rel. Min. ALEXANDRE DE MORAES).
+12. AÇÃO PENAL PARCIALMENTE PROCEDENTE.
+
+Após o trânsito em julgado do acórdão condenatório, foi determinado o início da execução penal em relação aos réus condenados, com autuação das EPs 188, 189, 190, 191 e 192.
+Em 17/7/2026, a Polícia Federal, por meio do Ofício nº  2727654/2026 - CINQ/CGRC/DICOR/PF, encaminhou a lista dos bens apreendidos e que permanecem acautelados em depósito da Policia Federal por mais de dois anos, em decorrência das medidas cautelares adotadas no curso da investigação.
+E, ao final  comunicou que “Considerando o encerramento da investigação e a inexistência de novas diligências que justifiquem a manutenção da constrição dos referidos bens, submetem-se os autos à apreciação de Vossa Excelência para que seja deliberada sua destinação definitiva, mediante restituição aos legítimos proprietários, decretação de perdimento, destruição ou outra providência que se entender adequada”(eDoc.2843).
+Em 28/5/2026, a Polícia Federal, por meio do Ofício nº 2219060/2026 - CINQ/CGRC/DICOR/PF, comunicou que “o acervo acautelado no Termo nº 2073569/2023 permanece sob a guarda do Exército Brasileiro, visto que não foi objeto da ordem de restituição anterior emanada por Vossa Excelência, a qual se limitou ao Termo nº 484976/2023. Inexiste, portanto, provimento jurisdicional pretérito autorizando a liberação dos bens do Termo de Apreensão nº 2073569/2023”(eDoc.2801).
+Com vista dos autos, a Procuradoria-Geral da República manifestou-se  pelo “deferimento da restituição dos documentos e do aparelho celular apreendidos em poder de Fábio Augusto Vieira e de Paulo José Ferreira de Sousa Bezerra.”(eDoc. 2487).
+
+É o relatório. DECIDO.
+
+Dispõe o art. 118 do Código de Processo Penal que, antes de transitar em julgado a sentença final, as coisas apreendidas não poderão ser restituídas enquanto interessarem ao processo.
+No caso específico, há ausência de interesse na manutenção dos documentos e do aparelho celular apreendidos em poder de FABIO AUGUSTO VIEIRA  e de PAULO JOSE FERREIRA DE SOUSA BEZERRA, tendo em vista o encerramento da investigação e a inexistência de novas diligências que justifiquem a manutenção da constrição dos referidos bens, conforme Oficio n° 2727654/2026 - CINQ/CGRC/DICOR/PF (eDoc. 2843), além do julgamento de mérito desta Ação Penal.
+Quanto ao ponto, assim se manifestou a Procuradoria-Geral da República (eDoc. 2847):
+
+A restituição de bens apreendidos no curso de investigação criminal, antes do trânsito em julgado da sentença final, é admissível quando os bens não mais interessarem ao processo, não houver dúvida quanto ao direito dos requerentes (titularidade ou propriedade), a devolução não representar risco à persecução penal e estiver inequivocamente comprovada a origem lícita do bem, o qual não pode constituir produto ou instrumento do crime.
+A leitura do art. 118 do Código de Processo Penal permite inferir que, mesmo após o trânsito em julgado do acórdão condenatório, é possível deliberar sobre a restituição das coisas apreendidas que não forem objeto de decretação de perdimento.
+Na espécie, a apreensão dos documentos e do aparelho celular em posse dos sentenciados faz presumir a licitude da propriedade dos bens apreendidos, os quais não constituem produto nem instrumento dos crimes investigados.
+Além disso, a Polícia Federal informou nos autos a conclusão das diligências pertinentes, o que torna desnecessária a manutenção dos bens em depósito. Desse modo, não há óbice para a restituição dos objetos apreendidos”.
+
+Diante do exposto, nos termos do art. 118 do Código de Processo Penal, DEFIRO O REQUERIMENTO e DETERMINO a restituição de bens discriminados no:
+
+(a) Termo de Apreensão nº 3372593/2023 e  nº 3380022/2023 - FÁBIO AUGUSTO VIEIRA
+ (b) Termo de Apreensão nº  3368317/2023 - PAULO JOSÉ FERREIRA DE SOUSA BEZERRA
+
+Assim sendo, a retirada do referido item deve ocorrer no prazo de 30 (trinta) dias, de modo que AUTORIZO a sua destruição, caso não seja retirado nesse prazo.
+Comunique-se à autoridade policial.
+Intimem-se os advogados regularmente constituídos.
+Ciência à Procuradoria-Geral da República.
+Publique-se.
+Arquive-se.
+Brasília, 27 de julho de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
