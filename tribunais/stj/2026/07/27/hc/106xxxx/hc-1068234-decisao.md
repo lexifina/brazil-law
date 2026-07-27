@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JEAN CARLOS PIRES, no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul, que julgou improcedente a Correição Parcial n. 5345395-70.2025.8.21.7000.
+Sustenta-se a nulidade da prova digital por quebra da cadeia de custódia e cerceamento da plenitude de defesa no rito do Júri, diante da ausência de disponibilização da íntegra dos dados extraídos do telefone celular, bem como dos códigos hash, logs, softwares utilizados e do relatório de custódia. Menciona-se a Súmula Vinculante 14 e a necessidade de acesso integral ao material probatório (Ação Penal n. 5024989-89.2021.8.21.0033/RS, em trâmite na 1ª Vara Criminal (Especializada em Júri) da Comarca de São Leopoldo/RS).
+Aduz-se a inexistência de preclusão, pois a impugnação foi apresentada após a juntada do relatório na fase do art. 422 do Código de Processo Penal, devendo ser reconhecida a ilegalidade, com a consequente exclusão das provas.
+Requer-se, em liminar, a suspensão do andamento da ação penal até decisão final do writ e, no mérito, a determinação de juntada da íntegra do conteúdo extraído dos telefones celulares, com os respectivos hashes, logs, softwares utilizados e relatório de custódia, ou, na ausência, a declaração de ilegitimidade da prova e o seu desentranhamento.
+Liminar indeferida pela Presidência desta Corte (fl. 191).
+Informações prestadas pelo Juízo de primeiro grau e pelo Tribunal de origem (fls. 108 e 182/183).
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 188/195).
+É o relatório.
+O presente writ não deve ser conhecido.
+No caso, afora o fato de o writ se apresentar como substitutivo de recurso, em 16/4/2026, sobreveio a condenação do paciente pelo Tribunal do Júri, com pena de 17 anos e 6 meses de reclusão, em regime inicial fechado. Encontra-se em processamento o apelo interposto.
+Com efeito, a superveniência de condenação pelo Tribunal do Júri constitui novo título judicial e prejudica o habeas corpus voltado a discutir nulidades anteriores (AgRg no HC n. 1.059.161/PE, Ministro Messod Azulay Neto, Quinta Turma, DJEN de 24/3/2026).
+De todo modo, não vislumbro flagrante ilegalidade a justificar a concessão da ordem de ofício.
+O Tribunal de origem afastou a alegada quebra da cadeia de custódia e o cerceamento de defesa, consignando que, embora o procedimento de extração dos dados não tenha sido integralmente detalhado, inexistem indícios de adulteração do material. Destacou que o conteúdo extraído foi disponibilizado às partes, que a decisão de pronúncia não se fundamentou nesses elementos e que a defesa não demonstrou a relevância do acesso à integralidade dos arquivos nem prejuízo concreto decorrente do indeferimento do pedido, incidindo o princípio do pas de nullité sans grief (fls. 93/94).
+Esse entendimento está em consonância com a jurisprudência deste Superior Tribunal, segundo a qual, no âmbito da cadeia de custódia, a idoneidade da prova é presumida, competindo à parte que alega irregularidade demonstrar prejuízo concreto, sendo insuficiente mera afirmação genérica de quebra do protocolo, sem indicação de adulteração, manipulação ou descontextualização do material (AgRg no HC n. 969.708/RO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 4/6/2025, DJe de 10/6/2025) - (AgRg no HC n. 1.066.126/SE, Ministro Og Fernandes, Sexta Turma, DJEN 2/7/2026).
+Ademais, o indeferimento fundamentado de diligência considerada impertinente, irrelevante ou desnecessária não caracteriza cerceamento de defesa, incumbindo ao magistrado aferir a utilidade da prova (AgRg no HC n. 1.090.424/SP, Ministro Ribeiro Dantas, Quinta Turma, DJEN 19/6/2026).
+Na hipótese, as alegações deduzidas pela defesa não afastam a presunção de confiabilidade do material digital nem evidenciam prejuízo concreto apto a justificar o reconhecimento das nulidades suscitadas, especialmente porque os elementos cuja cadeia de custódia é questionada nem sequer serviram de fundamento para a decisão de pronúncia, pois foram incorporados aos autos da ação penal somente após sua prolação.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. QUEBRA DA CADEIA DE CUSTÓDIA E CERCEAMENTO DE DEFESA. SUPERVENIÊNCIA DE CONDENAÇÃO PELO TRIBUNAL DO JÚRI. APELAÇÃO EM TRAMITAÇÃO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE.
+Writ não conhecido.
