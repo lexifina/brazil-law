@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MUNICÍPIO DE VITÓRIA, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado do Espírito Santo, assim ementado (fl. 59):
+TRIBUTÁRIO. PROCESSUAL CIVIL. APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. MORTE DO EXECUTADO APÓS O AJUIZAMENTO DA DEMANDA E EXECUTIVA E ANTES DA CITAÇÃO POR EDITAL. CURADORA ESPECIAL. REALIZAÇÃO DE DILIGÊNCIAS. EMBARGOS À EXECUÇÃO. AJUIZAMENTO. INFORMAÇÃO DO ÓBITO. VERBAS DE SUCUMBÊNCIA. CONDENAÇÃO DO MUNICÍPIO EXEQUENTE. POSSIBILIDADE. PRINCÍPIO DA CAUSALIDADE. APLICAÇÃO.
+1. Pelo princípio da causalidade, deve o exequente responder pelas verbas de sucumbência, por ter dado causa ao prosseguimento indevido da execução fiscal, durante 5 (cinco) anos, tendo promovido a citação editalícia do executado 3 (três) anos após a morte do mesmo, notadamente porque não promoveu as diligências necessárias para a devida qualificação do polo passivo da demanda executiva fiscal, demandando em face de pessoa já falecida.
+2. Deve ser mantido o valor dos honorários de sucumbência fixados, por apreciação equitativa, em R$ 1.500,00 (mil e quinhentos reais) -, pois atende ao disposto no artigo 85, § 8º, do CPC, e observa os critérios previstos no § 2º, do mesmo dispositivo legal, notadamente porque somente em razão das diligências realizadas pelo Curador Especial e das informações trazidas pelo mesmo foi possível tomar conhecimento da morte do executado.
+3. Recurso desprovido.
+Opostos embargos declaratórios, foram estes rejeitados, em aresto assim ementado (fl. 71):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. DEMONSTRAÇÃO. AUSÊNCIA.
+1. "Nos termos do art. 1.022 do CPC/2015, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria." (EDcl nos EDcl no AgInt no RMS n. 56.554/PI, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 18/3/2024, DJe de 22/3/2024.)
+2. Segundo o entendimento do Superior Tribunal de Justiça, "a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza- se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora." (EDcl nos EDcl no AgInt no RMS n. 56.554/PI, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 18/3/2024, DJe de 22/3/2024.)
+3. Não demonstrada a existência de qualquer vício sanável pela via dos embargos de declaração, deve ser rejeitado o recurso.
+4. É incabível, em sede de embargos de declaração, a rediscussão do mérito do julgado.
+5. Recurso desprovido.
+Em seu recurso especial, às fls. 82-89, a parte recorrente sustenta que, "no presente caso, negou-se vigência ao art. 85 e parágrafos do CPC, ao atribuir ao ente público o ônus da sucumbência, quando este não deu causa à impossibilidade de citação do executado e o redirecionamento aos seus herdeiros" (fl. 85).
+Afirma que (fl. 88):
+(..) a extinção da execução fiscal não se deu por qualquer reconhecimento de que a parte executada tinha razão ou que o crédito não seria devido. Tampouco, houve extinção por erro atribuível ao Município ao ajuizar a execução, mas sim por fato alheio e inevitável, qual seja, o falecimento entre a data do ajuizamento e da citação.
+Portanto, tendo a execução sido extinta por fato alheio à vontade ou diligência das partes, não poderia ter sido atribuído a qualquer delas ônus de sucumbência.
+O Tribunal de origem, no entanto, inadmitiu o recurso especial, conforme trecho in verbis (fl. 97):
+Na espécie, no que diz à alegada violação, é forçoso concluir que o Apelo Nobre não comporta trânsito, uma vez que a análise acerca de quem deu causa ao ajuizamento da demanda e, via de consequência, deve suportar os ônus sucumbenciais, perpassa, necessariamente, sobre a apreciação do acervo fático probatório, circunstância não admitida por esta via, conforme estabelece a Súmula 7, do Egrégio Superior Tribunal de Justiça.
+Em seu agravo, às fls. 101-108, a parte agravante alega que, "em seu recurso especial, não pretende, em momento algum, que esta Corte reexamine ou coloque em dúvida os fatos tal como foram estabelecidos no acórdão recorrido. (..) O que a agravante busca é a revaloração jurídica desses fatos. A discussão proposta no recurso especial é eminentemente de direito (quaestio iuris), e não de fato (quaestio facti)" (fl. 106).
+É o relatório.
+Decido.
+O recurso não comporta conhecimento.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto a parte agravante não infirmou especificamente o fundamento utilizado para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se no fundamento da incidência do enunciado 7 da Súmula do STJ, tendo em vista a impossibilidade de revisão do acervo probatório.
+Entretanto, em sede de agravo em recurso especial a parte recorrente deixou de infirmar especificamente e a contento, o referido fundamento da decisão de inadmissibilidade, o qual, à míngua de fundamentação pormenorizada, detalhada e específica, permanece hígido, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar o fundamento do juízo de admissibilidade realizado pelo Tribunal de origem, a parte agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intimem-se.
+EMENTA
+DIREITO TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU O FUNDAMENTO DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC E 253, P. Ú, I, DO RISTJ. AGRAVO NÃO CONHECIDO.
