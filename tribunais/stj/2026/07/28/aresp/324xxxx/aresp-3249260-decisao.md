@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual RÁPIDO LUXO CAMPINAS LTDA se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fls. 1.999/2.000):
+DIREITO ADMINISTRATIVO. APELAÇÃO. Mandado de Segurança. Artesp. Transporte Público. Recursos desprovidos, com observação.
+I. Caso em Exame.1. Recursos de apelação interpostos por ARTESP e Rápido Luxo LTDA contra sentença que concedeu parcialmente a segurança para suspender a operação da linha 205-F pela Rápido Luxo Campinas Ltda., sem condenação em honorários advocatícios. A ARTESP e a Rápido Luxo Campinas Ltda. alegam inadequação da via eleita e ausência de prova pré-constituída, além de defenderem a legalidade da autorização precária e a continuidade do serviço público.
+II. Questão em Discussão. 2. 2. A questão em discussão consiste em (i) a adequação do mandado de segurança para tratar da controvérsia sem necessidade de dilação probatória e (ii) a legalidade da continuidade da operação da linha 205-F após o prazo experimental, considerando a sobreposição de itinerários e o impacto no equilíbrio econômico-financeiro dos contratos de concessão.
+III. Razões de Decidir. 3. A via do mandado de segurança é admissível, pois não há necessidade de fase instrutória, sendo suficiente a análise da legalidade dos atos administrativos. 4. A continuidade da operação da linha 205-F após o prazo experimental é ilegal, pois não houve licitação prévia, violando o princípio da estrita legalidade e o processo licitatório.
+IV. Dispositivo e Tese. 5. Recursos desprovidos. Tese de julgamento: 1. A via do mandado de segurança é adequada para a análise da legalidade dos atos administrativos. 2. A continuidade da operação da linha 205-F pela empresa Rápido Luxo Campinas após o esgotamento do prazo de 90 dias concedido por ato administrativo de caráter precário viola o princípio da estrita legalidade, assim como o princípio da licitação para a prestação de serviços de transporte público. Autorização para operação da linha 205-F que se mostra possível, caso realizada por meio de certame licitatório precedido de estudo viário, econômico e financeiro de impacto nas empresas do Consórcio Anhanguera.
+Legislação Citada: CF/1988, art. 5º, XV; art. 175, Lei 8.987/1995, Lei 12.016/2009, art. 1º, art. 6º, §5º, Lei 14.133/2021, art. 104, LINDB, art. 21 Jurisprudência não citada.
+Os embargos de declaração opostos foram rejeitados (fls. 2.025/2.030).
+A parte recorrente alega violação do art. 6º da Lei 8.987/1995, sustentando ofensa aos princípios da continuidade, eficiência, atualidade e generalidade do serviço público, e do art. 124 da Lei 14.133/2021, bem como, subsidiariamente, do art. 64, II, d, da Lei 8.666/1993, afirmando que o denominado fato do príncipe não configuraria ilicitude e, caso houvesse impacto econômico-financeiro, seria cabível apenas o reequilíbrio contratual.
+Argumenta que a linha poderia ser mantida pela ARTESP e que atos governamentais interferentes ensejariam apenas recomposição da equação econômico-financeira.
+Contrarrazões apresentadas às fls. 2.061/2.082.
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Na origem, cuida-se de mandado de segurança, que busca suspender a operação da linha 205-F pela Rápido Luxo Campinas Ltda. após o prazo experimental, sem licitação.
+Compulsando os autos, verifico que os arts. 6º da Lei 8.987/1995 , 124 da Lei 14.133/2021, e 64, II, d, da Lei 8.666/1993, não foram apreciados pelo Tribunal de origem, bem como a tese a eles vinculada, isoladamente ou em cotejo aos dispositivos.
+Para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa seja decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não no caso concreto.
+Ausente pronunciamento do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO sobre o ponto, caberia, inicialmente, suscitá-lo em embargos de declaração. Mantida a omissão, deveria a parte interessada deduzir a nulidade do julgamento por violação do art. 1.022 do Código de Processo Civil, o que não ocorreu.
+A falta de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso a esta instância por não ter sido preenchido o requisito constitucional do prequestionamento.
+Incide no presente caso, por analogia, a Súmula 282 do Supremo Tribunal Federal (STF).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
