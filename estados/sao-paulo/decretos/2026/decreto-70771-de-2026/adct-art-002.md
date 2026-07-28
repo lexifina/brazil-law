@@ -1,0 +1,1 @@
+Artigo 2° - Nos processos de promoção subsequentes aos previstos no artigo 1° destas Disposições Transitórias, e até que se completem 6 (seis) avaliações anuais, a média a que se refere o artigo 10 deste decreto será obtida a partir das avaliações de desempenho que foram realizadas no período.

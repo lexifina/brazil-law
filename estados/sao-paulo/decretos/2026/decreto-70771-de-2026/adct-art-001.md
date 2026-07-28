@@ -1,0 +1,2 @@
+## Disposições Transitórias
+Artigo 1° - Nos processos de promoção a serem realizados nos meses de julho e dezembro de 2026, relativamente aos policiais civis que preencherem os requisitos para promoção previstos nos incisos I, III e IV do artigo 5° da Lei n° 18.443, de 2 de abril de 2026, e no artigo 1° de suas Disposições Transitórias, a avaliação de desempenho será apurada em relação ao período de 1° de janeiro a 31 de dezembro de 2025, mediante adoção de avaliação única.
