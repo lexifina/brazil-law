@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto por Rosalice Azevedo Barros, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do Tribunal de Justiça do Estado do Tocantins assim ementado (fls. 1284/1286):
+DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. SERVIDOR PÚBLICO ESTADUAL. AÇÃO DE COBRANÇA DE DIFERENÇAS SALARIAIS POR DESVIO DE FUNÇÃO. AUXILIAR DE ENFERMAGEM. EXERCÍCIO DE FUNÇÕES PRÓXIMAS ÀS DE TÉCNICO EM ENFERMAGEM. AUSÊNCIA DE PROVA ROBUSTA. IMPROCEDÊNCIA MANTIDA. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Apelação cível interposta por Rosalice Azevedo Barros contra sentença da 1ª Vara da Fazenda e Registros Públicos de Palmas, nos autos de Ação de Cobrança de Diferenças Salariais ajuizada em face do Estado do Tocantins. A autora, servidora pública estadual no cargo de auxiliar de enfermagem, alega exercer funções típicas de técnico em enfermagem, pleiteando o reconhecimento do desvio de função e o consequente pagamento das diferenças remuneratórias. O Estado contestou, sustentando a inexistência de desvio de função e a falta de provas quanto ao exercício de atribuições privativas de técnico.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em determinar se houve desvio de função por parte da autora, de modo a justificar o pagamento das diferenças salariais entre os cargos de auxiliar de enfermagem e técnico em enfermagem.
+III. RAZÕES DE DECIDIR
+3. A caracterização do desvio de função exige prova robusta do exercício habitual de atribuições privativas de cargo diverso daquele para o qual o servidor foi nomeado por concurso público, o que não
+se verifica no presente caso.
+4. As atividades descritas nos anexos da Lei nº 2.670/2012 demonstram significativa semelhança entre as funções de auxiliar e técnico de enfermagem, dificultando a delimitação precisa de eventual extrapolação de funções.
+5. A prova documental apresentada, consistente em escalas de trabalho, não comprova de forma categórica o exercício habitual de funções exclusivas de técnico de enfermagem.
+6. A jurisprudência consolidada deste Tribunal rejeita pretensões baseadas em alegações genéricas de auxílio ou colaboração em funções alheias ao cargo, sem demonstração de exercício exclusivo e habitual das atribuições do cargo pleiteado.
+7. O indeferimento de provas pericial e testemunhal justifica-se pela ausência de utilidade prática na elucidação do fato controvertido, dada a semelhança entre as funções e a subjetividade da distinção, conforme art. 370 do CPC.
+IV. DISPOSITIVO E TESE 8. Recurso desprovido. Tese de julgamento:
+1. A ausência de prova robusta e específica do exercício habitual de funções privativas de cargo diverso inviabiliza o reconhecimento de desvio de função no serviço público.
+2. A similitude entre as atribuições dos cargos de auxiliar e técnico de enfermagem, por si só, não autoriza o pagamento de diferenças salariais sem comprovação clara e objetiva do desvio funcional.
+3. É legítimo o indeferimento de prova pericial e testemunhal quando estas se revelarem inúteis ou meramente protelatórias, nos termos do art. 370 do CPC.
+4. Extinção do feito com resolução do mérito, fulcro no artigo 487, I do CPC.
+Os embargos de declaração opostos foram rejeitados (fls. 1309/1311).
+No recurso especial (fls. 1314/1321), a parte recorrente aponta violação dos arts. 6º, 8º, 9º, 10, 370, 373, § 1º, 489, § 1º, IV, e 926 do Código de Processo Civil (CPC) e do art. 884 do Código Civil, além de contrariedade à Súmula 378 do STJ. Sustenta, em síntese: (i) cerceamento de defesa e negativa de prestação jurisdicional por fundamentação deficiente, decorrentes do indeferimento das provas testemunhal e pericial seguido de julgamento de improcedência por insuficiência probatória (arts. 6º, 8º, 9º, 10, 370 e 489, § 1º, IV, do CPC); (ii) erro na valoração da prova e enriquecimento sem causa da Administração, com afronta ao art. 884 do Código Civil e à Súmula 378 do STJ; e (iii) ofensa ao dever de uniformização da jurisprudência (art. 926 do CPC), por insuficiente distinção de precedente do próprio Tribunal de origem. Requer o conhecimento e provimento do recurso para anular o acórdão e determinar o retorno dos autos à origem, com reabertura da instrução (fls. 1320/1321).
+Contrarrazões apresentadas às fls. 1322/1333.
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Na origem, cuida-se de ação de cobrança de diferenças salariais, cujo pedido principal consiste no reconhecimento de desvio de função e condenação ao pagamento das diferenças remuneratórias entre auxiliar e técnico de enfermagem.
+O cerne da controvérsia consiste em definir se o indeferimento das provas testemunhal e pericial, seguido da improcedência do pedido de reconhecimento de desvio de função por insuficiência probatória, configura cerceamento de defesa, negativa de prestação jurisdicional e ofensa ao dever de uniformização, autorizando o reconhecimento do desvio funcional  e das correlatas diferenças remuneratórias (Súmula 378 do STJ; art. 884 do Código Civil)  na via do recurso especial.
+I. Dos arts. 6º, 8º, 9º, 10, 489, § 1º, IV, e 926 do CPC e do art. 884 do Código Civil. Ausência de prequestionamento.
+O acórdão recorrido não emitiu juízo de valor sobre o conteúdo normativo desses dispositivos, ausente o necessário prequestionamento (fls. 1336/1337).
+A oposição de embargos de declaração não basta para suprir a exigência: para a caracterização do prequestionamento ficto (art. 1.025 do CPC), reclama a jurisprudência desta Corte a indicação, nas razões do especial, de ofensa ao art. 1.022 do CPC, providência de que a parte recorrente não se desincumbiu.
+II  Do alegado erro na valoração da prova, da ofensa ao art. 884 do Código Civil e à Súmula 378 do STJ
+A pretensão esbarra em tríplice óbice. Primeiro, a conclusão de que inexiste prova robusta do desvio de função resulta da apreciação concreta das escalas de trabalho e da avaliação de desempenho desprovida de assinatura da chefia (fls. 1303/1306). Não se cuida aqui de revaloração jurídica de fato incontroverso  que prescindiria de incursão probatória  , mas de pretensão de reapreciar a suficiência do próprio conjunto de provas para ter por demonstrado fato controvertido, qual seja, a existência do desvio. A hipótese é de simples reexame, atraindo a Súmula 7 do STJ.
+Segundo, a definição do conteúdo das atribuições de cada cargo, e de sua eventual equivalência, foi extraída pela origem da Lei estadual 2.670/2012 e do Manual de Normas, Rotinas e Protocolos Assistenciais (fls. 1303/1305). A revisão dessa interpretação de direito local é inviável na via especial, por aplicação analógica da Súmula 280 do STF. Esse fundamento, de índole local e autônoma, sustenta por si só o dispositivo e não foi  nem poderia ser  desconstituído por meio do recurso especial.
+Terceiro, a alegada ofensa ao art. 884 do Código Civil pressupõe a premissa fática do desvio de função, expressamente afastada nas instâncias ordinárias; admiti-la importaria, novamente, reexame de prova (Súmula 7 do STJ).
+Ademais, a apontada contrariedade à Súmula 378 do STJ não desafia o especial pela alínea "a" do permissivo constitucional, porquanto enunciado de súmula não se equipara a lei federal, na forma da Súmula 518 do STJ.
+III  Da alegada ofensa ao dever de uniformização da jurisprudência (art. 926 do CPC) e do afastamento de precedente
+O art. 926 do CPC não foi apreciado pelo Tribunal de origem.
+A falta de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso a esta instância por não ter sido preenchido o requisito constitucional do prequestionamento, dando ensejo à incidência no presente caso, por analogia, da Súmula 282 do Supremo Tribunal Federal (STF).
+Para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa seja decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não no caso concreto.
+Ausente pronunciamento do Tribunal de origem sobre o ponto, caberia, inicialmente, suscitá-lo em embargos de declaração. Mantida a omissão, deveria a parte interessada apontar a nulidade do julgamento por violação do art. 1.022 do Código de Processo Civil.
+No caso dos autos, não foi alegada violação do art. 1.022 do CPC.
+Ante o exposto, não conheço do recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor já arbitrado dos honorários sucumbenciais, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo, bem como os termos do art. 98, § 3º, desse diploma legal.
+Publique-se. Intimem-se.
+EMENTA
