@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOÃO VICTOR BARBOSA SOUZA contra decisão da Vice-Presidência do Tribunal de Justiça do Estado de Goiás que inadmitiu o recurso especial (fls. 630/635).
+O Tribunal de origem deu parcial provimento à apelação para reclassificar a conduta relativa ao porte ilegal de arma de fogo, anteriormente reconhecida como delito autônomo, para a causa de aumento prevista no art. 40, IV, da Lei n. 11.343/2006, redimensionando a pena para 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado, e 680 dias-multa (fls. 539/547). Os embargos de declaração opostos pela defesa foram rejeitados (fls. 577/585).
+No agravo, a defesa requer a reforma da decisão de inadmissibilidade e o processamento do recurso especial. Sustenta que a análise da alegada violação dos arts. 157, caput e § 1º, e 619 do Código de Processo Penal não exige reexame de provas, mas apenas a valoração jurídica das premissas fixadas no acórdão recorrido. Afirma que a diligência destinada ao cumprimento de mandado de prisão se converteu em busca exploratória no interior do imóvel e que o Tribunal de origem não supriu a omissão apontada nos embargos de declaração (fls. 640/644).
+O Ministério Público do Estado de Goiás requereu o conhecimento e o desprovimento do agravo, por entender que a pretensão recursal exige o reexame do acervo fático-probatório, com incidência da Súmula 7/STJ (fls. 648/649).
+Em seu parecer, o Ministério Público Federal manifestou-se pelo conhecimento do agravo para não conhecer do recurso especial, em razão da incidência das Súmulas 7/STJ, 83/STJ e 284/STF (fls. 668/673).
+É o relatório.
+O agravo reúne condições de conhecimento.
+O recurso especial, contudo, não pode ser conhecido.
+O recorrente foi condenado por tráfico de drogas (127,177 g de maconha e 48,279 g de cocaína), com incidência da causa de aumento prevista no art. 40, IV, da Lei n. 11.343/2006, à pena de 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado, e 680 dias-multa, na Ação Penal n. 5994346-31.2024.8.09.0011, da 2ª Vara Criminal da comarca de Valparaíso de Goiás/GO.
+Quanto à alegada violação do art. 619 do Código de Processo Penal, o recurso especial não individualiza argumento relevante que teria permanecido sem apreciação pelo Tribunal de origem nem demonstra de que forma o exame da suposta omissão poderia alterar a solução da controvérsia.
+A insurgência limita-se a afirmar que os embargos de declaração foram rejeitados sem o suprimento do vício apontado e a invocar a possibilidade de prequestionamento ficto (fl. 596). A deficiência da fundamentação impede a exata compreensão da controvérsia, atraindo a incidência da Súmula 284/STF.
+No tocante ao art. 157, caput e § 1º, do Código de Processo Penal, o acórdão recorrido assentou que os policiais receberam informação sobre indivíduo foragido, com mandado de prisão em aberto e indicação de endereço específico; que, ao perceber a presença da equipe, o recorrente correu para os fundos da residência portando uma pochete; que a entrada no imóvel foi franqueada por seu genitor; e que o acusado foi localizado no telhado, na posse direta da pochete que continha maconha, cocaína, arma de fogo, munições e balança de precisão (fls. 539/541).
+A Corte estadual consignou, ainda, que os objetos ilícitos foram encontrados durante a diligência destinada à captura do foragido e que não foi necessária busca no interior da residência para localizar o material apreendido (fl. 540).
+O reconhecimento do ingresso ilícito e da realização de busca exploratória pressupõe a alteração dessas premissas fáticas, especialmente quanto às circunstâncias da abordagem, ao consentimento para o ingresso, ao local da captura e à forma de apreensão dos objetos.
+A modificação da conclusão adotada pelo Tribunal de origem demandaria, portanto, o reexame do conjunto fático-probatório dos autos, providência inviável em recurso especial, nos termos da Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. VIOLAÇÃO DOS ARTS. 619 E 157, CAPUT E § 1º, DO CPP. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
