@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por Guabi Nutrição e Saúde Animal S/A, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado (fl. 6.908):
+EMENTA: PROCESSUAL CIVIL - TRIBUTÁRIO - EMBARGOS À EXECUÇÃO FISCAL - AÇÃO ANULATÓRIA - LITISPENDÊNCIA - TRÍPLICE IDENTIDADE.
+Configura-se litispendência quando presentes as mesmas partes, a mesma causa de pedir e o mesmo pedido (art. 337, §§ 2º e 3º, CPC). No caso, a ação anulatória e os embargos à execução fiscal possuem idênticas partes e objeto voltado à desconstituição do mesmo crédito tributário, com pedidos subsidiários equivalentes.
+Reconhecimento da litispendência impõe a extinção do processo sem resolução do mérito (art. 485, V, CPC), sem prejuízo da análise da execução fiscal pelo juízo competente. Jurisprudência do STJ confirma a possibilidade de litispendência entre ação anulatória e embargos à execução fiscal.
+Apelação desprovida.
+Os primeiros embargos de declaração opostos por Guabi Nutrição e Saúde Animal S/A foram rejeitados (fls. 6.941/6.946). Nos segundos embargos de declaração, opostos pela mesma parte, houve acolhimento sem efeitos modificativos, apenas para correção de erro material (fls. 6.971/6.975).
+A parte recorrente alega violação dos arts. 85, §§ 2º e 8º, do Código de Processo Civil, sustentando que, extintos os embargos à execução por litispendência e ausente proveito econômico mensurável, os honorários deveriam ser fixados por apreciação equitativa.
+Aponta também divergência jurisprudencial quanto à aplicação do art. 85, § 8º, do Código de Processo Civil em hipóteses de extinção sem resolução do mérito (fls. 6.985/6.991).
+Argumenta que a extinção dos embargos à execução por litispendência, sem exame do mérito, não gerou proveito econômico à Fazenda Pública, razão pela qual é inaplicável a regra dos §§ 2º e 3º do art. 85 e cabível a fixação por equidade prevista no § 8º (fls. 6.993/6.996).
+Contrarrazões apresentadas às fls. 7.043/7.054.
+O recurso especial foi admitido (fls. 7.057/7.060).
+É o relatório.
+Na origem, cuida-se de embargos à execução fiscal, em que a parte embargante pleiteava desconstituir crédito de Imposto sobre Circulação de Mercadorias e Serviços (ICMS).
+Quanto à alegada violação dos arts. 85, §§ 2º e 8º, do CPC, verifico que o acórdão recorrido adotou entendimento diverso da jurisprudência firmada pela Primeira Turma do STJ.
+No julgamento do Recurso Especial 1.850.512/SP, submetido ao rito dos recursos repetitivos (Tema 1.076), foram fixadas as seguintes teses:
+i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+O Tribunal de origem extraiu da primeira tese do Tema 1.076 fundamento suficiente para resolver a questão, por considerar que o elevado valor atribuído à causa, por si, afastaria a regra do art. 85, § 8º, do CPC. Essa leitura inverte a ordem lógica do precedente vinculante. A expressão econômica da demanda somente torna obrigatória a incidência dos percentuais legais quando existir proveito econômico passível de mensuração. Não havendo vantagem patrimonial identificável para a parte vencedora, incide a segunda tese do repetitivo, que autoriza o arbitramento equitativo independentemente do montante do crédito discutido.
+É essa a orientação da Primeira Turma, no sentido de que a extinção dos embargos à execução fiscal por litispendência não gera proveito econômico a ser auferido, porquanto a controvérsia sobre a exigência tributária permanece pendente de solução na ação anteriormente ajuizada:
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. LITISPENDÊNCIA. EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO. RELAÇÃO JURÍDICA TRIBUTÁRIA. CONTROVÉRSIA EM AÇÃO CONEXA. HONORÁRIOS ADVOCATÍCIOS. EQUIDADE. OBSERVÂNCIA.
+1. Na ação executiva fiscal, o valor da causa será o da dívida constante da certidão, com os encargos legais, de modo que, em regra, o "valor da condenação" e o "proveito econômico obtido" aos quais se refere o § 3º do art. 85 do CPC/2015 devem ter correlação com o crédito tributário controvertido.
+2. Nos casos em que o acolhimento da pretensão não tenha correlação com o valor da causa ou não se observe proveito econômico com a extinção dos embargos à execução sem julgamento do mérito, os honorários de sucumbência devem ser arbitrados por apreciação equitativa, com observância dos critérios do § 2º do art. 85 do CPC/2015, conforme disposto no § 8º desse mesmo dispositivo.
+3. O § 8º do art. 85 do CPC/2015 deve ser observado sempre que a extinção da execução fiscal não acarrete impacto direto na questão de fundo, vez que o crédito tributário é ainda objeto de controvérsia judicial nas demais ações correlatas.
+4. Hipótese em que a extinção dos embargos à execução fiscal por litispendência não gera proveito econômico a ser auferido, aplicando-se o § 8º do art. 85 do CPC/2015 para fixar a verba honorária.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.394.964/PE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 8/4/2024, DJe de 18/4/2024.)
+A razão de decidir dessa decisão amolda-se ao presente caso. A extinção dos embargos por litispendência não desconstituiu nem confirmou o crédito tributário e não produziu, para o Estado de Minas Gerais, acréscimo patrimonial suscetível de quantificação, cabendo à ação anulatória definir o proveito econômico, seja para manter a exigência, seja para afastá-la.
+O provimento do recurso especial pela alínea a prejudica a apreciação do dissídio jurisprudencial, que tem por objeto a mesma tese jurídica.
+Ante o exposto, conheço do recurso especial e a ele dou provimento, para determinar a devolução dos autos ao Tribunal de origem, a fim de que fixe os honorários advocatícios por apreciação equitativa, nos termos do art. 85, § 8º, do CPC, observados os critérios do § 2º do mesmo artigo.
+Publique-se. Intimem-se.
+EMENTA
