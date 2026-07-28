@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por EDUARDO BRUNO DAMASCENO DA SILVA contra o acórdão proferido pelo Tribunal de Justiça do Estado do Ceará que denegou o HC n. 0623401-29.2026.8.06.0000, mantendo a prisão preventiva imposta pelo Juízo de Direito da Vara de Delitos de Organizações Criminosas da Comarca de Fortaleza, em razão da suposta prática do crime de organização criminosa armada e tráfico ilícito de drogas (Autos n. 0015610-89.2025.8.06.0001).
+No recurso, a defesa sustenta excesso de prazo para a prolação da sentença, afirmando que a audiência de instrução ocorreu em 25 de agosto de 2025, os memoriais foram apresentados em 7 e 10 de outubro de 2025 e, desde então, o processo está concluso para sentença, sem contribuição da defesa para a demora.
+Alega que a aplicação automática da orientação de que o encerramento da instrução afasta o excesso de prazo deve ser mitigada diante do lapso temporal superior a oito meses de espera pela sentença, configurando constrangimento ilegal e antecipação de pena.
+Argumenta, ainda, que não há fundamentação concreta idônea para a custódia, baseada na gravidade abstrata dos delitos, sem indicação de risco atual à ordem pública, à instrução ou à aplicação da lei penal, e que o decurso do tempo constitui fato novo apto a afastar a coisa julgada invocada quanto às teses já examinadas em writ anterior.
+Sustenta a suficiência de medidas cautelares diversas da prisão, como monitoramento eletrônico e comparecimento periódico, ressaltando condições pessoais favoráveis do recorrente.
+Pede a concessão da ordem para revogar a prisão preventiva, com expedição de alvará de soltura; subsidiariamente, a substituição por medidas cautelares diversas, nos termos do art. 319 do Código de Processo Penal.
+Sem pedido liminar.
+O Ministério Público Federal, às fls. 94/98, opinou pelo parcial conhecimento do recurso ordinário e, na parte conhecida, pelo seu não provimento.
+Informações prestadas pela vara de origem às fls. 106/108.
+É o relatório.
+Pelo exame dos autos, o pleito referente a ausência de fundamentos idôneos para manutenção da prisão não deve ser conhecido.
+A um, porque o recorrente não se desincumbiu do ônus de instruir suficientemente o recurso com a cópia da decisão que decretou a prisão preventiva - peça essencial para a verificação da verossimilhança das alegações e que poderia dar suporte à premissa da defesa.
+Tal circunstância, por óbvio, inviabiliza a exata compreensão da controvérsia, bem como a aferição da alegada existência de constrangimento ilegal.
+Ora, é deficiente a instrução do habeas corpus e, por consequência, do respectivo recurso ordinário quando, pretendendo-se a revogação da custódia e/ou sua substituição por medidas cautelares alternativas, não consta dos autos a cópia de tal peça, que é, por óbvio, a gênese da controvérsia aqui suscitada.
+A dois, porque a referida tese não foi discutida na origem.
+Ora, admitir a análise direta por esta Corte de eventual ilegalidade não submetida ao crivo do Tribunal de origem denotaria patente desprestígio às instâncias ordinárias e inequívoco intento de desvirtuamento do ordenamento recursal ordinário, o que efetivamente tem se buscado coibir (AgRg no HC n. 818.673/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 29/5/2023).
+Com efeito, segundo o entendimento desta Corte, "o prévio exame das alegações pelas instâncias ordinárias constitui requisito indispensável para sua apreciação nesta instância, ainda que se cuide de questão de ordem pública" (AgRg no HC n. 744.653/SP, rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 21/6/2022, DJe 29/6/2022) - AgRg no RHC n. 189.567/RJ, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 11/4/2024.
+Quanto ao excesso de prazo, dos autos, constata-se que a prisão preventiva foi representada em 30 de outubro de 2024, decretada em 21 de novembro de 2024 e cumprida em 29 de novembro de 2024, tendo sido oferecida denúncia em 23 de dezembro de 2024, com posterior desmembramento do feito principal para conferir maior celeridade ao andamento processual. A audiência de instrução ocorreu em 25 de agosto de 2025, o Ministério Público apresentou memoriais em 7 de outubro de 2025 e a defesa em 10 de outubro de 2025, estando o processo, desde então, concluso para sentença.
+O Tribunal de Justiça, ao apreciar a matéria, ressaltou a complexidade do feito, a pluralidade de réus e a regularidade da marcha processual até o encerramento da instrução, afastando a configuração de desídia e de excesso de prazo, com a indicação de que o processo se encontra em fase avançada, próximo do julgamento.
+Realmente, trata-se de feito complexo, originariamente, com mais de 30 réus, inúmeras tentativas de citação, edital e cartas precatórias, circunstâncias estas que impõem maior dilação temporal para o regular processamento do feito.
+A propósito:
+ ..
+3. Segundo orientação pacificada nos Tribunais Superiores, a análise do excesso de prazo na instrução criminal será feita à luz do princípio da razoabilidade e da proporcionalidade, devendo ser consideradas as particularidades do caso concreto, a atuação das partes e a forma de condução do feito pelo Estado-juiz. Dessa forma, a mera extrapolação dos prazos processuais legalmente previstos não acarreta automaticamente o relaxamento da segregação cautelar do acusado. Precedentes.
+ ..
+(AgRg no RHC n. 186.668/RJ, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 22/10/2024).
+Ademais, da análise dos autos verifica-se que o processo se encontra em fase de alegações finais. Dessa forma, ocorre a incidência da Súmula 52 desta Corte Superior: encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo (HC n. 431.607/MG, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 13/8/2018).
+Nesse contexto, levando-se em consideração as peculiaridades do caso concreto, não se verifica, por ora, o aventado excesso de prazo.
+Contudo, apesar de não visualizar excesso de prazo capaz de justificar o relaxamento da prisão, estando o réu preso preventivamente por quase 1 ano e 8 meses e estando o processo concluso para sentença desde outubro de 2025, entendo pela necessidade de recomendar celeridade na conclusão do feito.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus, contudo, recomendo ao Juízo de Direito da Vara de Delitos de Organizações Criminosas da Comarca de Fortaleza que empregue celeridade no julgamento da Ação Penal n. 0015610-89.2025.8.06.0001.
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. PRISÃO PREVENTIVA. FUNDAMENTOS. NÃO CONHECIMENTO. DEFICIÊNCIA DE INSTRUÇÃO. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO. FEITO COMPLEXO. PLURALIDADE DE RÉUS. SÚMULA 52. INSTRUÇÃO ENCERRADA. FASE DE ALEGAÇÕES FINAIS. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. RECOMENDAÇÃO DE CELERIDADE.
+Recurso improvido com recomendação.
