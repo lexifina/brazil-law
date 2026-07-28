@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de ROBERTO PINHEIRO DA SILVA, preso preventivamente e acusado pela prática do crime do art. 33, caput, da Lei n. 11.343/2006 (Processo n. 1500200-38.2026.8.26.0610, da Vara Regional das Garantias da 6ª RAJ - comarca de Ribeirão Preto/SP).
+O impetrante aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que, em 30/6/2026, denegou a ordem (HC n. 2117066-59.2026.8.26.0000).
+Alega ausência de fundamentação idônea do decreto prisional, primariedade, bons antecedentes e residência fixa, insuficiência dos requisitos do art. 312 do Código de Processo Penal, possibilidade de medidas cautelares do art. 319, pequena quantidade de drogas e plausibilidade de incidência do redutor do art. 33, § 4º, da Lei n. 11.343/2006; sustenta falta de homogeneidade entre a custódia cautelar e eventual condenação
+Em caráter liminar, pede a revogação da prisão preventiva; no mérito, requer a concessão definitiva da ordem.
+O pedido liminar foi indeferido pela Presidência desta Casa (fls. 109/110); as informações foram prestadas pelas instâncias ordinárias (fls. 118/120 e 123/124); e o Ministério Público Federal opinou pela concessão da ordem de ofício, a fim de substituir a prisão preventiva por medidas cautelares alternativas (fls. 145/148).
+É o relatório.
+Do atento exame dos autos observo que, além de não terem sido apontados elementos concretos que denotem a necessidade da medida excepcional (fls. 79/84), as circunstâncias pessoais do imputado (primariedade e ausência de antecedentes) e da prisão em flagrante, em que foram apreendidos com o ora paciente 15 pedras de crack, 3 microtubos de cocaína e 7 invólucros de maconha (fls. 79/80), demonstram a suficiência de medidas alternativas à prisão, pois este Superior Tribunal consolidou o entendimento de que, com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo-se sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto" (HC n. 305.905/SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 4/12/2014, DJe 17/12/2014) - (AgRg no RHC n. 210.080/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN 26/2/2025).
+No mesmo sentido, aliás, é o parecer do Ministério Público Federal, cujas razões passo a adotar (fl. 146 - grifo nosso):
+No caso dos autos, a preventiva do paciente foi decretada e mantida com base na quantidade e natureza da droga apreendida, bem como na gravidade abstrata do tipo penal praticado.
+Além da gravidade abstrata do delito, o que não justifica a decretação e manutenção d a prisão preventiva, com o paciente foram apreendidos 3 microtubos de cocaína, 15 pedras de crack, 7 invólucros de maconha e R$75,00 reais em notas trocadas. Verifica-se que houve apreensão de pequena quantidade de entorpecente.
+Ante o exposto, acolho o parecer ministerial e concedo a ordem impetrada para revogar a prisão cautelar imposta ao paciente, devendo o Juízo de primeiro grau aplicar as medidas alternativas à prisão, previstas no art. 319 do Código de Processo Penal, que entender mais adequadas aos fatos e à situação do réu (Processo n. 1500200-38.2026.8.26.0610).
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS. AUSÊNCIA. MENÇÃO, APENAS, À GRAVIDADE ABSTRATA DO CRIME. QUANTIDADE NÃO EXORBITANTE DE DROGAS. DELITO COMETIDO SEM VIOLÊNCIA OU GRAVE AMEAÇA. PARECER MINISTERIAL ACOLHIDO. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida nos termos do dispositivo.
