@@ -1,0 +1,21 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AGRAVO REGIMENTAL contra decisão que rejeitou liminarmente pedido de revisão criminal Matéria não contemplada pelas hipóteses de cabimento da Revisão Criminal, previstas em numerus clausus - NÃO PROVIMENTO. (e-STJ fl. 1677)
+A defesa aponta a violação dos arts. 392, II, 5277, 578, 563, 621, I e 625, § 3º, do CPP e 33, § 2º do CP. Sustenta: i) que o acórdão recorrido limitou-se a confirmar o indeferimento liminar, sem processar a revisão nem submeter o mérito revisional ao julgamento do órgão competente; ii) presença dos requisitos para a fixação do regime semaiberto e; iii) nulidade da intimação da sentença para recorrer.
+Contrarrazões às e-STJ fls. 1704/1711.
+Manifestação do Ministério Público Federal pelo não provimento do agravo às e-STJ fls. 1756/1763.
+É o relatório. Decido.
+A irresignação não prospera.
+Os elementos existentes nos autos informam que o TJSP negou provimento ao agravo regimental, mantendo a decsião de rejeitou liminarmente o processamento do pedido de revisão criminal.
+Assinala-se, em primeiro lugar, que consoante a jurisprudência do Superior Tribunal de Justiça, a revisão criminal não pode ser utilizada como nova apelação para reexame de fatos e provas. Nessa linha:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PORTE ILEGAL DE ARMA DE FOGO. REVISÃO CRIMINAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. INVIABILIDADE DE REDISCUSSÃO DO MÉRITO NA VIA REVISIONAL. PRETENSÃO DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. ART. 621, I, DO CPP. IMPROPRIEDADE DO MANEJO DA REVISÃO CRIMINAL COMO "NOVA APELAÇÃO". ASSISTÊNCIA JUDICIÁRIA GRATUITA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. ANÁLISE DA HIPOSSUFICIÊNCIA NO JUÍZO DA EXECUÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não foi verificada negativa de prestação jurisdicional, porque o Tribunal de origem apreciou as teses deduzidas, apresentando razões suficientes para rejeitar os embargos de declaração opostos.
+2. A pretensão de infirmar as conclusões sobre a robustez das provas e a inexistência de prova exclusivamente indireta demanda reexame do acervo fático-probatório, o que é vedado em recurso especial, nos termos da Súmula 7/STJ.
+3. A revisão criminal ajuizada com fundamento no art. 621, I, do CPP não se presta à rediscussão do mérito condenatório como "nova apelação".
+4. No ponto relativo à assistência judiciária gratuita, caracterizada a deficiência de fundamentação, incide a Súmula 284/STF. A análise da hipossuficiência deve ser realizada pelo Juízo da execução.
+5. Agravo regimental não provido. (AgRg no AREsp n. 3.057.870/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/12/2025, DJEN de 22/12/2025.)
+No caso, consta do acórdão estadual que "no tocante ao vício de intimação, reportando-me ao que constou do despacho inicial, extrai-se que a certidão do senhor oficial de justiça (fls. 133) aponta numeral distinto do qual o peticionário foi localizado e preso, de modo que não pode ser considerada como inverídica. Sobre a tese de nulidade decorrente da deficiência da defesa técnica do advogado nomeado, que não apelou, como bem ressaltado pela Procuradoria-Geral de Justiça, não pode ser alçada à nulidade absoluta, sendo imprescindível a demonstração de prejuízo, o qual, por certo, não pode ser aferido tão-somente em razão da ausência de interposição de um recurso." (e-STJ fl. 1678)
+Quanto ao regime prisional, o tema não foi analisado, consignando o acórdão apenas que "o peticionário busca a revisão da etapa de individualização da pena e determinação do regime prisional com arrimo em entendimento jurisprudencial mais benéfico, o que, mais uma vez, não autoriza o manejo da ação revisional, segundo precedentes com os quais me alinho." (e-STJ fl. 1680). incidência das Súmulas ns. 282 e 356 do STF.
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "a", parte final, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
