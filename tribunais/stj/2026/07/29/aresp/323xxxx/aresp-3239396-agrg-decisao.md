@@ -1,0 +1,101 @@
+DECISÃO
+Trata-se de agravo regimental interposto por KAREN YURIMI KUME contra decisão que conheceu do agravo para não conhecer do recurso especial.
+Consta dos autos que a agravante foi condenada à pena de 13 (treze) anos e 5 (cinco) meses de reclusão, pela prática do crime previsto no art. 316 do Código Penal, por duas vezes, na forma do art. 69 do mesmo diploma.
+A defesa interpôs recurso especial alegando violação aos arts. 316 do Código Penal, 386, VII, do Código de Processo Penal, e 59 e 61 do Código Penal, sustentando a absolvição por ausência de provas e, subsidiariamente, a redução da pena-base, com o afastamento das vetoriais culpabilidade, circunstâncias e consequências do crime (e-STJ fls. 6.793/6.833).
+Defendeu, em síntese, a inexistência de "fila do SUS" no Hospital Angelina Caron, a ausência de exigência direta de vantagem pela agravante, com relatos de que os pagamentos foram feitos exclusivamente ao corréu, e, na dosimetria, a ocorrência de reformatio in pejus e bis in idem na valoração da culpabilidade, das circunstâncias e das consequências do crime (e-STJ fls. 6.793/6.833).
+O recurso especial foi inadmitido (e-STJ fls. 6.963/6.964).
+No agravo, a defesa impugnou os óbices opostos à admissibilidade do apelo nobre e requereu o provimento do agravo para viabilizar a análise do recurso especial (e-STJ fls. 6.955/6.978).
+O Ministério Público Federal manifestou-se pelo conhecimento do agravo para negar provimento ao recurso especial (e-STJ fls. 7.125/7.134).
+Conheceu-se do agravo para não conhecer do recurso especial (e-STJ fls. 7.152/7.158).
+Daí o presente recurso, no qual sustenta a defesa que, quanto às supostas violações aos arts. 59 e 61 do Código Penal, o recurso especial foi apenas inadmitido, não havendo negativa de seguimento, o que autorizaria o exame da matéria por esta Corte; bem como que a pretensão absolutória não demandaria reexame de provas, mas sim a revaloração jurídica de premissas fáticas incontroversas, afastando a incidência da Súmula 7/STJ.
+Requer, assim, a reconsideração da decisão agravada; subsidiariamente, o processamento do agravo regimental e sua submissão à Turma, com a consequente apreciação do mérito recursal (e-STJ fls. 7.175/7.184).
+É o relatório.
+Decido.
+O recurso reúne as condições de admissibilidade.
+Após análise detida dos autos, depreende-se que, quanto à alegação de violação aos arts. 59 e 61 do Código Penal, o recurso especial, nesse ponto, foi apenas inadmitido, registrando-se negativa de seguimento exclusivamente em relação à apontada violação ao art. 617 do Código de Processo Penal, em consonância com o Tema Repetitivo n. 1.214 desta Corte. Diante desse quadro, impõe-se a reconsideração parcial da decisão combatida para exame das controvérsias atinentes às vetoriais da pena-base.
+Segundo o Tribunal de origem (e-STJ fls. 6.687/6.693):
+ ..
+De outro vértice, em relação à dosimetria da pena, a apelante Karen Yurimi Kume postula o afastamento das circunstâncias judiciais consideradas negativas: culpabilidade, circunstâncias e consequências do crime.
+Mais uma vez, o recurso não merece acolhimento.
+Na sentença, a Julgadora fundamentou o aumento da pena-base nos seguintes termos:
+"Culpabilidade: A reprovabilidade ultrapassa a culpabilidade do tipo penal incriminador, uma vez que a ré é médica possuindo plena capacidade de compreensão do caráter ilícito de sua conduta e da obrigação de agir de modo diverso.
+Circunstâncias do crime: As circunstâncias foram graves, na medida em que a vítima precisou recorrer aos filhos para efetuar o pagamento dos valores exigidos pelos réus, prejudicando terceiros.
+Consequências do crime: As consequências foram gravíssimas, tendo em mente que em virtude da conduta dos réus diversos pacientes que aguardavam a realização de procedimento cirúrgico pelo SUS foram lesados".
+Em relação à "culpabilidade", a Juíza imprimiu o aumento da pena levando em conta o fato de a ré ser "médica", "possuindo plena capacidade de compreensão do caráter ilícito de sua conduta e da obrigação de agir de modo diverso".
+A fundamentação é idônea.
+A apelante atuava em um hospital referência de atendimento pelo SUS, tendo plena consciência de que os pacientes, em sua maioria, não possuem condições de arcar com consultas e procedimentos de forma particular.
+Agrava-se o fato de que as pacientes estavam na iminência de realizar uma cirurgia ortopédica, justamente porque estavam com sérios problemas de saúde (Hilda operou as duas pernas, Sueli o quadril), ou seja, elas estavam extremamente fragilizadas.
+Logo, o comportamento da ré, em exigir pagamento de vantagem ilícita, nessa situação, é muito reprovável, como bem destacou a douta Procuradoria-Geral de Justiça:
+"No caso em tela, escorreito o aumento realizado pelo Magistrado sentenciante, posto que as provas amealhadas comprovam que a reprovabilidade ultrapassa a culpabilidade do tipo penal incriminador, considerando ser KAREN médica do Sistema Único de Saúde, e tinha discernimento suficiente para compreender o grau de reprovação de sua conduta.
+Além disso, em que pese o fato de ser funcionária pública seja ínsito ao tipo penal (e, portanto, não baste para majorar a pena), é evidente que os pacientes encontravam-se fragilizados e seriam mais suscetíveis a coação exercida pela médica, para efetuar o pagamento da vantagem indevida já que necessitavam de cirurgias que estavam agendadas por anos na "fila convencional do SUS", sendo evidente que a médica se aproveitou da confiança e necessidade que já depositavam nela para exigir tal vantagem".
+ ..
+Em relação às "circunstâncias do crime", novamente, o recurso não merece acolhimento, porquanto restou devidamente comprovado que as vítimas precisaram recorrer à ajuda de parentes para conseguir pagar o valor exigido pelos réus.
+A vítima Hilda Soares da Silva afirmou: "Esses valores não aceitavam transferência, tinha de ser pessoalmente; saquei o dinheiro porque não aceitavam mandar na conta. Eles falaram que tinha de ser pagamento em dinheiro, os dois valores foram pagos em dinheiro, o cinco e os nove mil reais. . Na verdade, nem tinha dinheiro, meus filhos se reuniram e pagaram para mim"
+E Sueli do Amaral relatou: "Minhas filhas deram o dinheiro e naquele dia eu paguei para o , que agora não lembro o nome. Confirmo que esse senhor se chama Luiz Geraldosenhor Hablich, me recordo que o nome dele era Geraldo".
+Logo, está devidamente comprovada a situação utilizada pela Magistrada para motivar a vetorial negativa.
+Por fim, restam evidenciadas também as "consequências do crime", porque ao privilegiar as pacientes Hilda e Sueli, marcando suas cirurgias fora da ordem do SUS, certamente prejudicou outras pessoas que estavam há tempos aguardando para aliviar suas mazelas, sendo prejudicados tão somente porque não tinham condições financeiras, ou não concordaram, de arcar com o valor extra, indevido, que os acusados cobravam para atender via SUS.
+Diante do exposto, a pena-base foi devidamente aplicada, com base em elementos concretos existentes nos autos, não havendo qualquer reparação a ser realizada.
+No que diz respeito à agravante do art. 61, II, h, do Código Penal, de mesmo modo devida sua ponderação, pois o crime foi praticado contra pessoa enferma.
+Segundo a jurisprudência desta Corte Superior, a dosimetria da pena é matéria submetida à discricionariedade motivada do julgador, balizada pelas diretrizes legais e pelas peculiaridades do caso concreto, admitindo-se a intervenção apenas quando evidenciada manifesta desproporcionalidade ou ilegalidade, o que não se verifica na espécie.
+No tocante à culpabilidade, constata-se acentuado desvalor da conduta, uma vez que a recorrente, na qualidade de médica vinculada ao Sistema Único de Saúde em hospital de referência, plenamente ciente da vulnerabilidade dos pacientes, aproveitou-se da confiança e do estado de aflição de idosos para auferir vantagem indevida, o que denota a idoneidade da fundamentação adotada.
+Tal fundamentação é idônea e não configura bis in idem, porquanto se assenta na maior censurabilidade do comportamento do agente e na violação de deveres funcionais, elementos autônomos e distintos da agravante do art. 61, II, h, do Código Penal, a qual se relaciona à especial vulnerabilidade biológica das vítimas (pessoas enfermas).
+Nesse sentido:
+Direito processual penal. Agravo regimental. Princípio da unirrecorribilidade. Habeas corpus concomitante a recurso especial.
+Ausência de flagrante ilegalidade. Agravo regimental IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, sob o fundamento de violação ao princípio da unirrecorribilidade, em razão da interposição concomitante de recurso especial contra o mesmo ato judicial.
+2. O agravante sustenta que o habeas corpus não se confunde com recurso especial e que não houve análise de mérito no recurso especial, além de apontar contradição no julgado e alegar flagrante ilegalidade nas cautelares probatórias promovidas pelo GAECO sem controle judicial e bis in idem na dosimetria da pena.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a interposição de habeas corpus concomitantemente ao recurso especial viola o princípio da unirrecorribilidade e se há flagrante ilegalidade apta a justificar a concessão do habeas corpus de ofício.
+III. Razões de decidir
+4. "A violação do princípio da unirrecorribilidade não se restringe unicamente aos casos de tramitação simultânea de recursos e habeas corpus contra o mesmo ato. .. verifica-se a ofensa ao referido princípio quando única decisão ou acórdão é impugnado por duas vias distintas, seja pela utilização da via recursal concomitantemente ao ajuizamento de ação autônoma de impugnação, seja pela impugnação do mesmo ato em duas vias autônomas diferentes .. ." (AgRg no HC n. 899.454/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/8/2024, DJe de 29/8/2024).
+5. A análise das alegações de ilicitude das cautelares probatórias promovidas pelo GAECO sem controle judicial já foi realizada em julgamento anterior (RHC n. 103.623/PR), não havendo flagrante ilegalidade apta a justificar a concessão do habeas corpus de ofício.
+6. O bis in idem na dosimetria da pena foi afastado pelo Tribunal a quo, que justificou o aumento da pena com base em circunstâncias que transcendem o tipo penal, pelo fato de o apelante, valendo-se do controle que possuía na fila SUS, adiantar procedimentos em seu favor mediante recebimento pecuniário, em detrimento dos demais usuários dos SUS e doentes. A incidência da agravante inserta no artigo 61, inciso II, alínea h, do Código Penal também não configura bis in idem, por se tratar de aumento de pena decorrente do fato de o crime ter sido praticado contra pessoa enferma. Na primeira fase, o aumento se deu em razão de se tratar a vítima de pessoa humilde e semianalfabeta, em situação de extrema vulnerabilidade.
+7. Não há contradição no julgado, mas sim a constatação de ausência de flagrante ilegalidade apta a afastar o óbice da unirrecorribilidade.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo regimental im provido.
+Tese de julgamento:
+1. O princípio da unirrecorribilidade impede a utilização simultânea de habeas corpus e recurso especial contra o mesmo ato judicial.
+2. A concessão de habeas corpus de ofício exige a constatação de flagrante ilegalidade, inexistente no caso em análise.
+Dispositivos relevantes citados: CPP, art. 647-A.
+Jurisprudência relevante citada: STJ, AgRg no HC 549.368/SC, Rel. Min. Joel Ilan Paciornik, Quinta Turma, DJe 19.12.2019; STJ, AgRg no HC 899.454/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, DJe 29.08.2024; STJ, AgRg no HC 963.315/GO, Rel. Min. Otávio de Almeida Toledo, Sexta Turma, DJEN 02.06.2025.
+(AgRg no HC n. 1.032.396/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 22/10/2025, DJEN de 29/10/2025.)
+De igual modo, quanto às circunstâncias do crime, a fundamentação lançada é idônea, pois as vítimas, em razão da conduta, tiveram de buscar auxílio financeiro de terceiros para a realização de procedimentos cirúrgicos, envolvendo, inclusive, terceiros na empreitada delitiva; ponto assentado pelo acórdão recorrido, a revelar dano que transborda o inerente ao tipo penal.
+No que toca às consequências do crime. embora a defesa sustente ausência de fila para atendimento, o Tribunal, no âmbito da análise fático-probatória, concluiu pela existência de fila de espera para procedimentos cirúrgicos  em algumas hipóteses, com demora de anos  , o que inviabiliza a reversão desse quadro sem o reexame de provas.
+À vista disso, a conduta imputada teria alterado a ordem de atendimento da fila, beneficiando aqueles que dispunham de recursos financeiros em detrimento dos que não podiam arcar com custos, com prejuízo concreto a estes, que eram deslocados na fila, dificultando sobremaneira a realização dos procedimentos, quadro que demonstra consequências negativas além das ínsitas ao tipo.
+Nesse sentido:
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DO ART. 313-B DO CP. MODIFICAÇÃO DE SISTEMA DE REGULAÇÃO DO SUS. PEDIDO DE ABSOLVIÇÃO. SÚMULA 7/STJ. VALOR INDENIZATÓRIO MÍNIMO. DOSIMETRIA DA PENA. AGRAVO REGIMENTAL IMPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto pela defesa contra decisão monocrática que conheceu em parte e, nessa extensão, negou provimento a recurso especial criminal, mantendo acórdão que confirmou condenação pelo crime do art. 313-B do Código Penal.
+2. Segundo o acórdão recorrido, o réu invadiu a ferramenta de regulação utilizada para coordenar procedimentos no SUS, utilizando credenciais de médicos, e modificou, sem autorização, a ordem da fila de pacientes já cadastrados, o que desorganizou a gestão das filas, prolongou o tempo de espera de pacientes do SUS e ultrapassou o teto de gastos previsto para o município.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se, à luz da Súmula 7/STJ, é possível reexaminar o acervo fático-probatório para afastar a condenação pelo art. 313-B do CP, a existência de dano à Administração Pública e a ocorrência de prejuízo aos pacientes do SUS, bem como para excluir a agravante do art. 61, II, "h", do CP, a majorante do parágrafo único do art. 313-B do CP, a indenização mínima por danos morais coletivos e o quantum indenizatório fixado.
+4. Há, ainda, questões específicas em discussão: (i) saber se a ausência de inserção de informações falsas ou de cadastro de pacientes inexistentes afasta a tipicidade do delito previsto no art. 313-B do CP; (ii) saber se a valoração negativa da culpabilidade por (premeditação) e das consequências do crime, na pena-base, está adequadamente fundamentada.
+III. RAZÕES DE DECIDIR
+5. A Corte local, com base em prova técnica, testemunhal e em confissão judicial, entendeu que o réu, mediante uso não autorizado de credenciais de médicos reguladores, invadiu e modificou o sistema de informações do SUS (SIGUS), desorganizando a fila de procedimentos, o que gerou prejuízos à Administração Pública e aos pacientes. A revisão dessa moldura fática demandaria reexame de provas, vedado pela Súmula 7/STJ.
+6. A alegação defensiva de que houve mero "manejo" de dados, sem inserção de informações falsas, não afasta a tipicidade, porque a falsidade não constitui elementar do tipo do art. 313-B do CP, que se consuma com a modificação indevida do sistema de informações, sendo a exigência de falsidade própria do art. 313-A do CP.
+7. A incidência da agravante do art. 61, II, "h", do CP se mantém, pois o Tribunal local reconheceu que a conduta de burlar a fila do SUS prejudicou diretamente pessoas enfermas que aguardavam procedimentos de alta complexidade, tendo sido preteridos pacientes em situação clínica mais grave, circunstância fática que não pode ser revista na via especial.
+8. A causa de aumento prevista no parágrafo único do art. 313-B do CP foi corretamente aplicada, porque a instância ordinária concluiu que as autorizações indevidas de procedimentos ultrapassaram o teto de gastos do município e desorganizaram a prestação do serviço, configurando prejuízo à Administração Pública.
+9. A indenização mínima por danos morais coletivos encontra respaldo no art. 387, IV, do CPP, conforme jurisprudência do STF e do STJ.
+10. A existência ou não de dano moral coletivo, assim como sua extensão, foi afirmada pelo Tribunal local com base em elementos fáticos que demonstram grave desrespeito a princípios de observância obrigatória na Administração Pública e prejuízo à coletividade usuária do SUS; a ausência, no agravo regimental, de indicação de trecho do acórdão que negasse a ocorrência de dano impede o afastamento da indenização, incidindo a Súmula 7/STJ.
+11. A revisão, em recurso especial, do valor fixado a título de indenização mínima por danos morais (individuais ou coletivos) somente é admissível em hipóteses de manifesta desproporcionalidade, não configurada no arbitramento de R$ 300,00 por cada alteração indevida do sistema, montante fixado de forma motivada e proporcional. A capacidade de pagamento do réu deverá ser aferida em eventual execução.
+12. Na dosimetria, a valoração negativa da culpabilidade, na primeira fase, foi legitimamente fundada na premeditação do delito reconhecida pela Corte local, em consonância com o Tema Repetitivo 1.318/STJ.
+13. A valoração negativa das consequências do crime também foi adequada, pois o Tribunal destacou que a ingerência indevida na ferramenta do SUS ofendeu a garantia constitucional de acesso universal e igualitário à saúde, afetando grupo de pessoas em maior vulnerabilidade econômica, circunstância que excede os efeitos típicos do delito e, portanto, legitima o aumento da pena-base por esse vetor.
+14. Não há bis in idem entre a negativa das consequências do crime e a agravante do art. 61, II, "h", do CP, porque a exasperação da pena-base não se lastreou na condição de enfermidade das vítimas, já contemplada na agravante, mas na especial vulnerabilidade econômica da população prejudicada e na afetação de serviços públicos voltados à parcela mais hipossuficiente da sociedade.
+IV. DISPOSITIVO E TESE
+15. Resultado do Julgamento: Agravo regimental improvido, mantidas a condenação, a indenização por danos morais coletivos e a dosimetria da pena fixada pelas instâncias ordinárias.
+Tese de julgamento:
+1. A incidência da Súmula 7/STJ impede, em recurso especial, o reexame da prova.
+2. A falsidade de dados não é elementar típica do crime previsto no art. 313-B do Código Penal, bastando, para sua configuração, a modificação não autorizada de sistema de informações da Administração Pública.
+3. É cabível, no processo penal, a fixação de indenização mínima por danos morais coletivos, nos termos do art. 387, IV, do CPP.
+4. A revisão, em recurso especial, do valor fixado a título de indenização mínima por danos morais somente se admite em hipóteses de manifesta desproporcionalidade.
+5. A premeditação do delito autoriza a valoração negativa da circunstância da culpabilidade prevista no art. 59 do Código Penal, conforme Tema Repetitivo 1.318/STJ.
+Dispositivos relevantes citados: CP, arts. 59, 61, II, "h", 313-A e 313-B (parágrafo único); CPP, art. 387, IV.
+Jurisprudência relevante citada: STF, AP 1.025/DF, Plenário, j.
+01.06.2023; STJ, REsp 2.018.442/RJ, Min. Ribeiro Dantas, Quinta Turma, j. 12.12.2023, DJe 19.12.2023; STJ, AgRg no AREsp 2.698.622/DF, Min. Joel Ilan Paciornik, Quinta Turma, j. 05.08.2025, DJEN 14.08.2025; STJ, REsp 2.128.535/SP, AgRg, Min. Reynaldo Soares da Fonseca, Quinta Turma, j. 06.08.2024, DJe 13.08.2024; STJ, AgRg no REsp 1.964.100/SC, Min. Ribeiro Dantas, Quinta Turma, j.
+22.03.2022, DJe 25.03.2022; STJ, REsp 2.174.028/AL, Tema Repetitivo 1.318, Min. Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Terceira Seção, j. 08.05.2025, DJEN 13.05.2025; STJ, AgRg no REsp 2.000.925/RS, Min. Joel Ilan Paciornik, Quinta Turma, j.
+15.04.2024, DJe 25.04.2024
+(AgRg no AREsp n. 2.839.487/RN, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/4/2026, DJEN de 22/4/2026.)
+Ante o exposto, reconsidero em p arte a decisão de e-STJ fls. 7.152/7.158, para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
