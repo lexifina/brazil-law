@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de recurso especial interposto por FEDERAL DE SEGUROS S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de Sergipe assim ementado (fls. 566-567):
+Processual Civil - Ação DE EXIBIÇÃO DE DOCUMENTOS - TRÂNSITO EM JULGADO DE DECISÃO QUE DETERMINOU QUE É DEVER DA SEGURADORA EXIBIR OS DOCUMENTOS RELACIONADOS AO CONTRATO REALIZADO ENTRE AS PARTES - APLICABILIDADE DOS ARTIGOS 396, 398 E 399 DO NOVO CÓDIGO PROCESSUAL CIVIL - RETORNO DOS AUTOS PARA JULGAMENTO - Por meio de decisão que deu parcial provimento ao REsp nº 1.737.094/SE, cujo trânsito em julgado ocorreu em 18/06/2018, o STJ determinou o retorno dos autos para que esta Corte se manifeste sobre o cabimento, ou não, de multa cominatória na ação de exibição de documentos. - FIXAÇÃO DE ASTREINTES - AÇÃO AJUIZADA APÓS A VIGÊNCIA DO NOVO CÓDIGO DE PROCESSO CIVIL - POSSIBILIDADE - INTELIGÊNCIA DO ART. 400, PARÁGRAFO ÚNICO DO NCPC - SUPERAÇÃO DA SÚMULA 372 DO STJ - RECURSO CONHECIDO E IMPROVIDO - UNANIMIDADE.
+Os embargos de declaração opostos foram conhecidos e improvidos (fls. 395-398).
+A parte recorrente alega violação dos arts. 359 do CPC/1973 e 400 do CPC/2015, afirmando a impossibilidade de presunção de veracidade em ação cautelar de exibição de documentos e o descabimento de multa cominatória nesse rito, sustentando que a medida adequada seria a busca e apreensão do documento (fls. 577-581).
+Sustenta ofensa ao art. 400 do CPC/2015, ao argumento de que, em ações preparatórias de exibição, não cabe a cominação de astreintes nem a vinculação do juízo da causa principal por presunção sobre o teor do documento, devendo-se, em caso de descumprimento, lançar mão da busca e apreensão (fls. 579-581).
+Aponta violação do art. 359 do CPC/1973, reiterando que a confissão ficta quanto aos fatos não se aplica à cautelar exibitória por inexistir ação principal em curso (fls. 577-580).
+Argumenta que a Súmula n. 372/STJ impede a cominação de multa diária na exibição, incidental ou autônoma, de documento relativo a direito disponível, e que o art. 403 do CPC prevê a busca e apreensão como técnica adequada de efetivação (fls. 579-581).
+Contrarrazões apresentadas às fls. 587-591.
+Sobreveio o juízo de admissibilidade positivo na instância de origem (fls. 605-609).
+É, no essencial, o relatório.
+O recurso especial tem origem em ação cautelar de exibição de documentos ajuizada por J. R. P. A. contra Federal de Seguros S.A., visando à apresentação da apólice de seguro de vida do genitor do autor. O juízo de primeiro grau determinou a exibição em 48 horas, sob pena de multa diária de R$ 100,00, limitada a 90 dias, e condenou a requerida em custas (fls. 299-301).
+A apelação foi conhecida e desprovida (fls. 299-303).
+Em posterior julgamento, após retorno determinado pelo Superior Tribunal de Justiça para que o Tribunal local enfrentasse o cabimento das astreintes, o acórdão recorrido manteve a possibilidade de fixação de multa com base no art. 400, parágrafo único, do CPC/2015, afirmando superada a Súmula n. 372/STJ (fls. 566-568).
+Como se nota, o Tribunal de origem julgou o caso em dissonância com a jurisprudência do Superior Tribunal de Justiça.
+Isso porque no julgamento do REsp n. 1.763.462, sob o rito de recurso repetitivo, foi firmado o seguinte:
+(..) 2. Tese para os fins do art. 1.040 do CPC/2015: "Desde que prováveis a existência da relação jurídica entre as partes e de documento ou coisa que se pretende seja exibido, apurada em contraditório prévio, poderá o juiz, após tentativa de busca e apreensão ou outra medida coercitiva, determinar sua exibição sob pena de multa com base no art. 400, parágrafo único, do CPC/2015" (Tema 1000/STJ). (..)
+(REsp n. 1.763.462/MG, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 9/6/2021, DJe de 1/7/2021.)
+Como se nota da tese fixada, o arbitramento de multa cominatória só é possível após a tentativa de busca e apreensão ou outra medida coercitiva.
+No caso concreto, o acórdão impugnado manteve incólume a sentença, que assim resolveu a lide (fl. 208):
+Isto posto, julga este Juízo procedente o podido de exibição de documento, determinando a entrega do documento objeto da presente ação em 48 horas, sob pena de multa diária de RS100,00 (cem reais), limitada a 90 dias.
+No caso concreto, a multa foi fixada em sentença, no mesmo momento em que determinada a exibição, de modo que não se deliberou sobre a possibilidade de busca e apreensão, de outra medida coercitiva, tampouco a aplicação da sanção do caput do art. 400 do CPC, no sentido de admitir como verdadeiros os fatos que a parte pretendia provar por meio da exibição do documento.
+Assim, não tendo havido a tentativa de outras medidas coercitivas ou sub-rogatórias antes da aplicação da multa diária, está violado o entendimento vinculante do Superior Tribunal de Justiça, o que importa em nulidade da multa arbitrada.
+Ante o exposto, dou provimento ao recurso especial para decretar a nulidade da multa cominatória fixada no caso concreto e determinar o retorno dos autos ao Juízo de primeira instância para observar a subsidiariedade da multa cominatória conforme inteligência do Tema Repetitivo acima transcrito.
+Publique-se. Intime-se.
+EMENTA
