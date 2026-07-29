@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual SETPAR MIRASSOL EMPREENDIMENTOS IMOBILIARIOS SPE LTDA se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 191):
+APELAÇÃO Ação anulatória IPTU Exercícios de 2023 e 2024. Sentença de improcedência. Alegada destinação rural do imóvel à época dos fatos geradores. Não comprovação. Pretensão de anulação dos lançamentos amparada apenas em contrato de arrendamento, rescindido em 10.5.2023. Prova insuficiente da efetiva exploração agropastoril do terreno. Autora que, dedicando-se ao ramo de incorporação imobiliária, requereu parcelamento do solo no ano de 2016. Suposta ausência dos melhoramentos mínimos previstos no art. 32, §2º, do CTN não demonstrada. Recurso desprovido.
+Os embargos de declaração opostos foram rejeitados (fls. 201/203).
+A parte recorrente alega o seguinte:
+(1) violação dos arts. 32 do Código Tributário Nacional (CTN) e 15 do Decreto-Lei 57/1966, porquanto o acórdão recorrido teria mantido a cobrança de Imposto Predial e Territorial Urbano (IPTU) referente ao exercício de 2023 apesar da existência de contrato de arrendamento rural válido na data do fato gerador;
+(2) ofensa ao art. 927, III, do Código de Processo Civil (CPC), uma vez que o Tribunal de origem teria deixado de aplicar o Tema 174 do Superior Tribunal de Justiça (STJ), segundo o qual não incide IPTU, mas Imposto Territorial Rural (ITR), sobre imóvel localizado em área urbana quando comprovadamente utilizado em exploração extrativa, vegetal, agrícola, pecuária ou agroindustrial;
+(3) afronta ao art. 150, I, da Constituição Federal, pois a manutenção do lançamento de IPTU relativo ao exercício de 2023 configuraria cobrança sem fato gerador, diante da destinação rural do imóvel no momento da incidência tributária.
+Requer o provimento do recurso.
+A parte adversa apresentou contrarrazões (fls. 219/224).
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Na origem, trata-se de ação anulatória de débito fiscal ajuizada por SETPAR MIRASSOL EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA. visando à anulação dos lançamentos de IPTU referentes aos exercícios de 2023 e 2024. A controvérsia gira em torno da incidência de IPTU sobre imóvel situado em área urbana, especialmente quanto à alegada destinação rural do bem e à suficiência das provas da efetiva exploração agropastoril para afastar a tributação municipal.
+Nos exatos termos do acórdão recorrido, o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim se manifestou (fls. 192/193):
+Para verificar se a propriedade de determinado bem imóvel está sujeita à incidência de ITR ou IPTU, imprescindível a análise não só da sua localização, se em área rural ou urbana, critério adotado pelo Código Tributário Nacional, como também da destinação dada àquela propriedade, nos termos do artigo 15 do Decreto-lei nº 57/1966, cuja vigência foi reconhecida pelos Tribunais Superiores.
+Na hipótese, inexiste controvérsia a respeito da localização do imóvel, mas à sua destinação rural, de resto não comprovada.
+Conquanto tenha a autora apresentado cópia de contrato de arrendamento rural, correspondente a uma área de 15.756,47 m2, para "explorar atividade pastoril e plantio de grãos", que permaneceu vigente de 1.9.2021 até 10.5.2023 (fls. 47/51), quando foi rescindido, não houve prova efetiva da exploração da atividade no período tributado.
+Além da rescisão do contrato anteriormente à ocorrência do fato gerador do IPTU de 2024, nota-se que a autora, intimada a complementar a documentação, limitou-se a informar que não possuía contrato vigente para parte do lançamento impugnado (fls. 126), juntando apenas foto do suposto local do terreno.
+Importante destacar, outrossim, que a apelante tem, como objeto social, "incorporações imobiliárias, o desmembramento e loteamento de terrenos, especialmente para a exploração do empreendimento imobiliário" (fls. 30 cláusula 4ª do contrato social).
+E como bem anotado pelo Juízo:
+".. o Município de Mirassol demonstrou que o imóvel foi objeto de pedido de parcelamento do solo, apresentado pela própria autora, aprovado em 2016, fato que reforça a sua qualificação como imóvel urbano (fls. 83/100)".
+Quanto à alegada ausência dos melhoramentos mínimos, previstos no art. 32, §2º do CTN, não se desincumbiu a requerente do ônus da prova, nos termos do art. 373, inciso I, do Código de Processo Civil.
+O Tribunal de origem reconheceu que é legítima a incidência do IPTU sobre o imóvel, com base na análise do conjunto fático-probatório constante dos autos, especialmente pela insuficiência da cópia do contrato de arrendamento e de fotos para comprovar a efetiva exploração rural, aliado ao fato de a recorrente atuar no ramo de incorporação imobiliária e ter formulado pedido de parcelamento do solo urbano aprovado pelo Município.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Em relação à alegada afronta ao art. 150, I, da Constituição Federal (CF), é incabível o recurso especial quanto ao ponto por se tratar de matéria a ser veiculada em recurso extraordinário, cuja apreciação é da competência do Supremo Tribunal Federal; o contrário implicaria usurpação de competência (art. 102, III, da CF).
+Nessa mesma linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INCORRÊNCIA. REINTERPRETAÇÃO DO ALCANCE DA TESE FIRMADA EM RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL RECONHECIDA. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DO STF. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+IV - Não compete a este Superior Tribunal a análise de suposta violação a dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal. Precedentes.
+ ..
+VI - Agravo Interno improvido.
+(AgInt no REsp n. 1.836.774/PR, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 10/8/2020, DJe de 14/8/2020, sem destaques no original.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PENSÃO MILITAR. FILHA. REQUISITOS DO ART. 7º DA LEI 3.765/60 C/C LEI 8.216/91. ALEGADA OMISSÃO ACERCA DE VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. AFERIÇÃO. IMPOSSIBILIDADE DE ANÁLISE, EM SEDE DE RECURSO ESPECIAL. ALEGADA OFENSA AO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA RECEBIDO INTERPRETAÇÃO DIVERGENTE DAQUELA FIRMADA POR OUTROS TRIBUNAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. IMPOSSIBILIDADE DE APRECIAÇÃO DE MATÉRIA CONSTITUCIONAL, EM SEDE DE RECURSO ESPECIAL, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+V. Do exame do julgado combatido e das razões recursais, verifica-se que a solução da controvérsia possui enfoque eminentemente constitucional. Dessa forma, compete ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, no mérito, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal. Precedentes do STJ (AgRg no AREsp 584.240/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 03/12/2014; AgRg no REsp 1.473.025/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 03/12/2014).
+VI. Agravo interno improvido.
+(AgInt no REsp n. 1.377.313/CE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 18/4/2017, DJe de 26/4/2017, sem destaques no original.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor já arbitrado dos honorários sucumbenciais, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo, bem como os termos do art. 98, § 3º, desse diploma legal.
+Publique-se. Intimem-se.
+EMENTA
