@@ -1,0 +1,78 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Distrito Federal e Territórios, ementado nos seguintes termos:
+
+“DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. LITISCONSÓRCIO PASSIVO NECESSÁRIO. INEXISTÊNCIA. CONCURSO PÚBLICO PARA O CARGO DE ESCRIVÃO DA POLÍCIA CIVIL DO DISTRITO FEDERAL. CANDIDATOS NEGROS APROVADOS DENTRO DAS VAGAS DA AMPLA CONCORRÊNCIA. EXCLUSÃO DA LISTA DE APROVADOS NAS VAGAS RESERVADAS. PRETERIÇÃO ILEGAL NAS NOMEAÇÕES. SEGURANÇA CONCEDIDA.
+I.Em mandado de segurança que tem por objeto a nomeação de candidatos considerados preteridos não são litisconsortes passivos necessários os demais candidatos aprovados no concurso público, presente o disposto no artigo 114 do Código de Processo Civil.
+II. Candidatos negros não podem ser preteridos na nomeação na hipótese em que, devido à aprovação dentro do número de vagas da ampla concorrência, são excluídos da lista de aprovados nas vagas reservadas.
+III. De acordo com a inteligência do artigo 4º da Lei Distrital 6.321/2019 e do artigo 4º do Decreto Distrital 42.951/2022, para efeito de nomeação, o candidato negro aprovado dentro das vagas da ampla concorrência não perde a sua classificação dentro das vagas reservadas.
+IV. Consoante a tese fixada pelo Supremo Tribunal Federal no Tema 161 da Repercussão Geral, “o candidato aprovado em concurso público dentro do número de vagas previsto no edital possui direito subjetivo à nomeação.”
+V. Ordem concedida”. (eDOC 103 – ID: 36e7cf2d)
+
+No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 2º, 5º, II e LIV, 37, caput, I e II, 60, § 4º, III, e 97, do texto constitucional. (eDOC 177 – ID: 80d5b566)
+Nas razões recusais, insurge-se contra acórdão que concedeu segurança em favor de candidatos aprovados em concurso público para o cargo de Escrivão da Polícia Civil do Distrito Federal, assegurando-lhes nomeação pelas vagas reservadas a candidatos negros, ainda que aprovados dentro das vagas da ampla concorrência.
+Afirma-se que “foi afastada a aplicação da expressa previsão contida no art. 3º, §1º, da Lei nº 12.990/2014, sem a sua declaração de inconstitucionalidade, que estipula expressamente que os candidatos negros aprovados dentro do número de vagas oferecidas para ampla concorrência não devem ser computados para efeito do preenchimento das vagas reservadas aos cotistas, inclusive com o intuito de aumentar a participação de negros empossados no concurso”. (eDOC 177 – ID: 80d5b566, p. 7)
+Aduz-se que “[a] Administração alinhou suas regras editalícias nos exatos termos da lei, de modo que não fez outra conduta senão obedecer ao princípio da legalidade, conforme é sua obrigação constitucional. Desse modo, a revisão de ato legal da Administração pelo Judiciário enseja a violação ao princípio da separação de poderes (art. 2º da CF/88)”. (eDOC 177 – ID: 80d5b566, p. 12)
+É o relatório.
+Decido.
+Na hipótese, o Distrito Federal sustenta que o Tribunal de origem teria afastado a incidência do art. 3º da Lei nº 12.990/2014 sem observância do art. 97 da Constituição Federal, por não ter submetido a questão ao órgão competente para o controle de constitucionalidade, em alegada afronta à cláusula de reserva de plenário. No ponto, aduz ter havido violação à Súmula Vinculante 10 do STF, a qual reforça o comando previsto no art. 97 da Constituição ao estabelecer que: “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de Tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do Poder Público, afasta sua incidência, no todo ou em parte”.
+Não lhe assiste razão.
+Conforme se extrai do acórdão recorrido, o Conselho Especial do Tribunal de Justiça do Distrito Federal e dos Territórios limitou-se a interpretar a legislação aplicável à espécie, concluindo que a política de ações afirmativas instituída pela Lei nº 12.990/2014 e reproduzida pela Lei Distrital nº 6.321/2019 não poderia ser aplicada de modo a prejudicar os candidatos por ela beneficiados. Em nenhum momento houve declaração, explícita ou implícita, de inconstitucionalidade do art. 3º da Lei nº 12.990/2014 ou de qualquer outro dispositivo normativo.
+No ponto, colho trecho do acórdão recorrido:
+
+“Houve violação a direito líquido e certo dos Impetrantes.
+De acordo com os itens 6.2.11 e 6.2.12 do EDITAL Nº 1 – PCDF, de 3 de dezembro de 2019, que rege o CONCURSO PÚBLICO PARA O PROVIMENTO DE VAGAS NO CARGO DE ESCRIVÃO DE POLÍCIA DA CARREIRA DE POLÍCIA CIVIL DO DISTRITO FEDERAL, os candidatos negros aprovados dentro do número de vagas da ampla concorrência não preencherão as vagas reservadas. Confira-se:
+“6 DAS VAGAS DESTINADAS AOS CANDIDATOS NEGROS
+[...]
+6.2.11 Os candidatos negros concorrerão concomitantemente às vagas reservadas e às vagas destinadas à ampla concorrência, de acordo com a sua classificação no concurso.
+6.2.12 Os candidatos negros aprovados dentro do número de vagas oferecido à ampla concorrência não preencherão as vagas reservadas a candidatos negros, sendo, dessa forma, automaticamente excluídos da lista de candidatos negros aprovados.”
+Os Impetrantes foram aprovados dentro do número de vagas da ampla concorrência e por isso foram excluídos da lista de aprovados nas vagas reservadas, conforme informado pela autoridade coatora (fl. 4 ID 56042066):
+“Registre-se que havia 225 (duzentas e vinte e cinco) vagas para a ampla concorrência e 60 (sessenta) vagas reservadas aos candidatos negros, sendo que o candidato MURILO DURÃO obteve classificação 125 na lista de ampla concorrência, o candidato JEFERSON JESUS classificou-se na 133ª posição e o candidato JOSÉ LIDBERG obteve a classificação180 naquela lista.
+Como consta da Exordial, 15 (quinze) vagas de candidatos negros não foram preenchidas. Por esse motivo, as vagas de ampla concorrência mudaram de 225 (duzentas e vinte e cinco) para 240 (duzentas e quarenta), englobando também o Impetrante MAURÍCIO BRAYAN, classificado na 235ª posição na ampla concorrência.
+Verifica-se, portanto, que todos os Impetrantes foram aprovados dentro do número de vagas oferecido para a ampla concorrência. Sendo assim, nos precisos termos do art. 3º, § 1º, da Lei nº 12.990, de 9 de junho de 2014, do art. 4º, § 1º, da Lei Distrital nº 6.321, de 10 de julho de 2019, foram excluídos da lista reservada aos candidatos negros para ocuparem vagas na lista de ampla concorrência.”
+A aplicação dessa regra editalícia em princípio está em consonância com o artigo 4º da Lei Distrital 6.321/2019, que tem a seguinte dicção:
+“Art. 4º As candidatas e os candidatos negros concorrem concomitantemente às vagas reservadas e às vagas destinadas à ampla concorrência, de acordo com a sua classificação no concurso.
+§ 1º As candidatas e os candidatos negros aprovados dentro do número de vagas oferecido para ampla concorrência não são computados para efeito do preenchimento das vagas reservadas.
+§ 2º Em caso de desistência de candidata ou candidato negro aprovado em vaga reservada, a vaga é preenchida pela candidata ou candidato negro posteriormente classificado.
+§ 3º Na hipótese de não haver número suficiente de candidatas e candidatos negros aprovados para ocupar as vagas reservadas, as vagas remanescentes são revertidas para a ampla concorrência e são preenchidas pelos demais candidatos aprovados, observada a ordem de classificação.”
+Mas é preciso ressalvar que candidatos negros não podem ser preteridos na nomeação na hipótese em que, devido à aprovação dentro do número de vagas da ampla concorrência, são “excluídos da lista de candidatos negros aprovados”. É o que estabelece expressamente o artigo 4º, § 1º, do Decreto Distrital 42.951/2022, que regulamentou a Lei Distrital 6.321/2019:
+“Art. 4º Os candidatos negros que optarem pela reserva de vagas de que trata este decreto concorrerão concomitantemente às vagas reservadas e às vagas destinadas à ampla concorrência, de acordo com a sua classificação no concurso público ou processo seletivo simplificado.
+§ 1º Os candidatos negros que forem aprovados nas vagas oferecidas para ampla concorrência de que trata o caput deste artigo devem ser classificados nestas vagas, mesmo que tenham optado por concorrer às vagas destinadas à ação afirmativa de que trata este Decreto, desde que não haja prejuízos à sua posição de classificação na lista de nomeações.”
+Parece evidente que as normas jurídicas voltadas a beneficiar candidatos negros não podem ser interpretadas em seu prejuízo, o que ocorreria caso os candidatos aprovados dentro do número de vagas da ampla concorrência pudessem ser preteridos na nomeação por candidatos com rendimento inferior no concurso público.
+A fim de elucidar se os Impetrantes terminaram preteridos por terem sido aprovados dentro do número de vagas da ampla concorrência, determinou-se na decisão de ID 55721523:
+“Adite-se os ofícios encaminhados às autoridades coatoras para que informem, com clareza e precisão: a) qual a posição que cada Impetrante ocuparia na lista de candidatos negros, caso não tivessem sido remanejados para a lista de ampla concorrência; b) se algum candidato que concorreu às vagas reservadas a negros, com pontuação final inferior à dos Impetrantes, já foi nomeado; e c) se os Impetrantes já teriam sido nomeados, nas vagas reservadas a candidatos negros, caso não tivesse migrado para a lista de aprovados na ampla concorrência.”
+O CEBRASPE informou a posição de cada um dos Impetrantes na lista de ampla concorrência e na “lista de pessoas consideradas negras” (ID 56872594):
+“O candidato Jeferson Jesus de Aragão obteve a nota final no concurso de 104,47 pontos, e restou classificado na 219º posição na lista de ampla concorrência e a 8ª posição pela lista de pessoas consideradas negras.
+O candidato Maurício Brayan Cruz Alves Martins obteve a nota final no concurso de 104,89 pontos, e restou classificado na 203º posição na lista de ampla concorrência e a 7ª posição pela lista de pessoas consideradas negras.
+O candidato José Lidberg Rocha Lima Filho obteve a nota final no concurso de 105,47 pontos, e restou classificado na 180º posição na lista de ampla concorrência e a 5ª posição pela lista de pessoas consideradas negras.
+Por fim, o candidato Murilo Santos Durão obteve a nota final no concurso de 104,90 pontos, e restou classificado na 202º posição na lista de ampla concorrência e a 6ª posição pela lista de pessoas consideradas negras.”
+O Impetrantes, classificados na lista de aprovados às vagas reservadas na 5ª, 6ª, 7ª e 8ª posições, ainda não foram nomeados porque migraram para a lista de aprovados na ampla concorrência, valendo destacar que, segundo as nomeações publicadas na edição 242 do Diário Oficial do Distrito Federal,de 28/12/2023, já foram nomeados os 20 primeiros candidatos aprovados “que se declararam negros”.
+Portanto, a interpretação e a aplicação das normas do edital terminaram por acarretar grave distorção que acarretou dano injustificável aos Impetrantes, em clara dissonância com a legislação de regência, em especial o § 1º do artigo 4º do Decreto Distrital 42.951/2022, de acordo com o qual a classificação dos candidatos negros nas vagas da ampla concorrência, por conta do seu bom desempenho no concurso público, não pode prejudicar a “sua posição de classificação na lista de nomeações”.
+Para efeito de nomeação, o candidato negro aprovado dentro das vagas da ampla concorrência não pode perder a sua classificação dentro das vagas reservadas. Atente-se para o contrassenso: candidatos negros inseridos na lista de classificados nas vagas da ampla concorrência perdem a sua classificação dentre os aprovados nas vagas reservadas e, por via de consequência, são preteridos na ordem das nomeações.
+A única interpretação que se coaduna com o propósito da política pública afirmativa instaurada pela Lei 12.990/2014 é no sentido de que o candidato negro deve ser nomeado com base na melhor classificação obtida no concurso público. Sobre o tema, vale colacionar os seguintes julgados:
+(...)
+Se os Impetrantes foram aprovados dentro das vagas reservadas e efetivamente preteridos na nomeação por terem sido incluídos na lista de classificados nas vagas da ampla concorrência, emerge insofismável o seu direito líquido e certo à nomeação, nos termos do artigo 37, inciso IV, da Constituição da República, e presente a tese fixada pelo Supremo Tribunal Federal no Tema 161 da Repercussão Geral: “O candidato aprovado em concurso público dentro do número de vagas previsto no edital possui direito subjetivo à nomeação.”
+ISTO POSTO, concedo a segurança para determinar a nomeação dos Impetrantes no cargo de Escrivão de Polícia da Carreira de Polícia Civil do Distrito Federal - PCDF, nos termos da fundamentação.
+(...)”. (eDOC 103 – ID: 36e7cf2d, p. 7-13; grifos nossos)
+
+Posteriormente, por ocasião do julgamento dos embargos de declaração, o relator assentou o seguinte em seu voto:
+
+“Também não há omissão quanto à Lei 12.990/2014, sendo certo que o artigo 4º, caput e § 1º, da Lei Distrital 6.321/2019, incorpora ao seu conteúdo material, pela técnica remissiva, a norma contida no artigo 3º, caput e § 1º, daquele diploma legal. Confira-se:
+“Lei 12.990/2014
+Art. 3º Os candidatos negros concorrerão concomitantemente às vagas reservadas e às vagas destinadas à ampla concorrência, de acordo com a sua classificação no concurso.
+§ 1º Os candidatos negros aprovados dentro do número de vagas oferecido para ampla concorrência não serão computados para efeito do preenchimento das vagas reservadas.
+Lei Distrital 6.321/2019
+“Art. 4º As candidatas e os candidatos negros concorrem concomitantemente às vagas reservadas e às vagas destinadas à ampla concorrência, de acordo com a sua classificação no concurso.
+§ 1º As candidatas e os candidatos negros aprovados dentro do número de vagas oferecido para ampla concorrência não são computados para efeito do preenchimento das vagas reservadas.”
+Sob a ótica finalista, vê-se que o acórdão embargado concluiu, de forma clara e fundamentada, que a interpretação da Lei Distrital 6.321/2019 não pode prescindir da valorização do seu aspecto teleológico. Colhe-se, a propósito, do voto-condutor do acórdão:
+(...)
+Dentro desse contexto, deve prevalecer o vetor teleológico que prestigia o intuito da lei de assegurar àqueles que estão material e substancialmente sob a sua alçada protetiva o acesso diferenciado ao serviço público, por meio da política de reserva de 20% das vagas oferecidas nos concursos. A propósito dessa hermenêutica, anota Carlos Maximiliano:
+(...)”. (eDOC 158 – ID: 489cb20e, p. 7-12)
+
+Como se vê, o Conselho Especial do TJDFT, mediante exame da legislação infraconstitucional pertinente, concluiu que o candidato negro deve ser nomeado com base na melhor classificação obtida no certame, adotando interpretação teleológica das normas de regência. Não houve, portanto, afastamento da incidência do art. 3º da Lei nº 12.990/2014 por fundamento de inconstitucionalidade, mas apenas definição de seu alcance normativo à luz da finalidade da política pública afirmativa instituída pelo legislador.
+Ainda que assim não fosse, cumpre registrar que  a decisão foi proferida pelo próprio Conselho Especial do TJDFT, órgão competente para apreciar questões de constitucionalidade no âmbito daquela Corte. Assim, revela-se inaplicável ao caso a Súmula Vinculante 10 do STF, que se dirige exclusivamente a decisões emanadas de órgãos fracionários de tribunal.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 29 de julho de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
