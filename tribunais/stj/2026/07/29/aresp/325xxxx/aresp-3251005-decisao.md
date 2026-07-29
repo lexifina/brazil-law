@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial na origem considerando ausência de afronta ao art. 1.022 do CPC.
+Segundo a parte agravante, a insurgência preenche os requisitos necessários ao conhecimento e provimento do recurso especial interposto em face do acórdão assim ementado (e-STJ fl. 69):
+agravo de instrumento - embargos à execução - decisão que aplicou o cdc e inverteu o ônus probatório - irresignação do banco - alegação de descabimento da inversão - não acolhimento - verificação, no caso, da hipossuficiência técnica da agravada - decisão mantida - recurso conhecido e desprovido
+Aduz o agravante, em recurso especial, omissão do tribunal de origem quanto à apreciação de matéria essencial para o deslinde do feito, violando o disposto no art. 1.022, II do CPC.
+Acrescenta a persistência de vícios de omissão nas decisões impugnadas a respeito da aplicabilidade da teoria finalista mitigada para incidência da legislação consumerista ao caso dos autos, em evidente ofensa ao art. 1.022, II do CPC.
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil (CPC), a parte agravada afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado.
+É o relatório.
+DECIDO.
+O agravo é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil, encontra-se formalmente em ordem e impugnou específica e suficientemente os óbices invocados pela decisão de inadmissibilidade na origem, razão pela qual passo ao exame do recurso especial, que foi interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal.
+A parte recorrente alega violação ao art. 1.022, II, do CPC.
+De saída, no que tange a alegação de afronta aos artigos 1.022 e 489 do Código de Processo Civil, a ofensa ao art. 1.022, II, do Código de Processo Civil se caracteriza quando o órgão julgador, provocado por meio de embargos de declaração, deixa de suprir omissão sobre ponto relevante da controvérsia, cuja análise é indispensável à adequada prestação jurisdicional.
+De igual modo, o art. 489, §1º, IV, do CPC impõe um dever de fundamentação qualificada, estabelecendo que não se considera fundamentada a decisão judicial que não enfrenta todos os argumentos deduzidos pelas partes capazes, em tese, de infirmar a conclusão adotada.
+Esses dispositivos visam assegurar que o pronunciamento judicial seja efetivamente resolutivo, transparente e coerente, permitindo o controle pelas instâncias superiores e garantindo a observância ao devido processo legal substancial.
+Certo é que "Afasta-se a ofensa aos arts. 489 e 1.022 do CPC/2015, pois não se constatam omissão, obscuridade ou contradição nos acórdãos recorridos capazes de torná-los nulos. O colegiado originário apreciou a demanda de forma clara e precisa, deixando bem delineados os fundamentos dos julgados. " (AgInt no AREsp n. 2.441.987/DF, relator Ministro Humberto Martins, Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025.)
+Efetivamente, compulsados os autos, colhe-se que a Corte de origem analisou e rebateu, um a um, os argumentos levantados, sendo certo que a ausência de menção a um outro argumento invocado pela defesa não macula o comando decisório se, bem fundamentado, apresenta razões capazes de se sustentar por si.
+A leitura do acórdão da apelação e do julgado integrativo evidencia que o Tribunal estadual enfrentou adequadamente as questões essenciais à solução da controvérsia: justificou a mitigação da teoria finalista para aplicação do Código de Defesa do Consumidor, por não se enquadrar propriamente no critério finalista. Demonstrando que a Agravada é consumidora final desse "produto" oferecido pelo Banco-agravante, nos termos do art. 2º e do art. 3º, caput, e §2º, do mesmo diploma legal; reconheceu a inversão do ônus da prova, nos termos do art. 6º, VIII, do CDC, diante da hipossuficiência técnica da embargante, ora agravada, frente à instituição financeira.
+Assim, "Não procede a arguição de ofensa ao 1.022 do CPC, quando o Tribunal Estadual se pronuncia, de forma motivada e suficiente, sobre os pontos relevantes e necessários ao deslinde da controvérsia." (AgInt no REsp n. 1.899.000/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023) .
+Ressalte-se que não se pode confundir decisão desfavorável aos interesses da parte com negativa de prestação jurisdicional, tampouco fundamentação concisa com ausência de fundamentação.
+Nesse sentido, destaca-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ART. 1.022 DO CPC. INEXISTÊNCIA. MULTA DIÁRIA. REVISÃO DA NECESSIDADE E DO VALOR FIXADO DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ.
+1. "Não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022).
+(AgInt no AREsp n. 2.746.371/PE, relator Ministro Humberto Martins, Terceira Turma, julgado em 17/3/2025, DJEN de 20/3/2025.)
+Portanto, constatada a pronúncia expressa e suficiente acerca dos temas indicados como omissos, a questão do direito aplicado é matéria relativa ao mérito recursal, não se podendo cogitar, no presente feito, em prestação jurisdicional defeituosa.
+Ante o exposto, conheço agravo para conhecer e negar provimento ao recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do Código Processo Civil, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória.
+Publique-se. Intimem-se.
+ EMENTA
