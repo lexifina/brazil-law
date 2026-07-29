@@ -1,0 +1,37 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+
+“APELAÇÃO CÍVEL. DIREITO PROCESSUAL CIVIL. AÇÃO DE CONHECIMENTO. EXTINÇÃO DO PRIMEIRO PROCESSO POR CARÊNCIA DE AÇÃO PELA AUSÊNCIA DE INTERESSE PROCESSUAL. COISA JULGADA FORMAL. REPROPOSITURA DA AÇÃO CONDICIONADA AO SANEAMENTO DO VÍCIO QUE LEVOU À EXTINÇÃO ANTERIOR. § 1º, DO ART. 486, DO CÓDIGO DE PROCESSO CIVIL. VÍCIO NÃO SANADO. SENTENÇA MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO”. (eDOC 24)
+No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 1º, III, 5º, V, X. LV, LVI e LX, e 93, IX, do texto constitucional.
+Nas razões recursais (eDOC 32), alega-se que teria havido comunicação formal e inequívoca à recorrida (veículo de imprensa - Correio Brasiliense), com seu efetivo conhecimento do conteúdo, a qual poderia suprir, mediante interpretação extensiva, a exigência do art. 3º da Lei nº 13.188/2015. (p. 93)
+Sustenta-se que “nosso ordenamento não permite que um direito deixe de ser assegurado por falta de norma legal possivelmente incongruenta, sendo rasa a declaração de ser inaplicável o direito de resposta e retração de matéria jornalística por falta de correta solicitação (realização comunicação digital formal), pois, da mesma forma que foi realizada com o recorrido, fora realizada e com boa-fé concedida por outros meios de comunicação, conforme comprovado”. (p. 94)
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Código de Processo Civil e Lei 13.105/2015) e o conjunto probatório constante dos autos, consignou que não haveria interesse jurídico por parte dos autores, por falta do pressuposto processual consistente na prévia notificação ao veículo de comunicação social. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+
+“Já a presente ação trata-se de mera repetição daquela anteriormente extinta (autos n.0720535- 65.2022.8.07.0001), sem resolução de mérito, por ausência de interesse processual.
+Como se sabe, a sentença de extinção do processo, sem resolução de mérito, faz apenas coisa julgada formal, de sorte que, em regra, não impede a reiteração de demanda, de acordo com o disposto no art. 486, caput, do Código de Processo Civil.
+Todavia, nos termos do que preconiza o § 1º, do art. 486, do Código de Processo Civil, excepcionalmente, no caso de extinção por litispendência, indeferimento da inicial, falta de pressupostos processuais e de condições da ação (interesse e legitimidade) e existência de compromisso arbitral, a repropositura da ação está condicionada ao saneamento do vício que levou à extinção anterior.
+É o caso dos autos.
+Com efeito, a presente ação foi proposta sem que os autores corrigissem o vício apontado na sentença proferida no nos autos 0720535-65.2022.8.07.0001 (fundamentação acima transcrita), qual seja, ausência de notificação prevista no art. 3º, da Lei n. 13.188/2015.
+Assim, resta claro que incide na hipótese o disposto no art. 486, § 1º, do Código de Processo Civil, eis que permanece o mesmo vício que ensejou a extinção anterior, inexistência de interesse processual.
+Nota-se que a regra estabelecida no § 1º, do art. 486, do Código de Processo Civil, veio corrigir a lacuna no antigo Código de Processo Civil, que não apresentava nenhum impedimento para a propositura de nova ação, o que permitia a parte propor a mesma demanda por diversas vezes.
+Com o novo regramento, a parte fica condicionada ao saneamento do vício para propositura de nova demanda, não podendo ajuizá-la sem antes fazer a correção, sob pena de burla da primeira decisão judicial.
+Cabe salientar, como bem disse o Juízo de origem ‘os autores distribuíram livremente nova ação, buscando a alteração, em outro feito, de sentença não impugnada pela adequada via processual’.
+Nessa linha de raciocínio, registro que não podem os apelantes querer que o Poder Judiciário dê interpretação ‘extensiva’ ao contido no caput, do art. 3º, da Lei Federal n. 13.188/2015, vindo a lhes favorecer, corrigindo um vício que caberia a eles sanar antes da propositura da nova ação”. (eDOC 24, p. 9)
+
+A tese recursal de que a comunicação havida entre as partes satisfaria as prescrições do art. 3º da Lei 13.188/2015 (O direito de resposta ou retificação deve ser exercido no prazo decadencial de 60 dias, contado da data de cada divulgação, publicação ou transmissão da matéria ofensiva, mediante correspondência com aviso de recebimento encaminhada diretamente ao veículo de comunicação social ou, inexistindo pessoa jurídica constituída, a quem por ele responda, independentemente de quem seja o responsável intelectual pelo agravo) restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+Além disso, adotar esse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal. Confiram-se, a propósito, os seguintes julgados:
+
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL E DIREITO CIVIL. DIREITO DE RESPOSTA. REANÁLISE DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL NÃO PROVIDO. 1. A reanálise do conteúdo da carta de resposta e a sua apreciação à luz da Lei de Imprensa demandam incursão em matéria fática e reanálise de legislação infraconstitucional, o que não se admite na via estreita do recurso extraordinário. 2. Agravo regimental a que se nega provimento”. (ARE 766.212 AgR-segundo, rel. Edson Fachin, Primeira Turma, DJe 12.4.2016)
+
+“Direito Administrativo. Agravo interno em recurso extraordinário com agravo. Anulação de infração de trânsito. Ausência de comprovação da efetiva notificação do autor. Ônus da prova. Matéria infraconstitucional. Reexame de fatos e provas”. (ARE 1.501.188 AgR, rel. Luís Roberto Barroso (Presidente), Tribunal Pleno, DJe 2.9.2024)
+
+“Direito Processual Civil e Administrativo. Agravo regimental no recurso extraordinário com agravo. Recurso extraordinário. Concurso público. Convocação de candidato. Notificação eletrônica. Reexame de provas e cláusulas editalícias. Súmulas 279 e 454 do STF. Impossibilidade. Agravo regimental não provido. (...) 4. A instância de origem apreciou o feito mediante interpretação das regras editalícias à situação fática retratada nos autos. A revisão do entendimento de que houve notificação válida e a consequente análise da suposta irregularidade na convocação demandaria o reexame de provas e das cláusulas editalícias do concurso público, procedimento inviável em sede de recurso extraordinário, ante a incidência dos óbices das Súmulas 279 e 454 do STF. IV. Dispositivo 5. Agravo regimental não provido”. (ARE 1.570.674 AgR, rel. Edson Fachin (Presidente), Tribunal Pleno, DJe 5.12.2025)
+Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do CPC c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente (eDOC 15, p. 1), observadas as disposições relativas à justiça gratuita.
+Publique-se.
+Brasília, 29 de julho de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
