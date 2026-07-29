@@ -1,0 +1,91 @@
+Decisão
+
+Trata-se de Reclamação, com pedido de medida liminar, ajuizada pela Petróleo Brasileiro S/A - Petrobras em face de Acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro (Processo 0017513-68.2026.8.19.0000), que teria desrespeitado a decisão proferida por esta CORTE no julgamento conjunto da ADC 58, Rel. Min. GILMAR MENDES, bem como negado vigência ao Enunciado da Súmula Vinculante 10.
+Na inicial, a parte autora expõe as seguintes alegações de fato e de direito (eDoc. 1):
+
+“O propósito da presente reclamação é a cassação do v. acórdão do TJRJ que, em cumprimento de sentença de valores vultosos, afastou a aplicação da Taxa SELIC às condenações impostas à Petrobras e restabeleceu a cumulação do IPCA com juros de 1% ao mês, apoiando-se em súmula local (Súmula nº 95 do TJRJ) e no art. 161, § 1º, do CTN, controvertendo matéria definida neste c. STF. O excesso de execução decorrente da aplicação inconstitucional do índice equivocado de atualização supera 255 milhões de reais, montante que poderá ser objeto de penhora a qualquer momento.
+[...]
+O cumprimento de sentença de origem (processo nº 0292463- 47.2015.8.19.0001) tem por objeto condenação definitiva imposta à Petrobras nos valores históricos de R$ 80.424.663,04 e R$ 17.082.150,96, “monetariamente corrigidos desde a data indicada no laudo pericial e acrescidos dos juros de mora desde a citação”, sem qualquer fixação de índice ou taxa. A exequente apresentou cálculos no cumprimento de sentença aplicando IPCA cumulado com juros de 1% ao mês e apurou como resultado final o montante de R$ 492.846.065,44. A Petrobras impugnou, demonstrando que, pela taxa legal (SELIC), o débito corresponde a R$ 237.805.497,53, valor integralmente depositado. A diferença em disputa supera, portanto, mais de 255 milhões de reais.
+[...]
+O acórdão ora reclamado, todavia, reformou a decisão e determinou que o cumprimento de sentença prossiga “com base nos critérios adotados pela exequente, consistentes na correção monetária pelo IPCA e em juros moratórios no percentual de 1% (um por cento) ao mês, consoante a Súmula nº 95 deste E. Tribunal de Justiça e o art. 161, § 1º, do Código Tributário Nacional”. O fez invocando a eficácia preclusiva da coisa julgada (art. 508 do CPC) e promovendo distinção em relação ao Tema 1368 do STJ.
+A afronta da decisão reclamada ao paradigma deste c. STF é dupla. Em primeiro lugar, o tribunal reclamado nega vigência ao art. 406 do Código Civil, perpetrando frontal violação à Súmula Vinculante n. 10, uma vez que deixou de aplicar ao caso dos autos o art. 406 do CC que determina a aplicação da taxa legal (SELIC), sem, no entanto, declarar a inconstitucionalidade material do dispositivo legal.
+A decisão reclamada também nega vigência ao art. 406 do CC, tal como interpretado constitucionalmente, com efeito vinculante, na ADC 58, substituindo a taxa legal definida por esta Suprema Corte por enunciado sumular local editado em 2005, concebido em contexto normativo e jurisprudencial há muito superado. Em segundo lugar, o critério imposto (IPCA cumulado com juros de 1% ao mês) produz exatamente a sobreposição de consectários que a ratio da ADC 58 veda, gerando remuneração do crédito em patamar muito superior ao da taxa legal e, com isso, enriquecimento sem causa em detrimento de sociedade de economia mista federal.”
+
+Ao final, postula, liminarmente seja “cassada a decisão de manutenção do bloqueio na conta bancária supramencionada por afronta a precedente da ADPF nº 664/ES”.
+
+É o relatório. Decido.
+
+A respeito do cabimento da reclamação para o Supremo Tribunal Federal, dispõem o art. 102, I, l, e o 103-A, caput e § 3º, ambos da Constituição Federal:
+
+“Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+I - processar e julgar, originariamente:
+[...]
+l) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;”
+
+“Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei.
+[...]
+§ 3º Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso.”
+
+Veja-se também o art. 988, I, II e III, do Código de Processo Civil:
+
+“Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+III garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;”
+
+A concessão das medidas liminares, nos termos dos artigos 300 e 989, II do Código de Processo Civil, somente poderá ocorrer quando houver a demonstração cabal de seus tradicionais requisitos, conhecidos como fumus boni iuris e periculum in mora (ADA PELLEGRINI GRINOVER. Teoria Geral do Processo. 28. ed. Editora Malheiros. p. 353), os quais, ao menos em sede de cognição sumária, fundada em juízo de probabilidade, estão presentes na hipótese.
+Dentre os paradigmas de controle apontados, invoca-se o definido pela CORTE no julgamento das ADC 58, ADC 59, da ADI 6.021 e da ADI 5.867, todas de Relatoria do Min. GILMAR MENDES. Tal julgamento foi assim ementado:
+
+“DIREITO CONSTITUCIONAL. DIREITO DO TRABALHO. AÇÕES DIRETAS DE INCONSTITUCIONALIDADE E AÇÕES DECLARATÓRIAS DE CONSTITUCIONALIDADE. ÍNDICES DE CORREÇÃO DOS DEPÓSITOS RECURSAIS E DOS DÉBITOS JUDICIAIS NA JUSTIÇA DO TRABALHO. ART. 879, §7º, E ART. 899, §4º, DA CLT, NA REDAÇÃO DADA PELA LEI 13. 467, DE 2017. ART. 39, CAPUT E §1º, DA LEI 8.177 DE 1991. POLÍTICA DE CORREÇÃO MONETÁRIA E TABELAMENTO DE JUROS. INSTITUCIONALIZAÇÃO DA TAXA REFERENCIAL (TR) COMO POLÍTICA DE DESINDEXAÇÃO DA ECONOMIA. TR COMO ÍNDICE DE CORREÇÃO MONETÁRIA. INCONSTITUCIONALIDADE. PRECEDENTES DO STF. APELO AO LEGISLADOR. AÇÕES DIRETAS DE INCONSTITUCIONALIDADE E AÇÕES DECLARATÓRIAS DE CONSTITUCIONALIDADE JULGADAS PARCIALMENTE PROCEDENTES, PARA CONFERIR INTERPRETAÇÃO CONFORME À CONSTITUIÇÃO AO ART. 879, §7º, E AO ART. 899, §4º, DA CLT, NA REDAÇÃO DADA PELA LEI 13.467, DE 2017. MODULAÇÃO DE EFEITOS.
+[...]
+2. O Supremo Tribunal Federal declarou a inconstitucionalidade do art. 1º-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009, decidindo que a TR seria insuficiente para a atualização monetária das dívidas do Poder Público, pois sua utilização violaria o direito de propriedade. Em relação aos débitos de natureza tributária, a quantificação dos juros moratórios segundo o índice de remuneração da caderneta de poupança foi reputada ofensiva à isonomia, pela discriminação em detrimento da parte processual privada (ADI 4.357, ADI 4.425, ADI 5.348 e RE 870.947-RG tema 810).
+3. A indevida utilização do IPCA-E pela jurisprudência do Tribunal Superior do Trabalho (TST) tornou-se confusa ao ponto de se imaginar que, diante da inaplicabilidade da TR, o uso daquele índice seria a única consequência possível. A solução da Corte Superior Trabalhista, todavia, lastreia-se em uma indevida equiparação da natureza do crédito trabalhista com o crédito assumido em face da Fazenda Pública, o qual está submetido a regime jurídico próprio da Lei 9.494/1997, com as alterações promovidas pela Lei 11.960/2009.
+4. A aplicação da TR na Justiça do Trabalho demanda análise específica, a partir das normas em vigor para a relação trabalhista. A partir da análise das repercussões econômicas da aplicação da lei, verifica-se que a TR se mostra inadequada, pelo menos no contexto da Consolidação das Leis Trabalhistas (CLT), como índice de atualização dos débitos trabalhistas.
+5. Confere-se interpretação conforme à Constituição ao art. 879, §7º, e ao art. 899, §4º, da CLT, na redação dada pela Lei 13.467, de 2017, definindo-se que, até que sobrevenha solução legislativa, deverão ser aplicados à atualização dos créditos decorrentes de condenação judicial e à correção dos depósitos recursais em contas judiciais na Justiça do Trabalho os mesmos índices de correção monetária e de juros vigentes para as hipóteses de condenações cíveis em geral (art. 406 do Código Civil), à exceção das dívidas da Fazenda Pública que possui regramento específico (art. 1º-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009), com a exegese conferida por esta Corte na ADI 4.357, ADI 4.425, ADI 5.348 e no RE 870.947-RG (tema 810).
+6.  Em relação à fase extrajudicial, ou seja, a que antecede o ajuizamento das ações trabalhistas, deverá ser utilizado como indexador o IPCA-E acumulado no período de janeiro a dezembro de 2000. A partir de janeiro de 2001, deverá ser  utilizado o IPCA-E mensal (IPCA-15/IBGE), em razão da extinção da UFIR como indexador, nos termos do art. 29, § 3º, da MP 1.973-67/2000. Além da indexação, serão aplicados os juros legais (art. 39, caput, da Lei 8.177, de 1991).
+7. Em relação à fase judicial, a atualização dos débitos judiciais deve ser efetuada pela taxa referencial do Sistema Especial de Liquidação e Custódia SELIC, considerando que ela incide como juros moratórios dos tributos federais (arts. 13 da Lei 9.065/95; 84 da Lei 8.981/95; 39, § 4º, da Lei 9.250/95; 61, § 3º, da Lei 9.430/96; e 30 da Lei 10.522/02). A incidência de juros moratórios com base na variação da taxa SELIC não pode ser cumulada com a aplicação de outros índices de atualização monetária, cumulação que representaria bis in idem.
+8. A fim de garantir segurança jurídica e isonomia na aplicação do novo entendimento, fixam-se os seguintes marcos para modulação dos efeitos da decisão: (i) são reputados válidos e não ensejarão qualquer rediscussão, em ação em curso ou em nova demanda, incluindo ação rescisória, todos os pagamentos realizados utilizando a TR (IPCA-E ou qualquer outro índice), no tempo e modo oportunos (de forma extrajudicial ou judicial, inclusive depósitos judiciais) e os juros de mora de 1% ao mês, assim como devem ser mantidas e executadas as sentenças transitadas em julgado que expressamente adotaram, na sua fundamentação ou no dispositivo, a TR (ou o IPCA-E) e os juros de mora de 1% ao mês; (ii) os processos em curso que estejam sobrestados na fase de conhecimento, independentemente de estarem com ou sem sentença, inclusive na fase recursal, devem ter aplicação, de forma retroativa, da taxa Selic (juros e correção monetária), sob pena de alegação futura de inexigibilidade de título judicial fundado em interpretação contrária ao posicionamento do STF (art. 525, §§ 12 e 14, ou art. 535, §§ 5º e 7º, do CPC.
+9. Os parâmetros fixados neste julgamento aplicam-se aos processos, ainda que transitados em julgado, em que a sentença não tenha consignado manifestação expressa quanto aos índices de correção monetária e taxa de juros (omissão expressa ou simples consideração de seguir os critérios legais).
+10. Ação Declaratória de Constitucionalidade e Ações Diretas de Inconstitucionalidade julgadas parcialmente procedentes.” (ADC 58, Relator GILMAR MENDES, Tribunal Pleno, DJe de 7/4/2021)
+
+Acrescento que tais diretrizes foram reafirmadas no julgamento do Tema 1.191-RG, RE 1.269.353, Rel. Min. LUIZ FUX, j. 16/12/2021, DJe de 23/2/2022, com o intuito de conferir as vantagens dos efeitos decorrentes da sistemática da repercussão geral.
+No caso em exame, o Acórdão proferido na ação originária, em sede de Apelação, reformou a sentença e impôs à ora Reclamante a obrigação de pagar os valores então reconhecidos, nos seguintes termos:
+
+“Por essas razões, voto no sentido de se dar parcial provimento ao recurso para condenar a ré a pagar, à autora, R$ 80.424.663,04 (oitenta milhões, quatrocentos e vinte e quatro mil, seiscentos e sessenta e três reais e quatro centavos), e R$ 17.082.150,96 (dezessete milhões, oitenta e dois mil, cento e cinquenta reais e noventa e seis centavos), monetariamente corrigidos desde a data indicada no laudo pericial e acrescidos dos juros de mora desde a citação. No tocante às verbas sucumbenciais, devem as partes arcar com o pagamento das despesas processuais à razão de 10% (dez por cento), para a autora, e 90%, para a ré, sendo, ainda, a autora condenada ao pagamento de honorários advocatícios no patamar de 10% (dez por cento) sobre 1/4 (um quarto) do valor da causa, devidamente corrigido desde a distribuição da ação, e a ré, ao pagamento de honorários advocatícios à razão de 10% (dez por cento) do valor total da condenação.” (eDoc. 11, fl. 24/25)
+
+Posteriormente, em sede de cumprimento de sentença, Tribunal reclamado deu provimento a Agravo de Instrumento da FDS Engenharia de Óleo e Gás S.A., ora Beneficiária, determinando o prosseguimento da execução com base na correção monetária pelo IPCA cumulada com juros moratórios de 1% ao mês, afastando os índices fixados na ADC 58, em acordão assim ementado:
+
+“DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. COISA JULGADA. EFICÁCIA PRECLUSIVA. IMPOSSIBILIDADE DE ALTERAÇÃO DOS CRITÉRIOS DE JUROS MORATÓRIOS E CORREÇÃO MONETÁRIA NA FASE EXECUTIVA. INAPLICABILIDADE DO TEMA 1.368 DO E. STJ. VEDAÇÃO À APLICAÇÃO RETROATIVA DA LEI Nº 14.905/2024. DESCABIMENTO DE RESSARCIMENTO DE SEGURO-GARANTIA. REFORMA DA R. DECISÃO AGRAVADA. RECURSO PROVIDO.
+I. CASO EM EXAME
+1. Agravo de instrumento interposto em face da r. decisão, proferida em cumprimento de sentença, que acolheu impugnação apresentada pela executada, para determinar a aplicação retroativa da Taxa SELIC como índice único de atualização monetária e juros moratórios, bem como condenou a exequente ao ressarcimento das despesas com contratação de seguro-garantia, não obstante o título executivo judicial, transitado em julgado, ter fixado incidência de correção monetária desde as datas indicadas no laudo pericial e juros de mora desde a citação.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é admissível, na fase de cumprimento de sentença, substituir os critérios de correção monetária e juros moratórios definidos no título executivo judicial, já transitado em julgado, pela Taxa SELIC; (ii) estabelecer se é cabível a condenação da exequente ao ressarcimento das despesas suportadas pela executada com a contratação de seguro-garantia.
+III. RAZÕES DE DECIDIR
+3. A eficácia preclusiva da coisa julgada impede a rediscussão, na fase de cumprimento de sentença, de matérias deduzidas ou dedutíveis na fase de conhecimento, nos termos do art. 508 do CPC;
+4. A executada suscitou, expressamente, na fase de conhecimento, a aplicação da Taxa SELIC como índice de juros moratórios e correção monetária, tendo a pretensão sido rejeitada por meio de decisão transitada em julgado;
+5. A substituição dos critérios definidos no título executivo judicial, por índice diverso na fase executiva, viola a segurança jurídica e a intangibilidade da coisa julgada;
+6. O Tema 1.368 do E. STJ aplica-se, apenas, às hipóteses em que o título judicial é omisso quanto aos índices de atualização, não incidindo quando a matéria foi previamente debatida e rejeitada no processo de conhecimento;
+7. A aplicação retroativa da Lei nº 14.905/2024 encontra óbice no art. 5º, XXXVI, da Constituição Federal, por violar o ato jurídico perfeito, o Direito adquirido e a coisa julgada;
+8. A incidência de juros moratórios à taxa de 1% ao mês decorre da aplicação da Súmula nº 95 do E. TJRJ e do art. 161, § 1º, do CTN, diante da ausência de fixação expressa de índice diverso no título;
+9. A conduta processual contraditória da executada, ao sustentar, inicialmente, o afastamento indevido da SELIC e, posteriormente, alegar omissão do título quanto ao índice aplicável, viola o princípio da boa-fé processual;
+10. As despesas com contratação de seguro-garantia possuem natureza extraprocessual e contratual, não configurando despesas processuais com fundamento no princípio da causalidade.
+IV. DISPOSITIVO E TESE
+Recurso provido.
+Tese de julgamento:
+1. É vedado alterar, na fase de cumprimento de sentença, os critérios de correção monetária e juros moratórios definidos em título executivo judicial transitado em julgado;
+2. O Tema 1.368 do E. STJ não se aplica quando a incidência da Taxa SELIC foi previamente suscitada e rejeitada na fase de conhecimento;
+3. A Lei nº 14.905/2024 não pode ser aplicada retroativamente para modificar critérios de atualização definidos em decisão transitada em julgado;
+4. As despesas com contratação de seguro-garantia não são ressarcíveis, por possuírem natureza extraprocessual e contratual.” (eDoc. 16)
+
+Nesse cenário, em juízo de cognição sumária, entendo que a decisão reclamada contraria o paradigma invocado, porquanto no título executivo houve simples remissão a critérios cabíveis, razão pela qual devem ser observados os parâmetros fixados na ADC 58, ADC 59, ADI 6021 e ADI 5867, todas de relatoria do Min. GILMAR MENDES.
+Nessas circunstâncias, em que a autoridade reclamada estabeleceu o prosseguimento do cumprimento de sentença com aplicação de correção monetária pelo IPCA e em juros moratórios no percentual de 1% (um por cento) ao mês, entendo ser o caso de suspender o ato reclamado.
+Diante do exposto, com fundamento no art. 13, VIII, CONCEDO A MEDIDA LIMINAR pleiteada e DETERMINO A SUSPENSÃO DA CUMPRIMENTO DE SENTENÇA, determinado no Processo 0017513-68.2026.8.19.0000 pelo Tribunal de Justiça do Estado do Rio de Janeiro.
+Intime-se com URGÊNCIA o Juízo Reclamado, encaminhando cópia da petição inicial e desta decisão, para que dê cumprimento ao ordenado, prestando, ainda, informações, nos termos do art. 989, I, do CPC.
+Oportunamente, solicite-se parecer à Procuradoria-Geral da República.
+Após, remetam-se os autos ao Ministro relator.
+Publique-se.
+Brasília, 29 de julho de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Vice-Presidente
+Documento assinado digitalmente
