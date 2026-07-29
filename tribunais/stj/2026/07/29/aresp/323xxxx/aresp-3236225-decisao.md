@@ -1,0 +1,40 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por SORAIA MACEDO ABDALA contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 19/11/2025.
+Concluso ao gabinete em: 16/6/2026.
+Ação: de cobrança, ajuizada por BANCO BRADESCO S.A., em face da agravante, na qual requer o pagamento de R$ 32.670,68 (trinta e dois mil, seiscentos e setenta reais e sessenta e oito centavos) relativos a faturas de cartão de crédito.
+Sentença: julgou procedente o pedido, para condenar a agravante ao pagamento de R$ 32.670,68 (trinta e dois mil, seiscentos e setenta reais e sessenta e oito centavos).
+Acórdão: negou provimento ao recurso de apelação interposto pela agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. Ação de cobrança. Contrato de cartão de crédito. Sentença de procedência. Insurgência da requerida. PRELIMINAR de cerceamento de defesa. Não ocorrência, estando presente hipótese autorizadora do julgamento antecipado, nos termos do art. 355, I, do Código de Processo Civil, pois despicienda a produção de prova pericial. PRELIMINAR de nulidade, por ausência de fundamentação. Não ocorrência. Julgador singular que se ateve ao dever de fundamentação que lhe era exigido, pois susteve a conclusão a que aportou em suficiente e racional exposição das razões que a tanto o conduziram. PREJUDICIAL de prescrição da pretensão creditícia. Não ocorrênci a. Prazo prescricional quinquenal que, inaugurado com o vencimento da contraprestação inadimplida, não se encontrava exaurido quando ajuizado o feito. MÉRITO. Juntada de faturas das quais se tira o uso reiterado do plástico e a evolução do saldo devedor. Apresentação de termos gerais de contratação dos quais se tiram os encargos aplicados ao negócio, ademais constantes em cada qual das faturas emitidas. Planilha de cálculo que bem delineia a forma de composição do crédito devido. Frágeis asserções da requerida no sentido apenas de que faltante prova a amparar o pleito. Arguição de abusividade nunca lançada em contestação, sendo, pois, incognoscível na seara presente. Inescapável acolhimento do pedido atrial. Sentença mantida. Recurso desprovido. (e-STJ fl. 304)
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 6º, VIII, 14 e 22, do CDC, dos arts. 370, 373, I e II, 489, § 1º, IV e VI, e 1.022, do CPC, dos arts. 186 e 927, do CC, e dos arts. 5º, LIV e LV, e 93, IX, da CF, bem como dissídio jurisprudencial.
+Afirma haver omissão acerca das questões relativas à inversão do ônus da prova, à ausência de análise da suficiência dos documentos apresentados pelo agravado a ensejar a sua responsabilidade objetiva, e à negativa da prova pericial.
+Afirma que é indevida a condenação fundada em documentos unilaterais, sem prova mínima da contratação e da origem do débito em relação de consumo. Aduz que é necessária a inversão do ônus da prova e a produção de perícia contábil diante da impugnação específica da dívida. Argumenta que o indeferimento imotivado da prova técnica configura cerceamento de defesa e nulidade do julgamento antecipado.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação de dispositivo constitucional ou de súmula
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, Terceira Turma, DJe de 2/2/2018 e AgInt no AREsp 1.089.677/AM, Quarta Turma, DJe de 16/2/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da questão relativa à inversão do ônus da prova, à suficiência das provas, à desnecessidade da prova pericial e à presença das condições que ensejam o julgamento antecipado (e-STJ fls. 306-309 e 317-319), de maneira que os embargos de declaração opostos pelo agravante de fato não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à conclusão acerca da ausência de cerceamento de defesa, da desnecessidade de prova pericial e da suficiência das provas, com o consequente acolhimento da pretensão creditícia do agravado, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, §1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Ademais, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, também impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp n. 821.337/SP, Terceira Turma, DJe de 13/03/2017 e AgInt no AREsp n. 964.391/SP, Terceira Turma, DJe de 21/11/2016.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor atualizado da condenação (e-STJ fls. 309) para 15%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL E DE SÚMULA. DESCABIMENTO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7/STJ. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação de cobrança.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+4. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+8. Agravo em recurso especial conhecido. Recurso especial parcialmente conhecido e, nesta parte, não provido, com majoração de honorários.
