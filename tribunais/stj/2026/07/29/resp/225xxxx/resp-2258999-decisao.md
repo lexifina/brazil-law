@@ -1,0 +1,65 @@
+DECISÃO
+Cuida-se de recurso especial interposto por ACRILYS DO BRASIL LAMINADOS PLASTICOS LTDA, LUIZA LUCIA PESCADOR e SOLIVAN PADILHA PESCADOR, com fundamento no artigo 105, inciso III, alíneas "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado (fl. 597):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO MONITÓRIA. CÉDULAS DE CRÉDITO BANCÁRIO.
+I - Preliminar de ilegitimidade passiva. A cédula de crédito bancário é um título passível de ser avalizado, pois constitui título de crédito de natureza cambial, que não perde essa característica pela sua cobrança em ação monitória, na forma do art. 26, da Lei nº 10.931/2004. No caso, os avalistas assumiram contratualmente a responsabilidade pelo pagamento da dívida na condição de devedores solidários e principais pagadores, conforme dispõe os arts 275 e 897 do Código Civil, não havendo, assim, que falar em ilegitimidade passiva. Preliminar rejeitada.
+II - Não conhecimento parcial do recurso. O recurso não merece ser conhecido quanto ao pedido de aplicação das normas do CDC, pois essa pretensão já foi deferida pela sentença, carecendo, assim, a parte de interesse recursal no particular, bem como no tocante ao pedido relativo à comissão de permanência, na medida em que não há previsão contratual nem cobrança desse encargo na espécie, estando ausente de interesse de agir da parte no ponto. Recurso não conhecido no que tange a essas questões.
+III - Capitalização dos juros. É possível a capitalização dos juros em periodicidade inferior a um ano nos contratos celebrados após 31.03.2000, data da publicação da MP nº 1.963-17/2000, (em vigor como MP nº 2.170-36/2001), desde que haja cláusula expressa nesse sentido ou, se ausente, na hipótese de ser a taxa de juros anual contratada superior ao duodécuplo da mensal, quando será aplicada a efetiva taxa anual, que já contempla a capitalização mensal (R Esp. 973.827/RS). Na espécie, em ambos os contratos há previsão da capitalização dos juros. Desprovido no ponto.
+IV - Tarifas bancárias. De acordo com a Resolução nº 3919/2010 do Banco Central, as instituições financeiras podem cobrar tarifas bancárias relativas a serviços efetivamente prestados a pessoas jurídicas desde que prevista no contrato ou que tenha sido o respectivo serviço previamente autorizado ou solicitado pelo cliente. No caso, há expressa previsão contratual no tocante as tarifas cobradas. Desprovido no particular.
+V - Taxa de juros de longo prazo - TJLP. Não há ilegalidade no estabelecimento da taxa de juros de longo prazo (TJLP) como indexador da correção monetária, conforme dispõe a Súmula nº 288 do STJ. Desprovido no tópico.
+VI - Distribuição da sucumbência. Diante do decaimento parcial e recíproco de ambas as partes, cabível o redimensionamento da sucumbência na proporção do decaimento de cada uma das partes, em obediência ao art. 86 do CPC. Parcialmente provido no particular.
+APELAÇÃO CONHECIDA EM PARTE E, NESSA EXTENSÃO, PARCIALMENTE PROVIDA, REJEITADA A PRELIMINAR. UNÂNIME.
+Opostos embargos de declaração, foram rejeitados (fls. 604-607).
+No presente recurso especial, o recorrente alega, preliminarmente, ofensa aos arts. 489 e 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+No mérito, aduz que houve violação dos arts. 2º, 29 e 51, do CDC; 26 da Lei 10.931/04; 275, 827 e 897 do CC; 6º, III, e 52, do CDC.
+Apresentadas as contrarrazões (fls. 626-633), sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 634-637).
+É, no essencial, o relatório.
+A controvérsia recursal cinge-se à: 1) omissão da Corte local; e 2) violação dos arts. 2º, 29 e 51, do CDC; 26 da Lei 10.931/04; 275, 827 e 897 do CC; 6º, III, e 52, do CDC.
+Da violação do art. 1.022 do CPC
+O Código de Processo Civil preconiza em seu art. 1.022, II que: "Cabem embargos de declaração contra qualquer decisão judicial para suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento."
+A recorrente alegou como fundamento relevante para o deslinde da causa: 1) ilegitimidade passiva dos avalistas, enquanto consumidores por equiparação, com fundamento no CDC; 2) perda da eficácia do aval me razão da prescrição da ação cambiária; e 3) análise da alegação de abusividade de cláusulas contratuais e transparência.
+Depreende-se dos autos que a Corte local não abordou as duas primeiras questões no acórdão impugnado, limitando-se a afirmar no primeiro caso a legitimidade dos avalistas, sob a ótica da garantia cambiária, rechaçado eventual arguição de benefício de ordem.
+Suscitada a questão em sede de embargos de declaração, houve rejeição do recurso, com base na inexistência de vícios a serem sanados na via dos aclaratórios.
+A rejeição injustificada dos embargos de declaração apresentados contra o acórdão, que visam levar o tribunal de origem a analisar fundamento essencial para resolver a demanda, autoriza o conhecimento do recurso especial sob o pálio do prequestionamento ficto, conforme previsão do art. 1.025 do CPC, desde que, no apelo nobre, a ofensa ao art. 1.022 do CPC seja arguida.
+A propósito, cito os precedentes:
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. OMISSÃO EXISTENTE. NECESSIDADE DE RETORNO DOS AUTOS À ORIGEM. RECURSO ESPECIAL CONHECIDO E PROVIDO.
+1. Impõe-se o reconhecimento da alegada violação do art. 1.022 do CPC, bem como a anulação do acórdão proferido em embargos de declaração para que seja realizado novo julgamento que supra das omissões apontadas no aclaratórios.
+2. A parte tem direito ao esgotamento do exame do chamado "conjunto fático-normativo" pelo Tribunal de origem, de molde a evitar que seja obstada sua pretensão cognitiva no STJ.
+Recurso especial provido. (Grifei)
+(REsp n. 2.170.563/RJ, rel. Ministro Humberto Martins, Terceira Turma, julgado em 5/8/2025, DJEN de 12/8/2025.)
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CARÁTER INFRINGENTE. POSSIBILIDADE. EXCEPCIONALIDADE. OMISSÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. RECONHECIMENTO.
+1. Admite-se que os embargos, ordinariamente integrativos, tenham efeitos infringentes, desde que constatada a presença de um dos vícios do art. 1.022 do Código de Processo Civil, cuja correção importe em alterar a conclusão do julgado.
+2. Constatada a existência de omissão não sanada no acórdão proferido pelo tribunal local, apesar de opostos aclaratórios, é de rigor o reconhecimento da violação do art. 1.022 do Código de Processo Civil por negativa de prestação jurisdicional, com a determinação de retorno dos autos à origem para que se realize novo julgamento.
+3. No caso, controvertida a ocorrência de fraude à execução, nota-se que o Tribunal de origem se contentou apenas em afirmar a inexistência/invalidade de registro da penhora no momento da dação em pagamento, sem, no entanto, avaliar a questão relacionada à ciência do terceiro adquirente do bem sobre o qual recaia a execução acerca da demanda satisfativa.
+4. Embargos de declaração acolhidos, com efeitos infringentes, para prover o recurso especial e determinar o retorno dos autos ao tribunal de origem para que realize novo julgamento dos embargos de declaração lá opostos. (Grifei)
+(EDcl no REsp n. 2.166.937/BASP, rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/9/2025, DJEN de 18/9/2025.)
+Registre-se que, na análise da preliminar aventada, cabe a esta Corte avaliar se houve omissão sobre ponto relevante para o deslinde da causa, uma vez que juízes e tribunais não são obrigados a se manifestar necessariamente sobre todos os argumentos das partes, quando fundamentarem de forma suficiente as respectivas decisões.
+Quanto à relevância das questões indicadas pela recorrente, constata-se que a caracterização dos avalistas como consumidores por equiparação demanda o exame de fatos e provas, cujo mister é exercido pelas instâncias ordinárias.
+De outro giro, a prescrição da ação cambiária compromete a eficácia do aval.
+Nesse sentido, cito os precedentes:
+RECURSO ESPECIAL. DIREITO CAMBIÁRIO E PROCESSUAL CIVIL. NOTAS PROMISSÓRIAS. AÇÃO MONITÓRIA. EMBARGOS MONITÓRIOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CARÊNCIA DE FUNDAMENTAÇÃO.
+NÃO VERIFICADA. PRESCRIÇÃO. PERDA DA EFICÁCIA DO AVAL. ILEGITIMIDADE DOS AVALISTAS. RECONHECIDA.
+1. Ações monitórias propostas pela empresa recorrida contra os recorrentes pretendendo o recebimento dos valores constantes de notas promissórias prescritas.
+2. As questões devolvidas ao conhecimento do Superior Tribunal de Justiça são as seguintes alegações: a) ocorrência de negativa de prestação jurisdicional e carência de fundamentação; b) ilegitimidade passiva dos avalistas para figurar no polo passivo de ação monitória baseada em notas promissórias prescritas; c) prescrição da pretensão autoral; d) prova da quitação dos títulos que embasaram as ações monitórias.
+3. Inexistência de maltrato ao art. 1.022, incisos I e II, do Código de Processo Civil, quando o acórdão recorrido, ainda que de forma sucinta, aprecia com clareza as questões essenciais ao julgamento da lide.
+4. Não ocorrência de afronta ao art. 489, § 1º, inciso IV, do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+5. Natureza eminentemente cambiária do aval, cessando as pretensões do portador do título contra os avalistas a partir da prescrição cambial das cártulas.
+6. Jurisprudência do Superior Tribunal de Justiça no sentido de que, prescrita a ação cambiária, perde eficácia o aval, não respondendo o garante pela obrigação assumida pelo devedor principal.
+7. Acolhimento da preliminar de ilegitimidade passiva dos avalistas recorrentes, restabelecendo a decisão de primeiro grau e julgando prejudicadas as demais questões suscitadas no recurso especial.
+8. RECURSO ESPECIAL PROVIDO. (Grifei)
+(REsp n. 1.799.962/SP, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado 2/2/2021, Dje 9/2/2021.)
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. TÍTULO. EXTRAJUDICIAL. RECONHECIMENTO. AVALISTA CONSUMIDOR. EQUIPARAÇÃO. APLICAÇÃO. CDC. MODIFICAÇÃO. DECISÃO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA Nº 7/STJ.
+1. Na hipótese, não há como modificar o entendimento firmado pela Corte local quanto à equiparação do avalista como consumidor, sem o revolvimento do acervo fático-probatório dos autos, procedimento vedado pela Súmula nº 7/STJ.
+2. É firme o entendimento do STJ no sentido de que os mesmos óbices impostos à admissão do recurso interposto pela alínea "a" do permissivo constitucional impedem a análise recursal pela alínea "c", ficando prejudicado o exame do dissídio. Precedentes.
+3. Agravo conhecido. Recurso especial não conhecido. (Grifei)
+(AREsp n. 3.063.672/BA, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 30/3/2026, DJEN 7/4/2026.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CÉDULA DE CRÉDITO BANCÁRIO. TÍTULO DE CRÉDITO PRESCRITO. AVAL. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. EXTINÇÃO DA GARANTIA. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não se vislumbra a existência de vícios do art. 535 do CPC/73, porque o acórdão de origem decidiu a lide em sua integralidade, indicando de forma expressa e coerente os fundamentos adotados como razões de decidir, ainda que concluindo em sentido contrário ao pretendido pela parte ou com fundamentos distintos daquele por ela sustentados.
+2. Ao interpretar o título de crédito que instruía a ação monitória, o Tribunal de origem foi enfático em assentar que a garantia pessoal prestada tinha natureza jurídica de aval. Assim, modificar essa conclusão demandaria o reexame de fatos e provas, bem como a interpretação de cláusulas contratuais, o que, em regra, escapa aos limites do recurso especial (Súmulas 5 e 7 do STJ).
+3. "Prescrita a ação cambiária, perde eficácia o aval prestado ao título de crédito, de modo que responde apenas o devedor principal pela obrigação, salvo na hipótese de locupletamento do avalista" (AgInt no AREsp 1.520.570/SP, Relatora Min. MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 30/3/2020, DJe de 2/4/2020).
+4. Agravo interno a que se nega provimento. (Grifei)
+(AgInt no AREsp n. 953.300/SP, Rel. Ministro Raul Araújo, Quarta Turma, julgado 8/4/2024, Dje 19/4/2024.)
+Neste contexto, verifica-se que a omissão do acórdão recorrido deve ser sanada na origem, a fim de permitir ao recorrente acesso ao regular debate jurídico acerca de questões essenciais para a resolução do litígio.
+Ante o exposto, conheço em parte do recurso especial e, nesta extensão, dou-lhe provimento, para determinar o retorno dos autos à Corte de origem, a fim de que se pronuncie sobre os tópicos apontados nos embargos de declaração. Prejudicadas as demais alegações.
+Não há falar em majoração ou inversão do ônus de sucumbência, pois o processo retornará para novo julgamento.
+Publique-se. Intimem-se.
+ EMENTA
