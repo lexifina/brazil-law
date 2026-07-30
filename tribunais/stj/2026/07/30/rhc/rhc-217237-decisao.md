@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por LEONARDO DE JESUS, contra acórdão do Tribunal de Justiça do Estado do Mato Grosso (HC n. 1013179-30.2025.8.11.0000).
+Consta dos autos que o recorrente foi condenado pela suposta prática dos delitos previstos no art. 121, §2º, I, III (por duas vezes) e IV; no art. 211; e no art. 288, parágrafo único, na forma do artigo 29 e 69, todos do Código Penal à pena de 34 anos, 10 meses e 20 dias de reclusão, em regime fechado, negado o direito de recorrer em liberdade.
+A defesa impetrou prévio writ no Tribunal de origem, que denegou a ordem e manteve a custódia cautelar (e-STJ, fls. 1867-1876).
+Nesta Corte, a defesa sustenta que a decisão que manteve a prisão preventiva do recorrente não apresentou fundamentos próprios ou atuais, mas apenas repetiu o que já havia sido dito no decreto original de prisão, feito em 2022, aplicando indevidamente a técnica per relationem, em clara violação ao princípio da motivação das decisões judiciais e da contemporaneidade, o que enseja a nulidade da constrição (e-STJ, fls. 1895-1902).
+Argui, ainda, nulidade do acórdão recorrido e do ato coator pela ausência de análise das cautelares alternativas à prisão, ao passo que registra a viabilidade de substituição da prisão preventiva pelas cautelares do art. 319 do Código de Processo Penal (e-STJ, fls. 1902-1914).
+Requer, liminarmente, seja assegurado ao recorrente o direito de responder ao processo em liberdade até o trânsito em julgado desta ação constitucional. No mérito, seja provido o recurso para decretar a nulidade do ato coator tanto em razão da fundamentação per relationem que manteve a prisão cautelar, quanto no que tange à omissão quanto à possibilidade de substituição da prisão preventiva por mediadas cautelares diversas do cárcere, bem como seja revogada a custódia, com ou sem aplicação das medidas previstas no art. 319 do Código de Processo Penal.
+É o relatório.
+Decido.
+Consoante explicitado pelo parecer ministerial, "houve a perda superveniente de objeto deste recurso ordinário, pois a pretensão inicial restou esvaziada após o julgamento do agravo regimental no AR Esp 3.194.358/MT e posterior trânsito em julgado da ação principal em 28 de maio de 2026" (e-STJ, fl. 1975).
+Confira-se:
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO E PORTE ILEGAL DE ARMA DE FOGO. MANUTENÇÃO DA PRISÃO PREVENTIVA NA SENTENÇA CONDENATÓRIA. TRÂNSITO EM JULGADO. PLEITO PREJUDICADO. PEDIDO DE ABSOLVIÇÃO. ELEMENTOS PROBATÓRIOS SUFICIENTES. PRETENSÃO DE DILAÇÃO PROBATÓRIA DESCABIDA. REVISÃO DE DOSIMETRIA. INEXISTÊNCIA DE ILEGALIDADE NA FIXAÇÃO DA PENA.
+1. A superveniência do trânsito em julgado da condenação prejudica o exame da manutenção da prisão preventiva, uma vez que o ora paciente cumpre pena em execução definitiva.
+2. A pretensão de absolvição pelos crimes de porte ilegal de arma de fogo e associação para o tráfico exige dilação probatória, inviável na via estreita do habeas corpus, especialmente diante da existência de elementos probatórios suficientes reconhecidos pelas instâncias ordinárias.
+3. Quanto à absolvição do delito de porte ilegal de arma de fogo, a defesa falha em apresentar prova pré-constituída de suas alegações, como a de que a arma apreendida não pertenceria ao paciente, mas a certo indivíduo de alcunha "Corumbá", o qual lhe teria pagado R$ 600,00 naquele dia somente para cuidar da casa, onde foram apreendidas a referida arma, assim como a droga (758 g de cocaína) e a munição encontradas pelos policiais (fl. 147), sendo, portanto, descabida a absolvição pretendida.
+4. A condenação por associação para o tráfico foi fundamentada em elementos probatórios que demonstram vínculo estável e permanente entre os envolvidos, com divisão de funções para a prática do tráfico de drogas.
+5. A consideração de condenação anterior como maus antecedentes é válida, mesmo que a punibilidade tenha sido extinta pela prescrição da pretensão executória, conforme jurisprudência consolidada.
+6. A atenuante da confissão espontânea não se aplica, pois o paciente não confessou a traficância, conforme entendimento da Súmula 630/STJ, ao passo que a causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, é incompatível com a condenação por associação para o tráfico.
+7. A quantidade de droga apreendida pode ser valorada na individualização das penas dos crimes de tráfico de drogas e de associação para o tráfico, por se tratar de circunstância negativa comum a ambas as infrações penais, com conteúdos de injusto autônomos.
+8. Mantida a pena privativa de liberdade final, ficam prejudicados os pedidos de substituição por penas restritivas de direitos e de revisão do regime inicial de cumprimento de pena.
+9. Habeas corpus conhecido parcialmente e, nessa extensão, denegada a ordem.
+(HC n. 1.015.312/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 25/11/2025, DJEN de 2/12/2025.)
+Ante o exposto, julgo prejudicado o recurso ordinário em habeas corpus.
+Publique-se. Intimem-se
+EMENTA
