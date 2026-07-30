@@ -1,0 +1,72 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido liminar interposto por JESSYKA BARBOSA SAMPAIO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ.
+Consta dos autos que a recorrente foi presa preventivamente em 15/5/2024, pela suposta prática da conduta descrita no art. 121, § 2º, I e IV, do Código Penal.
+A recorrente alega que a decisão de custódia está fundada em elemento único de natureza inquisitorial, sem confirmação judicial sob contraditório e sem lastro objetivo contemporâneo.
+Aduz que a principal declarante não foi ouvida em juízo por apresentar problemas mentais, circunstância que compromete a credibilidade do relato utilizado para justificar a prisão.
+Afirma que a manutenção da custódia se sustenta em fórmulas genéricas, como garantia da ordem pública, comoção social e repercussão midiática, sem demonstração concreta.
+Assevera que permanece presa há mais de 2 anos, sem reavaliação periódica adequada da necessidade da medida, caracterizando constrangimento ilegal por excesso de prazo.
+Defende que são suficientes medidas alternativas menos gravosas, como comparecimento periódico, proibição de contato e de ausentar-se da comarca, recolhimento noturno e monitoração.
+Requer a revogação da prisão preventiva, com expedição de alvará de soltura; subsidiariamente, a substituição por medidas cautelares diversas.
+É o relatório.
+É pacífico o entendimento no Superior Tribunal de Justiça de que o habeas corpus, porquanto vinculado à demonstração de plano da ilegalidade alegada, exige provas pré-constituídas dos elementos fáticos essenciais para a apreciação do pedido, sendo ônus da parte impetrante juntar a documentação necessária no momento da impetração.
+No presente caso, não foi juntada à petição inicial a integra da decisão de pronúncia, que, ao que consta dos autos, é o título judicial que atualmente dá suporte à prisão preventiva.
+Dessa forma, é inviável o exame acerca dos fundamentos da prisão, diante da insuficiência da documentação apresentada. Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. DATA-BASE. LAPSO TRINTENÁRIO. AUSÊNCIA DE CÓPIA DA DECISÃO QUE ALTEROU A DATA-BASE. INSTRUÇÃO DEFICIENTE. REITERAÇÃO DE WRIT ANTERIOR. INADMISSIBILIDADE.
+1. O habeas corpus não comporta dilação probatória e exige prova pré-constituída das alegações. Cabe ao impetrante o ônus processual de produzir elementos documentais consistentes, destinados a comprovar as alegações suscitadas no writ. Precedentes.
+2. Trata-se de caso em que o ora agravante não se desobrigou do ônus de possibilitar o adequado enfrentamento da matéria, por não haver trazido aos autos cópia da decisão do Juízo a quo que alterou a data-base.
+ ..
+(AgRg no HC n. 857.338/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1º/7/2024, DJe de 3/7/2024 - grifo próprio.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRETENDIDA ABSOLVIÇÃO DO DELITO PREVISTO NO ART. 35 DA LAD OU REDUÇÃO DAS BASILARES DOS DELITOS. INVIABILIDADE. DEFICIÊNCIA DE INSTRUÇÃO. PRECEDENTES. WRIT INDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir. No entanto, sua natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória.
+2. A inicial do writ, contudo, não veio acompanhada de documentos aptos a comprovar o alegado constrangimento de que estaria o paciente sendo vítima, e até mesmo a inauguração da competência desta Corte Superior, o que prejudica, sobremaneira, o adequado exame do caso, haja vista que não foi juntada aos autos a cópia do acórdão de apelação.
+3. É cogente ao impetrante apresentar elementos documentais suficientes para permitir a atuação do Superior Tribunal de Justiça no caso e a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração. Precedentes.
+4. Agravo regimental não provido.
+(AgRg no HC n. 901.381/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/5/2024, DJe de 29/5/2024 - grifo próprio.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+ ..
+2. O rito do habeas corpus, bem como de seu consectário recursal, demanda prova documental pré-constituída do direito alegado.
+3. No caso, a defesa não colacionou aos autos a íntegra do decreto prisional, documento necessário à análise do pleito de revogação da medida extrema. A ausência de peça essencial ao deslinde da controvérsia impede o exame das alegações.
+4. Agravo regimental desprovido.
+(AgRg no RHC n. 186.463/MG, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024 - grifo próprio.)
+Portanto, o pedido não pode ser apreciado neste writ, nada impedindo a impetração de novo habeas corpus devidamente instruído.
+Por outro lado, quanto às alegações de que a custódia está fundada em elemento único de natureza inquisitorial e de que a principal declarante não foi ouvida em juízo, ressaltou a Corte regional que (fl. 97, grifei):
+"A decisão de pronúncia exige apenas indícios suficientes de autoria e prova da materialidade, sendo incabível juízo conclusivo sobre a responsabilidade penal do acusado nesta fase processual."
+Também foi assentado que os elementos coligidos aos autos  depoimentos testemunhais, provas técnicas e documentação pericial  constituem suporte probatório idôneo para submissão da acusada ao Tribunal do Júri.
+Assim, a desconstituição da conclusão alcançada pelo Tribunal local implicaria necessariamente o amplo revolvimento de matéria fático-probatória, o que não se coaduna com a estreita via cognitiva do habeas corpus. Nessa direção: AgRg no AgRg no HC n. 900.334/ES, de minha relatoria, Sexta Turma, julgado em 21/5/2025, DJEN de 27/5/2025; e AgRg no HC n. 974.351/BA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/5/2025, DJEN de 20/5/2025.
+Quanto ao fundamento de ausência de contemporaneidade, verifica-se que:
+Nos termos da jurisprudência da Suprema Corte, a "contemporaneidade diz com os motivos ensejadores da prisão preventiva e não o momento da prática supostamente criminosa em si, ou seja, é desimportante que o fato ilícito tenha sido praticado há lapso temporal longínquo, sendo necessária, no entanto, a efetiva demonstração de que, mesmo com o transcurso de tal período, continuam presentes os requisitos (i) do risco à ordem pública ou (ii) à ordem econômica, (iii) da conveniência da instrução ou, ainda, (iv) da necessidade de assegurar a aplicação da lei penal" (STF, HC n. 185.893 AgR, relatora Ministra ROSA WEBER, PRIMEIRA TURMA, julgado em 19/4/2021, DJe 26/4/2021), o que restou demonstrado na presente hipótese.
+(AgRg no RHC n. 189.060/MT, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, julgado em 20/8/2024, DJe de 23/8/2024.)
+No caso em análise, a contemporaneidade da prisão preventiva refere-se aos motivos que a fundamentam, e não ao momento da prática delitiva. Portanto, o decurso do tempo é irrelevante se os motivos que justificam a custódia cautelar ainda persistem.
+No que tange à alegada inexistência de reavaliação dos fundamentos da prisão, de acordo com o art. 316 do CPP, o Tribunal de origem asseverou que a autoridade coatora manteve a prisão preventiva da recorrente em 22/4/2026.
+Ademais, esta Corte Superior possui entendimento de que " ..  o prazo de 90 dias para reavaliação dos fundamentos da prisão (conforme disposto no art. 316, parágrafo único, do CPP) não é peremptório, isto é, eventual atraso na execução deste ato não implica automático reconhecimento da ilegalidade da prisão, tampouco a imediata colocação do custodiado cautelar em liberdade (HC n. 621.416/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/ 4/2021, DJe de 16/4/2021)".
+Por fim, a prisão cautelar não possui um prazo determinado por lei, devendo sua manutenção obedecer a critérios verificados judicialmente conforme os parâmetros fático-processuais de cada caso, como a quantidade de crimes, a pluralidade de réus, o número de defensores envolvidos e, em alguns casos, a própria conduta adotada pela defesa.
+Por isso, o eventual reconhecimento da ilegalidade da prisão por excesso de prazo não decorre da mera aplicação de critério matemático, exigindo a prevenção de eventual retardamento demasiado e injustificado da prestação jurisdicional.
+Esse é o sentido da pacífica jurisprudência do Superior Tribunal de Justiça. A esse respeito, confiram-se os seguintes julgados: AgRg no RHC n. 187.959/CE, de minha relatoria, Sexta Turma, julgado em 30/9/2024, DJe de 3/10/2024; HC n. 876.102/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/9/2024, DJe de 27/9/2024; e HC n. 610.097/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 27/4/2021, DJe de 30/4/2021.
+O Tribunal local examinou a questão nos seguintes termos, conforme se observa do voto condutor do acórdão (fl. 97):
+As informações prestadas pela autoridade coatora revelam que o feito vem tramitando regularmente, sem desídia estatal, encontrando-se já designada sessão plenária do Tribunal do Júri para o dia 29/09/2026.
+Importante destacar que a aferição do excesso de prazo não pode decorrer de mera soma aritmética dos lapsos processuais, devendo ser realizada à luz do princípio da razoabilidade e das peculiaridades do caso concreto.
+ ..
+No presente caso, verifica-se que o processo possui complexidade inerente aos crimes dolosos contra a vida submetidos ao rito do Tribunal do Júri, havendo realização de audiências, interposição de recursos e necessidade de observância das formalidades próprias do procedimento escalonado.
+Assim, considerando a complexidade do processo e ainda tendo em vista que o feito está sujeito ao procedimento especial do Tribunal do Júri, não se verifica inércia ou desídia atribuível ao Poder Judiciário para o encerramento da instrução ou para a formação da culpa. Ademais, verifica-se que a sessão plenária do Tribunal do Júri já foi designada para data próxima, dia 29/9/2026.
+Com essa orientação:
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS COM SEGUIMENTO NEGADO. HOMICÍDIO QUALIFICADO E RECEPTAÇÃO SIMPLES. NULIDADE. RECEBIMENTO DA DENÚNCIA. SUPERVENIÊNCIA DA DECISÃO DE PRONÚNCIA. PREJUDICIALIDADE. PRISÃO PREVENTIVA. RISCO DO ESTADO DE LIBERDADE PARA A ORDEM PÚBLICA. GRAVIDADE CONCRETA E REITERAÇÃO DELITIVA. ELEMENTOS CONCRETOS E IDÔNEOS. ALEGAÇÃO DE EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. DESÍDIA OU INÉRCIA DO MAGISTRADO SINGULAR. AUSÊNCIA. ILEGALIDADE MANIFESTA. INEXISTÊNCIA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática na qual se negou seguimento ao recurso ordinário, quando não evidenciado constrangimento ilegal quanto à alegada nulidade da decisão de recebimento da denúncia, nem ausência de fundamentação da segregação provisória ou coação ilegal por excesso de prazo.
+2. Prejudicada a alegação de nulidade do recebimento de denúncia, em razão da superveniência da pronúncia do ora agravante.
+3. Inexistente constrangimento quanto à fundamentação do decreto prisional, pois se demonstrou o receio de perigo gerado pelo estado de liberdade à ordem pública, ressaltando a gravidade concreta do delito e a reiteração delitiva, em razão da suspeita de envolvimento com diversos delitos de homicídio ocorridos na localidade, com modo de execução semelhante, em disputas entre facções criminosas pelo tráfico de drogas na região.
+4. Inevidente o alegado excesso de prazo para formações da culpa, uma vez que se trata de feito complexo (com 4 réus, diversidade de condutas delitivas e sujeito ao procedimento especial do Tribunal do Júri) e inexiste contribuição do Judiciário na eventual mora processual, pois, nos termos das informações prestadas pelo Juízo de primeiro grau, em 7/5/2024, foi proferida a pronúncia, tendo sido interposto recurso em sentido estrito pelo ora agravante em 13/5/2024.
+5. Agravo regimental improvido.
+(AgRg no RHC n. 196.620/MA, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 26/8/2024, DJe de 28/8/2024, grifei.)
+No caso, não se verifica desídia ou mora estatal na ação penal quando a sequência dos atos processuais afasta a ideia de paralisação indevida do processo ou de responsabilidade do Estado persecutor, razão pela qual não há que se falar em ilegalidade por excesso de prazo.
+A esse respeito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO E CONSUMADO. ORGANIZAÇÃO CRIMINOSA. MEDIDAS CAUTELARES. FUNDAMENTAÇÃO PER RELATIONEM. IMPRESCINDIBILIDADE DA MEDIDAS DEMONSTRADA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se configura desprovida de fundamentos a decisão que mantém as medidas cautelares impostas pelos mesmos fundamentos quando da sua decretação.
+2. A chamada técnica da fundamentação per relationem (também denominada motivação por referência ou por remissão) é reconhecida pelo Supremo Tribunal Federal como legítima e compatível com o disposto no art. 93, IX, da Constituição Federal.
+3. Diante das circunstâncias concretas do caso e em observância ao binômio proporcionalidade e adequação, é possível a manutenção das medidas cautelares quando se mostrarem necessárias para garantir a ordem pública, a conveniência da instrução criminal ou a aplicação da lei penal.
+4. Inexiste excesso de prazo nas hipóteses em que não há procrastinação do andamento processual por parte da acusação ou por desídia do Poder Judiciário.
+5. Agravo regimental desprovido.
+(AgRg no RHC n. 160.743/MG, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 17/5/2022, DJe de 20/5/2022.)
+Ainda, incide sobre o caso o enunciado 21 da Súmula desta Corte Superior de Justiça, segundo o qual: "Pronunciado o réu, fica superada a alegação de constrangimento ilegal da prisão por excesso de prazo na instrução."
+Ante o exposto, nos termos do art. 34, XVIII, b, do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. PRISÃO CAUTELAR. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. NÃO OCORRÊNCIA. DECURSO DE TEMPO COMPATÍVEL COM OS PARÂMETROS FÁTICO-PROCESSUAIS. RECURSO IMPROVIDO.
