@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por ANDERSON GOMES ALVARENGA FONSECA, com fundamento nas alíneas "a" e "c" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado (fls. 128-132):
+"DIREITO PROCESSUAL PENAL. CORREIÇÃO PARCIAL. ADITAMENTO DA DENÚNCIA. INCLUSÃO DE TESTEMUNHAS PELO MPF. AUSÊNCIA DE PREJUÍZO À DEFESA. RECURSO DESPROVIDO".
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 41 e 209 do Código de Processo Penal. Aduz para tanto, em síntese, que o Ministério Público não poderia incluir novas testemunhas após o oferecimento da denúncia, em face da preclusão. Destaca que "não houve qualquer alteração, correção ou retificação de fatos da denúncia, apenas o desmembramento da ação em quatro outras diferentes por conveniência da acusação - hipótese que, obviamente, não autoriza a atualização do rol de testemunhas" (fl. 152).
+Acrescenta que " n ão se pode admitir que a regra do art. 209 do CPP seja utilizada para burlar aquilo que dispõe o art. 41 do mesmo diploma: o rol de testemunhas já conhecidas deve ser apresentado na denúncia, sob pena de preclusão" (fl. 162).
+Com contrarrazões (fls. 184-197), o recurso especial foi inadmitido na origem (fls. 201-203), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF sustenta que o recurso especial estaria prejudicado em razão do julgamento do HC 1.049.102/RS (fls. 256-260).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+Este recurso especial se encontra prejudicado, pois a pretensão nele veiculada já foi decidida no HC 1.049.102/RS, que impugnava o mesmo acórdão proferido pelo Tribunal Regional Federal da 4ª Região e apresentava idênticos pleitos. A decisão monocrática proferida naquele processo foi publicada em 05/02/2026, confirmada pelo colegiado da Quinta Turma em 25/03/2026, com trânsito em julgado no dia 23/04/2026. Eis a ementa do referido acórdão:
+"DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. COMPLEMENTAÇÃO DO ROL DE TESTEMUNHAS EM ADITAMENTO À DENÚNCIA APRESENTADO ANTES DO RECEBIMENTO. INEXISTÊNCIA DE PRECLUSÃO. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus impetrado em favor de acusado, sob o fundamento de inadequação da via eleita, em razão do uso do writ como sucedâneo recursal.
+2. Segundo a defesa, o Ministério Público Federal teria arrolado apenas uma testemunha na denúncia e, posteriormente, em aditamento que não acrescentou fatos novos, incluiu dois delegados de polícia federal já conhecidos desde o início das investigações, o que configuraria preclusão consumativa da faculdade de indicação dessas testemunhas.
+3. A defesa sustenta, ainda, que a invocação do art. 209 do Código de Processo Penal para admitir a oitiva das testemunhas como "do juízo" violaria o sistema acusatório, a imparcialidade judicial e o devido processo legal, requerendo o reconhecimento da nulidade das decisões que admitiram o aditamento e o rol testemunhal, com exclusão das testemunhas arroladas no aditamento.
+4. As instâncias ordinárias consignaram que a denúncia foi oferecida em 17/4/2024, o aditamento protocolado em 11/6/2024 e o recebimento da inicial acusatória ocorreu em 19/6/2024, de modo que a complementação do rol de testemunhas antecedeu o recebimento da denúncia e a citação do acusado.
+II. QUESTÃO EM DISCUSSÃO
+5. Há duas questões em discussão: (i) saber se é admissível a complementação do rol de testemunhas pelo Ministério Público em aditamento à denúncia apresentado antes do recebimento da inicial acusatória e antes da citação do acusado, sem configuração de preclusão; e (ii) saber se a utilização do habeas corpus como sucedâneo recursal é superável, bem como se a invocação do art. 209 do Código de Processo Penal, na hipótese, implicaria nulidade por violação ao sistema acusatório e ao devido processo legal.
+III. RAZÕES DE DECIDIR
+6. A jurisprudência do Superior Tribunal de Justiça, em consonância com o Supremo Tribunal Federal, firmou-se no sentido de que o habeas corpus não deve ser utilizado como substitutivo de recurso próprio, admitindo-se a superação dessa orientação apenas em hipóteses de flagrante ilegalidade, o que não se verifica na espécie.
+7. A preclusão quanto à indicação de testemunhas pressupõe a superação do momento processual adequado para o exercício dessa faculdade, o que não ocorreu, pois a complementação do rol deu-se em aditamento à denúncia apresentado antes do recebimento da inicial acusatória e antes da formação da relação processual.
+8. A formação da relação processual, com plena incidência das regras de preclusão sobre a atividade probatória das partes, projeta-se a partir do recebimento da denúncia e da instauração do contraditório, circunstâncias inexistentes quando apresentado o aditamento que complementou o rol.
+9. Não há surpresa processual ou supressão de oportunidade defensiva, pois a defesa foi citada após o recebimento da denúncia já com o rol de testemunhas então existente, podendo exercer, desde a resposta à acusação, o contraditório e a ampla defesa em relação às testemunhas arroladas.
+10. Os precedentes invocados pela defesa, que afirmam a necessidade de apresentação do rol de testemunhas na própria denúncia sob pena de preclusão, referem-se a hipóteses em que a indicação de testemunhas foi realizada após o momento processual adequado ou já instaurado o contraditório, distinguindo-se, portanto, da situação em exame, em que a complementação ocorreu antes do recebimento da denúncia.
+11. A manutenção da validade da oitiva das testemunhas não se vincula à conversão em "testemunhas do juízo", mas à inexistência de preclusão diante do momento em que apresentado o aditamento.
+12. Ainda que se cogitasse de eventual irregularidade na indicação das testemunhas, a decretação de nulidade exigiria demonstração de prejuízo concreto à defesa (art. 563 do Código de Processo Penal), o que não se verifica, pois a defesa apresentou resposta à acusação já diante do rol de testemunhas existente, exercendo plenamente o contraditório e a ampla defesa.
+13. Ausente ilegalidade flagrante e não evidenciado prejuízo à defesa, não se justifica a superação do óbice ao uso do habeas corpus como sucedâneo recursal, nem a concessão da ordem de ofício.
+IV. DISPOSITIVO E TESE
+14. Resultado do Julgamento: Agravo regimental desprovido, mantendo-se a decisão que não conheceu do habeas corpus e preservando-se a validade do aditamento da denúncia e da complementação do rol de testemunhas realizada antes do recebimento da inicial acusatória.
+Tese de julgamento:
+1. O Ministério Público pode complementar o rol de testemunhas em aditamento à denúncia apresentado antes do recebimento da inicial acusatória e antes da citação, inexistindo preclusão quanto à indicação das testemunhas.
+2. A decretação de nulidade por suposta irregularidade na indicação de testemunhas exige a demonstração de prejuízo concreto à defesa, nos termos do art. 563 do Código de Processo Penal.
+3. O habeas corpus não pode ser utilizado como sucedâneo de recurso próprio, admitindo-se sua apreciação apenas em casos de flagrante ilegalidade.
+Dispositivos relevantes citados: CPP, art. 209; CPP, art. 563.
+Jurisprudência relevante citada: STJ, HC 202.928/PR; STJ, AgRg no HC 549.157/RS; STJ, RHC 179.110/PE".
+(AgRg no HC n. 1.049.102/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 25/3/2026, DJEN de 6/4/2026.)
+Como se sabe, quando habeas corpus e recurso especial versam sobre o mesmo tema, há entre eles relação de prejudicialidade, de modo que o julgamento de um torna prejudicado o outro. Nesse sentido:
+"DIREITO PENAL. PROCESSO PENAL. LAVAGEM DE DINHEIRO. LEI 9.613/1998. AGRAVO REGIMENTAL DA DECISÃO QUE NÃO CONHECEU DE RECURSO ESPECIAL. INCOMPETÊNCIA DA JUSTIÇA FEDERAL. ALEGADA PRÁTICA DE CRIME ELEITORAL. NÃO CONFIGURAÇÃO. PEDIDO ABSOLUTÓRIO. DOSIMETRIA DA PENA-BASE E REGIME INICIAL DE CUMPRIMENTO. PREJUDICIALIDADE DO PEDIDO. AGRAVO DESPROVIDO.
+ ..
+VII - Conforme a reiterada jurisprudência deste eg. Tribunal Superior "quando o habeas corpus e o recurso especial veiculam idêntica pretensão, o julgamento de um deles provoca a prejudicialidade do outro, em decorrência da perda superveniente de objeto, com o consequente esgotamento da competência do Superior Tribunal de Justiça" (AgRg no REsp n. 1.815.614/PE. Sexta Turma. Relª. Minª. Laurita Vaz. DJe de 17/02/2020).
+VIII - O escopo do Recurso Especial não é a perpetuação das vias recursais inerentes ao devido processo legal, mas, antes disso, propiciar ao col. Superior Tribunal de Justiça o exercício de sua competência constitucional, em especial a uniformização da interpretação e aplicação da lei federal e dos tratados internacionais que não integrem o bloco de constitucionalidade, ante a ausência de internalização na forma preceituada no art. 5º, § 3º, da Constituição Federal de 1988.
+Agravo regimental desprovido".
+(AgRg no REsp n. 1.797.969/PR, relator Ministro Felix Fischer, Quinta Turma, julgado em 17/11/2020, DJe de 27/11/2020.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
