@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MATHEUS RIBEIRO ROCHA contra a decisão monocrática que não conheceu do habeas corpus.
+Nas razões dos embargos, a defesa alega que a decisão recorrida deve ser reformada por omissão quanto à tese de "fundamentação retroativa", vedada pelo art. 93, IX, da Constituição Federal.
+Argumenta que a cronologia dos autos evidencia o vício: apreensões e análises anteriores; decreto preventivo em 19/11/2025 sem individualização; e denúncia posterior em 18/12/2025 trazendo narrativa nova.
+Defende que o decreto é genérico e coletivo, sem a indicação de periculum libertatis concreto, em afronta aos arts. 312 e 315 do Código de Processo Penal - CPP, e que a individualização surgiu apenas na denúncia.
+Expõe que o Tribunal de origem e a decisão embargada reproduziram elementos da denúncia como se integrassem o decreto, substituindo a motivação original e convalidando a prisão a posteriori.
+Articula que o controle em habeas corpus deve recair sobre o ato tal como proferido, sendo inadmissível reconstruir a motivação com fatos supervenientes, sob pena de violar a exigência constitucional de fundamentação.
+Requer o acolhimento dos embargos para sanar a omissão e prequestionar os arts. 93, IX, da Constituição Federal e 312 e 315 do CPP, com pronunciamento expresso sobre o uso de fundamentos posteriores.
+É o relatório.
+Os embargos de declaração são cabíveis somente nas hipóteses previstas no art. 619 do Código de Processo Penal, quando houver na decisão embargada ambiguidade, obscuridade, contradição ou omissão, tendo a jurisprudência os admitido, também, para sanar eventual erro material na decisão embargada.
+São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, novo julgamento do caso.
+No caso, é inviável o acolhimento da pretensão recursal, porquanto, conforme consignado na decisão embargada, a custódia cautelar está suficientemente fundamentada na necessidade de garantir a ordem pública, tendo em vista a existência de indícios de que o embargante integra organização criminosa altamente estruturada e especializada em tráfico de drogas, com atuação no município de Pindamonhangaba/SP.
+Ainda, constou dos autos que o autuado fornecia aos líderes do grupo instrumentos de monitoramento diário, garantindo a liquidez e a fluidez do capital ilícito, o que demonstra um nítido profissionalismo e envolvimento estrutural com a facção criminosa.
+Ressalte-se que, apesar da alegação defensiva de que o Tribunal de origem teria acrescido fundamentação ao decreto prisional, constatou-se que o Juízo singular apresentou fundamentação idônea e suficiente para a manutenção da segregação cautelar, baseada na atuação do paciente em organização criminosa complexa.
+Portanto, inexistindo vício a ser sanado, a pretensão do recurso é de rediscussão dos fundamentos da decisão embargada, propósito inviável para o recurso em apreço, nada havendo que se possa acolher.
+Além disso, "os embargos de declaração, ainda que manejados para fins de prequestionamento, somente se prestam a corrigir error in procedendo e possuem fundamentação vinculada". Dessa forma, para seu ca bimento, mostra-se imprescindível a demonstração de que a decisão embargada se revelou obscura, contraditória, ambígua ou omissa, conforme disciplina o art. 619 do Código de Processo Penal, ou mesmo para correção de erro material (EDcl no AgRg nos EREsp n. 1.934.666/SC, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 14/8/2024, DJe de 12/11/2024 ), o que não se verifica no caso dos autos.
+Ante o exposto, na forma do art. 264, § 1º, do Regimento Interno do Superior Tribunal de Justiça, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
