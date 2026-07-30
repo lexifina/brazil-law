@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com fundamento no art. 105, III, a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado (fl. 127):
+EMENTA: AGRAVO DE EXECUÇÃO PENAL. RECURSO DEFENSIVO. INDULTO. DECRETO N.º 11.846/2023. FALTA GRAVE NÃO HOMOLOGADA. NECESSÁRIA PELO JUÍZO A QUO. MATÉRIA NÃO APRECIADA NA ORIGEM. RECURSO PARCIALMENTE PROVIDO, COM DETERMINAÇÃO. 1. O disposto no Decreto 11.846/2023, no que diz respeito a óbice para a concessão do indulto, verifica-se a exigência cumulativa da prática de falta disciplinar de natureza grave nos doze meses anteriores e 25.12.2023 e a aplicação de sanção, reconhecida pelo juízo competente, em audiência de justificação, com observância do contraditório e da ampla defesa. 2. Embora tenha havido a prática de falta grave em período relevante, sua homologação judicial somente ocorreu em data posterior àquela prevista no decreto, inexistindo, portanto, impedimento formal até 25/12/2023. 3. Afastado o óbice imposto na decisão primeva, não é possível a apreciação do pedido de concessão de indulto ao reeducando sem a análise anterior pelo Juízo da Execução, para não incorrer em supressão de instância. 4. Recurso parcialmente provido, com determinação.
+O recorrente sustenta ter sido violado o art. 6º, caput, do Decreto n. 11.846/2023, afirmando que o marco temporal dos "doze meses  contados retroativamente a 25 de dezembro de 2023" refere-se exclusivamente ao cometimento da falta grave, sendo irrelevante que a homologação judicial tenha ocorrido após essa data.
+Aduz que a interpretação de decretos concessivos de indulto deve ser estrita e fiel ao texto, por se tratar de competência privativa do Presidente da República (art. 84, XII, da Constituição da República), vedada ao Judiciário a ampliação dos requisitos temporais previstos.
+Argumenta que a jurisprudência do Superior Tribunal de Justiça estabelece que a homologação posterior da falta grave não afasta o impedimento ao indulto, quando a infração tiver sido praticada dentro do período depurador.
+Contrarrazões apresentadas às fls. 159-168.
+O recurso foi admitido na origem (fl. 175).
+É o relatório.
+A controvérsia cinge-se a definir se é possível que a homologação da falta grave em momento posterior à publicação do Decreto n. 11.846/2023, possa impedir a concessão do indulto com base no art. 6º, caput, do referido decreto.
+Consoante se extrai dos autos, o Juízo da execução negou provimento ao pedido de indulto formulado pela defesa, em decisão assim fundamentada (fls. 16-17, grifei):
+Do indulto da pena com base no Decreto nº 11846/2023
+Quanto ao direito, dispõe o art. 3º c/c art. 6º do Decreto nº 11846/2023, que:
+ ..
+Sendo assim, consoante se infere do espelho SIGPRI que ora segue, verifico que o sentenciado cometeu falta grave durante o curso da execução penal na data de 06/12/2023, referente ao cometimento de novo crime.
+Dessa forma, o sentenciado não satisfaz os requisitos legais previstos no Decreto nº 11846/ 2023, tendo em vista que não cumpriu o requisito subjetivo, tendo praticado falta grave nos doze meses contados retroativamente a data do Decreto.
+Por sua vez, o Tribunal de origem deu parcial provimento ao agravo em execução interposto, consignando, para tanto, que (fls. 129-132, grifei):
+A falta grave se deu em 06.12.2023 - nova condenação no curso da execução -, tendo seu reconhecimento se dado em 17.10.2024 (seq. 91.1 - SEEU).
+A irresignação defensiva reside quanto ao requisito subjetivo como delineado no art. 6º do Decreto nº 11.846/2023, para a concessão do requerido indulto.
+Ao se analisar com acuidade o disposto no Decreto 11.846/2023 no que diz respeito a óbice para a concessão do indulto, verifica-se a exigência cumulativa da prática de falta disciplinar de natureza grave nos doze meses anteriores e 25.12.2023 e a aplicação de sanção, reconhecida pelo juízo competente, em audiência de justificação, com observância do contraditório e da ampla defesa.
+Nesse sentido, mesmo que exista a notícia de que o agravante tenha praticado falta grave, não houve qualquer reconhecimento formal pelo Juízo da Execução até a data do Decreto que, repito, apenas se deu em 17.10.2024 (seq. 91.1).
+Portanto, adotando-se a interpretação pela taxatividade do art. 6º, constata-se que não havia, em 25 de dezembro de 2023, sanção disciplinar reconhecida pelo juízo competente.
+ ..
+Por outro lado, no entanto, verifico que não é o caso de se conceder, desde logo, o referido benefício.
+Isso porque, como se vê da decisão combatida, o Juízo da Execução não cuidou de apreciar os requisitos objetivos e subjetivos elencados no Decreto, afirmando tão somente que a prática de falta grave durante o curso da execução penal na data de 06/12/2023, inviabiliza o reconhecimento do indulto.
+Com essas considerações, encontra-se este Tribunal impossibilitado de fazê-lo, sob pena de incorrer em supressão de instância.
+Portanto, concluo por afastar o óbice imposto pelo douto Magistrado, determinando-lhe que aprecie os demais requisitos elencados no Decreto Presidencial nº 11.846/2023.
+Verifica-se que a Corte local cassou a decisão do Juízo da execução por concluir que, ainda que a falta grave tenha sido praticada pelo apenado nos 12 meses previstos no art. 6º do Decreto 11.846/2023, sua homologação somente ocorreu em 17/10/2024.
+Sobre a matéria, e em caso análogo ao dos autos, o Superior Tribunal de Justiça, analisando o Decreto n. 9.246/2017, que, registre-se, possuía redação semelhante quanto ao impedimento decorrente da prática de falta grave nos 12 meses anteriores à publicação do decreto presidencial, no julgamento do Tema Repetitivo n. 1.195, estabeleceu que: "O período de 12 meses a que se refere o art. 4º, I, do Decreto n. 9.246/2017 caracteriza-se pela não ocorrência de falta grave nesse interstício, ainda que a apuração da infração disciplinar tenha sido concluída em momento posterior, desde que não configurada inércia ou mora estatal para instauração de procedimento apuratório."
+Confira-se o precedente qualificado:
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL REPETITIVO. TEMA N. 1.195. COMUTAÇÃO DE PENA. DECRETO PRESIDENCIAL. PRÁTICA DE FALTA GRAVE. PERÍODO IMPEDITIVO. RECURSO PROVIDO. TESE FIXADA.
+I. CASO EM EXAME
+1. Recurso especial interposto pelo Ministério Público do Estado de Minas Gerais contra acórdão não unânime do TJMG que julgou agravo em execução e deferiu a comutação de pena com base no Decreto n. 9.246/2017, sob o fundamento de ausência de falta grave homologada em juízo nos últimos doze meses anteriores à publicação do decreto.
+2. O Ministério Público alegou que a falta grave foi cometida em 15/6/2017 e homologada em 11/6/2018, dentro do lapso impeditivo previsto no decreto, e pleiteou o afastamento da comutação.
+3. Afetação de recurso especial repetitivo, nos termos dos arts. 1.036 e 1.037 do Código de Processo Civil, como Tema n. 1.195 do STJ, para formação de precedente vinculante (CPC, art. 927, III) sendo debatida a seguinte questão: Possibilidade de comutação de pena, nos casos em que, embora tenha ocorrido a prática de falta grave nos últimos doze meses que antecederam a publicação do Decreto n. 9.246/17, não conste homologação em juízo no mesmo período.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se a prática de falta grave nos doze meses anteriores à publicação do Decreto n. 9.246/2017 impede a concessão de comutação de pena ou se o período em questão se relaciona à data de homologação judicial da sanção.
+III. RAZÕES DE DECIDIR
+5. A interpretação do art. 4º, I, do Decreto n. 9.246/2017, que vincula a concessão da comutação à ausência de falta grave nos doze meses anteriores à publicação do decreto, deve ser realizada de forma lógica e sistemática, considerando o objetivo de avaliar o comportamento recente do apenado, o que afasta a influência da data de homologação da sanção.
+6. O período de doze meses a ser verificado como requisito para concessão do benefício caracteriza-se pelo não cometimento de falta grave, o que atende ao princípio constitucional da individualização da pena.
+IV. DISPOSITIVO E TESE
+7. Resultado do Julgamento: Recurso especial provido.
+Tese de julgamento e de solução do Tema n. 1.195 do STJ:
+1. O período de doze meses a que se refere o art. 4º, I, do Decreto n. 9.246/2017 caracteriza-se pela não ocorrência de falta grave, não se relacionando à data de sua apuração, desde que já instaurado o processo administrativo disciplinar correspondente.
+Dispositivos relevantes citados:
+Decreto n. 9.246/2017, art. 4º, I; CF/1988, art. 5º, XXXIX; CPC, arts. 926, 927, III, e 1.036.
+Jurisprudência relevante citada:STJ, HC n. 713.096/SC, relator Ministro Jesuíno Rissato, Quinta Turma, julgado em 8/2/2022; STJ, HC n. 456.119/RS, relator Ministro Felix Fischer, Quinta Turma, julgado em 4/10/2018; STJ, AgRg no REsp n. 1.648.321/MG, relator Ministro Jorge Mussi, Quinta Turma, julgado em 11/9/2018; STJ, EREsp n. 1.477.886/RS, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 8/8/2018; STJ, HC n. 317.211/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/5/2016.
+(REsp n. 2.011.706/MG, relator Ministro Og Fernandes, Terceira Seção, julgado em 10/12/2025, DJEN de 16/12/2025, grifei.)
+A propósito, ao julgar os embargos de declaração opostos no precedente acima exposto, houve a redefinição da tese original, a fim de esclarecer, especificamente, que: "O critério formal e objetivo - centrado na prévia instauração de processo administrativo disciplinar - deve ser substituído por um critério finalístico e de eficiência, segundo o qual a falta grave obsta a concessão do benefício independentemente da data de sua apuração, desde que não se constate inércia ou mora injustificada do Estado na adoção das providências apuratórias cabíveis" (EDcl no REsp n. 2.011.706/MG, relator Ministro Og Fernandes, Terceira Seção, julgado em 10/6/2026, DJEN de 22/6/2026, grifei).
+Nesse contexto, o acórdão recorrido vai de encontro à jurisprudência desta Corte Superior de Justiça, uma vez que o próprio Tribunal de origem afasta a inércia do Estado por reconhecer que a falta grave já foi, inclusive, homologada.
+Ante o exposto, com fundamento nos arts. 932, VIII, do CPC, e 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, para cassar o acórdão recorrido e restabelecer a decisão do Juízo da Execução Penal de Contagem/MG, que indeferiu o pedido de indulto com base no Decreto n. 11.846/2023, conforme a decisão de fls. 16-18.
+Publique-se. Intimem-se.
+EMENTA
