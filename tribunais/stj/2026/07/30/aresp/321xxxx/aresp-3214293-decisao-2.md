@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LUIZ HENRIQUE DIAS contra a decisão do Tribunal de Justiça do Estado de Santa Catarina que inadmitiu recurso especial apresentado contra o acórdão exarado no julgamento da Apelação Criminal n. 5002094-24.2025.8.24.0062/SC.
+O Ministério Público Federal apresentou parecer opinando pelo não conhecimento dos agravos (fls. 625/628).
+É o relatório.
+O agravo é inadmissível.
+Inicialmente, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos, inclusive de forma específica, suficiente e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula 182/STJ (AgRg nos EDcl no AREsp n. 2.985.942/MA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/9/2025, DJEN de 25/9/2025).
+Ao que se observa, o Tribunal de origem inadmitiu o apelo nobre pelos seguintes fundamentos: 1) impossibilidade de exame de dispositivo e/ou princípio constitucional em recurso especial; 2) incidência da Súmula 7/STJ quanto a todas as controvérsias por exigir reexame de fatos e provas; e 3) cabimento exclusivo do agravo em recurso especial do art. 1.042 do Código de Processo Civil, e não de agravo interno/regimental (fls. 570/573).
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a íntegra da decisão de inadmissão.
+Alega que a Súmula 7/STJ foi aplicada equivocadamente porque sua pretensão seria de revaloração jurídica das premissas fáticas fixadas no acórdão - invasão domiciliar decorrente de suposta fuga e autorização por terceiro -, sem revolvimento do acervo probatório.
+Argumenta que, quanto à restituição dos valores apreendidos, a controvérsia é jurídica - distribuição do ônus probatório e suficiência de contracheques -, não demandando reexame de provas, pois a renda lícita de R$ 7.000,00 demonstraria compatibilidade com os R$ 2.100,00.
+Sustenta que os precedentes citados na decisão de admissibilidade não se amoldam ao caso concreto, por envolverem investigação prévia ou elementos objetivos distintos, ao passo que, no caso, a abordagem teria sido baseada em subjetivismo policial e em simples "aceleração" do veículo.
+Defende que a menção ao art. 5º, XI, da Constituição serve apenas como vetor interpretativo do art. 157 do Código de Processo Penal, não tendo o recurso especial sido interposto para discutir matéria constitucional em abstrato.
+Em que pese as alegações, verifica-se a ausência de impugnação concreta dos fundamentos da decisão agravada.
+Quanto ao óbice constitucional, o agravante não demonstra como as teses poderiam ser conhecidas sem atribuir violação direta do texto constitucional, limitando-se a afirmar a utilização do dispositivo como vetor interpretativo, sem afastar o fundamento de incompetência do Superior Tribunal de Justiça para apreciar matéria constitucional em recurso especial.
+Relativamente à Súmula 7/STJ, o agravante não individualiza, com base nas premissas fáticas específicas do acórdão recorrido - tentativa de evasão, autorização assinada por morador, apreensões em ambas as residências, anotações contábeis e volume de drogas, inexistência de prova específica da origem do numerário -, como cada tese poderia ser decidida apenas por revaloração jurídica, sem reexame do conjunto probatório; limita-se a afirmar genericamente a viabilidade de revaloração, sem indicar trechos concretos das premissas fáticas suficientes para a solução de direito.
+Por fim, q uanto ao cabimento recursal, contra a decisão que não admite recurso especial, o recurso adequado é o agravo em recurso especial previsto no art. 1.042 do Código de Processo Civil.
+Nessas condições, configurada a falta de ataque específico e pormenorizado aos fundamentos da decisão agravada, incide a Súmula 182/STJ.
+Por conseguinte, aplica-se, à hipótese dos autos, o art. 932, inciso III, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, e a Súmula 182/STJ por analogia.
+Pelo exposto, não conheço do agravo em recurso especial .
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. TEMA CENTRAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO. DECISÃO INCINDÍVEL. SÚMULA 182/STJ. MATÉRIA CONSTITUCIONAL. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA 7/STJ. MERA REVALORAÇÃO NÃO DEMONSTRADA. CABIMENTO RECURSAL. INADEQUAÇÃO DO AGRAVO REGIMENTAL.
+Agravo em recurso especial não conhecido.
