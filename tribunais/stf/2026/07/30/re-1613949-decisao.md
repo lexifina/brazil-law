@@ -1,0 +1,43 @@
+Decisão: A 1ª Câmara Especial Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul deu parcial provimento à apelação interposta pelo ora recorrido, mediante acórdão (eDOC 256, p. 1-10) assim ementado:
+
+“APELAÇÃO CRIMINAL. HOMICÍDIO QUALIFICADO TENTADO. DOSIMETRIA DA PENA. RECONHECIMENTO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. COMPENSAÇÃO COM A AGRAVANTE DA REINCIDÊNCIA. REDUÇÃO DA PENA. RECURSO PARCIALMENTE PROVIDO.
+I. CASO EM EXAME:
+1. APELAÇÃO CRIMINAL INTERPOSTA PELA DEFESA CONTRA A SENTENÇA QUE CONDENOU O RÉU NAS SANÇÕES DO ARTIGO 121, § 2º, IV, C/C ARTIGO 14, II, AMBOS DO CÓDIGO PENAL, À PENA DE 9 ANOS E 4 MESES DE RECLUSÃO, EM REGIME INICIALMENTE FECHADO, INSURGINDO-SE APENAS QUANTO AO APENAMENTO, POSTULANDO A REDUÇÃO DA PENABASE PARA O MÍNIMO LEGAL, O RECONHECIMENTO DA CONFISSÃO E A REDUÇÃO MÁXIMA PELA TENTATIVA.
+II. QUESTÃO EM DISCUSSÃO:
+1. HÁ TRÊS QUESTÕES EM DISCUSSÃO: (I) A POSSIBILIDADE DE REDUÇÃO DA PENA-BASE AO MÍNIMO LEGAL, COM A NEUTRALIZAÇÃO DA CULPABILIDADE; (II) O RECONHECIMENTO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA; (III) A APLICAÇÃO DA FRAÇÃO MÁXIMA DE REDUÇÃO PELA TENTATIVA.
+III. RAZÕES DE DECIDIR:
+1. A NEGATIVAÇÃO DA CULPABILIDADE FOI CORRETAMENTE VALORADA NA SENTENÇA, POIS O RÉU TINHA CIÊNCIA DA DEFICIÊNCIA VISUAL DA VÍTIMA, O QUE IMPLICA MAIOR GRAU DE REPROVABILIDADE DA CONDUTA, CONFORME JURISPRUDÊNCIA DO STJ.
+2. O AUMENTO DE 2 ANOS NA PENA-BASE PELA CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL ESTÁ DENTRO DO PATAMAR NORMALMENTE UTILIZADO PELOS TRIBUNAIS, SENDO SUFICIENTE PARA A REPROVAÇÃO E PREVENÇÃO DO CRIME.
+3. A ATENUANTE DA CONFISSÃO ESPONTÂNEA DEVE SER RECONHECIDA, POIS O RÉU ADMITIU TER AGREDIDO A VÍTIMA, AINDA QUE TENHA ALEGADO NÃO QUERER MACHUCÁLA, CONFIGURANDO CONFISSÃO QUALIFICADA, QUE, SEGUNDO ENTENDIMENTO DO STJ, DEVE SER RECONHECIDA INDEPENDENTEMENTE DE SER PARCIAL OU ACOMPANHADA DE TESE EXCULPATÓRIA.
+4. A ATENUANTE DA CONFISSÃO ESPONTÂNEA DEVE SER COMPENSADA INTEGRALMENTE COM A AGRAVANTE DA REINCIDÊNCIA, CONFORME JURISPRUDÊNCIA DO STJ, REMANESCENDO APENAS A AGRAVANTE DO CRIME PRATICADO CONTRA MAIOR DE 60 ANOS, COM AUMENTO DE 1/6 NA PENA.
+5. A FRAÇÃO DE REDUÇÃO DE 1/2 PELA TENTATIVA É PROPORCIONAL AO ITER CRIMINIS PERCORRIDO, POIS NÃO SE TRATA DE TENTATIVA BRANCA (QUE JUSTIFICARIA REDUÇÃO MÁXIMA), NEM HOUVE PERIGO DE VIDA (QUE JUSTIFICARIA REDUÇÃO MÍNIMA), TENDO A VÍTIMA SOFRIDO FERIMENTOS COMPROVADOS POR EXAME PERICIAL.
+IV. DISPOSITIVO E TESE:
+1. RECURSO PARCIALMENTE PROVIDO PARA RECONHECER A ATENUANTE DA CONFISSÃO ESPONTÂNEA, COMPENSÁ-LA INTEGRALMENTE COM A AGRAVANTE DA REINCIDÊNCIA E REDUZIR A PENA PARA 8 ANOS E 2 MESES DE RECLUSÃO, MANTIDO O REGIME FECHADO. TESE DE JULGAMENTO: 1. A ATENUANTE DA CONFISSÃO ESPONTÂNEA DEVE SER RECONHECIDA SEMPRE QUE O RÉU ADMITIR A AUTORIA DO DELITO, INDEPENDENTEMENTE DE A CONFISSÃO SER PARCIAL, QUALIFICADA OU ACOMPANHADA DE TESE EXCULPATÓRIA, PODENDO SER COMPENSADA INTEGRALMENTE COM A AGRAVANTE DA REINCIDÊNCIA. (eDOC 256, p. 5-6)
+
+Rejeitaram-se os embargos de declaração opostos pelo ora recorrente, após a correção, de ofício, de erro material  (eDOC 262, p. 1-7).
+
+Daí o recurso extraordinário interposto pelo MP/RS (eDOC 264, p. 1-16) com alegação de ofensa ao art. 5º, inciso XLVI, da Constituição Federal. Demonstrou-se a repercussão geral das questões constitucionais arguidas.
+
+Rejeitaram-se os embargos infringentes opostos pelo ora recorrido (eDOC 270, p. 1-5).
+
+O 2º Vice-Presidente do TJ/RS admitiu o RE (eDOC 272, p. 1-4).
+
+É o relatório.
+
+Decido.
+
+De imediato, frise-se que, para divergir do entendimento firmado pelo Tribunal de origem, seria necessário o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Dessa forma, incide, no RE em exame, o óbice da Súmula 279 do Supremo Tribunal Federal.
+
+Nesse sentido é a jurisprudência desta Suprema Corte: ARE 1.582.554 AgR/MG, Rel. Min. Luiz Fux, Segunda Turma, DJe 27.2.2026; ARE 1.523.968 AgR/SC, Rel. Min. Luís Roberto Barroso (Presidente), Plenário, DJe 15.1.2025; ARE 1.433.874 AgR-Segundo/MG, Rel. Min. Luís Roberto Barroso, Plenário, DJe 2.8.2023; ARE 1.475.676 AgR/RJ, Rel. Min. Cristiano Zanin, Primeira Turma, DJe 24.4.2024; ARE 1.523.208 AgR/RJ, por mim relatado, Segunda Turma, DJe 19.12.2024; dentre outros.
+
+Outrossim, a ofensa à Constituição, se existente, seria reflexa ou indireta, de índole infraconstitucional, o que inviabiliza o processamento do recurso em apreço, consoante iterativa jurisprudência desta Corte: ARE 1.584.133 AgR/SP, Rel. Min. Cristiano Zanin, Primeira Turma, DJe 2.3.2026; ARE 1.524.430 AgR/RS, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 23.1.2025; ARE 1.436.869 AgR/SP, Rel. Min. Rosa Weber (Presidente), Plenário, DJe 25.7.2023; ARE 1.462.494 AgR/MA, Rel. Min. Luís Roberto Barroso (Presidente), Plenário, DJe 9.1.2024; dentre outros.
+
+Ante o exposto, nego seguimento ao recurso (art. 21, § 1º, do RI/STF).
+
+Publique-se. Intime-se.
+
+Brasília, 30 de julho de 2026.
+
+Ministro GILMAR MENDES
+Relator
+  Documento assinado digitalmente
