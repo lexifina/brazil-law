@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DA PARAÍBA, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual se insurge contra o acórdão do Tribunal de Justiça do Estado da Paraíba assim ementado (fl. 655):
+Ementa. Direito Processual Civil. Agravo Interno. Remessa Necessária. Não conhecimento. Desprovimento.
+I. Caso em exame
+Agravo Interno interposto pelo Estado, objetivando a reforma de decisão monocrática que não conheceu da remessa necessária. O agravante alega que a sentença de primeiro grau, ao condenar o Estado à promoção funcional da parte autora, é ilíquida e, portanto, exige a aplicação da remessa necessária.
+II. Questão em discussão
+A questão em discussão consiste em saber se a existência de recurso de apelação interposto pela Fazenda Pública afasta a necessidade de remessa oficial, nos termos do art. 496, § 1º, do Código de Processo Civil.
+III. Razões de decidir
+O art. 496 do CPC estabelece as hipóteses de sujeição da sentença ao duplo grau de jurisdição. Contudo, o § 1º do referido artigo dispõe que "Nos casos previstos neste artigo, não interposta a apelação no prazo legal, o juiz ordenará a remessa dos autos ao tribunal, e, se não o fizer, o presidente do respectivo tribunal avocá-los-á". Isso significa que, havendo interposição de apelação pela Fazenda Pública no prazo legal, a remessa necessária se torna desnecessária, pois a matéria já será submetida ao reexame do Tribunal por meio do recurso voluntário.
+A nova sistemática processual instituiu uma lógica de mútua exclusão entre a remessa necessária e o recurso de apelação fazendário, ou seja, só haverá remessa obrigatória se não houver apelação no prazo legal.
+IV. Dispositivo e tese
+Agravo Interno conhecido e desprovido.
+Os embargos de declaração opostos foram acolhidos para declarar o não conhecimento da remessa oficial (fls. 656/657).
+A parte recorrente alega violação dos arts. 496 do Código de Processo Civil, sustentando que a obrigatoriedade do reexame necessário não se afasta pela interposição de apelação quando a condenação é ilíquida, pois a dispensa prevista no § 3º do art. 496 pressupõe certeza de que o montante não supera os limites legais.
+Argumenta que o acórdão recorrido contrariou a jurisprudência do Superior Tribunal de Justiça que afirma ser obrigatória a remessa necessária em sentenças ilíquidas proferidas contra a Fazenda Pública (fls. 667/670).
+Argumenta que há divergência jurisprudencial, indicando precedentes do Superior Tribunal de Justiça (Recurso Especial 1.845.962/PR e Agravo em Recurso Especial 1.532.458/RN) que reconhecem a obrigatoriedade da remessa necessária em sentenças ilíquidas e afastam a mera estimativa como critério para dispensá-la (fls. 668/670).
+Contrarrazões apresentadas às fls. 673/675.
+O recurso foi admitido (fl. 679).
+É o relatório.
+Na origem, cuida-se de ação ordinária, em que a parte autora pleiteia promoção funcional e inclusão de adicionais e vantagens pecuniárias (adicional de representação, risco de vida, bolsa desempenho e auxílio alimentação) para todos os fins, inclusive descontos previdenciários e cálculo do imposto de renda (fl. 673).
+Sobre a alegada violação do art. 496 do Código de Processo Civil, com a assertiva de que a remessa necessária é obrigatória em sentenças ilíquidas proferidas contra a Fazenda Pública e de que a interposição de apelação pela Fazenda não afasta o reexame obrigatório (fls. 664/670), a tese da recorrente se harmoniza com a orientação atual do STJ.
+A propósito, cito os seguintes julgados:
+DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. ALEGADA OFENSA AOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. AÇÃO DECLARATÓRIA DE NULIDADE DE ATO ADMINISTRATIVO. SENTENÇA REFORMADA EM REMESSA NECESSÁRIA. OBRIGATORIEDADE. EXISTÊNCIA DE APELAÇÃO DO ENTE PÚBLICO NÃO CONHECIDO. IRRELEVÂNCIA. PRECEDENTES DESTA CORTE. INCIDÊNCIA DA SÚMULA N. 83 DO STJ. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. ÓBICE DA SÚMULA N. 283 DO STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E DESPROVIDO.
+1. Na origem, ação ordinária ajuizada pela ora Recorrente em face do Estado de Minas Gerais, objetivando a declaração de nulidade do ato administrativo que aboliu o pagamento dos quinquênios administrativos e do adicional trintenário sobre os proventos de aposentadoria da parte autora, condenado o réu ao saldar da diferença pretérita, observada a prescrição quinquenal, julgada procedente.
+2. O Tribunal a quo não conheceu do apelo do Estado e reformou a sentença para julgar improcedente o pedido, em sede de remessa necessária.
+3. Hipótese em que o acórdão recorrido apresentou fundamentação concreta e suficiente para dar suporte às suas conclusões, inexistindo desrespeito ao dever judicial de se fundamentar as decisões judiciais, no sentido da possibilidade de exame da remessa necessária mesmo na hipótese de interposição de recurso voluntário do ente estatal.
+4. No caso, a interpretação do art. 496, § 1º, do Código de Processo Civil feita pela Corte a quo está alinhada com a jurisprudência do Superior Tribunal de Justiça, no sentido de que a remessa necessária será analisada pelo Tribunal mesmo se houver apelação do ente público. Incidência da Súmula n. 83 do STJ.
+5. O exame da remessa necessária independe da ausência de apelação por parte do ente público, sendo permitido ao tribunal de segunda instância reavaliar todas as questões decididas desfavoravelmente à Fazenda Pública.
+6. Quanto à alegada ofensa ao art. 496, § 4º, inciso IV, do Código de Processo Civil, o acórdão recorrido está assentado em fundamento suficiente, por si só, para dar suporte à conclusão do Tribunal de origem, no sentido de que "a sentença vergastada embasou-se na ocorrência da decadência do direito de a Administração revisar ou anular o seu ato, e não na ausência do devido processo legal". A parte recorrente, no entanto, deixou de impugnar a referida fundamentação. Óbice da Súmula n. 283 do STF.
+7. Recurso especial parcialmente conhecido e desprovido.
+(REsp n. 1.850.270/MG, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 24/6/2026, DJEN de 2/7/2026.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. MAJORAÇÃO DE OFÍCIO DOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS, EM DESFAVOR DA FAZENDA PÚBLICA. OCORRÊNCIA DE REFORMATIO IN PEJUS. DIVERGÊNCIA DO ACÓRDÃO RECORRIDO, NO PONTO, COM A JURISPRUDÊNCIA DO STJ. SÚMULA 568 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência consolidada na Súmula 45 do STJ, quando o capítulo da sentença referente à condenação da Fazenda Pública em honorários advocatícios não foi objeto de recurso de apelação pela parte autora, não pode a Corte de origem, ao negar provimento à apelação interposta pela Fazenda Pública e à remessa oficial, majorar esses honorários advocatícios sucumbenciais, sob pena de reformatio in pejus. Precedentes.
+2. A jurisprudência desta Corte orienta-se, ainda, no sentido de que a interposição de apelação pelo ente público não afasta a obrigatoriedade da remessa necessária, que deve ser processada de ofício, conforme o art. 496 do CPC/2015. Precedente.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.189.033/RJ, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 4/3/2026, DJEN de 10/3/2026.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INOCORRÊNCIA. APELAÇÃO INTERPOSTA PELO ENTE PÚBLICO. IRRELEVÂNCIA PARA O PROCESSAMENTO DE OFÍCIO DO REEXAME NECESSÁRIO. EXISTÊNCIA DE COISA JULGADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+II - A interposição de apelação pelo ente público não afasta a obrigatoriedade da remessa necessária, que deve ser processada de ofício, nos termos do art. 496 do CPC.
+III - No presente caso, rever a conclusão alcançada pelo tribunal de origem, a fim de afastar a coisa julgada, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 deste Tribunal Superior.
+IV - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt no REsp n. 2.152.742/RN, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 24/11/2025, DJEN de 27/11/2025.)
+O acórdão recorrido, portanto, conferiu ao art. 496, § 1º, do CPC interpretação diversa daquela que prevalece neste Superior Tribunal de Justiça. Citado parágrafo não institui hipótese de dispensa da remessa necessária, mas tão somente disciplina o mecanismo de remessa dos autos ao tribunal quando ausente a apelação. As únicas hipóteses de dispensa do reexame são as taxativamente arroladas no § 3º (valor certo e líquido inferior aos patamares legais) e no § 4º (sentença fundada em súmula, repetitivo, incidente de resolução de demandas repetitivas ou de assunção de competência, ou orientação administrativa vinculante), nenhuma delas presente na espécie.
+Ante o exposto, dou provimento ao recurso especial.
+Publique-se e intime-se.
+EMENTA
