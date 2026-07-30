@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de IARA GONÇALVES ROCHA, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais, que deu provimento ao agravo em execução interposto pelo Ministério Público nos termos do acórdão assim ementado:
+"AGRAVO DE EXECUÇÃO PENAL - EXECUÇÃO PROVISÓRIA - RECURSO MINISTERIAL - PRISÃO DOMICILIAR - REVOGAÇÃO - NECESSIDADE - REEDUCANDA QUE CUMPRE PENA EM REGIME SEMIABERTO - SÚMULA VINCULANTE Nº 56 DO STF - AUSÊNCIA DE ESTABELECIMENTO PRISIONAL ADEQUADO - EXCEPCIONALIDADE NÃO DEMONSTRADA. - É inviável a fixação do regime semiaberto em modalidade harmonizada com a prisão domiciliar, se não demonstrada, de forma fundamentada, a situação excepcional, em conformidade com a Súmula vinculante nº 56 do STF e os parâmetros definidos no RE 641.320/RS. V. V. Com o advento da Súmula Vinculante n.º 56, fica vedada a manutenção do condenado em regime prisional mais gravoso, fundamentada na ausência de estabelecimento prisional adequado às regras dos regimes aberto e semiaberto." (e-STJ, fl. 12).
+Neste writ, o impetrante alega constrangimento ilegal sofrido pela paciente em decorrência da revogação da prisão domiciliar em regime semiaberto harmonizada, contrariando a Súmula Vinculante n. 56/STF.
+Sustenta que a impetração não objetiva antecipar o mérito dos embargos infringentes opostos, mas apenas, "em caráter estritamente cautelar, a suspensão dos efeitos do acórdão impugnado até o julgamento dos Embargos Infringentes, especialmente para impedir a expedição ou o cumprimento de mandado de prisão contra a paciente, pessoa idosa, gravemente enferma, em tratamento médico contínuo e já adaptada ao regime semiaberto harmonizado desde novembro de 2025." (e-STJ, fl. 4).
+Ressalta que o quadro clínico da paciente é incompatível com o retorno abrupto ao cárcere tradicional.
+Requer, ao final, a concessão da ordem para "assegurar a suspensão dos efeitos do acórdão recorrido até o julgamento definitivo dos Embargos Infringentes, preservando-se a utilidade prática do recurso defensivo e evitando-se dano irreversível à saúde e à integridade física da paciente" (e-STJ, fl.11).
+A liminar foi indeferida, assim como o pedido de reconsideração.
+Prestadas as informações, os autos foram encaminhados ao Ministério Público Federal, que opinou pelo não conhecimento do habeas corpus.
+Consta, ainda, nos autos: (i) a petição n. 625.307/2026 (e-STJ, fls. 1912-1941), requerendo a juntada da cópia dos embargos infringentes; (ii) a petição n. 729.167/2026 (e-STJ, fls. 1942-1951), na qual informa o julgamento dos embargos infringentes e a ausência de vagas nas unidades prisionais na Comarca de Uberlândia, requerendo a concessão da ordem e a juntada do acórdão.
+É o relatório.
+Decido.
+A consulta aos autos da execução n. 0673587-61.2026.8.13.0000, na página eletrônica do Tribunal de Justiça do Estado de Minas Gerais, demonstra que, em 14/7/2026, não foram acolhidos os embargos infringentes, de modo que é manifesta a superveniente ausência do interesse de agir e a consequente perda do objeto deste habeas corpus devido à alteração da situação fático-processual do apenado.
+Ante o exposto, julgo prejudicado este habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
