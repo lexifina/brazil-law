@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ELTON APARECIDO MARTINS contra decisão de minha relatoria, de fls. 75/81, em que não conheci do habeas corpus.
+No presente recurso (fls. 86/89), a defesa aduz que houve omissão na decisão embargada, ante a ausência de enfrentamento específico da tese de bis in idem entre os fundamentos utilizados pelo Tribunal de origem para negativar a culpabilidade e as circunstâncias do crime, pugnando pelo afastamento de uma das vetoriais negativas, com redução da pena-base e adequação do regime, à vista da primariedade, bons antecedentes e ausência de violência ou grave ameaça.
+Requer, assim, o conhecimento e acolhimento dos embargos de declaração para suprir a omissão apontada, com a concessão da ordem de habeas corpus para afastar uma das circunstâncias judiciais negativadas e reduzir a pena-base e, por consequência, fixar o regime aberto.
+É o relatório.
+Decido.
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado. Ainda, admitem-se para correção de erro material, conforme art. 1.022, III, do Código de Processo Civil - CPC.
+Na hipótese, de fato, a decisão embargada não se pronunciou expressamente sobre a tese defensiva de ocorrência de bis in idem entre os fundamentos utilizados para negativar a culpabilidade e as circunstâncias do crime.
+Em análise da questão, verifica-se a ausência de interesse de agir da defesa, haja vista que o próprio Tribunal de origem, ao proferir novo julgamento dos embargos de declaração defensivos, conforme determinado em decisão de minha relatoria, nos autos do AREsp n. 2249955/SP, excluiu uma das circunstâncias judiciais em razão do configurado bis in idem, com a redução da pena do embargante para 2 anos de reclusão e 10 dias-multa, in verbis:
+"Na primeira fase do cálculo, a pena-base foi exasperada em 1/6 (um sexto), por entender que a culpabilidade do autor do crime, augiu ao normal à espécie, eis que a conduta "extrapolou os limites da conduta descrita no tipo penal, uma vez que "colocou em cheque a credibilidade de funcionários do Tribunal de Justiça do Estado de São Paulo que laboram na Comarca de Santa Cruz do Rio Pardo/SP. Sendo certa a elevadíssima censurabilidade da conduta, essa circunstância deve ser sopesada negativamente", bem como valorou negativamente as circunstâncias do crime, eis que as acusações foram realizadas em voz alta, no balcão de atendimento do Ofício (sic)".
+Contudo, a Corte Superior entendeu que ocorreu bis in idem na referida fundamentação, pois valorou negativamente a culpabilidade e as circunstâncias do crime no fato do embargante, em voz alta, colocar em risco a idoneidade dos funcionários deste Egrégio Tribunal de Justiça acusando-os de cometerem crime.
+Desse modo, considerando a presença de apenas uma circunstância judicial negativa, exaspero a basilar em 1/8 (um oitavo), fixando-a em 02 (dois) anos e 03 (três) meses de reclusão e pagamento de 11 (onze) dias-multa." (fls. 49/50).
+No mais, mantém-se a decisão embargada pelos seus próprios fundamentos.
+Ante o exposto, com fulcro no art. 264, § 1º, do Regimento Interno do Superior Tribunal de Justiça, acolho os embargos de declaração, sem efeitos infringentes, apenas para integrar a decisão embargada, nos termos da fundamentação supra, mantendo o não conhecimento do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
