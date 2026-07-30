@@ -1,0 +1,3 @@
+Art. 1º-A. O poder público divulgará o número telefônico referido no art. 1º desta Lei em meios de comunicação de massa, em locais públicos e privados de grande circulação de pessoas, tais como escolas, casas de espetáculos e outros locais de diversão, órgãos públicos, hospitais e meios de transporte de massa.
+§ 1º O número telefônico mencionado no caput deste artigo deverá ser único para todo o País, composto de apenas três dígitos, e de acesso gratuito aos usuários.
+§ 2º O serviço de atendimento objeto desta Lei deverá ser operado pela Central de Atendimento à Mulher, sob a coordenação do Poder Executivo.
