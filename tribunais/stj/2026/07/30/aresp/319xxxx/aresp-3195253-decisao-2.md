@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por JOSUE PINTO DA SILVA e WLAMIR BENEDITO SOARES contra a decisão que inadmitiu o recurso especial, fundado no art. 105, III, a, da Constituição Federal, apresentado contra o acórdão exarado pelo Tribunal de Justiça do Estado de Mato Grosso no julgamento das apelações criminais no Processo n. 0005287-49.2011.8.11.0042 (fls. 4.692/4.721)
+Nas razões do recurso especial, os agravantes alegam que o acórdão contrariou o art. 567 do Código de Processo Penal ao manter a competência da Justiça Estadual, quando os fatos, ocorridos no âmbito do Sistema Único de Saúde, atrairiam a competência da Justiça Federal por interesse da União, impondo a nulidade dos atos decisórios do juízo absolutamente incompetente.
+Argumenta que a gestão descentralizada do SUS não afasta o interesse federal, citando precedentes da Terceira Seção no sentido de que verbas do SUS, inclusive transferências fundo a fundo, estão sujeitas ao controle federal, de modo que seu desvio atrai a competência da Justiça Federal.
+Sustenta que foi demonstrado o pré-questionamento das teses federais nas instâncias ordinárias, com apreciação expressa da preliminar de incompetência e da consequência jurídica prevista no art. 567 do Código de Processo Penal.
+Defende que as interceptações telefônicas e demais atos decisórios são nulos se reconhecida a competência federal, pois teriam sido autorizados por juízo absolutamente incompetente, impondo a anulação dos atos decisórios nos termos do art. 567 do Código de Processo Penal.
+A Corte de origem inadmitiu o reclamo com base nos seguintes fundamentos: 1) consonância do acórdão recorrido com a jurisprudência do Superior Tribunal de Justiça, com incidência da Súmula 83/STJ; 2) necessidade de reexame do conjunto fático-probatório, atraindo a Súmula 7/STJ; e 3) ausência de matéria exclusivamente de direito federal, com fundamento no art. 1.030, V, do Código de Processo Civil (fls. 4.942/4.947), sendo a decisão atacada pelo presente agravo (fls. 4.949/4.958).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou pelo conhecimento do agravo para não conhecer do recurso especial ou, se conhecido, negar-lhe provimento (fls. 5.029/5.036).
+É o relatório.
+Conheço do agravo, porquanto presentes os seus pressupostos de admissibilidade. Os agravantes lograram infirmar, com suficiência, os fundamentos para inadmissão do especial.
+Todavia, o recurso especial não comporta conhecimento.
+No que se refere à suposta violação do art. 567 do Código de Processo Penal, o recurso especial padece de falta de prequestionamento, pois a Corte de origem não debateu eventual vulneração da norma federal sob o enfoque suscitado no recurso especial - nulidade dos atos decisórios por incompetência absoluta do juízo, embora os recorrentes tenham articulado tal tese nas razões do especial.
+Tampouco eventual omissão foi suscitada mediante oposição de aclaratórios ao acórdão ora atacado. Logo, é o caso de incidir as Súmulas 282 e 356/STF.
+No que se refere à suposta violação do art. 109, IV, da Constituição Federal - tese de competência da Justiça Federal por interesse da União em serviços e verbas do SUS -, o recurso especial é manifestamente descabido, pois essa matéria não é de competência desta Corte.
+O recurso especial, nos termos do art. 105, III, da Constituição Federal, não se presta à impugnação direta de dispositivos constitucionais, de sorte que a alegação de ofensa ao art. 109, IV, da Constituição deve ser veiculada pela via própria.
+Pelo exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. CORRUPÇÃO PASSIVA MAJORADA E PECULATO. CONTROVÉRSIA SOBRE COMPETÊNCIA DA JUSTIÇA FEDERAL NO ÂMBITO DO SUS. ALEGADA NULIDADE DOS ATOS DECISÓRIOS POR INCOMPETÊNCIA ABSOLUTA (ART. 567 DO CPP). AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356/STF. INDICAÇÃO DE VIOLAÇÃO CONSTITUCIONAL EM RECURSO ESPECIAL. MATÉRIA INADEQUADA À VIA ELEITA. NÃO CONHECIMENTO DO ESPECIAL.
+Agravo conhecido para não conhecer do recurso especial.
