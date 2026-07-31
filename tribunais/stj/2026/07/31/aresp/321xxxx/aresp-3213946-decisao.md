@@ -1,0 +1,32 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ROBERTO TEIXEIRA MILIANTE contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 30/1/2026.
+Concluso ao gabinete em: 17/6/2026.
+Ação: manutenção de posse, ajuizada por MAURÍCIO DA SILVA, em face do agravante, na qual requer a manutenção de sua posse no imóvel e a reparação de danos materiais.
+Sentença: julgou parcialmente procedentes os pedidos, para: i) manter o autor na posse do imóvel.
+Acórdão: negou provimento aos recursos de apelação interpostos pelo agravante e agravado, nos termos da seguinte ementa:
+APELAÇÕES CÍVEIS. DIREITO CIVIL. AÇÃO DE MANUTENÇÃO DE POSSE. ALEGAÇÃO DE POSSE DO IMÓVEL, BEM COMO DE TURBAÇÃO POR PARTE DO RÉU, REQUERENDO O AUTOR SUA MANUTENÇÃO NO IMÓVEL E INDENIZAÇÃO POR PERDAS E DANOS. PEDIDO CONTRAPOSTO DE REINTEGRAÇÃO DE POSSE. SENTENÇA DE PARCIAL PROCEDÊNCIA QUE DEFERIU A MANUTENÇÃO DA POSSE. PROVA UNÍSSONA EM DEMONSTRAR A POSSE DO IMÓVEL PELO AUTOR POR QUASE 20 ANOS. RECURSOS CONHECIDOS E NÃO PROVIDOS. Partes legítimas. Não há que se falar em mera detenção, uma vez que a posse do imóvel foi cedida por quem a detinha legitimamente, a irmã do falecido proprietário. Documentos que instruem a inicial e prova testemunhal que corroboram o exercício da posse do autor ao longo dos últimos anos. A presente ação versa exclusivamente sobre manutenção de posse e eventual discussão acerca de propriedade, bem como de aferição de respectiva área, deverá ser dirimida em ação própria, perante o juízo competente. Réu que não logrou comprovar o exercício de posse anterior a justificar pedido contraposto de reintegração naposse. Sentença irretocável. Recursos conhecidos e não providos. (e-STJ fls. 869-870)
+Embargos de Declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 937, I, do CPC, e 5º, LV, da Constituição Federal, bem como dissídio jurisprudencial. Afirma que houve cerceamento de defesa pela impossibilidade de realizar sustentação oral em julgamento de apelação, em decorrência de sucessivas publicações oficiais conflitantes de pauta e de deferimento de retirada, o que impõe a nulidade do julgamento. Aduz que a confiança legítima nas comunicações processuais e a paridade de armas são comprometidas quando o colegiado julga sem a presença da única patrona habilitada, apesar de publicação indicando nova data e decisão de retirada de pauta. Argumenta que o entendimento de que "errônea interpretação de datas" não nulifica o julgamento, nega vigência ao direito de sustentação oral previsto em lei federal e afronta o contraditório, a ampla defesa e o devido processo legal.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação de dispositivo constitucional
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+Nesse sentido: REsp n. 2.150.045/SP, Terceira Turma, DJEN de 4/4/2025; AgInt nos EDcl no AREsp n. 2.547.577/RJ, Primeira Turma, DJe de 22/11/2024; AgInt no AREsp n. 2.377.757/TO, Segunda Turma, DJe de 29/11/2023.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao cerceamento de defesa por impossibilidade de sustentação oral depende da reavaliação das publicações oficiais (datas de pauta, retirada e redesignação), do alcance do despacho de retirada de pauta e da validade da intimação para 14/5/2025, o que exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+A comprovação da divergência jurisprudencial demanda que a parte recorrente realize uma análise comparativa detalhada entre o acórdão recorrido e o paradigma, de modo a identificar as semelhanças entre as situações de fato e a existência de interpretações jurídicas diferentes sobre o mesmo dispositivo legal, além de observar os requisitos formais, consoante previsão dos arts. 1.029, § 1º, do CPC, e 255, §§ 1º e 3º, do RISTJ.
+No entanto, neste recurso, não se constata a presença dos elementos essenciais necessários para comprovar a existência do dissídio, o que inviabiliza a análise da divergência jurisprudencial. Nesse sentido: AgInt no AREsp 2.396.088/PR, Terceira Turma, DJe de 22/11/2023, e AgInt no AREsp 2.334.899/SP, Quarta Turma, DJe de 7/12/2023.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Isso porque, a demonstração da divergência não pode estar fundamentada em questões de fato, mas apenas na interpretação do dispositivo legal. Nesse sentido: AgInt no AREsp n. 1.974.371/RJ, Terceira Turma, DJe de 22/11/2023 e REsp n. 1.907.171/RJ, Quarta Turma, DJe de 11/1/2024.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite previsto no art. 85, § 2º, do CPC/15.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE MANUTENÇÃO DE POSSE. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. DISSÍDIO PREJUDICADO.
+1. Ação de manutenção de posse.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional, de súmula ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. Agravo conhecido. Recurso especial não conhecido.
