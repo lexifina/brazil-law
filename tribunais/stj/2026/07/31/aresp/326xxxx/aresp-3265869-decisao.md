@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo interposto por GIGA MAIS FIBRA TELECOMUNICAÇÕES S.A. , que visa demonstrar a admissibilidade de recurso especial no qual sustenta a ilegalidade da cobrança do ICMS/DIFAL nas operações destinadas a contribuinte do imposto, realizadas antes da vigência da LC n. 190/2022.
+Pois bem.
+A Primeira Seção, por meio de acórdão publicado em 03/07/2026, ao julgar o Tema 1.369, firmou a tese de que "a Lei Complementar n. 87/1996 (Lei Kandir) disciplina de forma suficiente a cobrança de ICMS-DIFAL em operações interestaduais destinadas a consumidor final contribuinte do imposto antes da entrada em vigor da Lei Complementar n. 190/2022".
+Julgada a questão pela sistemática dos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem retornar ao Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC.
+A esse respeito, confiram-se os seguintes precedentes: EDcl no REsp n. 1.456.224/MS, relator Ministro Humberto Martins, Segunda Turma, DJe de 5/2/2016; AgRg no AgRg no AREsp n. 552.103/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 28/11/2014; e AgRg no AREsp n. 153.829/PI, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 23/5/2012. Nesse mesmo sentido, as seguintes decisões monocráticas: REsp n. 1.588.019/GO, relatora Ministra Regina Helena Costa, DJe de 17/3/2016; e REsp n. 1.533.443/RS, relator Ministro Benedito Gonçalves, DJe de 17/3/2016.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que os autos poderão ser encaminhados para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas suscitadas por ambas as partes e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que aplique as medidas cabíveis previstas no art. 1.040 do CPC/2015, conforme o caso.
+Publique-se. Intimem-se.
+EMENTA
