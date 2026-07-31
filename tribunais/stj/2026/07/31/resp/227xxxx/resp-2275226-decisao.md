@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de recurso especial interposto por AMERICANAS S.A. - EM RECUPERAÇÃO JUDICIAL, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, admitido na origem.
+Nas razões do recurso especial, a parte recorrente aponta, além de dissídio jurisprudencial, violação dos arts.: 1º, caput e § 3º, V, "a", da Lei n. 10.637/2002; 1º, caput e § 3º, V, "a", da Lei n. 10.833/2003; 12, IV, do Decreto-Lei n. 1.598/1977; e 109, 110 e 111 do Código Tributário Nacional.
+A controvérsia principal do recurso recai sobre a inclusão, na base de cálculo do PIS e da Cofins devidos pela varejista adquirente, dos descontos condicionais e das verbas de propaganda cooperada e de acordo comercial recebidos dos fornecedores, matéria que se encontra abrangida pelo Tema 1412 do Superior Tribunal de Justiça, assim delimitado:
+Definir se as bonificações/descontos compõem a base de cálculo do PIS/COFINS, nos termos do art. 1º, § 3º, V, "a", das Leis 10.637/2002 e 10.833/2003.
+A questão foi afetada ao rito dos recursos repetitivos pela Primeira Seção desta Corte, nos Recursos Especiais n. 2.221.794/PR, 2.221.800/RS e 2.223.143/RS, sob a relatoria do Ministro Afrânio Vilela, ainda pendente de julgamento e de fixação de tese.
+Por ocasião da afetação, determinou-se a suspensão do processamento de todos os processos, individuais ou coletivos, que versem sobre a mesma matéria, nos quais tenha havido a interposição de recurso especial ou de agravo em recurso especial, na segunda instância ou já em tramitação neste Superior Tribunal de Justiça, hipótese em que se enquadra o presente recurso.
+Ante o exposto, com base no art. 256-L do RISTJ, DETERMINO a DEVOLUÇÃO dos autos ao Tribunal Regional Federal da 2ª Região, a fim de que permaneçam suspensos até o julgamento do Tema Repetitivo 1412/STJ, observando-se, após a publicação do respectivo acórdão, o disposto no art. 1.040 e seguintes do CPC.
+Publique-se. Intimem-se.
+ EMENTA
