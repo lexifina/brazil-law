@@ -1,0 +1,313 @@
+ANEXO À INSTRUÇÃO NORMATIVA BCB Nº 766, DE 27 DE JULHO DE 2026
+Manual Operacional do Diretório de Identificadores de Contas Transacionais (DICT)
+Histórico de revisão
+Data
+Versão
+Descrição das alterações
+11/8/2020
+1.0
+10/9/2020
+1.1
+Seção 6: Ajustes na redação do fluxo de reivindicação, para deixar mais claro seu funcionamento:
+· caso o usuário doador não se manifeste dentro do período de resolução, o PSP doador deve necessariamente confirmar a reivindicação no DICT;
+· no período de encerramento, o usuário doador pode somente validar a posse da chave, cancelando o processo. A confirmação não é possível durante esse período; e
+· previsão de que o PSP reivindicador deve cancelar o processo de reivindicação no DICT caso seu usuário não faça a validação ativa da chave até o trigésimo dia após o início do processo de reivindicação.
+Seção 6.1: ajustes nas etapas 5 e 7, para deixar a redação mais clara e para incorporar os ajustes feitos ne seção 6.
+Seção 6.2: ajustes nas etapas 7, 11, 12 e 13, para deixar a redação mais clara e para incorporar os ajustes feitos ne seção 6.
+Seção 6.3:
+· ajuste no fluxo; e
+· ajustes nas etapas 4, 12, 14, 15, 16, 17, 19 e 20, para deixar a redação mais clara e para incorporar os ajustes feitos ne seção 6.
+Seção 6.4:
+· ajuste no fluxo; e
+· ajustes nas etapas 6, 16, 18, 20, 21, 22, 23, 27 e 28, para deixar a redação mais clara e para incorporar os ajustes feitos ne seção 6.
+Seção 9: ajuste para deixar claro que a verificação de sincronismo não precisa ser realizada diariamente. Ela precisa ser realizada em intervalos máximos de 36 horas, conforme Manual de Tempos do Pix.
+Seção 10: ajuste para prever que a notificação de infração pode ser cancelada a qualquer tempo.
+Seção 10.1: ajuste na nomenclatura das mensagens enviadas para o DICT.
+Seção 10.2: ajuste na nomenclatura das mensagens enviadas para o DICT.
+13/11/2020
+2.0
+Estrutura: inserção da seção 15 “Limitação de requisições à API do DICT”.
+Seção 5: inserção de nota de rodapé para explicitar que é possível atualizar dados da conta vinculados à chave enquanto o status da requisição de portabilidade estiver “Aberto” ou “Aguardando Resolução”.
+Seção 6: inserção de nota de rodapé para explicitar que é possível atualizar dados da conta vinculados à chave enquanto o status da requisição de reivindicação de posse estiver “Aberto” ou “Aguardando Resolução”.
+Seção 9: inserção de texto para detalhar como deve ser o processo de correção de chave divergente após uma verificação de sincronismo.
+Seção 10: retirada do campo “Motivo” no processo de abertura de uma notificação de infração.
+Seção 14: retirada das informações, que o DICT armazena, relativas a transações com suspeita de infração à regulação de prevenção à lavagem de dinheiro e ao financiamento do terrorismo.
+17/11/2020
+2.1
+Seção 9: orientação para que eventuais divergências encontradas entre a base interna e o DICT, após processo de verificação de sincronismo, sejam corrigidas na base interna.
+18/3/2021
+3.0
+Estrutura: inserção das seções 16 “Fluxo de verificação de chaves Pix registradas” e 17 “Cache de existência de chave Pix”.
+Seção 7.1: ajuste no fluxo e na tabela de passo a passo, para prever possibilidade de alteração do nome do usuário vinculado à chave Pix.
+Seção 7.2: ajuste no fluxo e na tabela de passo a passo, para prever possibilidade de alteração do nome do usuário vinculado à chave Pix.
+Seção 15: ajuste de forma e de texto na tabela que detalha a política de rate limit, com a inclusão dos limites para o keys.read.
+8/6/2021
+4.0
+Estrutura: inserção da seção 18 “Fluxo de solicitação de devolução”.
+Estrutura: inserção das subseções 10.3 “Fluxo de notificação de infração para abertura de solicitação de devolução (participantes do Pix com acesso direto ao DICT)” e 10.4 “Fluxo de notificação de infração para abertura de solicitação de devolução (participantes do Pix com acesso indireto ao DICT)”.
+Seção 5: previsão de possibilidade de cancelamento de uma portabilidade com status “Confirmado” pelo PSP reivindicador.
+Seção 10: inserção do campo “Motivo” e detalhamento dos campos na abertura de uma notificação de infração; detalhamento dos campos no fechamento de uma notificação de infração; e detalhamento do funcionamento do fluxo de notificação de infração para abertura de solicitação de devolução.
+Seção 10.1: alteração do nome da seção para “Fluxo de notificação de infração entre participantes do Pix com acesso direto ao DICT, por motivo ‘fraude’”.
+Seção 10.1: prazo máximo para abertura de notificação de infração passa a ser oitenta dias corridos (etapa 2).
+Seção 10.1: prazo máximo para análise de uma notificação de infração passa a ser sete dias (etapa 7).
+Seção 10.2: alteração do nome da seção para “Fluxo de notificação de infração entre participantes do Pix com acesso indireto ao DICT, por motivo ‘fraude’”.
+Seção 10.2: prazo máximo para abertura de notificação de infração passa a ser oitenta dias corridos (etapa 2).
+Seção 10.2: prazo máximo para análise de uma notificação de infração passa a ser sete dias (etapa 14).
+Seção 13: tamanho máximo do balde do usuário final passa a ser 1.000 fichas, com incremento temporal de 2 fichas a cada minuto; tamanho máximo do balde do participante passa a ser 20.000 fichas, com incremento temporal de 6.000 fichas a cada minuto; e inserção de texto para dar flexibilidade ao Banco Central do Brasil na gestão dos baldes.
+Seção 15: ajustes na tabela com os limites de requisições à API do DICT.
+29/6/2021
+4.1
+Seção 15: incorporação de novos limites de requisição à API do DICT.
+22/7/2021
+4.2
+Estrutura: inserção das subseções 8.3 “Fluxo de consulta para o participante do Pix que atua como prestador de serviço de iniciação de transação de pagamento, com acesso direto ao DICT” e 8.4 “Fluxo de consulta para o participante do Pix que atua como prestador de serviço de iniciação de transação de pagamento, com acesso indireto ao DICT”.
+Seção 10: inclusão das notas de rodapé 6 e 7, para deixar clara a data a partir da qual os prazos relacionados à notificação de infração começarão a valer.
+Seção 13: inserção dos mecanismos de prevenção a ataques de leitura para os participantes que prestem serviço de iniciação de transação de pagamento.
+Seção 15: inclusão da nota de rodapé 10, para deixar claro que os mesmos limites para a verificação de chaves Pix registradas são aplicáveis aos participantes iniciadores.
+24/8/2021
+4.3
+Seção 10: inserção de nota de rodapé para deixar claro que a notificação de infração para abertura de solicitação de devolução estará disponível somente a partir de 16 de novembro de 2021, nos termos da Resolução BCB nº 103.
+Seção 13: ajustes nos mecanismos de prevenção a ataques de leitura do DICT. As consultas sem liquidação para todos os tipos de chave passam a consumir fichas nos baldes, tanto para os usuários finais quanto para os participantes. Para isso, foi criado um novo balde, com 1.000 fichas, para as chaves CPF, CNPJ e aleatória para os usuários finais; e foi aumentado o incremento temporal de fichas para os participantes.
+Seção 13: inserção de nota de rodapé para explicar as novas regras de formação do campo PayerId.
+Seção 15: criação de um balde específico para o endpoint updateEntry. Com isso, o balde do createEntry e do deleteEntry foi diminuído.
+Seção 18: ajuste em nota de rodapé, para deixar claro que a solicitação de devolução estará disponível somente a partir de 16 de novembro de 2021, nos termos da Resolução BCB nº 103.
+21/9/2021
+4.4
+Seção 10: inserção de texto para deixar mais claro o funcionamento da funcionalidade.
+Seção 10.3: inserção de notas de rodapé para deixar claro os casos em que o Mecanismo Especial de Devolução não pode ser acionado.
+Seção 10.4: inserção de notas de rodapé para deixar claro os casos em que o Mecanismo Especial de Devolução não pode ser acionado.
+Seção 13: ajustes nos mecanismos de prevenção a ataques de leitura do DICT. Separação de baldes de consultas de usuários PF e PJ, com definição de parâmetros diferenciados, através da identificação do tipo de pessoa pelo campo PayerID. Além disso, os baldes de consultas de participantes passam a ter categorias com parâmetros diferenciados de tamanho e incremento, de forma a se adequar às necessidades de cada participante.
+Seção 13: ajuste na nota de rodapé 13, para deixar claro o formato a ser usado no campo PayerId.
+Seção 15: remoção da política geral entries.read e inclusão de nota de rodapé, para explicar que essa política está sendo tratada com mais detalhes na seção 13. Além disso, os parâmetros da política update.entries foram reduzidos.
+Seção 18: inserção de texto para deixar mais claro o funcionamento da funcionalidade.
+Seção 18.2: ajuste na etapa 15, para deixar o texto mais claro.
+Seção 18.3: ajuste no fluxo, para consertar a etapa 4, que estava identificando um estado de forma equivocada.
+Seção 18.4: ajuste no fluxo, para consertar a etapa 6, que estava identificando um estado de forma equivocada.
+Seção 18.5: inserção de notas de rodapé, para deixar mais claro o funcionamento da funcionalidade.
+3/11/2021
+5.0
+Estrutura: inserção da seção 19 “Consulta a informações vinculadas às chaves Pix para fins de segurança do Pix”.
+Seção 8.1: alteração na etapa 7 do fluxo, para alterar a forma de identificação do usuário pagador na consulta (usuário pagador deve ser identificado por meio de seu CPF/CNPJ, e não mais por meio de um identificador pseudonimizado.
+Seção 8.1: alteração na etapa 9 do fluxo, para alterar a forma de identificação do usuário pagador na consulta (usuário pagador deve ser identificado por meio de seu CPF/CNPJ, e não mais por meio de um identificador pseudonimizado).
+Seção 10: ajustes no texto para prever os novos campos que permitirão a notificação de infração para transações liquidadas fora do SPI e para transações rejeitadas.
+Seção 10.1: ajustes para explicar como deve ser a interpretação do fluxo nos casos de transações liquidadas fora do SPI e de transações rejeitadas.
+Seção 10.2: ajustes para explicar como deve ser a interpretação do fluxo nos casos de transações liquidadas fora do SPI e de transações rejeitadas.
+Seção 13: alteração na forma de identificação do usuário pagador na consulta (usuário pagador deve ser identificado por meio de seu CPF/CNPJ, e não mais por meio de um identificador pseudonimizado).
+Seção 14: alteração nas informações para fins de segurança que são retornadas pelo DICT sempre que uma chave é consultada.
+19/11/2021
+5.1
+Seção 14: as informações para fins de segurança referentes a 3 dias continuarão, provisoriamente, sendo apresentadas sempre que uma chave é consultada.
+Seção 15: inserção da limitação de requisições ao endpoint “statistics_read”.
+Seção 18: inserção de novo domínio no campo “RefundRejectionReason”.
+Seção 19: previsão de que informações sobre transações rejeitadas que sofreram notificação de infração também serão retornadas na consulta a informações vinculadas às chaves Pix.
+12/1/2022
+5.2
+Seção 10: ajuste no texto para prever que, em transações “INTERNAL” em que o PSP do pagador e o PSP do recebedor possuem um mesmo liquidante, quem fecha a notificação, concordando ou discordando, é a contraparte que não abriu a notificação.
+Seção 16.1: ajuste no fluxo e na tabela de passo a passo em decorrência da possibilidade de verificação de registro de todos os tipos de chaves Pix.
+Seção 16.2: ajuste no fluxo e na tabela de passo a passo em decorrência da possibilidade de verificação de registro de todos os tipos de chaves Pix.
+Seção 17: ajustes no texto em decorrência da possibilidade de verificação de registro de todos os tipos de chaves Pix.
+11/2/2022
+5.3
+Seção 13: alteração no modo de recomposição de fichas dos baldes de consulta do DICT, que passam a ser repostas após o recebimento da ordem de pagamento pelo SPI na PACS.008, e não mais após uma liquidação.
+Seção 15: inclusão da informação em nota de rodapé da quantidade máxima de 200 (duzentas) chaves passíveis de serem verificadas por cada requisição da operação checkKeys.
+1/9/2022
+5.4
+Seção 8.3: ajuste na etapa 5, para prever que o EndToEndId de uma transação deve ser gerado pelo prestador de serviço de iniciação.
+Seção 8.4: ajuste na etapa 5, para prever que o EndToEndId de uma transação deve ser gerado pelo prestador de serviço de iniciação.
+Seção 13: participantes que prestam serviço de iniciação devem passar a usar o mesmo endpoint para consulta de chaves que os participantes provedores de conta transacional. Como consequência, as regras de limites e de decréscimo e de acréscimo de fichas passam a ser as mesmas para todos os participantes.
+Seção 15: aumento do incremento do balde e do tamanho máximo do balde para a transação statistics_read.
+3/10/2022
+6.0
+Estrutura: inserção da seção 20 “Consulta de baldes”.
+Seção 10.3: ajuste na tabela de passo a passo (passo 12), para deixar claro que não há especificação de valor a ser devolvido em uma notificação de infração.
+Seção 10.4: ajuste na tabela de passo a passo (passo 16), para deixar claro que não há especificação de valor a ser devolvido em uma notificação de infração.
+Seção 13: (i) aumento de 10 para 20 no decréscimo de fichas por consulta inválida de qualquer chave, para usuários pessoa natural e pessoa jurídica; (ii) aumento de 8.000 para 12.000 e de 5.000 para 8.000 no incremento de fichas por minuto dos baldes das categorias A e B, respectivamente; e (iii) ajuste no tamanho máximo do balde para usuários finais pessoa natural e pessoa jurídica.
+Seção 15: (i) alteração no nome da política de rate limit de keys.read para keys.check; e (ii) inclusão de novas políticas de rate limit.
+2/1/2023
+6.1
+Seção 10: ajustes no texto para enfatizar que o PSP do pagador deve abrir a notificação de infração no DICT imediatamente após a reclamação do usuário pagador.
+Seção 10.3: ajuste no fluxo e na tabela de passo a passo para remover a condição em que o PSP não pode acionar o MED.
+Seção 10.4: ajuste no fluxo e na tabela de passo a passo para remover a condição em que o PSP não pode acionar o MED.
+Seção 18: (i) ajuste no texto para esclarecer que a solicitação do cancelamento de devolução deve ser criada pelo PSP do recebedor; (ii) inclusão do detalhamento sobre o monitoramento a ser realizado pelo PSP em caso de devoluções parciais; e (iii) remoção da condição em que o PSP não pode acionar o MED.
+Seção 18.1: ajuste no fluxo e na tabela de passo a passo para remover a condição em que o PSP não pode acionar o MED.
+Seção 18.2: ajuste no fluxo e na tabela de passo a passo para remover a condição em que o PSP não pode acionar o MED.
+Seção 18.3: ajuste no fluxo e na tabela de passo a passo para remover a condição em que o PSP não pode acionar o MED.
+Seção 18.4: ajuste no fluxo e na tabela de passo a passo para remover a condição em que o PSP não pode acionar o MED.
+5/11/2023
+7.0
+Estrutura: exclusão da seção 14 “Informações vinculadas às chaves para fins de segurança” e renumeração das seções posteriores
+Seção 8: inclusão das informações retornadas pelo DICT quando uma chave é consultada.
+Seção 10: reestruturação da seção, com criação de duas subseções: uma para detalhar a notificação de infração para solicitação de devolução ou para cancelamento de devolução; e outra para detalhar a notificação de infração para marcação de fraude transacional. O detalhamento da funcionalidade foi atualizado para incluir novas informações de segurança a serem compartilhadas com os participantes. As subseções 10.1 e 10.2 da versão anterior foram transformadas em subseções 10.2.1 e 10.2.2, respectivamente, com ajustes no fluxo. As subseções 10.3 e 10.4 da versão anterior foram transformadas em subseções 10.1.1 e 10.1.2, respectivamente. Foram criadas, ainda, duas subseções, 10.1.3 e 10.1.4, para detalhar, respectivamente, o fluxo de notificação de infração do tipo “cancelamento de devolução” entre participantes com acesso direto ao DICT e o fluxo de notificação de infração do tipo “cancelamento de devolução” entre participantes com acesso indireto ao DICT
+Seção 13: criação de duas subseções: 13.1 Mecanismos adotados pelo DICT (que manteve o texto da versão anterior, com a atualização da política de crédito de ficha em transações envolvendo prestadores de serviço de iniciação e o detalhamento da política de limitação para a nova operação getEntryStatistics) e 13.2 Mecanismos que devem ser adotados pelos participantes do Pix.
+Seção 14 (corresponde à seção 15 da versão anterior): ajuste na política de limite de requisições da operação getPersonStatistics e criação da política de limite de requisição para as novas operações getEntryStatistics e createFraudMarker.
+Seção 17 (corresponde à seção 18 da versão anterior): ajuste no texto para deixar claro que a conta deve ser monitorada em caso de devolução parcial ou de rejeição da solicitação de devolução, desde que a conta transacional não tenha sido encerrada, pelo usuário ou pelo próprio PSP.
+Seção 18 (corresponde à seção 19 da versão anterior): reestruturação completa da seção, inclusive de seu título, para refletir as novas informações de segurança que serão retornadas pelo DICT quando um CPF, um CNPJ ou uma chave é consultada no endpoint statistics.
+Seção 18.1 (corresponde à seção 19.1 da versão anterior): ajuste no título e no fluxo.
+Seção 18.2 (corresponde à seção 19.2 da versão anterior): ajuste no título e no fluxo.
+1/12/2023
+7.1
+Seção 13.1: Inclusão de duas novas categorias de baldes para participantes no mecanismo de prevenção a ataque de leitura do DICT e ajustes nos parâmetros de tamanho máximo e incremento temporal dos baldes.
+Seção 17.5: Inserção de determinação para que o PSP do pagador, caso aceite a notificação de infração para cancelamento de devolução, cancele imediatamente a notificação de infração para solicitação de devolução que ele criou para solicitar a devolução da transação original.
+2/5/2024
+7.2
+Seção 5: Ajuste no texto para informar que uma portabilidade pode ser cancelada pelo PSP reivindicador enquanto o status do pedido for “Aberto”.
+Seção 6: Ajuste no texto para informar que uma reivindicação de posse pode ser cancelada pelo PSP reivindicador enquanto o status do pedido for “Aberto”.
+Seção 10.1: Inserção de explicação sobre notificação de infração contra usuário recebedor que atua como intermediário de pagamentos.
+Seção 10.1: Inserção de determinação para que o PSP do pagador cancele a solicitação de devolução aberta caso ele tenha cancelado a notificação de infração que deu origem a ela. Se tiver havido devolução, o PSP do pagador deverá devolver os recursos para o PSP do recebedor através de uma nova transação Pix e abrir uma notificação de infração para marcação de fraude contra seu usuário se concluir que ele agiu de má fé.
+Seção 13.1: Aumento da taxa de reposição por consulta de qualquer chave após o recebimento da ordem de pagamento pelo SPI para 2 fichas para o balde de usuário PJ e aumento do incremento temporal para 20 fichas a cada minuto em cada balde de usuário PJ.
+Seção 13.1: Inserção da informação de que, excepcionalmente, a critério do Banco Central do Brasil, os parâmetros de balde de um usuário PJ podem ser alterados.
+Seção 13.1: Inclusão de trecho na nota de rodapé para deixar claro que solicitações de aumento de categoria de balde devem estar devidamente fundamentadas em dados históricos, e não em projeções futuras.
+Seção 17: Inclusão de trecho para permitir que o PSP do recebedor encerre o monitoramento da conta do usuário recebedor caso a notificação de infração para solicitação de devolução seja cancelada pelo PSP do pagador.
+02/09/2024
+7.3
+Seção 1: criação da subseção 1.1 para orientações sobre chaves bloqueadas por ordem judicial
+Seção 8: reestruturação da seção, com criação de uma subseção 8.1 para detalhar quais informações devem ser exibidas ao usuário na consulta de chave. As subseções 8.1, 8.2, 8.3 e 8.4 da versão antiga foram transformadas 8.2, 8.3, 8.4 e 8.5 respectivamente
+Seção 8.2 (antiga 8.1): inserção de texto, na tabela do fluxo, para deixar claro que os dados da chave podem ser informados de forma manual ou via leitura de QR Code.
+Seção 8.3 (antiga 8.2): inserção de texto, na tabela do fluxo, para deixar claro que os dados da chave podem ser informados de forma manual ou via leitura de QR Code. Inserção de mais uma etapa para o PSP com acesso direto ao DICT, para que verifique se a chave está cadastrada em sua base interna.
+Seção 8.4 (antiga 8.3): inserção de texto, na tabela do fluxo, para deixar claro que os dados da chave podem ser informados de forma manual ou via leitura de QR Code.
+Seção 8.5 (antiga 8.4): inserção de texto, na tabela do fluxo, para deixar claro que os dados da chave podem ser informados de forma manual ou via leitura de QR Code. Inserção de mais uma etapa para o PSP com acesso direto ao DICT, para que verifique se a chave está cadastrada em sua base interna.
+Seção 10: Inclusão de golpes de engenharia social e exclusão de texto que restringia as possibilidades de enquadramento como fraude.
+Seção 10.1: Exclusão de texto que restringia as possibilidades de enquadramento como fraude no domínio “scam”.
+Seção 13: criação da subseção 13.2.5 com as restrições dos dados da chave exibidos ao usuário que faz a consulta.
+Seção 13.1: Inclusão de texto explicativo do funcionamento do balde quando estiver com poucas fichas (menos fichas que a penalização de uma consulta com retorno de chave inválida).
+Seção 13.2.3: Correção da relação entre chaves existentes e não existentes para fins de monitoramento (NOT FOUND/(NOT FOUND+FOUND)). Na nota de rodapé, a correção da mesma relação e alteração do parâmetro de 30% para 20% no monitoramento de usuários. Inclusão de texto para deixar claro que o endpoint checkKeys do DICT é de uso exclusivo do PSP, não devendo ser disponibilizado, mesmo que indiretamente, aos usuários.
+Seção 16: Inclusão de texto para reforçar que o cache de existência de chave Pix não deve servir de base para um serviço disponibilizado ao usuário. Inclusão de texto para deixar claro que o endpoint checkKeys do DICT é de uso exclusivo do PSP.
+Seção 18: correções dos textos das respostas do DICT para alinhamento com a terminologia da API do DICT.
+16/06/2025
+Seção 10: Inclusão, na nota de rodapé, de texto para incluir a autorização do Pix automático nas possibilidades de fraude.
+Seção 17: Inclusão do erro do PSP do pagador no envio de uma ordem de pagamento referente ao Pix Automático como um dos casos de possibilidade de abertura de solicitação de devolução criada pelo PSP do pagador. Inclusão no quadro no campo de Motivo a descrição: erro do PSP do pagador no envio de uma ordem de pagamento referente ao Pix Automático (pix_automatico). Inclusão de nota de rodapé para explicação de que erro operacional em transação de Pix Automático não está incluído no motivo falha operacional do PSP do pagador. Inclusão de nota de rodapé para explicação do que pode ser considerado como erro do PSP do pagador no envio de uma ordem de pagamento referente ao Pix Automático. Inclusão de texto, no quadro dos campos para fechamento de uma solicitação de devolução, de que se o motivo da solicitação de devolução for pix_automatico o Identificador da transação de devolução (RefundTransactionId) deve ser informado em uma pacs.008. Inclusão do texto “Nos casos relacionados a transações de Pix Automático em que houver erro do PSP do pagador no envio da ordem de pagamento, não há necessidade de monitoramento pelo PSP do recebedor em caso de devolução parcial ou de rejeição da solicitação”. Inclusão de nota de rodapé explicando que as solicitações de devolução relacionadas aos casos de falha operacional do PSP do pagador e aos casos envolvendo transações de Pix Automático não requerem a criação prévia de notificações de infração. Criação da subseção 17.6 para detalhamento do fluxo de solicitação de devolução por erro do PSP do pagador no envio de ordem de pagamento referente ao Pix Automático. Criação das subseções 17.6.1 com o fluxo de solicitação de devolução por erro do PSP do pagador no envio de ordem de pagamento referente ao Pix Automático para participantes do Pix com acesso direto ao DICT e 17.6.2 para os participantes do Pix com acesso indireto ao DICT.
+09/12/2024
+7.4
+Seção 1.1: inserção de texto para deixar claro que, caso uma chave bloqueada judicialmente seja consultada em uma transação interna, o PSP deve retornar a informação de bloqueio ao usuário, sem a exibição das informações permitidas da chave.
+Seção 2: validação de posse vira subseção 2.1, e adição de subseções detalhando como a situação cadastral do usuário da Receita impacta a criação e exclusão de chaves Pix.
+Seção 4: criação da subseção “4.1. Exclusão de chave por incompatibilidade de dados com a Receita Federal”, com a orientação do código a ser usado na exclusão de chaves nessas situações. Os fluxos anteriores 4.1, 4.2, 4.3 e 4.4 foram renumerados para 4.2, 4.3, 4.4 e 4.5, respectivamente.
+Seção 10.1: Inclusão de informações de contato (e-mail e telefone) do PSP que abre a notificação de infração.
+Seção 12: Aumento do prazo máximo do cache de chaves consultadas para 180 segundos.
+Seção 17: criação da subseção “17.1 – Solicitação de devolução por falha operacional”, com orientações para a abertura e análise deste tipo de solicitação de devolução. Os fluxos anteriores 17.1 e 17.2 foram renumerados para 17.1.1 e 17.1.2. As subseções 17.3, 17.4, 17.5 e 17.6 da versão anterior foram transformadas em 17.2, 17.3, 17.4 e 17.5, respectivamente.
+01/04/2025
+Seções 3.1, 3.2, 5.1, 5.2, 6.1, 6.2, 7.1 e 7.2: inclusão de etapa de validação dos dados e situação cadastral do usuário na Receita Federal.
+Seção 17: obrigatoriedade de preenchimento do campo RefundDetails para pedido de devolução por falha operacional, e do campo RefundAnalysisDetails nos casos de rejeição de pedido de devolução por falha operacional.
+19/03/2025
+7.5
+Seção 2.2: detalhamentos feitos no texto da seção para incluir os processos de alteração, portabilidade e reivindicação das chaves Pix e para detalhar as situações cadastrais consideradas irregulares.
+Seção 2.3: previamente "2.3. Prazo para regularização do cadastro na Receita Federal", foi transformada em "2.3. Validação dos nomes vinculados às chaves Pix".
+Seção 4.1: esclarecimentos sobre a prestação de informações ao usuário.
+Seções 7.1 e 7.2: alteração do texto do passo 1 do diagrama para englobar qualquer mudança nas informações vinculadas a chave por iniciativa do PSP.
+Inclusão de seção 7.3 com esclarecimentos sobre a prestação de informações ao usuário.
+Seção 12: alteração de obrigação para recomendação em relação à utilização do cache interno para consultas de uma mesma chave pelo mesmo participante dentro do prazo de validade.
+Seção 13.2.2: alteração do termo “equivalente” por “igual” no que se refere à política de limitação de consultas dos participantes em relação à política de token bucket do DICT.
+01/07/2025
+Seções 3.1, 3.2, 7.1 e 7.2: alteração da data de entrada em vigor da etapa de validação dos dados e situação cadastral do usuário na Receita Federal durante o registro e alteração de chaves.
+01/10/2025
+Seções 5.1, 5.2, 6.1 e 6.2: alteração da data de entrada em vigor da etapa de validação dos dados e situação cadastral do usuário na Receita Federal durante a portabilidade e a reivindicação de posse de chave.
+28/08/2025
+8.0
+Seção 6: melhoria de redação.
+Seção 8: esclarecimento de que o nome social deve constar do CPF para poder ser cadastrado em uma chave Pix de pessoa física.
+Seção 9: esclarecimento sobre o motivo “reconciliação” para atualização de informações.
+Seção 13.1: esclarecimento de que o payer-ID informado na consulta ao DICT deve ser o mesmo identificador do usuário pagador da transação Pix relacionada e inclusão da necessidade de aprovação do diretor de segurança cibernética do participante responsável (quando houver) para pedidos de aumento de categoria de balde de consultas do DICT.
+Seção 13.2.3: inclusão da necessidade de monitoramento em períodos mais longos e da finalidade não permitida como uma situação anômala.
+Seção 17: correção do parágrafo sobre o resultado da análise de uma solicitação de devolução para considerar a liquidação, e não a emissão, de uma pacs.004 ou de uma pacs.008, nos casos de Pix Automático ou cancelamento de devolução.
+Seção 17.1: esclarecimento sobre o envio de informações pelo PSP que abre a solicitação de devolução por falha operacional.
+01/10/2025
+Seção 10.1: esclarecimento de que é permitido ao PSP do pagador editar a notificação de infração enquanto ela está nos estados “aberta” ou “recebida”.
+23/11/2025
+Aprimoramentos das regras e funcionalidades relacionadas ao MED:
+Alterações nas seções 10 “Notificação de Infração”; 10.1 “Notificação de infração para solicitação de devolução ou para cancelamento de devolução”; e 17 “Fluxo de solicitação de devolução”.
+Criação da Seção 20: “Fluxo de Recuperação de Valores”
+Criação da Seção 21: “Notificações de Eventos”
+02/02/2026
+8.1
+Aprimoramentos das regras e funcionalidades relacionadas ao MED:
+Seção 10: Fluxo de Notificação de Infração
+Ajustes no texto das seções 10 “Fluxo de Notificação de Infração” e 10.1 “Notificação de infração para solicitação de devolução ou para cancelamento de devolução” para incluir aspectos da notificação de infração criada por meio da Recuperação de Valores;
+Criação da seção 10.1.5 “Fluxo de análise de notificação de infração em Recuperação de Valores.”
+Seção 17: Fluxo de Solicitação de Devolução
+Ajustes no texto das seções 17 e 17.1 para incluir aspectos da solicitação de devolução por fraude criada por meio da Recuperação de Valores;
+Inclusão do campo EffectiveRefundedAmount;
+Correção da numeração das seções 17.1.1 e 17.1.2;
+Ajustes no texto das seções 17.2, 17.3, 17.4 para incluir aspectos da solicitação de devolução por fraude criada por meio da Recuperação de Valores;
+Seção “17.5 Fluxo de solicitação de devolução por erro do PSP do pagador no envio de ordem de pagamento referente ao Pix Automático”: Esclarecimento de que, no fluxo de solicitação de devolução por erro do PSP do pagador no Pix Automático, o PSP deve devolver ao seu cliente, utilizando recursos próprios, o valor da transação ainda não recuperado;
+Correção da numeração das seções 17.5.1 e 17.5.2;
+Seção 20: Fluxo de Recuperação de Valores
+Ajustes gerais no texto de todo o capítulo;
+Inclusão do detalhamento dos estados de uma Recuperação de Valores;
+Remoção do campo FlowType e dos textos relacionados ao fluxo interativo;
+Seção 20.1.1 foi renomeada para “Instauração”;
+Seção 20.1.2 foi renomeada para “Rastreamento”;
+Seção 20.1.3 foi renomeada para “Priorização”;
+Seção 20.1.4 foi renomeada para “Solicitação de bloqueio”;
+Remoção da Seção 20.1.5 “Instauração no fluxo automatizado”;
+Seção 20.1.6 foi renumerada para 20.1.5 e renomeada para “Análise”;
+Seção 20.1.7 foi renumerada para 20.1.6 e renomeada para “Devolução”;
+Seção 20.1.8 “Desbloqueio de recursos” foi renumerada para 20.1.7;
+Seção 20.1.9 “Recuperação de valores para transações liquidadas nos sistemas dos participantes” foi renumerada para 20.1.8;
+Criação da seção “20.1.9 Cancelamento de devolução”;
+Criação da seção “20.1.10 Cancelamento da Recuperação de Valores”;
+Criação da seção “20.1.11 Alteração da Recuperação de Valores”;
+Remoção da seção “20.2 Fluxo de instauração e solicitação de bloqueio no fluxo interativo”;
+Seção 20.3 foi renumerada para 20.2 e renomeada para “Fluxo de instauração e solicitação de bloqueio”
+Renumeração das seções 20.4 e 20.5 para 20.3 e 20.4, respectivamente;
+Revisão do fluxo 20.3 “Fluxo de análise”;
+Seção 21: Notificações de eventos
+Inclusão dos eventos FUNDS_RECOVERY_INFORMATION_UPDATED e FUNDS_RECOVERY_CANCELLED;
+Alterações no texto;
+Criação da Seção 21.1 “Eventos existentes”;
+Criação da Seção 21.1.1 “Relacionados a Recuperação de Valores”;
+Outras alterações:
+Seção “2.3 Validação dos nomes vinculados às chaves Pix”: Inclusão de regra para utilização de espaço simples no lugar de caracteres não aceitos pela API do DICT;
+Seção “6.1 Fluxo de reivindicação de posse para o PSP reivindicador com acesso direto ao DICT”: Correção no direcionamento do caso II do passo 6.
+11/05/2026
+8.2
+Aprimoramentos das regras e de funcionalidades relacionadas ao MED:
+Seção 10: Fluxo de Notificação de Infração
+Seções 10 e 10.1:
+1 - Exclusão da abertura de notificação de infração por meio do endpoint “Criar Notificação de Infração”;
+2 - Exclusão de menções a cancelamento de devolução, que passará a ser executado via abertura de Recuperação de Valores;
+3 - Atualização das regras da notificação de infração vinculada à Recuperação de Valores.
+Seção 10.1.1: alteração no nome da seção para “Fluxo de notificação de infração para abertura de solicitação de devolução”, ajuste no texto e remoção do fluxo.
+Exclusão das seções 10.1.2, 10.1.3, 10.1.4 e 10.1.5.
+Seção 17: Fluxo de Solicitação de Devolução
+1 - Exclusão do motivo refundCancelled do campo RefundReason da Solicitação de Devolução.
+2 - Ajustes no texto da seção para atualização das regras da solicitação de devolução vinculada à recuperação de valores.
+Seção 17.1: ajuste no texto sobre a conduta em caso de fraude ou golpe.
+Seção 17.2: alteração no nome da seção para “Fluxo de solicitação de devolução por “fundada suspeita de fraude””, ajuste no texto e remoção do fluxo.
+Exclusão das seções 17.3 e 17.4.
+Seção 17.5 anterior foi renumerada para 17.3, incluindo as subseções.
+Seção 20: Fluxo de Recuperação de Valores
+Seções 20, 20.1.1, 20.1.5, 20.1.6, 20.1.9 e 20.1.10: ajustes no texto para atualização das regras sobre a Recuperação de Valores.
+Seção 20.1.9 “Cancelamento de devolução” renomeada para “Contestação de transação de devolução por fraude”.
+09/06/2026
+8.3
+Alterações em caso de rejeição de uma notificação de infração: durante a Recuperação de Valores, após a rejeição de uma notificação de infração o DICT cancelará automaticamente todas as notificações de infração vinculadas às transações subsequentes para as quais não seja possível identificar um caminho conexo desde a transação raiz. Seções alteradas:
+Seção 10.1 Notificação de infração para solicitação de devolução.
+Seção 20.1.5 Análise.
+Seção 20.1.6 Devolução: esclarecimento de que a etapa de devolução acontecerá apenas se a recuperação de valores não tiver sido concluída automaticamente após a etapa de análise.
+Seção 20.3 Fluxo de Análise: alteração no passo 9.
+01/07/2026
+8.4
+Seção 1: Alteração do formato da chave CNPJ para padrão alfanumérico.
+Seção 17: exclusão da necessidade de monitoramento da conta após devolução parcial ou rejeição de solicitações de devolução com RefundReason = FRAUD, pequenos ajustes no texto para fins de esclarecimento.
+Seção 20: correção da obrigatoriedade do campo TrackingGraphParameters.
+Seção 20.1.1: esclarecimento sobre os tipos de transação pacs.004 que podem ser contestadas.
+Seção 20.1.4: revisão do texto e esclarecimento sobre o valor total a ser bloqueado em caso de recebimento de várias notificações de infração vinculadas a uma mesma transação.
+Seção 20.1.5: esclarecimento sobre a possibilidade de recebimento de várias notificações de infração associadas à uma mesma transação e sobre o campo ReporterParticipant da Notificação de Infração.
+Seção 20.1.6: esclarecimento que o DICT finalizará automaticamente as recuperações de valores cuja etapa de devolução não tenha sido iniciada pelo PSP Recuperador dentro do prazo permitido e exclusão da necessidade de monitoramento da conta.
+Seção 20.1.9: esclarecimento sobre quais tipos de transação de devolução podem ser contestadas.
+Seção 20.1.10: esclarecimento que a recuperação de valores pode ser cancelada a qualquer momento.
+Seção 20.1.11: esclarecimento que a alteração da Recuperação de Valores não é replicada nas Notificações de Infração.
+Seção 20.3: alteração do texto do passo 12.
+10/08/2026
+8.5
+Inclusão de informação, na notificação de infração, sobre a camada do grafo de rastreamento correspondente à transação sob análise:
+Seção 10.1 Notificação de infração para solicitação de devolução: inclusão do atributo “Profundidade no grafo” (TransactionDepth);
+Seção 20.1.5 Análise.
+01/09/2026
+Ampliação do prazo para contestação de transação de devolução para 80 dias:
+Seção 20.1.1 Instauração;
+Seção 20.1.9 Contestação de transação de devolução por fraude;
+Seção 20.2 Fluxo de instauração e solicitação de bloqueio: alteração no passo 5.
+NOTA
+O Decreto nº 10.411, de 30 de junho de 2020, prevê a obrigatoriedade da realização de análise de impacto regulatório (AIR) para a edição de atos normativos de interesse geral produzidos pelos órgãos e entidades da administração pública federal direta e indireta.
+Todavia, consoante se definiu no parágrafo 8 do Voto 280/2021–BCB, de 10 de novembro de 2021, o Regulamento do Pix, inclusive os demais documentos que o integram ou que o detalham e o complementam, não se caracterizam como ato regulatório de força cogente, ostentando, em verdade, natureza eminentemente contratual. Assim, modificações promovidas no referido regulamento e nos demais documentos que o integram ou que o detalham e o complementam não se sujeitam à produção prévia de AIR.
+RICARDO TEIXEIRA LEITE MOURÃO
