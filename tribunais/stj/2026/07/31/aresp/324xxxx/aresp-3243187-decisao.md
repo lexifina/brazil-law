@@ -1,0 +1,20 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por PETROVIÁRIO TRANSPORTES LTDA., contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: de cobrança de valores referentes ao vale-pedágio obrigatório proposta por SG SILVA TRANSPORTES EIRELI contra PETROVIÁRIO TRANSPORTES LTDA. na qual se busca o pagamento dos valores de pedágios não antecipados no período de junho de 2019 a dezembro de 2021.
+Acórdão: deu parcial provimento à apelação da parte agravada, nos termos da seguinte ementa:
+Apelação Contrato de transporte Transportador autônomo Pretensão da transportadora voltada à percepção de valores referentes ao vale-pedágio obrigatório, de que trata a Lei 10.029/01 Sentença de rejeição do pedido Irresignação parcialmente procedente. 1. Sem a menor consistência a alegação de que o valor dos fretes embutiria as despesas de pedágio. Lei de regência da relação, de ordem pública e editada com o objetivo precípuo de proteger o transportador autônomo, claríssima no sentido de que o fornecimento do vale pedágio é obrigatório e independe do frete. Cobrança procedente. 2. Consideração, no entanto, que devem ser excluídos do cálculo os valores referentes à mensalidade do serviço "Sem Parar", e gastos com estacionamento. 3. Sentença reformada, para proclamar a parcial procedência da demanda, para condenar a ré ao pagamento do que seria devido a título de vale-pedágio, conforme o que for apurado em liquidação por arbitramento. Responsabilidade pelas verbas da sucumbência atribuída integralmente a ré, por diminuta a parcela do pedido não atendida.
+Deram parcial provimento à apelação. (e-STJ fl. 567)
+Decisão de admissibilidade do TJ/SP: inadmitiu o recurso especial em razão dos seguintes fundamentos:
+i. inexistência de violação ao art. 489, § 1º, do CPC;
+ii. ausência de demonstração de violação aos arts. 421, 422 e 884 do CC e aos arts. 320, 370, § 1º, 371 e 373 do CPC e
+iii. incidência das Súmulas 5/STJ e 7/STJ.
+Agravo em recurso especial: alega de forma genérica que o recurso especial não demanda reexame de provas ou interpretação de cláusulas contratuais, mas revaloração jurídica de fatos incontroversos. Sustenta violação aos arts. 371 e 489, § 1º, III e IV, do CPC, por ter o acórdão recorrido decidido com base em presunções sobre desproporção de forças e imposição contratual, sem prova cabal, e sem fundamentação adequada. Defende ofensa aos arts. 320, 370, I e II, e 373 do CPC, porque os documentos considerados suficientes (extratos e faturas "Sem Parar") não comprovam a exclusividade dos serviços nem a correlação específica entre pedágios e viagens contratadas, sendo relevantes os DACTEs. Assevera violação aos arts. 421, 422 e 884 do CC, pois a condenação, apesar de reconhecer a possibilidade de o frete conter despesas de pedágio, gera bis in idem e enriquecimento sem causa, além de desprezar a intervenção mínima nas relações privadas e a boa-fé. (e-STJ fls. 642-649)
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices:
+i. incidência das Súmulas 5/STJ e 7/STJ.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram a inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, Terceira Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, Quarta Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em mais 2%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
