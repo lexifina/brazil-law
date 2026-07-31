@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por ROSINEI PINTO DE SOUZA à decisão de fls. 4048/4049, que não conheceu do recurso.
+Sustenta a parte embargante:
+Por conseguinte, abusando do seu direito de recorrer, o MUNICÍPIO interpôs AGRAVO EM RECURSO ESPECIAL, o qual foi julgado improcedente, com base no artigo 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, uma vez que incidiu no processo a Súmula n. 284/STJ, porquanto a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissidio interpretativo, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional. (fl. 000).
+Os recorrentes não conseguiram demonstrar a autoria e a materialidade dos crimes apontados ao ora embargante ROSINEI PINTO DE SOUZA, o qual foi acusado de ter se apropriado, sem qualquer prova, do elevado montante de R$ 1.410.000,00, em 02/05/2014.
+ ..
+Neste diapasão, o presente Embargos de Declaração tem por objeto corrigir erro material, porquanto a presente ação fora julgada improcedente, sendo que deveria ser reconhecido a litigância de má-fé dos recorrentes, por ajuizamento de demanda sem qualquer embasamento legal e pelo abuso no direito de recorrer.
+ ..
+Neste diapasão, o presente Embargos de Declaração tem por objeto corrigir erro material, porquanto a presente ação fora julgada improcedente, sendo que deveria ser reconhecido a litigância de má-fé dos recorrentes, por ajuizamento de demanda sem qualquer embasamento legal e pelo abuso no direito de recorrer.
+ ..
+O Superior Tribunal de Justiça - STJ tem conhecido de Recursos Especiais quando se tratam de rever fixação de verba honoraria em valores considerados irrisórios ou excessivos,  ..  - fls. 4065/4067
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A matéria objeto dos embargos de declaração, qual seja, condenação do ora embargado em litigência de má-fé, deveria ter sido argüida em recurso próprio, na origem, no momento oportuno. Portanto, não cabe a esta Corte Superior se manifestar sobre referida matéria.
+Com efeito, ao não se manifestar no momento oportuno, repita-se, em recurso próprio, deu ensejo à ocorrência da preclusão, assim não pode mais se insurgir contra a referida matéria nesta Corte Especial.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL.BANCÁRIA. PRESTAÇÃO DE CONTAS. SEGUNDA FASE. 1. INOVAÇÃO RECURSAL.PRECLUSÃO CONSUMATIVA. 2. MULTA DO ART. 1.021, § 4º, DO CPC/2015 E HONORÁRIOS RECURSAIS. NÃO CABIMENTO. 3. AGRAVO INTERNO DESPROVIDO. 1. Consoante iterativa jurisprudência desta Corte, sujeitam-se à preclusão consumativa as questões decididas no processo, inclusive as de ordem pública, que não tenham sido objeto de impugnação recursal no momento próprio. 2.  ..  4. Agravo interno a que se nega provimento. (AgInt nos EDcl no REsp 1861072/SP, relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 26/10/2020.) PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. EXECUÇÃO FISCAL. VERBA HONORÁRIA. FIXAÇÃO EM MOMENTO
+Ademais, não fosse isso, até o presente momento, não há que se falar em litigância de má-fé, pois a parte embargada interpôs recursos legalmente previstos no ordenamento jurídico, e sem abusar do direito de recorrer; pelo que não se verifica afronta ou descaso com o Poder Judiciário. Nesse sentido, AgInt no AREsp n. 2.115.563/MS, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 13.10.2022; e, AgInt nos EDcl no REsp n. 1.980.442/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 21.9.2022.
+No que se refere aos honorários recursais, o novo Código de Processo Civil, ao prever o instituto da majoração dos honorários advocatícios em razão do julgamento de recurso, condicionou sua aplicação aos processos cíveis, desde que haja prévia fixação de honorários pela instância a quo.
+Ademais, conforme dicção do Enunciado Administrativo n. 7 deste Superior Tribunal de Justiça, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+No presente caso, tendo em vista que estão preenchidos os requisitos acima delineados, correta a majoração dos honorários recursais.
+Ressalte-se que os honorários recursais foram majorados em desfavor da parte recorrente, ora embargada, de forma clara, no importe de 15% sobre o montante já arbitrado, ou seja, os honorários sucumbenciais fixados nas instâncias ordinárias, seja de forma equitativa, seja em percentual sobre o valor da condenação, da causa ou do proveito econômico obtido, servirão como base de cálculo sobre a qual incidirão os 15% da majoração, observados, sempre que aplicáveis, os limites previstos nos §§ 2º e 3º do art. 85 do Código de Processo Civil.
+Veja-se que não se trata de um percentual excessivo ou irrisório, porque condizente com os preceitos do Enunciado Administrativo n. 7 e com os limites estabelecidos no art. 85, § 2º, do Código de Processo Civil de 2015.
+Assim, não há qualquer irregularidade sanável por meio dos presentes Embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os Embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+ EMENTA
