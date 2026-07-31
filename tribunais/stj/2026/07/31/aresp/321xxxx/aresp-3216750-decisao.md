@@ -1,0 +1,42 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por TERRA NOVA RODOBENS INCORPORADORA IMOBILIÁRIA - FEIRA DE SANTANA II - SPE LTDA contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 25/2/2026.
+Concluso ao gabinete em: 19/6/2026.
+Ação: de obrigação de fazer c/c reparação de danos materiais e compensação por danos morais, ajuizada por SINTHYA TEIXEIRA CARNEIRO GUSMÃO contra TERRA NOVA RODOBENS INCORPORADORA IMOBILIÁRIA - FEIRA DE SANTANA II - SPE LTDA e PORTO SEGURO COMPANHIA DE SEGUROS GERAIS, na qual requer a correção de vícios construtivos no imóvel e o ressarcimento de danos materiais e compensação por danos morais.
+Decisão interlocutória: rejeitou as prejudiciais de decadência e prescrição, aplicando prazo prescricional quinquenal do art. 27 do CDC por se tratar de vício oculto, e afastou o prazo decadencial do art. 26 do CDC.
+Acórdão: negou provimento ao agravo de instrumento interposto por TERRA NOVA RODOBENS INCORPORADORA IMOBILIÁRIA - FEIRA DE SANTANA II - SPE LTDA, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. DIREITO CIVIL, CONSUMIDOR E PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. VÍCIOS CONSTRUTIVOS. VÍCIO OCULTO. PRELIMINAR DE CABIMENTO DO AGRAVO. DECISÃO INTERLOCUTÓRIA COM CONTEÚDO DE MÉRITO. ROL DO ART. 1.015, II, DO CPC. PRELIMINAR DE NÃO CONHECIMENTO AFASTADA. ALEGAÇÃO DE DECADÊNCIA E PRESCRIÇÃO. INAPLICABILIDADE DO ART. 26 DO CDC. INCIDÊNCIA DO PRAZO PRESCRICIONAL DECENAL DO ART. 205 DO CÓDIGO CIVIL. PRECEDENTES DO STJ. TERMO INICIAL A PARTIR DA CIÊNCIA DO DEFEITO. EXISTÊNCIA DE RELAÇÃO DE CONSUMO POR EQUIPARAÇÃO. DECISÃO RECORRIDA MANTIDA. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Cuida-se de agravo de instrumento interposto contra decisão interlocutória que rejeitou as alegações preliminares de decadência e prescrição suscitadas pela agravante. A decisão agravada entendeu aplicável à espécie o prazo prescricional quinquenal do art. 27 do Código de Defesa do Consumidor, por se tratar de vício oculto. Afastou, ainda, o prazo decadencial do art. 26 do mesmo diploma. Segundo os autos, a parte autora adquiriu imóvel residencial que, em março de 2018, apresentou problemas estruturais de drenagem, culminando em alagamento do imóvel. A ação foi proposta em junho de 2020. A agravante, por sua vez, argumenta ausência de relação de consumo entre as partes, considerando a inexistência de contrato direto, e defende a incidência da decadência ou, subsidiariamente, de prescrição trienal do art. 206, §3º, V, do Código Civil. Pleiteia a extinção do feito com resolução do mérito.
+II. Questão em discussão
+2. A controvérsia gira em torno da aplicabilidade do prazo decadencial ou prescricional à pretensão indenizatória por vícios construtivos ocultos, e da existência ou não de relação de consumo entre as partes, uma vez que o imóvel foi adquirido da primeira compradora. Debate-se se a ação foi ajuizada fora dos prazos legais para o exercício do direito à reparação.
+III. Razões de decidir
+3. A preliminar de inadmissibilidade do agravo foi rejeitada, por se tratar de decisão interlocutória com conteúdo meritório que rejeita alegações de decadência e prescrição, sujeita à formação de coisa julgada material e, portanto, recorrível nos termos do art. 1.015, II, do CPC.
+4. Afastou-se a alegação de ausência de relação consumerista, reconhecendo-se a existência de vínculo de consumo por equiparação, nos termos do art. 17 do CDC, aplicável às vítimas do evento danoso, mesmo sem vínculo contratual direto.
+5. Os vícios apresentados no imóvel, consistentes em falhas no sistema de drenagem e alagamento posterior, possuem natureza de vício oculto, por não serem detectáveis no momento da entrega da obra, sendo inaplicável o prazo decadencial do art. 26 do CDC.
+6. A jurisprudência do STJ é pacífica no sentido de que a pretensão indenizatória por danos materiais e morais decorrentes de vícios construtivos sujeita-se ao prazo prescricional, não ao decadencial.
+7. O prazo prescricional aplicável é o decenal previsto no art. 205 do Código Civil, por se tratar de responsabilidade contratual e extracontratual, diante da falha na prestação do serviço de incorporação imobiliária.
+8. O termo inicial do prazo prescricional conta-se da data em que o consumidor teve ciência inequívoca do defeito, o que, no caso, ocorreu em março de 2018, com o primeiro alagamento do imóvel, tendo a ação sido ajuizada em junho de 2020, dentro do prazo legal.
+9. A jurisprudência do STJ reforça que, em se tratando de vício oculto, a contagem do prazo prescricional se inicia com a constatação do defeito, sendo tempestivo o ajuizamento da ação indenizatória até dez anos após a ciência do vício.
+10. Ainda que se adotasse o prazo quinquenal do art. 27 do CDC, a ação também seria tempestiva.
+11. A decisão recorrida, ao afastar a decadência e a prescrição, alinha-se à jurisprudência pacífica dos tribunais superiores, preservando o direito da parte autora de ver sua pretensão apreciada no mérito.
+IV. Dispositivo e tese Agravo de instrumento conhecido e desprovido. Tese de julgamento: 1. A pretensão indenizatória por vícios construtivos ocultos não se submete ao prazo decadencial previsto no art. 26 do CDC, aplicando-se o prazo prescricional decenal do art. 205 do Código Civil. 2. A ciência inequívoca do vício é o termo inicial para contagem do prazo prescricional. 3. Existe relação de consumo por equiparação nos termos do art. 17 do CDC, ainda que o imóvel tenha sido adquirido de terceiro e não diretamente da incorporadora. (e-STJ fls. 114-117)
+Embargos de Declaração: opostos por TERRA NOVA RODOBENS INCORPORADORA IMOBILIÁRIA - FEIRA DE SANTANA II - SPE LTDA, foram rejeitados.
+Recurso especial: sem apontar especificamente qual dispositivo de lei federal teria sido violado, afirma que não se aplica o Código de Defesa do Consumidor por inexistir relação contratual direta e que os pedidos têm natureza cominatória, impondo prazo decadencial. Aduz que incidem prazos decadenciais de 90 dias para o consumidor e de 180 dias para o dono da obra, de modo que a pretensão está fulminada. Argumenta que a pretensão de reparação civil prescreve em 3 anos, com termo inicial na entrega do imóvel ao adquirente originário.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da fundamentação deficiente
+Quanto à questão veiculadas no apelo extremo, observa-se que não houve indicação expressa do dispositivo de lei que teria sido violado pelo acórdão recorrido, sendo insuficiente a mera citação de dispositivos nas razões do recurso a título de fundamentação.
+É firme a jurisprudência desta Corte Superior no sentido de que a falta de indicação clara e precisa dos dispositivos de lei federal alegadamente violados implica deficiência na fundamentação do recurso especial. Aplica-se a inteligência Súmula 284/STF.
+- Da divergência jurisprudencial
+A falta de indicação expressa do dispositivo legal sobre o qual recai a divergência inviabiliza a análise do dissídio. Nesse sentido: AgRg no REsp 1579618/PR, Terceira Turma, DJe de 01/07/2016; AgRg no RESP 1283930/SC, Quarta Turma, DJe de 14/06/2016; e, AgRg no REsp 1.346.588/DF, Corte Especial, DJe de 17/03/2014.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no grau de jurisdição de origem.
+Previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C REPARAÇÃO DE DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. FUNDAMENTAÇÃO. DEFICIENTE. SÚMULA 284/STF.
+DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF.
+1. Ação de obrigação de fazer c/c reparação de danos materiais e compensação por danos morais.
+2. A ausência de indicação expressa do dispositivo de lei federal alegadamente violado importa no não conhecimento do recurso quanto ao tema.
+3. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente.
+4. Agravo conhecido. Recurso especial não conhecido.
