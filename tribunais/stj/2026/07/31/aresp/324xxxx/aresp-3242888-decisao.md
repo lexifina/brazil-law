@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo em recurso especial apresentado por CENTROVIAS SISTEMAS RODOVIARIOS S.A. contra decisão que inadmitiu apelo nobre interposto com fundamento no art. 105, III, da Constituição Federal.
+Passo a decidir.
+Impende destacar que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, nos termos dos arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014)
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida;
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial n. 701.404/SC, 746.775/PR e 831.326/SP, decidiu pela necessidade de o agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+No caso, da análise dos autos, verifico que a inadmissão do especial se deu com base nos seguintes fundamentos: Súmula 7 do STJ e ausência de afronta a dispositivo legal.
+Entretanto, a parte agravante deixou de impugnar específica e adequadamente o fundamento referente à Súmula 7 desta Corte de Justiça.
+Destaco, por oportuno, não ser suficiente a apresentação de razões genéricas sobre o óbice apontado pela decisão de inadmissibilidade, sendo exigível do agravante o efetivo ataque aos seus fundamentos.
+Em relação à Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, a fim de demonstrar a prescindibilidade do reexame fático-probatório, o que não ocorreu, no caso, conforme trecho abaixo (e-STJ fls. 1.861/1.863 ):
+22. É fundamental ressaltar, de plano, que a Agravante não desconhece o teor do enunciado da Súmula 7 que sedimenta a impossibilidade de rediscussão de matéria fático-probatória em sede de recurso especial.
+23. No entanto, necessário pontuar que, para o exame do presente recurso e suas razões, não seria necessária qualquer análise do provado na fase de conhecimento.
+24. Isso porque, as matérias ora discutidas são puramente de direito, uma vez que o v. acórdão recorrido, chancelado pela r. decisão agravada, aplica critério diverso à lei federal.
+25. O Recurso Especial argumenta a ausência de nexo de causalidade ou a ocorrência de fato de terceiro, o que implicaria a ilegitimidade passiva da Centrovias, em flagrante violação aos artigos 186 e 927 do Código Civil, e ao artigo 37, § 6º, da Constituição Federal.
+26. Os fatos já estabelecidos nos autos indicam claramente que o Boletim de Ocorrência, com base no relato do próprio Agravado e sua testemunha (filho), indicou o local do acidente no km 233 da SP-310. Este trecho extrapola a concessão da Agravante, que se encerrava no km 227 800.
+27. As máquinas fotografadas pelo filho do Agravado, supostamente responsáveis pelo arremesso do objeto, pertenciam à empresa Soluciona Conservação Rodoviária Ltda., prestadora de serviços da corré Triângulo do Sol Auto Estradas S/A, e não da RZF, contratada pela Centrovias.
+28. Relatório Técnico da G2 Engenharia comprovou a incompatibilidade geográfica e que as máquinas da Centrovias/RZF não utilizavam elos de corrente, o objeto metálico que causou o dano.
+29. A controvérsia cinge-se à aplicação do direito à moldura fática soberanamente fixada pelo Tribunal de origem, o que autoriza o conhecimento do recurso especial sem violar a Súmula 7 do STJ.
+30. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que a revaloração da prova constitui matéria de direito, perfeitamente possível em sede de Recurso Especial.
+31. Quando o acórdão, partindo de premissas fáticas incontroversas, como a localização geográfica do acidente e a propriedade da maquinaria, confere-lhes qualificação jurídica equivocada, atribuindo responsabilidade a quem não exercia a posse ou o domínio sobre a área ou sobre a atividade de risco, ocorre violação direta aos dispositivos legais de regência da responsabilidade civil.
+32. O que se questiona é a conclusão jurídica do acórdão que, ao presumir a responsabilidade da Agravante por exclusão da corré, desconsiderou elementos fáticos já provados que apontam para a ausência do nexo causal e a ilegitimidade passiva da Agravante.
+33. A Agravante foi condenada mesmo diante de prova inequívoca de que o local do acidente estava fora de sua concessão e que a máquina causadora do dano pertencia a terceiro.
+34. Essa é uma questão de direito, sobre a aplicação dos dispositivos legais que exigem o nexo de causalidade para configurar a responsabilidade civil.
+35. Negar o recurso sob o pretexto de Súmula 7 significa chancelar uma interpretação da lei federal que ignora a realidade fática soberanamente reconhecida pelas instâncias de piso.
+Cumpre ressaltar que o Tribunal de origem, ao realizar o juízo de admissibilidade do apelo nobre, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que falar em usurpação da competência do STJ. Nesse sentido: AgInt no AREsp n. 2.107.891/PR, Relator Ministro Humberto Martins, Segunda Turma, julgado em 14/11/2022, DJe de 30/11/2022; AgInt no AREsp n. 2.164.815/RS, Relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 28/11/2022, DJe de 30/11/2022; e AgInt no AREsp n. 2.098.383/BA, Relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 15/8/2022, DJe de 17/8/2022.
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, em 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
