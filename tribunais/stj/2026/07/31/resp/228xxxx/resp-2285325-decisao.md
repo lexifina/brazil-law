@@ -1,0 +1,38 @@
+DECISÃO
+Examina-se recurso especial interposto por NOTRE DAME INTERMÉDICA SAÚDE S.A., fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 24/2/2026.
+Concluso ao gabinete em: 24/7/2026.
+Ação: declaratória de inexigibilidade de débito c/c obrigação de fazer, ajuizada por VALDIRENE SILVEIRA LIMA, em face de NOTRE DAME INTERMÉDICA SAÚDE S.A., na qual requer a rescisão imediata do contrato de plano de saúde e a inexigibilidade das mensalidades posteriores ao pedido de cancelamento.
+Sentença: julgou procedentes os pedidos, para: i) declarar nula a cláusula contratual que impõe pagamento de mensalidades no período de aviso prévio; ii) reconhecer a rescisão contratual a partir de 26/8/2024; iii) declarar a inexigibilidade das cobranças de mensalidades posteriores à referida data.
+Acórdão: negou provimento ao recurso de apelação interposto por NOTRE DAME INTERMÉDICA SAÚDE S.A., nos termos da seguinte ementa:
+PLANO DE SAÚDE - CANCELAMENTO CONTRATUAL - AVISO PRÉVIO DE 60 DIAS - COBRANÇA DE MENSALIDADES APÓS O PEDIDO DE RESCISÃO - NORMA ADMINISTRATIVA DECLARADA NULA EM AÇÃO CIVIL PÚBLICA - ABUSIVIDADE DA CLÁUSULA - APLICAÇÃO DO CDC - PRECEDENTES DO TJSP - MANUTENÇÃO DA SENTENÇA - RECURSO NÃO PROVIDO.
+I - Caso em exame: Ação declaratória visando reconhecimento da nulidade da cláusula que impõe aviso prévio de 60 dias na rescisão do plano de saúde, com consequente inexigibilidade das mensalidades posteriores ao pedido de cancelamento formulado em 26/08/2024. Sentença de procedência, confirmando tutela de urgência e impedindo cobrança dos valores subsequentes.
+II - Questão em discussão: Saber se é válida a exigência contratual de pagamento de mensalidades referentes aos 60 dias seguintes ao pedido de cancelamento de plano de saúde, especialmente após a declaração de nulidade do parágrafo único do art. 17 da RN 195/2009 da ANS.
+III - Razões de decidir: Aplicação do CDC; abusividade da cláusula que impõe ônus desproporcional ao consumidor; nulidade reconhecida em ação civil pública com efeitos erga omnes; revogação administrativa posterior pela ANS; precedentes jurisprudenciais do TJSP; impossibilidade de cobrança após manifestação inequívoca de cancelamento.
+IV - Dispositivo e tese de julgamento: RECURSO NÃO PROVIDO.
+Tese de julgamento: "É abusiva e nula a cláusula contratual que impõe aviso prévio de 60 dias para cancelamento de plano de saúde, sendo inexigíveis as mensalidades posteriores ao pedido de rescisão, à luz do CDC, da declaração de nulidade do art. 17, parágrafo único, da RN 195/2009 da ANS (ACP nº 0136265-83.2013.4.02.5101 - TRF2) e da jurisprudência consolidada do TJSP."
+Legislação citada: Resolução 195/2009 da ANS.
+Jurisprudência citada: TJ-SP - APELAÇÃO CÍVEL: 11122423620248260100 SÃO PAULO, RELATOR.: ALEXANDRE MARCONDES, DATA DE JULGAMENTO: 21/02/2025, 1ª CÂMARA DE DIREITO PRIVADO, DATA DE PUBLICAÇÃO: 21/02/2025 (e-STJ fls. 1782-1783).
+Recurso especial: alega violação dos arts. 473 do CC e 506 do CPC, bem como dissídio jurisprudencial. Afirma que cláusula contratual de aviso prévio de 60 dias para rescisão unilateral é válida, recíproca e compatível com a boa-fé e com o equilíbrio contratual. Aduz que a decisão da ação civil pública apenas vedou à ANS regulamentar condições rescisórias, sem impedir que as partes estipulem contratualmente tais condições. Argumenta que a cobrança de mensalidades durante o aviso prévio preserva o sinalagma, pois os serviços permanecem disponíveis no período. Por derradeiro, afirma a ocorrência de advocacia predatória pela suposta captação indevida de clientela por meio de atuação de corretora vinculada aos patronos da parte recorrida.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 473 do CC e 506 do CPC, indicados como violados, não tendo a parte recorrente oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Da fundamentação deficiente
+Verifica-se, da leitura das razões do recurso especial, que, quanto à tese de ocorrência de prática de advocacia predatória, a parte recorrente não alega violação de qualquer dispositivo infraconstitucional, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF. Nesse sentido: AgInt no AREsp 2.158.801/RJ, Quarta Turma, DJe 6/11/2023; e AgInt no REsp n. 1.974.581/RS, Terceira Turma, DJe 17/8/2022.
+- Da divergência jurisprudencial
+A ausência de prequestionamento do tema que se supõe divergente, qual seja, a violação dos arts. 473 do CC e 506 do CPC, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 2.391.548/SP, Terceira Turma, DJe de 20/3/2024, e AgInt no AREsp 2.314.188/SP, Quarta Turma, DJe de 21/12/2023.
+Além disso, a comprovação da divergência jurisprudencial demanda que a parte recorrente realize uma análise comparativa detalhada entre o acórdão recorrido e o paradigma, de modo a identificar as semelhanças entre as situações de fato e a existência de interpretações jurídicas diferentes sobre mesmo dispositivo legal, além de observar os requisitos formais, consoante previsão dos arts. 1029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ.
+No entanto, neste recurso, evidencia-se a ausência do cotejo analítico. Importante destacar que a mera transcrição das ementas dos acórdãos não é suficiente para comprovar o dissídio jurisprudencial. É necessário realizar uma comparação minuciosa entre os trechos dos acórdãos recorrido e o paradigma, explicitando como os tribunais interpretam de forma divergente, porém em situações semelhantes, o mesmo artigo de lei federal. Nesse sentido: AgInt no AREsp 2.396.088/PR, 3ª Turma, DJe de 22/11/2023, e AgInt no AREsp 2.334.899/SP, 4ª Turma, DJe de 7/12/2023.
+Forte nessas razões, NÃO CONHEÇO do recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, §11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da causa (e-STJ fl. 1.789) para 15%, observada eventual concessão de justiça gratuita.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO C/C OBRIGAÇÃO DE FAZER. SAÚDE SUPLEMENTAR. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA. INVIABILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO NÃO REALIZADO. HONORÁRIOS DE SUCUMBÊNICA RECURSAL. MAJORAÇÃO.
+1. Ação declaratória de inexigibilidade de débito c/c obrigação de fazer.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Recurso especial não conhecido, com majoração de honorários.
