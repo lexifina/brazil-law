@@ -1,0 +1,28 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ALEXANDRA DA CUNHA PINTO OLIVEIRA contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 6/3/2026.
+Concluso ao gabinete em: 28/5/2026.
+Ação: compensação por danos morais, ajuizada por ALEXANDRA DA CUNHA PINTO OLIVEIRA, em face de SINGULARE CVTM S/A, JOSÉ FERNANDO PINTO DA COSTA, INSTITUTO EDUCACIONAL DO ESTADO DE SÃO PAULO IESP e UNIESP S/A, na qual requer a retirada do nome dos órgãos de proteção ao crédito e a compensação por danos morais.
+Sentença: julgou, i) extinto o processo sem resolução do mérito em relação ao requerido JOSÉ FERNANDO PINTO DA COSTA, por ilegitimidade passiva, e ii) improcedentes os pedidos em relação aos requeridos remanescentes.
+Acórdão: negou provimento ao recurso de apelação interposto por SINGULARE CVTM S/A e negou provimento ao recurso de apelação interposto por ALEXANDRA DA CUNHA PINTO OLIVEIRA, nos termos da seguinte ementa:
+APELAÇÕES. AÇÃO DE INDENIZAÇÃO POR DANO MORAL. RESPONSABILIDADE CIVIL. Programa "UNIESP PAGA". Legitimidade passiva ad causam da ré apelante - SINGULARE CVTM S/A - Administradora do Fundo réu. Pretensão da autora, ex-aluna - para recebimento de indenização por dano moral e exclusão do seu nome dos órgãos de proteção ao crédito. Relação negocial de financiamento estudantil (FIES). Descumprimento confessado em razões de apelação, da obrigação de permanecer no curso matriculada até a sua formação e consequente realização da prova ENADE (cláusula 3.6). Validade da disposição contratual. Reconhecimento. Indevida a indenização por dano moral, ante a ausência de ato ilícito praticado pelos apelados. Recursos desprovidos. (e-STJ fl. 1609)
+Embargos de Declaração: opostos por ALEXANDRA DA CUNHA PINTO OLIVEIRA, foram rejeitados.
+Recurso especial: alega violação dos arts. 6º, VI, VII e VIII, 14, parágrafo único, 30, 31, 46 e 51, IV, da Lei 8.078/1990, 186 e 927, parágrafo único, do CC, e 373, II, do CPC, bem como dissídio jurisprudencial. Afirma que a negativação indevida e a publicidade enganosa no programa "UNIESP PAGA" impõem a responsabilização dos requeridos e a compensação por danos morais. Aduz que os atos ilícitos praticados pelos requeridos geram o dever de indenizar. Argumenta que o ônus da prova quanto a fatos impeditivos, modificativos ou extintivos incumbe aos requeridos. Assevera que há divergência entre julgados do TJ/SP e do TJ/PR sobre a retirada de negativação e reparação por abalo de crédito.
+Juízo prévio de admissibilidade: o TJ/SP inadmitiu o recurso especial com fundamento na sua intempestividade.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da intempestividade do recurso especial
+Em juízo de admissibilidade, o TJ/SP reconheceu a intempestividade do recurso especial, consignando que o acórdão recorrido foi disponibilizado no DJEN em 29/8/2025, considerando-se publicada a decisão em 1/9/2025. Diante desses fatos, concluiu que o recurso especial, interposto apenas em 23/9/2025, foi apresentado fora do prazo previsto no art. 1.003, § 5º, do CPC (e-STJ fl. 1770).
+No agravo em recurso especial, a agravante sustenta a tempestividade do recurso, ao argumento de que a certidão de publicação no DJEN, embora datada de 29/8/2025, foi liberada nos autos somente em 1/9/2025. Defende que a publicação deve ser considerada ocorrida no primeiro dia útil seguinte à liberação da certidão, ou seja, em 2/9/2025. Nessa linha, o prazo teria início em 3/9/2025, de modo que o protocolo do recurso especial em 23/9/2025 observaria o prazo de quinze dias úteis (e-STJ fls. 1809-1810).
+Em que pese a argumentação da parte agravante, não há como ser afastada a intempestividade do recurso especial.
+Isso porque o exame da tempestividade obedece à sistemática processual vigente, que considera como data da publicação o primeiro dia útil seguinte àquele da disponibilização da informação no Diário da Justiça eletrônico (art. 4º, § 3º, da Lei 11.419/2006 e art. 224, § 2º, do CPC). No mesmo sentido: AgInt no AREsp 3.136.267/PR, Terceira Turma, DJEN de 18/6/2026 e AgInt no REsp n. 2.203.278/MG, Quarta Turma, DJEN de 8/4/2026.
+Na hipótese dos autos, constata-se que o acórdão recorrido foi disponibilizado no DJEN em 29/8/2025 e considerado publicado no primeiro dia útil seguinte, em 1/9/2025, iniciando-se a contagem do prazo em 2/9/2025. O recurso foi interposto em 23/9/2025, um dia depois da finalização do prazo previsto no art. 1.003, § 5º, do CPC.
+Assim, considerando que o recurso especial foi interposto sob a égide do novo regramento processual e, deixando a parte agravante de comprovar que o acórdão teria sido disponibilizado no DJEN em data diferente daquela certificada nos autos, não se mostra possível afastar a intempestividade do recurso especial.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro em 2% os honorários fixados anteriormente, observada eventual gratuidade de justiça deferida.
+Previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS.
+1. Ação de compensação por danos morais.
+2. É intempestivo o recurso especial interposto fora do prazo de 15 (dias) úteis previsto no art. 1.003, §5º, do CPC.
+3. Agravo conhecido. Recurso especial não conhecido.
