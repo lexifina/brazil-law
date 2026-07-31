@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto por ROQUE BISCALCHIM FILHO contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que não admitiu recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 218):
+ACIDENTÁRIA - Preparador de máquinas - Acidente "in itinere" - Fratura do 3º dedo da mão direita - Exame pericial que concluiu pela ausência de incapacidade laborativa - Laudo não contrariado por nenhum outro trabalho técnico - Improcedência mantida - Recurso desprovido.
+Embargos de declaração rejeitados (e-STJ fls. 226/229).
+No recurso especial obstaculizado, o recorrente apontou violação dos arts. 489, § 1º, IV, e 1.022, parágrafo único, II, do CPC/2015, aduzindo, preliminarmente, a nulidade do julgado por ignorar os laudos médicos particulares juntados aos autos, mesmo após provocado via embargos de declaração, os quais atestam a perda funcional de caráter irreversível e progressiva.
+No mérito, alegou contrariedade ao art. 86 da Lei n. 8.213/1991, postulando a reforma do acórdão que exigiu a prova de incapacidade total, ignorando a comprovada redução funcional.
+Apontou, ainda, dissídio jurisprudencial, afirmando que a questão jurídica discutida nos presentes autos assemelha-se àquela solucionada no REsp Repetitivo 1.109.591/SC, Tema 416 do STJ, referente à possibilidade de concessão de benefício por incapacidade, ainda que a lesão seja mínima.
+Sem contrarrazões (e-STJ fl. 253).
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem por força do Tema 1.246 do STJ, pela inexistência de vícios na prestação jurisdicional e pela incidência da Súmula 7 do STJ (e-STJ fls. 254/256).
+Passo a decidir.
+De início, não merece acolhimento a pretensão de nulidade do julgado por negativa de prestação jurisdicional, porquanto, no acórdão impugnado, o Tribunal a quo apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, contudo em sentido contrário à pretensão recursal, o que não se confunde com o vício apontado.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. SUPERVENIÊNCIA DA LEI 14.230/2021. TEMA 1.199/STF. PRESENÇA DE DOLO E DO DANO. TIPICIDADE MANTIDA. DOSIMETRIA DAS PENAS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. INCIDÊNCIA. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação ao art. 1.022 do Código de Processo Civil (CPC) porque a prestação jurisdicional foi dada na medida da pretensão deduzida, é o que se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Julgamento diverso do pretendido não implica ofensa ao dispositivo de lei invocado.
+2. A superveniência da Lei 14.230/2021 não altera a tipicidade da conduta, porque o Tribunal de origem, no acórdão recorrido, reconheceu a presença de ato ímprobo previsto no art. 10 da Lei 8.429/1992, o dolo dos agentes e a lesão ao erário.
+3. A revisão da dosimetria das penas encontra óbice na Súmula 7 do Superior Tribunal de Justiça (STJ), salvo evidente desproporcionalidade, o que não se verifica neste caso.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.044.604/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 17/3/2025, DJEN de 21/3/2025.)
+No mais, como visto do relatório acima, o juízo de prelibação negou seguimento ao apelo nobre amparado no julgamento repetitivo proferido no Tema n. 1.246 e na Súmula 7 do STJ (e-STJ fls. 254/256).
+Não obstante o juízo negativo de admissibilidade tenha sido aplicado o óbice da Súmula 7 desta Corte, verifico que a matéria impugnada é única, relativa às conclusões do Tribunal de Justiça acerca da inexistência de incapacidade laborativa do segurado.
+Nesse contexto, além de no referido verbete sumular, o conhecimento da controvérsia encontra óbice, também, no disposto no art. 1.030, § 2º, do CPC, segundo o qual somente é cabível agravo interno contra a decisão que nega seguimento a recurso especial interposto contra acórdão que está em conformidade com o entendimento dos Tribunais Superiores exarado no julgamento de recursos repetitivos.
+Confira-se:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+ ..
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.
+Esta Corte, interpretando a aludida norma, firmou o entendimento de que é incabível o agravo do art. 1.042 do CPC contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo, publicada a partir de 18 de março de 2016, quando entrou em vigor o CPC/2015.
+Em razão dos referidos dispositivos legais, a interposição de agravo em recurso especial configura erro grosseiro, o que torna inviável a aplicação do princípio da fungibilidade recursal.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL FUNDADA NO ARTIGO 1.030, I, B DO CPC/2015. CABIMENTO DE AGRAVO INTERNO CONSOANTE ARTIGO 1.030, § 2o. CPC/2015. INTERPOSIÇÃO DO AGRAVO PREVISTO NO ARTIGO 1.042 DO CPC/2015. ERRO GROSSEIRO. FUNGIBILIDADE RECURSAL. DESCABIMENTO. AGRAVO INTERNO DA SEGURADA DESPROVIDO.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC de Justiça (Enunciado Administrativo 3).
+2. Com base no art. 1.030, § 2º, do CPC/2015, não cabe Agravo em Recurso Especial ao Superior Tribunal de Justiça contra decisão que nega seguimento ao Recurso Especial nos termos do art. 1.030, I, b do mesmo diploma legal, cabendo ao próprio Tribunal recorrido, se provocado por Agravo Interno, decidir sobre a alegação de equívoco na aplicação do entendimento firmado em sede de Recurso Especial julgado sob o rito representativo da controvérsia (AgInt no AREsp. 1.010.292/RN, Rel. Min. MAURO CAMPBELL MARQUES, DJe 3.4.2017; AgRg no AREsp 994.487/MG, Rel. Min. SEBASTIÃO REIS JUNIOR, DJe 2.3.2017; AgInt no AREsp 982.074/PR, Rel. Min. MARIA THEREZA DE ASSIS MOURA, DJe 17.11.2016).
+3. Inviável, na hipótese, a aplicação do princípio da fungibilidade recursal, porquanto, na data da publicação da decisão que não admitiu o Recurso Especial, já havia expressa previsão legal para o recurso cabível, artigo 1.030, I, b do CPC/2015, afastando-se, por conseguinte, a dúvida objetiva.
+4. Agravo interno da segurada desprovido. (AgInt no AREsp 1.035.090/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 2/8/2017).
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. RMI. NEGATIVA DE SEGUIMENTO A RECURSO COM FUNDAMENTO NO ART. 1.030, I, DO CPC/2015. AGRAVO EM RECURSO ESPECIAL. NÃO CABIMENTO. DECISÃO MANTIDA.
+I - O Código de Processo Civil de 2015, de forma expressa, determina o cabimento de agravo interno contra decisão que, especado no artigo 1.030, I, b, do Código de Processo Civil de 2015, nega seguimento ao recurso especial.
+II - Destarte, a interposição do agravo em recurso especial, previsto no artigo 1.042 do Código de Processo Civil de 2015, constitui erro grosseiro, tendo em vista a inexistência de dúvida objetiva, ante à expressa previsão legal do recurso adequado, não sendo mais devida a determinação de retorno dos autos ao Tribunal de origem para que o aprecie como agravo interno.
+III - Agravo interno improvido. (AgInt no AREsp 976.993/PE, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 14/8/2017).
+Ante o exposto, com base no art. 253, parágrafo único, I e II, "a" e "b", do RISTJ, CONHEÇO EM PARTE do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Sem majoração da verba honorária em razão de se tratar de ação acidentária (art. 129, parágrafo único, da Lei n. 8.213/1991).
+Publique-se. Intimem-se.
+ EMENTA
