@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de GABRYEL FERNANDES MACHADO, preso preventivamente e acusado pela prática de receptação qualificada em concurso com o art. 1º da Lei n. 5.197/1967, no Processo n. 0818361-27.2025.8.19.0042, da 1ª Vara Criminal da comarca de Petrópolis/RJ.
+A impetrante aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, que denegou a ordem do HC n. 0022562-90.2026.8.19.0000.
+Alega excesso de prazo na formação da culpa, afirmando que o paciente está preso há 273 dias, sem previsão de encerramento da instrução, e que não houve contribuição da defesa para a demora.
+Sustenta que, na audiência de instrução e julgamento realizada em 24/2/2026, o Ministério Público requereu diligências, mas, apenas em 20/4/2026 foi juntado aos autos ofício para obtenção de cópias de processo da Justiça Federal, sem comprovante de envio, destacando a dificuldade operacional entre os sistemas PJe e eproc.
+Afirma que o órgão acusador condicionou a apresentação de alegações finais ao cumprimento da diligência, com manifestação em 27/4/2026, contudo, a diligência somente foi efetivada em 1/6/2026, por provocação defensiva, permanecendo o feito sem movimentação útil desde então.
+Impugna a fundamentação do acórdão quanto à aplicação das Súmulas n. 64 e n. 52 do Superior Tribunal de Justiça, por entender que não houve períodos mortos imputáveis à defesa e que o excesso de prazo iniciou-se ao final da instrução.
+Destaca que a materialidade se restringe à apreensão de três aves e menciona laudo que indica que nem todos os animais se enquadram na lei de proteção.
+Ressalta a primariedade, a natureza não violenta do delito e a desproporcionalidade da prisão.
+Requer o relaxamento da custódia provisória, por ilegalidade decorrente do excesso de prazo, alternativamente a substituição por cautelares diversas.
+Os autos vieram a mim conclusos por prevenção do HC n. 1.061.807/RJ.
+O pedido liminar foi por mim indeferido em 20/6/2026 (fls. 71/72).
+Informações prestadas (fls. 77/83).
+O Ministério Público Federal, em seu parecer, opinou pelo não conhecimento do writ (fls. 86/95).
+É o relatório.
+Diz a jurisprudência do Superior Tribunal de Justiça que toda prisão imposta ou mantida antes do trânsito em julgado de sentença penal condenatória, por ser medida de índole excepcional, deve vir sempre baseada em fundamentação concreta, isto é, em elementos vinculados à realidade.
+Inexiste, por hora, o alegado constrangimento ilegal. Não há falar em relaxamento da prisão preventiva imposta ao paciente.
+No caso, o Tribunal estadual, ao denegar a ordem, manteve a custódia com base nos seguintes fundamentos (fls. 23/24 - grifo nosso):
+ ..
+Neste diapasão, ao analisarmos o caso dos autos, é possível concluir que o alongamento da instrução está devidamente justificado, pois a autoridade apontada como coatora vem conduzindo o processo com a celeridade possível, na medida em que o feito aguarda diligências que buscam o atingimento da Verdade Real, princípio do processo penal que, além de ser uma garantia de aplicação da Justiça, colabora, de certo aspecto, para a própria defesa. Não é por outro motivo que nosso ordenamento entende que é tolerável certa demora no término da instrução processual. Neste norte, destaque-se que o juízo reiterou, em 01/06/2026, ofício à 8º Vara Federal do RJ, requerendo urgência na resposta e destacando tratar-se de réu preso.
+Assim, ao analisar o andamento processual vemos que inexistem "períodos mortos" no processamento, estando este, em primeiro olhar, em regular estado.
+Noutro óculo, as situações fáticas do caso concreto também merecem ser ponderadas. Como se vê do andamento processual do feito e das informações prestadas pelo juízo, houve pedidos libertários da defesa, que demandaram movimentos de conclusão e expedição de ofícios, além de alteração do patrocínio do paciente. Todas essas ações, de alguma forma, retardaram a finalização da instrução e impactaram na fluidez do processo. Desta forma, não pode a defesa querer beneficiar- se de delonga a que também deu causa. Neste sentido, deve ser aplicada a Súmula nº 64 do Superior Tribunal de Justiça, que assim estatui:
+"Não constitui constrangimento ilegal o excesso de prazo na instrução, provocado pela defesa".
+Não se deve descurar que a questão da proporcionalidade/razoabilidade deve ser mensurada de acordo com a pena a ser aplicada, consoante entendimento do Superior Tribunal de Justiça. Neste norte, incabíveis as medidas cautelares substitutivas à prisão.
+Ademais, ao apreciarmos o andamento processual, vemos que já houve encerramento da instrução criminal (restando apenas pendente a resposta do ofício acima citado), não havendo que se falar em ilegalidade na manutenção da prisão, conforme entendimento pacífico da doutrina e da jurisprudência, consolidado no enunciado n.º 52 do Egrégio Superior Tribunal de Justiça, in verbis:
+"Encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo."
+Portanto, não se verificando atuação negligente ou excesso de prazo injustificado para o encerramento da instrução, inexiste constrangimento ilegal capaz de justificar a concessão da ordem, não havendo motivo aparente para a flexibilização do entendimento sumular citado.
+Em relação ao alegado excesso de prazo, em homenagem ao princípio da razoabilidade, é admissível certa variação, de acordo com as peculiaridades de cada caso, de modo que o constrangimento deve ser reconhecido como ilegal somente quando o retardo ou a morosidade sejam injustificados e possam ser atribuídos ao Poder Judiciário. Precedentes (AgRg no HC n. 786.537/PE, Ministra Daniela Teixeira, Quinta Turma, DJe 8/3/2024).
+Com efeito, a prisão cautelar não possui prazo determinado por lei, devendo sua manutenção obedecer a critérios fático-processuais de cada caso, não se aplicando um critério matemático para reconhecimento de ilegalidade por excesso de prazo (AgRg no RHC n. 204.509/BA, Ministro Og Fernandes, Sexta Turma, DJEN 18/2/2025).
+Na espécie, embora o tempo transcorrido para o julgamento da ação penal, não há situação incompatível com o princípio da razoável duração do processo. Não há notícia de ato procrastinatório por parte das autoridades públicas. Não está demonstrada a desídia estatal. Ademais, trata-se de feito que apura 2 crimes, houve análise de pedidos de liberdade do paciente, alteração de defensor e demanda de várias diligências.
+As informações prestadas pelo magistrado singular dão conta de que, a Defesa Técnica, em 22/06/2026, requereu a apreciação do pleito libertário em favor do ora paciente, sendo determinado em 23/06/2026, contato com o Juízo da 8ª Vara Federal do Rio de Janeiro, para verificação quanto ao recebimento da solicitação dos documentos requeridos pelo Parquet (fl. 82).
+Nesse contexto, tenho que não ficou demonstrada a existência de ilegalidade a justificar a concessão da ordem neste momento.
+Ante o exposto, denego a ordem. De ofício, expeça-se recomendação ao Juízo da 1ª Vara Criminal da comarca de Petrópolis/RJ - Processo n. 0818361-27.2025.8.19.0042, para que imprima maior celeridade no julgamento da ação penal.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. CRIME AMBIENTAL. TRÁFICO DE ANIMAIS SILVESTRES. RECEPTAÇÃO QUALIFICADA. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. AUSÊNCIA DE ATO PROCRASTINATÓRIO POR PARTE DAS AUTORIDADES PÚBLICAS. IMPULSIONAMENTO DO PROCESSO DE FORMA REGULAR. CONSTRANGIMENTO ILEGAL INEXISTENTE. PRECEDENTES.
+Ordem denegada, com recomendação.
