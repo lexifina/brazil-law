@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de reclamação ajuizada por JOÃO JOSÉ OLIVEIRA DE ARAÚJO e BURITIPAR HOLDING S.A., com fundamento no artigo 988, § 5º, II, do Código de Processo Civil.
+Os reclamantes afirmam que buscam a correta aplicação de precedente qualificado firmado no julgamento do Tema nº 885/STJ.
+Defendem que a Câmara Especial de Presidentes do Tribunal de Justiça do Estado de São Paulo, ao negar seguimento a seu recurso especial, deu interpretação ampliativa ao Tema nº 885/STJ, aplicando equivocadamente o precedente, sem observação das especificidades do caso concreto, em que houve instauração de incidente de desconsideração da personalidade jurídica na falência, com pedido de extensão de seus efeitos a seu patrimônio, que pode ser integralmente submetido ao processo falimentar.
+Argumentam que diante da manutenção de negativa de seguimento ao recurso especial apesar da interposição do agravo interno de que trata o artigo 1.030, § 2º, do CPC, restou apenas a via da reclamação para correção do ato jurídico equivocado.
+Afirmam que lhes foi estendida, ainda que liminarmente, a falência da Buritirama Mineração S.A, de modo que a execução originária não poderia prosseguir, pois não se trata mais de execução contra coobrigados em razão da prestação de garantia, mas contra pessoas que tiveram sua falência decretada, com a determinação de indisponibilidade e bloqueio de bens.
+Requerem que a reclamação seja julgada procedente para determinar que a autoridade coatora faça nova análise do caso, reconhecendo a inaplicabilidade do Tema nº 885/STJ, com o consequente processamento do recurso especial.
+A Subprocuradoria-Geral da República opinou pelo não conhecimento da reclamação, em parecer assim sintetizado:
+"RECLAMAÇÃO. CONTROLE DE APLICAÇÃO DE TESE FIRMADA EM RECURSO ESPECIAL REPETITIVO (TEMA N. 885/STJ). NÃO CABIMENTO. INADEQUAÇÃO DA VIA ELEITA. SUCEDÂNEO RECURSAL. - Parecer pelo não conhecimento da Reclamação" (e-STJ fl. 360).
+É o relatório.
+DECIDO.
+A reclamação não merece processamento.
+Cumpre assinalar, de início, que compete ao STJ processar e julgar originariamente a reclamação para preservação de sua competência ou para garantir a autoridade de seus julgados quando objetivamente violados.
+No que respeita à garantia de autoridade de suas decisões, segundo a jurisprudência do STJ, deve haver um comando positivo desta Corte proferido em processo que envolva as mesmas partes ou que pode produzir efeitos jurídicos em relação por elas mantida que está sendo desrespeitada.
+Nesses casos, a reclamação tem como objetivo garantir que ordens diretas emanadas desta Corte sejam observadas nas instâncias ordinárias, não servindo, porém, para preservação da jurisprudência desta Corte, ainda que firmada em julgamento repetitivo, ou como sucedâneo recursal.
+Vale lembrar, no ponto, que por ocasião do julgamento da Rcl nº 36.476/SP, firmou-se a orientação que não se admite o cabimento de reclamação destinada a vindicar o exame por esta Corte acerca da aplicação supostamente equivocada de precedente repetitivo.
+A propósito:
+"DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM RECLAMAÇÃO CONSTITUCIONAL. RECLAMAÇÃO DIRIGIDA AO STJ. CONTROLE DE APLICAÇÃO DE TESE FIRMADA EM RECURSO ESPECIAL REPETITIVO (TEMA 1.150/STJ). INADEQUAÇÃO DA VIA ELEITA. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática que extinguiu reclamação constitucional, sem resolução do mérito, por inadequação da via eleita, ao fundamento de que não é cabível reclamação para o exame de adequação, pelas instâncias ordinárias, de entendimento firmado pelo Superior Tribunal de Justiça em recurso especial repetitivo.
+2. A agravante sustenta o cabimento da reclamação em razão do esgotamento das instâncias ordinárias e da alegada aplicação teratológica, pelo Tribunal de origem, da tese firmada no Tema 1.150/STJ, afirmando inexistir outra via recursal para impugnar a decisão que negou seguimento ao recurso especial sob o fundamento de conformidade com o precedente repetitivo.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se é cabível reclamação constitucional, dirigida ao Superior Tribunal de Justiça, para impugnar decisão de Tribunal local que, após o esgotamento das instâncias ordinárias, nega seguimento a recurso especial com base na suposta conformidade do acórdão recorrido com tese firmada em recurso especial repetitivo (Tema 1.150/STJ).
+III. RAZÕES DE DECIDIR
+4. O entendimento consolidado no Superior Tribunal de Justiça afasta o cabimento de reclamação constitucional para o controle da correta aplicação, pelas instâncias ordinárias, de tese jurídica firmada em julgamento de recurso especial repetitivo.
+5. A Lei n. 13.256/2016 suprimiu, do art. 988 do CPC/2015, a hipótese de reclamação para garantir a observância de precedentes oriundos de recursos repetitivos, restringindo o cabimento da reclamação, nesse ponto, apenas aos precedentes oriundos de incidente de resolução de demandas repetitivas (IRDR).
+6. O § 5º do art. 988 do CPC/2015, na redação dada pela Lei n. 13.256/2016, trata de situações de inadmissibilidade da reclamação e não de nova hipótese de cabimento, de modo que o esgotamento das instâncias ordinárias não autoriza, por si só, o uso da reclamação para revisar a aplicação de tese firmada em recurso repetitivo.
+7. Admitir a reclamação para reexaminar a aplicação concreta de tese repetitiva desvirtuaria o regime dos recursos especiais repetitivos e a própria finalidade da reclamação, transformando-a em sucedâneo recursal para controle de decisões que negam seguimento a recurso especial.
+8. A extinção do processo sem resolução do mérito decorre da inadmissibilidade da reclamação para impugnar decisão que deixa de admitir recurso especial por conformidade com precedente repetitivo, e não da ausência de exaurimento das instâncias ordinárias, remanescendo à parte outros meios processuais eventualmente cabíveis.
+IV. DISPOSITIVO E TESE
+9. Resultado do Julgamento: Agravo interno desprovido, mantida a decisão que julgou extinta a reclamação constitucional, sem resolução do mérito, por inadequação da via eleita".
+(AgInt na Rcl nº 50.556/MT, relator Ministro Marco Aurélio Bellizze, Primeira Seção, julgado em 22/4/2026, DJEN de 28/4/2026 - grifou-se)
+"DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. RECLAMAÇÃO. ADEQUAÇÃO DO JULGADO IMPUGNADO À JURISPRUDÊNCIA DO STJ. PRECEDENTE EM REPETITIVO. CONTROLE DA APLICAÇÃO. SUPOSTO DESACERTO. INICIAL INDEFERIDA. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO.
+1. A reclamação prevista no artigo 105, I, "f", da Constituição Federal destina-se exclusivamente a assegurar a autoridade das decisões do STJ em casos concretos ou a proteger sua competência contra usurpações, não sendo instrumento apto para dirimir divergências jurisprudenciais entre decisões das instâncias ordinárias e precedentes do STJ, ainda que vinculantes. Precedente.
+2. Consoante definido pela Corte Especial na Rcl 36.476/SP, não é cabível o ajuizamento de reclamação com vistas ao controle da aplicação, na hipótese concreta, de tese firmada pelo STJ em recurso especial repetitivo. Precedentes.
+3. Agravo interno não provido".
+(AgInt nos EDcl na Rcl nº 50.234/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 11/3/2026, DJEN de 16/3/2026 - grifou-se)
+"ADMINISTRATIVO E PROCESSUAL CIVIL. TEMA 1150/STJ. NEGATIVA DE SEGUIMENTO A RECURSO ESPECIAL, COM FUNDAMENTO NA CONFORMIDADE DO ACÓRDÃO RECORRIDO COM ORIENTAÇÃO FIRMADA EM RECURSO ESPECIAL REPETITIVO. ALEGADO EQUÍVOCO NA APLICAÇÃO DO PRECEDENTE. NÃO CABIMENTO DE RECLAMAÇÃO. UTILIZAÇÃO DO INSTRUMENTO COMO SUCEDÂNEO RECURSAL. INVIABILIDADE. RECLAMAÇÃO NÃO CONHECIDA.
+1. Reclamação ajuizada contra acórdão do Tribunal de origem que negou provimento a agravo interno interposto contra decisão que, com fundamento no art. 1.030, I, b, do CPC/2015, negou seguimento a recurso especial, por estar o acórdão recorrido em conformidade com o entendimento firmado no Tema 1150/STJ.
+2. A reclamação prevista no art. 105, I, f, da Constituição Federal é garantia constitucional destinada à preservação da competência do Superior Tribunal de Justiça ou para garantir a autoridade de suas decisões em caso de descumprimento ou de cumprimento em desacordo com os limites do julgado proferido.
+3. Conforme jurisprudência desta Corte, não é possível a interposição de reclamação como sucedâneo recursal para dirimir divergência jurisprudencial, bem como não é cabível o ajuizamento de reclamação com vistas ao controle da aplicação, no caso concreto, de tese firmada pelo STJ em recurso especial repetitivo ou jurisprudência do STJ consolidada em súmula.
+4. A Corte Especial do STJ, no julgamento da Rcl 36.476, da relatoria da Ministra Nancy Andrighi, firmou entendimento no sentido de que não cabe reclamação para controle de aplicação de teses firmadas em recursos especiais repetitivos. Nesse contexto, "a aplicação de precedentes repetitivos deve ser discutida no âmbito da própria Corte local, por meio de agravo interno (art. 1.030, § 2º, do CPC/2015), não cabendo reclamação ao STJ para esse fim.  ..  A sistemática dos recursos repetitivos visa à uniformização da interpretação da lei federal, delegando às instâncias ordinárias a aplicação individualizada das teses jurídicas firmadas pelo STJ, sendo incabível a reclamação como sucedâneo recursal para revisar tais aplicações" (AgRg na Rcl 49.869/RS, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 6/11/2025, DJEN de 12/11/2025).
+5. Reclamação não conhecida".
+(Rcl nº 50.768/MT, relator Ministro Afrânio Vilela, Primeira Seção, julgado em 5/3/2026, DJEN de 12/3/2026 - grifou-se)
+"AGRAVO INTERNO NA RECLAMAÇÃO. APLICAÇÃO EQUIVOCADA DE TESE FIRMADA EM RECURSO REPETITIVO NO JUÍZO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. CONTROLE PELA VIA DA RECLAMAÇÃO. NÃO CABIMENTO. ORIENTAÇÃO FIRMADA PELA CORTE ESPECIAL NA RECLAMAÇÃO N. 36.476/SP. INDEFERIMENTO LIMINAR MANTIDO.
+1. Não é cabível o ajuizamento de reclamação constitucional para a observância de entendimento firmado pelo STJ em recurso especial repetitivo (Rcl n. 36.476/SP, Corte Especial).
+2. Agravo interno desprovido".
+(AgInt na Rcl nº 45.542/SP, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 29/8/2023, DJe de 1/9/2023 - grifou-se)
+Por outro lado, em relação à preservação de competência desta Corte, vale lembrar que a competência para realização do juízo de admissibilidade do recurso especial, bem como do julgamento do agravo interno previsto no artigo 1.030, § 2º, do CPC é do Tribunal de origem, de modo que não há que se falar em usurpação da competência deste Superior Tribunal de Justiça na hipótese.
+Portanto, não resta demonstrada nenhuma das hipóteses de cabimento da reclamação.
+Ante o exposto, indefiro liminarmente a petição inicial, julgando extinta a reclamação sem resolução do mérito, com fundamento no artigo 34, XVIII, "a", do RISTJ.
+Publique-se.
+Intimem-se .
+EMENTA
