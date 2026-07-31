@@ -1,0 +1,2 @@
+Altera a Lei Complementar nº 89, de 18 de fevereiro de 1997, para dispor sobre as receitas e a destinação de recursos do Fundo para Aparelhamento e Operacionalização das Atividades-fim da Polícia Federal (Funapol) e sobre o auxílio-saúde dos servidores das polícias federais; e a Lei nº 13.756, de 12 de dezembro de 2018, para ajustar a destinação do produto da arrecadação das apostas de quota fixa.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
