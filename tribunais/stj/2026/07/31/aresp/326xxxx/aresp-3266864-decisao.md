@@ -1,0 +1,58 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial (e-STJ fl. 126/131) interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO DE AGRAVO EM EXECUÇÃO PENAL. REMIÇÃO DE PENA PELO ESTUDO. IRRESIGNAÇÃO DO MINISTÉRIO PÚBLICO. APROVAÇÃO NO ENEM. APENADA QUE POSSUÍA ENSINO MÉDIO E SUPERIOR ANTES DO INGRESSO NO SISTEMA PRISIONAL. IRRELEVÂNCIA. POSSIBILIDADE DE CONCESSÃO DO BENEFÍCIO. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+Agravo em execução penal interposto pelo Ministério Público do Estado do Rio de Janeiro contra decisão da Vara de Execuções Penais da Capital que aplicou a remição de 100 (cem) dias da pena da reeducanda, em razão de sua aprovação em cinco áreas de conhecimento no Exame Nacional do Ensino Médio - ENEM, com fulcro no artigo 126, § 5º, da Lei de Execução Penal e na Recomendação nº 44/2013 do CNJ, posteriormente substituída pela Resolução nº 391/2021. O Ministério Público sustenta a impossibilidade de concessão do benefício porquanto a recorrida havia concluído o ensino superior antes do cumprimento da pena e não teria se dedicado efetivamente aos estudos no cárcere.
+II. QUESTÃO EM DISCUSSÃO
+Há duas questões em discussão: (i) analisar se é possível a concessão de remição de pena por aprovação no ENEM ao reeducando que concluiu o ensino médio ou superior antes do início do cumprimento da pena; (ii) aferir se a aprovação no ENEM, nessas condições, caracteriza esforço de estudo suficiente para autorizar a remição, ainda que não seja devido o acréscimo de 1/3 previsto no artigo 126, § 5º, da LEP.
+III. RAZÕES DE DECIDIR
+A Lei de Execução Penal (artigo 126) autoriza a remição de pena pelo estudo. A Resolução nº 391/2021, do CNJ consolidou a possibilidade de concessão do benefício a apenado aprovado em exames nacionais (ENEM/ENCCEJA), ainda que não vinculado a ensino formal na unidade prisional. A finalidade da remição por estudo é incentivar a dedicação intelectual e favorecer a ressocialização, afigurando-se desimportante o fato de a apenada possuir ensino médio ou superior antes do encarceramento. O entendimento reiterado do Superior Tribunal de Justiça, notadamente após o julgamento do ER Esp nº 1.979.591/SP, é da possibilidade de concessão de remição pela aprovação no ENEM mesmo para apenado anteriormente diplomado, desde que não se aplique o acréscimo de 1/3 previsto no § 5º do artigo 126, da LEP. A aprovação em suas áreas de conhecimento no ENEM reflete esforço de estudo por conta própria, não se confundindo com a mera certificação do ensino médio obtida anteriormente. O entendimento mais favorável à reeducanda encontra respaldo no princípio da dignidade da pessoa humana e no objetivo constitucional de ressocialização, devendo ser prestigiado.
+IV. DISPOSITIVO E TESE
+Recurso ministerial desprovido. Tese de julgamento: A aprovação no Exame Nacional do Ensino Médio (ENEM) enseja remição de pena, ainda que o apenado já tenha concluído o ensino médio ou superior antes do início do cumprimento da pena. A remição deve ser reconhecida na proporção de 20 dias por área de conhecimento aprovada, até o limite de 100 dias, conforme parâmetros do CNJ.
+O acréscimo de 1/3 previsto no artigo 126, § 5º, da LEP não é aplicado quando o ensino médio foi concluído antes da execução penal. (e-STJ fls. 63/65)
+O recorrente aponta violação do art. 126, § 5º da LEP, alegando, em síntese, que "se a apenada já havia concluído o ensino médio (e o ensino superior) antes de ingressar no sistema prisional, é evidente que não pode ser beneficiada pela obtenção de uma certificação referente a um nível de escolaridade que já possuía." (e-STJ fl. 107)
+Manifestação do Ministério Público Federal pelo não provimento do agravo às e-STJ fls. 174/180.
+É o relatório. Decido.
+A irresignação não prospera.
+Conforme relatado, a controvérsia refere-se à remição da pena em razão da aprovação da agravada no ENEM mesmo tendo concluído o grau de instrução antes de iniciar o cumprimento da pena.
+O TJRJ assim se pronunciou sobre a matéria:
+A remição da pena privativa de liberdade consiste na possibilidade de o reeducando reduzir o tempo de seu cumprimento, quando se dedicar ao trabalho e/ou ao estudo, com espeque na regra estatuída na Lei de Execução Penal, no seu dispositivo abaixo transcrito:
+ ..
+Evidente, portanto, que a finalidade de aproveitamento dos estudos para a redução do cumprimento de pena é incentivar o apenado à aprendizagem, com reflexos diretos na sua readaptação ao convívio social. O foco não é a aprovação, mas o aprendizado.
+Consigna-se que entendia ser incabível a remição ao apenado que houvesse concluído o ensino médio anteriormente à sua prisão, por não caracterizar a mera aprovação no ENEM, a conclusão do aludido grau de ensino, todavia, o Colendo Superior Tribunal de Justiça tem orientação reiterada, inclusive recente, no sentido de que a conclusão do ensino médio e mesmo a obtenção da graduação de nível superior antes do início do cumprimento da pena não obsta a concessão do aludido benefício, consoante os seus julgados a seguir colacionados, razão pela qual passei a segui-la:
+ ..
+Reforça-se que o parágrafo único do artigo 3º, da Resolução nº 391, de 10/05/2021, do Conselho Nacional de Justiça, dispõe que a remição da pena é reservada a apenados que não estão vinculados à atividade educacional regular na unidade prisional e realizam estudos por conta própria ou com acompanhamento pedagógico, visando beneficiar aquelas pessoas que, apesar da ausência de oportunidade, se dedicaram ao aprendizado, salientando-se que a redução da pena é possível pela mera aprovação em exame nacional, não estando sequer condicionada à certificação de conclusão do nível de ensino.
+Assim, a remição por estudo está condicionada ao êxito no ENEM/ENCCEJA e não à certificação no ensino médio. E, caso o reeducando tenha terminado o ensino médio antes do início do cumprimento da pena, como é o caso do agravante, tão somente não se acrescerá ao tempo de estudo a fração de 1/3 (um terço), na dicção do § 5º, do artigo 126, da Lei de Execução Penal.
+Na hipótese em apreciação, afigura-se acertada a decisão que declarou remidos 100 dias da pena da reeducanda, pela aprovação no Exame Nacional do Ensino Médio, ainda que tivesse concluído o ensino médio antes do início do cumprimento da sanção penal, sem a incidência do acréscimo positivado no § 5º, do artigo 126, da Lei de Execuções Penais, com base nos mesmos fundamentos esposados nos julgados do Colendo Superior Tribunal de Justiça. (e-STJ fls. 68/74)
+Veja que o entendimento do TJRJ está em harmonia com a jurisprudência desta Corte no sentido de que a aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA) enseja a remição de pena, mesmo que o apenado já tenha concluído o nível de ensino correspondente antes do cumprimento da pena (ut, HC n. 925.437/DF, relatora Ministra Daniela Teixeira, Quinta Turma, DJe de 22/10/2024.)
+Ainda nessa mesma linha:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL. REMIÇÃO DE PENA POR APROVAÇÃO NO ENCCEJA. ENSINO SUPERIOR ANTERIOR. POSSIBILIDADE. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público do Distrito Federal e Territórios contra decisão monocrática que reconheceu o direito de remição de pena do recorrente pela aprovação no ENCCEJA, mesmo possuindo diploma de curso superior antes do início do cumprimento da pena.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a aprovação no ENCCEJA gera direito à remição de pena para condenado que já possuía ensino superior antes do início do cumprimento da pena.
+III. Razões de decidir
+3. A jurisprudência desta Corte considera que a aprovação no ENEM/ENCCEJA é critério apto a comprovar a ocorrência de estudos por conta própria no interior da unidade prisional, ainda que o sentenciado já tenha obtido o diploma de curso superior antes do início do cumprimento da pena.
+4. As normas da execução penal, especialmente aquelas relacionadas à remição pelos estudos, devem ser interpretadas de modo mais favorável ao réu, não havendo restrição à concessão do direito àqueles que já tenham concluído o ensino médio ou superior.
+IV. Dispositivo e tese
+5. Agravo regimental não provido.
+Tese de julgamento: "1. As aprovações no ENEM e no ENCCEJA não configuram bis in idem para fins de remição de pena como regra. 2. A remição de pena por aprovação no ENCCEJA é permitida, mesmo que o apenado já tenha concluído o ensino superior anteriormente, sem acréscimo de 1/3 previsto no art. 126, § 5º, da LEP.".
+Dispositivos relevantes citados: LEP, art. 126, § 5º; Resolução n. 391/2021 do CNJ. Jurisprudência relevante citada: STJ, REsp n. 2.156.059/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/11/2024; AgRg no HC n. 790.202/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJe de 11/3/2024. (AgRg nos EDcl no AgRg nos EDcl no AREsp n. 2.815.124/DF, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/8/2025, DJEN de 19/8/2025.)
+DIREITO PENAL. AGRAVO REGIMENTAL. REMIÇÃO DE PENA. APROVAÇÃO NO ENCCEJA. POSSIBILIDADE. AGRAVO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público Federal contra decisão que concedeu habeas corpus para declarar a remição de 133 dias de pena pela aprovação do agravado no ENCCEJA 2023 - nível fundamental.
+2. O Tribunal de origem manteve a decisão que indeferiu a remição da pena, sob o fundamento de que o sentenciado já havia concluído o ensino médio antes de ingressar no sistema prisional, não fazendo jus à remição por estudos.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se é possível a remição da pena por aprovação no ENCCEJA, mesmo que o reeducando já tenha concluído o ensino médio antes de ingressar no sistema prisional.
+III. Razões de decidir
+4. A Resolução n. 391/2021 do CNJ determina que a aprovação nos exames que certificam a conclusão do ensino fundamental ou médio será considerada para fins de remição da pena, sem mencionar a necessidade de que a formação não tenha sido concluída antes do ingresso no sistema prisional.
+5. O Superior Tribunal de Justiça, no julgamento do EREsp n. 1.979.591/SP, fixou o entendimento de que é possível a remição da pena mesmo no caso de prévia conclusão do grau de ensino.
+6. No caso concreto, o apenado obteve aprovação total nas cinco áreas de conhecimento no ENCCEJA 2023 - nível fundamental, o que corresponde a 133 dias de remição, sem o acréscimo correspondente à conclusão de nível, uma vez que já havia a conclusão do grau de ensino previamente.
+IV. Dispositivo e tese
+7. Agravo regimental não provido.
+Tese de julgamento: "1. A aprovação no ENCCEJA pode ser considerada para remição de pena, mesmo que o reeducando já tenha concluído o ensino médio antes de ingressar no sistema prisional. 2. A Resolução n. 391/2021 do CNJ não impede a remição nesses casos".
+Dispositivos relevantes citados: Resolução n. 391/2021 do CNJ; Lei de Execução Penal, art. 126, §5º.Jurisprudência relevante citada:
+STJ, EREsp n. 1.979.591/SP, Terceira Seção, DJe de 13/11/2023; STJ, AgRg no HC n. 773.888/SP, Quinta Turma, DJe de 15/12/2022; STJ, AgRg no HC n. 578.558/SC, Quinta Turma, DJe de 24/5/2021. (AgRg no HC n. 994.699/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 10/6/2025, DJEN de 17/6/2025.)
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
