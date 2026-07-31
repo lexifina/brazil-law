@@ -1,0 +1,32 @@
+DECISÃO
+Examina-se recurso especial interposto por BANCO ABC BRASIL S.A., fundamentado, exclusivamente, na alínea "a" do permissivo constitucional..
+Recurso especial interposto em: 1/8/2025.
+Concluso ao gabinete em: 21/7/2026.
+Ação: impugnação de crédito ajuizada por Rafarillo Indústria de Calçados Ltda em face do agravante, na qual requer a reclassificação do crédito como concursal e a inclusão de R$ 1.986.752,79 (um milhão, novecentos e oitenta e seis mil, setecentos e cinquenta e dois reais e setenta e nove centavos).
+Decisão interlocutória: rejeitou a impugnação de crédito e fixou honorários por equidade em R$ 2.500,00 (dois mil e quinhentos reais).
+Acórdão: negou provimento ao recurso de agravo de instrumento interposto pelo agravante, nos termos da seguinte ementa (e-STJ fl. 405):
+AGRAVO DE INSTRUMENTO. Recuperação judicial. Impugnação de crédito. Honorários advocatícios. Exigibilidade. "São devidos honorários advocatícios nas hipóteses em que o pedido de habilitação de crédito em recuperação judicial for impugnado, conferindo litigiosidade ao processo". STJ, REsp 1.197.177-RJ. Valor fixado por equidade. Regularidade. Natureza incidental. Enunciado XXII do Grupo de Câmaras Reservadas de Direito Empresarial. Decisão mantida.
+Embargos de Declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 85, § 2º, 489, § 1º, VI, e 1.022, parágrafo único, II, do CPC. Além da negativa de prestação jurisdicional, afirma que a fixação dos honorários deve observar os percentuais legais calculados sobre o proveito econômico, sendo indevida a adoção da equidade quando o valor é elevado. Aduz que, na impugnação de crédito, há valor econômico certo e determinado, devendo servir de base para a sucumbência.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca do critério de fixação dos honorários, justificando a adoção da equidade e a inaplicabilidade do Tema 1.076 no contexto de impugnação de crédito (e-STJ fl. 436), de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, inexiste violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Do exame do acórdão recorrido, constata-se que as questões de mérito foram devidamente analisadas e discutidas, de modo que a prestação jurisdicional foi esgotada.
+É importante salientar que a ausência de manifestação a respeito de determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Logo, não há contrariedade ao art. 489 do CPC, pois o Tribunal de origem decidiu de modo claro e fundamentado.
+No mesmo sentido: AgInt nos EDcl no AREsp n. 1.547.208/SP, Terceira Turma, DJe 19/12/2019 e AgInt no AREsp n. 1.480.314/RJ, Quarta Turma, DJe 19/12/2019.
+- Do Tema 1.076/STJ
+O TJ/SP decidiu em desconformidade com a jurisprudência desta Corte, segundo a qual: "i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa; ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo" (REsp 1.850.512/SP, Corte Especial, julgado em 16/3/2022, DJe 31/5/2022, Tema 1076).
+Recentemente, em demandas análogas ao processo sob julgamento, assim decidiu o Superior Tribunal de Justiça: "A apresentação de impugnação à habilitação de crédito na recuperação judicial ou na falência justifica a condenação em honorários sucumbenciais, os quais devem ser fixados segundo a regra geral do § 2º do art. 85 do Código de Processo Civil, sendo inviável, salvo situações excepcionais, inexistentes na espécie, a sua estipulação por equidade" (REsp n. 1.855.689/DF, Terceira Turma, DJe 19/5/2025).
+Igualmente, veja-se: AgInt no AREsp n. 1.991.591/GO, Terceira Turma, DJe 28/8/2025; AgInt no AREsp n. 2.787.041/SP, Quarta Turma, DJe 4/9/2025.
+Logo, o acórdão recorrido merece reforma neste ponto.
+Forte nessas razões, com fundamento no art. 932, III e V, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial para DAR-LHE PARCIAL PROVIMENTO, a fim de sejam arbitrados os honorários advocatícios sucumbenciais no patamar de 10% sobre o proveito econômico obtido, com base no art. 85, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. IMPUGNAÇÃO DE CRÉDITO. RECUPERAÇÃO JUDICIAL. HONORÁRIOS ADVOCATÍCIOS. ORDEM DO ART. 85, § 2º, DO CPC. OBRIGATORIEDADE. ARBITRAMENTO POR EQUIDADE. INAPLICABILIDADE. TEMA 1076/STJ. REFORMA DA DECISÃO RECORRIDA.
+1. Impugnação de Crédito.
+2. A Corte Especial do STJ, no julgamento dos recursos especiais repetitivos vinculados ao Tema 1.076, fixou as seguintes teses: "i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa; ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo" (REsp 1.850.512/SP, Corte Especial, DJe 31/5/2022, Tema 1076).
+3. Recurso especial parcialmente provido.
