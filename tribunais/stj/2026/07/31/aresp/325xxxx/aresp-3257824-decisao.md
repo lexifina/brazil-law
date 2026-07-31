@@ -1,0 +1,11 @@
+DECISÃO
+A questão objeto do especial versa sobre o Tema 1.297 da sistemática dos recursos repetitivos do STJ, no qual esta Corte estabeleceu a tese de que:
+1. É compatível a aplicação cumulativa da Lei 12.158/2009 e do art. 34 da Medida Provisória 2.215-10/2001 aos militares oriundos do Quadro de Taifeiros da Aeronáutica na reserva remunerada, reformados ou no serviço ativo, cujo ingresso no referido Quadro se deu até 31/12/1992, observada a limitação aos proventos correspondentes à graduação de Suboficial.
+2. Admite-se a revisão dos proventos para adequação aos limites legais acima mencionados, devendo-se observar, contudo, o prazo decadencial de 5 anos previsto no art. 54 da Lei 9784/99, contado da data em que recebido no Tribunal de Contas da União, para exame de sua legalidade, o ato de transferência do militar para a inatividade ou de concessão da pensão. Fica vedada, entretanto, a restituição de valores percebidos de boa-fé até a data de publicação deste acórdão.
+Nesse contexto, julgado o tema pela sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem retornar ao Tribunal de origem para que este faça o juízo de conformação, nos termos do que dispõe o art. 34, XXIV, do RISTJ, que estabelece:
+Art. 34. Compete ao Relator:
+XXIV - determinar a devolução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis.
+Realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para este Tribunal Superior para, se for o caso, serem analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, em razão do acórdão proferido no recurso especial repetitivo e em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso, se a decisão recorrida coincidir com a orientação emanada pelo Tribunal Superior; ou b) proceda ao juízo de retratação, na hipótese de o acórdão vergastado divergir da decisão sobre o tema.
+Intimem-se. Publique-se.
+EMENTA
