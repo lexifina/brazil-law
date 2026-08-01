@@ -1,0 +1,76 @@
+DECISÃO: Trata-se de reclamação constitucional, com pedido liminar, ajuizada pelo Estado do Piauí, contra sentença proferida pelo Juiz de Direito da 1ª Vara dos Feitos da Fazenda Pública da Comarca de Teresina, nos autos do Processo nº 0818657-73.2025.8.18.0140.
+O Estado reclamante sustenta que, ao determinar o fornecimento do fármaco Nintedanibe 150mg em favor da parte beneficiária, o Juízo reclamado teria inobservado a jurisprudência desta Corte firmada no julgamento dos Temas 6 e 1234 da repercussão geral, sintetizado nas Súmulas Vinculantes 60 e 61.
+Relata que, na origem, a parte beneficiária pleiteia a concessão do fármaco Nintedanibe 100mg para tratamento de fibrose pulmonar idiopática e, embora o medicamento tenha tido recomendação de não incorporação, pela Conitec, o Juízo reclamado determinou sua concessão.
+Pontua, em síntese, que os requisitos dos Temas 6 e 1234 não se encontram preenchidos, notadamente a demonstração de ilegalidade do ato de não incorporação do medicamento nas listas do SUS, pela Conitec.
+Destaca que, no caso, a decisão reclamada reconheceu a eficácia do fármaco a partir da referência genérica a “estudos clínicos robustos” mencionados na nota técnica do NatJus, sendo impossível concluir se a eficácia encontra-se respaldada em ensaio clínico randomizado, revisão sistemática ou meta-análise, únicos meios de comprovação científica admitidos pelo STF.
+Ao final, requer a concessão de liminar para suspender os efeitos da decisão reclamada e, no mérito, que a reclamação seja julgada procedente, determinando que outra seja proferida em observância aos precedentes vinculantes do Supremo Tribunal Federal.
+É o relatório. Decido.
+Inicialmente, dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (RISTF, art. 52, parágrafo único).
+Superada a questão, rememoro que a reclamação, tal como prevista no artigo 102, I, “l”, da Constituição e regulada nos artigos 988 a 993 do Código de Processo Civil e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, tem cabimento para preservar a competência do tribunal ou garantir a autoridade das suas decisões, bem como contra ato administrativo ou decisão judicial que contrarie súmula vinculante (CF/88, art. 103-A, § 3º).
+Extrai-se dos autos que D.M.S.S., representada pela Defensoria Pública do Estado do Piauí, ajuizou ação de obrigação de fazer, com pedido de tutela de urgência, em desfavor do Estado do Piauí, ora reclamante, com vistas a obter o fornecimento do fármaco Nintedanibe 100mg, para tratamento de  Fibrose Pulmonar Idiopática (eDOC 2, p. 3-28).
+Inicialmente, o Juízo de primeiro grau deferiu o pedido de liminar para determinar que o reclamante forneça o fármaco pleiteado (eDOC 2, p. 115-120). Em seguida, os embargos de declaração opostos contra a mencionada decisão foram rejeitados (eDOC 2, p. 145).
+Ao apreciar o mérito da demanda, o Juiz de primeiro grau julgou a ação procedente, confirmando o provimento liminar em favor da parte beneficiária, para determinar que o Estado do Piauí conceda o medicamento em favor da parte beneficiária (eDOC 2, p. 164-166).
+Por fim, foram opostos embargos de declaração pelo Estado do Piauí, os quais encontram-se pendentes de julgamento.
+Daí o ajuizamento da presente reclamação, na qual o Estado do Piauí sustenta que o Juízo reclamado, ao determinar o fornecimento do medicamento Nintedanibe em favor da parte beneficiária, violou o entendimento firmado nas Súmulas Vinculantes 60 e 61, que estabelecem a observância das teses firmadas no julgamento dos Temas 6 e 1234 da repercussão geral, que assim dispõem:
+
+Súmula vinculante n. 60
+“O pedido e a análise administrativos de fármacos na rede pública de saúde, a judicialização do caso, bem ainda seus desdobramentos (administrativos e jurisdicionais), devem observar os termos dos 3 (três) acordos interfederativos (e seus fluxos) homologados pelo Supremo Tribunal Federal, em governança judicial colaborativa, no tema 1.234 da sistemática da repercussão geral (RE 1.366.243).”
+
+Súmula vinculante n. 61
+“A concessão judicial de medicamento registrado na ANVISA, mas não incorporado às listas de dispensação do Sistema Único de Saúde, deve observar as teses firmadas no julgamento do Tema 6 da Repercussão Geral (RE 566.471)”.
+
+Tema 6
+“1. A ausência de inclusão de medicamento nas listas de dispensação do Sistema Único de Saúde - SUS (RENAME, RESME, REMUME, entre outras) impede, como regra geral, o fornecimento do fármaco por decisão judicial, independentemente do custo.
+2. É possível, excepcionalmente, a concessão judicial de medicamento registrado na ANVISA, mas não incorporado às listas de dispensação do Sistema Único de Saúde, desde que preenchidos, cumulativamente, os seguintes requisitos, cujo ônus probatório incumbe ao autor da ação:
+(a) negativa de fornecimento do medicamento na via administrativa, nos termos do item '4' do Tema 1234 da repercussão geral;
+(b) ilegalidade do ato de não incorporação do medicamento pela Conitec, ausência de pedido de incorporação ou da mora na sua apreciação, tendo em vista os prazos e critérios previstos nos artigos 19-Q e 19-R da Lei nº 8.080/1990 e no Decreto nº 7.646/2011;
+(c) impossibilidade de substituição por outro medicamento constante das listas do SUS e dos protocolos clínicos e diretrizes terapêuticas;
+(d) comprovação, à luz da medicina baseada em evidências, da eficácia, acurácia, efetividade e segurança do fármaco, necessariamente respaldadas por evidências científicas de alto nível, ou seja, unicamente ensaios clínicos randomizados e revisão sistemática ou meta-análise;
+(e) imprescindibilidade clínica do tratamento, comprovada mediante laudo médico fundamentado, descrevendo inclusive qual o tratamento já realizado; e
+(f) incapacidade financeira de arcar com o custeio do medicamento.
+3. Sob pena de nulidade da decisão judicial, nos termos do artigo 489, § 1º, incisos V e VI, e artigo 927, inciso III, § 1º, ambos do Código de Processo Civil, o Poder Judiciário, ao apreciar pedido de concessão de medicamentos não incorporados, deverá obrigatoriamente:
+(a) analisar o ato administrativo comissivo ou omissivo de não incorporação pela Conitec ou da negativa de fornecimento da via administrativa, à luz das circunstâncias do caso concreto e da legislação de regência, especialmente a política pública do SUS, não sendo possível a incursão no mérito do ato administrativo;
+(b) aferir a presença dos requisitos de dispensação do medicamento, previstos no item 2, a partir da prévia consulta ao Núcleo de Apoio Técnico do Poder Judiciário (NATJUS), sempre que disponível na respectiva jurisdição, ou a entes ou pessoas com expertise técnica na área, não podendo fundamentar a sua decisão unicamente em prescrição, relatório ou laudo médico juntado aos autos pelo autor da ação; e
+(c) no caso de deferimento judicial do fármaco, oficiar aos órgãos competentes para avaliarem a possibilidade de sua incorporação no âmbito do SUS”.
+
+Tema 1234
+“IV – Análise judicial do ato administrativo de indeferimento de medicamento pelo SUS
+4) Sob pena de nulidade do ato jurisdicional (art. 489, § 1º, V e VI, c/c art. 927, III, §1º, ambos do CPC), o Poder Judiciário, ao apreciar pedido de concessão de medicamentos não incorporados, deverá obrigatoriamente analisar o ato administrativo comissivo ou omissivo da não incorporação pela Conitec e da negativa de fornecimento na via administrativa, tal como acordado entre os Entes Federativos em autocomposição no Supremo Tribunal Federal.
+4.1) No exercício do controle de legalidade, o Poder Judiciário não pode substituir a vontade do administrador, mas tão somente verificar se o ato administrativo específico daquele caso concreto está em conformidade com as balizas presentes na Constituição Federal, na legislação de regência e na política pública no SUS.
+4.2) A análise jurisdicional do ato administrativo que indefere o fornecimento de medicamento não incorporado restringe-se ao exame da regularidade do procedimento e da legalidade do ato de não incorporação e do ato administrativo questionado, à luz do controle de legalidade e da teoria dos motivos determinantes, não sendo possível incursão no mérito administrativo, ressalvada a cognição do ato administrativo discricionário, o qual se vincula à existência, à veracidade e à legitimidade dos motivos apontados como fundamentos para a sua adoção, a sujeitar o ente público aos seus termos.
+4.3) Tratando-se de medicamento não incorporado, é do autor da ação o ônus de demonstrar, com fundamento na Medicina Baseada em Evidências, a segurança e a eficácia do fármaco, bem como a inexistência de substituto terapêutico incorporado pelo SUS.
+4.4) Conforme decisão da STA 175-AgR, não basta a simples alegação de necessidade do medicamento, mesmo que acompanhada de relatório médico, sendo necessária a demonstração de que a opinião do profissional encontra respaldo em evidências científicas de alto nível, ou seja, unicamente ensaios clínicos randomizados, revisão sistemática ou meta-análise.” (grifo nosso).
+
+Pois bem.
+Não se ignora a urgência e sensibilidade desses casos em que a parte recorre ao Poder Judiciário a fim de requerer a concessão de fármaco não fornecido no âmbito do Sistema Único de Saúde - SUS e que, muitas vezes, trata-se de medicamento que representa a única ou última esperança de cura ou alívio da enfermidade que lhe acomete.
+No entanto, em tais casos, e com vistas a viabilizar a própria manutenção das políticas públicas na área de saúde, faz-se necessário observar os critérios que, após longo debate com o Poder Público, foram estabelecidos por esta Suprema Corte no julgamento dos referidos precedentes vinculantes.
+No caso, a sentença julgou procedente a ação conforme os fundamentos a seguir transcritos:
+
+“A controvérsia cinge-se à possibilidade de fornecimento judicial do medicamento Esilato de Nintedanibe 100 mg para tratamento de Fibrose Pulmonar Idiopática.
+O direito à saúde encontra assento nos arts. 6º e 196 da Constituição Federal, constituindo direito fundamental de todos e dever do Estado, a ser garantido mediante políticas sociais e econômicas destinadas à redução do risco de doenças e ao acesso universal e igualitário às ações e serviços de saúde.
+É certo que o medicamento pleiteado não foi incorporado ao Sistema Único de Saúde para a indicação pretendida, circunstância que impõe a análise da demanda à luz da orientação fixada pelo Supremo Tribunal Federal no Tema 6 da Repercussão Geral.
+Conforme consta dos autos, o medicamento possui registro sanitário ativo perante a ANVISA, sendo incontroverso que sua utilização para Fibrose Pulmonar Idiopática corresponde a indicação prevista em bula.
+Também restou comprovado que a autora é portadora de doença pulmonar grave e progressiva, caracterizada por perda progressiva da função respiratória, tendo o médico assistente consignado expressamente a imprescindibilidade da utilização do Nintedanibe e o risco concreto de agravamento clínico na hipótese de ausência do tratamento.
+Embora a primeira Nota Técnica do NATJUS tenha apontado insuficiência de dados clínicos para emissão de conclusão favorável, a documentação médica posteriormente apresentada permitiu nova avaliação especializada.
+Com efeito, a Nota Técnica complementar reconheceu expressamente que o Nintedanibe constitui opção terapêutica validada para pacientes acometidos por doenças pulmonares intersticiais fibrosantes, destacando estudos clínicos robustos que demonstram redução da velocidade de deterioração da capacidade vital forçada e retardo da progressão da doença.
+A manifestação técnica consignou, ainda, que o medicamento possui aprovação regulatória para tratamento da Fibrose Pulmonar Idiopática e representa importante ferramenta terapêutica para preservação da função pulmonar.
+Além disso, a autora demonstrou incapacidade econômica para custear o tratamento por meios próprios. Os documentos juntados aos autos evidenciam que o custo anual da terapia supera cem mil reais, valor manifestamente incompatível com sua condição financeira.
+É verdade que a CONITEC, em avaliação realizada em 2018, recomendou a não incorporação do medicamento ao SUS. Contudo, a não incorporação, por si só, não impede o reconhecimento judicial do direito à saúde quando demonstradas, no caso concreto, circunstâncias excepcionais aptas a justificar a concessão da prestação requerida.
+No presente caso, a prova produzida evidencia a presença de elementos individualizados que distinguem a situação da autora da análise abstrata realizada em sede administrativa, notadamente a gravidade da enfermidade, a inexistência de alternativa terapêutica específica disponibilizada pelo SUS com a mesma finalidade antifibrótica, a prescrição fundamentada por especialista e a existência de respaldo técnicocientífico reconhecido pelo próprio NATJUS após a complementação dos elementos clínicos.
+Assim, diante da comprovação da necessidade clínica do tratamento, da hipossuficiência econômica da autora, do registro sanitário do medicamento e da demonstração de evidências científicas favoráveis à sua utilização para a patologia apresentada, impõe-se a procedência do pedido.” (eDOC 2, p. 164-165)
+
+Contudo, nos termos em que proferida a sentença reclamada, verifica-se que, ao determinar o fornecimento do fármaco pleiteado, sem, no entanto, analisar o requisito que trata da comprovação, à luz da medicina baseada em evidências, da eficácia, acurácia, efetividade e segurança do fármaco, necessariamente respaldadas por evidências científicas de alto nível, bem como sem apontar a imprescindibilidade clínica de seu fornecimento e a ilegalidade do ato de não incorporação da Conitec, o juízo reclamado deixou de observar os critérios estabelecidos por esta Suprema Corte no item 2, alíneas, ‘c’, ‘d’ e ‘e’, do Tema 6 da repercussão geral, mencionado dentre os requisitos destacados alhures.
+Assim, considerando que o Juízo reclamado não observou integralmente os requisitos dispostos no Tema 6 da repercussão geral, constata-se a violação à Súmula Vinculante 61 desta Suprema Corte.
+Nesse contexto, afigura-se imperiosa a reapreciação da controvérsia, sob a ótica de estudos de alto nível pertinentes ao caso eventualmente existentes.
+No mesmo sentido, em situações análogas à dos autos, cito os seguintes julgados: Rcl 82.263, Rel. Min. Gilmar Mendes, Dje 6.8.2025; Rcl 72.884/PR, Rel. Min. Alexandre de Moraes, Dje 21.11.2024; Rcl 73.429, Rel. Min. Dias Toffoli, Dje 17.12.2024; e Rcl 74.116/SP, Rel. Min. Cármen Lúcia, Dje 13.12.2024, este último assim ementado:
+
+“RECLAMAÇÃO. CONSTITUCIONAL. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTO NÃO INCLUÍDO EM POLÍTICAS PÚBLICAS IMPLEMENTADAS PELO SISTEMA ÚNICO DE SAÚDE – SUS: TEMAS 6 E 1.234 DA SISTEMÁTICA DA REPERCUSSÃO GERAL E SÚMULAS VINCULANTES NS. 60 E 61 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE CUMPRIMENTO DOS REQUISITOS FIXADOS PELO SUPREMO TRIBUNAL FEDERAL. RECLAMAÇÃO JULGADA PROCEDENTE.”
+
+Ante o exposto, julgo procedente a reclamação para cassar a sentença reclamada, determinando que outra seja proferida, em conformidade com a jurisprudência desta Suprema Corte (art. 21, § 1º, do RISTF), no menor prazo possível.
+
+Publique-se.
+Brasília, 1º de agosto de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
