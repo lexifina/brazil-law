@@ -1,2 +1,0 @@
-Art. 21. É facultada a constituição de patrimônio de afetação para a cobertura de que trata o inciso II do caput do art. 20, que não se comunicará com o restante do patrimônio do FGHab, ficando vinculado exclusivamente à garantia da respectiva cobertura, não podendo ser objeto de penhora, arresto, sequestro, busca e apreensão ou qualquer ato de constrição judicial decorrente de outras obrigações do Fundo.
-Parágrafo único. A constituição do patrimônio de afetação será feita por registro em cartório de registro de títulos e documentos.

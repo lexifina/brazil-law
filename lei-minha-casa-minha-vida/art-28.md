@@ -1,1 +1,0 @@
-Art. 28. Os financiamentos imobiliários garantidos pelo FGHab, na forma do inciso II do caput do art. 20, serão dispensados da contratação de seguro com cobertura de Morte, Invalidez Permanente - MIP e Danos Físicos ao Imóvel - DFI.
