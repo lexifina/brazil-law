@@ -1,0 +1,38 @@
+Decisão
+
+Trata-se de Habeas Corpus, com pedido de liminar, impetrado contra decisão proferida pelo Ministro HERMAN BENJAMIN, do Superior Tribunal de Justiça, no HC 1.111.208/RS.
+Pelo que se depreende dos autos, os pacientes tiveram a prisão preventiva decretada e foram denunciados pela prática do crime de fraude eletrônica (art. 171, § 2º-A, do Código Penal).
+Em resumo, colhe-se do decreto prisional:
+
+[...] há prova da ocorrência de fatos típicos, ilícitos e culpáveis, dado que a materialidade do delito encontra-se consubstanciada pelo registro de ocorrência policial (1.2), termo de depoimento da vítima (1.3), termos de arremate fraudulentos (1.5 e 1.7), comprovantes de transferência bancária que atestam o prejuízo financeiro (1.6 e 1.8), transcrição de conversas mantidas por aplicativo de mensagens (1.4), pelas respostas da operadora VIVO (1.34, 1.33 e 1.39), pelos robustos relatórios de investigação que detalham a complexa estrutura criminosa (1.1, 1.27, 1.32, 1.26 e 1.40) e demais elementos probatórios juntados aos autos.
+Há também indícios suficientes da autoria às pessoas investigadas, notadamente pelas circunstâncias que evidenciam sua posição central na engrenagem criminosa. A autoridade policial, a partir de meticuloso trabalho de inteligência, logrou desvelar a estrutura da organização, dividindo-a didaticamente em um "Núcleo de Interação Digital" e um "Núcleo de Gestão de Ativos".
+As provas coligidas posicionam inequivocamente VITORIA e CAIO no epicentro do primeiro núcleo, responsável pela criação do ambiente virtual fraudulento e pela comunicação direta com as vítimas. O elo de ligação fundamental foi a identificação do endereço IP 179.111.27.126, utilizado para registrar e operar as linhas telefônicas VolP, as quais conferiam falsa credibilidade ao golpe.
+[...]
+Soma-se a isso o perfil de CAIO, apontado como programador, com histórico criminal por delitos patrimoniais e de associação criminosa, e o fato de o casal ostentar um padrão de vida incompatível com fontes de renda lícitas, com a posse e negociação de múltiplos veículos de luxo.
+[...]
+No concernente ao terceiro requisito, a prisão preventiva somente é cabível quando presente o perigo prisão e imprescindível para a garantia da ordem publica, reiteração criminosa.
+A investigação não apenas demonstrou a sofisticação e o planejamento do grupo, mas também sua contumácia delitiva. Conforme apontado pela autoridade policial (Evento 1, OFIC1, item 5), a mesma estrutura criminosa, utilizando-se do idêntico modus operandi e das mesmas linhas VolP, foi responsável por vitimar diversas outras pessoas em ocorrências distintas, registradas tanto em 2024 quanto em 2025. Segue trecho da representação que bem explica o risco em tela e a contemporaneidade da medida (1.1):
+[...]
+Trata-se, portanto, não de um ato criminoso isolado, mas de uma atividade delitiva profissional e reiterada, da qual os investigados extraem seu sustento, configurando um claro atentado à ordem pública que necessita ser estancado.
+[...]
+Por fim, como se observa da fundamentação já construída, as medidas cautelares diversas da prisão não se mostram suficientes, adequadas e proporcionais, notadamente em face da demonstrada profissionalização do grupo criminoso e do altíssimo risco de reiteração delitiva. A estrutura tecnológica montada pelos investigados móvel e de fácil replicação, permitindo que, mesmo com restrições como monitoramento eletrônico, continuem operar o esquema fraudulento a partir de qualquer local com acesso à internet. A complexidade do ardil, perenidade da atividade criminosa e a audácia em simular a identidade de empresas consolidadas no mercado evidenciam que apenas a segregação cautelar será capaz de interromper o ciclo delitivo e resguardar a ordem publica.
+[...]
+
+Inconformada, a defesa impetrou Habeas Corpus no Tribunal de Justiça do Estado do Rio Grande do Sul, cujo Desembargador relator indeferiu o pedido de liminar.
+Em seguida, nova impetração, desta vez direcionada ao Superior Tribunal de Justiça, indeferida liminarmente pelo Ministro Presidente, com fundamento na Súmula 691/STF.
+Nesta ação, o impetrante alega, em síntese: (a) ausência dos pressupostos autorizadores para a manutenção da prisão preventiva; e (b) “os pacientes estão sendo processados, com o recebimento de denúncia, com data já marcada para início da instrução criminal, mas não teve vista de todo o processo, faltado a cautelar de busca a apreensão”.
+Ao final, requer a concessão da ordem “para determinar o imediato acesso as cautelares. Com consequente reconhecimento de constrangimento ilegal com revogação das prisões preventivas, com aplicação de medidas cautelares diversas da prisão”.
+É o relatório. Decido.
+
+No presente caso, incide óbice ao conhecimento da ordem impetrada neste SUPREMO TRIBUNAL FEDERAL, uma vez que se impugna decisão monocrática de Ministro do Superior Tribunal de Justiça (HC 151.344-AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 21/3/2018; HC 122.718/SP, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 3/9/2014; HC 121.684-AgR/SP, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 16/5/2014; HC 138.687-AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 1º/3/2017; HC 116.875/AC, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 17/10/2013; HC 117.346/SP, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 22/10/2013; HC 117.798/SP, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014; HC 119.821/TO, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 29/4/2014; HC 122.381-AgR/SP, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 9/10/2014; RHC 114.737/RN, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 18/4/2013; RHC 114.961/SP, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 8/8/2013).
+De fato, o exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do SUPREMO TRIBUNAL FEDERAL, conforme vem sendo reiteradamente proclamado por esta CORTE (HC 129.142, Rel. Min. MARCO AURÉLIO, Redator p/ Acórdão Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 10/8/2017; RHC 111.935, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC 97.009, Redator p/ Acórdão: Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC 118.189, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014).
+Em hipóteses como a presente, o exaurimento da jurisdição na origem exige a interposição de agravo interno, não sendo possível sua substituição por habeas corpus dirigido a tribunal diverso. Admitir o contrário permitiria à parte escolher, conforme sua conveniência, o órgão revisor da decisão monocrática, em afronta ao princípio do juiz natural e ao necessário exaurimento das instâncias, pressuposto da competência desta CORTE, que não comporta ampliação por via imprópria (HC 131226 AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 25/2/2016 e HC 270760, Rel. Min. CÁRMEN LÚCIA, DJe de 15/4/2026).
+Esta Primeira Turma vem autorizando, somente em circunstâncias específicas, o exame de habeas corpus quando não encerrada a análise na instância competente, óbice superável apenas em hipótese de teratologia (HC 138.414/RJ, Primeira Turma, DJe de 20/4/2017) ou em casos excepcionais (HC 137.078/SP, Primeira Turma, DJe de 24/4/2017), como bem destacado pela Ministra ROSA WEBER.
+No caso, entretanto, não se apresentam hipóteses de teratologia ou excepcionalidade aptas a justificar a intervenção desta CORTE.
+Diante do exposto, com fundamento no art. 21, §1º, do Regimento Interno do STF, INDEFIRO a ordem de HABEAS CORPUS.
+Publique-se.
+Brasília, 1º de agosto de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
