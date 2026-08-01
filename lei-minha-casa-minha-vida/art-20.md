@@ -1,10 +1,4 @@
-Art. 20. Fica a União autorizada a participar, observadas suas disponibilidades orçamentárias e financeiras consignadas nas dotações anuais, do Fundo Garantidor da Habitação Popular (FGHab), que terá por finalidades:
-I - garantir o pagamento aos agentes financeiros de prestação mensal de financiamento habitacional, no âmbito do Sistema Financeiro da Habitação, devida por mutuário final, em caso de desemprego e redução temporária da capacidade de pagamento, para famílias com renda mensal de até R$ 4.650,00 (quatro mil seiscentos e cinquenta reais);
-II - assumir o saldo devedor do financiamento imobiliário, em caso de morte ou invalidez permanente, e as despesas de recuperação relativas a danos físicos ao imóvel para mutuários com renda familiar mensal de até R$ 4.650,00 (quatro mil seiscentos e cinquenta reais); e
-III - garantir, direta ou indiretamente, parte do risco em operações de financiamento habitacional, no âmbito do Sistema Financeiro da Habitação, contratadas a partir de 1º de junho de 2022, para famílias com a renda mensal de que trata o inciso III do § 6º do art. 3º desta Lei, no âmbito dos programas habitacionais do governo federal estabelecidos em lei.
-IV - garantir, direta ou indiretamente, parte do risco em operações de crédito para melhorias habitacionais em áreas urbanas, com mutuários com a renda familiar mensal de que trata o art. 5º, caput, inciso I, e § 1º-A, da Lei nº 14.620, de 13 de julho de 2023.
-§ 1º As condições e os limites das coberturas de que tratam os incisos I e II deste artigo serão definidos no estatuto do FGHab, que poderá estabelecer os casos em que será oferecida somente a cobertura de que trata o inciso II.
-§ 1º-A. As contratações realizadas a partir de 1º de junho de 2022 somente poderão contar com as coberturas de que tratam os incisos I, III e IV do caput deste artigo para as quais as condições e os limites tenham sido estabelecidos no estatuto do FGHab.
+Art. 20. Fica a União autorizada a participar, observada a disponibilidade orçamentária e financeira, do Fundo Garantidor da Habitação Popular - FGHab, que terá por finalidade garantir, cobrir ou assumir riscos e obrigações em operações de crédito habitacional, na forma estabelecida em ato conjunto do Ministério da Fazenda e do Ministério das Cidades, no âmbito dos programas habitacionais do Governo federal.
 § 1º-B. (Revogado).
 § 2º O FGHab terá natureza privada e patrimônio próprio dividido em cotas, separado do patrimônio dos cotistas.
 § 3º Constituem patrimônio do FGHab:
@@ -19,4 +13,9 @@ I - em moeda corrente;
 II - em títulos públicos;
 III - por meio de suas participações minoritárias; ou
 IV - por meio de ações de sociedades de economia mista federais excedentes ao necessário para manutenção de seu controle acionário.
+§ 5º-A Excepcionalmente ao disposto no § 5º, fica autorizada a integralização adicional de cotas no fundo de que trata este artigo, em moeda corrente, no montante de R$ 750.000.000,00 (setecentos e cinquenta milhões de reais).
 § 6º O FGHab terá direitos e obrigações próprias, pelas quais responderá com seu patrimônio, não respondendo os cotistas por qualquer obrigação do Fundo, salvo pela integralização das cotas que subscreverem.
+§ 7º Fica autorizada a constituição de patrimônio de afetação para a cobertura de situações específicas, previstas no ato conjunto a que se refere o caput, que não se comunicará com o restante do patrimônio do FGHab, ficando vinculado exclusivamente à garantia da respectiva cobertura, não podendo ser objeto de penhora, arresto, sequestro, busca e apreensão ou qualquer ato de constrição judicial decorrente de outras obrigações do Fundo.
+§ 8º A constituição do patrimônio de afetação será feita por registro em cartório de registro de títulos e documentos.
+§ 9º As condições e os limites das coberturas de que trata o caput serão estabelecidos em ato conjunto do Ministério da Fazenda e do Ministério das Cidades e detalhados no estatuto do FGHab.
+§ 10. As coberturas relativas à morte, à invalidez permanente e aos danos físicos ao imóvel concedidas em operações contratadas até 31 de maio de 2022 ficam mantidas, observado o regramento vigente à época da contratação.
