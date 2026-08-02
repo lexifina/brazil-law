@@ -1,0 +1,33 @@
+DECISÃO
+
+Trata-se de Habeas Corpus impetrado contra acórdão da Sexta Turma do Superior Tribunal de Justiça, proferido no julgamento dos Embargos de Declaração no RHC 238.811/MG, submetido à relatoria do Ministro SEBASTIÃO REIS JÚNIOR.
+Pelo que se depreende dos autos, o paciente teve a prisão preventiva decretada e foi denunciado pela prática dos crimes de homicídio qualificado (art. 121, § 2º, I, III e IV, do Código Penal), de ocultação de cadáver (art. 211 do CP) e de posse de arma de fogo (art. 12 da Lei 10.826/2003). Conforme relatado:
+
+[...] em 16 de janeiro de 2026, policiais militares receberam informações de que cinco indivíduos teriam cercado Juliana e seus dois filhos (Felipe e Emilly) na residência de Fábio. Segundo consta, o grupo estava armado e ameaçou Felipe, enquanto mantinha contato telefônico com terceiro, aguardando ordens quanto à conduta a ser adotada. Em determinado momento, o grupo levou Felipe às margens de um rio, sem seus familiares, onde ele sofreu tortura psicológica e agressões e, posteriormente, foi alvo de três disparos de arma de fogo contra a sua região torácica, pelo que veio a óbito. Em seguida, o grupo arremessou o cadáver no rio. Após rastreamento, dois dos envolvidos (Samuel e Wesley) foram encontrados nas imediações da residência do corréu Cláudio. Na residência de Cláudio, ora paciente, foi apreendida uma espingarda polveira de fabricação artesanal. Após as investigações, a autoridade policial requereu a prisão preventiva do paciente (relatório final), o Ministério Público se manifestou favorável à medida (denúncia) e a sua segregação cautelar foi decretada em 07/04/2026 pelo douto juízo a quo [...].
+Resulta demonstrada a necessidade da prisão preventiva para a garantia da ordem pública, sobretudo diante da gravidade concreta do delito, consubstanciada no modus operandi em tese empregado. Isso porque, segundo consta, o crime decorreu de disputas ligadas a organizações criminosas e o paciente supostamente atuava no “tribunal do crime”, sob ordens de superiores na hierarquia da organização, além de ter sido encontrada uma espingarda em sua residência. Ademais, o paciente se encontra foragido, com mandado de prisão preventiva pendente de cumprimento, circunstância indica a necessidade da custódia para se assegurar a aplicação da lei penal, nos termos da Súmula nº 30 do TJMG. Não bastasse, Cláudio possui outras diversas passagens policiais, o que também coaduna de modo a demonstrar a sua periculosidade e o risco de reiteração delitiva [...].
+
+Inconformada, a defesa impetrou Habeas Corpus no Tribunal de Justiça do Estado de Minas Gerais, que denegou a ordem. Na sequência, interpôs Recurso Ordinário direcionado ao Superior Tribunal de Justiça, ao qual o Ministro relator negou provimento. Opostos Embargos de Declaração, rejeitados pela Sexta Turma, nos termos da seguinte ementa:
+
+EMBARGOS DE DECLARAÇÃO EM RECURSO EM  HABEAS  CORPUS IMPROVIDO. HOMICÍDIO QUALIFICADO, OCULTAÇÃO DE CADÁVER E POSSE IRREGULAR DE ARMA DE FOGO. ALEGAÇÃO DE OMISSÃO E CONTRADIÇÃO. AUSÊNCIA DE VÍCIO INTRÍNSECO DO JULGADO EMBARGADO. PRETENSÃO DE REDISCUSSÃO DA CAUSA. INADMISSIBILIDADE.
+Embargos de declaração rejeitados.
+
+Nesta ação, o impetrante alega, em síntese: “o Superior Tribunal de Justiça esquivou-se do exame de mérito da flagrante nulidade do reconhecimento fotográfico (em manifesta violação ao art. 226 do CPP), alegando que o TJMG não enfrentou o tema. Ocorre que o Acórdão de origem e a decisão do STJ que o convalidou ostentam caráter manifestamente genérico”.
+Em razão disso, requer-se a concessão da ordem “para anular o Acórdão embargado no âmbito do Superior Tribunal de Justiça, determinando a devolução dos autos àquela Corte Superior para que julgue o mérito da impetração acerca da nulidade do artigo 226 do CPP de forma individualizada e fundamentada”.
+É o relatório. Decido.
+
+No caso em questão, o Superior Tribunal de Justiça não conheceu do pedido de "nulidade do reconhecimento fotográfico" formulado pela defesa, sob o argumento de que:
+
+[...] pelos elementos que constam destes autos, há indícios suficientes de autoria e de materialidade delitiva, aptos a dar base à prisão em questão.
+Ademais, verifiquei que não houve manifestação da Corte estadual, no acórdão impugnado, em relação à nulidade do reconhecimento fotográfico. Isso inviabiliza a análise da questão por este Tribunal Superior, diante do nítido intento de supressão de instância.
+
+Não cabe falar em vício quanto ao exame do tema, já que o acórdão impugnado analisou adequadamente a matéria, em decisão devidamente fundamentada, mas concluiu em sentido diverso do pretendido pela defesa, o que não configura nulidade. Ressalte-se, por oportuno, que “O Órgão Julgador não está obrigado a rebater pormenorizadamente todos os argumentos apresentados pela parte, bastando que motive o julgado com as razões que entendeu suficientes à formação do seu convencimento“ (SS 4.836-AgR-ED, Rel. Min. RICARDO LEWANDOWSKI - Presidente, Tribunal Pleno, DJe de 4/11/2015). Nesse mesmo sentido: Rcl 22.759-AgR-ED, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 9/8/2016; AP 396-ED, Rel. Min. CÁRMEN LÚCIA, Tribunal Pleno, DJe de 18/3/2013; RE 518.531-ED, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 15/3/2011.
+Além de não haver ilegalidade no acórdão impugnado - que ressaltou o óbice da supressão de instância -, esta CORTE possui orientação consolidada no sentido de que "O objeto da tutela em habeas corpus é a liberdade de locomoção quando ameaçada por ilegalidade ou abuso de poder (CF, art. 5º, LXVIII), descabendo sua utilização para reexaminar pressupostos de admissibilidade de recursos de outros tribunais" (HC 149.831-AgR/PR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 15/3/2018).
+Dessa forma, não cabe a este SUPREMO TRIBUNAL, nesta via estreita, proceder ao cotejo do pedido dirigido àquela Corte Superior e, assim, determinar o rejulgamento da causa (mutatis mutandis: HC 85.195, Relator Min. AYRES BRITTO, Primeira Turma, DJ 7/10/2005; HC 146.286 AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 27/10/2017; HC 94.236, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 19/9/2013; HC 113.407, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 15/2/2013; e HC 112.323, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 25/9/2012).
+Em conclusão, é indisfarçável o propósito de rediscutir, no âmbito do STJ, as decisões tomadas no processo, o que não comporta a via eleita, mormente sob o ponto de vista do impetrante.
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do STF, INDEFIRO a ordem de HABEAS CORPUS.
+Publique-se.
+Brasília, 2 de agosto de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
