@@ -1,0 +1,33 @@
+Decisão
+
+Trata-se de Recurso Ordinário interposto contra acórdão da Quinta Turma do Superior Tribunal de Justiça, proferido no julgamento do Agravo Regimental no HC 1.078.295/RS, submetido à relatoria do Ministro JOEL ILAN PACIORNIK.
+Consta dos autos, em síntese, que o paciente foi denunciado pela prática do crime de porte ilegal de arma de fogo de uso restrito (art. 16 da Lei 10.826/2003). De acordo com a denúncia:
+
+No dia 19 de outubro de 2025, por volta das 20h45min, em via pública, na Rua R, nº 42, bairro Bom Jesus, nesta Capital, o denunciado portava e mantinha sob sua guarda, 01 (uma) pistola BERSA, modelo Thunder 45 Ultra Compact Pro, calibre .45mm, de uso restrito, numeração 964844, fabricação argentina, municiada com 07 (sete) munições intactas calibre .45mm, também de uso restrito, sem autorização e em desacordo com determinação legal ou regulamentar, junto a quantia de R$ 562,50 (quinhentos e sessenta e dois reais e cinquenta centavos) e U$$ 1,00 (um dólar) em espécie.
+
+Inconformado com a decisão do Juízo de origem que concedeu liberdade provisória ao paciente, o Ministério interpôs recurso Recurso em Sentido Estrito direcionado ao Tribunal de Justiça do Estado do Rio Grande do Sul, que lhe deu provimento, para decretar a prisão preventiva do paciente.
+A defesa, então, impetrou Habeas Corpus no Superior Tribunal de Justiça, não conhecido pelo Ministro relator. Interposto Agravo Regimental, a Quinta Turma decidiu nos termos da seguinte ementa:
+
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO. NULIDADE DA BUSCA PESSOAL. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO DELITIVA. MEDIDAS CAUTELARES ALTERNATIVAS INSUFICIENTES. AGRAVO DESPROVIDO.
+[...]
+
+Nesta ação, o impetrante alega, em síntese: (a) “a abordagem decorreu exclusivamente da condição de monitorado eletronicamente e que a imputação referente à arma de fogo foi indevidamente atribuída à sua pessoa após uma ação policial marcada por excessos e arbitrariedades [...],  razão pela qual a prova obtida deve ser declarada ilícita [ausência de fundada suspeita]”; e (b) “a fundamentação adotada para a prisão preventiva não resiste a um exame mais detido sob a ótica das garantias constitucionais da presunção de inocência e da excepcionalidade da prisão”. Ao final, requer “o reconhecimento da ilegalidade da prisão preventiva imposta ao Recorrente”.
+É o relatório. Decido.
+
+De acordo com o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada quando houver prova da existência do crime (materialidade) e indício suficiente de autoria. Além disso, é preciso demonstrar, concretamente, a existência de um dos fundamentos que a autorizam: para garantir a ordem pública; para garantir a ordem econômica; por conveniência da instrução criminal; ou, ainda, para assegurar a aplicação da lei penal.
+As razões apresentadas pelas instâncias antecedentes revelam que a decretação da prisão preventiva está lastreada em fundamentação jurídica idônea, chancelada pela jurisprudência do SUPREMO TRIBUNAL FEDERAL.
+Sobressaem, nos autos, as circunstâncias concretas do caso em tela, bem como a gravidade das práticas ilícitas em questão, do que decorre a necessidade da garantia da ordem pública, com fundamento na periculosidade social do agente, tendo em vista os seguintes fatores declinados no acórdão impugnado:
+
+O periculum libertatis reside no modus operandi, na gravidade em concreto da conduta e no risco de reiteração criminosa. Isto porque foi apontado que o paciente, quando da suposta prática do novo delito, ainda se encontrava ‘submetido à medida cautelar de monitoração eletrônica, mediante uso de tornozeleira, conforme determinado na decisão que lhe concedeu liberdade provisória em 27/06/2025, nos autos do Processo nº 5106519-75.2025.8.21.0001, em trâmite perante a 2ª Vara Criminal do Foro Central da Comarca de Porto Alegre’. Ademais, [...] o paciente ‘foi preso em flagrante portando arma de fogo de uso restrito em uma festa, isto é, local de grande circulação de pessoas. Além disso, no momento da ação policial, populares se aglomeraram no local, tentando impedir a prisão com o uso de violência, que resultou em um policial ferido’. A periculosidade social do paciente e o risco de reiteração delitiva foi destacado, pois ‘muito embora seja primário, a certidão de antecedentes criminais acostada aos autos (2.1) informa que o recorrido está sendo processado pela suposta prática dos crimes de porte/posse de arma de fogo de uso equiparado ao restrito e tráfico de drogas (processo nº 5106519-75.2025.8.21.0001, com denúncia recebida em 28/04/2025). Em tal processo, foi beneficiado com a liberdade provisória em 27/06/2025 (65.1), voltando a delinquir menos de 04 (quatro) meses após, em 19/10/2025’.
+
+Na linha de precedentes desta CORTE, essas circunstâncias evidenciam a periculosidade social do agente e a imprescindibilidade da sua segregação cautelar: HC 138.574-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, Dje de 16/3/2017; HC 154071 AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 17/5/2018; HC 135.393, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, Dje de 16/12/2016; HC 127.109-AgR, Rel. Min. LUIZ FUX, Primeira Turma, Dje de 16/9/2016; HC 124.035, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 11/3/2015; HC 123.643 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 2/10/2014; HC 123.024, Rel. Min. MARCO AURÉLIO, Redator para o Acórdão: Min. EDSON FACHIN, Primeira Turma, DJe de 6/5/2016.
+Pelos mesmos motivos, não merece reparos o entendimento firmado quanto à inaplicabilidade das medidas cautelares diversas da prisão, cuja incidência não se mostraria adequada e suficiente para acautelar a ordem pública, ante as particularidades do caso.
+Por fim, as alegações relacionadas à busca pessoal não foram contempladas no acórdão ora impugnado, de modo que é inviável a esta SUPREMA CORTE conhecer delas originariamente, sob pena de indevida supressão de instância e violação das regras constitucionais de repartição de competências (HC 132.864-AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe 18/3/2016; HC 136.452-ED, Rel. Min. ROSA WEBER, Primeira Turma, DJe 10/2/2017; HC 135.021-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 6/2/2017; HC 135.949, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe 24/10/2016).
+Em conclusão, não há constrangimento ilegal a ser sanado.
+Diante do exposto, com base no art. 21, §1º, do Regimento Interno do STF, NEGO PROVIMENTO ao Recurso Ordinário.
+Publique-se.
+Brasília, 2 de agosto de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+		      Documento assinado digitalmente
