@@ -1,0 +1,48 @@
+DECISÃO:
+Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+O recurso foi interposto com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+O acórdão recorrido  ficou assim ementado:
+
+DIREITO ADMINISTRATIVO. APELAÇÃO. SERVIDOR PÚBLICO MUNICIPAL. MAGISTÉRIO. PROGRESSÃO VERTICAL. REDUÇÃO INDEVIDA DE REMUNERAÇÃO. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Apelação e remessa necessária interpostas contra sentença que julgou procedente pedido formulado em ação de obrigação de fazer cumulada com cobrança de diferenças salariais, reconhecendo o direito à readequação remuneratória com base na Lei Municipal nº 219/2008, e determinando o pagamento das diferenças decorrentes da aplicação incorreta dos percentuais de progressão vertical no plano de carreira do magistério do Município de Formosa/GO.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) saber se a ausência de requerimento administrativo inviabiliza o direito à readequação remuneratória; e (ii) saber se a aplicação dos percentuais de progressão vertical previstos na legislação municipal foi corretamente observada pelo ente público.
+III. RAZÕES DE DECIDIR
+3. A preliminar de ausência de dialeticidade foi rejeitada, pois o recurso expós os fundamentos necessários à sua admissibilidade, nos termos do art. 1.010 do CPC.
+4. As alegações recursais referentes à inconstitucionalidade de normas municipais, violação à Lei de Responsabilidade Fiscal e à separacáo de poderes foram apresentadas apenas em grau recursal, configurando inovação vedada, nos termos do art. 1.014 do CPC.
+5. Constatou-se que os percentuais de progressão vertical previstos na Lei Municipal nº 219/2008, especialmente o acréscimo de 30% entre os níveis 1A e 1, não vêm sendo respeitados, gerando defasagem remuneratória aos professores.
+6. A progressão funcional possui caráter automático, sendo desnecessário requerimento administrativo prévio quando preenchidos os requisitos legais.
+7. A jurisprudência pátria, inclusive do Superior Tribunal de Justiça, reconhece a obrigatoriedade da progressão funcional mesmo diante de eventual extrapolação dos limites de gasto com pessoal previstos na Lei de Responsabilidade Fiscal (Tema 1.075, STJ).
+8. Verificada a inadequação no pagamento do salário-base e seus reflexos, é devido o pagamento das diferenças salariais.
+IV. DISPOSITIVO E TESE
+9. Recurso de apelação parcialmente conhecido e, nesta extensão, desprovido. Remessa necessária conhecida e desprovida.
+Tese de julgamento:
+“1. A ausência de requerimento administrativo não impede o reconhecimento do direito à progressão funcional de servidor público, quando preenchidos os requisitos legais previstos em norma municipal.”
+"2. A não observância dos percentuais de reajuste entre os níveis da progressão vertical previstos em lei municipal configura ilegalidade e autoriza a condenação ao pagamento das diferenças salariais devidas.”
+"3. A inovação recursal, quando configura alteração substancial da controvérsia não enfrentada em primeira instância, é vedada pelo ordenamento processual.”
+"4. A progressão funcional decorrente de lei não depende de discricionariedade administrativa, sendo ato vinculado.”
+Dispositivos relevantes citados: CF/1988, arts. 37, caput, e 169; LC nº 101/2000, art. 22, p.u., I; CPC, arts. 1.010 e 1.014.
+Jurisprudência relevante citada: STJ, Tema 1.075, Rel. Min. Herman Benjamin, Primeira Seção, j. 24.06.2020, DJe de 01.07.2020; TJ GO, Apelação / Remessa Necessária 5402224- 25.2022.8.09.0044, Rel. Des. Reinaldo Alves Ferreira, 2ª Câmara Cível, j. 11.12.2023, DJ e 18.12.2023.
+
+No recurso extraordinário sustenta-se violação do(s) art.(s) 113, do ADCT; 2º; 18; 30, inciso I; 37, caput e  inciso X; e 169,  §§ 1º e 3º, da Constituição Federal.
+Decido.
+Analisados os autos, verifica-se, de plano, incabível a interposição do apelo extremo pelo permissivo da alínea “c” do art. 102, III, da Lei Fundamental, deixando o Tribunal de origem de julgar válida lei ou ato de governo local contestado em face da Constituição Federal. Colho como precedentes o ARE 1.321.299-AgR, Rel. Min. Luiz Fux (Presidente), Tribunal Pleno, DJe 13.8.2021; e o ARE 1.270.810-AgR, Rel. Min. Dias Toffoli (Presidente), Tribunal Pleno, DJe 27.10.2020, verbis:
+
+“AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. ISS PRIVILEGIADO. SOCIEDADE DE ÍNDOLE EMPRESARIAL. RECURSO EXTRAORDINÁRIO FUNDADO NAS ALÍNEAS C E D DO INCISO III DO ART. 102 DA CONSTITUIÇÃO FEDERAL. ACÓRDÃO RECORRIDO QUE JULGA VÁLIDA LEI OU ATO DE GOVERNO LOCAL CONTESTADOS EM FACE DA CARTA MAGNA. NÃO OCORRÊNCIA. PRECEDENTES. ACÓRDÃO RECORRIDO QUE JULGA VÁLIDA LEI LOCAL CONSTESTADA EM FACE DE LEI FEDERAL. NÃO OCORRÊNCIA. PRECEDENTES. PREQUESTIONAMENTO. AUSÊNCIA. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. 1. O acórdão recorrido não julgou válida lei ou ato de governo local contestados em face da Constituição, razão pela qual fica inviabilizado o processamento do recurso extremo pela alínea c do inciso III do art. 102 da Constituição Federal. 2. No acórdão recorrido, não se julgou válida lei local contestada em face de lei federal, razão pela qual fica inviabilizado o processamento do recurso extremo pela alínea d do inciso III do art. 102 da Constituição Federal 3. É inadmissível o recurso extraordinário se a matéria constitucional que nele se alega violada não está devidamente prequestionada. Incidência das Súmulas 282/STF. 4. Não se presta o recurso extraordinário para a análise de matéria infraconstitucional, tampouco para o reexame dos fatos e das provas constantes dos autos (Súmula 279/STF). 5. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 6. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita”. (ARE 1.321.299-AgR, Rel. Min. Luiz Fux (Presidente), Tribunal Pleno, DJe 13.8.2021)
+
+“Agravo regimental no recurso extraordinário com agravo. Direito Processual Civil. Recurso extraordinário fundado nas alíneas c e d do inciso III do art. 102 da Constituição Federal. Acórdão recorrido que julga válida lei ou ato de governo local contestados em face da Carta Magna. Não ocorrência. Precedentes. Acórdão recorrido que julga válida lei local contestada em face de lei federal. Não ocorrência. Precedentes. Direito Administrativo. Poço artesiano. Outorga pelo poder público. Legislação local. Ofensa reflexa. Precedentes. 1. O acórdão recorrido não julgou válida lei ou ato de governo local contestados em face da Constituição, razão pela qual fica inviabilizado o processamento do recurso extremo pela alínea c do inciso III do art. 102 da Constituição Federal. 2. No acórdão recorrido, não se julgou válida lei local contestada em face de lei federal, razão pela qual fica inviabilizado o processamento do recurso extremo pela alínea d do inciso III do art. 102 da Constituição Federal. 3. Não se presta o recurso extraordinário para a análise de matéria infraconstitucional. Incidência da Súmula nºs 280/STF. 4. Agravo regimental não provido. 5. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita”. (ARE 1.270.810-AgR, Rel. Min. Dias Toffoli (Presidente), Tribunal Pleno, DJe 27.10.2020)
+Ademais, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, segundo as quais: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário,DJe de 26/03/2018)
+
+“RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 09/10/2020)
+Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 3 de agosto de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
