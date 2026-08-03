@@ -1,0 +1,130 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial na origem com fundamento nos óbices das Súmulas n. 5, 7 e 83 do Superior Tribunal de Justiça.
+Segundo a parte agravante, a insurgência preenche os requisitos necessários ao conhecimento e provimento do recurso especial interposto em face do acórdão assim ementado:
+DIREITO CIVIL. APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. CONTRATO DE LOCAÇÃO DE MÁQUINA. DESPESAS COM MANUTENÇÃO. ENCARGOS MORATÓRIOS. DANO MORAL. APELO CONHECIDO E DESPROVIDO.
+I. CASO EM EXAME
+1. Apelação cível interposta contra sentença, que em ação monitória, julgou parcialmente procedentes os pedidos iniciais, condenando o Apelante ao pagamento, acrescido de encargos moratórios, e reconhecendo parcialmente as despesas com manutenção.
+II. QUESTÕES EM DISCUSSÃO
+2. Há três questões em discussão: (i) saber se devidas as despesas com manutenção da máquina locada no valor integral alegado; (ii) saber se os encargos moratórios devem incidir a partir da data da citação válida; e (iii) saber se é cabível indenização por danos morais decorrentes de supostas ofensas proferidas pelo Apelado.
+III. RAZÕES DE DECIDIR
+3. Quanto às despesas com manutenção, o recurso não merece acolhida. A alegação de que a máquina ficou inoperante por fato imprevisível e alheio à vontade da Apelante, o que caracterizaria caso fortuito ou força maior nos termos do art. 393 do Código Civil, não foi suficientemente comprovada. Ausente prova pericial ou documental robusta que comprove a interrupção por motivo técnico insuperável e, não havendo cláusula contratual excludente de responsabilidade nessas hipóteses, prevalece o pactuado entre as partes, nos moldes do princípio do pacta sunt servanda.
+4. Quanto à incidência dos encargos moratórios, a jurisprudência do STJ entende que, tratando-se de dívida líquida e com vencimento certo, os juros de mora e a correção monetária incidem a partir do vencimento da obrigação.
+5. Não demonstrada a ocorrência de dano moral, pois os relatos de abalo não foram corroborados por depoimentos testemunhais ou outros elementos.
+IV. DISPOSITIVO E TESE
+6. Apelo conhecido e desprovido.
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil (CPC), a parte agravada afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado.
+É o relatório.
+DECIDO.
+O agravo é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil, encontra-se formalmente em ordem e impugnou específica e suficientemente os óbices invocados pela decisão de inadmissibilidade na origem, razão pela qual passo ao exame do recurso especial, que foi interposto com fundamento no art. 105, inciso III, da Constituição Federal.
+A parte recorrente alega violação aos arts. 393, 405 e 406 do Código Civil. Sustenta, em síntese, que a inoperância da máquina locada decorreu de caso fortuito ou força maior, circunstância que afastaria ou reduziria sua responsabilidade pelo pagamento dos aluguéis e encargos contratuais. Defende, ainda, que os juros de mora e a correção monetária deveriam incidir apenas a partir da citação na ação monitória, e não do vencimento das obrigações.
+Em relação à alegada violação ao art. 393 do Código Civil, o Tribunal de origem concluiu que não houve comprovação suficiente da ocorrência de fato imprevisível e irresistível que tivesse tornado a máquina inoperante e impossibilitado o cumprimento da obrigação.
+O acórdão recorrido assentou expressamente que não foi produzida prova pericial ou documental robusta capaz de demonstrar a interrupção do funcionamento do equipamento por motivo técnico insuperável. Também registrou que o contrato não continha cláusula que excluísse a responsabilidade da locatária ou suspendesse as obrigações de pagamento durante eventual período de inoperância.
+A alteração dessas conclusões pressuporia nova investigação sobre a efetiva paralisação da máquina, a causa do defeito, a imprevisibilidade e a irresistibilidade do evento, a extensão de seus efeitos sobre o cumprimento do contrato e a suficiência dos documentos apresentados. Demandaria, portanto, o revolvimento do conjunto fático-probatório dos autos, providência incompatível com a via do recurso especial, nos termos da Súmula n. 7/STJ.
+A jurisprudência desta Corte reconhece que a averiguação da ocorrência de caso fortuito ou força maior, quando afastada pelas instâncias ordinárias à luz das provas produzidas, não pode ser revista em recurso especial sem o reexame do acervo probatório.
+Nesse sentido:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AUSÊNCIA DE INDICAÇÃO PRECISA DE DISPOSITIVOS LEGAIS E DE COTEJO ANALÍTICO. APLICAÇÃO DA SÚMULA N. 284/STF. AGRAVO INTERNO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática do Ministro Presidente do Superior Tribunal de Justiça, que conheceu do agravo para não conhecer do recurso especial, com fundamento na Súmula n. 7 do STJ, diante da necessidade de reexame do conjunto fático-probatório, e na Súmula n. 284 do STF, pela deficiência de fundamentação e ausência de indicação precisa dos dispositivos legais para fins de dissídio jurisprudencial.
+2. Nas razões do agravo interno, a parte recorrente sustenta que o acórdão de origem contrariou a legislação federal e que não seria necessário o reexame de provas, mas apenas a valoração jurídica de fatos incontroversos, sendo incabível a aplicação da Súmula n. 7 do STJ. Afirma ainda ter realizado o cotejo analítico adequado para demonstrar o dissídio jurisprudencial, reputando indevida a aplicação da Súmula n. 284 do STF.
+3. A parte agravada, em contrarrazões, alega que o agravo interno não impugnou especificamente os fundamentos da decisão monocrática, atraindo a incidência da Súmula n. 182 do STJ, e reitera a correção da aplicação das Súmulas n. 7 do STJ e n. 284 do STF.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o agravo interno é apto a afastar os óbices da Súmula n. 7 do STJ, que veda o reexame de fatos e provas, e da Súmula n. 284 do STF, que trata da deficiência de fundamentação e ausência de indicação precisa dos dispositivos legais para fins de dissídio jurisprudencial.
+III. Razões de decidir
+5. A revisão da conclusão firmada pelo Tribunal de origem acerca da existência de caso fortuito ou força maior demanda reexame do conjunto fático-probatório dos autos, providência que encontra óbice na Súmula n. 7 do STJ, que veda o simples reexame de provas na via especial.
+6. A parte agravante não demonstrou objetivamente que a análise fática estabilizada melhor se enquadra em outra forma jurídica, pois o que se busca é a rediscussão da origem das infiltrações e da previsibilidade das chuvas, temas eminentemente fáticos e já definidos na instância ordinária.
+7. A parte agravante não cumpriu os requisitos dos artigos 1.029, § 1º, do CPC, e 255 do RISTJ, não indicando de forma precisa os dispositivos legais interpretados de forma divergente, nem demonstrando a similitude fático-jurídica entre o acórdão recorrido e os paradigmas, atraindo a incidência da Súmula n. 284 do STF.
+8. A ausência de fundamentação impede o conhecimento do recurso especial, conforme entendimento da Súmula n. 284 do STF. As razões recursais limitaram-se à repetição de alegações anteriores, sem demonstrar, de modo objetivo e preciso, de que forma o acórdão recorrido teria violado lei federal, o que inviabiliza o conhecimento do recurso especial.
+IV. Dispositivo
+9. Agravo interno desprovido.
+(AgInt no AREsp n. 2.999.100/PB, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 16/3/2026, DJEN de 19/3/2026.)
+Ademais, a pretensão de reduzir o valor da condenação em razão de supostos pagamentos parciais ou de despesas de manutenção esbarra no mesmo impedimento. O Tribunal estadual examinou os documentos e reconheceu apenas as despesas que reputou comprovadas. A modificação do montante exigiria nova análise dos comprovantes, recibos, cálculos e demais elementos constantes dos autos.
+Não se está, na hipótese, diante de mera revaloração jurídica de fatos incontroversos. A própria existência do evento exoneratório, seus elementos constitutivos e sua repercussão sobre o inadimplemento foram expressamente considerados não demonstrados pelo Tribunal de origem.
+Além disso, para reconhecer que a alegada inoperância do equipamento acarretaria a suspensão ou redução dos aluguéis, seria necessário interpretar o conteúdo do contrato, especialmente as cláusulas relativas à distribuição dos riscos, à responsabilidade pela manutenção e às consequências financeiras da paralisação da máquina.
+A simples interpretação de cláusula contratual não enseja recurso especial, a teor da Súmula n. 5/STJ. A jurisprudência do Superior Tribunal de Justiça igualmente considera inviável a insurgência quando a reforma do acórdão pressupõe, simultaneamente, a interpretação do contrato e o reexame dos elementos probatórios, incidindo cumulativamente as Súmulas n. 5 e 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. RAZÕES GENÉRICAS. PRINCÍPIO DA DIALETICIDADE. MAJORAÇÃO DE HONORÁRIOS. IMPOSSIBILIDADE. AGRAVO INTERNO.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 932, III, do Código de Processo Civil).
+2. No tocante às Súmulas nºs 5 e 7/STJ, não basta a parte sustentar genericamente a não aplicação dos óbices, sem explicitar, à luz do contexto fático delineado no acórdão e da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame fático-probatório ou da análise das cláusulas contratuais.
+ ..
+(AgInt no AREsp n. 2.753.530/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/12/2024, DJEN de 20/12/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CONTRATO DE COMPRA E VENDA. CONTRATO ALEATÓRIO. OSCILAÇÃO DOS CUSTOS QUE INTEGRA A RELAÇÃO JURÍDICA E PAGAMENTO APÓS A ENTREGA EFETIVA DO PRODUTO. NÃO CUMPRIMENTO. EXCEÇÃO. REVISÃO DO JULGADO. IMPOSSIBILIDADE. ANÁLISE DE CLÁUSULAS CONTRATUAIS. APLICAÇÃO DA SÚMULA N.º 5 DO STJ. REJULGAMENTO DA CAUSA. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. No caso, afastar a afirmação contida no acórdão atacado, quanto ao que ficou estipulado expressamente no contrato acerca do pagamento posterior e de que as oscilações de preço e as alterações dos preços de insumo não seriam impeditivo ao cumprimento do avençado, demanda a reavaliação do acervo fático-probatório dos autos e a interpretação das cláusulas contratuais. A pretensão de rever esse entendimento encontra óbice nas Súmulas n.os 5 e 7 do STJ.
+ ..
+(AgInt no AREsp n. 2.555.823/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Assim, o recurso especial não merece conhecimento quanto à alegada violação ao art. 393 do Código Civil.
+No que se refere à alegada violação aos arts. 405 e 406 do Código Civil, a parte recorrente sustenta que os encargos moratórios deveriam incidir somente a partir da citação, sob o argumento de que a cobrança foi promovida por meio de ação monitória e de que a dívida teria sido objeto de controvérsia.
+O Tribunal de origem, entretanto, estabeleceu como premissa que se tratava de obrigação positiva, líquida e com vencimento certo, decorrente de contrato que previa o pagamento em parcelas com datas previamente definidas. A mora, nessas circunstâncias, configura-se pelo simples inadimplemento no vencimento, independentemente de interpelação judicial, conforme a disciplina da mora ex re.
+O fato de o credor utilizar a ação monitória não altera o termo inicial estabelecido pela relação de direito material. Quando a obrigação é líquida e possui vencimento certo, os juros de mora fluem a partir do inadimplemento, e não da citação.
+O art. 405 do Código Civil não institui regra absoluta aplicável indistintamente a todas as obrigações. Nas obrigações positivas, líquidas e com termo certo, prevalece a regra específica segundo a qual o devedor se constitui em mora com o inadimplemento no vencimento. O art. 406, por sua vez, disciplina os juros legais, não afastando o momento de constituição da mora definido pela natureza da obrigação.
+Nesse sentido:
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO AOS ARTS. 113, 187 E 422 DO CÓDIGO CIVIL. NÃO OCORRÊNCIA. ART. 1.022 DO CPC/2015. PREQUESTIONAMENTO. INEXISTENTE. SÚMULA 282/STF. LAUDO PERICIAL. TERMO INICIAL DOS JUROS DE MORA. OBRIGAÇÃO POSITIVA E LÍQUIDA. REEXAME DE PROVAS. SÚMULA 7/STJ. ENTENDIMENTO CONSOLIDADO DO STJ. SÚMULA 83/STJ. AGRAVO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo em Recurso Especial interposto contra decisão que inadmitiu recurso especial, sob alegação de negativa de prestação jurisdicional, prequestionamento ficto e inaplicabilidade da Súmula 7/STJ à tese sobre o termo inicial dos juros de mora em obrigação ilíquida.
+II. Questão em discussão
+2. Suposta violação aos arts. 113, 187 e 422 do Código Civil e 1.022 do Código de Processo Civil.
+III. Razões de decidir
+3. Conforme entendimento do STJ, "Afasta-se a ofensa aos arts. 489 e 1.022 do CPC/2015, pois não se constatam omissão, obscuridade ou contradição nos acórdãos recorridos capazes de torná-los nulos. O colegiado originário apreciou a demanda de forma clara e precisa, deixando bem delineados os fundamentos dos julgados. " (AgInt no AREsp n. 2.441.987/DF, relator Ministro Humberto Martins, Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025.)
+4. No caso concreto, o Tribunal de origem examinou os fundamentos fáticos e jurídicos da ação monitória, valorou o laudo pericial, redefiniu os juros moratórios e fixou o termo inicial de juros e correção, tendo os embargos de declaração sido rejeitados por ausência dos vícios do art. 1.022 do Código de Processo Civil.
+5. O acórdão dos embargos de declaração afirmou a inexistência de vícios que caracterizam os pressupostos legais de embargabilidade, consignando que não há obrigação de o julgador "descer a detalhes mínimos" e que a fundamentação pode ser sucinta, desde que suficiente.
+6. A ausência de debate sobre os dispositivos legais indicados como violados impede o conhecimento do recurso especial, conforme a Súmula 282 do STF (AgInt no AREsp n. 2.582.153/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/8/2024, DJe de 29/8/2024.)
+7. O prequestionamento é requisito indispensável para a análise de recurso especial, não sendo suficiente a mera oposição de embargos de declaração. Aplicação do enunciado de súmula 282 do STF.
+8. Não houve enfrentamento específico dos arts. 113, 187 e 422 do Código Civil - interpretação dos negócios jurídicos, abuso de direito e boa-fé objetiva -, tal como alegado pela recorrente, o que justifica a aplicação dos referidos enunciados de súmula.
+9. No contexto, a conclusão do Tribunal de origem decorreu da valoração do conjunto probatório, especialmente do laudo pericial contábil conclusivo e das circunstâncias contratuais (vigência, reajustes, faturamento e pagamentos), que fundamentaram a qualificação de obrigação positiva e líquida com vencimento certo.
+10. A pretensão recursal de rediscutir se a obrigação seria ilíquida, incerta ou inexigível - para afastar o caput do art. 397 e aplicar seu parágrafo único - implica revolvimento do acervo fático-probatório, vedado na via especial.
+11. Incidência de entendimento consolidado do STJ de fixar o termo inicial dos juros moratórios na data do vencimento das obrigações contratadas como positivas e líquidas. Do mesmo modo, em ação monitória, a data do vencimento da dívida líquida e com termo certo permanece como termo inicial dos juros.
+12. Incidência dos enunciados de súmula 7 e 83 do STJ.
+IV. Dispositivo
+13. Agravo não conhecido.
+(AREsp n. 2.979.579/BA, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 10/11/2025, DJEN de 13/11/2025.)
+A circunstância de o devedor contestar o débito não lhe retira, por si só, a liquidez ou a exigibilidade. Para reconhecer, no caso concreto, que a obrigação era ilíquida ou que não possuía vencimento determinado, seria necessário afastar as premissas expressamente fixadas no acórdão recorrido, providência novamente obstada pela Súmula n. 7/STJ.
+Desse modo, o acórdão recorrido encontra-se alinhado à jurisprudência do Superior Tribunal de Justiça, atraindo a incidência da Súmula n. 83/STJ.
+Incidentes os óbices apontados acima quanto à pretensão recursal aduzida sob o prisma da alínea "a" do permissivo constitucional, resta prejudicada a análise da mesma pretensão pela alínea "c".
+Nesse sentido:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. REVISÃO DE BENEFÍCIO. TETOS DAS EMENDAS CONSTITUCIONAIS 20/98 E 41/03. FORMA DE CÁLCULO. COEFICIENTE DE PROPORCIONALIDADE. CÁLCULO DO BENEFÍCIO. MOMENTO DA APLICAÇÃO. QUESTÃO DIRIMIDA SOB ENFOQUE EMINENTEMENTE CONSTITUCIONAL. USURPAÇÃO DA COMPETÊNCIA DO STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem fundamentou a decisão com base no acórdão proferido pelo Supremo Tribunal Federal, em repercussão geral, no RE 564.354/SE, razão pela qual descabe ao STJ se manifestar sobre a controvérsia recursal, sob pena de invadir a competência do STF.
+2. Assim, considerando que a tese recursal diz respeito à matéria analisada na origem à luz de fundamento constitucional, o con hecimento da matéria envolve, obrigatoriamente, o enfrentamento de matéria constitucional, inviável em recurso especial, sob pena de usurpação da competência do STF prevista no art. 102 da CRFB/88.
+3. Resta prejudicada a análise da alegada existência de divergência jurisprudencial, pela alínea "c" do permissivo constitucional, considerando o não conhecimento do recurso especial pela alínea "a".
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.079.972/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. TEMA N. 988 DO STJ. TAXATIVIDADE MITIGADA DO ART. 1.015 DO CPC. URGÊNCIA E REEXAME DE PROVAS. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática da Presidência que não conheceu do recurso especial por aplicação da Súmula n. 284 do STF.
+2. A controvérsia envolve embargos à execução e discute a possibilidade de agravo de instrumento contra indeferimento de complementação de prova pericial, nova prova pericial e prova oral, com valor da causa de R$ 2.590.427,02.
+3. A Corte de origem deu provimento ao agravo de instrumento para permitir a instrução probatória e rejeitou os embargos de declaração.
+II. QUESTÃO EM DISCUSSÃO
+4. Há duas questões em discussão: (i) saber se o recurso especial indicou de forma clara, expressa e precisa os dispositivos legais violados e apresentou cotejo analítico suficiente para afastar a Súmula n. 284 do STF; e (ii) saber se a controvérsia é exclusivamente de direito, sem reexame de provas, envolvendo a correta aplicação do Tema n. 988 do STJ acerca da taxatividade mitigada do art. 1.015 do CPC.
+III. RAZÕES DE DECIDIR
+5. A Súmula n. 284 do STF não incide, pois as razões do recurso especial permitem a exata compreensão da controvérsia;
+reconsidera-se o óbice formal inicialmente aplicado.
+6. O exame da alegada ausência de urgência para a recorribilidade imediata demanda revaloração do conjunto fático-probatório, o que atrai a Súmula n. 7 do STJ e impede o conhecimento do recurso especial.
+7. Incidindo a Súmula n. 7 do STJ quanto à alínea a do art. 105, III, da Constituição Federal, resta prejudicada a análise da divergência jurisprudencial pela alínea c sobre o mesmo tema.
+IV. DISPOSITIVO E TESE
+8. Agravo interno desprovido.
+ ..
+(AgInt no AREsp n. 3.025.310/SC, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 9/3/2026, DJEN de 12/3/2026.)
+Ainda que se compreenda que o recurso especial tenha sido interposto também sob o fundamento da alínea "c" do art. 105, inciso III, da Constituição Federal, a insurgência não reúne condições de conhecimento.
+De fato, quanto ao apontamento da existência de dissenso jurisprudencial, sabe-se que "divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas, sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações (arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ)" (REsp n. 1.888.242/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/3/2022, DJe de 31/3/2022).
+Com efeito, a interposição do recurso especial por tal alínea exige do recorrente, além da comprovação da alegada divergência jurisprudencial  por meio da juntada dos precedentes favoráveis à tese defendida, com a devida certidão ou cópia dos paradigmas, autenticada ou de repositório oficial  , a comparação analítica dos acórdãos confrontados, nos termos dos arts. 1.029, §§ 1º e 2º, do Código de Processo Civil, e 255, § 1º, do Regimento Interno, o que não foi feito.
+A análise das alegações recursais, no ponto, indica mera transcrição das decisões sem o adequado cotejo analítico entre o acórdão paradigma e o acórdão recorrido apto a demonstrar a similitude fática entre os casos apontados e a divergência de interpretações.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE LEILÃO EXTRAJUDICIAL. COMPETÊNCIA DE JUÍZO PLANTONISTA. DIREITO LOCAL. SÚMULA 280/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO NÃO REALIZADO. SIMILITUDE FÁTICANÃO DEMONSTRADA. SÚMULA7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação anulatória de leilão extrajudicial.
+2. Não é possível, em recurso especial, a análise da competência interna dos órgãos julgadores de determinado Tribunal para que procedam seus julgamentos. Isso porque a competência interna dos diversos Juízos dos Tribunais estaduais é matéria regulada por leis estaduais de Organização Judiciária e, eventualmente, também pelos regimentos internos dos Tribunais.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido.
+8. Agravo interno não provido.
+(AgInt no REsp n. 1.951.040/AM, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 29/11/2021, DJe de 1/12/2021.)
+PROCESSUAL CIVIL. AGRAVO NO RECURSO ESPECIAL. APELAÇÃO. AÇÃO DECLARATÓRIA DE FALSIDADE DE DOCUMENTO. CHEQUE. COISA JULGADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO. SIMPLES TRANSCRIÇÃO DE EMENTA. CERCEAMENTO DE DEFESA. AUSÊNCIA DE EXPRESSA INDICAÇÃO DE ARTIGO DE LEI VIOLADO. INCIDÊNCIA DA SÚMULA N. 284 DO STF. AGRAVO NÃO PROVIDO.
+1. Não há falar em omissão quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia. O julgador não está obrigado a rebater, um a um, os argumentos trazidos pelas partes, quando encontrar motivação satisfatória para dirimir o litígio sobre os pontos essenciais da controvérsia em exame.
+2. A mera transcrição de ementas e excertos, desprovida da realização do necessário cotejo analítico entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea c do permissivo constitucional. Incidência da Súmula n. 284 do STF.
+3. A falta de indicação, de forma clara e precisa, dos dispositivos legais que teriam sido eventualmente violados ou a que se teria dado interpretação divergente faz incidir à hipótese, em relação a quaisquer das alíneas do permissivo constitucional, a teor da Súmula n. 284 doSTF, por analogia: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+4. Agravo desprovido.
+(AREsp n. 2.801.613/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/3/2025, DJEN de 27/3/2025.)
+Assim, não se mostra viável o conhecimento do recurso pela divergência.
+Ante o exposto, conheço agravo para não conhecer do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, em 2% sobre o percentual já arbitrado ou em 10% se a verba houver sido fixada em valor líquido, tudo nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
