@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto por Lucimara Nabozni, com fundamento no art. 105, inciso II, alínea b, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paraná assim ementado (fls. 417/418):
+DIREITO ADMINISTRATIVO. MANDADO DE SEGURANÇA. PEDIDO DE REDUÇÃO DA JORNADA DE TRABALHO DE SERVIDORA PÚBLICA ESTADUAL. ASSISTENTE SOCIAL. SEGURANÇA DENEGADA.
+I. Caso em exame.
+1. Mandado de Segurança impetrado por servidora pública estadual, ocupante do cargo de Assistente Social, que objetiva a redução de sua jornada de trabalho de 40 para 30 horas semanais, sem redução de vencimentos. A impetrante fundamenta seu pedido no art. 5º-A da Lei nº 8.662/1993, com a redação dada pela Lei nº 12.317/2010, enquanto a Administração Pública aplica a jornada de 40 horas prevista no art. 4º da Lei Estadual nº 13.666/2002.
+II. Questão em discussão.
+2. A questão em discussão consiste em definir se a norma federal que fixa a jornada de trabalho dos assistentes sociais em 30 horas semanais prevalece sobre a legislação estadual que estabelece carga horária de 40 horas semanais para o mesmo cargo no âmbito do serviço público do Estado do Paraná.
+III. Razões de decidir.
+3. Este Órgão Especial, no julgamento do Mandado de Segurança nº 0056225-53.2022.8.16.0000, promoveu a superação de precedente anterior firmado no Incidente de Arguição de Inconstitucionalidade nº 1.347.606-9/01, fixando novo entendimento sobre a matéria, em alinhamento com a jurisprudência das Cortes Superiores. Tal precedente é de observância obrigatória, nos termos do art. 927, V, do CPC.
+4. O novo entendimento jurisprudencial assenta que os Estados e Municípios possuem autonomia para definir o regime jurídico de seus servidores, incluindo a jornada de trabalho. O art. 5º-A da Lei nº 8.662 /1993, com a redação dada pela Lei nº 12.317/2010, que prevê a jornada de 30 horas semanais, tem sua aplicação restrita aos assistentes sociais da iniciativa privada, não alcançando os servidores públicos estatutários.
+IV. Dispositivo e tese.
+5. Segurança denegada.
+Tese de julgamento:
+1. A competência para legislar sobre o regime jurídico dos servidores públicos, incluindo a jornada de trabalho, é do respectivo ente federativo, em respeito à sua autonomia administrativa assegurada pela Constituição Federal.
+2. A Lei Federal nº 12.317/2010, que alterou o art. 5º-A da Lei nº 8.662 /1993 para fixar a jornada de trabalho dos Assistentes Sociais em 30 horas semanais, não se aplica aos servidores públicos estatutários, tendo sua incidência restrita aos profissionais da iniciativa privada.
+A parte recorrente sustenta, em síntese, nulidade do acórdão por ausência de fundamentação, com base no art. 93, inciso IX, da Constituição Federal e no art. 489, § 1º, inciso IV, do Código de Processo Civil, afirmando que o Tribunal de origem não enfrentou argumentos centrais sobre a força vinculante da Ação Direta de Inconstitucionalidade 4.468 e dos Agravos em Recursos Extraordinários citados, nem realizou distinguishing ou justificou overruling em relação à jurisprudência do Supremo Tribunal Federal (fls. 366/368).
+No mérito, afirma violação aos arts. 22, incisos I e XVI, da Constituição Federal, sustentando competência privativa da União para legislar sobre condições de trabalho e exercício profissional, com aplicação nacional do art. 5º-A da Lei 8.662/1993, na redação da Lei 12.317/2010, a todos os assistentes sociais, independentemente do regime estatutário ou celetista (fls. 369/372).
+Alega ofensa ao art. 5º, caput, da Constituição Federal, por desigualdade injustificada entre assistentes sociais estatutários e celetistas quanto à jornada, contrariando a finalidade protetiva da norma federal (fls. 373/374).
+Invoca ainda os arts. 6º e 7º, inciso XXII, da Constituição Federal, combinados com o art. 39, § 3º, para afirmar que a redução da jornada é norma de saúde, higiene e segurança aplicável também a servidores públicos, devendo prevalecer sobre a organização administrativa estadual (fls. 374/376). Reitera a dignidade da pessoa humana e os valores sociais do trabalho (art. 1º, incisos III e IV, da Constituição Federal) como vetores interpretativos da incidência da jornada reduzida (fls. 376/377).
+Afirma possuir direito líquido e certo à jornada de 30 horas com base direta na lei federal de regência da profissão, por omissão da autoridade estadual em aplicar a norma nacional (fls. 365/371).
+Requer, ao final, o reconhecimento da nulidade do acórdão por vício de fundamentação, com retorno dos autos ao Tribunal de origem para novo julgamento; superada a preliminar, requer provimento integral do recurso para conceder a segurança e determinar a redução da jornada para 30 horas semanais, sem redução de vencimentos, com base no art. 5º-A da Lei 8.662/1993 (fls. 378/379).
+A parte adversa apresentou contrarrazões (fls. 432/446).
+O Ministério Público Federal opinou pelo não provimento ao recurso ordinário (fls. 464/469).
+É o relatório.
+Na origem, cuida-se de mandado de segurança impetrado por Lucimara Nabozni, objetivando reduzir a jornada de trabalho de 40 para 30 horas semanais, sem redução de vencimentos, com fundamento no art. 5º-A da Lei 8.662/1993 (Lei 12.317/2010), em face de ato atribuído ao Governador do Estado do Paraná (fls. 417/421).
+Inexiste a alegada violação do art. 489, §1º, do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, tendo o Tribunal de origem apreciado fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+A parte recorrente sustenta omissão da instância ordinária no tocante à força vinculante da Ação Direta de Inconstitucionalidade 4.468 e dos Agravos em Recursos Extraordinários citados.
+Todavia, conforme se depreende da análise do acórdão recorrido, o Tribunal de origem, de modo expresso, fundamentado e coeso, enfrentou cada um dos pontos, ao analisar o alcance da Lei Federal n. 12.317/2010, objeto dos precedentes, explicando que seria a impetrante servidora pública estatutária, não alcançada por aquela lei e pelas decisões.
+Quanto ao mérito, as alegações de negativa de vigência art. 93, inciso IX, arts. 22, incisos I e XVI, 6º e 7º, inciso XXII, art. 39, § 3º e art. 1º, incisos III e IV, da Constituição Federal demandam o enfrentamento de matéria constitucional, medida inviável em recurso especial, sob pena de usurpação da competência da Suprema Corte prevista no art. 102 da Constituição Federal.
+A irresignação não merece prosperar.
+A questão a ser apreciada neste recurso diz respeito à possibilidade de a Lei 12.317/2010, que estabeleceu a duração da jornada de trabalho de 30 horas semanais para os assistentes sociais, ser aplicada aos servidores públicos que exerçam a mesma profissão.
+O Tribunal a quo decidiu em conformidade com a jurisprudência desta Corte
+de que não é possível a aplicação de jornada de trabalho de 30 horas semanais para os assistentes sociais integrantes da categoria do funcionalismo público.
+Nesse sentido:
+ADMINISTRATIVO. AGRAVO INTERNO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. REDUÇÃO DA JORNADA DE TRABALHO PARA 30 HORAS SEMANAIS. IMPOSSIBILIDADE. LEI 12.317/2010. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. O Tribunal a quo decidiu em conformidade com a jurisprudência desta Corte de que não é possível a aplicação de jornada de trabalho de 30 horas semanais para os assistentes sociais integrantes da categoria do funcionalismo da União. Precedentes: AgInt no REsp 1.448.009/AL, relator ministro Napoleão Nunes Maia Filho, DJe 21/2/2019; Aglnt no REsp 1.490.683/MT, relator Ministr o Gurgel de Faria, DJe 16/2/2018; e REsp 1.342.750/RS, relatora Ministra Assusete Magalhães, DJe 23/10/2017.
+2. Agravo interno a que se nega provimento. (AgInt no REsp n. 2.012.400/MG, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 20/11/2023, DJe de 27/11/2023.)
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. REDUÇÃO DA JORNADA DE TRABALHO PARA 30 HORAS SEMANAIS. LEI 12.317/2010. IMPOSSIBILIDADE DE APLICAÇÃO AOS SERVIDORES DE REGIME ESTATUTÁRIO. AGRAVO INTERNO DOS SERVIDORES A QUE SE NEGA PROVIMENTO.
+1. O Tribunal a quo decidiu em conformidade com a jurisprudência desta Corte de que não é possível a aplicação de jornada de trabalho de 30 horas semanais para os Assistentes Sociais integrantes da categoria do funcionalismo da União. Precedentes: AgInt no REsp. 1.490.683/MT, Rel. Min. GURGEL DE FARIA, DJe 16.2.2018; e R Esp. 1.342.750/RS, Rel. Min. ASSUSETE MAGALHÃES, DJe 23.10.2017.
+2. Agravo Interno dos Servidores a que se nega provimento. (AgInt no REsp n. 1.448.009/AL, relator Ministro Napoleão Nunes Maia Filho, Primeira
+Turma, julgado em 12/2/2019, DJe de 21/2/2019.)
+ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. ASSISTENTE SOCIAL. JORNADA DE TRABALHO. REDUÇÃO. REGRA RESTRITA.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Esta Corte pacificou entendimento de que a norma inserta no art. 5º-A da Lei n. 8.662/1993, incluído pela Lei n. 12.317/2010, que versa sobre a redução da jornada de trabalho de 40 (quarenta) para 30 (trinta) horas semanais, aplicada à carreira de Assistente Social, vincula apenas os empregados regidos pela Consolidação das Leis do Trabalho e não pelos demais regimes jurídicos estatutários
+3. Agravo interno desprovido. (AgInt no REsp. 1.490.683/MT, relator
+Ministro Gurgel de Faria, DJe 16/2/2018.)
+Ante o exposto, nego provimento ao recurso em mandado de segurança.
+Publique-se. Intimações necessárias.
+EMENTA
