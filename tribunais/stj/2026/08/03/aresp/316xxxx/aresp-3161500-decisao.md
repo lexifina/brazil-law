@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual Maria Luísa dos Santos Giorgi, Renata Dhelomme Giorgi, Roberto Dhelomme Giorgi e Monica Dhelomme Giorgi Vaz Guimarães se insurgiram, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (fls. 449/450):
+DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA. APELAÇÃO. ITCMD. REEXAME NECESSÁRIO ACOLHIDO. PARCIAL PROVIMENTO RECURSO.
+I. Caso em Exame
+1. Mandado de segurança visando o recolhimento do ITCMD sem multas e com base de cálculo no valor patrimonial contábil das quotas herdadas, além da aplicação exclusiva da Taxa Selic para correção monetária e juros de mora.
+II. Questão em Discussão
+2. A questão em discussão consiste em: (i) a legalidade da cobrança de multa por atraso no protocolo de inventário e no recolhimento do imposto; (ii) a base de cálculo do ITCMD sobre o valor patrimonial contábil das quotas; (iii) a aplicação da Taxa Selic para correção monetária e juros de mora.
+III. Razões de Decidir
+3. A multa de protocolização é devida, pois o inventário extrajudicial foi iniciado após o prazo legal, contado do trânsito em julgado do registro do testamento.
+4. Ausente justo motivo que justifique o recolhimento do ITCMD depois de decorrido o prazo legal.
+5. O ITCMD pode ser recolhido com base no valor patrimonial contábil das quotas, assegurado ao Fisco a revisão por meio de procedimento administrativo, com observância dos princípios do contraditório e da ampla defesa, para definição do valor real das quotas sociais.
+6. A taxa de juros aplicável ao montante do imposto ou da multa não deve exceder a Taxa Selic, conforme decidido pelo Órgão Especial do Tribunal de Justiça.
+IV. Dispositivo e Tese
+7. Reexame necessário acolhido. Recurso parcialmente provido.
+Tese de julgamento: (1) A multa de protocolização é aplicável quando o inventário extrajudicial é iniciado fora do prazo legal. (2) Ausente justo motivo que justifique o recolhimento do ITCMD depois de decorrido o prazo legal. (3) O valor recolhido pelos impetrantes pode ser revisto pelo Fisco, mediante regular procedimento de arbitramento, com vistas a apurar o valor real das quotas sociais. (4) A Taxa Selic deve ser aplicada como limite para a correção monetária e os juros de mora.
+Legislação Citada: Lei 10.705/2000, arts. 14, 17, 19, 20, 21. Código de Processo Civil, art. 1.010. Relator: Des. Aliende Ribeiro. São Paulo, 10 de março de 2025.
+Os primeiros embargos de declaração, opostos pelo Estado de São Paulo, foram rejeitados (fls. 478/483). Os segundos embargos de declaração, opostos pelos ora agravantes, foram igualmente rejeitados (fls. 495/507): o acórdão concluiu que não havia omissão quanto à aplicação da multa prevista no art. 21, inciso I, da Lei Estadual 10.705/2000, e que a apresentação do testamento em juízo não afasta a penalidade nem configura motivo justo para a dilação do prazo de recolhimento do imposto.
+A parte recorrente alega violação dos arts. 112 do Código Tributário Nacional, 2º da Lei 11.441/2007 e 11, 489, §1º, III, e 1.022 do Código de Processo Civil.
+Sustenta ofensa aos arts. 489, §1º, III, e 1.022 do Código de Processo Civil, argumentando ter havido negativa de prestação jurisdicional: o acórdão teria incorrido em omissão ao deixar de examinar argumentos relevantes acerca da existência de justo motivo para o atraso no protocolo do inventário extrajudicial, especialmente no que se refere à existência de testamento, à tramitação judicial correlata e às circunstâncias da pandemia.
+Aponta violação do art. 112 do Código Tributário Nacional, sustentando que, diante de dúvida na interpretação da legislação tributária referente à configuração de infração e à cominação de penalidade, deve prevalecer a exegese mais benéfica ao contribuinte.
+Aponta, ainda, violação ao art. 2º da Lei 11.441/2007, argumentando que as peculiaridades do inventário extrajudicial  notadamente a exigência de homologação judicial do testamento como condição prévia à lavratura da escritura  configurariam justo motivo apto a afastar a multa de protocolização.
+Argumenta que a controvérsia envolve matéria de direito federal e não de direito local, de modo que a abertura da via especial não demandaria a interpretação de legislação estadual.
+Contrarrazões apresentadas às fls. 567/574.
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Na origem, cuida-se de mandado de segurança impetrado pelos ora recorrentes para afastar a exigência de multa e encargos moratórios sobre o Imposto sobre Transmissão Causa Mortis e Doação (ITCMD) devido em razão da transmissão hereditária de quotas societárias e imóveis, com a fixação do valor patrimonial contábil como base de cálculo e a limitação dos juros de mora à Taxa Selic.
+Inexiste a alegada violação do art. 1.022 e do art. 489 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, tendo o Tribunal de origem apreciado fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+A parte recorrente sustenta omissão da instância ordinária no tocante a estas questões: (a) a suposta incompatibilidade entre a Lei Federal 11.441/2007 e a multa de protocolização prevista no art. 21, inciso I, da Lei Estadual 10.705/2000; (b) a configuração de justo motivo para o atraso no protocolo do inventário extrajudicial, em razão da necessidade de prévia homologação judicial do testamento; e (c) as circunstâncias excepcionais da pandemia como causa apta a afastar a mora dos herdeiros.
+Todavia, conforme se depreende da análise do acórdão recorrido, o Tribunal de origem, de modo expresso, fundamentado e coeso, enfrentou cada um dos pontos supostamente omissos, tendo concluído que a multa de protocolização era exigível porque o inventário extrajudicial foi iniciado após o prazo legal, contado do trânsito em julgado do registro do testamento; que a apresentação do testamento em juízo não afasta a penalidade prevista no art. 21, inciso I, da Lei Estadual 10.705/2000; e que a dilação do prazo de recolhimento do ITCMD exige comprovação de motivo justo, não verificado no caso concreto, ainda diante das circunstâncias alegadas pelos impetrantes.
+É importante ressaltar que o contraponto aos argumentos das partes não demanda a citação literal de suas palavras ou dos mesmos dispositivos legais. É suficiente que haja fundamentação fática e jurídica coerente e adstrita ao que se debate nos autos.
+Nos exatos termos do acórdão recorrido, o Tribunal de Justiça do Estado de São Paulo assim se manifestou (fls. 460/462):
+Nestes termos, embora não tenha ocorrido inércia dos impetrantes num primeiro momento, qual seja, da instauração do processo de registro de testamento (devidamente instaurado dentro do prazo de 60 dias), uma vez transitada em julgado em 28.06.2021 a decisão judicial proferida, incumbia aos herdeiros o início do inventário extrajudicial no prazo de 60 dias, o que não ocorreu no caso concreto, tendo o inventariante extrajudicial sido nomeado apenas depois de decorridos 310 (trezentos e dez) dias do trânsito em julgado da decisão proferida no Processo Abertura, Registro e Cumprimento de Testamento nº 1018690-22.2021.8.26.0100.
+Ao que se acrescenta que não há previsão legal no sentido de que a apresentação do testamento em juízo afasta a incidência da penalidade prevista no artigo 21, inciso I, da Lei Estadual nº 10.705/2000.
+Assim, demonstrado que os impetrantes somente depois de decorridos 310 dias do trânsito em julgado da decisão judicial referente ao registro de testamento tomaram as providências necessárias para instauração do inventário extrajudicial, é devida a cobrança da multa estabelecida no artigo 21, inciso I, da Lei Estadual nº 10.705/2000.
+ ..  não comprovada situação excepcional no caso concreto, não há justo motivo capaz de afastar a multa estabelecida no artigo 19 da Lei Estadual nº 10.705/2000.
+Da leitura do acórdão recorrido, constato que o mérito recursal foi decidido à luz da interpretação da Lei Estadual 10.705/2000, especialmente dos arts. 17, parágrafo único, e 21, inciso I, os quais disciplinam o justo motivo para a prorrogação do prazo de recolhimento do Imposto sobre Transmissão Causa Mortis e Doação (ITCMD) e a multa de protocolização incidente sobre o inventário extrajudicial.
+A alteração do julgado, conforme pretendido nas razões recursais, demandaria, necessariamente, a análise da legislação local, providência vedada em recurso especial.
+Desse modo, aplico à espécie, por analogia, o enunciado 280 da Súmula do Supremo Tribunal Federal ("Por ofensa ao direito local não cabe recurso extraordinário").
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. ACÓRDÃO RECORRIDO. FUNDAMENTO CONSTITUCIONAL. LEGISLAÇÃO LOCAL. EXAME. IMPOSSIBILIDADE.
+ ..
+3. A análise das teses apresentadas depende do exame de legislação local, o que não é viável no âmbito do recurso especial, nos termos da Súmula 280 do STJ (Leis Complementares Municipais n. 01/2012 e 02/2000).
+4. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 2.092.887/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+EMENTA
