@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial com fundamento nos óbices da ausência de prequestionamento (Súmula n. 282/STF) e da deficiência na comprovação do dissídio jurisprudencial.
+Segundo a parte agravante, a insurgência preenche os requisitos necessários ao conhecimento e provimento do recurso especial interposto em face do acórdão assim ementado (fls. 472/477):
+PLANO DE SAÚDE. APELAÇÃO. OBRIGAÇÃO DE FAZER. RECURSO DA RÉ NÃO CONHECIDO, DESPROVIDO O APELO DOS AUTORES.
+Caso em exame
+Apelações interpostas contra sentença que julgou parcialmente procedente demanda para condenar a ré a prestação de tratamento domiciliar ("home care") ao autor. Ambas as partes recorrem.
+II. Questão em discussão
+A questão em discussão consiste em determinar a validade da migração dos autores do plano de saúde "Usiminas II" para o "Usiflex".
+III. Razões de decidir
+Não se conhece o recurso da Ré por falta de interesse recursal.
+Quanto ao recurso do autor, a questão não envolve reajuste de mensalidade, e sim a validade da migração do autor do plano de saúde Usiminas II para o plano de saúde Usiflex, com diferente valor de mensalidade.
+A prova documental demonstra que a migração foi necessária devido à inviabilidade econômica do plano anterior e houve manutenção da paridade de tratamento entre ativos e inativos, não havendo violação ao Tema 1.034 do STJ.
+IV. Dispositivo
+Recurso da ré não conhecido, desprovido o apelo do autor.
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil, a parte agravada não se manifestou.
+É o relatório.
+Decido.
+O agravo é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise das razões recursais não aponta, contudo, argumento que viabiliza o conhecimento da insurgência.
+Nos termos do art. 932, inciso III, do Código de Processo Civil e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+A Corte Especial do Superior Tribunal de Justiça (STJ) já estabeleceu que a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial.
+A impugnação deve ser realizada, portanto, de forma específica e suficiente, sob pena de incidência da Súmula n. 182/STJ.
+No presente caso, não foram impugnados, de forma específica e suficiente, os seguintes óbices: (i) ausência de prequestionamento (Súmula n. 282/STF) e (ii) deficiência na comprovação do dissídio jurisprudencial.
+Para que se tenha por impugnado o óbice da Súmula n. 282/STF, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+Nesse sentido:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA C/C PEDIDO DE COMPENSAÇÃO POR DANOS MORAIS. SEGURO DE VIDA EM GRUPO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Cuida-se, na origem, de ação de cobrança c/c pedido de compensação por danos morais, ajuizada em razão da negativa de pagamento de indenização relativa a seguro de vida em grupo.
+2. Não ocorre ofensa aos arts. 489 e 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. Para que se tenha por satisfeito o requisito do prequestionamento, "há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal" (AgInt no AREsp 1.487.935/SP, 4ª Turma, DJe 04/02/2020). Por essa razão é que não basta ao cumprimento do requisito do prequestionamento a mera oposição de embargos de declaração na origem.
+5. O conhecimento da insurgência recursal é inadmissível quando o recorrente deixa de demonstrar, de forma pontual e argumentativa, como o acórdão recorrido violou os dispositivos legais mencionados nas razões do recurso.
+6. Alterar o decidido no acórdão impugnado, no que se refere à legitimidade passiva da recorrente, por ter atuado como representante da seguradora, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+7. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido.
+8. Agravo interno não provido.
+(AgInt no REsp n. 1.815.548/AM, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4/5/2020, DJe de 7/5/2020.)
+No presente feito, a parte recorrente não logrou comprovar que o acórdão recorrido tratou dos dispositivos legais tidos por violados ou da tese jurídica ora trazida a esta Corte. Com efeito, o acórdão recorrido limitou-se a não conhecer do recurso de apelação interposto pela ora agravante por falta de interesse recursal, sem adentrar o mérito da pretendida discussão acerca dos arts. 13, parágrafo único, II e III, da Lei n. 9.656/98 e do Tema n. 1.034 do STJ.
+Nesse contexto, cabe à parte demonstrar que o Tribunal de origem, a despeito de não ter citado expressamente os dispositivos invocados, efetivamente examinou as teses a eles subjacentes  o que não ocorreu na espécie. O acórdão recorrido analisou as questões exclusivamente sob o enfoque da ausência de interesse recursal da agravante, por entender que a sentença já lhe era favorável quanto à validade da migração do plano, sem examinar o conteúdo protetivo dos artigos indicados como violados.
+Acrescente-se que, embora a agravante tenha oposto Embargos de Declaração perante o juízo de primeiro grau (fls. 425/427), não há notícia de que tenha oposto Embargos de Declaração em relação ao acórdão recorrido (fls. 472/477), proferido pela 1ª Câmara de Direito Privado do TJSP. Sem a provocação do órgão colegiado de origem sobre os pontos tidos por omissos, não se configura sequer o prequestionamento ficto previsto no art. 1.025 do CPC, que pressupõe a oposição dos embargos perante o órgão que proferiu o acórdão recorrido, bem como a indicação da violação ao art. 1.022 do CPC no próprio recurso especial, requisito também não cumprido na espécie. De modo que o óbice não restou superado.
+Quanto ao apontamento da existência de dissenso jurisprudencial, sabe-se que "divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas, sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações (arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ)" (REsp n. 1.888.242/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/3/2022, DJe de 31/3/2022).
+Com efeito, a interposição do recurso especial por tal alínea exige do recorrente, além da comprovação da alegada divergência jurisprudencial  por meio da juntada dos precedentes favoráveis à tese defendida, com a devida certidão ou cópia dos paradigmas, autenticada ou de repositório oficial  , a comparação analítica dos acórdãos confrontados, nos termos dos arts. 1.029, §§ 1º e 2º, do Código de Processo Civil, e 255, § 1º, do Regimento Interno, o que não foi feito.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO NO RECURSO ESPECIAL. APELAÇÃO. AÇÃO DECLARATÓRIA DE FALSIDADE DE DOCUMENTO. CHEQUE. COISA JULGADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO. SIMPLES TRANSCRIÇÃO DE EMENTA. CERCEAMENTO DE DEFESA. AUSÊNCIA DE EXPRESSA INDICAÇÃO DE ARTIGO DE LEI VIOLADO. INCIDÊNCIA DA SÚMULA N. 284 DO STF. AGRAVO NÃO PROVIDO.
+1. Não há falar em omissão quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia. O julgador não está obrigado a rebater, um a um, os argumentos trazidos pelas partes, quando encontrar motivação satisfatória para dirimir o litígio sobre os pontos essenciais da controvérsia em exame.
+2. A mera transcrição de ementas e excertos, desprovida da realização do necessário cotejo analítico entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea c do permissivo constitucional. Incidência da Súmula n. 284 do STF.
+3. A falta de indicação, de forma clara e precisa, dos dispositivos legais que teriam sido eventualmente violados ou a que se teria dado interpretação divergente faz incidir à hipótese, em relação a quaisquer das alíneas do permissivo constitucional, a teor da Súmula n. 284 do STF, por analogia.
+4. Agravo desprovido.
+(AREsp n. 2.801.613/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/3/2025, DJEN de 27/3/2025.)
+Ante o exposto, não conheço do agravo em recurso especial por incidência da Súmula n. 182/STJ.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 2% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
