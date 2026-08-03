@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso ordinário interposto por EDUARDO GONCALVES SOUZA desafiando acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, nos autos do HC n. 1.0000.26.401241-0/000.
+Foi o recorrente preso em flagrante pela suposta prática do delito de roubo majorado pelo concurso de agentes e emprego de arma de fogo.
+Segundo consta dos autos, teria ele subtraído uma motocicleta em atuação conjunta com um adolescente.
+Em 15 de maio de 2026, a prisão em flagrante foi convertida em preventiva.
+Contra a imposição da custódia cautelar, a defesa impetrou habeas corpus perante o Tribunal de origem.
+A Oitava Câmara de Direito Criminal, contudo, denegou a ordem.
+Neste recurso, sustenta a defesa, em síntese, que a conversão da prisão em flagrante em preventiva se mostra desproporcional, por não haver elementos concretos indicativos de risco à ordem pública ou à aplicação da lei penal.
+Ressalta, ainda, que o recorrente é primário, conforme demonstrado pela certidão de antecedentes criminais juntada aos autos.
+Requer, em caráter liminar, a revogação da prisão preventiva e sua substituição por medidas cautelares diversas, com a imediata expedição de alvará de soltura, a fim de que o recorrente possa responder em liberdade aos ulteriores termos do processo. Ao final, pugna pela confirmação da medida emergencial.
+É o relatório.
+Decido.
+Nos termos do art. 93, inciso IX, da Constituição Federal, as decisões judiciais devem ser devidamente fundamentadas.
+A prisão preventiva, quando lastreada em fundamentos concretos e nos requisitos legais, não afronta os princípios da presunção de inocência e da proporcionalidade, por não representar antecipação de pena, mas medida destinada à tutela da ordem pública e à efetividade da persecução penal, conforme orientação consolidada do Supremo Tribunal Federal (HC n. 211.105 AgR, Relator Ministro Dias Toffoli, Primeira Turma, julgado em 11/4/2022, DJe de 30/5/2022).
+No caso, consta do decreto constritivo (e-STJ fls. 76/77, grifo nosso):
+A materialidade e os indícios de autoria ( ) estão sobejamentefumus comissi delicti demonstrados pelo boletim de ocorrência, auto de apreensão do veículo e da arma de fogo, além dos depoimentos colhidos pela autoridade policial.
+Quanto ao periculum libertatis, a segregação provisória faz-se necessária para a Garantia da Ordem Pública. A gravidade concreta da conduta é elevada: o crime de roubo foi praticado mediante concurso de pessoas e emprego de arma de fogo, demonstrando ousadia e periculosidade social do agente. Soma-se a isso o fato de o autuado ter, supostamente, corrompido um adolescente para a prática do crime, o que majora o desvalor da ação. Ademais, a conduta do custodiado no momento da abordagem, ao fornecer falsa identidade (nome de seu irmão), revela nítida intenção de furtar-se à aplicação da lei penal e ludibriar o aparato estatal, justificando a medida extrema.
+Embora o autuado declare ocupação lícita e residência fixa, tais condições favoráveis não são absolutas e não impedem a custódia quando presentes os requisitos do Art. 312 do CPP.
+No caso, a prisão preventiva encontra-se devidamente fundamentada em elementos concretos extraídos dos autos, aptos a demonstrar a presença dos requisitos previstos no art. 312 do Código de Processo Penal.
+Segundo se extrai da denúncia, em 13 de maio de 2026, a Polícia Militar foi acionada pelo COPOM para atender a uma ocorrência de roubo de motocicleta praticado com emprego de arma de fogo no povoado Rocinha. A testemunha W. A. A. relatou ter presenciado o momento em que um indivíduo abandonou a motocicleta Honda/CG 160 Fan em frente à sua residência e, logo depois, ingressou em um veículo branco, conduzido por terceiro, no qual se evadiu.
+A vítima J., por sua vez, afirmou que retornava da cidade quando passou a ser perseguida por um automóvel VW/Gol branco. Em seguida, teria sido abordada pelo recorrente, que, portando arma de fogo, anunciou o assalto e exigiu que ela descesse da motocicleta. Relatou, ainda, que conseguiu correr em direção à residência da testemunha V. B. P., ocasião em que um dos envolvidos efetuou um disparo para o alto antes de deixar o local.
+A partir da análise das imagens captadas por câmeras de segurança, os policiais teriam identificado o veículo utilizado na ação e o localizado nas proximidades da residência do adolescente C. E. R. Durante a abordagem, o menor teria admitido sua participação nos fatos e indicado que atuara em conjunto com o recorrente, a quem atribuiu a condução do automóvel, o porte da arma de fogo e a realização do disparo.
+Após rastreamento ininterrupto, o paciente foi localizado pelos agentes de segurança e se apresentou inicialmente como Bruno Araújo de Freitas Souza, utilizando o nome do próprio irmão. Sua verdadeira identidade somente teria sido constatada após a consulta às fotografias existentes no sistema informatizado policial, quando, então, declarou chamar-se Eduardo Gonçalves Souza.
+Nesse contexto, o concurso de agentes, a participação de adolescente, o emprego de arma de fogo, o disparo efetuado durante a fuga e a tentativa de induzir os policiais em erro quanto à identidade do paciente ultrapassam a gravidade abstrata do delito. Tais circunstâncias demonstram a acentuada periculosidade da ação, a maior reprovabilidade da conduta e o risco concreto decorrente da liberdade do agente, justificando, ao menos por ora, a manutenção da segregação cautelar para a garantia da ordem pública e da aplicação da lei penal.
+Além disso, verifica-se a existência de elementos que evidenciam a possibilidade concreta de reiteração delitiva.
+Conforme consignado no decreto prisional, o recorrente foi condenado pelo crime de tráfico de drogas e responde a outra ação penal também pelo delito previsto no art. 33, caput, da Lei n. 11.343/2006.
+Tal elemento revela inclinação à prática reiterada de infrações penais e reforça o risco concreto de reiteração criminosa, circunstância apta a justificar a manutenção da custódia cautelar.
+Com efeito, a jurisprudência consolidada desta Corte Superior firmou entendimento de que antecedentes criminais, reincidência, atos infracionais pretéritos e até mesmo ações penais em andamento constituem fundamentos idôneos para a decretação ou manutenção da custódia cautelar, quando demonstrado risco concreto de reiteração delitiva.
+Nesse sentido, os seguintes precedentes:
+HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. FURTO QUALIFICADO. PRISÃO PREVENTIVA. REINCIDÊNCIA ESPECÍFICA. EXTENSA FOLHA DE ANTECEDENTES CRIMINAIS. NECESSIDADE DE EVITAR A REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO IDÔNEA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. COVID-19. INSERÇÃO EM GRUPO DE RISCO. NÃO COMPROVAÇÃO. ORDEM NÃO CONHECIDA.
+ ..
+3. No caso dos autos, foi destacado que embora o delito não seja revestido de violência ou grave ameaça - furto qualificado por rompimento de obstáculo -, a prisão do paciente se mostra necessária como forma de obstar a reiteração delitiva, tendo em vista os péssimos antecedentes criminais por ele ostentados.
+4. Com efeito, em exame de sua extensa ficha criminal, há registro de diversos delitos de mesma natureza, com condenações transitadas em julgado, sendo que sua contumácia advém de longa data - os primeiros fatos são datados de 2004 -, e os registros se referem a variadas comarcas. Além disso, não há informação de vínculo com o distrito da culpa, tampouco demonstração de exercício de atividade laborativa lícita, indícios relevantes de que faz do crime o meio de vida. Esse cenário é suficiente para indicar que a custódia se mostra necessária para evitar novas condutas e preservar a ordem pública.
+ ..
+9. Ordem não conhecida.
+(HC n. 640.123/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/6/2021, DJe de 14/6/2021, grifo nosso.)
+Ressalte-se, por fim, que as condições pessoais favoráveis do acusado, por si sós, não afastam a possibilidade de decretação ou manutenção da prisão preventiva, quando presentes os requisitos autorizadores da medida extrema.
+Da mesma forma, as circunstâncias concretas do caso evidenciam a insuficiência das medidas cautelares diversas, previstas no art. 319 do Código de Processo Penal, para resguardar a ordem pública.
+Ante o exposto, nego provimento ao recurso ordinário.
+Publique-se. Intimem-se.
+EMENTA
