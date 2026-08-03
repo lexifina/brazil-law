@@ -1,0 +1,30 @@
+Trata-se de agravo interposto contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul que julgou prejudicado o recurso extraordinário – no ponto relativo à superveniente perda de objeto do recurso em razão do entendimento firmado no Tema 111 da Repercussão Geral – e o inadmitiu quanto à questão remanescente, tendo em vista a ausência de ofensa direta à Constituição Federal (doc. 51).
+
+A agravante alega, em suma, que o exame da controvérsia destes autos envolve:
+
+[...] a interpretação direta e imediata de normas constitucionais - notadamente dos arts. 5º, II, LIV e LV, e 155, §2º, I, da Constituição Federal -, sem que se cogite de rediscussão de dispositivos infraconstitucionais (doc. 54, p. 12).
+
+É o relatório. Decido.
+
+Bem examinados os autos, verifico que o recurso não merece prosperar.
+
+Isso porque, conforme observado pela decisão que não admitiu o recurso extraordinário, a controvérsia acerca da compensação de créditos de ICMS com precatórios devidos por ente jurídico de natureza distinta situa-se no âmbito infraconstitucional, de modo que eventual ofensa à Constituição Federal seria apenas indireta, o que inviabiliza o recurso. Nessa linha, colaciono ementas de julgados de ambas as Turmas do Supremo Tribunal Federal:
+
+DIREITO TRIBUTÁRIO E FINANCEIRO. PRECATÓRIO. ICMS. COMPENSAÇÃO. PRECATÓRIO DEVIDO PELO IPERGS. CRÉDITO TRIBUTÁRIO DO ESTADO DO RIO GRANDE DO SUL. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. NECESSIDADE DE INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL E REELABORAÇÃO DA MOLDURA FÁTICA. IMPOSSIBILIDADE. SÚMULAS Nº 279 E 280/STF. PRECEDENTE. AGRAVO NÃO PROVIDO. 1. A controvérsia relativa à compensação de créditos tributários de ICMS do Estado do Rio Grande do Sul com precatórios devidos por autarquia estadual (IPERGS), conforme já asseverado na decisão guerreada, está restrita ao âmbito infraconstitucional e à análise de fatos e provas. Compreensão diversa demandaria a reelaboração da moldura fática delineada e a interpretação da legislação local, procedimentos vedados em recurso extraordinário. Não há falar, portanto, em afronta aos preceitos constitucionais indicados nas razões recursais. Incidência da Súmula nº 279 e 280/STF. 2. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita. 3. Agravo interno conhecido e não provido (ARE 1.581.763 AgR/RS, Rel. Min. Flávio Dino, Primeira Turma, DJe 26/3/2026).
+
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. PRECATÓRIO. COMPENSAÇÃO. CRÉDITOS E DÉBITOS TITULARIZADOS POR ENTES DE NATUREZA DISTINTA. ESTADO E AUTARQUIA. AUSÊNCIA DE LEGISLAÇÃO AUTORIZATIVA. QUESTÃO DECIDIDA PELO TRIBUNAL A QUO À LUZ DA INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS. NÃO CABIMENTO DO EXTRAORDINÁRIO. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. APLICAÇÃO DA MULTA DO ARTIGO 1.021, § 4 º, DO CPC. IMPOSSIBILIDADE DE CONDENÇÃO EM NOVA SUCUMBÊNCIA. AUSÊNCIA DE FIXAÇÃO DE HONORÁRIOS NA ORIGEM. AGRAVO INTERNO DESPROVIDO (ARE 989.058 AgR/RS, Rel. Min. Luiz Fux, Primeira Turma, DJe 12/12/2016).
+
+Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. 3. Compensação de débitos tributários com precatórios devidos por ente jurídico de natureza distinta. 4. Questões de natureza infraconstitucional. Ofensa reflexa à Constituição Federal. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Negativa de provimento ao agravo regimental (ARE 1.455.302 AgR/SP, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 16/5/2025).
+
+DIREITO PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. CRÉDITO DE ICMS DO ESTADO DO RIO GRANDE DO SUL. PRECATÓRIO CEDIDO POR AUTARQUIA ESTADUAL (IPERGS). COMPENSAÇÃO. MATÉRIA INFRACONSTITUCIONAL. INTERPRETAÇÃO DE LEGISLAÇÃO ESTADUAL. OFENSA INDIRETA À CF/1988. REEXAME DE FATOS E PROVAS. SÚMULAS 279 E 280/STF. RECURSO DESPROVIDO. I. CASO EM EXAME 1. Agravo interno interposto contra decisão que negou provimento ao recurso extraordinário ante o envolvimento de matéria de índole infraconstitucional e a incidência dos óbices versados nas Súmulas 279 e 280/STF. 2. A parte agravante alega a impertinência dos aludidos óbices e insiste na ofensa direta ao Texto Constitucional, pondera imprópria a compensação de precatório cedido por terceiro (autarquia estadual) com débito de ICMS destinado ao Estado do Rio Grande do Sul (pessoa jurídica diversa). II. QUESTÃO EM DISCUSSÃO 3. A questão em discussão consiste em saber se é adequado recurso extraordinário quando o desfecho da controvérsia pressupõe reexame de legislação infraconstitucional, inclusive estadual, e revolvimento de matéria fática. III. RAZÕES DE DECIDIR 4. Havendo o Tribunal de origem decidido a questão a partir de interpretação conferida ao Código Tributário Nacional e ao Código Civil, bem assim considerada legislação estadual (Leis estaduais n. 11.475/2000, n. 11.472/2000 e n. 12.209/2004), não cabe o recurso extraordinário. Incidência da Súmula 280/STF. 5. Dissentir da conclusão alcançada na origem demandaria revolvimento de elementos fático-probatórios, providência inviável em sede recursal extraordinária, a atrair o óbice da Súmula 279/STF. IV. DISPOSITIVO 6. Agravo interno desprovido (RE 576.965 AgR/RS, Rel. Min. Nunes Marques, Segunda Turma, DJe 2/6/2026).
+
+Posto isso, nego provimento ao recurso (art. 932 do CPC). Honorários advocatícios majorados em 1% (um por cento), em desfavor da parte recorrente, observados os limites previstos nos §§ 2°, 3° e 11 do art. 85 do CPC, bem como a eventual concessão do benefício da gratuidade da Justiça.
+
+Advirto que a interposição de recurso contra esta decisão monocrática pode acarretar a imposição da multa prevista no art. 1.021, § 4°, do Código de Processo Civil.
+
+Publique-se.
+
+Brasília, 3 de agosto de 2026.
+
+Ministro Cristiano Zanin
+Relator
