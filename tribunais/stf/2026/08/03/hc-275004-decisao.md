@@ -1,0 +1,39 @@
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de Joao Alves Menino Junior contra acórdão da Quinta Turma do Superior Tribunal de Justiça que rejeitou os EDcl no AgRg no AREsp 2.859.834/SP (doc. 20).
+
+Consta de documento encartado a estes autos que o paciente foi condenado à "[...] 05 (cinco) anos de reclusão, em regime inicial semiaberto, mais pagamento de 25 dias-multa, no piso legal [...]" (doc. ), como incurso no "[...] no artigo 312, caput [peculato] c.c artigo 71, ambos do Código Penal" (doc. 9, p. 2).
+
+Neste writ, o impetrante sustenta, em síntese, o seguinte:
+
+1. ATO COATOR: João Alves Menino Junior, paciente no processo criminal oriundo da 5ª Turma do STJ, em recurso que negou a remessa dos autos ao Ministério Público para manifestação sobre o ANPP, sob o fundamento de preclusão, por entender que “a insurgência da parte quanto ao acordo de não persecução penal não foi apresentada na primeira oportunidade processual após a fixação da tese pelo STF (HC n. 185.913/DF), sendo esse o ato coator.
+2. TESES: (i) Violação do direito ao devido processo legal, à ampla defesa e ao contraditório pela negativa de remessa dos autos para manifestação do Ministério Público sobre o ANPP, com pedido formulado antes do trânsito em julgado; (ii) aplicação indevida da preclusão para negar a insurgência da defesa, contrariando o entendimento do STF no HC 185.913/DF; (iii) violação do direito à retroatividade do ANPP, norma híbrida material-processual, aplicável a processos sem trânsito em julgado.
+3. PRECEDENTES: Compete ao Ministério Público manifestar-se motivadamente sobre o cabimento do ANPP nos processos em andamento, sendo a única barreira temporal legítima para sua aplicação o trânsito em julgado (HC 185.913/DF, STF).
+4. PEDIDOS: (i) liminar para suspender o início do cumprimento da pena; (ii) mérito para determinar a remessa dos autos ao Ministério Público para manifestação sobre o ANPP.
+
+É o relatório necessário. Decido.
+
+Colaciono, por oportuno, ementa que integra o inteiro teor do acórdão impugnado:
+
+Ementa AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO RECORRIDA. AGRAVO NÃO CONHECIDO. 1. A ausência de impugnação específica aos fundamentos da decisão recorrida, ônus da parte recorrente, atrai a incidência do art. 1.021, § 1º, do CPC e da Súmula n. 182 desta Corte. 2. Agravo regimental não conhecido. (doc. 14, p. 1 – grifei).
+
+Com efeito, as questões suscitadas neste writ não foram julgadas pela Quinta Turma do Superior Tribunal de Justiça. Nesse contexto, ressalto que, “[inexistindo] prévia manifestação do Superior Tribunal de Justiça sobre a matéria de fundo da impetração, a apreciação dos pedidos da defesa implica supressão de instância” (HC 119.600 AgR/SP, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 4/11/2013 – grifei).
+
+Nessa mesma direção:
+
+Ementa AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO. AUSÊNCIA DE JULGAMENTO DAS QUESTÕES SUSCITADAS NESTA IMPETRAÇÃO PELA SEXTA TURMA DO SUPERIOR TRIBUNAL DE JUSTIÇA. SUPRESSÃO DE INSTÂNCIA. AGRAVO AO QUAL SE NEGA PROVIMENTO. I. Caso em exame 1. Paciente “[...] condenado à pena de 6 (seis) anos, 9 (nove) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, pela prática do delito capitulado no art. 33, caput, da Lei n. 11.343/2006”. II. Questão em discussão 2. Pretende-se a nulidade da Ação Penal 1502584-41.2025.8.26.0599/SP. III. Razões de decidir 3. As questões suscitadas neste writ não foram julgadas pela Sexta Turma do Superior Tribunal de Justiça. Nesse contexto, a orientação jurisprudencial do Supremo Tribunal Federal é firme no sentido de que, “[inexistindo] prévia manifestação do Superior Tribunal de Justiça sobre a matéria de fundo da impetração, a apreciação dos pedidos da defesa implica supressão de instância” (HC 119.600 AgR/SP, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 4/11/2013). IV. Dispositivo 4. Agravo regimental ao qual se nega provimento. (RHC 272.816 AgR/SP, da minha relatoria, Primeira Turma, DJe 24/6/2026 – grifei).
+
+Ementa AGRAVO REGIMENTAL. HABEAS CORPUS. AUSÊNCIA DE ANÁLISE DO MÉRITO DA IMPETRAÇÃO POR COLEGIADO DO SUPERIOR TRIBUNAL DE JUSTIÇA. SUPRESSÃO DE INSTÂNCIA. AGRAVO AO QUAL SE NEGA PROVIMENTO. I. Caso em exame 1. Prisão Preventiva. II. Questão em discussão 2. Pretendida revogação da prisão preventiva. III. Razões de decidir 3. As questões de mérito apresentadas nesta impetração não foram objeto de julgamento pela Sexta Turma do Superior Tribunal de Justiça. A orientação jurisprudencial desta Suprema Corte é firme no sentido de que, “[inexistindo] prévia manifestação do Superior Tribunal de Justiça sobre a matéria de fundo da impetração, a apreciação dos pedidos da defesa implica supressão de instância” (HC 119.600 AgR/SP, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 4/11/2013). IV. Dispositivo 4. Agravo regimental ao qual se nega provimento. (HC 246.285 AgR/SP, da minha relatoria, Primeira Turma, DJe 23/10/2024 – grifei).
+
+Entretanto, apesar do óbice acima referido, o caso é de concessão da ordem de habeas corpus de ofício. Consta destes autos que "[...] a insurgência da parte quanto ao acordo de não persecução penal não foi apresentada na primeira oportunidade processual após a fixação da tese pelo STF (HC n. 185.913/DF)" (doc. 20, p. 3 – grifei). Ocorre, contudo, que esse requerimento foi feito antes do trânsito em julgado do AREsp 2.859.834/SP, o que está em conformidade com uma das teses fixadas pelo Plenário do Supremo Tribunal Federal no julgamento do Habeas Corpus 185.913/DF. Naquela ocasião, decidiu-se que:
+
+1. Compete ao membro do Ministério Público oficiante, motivadamente e no exercício do seu poder-dever, avaliar o preenchimento dos requisitos para negociação e celebração do ANPP, sem prejuízo do regular exercício dos controles jurisdicional e interno; 2. É cabível a celebração de Acordo de Não Persecução Penal em casos de processos em andamento quando da entrada em vigência da Lei nº 13.964, de 2019, mesmo se ausente confissão do réu até aquele momento, desde que o pedido tenha sido feito antes do trânsito em julgado; 3. Nos processos penais em andamento na data da proclamação do resultado deste julgamento, nos quais, em tese, seja cabível a negociação de ANPP, se este ainda não foi oferecido ou não houve motivação para o seu não oferecimento, o Ministério Público, agindo de ofício, a pedido da defesa ou mediante provocação do magistrado da causa, deverá, na primeira oportunidade em que falar nos autos, após a publicação da ata deste julgamento, manifestar-se motivadamente acerca do cabimento ou não do acordo; 4. Nas investigações ou ações penais iniciadas a partir da proclamação do resultado deste julgamento, a proposição de ANPP pelo Ministério Público, ou a motivação para o seu não oferecimento, devem ser apresentadas antes do recebimento da denúncia, ressalvada a possibilidade de propositura, pelo órgão ministerial, no curso da ação penal, se for o caso. (HC 185.913/DF, Rel. Min. Gilmar Mendes, Plenário, DJe 19/11/2024 – grifei).
+
+Ante o exposto, nego seguimento a este writ (art. 21, § 1º , do Regimento Interno do Supremo Tribunal Federal), mas concedo a ordem de habeas corpus de ofício (art. 192, caput, do Regimento Interno do Supremo Tribunal Federal) para determinar a suspensão do processo e de eventual execução da pena até que o Ministério Público competente verifique, no caso concreto, as condições estabelecidas pelo art. 28-A, do Código de Processo Penal, e manifeste-se motivadamente sobre o cabimento ou não do acordo em questão. Ressalto, por fim, que essa análise deverá ocorrer na instância em que o processo se encontrar.
+
+Publique-se. Comunique-se com urgência.
+
+Atribua-se a esta decisão força de mandado/ofício.
+
+Brasília, 3 de agosto de 2026.
+
+Ministro Cristiano Zanin
+Relator
