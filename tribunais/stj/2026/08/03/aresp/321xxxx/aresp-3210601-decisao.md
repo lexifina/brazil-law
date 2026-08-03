@@ -1,0 +1,76 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial com fundamento no óbice da Súmula n. 7/STJ.
+Segundo a parte agravante, a insurgência preenche os requisitos necessários ao conhecimento e provimento do recurso especial interposto em face do acórdão assim ementado:
+"EMENTA: DIREITO PROCESSUAL CIVIL. APELAÇÃO CÍVEL. INDENIZAÇÃO POR DANOS MORAIS. ROMPIMENTO DE BARRAGEM EM BRUMADINHO/MG. RESIDÊNCIA EM ZONA DE AUTOSSALVAMENTO (ZAS). DANO MORAL PRESUMIDO, RECURSO PROVIDO.
+I. CASO EM EXAME
+Apelação cível interposta contra sentença proferida pelo Núcleo de Justiça 4.0 - Cooperação Judiciária, que julgou improcedente o pedido de indenização por danos morais e materiais, sob o fundamento de ausência de comprovação dos danos alegados. O autor alega que residia na área denominada Parque da Cachoeira/Parque do Lago, situada em região próxima à zona diretamente atingida. Preliminarmente, sustenta cerceamento de defesa em razão do indeferimento do reagendamento da perícia médica. No mérito, requer o reconhecimento do dano moral presumido, e a condenação da ré ao pagamento de indenização.
+II. QUESTÃO EM DISCUSSÃO
+Há duas questões em discussão: (i) verificar se houve cerceamento de defesa em razão do indeferimento do pedido de reagendamento da perícia médica; (ii) determinar se o autor faz jus à indenização por danos morais presumidos, em razão de sua residência em área atingida pelo pelo rompimento da barragem em Brumadinho/MG.
+III. RAZÕES DE DECIDIR
+O indeferimento do reagendamento da perícia médica não caracteriza cerceamento de defesa, uma vez que o autor não comprovou de forma idônea a impossibilidade de comparecimento à perícia, sendo legítima a exigência de respeito aos atos processuais formalmente designados.
+Os autores comprovam residência no bairro Parque da Cachoeira/Parque do Lago, região que, ainda que parcialmente fora da Zona de Autossalvamento (ZAS), está suficientemente próxima ao "caminho da lama", o que implica exposição aos efeitos do evento.
+O Termo de Compromisso firmado entre a Vale S/A e a Defensoria Pública de Minas Gerais, em 2019, contempla moradores dessa região para o recebimento de auxílio emergencial, independentemente da localização exata na ZAS, devido à proximidade com o local atingido.
+A jurisprudência consolidada do Tribunal de Justiça de Minas Gerais reconhece que o sofrimento psicológico decorrente do rompimento da barragem, para residentes na ZAS ou entorno, é presumido, não sendo necessária a produção de prova pericial para a configuração do dano moral.
+A fixação da indenização no valor de 30.000 (trinta mil) reais revela-se proporcional à intensidade dos danos sofridos, observando os princípios da razoabilidade e da proporcionalidade, bem como os parâmetros já adotados em casos análogos.
+IV. DISPOSITIVO E TESE
+Recurso provido.
+Tese de julgamento:
+A ausência de justificativa idônea para o não comparecimento à perícia médica afasta a alegação de cerceamento de defesa."
+Nas razões do agravo em recurso especial, a recorrente defende que o apelo preenche os requisitos de admissibilidade, argumentando que a análise da controvérsia não demanda o reexame do acervo probatório, mas apenas a revaloração jurídica dos fatos incontroversos.
+Sustenta ofensa aos arts. 7º, 139, I, 373, I, 489, § 1º, IV, e 1.022, I e II, do Código de Processo Civil, asseverando que o julgamento de procedência sem a realização da perícia médica tempestivamente requerida configurou cerceamento de defesa, impedindo a escorreita verificação do efetivo abalo à saúde mental do autor. Aponta, por fim, a configuração de dissídio jurisprudencial.
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil, a parte agravada apresentou contraminuta, pugnando pela manutenção da decisão denegatória.
+Argumenta que o acórdão proferido pacificou o tema com base na livre convicção e nas provas dos autos, e que a pretensão recursal da empresa esbarra no óbice sumular apontado pela Presidência da Corte local.
+É o relatório.
+DECIDO.
+O agravo é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise das razões recursais não aponta, contudo, argumento que viabiliza o conhecimento da insurgência.
+Nos termos do art. 932, inciso III, do Código de Processo Civil e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+A Corte Especial do Superior Tribunal de Justiça já estabeleceu que a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial.
+No presente caso, não foi impugnado o óbice referente à aplicação da Súmula n. 7/STJ.
+Ressalte-se que a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula 182/STJ.
+Na hipótese vertente, verifica-se que a decisão de admissibilidade obstou o seguimento do recurso especial aplicando a Súmula n. 7/STJ para ambas as alíneas do permissivo constitucional.
+Contudo, nas razões do agravo, a recorrente limitou-se a tecer alegações panorâmicas de que o caso demandaria mera "revaloração jurídica", sem demonstrar de maneira lógica e pormenorizada como a tese de cerceamento de defesa e a pretensa necessidade de perícia médica poderiam ser analisadas por esta Corte Superior sem a incursão no acervo probatório que fundamentou a presunção do dano pelo Tribunal estadual. A ausência de refutação analítica do óbice aplicado evidencia a deficiência da peça recursal
+Observa-se que, no presente caso, que o recurso de agravo não impugna, de maneira efetiva e detida, todos os capítulos da decisão de inadmissão.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA Nº 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, por óbice da Súmula nº 182/STJ.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 726.599/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 20/3/2018, DJe de 3/4/2018.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. VIOLAÇÃO DO ART. 557 DO CPC/73. INEXISTÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+1. Inaplicáveis as disposições do NCPC a este julgamento ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. A possibilidade de interposição de agravo regimental contra decisão monocrática proferida com esteio no art. 557 do CPC/73, afasta qualquer alegação de ofensa ao princípio da colegialidade.
+3. O agravo regimental não impugnou as razões da decisão agravada, pois não refutou a aplicação das Súmulas nºs 282 e 356 do STF, em razão da ausência de prequestionamento dos arts. 113, § 2º, 128, 165, 183, § 1º, 267, § 3º, 301, 319, 322, parágrafo único, 458, II, III, 460 do CPC/73. Incide, no ponto, a Súmula nº 182 do STJ: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+4. Agravo regimental parcialmente conhecido e, nessa parte, não provido.
+(AgRg no REsp n. 1.464.098/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 10/10/2017, DJe de 20/10/2017.)
+Com efeito, ausente impugnação ao óbice relativo à incidência da Súmula n. 7/STJ, mostra-se inviável o conhecimento do presente agravo em recurso especial.
+Especificamente em relação à incidência da Súmula n. 7/STJ, não basta a parte sustentar genericamente a não aplicação do óbice, sem explicitar, à luz da moldura fática delineada no acórdão recorrido e da tese jurídica trazida no recurso especial, de que maneira a análise da pretensão recursal não dependeria do reexame fático-probatório.
+Esse ônus processual implica um procedimento argumentativo por meio do qual se deve demonstrar que a análise do objeto recursal demandaria tão somente a aplicação de uma outra forma jurídica aos fatos já estabelecidos pelo Tribunal de origem.
+No caso em tela, o Tribunal de Justiça de Minas Gerais, com amparo nos elementos de convicção coligidos aos autos, concluiu que a residência do agravado em área limítrofe à Zona de Autossalvamento (ZAS) é suficiente para caracterizar a exposição aos efeitos diretos do rompimento da barragem, configurando dano moral presumido e tornando desnecessária a realização de prova pericial médica.
+Para desconstituir tal premissa fática e acolher a tese recursal de imprescindibilidade da perícia, com o intuito de afastar a ocorrência do abalo reconhecido pela origem, seria inarredável a revisão de todo o contexto probatório do processo, providência incompatível com a via especial
+É necessário, portanto, o enfrentamento dos elementos fáticos textualmente recortados do acórdão recorrido como premissa necessária ao argumento de que a qualificação jurídica concluída pelo Colegiado estadual não espelha o melhor direito a ser aplicado ao caso.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. RAZÕES GENÉRICAS. PRINCÍPIO DA DIALETICIDADE. MAJORAÇÃO DE HONORÁRIOS. IMPOSSIBILIDADE. AGRAVO INTERNO.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 932, III, do Código de Processo Civil).
+2. No tocante às Súmulas nºs 5 e 7/STJ, não basta a parte sustentar genericamente a não aplicação dos óbices, sem explicitar, à luz do contexto fático delineado no acórdão e da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame fático-probatório ou da análise das cláusulas contratuais.
+ ..
+(AgInt no AREsp n. 2.753.530/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/12/2024, DJEN de 20/12/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE RESCISÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. INDENIZAÇÃO. DANOS MATERIAIS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC (ART. 544, § 4º, I, DO CPC/73). AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (544, § 4º, I, do CPC/73), não impugna os fundamentos da respectiva inadmissibilidade (incidência das Súmulas n.ºs 5 e 7 do STJ e 284 do STF).
+3. Não basta para considerar "especificamente impugnados" os fundamentos da decisão recorrida a mera transcrição de súmulas ou reprodução de dispositivos legais violados. Necessário, além das indicações expressas e claras, a sua vinculação aos fatos tal como analisados pelo acórdão ou decisão para então, mediante enfrentamento dialético desse conjunto de permissivos constitucionais em face do exame soberano do material de cognição pela Corte estadual, se chegar ao almejado entendimento de que a classificação jurídica concluída não espelha o melhor direito ao caso.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.925.017/SC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/9/2022, DJe de 8/9/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO NÃO INFIRMADO ESPECIFICAMENTE. ARTIGO 1.021, § 1º, CPC/2015.
+1. Trata-se de Agravo Interno contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do Agravo em Recurso Especial por ausência de refutação específica a um dos fundamentos do juízo de admissibilidade (Súmula 7/STJ).
+2. Da leitura atenta do Agravo em Recurso Especial (fls. 154-160, e-STJ) verifica-se tópico específico (IV - DO REEXAME DE FATOS E PROVAS). Contudo, a genérica reclamação de que "todos os fatos constam do próprio acórdão recorrido", ou de que "não se verifica a aplicação do óbice da súmula 7 do STJ, ante a natureza exclusivamente jurídica das questões", não pode ser considerada ataque aos fundamentos da decisão de inadmissibilidade.
+3. A impugnação da Súmula 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica atribuída pelo Tribunal de origem e a apreciação jurídica que lhes deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não em simplesmente reiterar o Recurso Especial.
+4. Agravo Interno não provido.
+(AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 31/5/2021, DJe de 1/7/2021.)
+Nas razões do agravo em recurso especial não se verifica a estrutura argumentativa descrita acima. Portanto, não se materializou a impugnação específica e suficiente do óbice, impondo-se, assim, a manutenção da decisão agravada.
+Ante o exposto, não conheço do agravo em recurso especial por incidência da Súmula n. 182/STJ.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, em 2% sobre o percentual já arbitrado ou em 10% se a verba houver sido fixada em valor líquido, tudo nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
