@@ -1,0 +1,96 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial na origem com fundamento no óbice da Súmula n. 83 do STJ.
+Segundo a parte agravante, a insurgência preenche os requisitos necessários ao conhecimento e provimento do recurso especial interposto em face do acórdão assim ementado:
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA PARCIALMENTE ACOLHIDA. PRETENSÃO DE APLICAÇÃO DA TAXA SELIC COMO FATOR DE CORREÇÃO DA DÍVIDA APÓS A CITAÇÃO. IMPOSSIBILIDADE. VIOLAÇÃO À COISA JULGADA. PREVISÃO EXPRESSA DE ÍNDICE DE CORREÇÃO MONETÁRIA E DE JUROS DE MORA NA SENTENÇA EM CUMPRIMENTO EM TERMOS DIVERSOS. CONDENAÇÃO EM HONORÁRIOS DE SUCUMBÊNCIA PELO PARCIAL ACOLHIMENTO DA IMPUGNAÇÃO DEVIDA. AUSÊNCIA DE LITIGIOSIDADE DIANTE DO PRONTO RECONHECIMENTO DO ERRO DE CÁLCULO QUE IMPÕE A REDUÇÃO DA CONDENAÇÃO NA FORMA DO ART. 90, § 4º, CPC. INTERPRETAÇÃO TELEOLÓGICA DA NORMA PROCESSUAL. PRECEDENTES. RECURSO PARCIALMENTE PROVIDO. I. CASO EM EXAME 1. Agravo de instrumento interposto pelos executados em busca de reforma da decisão que acolheu parcialmente a impugnação ao cumprimento de sentença para limitar os honorários advocatícios de sucumbência em 12,65% sobre o valor da causa, afastando a aplicação da taxa Selic como fator de correção após a citação. II. QUESTÃO EM DISCUSSÃO 2. A questão em discussão consiste em saber se: (i) é possível a aplicação da taxa Selic, mesmo com expressa previsão no título judicial de índice de correção monetária diverso e juros de mora; e (ii) o parcial acolhimento da impugnação ao cumprimento de sentença autoriza a condenação da exequente aos honorários de sucumbência referentes ao excesso de execução. III. RAZÕES DE DECIDIR3. O título judicial, firmado já sob a égide do Código Civil de 2002, expressamente estabeleceu os índices aplicáveis aos consectários da condenação. Vedação à rediscussão em fase de cumprimento de sentença. Aplicação da taxa Selic em substituição do fixado na sentença não admitida, sob pena de ofensa à coisa julgada (CPC, art. 507). 4. O acolhimento da impugnação ao cumprimento de sentença, com a redução do , é fato jurídico bastante aoquantum debeatur arbitramento de honorários sucumbenciais, na forma do art. 85 do CPC. É irrelevante à imposição de decaimento, no mais, a falta de demonstração de dolo ou má-fé da exequente ou a inocorrência de dano objetivo pelo pagamento em excesso. 5. O pronto reconhecimento pela exequente do excesso de execução alegado na impugnação ao cumprimento de sentença autoriza, contudo, o arbitramento dos honorários advocatícios sobre o excedente reduzido pela metade, em interpretação teleológica do art. 90, § 4º, do CPC. IV. DISPOSITIVO E TESE 7. . Recurso conhecido e parcialmente provido Teses de julgamento: (i) Nos casos de cumprimento de sentença, a rediscussão dos índices de correção monetária e juros estabelecidos no título judicial é vedada, sob pena de ofensa à coisa julgada. (ii) Condenação em honorários de sucumbência devida pelo acolhimento parcial da impugnação ao cumprimento de sentença, aplicada a redução prevista no art. 90, § 4º, do CPC quando de pronto reconhecido e corrigido o excesso de execução pelo exequente.
+EMENTA DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. JULGADO QUE NÃO SE RESSENTE DE VÍCIO A JUSTIFICAR MANIFESTAÇÃO SANEADORA. REJEIÇÃO. I. CASO EM EXAME 1. Embargos de declaração opostos a acórdão que deu parcial provimento ao agravo de instrumento interposto pelos embargantes, afastando a possibilidade de aplicação da taxa Selic em substituição ao que fixado na sentença, sob pena de ofensa à coisa julgada. II. QUESTÕES EM DISCUSSÃO 2. A questão em discussão cinge-se a saber se o acórdão embargado padece de algum vício sanável pela via dos embargos de declaração. III. RAZÕES DE DECIDIR 3. Os embargos de declaração constituem, como se sabe, instrumento destinado a qualificar o julgado, e não a questionar a correção e a justiça do julgado e obter a sua revisão fora das hipóteses do art. 1.022 ou das condutas do art. 489, § 1º, ambos do CPC. 4. Omissão. Não ocorrência. Acórdão embargado que clara, congruente e suficientemente tratou da matéria posta a julgamento, bem acentuando os motivos de fato e de direito pelos quais se concluiu pela manutenção dos índices de correção monetária e juros de mora definidos na sentença em cumprimento, sob pena de ofensa à coisa julgada. 5. A discordância da parte com a análise fática e jurídica adotada a embasar a decisão que não dá ensejo aos declaratórios ou à revisão do julgado até que se conclua como querem os embargantes, a despeito do que insistem em sustentar na via inadequada. IV. DISPOSITIVO 6. Embargos de declaração conhecidos e rejeitados.
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil (CPC), a parte agravada afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado.
+É o relatório.
+DECIDO.
+O agravo é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil, encontra-se formalmente em ordem e impugnou específica e suficientemente os óbices invocados pela decisão de inadmissibilidade na origem, razão pela qual passo ao exame do recurso especial, que foi interposto com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal.
+1) Do Recurso Especial interposto por MARZA ENGENHARIA ELÉTRICA LTDA
+A parte recorrente alega violação ao seguinte dispositivo legal: artigo 406 do Código Civil. Aduz que, diante da alteração legislativa promovida pela Lei 14.905/24, os critérios de correção monetária e juros deveriam ser modificados, passando a incidir a taxa Selic.
+Em relação à alegada violação ao art. 406 do Código Civil, a análise dos autos indica que a Corte de origem adotou entendimento alinhado à jurisprudência do Superior Tribunal de Justiça, o que atrai a incidência da Súmula n. 83/STJ.
+Quanto ao tema, esta Corte Superior vem se manifestando da seguinte forma:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. TAXA SELIC. IMPOSSIBILIDADE DE SUBSTITUIÇÃO DOS ÍNDICES FIXADOS EM TÍTULO EXECUTIVO. AFRONTA À COISA JULGADA. INCIDÊNCIA DAS SÚMULAS 7 E 83/STJ. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto por Maurício Dal Agnol contra decisão do Tribunal de origem que inadmitiu recurso especial manejado em cumprimento de sentença. A parte agravante alegou necessidade de aplicação da Taxa Selic como juros de mora e correção monetária, em substituição aos índices fixados no título executivo.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se é possível substituir, na fase de cumprimento de sentença, os índices de correção monetária e juros moratórios fixados no título executivo judicial pela Taxa Selic, sem violar a coisa julgada, e se a pretensão recursal demanda reexame fático-probatório, vedado em recurso especial.
+III. RAZÕES DE DECIDIR
+3. A alteração dos critérios de juros e correção monetária fixados no título executivo, em fase de cumprimento de sentença, configura violação à coisa julgada, sendo vedada pela jurisprudência consolidada do STJ. (grifei)
+4. O acórdão recorrido está em conformidade com a jurisprudência do STJ, o que atrai a aplicação da Súmula 83/STJ.
+5. O exame da tese recursal demanda reanálise do conjunto fático-probatório e confronto do título executivo judicial com o acórdão recorrido, providência inviável em recurso especial em razão da Súmula 7/STJ.
+6. A ausência de impugnação específica aos fundamentos da decisão agravada e a falta de precedentes contemporâneos a seu favor impedem a superação dos óbices sumulares, mantendo-se a inadmissibilidade do recurso.
+IV. DISPOSITIVO
+7. Agravo em recurso especial não conhecido.
+(AREsp n. 2.417.446/RS, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 3/11/2025, DJEN de 6/11/2025.)
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ACÓRDÃO DO TRIBUNAL DE ORIGEM. OMISSÃO. INEXISTÊNCIA. COISA JULGADA. AFASTAMENTO. IMPOSSIBILIDADE. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Não é omisso o julgamento que aborda completamente a questão em disputa, apresentando razões bem articuladas para sustentar a decisão tomada.
+2. O colegiado de origem assentou que a sentença exequenda fixou de forma clara a correção monetária e os juros moratórios.
+3. A aplicação da Taxa SELIC como critério de correção monetária e juros legais, conforme o art. 406 do Código Civil, não pode ser realizada na fase de cumprimento de sentença, caso o título judicial tenha fixado outro índice, sob pena de violação à coisa julgada e à segurança jurídica.
+4. Agravo conhecido para negar provimento ao recurso especial.
+(AREsp n. 2.398.327/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 4/5/2026, DJEN de 12/5/2026.)
+Assim, o recurso não merece conhecimento no ponto.
+2) Do Recurso Especial interposto por TRAVESSIA SECURITIZADORA DE CRÉDITOS FINANCEIROS X SA.
+A parte recorrente alega violação ao seguinte dispositivo legal: artigo 90, § 4º, do CPC.
+Sustenta o recorrente que não estão presentes os requisitos para fixação de honorários de sucumbência em cumprimento de sentença diante de mero equívoco aritmético no tocante ao percentual de honorários de sucumbência majorados em recurso.
+Contudo, em relação à alegada violação ao(s) art(s). 90, § 4º, do CPC, a análise dos autos indica que a Corte de origem adotou entendimento alinhado à jurisprudência do Superior Tribunal de Justiça, o que atrai a incidência da Súmula n. 83/STJ.
+Quanto ao tema, esta Corte Superior vem se manifestando da seguinte forma:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO, NA ORIGEM. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. INDICAÇÃO DE ERRO NO CÁLCULO DO DÉBITO. ACOLHIMENTO. HONORÁRIOS SOBRE O PROVEITO ECONÔMICO. JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO IMPROVIDO.
+1. "Conforme entendimento sedimentado nesta Corte Superior, é cabível a fixação de honorários sucumbenciais no caso em que o acolhimento da exceção de pré-executividade implicar extinção, parcial ou total, do débito" (EDcl no REsp 1.854.475/SP, Relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 10/8/2021, DJe de 16/8/2021).
+2. Na hipótese em que o erro de cálculo do débito, constante da inicial do cumprimento de sentença, só é corrigido porque o executado, mediante advogado, comparece nos autos para apontar o vício, impõe-se a remuneração do causídico, ante o acolhimento do pedido formulado na petição (exceção de pré-executividade). (grifei)
+3. Agravo interno improvido.
+(AgInt no REsp n. 2.113.623/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/6/2024, DJe de 27/6/2024.)
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. CONDENAÇÃO SOLIDÁRIA. HONORÁRIOS DE SUCUMBÊNCIA. RECURSO PARCIALMENTE PROVIDO.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do TJSP que negou provimento a agravo de instrumento em cumprimento provisório de sentença, mantendo a condenação solidária de duas empresas ao pagamento de pensão mensal vitalícia e afastando a alegação de duplicidade de pagamento.
+II. Questão em discussão
+2. Há duas questões em discussão: (i) saber se a inclusão simultânea da autora em folha de pagamento de ambas as empresas executadas caracteriza duplicidade de pagamento ou enriquecimento sem causa; e (ii) saber se é obrigatória a fixação de honorários de sucumbência em razão do parcial acolhimento da impugnação ao cumprimento de sentença.
+III. Razões de decidir
+3. A decisão que condenou as empresas, de forma solidária, ao pagamento de pensão mensal com inclusão do recorrido em folha de pagamento, determinou que as empresas organizassem entre si a forma de cumprimento da obrigação, não havendo que se falar em duplicidade de pagamentos.
+4. A fixação de honorários de sucumbência é obrigatória em qualquer decisão que implique sucumbência, ainda que parcial, nos termos do art. 85 do CPC/2015, sendo matéria de ordem pública e devendo ser arbitrada de ofício pelo magistrado. (grifei)
+5. A ausência de fixação de honorários na sentença transitada em julgado não impede sua cobrança, podendo ser suprida no curso do processo ou por ação autônoma, conforme jurisprudência do STJ.
+6. A alegação de violação aos princípios da razoabilidade e proporcionalidade, bem como aos demais dispositivos legais invocados, foi apresentada de forma genérica, atraindo a incidência da Súmula 284 do STF.
+IV. Dispositivo
+7. Resultado do Julgamento: Recurso parcialmente provido para fixar os honorários de sucumbência em R$ 7.000,00.
+(AREsp n. 2.719.636/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/11/2025, DJEN de 10/11/2025.)
+RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. FORNECIMENTO DE MEDICAMENTOS NÃO REGISTRADOS NA ANVISA. LIMINAR DEFERIDA E CONFIRMADA NA SENTENÇA. REFORMA PARCIAL DA SENTENÇA PELO TRIBUNAL DE ORIGEM. CUMPRIMENTO DE SENTENÇA. COBRANÇA DOS VALORES DESPENDIDOS PELA OPERADORA DO PLANO DE SAÚDE COM O CUMPRIMENTO DA DECISÃO LIMINAR PARCIALMENTE REVOGADA. NATUREZA ESSENCIAL E IMPRESCINDÍVEL DA OBRIGAÇÃO IMPUTADA À OPERADORA DO PLANO DE SAÚDE. RECEBIMENTO DE BOA-FÉ PELO BENEFICIÁRIO. OBRIGAÇÃO DE RESTITUIR VALORES AFASTADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. ACOLHIMENTO DA IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. HONORÁRIOS DE SUCUMBÊNCIA. CABIMENTO.
+I. Hipótese em exame
+1. Ação de obrigação de fazer julgada parcialmente procedente e, atualmente, em fase de cumprimento de sentença para cobrança dos valores despendidos pela operadora do plano de saúde com o cumprimento da decisão liminar, posteriormente revogada.
+II. Questão em discussão
+2. O propósito recursal é decidir sobre (i) o dever de reparação do prejuízo que a efetivação da decisão liminar, parcialmente revogada, causou à operadora do plano de saúde; (ii) a negativa de prestação jurisdicional; e (iii) o arbitramento de honorários advocatícios na impugnação ao cumprimento de sentença.
+III. Razões de decidir
+3. A Segunda Turma do STF decidiu que "a natureza essencial e imprescindível, segundo laudo médico pericial, para assegurar o direito à vida e à saúde da segurada, bem como o recebimento, de boa-fé, dos produtos e serviços de saúde, afastam a obrigação de restituição dos valores" (RE 1319935 AgR-ED, Relator(a): EDSON FACHIN, Segunda Turma, julgado em 19-09-2023, PROCESSO ELETRÔNICO DJe-s/n DIVULG 20-10-2023 PUBLIC 23-10-2023), entendimento seguido pela Terceira Turma (REsp 2.162.984/SP, Terceira Turma, julgado em 1/4/2025, DJEN de 4/4/2025).
+4. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+5. A jurisprudência desta Corte, seguindo a linha do Tema 410/STJ, reafirmou, na vigência do atual CPC, o entendimento de que "a fixação dos honorários em favor dos advogados da parte executada/impugnante é possível quando o acolhimento da impugnação ao cumprimento de sentença, ainda que parcial, resultar na extinção do procedimento executivo ou na redução do montante executado" (AgInt no AREsp 2.536.348/RS, Quarta Turma, DJe 5/9/2024; AgInt no REsp n. 2.166.578/PR, Terceira Turma, DJEN de 19/12/2024). (grifei)
+IV. Dispositivo
+6. Recursos especiais conhecidos, desprovido o da operadora e provido o do beneficiário.
+(REsp n. 2.211.567/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4/11/2025, DJEN de 7/11/2025.)
+Assim, o recurso não merece conhecimento no ponto.
+Por fim, incidentes os óbices apontados acima quanto à pretensão recursal aduzida sob o prisma da alínea "a" do permissivo constitucional, resta prejudicada a análise da mesma pretensão pela alínea "c".
+Nesse sentido:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. REVISÃO DE BENEFÍCIO. TETOS DAS EMENDAS CONSTITUCIONAIS 20/98 E 41/03. FORMA DE CÁLCULO. COEFICIENTE DE PROPORCIONALIDADE. CÁLCULO DO BENEFÍCIO. MOMENTO DA APLICAÇÃO. QUESTÃO DIRIMIDA SOB ENFOQUE EMINENTEMENTE CONSTITUCIONAL. USURPAÇÃO DA COMPETÊNCIA DO STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem fundamentou a decisão com base no acórdão proferido pelo Supremo Tribunal Federal, em repercussão geral, no RE 564.354/SE, razão pela qual descabe ao STJ se manifestar sobre a controvérsia recursal, sob pena de invadir a competência do STF.
+2. Assim, considerando que a tese recursal diz respeito à matéria analisada na origem à luz de fundamento constitucional, o con hecimento da matéria envolve, obrigatoriamente, o enfrentamento de matéria constitucional, inviável em recurso especial, sob pena de usurpação da competência do STF prevista no art. 102 da CRFB/88.
+3. Resta prejudicada a análise da alegada existência de divergência jurisprudencial, pela alínea "c" do permissivo constitucional, considerando o não conhecimento do recurso especial pela alínea "a".
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.079.972/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. TEMA N. 988 DO STJ. TAXATIVIDADE MITIGADA DO ART. 1.015 DO CPC. URGÊNCIA E REEXAME DE PROVAS. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática da Presidência que não conheceu do recurso especial por aplicação da Súmula n. 284 do STF.
+2. A controvérsia envolve embargos à execução e discute a possibilidade de agravo de instrumento contra indeferimento de complementação de prova pericial, nova prova pericial e prova oral, com valor da causa de R$ 2.590.427,02.
+3. A Corte de origem deu provimento ao agravo de instrumento para permitir a instrução probatória e rejeitou os embargos de declaração.
+II. QUESTÃO EM DISCUSSÃO
+4. Há duas questões em discussão: (i) saber se o recurso especial indicou de forma clara, expressa e precisa os dispositivos legais violados e apresentou cotejo analítico suficiente para afastar a Súmula n. 284 do STF; e (ii) saber se a controvérsia é exclusivamente de direito, sem reexame de provas, envolvendo a correta aplicação do Tema n. 988 do STJ acerca da taxatividade mitigada do art. 1.015 do CPC.
+III. RAZÕES DE DECIDIR
+5. A Súmula n. 284 do STF não incide, pois as razões do recurso especial permitem a exata compreensão da controvérsia;
+reconsidera-se o óbice formal inicialmente aplicado.
+6. O exame da alegada ausência de urgência para a recorribilidade imediata demanda revaloração do conjunto fático-probatório, o que atrai a Súmula n. 7 do STJ e impede o conhecimento do recurso especial.
+7. Incidindo a Súmula n. 7 do STJ quanto à alínea a do art. 105, III, da Constituição Federal, resta prejudicada a análise da divergência jurisprudencial pela alínea c sobre o mesmo tema.
+IV. DISPOSITIVO E TESE
+8. Agravo interno desprovido.
+ ..
+(AgInt no AREsp n. 3.025.310/SC, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 9/3/2026, DJEN de 12/3/2026.)
+Ante o exposto, conheço dos agravos para não conhecer dos recursos especiais.
+Publique-se. Intimem-se.
+ EMENTA
