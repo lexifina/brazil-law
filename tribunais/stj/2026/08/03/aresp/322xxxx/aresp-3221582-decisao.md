@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual MUNICÍPIO DE BELO HORIZONTE se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado (fl. 1666):
+APELAÇÃO CÍVEL - CUMPRIMENTO DE SENTENÇA - FAZENDA PÚBLICA - RPV - FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS CONDICIONADA À DEMONSTRAÇÃO DE QUE A EXECUÇÃO FOI IMPUGNADA - IMPOSSIBILIDADE - TESE FIRMADA NO RESP Nº 2.029.636/SP (TEMA 1.190) - MODULAÇÃO DE EFEITOS.
+I - O Superior Tribunal de Justiça, sob o cogente rito do recurso repetitivo (REsp nº 2.029.636/SP - Tema nº 1190), fixou tese no sentido de que: "na ausência de impugnação à pretensão executória, não são devidos honorários advocatícios sucumbenciais em cumprimento de sentença contra a Fazenda Pública, ainda que o crédito esteja submetido a pagamento por meio de Requisição de Pequeno Valor - RPV", modulando os seus efeitos apenas "nos cumprimentos de sentença iniciados após a publicação" do acórdão.
+II - Considerando que o cumprimento de sentença para pagamento de RPV foi iniciado antes da publicação do acordão do Terma nº 1.190, cabível a fixação de honorários advocatícios sucumbenciais independentemente de sua impugnação.
+Os embargos de declaração opostos foram rejeitados (fls. 1701/1719).
+A parte recorrente alega violação do art. 1.022 do Código de Processo Civil, por entender que o Tribunal de origem não analisou a aplicação do art. 85, § 7º do CPC e do art. 1º-D da Lei 9.494/1997 ao caso.
+Sustenta ofensa ao art. 1.026, § 2º, do Código de Processo Civil, por entender que não deveria ter havido aplicação de multa pela oposição de embargos de declaração sem cunho protelatório com finalidade de prequestionamento.
+Contrarrazões apresentadas às fls. 1738/1749.
+O recurso foi inadmitido (fls. 1752/1754), razão pela qual foi interposto o agravo ora examinado (fls. 1757/1763).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Discute-se sobre a possibilidade de condenação em honorários advocatícios em cumprimento de sentença para satisfação de crédito sujeito a Requisição de Pequeno Valor.
+Inexiste a alegada violação do art. 1.022 e do art. 489 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, tendo o Tribunal de origem apreciado fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+A parte recorrente sustenta omissão da instância ordinária no tocante à aplicação do art. 85, § 7º do CPC e do art. 1º-D da Lei 9.494/1997 ao caso.
+Todavia, conforme se depreende da análise do acórdão recorrido, o Tribunal de origem, de modo expresso, fundamentado e coeso, enfrentou cada um dos pontos supostamente omissos, tendo concluído que o Tema 1190 do Superior Tribunal de Justiça afasta a necessidade de intimação prévia para cumprimento espontâneo e autoriza a fixação de honorários nas execuções por Requisição de Pequeno Valor iniciadas antes de 01/07/2024 e não impugnadas, bem como que não se aplicam ao caso os dispositivos mencionados (fl. 1705).
+É importante ressaltar que o contraponto aos argumentos das partes não demanda a citação literal de suas palavras ou dos mesmos dispositivos legais. É suficiente que haja fundamentação fática e jurídica coerente e adstrita ao que se debate nos autos.
+Por fim, no que se refere à multa aplicada com base no art. 1.026, § 2º, do Código de Processo Civil, a pretensão recursal merece acolhimento.
+O Superior Tribunal de Justiça possui entendimento consolidado de que a sanção por embargos de declaração protelatórios exige a demonstração inequívoca do intuito de procrastinar o feito, o que não se verifica quando o recurso visa ao prequestionamento de dispositivos legais para o acesso às instâncias superiores.
+A oposição de aclaratórios com notório propósito de prequestionamento não caracteriza intuito protelatório, conforme o enunciado da Súmula 98/STJ: "Embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório". A aplicação da multa não deve ser automática, mas fundamentada em elementos concretos que demonstrem o dolo processual.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE VÍCIOS. MULTA DO ART. 1.026, § 2º, DO CPC/2015. SÚMULA 98/STJ NÃO APLICÁVEL À ESPÉCIE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DAS DEMAIS QUESTÕES RECORRIDAS. SÚMULA 182/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. À vista da matéria devolvida, conclui-se que o Tribunal a quo se manifestou de forma fundamentada, não incorrendo na apontada afronta aos arts. 489 e 1.022 do CPC/2015. A aplicação do direito ao caso, ainda que por solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+3. Quanto ao art. 1.026, § 2º, do CPC/2015, é certo que não cabe a referida multa na hipótese de oposição dos aclaratórios, tão somente para fins de prequestionamento, como estabelece a Súmula 98/STJ. Todavia, essa hipótese não é o caso dos autos, porquanto as alegações trazidas nos embargos opostos consecutivamente por três vezes retornam à mesma tese recursal, a respeito da qual a Corte a quo já apreciara de forma fundamentada e reiterada nos acórdãos proferidos anteriormente à oposição dos terceiros embargos.
+4. A falta de impugnação específica de fundamento da decisão contra a qual a agravante se insurge impõe o não conhecimento do recurso no ponto, nos termos da Súmula 182/STJ. Precedentes.
+5. Agravo interno parcialmente conhecido e não provido.
+(AgInt no AgInt no AREsp n. 2.829.578/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/11/2025, DJEN de 7/11/2025.)
+Ante o exposto, conheço do agravo e dou parcial provimento ao recurso especial para afastar a multa prevista no art. 1.026, § 2º, do CPC, imposta pelo Tribunal de origem.
+Publique-se. Intimem-se.
+EMENTA
