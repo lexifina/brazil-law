@@ -1,0 +1,10 @@
+Solução de Consulta Cosit nº 124, de 31 de julho de 2026
+Assunto: Contribuições Sociais Previdenciárias
+CONTRIBUIÇÃO PARA O FINANCIAMENTO DOS BENEFÍCIOS CONCEDIDOS EM RAZÃO DO GRAU DE INCIDÊNCIA DE INCAPACIDADE LABORATIVA DECORRENTE DOS RISCOS AMBIENTAIS DO TRABALHO - GILRAT. GRAU DE RISCO DE ACIDENTES DO TRABALHO. ATIVIDADE ECONÔMICA PREPONDERANTE.
+Compete à empresa promover o enquadramento de cada um dos seus estabelecimentos no correspondente grau de risco de acidentes do trabalho, de acordo com a sua atividade econômica preponderante, ou seja, aquela que ocupa, em cada estabelecimento da empresa, o maior número de segurados empregados e trabalhadores avulsos. O enquadramento no correspondente grau de risco do estabelecimento, seja ele matriz ou filial, não tomará por base a sua atividade econômica principal, mas sim a atividade econômica preponderante em cada um dos estabelecimentos, inclusive obras de construção civil. Em cada um dos estabelecimentos da empresa, seja ele matriz ou filial, deverá se identificar a atividade preponderante ali desempenhada, e essa identificação não terá consequência em relação ao código da Classificação Nacional de Atividades Econômicas - CNAE da atividade principal da empresa.
+O Sistema de Escrituração Digital das Obrigações Fiscais, Previdenciárias e Trabalhistas - eSocial gera a alíquota do GILRAT de acordo com o código da CNAE relativo à atividade preponderante informada, eis que é literalmente o que a legislação orienta, nos termos do art. 43, § 1º, inciso I, e Anexo I da Instrução Normativa RFB nº 2.110, de 2022.
+SOLUÇÃO DE CONSULTA PARCIALMENTE VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 28, DE 25 DE MARÇO DE 2020 E À SOLUÇÃO DE CONSULTA COSIT Nº 90, DE 14 DE JUNHO DE 2016.
+Dispositivos legais: Lei nº 8.212, de 24 de julho de 1991, art. 22, inciso II, Decreto nº 3.048, de 6 de maio de 1999, Anexo V e art. 202, § 3º; Instrução Normativa RFB nº 2.110, de 17 de outubro de 2022, Anexo I e art. 43, inciso II e §1º.
+[arquivo anexo: SC Cosit nº 124-2026.pdf]
+RODRIGO AUGUSTO VERLY DE OLIVEIRA
+Coordenador-Geral
