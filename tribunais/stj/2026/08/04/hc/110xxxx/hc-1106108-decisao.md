@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de WILSILENIO LOPES DOS SANTOS JUNIOR, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO, em decorrência do julgamento da apelação criminal n. 0802208-92.2025.8.10.0033.
+Consta nos autos que o paciente foi inicialmente condenado pelo Juízo da Primeira Vara da Comarca de Colinas à pena de 5 (cinco) anos de reclusão, em regime inicial fechado, além de 500 (quinhentos) dias-multa, por infração ao artigo 33, caput, da Lei n. 11.343/2006, sem substituição da pena por restritivas de direitos, sem suspensão condicional da pena e sem o direito de recorrer em liberdade (fls. 13-15).
+A defesa apelou ao Tribunal de Justiça do Estado do Maranhão, que negou provimento ao recurso (fls. 10-22).
+Na presente impetração, sustenta a defesa a necessidade de reconhecimento da ilegalidade da manutenção da prisão preventiva, diante da ausência de elementos concretos que evidenciem a gravidade da conduta.
+Afirma não existir, nos autos, qualquer fato novo ou contemporâneo que justifique a atual necessidade da custódia cautelar, em manifesta violação ao disposto nos artigos 312, § 2º, e 315 do Código de Processo Penal, conforme redação introduzida pela Lei nº 13.964/2019.
+Requer, ao final, a revogação da prisão preventiva.
+Liminar indeferida às fls. 102-103.
+Informações prestadas às fls. 106-131 e 135-161.
+O Ministério Público Federal, às fls. 166-173, manifestou-se pelo não conhecimento da ordem.
+É o relatório. DECIDO.
+No presente caso, a análise da sentença condenatória que manteve a prisão preventiva evidencia que a medida encontra-se devidamente fundamentada para a garantia da ordem pública, em razão da gravidade concreta da conduta imputada ao paciente, que foi flagrado por policiais, em tese, praticando o crime de tráfico de drogas após investigações prévias que apontavam o exercício da atividade ilícita no posto de combustível onde trabalhava durante o período noturno, ocasião em que, após a abordagem, os agentes em diligência contínua e ininterrupta deslocaram-se até sua residência situada nas proximidades, onde apreenderam 23 (vinte e três) pinos de cocaína, aproximadamente 20 (vinte) gramas de maconha, uma balança de precisão e a quantia de R$ 277,00 (duzentos e setenta e sete reais) em espécie, circunstâncias que revelam indícios de dedicação habitual à atividade criminosa e demonstram a indispensabilidade da segregação cautelar - fl. 111.
+Sobre o tema:
+"A gravidade concreta da conduta, evidenciada pela apreensão de expressiva quantidade de droga fracionada para venda, apetrechos que indicam dedicação à atividade criminosa e confissão informal sobre tráfico intermunicipal, demonstra a periculosidade do agente e o risco de reiteração delitiva" (AgRg no HC n. 1.019.668/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 4/11/2025.)
+"A prisão preventiva está devidamente fundamentada em elementos concretos, consistentes na apreensão de significativa quantidade de drogas, acompanhadas de balança de precisão, dinheiro em espécie e telefone celular, circunstâncias que evidenciam a gravidade concreta da conduta.
+A presença de petrechos típicos da atividade de tráfico e o contexto fático demonstram risco à ordem pública, legitimando a segregação cautelar nos termos do art. 312 do CPP"(AgRg no HC n. 1.010.727/SP, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, DJEN de 25/8/2025.)
+Nesse sentido, confiram-se alguns precedentes: AgRg no RHC n. 196.021/DF, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 3/6/2024; AgRg no RHC n. 193.763/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 12/4/2024.
+Destacou, ainda, a sentença condenatória ao negar o direito de recorrer em liberdada a necessidade de manutenção da medida extrema para assegurar a aplicação da lei penal, haja vista que o Réu não tem vínculo com o distrito da culpa, salvo o emprego em posto de gasolina, o qual não há informação de que foi mantido. Além disso, não soube indicar o endereço da casa em que tem domicílio - fl. 72.
+Com efeito, a jurisprudência desta Corte Superior de Justiça entende que o risco de fuga do distrito da culpa e a dificuldade de localização do investigado, evidenciam risco concreto à aplicação da lei penal.
+A propósito:
+"A evasão do distrito da culpa e as reiteradas tentativas frustradas de localização da agravante constituem fundamento idôneo para a prisão preventiva voltada à garantia da aplicação da lei penal" (AgRg no RHC n. 229.895/MG, relator Ministro Og Fernandes, Sexta Turma, DJEN de 23/6/2026.)
+"O entendimento desta Quinta Turma é no sentido de que "a gravidade concreta da conduta e a evasão do distrito da culpa justificam a medida extrema, nos termos do art. 312 do Código de Processo Penal, como forma de garantir a ordem pública e assegurar a aplicação da lei penal" (AgRg no HC n. 1.013.482/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJEN de 14/8/2025.)
+Por fim, no tocante a alegação de ausência de contemporaneidade da medida, verifica-se que tal matéria não foi alvo de deliberação pelo Tribunal de origem, circunstância que impede qualquer manifestação desta Corte Superior de Justiça sobre o tópico, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância.
+A propósito:
+"O Tribunal de origem não analisou a matéria trazida pela defesa, o que impede a apreciação direta pelo STJ, sob pena de supressão de instância" (AgRg no RHC n. 211.183/PE, de minha relatoria, Quinta Turma, DJEN de 28/4/2025).
+"Não debatida a questão pela Corte de origem, é firme o entendimento de que fica obstada sua análise, em princípio, pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância e de violação dos princípios do duplo grau de jurisdição e do devido processo legal" (AgRg nos EDcl no HC n. 955.826/ES, relator Ministro Og Fernandes, Sexta Turma, DJEN de 12/3/2025).
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, denego o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
