@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por KAIO ALVES DE SOUZA contra decisão monocrática de fls. 127-131, que denegou a ordem no habeas corpus.
+Nas razões dos embargos, a defesa alega que não houve supressão de instância, pois a prisão preventiva foi decretada diretamente pelo Tribunal de Justiça do Estado do Acre ao julgar recurso em sentido estrito, o que autoriza este Superior Tribunal a revisar integralmente a legalidade da medida e a apreciar, desde logo, medidas cautelares alternativas e a prisão domiciliar.
+Argumenta que há contradição e omissão na manutenção da prisão apenas com base na quantidade de drogas apreendidas, sem elementos adicionais que demonstrem periculosidade concreta, em afronta ao art. 312, § 4º, do CPP.
+Defende que houve omissão quanto à contemporaneidade, porque a prisão foi decretada após quase um ano de liberdade com monitoramento eletrônico, sem incidentes, contrariando os arts. 312, § 2º, do CPP e 315, § 1º, do CPP.
+Expõe que a decisão é omissa sobre a suficiência de medidas cautelares diversas da prisão, previstas no art. 319 do CPP, apesar do histórico de cumprimento das cautelares por quase um ano.
+Requer, ao final, o acolhimento dos aclaratórios, para sanar o suposto vício apontado, com a correspondente repercussão jurídica.
+É o relatório.
+Os embargos de declaração são cabíveis somente nas hipóteses previstas no art. 619 do Código de Processo Penal, quando houver na decisão embargada ambiguidade, obscuridade, contradição ou omissão, tendo a jurisprudência os admitido, também, para sanar eventual erro material na decisão embargada.
+São inadmissíveis, portanto, quando a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada objetivam, em essência, novo julgamento do caso, hipótese que não se coaduna com a via estreita dos embargos declaratórios.
+No caso, é inviável o acolhimento da pretensão recursal. A decisão embargada não se baseou em referência abstrata à gravidade do delito, mas em elemento concreto extraído dos autos, consistente na apreensão de expressiva quantidade de cocaína  59,125 kg  , dado que evidencia a gravidade concreta da conduta e justifica a necessidade de preservação da ordem pública, nos termos do art. 312 do CPP.
+Na ocasião, reconheceu-se que as medidas cautelares diversas previstas no art. 319 do CPP são insuficientes diante dos fundamentos concretos que amparam a custódia cautelar, não se prestando, portanto, a substituí-la no caso concreto.
+Ainda, destacou-se que a contemporaneidade da prisão preventiva refere-se aos motivos que a fundamentam, e não ao momento da prática delitiva, sendo o decurso do tempo, portanto, irrelevante quando persistem os motivos concretos que justificam a manutenção da custódia cautelar.
+Ademais, conforme consignado na decisão embargada, o Tribunal de origem não examinou especificamente o pedido de concessão de prisão domiciliar. A apreciação originária dessa pretensão pelo Superior Tribunal de Justiça configuraria indevida supressão de instância, pois não se trata de mera consequência automática do exame da prisão preventiva, mas de providência submetida a requisitos próprios e a juízo concreto sobre a situação pessoal do paciente e as circunstâncias do caso.
+Assim, a competência daquela Corte para decretar ou manter a custódia cautelar não autoriza, por si só, o exame per saltum de pedido autônomo que não lhe foi previamente submetido, sob pena de indevida antecipação de instância.
+Portanto, inexistindo vício a ser sanado, a pretensão do recurso é de rediscussão dos fundamentos da decisão embargada, propósito inviável para o recurso em apreço, nada havendo que se possa acolher nos presentes embargos.
+Ante o exposto, na forma do art. 264, § 1º, do Regimento Interno do Superior Tribunal de Justiça, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
