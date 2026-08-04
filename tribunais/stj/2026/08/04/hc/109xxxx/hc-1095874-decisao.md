@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ADRIANO VICENTE DE SANTANA contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (fls. 109-115).
+O paciente foi condenando à pena de 5 (cinco) anos de reclusão, em regime inicial fechado, e ao pagamento de 500 (quinhentos) dias-multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006. O trânsito em julgado da condenação ocorreu em 6 de dezembro de 2013 (fl. 61).
+A revisão criminal foi julgada improcedente (fls. 109-115).
+Nas razões do presente habeas corpus, a parte impetrante postula o reconhecimento da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, com a aplicação da fração máxima de 2/3 (dois terços). Alega a ocorrência de constrangimento ilegal por fundamentação inidônea e genérica para afastar o redutor, aduzindo que a negativa se amparou exclusivamente na quantidade e na natureza da droga. Afirma, ainda, que o paciente é primário, ostenta bons antecedentes e não há prova concreta de que se dedique a atividades criminosas (fls. 2-6).
+O pedido liminar foi indeferido (fl. 121).
+A autoridade coatora prestou informações (fls. 127-136 e 149-150).
+O Ministério Público Federal opinou pelo não conhecimento do writ (fls. 154-155).
+É o relatório. DECIDO.
+O presente habeas corpus não comporta conhecimento.
+O Superior Tribunal de Justiça possui entendimento consolidado no sentido de que não cabe a impetração de habeas corpus como substitutivo de recurso ordinário ou de revisão criminal para revolver matéria já definitivamente julgada nas instâncias ordinárias, ressalvada a possibilidade de concessão da ordem de ofício em casos de flagrante ilegalidade (AgRg no HC n. 1.085.919/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/6/2026, DJEN de 26/6/2026) e (AgRg no HC n. 1.073.683/PB, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 16/6/2026, DJEN de 24/6/2026).
+N a hipótese, que a impetração volta-se, por via transversa, contra uma condenação cujo trânsito em julgado ocorreu há mais de 12 (doze) anos. A jurisprudência desta Corte orienta que o manejo do writ após tão longo decurso de tempo configura esvaziamento da urgência e evidente violação à segurança jurídica, caracterizando preclusão temporal sui generis (HC n. 834.187/SP, relatora Ministra Daniela Teixeira, relator para acórdão Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 13/5/2025, DJEN de 29/5/2025).
+Ademais, observo que não há constrangimento ilegal evidente apto a justificar a concessão da ordem de ofício. A decisão proferida pelo Tribunal de origem, que julgou improcedente a ação revisional, encontra-se escorreita e amparada na legalidade.
+O art. 622, parágrafo único, do Código de Processo Penal determina que não se admitirá a reiteração do pedido de revisão salvo se fundado em novas provas, o que não ocorreu na espécie, revelando o uso indevido da via como mero sucedâneo recursal.
+Ressalto, ainda, que o afastamento da causa de diminuição do tráfico privilegiado não se deu por gravidade abstrata ou exclusivamente pela quantidade de entorpecentes apreendida  66 (sessenta e seis) gramas de crack divididas em 42 (quarenta e duas) porções  , mas sim com lastro em elementos probatórios concretos. O juízo de primeiro grau e o Tribunal de origem destacaram o modus operandi e os depoimentos de usuários que atestaram a utilização da residência do réu como ponto de consumo e de venda reiterada de drogas (fl. 114).
+Nesse contexto, acolher a tese defensiva para desconstituir tais premissas fáticas e concluir que o paciente não se dedicava a atividades criminosas, a fim de aplicar a minorante do art. 33, § 4º, da Lei n. 11.343/2006, demandaria o profundo reexame de todo o acervo fático-probatório.
+A jurisprudência pacífica deste Tribunal orienta que o rito célere e estritamente documental do habeas corpus não admite dilação probatória ou o revolvimento de fatos e provas (AgRg no AgRg no HC n. 679.718/RR, relator Ministro Og Fernandes, Sexta Turma, julgado em 15/4/2026, DJEN de 25/6/2026).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
