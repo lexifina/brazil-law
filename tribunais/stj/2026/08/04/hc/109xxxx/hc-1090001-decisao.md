@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de FELIPE GALDINO GONCALVES SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o paciente foi denunciado pela prática dos delitos previstos no artigo 157, §2º, inciso II, e §2º-A, inciso I (fato 1), e artigo 157, § 3º, inciso II, combinado com artigo 14, inciso II (fato 2), na forma do artigo 69, todos do Código Penal. O paciente permaneceu em liberdade durante os 14 meses seguintes; todavia, foi decretada a prisão preventiva em razão de não ter sido localizado para citação.
+Irresignada a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão preventiva do paciente, denegando a ordem em acórdão de fls. 7-17.
+No presente writ, alega que o paciente estaria sofrendo constrangimento ilegal diante da ausência de fundamentação concreta, idônea e contemporânea para a segregação cautelar, bem como ausência dos requisitos ensejadores da prisão preventiva.
+Requer a revogação da prisão preventiva.
+Sem pedido de liminar.
+As informações foram prestadas às fls. 199-201 e 202-218. O Ministério Público Federal, às fls. 223-230, manifestou-se pelo "não conhecimento do habeas corpus".
+É o relatório. DECIDO.
+Quanto a alegação acerca da ausência de fundamentação idônea da decisão que decretou a segregação cautelar, bem como ausência dos requisitos ensejadores da prisão preventiva, in casu, observa -se que a segregação cautelar do paciente está devidamente fundamentada em dados concretos extraídos dos autos, que revelam de maneira inconteste a necessidade da prisão para a garantia da ordem pública e da aplicação da lei penal, seja porque "possui antecedentes criminais desfavoráveis"- fl. 19, seja porque "foi decretada a prisão preventiva do denunciado em razão da suposta prática de novo crime (homicídio consumado), sem notícia de cumprimento do respectivo mandado, o que indica que empreendeu fuga para se furtar à aplicação da lei penal"- fl. 20, circunstâncias ensejadoras da necessidade da segregação cautelar.
+Como sedimentado em farta jurisprudência desta Corte:
+"maus antecedentes, reincidência ou até mesmo outras ações penais ou inquéritos em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (RHC n. 156.048/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 15/02/2022, DJe 18/02/2022)."(AgRg no RHC n. 196.193/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+Outrossim, conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública. Nesse sentido: AgRg no HC n. 910.540/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/7/2024; AgRg no HC n. 902.557/SP, Sexta Turma; Rel. Min. Antonio Saldanha Palheiro, DJe de 3/7/2024 e AgRg no HC n. 912.267/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 28/6/2024.
+Ressalte-se que é pacífico o entendimento desta Corte que a fuga do distrito da culpa é fundame nto válido à segregação cautelar para assegurar a aplicação da lei penal.
+A propósito:
+"a fuga do distrito da culpa é fundamento válido à segregação cautelar, forte da asseguração da aplicação da lei penal". (AgRg no HC n. 568.658/SP, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 4/8/2020, DJe 13/8/2020)"(AgRg no HC n. 797.955/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/9/2023, DJe de 20/9/2023.)
+"a fuga do distrito da culpa, comprovadamente demonstrada nos autos e que perdura, é fundamentação suficiente a embasar a manutenção da custódia preventiva, que revela-se imprescindível para o fim de se assegurar o cumprimento de eventual condenação, pois nítida a intenção do réu de obstaculizar o andamento da ação criminal e de evitar a ação da Justiça" (AgRg no HC n. 761.012/MG, Quinta Turma, relator Ministro Joel Ilan Paciornik, DJe de 22/12/2022.)
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar , o que ocorre na hipótese.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, denegado o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
