@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Robson Silva Benedito contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO (fls. 9/17 e 914/922).
+Informam os autos que o paciente foi condenado, em primeiro grau, à pena de 6 (seis) anos e 8 (oito) meses de reclusão, em regime inicial fechado, e ao pagamento de 666 (seiscentos e sessenta e seis) dias-multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006 (fls. 27/36). O acórdão da apelação manteve a condenação e a pena imposta, afastando a aplicação da atenuante da confissão espontânea (fls. 38/54). O trânsito em julgado ocorreu em 27 de outubro de 2025.
+Posteriormente, a defesa ajuizou revisão criminal na origem, julgada improcedente pelo Tribunal local (fls. 9/17).
+Nas razões do presente habeas corpus (fls. 2/7), a parte impetrante postula o reconhecimento e a aplicação da atenuante da confissão espontânea (art. 65, inciso III, alínea "d", do Código Penal). Sustenta que o paciente realizou confissão qualificada ao admitir a posse da droga para uso próprio. Requer a aplicação retroativa da nova redação da Súmula n. 630, STJ, com a consequente compensação com a agravante da reincidência e o redimensionamento da pena.
+O pedido liminar foi indeferido (fl. 903).
+O juízo de origem e a autoridade coatora prestaram informações (fls. 907/908 e 914/922).
+O MINISTÉRIO PÚBLICO FEDERAL apresentou manifestação pelo não conhecimento do writ ou pela denegação da ordem (fls. 928/933).
+É o relatório. DECIDO.
+Verifico que o presente habeas corpus não comporta conhecimento.
+Inicialmente, registro que o Superior Tribunal de Justiça consolidou o entendimento de que não cabe a impetração de habeas corpus como substitutivo de recurso próprio  na hipótese, o recurso especial interposto contra o acórdão que julgou a revisão criminal  , ressalvada a possibilidade de concessão da ordem de ofício em casos de flagrante ilegalidade (AgRg no HC n. 750.870/MG, Quinta Turma, DJe de 11/9/2024).
+Constato que não há constrangimento ilegal evidente apto a justificar a concessão da ordem de ofício. A decisão proferida pelo Tribunal de origem, ao julgar improcedente a ação revisional, encontra-se escorreita e em consonância com a jurisprudência desta Corte.
+Observo que a condenação do paciente transitou em julgado em 27 de outubro de 2025. Naquele momento, as instâncias ordinárias aplicaram corretamente o entendimento consolidado do Superior Tribunal de Justiça então vigente, segundo o qual a admissão da posse apenas para uso próprio não autorizava a incidência da atenuante da confissão para o crime de tráfico de drogas. A nova redação da Súmula n. 630, STJ, invocada pela defesa, foi publicada apenas em 2 de dezembro de 2025.
+Conforme o art. 621, inciso I, do Código de Processo Penal, a revisão criminal é cabível quando a sentença condenatória for contrária ao texto expresso da lei penal. A jurisprudência pacífica deste Tribunal estabelece que a superveniente alteração de orientação jurisprudencial não se equipara a lei penal mais benéfica, razão pela qual não autoriza o ajuizamento de revisão criminal para desconstituir a coisa julgada. Admitir o contrário configuraria indevida ofensa à segurança jurídica.
+Ademais, ressalto que a dosimetria da pena insere-se na esfera de discricionariedade vinculada do magistrado e somente comporta alteração, na via estreita do habeas corpus, em casos de patente desproporcionalidade ou teratologia, o que não se verifica na espécie, mormente porque o paciente ostenta a condição de multirreincidente (inclusive por tráfico e roubo).
+Ante o exposto, não conheço do habeas corpus, com fulcro no art. 34, inciso XX, do Regimento Interno do STJ.
+Publique-se. Intimem-se.
+EMENTA
