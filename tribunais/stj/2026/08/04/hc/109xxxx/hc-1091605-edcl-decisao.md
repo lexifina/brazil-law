@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por LEANDRO APARECIDO CRISPIN contra a decisão monocrática de fls. 129-137, que não conheceu do habeas corpus.
+Nas razões dos embargos, a defesa alega que houve omissão relevante, porque a decisão embargada não enfrentou a preliminar de nulidade do recebimento da denúncia e de ausência de justa causa para a ação penal, suscitada de modo expresso no habeas corpus, em violação do art. 93, IX, da Constituição e do art. 619 do CPP.
+Argumenta que a denúncia é inepta e carece de lastro mínimo, pois não houve prisão em flagrante do embargante, nenhuma droga foi apreendida em sua posse, a imputação decorre exclusivamente de diálogos extraídos do celular de corré, os diálogos são isolados e não demonstram estabilidade e permanência associativa, e não há individualização concreta da conduta nem materialidade do delito de tráfico.
+Defende que não houve reiteração de pedido, porque a impetração tinha objeto autônomo em relação à prisão preventiva, voltado ao não recebimento da denúncia e à justa causa, ponto não apreciado no habeas corpus anterior.
+Expõe que a omissão possui potencial modificativo e impõe a concessão de efeitos infringentes, por impedir o controle jurisdicional sobre a justa causa da ação penal.
+Sustenta que a manutenção da custódia cautelar, diante da omissão e da fragilidade dos elementos, configura constrangimento ilegal, e pede, de modo excepcional, a suspensão da ação penal até o exame integral das teses defensivas e a concessão de liberdade provisória com eventuais medidas cautelares do art. 319 do CPP.
+Requer, ao final, o acolhimento dos aclaratórios, para sanar o suposto vício apontado, com a correspondente repercussão jurídica.
+É o relatório.
+Os embargos de declaração são cabíveis somente nas hipóteses previstas no art. 619 do Código de Processo Penal, quando houver na decisão embargada ambiguidade, obscuridade, contradição ou omissão, tendo a jurisprudência os admitido, também, para sanar eventual erro material na decisão embargada.
+São inadmissíveis, portanto, quando a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada objetivam, em essência, novo julgamento do caso.
+No caso, é inviável o acolhimento da pretensão recursal, pois, conforme consignado na decisão embargada, houve o afastamento das alegações de inépcia da denúncia, porquanto a inicial acusatória aditada descreveu adequadamente os fatos com indicação de tempo e lugar e foi regularmente recebida.
+Registre-se, outrossim, que a análise da alegada ausência de justa causa para a instauração da ação penal quanto ao delito de associação para o tráfico, fundada na inexistência de elementos demonstrativos da estabilidade, permanência e do vínculo associativo voltado à prática do tráfico de drogas, demanda o aprofundado exame do conjunto fático-probatório, providência incompatível com a via estreita do habeas corpus. Além disso, a controvérsia revela-se prematura, considerada a fase em que se encontra a ação penal originária.
+Desse modo, a referida alegação deverá ser apreciada de forma exauriente no curso da instrução processual, sob cognição plena do Juízo da causa.
+Ademais, foi consignado na decisão recorrida que as matérias relativas à autoria e materialidade delitivas, à prisão preventiva e à ausência de justa causa para o crime de associação para o tráfico, foram objeto do HC n. 1.014.306/SP. Constatada, portanto, a reiteração do pedido, tornou-se inviável o conhecimento do presente writ , haja vista a preclusão da matéria.
+Portanto, inexistindo vício a ser sanado, a pretensão do recurso é de rediscussão dos fundamentos da decisão embargada, propósito inviável para o recurso em apreço, nada havendo que se possa acolher.
+Ante o exposto, na forma do art. 264, § 1º do Regimento Interno do Superior Tribunal de Justiça, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
