@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus impetrado de próprio punho por ROBSON PEREIRA DA SILVA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em decorrência do julgamento da apelação criminal n. 1503014-93.2022.8.26.0050.
+Consta dos autos que o paciente foi condenado pelo Juízo da 2ª Vara de Crimes Tributários, Organização Criminosa e Lavagem de Bens e Valores da Comarca de São Paulo à pena de 21 (vinte e um) anos, 3 (três) meses e 15 (quinze) dias de reclusão, em regime inicial fechado, além de 55 (cinquenta e cinco) dias-multa, pela prática dos delitos previstos nos artigos 2º da Lei 12.850/2013 e 157, § 2º, incisos II e V, do Código Penal (fls. 19-36).
+A defesa interpôs recurso de apelação, ao qual o Tribunal de Justiça do Estado de São Paulo negou provimento (fls. 37-64).
+A Defensoria Pública da União aditou a impetração, manifestando-se pela concessão da ordem e requerendo a juntada da sentença e do acórdão (fls. 13-71).
+Na impetração, busca-se a concessão da ordem para: (i) reconhecer a ocorrência de bis in idem na utilização de registros criminais para valorar, simultaneamente, os maus antecedentes e a reincidência; (ii) afastar a valoração, na primeira fase da dosimetria da pena do roubo, de circunstâncias inerentes à causa de aumento prevista no inciso V do § 2º do artigo 157 do Código Penal; (iii) reduzir a fração de aumento prevista no § 2º do artigo 157 do Código Penal de 1/2 para 1/3, em razão da ausência de fundamentação concreta e individualizada; e (iv) afastar o reconhecimento da continuidade delitiva, por ausência de demonstração individualizada da pluralidade de condutas atribuídas ao paciente (fls. 13-18).
+As informações foram prestadas (fls. 89-143 e 150-154).
+O Ministério Público Federal manifestou-se pelo não conhecimento (fls. 156-161).
+É o relatório. DECIDO.
+A controvérsia consiste na verificação da existência de flagrante ilegalidade relacionada à dosimetria da pena, especialmente quanto ao alegado bis in idem na valoração de registros criminais, à utilização de circunstâncias inerentes à causa de aumento do roubo na fixação da pena-base, à fundamentação adotada para a incidência das majorantes e ao reconhecimento da continuidade delitiva.
+A impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Da leitura do acórdão impugnado, extrai-se que o objeto da apelação criminal interposta pelo paciente consistia excl usivamente em seu provimento para absolvê-lo por insuficiência de provas e, subsidiariamente, afastar a causa de aumento de pena do delito de roubo relacionada ao emprego de arma de fogo.
+As teses deduzidas no habeas corpus  bis in idem na utilização de registros criminais para valorar, simultaneamente, os maus antecedentes e a reincidência; ilegalidade na valoração, na primeira fase da dosimetria da pena do roubo, de circunstâncias inerentes à causa de aumento prevista no inciso V do § 2º do artigo 157 do Código Penal; redução da fração de aumento prevista no § 2º do artigo 157 do Código Penal de 1/2 para 1/3, diante da ausência de fundamentação concreta e individualizada; e afastamento do reconhecimento da continuidade delitiva, em razão da ausência de demonstração individualizada da pluralidade de condutas atribuídas ao paciente  constituem inovação suscitada apenas na via do writ, porquanto não foram submetidas à apreciação do Tribunal de Apelação.
+Dessa forma, o Superior Tribunal de Justiça encontra-se impedido de examinar diretamente a matéria, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido:
+ ..
+1. A questão relativa à alegada nulidade da busca pessoal e veicular realizada em face do corréu não foi examinada pelo Tribunal de origem, motivo pelo qual esta Corte Superior fica impedida de se antecipar à matéria, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal.
+ ..
+6. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 888.544/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/3/2024, DJe de 20/3/2024.)
+De todo modo, não vislumbro a presença de constrangimento ilegal ou teratologia que justifique a concessão da ordem, nos termos do artigo 654, § 2º, do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
