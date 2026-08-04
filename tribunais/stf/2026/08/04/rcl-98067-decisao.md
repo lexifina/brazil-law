@@ -1,0 +1,109 @@
+DECISÃO
+
+RECLAMAÇÃO. TRABALHISTA. ALEGADO DESRESPEITO AO DECIDIDO PELO SUPREMO TRIBUNAL FEDERAL
+NA ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL
+N. 324, NA AÇÃO DECLARATÓRIA
+DE CONSTITUCIONALIDADE N. 48,
+NAS AÇÕES DIRETAS DE INCONSTITUCIONALIDADE NS. 3.961 E 5.625 E NO RECURSO EXTRAORDINÁRIO N. 958.252, TEMA 725. ATO RECLAMADO ANTERIOR AO JULGAMENTO DO PARADIGMA. RECLAMAÇÃO À QUAL SE NEGA SEGUIMENTO.
+
+Relatório
+1. Reclamação, com requerimento de medida liminar, ajuizada por  Maria Madalena Mendes, em 28.7.2026, contra o seguinte acórdão proferido pela Décima Turma do Tribunal Regional do Trabalho da Segunda Região no Processo n. 0001665-64.2013.5.02.0018 pelo qual teria sido desrespeitado o decidido pelo Supremo Tribunal Federal na Arguição de Descumprimento de Preceito Fundamental n. 324, na Ação Declaratória de Constitucionalidade n. 48, nas Ações Diretas de Inconstitucionalidade ns. 3.961 e 5.625 e no Recurso Extraordinário
+n. 958.252, paradigma do Tema 725 da repercussão geral:
+“Vínculo empregatício
+As reclamadas não se conformam com a declaração de vínculo de emprego entre o autor e a 1ª reclamada. Afirmam que sua prestação de serviços se deu de forma autônoma, através de pessoa jurídica e como representante comercial. A 4.ª reclamada destaca que o autor era empresário e, no período em que ela, 4.ª ré, integrou o quadro de sócios da reclamada, não houve relação de emprego com o reclamante.
+O pedido de reconhecimento de vínculo foi acatado em primeiro grau pelos seguintes fundamentos: (...)
+As reclamadas insistem na tese de trabalho com autonomia realizado na forma de representação comercial. O reclamante declarou, tanto na inicial quanto em seu depoimento pessoal (fls. 127) que trabalhou para as reclamadas como diretor comercial. Os representantes das rés, quais sejam, o preposto da 1.ª reclamada, a reclamada Maria Madalena e também as testemunhas das rés alegaram que o ator trabalhava como representante comercial. A própria testemunha do reclamante, Sr. Alex Vitena de Souza, a qual foi acusada de suspeição pelas recorrentes, afirmou que o reclamante era representante comercial. (fls. 129)
+No entanto, o contrato de representação comercial não é um contrato realidade, exigindo formalidades para que tenha validade. As rés não negaram a prestação de serviços e invocaram como fato impeditivo da possibilidade de reconhecimento do vínculo empregatício, a existência de contrato de representação comercial.
+Todavia, o fato impeditivo invocado pelas reclamadas não restou demonstrado nos autos. É importante registrar que a existência de pessoa jurídica em nome do reclamante não é suficiente para afastar a presença dos elementos configuradores do vínculo empregatício, previsto no artigo 3º da CLT.
+A documentação trazida aos autos pelas reclamadas, juntada em volume apartado vem, na verdade, confirmar a tentativa de burlar a legislação: o reclamante prestava serviços regulares para a Sebil, através da pessoa jurídica Teknologia em Serviços e Equipamentos de Segurança Ltda., e recebia ‘comissão sobre representação de serviços’.
+Ocorre que o contrato de representação comercial, consoante dispõe a Lei 4886/65 exige a forma escrita e a existência desta condição expressa, além do registro do representante comercial nos Conselhos de Representação Comercial.
+De se registrar, ainda, que há peculiaridades na contratação de emprego, cingidas ao poder de comando do empregador, que o tornam singular diante da representação. Com efeito, quem comanda a atividade do representante comercial, é o próprio representante que, principalmente, assume os riscos de sua empreitada. Ainda que receba determinações acerca da área a representar, dos critérios de vendas, apresentando relatório ao representado, não se sujeita a quaisquer determinações deste, especificamente quanto à forma de consecução de seu trabalho, não sofrendo penalidades neste sentido, em razão da autonomia na gestão de seus negócios.
+Já o vendedor empregado, além da subordinação econômica aos critérios do empregador, sujeita-se às ordens expressas deste, quanto às condições e à concreta aplicação de sua força laboral podendo sofrer sanções em razão do descumprimento destas.
+A documentação apresentada pelas reclamadas não demonstra que o autor fosse nem representante comercial, nem vendedor, mas apenas trabalhava no interesse das rés, percebendo remuneração através de nota fiscal de serviços que, de toda forma, não afasta
+a relação empregatícia evidenciada através das atividades desempenhadas em favor das empresas rés.
+Também o fato de o reclamante realizar negócios em nome de sua empresa e com outras empresas não impede a vinculação empregatícia com o Grupo Sebil já que a exclusividade não é requisito da relação de emprego.
+O que se denota da documentação encartada aos autos é a prestação direta e pessoal de serviços pelo reclamante às reclamadas, ao longo de mais de 10 anos, demonstrando que a força de trabalho do autor, durante todo este período, esteve a serviço do objeto social das rés, com pessoalidade, habitualidade, onerosidade e em consonância com os ditames estabelecidos por estas, em nítida subordinação jurídica.
+Por todo o contexto, entendo que agiu com acerto o julgador de primeiro grau ao declarar o vínculo de emprego entre o reclamante e a 1ª reclamada, impondo-se a rejeição de ambos os apelos, no particular” (fls. 4-7, e-doc. 16, grifos nossos).
+
+Opostos embargos de declaração, foram rejeitados (e-doc. 15).
+
+Contra esse acórdão, foram interpostos recursos de revista, inadmitidos (fls. 70-72, e-doc. 30, e 1-13, e-doc. 31), e agravos de instrumento.
+
+Em 16.10.2019, a Quinta Turma do Tribunal Superior do Trabalho negou provimento aos agravos internos nos agravos de instrumento nos recursos de revista interpostos pelas reclamadas (fls. 61-91, e-doc. 34)
+
+2. A reclamante alega que “o acórdão reclamado afastou a validade de contrato civil de prestação de serviços regularmente celebrado entre as partes e reconheceu vínculo empregatício mediante fundamentação incompatível com a orientação constitucional consolidada por esta Suprema Corte acerca da liberdade de organização produtiva, da licitude da terceirização, da contratação por pessoa jurídica e da autonomia privada” (fl. 2).
+
+Informa que “foi ajuizada Reclamação Trabalhista em face da então empresa SEBIL Serviços Especializados de Vigilância Industrial e Bancária Ltda., buscando o reconhecimento de vínculo empregatício relativamente ao período compreendido entre 1º de abril de 1994 e 6 de agosto de 2012, sob a alegação de que o contrato de prestação de serviços firmado entre as partes ocultaria verdadeira relação de emprego” (fl. 3).
+
+Argumenta que “o reconhecimento judicial da existência de vínculo empregatício pressupõe, nas hipóteses de contratação empresarial regularmente formalizada, demonstração objetiva de que o contrato celebrado constituiu mero instrumento de simulação destinado a ocultar verdadeira relação de emprego. Não basta afirmar que houve prestação pessoal de serviços. Não basta afirmar que houve remuneração. Não basta afirmar que determinada atividade era importante para a empresa contratante. Nenhum desses elementos, isoladamente considerado, conduz à nulidade do contrato civil” (fl. 11).
+
+Esclarece que “inexiste qualquer elemento objetivo capaz de demonstrar que o contrato celebrado entre as partes possuía natureza simulada. Ao contrário. Os autos revelam que: havia contrato formal de prestação de serviços; havia emissão regular de notas fiscais; o prestador exercia atividades empresariais para diversos contratantes; era sócio de diversas pessoas jurídicas; possuía autonomia na organização de sua atividade profissional; não se encontrava submetido a controle de jornada; não estava inserido na estrutura hierárquica operacional da empresa contratante” (fls. 11-12).
+
+Sustenta que, “se toda contratação empresarial puder ser automaticamente convertida em relação de emprego apenas porque presentes alguns elementos típicos da prestação de serviços, então os julgamentos da ADPF 324, do Tema 725, da ADC 48 e das ADIs correlatas tornar-se-ão absolutamente inócuos”
+(fl. 14).
+
+Assevera que “a contratação empresarial foi invalidada sem que houvesse demonstração específica de qualquer vício de consentimento, coação, simulação, desvio de finalidade ou abuso de personalidade jurídica. A decisão limitou-se a reinterpretar fatos já submetidos ao livre exercício da autonomia privada para impor modalidade contratual diversa daquela efetivamente escolhida pelas partes” (fl. 15).
+
+Requer medida liminar ”para determinar a imediata suspensão da tramitação do Processo nº 0001665-64.2013.5.02.0018, em curso perante a Justiça do Trabalho, suspendendo-se igualmente todos os atos processuais, executórios ou de cumprimento de sentença eventualmente em andamento, até o julgamento definitivo da presente Reclamação Constitucional” (fl. 25).
+
+Pede “seja julgada inteiramente procedente a presente Reclamação Constitucional para: reconhecer a afronta à autoridade das decisões proferidas pelo Supremo Tribunal Federal; cassar integralmente o acórdão proferido pela
+10ª Turma do Tribunal Regional do Trabalho da 2ª Região; determinar o retorno dos autos ao Tribunal Regional do Trabalho para que profira novo julgamento, observando obrigatoriamente os parâmetros constitucionais fixados pelo Supremo Tribunal Federal na ADPF 324, no RE nº 958.252 (Tema 725), na ADC 48, na ADI 3.961, na ADI 5.625, bem como na tese que vier a ser fixada no julgamento da repercussão geral sobre a denominada ‘pejotização’” (fls. 25-26).
+
+Examinados os elementos havidos nos autos, DECIDO.
+
+3. O parágrafo único do art. 161 do Regimento Interno do Supremo Tribunal Federal dispõe que “o Relator poderá julgar a reclamação quando a matéria for objeto de jurisprudência consolidada do Tribunal”, como se tem na espécie.
+
+4. Põe-se em foco nesta ação se, ao reconhecerem o vínculo empregatício entre o beneficiário e Sebil – Serviços Especializados de Vigilância Industrial e Bancária Ltda., a autoridade reclamada teria desrespeitado o decidido por este Supremo Tribunal na Arguição de Descumprimento de Preceito Fundamental n. 324, na Ação Declaratória de Constitucionalidade n. 48, nas Ações Diretas de Inconstitucionalidade ns. 3.961 e 5.625 e no Recurso Extraordinário n. 958.252, paradigma do Tema 725 da repercussão geral.
+
+5. Em 30.8.2018, este Supremo Tribunal julgou procedente a Arguição de Descumprimento de Preceito Fundamental n. 324, Relator o Ministro Luís Roberto Barroso, com estes fundamentos:
+“DIREITO DO TRABALHO. ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL. TERCEIRIZAÇÃO DE ATIVIDADE-FIM E DE ATIVIDADE-
+-MEIO. CONSTITUCIONALIDADE. 1. A Constituição não impõe a adoção de um modelo de produção específico, não impede o desenvolvimento de estratégias empresariais flexíveis, tampouco veda a terceirização. Todavia, a jurisprudência trabalhista sobre o tema tem sido oscilante e não estabelece critérios e condições claras e objetivas, que permitam sua adoção com segurança. O direito do trabalho e o sistema sindical precisam se adequar às transformações no mercado de trabalho e na sociedade. 2. A terceirização das atividades-meio ou das atividades-fim de uma empresa tem amparo nos princípios constitucionais da livre iniciativa e da livre concorrência, que asseguram aos agentes econômicos a liberdade de formular estratégias negociais indutoras de maior eficiência econômica e competitividade. 3. A terceirização não enseja, por si só, precarização do trabalho, violação da dignidade do trabalhador ou desrespeito a direitos previdenciários. É o exercício abusivo da sua contratação que pode produzir tais violações. 4. Para evitar tal exercício abusivo, os princípios que amparam a constitucionalidade da terceirização devem ser compatibilizados com as normas constitucionais de tutela do trabalhador, cabendo à contratante: i) verificar a idoneidade e a capacidade econômica da terceirizada; e ii) responder subsidiariamente pelo descumprimento das normas trabalhistas, bem como por obrigações previdenciárias (art. 31 da Lei 8.212/1993). 5. A responsabilização subsidiária da tomadora dos serviços pressupõe a sua participação no processo judicial, bem como a sua inclusão no título executivo judicial. 6. Mesmo com a superveniência da Lei 13.467/2017, persiste o objeto da ação, entre outras razões porque, a despeito dela, não foi revogada ou alterada a Súmula 331 do TST, que consolidava o conjunto de decisões da Justiça do Trabalho sobre a matéria, a indicar que o tema continua a demandar a manifestação do Supremo Tribunal Federal a respeito dos aspectos constitucionais da terceirização. Além disso, a aprovação da lei ocorreu após o pedido de inclusão do feito em pauta. 7. Firmo a seguinte tese: 1. É lícita a terceirização de toda e qualquer atividade, meio ou fim, não se configurando relação de emprego entre a contratante e o empregado da contratada. 2. Na terceirização, compete à contratante: i) verificar a idoneidade e a capacidade econômica da terceirizada; e ii) responder subsidiariamente pelo descumprimento das normas trabalhistas, bem como por obrigações previdenciárias, na forma do art. 31 da Lei 8.212/1993. 8. ADPF julgada procedente para assentar a licitude da terceirização de atividade-fim ou meio. Restou explicitado pela maioria que a decisão não afeta automaticamente decisões transitadas em julgado” (DJe 6.9.2019).
+
+Em 30.8.2018, ao julgar o Recurso Extraordinário n. 958.252, Tema 725 da repercussão geral, este Supremo Tribunal firmou a seguinte tese jurídica:
+“É lícita a terceirização ou qualquer outra forma de divisão do trabalho entre pessoas jurídicas distintas, independentemente do objeto social das empresas envolvidas, mantida a responsabilidade subsidiária da empresa contratante” (DJe 13.9.2019).
+
+Em 15.4.2020, no julgamento conjunto da Ação Declaratória de Constitucionalidade n. 48 e da Ação Direta de Inconstitucionalidade
+n. 3.961, Relator o Ministro Luís Roberto Barroso, este Supremo Tribunal decidiu:
+“DIREITO DO TRABALHO. AÇÃO DECLARATÓRIA DA CONSTITUCIONALIDADE E AÇÃO DIRETA DE INCONSTITUCIONALIDADE. TRANSPORTE RODOVIÁRIO DE CARGAS. LEI 11.442/2007, QUE PREVIU A TERCEIRIZAÇÃO DA ATIVIDADE-FIM. VÍNCULO MERAMENTE COMERCIAL. NÃO CONFIGURAÇÃO DE RELAÇÃO DE EMPREGO. 1. A Lei nº 11.442/2007
+(i) regulamentou a contratação de transportadores autônomos de carga por proprietários de carga e por empresas transportadoras de carga; (ii) autorizou a terceirização da atividade-fim pelas empresas transportadoras; e (iii) afastou a configuração de vínculo de emprego nessa hipótese. 2. É legítima a terceirização das atividades-fim de uma empresa. Como já foi decidido pelo Supremo Tribunal Federal, a Constituição não impõe uma única forma de estruturar a produção. Ao contrário, o princípio constitucional da livre iniciativa garante aos agentes econômicos liberdade para eleger suas estratégias empresariais dentro do marco vigente (CF/1988, art. 170). A proteção constitucional ao trabalho não impõe que toda e qualquer prestação remunerada de serviços configure relação de emprego (CF/1988,
+art. 7º). Precedente: ADPF 524, Rel. Min. Luís Roberto Barroso.
+3. Não há inconstitucionalidade no prazo prescricional de 1 (um) ano, a contar da ciência do dano, para a propositura de ação de reparação de danos, prevista no art. 18 da Lei 11.442/2007, à luz do art. 7º, XXIX, CF, uma vez que não se trata de relação de trabalho, mas de relação comercial. 4. Procedência da ação declaratória da constitucionalidade e improcedência da ação direta de inconstitucionalidade. Tese: ‘A Lei 11.442/2007 é constitucional, uma vez que a Constituição não veda a terceirização, de atividade-meio ou fim. 2- O prazo prescricional estabelecido no art. 18 da Lei 11.442/2007 é válido porque não se trata de créditos resultantes de relação de trabalho, mas de relação comercial, não incidindo na hipótese o art. 7º, XXIX, CF. 3- Uma vez preenchidos os requisitos dispostos na Lei nº 11.442/2007, estará configurada a relação comercial de natureza civil e afastada a configuração de vínculo trabalhista” (DJe 5.6.2020).
+
+Em 28.10.2021, ao julgar a Ação Direta de Inconstitucionalidade
+n. 5.625, Redator para o acórdão o Ministro Nunes Marques, este Supremo Tribunal estabeleceu a seguinte tese jurídica:
+“I – É constitucional a celebração de contrato civil de parceria entre salões de beleza e profissionais do setor, nos termos da Lei 13.352, de 27 de outubro de 2016; II – É nulo o contrato civil de parceria referido, quando utilizado para dissimular relação de emprego de fato existente, a ser reconhecida sempre que se fizerem presentes seus elementos caracterizadores” (Plenário, DJe 29.3.2022).
+
+6. O cabimento da reclamação pressupõe seja a decisão proferida pelo Supremo Tribunal Federal anterior ao ato reclamado.
+
+7. Na espécie vertente, o acórdão do Tribunal Regional do Trabalho da Segunda Região, pelo qual julgados os recursos ordinários na ação subjacente, foi proferido em 16.8.2014, anteriormente, portanto, ao julgamento dos paradigmas de descumprimento apontados na presente reclamação.
+
+Essa circunstância afasta a possibilidade de alegação de desrespeito à decisão proferida pelo Supremo Tribunal Federal, inexistente na data do ato questionado. Assim, por exemplo:
+“RECLAMAÇÃO – ARGUIÇÃO DE OFENSA AO POSTULADO DA RESERVA DE PLENÁRIO (CF, ART. 97) – SÚMULA VINCULANTE Nº 10/STF – INAPLICABILIDADE A SITUAÇÕES QUE CONFIGUREM SIMPLES ‘CRISE DE LEGALIDADE’ – INEXISTÊNCIA, NO CASO, DE
+JUÍZO (OSTENSIVO OU DISFARÇADO) DE INCONSTITUCIONALIDADE DE QUALQUER ATO
+ESTATAL – JULGAMENTO PELO ÓRGÃO RECLAMADO
+QUE SE EFETUOU EM FACE DO ORDENAMENTO INFRACONSTITUCIONAL – CONTENCIOSO DE MERA LEGALIDADE – INVIABILIDADE DA RECLAMAÇÃO – PRECEDENTES – ALEGADO DESRESPEITO À AUTORIDADE DO JULGAMENTO PROFERIDO, COM EFEITO VINCULANTE, POR ESTA SUPREMA CORTE NO EXAME DA ADPF 324/DF – IMPOSSIBILIDADE – DECISÃO RECLAMADA PROFERIDA EM DATA ANTERIOR À PUBLICAÇÃO, NA IMPRENSA OFICIAL, DE REFERIDA DECISÃO – AUSÊNCIA DO INTERESSE DE AGIR – INVIABILIDADE, ADEMAIS, DA UTILIZAÇÃO PROCESSUAL DO INSTRUMENTO DA RECLAMAÇÃO COMO SUCEDÂNEO DE RECURSOS OU DE AÇÕES JUDICIAIS EM GERAL – PRECEDENTES – RECURSO DE AGRAVO IMPROVIDO” (Rcl n. 37.614-AgR, Relator o Ministro Celso de Mello, DJe 15.10.2020).
+
+“AGRAVO REGIMENTAL NA RECLAMAÇÃO. PROCESSUAL CIVIL. ARGUIÇÃO DE DESCUMPRIMENTO
+DE PRECEITO FUNDAMENTAL N. 324/DF: DECISÃO RECLAMADA ANTERIOR AOS PARADIGMAS APONTADOS. SÚMULA VINCULANTE N. 10. LEI ANTERIOR À CONSTITUIÇÃO DA REPÚBLICA: JUÍZO DE RECEPÇÃO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA: INVIABILIDADE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (Rcl
+n. 36.505-AgR, Relatora a Ministra Cármen Lúcia, Segunda Turma, DJe 26.5.2020).
+
+“RECLAMAÇÃO. ATOS RECLAMADOS ANTERIORES À DECISÃO DO TRIBUNAL. DESRESPEITO. INEXISTÊNCIA. FALTA DE LEGÍTIMO INTERESSE DE AGIR 1. Não se admite reclamação contra atos judiciais praticados antes da decisão desta Corte indicada como parâmetro de confronto. Não se pode dizer que as decisões reclamadas desrespeitaram um julgado que sequer existia à época em que praticadas, daí decorrendo falta de legítimo interesse de agir do autor para a reclamação. 2. Hipótese concreta em que, ademais, os atos questionados revelam-se harmônicos com o provimento judicial desta Corte na ação direta relacionada. Agravo regimental desprovido” (Rcl n. 826-AgR/MG, Relator o Ministro Maurício Corrêa, Plenário, DJ 2.5.2003).
+
+“Direito Processual do Trabalho. Agravo regimental em reclamação. Aplicação do IPCA como índice de correção monetária aos débitos trabalhistas. Alegação de ofensa às decisões proferidas na questão de ordem nas ADIs 4.357 e 4.425 e nas Rcls 22.012 e 25.534. 1. A jurisprudência desta Corte firmou-se no sentido de que é necessário que a decisão dita violada tenha sido proferida em momento anterior à decisão reclamada, já que não se pode dizer que houve ofensa ao paradigma se ele sequer existia à época. 2. A alegação de afastamento do art. 39 da Lei nº 8.177/1991, foi deduzida somente no agravo regimental e não se encontra adequadamente fundamentada, o que impede seu conhecimento. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015, em caso de decisão unânime. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015” (Rcl n. 24.845-AgR/RS, Relator o Ministro Luís Roberto Barroso, Primeira Turma, DJe 17.9.2018).
+
+“Agravo regimental na reclamação. ADC nº 48/DF-MC.
+Decisão reclamada anterior ao paradigma. Inadmissibilidade. Agravo regimental não provido, com aplicação de multa. 1. Não subsiste o agravo regimental quando inexiste ataque específico aos fundamentos do pronunciamento monocrático tido por merecedor de reforma, como consagrado no art. 317, § 1º, RISTF. 2. Inviável o manejo de reclamação constitucional com fundamento em paradigma publicado após o ato reclamado. 3. Agravo regimental não provido, com aplicação de multa” (Rcl n. 29.632-AgR/RJ, Relator o Ministro Dias Toffoli, Segunda Turma, DJe 14.6.2018).
+
+Ausentes, na espécie, os requisitos processuais viabilizadores do regular trâmite desta reclamação.
+
+8. Pelo exposto, nego seguimento à presente reclamação (§ 1º do
+art. 21 do Regimento Interno do Supremo Tribunal Federal), prejudicada a medida liminar requerida.
+
+Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+Publique-se.
+
+Brasília, 4 de agosto de 2026.
+
+Ministra CÁRMEN LÚCIA
+Relatora
