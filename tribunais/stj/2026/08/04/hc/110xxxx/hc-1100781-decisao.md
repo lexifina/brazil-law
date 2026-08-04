@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de FELLIPE DA SILVA LINS, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em decorrência do julgamento do Habeas Corpus n. 2064578-30.2026.8.26.0000 (fls. 13-19).
+Consta dos autos que o paciente teve a prisão preventiva decretada pela suposta prática do delito previsto no art. 33, caput, c/c. o art. 40, inciso III, da Lei n. 11.343/2006.
+Na presente impetração, sustenta, em síntese, a ausência de fundamentação concreta da prisão preventiva, a suficiência das medidas cautelares diversas, a existência de condições pessoais favoráveis e a nulidade da busca pessoal, por ausência de fundada suspeita. Requer a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medidas cautelares diversas (fls. 2-12).
+O writ não havia sido conhecido em razão da ausência de cópia integral da decisão que decretou a prisão preventiva (fls. 52-53).
+A defesa apresentou pedido de reconsideração, juntando o aludido documento (fls. 58-64).
+Reconsiderada a decisão anterior, foi indeferido o pedido liminar e determinadas a requisição de informações e a remessa dos autos ao Ministério Público Federal (fls. 66-67).
+Prestadas as informações, o Juízo de primeiro grau noticiou, em síntese, que o paciente foi preso em flagrante transportando expressiva quantidade e variedade de entorpecentes, e que a prisão preventiva foi convertida e posteriormente mantida em mais de uma oportunidade. Acrescentou que a denúncia foi recebida, que houve arquivamento apenas em relação ao delito de associação para o tráfico, e que foi designada a audiência de instrução e julgamento (fls. 74-78).
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus, por se tratar de impetração substitutiva do recurso ordinário constitucional, e, subsidiariamente, pela denegação da ordem (fls. 82-85).
+É o relatório. DECIDO.
+Consoante a jurisprudência consolidada desta Corte Superior, o habeas corpus não pode ser utilizado como substitutivo do recurso ordinário, ressalvada a hipótese de flagrante ilegalidade, situação em que se admite a concessão da ordem de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal.
+Na hipótese, contudo, não vislumbro constrangimento ilegal apto a justificar a concessão da ordem de ofício.
+O acórdão impugnado consignou que a custódia cautelar está amparada em elementos concretos extraídos dos autos, destacando a apreensão de 136 porções de maconha (530 g), 84 invólucros de cocaína (29 g) e 142 pedras de crack (50 g), todos fracionados para comercialização, além de numerário em espécie. Ademais, o Tribunal de origem considerou que a prática delitiva ocorreu em local conhecido pelo tráfico de drogas, e nas proximidades de estabelecimento de ensino, circunstâncias consideradas aptas a evidenciar a gravidade concreta da conduta e o risco de reiteração delitiva.
+As informações prestadas pelo Juízo de origem corroboram esse quadro, registrando que a prisão preventiva foi reavaliada e mantida após o recebimento da denúncia, sendo que o processo já se encontra em fase de instrução, com audiência designada, inexistindo demonstração de superveniente desnecessidade da medida cautelar.
+Também não prospera a alegação de insuficiência da fundamentação quanto à inadequação das medidas cautelares diversas da prisão, pois as instâncias ordinárias consignaram que, diante das circunstâncias concretas do caso, especialmente da expressiva quantidade e diversidade de drogas apreendidas, e do risco à ordem pública, tais medidas não seriam suficientes para acautelar o processo.
+As condições pessoais favoráveis do paciente, embora devam ser consideradas, não impedem, por si sós, a manutenção da prisão preventiva quando presentes os requisitos previstos no art. 312 do Código de Processo Penal.
+Nesse sentido:
+"  ..  6. A prisão preventiva encontra suporte no art. 312 do CPP, diante da gravidade concreta evidenciada pela variedade e quantidade de drogas apreendidas (crack, maconha e haxixe) e pela presença de petrechos típicos de comercialização (balança de precisão e embalagens), indicando dedicação à atividade ilícita.
+ ..
+9. Condições pessoais favoráveis, como primariedade, não são suficientes para revogar a prisão preventiva quando presentes os requisitos do art. 312 do CPP.  .. " (AgRg no HC n. 1.086.338/MG, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 9/6/2026, DJEN de 16/6/2026.)
+Por fim , a alegada nulidade da busca pessoal, por ausência de fundada suspeita, não foi enfrentada pelo Tribunal de origem nos contornos ora deduzidos, além de demandar aprofundado exame das circunstâncias fáticas da abordagem policial, providência incompatível com a via estreita do habeas corpus.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
