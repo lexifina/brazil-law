@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JOSE EDILEU DOS SANTOS SANTANA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no HC n. 2060006-31.2026.8.26.0000.
+Na origem, o paciente foi submetido a julgamento perante o Conselho de Sentença na Ação Penal n. 1522036-54.2023.8.26.0228), sendo condenado à pena de 11 (onze) anos e 2 (dois) meses de reclusão, em regime inicial fechado, e ao pagamento de 10 (dez) dias-multa, pela prática do crime de homicídio qualificado tentado e posse ilegal de arma de fogo de uso restrito. Na sentença, o Juízo presidente determinou a execução imediata da pena, com fundamento na soberania dos veredictos e no entendimento firmado pelo SUPREMO TRIBUNAL FEDERAL no Tema 1.068.
+Inconformada com a custódia, a defesa impetrou habeas corpus perante o Tribunal de origem, sustentando que o paciente respondeu ao processo em liberdade, possui condições pessoais favoráveis e que a execução provisória ofenderia a presunção de inocência. A ordem foi denegada, sob o fundamento de que o precedente vinculante do SUPREMO TRIBUNAL FEDERAL (RE 1.235.340/SC) autoriza o início imediato do cumprimento da reprimenda imposta pelo Júri, independentemente do quantum da pena ou de fundamentação cautelar.
+Neste remédio constitucional, o impetrante reitera a tese de ausência de fundamentação concreta para a prisão e de desnecessidade da medida extrema ante a primariedade e os bons antecedentes do réu. Aduz, ainda, a existência de nulidades na sessão plenária, decorrentes da utilização de provas exclusivamente inquisitoriais e da exploração de argumentos extraprocessuais ("futurologia penal") pela acusação. Requer, assim, a revogação da prisão ou a aplicação de medidas cautelares diversas.
+O pedido de liminar foi indeferido.
+As informações foram prestadas pela autoridade apontada como coatora.
+O MINISTÉRIO PÚBLICO FEDERAL manifestou-se pelo não conhecimento da impetração, por ser substitutiva de recurso próprio, e, no mérito, pela denegação da ordem.
+É o relatório. DECIDO.
+Verifico, inicialmente, que a impetração utiliza o habeas corpus como substitutivo de recurso próprio, o que impede o seu conhecimento. No entanto, registro que a jurisprudência desta Corte autoriza o exame da matéria para verificar a ocorrência de eventual ilegalidade flagrante que justifique a concessão da ordem de ofício.
+Quanto às teses de nulidade da sessão plenária, constato que tais matérias não foram objeto de cognição pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no acórdão ora impugnado. Assim, o exame dessas questões por esta Corte Superior configuraria indevida supressão de instância.
+No mérito da custódia, registro que o SUPREMO TRIBUNAL FEDERAL, no julgamento do Tema n. 1.068 (mil e sessenta e oito) (RE n. 1.235.340/SC), firmou a tese de que a soberania dos veredictos permite a execução imediata da condenação determinada pelo corpo de jurados.
+Dessa forma, verifico que o entendimento adotado pelas instâncias ordinárias harmoniza-se com o precedente vinculante da Suprema Corte, o que afasta a ocorrência de ilegalidade flagrante.
+De todo modo, não verifico a presença de ilegalidade flagrante que desafie a concessão da ordem de ofício, nos termos do §2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, com fundamento no artigo 34, inciso XVIII, alínea "a", do RISTJ, não conheço do habeas corpus .
+Publique-se. Intimem-se
+EMENTA
