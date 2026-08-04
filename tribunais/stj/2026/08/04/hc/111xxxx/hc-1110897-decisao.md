@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de J. E. B. M, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, que denegou o HC n. 51427026320268217000.
+Consta dos autos que, em 13/3/2026, o paciente foi preso em flagrante pela suposta prática do delito previsto no art. 33 da Lei n. 11.343/2006, tendo-lhe sido concedida liberdade provisória com imposição de medidas cautelares diversas da prisão no âmbito do Auto de Prisão em Flagrante n. 5000960-75.2026.8.21.0137.
+Posteriormente, em 13/4/2026, foi decretada a prisão preventiva do paciente nos autos do Pedido de Prisão Preventiva n. 5001297-64.2026.8.21.0137, sob fundamentos relacionados a elementos extraídos de aparelho telefônico apreendido no flagrante.
+Impetrado writ na origem, a ordem foi denegada pelo Tribunal de Justiça do Estado do Rio Grande do Sul no HC Estadual n. 5142702-63.2026.8.21.7000/RS.
+O impetrante sustenta o cabimento excepcional do Habeas Corpus como substitutivo do recurso próprio, com concessão da ordem de ofício, ao argumento de que o paciente estaria submetido a flagrante constrangimento ilegal decorrente da manutenção da prisão preventiva sem demonstração de periculum libertatis atual e contemporâneo.
+Afirma que a decretação e a manutenção da custódia cautelar teriam sido respaldadas em elementos probatórios pretéritos extraídos de aparelho telefônico apreendido no flagrante, confundindo-se elementos novos de investigação com fatos novos aptos a justificar a medida extrema, em desconformidade com a exigência legal de contemporaneidade.
+Alega não haver notícia de descumprimento das medidas cautelares anteriormente impostas e sustenta a ausência de demonstração concreta de insuficiência dessas providências menos gravosas, em afronta à lógica de subsidiariedade da prisão preventiva.
+Argumenta que a denúncia superveniente teria individualizado o paciente como agente subordinado, sem posição de chefia, liderança ou gerência, o que enfraqueceria parte relevante dos fundamentos fáticos utilizados para justificar a prisão preventiva.
+Expõe haver pluralidade de corréus atuando no mesmo contexto fático- associativo e ressalta a desproporcionalidade e a assimetria cautelar decorrentes da manutenção da prisão praticamente exclusiva do paciente, sem motivação individualizada que demonstre risco singular à ordem pública.
+Destaca as condições pessoais favoráveis do paciente  primariedade, 18 anos de idade, residência fixa, atividade laborativa lícita, inexistência de processos criminais ou atos infracionais pretéritos  para reforçar a ausência de elementos concretos indicativos de risco atual de reiteração delitiva ou continuidade criminosa em liberdade.
+Requer, liminarmente, que o paciente possa aguardar em liberdade o julgamento definitivo do Habeas Corpus, mediante cumprimento de medidas cautelares diversas da prisão, e, no mérito, pugna pela concessão da ordem para que a prisão preventiva seja revogada.
+A liminar foi indeferida (fls. 423/424).
+Informações prestadas (fls. 437/472).
+É o relatório.
+Trata-se, na origem, de prisão em flagrante pela suposta prática do delito do art. 33, caput, da Lei n. 11.343/2006, com apreensão de 900 g de maconha, balança de precisão e imposição inicial de medidas cautelares diversas da prisão, inclusive monitoramento eletrônico e comparecimento aos atos do processo. Posteriormente, houve decretação de prisão preventiva, fundada no aprofundamento da investigação com extração de dados do aparelho celular apreendido e indícios de maior envolvimento na narcotraficância e possível associação criminosa, reputando-se insuficientes as cautelares previamente impostas.
+Do acórdão impugnado consta que o aprofundamento da investigação criminal demonstrou que J. E. possui alto grau de envolvimento nesta prática delitiva, com possível engajamento na organização criminosa "Os Manos", o que torna evidente a sua periculosidade (fls. 38/39).
+Nesse contexto, observa-se que a manutenção da constrição cautelar está baseada em elementos vinculados à realidade, pois as instâncias ordinárias fizeram referências às circunstâncias fáticas justificadoras, destacando a gravidade em concreto do delito.
+Ora, tratando-se de associação criminosa que possui constante atuação, para que se interrompa ou diminua seu desempenho, faz-se necessária a ordem de prisão. Nesse sentido: HC n. 974.892/SP, de minha relatoria, Sexta Turma, DJEN 27/3/2025; AgRg no HC n. 947.800/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN 11/3/2025; e AgRg no RHC n. 207.913/CE, Ministro Og Fernandes, Sexta Turma, DJEN 12/3/2025.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS QUE DENOTAM A NECESSIDADE DA CUSTÓDIA PARA A GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
