@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por ALESSANDRO PORTILHO DA SILVA, ROBSON PORTILHO DA SILVA e EDUARDO DA SILVA ARAUJO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL.
+Consta nos autos que os recorrentes tiveram a prisão preventiva decretada pela suposta prática dos crimes de tráfico de drogas, associação para o tráfico e receptação.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de Justiça de origem, que denegou a ordem em acórdão às fls. 345-353.
+Neste recurso sustenta, em suma, a ausência de fundamentação concreta e idônea da decisão que decretou a prisão cautelar em desfavor dos recorrentes, bem como ausência dos requisitos ensejadores da prisão preventiva, defendendo a possibilidade da aplicação de medidas cautelares diversas da prisão.
+Requer a revogação das prisões preventivas ou, subsidiariamente, sua substituição por medida cautelar diversa.
+Liminar indeferida às fls. 402-403.
+Informações prestadas às fls. 405-408.
+O Ministério Público Federal manifestou, às fls. 417-420, pelo desprovimento do recurso.
+É o relatório. DECIDO.
+A análise da decisão que decretou a prisão preventiva dos recorrentes permite a conclusão de que as prisões cautelares impostas aos recorrentes encontram-se em consonância com a jurisprudência desta Corte sobre o tema, uma vez que fundamentadas em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública, seja em razão da quantidade e variedade de droga apreendida: "494 g de maconha e mais de 900 kg de cocaína"- fl. 251, seja em razão do risco de reiteração delitiva, uma vez que "alguns dos autuados possuem registros anteriores pela prática de crimes, inclusive Robson e Alexandre, os quais ostentam condenações anteriores"- fl. 251, circunstâncias aptas a ensejarem a manutenção das segregações cautelares.
+A propósito:
+"A gravidade concreta dos delitos e a periculosidade do agente, evidenciadas pela quantidade e variedade de entorpecentes apreendidos, justificam a manutenção da prisão preventiva para garantir a ordem pública." (AgRg no HC n. 870.947/ES,Minha relatoria, Quinta Turma, julgado em 27/11/2024, DJe de 6/12/2024.)
+A prisão preventiva está fundamentada na gravidade concreta da conduta, evidenciada pela apreensão de variedade e quantidade de entorpecentes, a bem da ordem pública."(AgRg no RHC n. 204.354/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJe de 2/12/2024.)
+Nesse mesmo sentido, confiram-se alguns precedentes: (AgRg no HC n. 946.193/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJe de 2/12/2024.)AgRg no RHC n. 196.021/DF, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 3/6/2024; AgRg no RHC n. 193.763/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 12/4/2024.
+Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (AgRg no HC n. 797.708/SC, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 24/3/2023.).
+Outrossim, conforme a jurisprudência desta Corte, a reincidência justifica a prisão cautelar para a garantia da ordem pública,  (AgRg no HC n. 914.154/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 16/8/2024); (AgRg no AREsp n. 2.451.465/PR, Minha Relatoria, Quinta Turma, DJe de 13/8/2024); (AgRg no RHC n. 198.668/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 3/7/2024.); (AgRg no RHC n. 192.068/MG, relator Mini stro Joel Ilan Paciornik, Quinta Turma, DJe de 26/6/2024)  .
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+A nte o exposto, nos termos do art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publ ique-se. Intimem-se.
+EMENTA
