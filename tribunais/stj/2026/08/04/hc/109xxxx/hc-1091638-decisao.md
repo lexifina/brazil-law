@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de BRUNO DE SOUZA contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS na Apelação Criminal n. 1.0000.25.340776-1/001.
+Depreende-se dos autos que o paciente foi sentenciado pelo Juízo da 1ª Vara Criminal e da Infância e da Juventude da Comarca de Itajubá/MG à pena de 7 (sete) anos, 3 (três) meses e 15 (quinze) dias de reclusão, em regime inicial fechado, além de 730 (setecentos e trinta) dias-multa, por infração ao artigo 33, caput, da Lei n. 11.343/2006, c.c. o artigo 61, I, do Código Penal (fls. 36-48).
+Ambas as partes apelaram ao Tribunal de origem, que rejeitou a preliminar defensiva e negou provimento a ambos os recursos, mantendo a condenação e o regime prisional fixados, bem como indeferindo o pedido ministerial de fixação de valor mínimo para reparação de danos morais coletivos (fls. 14-33).
+Na presente impetração, busca-se, em síntese, a concessão da ordem, inclusive liminarmente, para: (i) reconhecer a ilicitude das provas decorrentes do ingresso domiciliar e absolver o paciente; e (ii) subsidiariamente, limitar os efeitos da condenação à abordagem veicular, com aplicação do artigo 28 da Lei n. 11.343/2006 (fls. 2-11).
+O pedido de liminar foi indeferido às fls. 105-106.
+As informações solicitadas foram recebidas e acostadas às fls. 115-186.
+Por sua vez, o Ministério Público Federal manifestou-se pela denegação da ordem, conforme parecer de fls. 193-199.
+É o relatório. DECIDO.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida.
+A Terceira Seção, no âmbito do HC n. 535.063/SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/6/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC n. 180.365/PB, de relatoria da Ministra Rosa Weber, julgado em 27/3/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+De todo modo, cotejando as alegações deduzidas na inicial, não verifico a presença de coação ilegal que desafie a concessão da ordem, de ofício, nos termos do parágrafo 2º do artigo 654 do Código de Processo Penal, conforme percuciente fundamentação do acórdão impugnado, cuja moldura fática relatada demonstra a existência de fundadas razões para a realização das buscas veicular, pessoal e domiciliar.
+Confiram-se os seguintes trechos do julgado (fls. 17-23):
+"RECURSO DA DEFESA
+1) PRELIMINAR
+1.1) Nulidade da prova por ausência de justa causa para a busca domiciliar
+De início, a Defesa suscitou preliminar na qual requer o reconhecimento da ilegalidade da ação policial, decorrente de invasão de domicílio e das provas derivadas das diligências realizadas, as quais entende ilegais, nos termos do art. 157, caput, e §1º do CPP, com a consequente absolvição do apelante, com supedâneo no art. 386, II, do CPP.
+Todavia, tenho que razão não lhe assiste.
+Consoante o art. 283, §2º, do CPP, a prisão em flagrante delito pode ser efetuada em qualquer dia e a qualquer hora, desde que respeitadas as restrições relativas à inviolabilidade do domicílio.
+O art. 5º, XI, da Constituição da República dispõe que a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial.
+In casu, extrai-se dos autos, notadamente dos depoimentos prestados pelos policiais nas duas fases da persecução penal, que, durante patrulhamento, os militares avistaram o veículo placas P2B4H70, que estava sendo conduzido por um indivíduo com as mesmas características físicas do apelante, que seria "foragido da justiça".
+Infere-se dos relatos dos militares que, diante de tal suspeita, foi dada ordem de parada, tendo o condutor, posteriormente reconhecido como sendo, de fato, o apelante, obedecido à ordem dos policiais.
+Depreende-se que, ato contínuo, os militares cientificaram o apelante sobre a existência de um mandado de prisão em seu desfavor, sendo que, durante a abordagem, sentiram um forte odor de maconha vindo do interior do veículo, ocasião em que os policiais encontraram uma sacola no porta objetos da porta do motorista, dentro da qual estavam 25 (vinte e cinco) buchas de maconha, 07 (sete) tabletes da mesma droga, além de 03 (três) papelotes contendo haxixe.
+De acordo com os militares, ao indagarem o apelante se ele mantinha mais entorpecentes em sua residência, este respondera que possuía mais um pouco, ressaltando que quando chegassem no imóvel os entregaria, mas que não queria envolver sua família.
+É dos autos, ainda, que quando chegaram na residência do apelante contataram a sua esposa, sendo-lhe cientificada a prisão de Bruno.
+Os militares também ressaltaram que tiveram o ingresso na residência autorizado pela esposa do apelante, de prenome Bianca, a qual entregou uma mochila verde aos policiais, que Bruno já havia feito menção anteriormente.
+Segundo os policiais, dentro da referida mochila foram encontrados 63 (sessenta e três) tabletes de maconha, 58 (cinquenta e oito) buchas da mesma substância, 26 (vinte e seis) papelotes contendo haxixe e mais 01 (uma) porção de tamanho considerável do mesmo entorpecente, além de 02 (duas) balanças de precisão, 01 (uma) máquina de cartão "mercado pago", 01 (um) rolo de papel filme, 01 (um) pacote de sacos zip e 01 (um) pacote de "sacolé".
+Os militares também relataram que, além da existência de um mandado de prisão em desfavor do apelante, existiam várias informações dando conta de que Bruno perpetrava o delito de tráfico de drogas em sua casa e realizava uma espécie de "delivery" dos entorpecentes que comercializava.
+ ..
+O militar Luiz Fernando Mota, na fase indiciária (doc. nº 02, f. 05), corroborou integralmente o depoimento prestado por Éder Vitor Donizete.
+Sob o crivo do contraditório (PJe Mídias), o militar Éder Vitor Donizete ratificou a versão por ele apresentada na delegacia de polícia e relatou que durante patrulhamento os policiais visualizaram o apelante, contra o qual havia um mandado de prisão em aberto, motivo porque procederam à abordagem do veículo por ele conduzido na ocasião.
+Confirmou que os policiais lograram encontrar certa quantidade de drogas no interior do veículo, momento em que, ao ser questionado, o apelante admitiu que possuía mais drogas em sua residência, tendo, ainda, autorizado a entrada dos militares no imóvel e indicado que as substâncias proscritas estavam armazenadas dentro de uma mochila.
+Afirmou que a esposa do apelante também autorizou a entrada dos militares no imóvel e, seguindo orientações do réu, entregou aos policiais uma mochila contendo grande quantidade de maconha, haxixe e petrechos geralmente utilizados na prática do tráfico de drogas, tais como balanças de precisão e sacos para embalagens.
+O policial Luiz Fernando Mota, na fase judicial (PJe Mídias), corroborou os relatos do militar Éder, reafirmando que o apelante admitiu de forma espontânea que possuía mais entorpecentes em sua residência e entregou o controle remoto do portão aos policiais, a fim de que estes entregassem uma cadeirinha de bebê que estava dentro do veículo.
+Pontuou que, além do apelante, a esposa de Bruno, Bianca, também autorizou a entrada dos policiais na residência e lhes entregou a mochila contendo as drogas.
+Disse acreditar que a esposa do apelante desconhecia o que havia dentro da mochila, tendo em vista que na hora dos fatos ela ficou muito nervosa.
+O réu, por sua vez, na delegacia de polícia (doc. nº 02, f. 09), optou por permanecer em silêncio.
+Interrogado em juízo (PJe Mídias), o apelante negou ter praticado o delito que lhe foi imputado, declarando, em autodefesa, que a droga arrecadada em seu veículo destinava-se ao próprio consumo.
+Alegou, ainda, que os militares ingressaram em sua residência sem sua autorização e de sua esposa, se valendo de um controle do portão que haviam subtraído de dentro de seu carro.
+Declarou que fora coagido a indicar o local onde estava o restante das drogas, sendo ameaçado de que, se assim não fizesse, sua esposa e suas filhas seriam implicadas na prática de tal delito.
+Como é cediço, no crime de tráfico de drogas, os efeitos se prolongam no tempo, denominados crimes permanentes, cujo autor, justamente por causa disso, remanesce em permanente estado de flagrância, a possibilitar a incidência do disposto no artigo 303 da Lei Processual Penal.
+Não se pode perder de vista que o delito de tráfico de drogas trata-se de crime de ação múltipla ou conteúdo variado, o qual se configura com a prática de quaisquer das condutas previstas no tipo penal.
+Por essas razões, isto é, em razão da natureza permanente do delito, que a doutrina a jurisprudência firmaram o entendimento de que, estando o agente em estado de flagrante delito, ressai legítimo o acesso das autoridades policiais no interior de local suspeito, mesmo sem mandado de busca e apreensão, a fim de fazer cessar a conduta ilícita desempenhada.
+ ..
+Com efeito, tenho que na hipótese pairavam fundadas suspeitas sobre a prática do delito de tráfico de drogas na residência do apelante, seja em razão de informações dando conta de que ele realizava a mercancia em sua residência e, inclusive, praticava entregas via "delivery", seja em razão de ter sido surpreendido transportando várias porções de maconha e haxixe em seu veículo.
+Sob tais fundamentos, rejeito a preliminar erigida.
+Inexistentes outras preliminares arguidas pelas partes ou que devam ser sanadas de ofício, passo ao exame do mérito."
+Ademais, apesar de a Defesa alegar a necessidade de absolvição ou desclassificação da conduta delitiva, fato é que o paciente foi condenado com amparo em provas de autoria e materialidade amplamente debatidas nos autos principais.
+Impossível, assim, revolver o contexto fático-probatório original, de maneira a se afastar a condenação imposta, em não se identificando qualquer flagrante ilegalidade prima facie.
+De mais a mais, é iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus ou do seu recurso ordinário para a análise de teses que demandem incursão no acervo fático-probatório (AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 23/5/2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/6/2023).
+Desta forma, os referidos pedidos trazidos nesta impetração não comportam guarida sob nenhuma vertente.
+Ante todo o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
