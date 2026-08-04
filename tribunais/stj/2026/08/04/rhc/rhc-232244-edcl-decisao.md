@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CLEBER CONCEIÇÃO DA SILVA contra a decisão monocrática de fls. 464-469, que negou provimento ao recurso em habeas corpus.
+Nas razões dos embargos, a defesa alega omissão central quanto a fato superveniente relevante: a conclusão dos incidentes de insanidade mental e a existência de laudo pericial já juntado, atestando a inimputabilidade do embargante, informação que teria sido levada aos autos por meio de memoriais antes do julgamento e não apreciada na decisão recorrida.
+Argumenta que há omissão quanto ao excesso de prazo da prisão cautelar, tema que teria sido suscitado nas instâncias competentes e seria cognoscível de ofício, notadamente em habeas corpus, afirmando que a vedação de supressão de instância não pode prevalecer diante do constrangimento ilegal apontado.
+Ressalta a ausência de contemporaneidade dos fundamentos da custódia cautelar, pois a prisão não teria sido devidamente reavaliada, em afronta ao art. 316, parágrafo único, do CPP.
+Defende que há omissão quanto à inadequação da prisão preventiva em presídio comum diante do quadro psiquiátrico grave e do laudo superveniente. A firma que o embargante faz jus à substituição da custódia por internação provisória, com base nos arts. 149, 150 e 319, VII, do Código de Processo Penal e na Lei n. 10.216/2001.
+Expõe que o saneamento das omissões demanda efeitos infringentes, com a revisão da decisão embargada para substituir a prisão preventiva por internação provisória.
+Subsidiariamente, argumenta que deve ser reconhecido de ofício o excesso de prazo, com a aplicação de medidas cautelares diversas, e destaca a necessidade de prequestionamento dos dispositivos indicados.
+Requer, ao final, o acolhimento dos aclaratórios, para sanar o suposto vício apontado, com a correspondente repercussão jurídica.
+É o relatório.
+Os embargos de declaração são cabíveis somente nas hipóteses previstas no art. 619 do Código de Processo Penal, quando houver na decisão embargada ambiguidade, obscuridade, contradição ou omissão, tendo a jurisprudência os admitido, também, para sanar eventual erro material na decisão embargada.
+São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, novo julgamento do caso.
+No caso, é inviável o acolhimento da pretensão recursal, porquanto, conforme consignado na decisão embargada, este Superior Tribunal possui entendimento de que, ainda estando em tramitação o incidente de insanidade mental, é incabível a substituição da prisão preventiva por internação provisória.
+Ainda, quanto à alegação de excesso de prazo da prisão cautelar, destacou-se que o Tribunal de origem não a examinou, circunstância que inviabiliza o exame da questão pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Quanto à alegação de que a defesa teria apresentado laudo pericial por meio de memoriais, que teriam comprovado a inimputabilidade do embargante, verifica-se que referido laudo é datado de 26/12/2025 (fls. 454-462), data posterior à prolação do acórdão recorrido pelo Tribunal de origem, que ocorreu em 4/12/2025 (fls. 407-423).
+Nesse contexto, o novo laudo mencionado pela defesa, por ter potencial de alterar a situação fática dos autos, deve ser previamente submetido ao Juízo de primeiro grau, bem como ao Tribunal de origem, a fim de viabilizar a análise da matéria por esta Corte Superior, sob pena de supressão de instância.
+Em relação à alegação de ausência de contemporaneidade dos fundamentos da custódia cautelar, trata-se de indevida inovação recursal em embargos de declaração, o que impede o conhecimento da matéria.
+De acordo com o entendimento fixado por est e Tribunal Superior, " o s embargos não se prestam ao reexame da matéria já decidida nem à inovação recursal, razão pela qual não comportam efeitos modificativos na hipótese" (EDcl no AgRg no HC n. 1.083.398/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 24/6/2026, DJEN de 16/7/2026).
+Portanto, inexistindo vício a ser sanado, a pretensão do recurso é de rediscussão dos fundamentos da decisão embargada, propósito inviável para o recurso em apreço, nada havendo que se possa acolher.
+Ante o exposto, na forma do art. 264, § 1º, do Regimento Interno do Superior Tribunal de Justiça, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
