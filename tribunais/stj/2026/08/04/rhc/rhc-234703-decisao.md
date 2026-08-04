@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por DIEGO RAFAEL BANDEIRA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Consta nos autos que o recorrente teve a prisão preventiva decretada, em 17 de setembro de 2025, pela suposta prática do crime de tráfico de drogas.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de Justiça de origem, que denegou a ordem em acórdão às fls. 21-25.
+Neste recurso sustenta, em suma, a ausência de fundamentação concreta e idônea da decisão que decretou a prisão cautelar em desfavor do recorrente, bem como ausência dos requisitos ensejadores da prisão preventiva, defendendo a possibilidade da aplicação de medidas cautelares diversas da prisão.
+Requer a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medida cautelar diversa.
+Liminar indeferida às fls. 50-51.
+Informações prestadas às fls. 60-63. O Ministério Público Federal manifestou, às fls. 65-74, pelo "desprovimento do recurso".
+É o relatório. DECIDO.
+A análise da decisão que decretou a prisão preventiva, bem como do acórdão impugnado permitem a conclusão de que a prisão cautelar imposta ao recorrente encontra-se em consonância com a jurisprudência desta Corte sobre o tema, uma vez que fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública, seja em razão da grande quantidade e variedade de droga apreendida: "foi preso na posse de 08 tijolos de maconha, pesando 5kg, 02 porções de maconha, pesando aproximadamente 100g, e 01 porção de ecstasy, pesando 7g"- fl. 22, seja pelo fato de "ser reincidente, conforme a certidão de antecedentes criminais"- fl. 23, circunstâncias aptas a ensejarem a manutenção da segregação cautelar.
+A propósito:
+"A gravidade concreta dos delitos e a periculosidade do agente, evidenciadas pela quantidade e variedade de entorpecentes apreendidos, justificam a manutenção da prisão preventiva para garantir a ordem pública." (AgRg no HC n. 870.947/ES,Minha relatoria, Quinta Turma, julgado em 27/11/2024, DJe de 6/12/2024.)
+A prisão preventiva está fundamentada na gravidade concreta da conduta, evidenciada pela apreensão de variedade e quantidade de entorpecentes, a bem da ordem pública."(AgRg no RHC n. 204.354/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJe de 2/12/2024.)
+Nesse mesmo sentido, confiram-se alguns precedentes: (AgRg no HC n. 946.193/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJe de 2/12/2024.)AgRg no RHC n. 196.021/DF, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 3/6/2024; AgRg no RHC n. 193.763/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 12/4/2024.
+Conforme pacífica jurisprudência desta Corte:
+"como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência ou até mesmo outras ações penais ou inquéritos em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (RHC n. 156.048/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 15/02/2022, DJe 18/02/2022)."(AgRg no RHC n. 196.193/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+Outrossim, conforme a jurisprudência desta Corte, a reincidência justifica a prisão cautelar para a garantia da ordem pública,  (AgRg no HC n. 914.154/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 16/8/2024); (AgRg no AREsp n. 2.451.465/PR, Minha Relatoria, Quinta Turma, DJe de 13/8/2024); (AgRg no RHC n. 198.668/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 3/7/2024.); (AgRg no RHC n. 192.068/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 26/6/2024)  .
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão se há nos autos elementos hábeis a recomendar a manutenção de sua custódi a cautelar, o que ocorre na hipótese.
+A nte o exposto, nos termos do art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
