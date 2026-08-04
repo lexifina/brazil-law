@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de CLAYTON LUIZ DA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+Consta dos autos que o paciente está preso preventivamente e se insurge contra o suposto excesso de prazo no julgamento de acórdão de apelação.
+A impetrante sustenta que o habeas corpus é cabível contra omissão quando a demora injustificada recai sobre pedido que afeta a liberdade, com contraditório encerrado.
+Defende que a compreensão do Supremo Tribunal Federal sobre excesso de prazo em prisão cautelar se aplica, por analogia, à execução provisória sem controle jurisdicional atual.
+Entende que o constrangimento é atual, contínuo e renovado, não se tratando de sucedâneo recursal, mas de inércia que mantém o encarceramento.
+Pondera que a execução provisória exige controle judicial efetivo e contemporâneo, sob pena de violação à proporcionalidade e à tutela jurisdicional.
+Informa que há ofensa à duração razoável do processo, pois a apelação aguarda julgamento desde março de 2025, sem previsão concreta.
+Relata que a defesa provocou reiteradamente o órgão julgador, por petições e manifestação oral, sem resposta, e que os entraves são institucionais.
+Alega que, diante do silêncio decisório, a execução provisória converte-se em antecipação indevida da pena.
+Assevera que medidas menos gravosas se esgotaram e que a única forma de restabelecer a legalidade é cessar a restrição de liberdade.
+Afirma que, subsidiariamente, podem ser aplicadas cautelares do art. 319 do CPP ou, ao menos, impor prazo certo para decisão do relator.
+Requer, liminarmente e no mérito, a colocação do paciente em liberdade para aguardar o julgamento da apelação; subsidiariamente, a aplicação de medidas cautelares do art. 319 do CPP; alternativamente, a fixação de prazo certo para decisão do relator.
+Por meio da decisão de fls. 33-34, o pedido liminar foi indeferido. Em seguida, foram juntadas aos autos as informações prestadas pela origem (fls. 41-49), bem como a manifestação do Ministério Público Federal, opinando pelo reconhecimento da prejudicialidade do habeas corpus (fls. 51- 52).
+É o relatório.
+No caso, conforme consulta ao processo de origem (código de acesso à fl. 48), constata-se que ocorreu o julgamento do recurso de apelação em 16/7/2026, conforme ementa a seguir:
+DIREITO PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. ORGANIZAÇÃO CRIMINOSA, RECEPTAÇÃO QUALIFICADA, ADULTERAÇÃO DE SINAL IDENTIFICADOR E LAVAGEM DE DINHEIRO. DESPROVIMENTO DE RECURSOS, ANULAÇÃO DE CONDENAÇÃO POR RECEPTAÇÃO POR AUSÊNCIA DE CORRELAÇÃO E REDIMENSIONAMENTO DE PENAS.
+I. CASO EM EXAME
+1. Trata-se de apelações criminais interpostas pelos recorrentes, contra sentença que os condenou pela prática de crimes como organização criminosa, receptação qualificada, adulteração de sinais identificadores e lavagem de dinheiro, no contexto de um esquema de comércio de peças automotivas ilícitas. Os apelantes buscam a absolvição, o reconhecimento de nulidades processuais e a revisão da dosimetria da pena.
+II. QUESTÃO EM DISCUSSÃO
+2. (i) Saber se há nulidade por incompetência dos juízos de Morrinhos e Hidrolândia para as quebras de sigilo, violação ao princípio do juiz natural, ou compartilhamento de provas. (ii) Saber se a denúncia é inepta por ser genérica ou pela ausência de individualização das condutas. (iii) Saber se o desmembramento do feito gerou cerceamento de defesa. (iv) Saber se a juntada de laudo pericial em alegações finais configura nulidade. (v) Saber se houve quebra da cadeia de custódia das provas digitais. (vi) Saber se há nulidade por violação ao princípio da correlação entre denúncia e sentença quanto à condenação por receptação de Faymeson Wesley Cândido Pinheiro e Wellker Augusto Duarte Rodrigues. (vii) Saber se o indeferimento de oitiva de corréu implica cerceamento de defesa. (viii) Saber se há insuficiência probatória para os crimes de organização criminosa, receptação qualificada, adulteração de sinais identificadores e lavagem de dinheiro. (ix) Saber se a conduta de lavagem de dinheiro é atípica ou sem dolo. (x) Saber se o art. 180, § 1º, do Código Penal é inconstitucional. (xi) Saber se o princípio da consunção pode ser aplicado entre os delitos de receptação, adulteração e lavagem de dinheiro. (xii) Saber se as penas foram fixadas em conformidade com o art. 59 do Código Penal, se há direito à continuidade delitiva ou à redução de penas em concurso formal, se é cabível regime inicial mais brando ou substituição da pena privativa de liberdade por restritiva de direitos.
+III. RAZÕES DE DECIDIR
+3. A incompetência dos juízos de Morrinhos e Hidrolândia é afastada, pois atuaram com base em elementos iniciais da investigação, configurando competência aparente, e não houve demonstração de prejuízo.
+4. A inépcia da denúncia é rejeitada, visto que a peça acusatória descreve suficientemente o contexto fático, o liame subjetivo e o papel dos acusados na organização criminosa, permitindo o exercício da ampla defesa.
+5. O desmembramento do processo é faculdade do juiz, amparada no art. 80 do Código de Processo Penal e na jurisprudência, para garantir a razoável duração do processo e celeridade, especialmente para réus presos, não configurando cerceamento de defesa sem prejuízo demonstrado.
+6. A juntada de laudo pericial nas alegações finais não enseja nulidade, pois foi oportunizado o contraditório e a defesa não impugnou o documento no momento adequado, havendo preclusão da matéria (art. 563 e 571, inc. II, CPP).
+7. A alegação de quebra da cadeia de custódia das provas digitais é afastada, pois não houve comprovação de adulteração ou prejuízo concreto, e a ausência de código hash, por si só, não invalida a prova, que foi obtida com autorização judicial.
+8. A condenação de Faymeson Wesley Cândido Pinheiro e Wellker Augusto Duarte Rodrigues pelo crime de receptação (Fato 19 e Fato 16, respectivamente) é anulada por violação ao princípio da correlação, uma vez que a denúncia não descreveu individualmente suas condutas para esses delitos.
+9. O indeferimento da oitiva de corréu como testemunha não configura cerceamento de defesa, pois o ordenamento jurídico não permite tal inquirição, salvo em casos de delação premiada, e a prova pretendida não se mostrou imprescindível.
+10. A materialidade e autoria dos crimes de organização criminosa, receptação qualificada, adulteração de sinais identificadores e lavagem de dinheiro são comprovadas por farto acervo probatório, incluindo interceptações telefônicas e telemáticas, depoimentos policiais, apreensões de bens e documentos, que demonstram a atuação estruturada e coordenada dos apelantes.
+11. A constitucionalidade do art. 180, § 1º, do CP é reconhecida, seguindo o entendimento do STF e STJ, que o consideram compatível com a Constituição por visar reprimir condutas mais graves no exercício de atividade comercial.
+12. O princípio da consunção não se aplica entre os crimes de receptação, adulteração e lavagem de dinheiro, pois tutelam bens jurídicos distintos e as condutas representam desígnios autônomos que extrapolam o mero exaurimento de um crime pelo outro.
+13. A dosimetria da pena é revisada de ofício, afastando valoração negativa inidônea de circunstâncias judiciais (conduta social e consequências do crime, por serem inerentes ao tipo penal), redimensionando as penas-base e, consequentemente, as penas definitivas.
+14. O regime inicial de cumprimento da pena é readequado de ofício para alguns apelantes, considerando o quantum da pena aplicada e a primariedade, conforme art. 33, § 2º, do CP.
+15. O pedido de afastamento da pena de multa é rejeitado, por ser sanção autônoma e obrigatória.
+16. A substituição da pena privativa de liberdade por restritivas de direitos é inviável para alguns apelantes, devido ao quantum da pena aplicada ou à presença de circunstâncias judiciais desfavoráveis.
+IV. DISPOSITIVO E TESE
+17. Os recursos são conhecidos e parcialmente providos.
+Dispositivos relevantes citados: CP, arts. 29, 33, § 2º, alíneas "a", "b" e "c", 44, 69, 70, 71, 180, §§ 1º e 2º, 311, §§ 2º, inciso II, e 3º; CPP, arts. 41, 80, 157, 158-A, 158-B, 158-C, 158-D, 231, 383, 394, §1º, inciso I, 400, § 1º, 563, 571, inciso II, 580; Lei nº 12.850/2013, arts. 1º, 2º, caput e §1º; Lei nº 9.613/98, arts. 1º, caput e § 4º; Lei nº 10.826/03, art. 16, IV.
+Jurisprudências relevantes citadas: STF, RHC 130132, HC 120.587, RE 443.388/SP, RHC 117.143/RS; STJ, AgRg n. AREsp n. 2.168.389/AL, REsp 1760972-MG, RHC n. 76.951/RJ, HC n. 380.029/RS, HC n. 375.019/RS, EREsp 772.086/RS; TJGO, ApCrim. nº 5532390-64.2020.8.09.0126, Apelação Criminal 0042771-68.2016.8.09.0175.
+(Apelação n. 5101718-59.2024.8.09.0107, Relator Des. Adegmar José Ferreira, 4ª Câmara Criminal, julgado em 16/7/2026, DJe de 20/7/2026)
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
