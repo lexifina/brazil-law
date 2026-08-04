@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de APARECIDO BASÍLIO DE JESUS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o Tribunal de origem julgou improcedente a revisão criminal, mantendo a condenação do paciente às penas de 8 anos e 4 meses de reclusão e 1 ano de detenção, e de pagamento de 1.260 dias-multa, como incurso nas sanções dos arts. 33, caput, e 35, caput, da Lei n. 11.343/2006 e 12, caput , da Lei n. 10.826/2003.
+O impetrante sustenta que a condenação seria nula porquanto estaria lastreada em prova obtida mediante violação de domicílio, devendo o réu ser absolvido.
+Acaso não acolhido o pedido de nulidade processual, alega a inexistência de prova para a condenação pelo crime de associação para o tráfico ao argumento de que faltariam indícios do vínculo estável e permanente entre os corréus.
+Requer o reconhecimento da nulidade no feito e, por conseguinte, a absolvição do paciente de todas as imputações ou, subsidiariamente, a absolvição quanto ao crime de associação para o tráfico.
+O parecer do Ministério Público Federal é pelo não conhecimento da impetração ou pela denegação da ordem (fls. 90-94).
+É o relatório.
+É firme no Superior Tribunal de Justiça a compreensão de que o habeas corpus não pode ser utilizado como substitutivo do recurso legalmente previsto.
+No caso, apreciado pela instância de origem o pedido de revisão criminal, a impugnação deve ser feita por meio de recurso especial, nos termos previstos no art. 105, III, da Constituição Federal, por se tratar de "causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios".
+Nesse sentido: AgRg no HC n. 1.042.849/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/11/2025, DJEN de 12/11/2025; AgRg no HC n. 1.015.569/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 24/9/2025, DJEN de 30/9/2025; e HC n. 988.028/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/5/2025, DJEN de 21/5/2025.
+Por isso, e observado o princípio da unirrecorribilidade, a impetração é substitutiva de recurso próprio, razão pela qual do habeas corpus não se pode conhecer.
+Deve-se registrar, em acréscimo, que, nas hipóteses em que a instância de origem julga improcedente o pedido revisional, por entender não caracterizada alguma das previsões contidas no art. 621 do Código de Processo Penal, a irresignação quanto a tal conclusão - cabível no recurso especial, como esclarecido - depende da demonstração de aplicação incorreta do referido dispositivo da lei processual.
+Com efeito, a jurisprudência deste Superior Tribunal não admite a utilização da revisão criminal como nova oportunidade de interpor apelação, reabrindo-se a rediscussão de questões já acobertadas pela coisa julgada, sendo indispensável a demonstração de cabimento do pedido revisional. Nesse sentido: HC n. 988.028/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/5/2025, DJEN de 21/5/2025; e HC n. 970.713/BA, de minha Relatoria, Sexta Turma, julgado em 3/9/2025, DJEN de 9/9/2025.
+No ponto, como bem asseverado no parecer ministerial (fls. 91-92):
+Essa Colenda Corte, em consonância com o Supremo Tribunal Federal, pacificou orientação no sentido de que não cabe habeas corpus substitutivo de recurso legalmente previsto para a hipótese, ou até mesmo revisão criminal, impondo-se o não conhecimento, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado, a justificar a concessão da ordem de ofício, medida que não se mostra necessária no presente caso. Nesse sentido:
+Este Superior Tribunal de Justiça, no que segue o Supremo Tribunal Federal, não admite, como regra, que o habeas corpus sirva de substituto a recurso próprio (apelação, recurso ordinário, agravo em execução, recurso especial etc), nem mesmo à revisão criminal, quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. (AgRg no HC 750.870/MG, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 9/9/2024, DJe de 11/9/2024)
+Em suma, mantém-se a conclusão pela impossibilidade de conhecimento do writ, conforme entendimento consolidado.
+Ante o exposto, nos termos do art. 210 do RISTJ, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
