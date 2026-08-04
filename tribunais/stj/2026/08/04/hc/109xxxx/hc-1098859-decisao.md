@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MRISHO SALEHE ALLY, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Na origem, o paciente foi preso em flagrante no dia 11/03/2026, sendo posteriormente denunciado pela suposta prática do crime de tráfico de drogas (artigo 33, caput, da Lei n. 11.343/2006), perante o Juízo de primeiro grau. Segundo a acusação, o paciente e um corréu transportavam, no banco traseiro de um veículo, aproximadamente 2 (dois) quilos de maconha e maconha sintética. A prisão em flagrante foi convertida em preventiva para garantia da ordem pública e aplicação da lei penal.
+Inconformada, a defesa impetrou habeas corpus perante o Tribunal de origem (n. 2064487-37.2026.8.26.0000), sustentando a ilegalidade da busca pessoal e veicular e a ausência de fundamentação idônea para a custódia cautelar. O TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, por unanimidade, denegou a ordem em acórdão proferido em 15/05/2026, sob o fundamento de que a abordagem foi precedida de fundada suspeita (tentativa de evasão e observação prévia de transação suspeita) e que a prisão preventiva está justificada pela gravidade concreta do delito e pelo risco de fuga, uma vez que o paciente é estrangeiro.
+Nesta impetração, o impetrante reitera as teses de nulidade das provas decorrentes de busca pessoal e veicular ilegal, por ausência de fundada suspeita, alegando tratar-se de "pesca probatória". Sustenta, ainda, a carência de fundamentação concreta para a prisão e a possibilidade de aplicação de medidas cautelares diversas, ressaltando o estado de saúde do paciente, que necessitaria de cirurgia para tratamento de hidrocele.
+O pedido de liminar foi indeferido.
+As informações foram devidamente prestadas pela autoridade apontada como coatora.
+O MINISTÉRIO PÚBLICO FEDERAL manifestou-se pelo não conhecimento da impetração, por se tratar de substitutivo de recurso próprio, e pela ausência de ilegalidade flagrante que justifique a concessão da ordem de ofício.
+É o relatório. DECIDO.
+Verifico que a segregação cautelar está devidamente fundamentada.
+Quanto à alegada nulidade da busca veicular, registro que a abordagem policial não foi arbitrária. Conforme se extrai dos autos, os agentes públicos visualizaram o corréu em atividade típica de mercancia espúria antes de este ingressar no automóvel conduzido pelo paciente. A tentativa de evasão ao notar a presença policial, somada à observação prévia, configura a fundada suspeita exigida pelo artigo 244 do Código de Processo Penal.
+No que tange aos fundamentos da prisão preventiva, constato que a segregação está amparada na gravidade concreta da conduta, evidenciada pela expressiva quantidade e variedade de entorpecentes apreendidos. Ademais, o risco à aplicação da lei penal é real, visto que o paciente é estrangeiro e tentou fugir no momento do flagrante.
+Em relação ao estado de saúde, observo que não houve demonstração de extrema debilidade ou da impossibilidade de receber o tratamento adequado dentro do sistema prisional, o que afasta a ocorrência de constrangimento ilegal flagrante quanto a este ponto.
+De todo modo, não verifico a presença de ilegalidade flagrante que desafie a concessão da ordem de ofício, nos termos do § 2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, com fundamento no artigo 34, inciso XVIII, alínea "b", do RISTJ, denego a ordem de habeas corpus.
+Publique-se. Intimem-se
+EMENTA
