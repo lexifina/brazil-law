@@ -1,0 +1,16 @@
+DECISÃO
+MAREU JUNIOR DOS SANTOS DOS SANTOS opõe embargos de declaração contra decisão de fls. 130-139, na qual deneguei o habeas corpus in limine.
+A defesa sustenta haver omissão no julgado quanto à ausência de contemporaneidade da prisão, à desnecessidade da segregação cautelar e às condições pessoais favoráveis do réu.
+Decido.
+Os embargos de declaração são cabíveis somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no decisum embargado e são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam novo julgamento do caso.
+Apenas excepcionalmente, quando constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de emprestarem-se efeitos infringentes aos aclaratórios, situação que não ocorre na espécie.
+Conforme exposto na decisão combatida, o paciente foi preso preventivamente pela prática de tráfico de drogas e associação para o tráfico.
+Registrei no decisum que as circunstâncias aduzidas pelas instâncias ordinárias demonstram a necessidade de manutenção da constrição cautelar, diante, especialmente, do risco de reiteração delitiva e da periculosidade do agente, que, segundo consta nos autos, seria integrante de organização criminosa, com atuação e posição de liderança.
+A Corte estadual expôs que "O papel atribuído ao paciente, de liderança financeira e estratégica, é de extrema relevância para a organização criminosa. A disponibilização de contas bancárias e o recebimento de recursos oriundos da atividade ilícita demonstram sua centralidade na estrutura" (fl. 40). Ainda, apontou que "a complexidade das investigações, que envolveram a análise de dados telemáticos e financeiros, justifica o decurso de tempo entre os fatos iniciais e a decretação da prisão. A natureza permanente dos delitos de associação para o tráfico e a estrutura estável do grupo, ademais, indicam a atualidade do risco" (fl. 41).
+Esclareci o seguinte:
+A contemporaneidade, à luz da orientação do Supremo Tribunal Federal, refere-se à atualidade dos motivos ensejadores da prisão preventiva, e não à proximidade temporal do fato delituoso, sendo suficiente a demonstração de que subsistem, no momento da decretação e manutenção da custódia, o risco à ordem pública, decorrente da continuidade das atividades ilícitas da organização criminosa (AgRg no HC n. 1.075.554/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 22/4/2026, DJEN de 29/4/2026).
+Também destaquei que, "as condições favoráveis do agente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada" (AgRg no HC n. 706.455/BA, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 15/2/2022), como na espécie.
+Desse modo, noto que a irresignação do embargante se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Não há nenhum fundamento que justifique a oposição dos embargos de declaração, os quais, repita-se, se prestam apenas a sanar eventual omissão, ambiguidade, contradição ou obscuridade, e não a reapreciar a causa.
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se
+EMENTA
