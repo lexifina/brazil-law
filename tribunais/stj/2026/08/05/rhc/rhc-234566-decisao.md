@@ -1,0 +1,9 @@
+DECISÃO
+VITOR EPPING  alega  sofrer  constrangimento  ilegal  em razão  de  acórdão  proferido  pelo  Tribunal de Justiça do Estado do Rio Grande do Sul no HC n. 5395997-65.2025.8.21.7000, que substituiu a prisão preventiva do recorrente por cautelares diversas.
+O recorrente foi preso em flagrante pela suposta prática do crime de tráfico de drogas, e essa prisão foi convertida em preventiva. Passou-se quase um ano de segregação cautelar, sem o recebimento da denúncia e de seu aditamento. Negado o pedido de revogação da prisão preventiva, o Tribunal de origem deferiu a liminar e concedeu liberdade ao réu, sob as seguintes condições: a) compromisso de manter atualizados endereço e meios de contato; b) comparecimento mensal em Juízo, para informar e justificar sua atividade; e c) recolhimento domiciliar noturno. No mérito, essa medida foi confirmada.
+Neste recurso, a defesa busca, em síntese, o abrandamento da medida cautelar de recolhimento domiciliar, de modo a autorizar o recorrente a exercer sua atividade de titular de estabelecimento comercial (bar) até 1h, às sextas-feiras, sábados, domingos e em dias de eventos esportivos.
+Todavia, os fundamentos desta impetração surgiram apenas após o acórdão recorrido, que fixou a medida mencionada sem que a defesa tivesse suscitado essa situação na petição inicial do habeas corpus, tampouco oposto embargos de declaração para que a nova situação do acusado fosse examinada.
+Verifico, assim, que a controvérsia deduzida neste recurso em habeas corpus não foi previamente analisada pela Corte de origem no ato apontado como coator, o que evidencia a ausência de "causa julgada" a justificar a inauguração da competência do STJ. Não pode esta Corte Superior, portanto, conhecer diretamente da matéria, sob pena de inadmissível supressão de instância.
+À  vista  do  exposto,  indefiro  liminarmente  o  recurso em habeas  corpus.
+Publique-se  e  intimem-se.
+ EMENTA
