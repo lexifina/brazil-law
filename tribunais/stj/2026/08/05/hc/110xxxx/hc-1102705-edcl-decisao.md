@@ -1,0 +1,27 @@
+DECISÃO
+FELIPE SABINO DE MELO CUNHA opõe novos embargos de declaração contra a decisão de fls. 592-594, em que rejeitos o recurso integrativo anterior.
+O embargante insiste na omissão quanto à inexistência de cálculos e de prova pré-constituída sobre o requisito objetivo para progressão de regime, apesar de terem sido apresentados dados da execução penal, detração, remição e frações legais aplicáveis, com indicação de cumprimento suficiente do lapso para progressão. Assim, alega que "permanece a omissão apontada, uma vez que a decisão embargada deixou de analisar argumento relevante deduzido pela Defesa, apto, em tese, a influenciar a solução da controvérsia, circunstância que justifica o acolhimento dos presentes embargos declaratórios" (fl. 603).
+Pleiteia, portanto, o acolhimento dos embargos.
+Decido.
+Conforme dito, consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material.
+A decisão ora embargada, assim consignou:
+Após condenação definitiva a pena privativa de liberdade em regime fechado e, em conformidade com o art. 105 da LEP, o Juiz de conhecimento ordenará a expedição da guia para o início da execução somente se o réu estiver ou vier a ser preso.
+Essa é a determinação prevista em lei. Excepcionalmente, e somente quando, à primeira vista, o sentenciado já tem direito a benefícios que assegurem, desde já, a sua imediata liberdade, esta Corte flexibiliza a regra por considerar manifestamente irrazoável exigir o recolhimento à prisão como mera condição para o acesso à jurisdição da Vara de Execuções Penais.
+No caso, o réu foi condenado definitivamente a 7 anos, 9 meses e 10 dias de reclusão, em regime inicial fechado, pela prática dos delitos descritos nos arts. 157, § 2º, II e VII, e 330, na forma do art. 69, todos do Código Penal.
+Não há nos autos nenhum cálculo apresentado pela defesa, tampouco prova pré-constituída apta a demonstrar, de plano, que o paciente já teria implementado o requisito objetivo necessário à fixação do regime semiaberto na execução penal ou para a alteração de sua situação jurídica.
+A Corte local consignou o seguinte:
+No que tange ao pedido de expedição da guia de execução, nos termos do artigo 105 da Lei n.º 7.210/84, "Transitando em julgado a sentença que aplicar pena privativa de liberdade, se o réu estiver ou vier a ser preso, o Juiz ordenará a expedição de guia de recolhimento para a execução". Ou seja, a emissão da respectiva guia - assim como o efetivo início do cumprimento da reprimenda aplicada - está condicionada ao recolhimento do condenado ao estabelecimento prisional.
+E, não obstante o paciente esteja em cumprimento de pena por outro delito, isso, por si só, não impede a expedição de mandado de prisão neste processo, no qual, repita-se, fora imposta a pena de reclusão em regime fechado (07 anos, 09 meses e 10 dias).
+De mais a mais, não se pode olvidar que questões relacionadas à unificação de penas, progressão de regime e detração, dentre outros benefícios, são reservadas ao juízo da execução (fl. 20, grifei).
+A um primeiro olhar, portanto, não é possível reconhecer a premissa favorável apontada pelo advogado (possibilidade de fixação de regime mais brando na execução penal, diverso do fechado).
+O acórdão recorrido não é manifestamente ilegal, pois "a expedição de guia de recolhimento definitiva é condicionada ao cumprimento do mandado de prisão em se tratando de pessoa condenada a pena privativa de liberdade em regime inicial fechado, nos termos do art. 105 da Lei n. 7.210/1984" (RHC n. 220.940/BA, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 25/2/2026, DJEN de 4/3/2026.)
+Aplica-se ao caso a compreensão de que:
+ ..  A expedição da guia de execução penal definitiva, conforme os artigos 674 do Código de Processo Penal e 105 da Lei de Execução Penal, como regra, ocorre após o trânsito em julgado da sentença condenatória e quando o réu estiver ou vier a ser preso.
+7. Embora excepcionalmente admitida a expedição da guia de execução penal antes do cumprimento do mandado de prisão, tal medida depende de demonstração de circunstâncias concretas que indiquem cabalmente um prejuízo ao apenado - tudo o que não foi comprovado no caso concreto.
+ ..
+(AgRg no HC n. 1.026.497/TO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 9/9/2025, DJEN de 15/9/2025).
+Reafirmo que, em relação às apontadas omissões e à obscuridade apontadas, razão não assiste à defesa, tendo em vista que ficou devidamente esclarecido na decisão ora embargada que não é possível a aplicação da pretendida argumentação defensiva ao paciente condenado em regime fechado, além da não apreciação do pedido pelo Juízo das execuções. O decisum foi devidamente baseado na atual jurisprudência desta Corte Superior e não há que se falar em concessão de efeito infringente à decisão.
+Por fim, cumpre ressaltar que em  consulta  ao  sistema  informatizado  do  Superior  Tribunal  de  Justiça,  verifico  que  o  objeto  desta impetração  -  Habeas Corpus n. 1.0000.26.045618-1/000  -  já  foi  previamente  formulado  no  RHC n. 236.478/MG, oportunidade em que foi negado provimento ao recurso, in limine.
+À vista do exposto, rejeito os embargos declaratórios.
+Publique-se e intimem-se.
+EMENTA
