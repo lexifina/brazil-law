@@ -1,0 +1,18 @@
+DECISÃO
+RODRIGO MITA ARAUJO alega sofrer constrangimento ilegal no seu direito de locomoção em decorrência de acórdão do Tribunal de Justiça do Estado de São Paulo no Agravo Interno no HC n. 2091983-41.2026.8.26.0000.
+A defesa aduz que o writ originário não buscou o reexame de provas nem questionou a condenação, mas visou apenas a correção de ilegalidade concreta e atual incidente sobre a dosimetria. Nesse raciocínio, entende ter havido negativa de prestação jurisdicional, pois a Corte estadual se omitiu ao não examinar as alegações defensivas.
+Pleiteia a cassação do acórdão, com a determinação de que o Tribunal a quo aprecie o mérito do habeas corpus lá impetrado. Subsidiariamente, pleiteia o redimensionamento da sanção aplicada ao réu.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus.
+Decido.
+Segundo os autos, o paciente foi condenado definitivamente a 27 anos e 1 mês de reclusão, em regime fechado, como incurso nos arts. 121, § 2º, I, III e VI, § 2º-A, I, § 7º, I, 125 e 211, todos do Código Penal.
+Transitada em julgado a condenação, a defesa impetrou habeas corpus perante o STJ, que não conheceu do mandamus, por ser substitutivo de revisão criminal, mas concedeu a ordem de ofício, para reconhecer a atenuante da confissão espontânea e fixar a reprimenda em 24 anos de reclusão, em regime fechado.
+Neste writ, a defesa se insurge contra acórdão proferido em agravo interno em habeas corpus, que foi rejeitado pelo colegiado estadual, sob a seguinte fundamentação (fls. 51-52, grifei):
+Mas cuida-se de pedido já rejeitado por esta Turma Julgadora, que não pode ser processado em decorrência na inadequação da via eleita. As correções que a pena aplicada em 1º Grau comportava já foram efetuadas quando do julgamento da apelação e em habeas impetrado perante o Colendo Superior Tribunal de Justiça, que reconheceu a incidência da atenuante da confissão espontânea, nada mais havendo para ser reparado.
+Saliento que o Paciente já ajuizou duas revisões criminais; uma delas teve o processamento indeferido liminarmente (n. 2258891-30.2022) e a outra foi indeferida liminarmente (n.2032159-88.2025).
+O Agravo Regimental foi rejeitado pelo C. 2º Grupo de Câmaras de Direito Criminal; na última, a Desembargadora Relatora consignou que a pena está em conformidade com a lei e o entendimento dos Tribunais Superiores, com o que concordou a Turma Julgadora em sede de Agravo Regimental.
+Ante o exposto, o meu voto propõe a rejeição do agravo.
+Não obstante a compreensão defensiva, cabe destacar que "O posicionamento do Tribunal a quo está em consonância com a jurisprudência do STJ, para quem "não há constrangimento ilegal pelo não conhecimento do writ originário, manejado como substitutivo de revisão criminal. De fato, a impetração de habeas corpus após o trânsito em julgado da condenação e com a finalidade de desconstituir sentença condenatória definitiva é indevida" (AgRg no RHC n. 176.203/RN, Rel. Ministra Laurita Vaz, 6ª T., DJe 26/5/2023)" (AgRg no HC n. 1.050.819/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 3/6/2026, DJEN de 10/6/2026, destaquei).
+Ressalto, por oportuno, que "a concessão de habeas corpus de ofício demanda a verificação, de plano, por parte exclusivamente do julgador, de ocorrência ou iminente ocorrência de coação ilegal e incontroversa, conforme disposição do art. 654, § 2º, do CPP, situação que não se verifica na espécie, sendo certo que não se presta para sanar eventual irregularidade recursal" (AgRg no AREsp n. 597.845/DF, relator Ministro Jorge Mussi, Quinta Turma, julgado em 16/12/2014, DJe de 2/2/2015, grifei).
+À vista do exposto, nego provimento ao recurso ordinário.
+Publique-se e intimem-se.
+EMENTA
