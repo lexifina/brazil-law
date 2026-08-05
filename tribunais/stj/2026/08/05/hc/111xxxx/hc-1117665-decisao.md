@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ERICK BRITES CORREA, condenado pela prática do crime previsto no art. 16, caput, c/c § 1º, IV, da Lei n. 10.826/2003 à pena de 4 anos de reclusão e 13 dias-multa (fls. 25/31 - Ação Penal n. 5132539-06.2025.8.21.0001, da 3ª Vara Criminal da comarca de Alvorada/RS).
+Aponta-se como ato coator acórdão do Tribunal de Justiça do Rio Grande do Sul que negou provimento à apelação defensiva, manteve a pena-base em 4 anos, em razão dos antecedentes e das circunstâncias do crime, compensou integralmente a confissão espontânea com a reincidência e fixou o regime inicial fechado (fls. 81/88).
+A impetração busca afastar a negativação dos antecedentes e das circunstâncias do crime, redimensionar a pena-base ao mínimo legal, manter a compensação integral entre a confissão e a reincidência, redimensionar a pena definitiva para 3 anos e fixar o regime inicial aberto (fls. 9/10), sustentando:
+a) indevida valoração dos maus antecedentes, pois o trânsito em julgado da condenação anterior (12/7/2025) é posterior à data do fato (17/4/2025), em afronta à irretroatividade e à individualização da pena (fls. 5/6);
+b) indevida negativação das circunstâncias do crime, porque munições e carregadores integram o próprio tipo do art. 16 da Lei n. 10.826/2003, configurando bis in idem (fls. 5/6);
+c) compensação integral da confissão espontânea com a reincidência simples, nos termos do Tema Repetitivo n. 585/STJ, com pena definitiva de 3 anos (fl. 6); e
+d) regime inicial aberto diante da pena inferior a 4 anos, vetores neutralizados e compensação da reincidência, conforme art. 33, § 2º, c, e § 3º, do Código Penal e Súmula 719/STF (fls. 6/9).
+É o relatório.
+O writ é inadmissível, pois busca nova revisão da condenação mantida pelas instâncias ordinárias, sem demonstração de flagrante ilegalidade.
+A condenação no processo n. 5005917-75.2022.8.21.0003 refere-se a fato praticado em 17/1/2022, anterior ao delito em exame, ocorrido em 17/4/2025, embora tenha transitado em julgado apenas em 12/7/2025. Por isso, foi validamente considerada como mau antecedente, com acréscimo de 1/6 na pena-base (fl. 29 e fls. 83/84). A condenação definitiva por fato anterior, ainda que com trânsito em julgado posterior, pode caracterizar maus antecedentes. Nesse sentido: HC n. 315.817/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 6/11/2017.
+Também é idônea a valoração negativa das circunstâncias do crime. Além da arma de fogo, foram apreendidas 50 munições e dois carregadores, elementos que ampliaram concretamente a potencialidade lesiva da conduta e justificaram o acréscimo de 1/6 na pena-base (fl. 29 e fl. 84). A fundamentação não se restringiu à gravidade abstrata do delito nem à circunstância inerente ao tipo penal. Nesse sentido: AgRg no REsp n. 1.497.670/GO, Ministro Rogério Schietti Cruz, Sexta Turma, DJe 7/4/2017; HC n. 358.518/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 10/2/2017.
+Na segunda fase, o Tribunal de origem manteve a compensação integral entre a atenuante da confissão espontânea e a agravante da reincidência simples (fls. 84/85), tal como realizada na sentença (fl. 29), em conformidade com o Tema Repetitivo n. 585/STJ.
+Por fim, o regime inicial fechado foi fixado com fundamentação idônea, baseada na reincidência e na existência de circunstâncias judiciais desfavoráveis (fls. 30 e 85), nos termos do art. 33, §§ 2º e 3º, da Lei n. 2.848/1940 (Código Penal).
+Em razão disso, indefiro liminarmente a inicial , nos termos do art. 210 do RISTJ.
+Publique-se.
+EMENTA
+DIREITO PENAL. HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO COM NUMERAÇÃO SUPRIMIDA. DOSIMETRIA. MAUS ANTECEDENTES. CIRCUNSTÂNCIAS DO CRIME. COMPENSAÇÃO INTEGRAL ENTRE CONFISSÃO ESPONTÂNEA E REINCIDÊNCIA SIMPLES. REGIME INICIAL FECHADO. REINCIDÊNCIA E CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. UTILIZAÇÃO INDEVIDA DO WRIT. AUSÊNCIA DE FLAGRANTE ILEGALIDADE.
+Inicial indeferida liminarmente.
