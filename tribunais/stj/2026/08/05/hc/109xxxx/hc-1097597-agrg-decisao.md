@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo regimental interposto por CARLOS HENRIQUE FERREIRA NEIVA contra a decisão da Presidência desta Corte Superior que indeferiu liminarmente o habeas corpus, ante a aplicação do enunciado 691 da Súmula do Supremo Tribunal Federal (e-STJ fls. 43/45).
+Depreende-se dos autos que o agravante foi condenado à pena de 2 (dois) anos, 8 (oito) meses e 20 (vinte) dias de reclusão, em regime inicial semiaberto, pela prática do crime previsto no art. 148, § 1º, incisos I e IV, do Código Penal; e à reprimenda de 6 (seis) meses de detenção pela prática dos delitos tipificados nos arts. 129, § 12, e 329, caput, ambos do Código Penal, sendo-lhe negado o direito de recorrer em liberdade.
+Impetrado habeas corpus com pedido liminar na origem, o pleito emergencial foi indeferido pelo Desembargador Relator (e-STJ fls. 9/13).
+Neste writ, o impetrante apontou constrangimento ilegal decorrente da incompatibilidade entre a manutenção da prisão preventiva e a fixação do regime inicial semiaberto na sentença, com violação ao princípio da homogeneidade.
+Alegou que a negativa do direito de recorrer em liberdade carecia de fundamentação concreta, por apoiar-se na gravidade abstrata das condutas e no fato de o agravante ter permanecido preso durante a instrução, sem demonstração específica do periculum libertatis, destacando, ainda, a absolvição da imputação de lesão corporal contra o filho.
+Afirmou serem adequadas e suficientes a imposição de outras medidas, consoante o disposto no art. 319 do Código de Processo Penal.
+Requereu, liminarmente e no mérito, a revogação da prisão, ainda que mediante a aplicação de medidas alternativas.
+Em decisão acostada às e-STJ fls. 43/45, a Presidência desta Corte indeferiu liminarmente o writ, tendo em vista que o Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus impetrado ante decisão que indefere liminar (enunciado 691 da Súmula do Supremo Tribunal Federal), a não ser que fique demonstrada flagrante ilegalidade, o que não ocorreu na espécie.
+No presente agravo regimental, a defesa alega ser o caso de superação do enunciado da Súmula n. 691 do Supremo Tribunal Federal, ante a teratologia do acórdão estadual.
+Reitera a incompatibilidade entre o regime semiaberto, estabelecido na sentença condenatória, e a manutenção da prisão preventiva.
+Reafirma ser suficiente e proporcional a aplicação de outras medidas cautelares, nos termos do art. 319 do Código de Processo Penal, notadamente o afastamento do lar, nos moldes do disposto no art. 319, III, do citado diploma processual.
+Diante disso, pleiteia que (e-STJ fls. 52/53):
+A. Seja exercido o juízo de retratação por este Relator, de modo a reconsiderar a r. decisão monocrática de fls. 43-45, superando-se o óbice da Súmula 691/STF para conceder a medida liminar, determinando-se a expedição do alvará de soltura em favor do paciente, cumulada ou não com a medida alternativa de afastamento do lar;
+B. Caso Vossa Excelência não exerça o juízo de retratação, requer seja o presente Agravo Regimental conhecido e submetido ao julgamento de uma das Colendas Turmas deste Tribunal, para que seja provido o recurso, reformando-se a r. decisão monocrática a fim de que o mérito do Habeas Corpus seja regularmente processado e julgado;
+C. No mérito da Turma, a concessão definitiva da ordem para revogar a prisão preventiva do paciente ou, subsidiariamente, adequar a sua custódia aos exatos termos e direitos previstos para o regime semiaberto fixado na sentença de piso.
+Através da Pet n. 00757569/2026 (e-STJ fls. 83/85), a defesa pontua a necessidade de superação do óbice da Súmula n. 691 do STF e o cabimento da apreciação de mérito deste recurso, tendo em vista o julgamento do writ combatido pelo Tribunal de origem.
+Postula, assim (fls. 84/85):
+A. O recebimento desta petição e a juntada do acórdão anexo, proferido no HC nº 2110995- 41.2026.8.26.0000;
+B. O reconhecimento da superação do óbice processual da Súmula 691 do STF, ante o esgotamento da jurisdição na origem;
+C. O conhecimento e integral provimento do presente habeas corpus (ou, subsidiariamente, o provimento do agravo regimental interposto), concedendo-se a ordem para revogar a prisão preventiva do paciente e assegurar seu direito de recorrer em liberdade.
+É o relatório.
+Decido.
+Em consulta ao endereço eletrônico do Tribunal de Justiça, verifica-se a superveniência do julgamento de mérito do habeas corpus originário, em 17/7/2026, em acórdão assim ementado:
+HABEAS CORPUS. Cárcere privado qualificado, lesão corporal e resistência. Pedido de revogação da prisão preventiva e direito de recorrer em liberdade. Sentença condenatória que fixou as penas em regime inicial semiaberto e manteve a custódia cautelar do paciente. Alegação de incompatibilidade entre o regime intermediário e a manutenção da prisão preventiva. Não cabimento. De acordo com a orientação consolidada do Egrégio Superior Tribunal de Justiça, é compatível a manutenção da prisão preventiva com a fixação do regime inicial semiaberto, desde que o sentenciado seja submetido a estabelecimento prisional adequado ao regime intermediário. Alegação de ausência dos pressupostos autorizadores da prisão preventiva. Não cabimento. Decisão coatora devidamente fundamentada na necessidade de garantia da ordem pública, ponderadas as circunstâncias judiciais e a gravidade concreta das condutas. Paciente que permaneceu preso durante toda a instrução criminal. Pressupostos e fundamentos da prisão preventiva, bem como a insuficiência das medidas cautelares diversas, já apreciados por esta 16ªCâmara de Direito Criminal em sede de Habeas Corpus, em decisão unânime que denegou a ordem. Ausência de alteração fática ou jurídica que justifique a revogação da medida. Ordem denegada.
+Logo, considerando-se que esta impetração volta-se contra a decisão que examinou o pedido emergencial no âmbito do Tribunal de origem, é de se reconhecer a perda do objeto.
+Nesse sentido:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. SÚMULA 691 DO STF. SUPERVENIÊNCIA DO JULGAMENTO DO MÉRITO DO WRIT ORIGINÁRIO. PERDA DO OBJETO DO MANDAMUS. ERRO MATERIAL CONSTATADO. EMBARGOS ACOLHIDOS EM PARTE.
+1. Os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para revisão do julgado, no caso de mero inconformismo da parte.
+2. In casu, o agravo regimental encontrava-se prejudicado diante do julgamento do mérito habeas corpus originário perante a Corte de origem.
+3. "Com a superveniência do julgamento colegiado do mérito do writ na origem, fica prejudicada a impetração contra a anterior decisão do Desembargador Relator que indeferiu pedido liminar." (AgRg no HC 472.047/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 5/2/2019, DJe 26/2/2019).
+4. Embargos de declaração acolhidos em parte, tão somente para corrigir o erro material no julgado.
+(EDcl no AgRg no HC n. 826.029/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 5/9/2023, DJe de 12/9/2023.)
+À vista do exposto, julgo prejudicado o presente agravo regimental.
+Publique-se. Intimem-se.
+EMENTA
