@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ROBERT WESLEY DA SILVA contra a decisão monocrática de fls. 1.588-1.593, que negou provimento ao recurso em habeas corpus.
+Nas razões dos embargos, a defesa alega que a decisão embargada é omissa e incorreu em premissa fática equivocada.
+Afirma que o Tribunal de origem efetivamente apreciou o mérito da legalidade da prisão preventiva, reconhecendo os requisitos dos arts. 312 e 313 do CPP, não havendo falar em supressão de instância quanto ao ponto.
+Expõe que as provas que embasaram o pedido de prisão já teriam sido consideradas insuficientes em processo da comarca de Sorocaba, no qual foi reconhecida a extinção da punibilidade pelo perdão judicial com base no art. 29, § 2º, da Lei n. 9.605/1998, c/c o art. 107, IX, do CP.
+Acrescenta que, em investigação requisitada pelo Ministério Público de Santa Catarina ao Estado de São Paulo, a Promotoria paulista teria concluído pela inexistência de materialidade do crime e pela guarda doméstica de espécie silvestre não ameaçada de extinção, com pedido de arquivamento acolhido pelo juízo local, relativamente às acusações que recaem sobre o embargante e deram suporte à preventiva.
+Defende que há omissão quanto à possibilidade de exame direto das questões suscitadas, à luz dos princípios da economia processual, da efetividade da jurisdição e da tutela da liberdade, porque todas as matérias estariam documentalmente comprovadas nos autos e não demandariam dilação probatória.
+Assevera que a negativa de apreciação, por mera referência genérica à supressão de instância, sem explicitar impedimentos jurídicos específicos, configura omissão que deve ser suprida.
+Afirma que, diante da ausência de fatos contemporâneos, da inexistência de apreensão de elementos ilícitos no cumprimento do mandado e da falta de fundamentação concreta e individualizada, a manutenção da prisão preventiva representa antecipação indevida da pena.
+Requer o prequestionamento expresso dos arts. 5º, LIV, LV, LVII e LXVIII, da CF; 157, 158-A a 158-F, 159, § 3º, 245, § 7º, 312, § 2º, 313, 315 e 619 do CPP, bem como dos princípios da presunção de inocência, da ampla defesa, do contraditório, da motivação das decisões, da economia processual e da efetividade da tutela jurisdicional.
+Requer, ao final, o acolhimento dos aclaratórios, para sanar o suposto vício apontado, com a correspondente repercussão jurídica.
+É o relatório.
+Os embargos de declaração são cabíveis somente nas hipóteses previstas no art. 619 do Código de Processo Penal, quando houver na decisão embargada ambiguidade, obscuridade, contradição ou omissão, tendo a jurisprudência os admitido, também, para sanar eventual erro material na decisão embargada.
+São inadmissíveis, portanto, quando a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada objetivam, em essência, novo julgamento do caso.
+No caso, é inviável o acolhimento da pretensão recursal, porquanto, conforme consignado na decisão embargada, há indícios suficientes de que o embargante integre organização criminosa especializada em crimes contra o meio ambiente, na falsificação e no uso de documentos falsos, como notas fiscais.
+Ademais, foi consignado na decisão recorrida que o Tribunal de origem não examinou as alegações de ausência de contemporaneidade da prisão; que corréus de casos conexos estariam em liberdade; arrombamento de portão da residência em horário proibido; ausência de câmeras corporais nos policiais; ausência de acompanhamento da diligência por testemunhas; perícia sem participação da defesa; e pedido de prisão domiciliar, circunstância que inviabiliza o exame das questões pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Ressalte-se que não foi comprovada eventual oposição de embargos de declaração contra o acórdão recorrido, a fim de que o Tribunal de origem se pronunciasse sobre as matérias, não havendo falar em ilegalidade a ser sanada.
+Portanto, inexistindo vício a ser sanado, a pretensão do recurso é de rediscussão dos fundamentos da decisão embargada, propósito inviável para o recurso em apreço, nada havendo que se possa acolher.
+Não cabe a este Superior Tribunal manifestar-se acerca de dispositivos constitucionais, ainda que para prequestionamento.
+Ante o exposto, na forma do art. 264, § 1º do Regimento Interno do Superior Tribunal de Justiça, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
