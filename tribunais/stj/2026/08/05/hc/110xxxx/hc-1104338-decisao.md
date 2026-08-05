@@ -1,0 +1,33 @@
+DECISÃO
+ZAQUEU SILVA BARATA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Pará na Apelação Criminal n. 0000913-25.2015.8.14.0055.
+O paciente foi condenado a 16 anos e 4 meses de reclusão pela prática de homicídio.
+A defesa sustenta que houve nulidade na sessão do Tribunal do Júri porque a acusação usou, em plenário, informação não constante dos autos. Afirma que, embora reconhecido o vício, o Presidente do Tribunal do Júri manteve a sessão sem dissolver o Conselho de Sentença.
+Requer a anulação da sessão plenária e a submissão do paciente a novo julgamento.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 168-177).
+Decido.
+O Juiz Presidente do Tribunal do Júri assim decidiu a respeito da matéria trazida na impetração (fl. 6, destaquei):
+Entendo que não é caso de nulidade a ponto de dissolver o Conselho de Sentença. Em que pese a informação do Ministério Público, destacado pela Defesa, essa informação não consta nos autos, então não significa que a testemunha não veio por medo; às vezes a testemunha não veio porque não quis, ou até porque pelos fatos que ela trouxe não serem verdadeiros, então os senhores desconsiderem essa informação, já que não consta nos autos o motivo da ausência da testemunha. Fica registrado ainda que nem o Ministério Público nem a defesa requereram a condução coercitiva, que seria o instrumento para trazer a testemunha/informante. (..) Com a palavra o Ministério Público, Dr. Márcio, só lembrando que, para falar apenas o que consta nos autos.
+A Corte local, a seu turno, afastou a nulidade pela ausência de demonstração de prejuízo. Veja-se (fls. 15-16, grifei):
+Os recorrentes sustentam que houve nulidade do julgamento pelos seguintes motivos, a saber, a Representante do Ministério Público afirmou, sem qualquer amparo nas provas dos autos, que a testemunha Suzane Ramos dos Passos não compareceu à sessão porque estava com medo e isso influenciou a decisão dos jurados, bem como um policial militar fotografou a sala secreta no momento da votação, quebrando o seu sigilo.
+Apesar do protesto oportuno em ata, afastando a preclusão, os apelantes não demonstraram qualquer prejuízo decorrente das circunstâncias apontadas o que afasta o reconhecimento das nulidades apontadas, ainda que absolutas.
+Nesse sentido, orienta o Colendo STF:
+EMENTA AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL E PROCESSO PENAL. TRIBUNAL DO JÚRI.
+NULIDADE PROCESSUAL. PREJUÍZO. DEMONSTRAÇÃO. PROVA PRÉ-CONSTITUÍDA. NECESSIDADE. PRECLUSÃO.
+1. A jurisprudência deste Supremo Tribunal Federal que exige a demonstração de efetivo prejuízo para a decretação de nulidade processual, seja ela absoluta ou relativa (HC 107.769/PR, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 28.11.2011).
+2. a 4. Omissis.
+5. Agravo regimental conhecido e não provido.(RHC 128305 AgR, Relator(a):
+ROSA WEBER, Primeira Turma, julgado em 06-11-2018, PROCESSO ELETRÔNICO DJe-242 DIVULG 14-11-2018 PUBLIC 16-11-2018)
+Por isso, rejeito as preliminares suscitadas.
+A defesa sustenta a nulidade da sessão plenária do Tribunal do Júri ao argumento de que o representante do Ministério Público afirmou, durante os debates, que uma das testemunhas não compareceu ao julgamento porque estaria com medo dos acusados, informação que não constava dos autos. Aduz, por isso, violação do art. 479 do Código de Processo Penal e requer a anulação do julgamento.
+Embora o promotor de justiça haja feito referência, em plenário, ao suposto motivo pelo qual a testemunha deixou de comparecer à sessão plenária, tal circunstância, por si só, não configura a nulidade alegada.
+A hipótese narrada não se amolda à vedação prevista no art. 479 do CPP, o qual proíbe a leitura de documento ou a exibição de objeto não previamente juntado aos autos, bem como de outros meios materiais de prova cujo conteúdo verse sobre matéria de fato submetida ao julgamento dos jurados. A finalidade da norma é impedir que uma das partes surpreenda a outra mediante o emprego, em plenário, de elementos probatórios que não hajam sido submetidos previamente ao contraditório.
+No caso, entretanto, não houve leitura ou exibição de documento, fotografia, gravação, laudo ou qualquer outro elemento de prova abrangido pelo art. 479 do CPP. O representante ministerial limitou-se a fazer referência verbal a circunstância que, segundo afirmou, lhe havia sido informada durante as diligências para localização da testemunha. Ainda que imprópria a manifestação, ela não se confunde com a situação disciplinada pelo mencionado dispositivo legal.
+Além disso, o art. 563 do Código de Processo Penal consagra o princípio pas de nullité sans grief e submete ambas as partes - acusação e defesa - à mesma exigência: nenhum ato processual será declarado nulo sem que da nulidade resulte prejuízo efetivo, concreto e comprovado. Veda-se, pois, a decretação de nulidade a partir de mera conjectura ou de juízo abstrato sobre a regularidade formal do procedimento.
+A jurisprudência desta Corte Superior é firme ao asseverar que "a alegação de nulidade processual, mesmo que absoluta, exige demonstração de efetivo prejuízo, nos termos do art. 563 do Código de Processo Penal (pas de nullité sans grief)" (AgRg no AREsp n. 2.880.159/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 3/6/2025, DJEN de 10/6/2025, grifei).
+Na hipótese, a defesa limita-se a afirmar que a declaração do órgão acusador teria potencial para influenciar o convencimento dos jurados, sem indicar nenhum elemento concreto apto a evidenciar que a informação efetivamente comprometeu a imparcialidade do julgamento ou interferiu no resultado da votação. A alegação de prejuízo está, portanto, no campo da mera conjectura.
+Por fim, cumpre registrar que o próprio Juiz Presidente, imediatamente após a manifestação ministerial, advertiu expressamente os jurados de que a informação não constava dos autos, ressaltou que a ausência da testemunha poderia decorrer de diversas outras razões e determinou que a referência fosse integralmente desconsiderada pelo Conselho de Sentença, além de advertir o Ministério Público para que se limitasse aos elementos constantes do processo.
+Esse pronto esclarecimento, realizado antes da retomada dos debates, constitui providência apta a neutralizar eventual influência indevida da afirmação, sobretudo porque deixou claro aos jurados que a circunstância não integrava o acervo probatório submetido à sua apreciação.
+Assim, ausente demonstração de que a irregularidade apontada haja efetivamente comprometido a higidez do julgamento, não há falar em nulidade da sessão plenária.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
