@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo regimental interposto por BRUNO EVERTON FRANCA contra decisão de fls. 107-110, que não conheceu do habeas corpus, porque o ato judicial impugnado foi proferido monocraticamente por desembargador no Tribunal de origem.
+Nas razões deste recurso, a defesa alega que o óbice da Súmula n. 691 do STF deve ser afastado por se tratar de decisão liminar sem fundamentação idônea, proferida na origem, o que configuraria constrangimento ilegal apto a autorizar o exame do habeas corpus por esta Corte Superior. Afirma, ainda, que há precedentes do Superior Tribunal de Justiça que admitem a mitigação da súmula em hipóteses excepcionais.
+Argumenta que a prisão preventiva é inidônea e desproporcional, pois estaria fundamentada de forma genérica na garantia da ordem pública, sem indicação de elementos concretos do caso que demonstrem risco atual e contemporâneo.
+Defende que não há elementos nos autos que indiquem risco à ordem pública, à instrução criminal ou à aplicação da lei penal. Narra que o agravante foi preso em flagrante em 6/4/2026 com 87,8 g de cocaína e R$ 3.094,00, quantidade que, segundo sustenta, não evidenciaria envolvimento com traficância em larga escala ou dedicação a atividades criminosas.
+Expõe que o agravante é primário, possui bons antecedentes e residência fixa, razões que recomendariam substituição da prisão por medidas cautelares diversas, nos termos do art. 316 do CPP.
+Alega que eventual condenação poderia atrair a causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, com regime inicial aberto e possibilidade de pena restritiva de direitos. Sustenta o princípio da homogeneidade, afirmando que a manutenção da prisão preventiva seria mais gravosa do que uma possível pena a ser aplicada.
+Requer, ao final, a reconsideração da decisão para que seja revogada a prisão preventiva do agravante, com expedição de alvará de soltura, ou a submissão do recurso ao colegiado.
+É o relatório.
+Conforme relatado, busca o agravante a revogação da prisão preventiva, ainda que mediante a aplicação de medidas cautelares alternativas.
+Em consulta ao sítio eletrônico do Tribunal de origem (processo n. 2087213-05.2026.8.26.0000), verifica-se que foi proferido acórdão que julgou a cautelar inominada em 6/7/2026, tendo sido concedido efeito ativo ao recurso em sentido estrito ministerial e decretada a prisão preventiva do agravante, tratando-se de novo ato coator, circunstância que evidencia a perda de objeto do presente recurso e do habeas corpus.
+Nesse sentido, com as devidas adaptações:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ROUBO TRIPLAMENTE MAJORADO. EXTORSÃO. IMPETRAÇÃO DIRIGIDA CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADOR QUE INDEFERIU O PEDIDO LIMINAR NA ORIGEM. SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE ILEGALIDADE PATENTE. SUPERVENIÊNCIA DE JULGAMENTO DE MÉRITO DO WRIT ORIGINÁRIO PELO TRIBUNAL A QUO. AGRAVO PREJUDICADO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2. Anoto que " s e a decisão liminar de Desembargador, originariamente impugnada nestes autos, já foi substituída por decisão terminativa de segundo grau, é forçoso reconhecer a perda superveniente de objeto do habeas corpus e do agravo regimental que buscavam a superação da Súmula n. 691 do STF" (AgRg no HC 447.377/RJ, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe 28/08/2018).
+3. Agravo regimental prejudicado.
+(AgRg no HC n. 803.709/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/5/2023, DJe de 26/5/2023.)
+Ante o exposto, julgo prejudicado o agravo regimental.
+Publique-se. Intimem-se.
+ EMENTA
