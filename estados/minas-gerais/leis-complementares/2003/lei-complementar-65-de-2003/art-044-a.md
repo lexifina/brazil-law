@@ -1,0 +1,4 @@
+## Seção III
+## Das Defensorias Públicas Especializadas
+Art. 44-A - As Defensorias Públicas Especializadas são órgãos de atuação permanente e de âmbito local ou regional, coordenados por um Defensor Público designado pelo Defensor Público-Geral dentre os seus integrantes, e têm como competência a proteção, a preservação e a reparação dos direitos fundamentais, nestes compreendidos os direitos individuais, coletivos, sociais, econômicos, culturais e ambientais.
+Parágrafo único - Sem prejuízo de outras áreas de atuação previstas no Regulamento Interno da Defensoria Pública, as Defensorias Públicas Especializadas atuarão nos estabelecimentos policiais, penitenciários e de internação de adolescentes, na proteção, preservação e reparação dos direitos de grupos sociais vulneráveis e das pessoas vítimas de qualquer forma de opressão ou violência e nos conflitos fundiários urbanos e agrários.

@@ -1,0 +1,1 @@
+Art. 44-B - A criação, a modificação e a extinção de Defensorias Públicas Especializadas, bem como sua estrutura e suas atribuições, serão fixadas pelo Conselho Superior da Defensoria Pública, mediante proposta do Defensor Público-Geral, observadas a permanência e a prioridade de sua atuação.

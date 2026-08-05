@@ -1,0 +1,2 @@
+Art. 34-B - Ocorrendo a vacância do cargo do Corregedor-Geral, assumirá interinamente o Subcorregedor-Geral mais antigo da classe mais elevada da carreira, e será realizada nova eleição, em trinta dias, para o preenchimento do cargo.
+Parágrafo único - O cargo de Corregedor-Geral será exercido pelo Subcorregedor-Geral da classe mais elevada da carreira, se a vacância se der nos últimos seis meses do mandato.

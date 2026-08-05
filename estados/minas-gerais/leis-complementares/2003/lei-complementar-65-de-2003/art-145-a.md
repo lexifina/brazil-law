@@ -1,0 +1,1 @@
+Art. 145-A - Considera-se também publicação oficial aquela realizada pela Defensoria Pública em sítio institucional próprio na internet, na forma regulamentada por resolução do Defensor Público-Geral.

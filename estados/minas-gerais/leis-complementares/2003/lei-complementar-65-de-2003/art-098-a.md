@@ -1,0 +1,2 @@
+Art. 98-A - O Corregedor-Geral da Defensoria Pública poderá determinar o arquivamento da representação que for manifestamente improcedente, que não forneça dados mínimos indispensáveis ao início da persecução administrativa ou que não atenda aos requisitos legais, dando ciência ao representante, ao representado e ao Defensor Público-Geral.
+Parágrafo único - Caso o Defensor Público-Geral considere insubsistentes os motivos do arquivamento de que trata o caput, ele poderá determinar a instauração de sindicância.
