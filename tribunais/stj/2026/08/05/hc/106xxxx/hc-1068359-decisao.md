@@ -1,0 +1,25 @@
+DECISÃO
+ALANA ATAIDE ZAMPAULO alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1500189-89.2024.8.26.0315).
+Consta dos autos que a paciente foi condenada a 8 anos e 2 meses de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+A defesa sustenta o constrangimento ilegal na fixação da pena-base, diante do aumento que considerou excessivo pela valoração da circunstância judicial da quantidade de entorpecentes.
+O Ministério Público Federal opinou pelo não conhecimento do writ e, no mérito, pela denegação da ordem (fls. 934-938).
+Decido.
+I. Redução das penas-base
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de sanção a ser aplicada ao condenado criminalmente, com vistas à prevenção e à reprovação do delito perpetrado.
+Para obter-se uma aplicação justa da lei penal, o julgador, dentro dessa discricionariedade juridicamente vinculada, há de atentar para as singularidades do caso concreto e deve, na primeira etapa do procedimento trifásico, guiar-se pelas oito circunstâncias relacionadas no caput do art. 59 do Código Penal.
+Contudo, não se pode olvidar que, tratando-se de crime previsto na Lei de Drogas - como ocorre na espécie -, o juiz deve considerar, ainda, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, bem como a personalidade e a conduta social do agente, conforme o estabelecido no art. 42 da Lei n. 11.343/2006.
+No caso em análise, as instâncias ordinárias sobrelevaram as reprimendas da paciente, com base na quantidade de entorpecentes apreendidos, sob os seguintes fundamentos (fl. 887):
+Tráfico: as privativas partiram com acréscimo da subentendida fração de 2/5, 7 anos de reclusão, com lastro na imensa quantidade de drogas - "(..) os entorpecentes apreendidos totalizaram 4.603 "pinos" com cocaína, 241 "pinos" com crack e 758 porções de maconha" (fls. 677), o que se revelou consentâneo. A pecuniária não acompanhou proporcionalmente a carcerária - ao arrepio do CP, art. 68 - sendo fixada em 500 dias-multa, o que não pode ser modificado diante da ausência de irresignação ministerial e sob pena de reformatio in pejus.
+Certo é que, segundo o disposto no art. 42 da Lei n. 11.343/2006, "O Juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente".
+Por se tratar a dosimetria da pena de matéria restrita ao âmbito de certa discricionariedade do magistrado, deve ser mantida inalterada a reprimenda-base aplicada à ré, sobretudo porque não constato o apontado constrangimento ilegal. Considero que a quantidade de drogas encontradas - 5 kg de cocaína, 2 kg de maconha e 185 de crack - é, de fato, de maior importância e destoa da mera apreensão de entorpecentes ínsita ao delito, especialmente por seus efeitos deletérios expressivos aos usuários.
+Registro que, conforme reiterados julgados desta Corte Superior, a ponderação das circunstâncias judiciais do art. 59 do Código Penal não é uma operação aritmética, com pesos determinados a cada uma delas, extraídos de simples cálculo matemático. Nesse sentido:
+ ..
+III - Segundo a jurisprudência desta Corte Superior, a definição do quantum de aumento da pena-base, em razão de circunstância judicial desfavorável, está dentro da discricionariedade juridicamente vinculada e deve observar os princípios da proporcionalidade, razoabilidade, necessidade e suficiência à reprovação e prevenção ao crime. Não se admite a adoção de um critério puramente matemático, baseado apenas na quantidade de circunstâncias judiciais desfavoráveis, até porque de acordo com as especificidades de cada delito e também com as condições pessoais do agente, uma dada circunstância judicial desfavorável poderá e deverá possuir maior relevância (valor) do que outra no momento da fixação da pena-base, em obediência aos princípios da individualização da pena e da própria proporcionalidade.
+ ..
+(HC n. 437.157/RJ, Rel. Ministro Felix Fischer, 5ª T., DJe 20/4/2018).
+Assim, uma vez que foram apontados argumentos idôneos para a fixação da pena-base acima do mínimo legal - em consonância com o disposto no art. 42 da Lei n. 11.343/2006 -, não há como esta Corte simplesmente se imiscuir no juízo de proporcionalidade feito pela instância de origem, para, a pretexto de ofensa aos princípios da proporcionalidade e da individualização da pena, reduzir a reprimenda-base estabelecida à acusada .
+II. Dispositivo
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
