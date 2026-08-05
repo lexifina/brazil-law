@@ -1,0 +1,10 @@
+DECISÃO
+LEANDRO DOS SANTOS ANDRADE agrava da decisão de fls. 567-568, em que indeferi liminarmente o habeas corpus.
+O agravante sustenta, em síntese, que: a) o habeas corpus é via adequada, mesmo diante da existência de agravo em execução pendente, por se tratar de constrangimento ilegal atual e documentado, cuja análise não configura supressão de instância (fls. 574-575); b) a controvérsia demanda mera revaloração jurídica de fatos incontroversos - cumprimento do requisito temporal e bom comportamento carcerário -, não implicando reexame de provas (fls. 576-577); c) há flagrante ilegalidade no indeferimento do livramento condicional, pois o paciente cumpriu o lapso objetivo (dezembro de 2025) e possui atestado oficial de bom comportamento, não sendo legítima a negativa fundada na gravidade abstrata dos crimes e em presunções de periculosidade (fls. 577-579); d) caso não seja provido o agravo, requer-se a concessão de habeas corpus de ofício para sanar o constrangimento ilegal (fls. 579-580).
+Pleiteia, portanto, a reconsideração da decisão anteriormente proferida ou a submissão do recurso à Turma julgadora (fl. 581).
+Em consulta à página eletrônica do Tribunal estadual, colheu-se a informação de que o Agravo em Execução n. 0001413-62.2026.8.26.0996 foi julgado, em sessão virtual encerrada em 30/6/2026, oportunidade na qual a instância a quo apreciou as teses defensivas e manteve a decisão proferida pelo Juízo da execução, que indeferiu o pedido de livramento condicional formulado em favor do ora insurgente.
+Diante de tal cenário, outra solução não há, senão reconhecer a perda de objeto deste regimental, no qual a defesa se insurgia contra acórdão que não conheceu de prévio writ, impetrado em substituição ao recurso cabível, interposto concomitantemente pela defesa e, agora, julgado.
+Cabe à parte, agora, insurgir-se contra o acórdão aludido, em que a Corte de origem analisou o mérito da questão e manteve a negativa do benefício.
+À vista do exposto, julgo prejudicado o agravo regimental.
+Publique-se e intimem-se.
+EMENTA
