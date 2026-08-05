@@ -1,0 +1,17 @@
+DECISÃO
+LUCIANO MELIZI alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que denegou o HC n. 0800901-84.2025.9.26.0030.
+Consta dos autos que o paciente foi preso em flagrante e, posteriormente, teve a custódia convertida em preventiva, pela suposta prática do crime previsto no art. 308 do CPM (corrupção passiva).
+A defesa pleiteia, por meio deste writ, a revogação da segregação preventiva e, subsidiariamente, a sua substituição por medidas cautelares a ela alternativas. Para tanto, argumenta que "A segregação cautelar não pode ser sustentada por juízos abstratos de reprovabilidade do delito ou por argumentos voltados à conveniência institucional da persecução penal. No caso, o acórdão valorizou a gravidade da imputação e a repercussão do fato no âmbito militar, mas tais aspectos não substituem a demonstração concreta do periculum libertatis" (fls. 4-5).
+A liminar foi indeferida e, depois de as informações haverem sido prestadas, o Ministério Público Federal manifestou-se pelo não conhecimento da ordem.
+Decido.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos
+concretos, relativos a fatos novos ou contemporâneos, dos quais se se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Na hipótese, há motivos concretos e idôneos para embasar a ordem de prisão do acusado, porquanto o Juiz de primeiro grau descreveu que o paciente (policial militar), juntamente com outros militares, teria participado de tratativas para recebimento de vantagem indevida, no valor de 5 mil reais, quantia encontrada na viatura dos réus.
+Ressaltou, ainda, que o acusado é "agente que ocupando posição de comando sobre praças subordinadas, teria se valido da autoridade hierárquica e dacondição de agente do Estado para, no exercício de fiscalização ambiental, solicitar vantagem indevida de particular, fato que subverte de modo intolerável a função para a qual estava empenhado" (fl. 487).
+Tais elementos evidenciam a especial reprovabilidade do agente pela conduta delituosa em tese praticada e a gravidade concreta do ilícito supostamente cometido, a ensejar, por conseguinte, a necessidade de manutenção da custódia preventiva para a garantia da ordem pública.
+Nesse sentido, menciono o seguinte julgado desta Corte: " ..  No caso, a segregação preventiva encontra-se devidamente motivada, tendo em vista a gravidade concreta da conduta e a periculosidade social do agravante, extraídas do modus operandi dos delitos de peculato, corrupção passiva, concussão e prevaricação, tipificados no Código Penal Militar" (AgRg no HC n. 1.079.774/PR, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJ de 14/4/2026).
+Ainda: "O tribunal de origem fundamenta a necessidade de custódia cautelar na periculosidade do recorrente, evidenciada pelo seu modus operandi e pelo risco de reiteração delitiva, considerando também sua condição de policial militar, que lhe confere poder de influência sobre terceiros e potencial risco à instrução criminal" (AgRg no RHC n. 206.234/PR, Rel. Ministra Daniela Teixeira, 5ª T., DJ de 17/12/2024).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
