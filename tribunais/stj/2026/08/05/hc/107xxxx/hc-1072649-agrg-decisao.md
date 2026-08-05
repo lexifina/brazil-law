@@ -1,0 +1,14 @@
+DECISÃO
+GUILHERME FERNANDO DO NASCIMENTO  interpõe  agravo  regimental  contra  a  decisão  de  fls.  372-384,  em  que  deneguei  a  ordem  ao habeas corpus impetrado em seu favor.
+A  defesa  reafirma  a  ausência  dos  requisitos  da  prisão  preventiva  no  caso  em  análise e aponta a existência de equívocos na premissa fática que embasou a decisão agravada. Segundo argumenta, a manutenção da custódia constritiva se baseou na suposta integração do réu a núcleo de maior expertise da organização criminosa, circunstância que não encontraria respaldo na denúncia formal, a qual lhe atribui apenas função periférica e operacional, sem autonomia criminosa própria.
+Aponta, também, que o segundo fundamento da decisão monocrática, acerca da existência de diligências pendentes quanto ao seu envolvimento, não se confirma pela análise cronológica dos autos, pois as diligências em curso dizem respeito a outros investigados e a fatos estranhos à conduta que lhe é imputada. Diante disso, defende que a fixação de medidas cautelares diversas é suficiente, adequada e proporcional ao caso, tendo em vista as condições pessoais favoráveis do acusado.
+Pleiteia,  portanto,  a  reconsideração  da  decisão  anteriormente  proferida  ou  a  submissão  do  recurso  à  turma  julgadora.
+Decido.
+Não subsiste o ato apontado como coator, consistente na decisão que manteve a prisão preventiva do agravante. O pleito de revogação da custódia cautelar formulada perante esta Corte Superior já foi satisfeita.
+Em consulta ao sítio eletrônico do Tribunal Regional Federal da 4ª Região, consta a informação de que, no dia 13/7/2026, o Juízo de primeiro grau revogou, nos autos do Processo n. 5015708-86.2025.4.04.7208/SC, o decreto prisional, com a expedição do alvará de soltura.
+Impõe-se, portanto, o reconhecimento da perda do objeto do habeas corpus.
+Apesar das novas alegaçõe s apresentadas na petição do agravo regimental, a superveniência de novo ato coator exige a impetração de outro habeas corpus. Além disso, não compete a esta Corte apreciar diretamente a legalidade de decisão proferida pelo Juízo de primeiro grau, sob pena de violação do art. 105 da CF e de indevida supressão de instância.
+O writ está prejudicado e "segundo a jurisprudência do Superior Tribunal de Justiça, "para cada ato coator deve ser impetrado um habeas corpus, sendo inviável a apreciação de mais de um ato coator em uma única impetração (v.g. HC n. 389631/SP, Rel. Min. Reynaldo Soares da Fonseca, DJe de 08/03/2017), ainda que para fins de economia processual ou de celeridade" (AgRg no RHC n. 108.528/AM, relator Ministro Jorge Mussi, Quinta Turma, julgado em 18/6/2019, DJe de 27/6/2019)" (PET no HC n. 983.455/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 26/6/2025).
+À vista do exposto, julgo prejudicado o agravo regimental.
+Publique-se e intimem-se.
+EMENTA
