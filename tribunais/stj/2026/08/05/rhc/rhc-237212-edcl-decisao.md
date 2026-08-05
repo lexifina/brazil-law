@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por THIAGO AMOM MATIAS RIBEIRO contra decisão monocrática de fls. 189-193, que conheceu em parte do recurso em habeas corpus e, nessa extensão, negou-lhe provimento.
+Nas razões dos embargos, a defesa alega que houve erro de fato na identificação do processo, pois a decisão embargada tratou a insurgência como se fosse contra a prisão mantida em sentença condenatória por furto, quando o recurso busca a revogação de prisão preventiva decretada na Operação "Rami Arid", sem sentença condenatória.
+Argumenta que houve confusão na identificação dos corréus, porque a decisão mencionou Raik de Souza Pacheco e Ralifer de Souza Pacheco, vinculados à ação penal por furto de 2020, estranha ao caso atual.
+Expõe que o corréu paradigma correto, utilizado para o pedido isonômico de soltura, é Arthur Rodrigues Ferreira.
+Aduz que, como consequência direta do erro material, a decisão aplicou equivocadamente a jurisprudência de reiteração de pedido ao referir o HC n. 1.073.968/GO, o que motivou o não exame do mérito.
+Sustenta que o recurso traz fatos novos e supervenientes, o que impõe distinguishing.
+Afirma que o novo ato coator, emanado do Juízo da 6ª Vara das Garantias de Anápolis, apoia-se em elementos inéditos não apreciados por esta Corte Superior, qual seja, a nulidade absoluta do parecer ministerial por confusão de pessoas, com pedido de prisão de "Gustavo" baseado em antecedentes de outro investigado.
+Indica violação do art. 580 do CPP pela recusa de extensão do benefício concedido ao corréu Arthur, apesar da identidade objetiva das situações.
+Defende a falta de contemporaneidade da prisão preventiva, agravada pelo lapso temporal, o que reforça a necessidade de revogação da medida.
+Requer, ao final, o acolhimento dos aclaratórios, para sanar o suposto vício apontado, com a correspondente repercussão jurídica.
+É o relatório.
+Os embargos de declaração são cabíveis somente nas hipóteses previstas no art. 619 do Código de Processo Penal, quando houver na decisão embargada ambiguidade, obscuridade, contradição ou omissão, tendo a jurisprudência os admitido, também, para sanar eventual erro material na decisão embargada.
+No caso, constatada a ocorrência de erro material e omissão, passa-se à correção da decisão embargada.
+Verifica-se que a insurgência se dirige contra a prisão preventiva do embargante decretada no âmbito da Operação Rami Arid, nos autos n. 5034805-80.2026.8.09.0154, (processo investigatório n. 5920177-95.2025.8.09.0154) que apuram supostas condutas previstas nos arts. 33, caput, e 35, caput, da Lei n. 11.343/2006.
+A decisão embargada incorreu em erro de premissa ao fazer referência à processo por furto, o que se corrige para adequada identificação do ato coator.
+Contudo, ainda que reconhecido o equívoco material, a decisão deve ser mantida. As teses relativas aos requisitos da prisão preventiva, à contemporaneidade do decreto prisional, e à substituição da custódia por medidas cautelares diversas já foram objeto do HC n. 1.073.968/GO, o que caracteriza reiteração de pedido e inviabiliza o conhecimento do recurso quanto a esses pontos.
+Ressalta -se que, no referido habeas corpus, as matérias analisadas também dizem respeito à Ação Penal n. 5920177-95.2025.8.09.0154, embora o acórdão seja diverso do impugnado no presente recurso.
+Por outro lado, no tocante à extensão de benefício ao corréu à luz do art. 580 do CPP, no HC n. 1.073.968/GO, não houve análise específica, porque o Tribunal de origem não examinou a questão.
+Considerando que, na hipótese destes autos, a matéria foi enfrentada pela Corte estadual, passa-se ao exame do ponto.
+O deferimento do pedido de extensão requer que a parte solicitante tenha a mesma situação fático-processual da já favorecida, assegurando que a motivação da decisão não seja exclusivamente pessoal, conforme o art. 580 do Código de Processo Penal.
+Assim constou do acórdão recorrido (fls. 110-111, grifei):
+No caso concreto, verifica-se que a decisão proferida no evento 13 dos autos nº 5034805-80.2026.8.09.0154 enfrentou expressamente a questão, consignando que as circunstâncias relacionadas ao paciente não se apresentam idênticas às atribuídas ao corréu beneficiado, sobretudo no que se refere à avaliação do grau de envolvimento nas condutas investigadas e à análise da necessidade da custódia cautelar.
+Além disso, cumpre observar que a investigação em curso, deflagrada no âmbito da denominada Operação "RAMI ARID", não se restringe aos dois investigados mencionados pela Defesa. Ao contrário, trata-se de procedimento investigatório de maior amplitude, envolvendo diversos outros indivíduos apontados como participantes da estrutura criminosa, alguns dos quais permanecem submetidos à prisão preventiva, por decisão judicial fundada na presença dos requisitos previstos no art. 312 do Código de Processo Penal.
+Esse dado revela que a revogação da prisão preventiva de um único corréu não constitui, por si só, parâmetro automático de comparação, tampouco gera direito subjetivo à extensão do benefício aos demais investigados, sobretudo quando o juízo de origem identifica elementos diferenciadores na análise individual de cada situação.
+Com efeito, a própria sistemática das medidas cautelares pessoais no processo penal exige apreciação individualizada da necessidade da prisão preventiva, considerando-se aspectos como a conduta atribuída ao agente, o grau de participação na dinâmica delitiva, os antecedentes e o risco concreto de reiteração criminosa.
+Nesse contexto, inexistindo demonstração inequívoca de identidade de circunstâncias entre o paciente e o corréu beneficiado, e considerando que outros investigados permanecem custodiados no âmbito da mesma investigação, não se evidencia violação ao princípio da isonomia, tampouco ao art. 580 do Código de Processo Penal.
+Apesar das alegações defensivas, não se verificou a similitude fático-processual entre o embargante e o corréu beneficiado, sobretudo porquanto o acusado se destaca pelo grau de envolvimento na conduta investigada.
+Ante o exposto, nos termos do art. 264, § 1º, do Regimento Interno do Superior Tribunal de Justiça, acolho os embargos de declaração para sanar omissão e erro material, sem efeitos modificativos.
+Publique-se. Intimem-se.
+ EMENTA
