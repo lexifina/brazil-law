@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de A. L. F., no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente foi condenado pela prática do crime previsto no art. 312, caput, do Código Penal.
+A defesa interpôs recurso de apelação, ao qual o Tribunal de origem negou provimento, dando parcial provimento ao recurso ministerial para fixar o regime inicial semiaberto e afastar a substituição da pena privativa de liberdade por restritivas de direitos.
+Posteriormente, a patrona do paciente requereu a devolução do prazo processual, sustentando que esteve impossibilitada de exercer suas atividades profissionais por motivo de saúde durante o período em que ocorreu o julgamento da apelação. O pedido foi indeferido pelo Relator, ao fundamento de que o atestado médico apresentado não demonstrava impossibilidade absoluta de exercício da advocacia ou de substabelecimento dos poderes recebidos. Os embargos de declaração opostos contra essa decisão foram rejeitados.
+Na presente impetração, a defesa requer, em síntese: (i) o reconhecimento da nulidade do julgamento da apelação, por violação à ampla defesa, ao contraditório e à defesa técnica efetiva; (ii) o reconhecimento da justa causa para a devolução do prazo processual em razão da enfermidade da patrona; e, subsidiariamente, (iii) a reabertura dos prazos recursais, a renovação do julgamento da apelação, bem como o reconhecimento de outras nulidades processuais e o restabelecimento do regime inicial aberto e da substituição da pena privativa de liberdade por restritivas de direitos.
+O pedido liminar foi indeferido (fls. 68-69).
+Prestadas as informações pela autoridade apontada como coatora e pelo Juízo de primeiro grau (fls. 72-171), o Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus e, caso conhecido, pela denegação da ordem.
+É o relatório. DECIDO.
+A impetração não comporta concessão.
+O paciente sustenta, em síntese, a nulidade do julgamento da apelação criminal, realizado durante o afastamento médico de sua única advogada constituída, afirmando que a enfermidade psiquiátrica da patrona caracterizaria justa causa para a devolução do prazo processual. Requer, ainda, subsidiariamente, o reconhecimento de diversas nulidades relacionadas ao julgamento da apelação e aos atos processuais antecedentes.
+Passa-se, portanto, ao exame das alegações deduzidas na presente impetração.
+No tocante ao pedido de reconhecimento da nulidade decorrente do indeferimento da devolução do prazo processual, verifica-se que a matéria foi expressamente apreciada pelo Desembargador Relator, que consignou não ser suficiente o atestado médico apresentado para demonstrar impossibilidade absoluta da patrona não apenas de exercer suas atividades profissionais, mas também de substabelecer os poderes recebidos, adotando entendimento alinhado à jurisprudência consolidada desta Corte Superior.
+Posteriormente, ao apreciar os embargos de declaração, o Tribunal de origem consignou inexistirem omissão, obscuridade ou contradição no decisum anteriormente proferido, ressaltando que a insurgência defensiva objetivava apenas rediscutir matéria já enfrentada.
+Desse modo, não se verifica negativa de prestação jurisdicional nem ausência de exame da tese defensiva.
+Além disso, a aferição da extensão da incapacidade alegadamente experimentada pela patrona, especialmente para concluir se a enfermidade efetivamente impossibilitava não apenas o exercício da advocacia, mas também a prática de atos destinados ao substabelecimento dos poderes outorgados, demandaria aprofundado exame do conjunto fático-probatório, inclusive da documentação médica apresentada, providência incompatível com a estreita via cognitiva do habeas corpus.
+Não se evidencia, portanto, flagrante ilegalidade apta a justificar a intervenção desta Corte.
+Quanto aos demais pedidos formulados na inicial, observa-se que a impetração pretende também o reconhecimento de inúmeras nulidades relacionadas ao julgamento da apelação criminal e a diversos atos processuais anteriores, matérias que extrapolam o objeto imediato da decisão que indeferiu a devolução do prazo e que, conforme informado pelo Tribunal de origem, já constituem objeto de outros habeas corpus anteriormente impetrados perante esta Corte, circunstância que impede nova apreciação das mesmas questões nesta sede. A propósito, merece destaque o HC 1083194, ainda pendente de julgamento por esta Corte.
+De toda forma, tais alegações igualmente demandariam ampla incursão no acervo probatório e na marcha processual da ação penal, providência incompatível com os limites cognitivos do habeas corpus.
+Não se verifica, assim, constrangimento ilegal passível de correção pela presente via.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
