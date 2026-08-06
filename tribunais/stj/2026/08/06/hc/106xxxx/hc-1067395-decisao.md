@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de IGOR DUTRA PACHECO contra ato de Juízo de primeira instância.
+Decisão de fls. 13/14 indeferindo liminarmente o pedido em razão de ter sido impetrado em desfavor de ato proferido em primeiro grau.
+Petição de fls. 15/23 com juntada de acórdão do Tribunal de origem, tendo sido a ordem parcialmente conhecida e denegada.
+Parecer ministerial de fls. 36/38 opinando pela manutenção do indeferimento liminar da impetração, em decorrência de reiteração de pedidos.
+Petição de fls. 40/44 protocolada pelo paciente informando distinção, superveniência e pugnando pela concessão da ordem de ofício.
+Novo parecer ministerial de fls. 53/56 opinando pelo indeferimento da Petição de n. 00396603/2026, com a consequente manutenção, em sua integralidade, da decisão monocrática que indeferiu liminarmente o writ.
+Ajuizadas duas novas petições com a mesma fundamentação, as fls. 58/62 e 63/67 requerendo a concessão da ordem de ofício para determinar-se a revogação da monitoração eletrônica ou a fixação de medida cautelar menos gravosa.
+Nova manifestação do agente ministerial às fls. 76/77 opinando nos termos da manifestação anterior.
+É o relatório.
+DECIDO.
+A pretensão veiculada revela-se processualmente inadequada, uma vez que o meio impugnativo cabível contra a decisão monocrática que indeferiu liminarmente o habeas corpus era o agravo regimental, recurso especificamente previsto para submeter a matéria ao órgão colegiado competente.
+A ausência de interposição do referido recurso impede o exaurimento da instância e afasta a possibilidade de rediscussão imediata da controvérsia por via diversa, sob pena de supressão de instância e violação à sistemática recursal estabelecida.
+Assim, diante da existência de recurso próprio e adequado para impugnar a decisão singular, impõe-se o reconhecimento da inadequação da via eleita, cabendo à parte interessada manejar o agravo regimental para provocar a reapreciação colegiada da matéria.
+Ademais, não se pode deixar de registrar que a parte, em vez de se valer do recurso adequado para impugnar a decisão monocrática que indeferiu liminarmente o habeas corpus, optou por protocolar sucessivas petições reiterando teses já apreciadas ou buscando a reconsideração do decisum, providência que não encontra amparo na sistemática recursal vigente. Tal conduta, além de não possuir aptidão para substituir o agravo regimental cabível, contribuiu para o retardamento da marcha processual, na medida em que demandou sucessivas manifestações e análises judiciais sem promover o efetivo encaminhamento da controvérsia ao órgão colegiado competente.
+A utilização de expedientes processuais inadequados em substituição ao recurso previsto em lei compromete a racionalidade do procedimento, gera movimentações processuais desnecessárias e posterga a solução definitiva da controvérsia, circunstância que evidencia que eventual demora na apreciação da matéria decorreu, em grande medida, da própria estratégia processual adotada pela defesa.
+Por derradeiro, cumpre salientar que não se verifica qualquer ilegalidade manifesta na manutenção do monitoramento eletrônico imposto ao paciente. A medida encontra-se devidamente fundamentada em elementos concretos dos autos, revelando-se adequada e proporcional às circunstâncias do caso, especialmente por constituir cautelar menos gravosa do que a prisão preventiva e apta a resguardar os interesses da persecução penal. A mera discordância da parte com os fundamentos adotados pelo juízo de origem não é suficiente para caracterizar constrangimento ilegal evidente, sobretudo quando a decisão impugnada demonstra, de forma motivada, a persistência dos riscos que justificaram a imposição da medida.
+Assim, inexistindo flagrante teratologia, arbitrariedade ou manifesta ausência de fundamentação, a manutenção da tornozeleira eletrônica insere-se no âmbito da discricionariedade vinculada do magistrado e observa os parâmetros legais previstos para as medidas cautelares diversas da prisão, não havendo motivo para sua revogação pela estreita via do habeas corpus.
+Ante o exposto, mantenho a decisão proferida anteriormente por seus próprios fundamentos.
+Publique-se. Intimem-se.
+EMENTA
