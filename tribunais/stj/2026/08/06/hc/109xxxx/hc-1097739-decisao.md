@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de CLEDERSON HUDZIAK FERREIRA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA, em decorrência do julgamento do habeas corpus n. 0816384-45.2025.8.22.0000.
+Consta nos autos que o paciente teve a prisão preventiva decretada pelo Juízo da 1ª Vara Criminal da Comarca de Ouro Preto do Oeste/RO, em 19/12/2025, pela suposta prática do crime de homicídio qualificado, previsto no artigo 121, § 2º, inciso IV, do Código Penal.
+A defesa impetrou habeas corpus ao Tribunal de Justiça do Estado de Rondônia, que denegou a ordem à unanimidade (fls. 12-17).
+Na presente impetração, busca-se a concessão da ordem para: (i) revogar a prisão preventiva, por ausência de fundamentação concreta e inexistência dos requisitos do artigo 312 do Código de Processo Penal; e (ii) substituir, subsidiariamente, a segregação por medidas cautelares diversas da prisão, nos termos do artigo 319 do Código de Processo Penal.
+Pedido de liminar indeferido às fls. 24-25.
+Informações prestadas às fls. 30-33.
+O Ministério Público Federal manifestou, às fls. 38-45, pelo "não conhecimento ".
+É o relatório. DECIDO.
+In casu, ao contrário do afirmado pela defesa, extrai-se que a segregação cautelar do paciente está devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para garantia da ordem pública e para garantia da aplicação da lei penal, seja pela forma na qual o delito foi em tese praticado: o paciente teria atraido a vítima, mediante dissimulação, passado a questioná-la por suposta relação extraconjugal, sacou uma arma de fogo e efetuou múltiplos disparos, "teria premeditado o crime, ao se armar e ir na direção da vítima a quem atribuía uma possível "relação extraconjugal" com a sua companheira"- fl. 15, seja porque evadiu-se do local, ocultou a arma utilizada, arremessando-a no rio Urupá, região por onde fugiu após o crime, além de indícios de tentativa de destruição de provas. Ressalte-se, ainda, o fato de que o mandado de prisão encontra-se pendente de cumprimento desde 19/12/2025- fl. 32, circunstâncias ensejadoras da necessidade da manutenção da segregação cautelar para garantia da ordem pública e garantia da aplicação da lei penal.
+Destaca-se a jurisprudência deste Superior Tribunal de Justiça:
+"A gravidade em concreto do crime e a periculosidade do agente, evidenciada pelo modus operandi, constituem fundamentação idônea para a decretação da custódia preventiva" (AgRg no HC n. 889.696/GO, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 18/4/2024.)
+Nesse sentido: AgRg no RHC n. 192.183/PR, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 3/5/2024; AgRg no HC n. 908.674/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/5/2024 e AgRg no RHC n. 188.488/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 18/4/2024.
+A jurisprudência desta Corte se firmou no sentido de que a devida caracterização da fuga do distrito da culpa enseja motivo suficiente a embasar a manutenção da constrição cautelar decretada.
+A propósito:
+"A fuga do distrito da culpa é fundamento válido à segregação cautelar, forte da asseguração da aplicação da lei penal, bem como justifica a contemporaneidade da medida em apreço."(AgRg no HC n. 914.054/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 12/8/2024, DJe de 16/8/2024.)
+"A evasão do agravante para local incerto e não sabido constitui motivação atual e idônea para justificar a prisão preventiva"(AgRg no RHC n. 210.367/PB, relator Ministro Og Fernandes, Sexta Turma, julgado em 11/6/2025, DJEN de 16/6/2025.)
+"O fato de o denunciado encontrar-se na condição de foragido afasta a alegação de excesso de prazo para encerramento da instrução criminal."(AgRg no HC n. 866.384/PI, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024.)
+Por fim, condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de garantirem ao paciente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
