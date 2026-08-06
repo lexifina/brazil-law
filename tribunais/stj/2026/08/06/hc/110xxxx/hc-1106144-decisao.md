@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de P. C. V., apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que, nos autos do HC n. 2098526-60.2026.8.26.0000, denegou a ordem (fls. 97-100).
+Consta dos autos que o paciente cumpre pena definitiva à pena de 10 (dez) anos de reclusão, em execução penal instaurada pela condenação pelo crime previsto no art. 213, caput, do Código Penal, com agravante do art. 61, caput, inciso II, alínea h (fls. 2-3). Encontra-se preso desde 19/03/2018 e, no curso da execução, houve homologação de cálculo de pena em 27/03/2026 (fls. 42-43).
+O Juízo da execução determinou a realização de exame criminológico em 26/02/2026 para fins de análise de progressão ao regime aberto e livramento condicional, com quesitos e prazo de 30 (trinta) dias (fls. 101-104), posteriormente reiterando a requisição do laudo em 08/04/2026, em 48 (quarenta e oito) horas, sob pena de desobediência (fls. 105).
+A unidade prisional informou, em 09/04/2026, ausência de psicólogo em exercício e impossibilidade momentânea de cumprir a determinação, requerendo dilação de prazo (fls. 106-107).
+A defesa alega que há constrangimento ilegal decorrente do excesso de prazo na realização do exame criminológico determinado em 26/02/2026, mantendo o paciente em regime mais gravoso enquanto o pedido de livramento condicional não é apreciado, embora já preenchido o requisito objetivo desde 20/05/2024.
+Sustenta que a administração penitenciária confessou formalmente a inviabilidade de realização do exame por ausência de psicólogo, o que não pode ser utilizado pelo Estado para obstar indefinidamente a análise do benefício. Argumenta, ainda, que a Lei n. 14.843/2024 não tornou automaticamente obrigatório o exame criminológico para o livramento condicional, permanecendo sua exigência como faculdade do Juízo, desde que motivada, e que, diante da falta estrutural, deve ser dispensado para evitar perpetuação do constrangimento. Aponta que a gravidade abstrata do delito e a falta disciplinar de 04/01/2023 já produziram efeitos próprios na execução e não autorizam impedir indefinidamente a apreciação de benefício, ressaltando a garantia da razoável duração do processo.
+Requer a concessão da ordem para determinar ao Juízo da execução a imediata apreciação do pedido de livramento condicional do paciente, independentemente da realização do exame criminológico. Subsidiariamente, pugna pela fixação de prazo improrrogável de 48 (quarenta e oito) horas para a apreciação do pedido, dispensando-se o exame caso o laudo não seja juntado nesse prazo (fls. 7-8).
+A liminar foi indeferida (fls. 88-89). Informações prestadas (fls. 95-109).
+O Ministério Público Federal manifestou-se pelo reconhecimento da prejudicialidade do habeas corpus por perda superveniente de objeto (fls. 124-125).
+É o relatório.
+Decido.
+Em consulta ao processo n. 0005103-50.2018.8.26.0521, em trâmite perante o Juízo de primeiro grau, verifica-se que foi deferida ao paciente a progressão para o regime aberto no dia 02/07/2026, tendo sido expedido alvará de soltura e efetivada sua colocação em liberdade em 03/07/2026, circunstância igualmente constatável por meio de consulta ao BNMP 3.0.
+Com a soltura do paciente por ato do juízo de primeiro grau, verifica-se que a pretensão deduzida nesta sede foi integralmente satisfeita na instância de origem.
+A cessação da coação ilegal apontada acarreta a perda superveniente do interesse processual, restando prejudicada a análise do mérito da impetração.
+Nos termos do artigo 659 do Código de Processo Penal, se o tribunal verificar que já cessou a violência ou coação ilegal, julgará prejudicado o pedido.
+Ante o exposto, julgo prejudicado o presente habeas corpus pela perda de seu objeto.
+Publique-se. Intimem-se.
+EMENTA
