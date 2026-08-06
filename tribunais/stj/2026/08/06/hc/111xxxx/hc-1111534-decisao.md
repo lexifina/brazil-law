@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de Habeas Corpus com pedido de liminar impetrado em favor de WAGNER ALEXANDRE SILVA SILVA, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, nos autos do Habeas Corpus nº 5147703-29.2026.8.21.7000.
+Consta da impetração que o paciente foi preso preventivamente pela suposta prática do delito previsto no art. 2º, caput e §§ 2º, 3º e 4º, inciso I, da Lei n. 12.850/2013, no contexto da denominada Operação Gênesis.
+A defesa se insurge contra acórdão proferido pelo Tribunal de origem que denegou a ordem de habeas corpus e manteve a prisão preventiva do paciente.
+Sustenta a presença dos requisitos para a concessão da medida liminar, asseverando que o paciente possui residência fixa e família constituída, não foi apontado como autor de crime com violência ou grave ameaça e não representaria risco à ordem pública, de modo que a manutenção da prisão cautelar implicaria violação ao direito de locomoção.
+Alega constrangimento ilegal decorrente da ausência de fundamentação concreta, individualizada e contemporânea do decreto prisional, em afronta aos arts. 312, 315, § 2º, 282, § 6º, e 319 do Código de Processo Penal, destacando que a gravidade abstrata da imputação não seria suficiente para justificar a medida extrema.
+Argumenta violação à isonomia processual, porque o próprio Juízo de origem reconheceu a suficiência de medidas cautelares diversas da prisão para diversos corréus inseridos no "terceiro escalão", entre eles Dionatha Barboza Silva, que se encontraria em situação fático-processual substancialmente equivalente à do paciente.
+Afirma que a distinção baseada em condenação ainda não transitada em julgado, em feito apartado, não evidenciaria risco contemporâneo decorrente do estado de liberdade do paciente nem legitimaria tratamento cautelar mais gravoso.
+Ressalta a necessidade de observância do art. 282, § 6º, do Código de Processo Penal, com a preferência por medidas menos gravosas, indicando como suficientes, no caso, as cautelares do art. 319 do CPP.
+Destaca a aplicabilidade do art. 580 do Código de Processo Penal para extensão isonômica dos efeitos da decisão favorável concedida ao corréu, por se fundar em motivos não exclusivamente pessoais e objetivamente projetáveis ao paciente.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva do paciente. Subsidiariamente, requer a substituição da custódia por medidas cautelares diversas da prisão.
+É o relatório.
+Decido.
+No caso em exame, trata-se de habeas corpus manejado contra acórdão colegiado do Tribunal de Justiça do Rio Grande do Sul que denegou a ordem e manteve a prisão preventiva do paciente, decretada em investigação de organização criminosa armada e estruturada, vinculada à facção denominada "Os Manos", com atuação em Santana do Livramento/RS.
+Assim constou do acórdão estadual:
+ ..  Ora, atribuída ao réu a conduta de integrar célula da organização criminosa "OS MANOS"  dotada de estruturação empresarial e numerosa rede de membros ativos, diversos deles recolhidos ao sistema prisional  , dedicada a infrações graves, em especial o tráfico de drogas e a venda de armas de fogo, sendo o paciente apontado como dono de ponto de venda de drogas em Santana do Livramento, a prisão cautelar encontra-se justificada na gravidade concreta do crime que lhe é imputado, tornando insuficiente a adoção das medidas cautelares previstas nos incisos do artigo 319 do Código de Processo Penal.  ..  o que tange à tese defensiva de que, em situação de manifesta similitude fática, foi concedida liberdade provisória ao corréu Dionatha, verifico que a medida não foi estendida a Wagner porquanto o paciente ostenta condenação provisória pelo delito de tráfico de drogas e posse de arma de fogo de uso restrito (n.º 5004894-23.2025.8.21.0025).  ..
+Com efeito, o acórdão estadual consignou fundamentação concreta para a cautela extrema, amparada em elementos de investigação regularmente produzidos, incluindo quebras de sigilo telemático com mensagens e imagens que indicam atuação do paciente na negociação de drogas e armamentos, além de sua inserção em célula criminosa organizada e armada.
+A decisão de primeiro grau, em reavaliação ampla, distinguiu corréus do mesmo escalão que não apresentavam fatores de risco adicional (a quem substituiu a prisão por medidas alternativas) e, quanto ao paciente, manteve a custódia ante circunstância pessoal desfavorável, consistente em condenação provisória por tráfico e posse de arma de uso restrito, elemento objetivo considerado indicativo de risco de reiteração. Esse conjunto, tal como delineado nas instâncias ordinárias, não revela contrariedade manifesta ao regime jurídico da prisão preventiva.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA E EXPLORAÇÃO DO JOGO DO BICHO. PRISÃO PREVENTIVA. CONTEMPORANEIDADE. FUNDAMENTAÇÃO CONCRETA. MEDIDAS CAUTELARES DIVERSAS. INAPLICABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que negou provimento ao recurso ordinário em habeas corpus, mantendo a prisão preventiva decretada no contexto de investigação de organização criminosa armada e exploração ilegal do jogo do bicho.
+2. A Defesa pretende a revogação da prisão preventiva, com substituição por medidas cautelares do art. 319 do CPP, alegando falta de contemporaneidade, ausência de fundamentação individualizada, inexistência de crimes violentos e suficiência de cautelares menos gravosas.
+II. QUESTÃO EM DISCUSSÃO
+3. Há quatro questões em discussão: (i) saber se há contemporaneidade apta a justificar a prisão preventiva; (ii) saber se a decisão está amparada em fundamentação individualizada idônea;
+(iii) saber se as medidas cautelares do art. 319 do CPP são suficientes para substituir a prisão preventiva.
+III. RAZÕES DE DECIDIR
+4. A prisão preventiva encontra respaldo nos arts. 312 e 313, I, do CPP, em razão de prova da materialidade e indícios de autoria, com base em relatórios do GAECO, interceptações, quebras de sigilo, buscas e apreensões e compartilhamento de provas da Operação Successione.
+5. A decisão agravada individualiza o papel do agravante no grupo criminoso, apontando funções de supervisão de roubos, prisão em flagrante ao lado de corréu com armamento e veículos blindados e vínculos pretéritos com estrutura criminosa, elementos suficientes para evidenciar periculum libertatis e justificar a medida extrema.
+6. A contemporaneidade está caracterizada, em tese, pela permanência e reorganização da organização criminosa, com manutenção e expansão das atividades ilícitas até período imediatamente anterior ao decreto prisional.
+7. As medidas cautelares do art. 319 do CPP mostram-se insuficientes no caso concreto, diante da gravidade concreta das condutas e do risco à ordem pública, à instrução criminal e à aplicação da lei penal.
+9. Condições pessoais favoráveis não elidem a necessidade da custódia quando presentes os requisitos legais da prisão preventiva.
+IV. DISPOSITIVO
+10. Agravo regimental desprovido.
+(AgRg no RHC n. 234.981/MS, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 24/6/2026, DJEN de 29/6/2026.)
+Diante da ausência de ilegalidade patente, descabe o exame de mérito das teses defensivas, porquanto a apreciação direta importaria contornar o sistema recursal sem razão bastante. A via adequada permanece à disposição da parte, e a tutela da liberdade não se vê comprometida por indevida negativa de jurisdição, já que o acórdão impugnado enfrentou os pontos centrais (fumus commissi delicti, periculum libertatis, insuficiência das cautelares alternativas e descabimento da extensão por isonomia) com motivação específica extraída dos autos e solução coerente com a gravidade concreta apurada.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
