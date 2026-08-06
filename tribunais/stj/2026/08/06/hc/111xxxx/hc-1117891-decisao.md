@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de CLAUDINEI ALMEIDA DOS SANTOS, condenado pelos crimes de roubo majorado e tráfico ilícito de entorpecentes, à pena de 11 anos, 8 meses e 2 dias de reclusão (Processo n. PEC 017771-38.2018.8.26.0041, da Vara do Júri e das Execuções Criminais de São Bernardo do Campo/SP).
+O impetrante aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que, em 13/7/2026, deu provimento ao recurso ministerial, afastando a comutação da pena (Agravo de Execução Penal n. 0001553-96.2026.8.26.0996).
+Alega a irretroatividade da lei penal mais gravosa para afastar a hediondez super veniente do roubo majorado, sustentando que a natureza do delito deve ser aferida conforme a legislação vigente ao tempo dos fatos.
+Defende que a vedação constante de decreto presidencial deve considerar a classificação do crime na data da prática, não na data da edição do decreto, sob pena de retroatividade in malam partem.
+Aduz o preenchimento dos requisitos objetivos e subjetivos do Decreto Presidencial n. 12.790/2025 para comutação de 1/5 da pena relativa ao roubo - cumprimento das frações exigidas e inexistência de falta grave nos 12 meses anteriores à data-base de 25/12/2025.
+Em caráter liminar, pede a cassação do acórdão e o reconhecimento imediato da comutação de 1/5 da pena relativa ao roubo, com o restabelecimento da decisão do juízo das execuções penais (fl. 15). No mérito, requer a concessão definitiva da ordem para afastar o constrangimento ilegal e restabelecer a comutação de 1/5, nos termos do Decreto Presidencial n. 12.790/2025 (fls. 14/15).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a inviabilidade do presente writ.
+O Tribunal local proveu o recurso ministerial e cassou a comutação pelos seguintes fundamentos (fls. 18/19):
+Destarte, considerando que o sentenciado cumpre pena pela prática do delito de roubo circunstanciado pelo emprego de arma de fogo e restrição de liberdade da vítima, bem como que referido delito é considerado crime hediondo, nos termos do art. 1º, inciso II, alínea "b", da Lei nº 8.072/901, incluído pela Lei nº 13.964/2019 (Pacote Anticrime), tem-se que, de fato, incabível o deferimento do pedido de comutação a este delito.
+No que tange ao momento da hediondez do crime, necessário pontuar que, o indulto ou a comutação de pena não podem ser concedidos em relação a crimes que no momento da edição do Decreto Presidencial já eram considerados hediondos, ainda que tenham sido praticados em data que não eram assim definidos, uma vez que a hediondez do crime para tal finalidade deve ser aferida à época da publicação da norma instituidora do benefício e não do cometimento do delito.
+Não se verifica, na hipótese, violação ao princípio da irretroatividade da lei penal mais gravosa, tendo em vista que no momento da publicação do Decreto o referido delito já possuía natureza hedionda.
+Nos termos da jurisprudência deste Tribunal Superior, a análise dos requisitos para obtenção do indulto ou comutação é feita com base nos parâmetros fixados na data do decreto presidencial, não se aplicando o regime típico das normas penais, de retroatividade e ultratividade da lei mais benéfica (AgRg no HC n. 955.700/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/2/2025, DJEN de 5/3/2025).
+No mesmo sentido: AgRg no HC n. 1.055.812/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/5/2026, DJEN de 26/5/2026; AgRg no REsp n. 2.255.317/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 29/4/2026, DJEN de 7/5/2026; AgRg no HC n. 1.014.044/SP, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 3/12/2025, DJEN de 9/12/2025.
+No caso, na data de publicação do Decreto n. 12.790/2025, o delito da condenação, roubo majorado pelo emprego de arma de fogo, concurso de pessoas e restrição de liberdade da vítima, art. 157, § 2º, I, II e V, do Código Penal, com redação da época dos fatos, 20/12/2017, já estava no rol dos crimes hediondos, art. 1º, II, a e b, da Lei n. 8.072/1990.
+O delito não admite a comutação da pena, nos termos do art. 1º, I, do Decreto n. 12.790/2025. Assim, a cassação do benefício não incide na vedação da aplicação retroativa da lei mais gravosa, o que está de acordo com a jurisprudência deste Tribunal Superior.
+Ausente ilegalidade a ser sanada.
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. COMUTAÇÃO. ROUBO MAJORADO PELO EMPREGO DE ARMA DE FOGO, CONCURSO DE PESSOAS E PELA RESTRIÇÃO DE LIBERDADE DA VÍTIMA. CRIME HEDIONDO. AFERIÇÃO DOS REQUISITOS DO DECRETO DE COMUTAÇÃO NA DATA DE SUA PUBLICAÇÃO. PRECEDENTE.
+Petição inicial indeferida liminarmente.
