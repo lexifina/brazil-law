@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo regimental interposto por EDSON LONGEN contra a decisão que indeferiu liminarmente o habeas corpus (fls. 67-69) ante a instrução deficiente do feito (ausência de cópia da decisão que decretou a prisão preventiva).
+Nas razões do presente agravo regimental (fls. 73-80), a defesa sustenta a necessidade de reforma da decisão, argumentando que a regra da não utilização do habeas corpus como sucedâneo recursal deve ser mitigada diante de flagrante ilegalidade.
+No mérito, alega que o Tribunal de Justiça do Estado de Santa Catarina (TJSC) agiu de forma teratológica ao se recusar a analisar o receituário médico emitido pelo próprio presídio em 29/1/2026, sob o argumento de supressão de instância. Afirma que referido documento comprova a grave condição de saúde do paciente (hipertensão, depressão severa, transtorno de ansiedade e dores crônicas), preenchendo os requisitos do art. 318, inciso II, do Código de Processo Penal, para a concessão de prisão domiciliar.
+Sustenta, ainda, a ausência de fundamentação idônea para a manutenção da prisão preventiva, que estaria baseada apenas na gravidade abstrata do delito e na quantidade de drogas apreendida, sem a devida demonstração do periculum libertatis. Destaca as condições pessoais favoráveis do paciente (empresário, primário, com residência fixa e pai de quatro filhos menores).
+Subsidiariamente, pleiteia a conversão em prisão domiciliar com autorização para saída para o trabalho em seu estabelecimento comercial ("Pátio de Guinchos Longen").
+Posteriormente à interposição, a defesa promove a juntada da cópia integral do decreto preventivo, sanando o vício apontado.
+Requer, ao final, a reconsideração da decisão agravada ou a submissão do feito à Turma para o provimento do agravo regimental, concedendo-se a ordem de habeas corpus.
+É o relatório.
+Considerando a posterior juntada da decisão que decretou a prisão cautelar, peça essencial ao deslinde do writ, por economia processual, reconsidero o pronunciamento judicial de fls. 67-69 e passo à análise do mérito do habeas corpus.
+De pronto, constato que não há manifesta ilegalidade que autorize a concessão da ordem de ofício.
+O agravante alega que a segregação cautelar carece de fundamentação idônea. Contudo, os documentos colacionados aos autos, em especial o acórdão do TJSC e a denúncia (fls. 21-23), revelam que a prisão preventiva foi decretada e mantida com base em elementos concretos, aptos a evidenciar o periculum libertatis e a necessidade de resguardo da ordem pública.
+Extrai-se dos autos que o agravante foi flagrado, no âmbito do cumprimento de mandado de busca e apreensão, mantendo em depósito 7,1 kg de maconha, além de balanças de precisão, rolo de plástico e uma faca de grande porte com resquícios de droga. Somado a isso, foram localizadas 32 munições de calibre .32 sem autorização legal. Todo esse material ilícito estava acondicionado em veículos estacionados no pátio do estabelecimento comercial do réu ("Pátio de Guinchos Longen").
+A expressiva quantidade de entorpecentes, aliada à apreensão de munições e de apetrechos típicos da traficância em local de atividade empresarial, constitui fundamento idôneo e suficiente para a manutenção da prisão preventiva, denotando periculosidade social e elevado risco de reiteração delitiva.
+É entendimento pacificado neste Tribunal que eventuais condições pessoais favoráveis não ostentam o condão de garantir a liberdade provisória quando presentes os requisitos do art. 312 do Código de Processo Penal. Pelo mesmo motivo, restam superadas as medidas cautelares alternativas (art. 319 do CPP), que se mostram insuficientes para conter o agir delituoso delineado.
+Nesse sentido (com destaques):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GRAVIDADE DA CONDUTA. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. RISCO DE REITERAÇÃO DELITIVA. CONDIÇÕES PESSOAIS FAVORÁVEIS, IRRELEVÂNCIA. INSUFICIÊNCIA DAS MEDIDAS CAUTELARES DIVERSAS. RECURSO DESPROVIDO.
+1. O ordenamento jurídico vigente traz a liberdade do indivíduo como regra. Desse modo, a prisão revela-se cabível tão somente quando estiver concretamente comprovada a existência do periculum libertatis, sendo vedado o recolhimento de alguém ao cárcere caso se mostrem inexistentes os pressupostos autorizadores da medida extrema, previstos na legislação processual penal.
+2. No caso, o decreto de prisão preventiva teve como lastro para a segregação cautelar do agente a grande quantidade e variedade de drogas apreendidas - a saber, 1,362kg (um quilo, trezentos e sessenta e dois gramas) de maconha e 9g (nove gramas) de crack -, o que esta Corte tem admitido como fundamentação idônea para a decretação e manutenção da prisão preventiva em razão da gravidade concreta da conduta.
+3. Além disso, depreende-se da leitura do decisum combatido que a decretação da prisão também teve como fundamento a possibilidade concreta de reiteração delitiva. A propósito, destacaram as instâncias de origem que, "consultando o SCPV, verifico que o autuado possui condenações transitadas em julgado por tráfico ilícito de entorpecentes, receptação e porte ilegal de arma de fogo de uso permitido" (e-STJ fl. 31). Dessa forma, justifica-se a imposição da prisão preventiva do agente pois, como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública.
+4. Frise-se que as condições subjetivas favoráveis do acusado, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória.
+5. De igual forma, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal não surtiriam o efeito almejado para a proteção da ordem pública.
+6. Agravo regimental desprovido.
+(AgRg no HC n. 1.027.498/SE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, jugado em 24/9/2025, DJEN de 29/9/2025.)
+O agravante insurge-se, ainda, contra o não conhecimento, pelo Tribunal a quo, de um receituário médico emitido pelo presídio em 29/1/2026, alegando que houve negativa de prestação jurisdicional.
+Não assiste razão à defesa. O Tribunal de Justiça agiu com absoluto acerto ao assentar que " ..  conquanto o Impetrante tenha apresentado novo receituário datado de 29/01/2026, trata-se de documentação da qual o Juízo de Primeiro Grau não restou ciente quando da interposição do presente remédio constitucional e, por este motivo, não cabe ao Relator examinar sob pena de supressão de instância" (fl. 19).
+É pacífico no Superior Tribunal de Justiça o entendimento de que não se pode conhecer de matérias não submetidas previamente à análise das instâncias ordinárias. A inobservância dessa regra configura ofensa ao princípio do duplo grau de jurisdição.
+Veja-se:
+ ..  Não se admite a análise, originariamente pelo STJ, de matéria que não foi apreciada pelas instâncias ordinárias, sob pena de supressão de instância."
+(AgRg no HC n. 827.632/SP, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 13/12/2023.)
+ ..  Questões não examinadas pelo Tribunal de origem não podem ser conhecidas diretamente pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+(EDcl no AgRg no HC n. 783.435/SP, relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 22/11/2023.)
+Por fim, no que tange ao pleito subsidiário de autorização para o trabalho no seu estabelecimento comercial, cumpre salientar que a matéria não foi examinada pelo Tribunal de origem no acórdão impugnado, o que impede a manifestação originária desta Corte, sob pena de supressão de instância.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE RESPONSABILIDADE DE PREFEITO. FALSIDADE IDEOLÓGICA, POR 13 VEZES. NULIDADE. QUEBRA DE SIGILO TELEFÔNICO E TELEMÁTICO. INEXISTÊNCIA DE DILIGÊNCIA PRÉVIA. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. DIVERSAS DILIGÊNCIAS PREPARATÓRIAS. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+2. O Tribunal de origem não analisou o tema no viés ora delineado pela defesa, ficando esta Corte impedida de apreciar a matéria, sob pena de indevida supressão de instância.
+(..)
+5. Agravo regimental desprovido.
+(AgRg no HC n. 864.854/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/9/2025, DJEN de 9/9/2025.)
+Ante o exposto, reconsidero a decisão agravada (fls. 67-69), conheço parcialmente do habeas corpus e, nessa extensão, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
