@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de JOSE ANTONIO DE MORAES FILHO em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+PRISÃO DOMICILIAR HUMANITÁRIA - REGIME FECHADO - ART. 117 DA LEP - HIPÓTESE EXCEPCIONAL - DOENÇA GRAVE - AUSÊNCIA DE COMPROVAÇÃO DA IMPOSSIBILIDADE DE TRATAMENTO NO SISTEMA PRISIONAL - ASSISTÊNCIA MÉDICA PRESTADA PELO CHSP - QUADRO CLÍNICO ACOMPANHADO E ESTÁVEL - RISCO CONCRETO NÃO DEMONSTRADO - DECISÃO MANTIDA - RECURSO DESPROVIDO. A prisão domiciliar humanitária em regime diverso do aberto exige prova inequívoca da impossibilidade de tratamento adequado no cárcere. Embora o agravante apresente quadro cardíaco relevante, os elementos dos autos indicam acompanhamento médico, exames, medicação ajustada e ausência de intercorrências ou negligência. A necessidade de cuidados especializados não autoriza, por si só, a substituição do regime prisional. Recurso desprovido.
+Consta dos autos que foi indeferido o pedido de prisão domiciliar humanitária ao paciente.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, porquanto o paciente deve cumprir a pena em prisão domiciliar em razão de doença grave e da impossibilidade de tratamento adequado no estabelecimento prisional, pois o paciente necessita de monitoramento especializado e contínuo do INR e de pronto atendimento em urgência e emergência, inexistentes na unidade prisional, o que expõe risco concreto e iminente à vida.
+Alega que é possível a concessão de prisão domiciliar mesmo ao sentenciado em regime fechado quando comprovada extrema debilidade por motivo de doença grave, invocando interpretação humanitária do art. 117 da Lei de Execução Penal.
+Defende que a manutenção do paciente no cárcere, diante do quadro clínico descrito e da insuficiência do atendimento prisional, viola a dignidade da pessoa humana e o dever estatal de resguardar a integridade física do preso.
+Requer, em suma, a concessão da ordem para substituir o cumprimento da pena por prisão domiciliar humanitária.
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do Voto condutor do acórdão impugnado a seguinte fundamentação quanto à controvérsia apresentada:
+No caso, embora o agravante apresente quadro cardíaco relevante, não há prova de que esteja desassistido ou de que o tratamento necessário não possa ser prestado no âmbito do sistema penitenciário. Ao contrário, conforme consignado na decisão recorrida, o sentenciado permanece sob cuidados do Centro Hospitalar do Sistema Penitenciário de São Paulo, onde recebeu atendimento médico, avaliação psicológica, exames, medicação ajustada e tratamento compatível com sua condição clínica.
+O relatório médico informa boa resposta ao tratamento, melhora do quadro geral, humor estável, sinais vitais dentro da normalidade e ausência de queixas ou dor, não havendo notícia de intercorrências, dificuldade de atendimento ou negligência nos cuidados prestados (fls. 171/172 do PEC 0012090-43.2025.8.26.0041).
+A necessidade de acompanhamento especializado, controle medicamentoso e realização de exames periódicos, por si só, não autoriza a prisão domiciliar, sobretudo quando tais providências podem ser realizadas no próprio sistema prisional ou mediante encaminhamento externo, se necessário.
+As alegações defensivas, embora relevantes, não demonstram situação excepcional de abandono terapêutico, risco atual não controlado ou impossibilidade concreta de assistência médica no cárcere. Eventuais providências específicas, como realização de exames pendentes ou acompanhamento especializado, devem ser fiscalizadas pelo Juízo da execução, sem substituição automática do regime prisional.
+Não há, portanto, prova robusta de risco concreto à vida ou à integridade física do agravante, sendo insuficientes meras alegações abstratas de perigo (fls. 13-14).
+Esse entendimento está de acordo com a jurisprudência firmada nesta Corte de que a prisão domiciliar humanitária poderá ser concedida ao apenado desde que comprovado que está acometido de moléstia grave e que no estabelecimento penal não há a assistência médica necessária ao tratamento adequado de sua saúde, o que não é o caso dos autos segundo se extrai do trecho acima transcrito.
+Ademais, para afastar os fundamentos adotados na origem a fim de justificar o indeferimento do pedido de prisão domiciliar seria necessário o revolvimento fático-probatório dos autos, o que não é cabível na via estreita do Habeas Corpus.
+Nesse sentido, vale citar os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR HUMANITÁRIA. GRAVE ESTADO DE SAÚDE E INEXISTÊNCIA DE TRATAMENTO ADEQUADO NA UNIDADE PRISIONAL. AUSÊNCIA DE COMPROVAÇÃO. REEXAME FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Consoante orientação desta Corte Superior, em regra, a concessão de prisão domiciliar só é admitida em favor de preso inserido no regime aberto, nos termos do art. 117 da Lei de Execução Penal - LEP.
+2. Contudo, quando ficar comprovado que o recluso é acometido por doença grave, com debilidade acentuada de sua saúde, e que o tratamento médico necessário não pode ser prestado no ambiente prisional, admite-se, de forma excepcional, a colocação em prisão domiciliar de presos dos regimes fechado ou semiaberto.
+3. Na hipótese dos autos, as instâncias ordinárias destacaram que o paciente está tendo o tratamento adequado no estabelecimento prisional. Para afastar essa conclusão, é necessário o revolvimento do conjunto fático-probatório, providência incompatível com a estreita via do habeas corpus.
+4. Agravo regimental desprovido. (AgRg no HC n. 801.974/AL, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 16.8.2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. APENADO FORAGIDO. IDOSO. DOENÇA. COVID-19. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O agravante encontra-se foragido, não tendo sequer dado início ao cumprimento da pena no regime semiaberto, cuja alegada ausência de vaga não fora comprovada nos autos.
+2. A idade avançada e as doenças apresentadas pelo agravante não autorizam a concessão automática da prisão domiciliar, devendo ser levado em consideração diversos aspectos relacionados ao apenado, à pena, à situação de risco e às medidas tomadas pelo poder público.
+3. Inexiste flagrante ilegalidade no indeferimento do pedido de prisão domiciliar pelo juízo da execução penal, o qual possui maiores condições de avaliar a real urgência e imprescindibilidade da medida em questão, ressaltando-se, ainda, a impossibilidade de reexame aprofundado do conjunto fático-probatório em habeas corpus.
+4. O agravante foi condenado por delito hediondo, atraindo a incidência do art. 5-A da Recomendação n. 62/2020 do CNJ.
+5. Agravo regimental desprovido. (AgRg no HC n. 800.902/RJ, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 31.3.2023.)
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ens ejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
