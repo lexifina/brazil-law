@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de CARLOS EDUARDO SANT ANA COSTA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO no julgamento do Habeas Corpus Criminal n. 5006776-24.2026.8.08.0000.
+Extrai-se dos autos que o paciente foi condenado pela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006, às penas de 7 anos, 3 meses e 15 dias de reclusão, em regime inicial fechado, e pagamento de 700 dias-multa, ocasião em que foi negado o recurso em liberdade, mantendo-se a prisão preventiva anteriormente decretada.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que indeferiu a liminar, não havendo, até o momento da presente impetração, notícias de julgamento do mérito do writ.
+No presente mandamus, a defesa sustenta a ocorrência de constrangimento autônomo e superveniente decorrente da paralisação do habeas corpus estadual por sucessivas vistas ministeriais, em afronta ao art. 1º, caput e § 1º, do Decreto-Lei n. 552/1969, ao art. 664 do Código de Processo Penal - CPP e às garantias do devido processo legal e da razoável duração do processo.
+Sustenta que, encerrado o prazo legal de vista ao Ministério Público, os autos devem ser conclusos ao Relator, com ou sem parecer, sendo ilegítima a renovação sucessiva da intimação como condição para o julgamento.
+Assevera que a demora injustificada impede a formação de acórdão na origem e bloqueia, na prática, o acesso à via recursal ordinária.
+Argui a necessidade de superação excepcional da Súmula 691 do STF, por se tratar de ilegalidade processual manifesta e documentalmente comprovada.
+Requer, em liminar, a expedição de alvará de soltura em favor do paciente, para que aguarde em liberdade o julgamento do writ estadual e, no mérito, pretende seja concedida a ordem para confirmar a medida, assegurando a liberdade até o julgamento do Habeas Corpus Criminal n. 5006776-24.2026.8.08.0000; subsidiariamente, pugna para que seja determinada a imediata conclusão do habeas corpus estadual ao relator, com ou sem parecer ministerial, e sua submissão imediata ao órgão colegiado, vedada nova renovação de vista.
+Informações prestadas (fls. 159/169), o Ministério Público Federal opinou pelo não conhecimento do writ (fls. 171/175).
+Memorial da defesa juntado às fls. 178/190.
+É o relatório.
+Decido.
+Sobre o alegado excesso de prazo para o julgamento do habeas corpus originário pelo TJSP, salienta-se que esta Corte Superior tem o entendimento de que somente configura constrangimento ilegal por excesso de prazo, apto a ensejar o relaxamento da prisão cautelar, a mora que decorra de ofensa ao princípio da razoabilidade, consubstanciada em desídia do Poder Judiciário ou da acusação, jamais sendo aferível apenas a partir da mera soma aritmética dos prazos processuais.
+Entretanto, no ponto, não se evidencia o alegado constrangimento ilegal, haja vista que, distribuído o habeas corpus em 16/4/2026, a liminar foi indeferida no mesmo dia e, em que pese a defesa informe a primeira vista ao Ministério Público, ocorrida em 19/5/2026, de acordo com as informações prestadas pelo Tribunal de origem, o parecer da Procuradoria-Geral de Justiça foi apresentado em 27/7/2026, após que foi determinada a inclusão do feito em pauta, estando os autos, portanto, em andamento há menos de 4 meses.
+Desse modo, verifica-se que o habeas corpus originário, que se encontra em vias de ser julgado, vem seguindo trâmite regular, não havendo, por ora, que se falar em desídia do Tribunal de origem. A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. "OPERAÇÃO PUBLICANO". APURAÇÃO DA EXISTÊNCIA DE ORGANIZAÇÃO CRIMINOSA ARTICULADA PARA A PRÁTICA DOS CRIMES DE CORRUPÇÃO PASSIVA, CORRUPÇÃO ATIVA, SONEGAÇÃO FISCAL, FALSIDADE IDEOLÓGICA E LAVAGEM DE DINHEIRO. SÚMULA N. 691 DO STF. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO SUFICIENTE. AUSÊNCIA DE TERATOLOGIA. EXCESSO DE PRAZO PARA O JULGAMENTO DO MÉRITO DO WRIT ORIGINÁRIO. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+4. Quanto à alegação de reconhecimento do excesso de prazo para o julgamento do writ originário, verifica-se que o referido habeas corpus foi distribuído em 20/5/2016, portanto há cerca de 6 meses, havendo a liminar sido apreciada logo na sequência, em 6/6/2016. Ainda, consta que já foram prestadas as informações pela autoridade apontada como coatora, havendo os autos sido devolvidos do Ministério Público estadual, com parecer, em 22/7/2016, de modo que, por ora, não se constata nenhuma delonga injustificada no trâmite do habeas corpus lá impetrado.
+5. Solicitadas informações pormenorizadas ao Tribunal de Justiça do Estado do Paraná sobre o motivo da demora do julgamento do HC 1.540.625-0, foi informado pelo 1º Vice-Presidente do TJPR, Desembargador Renato Braga Bettega, que o Magistrado Márcio José Tokars, responsável pelo feito, encontra-se em licença-saúde, motivo pelo qual a Vice-Presidência determinou a imediata redistribuição do writ, com a observação de prioridade de julgamento. Diante dessas informações, entendo que, por ora, ainda não se consubstanciou o alegado excesso de prazo para o julgamento do mandamus originário.
+ ..
+7. Agravo regimental não provido.
+(AgRg no HC n. 376.355/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/12/2016, DJe de 2/2/2017.)
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, denego a ordem de habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
