@@ -1,0 +1,65 @@
+DECISÃO:
+Vistos.
+Trata-se de agravo interposto por Murillo Francisco da Silva Souza contra decisão que que não admitiu recurso extraordinário formalizado em face do acórdão da Quinta Turma do Superior Tribunal de Justiça, assim ementado:
+
+“DIREITO PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. INVASÃO DE DOMICÍLIO. REGIME INICIAL DE CUMPRIMENTO DE PENA. RECURSO ESPECIAL INADMITIDO. AGRAVO REGIMENTAL NÃO PROVIDO. I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do recurso especial.
+2. O agravante foi condenado pela prática do crime de tráfico de drogas (art. 33, caput, da Lei n. 11.343/2006), à pena de 5 (cinco) anos de reclusão, em regime inicial fechado, e ao pagamento de 500 (quinhentos) dias-multa.
+3. O recurso especial foi inadmitido na origem com fundamento na Súmula n. 7, STJ, que veda o reexame de fatos e provas.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se o recurso especial deveria ter sido admitido, considerando as alegações de nulidade das provas obtidas por invasão de domicílio, negativa de aplicação do tráfico privilegiado e possibilidade de fixação de regime inicial mais brando para cumprimento da pena.
+III. RAZÕES DE DECIDIR
+5. A decisão agravada concluiu pela impossibilidade de conhecimento do recurso especial, em razão da incidência da Súmula n. 7, STJ, que veda o reexame de fatos e provas.
+6. O Tribunal de origem considerou legítima a entrada dos policiais na residência do agravante, amparada em fundadas razões, como denúncias anônimas, movimentação intensa no local e abordagem de indivíduos com porções de cocaína.
+7. A aplicação da minorante do tráfico privilegiado foi afastada com base em elementos concretos que indicam a dedicação do agravante à atividade criminosa, incluindo condenações anteriores por tráfico de drogas.
+8. O regime inicial fechado foi fundamentado adequadamente pelo Tribunal de origem, considerando os maus antecedentes do agravante e a gravidade concreta do delito, em conformidade com o art. 33, § 3º, do Código Penal.
+IV. DISPOSITIVO E TESE
+9. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+1. A incidência da Súmula n. 7, STJ impede o conhecimento de recurso especial que demande reexame de fatos e provas. 2. A entrada de policiais em domicílio é legítima quando amparada em fundadas razões que indiquem flagrante delito. 3. A aplicação da minorante do tráfico privilegiado pode ser afastada com base em elementos concretos que indiquem dedicação à atividade criminosa. 4. O regime inicial fechado pode ser fixado com base em maus antecedentes e na gravidade concreta do delito.
+Dispositivos relevantes citados: Lei n. 11.343/2006, art. 33, caput e § 4º; Código Penal, art. 33, § 3º; CPP, art. 157.
+Jurisprudência relevante citada: STJ, AgRg no RHC 216.650/DF, Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 13.08.2025; STJ, AgRg no AREsp 2.390.397/GO, Min. Joel Ilan Paciornik, Quinta Turma, julgado em 02.09.2024; STJ, AgRg no HC 1.030.338 /SP, Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 09.09.2025.” (e-doc. 238)
+
+Opostos embargos de declaração (e-doc. 242), foram rejeitados (e-doc. 249).
+Nas razões do recurso extraordinário (e-doc. 255), a parte alega violação ao artigo 5º, incisos LXIII, XI e XLVI, da Constituição da República.
+Sustenta, em síntese, que o seu direito ao silêncio foi violado, visto que não foi realizado o aviso miranda informando sobre o seu direito de permanecer em silêncio. Argumenta a nulidade probatória devido à invasão de domicílio sem a observância do Tema 280 do Supremo Tribunal Federal, pois ausentes as “fundadas razões”. Por fim, aponta a violação ao princípio da individualização da pena diante da fixação incorreta do regime.
+Requer, ao final
+“a) O conhecimento e provimento do presente Recurso Ordinário;
+b) A declaração de nulidade absoluta das provas obtidas mediante invasão de domicílio  sem justa causa e sem o Aviso de Miranda, com a consequente absolvição do  Recorrente (Art. 386, VII, CPP);
+c) Subsidiariamente, o redimensionamento do regime inicial para modalidade mais  branda, em observância à individualização da pena.”
+
+Decisão de admissibilidade constante no e-doc. 268.
+É o relatório. Decido.
+Verifica-se dos autos que o juízo de admissibilidade exercido pela  Presidência da Seção de Direito Criminal do Tribunal de origem negou seguimento ao recurso extraordinário quanto às matérias tratadas nos Temas nºs 181 e 280 da sistemática da repercussão geral e inadmitiu o recurso quanto quanto às demais alegações (e-doc. 268).
+Contra a decisão que negou seguimento ao recurso, a parte interpôs agravo interno, o qual não foi conhecido (e-doc. 288).
+Cumpre observar, no ponto, que não cabe agravo dirigido a este Supremo Tribunal Federal (art. 1.042 do CPC) contra o capítulo da decisão que negou seguimento ao recurso extraordinário com fundamento no art. 1.030, I, “a” do Código de Processo Civil, por aplicação dos citados temas da Repercussão Geral. Nesse sentido:
+
+“Agravo regimental no recurso extraordinário com agravo. Aplicação da sistemática da repercussão geral pelo juízo de origem. Recurso dirigido ao Supremo Tribunal Federal. Não cabimento. Precedentes. 1. Segundo a firme jurisprudência do Supremo Tribunal Federal, não cabe recurso ou outro instrumento processual na Corte contra decisão do juízo de origem em que se aplique a sistemática da repercussão geral. 2. Essa orientação está consolidada no Código de Processo Civil de 2015, que prevê, como instrumento processual adequado contra a aplicação do instituto da repercussão geral, a interposição de agravo interno perante o próprio tribunal de origem (art. 1.030, § 2º, do CPC). 3. Agravo regimental não provido” (ARE nº 1.171.847/DF - AgR, Tribunal Pleno, de minha relatoria no exercício da Presidência, DJe de 19/3/19.)
+“EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM: AUSÊNCIA DE PREVISÃO LEGAL DE RECURSO PARA O SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 1.109.295/RS-ED-ED, Tribunal Pleno, Rel. Min. Cármen Lúcia (Presidente), DJe de 25/9/18).
+
+Desse modo, no âmbito do presente agravo, hão de ser resolvidas apenas as questões remanescentes. Passo a apreciá-las.
+O recurso não reúne condições de prosperar, pois a parte recorrente não apresentou tópico de repercussão geral da matéria devidamente fundamentada nos aspectos econômico, político, social ou jurídico que ultrapassem os interesses subjetivos da causa frente às questões constitucionais invocadas no recurso extraordinário.
+Com efeito, é dever da parte recorrente demonstrar de forma devidamente fundamentada, expressa e clara as circunstâncias que poderiam configurar a relevância das questões constitucionais suscitadas no recurso extraordinário, o que não ocorreu no caso em tela.
+Nesse ponto, a parte recorrente na petição do apelo extremo limitou-se a consignar que:
+
+“II – DA REPERCURÇÃO GERAL
+A questão trazida aos autos transcende o interesse subjetivo das partes, possuindo alta relevância jurídica e social. Discute-se:
+• Direito ao Silêncio e Aviso de Miranda (art. 5º, inc. LXIII, CF): A validade de provas obtidas por confissões informais ou declarações de testemunhas sem a prévia advertência dos direitos constitucionais.
+• Limites da inviolabilidade domiciliar (art. 5º, inc. XI, CF): A definição do que constitui “fundada suspeita” para o ingresso do policial sem mandado, especificamente quando baseada exclusivamente em declarações colhidas de supostos usuários de drogas, os quais não foram conferido o direito ao silêncio, e sem prévia investigação. A matéria é idêntica à tratada no Tema 280 do STF;
+• Individualização da pena (art. 5º, inc. XLVI, da CF): a adequação do regime inicial de cumprimento de pena, levando em consideração as peculiares do caso concreto, de modo dar efetividade à individualização da pena e seu cumprimento.” (e-doc. 255, p. 1-2)
+
+A mera afirmação genérica de existência de repercussão geral, desacompanhada de robusta fundamentação da relevância econômica, política, social ou jurídica da questão constitucional, não é suficiente para o conhecimento do recurso extraordinário, nos termos do art. 102, § 3º, da Constituição Federal e do art. 1.035 do CPC/2015. Nesse sentido:
+
+“DIREITO PENAL E PROCESSUAL PENAL. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. AUSÊNCIA DE DEMONSTRAÇÃO DA REPERCUSSÃO GERAL. INOBSERVÂNCIA DO ART. 1.035, §§ 1º E 2º, DO CPC/2015. REPERCUSSÃO GERAL PRESUMIDA OU RECONHECIDA EM OUTRO RECURSO NÃO VIABILIZA APELO SEM A PRELIMINAR FUNDAMENTADA DA REPERCUSSÃO GERAL. INDIVIDUALIZAÇÃO DA PENA. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 2. Deficiência na fundamentação, em recurso extraordinário interposto sob a égide do CPC/2015, da existência de repercussão geral da questão constitucional suscitada. Inobservância do art. 1.035, §§ 1º e 2º, do CPC/2015. O preenchimento desse requisito demanda a demonstração, no caso concreto, da existência de questões relevantes do ponto de vista econômico, político, social ou jurídico que ultrapassem os interesses subjetivos do processo. A afirmação genérica da existência de repercussão geral ou a simples indicação de tema ou precedente desta Suprema Corte são insuficientes para o atendimento do pressuposto. 3. Agravo interno conhecido e não provido” (ARE nº 1.321.091/SP-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 28/5/21 - grifo nosso).
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CRIMINAL. REITERAÇÃO DA TESE DO RECURSO INADMITIDO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. DISCUSSÃO DE ÂMBITO INFRACONSTITUCIONAL. VIOLAÇÃO DOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA, DOS LIMITES DA COISA JULGADA E DO DEVIDO PROCESSO LEGAL. AUSÊNCIA DE REPERCUSSÃO GERAL (TEMA 660). FALTA DE FUNDAMENTAÇÃO. AUSÊNCIA DE REPERCUSSÃO GERAL (TEMA 339). SUBSISTÊNCIA DA DECISÃO AGRAVADA. AGRAVO A QUE SE NEGA PROVIMENTO. I - As razões do agravo regimental são inaptas para desconstituir os fundamentos da decisão agravada, que, por isso, se mantêm hígidos. II - É ônus da parte recorrente apresentar a preliminar, formal e fundamentada, de repercussão geral da matéria constitucional versada no recurso extraordinário, com indicação específica das circunstâncias que evidenciem, no caso concreto, a transcendência dos interesses subjetivos da causa, para que seja atendido o requisito previsto no art. 102, § 3°, da CF e no art. 1.035 do CPC, o que não foi observado pela parte recorrente. III - O Supremo Tribunal Federal já definiu que a violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando implicarem em exame de legislação infraconstitucional, é matéria sem repercussão geral (Tema 660 - ARE 748.371-RG/MT). IV - No julgamento do AI 791.292-QO-RG/PE (Tema 339), relatado pelo Ministro Gilmar Mendes, reconheceu-se a repercussão geral e reafirmou-se a orientação no sentido de que a exigência do art. 93, IX, da Constituição, não impõe seja a decisão exaustivamente fundamentada. O que se busca é que o julgador indique, de forma clara, as razões de seu convencimento. V - Agravo regimental a que se nega provimento.” (ARE nº 1.263.035/MG-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 22/5/20).
+
+“AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. CRIMES DE TRÁFICO ILÍCITO DE ENTORPECENTES E POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. ARTIGO 33 DA LEI 11.343/2006 E ARTIGO 12 DA LEI 10.826/2003. DEFICIÊNCIA NA FUNDAMENTAÇÃO DA PRELIMINAR DE REPERCUSSÃO GERAL. ARTIGO 1.035, § 2º, DO CÓDIGO DE PROCESSO CIVIL DE 2015 C/C ARTIGO 327, § 1º, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. MATÉRIA CRIMINAL. INEXISTÊNCIA DE REPERCUSSÃO PRESUMIDA. PRECEDENTES. ALEGADA VIOLAÇÃO AO ARTIGO 5º, LIV E LV, DA CONSTITUIÇÃO FEDERAL. PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DO CONTRADITÓRIO E DA AMPLA DEFESA. OFENSA REFLEXA AO TEXTO CONSTITUCIONAL. ALEGADA VIOLAÇÃO AOS ARTIGOS 5º, LIII E LVII, E 129, I, DA CONSTITUIÇÃO FEDERAL. PRINCÍPIOS DO JUIZ NATURAL, DA PRESUNÇÃO DE INOCÊNCIA E DO SISTEMA ACUSATÓRIO. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICOPROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. ALEGADA OFENSA AO SISTEMA ACUSATÓRIO. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. PAS DE NULLITÉ SANS GRIEF. AGRAVO INTERNO DESPROVIDO.” (ARE nº 1.264.183/RS-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 26/5/20).
+
+Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+Publique-se.
+Brasília, 6 de agosto de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
