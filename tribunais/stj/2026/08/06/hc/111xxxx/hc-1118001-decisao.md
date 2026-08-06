@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de JOÃO FRANCISCO COSTA DA SILVA, no qual se aponta como autoridade coatora o Tribunal Regional Federal da 4ª Região, que negou provimento ao agravo de execução defensivo, nos termos do acórdão assim ementado:
+"AGRAVO DE EXECUÇÃO PENAL. MONITORAMENTO ELETRÔNICO. VIOLAÇÃO DA ÁREA DE INCLUSÃO. RECONHECIMENTO DE FALTA GRAVE. PENALIDADE DE ADVERTÊNCIA. POSSIBILIDADE.
+1. A inobservância do perímetro de área de inclusão do monitoramento eletrônico, sem permissão e tampouco justificativa plausível, caracteriza falta grave.
+2. Constitui dever do monitorado requerer, previamente, autorização para deslocamentos pretendidos.
+3. Consoante prescrevem os arts. 146-C, parágrafo único, e 146-D, II, da LEP, nas hipóteses de descumprimento do monitoramento eletrônico, é possível, a critério do Juízo da execução, a aplicação da penalidade de advertência ou de outra mais gravosa, inclusive a imposição de regressão de regime." (e-STJ, fl. 9).
+O impetrante sustenta a ocorrência de constrangimento ilegal suportado pelo paciente em decorrência da homologação de falta grave relativa à violação da área de monitoramento eletrônico.
+Assevera que as duas violações ao monitoramento, ocorridas em 2/8/2025 e 27/9/2025, consistiram em breves saídas da área de inclusão, justificadas por trabalho eventual como freelancer e frequência a curso de capacitação de barbeiro.
+Defende que "a inobservância temporária do perímetro delimitado pela Central de Monitoramento, mantido o regular funcionamento do aparelho e a emissão contínua de sinais de GPS, não caracteriza a prática de falta disciplinar de natureza grave descrita no rol taxativo do artigo 50 da Lei de Execução Penal" (e-STJ, fl. 4).
+Argumenta que a conduta do reeducando configura mero descumprimento de condição obrigatória, passível de ensejar a aplicação de advertência (art. 146-C, parágrafo único, VII, da LEP). Aduz que se revela desproporcional e ilegal a imposição da perda de dias remidos e alteração de data-base quando ausente o ânimo de fuga.
+Requer, ao final, o afastamento da falta grave imputada ao paciente, com a restauração da data-base originária da execução de sua pena. Solicita, ainda, su a intimação para realizar sustentação oral.
+É o relatório.
+Decido.
+Esta Corte - HC n. 535.063/SP, Terceira Seção, relator Ministro Sebastião Reis Junior, julgado em 10/6/2020, DJe de 25/8/2020 - e o Supremo Tribunal Federal - AgRg no HC n. 180.365/PB, Primeira Turma, relatora Ministra Rosa Weber, julgado em 27/3/2020, DJe de 2/4/2020; AgRg no HC n. 147.210/SP, Segunda Turma, relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/2/2020 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Inicialmente, quanto ao pedido de sustentação oral, cumpre ressaltar que a "decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, ainda que não viabilizada a sustentação oral das teses apresentadas, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão  ..  permite que a matéria seja apreciada pela Turma" (AgRg no HC n. 485.393/SC, relator Ministro Felix Fischer, Quinta Turma, DJe de 28/3/2019).
+Assim, é "plenamente possível  ..  que seja proferida decisão monocrática por Relator, sem qualquer afronta ao princípio da colegialidade ou cerceamento de defesa, quando todas as questões são amplamente debatidas, havendo jurisprudência dominante sobre o tema, ainda que haja pedido de sustentação oral" (AgRg no HC n. 607.055/SP, relator Ministro Felix Fischer, Quinta Turma, julgado em 9/12/2020, DJe de 16/12/2020).
+Feitas tais considerações, observo que o caso dos autos constitui reiteração do HC n. 1.076.945/PR, já julgado pela Quinta Turma desta Corte Superior, cujo acórdão transitou em julgado no dia 25/5/2026.
+Como cediço, a identidade de partes, objeto e causa de pedir, com amb os os feitos impugnando o mesmo acórdão (agravo de execução penal n. 000506-89.2025.4.04.7017/PR), são óbices ao conhecimento da impetração em face da litispendência.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PROCESSUAL PENAL. REITERAÇÃO DO PLEITO FORMULADO NO HC N. 917.749/SP. LITISPENDÊNCIA. PETIÇÃO RECURSAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No HC n. 917.749/SP, impetrado nesta Corte, foi formulada idêntica pretensão, em favor da mesma acusada. In casu, a reiteração de ordem anterior não pode ter prosseguimento por carência de interesse de agir.
+2. Na hipótese, configura-se litispendência, devendo ser extinto o superveniente recurso constitucional, sem julgamento do mérito.
+3. Agravo regimental não provido."
+(AgRg no RHC n. 199.807/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 30/9/2024, DJe de 4/10/2024.)
+"AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. PRESCRIÇÃO DA PRETENSÃO PUNITIVA E INDULTO FORMULADO COM BASE NO DECRETO PRESIDENCIAL N. 11.846/2023. IDENTIDADE DE PARTES, PEDIDO E CAUSA DE PEDIR. MERA REITERAÇÃO DE HABEAS CORPUS ANTERIORMENTE IMPETRADO NESTA CORTE SUPERIOR. LITISPENDÊNCIA RECONHECIDA. INADMISSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É cediço que a identidade de partes, objeto e causa de pedir, com ambos os feitos impugnando o mesmo acórdão, constituem óbices ao conhecimento do habeas corpus ou do recurso ordinário devido à litispendência.
+2. Hipótese em que o recurso ordinário em habeas corpus constitui mera reiteração de habeas corpus em processamento nesta Corte Superior.
+3. Agravo regimental desprovido."
+(AgRg no RHC n. 196.957/SP, de minha relatoria, Quinta Turma, julgado em 9/9/2024, DJe de 12/9/2024.)
+"PENAL E PROCESSO PENAL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL. MERA REITERAÇÃO DE HABEAS CORPUS ANTERIORMENTE IMPETRADO NESTA CORTE SUPERIOR. IDENTIDADE DE PARTES, DE PEDIDO E DE CAUSA DE PEDIR. LITISPENDÊNCIA. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O pedido de reconsideração pode ser recebido como agravo regimental em observância aos princípios da economia processual e da fungibilidade dos recursos, desde que apresentado no prazo legal (AgRg no HC n. 745.226/SP, Relator Ministro JOÃO OTÁVIO DE NORONHA, Quinta Turma, julgado em 2/8/2022, DJe 8/8/2022).
+2. A jurisprudência deste Superior Tribunal de Justiça firmou-se no sentido de que "não podem ser processados nesta Corte, concomitantemente, habeas corpus (ou o recurso que lhe faça as vezes) nos quais se constata litispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa petendi". (AgRg no HC n. 773.624/PI, Relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 12/12/2022, DJe 15/12/2022).
+3. No caso dos autos, verifica-se que foi impetrado anteriormente nesta Corte Superior o Habeas Corpus n. 813.437/RS, também em benefício do ora paciente, apontando como ato coator o mesmo acórdão, apresentando o mesmo pedido e com fundamento na mesma causa de pedir. Dessa forma, o novo writ consubstancia mera reiteração, razão pela qual não pode ser conhecido.
+4. Agravo regimental a que se nega provimento."
+(RCD no HC n. 902.909/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/6/2024, DJe de 12/6/2024.)
+Ante o exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
