@@ -1,0 +1,30 @@
+DECISÃO
+
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em favor de BRENDO DOS SANTOS SAMPAIO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Extrai-se dos autos que o paciente responde pela suposta prática do crime de homicídio qualificado, por duas vezes, previsto no art. 121, § 2º, II e IV, c/c o art. 69, do Código Penal, tendo sido decretada sua prisão preventiva, cuja fundamentação consignou, entre outros pontos, tratar-se possivelmente de "racha" entre veículos em via pública, com notícia de altíssima velocidade e morte de duas pessoas, destacando alterações no veículo e desrespeito às regras de trânsito (e-STJ, fls. 24-25).
+O acusado foi pronunciado (e-STJ, fls. 17-27), sentença contra a qual foi interposto Recurso em Sentido Estrito (e-STJ, fls. 59-77).
+Esta Corte, no bojo do HC 1024894/SP, de minha relatoria, com decisão publicada em 29/9/2025, concedeu a ordem de ofício para para substituir a prisão preventiva do paciente pelas medidas cautelares alternativas de proibição de dirigir e monitoramento eletrônico (e-STJ, fl. 606 do HC 1024894/SP), tendo as condições sido estabelecidas pelo magistrado de primeiro grau (e-STJ, fls. 132).
+Neste writ, a defesa alega, em síntese, a) o cabimento da substituição do monitoramento eletrônico pela apreensão de passaporte, uma vez que inexiste qualquer registro de descumprimento e, subsidiariamente, a flexibilização das condições impostas (e-STJ, fls. 2-11); b) gravidade abstrata e clamor público não legitimam a manutenção da cautelar (e-STJ, fl. 5-7); c) p ronúncia não autoriza, por si só, restrição à liberdade (e-STJ, fls. 7-9).
+Requer, ao final, a determinação da retirada imediata do dispositivo de monitoramento eletrônico, com a substituição da medida pela retenção do passaporte do paciente, ou, subsidiariamente, determinar a flexibilização das condições impostas (e-STJ, fls. 10-11).
+A liminar foi indeferida (e-STJ, fls. 80-81).
+As informações foram prestadas (e-STJ, fls. 118-158).
+É  o  relatório.
+Decido.
+Em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo à parte apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado.
+No caso, os autos não foram instruídos com cópia do acórdão impugnado com a discussão da matéria, peça imprescindível para análise do habeas corpus, o que inviabiliza o conhecimento da impetração.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR DA INICIAL. FALTA DE PEÇAS. DECISÃO IMPUGNADA. INVIABILIDADE DE EXAME. DECISÃO LIMINAR. SÚMULA 691 STF. AUSÊNCIA DE MANIFESTA ILEGALIDADE. RECURSO NÃO PROVIDO. 1. A ausência nos autos de habeas corpus do acórdão ou da decisão combatida torna inviável o exame da controvérsia. Precedentes. 2. A jurisprudência deste Superior Tribunal de Justiça firmou-se em que, "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, j. em 02/08/2022, DJe de 10/08/2022). 3. Verifica-se que não está caracterizada manifesta ilegalidade suficiente para superar o óbice do referido enunciado sumular. 4. Agravo regimental não provido. (AgRg no HC n. 880.491/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 9/4/2024, DJe de 16/4/2024.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. LATROCÍNIO. NULIDADE. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. OFENSA AO PRINCÍPIO DA DIALETICIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Ausente o inteiro teor do acórdão hostilizado, não há como se conhecer do writ em razão de sua instrução deficiente.
+2. Ademais, "é inviável o agravo regimental que deixa de atacar especificamente os fundamentos da decisão impugnada, por ser essa condição necessária à admissibilidade de qualquer recurso, conforme entendimento firmado pela Corte Especial. O princípio da dialeticidade impõe à parte a demonstração específica do desacerto das razões lançadas no decisum atacado, sob pena de não conhecimento do recurso. Não são suficientes, para tanto, alegações genéricas ou a repetição dos termos do recurso interposto" (AgRg no AREsp n. 1.941.517/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/2/2022, DJe 3/3/2022).
+3. Agravo regimental não conhecido.
+(AgRg no HC n. 936.782/AC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/9/2024, DJe de 25/9/2024.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT NÃO CONHECIDO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE NÃO CONFIGURADA. INSTRUÇÃO DEFICIENTE. AÇÃO DE NATUREZA MANDAMENTAL QUE EXIGE PROVA PRÉ-CONSTITUÍDA. ÔNUS QUE COMPETE À DEFESA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos da jurisprudência dessa Corte, "a prolação de decisão monocrática pelo ministro relator está autorizada não apenas pelo RISTJ, mas também pelo CPC. Nada obstante, como é cediço, os temas decididos monocraticamente sempre poderão ser levados ao colegiado, por meio do controle recursal, o qual foi efetivamente utilizado no caso dos autos, com a interposição do presente agravo regimental." (AgRg no REsp 1.322.181/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/12/2017, DJe 18/12/2017).
+2. Em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo aos impetrantes apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado.
+3. In casu, não foi juntado, aos autos, o inteiro teor do acórdão proferido em sede de apelação, o qual é imprescindível para a análise da impetração, não foram juntadas aos presentes autos.
+4 . Agravo regimental não provido.
+(AgRg no HC n. 774.358/PE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/12/2022, DJe de 15/12/2022.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
