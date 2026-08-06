@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de BRUNA ARANHA PEDROSO, presa preventivamente e acusada pela prática, em tese, dos crimes dos arts. 33 e 35 da Lei n. 11.343/2006 (Processo n. 1500921-46.2026.8.26.0559, da Vara Plantão - comarca de São José do Rio Preto/SP).
+O impetrante aponta como autoridade coatora a Desembargadora do Tribunal de Justiça do Estado de São Paulo, que, em 19/4/2026, indeferiu o pedido liminar formulado no HC n. 2098503-17.2026.8.26.0000.
+Alega excesso de prazo na apreciação do habeas corpus na origem, impetrado em 14/4/2026 e concluso desde 29/5/2026, sem julgamento de mérito, o que configura constrangimento ilegal e justifica a atuação excepcional desta Corte.
+Sustenta motivação inidônea do decreto preventivo, fundada em gravidade abstrata e ilações genéricas, sem demonstração concreta do periculum libertatis, destacando que nada foi apreendido na residência da paciente e que os indícios contra ela decorreriam de presunções sobre logística e armazenamento por terceiros.
+Afirma condições pessoais favoráveis - primariedade, bons antecedentes, residência fixa - e requer substituição da prisão por medidas cautelares diversas, nos termos dos arts. 282 e 319 do Código de Processo Penal.
+Postula a prisão domiciliar com base nos arts. 318, V, e 318-A do Código de Processo Penal, por ser mãe de criança menor de 12 anos, defendendo a presunção de imprescindibilidade dos cuidados maternos e a inexistência de situação excepcional que afaste o benefício.
+Em caráter liminar, pede determinar a imediata apreciação do habeas corpus pelo Tribunal de Justiça de São Paulo ou, subsidiariamente, a concessão de liberdade com cautelares. No mérito, requer a revogação da prisão preventiva ou sua substituição por medidas cautelares, ou o reconhecimento do constrangimento ilegal pela mora jurisdicional, com ordem de imediato julgamento do writ na origem.
+A liminar foi indeferida (120/121).
+Informações prestadas (fls. 126/144 e 155/159).
+Parecer do Ministério Público Federal pelo não conhecimento do habeas corpus (fls. 148/152).
+É o relatório.
+Na espécie, aplica-se o enunciado da Súmula 691/STF, observado também por esta Corte, segundo o qual não cabe habeas corpus contra o indeferimento de pedido liminar formulado no Tribunal a quo.
+Com efeito, as questões trazidas na impetração não foram ainda enfrentadas pelo colegiado competente, não se admitindo a pretendida supressão de instância.
+Esse posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada dos autos a configuração de flagrante ilegalidade ou abuso de poder, o que não ocorreu no caso em tela, diante das particularidades mencionadas no decisum impugnado.
+O indeferimento da liminar na origem foi motivado pela gravidade concreta da situação: apreensão de 1.455 g de cocaína na forma de "crack" e 53,94 g de maconha, balanças de precisão com resquícios, valores em espécie, anotações contábeis com referência ao nome da paciente, conversas em celulares alusivas à negociação, divisão de tarefas e uso de "paiol", além de associação estruturada voltada ao tráfico; quanto à prisão domiciliar, registrou-se ausência de demonstração de imprescindibilidade dos cuidados maternos, pois o filho está assistido pela tia (fls. 78/83 e 83/86). Posteriormente, manteve-se o indeferimento liminar da domiciliar, por inexistirem fatos novos e por a criança estar assistida no seio familiar (fls. 87/89).
+Também não há falar no apontado excesso de prazo para o julgamento do writ originário, diante da informação contida no parecer do Parquet Federal no sentido de que, em consulta processual aos autos originários, mediante a chave de acesso fornecida pela autoridade coatora (e-STJ fl. 143), (..) o julgamento do habeas corpus impetrado na origem pelo órgão colegiado está previsto para ocorrer em 06/08/2026 (fl. 150).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. SÚMULA 691/STF. INDEFERIMENTO DE LIMINAR NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. GRAVIDADE CONCRETA. QUANTIDADE DE DROGA APREENDIDA. INSTRUMENTOS DO TRÁFICO. ASSOCIAÇÃO E MODUS OPERANDI ESTRUTURADO. PRISÃO DOMICILIAR. IMPRESCINDIBILIDADE DOS CUIDADOS MATERNOS NÃO DEMONSTRADA. EXCESSO DE PRAZO NÃO CONFIGURADO DIANTE DE JULGAMENTO COLEGIADO AGENDADO.
+Habeas corpus não conhecido.
