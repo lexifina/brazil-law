@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2337, de 5 de agosto de 2026
+Dispõe sobre regime especial de execução da retenção de tributos incidentes sobre os pagamentos efetuados por órgãos superiores do Poder Judiciário a associações sem fins lucrativos na hipótese que especifica.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o art. 350, caput, inciso III, do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 64 da Lei nº 9.430, de 27 de dezembro de 1996, resolve:
