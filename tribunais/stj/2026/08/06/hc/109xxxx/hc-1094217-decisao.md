@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Alessandro Martins Galante, apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul, que, nos autos do Recurso Especial em Recurso em Sentido Estrito n. 5002897-70.2025.8.21.0165/RS, indeferiu a atribuição de efeito suspensivo e manteve a data da sessão plenária do Tribunal do Júri (fls. 16-26).
+Consta dos autos que o paciente foi pronunciado em 21/05/2025 como incurso no art. 121, § 2º, incisos I, III e IV, c/c art. 29, caput, na forma do art. 69, caput, todos do Código Penal, com manutenção da prisão preventiva e designação do julgamento pelo Tribunal do Júri, inicialmente para 21/05/2026, readequado para 18/05/2026 (fls. 28-35; 231-247).
+Registra-se que a sessão foi posteriormente remarcada para 13/07/2026 por insuficiência de jurados (fl. 402).
+A defesa alega violação ao art. 155 do Código de Processo Penal, sustentando que a pronúncia se baseou exclusivamente em elementos informativos do inquérito e em testemunhos indiretos de policiais, sem indícios de autoria judicializados; aponta, ainda, a improcedência das qualificadoras de motivo torpe, perigo comum e recurso que dificultou a defesa da vítima (fls. 2-15).
+Requer a concessão da ordem para suspender a sessão do júri e sobrestar a ação penal até o julgamento do recurso especial; subsidiariamente, pleiteia liberdade provisória com medidas cautelares diversas (fls. 2-15).
+A liminar foi indeferida (fls. 251-253); foram prestadas informações pela autoridade coatora (fls. 48-218);
+O Ministério Público Federal manifestou-se pela denegação, enfatizando a continuidade do trâmite processual e a presença dos requisitos da prisão preventiva (fls. 400-409).
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram o entendimento de que não cabe habeas corpus como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (STJ, HC n. 535.063/SP, Terceira Seção, Relator Ministro Sebastião Reis Junior, julgado em 10/6/2020, DJe de 25/8/2020; STF, AgRg no HC n. 180.365/PB, Primeira Turma, Relatora Ministra Rosa Weber, julgado em 27/3/2020, DJe de 2/4/2020; e AgRg no HC n. 147.210/SP, Segunda Turma, Relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/2/2020).
+Ressalto, ainda, que a decisão monocrática proferida pelo relator não viola o princípio da colegialidade, nem caracteriza cerceamento de defesa, mesmo que não tenha sido oportunizada a sustentação oral das teses apresentadas, pois há possibilidade de interposição de agravo regimental contra o referido ato judicial, o que assegura a eventual apreciação da matéria pelo órgão colegiado (AgRg no HC n. 1.023.758/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/8/2025, DJEN de 27/8/2025).
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+No caso em exame, impetra-se habeas corpus visando suspender a sessão plenária do Tribunal do Júri e sobrestar a ação penal até o julgamento de recurso especial já admitido na origem, bem como, subsidiariamente, revogar a prisão preventiva do paciente.
+Inicialmente, cumpre ressaltar o entendimento consolidado desta Corte Superior de Justiça no sentido de que o habeas corpus não é a via adequada para dar efeito suspensivo a recurso especial ou extraordinário, tendo em vista que este pedido normalmente é veiculado por medida cautelar inominada, só sendo acolhido em casos excepcionais, quando comprovada a plausibilidade jurídica do pedido e o risco de lesão grave ou de difícil reparação (AgRg no HC n. 500.762/SP, relator Ministro Jorge Mussi, Quinta Turma, julgado em 23/4/2019, DJe de 7/5/2019).
+Nesse mesmo sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. EFEITO SUSPENSIVO A RECURSO ESPECIAL. INADEQUAÇÃO DA VIA ELEITA. PRISÃO DOMICILIAR. SUPRESSÃO DE INSTÂNCIA. AGRAVO IMPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus.
+2. Alegação de necessidade de atribuição de efeito suspensivo ao recurso especial, com fundamento nos arts. 1.029, § 5º, e 995, parágrafo único, do CPC, em razão da presença de fumus boni iuris e periculum in mora. Defende a inexistência de supressão de instância quanto ao pedido de prisão domiciliar.
+II. QUESTÃO EM DISCUSSÃO
+3. Há duas questões em discussão: (i) saber se o habeas corpus pode ser utilizado para atribuir efeito suspensivo a recurso especial;
+(ii) saber se o pedido de prisão domiciliar pode ser apreciado diretamente pelo Tribunal Superior quando não analisado pelo Tribunal de origem.
+III. RAZÕES DE DECIDIR
+4. O habeas corpus não é via adequada para conferir efeito suspensivo a recurso especial.
+5. A apreciação do pedido de prisão domiciliar encontra óbice quando ausente o exame pela instância ordinária, sob pena de indevida supressão de instância.
+IV. DISPOSITIVO E TESE
+6. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. O habeas corpus não é a via adequada para a atribuição de efeito suspensivo a recurso especial. 2. A análise de pedido não apreciado pelo Tribunal de origem caracteriza supressão de instância.
+Dispositivos relevantes citados: Não há dispositivos relevantes citados.
+Jurisprudência relevante citada: STJ, AgRg no HC 500.762/SP, Rel. Min. Jorge Mussi, Quinta Turma, j. 23.04.2019; STJ, AgRg no HC 997.575/RJ, Rel. Min. Messod Azulay Neto, Quinta Turma, j.
+10.06.2025; STJ, HC 1.021.386/DF, Rel. Min. Sebastião Reis Júnior, Sexta Turma, j. 03.12.2025.
+(AgRg no HC n. 1.064.093/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/6/2026, DJEN de 22/6/2026.)
+Ademais, a pretensão de sobrestamento da ação penal e de suspensão do julgamento pelo Tribunal do Júri não encontra amparo legal, tampouco se amolda ao caráter excepcional da tutela de urgência em sede de recurso especial.
+É firme o entendimento desta Corte no sentido de que os recursos excepcionais não possuem efeito suspensivo automático e, para a concessão de efeito suspensivo em tutela cautelar, exigem-se, cumulativamente, plausibilidade jurídica da tese recursal e risco concreto de dano irreparável ou de difícil reparação, o que não se evidencia na espécie.
+A propósito:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA. PRINCÍPIO DA DIALETICIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Não é possível conhecer de agravo regimental que, em ofensa ao princípio da dialeticidade, não impugna direta e especificamente os fundamentos da decisão agravada. Súmula n. 182/STJ.
+2. "A preclusão da pronúncia, dada a ausência de efeito suspensivo aos recursos de natureza extraordinária (recursos especial e extraordinário - art. 637 do CPP), coincide com o exaurimento da matéria em recursos inerentes ao procedimento do júri apreciados pelas instâncias ordinárias. A interposição de recursos especial ou extraordinário contra acórdão confirmatório da decisão de pronúncia não obstaculiza a realização do julgamento pelo Tribunal do Júri" (HC n. 118.357/PE AgR, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 16/10/2017, DJe de 26/10/2017).
+3. Agravo regimental não conhecido.
+(AgRg nos EDcl no AREsp n. 2.274.125/PR, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/12/2023, DJe de 15/12/2023.)
+A invocação genérica de possível "perda de objeto" do apelo excepcional, desacompanhada de demonstração objetiva de prejuízo concreto decorrente da manutenção da decisão de pronúncia até o julgamento colegiado, não satisfaz o requisito do perigo na demora, razão pela qual não se justifica o sobrestamento do feito nem a suspensão do júri.
+Quanto à alegação de nulidade da pronúncia por suposta violação ao artigo 155 do Código de Processo Penal e à improcedência das qualificadoras, a via estreita do habeas corpus não comporta revolvimento do conjunto fático-probatório para infirmar juízo de admissibilidade da acusação proferido pelas instâncias ordinárias.
+A decisão de pronúncia foi mantida em recurso próprio, com fundamento na existência de prova da materialidade e indícios suficientes de autoria, remetendo ao Conselho de Sentença a valoração aprofundada dos elementos probatórios. Na fase do judicium accusationis, somente se excluem qualificadoras quando manifestamente descabidas, sob pena de indevida usurpação da competência do Tribunal do Júri, e não há demonstração de improcedência evidente que autorize, por habeas corpus, seu decote imediato.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. HOMICÍDIO. PRONÚNCIA. QUALIFICADORAS DO FEMINICÍDIO. JUÍZO DE VALOR. COMPETÊNCIA DO TRIBUNAL DO JÚRI. NATUREZA OBJETIVA. AFERIÇÃO. ANIMUS. DESNECESSIDADE. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte Superior de Justiça está fixada no sentido de que "somente devem ser excluídas da decisão de pronúncia as circunstâncias qualificadoras manifestamente improcedentes ou sem nenhum amparo nos elementos dos autos, sob pena de usurpação da competência constitucional do Tribunal do Júri" (AgRg no HC 429.228/PR, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 26/02/2019, DJe 12/03/2019).
+2. A qualificadora do feminicídio é de natureza objetiva, dispensando a análise do animus do agente. Assim, mostra-se descabida a sua exclusão na fase de pronúncia.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.358.996/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 17/10/2023, DJe de 20/10/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA. EXCESSO DE LINGUAGEM. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO IDÔNEA. REVISÃO. SÚMULA 7/STJ. IMPRONÚNCIA. DESCABIMENTO. INDÍCIOS SUFICIENTES DE AUTORIA. ALTERAÇÃO DAS CONCLUSÕES DAS INSTÂNCIAS DE ORIGEM. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. PEDIDO DE AFASTAMENTO DA QUALIFICADORA. RECONHECIMENTO DEVIDAMENTE FUNDAMENTADO. MATÉRIA AFETA À COMPETÊNCIA DO TRIBUNAL DO JÚRI. PRECEDENTES. SÚMULA 7/STJ. INEXISTÊNCIA DE ARGUMENTOS APTOS A ENSEJAR A REFORMA DA DECISÃO.
+1. O agravo regimental não merece prosperar, porquanto as razões reunidas na insurgência são incapazes de infirmar o entendimento assentado na decisão agravada.
+2. No caso, não se cogita a presença do alegado excesso de linguagem, uma vez que a decisão de pronúncia foi comedida na apreciação das provas, tendo apenas indicado a presença da materialidade do fato e a existência de indícios suficientes da autoria, deixando o juízo de valor acerca da efetiva ocorrência do fato típico para a apreciação do Conselho de Sentença do Tribunal do Júri.
+3. A conclusão das instâncias ordinárias sobre a presença da materialidade e dos indícios suficientes de autoria, imprescindíveis à pronúncia do agravante, baseou-se no acervo fático-probatório dos autos, em especial na prova oral produzida durante a instrução, de modo que não há como inverter o julgado nesta instância, em recurso especial, porque incide o óbice da Súmula 7/STJ.
+4. Consoante a jurisprudência do Superior Tribunal de Justiça, somente se admite a exclusão das qualificadoras na pronúncia quando manifestamente improcedentes, sob pena de suprimir a competência constitucional do Tribunal do Júri (AgRg no AREsp n. 2.198.026/MT, Ministro João Batista Moreira, Desembargador convocado do TRF1, Quinta Turma, DJe 3/5/2023).
+5. Na espécie, a qualificadora do inciso IV do § 2º do art. 121 do Código Penal apresenta-se suficientemente delineada no contexto probatório, não havendo que se cogitar de sua manifesta improcedência. Afora isso, o acolhimento da tese defensiva também demanda a análise das provas dos autos, o que não é permitido no âmbito do recurso especial. Precedentes.
+6. Agravo regimental improvido.
+(AgRg no AREsp n. 2.260.001/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/2/2024, DJe de 8/2/2024.)
+No tocante à prisão preventiva, a custódia foi mantida com base na gravidade concreta dos fatos imputados, na necessidade de garantia da ordem pública e em dados objetivos de reiteração delitiva, tendo sido submetida a controle periódico.
+Em tal contexto, condições pessoais favoráveis não são suficientes para afastar a medida extrema quando persistem elementos concretos indicativos de risco real, e a substituição por cautelares diversas mostra-se inadequada diante do modus operandi apontado e da periculosidade aferida pelas instâncias ordinárias.
+Não se identifica excesso de prazo qualificado nem desvio da finalidade cautelar da prisão, de modo que a revogação pretendida não encontra suporte nesta sede constitucional.
+Em síntese, ausente ilegalidade flagrante, quer quanto à continuidade do trâmite processual sem efeito suspensivo do recurso especial e sem suspensão do júri, quer quanto à higidez da pronúncia e das qualificadoras na via eleita, quer quanto à manutenção da prisão preventiva, a ordem não merece acolhimento.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
