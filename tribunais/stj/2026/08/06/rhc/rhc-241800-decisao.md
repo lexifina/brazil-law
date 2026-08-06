@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por AFONSO COLAMARCO GOMES contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta nos autos que o recorrente foi preso em flagrante pela suposta prática dos delitos previstos nos artigos 33 e 35 da Lei nº 11.343/06, tendo a custódia sido posteriormente convertida em prisão preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de Justiça de origem, que conheceu parcialmente do writ e, na parte conhecida denegou a ordem em acórdão às fls. 79-98.
+Neste recurso sustenta, em suma, a ausência de fundamentação concreta e idônea da decisão que decretou a prisão cautelar em desfavor do recorrente ponderando suas condições pessoais favoráveis.
+Requer a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medidas cautelares diversas.
+O Ministério Público Federal em parecer, às fls. 125-131, manifestou-se pelo desprovimento do recurso.
+É o relatório. DECIDO.
+In casu, a análise da decisão que decretou a prisão preventiva permite concluir que a medida cautelar encontra-se devidamente fundamentada para a garantia da ordem pública, diante da gravidade concreta das condutas atribuídas ao recorrente, haja vista que após diligências policiais na residência em que se encontrava foram apreendidos 366,93 gramas de cocaína, expressiva quantia em dinheiro fracionado (R$ 18.285,00), três rádios comunicadores, duas câmeras de monitoramento das imediações e uma balança de precisão, elementos que evidenciam sua dedicação à atividade criminosa e demonstram a indispensabilidade da segregação cautelar - 96.
+Sobre o tema:
+"A fundamentação da prisão preventiva encontra respaldo em precedente desta Corte Superior que admite a segregação cautelar, em contexto de tráfico de drogas e crimes correlatos, quando evidenciada a gravidade concreta da conduta pela apreensão de objetos comumente utilizados no tráfico, arma de fogo e entorpecentes, como forma de preservar a ordem pública" (RCD no HC n. 1.080.166/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJEN de 29/4/2026.)
+"A decisão das instâncias ordinárias descreve a apreensão de substâncias entorpecentes, balança(s) de precisão, duas armas de fogo (pistola calibre .380, com carregador e munições, e revólver calibre .38, com munições), coldre e coronha de espingarda, em contexto de organização criminosa voltada ao tráfico de drogas, evidenciando a gravidade concreta da conduta e a potencial periculosidade do agente. Também foi destacado o fundado receio de reiteração delitiva, em virtude de o agravante ostentar condenações anteriores" (AgRg no HC n. 1.082.392/RO, relator Ministro Carlos Pires Brandão, Sexta Turma, DJEN de 19/5/2026.)
+Por fim, ressalta-se que a presença de circunstâncias pessoais favoráveis, tais como pri mariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publiqu e-se. Intimem-se.
+EMENTA
