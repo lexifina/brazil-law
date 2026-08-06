@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de RYAN LUCIANO DOS SANTOS MENDES contra acórdão proferido pelo TRIBUNAL DE JUSTÇA DE MINAS GERAIS.
+Na petição inicial, narrou que está preso pela prática, em tese, de crime de organização criminosa. Apontou que não há fundamentação concreta e idônea para a manutenção da segregação cautelar, em especial porque ausente contemporaneidade, já que os fatos pelos quais acusado remontam o ano de 2023, com decreto preventivo de março de 2026. Disse que não há qualquer comprovação de que integre organização criminosa. Indicou excesso de prazo, porque não finalizada a instrução no lapso legal (fls. 2/20).
+Indeferi a liminar (fls. 140/142).
+Prestadas as informações (fls. 148/274), o Ministério Público Federal opinou pelo não conhecimento ou denegação do habeas corpus (fls. 278/285).
+É o relatório. DECIDO.
+O habeas corpus foi impetrado contra acórdão proferido em habeas corpus, em substituição ao recurso cabível.
+Esse proceder desvirtua a vocação constitucional do habeas corpus, voltado à tutela da liberdade (art. 5º, inciso LXVIII, da Constituição Federal), o que leva ao seu não conhecimento, ressalvada a concessão de ordem de ofício, em caso de ilegalidade manifesta (art. 647, caput e parágrafo único, do Código de Processo Penal).
+A esse respeito: "O habeas corpus não pode ser utilizado como substitutivo de recurso legalmente previsto, salvo em casos de flagrante ilegalidade no ato judicial impugnado" (AgRg no HC n. 1.043.057/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/4/2026, DJEN de 23/4/2026.).
+De outro lado, não há como conceder ordem de ofício.
+A decisão que decretou a prisão preventiva, na parcela em que interessa à discussão, trouxe a seguinte fundamentação (fls. 90/105):
+"Igualmente, encontra-se configurado o periculum libertatis, evidenciado pelo fato de que os representados colocarão em risco a ordem pública, caso permaneçam em liberdade, ante a possibilidade efetiva de reiteração das condutas ilícitas, eis que integram organização criminosa estruturada e com participação de, pelo menos, vinte e três pessoas, os quais, em tese, praciticaram dezenas de delitos desde o ano de 2023.
+Ademais, o modus operandi empregado para cometimento dos crimes revela a periculosidade em concreto dos representados, ante a sofisticação da engrenagem criminosa estruturada e mantida ao longo do tempo, com divisão estável de funções, utilização de documentos falsos, ocultação patrimonial e articulação interestadual para escoamento dos bens ilícitos.
+ ..
+Nesse contexto, ante a complexidade e a gravidade em concreto dos delitos em apuração, da quantidade de crimes, do grau de articulação da organização criminosa e da periculosidade do modus operandi empregado pelos representados e do óbice que a liberdade dos representados representa para a ordem pública, na forma do artigo 312, caput e parágrafo único, do Código de Processo Penal, não se afigura possível a imposição de nenhuma outra medida cautelar menos gravosa, eis que somente a prisão preventiva revela-se eficiente para preservação da ordem pública".
+De início, o decreto preventivo encontra espaço no pressuposto objetivo do art. 313, inciso I, do Código de Processo Penal, na medida em que a pena cominada ao crime imputado ao ora agravante supera a marca de 4 (quatro) ano de privação de liberdade.
+De outro aspecto, a decisão, antes, enumerou elementos concretos para indicar a materialidade e os indícios de autoria (art. 312, caput, parte final, do Código de Processo Penal).
+Ainda, destacou que o ora agravante integra, em tese, organização criminosa, que atua a frente de ilícitos penais diversos, com abrangência interestadual e estrutura sofisticada.
+Esse enredo, pautado em dados extraídos dos autos, revela a gravidade concreta do fato e a periculosidade social do ora agravante, bem como o risco de que, em liberdade, volte a delinquir, a justificar o decreto preventivo para acautelar a ordem pública.
+Confira-se: "A prisão preventiva está devidamente fundamentada quando baseada em elementos concretos extraídos dos autos que evidenciem risco à ordem pública e periculosidade do agente" (AgRg no HC n. 993.002/RS, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 3/9/2025, DJEN de 9/9/2025.).
+Em relação à contemporaneidade, deve ser analisada à luz dos motivos que a ensejaram e não da cronologia dos fatos.
+Logo, é irrelevante o lapso temporal decorrido desde a conduta supostamente criminosa, quando evidenciada a persistência dos requisitos do art. 312 do Código de Processo Penal.
+Acerca do tema: "A contemporaneidade não está restrita à época da prática do delito, e sim da verificação da necessidade no momento de sua decretação, ainda que o fato criminoso tenha ocorrido em um período passado" (AgRg no HC n. 993.375/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/8/2025, DJEN de 14/8/2025.).
+No ponto, de qualquer modo, o crime de organização criminosa é permanente e protrai seus efeitos no tempo, de forma que a consumação se estende enquanto não cessada a estabilidade e permanência.
+Confira-se: "A contemporaneidade da prisão preventiva pode ser mitigada em casos de crime permanente e atuação em organização criminosa, nos quais a prática delitiva se projeta no tempo" (AgRg no HC n. 968.222/AP, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 24/6/2025, DJEN de 30/6/2025.).
+No caso, embora a impetração faça menção a fatos de 2023, a decisão indica que a organização criminosa persistia por ocasião do decreto preventivo.
+No que se refere ao excesso de prazo e à ausência de prova de que integrava organização criminosa, o acórdão impugnado não enfrentou esses temas. Prosseguir nessa análise, portanto, encerraria indevida supressão instância.
+Confira-se: "Não se conhece de matéria que não foi previamente submetida à instância originária, por caracterizar supressão de instância" (EDcl no AgRg nos EDcl no HC n. 952.040/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 10/6/2025, DJEN de 17/6/2025.).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
+EMENTA
