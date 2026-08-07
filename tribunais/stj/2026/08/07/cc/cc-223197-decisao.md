@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo Juízo de Direito da 4ª Vara Cível de Itajaí-SC em face do Juízo Federal da 3ª Vara da Seção Judiciária de Itajaí-SC nos autos de pedido de alvará judicial formulado por Sérgio Antônio Triches visando ao levantamento de valores depositados em conta vinculada ao Fundo de Garantia por Tempo de Serviço - FGTS, indicando no polo passivo a Caixa Econômica Federal.
+Consta dos autos que a pretensão foi proposta perante a Justiça Federal, que se declarou incompetente e determinou a remessa dos autos para a Comarca na qual reside o requerente (fls. 13-14):
+A parte autora não comprovou minimamente o direito alegado, sem comprovante de protocolo formalizado junto à CEF ou ao Banco do Brasil. Apresentou apenas cópia da decisão proveniente da Justiça do Trabalho (evento 1, DECISÃO/5) registrando que o pleito deveria ser dirigido à Justiça Federal.
+Compulsando-se os autos é possível verificar que inexiste lide a ser solucionada. Trata-se, na verdade, de medida de jurisdição voluntária que se destina à obtenção de autorização judicial para o levantamento de valores supostamente depositados em conta PASEP de titularidade do autor.
+Com efeito, a Caixa não é parte integrante da relação processual, mas mera destinatária do alvará judicial, razão pela qual deve ser afastada a competência da Justiça Federal.
+No caso em tela, o alvará que autoriza o levantamento de PASEP, em sede de jurisdição voluntária, ainda que tenha a Caixa como destinatária, deve ser apreciado pela Justiça Estadual, eis que incide, por analogia, o teor da Súmula 161 do Superior Tribunal de Justiça, verbis: "É da competência da Justiça Estadual autorizar o levantamento dos valores relativos ao PIS/PASEP e FGTS, em decorrência do falecimento do titular da conta".
+Via de regra, os alvarás judiciais, que são processos de jurisdição voluntária, ainda que dirigidos às entidades mencionadas no art. 109, inciso I, da CF/88, quando não houver litigiosidade, devem ser processados e decididos pela Justiça Comum dos Estados. Somente se houver oposição de ente federal haverá deslocamento de competência à Justiça Especializada (STJ, 1ª Seção, CC 45.851/RJ, DJU de 01.08.2005, relator o Ministro Castro Meira).
+Nesse sentido é a jurisprudência pacificada no âmbito do Superior Tribunal de Justiça e do TRF da 4ª Região:
+ ..
+Denota-se pela própria natureza do feito que a competência para o seu processamento é da Justiça Estadual, não se aplicando ao caso o disposto no artigo 109, inciso I, da Constituição Federal.
+Dessa forma, reconheço a incompetência da Justiça Federal para processamento e julgamento deste feito, e determino a remessa do feito para a Comarca na qual reside o requerente.
+O Juízo de Direito da 4ª Vara Cível da Comarca de Itajaí-SC suscitou este conflito, argumentando que (fl. 49):
+Cuida-se de pedido de expedição de alvará judicial formulado por SERGIO ANTONIO TRICHES, visando ao levantamento de valores vinculados ao FGTS, conforme demonstrado pela documentação juntada à inicial (evento 1, DOC5).
+O feito foi anteriormente submetido à Justiça Federal, a qual declinou da competência ao entendimento de que se trataria de procedimento de jurisdição voluntária, sem litigiosidade, a justificar a remessa à Justiça Estadual, com base, por analogia, na Súmula 161 do Superior Tribunal de Justiça.
+Todavia, a decisão proferida pelo juízo federal revela-se equivocada sob dois aspectos fundamentais.
+Primeiro, porque partiu de premissa fática incorreta, ao enquadrar a pretensão como levantamento de valores de PIS/PASEP, quando, na realidade, o pedido refere-se à liberação de valores de FGTS, conforme expressamente demonstrado no documento acostado à inicial (evento 1, DOC5). Referido documento evidencia tratar-se de consulta de contas do FGTS ("Visão Unificada - SFG"), com indicação de saldo existente.
+Segundo, porque promoveu indevida aplicação da Súmula 161 do STJ a hipótese que não se amolda ao seu enunciado. A orientação sumulada limita-se aos casos de levantamento de valores de FGTS e PIS/PASEP em razão do falecimento do titular da conta, circunstância absolutamente ausente no caso concreto.
+A presente demanda não decorre de falecimento, tampouco se enquadra nas hipóteses da Lei n. 6.858/80, consistindo em pretensão autônoma de levantamento de valores perante instituição financeira federal, o que evidencia o interesse jurídico de ente federal e atrai a competência da Justiça Federal, nos termos do art. 109, inciso I, da Constituição Federal.
+A propósito, a jurisprudência é firme no sentido de afastar a incidência da Súmula 161 do STJ em situações como a ora examinada:
+ ..
+Assim, ao afastar a competência da Justiça Federal com base em premissas fáticas e jurídicas inadequadas  notadamente a equivocada caracterização da natureza dos valores e a indevida aplicação da Súmula 161 do STJ  , monstra-se necessária a instauração de conflito negativo de competência, pois este juízo estadual igualmente não reconhece sua competência para o processamento e julgamento da demanda.
+Ante o exposto, com fundamento no art. 66 do Código de Processo Civil e art. 105, inciso I, alínea "d", da Constituição Federal, SUSCITO CONFLITO NEGATIVO DE COMPETÊNCIA perante o Superior Tribunal de Justiça.
+Manifestou-se o Ministério Público Federal pela competência do Juízo Estadual, resumido o parecer nos seguintes termos:
+CONFLITO DE COMPETÊNCIA. PEDIDO DE ALVARÁ JUDICIAL. LEVANTAMENTO DE VALORES ORIUNDOS DO PIS/PASEP E DO FGTS. AUSÊNCIA DE RESISTÊNCIA DA CEF. JURISDIÇÃO VOLUNTÁRIA. COMPETÊNCIA DA JUSTIÇA ESTADUAL. PRECEDENTES. ODS 16.
+1. A orientação desta Corte é no sentido de que, via de regra, os alvarás judiciais, por serem procedimentos de jurisdição voluntária, devem ser processados e decididos pela Justiça comum dos Estados quando ausente litigiosidade, ainda que dirigidos a entes referidos no art. 109-I da Constituição Federal, deslocando-se a competência para a Justiça Federal apenas quando houver oposição do ente federal, com a consequente formação de lide. Precedentes.
+2. Esta compreensão decorre da premissa de que a competência ratione materiae, nessa classe de feitos, não se define pela simples presença nominal de empresa pública federal, mas pela efetiva existência de relação jurídica litigiosa qualificada por pretensão resistida, apta a atrair o interesse jurídico federal em sentido próprio, conclusão que se alinha ao compromisso diplomático do Brasil em relação ao ODS 16 da Agenda 2030 da ONU, que, busca desenvolver instituições eficazes, conforme, a Meta 16.6 do referido objetivo.
+- Parecer pela declaração de competência do Juízo de Direito da 4ª Vara Cível de Itajaí/SC, o suscitante.
+É o relatório.
+Considerando que os pedidos de alvará judicial para levantamento de saldo de FGTS, em regra, não envolvem conflito entre as partes, buscando uma providência judicial de natureza administrativa, a competência para julgamento é da Justiça Estadual.
+Caso reste configurada a litigiosidade, sustentada por qualquer ente que conste no art. 109, I, da Constituição Federal, a competência será deslocada para a Justiça Federal.
+A propósito, confiram-se os precedentes:
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. PEDIDO DE ALVARÁ JUDICIAL. LEVANTAMENTO DE VERBAS DO FGTS. RESISTÊNCIA DA CEF. JURISDIÇÃO CONTENCIOSA. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. A jurisprudência da Primeira Seção do STJ firmou-se no sentido de que, sendo, em regra, de jurisdição voluntária a natureza dos feitos que visam à obtenção de alvarás judiciais para levantamento de importâncias relativas a FGTS, PIS/PASEP, seguro-desemprego e benefícios previdenciários, a competência para julgá-los é da Justiça Estadual.
+2. Por outro lado, havendo resistência da CEF, competente para processar e julgar a causa é a Justiça Federal, tendo em vista o disposto no art. 109, I, da CF/1988.
+3. In casu, verifico que houve obstáculo por parte da Caixa Econômica Federal quanto ao levantamento do FGTS requerido pelo autor, o que evidencia a competência da Justiça Federal para o julgamento da demanda, nos termos do art. 109, I, da Constituição da República.
+4. Constatada a competência de um terceiro Juízo, estranho aos autos, admite-se-lhe a remessa do feito.
+5. Conflito conhecido para declarar competente a Justiça Federal de Santos/SP, apesar de não integrar o presente conflito.
+(CC n. 105.206/SP, relator Ministro Herman Benjamin, Primeira Seção, julgado em 26/8/2009, DJe de 28/8/2009.)
+PROCESSUAL CIVIL. CONFLITO (NEGATIVO) DE COMPETÊNCIA. FGTS. ALVARÁ JUDICIAL. PROCEDIMENTO DE JURISDIÇÃO VOLUNTÁRIA. INEXISTÊNCIA DE CONFLITO DE INTERESSES. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+1. A orientação da Primeira Seção desta Corte firmou-se no sentido de que, não havendo conflito de interesses, compete à Justiça Estadual autorizar o levantamento dos valores relativos ao FGTS e PIS/PASEP nos procedimentos de jurisdição voluntária. Aplica-se, analogicamente, o disposto na Súmula 161/STJ: "É da competência da Justiça Estadual autorizar o levantamento dos valores relativos ao PIS/PASEP e FGTS, em decorrência do falecimento do titular da conta."
+2. Conflito conhecido para declarar a competência do Juízo de Direito da 1ª Vara de Andradina, o suscitado.
+(CC n. 92.053/SP, relatora Ministra Denise Arruda, Primeira Seção, julgado em 25/6/2008, DJe de 4/8/2008.)
+No caso, o Juízo Federal afirmou expressamente a inexistência de lide ou de resistência da instituição financeira, classificando o pedido como de jurisdição voluntária.
+Desse modo, tratando-se de procedimento de jurisdição voluntária, cabe ao Juízo Estadual examinar a pretensão.
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito da 4ª Vara Cível de Itajaí-SC , o suscitante.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. ALVARÁ JUDICIAL PARA LEVANTAMENTO DE VERBAS REMANESCENTES DO FGTS. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
