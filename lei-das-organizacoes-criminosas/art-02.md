@@ -4,7 +4,7 @@ Pena - reclusão, de 3 (três) a 8 (oito) anos, e multa, sem prejuízo das penas
 § 2º As penas aumentam-se até a metade se na atuação da organização criminosa houver emprego de arma de fogo.
 § 3º A pena é agravada para quem exerce o comando, individual ou coletivo, da organização criminosa, ainda que não pratique pessoalmente atos de execução.
 § 4º A pena é aumentada de 1/6 (um sexto) a 2/3 (dois terços):
-I - se há participação de criança ou adolescente;
+I - se há participação de criança ou adolescente ou se a organização criminosa é destinada ao cometimento dos crimes previstos na Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente);
 II - se há concurso de funcionário público, valendo-se a organização criminosa dessa condição para a prática de infração penal;
 III - se o produto ou proveito da infração penal destinar-se, no todo ou em parte, ao exterior;
 IV - se a organização criminosa mantém conexão com outras organizações criminosas independentes;
