@@ -1,0 +1,53 @@
+DECISÃO:
+Vistos.
+Estado de Minas Gerais interpõe agravo contra a decisão que não admitiu recurso extraordinário manejado em face de acórdão proferido pela Turma Recursal do Grupo Jurisdicional de Lavras do Tribunal de Justiça de Minas Gerais, assim ementado:
+
+“	AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. PRODUÇÃO DE PROVA PERICIAL. ADIANTAMENTO DE HONORÁRIOS PERICIAIS REQUERIDOS PELO MINISTÉRIO PÚBLICO. ÔNUS FINANCEIRO E RESPONSABILIDADE PELO CUSTEIO. IMPOSIÇÃO À FAZENDA PÚBLICA À QUAL O PARQUET ESTÁ VINCULADO. APLICAÇÃO DA LEI ESPECIAL E DE PRECEDENTE VINCULANTE. TEMA REPETITIVO 510 DO SUPERIOR TRIBUNAL DE JUSTIÇA. PEDIDO SUBSIDIÁRIO DE REDUÇÃO DO VALOR DOS HONORÁRIOS. MATÉRIA NÃO ANALISADA NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. RECURSO CONHECIDO E DESPROVIDO.
+ I . Caso em exame
+Trata-se de Agravo de Instrumento interposto pelo Estado contra decisão interlocutória proferida em sede de Ação Civil Pública, a qual, ao deferir a produção de prova pericial requerida pelo Ministério Público, atribuiu ao ente estatal o ônus de adiantar os respectivos honorários periciais. O Agravante pleiteia a reforma da decisão para que a responsabilidade pelo adiantamento seja imputada ao próprio órgão ministerial ou, subsidiariamente, que o valor dos honorários seja reduzido.
+II. Questão em discussão
+a) Definir a quem incumbe a responsabilidade pelo adiantamento dos honorários periciais em ações civis públicas, quando a prova técnica é requerida pelo Ministério Público, examinando-se a prevalência da norma especial da Lei nº 7.347/1985 sobre a regra geral do Código de Processo Civil; b) Analisar a viabilidade de apreciação, em segunda instância, de pedido subsidiário de redução do valor dos honorários periciais, quando a questão referente ao quantum debeatur ainda não foi objeto de deliberação pelo juízo de origem.
+III. Razões de decidir
+O custeio da prova pericial em Ação Civil Pública é regido por norma específica, qual seja, o artigo 18 da Lei nº 7.347/1985, que estabelece a isenção do autor da ação quanto ao adiantamento de custas, emolumentos, honorários periciais e quaisquer outras despesas. Por se tratar de lex specialis, sua aplicação prevalece sobre as disposições gerais contidas no Código de Processo Civil, notadamente o artigo 91. No julgamento do Recurso Especial nº 1.253.844/SC, sob o rito dos recursos repetitivos (Tema 510), o Superior Tribunal de Justiça firmou o entendimento de que a responsabilidade pelo adiantamento dos honorários periciais é da Fazenda Pública à qual o Ministério Público se encontra vinculado, aplicando-se, por analogia, o disposto na Súmula nº 232 do mesmo Tribunal Superior.
+A autonomia orçamentária do Ministério Público não constitui óbice à aplicação do referido precedente vinculante, uma vez que a tese jurídica não se fundamenta na capacidade financeira do órgão, mas sim na interpretação sistemática da legislação processual, com o objetivo de garantir a efetividade da tutela coletiva e o acesso à justiça. No que tange ao pedido subsidiário de redução do valor dos honorários, sua análise nesta instância recursal configuraria indevida supressão de instância.
+IV. Dispositivo e tese
+Recurso conhecido e não provido. Pedido subsidiário não conhecido.
+Tese de julgamento:
+'1. Em Ação Civil Pública, o ônus de adiantar os honorários de prova pericial requerida pelo Ministério Público recai sobre a Fazenda Pública à qual o Parquet se encontra vinculado, em conformidade com a tese firmada pelo Superior Tribunal de Justiça no julgamento do Tema Repetitivo 510. 2.
+A norma do artigo 18 da Lei nº 7.347/1985, por sua especialidade, prevalece sobre a regra geral disposta no artigo 91 do Código de Processo Civil. 3. Configura supressão de instância a análise, em sede de agravo de instrumento, de pedido de redução do valor dos honorários periciais sobre o qual o juízo de origem ainda não se manifestou.'” (e-doc. 6)
+
+Sustenta a recorrente violação dos artigos 2º; 5º, incisos LIV e LV; 127, caput e § 1º; 165, § 5º, I; e 168, da Constituição Federal, bem como necessidade de suspender o feito em razão do Tema nº 1.382 da repercussão geral.
+Alega que, “o que se discute no presente apelo é a decisão que determinou o pagamento pelo Estado de Minas Gerais de honorários periciais em ação civil pública ajuizada pelo Ministério Público, na qual o ente estatal não figura como parte, de modo que cristalinamente perceptível a existência de repercussão geral, esta entendida como a relevância do ponto de vista econômico, político, social ou jurídico, que ultrapassem os interesses subjetivos da causa”.
+Argumenta que o “[a]s perícias requeridas pelo Ministério Público – MP em ACPs demandam expressivo valor do erário, a gerar, pelo efeito multiplicador, graves consequências ao planejamento financeiro- orçamentário do Estado”.
+Inadmitido o apelo extremo (e-doc. 11), o recorrente interpôs o competente agravo (e-doc. 13) dirigido a esta Suprema Corte.
+Decido.
+O Tribunal de origem manteve a decisão interlocutória agravada pelo recorrente, proferida em Ação Civil Pública deflagrada pelo Ministério Público mineiro, assentando que incumbe ao Estado de Minas Gerais adiantar os honorários periciais decorrentes de prova perquirida pelo membro ministerial, sob os seguintes argumentos:
+
+"A controvérsia central do presente recurso reside em definir a quem incumbe o ônus de adiantar os honorários periciais nas ações civis públicas, quando a prova é requerida pelo Ministério Público.
+O agravante sustenta que a responsabilidade é do próprio órgão ministerial, em virtude de sua autonomia orçamentária e das novas disposições do Código de Processo Civil, enquanto a decisão agravada, em linha com o parecer ministerial, imputou tal encargo ao Estado de Minas Gerais, com base em consolidada jurisprudência do STJ.
+A matéria, embora de relevante complexidade jurídica, encontra-se pacificada no âmbito do STJ, por meio de julgamento submetido ao rito dos recursos repetitivos.
+O ponto de partida para a análise da questão é o artigo 18 da Lei nº 7.347/1985, que disciplina a Ação Civil Pública, pelo qual foi previsto que:
+'Nas ações de que trata esta lei, não haverá adiantamento de custas, emolumentos, honorários periciais e quaisquer outras despesas, nem condenação da associação autora, salvo comprovada má fé, em honorários de advogado, custas e despesas processuais.'
+ Trata-se de uma norma especial, cuja finalidade é desonerar o autor da ação civil pública dos encargos financeiros do processo, a fim de garantir o mais amplo acesso à justiça para a tutela de interesses difusos, coletivos e individuais homogêneos.
+Diante dessa isenção legal, surgiu a questão sobre quem deveria arcar com os custos da perícia, pois o perito, profissional liberal, não pode ser compelido a prestar seus serviços gratuitamente.
+No intuito de equalizar a isenção do autor, o direito do perito à remuneração e a impossibilidade de onerar o réu com o financiamento de uma prova que pode vir a ser utilizada contra si, o Superior Tribunal de Justiça, no julgamento do Recurso Especial nº 1.253.844/SC (Tema Repetitivo 510), firmou a seguinte tese:
+'ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. ADIANTAMENTO DE HONORÁRIOS PERICIAIS. NÃO CABIMENTO. INCIDÊNCIA PLENA DO ART. 18 DA LEI N. 7.347/85. ENCARGO TRANSFERIDO À FAZENDA PÚBLICA. APLICAÇÃO DA SÚMULA 232/STJ, POR ANALOGIA. (...) 3. Não é possível se exigir do Ministério Público o adiantamento de honorários periciais em ações civis públicas. Ocorre que a referida isenção conferida ao Ministério Público em relação ao adiantamento dos honorários periciais não pode obrigar que o perito exerça seu ofício gratuitamente, tampouco transferir ao réu o encargo de financiar ações contra ele movidas. Dessa forma, considera se aplicável, por analogia, a Súmula n. 232 desta Corte Superior ("A Fazenda Pública, quando parte no processo, fica sujeita à exigência do depósito prévio dos honorários do perito"), a determinar que a Fazenda Pública ao qual se acha vinculado o Parquet arque com tais despesas. (...) 4. Recurso especial parcialmente provido. Acórdão submetido ao regime do art. 543 C do CPC e da Resolução STJ n. 8/08.' (STJ, REsp n. 1.253.844/SC, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 13/3/2013, DJe de 17/10/2013).
+[...]
+O agravante, ciente de tal precedente vinculante, argumenta que ele teria sido superado pela entrada em vigor do Código de Processo Civil de 2015, notadamente pelo seu artigo 91. Sem razão, contudo.
+[...]
+A autonomia orçamentária do Ministério Público, embora constitucionalmente assegurada, não constitui fundamento para afastar a aplicação da referida tese, haja vista que a solução jurídica construída pelo STJ não versa sobre a capacidade financeira do Parquet, mas sim sobre a interpretação sistemática das normas processuais aplicáveis, visando a garantir a efetividade do processo coletivo e o direito à prova, sem criar óbices ao exercício das funções institucionais do Ministério Público.
+[...]
+Ante o exposto, CONHEÇO do recurso e NEGO-LHE PROVIMENTO, para manter a decisão agravada pelos seus próprios e jurídicos fundamentos, acrescidos dos aqui mencionados." (e-doc. 6) (grifos acrescidos)
+
+Pois bem. O Plenário deste Supremo Tribunal Federal, no exame do ARE nº 1.524.619/SP, feito paradigma do Tema nº 1.382 da sistemática da repercussão geral, Relator o Ministro Alexandre de Moraes, fixou a seguinte tese:
+
+“1. O Ministério Público é instituição permanente, essencial à função jurisdicional do Estado, incumbindo-lhe a defesa da ordem jurídica, do regime democrático e dos interesses sociais e individuais indisponíveis, não sendo possível sua condenação ao pagamento de despesas processuais e honorários de sucumbência, sob pena de ferimento à sua independência e autonomia.
+2. Quando houver necessidade de arcar com encargos financeiros relacionados à produção de prova pericial requerida pelo Ministério Público, o custeio deverá ser suportado pelo órgão ministerial, mediante suas dotações orçamentárias próprias (art. 127, § 3º, CF), observado o regime do art. 91 do Código de Processo Civil, inclusive quanto à possibilidade de adiantamento havendo previsão orçamentária ou de pagamento diferido nos termos legais.” (DJe de 1/7/2026 - grifei)
+
+Ante o exposto, nos termos do artigo 328 do Regimento Interno do Supremo Tribunal Federal, determino a devolução dos autos ao Tribunal de origem para que, após o trânsito em julgado do mencionado ARE nº 1.524.619/SP, aplique a sistemática da repercussão geral ao caso em tela.
+Publique-se.
+Brasília, 7 de agosto de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
