@@ -29,5 +29,5 @@ III - o crime de comércio ilegal de armas de fogo, previsto no art. 17 da Lei n
 IV - o crime de tráfico internacional de arma de fogo, acessório ou munição, previsto no art. 18 da Lei nº 10.826, de 22 de dezembro de 2003;
 V - o crime de organização criminosa, quando direcionado à prática de crime hediondo ou equiparado.
 VI - os crimes previstos no Decreto-Lei nº 1.001, de 21 de outubro de 1969 (Código Penal Militar), que apresentem identidade com os crimes previstos no art. 1º desta Lei.
-VII - os crimes previstos no § 1º do art. 240 e no art. 241-B da Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente).
+VII - os crimes previstos no caput e nos §§ 1º e 2º do art. 240, no caput e no parágrafo único do art. 241, no caput e nos §§ 1º e 3º do art. 241-A, no caput do art. 241-B, no caput e nos §§ 1º e 2º do art. 241-D e no caput e no § 1º do art. 244-A da Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente);
 VIII - os crimes de domínio social estruturado e de favorecimento ao domínio social estruturado, previstos no caput e nos §§ 1º e 3º do art. 2º e no art. 3º da lei que institui o marco legal do combate ao crime organizado no Brasil.
