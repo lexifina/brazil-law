@@ -10,3 +10,4 @@ VIII - ações de assistência social;
 IX - obras de infraestrutura, ainda que realizadas para beneficiar direta ou indiretamente a rede de saúde; e
 X - ações e serviços públicos de saúde custeados com recursos distintos dos especificados na base de cálculo definida nesta Lei Complementar ou vinculados a fundos específicos distintos daqueles da saúde.
 XI - remuneração de pessoal ativo e inativo dos hospitais universitários federais ou de entidade pública responsável por sua administração.
+XII - remuneração de pessoal ativo e inativo dos corpos de bombeiros militares dos Estados e do Distrito Federal, além das decorrentes de custeio e de investimento nessas instituições que não se enquadrem nas condições previstas no inciso XIV do caput do art. 3° desta Lei Complementar.
