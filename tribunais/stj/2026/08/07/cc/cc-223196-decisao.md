@@ -1,0 +1,15 @@
+DECISÃO
+BRUNA BORTOLUZZI TERRA e outros suscitam conflito de competência, em razão de decisões proferidas pelo Juízo da 1ª Vara Criminal da Comarca de Carazinho - RS e pelo Juízo Federal da 3ª Vara Federal de Passo Fundo - SJ/RS, ambas relacionadas a pedido de restituição de medicamentos apreendidos.
+O conflito, contudo, não merece ser conhecido.
+Nos termos da jurisprudência consolidada desta Corte, o conflito de competência pressupõe que dois ou mais juízos, de forma expressa ou implícita, disputem ou recusem a competência para apreciar a mesma causa.
+No caso, o Juízo estadual efetivamente declinou da competência em favor da Justiça Federal, por entender presente interesse da União em razão da alegada importação direta de medicamento estrangeiro sem registro sanitário, determinando a remessa dos autos ao juízo federal.
+Diversamente do que sustentam os suscitantes, contudo, observa-se que a decisão posteriormente proferida pelo Juízo Federal não recusou a competência em favor da Justiça Estadual nem declarou a própria incompetência para processar e julgar eventual investigação criminal.
+Na realidade, o magistrado federal consignou que, até aquele momento, não havia notícia da existência de procedimento investigatório ou de ação penal correlata à apreensão narrada pelos requerentes.
+Por esse motivo concluiu que o pleito então submetido dizia respeito, exclusivamente, à impugnação de procedimento administrativo, matéria que não se inseriria na competência do juízo criminal. Logo, deixou de apreciar o pedido de restituição e consignou que o requerimento deveria ser dirigido ao juízo competente, caso persistisse o interesse.
+Percebe-se, portanto, que a decisão do Juízo Federal não representa pronunciamento de incompetência em relação ao feito remetido pelo Juízo Estadual. O fundamento adotado foi diverso: a inexistência de procedimento investigatório ou ação penal aptos a justificar a instauração de incidente de restituição perante a jurisdição criminal, entendendo o magistrado que a controvérsia permanecia circunscrita ao âmbito administrativo.
+Em outras palavras, não houve manifestação antagônica acerca da definição do juízo competente para processar e julgar uma mesma causa criminal. O que se verificou foi a constatação, pelo Juízo Federal, de ausência do pressuposto fático-processual que autorizaria o processamento do pedido de restituição perante a jurisdição penal, por inexistir investigação ou persecução penal correlata.
+Não se caracteriza, assim, a situação prevista para o processamento do conflito de competência, pois inexiste pronunciamento conflitante sobre a competência jurisdicional entre os juízos envolvidos.
+Eventual desacerto da decisão proferida pelo Juízo Federal, ao entender inexistente procedimento investigatório ou reputar administrativa a discussão, constitui matéria a ser impugnada pelos meios recursais ou processuais adequados, não sendo o conflito de competência sucedâneo recursal.
+Ante o exposto, não conheço do presente conflito de competência.
+Publique-se e intimem-se. Dê-se ciência aos juízos suscitados.
+EMENTA
