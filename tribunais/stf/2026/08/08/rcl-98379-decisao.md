@@ -1,0 +1,22 @@
+DECISÃO: Trata-se de reclamação constitucional com pedido de medida liminar, proposta por Eder Corneou dos Santos, em face de decisão proferida pelo Vice-Presidente do Tribunal Superior do Trabalho, nos autos do Processo nº 20824- 11.2014.5.04.0015, que determinou o sobrestamento do recurso extraordinário, com fundamento no Tema 1389 da repercussão geral.
+Em suas razões, a parte reclamante sustenta que a controvérsia discutida nos autos está circunscrita à aplicação da Lei nº 11.442/2007, cuja constitucionalidade foi reconhecida por esta Corte no julgamento da ADC 48. Argumenta, nesse contexto, que o sobrestamento do feito com fundamento no Tema 1.389 da repercussão geral revela-se indevido, porquanto a hipótese em exame diz respeito à contratação de transportador autônomo de cargas, e não a controvérsia relativa à denominada “pejotização” das relações de trabalho.
+Alega, ainda, que não busca submeter a esta Corte o exame da incidência da Lei nº 11.442/2007, dos fundamentos firmados na ADC 48 ou de qualquer questão relacionada ao mérito da reclamação trabalhista. Sustenta que sua pretensão se limita a obter pronunciamento do Supremo Tribunal Federal acerca do alcance objetivo da decisão que determinou a suspensão nacional dos processos vinculados ao Tema 1.389 da repercussão geral, matéria inserida na esfera de competência desta Suprema Corte.
+Por fim, requer a concessão de liminar para restabelecer o trâmite processual na origem e, no mérito, que seja julgada procedente a reclamação para cassar o ato reclamado e reconhecer a inaplicabilidade do Tema 1.389 da Repercussão Geral ao caso concreto.
+É o relatório.
+Decido.
+Conforme disposto na Constituição Federal, compete ao STF processar e julgar originariamente reclamação para a preservação de sua competência e garantia da autoridade de suas decisões (art. 102, I, “l”, da CF/88).
+No caso, alega-se aplicação equivocada de suspensão nacional proferida nos autos do Tema 1389 da repercussão geral.
+No ponto, registro que o Supremo Tribunal Federal, no julgamento do ARE-RG 1.532.603, de minha relatoria (Tema 1.389), reconheceu a repercussão geral das seguintes questões: 1) competência da Justiça do Trabalho para julgar as causas em que se discute a fraude no contrato civil de prestação de serviços; 2) licitude da contratação de trabalhador autônomo ou pessoa jurídica para a prestação de serviços, à luz do entendimento firmado pelo STF no julgamento da ADPF 324, que reconheceu a validade constitucional de diferentes formas de divisão do trabalho e a liberdade de organização produtiva dos cidadãos; e 3) ônus da prova relacionado à alegação de fraude na contratação civil, averiguando se essa responsabilidade recai sobre o autor da reclamação trabalhista ou sobre a empresa contratante.
+Na sequência, determinei a suspensão nacional da tramitação de todos os processos que tratem das questões mencionadas no Tema 1.389 da repercussão geral, até julgamento definitivo do recurso extraordinário, com a finalidade de impedir a multiplicação de decisões divergentes sobre a matéria, privilegiando o princípio da segurança jurídica.
+Cumpre registrar que a incidência da determinação de sobrestamento pressupõe a efetiva correspondência entre a controvérsia discutida no processo suspenso e as questões jurídicas submetidas ao exame desta Corte no paradigma de repercussão geral.
+No caso concreto, contudo, verifica-se que a demanda trabalhista foi ajuizada por motorista autônomo de cargas e tem por objeto o reconhecimento de vínculo empregatício mediante o afastamento do regime jurídico previsto na Lei nº 11.442/2007, matéria diretamente relacionada à controvérsia examinada por este Supremo Tribunal Federal no julgamento da ADC 48.
+Assim, observa-se que a controvérsia deduzida na ação de origem não se confunde com o objeto delimitado no Tema 1.389 da repercussão geral, inexistindo correspondência entre as questões jurídicas discutidas em cada hipótese.
+Nessas condições, ausente a necessária aderência temática entre o caso concreto e o paradigma de repercussão geral invocado pela autoridade reclamada, revela-se indevido o sobrestamento do feito com fundamento no Tema 1.389.
+Ante o exposto, julgo procedente a reclamação para cassar a decisão reclamada e determinar o regular prosseguimento do processo.
+
+Publique-se.
+Brasília, 8 de agosto de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
