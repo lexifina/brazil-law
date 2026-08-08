@@ -1,0 +1,49 @@
+Decisão
+
+Trata-se de Recurso Ordinário interposto contra acórdão da Quinta Turma do Superior Tribunal de Justiça, proferido no julgamento do Agravo Regimental no HC 1.063.616/ES, submetido à relatoria da Ministra MARIA MARLUCE CALDAS.
+Consta dos autos, em síntese, que o recorrente teve a prisão preventiva decretada e foi denunciado em razão da prática dos crimes de homicídio qualificado (art. 121, § 2º, I e IV, do Código Penal) e de associação criminosa (art. 288, parágrafo único, do CP).
+De acordo com a denúncia:
+
+[...] no dia 18 de março de 2020, por volta de 00h20min, na Rua Floresta, bairro Morada de Santa Fé, Cariacica/ES, os denunciados Eloisio, Luiz Davi e Tulio, agindo de forma livre, consciente e com vontade de matar, em comunhão de ações e desígnios previamente ajustados entre si e com Luciano Santos Dias (já falecido), utilizando-se de arma de fogo, efetuaram disparos contra a vítima JEFFERSON DO NASCIMENTO AMANCIO, provocando-lhe as lesões descritas no Laudo de Exame Cadavérico de fl. 123, sendo a causa suficiente de sua morte.
+Revelam os autos que, no momento do crime, a vítima estava em sua residência dormindo juntamente com sua família, quando foi surpreendida com os disparos de arma de fogo, já que os denunciados invadiram a sua casa. (fls. 24/26, 72/74 e 97/100).
+Na sequência, após efetuarem os disparos contra a vítima, os denunciados fugiram pulando pela janela da referida residência. (fls. 24/26, 72/74 e 97/100).
+[...]
+O crime foi praticado por motivo torpe, relacionado a desavenças decorrentes do tráfico de drogas, sendo que a vítima se desentendeu com os traficantes do grupo dos denunciados, questionando a comercialização de drogas que ocorria em frente à sua casa. (fls. 24/26, 72/74, 97/100 e 84/88-verso).
+[...]
+Além disso, denúncias anônimas colacionadas nos autos confirmam a autoria do crime, bem como a existência de associação criminosa entre os denunciados para a prática de crimes, notadamente tráfico de drogas, sendo a conduta precedente de mercancia, compra de armas de fogo e gerência de tarefas a eles atribuídas, concorrente para o evento e resultado do delito em comento.
+
+Buscando a revogação da custódia, a defesa impetrou Habeas Corpus no Tribunal de Justiça do Estado do Espírito Santo, que denegou a ordem.
+Na sequência, nova impetração, dessa vez direcionada ao Superior Tribunal de Justiça, não conhecida pela Ministra relatora, em decisão confirmada pelo colegiado no julgamento do subsequente Agravo Regimental, conforme ementa:
+
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PENAL E PROCESSO PENAL. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO E ASSOCIAÇÃO CRIMINOSA. FUNDAMENTAÇÃO CONCRETA. MODUS OPERANDI DE ELEVADA VIOLÊNCIA. INVASÃO DE DOMICÍLIO E EXECUÇÃO DA VÍTIMA EM AMBIENTE FAMILIAR. CONTEXTO DE ORGANIZAÇÃO CRIMINOSA LIGADA AO TRÁFICO DE DROGAS. PERICULOSIDADE ACENTUADA. GARANTIA DA ORDEM PÚBLICA. EXCESSO DE PRAZO. NÃO CONFIGURAÇÃO. PROCESSO COMPLEXO. PLURALIDADE DE RÉUS. DIFICULDADES NA FORMAÇÃO DA RELAÇÃO PROCESSUAL. TRAMITAÇÃO PROGRESSIVA. INSTRUÇÃO EM FASE AVANÇADA. AUSÊNCIA DE DESÍDIA ESTATAL. MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA. RISCO CONCRETO DE REITERAÇÃO DELITIVA. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. DECISÃO MANTIDA. AGRAVO DESPROVIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, ressalvada a hipótese de flagrante ilegalidade, inexistente no caso.
+2. A prisão preventiva encontra-se devidamente fundamentada em elementos concretos, notadamente o modus operandi do delito — invasão de domicílio e execução da vítima enquanto dormia com familiares —, bem como o contexto de atuação em organização criminosa, evidenciando elevada periculosidade e risco à ordem pública.
+3. O excesso de prazo deve ser aferido à luz das particularidades do caso concreto, não decorrendo automaticamente do decurso temporal, sobretudo em feitos complexos, com pluralidade de acusados e entraves na formação da relação processual.
+4. Demonstrada a tramitação progressiva do feito, com prática de atos processuais relevantes e instrução em estágio avançado, afasta-se, no momento, o reconhecimento de constrangimento ilegal.
+5. As medidas cautelares diversas da prisão revelam-se inadequadas e insuficientes diante da periculosidade concreta do agente e do risco de reiteração delitiva em contexto de criminalidade organizada.
+6. Agravo regimental desprovido.
+
+Neste Recurso Ordinário, alega-se, em síntese: “excesso de prazo no julgamento, pois o paciente se encontra acautelado desde o dia 12 de julho de 2020, isto é, há quase 06 (seis) anos, sem que tenha sido encerrado a primeira fase do julgamento”. Em razão disso, requer-se o provimento do recurso “para relaxar a prisão imposta ao recorrente, garantindo que aguarde o trânsito em julgado da ação em liberdade”.
+É o relatório. Decido.
+
+Habeas Corpus poderá ser utilizado como meio processual adequado para cessar constrangimento ilegal à liberdade de locomoção do acusado preso, decorrente de abusivo excesso de prazo para o encerramento da instrução criminal. Nesse exame, porém, é imprescindível investigar se a demora é resultado ou não da desídia ou inércia do Poder Judiciário.
+Daí a convergência de entendimento, na jurisprudência do SUPREMO TRIBUNAL FEDERAL, de que a razoável duração do processo deve ser aferida à luz das particularidades do caso concreto, levando-se em consideração, por exemplo, o número de réus, a quantidade de testemunhas a serem inquiridas, a necessidade de expedição de cartas precatórias, a natureza e a complexidade dos delitos imputados, assim como a atuação das partes (cf.: HC 138736 AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 6/9/2017; HC 138.987-AgR, Rel. Min. GILMAR MENDES, Segunda Turma, Dje de 7/3/2017; RHC 124.796-AgR, Rel. Min. LUIZ FUX, Primeira Turma, Dje de 24/8/2016; HC 135.324, Rel. Min. TEORI ZAVASCKI, Segunda Turma, Dje de 6/12/2016; HC 125.144-AgR, Rel. Min. ROSA WEBER, Primeira Turma, Dje de 28/6/2016).
+No caso em questão, o Superior Tribunal de Justiça apresentou as seguintes razões para indeferir o pedido de relaxamento da prisão:
+
+Quanto ao alegado excesso de prazo, embora o tempo de custódia seja expressivo, a sua aferição não pode ser realizada de forma meramente aritmética, devendo ser examinada à luz das circunstâncias específicas do caso concreto.
+No caso dos autos, verifica-se que se trata de ação penal complexa, envolvendo pluralidade de acusados, inclusive com dificuldades na formação da relação processual, tendo em vista que alguns corréus foram citados por edital, o que, por si só, impacta a regular marcha processual e justifica a dilação temporal.
+Conforme as informações prestadas pelo Juízo de origem, a persecução penal seguiu seu curso com a prática de diversos atos processuais relevantes, tais como: oferecimento da denúncia em outubro de 2020 e seu recebimento em abril de 2021; apresentação de respostas à acusação em momentos distintos pelos corréus; sucessivas decisões de revisão e manutenção da prisão preventiva; necessidade de diligências complementares; designação de audiência de instrução, a qual foi realizada apenas após a superação de entraves relacionados à citação e à regularização da defesa dos acusados; realização de atos instrutórios ao longo do tempo, culminando, mais recentemente, na abertura de prazo para alegações finais do Ministério Público, ainda pendentes.
+Esse encadeamento demonstra que, embora haja lapso temporal significativo, não se identifica paralisação injustificada ou inércia deliberada do aparato estatal, mas sim um processo que evolui dentro das dificuldades inerentes a feitos de maior complexidade, especialmente aqueles submetidos ao rito do Tribunal do Júri.
+Ademais, o feito já se encontra em fase avançada, com a instrução substancialmente concluída e pendente de atos finais, circunstância que, segundo a jurisprudência desta Corte, mitiga o reconhecimento de excesso de prazo, sobretudo quando ausente demonstração de desídia estatal relevante.
+Nesse contexto, não obstante a duração da custódia cautelar, não se evidencia, ao menos neste momento, constrangimento ilegal flagrante, apto a ensejar a concessão da ordem, devendo-se privilegiar a conclusão da marcha processual, sem prejuízo de recomendação de maior celeridade.
+
+As circunstâncias do caso não evidenciam flagrante ilegalidade ou omissão do Poder Judiciário apta a justificar o relaxamento da prisão. Como consignou o Superior Tribunal de Justiça, “se trata de ação penal complexa, envolvendo pluralidade de acusados, inclusive com dificuldades na formação da relação processual”. Assentou, ainda, que “o feito já se encontra em fase avançada, com a instrução substancialmente concluída e pendente de atos finais”.
+De igual modo, não se pode desconsiderar a periculosidade social do paciente. A prisão preventiva foi mantida em razão da “acentuada gravidade concreta, consistente na execução da vítima mediante invasão de domicílio, durante o período noturno, surpreendida enquanto dormia ao lado de sua companheira e filhos menores”. Ainda, “o delito teria sido praticado em contexto de disputa relacionada ao tráfico de drogas, havendo indícios de que os acusados integram grupo criminoso atuante na região, circunstância que reforça a periculosidade concreta do agente e o risco de reiteração delitiva”.
+Diante desse contexto, não se evidencia constrangimento ilegal apto a ensejar o relaxamento da custódia, sobretudo porque o Superior Tribunal de Justiça determinou ao Juízo de origem conferir maior celeridade à condução do processo.
+Diante do exposto, com fundamento no art. 21, §1º, do Regimento Interno do STF, NEGO PROVIMENTO ao Recurso ordinário.
+Publique-se.
+Brasília, 8 de agosto de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
