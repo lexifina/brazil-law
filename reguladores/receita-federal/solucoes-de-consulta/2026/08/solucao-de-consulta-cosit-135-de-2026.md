@@ -1,0 +1,10 @@
+Solução de Consulta Cosit nº 135, de 7 de agosto de 2026
+Assunto: Simples Nacional
+VEDAÇÃO. RECEITA BRUTA GLOBAL ACIMA DO LIMITE. MUDANÇA DE SÓCIOS.
+Caso a microempresa ou empresa de pequeno porte incorra em situação de vedação ao Simples Nacional prevista nos incisos IV ou V do art. 15 da Resolução CGSN nº 140, de 2018, e tenha sido realizada a comunicação obrigatória de exclusão, os efeitos da exclusão se iniciam a partir do 1º dia do mês subsequente ao da ocorrência. Tais efeitos perduram, em regra, até o término do ano-calendário subsequente, sendo possível, após essa data, solicitar nova opção pelo regime do Simples Nacional, desde que a pessoa jurídica não incorra em qualquer outra causa impeditiva prevista na legislação.
+Caso microempresas ou empresas de pequeno porte incorram em situação de vedação ao Simples Nacional prevista nos incisos IV ou V do art. 15 da Resolução CGSN nº 140, de 2018, e tenham promovido, após esse evento, mas dentro do ano-calendário, mudança na composição societária, desde que de forma legítima, de fato e de direito, os efeitos da exclusão do Simples Nacional permanecem inalterados no mês seguinte ao mês em que restar ocorrida situação de vedação prevista nos dispositivos citados até o fim do ano-calendário em que ocorreu a exclusão.
+No início do ano-calendário subsequente, todavia, deve-se proceder nova análise quanto à extrapolação da receita bruta global do ano-calendário anterior, mas considerando o novo conjunto de empresas com sócios em comum após as mudanças societárias, de modo a identificar se devem permanecer ou não impedidas de optar pelo Simples Nacional no ano seguinte ao da exclusão, considerando a redação dos dispositivos que tratam também de limite da receita bruta global no ano-calendário anterior.
+Dispositivos legais: Lei Complementar nº 123, de 2006, art. 3º, II, § 4º, III e IV, § 6º; Resolução CGSN nº 140, de 2018, arts. 15, I, IV, V, 81, II, "c", 84, I e I, § 2º.
+[arquivo anexo: SC Cosit nº 135-2026.pdf]
+RODRIGO AUGUSTO VERLY DE OLIVEIRA
+Coordenador-Geral
