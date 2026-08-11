@@ -1,0 +1,27 @@
+DECISÃO: Trata-se de reclamação constitucional, com pedido de medida liminar, ajuizada por Marciel Aparecido Miguel contra decisão proferida pelo Tribunal Superior do Trabalho, nos autos do Processo n. 0012734-52.2026.5.15.0010.
+Na petição inicial, o reclamante alega, em síntese, a inobservância da orientação firmada por esta Corte no julgamento do Tema 1022 da repercussão geral, um vez que o Tribunal de origem admitiu a “dispensa sem justa causa de servidor público concursado e estável sem a observância das garantias constitucionais previstas nos artigos 37 e 41 da Constituição Federal”.
+Afirma, ainda, a ocorrência de formalismo excessivo, o que violaria o devido processo legal e o princípio da inafastabilidade da jurisdição previstos nos incisos LIV e XXXV do art. 5º da Constituição Federal.
+Sustenta que a autoridade reclamada violou o Tema 743 da repercussão geral ao reconhecer a legitimidade da Câmara Municipal de Santa Gertrudes para figurar no polo passivo, bem como os arts. 37, caput, e 41 do texto constitucional.
+Requer, ao final, a concessão de liminar para suspender os efeitos da decisão reclamada, determinando-se a sua imediata reintegração ao cargo público. No mérito, requer a cassação do ato reclamado e a declaração da nulidade de sua dispensa.
+É o relatório.
+Decido.
+Conforme disposto na legislação processual civil, a reclamação fundada em alegada má aplicação de precedente firmado em regime de repercussão geral somente se revela cabível quando a decisão de inadmissão do recurso extraordinário tiver sido proferida com fundamento na sistemática prevista no art. 1.030, I, do CPC, observados os demais requisitos legais para o manejo da medida.
+Isso porque, nessa hipótese específica, não é cabível o agravo previsto no art. 1.042 do CPC, de modo que a reclamação constitui instrumento apto a viabilizar o controle, por esta Corte, da eventual aplicação equivocada do paradigma de repercussão geral. Nesses casos, o recurso cabível é o agravo interno previsto no art. 1.030, § 2º, do CPC, sendo o manejo da reclamação condicionado ao prévio esgotamento das instâncias ordinárias e à demonstração de manifesta desconformidade entre a decisão reclamada e o precedente invocado, apto a evidenciar a teratologia da decisão reclamada.
+Situação diversa ocorre quando a negativa de seguimento do recurso extraordinário se apoia em fundamento distinto da sistemática da repercussão geral. Nesses casos, a legislação processual prevê a interposição de agravo para esta Suprema Corte, permitindo que a controvérsia seja submetida ao seu exame pela via recursal própria.
+No caso dos autos, o recurso extraordinário interposto pelo reclamante teve seguimento negado com fundamento na Súmula 281 do STF, e não em razão da aplicação da repercussão geral. Tanto é assim que foi interposto agravo previsto no art. 1.042 do CPC, atualmente pendente de apreciação pela Secretaria de Processamento de Recursos Extraordinários do TST.
+Desse modo, a questão suscitada pelo reclamante ainda poderá ser submetida ao crivo desta Suprema Corte pela via processual adequada, circunstância que afasta o cabimento da reclamação.
+Admitir o processamento da presente ação constitucional, nessa situação, implicaria transformá-la em sucedâneo recursal, hipótese vedada pela jurisprudência desta Corte. Nesse sentido, confira-se o seguinte precedente:
+
+“DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL. RECLAMAÇÃO CONSTITUCIONAL. ATO RECLAMADO QUE JÁ FOI ANALISADO EM AGRAVO EM RECURSO EXTRAORDINÁRIO. REANÁLISE DA MATÉRIA. IMPOSSIBILIDADE. RECLAMAÇÃO UTILIZADA COMO SUCEDÂNEO RECURSAL. INVIABILIDADE. AGRAVO DESPROVIDO. I. Caso em exame 1. Agravo regimental interposto contra decisão que julgou improcedente a reclamação, a qual foi proposta por suposta aplicação equivocada pelo Tribunal reclamado do que decidido pelo Supremo Tribunal Federal no julgamento do RE 1.223.164/SP – Tema 1.089. II. Questão em discussão 2. A questão em discussão consiste em saber se cabe reclamação quando já houve julgamento de agravo em recurso extraordinário sobre a mesma causa. III. Razões de decidir 3. A reclamação é incabível, por acarretar o reexame de causa que já foi apreciada pelo Supremo Tribunal Federal em recurso extraordinário com agravo. 4. Compreensão diversa à adotada viabilizaria o manejo da reclamação como simples instrumento de burla ao prévio não atendimento de requisitos de admissibilidade recursal. 5. A parte agravante pretende fazer uso da reclamação como sucedâneo recursal, circunstância que não se revela cabível, tendo em vista sua finalidade constitucional. IV. Dispositivo e tese 6. Agravo regimental desprovido”. (Rcl 94927 AgR, Rel. Min. CRISTIANO ZANIN, Primeira Turma, DJe 02.07.2026; grifo nosso)
+
+Ademais, registre-se que esta Corte firmou orientação no sentido de que o cabimento da reclamação, por alegada violação à autoridade de suas decisões, pressupõe que o paradigma invocado seja dotado de eficácia vinculante ou tenha sido proferido em processo de natureza subjetiva do qual o reclamante tenha participado.
+Desse modo, não assiste razão ao reclamante quanto à alegada ofensa a dispositivos constitucionais, porquanto a mera invocação de normas da Constituição Federal não se enquadra em nenhuma das hipóteses de cabimento da reclamação constitucional.
+Dessa forma, inadmissível a presente reclamação.
+Ante o exposto, nego seguimento à reclamação (art. 21, § 1º, do RISTF). Prejudicado o pedido de liminar.
+
+Publique-se.
+Brasília, 11 de agosto de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
