@@ -1,0 +1,86 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. SALDO REMANESCENTE COMPLEMENTAR. PAGAMENTO POR REQUISIÇÃO DE PEQUENO VALOR: POSSIBILIDADE. VALORES DECORRENTES DE ERRO MATERIAL, INEXATIDÕES ARITMÉTICAS OU SUBSTITUIÇÃO DE ÍNDICES DE ATUALIZAÇÃO. PRECEDENTES. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. SÚMULA N. 286. APURAÇÃO DE VALORES DEVIDOS E FORMA DE PAGAMENTO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. INAPLICABILIDADE DO TEMA 28 DA REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO COM AGRAVO NÃO CONHECIDO.
+
+Relatório
+1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto, com base nas als. a e c do inc. III do art. 102 da Constituição da República, contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+“DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. REQUISIÇÃO DE PEQUENO VALOR. FRACIONAMENTO DE PRECATÓRIO. RECURSO NÃO PROVIDO.
+I. Caso em Exame
+1. Agravo de instrumento interposto em face de decisão que determinou a expedição de mandado de levantamento em favor do agravado, sob o fundamento de que a expedição de RPV para pagamento de insuficiência não configura fracionamento do precatório, pois o crédito não foi integralmente satisfeito por erro ou mora do próprio devedor.
+II. Questão em Discussão
+2. A questão em discussão consiste em verificar a possibilidade de expedição de RPV para pagamento de saldo remanescente de precatório, sem que isso configure fracionamento inconstitucional da dívida pública.
+III. Razões de Decidir
+3. A decisão agravada está em consonância com precedentes que autorizam a expedição de RPV para pagamento de valores remanescentes, após o pagamento dos valores incontroversos via precatório.
+IV. Dispositivo e Tese
+5. Recurso não provido. Tese de julgamento: A jurisprudência desta C. Primeira Câmara de Direito Público admite a satisfação do saldo remanescente por meio de RPV.
+Legislação Citada:
+CF/1988, art. 100, §§ 3º e 8º.
+Jurisprudência Citada:
+Agravo de Instrumento nº 3013244-71.2025.8.26.0000 (j. 22.10.2025), de relatoria do E. Des. Luís Francisco Aguilar Cortez. Agravo de Instrumento nº 2300065-14.2025.8.26.0000 (j. 10.11.2025), de relatoria do E. Des. Jayme de Oliveira. Agravo de Instrumento nº 2094900-38.2023.8.26.0000 (j. 28.05.2023), de relatoria do E. Des. Eduardo Prataviera” (fl. 2, e-doc. 5).
+Não foram opostos embargos de declaração.
+
+2. No recurso extraordinário, o agravante alegou ter o Tribunal de origem contrariado o § 8º do art. 100 da Constituição da República, com o argumento de que “o acórdão recorrido implica na autorização de fracionamento da execução, com expedição diversos requisitórios de pequeno valor para um mesmo crédito total que excede o teto desta modalidade, em evidente inconstitucionalidade” (fl. 4, e-doc. 7).
+
+3. O recurso extraordinário foi inadmitido pela incidência da Súmula n. 279 do Supremo Tribunal Federal (e-doc. 10).
+
+4. No agravo interposto contra a inadmissibilidade do recurso extraordinário, o agravante assinala que “a pretensão recursal não demanda reexame de fatos ou provas, pois se apoia integralmente no quadro fático delineado pelo acórdão recorrido. A controvérsia cinge-se à interpretação jurídica da matéria, afastando, portanto, a incidência da Súmula 279 do Supremo Tribunal Federal” (fl. 5, e-doc. 12).
+
+Salienta discutir-se “unicamente a possibilidade, em tese, de fracionamento de precatório com expedição de múltiplas RPVs cujo somatório ultrapasse o teto constitucional, questão que prescinde de revolvimento do conjunto fático-probatório” (fl. 5, e-doc. 12).
+
+Ressalta que “o exame pretendido (...) não demanda revaloração de provas nem rediscussão de fatos. O que se discute é matéria exclusivamente jurídica: a admissibilidade do fracionamento do crédito via RPVs acima do teto, à luz do art. 100 da Constituição Federal, afastando-se a Súmula 279 do STF” (fl. 5, e-doc. 12).
+
+Pede o provimento do presente recurso extraordinário com agravo.
+
+Examinados os elementos dos autos, DECIDO.
+5. Razão jurídica não assiste ao agravante.
+
+6. Nos termos do inc. V do art. 1.030 do Código de Processo Civil, a Presidência do Tribunal de origem inadmitiu o recurso extraordinário, ao fundamento de que “os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido que contém fundamentação adequada para lhe dar respaldo, tampouco ficando evidenciado o suposto maltrato à norma constitucional enunciada, pois o fundamento utilizado para interposição somente poderia ter sua procedência verificada mediante o reexame das provas colhidas no correr do feito. Incidente a Súmula 279 do Col. Supremo Tribunal Federal” (fl. 2, e-doc. 10).
+
+Na espécie vertente, a Primeira Câmara de Direito Público do Tribunal de Justiça de São Paulo dirimiu a controvérsia sobre fracionamento da execução contra a Fazenda Pública estadual, nestes termos:
+“O recurso foi tirado de decisão que, em incidente de requisição de pequeno valor, determinou a expedição de mandado de levantamento em favor do ora agravado, sob o fundamento de que ‘a expedição do RPV para pagamento de insuficiência não configura fracionamento do precatório visto que o crédito não foi integralmente satisfeito por erro ou mora do próprio devedor, portanto indefiro o pedido da FESP devendo o feito retomar a sua tramitação regular’ (f. 527 dos autos principais).
+Conforme já constatado em sede de cognição sumária, a r. decisão agravada foi proferida em consonância com precedente recente desta C. Primeira Câmara de Direito Público no julgamento do Agravo de Instrumento nº 3013244-71.2025.8.26.0000 (j. 22.10.2025), de relatoria do E. Des. Luís Francisco Aguilar Cortez (...).
+Diante disso, meu voto é no sentido de negar provimento ao recurso e manter a r. decisão agravada, que se encontra em consonância com precedente recente desta C. Primeira Câmara de Direito Público” (fls. 1-3, e-doc. 10).
+Para rever o decidido nas instâncias ordinárias sobre os procedimentos adotados na apuração do saldo residual e na forma de pagamento a ser utilizada na liquidação do débito remanescente e, eventualmente, acolher a postulação recursal da Fazenda Pública estadual, seria necessário o reexame do conjunto fático-probatório do processo. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal. Confiram-se, por exemplo, os seguintes julgados:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. PROCESSAMENTO DE PRECATÓRIO. AGRAVO DE INSTRUMENTO CONTRA DECISÃO INTERLOCUTÓRIA. PEDIDO DE EFEITO SUSPENSIVO EM LEVANTAMENTO DE VALOR RESIDUAL. ATO DECISÓRIO NÃO DEFINITIVO: SÚMULA N. 735 DO SUPREMO TRIBUNAL FEDERAL. IMPUGNAÇÕES DE CÁLCULO DE VALOR RESIDUAL. MATÉRIA PROCESSUAL EM LIQUIDAÇÃO DE DÉBITOS DA FAZENDA PÚBLICA: SÚMULA N. 279 DESTE SUPREMO TRIBUNAL E AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL DESPROVIDO” (ARE n. 1.497.703-AgR, Relatora a Ministra Cármen, Primeira Turma, DJe 28.8.2024).
+
+“DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRECATÓRIO COMPLEMENTAR. ENQUADRAMENTO NAS HIPÓTESES AUTORIZADORAS. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279 DO STF. AGRAVO NÃO PROVIDO. 1. O art. 100, § 8º, da Constituição Federal veda a expedição de precatórios complementares ou suplementares de valor pago, bem como o fracionamento, repartição ou quebra do valor da execução para fins de enquadramento de parcela ao regime de pequeno valor. 2. No julgamento da ADI 2.024/SP, esta Suprema Corte fixou entendimento de que a complementação de precatório original apenas pode ocorrer em três hipóteses: a) erro material; b) inexatidão aritmética; c) substituição do índice aplicado ao caso, por força normativa. 3. A jurisprudência deste Supremo Tribunal Federal firmou-se no sentido da impossibilidade de fracionamento de execuções, salvo nas hipóteses excepcionais de erro material ou inexatidão aritmética ou substituição de índices de atualização, que é justamente o caso dos autos, que trata de execução complementar referente a saldo remanescente de consectários legais não pagos. 4. Para verificar se o caso se enquadra nas hipóteses autorizadoras da expedição de precatório complementar seria necessário o reexame de fatos e provas, o que é vedado em sede de recurso extraordinário, nos termos da Súmula 279/STF. 5. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita. 6. Agravo interno conhecido e não provido” (RE n. 1.597.547-AgR, Relator o Ministro Flávio Dino, Primeira Turma, DJe 21.5.2026).
+
+“AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. PROCESSUAL CIVIL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. SALDO COMPLEMENTAR REMANESCENTE DECORRENTE DE SUBSTITUIÇÃO DE ÍNDICE DE CORREÇÃO MONETÁRIA. POSSIBILIDADE DE PAGAMENTO VIA REQUISIÇÃO DE PEQUENO VALOR QUANDO O VALOR NÃO ULTRAPASSA O TETO LEGAL PARA EXPEDIÇÃO DE RPV. TRIBUNAL DE ORIGEM DECIDIU A CONTROVÉRSIA EM CONFORMIDADE COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO INTERNO DESPROVIDO” (ARE n. 1.606.130-AgR, Relator o Ministro Luiz Fux, Segunda Turma, DJe 23.6.2026).
+
+7. Ao indeferir o efeito suspensivo no agravo de instrumento, o Desembargador Relator assinalou tratar-se de recurso interposto pelo Estado de São Paulo contra decisão que determinou a expedição de Requisição de Pequeno Valor - RPV para pagamento de saldo remanescente, por entender que “o crédito não foi integralmente satisfeito por erro ou mora do próprio devedor” (fl. 1, e-doc. 3).
+
+Este Supremo Tribunal tem decidido pela desnecessidade de expedição de novo precatório complementar quando o crédito for resultante de erro material, inexatidão aritmética dos cálculos ou na hipótese de substituição, por lei, do índice de atualização aplicado, como ocorre na espécie vertente, na qual houve erro na aplicação de índice de correção monetária. Nesse sentido, confiram-se, por exemplo, os seguintes julgados:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CONSTITUCIONAL. EXPEDIÇÃO DE NOVO PRECATÓRIO E CITAÇÃO DA FAZENDA PÚBLICA: DESNECESSIDADE NAS HIPÓTESES DE ERRO MATERIAL, INEXATIDÕES ARITMÉTICAS OU SUBSTITUIÇÃO DE ÍNDICES DE ATUALIZAÇÃO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 939.112-AgR, Relatora a Ministra Cármen Lúcia, Segunda Turma, DJe 28.4.2016)
+
+“DIREITO ADMINISTRATIVO. PRECATÓRIO. HIPÓTESES DE CABIMENTO. SALDO EM ABERTO. DEPÓSITO INSUFICIENTE. POSSIBILIDADE DE COMPLEMENTAÇÃO. PRECEDENTES. DECISÃO AGRAVADA EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO NÃO PROVIDO. 1. O entendimento posto na decisão agravada está alinhado com a orientação de ambas as Turmas desta Suprema Corte, no sentido de que a vedação à expedição de precatório complementar visa impedir a quebra da ordem cronológica de pagamento dos requisitórios. Não se admite, todavia, a protelação do pagamento mediante o depósito de valores insuficientes para quitar os débitos, razão pela qual não se verifica a alegada violação dos dispositivos constitucionais indicados nas razões recursais. Precedentes. 2. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita. 3. Agravo interno conhecido e não provido” (ARE n. 1.484.170-AgR, Relator o Ministro Flávio Dino, Primeira Turma, DJe 15.8.2024).
+
+No julgamento do Recurso Extraordinário com Agravo n. 1.606.130/SC, controvérsia similar à deste processo, o Relator, Ministro Luiz Fux, decidiu ser possível “a quitação do saldo remanescente, em cumprimento de sentença, por intermédio de Requisição de Pequeno Valor - RPV, quando há substituição da TR pelo IPCA-E, mesmo quando o valor total da dívida, somado ao débito complementar, ultrapassa o limite de expedição de RPV”. Esta a ementa do julgado:
+“RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. PROCESSUAL CIVIL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. SALDO COMPLEMENTAR REMANESCENTE DECORRENTE DE SUBSTITUIÇÃO DE ÍNDICE DE CORREÇÃO MONETÁRIA. POSSIBILIDADE DE PAGAMENTO VIA REQUISIÇÃO DE PEQUENO VALOR QUANDO O VALOR NÃO ULTRAPASSA O TETO LEGAL PARA EXPEDIÇÃO DE RPV. TRIBUNAL DE ORIGEM DECIDIU A CONTROVÉRSIA EM CONFORMIDADE COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. HIPÓTESE DA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. INADMISSIBILIDADE. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS NO JUÍZO RECORRIDO. IMPOSSIBILIDADE DE MAJORAÇÃO NESTA SEDE RECURSAL. ARTIGO 85, § 11, DO CÓDIGO DE PROCESSO CIVIL DE 2015. AGRAVO DESPROVIDO” (DJe 27.5.2026).
+
+A conclusão do acórdão questionado harmoniza-se com a jurisprudência deste Supremo Tribunal, a atrair, na espécie, a incidência da Súmula n. 286, com a seguinte disposição: “Não se conhece do recurso extraordinário fundado em divergência jurisprudencial, quando a orientação do plenário do Supremo Tribunal Federal já se firmou no mesmo sentido da decisão recorrida”. Assim, por exemplo: ARE n. 1.556.694-AgR, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJe 12.2.2026; ARE n. 1.499.292-AgR, Relator o Ministro Cristiano Zanin, Primeira Turma, DJe 11.9.2024; e ARE n. 1.269.422-AgR, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 1º.9.2020.
+
+8. Improcede a alegação do agravante de que “o acórdão desprezou o entendimento firmado no RE 1205530 (Tema 28), que foi julgado sob a sistemática da repercussão geral” (fl. 5, e-doc. 7).
+
+No julgamento do Recurso Extraordinário n. 1.205.530-RG, Relator o Ministro Marco Aurélio, Tema 28, este Supremo Tribunal reconheceu a repercussão geral na controvérsia constitucional e fixou a tese de que “surge constitucional expedição de precatório ou requisição de pequeno valor para pagamento da parte incontroversa e autônoma do pronunciamento judicial transitada em julgado observada a importância total executada para efeitos de dimensionamento como obrigação de pequeno valor” (Plenário, DJe 1º.7.2020).
+
+Não é o caso, entretanto, de subsunção do debate em exame ao Tema 28, porque, neste processo, não se verificou os requisitos para pagamento de parcela incontroversa, mas a forma de pagamento de valor residual do ofício requisitório.
+
+Nesse sentido, confira-se, por exemplo, o seguinte julgado:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. SALDO REMANESCENTE COMPLEMENTAR. PAGAMENTO POR REQUISIÇÃO DE PEQUENO VALOR: POSSIBILIDADE. VALORES DECORRENTES DE ERRO MATERIAL, INEXATIDÕES ARITMÉTICAS OU SUBSTITUIÇÃO DE ÍNDICES DE ATUALIZAÇÃO. PRECEDENTES. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. SÚMULA N. 286. APURAÇÃO DE VALORES DEVIDOS E FORMA DE PAGAMENTO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. INAPLICABILIDADE DO TEMA 28 DA REPERCUSSÃO GERAL. DESCABIMENTO DO RECURSO EXTRAORDINÁRIO PELA AL. C DO INC. III DO ART. 102 DA CONSTITUIÇÃO DA REPÚBLICA: SÚMULA N. 284 DESTE SUPREMO TRIBUNAL. DECISÃO AGRAVADA MANTIDA. SEGUNDO AGRAVO REGIMENTAL. INVIABILIDADE. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. RECURSOS IDÊNTICOS CONTRA O MESMO ATO JUDICIAL. AGRAVOS REGIMENTAIS NÃO CONHECIDOS, COM DETERMINAÇÃO DE CERTIFICAÇÃO DO TRÂNSITO EM JULGADO E BAIXA IMEDIATA DO PROCESSO À ORIGEM, INDEPENDENTE DA PUBLICAÇÃO DO ACÓRDÃO” (ARE n. 1.606.615-AgR, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJe 9.7.2026).
+
+Citam-se, ainda, por exemplo, os seguintes julgados monocráticos, nos quais se afastou a aplicação do Tema 28 da repercussão geral pelos mesmos motivos da decisão de inadmissibilidade recursal do Tribunal de origem: ARE n. 1.598.736/SC, Relator o Ministro Flávio Dino, DJe 28.4.2026; ARE n. 1.600.355/SC, Relatora a Ministra Cármen Lúcia, DJe 12.5.2026; e ARE n. 1.600.246/SC, Relator o Ministro André Mendonça, DJe 25.5.2026.
+
+Inaplicável na espécie o Tema 28 da repercussão geral.
+
+Comprovados os impedimentos jurídicos à admissibilidade do recurso, nada há a prover em relação às alegações do agravante.
+
+9. Pelo exposto, não conheço do recurso extraordinário com agravo (inc. III do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+
+Anote-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional.
+
+Publique-se.
+
+Brasília, 11 de agosto de 2026.
+
+Ministra CÁRMEN LÚCIA
+Relatora
