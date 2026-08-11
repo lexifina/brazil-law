@@ -1,0 +1,44 @@
+DECISÃO: Trata-se de reclamação constitucional, com pedido de medida liminar, ajuizada por Gilson Alvelino de Souza contra decisão proferida pela 1ª Turma do Tribunal Regional da 3ª Região, nos autos do Processo nº 1 5003956- 60.2018.4.03.6119.
+A parte reclamante alega, em síntese, que a a autoridade reclamada “aplicou indevidamente a tese firmada na ADI nº 5.090 e no Tema nº 1.444 a caso que não corresponde à hipótese decidida pelo Supremo Tribunal Federal, sem enfrentar a distinção técnica entre correção monetária e remuneração”. (eDOC 1, p. 3)
+Sustenta, ainda, que, ao apreciar o agravo interno interposto contra a decisão que não conheceu do recurso extraordinário, a Corte de origem teria usurpado a competência do Supremo Tribunal Federal.
+Por fim, requer a concessão de tutela provisória para suspender os efeitos da decisão reclamada e, no mérito, pede a sua cassação.
+
+É o relatório.
+Decido.
+
+No caso dos autos, alega-se aplicação equivocada do entendimento firmado por esta Corte no julgamento da ADI 5090 e do Tema 1.444 da repercussão geral, cujo paradigma é o ARE 1.573.884.
+Com efeito, cumpre registrar que o Plenário do Supremo Tribunal Federal, ao apreciar o mérito da ADI 5.090, conferiu interpretação conforme à Constituição ao art. 13, caput, da Lei nº 8.036, de 1990, e ao art. 17, caput, da Lei nº 8.177, de 1991, estabelecendo que a remuneração do saldo das contas do FGTS, composta pela TR acrescida de juros de 3% ao ano e da distribuição de resultados, deve observar, como piso, o índice oficial de inflação (IPCA).
+Contudo, houve modulação dos efeitos da decisão para que produza apenas efeitos prospectivos, a partir da publicação da ata de julgamento, com incidência sobre os saldos existentes e depósitos futuros. Restou expressamente vedada, em qualquer hipótese, a recomposição financeira de perdas pretéritas, sob pena de afronta ao decidido por esta Corte. Confira-se a ementa do julgado:
+
+“DIREITO CONSTITUCIONAL. CRITÉRIO DE ATUALIZAÇÃO DO SALDO DE REMUNERAÇÃO DAS CONTAS DO FGTS. INTERPRETAÇÃO CONFORME A CONSTITUIÇÃO. IPCA É O PISO PARA REMUNERAÇÃO DO SALDO DAS CONTAS. EFEITOS PROSPECTIVOS DA DECISÃO. IMPOSSIBILIDADE DE RECOMPOSIÇÃO DE SUPOSTAS PERDAS PASSADAS. AÇÃO DIRETA JULGADA PARCIALMENTE PROCEDENTE. 1. O FGTS tem natureza dual porque cumpre a função de poupança individual dos trabalhadores, ao mesmo tempo em que serve como fonte de financiamento para investimentos em áreas sociais. Nenhuma dessas funções deve sobrepor-se à outra, de modo que a remuneração dos depósitos deve ser compatível com a taxa cobrada nos empréstimos em que são alocados, para não comprometer a finalidade social do Fundo. 2.O art. 13, caput, da Lei nº 8.036/1990 e o art. 17, caput, da Lei nº 8.177/1991 devem ser interpretados conforme a Constituição para que a remuneração do saldo das contas do FGTS (TR + 3% ao ano + distribuição dos lucros auferidos) tenha como piso o índice oficial de inflação (IPCA). 3.Nos anos em que a remuneração dos saldos das contas vinculadas ao FGTS não alcançar o IPCA, caberá ao Conselho Curador do Fundo (art. 3º da Lei nº 8.036/1990) determinar a forma de compensação, em prestígio à autonomia privada coletiva (art. 7º, inciso XXVI, CF). 4. Modulação dos efeitos da presente decisão para que produza apenas efeitos prospectivos, a partir da publicação da ata de julgamento, com incidência sobre os saldos existentes e depósitos futuros. Não é admissível, em nenhuma hipótese, a recomposição financeira de supostas perdas passadas, sob pena de violação a esta decisão. 5. Ação direta de inconstitucionalidade julgada parcialmente procedente para dar interpretação conforme ao art. 13, caput, da Lei nº 8.036/1990 e ao art. 17, caput, da Lei nº 8.177/1991”. (ADI 5.090, Red. p/ acórdão Min. Flávio Dino, Tribunal Pleno, DJ 9.10.2024)
+
+Reforçando esse entendimento, o STF, no julgamento do ARE 1.573.884 (Tema 1.444) reconheceu a repercussão geral da matéria em discussão e firmou a seguinte tese: “É constitucional a fórmula legal de remuneração das contas do FGTS (TR + 3% ao ano + distribuição de lucros), desde que assegurada pelo órgão gestor, no mínimo, correção igual ao índice oficial de inflação; vedada, em qualquer caso, a aplicação retroativa da nova sistemática, observada a modulação de efeitos fixada no julgamento da ADI 5.090”.
+Pois bem.
+No caso em exame, consta dos autos que a ora reclamante ajuizou ação na qual questiona, em síntese, a utilização da TR como índice de correção dos saldos das contas vinculadas ao Fundo de Garantia do Tempo de Serviço.
+A demanda foi julgada improcedente em primeiro e segundo graus, o que ensejou a interposição de recurso extraordinário, cujo seguimento foi negado.
+Interposto recurso de agravo, os autos foram remetidos ao STF, que os devolveu à origem para aplicação do Tema 1.444 da repercussão geral.
+Ao realizar o juízo de adequação, negou-se seguimento ao recurso extraordinário, nos seguintes termos:
+
+O STF, por ocasião do julgamento do  ARE 1573884, submetido à repercussão geral da matéria (Tema 1.444), assentou tese jurídica de observância obrigatória pelas instâncias ordinárias do Poder Judiciário, a seguir discriminada:
+É constitucional a fórmula legal de remuneração das contas do FGTS (TR + 3% ao ano + distribuição de lucros), desde que assegurada pelo órgão gestor, no mínimo, correção igual ao índice oficial de inflação; vedada, em qualquer caso, a aplicação retroativa da nova sistemática, observada a modulação de efeitos fixada no julgamento da ADI 5.090.
+(...)
+No caso em tela, a Turma Julgadora decidiu negar provimento à apelação da parte autora, nos seguintes termos (ID 309010797):
+Como se verifica, o Supremo Tribunal Federal afastou a aplicação da TR, com efeitos ex nunc, desde que a remuneração não garanta, no mínimo, o índice oficial de inflação (IPCA), decisão que tem efeito vinculante e eficácia erga omnes, obrigando a CEF a observá-la apenas após a publicação da ata daquele V. Julgamento, ou seja, a partir de 12.6.2024.
+Tendo-se em vista que a correção dos depósitos existentes por ocasião da propositura da presente demanda foi mantida na forma em que realizada, ou seja, pela TR, e que as correções posteriores à publicação da ata do julgamento do STF deverão observar o decidido na ADI, uma vez que a empresa pública, na qualidade de gestora do fundo, está sujeita à legalidade, imperativa a improcedência do pedido.
+Ou seja, determinando o Supremo Tribunal Federal, a incidência de outro índice somente a partir de 12.6.2024, aqui se cuidando de demanda bem anterior a tal marco temporal, sem sucesso a pretensão veiculada nos autos. (...)
+Enfim, ao contrário do sustentado pela parte autora, o seu pedido possui o mesmo alcance da questão decidida pelo Supremo Tribunal Federal, ou seja, a correção dos saldos das contas do FGTS, de modo que não há que se falar em inaplicabilidade da ADI 5090.
+Nesse passo, constata-se que o acórdão recorrido, ao adotar decisão definitiva do STF na ADI 5.090, no sentido de garantir, no mínimo, a aplicação do índice oficial de inflação (IPCA) sobre remuneração nas contas do FGTS nos exercícios em que a fórmula legal (TR + 3% ao ano + distribuição de lucros) não alcançar tal patamar, com efeitos ex nunc a partir da publicação da ata de julgamento, está em consonância com a tese firmada no Tema n. 1.444/STF, a justificar a negativa de seguimento do presente recurso, nos termos do art. 1.030, I, b, do Código de Processo Civil.
+
+Foi interposto agravo interno em face da referida decisão, o qual não foi conhecido (eDOC 13).
+Pois bem.
+Nesse contexto, verifica-se que a autoridade reclamada não violou a orientação firmada por esta Suprema Corte no julgamento da ADI 5.090 e do Tema 1.444. Embora nesses precedentes tenha sido assegurada remuneração das contas vinculadas ao FGTS em patamar não inferior à inflação oficial, também ficou expressamente estabelecido que a nova sistemática produz apenas efeitos prospectivos, sendo vedada, em qualquer hipótese, a recomposição financeira de supostas perdas relativas a períodos anteriores à publicação da ata de julgamento.
+Assim, não procede a distinção invocada pela parte reclamante. Isso porque a tese de que a TR possui natureza remuneratória, e não de correção monetária, busca alcançar resultado expressamente afastado pelo precedente vinculante, qual seja, a revisão da remuneração do FGTS com efeitos retroativos. Não há, portanto, distinção juridicamente relevante apta a afastar a incidência do entendimento firmado por esta Corte.
+No mesmo sentido, confiram-se os seguintes precedentes desta Corte em hipóteses semelhantes: Rcl 95.578, Rel. Min. Dias Toffoli, DJe 03.06.2026; e Rcl 95.623, Rel. Min. André Mendonça, DJe 05.06.2026.
+Ante o exposto, nego seguimento à reclamação. Prejudicado o pedido liminar.
+
+Publique-se.
+Brasília, 11 de agosto de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
