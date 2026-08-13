@@ -1,0 +1,38 @@
+DECISÃO: Trata-se de pedido de extensão dos efeitos da decisão formulado em favor Gabriel Lemos da Silveira, com base no art. 580 do Código de Processo Penal. (eDOC 26)
+Em 16/6/2026, proferi decisão monocrática para conceder parcialmente a ordem de habeas corpus em favor da corré, Thaís Caroline Procópio Moura, para afastar a valoração negativa da personalidade e da conduta social, devendo o Juízo de origem promover o decote pertinente. (eDOC 18)
+O requerente afirma (eDOC 26), que “os fundamentos para considerar prejudicial o vetor da personalidade e da conduta social da Paciente são idênticos àqueles utilizados para valorar negativamente a culpabilidade e conduta social do Peticionário”.  (p. 1-2)
+Nesse sentido, pugna pela extensão dos efeitos da decisão que concedeu parcialmente a ordem de habeas corpus para reformar a sentença. (p. 6)
+É o relatório.
+Decido.
+
+Os pedidos de extensão formulados por corréus encontram amparo no tratamento jurídico isonômico que deve ser conferido a todos os acusados que integram a mesma relação jurídico-processual.
+Sobre o tema, o art. 580 do CPP estabelece que:
+
+Art. 580. No caso de concurso de agentes (Código Penal, art. 25), a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros.
+
+Ao comentar o referido artigo, Aury Lopes Jr. destaca que se trata de uma situação excepcional em que “um réu não recorrente pode ser beneficiado pela decisão proferida pelo corréu, desde que não diga respeito a condições de caráter pessoal” (LOPES JR., Aury. Direito Processual Penal. Livro Eletrônico (e-book). Posição 21.143).
+Ao exemplificar a aplicação da mencionada regra, o autor registra que “tal situação pode suceder, por exemplo, quando apenas um dos réus recorre da sentença condenatória e o tribunal, apreciando esse recurso, decide pela atipicidade da conduta por todos praticada”(LOPES JR., Aury. Direito Processual Penal. Livro Eletrônico (e-book). Posição 21.143).
+No caso dos autos, conforme relatado, o requerente busca a extensão dos efeitos da decisão que concedeu parcialmente a ordem de habeas corpus para afastar a valoração negativa da culpabilidade e da conduta social da paciente.
+Veja-se os termos da sentença penal condenatória em relação ao requerente, no que tange à fixação da pena-base:
+
+“III Ré GABRIEL LEMOS DA SILVEIRA
+(i) Do artigo 33, caput, da Lei nº 11.343/06
+Atendendo ao que dispõe o artigo 59, do Código Penal, c/c art. 42 da Lei 11.343/06, verifica-se que a quantidade de droga apreendida em poder do Réu não é elevada (08 comprimidos de ecstasy, com peso total de 2,65g; 04 invólucros contendo 45,44g de “Cannabis Sativa L”, droga vulgarmente conhecida por “maconha”; 09 arbustos de “Cannabis Stiva L”, com peso total de 167,40g; 01 invólucro, contendo 0,8g de LSD), ao ponto de justificar a elevação da pena base.
+No que tange a diversidade de drogas, contudo, se justifica a elevação da pena eis que apreendidas drogas sintéticas e maconha, o que aumenta a gama de substâncias ilícitas ofertadas, sendo esta uma das circunstâncias judiciais específicas da Lei de Drogas, a justificar o incremento da pena base.
+Por outro lado, a personalidade do Réu não pode ser apurada com precisão pelos elementos constantes dos autos.
+Outrossim, o Réu é estudante de medicina, ocupando posição privilegiada frente à média de nossa população e não dependia de meios escusos, senão do esforço de seus próprios familiares para se manter em curso superior, residindo em cidade diversa de sua genitora, sendo seu genitor falecido, optou pelas sendas delitivas, gerando com isso grave perturbação do equilíbrio social, tanto assim que as atividades espúrias eram realizadas em parte no conforto de moradia estudantil, sabidamente menos expostas à atuação policial do que as precárias instalações da periferia.
+A sua conduta social, portanto, é especialmente reprovável, na medida em que o Réu, juntamente com seus comparsas, se utilizou da condição de estudante do Curso de Medicina para articular esquema sofisticado de tráfico visando estudantes de referido curso. Ou seja, o Réu valeu-se de seu acesso a tal curso como forma de viabilizar o desempenho de tráfico de drogas em altos círculos sociais, a que tem acesso em razão de sua privilegiada condição, a demonstrar que sua conduta social revela especial reprovabilidade. Frise-se, ainda, que, conforme reconhece em seu interrogatório, o acesso a drogas é especialmente difícil nesta pequena localidade, a revelar que este se valia de sua privilegiada condição para buscar entorpecentes em centros maiores e valendo-se de sua posição social, distribui-los nos meios estudantis.
+No que concerne às circunstâncias gerais do art. 59 do CP, tem-se que a culpabilidade, considerada como o grau de reprovabilidade da conduta do Réu, observo particularidade na conduta do réu, que atuou como importante agente do comércio de drogas nesta localidade, observando-se dos registros de comunicação mantido em seu smartphone que este passou a negociar drogas em altos volumes, ao ponto de negociar drogas em expressão de “quilo” e não de algumas porções individuais, inclusive em favor de empresário noturno que se valia de seu estabelecimento para disseminar drogas na comunidade estudantil, a revelar que inseriu-se em escala diferenciada de criminalidade, da qual os fatos descritos na denúncia representam apenas pequena parcela.
+Outrossim, no que tange aos antecedentes, verifico que o Réu não ostenta condenação criminal transitada em julgado (fls. 106/107).
+Os motivos do crime são inerentes ao tipo penal, assim como as suas circunstâncias e consequências, cujo prejuízo social já foi ponderado em sede própria. Por outro passo, incabível a análise do comportamento da vítima, considerando a sua natureza difusa nos crimes de tráfico ilícito de entorpecentes.
+Assim, considerando que 3 dentre as 10 circunstâncias ponderadas foram desfavoráveis ao Réu e que a pena privativa de liberdade se inicia em 5 anos de reclusão, mas pode atingir o total de 15 anos de reclusão, fixo as penas em 08 anos de reclusão e, por simetria, pagamento de 800 dias-multa. Esclareço a adoção de tal critério como regra objetiva, a assegurar a aplicação da pena base no mínimo legal àquele em favor de quem não pesem circunstâncias judiciais desfavoráveis, ao mesmo passo que assegura a proporcional aplicação da pena máxima àquele em desfavor de quem pesem como negativas todas as circunstâncias judiciais.” (eDOC 9, p. 62-63)
+
+Portanto, de acordo com os autos, entendo que os fundamentos utilizados pelo Juízo de primeiro grau para valorar negativamente a conduta social da paciente e do requerente são os mesmos, a justificar excepcional conhecimento deste pedido de extensão de habeas corpus.
+Entretanto, a fundamentação acerca da valoração negativa da culpabilidade do requerente está amparada em motivos de caráter exclusivamente pessoal, tendo em vista o registro de que “atuou como importante agente do comércio de drogas” e “passou a negociar drogas em altos volumes, ao ponto de negociar drogas em expressão de ‘quilo’”. Não há, portanto, similaridade entre tais argumentos e aqueles utilizados ao valorar negativamente a culpabilidade da paciente.
+Ante o exposto, com fulcro no art. 580 do CPP, defiro, em parte, o pedido de extensão para afastar a valoração negativa da conduta social, devendo o Juízo de origem  promover o decote pertinente nos autos da ação penal n. 1500114-68.2019.8.26.0592, da 2ª Vara da Comarca de Adamantina/SP. (RISTF, art. 192).
+Publique-se.
+Brasília, 13 de agosto de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
