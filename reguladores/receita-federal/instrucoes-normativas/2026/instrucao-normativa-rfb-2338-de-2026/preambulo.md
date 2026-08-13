@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2338, de 10 de agosto de 2026
+Altera a Instrução Normativa RFB nº 2.091, de 22 de junho de 2022, que estabelece requisitos para arrolamento de bens e direitos e define procedimentos para a formalização de representação para propositura de medida cautelar fiscal.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o art. 350, caput, inciso III, do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto na Lei Complementar nº 225, de 8 de janeiro de 2026, resolve:
