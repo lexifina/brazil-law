@@ -1,0 +1,32 @@
+DECISÃO:
+Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+O acórdão recorrido  ficou assim ementado:
+
+"APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. CONTRATO TEMPORÁRIO. RESCISÃO ANTECIPADA. ILEGALIDADE. ATO QUE IMPORTOU EM PRETERIÇÃO, DIANTE DA VIOLAÇÃO À ORDEM CLASSIFICATÓRIA DO PROCESSO SELETIVO. INDENIZAÇÃO DEVIDA. DANOS MATERIAIS E MORAIS. RECURSO PROVIDO. SENTENÇA REFORMADA. 1 - Como se sabe, “[...] A discricionariedade da qual goza a Administração Pública, na qual se inclui o poder de realizar contratações temporárias com amparo na excepcionalidade disposta no artigo 37, inciso IX, da Constituição Federal, é balizada pelos Princípios da Legalidade e da Razoabilidade, ficando sujeita ao controle do Poder Judiciário nos casos em que tais limites restarem extrapolados.[...]” (TJES, AGRAVO DE INSTRUMENTO Nº 5000612- 19.2021.8.08.0000, Magistrado: JORGE HENRIQUE VALLE DOS SANTOS, 3ª Câmara Cível, Data: 16/Feb/2022). 2 - No caso vertente, a rescisão antecipada do contrato laboral da apelante se deu com apoio em ato administrativo que violou a ordem classificatória do processo seletivo e, por conseguinte, traduziu a um só tempo a preterição do direito subjetivo da apelante ao cumprimento do seu contrato de trabalho, bem como a responsabilidade civil do ente público pelos danos acarretados à esfera jurídica da apelante (CF, §6º, do art. 37). 3 - Nesse contexto, a apelante faz jus à indenização pelo valor da remuneração devida pelo período de vigência estipulado no contrato temporário, tendo em vista que tais quantias não foram percebidas por ela, em decorrência da ilegalidade pelo ato arbitrário do procedimento do Poder Público que a preteriu com a manifesta inobservância da ordem de classificação do processo seletivo. 4 - Além disso, a apelante também deve ser indenizada pelo dano moral suportado pela ilegalidade da conduta estatal, porquanto a rescisão prematura do seu contrato de trabalho [10 (dez) dias após assinatura], certamente desbordou dos limites do mero aborrecimento, tendo em vista que, não fosse suficiente a lógica do sofrimento oriundo do rompimento de um pacto laboral, o abalo dela ainda foi devidamente corroborado pela prova testemunhal, da qual ainda sobressai os infortúnios pela perda da chance de outra contrato de trabalho de professora em outro município, abalo pela ausência da única fonte de receita da apelante, com repercussão no estado emocional da apelante. 5 - Acerca de tal aspecto, à luz dos princípios da razoabilidade e da proporcionalidade, diante das peculiaridades do caso concreto (potencial ofensivo, caráter pedagógico, justa reparação e capacidade financeira das partes envolvidas), entendo que o apelado dever ser condenado ao pagamento do valor da indenização, a título de danos morais, no importe de R$ 5.000,00 (cinco mil reais), cuja quantia não importa em quantia excessiva, tampouco irrisória. 6 - Recurso provido. Sentença reformada."
+
+Opostos os embargos de declaração, foram rejeitados.
+No recurso extraordinário sustenta-se violação do(s) art.(s) 2º; 37, caput; 41, caput;  37, inciso IX; 40, §10º, da Constituição Federal.
+Decido.
+Analisados os autos, verifica-se que para dissentir do que decidido pelo Tribunal a quo, necessária seria a análise das cláusulas editalícias, bem como o reexame do conjunto fático-probatório dos autos, o que atrai a incidência das Súmulas 279 e 454 desta Corte. Nesse sentido:
+
+“DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. INTERPRETAÇÃO DE CLÁUSULAS DO EDITAL. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. SÚMULAS Nº 279 E Nº 454 DO STF. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015.
+1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a reelaboração da moldura fática, o reexame da interpretação conferida a cláusulas de edital de concurso público e a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, ‘a’, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte.
+2. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+3. Ausente condenação anterior em honorários, inaplicável o art. 85, § 11, do CPC/2015.
+4. Agravo interno conhecido e não provido”. (ARE 1.037.228-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 20/09/2017)
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. CUMPRIMENTO DOS REQUISITOS EXIGIDOS PARA A POSSE DO CANDIDATO NO CARGO. NECESSIDADE DE ANÁLISE DE PROVAS E CLÁUSULAS DO EDITAL. INCIDÊNCIA DAS SÚMULAS 279 E 454 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO.
+I – Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, seria necessário o reexame do conjunto fático-probatório constante dos autos e de cláusulas editalícias, o que atrai a incidência das Súmulas 279 e 454 do STF. Precedentes.
+II – Agravo regimental a que se nega provimento”. (ARE 821.913-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 28/8/2014)
+
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. CONCURSO PÚBLICO. OBSERVÂNCIA DAS REGRAS DO EDITAL. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS E DE CLÁUSULAS EDITALÍCIAS. INCIDÊNCIA DAS SÚMULAS N. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 757.852-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 16/09/2013)
+
+Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 13 de agosto de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
