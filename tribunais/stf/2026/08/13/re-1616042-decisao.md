@@ -1,0 +1,51 @@
+DECISÃO:
+Vistos.
+Trata-se de recurso extraordinário interposto com fundamento no art. 102, III, "a", da Constituição Federal, contra acórdão proferido pela 3ª Câmara de Direito Público do Tribunal de Justiça do Estado do Piauí, assim ementado:
+
+“REMESSA NECESSÁRIA. APELAÇÃO CIVIL. AÇÃO ORDINÁRIA DE COBRANÇA. SERVIDOR PÚBLICO. CONTRATO NULO. PRECEDENTE DO STF, NO RE 705140 E NO RE 765320, EM SEDE DE REPERCUSSÃO GERAL. DIREITO À PERCEPÇÃO DOS SALÁRIOS REFERENTES AO PERÍODO TRABALHADO E AO LEVANTAMENTO DOS DEPÓSITOS EFETUADOS NO FUNDO DE GARANTIA POR TEMPO DE SERVIÇO - FTGS. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS. APLICABILIDADE DA NORMA VIGENTE À ÉPOCA DO PROFERIMENTO DA SENTENÇA A QUO. PRECEDENTES DO STJ. APLICAÇÃO DO PARÁGRAFO ÚNICO DO ART. 21 DO CPC/73. RECURSOS PARCIALMENTE PROVIDOS. SENTENÇA PARCIALMENTE REFORMADA.
+1. O Supremo Tribunal Federal, no julgado do RE 705140 e do RE 765320, em sede de repercussão geral, fixou o entendimento de que a contratação nula de servidor somente gera direito aos 'salários referentes ao período trabalhado e, nos termos do art. 19-A da Lei 8.036/1990, ao levantamento dos depósitos efetuados no Fundo de Garantia do Tempo de Serviço - FGTS'. Portanto, além das verbas deferidas ha sentença a quo, deve ser deferido o pedido de levantamento dos depósitos efetuados no FGTS.
+2. O Superior Tribunal de Justiça fixou o entendimento segundo o qual a questão referente aos honorários advocatícios fixados na sentença a quo deve ser examinada à luz do Código de Processo Civil vigente à época, em razão da incidência do princípio do tempus regit actum e da Teoria do Isolamento dos Atos Processuais.
+3. In casu, o Apelado decaiu em parte mínima do pedido, devendo ser aplicado o disposto no parágrafo único do artigo 21 do CPC/73.
+8. Recursos parcialmente providos. Sentença reformada.” (e-doc. 10)
+
+Opostos embargos de declaração, foram parcialmente acolhidos, "para excluir a condenação do embargante (Estado do Piauí) ao pagamento do FGTS relativo ao período trabalhado" (e-doc. 18), em atenção à vedação da reformatio in pejus, considerando que a parte adversa, ora recorrida, não interpôs recurso de apelação pugnando alteração da sentença no ponto.
+Sustenta o ente recorrente violação do artigo art. 37, inciso II e §2º, da Constituição Federal.
+Aduz, em síntese, que,
+
+"[c]onforme já reconhecido nestes autos, o contrato celebrado entre o ora recorrida e o Estado do Piauí é nulo de pleno direito, já que não precedido de concurso público, na forma do art. 37, II e §2°, da CF/88.
+Como decorrência da nulidade contratual constitucionalmente qualificada, já exaustivamente comprovada, não há que se falar em pagamento de férias e décimo terceiro salário, eis que, sendo nulo o contrato, dele não podem advir quaisquer obrigações ao ente público, salvo aquelas já expressamente reconhecidas pela jurisprudência pátria consolidada, quais sejam, saldo de salário e depósitos de FGTS, não sendo devida nenhuma outra verba."
+
+Admitido o apelo extremo, os autos foram remetidos a esta Corte para apreciação.
+Decido.
+A irresignação merece prosperar.
+De fato, o acórdão proferido pelo Tribunal de origem diverge da jurisprudência do Supremo Tribunal Federal no ponto em que incluiu na condenação do ente público os "períodos de férias acrescidos do terço constitucional e 13° (décimos terceiros) salários, em razão de seu caráter contraprestacional" (e-doc. 10, p.6).
+Com efeito, o Plenário da Suprema Corte, ao examinar o RE nº 705.140/RS, Relator o Ministro Teori Zavascki, concluiu pela existência da repercussão geral da matéria constitucional versada nestes autos. O assunto corresponde ao Tema nº 308 da Repercussão Geral, no qual se discute se a contratação pela Administração Pública de empregado não submetido à prévia aprovação em concurso público gera, ou não, outros efeitos trabalhistas além do direito à contraprestação pelos dias trabalhados.
+Ao julgar o mérito desse recurso, o Plenário do Supremo Tribunal Federal assentou que, não obstante a Constituição Federal de 1988 cominar nulas as contratações de pessoal pela Administração Pública sem a observância de prévia aprovação em concurso público, essas contratações não geram efeitos jurídicos válidos em relação aos empregados contratados, exceto o direito à percepção dos salários referentes ao período laborado e ao levantamento dos depósitos efetuados no Fundo de Garantia por Tempo de Serviço FGTS. Esse julgado restou assim ementado:
+
+“CONSTITUCIONAL E TRABALHO. CONTRATAÇÃO DE PESSOAL PELA ADMINISTRAÇÃO PÚBLICA SEM CONCURSO. NULIDADE. EFEITOS JURÍDICOS ADMISSÍVEIS EM RELAÇÃO A EMPREGADOS: PAGAMENTO DE SALDO SALARIAL E LEVANTAMENTO DE FGTS (RE 596.478 - REPERCUSSÃO GERAL). INEXIGIBILIDADE DE OUTRAS VERBAS, MESMO A TÍTULO INDENIZATÓRIO.
+1. Conforme reiteradamente afirmado pelo Supremo Tribunal Federal, a Constituição de 1988 reprova severamente as contratações de pessoal pela Administração Pública sem a observância das normas referentes à indispensabilidade da prévia aprovação em concurso público, cominando a sua nulidade e impondo sanções à autoridade responsável (CF, art. 37, § 2º).
+2. No que se refere a empregados, essas contratações ilegítimas não geram quaisquer efeitos jurídicos válidos, a não ser o direito à percepção dos salários referentes ao período trabalhado e, nos termos do art. 19-A da Lei 8.036/90, ao levantamento dos depósitos efetuados no Fundo de Garantia por Tempo de Serviço - FGTS.
+3. Recurso extraordinário desprovido” (DJe de 4/11/14)
+
+Na ocasião, restou fixada a seguinte tese:
+
+“A Constituição de 1988 comina de nulidade as contratações de pessoal pela Administração Pública sem a observância das normas referentes à indispensabilidade da prévia aprovação em concurso público (CF, art. 37, § 2º), não gerando, essas contratações, quaisquer efeitos jurídicos válidos em relação aos empregados contratados, a não ser o direito à percepção dos salários referentes ao período trabalhado e, nos termos do art. 19-A da Lei 8.036/90, ao levantamento dos depósitos efetuados no Fundo de Garantia por Tempo de Serviço - FGTS”
+
+Nesse sentido, anote-se os seguintes julgados:
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONTRATAÇÃO DE PESSOAL PELA ADMINISTRAÇÃO PÚBLICA SEM CONCURSO. NULIDADE. CONDENAÇÃO AO PAGAMENTO DE SEGURO-DESEMPREGO. TEMA RG Nº 308: INOBSERVÂNCIA. ACÓRDÃO IMPUGNADO NA ORIGEM, EM CONTRARIEDADE À JURISPRUDÊNCIA DO STF. 1. De acordo com o que decidido no julgamento do Tema nº 308 do ementário da Repercussão Geral, a contratação ilegítima de empregados públicos não gera ‘efeitos jurídicos válidos, a não ser o direito à percepção dos salários referentes ao período trabalhado e, nos termos do art. 19-A da Lei 8.036/90, ao levantamento dos depósitos efetuados no Fundo de Garantia por Tempo de Serviço - FGTS.’ 2. Estando o acórdão impugnado, em contrariedade com precedente do Supremo Tribunal Federal, na espécie, cabível o provimento, em parte, do recurso extraordinário. 3. Agravo regimental ao qual se nega provimento” (ARE nº 1.358.528/GO-AgR, Segunda Turma, Relator o Ministro André Mendonça, DJe de 10/01/2023 - grifei).
+
+“DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. CONSELHO DE FISCALIZAÇÃO. EXIGÊNCIA DE CONCURSO PÚBLICO PARA A CONTRATAÇÃO DE SERVIDORES. TEMA 308 DA REPERCUSSÃO GERAL. 1. O Supremo Tribunal Federal, no Tema 308 da Repercussão Geral, fixou tese no sentido de que a ‘Constituição de 1988 comina de nulidade as contratações de pessoal pela Administração Pública sem a observância das normas referentes à indispensabilidade da prévia aprovação em concurso público (CF, art. 37, § 2º), não gerando, essas contratações, quaisquer efeitos jurídicos válidos em relação aos empregados contratados, a não ser o direito à percepção dos salários referentes ao período trabalhado e, nos termos do art. 19-A da Lei 8.036/90, ao levantamento dos depósitos efetuados no Fundo de Garantia por Tempo de Serviço –  FGTS’. 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25, Lei nº 12.016/2009 e Súmula 512/STF). 3. Agravo interno a que se nega provimento” (RE nº 1.275.655/PB-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 02/09/2020 - grifei).
+
+“AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR CONTRATADO POR TEMPO DETERMINADO PARA ATENDER A NECESSIDADE TEMPORÁRIA DE EXCEPCIONAL INTERESSE PÚBLICO. NULIDADE DO VÍNCULO. EFEITOS JURÍDICOS. PAGAMENTO DE SALDO SALARIAL E LEVANTAMENTO DE FGTS. INEXIGIBILIDADE DE OUTRAS VERBAS, MESMO A TÍTULO INDENIZATÓRIO. RE 765.320. TEMA 916 DA REPERCUSSÃO GERAL. AGRAVO INTERNO DESPROVIDO” (RE nº 1.154.203/PB-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 07/05/2019 - grifei).
+
+“AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR CONTRATADO SEM CONCURSO PÚBLICO. DIREITO AOS DEPÓSITOS DO FUNDO DE GARANTIA POR TEMPO DE SERVIÇO – FGTS E AO SALDO DE SALÁRIO. INEXIGIBILIDADE DE OUTRAS VERBAS, SEQUER A TÍTULO INDENIZATÓRIO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 1.366.514/GO-ED-AgR, Primeira Turma, relatora a Ministra Cármen Lúcia, DJe de 18/04/2022 - grifei).
+
+Aplicando essa orientação, as seguintes decisões monocráticas que tratam especificamente do tema versado nos presentes autos: RE nº 1.445.552/PI, Relator o Ministro Edson Fachin, DJe de 28/08/2022;  RE nº 1.410.228/PI, Relator o Ministro Roberto Barroso, DJe de 1º/12/2022; RE nº 1.406.874/PI, de minha relatoria, DJe de 21/11/2022; RE nº 1.342.832/PI, Relator o Ministro Ricardo Lewandowski, DJe de 23/09/2021; e 1.327.795/PI, Relatora a Ministra Cármen Lúcia, DJe de 17/06/2021.
+Ante o exposto, nos termos do artigo 932, inciso V, do Código de Processo Civil (Lei nº 13.105, de 16 de março de 2015), dou provimento ao recurso extraordinário para, nos termos da fundamentação, reformar o acórdão atacado na parte em que manteve a condenação do recorrente ao pagamento de férias acrescidas de um terço constitucional e décimos terceiros salários, mantidos os demais termos do acórdão fustigado.
+Publique-se.
+Brasília, 13 de agosto de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
