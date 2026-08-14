@@ -1,0 +1,38 @@
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. PREVIDENCIÁRIO. SERVIDORA PÚBLICA APOSENTADA PELO REGIME GERAL DE PREVIDÊNCIA SOCIAL - RGPS. PRETENSÃO DE ALTERAÇÃO PARA O REGIME PRÓPRIO DE PREVIDÊNCIA SOCIAL - RPPS. ESTABILIDADE DO ARTIGO 19 DO ADCT. PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL. EXERCÍCIO DE JUÍZO POSITIVO DE RETRATAÇÃO, PELO TRIBUNAL A QUO, COM BASE NO PRECEDENTE DESTA SUPREMA CORTE PROFERIDO NO JULGAMENTO DO TEMA 1.254 DA REPERCUSSÃO GERAL. INCONFORMISMO. INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. RECURSO  INCABÍVEL. PRECEDENTES. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CÓDIGO DE PROCESSO CIVIL DE 2015. RECURSO NÃO CONHECIDO.
+
+DECISÃO: Trata-se de recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão que, em juízo positivo de retratação quanto ao Tema 1.254 da Repercussão Geral, assentou:
+
+“ADMINISTRATIVO E CONSTITUCIONAL. SERVIDOR PÚBLICO ESTABILIZADO. ART. 19 DO ADCT. REGIME PRÓPRIO DE PREVIDÊNCIA SOCIAL – RPPS. INGRESSO SEM CONCURSO PÚBLICO. IMPOSSIBILIDADE. TEMA 1.254 DO STF. MODULAÇÃO DE EFEITOS. DECISÃO JUDICIAL NÃO TRANSITADA EM JULGADO. INAPLICABILIDADE. IMPROCEDÊNCIA DO PEDIDO. JUÍZO DE RETRATAÇÃO EXERCIDO.
+1. A autora, servidora estabilizada nos termos do art. 19 do ADCT, teve sua aposentadoria concedida pelo RGPS e pleiteia, por meio de decisão judicial, sua vinculação ao RPPS do Estado do Tocantins (IGEPREV/TO).
+2. O Supremo Tribunal Federal, ao julgar o Tema 1.254 da repercussão geral (RE 1.426.306/TO), firmou a tese de que apenas os servidores ocupantes de cargo efetivo, providos mediante concurso público, podem estar vinculados ao regime próprio de previdência social, excluindo-se dessa regra os estabilizados pelo art. 19 do ADCT.
+3. Em sede de embargos de declaração, o STF modulou os efeitos da decisão para resguardar as aposentadorias e pensões já concedidas ou cujos requisitos legais estivessem preenchidos até a data da publicação da ata de julgamento, com fundamento na segurança jurídica e no excepcional interesse público, fixando a seguinte tese: ‘Somente os servidores públicos civis detentores de cargo efetivo (art. 40, CF, na redação dada pela EC 20/98) são vinculados ao regime próprio de previdência social, a excluir os estáveis nos termos do art. 19 do ADCT e os demais servidores admitidos sem concurso público, ressalvadas as aposentadorias e pensões já concedidas ou com requisitos já satisfeitos até a data da publicação da ata de julgamento destes embargos declaratórios’ (Segundos ED na Repercussão Geral no RE 1.426.306, Rel. Ministro-Presidente, julgamento em 10/06/2024).
+4. No caso posto em exame, não se aplica a modulação dos efeitos do julgamento do Tema 1.254 pelo STF, eis que a aposentadoria da parte autora foi concedida pelo Regime Geral de Previdência Social (RGPS). A concessão de benefício previdenciário com base em decisão judicial precária e ainda pendente de trânsito em julgado não configura situação jurídica consolidada, motivo pelo qual não atrai a incidência da modulação de efeitos.
+5. Inversão dos ônus sucumbenciais, com condenação da parte autora ao pagamento de honorários advocatícios, fixados em 10% (dez por cento) sobre o valor da causa, cuja exigibilidade permanece suspensa em caso de concessão da gratuidade de justiça, conforme os §§ 2º e 3º do art. 98 do CPC/2015.
+6. Em juízo de retratação, apelações providas para reformar a sentença e julgar improcedente o pedido inicial.” (Doc. 47, p. 9-10, destaquei)
+
+Não foram opostos embargos de declaração.
+Maria José Vieira da Costa de Oliveira, nas razões do apelo extremo, apresenta preliminar de repercussão geral e, no mérito, alega que “está aposentada pelo RPPS/TO desde 2016, conforme faz prova a Portaria de concessão juntada aos autos, estando amparada pela modulação de efeitos do Tema 1.254” (Doc. 49, p. 5). Sustenta que “a modulação temporal fixada pelo STF no bojo do Tema 1.254 ressalvou da aplicação da referida tese todas as aposentadorias já concedidas pelo regime próprio de previdência social, sem estabelecer qualquer distinção entre os benefícios concedidos administrativamente ou judicialmente, não cabendo interpretação restritiva na aplicação da modulação temporal” (Doc. 49, p. 8).
+O Estado do Tocantins e o Instituto de Gestão Previdenciária do Estado do Tocantins - IGEPREV apresentaram contrarrazões ao recurso extraordinário (Doc. 53).
+A Vice-Presidência do Tribunal Regional Federal da 1ª Região admitiu o recurso extraordinário (Doc. 51).
+É o relatório. DECIDO.
+Ab initio, assevere-se que, após o exame da existência de repercussão geral da matéria versada em recurso extraordinário, pelo Plenário do Supremo Tribunal Federal, compete às Cortes de origem a aplicação da decisão aos demais casos, sendo inadmissível a interposição de recurso a esta Suprema Corte contra decisão que, em juízo positivo de retratação, aplica a sistemática da repercussão geral, sob pena de subversão da própria sistemática. Nesse sentido, à guisa de exemplo, foram os seguintes julgados:
+
+“AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. DIREITO PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. SERVIDORA PÚBLICA MUNICIPAL. POSSE NO CARGO EFETIVO DE DIRETORA DE ESCOLA. PRETENSÃO DE APLICAÇÃO DO REGIME ESPECIAL DE APOSENTADORIA DE PROFESSORA. DETERMINAÇÃO DE DEVOLUÇÃO DO FEITO AO TRIBUNAL DE ORIGEM PARA APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL. EXERCÍCIO DE JUÍZO POSITIVO DE RETRATAÇÃO, PELO TRIBUNAL A QUO, COM BASE NO PRECEDENTE DESTA SUPREMA CORTE PROFERIDO NO JULGAMENTO DO TEMA 965 DA REPERCUSSÃO GERAL. INCONFORMISMO DA IMPETRANTE. INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. RECURSO  INCABÍVEL. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.” (Recurso Extraordinário 1.514.259-AgR, de que fui relator, Primeira Turma, DJe de 30/10/2024, destaquei)
+
+“AGRAVO REGIMENTAL EM RECLAMAÇÃO. CONSTITUCIONAL. PROCESSUAL PENAL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM. AUSÊNCIA DE PREVISÃO LEGAL DE CABIMENTO DE RECURSO OU DE OUTRA AÇÃO JUDICIAL NO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (Reclamação 16.915-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 13/03/2014, destaquei)
+
+“DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. TERCEIRIZAÇÃO. INCORPORAÇÃO DE FUNÇÃO COMISSIONADA. APOSENTADORIA. NOVO RECURSO EXTRAORDINÁRIO INTERPOSTO CONTRA DECISÃO QUE, EM JUÍZO DE RETRATAÇÃO, APLICA A SISTEMÁTICA DA REPERCUSSÃO GERAL. NÃO CABIMENTO.
+    1. Agravo interno contra decisão que negou seguimento a recurso extraordinário.
+    2. A jurisprudência do Supremo Tribunal Federal entende ser incabível novo recurso extraordinário em face de decisão que, em juízo de retratação, aplica a sistemática da repercussão geral.
+    3. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência.
+4. Agravo interno a que se nega provimento.” (Recurso Extraordinário com Agravo 1.319.850-AgR, Rel. Min. Roberto Barroso, Plenário, DJe de 19/03/2024, destaquei)
+
+Por fim, observo que o recurso foi interposto sob a égide da nova lei processual, o que impõe a aplicação de sucumbência recursal.
+Ex positis, NÃO CONHEÇO do RECURSO EXTRAORDINÁRIO, com fundamento no artigo 932, inciso III, do Código de Processo Civil de 2015.
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do artigo 85, § 11, do Código de Processo Civil, observada a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 14 de agosto de 2026.
+
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
