@@ -1,0 +1,4 @@
+Nota - Documento 6 INSTRUÇÃO NORMATIVA BCB Nº 768, DE 13 DE AGOSTO DE 2026
+Altera a Instrução Normativa BCB nº 715, de 6 de março de 2026, a Instrução Normativa BCB nº 555, de 2 de dezembro de 2024, e a Instrução Normativa BCB nº 557, de 2 de dezembro de 2024, para divulgar esclarecimentos acerca da dedução da exigibilidade de recolhimento compulsório sobre recursos à vista e sobre recursos a prazo, de que trata a Resolução BCB nº 551, de 3 de março de 2026.
+O Chefe do Departamento de Operações Bancárias e de Sistema de Pagamentos – Deban, no uso da atribuição que lhe confere o art. 23, inciso I, alínea “a”, do Regimento Interno do Banco Central do Brasil, anexo à Resolução BCB nº 340, de 21 de setembro de 2023, e tendo em conta o disposto na Resolução BCB nº 551, de 3 de março de 2026,
+R E S O L V E :
