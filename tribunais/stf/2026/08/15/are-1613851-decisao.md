@@ -1,0 +1,59 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO MUNICÍPIO. ACIDENTE SOFRIDO POR ALUNA NAS DEPENDÊNCIAS DE ESCOLA MUNICIPAL DURANTE AULA DE EDUCAÇÃO FÍSICA. DANOS MORAIS E MATERIAIS. JUÍZO DE DIREITO E TRIBUNAL DE ORIGEM QUE ASSENTARAM A AUSÊNCIA DE OMISSÃO ESTATAL NO DEVER DE FISCALIZAÇÃO E CONTROLE. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTE. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CÓDIGO DE PROCESSO CIVIL DE 2015.  AGRAVO DESPROVIDO.
+
+DECISÃO: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou:
+
+“RESPONSABILIDADE CIVIL. DANOS MORAIS E MATERIAIS. Aluna que sofreu queda durante atividade física nas dependências da escola municipal, fraturando o úmero. Alegação de inadequação da atividade à faixa etária dos alunos e ausência de aviso prévio. Provas dos autos que demonstram que as aulas estavam previstas em cronograma, a participação era facultativa e houve pronto atendimento após o acidente. Inexistência de ato ilícito, omissão ou falha do serviço por parte da Administração Pública. Ausência de responsabilidade civil do ente público. Sentença de improcedência mantida. Recurso improvido.” (Doc. 91, p. 2, destaquei)
+
+Não foram opostos embargos de declaração.
+Nas razões do apelo extremo, Gizelma Pereira da Silva Souza apresenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 37, § 6º, da Constituição da República, asseverando que “a obrigação de indenizar das pessoas jurídicas de direito público é objetiva, fundada no risco administrativo, ou seja, independente da perquirição da culpa da administração e de seus agentes”(Doc. 94, p. 8). Em apoio à sua tese, afirma que “a simples permanência do aluno no ambiente escolar já impõe ao Poder Público o dever de guarda e vigilância, que se traduz na obrigação de preservar a integridade física e psíquica dos estudantes” (Doc. 94, p. 11). Ao final, requer  o provimento do recurso extraordinário para condenar o recorrido “ao pagamento de indenização por danos morais no valor de R$ 60.000,00 (sessenta mil reais), danos estéticos no valor de R$30.000,00 mil reais, indenizando os danos aferidos de forma conclusiva e incontroversa pela perícia judicial realizada” (Doc. 94, p. 12).
+O Município de Caieiras apresentou contrarrazões ao recurso extraordinário (Doc. 101).
+A Presidência da Seção de Direito Público do Tribunal de Justiça do Estado de São Paulo inadmitiu o recurso extraordinário por entender que encontraria óbice na Súmula 279 do Supremo Tribunal Federal (Doc. 102). Irresignada, Gizelma Pereira da Silva Souza interpôs o agravo sub examine (Doc. 109).
+É o relatório. DECIDO.
+O agravo não merece prosperar.
+Na origem, trata-se ação de indenização ajuizada por Gizelma Pereira da Silva Souza contra o Município de Caieiras, objetivando a reparação de danos morais, estéticos e materiais decorrentes de acidente ocorrido durante aula de educação física na Escola de Educação Municipal de Jovens e Adultos Albertina Hanser (Doc. 2).
+O Juízo de Direito da 1ª Vara da Comarca de Caieiras julgou improcedente o pedido, nos termos da fundamentação da sentença, in litteris:
+
+“No presente caso, em que pese a existência de nexo de causalidade entre ‘o acidente e as lesões’ dele decorrentes, não há relação de causalidade entre a atuação (ou omissão) do requerido e o acidente.
+Para que se pudesse fixar a responsabilidade do município requerido, necessário que se comprovasse a omissão de cuidados por parte de seus prepostos no dia dos fatos ou mesmo na periculosidade exacerbada da atividade física oferecida, o que não restou comprovado.
+Segundo a prova documental presente nos autos, a professora responsável pela aula no dia dos fatos prestou imediato socorro à autora, que em seguida foi encaminhada ao pronto socorro (fls. 72/74 e 89/91), o que foi inclusive confirmado pela filha (Jéssica) da autora em ata (fls. 82/85).
+A documentação comprova, ainda, que existia cronograma informando os dias e horários das aulas de educação física, sendo duas aulas semanais (fls. 76 e 78), de modo que não havia como a autora alegar desconhecimento.
+Consta, ainda, ata em que a filha da autora (Jéssica) confirma que ela tinha conhecimento de que a participação em tais aulas era facultativa (fls. 83).
+Sendo assim, como na espécie não se demonstrou especial omissão, negligência, imperícia ou imprudência, por parte da professora responsável pelas aulas no dia dos fatos, tem-se a total ausência de relação de causalidade entre o ato praticado pela administração pública e o acidente ocorrido com a autora, o qual trata-se de ‘fatalidade’ à qual todos estão sujeitos, inclusive durante o dia a dia em atividades físicas casuais.
+(...)
+Sendo assim, como não se comprovou a prática de qualquer ato ilícito ou mesmo omissão por parte do município requerido, tampouco o nexo causal entre a conduta praticada (ou omissão) e o dano, não há que se falar em indenização, seja por dano moral ou material.” (Doc. 79, p. 3-5, destaquei)
+
+A 2ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo negou provimento ao recurso de apelação da autora, nos moldes delineados nos seguintes excertos do voto condutor do acórdão extraordinariamente recorrido:
+
+“Em que pese haja nexo causal entre a fratura e a queda ocorrida no ambiente escolar, é relevante notar que, como apontado na petição inicial, a autora estaria vestindo um macacão e salto alto (fls. 02) durante a atividade de ‘rouba bandeira’ desenvolvida na aula de educação física, não se evidenciando a responsabilidade da ré.
+De acordo com a narrativa da inicial, ‘durante a realização da atividade, a autora perdeu o equilíbrio e sofreu uma grave queda’ (fls. 03).
+As provas dos autos demonstram que as aulas de educação física estavam previstas em cronograma escolar (fls. 76); a participação era facultativa, conforme informado à autora e confirmado por sua filha (fls. 83); houve pronto atendimento após o acidente, com encaminhamento ao pronto socorro (fls. 24 e 87) e não se comprovou omissão, imprudência ou negligência por parte da professora ou da instituição de ensino.
+Nesse contexto, o acidente, embora lamentável, configura-se como fatalidade, sem nexo de causalidade direto com conduta ilícita da Administração Pública.
+4. Com efeito, não se evidencia a responsabilidade estatal pelos danos ocasionados à Autora, dentro das dependências da escola, pois não se vislumbrou qualquer falha ou omissão do Estado, tendo a autora se lesionado por ter se desequilibrado durante atividade de ‘rouba bandeira’, o que ocorreu por estar inadequadamente trajada para a prática de atividade física.
+Note-se que as circunstâncias do acidente descaracterizam o nexo entre a ocorrência do acidente e qualquer ação ou omissão do Estado.” (Doc. 91, p. 6-7, destaquei)
+
+Destarte, verifica-se que, in casu, para divergir das razões do Juízo de Direito e do Tribunal de origem, mormente no que se refere às situações que descaracterizariam o nexo de causalidade material entre o evento danoso e a atividade estatal desempenhada pelos agentes públicos, faz-se necessária a incursão no conjunto fático-probatório dos autos.
+Não se revela cognoscível, em sede de recurso extraordinário, a insurgência que tem como escopo a incursão no contexto fático-probatório presente nos autos. Com efeito, essa pretensão não se amolda à estreita via do apelo extremo, cujo conteúdo se restringe a discussão eminentemente de direito, em face do óbice imposto pela Súmula 279 do Supremo Tribunal Federal.
+Sob esse enfoque, ressoa inequívoca a vocação para o insucesso do apelo extremo, por força do óbice intransponível do referido verbete sumular, que veda a esta Suprema Corte, em sede de recurso extraordinário, sindicar matéria fática.
+Por oportuno, vale destacar a lição de Roberto Rosas sobre a Súmula 279 do Supremo Tribunal Federal:
+
+“Chiovenda nos dá os limites da distinção entre questão de fato e questão de direito. A questão de fato consiste em verificar se existem as circunstâncias com base nas quais deve o juiz, de acordo com a lei, considerar existentes determinados fatos concretos.
+A questão de direito consiste na focalização, primeiro, se a norma, a que o autor se refere, existe, como norma abstrata (Instituições de Direito Processual, 2ª ed., v. I/175).
+Não é estranha a qualificação jurídica dos fatos dados como provados (RT 275/884 e 226/583). Já se refere a matéria de fato quando a decisão assenta no processo de livre convencimento do julgador (RE 64.051, Rel. Min. Djaci Falcão, RTJ 47/276); não cabe o recurso extraordinário quando o acórdão recorrido deu determinada qualificação jurídica a fatos delituosos e se pretende atribuir aos mesmos fatos outra configuração, quando essa pretensão exige reexame de provas (ERE 58.714, Relator para o acórdão o Min. Amaral Santos, RTJ 46/821). No processo penal, a verificação entre a qualificação de motivo fútil ou estado de embriaguez para a apenação importa matéria de fato, insuscetível de reexame no recurso extraordinário (RE 63.226, Rel. Min. Eloy da Rocha, RTJ 46/666).
+A Súmula 279 é peremptória: ‘Para simples reexame de prova não cabe recurso extraordinário’. Não se vislumbraria a existência da questão federal motivadora do recurso extraordinário. O juiz dá a valoração mais conveniente aos elementos probatórios, atendendo aos fatos e circunstâncias constantes dos autos, ainda que não alegados pelas partes. Não se confunda com o critério legal da valorização da prova (RTJ 37/480, 56/65)(Pestana de Aguiar, Comentários ao Código de Processo Civil, 2ª ed., v. VI/40, Ed. RT; Castro Nunes, Teoria e Prática do Poder Judiciário, 1943, p. 383). V. Súmula STJ-7.” (Direito Sumular. 14. ed. São Paulo: Malheiros, 2012. p. 137-138)
+
+Nesse sentido, à guisa de exemplo, foi o julgado proferido pelo Plenário desta Suprema Corte, em caso semelhante, cuja ementa proclama:
+
+“AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. ACIDENTE EM ESCOLA. FRATURA. CULPA ADMINISTRATIVA. NEXO CAUSAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+ 1. O recurso extraordinário é instrumento de impugnação de decisão judicial inadequado para a valoração e exame minucioso do acervo fático-probatório engendrado nos autos, ex vi da Súmula 279 do STF.
+2. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação.
+3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita.” (Recurso Extraordinário com Agravo 1.340.051-ED-AgR, de que fui relator, Plenário, DJe de 28/10/2021, destaquei)
+
+Por fim, observo que o agravo foi interposto sob a égide da nova lei processual, o que impõe a aplicação de sucumbência recursal.
+Ex positis, DESPROVEJO o AGRAVO, com fundamento no artigo 932, inciso VIII, do Código de Processo Civil de 2015 c/c o artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do artigo 85, § 11, do Código de Processo Civil, observada a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 15 de agosto de 2026.
+
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
