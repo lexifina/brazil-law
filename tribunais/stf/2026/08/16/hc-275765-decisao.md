@@ -1,0 +1,34 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Ricardo Aparecido Miguel contra acórdão da Quinta Turma do Superior Tribunal de Justiça, que em 6/8/2024 negou provimento ao AgRg no AREsp 2.642.767/PR (doc. 17, pp. 897-900).
+
+Consta de documento encartado a estes autos que o paciente foi condenado “[...] à pena de 07 anos e 06 meses de reclusão, a ser cumprida em regime inicial semiaberto, além do pagamento de 933 dias-multa, pela prática do crime previsto no artigo 33, caput [tráfico], da Lei nº 11.343/06” (doc. 17, p. 683).
+
+Neste writ, a impetrante sustenta, em síntese, que “[a] presente impetração visa desconstituir o trânsito em julgado ocorrido em 04/09/2024 no bojo do AREsp nº 2.642.767/PR perante este Superior Tribunal de Justiça, sob o fundamento de nulidade absoluta decorrente de invasão de domicílio” (doc. 1, p. 4).
+
+E, ao final, requer:
+
+a) O recebimento e o processamento do presente Habeas Corpus como substitutivo de Revisão Criminal, ante a flagrante nulidade absoluta decorrente da invasão de domicílio ocorrida em 24/10/2021 na Rua Belo Horizonte, nº 105, Pinhais/PR, superando-se o óbice do trânsito em julgado ocorrido em 04/09/2024 no AREsp nº 2.642.767/PR. b) A concessão da medida liminar, presentes o fumus boni iuris e o periculum in mora, para suspender imediatamente os efeitos da condenação imposta nos autos nº 0007314-42.2021.8.16.0033 até o julgamento definitivo deste writ. c) A concessão definitiva da ordem para declarar a nulidade absoluta da ação penal nº 0007314-42.2021.8.16.0033 desde o ingresso ilícito na residência, determinando-se o desentranhamento das provas audiovisuais e fotográficas (mov. 1.2 e 1.6) e de todos os elementos derivados da apreensão sem mandado judicial. d) A absolvição do PACIENTE RICARDO APARECIDO MIGUEL, com fulcro no art. 386, inciso II, do Código de Processo Penal, ante a inexistência de prova da materialidade decorrente da ilicitude probatória, ou, subsidiariamente, pela insuficiência de provas quanto à autoria e materialidade do crime de tráfico. e) A superação do óbice da Súmula 182/STJ, reconhecendo-se a viabilidade do enfrentamento do mérito recursal diante da teratologia da invasão domiciliar comprovada pelo arrombamento do imóvel na presença de menor de idade. f) A expedição imediata de recolhimento de mandado de prisão em favor do PACIENTE, a fim de cessar o constrangimento ilegal à sua liberdade de locomoção. g) A intimação da douta Procuradoria-Geral da República para manifestação e a posterior procedência total do pedido. (doc. 1, pp. 22-23).
+
+É o relatório necessário. Decido.
+
+Colaciono, por oportuno, a ementa do acórdão impugnado:
+
+Ementa PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. I – A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial. II – A parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo Tribunal de origem para inadmitir o recurso especial com relação às Súmulas 211/STJ e 284/STF, em nítida violação ao princípio da dialeticidade. Agravo regimental desprovido. (doc. 17, p. 897 – grifei).
+
+Pois bem. Consta dos autos que esse acórdão da Quinta Turma do Superior Tribunal de Justiça (STJ) foi publicado em 19/8/2024 (doc. 17, p. 901) e transitou em julgado em 4/9/2024. Ocorre, contudo, que, somente em 13/8/2026, a defesa, que é a mesma que representou a paciente nos autos do AREsp 2.642.767/PR, impetrou o presente habeas corpus.
+
+É certo que, por tratar-se de ação constitucional autônoma, o habeas corpus não exige prazo para a sua impetração. Entretanto, entendo que o referido período, compreendido entre a publicação, no STJ, do acórdão em referência e os argumentos constantes deste writ, evidencia, além da incauta tentativa da defesa em inaugurar diretamente a jurisdição desta Suprema Corte, a ausência de situação de flagrante ilegalidade a ser reparada nesta via. Não bastasse isso, e considerada a inexistência de julgamento das questões relacionadas ao mérito desta impetração pelo referido colegiado do STJ, ressalto a inviabilidade, desta ação, como sucedâneo de revisão criminal.
+
+Nessa mesma direção:
+
+Ementa AGRAVO REGIMENTAL. HABEAS CORPUS DEFICIENTEMENTE INSTRUÍDO. AUSENTE CÓPIA DO ATO COATOR. REGULARIZAÇÃO NO AGRAVO REGIMENTAL. DEMASIADO TEMPO DECORRIDO ENTRE A PROLAÇÃO DA DECISÃO IMPUGNADA E A IMPETRAÇÃO DO WRIT. HABEAS CORPUS IMPETRADO CONTRA DECISÃO MONOCRÁTICA DE MINISTRO DO SUPERIOR TRIBUNAL DE JUSTIÇA. INVIABILIDADE. AGRAVO AO QUAL SE NEGA PROVIMENTO. I – No habeas corpus, assim como no mandado de segurança, hão de ser apresentadas provas pré-constituídas do suposto constrangimento ilegal imposto ao paciente. Não cabe ao Relator proceder à regular instrução do processo, a não ser que, da leitura da documentação juntada com a impetração, resulte dúvida fundada, a justificar a realização de diligência, o que não ocorre no caso. II – Por tratar-se de ação constitucional autônoma, o habeas corpus não exige prazo para a sua impetração. Mas, no caso, o período de mais de 1 (um) ano e 5 (cinco) meses, transcorrido entre análise da decisão impugnada e a alegação, constante deste writ, de inobservância da aplicação do tráfico privilegiado, evidencia ausência de flagrante ilegalidade a ser reparada nesta via. III – O art. 102, I, i, da Constituição Federal prescreve que a competência desta Suprema Corte para processar e julgar originariamente a ação constitucional do habeas corpus será inaugurada quando o coator for Tribunal Superior ou quando o coator ou o paciente for autoridade ou funcionário cujos atos estejam sujeitos diretamente à jurisdição do Supremo Tribunal Federal, ou se trate de crime sujeito à mesma jurisdição em uma única instância. Na circunstância, o writ foi impetrado contra decisão monocrática de Ministro do Superior Tribunal de Justiça, o que não se admite. IV – Agravo ao qual se nega provimento. (HC 239.318 AgR/SP, da minha relatoria, Primeira Turma, DJe 2/5/2024 – grifei).
+
+Ementa AGRAVO REGIMENTAL. HABEAS CORPUS SUCEDÂNEO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. AGRAVO AO QUAL SE NEGA PROVIMENTO. I – A jurisprudência deste Supremo Tribunal é firme no sentido de que “[o] writ é impassível de ser manejado como sucedâneo de recurso ou revisão criminal” (HC 233.287 AgR/AL, Rel. Min. Luiz Fux, Primeira Turma, DJe 17/11/2023). II – Agravo ao qual se nega provimento. (HC 236.278 AgR/SP, da minha relatoria, Primeira Turma, DJe 24/4/2024 – grifei).
+
+Ante o exposto, nego seguimento ao habeas corpus (art. 21, § 1°, do Regimento Interno do Supremo Tribunal Federal).
+
+Publique-se.
+
+Brasília, 16 de agosto de 2026.
+
+Ministro Cristiano Zanin
+Relator
