@@ -1,0 +1,30 @@
+Decisão: Trata-se de embargos de declaração opostos contra decisão que negou seguimento à reclamação.  (eDOC 29)
+Em suas razões, a parte embargante sustenta que esta Corte, ao julgar o Tema 4 da repercussão geral, definiu que o novo prazo prescricional de 5 anos só seria aplicável a direitos que não haviam sido judicializados até 9 de junho de 2005. Nesse contexto, aponta contradição na decisão embargada em razão de assentar a aplicação do novo prazo prescricional de 5 anos ao caso dos autos não obstante o direito tenha sido judicializado em 1989.
+Alega ainda omissão quanto à afronta aos princípios da segurança jurídica e da irretroatividade das leis, que impede que a lei nova atinja situações jurídicas já consolidadas sob a vigência da lei anterior.
+É o breve relatório. Decido.
+Os embargos de declaração são cabíveis para sanar a ocorrência de omissão, contradição, obscuridade ou erro material da decisão embargada (art. 1.022 do CPC/2015). No presente caso, não se verifica nenhuma dessas hipóteses.
+Com efeito, os embargos de declaração não constituem meio processual cabível para reforma do julgado, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais, ora não vislumbradas.
+Nesse sentido, confira-se a jurisprudência dominante do Supremo Tribunal Federal: AI-AgR-ED 808.362, Ellen Gracie, Segunda Turma, DJe 24.2.2011; e AI-AgR-ED 674.130, Ricardo Lewandowski, Primeira Turma, DJe 22.2.2011.
+Na hipótese, a parte sustenta que esta Corte, ao julgar o Tema 4 da repercussão geral, definiu que o novo prazo prescricional de 5 anos seria aplicável a ações propostas até 9 de junho de 2005. Nesse contexto, aponta contradição na decisão embargada em razão de assentar a aplicação desse prazo ao caso dos autos, embora o direito tenha sido judicializado em 1989.
+Não obstante, conforme consignado na decisão embargada, não vislumbro sequer a aplicação do referido tema na hipótese, julgado por esta Corte no âmbito da repercussão geral, conforme se verifica da ementa abaixo transcrita:
+
+“TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. PRAZO PRESCRICIONAL DE CINCO ANOS CONTADOS DO TRÂNSITO EM JULGADO DA SENTENÇA. SÚMULA 150/STF. PROCEDIMENTO ADMINISTRATIVO DE COMPENSAÇÃO TRIBUTÁRIA. AUSÊNCIA DE CAUSA INTERRUPTIVA DA PRESCRIÇÃO EXECUTIVA. SÚMULA 625/STJ. PROVIMENTO NEGADO. 1. O Superior Tribunal de Justiça consolidou o entendimento de que o prazo prescricional da pretensão executória do contribuinte é de cinco anos, conforme previsto no art. 168 do Código Tributário Nacional e na Súmula 150/STF ("Prescreve a execução no mesmo prazo de prescrição da ação"), contando-se, na hipótese dos autos, do trânsito em julgado da sentença que reconheceu o direito à restituição dos valores indevidamente pagos. 2. O procedimento de compensação na esfera administrativa não constitui causa interruptiva da prescrição executiva segundo o entendimento consolidado na Súmula 625/STJ: "O pedido administrativo de compensação ou de restituição não interrompe o prazo prescricional para a ação de repetição de indébito tributário de que trata o art. 168 do CTN nem o da execução de título judicial contra a Fazenda Pública". 3. Agravo interno a que se nega provimento”. (eDOC 16, p. 2)
+
+Além disso, com relação à tese firmada no referido precedente, registro que, no julgamento de mérito, esta Corte declarou a inconstitucionalidade do art. 4º, segunda parte, da Lei Complementar 118/2005, considerando-se válida a aplicação do novo prazo de cinco anos tão somente às ações ajuizadas após o decurso da vacatio legis de 120 dias, isto é, a partir de 9 de junho de 2005.
+Na ocasião, firmou-se a orientação no sentido de que a lei não poderia retroagir para atingir pretensões já ajuizadas, ou seja, direitos já exercidos, seja mediante requerimento administrativo ou, se necessário, ajuizamento de ação judicial.
+Na oportunidade, o Pleno desta Corte firmou a tese de que ”é inconstitucional o art. 4º, segunda parte, da Lei Complementar 118/2005, de modo que, para os tributos sujeitos a homologação, o novo prazo de 5 anos para a repetição ou compensação de indébito aplica-se tão somente às ações ajuizadas após o decurso da vacatio legis de 120 dias, ou seja, a partir de 9 de junho de 2005”.
+Ocorre que referida tese trata do prazo prescricional para o exercício da pretensão de repetição do indébito, ou seja, para pleitear, em juízo, o reconhecimento de que o pagamento foi indevido ou para proceder à compensação administrativa.
+Na hipótese, a pretensão de repetição do indébito foi ajuizada dentro do prazo legal. Entretanto, verificou-se, na verdade, a prescrição da execução do crédito tributário, uma vez que a ação executiva foi proposta apenas mais de nove anos após o trânsito em julgado da decisão condenatória.
+Nesse contexto, reitero que as razões suscitadas pela parte para afastar a conclusão do tribunal reclamado decorrem de análise da interrupção do prazo prescricional, matéria infraconstitucional, para a propositura de execução de título executivo em ação de repetição de indébito, e não da tese firmada no referido precedente.
+Assim, não se verifica similitude entre o caso dos autos e a matéria tratada no Tema 4, o que acarreta a inadmissibilidade da ação, por ausência de pressuposto de cabimento necessário.
+Nesses termos, saliento o entendimento do STF no sentido de que o instrumento processual da reclamação não pode ser empregado como sucedâneo recursal ou atalho processual para fazer chegar a causa diretamente ao Supremo Tribunal Federal, conforme ocorre nestes autos.
+Confiram-se, a propósito, os seguintes precedentes: Rcl 9.545, Rel. Min. Dias Toffoli, Tribunal Pleno, DJe 13.5.2010; e Rcl 5.494, Rel. Min. Celso de Mello, Tribunal Pleno, DJe 11.12.2009.
+Desse modo, inexistem omissão, contradição, obscuridade a serem sanadas na decisão ora impugnada.
+Ante o exposto, rejeito os embargos de declaração (art. 1024, §2º, do CPC).
+
+Publique-se.
+Brasília, 17 de agosto de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
