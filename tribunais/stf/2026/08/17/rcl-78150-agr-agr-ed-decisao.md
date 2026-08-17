@@ -1,0 +1,20 @@
+DECISÃO: Trata-se de embargos de declaração opostos contra decisão de minha lavra que reconsiderou as decisões anteriores e julgou parcialmente procedente a reclamação constitucional para cassar o ato reclamado e determinar a observância dos termos do acordo homologado nos autos do MS 28.819/DF no tocante à absorção da Unidade de Referência Padrão de 1989 (URP/89).
+Em suas razões, a parte embargante sustenta omissão na decisão embargada.
+Assevera que “a Universidade Federal de Goiás - UFG não participou do acordo extrajudicial homologado nos autos do MS 28.819/DF e não assumiu voluntariamente qualquer obrigação” (eDOC 40, p. 2), desse modo argumenta que “torna-se imprescindível que haja manifestação expressa acerca da extensão dos efeitos do acordo extrajudicial homologado nos autos do MS 28.819/DF em relação a entidade reclamada, afastando, assim, de uma vez por todas, as dúvidas existentes quanto ao cumprimento dos seus termos pelo ente público demandado” (eDOC 40, p. 2).
+É o breve relatório.
+Decido.
+Os embargos de declaração são cabíveis para sanar a ocorrência de omissão, contradição, obscuridade ou erro material da decisão embargada (art. 1.022 do NCPC). No presente caso, não se verifica nenhuma dessas hipóteses.
+Com efeito, os embargos de declaração não constituem meio processual cabível para reforma do julgado, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais, ora não vislumbradas.
+Nesse sentido, confira-se a jurisprudência dominante do Supremo Tribunal Federal: AI-AgR-ED 808.362, Ellen Gracie, Segunda Turma, DJe 24.2.2011; AI-AgR-ED 674.130, Ricardo Lewandowski, Primeira Turma, DJe 22.2.2011; Rcl 25.195 AgR-ED, de minha relatoria, Segunda Turma, DJe 10.10.2017; e Rcl 12.416 AgR-ED, Edson Fachin, Tribunal Pleno, DJe 13.3.2018.
+Ademais, conforme consignado na decisão embargada, o deslocamento de servidor público, juntamente com seu cargo, por redistribuição, para ente público diverso, não se mostra suficiente para a suspensão do pagamento da verba. Isso porque a manutenção do pagamento da URP/89 encontra amparo no que disposto expressamente no art. 37 da Lei 8.112/1991, que define os pressupostos para o deferimento da redistribuição.
+Tem-se, assim, que, ainda que a redistribuição tenha ocorrido a pedido do servidor, seu deferimento pelo órgão de origem depende da demonstração de um conjunto de elementos, como: que a redistribuição seja realizada no interesse da Administração Pública; a manutenção da essência das atribuições do cargo de origem; e a equivalência de vencimentos entre ambos os cargos.
+Vale salientar que o significado que se extrai de equivalência de vencimentos previsto na norma mencionada confere materialidade ao princípio da irredutibilidade de vencimentos do servidor público, na forma do art. 37, XV, do texto constitucional. Dessa forma, uma vez configurada a equivalência entre as remunerações pagas no cargo de origem e no cargo de destino, a manutenção dessa equivalência assegura que o deslocamento da função entre órgãos públicos não implique prejuízo ao servidor com a eventual redução de seus vencimentos.
+Portanto, estando presentes os requisitos legais para o deferimento da redistribuição, notadamente o interesse da Administração Pública e equivalência dos vencimentos, aferidos no momento de proferimento do ato administrativo, tem-se configurada a obrigatoriedade de se preservar a remuneração recebida pela servidora. Desse modo, entendo que o reclamante é beneficiário da decisão proferida nos autos do MS 28.819/DF, de forma que devem ser observados pela parte embargante os ajustes entabulados no acordo extrajudicial homologado no que tange à absorção da rubrica relativa à Unidade de Referência Padrão de 1989 (URP), com vistas à preservação da equivalência dos vencimentos e à  irredutibilidade de vencimentos.
+Desse modo, inexistem omissão, contradição, obscuridade ou erro material a serem sanados na decisão ora impugnada.
+Ante o exposto, rejeito os embargos de declaração (art. 1024, §2º, do CPC).
+Publique-se.
+Brasília, 17 de agosto de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
