@@ -1,0 +1,81 @@
+DECISÃO
+
+Trata-se de Recurso Extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Piauí, assim ementado (Doc. 9):
+
+“CIVIL. PROCESSO CIVIL. APELAÇÃO CÍVEL. DIREITO À VIDA E À SAÚDE. DEVER CONSTITUCIONAL DO ESTADO. OBRIGAÇÃO SOLIDÁRIA DOS ENTES PÚBLICOS. PREVALÊNCIA DO PRINCÍPIO DA DIGNIDADE DA PESSOA HUMANA. RECURSO CONHECIDO E IMPROVIDO.
+1. Em hipóteses excepcionais, o Poder Judiciário pode determinar a implementação de políticas públicas sem configurar ofensa ao princípio da separação dos Poderes, nas questões relativas ao direito constitucional à saúde.
+2. Trata-se de obrigação solidária de todos os entes federativos, podendo ser pleiteado de qualquer deles, União, Estados, Distrito Federal ou Municípios. cabendo ao autor a escolha do demandado. Inteligência da Súmula nº 02 (TJPI).
+3. É dever do apelante promover o bem-estar e a saúde dos cidadãos, não podendo se eximir de realizar o procedimento cirúrgico requerido pela apelada em outra cidade (neste caso, em São Paulo), posto que o Estado do Piauí não oferta o referido procedimento, devendo ainda custear todas as despesas necessárias à sua realização, conforme determinado em sentença, sob pena de não se atingir o fim pretendido.
+4. Prevalência do princípio da dignidade da pessoa humana ante qualquer outro valor.
+5. Os laudos médicos expedidos por serviços médicos particulares são válidos e suficientes para a aferição da existência do direito líquido e certo da apelada.
+6. Recurso conhecido e improvido.”
+
+Opostos embargos de declaração (Doc. 11), foram acolhidos para acrescentar ao dispositivo do acórdão “a tese firmada em julgamento de casos repetitivos (tema 1033) para que o ressarcimento seja feito de acordo com as normas definidas pela ANS” (Doc. 14).
+No recurso extraordinário (Doc. 17), interposto com amparo no art. 102, III, "a", da CF/1988, ESTADO DO PIAUÍ aponta violação aos arts. 23, II; 196; e 198, caput, e I, da Constituição Federal, bem como a tese fixada no Tema 793/STF.
+Alega que o acórdão recorrido não observou a estrutura descentralizada, regionalizada e hierarquizada do SUS, além da repartição constitucional de competências entre os entes federativos nas demandas de saúde.
+Sustenta que, embora haja responsabilidade solidária, cabe ao Poder Judiciário direcionar o cumprimento das decisões conforme as atribuições de cada ente, nos termos da tese fixada pelo STF no Tema 793 da repercussão geral, e que o procedimento pleiteado deveria ser viabilizado por meio da CNRAC, cuja gestão compete à União, razão pela qual seria necessária sua participação na demanda e a remessa do processo à Justiça Federal.
+Ao final, requer o provimento do recurso para julgar improcedentes os pedidos iniciais.
+Em juízo negativo de retratação ao Tema 793/STF, o órgão julgador manteve o acórdão recorrido, nos termos da seguinte ementa (Doc. 21):
+
+“Direito à saúde. Juízo de retratação. Procedimento cirúrgico especializado fora do domicílio. Responsabilidade solidária dos entes federativos. Tema 793/STF. Conformidade do acórdão recorrido com a tese de repercussão geral. Manutenção da decisão anterior.
+I. Caso em exame: Trata-se de reanálise do acórdão proferido pela 4ª Câmara de Direito Público do TJPI, em sede de juízo de retratação (art. 1.030, II, do CPC), decorrente de decisão da Vice-Presidência que apontou possível desconformidade com a tese fixada no Tema 793 do STF, ao apreciar recurso extraordinário interposto pelo Estado do Piauí.
+Na origem, ação de obrigação de fazer ajuizada por paciente pleiteando a realização de cirurgia fora do domicílio (São Paulo), com custeio integral das despesas (passagens, hospedagem e medicamentos), ante a inexistência do procedimento na rede pública estadual. A sentença foi de procedência, mantida em grau recursal.
+(...)
+III. Razões de decidir:
+O acórdão reconheceu expressamente a responsabilidade solidária dos entes federativos, em consonância com a jurisprudência da Corte e a Súmula nº 02 do TJPI.
+A tese firmada no Tema 793/STF permite o direcionamento da obrigação ao ente efetivamente demandado, sem exigir litisconsórcio ou distribuição do ônus no julgamento.
+Quando apenas um ente é demandado, presume-se legítima a execução da obrigação exclusivamente contra ele, sendo desnecessária menção expressa a ressarcimento.
+A jurisprudência do STJ (AgInt no REsp 1.043.168/RS) reafirma que, em demandas unilaterais, não há exigência de individualização do responsável financeiro ou previsão de compensação entre entes.
+Inexistindo afronta ao Tema 793/STF, é incabível a retratação do acórdão proferido.
+IV. Dispositivo e tese:
+Mantenho o não provimento da apelação, em juízo de retratação negativo (arts. 1.040, II, e 1.041 do CPC), por ausência de violação à tese fixada no Tema 793 do STF.
+Tese de julgamento:
+“É legítima a condenação de ente federativo individualmente demandado ao custeio de procedimento de saúde essencial, mesmo sem menção expressa à possibilidade de ressarcimento entre os entes solidários.”
+“A ausência de discriminação do ente público responsável pela execução da obrigação, em ações ajuizadas contra apenas um dos entes federativos, não configura afronta à tese firmada no Tema 793/STF.””
+
+Em seguida, o Tribunal de origem admitiu o RE (Doc. 24).
+É o relatório. Decido.
+
+No julgamento do RE 855.178-RG, o SUPREMO TRIBUNAL FEDERAL reafirmou sua jurisprudência no sentido da existência de responsabilidade solidária dos entes federados no dever de prestar assistência à saúde. Confira-se a ementa do julgado:
+
+“RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E ADMINISTRATIVO. DIREITO À SAÚDE. TRATAMENTO MÉDICO. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERADOS. REPERCUSSÃO GERAL RECONHECIDA. REAFIRMAÇÃO DE JURISPRUDÊNCIA. O tratamento médico adequado aos necessitados se insere no rol dos deveres do Estado, porquanto responsabilidade solidária dos entes federados. O polo passivo pode ser composto por qualquer um deles, isoladamente, ou conjuntamente.”.
+
+Posteriormente, ao rejeitar os Embargos de Declaração opostos em face do Acórdão acima citado, esta CORTE fixou a seguinte tese:
+
+“Os entes da federação, em decorrência da competência comum, são solidariamente responsáveis nas demandas prestacionais na área da saúde, e diante dos critérios constitucionais de descentralização e hierarquização, compete à autoridade judicial direcionar o cumprimento conforme as regras de repartição de competências e determinar o ressarcimento a quem suportou o ônus financeiro.”.
+
+Verifica-se, portanto, que, embora reconheça a existência de solidariedade entre os entes federados nas questões envolvendo a saúde pública, o STF decidiu, na tese fixada nos referidos embargos, que a autoridade judicial tem o dever de direcionar o cumprimento dessas demandas, conforme as regras de repartição de competências estabelecidas pela lei orgânica do SUS, bem como determinar ressarcimento a quem suportou o ônus financeiro.
+Como bem explicou o eminente Min. GILMAR MENDES, no julgamento de caso semelhante (RE 1.573.986, DJe 5/11/2025):
+
+“Espera-se, portanto, da autoridade judicial nas instâncias inferiores, dois tipos de atuação: uma prospectiva, de direcionar o cumprimento da obrigação ao ente responsável (nos casos de obrigações de trato sucessivo); e uma declaratório-constitutiva, de determinar o ressarcimento pelo cumprimento efetivo da obrigação pretéria, ou seja, já cumprida. Para tanto, faz-se necessário compreender as regras de financiamento e repartição de competências no âmbito do SUS.
+O Sistema Único de Saúde é constituído pelo conjunto de ações e serviços de saúde, prestados por órgãos e instituições públicas federais, estaduais e municipais, da Administração direta e indireta e das fundações mantidas pelo Poder Público (art. 4, Lei n. 8.080/90). As ações e serviços de saúde, executados pelo SUS, seja diretamente ou mediante participação complementar da iniciativa privada, serão organizados de forma regionalizada e hierarquizada em níveis de complexidade crescente (baixa, média e alta), conforme dicção do artigo 8 da Lei n. 8.080/90.
+Ainda de acordo com a Lei n. 8.080/90, as Comissões Intergestores Bipartite e Tripartite (CIB e CIT, respectivamente) são reconhecidas como foros de negociação e pactuação entre gestores, quanto aos aspectos operacionais do SUS, cuja atuação tem como objetivo, dentre outros, “decidir sobre os aspectos operacionais, financeiros e administrativos da estão compartilhada do SUS, em conformidade com a definição da política consubstanciada em planos de saúde, aprovados pelos conselhos de saúde”.
+A legislação prevê ainda que, “no nível municipal, o SUS, poderá organizar-se em distritos de forma a integrar e articular recursos, técnicas e práticas voltadas para a cobertura total das ações de saúde”, bem como que “os municípios poderão constituir consórcios para desenvolver em conjunto as ações e os serviços de saúde que lhes correspondam” (art. 10 da Lei n. 8.080/90).
+Portanto, identificar a responsabilidade de cada ente pela prestação específica em saúde e pelo financiamento respectivo, vai muito além de uma interpretação constitucional ou uma análise do enquadramento fático da matéria à norma constitucional no caso concreto.
+Demanda análise da legislação infraconstitucional, das normativa dos entes e órgãos responsáveis pela execução das políticas do SUS, além de eventual matéria fático-probatória consistente na pactuação pontual de prestações e/ou serviços de saúde (como quando o município se organiza em consórcio ou assume a gestão plena do sistema municipal de saúde em seu território, responsabilizando-se pela gestão integral das ações e serviços de saúde de todos os níveis de complexidade dentro de sua extensão territorial).
+Deve-se consignar, ademais, que nem sempre o ente responsável pelo financiamento é o mesmo responsável pela execução da prestação em saúde, ou seja, essas atribuições (de financiamento e de execução) podem estar divididas, recaindo a responsabilidade pelo financiamento em um ente e a execução em outro.
+Assim, nos termos do Tema 793, caberá ao juiz analisar se o direito subjetivo pleiteado satisfaz os critérios constitucionais e legais para seu deferimento pelo SUS e/ou SUAS, e, uma vez sendo deferido, direcionar o cumprimento da ação em relação ao Ente federado competente pelo seu fornecimento, garantindo o ressarcimento, se for o caso, nos termos da legislação infraconstitucional incidente e eventuais pactuações locais, ou ainda, se necessário, determinar o deslocamento de competência.”
+
+No caso concreto, o Tribunal de origem limitou-se a reconhecer a responsabilidade do ESTADO DO PIAUÍ pela prestação de saúde pleiteada (procedimento cirúrgico a ser realizado na cidade de São Paulo), a partir do argumento de que “por se tratar de responsabilidade solidária, deve ser reconhecida a legitimidade de quaisquer deles para figurar no polo passivo da demanda, cabendo ao autor a escolha do demandado” (Doc. 9, fl. 4).
+Instada a reexaminar a controvérsia à luz do Tema 793 da repercussão geral, o órgão julgador manteve a responsabilidade do ESTADO DO PIAUÍ pela prestação de saúde pleiteada, rejeitando o pedido de direcionamento da obrigação para fins de ressarcimento, sob o fundamento de que, sendo o único demandado na ação, não há necessidade de se indicar o responsável financeiro pelo cumprimento da obrigação e determinar eventual ressarcimento do ente público que suportou o ônus financeiro da obrigação.
+Veja-se o seguinte trecho do voto condutor do acórdão proferido em juízo negativo de retratação (Doc. 21, fl. 3):
+
+“Ademais, a própria tese fixada pelo STF autoriza o direcionamento da obrigação ao ente demandado, cabendo, se for o caso, a apuração de eventual ressarcimento por vias próprias, especialmente quando não demonstrada a atuação exclusiva de outro ente na política pública em questão.
+Evidentemente que o único ente público demandado (Estado do Piauí) é quem deverá cumprir a decisão judicial e suportar o ônus financeiro dela decorrente, sem prejuízo de eventual direito regressivo frente aos demais entes solidários.
+Acrescente-se que somente quando a ação é proposta contra mais de um ente da federação há a necessidade de o magistrado indicar, na própria sentença ou acórdão, o responsável financeiro pelo cumprimento da obrigação e determinar eventual ressarcimento do ente público que suportou o ônus financeiro da obrigação.
+Em se tratando de ação ajuizada apenas contra um dos entes federativos, como no caso concreto, presume-se legítima a execução contra o demandado. (...)”
+
+Ao assim decidir, o acórdão recorrido violou o estabelecido no julgamento do Tema 793 da repercussão geral, pois deixou de “direcionar o cumprimento conforme as regras de repartição de competências e determinar o ressarcimento a quem suportou o ônus financeiro”.
+Nesse sentido:
+
+“EMENTA Agravo regimental e segundo agravo regimental em recurso extraordinário. Direito à saúde. Fornecimento de insumos e medicamentos para tratamento de diabetes mellitus tipo 1. Responsabilidade solidária dos entes federados. Inclusão da União no polo passivo. Competência da Justiça Federal. Tema nº 793 da Repercussão Geral. Precedentes. 1. A jurisprudência da Suprema Corte tem entendido que a interpretação do Tema nº 793 deve considerar a existência de solidariedade entre todos os entes em caso de competência comum, mas deve observar o direcionamento necessário da demanda judicial ao ente responsável pela prestação específica pretendida, permitindo que o cumprimento seja direto e eventual ressarcimento, eficaz. 2. “Em se tratando de pedido para disponibilização de produto não incluído nas políticas públicas do SUS para o fim desejado, a participação da União se torna imprescindível, especialmente para que a autoridade judicial possa, ‘diante dos critérios constitucionais de descentralização e hierarquização direcionar, caso a caso, o cumprimento conforme as regras de repartição de competências e determinar o ressarcimento a quem suportou o ônus financeiro’, conforme determinado no RE 855.178-ED (Tema 793-RG)” (RE nº 1.564.085/RS-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 10/12/25). 3. Agravos regimentais não providos. (RE 1594871 AgR, Relator(a): DIAS TOFFOLI, Segunda Turma, julgado em 29-04-2026, PROCESSO ELETRÔNICO DJe-s/n  DIVULG 30-04-2026  PUBLIC 04-05-2026)
+
+“Ementa: CONSTITUCIONAL E PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. “AMIGDALECTOMIA” PARA TRATAMENTO DE HIPERTROFIA DAS AMÍGDALAS. CUSTEIO PELO APORTE DE RECURSOS FEDERAIS. NECESSIDADE DE INCLUSÃO DA UNIÃO NO POLO PASSIVO. COMPETÊNCIA DA JUSTIÇA FEDERAL. OFENSA AO QUE DECIDIDO POR ESTE TRIBUNAL NO JULGAMENTO DO TEMA 793 DA REPERCUSSÃO GERAL. RECURSO DESPROVIDO. I. CASO EM EXAME 1. Agravo Interno em face de decisão que julgou procedente a Reclamação. II. QUESTÃO JURÍDICA EM DISCUSSÃO 2. Discute-se a correta interpretação e aplicação da tese fixada no Tema 793-RG, RE 855.178, Rel. Min. LUIZ FUX, Redator p/ Acórdão Min. EDSON FACHIN. III. RAZÕES DE DECIDIR 3. A interpretação do Tema 793 da Repercussão Geral deve considerar a existência de solidariedade entre todos os entes em caso de competência comum, mas deve observar o direcionamento necessário da demanda judicial ao ente responsável pela prestação específica pretendida, permitindo-se que o cumprimento seja direto e, eventual ressarcimento, eficaz. 4. Hipótese em que é obrigatória a participação da União no polo passivo da demanda, especialmente para que a autoridade judicial possa “diante dos critérios constitucionais de descentralização e hierarquização direcionar, caso a caso, o cumprimento conforme as regras de repartição de competências e determinar o ressarcimento a quem suportou o ônus financeiro”, conforme assentado no RE 855.178-ED (Tema 793-RG). IV. DISPOSITIVO 5. Recurso de Agravo a que se nega provimento.” (Rcl 87146 AgR / RS, Primeira Turma, DJe de de 8/5/2026)
+
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, DOU PROVIMENTO AO RECURSO EXTRAORDINÁRIO para anular o acórdão recorrido e determinar a devolução dos autos à origem para que outro seja proferido em conformidade com o Tema 793 da repercussão geral.
+Publique-se.
+Brasília, 18 de agosto de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
