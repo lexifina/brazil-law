@@ -1,0 +1,72 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado por Roberto Rodrigues Ferreira, em face do acórdão do Tribunal de Justiça do Estado de Mato Grosso, assim ementado:
+
+“DIREITO ADMINISTRATIVO. APELAÇÃO CÍVEL. PROCESSO ADMINISTRATIVO DISCIPLINAR. PRESCRIÇÃO PENAL SUPERVENIENTE. INDEPENDÊNCIA DAS INSTÂNCIAS PENAL E ADMINISTRATIVA. IMPOSSIBILIDADE DE REVISÃO DO MÉRITO ADMINISTRATIVO PELO PODER JUDICIÁRIO. INOVAÇÃO RECURSAL. RECURSO NÃO PROVIDO.
+I. Caso em exame
+ 1. Recurso de apelação interposto por servidor público contra sentença que julgou improcedente ação anulatória de penalidade administrativa, objetivando o reconhecimento da extinção da punibilidade administrativa em razão de prescrição penal superveniente e alegando, ainda, desproporcionalidade da pena de demissão aplicada no processo administrativo disciplinar.
+II. Questão em discussão
+2. Há duas questões em discussão: (i) definir se a extinção da punibilidade na esfera penal, por reconhecimento da prescrição da pretensão punitiva, repercute sobre o processo administrativo disciplinar; e (ii) verificar se é admissível a discussão sobre a proporcionalidade da penalidade aplicada quando a matéria não foi alegada na petição inicial, configurando inovação recursal.
+III. Razões de decidir
+3. O controle jurisdicional sobre atos administrativos disciplinares limita-se à verificação da legalidade do procedimento, em conformidade com os princípios do contraditório, da ampla defesa, do devido processo legal, da razoabilidade e da proporcionalidade. O Judiciário não pode adentrar no mérito administrativo, sob pena de violação ao princípio da separação dos poderes, conforme reiterada jurisprudência do STJ.
+ 4. A prescrição penal não tem o condão de invalidar ou desconstituir a sanção administrativa já aplicada, dada a independência entre as instâncias administrativa e penal, salvo nos casos em que a sentença penal reconhece inexistência do fato ou negativa de autoria, o que não ocorreu no caso concreto.
+ 5. A demissão foi imposta em decisão administrativa definitiva proferida antes do reconhecimento judicial da prescrição penal, não havendo como retroagir os efeitos da extinção da punibilidade penal para alcançar o processo administrativo já encerrado.
+6. A alegação de desproporcionalidade da pena aplicada não foi deduzida na petição inicial e configura inovação recursal, vedada pelo art. 1.014, do CPC, diante da ausência de justificativa por força maior.
+ IV. Dispositivo e tese
+7. Recurso de apelação conhecido e não provido.
+ Tese de julgamento: “1. A extinção da punibilidade na esfera penal pela prescrição não interfere na validade da sanção administrativa já aplicada, em razão da independência entre as instâncias. 2. O controle jurisdicional de ato administrativo disciplinar limita-se à legalidade do procedimento, sendo vedado ao Judiciário reavaliar o mérito da decisão administrativa. 3. Configura inovação recursal a alegação de desproporcionalidade da pena em grau de apelação quando não arguida na petição inicial”. (Apelação Cível nº 1004432-65. 2025.8.11.004, Rel. Des. Maria Aparecida Ferreira Fago, 2ª Câmara de Direito Público e Coletivo do TJMT, j. 11/11/2025)
+
+No recurso extraordinário, sustenta-se violação dos arts. 5º, XXXVI e 37, caput, da Constituição da República. Defende, em síntese, que a prescrição da pretensão punitiva criminal vincularia a esfera administrativa, razão pela qual não subsistiria a demissão do recorrente.
+É o relatório.
+Decido.
+O recurso não comporta seguimento.
+Da leituras das razões recursais, nota-se que o recorrente não indicou concretamente como os dispositivos constitucionais teriam sido violados, tecendo argumentações meramente genéricas. Nesse contexto, é aplicável o entendimento vertido na Súmula nº 284/STF: “é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia”. Nesse sentido:
+
+“Direito Processual Civil. Embargos de declaração em Agravo interno em recurso extraordinário com agravo. Embargos à execução. Juros e capitalização e mensal. Afirmação genérica de ofensa a dispositivo constitucional. Súmula 284/STF. Pretensão meramente infringente. 1. Não há erro, obscuridade, contradição ou omissão no acórdão questionado, o que afasta a presença dos pressupostos de embargabilidade, conforme o art. 1.022 do CPC/2015. 2. A via recursal adotada não se mostra adequada para a renovação de julgamento que ocorreu regularmente. 3. Embargos de declaração rejeitados.” (ARE 1465143 AgR-ED, Relator(a): Luís Roberto Barroso (Presidente), Tribunal Pleno, DJe 15-03-2024)
+“AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284 DO STF. REAPRECIAÇÃO DE PROVAS. INADMISSIBILIDADE. SÚMULA 279 DO STF. 1. A argumentação recursal que não indica com clareza norma constitucional que tenha sido afrontada pelo acórdão impugnado e se mostra excessivamente genérica é inapta à alteração do julgado. Aplicação, por analogia, da Súmula 284 do STF. 2. Se a conclusão pretendida pelo recorrente implica novo exame do acervo probatório dos autos, é inafastável o óbice sumular 279 do STF. 3. Agravo interno a que se nega provimento.” (ARE 1055435 AgR, Relator(a): Alexandre de Moraes, Primeira Turma, DJe 07-11-2017)
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO: SÚMULAS NS. 283 E 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 1358410 AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 05-04-2022)
+Ainda que superado o óbice, o recurso não comportaria provimento.
+Isso porque a jurisprudência deste Supremo Tribunal Federal é sólida e reiterada na afirmação da independência entre as esferas de responsabilização, como demonstram os seguintes precedentes:
+
+“Direito processual penal. Agravo regimental no habeas corpus. Homicídio culposo. Trancamento da ação penal. Impossibilidade. Presença dos requisitos do art. 41 do Código de Processo Penal. Absolvição pelo Tribunal Marítimo. Irrelevância. Independência das instâncias penal e administrativa. Agravo regimental desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão em que deneguei a ordem de habeas corpus, por reputar inexistente ilegalidade manifesta ou constrangimento ilegal passível de correção pela via estreita do mandamus.
+II. Questão em discussão
+2. Inépcia da denúncia que imputa do crime de homicídio culposo ao agravante. 3. Ausência de justa causa para a persecução penal, em razão da absolvição em investigação conduzida pelo Tribunal Marítimo.
+III. Razões de decidir
+4. A denúncia não destoa dos requisitos previstos no artigo 41 do Código de Processo Penal, contendo a exposição do fato criminoso imputado ao agravante, com todas as suas circunstâncias e minúcias, além de sua qualificação, da classificação típica do crime e do rol das testemunhas.
+5. A jurisprudência desta Corte é firme no sentido de reconhecer a independência entre as esferas penal, cível e administrativa, de modo que não há nenhuma ilegalidade na apuração dos fatos na instância criminal quando havida absolvição na esfera administrativa ou cível. Precedentes.
+IV. Dispositivo
+6. Agravo regimental desprovido.” (HC 253353 AgR, Relator(a): GILMAR MENDES, Segunda Turma, DJe 16-06-2025)
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. IMPROBIDADE ADMINISTRATIVA. EXISTÊNCIA DE TÍTULO ORIUNDO DO TRIBUNAL DE CONTAS. IMPOSSIBILIDADE DE UTILIZAÇÃO DE DECISÃO DA CORTE DE CONTAS PARA EXONERAR O RECORRENTE DO RESSARCIMENTO DE VERBA EM AÇÃO CIVIL PÚBLICA. INDEPENDÊNCIA DE INSTÂNCIAS. NEGATIVA DE PROVIMENTO.
+I. CASO EM EXAME
+1. Agravo Interno em face de decisão monocrática, na qual dei parcial provimento ao recurso extraordinário, a fim de possibilitar o ressarcimento integral do dano em ação civil pública, e apliquei a Súmula 279 do STF quanto às questões remanescentes.
+II. QUESTÃO EM DISCUSSÃO
+2. A decisão impugnada deu parcial provimento ao recurso extraordinário interposto pelo Ministério Público Federal, modificando o acórdão unicamente quanto à exclusão do ressarcimento integral do dano, no âmbito de ação civil pública por ato de improbidade administrativa.
+III. RAZÕES DE DECIDIR
+3. O título emitido pelo Tribunal de Contas da União resulta do descumprimento de normas relacionadas à adequada aplicação de recursos públicos, limitando-se à esfera administrativa. Por outro lado, o título proveniente do Poder Judiciário tem origem na infração aos dispositivos previstos na Lei de Improbidade Administrativa.
+4. Este Tribunal mantém entendimento consolidado de que o ingresso de uma ação civil pública não impede a competência do Tribunal de Contas da União para iniciar a tomada de contas especial e determinar a restituição de valores indevidamente recebidos pelo responsável. Isso ocorre devido à independência existente entre as esferas civil, administrativa e penal.
+5. O acórdão recorrido, ao afastar o ressarcimento integral do dano, decidiu em dissonância ao entendimento firmado por esta Corte.
+6. A petição do agravo regimental não trouxe novos argumentos aptos a desconstituir a decisão agravada, a qual deve ser mantida.
+IV. DISPOSITIVO
+7. Agravo regimental a que se nega provimento. Sem honorários, por se tratar de ação civil pública na origem ( art. 18 da Lei 7.347/1985).” (RE 1527064 AgR, Relator(a): EDSON FACHIN, Segunda Turma, DJe 11-07-2025)
+
+“Agravo regimental em recurso ordinário em mandado de segurança. Impetração rejeitada pelo Superior Tribunal de Justiça com fundamento na ausência de vícios no procedimento administrativo que culminou com a cassação da aposentadoria do impetrante. Acúmulo patrimonial de servidor público incompatível com sua renda, o que lhe impõe o ônus de demonstrar sua regularidade. Independência entre as esferas cível, administrativa e penal. Inexistência de ofensa a direito líquido e certo. Agravo regimental a que se nega provimento.
+1. A segurança foi denegada pelo Superior tribunal de Justiça porque não se vislumbrou padecer de nenhum vício o processo administrativo em questão.
+2. O acúmulo patrimonial de servidor público incompatível com sua renda impõe-lhe o ônus de demonstrar sua regularidade.
+3. A definitiva rejeição de ação civil pública por improbidade administrativa, ajuizada com fundamento nos mesmos fatos, não interfere com a sorte da presente impetração, dada a absoluta independência entre as esferas cível, administrativa e penal.
+4. Agravo regimental a que se nega provimento.” (RMS 37259 AgR, Relator(a): DIAS TOFFOLI, Primeira Turma, DJe 10-02-2021)
+
+Rever a conclusão do Tribunal de origem demandaria o revolvimento da moldura fática delineada, bem como a análise da legislação infraconstitucional local aplicável (Lei Complementares Estaduais nº 04/90 e 207/04), o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Aplicação das Súmulas nº 279 e 280/STF: “para simples reexame de prova não cabe recurso extraordinário” e “por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+“Agravo regimental no recurso extraordinário com agravo. Servidor público militar. Prescrição. Reintegração. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Não se presta o recurso extraordinário para a análise de matéria ínsita ao plano normativo local, tampouco para o reexame dos fatos e das provas constantes dos autos. Incidência das Súmulas nºs 280 e 279/STF. 2. Agravo regimental não provido, com imposição de multa de 1% do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.” (ARE 1133166 AgR, Relator: Dias Toffoli (Presidente), Tribunal Pleno, DJe 20-11-2018)
+“DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. REINTEGRAÇÃO. PRESCRIÇÃO. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. ALEGAÇÃO DE OFENSA AOS ARTS. 5º, V, X, LIV E LV, e 93, IX, DA CONSTITUIÇÃO DA REPÚBLICA. SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. RECURSO EXTRAORDINÁRIO QUE NÃO ATACA OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA Nº 284/STF. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. Cristalizada a jurisprudência desta Suprema Corte, a teor das Súmulas 282 e 356/STF: “Inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada”, bem como “O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.” 2. Razões do recurso extraordinário que não atacam os fundamentos do acórdão recorrido. Aplicação da Súmula nº 284/STF. 3. Obstada a análise da suposta afronta aos preceitos constitucionais invocados, porquanto dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, procedimento que refoge à competência jurisdicional extraordinária desta Corte Suprema, a teor do art. 102 da Magna Carta. 4. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa a preceito da Constituição da República. 5. Agravo interno conhecido e não provido.” (ARE 1139676 AgR, Relatora: Min. Rosa Weber, Primeira Turma, DJe 21-09-2018)
+
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+
+Brasília, 18 de agosto de 2026.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
