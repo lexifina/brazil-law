@@ -1,0 +1,7 @@
+Solução de Consulta Disit/SRRF06 nº 6016, de 5 de agosto de 2026
+Retificação
+Na ementa da Solução de Consulta - DISIT/SRRF06 nº 6.016, de 5 de agosto de 2026, publicada no Diário Oficial da União nº 154, Seção 1, de 17 de agosto de 2026, página 48:
+Onde se lê:
+IMPOSTO SOBRE A RENDA. RETENÇÃO NA FONTE. SERVIÇOS DE EXPANÇÃO E AMPLIAÇÃO DO SISTEMA ELÉTRICO CONTRATADOS POR ÓRGÃO DA ADMINISTRAÇÃO PÚBLICA DIRETA ESTADUAL.
+Leia-se:
+IMPOSTO SOBRE A RENDA. RETENÇÃO NA FONTE. SERVIÇOS DE EXPANSÃO E AMPLIAÇÃO DO SISTEMA ELÉTRICO CONTRATADOS POR ÓRGÃO DA ADMINISTRAÇÃO PÚBLICA DIRETA ESTADUAL.
