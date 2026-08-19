@@ -1,0 +1,49 @@
+DECISÃO
+
+Trata-se de Habeas Corpus, com pedido de liminar, impetrado contra decisão proferida pelo Ministro OG FERNANDES, do Superior Tribunal de Justiça, no Agravo em Recurso Especial 2.261.486/SC.
+Pelo que se depreende dos autos, o paciente foi condenado à pena de 2 anos de reclusão, em regime aberto, substituída por restritivas de direitos, pela prática do crime previsto no art. 1º, II, do Decreto-Lei 201/1967. Em síntese, colhe-se da sentença:
+
+[...] a dinâmica dos fatos foi a seguinte: a) o grupo de praticantes de aeromodelismo de Brusque necessitava de auxílio para conserto das pistas que eram utilizadas por seus integrantes; b) o grupo teve a ideia de pedir ajuda para a Prefeitura Municipal de Brusque, valendo-se, especialmente, dos contatos que um de seus integrantes (Charlei Weber) possuía com Artur Antunes Pereira, funcionário do Departamento Geral de Infraestrutura de Brusque; c) Artur Antunes Pereira, em um primeiro contato, aceitou fazer as modificações na pista situada nas proximidades da 'IB Mix'; d) em um segundo contato, agora com pedido para realização de modificações na pista situada nas proximidades do 'Centro de Treinamento do Brusque', Artur Antunes Pereira levou a situação até o então Prefeito Municipal de Brusque, que autorizou a realização de serviço público em favor de particulares; e) como se tratava de um serviço particular, Artur Antunes Pereira, com o auxílio do seu colega de Departamento Geral de Infraestrutura Luiz Henrique Lauritzen, tratou de contatar a Empresa de Terraplanagem Zucco e combinar que, ao invés de realizar os serviços públicos para os quais ela havia sido contratada, a empresa deveria prestar serviços e entregar materiais em favor do grupo de praticantes de aeromodelismo; f) a fim de evitar que a fraude fosse descoberta, os serviços realizados em favor do grupo de praticantes de aeromodelismo era computado como se público fosse, o que não era difícil para os funcionários do Departamento Geral de Infraestrutura, já que esse era o setor responsável por emitir as planilhas de medição e encaminhá-las aos responsáveis para assinatura (vide explicações às fls. 106/107).
+[...] está claro nos autos que o que houve foi uma fraude, um desvio deliberado de um serviço público em favor de um grupo de particulares, com a respectiva tentativa de escondê-la através do expediente já relatado nos autos.
+[...]
+
+O Tribunal de Justiça do Estado de Santa Catarina negou provimento ao apelo defensivo.
+Na sequência, a defesa interpôs Recurso Especial que, inadmitido na origem, ascendeu ao Superior Tribunal de Justiça em forma de Agravo, conhecido pelo Ministro relator para não conhecer do apelo especial, em decisão assim fundamentada:
+
+A conclusão sobre a inadmissibilidade do recurso deve ser mantida, como se passa a explicar.
+O prequestionamento é um dos requisitos de admissibilidade do recurso especial e consiste na necessidade de a questão alegada no recurso ter sido expressamente apreciada pelo Tribunal de origem.
+Não se constata, no acórdão impugnado, a efetiva apreciação da questão relacionada ao art. 69, VI e VII, do CPP.
+Ao contrário do quanto afirmado pela defesa nas razões do agravo, o acórdão dos embargos de declaração destacou a ausência do prequestionamento, como se observa (fl. 2.639):
+[...]
+Assim, observa-se a ausência de manifestação da instância anterior, mesmo em embargos de declaração, que impede o conhecimento do recurso especial. Nesse sentido, confiram-se as seguintes súmulas:
+[...]
+Também não se pode conhecer do recurso com relação à alegação de violação do art. 109, V, do CPP, porquanto o acórdão recorrido não analisou nenhuma alegação de ofensa ao dispositivo, que foi apenas citado no contexto da análise da alegação de prescrição da pretensão punitiva. Destaco:
+
+De outra banda, ao contrário do que quer fazer crer a defesa, o prazo prescricional não se consumou.
+Isso porque o insurgente invoca a ocorrência da aludida causa de extinção da punibilidade considerando o lapso entre a data em que foi intimado para apresentar defesa prévia - diga-se, em observância ao rito previsto no Decreto-Lei 201/1967 -, e a da publicação da sentença condenatória, ao completo arrepio do que prevê o Código Penal, sem trazer qualquer orientação doutrinária ou jurisprudencial que corrobore a sua teoria.
+Com efeito, os marcos interruptivos da prescrição são aqueles previstos no art. 117 da sobredita espécie normativa, in verbis: [...].
+Verifica-se que Paulo Roberto Eccel foi condenado à pena privativa de liberdade de dois anos de reclusão, montante para o qual determina o art. 109, V, da Lei Substantiva Penal, o prazo prescricional de quatro anos.
+Em atenção aos marcos do mencionado art. 117, observa-se que a peça vestibular foi recebida em 15- 6-2018 (evento 83), enquanto o decreto condenatório de primeiro grau restou publicado em 19-11-2021 (evento 240), de modo que não transcorreram quatro anos entre as referidas datas.
+Assim sendo, por óbvio, caso "não decorrido o lapso prescricional entre os marcos interruptivos, não se opera a prescrição da pretensão punitiva." (STJ, E Dcl no AR Esp 545.862/SP, rel. Min. Nefi Cordeiro, j. 18-9-2018), o que impede o acolhimento do pleito formulado.
+
+A propósito, é pacífico o entendimento do Superior Tribunal de Justiça segundo o qual, "para atender ao requisito do prequestionamento, é necessário que a questão haja sido objeto de debate pelo Tribunal de origem, à luz da legislação federal indicada, com emissão de juízo de valor acerca do dispositivo legal apontado como violado" (REsp n. 1.998.033/PB, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/10/2024, DJe de 14/10/2024).
+Ainda, mesmo quando a questão apresentada no recurso especial e não analisada no acórdão recorrido envolver matéria de ordem pública, o prequestionamento é essencial para a apreciação do ponto pelas instâncias superiores. Por outro lado, não basta que a menção à matéria que se pretende controverter tenha sido mencionada em obiter dictum, ou seja, sem que tenha servido efetivamente de fundamento do acórdão (AgRg no AREsp n. 2.487.930 /SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/10/2024, DJe de 16/10/2024; AgRg no AREsp n. 2.613.339/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 7/10/2024, DJe de 15/10/2024).
+[...]
+Por fim, registro que, nos termos do art. 932, III, do Código de Processo Civil, incumbe monocraticamente ao relator "não conhecer de recurso inadmissível", situação amparada também pelo art. 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça.
+
+Nesta ação, busca a defesa a concessão da ordem “para reconhecer a prescrição da pretensão punitiva superveniente, declarando extinta a punibilidade de Paulo Roberto Eccel, nos termos dos arts. 107, IV, 109, V, 110, § 1º, e 117, IV, do Código Penal”.
+É o relatório. Decido.
+
+No presente caso, incide óbice ao conhecimento da ordem impetrada neste SUPREMO TRIBUNAL FEDERAL, uma vez que se impugna decisão monocrática de Ministro do Superior Tribunal de Justiça (HC 151.344-AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 21/3/2018; HC 122.718/SP, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 3/9/2014; HC 121.684-AgR/SP, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 16/5/2014; HC 138.687-AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 1º/3/2017; HC 116.875/AC, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 17/10/2013; HC 117.346/SP, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 22/10/2013; HC 117.798/SP, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014; HC 119.821/TO, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 29/4/2014; HC 122.381-AgR/SP, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 9/10/2014; RHC 114.737/RN, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 18/4/2013; RHC 114.961/SP, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 8/8/2013).
+De fato, o exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do SUPREMO TRIBUNAL FEDERAL, conforme vem sendo reiteradamente proclamado por esta CORTE (HC 129.142, Rel. Min. MARCO AURÉLIO, Redator p/ Acórdão Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 10/8/2017; RHC 111.935, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC 97.009, Redator p/ Acórdão: Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC 118.189, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014).
+Em hipóteses como a presente, o exaurimento da jurisdição na origem exige a interposição de agravo interno, não sendo possível sua substituição por habeas corpus dirigido a tribunal diverso. Admitir o contrário permitiria à parte escolher, conforme sua conveniência, o órgão revisor da decisão monocrática, em afronta ao princípio do juiz natural e ao necessário exaurimento das instâncias, pressuposto da competência desta CORTE, que não comporta ampliação por via imprópria (HC 131226 AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 25/2/2016 e HC 270760, Rel. Min. CÁRMEN LÚCIA, DJe de 15/4/2026).
+Esta Primeira Turma vem autorizando, somente em circunstâncias específicas, o exame de habeas corpus quando não encerrada a análise na instância competente, óbice superável apenas em hipótese de teratologia (HC 138.414/RJ, Primeira Turma, DJe de 20/4/2017) ou em casos excepcionais (HC 137.078/SP, Primeira Turma, DJe de 24/4/2017), como bem destacado pela Ministra ROSA WEBER.
+No caso, entretanto, não se apresentam hipóteses de teratologia ou excepcionalidade aptas a justificar a intervenção desta CORTE.
+Diante do exposto, com fundamento no art. 21, §1º, do Regimento Interno do STF, INDEFIRO a ordem de HABEAS CORPUS.
+Ciência à Procuradoria-Geral da República.
+Publique-se.
+Brasília, 19 de agosto de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
