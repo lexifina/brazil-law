@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC), interposto por BANCO DAYCOVAL S/A, contra decisão que não admitiu recurso especial.
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 504, e-STJ):
+APELAÇÃO CÍVEL. RECURSO INTERPOSTO APÓS O DECURSO DO PRAZO LEGAL. MANIFESTA INTEMPESTIVIDADE. AUSÊNCIA DE REQUISITO EXTRÍNSECO DE ADMISSIBILIDADE RECURSAL. EXEGESE DO ART. 1.003, § 5º DO CPC/15.
+1. Apelo que não preenche os requisitos de admissibilidade, eis que intempestivamente interposto, conforme devidamente certificado pela serventia.
+2. Suspensão dos prazos processuais em 04 e 07 de junho de 2025, decorrente da Cúpula dos Brics, que abrangeu tão somente a Comarca da Capital e seus Fóruns Regionais. Presente demanda que tramita perante o juízo da 1ª Vara Cível da Comarca de Macaé.
+NEGATIVA DE CONHECIMENTO AO RECURSO.
+Nas razões de recurso especial (fls. 515-521, e-STJ), aponta a parte recorrente ofensa aos seguintes dispositivos: arts. 219, 224 e 1.003, § 6º, do CPC.
+Sustenta, em síntese: erro na contagem do prazo recursal por desconsideração de feriado/suspensão de expediente forense em 07/07/2025, aplicabilidade dos arts. 219 e 224 do CPC à hipótese, suficiência do ato normativo local para a comprovação da suspensão (art. 1.003, § 6º, do CPC) e tempestividade da apelação. Alega, ainda, divergência jurisprudencial (alínea c) sobre a contagem de prazo em dias sem expediente forense.
+Contrarrazões apresentadas às fls. 531-537, e-STJ.
+Em juízo de admissibilidade (fls. 539-544, e-STJ), negou-se o processamento do recurso especial, dando ensejo ao presente agravo (fls. 547-554, e-STJ).
+Contraminuta apresentada às fls. 558-564, e-STJ.
+É o relatório.
+Decido.
+1. A parte recorrente sustenta erro na contagem do prazo recursal por desconsideração de feriado/suspensão de expediente forense em 07/07/2025, aplicabilidade dos arts. 219 e 224 do CPC à hipótese, suficiência do ato normativo local para a comprovação da suspensão (art. 1.003, § 6º, do CPC) e tempestividade da apelação.
+No particular, o acórdão recorrido reconheceu a manifesta intempestividade da apelação, com fundamento na certidão cartorária e na inexistência de suspensão de prazos aplicável à Comarca de Macaé. Registrou que a suspensão mencionada ocorreu em 04 e 07 de junho de 2025, por ocasião da Cúpula dos Brics, restrita à Comarca da Capital e seus fóruns regionais, não alcançando o juízo de origem, motivo pelo qual negou conhecimento ao recurso, à luz do art. 1.003, § 5º, do CPC.
+É o que consta da fundamentação (fls. 504-512, e-STJ):
+O apelante, à index. 228549092, se insurge em face da certidão cartorária, sob argumento da suspensão dos prazos de junho de processuais em 04 e 07 de junho de 2025.
+Não obstante, tal insurgência não merece acolhida, eis que a relatada suspensão, decorrente da Cúpula dos Brics, abrangeu tão somente a Comarca da Capital e seus fóruns regionais. A presente demanda tramita no juízo da 1ª Vara Cível da Comarca de Macaé e não foi abrangida pela mencionada suspensão.
+Ausente, pois, o requisito extrínseco de admissibilidade do recurso, impõe-se o não conhecimento do apelo, à inteligência do disposto no artigo 1.003, § 5º do CPC/15.
+Sendo assim, para afastar a afirmação contida no acórdão atacado quanto às datas de suspensão do prazo processual, bem como quanto às varas abrangidas pela referida suspensão, revelar-se-ia necessário o reexame das provas juntadas aos autos, providência vedada na via eleita, por força da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. COMISSÃO DE CORRETAGEM. CONTESTAÇÃO INTEMPESTIVA. REVELIA DECRETADA. VIOLAÇÃO DOS ARTS. 223, 489 E 1.022 DO CPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. CONTROVÉRSIA ACERCA DA TEMPESTIVIDADE DECORRENTE DA SUSPENSÃO DE PRAZOS PROCESSUAIS POR ATOS REGULAMENTARES DO TRIBUNAL ESTADUAL. ALEGAÇÃO DE ERRO MATERIAL EM PUBLICAÇÃO E JUSTA CAUSA. AFERIÇÃO DA EXISTÊNCIA DE JUSTA CAUSA E DA TEMPESTIVIDADE. NECESSIDADE DE REEXAME DE PREMISSAS FÁTICAS E DE REGRAS ADMINISTRATIVAS LOCAIS. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+1. A tese de violação dos arts. 489, § 1º, e 1.022 do CPC de 2015 não merece acolhida, porquanto todas as questões essenciais a solução da controvérsia, mormente aquelas relativas a tempestividade da contestação em face dos atos executivos que promoveram a suspensão dos prazos processuais na origem, foram ampla e devidamente abordadas, analisadas e fundamentadas pelo Tribunal estadual, não estando configurada qualquer omissão, obscuridade ou contradição apta a ensejar a negativa de prestação jurisdicional.
+2. A análise da alegada justa causa para o atraso na apresentação da contestação, suscitada em razão de suposto e relevante erro material na publicação de atos normativos internos do Tribunal de Justiça do Estado do Rio de Janeiro que suspenderam os prazos processuais (art. 223, §§ 1º e 2º do CPC), demandaria inevitavelmente a incursão no acervo fático-probatório dos autos, bem como a interpretação e a avaliação das regras infralegais e dos regulamentos internos do Tribunal estadual (Atos Executivos e Avisos) que definiram a contagem específica do prazo processual, providências terminantemente inviáveis em recurso especial, o que atrai, de maneira incontornável, o óbice da Súmula n. 7 do Superior Tribunal de Justiça.
+3. Revisar a conclusão do acórdão recorrido, que reconheceu a intempestividade da contestação com base na aplicação do art. 224, § 1º, do CPC, e das regras de contagem de prazo processual em dias úteis, notadamente após a análise do efeito da suspensão no termo inicial do prazo, encontra-se obstada pela mesma vedação sumular.
+4. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+(AREsp n. 2.873.648/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 3/11/2025, DJEN de 6/11/2025.)  grifou-se
+Importante consignar que esta Corte de Justiça entende ser cabível a aplicação do quanto enunciado na Súmula 7/STJ também como óbice ao conhecimento do dissídio jurisprudencial, na medida em que, dada a ausência de similitude fática entre o acórdão paradigma e o recorrido, a divergência entre os julgados tem origem em quadros fáticos distintos, não em teses jurídicas opostas.
+2. Do exposto, conheço do agravo para não conhecer do recurso especial.
+Por fim, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
