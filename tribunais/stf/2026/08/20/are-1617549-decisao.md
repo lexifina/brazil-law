@@ -1,0 +1,74 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EMBARGOS. CELEBRAÇÃO DE TRANSAÇÃO TRIBUTÁRIA. EXTINÇÃO DA AÇÃO. HONORÁRIOS                      DE SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. VEDAÇÃO AO           BIS IN IDEM. INOCORRÊNCIA DE PREQUESTIONAMENTO DAS ALEGADAS OFENSAS À CONSTITUIÇÃO FEDERAL. ÓBICE DAS SÚMULAS 282 E 356 DO STF. RECURSO FUNDADO NAS ALÍNEAS  “B” E “C” DO PERMISSIVO CONSTITUCIONAL. AUSÊNCIA DE DECLARAÇÃO FORMAL DE INCONSTITUCIONALIDADE DE TRATADO OU DE LEI FEDERAL. INEXISTÊNCIA DE DECLARAÇÃO DE VALIDADE DE LEI LOCAL EM DETRIMENTO DA CONSTITUIÇÃO FEDERAL. NEGADO SEGUIMENTO AO AGRAVO.
+
+DECISÃO: Trata-se de agravo nos autos objetivando a reforma de decisão que inadmitiu recurso extraordinário manejado pelas alíneas “a”, “b” e “c” do permissivo constitucional contra acórdão que dispôs:
+
+“DIREITO TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO FISCAL. EXTINÇÃO DA AÇÃO COM FUNDAMENTO NO ARTIGO 487, III, ‘C’, DO CÓDIGO DE PROCESSO CIVIL, EM VIRTUDE DE TRANSAÇÃO TRIBUTÁRIA DISPOSTA NO ARTIGO 43, DA LEI Nº 17.843/23 (ACORDO PAULISTA) E NO EDITAL Nº 01/2024. HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO. MANUTENÇÃO DO ‘DECISUM’.
+1. CASO EM EXAME: Trata-se de agravo de instrumento interposto pela Fazenda Pública do Estado de São Paulo por inconformismo com a decisão que, em sede de Embargos à Execução Fiscal, deixou de condenar a embargante ao pagamento de honorários sucumbenciais.
+2. QUESTÃO EM DISCUSSÃO: Controvérsia que reside na possibilidade de arbitramento de honorários advocatícios em embargos à execução fiscal extinta em virtude de transação tributária.
+3. RAZÕES DE DECIDIR: Artigo 3º, inciso VI, da Lei Estadual nº 17.843/23, que dispõe sobre a transação tributária em tela, que prevê que cabe ao contribuinte o pagamento da verba honorária. Condenar o devedor ao pagamento de honorários advocatícios em razão da extinção dos embargos à execução que configuraria ‘bis in idem’. Pacífica jurisprudência dessa colenda 1ª Câmara de Direito Público, em casos análogos. Incidência do Tema nº 400, do Superior Tribunal de Justiça.
+4. DISPOSITIVO: Decisão mantida. Recurso não provido.”
+
+Os embargos de declaração opostos foram desprovidos.
+Nas razões do apelo extremo, a parte recorrente sustenta preliminar de repercussão geral e, no mérito, por sua vez, a ocorrência de violação aos artigos 22, inciso I; 24, § 1º; e 102, § 2º, da Constituição Federal.
+Foram apresentadas contrarrazões ao recurso.
+O Tribunal a quo não admitiu o recurso, por entender que incidiria a Súmula 280 do STF e, ainda, que a hipótese não ensejaria a interposição do recurso pelas alíneas “b” e “c” do permissivo constitucional.
+
+É o relatório. DECIDO.
+
+O agravo não merece prosperar.
+Com efeito, examinados os autos, vê-se que as supostas ofensas à Constituição Federal não foram debatidas no acórdão a quo, tampouco foram objeto de embargos de declaração tendentes ao saneamento de eventual omissão. Revela-se ausente, portanto, o prequestionamento da matéria, o que inviabiliza o seu exame no recurso extraordinário.
+Incidem, nesse viés, os óbices das Súmulas 282 e 356 do STF, que dispõem: “É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada” e “O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento”.
+Acerca da aplicação das aludidas súmulas, discorre Roberto Rosas:
+
+“A Constituição de 1891, no art. 59, III, a, dizia: ‘quando se questionar sobre a validade de leis ou aplicação de tratados e leis federais, e a decisão for contra ela’.
+De forma idêntica dispôs a Constituição de 1934, no art. 76, III, a: ‘quando a decisão for contra literal disposição de tratado ou lei federal, sobre cuja aplicação se haja questionado’.
+Essas Constituições eram mais explícitas a respeito do âmbito do recurso extraordinário. Limita-se este às questões apreciadas na decisão recorrida. Se foi omissa em relação a determinado ponto, a parte deve opor embargos declaratórios. Caso não o faça, não poderá invocar essa questão não apreciada na decisão recorrida. (RTJ 56/70; v. Súmula 356 do STF e Súmula 211 do STJ; Nelson Luiz Pinto, Manual dos Recursos Cíveis, Malheiros Editores, 1999, p. 234; Carlos Mário Velloso, Temas de Direito Público, p. 236).
+(...)
+Os embargos declaratórios visam a pedir ao juiz ou juízes prolatores da decisão que espanquem dúvidas, supram omissões ou eliminem contradições. Se esse possível ponto omisso não foi aventado, nada há que se alegar posteriormente no recurso extraordinário. Falta o prequestionamento da matéria.
+A parte não considerou a existência de omissão, por isso não opôs os embargos declaratórios no devido tempo, por não existir matéria a discutir no recurso extraordinário sobre essa questão (RE 77.128, RTJ 79/162; v. Súmula 282).
+O STF interpretou o teor da Súmula no sentido da desnecessidade de nova provocação, se a parte opôs os embargos, e o tribunal se recusou a suprir a omissão (RE 176.626, RTJ 168/305; v. Súmula 211 do STJ).” (Direito Sumular. 14. ed. São Paulo: Malheiros, 2012. p. 139-140 e 175-176)
+
+Nesse sentido: AI 738.029-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 25/6/2013; e ARE 737.360-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 24/6/2013, este último, assim ementado:
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AGRAVO IMPROVIDO. I - É inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. II - Agravo regimental improvido.”
+
+Outrossim, anote-se que a interposição do recurso extraordinário com fundamento na alínea “b” do permissivo constitucional pressupõe a declaração formal de inconstitucionalidade de tratado ou lei federal pelo Plenário ou órgão especial do Tribunal a quo, o que não ocorreu no caso. A propósito de tal hipótese de cabimento recursal, veja-se a ementa infra:
+
+“AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. CREDITAMENTO. ICMS. RESOLUÇÃO SEFA N. 38/2018. INTERPOSIÇÃO DO RECURSO EXTRAORDINÁRIO COM FUNDAMENTO NAS ALÍNEAS B E D DO PERMISSIVO CONSTITUCIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284 DO STF. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. AGRAVO INTERNO DESPROVIDO. PRECEDENTES.
+1. O recurso extraordinário é inadmissível quando a deficiência de sua fundamentação não permitir a exata compreensão da controvérsia, ex vi do enunciado 284 da Súmula do Supremo Tribunal Federal. Precedentes: ARE 1.185.152-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 29/05/19; ARE 707.173AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 23/04/15; ARE 822.208-AgR, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 10/12/14.
+2. O recurso extraordinário interposto com fundamento na alínea b do permissivo constitucional pressupõe a declaração formal de inconstitucionalidade de tratado ou lei federal pelo plenário ou órgão especial do Tribunal a quo, o que não ocorreu na espécie.
+3. A interposição do recurso extraordinário com fundamento na alínea d do permissivo constitucional demanda a demonstração de conflito de competência legislativa entre o ente federativo local e a União, o que, in casu, não ocorreu.
+4. Não se presta o recurso extraordinário para a análise de matéria infraconstitucional, tampouco para o reexame dos fatos e das provas (Súmula 279 do STF).
+5. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), na hipótese de votação unânime.
+6. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita.” (ARE 1.381.943-AgR, Plenário, Rel. Min. Luiz Fux - Presidente, DJe de 27/6/2022 - grifei)
+
+“DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO EXTRARDINÁRIO COM AGRAVO. HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE AFRONTA AO PRINCÍPIO DO JUIZ NATURAL. ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE E REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279/STF. CRIAÇÃO DE VARA ESPECIALIZADA POR MEIO DE RESOLUÇÃO. POSSIBILIDADE. INTERPOSIÇÃO DO RECURSO EXTRAORDINÁRIO COM FUNDAMENTO NAS ALÍNEAS B, C E D DO PERMISSIVO CONSTITUCIONAL. SÚMULA 284/STF. JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL.
+1. Esta Corte já decidiu tratar-se de matéria infraconstitucional a questão relativa à afronta ao princípio do juiz natural. Nessa linha, vejam-se o AI 839.398, Rel. Min. Joaquim Barbosa; o AI 735.009, Rel. Min. Cezar Peluso; o AI 681.668-AgR, Relª. Minª. Ellen Gracie; o AI 845.223-AgR-ED, Rel. Min. Luiz Fux; e o RE 255.639, Rel. Min. Ilmar Galvão.
+2. A parte recorrente se limita a postular a análise da legislação infraconstitucional pertinente (Lei estadual 6.982/1996 e Instrução Normativa 026/97, da Corregedoria-Geral de Justiça do Estado da Bahia), e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF.
+3. A criação de ‘varas especializadas, por resolução administrativa do tribunal, baixada com base em lei de organização judiciária, não afronta o princípio do juiz natural’ (ARE 1.215.318-AgR, Rel. Min. Luiz Fux). Precedentes: RE 830.851-AgR, Relª. Minª. Cármen Lúcia; HC 113.102, Rel. Min. Marco Aurélio; HC 113.018, Rel. Min. Ricardo Lewandowski; RE 819.642 Rel. Min. Teori Zavascki; RE 984.841, Rel. Min. Luiz Fux; ARE 1.352.428-AgR, de minha relatoria; ARE 1.183.510, Rel. Min. Celso de Mello; e HC 102.150, Rel. Min. Teori Zavascki.
+4. Quanto à interposição do recurso extraordinário pelas alíneas b e c do permissivo constitucional, ‘a parte recorrente não demonstrou a existência de declaração formal de inconstitucionalidade de tratado ou lei federal pelo Plenário ou órgão especial do Tribunal a quo, conforme entende ser necessária a jurisprudência desta Suprema Corte, bem como não demonstrou de que forma o acórdão impugnado julgou válida lei local contestada em face da Constituição Federal. Desse modo, incide na hipótese a Súmula 284 desta Corte’ (ARE 1.341.812-AgR, Rel. Min. Luiz Fux).
+5. A admissão do ‘recurso extraordinário pela alínea d do inciso III do art. 102 da Constituição Federal pressupõe a ocorrência de conflito de competência legislativa entre os entes da Federação. Dessa forma, é incabível o apelo extremo, fundado no aludido dispositivo, cuja pretensão seja provocar o reexame da interpretação de norma infraconstitucional conferida pelo Juízo de origem’ (ARE 1.370.379-AgR, Rel. Min. Ricardo Lewandowski).
+6. Agravo a que se nega provimento.” (ARE 1.369.209-AgR, 1ª Turma, rel. Min. Roberto Barroso, DJe de 29/8/2022 - grifei)
+
+“Agravo regimental em recurso extraordinário com agravo. Direito Penal. Crime de homicídio no trânsito. Apelo extremo deduzido com fundamento nas alíneas a e b do permissivo constitucional. Alegada violação do art. 97 da Constituição Federal. Prequestionamento. Ausência. Violação. Inexistência. Acórdão recorrido em que não se declarou a inconstitucionalidade formal de dispositivo legal ou se afastou sua aplicação com base em fundamentos constitucionais. Precedentes. Agravo regimental não provido.
+1. É inadmissível o recurso extraordinário se os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF.
+2. Segundo a pacífica jurisprudência da Corte, não há violação do art. 97 da Constituição Federal quando o Tribunal de origem, sem declarar a inconstitucionalidade da norma nem afastá-la com fundamento na contrariedade à Constituição Federal, se limita a interpretar e aplicar a legislação infraconstitucional ao caso concreto.
+3. A interposição de recurso extraordinário com fundamento na alínea b do permissivo constitucional pressupõe a ocorrência de declaração formal de inconstitucionalidade pela Corte de origem.
+4. Agravo regimental ao qual se nega provimento.” (ARE 1.319.444-AgR, 1ª Turma, Rel. Min. Dias Toffoli, DJe de 17/3/2022 - grifei)
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 356/STF. DEMONSTRAÇÃO DO REQUISITO DA REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. RECURSO INCABÍVEL PELA ALÍNEA B DO ART. 102 DA CONSTITUIÇÃO. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA.
+I - É inviável o recurso extraordinário cuja questão constitucional nele arguida não tiver sido prequestionada. Incidência das Súmulas 282 e 356/STF.
+II - A mera alegação, nas razões do recurso extraordinário, de existência de repercussão geral das questões constitucionais discutidas, desprovida de fundamentação adequada que demonstre seu efetivo preenchimento, não satisfaz a exigência prevista no art. 1.035, § 2º, do CPC.
+III - A interposição de recurso extraordinário com base na alínea b do art. 102 da Constituição demanda a existência de declaração formal de inconstitucionalidade, nos termos do art. 97 da Constituição.
+IV - Agravo regimental a que se nega provimento, com aplicação de multa (art. 1.021, § 4º, do CPC).” (RE 1.189.677-AgR, 2ª Turma, Rel. Min. Ricardo Lewandowski, DJe de 13/5/2019 - grifei)
+
+“PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. RECURSO EXTRAORDINÁRIO INTERPOSTO PELA ALÍNEA ‘B’ DO ART. 102, III, DA CF. CABIMENTO SOMENTE QUANDO HOUVER PRÉVIA MANIFESTAÇÃO DO PLENÁRIO DO TRIBUNAL DE ORIGEM SOBRE A INCONSTITUCIONALIDADE, NOS TERMOS DO ART. 97 DA CF. CONSTITUCIONALIDADE DAS MAJORAÇÕES DE ALÍQUOTA DO FINSOCIAL VEICULADAS PELOS ARTS. 7º DA LEI 7.787/89, 1º DA LEI 7.894/89 E 1º DA LEI 8.147/90 PARA AS EMPRESAS EXCLUSIVAMENTE PRESTADORAS DE SERVIÇOS. PRECEDENTES. AUSÊNCIA DE INFORMAÇÕES CONCRETAS NOS AUTOS QUANTO À CONDIÇÃO DA RECORRIDA. IMPOSSIBILIDADE DE APLICAÇÃO DO ENTENDIMENTO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (RE 487.659-AgR, Segunda Turma, Rel. Min. Teori Zavascki, DJe de 1º/10/2013 - grifei)
+
+Por fim, quanto à admissibilidade do recurso extraordinário com fulcro na alíneas “c” do permissivo constitucional, constata-se que o Tribunal a quo não julgou válida lei ou ato de governo local em detrimento da Constituição Federal, sendo, portanto, manifestamente inviável o apelo extremo quanto a esse fundamento.
+Ex positis, NEGO SEGUIMENTO ao agravo, ex vi art. 932, inc. VIII, do Código de Processo Civil, e art. 21, § 1º, do Regimento Interno do STF.
+Publique-se.
+Brasília, 20 de agosto de 2026.
+
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
