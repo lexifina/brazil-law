@@ -1,0 +1,26 @@
+DECISÃO:
+Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+O acórdão recorrido  ficou assim ementado:
+
+APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA COLETIVO. IPTU. LEI COMPLEMENTAR MUNICIPAL N. 344/2021. CÓDIGO TRIBUTÁRIO DO MUNICÍPIO DE GOIÂNIA (ARTIGOS 168 E 175 DO CTM). METODOLOGIA DA BASE DE CÁLCULO. LEGALIDADE. CONTROLE INCIDENTAL DE INCONSTITUCIONALIDADE. AUSÊNCIA DE OFENSA DIRETA. DENEGAÇÃO DA SEGURANÇA. SENTENÇA MANTIDA. A ação mandamental exige prova pré-constituída dos fatos que embasam o direito invocado pela parte impetrante e, por sua própria natureza, não permite dilação probatória. O acervo fático-probatório demonstra que o cálculo do IPTU em questão é complexo e exige a análise de uma série de critérios técnicos escolhidos pelo legislador, não sendo possível concluir, de plano, pela ilegalidade ou inconstitucionalidade da legislação municipal, considerando ainda a precariedade da documentação juntada pela impetrante/apelante. O parâmetro de controle de inconstitucionalidade invocado (artigos 156, inciso I, 146, inciso III, “a”, e 154, inciso I, da CF/88) não demonstra ofensa direta à Constituição da República ou à Carta Estadual. Ademais, a Emenda Constitucional n. 132/2023, que alterou o sistema tributário nacional, conferiu, por meio da inserção do inciso III ao § 1º do artigo 156 da Constituição da República, maior “autonomia” ao Poder Executivo Municipal de aumentar ou diminuir o valor da base de cálculo do IPTU em função das variações do mercado imobiliário. Não demonstradas as aventadas inconstitucionalidade ou ilegalidade da cobrança tributária, da forma como estabelecida na legislação municipal, não há falar em correção de alíquota ou base de cálculo, tampouco em compensação e/ou restituição de indébito.
+APELAÇÃO CONHECIDA E DESPROVIDA.
+
+No recurso extraordinário sustenta-se violação do(s) art.(s)  146, III, "a"; 156, I; e 154, I,  da Constituição Federal.
+Decido.
+Analisados os autos,  verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, nos termos da Súmula 279/STF. Sobre o tema, a propósito:
+
+Agravo regimental no recurso extraordinário com agravo. Direito Tributário. IPTU. Valor venal. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Não se presta o recurso extraordinário para a análise de matéria infraconstitucional, tampouco para o reexame dos fatos e das provas constantes dos autos. Incidência das Súmulas nºs 279 e 636/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita. (ARE nº 1.179.647-AgR, Tribunal Pleno, Rel. Min. Dias Toffoli, DJe de 24/04/2019)
+
+Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. 3. IPTU. Fato gerador. Lançamento complementar. 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame de legislação local. Incidência da Súmula 280 do STF. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Negado provimento ao agravo regimental. Verba honorária majorada em 10%. (ARE nº 1.243.432-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 24/04/2020)
+
+Agravo regimental no recurso extraordinário com agravo. Direito Tributário. IPTU. Forma de lançamento. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, o reexame da legislação infraconstitucional, bem como dos fatos e das provas dos autos (Súmula nº 279/STF). 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita. (ARE nº 1.227.957-AgR, Tribunal Pleno, Rel. Min. Dias Toffoli , DJe de 21/11/2019)
+
+Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 20 de agosto de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
