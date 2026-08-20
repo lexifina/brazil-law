@@ -1,0 +1,10 @@
+Solução de Consulta Cosit nº 152, de 17 de agosto de 2026
+Assunto: Contribuições Sociais Previdenciárias
+PRODUTOR RURAL PESSOA FÍSICA INSCRITO NO CADASTRO DE ATIVIDADE ECONÔMICA DA PESSOA FÍSICA - CAEPF. EXPLORAÇÃO SIMULTÂNEA DE ATIVIDADE HOTELEIRA COMO EMPRESÁRIO INDIVIDUAL INSCRITO NO CNPJ. CONTRIBUIÇÃO SOCIAL PARA O SALÁRIO-EDUAÇÃO. NÃO INCIDÊNCIA QUANTO À ATIVIDADE RURAL.
+A mera existência de inscrição no CNPJ como empresário individual, destinado ao exercício de atividade econômica distinta da produção rural, não determina, por si só, a incidência da contribuição social do salário-educação sobre as remunerações dos empregados vinculados exclusivamente à atividade rural exercida sob inscrição no CAEPF.
+A conclusão pressupõe que a atividade rural não esteja compreendida no objeto da empresa individual, não seja exercida em caráter empresarial sob a inscrição no CNPJ e permaneça material, operacional e cadastralmente segregada da atividade hoteleira, sem compartilhamento de empregados ou confusão entre as respectivas folhas de pagamento.
+A contribuição social para o salário-educação permanece devida relativamente às remunerações dos empregados vinculados à atividade hoteleira explorada na condição de empresário individual, observadas as demais disposições da legislação aplicável.
+Dispositivos Legais: Lei nº 8.212, de 24 de julho de 1991, art. 15, caput, inciso I; Lei nº 9.424, de 24 de dezembro de 1996, art. 15; Lei nº 9.766, de 18 de dezembro de 1998, art. 1º, § 3º; Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil, arts. 966, 967 e 971; Decreto nº 6.003, de 28 de dezembro de 2006, arts. 1º e 2º; Instrução Normativa RFB nº 1.828, de 10 de setembro de 2018, art. 2º; Instrução Normativa RFB nº 2.110, de 17 de outubro de 2022, arts. 2º, caput, inciso I, 81, § 1º, inciso V, 96 e 146, caput, inciso I, alínea "a"; Tema Repetitivo 362 do Superior Tribunal de Justiça; Parecer SEI nº 4.090/2023/MF; Solução de Consulta Cosit nº 65, de 23 de abril de 2026.
+[arquivo anexo: SC Cosit nº 152-2026.pdf]
+RODRIGO AUGUSTO VERLY DE OLIVEIRA
+Coordenador-Geral
