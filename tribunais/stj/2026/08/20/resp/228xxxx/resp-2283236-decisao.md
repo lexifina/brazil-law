@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto por Rodrigo Barison, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+ADMINISTRATIVO. APELAÇÃO. MANDADO DE SEGURANÇA. CERTIFICADO DE REGISTRO CAÇADOR, ATIRADOR DESPORTIVO E COLECIONADOR. CERTIFICADO DE REGISTRO DE ARMA DE FOGO. MANUTENÇÃO DO PRAZO DE VALIDADE DE 10 ANOS. DISCRICIONARIEDADE ADMINISTRATIVA.
+A regra geral insculpida no art. 6º da Lei 10.826/03 é a proibição do porte de arma de fogo em todo o território nacional, sendo a autorização concedida para esse fim conferida em hipóteses excepcionais. Por se tratar de autorização, não é ato jurídico perfeito no sentido de ser consolidado, podendo ser alterado por decisão motivada da Administração.
+Já se manifestou o STF, no julgamento das ADPFs 581 e 586, no sentido de que a renovação do registro somente a cada 10 (dez) anos vai de encontro à sistemática estabelecida pelo Estatuto do Desarmamento.
+Apelação desprovida.
+O recorrente impetrou mandado de segurança visando à manutenção do prazo de validade de 10 anos de seus certificados de registro de caçadores, atiradores e colecionadores (CAC) e de suas armas de fogo (CRAF), considerando as normas vigentes à época de suas emissões. A segurança foi denegada em primeiro grau, a apelação foi desprovida pelo TRF4, e os embargos de declaração foram rejeitados.
+No recurso especial, o recorrente alega, em preliminar, negativa de prestação jurisdicional, com violação dos arts. 489, §1º, III e IV, 1.022 e 389 do CPC/2015. No mérito, sustenta ofensa ao art. 6º, caput, §§1º e 2º, da LINDB, ao art. 3º, §3º, do Decreto n. 9.846/2019 e ao art. 12, §11, do Decreto n. 9.847/2019, ao argumento de que a redução do prazo de validade dos seus certificados desrespeita o ato jurídico perfeito, o direito adquirido e o princípio da irretroatividade das leis.
+O Ministério Público Federal opinou pelo não conhecimento do recurso.
+É o relatório. Decido.
+O recurso não merece ser conhecido.
+O acórdão recorrido assentou, de forma expressa e suficiente, fundamento de natureza constitucional para denegar a segurança, ao consignar que o Supremo Tribunal Federal, no julgamento das ADPFs 581 e 586 e da ADC 85, fixou o entendimento de que não há direito adquirido a regime jurídico e de que a renovação dos registros somente a cada dez anos contraria a sistemática do Estatuto do Desarmamento. Esse fundamento constitucional, por si só, é suficiente para manter o resultado do julgado.
+Ocorre que o recorrente não impugnou a fundamentação constitucional do acórdão pela via adequada  o recurso extraordinário  , limitando-se a interpor o presente recurso especial, no qual invoca apenas ofensa a dispositivos de lei federal e de decretos regulamentadores.
+Incide, na espécie, o enunciado 126 da Súmula desta Corte: "é inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário."
+No mesmo sentido: REsp 2255936/PR, Rel. Min. Paulo Sérgio Domingues, j. 28/06/2026, DJe 02/07/2026; AgInt nos EDcl no AREsp 3132057/RS, Rel. Min. Sérgio Kukina, j. 14/05/2026, DJe 19/05/2026; AREsp 3152805/PR, Rel. Min. Herman Benjamin, j. 19/03/2026, DJe 24/03/2026.
+Ante o exposto, com base no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Caso exista, nos autos, prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
