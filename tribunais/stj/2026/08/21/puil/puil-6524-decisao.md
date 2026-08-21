@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei formulado por LUCIANA COSTA TARLE SANTOS, com fundamento no art. 18, § 3º, da Lei n. 12.153/2009, em face de acórdão da Turma Recursal de Jurisdição Exclusiva -Belo Horizonte, Betim e Contagem, que negou provimento ao recurso inominado.
+A requerente sustenta a existência de divergência frontal de interpretação de lei sobre questão de direito material entre Turmas Recursais do mesmo Estado (Acórdão Recorrido- (Turma de Betim/Contagem) e o Acórdão da 2ª Turma Recursal do Grupo Jurisdicional de Téofilo Otoni).
+É o relatório.
+A Lei n. 12.153/2009, que dispõe sobre os Juizados Especiais da Fazenda Pública no âmbito dos Estados, do Distrito Federal, dos Territórios e dos Municípios, prevê, em seu artigo 18, a competência desta Corte para dirimir a divergência quando a questão controvertida for de direito material e houver divergência de interpretações da lei federal entre Turmas de diferentes Estados ou contrariedade com súmula do Superior Tribunal de Justiça:
+Art. 18. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+§ 1º O pedido fundado em divergência entre Turmas do mesmo Estado será julgado em reunião conjunta das Turmas em conflito, sob a presidência de desembargador indicado pelo Tribunal de Justiça.
+§ 2º No caso do § 1º, a reunião de juízes domiciliados em cidades diversas poderá ser feita por meio eletrônico.
+§ 3º Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado.
+Na hipótese, verifica-se que a requerente não demonstrou divergência entre Turmas Recursais de diferentes Estados, tampouco indicou o dispositivo de lei federal supostamente interpretado de forma divergente no acórdão impugnado, requisitos indispensáveis ao processamento do pedido de uniformização nesta Corte Superior.
+Nesse sentido, confiram-se os seguintes precedentes da Primeira Seção desta Corte:
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. AUSÊNCIA DE INDICAÇÃO CLARA E PRECISA DO DISPOSITIVO LEGAL VIOLADO. INCIDÊNCIA DA SÚMULA N. 284 DO STF. INVIABILIDADE DE ANÁLISE DE VIOLAÇÃO DA NORMA CONSTITUCIONAL. DESCABIMENTO DO PUIL CONTRA JURISPRUDÊNCIA NÃO SEDIMENTADA EM SÚMULA. PEDIDO NÃO CONHECIDO.
+1. O pedido de uniformização de interpretação de lei federal, nos termos do art. 18, § 3º, da Lei n. 12.153/2009, exige a demonstração clara e precisa do dispositivo de lei federal supostamente violado, bem como a indicação de divergência interpretativa entre Turmas Recursais de diferentes Estados ou contrariedade a súmula do Superior Tribunal de Justiça. A ausência de tais requisitos atrai, por analogia, a incidência da Súmula n. 284 do STF, que dispõe: " é  inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+2. Não cabe ao Superior Tribunal de Justiça, na via eleita, analisar suposta violação de norma constitucional, matéria reservada ao Supremo Tribunal Federal, conforme reiterada jurisprudência desta Corte.
+3. O PUIL não é cabível contra decisão de Turma Recursal da Fazenda Pública nos Estados que alegue contrariedade à jurisprudência do STJ não sedimentada em súmula, nos termos do art. 18, §§ 1º, 2º e 3º, e art. 19 da Lei n. 12.153/2009, c.c. o art. 67, parágrafo único, inciso VIII-A, do RISTJ. Precedentes.
+4. Pedido não conhecido.
+(PUIL n. 5.279/RO, relator Ministro Teodoro Silva Santos, Primeira Seção, julgado em 14/10/2025, DJEN de 22/10/2025- nossos os grifos)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. COTEJO ANALÍTICO NÃO REALIZADO. CARÊNCIA DE DEMONSTRAÇÃO DA SIMILITUDE FÁTICA DOS CASOS CONFRONTADOS. SUPOSTA CONTRARIEDADE A JULGADO REPETITIVO. NÃO EQUIPARAÇÃO À OFENSA DE ENUNCIADO SUMULAR. NÃO CABIMENTO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Nos termos do art. 18 da Lei 12.153/2009, "caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material". No § 3º do mesmo dispositivo é estabelecida a competência do Superior Tribunal de Justiça para examinar pedidos de uniformização sobre controvérsias em que haja dissonância na interpretação da lei federal por turmas de diferentes estados, ou quando a decisão proferida estiver em contrariedade com súmula desta Corte.
+2. Conforme entendimento desta Corte, não se conhece do pedido de uniformização de interpretação de lei fundado em divergência jurisprudencial quando a parte requerente deixa de realizar o indispensável cotejo analítico entre os acórdãos confrontados, de modo a evidenciar a similitude fática das hipóteses comparadas. Precedentes.
+3. A indicação de suposta contrariedade a julgado repetitivo não se equipara à alegação de ofensa a enunciado da Súmula do STJ para fins de cabimento do pedido de uniformização de interpretação de lei.
+4. Agravo interno a que se nega provimento.
+(AgInt no PUIL n. 2.924/SP, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 28/2/2024, DJe de 1/3/2024. - nossos os grifos)
+Ante o exposto, nos termos do art. 34, XVIII, "a", do RISTJ, não conheço do pedido.
+Publique-se.
+Intimem-se.
+EMENTA
+PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. ADMINISTRATIVO E PROCESSO CIVIL. AUSÊNCIA DE DEMONSTRAÇÃO DE DIVERGÊNCIA ENTRE TURMAS RECURSAIS DE DIFERENTES ESTADOS E DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL. PEDIDO NÃO CONHECIDO.
