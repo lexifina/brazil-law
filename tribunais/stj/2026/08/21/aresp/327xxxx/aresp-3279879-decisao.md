@@ -1,0 +1,8 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto pela UNIÃO que contém a seguinte discussão: "Interrupção do prazo prescricional para pleitear o cumprimento de sentença coletiva, em virtude do ajuizamento de ação de protesto ou de execução coletiva por legitimado para propor demandas coletivas." - Tema 1033/STJ.
+Na oportunidade em que a Corte Especial do STJ afetou a referida tese controvertida à sistemática dos recursos repetitivos (REsp"s 1801615/SP e 1774204/RS, todos da relatoria do Ministro Raul Araújo), houve determinação de suspensão da tramitação dos recursos especiais e agravos em recursos especiais nos tribunais de segunda instância e nesta Corte que tratem da referida matéria.
+Dessa forma, encontrando-se o tema afetado à sistemática dos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia  como é o caso do presente  devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação. Nesse sentido: AREsp n. 2.649.449, Ministro Gurgel de Faria, DJEN de DJEN 04/02/2025.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão referente ao Tema 10 33 /STJ, realize o juízo de adequação, conforme estabelecem os arts. 1.040 e 1.041 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO DA UNIÃO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. PROTESTO INTERRUPTIVO REALIZADO POR SINDICATO. MATÉRIA AFETADA AO RITO DOS REPETITIVOS. TEMA 1033. SUSPENSÃO DA TRAMITAÇÃO. DEVOLUÇÃO DOS AUTOS À ORIGEM.
