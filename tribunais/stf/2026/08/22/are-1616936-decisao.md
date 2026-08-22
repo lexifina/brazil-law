@@ -1,0 +1,50 @@
+DECISÃO:
+Trata-se de agravo em recurso extraordinário, fundado na alínea “a” do permissivo constitucional, interposto contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná (e-doc 5), assim ementado:
+
+“RECURSOS INOMINADOS. AÇÃO DECLARATÓRIA C/C REPETIÇÃO DE INDÉBITO. FAZENDA PÚBLICA. SERVIDOR PÚBLICO DO MUNICÍPIO DE PRIMEIRO DE MAIO. SENTENÇA DE PARCIAL PROCEDÊNCIA. INSURGÊNCIA RECURSAL DO ENTE MUNICIPAL. PRELIMINAR DE INCOMPETÊNCIA DA JUSTIÇA COMUM PARA JULGAR A DEMANDA. ACOLHIMENTO QUE É DE RIGOR. CASO DOS AUTOS EM QUE SE TRATA DE CONTRIBUIÇÕES VERTIDAS AO REGIME GERAL DA PREVIDÊNCIA SOCIAL (RGPS E À UNIÃO. ART. 485, IV, DO CÓDIGO DE PROCESSO CIVIL E ART. 109, I, DA CONSTITUIÇÃO FEDERAL. EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO ANTE O RECONHECIMENTO DA INCOMPETÊNCIA ABSOLUTA DA JUSTIÇA ESTADUAL PARA APRECIAR A DISCUSSÃO. RECURSO DA AUTORA JULGADO PREJUDICADO DIANTE DO PROVIMENTO DA INSURGÊNCIA DA MUNICIPALIDADE. RECURSO DO MUNICÍ´PIO CONHECIDO E PROVIDO.
+No recurso extraordinário (e-doc 6), a recorrente alega a violação do artigo 109, inciso I da Constituição Federal.
+Em suas razões, a parte recorrente sustenta a competência da justiça estadual para processamento e julgamento de ação ajuizada para cessar os descontos de contribuição previdenciária incidentes sobre o adicional de insalubridade e para reaver os valores indevidamente recolhidos.
+Aponta que o acórdão recorrido ignora que o ato de retenção é do Município, razão pela qual possui legitimidade para figurar no polo passivo da demanda.
+Aduz que
+
+“O acórdão recorrido, ao ignorar essa premissa e presumir uma necessária inclusão do INSS para, a partir daí, declarar-se incompetente, subverteu a ordem processual e interpretou o art. 109, I, da CF de forma extensiva e prejudicial à Recorrente e é uma interpretação que destoa da sua finalidade e da sistemática de retenção tributária.”
+
+Sustenta ser indevida a extinção do processo, no caso, vez que, ainda que se admitisse a incompetência da justiça estadual, a medida correta seria a sua remessa ao juízo tido por competente, conforme expressamente determina o art. 64, § 3º, do CPC.
+Aduz, por fim, que ao extinguir o processo, o acórdão recorrido
+
+“(...) não apenas cometeu um erro de procedimento, mas também impediu a análise de mérito da controvérsia, que possui índole eminentemente constitucional”.
+
+Requer que
+
+“b) Conheça e dê total provimento ao presente Recurso Extraordinário para, reformando o v. acórdão recorrido, declarar a competência da Justiça Estadual para processar e julgar o feito, determinando o retorno dos autos à Turma Recursal de origem para que esta proceda ao julgamento do mérito do recurso inominado, como de direito;
+c) Subsidiariamente, que o recurso seja provido para anular o acórdão na parte em que extinguiu o processo, determinando-se a remessa dos autos à Justiça Federal competente, em observância aos arts. 4º, 6º e 64, § 3º, do CPC.”
+
+A Presidência do Tribunal de origem (e-doc 8) inadmitiu o apelo extremo em razão da Súmula nº 279 do STF, e asseverou a ausência de pertinência temática da controvérsia com as teses fixadas nos Temas 779 e 163 da Repercussão Geral.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+Assim se manifestou a Corte de origem sobre a matéria controvertida nos autos (e-doc 5):
+
+“Presentes os pressupostos de admissibilidade, o recurso do Município deve ser conhecido. E, de pronto, adianto que razão assiste ao ente no que tange à necessidade de observância da incompetência do Juízo Estadual para julgar sobre a incidência ou não de contribuição previdenciário federal, ainda que sobre pagamentos realizados por entes municipais.
+Isso, pois, do que se depreende da demanda, a autora é servidora pública municipal efetivo, de fato, contratada pelo município recorrente, porém a contribuição previdenciária é vertida em favor do RGPS.
+“(...).
+Desse modo, por conseguinte, em pleitos relacionados ao Regime Geral de Previdência Social é necessária a presença da Autarquia Previdenciária Federal na ação, por certo que será a Justiça Federal a possuidora da competência absoluta para a análise da matéria e seu julgamento, nos termos do art. 109, inciso I, da Constituição Federal.
+Ante o exposto, voto pelo conhecimento e PROVIMENTO do recurso do Município de Primeiro de Maio para extinguir o processo sem resolução de mérito, com fulcro no art. 485, IV, do Código de Processo Civil, haja vista o reconhecimento da incompetência absoluta da Justiça Estadual para apreciação da matéria aqui discutida. Sem prejuízo, voto por julgar prejudicado o recurso da autora, nos termos do art. 932, III, do mesmo dispositivo.
+Sem custas, diante do êxito em seu recurso (art. 55 da Lei 9.099/1995). Por outro lado, deixo de condenar a autora em sucumbência ante a ausência de análise meritória.”
+
+Como se vê,  para acolher as razões recursais e concluir pela competência da justiça estadual, seria necessária a análise e interpretação da legislação infraconstitucional pertinente, bem como o reexame de fatos e provas dos autos, o que se mostra incabível em sede extraordinária. Incidência da Súmula nº 279 desta Corte. Nesse sentido, colaciono os seguintes precedentes:
+
+“DIREITO PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDORA PÚBLICA MUNICIPAL VINCULADA AO RGPS. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE VERBAS TRANSITÓRIAS. COMPETÊNCIA DA JUSTIÇA FEDERAL. REEXAME DE FATOS E PROVAS E DE LEGISLAÇÃO INFRACONSTITUCIONAL. ENUNCIADO Nº 279 DA SÚMULA DO STF. AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO. NEGATIVA DE PROVIMENTO. I. CASO EM EXAME 1. Recurso extraordinário com agravo interposto contra decisão pela qual se inadmitiu recurso extraordinário manejado em desfavor de acórdão da Turma Recursal, que, ao reconhecer a incompetência absoluta da Justiça estadual para processar e julgar ação proposta por servidora municipal vinculada ao RGPS — visando à cessação de descontos previdenciários sobre adicional de insalubridade e à repetição de indébito —, extinguiu o feito sem resolução do mérito. II. QUESTÃO EM DISCUSSÃO 2. Há duas questões em discussão: (i) definir se a controvérsia acerca da incidência de contribuição previdenciária sobre verbas transitórias de servidora vinculada ao RGPS atrai a competência da Justiça Federal; e (ii) estabelecer se o exame da controvérsia no recurso extraordinário demanda reexame do conjunto fático-probatório, vedado pelo enunciado nº 279 da Súmula do STF. III. RAZÕES DE DECIDIR 3. No acórdão recorrido, conclui-se que, sendo a autora vinculada ao RGPS, a legitimidade passiva recai sobre o INSS, o que atrai a competência da Justiça Federal, nos termos do art. 109, inc. I, da Constituição da República. 4. A revisão da conclusão adotada pela instância de origem exige reexame de fatos e provas, especialmente quanto à natureza da relação jurídica e à identificação do ente responsável pela exação. 5. O recurso extraordinário não admite reanálise do conjunto fáticoprobatório, conforme vedação do enunciado nº 279 da Súmula do STF. 6. A alegação de violação ao art. 109, inc. I, da Constituição configura, no caso, ofensa indireta ou reflexa, dependente da interpretação de normas infraconstitucionais e da reapreciação dos fatos. 7. A controvérsia não se enquadra nos Temas RG nº 163 e nº 779, por ausência de similitude fática e por inexistir julgamento de mérito na origem. IV. DISPOSITIVO 8. Recurso extraordinário com agravo ao qual se nega provimento” (ARE 1.595.545, Relator Ministro André Mendonça, DJe de 17/4/2026)“.
+
+“Agravo regimental no recurso extraordinário com agravo. Constitucional e Processual Civil. Inclusão do INSS no polo passivo da demanda. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos. Incidência da Súmula nº 279/STF. 2. Agravo regimental não provido. 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.” (ARE nº 1.169.569-AgR, de minha relatoria,  Tribunal Pleno, DJe 20/3/2019).
+
+No mesmo sentido, anotem-se as seguintes decisões monocráticas: ARE nº 1.615.897/PR, de minha relatoria, Dje de 19/8/2026; ARE nº 1.608.560/PR, Rel. Min. Nunes Marques, Dje de 26/6/2026; ARE nº 1.603.125/PR, Rel. Min. André Mendonça, Dje de 11/6/2026 e ARE 1.595.574/PR, Rel. Min. Alexandre de Moraes, Dje de 24/4/2026.
+No tocante à extinção do processo, sobreleva ressaltar que a parte recorrente não indicou qual dispositivo constitucional teria sido violado pelo aresto impugnado, mas apenas normas extraída do Código de Processo Civil (CPC), o que atrai o óbice da Súmula 283 do STF. Ainda que superado esse entrave, entendo que a controvérsia carece de densidade constitucional, o que impede a abertura da via extraordinária.
+Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 22 de agosto de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
