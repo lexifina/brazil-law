@@ -1,0 +1,46 @@
+Decisão
+
+Trata-se de Recurso Ordinário interposto contra acórdão da Quinta Turma do Superior Tribunal de Justiça, proferido no julgamento do Agravo Regimental no HC 1.092.797/RJ, submetido à relatoria do Ministro REYNALDO SOARES DA FONSECA.
+Consta dos autos que o paciente foi denunciado pela prática dos crimes de roubo majorado (art. 157, § 2º-A, I, e § 2º, II e V, do Código Penal), extorsão (art. 158, § 1º, do CP) e associação criminosa (art. 288 do CP). Em síntese, colhe-se da denúncia:
+
+[...]
+No dia 14 de agosto de 2025, por volta das 03h00min, na residência situada na Rua Deputado José Luiz Erthal, nº 31, Cafubá, Niterói/RJ, a vítima Gisele Souza Lanter encontrava-se em casa junto de seu companheiro Luiz Paulo Gama Filho. Na ocasião, segundo narrado pela vítima Gisele, os cães da residência ficaram agitados, levando Luiz Paulo a sair ao quintal para verificar o motivo, ocasião em que foi surpreendido por um homem armado com pistola preta, que anunciou o assalto dizendo “PERDEU”, desferindo-lhe um tapa no rosto e amarrando suas mãos com braçadeiras plásticas.
+[...]
+Ato contínuo, após render Luiz Paulo, o criminoso o conduziu para dentro da casa, onde também amarrou os braços de Gisele com lacres plásticos, mantendo ambos imobilizados no quarto. Enquanto as vítimas estavam amarradas, o criminoso revirava os cômodos da residência, separando diversos pertences para colocar dentro do veículo da vítima.
+Registre-se que o autor mantinha constante comunicação por rádio e telefone com comparsas que aguardavam do lado de fora em um veículo prata. Durante a ação criminosa, em determinado momento, o criminoso constrangeu Gisele a realizar transferências via PIX, afirmando que já “tomava conta da casa há algum tempo” e conhecia sua rotina. O autor tentou realizar transferências pelo aplicativo do Banco Santander no celular da vítima, mas não obteve êxito em razão do horário bancário, ficando bastante alterado. Apesar da tentativa frustrada, conseguiu efetivar uma transferência PIX de R$ 13.000,00 para a conta de João Victor Suteo Modesto, conforme comprovante anexado aos autos.
+O criminoso também visualizou saldo superior a R$ 200.000,00 em conta de Darctclea, amiga da vítima, mas não conseguiu efetuar transações por impedimento técnico. Por volta das 06h30min, o criminoso deixou o local, levando o automóvel Volkswagen Gol, prata, placa RJQ4F28, além de diversos bens móveis, joias, eletrodomésticos, documentos pessoais e cartões bancários da vítima [...].
+ A vítima Luiz Paulo, em sede policial, acrescentou que o criminoso o manteve sob a mira da arma, inclusive encostando-a em seu pescoço, tendo recebido uma coronhada na cabeça durante a ação. Durante a ação, o autor afirmou que, verbis: “O MANO MANDOU MATAR VOCÊ”, dirigindo-se a Gisele, e questionou se Luiz Paulo era seu segurança. O criminoso revistou o quarto e subtraiu caixas de joias, além de dinheiro em espécie da carteira de Luiz Paulo (cerca de R$ 200,00).
+[...]
+
+Buscando a revogação da custódia, a defesa impetrou Habeas Corpus no Tribunal de Justiça do Estado do Rio de Janeiro, que denegou a ordem.
+Na sequência, nova impetração, desta vez direcionada ao Superior Tribunal de Justiça, indeferida pelo Ministro relator, em decisão confirmada no julgamento do subsequente Agravo Regimental, conforme ementa:
+
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. ROUBO MAJORADO, EXTORSÃO MAJORADA E ASSOCIAÇÃO CRIMINOSA. EXCEPCIONAL GRAVIDADE CONCRETA. RECEBIMENTO DE VALORES, SAQUES, FRACIONAMENTO E REPASSE. CONTEMPORANEIDADE DOS MOTIVOS CAUTELARES. MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA. AGRAVO REGIMENTAL DA DEFESA NÃO PROVIDO.
+1. A prisão preventiva foi mantida pelas instâncias ordinárias para garantia da ordem pública e conveniência da instrução criminal, em contexto de atuação coordenada com emprego de arma de fogo, grave ameaça, restrição da liberdade das vítimas e ameaça direta de morte, em concurso de agentes.
+2. A atuação do agravante foi individualizada: ele teria recebido em sua conta a transferência de R$ 13.000,00 provenientes da extorsão, realizado saques, fracionado e repassado valores a corréus, dispersando o produto do crime, visando dificultar o rastreamento e a recuperação dos ativos. Tal papel revela contribuição consciente e relevante para a empreitada criminosa.
+3. A contemporaneidade da medida cautelar refere-se à atualidade dos motivos que justificam a custódia, não ao mero lapso entre o fato e o decreto. O interregno decorreu da complexidade das apurações (pluralidade de agentes e rastreamento financeiro) e do caráter permanente da associação criminosa, além da verificação de atos subsequentes à subtração (saques e fracionamento do numerário).
+4. As condições pessoais favoráveis não afastam a prisão preventiva quando presentes elementos concretos de cautelaridade. As medidas cautelares diversas do art. 319 do CPP não se mostram suficientes diante da gravidade concreta do delito e da estrutura coordenada da empreitada criminosa, com vítimas ainda a serem ouvidas.
+5. Agravo regimental da defesa não provido.
+
+Neste Recurso Ordinário, a defesa sustenta, em síntese, a ausência dos pressupostos autorizadores da prisão preventiva. Requer, assim, o provimento do recurso para revogar o decreto prisional, com ou sem imposição de medidas cautelares diversas.
+É o relatório. Decido.
+
+De acordo com o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada quando houver prova da existência do crime (materialidade) e indício suficiente de autoria. Além disso, é preciso demonstrar, concretamente, a existência de um dos fundamentos que a autorizam: para garantir a ordem pública; para garantir a ordem econômica; por conveniência da instrução criminal; ou, ainda, para assegurar a aplicação da lei penal.
+As razões apresentadas pelas instâncias precedentes revelam que a segregação cautelar está lastreada em fundamentação jurídica idônea, chancelada pela jurisprudência do SUPREMO TRIBUNAL FEDERAL.
+Sobressaem dos autos as circunstâncias concretas do caso em exame, bem como a gravidade diferenciada das práticas ilícitas imputadas, o que evidencia a necessidade de resguardar a ordem pública. Ressalte-se, em especial, que:
+
+os DENUNCIADOS em perfeita comunhão de ações e desígnios entre si, de forma livre e consciente, associaram-se de forma estável e permanente em um verdadeiro agrupamento criminoso caracterizado pelo uso de armas de fogo (pistolas), com a finalidade de praticar crimes contra o patrimônio, efetuando diversos delitos com o mesmo modus operandi, com divisão de tarefas consoante e repasse dos valores ilícitos entre diversos integrantes.
+Além disso, OS DENUNCIADOS tentaram constranger as vítimas a efetuar novas transferências bancárias, inclusive da conta de sua amiga Darctclea, que possuía saldo superior a R$ 200.000,00. A tentativa não se consumou em razão do horário bancário, frustrando a intenção dos agentes.
+
+Esses fatores revelam a imprescindibilidade da segregação cautelar para resguardar a ordem pública (cf. HC 140.305, Rel. Min. MARCO AURÉLIO, Redator para o Acórdão: Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 25/4/2018; HC 140.512, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 30/5/2017; HC 137.131 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 17/5/2017; HC 141.170 AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe de 19/5/2017; HC 132.543, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 6/9/2016, entre outros).
+Sob tal prisma, a jurisprudência desta CORTE possui entendimento no sentido de que a existência de grupo criminoso “impõe a necessidade de se interromper ou diminuir a atuação de seus integrantes como garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva” (HC 95.024, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe de 20/2/2009). No mesmo sentido: RHC 138.369, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 1/3/2017; HC 126.573, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 23/11/2015; HC 106.991, Rel. Min. RICARDO LEWANDOWSKI, Primeira Turma, DJe 17/5/2011; HC 99.454, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 1/2/2011.
+Por fim, a análise das questões fáticas suscitadas, com o objetivo de infirmar o entendimento das instâncias ordinárias, demandaria o reexame do conjunto probatório, providência incompatível com esta via processual (HC 159624 AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 16/10/2018; HC 136.622 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 17/2/2017; HC 135.748, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 13/2/2017; HC 135.956, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 28/11/2016).
+Em conclusão, não merece reparo o entendimento firmado pela Corte Superior quanto à inaplicabilidade das medidas cautelares diversas, cuja incidência não se mostraria adequada e suficiente para acautelar a ordem pública, ante as particularidades do caso.
+Diante do exposto, com base no art. 21, §1º, do Regimento Interno do STF, NEGO PROVIMENTO ao Recurso Ordinário.
+Ciência à Procuradoria-Geral da República.
+Publique-se.
+Brasília, 23 de agosto de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+		      Documento assinado digitalmente
