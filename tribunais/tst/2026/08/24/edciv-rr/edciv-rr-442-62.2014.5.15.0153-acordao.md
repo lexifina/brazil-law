@@ -1,0 +1,131 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Superior do Trabalho
+PROCESSO Nº TST-EDCiv-RR-442-62.2014.5.15.0153
+A C Ó R D Ã O
+2ª Turma
+GMDMA/RG
+EMBARGOS DE DECLARAÇÃO DO RECLAMANTE. RECURSO DE
+REVISTA INTERPOSTO NA VIGÊNCIA DA LEI 13.467/2017.
+RESPONSABILIDADE SUBSIDIÁRIA. TEMA 1.118 DA TABELA DE
+REPERCUSSÃO GERAL DO STF. ÔNUS DA PROVA. 1 – Esta Turma
+deu provimento ao recurso de revista do ente público para
+excluir a responsabilidade subsidiária que lhe foi atribuída, uma
+vez constatado que o Tribunal Regional reconheceu a culpa
+decorrente da negligência na fiscalização (culpa in vigilando) do
+ente público com amparo exclusivamente na inversão do ônus
+da prova, entendimento que não se adequa ao posicionamento
+firmado pela Suprema Corte, no julgamento do Tema 1.118. 2 –
+O reclamante alega que a decisão embargada merece
+reconsideração, pois o Regional afirmou que não há nenhuma
+prova de que a recorrente adotou medidas para fiscalizar a
+execução do contrato. 3 - Os vícios autorizadores dos embargos
+de declaração, previstos nos arts. 1.022 do NCPC e 897-A da CLT
+referem-se à omissão, contradição ou obscuridade e, no caso,
+verifica-se que a embargante, de fato, não indica nenhum desses
+vícios na decisão embargada, mas apenas manifesta
+contrariedade em face da decisão deste Colegiado que excluiu a
+responsabilidade subsidiária do ente público. Embargos de
+declaração conhecidos e não providos.
+Vistos, relatados e discutidos estes autos de Embargos de Declaração Cível em
+Recurso de Revista nº TST-EDCiv-RR-442-62.2014.5.15.0153, em que é Embargante LUCAS DOS REIS
+SIMPLÍCIO e são Embargados DEPARTAMENTO DE ESTRADAS DE RODAGEM DO ESTADO DE SÃO
+PAULO - DER, FERNANDA MARIA LEONE GUIRELLI SERVIÇOS DE PORTARIA - ME e M. A. LEONOR
+RIBEIRO DA CRUZ SERVIÇOS DE PORTARIA - ME.
+Esta Turma deu provimento ao recurso de revista do DER para excluir a
+responsabilidade subsidiária que foi reconhecida pelo Regional.
+O reclamante opõe embargos de declaração. Pretende, em síntese, a
+reconsideração da decisão.
+Contrarrazões não foram apresentadas.
+É o relatório.
+V O T O
+1 – CONHECIMENTO
+Presentes os pressupostos processuais, CONHEÇO dos embargos de declaração.
+2 - MÉRITO
+Esta Turma deu provimento ao recurso de revista do ente público para excluir a
+responsabilidade subsidiária que lhe foi atribuída, uma vez constatado que o Tribunal Regional Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067D21E9C1678382.
+reconheceu a culpa decorrente da negligência na fiscalização (culpa in vigilando) do ente público com
+amparo exclusivamente na inversão do ônus da prova, entendimento que não se adequa ao
+posicionamento firmado pela Suprema Corte, no julgamento do Tema 1.118.
+A seguir os fundamentos do acórdão embargado, no que interessa:
+“...
+2.1 – RESPONSABILIDADE SUBSIDIÁRIA. ENTE PÚBLICO
+O Tribunal Regional reconheceu a responsabilidade subsidiária do ente público aos seguintes
+fundamentos:
+“Na hipótese dos autos, pelo Princípio da Aptidão para a Produção da Prova, caberia ao ente
+público a prova de que, de fato, fiscalizou o contrato de prestação de serviços. Este ônus é imputado
+à Administração em razão de se entender ser inacessível ao Trabalhador este tipo de prova, uma
+vez que os documentos referentes não se encontram em seu poder.
+Possível verificar que o trabalhador teve deferidas horas extras, intervalo intrajornada, feriados,
+férias 2011/2012 em dobro, bem como as de 2012/2013 de forma simples e as verbas rescisórias, o que
+deixa claro a ineficiência do Recorrente em fiscalizar o contrato, restando insuficientes os documentos
+apresentados. Atraído aqui, por consequência, a aplicação do entendimento sufragado pelo inciso V do
+entendimento sumulado pelo TST n. 331, devendo, portanto, ser-lhe aplicada a responsabilidade
+subsidiária.
+Desta forma, não restando demonstrada a fiscalização por parte do Recorrente e / ou uma real
+tomada de providências contemporâneas em relação ao inadimplemento, caracterizada está sua culpa in
+vigilando.
+...”
+O Supremo Tribunal Federal, ao julgar o Tema 1.118 da Tabela de Repercussão Geral, em
+13/2/2025, fixou a tese vinculante de que a responsabilidade subsidiária do ente público não se
+sustenta se amparada exclusivamente na premissa da inversão do ônus da prova, sendo necessária
+a comprovação, pela parte autora, da negligência na fiscalização ou do nexo de causalidade entre o
+dano e a conduta comissiva ou omissiva da Administração Pública. Confira-se:
+(...) 1. Não há responsabilidade subsidiária da Administração Pública por encargos
+trabalhistas gerados pelo inadimplemento de empresa prestadora de serviços contratada, se
+amparada exclusivamente na premissa da inversão do ônus da prova, remanescendo
+imprescindível a comprovação, pela parte autora, da efetiva existência de comportamento
+negligente ou nexo de causalidade entre o dano por ele invocado e a conduta comissiva ou omissiva
+do poder público.
+2. Haverá comportamento negligente quando a Administração Pública permanecer inerte após o
+recebimento de notificação formal de que a empresa contratada está descumprindo suas obrigações
+trabalhistas, enviada pelo trabalhador, sindicato, Ministério do Trabalho, Ministério Público, Defensoria
+Pública ou outro meio idôneo.
+3. Constitui responsabilidade da Administração Pública garantir as condições de segurança,
+higiene e salubridade dos trabalhadores, quando o trabalho for realizado em suas dependências ou local
+previamente convencionado em contrato, nos termos do art. 5º-A, § 3º, da Lei nº 6.019/1974.
+4. Nos contratos de terceirização, a Administração Pública deverá: (i) exigir da contratada a
+comprovação de capital social integralizado compatível com o número de empregados, na forma do art.
+4º-B da Lei nº 6.019/1974; e (ii) adotar medidas para assegurar o cumprimento das obrigações
+trabalhistas pela contratada, na forma do art. 121, § 3º, da Lei nº 14.133/2021, tais como condicionar o
+pagamento à comprovação de quitação das obrigações trabalhistas do mês anterior. (...) (grifos nossos)
+Desse modo, por obediência à decisão vinculante do Supremo Tribunal Federal, não há como
+se manter a responsabilidade subsidiária do ente público, visto que o acórdão recorrido destoa da
+decisão exarada pela Corte Suprema no RE 760.931/DF, com repercussão geral, por condenar o ente
+público independentemente de comprovação da culpa.
+Por essas razões, afigura-se possível a tese de violação do art. 71, § 1.º, da Lei 8.666/93.
+Diante do exposto, DOU PROVIMENTO ao agravo de instrumento, para determinar o
+processamento do recurso de revista.
+IV - RECURSO DE REVISTA
+1 – CONHECIMENTO
+Satisfeitos os pressupostos extrínsecos de admissibilidade, passa-se ao exame dos
+pressupostos intrínsecos do recurso de revista.
+1.1 - RESPONSABILIDADE SUBSIDIÁRIA. ENTE PÚBLICO
+Consoante os fundamentos lançados quando do exame do agravo de instrumento e aqui
+reiterados, CONHEÇO do recurso de revista por violação do art. 71, § 1.º, da Lei 8.666/93.
+2 – MÉRITO
+2.1 - RESPONSABILIDADE SUBSIDIÁRIA. ENTE PÚBLICO
+Como consequência do conhecimento do recurso de revista por violação do art. 71, § 1.º, da Lei
+8.666/93, DOU-LHE PROVIMENTO para afastar a responsabilidade subsidiária atribuída ao ente
+público sobre as obrigações trabalhistas inadimplidas pela empresa contratada.”
+O reclamante alega que a decisão embargada ao afastar a responsabilidade
+subsidiária do ente público incorreu em várias omissões/contradições, mormente considerando-se a
+afirmação do Tribunal Regional no sentido de que houve o “inadimplemento reiterado de obrigações trabalhistas,
+incluindo verbas rescisórias, horas extras e férias, circunstâncias consideradas indicativas da inexistência de fiscalização eficaz
+do contrato administrativo”.
+Pois bem, os vícios autorizadores dos embargos de declaração, previstos nos arts. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067D21E9C1678382.
+1.022 do NCPC e 897-A da CLT referem-se à omissão, contradição ou obscuridade e, no caso, verifica-se
+que o embargante, de fato, não indica nenhum desses vícios na decisão embargada, mas apenas
+manifesta contrariedade em face da decisão deste Colegiado que, com amparo no entendimento da
+Suprema Corte, fixado no julgamento do Tema 1.118, excluiu a responsabilidade subsidiária do ente
+público.
+Diante do exposto, NEGO PROVIMENTO aos embargos de declaração.
+ISTO POSTO
+ACORDAM as Ministras da Segunda Turma do Tribunal Superior do Trabalho, por
+unanimidade, conhecer dos embargos de declaração e, no mérito, negar-lhes provimento.
+Brasília, 20 de agosto de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+DELAÍDE MIRANDA ARANTES
+Ministra Relatora
+Firmado por assinatura digital em 21/08/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067D21E9C1678382.
