@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2340, de 24 de agosto de 2026
+Altera a Instrução Normativa RFB nº 2.119, de 6 de dezembro de 2022, para aperfeiçoar as hipóteses de declaração de inaptidão no Cadastro Nacional da Pessoa Jurídica - CNPJ.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o art. 350, caput, inciso III, do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 37, caput, inciso XXII, da Constituição, nos arts. 1º, 3º e 5º da Lei nº 5.614, de 5 de outubro de 1970, e nos arts. 81 e 82 da Lei nº 9.430, de 27 de dezembro de 1996, resolve:
