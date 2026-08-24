@@ -1,0 +1,756 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Superior do Trabalho
+PROCESSO Nº TST-EDCiv-Ag-RRAg - 100965-26.2017.5.01.0005
+A C Ó R D Ã O
+2ª Turma
+GMLC/tss
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO DE
+INSTRUMENTO EM RECURSO DE REVISTA. REQUISITO DO
+ARTIGO 896, § 1º-A, INCISO I, DA CLT - NÃO OBSERVÂNCIA -
+AUSÊNCIA DE TRANSCRIÇÃO. INVIABILIDADE.
+ENQUADRAMENTO BANCÁRIO – VENDA DE TÍTULO
+IMOBILIÁRIO – LCI/LCA – ATIVIDADE TIPICAMENTE
+FINANCEIRA – APLICABILIDADE DA SÚMULA Nº 55 DO TST.
+VÍCIOS INEXISTENTES. Não evidenciados quaisquer dos vícios
+especificados nos artigos 1.022 do CPC e 897-A da CLT, não se
+viabiliza a oposição dos embargos de declaração. Embargos de
+declaração rejeitados.
+Vistos, relatados e discutidos estes autos de Embargos de Declaração Cível em
+Agravo em Recurso de Revista com Agravo nº TST-EDCiv-Ag-RRAg - 100965-26.2017.5.01.0005, em que
+é Embargante HAITONG DO BRASIL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A. e é
+Embargado(a) ALEXSANDER LUIZ DE QUEIROZ SILVA.
+Trata-se de embargos de declaração opostos contra acórdão da 2ª Turma do TST
+que negou provimento ao agravo interposto pelo ora embargante no tocante aos temas “horas extras –
+cargo de confiança” e “enquadramento bancário – venda de título imobiliário – LCI/LCA – atividade
+tipicamente financeira – aplicabilidade a súmula nº 55 do TST”
+A empresa reclamada opõe os presentes embargos de declaração com amparo
+nos artigos 897-A da CLT e 1.022 do CPC, apontando omissão no julgado.
+É o relatório.
+V O T O
+Conheço dos embargos de declaração, porque tempestivos e regulares.
+Constituem os fundamentos do acórdão embargado, na fração de interesse:
+“A C Ó R D Ã O
+2ª Turma
+GMLC / tss
+AGRAVO INTERNO. RECURSO DE REVISTA COM AGRAVO. APELO INTERPOSTO
+APÓS A VIGÊNCIA DA LEI Nº 13.467/2017. MATÉRIA ANALISADA EM AGRAVO DE
+INSTRUMENTO DA RECLAMADA. REQUISITO DO ARTIGO 896, § 1º-A, INCISO I, DA CLT.
+NÃO OBSERVÂNCIA. AUSÊNCIA DE TRANSCRIÇÃO. INVIABILIDADE. Com efeito, cumpre
+registrar que, no presente caso, a decisão agravada aplicou o óbice contido no art. 896, §
+1º-A, I, da CLT. De fato, a ausência de transcrição dos trechos do acórdão recorrido que
+consubstanciam o prequestionamento da controvérsia desatende o requisito formal de
+admissibilidade referido no artigo 896, § 1º-A, inciso I, da CLT. Precedentes. Agravo
+interno a que se nega provimento.
+MATÉRIA ANALISADA EM RECURSO DE REVISTA DO RECLAMANTE.
+ENQUADRAMENTO BANCÁRIO - VENDA DE TÍTULO IMOBILIÁRIO - LCI / LCA -
+ATIVIDADE TIPICAMENTE FINANCEIRA - APLICABILIDADE DA SÚMULA Nº 55 DO TST.
+Verifica-se que a decisão monocrática agravada deu provimento ao Recurso de Revista
+do reclamante para reconhecer seu enquadramento como bancário, com esteio na
+Súmula nº 55 do TST. A Agravante, empresa distribuidora e corretora de títulos e valores
+mobiliários, insiste na inaplicabilidade da Súmula nº 55 e na incidência da Súmula nº 119
+do TST, argumentando que a venda de Letras de Crédito Imobiliário (LCI) e Letras de
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067D2C27494F23C0.
+Crédito do Agronegócio (LCA) não configura atividade bancária. Contudo, a
+argumentação não se sustenta. Conforme o sítio eletrônico do governo federal, LCI e LCA
+são títulos de renda fixa emitidos por instituições financeiras para captação de recursos
+destinados ao fomento dos setores imobiliário e do agronegócio, respectivamente. Tais
+instrumentos, embora sejam "títulos", não se confundem com os "valores mobiliários"
+no sentido estrito que a Súmula nº 119 do TST emprega, pois são reconhecidos, no plano
+técnico-regulatório, como títulos bancários e não estão primariamente sujeitos à
+competência regulatória da Comissão de Valores Mobiliários, mas sim do Banco Central
+do Brasil, a teor da Lei nº 4.595/64 e da Lei nº 6.385/1976. A atividade de venda de LCI e
+LCA, ao envolver captação de recursos para operações de crédito, caracteriza-se como
+atividade intrínseca ao sistema financeiro, equiparável à atividade bancária, nos termos
+da Súmula nº 55 do TST. A mera denominação de "distribuidora e corretora de títulos e
+valores mobiliários" não afasta a substância da atividade desempenhada pelo
+reclamante, que se amolda ao escopo da Súmula nº 55 do TST. Destaca-se, ainda, que o
+entendimento consubstanciado na mencionada súmula foi reafirmado pelo Tribunal
+Pleno do TST na Sessão de Julgamento realizada em 22/08/2025, por ocasião do
+julgamento do Incidente de Recursos Repetitivos (IRR) nº 261. Naquela oportunidade,
+fixou-se a seguinte tese jurídica: "As empresas de crédito, financiamento ou investimento,
+também denominadas financeiras, equiparam-se aos estabelecimentos bancários para os
+efeitos do art. 224 da CLT". Ademais, ressalta-se que os elementos fático-probatórios
+delineados no acórdão regional foram suficientes para a análise das razões recursais,
+não havendo falar em incidência da Súmula n.º 126 do TST. Agravo interno a que se
+nega provimento.
+Vistos, relatados e discutidos estes autos de Agravo em Recurso de Revista com Agravo nº TST￾Ag-RRAg - 100965-26.2017.5.01.0005 , em que é Agravante(s) HAITONG DO BRASIL DISTRIBUIDORA DE
+TITULOS E VALORES MOBILIARIOS S.A. e é Agravado(s) ALEXSANDER LUIZ DE QUEIROZ SILVA .
+Trata-se de agravo interno interposto em face de decisão monocrática que negou provimento
+ao agravo de instrumento da parte ora agravante e conheceu do recurso de revista do reclamante.
+Contraminuta apresentada.
+Dispensada a manifestação da Procuradoria-Geral do Trabalho.
+É o relatório.
+V O T O
+CONHECIMENTO
+Conheço do agravo interno, porque atendidos os pressupostos legais de admissibilidade.
+MÉRITO
+A decisão agravada acha-se fundamentada nos seguintes termos:
+"D E C I S Ã O
+AGRAVO DE INSTRUMENTO DA RECLAMADA
+Trata-se de recurso interposto contra decisão que denegou seguimento a recurso
+de revista.
+Intimada a parte para apresentação de contraminuta e contrarrazões.
+Manifestação do MPT não apresentada.
+É o relatório.
+Inicialmente, ressalto que a decisão denegatória do Tribunal Regional não acarreta
+qualquer prejuízo à parte, em razão de este juízo ad quem, ao analisar o presente agravo
+de instrumento, proceder a um novo juízo de admissibilidade da Revista.
+No mais, presentes os pressupostos legais de admissibilidade, conheço do apelo.
+O recurso de revista teve seu processamento denegado com amparo nos
+seguintes fundamentos:
+DURAÇÃO DO TRABALHO / HORAS EXTRAS / CARGO DE CONFIANÇA
+A Lei nº 13.015/2014, aplicável aos recursos interpostos das decisões publicadas a
+partir de 22/09/2014 (consoante interpretação do TST estampada no artigo 1º do Ato
+491/SEGJUD.GP), inseriu o $1º-A no artigo 896 da CLT, com a seguinte redação:
+"Art. 896. (...) S 1º-A. Sob pena de não conhecimento, é ônus da parte: 1 - indicar o
+trecho da decisão recorrida que consubstancia o prequestionamento da controvérsia
+objeto do recurso de revista; II - indicar, de forma explícita e fundamentada,
+contrariedade a dispositivo de lei, súmula ou orientação jurisprudencial do Tribunal
+Superior do Trabalho que conflite com a decisão regional; III - expor as razões do pedido
+de reforma, impugnando todos os fundamentos jurídicos da decisão recorrida, inclusive
+mediante demonstração analítica de cada dispositivo de lei, da Constituição Federal, de
+súmula ou orientação jurisprudencial cuja contrariedade aponte. IV - transcrever na peça
+recursal, no caso de suscitar preliminar de nulidade de julgado por negativa de
+prestação jurisdicional, o trecho dos embargos declaratórios em que foi pedido o
+pronunciamento do tribunal sobre questão veiculada no recurso ordinário e o trecho da
+decisão regional que rejeitou os embargos quanto ao pedido, para cotejo e verificação,
+de plano, da ocorrência da omissão. (Incluído pela Lei nº 13.467, de 2017)".
+Diante deste contexto, não podem ser admitidos recursos cujas razões não
+indiquem o trecho da decisão recorrida que consubstancia o prequestionamento da
+controvérsia, que não apontem de forma explícita e fundamentada, contrariedade a
+dispositivo de lei, súmula ou orientação jurisprudencial do TST que conflite com a
+decisão regional, que não contenham impugnação de todos os fundamentos jurídicos da
+decisão recorrida, com demonstração analítica de cada dispositivo de lei, da
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067D2C27494F23C0.
+Constituição Federal, de súmula ou orientação Jurisprudencial cuja contrariedade
+aponte, bem como que deixem de transcrever na peça recursal, no caso de suscitar
+preliminar de nulidade de julgado por negativa de prestação jurisdicional, o trecho dos
+embargos declaratórios em que foi pedido o pronunciamento do tribunal sobre questão
+veiculada no recurso ordinário e o trecho da decisão regional que rejeitou os embargos
+quanto ao pedido, para cotejo e verificação, de plano, da ocorrência da omissão.
+(Incluído pela Lei nº 13.467, de 2017).
+No caso em apreço, não cuidou o recorrente de "indicar o trecho da decisão
+recorrida que consubstancia o prequestionamento da controvérsia objeto do recurso de
+revista".
+Em razão do exposto, não há como se admitir o recurso, no particular, em face da
+patente deficiência de fundamentação.
+CONCLUSÃO
+NEGO seguimento ao recurso de revista.
+A parte agravante insiste no processamento do recurso de revista. Em síntese,
+alega que o apelo atende integralmente aos pressupostos legais de admissibilidade.
+Aponta discrepância legal e jurisprudencial.
+Contudo, verifica-se que a decisão denegatória está correta. Ademais, não foi
+apresentado qualquer argumento capaz de desconstituir os fundamentos da decisão
+agravada.
+Com efeito, note-se que embora tenha, no recurso de revista, parafraseado a
+fundamentação adotada pelo TRT para afastar a alegação de cargo função confiança,
+pautado no art. 62, II, da CLT, em virtude da preclusão, a reclamada olvidou-se de
+transcrever precisamente o trecho do acórdão em que examinada controvérsia. Logo,
+não atendido o requisito do art. 896, §1º-A, da CLT.
+Assim, adota-se, como razões de decidir, os fundamentos constantes da decisão
+denegatória.
+Destaque-se que a técnica da fundamentação per relationem cumpre a exigência
+constitucional da motivação das decisões proferidas pelo Poder Judiciário (art. 93, IX, da
+Constituição Federal) e não resulta em vício de fundamentação. É o que se extrai dos
+seguintes julgados do Supremo Tribunal Federal:
+"AGRAVO REGIMENTAL NOS SEGUNDOS EMBARGOS DE DECLARAÇÃO NO
+RECURSO EXTRAORDINÁRIO CRIMINAL COM AGRAVO. OFENSA AOS ARTS. 5°, XII; E 93, IX,
+DA CF. ALEGAÇÃO DE FALTA DE PREQUESTIONAMENTO E DE EXISTÊNCIA DE OFENSA
+REFLEXA. INOCORRÊNCIA. INTERCEPTAÇÕES TELEFÔNICAS, ESCUTAS AMBIENTAIS E
+RASTREAMENTO VEICULAR DEFERIDOS EM DECISÃO FUNDAMENTADA. AUSÊNCIA DE
+INDÍCIOS DE AUTORIA. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO￾PROBATÓRIO. SÚMULA 279/STF. MEDIDAS EXCEPCIONAIS DEFERIDAS PELO PERÍODO DE
+30 DIAS. POSSIBILIDADE. FALTA DE DEMONSTRAÇÃO DO PREJUÍZO. AUSÊNCIA DE
+IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA
+SÚMULA 283 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO A QUE SE NEGA PROVIMENTO. I
+– No caso dos autos, ficam afastadas as alegações de falta de prequestionamento e de
+existência de ofensa reflexa, uma vez que os arts. 5°, XII; e 93, IX, da Constituição Federal
+constaram da ementa do acórdão recorrido e foram utilizados como razão de decidir
+pelo Tribunal de origem. II – O Supremo Tribunal Federal admite como motivação per
+relationem ou por remissão a simples referência aos fundamentos de fato ou de direito
+constantes de manifestação ou ato decisório anteriores. Precedentes. [...] VIII – Agravo
+regimental a que se nega provimento". (STF-ARE1260103 ED-segundos-AgR, Relator
+Ministro Ricardo Lewandowski, Segunda Turma, DJe, 02/10/2020).
+"EMENTA AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS.
+PENAL E PROCESSO PENAL. TRANCAMENTO DE AÇÃO PENAL. HIPÓTESES RESTRITAS.
+EXCEPCIONALIDADE NÃO CONFIGURADA. INTERCEPTAÇÃO TELEFÔNICA.
+FUNDAMENTAÇÃO PER RELATIONEM. VALIDADE. VIOLAÇÃO DOS PRINCÍPIOS DO JUIZ E
+DO PROMOTOR NATURAL. INOCORRÊNCIA. AGRAVO QUE SE LIMITA A REPISAR OS
+MESMOS ARGUMENTOS. NÃO PROVIMENTO. [...] O uso da fundamentação per
+relationem não se confunde com ausência ou deficiência de fundamentação da decisão
+judicial, sendo admitida pela jurisprudência majoritária desta Suprema Corte [...]". (RHC
+151402 AgR, Primeira Turma, Relator(a): Min. ROSA WEBER, DJE 03/04/2019).
+O recurso de revista, portanto, carece de pressuposto de admissibilidade
+intrínseco, não havendo falar em violação a dispositivos legais ou divergência
+jurisprudencial.
+Assim, nego provimento ao agravo de instrumento.
+AGRAVO DE INSTRUMENTO DO RECLAMANTE
+Trata-se de recurso interposto contra decisão que denegou seguimento a recurso
+de revista.
+Intimada a parte para apresentação de contraminuta e contrarrazões.
+Manifestação do MPT não apresentada.
+É o relatório.
+Inicialmente, ressalto que a decisão denegatória do Tribunal Regional não acarreta
+qualquer prejuízo à parte, em razão de este juízo ad quem, ao analisar o presente agravo
+de instrumento, proceder a um novo juízo de admissibilidade da Revista.
+No mais, presentes os pressupostos legais de admissibilidade, conheço do apelo. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067D2C27494F23C0.
+O recurso de revista teve seu processamento denegado com amparo nos seguintes
+fundamentos:
+CATEGORIA PROFISSIONAL ESPECIAL / BANCÁRIO / ENQUADRAMENTO
+Alegação(ões): - contrariedade à(s) Súmula(s) nº 55 do Tribunal Superior do Trabalho.
+O exame detalhado do processo revela que o v. acórdão regional está
+fundamentado no conjunto fático-probatório até então produzido. Nesse aspecto, a
+análise da contrariedade mencionada importaria o reexame de todo o referido conjunto,
+o que, na atual fase processual, encontra óbice inarredável na Súmula 126 do TST.
+CONCLUSÃO NEGO seguimento ao recurso de revista.
+A parte agravante insiste no processamento do recurso de revista. Em síntese,
+alega que o apelo atende integralmente aos pressupostos legais de admissibilidade.
+Aponta discrepância legal e jurisprudencial.
+Da análise do quadro fático-probatório delineado no acórdão, é possível concluir
+por uma provável contrariedade à Súmula nº 55 do TST.
+Assim, dou provimento ao agravo de instrumento.
+RECURSO DE REVISTA
+Presentes os pressupostos extrínsecos de admissibilidade.
+EQUADRAMENTO BANCÁRIO – VENDA DE TÍTULO IMOBILIÁRIO – LCI/LCA –
+ATIVIDADE TIPICAMENTE FINANCEIRA – APLICABILIDADE DA SÚMULA Nº 55 DO TST.
+CONHECIMENTO
+O e. TRT examinou a matéria com base nos seguintes fundamentos:
+DO ENQUADRAMENTO DO AUTOR COMO BANCÁRIO Sustenta o autor recorrente
+que requereu seu enquadramento como bancário, nos termos da Súmula n. 55 do €.
+TST, por ter exercido atividades de investimento. Alega que o juízo a quo indeferiu o
+pedido, por entender que as atividades desempenhadas pelo recorrente, ainda que
+inerentes a investimentos e ao mercado financeiro, estaria adstrito ao setor imobiliário
+(leia-se mobiliário), pelo que não seria possível o requerido enquadramento. Afirma que
+o objeto social da ré não se limita a atividades financeiras do setor mobiliário, tendo a
+prova oral corroborado que os títulos que o recorrente trabalhava também não eram
+exclusivamente mobiliários. Finalmente, requer o pagamento de horas extras além da 6º
+(sexta) hora diária, tendo em vista a sua condição de bancário, observado o divisor 180
+de horas. Não lhe assiste razão. Com efeito, inconsistente a tese reiterada no recurso,
+pois não se vislumbra que na realidade contratual experimentada pelo autor, se
+fizessem presentes os requisitos caracterizadores do contrato de trabalho diretamente
+com o banco segundo demandado. Ademais, é cediço que o enquadramento sindical do
+empregado é feito com base na atividade preponderante da empresa, conforme
+estabelecem os arts. 8º, da Constituição Federal e 511, 8 1º,e 570, da CLT. Desse modo,
+agiu com acerto o juízo a quo, ao indeferir o pleito autoral de enquadramento como
+bancário. Isto porque o objeto social da ré HAITONG DO BRASIL DISTRIBUIDORA DE
+TÍTULOS E VALORES MOBILIÁRIOS S/A não é de empresa de crédito, financiamento ou
+banco de investimentos, como se observa da própria denominação e de seu estatuto
+social, in verbis:
+"(..) II. intermediar oferta pública e distribuição de títulos e valores mobiliários no
+mercado. HI. comprar e vender títulos mobiliários (...). IV. constituir sociedade de
+investimento - capital estrangeiro e administrar a respectiva carteira de títulos e valores
+mobiliários."
+Ademais, o fato de o preposto da ré e da testemunha do autor terem declarado
+que este vendia títulos como LCIs (Letras de Crédito Imobiliário) e LCAs (Letras de
+Crédito do Agronegócio), que são títulos emitidos com o objetivo de captar recursos
+financeiros destinados a empréstimos que serão oferecidos, no caso da LCI, para o setor
+imobiliário e no caso da LCA, para o agronegócio, no Brasil, não conferem ao autor o
+direito de ser enquadrado na categoria dos bancários. Assim, a LCI (Letra de Crédito
+Imobiliário) é comprada ou vendida por bancos que possuem carteira de crédito
+imobiliário, para obterem valores mobiliários suscetíveis de serem ofertados ao público
+por meio de títulos e é classificada como título de renda fixa, regulados pela Lei n.
+10.931/2004, pela Circular do Banco Central n. 3.614/2012 e pela Resolução n. 555 da
+Comissão de Valores Mobiliários.
+Portanto, por exercer essas atividades de venda de títulos, que não são
+consideradas típicas bancárias, a exemplo da compensação de cheques, da abertura de
+contas-correntes, do recebimento de pagamentos ou mesmo o acesso a saldos
+bancários, o autor não pode ser classificado como bancário e, consequentemente, não
+tem direito à aplicação das convenções coletivas dessa categoria e nem mesmo à
+jornada especial, prevista no art. 224 da CLT, conforme entendimento consubstanciado
+na Súmula n. 119 do C. TST, in verbis: "119. Os empregados de empresas distribuidoras e
+corretoras de títulos e valores mobiliários não têm direito à jornada especial dos
+bancários."
+Destarte, revela-se adequada a r. sentença recorrida, ao indeferir o pedido de
+enquadramento do autor como bancário e direitos daí decorrentes.
+Nego provimento
+Nas razões recursais, afirma que tem direito ao enquadramento como bancário,
+porquanto ter atuado na atividade de investimentos. Aponta violação de lei e
+divergência jurisprudencial. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067D2C27494F23C0.
+Ao exame.
+Note-se que o TRT entendeu que, "por exercer essas atividades de venda de
+títulos, que não são consideradas típicas bancárias, a exemplo da compensação de
+cheques, da abertura de contas-correntes, do recebimento de pagamentos ou mesmo o
+acesso a saldos bancários, o autor não pode ser classificado como bancário e,
+consequentemente, não tem direito à aplicação das convenções coletivas dessa
+categoria e nem mesmo à jornada especial, prevista no art. 224 da CLT".
+Todavia, do que se depreende do quadro fático delineado na decisão de origem é
+que o reclamante atuou efetivamente no setor de investimento, promovendo a venda de
+títulos de créditos (LCI / LCA) para o público em geral, o que implica no enquadramento
+da ré nas hipóteses da Súmula nº 55 do TST.
+Confira-se:
+FINANCEIRAS.
+As empresas de crédito, financiamento ou investimento, também denominadas
+financeiras, equiparam-se aos estabelecimentos bancários para os efeitos do art. 224 da
+CLT.
+Além disso, extrai-se da Lei nº 4.595/64, a qual dispõe "sobre a Política e as
+Instituições Monetárias, Bancárias e Creditícias, Cria o Conselho Monetário Nacional e
+dá outras providências", que dentre as atribuições do Bnaco Central reside a concessão
+de "autorização às instituições financeiras", para "praticar operações de câmbio, crédito
+real e venda habitual de títulos da dívida pública federal, estadual ou municipal, ações
+Debêntures, letras hipotecárias e outros títulos de crédito ou mobiliários".
+Veja-se:
+Art. 10. Compete privativamente ao Banco Central da República do Brasil:
+(...)
+X - Conceder autorização às instituições financeiras, a fim de que possam:
+(...)
+d)praticar operações de câmbio, crédito real e venda habitual de títulos da dívida
+pública federal, estadual ou municipal, ações Debêntures, letras hipotecárias e outros
+títulos de crédito ou mobiliários;
+Pelo exposto, conheço do recurso de revista, por contrariedade à Súmula nº 55 do
+TST.
+MÉRITO
+Como consequência do conhecimento do recurso de revista, por contrariedade à
+Súmula nº 55 do TST, dou provimento ao recurso de revista para reconhecer o
+enquadramento do reclamante como bancário, aplicando-lhe a jornada de trabalho
+prevista no art. 224 da CLT (6 horas diárias e 36 horas semanais) e as normas coletivas
+da categoria, apurando-se as horas extras devidas e demais parcelas devidas aos
+bancários, nos limites do pedido da inicial e conforme apurado em liquidação.
+CONCLUSÃO
+Diante do exposto, e com fulcro nos art.118, X, do Regimento Interno do Tribunal
+Superior do Trabalho, nego provimento ao agravo de instrumento da reclamada. Dou
+provimento ao agravo de instrumento do reclamante. Conheço do recurso de revista do
+reclamante, por contrariedade à Súmula nº 55 do TST, dou provimento ao recurso de
+revista para reconhecer o enquadramento do reclamante como bancário, aplicando-lhe
+a jornada de trabalho prevista no art. 224 da CLT (6 horas diárias e 36 horas semanais) e
+as normas coletivas da categoria, apurando-se as horas extras devidas e demais
+parcelas devidas aos bancários nos limites do pedido da inicial e conforme apurado em
+liquidação. Valor da condenação majorado em R$ 25.000,00 (vinte e cinco mil reais) e
+custas acrescidas em R$ 500,00 (quinhentos reais)."
+Para melhor compreensão da controvérsia, transcreve-se também o seguinte trecho extraído
+do acórdão regional proferido em sede de recurso ordinário:
+"DO ENQUADRAMENTO DO AUTOR COMO BANCÁRIO
+Sustenta o autor recorrente que requereu seu enquadramento como bancário,
+nos termos da Súmula n. 55 do C. TST, por ter exercido atividades de investimento.
+Alega que o juízo a quo indeferiu o pedido, por entender que as atividades
+desempenhadas pelo recorrente, ainda que inerentes a investimentos e ao mercado
+financeiro, estaria adstrito ao setor imobiliário (leia-se mobiliário), pelo que não seria
+possível o requerido enquadramento.
+Afirma que o objeto social da ré não se limita a atividades financeiras do setor
+mobiliário, tendo a prova oral corroborado que os títulos que o recorrente trabalhava
+também não eram exclusivamente mobiliários.
+Finalmente, requer o pagamento de horas extras além da 6ª (sexta) hora diária,
+tendo em vista a sua condição de bancário, observado o divisor 180 de horas.
+Não lhe assiste razão.
+Com efeito, inconsistente a tese reiterada no recurso, pois não se vislumbra que
+na realidade contratual experimentada pelo autor, se fizessem presentes os requisitos
+caracterizadores do contrato de trabalho diretamente com o banco segundo
+demandado.
+Ademais, é cediço que o enquadramento sindical do empregado é feito com base
+na atividade preponderante da empresa, conforme estabelecem os arts. 8º, da
+Constituição Federal e 511, § 1º, e 570, da CLT. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067D2C27494F23C0.
+Desse modo, agiu com acerto o juízo a quo, ao indeferir o pleito autoral de
+enquadramento como bancário.
+Isto porque o objeto social da ré HAITONG DO BRASIL DISTRIBUIDORA DE TÍTULOS
+E VALORES MOBILIÁRIOS S / A não é de empresa de crédito, financiamento ou banco de
+investimentos, como se observa da própria denominação e de seu estatuto social, in
+verbis:
+"(...)
+II. intermediar oferta pública e distribuição de títulos e valores mobiliários no
+mercado.
+III. comprar e vender títulos mobiliários (...).
+IV. constituir sociedade de investimento - capital estrangeiro e administrar a
+respectiva carteira de títulos e valores mobiliários."
+Ademais, o fato de o preposto da ré e da testemunha do autor terem declarado
+que este vendia títulos como LCIs (Letras de Crédito Imobiliário) e LCAs (Letras de
+Crédito do Agronegócio), que são títulos emitidos com o objetivo de captar recursos
+financeiros destinados a empréstimos que serão oferecidos, no caso da LCI, para o setor
+imobiliário e no caso da LCA, para o agronegócio, no Brasil, não conferem ao autor o
+direito de ser enquadrado na categoria dos bancários.
+Assim, a LCI (Letra de Crédito Imobiliário) é comprada ou vendida por bancos que
+possuem carteira de crédito imobiliário, para obterem valores mobiliários suscetíveis de
+serem ofertados ao público por meio de títulos e é classificada como título de renda fixa,
+regulados pela Lei n. 10.931/2004, pela Circular do Banco Central n. 3.614/2012 e pela
+Resolução n. 555 da Comissão de Valores Mobiliários.
+Portanto, por exercer essas atividades de venda de títulos, que não são
+consideradas típicas bancárias, a exemplo da compensação de cheques, da abertura de
+contas-correntes, do recebimento de pagamentos ou mesmo o acesso a saldos
+bancários, o autor não pode ser classificado como bancário e, consequentemente, não
+tem direito à aplicação das convenções coletivas dessa categoria e nem mesmo à
+jornada especial, prevista no art. 224 da CLT, conforme entendimento consubstanciado
+na Súmula n. 119 do C. TST, in verbis:
+"119. Os empregados de empresas distribuidoras e corretoras de títulos e valores
+mobiliários não têm direito à jornada especial dos bancários."
+Destarte, revela-se adequada a r. sentença recorrida, ao indeferir o pedido de
+enquadramento do autor como bancário e direitos daí decorrentes.
+Nego provimento.
+DAS HORAS EXTRAS
+Postula o autor o pagamento de horas extras além da 8ª (oitava) hora diária, tendo
+o juízo de primeiro grau indeferido o pedido, por concluir que o recorrente laborava de
+segunda a sexta-feira das 8h às 19h, com duas horas de intervalo para descanso e
+alimentação.
+Alega que a r. sentença desconsiderou o cargo de confiança e fixou como horário
+intrajornada a fruição de duas horas diárias, considerando o período por ele dispendido
+junto ao cliente e embora sua testemunha tenha esclarecido que o seu próprio intervalo
+era no período fixado pela r. sentença, em relação ao autor declarou que "não sabe dizer
+quanto tempo o autor usufruía do almoço".
+Finalmente, afirma que não se revela crível considerar que o período de intervalo
+demandado junto ao cliente era efetivamente de descanso, não tendo a recorrida
+comprovado o cargo de confiança alegado, fazendo prevalecer a jornada apontada pelo
+recorrente como excedente a 8 (oito) horas diárias.
+Assiste-lhe razão.
+Com efeito, o autor não contesta o fato de que a prova produzida comprovou o
+labor das 8h às 19h, somando 11 (onze) horas diárias, insurgindo-se em face da r.
+sentença, por ter desconsiderado as 3 (três) horas excedidas, contabilizando,
+equivocadamente, o horário intrajornada do recorrente.
+É incontroverso que o autor laborava de segunda a sexta-feira das 8h às 19h,
+insurgindo-se acertadamente em relação à fixação de duas horas diárias de intervalo
+intrajornada, por ter o juízo a quo considerado a declaração do autor de que poderia
+demorar 60 (sessenta), 90 (noventa) e até mesmo 120 (cento e vinte) minutos no almoço.
+Por sua vez, o preposto da ré declarou que o autor "deveria trabalhar 8 horas por
+dia mais 1 hora de intervalo alimentar; que o almoço poderia se prorrogar dependendo
+da demanda do cliente;".
+Portanto, não há como se considerar que o período de intervalo para o almoço
+junto com clientes da ré era efetivamente de descanso, restando afastada a excludente
+do art. 62 da CLT e, sendo incontroverso que o recorrente laborava de segunda a sexta￾feira, das 8h às 19h, em um total de 11 (onze horas) e tinha uma hora de intervalo
+alimentar, conforme depoimento do preposto da ré, faz jus ao pagamento de duas horas
+extras diárias laboradas além da 8ª (oitava) hora diária.
+Dou parcial provimento ao recurso, neste aspecto, para deferir o pagamento de
+duas horas extras diárias de segunda a sexta-feira, observadas as parcelas de natureza
+salarial habitualmente percebidas (item 8 da exordial) e reflexos nos repousos semanais
+remunerados, nas férias acrescidas de um terço, nos décimos terceiros salários, nas
+verbas rescisórias e nos depósitos do FGTS e multa de 40% (item 9 da exordial), Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067D2C27494F23C0.
+observada a Orientação Jurisprudencial n. 394, da E. SDI-I, do C. TST."
+Na minuta em exame, em relação ao tema"horas extras - cargo de confiança"a parte
+agravante alega que preencheu o requisito do artigo 896, § 1º-A, inciso I, da CLT.
+No tema "enquadramento bancário - venda de título imobiliário - aplicabilidade da súmula nº
+55 do TST" defende que o reclamante "não indicou e comprovou a existência de transcendência em seu
+recurso de revista.".
+Sustenta, ainda, que "tem-se que inexiste qualquer contrariedade à Súmula nº. 55 deste TST, sendo
+certo que o recurso de revista do Agravado trata apenas de temas que envolvem rediscussão de matéria
+fática, encontrando claro óbice na Súmula nº. 126 deste TST."
+Conclui afirmando que "é apenas uma empresa distribuidora e corretora de títulos e valores
+mobiliários, que, nos termos da Súmula nº. 119 do TST, não se equipara a bancos para qualquer fim
+relacionado ao cálculo de jornada."
+Examino.
+Com efeito, no tema"horas extras - cargo de confiança" cumpre registrar que, no presente
+caso, a decisão agravada aplicou o óbice contido no art. 896, § 1º-A, I, da CLT.
+De fato, a análise das razões do recurso de revista interposto pelo ora agravante revela
+que não foi observada a exigência contida no inciso I do § 1º-A do artigo 896 da CLT, o qual preconiza
+que:
+"[...] § 1º-A - Sob pena de não conhecimento, é ônus da parte:
+I - indicar o trecho da decisão recorrida que consubstancia o prequestionamento
+da controvérsia objeto do recurso de revista; (Incluído pela Lei nº 13.015, de 2014)"
+Com efeito, verifica-se que não foi apontado o trecho da decisão impugnada que consubstancia
+o prequestionamento da controvérsia objeto do recurso, de modo que não houve o preenchimento
+do requisito referente ao supracitado dispositivo legal.
+Como bem destacado na decisão agravada "note-se que embora tenha, no recurso de revista,
+parafraseado a fundamentação adotada pelo TRT para afastar a alegação de cargo função confiança,
+pautado no art. 62, II, da CLT, em virtude da preclusão, a reclamada olvidou-se de transcrever
+precisamente o trecho do acórdão em que examinada controvérsia. Logo, não atendido o requisito do art.
+896, §1º-A, da CLT.".
+A falha, portanto, inviabiliza o acolhimento da pretensão deduzida no agravo de instrumento,
+ante a ausência do requisito formal de admissibilidade do recurso de revista referido no artigo 896, §
+1º-A, inciso I, da CLT.
+Nesse sentido, os seguintes precedentes desta Corte, inclusive desta e. 2ª Turma do TST,in
+verbis :
+"(...) II - AGRAVO DE INSTRUMENTO DA FEDERAÇÃO DO COMÉRCIO DE BENS,
+SERVIÇOS E TURISMO DO ESTADO DE MINAS GERAIS - FECOMÉRCIO-MG. RECURSO DE
+REVISTA INTERPOSTO NA ÉGIDE DA LEI N.º13.015/2014. CONTRIBUIÇÃO SINDICAL.
+REQUISITO DO ART. 896, §1º-A, I, DA CLT NÃO ATENDIDO. AUSÊNCIA DE TRANSCRIÇÃO.
+Verifica-se que, no recurso de revista, a parte recorrente não indicou o trecho da decisão
+regional que consubstancia o prequestionamento da controvérsia objeto do apelo, nos
+termos do art. 896, §1º-A, I, da CLT (incluído pela Lei n.º 13.015/2014). Precedente. Agravo
+de instrumento a que se nega provimento" (AIRR-11971-50.2016.5.03.0183, 2ª Turma,
+Relatora Ministra Maria Helena Mallmann, DEJT 19/12/2022);
+"AGRAVO REGIMENTAL EM EMBARGOS REGIDOS PELA LEI Nº 13.015/2014.
+RECURSO DE REVISTA NÃO CONHECIDO. REQUISITO DISPOSTO NO ARTIGO 896, § 1º-A,
+INCISO I, DA CLT. INDICAÇÃO DO TRECHO DA DECISÃO REGIONAL QUE CONSUBSTANCIA
+O PREQUESTIONAMENTO DA CONTROVÉRSIA. DIVERGÊNCIA JURISPRUDENCIAL NÃO
+DEMONSTRADA. Nos termos da jurisprudência firmada nesta Subseção, acerca dos
+pressupostos intrínsecos do recurso de revista, insertos no artigo 896, § 1º-A, da CLT, é
+indispensável a transcrição do trecho exato da decisão recorrida que consubstancie o
+prequestionamento da matéria trazida ao debate, cabendo à parte a demonstração,
+clara e objetiva, dos fundamentos de fato e de direito constantes da decisão regional no
+tema debatido, não se admitindo, para tanto, a mera indicação das páginas
+correspondentes, paráfrase, sinopse, transcrição integral do acórdão recorrido, do
+relatório, da ementa ou apenas da parte dispositiva, pois, para fins de cumprimento da
+exigência legal, é imprescindível a transcrição textual do trecho da decisão recorrida.
+Portanto, a discussão sobre o cumprimento dos pressupostos intrínsecos do artigo 896,
+§ 1º-A, da CLT está superada pela jurisprudência desta Subseção, o que impõe a
+incidência do artigo 894, § 2º, da CLT. Precedentes. Agravo regimental desprovido. (AgR-E￾ED-RR-492-52.2014.5.21.0014, Subseção I Especializada em Dissídios Individuais, Relator
+Ministro Jose Roberto Freire Pimenta, DEJT 25/05/2018)."
+"AGRAVO DE INSTRUMENTO . RECURSO INTERPOSTO NA VIGÊNCIA DA LEI N.º
+13.467/2017. TRANSCENDÊNCIA. Considerando a possibilidade de a decisão recorrida
+contrariar entendimento consubstanciado na Súmula nº 331, verifica-se a
+transcendência política , nos termos do artigo 896-A, § 1º, II, da CLT. 1.
+RESPONSABILIDADE SUBSIDIÁRIA. DONA DA OBRA. ORIENTAÇÃO JURISPRUDENCIAL Nº
+191 DA SBDI-1. PROVIMENTO. Diante de possível contrariedade à Orientação
+Jurisprudencial nº 191 da SBDI-1, o destrancamento do recurso de revista é medida que
+se impõe. Agravo de instrumento a que se dá provimento. 2. SENTENÇA. EMBARGOS
+PROTELATÓRIOS. MULTA. NÃO CUMPRIMENTO DOS REQUISITOS DO § 1º-A DO ARTIGO
+896 DA CLT. TRANSCENDÊNCIA NÃO RECONHECIDA. NÃO PROVIMENTO. Não se conhece
+do recurso de revista quando a parte recorrente não transcreve o trecho da decisão
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067D2C27494F23C0.
+recorrida que consubstancia o prequestionamento da matéria suscitada em suas razões
+recursais. Incidência do artigo 896, § 1º-A, I, da CLT. Na hipótese , constata-se nas razões
+do recurso de revista que, quanto ao tema em epígrafe, a parte não efetuou qualquer
+transcrição do v. acórdão regional, o que não atende ao requisito do inciso I do § 1º-A do
+artigo 896 da CLT. A ausência do referido pressuposto recursal é suficiente para afastar
+a transcendência da causa, uma vez que inviabilizará a análise de eventual questão
+controvertida no recurso de revista e, por conseguinte, não serão produzidos os reflexos
+gerais, nos termos previstos no § 1º do artigo 896-A da CLT. Agravo de instrumento a que
+se nega provimento. RECURSO DE REVISTA . (...)" (RR-100593-05.2016.5.01.0008, 4ª Turma,
+Relator Ministro Guilherme Augusto Caputo Bastos, DEJT 21/02/2020);
+"AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA ANTERIOR À LEI Nº
+13.467/2017. RECURSO EM FACE DE ACÓRDÃO PUBLICADO NA VIGÊNCIA DAS LEIS
+13.015/2014 E 13.105/2015. ILEGITIMIDADE AD CAUSAM . IMPOSSIBILIDADE JURÍDICA DO
+PEDIDO. RESPONSABILIDADE SUBSIDIÁRIA . TRANSCRIÇÃO DE APENAS UM TRECHO DO
+ACÓRDÃO DO TRT EM TÓPICO RECURSAL DIVERSO. NÃO CUMPRIMENTO DOS
+REQUISITOS PREVISTOS NO ART. 896, § 1º- A, DA CLT. Com o advento da Lei 13.015/2014
+a redação do novel § lº-A do artigo 896 da CLT, para efeito de demonstração da violação
+literal de disposição de lei federal ou afronta direta e literal à Constituição Federal, exige
+em seu inciso I que: "sob pena de não conhecimento, é ônus da parte: I - indicar o trecho
+da decisão recorrida que consubstancia o prequestionamento da controvérsia objeto do
+recurso de revista" . A alteração legislativa nesses aspectos constitui pressuposto de
+adequação formal de admissibilidade do recurso de revista e se orienta no sentido de
+propiciar a identificação precisa da contrariedade a dispositivo de Lei e a Súmula e do
+dissenso de teses, afastando-se os recursos de revista que impugnam de forma genérica
+a decisão regional e conduzem sua admissibilidade para um exercício exclusivamente
+subjetivo pelo julgador de verificação e adequação formal do apelo. No caso concreto, o
+acórdão regional foi publicado em 17/10/2016 , na vigência da referida lei, e o recurso de
+revista apresenta apenas a transcrição de um trecho do acórdão quanto ao tema
+responsabilidade subsidiária e, além disso, em tópico recursal diverso; ressalte-se, ainda,
+que quanto aos temas "ilegitimidade ad causam " e "impossibilidade jurídica do pedido"
+não há qualquer transcrição no apelo empresário. Nesse contexto, não há como extrair
+as teses que a parte pretende ver examinadas por esta Corte e, por essa razão, não se
+atende a exigência da Lei nº 13.015/2014. A ausência desses requisitos formais torna
+inexequível o apelo e, por isso, o recurso não alcança conhecimento. Agravo de
+instrumento conhecido e desprovido" (AIRR-1397-87.2015.5.11.0018, 3ª Turma, Relator
+Ministro Alexandre de Souza Agra Belmonte, DEJT 13/12/2019);
+I - AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA INTERPOSTO SOB A ÉGIDE
+DAS LEIS Nos 13.015/2014, 13.105/2015 E 13.467/2017 - RESPONSABILIDADE
+SUBSIDIÁRIA. ENTE PÚBLICO. JUROS DE MORA. 1. Diante da redação do inciso I do § 1º-A
+do art. 896 da CLT, conferida pela Lei nº 13.015/2014, não se conhece do recurso de
+revista quando a parte não indicar o trecho da decisão recorrida que consubstancia o
+prequestionamento da controvérsia objeto do apelo. 2. No caso vertente, a transcrição
+de trechos do acórdão, no início das razões do recurso de revista, não atende ao
+disposto no mencionado preceito legal, uma vez que não há, nesse caso, determinação
+precisa da tese regional combatida no apelo, nem demonstração analítica das violações
+apontadas. Agravo de instrumento conhecido e desprovido. II - RECURSO DE REVISTA
+INTERPOSTO SOB A ÉGIDE DAS LEIS Nos 13.015/2014, 13.105/2015 E 13.467/2017. ÔNUS
+DA PROVA. CULPA ‘IN VIGILANDO’. A transcrição pela parte, em recurso de revista, de
+trechos do acórdão, no início das razões do recurso de revista, não atende ao disposto
+no art. 896, § 1°- A, da CLT, uma vez que não há, nesse caso, determinação precisa da
+tese regional combatida no apelo. Recurso de revista não conhecido. (TST-ARR - 10065-
+48.2014.5.01.0022, Relator Ministro: Alberto Luiz Bresciani de Fontan Pereira, 3ª Turma,
+DEJT 22/02/2019);
+"AGRAVO EM AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA - PROCESSO
+SOB A VIGÊNCIA DA LEI Nº 13.467/2017 - DISPENSA DISCRIMINATÓRIA - PRESSUPOSTOS
+RECURSAIS - ART. 896, §1º-A, I, DA CLT - DEFICIÊNCIA DE TRANSCRIÇÃO - AUSÊNCIA DE
+DELIMITAÇÃO DO TRECHO QUE CONSUBSTANCIA O PREQUESTIONAMENTO DA
+CONTROVÉRSIA. 1. Após a vigência da Lei nº 13.015/2014, com a ressalva de
+entendimento deste relator, a SBDI-1 do TST entende que para o preenchimento do
+requisito recursal do art. 896, §1º-A, I, da CLT é necessário que a parte transcreva
+exatamente ou destaque dentro de uma transcrição abrangente o específico trecho do
+acórdão regional que contém a tese jurídica atacada no recurso, possibilitando a
+imediata identificação da violação, da contrariedade ou da dissonância jurisprudencial. 2.
+No caso, a reclamante não cumpriu adequadamente esse requisito legal na forma
+exigida pela SBDI-1 do TST. A transcrição de trechos que não demonstram a exata e
+completa tese jurídica impugnada não permite identificar e confirmar exatamente onde ,
+no acórdão regional , reside o prévio questionamento. Agravo desprovido" (Ag-AIRR￾1001266-13.2018.5.02.0060, 7ª Turma, Relator Ministro Luiz Philippe Vieira de Mello Filho,
+DEJT 21/02/2020).
+Assim, uma vez identificada a ausência de pressuposto formal de admissibilidade a autorizar o
+processamento do recurso de revista cujo seguimento foi denegado, sobressai inviável o provimento
+do agravo interno. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067D2C27494F23C0.
+Ante o exposto, nego provimento ao agravo interno.
+No tema "enquadramento bancário - venda de título imobiliário - aplicabilidade da súmula nº
+55 do TST" verifica-se que a decisão agravada deu provimento ao recurso de revista do reclamante
+para reconhecer seu enquadramento como bancário.
+O acórdão regional, tal como corretamente destacado na decisão monocrática, registrou que o
+reclamante atuava efetivamente no setor de investimentos, promovendo a venda de LCI e LCA ao
+público em geral. A partir dessa moldura fática, a conclusão jurídica alcançada na decisão agravada
+mostra-se adequada, pois a controvérsia não reside na denominação formal da empregadora, mas
+na natureza material da atividade desempenhada e no conteúdo econômico-jurídico dos produtos
+comercializados.
+Portanto, os elementos fáticos probatórios presentes no acórdão regional permitiram a análise
+das razões recursais, não sendo o caso de incidência da Súmula n.º 126 do TSTcomo defende a
+agravante.
+Ademais, a agravante insiste na inaplicabilidade da Súmula nº 55 do TST e na aplicação da
+Súmula nº 119 do TST, argumentando que sua atividade é de distribuidora e corretora de títulos e
+valores mobiliários, não se equiparando a bancos. Todavia, a referida argumentação não se
+sustenta.
+Inicialmente, é crucial distinguir as Letras de Crédito Imobiliário (LCI) e as Letras de Crédito do
+Agronegócio (LCA) de "títulos e valores mobiliários" no sentido estrito que a Súmula nº 119 do TST
+emprega. Conforme o sítio eletrônico do governo federal, especificamente a página sobre tipos de
+investimentos (https: //www.gov.br / investidor/pt-br / investir/tipos-de-investimentos / titulos￾bancarios), LCI e LCA são explicitamente caracterizadas como títulos de renda fixa emitidos por
+instituições financeiras .
+A s Letras de Crédito Imobiliário (LCI) são títulos de renda fixa emitidos por instituições
+financeiras, conferindo aos seus titulares direito de crédito pelo valor nominal, juros e, se for o caso,
+atualização monetária. Seu lastro são créditos imobiliários garantidos por hipoteca ou alienação
+fiduciária de coisa imóvel. A emissão de LCIs é uma forma de os bancos captarem recursos para o
+setor imobiliário.
+As Letras de Crédito do Agronegócio (LCA) , por sua vez, são análogas às LCI em termos de
+retorno e liquidez, mas seu lastro está na cadeia do agronegócio, sendo utilizadas como fonte de
+recursos para esse setor, lastreadas em direitos creditórios vinculados a produtores rurais, suas
+cooperativas, e terceiros, incluindo empréstimos e financiamentos agropecuários.
+É fundamental observar que, apesar de serem "títulos", a sua natureza de emissão por
+instituições financeiras com o propósito de captação de recursos para setores específicos (imobiliário
+e agronegócio) as enquadra em uma categoria de atividade tipicamente bancária ou de instituições
+financeiras equiparadas. A Súmula nº 55 do TST é clara ao equiparar as empresas de crédito,
+financiamento ou investimento (financeiras) aos estabelecimentos bancários para os efeitos do art.
+224 da CLT.
+No mesmo sentido, a Lei nº 6.385/1976, ao disciplinar o mercado de valores mobiliários e
+definir, em seu art. 2º, os instrumentos sujeitos a esse regime jurídico, não inclui LCI e LCA entre os
+valores mobiliários tipicamente submetidos à competência regulatória da Comissão de Valores
+Mobiliários. Ao contrário, tais instrumentos são reconhecidos, no plano técnico-regulatório, como
+títulos bancários.
+A tese da Agravante de que LCI e LCA são meros títulos e que sua atuação se limita à
+distribuição e corretagem, sujeitando-a à Súmula nº 119 do TST, ignora a essência dessas operações.
+A Súmula nº 119 do TST se aplica a empregados de empresas distribuidoras e corretoras que
+negociam títulos e valores mobiliários no mercado secundário ou que atuam de forma meramente
+intermediária, sem se confundir com a atividade precípua de captação e concessão de crédito que
+caracteriza as instituições financeiras.
+No caso em tela, o reclamante atuava na venda de LCI e LCA, que, como mencionado, são
+instrumentos de captação de recursos diretamente vinculados às operações de crédito das
+instituições financeiras emissoras. Esta atividade transcende a mera corretagem ou distribuição de
+valores mobiliários, inserindo-se no cerne da atividade financeira de captação e intermediação de
+recursos, que é própria dos bancos e demais instituições financeiras.
+A Lei nº 4.595/64, em seu Art. 10, inciso X, alínea "d", ao elencar as atribuições do Banco
+Central, inclui a concessão de "autorização às instituições financeiras" para "praticar operações de
+câmbio, crédito real e venda habitual de títulos da dívida pública federal, estadual ou municipal,
+ações Debêntures, letras hipotecárias e outros títulos de crédito ou mobiliários". A inclusão de "letras
+hipotecárias" e "outros títulos de crédito" no rol de atividades que demandam autorização a
+instituições financeiras reforça a natureza bancária das LCI e LCA.
+Portanto, a venda de LCI e LCA pelo reclamante, em que pese o caráter de "títulos", não o
+descaracteriza como trabalhador em atividade tipicamente financeira, equiparada à bancária. A
+distinção reside no fato de que essas letras são veículos de captação de recursos para as operações
+de crédito de bancos e instituições financeiras, ou seja, são parte integrante da atividade principal
+dessas instituições. A Súmula nº 119 do TST, ao se referir a "títulos e valores mobiliários", tem em
+mente operações que não se confundem com a captação de recursos para lastrear operações de
+crédito de natureza imobiliária ou do agronegócio, que são atividades exclusivas das instituições
+financeiras autorizadas a operar tais produtos.
+A decisão monocrática, ao reconhecer o enquadramento do reclamante como bancário, com
+fulcro na Súmula nº 55 do TST, pautou-se na correta interpretação da atividade desenvolvida pela
+Agravante e pelo reclamante. A venda de LCI e LCA para o público em geral constitui uma operação
+de captação de recursos para lastrear operações de crédito imobiliário e do agronegócio, atividades
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067D2C27494F23C0.
+essas que qualificam a empregadora como instituição financeira ou a ela equiparada, nos termos da
+legislação pertinente.
+Destaca-se, ainda, que o entendimento consubstanciado na mencionada súmula foi
+reafirmado pelo Tribunal Pleno do TST na Sessão de Julgamento realizada em 22/08/2025, por
+ocasião do julgamento do Incidente de Recursos Repetitivos (IRR) nº 261 . Naquela oportunidade,
+fixou-se a seguinte tese jurídica: "As empresas de crédito, financiamento ou investimento, também
+denominadas financeiras, equiparam-se aos estabelecimentos bancários para os efeitos do art. 224
+da CLT".
+Dessa forma, os fundamentos da decisão monocrática permanecem hígidos. A Agravante, ao
+operar com LCI e LCA, que são instrumentos de captação de recursos de instituições financeiras para
+o fomento de setores específicos, exercia uma atividade intrínseca ao sistema financeiro, equiparável
+à atividade bancária. A mera denominação de "distribuidora e corretora de títulos e valores
+mobiliários" não afasta a substância da atividade desenvolvida, que se amolda ao escopo da Súmula
+nº 55 do TST e do IRR nº 261.
+Diante do exposto, nego provimento ao agravo interno.
+ISTO POSTO
+ACORDAM os Ministros da Segunda Turma do Tribunal Superior do Trabalho, por
+unanimidade, conhecer do agravo interno e, no mérito, negar-lhe provimento.
+A reclamada opõe embargos de declaração ao acórdão proferido por este
+Colegiado, aduzindo em relação ao tema “horas extras – cargo de confiança” que “sustentou
+expressamente a inaplicabilidade do óbice previsto no artigo 896, § 1º-A, inciso I, da CLT, impugnando
+especificamente os fundamentos adotados na r. decisão monocrática e demonstrando que o recurso de
+revista observou os requisitos formais de admissibilidade exigidos pela legislação processual trabalhista. 7. A
+Embargante sustentou, ainda, que a controvérsia submetida ao exame desta Corte não se limitava à
+discussão acerca do enquadramento em cargo de confiança previsto no artigo 62, inciso II, da CLT, mas
+envolvia questão processual autônoma relativa ao interesse recursal e à preclusão reconhecida pelo E. TRT. 8.
+Não obstante, o v. acórdão limitou-se a reproduzir os fundamentos da decisão monocrática, sem enfrentar
+especificamente os argumentos deduzidos no agravo interno acerca do efetivo atendimento ao disposto no
+artigo 896, § 1º-A, inciso I, da CLT, tampouco a alegação de que a controvérsia devolvida à apreciação desta
+Corte possuía natureza eminentemente processual.”
+Alega, ainda, omissão em relação a incidência da súmula nº 297, item III, do TST.
+No tema “enquadramento bancário – venda de título imobiliário – LCI/LCA –
+atividade tipicamente financeira – aplicabilidade a súmula nº 55 do TST” alega que “o v. acórdão não
+enfrentou especificamente os fundamentos pelos quais seria afastada a incidência da Súmula nº. 119 do TST”
+e que “não houve manifestação acerca de questão expressamente suscitada pela Embargante, qual seja, se
+uma distribuidora e corretora de títulos e valores mobiliários efetivamente se enquadra nas hipóteses
+abrangidas pela tese fixada no referido incidente.”.
+Ademais, a parte alegou omissão em relação ao enfrentamento da alegação de
+inexistência de transcendência do recurso de revista interposto pelo reclamante.
+Não há qualquer vício a ser sanado.
+De plano, cumpre esclarecer que a transcendência da causa não foi analisada,
+visto que esta e. 2ª Turma entende que todas as causas transcendem. Logo, tal requisito sempre é
+ultrapassado para a análise do mérito recursal, se, claro presentes os demais requisitos.
+Pois bem, em relação ao tema “horas extras – cargo de confiança” constata-se
+que esta 2ª Turma deixou explicitamente consignado o não atendimento ao requisito previsto no art.
+896, § 1º-A, I, da CLT, uma vez que a embargante não realizou, nas razões do seu recurso de revista, a
+transcrição do acórdão regional, razão pela qual, por óbvio, não foram apontados os trechos da decisão
+impugnada que consubstanciam o prequestionamento das controvérsias objeto do recurso, de modo
+que não houve o preenchimento do requisito referente ao supracitado dispositivo legal.
+Destaca-se, ainda, que em estrita observância à literalidade do art. 896, § 1º-A,
+inciso I, da CLT, o requisito somente é atendido quando o recorrente transcreve, ipsis litteris, o trecho
+da decisão recorrida que comprova o prequestionamento da matéria. Qualquer outra forma de
+apresentação, seja por resumo ou paráfrase, não se coaduna com a exigência legal e implica o não
+conhecimento do recurso de revista.
+Assim, verifica-se que o mérito da demanda não foi apreciado em razão da
+configuração de óbice processual que impediu seu exame.
+Portanto, não há que se falar em omissão/contradição/obscuridade, resta claro
+que constou da decisão embargada o motivo porque o apelo do embargante não mereceu provimento.
+Ademais, verifica-se que toda a argumentação trazida pelo embargante, é no sentido de buscar o
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067D2C27494F23C0.
+reexame da questão, utilizando-se da via processual inadequada para tanto. A matéria foi devidamente
+analisada e qualquer contrariedade aos interesses da parte não configura omissão, contradição ou
+obscuridade, sendo inviável a reforma da decisão pela via processual eleita.
+No tema “enquadramento bancário – venda de título imobiliário – LCI/LCA –
+atividade tipicamente financeira – aplicabilidade a súmula nº 55 do TST” constou no acórdão embargado
+que “É fundamental observar que, apesar de serem "títulos", a sua natureza de emissão por instituições
+financeiras com o propósito de captação de recursos para setores específicos (imobiliário e agronegócio) as
+enquadra em uma categoria de atividade tipicamente bancária ou de instituições financeiras equiparadas. A
+Súmula nº 55 do TST é clara ao equiparar as empresas de crédito, financiamento ou investimento (financeiras)
+aos estabelecimentos bancários para os efeitos do art. 224 da CLT. No mesmo sentido, a Lei nº 6.385/1976, ao
+disciplinar o mercado de valores mobiliários e definir, em seu art. 2º, os instrumentos sujeitos a esse regime
+jurídico, não inclui LCI e LCA entre os valores mobiliários tipicamente submetidos à competência regulatória
+da Comissão de Valores Mobiliários. Ao contrário, tais instrumentos são reconhecidos, no plano técnico￾regulatório, como títulos bancários. A tese da Agravante de que LCI e LCA são meros títulos e que sua atuação
+se limita à distribuição e corretagem, sujeitando-a à Súmula nº 119 do TST, ignora a essência dessas
+operações. A Súmula nº 119 do TST se aplica a empregados de empresas distribuidoras e corretoras que
+negociam títulos e valores mobiliários no mercado secundário ou que atuam de forma meramente
+intermediária, sem se confundir com a atividade precípua de captação e concessão de crédito que caracteriza
+as instituições financeiras. No caso em tela, o reclamante atuava na venda de LCI e LCA, que, como
+mencionado, são instrumentos de captação de recursos diretamente vinculados às operações de crédito das
+instituições financeiras emissoras. Esta atividade transcende a mera corretagem ou distribuição de valores
+mobiliários, inserindo-se no cerne da atividade financeira de captação e intermediação de recursos, que é
+própria dos bancos e demais instituições financeiras”
+Foi explicado que “a venda de LCI e LCA pelo reclamante, em que pese o caráter de
+"títulos", não o descaracteriza como trabalhador em atividade tipicamente financeira, equiparada à bancária.
+A distinção reside no fato de que essas letras são veículos de captação de recursos para as operações de
+crédito de bancos e instituições financeiras, ou seja, são parte integrante da atividade principal dessas
+instituições. A Súmula nº 119 do TST, ao se referir a "títulos e valores mobiliários", tem em mente operações
+que não se confundem com a captação de recursos para lastrear operações de crédito de natureza imobiliária
+ou do agronegócio, que são atividades exclusivas das instituições financeiras autorizadas a operar tais
+produtos.”
+Constou, ainda, que “A decisão monocrática, ao reconhecer o enquadramento do
+reclamante como bancário, com fulcro na Súmula nº 55 do TST, pautou-se na correta interpretação da
+atividade desenvolvida pela Agravante e pelo reclamante. A venda de LCI e LCA para o público em geral
+constitui uma operação de captação de recursos para lastrear operações de crédito imobiliário e do
+agronegócio, atividades essas que qualificam a empregadora como instituição financeira ou a ela
+equiparada, nos termos da legislação pertinente. Destaca-se, ainda, que o entendimento consubstanciado na
+mencionada súmula foi reafirmado pelo Tribunal Pleno do TST na Sessão de Julgamento realizada em
+22/08/2025, por ocasião do julgamento do Incidente de Recursos Repetitivos (IRR) nº 261. Naquela
+oportunidade, fixou-se a seguinte tese jurídica: “As empresas de crédito, financiamento ou investimento,
+também denominadas financeiras, equiparam-se aos estabelecimentos bancários para os efeitos do art. 224
+da CLT”. Dessa forma, os fundamentos da decisão monocrática permanecem hígidos. A Agravante, ao operar
+com LCI e LCA, que são instrumentos de captação de recursos de instituições financeiras para o fomento de
+setores específicos, exercia uma atividade intrínseca ao sistema financeiro, equiparável à atividade bancária.
+A mera denominação de "distribuidora e corretora de títulos e valores mobiliários" não afasta a substância
+da atividade desenvolvida, que se amolda ao escopo da Súmula nº 55 do TST e do IRR nº 261.”.
+Desse modo, resta claro que o acórdão proferido por esta Turma é
+suficientemente claro e fundamentado, tendo sido analisada toda a matéria que lhe foi devolvida,
+indicando os motivos que lhe formaram o convencimento e os fundamentos jurídicos de sua decisão.
+E nem se alegue que os presentes embargos objetivam apenas o
+prequestionamento da matéria, porque a mera intenção de prequestionamento não é hipótese
+ensejadora da interposição de embargos declaratórios, nos termos do artigo 1.022 do Código de
+Processo Civil.
+A pretensão da embargante é a nítida e imprópria rediscussão dodecisum
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067D2C27494F23C0.
+mediante indicação de erro de julgamento, o que não é admitido na via estreita dos embargos de
+declaração, cujo manejo se encontra adstrito às hipóteses elencadas no artigo 1.022 do CPC e 897-A da
+CLT.
+Acrescente-se, por fim, que a insistência na oposição de novos embargos de
+declaração pode ocasionar condenação da parte ao pagamento de multa, nos termos do art. 1.026,
+§ 2º do CPC/15, caso se verifique que os aclaratórios se mostraram meramente protelatórios.
+Ante o exposto, rejeito os embargos de declaração.
+ISTO POSTO
+ACORDAM os Ministros da Segunda Turma do Tribunal Superior do Trabalho, por
+unanimidade, rejeitar os embargos de declaração.
+Brasília, 20 de agosto de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+LIANA CHAIB
+Ministra Relatora
+Firmado por assinatura digital em 24/08/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067D2C27494F23C0.
