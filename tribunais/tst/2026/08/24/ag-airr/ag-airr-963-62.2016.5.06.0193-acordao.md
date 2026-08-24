@@ -1,0 +1,184 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Superior do Trabalho
+PROCESSO Nº TST-Ag-AIRR - 963-62.2016.5.06.0193
+A C Ó R D Ã O
+2ª Turma
+GMLBC/vdgs/vfh
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO EM RECURSO
+DE REVISTA. H O R A S IN ITINERE. REPOUSO SEMANAL
+REMUNERADO. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DA
+DECISÃO RECORRIDA. SÚMULA N.º 422, ITEM I, DO TST. 1. Os
+argumentos aduzidos nas razões do Agravo Interno devem
+contrapor-se aos fundamentos norteadores da decisão que se
+tenciona desconstituir, sob pena de se tornar inviável o exame
+do recurso interposto pela parte, diante da ausência de
+dialeticidade (Súmula n.º 422, I, do TST). 2. Agravo Interno de que
+não se conhece.
+Vistos, relatados e discutidos estes autos de Agravo em Agravo de Instrumento
+em Recurso de Revista nº TST-Ag-AIRR - 963-62.2016.5.06.0193, em que é Agravante(s) ESTALEIRO
+ATLÂNTICO SUL S.A. (EM LIQUIDAÇÃO EXTRAJUDICIAL) e é Agravado(s) MANOEL JOSE DA SILVA
+BARBOSA.
+Inconformada com a decisão monocrática mediante a qual se negou provimento
+ao seu Agravo de Instrumento, interpõe a reclamada o presente Agravo Interno.
+Sustenta a reclamada que “a Autoridade Competente não corretamente observou o
+teor dos trechos transcritos no Apelo patronal, nem levou em consideração os entendimentos jurisprudenciais
+colacionados, e os dispositivos legais arguidos pelo agravante, os quais foram frontalmente violados, o que
+ensejava a interposição da Revista denegada” (pp. 1646/1647). Assevera que “o recurso de revista
+implementava todas as condições de admissibilidade e conhecimento, posto que, antes de cada tópico foi
+expressamente destacado o trecho do acordão, em atenção ao disposto no art. 896, § 1º-A, I, da CLT” (p.
+1648). Alega que, “no caso dos autos, em se considerando tratar de local atendido por transporte público –
+FATO PÚBLICO E NOTÓRIO, RECONHECIDO PELO PRÓPRIO TRT DA 6ª REGIÃO –, não considerado de difícil
+acesso, tampouco comprovada incompatibilidade do horário de início e término da jornada com o de
+transporte público, inexiste azo para afastar a incidência da Súmula 90 desse TST, devendo ser provido o
+apelo, para excluir a condenação quanto ao deferimento de horas in itinere” (p. 1650). Esgrime com ofensa
+aos artigos 5º, V, X, XXXV, XXXVI e LV, 7º, XXVIII, 93, IX, da Constituição Federal. Indica contrariedade à
+Súmula nº 90 e à OJ nº 394, da SBDI-1, ambas do TST. Transcreve arestos.
+Não foi apresentada contraminuta.
+Autos não submetidos a parecer da douta Procuradoria-Geral do Trabalho, à
+míngua de interesse público a tutelar.
+É o relatório.
+V O T O
+CONHECIMENTO
+Conquanto tempestivo o Agravo Interno e regular a representação processual da
+parte agravante, o apelo não merece ser conhecido, porque não observado o princípio da dialeticidade
+recursal.
+Por meio da decisão monocrática recorrida, negou-se provimento ao Agravo de
+Instrumento interposto pela reclamada, sob os seguintes fundamentos (destaques acrescidos):
+D E C I S Ã O
+Insurge-se a parte agravante em face da decisão do TRT que denegou seguimento ao seu
+recurso de revista. Sustenta, em síntese, que o seu apelo trancado reúne condições de
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F64071D72CD80.
+admissibilidade.
+Dispensada a remessa ao douto MPT (art. 95, §2°, do RITST).
+Examino.
+Com efeito, as vias recursais extraordinárias para os tribunais superiores são restritas e não
+traduzem terceiro grau de jurisdição. Busca-se, efetivamente, assegurar a imperatividade da ordem
+jurídica constitucional e federal, visando à uniformização da jurisprudência no País.
+Tratando-se de recurso de revista, a admissibilidade do apelo só tem pertinência nas estritas
+hipóteses jurídicas do art. 896, “a”, “b” e “c”, da CLT, respeitados os limites rigorosos dos parágrafos
+2º, 7º e 9º do mesmo artigo. Pertinência das Súmulas 266, 333 e 442 do TST.
+Eis os termos da decisão agravada:
+DURAÇÃO DO TRABALHO (1658) / HORAS IN ITINERE
+Alegação(ões):
+- contrariedade à(ao): Súmula nº 90 do Tribunal Superior do Trabalho.
+Fundamentos do acórdão recorrido:
+"(…)A teor do § 2º do artigo 58 da CLT vigente à época do contrato - que precede
+a Lei 13.467/2017 -, reverberado pela Súmula 90, I, do C. TST, as horas de trajeto devem
+ser computadas na jornada de trabalho do empregado, quando o empregador,
+sediado em local de difícil acesso ou não servido por transporte público regular,
+fornece a condução entre a residência e o trabalho. Este último requisito emerge
+incontroverso, assim como o fato de que o Porto de SUAPE não é de difícil acesso - fato
+público e notório (art. 374, I, do CPC). Nesse quadro, ausentes estariam, ao menos em
+princípio, os requisitos para o deferimento da postulação deduzida na exordial.
+Nada obstante, resultou devidamente atestado, "data venia" do entendimento
+do d. Juízo do Primeiro Grau, que, efetivamente, até a empresa existia parte do trajeto
+que não era servido por transporte público. As testemunhas trazidas a Juízo foram
+contundentes nesse sentido, "in verbis":
+(…)
+Nesse diapasão, constitui-se aludido deslocamento em tempo à disposição do
+empregador, nos termos do art. 4º, da CLT, e, assim, uma vez evidenciado o labor em
+sobrejornada - há pagamento habitual de horas extras nas fichas financeiras - faz jus o
+autor ao pagamento dele, ora fixado em 25 (vinte e cinco) minutos por trecho ou em 50
+(cinquenta) minutos diários - média tomada a partir do padrão médio - como extra.
+(…)"
+De acordo com os fundamentos expostos no acórdão, de que "resultou devidamente
+atestado, "data venia" do entendimento do d. Juízo do Primeiro Grau, que, efetivamente, até
+a empresa existia parte do trajeto que não era servido por transporte público. As
+testemunhas trazidas a Juízo foram contundentes nesse sentido”, não se vislumbra possível
+violação literal e direta ao dispositivo à Súmula do TST invocada.
+DURAÇÃO DO TRABALHO (1658) / REPOUSO SEMANAL REMUNERADO E FERIADO
+(2426) / CÁLCULO / REPERCUSSÃO
+Alegação(ões):
+- contrariedade à (ao): Orientação Jurisprudencial nº 394 da SBDI-I/ TST.
+Fundamentos do acórdão recorrido:
+“(…)Por conseguinte, dou parcial provimento ao recurso ordinário do autor para
+condenar o réu ao pagamento das horas de percurso, no tempo fixado em 50
+(cinqüenta) minutos por dia de labor, e reflexos sobre o aviso prévio, 13º salário, férias,
+acrescidas de 1/3, FGTS com a multa de 40% e repouso semanal remunerado.”
+Diferente do que quer fazer crer o recorrente, o acórdão vergastado deferiu tão
+somente as repercussões das horas sobre in itinere o repouso semanal remunerado, mas não
+os reflexos da majoração deste, sobre as demais verbas. Dessa forma, não houve qualquer
+afronta à OJ 394, da SBDI-1, do TST.
+CONCLUSÃO
+Denego seguimento.
+No presente caso, o recurso de revista mostra-se inviável, porquanto, no tocante aos temas
+“horas in itinere”, partindo da premissa fática descrita no acórdão regional, no sentido de que parte
+do trajeto até a empresa não era servido por transporte público, o TRT decidiu em conformidade
+com a Súmula 90, I, do TST.
+Em relação à repercussão das horasin itinere no repouso semanal remunerado, o TRT
+consignou que “diante da habitualidade, os reflexos postulados sobre o aviso prévio, 13º salário, férias,
+acrescidas de 1/3, FGTS com a multa de 40% e repouso semanal remunerado. Não houve, ao contrário do
+que quer levar a crer o embargante, condenação nos termos da Orientação Jurisprudencial n. 394, da SDI 1
+do C. TST” (fl. 1267).
+Assim, a decisão regional está em consonância com a Súmula 172 do TST, não havendo que se
+falar em contrariedade à Orientação Jurisprudencial 394 da SBDI-1 do TST.
+Emergem como obstáculo à admissibilidade do recurso de revista as diretrizes
+consubstanciadas nas Súmulas 126 e 333 do TST e no art. 896, § 7º, da CLT.
+Destarte, observa-se que a parte agravante não obteve êxito em desconstituir os fundamentos
+da decisão ora agravada, razão pela qual adoto tais fundamentos como razões de decidir.
+Cumpre salientar que a jurisprudência do Supremo Tribunal Federal admite a denominada
+fundamentação "per relationem", técnica pela qual se faz referência ou remissão às alegações de uma
+das partes, a precedente ou a decisão anterior nos autos do mesmo processo, porquanto atende a
+exigência constitucional da fundamentação das decisões judiciais (art. 93, IX, da CF/88).
+Nesse mesmo sentido, cito os seguintes precedentes do STF: HC 130860 AgR, Relator Ministro
+Alexandre de Moraes, Primeira Turma, DJe-247 de 27/10/2017; HC 142435 AgR, Relator Ministro Dias
+Toffoli, Segunda Turma, DJe-139 de 26/6/2017; RHC 120351 AgR, Relator Ministro Celso de Mello,
+Segunda Turma, DJe-091 de 15/05/2015 PUBLIC 18-05-2015 e MS 28160, Relatora Ministra. Rosa Weber, Tribunal Pleno, DJe-207 de 17/10/2013.
+Frise-se, ainda, que o Supremo Tribunal Federal, ao examinar o Tema 339, concluiu que o art.
+93, IX, da Constituição Federal exige que o acórdão ou a decisão sejam fundamentados, ainda que
+sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações da
+parte.
+Assim, incólumes os dispositivos legais e constitucionais invocados.
+Por fim, registre-se, por oportuno, que a oposição de embargos de declaração ou a
+interposição de recurso está passível de penalidade, se constatado o caráter manifestamente
+protelatório da medida, consoante os arts. 1.026, § 2º, do CPC e 793-B, VII, e 793-C da CLT,
+respectivamente.
+CONCLUSÃO:
+Ante o exposto, com fundamento nos arts. 932, III e IV, c/c 1.011, I, do CPC/2015 e 118, X, do
+RITST, nego seguimento ao agravo de instrumento.
+(...). (pp. 1640/1643)
+Sustenta a reclamada que “a Autoridade Competente não corretamente observou o
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F64071D72CD80.
+teor dos trechos transcritos no Apelo patronal, nem levou em consideração os entendimentos jurisprudenciais
+colacionados, e os dispositivos legais arguidos pelo agravante, os quais foram frontalmente violados, o que
+ensejava a interposição da Revista denegada” (pp. 1646/1647). Assevera que “o recurso de revista
+implementava todas as condições de admissibilidade e conhecimento, posto que, antes de cada tópico foi
+expressamente destacado o trecho do acordão, em atenção ao disposto no art. 896, § 1º-A, I, da CLT” (p.
+1648). Alega que, “no caso dos autos, em se considerando tratar de local atendido por transporte público –
+FATO PÚBLICO E NOTÓRIO, RECONHECIDO PELO PRÓPRIO TRT DA 6ª REGIÃO –, não considerado de difícil
+acesso, tampouco comprovada incompatibilidade do horário de início e término da jornada com o de
+transporte público, inexiste azo para afastar a incidência da Súmula 90 desse TST, devendo ser provido o
+apelo, para excluir a condenação quanto ao deferimento de horas in itinere” (p. 1650). Esgrime com ofensa
+aos artigos 5º, V, X, XXXV, XXXVI e LV, 7º, XXVIII, 93, IX, da Constituição Federal. Indica contrariedade à
+Súmula nº 90 e à OJ nº 394, da SBDI-1, ambas do TST. Transcreve arestos.
+Ao exame.
+Conforme se infere da decisão agravada transcrita alhures, negou-se provimento
+ao Agravo de Instrumento interposto pela reclamada, quanto aos temas “horas in itinere” e “repercussão
+das horas in itinere no repouso semanal remunerado”, dentre outros fundamentos, por aplicação do óbice
+da Súmula nº 126 do TST.
+A parte agravante, em seu Agravo Interno, não ataca objetivamente o fundamento
+erigido na decisão hostilizada, limitando-se a afirmar que o seu apelo preencheu todos os pressupostos
+de admissibilidade, inclusive observando o disposto no art. 896, § 1º-A, I, da CLT, e a reproduzir a
+fundamentação, veiculada no Recurso de Revista e no Agravo de Instrumento, acerca da alegada
+condenação indevida no que diz respeito ao deferimento das horas in itinere.
+Para o processamento do presente Agravo Interno, necessário se faz que a parte
+recorrente apresente fundamentação objetiva direcionada a desconstituir os fundamentos da decisão
+atacada. Nesse contexto, como a parte recorrente não declinou elementos voltados a infirmar os
+fundamentos da decisão monocrática, resulta inviável o exame do Agravo Interno, diante da ausência
+de dialeticidade.
+Nesse sentido pacificou-se a jurisprudência desta Corte uniformizadora, por meio
+da Súmula n.º 422, I, de seguinte teor:
+RECURSO. FUNDAMENTO AUSENTE OU DEFICIENTE. NÃO CONHECIMENTO.
+I - Não se conhece de recurso para o Tribunal Superior do Trabalho se as razões do recorrente
+não impugnam os fundamentos da decisão recorrida, nos termos em que proferida.
+Ante o exposto, não conheço do Agravo Interno.
+ISTO POSTO
+ACORDAM os Ministros da Segunda Turma do Tribunal Superior do Trabalho, por
+unanimidade, não conhecer do Agravo Interno.
+Brasília, 20 de agosto de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+LELIO BENTES CORRÊA
+Ministro Relator
+Firmado por assinatura digital em 08/09/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F64071D72CD80.
