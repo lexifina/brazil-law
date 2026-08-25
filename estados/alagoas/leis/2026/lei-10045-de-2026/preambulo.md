@@ -1,0 +1,5 @@
+LEI Nº 10.045, DE 25 DE AGOSTO DE 2026.
+
+INSTITUI O PROGRAMA CRIANÇA ALAGOANA – CRIA, E DÁ OUTRAS PROVIDÊNCIAS. O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE ALAGOAS, no uso das atribuições que lhe confere o parágrafo 6º do art. 89 da Constituição Estadual, promulga a seguinte Lei:
+
+CAPÍTULO I DAS DISPOSIÇÕES GERAIS
