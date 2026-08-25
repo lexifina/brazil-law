@@ -1,0 +1,36 @@
+Decisão
+
+Trata-se de Habeas Corpus impetrado contra acórdão da Sexta Turma do Superior Tribunal de Justiça, proferido no julgamento do Agravo Regimental no Recurso Especial 2.251.941/SP, submetido à relatoria do Ministro OG FERNANDES.
+Consta dos autos que o paciente foi condenado à pena de 5 anos e 10 meses de reclusão, em regime fechado, pela prática do crime de tráfico de drogas (art. 33 da Lei 11.343/2006).
+O Tribunal de Justiça do Estado de São Paulo deu parcial provimento ao apelo defensivo para estabelecer a pena em 5 anos de reclusão, mantido o regime prisional.
+A defesa, então, interpôs Recurso Especial direcionado ao Superior Tribunal de Justiça, ao qual o Ministro relator negou provimento. Interposto Agravo Regimental, a Sexta Turma decidiu nos termos da seguinte ementa:
+
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Nos termos dos arts. 1.021, § 1º, do CPC e 259, § 2º, do RISTJ, aplicados analogicamente ao Processo Penal, cabe ao recorrente, na petição de agravo regimental, impugnar especificamente os fundamentos da decisão agravada, mesmo sentido da Súmula n. 182 do STJ.
+2. A decisão que conheceu em parte do recurso especial e negou-lhe provimento teve por fundamento: a) aplicação do Tema n. 656 do STF; b) configuração de fundadas razões para a busca pessoal; c) incidência da Súmula n. 7 do STJ quanto ao pedido de reconhecimento do tráfico privilegiado; e d) adequação do regime inicial fechado.
+3. Nas razões do presente recurso, o agravante não enfrentou de maneira suficiente as questões que impediram o conhecimento do recurso especial, tampouco os motivos que levaram ao não provimento, o que inviabiliza o conhecimento do agravo regimental, por falta de dialeticidade recursal.
+4. Agravo regimental não conhecido.
+
+Neste Recurso Ordinário, a defesa alega, em síntese: (a) estão presentes os requisitos para a incidência da causa de redução de pena do art. 33, § 4º, da Lei 11.343/2006; e (b) carece de fundamentação idônea a imposição do regime fechado.
+Requer, assim, a concessão da ordem para aplicar a referida minorante e estabelecer regime prisional menos gravoso.
+É o relatório. Decido.
+
+A incidência da causa especial de redução de pena prevista no § 4º do art. 33 da Lei 11.343/2006 é condicionada ao preenchimento cumulativo de quatro requisitos pelo agente: (a) primariedade; (b) bons antecedentes; (c) não se dedicar a atividades criminosas; e (d) não integrar organização criminosa (HC 143.577-AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 27/10/2017; HC 123.430, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 18/11/2014; HC 101.265, Rel. Min. AYRES BRITTO, Redator para o acórdão: Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 6/8/2012).
+Infere-se do exame realizado pelas instâncias ordinárias, soberanas na apreciação do conteúdo fático-probatório, que os elementos colhidos sob o crivo do contraditório indicam a propensão do acusado à prática delitiva. Conforme destacado pelo Superior Tribunal de Justiça,
+
+o acolhimento do recurso especial, nesse ponto [incidência da causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006], demandaria a desconstituição da conclusão firmada pelo Tribunal de origem acerca da existência de elementos suficientes para evidenciar a dedicação do recorrente a atividades criminosas. A Corte local, ao apreciar o conjunto fático-probatório, consignou que o acusado, preso em flagrante em região conhecida pela comercialização de entorpecentes, portava 470 porções individualizadas de cocaína e 375 porções individualizadas de maconha, circunstâncias consideradas aptas a demonstrar a habitualidade delitiva, conforme registrado no acórdão proferido em apelação.
+
+Essa conclusão tem amparo na jurisprudência do SUPREMO TRIBUNAL FEDERAL, que chancela o afastamento da causa de diminuição quando presentes fatos indicadores da dedicação do agente a atividades criminosas, como, por exemplo, a) a conduta social do agente, b) o concurso eventual de pessoas, c) a quantidade de droga, e d) as situações residuais de maus antecedentes (HC 109.168, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe de 14/2/012). No mesmo sentido: HC 161482 AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 19/10/2018; HC 129.585, Rel. Min. EDSON FACHIN, DJe de 10/2/2016; HC 115.134, Rel. Min. ROSA WEBER, DJe de 16/10/2012; HC 135.718, Rel. Min. GILMAR MENDES, DJe de 17/10/2016.
+Por outro lado, para afastar a conclusão implementada pelas instâncias antecedentes, seria necessário proceder à análise de fatos e provas, providência incompatível com a via do Habeas Corpus. A propósito: HC 153.641-AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe de 23/4/2018; HC 143.577-AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 27/10/2017; HC 131.761, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 29/2/2016; HC 121.453, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 11/9/2014; HC 119.053, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 23/4/2014; HC 133.982, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 13/2/2017.
+Por fim, a fixação do regime inicial de cumprimento da pena não está atrelada, de modo absoluto, ao quantum da sanção aplicada, devendo-se considerar as especiais circunstâncias do caso concreto. Assim, desde que o faça em decisão motivada, o magistrado sentenciante está autorizado a impor ao condenado regime mais gravoso do que o recomendado nas alíneas do §2º do art. 33 do Código Penal. Esse entendimento se amolda à jurisprudência cristalizada na Súmula 719 (A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea) e replicada em diversos julgados: HC 143.577-AgR/SP, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 27/10/2017; RHC 134.494-AgR/SP, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 9/5/2017; RHC 128.827/MT, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 13/3/2017; RHC 122.620/DF, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 13/8/2014; HC 118.733/SP, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 17/12/2013.
+As particularidades do caso — acima declinadas — constituem fundamentação idônea para a imposição do regime fechado, que se mostra adequado e necessário para a repressão e prevenção do tráfico ilícito de drogas, nos termos do art. 1º da Lei 11.343/2006.
+Além disso, não cabe a esta SUPREMA CORTE, em Habeas Corpus, proceder à revisão dos critérios de índole subjetiva invocados pelas instâncias antecedentes para a determinação do regime prisional inicial. Precedentes: HC 145.000-AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 17/4/2018; HC 125.589-AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 26/6/2015; HC 122.235, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 10/6/2014; RHC 122.620, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/6/2014; RHC 137.395-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 13/6/2017.
+Em conclusão, não há constrangimento ilegal a ser sanado.
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do STF, INDEFIRO a ordem de HABEAS CORPUS.
+Ciência à Procuradoria-Geral da República.
+Publique-se.
+Brasília, 25 de agosto de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
