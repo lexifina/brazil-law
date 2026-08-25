@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de EDMILSON MANOEL DOS SANTOS, apontando como autoridade coatora o Desembargador Relator do HC n. 2187178-53.2026.8.26.0000, do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que, naqueles autos, indeferiu a medida liminar.
+Consta que o paciente responde à Ação Penal n. 0004010-48.2011.8.26.0052, em curso na 4ª Vara do Júri da Comarca de São Paulo/SP, com decisão de pronúncia com imputação do delito previsto no art. 121, caput, do Código Penal. O juízo de origem certificou o trânsito em julgado da pronúncia em 29/06/2026. O paciente encontra-se recolhido no sistema prisional, e há sessão plenária do Tribunal do Júri designada para 16 de dezembro de 2026, às 10h30min.
+A Defesa alega que é possível a superação da Súmula 691 do Supremo Tribunal Federal diante de flagrante ilegalidade e risco concreto de dano ao status libertatis, porquanto o paciente estaria na iminência de ser submetido a julgamento do júri sem que se tenha verificado a validade da preclusão da pronúncia e a suficiência jurídica do lastro indiciário.
+Sustenta inexistir preclusão válida, porque não houve intimação pessoal do paciente, preso e analfabeto, acerca da decisão integrativa dos embargos de declaração.
+Argumenta que, superada a questão processual, remanesce constrangimento ilegal por insuficiência de indícios de autoria para a pronúncia, em violação aos arts. 413 e 155 do Código de Processo Penal, porquanto os elementos são meramente indiretos: testemunha que não presenciou os fatos e reproduziu comentários, policial que apenas narrou informações de terceiros não identificados, e declaração atribuída à vítima não submetida ao contraditório, com laudo que indica concentração alcoólica de 2,2 g/L.
+Aponta a existência de linha investigativa alternativa referente a entrevero anterior envolvendo pessoa identificada como Rosana, não apurada, reforçando a necessidade de suporte autônomo de corroboração para a autoria.
+Afirma a impossibilidade de suprir lacuna probatória mediante o in dubio pro societate, e requer a impronúncia nos termos do art. 414 do Código de Processo Penal.
+Por fim, aponta a insubsistência da prisão preventiva, por ausência de fundamentação individualizada e contemporânea, destacando a antiguidade do fato e a fragilidade do suporte probatório, com pleito de revogação da custódia ou substituição por medidas cautelares diversas.
+Requer a concessão da ordem para suspender a sessão plenária do Tribunal do Júri designada para 16 de dezembro de 2026, às 10h30min, e os atos preparatórios do art. 422 do Código de Processo Penal, bem como para afastar a certificação de preclusão e trânsito em julgado da decisão de pronúncia, determinando o processamento do recurso em sentido estrito interposto pela Defesa. Subsidiariamente, pugna pelo reconhecimento da insuficiência de elementos de autoria e pela impronúncia do paciente; ainda subsidiariamente, pela declaração de nulidade da pronúncia por ausência de fundamentação adequada quanto à suficiência dos indícios de autoria. Requer, em qualquer caso, pela revogação da prisão preventiva, com expedição de alvará de soltura, ou substituição da custódia por medidas cautelares diversas.
+É o relatório.
+Decido.
+Conforme orientação consolidada na Súmula n. 691 do Supremo Tribunal Federal, aplicável nesta Corte por analogia, não ultrapassa a barreira do conhecimento o habeas corpus impetrado contra decisão do Relator que indefere a liminar em outro writ requerido na origem, sob pena de supressão de instância.
+Nada obstante, havendo, na decisão impugnada, ilegalidade manifesta, abuso de poder ou teratologia, as Cortes Superiores têm entendido pela possibilidade de superação do mencionado óbice processual.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. SÚMULA N. 691 DO STF. DECISÃO QUE INDEFERIU LIMINARMENTE O PEDIDO. TERATOLOGIA OU FALTA DE RAZOABILIDADE NÃO EVIDENCIADAS DE PLANO. JULGAMENTO MERITÓRIO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte é firme na compreensão de que não tem cabimento o habeas corpus para desafiar decisão do relator que indeferiu o pedido liminar. Inteligência do enunciado sumular n. 691 do Supremo Tribunal Federal (precedentes).
+2. Os rigores do mencionado verbete somente são abrandados nos casos de manifesta teratologia da decisão ou constatação de falta de razoabilidade.
+ ..
+5. Agravo regimental desprovido. (AgRg no HC n. 892.673/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/4/2024, DJe de 3/5/2024).
+Na hipótese em análise, não se verifica a existência de ilegalidade manifesta apta a ensejar a concessão da ordem pretendida.
+O Desembargador relator indeferiu o pedido liminar invocando os seguintes fundamentos (fls. 517/519):
+Trata-se de "Habeas Corpus", com pedido liminar, impetrado pelos advogados Eduardo Alexandre M. H. de Moura e Juliana Maria Milanez, em favor do paciente EDMILSON MANOEL DOS SANTOS, alegando constrangimento ilegal por parte do MM. Juiz de Direito da 4ª Vara do Júri da Comarca da Capital.
+Afirmam, em síntese, que o paciente foi pronunciado como incurso no artigo 121, "caput", do Código Penal, e que na r. sentença de pronúncia o MM. Juiz teria se amparado unicamente em testemunhos indiretos, bem como obstou o direito de defesa ao certificar o trânsito em julgado sem intimar o paciente pessoalmente, a indicar a ocorrência de constrangimento ilegal.
+Sustentam com a fragilidade do acervo probatório, sobretudo porque nenhuma das testemunhas presenciou os fatos, em afronta ao artigo 155 do Código de Processo Penal, além de não terem sido apreciadas as teses defensivas a respeito da intoxicação alcóolica da vítima.
+Argumentam pelo reconhecimento da nulidade do trânsito em julgado, eis que o MM. Juiz negou seguimento ao recurso em sentido estrito pela intempestividade, porém o paciente não foi intimado pessoalmente a respeito da decisão que julgou os embargos de declaração.
+Pretendem, portanto, como medida liminar, que seja determinada suspensão do processo até o julgamento do presente "writ"; no mérito buscam a concessão da ordem para que seja declarada a nulidade da certidão de trânsito em julgado, e que o paciente seja absolvido e impronunciado.
+É o relatório.
+A análise sumária da impetração não autoriza inferir se houve o preenchimento dos requisitos à medida liminar.
+Em verdade, as argumentações expostas no presente "mandamus" se confundem com o próprio mérito, escapando aos limites de cognição cautelar, que há de ser deferida apenas nos casos em que exsurge flagrante a ilegalidade afirmada.
+Por isso, indefiro a liminar.
+Destarte, a matéria depende de aprofundamento do próprio mérito do writ, devendo-se reservar a sua análise primeiramente ao Tribunal, sendo vedado a esta Corte Superior adiantar-se nesse exame, sob pena de indevidamente subtrair a competência do órgão jurisdicional de origem.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
