@@ -1,0 +1,13 @@
+DECISÃO
+O presente writ, impetrado em benefício de CAIQUE NASCIMENTO CLAPP e RODRIGO DOS SANTOS ROCHA - condenados como incursos no crime de roubo majorado (Ação Penal n. 0806260-57.2025.8.19.0203) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, não comporta processamento.
+Com efeito, busca a impetração a revisão da condenação imposta aos pacientes pelo Juízo de Direito da 1ª Vara Criminal da Regional de Jacarepaguá/RJ, e recrudescida pelo Tribunal de origem, aos argumentos de:
+a) ser ilegal a aplicação da majorante do emprego de arma, pois a dúvida sobre a eficácia lesiva e a natureza da arma deve ser interpretada em favor dos acusados, sendo descabido exigir da defesa a produção de prova diabólica quanto à produção ou apreensão do simulacro (fl. 7); e
+b) ser indevida a aplicação concomitante das majorantes do emprego de arma e concurso de agentes, pois o Tribunal utilizou os próprios elementos integrantes dos tipos das majorantes para promover a cumulação da fração, incorrendo em fundamentação genérica e tautológica (fl. 8).
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois:
+a) este Superior Tribunal entende, de fato, que além de a palavra da vítima ser suficiente para comprovar a utilização da arma de fogo, quando inexistente prova em sentido contrário, cabe à Defesa o ônus de comprovar que o artefato empregado na prática delitiva se trata de simulacro ou que não possui potencial lesivo (AgRg no HC n. 968.221/SP, Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJEN de 8/5/2025);
+b) a aplicação concomitante das majorantes (emprego de arma e concurso de agentes) se encontra fundamentada em dados concretos dos fatos, no sentido de que em se tratando de crime de roubo que demandou o envolvimento de ao menos 06 (seis) agentes criminosos, mediante o emprego de arma de fogo, plenamente cabível o emprego cumulativo das frações previstas no tipo penal (artigo 157, § 2º, inciso II, e § 2º-A, inciso I, do diploma penal) (fl. 25).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO MAJORADO. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. DOSIMETRIA DA PENA. MAJORANTE DO EMPREGO DE ARMA. RECONHECIMENTO COM BASE NAS PROVAS DOS AUTOS. ALEGAÇÃO DE SIMULACRO. ÔNUS DA DEFESA. APLICAÇÃO CONCOMITANTE. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
