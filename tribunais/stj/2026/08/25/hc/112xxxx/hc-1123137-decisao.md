@@ -1,0 +1,9 @@
+DECISÃO
+Por meio deste writ, busca-se a imediata revogação da prisão preventiva de ISRAEL DA CUNHA BASTOS no Processo n. 0013339-73.2026.8.06.0001, da Vara de Delitos de Organizações Criminosas da comarca de Fortaleza/CE, sob os argumentos, em suma, de excesso de prazo após o desmembramento e ratificação do recebimento da denúncia, ausência de contemporaneidade e suficiência da imposição de medidas cautelares diversas.
+Sucede que as teses relativas à contemporaneidade e fixação de cautelares diversas já foram decididas em impetrações anteriores, tanto no Tribunal a quo quanto nesta Corte Superior (HCs n. 1.086.098 e n. 742.309), configurando indevida reiteração de pedido.
+E, no que se refere ao alegado excesso de prazo, basta para o afastamento do pleito a constatação de que o mandado de prisão expedido em desfavor o paciente, em 12/05/2022, permanece pendente de cumprimento, figurando, até a presente data, no sistema com status de foragido (fl. 32). Ora, há farta jurisprudência dizendo que a condição de foragido afasta a alegação de constrangimento ilegal por excesso de prazo na instrução criminal (AgRg no RHC n. 233.935/MG, de minha relatoria, Sexta Turma, julgado em 24/6/2026, DJEN de 29/6/2026). O estado de foragido afasta alegação de excesso de prazo e reforça o periculum libertatis, não havendo constrangimento ilegal por mora processual (AgRg no RHC n. 234.632/PE, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 3/6/2026, DJEN de 16/6/2026).
+À vista do exposto, indefiro liminarmente o writ, nos termos do art. 210 do RISTJ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. OPERAÇÃO ANULLARE. CRIMES DO ART. 2º, § 2º, DA LEI N. 12.850/2013 E DO ART. 35 DA LEI N. 11.343/2006. CUSTÓDIA PREVENTIVA. AUSÊNCIA DE CONTEMPORANEIDADE E SUFICIÊNCIA DE MEDIDAS ALTERNATIVAS. REITERAÇÃO DE PEDIDO. EXCESSO DE PRAZO. INEXISTÊNCIA. RÉU FORAGIDO. JURISPRUDÊNCIA.
+Writ indeferido liminarmente.
