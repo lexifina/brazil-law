@@ -1,0 +1,27 @@
+DECISÃO:  Trata-se de recurso ordinário interposto por José Silvano Gasparini, em face de acórdão proferido pelo Superior Tribunal de Justiça, nos autos do HC 1065758.
+Colho da decisão impugnada:
+
+A controvérsia tratada nos autos foi devidamente relatada na decisão acostada às e-STJ fls. 116/117, in verbis:
+Trata-se de Habeas Corpus com pedido de liminar impetrado em favor de JOSE SILVANO GASPARINI, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO. Consta dos autos que o paciente foi condenado a 6 (seis) anos e 6 (seis) meses de reclusão em regime semiaberto e ao pagamento de 41 (quarenta e um) dias-multa, pela prática dos delitos capitulados nos arts. 2º, § 1º, da Lei n. 12.850/2013, e 1º, caput, da Lei n. 9.613/1998. Os impetrantes sustentam ter havido dupla valoração do mesmo substrato fático, uma vez que o mesmo contexto, consistente na exploração do jogo do bicho e no aproveitamento econômico dos seus resultados, teria sido utilizado para sustentar a condenação por organização criminosa, por lavagem de dinheiro e para justificar o concurso material, afrontando o princípio do ne bis in idem. Alegam que a conduta imputada a título de lavagem se limitaria ao mero exaurimento econômico do crime antecedente, inexistindo atos autônomos de ocultação ou dissimulação, circunstância agravada pelo fato de que o próprio Tribunal de origem reconheceu a prescrição do delito-base, tornando desproporcional e ilegal a reprimenda imposta. Argumentam que a aplicação do concurso material não seria uma operação aritmética automática decorrente da simples existência de dois ou mais crimes, exigindo-se a presença cumulativa da pluralidade de condutas e de desígnios. Aduzem que, no caso, a soma das penas teria se baseado em automatismo decisório, violando o dever de fundamentação racional previsto no IX, da art. 93, Constituição Federal, porquanto o acórdão recorrido não teria indicado em que momento o paciente teria interrompido a sua vontade de gerir organização para, em ato volitivo independente e desconectado, decidir lavar dinheiro. Advertem que, caso não seja reconhecida a consunção, deveria ser aplicada a regra do concurso formal, prevista no do Código Penal, pois atos sucessivos de art. 70 ocultação/dissimulação dentro de um mesmo contexto e envolvendo o mesmo capital configurariam crime único ou continuado, e não concurso material. Pontuam que, redimensionada a pena para patamar igual ou inferior a 4 (quatro) anos, o regime inicial deveria ser aberto ante a primariedade do réu e suas circunstâncias pessoais favoráveis, nos termos do § 2º, , do Código Penal, com a substituição da art. 33, c reprimenda corporal por sanções restritivas de direitos.
+Neste agravo regimental, a defesa repisou os argumentos deduzidos anteriormente, requerendo, desse modo, a reconsideração da decisão agravada ou a submissão da matéria ao colegiado. (eDOC 35)
+
+No STJ, o recorrente não teve êxito.
+Nesta Corte, requer o “a) O regular recebimento, conhecimento e processamento do presente Recurso Ordinário Constitucional; b) No mérito, o provimento do recurso para reformar o acórdão proferido pelo Superior Tribunal de Justiça e, por conseguinte, determinar o redimensionamento da pena aplicada ao paciente JOSÉ SILVANO GASPARINI nos autos da Ação Penal nº 0000277-73.2016.8.26.0319, afastando a tripla valoração fática e decotando o crime de lavagem de capitais por ausência de autonomia; c) Subsidiariamente, caso mantidas as tipificações, seja afastada a regra do concurso material (artigo 69, CP), aplicando-se a regra do concurso formal próprio de crimes (artigo 70, caput, CP), limitando-se o aumento ao patamar legal mínimo de 1/6 (um sexto); d) A consequente readequação do regime inicial de cumprimento da pena para o REGIME INICIAL ABERTO, com a substituição da sanção corporal por penas restritivas de direitos (artigo 44 do Código Penal).” (eDOC 54)
+Há, ainda, o RHC 276.117, que chegou a esta Corte no mesmo dia em que protocolado o presente.
+Ambos impugnam a mesma sentença.
+A PGR opina pelo não provimento do recurso.
+É o relatório.
+Decido.
+Como se vê, a controvérsia não consta do acórdão impugnado. Assim, não há matéria a ser conhecida neste recurso, porque não há matéria conhecida no STJ. Veja-se:
+
+“DIREITO PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. A MATÉRIA EM DEBATE NÃO CONSTA DO ACÓRDÃO IMPUGNADO. NÃO SE CONHECE DE RECURSO DO QUAL NÃO CONSTA O DEBATE SOBRE A CONTROVÉRSIA , POR AUSÊNCIA DO EFEITO DEVOLUTIVO . INEXISTE ILEGALIDADE A AUTORIZAR A CONCESSÃO DA ORDEM DE OFÍCIO . TESE DE QUE O TRIBUNAL DE JUSTIÇA ESTÁ OBRIGADO A REBATER CADA PONTO DA SENTENÇA. IMPROCEDÊNCIA. AGRAVO IMPROVIDO”. (AgR no RHC 256.698, de minha relatoria, Segunda Turma, DJe 27.6.2025).
+
+Não há, ainda, ilegalidade a justificar a concessão da ordem de ofício.
+Isso porque esta Corte tem o entendimento consolidado no sentido de que cabe às instâncias ordinárias fixar as penas. O controle de proporcionalidade das sanções pelas Cortes Superiores apenas pode ocorrer em situações teratológicas, para aumentos muito superiores ao adotado no caso, não verificadas na espécie. Precedentes: HC 232.473 AgR, Rel. Min. Flávio Dino, Primeira Turma, DJe 21.3.2024, e HC 232.344 AgR, Rel. Min. Nunes Marques, Segunda Turma, DJe 7.12.2023. (eDOC 6, p. 29)
+Ante o exposto, nego seguimento ao recurso, por ser manifestamente inadmissível.
+Publique-se.
+Brasília, 25 de agosto de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
