@@ -1,0 +1,5 @@
+ESTADO DE ALAGOAS ASSEMBLEIA LEGISLATIVA ESTADUAL
+
+LEI Nº 10.023, DE 25 DE AGOSTO DE 2026.
+
+ALTERA A LEI Nº 6.514, DE 23 DE SETEMBRO DE 2004. O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE ALAGOAS, no uso das atribuições que lhe confere o parágrafo 6º do art. 89 da Constituição Estadual, promulga a seguinte Lei:
