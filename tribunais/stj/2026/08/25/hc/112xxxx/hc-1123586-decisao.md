@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de MARCOS HENRIQUE BARBATO LEMOS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do Agravo Interno Criminal n. 2118814-29.2026.8.26.0000/50000.
+Extrai-se dos autos que o Juízo da Vara de Execução Penal indeferiu o pedido de remição de penas pela realização do ENEM, formulado pelo paciente (fl. 27).
+Irresignada, a defesa impetrou habeas corpus junto ao Tribunal de origem, que não foi conhecido monocraticamente (fls. 28/20). Foi negado provimento ao agravo interno interposto pelo paciente, nos termos do acórdão que restou assim ementado (fls. 32):
+"AGRAVO REGIMENTAL. HABEAS CORPUS. Não conhecimento de writ impetrado como substitutivo de recurso próprio. Descabimento. Concessão da ordem de habeas corpus que pressupõe a demonstração imediata e inequívoca de constrangimento ilegal, apto a ser reconhecido de plano, sem a necessidade de incursão aprofundada no mérito da controvérsia. O agravo regimental não apresenta elementos novos que justifiquem a reforma da decisão monocrática. Não configurado constrangimento ilegal que autorize a concessão da ordem de ofício, ou teratologia da decisão impugnada. RECURSO NÃO PROVIDO."
+No presente writ, a defesa sustenta a ocorrência de constrangimento ilegal decorrente do não conhecimento do habeas corpus pelo Tribunal de origem, pois a questão se trata de matéria de direito, cognoscível de ofício.
+Alega a possibilidade de remição da pena pela aprovação parcial no ENEM, nos termos do art. 126 da Lei de Execução Penal - LEP e da Resolução CNJ n. 391/2021.
+Assevera a inexistência de bis in idem entre a remição por aprovação no ENCCEJA e a remição por aprovação no ENEM, por se tratarem de fatos geradores autônomos, com propósitos e graus de complexidade distintos.
+Argui que a inviabilidade do manejo do recurso próprio, diante de intempestividade superveniente à constituição do patrono, não pode obstar a tutela do direito de remição quando evidenciada ilegalidade na decisão de primeiro grau.
+Requer, em liminar e no mérito, a concessão da ordem para reconhecer o direito do paciente à remição da pena pela aprovação parcial no ENEM 2025, com determinação ao Juízo da execução para retificar os cálculos da pena.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Todavia, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+Na hipótese, o Tribunal de origem negou provimento ao agravo interno, mantendo a decisão que não conheceu do habeas corpus, sob o fundamento de que:
+" ..  o habeas corpus não pode ser utilizado como sucedâneo recursal, pois sua finalidade constitucional restringe-se à proteção direta da liberdade de locomoção contra ato ilegal ou abuso de poder. Desse modo, é inviável a impetração dessa ação constitucional com o objetivo de contornar a perda do prazo para a interposição do recurso próprio, que, no caso, seria o agravo em execução. A intempestividade e a consequente preclusão temporal não podem ser relevadas por meio de uma via inadequada, sob pena de desvirtuamento do sistema recursal previsto na legislação processual penal e comprometimento da segurança jurídica e da regularidade dos procedimentos judiciais." (fls. 36/37).
+De início, não tendo sido apreciada a questão meritória, não cabe a este Superior Tribunal de Justiça a sua análise, sob pena de se incorrer em indevida supressão de instância.
+Todavia, em que pese ser indevida a utilização do habeas corpus como substitutivo do recurso próprio, também é certo que não há óbice ao manejo do writ quando a matéria nele deduzida for de direito e tiver potencial de causar lesão à liberdade de locomoção do apenado.
+Este Tribunal Superior tem acumulado julgados no sentido de que compete ao Tribunal a quo apreciar o mérito do mandamus lá impetrado para a verificação, ainda que de ofício, de eventual constrangimento ilegal que repercuta no direito de locomoção do paciente, ainda que no âmbito da execução penal.
+Nesse sentido (grifos nossos):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO PRISIONAL. SUPRESSÃO DE INSTÂNCIA. WRIT NÃO CONHECIDO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FLAGRANTE ILEGALIDADE. EXISTÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1. A questão relativa à apontada ilegalidade da decisão que indeferiu pedido de progressão prisional não foi analisada pelo Tribunal de origem, o que impede a sua apreciação diretamente por esta Corte Superior de Justiça, sob pena de, se assim o fizer, incidir na indevida supressão de instância.
+2. O fundamento de que remédio constitucional não pode ser utilizado como substitutivo do agravo em execução não tem o condão de subtrair do órgão julgador a verificação quanto à existência de manifesto erro na decisão do Juiz da VEC. A tese de que a decisão proferida pelo Juízo de origem não possuiria fundamentação idônea para indeferir a progressão prisional não demanda análise de provas e está relacionada a direito de locomoção.
+3. Se for verificada a não interposição do agravo em execução, o remédio constitucional é o único instrumento de que dispõe o apenado para sanar eventual ilegalidade do decisum originário que indeferiu o referido benefício. Negativa de prestação jurisdicional reconhecida.
+4. Agravo regimental não provido. Habeas corpus concedido de ofício para determinar ao Tribunal de Justiça do Estado de São Paulo que aprecie, como entender de direito, uma vez verificada a não interposição de agravo em execução, se existe patente ilegalidade na decisão do Juiz da VEC.
+(AgRg no HC n. 718.847/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 8/2/2022, DJe de 21/2/2022.)
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. IMPOSSIBILIDADE DE MANIFESTAÇÃO DESTA CORTE QUANTO À INSTAURAÇÃO DE PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR PARA APURAÇÃO DE FALTA GRAVE. SUPRESSÃO DE INSTÂNCIA. INDEVIDA NEGATIVA DE PRESTAÇÃO
+JURISDICIONAL. AGRAVO DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - A matéria vertida no presente mandamus não foi examinada pelo eg. Tribunal a quo, não podendo sê-lo, pela vez primeira, por esta Corte Superior de Justiça, sob pena de indevida supressão de instância.
+III - Contudo, verifico que a não manifestação do eg. Tribunal a quo acerca do reconhecimento de falta grave pela ora agravante sem a instauração de procedimento administrativo disciplinar, configurou indevida negativa de prestação jurisdicional. (Precedentes).
+Agravo regimental desprovido.
+(AgRg no HC n. 394.649/SC, relator Ministro Felix Fischer, Quinta Turma, julgado em 3/8/2017, DJe de 10/8/2017.)
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus, mas concedo a ordem, de ofício, apenas para determinar ao Tribunal de origem que, dentro dos limites do writ, analise as alegações deduzidas na inicial .
+Publique-se.
+Intimem-se.
+EMENTA
