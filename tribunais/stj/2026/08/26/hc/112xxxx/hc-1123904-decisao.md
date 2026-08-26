@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de RICARDO ABDULMASSIH apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS no Agravo em Execução Penal n. 1.0000.26.132373-7/001.
+Depreende-se dos autos que o Juízo das execuções concedeu ao paciente, que cumpre pena de 20 anos e 6 meses de reclusão pela prática de homicídio qualificado, a progressão para o regime semiaberto harmonizado com monitoramento eletrônico (e-STJ fls. 11/21).
+Irresignado, o Ministério Público interpôs agravo em execução perante o Tribunal de origem, o qual deu provimento ao recurso para revogar o regime semiaberto harmonizado em acórdão assim ementado (e-STJ fl. 11):
+AGRAVO EM EXECUÇÃO PENAL - PRISÃO DOMICILIAR EXCEPCIONAL COM IMPOSIÇÃO DE MONITORAMENTO ELETRÔNICO - REEDUCANDO EM REGIME SEMIABERTO - NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS À CONCESSÃO DA BENESSE - RECURSO PROVIDO. As hipóteses de prisão domiciliar, elencadas no art. 117 da Lei de Execução Penal, são taxativas e, não estando o sentenciado inserido em nenhuma dessas hipóteses, inviável a concessão de tal benefício.
+No presente writ, sustenta a defesa a possibilidade de o apenado continuar o cumprimento de sua pena em regime semiaberto harmonizado, tendo em vista que se encontra "em prisão domiciliar desde abril de 2023, há mais de três anos, benefício concedido pelo juízo da execução por razões de saúde, sucessivamente prorrogado, sempre com respaldo em laudos médicos e com a anuência expressa do Ministério Público de primeiro grau" (e-STJ fls. 3/4).
+Pondera que a eventual prática de falta disciplinar ainda pendente de apuração não pode ser utilizada como fundamento para cassar a prisão domiciliar, pois viola o princípio da presunção de inocência.
+Requer, inclusive liminarmente, a manutenção do apenado no regime semiaberto harmonizado.
+É o relatório.
+Decido.
+Inicialmente, vê-se que das decisões trazidas aos autos, o cerne da questão está limitado à possibilidade de prisão domiciliar em virtude da ausência de vagas em estabelecimento prisional compatível.
+Não há na decisão de primeiro grau, nem no aresto combatido, quaisquer considerações acerca do estado de saúde do apenado ou enfrentamento do pedido de prisão domiciliar humanitária, razão pela qual deixo de apreciar a matéria para não incorrer em indevida supressão de instância.
+Pois bem.
+Firmou-se no Superior Tribunal de Justiça o entendimento de que a inexistência de vaga em estabelecimento prisional compatível com o regime determinado no título condenatório ou decorrente de progressão de regime permite ao condenado o cumprimento da reprimenda no modo menos gravoso, observados os parâmetros fixados na Súmula Vinculante n. 56 do Supremo Tribunal Federal.
+O Juízo das execuções, ao conceder ao apenado o regime semiaberto harmonizado, consignou o seguinte (e-STJ fls. 29/34):
+O art. 117 da LEP é claro ao permitir a prisão domiciliar somente ao condenado que esteja cumprindo sua pena em regime aberto, e ainda, que satisfaça uma das condições exigidas em seus incisos I a IV, quais sejam: condenado maior de 70 (setenta) anos, acometido de doença grave, condenada com filho menor ou deficiente físico ou mental, condenada gestante, ou de excepcionalidade de motivos.
+No específico caso dos autos, consta que o apenado(a) cumpre pena no regime semiaberto, contudo, não há nesta Comarca casa de albergue para recolhimento dos sentenciados em cumprimento de pena no regime semiaberto.
+Neste sentido, é entendimento majoritário da Suprema Corte, sendo o que dispõe a Súmula Vinculante n.56 do STF, in verbis, "a falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso, devendo-se observar, nessa hipótese, os parâmetros fixados no RE 641.320/RS."
+Julgados anteriores recomendam nova postura por parte do Poder Judiciário com o objetivo de solucionar a crise no sistema prisional, nesse sentido, é o entendimento do ministro Ricardo Lewandowski no RE 592.581, senão vejamos:
+"A reiterada omissão do Estado brasileiro em oferecer condições de vida minimamente digna aos detentos exige uma intervenção enérgica do Judiciário para que, pelo menos, o núcleo essencial da dignidade da pessoa humana lhes seja assegurada, não havendo margem para qualquer discricionariedade por parte das autoridades prisionais no tocante a esse tema."
+Há de ressaltar o baixo número de rompimentos e cometimento de novos crimes por sentenciados beneficiados com o monitoramento, demonstrando responsabilidade e compromisso com o cumprimento da pena.
+A Corte estadual manteve a decisão de primeiro grau com a seguinte fundamentação (e-STJ fls. 16/17, grifo nosso):
+Todavia, no presente caso, extrai-se que o acusado se encontra no regime semiaberto, não podendo, portanto, obter o cumprimento da reprimenda já no gozo de benefício previsto apenas para aqueles que se encontram em regime mais benéfico.
+Registre-se, ademais, que ainda que inexista na comarca estabelecimento adequado para o cumprimento da pena em regime semiaberto, tal fato não autoriza a concessão da prisão domiciliar ao condenado, se ele não preenche os requisitos previstos no art. 117 da Lei de Execução Penal.
+Neste particular, imperioso salientar que não há que se falar em cumprimento de pena em regime mais gravoso, eis que, como é cediço, o que diferencia os regimes fechado e semiaberto é o grau de vigilância exercida sobre os condenados, já que, em ambos os regimes, os presos são submetidos a tratamento idêntico, permanecendo reclusos durante o dia, exceto quando beneficiados com o trabalho externo, saídas temporárias ou permissão de saída.
+No caso dos autos, verifica-se que ao sentenciado já foi deferido o benefício do trabalho externo, no horário compreendido entre 05h30min e 21h00min, de segunda a sexta-feira, e das 05h30min às 18h00min aos sábados. Assim, já lhe foram asseguradas as prerrogativas inerentes ao regime semiaberto
+Todavia, circunstância diversa é a manutenção do cumprimento da pena na modalidade de prisão domiciliar, benefício de caráter excepcional que, na hipótese dos autos, não encontra amparo. Isso porque os relatórios médicos mencionados no parecer (seqs. 285 e 367), emitidos em 17/06/2024 e 14/03/2025, respectivamente, não se mostram aptos, por si sós, a justificar a manutenção da medida, diante do significativo lapso temporal transcorrido desde a sua elaboração e da ausência de documentação médica contemporânea que demonstre a persistência do quadro clínico que, à época, ensejou a sua concessão.
+Além disso, verifica-se a existência de procedimento em curso destinado à apuração de possíveis descumprimentos das condições impostas ao reeducando durante o cumprimento da prisão domiciliar. Conforme parecer ministerial de seq. 717.1, foram registradas diversas violações do perímetro de monitoramento, circunstância que, inclusive, levou o Parquet a requerer a regressão cautelar ao regime fechado, com a expedição de mandado de prisão e posterior designação de audiência de justificação, nos termos do art. 118, § 2º, da Lei de Execução Penal.
+Nesse contexto, ausentes elementos concretos que justifiquem a manutenção da prisão domiciliar, inviável a preservação da medida excepcional concedida ao reeducando. Entendimento diverso importaria na concessão de benefício sem amparo legal, em afronta ao sistema progressivo de cumprimento da pena e ao princípio da legalidade.
+Como bem salientado pelo Ministério Público, possível o cumprimento da pena pelo agravado, no regime que lhe foi imposto, em Comarcas adjacentes, sem que haja a violação do princípio da isonomia.
+Vê-se, portanto, que a Corte estadual, atenta à individualização da pena e aos comandos da Súmula Vinculante n. 56 do Supremo Tribunal Federal, determinou de forma fundamentada o retorno do apenado ao estabelecimento prisional, tendo em vista a existência de vaga em regime semiaberto em outras comarcas .
+Salientou, inclusive, a existência de vaga em presídio compatível com o regime intermediário, razão pela qual não há que se falar em constrangimento ilegal a ser sanado.
+Nesse sentido, confira-se o seguinte julgado desta Corte Superior :
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REGIME SEMIABERTO HARMONIZADO. PRISÃO DOMICILIAR. FALTA DE VAGAS. RECURSO IMPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto pela defesa contra decisão que não conheceu de habeas corpus, no qual se pleiteava a concessão de prisão domiciliar devido à falta de vagas em regime semiaberto.
+2. O Tribunal de origem cassou o benefício da prisão domiciliar com monitoramento eletrônico, pontuando a inobservância dos parâmetros traçados pelo RE n. 641.320/RS antes de ser concedido o benefício, considerando, ainda, que o estabelecimento prisional no qual o paciente estava recolhido não operava em sua capacidade máxima, tampouco apresentava excedente populacional, bem como a existência de ala própria para o cumprimento da pena.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a concessão de prisão domiciliar, como substitutiva do regime semiaberto, pode ser feita sem a observância dos parâmetros estabelecidos no RE n. 641.320/RS.
+III. RAZÕES DE DECIDIR
+4. A jurisprudência do STJ e a Súmula Vinculante n. 56/STF exigem a observância dos parâmetros do RE n. 641.320/RS antes da concessão de prisão domiciliar.
+5. A Corte Estadual adotou fundamentação em consonância com a jurisprudência do STJ, não havendo flagrante ilegalidade que justifique a concessão da ordem de ofício.
+6. O reexame do acervo fático-probatório é obstado na via estreita do habeas corpus.
+IV. DISPOSITIVO E TESE
+7. Resultado do Julgamento: Agravo regimental improvido.
+(AgRg no HC n. 1.079.252/CE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 29/4/2026, DJEN de 7/5/2026, grifo nosso.)
+Ante o exposto, denego o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
