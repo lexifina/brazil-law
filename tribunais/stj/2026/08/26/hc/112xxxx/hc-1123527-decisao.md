@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de EDSON MOURAO FILHO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO (Agravo em Execução n. 5020840-73.2025.8.08.0000).
+Extrai-se dos autos que o paciente teve deferido pedido de livramento condicional pelo Juízo da execução (e-STJ fls. 17/20).
+Em sede de julgamento de agravo em execução interposto pelo Ministério Público, a Corte Estadual cassou o benefício e determinou o retorno do apenado ao cárcere. O acórdão foi assim ementado (e-STJ fl. 64):
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO. FALTA GRAVE. FUGA DO SISTEMA PRISIONAL. ANÁLISE DO HISTÓRICO CARCERÁRIO. TEMA REPETITIVO STJ Nº 1.161. BENEFÍCIO INDEVIDO. REFORMA DA DECISÃO. RECURSO PROVIDO.
+I. CASO EM EXAME
+Agravo em Execução Penal interposto pelo Ministério Público do Estado do Espírito Santo contra decisão do Juízo da 2ª Vara Criminal de Viana/ES que concedeu livramento condicional ao apenado, condenado ao cumprimento de pena total de 51 anos, 01 mês e 19 dias de reclusão pela prática de oito crimes de roubo circunstanciado.
+II. QUESTÃO EM DISCUSSÃO
+A questão em discussão consiste em definir se o apenado preenche o requisito subjetivo exigido para a concessão do livramento condicional, diante da prática de falta grave consistente em fuga do sistema prisional durante a execução da pena.
+III. RAZÕES DE DECIDIR
+O livramento condicional pressupõe o atendimento cumulativo dos requisitos objetivos e subjetivos previstos no art. 83 do Código Penal, destacando-se, dentre estes, o bom comportamento carcerário.
+A prática de falta grave, consubstanciada na evasão do sistema prisional em razão do não retorno após saída temporária, evidencia a inobservância das regras de disciplina e convivência social exigidas durante a execução da pena.
+A análise do requisito subjetivo não se limita ao período de 12 meses anterior ao pedido, devendo considerar todo o histórico prisional do apenado, conforme entendimento firmado pelo Superior Tribunal de Justiça no Tema Repetitivo nº 1.161, adotado também pelo Supremo Tribunal Federal.
+A recaptura ocorrida em 05/09/2022 demonstra ausência de adaptação ao regime de cumprimento da pena, afastando, no momento, a conclusão favorável quanto ao requisito subjetivo necessário à concessão do benefício.
+IV. DISPOSITIVO E TESE Recurso provido.
+No presente writ, a defesa sustenta que o paciente preenche todos os requisitos para usufruir do livramento condicional, tanto que concedido pelo Magistrado de primeiro grau.
+Destaca que a única falta grave registrada nos assentamentos prisionais do paciente é antiga, ocorrida em 2022, e que não pode mais ser utilizada para indeferir benefícios no curso da execução, não havendo que se falar na aplicação do Tema n. 1.161/STJ para cassar o livramento condicional.
+Requer, liminarmente e no mérito, o restabelecimento da decisão que concedeu o benefício.
+É o relatório.
+Decido.
+A questão posta a deslinde refere-se à aferição de requisito subjetivo para fins de livramento condicional.
+No caso, o livramento condicional foi deferido pelo Magistrado das execuções com a seguinte fundamentação (e-STJ fl. 19):
+No caso concreto, pelos cálculos anexos ao SEEU, observo que o reeducando IMPLEMENTOU o requisito objetivo necessário à concessão do Livramento Condicional.
+Ao analisar o requisito subjetivo, verifico que este também se encontra PREENCHIDO nos termos do artigo 83, III do CP, uma vez que não praticou falta grave nos últimos doze meses, conforme se observa do atestado de conduta carcerária acostada ao item 475.1, motivo pelo qual deve a benesse ser concedida.
+Sob este aspecto, entendo que o bom comportamento carcerário deve ser aferido a partir da análise global do histórico prisional do apenado, não podendo a prática de faltas graves em período remoto constituir, por si só, óbice intransponível à concessão do livramento condicional, sobretudo quando demonstrado que, ao longo do tempo, o reeducando construiu trajetória recente favorável. A execução penal tem como escopo a ressocialização, razão pela qual não se mostra adequado perpetuar a mácula de condutas passadas já superadas, sob pena de transformar o processo de execução em mero instrumento de punição indefinida. Nesse contexto, compete ao Juízo valorar de forma ampla a evolução do comportamento prisional, reconhecendo que faltas graves antigas, como fuga ou atos de indisciplina isolados, não podem ser impeditivo absoluto quando se constata amadurecimento, disciplina e comprometimento atuais do condenado, em consonância com a finalidade ressocializadora da pena, motivo pelo qual indefiro o pedido do Ministério Público, tendo por preenchido o requisito subjetivo no presente caso.
+POR TODO O EXPOSTO CONCEDO o LIVRAMENTO CONDICIONAL ao apenado conforme fundamentação retro.
+Por sua vez, o Tribunal de origem, ao dar provimento ao agravo em execução interposto pelo Ministério Público, entendeu que não estava preenchido o requisito subjetivo com os seguintes fundamentos (e-STJ fl. 15):
+Consta dos autos que o apenado cumpre pena total de 51 (cinquenta e um) anos, 01 (um) mês e 19 (dezenove) dias de reclusão, em decorrência da prática do crime de roubo circunstanciado em oito ocasiões.
+Verifica-se, contudo, que, no curso do cumprimento da reprimenda, praticou falta grave consistente em fuga do sistema prisional, em razão do não retorno após benefício da saída temporária em 29/08/2022, sendo recapturado em 05/09/2022.
+O livramento condicional exige o preenchimento dos requisitos objetivos e subjetivos previstos no art. 83 do Código Penal, dentre os quais se destaca o bom comportamento durante a execução da pena. Sobre o tema, o Superior Tribunal de Justiça, no julgamento do Tema Repetitivo nº 1.161, firmou entendimento no sentido de que a análise do requisito subjetivo deve considerar todo o histórico prisional do apenado, não se restringindo ao período de 12 meses previsto no referido dispositivo, posicionamento igualmente adotado pelo Supremo Tribunal Federal.
+No caso, embora tenha sido reconhecido o bom comportamento carcerário, a evasão registrada evidencia a ausência de adaptação às regras de convivência social, o que afasta, no momento, o preenchimento do requisito subjetivo.
+Diante disso, ausente o requisito subjetivo, o agravado não faz jus à concessão do benefício do livramento condicional.
+Portanto, como visto acima, o acórdão recorrido utilizou como fundamentação uma falta disciplinar antiga (praticada em 2022 e reabilitada) para cassar o livramento condicional.
+Não obstante o entendimento firmado pelo Tribunal de origem, vê-se que não houve falta disciplinar recente e há atestado de bom comportamento carcerário. No mesmo sentido, os seguintes julgados do Superior Tribunal de Justiça:
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO. FALTAS GRAVES ANTIGAS. NÃO UTILIZAÇÃO PARA NEGATIVA DO BENEFÍCIO. RAZOABILIDADE E RESSOCIALIZAÇÃO DA PENA. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto pelo Ministério Público de Minas Gerais (MPMG) contra acórdão que concedeu o benefício do livramento condicional ao reeducando, reconhecendo o preenchimento dos requisitos subjetivo e objetivo do art. 83 do Código Penal, com fundamento na ausência de razoabilidade em utilizar faltas graves antigas como critério exclusivo para negativar o requisito subjetivo.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) se o comportamento do reeducando anterior aos últimos 12 meses deve ser considerado na análise do requisito subjetivo para concessão do livramento condicional; e (ii) se a prática de faltas graves antigas, mesmo com comportamento positivo no restante da execução da pena, pode justificar a negativa do benefício.
+III. RAZÕES DE DECIDIR
+3. O art. 83, III, do Código Penal exige bom comportamento carcerário como requisito subjetivo para concessão do livramento condicional. A análise desse requisito deve considerar a totalidade da execução da pena, mas não pode se limitar a faltas graves antigas, especialmente quando transcorrido considerável lapso temporal e comprovado comportamento positivo subsequente.
+4. A utilização de faltas graves antigas como critério absoluto para negar o benefício afronta os princípios da razoabilidade e da ressocialização da pena, que norteiam a execução penal, conforme reiterada jurisprudência do Superior Tribunal de Justiça.
+5. A jurisprudência desta Corte é pacífica no sentido de que faltas graves antigas, por si só, não impedem a concessão de benefícios, como progressão de regime ou livramento condicional, se houver demonstração de comportamento adequado por período suficiente (HC 414.772/SP; AgRg no HC 803.075/SP).
+6. No caso, as faltas graves cometidas pelo reeducando (em 2019 e 2022) não comprometem sua aptidão para reintegração social, especialmente diante da inexistência de infrações posteriores e do bom comportamento demonstrado ao longo da execução da pena. A decisão do Tribunal local está alinhada ao entendimento consolidado pela Quinta Turma do STJ, não havendo falar-se em violação aos dispositivos legais apontados.
+IV. RECURSO ESPECIAL DESPROVIDO.
+(REsp n. 2.150.254/MG, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 17/12/2024, DJEN de 23/12/2024.)
+HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. INDEFERIMENTO. GRAVIDADE DO DELITO PRATICADO, LONGA PENA A CUMPRIR E FALTA GRAVE ANTIGA. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+1. O requisito previsto no art. 83, III, b, do Código Penal, inserido pela Lei n. 13.964/2019, consistente no fato de o sentenciado não ter cometido falta grave nos últimos 12 meses, é pressuposto objetivo para a concessão do livramento condicional e não limita a valoração do requisito subjetivo necessário ao deferimento do benefício, inclusive quanto a fatos ocorridos antes da entrada em vigor da Lei Anticrime.
+2. A valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea a, do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea b do mesmo inciso III do art. 83 do Código Penal (Tema 1.161/STJ).
+3. No entanto, as faltas graves já reabilitadas, muito antigas, não constituem óbice ao livramento condicional, sob pena de desmotivarem o processo de evolução do apenado rumo à ressocialização (AREsp n. 2.497.118/GO, Ministra Daniela Teixeira, Quinta Turma, DJEN 31/12/2024).
+4. Ordem concedida.
+(HC n. 1.016.680/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 4/3/2026, DJEN de 10/3/2026.)
+Ante o exposto, concedo a ordem para cassar o acórdão referente ao julgamento do Agravo em Execução n. 5020840-73.2025.8.08.0000 e restabelecer a decisão de primeiro grau que concedeu livramento condicional ao paciente.
+Publique-se. Intimem-se.
+EMENTA
