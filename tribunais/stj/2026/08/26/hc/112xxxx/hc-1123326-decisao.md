@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUCAS RAFAEL RODRIGUES DA SILVA, apontando-se como autoridade coatora o Tribunal de Justiça do Estado do Paraná.
+Consta dos autos que o Tribunal de origem, em decisão monocrática, deferiu pedido liminar em favor do Ministério Público estadual no âmbito da Cautelar Inominada Criminal n. 0097247-86.2025.8.16.0000, para decretar a prisão preventiva do paciente pela suposta prática dos delitos de tráfico de drogas e associação para o tráfico, previstos nos arts. 33 e 35 da Lei n. 11.343/2006.
+Inconformada, a defesa impetrou prévio writ na Corte Estadual, que o julgou extinto monocraticamente.
+A defesa sustenta o cabimento do habeas corpus no Superior Tribunal de Justiça, por ser o ato coator decisão do TJPR, com base no art. 105, I, c, da Constituição da República, destacando que o writ anteriormente impetrado no Tribunal local não foi conhecido exatamente por se tratar de competência desta Corte Superior.
+Alega ausência de fundamentação concreta e individualizada do periculum libertatis, afirmando que a decisão coatora utilizou justificativas genéricas e coletivas (organização criminosa) sem demonstrar, quanto a LUCAS, conduta atual específica reveladora de risco à ordem pública, à instrução ou à aplicação da lei penal, exigida pelos arts. 312 e 315 do CPP.
+Sustenta a ausência de contemporaneidade do risco cautelar, porque os elementos individualizados relativos ao paciente remontam a setembro de 2024 e não foram apontados fatos novos ou contemporâneos aptos a evidenciar reiteração delitiva ou atuação recente, nos termos do art. 312, § 2º, do CPP.
+Argumenta a fragilidade dos elementos atribuídos ao paciente para fins de segregação cautelar, por se basearem em mensagens extraídas de aparelhos de terceiros, denúncias anônimas e identificações policiais, sem apreensão de droga, flagrante, monitoramento, campanas, movimentações financeiras ou extração do próprio celular de LUCAS.
+Invoca o grave estado de saúde do paciente, com histórico documentado desde 2021 de lesão neurológica periférica, múltiplas cirurgias, dor neuropática refratária, déficit motor irreversível, deformidade funcional, necessidade de neurocirurgia especializada e incapacidade laboral permanente, circunstâncias que demandam tratamento de alta complexidade.
+Requer, assim, a revogação da prisão preventiva, aplicando-se cautelares do art. 319 do Código de Processo Penal, ou, alternativamente, para conceder prisão domiciliar, a teor do art. 318, II, da referida norma.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Sob tal contexto, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesta ilegalidade que autorize a concessão da ordem, de ofício.
+Como cediço, é firme o entendimento deste Tribunal Superior de não ser cabível o conhecimento de habeas corpus quando a decisão monocrática proferida pelo Relator no Tribunal de origem não foi submetida ao crivo do órgão colegiado por meio do recurso interno adequado, pois o exame direto da matéria por este Superior Tribunal importaria indevida supressão de instância.
+Nesse sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPUGNANDO DECISÃO MONOCRÁTICA DE RELATOR DO TRIBUNAL A QUO. AUSÊNCIA DE INTERPOSIÇÃO DE AGRAVO REGIMENTAL. NECESSIDADE DE EXAURIMENTO DA INSTÂNCIA ORDINÁRIA.
+1. Habeas corpus impugnando decisão monocrática de relator, contra a qual seria cabível agravo regimental, que, como visto, não foi interposto, impossibilitando, assim, o conhecimento do writ no Superior Tribunal de Justiça.
+2. A provocação da jurisdição desta Corte Superior exige o prévio exaurimento da instância antecedente. Se a defesa não interpôs agravo regimental com o fim de submeter a decisão singular à apreciação do órgão colegiado competente, não se inaugurou a competência deste Tribunal Superior, à vista da previsão constante do art. 105, II, a, da Constituição da República (Precedentes) - (AgRg no HC n. 358.714/SP, Ministro Antônio Saldanha Palheiro, Sexta Turma, DJe 1º/8/2016) 3.
+Agravo regimental improvido."
+(AgRg no HC 710.716/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/2/2022, DJe 15/2/2022; grifou-se.)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
