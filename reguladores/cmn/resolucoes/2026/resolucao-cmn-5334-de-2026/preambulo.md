@@ -1,0 +1,4 @@
+Resolução Nº 5.334 RESOLUÇÃO CMN Nº 5.334, DE 24 DE AGOSTO DE 2026
+Altera a Resolução CMN nº 5.330, de 23 de julho de 2026, que dispõe sobre a contratação, pelas instituições financeiras, de linha de crédito rural para composição de dívidas rurais para liquidação ou amortização de operações de crédito rural e sobre a prorrogação do vencimento de operações de crédito rural que se enquadrem na linha de composição de dívidas, nos termos da Medida Provisória nº 1.376, de 15 de julho de 2026.
+O Banco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, torna público que o Conselho Monetário Nacional, em sessão realizada em 24 de agosto de 2026, tendo em vista as disposições do art. 4º, caput, inciso VI, da Lei nº 4.595, de 31 de dezembro de 1964, e dos arts. 1º, caput, 2º, caput e § 4º, 5º, caput, 6º, parágrafo único, e 7º da Medida Provisória nº 1.376, de 15 de julho de 2026,
+R E S O L V E U :
