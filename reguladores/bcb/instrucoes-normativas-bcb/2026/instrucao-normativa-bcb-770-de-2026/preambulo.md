@@ -1,0 +1,4 @@
+INSTRUÇÃO NORMATIVA BCB Nº 770, DE 22 DE AGOSTO DE 2026
+Divulga o calendário referente aos pontos de controle do processo de publicação em produção da versão 2.7.0 (ou posterior) da API Operações de Crédito – Empréstimos e da versão 1.1.0 (ou posterior) da API Po​rtabilidade de Crédito – Crédito Pessoal sem Consignação do Open Finance.
+Os Chefes do Departamento de Regulação do Sistema Financeiro (Denor), do Departamento de Supervisão de Cooperativas e de Instituições Não Bancárias (Desuc) e do Departamento de Supervisão Bancária (Desup), no uso da atribuição que lhes confere o art. 23, inciso I, alínea "a", do Regimento Interno do Banco Central do Brasil, anexo à Resolução BCB nº 340, de 21 de setembro de 2023, com base no art. 51, inciso IX, da Resolução Conjunta nº 1, de 4 de maio de 2020,
+R E S O L V E M :
