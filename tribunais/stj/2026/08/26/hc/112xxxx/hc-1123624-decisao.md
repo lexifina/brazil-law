@@ -1,0 +1,28 @@
+DECISÃO
+NATANAEL APARECIDO NORBIATI DE FREITAS alega sofrer constrangimento ilegal diante de decisão proferida por Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que indeferiu a liminar no HC n. 2203884-14.2026.8.26.0000.
+Nesta Corte, a defesa sustenta, em resumo, necessidade de superação da Súmula n. 691 do STF, desproporcionalidade da cautela extrema e a ausência de motivação idônea para converter o flagrante em prisão preventiva do acusado, pela suposta prática do crime de tortura.
+Requer, dessa forma, a concessão de liberdade provisória ao paciente.
+Decido.
+De acordo com o explicitado na Constituição Federal (art. 105, I, "c"), não compete a este Superior Tribunal julgar habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau.
+Em verdade, em que pesem sua altivez e sua grandeza como garantia constitucional de proteção da liberdade humana, o habeas corpus não deve servir de instrumento para que se afastem as regras de competência e se submetam à apreciação das mais altas Cortes do país decisões de primeiro grau às quais se atribui suposta ilegalidade, salvo se evidenciada, sem necessidade de exame mais vertical, a apontada violação ao direito de liberdade do paciente.
+Somente em tal hipótese a jurisprudência, tanto do STJ quanto do STF, admite o excepcional afastamento do rigor da Súmula n. 691 do STF (aplicável ao STJ), expressa nos seguintes termos: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+Nesse sentido, permanece inalterado o entendimento dos Tribunais Superiores:
+ ..
+1. Não cabe ao SUPREMO TRIBUNAL FEDERAL conhecer de Habeas Corpus impetrado contra decisão proferida por relator que indefere o pedido de liminar em Habeas Corpus requerido a tribunal superior, sob pena de indevida supressão de instância (Súmula 691 do STF).
+2. Inexistência de teratologia ou caso excepcional que caracterizem flagrante constrangimento ilegal.
+3. Agravo regimental a que se nega provimento.
+(HC n. 179.896 AgR, Relator(a): Min. Alexandre de Moraes, 1ª T., PROCESSO ELETRÔNICO DJe-081 DIVULG. 1º/4/2020, PUBLIC. 2/4/2020)
+ ..
+1. Esta Corte Superior firmou entendimento no sentido de não ser cabível habeas corpus contra decisão que indefere liminar, a não ser em hipóteses excepcionais, quando demonstrada flagrante ilegalidade, a teor do disposto no enunciado da Súmula 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar". 2. No caso, não há falar em flagrante ilegalidade capaz de superar o óbice da Súmula 691/STF, porquanto o agravo em recurso especial mostrou-se indubitavelmente intempestivo, o que sequer é questionado pelo agravante, logo, não se verifica direito inconteste de devolução do prazo recursal. 3. Agravo regimental desprovido. (AgRg no HC n. 561.091/RJ, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 16/4/2020)
+Extrai-se dos autos que o ora postulante teve sua prisão preventiva decretada pela suposta prática do crime de tortura. Consta do decreto prisional que houve "atuação em concurso de agentes, pelo emprego de violência física e grave ameaça, pela alegada utilização de arma ou simulacro e pela submissão da vítima a agressões destinadas à obtenção de confissão" (fl. 125). Além disso, há "indícios de tentativa de intimidação da vítima e de interferência na apuração dos fatos" (fl. 125).
+Irresignada, a defesa impetrou habeas corpus perante a Corte local. Ao indeferir a liminar, o Desembargador relator registrou que (fls. 136-137):
+Em que pesem os argumentos trazidos na impetração, não vislumbro a presença dos requisitos autorizadores da concessão da medida liminar. A prisão preventiva foi decretada através de decisão fundamentada na gravidade em concreto da conduta delituosa, praticada em concurso de agentes e mediante violência e grave ameaça, evidenciando risco à ordem pública e à instrução criminal, justificando a manutenção da prisão preventiva, por se mostrarem insuficientes as medidas cautelares diversas.
+ ..
+Some-se a isso o fato de ostentar o paciente antecedentes criminais, encontrando-se, ao que consta, em cumprimento de pena e com execução criminal em andamento (Execução 0001717-07.2023.8.26.0272), circunstância que, em análise preliminar, reforça a necessidade de maior cautela e afasta, por ora, a alegação de manifesta desnecessidade da prisão preventiva.
+Pela leitura do excerto transcrito, não constato flagrante ilegalidade no indeferimento da medida liminar pelo Relator na origem.
+Com efeito, o decisum foi claro ao mencionar que a prisão preventiva foi decretada por meio de decisão fundamentada com base na gravidade concreta da conduta delituosa, praticada em concurso de agentes e mediante violência e grave ameaça, e no risco concreto de reiteração delitiva, diante dos antecedentes criminais do autuado.
+Concluo, a um primeiro olhar, que a motivação exarada para indeferir o pedido de urgência, com base na gravidade concreta da ação delituosa, está em consonância com a jurisprudência desta Corte Superior.
+Não identifico, portanto, manifesta ilegalidade que permita inaugurar a competência constitucional deste Tribunal Superior. Ressalto, todavia, que a análise feita nesta oportunidade não pre clui o exame mais acurado da matéria, em eventual impetração que venha a ser aforada, já a partir da decisão colegiada da Corte estadual.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+ EMENTA
