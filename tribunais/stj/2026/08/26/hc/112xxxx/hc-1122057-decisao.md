@@ -1,0 +1,20 @@
+DECISÃO
+ADALTON FERNANDO DA SILVA alega sofrer coação ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que negou provimento ao Agravo em Execução Penal n. 0000045-34.2026.8.26.0150 e manteve a conversão das penas restritivas de direitos em pena privativa de liberdade, em regime semiaberto, com a consequente expedição de mandado de prisão.
+Consta dos autos que, em 11/3/2024, o paciente foi pessoalmente intimado para comparecer ao fórum no prazo de 10 dias, a fim de iniciar o cumprimento das penas substitutivas e regulamentar suas condições. Certificou-se, em 3/11/2025, que ele não compareceu, não iniciou o cumprimento das obrigações nem apresentou justificativa.
+Diante da inércia, o Juízo da execução converteu as penas restritivas de direitos em privativa de liberdade e determinou a expedição de mandado de prisão. O Tribunal de origem confirmou a decisão. Assentou que, intimado a iniciar a execução penal, o condenado permaneceu inerte por mais de um ano.
+A Corte estadual registrou que a advogada somente foi constituída depois da conversão e rejeitou a tese de prescrição da pretensão executória.
+A impetrante aponta a nulidade da decisão, por ausência de contraditório prévio. Afirma que a intimação para dar início ao resgate da pena não substitui a posterior oportunidade de justificar a falta de apresentação voluntária.
+Argumenta que o art. 44, § 4º, do Código Penal somente autoriza a conversão na hipótese de descumprimento injustificado, o que exigiria intimação específica do condenado para apresentar suas razões, com assistência da defesa técnica.
+Requer a desconstituição da conversão e o cancelamento do mandado de prisão, com o retorno da execução ao momento anterior à decisão.
+Decido.
+O paciente foi intimado pessoalmente para dar início à execução das penas restritivas de direito, em março de 2024. Todavia, desatendeu a determinação. Certificou-se o não comparecimento, em novembro de 2025, e a conversão em pena privativa de liberdade ocorreu sem nova intimação específica para o sentenciado justificar a inércia em comparecer.
+É possível o avanço para a pronta solução do habeas corpus, pois prevelece nesta Corte a compreensão de que, "em homenagem aos princípios do contraditório e da ampla defesa, faz-se necessária a intimação do reeducando para, com a presença de defensor, esclarecer as razões do descumprimento das medidas restritivas de direito antes da conversão delas em pena privativa de liberdade" (AgRg no REsp n. 1.689.985/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/9/2017, DJe de 2/10/2017.)
+Ilustrativamente:
+ ..  1. A teor do disposto no artigo 181 da Lei de Execução Penal, c.c. o art. 44, § 4.º, do Código Penal, a pena restritiva de direitos será convertida em privativa de liberdade quando houver o descumprimento injustificado da reprimenda imposta.
+2. Deve o magistrado, antes de proceder à conversão da pena, determinar a oitiva do sentenciado, a fim de que possa apresentar possíveis justificativas quanto à inobservância e descumprimento da decisão judicial, em homenagem aos princípios do contraditório e da ampla defesa.
+3. Na hipótese dos autos, previamente à conversão da pena restritiva de direitos em privativa de liberdade, o ora recorrente, veio a ser intimado para retirada de ofício para o início de cumprimento da pena restritiva de direito. Não comparecendo, contudo, em juízo, foi, então, intimado pessoalmente para apresentar justificativa, não logrando êxito em justificar o descumprimento das reprimendas de forma idônea. Não há que se falar, então, em cerceamento de defesa.
+4. Recurso a que se nega provimento.
+(RHC n. 29.955/RJ, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 4/8/2011, DJe de 17/8/2011.)
+À visto do exposto, concedo o habeas corpus para cassar a decisão que converteu as penas restritivas de direitos em privativa de liberdade, e determinar o retorno da execução ao momento anterior à conversão, a fim de que o paciente seja intimado para esclarecer as razões do não comparecimento.
+Publique-se e intimem-se.
+EMENTA
