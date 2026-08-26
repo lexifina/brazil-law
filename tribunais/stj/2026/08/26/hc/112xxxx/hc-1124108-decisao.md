@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUC0, que, ao julgar a Apelação Criminal n. 0004447-59.2019.8.17.0990, manteve na íntegra a sentença que condenou EYDSON RICARDO ALVES DA SILVA à pena de 04 (quatro) anos de reclusão, a ser cumprida inicialmente em regime semiaberto, além do pagamento de 10 (dez) dias-multa, por infração ao art. 157, § 2º, inciso VII, c/c o art. 14, inciso II, ambos do Código Penal.
+No presente habeas corpus, a defesa alega que o paciente sofre constrangimento ilegal decorrente da equivocada dosimetria da reprimenda que lhe foi aplicada.
+Sustenta que a fração de redução da tentativa deve ser aplicada no patamar máximo de 2/3, pois o iter criminis ficou distante da consumação do delito. O paciente nem sequer chegou a tocar nos objetos que pretendia subtrair.
+É o relatório.
+Decido.
+A  jurisprudência  do  Superior  Tribunal  de  Justiça  é  uníssona  no  sentido  de  que  não  cabe  a  utilização  de  habeas  corpus  como  sucedâneo  de  recurso  próprio  ou  de  revisão  criminal,  sob  pena  de  desvirtuamento  do  objeto  ínsito  ao  remédio  heroico,  qual  seja,  o  de  prevenir  ou  remediar  lesão  ou  ameaça  de  lesão  ao  direito  de  locomoção.
+Nesse  sentido:
+PENAL  E  PROCESSUAL  PENAL.  AGRAVO  REGIMENTAL  NO  "HABEAS  CORPUS".  ORGANIZAÇÃO  CRIMINOSA.  DOSIMETRIA.  INEXISTÊNCIA  DE  ILICITUDE  FLAGRANTE.  RECURSO  NÃO  PROVIDO.
+1.  A  Terceira  Seção  desta  Corte,  seguindo  entendimento  firmado  pela  Primeira  Turma  do  Supremo  Tribunal  Federal,  sedimentou  orientação  no  sentido  de  não  admitir  habeas  corpus  em  substituição  a  recurso  próprio  ou  a  revisão  criminal,  situação  que  impede  o  conhecimento  da  impetração,  ressalvados  casos  excepcionais  em  que  se  verifica  flagrante  ilegalidade  apta  a  gerar  constrangimento  ilegal.  ..
+(AgRg  no  HC  n.  921.445/MS,  relatora  Ministra  Daniela  Teixeira,  Quinta  Turma,  julgado  em  3/9/2024,  DJe  de  6/9/2024,  grifo  nosso.)
+AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  TRÁFICO  DE  DROGAS.  ..  .  CONCESSÃO  DE  HABEAS  CORPUS  DE  OFÍCIO.  POSSIBILIDADE.  AGRAVO  REGIMENTAL  IMPROVIDO.
+ ..  4.  "Firmou-se  nesta  Corte  o  entendimento  de  que  " n ão  deve  ser  conhecido  o  writ  que  se  volta  contra  acórdão  condenatório  já  transitado  em  julgado,  manejado  como  substitutivo  de  revisão  criminal,  em  hipótese  na  qual  não  houve  inauguração  da  competência  desta  Corte"  (HC  n.  733.751/SP,  relatora  Ministra  Laurita  Vaz,  Sexta  Turma,  julgado  em  12/9/2023,  DJe  de  20/9/2023).  Não  obstante,  em  caso  de  manifesta  ilegalidade,  é  possível  a  concessão  da  ordem  de  ofício,  conforme  preceitua  o  art.  654,  §  2º,  do  Código  de  Processo  Penal"  (AgRg  no  HC  n.  882.773/SP,  relator  Ministro  Jesuíno  Rissato  -  Desembargador  Convocado  do  TJDFT,  Sexta  Turma,  julgado  em  24/6/2024,  DJe  de  26/6/2024).  ..
+(AgRg  no  HC  n.  907.053/SP,  relator  Ministro  Antônio  Saldanha  Palheiro,  Sexta  Turma,  julgado  em  16/9/2024,  DJe  de  19/9/2024,  grifo  nosso.)
+Não  se  ignora  a  determinação  para  que,  quando  presente  flagrante  ilegalidade,  é  de  se  conceder  a  ordem  de  ofício,  nos  termos  do  art.  647-A,  parágrafo  único,  do  Código  de  Processo  Penal.
+Essa, contudo, não é a situação dos autos.
+  De acordo com a orientação firmada neste Tribunal Superior,  a  dosimetria da pena  , por  se  tratar  de  matéria  afeta  a  certa  discricionariedade  do  magistrado,  é  passível  de  revisão,  em habeas corpus,  apenas  em  hipóteses  excepcionais,  quando  ficar  evidenciada  teratologia ou flagrante  ilegalidade,  aferível de  plano,  sem  a  necessidade  de  reexame  do  acervo  fático-probatório  dos  autos.
+Acerca da controvérsia, o Tribunal de origem consignou o seguinte (e-STJ fls. 12/13):
+A jurisprudência pacífica do Superior Tribunal de Justiça (STJ) e deste Tribunal de Justiça de Pernambuco orienta que o critério para a escolha da fração de redução (de 1/3 a 2/3) é o iter criminis percorrido, ou seja, quanto mais próximo o agente chegar da consumação do delito, menor será a redução.
+No caso em tela, as provas colhidas sob o crivo do contraditório, especialmente os depoimentos das vítimas Júlio Cesar Alcântara da Silva (cobrador) e Vinicius Cardoso da Silva (motorista), corroborados pela confissão do réu, demonstram que o apelante percorreu quase todo o caminho executório.
+O apelante Eydson não apenas ingressou no veículo e anunciou o assalto, mas já estava em contato direto com o cobrador, exibindo ostensivamente uma faca (arma branca) e exigindo a entrega do numerário.
+A consumação (inversão da posse dos bens) apenas não se concretizou porque o motorista, em um ato de reflexo e coragem, freou o ônibus bruscamente, provocando a queda do assaltante e permitindo sua imobilização. Nota-se que o crime esteve a um passo de se consumar, tendo o agente praticado atos executórios avançados. (grifo nosso)
+Quanto à fração da tentativa, rememoro que o Código Penal, em seu art. 14, inciso II, adotou a teoria objetiva ou realística, pela qual se pune de forma menos rigorosa o crime tentado. Desse modo, o delito tentado recebe a mesma pena do crime consumado, reduzida, no entanto, de 1/3 a 2/3.
+No caso em análise, da leitura da situação fática descrita no acórdão impugnado, entendo estar suficientemente motivada a opção pela fração de 1/3 para a redução referente à tentativa, tendo em vista o grau de proximidade da consumação do delito - o paciente estava em contato direto com o cobrador exibindo uma faca e exigindo a entrega do numerário. A consumação apenas não se concretizou porque o motorista freou o ônibus bruscamente, provocando a queda do assaltante e permitindo sua imobilização.
+Ilustrativamente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO, ROUBO CIRCUNSTANCIADO E HOMICÍDIO QUALIFICADO TENTADO. PRETENSÃO DE REVISÃO DE CONDENAÇÃO MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. NULIDADE DO JULGAMENTO POR INEFICÁCIA DA DEFESA TÉCNICA. CONCURSO FORMAL IMPRÓPRIO. FRAÇÃO DE REDUÇÃO PELA TENTATIVA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. Mantém-se a decisão monocrática que indeferiu liminarmente a impetração quando o writ é manejado de forma inadequada para rediscutir condenação já examinada pelas instâncias ordinárias, providência incompatível com a via eleita. Precedente.
+2. Não há ilegalidade no afastamento da alegada nulidade do julgamento por ineficácia da defesa técnica, pois o Tribunal de origem consignou que o réu esteve assistido por defensor durante todo o processo, que eventual deficiência defensiva exige demonstração de prejuízo e que a mera discordância quanto à estratégia adotada em plenário não caracteriza ausência de defesa substancial.
+3. É inviável, na via estreita do habeas corpus, rever a conclusão das instâncias ordinárias acerca da incidência do concurso formal impróprio, fundada na existência de desígnios autônomos em relação às vítimas.
+4. Não se evidencia ilegalidade na fração de redução pela tentativa, uma vez que o acórdão recorrido individualizou o iter criminis em relação às vítimas e apresentou fundamentação idônea para a escolha das frações aplicadas.
+5. Agravo regimental improvido.
+(AgRg no HC n. 1.085.646/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 27/5/2026, DJEN de 1/6/2026, grifo nosso.)
+Ademais, no caso, eventual modificação do entendimento adotado pelo Tribunal a quo demandaria, inevitavelmente, o reexame do acervo probatório dos autos, providência incabível na via eleita.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXTORSÃO TENTADA. FRAÇÃO DA TENTATIVA. REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Como delineado na decisão agravada, a moldura fática extraída da sentença e do acórdão evidencia que a prática delitiva se aproximou da consumação.
+2. A alteração desse posicionamento enseja ampla dilação probatória, medida incompatível com a via estreita do habeas corpus.
+3. Agravo regimental não provido.
+(AgRg no HC n. 1.077.556/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/5/2026, DJEN de 26/5/2026, grifo nosso.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. HOMICÍDIOS QUALIFICADOS. UTILIZAÇÃO INDEVIDA DO WRIT PARA REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. DOSIMETRIA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática que indeferiu liminarmente a impetração, quando utilizada indevidamente para revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível.
+2. Hipótese em que não há ilegalidade na exasperação da pena-base, lastreada em elementos concretos dos autos e em circunstâncias que extrapolam as elementares do tipo penal: conduta social desfavorável por informe de facção criminosa; personalidade voltada a condutas antissociais; e motivos desfavoráveis em razão de rixa entre facções.
+3. Fração redutora da tentativa fixada em metade, com fundamento no iter criminis avançado. A alteração do quantum demandaria reexame probatório, inviável na via eleita.
+4. Agravo regimental improvido.
+(AgRg no HC n. 1.042.360/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/3/2026, DJEN de 17/3/2026, grifo nosso.)
+À vista do exposto, indefiro liminarmente o habeas corpus .
+Publique-se. Intimem-se.
+EMENTA
