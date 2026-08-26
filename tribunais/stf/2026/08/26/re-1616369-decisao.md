@@ -1,0 +1,40 @@
+Trata-se de recurso extraordinário interposto contra acórdão da 1ª Turma Recursal do 1º Colégio Recursal da Capital do Tribunal de Justiça do Estado de Pernambuco, cuja ementa segue transcrita:
+
+CONTRIBUIÇÃO PREVIDENCIÁRIA. SERVIDOR MILITAR. TESE 1177 DO STF. REFORMADO POR INVALIDEZ. ISENÇÃO PREVIDENCIÁRIA. RECURSO IMPROVIDO (doc. 17, p. 1).
+
+Os recorrentes, fundados no art. 102, III, a e b, da Constituição Federal, alegam, em suma, ofensa aos arts. 5°, XXXVI, LIV e LV; 22, XXI; e 93, IX, da mesma Carta, sob o argumento de que são válidos os “recolhimentos da contribuição de militares inativos e de seus pensionistas, incluindo aqueles portadores de doença incapacitante, efetuados com fundamento na Lei Federal n.º 13.954/2019” (doc. 23, p. 12).
+
+Em razão do julgamento dos Temas 160 e 1.177 da Repercussão Geral, os autos foram devolvidos ao órgão prolator do acórdão impugnado para o juízo de adequação, nos termos do art. 1.030, II, do Código de Processo Civil. Após a recusa de retratação, o recurso extraordinário foi admitido e remetido ao Supremo Tribunal Federal.
+
+É o relatório necessário. Decido.
+
+A pretensão recursal não merece acolhida.
+
+O Supremo Tribunal Federal firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada aos limites da coisa julgada e à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por não configurar situação de afronta direta à Constituição Federal. Esse entendimento foi consolidado no julgamento do ARE 748.371 RG/MT (Tema 660), da relatoria do Ministro Gilmar Mendes, em que se rejeitou a repercussão geral da matéria sob os seguintes fundamentos:
+
+Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral (DJe 1°/8/2013).
+
+Outrossim, esta Suprema Corte, no julgamento do AI 791.292 QO-RG/PE (Tema 339 da Repercussão Geral), da relatoria do Ministro Gilmar Mendes, reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal não impõe que a decisão seja exaustivamente fundamentada. O que se busca é que o julgador indique de forma clara as razões de seu convencimento, tal como ocorreu. Por oportuno, transcrevo a ementa do referido precedente:
+
+      Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral (DJe 13/8/2010, grifei).
+
+Além disso, verifico que o Juízo de origem dirimiu a controvérsia em análise com base no seguinte fundamento:
+
+No presente caso, é de se destacar que o autor foi aposentado em virtude de doença que o tornou inválido (Militar inativo portador de doença incapacitante - doc 47747235) para exercer qualquer atividade (doc 47747231), se enquadrando nos artigos 71, § 3º, e 34, § 5º, da LCE nº 28/2000, que asseguram isenção parcial da contribuição previdenciária incidente sobre os proventos de aposentadoria e pensão, não se enquadrando na tese 1177 do STF (doc. 17, p. 1).
+
+Nesse contexto, para divergir desse entendimento e verificar a procedência dos argumentos consignados no recurso extraordinário, seria necessário o reexame do conjunto fático-probatório dos autos e da legislação infraconstitucional local aplicável ao caso (Lei Complementar estadual n. 28/2000), o que é vedado pelas Súmulas 279 e 280/STF. Com essa orientação, destaco os seguintes julgados:
+
+Ementa: DIREITO CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. MILITAR ESTADUAL APOSENTADO POR INVALIDEZ PERMANENTE. TEMA 1.177 DA REPERCUSSÃO GERAL. INAPLICABILIDADE. OFENSA REFLEXA À CONSTITUIÇÃO. REEXAME DE PROVAS. SÚMULAS 279 E 280 DO STF. AGRAVO REGIMENTAL DESPROVIDO. I. CASO EM EXAME 1. Trata-se de agravo regimental interposto pelo Estado de Pernambuco e pela FUNAPE contra decisão que negou seguimento a recurso extraordinário manejado em face de acórdão da 1ª Turma Recursal do I Colégio Recursal da Capital, que reconheceu ao recorrido, militar aposentado por invalidez permanente, o direito à isenção parcial da contribuição previdenciária incidente sobre seus proventos. II. QUESTÃO EM DISCUSSÃO 2. Há duas questões em discussão: (i) saber se é aplicável ao caso concreto a modulação dos efeitos definida pelo Supremo Tribunal Federal no julgamento do tema 1.177 da repercussão geral; e ii) se o reconhecimento, pelo Tribunal de origem, do direito à isenção parcial da contribuição previdenciária, previsto na legislação estadual, poderia ser revisto em sede de recurso extraordinário. III. RAZÕES DE DECIDIR 3. O Tribunal de origem reconheceu que o agravado, militar aposentado por incapacidade permanente, faz jus à isenção parcial da contribuição previdenciária incidente sobre seus proventos. Esse enquadramento jurídico decorreu da interpretação de normas locais específicas, aliada ao reconhecimento de sua condição pessoal de invalidez, circunstâncias que afastam a pretensão do agravante de estender ao caso concreto os efeitos da modulação fixada por esta Suprema Corte no tema 1.177 da repercussão geral. IV. DISPOSITIVO E TESE 4. Agravo regimental desprovido. _________ Dispositivos relevantes citados: Lei Complementar Estadual 28/2000. Jurisprudência relevante citada: Tema 1.177 da repercussão geral, Súmula 279 do STF, RE 1.543.441 ED-AgR (RE 1.557.513 AgR/PE, Rel. Min. Gilmar Mendes, DJe 23/10/2025 – grifei).
+
+Ementa: Agravo regimental em recurso extraordinário. Tributário. Contribuição previdenciária. Isenção parcial. Militar reformado por invalidez. Previsão em legislação infraconstitucional local. Súmula nº 280 do STF. Precedentes. 1. A Corte de Origem consignou haver disposição legal local que assegura a isenção parcial da contribuição previdenciária incidente sobre os proventos de aposentadoria e pensão aos militares reformados por invalidez, sendo inaplicáveis, portanto, as disposições do Tema nº 1.177 da Repercussão Geral. 2. Para se superar o entendimento da Instância a Quo e se acolher a pretensão recursal, seria necessário o reexame da causa à luz da legislação estadual, o qual não se admite em sede de recurso extraordinário. Incide no caso o óbice da Súmula nº 280/STF. 3. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 4. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita (RE 1.577.066 AgR/PE, Rel. Min. Dias Toffoli, DJe 8/1/2026 – grifei).
+
+No mesmo sentido, menciono as seguintes decisões: RE 1.577.067/PE, Rel. Min. Dias Toffoli, DJe 13/11/2025; RE 1.580.083/PE, da minha relatoria, DJe 1º/12/2025; RE 1.577.034/PE, Rel. Min. Nunes Marques, DJe 7/5/2026; e RE 1.585.442/PE, Rel. Min. André Mendonça, DJe 19/1/2026.
+
+Posto isso, nego provimento ao recurso (art. 932 do CPC).
+
+Publique-se.
+
+Brasília, 26 de agosto de 2026.
+
+Ministro Cristiano Zanin
+Relator
