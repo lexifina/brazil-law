@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de Conflito negativo de competência suscitado pelo Juízo Federal da 1ª Vara Cível e Criminal da Seção Judiciária do Acre, em desfavor do Juízo Federal da 17ª Vara Federal do Rio de Janeiro - Seção Judiciária do Rio de Janeiro, nos autos de Mandado de Segurança impetrado pelo Conselho Federal de Estatística (CONFE), autarquia federal sediada no Rio de Janeiro/RJ, contra suposto ato coator atribuído à Filomena Maria Oliveira da Cruz, Pró-Reitora de Desenvolvimento e Gestão de Pessoas da Universidade Federal do Acre (UFAC), e a Margarida de Aquino Cunha, Reitora da UFAC, ambas sediadas em Rio Branco/AC (fls. 13-15).
+Segundo consta, o Juízo Federal da 17ª Vara Federal do Rio de Janeiro declinou da competência, de ofício, para a Seção Judiciária do Acre, por entender que, em mandado de segurança, é competente o foro da sede funcional da autoridade apontada como coatora (fls. 98-99). Em seguida, o Juízo Federal da 1ª Vara Cível e Criminal da SJ/AC suscitou conflito negativo de competência, por reputar superado esse entendimento e afirmar a legitimidade da eleição do foro do domicílio do impetrante, com base no art. 109, § 2º, da Constituição Federal e na jurisprudência do Supremo Tribunal Federal (STF) e do Superior Tribunal de Justiça (STJ) (fls. 13-15).
+É o relatório. Passo a decidir.
+O conflito deve ser conhecido, nos termos do art. 105, n. I, d, da Constituição da República, por se tratar de magistrados vinculados a tribunais diversos.
+A controvérsia cinge-se a definir o foro competente para processar e julgar mandado de segurança impetrado por autarquia federal (CONFE), domiciliada no Rio de Janeiro/RJ, contra ato atribuído a autoridades da UFAC, sediadas em Rio Branco/AC.
+O Juízo suscitado (17ª Vara Federal do Rio de Janeiro) declinou de ofício, fixando a competência na Seção Judiciária do Acre; o Juízo suscitante (1ª Vara Federal da SJ/AC) sustenta que, à luz do art. 109, § 2º, da Constituição, é válida a opção do impetrante pelo foro do seu domicílio.
+A orientação dos Tribunais Superiores é firme no sentido de privilegiar o acesso à justiça, assegurando ao impetrante a faculdade de escolher o foro, inclusive o de seu domicílio, para ações (inclusive mandados de segurança) contra entidades federais. O STF, em caso específico sobre eleição de foro em mandado de segurança, assentou:
+ ..
+I - O Supremo Tribunal Federal, ao julgar o Tema 374 da Repercussão Geral (RE 627.709/DF, de minha relatoria), privilegiou o acesso à justiça na interpretação do art. 109, § 2º, da Constituição, ao aplicar a faculdade nele prevista também às autarquias federais."
+II - A faculdade prevista no art. 109, § 2º, da Constituição deve ser aplicada inclusive em casos de impetração de mandado de segurança, possibilitando-se o ajuizamento na Seção Judiciária do domicílio do autor, a fim de tornar amplo o acesso à justiça.
+III - Agravo regimental a que se nega provimento. (STF, 2ª Turma, RE 736971 AgR, Relator(a): RICARDO LEWANDOWSKI, julgado em 04-05-2020, DJe-118, pub 13/05/2020)
+No mesmo rumo, o STJ, em conflito negativo de competência envolvendo mandado de segurança e eleição de foro pelo impetrante, decidiu:
+CONFLITO NEGATIVO DE COMPETÊNCIA. MANDADO DE SEGURANÇA. ART. 109, § 2º, DA CONSTITUIÇÃO FEDERAL. POSSIBILIDADE DE AJUIZAMENTO NO DOMICÍLIO DO IMPETRANTE. PRECEDENTES DESTA CORTE. CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUIZ FEDERAL DA 7ª VARA DE RIBEIRÃO PRETO - SJ/SP, ORA SUSCITADO.
+ ..
+2. Esta Corte, em atenção ao disposto no art. 109, § 2º, da Constituição Federal, tem reconhecido como legítima a escolha da parte impetrante de que o writ seja processado no foro de seu domicílio, a fim de facilitar o acesso à Justiça.
+ ..
+4. Conflito de competência conhecido para declarar a competência do Juiz Federal da 7ª Vara De Ribeirão Preto - SJ/SP, ora suscitado.
+(CC n. 210.536/DF, rel. Ministro Afrânio Vilela, Primeira Seção, DJEN de 8/4/2025.)
+No caso concreto, o impetrante é autarquia federal sediada no Rio de Janeiro, tendo eleito, validamente, o foro de seu domicílio para impetrar o mandado de segurança. À luz da interpretação conferida pelo STF ao art. 109, § 2º, da Constituição, e da jurisprudência consolidada do STJ, não cabe ao Juízo, de ofício, restringir essa faculdade, substituindo a opção exercida pelo impetrante quando do ajuizamento da ação. Prevalece, pois, a competência do Juízo suscitado.
+Ante o exposto, conheço do conflito para declarar competente o Juízo Federal da 17ª Vara Federal do Rio de Janeiro - SJ/RJ, o suscitado.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. MANDADO DE SEGURANÇA. CONSELHO FEDERAL DE ESTATÍSTICA (CONFE). ATO ATRIBUÍDO À REITORA E À PRÓ-REITORA DA UNIVERSIDADE FEDERAL DO ACRE (UFAC). ELEIÇÃO DE FORO PELO IMPETRANTE. ART. 109, § 2º, DA CONSTITUIÇÃO FEDERAL. COMPETÊNCIA DO FORO DO DOMICÍLIO DO IMPETRANTE. JUÍZO COMPETENTE: 17ª VARA FEDERAL DA SEÇÃO JUDICIÁRIA DO RIO DE JANEIRO (SUSCITADO)
