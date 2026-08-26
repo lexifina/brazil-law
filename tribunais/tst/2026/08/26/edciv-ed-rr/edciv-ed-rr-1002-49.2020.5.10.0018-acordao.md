@@ -1,0 +1,467 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Superior do Trabalho
+PROCESSO Nº TST-EDCiv-ED-RR - 1002-49.2020.5.10.0018
+A C Ó R D Ã O
+3ª Turma
+GMABB/rt/
+EMBARGOS DE DECLARAÇÃO. RECURSO DE REVISTA.
+CASSAÇÃO DO ACÓRDÃO ANTERIOR DESTA 3ª TURMA DO TST.
+RECLAMAÇÃO CONSTITUCIONAL 72.497/DF. OBSERVÂNCIA DA
+SÚMULA VINCULANTE 37. EMPRESA BRASILEIRA DE PESQUISA
+AGROPECUÁRIA - EMBRAPA. EMPRESA PÚBLICA PRESTADORA
+DE SERVIÇO NÃO CONCORRENCIAL. SUJEIÇÃO DE SEUS
+EMPREGADOS AO TETO REMUNERATÓRIO DO
+FUNCIONALISMO PÚBLICO. OBSERVÂNCIA DA ADI 1.590, DOS
+REs 609.381, 606.358, 612.975 E 602.043 E TEMAS 480, 257, 377 E
+384 DE REPERCUSSÃO GERAL. OMISSÃO NÃO CARACTERIZADA.
+A pretensão de reforma do acórdão embargado, sem a
+demonstração de omissão, contradição, obscuridade ou
+manifesto equívoco no exame dos pressupostos extrínsecos do
+recurso, conforme aludido nos arts. 897-A da CLT e 1.022, I e II,
+do Código de Processo Civil, afigura-se incompatível com a
+natureza dos embargos de declaração. Os pontos reputados
+omissos pela parte embargante foram objeto de
+pronunciamento explícito e fundamentado por este Colegiado.
+Embargos de declaração de que se conhece e a que se nega
+provimento.
+Vistos, relatados e discutidos estes autos de Embargos de Declaração Cível em
+Embargos de Declaração em Recurso de Revista nº TST-EDCiv-ED-RR - 1002-49.2020.5.10.0018, em que
+é Embargante EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA e é Embargado SINDICATO
+NACIONAL DOS TRABALHADORES DE PESQUISA E DESENVOLVIMENTO AGROPECUÁRIO.
+Trata-se de embargos de declaração opostos pela reclamada, em face de acórdão
+desta Terceira Turma às fls. 2.011/2.016.
+É o relatório.
+V O T O
+1. CONHECIMENTO
+Tempestivos e com representação processual regular, CONHEÇO dos embargos
+de declaração.
+2. MÉRITO
+Este relator deferiu pedido de tutela de urgência, assim consignando:
+“Ante o exposto, defiro o pedido de tutela de urgência, para determinar que, até o
+julgamento definitivo do recurso principal, a reclamada abstenha-se de somar os proventos de
+aposentadoria com a remuneração paga pela empresa pública para o cálculo do teto remuneratório
+constitucional, em conformidade com o entendimento vinculante firmado pelo Supremo Tribunal
+Federal, nos autos do RE nº 602.043, com repercussão geral reconhecida (Temas 377 e 384), sob pena
+de incidir multa diária no valor de R$ 5.000,00 (cinco mil reais), por substituído, em caso de
+descumprimento da presente decisão”. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067E07711E7A8AB2.
+E, no julgamento do recurso de revista interposto pelo Sindicato, decidiu:
+“Ante o exposto, no mérito, conhecido o recurso de revista, por divergência jurisprudencial, e,
+no mérito, DOU-LHE PROVIMENTO, confirmando a tutela de urgência concedida às fls. 1.633/1.639,
+julgar procedente o pedido para: (i) declarar a ilegalidade da exigência de apresentação dos valores
+das aposentadorias recebidas pelo INSS; (ii) determinar que a reclamada abstenha-se de somar os
+proventos de aposentadoria com a remuneração do cargo público, para efeito de incidência do teto
+remuneratório constitucional, em conformidade com a tese fixada pelo Supremo Tribunal Federal no
+exame do Tema nº 377 da Tabela de Repercussão geral, mediante a devolução dos valores
+eventualmente descontados a esse título, conforme se apurar em liquidação. Custas em reversão, mantido o valor arbitrado à condenação. Honorários advocatícios na forma da Súmula nº 219, III, do
+TST, fixados em 15% (quinze por cento) incidentes sobre o valor da condenação”.
+Ocorre que o Supremo Tribunal Federal, em decisão proferida na Reclamação
+Constitucional 72.497/DF, de relatoria da Ministra Cármen Lúcia, cassou o acórdão desta 3ª Turma do
+Tribunal Superior do Trabalho que havia julgado “procedente o pedido para: (i) declarar a ilegalidade da
+exigência de apresentação dos valores das aposentadorias recebidas pelo INSS; (ii) determinar que a
+reclamada abstenha-se de somar os proventos de aposentadoria com a remuneração do cargo público, para
+efeito de incidência do teto remuneratório constitucional, em conformidade com a tese fixada pelo Supremo
+Tribunal Federal no exame do Tema nº 377 da Tabela de Repercussão geral, mediante a devolução dos
+valores eventualmente descontados a esse título, conforme se apurar em liquidação”.
+Na fração de interesse, eis o teor do acórdão embargado:
+V O T O
+I - EMBARGOS DE DECLARAÇÃO INTERPOSTO PELA PARTE RECLAMADA
+O Supremo Tribunal Federal julgou procedente a Reclamação Constitucional 72.497/DF
+proposta pela Empresa Brasileira de Pesquisa Agropecuária - EMBRAPA, para cassar a decisão
+anteriormente prolatada por esta 3ª Turma, nos presente autos.
+Desse modo, prejudicada a análise dos embargos de declaração opostos contra acórdão
+cassado.
+II - RECURSO DE REVISTA INTERPOSTO PELO SINDICATO RECLAMANTE
+CONHECIMENTO
+Trata-se de recurso interposto contra acórdão publicado na vigência da Lei 13.467/2017, que
+exige demonstração prévia de transcendência da causa, conforme estabelecido nos artigos 896-A da
+CLT e 246 e 247 do Regimento Interno desta Corte Superior.
+Satisfeitos os pressupostos comuns de admissibilidade do recurso de revista, prossigo no
+exame dos pressupostos específicos, conforme o art. 896 da CLT.
+EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA - EMBRAPA. EMPRESA PÚBLICA
+PRESTADORA DE SERVIÇO NÃO CONCORRENCIAL. SUJEIÇÃO DE SEUS EMPREGADOS AO TETO
+REMUNERATÓRIO DO FUNCIONALISMO PÚBLICO. OBSERVÂNCIA DA ADI 1.590, DOS REs 609.381,
+606.358, 612.975 E 602.043, TEMAS 480, 257, 377 E 384 DE REPERCUSSÃO GERAL
+O Supremo Tribunal Federal, em decisão proferida na Reclamação Constitucional 72.497/DF,
+de relatoria da Ministra Cármen Lúcia, cassou o acórdão desta 3ª Turma do Tribunal Superior do
+Trabalho que havia julgado " procedente o pedido para: (i) declarar a ilegalidade da exigência de
+apresentação dos valores das aposentadorias recebidas pelo INSS; (ii) determinar que a reclamada
+abstenha-se de somar os proventos de aposentadoria com a remuneração do cargo público, para efeito
+de incidência do teto remuneratório constitucional, em conformidade com a tese fixada pelo Supremo
+Tribunal Federal no exame do Tema nº 377 da Tabela de Repercussão geral, mediante a devolução dos
+valores eventualmente descontados a esse título, conforme se apurar em liquidação".
+Ao exame.
+Na hipótese, o Tribunal Regional negou provimento ao recurso ordinário interposto pelo
+Sindicato, mediante os fundamentos a seguir (art. 896, § 1º-A, I, da CLT):
+"Em recurso, o sindicato reclamante renova a tese da inicial e requer que a recorrida que se
+abstenha de promover a junção da remuneração com a aposentadoria para fins de cálculo do teto
+constitucional.
+Pois bem. O Tribunal Superior do Trabalho pacificou seu entendimento nos termos da Orientação
+Jurisprudencial (TST/SDI-1) nº 339 no sentido de que as empresas públicas e as sociedades de economia
+mista estão submetidas à observância do teto remuneratório previsto no inciso XI do artigo 37 da
+Constituição, sendo aplicável, inclusive, ao período anterior à alteração introduzida pela Emenda
+Constitucional nº 19/1998.
+Tal entendimento também encontra ressonância na jurisprudência do Supremo Tribunal Federal (AI
+840.503-AgR, Relator Ministro Gilmar Mendes, Segunda Turma, DJe 24.5.2011; RE 572.143-AgR, Relator
+Ministro Ricardo Lewandowski, Primeira Turma, DJe 25.2.2011; RE 590.252-AgR, Relator Ministro Eros
+Grau, Segunda Turma, DJe 17.4.2009; AI 581.311-AgR, Relator Ministro Cezar Peluso, Segunda Turma, DJe
+2111.2008).
+Porém, o artigo 37, § 9º, da Constituição submeteu os empregados das empresas públicas e
+sociedades de economia mista ao teto remuneratório da Administração Pública, limitando
+expressamente esta aplicação aos casos em que tais empresas recebam recursos da Fazenda Pública
+para custeio em geral ou gasto com pessoal.
+Dentro dessa perspectiva, esclareço que a obrigação da empresa pública é de obediência aos
+ditames legais (princípio da legalidade), estando apenas em cumprimento a determinação emanada da
+administração, sendo que o tema é a aplicação do teto remuneratório aos proventos dos empregados e
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067E07711E7A8AB2.
+não acumulação de aposentadoria com remuneração de emprego público.
+Os empregados recebiam cumulativamente o salário do emprego público e da aposentadoria,
+sendo aplicado o abate teto somente em relação ao cargo efetivo.
+Ocorre que a Embrapa por meio de Memorando Circular 1/2020 informou aos seus empregados
+que passaria a considerar o valor da junção das remunerações para o cálculo do abate teto. (fls.
+45/46)
+Vale ressaltar que não há nenhum ilícito em tal procedimento, visto que foi uma recomendação da
+Controladoria Geral da União (CGU), assim a reclamada apenas passou a (...) aplicar as disposições
+constitucionais aos seus empregados, o que não ocorria anteriormente, embora já existisse a referida
+regra nos termos da Emenda Constitucional nº 41/2003.
+Cumpre esclarecer que embora os fatos geradores da aposentadoria e do salário do emprego
+público sejam distintos, a previsão constitucional para a aplicação do teto remuneratório rege
+exatamente sobre essa hipótese. Além do mais, o art.37, XI da Constituição Federal veda
+expressamente a acumulação remunerada de cargos .
+O princípio da irredutibilidade salarial também não se aplica ao caso, visto que não se trata de
+exclusão de pagamento de verba por parte do empregador, mas de irregularidade de recebimento de
+valores que contrariam a Constituição Federal, o que é vedado. Assim, não há que se falar em violação ao
+artigo 7º, VI da Constituição Federal.
+Esclareço que o tema 377 do STF trata da acumulação legal de cargos, assim, não se aplica ao
+caso em questão, visto que a situação da reclamante é de quem se aposentou e continuou
+trabalhando. Tampouco há que se aplicar o Tema nº 384 do STF, que versa sobre a incidência do teto
+remuneratório a servidores já ocupantes de dois cargos públicos antes da vigência da Emenda
+Constitucional 41/2003. Dentro dessa perspectiva, nenhum dos dois temas elencado no recurso se aplica
+ao caso, ainda que de forma subsidiária.
+Por fim, não há que se falar em direito adquirido tampouco em aplicação do art. 468 da CLT,
+uma vez que o abate teto produz efeito imediato e o STF já decidiu no sentido de que no ordenamento
+jurídico pátrio não há lugar para a alegação de direito adquirido à imutabilidade vencimentos ou
+proventos de servidor público.
+Nesse sentido, o TST já firmou entendimento acerca do teto remuneratório do empregado público:
+(...)
+Por fim, observo que a discussão acerca da aplicabilidade do teto remuneratório previsto na EC
+n.º 41/2003 já não suscita qualquer dúvida no âmbito da Corte Superior Trabalhista, solucionando-se
+o caso pela aplicação da OJ n.º 339 da SBDI-1 do TST, "verbis":
+OJ-SDI1-339 TETO REMUNERATÓRIO. EMPRESA PÚBLICA E SOCIEDADE DE ECONOMIA MISTA. ART.
+37, XI, DA CF/1988 (ANTERIOR À EMENDA CONSTITUCIONAL Nº 19/1998) (nova redação) - As empresas
+públicas e as sociedades de economia mista estão submetidas à observância do teto remuneratório
+previsto no inciso XI do art. 37 da CF/1988, sendo aplicável, inclusive, ao período anterior à alteração
+introduzida pela Emenda Constitucional nº 19 /1998.
+Assim, é devida a incidência do teto remuneratório sobre a junção dos valores recebidos a
+título de proventos de aposentadoria e de remuneração do cargo, de forma que seu montante deve
+somar valor inferior ao teto constitucional. Mantenho a sentença. Nego provimento.
+Pelas razões de recurso de revista, o Sindicato reclamante sustenta a inconstitucionalidade da
+nova sistemática adotada pela EMBRAPA, por meio de normativo interno (Memorando-Circular nº
+1/2020-SGE/RPES), consistente no somatório do valor da aposentadoria (paga pelo INSS) com a
+remuneração (paga pela EMBRAPA) para verificação da submissão ao teto constitucional e aplicação
+do abate teto.
+Esta 3ª Turma, no julgamento do recurso de revista interposto pelo Sindicato reclamante,
+entendeu que o acórdão do Tribunal Regional, ao aplicar o disposto no art. 17 do ADCT e conferir
+validade ao Memorando Circular da EMBRAPA nº 1/2020-SGE/RPES - que determina a soma dos
+proventos de aposentadoria oriundos do RGPS com os vencimentos do cargo público para fins de
+cálculo do abate-teto - estava em desconformidade com a jurisprudência vinculante firmada pela
+Suprema Corte.
+Eis a ementa do julgado:
+"RECURSO DE REVISTA INTERPOSTO NA VIGÊNCIA DA LEI Nº 13.467/2017. EMBRAPA. EMPRESA
+PÚBLICA. MEMORANDO CIRCULAR Nº 1/2020-SGE/RPES. PROVENTOS DE APOSENTARIA. REMUNERAÇÃO DO
+CARGO PÚBLICO. ACUMULAÇÃO. TETO REMUNERATÓRIO. TEMAS DE REPERCUSSÃO GERAL Nº 377 E 384 DO
+STF. TRANSCENDÊNCIA POLÍTICA.
+1. O Supremo Tribunal Federal, no julgamento dos Recursos Extraordinários nº 612.975 e 602.043,
+firmou entendimento, reconhecia a repercussão geral da matéria, no sentido de que " Nos casos
+autorizados constitucionalmente de acumulação de cargos, empregos, e funções, a incidência do art. 37,
+XI, da Constituição Federal pressupõe a consideração de cada um dos vínculos formalizados, afastada a
+observância do teto remuneratório quanto ao somatório dos ganhos do agente público " (Temas nº 377 e
+384).
+2. O acórdão regional que, aplicando o disposto no art. 17 do ADCT, atribuindo validade ao
+Memorando Circular da EMBRAPA nº 1/2020-SGE/RPES, que determina a somatória dos proventos de
+aposentadoria oriundos do RGPS e os vencimentos do cargo público, para o cálculo do abate-teto, está em
+desconformidade com a jurisprudência vinculante firmada pela Suprema Corte. Transcendência política
+reconhecida. Recurso de revista conhecido e provido.
+Ocorre que o referido acórdão foi objeto da Reclamação Constitucional nº 72.497/DF, na qual a
+Suprema Corte julgou procedente o pedido para "cassar a decisão proferida pelo Tribunal Superior do
+Trabalho e determinar que outra seja proferida, com apreciação do mérito recursal, em observância ao
+decidido por este Supremo Tribunal na Ação Direta de Inconstitucionalidade nº 1.590". Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067E07711E7A8AB2.
+Assim está fundamentada a decisão proferida pela Suprema Corte na referida Reclamação
+Constitucional:
+"8. Quanto ao alegado desrespeito à autoridade da decisão proferida por este Supremo Tribunal no
+julgamento da Ação Direta de Inconstitucionalidade n. 1.590 e descumprimento à Súmula Vinculante n. 37,
+melhor sorte assiste à reclamante.
+Em caso rigorosamente análogo ao presente, ao apreciar a Reclamação n. 69.053, ajuizada pela
+Embrapa contra decisão do Tribunal Superior do Trabalho, que, sob os mesmos fundamentos admitiu a
+percepção de valores que superam o teto salarial do funcionalismo público, o Ministro Gilmar Mendes
+decidiu:
+'No que se refere à alegada violação ao que decidido por esta Corte no julgamento da ADI 1.590-MC,
+menciono que, na oportunidade, o Supremo Tribunal Federal assentou a eficácia plena e imediata da
+regra prevista no art. 37, XI, da Constituição, nos termos da seguinte ementa:
+'I. Ação direta de inconstitucionalidade: objeto Tem-se objeto idôneo à ação direta de
+inconstitucionalidade quando o decreto impugnado não é de caráter regulamentar de lei, mas constitui
+ato normativo que pretende derivar o seu conteúdo diretamente da Constituição. (...). IV. Servidor público:
+teto de remuneração (CF, art. 37, XI): auto-aplicabilidade. Dada a eficácia plena e a aplicabilidade
+imediata, inclusive aos entes empresariais da administração indireta, do art. 37, XI, da Constituição, e do
+art. 17 do ADCT, a sua implementação - não dependendo de complementação normativa - não parece
+constituir matéria de reserva à lei formal e, no âmbito do Executivo, à primeira vista, podia ser
+determinada por decreto, que encontra no poder hierárquico do Governador a sua fonte de legitimação.'
+Quanto ao ponto, sublinho que o Supremo Tribunal Federal tem jurisprudência assente, no sentido
+de que a Constituição Federal, em seu art. 37, determina que se aplique o teto remuneratório 'às empresas
+públicas e às sociedades de economia mista, e suas subsidiárias, que receberem recursos da União, dos
+Estados, do Distrito Federal ou dos Municípios para pagamento de despesas de pessoal ou de custeio em
+geral'. Excepcionam-se da regra, portanto, os casos em que as empresas públicas e sociedades de
+economia mista e subsidiárias não recebam recursos da Fazenda Pública para despesas de pessoal e para
+custeio em geral.
+Nesse sentido, Hely Lopes Meirelles pontua que, se essas companhias 'tiverem vida financeira
+própria no que diz respeito às despesas de custeio em geral e de pessoal, excluídos, pois, os investimentos,
+não estarão submetidas ao comando do art. 37, XI. A exceção é altamente salutar e moralizadora,
+servindo de estimulo à eficiência'. (MEIRELLES, Hely Lopes. Direito administrativo brasileiro. São Paulo:
+Malheiros, 2016).
+Também Maria Sylvia Di Pietro reconhece que 'quanto às empresas públicas, sociedades de
+economia mista e subsidiárias, somente são alcançados pelo teto se receberem recursos da União, dos
+Estados, do Distrito Federal ou dos Municípios para pagamento de despesas de pessoal ou de custeio em
+geral, conforme decorre do § 9º do artigo 37'. (DI PIETRO. Maria Sylvia Zanella. Direito administrativo. Rio
+de Janeiro: Forense, 2009).
+Nesse sentido, já se manifestou este Tribunal sobre a limitação à aplicação do teto salarial para
+funcionários de empresas públicas, sociedades de economia mista e subsidiárias:
+'TETO CONSTITUCIONAL - SOCIEDADE DE ECONOMIA MISTA - EMPREGADOS. Consoante dispõe o § 9°
+do artigo 37 da Constituição Federal, o teto previsto no inciso XI do citado artigo alcança empregados de
+empresas publicas e sociedades de economia mista e subsidiarias que recebam recursos da União, dos
+Estados, do Distrito Federal ou dos Municípios para pagamento de despesas de pessoal e de custeio em
+geral.' (AI 563.842-AgR/RJ, Rel. Min. Marco Aure¿lio, Primeira Turma, DJe 1º.8.2013);
+'AGRAVO REGIMENTAL EM RECURSO EXTRAORDINARIO. ADMINISTRATIVO. CONSTITUCIONAL. TETO
+REMUNERATORIO. ART. 37, XI, DA CONSTITUIC¿AO (REDAC¿AO ANTERIOR AEC 19/98) E ART. 37, § 9º, DA
+CONSTITUIC¿AO. LIMITAC¿AO. RECEBIMENTO DE RECURSOS ORC¿AMENTARIOS POR EMPRESAS PUBLICAS E
+SOCIEDADES DE ECONOMIA MISTA. INCIDENCIA DA SUMULA 279 DO STF. AGRAVO IMPROVIDO. I - E¿ firme o
+entendimento desta Corte de que o art. 37, XI, da Constituição Federal, com a redação anterior a EC 19/98,
+já fixava limite remuneratório tambe¿m para os empregados das empresas públicas e sociedades de
+economia mista. II - O art. 37, § 9o, da CF submeteu os empregados das empresas publicas e sociedades de
+economia mista ao teto remuneratório da Administrac¿ão Publica, limitando expressamente esta
+aplicac¿ão aos casos em que tais empresas recebam recursos da Fazenda Publica para custeio em geral ou
+gasto com pessoal. III - A analise do não recebimento, por parte de sociedade de economia mista, de
+verbas publicas para custeio e despesas com pessoal encontra óbice no enunciado da Sumula 279 desta
+Corte. II - Agravo regimental improvido.' (RE 572.143-AgR/RJ, Rel. Min. Ricardo Lewandowski, Primeira
+Turma, DJe 25.2.2011; grifos nossos).
+Colho, ainda, manifestação do Min. Ricardo Lewandowski no referido RE 572.143:
+'O estabelecimento de um limite pelo legislador constitucional a ser pago aos servidores e
+empregados públicos tem um claro objetivo de evitar a percepção de valores elevados, que venham a
+destoar da realidade social brasileira e malferir princípios básicos da administração pública, como o da
+moralidade e o da supremacia do interesse público. Todavia, por atuar em uma seara marcada pela
+concorrência, essas empresas estatais, para não sofrerem prejuízos quanto à competitividade, precisam
+formar quadro de profissionais qualificados, aptos a fornecerem habilitações específicas exigidas pelo
+setor privado, observando-se o disposto no art. 173, § 1º, II, da Carta Maior.'
+Assim, é assente a jurisprudência desta Corte no sentido da aplicabilidade da regra prevista no art.
+37, IX, da Constituição Federal a empresas públicas que recebem recursos da União para o pagamento de
+despesas de pessoal ou de custeio em geral, como é o caso da EMBRAPA.
+Na hipótese dos autos, o Tribunal Superior do Trabalho assentou a possibilidade de acumulação da
+remuneração do emprego público com os proventos de aposentadoria do RGPS, sem observância do teto
+constitucional, por entender que a permissão da acumulação remuneratória prevista no art. 6º da EC
+103/2019 estaria inserida nas hipóteses excetuadas pelo art. 37, XI, da Constituição à incidência da
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067E07711E7A8AB2.
+referida limitação, aplicando as teses firmadas nos temas 377 e 384 da sistemática da repercussão geral
+ao caso. Confira-se, a propósito, trecho do dispositivo do acórdão impugnado:
+'Ato contínuo, por unanimidade, conhecer do recurso de revista, por violação do art. 37, inciso XI e
+§§ 9º e 10, da Constituição Federal e, no mérito, dar-lhe provimento para, reformando o acórdão regional,
+julgar procedente o pedido para: (i) determinar que a reclamada abstenha-se de somar a remuneração do
+emprego público com os proventos de aposentadoria do RGPS para efeito de incidência do teto
+remuneratório constitucional, nos termos da tese fixada nos julgamentos dos Temas 377 e 384 da Tabela
+de Temas de Repercussão Geral do STF'.
+Não obstante os fundamentos utilizados pelo acórdão recorrido para afastar a incidência do teto
+remuneratório ao caso em questão, sublinho que as teses firmadas nos julgamentos dos precedentes
+mencionados tratam da acumulação de cargos, empregos e funções públicas, constitucionalmente
+autorizadas. Confira-se, a propósito, a tese assentada nos referidos julgados:
+'Nos casos autorizados constitucionalmente de acumulação de cargos, empregos e funções, a
+incidência do art. 37, inciso XI, da Constituição Federal pressupõe consideração de cada um dos vínculos
+formalizados, afastada a observância do teto remuneratório quanto ao somatório dos ganhos do agente
+público...'
+Nesse sentido, a jurisprudência do Supremo Tribunal Federal exige, para o afastamento do teto
+constitucional na acumulação de proventos de aposentadoria com cargo, emprego ou função pública, a
+existência de dois vínculos compatíveis, ou seja, a possibilidade de acumulação de dois cargos de forma
+simultânea.
+Conforme assentado pelo Ministro Marco Aurélio no julgamento dos temas 377 e 384 da sistemática
+da repercussão geral, o preceito concernente à acumulação preconiza que ela é remunerada, não
+admitindo a gratuidade, ainda que parcial, dos serviços prestados, observado o artigo 1º da Lei Maior.
+Por esse motivo, nas hipóteses de acumulação, os cargos devem ser isoladamente considerados,
+não se admitindo que a remuneração de cada um seja superior ao teto. Isso porque, caso se concluísse
+pela incidência conjunta do teto constitucional, estar-se-ia permitindo o exercício gratuito da atividade
+pública profissional, o que é vedado, sob pena de autorizar-se o enriquecimento ilícito da Administração.
+No caso dos autos, trata-se de aposentadoria pelo RGPS decorrente do mesmo emprego atualmente
+ocupado, aposentadoria essa que ocorreu em data anterior à EC 103/19. Assim, não se verifica a
+constituição de vínculos isolados e distintos, aptos a fazer incidir o entendimento assentado nos
+precedentes mencionados.
+Nesse sentido, cito o seguinte precedente:
+'DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. CARGO PÚBLICO DE
+PROVIMENTO EFETIVO. APOSENTADORIA VOLUNTÁRIA. ACUMULAÇÃO DE PROVENTOS COM VENCIMENTOS
+ORIUNDOS DO MESMO CARGO PÚBLICO. IMPOSSIBILIDADE. PRECEDENTES. 1. O Supremo Tribunal Federal
+possui entendimento no sentido de que é possível a acumulação de proventos advindos de aposentadoria
+no Regime Geral de Previdenciária Social com remuneração de cargo público. A discussão posta neste
+autos é diversa, uma vez que a parte ora agravante pretende a acumulação de proventos do regime geral
+com vencimentos da ativa, ambos oriundos do mesmo cargo público. 2. É vedada a percepção simultânea
+de proventos de aposentadoria com remuneração de cargo, emprego ou função pública, ressalvadas as
+hipóteses de cargos acumuláveis na forma da Constituição, cargos eletivos e cargos em comissão.
+Precedentes. 3. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba
+honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. Tal verba,
+contudo, fica com sua exigibilidade suspensa em razão do deferimento da assistência judiciária gratuita ao
+agravante, nos termos do art. 98, § 3º, do CPC/2015. 4. Agravo interno a que se nega provimento.' (RE
+1283223 AgR, Rel. Min. Roberto Barroso, Primeira Turma, Dje 7.12.2020)
+Tratando-se, portanto, do mesmo cargo, e não das hipóteses de acumulação de cargos autorizadas
+pelo art. 37, XI, § 10, da Constituição, incide, na espécie, a limitação do teto remuneratório do serviço
+público sobre a soma do valor da remuneração e da aposentadoria percebida pela beneficiária da decisão
+reclamada, nos termos da jurisprudência desta Corte" (DJe 1º.10.2024, grifos nossos).
+Na mesma linha, no julgamento da Reclamação n. 71.416, ajuizada pela Empresa Brasileira de
+Pesquisa Agropecuária - Embrapa contra acórdão do Tribunal Superior do Trabalho que, sob os mesmos
+fundamentos, admitiu a acumulação da remuneração do emprego público com os proventos de
+aposentadoria sem observância do teto remuneratório fixado na Constituição da República, o Ministro
+André Mendonça decidiu:
+"A controvérsia jurídica que ora se apresenta diz com a aplicabilidade, ou não, do teto
+remuneratório do funcionalismo público aos empregados da reclamante, à luz da decisão cautelar
+proferida na ADI nº 1.590-MC/SP, e das teses firmadas nos Temas RG nº 480 (RE nº 609.381/GO) e nº 257
+(RE nº 606.358/SP).
+12. Para tanto, a reclamante alega como tese central que a decisão impugnada deixou de observar
+a decisão cautelar proferida pelo Plenário do STF no âmbito da ADI nº 1.590-MC/SP, na qual se assentou a
+autoaplicabilidade da regra prevista no art. 37, inc. XI, da Constituição da República, por envolver norma
+de eficácia plena e imediata. (...)
+13. Alega-se, ainda, que há nítida violação, pela autoridade reclamada, à tese vinculante fixada no
+âmbito dos Temas nº 480 e nº 257 da sistemática da Repercussão Geral, REs nº 609.381/GO e nº
+606.358/SP, respectivamente (...)
+14. Registro, para melhor compreensão da controvérsia, que desde a Emenda Constitucional nº 19,
+de 1998, que acrescentou o § 9º ao art. 37 da Constituição, o critério a ser utilizado para diferenciar as
+empresas estatais e definir sobre a submissão ¿ ou não ¿ de seus empregados ao teto remuneratório
+previsto no art. 37, inc. X, do Texto Constitucional, foi categórico e expressamente estabelecido, qual seja:
+a dependência de recursos públicos da União, dos Estados, do Distrito Federal e dos Municípios, para arcar
+com despesas de pessoal ou de custeio em geral.(...)
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067E07711E7A8AB2.
+16. Compulsando os autos, cujos documentos se conformam com o que esta Corte já assentou, tem￾se que a reclamante é empresa pública federal instituída pela Lei nº 5.851, de 1972, de modo
+integralmente dependente do Tesouro Nacional, prestadora de serviços públicos em regime não
+concorrencial e sem fins lucrativos e, por conseguinte, detém as prerrogativas da Fazenda Pública para
+pagamento de seus débitos nos termos do art. 100 da CRFB. Pelas mesmas razões, seus empregados
+também estão submetidos ao limite remuneratório previsto no Texto Constitucional.
+17. Assim, verifico, consoante o alegado, que a decisão reclamada deixou de observar os
+paradigmas vinculantes específicos apontados, ao negar a aplicação do teto remuneratório do
+funcionalismo público aos seus empregados, em que pese cuidar-se de empresa pertencente à União e
+dependente de seu orçamento.
+18. Apesar dos fundamentos constantes do acórdão do TST, inclusive, referindo-se a jurisprudência
+desta Suprema Corte, a respeito da incidência dos Temas RG nº 377 e nº 384, ressalto que a aplicação das
+teses sufragadas nos mencionados precedentes exige que a acumulação de cargos, empregos e funções
+seja constitucionalmente autorizada. Confira-se:
+"Nos casos autorizados constitucionalmente de acumulação de cargos, empregos e funções, a
+incidência do art. 37, inciso XI, da Constituição Federal pressupõe consideração de cada um dos vínculos
+formalizados, afastada a observância do teto remuneratório quanto ao somatório dos ganhos do agente
+público." (A mesma tese foi fixada para o Tema RG nº 384).
+19. Consigno que a acumulação dos proventos de aposentadoria pelo RGPS com os vencimentos em
+favor dos empregados públicos que se aposentaram até a data de entrada em vigor da Emenda
+Constitucional nº 103, 2019, nos termos do que dispõe seu art. 6º, não se confunde com a acumulação
+constitucionalmente permitida de cargos, empregos ou funções, versada nos Temas RG nº 377 e nº 384. Os
+referidos temas exigem a existência de dois vínculos constitucionalmente compatíveis, portanto, para os
+quais a constituição admita o exercício simultâneo . Logo, a interpretação conferida nos pontuados temas
+não se aplica aos proventos de aposentadoria do RGPS, no caso em apreço, conquistada a partir de tempo
+de contribuição oriundo do próprio vínculo com a empresa pública. (...)
+21. Ante o exposto, julgo procedente o pedido, nos termos do art. 161, parágrafo único, do RISTF,
+para cassar a decisão reclamada, a fim de que seja observado o entendimento deste Supremo Tribunal
+Federal firmado nos paradigmas apontados notadamente no que diz respeito à submissão dos
+empregados da Embrapa ao teto remuneratório do funcionalismo público. Sem honorários, de acordo com
+o entendimento prevalente na Segunda Turma do Supremo Tribunal Federal" (DJe 26.9.2024).
+No mesmo sentido, foi julgada a Reclamação n. 71.417, relator o Ministro André Mendonça, DJe
+26.9.2024.
+A controvérsia posta em exame na presente reclamação é rigorosamente a mesma examinada nos
+precedentes acima transcritos, pelo que desfecho desta ação há de ser o mesmo.
+9. Pelo exposto, julgo procedente a presente reclamação para cassar a decisão proferida pelo
+Tribunal Superior do Trabalho e determinar outra seja proferida, apreciando-se o mérito recursal,
+com observância do decidido por este Supremo Tribunal na Ação Direta de Inconstitucionalidade n.
+1.590".
+Desse modo, a fim de resguardar a competência e garantia da decisão proferida pela Suprema
+Corte, a teor do art. 102, I, "l", da Constituição da República, deve ser mantido o acórdão do Tribunal
+Regional que entendeu ser devida a incidência do teto remuneratório sobre a junção dos valores
+recebidos a título de proventos de aposentadoria e de remuneração do cargo, de forma que seu
+montante deve somar valor inferior ao teto constitucional.
+Logo, NÃO CONHEÇO do recurso de revista.
+ISTO POSTO
+ACORDAM os Ministros da Terceira Turma do Tribunal Superior do Trabalho, por unanimidade,
+em razão do decidido pelo Supremo Tribunal Federal na Reclamação RCL 72.497/DF , que cassou o
+acórdão proferido por esta Terceira Turma do TST, não conhecer do recurso de revista interposto
+pelo Sindicato reclamante. Prejudicado o exame dos embargos de declaração opostos pela parte
+reclamada.
+Nas razões dos embargos de declaração, a parte embargante aponta omissão no
+julgado.
+Sustenta que o acórdão, embora tenha aplicado corretamente a decisão proferida
+pela Suprema Corte na Reclamação Constitucional 72.497/DF e restabelecido o acórdão do Tribunal
+Regional, não trouxe exposição de tese quanto aos efeitos práticos dessa decisão sobre a tutela de
+urgência anteriormente deferida pelo TST.
+Alega que o julgado não esclareceu se a liminar que impedia a Embrapa de aplicar
+o teto remuneratório perdeu eficácia nem disciplinou as consequências jurídicas dessa revogação,
+especialmente quanto à possibilidade de restituição dos valores que deixaram de ser descontados dos
+empregados durante a vigência da medida liminar.
+Invoca o art. 21 da LINDB para sustentar que a decisão deveria explicitar suas
+consequências jurídicas e administrativas, requerendo o saneamento da omissão, com manifestação
+expressa sobre a perda de eficácia da tutela de urgência e sobre a restituição dos valores não
+descontados, além do prequestionamento da matéria.
+Ao exame. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067E07711E7A8AB2.
+Nos termos dos artigos 897-A da CLT e 1.022 do CPC, o cabimento dos embargos
+de declaração restringe-se às hipóteses em que presente no julgado omissão, contradição, obscuridade,
+erro material ou manifesto equívoco na apreciação dos pressupostos extrínsecos do recurso, o que não
+se verifica no presente caso.
+Esta Turma, ao julgar a questão controvertida, emitiu pronunciamento claro e
+fundamentado ao dar integral cumprimento à decisão proferida pelo Supremo Tribunal Federal na
+Reclamação Constitucional 72.497/DF, deixando de conhecer do recurso de revista interposto pelo
+Sindicato reclamante e mantendo o acórdão do Tribunal Regional, em estrita observância ao comando
+emanado da Suprema Corte.
+A alegada omissão quanto aos efeitos da tutela de urgência anteriormente
+deferida também não se configura.
+Com efeito, a tutela provisória deferida por este Relator possuía natureza
+instrumental e acessória em relação ao julgamento do recurso de revista, destinando-se a assegurar a
+utilidade prática da decisão de mérito até o pronunciamento definitivo desta Corte. Sobrevindo o
+julgamento definitivo do recurso, bem como a cassação do acórdão anteriormente proferido por esta
+Turma pelo Supremo Tribunal Federal, com a subsequente prolação de novo acórdão em conformidade
+com o entendimento vinculante daquela Corte, a medida liminar exauriu seus efeitos, não subsistindo
+autonomamente.
+A cessação da eficácia da tutela provisória decorre, portanto, da própria
+superveniência do julgamento definitivo da controvérsia, não havendo necessidade de pronunciamento
+expresso acerca de sua revogação, porquanto incompatível a manutenção de provimento precário em
+sentido oposto ao decidido no mérito da causa.
+No tocante ao pedido de manifestação acerca da restituição dos valores que
+deixaram de ser descontados durante a vigência da tutela de urgência, igualmente inexiste omissão.
+O acórdão embargado limitou-se a apreciar a matéria devolvida ao conhecimento
+desta Corte, em estrita observância aos limites fixados pelo Supremo Tribunal Federal na Reclamação
+Constitucional nº 72.497/DF. A definição de eventuais consequências patrimoniais decorrentes do
+cumprimento da tutela provisória, inclusive quanto à restituição de valores, constitui matéria estranha
+ao objeto do recurso de revista e não foi submetida ao exame desta Turma.
+Também não prospera a invocação do art. 21 da LINDB. O referido dispositivo não
+impõe ao órgão julgador o dever de antecipar ou disciplinar, em abstrato, todas as consequências
+práticas decorrentes da execução da decisão judicial, sobretudo quando as questões não integraram o
+objeto devolvido ao julgamento e dependem da análise de circunstâncias concretas a serem apreciadas
+oportunamente.
+Assim, a pretensão da embargante revela mero inconformismo com o conteúdo
+da decisão proferida, buscando obter pronunciamento sobre matéria não decidida porque estranha ao
+objeto do julgamento, finalidade para a qual não se prestam os embargos de declaração.
+Nesse contexto, não se constata omissão, obscuridade ou contradição no julgado,
+mas apenas a pretensão da embargante de, sob pretexto de apontar vício no acórdão embargado, obter
+novo julgamento sobre matéria já decidida por este Colegiado.
+Ante o exposto, NEGO PROVIMENTO aos embargos de declaração.
+ISTO POSTO
+ACORDAM os Ministros da Terceira Turma do Tribunal Superior do Trabalho, por
+unanimidade, conhecer dos embargos de declaração e, no mérito, negar-lhes provimento.
+Brasília, 26 de agosto de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+ALBERTO BASTOS BALAZEIRO
+Ministro Relator
+Firmado por assinatura digital em 28/08/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067E07711E7A8AB2.
+d
+e
+C
+h
+a
+v
+e
+s
+P
+ú
+blic
+a
+s
+B
+r
+a
+sileir
+a. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067E07711E7A8AB2.
