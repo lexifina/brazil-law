@@ -1,0 +1,25 @@
+DECISÃO
+LUCAS FIDELIS DE AGUIAR e DANIEL ALEXANDRE DE AGUIAR alegam sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2128939-56.2026.8.26.0000.
+Consta dos autos que os pacientes foram pronunciados como incursos no art. 121, § 2º, II, III e IV, c/c o art. 29, caput, ambos do Código Penal. Os recursos em sentido estrito interpostos pela defesa foram desprovidos e, após a inadmissão dos recursos especial e extraordinário, foram manejados os respectivos agravos perante os Tribunais Superiores.
+Com o retorno dos autos à origem, o Juízo da Vara do Júri da Comarca de Campinas determinou a abertura da fase prevista no art. 422 do CPP e designou sessão plenária para o julgamento dos acusados.
+A defesa sustenta que o prosseguimento do feito antes do julgamento definitivo dos recursos excepcionais viola o art. 421 do CPP e os princípios do devido processo legal, da ampla defesa e da presunção de inocência. Argumenta que os recursos pendentes podem resultar na impronúncia dos pacientes ou no afastamento das qualificadoras e que a submissão ao júri, antes da preclusão integral da decisão de pronúncia, ocasiona insegurança jurídica e prejuízo irreparável.
+Requer, assim, a cassação do acórdão impugnado e da decisão do Juízo de primeiro grau, a fim de que a sessão plenária seja realizada somente depois do julgamento definitivo dos recursos excepcionais.
+Indeferi o pedido liminar (fls. 34-35).
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 81-84).
+Decido.
+O habeas corpus não prospera.
+Com efeito, o Tribunal de origem afastou o constrangimento ilegal ao fundamento de que a preclusão prevista no art. 421 do CPP se refere ao exaurimento dos recursos inerentes às instâncias ordinárias. Assinalou que a pendência de recursos especial e extraordinário não retira a eficácia da pronúncia nem impede o prosseguimento do procedimento do júri, pois tais insurgências não têm efeito suspensivo automático. Registrou, ainda, a inexistência de decisão dos Tribunais Superiores que tenha atribuído tal efeito aos recursos defensivos (fls. 12-15).
+A conclusão está em consonância com a jurisprudência desta Corte de Justiça. A interposição de recursos excepcionais contra o acórdão confirmatório da decisão de pronúncia, por si só, não obsta a realização do julgamento pelo Tribunal do Júri. Admitir solução diversa equivaleria a conferir efeito suspensivo automático a recursos aos quais a legislação processual não atribui tal eficácia.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CONHECIMENTO. EXAME DE OFÍCIO DE EVENTUAL ILEGALIDADE. DESIGNAÇÃO DE SESSÃO DO TRIBUNAL DO JÚRI. AUSÊNCIA DE EFEITO SUSPENSIVO AOS RECURSOS EXCEPCIONAIS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. A Corte local, ao indeferir a correição parcial, afastou a tese de "error in procedendo" em razão da designação de data para a sessão plenária do Tribunal do Júri antes do julgamento do recurso especial, considerando que os recursos excepcionais não possuem efeito suspensivo, nos termos do art. 995 do CPC.
+3. A jurisprudência do Supremo Tribunal Federal e do Superior Tribunal de Justiça reconhece que a interposição de recurso especial ou extraordinário contra acórdão confirmatório da decisão de pronúncia não impede a realização do julgamento pelo Tribunal do Júri, não se verificando, portanto, ilegalidade a ser sanada.
+4. Agravo regimental não provido.
+(AgRg no HC n. 1.004.325/PR, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/6/2025, DJEN de 27/6/2025, grifei.)
+A possibilidade abstrata de futura reforma da decisão de pronúncia não basta para suspender a marcha processual. Ausente medida cautelar que atribua efeito suspensivo aos recursos excepcionais, não há impedimento à prática dos atos previstos no art. 422 do CPP nem à designação da sessão plenária.
+Também não se verifica ofensa à presunção de inocência, pois a pronúncia não contém juízo definitivo de culpabilidade, e o prosseguimento regular do procedimento do júri não equivale à execução antecipada de condenação.
+Acrescente-se, ainda, que o AREsp n. 3.236.455/SP, interposto pelos pacientes contra o acórdão confirmatório da pronúncia, já foi julgado por esta Corte Superior, com posterior encaminhamento dos autos ao Supremo Tribunal Federal. Desse modo, eventual pretensão de suspensão do processo originário, fundada na pendência dos recurso s excepcionais ou na possibilidade de modificação da decisão de pronúncia, deverá ser dirigida à Suprema Corte, caso a defesa assim entenda, por ser o órgão perante o qual o feito atualmente tramita.
+À vista do exposto, denego o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
