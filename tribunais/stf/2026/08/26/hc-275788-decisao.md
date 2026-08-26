@@ -1,0 +1,55 @@
+DECISÃO: Trata-se de habeas corpus impetrado por Pedro Fernandes Teixeira e outro, em favor de João Guarany Garcia Iesbich, contra decisão proferida pelo Ministro Presidente do Superior Tribunal de Justiça no HC 1.119.264/SC.
+Colhe-se do ato coator (eDOC. 13):
+
+“Consta dos autos a prisão temporária do paciente, posteriormente convertida em custódia preventiva, decorrente da suposta prática dos delitos capitulados no art. 33, caput, c/c o art. 40, V, da Lei n. 11.343/2006, por três vezes, e no art. 33, caput, da Lei n. 11.343/2006, termos em que denunciado.
+Em suas razões, sustenta os impetrantes a ocorrência de constrangimento ilegal, porquanto a busca domiciliar foi cumprida em endereço diverso do especificado no mandado judicial, o que torna ilícitas as provas colhidas e as delas derivadas, impondo o desentranhamento dos elementos apreendidos e a inutilização dos respectivos laudos e perícias.
+Alega que houve ingresso domiciliar sem mandado judicial relativo ao imóvel em Antônio Carlos/SC, pois os agentes detinham o mandado para cumprimento em Florianópolis/SC e, ao encontrarem a residência vazia, não requereram outro mandado, apenas realizaram a busca em outro endereço.
+Acrescenta que houve desvio de finalidade no cumprimento do mandado de prisão temporária, tendo sido realizada varredura no interior da residência e arrecadados dois celulares, um notebook e haxixe, motivo pelo qual requer o reconhecimento da nulidade da diligência e o afastamento de seus efeitos probatórios.
+Argumenta que não se verificou busca pessoal apta a amparar a apreensão com base no art. 244 do CPP, pois os autos não registram revista corporal do paciente, mas apenas a arrecadação de bens no interior do imóvel, reforçando a ilicitude da prova domiciliar.
+Defende que o Fato 4 da denúncia, fundado na porção ínfima de haxixe apreendida na residência de Antônio Carlos/SC, é imprestável por derivar de prova ilícita, razão pela qual deve ser trancada a ação penal especificamente quanto a esse fato.
+Expõe que, diante do risco iminente de extração e análise de dados dos equipamentos eletrônicos apreendidos ilicitamente, é imprescindível a suspensão imediata das perícias em curso para evitar dano irreparável à intimidade e ao exercício da defesa.
+Requerem, liminarmente e no mérito, a suspensão de todas as perícias e extrações de dados dos equipamentos eletrônicos apreendidos e a suspensão dos atos relativos ao Fato 4. E, no mérito, a declaração de nulidade da busca e apreensão realizada no imóvel de Antônio Carlos/SC, o desentranhamento e a inutilização das provas colhidas e das delas derivadas, bem como o trancamento da ação penal relativa ao Fato 4”.
+
+No Superior Tribunal de Justiça, o Ministro Presidente indeferiu liminarmente o habeas corpus (eDOC. 13).
+Nesta Corte, a defesa reitera as alegações apresentadas perante o Superior Tribunal de Justiça (eDOC. 1).
+Requer, assim, a concessão da ordem, para declarar a nulidade da busca e apreensão domiciliar, bem como o trancamento da ação penal.
+É o relatório.
+Decido.
+
+Verifico, inicialmente, que o mérito da controvérsia não foi apreciado por órgão  colegiado do Superior Tribunal de Justiça e de Corte de 2º grau
+A jurisprudência desta Corte é firme no sentido de que, ausente manifestação das  instâncias antecedentes sobre o mérito, a apreciação pelo STF resultaria em dupla  supressão de instância e ampliação da competência prevista no art. 102 da CF: HC nº  109.430-AgR/DF, Rel. Min. Celso de Mello, Tribunal Pleno, j. 10/04/2014, p.  13/08/2014; HC nº 164.535-AgR/RJ, Rel. Min. Cármen Lúcia, Segunda Turma, j.  17/03/2020, p. 20/04/2020; e HC nº 163.568/RS, Rel. Min. Marco Aurélio, Red. do  Acórdão Min. Rosa Weber, Primeira Turma, j. 13/08/2019, p. 30/08/2019.
+Evidentemente, em obediência ao princípio da proteção judicial efetiva (CF, art. 5º, XXXV), a aplicação desse entendimento jurisprudencial pode ser afastada no caso de configuração de patente constrangimento ilegal ou abuso de poder, o que, todavia, não é o caso dos autos.
+Transcrevo a fundamentação da decisão do Juízo de 1º grau (eDOC. 6):
+
+“O exame dos autos revela que a premissa fática da defesa não corresponde à dinâmica efetivamente documentada. Extrai-se do relatório policial que os agentes se deslocaram ao endereço indicado no mandado e, no local, foram informados por funcionários do condomínio de que o investigado havia se mudado aproximadamente vinte dias antes, circunstância confirmada pelo próprio proprietário do imóvel, que franqueou o acesso e atestou a desocupação. Somente então os esforços foram concentrados na localização do investigado, culminando em sua prisão no município de Antônio Carlos.
+[...]
+Dessa forma, o endereço constante do mandado correspondia à residência conhecida à época do deferimento da medida. A alteração do domicílio foi superveniente e só chegou ao conhecimento dos agentes no momento do cumprimento da ordem, por circunstância alheia tanto à autoridade judiciária quanto às equipes de campo. Não houve, portanto, erro originário conhecido, escolha deliberada de imóvel estranho à decisão ou diligência dirigida contra terceiro: os atos permaneceram voltados à mesma pessoa individualizada nas decisões judiciais, localizada e capturada em seu efetivo domicílio atual. A alteração do endereço, nesse contexto, não modifica o alvo da medida nem converte a diligência em busca genérica.
+Sob essa perspectiva, eventual divergência formal entre o endereço registrado no mandado e a residência atual do investigado configura, quando muito, mera irregularidade formal, insuficiente para invalidar o ato, pois não compromete sua finalidade nem acarreta prejuízo apto a justificar a nulidade (art. 563 do CPP pas de nullité sans grief). O ato atingiu exatamente o objetivo para o qual foi autorizado: a localização e a submissão do investigado, individualmente considerado, à ordem judicial expedida em seu desfavor.
+[...]
+Ainda que assim não fosse, a natureza permanente do delito de tráfico de drogas reforça a licitude do ingresso. Nas modalidades de guardar, ter em depósito ou trazer consigo substância entorpecente, o crime protrai-se no tempo, mantendo-se o estado de flagrância enquanto não cessada a permanência (art. 303 do CPP). No caso, as fundadas razões anteriores e submetidas a prévio controle judicial autorizavam o ingresso, de modo que a divergência de endereço é insuscetível de contaminar a diligência.
+Registro, por relevante, que os objetos questionados dois aparelhos celulares e a substância indicada como haxixe foram apreendidos na posse direta do investigado, durante o cumprimento do mandado de prisão temporária, conforme o Boletim de Ocorrência n. 0692526/2026 e o respectivo auto de exibição e apreensão. Tal apreensão encontra amparo autônomo no art. 244 do CPP, que dispensa mandado para a busca pessoal no ato da prisão e quando presente fundada suspeita de porte de objeto relacionado ao delito, independentemente de qualquer busca domiciliar. Não há, ademais, nos documentos policiais, qualquer descrição de abertura de compartimentos, varredura aleatória ou prolongamento da diligência após a captura, não se confirmando a alegada devassa indiscriminada. A mera menção a um notebook no auto de apreensão não autoriza presumir devassa domiciliar, e a defesa não trouxe elemento concreto que infirmasse os registros oficiais”.
+
+Conforme consta da decisão do Juízo de 1º grau, ao chegarem ao endereço objeto do mandado, os agentes foram informados por funcionários do condomínio de que o investigado já não residia no local, tendo se mudado cerca de 20 dias antes. A partir dessa informação, as diligências passaram a se concentrar em sua localização, o que resultou em sua prisão no município de Antônio Carlos.
+Assim, quando do deferimento da medida, o endereço indicado no mandado correspondia ao domicílio então conhecido do investigado. Somente por ocasião do cumprimento da ordem os agentes tomaram conhecimento de que ele havia posteriormente se mudado do local.
+Ademais, consigno que “os objetos questionados dois aparelhos celulares e a substância indicada como haxixe foram apreendidos na posse direta do investigado, durante o cumprimento do mandado de prisão temporária, conforme o Boletim de Ocorrência n. 0692526/2026 e o respectivo auto de exibição e apreensão” (eDOC. 6, p. 4).
+Portanto, não se verifica ilegalidade na apreensão dos 275g de haxixe, uma vez que o entorpecente se encontrava na posse direta do investigado no momento do cumprimento do mandado de prisão temporária, sem que houvesse registro de “qualquer descrição de abertura de compartimentos, varredura aleatória ou prolongamento da diligência após a captura” (eDOC. 6, p. 4).
+De outro modo, o entendimento dessa Corte é no sentido de que o trancamento de processo penal, por meio do habeas corpus, somente é possível em situações excepcionais, quando estiverem comprovadas, de plano, a atipicidade da conduta, a extinção da punibilidade ou a evidente ausência de justa causa, o que não é o caso destes autos.
+Nesse sentido, destaco os seguintes precedentes:
+
+“Processual penal. Habeas corpus. Fraude à licitação, Crime de responsabilidade e Associação criminosa. Trancamento de ação penal. Ausência de teratologia, ilegalidade flagrante ou abuso de poder. Inadequação da via eleita.
+1. O trancamento da ação penal só é possível quando estiverem comprovadas, de plano, a atipicidade da conduta, a extinção da punibilidade ou a evidente ausência de justa causa.
+2. As peças que instruem este processo não evidenciam nenhuma teratologia, ilegalidade flagrante ou abuso de poder que autorize o encerramento prematuro do processo-crime.
+3. A denúncia descreveu, de forma suficientemente clara, as condutas imputadas aos agentes, apontando a presença dos elementos indiciários mínimos necessários para a instauração da persecução penal. Inicial acusatória que bem permitiu aos pacientes o pleno exercício do direito de defesa.
+4. A jurisprudência do Supremo Tribunal Federal, em matéria de crimes societários, tem orientação consolidada, no sentido de que não se faz necessária ‘descrição minuciosa e pormenorizada da conduta de cada acusado, sendo suficiente que, demonstrado o vínculo dos indiciados com a sociedade comercial, narre as condutas delituosas de forma a possibilitar o exercício da ampla defesa’ (RHC 117.173, Rel. Min. Luiz Fux).
+5. Agravo regimental desprovido.” (HC 138.147-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe 17.5.2017)
+
+ “Agravo regimental nohabeas corpus. 2. Trancamento de processo penal. Excepcionalidade não verificada. 3. Agravo improvido, com indeferimento do pedido de sustentação oral”. (AgR no HC 182.672, de minha relatoria, Segunda Turma, DJe 6.8.2020)
+
+Em um juízo preliminar, inerente a este momento, não se verifica a alegada ausência de justa causa para a persecução penal.
+Ante o exposto, nego seguimento ao habeas corpus (art. 21, §1º, RISTF).
+Publique-se.
+Brasília, 26 de agosto de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
