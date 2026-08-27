@@ -1,0 +1,76 @@
+Decisão
+
+Trata-se de Reclamação, com pedido de medida liminar, ajuizada pelo Município de Teresópolis/RJ em face de acórdão proferido pelo Tribunal Regional do Trabalho da 1ª Região (Processo 0100556-43.2025.5.01.0531), que teria violado o entendimento firmado pela CORTE nos autos da ADI 3.395, Rel. Min. ALEXANDRE DE MORAES.
+Na inicial, a parte reclamante expõe as seguintes alegações de fato e de direito (eDoc. 1):
+
+“A Reclamante, senhora Gabriela da Silva Almeida, firmou com o município de Teresópolis contrato temporário de Prestação de Serviços na forma do artigo 37 IX da Constituição. No aludido contrato, mormente em sua cláusula 3ª, restou estipulado que a contratação seria regida pelo referido artigo 37 IX da Constituição, pela lei municipal nº 3.513/2017 (que regulamentou a modalidade de contratação no âmbito da Urbe, adotando o regime jurídico-administrativo na forma de seu artigo 4º) e pelo Acordo firmado no bojo do processo judicial nº 0005378- 16.2018.8.19.0061.
+Após o término da relação ingressou com Reclamação Trabalhista na justiça do trabalho, notadamente na 1ª (e única) Vara do Trabalho de Teresópolis, alegando que se tratava de contratação de natureza celetista e que o ente público não teria depositado FGTS no curso da relação; requerendo, ainda, aplicação de multas celetistas e danos morais.
+[...]
+O Município de Teresópolis arguiu em preliminar de contestação a incompetência absoluta em razão da matéria da justiça do trabalho para o processamento e julgamento do feito, tendo em vista que a Suprema Corte ao julgar a ADI nº 3.395/DF conferiu interpretação ao inciso I do artigo 114 da Constituição da República, que foi alterado pela Emenda Constitucional nº45/2004, excluindo da expressão “relação de trabalho” qualquer interpretação que atribuísse à Justiça do Trabalho competência para apreciar causas envolvendo a Administração Pública e seus servidores, vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo.
+[...]
+O Juízo da 1ª Vara do Trabalho de Teresópolis rejeitou a exceção de incompetência arguida pelo Município. O magistrado justificou sua competência, em síntese, alegando que a ADI nº 3.395/DF não se aplicaria a servidores não concursados, que a lei municipal atraiu a CLT (por força do § 1º do artigo 4º que estatuiu que a CLT seria aplicada de forma subsidiaria), e que as prorrogações, em alguns casos, seriam irregulares.
+[...]
+Contudo, ao analisar o recurso ordinário, a Colenda 3ª Turma do Tribunal Regional do Trabalho da 1ª Região negou provimento ao recurso do Município, mantendo a competência da Justiça do Trabalho para processar e julgar o feito. Para fundamentar a manutenção do julgado, o respeitável Acórdão regional assentou que o vínculo mantido entre as partes possuía natureza eminentemente celetista, amparando-se em três pilares argumentativos: Anotação na CTPS: Asseverou a Turma que a anotação do contrato de trabalho na CTPS da Reclamante consubstancia o ato formal por excelência da relação de emprego, gerando a presunção de que o pacto submetia-se à égide da CLT; Opção Legislativa pela CLT Subsidiária: Sustentou que, embora o caput do artigo 4º da Lei Municipal nº 3.513/2017 declare a natureza administrativa das contratações, o seu § 1º estabelece a aplicação do regime celetista "naquilo em que couber", o que, na visão do Colegiado, representou uma opção legislativa voluntária do próprio Município em atrair as regras trabalhistas e a competência do artigo 114, I, da Constituição Federal, e Descaracterização da Temporalidade: Ponderou que a extensão do pacto laboral por quase 7 anos (de 01/03/2018 a 01/02/2025) extrapolou o limite legal de 2 (dois) anos fixado no artigo 5º da própria legislação local, o que descaracterizaria por completo a transitoriedade do excepcional interesse público e transmudaria a relação jurídica em um contrato de trabalho por prazo indeterminado.”
+
+Ao final, no mérito, requer “[a] procedência da Reclamação Constitucional com o fito de cassar em definitivo o Acórdão proferido pela 3ª Turma do TRT da 1ª Região incompetente e determinar a imediata remessa dos autos originários à Justiça Comum (Estadual), preservando a autoridade da decisão da Suprema Corte na ADI nº 3.395/DF”.
+
+É o relatório. Decido.
+
+A respeito do cabimento de Reclamação para o SUPREMO TRIBUNAL FEDERAL, a Constituição da República dispõe o seguinte:
+
+“Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+I - processar e julgar, originariamente:
+[...]
+l) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;
+
+Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei;
+[...]
+§3º Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso.”
+
+Veja-se também o art. 988 do Código de Processo Civil:
+
+“Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência.”
+
+O parâmetro de confronto invocado é o definido por esta SUPREMA CORTE na ADI 3.395, no qual, em sede de medida liminar, fixou-se o entendimento de que o disposto no art. 114, I, da Constituição da República não abrange as causas instauradas entre o Poder Público e servidor que lhe seja vinculado por relação jurídico-estatutária. Tal orientação foi posteriormente confirmada no julgamento de mérito da referida ação direta, nos seguintes termos:
+
+“CONSTITUCIONAL E TRABALHO. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. ART. 114, I, DA CONSTITUIÇÃO FEDERAL. EMENDA CONSTITUCIONAL 45/2004. AUSÊNCIA DE INCONSTITUCIONALIDADE FORMAL. EXPRESSÃO ‘RELAÇÃO DE TRABALHO’. INTERPRETAÇÃO CONFORME À CONSTITUIÇÃO. EXCLUSÃO DAS AÇÕES ENTRE O PODER PÚBLICO E SEUS SERVIDORES. PRECEDENTES. MEDIDA CAUTELAR CONFIRMADA. AÇÃO DIRETA JULGADA PARCIALMENTE PROCEDENTE.
+1. O processo legislativo para edição da Emenda Constitucional 45/2004, que deu nova redação ao inciso I do art. 114 da Constituição Federal, é, do ponto de vista formal, constitucionalmente hígido.
+2. A interpretação adequadamente constitucional da expressão ‘relação do trabalho’ deve excluir os vínculos de natureza jurídico-estatutária, em razão do que a competência da Justiça do Trabalho não alcança as ações judiciais entre o Poder Público e seus servidores.
+3. Medida Cautelar confirmada e Ação Direta julgada parcialmente procedente.” (ADI 3.395, Rel. Min. ALEXANDRE DE MORAES, Tribunal Pleno, DJe de 01/07/2020)
+
+Conclusão análoga foi adotada pela CORTE no julgamento do Tema 1.143-RG, RE 1.288.440, Rel. Min. ROBERTO BARROSO, conforme se extrai da seguinte tese fixada: “A Justiça Comum é competente para julgar ação ajuizada por servidor celetista contra o Poder Público, em que se pleiteia parcela de natureza administrativa, modulando-se os efeitos da decisão para manter na Justiça do Trabalho, até o trânsito em julgado e correspondente execução, os processos em que houver sido proferida sentença de mérito até a data de publicação da presente ata de julgamento”. Por oportuno registro que a ata do referido julgado foi publicada em 12/07/2023.
+Assiste razão à parte reclamante.
+Ao apreciar o Recurso Ordinário interposto pela parte ora Reclamante, o Juízo reclamado reconheceu a competência da Justiça do Trabalho, sob os seguintes fundamentos (eDoc. 10, fls. 427-428):
+
+“A controvérsia sobre a competência material da Justiça do Trabalho para julgar litígios envolvendo a Administração Pública e seus servidores contratados temporariamente é recorrente. A tese central do ente público recorrente baseia-se na decisão do Supremo Tribunal Federal na ADI nº 3.395/DF, que, de fato, afastou da competência desta Especializada as causas que discutem relações de natureza jurídico-estatutária ou jurídico-administrativa.
+Contudo, a aplicação de tal precedente exige a análise da natureza efetiva do vínculo estabelecido entre as partes. A simples invocação do artigo 37, IX, da Constituição Federal, não é suficiente para, por si só, definir a relação como administrativa e afastar a competência trabalhista. É fundamental verificar qual regime jurídico foi, de fato e de direito, aplicado à relação contratual.
+No caso dos autos, diversos elementos probatórios convergem para a conclusão de que o vínculo estabelecido foi de natureza trabalhista, regido pela CLT.
+O primeiro e mais contundente elemento é a anotação do contrato de trabalho na CTPS da reclamante (fl. 34 - Id. 3201b63). A anotação na CTPS é o ato formal por excelência que constitui a relação de emprego sob a égide celetista, gerando a presunção de que o contrato se submete a tal regime.
+Adicionalmente, a própria legislação municipal invocada pelo recorrente, a Lei nº 3.513/2017, contém uma disposição que corrobora a aplicação do regime celetista. Embora seu artigo 4º, caput, declare a natureza "eminentemente administrativa" das contratações, seu § 1º estabelece, de forma inequívoca: ‘Aplica-se o regime celetista às contratações naquilo em que couber’. Essa norma demonstra uma opção legislativa do próprio Município em atrair a aplicação da legislação trabalhista para as relações de contratação temporária.
+Portanto, não se trata de uma situação em que o Judiciário Trabalhista descaracteriza um vínculo administrativo puro, mas sim de uma hipótese em que o próprio ente público, ao legislar sobre a matéria e ao formalizar o contrato, optou por adotar o regime celetista. A opção pela regência celetista, ainda que mitigada pela expressão ‘naquilo em que couber’, atrai inequivocamente a competência desta Justiça Especializada, conforme dispõe o artigo 114, I, da CF, para dirimir os conflitos oriundos de tal relação.
+Ademais, a duração do contrato, que se estendeu de 01/03/2018 a 01/02/2025, totalizando quase 7 anos, descaracteriza por completo a natureza ‘temporária’ da contratação, que, segundo o artigo 5º da própria Lei Municipal nº 3.513/2017, não poderia exceder o prazo de 2 (dois) anos. A prorrogação sucessiva e por período tão longo do contrato afasta a alegação de atendimento a uma necessidade temporária de excepcional interesse público, reforçando a natureza do vínculo como um contrato de trabalho por prazo indeterminado.
+Dessa forma, a relação jurídica mantida entre as partes é materialmente trabalhista, seja pela anotação na CTPS, seja pela expressa previsão legal municipal de aplicação do regime celetista, seja pela descaracterização da temporalidade do contrato. Consequentemente, a competência para processar e julgar a presente demanda é da Justiça do Trabalho.”
+
+Da análise dos autos, observa-se que a parte beneficiária ajuizou a ação trabalhista para pleitear a condenação do Município ao pagamento de valores relativos ao FGTS, remanescendo controversa a natureza do vínculo mantido com o ente público contratante.
+Isso demonstra que a origem da demanda está justamente na análise da existência, validade e eficácia do vinculo jurídico-administrativo mantido entre as partes, circunstância jurídica suficiente para atrair a competência da Justiça Comum (ARE 1.319.512, Rel. Min. ALEXANDRE DE MORAES, DJe de 30/04/2021).
+Nesse sentido, cito precedente desta CORTE no julgamento da RCL 4063 MC-AgR, Rel. Min. MARCO AURÉLIO, Red.  p/ acórdão Min. DIAS TOFFOLI, Tribunal Pleno, DJe 06/06/2011, cujo acórdão restou assim ementado:
+
+“Agravo regimental na medida cautelar na reclamação – Administrativo e Processual Civil – Ação civil pública – Vínculo entre servidor e o poder público – Contratação temporária - ADI nº 3.395/DF-MC – Cabimento da reclamação – Incompetência da Justiça do Trabalho.
+1. A reclamação é meio hábil para conservar a autoridade do Supremo Tribunal Federal e a eficácia de suas decisões e súmulas vinculantes. Não se reveste de caráter primário ou se transforma em sucedâneo recursal quando é utilizada para confrontar decisões de juízos e tribunais que afrontam o conteúdo do acórdão do STF na ADI nº 3.395/DF-MC.
+2. Compete à Justiça comum pronunciar-se sobre a existência, a validade e a eficácia das relações entre servidores e o poder público fundadas em vínculo jurídico-administrativo. É irrelevante a argumentação de que o contrato é temporário ou precário, ainda que haja sido extrapolado seu prazo inicial, bem assim se o liame decorre de ocupação de cargo comissionado ou função gratificada.
+3. Não descaracteriza a competência da Justiça comum, em tais dissídios, o fato de se requerer verbas rescisórias, FGTS e outros encargos de natureza símile, dada a prevalência da questão de fundo, que diz respeito à própria natureza da relação jurídico-administrativa, posto que desvirtuada ou submetida a vícios de origem, como fraude, simulação ou ausência de concurso público. Nesse último caso, ultrapassa o limite da competência do STF a investigação sobre o conteúdo dessa causa de pedir específica.
+4. Agravo regimental provido e, por efeito da instrumentalidade de formas e da economia processual, reclamação julgada procedente, declarando-se a competência da Justiça comum.”
+
+Não cabe à Justiça Especializada, como ocorreu no presente caso, apreciar a regularidade do vínculo firmado entre o servidor e o Poder Público. No mesmo sentido do acima exposto, registram-se os seguintes precedentes: RCL 32.883, Rel. Min. ALEXANDRE DE MORAES, DJe de 11/2/1019; RCL 4.351 MC-AgR, Rel. Min. MARCO AURÉLIO, Relator p/ Acórdão: Min. DIAS TOFFOLI, Tribunal Pleno, julgado em 11/11/2015; RCL 11.518 AgR, Rel. Min. CÁRMEN LÚCIA, Tribunal Pleno, julgado em 13/6/2012; RCL 7.481 AgR, Rel. Min. DIAS TOFFOLI, Tribunal Pleno, julgado em 8/4/2010; CC 7.889 ED, Rel. Min. GILMAR MENDES, Tribunal Pleno, julgado em 5/3/2015; RCL 24.844 AgR, Rel. Min. LUIZ FUX, Primeira Turma, julgado em 25/4/2017.
+Diante do exposto, com base no art. 161, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, JULGO PROCEDENTE o pedido para cassar os atos decisórios proferidos na Justiça do Trabalho e determinar a remessa dos autos à Justiça Comum.
+Nos termos do art. 52, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, dispenso a remessa dos autos à Procuradoria-Geral da República.
+Publique-se.
+Brasília, 27 de agosto de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
