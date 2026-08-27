@@ -1,0 +1,87 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de WILLIAM VALERIO LASCOSKI apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (Agravo em Execução n. 4002456-58.2026.8.16.4321).
+Depreende-se dos autos que o Juízo de primeira instância deferiu o pedido de indulto da pena formulado pelo ora paciente com base no art. 9º, XV, do Decreto n. 12.338/2024 .
+Irresignado, o Ministério Público interpôs agravo em execução perante a Corte local, que deu provimento ao recurso para revogar o benefício, em acórdão assim ementado (e-STJ fls. 4/7):
+RECURSO DE AGRAVO EM EXECUÇÃO PENAL - DECISÃO QUE DEFERIU AO SENTENCIADO O BENEFÍCIO DO INDULTO DA PENA, COM FUNDAMENTO NO ARTIGO 9º, INCISO XV, DO DECRETO PRESIDENCIAL N. 12.338/2024 - INSURGÊNCIA MINISTERIAL - ALEGAÇÃO DE AUSÊNCIA DOS REQUISITOS LEGAIS PARA A CONCESSÃO DO BENEFÍCIO - PROVIMENTO - INDULTO QUE CONSTITUI CAUSA EXTINTIVA DA PUNIBILIDADE, CUJOS REQUISITOS DEVEM SER INTERPRETADOS RESTRITIVAMENTE, EM OBSERVÂNCIA À COMPETÊNCIA PRIVATIVA DO PRESIDENTE DA REPÚBLICA - ARTIGO 9º, INCISO XV, DO DECRETO PRESIDENCIAL N. 12.338/2024 QUE EXIGE, PARA OS CRIMES PATRIMONIAIS PRATICADOS SEM VIOLÊNCIA OU GRAVE AMEAÇA À PESSOA, A REPARAÇÃO DO DANO NOS TERMOS DOS ARTIGOS 16 OU 65, INCISO III, ALÍNEA "B", DO CÓDIGO PENAL, RESSALVADAS AS HIPÓTESES DE INCAPACIDADE ECONÔMICA PREVISTAS NO ARTIGO 12, § 2º, DO MESMO DECRETO - REPRESENTAÇÃO PELA DEFENSORIA PÚBLICA QUE GERA PRESUNÇÃO DE HIPOSSUFICIÊNCIA ECONÔMICA, APTA A DISPENSAR A EFETIVA REPARAÇÃO PATRIMONIAL DO DANO - PRESUNÇÃO QUE, TODAVIA, NÃO AFASTA A NECESSIDADE DE DEMONSTRAÇÃO DE ARREPENDIMENTO OU DE MANIFESTAÇÃO CONCRETA E VOLUNTÁRIA DE INTENÇÃO DE REPARAR O PREJUÍZO CAUSADO - AUSÊNCIA, NO CASO CONCRETO, DE ELEMENTOS QUE EVIDENCIEM ARREPENDIMENTO, INICIATIVA DE RECOMPOSIÇÃO DO PREJUÍZO OU VONTADE DE REPARAR O DANO DECORRENTE DA INFRAÇÃO PENAL - MERA ASSISTÊNCIA PELA DEFENSORIA PÚBLICA QUE NÃO CONDUZ, POR SI SÓ, AO PREENCHIMENTO DOS REQUISITOS EXIGIDOS PARA A CONCESSÃO DO INDULTO - PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTE TRIBUNAL - DECISÃO REFORMADA. RECURSO CONHECIDO E PROVIDO.
+I. CASO EM EXAME
+1. Agravo em execução penal interposto pelo Ministério Público do Estado do Paraná contra decisão que deferiu ao sentenciado William Valerio Lascoski o benefício do indulto da pena, com fundamento no artigo 9º, inciso XV, do Decreto Presidencial n. 12.338/2024, declarando extinta a punibilidade quanto às penas impostas nos autos n. 0002261-82.2017.8.16.0013. O agravante sustenta que o sentenciado não preenche os requisitos legais para a concessão do benefício, diante da ausência de demonstração de arrependimento ou de manifestação voluntária de intenção de reparar o dano causado.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se a presunção de hipossuficiência econômica decorrente da representação pela Defensoria Pública é suficiente, por si só, para dispensar a reparação do dano e autorizar a concessão do indulto previsto no artigo 9º, inciso XV, do Decreto Presidencial n. 12.338/2024, ou se permanece necessária a demonstração de arrependimento ou de vontade concreta e voluntária de reparar o prejuízo decorrente da infração penal.
+III. RAZÕES DE DECIDIR
+3. O indulto constitui causa extintiva da punibilidade, prevista no artigo 107, inciso II, do Código Penal, cuja concessão decorre de competência privativa do Presidente da República, nos termos do artigo 84, inciso XII, da Constituição Federal.
+4. Em razão da natureza excepcional do benefício, os requisitos estabelecidos no decreto concessivo devem ser interpretados restritivamente, não sendo admitida interpretação ampliativa capaz de alcançar hipóteses não contempladas expressamente pelo ato normativo.
+5. O artigo 9º, inciso XV, do Decreto Presidencial n. 12.338 /2024 prevê a concessão de indulto às pessoas condenadas à pena privativa de liberdade por crime contra o patrimônio, cometido sem violência ou grave ameaça à pessoa, que, até 25 de dezembro de 2024, tenham reparado o dano nos termos do artigo 16 ou do artigo 65, inciso III, alínea "b", do Código Penal, ressalvada a necessidade de reparação nas hipóteses previstas no artigo 12, § 2º, do mesmo Decreto.
+6. A representação pela Defensoria Pública gera presunção de hipossuficiência econômica, apta a dispensar a efetiva reparação patrimonial do dano, nos termos do artigo 12, § 2º, inciso I, do Decreto Presidencial n. 12.338/2024.
+7. Todavia, a presunção de incapacidade econômica não afasta a necessidade de demonstração de arrependimento ou, ao menos, de manifestação concreta e voluntária de intenção de reparar o prejuízo causado, pois a impossibilidade financeira de recomposição patrimonial não se confunde com a exteriorização da vontade do condenado de reparar o dano decorrente da infração penal.
+8. No caso, embora o agravado seja assistido pela Defensoria Pública, não há nos autos elementos que evidenciem manifestação voluntária de arrependimento, iniciativa voltada à recomposição do prejuízo ou demonstração inequívoca de intenção de reparar o dano causado, razão pela qual não se encontram preenchidos os requisitos exigidos para a concessão do indulto.
+IV. DISPOSITIVO E TESE
+9. Recurso conhecido e provido, para reformar a decisão agravada e revogar a concessão do indulto deferido ao sentenciado William Valerio Lascoski.
+Tese de julgamento: A presunção de hipossuficiência econômica decorrente da representação pela Defensoria Pública dispensa apenas a efetiva reparação patrimonial do dano, não afastando a necessidade de demonstração de arrependimento ou de manifestação concreta e voluntária de intenção de reparar o prejuízo causado, para fins de concessão do indulto previsto no artigo 9º, inciso XV, do Decreto Presidencial n. 12.338/2024.
+Na presente impetração, a defesa alega, em síntese, que "o que se afirma no inciso XV é apenas que se dispensa a reparação do dano em caso de assistido pela Defensoria Pública, nada mais", de forma que "não há espaço para se avaliar se há uma presunção relativa ou absoluta porque não há presunção de coisa alguma", e, "ainda que se afirmasse que se trata de presunção relativa de incapacidade econômica para reparar o dano, isso imporia ao Ministério Público o ônus de demonstrar que há, sim, tal capacidade no caso concreto" (e-STJ fl. 3).
+Ao final, requer o restabelecimento do indulto.
+É o relatório.
+Decido.
+Cinge-se a questão a saber se é possível presumir a hipossuficiência de apenado assistido pela Defensoria Pública para fins de dispensa das exigências de reparação do dano e da demonstração de arrependimento oportuna nos casos de indulto previsto no Decreto n. 12.338/2024.
+Inicialmente, impõe-se ressaltar que o decreto de indulto deve ser interpretado restritivamente, sob pena de invasão do Poder Judiciário na competência exclusiva da Presidência da República, conforme art. 84, XII, da Constituição Federal.
+No caso , o indulto concedido pelo Juízo de primeiro grau foi revogado pelo Tribunal de origem nos seguintes termos (e-STJ fls. 11/18, grifo nosso):
+O indulto constitui causa extintiva da punibilidade, nos termos do artigo 107, inciso II, do Código Penal, cuja concessão decorre de competência privativa do Presidente da República, consoante dispõe o artigo 84, inciso XII, da Constituição Federal.
+Em razão de sua natureza excepcional, os requisitos estabelecidos no decreto concessivo devem ser observados estritamente, não sendo admitida interpretação ampliativa capaz de alcançar hipóteses não contempladas expressamente pelo ato normativo.
+No caso em exame, o benefício foi deferido com fundamento no artigo 9º, inciso XV, do Decreto Presidencial n. 12.338/2024, que assim dispõe:
+"Art. 9º Concede-se o indulto coletivo às pessoas, nacionais e migrantes, condenadas:
+(..)
+XV - à pena privativa de liberdade por crime contra o patrimônio, cometido sem violência ou grave ameaça à pessoa que, até 25 de dezembro de 2024, tenham reparado o dano conforme o disposto no art. 16 ou no art. 65, caput, inciso III, alínea "b", do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, excetuada a necessidade de reparação do dano nas hipóteses previstas no art. 12, § 2º, deste Decreto;"
+Por sua vez, o artigo 12, § 2º, do mesmo Decreto estabelece:
+"Art. 12. Concede-se o indulto coletivo às pessoas, nacionais e migrantes, condenadas a pena de multa:
+(..)
+§ 2º Para fins do disposto no inciso II do caput, poderá ser feita prova de pobreza por qualquer forma admitida em direito e será presumida a incapacidade econômica nas seguintes hipóteses:
+I - a pessoa for representada pela Defensoria Pública ou por advogado dativo ou houver atuação de entidade pro bono; (..)".
+Da interpretação sistemática dos dispositivos acima transcritos, extrai-se que a representação pela Defensoria Pública gera presunção de hipossuficiência econômica, circunstância apta a afastar a exigência de efetiva reparação patrimonial do dano.
+Todavia, referida presunção não dispensa a demonstração do arrependimento ou, ao menos, da intenção concreta e voluntária de reparar o prejuízo decorrente da infração penal.
+Com efeito, a incapacidade financeira justifica a impossibilidade material de reparação do dano, mas não substitui a exteriorização da vontade do condenado de recompor o prejuízo causado, requisito igualmente contemplado pelo artigo 9º, inciso XV, do Decreto Presidencial n. 12.338/2024.
+No caso concreto, embora o recorrido tenha sido condenado por crime patrimonial praticado sem violência ou grave ameaça à pessoa, não há nos autos qualquer elemento que evidencie manifestação voluntária de arrependimento, iniciativa voltada à recomposição do prejuízo ou demonstração inequívoca de intenção de reparar o dano decorrente da infração penal.
+A decisão agravada, entretanto, concluiu pelo preenchimento dos requisitos legais exclusivamente em razão da presunção de hipossuficiência econômica decorrente da assistência jurídica prestada pela Defensoria Pública, reputando dispensada a reparação do dano.
+Todavia, a mera presunção de incapacidade econômica não conduz, por si só, ao preenchimento dos requisitos exigidos para a concessão do benefício.
+Isso porque a impossibilidade financeira de reparar o dano não se confunde com a demonstração de arrependimento ou de vontade de reparação, exigências autônomas que igualmente integram a hipótese normativa prevista no artigo 9º, inciso XV, do Decreto Presidencial n. 12.338/2024.
+ ..
+Diante desse cenário, impõe-se a reforma da decisão agravada, para que seja afastada a concessão do indulto previsto no Decreto Presidencial n. 12.338/2024, ante a ausência de demonstração de arrependimento ou de vontade de reparar o dano, requisitos indispensáveis à obtenção do benefício.
+Em que pesem alguns posicionamentos isolados, o Superior Tribunal de Justiça, em diversos julgamentos sobre o tema, posicionou-se no sentido de que a presunção de hipossuficiência pode afastar a necessidade de reparação do dano, mas permanece imprescindível a demonstração oportuna de arrependimento ou vontade de reparar o dano.
+Destaque-se que o próprio texto do art. 9º, XV, do Decreto n. 12.338/2024, remete a dispositivos do Código Penal e, também, às hipóteses previstas no art. 12, § 2º, do mesmo diploma legal, razão pela qual devem ser reunidos quando interpretados.
+Confira-se (grifo nosso):
+DECRETO N. 12.338/2024
+Art. 9º Concede-se o indulto coletivo às pessoas, nacionais e migrantes, condenadas:
+ .. .
+XV - a pena privativa de liberdade por crime contra o patrimônio, cometido sem violência ou grave ameaça a pessoa que, até 25 de dezembro de 2024, tenham reparado o dano conforme o disposto no art. 16 ou no art. 65, caput, inciso III, alínea "b", do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, excetuada a necessidade de reparação do dano nas hipóteses previstas no art. 12, § 2º, deste Decreto; ou
+ .. .
+CÓDIGO PENAL
+Arrependimento posterior (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 16 - Nos crimes cometidos sem violência ou grave ameaça à pessoa, reparado o dano ou restituída a coisa, até o recebimento da denúncia ou da queixa, por ato voluntário do agente, a pena será reduzida de um a dois terços.
+ .. .
+Circunstâncias atenuantes
+Art. 65 - São circunstâncias que sempre atenuam a pena:
+III - ter o agente:
+b) procurado, por sua espontânea vontade e com eficiência, logo após o crime, evitar-lhe ou minorar-lhe as consequências, ou ter, antes do julgamento, reparado o dano;
+No caso dos autos, por mais que seja afastada a necessidade de reparação do dano em virtude da hipossuficiência presumida do apenado, os fundamentos constantes do acórdão impugnado atestam a inexistência de arrependimento posterior do paciente, bem como de fato que demonstre a sua espontânea vontade de evitar ou reparar o dano, circunstância que impede a concessão do indulto, conforme a jurisprudência majoritária desta Corte Superior.
+Nesse sentido, mantidas as devidas particularidades:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. FURTO. INDULTO. DECRETO N. 12.338/2024. CRIME CONTRA O PATRIMÔNIO SEM VIOLÊNCIA OU GRAVE AMEAÇA. REPARAÇÃO DO DANO. PRESUNÇÃO DE HIPOSSUFICIÊNCIA. REPRESENTAÇÃO PELA DEFENSORIA PÚBLICA. DIA-MULTA NO MÍNIMO LEGAL. INSUFICIÊNCIA. NECESSIDADE DE DEMONSTRAÇÃO OPORTUNA DE ARREPENDIMENTO OU VONTADE DE REPARAR. INTERPRETAÇÃO SISTEMÁTICA. AUSÊNCIA DE COMPROVAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A sentença concessiva do indulto possui natureza declaratória. O julgador deve observar estritamente os requisitos exigidos pelo Presidente da República, sob pena de usurpação da competência privativa disposta no art. 84, XII, da Constituição Federal.
+2. A exegese sistemática do Decreto n. 12.338/2024 impõe que o art. 9º, XV, seja lido em conjunto com o art. 12, § 2º. A presunção de hipossuficiência econômica afasta a necessidade de efetiva reparação do dano, mas não dispensa a demonstração oportuna de arrependimento ou da vontade de reparar. Essa comprovação ocorre mediante a aplicação das circunstâncias previstas nos arts. 16 ou 65, III, "b", do Código Penal, seja na sentença condenatória, seja por ato posterior inequívoco do condenado no sentido de tentar ressarcir o prejuízo causado.
+3. No caso concreto, o paciente cumpre pena de 3 anos, 4 meses e 5 dias de reclusão por furto e furto qualificado. Não há informações de que adotou alguma providência voltada ao ressarcimento ou que evidenciasse arrependimento oportuno. Nas condenações impostas, não houve aplicação da causa de diminuição prevista no art. 16, nem da atenuante descrita no art. 65, III, "b", do Código Penal. A representação pela Defensoria Pública e a multa fixada no mínimo legal não afastam a necessidade de comprovação da intenção reparatória.
+4. Agravo regimental não provido.
+(AgRg no HC n. 1.059.740/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/5/2026, DJEN de 26/5/2026, grifo nosso.)
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. ART. 9º, XV, DO DECRETO N. 12.338/2024. INTERPRETAÇÃO RESTRITIVA. RECURSO IMPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, em que se pleiteava a concessão de indulto natalino com fundamento no art. 9º, XV, c. c. art. 12, § 2º, I, do Decreto Presidencial n. 12.338/2024.
+2. A instância de origem consignou que não houve comprovação de reparação do dano, requisito essencial para o reconhecimento do indulto, afastando a aplicação da presunção de hipossuficiência econômica, por ter sido a reeducanda assistida pela Defensoria Pública.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em determinar se a interpretação do artigo 9º, XV, do Decreto Presidencial n. 12.338/2024, que fundamentou o indulto, foi correta, considerando que não foram comprovadas a reparação do dano e a hipossuficiência financeira.
+III. RAZÕES DE DECIDIR
+4. A aplicação de Decreto Presidencial que concede o indulto deve ser orientada, ao menos como regra, por intepretação restritiva - não extensiva -, sob pena de invasão da competência atribuída de modo privativo ao Presidente da República pelo art. 84, XII, da Constituição da República.
+5. A partir de interpretação restritiva do art. 9º, XV, do Decreto Presidencial n. 12.338/2024, tem direito ao indulto quem se arrependeu do crime contra o patrimônio, cometido sem grave ameaça ou violência contra a pessoa e, até o recebimento da denúncia, ao menos manifestou arrependimento ou vontade de reparar o dano, mas não o fez tão somente por ser incapaz do ponto de vista econômico para tanto (incapacidade presumida diante do fato de o agente ser representado pela Defensoria Pública).
+6. No caso, não existe direito a o indulto, com base no art. 9º, XV, do referido Decreto, porquanto não existiu nenhum sinal ou notícia de arrependimento ou de vontade de reparar o dano.
+7. O fato de o apenado ser representado pela Defensoria Pública implica presumir a sua incapacidade econômica para reparar o dano (art. 12, § 2º, do Decreto n. 12.338/2024), mas não afasta a necessidade, exigida pelo art. 9º, XV, de demonstração do arrependimento ou da vontade de reparação do dano.
+IV. DISPOSITIVO E TESE
+8. Agravo regimental improvido.
+(AgRg no HC n. 1.053.200/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/4/2026, DJEN de 23/4/2026, grifo nosso.)
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
