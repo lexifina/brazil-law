@@ -1,0 +1,36 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+
+“DIREITO CONSTITUCIONAL. AÇÃO ORDINÁRIA. SERVIDOR PÚBLICO. APOSENTADORIA ESPECIAL DOS POLICIAIS. INTEGRALIDADE E PARIDADE. TEMA 1019 STF. SUBMISSÃO À PREVIDÊNCIA COMPLEMENTAR DO SERVIDOR PÚBLICO FEDERAL. LEI Nº 12.618/2012. POSSIBILIDADE. APELAÇÃO DESPROVIDA.
+1. Ação ordinária ajuizada por servidor público federal objetivando a não incidência das regras da Lei nº 12.618/2012, ao fundamento de vínculo ininterrupto com a Administração Pública desde antes de sua vigência e exercício de atividade de risco.
+2. Sentença que julgou improcedente o pedido, reconhecendo a obrigatoriedade de submissão ao regime de previdência complementar em razão da posse em cargo federal após 04/02/2013.
+3. Ingresso do autor no serviço público estadual em 2014, posterior à instituição do FUNPRESP, sem vínculo anterior a regime próprio sem limitação ao teto do RGPS, inviabilizando a exceção prevista no art. 22 da Lei nº 12.618/2012. 4. Irrelevância da previsão de aposentadoria especial com proventos integrais prevista na LC nº 51/85 quanto à obrigatoriedade de recolhimento previdenciário nos moldes da Lei nº 12.618/2012, ante a distinção entre regras de cálculo e de custeio do benefício. 5. Tema 1019 do STF que não afasta a submissão ao regime de previdência complementar, por tratar exclusivamente do critério de cálculo dos proventos no caso de preenchimento dos requisitos da aposentadoria especial. 6. Indeferimento da justiça gratuita mantido, diante da ausência de comprovação da hipossuficiência econômica, considerada a remuneração do cargo de policial rodoviário federal. 7. Apelação da parte autora desprovida”. (eDOC 13)
+
+No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao entendimento firmado no  Tema nº 1019/RG, que teve como leading case o RE 1162672.  (eDOC 20)
+Nas razões recursais, sustenta-se que o acórdão recorrido diverge da tese firmada no Tema 1.019 da repercussão geral, segundo a qual os policiais civis que preencheram os requisitos da LC nº 51/1985 fazem jus à aposentadoria com integralidade e paridade.
+Alega o recorrente que, por exercer atividade de risco, submete-se ao regime especial previsto na referida lei complementar, não lhe sendo aplicável a limitação ao teto do RGPS decorrente do regime de previdência complementar.
+Argumenta, por fim, que a interpretação adotada pelo Tribunal de origem, ao privilegiar a data de posse em detrimento da natureza da atividade desempenhada, contraria a finalidade da LC nº 51/1985 e os princípios da razoabilidade e da proporcionalidade.
+Ao final, requer o provimento do recurso.
+É o relatório. Decido.
+Na origem, trata-se de ação ordinária ajuizada por Marcelo Santos Bastos em face da União, objetivando o afastamento dos efeitos da instituição do regime de previdência complementar instituído pela Lei nº 12.618/2012, para que a ré proceda ao recolhimento das contribuições previdenciárias devidas pelo autor sem a incidência de limitações decorrentes desse regime, especialmente quanto ao cálculo dos proventos pela média, à perda da paridade e à submissão ao teto de benefícios do Regime Geral de Previdência Social (RGPS).
+O Tribunal de origem, com fundamento no acervo fático probatório constante dos autos e na legislação infraconstitucional aplicável ao caso (Lei 12.618/2012 e LC 51/85), manteve a sentença que consignou a obrigatoriedade de submissão do recorrente ao regime de previdência complementar, em razão da posse em cargo federal após 04.02.2013. Confira-se trecho do acórdão:
+
+“(...)
+Por outro lado, a Lei Complementar nº 51/85, com alterações feitas pela Lei Complementar nº 144/2014, prevê, com base no § 4º, II, do art. 40 da Constituição Federal, a redução do tempo de contribuição dos servidores públicos da carreira policial, para a obtenção da aposentadoria com proventos integrais, o que, contudo, não os exclui da vinculação ao regime de previdência complementar, e dos novos critérios de cálculo de benefício. Tanto é assim que a Lei nº 12.618/2012 dispôs sobre o aporte extraordinário para a compensação da redução do tempo de contribuição, nesses casos.
+O Supremo Tribunal Federal, ao julgar a ADI n° 3.817/DF, ratificada, em sede de repercussão geral, nos autos do RE n° 567.110/ACRG, ocasião em que reconheceu a recepção pela Constituição da República de 1988 do art. 1° da Lei Complementar n° 51/85, que estabelece critérios diferenciados para a aposentadoria especial de servidores públicos policiais, em momento algum reconheceu o direito à integralidade dos servidores policiais, mas tão somente os direitos previstos naquela lei complementar, ou seja, de se aposentar com tempo de serviço reduzido auferindo proventos integrais.
+Em entendimento recente (20/02/2024), o Supremo Tribunal Federal decidiu, relativamente ao Tema 1019, que: ‘O servidor público policial civil que preencheu os requisitos para a aposentadoria especial voluntária prevista na LC nº 51/85 tem direito ao cálculo de seus proventos com base na regra da integralidade e, quando também previsto em lei complementar, na regra da paridade, independentemente do cumprimento das regras de transição especificadas nos arts. 2º e 3º da EC 47/05, por enquadrar-se na exceção prevista no art. 40, § 4º, inciso II, da Constituição Federal, na redação anterior à EC 103/19, atinente ao exercício de atividade de risco’.
+Desse modo, a Lei n° 12.618/2012 em nada conflita com a Lei complementar n° 51/85, porque aquela apenas estabelece novas normas de custeio do regime de aposentadoria dos servidores públicos e critérios de cálculos do benefício, matéria não regulada pela LC em questão.
+Portanto, o fato de existir previsão de redução no tempo de contribuição para se aposentar não interfere na forma em que será recolhida a contribuição previdenciária. Por isso, o direito à aposentadoria especial não afasta a aplicação dos §§ 14 e 16 do art. 40, da Constituição da República, pois se trata de situações distintas.
+(...)
+No caso em análise, portanto, tendo o autor ingressado no serviço público, no cargo de soldado militar do Estado da Bahia em janeiro de 2014, ou seja, após a instituição do FUNPRESP, ele está submetido ao regime previdenciário previsto na Lei n. 12.618/2012”. (eDOC 13, grifo nosso)
+
+Assim, verifica-se que a matéria debatida no acórdão recorrido, relativa à sujeição do servidor ao regime de previdência complementar instituído pela Lei nº 12.618/2012, restringe-se ao âmbito da legislação infraconstitucional, de modo que eventual ofensa à Constituição, se existente, seria meramente reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório. Nesses termos, incide no caso a Súmulas 279 do STF.
+Nesse sentido, cito a decisão proferida no ARE 1.613.393, Rel. Min. Presidente, DJe 14.07.2026.
+Ante o exposto, nego seguimento ao recurso.
+
+Publique-se.
+Brasília, 27 de agosto de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
