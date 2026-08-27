@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de MATEUS PRUDENTE NOGUEIRA, preso preventivamente e acusado da prática do crime do art. 33, caput, da Lei n. 11.343/2006 (Processo n. 5001629-98.2026.8.13.0607, da Vara Plantonista da Microrregião VI, comarca de Barbacena/MG).
+O impetrante aponta como autoridade coatora o Desembargador do Tribunal de Justiça do Estado de Minas Gerais, que, em 23/8/2026, indeferiu o pedido liminar formulado no HC n. 1.0000.26.484799-7/000.
+Alega nulidade da busca domiciliar por denúncia anônima desacompanhada de diligências prévias e por consentimento viciado em período noturno, com ilicitude das provas e relaxamento da prisão.
+Sustenta a aplicação do Tema 506 do Supremo Tribunal Federal para desclassificação ao art. 28 da Lei n. 11.343/2006, diante da reduzida quantidade e da ausência de indícios objetivos de mercancia.
+Afirma quebra da cadeia de custódia, por apreensões relevantes em imóvel de terceiro sem liame com o paciente, inclusive itens não periciados. Argumenta nulidade da conversão do flagrante em preventiva antes da audiência de custódia e sem contraditório da defesa técnica já habilitada.
+Aponta inidoneidade da fundamentação do decreto prisional, fundada em estatísticas genéricas e juízo moral, sem demonstração do periculum libertatis. Destaca condições pessoais favoráveis e suficiência de cautelares diversas (fls. 15/17).
+Em caráter liminar, pede relaxamento da prisão ilegal ou liberdade provisória com medidas do art. 319 do Código de Processo Penal e, no mérito, requer o afastamento da Súmula 691 do Supremo Tribunal Federal para conhecimento do writ, a declaração de nulidade da busca domiciliar com relaxamento das prisões; subsidiariamente, a desclassificação para o art. 28 da Lei n. 11.343/2006, ou a revogação da preventiva por ausência de contraditório, por falta de audiência de custódia e por carência de fundamentação; e, ainda subsidiariamente, a substituição por medidas cautelares.
+É o relatório.
+Na espécie, aplica-se o enunciado da Súmula 691/STF, observado também por esta Corte, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Com efeito, as questões trazidas na impetração não foram ainda enfrentadas pelo colegiado competente, não se admitindo a pretendida supressão de instância.
+Esse posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada dos autos a configuração de flagrante ilegalidade ou abuso de poder, o que não ocorreu no caso em tela, diante das particularidades mencionadas no decisum impugnado.
+O indeferimento da liminar pelo Tribunal local apoiou-se na ausência de fumus boni iuris e na necessidade de prévia oitiva da autoridade apontada como coatora, consignando, a priori, que a decisão de conversão da prisão em flagrante em preventiva estaria devidamente fundamentada, destacando-se que o paciente foi preso em flagrante delito no final do ano passado pelo mesmo crime e, agora, em menos de 1 ano, cometeu nova infração penal (fl.200).
+Ademais, convém destacar que o feito se encontra em sua fase instrutória, devendo as teses de nulidades por violação de domicílio e absolvição ser analisadas durante a instrução processual em juízo, em cognição plena. A propósito: AgRg no HC n. 854.089/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 8/5/2024.
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. DECISÃO MONOCRÁTICA QUE INDEFERIU LIMINAR. APLICAÇÃO DA SÚMULA 691. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AUSÊNCIA DE FUMUS BONI IURIS. PRISÃO PREVENTIVA. REITERAÇÃO DELITIVA. INSTRUÇÃO EM CURSO. NULIDADES E ABSOLVIÇÃO A SEREM APRECIADAS EM COGNIÇÃO PLENA. PRECEDENTES.
+Petição inicial indeferida liminarmente.
