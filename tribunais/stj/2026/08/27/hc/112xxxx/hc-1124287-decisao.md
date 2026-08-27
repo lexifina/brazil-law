@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FABIO HUMBERTO ARNONI contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (HC n. 2092751-64.2026.8.26.0000).
+Narra-se nos autos que o paciente foi preso em flagrante em 18/12/2025, pela suposta prática do crime de tráfico de drogas. A prisão em flagrante foi homologada e foi concedida liberdade provisória mediante cautelares consistentes em comparecimento mensal em juízo, atualização de endereço, proibição de ausentar-se da comarca por mais de 8 dias sem comunicação e comparecimento a todos os atos do processo.
+Em 17/03/2026, o Ministério Público requereu a revogação da liberdade provisória e a decretação da prisão preventiva, em razão de suposto descumprimento das medidas cautelares, notadamente pelo não comparecimento mensal em juízo e pela não localização do paciente no endereço informado. Assim, em 24/03/2026, a prisão preventiva foi decretada; em reavaliação realizada em 09/04/2026, foi indeferido pedido defensivo de revogação da preventiva (e-STJ fl. 4).
+Inconformada, a defesa impetrou habeas corpus, tendo a ordem sido denegada (e-STJ fls. 10/17).
+No presente writ (e-STJ fls. 2/9), a defesa alega ausência de fundamentação concreta e individualizada para a custódia cautelar, porquanto baseada em presunções genéricas, sem demonstração atual e específica do periculum libertatis. Aduz violação aos princípios da proporcionalidade, necessidade e subsidiariedade, sustentando que a prisão preventiva não foi tratada como ultima ratio e que não houve análise exauriente de medidas cautelares alternativas ou do recrudescimento das já impostas.
+Sustenta inexistência de intencionalidade evasiva, destacando tentativa de contato com o oficial de justiça e a prisão do paciente em sua residência, bem como condições pessoais favoráveis (primariedade, trabalho e endereço fixos), sem notícia de reiteração delitiva, ameaça à instrução criminal ou à aplicação da lei penal.
+Defende a ausência de contemporaneidade da medida extrema e afirma que não houve superveniência de fatos novos entre o flagrante e a decretação da preventiva, além de ressaltar que folhas de antecedentes.
+Dessa forma, requer, na liminar e no mérito, a revogação da prisão preventiva com restabelecimento das medidas anteriormente impostas ou aplicação de outras menos gravosas.
+É o relatório. Decido.
+Busca-se, no presente writ, a revogação da prisão preventiva do paciente que responde pelo delito de tráfico de drogas.
+O presente mandamus, contudo, não merece ser conhecido, por instrução deficitária.
+O rito do habeas corpus, em razão da necessária celeridade, pressupõe a apresentação de prova pré-constituída do direito alegado, sob pena de não conhecimento da ordem. Diante disso, o impetrante deve demonstrar, de maneira inequívoca, por meio de documentos, a existência do constrangimento ilegal imposto ao paciente.
+Com efeito, " a  jurisprudência do Supremo Tribunal Federal é firme no sentido da inadmissão do habeas corpus quando não instruído o writ com as peças necessárias à confirmação da efetiva ocorrência do constrangimento ilegal". (AgRg no HC n. 182.788, Rel. Ministra Rosa Weber, Primeira Turma, julgado em 22/5/2022, DJe 18/6/2020).
+No mesmo sentido, esta Corte assentou que " e m sede de habeas corpus, é cediço que a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado". (AgRg no HC n. 772.017/SC, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 28/11/2022, DJe 2/12/2022).
+No particular, este habeas corpus não está instruído com a documentação necessária à compreensão da controvérsia e ao exame da plausibilidade do pedido, uma vez que não foram trazidos aos autos cópia da decisão que concedeu a liberdade provisória, bem como da decisão que decretou a prisão preventiva do paciente.
+Ausente a prova pré-constituída do direito alegado, o não conhecimento do mandamus é medida que se impõe.
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
+EMENTA
