@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de RENATO DE OLIVEIRA BRUNO, condenado pela prática dos crimes previstos nos arts. 157, § 2º, II e § 2º-A, por três vezes, na forma do art. 70, e art. 158, §§ 1º e 3º, todos c/c o art. 69, do Código Penal, à pena de 25 anos, 9 meses e 26 dias de reclusão, em regime inicial fechado (Processo n. 1520442-88.2022.8.26.0050).
+A impetrante aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que, em 27/7/2026, não conheceu do agravo interno interposto contra decisão monocrática que indeferiu liminarmente o habeas corpus (Agravo Interno Criminal n. 2144401-53.2026.8.26.0000/50000 - fls. 33/39).
+Alega nulidade do reconhecimento fotográfico, com inobservância do art. 226 do Código de Processo Penal, repetição do ato e "troca" de fotos/números na sentença. Afirma error in judicando e error in procedendo, sustentando que a vítima, em juízo, não reconheceu com certeza o paciente.
+Argumenta que o paciente possui cicatrizes no rosto que não foram mencionadas em nenhum dos reconhecimentos.
+Invoca precedentes sobre a nulidade do reconhecimento quando não observado o procedimento do art. 226 do Código de Processo Penal e a respeito do manejo excepcional do habeas corpus como substitutivo de revisão criminal em casos de manifesta ilegalidade.
+Em caráter liminar, pede a nulidade do reconhecimento viciado, a correção da troca de números/fotos/pessoas e a nulidade da condenação. No mérito, requer a declaração de nulidade da condenação imposta ao paciente.
+É o relatório.
+O writ é inadmissível.
+O Relator indeferiu a ordem em decisão monocrática por não vislumbrar o fumus boni iuris, destacando a inexistência de constrangimento ilegal patente na espécie. Assentou que houve mera juntada do reconhecimento fotográfico realizado na fase policial, o que denota a deficiência da instrução do feito na origem.
+Apontou que, tanto na sentença quanto no acórdão da apelação, houve menção expressa a o reconhecimento pessoal em juízo, enfatizando, ainda, que a condenação transitou em julgado em 12/3/2025, há mais de um ano, e que os supostos erros já estavam contidos nos autos, o que atrai a preclusão e impede a reabertura da discussão pela via eleita. Nessa linha, reafirmou que a coisa julgada não pode ser superada e que o habeas corpus não se presta a funcionar como sucedâneo de revisão criminal, ausente teratologia ou ilegalidade flagrante.
+Ao julgar o agravo interno, a Corte de origem sequer conheceu do recurso, ante a incidência da Súmula 182/STJ.
+Na oportunidade, registrou que a defesa apenas acostou o auto de reconhecimento fotográfico no âmbito da seara inquisitiva (fl. 35), reiterando a ocorrência de coisa julgada e a pertinência da revisão criminal como via adequada.
+Nesse contexto, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício.
+Com efeito, aqui o impetrante também não se desincumbiu do ônus de instruir suficientemente o writ com cópias da denúncia, da sentença e do acórdão proferido no julgamento da apelação.
+Como é sabido, o habeas corpus, ação constitucional de natureza mandamental destinada a afastar eventual ameaça ao direito de ir e vir, tem, em virtude de seu escopo, natureza urgente e, por essa razão, não comporta dilação probatória e exige prova pré-constituída das alegações, a qual deve ser trazida no momento do seu ajuizamento, cabendo o ônus da instrução à impetrante.
+Além disso, a conclusão adotada pela Corte de origem está em consonância com a jurisprudência deste Tribunal Superior, que não admite a utilização de habeas corpus substitutivo de revisão criminal.
+De mais a mais, os vícios apontados pela defesa - inobservância do art. 226 do Código de Processo Penal, indução, repetição do ato e "troca" de fotos/números na sentença - não foram enfrentados de forma específica pelo acórdão, o que revela a supressão de instância e a pretensão de reabrir discussão típica da via revisional diretamente nesta Corte, o que é manifestamente descabido.
+Ante o exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+DIREITO PENAL E PRO CESSUAL PENAL. HABEAS CORPUS. ROUBO MAJORADO E EXTORSÃO QUALIFICADA. NULIDADE DE RECONHECIMENTO FOTOGRÁFICO. ART. 226 DO CÓDIGO DE PROCESSO PENAL. WRIT INDEFERIDO LIMINARMENTE NO TRIBUNAL ESTADUAL. AGRAVO INTERNO NÃO CONHECIDO NA ORIGEM. INCIDÊNCIA DA SÚMULA 182 DO STJ. COISA JULGADA. INADEQUAÇÃO DA VIA ELEITA. SUBSTITUTIVIDADE DE REVISÃO CRIMINAL. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. INSTRUÇÃO DEFICIENTE. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE FLAGRANTE NÃO CONFIGURADA.
+Petição inicial indeferida liminarmente.
