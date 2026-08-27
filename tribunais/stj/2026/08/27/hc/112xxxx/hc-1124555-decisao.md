@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de POLIANA ALVES DA SILVA PEREIRA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em decorrência do julgamento do habeas corpus criminal n. 2147493-39.2026.8.26.0000.
+Consta nos autos que a prisão em flagrante, em desfavor da paciente, foi convertida em preventiva pelo Juízo da Vara Regional das Garantias da 2ª RAJ Araçatuba, com fundamento na garantia da ordem pública, em razão da apreensão de 56,25 g de cocaína, balança de precisão e faca, além da reincidência específica da paciente.
+O Tribunal de Justiça do Estado de São Paulo denegou a ordem no habeas corpus (fls. 41-49).
+Na presente impetração, busca-se a concessão da ordem para: (i) reconhecer a ausência de fundamentação idônea do decreto preventivo, com a consequente revogação da prisão cautelar e concessão de liberdade provisória; e (ii) subsidiariamente, substituir a prisão por medidas cautelares diversas.
+É o relatório. DECIDO.
+A análise da decisão que decretou a prisão preventiva permite a conclusão de que a prisão cautelar imposta à paciente encontra-se devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerado o fundado receio de reiteração criminosa, uma vez que a acusada é reincidente (fl. 32), circunstâncias aptas a justificar a segregação cautelar.
+Sobre o tema: "Consoante sedimentado em farta jurisprudência desta Corte Superior, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitara reiteração delitiva e, assim, garantir a ordem pública" (AgRg no HC n. 884.146/PE, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 26/6/2024).
+Nesse sentido: AgRg no HC n. 880.186/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 26/6/2024; AgRg no HC n. 895.229/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), julgado em 17/6/2024, DJe de 21/6/2024; RHC n. 198.399/CE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 21/6/2024 e AgRg no HC n. 908.662/TO, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 20/6/2024 e AgRg no RHC n. 190.541/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 11/12/2023.
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, denego o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
