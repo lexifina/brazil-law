@@ -1,0 +1,835 @@
+Poder Judiciário
+Justiça do Trabalho
+${SVNOMEORGAO}
+PROCESSO Nº TST-EDCiv-Ag-AIRR - 1827-76.2017.5.09.0195
+A C Ó R D Ã O
+7ª Turma
+GMMRC/bc/
+EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM
+AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA
+OPOSTOS PELO RECLAMANTE. TRANSCENDÊNCIA JURÍDICA
+RECONHECIDA. APLICAÇÃO DO ÓBICE DA SÚMULA N.º 333 DO
+TST. SUSPENSÃO DO FEITO. TEMA AFETADO. IRR 199 DO TST.
+PRONUNCIAMENTO EXPRESSO QUANTO AOS SUBSTITUÍDOS
+NÃO ADERENTES À ESU/2008. CONTRADIÇÃO. VÍCIOS NÃO
+CONSTATADOS. DESPROVIMENTO.
+Não constatada omissão, contradição, obscuridade ou erro
+material no julgado, nos termos dos artigos 897-A da CLT e 1.022
+do CPC, impõe-se negar provimento aos embargos de
+declaração.
+Embargos de declaração conhecidos e desprovidos.
+Vistos, relatados e discutidos estes autos de Embargos de Declaração Cível em
+Agravo em Agravo de Instrumento em Recurso de Revista nº TST-EDCiv-Ag-AIRR - 1827-
+76.2017.5.09.0195, em que é Embargante SINDICATO DOS EMPREGADOS EM ESTABELECIMENTOS
+BANCÁRIOS DE CASCAVEL e é Embargado(a) CAIXA ECONÔMICA FEDERAL - CEF.
+Trata-se de embargos de declaração opostos contra acórdão prolatado por esta 7ª
+Turma que negou provimento ao agravo interno.
+Os autos foram redistribuídos a esta Relatora em 02/06/2026.
+É o relatório.
+V O T O
+CONHECIMENTO
+Atendidos os pressupostos legais de admissibilidade, conheço os embargos de
+declaração.
+MÉRITO
+TRANSCENDÊNCIA JURÍDICA RECONHECIDA. APLICAÇÃO DO ÓBICE DA SÚMULA
+N.º 333 DO TST. CONTRADIÇÃO.
+SUSPENSÃO DO FEITO. TEMA AFETADO. IRR 199 DO TST
+PRONUNCIAMENTO EXPRESSO QUANTO AOS SUBSTITUÍDOS NÃO ADERENTES À
+ESU/2008
+Afirma a parte embargante que há contradição no julgado em relação ao
+reconhecimento da transcendência jurídica em razão o Tema n.° 199 do Incidente de Recursos de
+Revista Repetitivos do TST e o simultâneo julgamento do feito, sem aguardar a definição da tese
+vinculante.
+Alega que o IRR n.° 199 desta Corte Superior encontra-se em fase instrutória, que
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067DAA05664D47A5.
+busca evitar julgados divergentes diante da mesma controvérsia, garantindo isonomia e segurança
+jurídica, requerendo o sobrestamento do feito.
+Aduz que configura contradição o reconhecimento da transcendência jurídica da
+causa em razão de tese afetada em IRR, que pressupõe relevância e controvérsia, e aplicar como
+fundamento de desprovimento a Súmula n.° 333 do TST, que pressupõe que a matéria seja pacífica.
+E, por fim, sustenta que há contradição no acórdão, pois o julgado pressupõe que
+a petição inicial individualizou todos os substituídos e afirmou a adesão de todos eles, quando, em
+verdade, a ação coletiva, por definição, não demanda tal individualização prévia.
+Os embargos de declaração têm por objetivo sanar omissão, contradição e/ou
+obscuridade no julgado, além de corrigir erro material, como estabelecem os artigos 897-A da CLT e
+1.022 do Código de Processo Civil.
+O acórdão embargado foi assim exarado, (evento n.° 37), (destaques acrescidos):
+A C Ó R D Ã O
+7ª Turma
+GDCJPC/bc/jp
+AGRAVO. AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. LEI Nº 13.467/2017.
+PRELIMINAR DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÕES NÃO
+CONFIGURADAS. DESPROVIMENTO.
+1. Nega-se provimento ao agravo que não consegue desconstituir os fundamentos
+da decisão recorrida, a qual concluiu pela inexistência de negativa de prestação
+jurisdicional, pois o Tribunal Regional examinou de forma fundamentada todas as
+questões relevantes ao deslinde da controvérsia, ainda que em sentido diverso do
+pretendido pela parte.
+2 . No caso, ali se analisaram, expressamente, dentro dos limites da lide, as
+teses referentes aos trabalhadores substituídos que não aderiram à Estrutura
+Salarial Unificada de 2008 - ESU/2008, que pertencem ao Plano Reg/Replan Não
+Saldado e quanto à defasagem salarial em relação ao plano vigente.
+Agravo conhecido e desprovido.
+DIFERENÇAS SALARIAIS. ADESÃO DOS SUBSTITUÍDOS À ESTRUTURA SALARIAL
+UNIFICADA DE 2008 - ESU/2008. RENÚNCIA. QUITAÇÃO. TRANSCENDÊNCIA JURÍDICA
+RECONHECIDA. IRR 199 DO TST. DESPROVIMENTO.
+1. Considerando que a matéria controvertida está submetida ao rito dos
+Incidentes de Recursos Repetitivos (Tema nº 199 da Tabela de IRR), ainda pendente de
+julgamento no âmbito desta Corte Superior, revela-se adequado o reconhecimento da
+transcendência jurídica da causa.
+2. No mérito, verifica-se que o acórdão regional está em conformidade com o
+entendimento consolidado desta 7ª Turma, em harmonia com a jurisprudência
+predominante do TST, no sentido de que a adesão espontânea, sem vício de
+consentimento e mediante indenização, à Estrutura Salarial Unificada de 2008 -
+ESU/2008, representando transação válida, importa em renúncia aos benefícios
+previstos nos planos de cargos e salários anteriores, inclusive diferenças salarias
+relativas a vantagens pessoais. Há precedentes nesse sentido.
+Agravo conhecido e desprovido.
+Vistos, relatados e discutidos estes autos de Agravo em Agravo de Instrumento em Recurso de
+Revista nº TST- Ag-AIRR - 1827-76.2017.5.09.0195 , em que é Agravante(s) SINDICATO DOS
+EMPREGADOS EM ESTABELECIMENTOS BANCÁRIOS DE CASCAVEL e é Agravado(s) CAIXA ECONÔMICA
+FEDERAL - CEF .
+Trata-se de agravo interposto contra decisão monocrática proferida pelo Desembargador
+Convocado Relator José Pedro De Camargo Rodrigues De Souza, mediante a qual se negou
+provimento ao agravo de instrumento.
+Contrarrazões apresentadas.
+É o relatório.
+V O T O
+CONHECIMENTO
+Presentes seus pressupostos objetivos e subjetivos, conheço do agravo.
+MÉRITO
+Eis o teor da decisão agravada (destaques acrescidos):
+D E C I S Ã O
+RELATÓRIO
+Trata-se de Agravo de Instrumento interposto em face de despacho por meio do
+qual o Tribunal Regional denegou seguimento ao Recurso de Revista.
+Foram apresentadas contrarrazões e contraminuta.
+Desnecessária a remessa dos autos ao d. Ministério Público do Trabalho.
+É o relatório.
+CONHECIMENTO
+O agravo de instrumento é tempestivo e está regular a representação.
+MÉRITO
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067DAA05664D47A5.
+O despacho que denegou seguimento ao recurso de revista interposto pelo ora
+agravante, traz os seguintes fundamentos:
+RECURSO DE: SINDICATO DOS EMPREGADOS EM ESTAB BANCARIOS DE
+CASCAVEL
+O Sindicato Autor interpôs Recurso de Revista (Id 0c0b9f3) em face do
+Acórdão de Id 5bfe658. Esta Vice-Presidência, na decisão de Id 3952dd5, recebeu o
+recurso quanto ao tema "Prescrição / Alteração Contratual" e denegou seguimento
+quanto ao tema "Contrato Individual de Trabalho / Alteração Contratual ou das
+Condições de Trabalho". Foi interposto Agravo de Instrumento pela parte
+Recorrente (Id 8f3fd0e).
+Encaminhados os autos ao TST, o Ministro Relator negou provimento ao
+Agravo de Instrumento. Ao Recurso de Revista, deu provimento para "declarar a
+prescrição parcial quinquenal e determinar o retorno dos autos ao Tribunal
+Regional para julgamento do feito, como entender de direito" (Id 9f9c870).
+Com o retorno dos autos, a Turma julgadora proferiu o Acórdão de Id
+36df724, negando provimento ao Recurso Ordinário do Autor.
+A parte Reclamante, então, interpôs novo Recurso de Revista, sob o Id
+9ccf09c.
+Passo ao exame.
+PRESSUPOSTOS EXTRÍNSECOS
+Recurso tempestivo (decisão publicada em 04/06/2024 - Id c6ddcb2; recurso
+apresentado em 14/06/2024 - Id 9ccf09c).
+Representação processual regular (Id 9d92faf, 9dc749e).
+Preparo dispensado (Id 18731eb).
+PRESSUPOSTOS INTRÍNSECOS
+TRANSCENDÊNCIA
+Nos termos do artigo 896-A, § 6º, da Consolidação das Leis do Trabalho, cabe
+ao Tribunal Superior do Trabalho analisar se a causa oferece transcendência em
+relação aos reflexos gerais de natureza econômica, política, social ou jurídica.
+DIREITO PROCESSUAL CIVIL E DO TRABALHO (8826) / ATOS PROCESSUAIS
+(8893) / NULIDADE (8919) / NEGATIVA DE PRESTAÇÃO JURISDICIONAL
+Alegação(ões):
+- violação da(o) inciso II do artigo 818 da Consolidação das Leis do Trabalho;
+artigos 832 e 897-A da Consolidação das Leis do Trabalho; artigo 843 do Código
+Civil; inciso IV do §1º do artigo 489 do Código de Processo Civil de 2015.
+O Recorrente pede que seja declarada nulidade processual por negativa de
+prestação jurisdicional. Afirma que houve omissão no Acórdão quanto ao direito
+dos substituídos que não aderiram à Estrutura Salarial Unificada de 2008 às
+diferenças pleiteadas. Alega, ainda, que a Turma não esclareceu a "questão
+atinente as diferenças do salário padrão, que se referem ao atual plano de cargos
+e salários e não se relaciona com os planos primitivos".
+Fundamentos do acórdão recorrido:
+"(¿) Conforme pontuado no relatório supra, o C. TST deu provimento ao
+recurso de revista interposto pelo Sindicato Autor para afastar a incidência da
+prescrição total. Dessa forma, declarou "a prescrição parcial quinquenal e
+determinar o retorno dos autos ao Tribunal Regional para julgamento do feito,
+como entender de direito" (destacou-se; fl. 1864). Portanto, considerando que a
+presente demanda foi ajuizada em 08/11/2017 (fl. 2), estão prescritas as
+pretensões exigíveis antes de 08/11/2012.
+Estando a causa madura para o julgamento (houve a produção de prova oral
+e documental), aplica-se ao caso o disposto no art. 1.013, § 3º, do CPC, razão pela
+qual os pedidos da petição inicial serão analisados. Nesse sentido, cabe esclarecer
+que a presente demanda possui como objeto principal as vantagens pessoais que
+eram pagas sob a rubrica 2092 (ou somente 092 -gratificação de incentivo à
+produção) e sob a rubrica 2062 (ou somente 062 - gratificação por tempo de
+serviço), com base no RH 115.
+O Sindicato afirma que houve alteração ilícita na base de cálculo de tais
+vantagens pessoais (rubricas 2092 e 2062): "A Empresa reclamada, simplesmente,
+alterou o nome da função de confiança para cargo comissionado, deixando de
+somar o valor da função/cargo no cálculo das rubricas de vantagens pessoais e
+demais parcelas recebidas em razão do exercício de FG /CC/FC" (fl. 8; destacou-se
+e grifou-se). Frise-se que o Sindicato Autor não indica de forma precisa a data em
+que teriam ocorrido tais modificações. Todavia, utiliza como exemplo holerites de
+novembro de 2005 e de junho de 2006 para provar a alteração ilícita (fls. 9/10).
+Posteriormente, o Sindicato reconhece que, com a adesão dos substituídos
+à ESU 2008, as vantagens pessoais (rubricas 2092 e 2062) foram incorporadas ao
+salário padrão, pelo que até hoje existiriam diferenças a serem pagas: "Destaca-se
+ainda, que em 2008, a Reclamada promoveu uma nova estrutura salarial,
+denominada ESU2008 e, a partir da adesão dos empregados/substituídos à esta
+nova estrutura salarial, os pagamentos referentes às vantagens pessoais (Rubricas
+062 e 092), foram incorporados aos valores ao salário padrão, de modo que as
+diferenças salariais persistem até o presente momento" (destacou-se e grifou-se; Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067DAA05664D47A5.
+fl. 10).
+Dessa forma, é fato incontroverso nos autos (art. 374, III, CPC) que os
+substituídos ora representados pelo Sindicato Autor aderiram à Estrutura Salarial
+Unificada de 2008 (ESU/2008) e, dessa forma, receberam uma indenização no mês
+de julho de 2008 sob a rubrica "IND ADESÃO ESTRUTURA SALARIA" (fl. 149).
+Registre-se que não há qualquer alegação da existência de vício de consentimento
+acerca da adesão à ESU/2008.
+Assim, revendo posicionamento anterior, a adesão dos trabalhadores
+substituídos à ESU/2008 consiste em renúncia a eventuais direitos e benefícios
+previstos em planos de cargos e salários anteriores, nos termos da Súmula nº 51,
+II, do C. TST: "Havendo a coexistência de dois regulamentos da empresa, a opção
+do empregado por um deles tem efeito jurídico de renúncia às regras do sistema
+do outro" (destacou-se). Portanto, não há como acolher a pretensão do
+Recorrente, pois este próprio reconhece na petição inicial que as diferenças ora
+postuladas, com fundamento no RH 115, foram objeto de modificação a partir da
+adesão à ESU/2008.
+(¿)
+Cabe destacar que, embora haja precedentes do C. TST deferindo as
+diferenças ora postuladas, isto se dá em razão da ausência de prova da adesão do
+trabalhador à ESU/2008:
+(¿)
+Isto posto, considerando que, na presente hipótese, o Sindicato Autor
+reconhece na petição inicial que os substituídos aderiram à ESU/2008 (art. 374, III,
+CPC), inexistindo alegação de vício de consentimento, não há como acolher sua
+irresignação para condenar a Reclamada ao pagamento das diferenças
+postuladas.
+Nada a prover." (destaquei)
+Fundamentos da decisão de embargos de declaração:
+"(¿) DEFASAGEM NO SALÁRIO PADRÃO O Embargante aduz que "se ficou
+demonstrado que o valor do "Salário Padrão" do Novo Plano de Cargos e Salários
+(denominado ESU/2008), encontra-se defasado e, portanto, que as diferenças
+salariais a serem pagas se referem, efetivamente, ao atual plano de cargos e
+salários, aparentemente, se mostra contraditória a fundamentação adotada no v.
+acórdão, pois afirma que o direito postulado se refere a planos anteriores, que
+foram revogados/transacionados" (fl. 1895).
+Postula, ainda, "o pronunciamento específico sobre a comprovação
+documental contida nos autos, que demonstra a redução do salário padrão, após
+a data de adesão dos empregados/substituídos que migraram para o ESU /2008, e
+demonstram, nos termos da iterativa jurisprudência do C. TST, a procedência do
+pedido formulado na presente ação coletiva" (fl. 1898).
+Não há vício a ser sanado.
+Conforme reconhece o Sindicato Autor em suas razões de embargos, o
+parâmetro utilizado para alegar a existência de diferenças são as rubricas 2062 e
+2092, as quais foram incorporadas ao salário padrão posteriormente à adesão dos
+substituídos à ESU/2008 (nova regulamento interno da Reclamada). Portanto,
+diversamente que aduz o Embargante, as diferenças em questão possuem como
+fundamento os montantes pagos no PCS anterior - e não posteriormente à adesão
+ao novo PCS em julho de 2008.
+Esclarece-se que a contradição passível de correção pela via dos embargos
+de declaração é aquela existente entre a fundamentação e seus tópicos ou a
+conclusão do próprio acórdão, ocasionando vício de incoerência interna, não
+entre as conclusões da decisão e o entendimento defendido pela parte. Dessa
+forma, não é possível acolher a pretensão do Autor para, em sede de embargos de
+declaração, reanalisar os fundamentos de decidir a fim alterar a conclusão obtida
+por esta C. 5ª Turma, à luz do que dispõe o art. 1.022 do CPC e o art. 897-A, da CLT.
+Quanto ao pedido de "pronunciamento específico", verifica-se também se
+tratar de entendimento defendido pelo Autor - e não de vício no v. acórdão, pois
+pretende que seja consignado que as diferenças salariais "demonstram, nos
+termos da iterativa jurisprudência do C. TST, a procedência do pedido formulado
+na presente ação coletiva" (destacou-se; fl. 1898). Ademais, o Sindicato não
+indicou, em sede de embargos, precisamente quais documentos comprovariam as
+diferenças em questão (e demandariam o pronunciamento específico), não
+havendo como acolher sua pretensão genérica de que houve "comprovação
+documental (...) nos autos" acerca de tais diferenças.
+Rejeitam-se.
+ADESÃO À ESU/2008
+O Sindicato Autor alega que "a presente ação se trata de demanda Coletiva
+proposta por entidade sindical e, de acordo com a documentação acostada nos
+autos, inexiste comprovação de adesão de todos os substituídos da entidade
+reclamante, ao referido plano de cargos e salários, de modo que aparentemente, a
+empresa reclamada não se desincumbiu de seu intento probatório" (fl. 1899).
+Aduz, ainda, que "o TST entende que a renúncia de direitos imposta pelo ESU 2008
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067DAA05664D47A5.
+constitui afronta aos incisos XXXV e XXXVI, do art. 5º da Constituição Federal" (fl.
+1903).
+Não há vício a ser sanado.
+Conforme consignado no v. acórdão, diante da própria narrativa da petição
+inicial (arts. 141 e 492, CPC), tratase de fato incontroverso (art. 374, III, CPC) que os
+substituídos ora representados pelo Sindicato Autor aderiram à Estrutura Salarial
+Unificada de 2008 (ESU/2008) e, dessa forma, receberam uma indenização no mês
+de julho de 2008 sob a rubrica "IND ADESÃO ESTRUTURA SALARIA".
+Nesse sentido, constou da petição inicial o seguinte:
+"Com efeito, de acordo com o que dispõem os itens 7 e 8 da CI VIPES/SURSE
+024/08 (que tratou do novo PCS e forma de migração, NA FORMA ESTABELECIDA
+NO ACORDO COLETIVO DE TRABALHO 2007-2008), a adesão à nova estrutura
+salarial implica na transação e quitação de eventuais direitos que tenham por
+objeto a discussão em torno do Plano de Cargos e Salários - PCS.
+(...)
+Em decorrência da adesão, tendo em vista a quitação dos eventuais direitos
+referentes ao PCS, foi pago aos empregados valor de caráter indenizatório a título
+de quitação desses pretendidos direitos, conforme dispõe a supracitada CI
+VIPES/SURSE 024/08: (...)
+Assim, os substituídos receberam o valor da parcela indenizatória no valor
+de até R$10.000,00, conforme demonstra, exemplificativamente, o relatório FINA C
+do empregado Marcos Lombardi Carrasco, referência 07/2008 (rubrica 203 -
+Indenização Adesão Estrutura Salarial - R$5.760.16) que foi enquadrado na nova
+estrutura salarial." (destacou-se e grifou-se; petição inicial de fls. 187/149)
+Ademais, nos termos decididos por esta C. 5ª Turma, "não há qualquer
+alegação da existência de vício de consentimento acerca da adesão à ESU/2008" (v.
+acórdão de fl. 1884). Quanto à afirmação de que "o TST entende que a renúncia de
+direitos imposta pelo ESU 2008 constitui afronta aos incisos XXXV e XXXVI, do art.
+5º da Constituição Federal" (fl. 1903), trata-se, mais uma vez, de entendimento
+defendido pelo Reclamante, e não de vício no v. acórdão.
+Rejeitam-se.
+PLANO REG/REPLAN
+O Embargante alega que, "embora haja menção na petição inicial acerca da
+adesão dos empregados a Nova Estrutura Salarial - ESU/2008, informando que a
+lesão se perpetua no tempo, em decorrência do valor diminuto a título de salário
+padrão, tal informação não pode ser considerada válida em relação a todos os
+substituídos, pois, como dito linhas acima, a presente ação tem cunho coletivo e
+não há como considerar especificamente a situação de determinado substituído
+que ainda não se encontra delimitado" (fl. 1906).
+Afirma que "para os empregados que não aderiram ao ESU/2008,
+normalmente pertencentes ao Plano Reg /Replan Não Saldado (Reg/Replan), as
+Rubricas 2062 e 2092 continuam a ser pagas nos contracheques e, portanto,
+devem ter como base de cálculo o valor da Função de Confiança/Cargo
+Comissionado/Gratificação de Função" (fl. 1907). Sustenta, assim que "se faz
+necessário o pronunciamento específico com relação aos substituídos que não
+aderiram a Estrutura Salarial Unificada, no ano de 2008, atribuindo-se efeitos
+infringentes para condenar a reclamada ao pagamento das diferenças salariais
+devidas e aos reflexos legais, tudo acrescido de juros e correção monetária" (fl.
+1907).
+Não há vício a ser sanado.
+Nos termos acima esclarecidos, a matéria foi analisada considerando os
+limites da petição inicial, à luz do disposto nos arts. 141 e 492 do CPC. Desse
+modo, uma vez que o Sindicato Autor afirmou expressamente na petição inicial
+que os substituídos ora representados aderiram à ESU/2008, não há como acolher
+sua pretensão para, em sede de embargos de declaração, ampliar o alcance
+subjetivo da lide, sob pena de supressão de instância e violação dos princípios da
+adstrição, contraditório, ampla defesa e devido processo legal (art. 5º, XXXV, LIV,
+LV, CRFB c /c arts. 1º, 7º, 8º, 141 e 492 CPC).
+Rejeitam-se." (destaquei)
+Confrontando-se os argumentos expendidos no recurso com os
+fundamentos do acórdão recorrido, constata-se que a matéria devolvida à
+apreciação no recurso foi enfrentada no julgamento. Houve pronunciamento
+expresso e específico do Colegiado a respeito, e foram indicados os fundamentos
+de fato e de direito que ampararam seu convencimento jurídico. Não se vislumbra
+possível negativa de entrega da prestação jurisdicional.
+Denego.
+DIREITO INDIVIDUAL DO TRABALHO (12936) / CONTRATO INDIVIDUAL DE
+TRABALHO (13707) / ALTERAÇÃO CONTRATUAL OU DAS CONDIÇÕES DE TRABALHO
+Alegação(ões):
+- contrariedade à(ao): item I da Súmula nº 51 do Tribunal Superior do
+Trabalho.
+- violação do(s) incisos XXXV e XXXVI do artigo 5º; inciso VI do artigo 7º; inciso
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067DAA05664D47A5.
+III do artigo 8º da Constituição Federal.
+- violação da(o) artigo 9º da Consolidação das Leis do Trabalho; caput do
+artigo 444 da Consolidação das Leis do Trabalho; caput do artigo 468 da
+Consolidação das Leis do Trabalho; inciso II do artigo 818 da Consolidação das Leis
+do Trabalho; §1º do artigo 6º da Lei de Introdução às Normas do Direito Brasileiro
+(antiga LICC); artigos 421, 422, 423, 424, 478 e 843 do Código Civil.
+- divergência jurisprudencial.
+O Recorrente pleiteia a reforma do v. Acórdão para que seja deferido o
+pedido de condenação do Réu ao pagamento, aos substituídos, de diferenças a
+título de vantagens pessoais, correspondentes às rubricas 2062 (VP-GIPTEMPO
+SERVIÇO) e 2092 (VP-GIP/SEM SALARIO + FUNÇAO), pela integração na sua base de
+cálculo, de todas as parcelas que remuneram a gratificação de função. Sustenta
+que a migração à nova estrutura salarial não importa em renúncia aos direitos
+adquiridos vinculados ao antigo plano.Aponta que não houve comprovação de
+adesão de todos os substituídos ao referido plano de cargos e salários, ônus que
+cabia ao Reclamado. Alega que, para os empregados que aderiram ao ESU/2008,
+tais rubricas foram incorporadas de forma defasada ao salário padrão, e, em
+relação aos substituídos que não aderiram ao referido plano de cargos e salários,
+as diferenças salariais persistem até os dias atuais, já que recebem as Rubricas
+2062 e 2092, em seus contracheques mensais.
+Por brevidade, reporto-me à transcrição do acórdão realizada no item
+anterior deste despacho.
+A SDI-1 do Tribunal Superior do Trabalho firmou a diretriz de que "a adesão
+espontânea do reclamante, sem notícia de vícios de vontade ou coação, à nova
+Estrutura Salarial Unificada de 2008 da Caixa Econômica Federal - ESU/2008
+implica renúncia aos direitos e benefícios previstos nos planos de cargos
+anteriores, e, no caso, ao recálculo das vantagens pessoais 062 e 092 pela inclusão
+da gratificação de função (cargo comissionado e CTVA), nos termos da Súmula 51,
+II, do TST":
+"RECURSO DE EMBARGOS EM EMBARGOS DE DECLARAÇÃO EM RECURSO DE
+REVISTA. RECURSO DE EMBARGOS INTERPOSTO SOB A VIGÊNCIA DA LEI
+13.015/2014. DIFERENÇAS SALARIAIS. RECÁLCULO DAS VANTAGENS PESSOAIS
+RUBRICAS 062 e 092. INCLUSÃO DAS PARCELAS CTVA E CARGO EM COMISSÃO.
+ADESÃO À NOVA ESTRUTURA SALARIAL UNIFICADA DE 2008 DA CAIXA ECONÔMICA
+FEDERAL - ESU/2008. INEXISTÊNCIA DE VÍCIOS DE CONSENTIMENTO. VALIDADE.
+SÚMULA 51, II, DO TST. Consoante jurisprudência firmada nesta Subseção, a
+adesão espontânea do reclamante, sem notícia de vícios de vontade ou coação, à
+nova Estrutura Salarial Unificada de 2008 da Caixa Econômica Federal - ESU/2008
+implica renúncia aos direitos e benefícios previstos nos planos de cargos
+anteriores, e, no caso, ao recálculo das vantagens pessoais 062 e 092 pela inclusão
+da gratificação de função (cargo comissionado e CTVA), nos termos da Súmula 51,
+II, do TST, a qual estabelece que, havendo a coexistência de dois regulamentos na
+empresa, a opção do empregado por um deles tem efeito jurídico de renúncia às
+regras do sistema do outro, sendo indevido o pleito de eventuais direitos previstos
+no plano anterior, ao qual a parte deu quitação mediante transação válida. A
+decisão embargada não desafia, portanto, recurso de embargos, nos termos do
+artigo 894, § 2º, da CLT, porque assentada na atual, iterativa e notória
+jurisprudência desta Corte. Recurso de embargos não conhecido." (E-ED-RR-177-
+86.2015.5.06.0311, Subseção I Especializada em Dissídios Individuais, Relator
+Ministro Breno Medeiros, DEJT 11/09/2020).
+"AGRAVO INTERNO EM EMBARGOS EM AGRAVO EM RECURSO DE REVISTA
+COM AGRAVO. INTERPOSIÇÃO NA VIGÊNCIA DA LEI Nº 13.467/2017. CAIXA
+ECONÔMICA FEDERAL. RECÁLCULO DAS VANTAGENS PESSOAIS RUBRICAS 062 e
+092. INCLUSÃO DAS PARCELAS CTVA E CARGO EM COMISSÃO. ADESÃO À NOVA
+ESTRUTURA SALARIAL UNIFICADA (ESU). INEXISTÊNCIA DE VÍCIO DE
+CONSENTIMENTO. RENÚNCIA ÀS VANTAGENS DO REGULAMENTO ANTERIOR.
+TRANSAÇÃO. VALIDADE. A Egrégia Turma decidiu consoante jurisprudência
+pacificada desta Corte, no sentido de que, na linha da diretriz preconizada na
+Súmula nº 51, II, do TST, a adesão espontânea do empregado da CEF à nova
+Estrutura Salarial Unificada de 2008 (ESU/2008), sem vícios de consentimento e
+mediante recebimento de parcela compensatória, implica renúncia a eventuais
+direitos e benefícios previstos em planos de cargos e salários anteriores, a
+exemplo do pedido de diferenças de vantagens pessoais decorrentes da não
+integração do valor do cargo em comissão na base de cálculo das vantagens
+pessoais (códigos 2062 e 2092). Precedentes. Incide, portanto, o disposto no artigo
+894, § 2º, da CLT. Correta a aplicação do referido óbice, mantém-se o decidido.
+Verificada, por conseguinte, a manifesta improcedência do presente agravo, em
+razão da interposição de recurso contra matéria pacificada no âmbito deste órgão
+uniformizador da jurisprudência interna corporis, aplica-se a multa prevista no
+artigo 1.021, § 4º, do Código de Processo Civil. Agravo interno conhecido e não
+provido." (Ag-E-Ag-RRAg-11981- 07.2017.5.18.0001, Subseção I Especializada em
+Dissídios Individuais, Relator Ministro Claudio Mascarenhas Brandao, DEJT 22
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067DAA05664D47A5.
+/09/2023).
+Verifica-se que a decisão do Colegiado ("a adesão dos trabalhadores
+substituídos à ESU/2008 consiste em renúncia a eventuais direitos e benefícios
+previstos em planos de cargos e salários anteriores, nos termos da Súmula nº 51,
+II, do C. TST (¿) considerando que, na presente hipótese, o Sindicato Autor
+reconhece na petição inicial que os substituídos aderiram à ESU/2008 (art. 374, III,
+CPC), inexistindo alegação de vício de consentimento, não há como acolher sua
+irresignação para condenar a Reclamada ao pagamento das diferenças
+postuladas"), está em consonância com a iterativa, notória e atual posição do TST
+acerca do tema. Diante disso, é inviável o processamento do Recurso de Revista
+por contrariedade a texto de súmula, violação aos dispositivos legais e
+constitucionais apontados, ou divergência jurisprudencial (Súmula 333 do TST).
+Ainda, considerando os fundamentos delineados pela Turma, de que "a
+matéria foi analisada considerando os limites da petição inicial, à luz do disposto
+nos arts. 141 e 492 do CPC (¿), uma vez que o Sindicato Autor afirmou
+expressamente na petição inicial que os substituídos ora representados aderiram
+à ESU/2008"; que "diante da própria narrativa da petição inicial (arts. 141 e 492,
+CPC), trata-se de fato incontroverso (art. 374, III, CPC) que os substituídos ora
+representados pelo Sindicato Autor aderiram à Estrutura Salarial Unificada de
+2008 (ESU/2008)"; e que "o parâmetro utilizado para alegar a existência de
+diferenças são as rubricas 2062 e 2092, as quais foram incorporadas ao salário
+padrão posteriormente à adesão dos substituídos à ESU /2008 (¿). Portanto, (¿) as
+diferenças em questão possuem como fundamento os montantes pagos no PCS
+anterior - e não posteriormente à adesão ao novo PCS em julho de 2008", não se
+vislumbra potencial violação literal a dispositivos da legislação federal, nem ofensa
+direta e literal aos artigos da Constituição Federal apontados, tampouco
+contrariedade a texto de súmula ou divergência entre julgados (Súmula 296, I
+/TST).
+Denego.
+CONCLUSÃO
+Denego seguimento.
+Sustenta a parte agravante que seu recurso de revista merece processamento,
+porque satisfeitos os requisitos de admissibilidade previstos no art. 896 da CLT.
+Quanto ao tema "nulidade por negativa de prestação jurisdicional", argui violação
+do art. 832 da CLT e art. 489, §1º, IV, do CPC, transcreveu os trechos dos embargos de
+declaração opostos e do acórdão regional que julgou os mesmos, assim, cumpre os
+requisitos exigidos no art. 896, § 1º-A, IV, da CLT.
+A parte recorrente alega três situações em que entende que houve omissão no
+julgado, quais sejam: - quanto à análise das diferenças salariais dos trabalhadores
+substituídos que não aderiram à Estrutura Salarial Unificada de 2008 - ESU/2008; -
+quanto ao argumento de que o presente feito é uma ação coletiva inexistindo
+comprovação de adesão de todos os substituídos à ESU/2008, normalmente
+pertencentes ao Plano Reg/Replan Não Soldado; e - quanto à defasagem do salário
+padrão que se referem ao plano vigente.
+A alegação de omissão inexiste eis que constou no acórdão regional que julgou os
+embargos de declaração que "Não há vício a ser sanado. Conforme consignado no v.
+acórdão, diante da própria narrativa da petição inicial (arts. 141 e 492, CPC), trata-se de
+fato incontroverso (art. 374, III, CPC) que os substituídos ora representados pelo
+Sindicato Autor aderiram à Estrutura Salarial Unificada de 2008 (ESU/2008) e, dessa
+forma, receberam uma indenização no mês de julho de 2008 sob a rubrica "IND ADESÃO
+ESTRUTURA SALARIA"."
+O acórdão do eg. Tribunal Regional do Trabalho, em que julgou os embargos de
+declaração ainda consignou que "Nos termos acima esclarecidos, a matéria foi analisada
+considerando os limites da petição inicial, à luz do disposto nos arts. 141 e 492 do CPC.
+Desse modo, uma vez que o Sindicato Autor afirmou expressamente na petição inicial
+que os substituídos ora representados aderiram à ESU/2008, não há como acolher sua
+pretensão para, em sede de embargos de declaração, ampliar o alcance subjetivo da
+lide, sob pena de supressão de instância e violação dos princípios da adstrição,
+contraditório, ampla defesa e devido processo legal (art. 5º, XXXV, LIV, LV, CRFB c/c arts.
+1º, 7º, 8º, 141 e 492 CPC)." e que "Não há vício a ser sanado. Conforme reconhece o
+Sindicato Autor em suas razões de embargos, o parâmetro utilizado para alegar a
+existência de diferenças são as rubricas 2062 e 2092, as quais foram incorporadas ao
+salário padrão posteriormente à adesão dos substituídos à ESU/2008 (nova regulamento
+interno da Reclamada). Portanto, diversamente que aduz o Embargante, as diferenças
+em questão possuem como fundamento os montantes pagos no PCS anterior - e não
+posteriormente à adesão ao novo PCS em julho de 2008.".
+Portanto, verifica-se que houve manifestação explícita quanto às alegações, com a
+devida prestação jurisdicional.
+Quanto ao tema "diferenças salariais - alteração contratual", a parte agravante
+alega violação aos arts. 5º, XXXV e XXXVI, da Constituição Federal, arts. 9º, 444 e 468, da
+CLT, arts. 421 ao 424, 478, 818, II e 843, do Código Civil, Súmula 51, I, do TST. Aduz que
+são devidas diferenças salariais, em razão da modificação na base de cálculo de
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067DAA05664D47A5.
+vantagens pessoais de rubricas 2062 (gratificação de tempo de serviço) e 2092
+(gratificação de incentivo à produtividade), sendo que com implantação da Estrutura
+Salarial Unificada de 2008, os empregados não tiveram o valor correto das vantagens
+pessoais integrados ao salário padrão. Arguiu que as cláusulas da Estrutura Salarial
+Unificada de 2008 ferem a dignidade do cidadão e que não houve transação de direitos.
+O acórdão regional consignou que "...é fato incontroverso nos autos (art. 374, III,
+CPC) que os substituídos ora representados pelo Sindicato Autor aderiram à Estrutura
+Salarial Unificada de 2008 (ESU/2008) e, dessa forma, receberam uma indenização no
+mês de julho de 2008 sob a rubrica "IND ADESÃO ESTRUTURA SALARIA" (fl. 149).Registre￾se que não há qualquer alegação da existência de vício de consentimento acerca da
+adesão à ESU/2008." e que "a adesão dos trabalhadores substituídos à ESU/2008
+consiste em renúncia a eventuais direitos e benefícios previstos em planos de cargos e
+salários anteriores, nos termos da Súmula nº 51, II, do C. TST: "Havendo a coexistência de
+dois regulamentos da empresa, a opção do empregado por um deles tem efeito jurídico
+de renúncia às regras do sistema do outro" (destacou-se). Portanto, não há como acolher
+a pretensão do Recorrente, pois este próprio reconhece na petição inicial que as
+diferenças ora postuladas, com fundamento no RH 115, foram objeto de modificação a
+partir da adesão à ESU/2008.".
+Verifica-se que o acórdão regional está em conformidade com a atual
+jurisprudência consolidada do TST, conforme os precedentes a seguir:
+(...). RECURSO DE REVISTA INTERPOSTO PELA PARTE RECLAMADA. ACÓRDÃO
+REGIONAL PUBLICADO NA VIGÊNCIA DA LEI Nº 13.467/2017. DIFERENÇAS DE
+SALÁRIO-PADRÃO A PARTIR DE JULHO DE 2008 ORIUNDAS DO RECÁLCULO DAS
+VANTAGENS PESSOAIS INCORPORADAS. ADESÃO À NOVA ESTRUTURA SALARIAL
+UNIFICADA DE 2008 DA CAIXA ECONÔMICA FEDERAL - ESU/2008. RECEBIMENTO DE
+INDENIZAÇÃO CORRESPONDENTE. FATOS INCONTROVERSOS. RENÚNCIA.
+QUITAÇÃO DE DIREITOS RELACIONADOS A PLANO ANTERIOR. TRANSCENDÊNCIA
+POLÍTICA. RECONHECIMENTO. CONHECIMENTO E PROVIMENTO. CONDENAÇÃO DA
+PARTE RECLAMADA EM HONORÁRIOS ADVOCATÍCIOS AFASTADA, EM RAZÃO DA
+INVERSÃO SUCUMBENCIAL. I . Inicialmente, cabe esclarecer que a adesão da parte
+reclamante à ESU/2008 e o recebimento da indenização correspondente são fatos
+incontroversos, afirmados em defesa e não refutados pelo autor; a parte
+reclamante, inclusive, admite, em contrarrazões, a referida adesão. II . Nesse
+cenário, sendo incontroverso o aspecto fático, a questão de direito relativa à
+renúncia/quitação operadas pela adesão do reclamante à ESU/2008 mostra-se
+fictamente prequestionada, nos termos da Súmula nº 297, III, do TST, de modo que
+é perfeitamente possível o exame completo da matéria nesta instância
+extraordinária. III . Esta Corte possui entendimento pacificado de que a adesão à
+Estrutura Salarial Unificada de 2008 (ESU/2008), instituída pela Caixa Econômica
+Federal, implica, nos termos da Súmula nº 51, II, do TST, em renúncia e, por
+consequência, em quitação de diferenças salariais relacionadas a planos de cargos
+e salários anteriores, inclusive nos casos de pretensão de diferenças relativas ao
+recálculo das vantagens pessoais e sua repercussão no salário-padrão. IV .
+Portanto, no presente caso, ao entender devidas as diferenças pleiteadas de
+salário-padrão oriundas do pleito, baseado no PCS de 1989, de recálculo das
+vantagens pessoais incorporadas, o Tribunal Regional proferiu decisão em
+contrariedade à jurisprudência sedimentada desta Corte, nos termos do item II da
+Súmula nº 51 do TST. Assim, atendidos os pressupostos de admissibilidade do
+recurso de revista, impõe-se seu provimento para julgar improcedentes os
+pedidos formulados na inicial. Em consequência, invertido o ônus sucumbencial,
+afasta-se a condenação da parte reclamada ao pagamento de honorários
+advocatícios. V . Recurso de revista de que se conhece e a que se dá provimento.
+Prejudicado o exame do tema "prescrição - reflexos das verbas deferidas no FGTS"
+do agravo de instrumento interposto pela parte reclamada. (RRAg-21303-
+03.2017.5.04.0531, 7ª Turma, Relator Ministro Evandro Pereira Valadao Lopes, DEJT
+05/09/2025).
+AGRAVO INTERPOSTO CONTRA DECISÃO DENEGATÓRIA DE SEGUIMENTO DE
+EMBARGOS PROFERIDA POR MINISTRO PRESIDENTE DE TURMA. CAIXA
+ECONÔMICA FEDERAL. ADESÃO À NOVA ESTRUTURA SALARIAL UNIFICADA -
+ESU/2008. TRANSAÇÃO. QUITAÇÃO. Na hipótese, a Eg. 1ª Turma asseverou que o
+Autor aderiu ao Plano de Cargos e Salários de 2008, sem vícios de consentimento,
+de forma a resultar em transação e quitação de direitos relativos ao PCS.
+Ressaltou que o pedido Autoral refere-se às diferenças de vantagens pessoais
+relacionadas ao PCS/89, e por conseguinte, vincula-se diretamente ao Plano de
+Cargos e Salários. Com efeito, esta SBDI-1 possui entendimento pacificado no
+sentido de que a adesão espontânea de empregado ao novo Plano de Cargos e
+Salários da Caixa Econômica Federal (Estrutura Salarial Unificada -ESU/2008), sem
+vícios de consentimento e mediante pagamento de parcela compensatória,
+configura transação válida e resulta em renúncia aos benefícios oriundos dos
+Planos de Cargos e Salários anteriores, nos termos da Súmula 51, II, do TST. Nesse
+contexto, a decisão proferida pela Turma não merece reparos, pois a divergência
+jurisprudencial trazida está superada pela iterativa e notória jurisprudência desta
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067DAA05664D47A5.
+Corte Superior, nos termos do art. 894, § 2º, da CLT. Precedentes. Agravo
+conhecido e não provido . (Ag-E-ED-Ag-ED-RR-354-55.2011.5.12.0042, Subseção I
+Especializada em Dissídios Individuais, Relator Ministro Alexandre Luiz Ramos,
+DEJT 27/09/2024).
+Neste contexto, incide o disposto na Súmula nº 333 desta Corte Superior c/c o art.
+896, §7º, da CLT.
+Estando a decisão recorrida em consonância com jurisprudência desta Corte
+Superior, afasta-se a transcendência econômica, política, jurídica ou social da causa,
+conforme previsto no art. 896-A, da CLT.
+Nego provimento.
+CONCLUSÃO
+Diante do exposto, conheço do Agravo de Instrumento e, no mérito, nego-lhe
+provimento.
+Nego provimento.
+PRELIMINAR DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÕES NÃO CONFIGURADAS.
+AUSÊNCIA DE TRANSCENDÊNCIA.
+Nas razões do agravo interno, a parte sustenta a existência de negativa de prestação
+jurisdicional, visto que o eg. TRT não se manifestou quanto aos empregados não aderentes à
+Estruturação Salarial Unificada/2008 e são pertencentes ao Plano Reg/Replan Não Saldado, sendo
+inaplicável os termos da Súmula n° 51 do TST a tais empregados. Aduz que não é fato incontroverso
+que todos os empregados substituídos tenham aderido à ESU/2008, pois sequer consta nos autos a
+listagem de todos os substituídos, por ser uma ação coletiva. Aduz que o Regional ignorou as suas
+argumentações, se limitando a descrever que o Sindicato reconheceu na petição inicial que todos os
+empregados aderiram à ESU/2008. Requer a manifestação sobre o ponto omisso, que resultou no
+não julgamento da matéria em favor dos sindicalizados pertencentes ao Plano Reg/Replan, ou seja,
+os que não aderiram à ESU/2008, bem como que não houve manifestação quanto à defasagem
+salarial desde antes da ESU/2008, que se demonstrou que o valor do "Salário Padrão" do Novo Plano
+de Cargos e Salários (denominado ESU/2008), está defasado. Indica violação dos arts. 5°, LV, 93, IX, da
+Constituição Federal e divergência jurisprudencial.
+Verifica-se que a decisão agravada negou provimento ao agravo de instrumento em recurso de
+revista quanto ao tema "negativa de prestação jurisdicional" por entender não configuradas as
+omissões na decisão recorrida.
+Com efeito, infere-se do acórdão regional que julgou os embargos de declaração que houve o
+devido enfrentamento da matéria controvertida, ante os seguintes fundamentos (destaques
+acrescidos):
+DEFASAGEM NO SALÁRIO PADRÃO
+(...)
+Conforme reconhece o Sindicato Autor em suas razões de embargos, o parâmetro
+utilizado para alegar a existência de diferenças são as rubricas 2062 e 2092, as quais
+foram incorporadas ao salário padrão posteriormente à adesão dos substituídos à
+ESU/2008 (nova regulamento interno da Reclamada). Portanto, diversamente que aduz o
+Embargante, as diferenças em questão possuem como fundamento os montantes pagos
+no PCS anterior - e não posteriormente à adesão ao novo PCS em julho de 2008.
+(...)
+Quanto ao pedido de "pronunciamento específico", verifica-se também se tratar
+de entendimento defendido pelo Autor - e não de vício no v. acórdão, pois pretende que
+seja consignado que as diferenças salariais "demonstram, nos termos da iterativa
+jurisprudência do C. TST, a procedência do pedido formulado na presente ação coletiva"
+(destacou-se; fl. 1898). Ademais, o Sindicato não indicou, em sede de embargos,
+precisamente quais documentos comprovariam as diferenças em questão (e
+demandariam o pronunciamento específico), não havendo como acolher sua pretensão
+genérica de que houve "comprovação documental (...) nos autos" acerca de tais
+diferenças.
+Rejeitam-se.
+ADESÃO À ESU/2008
+(...)
+Conforme consignado no v. acórdão, diante da própria narrativa da petição inicial
+(arts. 141 e 492, CPC), trata-se de fato incontroverso (art. 374, III, CPC) que os
+substituídos ora representados pelo Sindicato Autor aderiram à Estrutura Salarial
+Unificada de 2008 (ESU/2008) e, dessa forma, receberam uma indenização no mês de
+julho de 2008 sob a rubrica "IND ADESÃO ESTRUTURA SALARIA" .
+(...)
+Ademais, nos termos decididos por esta C. 5ª Turma, "não há qualquer alegação da
+existência de vício de consentimento acerca da adesão à ESU/2008" (v. acórdão de fl.
+1884) . Quanto à afirmação de que "o TST entende que a renúncia de direitos imposta
+pelo ESU 2008 constitui afronta aos incisos XXXV e XXXVI, do art. 5º da Constituição
+Federal" (fl. 1903), trata-se, mais uma vez, de entendimento defendido pelo Reclamante,
+e não de vício no v. acórdão.
+Rejeitam-se.
+PLANO REG/REPLAN
+(...)
+Nos termos acima esclarecidos, a matéria foi analisada considerando os limites da
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067DAA05664D47A5.
+petição inicial, à luz do disposto nos arts. 141 e 492 do CPC. Desse modo, uma vez que o
+Sindicato Autor afirmou expressamente na petição inicial que os substituídos ora
+representados aderiram à ESU/2008, não há como acolher sua pretensão para, em sede
+de embargos de declaração, ampliar o alcance subjetivo da lide , sob pena de supressão
+de instância e violação dos princípios da adstrição, contraditório, ampla defesa e devido
+processo legal (art. 5º, XXXV, LIV, LV, CRFB c/c arts. 1º, 7º, 8º, 141 e 492 CPC).
+Rejeitam-se.
+Claro, está, portanto, que o eg. TRT manifestou-se sobre todas as questões arguidas, sendo
+que em relação aos empregados que não aderiram à ESU/2008, o regional entendeu que o
+pedido da agravante não abarcavam tais empregados, visto que o sindicato foi claro em expor
+desde a exordial que os substituídos ora representados aderiram à ESU/2008, daí por que, não
+há falar em falta de manifestação quanto aos empregados que permaneceram no Plano
+Reg/Replan.
+Vislumbra-se ainda, quanto às alegações de defasagem salarial, que o acórdão regional trouxe
+dois fundamentos, que afastam as pretensões da agravante: primeiro que os pedidos de defasagem
+salarial trouxeram como base vantagens previstos no plano anterior, o que não se admite, visto que
+não há nem alegação de vício de consentimento da adesão dos empregados ao novo plano e que
+estes receberam indenização por aderir ao novo plano, bem como que o sindicato não demonstrou
+quais documentos provam as diferenças alegadas, não havendo como acolher sua pretensão
+genérica de que houve comprovação documental nos autos.
+Diante do exposto, restaram devidamente examinada as omissões indicadas, constando a
+análise dos aspectos relevantes para a solução da controvérsia, dentro dos limites da lide, muito
+embora de forma diversa da pretendida pela parte, o que afasta a violação dos dispositivos
+apontados.
+Assim, deve ser mantida a r. decisão agravada.
+Ante o exposto, nego provimento ao agravo.
+DIFERENÇAS SALARIAIS. ADESÃO DOS SUBSTITUÍDOS À ESTRUTURA SALARIAL UNIFICADA DE
+2008 - ESU/2008. RENÚNCIA. QUITAÇÃO. TRANSCENDÊNCIA JURÍDICA RECONHECIDA. IRR 199 DO
+TST.
+Nas razões recursais, quanto às diferenças salariais, aduz a agravante que a jurisprudência na
+decisão recorrida não se aplica a toda a gama de empregados que possivelmente são afetados pela
+defasagem salarial, pois há os empregados que não aderiram à ESU/2008. Alega que em relação aos
+empregados que aderiram o novo plano, que o TST já firmou entendimento de que a exclusão das
+parcelas "cargo comissionado" e "CTVA" da base de cálculo das vantagens pessoais (062 e 092) em
+razão da implementação da ESU/2008 caracterizou alteração contratual lesiva, afrontando as
+disposições do art. 468 da CLT. Sustenta que não há cogitar em renúncia genérica ou quitação de
+direitos, como mencionado pelo regional, que resta demonstrada a inconstitucionalidade das
+cláusulas abarcadas na estrutura salarial unificada, na medida em que ferem a dignidade do
+bancário. Alega que as gratificações de função denominadas "cargo em comissão" e "função de
+confiança" são acréscimos salariais devidos pelo exercício de atividade comissionada, tanto no
+período anterior, como no posterior ao PCS/98, consoante a MN RH 115. Defende a inaplicabilidade
+da Súmula n° 333 do TST e que a causa oferece transcendência. Indica ofensa aos arts. 5º, XXXV,
+XXXVI, 7º, VI, da Constituição Federal, arts. 9º, 444, caput , 468, caput , da CLT; arts. 421 a 424, 478, do
+Código Civil, art. 6º, § 1º, da LINDB, às Súmulas n° 51 e n° 288 do c. TST e divergência jurisprudencial.
+Ao exame.
+Registre-se, inicialmente, tal como delimitado no acórdão regional, que o presente feito
+trata apenas de diferenças salariais de empregados que aderiram à ESU/2008. Portanto, inviável
+qualquer análise quanto aos empregados que não aderiram a nova estrutura salarial unificada e
+que pertencem a plano anterior.
+Conforme se verifica da decisão recorrida, no tópico objeto do agravo interno (diferenças
+salariais - adesão dos empregados substituídos à Estrutura Salarial unificada/2008), foi negado
+provimento ao agravo de instrumento em razão do óbice disposto na Súmula nº 333 desta Corte
+Superior c/c o art. 896, §7º, da CLT .
+Contudo, considerando que a matéria controvertida está submetida ao rito dos Incidentes
+de Recursos Repetitivos (Tema nº 199 da Tabela de IRR), ainda pendente de julgamento no
+âmbito desta Corte Superior, revela-se adequado o reconhecimento da transcendência jurídica
+da causa.
+No caso em exame, o Tribunal Regional entendeu que "a adesão dos trabalhadores
+substituídos à ESU/2008 consiste em renúncia a eventuais direitos e benefícios previstos em planos
+de cargos e salários anteriores, nos termos da Súmula nº 51, II, do C. TST", bem como que "não há
+qualquer alegação da existência de vício de consentimento acerca da adesão à ESU/2008".
+Não obstante o reconhecimento da transcendência, o agravo não comporta provimento,
+pois a parte agravante não apresenta argumentos capazes de desconstituir os fundamentos da
+decisão recorrida, que está em conformidade com o entendimento consolidado desta 7ª Turma,
+em harmonia com a jurisprudência predominante do TST, no sentido de que a adesão
+espontânea, sem vício de consentimento e mediante indenização, à Estrutura Salarial Unificada
+de 2008 - ESU/2008, representando transação válida, importa em renúncia aos benefícios
+previstos nos planos de cargos e salários anteriores, inclusive diferenças salarias relativas a
+vantagens pessoais.
+Nesse sentido, destacam-se os seguintes precedentes (destaques acrescidos):
+AGRAVO INTERPOSTO CONTRA DECISÃO DENEGATÓRIA DE SEGUIMENTO DE
+EMBARGOS PROFERIDA POR MINISTRO PRESIDENTE DE TURMA. CAIXA ECONÔMICA
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067DAA05664D47A5.
+FEDERAL. ADESÃO À NOVA ESTRUTURA SALARIAL UNIFICADA - ESU/2008. TRANSAÇÃO.
+QUITAÇÃO. Na hipótese, a Eg. 1ª Turma asseverou que o Autor aderiu ao Plano de Cargos
+e Salários de 2008, sem vícios de consentimento, de forma a resultar em transação e
+quitação de direitos relativos ao PCS. Ressaltou que o pedido Autoral refere-se às
+diferenças de vantagens pessoais relacionadas ao PCS/89, e por conseguinte, vincula-se
+diretamente ao Plano de Cargos e Salários. Com efeito, esta SBDI-1 possui entendimento
+pacificado no sentido de que a adesão espontânea de empregado ao novo Plano de
+Cargos e Salários da Caixa Econômica Federal (Estrutura Salarial Unificada -ESU/2008),
+sem vícios de consentimento e mediante pagamento de parcela compensatória,
+configura transação válida e resulta em renúncia aos benefícios oriundos dos Planos de
+Cargos e Salários anteriores, nos termos da Súmula51, II, do TST. Nesse contexto, a
+decisão proferida pela Turma não merece reparos, pois a divergência jurisprudencial
+trazida está superada pela iterativa e notória jurisprudência desta Corte Superior, nos
+termos do art. 894, § 2º, da CLT. Precedentes. Agravo conhecido e não provido. (Ag-E-ED￾Ag-ED-RR-354-55.2011.5.12.0042, Subseção I Especializada em Dissídios Individuais ,
+Relator Ministro Alexandre Luiz Ramos, DEJT 27/09/2024).
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. ACÓRDÃO REGIONAL
+PUBLICADO NA VIGÊNCIA DA LEI Nº 13.467/2017. ADESÃO À NOVA ESTRUTURA SALARIAL
+UNIFICADA (ESU/2008). TRANSAÇÃO. VALIDADE. TRANSCENDÊNCIA. RECONHECIMENTO.
+I. Divisando que o tema "adesão à nova estrutura salarial unificada (ESU/2008) -
+transação - validade" oferece transcendência política, e diante da possível contrariedade
+à Súmula nº 51, II, do TST, o provimento ao agravo interno é medida que se impõe. II .
+Agravo interno de que se conhece e a que se dá provimento para reformar a decisão em
+que se negou provimento ao agravo de instrumento e determinar o processamento do
+recurso de revista. RECURSO DE REVISTA. ACÓRDÃO REGIONAL PUBLICADO NA VIGÊNCIA
+DA LEI Nº 13.467/2017. ADESÃO À NOVA ESTRUTURA SALARIAL UNIFICADA (ESU/2008).
+TRANSAÇÃO. VALIDADE. TRANSCENDÊNCIA. RECONHECIMENTO. I. Esta Corte Superior
+firmou o posicionamento de que a livre adesão do empregado da Caixa Econômica
+Federal à nova Estrutura Salarial Unificada de 2008 configura efetiva transação e
+quitação de eventuais direitos oriundos dos Planos de Cargos e Salários anteriores. II. No
+caso dos autos, o Tribunal Regional, ao não reconhecer a transação dos substituídos a
+eventuais direitos e benefícios previstos em planos de cargos e salários anteriores, a
+despeito de registrar a adesão à ESU/2008, sem notícia de vício de consentimento,
+contrariou o disposto na Súmula nº 51, II, do TST. III. Aplica-se na espécie a diretriz
+contida na Súmula nº 51, II, deste Tribunal Superior, segundo a qual, "havendo a
+coexistência de dois regulamentos da empresa, a opção do empregado por um deles
+tem efeito jurídico de renúncia às regras do sistema do outro". IV. Recurso de revista de
+que se conhece e a que se dá provimento. (RR-11938-31.2017.5.03.0052, 7ª Turma ,
+Relator Ministro Evandro Pereira Valadao Lopes, DEJT 13/03/2026 ).
+CMB/ge/irv/bh RECURSO DE REVISTA DA CAIXA ECONÔMICA FEDERAL. LEI Nº
+13.467/2017. CEF. CTVA E CARGO EM COMISSÃO . INTEGRAÇÃO NA BASE DE CÁLCULO
+DAS "VANTAGENS PESSOAIS" (VP-GIP 062 E 092). RECÁLCULO . DIFERENÇAS DO SALÁRIO￾PADRÃO . ADESÃO ESPONTÂNEA À NOVA ESTRUTURA SALARIAL UNIFICADA DE 2008
+(ESU/2008). RECEBIMENTO DE INDENIZAÇÃO CORRESPONDENTE. APLICAÇÃO DA
+SÚMULA Nº 51, II, DO TST. DECISÃO REGIONAL DISSONANTE DA JURISPRUDÊNCIA
+PACIFICADA NESTA CORTE. TRANSCENDÊNCIA POLÍTICA CONSTATADA. A tese sufragada
+pelo Tribunal Regional, no sentido de ser devido o cômputo do cargo em comissão e do
+"CTVA" no cálculo das vantagens pessoais dos empregados da Caixa Econômica Federal
+(rubricas VP-GIP 062 e 092) para todos os fins, mesmo após a adesão espontânea da
+autora à Estrutura Salarial Unificada de 2008 (ESU 2008) e o recebimento de indenização
+correspondente, está superada pela jurisprudência cristalizada nesta Corte. Precedentes
+da SbDI-1. Acórdão regional que merece reforma. Recurso de revista conhecido e
+provido. (RR-0000538-91.2023.5.05.0007, 7ª Turma , Relator Ministro Claudio
+Mascarenhas Brandao, DEJT 03/11/2025 ).
+EMBARGOS DE DECLARAÇÃO DA RECLAMADA - ACOLHIMENTO - ERRO MATERIAL -
+OMISSÃO - PARCELA "VP-GIP" (RUBRICAS 062 E 092) - DIFERENÇAS SALARIAIS - INCLUSÃO
+DO CARGO EM COMISSÃO E DA CTVA NA BASE DE CÁLCULO - ADESÃO À ESU/2008 -
+RENÚNCIA AOS DIREITOS DOS PLANOS ANTERIORES - RECURSO DE REVISTA NÃO
+CONHECIDO Embargos de Declaração acolhidos para, sanando o erro material e
+reconhecendo a omissão na análise da premissa de que a Reclamante aderiu à ESU
+2008, examinar o Recurso de Revista, considerando-a. De acordo com a jurisprudência
+da C. SBDI-1, a adesão espontânea do empregado da CEF à Estrutura Salarial Unificada
+do PCS 1998 (ESU/2008), sem vício de consentimento e com pagamento de indenização,
+gera renúncia aos direitos decorrentes de planos anteriores. Julgados. Embargos de
+Declaração acolhidos para não conhecer do Recurso de Revista. (ED-ED-RR-746-
+40.2019.5.10.0019, 4ª Turma , Relatora Ministra Maria Cristina Irigoyen Peduzzi, DEJT
+20/03/2026).
+(...) DIFERENÇAS DE VANTAGENS PESSOAIS. BASE DE CÁLCULO. ADESÃO
+ESPONTÂNEA À NOVA ESTRUTURA SALARIAL UNIFICADA (ESU/2008). RENÚNCIA ÀS
+REGRAS DO PLANO ANTERIOR. INCIDÊNCIA DA SÚMULA Nº 51, II, DO TST.
+TRANSCENDÊNCIA JURÍDICA. O acórdão regional entendeu que a adesão pelo
+Reclamante ao Plano de Cargos e Salários de 2008 da CEF não pode ser condicionada à
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067DAA05664D47A5.
+transação, quitação, ou renúncia a direito de discutir judicialmente questões referentes
+a plano anterior. A questão em debate está pendente de julgamento no Tema nº 199 de
+IRR desta Corte, razão pela qual se reconhece a transcendência jurídica da causa. Diante
+da plausibilidade da alegação de contrariedade à Súmula nº 51, II, desta Corte, dá-se
+provimento ao agravo de instrumento para melhor exame da matéria. Transcendência
+jurídica. Agravo de instrumento provido. (...) II - RECURSO DE REVISTA. LEI Nº
+13.467/2017. CAIXA ECONÔMICA FEDERAL - CEF. DIFERENÇAS DE VANTAGENS PESSOAIS.
+BASE DE CÁLCULO. ADESÃO ESPONTÂNEA À NOVA ESTRUTURA SALARIAL UNIFICADA
+(ESU/2008). RENÚNCIA ÀS REGRAS DO PLANO ANTERIOR. INCIDÊNCIA DA SÚMULA Nº 51,
+II, DO TST. TRANSCENDÊNCIA JURÍDICA. Nos termos do item II da Súmula nº 51 do TST,
+havendo a coexistência de dois regulamentos da empresa, a opção do empregado por
+um deles tem efeito jurídico de renúncia às regras do sistema do outro. A SBDI-1 desta
+Corte firmou entendimento de que a livre adesão do empregado à estrutura salarial
+unificada 2008 da Caixa Econômica Federal, sem notícia de vício do consentimento,
+configura renúncia às regras e direitos oriundos dos Planos de Cargos e Salários
+anteriores, na forma da Súmula nº 51, II, do TST . No caso, o Reclamante aderiu
+voluntariamente à nova estrutura salarial implantada pela CEF em 2008, sem notícia de
+vício do consentimento, inclusive com a percepção de indenização, configurando
+manifesta renúncia a qualquer pretensão deduzida com base nos regulamentos
+anteriores, nos termos do item II da Súmula nº 51 do TST, o que incluiu as diferenças de
+vantagens pessoais pela não inclusão do cargo em comissão e do CTVA na base de
+cálculo. Precedentes. Recurso de revista conhecido e provido. (RRAg-AIRR-1238-
+82.2011.5.15.0145, 6ª Turma , Relator Ministro Antonio Fabricio de Matos Goncalves,
+DEJT 23/03/2026).
+Nesse contexto, ainda que reconhecida a transcendência jurídica da controvérsia, não se
+verificam as violações constitucionais e legais suscitadas, nem divergência jurisprudencial
+específica apta a ensejar o processamento do recurso de revista.
+Ante o exposto, nego provimento ao agravo.
+ISTO POSTO
+ACORDAM os Ministros da Sétima Turma do Tribunal Superior do Trabalho, por unanimidade,
+conhecer e negar provimento ao agravo.
+No caso, foram analisadas e consignadas expressamente as razões de
+convencimento em relação a todas as irresignações do embargante, sendo que ainda que reconhecida a
+transcendência da causa, em razão da afetação do Tema n.° 199 em Incidente de Recursos de Revista
+Repetitivos, subsiste óbice para o enfrentamento do recurso de revista.
+Esta 7ª Turma reconheceu a transcendência jurídica da causa, diante da afetação
+da matéria pelo Incidente de Recurso Repetitivo n.° 199 desta Corte Superior, porém, concluiu que não
+restaram verificadas as violações constitucionais e legais suscitadas, nem divergência jurisprudencial
+específica apta a ensejar o processamento do recurso de revista, por estar a decisão regional em
+consonância com a jurisprudência predominante no Tribunal Superior do Trabalho.
+Destaca-se que o reconhecimento da transcendência jurídica em decorrência de
+tese afetada em IRR, por si só, não acarreta o sobrestamento do feito, como busca o embargante, bem
+como que não há ordem de suspensão dos processos em que a controvérsia está abarcada pelo IRR n.°
+199 do TST.
+Ademais, quanto às alegações de pronunciamento expresso sobre os empregados
+que não aderiram à ESU/2008, o acórdão foi claro ao fundamentar que: “em relação aos empregados que
+não aderiram à ESU/2008, o regional entendeu que o pedido da agravante não abarcavam tais empregados,
+visto que o sindicato foi claro em expor desde a exordial que os substituídos ora representados aderiram à
+ESU/2008, daí por que, não há falar em falta de manifestação quanto aos empregados que permaneceram no
+Plano Reg/Replan.”. Portanto, não há falar que no caso de ação coletiva não há individualização, visto que
+foram respeitados os limites da lide, nos termos dos artigos 141 e 492 do CPC.
+Com efeito, os embargos declaratórios não têm o condão de submeter o que foi
+decidido a um novo exame, como recurso capaz de modificar a prestação jurisdicional, a pretexto de
+obter uma declaração do exato sentido do julgado, reformando o anterior. A via é imprópria inclusive
+para impugnar a justiça ou não da decisão.
+Verifica-se que a Turma julgadora exarou completa prestação jurisdicional, ainda
+que em sentido contrário aos interesses do embargante.
+Conclui-se que o embargante pretende apenas rediscutir nos embargos de
+declaração matéria já examinada pela Turma julgadora, em verdadeiro desvio de finalidade processual.
+Assim, não constatados vícios no julgado, nego provimento aos embargos de
+declaração. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067DAA05664D47A5.
+ISTO POSTO
+ACORDAM os Ministros da Sétima Turma do Tribunal Superior do Trabalho, à
+unanimidade, conhecer e negar provimento aos embargos de declaração.
+Brasília, 25 de agosto de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+MARGARETH RODRIGUES COSTA
+Ministra Relatora
+Firmado por assinatura digital em 26/08/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067DAA05664D47A5.
