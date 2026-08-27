@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUANA BEATRIZ NEVES DA SILVA no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2009047-56.2026.8.26.0000).
+Consta dos autos que a paciente foi presa preventivamente pela suposta prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006.
+A defesa sustenta o cabimento do writ constitucional, por existir constrangimento ilegal na manutenção da prisão preventiva e por se tratar de medida excepcional, que exigiria demonstração concreta do periculum libertatis.
+Afirma que o decreto prisional careceria de elementos atuais e individualizados de risco, destacando que o descumprimento de medidas cautelares decorreu de esquecimento na comunicação de mudança de endereço e que a paciente teria informado novo domicílio, podendo ser localizada para os atos do processo.
+Alega que a paciente faria jus à substituição da prisão preventiva por prisão domiciliar, nos termos dos arts. 318, V, e 318-A do Código de Processo Penal, por ser mãe de duas crianças menores de 12 anos, uma delas com necessidades especiais, sendo presumida a imprescindibilidade dos cuidados maternos.
+Argumenta que a quantidade de droga apreendida não seria fundamento suficiente, por si só, para afastar a prisão domiciliar de mãe de filhos menores de 12 anos, na ausência de violência, grave ameaça ou crime praticado contra descendente, e que não se teria demonstrado situação excepcionalíssima a justificar o afastamento da medida protetiva.
+Expõe que a prisão preventiva deve ser a última ratio e que seriam adequadas e suficientes medidas cautelares diversas, nos termos dos arts. 282, § 4º e § 6º, e 319 do Código de Processo Penal, indicando alternativas como comparecimento periódico em juízo, recolhimento domiciliar noturno, monitoração eletrônica e proibição de contato com envolvidos.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva da paciente.
+Pedido liminar indeferido às fls. 57/58.
+Informações prestadas às fls. 66/72.
+O Ministério Público Federal manifestou-se às fls. 107/109, opinando pelo não conhecimento do writ.
+É o relatório.
+Decido.
+É consolidada a jurisprudência deste Superior Tribunal de Justiça no sentido de que a prerrogativa do relator para julgar monocraticamente o habeas corpus e o respectivo recurso não é afastada pelas normas regimentais que preveem a oitiva prévia do Ministério Público Federal (arts. 64, III, e 202 do RISTJ), notadamente quando a matéria se conforma com o entendimento dominante desta Corte (AgRg no HC n. 871.702/DF, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 9/9/2024, DJe de 12/9/2024).
+Consta dos autos que a paciente foi presa preventivamente pela suposta prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006.
+O Tribunal de origem manteve a segregação cautelar da paciente com os argumentos abaixo (fls. 40/43):
+Há indícios de autoria e materialidade, de modo que a custódia preventiva se justifica para garantia da ordem pública e da aplicação da lei penal, caso venha a ser comprovada a imputação, mostrando-se insuficiente a aplicação das medidas cautelares diversas (art. 319), até porque a prisão ocorreu justamente pelo descumprimento delas, o que seria verdadeira teratologia e incongruência, ou mesmo prisão domiciliar.
+Nesse particular, registre-se que a paciente LUANA, conforme se extrai dos autos, foi surpreendida transportando expressiva quantidade de entorpecentes em ônibus que partira de Campo Grande/MS a Goiânia/GO. Ressalte-se, ainda, que seu domicílio situa-se em São Luís/MA, onde deixou os filhos, e que o mandado de prisão foi cumprido em Chapecó/SC, acrescentando, ainda, haver notícia de prisão anterior pela prática de narcotráfico, tendo sido novamente detida, em curto lapso temporal, pela suposta prática do mesmo delito (fls. 167/169 dos autos de origem).
+Do excerto transcrito, concluo que, ao contrário do que alega a Defesa, a prisão preventiva foi suficientemente fundamentada pela instância ordinária, tendo sido ressaltado o descumprimento das medidas cautelares anteriormente impostas.
+Nesse particular, importante registrar que a manutenção da prisão preventiva mostra-se devidamente justificada pelas circunstâncias concretas extraídas dos autos. Com efeito, a paciente foi surpreendida no transporte de expressiva quantidade de entorpecentes, em ônibus que realizava o trajeto de Campo Grande/MS a Goiânia/GO, circunstância que, aliada à dinâmica interestadual da conduta, evidencia a gravidade concreta da imputação e revela maior reprovabilidade no modus operandi.
+Soma-se a isso o fato de a paciente possuir domicílio em São Luís/MA, onde deixou seus filhos, tendo sido, contudo, localizada e presa em Chapecó/SC, circunstância que demonstra significativa mobilidade geográfica e constitui elemento concreto a ser considerado na aferição do risco de evasão e da necessidade de assegurar a aplicação da lei penal.
+Ademais, consta dos autos notícia de prisão anterior pela prática de delito relacionado ao narcotráfico, tendo a paciente voltado a ser presa, em curto espaço de tempo, por suposta prática do mesmo delito.
+Tais circunstâncias demonstram a periculosidade da agente e são aptas a justificar a segregação cautelar para garantia da ordem pública.
+Exemplificativamente:
+PEDIDO DE RECONSIDERAÇÃO. RECEBIMENTO COMO AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. QUANTIDADE EXPRESSIVA DE DROGA. MEDIDAS CAUTELARES DO ART. 319 DO CPP. SUBSTITUIÇÃO. INVIABILIDADE. DESPROVIMENTO.
+1. Apresentada fundamentação idônea para a prisão cautelar, consistente na gravidade concreta da conduta, evidenciada na expressiva quantidade de entorpecente (270 gramas de cocaína), não há falar-se em ilegalidade.
+2. "Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão (art. 319 do CPP). Precedentes." (AgRg no HC n. 781.094/GO, relator Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, julgado em 24/4/2023, DJe de 27/4/2023.)
+3. Agravo regimental desprovido.
+(RCD no HC n. 891.933/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 22/4/2024, DJe de 25/4/2024).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. QUANTIDADE E VARIEDADE DA DROGA APREENDIDA. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. CONDIÇÕES FAVORÁVEIS. IRRELEVÂNCIA IN CASU. AUTORIA. NEGATIVA. FLAGRANTE. NULIDADE. SUPRESÃO DE INSTÂNCIA.
+(..)
+2. No caso, a prisão preventiva está justificada, pois, segundo a decisão que a impôs, o agravante foi flagrado em posse de grande quantidade e variedade de substância entorpecente, a saber, aproximadamente 318g (trezentos e dezoito gramas) de crack e 422g (quatrocentos e vinte e dois gramas) de maconha, além de uma balança de precisão. Dessarte, está evidenciada a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+(..)
+6. Agravo regimental desprovido.
+(AgRg no RHC n. 192.110/BA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024).
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS (500 G DE COCAÍNA). PRISÃO PREVENTIVA. MATERIALIDADE E AUTORIA. GRAVIDADE CONCRETA. QUANTIDADE DE DROGA APREENDIDA. GARANTIA DA ORDEM PÚBLICA. PRECEDENTES. PERICULOSIDADE CONCRETA. AUSÊNCIA DE FUNDAMENTOS CAPAZES DE INFIRMAR A DECISÃO IMPUGNADA.
+Agravo regimental improvido.
+(AgRg no RHC n. 178.381/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 15/5/2023, DJe de 18/5/2023).
+Por derradeiro, não merece prosperar o pedido de prisão domiciliar formulado pela Defesa pautado no argumento de que a recorrente tem dois filhos menores de 12 anos de idade.
+O não atendimento do pedido nas instâncias ordinárias baseou-se na existência de circunstância excepcionalíssima que justifica a manutenção da segregação cautelar da recorrente, tendo em vista que ela deixou seus filhos em outra cidade na companhia de terceiros para realizar o comércio da droga, conduta esta incompatível com a de uma genitora que, agora, quer estar próximo deles em razão da suposta precariedade dos cuidados dispensados.
+Outrossim, a suposta existência de condições pessoais favoráveis, por si sós, não asseguram a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre no caso. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/5/2024, DJe de 15/5/2024; AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Desse modo, não havendo ilegalidade manifesta e tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
