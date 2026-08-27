@@ -1,0 +1,43 @@
+DECISÃO
+JEAN LUCAS DE ALMEIDA DA SILVA alega sofrer coação ilegal diante de acórdão do Tribunal de Justiça do Estado do Paraná que, ao dar provimento ao Agravo em Execução n. 4002380-34.2026.8.16.4321, revogou o indulto concedido com fundamento no art. 9º, XV, do Decreto Presidencial n. 12.790/2025.
+O Juízo da execução reconheceu o indulto das penas impostas nas Ações Penais n. 0003422-12.2018.8.16.0040, 0001711-98.2020.8.16.0040 e 0005853-57.2024.8.16.0024, relativas a crimes patrimoniais praticados sem violência ou grave ameaça.
+O Tribunal de origem deu provimento ao recurso ministerial. Considerou que, por força do art. 7º do Decreto n. 12.790/2025, as penas aplicadas por infrações diversas devem ser somadas, vedada a análise fragmentada das condenações. Concluiu que a existência, na mesma execução, de condenação por roubo impediria a incidência das hipóteses previstas no art. 9º, II e XV, mesmo em relação às penas referentes aos crimes patrimoniais sem violência ou grave ameaça.
+A Defensoria Pública sustenta que o art. 9º do Decreto n. 12.790/2025 estabelece hipóteses autônomas e alternativas de indulto. Argumenta que o limite de 12 anos e as frações de cumprimento previstos no inciso II não podem ser cumulativamente exigidos na hipótese específica do inciso XV, que não prevê limite quantitativo de pena nem requisito temporal.
+Defende que a condenação por roubo não constitui impedimento absoluto à concessão do benefício relativamente às infrações abrangidas pelo art. 9º, XV. Afirma que o art. 7º determina a soma das penas, mas não transforma infrações não contempladas por determinada hipótese de indulto em crimes impeditivos. Assevera que apenas os delitos expressamente relacionados no art. 1º do Decreto possuem natureza impeditiva e que, mesmo nessa hipótese, o parágrafo único do art. 7º admite o indulto da pena correspondente ao crime não impeditivo após o cumprimento de dois terços da sanção referente ao delito impeditivo.
+Argumenta, ainda, que a interpretação adotada pelo Tribunal estadual esvazia o conteúdo do art. 9º, XV, e que a criação judicial de restrições não estabelecidas pelo Presidente da República invade a competência privativa prevista no art. 84, XII, da Constituição Federal.
+A defesa também afirma estar atendido o requisito relativo à reparação do dano, diante da presunção de incapacidade econômica decorrente da atuação da Defensoria Pública, nos termos do art. 12, § 2º, do Decreto.
+Requer a concessão do benefício.
+Decido.
+I. Contextualização
+O Juízo da execução concedeu o indulto das penas impostas nas Ações Penais n. 0003422-12.2018.8.16.0040, 0001711-98.2020.8.16.0040 e 0005853-57.2024.8.16.0024, referentes a crimes patrimoniais praticados sem violência ou grave ameaça.
+Para dispensar a reparação do dano, o Magistrado reconheceu a presunção de incapacidade econômica decorrente da representação do sentenciado pela Defensoria Pública, nos termos do art. 12, § 2º, I, do Decreto n. 12.790/2025.
+O Ministério Público interpôs agravo em execução. Sustentou que a análise do benefício deveria considerar a totalidade da execução e a existência de condenação por crime praticado com violência ou grave ameaça.
+O Tribunal de origem deu provimento ao recurso para revogar o indulto. A Corte estadual consignou expressamente que o Ministério Público não impugnou a presunção de incapacidade econômica reconhecida pelo Juízo da execução. Por isso, restringiu o julgamento à controvérsia relativa ao requisito objetivo do benefício.
+II. Indulto previsto no art. 9º, XV, do Decreto n. 12.790/2025
+A concessão de indulto constitui competência privativa do Presidente da República, nos termos do art. 84, XII, da Constituição Federal. Compete ao Poder Judiciário verificar o atendimento das condições estabelecidas no decreto presidencial, sem ampliar ou restringir o alcance do ato de clemência.
+O art. 7º do Decreto n. 12.790/2025 dispõe, expressamente:
+Art. 7º Para fins da declaração do indulto e da comutação de pena, as penas correspondentes a infrações diversas deverão ser somadas até 25 de dezembro de 2025.
+Por sua vez, o art. 9º, XV, prevê a concessão do indulto às pessoas condenadas:
+ ..  XV - à pena privativa de liberdade por crime contra o patrimônio, cometido sem violência ou grave ameaça a pessoa que, até 25 de dezembro de 2025, tenham reparado o dano conforme o disposto no art. 16 ou no art. 65, caput, inciso III, alínea "b", do Decreto-Lei n. 2.848, de 7 de dezembro de 1940 - Código Penal, excetuada a necessidade de reparação do dano nas hipóteses previstas no art. 12, § 2º, deste Decreto.
+A controvérsia subsistente consiste em definir se o art. 9º, XV, admite o fracionamento da execução para que sejam indultadas apenas as penas relativas aos crimes patrimoniais sem violência ou grave ameaça, embora o sentenciado também cumpra pena por roubo e por outras infrações de natureza diversa.
+Deveras, a execução do paciente compreende condenações por furto, lesão corporal, descumprimento de medidas protetivas de urgência e roubo. Não é composta, portanto, exclusivamente por crimes patrimoniais praticados sem violência ou grave ameaça, o que impede a aplicação isolada do art. 9º, XV, do Decreto.
+Ao interpretar o Decreto n. 12.338/2024, cuja redação é semelhante, a Sexta Turma assentou recentemente que o art. 7º impede a análise fragmentada dos títulos executivos e que a condenação concomitante por roubo afasta a incidência do art. 9º, XV:
+ ..
+5. O Decreto Presidencial n. 12.338/2024 impõe a soma das penas para aferição dos requisitos objetivos do indulto, inviabilizando análise fracionada de títulos executivos em execução unificada.
+6. A execução heterogênea, com condenação também por crime com violência ou grave ameaça, afasta a incidência do art. 9º, XV, por incompatibilidade material com a hipótese clemencial.
+(AgRg no HC n. 1.066.547/SC, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 20/5/2026, DJEN de 25/5/2026.)
+No julgamento referido, o apenado também cumpria penas por furto, roubo e crime de natureza diversa e pretendia o reconhecimento do indulto apenas quanto às condenações por crimes patrimoniais não violentos. A Sexta Turma, por unanimidade, denegou a ordem.
+A Quinta Turma adotou a mesma orientação: "A condenação por roubo, crime praticado com violência ou grave ameaça, impede a concessão do indulto para outros crimes patrimoniais sem violência, conforme interpretação do art. 9º, inciso XV, do Decreto Presidencial n. 12.338/2024" (AgRg no HC n. 1.028.797/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/11/2025, DJEN de 18/11/2025.)
+Também nesse sentido: "O paciente não cumpre pena exclusivamente por crime patrimonial sem violência ou grave ameaça, ostentando também condenação por roubo majorado, o que afasta a incidência do art. 9º, XV, do Decreto" (AgRg no HC n. 1.006.334/SC, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 29/10/2025, DJEN de 4/11/2025.)
+A Sexta Turma examinou especificamente a coexistência de condenações por furto, roubo e delito de natureza diversa e, por unanimidade, afastou a aplicação fracionada do art. 9º, XV, no já mencionado AgRg no HC n. 1.066.547/SC.
+Essa orientação mais recente deve ser aplicada ao Decreto n. 12.790/2025, que reproduz a regra de soma das penas e a hipótese de indulto para condenados por crime patrimonial praticado sem violência ou grave ameaça.
+O acolhimento da pretensão defensiva importaria desmembrar a execução unificada e reconhecer modalidade de indulto parcial não expressamente prevista no ato presidencial, embora a situação executória global do paciente não corresponda à hipótese específica delimitada no art. 9º, XV.
+Aplica-se ao caso a compreensão de que: "A condenação por crime impeditivo, como o roubo, afasta a concessão do indulto para outros crimes patrimoniais sem violência, conforme interpretação do art. 9º, inciso XV, do Decreto Presidencial n. 12.338/2024" (AgRg no HC n. 1.028.797/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/11/2025, DJEN de 18/11/2025.)
+Não se evidencia, assim, ilegalidade manifesta no acórdão que revogou o benefício.
+III. Reparação do dano
+Conforme reconhecido pelo próprio Tribunal de origem, o Ministério Público não impugnou a presunção decorrente da atuação da Defensoria Pública. Não houve, portanto, rejeição da hipossuficiência nem exigência de demonstração de arrependimento ou de intenção de reparar o dano.
+Ainda que dispensada a reparação, remanesce o óbice autônomo decorrente da composição heterogênea da execução e da impossibilidade de aplicação fracionada do art. 9º, XV.
+IV. Dispositivo
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
