@@ -1,6 +1,6 @@
 # Institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS) (Lei Complementar nº 214, de 16 de janeiro de 2025)
 
-LCP 214 · 4 versions, from 2025-01-16 (latest in force: 2026-01-13) · <https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2025-01-16;214>
+LCP 214 · 5 versions, from 2025-01-16 (latest in force: 2026-08-28) · <https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2025-01-16;214>
 
 Text: normas.leg.br (Congresso Nacional), CC BY 4.0. Provisions whose effects start on 1.1.2027, 1.1.2029 or 1.1.2033 (art. 544 III-V) are not in this history yet.
 
@@ -89,7 +89,7 @@ Text: normas.leg.br (Congresso Nacional), CC BY 4.0. Provisions whose effects st
 | Art. 80. | [art-080.md](art-080.md) | 1 | 2026-01-13 |
 | Art. 81-A. | [art-081-a.md](art-081-a.md) | 0 |  |
 | Art. 81. | [art-081.md](art-081.md) | 0 |  |
-| Art. 82. | [art-082.md](art-082.md) | 0 |  |
+| Art. 82. | [art-082.md](art-082.md) | 1 | 2026-08-28 |
 | Art. 83. | [art-083.md](art-083.md) | 0 |  |
 | Art. 84. | [art-084.md](art-084.md) | 0 |  |
 | Art. 85. | [art-085.md](art-085.md) | 0 |  |
@@ -179,7 +179,7 @@ Text: normas.leg.br (Congresso Nacional), CC BY 4.0. Provisions whose effects st
 | Art. 167. | [art-167.md](art-167.md) | 0 |  |
 | Art. 172. | [art-172.md](art-172.md) | 1 | 2026-01-13 |
 | Art. 173. | [art-173.md](art-173.md) | 0 |  |
-| Art. 174. | [art-174.md](art-174.md) | 0 |  |
+| Art. 174. | [art-174.md](art-174.md) | 1 | 2026-08-28 |
 | Art. 175. | [art-175.md](art-175.md) | 0 |  |
 | Art. 176. | [art-176.md](art-176.md) | 0 |  |
 | Art. 177. | [art-177.md](art-177.md) | 0 |  |
