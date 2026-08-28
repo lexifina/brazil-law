@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de TEREZINHA GALDINO DE SOUZA - condenada pelo art. 35, c/c art. 40, VI, da Lei n. 11.343/2006, à pena de 5 anos e 2 meses de reclusão, em regime inicial fechado (Ação Penal n. 0013023-34.2014.8.19.0061, da 1ª Vara Criminal da comarca de Teresópolis/RJ) -, em que a defesa aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro, que, em 28/6/2022, negou provimento ao recurso e manteve a condenação (Apelação Criminal n. 0013023-34.2014.8.19.0061).
+Em síntese, o impetrante alega atipicidade do art. 35 da Lei n. 11.343/2006 por ausência de estabilidade e permanência do vínculo. Sustenta que todo o acervo contra a paciente resume-se a duas ligações com o próprio marido, na mesma madrugada, com 1h56min de intervalo, sem diálogos com terceiros, sem menção a funções, hierarquia, contabilidade, entregas pretéritas ou futuras.
+Afirma que não houve apreensão, não há laudo, não se sabe o que foi transportado, se foi efetivamente levado e se o ato teve concretude, impondo-se o in dubio pro reo. Destaca o silêncio absoluto nas demais fases da operação, antes e depois dessas duas chamadas, o que reforça a inexistência de permanência.
+Aponta erro de direito do acórdão ao admitir associação "reiterada ou não", premissa que descaracteriza o tipo do art. 35 e o confunde com mero concurso de agentes. Enfatiza a contradição de se manter a absolvição por tráfico em todos os episódios e, ao mesmo tempo, afirmar o crime associativo que exige mais do que atos isolados - vínculo estável e duradouro voltado à prática reiterada da mercancia.
+Em tese autônoma, sustenta ausência de fundamentação idônea para o regime inicial fechado. Argumenta que a paciente é primária, sem maus antecedentes, com culpabilidade "normal à espécie", condenada a pena inferior a 8 anos; o regime deveria ser o semiaberto (art. 33, §§ 2º, "b", e 3º, do Código Penal). As instâncias ordinárias teriam utilizado fórmulas genéricas sobre "circunstâncias do crime" aplicadas indistintamente a corréus, sem individualização, e ainda incorrido em bis in idem ao repetir a mesma razão para negar a detração do art. 387, § 2º, do Código de Processo Penal.
+Em caráter liminar, pede a suspensão da execução da pena, com alvará de soltura ou contramandado de prisão; subsidiariamente, a imediata transferência ao regime semiaberto.
+No mérito, requer a absolvição da paciente da imputação do art. 35, c/c art. 40, VI, da Lei n. 11.343/2006, com expedição de alvará de soltura; subsidiariamente, a fixação do regime inicial semiaberto e a detração do art. 387, § 2º, do Código de Processo Penal (Processo n. 0013023-34.2014.8.19.0061, da 1ª Vara Criminal da comarca de Teresópolis/RJ).
+É o relatório.
+O writ é inadmissível.
+Primeiro, porque já foi interposta na origem a Revisão Criminal n. 0081155- 30/3/2026, 49.2025.8.19.0000, com o objetivo de reapreciação da matéria.
+Ademais, embora a defesa tente dar conotação diversa à impetração, afirmo que o writ aqui formulado versa sobre reiteração do requerido no HC n. 1086139/RJ.
+Ora, é categórico o entendimento do Superior Tribunal de Justiça a respeito da impossibilidade de reiteração de pedidos já apresentados nesta Casa. Nesse sentido, por exemplo: AgRg no HC n. 765.097/SP, Ministra Daniela Teixeira, Quinta Turma, DJe 6/3/2024; e AgRg no HC n. 391.116/PE, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 7/4/2017.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO. INADMISSIBILIDADE. EXISTÊNCIA DE REVISÃO CRIMINAL NA ORIGEM. REITERAÇÃO DE PEDIDOS. IMPOSSIBILIDADE. INDEFERIMENTO LIMINAR.
+Petição inicial indeferida liminarmente.
