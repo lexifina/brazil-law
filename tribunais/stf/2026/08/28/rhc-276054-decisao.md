@@ -1,0 +1,28 @@
+DECISÃO: Trata-se de recurso ordinário em habeas corpus interposto por Vitor Alberto Peao Goncalves contra acórdão da Quinta Turma do Superior Tribunal de Justiça, proferido nos EDcl no AgRg no HC 1.008.683/SP, que manteve o não conhecimento da impetração originária (eDOC 83, pp. 1-6).
+O recorrente foi condenado pelo Tribunal do Júri pela prática de homicídio qualificado por motivo fútil e por recurso que dificultou a defesa da vítima, à pena de 14 anos de reclusão, em regime inicial fechado (eDOC 19, pp. 1-2). A 5ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo negou provimento às apelações (eDOC 23, pp. 1-27). Segundo a defesa, foi concedida ordem de ofício pelo Superior Tribunal de Justiça no HC 874.666/SP que reduziu a reprimenda a 12 anos de reclusão, mediante reconhecimento da atenuante da confissão e sua compensação com a agravante (eDOC 91, p. 5).
+No HC 1.008.683/SP, impetrado após o trânsito em julgado, o Relator não conheceu da pretensão por considerá-la sucedâneo de revisão criminal (eDOC 49, pp. 1-6). O agravo regimental foi desprovido (eDOC 68, pp. 1-6). Ao rejeitar os embargos de declaração, a Quinta Turma registrou que haviam decorrido mais de três anos entre o trânsito em julgado e a impetração, “tempo demasiado para que a discussão de mérito fosse reaberta” (eDOC 83, p. 5).
+Neste recurso, a defesa sustenta que “o recurso ordinário em habeas corpus tem efeito devolutivo amplo” e permitiria ao Supremo Tribunal Federal superar o óbice adotado pelo Superior Tribunal de Justiça (eDOC 91, p. 4).
+Alega bis in idem na utilização da qualificadora do recurso que dificultou a defesa da vítima como agravante na segunda fase da dosimetria; excesso de linguagem na decisão de pronúncia e no acórdão que a confirmou; e nulidade do julgamento pela ausência de quesito específico sobre o animus necandi (eDOC 91, pp. 8-12).
+Requer o provimento do recurso para reduzir a pena a 10 anos e determinar novo julgamento pelo Tribunal do Júri ou, subsidiariamente, para que o Superior Tribunal de Justiça examine o mérito da impetração originária (eDOC 91, pp. 12-13).
+A Procuradoria-Geral da República opina pelo não provimento do recurso (eDOC 116, p. 14).
+É o relatório.
+Decido.
+
+O recurso ordinário é formalmente cabível. Contudo, a pretensão de exame originário das nulidades é manifestamente inadmissível.
+Isso porque o Superior Tribunal de Justiça não conheceu do habeas corpus e, por conseguinte, não apreciou as controvérsias materiais agora submetidas a esta Corte. O recurso ordinário não devolve ao Supremo Tribunal Federal matéria estranha ao acórdão recorrido, sob pena de indevida supressão de instância. A propósito:
+
+“DIREITO PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. A matéria em debate não consta do acórdão impugnado. Não se conhece de recurso do qual não consta o debate sobre a controvérsia, por ausência do efeito devolutivo. Inexiste ilegalidade a autorizar a concessão da ordem de ofício”.  (AgR no RHC 256.698, de minha relatoria, Segunda Turma, DJe 27.6.2025).
+
+É certo que o mero decurso do tempo, isoladamente, não impede a verificação de constrangimento ilegal manifesto. A possibilidade de concessão da ordem de ofício, inclusive na hipótese de inadmissibilidade da ação ou do recurso, não se confunde, porém, com efeito devolutivo ilimitado nem autoriza a reabertura integral de condenação transitada em julgado. A intervenção excepcional exige ilegalidade patente, demonstrável de plano, o que não ocorre.
+Quanto à quesitação, a ata registra que a defesa técnica sustentou em plenário legítima defesa, homicídio privilegiado e, subsidiariamente, o afastamento das qualificadoras. Registra, ainda, que os quesitos foram lidos “sem impugnação das partes” (eDOC 20, p. 5). O acórdão de apelação esclareceu que a tese de desclassificação por ausência de animus necandi não foi debatida pelo defensor em plenário e que a afirmação do acusado de que os disparos teriam sido efetuados a esmo não impunha, por si só, a formulação de quesito autônomo (eDOC 23, pp. 13-14).
+A orientação desta Corte é no sentido de que “as nulidades ocorridas na sessão do tribunal do Júri devem ser arguidas logo depois que ocorrerem, nos termos do artigo 571, inciso VIII, do CPP”, sob pena de preclusão (RHC 128.305 AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 16.11.2018). Ausentes a arguição oportuna e a demonstração de prejuízo concreto, não se identifica nulidade manifesta.
+Também não há ilegalidade evidente por excesso de linguagem.  A decisão de pronúncia e o acórdão do recurso em sentido estrito, considerados em seu conjunto, limitaram-se ao juízo de admissibilidade da acusação, com referência à materialidade e aos indícios de autoria e de intenção homicida, reservando ao Tribunal do Júri a apreciação definitiva da responsabilidade penal (eDOC 9, pp. 2-3; eDOC 11, pp. 3-5). Do que consta dos autos, não houve afirmação peremptória de culpa nem demonstração de influência concreta sobre os jurados.
+Por fim, inexiste bis in idem na dosimetria. O Conselho de Sentença reconheceu duas qualificadoras autônomas. Uma delas foi utilizada para qualificar o homicídio; a remanescente, correspondente à agravante do art. 61, II, “c”, do Código Penal, foi valorada na segunda fase, sem repetição do mesmo elemento na estrutura da pena (eDOC 19, p. 1; eDOC 23, pp. 26-27).
+Logo, inexistem teratologia ou constrangimento ilegal passíveis de correção de ofício.
+Ante o exposto, nego seguimento ao recurso ordinário em habeas corpus, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+Publique-se.
+Brasília, 28 de agosto de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
