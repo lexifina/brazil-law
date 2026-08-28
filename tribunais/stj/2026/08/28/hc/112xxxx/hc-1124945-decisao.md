@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOSÉ LUIZ ALARCON LUCERO, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (APC n. 1535505-02.2025.8.26.0228).
+Consta que o paciente responde pela suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, em ação penal instaurada após prisão em flagrante, com base em apreensão de 1.044 g (mil e quarenta e quatro gramas) de cocaína, balança de precisão, anotações alusivas à contabilidade do tráfico e quantia em dinheiro, além de relatos de agentes públicos sobre tentativa de evasão no cumprimento de mandado de busca e apreensão.
+Em primeiro grau, foi condenado à pena de 7 (sete) anos, 9 (nove) meses e 10 (dez) dias de reclusão, em regime inicial fechado, além de 777 (setecentos e setenta e sete) dias-multa, com manutenção em segundo grau.
+Neste writ, a parte impetrante sustenta, em suma, que houve manifesta ilegalidade na segunda fase da dosimetria, porque, não obstante o reconhecimento de confissão em sede policial, as instâncias ordinárias deixaram de aplicar a atenuante da confissão prevista no art. 65, III, d, do Código Penal, em desconformidade com orientação consolidada desta Corte.
+Sustenta que a confissão, ainda que informal e não utilizada como fundamento principal da condenação, deve ser reconhecida para fins de atenuação da pena, conforme entendimento pacificado, e que, uma vez reconhecida, deve ser compensada integralmente com a agravante da reincidência, nos termos do art. 67 do Código Penal.
+Requer, liminarmente e no mérito, a revisão da dosimetria das penas, com o reconhecimento da atenuante da confissão espontânea e a compensação com a agravante da reincidência, readequando-se o quantum final da reprimenda.
+É o relatório.
+Decido.
+Preliminarmente, ressalto que, conforme o entendimento consolidado desta Corte, as disposições contidas nos arts. 64, inciso III, e 202, do Regimento Interno do Superior Tribunal de Justiça não afastam a prerrogativa do relator de apreciar liminarmente, em habeas corpus ou recurso em habeas corpus, a pretensão que esteja em conformidade com súmula ou com a jurisprudência consolidada dos Tribunais Superiores, ou, ainda, que as contrarie, v.g. AgRg no HC n. 856.046/SP, de relatoria do Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023.
+Assim, passo a analisar diretamente o pedido formulado na insurgência.
+Esta Corte e o Supremo Tribunal Federal pacificaram o entendimento de que não cabe habeas corpus como substitutivo do recurso legalmente previsto para a hipótese ou da revisão criminal, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (STJ, AgRg no HC n. 1.014.903/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/10/2025, DJEN de 6/10/2025; STJ, AgRg no HC n. 904.291/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 5/3/2025, DJEN de 11/3/2025; STF, HC 227171 AgR, Relator Ministro Gilmar Mendes, Segunda Turma, julgado em 15/8/2023, publicado em 21/8/2023 e STF, HC 257524 AgR, Relator(a) Ministro Flávio Dino, Primeira Turma, julgado em 12/8/2025, publicado em 18/8/2025).
+De qualquer modo, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+No que tange a confissão informal do paciente sobre a prática do crime pelo qual foi condenado, o Tribunal estadual assim discorreu (fl. 13):
+O pleito formulado pela defesa para a incidência da atenuante de confissão informal, não merece guarida.
+De se destacar que o réu admitiu a prática delitiva apenas aos agentes públicos, sendo certo que na fase inquisitiva quedou-se inerte e, em juízo, negou a traficância.
+Além do mais, a admissão dos fatos, repita-se, informalmente, não foi utilizada como fundamento para o embasamento do decreto condenatório.
+Vê-se que o entendimento da Corte a quo está alinhado ao deste STJ, que afirma que  a  orientação jurisprudencial afirma que apenas confissões judicial e extrajudicial válidas podem repercutir na segunda fase da dosimetria, sendo vedada a atenuação por confissão informal (AgRg no AREsp n. 3.051.786/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 4/8/2026, DJEN de 14/8/2026).
+Nesse mesmo sentido:
+A confissão informal não enseja a atenuante da confissão nem autoriza a aplicação da Súmula 545/STJ. (AgRg no AREsp n. 3.172.364/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/5/2026, DJEN de 18/5/2026).
+DIREITO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DOSIMETRIA DA PENA. ATENUANTE DA CONFISSÃO ESPONTÂNEA (ART. 65, III, D, CP). INEXISTÊNCIA DE CONFISSÃO. AGRAVO REGIMENTAL IMPROVIDO.
+I. CASO EM EXAME
+1. O recurso. Agravo regimental interposto contra decisão que conheceu do agravo para negar provimento ao recurso especial, em ação penal por tráfico de drogas, no qual se pleiteia o reconhecimento da atenuante genérica da confissão espontânea prevista no art. 65, III, d, do Código Penal, com o consequente redimensionamento da pena.
+2. Fato relevante. A Corte estadual inicialmente reconheceu a atenuante, mas, em embargos de declaração, afastou-a por erro material, registrando a inexistência de confissão do tráfico, tanto na fase inquisitorial quanto em juízo.
+3. Pretensão recursal. Agravante sustenta que a confissão extrajudicial informal aos policiais caracterizaria a atenuante, invocando o Tema Repetitivo 1.194/STJ, e alega nulidade processual por preclusão consumativa em razão de acolhimento de segundos embargos de declaração com efeitos infringentes.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se incide a atenuante da confissão espontânea do art. 65, III, d, do Código Penal quando a instância ordinária afirma inexistir confissão do tráfico e a sentença se fundamenta em depoimentos policiais, laudos e circunstâncias do flagrante, sem utilizar eventual confissão.
+5. Outra questão consiste em saber se a alegação de nulidade por preclusão consumativa, relativa ao acolhimento de segundos embargos de declaração com efeitos infringentes, pela Corte de origem, pode ser apreciada em agravo regimental, quando caracterizada inovação recursal.
+III. RAZÕES DE DECIDIR
+6. A individualização da pena, dentro dos parâmetros legais, confere discricionariedade técnica ao julgador, cuja revisão pelas Cortes Superiores somente se admite em hipóteses de manifesta ilegalidade ou arbitrariedade, o que não se verifica no caso.
+7. As teses firmadas no Tema Repetitivo 1.194/STJ não autorizam o reconhecimento da atenuante quando inexistente admissão da prática delitiva. As instâncias ordinárias constataram que o agravante não confessou a prática do crime de tráfico de drogas, tanto na fase inquisitiva quanto em juízo.
+8. Ainda que se cogitasse de eventual confissão extrajudicial, o agravante negou a prática delitiva em juízo e a sentença condenatória não utilizou a suposta confissão como fundamento, apoiando-se em provas independentes (depoimentos policiais, laudos e circunstâncias do flagrante), o que afasta a incidência da atenuante.
+9. A alegação de nulidade por preclusão consumativa, vinculada ao acolhimento de segundos embargos de declaração com efeitos infringentes, não é apreciada por configurar indevida inovação recursal no agravo regimental.
+IV. DISPOSITIVO E TESE
+10. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. A incidência da atenuante da confissão espontânea do art. 65, III, d, do Código Penal pressupõe admissão da prática delitiva, não se aplicando quando as instâncias ordinárias registram inexistência de confissão e a condenação se funda em provas independentes. 2. A revisão da dosimetria da pena em sede especial somente é possível diante de manifesta ilegalidade ou arbitrariedade nos critérios adotados pelas instâncias ordinárias. 3. A inovação recursal em agravo regimental impede o exame de argumento que não foi alegado em
+sede de recurso especial. Dispositivos relevantes citados:
+CP, art. 65, III, d Jurisprudência relevante citada:STJ, Tema Repetitivo 1.194/STJ; STJ, AgRg no AREsp 3.049.476/MG, Sexta Turma, j. 16.06.2026; STJ, AgRg no REsp 2.146.854/SP, Quinta Turma, j. 12.05.2026 (AgRg no AREsp n. 3.233.224/RN, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/8/2026, DJEN de 25/8/2026).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
