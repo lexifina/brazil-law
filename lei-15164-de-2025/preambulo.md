@@ -1,0 +1,2 @@
+Altera a Lei nº 12.351, de 22 de dezembro de 2010, a fim de aperfeiçoar os mecanismos disponíveis ao Fundo Social (FS) para enfrentamento dos desafios socioeconômicos do País; autoriza a União a alienar seus direitos e obrigações decorrentes de acordos de individualização da produção em áreas não concedidas ou não partilhadas na área do pré-sal e em áreas estratégicas; e altera as Leis nºs 14.620, de 13 de julho de 2023, e 11.977, de 7 de julho de 2009.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
