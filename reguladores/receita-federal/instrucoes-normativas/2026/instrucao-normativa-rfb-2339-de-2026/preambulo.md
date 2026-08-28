@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2339, de 21 de agosto de 2026
+Altera a Instrução Normativa RFB nº 2.316, de 25 de março de 2026, que dispõe sobre o Programa de Estímulo à Conformidade Tributária - Sintonia, instituído pela Lei Complementar nº 225, de 8 de janeiro de 2026.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o art. 350, caput, inciso III, do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 7º, § 1º, inciso III, da Lei nº 14.689, de 20 de setembro de 2023, e no art. 3º, caput, incisos VI e XX, e no art. 5º, caput, inciso II, da Lei Complementar nº 225, de 8 de janeiro de 2026, resolve:
