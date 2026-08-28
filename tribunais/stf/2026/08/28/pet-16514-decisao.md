@@ -1,0 +1,28 @@
+DECISÃO: Trata-se de “ação cautelar”, com pedido de liminar, ajuizada por Sylvio Sananel Bardari Junior e Maria Emilia Cardoso Bardari, em face de decisão do Tribunal de Justiça do Estado de São Paulo que não deu provimento ao agravo de instrumento interposto contra decisão que determinou o recolhimento de custas processuais calculadas sobre um valor de causa superior a 7 milhões de reais, sob pena de extinção do processo.
+Depreende-se da inicial que, na origem, trata-se de ação anulatória movida com o objetivo de invalidar ato de arrematação praticada nos autos de ação expropriatória de imóvel rural, sob a alegação de que o bem teria sido alienado por preço vil.
+Narra-se que fora interposto o recurso extraordinário correspondente contra o acórdão que negou provimento ao agravo de instrumento, estando este ainda pendente de apreciação.
+Na presente petição, pleiteia-se que seja atribuído “efeito suspensivo ao Recurso Extraordinário interposto nos autos do Agravo de Instrumento nº 4008523-25.2026.8.26.0000”, até que aquele recurso serja apreciado (eDOC 1 – ID: cf308f29, p. 6).
+É o relatório.
+Decido.
+Inviável o pedido.
+Inicialmente, registre-se que é firme a jurisprudência desta Corte no sentido de que a instauração da jurisdição cautelar do Supremo Tribunal Federal depende da viabilidade, na instância judiciária de origem, da liminar produzir efeitos no julgamento supostamente contrário ao precedente desta Corte.
+Efetivamente, em processos nos quais fora interposto o recurso extraordinário correspondente, entende-se ser imprescindível a existência de juízo positivo de admissibilidade de recurso extraordinário. Confira-se, sobre o tema, a Questão de Ordem na Petição 2.961, Rel. Min. Celso de Mello, DJ 1º.8.2003:
+
+“MEDIDA CAUTELAR - RECURSO EXTRAORDINÁRIO AINDA NÃO ADMITIDO - PRETENDIDA OUTORGA DE EFICÁCIA SUSPENSIVA - INADMISSIBILIDADE - PROCEDIMENTO EXTINTO - DECISÃO REFERENDADA. - A concessão de efeito suspensivo, seja a recurso extraordinário ainda não admitido, seja àquele cujo trânsito já foi recusado na instância de origem, seja, também, a agravo de instrumento interposto contra a decisão que negou processamento ao apelo extremo, não se mostra processualmente viável, pois a instauração da jurisdição cautelar do Supremo Tribunal Federal supõe, em caráter necessário, além de outros requisitos (RTJ 174/437-438), a formulação, na instância judiciária de origem, de juízo positivo de admissibilidade. Precedentes. MEDIDA CAUTELAR INOMINADA E DESCABIMENTO DA CITAÇÃO. – (...)” (Pet 2.961 QO, Rel. Min. Celso de Mello, Segunda Turma, DJ 01.08.2003)
+
+A razão para tanto é que, ausente o juízo positivo de admissibilidade do recurso extraordinário, mostra-se ausente a competência do Supremo Tribunal Federal para apreciar a liminar ora pleiteada.
+Ora, não subsistindo competência desta Corte para apreciar o pedido cautelar, mostra-se sem utilidade o eventual deferimento da medida pleiteada em sede de petição protocolada diretamente do Supremo Tribunal Federal, posto ser inviável a produção do efeito pretendido no feito de origem.
+Logo, sendo competência do Tribunal de origem realizar o juízo de admissibilidade inicial do recurso extraordinário, mostrar-se incabível a supressão de tal atribuição por esta Corte constitucional. Nesse sentido, os seguintes precedentes:
+
+“Embargos de declaração em petição. Embargos de declaração recebidos como agravo regimental, nos termos do art. 1.024, §3º, CPC. 2. Direito Processual Civil. 3. Tema 985. Recurso extraordinário que teve o seguimento negado com fundamento na sistemática de repercussão geral. Pendência de julgamento do agravo interno. Ausência de juízo positivo de admissibilidade. 4. Pedido de efeito suspensivo ao recurso extraordinário. Inviável a análise do pedido pelo STF, nos termos do art. 1.029, § 5º, I, do CPC. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento” (Pet 11026 ED, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 01.06.2023) (grifo nosso)
+
+“EMENTA AGRAVO INTERNO NA PETIÇÃO. PEDIDO DE CONCESSÃO DE EFEITO SUSPENSIVO A RECURSO EXTRAORDINÁRIO INADMITIDO NA ORIGEM. REQUISITOS DO ART. 995, PARÁGRAFO ÚNICO, DO CPC. ESCASSA PROBABILIDADE DE CONHECIMENTO DO RECURSO EXTRAORDINÁRIO. PRETENSÃO AO RECONHECIMENTO DE IMÓVEL COMO BEM DE FAMÍLIA. DISCUSSÃO CENTRADA EM MATÉRIA FÁTICA. TEMA Nº 1.127 DA REPERCUSSÃO GERAL. TESE FIXADA CONTRÁRIA À PRETENSÃO DO AGRAVANTE. CONSONÂNCIA DA DECISÃO AGRAVADA COM A JURISPRUDÊNCIA DESTA SUPREMA CORTE. AGRAVO NÃO PROVIDO. 1. Inviável reputar instaurada a jurisdição cautelar do Supremo Tribunal Federal, considerado o juízo negativo de admissibilidade do recurso extraordinário do autor. Precedentes.2. A excepcional concessão de efeito suspensivo a apelo extremo inadmitido na origem depende da inequívoca conjugação dos requisitos previstos no art. 995, parágrafo único, do CPC, a saber: i) probabilidade de êxito do agravo em recurso extraordinário; e ii) risco de dano grave, de difícil ou impossível reparação. 3. No caso, não comprovada a probabilidade de êxito do recurso extraordinário manejado na origem, tendo em vista a pretensão contrária à jurisprudência firmada nesta Suprema Corte. 4. Agravo interno conhecido e não provido” (Pet 9665 ED-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 09.06.2022)
+
+Dessa forma, concluo que a presente petição carece de interesse de agir, tendo em vista a ausência de utilidade no provimento judicial pleiteado.
+Ante ao exposto, nego seguimento ao pedido (art. 21, §1º, do RISTF). Prejudicado o pedido de medida cautelar.
+Publique-se.
+Brasília, 28 de agosto de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
