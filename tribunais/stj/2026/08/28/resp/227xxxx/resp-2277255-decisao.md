@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Município de Itabira, com fulcro na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça de Minas Gerais assim ementado (e-STJ fl. 220):
+EMENTA: HONORÁRIOS ADVOCATÍCIOS - CRITÉRIO DE FIXAÇÃO EQUIDADE - INAPLICABILIDADE - TEMA 1.076 DO STJ - Segundo tese firmada pelo STJ, no julgamento do Tema 1076, "A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo".
+Foram opostos embargos de declaração, que foram rejeitados (e-STJ fl. 241).
+Nas suas razões, o recorrente aponta violação dos arts. 85, § 3º, e 85, § 8º, do Código de Processo Civil, afirmando que o acórdão, embora tenha afastado a equidade à luz do Tema 1.076 do Superior Tribunal de Justiça, fixou honorários em 5% sobre o valor atualizado da causa, em desconformidade com os percentuais legais aplicáveis às causas envolvendo a Fazenda Pública (e-STJ fls. 258/263).
+Contrarrazões apresentadas (e-STJ fls. 266/273).
+O recurso especial foi admitido pelo Tribunal de origem (e-STJ fls. 276/281).
+Passo a decidir.
+Na origem, trata-se de ação de cobrança proposta por Método Telecomunicações e Comércio Ltda. em face do Município de Itabira, com indicação do valor da causa de R$ 224.164,97 (duzentos e vinte e quatro mil, cento e sessenta e quatro reais e noventa e sete centavos) (e-STJ fls. 1/7).
+O Juízo de primeiro grau extinguiu o processo, com fundamento no artigo 485, I, do CPC, bem como condenou a parte autora em custas e honorários fixados em R$ 1.000,00 (e-STJ fls. 145/146).
+Em seguida, em sede de recurso de Apelação interposto pelo Município de Itabira, o Tribunal de origem decidiu a controvérsia acerca da fixação dos honorários advocatícios nos seguintes termos (e-STJ fls. 220/223):
+ ..  Pois bem. Regra geral, os honorários advocatícios devem ser arbitrados em percentual incidente sobre o valor da condenação ou do proveito econômico obtido, ou, ainda, não sendo possível mensurar o proveito econômico, sobre o valor atualizado da causa, respectivamente.
+Assim, o juízo de equidade na fixação dos honorários advocatícios somente pode ser utilizado de forma subsidiária, quando não presente nenhuma hipótese prevista no § 2º do art. 85 do CPC/2015.
+No entanto, quando a aplicação dos percentuais mínimos/máximos previstos no ordenamento, em determinados casos, resultar em distorções, afastando-se dos princípios constitucionais da razoabilidade e proporcionalidade, o Julgador tem o poder-dever de promover a fixação dos honorários com base na regra da equidade, atendendo-se ao grau de zelo do profissional, ao lugar de prestação do serviço, à natureza e à importância da causa, ao trabalho realizado pelo advogado e ao tempo exigido para o seu serviço.
+No julgamento do Tema nº 1.076 - REsp nº 1.850.512/SP, REsp nº 1.877.883/SP, REsp nº 1.906.618/SP e REsp nº 1.906.623/SP -, o Superior Tribunal de Justiça firmou a seguinte tese jurídica  ..
+Portanto, segundo definido no Tema 1.076, a fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados, como se revela no caso em exame.
+Com efeito, é obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC.
+Logo, a insurgência recursal merece prosperar.
+ ..  Diante do exposto, DOU PROVIMENTO AO RECURSO, para fixar os honorários de sucumbência, inclusive os recursais, no percentual de 5% do valor atualizado da causa.
+Pela análise dos excertos supramencionados, vê-se que o Tribunal de origem, à luz do Tema 1.076 do STJ, entendeu inadequada a fixação de honorários por apreciação equitativa, de modo que fixou os honorários de sucumbência "no percentual de 5% do valor atualizado da causa".
+Nesse ponto, conquanto seja correto o entendimento do Tribunal de origem quanto à necessidade de aplicação do Tema 1.076 do STJ e à inadequação de fixação de apreciação equitativa na hipótese dos autos, verifica-se que a fixação dos honorários de sucumbência, no percentual de 5% do valor atualizado da causa, está equivocada.
+Com efeito, o artigo 85, §3º do CPC dispõe:
+Art. 85. A sentença condenará o vencido a pagar honorários ao advogado do vencedor.
+§ 3º Nas causas em que a Fazenda Pública for parte, a fixação dos honorários observará os critérios estabelecidos nos incisos I a IV do § 2º e os seguintes percentuais:
+I - mínimo de dez e máximo de vinte por cento sobre o valor da condenação ou do proveito econômico obtido até 200 (duzentos) salários-mínimos;
+II - mínimo de oito e máximo de dez por cento sobre o valor da condenação ou do proveito econômico obtido acima de 200 (duzentos) salários-mínimos até 2.000 (dois mil) salários-mínimos;
+III - mínimo de cinco e máximo de oito por cento sobre o valor da condenação ou do proveito econômico obtido acima de 2.000 (dois mil) salários-mínimos até 20.000 (vinte mil) salários-mínimos;
+IV - mínimo de três e máximo de cinco por cento sobre o valor da condenação ou do proveito econômico obtido acima de 20.000 (vinte mil) salários-mínimos até 100.000 (cem mil) salários-mínimos;
+V - mínimo de um e máximo de três por cento sobre o valor da condenação ou do proveito econômico obtido acima de 100.000 (cem mil) salários-mínimos.
+Na hipótese dos autos, o valor da causa fixado em R$ 224.164,97 (duzentos e vinte e quatro mil, cento e sessenta e quatro reais e noventa e sete centavos) não ultrapassa 2.000 (dois mil) salários-mínimos, de modo que resta descabida a fixação dos honorários no patamar de 5% do valor atualizado da causa.
+Registro que a hipótese dos autos não se trata de mero erro material, porquanto, nos termos do art. 494, inciso I, do CPC, erro material é uma inexatidão material ou retificação de cálculo, um equívoco material sem conteúdo decisório propriamente dito, ou seja, que não deve afetar, em substância, o decidido, não alterando, aumentando ou diminuindo os seus efeitos, o que, sem sombra de dúvida, não se enquadra na situação dos autos quanto à fixação dos honorários de sucumbência.
+Ante o exposto, DOU PROVIMENTO ao recurso especial, a fim de reformar o acórdão recorrido e de fixar a verba honorária em 10% do valor dado à causa, nos termos da previsão do artigo 85, §3º do CPC.
+Publique-se. Intimem-se.
+EMENTA
