@@ -1,0 +1,7 @@
+DECISÃO
+O Município de São Paulo, às fls. 556-564, requer a desistência do mandado de segurança.
+O Superior Tribunal de Justiça tem adotado o entendimento firmado pelo Supremo Tribunal Federal no julgamento do RE n. 669.367/RJ (Rel. Ministro Luiz Fux, relatora para o acórdão Ministra Rosa Weber, Tribunal Pleno, julgado em 2/5/2013, DJe de 30/10/2014), submetido ao regime da repercussão geral (Tema n. 530/STF), segundo o qual " é  lícito ao impetrante desistir da ação de mandado de segurança, independentemente de aquiescência da autoridade apontada como coatora ou da entidade estatal interessada ou, ainda, quando for o caso, dos litisconsortes passivos necessários, a qualquer momento antes do término do julgamento, mesmo após eventual sentença concessiva do "writ" constitucional, não se aplicando, em tal hipótese, a norma inscrita no art. 267, § 4º, do CPC/1973".
+Ainda, destaca-se os seguintes precedentes: DESIS no MS n. 23.188/DF, relator Ministro Herman Benjamin, Primeira Seção, julgado em 27/3/2019, DJe de 1º/7/2019; AgInt na DESIS nos EDcl no AREsp n. 85.071/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 9/4/2019, DJe de 15/4/2019; e AgInt na DESIS no AREsp n. 1.202.507/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 1º/7/2019, DJe de 7/8/2019.
+Visto que ainda não houve a citação, homologo a desistência do presente mandamus, extinguindo o processo sem resolução de mérito (art. 485, VIII, do Código de Processo Civil). S em condenação em honorários.
+Publique-se. Intimem-se.
+EMENTA
