@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo JUÍZO DE DIREITO DA 1ª VARA JUDICIAL DE ITAPEVA - SP em face do JUÍZO FEDERAL DA 1ª VARA CRIMINAL DE SOROCABA - SJ/SP, no âmbito do Processo n. 7000038-46.2021.4.03.6139.
+Colhe-se dos autos que a interessada, JANDIRA PAES DE OLIVEIRA RAMOS, firmou Acordo de Não Persecução Penal com o Ministério Público, homologado perante o Juízo da 1ª Vara Federal Criminal de Itapeva; posteriormente, os autos foram remetidos ao JUÍZO FEDERAL DA 1ª VARA CRIMINAL DE SOROCABA - SJ/SP em razão do Provimento CJF3R n. 88, que excluiu a competência criminal da Vara Federal de Itapeva.
+No entanto, o Juízo suscitado declinou de sua competência para a execução do referido acordo, sob o fundamento de que a competência para o acompanhamento do acordo seria da Vara de execução penal do local do domicílio da ora interessada, seja porque haveria melhores condições de fazer cumprir a prestação de serviços à comunidade, seja em vista das normas previstas na Resolução n. 280/2019 do Conselho Nacional de Justiça, que determinou a tramitação dos processos de execução pelo SEEU (e-STJ fl. 69).
+O Juízo suscitante, por sua vez, consignou que, "estabelecida a competência da Vara Federal de Sorocaba para processar os feitos criminais da Justiça Federal de Itapeva, não pode ela delegar a sua competência para a Justiça Estadual, em razão do domicílio do executado" (e-STJ fl. 83).
+Instado a se manifestar acerca da controvérsia, o Ministério Público Federal opinou pela declaração de competência do Juízo suscitado (e-STJ fls. 7/12).
+É o relatório. Decido.
+Cuida-se de incidente instaurado entre magistrados vinculados a tribunais diversos, razão pela qual, nos termos do art. 105, I, d, da Constituição Federal, conheço do conflito.
+Pois bem.
+Cinge-se a controvérsia à definição da competência para o processamento da execução de Acordo de Não Persecução Penal, em hipótese na qual a ora interessada reside em comarca diversa daquela em que foi homologado o referido acordo.
+Nos  termos  do  art.  65  da  Lei  de  Execução  Penal ,  "a execução penal competirá ao Juiz indicado na lei local de organização judiciária e, na sua ausência, ao da sentença".
+Nessa linha, conforme entendimento pacificado do Superior Tribunal de Justiça, a mudança de domicílio do apenado não implica a alteração de competência para o processamento da execução, sendo deprecados ao Juízo do domicílio do apenado tão somente a supervisão e o acompanhamento do cumprimento da pena determinada ou, em hipóteses como a presente, a fiscalização das condições estabelecidas no ajuste firmado entre a parte e o Ministério Público.
+Ilustrativamente:
+CONFLITO NEGATIVO DE COMPETÊNCIA. PENAL. ACORDO DE NÃO PERSECUÇÃO PENAL. ART. 28-A, § 6.º, DO CÓDIGO DE PROCESSO PENAL. APLICAÇÃO DAS REGRAS ATINENTES À EXECUÇÃO PENAL. COMPETÊNCIA. CUMPRIMENTO. JUÍZO QUE HOMOLOGOU O ACORDO. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO SUSCITADO.
+1. O art. 28-A, § 6.º, do Código de Processo Penal, ao determinar que o acordo de não persecução penal será executado no juízo da execução penal, implicitamente, estabeleceu que o cumprimento das condições impostas no referido acordo deverá observar, no que forem compatíveis, as regras pertinentes à execução das penas.
+2. Segundo pacífica orientação desta Corte Superior, a competência para a execução das penas é do Juízo da condenação. No caso específico de execução de penas restritivas de direitos, em se tratando de condenado residente em jurisdição diversa do Juízo que o condenou, também é sedimentada a orientação de que a competência para a execução permanece com o Juízo da condenação, que deprecará ao Juízo da localidade em que reside o apenado tão-somente o acompanhamento e a fiscalização do cumprimento da reprimenda.
+3. Em se tratando de cumprimento das condições impostas em acordo de não persecução penal, a competência para a sua execução é do Juízo que o homologou, o qual poderá deprecar a fiscalização do cumprimento do ajuste e a prática de atos processuais para o atual domicílio do Apenado.
+4. Conflito conhecido para declarar competente o JUÍZO FEDERAL DA 1ª VARA CRIMINAL DE SÃO PAULO - SJ/SP, o Suscitado.
+(CC n. 192.158/MT, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 9/11/2022, DJe de 18/11/2022, grifo nosso.)
+Além disso, não obstante a menção do Juízo suscitado quanto às normas da Resolução n. 280/2019 do CNJ, cumpre frisar que "a implantação do Sistema Eletrônico de Execução Unificado (SEEU) proporciona facilidade de acesso aos autos e otimiza a prestação jurisdicional, contudo não altera a competência para a execução da pena fixada pela Lei de Execução Penal" (CC n. 205.069/RJ, Relator Ministro Og Fernandes, Terceira Seção, julgado em 27/11/2024, DJEN de 2/12/2024.).
+Com razão, pois, o Juízo suscitante.
+Ante o exposto, conheço do conflito para declarar competente o JUÍZO FEDERAL DA 1ª VARA CRIMINAL DE SOROCABA - SJ/SP, ora suscitado.
+Publique-se. Intimem-se .
+Dê-se ciência aos juízos envolvidos.
+EMENTA
