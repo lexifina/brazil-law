@@ -1,0 +1,48 @@
+Decisão
+
+Habeas corpus. Tráfico de drogas. Art. 33, § 4º, da lei nº 11.343/2006. Causa especial de diminuição de pena. Não incidência. Dedicação a atividades criminosas. Expressiva quantidade de entorpecente aliada às circunstâncias concretas da prática delitiva.  Conclusão das instâncias ordinárias. Reexame do conjunto fático-probatório. Inviabilidade na via estreita do writ. Ordem denegada.
+
+1. Trata-se de habeas corpus impetrado contra acórdão da Sexta Turma do Superior Tribunal de Justiça, pelo qual foi negado provimento ao Agravo Regimental no Agravo em Recurso Especial nº 3.051.943/MG.
+
+2. Consta dos autos que o paciente foi condenado pela prática dos delitos previstos nos arts. 33 e 35, c/c o art. 40, IV e VI, da Lei nº 11.343/2006, à pena de 14 anos, 7 meses e 14 dias de reclusão, em regime inicial fechado, além de 1.864 dias-multa.
+
+3. Interposta apelação, a 3ª Câmara Criminal do Tribunal de Justiça do Estado de Minas Gerais deu parcial provimento ao recurso defensivo para absolver o paciente do delito de associação para o tráfico e afastar a causa de aumento prevista no art. 40, IV, da Lei de Drogas, mantida, contudo, a negativa de incidência da minorante do tráfico privilegiado. A pena foi redimensionada para 6 anos de reclusão, em regime inicial semiaberto, e 600 dias-multa.
+
+4. A defesa interpôs recurso especial, inadmitido na origem. No Superior Tribunal de Justiça, o Ministro Relator conheceu do agravo para negar provimento ao recurso especial. Interposto agravo regimental, a Sexta Turma negou-lhe provimento, resultando no ato ora impugnado.
+
+5. Na presente impetração, a defesa sustenta a existência de flagrante constrangimento ilegal. Afirma que os fundamentos utilizados para negar a minorante do art. 33, § 4º, da Lei nº 11.343/2006 seriam genéricos, sem a indicação de elementos concretos e individualizados aptos a demonstrar que o paciente se dedicava habitualmente a atividades criminosas. Argumenta que a referência à atuação do grupo de acusados não seria suficiente para comprovar a dedicação pessoal do paciente ao tráfico. Alega, ainda, que a própria Procuradoria-Geral da República, ao se manifestar no recurso dirigido ao Superior Tribunal de Justiça, teria reconhecido a ausência de elementos objetivos suficientes para caracterizar a dedicação do paciente à atividade criminosa.  Aduz que, reconhecida a incidência do tráfico privilegiado, a redução deve ocorrer na fração máxima de 2/3, com a consequente fixação do regime inicial aberto e análise da possibilidade de substituição da pena privativa de liberdade por restritivas de direitos.
+
+6. Requer, liminarmente e no mérito, o reconhecimento da causa de diminuição prevista no art. 33, § 4º, da Lei nº 11.343/2006, com o redimensionamento da pena, a fixação do regime aberto e a análise da substituição da pena privativa de liberdade por restritivas de direitos.
+
+É o relatório.
+
+Decido.
+
+7. Conforme o art. 33, § 4º, da Lei de Drogas, é viável a diminuição da pena, de 1/6 a 2/3, para o agente primário, sem antecedentes, que não se dedica a atividades delituosas nem integra organização criminosa. A minorante dirige-se ao pequeno traficante, aquele não envolvido com a criminalidade, para o qual o tráfico de entorpecente é um fato episódico e ocasional.
+
+8. O STJ, a partir do quadro fático delimitado pelas instâncias ordinárias assentou que “não era mesmo o caso de concessão da benesse, haja vista que, além da apreensão de 15 kg de maconha, as instâncias ordinárias destacaram as circunstâncias do crime, em “que os acusados, habitualmente, reuniam-se para fracionar e dolar expressiva quantidade de drogas no loteamento no Nezão, além de possuírem papéis bem estabelecidos de guarda, transporte e distribuição das drogas nos intervalos de cada remessa de drogas que chegava em Pocrane para ser fracionada e dolada”, (fls. 1.144-1.145), o que demonstra a dedicação do recorrente ao crime, e obsta a incidência da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006.” (decisão disponível para acesso público no site do STJ).
+
+9. No caso, observa-se que a negativa da causa de diminuição se deu em razão da expressiva quantidade de droga apreendida — 15 kg de maconha —, aliada às circunstâncias concretas da prática delitiva, notadamente a constatação de que os acusados se reuniam habitualmente para fracionar e “dolar” expressiva quantidade de entorpecentes, com papéis definidos na guarda, no transporte e na distribuição das drogas a cada remessa recebida, circunstâncias que levaram as instâncias ordinárias a concluir que o paciente não ostentaria a condição de traficante eventual ou ocasional, mostrando-se imprópria a aplicação da minorante. As premissas adotadas pelas instâncias antecedentes estão em consonância com a jurisprudência do Supremo Tribunal Federal:
+
+ “AGRAVO INTERNO EM HABEAS CORPUS. TRÁFICO PRIVILEGIADO AFASTADO COM FUNDAMENTO NA DEDICAÇÃO A ATIVIDADE CRIMINOSA. NECESSÁRIO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE DA VIA ELEITA. REGIME FECHADO IDONEAMENTE FUNDAMENTADO. HABEAS CORPUS INDEFERIDO. 1. A conduta social, os maus antecedentes, a reincidência, o concurso de agentes, as circunstâncias da apreensão e a quantidade de drogas são elementos aptos a indicar a dedicação do agente a atividade criminosa, que, por sua vez, é fundamento idôneo para afastar a minorante do tráfico privilegiado. 2. É inadmissível, na via estreita do habeas corpus, a qual não comporta dilação probatória, o reexame, com vistas ao acolhimento da tese defensiva – reconhecimento do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006) –, do conjunto fático-probatório que levou o Tribunal de origem a concluir pela “efetiva dedicação do acusado ao comércio ilegal”. 3. A natureza e a quantidade de substância entorpecente apreendida são fundamentos idôneos para a imposição de regime mais gravoso. 4. Agravo interno desprovido.”
+(HC nº 205.432-AgR/SP, Rel. Min. Nunes Marques, Segunda Turma, j. 04/11/2021, p. 08/02/2022; grifos nossos).
+
+“(...) 7. Segundo o STF, a “causa de diminuição prevista no § 4º do art. 33 da Lei nº 11.343/2006 é aplicada desde que o agente seja primário, possua bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa. Em observância aos princípios da individualização da pena e da fundamentação das decisões judiciais, o afastamento do benefício deve ser embasado em elementos concretos que indiquem o não preenchimento dos requisitos legais” (HC 203.235-AgR, Rel. Min. Edson Fachin). 8. Hipótese de paciente definitivamente condenado a 9 anos, 4 meses e 15 dias de reclusão, pelo tráfico interestadual de entorpecentes. Em que pese a primariedade do acionante, as instâncias de origem fixaram a pena-base em patamar acima do mínimo legal em razão da quantidade da droga apreendida (580 kg de maconha e 21,500 kg de cocaína). Da mesma forma, deixaram de aplicar a minorante do art. 33, § 4º, da Lei nº 11.343/2006, com base em dados objetivos da causa, especialmente porque “ficou demonstrado que o acusado está envolvido com organização criminosa, uma vez que o modus operandi indica o envolvimento de grupo especializado no transporte de drogas da região de fronteira do Mato Grosso do Sul para outros Estados do país”. 9. Eventual acolhimento da tese defensiva no sentido de que o paciente não se dedica a atividades criminosas demandaria o revolvimento do conjunto fático-probatório, inviável em sede de habeas corpus. 10. Agravo regimental a que se nega provimento.”
+(HC nº 222.084-AgR/MS, Rel. Min. Roberto Barroso, Primeira Turma, j. 19/12/2022, p. 06/02/2023; grifos nossos).
+
+10. Além disso, assentada pelas instâncias ordinárias a dedicação do paciente a atividades criminosas, alcançar conclusão diversa demandaria o reexame do acervo fático-probatório, incabível na via estreita do habeas corpus. A propósito, confira-se:
+
+ “AGRAVO REGIMENTAL NO HABEAS CORPUS. CONSTITUCIONAL. TRÁFICO DE ENTORPECENTE. CAUSA DE DIMINUIÇÃO DO § 4º DO ART. 33 DA LEI N. 11.343/2006: DEDICAÇÃO DO AGRAVANTE A ATIVIDADES CRIMINOSAS. NECESSIDADE DE REEXAME DE FATOS E PROVAS. REGIME INICIAL FECHADO IMPOSTO COM FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+(HC nº 209.574-AgR/MG, Rel. Min. Cármen Lúcia, Primeira Turma, j. 14/02/2022, p. 17/02/2022; grifos nossos).
+
+“AGRAVO REGIMENTAL EM HABEAS CORPUS. SENTENÇA CONDENATÓRIA TRANSITADA EM JULGADO. UTILIZAÇÃO DE HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. INVIABILIDADE. TRÁFICO PRIVILEGIADO AFASTADO COM FUNDAMENTO NA DEDICAÇÃO A ATIVIDADE CRIMINOSA. NECESSÁRIO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE DA VIA ELEITA. HABEAS CORPUS NÃO CONHECIDO. 1. É inviável a utilização de habeas corpus como sucedâneo de revisão criminal. 2. A existência de ações penais em curso constitui premissa idônea e válida a evidenciar a dedicação a atividade criminosa e justificar o afastamento do tráfico privilegiado. 3. É inadmissível, na via estreita do habeas corpus, a qual não comporta dilação probatória, o reexame, com vistas ao acolhimento da tese defensiva – aplicação do tráfico privilegiado (Lei n. 11.343/2006, art. 33, § 4º) –, do conjunto fático-probatório produzido nas instâncias ordinárias, que as levou a concluir pela “dedicação às atividades criminosas como verdadeiro meio de vida”. 4. Agravo interno desprovido.”
+(HC nº 201.617-AgR/AM, Rel. Min. Nunes Marques, Segunda Turma, j. 23/11/2021, p. 17/12/2021; grifos nossos).
+
+11. Ante o exposto, denego a ordem de habeas corpus, com fundamento no art. 192 do RISTF.
+
+Publique-se.
+
+Brasília, 31 de agosto de 2026.
+
+Ministro ANDRÉ MENDONÇA
+Relator
