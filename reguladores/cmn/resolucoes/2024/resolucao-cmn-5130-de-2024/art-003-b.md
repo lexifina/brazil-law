@@ -1,0 +1,2 @@
+Art. 3º-B A condição de mutuário ou de beneficiário das operações de que trata esta Resolução não implica a perda de benefícios a que faz jus o beneficiário do Programa Nacional de Fortalecimento da Agricultura Familiar – Pronaf. (Incluído pela Resolução CMN nº 5.205, de 17/4/2025.)
+Parágrafo único. As operações de que trata esta Resolução que forem enquadradas como crédito rural devem observar, no que couber, as disposições constantes do Manual de Crédito Rural – MCR, exceto as relativas a renegociações. (Incluído pela Resolução CMN nº 5.205, de 17/4/2025.)
