@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de agravo regimental interposto contra decisão da Presidência deste Tribunal que negou seguimento ao recurso extraordinário com agravo.
+Nas razões recursais, sustenta-se que “a Agravante interpôs Recurso Extraordinário, delimitando expressamente a questão constitucional submetida ao Supremo Tribunal Federal: definir se, diante da supressão de benefício fiscal condicionada à ocorrência de evento futuro e à posterior edição de ato administrativo, o termo inicial das anterioridades deve corresponder à publicação da Lei nº 14.859/2024 ou à edição do ADE RFB nº 02/2025, à luz do Tema 1.383 da repercussão geral ” (eDOC 55, p. 6).
+Nessa linha, assevera que a matéria tratada nos autos teve a repercussão geral reconhecida pelo STF no julgamento do RE 1.473.645/RG, referente ao Tema 1.383.
+É o relatório. Decido.
+O Supremo Tribunal Federal reconheceu a existência de Repercussão Geral da matéria versada no RE 1.473.645/RG (Tema 1.383), cujo acórdão de mérito recebeu a seguinte ementa:
+
+Ementa: Direito constitucional e tributário. Recurso extraordinário. ICMS. Revogação ou supressão de benefício fiscal. Anterioridade tributária. Reafirmação de jurisprudência. I. Caso em exame 1. Recurso extraordinário contra acórdão do Tribunal de Justiça do Pará que anulou autos de infração fiscal relativos ao recolhimento a menor de ICMS, realizados com base em benefício fiscal revogado. Isso ao fundamento de que a supressão ou a redução de benefício tributário deve observar a anterioridade tributária. II. Questão em discussão 2. A questão em discussão consiste em saber se o princípio da anterioridade tributária deve ser observado nos casos de redução ou de supressão de incentivo ou benefício tributário. III. Razões de decidir 3. No julgamento de Agravo em Embargos de Divergência no RE 564.225, o STF afirmou “que se aplica o princípio da anterioridade tributária, geral e nonagesimal, nas hipóteses de redução ou de supressão de benefícios ou de incentivos fiscais, haja vista que tais situações configuram majoração indireta de tributos”, observadas as exceções expressas na Constituição. 4. O princípio da anterioridade busca assegurar a previsibilidade da relação fiscal, de modo a evitar que o sujeito passivo seja surpreendido com um aumento súbito de encargo, sem a possibilidade de planejamento financeiro. Precedentes. IV. Dispositivo e tese 5. Recurso extraordinário conhecido e desprovido. Tese de julgamento: “O princípio da anterioridade tributária, geral e nonagesimal, se aplica às hipóteses de redução ou de supressão de benefícios ou de incentivos fiscais que resultem em majoração indireta de tributos, observadas as determinações e as exceções constitucionais para cada tributo”.” (RE 1473645 RG, Relator(a): MINISTRO PRESIDENTE, Tribunal Pleno, REPERCUSSÃO GERAL - MÉRITO DJe 29-04-2025)
+
+Diante do exposto, reconsidero a decisão agravada e determino a devolução dos autos à Corte de origem para que adote, conforme a situação do referido tema de repercussão geral, os procedimentos previstos nos incisos I a III do artigo 1.030 do Código de Processo Civil (inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal). Julgo prejudicado o agravo interno.
+
+Publique-se.
+
+Brasília, 31 de agosto de 2026.
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
