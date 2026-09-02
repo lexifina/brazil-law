@@ -1,0 +1,1249 @@
+Poder Judiciário
+Justiça do Trabalho
+${SVNOMEORGAO}
+PROCESSO Nº TST-EDCiv-Ag-AIRR - 1772-86.2010.5.01.0521
+A C Ó R D Ã O
+6ª Turma
+GMACC/dmmc/hta
+EMBARGOS DE DECLARAÇÃO DA RECLAMADA. AGRAVO EM
+AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA SOB A
+ÉGIDE DA LEI 13.467/2017. DOENÇA OCUPACIONAL. NEXO DE
+CAUSALIDADE COM ACIDENTE DE TRABALHO SOFRIDO PELO
+EMPREGADO. COMPROVAÇÃO. OMISSÃO EM RELAÇÃO À
+INVERSÃO DO ÔNUS DA PROVA NÃO CONFIGURADA. INTUITO
+PROTELATÓRIO EVIDENCIADO. Inexistente qualquer dos vícios
+previstos nos artigos 897-A da CLT e 1.022 do CPC. Embora
+qualquer das partes possa ser apenada por embargos de
+declaração opostos com o intuito de procrastinação, a oposição
+de embargos declaratórios pelo devedor da obrigação
+trabalhista, quando tal ocorre sem atenção às hipóteses de seu
+cabimento, revela o manifesto interesse de procrastinar o
+tempo de suportar o ônus de cumprir a prestação, o suficiente
+para atrair a cominação da multa correspondente. Embargos
+declaratórios não providos com aplicação de multa de 1%
+prevista no art. 1.026, § 2º, do CPC.
+Vistos, relatados e discutidos estes autos de Embargos de Declaração Cível em
+Agravo em Agravo de Instrumento em Recurso de Revista nº TST-EDCiv-Ag-AIRR - 1772-
+86.2010.5.01.0521, em que é Embargante CARBOOX RESENDE INDUSTRIA E COMERCIO DE
+REFRATARIOS LTDA e é Embargado(a) RENATO APARECIDO DE CARVALHO.
+A reclamada opôs embargos declaratórios, alega a ocorrênciade omissão no
+exame do recurso apreciado na decisão embargada e requer efeito modificativo do julgado embargado.
+Aberto o prazo para impugnação dos embargos declaratórios, houve
+manifestação do embargado.
+É o relatório.
+V O T O
+1 – CONHECIMENTO
+Atendidos os pressupostos legais de admissibilidade dos embargos de declaração,
+conheço.
+2 – MÉRITO
+A embargante alega que o acórdão “incorreu em omissão ao deixar de analisar o
+fundamento jurídico trazido pela ora Embargante no sentido de que o acórdão regional teria incorrido em
+julgamento extra petita.” Argumenta que “foi fundamentado que, em verdade, a inversão do ônus da prova
+na fase recursal, ou seja, depois de transcorrida a fase probatória, viola o princípio da não surpresa
+ocasionando uma decisão nula (art. 10, do CPC), eis que configuradojulgamento extra petita.”
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F3FDE5CDDC493.
+Ficou consignado na decisão embargada:
+“V O T O
+1 - CONHECIMENTO
+O recurso é tempestivo e está subscrito por advogado habilitado nos autos.
+Satisfeitos os pressupostos de admissibilidade, conheço .
+2 - MÉRITO
+O agravante não se conforma com a decisão monocrática que negou provimento ao seu agravo
+de instrumento, nos seguintes termos:
+"D E C I S Ã O
+AGRAVOS DE INSTRUMENTO. RECURSOS DE REVISTA. LEI Nº 13.467/2017
+Trata-se de agravos de instrumento interpostos contra decisão mediante a qual se denegou
+seguimento aos recursos de revista, nos seguintes termos:
+RECURSO DE: CARBOOX RESENDE QUÍMICA INDÚSTRIA COMÉRCIO LTDA
+PRESSUPOSTOS EXTRÍNSECOS
+Tempestivo o recurso.
+Regular a representação processual.
+Satisfeito o preparo (Id. f739064, bb17c87, 95a5b30).
+PRESSUPOSTOS INTRÍNSECOS
+DIREITO PROCESSUAL CIVIL E DO TRABALHO / Atos Processuais / Nulidade / Negativa de
+prestação jurisdicional.
+DIREITO PROCESSUAL CIVIL E DO TRABALHO / Atos Processuais / Nulidade / Julgamento Extra /
+Ultra / Citra Petita.
+Alegação(ões):
+- violação do(s) artigo 5º, inciso II; artigo 5º, inciso LIV; artigo 5º, inciso LV; artigo 93, inciso IX, da
+Constituição Federal.
+- violação d(a,o)(s) Lei nº 13105/2015, artigo 10º.
+- divergência jurisprudencial.
+A análise da fundamentação contida no v. acórdão recorrido revela que a prestação
+jurisdicional ocorreu de modo completo e satisfatório, inexistindo qualquer afronta aos dispositivos
+que disciplinam a matéria. Não há falar na ocorrência de conflito jurisprudencial, uma vez que a
+existência do dissenso pretoriano exige a possibilidade de confronto de teses. No caso específico da
+alegação de negativa de prestação jurisdicional, tal conflito é inexistente, até porque a própria parte
+recorrente afirma que a questão jurídica não foi, no seu entendimento, enfrentada no v. acórdão
+regional. Desse modo, arestos porventura colacionados para tal finalidade revelam-se plenamente
+inúteis e, portanto, não devem sequer ser analisados. Nesse aspecto, o recurso não merece
+processamento, porquanto não restou evidenciada a vulneração de nenhum dos dispositivos
+estampados na Súmula 459 do TST.
+Por fim, não se verifica o alegado julgamento extra petita.
+Responsabilidade Civil do Empregador / Empregado / Indenização por Dano Material / Pensão
+Vitalícia.
+Responsabilidade Civil do Empregador / Empregado / Indenização por Dano Moral / Acidente
+de Trabalho.
+Duração do Trabalho / Horas Extras.
+Duração do Trabalho / Adicional Noturno.
+Alegação(ões):
+- violação do(s) artigo 5º, inciso II; artigo 5º, inciso V; artigo 5º, inciso X; artigo 5º, inciso XXII;
+artigo 5º, inciso XXVI; artigo 5º, inciso XXXVI; artigo 5º, inciso LIV; artigo 5º, inciso LV; artigo 7º, inciso
+XXVI; artigo 7º, inciso XXVIII; artigo 144, da Constituição Federal.
+- violação d(a,o)(s) Consolidação das Leis do Trabalho, artigo 8º, §único; artigo 223-G; artigo
+611-A, inciso I; artigo 818, inciso I; Lei nº 13105/2015, artigo 373, inciso I; artigo 480; Código Civil,
+artigo 186; artigo 187; artigo 884; artigo 927; artigo 940; artigo 944; artigo 945; artigo 950.
+- divergência jurisprudencial.
+O exame detalhado do processo revela que o v. acórdão regional está fundamentado no
+conjunto fático-probatório até então produzido. Nesse aspecto, a análise das violações apontadas
+importaria o reexame de todo o referido conjunto, o que, na atual fase processual, encontra óbice
+inarredável na Súmula 126 do TST.
+Os arestos transcritos para o confronto de teses não se prestam ao fim colimado, seja por se
+revelarem inespecíficos, vez que não se enquadram nos moldes estabelecidos pelas Súmulas 23 e
+296 do TST, seja ainda por se revelarem inservíveis, porquanto não contemplados na alínea "a" do
+art. 896 da CLT. Podem ser, ainda, enquadrados na categoria de inservíveis os arestos não
+adequados ao entendimento consagrado na Súmula 337 do TST.
+DIREITO PROCESSUAL CIVIL E DO TRABALHO / Partes e Procuradores / Sucumbência /
+Honorários Periciais.
+Alegação(ões):
+- violação do(s) artigo 5º, inciso II, da Constituição Federal.
+- violação d(a,o)(s) Consolidação das Leis do Trabalho, artigo 790-B; Lei nº 13105/2015, artigo
+479.
+- divergência jurisprudencial.
+Nos termos em que prolatada a decisão, não se verificam as violações apontadas. Na verdade,
+trata-se de mera interpretação dos mencionados dispositivos, o que não permite o processamento
+do recurso. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F3FDE5CDDC493.
+Os arestos transcritos para o confronto de teses não se prestam ao fim colimado, seja por se
+revelarem inespecíficos, vez que não se enquadram nos moldes estabelecidos pelas Súmulas 23 e
+296 do TST, seja ainda por se revelarem inservíveis, porquanto não contemplados na alínea "a" do
+art. 896 da CLT, bem como não adequados ao entendimento consagrado na Súmula 337 do TST.
+CONCLUSÃO
+NEGO seguimento ao recurso de revista.
+RECURSO DE: RENATO APARECIDO DE CARVALHO
+PRESSUPOSTOS EXTRÍNSECOS
+Tempestivo o recurso.
+Regular a representação processual.
+Desnecessário o preparo.
+PRESSUPOSTOS INTRÍNSECOS
+DIREITO CIVIL / Fatos Jurídicos / Prescrição e Decadência.
+Alegação(ões):
+- violação do(s) artigo 5º, inciso X; artigo 5º, inciso XXXV; artigo 5º, inciso LXXIV; artigo 7º, inciso
+XXVIII, da Constituição Federal.
+- violação d(a,o)(s) Consolidação das Leis do Trabalho, artigo 8º; artigo 769; Lei nº 13105/2015,
+artigo 336; artigo 341; artigo 507; Código Civil, artigo 186; artigo 927; artigo 950.
+- divergência jurisprudencial.
+Nos termos em que prolatada a decisão, não se verificam as violações apontadas. Na verdade,
+trata-se de mera interpretação dos mencionados dispositivos, o que não permite o processamento
+do recurso. Não se vislumbra, também, nenhuma afronta à jurisprudência sedimentada da C. Corte.
+O aresto transcrito para o confronto de teses revela-se inservível, porquanto não adequado ao
+entendimento consagrado na Súmula 337 do TST.
+Responsabilidade Civil do Empregador / Empregado / Indenização por Dano Estético.
+Alegação(ões):
+- violação do(s) artigo 5º, inciso X; artigo 7º, inciso XXVIII, da Constituição Federal.
+- violação d(a,o)(s) Consolidação das Leis do Trabalho, artigo 8º; artigo 769; Lei nº 13105/2015,
+artigo 336; artigo 341; artigo 507; Código Civil, artigo 186; artigo 927; artigo 950.
+- divergência jurisprudencial.
+O exame detalhado do processo revela que o v. acórdão regional está fundamentado no
+conjunto fático-probatório até então produzido. Nesse aspecto, a análise das violações apontadas
+importaria o reexame de todo o referido conjunto, o que, na atual fase processual, encontra óbice
+inarredável na Súmula 126 do TST.
+Os arestos transcritos para o confronto de teses revelam-se inservíveis, porquanto não
+adequados ao entendimento consagrado na Súmula 337 do TST.
+CONCLUSÃO
+NEGO seguimento ao recurso de revista.
+Presentes os pressupostos legais de admissibilidade, conheço.
+Em sede de agravo de instrumento, as partes insistem no processamento dos apelos.
+Analiso.
+Primeiramente, convém esclarecer que os presidentes dos Tribunais Regionais do Trabalho, no
+exercício do juízo de admissibilidade do recurso de revista, estão cumprindo expressa determinação
+legal, de jurisdição inafastável, conforme dispõe o § 1º do art. 896 da CLT, o qual abrange tanto os
+pressupostos extrínsecos quanto os intrínsecos, sem que isso implique usurpação de competência
+do TST ou cerceamento ao direito de defesa e de amplo acesso à jurisdição.
+De qualquer modo, a alegação de nulidade da decisão denegatória requer a apresentação
+prévia de embargos de declaração na instância a quo. A ausência deste procedimento acarretará a
+preclusão, que por sua vez impossibilita a avaliação de qualquer suposta violação aos artigos 93,
+inciso IX, da Constituição Federal, 489 do Código de Processo Civil e 832 da Consolidação das Leis do
+Trabalho.
+É pertinente destacar ainda, em consonância com o princípio da delimitação recursal, que
+apenas os temas efetivamente submetidos à análise no agravo de instrumento podem ser objeto de
+escrutínio, sendo que a preclusão incide sobre os temas alegados nas razões do recurso de revista,
+mesmo que tenham sido objeto de debate na decisão que motivou o agravo, que não tenham sido
+novamente trazidos à tona no agravo de instrumento, conforme prescreve o artigo 1º, parágrafo 1º,
+da Instrução Normativa nº 40 do Tribunal Superior do Trabalho.
+Outrossim, a parte recorrente que não se insurge, por meio de embargos de declaração, sobre
+as omissões identificadas no juízo de admissibilidade do recurso de revista em relação a um ou mais
+tópicos, está impedida de tê-los avaliados nesta fase recursal, uma vez que sujeitos aos efeitos da
+preclusão, conforme preconiza o parágrafo 2º do artigo 2º da Instrução Normativa nº 40 do Tribunal
+Superior do Trabalho.
+Ademais, os argumentos inovatórios acham-se alijados de análise, porquanto ausentes das
+considerações delineadas nas razões apresentadas no recurso de revista.
+No caso dos presentes autos, observe-se que a decisão agravada, ao denegar seguimento aos
+recursos de revista interpostos, apresentou fundamentação condizente com a exigência estabelecida
+no § 1º do artigo 896 da CLT.
+A bem ver, não há como se alterar a decisão agravada, a qual me reporto e utilizo como
+fundamentação, tendo em vista que de seu detido cotejo com as razões de recurso conclui-se não
+haver a demonstração de jurisprudência dissonante específica sobre o tema, de interpretação
+divergente de normas regulamentares ou de violação direta de dispositivo de lei federal ou da
+Constituição da República, nos moldes das alíneas 'a', 'b' e 'c' do art. 896 da CLT. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F3FDE5CDDC493.
+Os fundamentos assentados na decisão agravada são alusivos à verbetes da jurisprudência
+que retratam, com fidelidade, a orientação do TST acerca de cada uma das pretensões recursais.
+Portanto, faço minhas, per relationem, as razões de decidir que serviram à decisão denegatória do
+agravo, para declarar sua manifesta improcedência.
+Acresça-se que, nos termos do artigo 932, III e IV, do Código de Processo Civil de 2015,
+combinados com os artigos 118, X e 255, III, a e b, do Regimento Interno desta Corte, o Relator está
+autorizado, por meio de decisão monocrática, a conhecer do agravo de instrumento para: a) negar￾lhe provimento em caso de recurso de revista inadmissível, prejudicado ou em que não tenha havido
+impugnação específica de todos os fundamentos da decisão recorrida, inclusive nas hipóteses do art.
+896, § 1º-A, da CLT; b) negar-lhe provimento nos casos em que o recurso for contrário a tese fixada
+em julgamento de recursos repetitivos ou de repercussão geral, a entendimento firmado em
+incidente de assunção de competência ou de demandas repetitivas, a súmula vinculante do Supremo
+Tribunal Federal ou a súmula ou orientação jurisprudencial do Tribunal Superior do Trabalho ou,
+ainda, a jurisprudência dominante acerca do tema.
+Essa modalidade de decisão, que autoriza o desprovimento imediato dos recursos interpostos
+contra acórdãos cujos fundamentos se revelem consentâneos ao posicionamento pacífico dos
+Tribunais Superiores, reforça o microssistema de valorização dos precedentes desenvolvidos pelo
+legislador com o atual CPC e, a um só tempo, atende aos princípios da celeridade e da duração
+razoável do processo, ambos consagrados no artigo 5º, LXXVIII, da Constituição Federal.
+Ressalte-se que o Supremo Tribunal Federal tem jurisprudência consolidada no sentido de a
+remissão aos fundamentos da decisão recorrida e sua adoção como razão de decidir ser meio
+adequado para cumprir o requisito constitucional de motivação das decisões proferidas pelo Poder
+Judiciário. A respeito, destacam-se os seguintes precedentes:
+DIREITO PROCESSUAL CIVIL. FUNDAMENTAÇÃO PER RELATIONEM. POSSIBILIDADE.
+PRECEDENTES. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 93, IX, DA CONSTITUIÇÃO DA
+REPÚBLICA. NULIDADE. NÃO OCORRÊNCIA. RAZÕES DE DECIDIR EXPLICITADAS PELO ÓRGÃO
+JURISDICIONAL. AGRAVO NÃO PROVIDO. 1. Inexiste violação do art. 93, IX, da Constituição Federal. A
+jurisprudência desta Suprema Corte é no sentido de que o referido dispositivo exige a explicitação,
+pelo órgão jurisdicional, das razões do seu convencimento. Enfrentadas todas as causas de pedir
+veiculadas pela parte, capazes de, em tese, influenciar o resultado da demanda, fica dispensado o
+exame detalhado de cada argumento suscitado, considerada a compatibilidade entre o que alegado
+e o entendimento fixado pelo órgão julgador. 2. Este Supremo Tribunal Federal tem jurisprudência
+consolidada quanto à regularidade da fundamentação per relationem como técnica de motivação
+das decisões judiciais. Precedentes. 3. As razões do agravo interno não se mostram aptas a infirmar
+os fundamentos que lastrearam a decisão agravada. 4. A teor do art. 85, § 11, do CPC, o "tribunal, ao
+julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional
+realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao
+tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar
+os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento". 5. Agravo interno
+conhecido e não provido. (RE 1397056 ED-AgR, Relator(a): ROSA WEBER (Presidente), Tribunal Pleno,
+julgado em 13/03/2023, PROCESSO ELETRÔNICO DJe-s / n DIVULG 27-03-2023 PUBLIC 28-03-2023)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. CRIME DE CORRUPÇÃO PASSIVA. WRIT
+SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL. DOSIMETRIA. INCIDÊNCIA DE CAUSA DE AUMENTO.
+FUNDAMENTAÇÃO PER RELATIONEM . VALIDADE. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE OU
+TERATOLOGIA. 1. Inadmissível o emprego do habeas corpus como sucedâneo de recurso ou revisão
+criminal. Precedentes. 2. Da leitura dos fundamentos do acórdão objurgado, constato explicitados os
+motivos de decidir, circunstância que afasta o vício da nulidade por negativa de prestação
+jurisdicional arguido (art. 93, IX, da Lei Maior). A disparidade entre o resultado do julgamento e a
+expectativa da parte não sugestiona lesão à norma do texto republicano. 3. O Supremo Tribunal
+Federal tem jurisprudência consolidada quanto à regularidade da fundamentação per relationem
+como técnica de motivação das decisões judiciais . Precedentes. 4. Agravo regimental conhecido e
+não provido. (HC 211740 AgR, Relatora ROSA WEBER, Primeira Turma, PROCESSO ELETRÔNICO, DJe
+01/04/2022).
+DIREITO PROCESSUAL PENAL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM
+AGRAVO. FRAUDE A CREDORES. INDUÇÃO A ERRO. MOTIVAÇÃO PER RELATIONEM . POSSIBILIDADE.
+AUSÊNCIA DE VIOLAÇÃO AO ART. 93, IX, DA CONSTITUIÇÃO FEDERAL . ANÁLISE DA LEGISLAÇÃO
+INFRACONSTITUCIONAL E REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA
+279/STF. INOVAÇÃO RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO. JURISPRUDÊNCIA DO
+SUPREMO TRIBUNAL FEDERAL. 1. A jurisprudência do Supremo Tribunal Federal (STF) é no sentido de
+que não viola a Constituição Federal o uso da técnica da motivação per relationem (ARE 757.522 AgR,
+Rel. Min. Celso de Mello). Precedentes. 2. O STF tem entendimento no sentido de que as decisões
+judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos
+suficientes para justificar suas conclusões (AI 791.292-QO-RG, Rel. Min. Gilmar Mendes). Na hipótese,
+a decisão está devidamente fundamentada, embora em sentido contrário aos interesses da parte
+agravante. [...]. 7. Agravo interno a que se nega provimento. (ARE 1339222 AgR, Relator ROBERTO
+BARROSO, Primeira Turma, DJe 04/10/2021).
+Em igual sentido colhem-se julgados de todas as Turmas do TST: Ag-AIRR-488-
+25.2021.5.09.0007, 1ª Turma, Relator Ministro Luiz Jose Dezena da Silva, DEJT 13/06/2023; Ag-AIRR￾10959-26.2018.5.18.0211, 2ª Turma, Relatora Ministra Maria Helena Mallmann, DEJT 23/06/2023; Ag￾AIRR-1000163-07.2020.5.02.0090, 3ª Turma, Relator Ministro Alberto Bastos Balazeiro, DEJT
+28/04/2023; Ag-AIRR-11355-09.2020.5.15.0084, 4ª Turma, Relatora Ministra Maria Cristina Irigoyen
+Peduzzi, DEJT 23/06/2023; Ag-AIRR-1178-65.2019.5.22.0006, 5ª Turma, Relatora Ministra Morgana de
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F3FDE5CDDC493.
+Almeida Richa, DEJT 23/06/2023; Ag-AIRR-1000562-31.2019.5.02.0006, 6ª Turma, Relator
+Desembargador Convocado José Pedro de Camargo Rodrigues de Souza, DEJT 19/05/2023; Ag-AIRR￾498-82.2017.5.09.0242, 7ª Turma, Relator Ministro Evandro Pereira Valadão Lopes, DEJT 30/06/2023;
+Ag-AIRR-120700-09.2006.5.02.0262, 8ª Turma, Relator Ministro Sergio Pinto Martins, DEJT 29/05/2023.
+Por fim, apesar de o art. 896-A da CLT estabelecer a necessidade de exame prévio da
+transcendência do recurso de revista, a jurisprudência da Sexta Turma do TST evoluiu para entender
+que esta análise fica prejudicada quando o apelo carece de pressupostos processuais extrínsecos ou
+intrínsecos que impedem o alcance do exame meritório do feito.
+Ante o exposto, com base nos arts. 932, IV, c / c 1.011, I, do CPC, e 118, X, do RITST, JULGO
+PREJUDICADO o exame dos critérios de transcendência da causa e NEGO PROVIMENTO aos agravos
+de instrumento."
+Ficou consignado no acórdão regional:
+"PRELIMINAR DE NULIDADE DA SENTENÇA POR JULGAMENTO ULTRA PETITA, SUSCITADA PELA
+RECLAMADA
+Item de preliminar
+A reclamada, ora recorrente, suscita preliminar de nulidade da sentença por julgamento ultra
+petita. Afirma que a condenação da empresa ao pagamento de horas extras relativas ao labor
+realizado no curso de todo o contrato de trabalho, não observada a prescrição parcial, ultrapassa os
+limites do pedido formulado na exordial.
+Na realidade, tal questão se refere ao mérito do julgado, devendo ser analisada no momento
+oportuno.
+Ainda que assim não fosse, o §3º do art. 1013 do CPC/15, expressamente aplicável ao processo
+do trabalho por força do que dispôs a IN nº 39 do TST, permite a julgamento, pelo juízo ad quem, da
+questão.
+Sendo assim, rejeito a preliminar.
+Conclusão das preliminares
+MÉRITO
+RECURSO ORDINÁRIO DO RECLAMANTE
+ACIDENTE DE TRABALHO
+A petição inicial nos dá conta de que o autor foi admitido em 01/09/1995, na função de
+motorista de ajudante, e dispensado sem justa causa em 25/11/2008. Afirma que em "(...) 18/01/1997
+sofreu sérias queimaduras nos olhos devido a explosão de uma caldeira, quando exercia suas
+funções, conforme laudos em anexo foi constatado em 25/03/2009 que o olho direito teve perda de
+90% da visão de forma permanente." Assevera que foi afastado por seis meses por acidente de
+trabalho, retornando ao labor apesar da incapacidade parcial. Alega que não foram fornecidos
+Equipamentos de Proteção Individual - EPIs e que não foram realizados treinamentos relacionados à
+segurança do trabalho. Pretende a condenação da ré ao pagamento de indenização por danos
+morais, materiais e estéticos, bem como de pensão mensal e vitalícia (ID. 8974d03).
+A ré, em contestação, sustenta que foram realizados treinamentos de segurança no ambiente
+de trabalho, bem como que o reclamante recebeu e utilizava os EPIs. Alega, ainda, que não há
+relação entre a doença do autor e o acidente de trabalho:
+"Em atenta análise à documentação acostada aos autos, verifica-se que NÃO HÁ NEXO CAUSAL
+entre o acidente sofrido pelo Recte em 1997 e a suposta comprovação de perda da visão constatada
+apenas em 2009, meses após o Recte ter sido desligado dos quadros da empresa. Data máxima
+vênia, pela vasta documentação carreada aos autos, denota-se que o Recte após sua efetiva alta
+médica ocorrida em 1997, frise-se o ano, fez vários exames periódicos solicitados pela própria
+empresa, e em nenhum deles durante os anos que se seguiram até a data da rescisão foi constatado
+qualquer sequela inerente ao acidente ocorrido em 1997." (ID. a993e59)
+O pedido foi julgado improcedente, nos seguintes termos:
+"ACIDENTE DE TRABALHO - DANOS PATRIMONIAIS E EXTRAPATRIMONIAIS
+(...)
+Pela leitura dos trechos acima destacados, nota-se que a perícia não foi conclusiva e partiu da
+premissa de possível nexo causal entre as lesões e o labor em decorrência tão somente do
+incontroverso acidente de trabalho, o que é insuficiente, mormente se considerarmos que este
+último trecho acima indicado evidencia que a nubécula não se forma com o passar dos anos, sendo
+que o autor narra na inicial que a lesão foi constatada no ano de 2009.
+Na realidade, o conjunto probatório é favorável à tese da ré de inexistência de nexo causal,
+não só pelo decurso do tempo, como também pelo fato de que o autor não anexou documentação
+comprovando ou indicando as lesões entre a alta previdenciária e a dispensa.
+A ré, a seu turno, anexou documentação que atesta a sua capacidade laborativa (id c958700 a
+ee1c3c2) ao longo da contratualidade, inclusive para a função de operador de empilhadeira, cargo
+para o qual fora promovido no ano de 2005 e que exige acuidade visual dentro de parâmetros
+compatíveis para o exercício da função.
+Em outras palavras, o histórico funcional do autor é indicativo de que ele não possuía qualquer
+restrição visual ao longo da contratualidade, não havendo nos autos elementos seguros que
+permitam inferir a existência de nexo causal entre o acidente ocorrido em 1997 e as lesões
+constatadas em 2009.
+Sendo assim, por não demonstrado o nexo causal entre as lesões e o acidente sofrido, julgo
+improcedentes os pedidos de itens "B" e "C"." (ID. 827249b)
+Insurge-se o reclamante.
+Pois bem.
+Na presente hipótese é incontroverso que o autor sofreu acidente de trabalho no dia
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F3FDE5CDDC493.
+18/01/1997, tendo sido expedida Comunicação de Acidente de Trabalho - CAT pela empresa na qual
+consta a informação de que "o funcionário foi atingido por material aquecido do forno de fusão 1,
+tendo queimadura nos olhos." (ID. 0990a01).
+De acordo com o Perfil Profissiográfico Previdenciário - PPP do empregado, verifico que na
+data do acidente ele exercia o cargo de "operador de máquina II" e estava exposto a riscos físicos de
+"ruído" e "calor" e risco químico de "aerodispersóides" (ID. 7bca8cb).
+Quanto ao tipo de responsabilidade, é importante registrar que 1) em casos de
+responsabilidade objetiva, o dever de indenizar decorre simplesmente do dano, independentemente
+de culpa; 2) nas hipóteses de responsabilidade subjetiva, a culpa é presumida quando há acidente de
+trabalho ou doença profissional, já que proveniente de trabalho subordinado e do poder de controle
+e direção do empregador.
+No caso, a responsabilidade da reclamada é objetiva, eis que se tratava de atividade com riscos
+físicos e químicos, especialmente ligados à exposição ao calor.
+Em conformidade com o que dispõe o artigo 927 do Código Civil, há obrigação de reparar o
+dano independentemente de culpa quando a atividade normalmente desenvolvida pelo autor do
+dano implicar, por sua natureza, risco para os direitos de outrem, in verbis:
+"Art. 927. Aquele que, por ato ilícito (arts. 186 e 187), causar dano a outrem , fica obrigado a
+repará-lo. Parágrafo único. Haverá obrigação de reparar o dano, independentemente de culpa, nos
+casos especificados em lei, ou quando a atividade normalmente desenvolvida pelo autor do dano
+implicar, por sua natureza, risco para os direitos de outrem." (grifei)
+Na hipótese, a atividade realizada pelo autor, conforme descrita no PPP, demonstra que a
+natureza da prestação de serviço implicava em riscos laborais e, por consequência, deve se subsumir
+ao art. 927 do Código Civil.
+Diante deste quadro, cabe à empregadora ônus de comprovar ausência de nexo de
+causalidade entre a lesão adquirida pelo reclamante e labor por ele desenvolvido.
+A lesão e a incapacidade foram confirmadas pelo laudo pericial realizado nos autos, datado de
+29/07/2015, no qual foi constatada a perda de 90% (noventa por cento) da visão do olho direito. De
+acordo com o laudo, as lesões "(...) provocam incapacidade total e temporária para o desempenho de
+atividades laborativas próprias de sua categoria profissional" e o reclamante encontra-se "(...) apto,
+no momento para o desempenho de OUTRAS atividades, após ser submetido a processo de
+reabilitação profissional e / ou ao transplante de córnea." (ID. ae5fbbb) (g.n.).
+Registro que, na realidade, o laudo demonstra a lesão do autor pode ter sido causada por uma
+pluralidade de fatores, quais sejam o acidente, as condições de trabalho e a idade do reclamante :
+:
+"NEXO CAUSAL: NÃO PODEMOS AFIRMAR OU NÃO COM TODA CERTEZA
+Questões que norteiam a análise do nexo causal de ACT que acometeu o autor?
+1 - Especificidade da relação causal e força da associação causal: as condições de trabalho
+PODEM ser consideradas como agente patogênico ou fator de risco importantes entre os fatores
+desencadeantes do quadro por se tratar de ACT.
+2 - Tipo de relação causal com o trabalho: a situação de trabalho PODE SER o fator de risco
+causal do quadro de ACT.
+3 - Grau ou intensidade de exposição: PODE ser compatível por se tratar de ACT.
+4 - Tempo de exposição: PODE ser compatível por se tratar de ACT.
+(...)
+(...) não podemos afirmar com toda certeza que sua patologia se deu em virtude do ACT." (IDs.
+ae5fbbb e fa297bc)
+Observo, ainda, que não há prova de que a autora era portadora da doença no momento da
+contratação, o que reforça o nexo de concausalidade indicado pela perícia realizada na Justiça
+Comum.
+Desta maneira, considerando a realização de atividade de risco, a concessão do auxílio￾acidente e a inexistência de doença anterior ao labor, entendo que a ré não se desincumbiu quanto
+ao ônus probatório que lhe competia, existindo, de outra banda, elementos nos autos que levam à
+conclusão acerca da existência de concausalidade entre o labor desempenhado e a doença
+adquirida, bem como a incapacidade total e permanente para o labor anteriormente
+desempenhado.
+Dou provimento.
+DANOS MORAIS E ESTÉTICOS
+O reclamante pleiteia a condenação da reclamada ao pagamento de indenizações por danos
+morais e estéticos no valor de "864 (oitocentos e sessenta e quatro) salários mínimos nacionais" (ID.
+8974d03).
+Pois bem.
+Inicialmente, registro que o expert não verificou a existência de dano estético, conforme
+resposta aos quesitos das partes (ID. fa297bc).
+Quanto ao dano moral, conforme anteriormente analisado, as lesões "(...) provocam
+incapacidade total e temporária para o desempenho de atividades laborativas próprias de sua
+categoria profissional", encontrando-se o reclamante "(...) apto, no momento para o desempenho de
+OUTRAS atividades, após ser submetido a processo de reabilitação profissional e / ou ao transplante
+de córnea".
+Assim, a existência de doença ocupacional, a qual impõe limitações ao trabalhador, não deixa
+dúvidas quanto à existência de ofensa à sua integridade psicofísica.
+Não se pode olvidar que o instituto jurídico da reparação dos danos morais apresenta-se no
+Direito do Trabalho como a resposta à necessária tutela da dignidade, protegendo não só a pessoa
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F3FDE5CDDC493.
+em sua integridade psicofísica, mas também a solidariedade, a igualdade e a liberdade humanas.
+Afinal, o Direito existe para proteger as pessoas e inúmeras situações jurídicas subjetivas demandam
+proteção, exigindo garantias imediatas e tutela.
+Deste modo, como dano extrapatrimonial, não há que se indagar sobre a prova do dano
+sofrido para reconhecer o dever de reparar:
+"No que tange à identificação do dano, enquanto o dano patrimonial exige a prova concreta do
+prejuízo sofrido pela vítima, no dano moral não é necessária a prova para a configuração da
+responsabilidade civil, bastando a própria violação à personalidade da vítima. Em consequência,
+depois de restar superada a máxima segundo a qual não "há responsabilidade sem culpa", tendo-se
+encontrado na teoria do risco um novo e diverso fundamento de responsabilidade, desmentido se vê
+hoje, também o axioma segundo o qual não haveria responsabilidade sem a prova do dano,
+substituída que foi a comprovação antes exigida pela presunção hominis de que a lesão a qualquer
+dos aspectos que compõem a dignidade humana gera dano moral." (Bodin de Moraes, op. cit., p.
+158)
+O dano moral é presumido ou in re ipsa, isto é, provado pela própria força, prescindindo de
+provas.
+Presentes, no caso, os requisitos para a procedência do pedido, consoante artigos 186, 187,
+927, 944 e 953 do Código Civil e artigo 5º, V e X, da Constituição da República.
+A conduta antijurídica está configurada. Todo aquele que por ação ou omissão voluntária,
+negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral,
+comete ato ilícito, que também ocorre quando o exercício de um direito pelo titular excede
+manifestamente os limites impostos pelo seu fim econômico ou social e pela boa-fé (arts. 186 e 187
+do Código Civil).
+Levando-se em conta a natureza do bem jurídico tutelado (integridade física), a intensidade do
+sofrimento, a impossibilidade de superação psicológica, os reflexos pessoais e sociais da omissão do
+reclamado para com o trabalhador que permanece até o momento sem reparação; a extensão e a
+duração dos efeitos da ofensa (incapacidade para o exercício da atividade anterior e concessão de
+auxílio-acidente); as condições em que ocorreu a ofensa ou o prejuízo moral; o grau de culpa, a
+ausência de retratação espontânea; a ausência de esforço efetivo para minimizar a ofensa; a
+ausência de perdão, tácito ou expresso; e a situação social e econômica das partes envolvidas, de
+vulnerabilidade do reclamante e superioridade econômica e organizacional do reclamado, entendo
+que a ofensa é de natureza grave. Dessarte, entendo razoável o importe de R$ 50.000,00 (cinquenta
+mil reais), diante das peculiaridades do caso.
+Dou parcial provimento.
+DANOS MATERIAIS
+Conforme anteriormente analisado, o laudo pericial produzido nos autos indica que o
+reclamante, em que pese não estar incapacitado para o desempenho de qualquer função, se
+encontra permanentemente incapacitado para o exercício da atividade anterior.
+Observo que o fato de o reclamante ter laborado mesmo após o retorno do gozo do benefício
+previdenciário não indica a existência de plena capacidade laborativa, mas apenas a determinação
+de trabalho de empregado inapto para o exercício da função.
+A propósito, dispõem os artigos 944 e 950 do Código Civil:
+Art. 944. A indenização mede-se pela extensão do dano.
+Art. 950. Se da ofensa resultar defeito pelo qual o ofendido não possa exercer o seu ofício ou
+profissão, ou se lhe diminua a capacidade de trabalho, a indenização, além das despesas do
+tratamento e lucros cessantes até ao fim da convalescença, incluirá pensão correspondente à
+importância do trabalho para que se inabilitou, ou da depreciação que ele sofreu.
+Parágrafo único. O prejudicado, se preferir, poderá exigir que a in4denização seja arbitrada e
+paga de uma só vez.
+Os danos materiais atingem, direta ou indiretamente, os bens patrimoniais e extrapatrimoniais
+da vítima, podendo diminuir o patrimônio presente (dano emergente) e futuro (lucros cessantes) do
+ofendido, impedindo o seu crescimento.
+Assim, havendo a incapacidade laborativa total para a função anterior, o pensionamento deve
+ser equivalente à remuneração.
+Por oportuno, registro que eventuais benefícios previdenciários e a indenização por danos
+materiais não se excluem nem se compensam, afinal, possuem naturezas distintas. O primeiro é
+concedido pela incapacidade laboral ; já a indenização, por aquilo que o obreiro deixou de ganhar,
+tem índole civil, cujo escopo é compensar o prejuízo advindo de ato ilícito cometido pela
+empregadora.
+Nesse rumo, em caso análogo, insta citar o posicionamento do STJ em relação à compensação
+da pensão vitalícia e a aposentadoria, conforme ementa que transcrevo, relativa ao acórdão
+proferido nos autos do Resp.811193/GO - Recurso Especial 2005/01582912, da 4ª Turma, tendo como
+Relator o Ministro Jorge Scartezzini, publicado no DOU de 06/11/06, p. 338:
+"CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. ACIDENTE DE TRABALHO.L.E.R / D.O.R.T.
+SEQÜELAS PERMANENTES ADQUIRIDAS PELA RECORRIDA NO DESEMPENHO DE SUAS ATIVIDADES.
+APOSENTADORIA POR INVALIDEZ. DANOS MATERIAIS. PENSÃO VITALÍCIA. TERMO INICIAL. DANOS
+MORAIS.OCORRÊNCIA. REDUÇÃO DO QUANTUM. 1. As instâncias ordinárias, com base nos elementos
+probatórios trazidos aos autos, e em sintonia com precedentes desta Corte, concluíram que o
+benefício previdenciário percebido pela autora, ora recorrida, não afasta nem exclui a
+responsabilidade da recorrente ao pagamento da verba indenizatória, mediante pensão vitalícia, já
+que esta vem apenas recompor um prejuízo causado por meio de um ato ilícito, direito este de
+cunho civil, ao contrário daquela que se ampara no direito previdenciário. Logo, não prevalece a
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F3FDE5CDDC493.
+alegação da recorrente de que a percepção da aposentadoria pela autora recorrida repudia a
+condenação de pensão vitalícia em virtude de acidente de trabalho. Precedentes desta Corte. 2.
+Pensionamento vitalício devido a partir de outubro/97, quando a recorrida desligou-se da empresa
+recorrente, aposentando-se por invalidez. Precedentes desta Corte. 3. Consideradas as
+peculiaridades do caso em questão e o princípios de moderação e razoabilidade, o quantum fixado
+pelo Tribunal a quo(R$ 100.000,00) a título de danos morais mostra-se excessivo, não se limitando a
+justa reparação dos prejuízos advindos do evento danoso. Destarte, ajustando-se o valor
+ressarcitório aos parâmetros adotados nesta Corte, assegurando ao lesado correta indenização, sem
+incorrer em enriquecimento indevido, reduzo o valor indenizatório, para fixá-lo na quantia certa de
+R$50.000,00 (cinquenta mil reais). 4. Recurso parcialmente conhecido e, nesta parte, provido.
+Sentença que se mantém."
+Com efeito, a natureza previdenciária do benefício não se confunde com a natureza
+indenizatória da reparação do dano material decorrente de atos ilícitos.
+Ademais, o artigo 950 do Código Civil Brasileiro é taxativo em assegurar a indenização a todo
+aquele que não possa mais exercer seu ofício ou tenha diminuída sua capacidade de trabalho,
+incluindo lucros cessantes correspondentes à importância daquilo que se deixou de ganhar.
+Na fixação de indenização por danos materiais, apenas se exige a demonstração objetiva de
+prejuízo decorrente da lesão que vitimou a empregada, porquanto, nessa espécie de reparação, o
+dano se configura pelo próprio fato ofensivo.
+Por tais razões, condena-se a reclamada ao pagamento de pensão mensal desde o
+afastamento previdenciário até o empregado completar (78,5 anos) (https: //www.ibge.gov.br /
+estatisticas / todos-os-produtos-estatisticas/9126-tabuas-completas-de-mortalidade.html),
+correspondente à remuneração da reclamante, acrescida dos percentuais referentes ao décimo
+terceiro salário e ao terço constitucional das férias, observados os reajustes salariais da categoria,
+prestações vencidas e vincendas, em parcela única, conforme autoriza o parágrafo único do art. 950
+do CC.
+Todavia, a antecipação do pagamento da pensão mensal em cota única deve importar na
+adequação do somatório global, de modo a impedir o enriquecimento sem causa ante a imediata
+percepção de elevado montante, o qual possibilita à empregada administrar como melhor lhe
+aprouver a importância recebida, constituindo benefício à trabalhadora.
+E, a meu ver, o critério de arbitramento que parece ser o mais adequado para apuração do
+valor do pensionamento convertido em parcela única, com observância do princípio da reparação
+integral, é o que utiliza fórmula matemática destinada à obtenção do "valor presente" ou "valor
+atual". Tal critério de cálculo das parcelas futuras que serão antecipadas não resulta em diferença
+entre o dano e a indenização, mas, sim, em adequação do quantum devido, ante o pagamento
+antecipado, o que se harmoniza com o disposto no art. 944 do CC, o qual preceitua que "a
+indenização mede-se pela extensão do dano".
+A metodologia, bastante conhecida na área das ciências exatas, é utilizada para inúmeros fins,
+inclusive para amortização de quantias referentes a empréstimos pagos antes do vencimento. O
+método, utilizado para a conversão da pensão mensal vitalícia em parcela única, leva em
+consideração o valor periódico e o tempo de duração do pensionamento, considerando-se adequado
+o ressarcimento, em parcela única, de montante que, submetido à determinada taxa de juros,
+permita uma retirada periódica que corresponda à renda mensal e, ao mesmo tempo, amortize
+parte do capital de forma que ele se esgote ao final do período de duração estipulado.
+Destaco precedente do Tribunal Regional do Trabalho da 9ª Região:
+PENSÃO EM COTA ÚNICA - CÁLCULO DO VALOR PRESENTE. Para a fixação do valor devido para
+pagamento da pensão em cota única, não deve ser considerada exclusivamente a soma do número
+de parcelas mensais devidas, vez que tal procedimento gerará o pagamento de valor superior ao
+devido. Deve ser considerado o valor da parcela, o número de meses em que devido o
+pensionamento, a gratificação natalina, o tempo médio de antecipação de pagamento decorrente da
+cota única, que corresponde à metade do número de meses em que devido o pagamento a partir da
+data da fixação, e a taxa arbitrada como justa, considerados os dados macro econômicos atuais e
+projetados para o futuro, como taxas de juros e de rendimentos da economia. Assim, considerada
+como justa a taxa de 0,5% ao mês, que corresponde à taxa de juros das cadernetas de poupança,
+aplicação acessível, o cálculo do valor justo da indenização em cota única é feito através da aplicação
+da fórmula VP = VF/(1 + 0,005), na qual "VP" é o valor presente, ou seja, o valor da cota única a ser
+fixado, VF é o valor futuro que corresponde ao valor da pensão mensal reconhecida como devida, já
+acrescida de 1/12 da gratificação natalina, multiplicada pelo número de meses em que devida a
+parcela (soma das parcelas), e "n" é o número de meses de antecipação de pagamento, vez que
+utilizada na fórmula a taxa fixada ao mês. Corretamente aplicada esta fórmula, se o beneficiário da
+pensão optar por aplicar o valor resultante em investimento que renda a taxa fixada pelo Juízo como
+justa, 0,5% ao mês, terá, ao final do prazo médio de antecipação de pagamento, exatamente o valor
+da soma das parcelas mensais da pensão deferida.( PARANÁ. Tribunal Regional do Trabalho da 9ª
+Região. 3ª Turma. Processo 03075-2010-007-09-00-8.Relator: Luiz Alves)
+Também o Tribunal Superior do Trabalho, em decisão relatada pelo saudoso Ministro Walmir
+de Oliveira Costa, já adotou a fórmula do valor presente como critério de cálculo do pensionamento
+pago em conta única, no TST-RR-21124-95.2013.5.04.0406, 1ª Turma, julgado em 12.08.2020. Veja-se o
+trecho de interesse do acórdão referido:
+2.1. DOENÇA OCUPACIONAL. INDENIZAÇÃO POR DANO MATERIAL. PENSÃO MENSAL.
+CONVERSÃO EM PARCELA ÚNICA. APLICAÇÃO DE REDUTOR Conhecido o recurso de revista por
+violação do art. 944, parágrafo único, do Código Civil, tem-se por corolário seu provimento. Como
+critério para o rearbitramento do índice redutor a ser aplicado para a cota única de indenização por
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F3FDE5CDDC493.
+dano material, valho-me dos estudos publicados por Amaury Rodrigues PINTO JUNIOR
+(Pensionamento: pagamento em parcela única e a fórmula do valor presente. Revista LTr nº 82, nº 2,
+fev. 2018) para extrair o cálculo do valor presente, conforme planilha disponível no sítio eletrônico do
+TRT da 24ª Região (http: //trt24.jus.br / web / guest / calculo-do-valor-presente), observado o
+rendimento, para o período postulado, de uma aplicação financeira conservadora, como a caderneta
+de poupança (aproximadamente 0,175% ao mês, no presente momento). (p. 26 do acórdão)
+Nesse diapasão, da base de cálculo do pensionamento seja a integralidade da última
+remuneração da parte autora, bem como seja considerado, como termo final do pensionamento, a
+expectativa de vida considerada para o reclamante (78,5 anos) (https: //www.ibge.gov.br / estatisticas
+/ todos-os-produtos-estatisticas/9126-tabuas-completas-de-mortalidade.html), adotando-se a
+fórmula que permite realizar o cálculo do "valor presente" das prestações mensais futuras
+descontadas a uma taxa de custo de capital correspondente a 0,5% ao mês (taxa de juros utilizada
+em uma aplicação conservadora como a caderneta de poupança).
+Destaque-se, finalmente, que a fórmula do valor presente como critério de pagamento em
+parcela única deverá ser utilizada apenas para calcular o valor das parcelas futuras do
+pensionamento, pois quanto aos valores pretéritos ao momento do pagamento, o pensionamento
+deverá ser quitado pelo valor integral, correspondente à última remuneração do trabalhador,
+acrescida da gratificação natalina e do terço das férias, e multiplicada pelo número de meses desde o
+término do contrato de trabalho até o momento da quitação.
+Dou provimento ao apelo da reclamante, para condenar a reclamada ao pagamento de
+indenização por dano material em parcela única, determinando que a base de cálculo do
+pensionamento seja a integralidade da última remuneração da parte autora, acrescida dos
+percentuais referentes ao décimo terceiro salário e ao terço constitucional das férias, observados os
+reajustes salariais da categoria, bem como seja considerado como termo inicial do pensionamento o
+término do contrato de trabalho, observada a prescrição quinquenal, e o final a expectativa de vida
+prevista (78,5 anos), e adotando-se a fórmula que permite realizar o cálculo do "valor presente" das
+prestações mensais futuras descontadas a uma taxa de custo de capital correspondente a 0,5% ao
+mês (taxa de juros utilizada em uma aplicação conservadora como a caderneta de poupança),
+enquanto, relativamente aos valores pretéritos ao momento do pagamento, o pensionamento
+deverá ser quitado pelo valor integral.
+HONORÁRIOS PERICIAIS
+A questão foi assim decidida pelo juízo de primeiro grau:
+"HONORÁRIOS PERICIAIS
+Considerando que a parte autora foi sucumbente na pretensão objeto da perícia e o
+deferimento da gratuidade de justiça ao reclamante, os honorários periciais deverão ser suportados
+pela União, nos termos do artigo 790-B da CLT (com redação vigente à época do ajuizamento da ação)
+e do Ato nº 88/2011 do E. TRT da 1ª Região.
+Providencie a Secretaria da Vara a requisição de pagamento dos honorários periciais, fixados
+no valor de R$ 1.220,00 (id 1815ac3), considerando o limite previsto no art. 4º do Ato nº 88/2011 do E.
+TRT da 1ª Região, com redação dada pelo Ato nº 15/2014, vigente quando da nomeação do perito.
+Registre-se a antecipação da quantia de R$ 420,00, conforme ida6bc29e, e o respectivo
+levantamento, nos termos do id 806a7cd." (ID. 827249b)
+O reclamante inconformado, pretende que os honorários sejam pagos integralmente pela
+reclamada.
+Com razão.
+Tendo sido a reclamada sucumbente quanto o objeto da perícia, como anteriormente
+analisado, esta deve ser responsável pelos referidos honorários.
+Dou provimento para condenar a ré ao pagamento dos honorários periciais.
+RECURSO ORDINÁRIO DA RECLAMADA
+HORAS EXTRAS E PRESCRIÇÃO QUINQUENAL
+O reclamante afirma, na petição inicial, que trabalhava das 19h às 7h, de segunda a sexta-feira,
+mas sem receber "corretamente as horas extras e o adicional noturno", razão pela qual pleiteia a
+condenação da ré ao pagamento das diferenças (ID. 8974d03).
+A reclamada, em sua defesa (ID. a993e59), não contestou especificamente as alegações da
+exordial.
+A questão foi assim decidida pelo juízo singular:
+"HORAS EXTRAS
+No que tange ao horário de trabalho, a ré não apresentou os controles de ponto, nem alegou a
+impossibilidade de fazê-lo, atraindo para si ônus da prova (Súmula nº 338, I, do C. TST).
+No caso, a ré não logrou afastar a alegação da inicial de labor de segunda a sexta, das 19h às
+07h, uma vez que não produziu prova sobre o tema.
+Sendo assim, reputo verdadeira a alegação de labor de segunda a sexta-feira, das 19h às 07h,
+durante a contratualidade. Omissa a inicial acerca do intervalo, considero a fruição do mínimo legal
+(1h).
+Consequentemente, faz jus o autor ao pagamento das horas extras prestadas, assim
+consideradas as excedentes a 8ª hora diária e 44ª hora semanal, acrescidas do adicional de 50%.
+Devido, também, o pagamento de adicional noturno no importe de 20% sobre a hora diurna.
+Ante a habitualidade, a média física das horas extraordinárias prestadas e do adicional
+noturno deve integrar a base salarial do autor, sendo devidos os seus reflexos sobre o repouso
+semanal, 13º salário, férias acrescidas de 1/3, FGTS, devendo ser observado o disposto na OJ 394 da
+SDI 1/TST e o depósito do FGTS na conta vinculada.
+Em liquidação de sentença, observem-se: a jornada acima fixada; a base de cálculo na forma
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F3FDE5CDDC493.
+da Súmula 264 do C. TST; Súmula 60, do TST; a evolução salarial do autor; o art. 73 da CLT e a OJ 97
+da SDI-1, do TST; o divisor mensal de 220 horas e a dedução de valores já quitados a idêntico título,
+conforme OJ nº 415 da SDI-1 do TST." (ID. 827249b)
+"EMBARGOS DE DECLARAÇÃO DA RECLAMADA
+A sentença embargada não possui qualquer omissão, obscuridade ou contradição que
+justifique a oposição dos presentes Embargos, visto que a embargante não arguiu a prejudicial de
+prescrição quinquenal em relação às parcelas deferidas.
+A simples leitura dos embargos é o suficiente para constatar que a embargante busca
+rediscutir matéria já decidida em sentença, bem como a reformado julgado, o que é impossível pela
+via estreita dos embargos." (ID. fb43b92)
+A reclamada, inconformada, insiste na inexistência de valores devidos a título de horas extras
+e adicional noturno. Ainda, assevera que, caso mantida a condenação, deve ser considerada a
+prescrição quinquenal.
+Pois bem.
+O encargo probatório da jornada recai, via de regra, sobre o empregador, a teor do que dispõe
+o § 2º do art. 74, CLT, conforme entendimento pacificado no item I da Súmula nº 338 do C. TST.
+A reclamada, além de não ter contestado especificamente a jornada descrita na petição inicial,
+não apresentou os controles de ponto.
+Desta maneira, como se presumem verdadeiras as alegações expostas na exordial, deve ser
+mantida a sentença quanto à condenação da empresa ao pagamento de horas extras.
+Conquanto o art. 336 do CPC estabeleça que toda a matéria de defesa deverá ser apresentada
+na contestação, no tocante à prescrição, o art. 193 do Código Civil dispõe que "A prescrição pode ser
+alegada em qualquer grau de jurisdição, pela parte a quem aproveita".
+Portanto, por se tratar de matéria de ordem pública, não há óbice para o reconhecimento da
+prescrição quinquenal no presente momento processual.
+Dou parcial provimento ao apelo da reclamada para declarar prescritas as parcelas vencidas no
+quinquênio anterior à propositura da demanda.
+[...]
+CONCLUSÃO
+Pelo exposto, CONHEÇO dos recurso ordinários, REJEITO a preliminar de nulidade da sentença
+e, no mérito, DOU PARCIAL PROVIMENTO ao apelo do reclamante para condenar a reclamada ao
+pagamento (i) de indenização por dano moral no valor de R$50.000,00 (cinquenta mil reais), (ii) de
+indenização por dano material em parcela única, determinando que a base de cálculo do
+pensionamento seja a integralidade da última remuneração da parte autora, acrescida dos
+percentuais referentes ao décimo terceiro salário e ao terço constitucional das férias, observados os
+reajustes salariais da categoria, bem como seja considerado como termo inicial do pensionamento o
+término do contrato de trabalho, observada a prescrição quinquenal, e o final a expectativa de vida
+prevista (78,5 anos), e adotando-se a fórmula que permite realizar o cálculo do "valor presente" das
+prestações mensais futuras descontadas a uma taxa de custo de capital correspondente a 0,5% ao
+mês (taxa de juros utilizada em uma aplicação conservadora como a caderneta de poupança),
+enquanto, relativamente aos valores pretéritos ao momento do pagamento, o pensionamento
+deverá ser quitado pelo valor integral, e (iii) dos honorários periciais e DOU PARCIAL PROVIMENTO ao
+da reclamada para declarar prescritas as parcelas vencidas no quinquênio anterior à propositura da
+demanda. Tudo na forma da fundamentação supra que integra este dispositivo para todos os efeitos
+de direito.
+Mantidos os valores arbitrados na sentença para efeitos de custas."
+Em sede de embargos de declaração, foi acrescido:
+"II.2 - MÉRITO
+Recurso da parte
+A reclamada, ora embargante, aduz que: "o laudo pericial deixou consignado que não há como
+precisar sobre a (in)existência de nexo causal entre o acidente e o dano"; "o i. perito afirma
+categoricamente que não há na literatura médica NENHUM CASO onde O DANO (nubécula corneana)
+tenha advindo com o passar dos anos"; "a nubécula corneana só apareceu depois de mais de 10 (dez)
+anos, portanto, inexiste relação causal entre o evento (acidente) e o dano (nubécula corneana)";
+"quando do desligamento dos quadros funcionais da empresa Reclamada não havia qualquer
+ressalva inerente ao acidente ocorrido"; "caso o acidente tivesse liame com o dano, segundo a
+perícia, o Reclamante teria permanecido em tratamento desde a época do infortúnio, o que não foi o
+caso."
+Aduz também que "não pode o juízo surpreender a parte com decisão de matéria sobre a qual
+não teve oportunidade prévia de manifestação"; "ao autor incumbe o ônus de comprovar os fatos
+constitutivos de seu direito"; "analisando a documentação probatória trazida pela reclamada na sua
+peça de bloqueio (fls. 121 e ss.) constatamos que o reclamante realizou inúmeros exames periódicos
+e, inclusive, o demissional e todos eles apontaram pela ausência de sequelas advindas do acidente";
+o pensionamento é indevido, já que o reclamante manteve contrato de trabalho com outra empresa
+após a sua saída da ré, no período de 26/11/2008 a 28/07/2014; o valor da pensão fixada a título de
+danos materiais é ultra petita; "a r. decisão também viola os princípios constitucionais do devido
+processo legal, do contraditório e da ampla defesa (art. 5º, incisos LIV e LV, da CRFB/88), pois o v.
+acórdão não está congruente com os limites da causa de pedir, violando a norma do art. 492 do
+Código de Processo Civil"; "no mesmo sentido, a jurisprudência dos Tribunais (...)"; não há pedido de
+pensionamento em parcela única.
+Ao exame.
+Inicialmente, cumpre salientar que a decisão embargada encontra-se devidamente
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F3FDE5CDDC493.
+fundamentada, em compasso com o artigo 93, IX, da Constituição da República de 1988, mediante a
+plena entrega da prestação jurisdicional, sem que se verifique qualquer contradição ou vulneração
+ao princípio do Devido Processo Legal.
+No mais, os vícios que autorizam a oposição de embargos de declaração estão previstos no
+artigo 897-A, da Consolidação das Leis do Trabalho, e nos incisos I a III, do artigo 1.022, do Código de
+Processo Civil.
+A omissão que habilita à parte a oposição de embargos declaratórios é aquela que se verifica
+entre os termos do acórdão. Fundamentado o motivo do convencimento, inexiste omissão.
+No caso, os fundamentos trazidos nos embargos de declaração no tocante ao reconhecimento
+da doença profissional, distribuição do ônus probatório, menção aos documentos e ao laudo pericial,
+valor arbitrado em parcela única a título de indenização por dano material e alegação de julgamento
+ultra petita refletem, na realidade, o inconformismo da parte com o mérito do decisório, por via
+recursal absolutamente imprópria.
+Conforme consignado expressamente no julgado, "é incontroverso que o autor sofreu acidente
+de trabalho no dia 18/01/1997, tendo sido expedida Comunicação de Acidente de Trabalho - CAT pela
+empresa na qual consta a informação de que 'o funcionário foi atingido por material aquecido do
+forno de fusão 1, tendo queimadura nos olhos.' (ID. 0990a01)"; "de acordo com o Perfil
+Profissiográfico Previdenciário - PPP do empregado, verifico que na data do acidente ele exercia o
+cargo de 'operador de máquina II' e estava exposto a riscos físicos de 'ruído' e 'calor' e risco químico
+de 'aerodispersóides' (ID 7bca8cb)"; "(...) No caso, a responsabilidade da reclamada é objetiva, eis que
+se tratava de atividade com riscos físicos e químicos, especialmente ligados à exposição ao calor";
+"diante deste quadro, cabe à empregadora ônus de comprovar ausência de nexo de causalidade
+entre a lesão adquirida pelo reclamante e labor por ele desenvolvido. A lesão e a incapacidade foram
+confirmadas pelo laudo pericial realizado nos autos, datado de 29/07/2015, no qual foi constatada a
+perda de 90% (noventa por cento) da visão do olho direito"; "considerando a realização de atividade
+de risco, a concessão do auxílio-acidente e a inexistência de doença anterior ao labor, entendo que a
+ré não se desincumbiu quanto ao ônus probatório que lhe competia, existindo, de outra banda,
+elementos nos autos que levam à conclusão acerca da existência de concausalidade entre o labor
+desempenhado e a doença adquirida, bem como a incapacidade total e permanente para o labor
+anteriormente desempenhado" (grifamos - ID 04decb2, fls. 753/755)
+Quanto aos danos materiais, a decisão embargada assentou que "o laudo pericial produzido
+nos autos indica que o reclamante, em que pese não estar incapacitado para o desempenho de
+qualquer função, se encontra permanentemente incapacitado para o exercício da atividade anterior.
+Observo que o fato de o reclamante ter laborado mesmo após o retorno do gozo do benefício
+previdenciário não indica a existência de plena capacidade laborativa, mas apenas a determinação
+de trabalho de empregado inapto para o exercício da função." (grifamos - ID 04decb2, fls. 757/755)
+Por fim, concluiu:
+"Ademais, o artigo 950 do Código Civil Brasileiro é taxativo em assegurar a indenização a todo
+aquele que não possa mais exercer seu ofício ou tenha diminuída sua capacidade de trabalho,
+incluindo lucros cessantes correspondentes à importância daquilo que se deixou de ganhar.
+Na fixação de indenização por danos materiais, apenas se exige a demonstração objetiva de
+prejuízo decorrente da lesão que vitimou a empregada, porquanto, nessa espécie de reparação, o
+dano se configura pelo próprio fato ofensivo.
+Por tais razões, a reclamada ao pagamento condena-se de pensão mensal desde o
+afastamento previdenciário até o empregado completar (78,5 anos) (https: //www.ibge.gov.br /
+estatisticas / todos-os-produtos-estatisticas/9126-tabuas-completas-de-mortalidade.html),
+correspondente à remuneração da reclamante, acrescida dos percentuais referentes ao décimo
+terceiro salário e ao terço constitucional das férias, observados os reajustes salariais da categoria,
+prestações vencidas e vincendas, em parcela única, conforme autoriza o parágrafo único do art. 950
+do CC.
+Todavia, a antecipação do pagamento da pensão mensal em cota única deve importar na
+adequação do somatório global, de modo a impedir o enriquecimento sem causa ante a imediata
+percepção de elevado montante, o qual possibilita à empregada administrar como melhor lhe
+aprouver a importância recebida.
+(...)
+Nesse diapasão, da base de cálculo do pensionamento seja a integralidade da última
+remuneração da parte autora, bem como seja considerado, como termo final do pensionamento, a
+expectativa de vida considerada para o reclamante (78,5 anos) (https: //www.ibge.gov.br / estatisticas
+/todos-os-produtos-estatisticas/9126-tabuas-completas-de-mortalidade.html), adotando-se a fórmula
+que permite realizar o cálculo do "valor presente" das prestações mensais futuras descontadas a
+uma taxa de custo de capital correspondente a 0,5% ao mês (taxa de juros utilizada em uma
+aplicação conservadora como a caderneta de poupança)."
+Nesses termos, não há que se falar em omissão, contradição ou obscuridade do julgado, no
+particular, sendo certo que o mero inconformismo da parte com o resultado do decisório não dá
+ensejo à oposição de embargos de declaração, os quais somente podem ser providos quando
+demonstrada a observância dos estreitos limites legais autorizadores do seu manejo.
+Irretocáveis os dispositivos constitucionais e legais mencionados no recurso.
+Frise-se que a reclamada aponta, nas suas razões de embargos de declaração, jurisprudência
+para o convencimento do magistrado, o que revela mais uma vez a pretensão de reapreciação do
+mérito do julgado, por modalidade recursal flagrantemente inadequada.
+Observe-se, por fim, que caso a decisão contenha erro, omissão, contradição ou obscuridade,
+conforme interpretação que lhe for dada pela instância ad quem, considerar-se-ão como incluídos na
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F3FDE5CDDC493.
+decisão os elementos suscitados pelo embargante, ainda que inadmitidos ou rejeitados os embargos
+de declaração, nos termos do artigo 1.025, do Código de Processo Civil.
+Nego provimento."
+A parte agravante renova o tem "negativa de prestação jurisdicional" ao argumento de que, o
+"v . acórdão reformou a r. sentença, invertendo o ônus probatório, em fase recursal, atribuindo a
+Agravante o ônus para comprovar a inexistência de responsabilidade, inclusive sobre período que o
+Agravado fora EMPREGADO de empresas estranhas a Agravante ." No tema "acidente de trabalho -
+nexo causal", sustenta que " o acidente ocorreu no dia 18/01/1997, em outras palavras, o histórico
+funcional do Agravado é indicativo de que ele não possuía qualquer restrição visual ao longo da
+contratualidade, não havendo nos autos elementos seguros que permitam inferir a existência de
+nexo causal entre o acidente ocorrido em 1997 e as lesões constatadas em 2009, além do mais, após
+o encerramento contratual, o Agravado firmara contrato de trabalho com atividade empresarial com
+objeto social semelhante ao da Agravante ." Defende que " a Agravante não concorrera para
+ocorrência do fato, restando evidente a inexistência do liame casual entre o infortúnio e o dano
+sofrido, não restando outro resultado que não seja a excludente de responsabilidade civil ." No tema
+"acidente de trabalho - inversão do ônus da prova", aduz que "o Agravado realizou inúmeros exames
+periódicos e, inclusive, o demissional e todos eles apontaram pela ausência de sequelas advindas do
+acidente e, por isso, desincumbiu do seu ônus probatório vide art. 818, I da CLT." Argumenta que, "
+tendo em vista ser o ônus exclusivamente da parte autora, torna-se incontroverso que inexiste
+elemento probatório nos autos a justificar a procedência do pedido de danos morais e materiais ."
+No tema "pensão vitalícia", afirma que " fica demonstrado que o Agravado não está impossibilitado
+ao exercício de atividades laborais, inclusive, após a rescisão contratual, o autor fora contratado para
+o mesmo cargo em outra atividade empresarial, cuja duração do trabalho perdurara até meados do
+ano de 2014, ou seja, laborou no mesmo ofício e com as mesmas diligências por aproximadamente 7
+(sete) anos após a rescisão contratual .", Discorre também que, "caso seja mantida a condenação,
+que seja reduzido o pensionamento à diferença entre a remuneração quitada durante o contrato de
+56 trabalho após a constatação da perda da visão e não do afastamento previdenciário, no importe
+proporcional à redução laboral, o que arbitra 1/10 do último salário do obreiro, excluídos as parcelas
+trabalhistas (como 13º salário, férias 1/3 etc), evitando assim o enriquecimento sem causa." No tema
+"dano moral", alega que " inexiste qualquer conduta culposa da agravante, bem como da absoluta
+ausência de danos morais. Não há comprovação da alegada perda da capacidade Iaborativa do
+Agravado decorrente de qualquer conduta ilícita da Agravante ." Sucessivamente, requer a redução
+do montante fixado. No tema "horas extras", alega que a "r . decisão colegiada não observou a
+Cláusula 6ª da Convenção Coletiva anexada (ID4b7849e) - fls. 46 - Onde deixa expresso que o período
+de trabalho era de 44 (quarenta e quatro) horas semanais realizado em turnos de 12 (doze) horas de
+02ª a 05ª feira e com 01 (uma) hora de intervalo e mais 02 (dois) intervalos de 15 (quinze) minutos
+cada, não até 6ª feira, devendo ser respeitado como lei tal período laborado para fins de limitação da
+condenação ." Por fim, no tema "honorários periciais", requer a reversão da sucumbência e,
+sucessivamente, a redução do valor fixado.
+Analiso.
+No tema " nulidade por negativa de prestação jurisdicional ", a jurisprudência da Sexta Turma
+evoluiu para entender que a tese de nulidade por negativa de prestação jurisdicional detém
+transcendência jurídica, nos termos do art. 896-A, §1º, IV, da CLT, independentemente da perspectiva
+de procedência da alegação.
+Aquestão de fundo encontra-se devidamente fundamentada pelo TRT. É imperioso asseverar
+que a Corte Regional, seja na decisão do recurso ordinário, seja depois, no pronunciamento levado a
+efeito nos embargos declaratórios, explicitou fundamentação consequente e clara, suficiente aos fins
+previstos no Inciso IX do art. 93 da Constituição Federal. Neles, nos aludidos pronunciamentos
+jurisdicionais, o Regional entendeu por bastantes e adequados os embasamentos adotados, estando
+devida e precisamente albergadas no acórdão, data vênia , as questões trazidas nos embargos e
+havidas por insuscetíveis de promover modificação do julgado.
+Vale destacar, ainda, que o julgador não está adstrito ao conteúdo de uma única prova
+suscitada pela parte se, a partir da análise detida dos demais elementos probatórios constantes dos
+autos, justifica seu convencimento acerca da veracidade das alegações, e indica os motivos pelos
+quais acolhe ou rejeita cada elemento do conjunto probatório, ainda que em sentido diverso,
+contrário aos interesses do recorrente. Igualmente, questões eminentemente jurídicas são
+consideradas prequestionadas, ainda que fictamente, nos termos da Súmula 297, III, do TST.
+Ademais, o Tribunal a quo foi explícito ao esclarecer que existem, " de outra banda, elementos
+nos autos que levam à conclusão acerca da existência de concausalidade entre o labor
+desempenhado e a doença adquirida, bem como a incapacidade total e permanente para o labor
+anteriormente desempenhado . " Acrescentou, ainda, que " não há prova de que a autora era
+portadora da doença no momento da contratação, o que reforça o nexo de concausalidade indicado
+pela perícia realizada na Justiça Comum ."
+Ou seja, diversamente do alegado pela recorrente, a questão referente ao nexo causal não foi
+decidida pelo Regional com base apenas na simples distribuição do onus probandi , mas sim na
+prova efetivamente produzida e valorada, conforme princípio da persuasão racional, o que afasta a
+tese da indevida inversão do ônus da prova em sede recursal.
+Constata-se, portanto, que o acórdão atendeu aos comandos dos artigos 832 da CLT, 489 do
+CPC e 93, IX, da CF. Importante consignar que a adoção de tese contrária aos interesses da parte não
+implica nulidade por negativa de prestação jurisdicional.
+Nos temas " acidente de trabalho - nexo causal " e " acidente de trabalho - inversão do ônus da
+prova ", a pretensão recursal está frontalmente contrária às afirmações do Tribunal Regional acerca
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F3FDE5CDDC493.
+das questões probatórias de modo que o recurso apenas se viabilizaria mediante a incursão nas
+provas coligidas aos autos, circunstância vedada pela já mencionada Súmula 126 do TST.
+No caso, o quadro fático delineado pelo Regional, a partir do exame de trechos do laudo
+pericial, bem como dos demais elementos de prova, indica que, de fato, a lesão sofrida pelo autor e a
+sua incapacidade foram confirmadas.
+E, conforme já explicitado no tema da "negativa de prestação jurisdicional", o Tribunal a quo foi
+explícito ao esclarecer que existem, " de outra banda, elementos nos autos que levam à conclusão
+acerca da existência de concausalidade entre o labor desempenhado e a doença adquirida, bem
+como a incapacidade total e permanente para o labor anteriormente desempenhado . "
+Acrescentou-se, ainda, que " não há prova de que a autora era portadora da doença no momento da
+contratação, o que reforça o nexo de concausalidade indicado pela perícia realizada na Justiça
+Comum ."
+Ou seja, diversamente do alegado pela recorrente, a questão referente ao nexo causal não foi
+decidida pelo Regional com base apenas na simples distribuição do onus probandi , mas sim na
+prova efetivamente produzida e valorada, conforme princípio da persuasão racional, o que afasta a
+tese da indevida inversão do ônus da prova em sede recursal.
+No tema da " pensão vitalícia ", o acórdão regional consignou que " o laudo pericial produzido
+nos autos indica que o reclamante, em que pese não estar incapacitado para o desempenho de
+qualquer função, se encontra permanentemente incapacitado para o exercício da atividade anterior
+."
+Dessa forma, cumpre esclarecer que se o empregado, em decorrência de doença ocupacional
+ou de acidente de trabalho, se encontra total e permanentemente incapacitado para exercer seu
+ofício ou profissão, lhe é devida indenização mensal correspondente a 100% da remuneração
+anteriormente recebida, conforme bem decidiu o TRT.
+Nesse sentido, os seguintes precedentes:
+"RECURSO DE EMBARGOS INTERPOSTO SOB A ÉGIDE DA LEI Nº 11.496/2007. DANOS MATERIAIS.
+ACIDENTE DO TRABALHO.PENSÃOMENSAL. ARTIGO950DO CÓDIGO CIVIL. 1. Nos termos do disposto
+no artigo950do Código Civil se, do ato ilícito praticado pelo empregador, resultar lesão ao empregado
+que o impeça de 'exercer o seu ofício ou profissão', a indenização por danos materiais, paga na
+forma depensionamentomensal, corresponderá 'à importância do trabalho para que se inabilitou'. 2.
+Extrai-se, do referido preceito legal, que a intenção do legislador, ao vincular o valor da indenização
+por danos materiais 'à importância do trabalho para que se inabilitou', teve como objetivo tutelar as
+consequências jurídicas e fáticas decorrentes do ato ilícito praticado pela empresa, que conduziu à
+incapacidade da empregada para 'exercer o seu ofício ou profissão'. Tal conclusão revela-se
+consentânea com o disposto no artigo 944 do Código Civil, por meio do qual se estatui que o valor da
+indenização 'mede-se pela extensão do dano'. 3. A extensão do dano, na hipótese de perda ou
+redução da capacidade para o trabalho, deve ser aferida a partir da profissão ou ofício para o qual a
+empregada ficou inabilitada, não devendo ser adotado, como parâmetro para fixação do dano, a
+extensão da lesão em relação à capacidade para o trabalho considerada em sentido amplo,
+porquanto inaplicável, em tais circunstâncias, a regra geral prevista no artigo 944 do Código Civil, em
+razão da existência de norma regendo de forma específica tal situação (artigo950do Código Civil). 4.
+Tal raciocínio, longe de conduzir ao enriquecimento indevido do empregado, assegura o
+cumprimento da finalidade teleológica da lei, ao sancionar a conduta ilícita do empregador que, ao
+deixar de observar os deveres que resultam do contrato de emprego, deixa de propiciar a seus
+empregados um meio-ambiente de trabalho sadio, desatendendo à função social da empresa e da
+propriedade privada. 5. Cumpre ressaltar, ainda, que a fixação do valor da indenização, a partir da
+incapacidade para todo e qualquer trabalho, equipararia a indenização prevista no artigo950do
+Código Civil à reparação por lucros cessantes, indenizando apenas a redução da força física de
+trabalho e não a incapacidade para o desempenho de 'ofício ou profissão'. Ressalte-se que o próprio
+artigo950do Código Civil distingue a indenização em forma depensãoda figura dos lucros cessantes,
+ao prever o pagamento depensão'além das despesas do tratamento e lucros cessantes até ao fim da
+convalescença'. 6. Na hipótese dos autos, a reclamante, em razão da conduta ilícita do empregador,
+ficou totalmente incapacitada para o ofício que exercia na empresa reclamada e para o qual se
+capacitara profissionalmente, sendo-lhe devida, portanto,pensãomensal no valor de100% de sua
+última remuneração. 7. Recurso de embargos conhecido e provido." (E-RR - 147300-
+11.2005.5.12.0008, Redator Ministro: Lelio Bentes Corrêa, Data de Julgamento: 21/05/2015, Subseção
+I Especializada em Dissídios Individuais , Data de Publicação: DEJT 21/08/2015.)
+"EMBARGOS.PENSÃO. ART.950DO CÓDIGO CIVIL. DOENÇA OCUPACIONAL. INABILITAÇÃO PARA
+O EXERCÍCIO DO OFÍCIO OU PROFISSÃO. Extrai-se do art.950do Código Civil que apensãodeve
+corresponder à importância do trabalho para que se inabilitou ou da depreciação que ele sofreu.
+Portanto, se o empregado encontra-se inabilitado para o trabalho, tido como o ofício ou profissão
+que exercia, - e não verifica a mera depreciação sofrida pelo trabalho -, a importância dapensãodeve
+corresponder à remuneração integral percebida pelo trabalhador enquanto exercia o ofício ou a
+profissão. Para esse fim do art.950do Código Civil, portanto, não se aplica o percentual fixado em
+laudo pericial que se refira à redução de capacidade laboral levando em conta outras atividades
+profissionais que possam ser exercidas pelo empregado inabilitado para o ofício ou profissão que
+exercia. Na espécie, o Regional fundamentou-se em laudo do perito que "conclui pela incapacidade
+do autor para desempenho das funções anteriormente exercidas" já que acometido de hérnia discal,
+doença não degenerativa, pois submetido a condições gravosas à integridade da coluna vertebral,
+sendo inclusive operado no período em que trabalhou no setor de moldagem pela primeira vez.
+Constatada, portanto, a incapacidade para o ofício a que alude o art.950do Código Civil, apensãodeve
+corresponder à remuneração integral naquele ofício, ou seja,100% (cem por cento) dos rendimentos
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F3FDE5CDDC493.
+percebidos pelo reclamante. Embargos de que se conhece e a que se dá provimento" (E-ED-RR￾54100-97.2006.5.02.0361, Subseção I Especializada em Dissídios Individuais , Relator Ministro Marcio
+Eurico Vitral Amaro, DEJT 22/03/2019).
+"EMBARGOS REGIDOS PELA LEI Nº 11.496/2007. INDENIZAÇÃO POR DANOS
+MATERIAIS.PENSÃOMENSAL. MAJORAÇÃO DO PERCENTUAL. PERDA DE 25% DA CAPACIDADE
+LABORATIVA. LER/DORT. INABILITAÇÃO PERMANENTE E TOTAL PARA A ATIVIDADE ANTERIORMENTE
+EXERCIDA. Na hipótese, a Turma, não obstante tenha reconhecido, a partir do teor da decisão
+regional, que houve incapacidade total e permanente da reclamante para o exercício da função que
+desempenhava na reclamada ( "pesar e encaixotar produtos e empurrar a caixa de doze quilos para
+a esteira" ), entendeu ser razoável a fixação dopensionamentomensal no percentual de 25% da sua
+última remuneração, ao fundamento de que a restrição da capacidade laboral , "embora lhe impeça
+de continuar na função anteriormente exercida, permite o reaproveitamento em outra função que
+não exija força, manutenção estática dos ombros e repetitividade, a exemplo de balconista ou
+vendedora" . Com efeito, o artigo950do Código Civil estabelece que opensionamentodeve
+corresponder "à importância do trabalho para que se inabilitou". A finalidade dapensãomensal
+prevista nesse dispositivo de lei é a reparação dos danos materiais decorrentes da perda ou da
+redução da capacidade laborativa. Portanto, o objetivo, nos exatos termos desse preceito legal, é
+ressarcir a vítima pelo valor do trabalho para o qual deixou de estar capacitada ou pela inabilitação
+que sofreu. No caso, em que pese tenha sido registrado na decisão embargada que a reclamante
+pode desempenhar outras funções distintas daquela para a qual se inabilitou em razão da lesão
+sofrida, foi reconhecido que a perda da capacidade laboral para a atividade anteriormente exercida
+foi definitiva e total. Desse modo, não se coaduna com o disposto no artigo950do Código Civil a
+fixação dapensãomensal em percentual inferior àquele equivalente à incapacidade sofrida pela
+reclamante, que, no caso foi total. Logo, apensãomensal deferida à reclamante deve corresponder,
+neste caso, a100% da sua última remuneração , e não a 25%, como determinado na instância
+ordinária e mantido pelo Colegiado a quo. No tocante ao pedido de pagamento em parcela única,
+não houve devolução ( tantum devolutum quantum appellatum ) nem pedido a esta Subseção
+quanto a essa questão e não se trata de matéria de ordem pública ou que possa ser decidida de
+ofício nesta instância recursal extraordinária. Logo, não é possível, neste caso vertente, alterar o
+montante deferido relativo à parcela única requerida pela reclamante a título depensãomensal além
+da sua majoração pela mera multiplicação por quatro do valor fixado originariamente, sob pena de
+incorrer-se em decisão ultra petita , razão pela qual, aumentado o percentual da redução da
+capacidade laborativa de 25% para100% nesta decisão, a consequência factível é majorar, também, o
+montante indenizatório arbitrado nas instâncias ordinárias de R$ 35.000 para R$ 140.000,00.
+Embargos conhecidos e providos" (E-RR-47100-25.2007.5.12.0008, Subseção I Especializada em
+Dissídios Individuais , Relator Ministro Jose Roberto Freire Pimenta, DEJT 18/09/2020).
+Ademais, a jurisprudência desta Corte firmou o entendimento de que, evidenciada a redução
+da capacidade laboral decorrente da lesão, a circunstância de o reclamante continuar trabalhando ou
+estar afastado percebendo benefício previdenciário não afasta seu direito ao recebimento da pensão
+mensal.
+Nesse mesmo sentido, destacam-se os seguintes precedentes desta Corte Superior:
+"RECURSO DE EMBARGOS. INDENIZAÇÃO POR DANOS MATERIAIS. PENSÃO MENSAL. REDUÇÃO
+PARCIAL E PERMANENTE DA CAPACIDADE.EMPREGADOQUECONTINUANOEMPREGO. INDENIZAÇÃO
+DEVIDA. Nos termos do artigo 950 do CCB, no caso de ofensa à saúde que ocasione perda ou
+limitação da capacidade laboral, é devida indenização a título de danos materiais. Otrabalhadorfoi
+admitido com a audição normal, sendo constatada perda auditiva em que otrabalhoconcorreu para
+a doença ocupacional, necessária a reparação proporcional ao comprometimento funcional pela
+redução da capacidade, nos termos da norma citada. Registre-se que o fato doempregadovoltar
+atrabalhar, ou mesmo permanecer noemprego, sem a redução do padrão salarial, não enseja a
+conclusão de que não é devida a indenização por danos materiais. Isto porque, deve-se levar em
+consideração as repercussões do dano na esfera pessoal doempregado, bem como a possibilidade
+ou não de se conseguir uma nova colocação no mercado detrabalho, se necessário, sem que a
+limitação interfira na admissão e até na remuneração . Ademais, a indenização por danos materiais ,
+no caso, decorre do ato ilícito praticado pela reclamada que enseja o pagamento
+depensãocorrespondente à importância dotrabalhopara o qual seinabilitouou da depreciação que
+sofreu, o que restou devidamente constatado no caso em exame, a determinar a devida reparação,
+que não se confunde com o salário pago pela permanência noemprego. Recurso de embargos
+conhecido e provido." (E-ED-ARR - 1233-28.2013.5.04.0232 Data de Julgamento: 14/06/2018, Relator
+Ministro: Aloysio Corrêa da Veiga, Subseção I Especializada em Dissídios Individuais ,Data de
+Publicação: DEJT 22/06/2018. Negrito meu.)
+"AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. DANOS MATERIAIS. REDUÇÃO DA
+CAPACIDADE LABORAL. PENSÃO MENSAL. NÃO RECONHECIMENTO. VIOLAÇÃO A DISPOSITIVO LEGAL.
+1. Viola o art. 950, do Código Civil a decisão regional que, reconhecendo, com base na prova pericial,
+que o reclamante apresenta incapacidade parcial e permanente, indefere o pagamento da pensão
+mensal de que trata o dispositivo em tela. 2. Agravo de instrumento de que se conhece e a que se dá
+provimento para determinar o processamento do recurso de revista. RECURSO DE REVISTA. DANOS
+MATERIAIS. REDUÇÃO DA CAPACIDADE LABORAL. PENSÃO MENSAL. ART. 950 DO CÓDIGO CIVIL. 1.O
+laudo pericial, retratado no v. acórdão, consignou que o autor apresenta incapacidade, parcial e
+permanente para as atividades que desempenhava na Reclamada. 2.Nada obstante, o e. Tribunal
+Regional entendeu indevido pensionamento em razão de que não há incapacidade para otrabalhoe
+pelo fato do autor estartrabalhandoem outra empresa. 3. O teor do art. 950 do CC não admite a
+inferência posta pelo e. Tribunal Regional. A incapacidade parcial e permanente, retratada no caso
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F3FDE5CDDC493.
+presente, é uma das hipóteses de aplicação do dispositivo em tela. 4.Recurso de revista de que se
+conhece e a que se dá provimento para condenar a reclamada ao pagamento da pensão mensal de
+que trata o art. 950 do Código Civil, correspondente ao percentual da incapacidade do reclamante,
+verificado na prova pericial" (RR-800-93.2009.5.02.0434, 4ª Turma, Relatora Desembargadora
+Convocada Sueli Gil El Rafihi, DEJT 05/09/2014).
+"AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. DOENÇA OCUPACIONAL. PERDA DA
+CAPACIDADE LABORATIVA. DANO MATERIAL. PENSÃO MENSAL. CUMULAÇÃO COM OS SALÁRIOS DA
+REINTEGRAÇÃO. Diante da potencial ofensa ao artigo 950, caput , do Código Civil, dá-se provimento
+ao agravo de instrumento para determinar o prosseguimento do recurso de revista. Agravo de
+instrumento provido. RECURSO DE REVISTA. DOENÇA OCUPACIONAL. PERDA DA CAPACIDADE
+LABORATIVA. DANO MATERIAL. PENSÃO MENSAL. CUMULAÇÃO COM OS SALÁRIOS DA
+REINTEGRAÇÃO. Os salários pagos ao trabalhador, ainda que em decorrência da reintegração, e a
+pensão mensal de que trata o art. 950 do Código Civil não se confundem e são perfeitamente
+cumuláveis. Isso porque aqueles têm o caráter de contraprestação aos serviços prestados, ao passo
+que esta é uma indenização pela ofensa que diminui a capacidade de trabalho, correspondente à
+importância do trabalho para que se inabilitou, ou da depreciação que sofreu. Precedentes. Com
+efeito, patenteado no acórdão regional que o reclamante teve 25% da sua capacidade laboral
+reduzida em decorrência de doença ocupacional, lhe é devida a indenização pelo dano material
+correspondente, mesmo que tenha sido reintegrado por deter estabilidade normativa. Recurso de
+revista conhecido e provido." (ARR-1000927-81.2015.5.02.0473, Ministro Relator: Breno Medeiros, 5ª
+Turma, DEJT, 29/5/2020)
+"AGRAVO DE INSTRUMENTO. INDENIZAÇÃO POR DANOS MATERIAIS. PENSÃO MENSAL.
+REDUÇÃO PARCIAL E PERMANENTE DA CAPACIDADE. EMPREGADO QUE CONTINUA NO EMPREGO.
+PROVIMENTO. Diante da possível afronta ao art. 950 do Código Civil, merece ser provido o agravo de
+instrumento. Agravo de instrumento provido. RECURSO DE REVISTA. IN 40 DO TST. INDENIZAÇÃO POR
+DANOS MATERIAIS. PENSÃO MENSAL. REDUÇÃO PARCIAL E PERMANENTE DA CAPACIDADE.
+EMPREGADO QUE CONTINUA NO EMPREGO. INDENIZAÇÃO DEVIDA. Nos termos do artigo 950 do
+CCB, no caso de ofensa à saúde que ocasione perda ou limitação da capacidade laboral, é devida
+indenização a título de danos materiais. Registre-se que o fato do empregador voltar a trabalhar, ou
+mesmo permanecer no emprego, sem a redução do padrão salarial, não enseja a conclusão de que
+não é devida a indenização por danos materiais. Isto porque, deve-se levar em consideração as
+repercussões do dano na esfera pessoal do empregado, bem como a possibilidade ou não de se
+conseguir uma nova colocação no mercado de trabalho, se necessário, sem que a limitação interfira
+na admissão e até na remuneração. Ademais, a indenização por danos materiais, no caso, decorre do
+ato ilícito praticado pela reclamada que não se compensa com o salário pago pela permanência no
+emprego. Recurso de revista conhecido e provido" (RR-117-55.2012.5.02.0465, 6ª Turma, Relator
+Ministro Aloysio Correa da Veiga, DEJT 01/09/2017).
+"I - AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA DO RECLAMANTE. LEI Nº 13.467/2017.
+TRANSCENDÊNCIA. INDENIZAÇÃO POR DANOS MATERIAIS. PENSÃO MENSAL. INCAPACIDADE PARA
+ATIVIDADE ANTERIORMENTE EXERCIDA. EMPREGADO READAPTADO. POSSIBILIDADE DE CUMULAÇÃO
+COM SALÁRIO. 1 - Há transcendência política quando se constata em exame preliminar o desrespeito
+da instância recorrida à jurisprudência majoritária no TST. 2 - Atendidos os requisitos da Lei nº
+13.015/2014. 3 - Está demonstrada a viabilidade do conhecimento do recurso de revista, por provável
+violação do art. 950 do CC. 4 - Agravo de instrumento a que se dá provimento. II - RECURSO DE
+REVISTA DO RECLAMANTE. LEI Nº 13.467/2017. INDENIZAÇÃO POR DANOS MATERIAIS. PENSÃO
+MENSAL. INCAPACIDADE PARA ATIVIDADE ANTERIORMENTE EXERCIDA. EMPREGADO READAPTADO.
+POSSIBILIDADE DE CUMULAÇÃO COM SALÁRIO. 1 - Extrai-se do excerto transcrito que o Regional
+afastou a pensão mensal constante do art. 950 do CC, ao fundamento de que, em razão da
+readaptação do reclamante em outra função, o seu pagamento ensejaria enriquecimento sem causa.
+2 - O art. 950 do Código Civil prevê que "se da ofensa resultar defeito pelo qual o ofendido não possa
+exercer o seu ofício ou profissão, ou se lhe diminua a capacidade de trabalho, a indenização, além
+das despesas do tratamento e lucros cessantes até ao fim da convalescença, incluirá pensão
+correspondente à importância do trabalho para que se inabilitou, ou da depreciação que ele sofreu".
+3 - Nesse sentido, a indenização por dano material condiciona-se a critérios alternativos: a
+incapacidade para exercer o ofício ou profissão ou a redução da capacidade de trabalho. 4 - Sob esse
+prisma, em caso de redução da capacidade de trabalho, não há qualquer impossibilidade de
+cumulação do pagamento de pensão mensal com a manutenção do contrato de trabalho e a
+percepção dos salários correspondentes. 5 - Com efeito, o salário é pago pela contraprestação do
+serviço prestado e a pensão mensal é devida pela reparação dos danos materiais decorrentes da
+redução da capacidade laborativa do empregado. Julgados. 6 - Recurso de revista a que se dá
+provimento. III - AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA DA RECLAMADA. LEI Nº
+13.467/2017. Tendo em vista o provimento do recurso de revista do reclamante para determinar o
+retorno dos autos ao TRT de origem e a necessidade de evitar a cisão do julgamento, que poderá
+resultar em prejuízo às partes, julga-se prejudicado o exame do agravo de instrumento da
+reclamada" (RRAg-1000655-83.2016.5.02.0463, 6ª Turma, Relatora Ministra Katia Magalhaes Arruda,
+DEJT 09/04/2021).
+"AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. DANOS MATERIAIS. REDUÇÃO DA
+CAPACIDADE LABORAL. PENSÃO MENSAL. NÃO RECONHECIMENTO. VIOLAÇÃO A DISPOSITIVO LEGAL.
+1. Viola o art. 950, do Código Civil a decisão regional que, reconhecendo, com base na prova pericial,
+que o reclamante apresenta incapacidade parcial e permanente, indefere o pagamento da pensão
+mensal de que trata o dispositivo em tela. 2. Agravo de instrumento de que se conhece e a que se dá
+provimento para determinar o processamento do recurso de revista. RECURSO DE REVISTA. DANOS
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F3FDE5CDDC493.
+MATERIAIS. REDUÇÃO DA CAPACIDADE LABORAL. PENSÃO MENSAL. ART. 950 DO CÓDIGO CIVIL. 1.O
+laudo pericial, retratado no v. acórdão, consignou que o autor apresenta incapacidade, parcial e
+permanente para as atividades que desempenhava na Reclamada. 2.Nada obstante, o e. Tribunal
+Regional entendeu indevido pensionamento em razão de que não há incapacidade para o trabalho e
+pelo fato do autor estar trabalhando em outra empresa. 3. O teor do art. 950 do CC não admite a
+inferência posta pelo e. Tribunal Regional. A incapacidade parcial e permanente, retratada no caso
+presente, é uma das hipóteses de aplicação do dispositivo em tela. 4.Recurso de revista de que se
+conhece e a que se dá provimento para condenar a reclamada ao pagamento da pensão mensal de
+que trata o art. 950 do Código Civil, correspondente ao percentual da incapacidade do reclamante,
+verificado na prova pericial" (RR-800-93.2009.5.02.0434, 4ª Turma, Relatora Desembargadora
+Convocada Sueli Gil El Rafihi, DEJT 05/09/2014).
+"(...) II - RECURSO DE REVISTA INTERPOSTO PELO RECLAMANTE. LEI Nº 13.015/2014.
+RESPONSABILIDADE CIVIL DO EMPREGADOR. INDENIZAÇÃO POR DANOS MATERIAIS. DOENÇA
+OCUPACIONAL. INCAPACIDADE PARCIAL E PERMANENTE. PENSÃO MENSAL VITALÍCIA DEVIDA. Na
+hipótese, embora o laudo pericial tenha concluído que o reclamante possui doença ocupacional que
+lhe causou comprometimento parcial e permanente de seus ombros, na ordem de 25%, o Tribunal
+Regional excluiu a condenação ao pagamento da pensão mensal vitalícia pelos argumentos de que o
+reclamante continua laborando na reclamada e de que sua incapacidade para o trabalho não é total
+e permanente. O artigo 950 do Código Civil dispõe que " se da ofensa resultar defeito pelo qual o
+ofendido não possa exercer o seu ofício ou profissão, ou se lhe diminua a capacidade de trabalho, a
+indenização, além das despesas do tratamento e lucros cessantes até ao fim da convalescença,
+incluirá pensão correspondente à importância do trabalho para que se inabilitou, ou à depreciação
+que ele sofreu ". Extrai-se do referido artigo duas situações ensejadoras de pensionamento: 1) se o
+ofendido não puder exercer o seu ofício ou profissão, fará jus à pensão correspondente à
+importância do trabalho para o qual se inabilitou; e 2) se o ofendido sofreu diminuição da sua
+capacidade para o trabalho, fará jus à pensão correspondente à depreciação sofrida. Em outras
+palavras, o simples registro nos autos de diminuição da capacidade laborativa pressupõe a existência
+de prejuízos. Isso porque o preceito contido no artigo 950 do Código Civil tem por propósito punir o
+ato ilícito praticado e compensar a perda da capacidade laborativa, ainda que parcial, que dificultaria
+a eventual necessidade de reinserção do trabalhador no mercado de trabalho. Na hipótese, a
+permanência do empregado no trabalho, ainda que sem prejuízo dos salários, por si só, não é
+suficiente para a manutenção da conclusão do Tribunal Regional no sentido de que é indevida a
+pensão mensal vitalícia. Portanto, ao reconhecer que há perda parcial e permanente da capacidade
+laborativa do reclamante em decorrência da doença ocupacional adquirida e concluir pela ausência
+do dever de reparação material, a decisão regional violou o art. 950, caput , do Código Civil,
+contrariando a jurisprudência deste Tribunal Superior do Trabalho. Recurso de revista de que se
+conhece e a que se dá provimento." (RRAg-1000856-83.2013.5.02.0462, Ministra Relatora Maria
+Helena Mallmann, 2ª Turma, DEJT 2/10/2020)
+Reconhecida a consonância da decisão recorrida com a jurisprudência uniforme desta Corte,
+afasta-se a violação dos dispositivos legais e constitucionais apontados e ficam superados os arestos
+colacionados.
+No tema do " dano moral ", quanto à configuração da ofensa extrapatrimonial, a pretensão
+recursal está frontalmente contrária às afirmações do Tribunal Regional acerca das questões
+probatórias de modo que o recurso apenas se viabilizaria mediante a incursão nas provas coligidas
+aos autos, circunstância vedada pela já mencionada Súmula 126 do TST.
+Ademais, o valor arbitrado a título de reparação por dano moral somente pode ser revisado na
+instância extraordinária nos casos em que vulnera os preceitos de lei ou Constituição que
+emprestam caráter normativo ao princípio da proporcionalidade.
+No caso concreto, considerando a moldura factual definida pelo Regional (acidente de trabalho
+que desencadeou perda da visão do reclamante e inabilitação total para a função anteriormente
+exercida) e insusceptível de revisão (Súmula 126 do TST), o valor atribuído (R$ 50.000,00) não se
+mostra excessivamente elevado a ponto de se o conceber desproporcional.
+Ilesos, portanto, os artigos 5º, V, da CF e 944 do CC.
+No tema das " horas extras ", a tese recursal referente à existência de convenção coletiva a
+disciplinar a matéria não está prequestionada no acórdão regional, tampouco foi objeto de
+embargos de declaração perante o TRT, o que faz incidir o óbice da Súmula 297, I, do TST, no
+particular.
+Por fim, no tema dos " honorários periciais ", esclareça-se que oshonoráriospericiaissão
+devidos pela partesucumbentena pretensão objeto da perícia, não na prova pericial em si.
+Assim, independente da sucumbência na prova pericial, o que define o ônus de arcar com a
+remuneração do perito é a vitória ou a derrota na pretensão posta na lide. Logo, o fato de a
+reclamada ter sido vencida na pretensão cognitiva do autor significa que deverá arcar com o
+pagamento da produção da prova pericial, conforme bem decidiu o TRT.
+Confiram-se os seguintes precedentes:
+RECURSO DE REVISTA -HONORÁRIOSPERICIAIS- RESPONSABILIDADE PELO PAGAMENTO. Nos
+termos do art. 790-B da CLT, oshonoráriospericiaissão devidos pela partesucumbentena pretensão
+objeto da perícia, não na prova pericial em si. Assim, independente da sucumbência na prova
+pericial, o que define o ônus de arcar com a remuneração do perito é a vitória/derrota na pretensão
+posta lide. No caso, a Corte regional condenou a reclamada ao pagamento dos referidoshonorários,
+tendo em vista que foisucumbentequanto ao pedido de pagamento de adicional de insalubridade,
+não obstante a perícia tenha constatado que as condições de trabalho do autor não eram insalubres.
+Desse modo, correta a decisão regional que responsabilizou a reclamada pelo pagamento de
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F3FDE5CDDC493.
+taishonorários. Precedentes. Recurso de revista não conhecido. (RR - 1228-82.2011.5.04.0003 , Rel.
+Min. Vieira de Mello Filho, 7ª Turma, DEJT de 21/11/2014)
+(...) RECURSO DE REVISTA DA RECLAMADAHONORÁRIOSPERICIAIS- RESPONSABILIDADE. A
+responsabilidade pelo pagamento doshonoráriospericiaisé da partesucumbenteda pretensão
+relativa ao objeto da perícia. No caso concreto, a reclamada foi condenada ao pagamento do
+adicional de insalubridade. O fato da reclamada confessar em sua contestação o direito do
+empregado à percepção de adicional de insalubridade em grau médio, não a desonera do ônus
+relativo aoshonoráriospericiais, pois ainda que reconhecido em juízo o adicional naquele mesmo
+grau, existiu sua sucumbência quanto ao objeto do pedido de adicional de insalubridade. Recurso de
+revista não conhecido. (RR-2210100-65.2002.5.02.0900, 1ª Turma, Rel. Min. Vieira de Mello Filho, DJ de
+14/8/2009)
+RECURSO DE REVISTA -HONORÁRIOSPERICIAIS- RESPONSABILIDADE PELO PAGAMENTO. Nos
+termos do art. 790-B da CLT, oshonoráriospericiaissão devidos pela partesucumbentena pretensão
+relativa ao objeto da perícia, independentemente da sucumbência na lide. No caso, a Corte Regional
+condenou o Município ao pagamento dos referidoshonorários, não obstante ter julgado
+improcedente o pedido de pagamento do adicional de insalubridade, cuja matéria foi objeto da
+perícia. Desse modo, deve-se afastar a responsabilização do reclamado pelo pagamento de
+taishonoráriose determinar que ele seja efetuado pela União, nos termos da Resolução nº 66/2010
+do Conselho Superior da Justiça do Trabalho, tendo em vista que o autor é beneficiário da justiça
+gratuita. Recurso de revista conhecido e provido. (RR-108000-64.2007.5.02.0262, 7ª Turma, Rel. Min.
+Vieira de Mello Filho, DJ de 25/10/2013)
+EMBARGOS INTERPOSTOS ANTERIORMENTE À VIGÊNCIA DA LEI Nº 11.496/07
+(...)HONORÁRIOSPERICIAIS- SUCUMBÊNCIA NA PRETENSÃO OBJETO DA PROVA 1. A teor da Súmula nº
+236/TST, cujo teor foi incorporado à CLT, no art. 790-B, o ônus de pagamento doshonorárioscompete
+à parte que sucumbe, não na prova pericial em si, mas, sim, na pretensão objeto da perícia. 2. In
+casu, muito embora o Tribunal Regional tenha desconsiderado o laudo, a Reclamada
+restousucumbentena pretensão que fora objeto da prova pericial. 3. Assim, deve suportar o encargo
+de pagamento doshonoráriosrespectivos. (...). (E-RR-596194-22.1999.5.15.5555, Subseção I
+Especializada em Dissídios Individuais, Rel. Min. Maria Cristina Irigoyen Peduzzi, DJ de 19/10/2007)
+(...) RECURSO DE REVISTAHONORÁRIOSPERICIAIS. SUCUMBÊNCIA NO OBJETO DA PERÍCIA. Uma
+vez que a empresa não foisucumbenteno objeto da perícia, tanto que o TRT exclui a indenização por
+dano moral, não se há de falar em condenação emhonoráriosdo perito, na forma do artigo 790-B da
+CLT. Isenta-se o reclamante do pagamento doshonoráriospericiais, por ser beneficiário da Justiça
+Gratuita e responsabiliza-se a União, nos termos dos artigos 1º, 2º e 5º, da Resolução nº 35/2007 do
+Conselho Superior da Justiça do Trabalho e da Orientação Jurisprudencial nº 387 da SBDI-1 deste
+Tribunal Superior. Recurso de revista de que se conhece e a que se dá provimento. (RR-128800-
+09.2008.5.06.0023, 7ª Turma, Rel. Desembargador Convocado Valdir Florindo, DJ de 17/5/2013)
+(...)HONORÁRIOSPERICIAIS- RESPONSABILIDADE PELO PAGAMENTO (violação ao artigo 790-B,
+da CLT, e divergência jurisprudencial). Se o Tribunal Regional, com base na perícia técnica elaborada
+nos autos, acolheu a tese de nulidade da dispensa, pela caracterizada estabilidade provisória
+decorrente da comprovada doença ocupacional, a responsabilidade pelo pagamento
+doshonoráriospericiaisdeve ser imputada à reclamada,sucumbenteno objeto da perícia, sendo
+irrelevante que, na segunda perícia realizada nos autos, não tenha sido comprovada a existência de
+sequelas incapacitantes ou incapacidade laboral da empregada, mesmo porque tais circunstâncias
+são acessórias ao pleito principal acolhido. Recurso de revista conhecido e provido. (RR-12400-
+65.2002.5.09.0013, 2ª Turma, Rel. Min. Renato de Lacerda Paiva, DJ de 17/5/2013)
+RECURSO DE REVISTA. (...) 7.HONORÁRIOSPERICIAIS. A responsabilidade pelo pagamento
+doshonoráriospericiaisé da partesucumbentena pretensão objeto da perícia (art. 790-B/CLT).
+Mantida a condenação, oshonoráriospericiaisficam a cargo da reclamada. Recurso de revista não
+conhecido. (RR-16800-36.2003.5.05.0131, 3ª Turma, Rel. Min. Alberto Luiz Bresciani de Fontan Pereira,
+DJ de 17/5/2013)
+(...) AGRAVO DE INSTRUMENTO DA RECLAMADAHONORÁRIOSPERICIAIS- SUCUMBÊNCIA NA
+PRETENSÃO OBJETO DA PROVA Demonstrada possível contrariedade à Súmula nº 236 do TST,
+cancelada posteriormente à interposição do Recurso de Revista, dá-se provimento ao Agravo de
+Instrumento para determinar o processamento do apelo denegado. III - RECURSO DE REVISTA DA
+RECLAMADA PRELIMINAR DE NULIDADE - NEGATIVA DE PRESTAÇÃO JURISDICIONAL Prefacial não
+examinada, à luz do art. 249, § 2º, do CPCHONORÁRIOSPERICIAIS- SUCUMBÊNCIA NA PRETENSÃO
+OBJETO DA PROVA 1. A teor da Súmula nº 236/TST, cujo teor foi incorporado à CLT, no art. 790-B, o
+ônus de pagamento doshonorárioscompete à parte que sucumbe na pretensão objeto da perícia. 2.
+In casu, a Ré não sucumbiu na pretensão objeto da perícia, uma vez que não houve condenação em
+adicional de insalubridade. 3. Assim, o encargo relativo aoshonoráriospericiaisefetivamente não lhe
+compete. Recurso de Revista conhecido e provido. (RR-6800-10.2002.5.02.0902, 8ª Turma, Rel. Min.
+Maria Cristina Irigoyen Peduzzi, DJ de 5/6/2009)
+Diante disso, correta a decisão regional que responsabilizou a reclamada pelo pagamento
+doshonoráriospericiais. Ademais, o valor (R$ 1.220,00) foi arbitrado em montante razoável, não
+havendo falar em desproporcionalidade.
+Ante os esclarecimentos supra, não incide a multa do § 4° do art. 1.021 do CPC.
+Por todo o exposto, reconhecida a transcendência jurídica no tema "negativa de prestação
+jurisdicional" e prejudicado o exame da transcendência nos temas remanescentes, nego provimento
+ao agravo.
+ISTO POSTO
+ACORDAM os Ministros da Sexta Turma do Tribunal Superior do Trabalho, por unanimidade, Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F3FDE5CDDC493.
+reconhecer a transcendência jurídica no tema "negativa de prestação jurisdicional", julgar
+prejudicado o exame da transcendência nos tópicos remanescentes e negar provimento ao agravo.”
+À análise.
+Percebe-se, da análise do acórdão embargado acima transcrito, estarem explícitas
+as razões que conduziram ao convencimento da Turma, inexistindo vícios na decisão proferida a
+justificar a oposição dos presentes embargos de declaração, no ponto.
+O acórdão proferido pela 6ª Turma foi expresso ao consignar que, “diversamente
+do alegado pela recorrente, a questão referente ao nexo causal não foi decidida pelo Regional com base
+apenas na simples distribuição do onus probandi, mas sim na prova efetivamente produzida e valorada,
+conforme princípio da persuasão racional, o que afasta a tese da indevida inversão do ônus da prova em sede
+recursal.”
+Impende destacar, ademais, o que preconiza a OJ 118 da SBDI-I desta Corte,
+segundo a qual "havendo tese explícita sobre a matéria, na decisão recorrida, desnecessário contenha nela
+referência expressa do dispositivo legal para ter-se como prequestionado este".
+Logo, o pleito da embargante, no ponto, configura irresignação relativa ao mérito
+porquanto investe contra suposto erro de julgamento. Em verdade, a parte não se conforma com a
+decisão que lhe foi desfavorável, não sendo esse o meio processual adequado para demonstrar o seu
+inconformismo.
+Está claro que, sob o pretexto de existir omissão no julgado, na verdade, pretende
+a embargante rediscutir matéria já analisada. Com efeito, os embargos de declaração não podem ser
+utilizados com a finalidade de sustentar incorreções na decisão impugnada ou de propiciar um novo
+exame da própria questão de fundo, de modo a viabilizar, em instância processual absolutamente
+inadequada, a desconstituição de ato decisório regularmente proferido, conforme pretende a
+recorrente.
+Ressalte-se que a finalidade dos embargos de declaração é sanar vício existente
+na decisão, visando ao aprimoramento do julgado, consoante os arts. 897-A da CLT e 1.022, I, II e III, do
+CPC. Os embargos declaratórios não se prestam a apreciar alegações de inconformismo da parte que
+obteve uma decisão devidamente fundamentada, mas contrária aos seus interesses.
+Como se constata, inexistente qualquer um dos vícios previstos nos artigos 897-A
+da CLT e 1.022 do CPC.
+Embora qualquer das partes possa ser apenada por embargos de declaração
+opostos com o intuito de procrastinação, a oposição de embargos declaratórios pelo devedor da
+obrigação trabalhista, quando tal ocorre sem atenção às hipóteses de seu cabimento, revela o
+manifesto interesse de procrastinar o tempo de suportar o ônus de cumprir a prestação, o suficiente
+para atrair a cominação da multa correspondente.
+Ante o exposto, nego provimento aos embargos declaratórios e, dado o caráter
+protelatório da medida, condeno a embargante a pagar multa de 1% prevista no art. 1.026, § 2º, do CPC.
+ISTO POSTO
+ACORDAM os Ministros da Sexta Turma do Tribunal Superior do Trabalho, por
+unanimidade, negar provimento aos embargos declaratórios e, dado o caráter protelatório da medida,
+condenar a embargante a pagar multa de 1% prevista no art. 1.026, § 2º, do CPC.
+Brasília, 31 de agosto de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+AUGUSTO CÉSAR LEITE DE CARVALHO
+Ministro Relator
+Firmado por assinatura digital em 02/09/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F3FDE5CDDC493.
