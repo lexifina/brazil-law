@@ -1,0 +1,64 @@
+DECISÃO: Trata-se de reclamação constitucional, com pedido liminar, ajuizada por Creações Opção Ltda, em face de acórdão do Tribunal Regional do Trabalho da 1ª Região, proferido nos autos Processo n. 0100009-19.2022.5.01.0301.
+Em suas razões, a reclamante alega que a autoridade reclamada descumpriu a orientação firmada por esta Corte no Tema 339 da repercussão geral, argumentando para tanto o seguinte:
+
+“A sentença proferida pela MM. Juíza da 1ª Vara do Trabalho de Petrópolis julgou totalmente improcedente a reclamação trabalhista.
+Por consequência, declarou ausentes os requisitos previstos nos artigos 2º e 3º da Consolidação das Leis do Trabalho. Esses fundamentos não foram isolados.
+O voto vencido proferido no julgamento do Recurso Ordinário reproduziu substancialmente a fundamentação adotada pelo Juízo de primeiro grau, concluindo igualmente inexistirem pessoalidade e subordinação jurídica, mantendo a total improcedência da ação.
+A empresa demonstrava que existia, no próprio processo, decisão de primeiro grau e voto vencido reconhecendo precisamente a ausência dos requisitos que constituem pressuposto lógico da incidência do Tema 270.
+Em outras palavras, a Reclamante desenvolveu típico argumento de distinguishing.
+Jamais pretendeu afastar a autoridade do precedente repetitivo. Pretendeu apenas demonstrar que a hipótese concreta não se enquadrava em sua premissa fática.
+Entretanto, a decisão reclamada simplesmente deixou de apreciar essa questão ao julgado o agravo interno. Nenhuma linha foi dedicada ao distinguishing.
+Com a devida vênia, o Acórdão não está devidamente fundamentado.
+O dever constitucional de motivação das decisões judiciais não se satisfaz mediante simples declaração de que determinado precedente seria aplicável.
+A violação ao Tema 339 revela-se manifesta.
+Nessas circunstâncias, resta caracterizada afronta direta ao artigo 93, inciso IX, da Constituição Federal e, consequentemente, à autoridade do precedente vinculante firmado por esta Suprema Corte no julgamento do Tema 339 da repercussão geral.” (eDOC 1, pp. 7-8)
+
+Alega, ainda, a violação da autoridade de decisões proferidas pelo STF na ADPF 324, no Tema 725 da repercussão geral e na ADI 5.625, porquanto tais precedentes reforçam que o reconhecimento do vínculo de emprego depende da demonstração concreta dos requisitos legais, vedando presunções ou conclusões automáticas incompatíveis com a liberdade de organização das relações privadas e a livre iniciativa.
+Requer, assim, a concessão de medida liminar para suspender os efeitos da decisão reclamada e, no mérito, a procedência da reclamação para “cassar o acórdão proferido pela Subseção Especializada em Uniformização de Jurisprudência II do Tribunal Regional do Trabalho da 1ª Região, determinando que outra decisão seja proferida em seu lugar, com efetivo enfrentamento do distinguishing suscitado pela Reclamante, observando-se a autoridade do precedente firmado por esta Suprema Corte no Tema 339 da repercussão geral”. (eDOC 1, p. 13-14)
+A autoridade reclamada prestou informações (eDOC 14, ID: 474b630f).
+Citado, o beneficiário Jeferson Ferreira de Castro apresentou contestação postulando a improcedência da reclamação (eDOC 15, ID: 8eb7f2ff).
+Intimada, a Procuradoria-Geral da República manifestou em parecer pela negativa de seguimento da reclamação (eDOC 18, ID: 89273f67).
+É o relatório.
+Decido.
+Inicialmente, rememoro que, conforme disposto na Constituição Federal, compete ao STF processar e julgar originariamente reclamação para a preservação de sua competência, garantia da autoridade de suas decisões e da observância das Súmulas Vinculantes (arts. 102, I, “l”, e 103-A, § 3º da CF/88). Nesse sentido, o Código de Processo Civil de 2015 também regulamentou a matéria e assentou as seguintes hipóteses de cabimento da reclamação:
+
+“Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência. (...)”.
+
+O § 4º do mesmo artigo esclarece que as hipóteses dos incisos III e IV compreendem a aplicação indevida da tese jurídica e sua não aplicação aos casos que a ela correspondem.
+Verifica-se, ainda, nos termos do § 5º, que é inadmissível reclamação proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida, exceto quando comprovado o esgotamento das instâncias ordinárias, com a devida interposição e julgamento do agravo interno, previsto no art. 1.030, § 2º, do CPC, e a plausibilidade da tese de aplicação equivocada do entendimento do Supremo Tribunal Federal firmado na repercussão geral pelo Juízo a quo, a indicar teratologia da decisão reclamada.
+Na hipótese versada, incabível inferir-se, nesse momento processual, o descumprimento da orientação firmada por esta Corte no julgamento do Tema 339 da repercussão geral, porquanto não se vislumbra o esgotamento das instâncias exigido para o conhecimento da reclamação.
+Cumpre registrar que para a configuração do esgotamento das instâncias ordinárias exigida para a propositura da reclamação é necessário que, além de o recurso extraordinário ter o seguimento negado com base na sistemática da repercussão geral (art. 1.030, I, do CPC), também tenha sido interposto e julgado o agravo interno previsto no art. 1.030, § 2º, do CPC.
+Entretanto, no caso dos autos, como a própria reclamante consigna na exordial, o ato apontado como reclamado é o acórdão proferido em agravo interno interposto contra decisão que negou seguimento a recurso de revista, nos autos do Processo 0100009-19.2022.5.01.0301 (eDOC 2, p. 448).
+Ademais, em consulta ao site do TRT da 1ª Região, verifico que o agravo de instrumento em recurso de revista interposto pela empresa ora reclamante foi devidamente encaminhado ao Tribunal Superior do Trabalho, de modo que a controvérsia ainda pode ser submetida a este Tribunal por outra via.
+Nestes termos, a jurisprudência desta Corte é firme no sentido de que a ausência de interposição de todos os recursos cabíveis demonstra a ausência de esgotamento das vias ordinárias, o que inviabiliza o manejo da reclamação. Nesse sentido, confiram-se precedentes de ambas as Turmas:
+
+“EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. RECLAMAÇÃO CONSTITUCIONAL PROPOSTA PARA GARANTIR A OBSERVÂNCIA DE DECISÃO DESTA SUPREMA CORTE PROFERIDA SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL (ART. 988, § 5º, DO CPC). NÃO ESGOTAMENTO DAS INSTÂNCIAS RECURSAIS ORDINÁRIAS. UTILIZAÇÃO DA VIA RECLAMATÓRIA COMO SUCEDÂNEO RECURSAL. AGRAVO DESPROVIDO. I. Caso em exame 1. Embargos de declaração interpostos contra decisão que negou seguimento a esta reclamação, a qual foi proposta por afirmado desrespeito ao que decidido pelo Supremo Tribunal Federal no Agravo de Instrumento 791.292/PE (Tema 339 da Repercussão Geral). II. Questão em discussão 2. A questão em discussão consiste em saber se cabe reclamação proposta para garantir a observância de decisão desta Suprema Corte proferida sob a sistemática da repercussão geral, antes do esgotamento das vias ordinárias. III. Razões de decidir 3. A jurisprudência do STF é pacífica no sentido de que o cabimento da reclamação, quando tem por finalidade garantir a observância de entendimento proferido sob a sistemática de repercussão geral, exige prévio exaurimento de todos os recursos cabíveis para a revisão do ato combatido, inclusive nos tribunais superiores. 4. A reclamação não tem a finalidade de substituir as vias processuais ordinárias, sendo equivocada a sua utilização como sucedâneo de recurso ou da medida processual eventualmente cabível. IV. Dispositivo e tese 5. Agravo desprovido. (...).” (Rcl 79.207 ED, Rel. Min. Cristiano Zanin, Primeira Turma, DJe 11.6.2025; grifo nosso);
+
+“Agravo regimental em reclamação. 2. Direito Processual Civil e do Trabalho. 3. Alegado descumprimento do tema 1.046 da repercussão geral. 4. Ausência de esgotamento das instâncias ordinárias, que ocorre com julgamento de agravo interno interposto contra decisão do Presidente ou Vice-Presidente que não admite o recurso extraordinário. Precedentes de ambas as Turmas do STF. 5. Impossibilidade de utilização da reclamação como sucedâneo recursal. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Negado provimento ao agravo regimental”. (Rcl 58.144 AgR, de minha relatoria, Segunda Turma, DJe 20.4.2023; grifo nosso).
+
+Por outro lado, quanto à alegação de ofensa à autoridade das decisões da ADPF 324 e da ADI 5.625, também não assiste razão à reclamante.
+Cumpre esclarecer que no julgamento da ADPF 324 essa Corte assentou a licitude da terceirização de toda e qualquer atividade, seja ela atividade-meio ou atividade-fim. Já na ADI 5.625 o STF validou o modelo de contrato de parceria civil entre salões de beleza e profissionais do setor, estabelecendo que esse formato, por si só, não gera vínculo de emprego sob as regras da CLT.
+Contudo, o caso dos autos refere-se ao pedido de reconhecimento de vínculo de emprego entre policial militar e empresa privada, matéria distinta daquela examinada nos paradigmas invocados. Desse modo, não se verifica identidade nem similitude entre o ato reclamado e o que foi decidido na ADPF 324 e na ADI 5.625, circunstância que evidencia a ausência da necessária aderência estrita e conduz à inadmissibilidade da presente reclamação.
+ Com efeito, destaco que, conforme a jurisprudência desta Suprema Corte, os atos reclamados devem ajustar-se “com exatidão e pertinência” ao conteúdo das decisões desta Suprema Corte indicadas como desrespeitadas. Nesse sentido:
+
+“Os atos questionados em qualquer reclamação nos casos em que se sustenta desrespeito à autoridade de decisão do Supremo Tribunal Federal hão de se ajustar, com exatidão e pertinência, aos julgamentos desta Suprema Corte invocados como paradigmas de confronto, em ordem a permitir, pela análise comparativa, a verificação da conformidade, ou não, da deliberação estatal impugnada em relação ao parâmetro de controle emanado deste Tribunal.” (Rcl 6.534 AgR, Rel. Min. Celso de Mello, Pleno, DJe 17.10.2008).
+
+Por fim, cumpre salientar, ainda, que é assente na jurisprudência desta Corte que o instrumento processual da reclamação não pode ser empregado como sucedâneo recursal ou atalho processual para fazer chegar a causa diretamente ao Supremo Tribunal Federal, conforme ocorre nestes autos. Corroborando essa assertiva, cito os seguintes julgados:
+
+“Agravo regimental em reclamação. Tema nº 942 da Repercussão Geral. Ausência de esgotamento de instância. Precedentes. Agravo regimental não provido. 1. O esgotamento de instância é requisito de admissibilidade de reclamação constitucional com paradigma em tese de repercussão geral (art. 988, § 5º, inciso II, do CPC), requisito observado somente em decisão colegiada da origem que, em sede de agravo interno, aprecia a negativa de seguimento de recurso extraordinário pela sistemática. Precedentes. 2. Não prospera a alegada negativa de prestação jurisdicional, porquanto há instrumentos recursais para questionar a decisão reclamada. O debate proposto deve se desenvolver pelos meios processuais adequados, não se podendo admitir o uso da reclamação constitucional como sucedâneo de recurso. Precedentes. 3. Agravo regimental ao qual se nega provimento, com aplicação de multa”. (Rcl 56.959 AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 14.3.2023; grifo nosso);
+
+“AGRAVO REGIMENTAL NA RECLAMAÇÃO. ALEGAÇÃO DE EQUÍVOCO NA APLICAÇÃO DO INSTITUTO DA REPERCUSSÃO GERAL NA ORIGEM: NÃO CABIMENTO, NO CASO. USO COMO SUCEDÂNEO RECURSAL: VEDAÇÃO. 1. O Supremo Tribunal Federal decidiu, reiteradamente, pelo não cabimento da reclamação ajuizada com o escopo de corrigir eventuais equívocos na aplicação do instituto da repercussão geral, à exceção de evidente teratologia, o que não se vislumbra no caso. 2. Não se caracterizou usurpação da competência desta Corte, mas, tão somente, o exercício da competência própria do Juízo de origem para inadmitir os recursos relativos às próprias decisões. 3. Revela-se imprópria a formalização de reclamação com intuito de servir como sucedâneo recursal. 4. Agravo regimental ao qual se nega provimento”. (Rcl 53.941 AgR, Rel. Min. André Mendonça, Segunda Turma, DJe 24.3.2023; grifo nosso).
+
+Dessa forma, inadmissível a presente reclamação.
+Ante o exposto, nego seguimento à reclamação (art. 21, § 1º, do RISTF). Prejudicado o pedido liminar.
+
+Publique-se.
+Brasília, 2 de setembro de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
