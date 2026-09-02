@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de petição por meio da qual a requerente aponta a existência de erro material na decisão proferida nos autos do ARE nº 1.610.986/RJ, que determinou a devolução dos autos ao tribunal de origem com fundamento na alínea “c” do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal.
+A peticionante sustenta que a decisão desta Corte partiu de premissa equivocada ao considerar que a inadmissão do recurso extraordinário estaria fundada exclusivamente na sistemática da repercussão geral. Afirma que a decisão da Terceira Vice-Presidência do Tribunal de Justiça do Estado do Rio de Janeiro foi expressamente baseada no art. 1.030, V, do Código de Processo Civil, hipótese que, a seu ver, autorizaria a interposição de agravo em recurso extraordinário. Argumenta, ainda, que a inadmissão do recurso não decorreu apenas da aplicação de precedente de repercussão geral, mas também de fundamentos processuais autônomos, relacionados ao princípio da complementariedade recursal e ao alegado descabimento de novo recurso extraordinário após o juízo de retratação.
+Acrescenta que o juízo de retratação foi realizado em razão da aplicação do Tema 1076 do Superior Tribunal de Justiça, julgado sob a sistemática dos recursos repetitivos, e não com base em tese fixada pelo Supremo Tribunal Federal em regime de repercussão geral. Sustenta que a questão constitucional somente teria surgido após a retratação, quando os honorários sucumbenciais anteriormente arbitrados por equidade foram majorados, circunstância que teria gerado interesse recursal superveniente. Ao final, requer o recebimento da petição como agravo regimental, a requisição dos autos ao tribunal de origem e a suspensão de atos relacionados ao capítulo sucumbencial controvertido até o julgamento da insurgência, postulando, sucessivamente, a aplicação do princípio da fungibilidade recursal para eventual processamento do recurso como agravo interno na instância de origem.
+É o relatório. Decido.
+Assiste razão à requerente.
+ Da análise dos documentos acostados aos autos do ARE nº 1.610.986/RJ, verifica-se a ocorrência de inequívoco erro material, porquanto a inadmissão do recurso extraordinário, na origem, não se fundamentou na aplicação da sistemática da repercussão geral.
+Ante o exposto, com fundamento nos arts. 13, inciso V, alínea “c”, e 21, inciso I, do Regimento Interno do Supremo Tribunal Federal, julgo procedente o pedido formulado na presente petição, para determinar o retorno dos autos do Recurso Extraordinário com Agravo nº 1.610.986 à Presidência desta Suprema Corte, para a devida apreciação.
+À Secretaria desta Corte para que providencie a comunicação desta decisão ao egrégio Tribunal de Justiça do Estado do Rio de Janeiro, bem como proceda à sua juntada aos autos do ARE nº 1.610.986/RJ.
+Publique-se.
+Brasília, 2 de setembro de 2026.
+
+Ministro Edson Fachin
+Presidente
+Documento assinado digitalmente
