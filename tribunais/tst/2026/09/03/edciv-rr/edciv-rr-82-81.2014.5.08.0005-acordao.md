@@ -1,0 +1,863 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Superior do Trabalho
+PROCESSO Nº TST-EDCiv-RR - 82-81.2014.5.08.0005
+A C Ó R D Ã O
+3ª Turma
+GMMGD/ja
+EMBARGOS DE DECLARAÇÃO. ESCLARECIMENTOS.
+RESPONSABILIDADE SUBSIDIÁRIA DO TOMADOR DE SERVIÇOS.
+CONDENAÇÃO EM ADICIONAL DE INSALUBRIDADE. ITEM 3 DO
+TEMA 1118 DE REPERCUSSÃO GERAL. Quanto a
+responsabilidade subsidiária do tomador de serviços, ente
+público, por parcela remanescente, tem-se que o STF, no item 3
+do Tema 1.118, resguardou a possibilidade de responsabilização
+da Administração Pública quando constatada a negligência no
+dever de se assegurarem ao trabalhador condições de
+segurança, higiene e salubridade: “3. Constitui responsabilidade
+da Administração Pública garantir as condições de segurança,
+higiene e salubridade dos trabalhadores, quando o trabalho for
+realizado em suas dependências ou local previamente
+convencionado em contrato, nos termos do art. 5º-A, § 3º, da Lei nº
+6.019/1974”. É excepcional, dessa forma, a situação em que a
+empresa descumpre direitos básicos de segurança, higiene e
+salubridade no ambiente laboral. Verificada a inadimplência
+nesse âmbito, não há como desonerar o Estado da
+responsabilidade subsidiária quanto ao pagamento das verbas
+respectivas reconhecidas judicialmente, na medida em que tais
+direitos recebem proteção especial em âmbito constitucional. A
+garantia diz respeito à higidez física da pessoa humana que vive
+do trabalho, estando imantada por regra imperativa da
+Constituição da República, constante no art. 7º, XXII, CF, que
+determina o absoluto prestígio das normas de saúde, higiene e
+segurança que materializam a preocupação pela redução dos
+riscos inerentes ao trabalho. Pelo Texto Magno, a saúde e
+segurança laborais são direito subjetivo obreiro, constituindo,
+ainda, parte integrante e exponencial de uma política de saúde
+pública no País. Por isso, o Supremo Tribunal Federal, de forma
+adequada e atenta aos princípios e regras jurídicas que
+asseguram patamares mínimos de cidadania e dignidade ao
+indivíduo que labora (ilustrativamente, art. 1º, caput e inciso III;
+art. 3º, caput e incisos I, II e IV; art. 6º; art. 7º, caput e inciso XXII;
+art. 170, caput; art. 194, caput; art. 196; art. 197; art. 200, caput e
+inciso II, in fine, todos da CF/88), preservou o direito à garantia
+patrimonial advinda da responsabilidade subsidiária da
+Administração na hipótese de inadimplemento de parcelas
+dessa natureza. Verificada, assim, a violação ao dever de
+garantia de condições de segurança, higiene e salubridade, tem
+incidência a responsabilidade subsidiária da Administração
+Pública. Assim, nessa linha de raciocínio, este Relator ressalva
+seu entendimento pessoal, embora confira, por óbvio, e em
+respeito ao princípio da colegialidade, plena efetividade à
+decisão da maioria desta 3ª Turma, no sentido de aplicar o
+enunciado contido no item 3 do Tema 1.118 RG/STF para manter
+a responsabilidade subsidiária da Administração Pública com
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F193719294E54.
+relação ao adicional de insalubridade e reflexos. Embargos de
+declaração providos para prestar esclarecimentos.
+Vistos, relatados e discutidos estes autos de Embargos de Declaração Cível em
+Recurso de Revista nº TST-EDCiv-RR - 82-81.2014.5.08.0005, em que é Embargante BANCO DO BRASIL
+S.A. e são Embargado(a)S CARLOS ALAN DA COSTA AGARENO, FIXTI SOLUCÕES EM TECNOLOGIA DA
+INFORMAÇÃO LTDA. e LABOREDOMUS CONSULTORIA E SERVICOS EM GESTAO EMPRESARIAL LTDA..
+A 3ª Turma negou provimento ao agravo de instrumento.
+A Parte Reclamada interpõe embargos de declaração, alegando omissão no
+julgado.
+É o relatório.
+V O T O
+I) CONHECIMENTO
+Atendidos os pressupostos recursais, CONHEÇO dos embargos de declaração.
+II) MÉRITO
+Em embargos de declaração, a Parte alega omissão no julgado.
+Sem razão, contudo.
+A matéria suscitada nos embargos de declaração já foi objeto de pronunciamento
+por esta Corte no acórdão embargado, que assim foi fundamentada:
+V O T O
+A) RECURSO DE REVISTA DO BANCO RECLAMADO
+I - CONHECIMENTO
+TERCEIRIZAÇÃO TRABALHISTA. ADEQUAÇÃO AO ENTENDIMENTO DO STF (TEMAS 725 E 383
+DE REPERCUSSÃO GERAL NO STF). TERCEIRIZAÇÃO LÍCITA. DIREITOS E BENEFÍCIOS LEGAIS,
+NORMATIVOS E/OU CONTRATUAIS DOS EMPREGADOS DA TOMADORA DAÍ DECORRENTES.
+IMPOSSIBILIDADE.
+Eis o teor do acórdão turmário:
+2 - TERCEIRIZAÇÃO ILÍCITA. RESPONSABILIDADE SOLIDÁRIA.
+2.1 - CONHECIMENTO.
+O Regional deu parcial provimento ao recurso ordinário do reclamado sob os
+seguintes fundamentos, transcritos nas razões de revista (art. 896, § 1º-A, I, da CLT):
+Não merece reforma a sentença que reconheceu a ilicitude da terceirização,
+tendo em vista que a atividade terceirizada foi de execução do processamento de
+cédulas e moedas, realizada nas dependências do banco reclamado, conforme
+contrato firmado entre o banco recorrente e a empresa contratada (Id 1b0e685).
+Tal qual o juízo de origem, reputo que essa atividade de contagem de
+numerário é inerente à atividade-fim do banco, não sendo lícita sua terceirização,
+ainda que tenham sido observadas todas as formalidades legais para a
+contratação, [...].
+Todavia, mantenho a responsabilidade solidária de todos os reclamados,
+com fulcro nos artigos 9º da CLT e 927 do Código Civil, mormente quando o
+próprio banco confirma que a empresa por ele contratada, subcontratou a
+prestação da mão de obra para a segunda a após para a terceira reclamada,
+devendo todas responder pelos valores eventualmente devidos ao obreiro.
+O reclamado sustenta que a atividade de contagem de numerário não
+compreende atividade-fim de instituição financeira. Alega que a terceirização é lícita
+razão pela qual deve ser afastada a responsabilidade solidária. Sucessivamente, alega
+que mantida a ilicitude da terceirização, deve ser afastada a solidariedade ao argumento
+de que a responsabilidade de ente da administração pública é subsidiária, quando
+evidenciada conduta culposa no cumprimento das obrigações da Lei nº 8.666/93. Aponta
+violação dos arts. 5º, II, 37, caput, XXI, e 173, III, Constituição Federal, 1º, 2º , e 71, § 1º, da
+Lei nº 8.666/93, além de contrariedade à Súmula 331, IV, e V, do TST. Colaciona arestos.
+Sem razão, no entanto.
+A teor da Súmula 331, I, do TST, a contratação de trabalhadores por empresa
+interposta é ilegal, formando-se o vínculo diretamente com o tomador dos serviços. Por
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F193719294E54.
+expressa dicção do item II do verbete, a contratação irregular de trabalhador, mediante
+empresa interposta, não gera vínculo de emprego com os órgãos da Administração
+Pública direta ou indireta (CF, art. 37, II).
+Nos presentes autos, o Regional revela, em trecho não transcrito pelo recorrente
+(art. 896, § 1º-A, I, da CLT), que:
+O banco reclamado não contestou a prestação de serviços pelo reclamante,
+mas alegou a licitude da terceirização, tendo contratado os serviços da empresa
+DE LA RUE CASH SYSTEMS LTDA para a atividade meio de processamento de
+cédulas e moedas metálicas, realizado nas dependências do Banco do Brasil, de
+acordo com as condições previstas no Edital do Pregão 2008/0853. Todavia,
+prossegue o contestante, essa empresa, que sequer foi incluída no polo passivo da
+demanda, teria subcontratado (sic) o fornecimento de mão de obra para a
+segunda e terceira reclamadas. (fl. 289-PE).
+Ressaltou que houve contratação de empresa prestadora de serviços para
+execução de serviços ligados à atividade-fim do banco reclamado relativos à contagem
+de numerário nas dependências do banco (Súmula 126/TST).
+Nesse contexto, o quadro fático delineado no acórdão regional evidencia que o
+reclamante exercia atividades tipicamente bancárias.
+Quanto ao tema, colaciono os seguintes arestos:
+RECURSO DE REVISTA. PROCESSO SOB A ÉGIDE DA LEI 13.015/2014.
+TERCEIRIZAÇÃO ILÍCITA. ATIVIDADE-FIM. ABERTURA DE MALOTE E CONTAGEM DE
+NUMERÁRIO. ATIVIDADE BANCÁRIA. FORMAÇÃO DE VÍNCULO EMPREGATÍCIO
+DIRETO COM O TOMADOR DE SERVIÇOS. ENQUADRAMENTO COMO BANCÁRIO. As
+situações-tipo de terceirização lícita estão, hoje, claramente assentadas pelo texto
+da Súmula 331/TST. Constituem quatro grupos de situações sociojurídicas
+delimitadas: a) situações empresariais que autorizem contratação de trabalho
+temporário; b) atividades de vigilância regidas pela Lei 7.102/83; c) atividades de
+conservação e limpeza; d) serviços especializados ligados à atividade-meio do
+tomador, desde que, nas três últimas situações-tipo, inexista pessoalidade e
+subordinação direta entre trabalhador terceirizado e tomador de serviços. No
+caso concreto, foi consignado pelo Tribunal Regional que o Reclamante exercia
+atividades típicas de bancário, tais como abrir malotes e envelopes que os clientes
+depositavam nos caixas eletrônicos, fazer a conferência do numerário e cheques,
+bem como validar as contas pagas com cheques através dos caixas eletrônicos.
+Tais atividades, segundo a jurisprudência desta Corte, enquadram-se no conceito
+de atividade-fim das instituições bancárias. Pode-se depreender, portanto, que a
+hipótese dos autos não se amolda às quatro situações-tipo de terceirização lícita
+assentadas pela Súmula 331/TST, já que os fatos descritos no acórdão são capazes
+de evidenciar que o Reclamante estava inserido no processo produtivo do primeiro
+Reclamado, sendo as atividades por ele desempenhadas, sem dúvida nenhuma,
+essenciais ao funcionamento e à dinâmica empresarial do referido banco.
+Constatada a ilicitude do contrato de fornecimento de mão de obra, determina a
+ordem jurídica que se considere desfeito o vínculo laboral com o empregador
+aparente (entidade terceirizante), formando-se o vínculo justrabalhista do Obreiro
+diretamente com o tomador dos serviços (empregador oculto ou dissimulado).
+Recurso de revista conhecido e provido. (RR-2010-47.2014.5.03.0186, Relator
+Ministro Mauricio Godinho Delgado, 3ª Turma, DEJT 8.4.2016)
+"AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. [...]. ALEGAÇÃO DE
+NULIDADE DA TERCEIRIZAÇÃO. PEDIDO DE RECONHECIMENTO DE VÍNCULO
+EMPREGATÍCIO DIRETAMENTE COM O TOMADOR DE SERVIÇOS. BANCÁRIO.
+APLICAÇÃO DO ENUNCIADO DA SÚMULA Nº331, I, DESTA CORTE.1. Trata-se de
+Agravo de Instrumento objetivando o processamento de recurso de revista
+fundamentado nas alíneas "a" e "c" do art. 896 da Consolidação das Leis do
+Trabalho. 2. O Tribunal Regional de origem negou provimento ao apelo interposto
+pela demandante e manteve a sentença que julgou improcedentes os pedidos de
+reconhecimento de vínculo empregatício direto com a segunda reclamada e
+pagamento de verbas inerentes a categoria profissional dos bancários. 3.
+Consignou, expressamente, que "(...)Como se observa da instrução, notadamente
+a Inspeção Judicial realizada nos autos do processo 000854-2013-022-03- 00-0 (fls.
+524/537), as atividades da reclamante serestringiam, prioritariamente, à
+conferência de numerário e lançamento de crédito respectivo no sistema da
+PROSEGUR, com envio desta informação aos clientes bancários e não
+bancários....Os depoimentos são no sentido de que a reclamante atuava em
+sistema de conferência de numerário operacional, além de serviços de fiscalização
+de malotes e cheques, tarefas de suporte e afins à atividade meio do tomador de
+serviços, o que torna lícita a terceirização.(...)". 4. A interpretação conferida pelo
+colegiado de segundo grau em derredor dos fatos registrados na própria decisão
+contraria a diretriz traçada pelo enunciado da Súmula nº331, I, desta Corte, que
+somente autoriza a contratação de trabalhadores por empresa interposta nos
+casos de trabalho temporário regulado pela Lei n. 6.019/74, valendo ressaltar que
+o caso concreto não se enquadra nas exceções previstas no item III, do mesmo
+verbete jurisprudencial. 5. Analisar os fatos narrados no bojo do próprio Acórdão
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F193719294E54.
+regional e também nos demais elementos da relação processual, em confronto
+com o verbete jurisprudencial tido como contrariado não representa reavaliação
+do quadro fático probatório, inviável nesta esfera extraordinária, mas apenas a
+investigação do seu correto enquadramento jurídico. 6. No caso, o colegiado
+reconheceu o exercício de atividades tipicamente bancárias, tais como a
+conferência de numerário, cheques e malotes e o lançamento de crédito no
+sistema bancário. 7. O trabalhador terceirizado não pode exercer qualquer tarefa
+inerente à atuação financeira ligadas diretamente a sua atividade final, muito
+menos realizar lançamento de crédito, conferência de numerário e cheques,
+tarefas típicas do setor de tesouraria. 8. Ao concluir pela licitude da terceirização
+realizada, a Corte de origem contrariou o enunciado da Sumula nº331, I, deste
+Tribunal Superior. Precedentes da Turma. Agravo de Instrumento provido."
+RECURSO DE REVISTA. NULIDADE DA TERCEIRIZAÇÃO. RECONHECIMENTO DE
+VÍNCULO EMPREGATÍCIO DIRETAMENTE COM O TOMADOR DE SERVIÇOS.
+BANCÁRIO. SÚMULA 331, I, TST.1. O Tribunal Regional consignou que os serviços
+realizados pela reclamante, tais como conferência de numerário, cheques e
+malotes e o lançamento de crédito no sistema, com envio desta informação à
+instituição financeira, caracterizavam-se como "tarefas de suporte e afins à
+atividade meio do tomador de serviços", razão por que entendeu lícita a
+terceirização dos serviços, mantendo a sentença que julgou improcedentes os
+pedidos de reconhecimento de vínculo empregatício direto com a segunda
+reclamada e pagamento de verbas inerentes a categoria profissional dos
+bancários. 2. À luz do entendimento desta Corte, as tarefas realizadas pela
+reclamante enquadram-se como atividades tipicamente bancárias, de modo que o
+Tribunal regional, ao concluir pela licitude da terceirização realizada, contrariou o
+teor da Sumula 331, I, do TST, sendo ilícita a terceirização havida, formando-se o
+vínculo diretamente com o tomador dos serviços. Precedentes. Recurso de revista
+conhecido e provido. (RR- 1006-37.2013.5.03.0015, Relator Ministro Hugo Carlos
+Scheuermann, Turma, DEJT 19.2.2016)
+RECURSO DE REVISTA. TERCEIRIZAÇÃO DE ATIVIDADE-FIM DO BANCO
+TOMADOR DOS SERVIÇOS. ILICITUDE. PREPARO DE DOCUMENTOS E CONTAGEM
+DE NUMERÁRIO. A jurisprudência desta Corte tem se orientado no sentido de que
+as atividades de conferência de documentos e preparação de numerários estão
+intrinsecamente ligadas às atividades fins de bancários, configurando, portanto, a
+ilicitude da terceirização e o reconhecimento do vínculo de emprego diretamente
+com a tomadora dos serviços, de acordo com os itens I e III da Súmula 331 do TST.
+Precedentes. Recurso de revista conhecido e provido. (RR-1691-33.2011.5.03.0009,
+Relatora Ministra Delaíde Miranda Arantes, 2ª Turma, DEJT 5.6.2015)
+RECURSO DE REVISTA. TERCEIRIZAÇÃO ILÍCITA. ATIVIDADE-FIM DO BANCO
+TOMADOR DOS SERVIÇOS. ABERTURA DE MALOTE E CONTAGEM DE NUMERÁRIO.
+PAGAMENTO DE PARCELAS PRÓPRIAS DA CATEGORIA DOS BANCÁRIOS. ISONOMIA.
+1. Não obstante o Regional não ter reconhecido a ilicitude da terceirização e o
+vínculo de emprego do reclamante diretamente com o banco reclamado,
+descreveu as atividades por ele exercidas, quais sejam: recebimento dos malotes
+com dinheiro e cheques, sua abertura e conferência de valores. 2. Segundo a
+jurisprudência desta Corte, essas atividades se enquadram no conceito de
+atividade-fim das instituições bancárias, o que enseja o reconhecimento do vínculo
+empregatício diretamente com o banco tomador de serviços (Súmula nº 331, I, do
+TST). 3.Nesse contexto, em que se reconhece a relação empregatícia diretamente
+com o banco reclamado, devem ser aplicados ao reclamante os instrumentos
+normativos e as normas coletivas da respectiva categoria profissional, bem como
+a jornada típica dos bancários (art. 224 da CLT). Recurso de revista a que se dá
+provimento. Fica prejudicado o exame dos temas remanescentes. (RR-180-
+70.2013.5.09.0006, Relatora Ministra Kátia Magalhães Arruda, 6ª Turma, DEJT
+19.12.2014)
+O aresto transcrito a fl. 170-PE é inespecífico na medida em que parte da premissa
+de que não há terceirização ilícita quando a atividade de separação e conferência de
+dinheiro e remessa do numerário às agências são executadas nas dependências da
+empresa terceirizada. No caso, as atividades eram realizadas na dependência do banco.
+Incidência da Súmula 296/TST.
+Registre-se que a responsabilidade solidária, em caso de terceirização ilícita
+decorre da configuração de fraude às relações de trabalho, com respaldo nos arts. 186,
+927 e 942 do CCB.
+Os dispositivos estão assim redigidos:
+"Art. 186. Aquele que, por ação ou omissão voluntária, negligência ou
+imprudência, violar direito e causar dano a outrem, ainda que exclusivamente
+moral, comete ato ilícito.
+(...)
+Art. 927. Aquele que, por ato ilícito (arts. 186 e 187), causar dano a outrem,
+fica obrigado a repará-lo.
+(...)
+Art. 942. Os bens do responsável pela ofensa ou violação do direito de
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F193719294E54.
+outrem ficam sujeitos à reparação do dano causado; e, se a ofensa tiver mais de
+um autor, todos responderão solidariamente pela reparação.
+Parágrafo único. São solidariamente responsáveis com os autores os co￾autores e as pessoas designadas no art. 932."
+Nesse sentido, os seguintes precedentes:
+"[...] RESPONSABILIDADE SOLIDÁRIA. Conforme jurisprudência pacífica desta
+Corte, nas hipóteses de terceirização ilícita, quais sejam, aquelas em que há
+intermediação de mão-de-obra na atividade-fim da tomadora de serviços, as
+empresas envolvidas são solidariamente responsáveis pelos créditos trabalhistas
+do empregado. Precedentes. Decisão do Regional em conformidade com o
+entendimento deste Tribunal Superior. Incidência do óbice do artigo 896, §4º, da
+CLT (Lei 9756/98). Recurso de revista não conhecido. Conclusão: Recursos de
+revista integralmente não conhecidos" (RR - 585-12.2011.5.03.0114, Ac. 3ª Turma,
+Relator Ministro Alexandre de Souza Agra Belmonte, in DEJT 22.3.2016).
+"AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA EM FACE DE DECISÃO
+PUBLICADA ANTES DA VIGÊNCIA DA LEI Nº 13.015/2014. RESPONSABILIDADE
+SOLIDÁRIA. INTERMEDIAÇÃO ILÍCITA DE MÃO DE OBRA. PRESTAÇÃO DE SERVIÇOS
+NA ATIVIDADE-FIM DA TOMADORA. O quadro fático delineado no acórdão regional
+reflete a existência de terceirização ilícita da atividade-fim da segunda reclamada,
+o que caracteriza burla à legislação trabalhista, nos termos do artigo 9º da CLT. Tal
+constatação permite, com fulcro no artigo 942 do Código Civil, a responsabilização
+solidária das coautoras ou rés. Conclui-se, pois, que a referida responsabilização
+decorreu de preceito legal, motivo pelo qual não houve violação do artigo 265 do
+Código Civil. Precedentes. Agravo de instrumento a que se nega provimento"
+(AIRR-219-77.2011. 5.06.0020, Ac. 7ª Turma, Relator Ministro Cláudio Mascarenhas
+Brandão, in DEJT 8.4.2016).
+"[...] RECURSO DE REVISTA DA ATENTO BRASIL S.A. - TEMA REMANESCENTE -
+RESPONSABILIDADE SOLIDÁRIA. A condenação da solidariedade decorreu da
+fraude trabalhista cometida em conjunto com a tomadora de serviços e tem
+fundamento legal nos arts. 9º da CLT e 942 do Código Civil. Recurso de revista não
+conhecido" (RR-1199-90.2010.5.03.0004, Ac. 8ª Turma, Relator Ministro Márcio
+Eurico Vitral Amaro, in DEJT 8.4.2016).
+Por todo o exposto e na presença de situação moldada ao art. 896, § 7º, da CLT e à
+Súmula 333/TST, impossível pretender-se o conhecimento da revista, com base em
+divergência jurisprudencial, não havendo que se cogitar de ofensa aos preceitos
+evocados.
+Não conheço.
+(...)
+2 - TERCEIRIZAÇÃO ILÍCITA. ENQUADRAMENTO COMO BANCÁRIO. VANTAGENS
+PREVISTAS EM INSTRUMENTOS NORMATIVOS DA CATEGORIA.
+2.1 - CONHECIMENTO.
+O Regional deu parcial provimento ao recurso ordinário dos reclamados, sob os
+seguintes fundamentos, transcritos nas razões de revista (art. 896, § 1º-A, I, da CLT):
+EQUIPARAÇÃO SALARIAL. O deferimento de diferenças salariais em razão da
+equiparação salarial requer a comprovação dos requisitos contidos no art. 461 da
+CLT, quais sejam: identidade de função, trabalho de igual valor, ou seja com igual
+produtividade e com a mesma perfeição técnica, entre pessoas cuja diferença de
+tempo de serviço não seja superior a 2 (dois) anos, prestado ao mesmo
+empregador e na mesma localidade.
+[...]
+Não merece reforma a sentença que reconheceu a ilicitude da terceirização,
+tendo em vista que a atividade terceirizada foi de execução do processamento de
+cédulas e moedas, realizada nas dependências do banco reclamado, conforme
+contrato firmado entre o banco recorrente e a empresa contratada (Id 1b0e685).
+Tal qual o juízo de origem, reputo que essa atividade de contagem de
+numerário é inerente à atividade-fim do banco, não sendo lícita sua terceirização,
+ainda que tenham sido observadas todas as formalidades legais para a
+contratação, não sendo a hipótese de reconhecimento de vínculo direto com o
+banco, pois não foi requerida pelo autor, além de que existe o óbice legal da
+exigência de concurso público (artigo 37, II, da CF/88), razão pela qual reformo a
+sentença quanto ao vínculo.
+Todavia, mantenho a responsabilidade solidária de todos os reclamados,
+com fulcro nos artigos 9º da CLT e 927 do Código Civil, mormente quando o
+próprio banco confirma que a empresa por ele contratada, subcontratou a
+prestação da mão de obra para a segunda a após para a terceira reclamada,
+devendo todas responder pelos valores eventualmente devidos ao obreiro.
+DAS VERBAS DEFERIDAS
+Insurgem-se o BANCO DO BRASIL e LABOREDOMUS CONSULTORIA E
+SERVICOS EM GESTÃO EMPRESARIAL LTDA. quanto ao deferimento de parcelas
+decorrentes de normas coletivas dos bancários.
+Dou provimento aos recursos para excluir da condenação qualquer parcela
+decorrentes das normas coletivas relativas aos bancários (diferenças salariais, Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F193719294E54.
+participação nos lucros, auxílio alimentação e horas extras, com os requeridos
+reflexos em 13º salário, férias + 1/3, RSR, PLR e FGTS e décima terceira cesta
+alimentação), tendo em vista que não foi reconhecido vínculo empregatício com o
+banco recorrente e as segunda e terceira reclamadas não são signatárias das
+normas coletivas daquela categoria.
+DA EQUIPARAÇÃO SALARIAL AO CAIXA EXECUTIVO DO BANCO. DIFERENÇAS
+SALARIAIS
+BANCO DO BRASIL e LABOREDOMUS CONSULTORIA E SERVICOS EM GESTÃO
+EMPRESARIAL LTDA. recorrem pugnando pela exclusão da condenação das
+diferenças salariais decorrentes da equiparação salarial entre o reclamante e o
+caixa executivo do banco.
+Assiste-lhes razão.
+Não restaram comprovados os requisitos contidos no art. 461 da CLT,
+necessários para o deferimento da equiparação com os caixas executivos do
+Banco reclamados, quais sejam: identidade de função, trabalho de igual valor, ou
+seja com igual produtividade e com a mesma perfeição técnica, entre pessoas cuja
+diferença de tempo de serviço não seja superior a 2 (dois) anos, prestado ao
+mesmo empregador e na mesma localidade.
+[...] Ademais, como antes decidido, os empregadores eram diversos.
+Dou provimento aos recursos para excluir da condenação as diferenças
+salariais deferidas em razão da equiparação salarial.
+Em resposta aos embargos declaratórios opostos pelo reclamante, o Regional
+consignou que (art. 896, § 1º-A, I, da CLT):
+Todavia, a fim de evitar futura alegação de negativa de prestação
+jurisdicional, novamente faz-se os esclarecimentos de que se o trecho transcrito
+nos embargos menciona algumas atividades desenvolvidas tanto pelo recorrente
+como pelos caixas do banco, no trecho transcrito no v. Acórdão são mencionadas
+diversas atividades que não são comuns (Id 2e3d4a2) e para o reconhecimento de
+identidade de função, há necessidade de que todas sejam comuns. (fl. 233-PE)
+O reclamante sustenta que diante da terceirização ilícita faz jus ao pagamento das
+diferenças salariais e normativas dos bancários com base na isonomia salarial. Alega que
+o Regional reconheceu a identidade entre as atividades executadas pelo reclamante e
+pelos caixas executivos do banco. Aduz que a impossibilidade de reconhecimento de
+vínculo diretamente com o tomador não é óbice para o reconhecimento das mesmas
+verbas e salários dos bancários . Aponta violação dos arts. 5º, caput, 7º, XXX, da
+Constituição Federal, 9º, 461 da CLT, 12, a, da Lei nº 6.019/74, além de contrariedade às
+Súmulas 6 e 311, ambas do TST e Orientação Jurisprudencial nº 383 da SBDI-1. Colaciona
+arestos.
+O Regional considerou ilícita a terceirização em razão das atividades desenvolvidas
+serem bancárias. Entretanto, o Regional excluiu da condenação as diferenças
+decorrentes das normas coletivas dos bancários pela impossibilidade de
+reconhecimento de vínculo com o tomador de serviços, ente da administração pública
+indireta.
+Por outro lado, a Corte a quo fundamentou que o reclamante não faz jus às
+diferenças salariais por equiparação com os caixas executivos porque ausente a
+completa identidade de funções e por serem diversos os empregadores.
+No que tange ao enquadramento do autor como bancário, a Carta Magna, ao
+dispor sobre os direitos dos trabalhadores, veda, expressamente, o tratamento
+discriminatório (art. 7º, XXX e XXXII), reforçando não apenas o princípio da igualdade,
+consagrado em seu art. 5º, caput , mas, também, os princípios da dignidade da pessoa
+humana e dos valores sociais do trabalho (art. 1º, III e IV), pilares da República Federativa
+do Brasil.
+Por sua vez, o art. 12 da Lei nº 6.019/1974, de aplicação analógica ao caso concreto,
+estabelece o seguinte:
+"Art. 12 - Ficam assegurados ao trabalhador temporário os seguintes
+direitos:
+a) remuneração equivalente à percebida pelos empregados de mesma
+categoria da empresa tomadora ou cliente calculados à base horária, garantida,
+em qualquer hipótese, a percepção do salário mínimo regional;"
+É certo, portanto, que os trabalhadores contratados por meio de empresa
+interposta fazem jus aos mesmos direitos dos empregados do tomador de serviços,
+desde que, por óbvio, exerçam as mesmas funções que seus empregados, em atividade￾fim. Dá-se, dessa forma, efetividade ao princípio constitucional da isonomia, evitando-se,
+ainda, que a terceirização de serviços seja utilizada como prática discriminatória.
+Por essas razões, é devido o seu enquadramento na categoria dos bancários,
+fazendo jus aos benefícios inerentes à essa categoria .
+Pacificando a discussão, este Tribunal Superior editou a Orientação Jurisprudencial
+n° 383 da SBDI-1, que dispõe:
+"383. TERCEIRIZAÇÃO. EMPREGADOS DA EMPRESA PRESTADORA DE
+SERVIÇOS E DA TOMADORA. ISONOMIA. ART. 12, 'A', DA LEI Nº 6.019, DE
+03.01.1974. (DJe divulgado em 19, 20 e 22.04.2010)
+A contratação irregular de trabalhador, mediante empresa interposta, não
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F193719294E54.
+gera vínculo de emprego com ente da Administração Pública, não afastando,
+contudo, pelo princípio da isonomia, o direito dos empregados terceirizados às
+mesmas verbas trabalhistas legais e normativas asseguradas àqueles contratados
+pelo tomador dos serviços, desde que presente a igualdade de funções. Aplicação
+analógica do art. 12, 'a', da Lei nº 6.019, de 03.01.1974".
+Contudo, não é possível estender ao reclamante as diferenças salariais
+pertinentes a função de caixa executivo, uma vez que o Regional revelou:
+[...] se o trecho transcrito nos embargos menciona algumas atividades
+desenvolvidas tanto pelo recorrente como pelos caixas do banco, no trecho
+transcrito no v. Acórdão são mencionadas diversas atividades que não são comuns
+(Id 2e3d4a2) e para o reconhecimento de identidade de função, há necessidade de
+que todas sejam comuns (fl. 245-PE).
+Oportuno destacar trecho não transcrito pelo recorrente do acórdão recorrido (art.
+896, § 1º-A, I, da CLT):
+Com efeito, das provas dos autos infere-se que o autor trabalhava junto com os
+caixas executivos no CSO Valores, os quais, todavia, desempenhavam atribuições
+distintas das suas que era operador, conforme se depreende do depoimento da
+testemunha MARIA SELMA LIMA DE SOUZA, em Id 5b42067, pag. 3:
+".. .que exerce a função de caixa executivo no CSO Valores; que já trabalhava
+no CSO quanto o reclamante fazia processamento automatizado na empresa; que
+como caixa executivo faz pagamento, recebimento, atende transportadora,
+autentica documentos e faz conferência de assinaturas; que faz a contagem de
+dinheiro na hora do recebimento da transportadora de valores, por blocos de
+milheiros e centena de milheiros, e frações que passam em máquinas; que os
+operadores fazem a contagem e processamento de numerário em máquinas ; que
+esse serviços não é feito pela depoente ou pelos caixas executivos; que os
+operadores não fazem a contagem de valores em milheiros advindos das
+transportadoras; que os operadores não fazem pagamento, recebimento ou
+autenticação de documentos ;...; ...que os caixas podem assinar as guias de
+recebimento, que a autorização, dos valores recebidos das empresa de transporte
+de valores; que os caixas executivos atendem as empresas de transporte de
+valores, por seus prepostos, dentro de uma sala reservada, conferem a identidade
+e o nome registrado no sistema e fazem o recebimento ou entrega de numerário;
+que nos casos de depósito o valor é conferido pelos caixas, a guia é autenticada, e
+o dinheiro segue para a Tesouraria; que da Tesouraria ele é preparado para o
+processamento, quando é entregue ao Supervisor dos Operadores, que faz a
+distribuição; que todos os caixas possuem curso de grafoscopia e guichê, inclusive
+os que trabalham no CSO; que o caixa do CSO faz alívio e reforço de numerário,
+recebendo e enviando para outra Unidade; que o reclamante não fazia esse
+serviço ¿ (grifamos) ¿ (fls. 290/291-PE)
+Nesse contexto, o reclamante somente faz jus às parcelas decorrentes do
+enquadramento como bancário.
+Conheço, por contrariedade à Orientação Jurisprudencial 383 da SBDI-1.
+2.2 - MÉRITO.
+Conhecido o recurso por contrariedade à Orientação Jurisprudencial 383 da SBDI￾1, dou-lhe parcial provimento, para condenar os reclamados ao pagamento das
+vantagens decorrentes do enquadramento do reclamante como bancário,
+restabelecendo a sentença no particular.
+Contra tal decisão, houve a interposição de recurso extraordinário, tendo a Vice-Presidência
+desta Corte, em razão do julgamento de mérito, pelo STF, dos Temas 383 e 725 da tabela de
+repercussão geral, determinado o retorno dos autos, nos termos do art. 1.030, II, do CPC, para
+eventual juízo de retratação.
+À análise.
+No cenário da ordem jurídica até então vigente, a terceirização de atividades constituía
+procedimento extremamente excepcional. As situações-tipo de terceirização lícita estavam
+assentadas pelo texto da Súmula 331/TST, em quatro grupos de situações sociojurídicas: a) situações
+empresariais que autorizassem contratação de trabalho temporário; b) atividades de vigilância
+regidas pela Lei 7.102/83; c) atividades de conservação e limpeza; d) serviços especializados ligados à
+atividade-meio do tomador, desde que, nas três últimas situações-tipo, inexistisse pessoalidade e
+subordinação direta entre trabalhador terceirizado e tomador de serviços.
+Como se sabe, as atividades-meio são aquelas funções e tarefas empresariais e laborais que
+não se ajustam ao núcleo da dinâmica empresarial do tomador de serviços, nem compõem a
+essência dessa dinâmica ou contribuem para a definição de seu posicionamento no contexto
+empresarial e econômico mais amplo. São, portanto, atividades periféricas à essência da dinâmica
+empresarial de serviços ou outras atividades meramente instrumentais, de estrito apoio logístico ao
+empreendimento. Já as atividades-fim podem ser conceituadas como as funções e tarefas
+empresariais e laborais que se ajustam ao núcleo da dinâmica empresarial do tomador de serviços,
+compondo a essência dessa dinâmica e contribuindo inclusive para a definição de seu
+posicionamento e classificação no contexto empresarial e econômico. São, portanto, atividades
+nucleares e definitórias da essência da dinâmica empresarial do tomador dos serviços.
+Destaca-se, por pertinente, que a subordinação jurídica, elemento cardeal da relação de
+emprego, pode se manifestar em qualquer das seguintes dimensões: a tradicional, de natureza
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F193719294E54.
+subjetiva, por meio da intensidade de ordens do tomador de serviços sobre a pessoa física que os
+presta; a objetiva, pela correspondência dos serviços deste aos objetivos perseguidos pelo tomador
+(harmonização do trabalho do obreiro aos fins do empreendimento); a estrutural, mediante a
+integração do trabalhador à dinâmica organizativa e operacional do tomador de serviços,
+incorporando e se submetendo à sua cultura corporativa dominante.
+Reconhecido o vínculo empregatício com a tomadora de serviços, tendo em vista a
+terceirização considerada ilícita, porquanto não se amoldava às quatro situações-tipo de
+terceirização lícita assentadas pela Súmula 331/TST, já que a parte obreira estava inserida no
+processo produtivo da ora Recorrente , sendo a atividade desempenhada, sem dúvida alguma,
+essencial ao funcionamento e à dinâmica empresarial, concluía-se pela notória a existência de
+fraude na terceirização praticada pelas empresas.
+Constatada a ilicitude do contrato de fornecimento de mão de obra, determinava a ordem
+jurídica que se considerasse desfeito o vínculo laboral com o empregador aparente (entidade
+terceirizante), formando-se o vínculo justrabalhista do obreiro diretamente com o tomador de
+serviços (empregador oculto ou dissimulado).
+Sucede que o Plenário do STF, em 30.08.2018, no julgamento da ADPF-324 e do RE-958252, com
+repercussão geral (Tema 725), reconheceu a constitucionalidade do instituto da terceirização de toda
+e qualquer atividade, meio ou fim, afastando a incidência da Súmula 331 do TST.
+Assim, transitado em julgado tal entendimento, é necessário o exame da matéria à luz da tese
+firmada pelo STF, relativamente à possibilidade de terceirização de serviços afetos às atividades
+precípuas das tomadoras de serviço, sendo irrelevante perquirir sobre a natureza das atividades
+exercidas pela empresa contratada, razão pela qual me curvo ao quanto decidido pelo STF.
+Consequentemente, afastado o vínculo de emprego, não se reconhece a responsabilidade
+solidária pelas parcelas inadimplidas da entidade tomadora de serviços, nem tampouco a isonomia
+(OJ 383/SBDI1/TST) e a condenação ao pagamento de direitos e benefícios legais, normativos e/ou
+contratuais dos empregados da tomadora daí decorrentes.
+Remanesce, contudo, a responsabilidade subsidiária em caso de eventual condenação, nos
+termos da decisão do STF (Tema 725) e da Súmula 331, IV/TST.
+Sobre o assunto, inclusive, o Plenário Supremo Tribunal Federal, no julgamento do RE
+635.546/MG, em 06.04.2021, submetido à sistemática de repercussão geral (Tema 383), fixou a tese
+de que "A equiparação de remuneração entre empregados da empresa tomadora de serviços e
+empregados da empresa contratada (terceirizada) fere o princípio da livre iniciativa, por se tratarem de
+agentes econômicos distintos, que não podem estar sujeitos a decisões empresariais que não são suas".
+Eis o teor da ementa vazada no acórdão proferido no aludido RE 635.546/MG, em que figurou
+como Redator o Min. Roberto Barroso, publicado no DEJT de 19.05.2021, igualmente transitado em
+julgado:
+DIREITO CONSTITUCIONAL E DO TRABALHO. TERCEIRIZAÇÃO DE ATIVIDADE-FIM.
+EQUIPARAÇÃO REMUNERATÓRIA. DESCABIMENTO. 1. Recurso extraordinário em que se
+debate se o empregado de empresa contratada teria direito à equiparação
+remuneratória com o empregado da empresa tomadora do serviço, quando ambos
+atuarem na mesma atividade-fim. 2. Conforme decisão proferida pelo Supremo Tribunal
+Federal nos autos da ADPF 324, Rel. Min. Luís Roberto Barroso, a terceirização das
+atividades-meio ou das atividades-fim de uma empresa tem amparo nos princípios
+constitucionais da livre iniciativa e da livre concorrência, que asseguram aos agentes
+econômicos a liberdade de decidir como estruturarão seu negócio (art. 170, caput e inc.
+IV, CF). 3. Do mesmo modo, a decisão sobre quanto pagar ao empregado é tomada por
+cada empresa, de acordo com suas capacidades econômicas, e protegida pelos mesmos
+princípios constitucionais. Portanto, não se pode sujeitar a contratada à decisão da
+tomadora e vice-versa. 4. Além disso, a exigência de equiparação, por via transversa,
+inviabiliza a terceirização para fins de redução de custos, esvaziando o instituto. 5.
+Recurso provido. tese: "A equiparação de remuneração entre empregados da empresa
+tomadora de serviços e empregados da empresa contratada (terceirizada) fere o princípio da
+livre iniciativa, por se tratar de agentes econômicos distintos, que não podem estar sujeitos a
+decisões empresariais que não são suas "
+Já se posiciona a jurisprudência mais recente desta Corte, conforme ilustram os seguintes
+julgados das Turmas em juízo de retratação:
+RECURSO DE REVISTA. INTERPOSIÇÃO ANTES DA VIGÊNCIA DA LEI N.º 13.015/2014.
+APELO APRECIADO ANTERIORMENTE POR ESTA TURMA. TERCEIRIZAÇÃO DE SERVIÇOS.
+LICITUDE. TEMAS 725 E 383 DE REPERCUSSÃO GERAL DO STF. EXERCÍCIO DE JUÍZO DE
+RETRATAÇÃO (ART. 1.030, II, DO CPC/2015). Cinge-se a questão controvertida a examinar
+a licitude da terceirização. O STF, no julgamento do RE n.º 958.252 (Tema 725 da Tabela
+de Repercussão Geral) e da ADPF 324, fixou a tese quanto à licitude da terceirização de
+serviços, independentemente do tipo de atividade e/ou objeto social da empresa, salvo
+nas hipóteses em que comprovada a subordinação direta com o tomador de serviços.
+Ademais, a Suprema Corte, quando do julgamento do RE 635.546 (Tema 383 de
+repercussão geral), firmou a tese de que " A equiparação de remuneração entre
+empregados da empresa tomadora de serviços e empregados da empresa contratada
+(terceirizada) fere o princípio da livre iniciativa, por se tratarem de agentes econômicos
+distintos, que não podem estar sujeitos a decisões empresariais que não são suas" .
+Cabe enfatizar, por oportuno, que, diante da tese fixada pelo STF, de caráter vinculante e
+eficácia erga omnes , se encontra superada a diretriz inserta na Orientação
+Jurisprudencial n.º 383 da SBDI-1 desta Corte. Precedentes. No caso em apreço, a Corte
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F193719294E54.
+de Origem reformou a decisão de 1.ª instância ao reconhecer a validade da terceirização
+havida e da relação de emprego entre o autor e a segunda reclamada e, como
+decorrência, afastou o reconhecimento da relação de emprego com o primeiro
+reclamado e da condição de bancário. Assim, estando a decisão regional em
+conformidade com as teses fixada pela Suprema Corte, quando do julgamento dos
+Temas 725 e 383 da Tabela de Repercussão Geral, a revisão pretendida encontra-se
+obstada pela Súmula n.º 333 do TST e pelo art. 896, § 7.º, da CLT. Recurso de Revista não
+conhecido. (RR-1203-66.2011.5.04.0004, 1ª Turma, Relator Ministro Luiz Jose Dezena da
+Silva, DEJT 30/03/2026).
+I - JUÍZO DE RETRATAÇÃO. AGRAVO EM AGRAVO DE INSTRUMENTO EM RECURSO
+DE REVISTA DA RECLAMADA INTERPOSTO ANTES DA VIGÊNCIA DA LEI 13.015/2014.
+TERCEIRIZAÇÃO LÍCITA. TEMA 725 DO STF (RE 958.252). VÍNCULO DE EMPREGO
+DIRETAMENTE COM O TOMADOR DE SERVIÇOS. IMPOSSIBILIDADE. ENQUADRAMENTO
+SINDICAL. SUBORDINAÇÃO ESTRUTURAL. TESE SUPERADA. 1 - Trata-se de processo que
+retorna a esta Turma, por determinação da Vice-Presidência do TST, para o exercício de
+eventual juízo de retratação, conforme prevê o art. 1.030, II, do CPC. 2 - Por verificar que
+a decisão proferida por este Colegiado aparentemente contraria o entendimento do STF,
+pacificado no julgamento dos Temas 725 e 383, deve ser exercido o juízo de retratação.
+Juízo de retratação exercido. II - AGRAVO EM AGRAVO DE INSTRUMENTO EM RECURSO
+DE REVISTA DA RECLAMADA INTERPOSTO NA VIGÊNCIA DA LEI 13.015/2014.
+TERCEIRIZAÇÃO LÍCITA. TEMA 725 DO STF (RE 958.252). VÍNCULO DE EMPREGO
+DIRETAMENTE COM O TOMADOR DE SERVIÇOS. IMPOSSIBILIDADE. ENQUADRAMENTO
+SINDICAL. SUBORDINAÇÃO ESTRUTURAL. TESE SUPERADA. Demonstrada possível
+violação dos arts. 2.º e 3.º da CLT, deve ser provido o agravo da reclamada, para se
+determinar o reexame do seu agravo de instrumento. Agravo provido. III - AGRAVO DE
+INSTRUMENTO EM RECURSO DE REVISTA DA RECLAMADA INTERPOSTO ANTES DA
+VIGÊNCIA DA LEI 13.015/2014. TERCEIRIZAÇÃO LÍCITA. TEMA 725 DO STF (RE 958.252).
+VÍNCULO DE EMPREGO DIRETAMENTE COM O TOMADOR DE SERVIÇOS.
+IMPOSSIBILIDADE. ENQUADRAMENTO SINDICAL. SUBORDINAÇÃO ESTRUTURAL. TESE
+SUPERADA. Demonstrada possível violação dos arts. 2.º e 3.º da CLT, impõe-se o
+provimento do agravo de instrumento para determinar o processamento do recurso de
+revista. Agravo de instrumento conhecido e provido. IV - RECURSO DE REVISTA DA
+RECLAMADA INTERPOSTO ANTES DA VIGÊNCIA DA LEI 13.015/2014. TERCEIRIZAÇÃO
+LÍCITA. TEMA 725 DO STF (RE 958.252). VÍNCULO DE EMPREGO DIRETAMENTE COM O
+TOMADOR DE SERVIÇOS. IMPOSSIBILIDADE. ENQUADRAMENTO SINDICAL.
+SUBORDINAÇÃO ESTRUTURAL. TESE SUPERADA. 1 - A decisão do Tribunal Regional que
+reconhece o vínculo de emprego diretamente com o tomador dos serviços, com apoio no
+exercício de suas atividades típicas e na teoria da subordinação estrutural contraria a
+jurisprudência vinculante do Supremo Tribunal Federal. 2 - O Tema 725 da Tabela de
+Repercussão Geral (RE 958.252/STF) firmou a tese da licitude da terceirização em todas
+as etapas do processo produtivo (atividade-meio e atividade-fim), afastando o
+reconhecimento de vínculo de emprego com o tomador dos serviços. 3 - A tese da
+subordinação estrutural como fundamento para o vínculo empregatício direto encontra￾se superada em face da jurisprudência do STF sobre terceirização. 4 - Afastado o vínculo
+com o tomador, é indevida a extensão de direitos e o enquadramento sindical na
+categoria profissional de seus empregados, conforme decidido no RE 635.546 (Tema
+383). Inaplicabilidade da Súmula 383 do TST e do art. 12, "a", da Lei 6.019/1974. 5 -
+Ausente, por sua vez, na análise do caso concreto, elementos fáticos relevantes para a
+caracterização do distinguishing (distinção) quanto às teses fixadas pelo STF. 6 - Violação
+dos arts. 2.º e 3.º da CLT. Recurso de revista conhecido e provido. (RR-1422-
+31.2011.5.06.0002, 2ª Turma, Relatora Ministra Delaide Alves Miranda Arantes, DEJT
+04/05/2026).
+A) AGRAVOS DE INSTRUMENTO EM RECURSOS DE REVISTA. ACÓRDÃO REGIONAL
+PUBLICADO ANTES DA VIGÊNCIA DAS LEIS Nº 13.015/2014 E 13.467/2017. RETORNO DOS
+AUTOS PARA EVENTUAL JUÍZO DE RETRATAÇÃO. ART. 1.030, II, DO CPC/2015.
+TERCEIRIZAÇÃO. TELEMARKETING. LICITUDE. ISONOMIA SALARIAL. TEMAS 725 E 383 DA
+TABELA DE REPERCUSSÃO GERAL DO STF. CONHECIMENTO E PROVIMENTO. I. Trata-se de
+remessa dos autos pela Vice-Presidência desta Corte para eventual juízo de retratação
+previsto no art. 1.030, II, do CPC. II. Diante da possível contrariedade às teses vinculantes
+fixadas pelo STF nos Temas 725 e 383 de repercussão geral, dá-se provimento aos
+agravos de instrumento. III. Juízo de retratação exercido. IV. Agravos de instrumento
+conhecidos e providos. B) RECURSOS DE REVISTA. ACÓRDÃO REGIONAL PUBLICADO
+ANTES DA VIGÊNCIA DAS LEIS Nº 13.015/2014 E 13.467/2017. RETORNO DOS AUTOS PARA
+EVENTUAL JUÍZO DE RETRATAÇÃO. ART. 1.030, II, DO CPC/2015 TERCEIRIZAÇÃO.
+TELEMARKETING. LICITUDE. ISONOMIA SALARIAL. TEMAS 725 E 383 DA TABELA DE
+REPERCUSSÃO GERAL DO STF. CONHECIMENTO E PROVIMENTO. I. Discute-se nos autos a
+licitude de terceirização de atividades fins, bem como a isonomia de direitos entre os
+terceirizados e os empregados da tomadora de serviços. II. A questão já está resolvida
+pelo Supremo Tribunal Federal, que reconheceu a repercussão geral em relação ao tema
+da terceirização, cujo deslinde se deu em 30/08/2018, com o julgamento do RE nº
+958.252, de que resultou a fixação da seguinte tese jurídica: "é lícita a terceirização ou
+qualquer outra forma de divisão do trabalho entre pessoas jurídicas distintas,
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F193719294E54.
+independentemente do objeto social das empresas envolvidas, mantida a responsabilidade
+subsidiária da empresa contratante". III. Ademais, ao apreciar e ¿julgar o Tema nº 383 da
+Tabela de Repercussão Geral, no RE nº 635.546 (Redator¿ Ministro Roberto Barroso), o
+Supremo Tribunal Federal, fixou a seguinte tese¿ jurídica, em 26/03/2021: "A equiparação
+de remuneração entre empregados da empresa tomadora de serviços e empregados da¿
+empresa contratada (terceirizada) fere o princípio da livre iniciativa, por se¿ tratarem de
+agentes econômicos distintos, que não podem estar sujeitos a ¿decisões empresariais que
+não sãos suas". IV. Na hipótese, o acórdão anteriormente proferido por esta Quarta
+Turma manteve o reconhecimento da ilicitude da terceirização e deferiu isonomia
+salarial, entendimento que diverge da orientação atual e vinculante do Supremo
+Tribunal Federal. V. Assim, no exercício do juízo de retratação, reforma-se a decisão
+anteriormente proferida, a fim de se prestigiar a aplicação de tese vinculante da
+Suprema Corte, para afastar a ilicitude da terceirização e a condenação ao pagamento
+de parcelas fundadas na isonomia salarial. VI. Recursos de revista conhecidos e providos.
+(RR-1325-11.2013.5.03.0013, 4ª Turma, Relator Ministro Alexandre Luiz Ramos, DEJT
+30/04/2026).
+I. JUÍZO DE RETRATAÇÃO. ARTIGO 543-B DO CPC/1973 (ARTIGO 1.041, CAPUT , §1º,
+DO CPC/2015). ADMINISTRAÇÃO PÚBLICA INDIRETA. TERCEIRIZAÇÃO. DESEMPENHO DE
+ATIVIDADE-FIM DO TOMADOR. LICITUDE. RESPONSABILIDADE SUBSIDIÁRIA. NÃO
+CONFIGURAÇÃO. TEMA 725 DA TABELA DE REPERCUSSÃO GERAL DO STF. 1. Esta Quinta
+Turma, em acórdão pretérito, negou provimento ao agravo interposto pela segunda
+Reclamada (EQUATORIAL GOIÁS DISTRIBUIDORA DE ENERGIA S.A, antiga CELG), por
+entender ilícita a terceirização da atividade-fim da tomadora dos serviços, sendo
+mantida, assim, sua responsabilização subsidiária pelos créditos trabalhistas devidos ao
+Reclamante, com base na Súmula 331/TST. O Tribunal Regional, muito embora tenha
+fundamentado não ser possível o reconhecimento do vínculo de emprego diretamente
+com o Ente integrante da Administração Pública Indireta, consignou a ilicitude da
+terceirização, por envolver a atividade-fim da tomadora de serviços. Asseverou que "
+embora o art. 25, § 1º, da Lei 8.987/1995 autorize a contratação de mão de obra
+terceirizada para a realização de "atividades inerentes" ao serviço das concessionárias,
+prevalece o entendimento de que a permissibilidade legal ligada à referida terceirização
+limita-se às atividades-meio da tomadora dos serviços ". 2. Retornam os autos a este
+Colegiado, por determinação do Exmo. Ministro Vice-Presidente do Tribunal Superior do
+Trabalho, para manifestação acerca da necessidade ou não de exercer eventual juízo de
+retratação nos termos do artigo 543-B, § 3º, do CPC/1973 (art. 1.041, caput, § 1º, do
+CPC/2015), em razão da tese jurídica firmada pelo Supremo Tribunal Federal ( Temas 725
+e 383 do Ementário de Repercussão Geral do STF). 3. O Plenário do Supremo Tribunal
+Federal, em 30/08/2018, ao julgar a Arguição de Descumprimento de Preceito
+Fundamental 324 e o Recurso Extraordinário 958.252, com repercussão geral e efeito
+vinculante, firmou entendimento no sentido de ser lícita a terceirização de toda e
+qualquer atividade, meio ou fim, não se estabelecendo relação de emprego entre a
+tomadora de serviços e o empregado da empresa prestadora (Tema 725 do Ementário
+de Repercussão Geral do STF). 4. Assim, verificando-se que a decisão deste Colegiado foi
+proferida em desconformidade com a orientação do STF, impõe-se o exercício do juízo
+de retratação e o reexame do recurso interposto, nos termos do artigo 543-B, § 3º, do
+CPC/73 (artigo 1.041, § 1º, do CPC/2015). II. RECURSO DE REVISTA NÃO REGIDO PELA LEI
+13.015/2014. ENTE DA ADMINISTRAÇÃO PÚBLICA. TERCEIRIZAÇÃO. DESEMPENHO DE
+ATIVIDADE-FIM DO TOMADOR. LICITUDE. RESPONSABILIDADE SUBSIDIÁRIA. NÃO
+CONFIGURAÇÃO. TEMA 725 DA TABELA DE REPERCUSSÃO GERAL DO STF. 1. O Tribunal
+Regional, muito embora tenha fundamentado não ser possível o reconhecimento do
+vínculo de emprego diretamente com o Ente integrante da Administração Pública
+Indireta, consignou a ilicitude da terceirização, por envolver a atividade-fim da tomadora
+de serviços. Asseverou que " embora o art. 25, § 1º, da Lei 8.987/1995 autorize a
+contratação de mão de obra terceirizada para a realização de "atividades inerentes" ao
+serviço das concessionárias, prevalece o entendimento de que a permissibilidade legal ligada
+à referida terceirização limita-se às atividades-meio da tomadora dos serviços" . 2. A
+possibilidade de terceirização de forma ampla, nas atividades meio e fim das empresas,
+foi tema objeto da Arguição de Descumprimento de Preceito Fundamental (ADPF) 324 e
+do Recurso Extraordinário (RE) 958252, julgados pelo Supremo Tribunal Federal em
+30/08/2018. Sobre essa questão, a Excelsa Corte, em regime de repercussão geral,
+consolidou a tese jurídica no sentido de que " é lícita a terceirização ou qualquer outra
+forma de divisão do trabalho entre pessoas jurídicas distintas, independentemente do
+objeto social das empresas envolvidas, mantida a responsabilidade subsidiária da
+empresa contratante", afastando, assim, a configuração da relação de emprego com o
+tomador dos serviços. 3. O Tribunal Regional, ao reconhecer a ilicitude da terceirização
+de serviços havida entre as Reclamadas e, por esse motivo, manter a responsabilidade
+subsidiária da tomadora dos serviços, incorreu em violação do art. 25, § 1º, da Lei
+8.987/1995. Recurso de revista conhecido e provido. (RR-RR-1443-44.2012.5.18.0129, 5ª
+Turma, Relator Ministro Douglas Alencar Rodrigues, DEJT 13/04/2026).
+I- AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. ACÓRDÃO ANTERIOR À
+VIGÊNCIA DA LEI Nº 13.467/2017. APRECIAÇÃO DE EVENTUAL JUÍZO DE RETRATAÇÃO .
+TEMAS Nos 383 E 725 DA TABELA DE REPERCUSSÃO GERAL DO STF. TERCEIRIZAÇÃO DE
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F193719294E54.
+SERVIÇOS. LABOR EM ATIVIDADE-FIM. LICITUDE. ISONOMIA SALARIAL. Retornam os autos
+à Sexta Turma em virtude de determinação da Vice-Presidência desta Corte superior que,
+considerando o julgamento do leading case 635.546/MG (Tema nº 383 da Tabela de
+Repercussão Geral do Supremo Tribunal Federal), transitado em julgado em 9/2/2024,
+entendeu devida a observância do procedimento previsto no art. 1.030, II, do CPC.
+Aconselhável o provimento do Agravo de Instrumento para que se examine eventual
+necessidade de admitir-se o Recurso de Revista para adequação à tese vinculante do
+Supremo Tribunal Federal. Juízo de retratação exercido. Agravo de Instrumento provido.
+II - RECURSO DE REVISTA. ACÓRDÃO ANTERIOR À VIGÊNCIA DA LEI Nº 13.467/2017.
+APRECIAÇÃO DE EVENTUAL JUÍZO DE RETRATAÇÃO. TEMAS Nos 383 E 725 DA TABELA DE
+REPERCUSSÃO GERAL DO STF. TERCEIRIZAÇÃO DE SERVIÇOS. LABOR EM ATIVIDADE-FIM.
+LICITUDE. ISONOMIA SALARIAL. A partir do julgamento do RE nº 958.252 e da ADPF nº
+354 pelo Supremo Tribunal Federal a matéria em discussão acerca da ilicitude da
+terceirização de atividade-fim pacificou-se e encontra o seu norte nos termos da decisão
+vinculante daquela Corte Suprema que, ao julgar o mérito da controvérsia atinente ao
+Tema nº 725 da Repercussão Geral, definiu a tese jurídica segundo a qual "é lícita a
+terceirização ou qualquer outra forma de divisão do trabalho entre pessoas jurídicas
+distintas, independentemente do objeto social das empresas envolvidas, mantida a
+responsabilidade subsidiária da empresa contratante". No que tange a controvérsia acerca
+da isonomia salarial, a Suprema Corte, no julgamento do Tema nº 383 da Tabela de
+Repercussão Geral, fixou a seguinte tese: "A equiparação de remuneração entre
+empregados da empresa tomadora de serviços e empregados da empresa contratada
+(terceirizada) fere o princípio da livre iniciativa, por se tratarem de agentes econômicos
+distintos, que não podem estar sujeitos a decisões empresariais que não são suas". Assim, a
+decisão do Regional, naquilo em que entendeu pela ilicitude da terceirização e pelo
+reconhecimento de isonomia entre a Reclamante e os empregados da empresa pública
+tomadora de serviço, encontra-se superada pela jurisprudência vinculante do Pretório
+Excelso, merecendo reforma o acórdão recorrido, a fim de reconhecer a licitude da
+terceirização e afastar as condenações impostas pelo acórdão regional, a exemplo de
+direitos previstos em normas coletivas da categoria do tomador ou no regulamento
+interno da empresa, equiparação salarial, ou quaisquer outros que tenham como base
+jurídica de sustentação a irregularidade do contrato de terceirização de atividade-fim e a
+isonomia entre o Reclamante e os empregados da tomadora de serviço. Recurso de
+Revista conhecido e provido. (RR-346-57.2015.5.03. 0020, 6ª Turma, Relator Ministro
+Antônio Fabricio de Matos Gonçalves, DEJT 05/05/2026).
+RECURSO DE REVISTA DA PARTE RÉ CAIXA ECONÔMICA FEDERAL. TERCEIRIZAÇÃO
+EM ATIVIDADE-FIM. POSSIBILIDADE. AUSÊNCIA DE VÍNCULO DIRETO COM A TOMADORA
+DOS SERVIÇOS. MATÉRIA SEDIMENTADA PELA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL
+FEDERAL. APLICAÇÃO DA TESE FIXADA NO TEMA Nº 725 DE REPERCUSSÃO GERAL.
+IMPOSSIBILIDADE DE ISONOMIA SALARIAL. TEMA Nº 383 DE REPERCUSSÃO GERAL.
+SUPERAÇÃO ( OVERRULING ) DA ORIENTAÇÃO JURISPRUDENCIAL Nº 383 DA SDI-1 DO TST.
+JUÍZO DE RETRATAÇÃO EXERCIDO. O debate acerca da licitude da terceirização em
+atividade-fim não comporta maiores digressões, a partir da jurisprudência pacífica do
+Supremo Tribunal Federal. Trata-se do tema nº 725 de repercussão geral, assim definido:
+"1. É lícita a terceirização de toda e qualquer atividade, meio ou fim, não se configurando
+relação de emprego entre a contratante e o empregado da contratada. 2. Na terceirização,
+compete à contratante: i) verificar a idoneidade e a capacidade econômica da terceirizada; e
+ii) responder subsidiariamente pelo descumprimento das normas trabalhistas, bem como por
+obrigações previdenciárias, na forma do art. 31 da Lei 8.212/1993". Já a tese fixada no Tema
+nº 383 de Repercussão Geral afasta, inclusive, a possibilidade de se conferir ao
+trabalhador terceirizado isonomia salarial com os empregados da tomadora: "A
+equiparação de remuneração entre empregados da empresa tomadora de serviços e
+empregados da empresa contratada (terceirizada) fere o princípio da livre iniciativa, por se
+tratarem de agentes econômicos distintos, que não podem estar sujeitos a decisões
+empresariais que não são suas". Impõe-se reconhecer, portanto, a improcedência dos
+pedidos calcados na pretensa isonomia. O novo contexto jurídico surgido com a edição
+das teses acima referidas torna inaplicável a Orientação Jurisprudencial nº 383 da SDI-1
+do TST, pelo fenômeno da superação ou overruling. Quanto à parcela remanescente,
+no tocante à responsabilidade do tomador de serviços, é certo que o Supremo
+Tribunal Federal consagrou ser subsidiária, mas, em se tratando de ente público, essa
+tese deve ser conjugada com outra, expressa no julgamento do RE 760.931, também com
+repercussão geral: "O inadimplemento dos encargos trabalhistas dos empregados do
+contratado não transfere automaticamente ao Poder Público contratante a responsabilidade
+pelo seu pagamento, seja em caráter solidário ou subsidiário, nos termos do art. 71, § 1º, da
+Lei nº 8.666/93". Na hipótese, o Tribunal Regional não examinou eventual conduta
+culposa do reclamado, o que impede o reconhecimento de sua responsabilidade.
+Necessário adequar a decisão outrora proferida por esta Turma à jurisprudência
+pacificada pelo Supremo Tribunal Federal, com repercussão geral. Juízo de retratação
+exercido. Recurso de revista conhecido e provido. (RR-131300-78.2008.5.06.0013, 7ª
+Turma, Relator Ministro Claudio Mascarenhas Brandao, DEJT 10/04/2026).
+JUÍZO DE RETRATAÇÃO. AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA.
+TERCEIRIZAÇÃO DE SERVIÇOS LIGADOS À ATIVIDADE-FIM DA TOMADORA. LICITUDE. TEMA
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F193719294E54.
+725 DO STF. MANUTENÇÃO DA CONDENAÇÃO PELO PRINCÍPIO DA ISONOMIA.
+INVIABILIDADE. TEMA 383 DO STF. JUÍZO DE RETRATAÇÃO EXERCIDO. I. O acórdão
+anteriormente proferido por esta Turma, no qual se considerou ilícita a terceirização de
+serviços ligados à atividade-fim da empresa tomadora, encontra-se em dissonância com
+as teses proferidas pelo Supremo Tribunal Federal nos Temas 725 e 383. II. Agravo de
+instrumento de que se conhece e a que se dá provimento, no exercício de juízo de
+retratação, para proceder ao processamento do recurso de revista. JUÍZO DE
+RETRATAÇÃO. RECURSO DE REVISTA. TERCEIRIZAÇÃO DE SERVIÇOS LIGADOS À
+ATIVIDADE-FIM DA TOMADORA. LICITUDE. TEMA 725 DO STF. MANUTENÇÃO DA
+CONDENAÇÃO PELO PRINCÍPIO DA ISONOMIA. INVIABILIDADE. TEMA 383 DO STF. JUÍZO
+DE RETRATAÇÃO EXERCIDO. I. Nos termos do decidido na ADPF 324 e da tese fixada no
+Tema 725, é lícita a terceirização de serviços ligados à atividade-fim da tomadora de
+serviços. II. No caso dos autos, o Tribunal Regional entendeu irregular a terceirização de
+serviços relacionados à atividade-fim da empresa contratante, sem registrar nenhum
+elemento de possível distinção em relação à jurisprudência vinculante firmada na ADPF
+324 e no Tema 725. III. Esclareça-se que não há falar em manutenção da condenação
+com base no princípio da isonomia, pois a tese firmada no Tema 383 do STF afasta a
+possibilidade de se conferir ao trabalhador terceirizado equiparação remuneratória com
+os empregados da tomadora de serviços. III. Juízo de retratação que se exerce para
+conhecer do recurso de revista e dar-lhe provimento. (RR-1279-35.2013.5.06.0014, 8ª
+Turma, Relator Ministro Evandro Pereira Valadão Lopes, DEJT 23/04/2026).
+No caso vertente, à luz do entendimento do E. STF, há de ser afastada a ilicitude da
+terceirização.
+Saliente-se, ainda, não ser o caso de eventual aplicação de distinguishing ao presente caso,
+porquanto não registrado, no acórdão regional, nenhum dos elementos necessários à configuração
+do vínculo de emprego.
+Ante o exposto, EXERÇO OJUÍZO DERETRATAÇÃO previsto no art. 1030, II, do CPC/2015 e
+CONHEÇO do recurso de revista por violação ao art. 3º da CLT e por contrariedade às teses
+vinculantes firmadas pelo STF nos Temas 725 e 383 da tabela de repercussão geral (art. 251, III, do
+RITST).
+B) RECURSO DE REVISTA
+II) MÉRITO
+TERCEIRIZAÇÃO TRABALHISTA. ADEQUAÇÃO AO ENTENDIMENTO DO STF (TEMAS 725 E 383 DE
+REPERCUSSÃO GERAL NO STF). TERCEIRIZAÇÃO LÍCITA. DIREITOS E BENEFÍCIOS LEGAIS, NORMATIVOS
+E/OU CONTRATUAIS DOS EMPREGADOS DA TOMADORA DAÍ DECORRENTES. IMPOSSIBILIDADE.
+Como corolário do conhecimento do recurso de revista, por ofensa ao art. 5º, II, da CF e por
+contrariedade às teses vinculantes firmadas pelo STF nos Temas 383 e 725 da tabela de repercussão
+geral (art. 251, III, do RITST), no mérito, DOU-LHE PROVIMENTO para reconhecer a licitude da
+terceirização e, por conseguinte, julgar improcedentes os pedidos formulados na inicial com espeque
+na declaração de ilicitude da terceirização, remanescendo a responsabilidade subsidiária da
+empresa tomadora quanto às demais parcelas reconhecidas no presente feito. Prejudicado o
+recurso de revista do Reclamante, quanto ao tema em comum.
+Quanto a responsabilidade subsidiária por parcela remanescente, constata-se
+que, no caso, a Corte de origem foi clara ao consignar a condenação ao pagamento de adicional de
+insalubridade.
+Ocorre que, na sessão havida no dia 17.12.2025, a matéria relativa às
+implicações do julgamento trazido pelo STF no Tema 1.118 de Repercussão Geral foi debatida
+amplamente pelos Membros deste Órgão, a fim de que se pudesse haver a pacificação interna da
+jurisprudência da 3ª Turma, ressalvando-se o entendimento se fosse o caso. Objetivou-se, dessa
+maneira, em respeito ao espírito democrático que rege as decisões colegiadas, a definição das
+peculiares situações que autorizam a declaração da responsabilidade subsidiária da entidade
+pública – com agilização do julgamento dos processos (art. 5º, LXXVIII, da CF) e consecução da
+atribuição do Tribunal Superior do Trabalho como Órgão de uniformização da jurisprudência
+trabalhista no País.
+Prevaleceu o entendimento majoritário da 3ª Turma no sentido de que o STF, no
+item 3 do Tema 1.118 de Repercussão Geral, ao estabelecer a responsabilidade subsidiária da
+Administração Pública em matéria de saúde e segurança, excepcionou apenas parcelas dessa natureza,
+não tendo o alcance de autorizar a extensão do dever a outras verbas trabalhistas inadimplidas.
+Em consequência, ressalva-se o entendimento deste Relator.
+Com efeito, o STF, no item 3 do Tema 1.118, resguardou a possibilidade de
+responsabilização da Administração Pública quando constatada a negligência no dever de se
+assegurarem ao trabalhador condições de segurança, higiene e salubridade: “3. Constitui
+responsabilidade da Administração Pública garantir as condições de segurança, higiene e salubridade dos
+trabalhadores, quando o trabalho for realizado em suas dependências ou local previamente convencionado
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F193719294E54.
+em contrato, nos termos do art. 5º-A, § 3º, da Lei nº 6.019/1974”.
+É excepcional, dessa forma, a situação em que a empresa descumpre direitos
+básicos de segurança, higiene e salubridade no ambiente laboral. Verificada a inadimplência nesse
+âmbito, não há como desonerar o Estado da responsabilidade subsidiária quanto ao pagamento
+das verbas respectivas reconhecidas judicialmente, na medida em que tais direitos recebem
+proteção especial em âmbito constitucional. A garantia diz respeito à higidez física da pessoa humana
+que vive do trabalho, estando imantada por regra imperativa da Constituição da República, constante
+no art. 7º, XXII, CF, que determina o absoluto prestígio das normas de saúde, higiene e segurança que
+materializam a preocupação pela redução dos riscos inerentes ao trabalho. Pelo Texto Magno, a saúde e
+segurança laborais são direito subjetivo obreiro, constituindo, ainda, parte integrante e exponencial de
+uma política de saúde pública no País. Por isso, o Supremo Tribunal Federal, de forma adequada e
+atenta aos princípios e regras jurídicas que asseguram patamares mínimos de cidadania e dignidade ao
+indivíduo que labora (ilustrativamente, art. 1º, caput e inciso III; art. 3º, caput e incisos I, II e IV; art. 6º;
+art. 7º, caput e inciso XXII; art. 170, caput; art. 194, caput; art. 196; art. 197; art. 200, caput e inciso II, in
+fine, todos da CF/88), preservou o direito à garantia patrimonial advinda da responsabilidade subsidiária
+da Administração na hipótese de inadimplemento de parcelas dessa natureza.
+Verificada, assim, a violação ao dever de garantia de condições de segurança,
+higiene e salubridade, tem incidência a responsabilidade subsidiária da Administração Pública.
+Assim, nessa linha de raciocínio, este Relator ressalva seu entendimento pessoal,
+embora confira, por óbvio, e em respeito ao princípio da colegialidade, plena efetividade à decisão da
+maioria desta 3ª Turma, no sentido de aplicar o enunciado contido no item 3 do Tema 1.118 RG/STF para
+manter a responsabilidade subsidiária da Administração Pública com relação ao adicional de
+insalubridade e reflexos e, aplicando o item 1 do Tema 1.118RG/STF, afastar a responsabilidade
+subsidiária da Administração Pública com relação às demais parcelas.
+Pelo exposto, DOU PROVIMENTO aos embargos de declaração apenas para
+prestar esclarecimentos, sem atribuir efeito modificativo ao julgado.
+ISTO POSTO
+ACORDAM os Ministros da Terceira Turma do Tribunal Superior do Trabalho, à
+unanimidade, dar provimento aos embargos de declaração para prestar esclarecimentos, sem atribuir
+efeito modificativo ao julgado.
+Brasília, 1 de setembro de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+MAURICIO GODINHO DELGADO
+Ministro Relator
+Firmado por assinatura digital em 03/09/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F193719294E54.
