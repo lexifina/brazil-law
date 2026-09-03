@@ -1,0 +1,410 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Superior do Trabalho
+PROCESSO Nº TST-EDCiv-Ag-AIRR - 11045-41.2021.5.03.0071
+A C Ó R D Ã O
+3ª Turma
+GMMGD/af
+EMBARGOS DE DECLARAÇÃO. AGRAVO. AGRAVO DE
+INSTRUMENTO. RECURSO DE REVISTA. OMISSÃO.
+INEXISTÊNCIA. A matéria sobre a qual a Parte Embargante alega
+ter havido omissão – “dispensa sem justa causa – empregado
+público – reintegração – art. 896, § 1º-A, I, da CLT” - foi
+devidamente analisada e fundamentada no acórdão
+embargado, em consonância com o princípio constitucional da
+motivação das decisões judiciais (art. 93, IX, da CF), também
+referido na lei ordinária - arts. 832 da CLT e 489 do CPC/2015. Se
+a argumentação posta nos embargos não se insere em nenhum
+dos vícios mencionados nos arts. 897-A da CLT e 1.022 do
+CPC/2015, deve ser desprovido o recurso. Embargos de
+declaração desprovidos.
+Vistos, relatados e discutidos estes autos de Embargos de Declaração Cível em
+Agravo em Agravo de Instrumento em Recurso de Revista nº TST-EDCiv-Ag-AIRR - 11045-
+41.2021.5.03.0071, em que é Embargante MGS - MINAS GERAIS ADMINISTRAÇÃO E SERVIÇOS S.A. e é
+Embargada SERAFINA BORGES DE CAMARGO CHAGAS.
+A 3ª Turma negou provimento ao agravo.
+A Parte Reclamada interpõe embargos de declaração, alegando omissão no
+julgado.
+É o relatório.
+V O T O
+I) CONHECIMENTO
+Atendidos os pressupostos recursais, CONHEÇO dos embargos de declaração.
+II) MÉRITO
+EMBARGOS DE DECLARAÇÃO. AGRAVO. AGRAVO DE INSTRUMENTO. RECURSO
+DE REVISTA. OMISSÃO. INEXISTÊNCIA
+Nos embargos de declaração, a Parte alega omissão no julgado. Aduz que o
+acordão deixou de se manifestar acerca da questão atinente a controvérsia nº 50.012 do STF, que trata
+da possibilidade de superação de óbices processuais para viabilizar a análise de tese constitucional
+vinculante. Sustenta que, diante da vinculação direta do caso à matéria constitucional objeto da
+Controvérsia nº 50.012 e do Tema 1022 do STF, impõe-se o sobrestamento do feito.
+Sem razão, contudo.
+A matéria suscitada nos embargos de declaração já foi objeto de pronunciamento
+por esta Corte no acórdão embargado, que assim foi fundamentado: Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F1955265ECDD9.
+‘AGRAVO. AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA.DISPENSA SEM JUSTA
+CAUSA. EMPREGADO PÚBLICO. REINTEGRAÇÃO. ART. 896, § 1º-A, I, DA CLT. EXIGÊNCIA DE
+TRANSCRIÇÃO DOS FUNDAMENTOS EM QUE SE IDENTIFICA O PREQUESTIONAMENTO DA MATÉRIA
+OBJETO DE RECURSO DE REVISTA. TRANSCRIÇÃO INSUFICIENTE. ÓBICE ESTRITAMENTE
+PROCESSUAL. TRANSCENDÊNCIA NÃO ANALISADA. Nos termos do art. 896, § 1º-A, I, da CLT, incluído
+pela Lei n. 13.015/2014, a transcrição dos fundamentos em que se identifica o prequestionamento da
+matéria impugnada constitui exigência formal à admissibilidade do recurso de revista. Havendo
+expressa exigência legal de indicação do trecho do julgado que demonstre o enfrentamento da
+matéria pelo Tribunal Regional, evidenciando o prequestionamento, a ausência desse pressuposto
+intrínseco torna insuscetível de veiculação o recurso de revista. Nesse sentido, saliente-se que o
+trecho transcrito no apelo, não tem o condão de suprir a exigência preconizada no art. 896, § 1º￾A, I, da CLT, porquanto não se verificam, no referido excerto, todos os fundamentos de fato e de
+direito utilizados pelo TRT no enfrentamento da matéria impugnada. Assim sendo, a decisão
+agravada foi proferida em estrita observância às normas processuais (art. 557, caput, do CPC/1973;
+arts. 14 e 932, IV, "a", do CPC/2015), razão pela qual é insuscetível de reforma ou reconsideração.
+Agravo desprovido.
+Vistos, relatados e discutidos estes autos deAgravo em Agravo de Instrumento em Recurso
+de Revista nº TST-Ag-AIRR - 11045-41.2021.5.03.0071, em que é Agravante MGS - MINAS GERAIS
+ADMINISTRAÇÃO E SERVIÇOS S.A. e é AgravadaSERAFINA BORGES DE CAMARGO CHAGAS.
+Insurge-se a Parte Agravante contra a decisão monocrática que negou provimento ao agravo
+de instrumento interposto.
+Nas razões do agravo, a Parte Agravante pugna pelo provimento do agravo de instrumento.
+Foi concedida vista à Parte Agravada para se manifestar no prazo de 8 (oito) dias, em razão do
+art. 1.021, § 2°, do CPC/2015, c/c o art. 3º, XXIX, da IN 39/TST.
+A Parte não apresentou manifestação.
+É o relatório.
+V O T O
+I) CONHECIMENTO
+Atendidos todos os pressupostos recursais,CONHEÇO do apelo.
+II) MÉRITO
+DISPENSA SEM JUSTA CAUSA. EMPREGADO PÚBLICO. REINTEGRAÇÃO. ART. 896, § 1º-A, I, DA
+CLT. EXIGÊNCIA DE TRANSCRIÇÃO DOS FUNDAMENTOS EM QUE SE IDENTIFICA O
+PREQUESTIONAMENTO DA MATÉRIA OBJETO DE RECURSO DE REVISTA. TRANSCRIÇÃO
+INSUFICIENTE. ÓBICE ESTRITAMENTE PROCESSUAL. TRANSCENDÊNCIA NÃO ANALISADA
+A decisão agravada foi proferida nos seguintes termos:
+“O primeiro juízo de admissibilidade do recurso de revista denegou-lhe
+seguimento. Inconformada, a Parte Recorrente interpõe o presente agravo de
+instrumento apenas quanto ao tema “nulidade da dispensa”.
+O recurso de revista foi interposto contra acórdão regional publicado sob a
+vigência das alterações promovidas pela Lei n. 13.467, de 13 de julho de 2017, motivo
+pelo qual sua análise se submete ao crivo da transcendência, a teor dos arts. 896-A, § 1º,
+da CLT; 246 e 247 do RITST.
+Trata-se de recurso de revista manifestamente inadmissível, tendo em vista que a
+Parte Recorrente não cuidou de transcrever adequadamente os fundamentos da decisão
+recorrida em que se consubstancia o prequestionamento dos temas objeto de
+insurgência recursal, nos termos do art. 896, § 1º-A, I, da CLT, incluído pela Lei
+13.015/2014, o que obsta o conhecimento do apelo.
+Eis o seu teor:
+Art. 896. (...)
+§ 1o-A. Sob pena de não conhecimento, é ônus da parte:
+I - indicar o trecho da decisão recorrida que consubstancia o
+prequestionamento da controvérsia objeto do recurso de revista. (destacamos).
+Havendo expressa exigência legal de indicação do trecho do julgado que
+demonstre o enfrentamento da matéria pelo Tribunal Regional, evidenciando o
+prequestionamento, a ausência desse pressuposto intrínseco torna insuscetível de
+veiculação o recurso de revista.
+Com efeito, não há como se concluir pela violação de eventual dispositivo legal ou
+constitucional apontado no apelo – ou aferir a existência de dissenso jurisprudencial – se
+não houver qualquer manifestação sobre as matérias impugnadas, cuja indicação,
+repita-se, constitui ônus da parte recorrente, nos termos do art. 896, §1º-A, I, da
+mencionada Lei 13.015/2014. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F1955265ECDD9.
+Observe-se que, no caso concreto, os trechos indicados são insuficientes para o
+exame da controvérsia, na medida em quenão constam dos excertos reproduzidos
+pela parte todas as premissas fáticas e fundamentos jurídicos adotados pelo
+Regional para a solução da controvérsia, em descompasso com o artigo 896, § 1º-A, I e
+III, da CLT.
+Nesse sentido os seguintes julgados desta Corte:
+RECURSO DE EMBARGOS EM RECURSO DE REVISTA. ACÓRDÃO PUBLICADO NA
+VIGÊNCIA DA LEI Nº 13.015/2014. DIFERENÇAS DE COMPLEMENTAÇÃO DA
+REMUNERAÇÃO MÍNIMA POR NÍVEL E REGIME – RMNR. CÁLCULO RECURSO DE REVISTA.
+INOBSERVÂNCIA DE PRESSUPOSTOS DE ADMISSIBILIDADE PREVISTOS NO ART. 896, §
+1º-A, I, DA CLT. A c. Sexta Turma não conheceu do recurso de revista da reclamada ao
+fundamento de que “em relação ao tema“ cálculo do complemento da RMNR”, foi
+indicado apenas um fragmento da decisão recorrida, que não identifica os diversos
+fundamentos de fato e de direito assentados no acórdão para resolver a
+controvérsia, a qual não se limitou à questão citada. Com efeito, não consta qual é a
+norma coletiva em debate especificamente, nem o seu inteiro teor. Nesse particular,
+aplica-se o art. 896, 1- A, I, da CLT”. Em acréscimo, assentou que “como se vê, não houve
+exigência de transcrição ipsis litteris de trecho da decisão recorrida. Ainda assim,
+constata-se que não foram atendidas as exigências do art. 896, § 1º- A, da CLT, razão pela
+qual não havia como ser conhecido o recurso de revista e analisadas as alegações
+relativas à matéria de fundo”. O único aresto apresentado encontra-se superado pela
+jurisprudência consolidada da SBDI-1 sobre a exigência processual prevista no artigo
+896, § 1º-A, I, da CLT, nos limites do artigo 894, § 2º, da CLT. Com efeito, a SBDI-1,
+interpretando o alcance da previsão contida no art. 896, § 1º-A, I, da CLT, incluído
+pela Lei nº 13.015/2014, firmou o entendimento no sentido de ser imprescindível a
+transcrição da fração específica da fundamentação regional que consubstancie o
+prequestionamento da matéria contida nas razões recursais, não se admitindo, para
+efeitos de cumprimento do comando ali previsto, “a mera indicação das páginas
+correspondentes, paráfrase, sinopse, transcrição integral do acórdão recorrido, do
+relatório, da ementa ou apenas da parte dispositiva”. (E-ED-RR-242-79.2013.5.04.0611,
+Rel. Min. José Roberto Freire Pimenta, DEJT 25/5/2018; E-ED-RR - 60300-
+98.2013.5.21.0021, Rel. Min. José Roberto Freire Pimenta, DEJT 25/05/2018). Recurso de
+embargos não conhecido. (E-ED-RR-27400-14.2014.5.17.0191, Subseção I Especializada
+em Dissídios Individuais, Relator Ministro Breno Medeiros, DEJT 01/08/2025).
+A) AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. PROCESSO SOB A ÉGIDE DA
+LEI 13.015/2014 E ANTERIOR À LEI 13.467/2017 . 1. DANO MORAL COLETIVO. CONDUTA
+ILÍCITA. CONFIGURAÇÃO. DESCUMPRIMENTO DE NORMAS DE SAÚDE E SEGURANÇA DO
+TRABALHO. ART. 896, § 1º-A, I, DA CLT. EXIGÊNCIA DE TRANSCRIÇÃO DOS
+FUNDAMENTOS EM QUE SE IDENTIFICA O PREQUESTIONAMENTO DA MATÉRIA OBJETO
+DE RECURSO DE REVISTA. TRANSCRIÇÃO INSUFICIENTE. ÓBICE ESTRITAMENTE
+PROCESSUAL. Nos termos do art. 896, § 1º-A, I, da CLT, incluído pela Lei n. 13.015/2014, a
+transcrição dos fundamentos em que se identifica o prequestionamento da matéria
+impugnada constitui exigência formal à admissibilidade do recurso de revista. Havendo
+expressa exigência legal de indicação do trecho do julgado que demonstre o
+enfrentamento da matéria pelo Tribunal Regional, evidenciando o prequestionamento, a
+ausência desse pressuposto intrínseco torna insuscetível de veiculação o recurso de
+revista. Nesse sentido, saliente-se que o trecho transcrito no apelo, não tem o
+condão de suprir a exigência preconizada no art. 896, § 1º-A, I, da CLT, porquanto não
+se verificam, no referido excerto, todos os fundamentos de fato e de direito
+utilizados pelo TRT no enfrentamento da matéria impugnada. Agravo de instrumento
+desprovido no tema. (...) (RRAg-20102-05.2017.5.04.0004, 3ª Turma, Relator Ministro
+Mauricio Godinho Delgado, DEJT 06/12/2024).
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA.
+INOBSERVÂNCIA DO PRESSUPOSTO DE ADMISSIBILIDADE PREVISTO NO ARTIGO 896, §
+1º-A, I, DA CLT. TRANSCRIÇÃO INSUFICIENTE DE TRECHOS DO ACÓRDÃO RECORRIDO.
+TRANSCENDÊNCIA DA CAUSA NÃO EXAMINADA. 1. Não merece provimento o Agravo
+quando as razões apresentadas não conseguem invalidar os fundamentos expendidos
+na decisão mediante a qual se negou provimento ao Agravo de Instrumento. 2. Nos
+termos do artigo 896, § 1º-A, I, da CLT "sob pena de não conhecimento, é ônus da parte: I
+- indicar o trecho da decisão recorrida que consubstancia o prequestionamento da
+controvérsia objeto do recurso de revista". 3. Constatada, no presente caso, a
+transcrição insuficiente de trechos do acórdão impugnado que consubstanciam o
+prequestionamento da matéria objeto do Recurso de Revista, resulta insuscetível de
+provimento o apelo. 4 . Não atendido o pressuposto de admissibilidade previsto no
+artigo 896, § 1º-A, I, da CLT, deixa-se de examinar o requisito da transcendência. 5 .
+Agravo Interno a que se nega provimento. (AIRR-0000105-07.2022.5.09.0009, 3ª Turma,
+Relator Ministro Lelio Bentes Correa, DEJT 14/10/2025).
+AGRAVO. AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. EXCESSO DE
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F1955265ECDD9.
+EXECUÇÃO. VALOR DA MULTA. COISA JULGADA. TRANSCRIÇÃO INSUFICIENTE DO
+TRECHO DA DECISÃO RECORRIDA QUE CONSUBSTANCIA O PREQUESTIONAMENTO DA
+CONTROVÉRSIA. ART. 896, § 1º, I E III, DA CLT. A transcrição do trecho do acórdão
+recorrido em que omitidos fundamentos fáticos e jurídicos do Tribunal Regional
+essenciais ao deslinde da controvérsia revela-se insuficiente ao necessário cotejo
+analítico entre a tese adotada na decisão recorrida e os argumentos defendidos na
+revista, em descumprimento ao requisito previsto no art. 896, § 1º-A, I e III, da CLT.
+No caso, do trecho transcrito no recurso de revista não constam todos os contornos
+fáticos e jurídicos descritos pelo Tribunal Regional essenciais ao exame da controvérsia.
+Agravo a que se nega provimento. (AIRR-0000890-92.2022.5.13.0029, 3ª Turma, Relator
+Ministro Alberto Bastos Balazeiro, DEJT 14/10/2025).
+DIREITO PROCESSUAL DO TRABALHO. AGRAVO. AGRAVO DE INSTRUMENTO.
+RECURSO DE REVISTA. RESPONSABILIDADE SOLIDÁRIA. SUCESSÃO TRABALHISTA.
+TRANSCRIÇÃO INSUFICIENTE DO TRECHO DO ACÓRDÃO RECORRIDO. INOBSERVÂNCIA
+DO PRESSUPOSTO DE ADMISSIBILIDADE RECURSAL PREVISTO NO ART. 896, § 1º-A, I E
+III, DA CLT. TRANSCENDÊNCIA PREJUDICADA. 1. Agravo interno interposto em face de
+decisão monocrática que negou seguimento ao agravo de instrumento interposto pela
+autora. 2. Na hipótese, a recorrente transcreveu no recurso de revista trecho do
+acórdão recorrido que não engloba os elementos de fato e de direito essenciais para
+o deslinde da controvérsia, de modo que não viabiliza o confronto analítico entre a
+tese assentada pelo TRT e a fundamentação jurídica apresentada no apelo. 3. A
+inobservância dos pressupostos formais de admissibilidade previstos no art. 896, §
+1º-A, I e III, da CLT constitui obstáculo processual intransponível à análise de mérito
+das matérias recursais e inviabiliza o exame da transcendência do recurso de revista,
+em qualquer dos seus indicadores. Agravo a que se nega provimento. (AIRR-1000622-
+67.2018.5.02.0255, 1ª Turma, Relator Ministro Amaury Rodrigues Pinto Junior, DEJT
+14/10/2025).
+AGRAVO. AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. DANO MORAL.
+REQUISITO DO ART. 896, § 1º-A, I, DA CLT NÃO ATENDIDO. TRANSCRIÇÃO
+INSUFICIENTE DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. O trecho indicado pela
+parte é insuficiente para os fins do artigo 896, § 1°-A, I, da CLT, porque não abrange
+todos os fundamentos de fato e de direito assentados no acórdão recorrido para
+resolver a controvérsia quanto ao tema, por exemplo, os trechos em que o TRT
+consignou a constatação da proibição de uso do banheiro pela prova testemunhal.
+Conforme entende esta Corte Superior, essa indicação constitui encargo da recorrente,
+exigência formal intransponível ao conhecimento do recurso de revista. Não merece
+reparos a decisão. Agravo não provido. (...) (AIRR-0011056-94.2020.5.15.0128, 2ª Turma,
+Relatora Ministra Maria Helena Mallmann, DEJT 25/09/2025).
+AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA INTERPOSTO PELAS
+RECLAMADAS SOB A ÉGIDE DA LEI Nº 13.467/2017 – EXECUÇÃO - NEGATIVA DE
+PRESTAÇÃO JURISDICIONAL - INSS SOBRE 1/3 DE FÉRIAS - REFLEXOS NOS DSRs -
+APURAÇÃO DO INSS COTA RECLAMADA - TRANSCRIÇÃO INSUFICIENTE -
+INOBSERVÂNCIA DO ARTIGO 896, § 1º-A, I, DA CLT - TRANSCENDÊNCIA NÃO
+RECONHECIDA O Recurso de Revista desatende ao requisito previsto no artigo 896, § 1°-
+A, I, da CLT, de transcrever a decisão recorrida no que consubstancia o
+prequestionamento da controvérsia. A transcrição do acórdão em sede de Embargos de
+Declaração mostra-se insuficiente e, portanto, não atende à exigência prevista no citado
+dispositivo. Julgados desta Corte. A impossibilidade de processamento do Recurso de
+Revista diante da não satisfação de requisito de admissibilidade induz à conclusão de
+que a causa não oferece transcendência (exegese dos artigos 896-A da CLT e 247 do
+RITST). Agravo de Instrumento a que se nega provimento. (AIRR-AIRR-600-
+60.2013.5.02.0074, 4ª Turma, Relatora Ministra Maria Cristina Irigoyen Peduzzi, DEJT
+11/12/2023).
+I – AGRAVO DE INSTRUMENTO INTERPOSTO PELA CORSAN. RITO SUMARÍSSIMO.
+ACÓRDÃO REGIONAL PUBLICADO NA VIGÊNCIA DA LEI Nº 13.467/2017. TERCEIRIZAÇÃO.
+RESPONSABILIDADE SUBSIDIÁRIA. ENTE DA ADMINISTRAÇÃO PÚBLICA. CULPA IN
+VIGILANDO. DEFEITO DE TRANSCRIÇÃO. RECURSO DE REVISTA QUE NÃO ATENDE À
+EXIGÊNCIA DO ART. 896, § 1º-A, I, DA CLT. TRANSCRIÇÃO INSUFICIENTE.
+TRANSCENDÊNCIA NÃO RECONHECIDA. 1. O art. 896, § 1º-A, I, II e III, da CLT, introduzido
+pela Lei nº 13.015/2014, inseriu novo pressuposto de admissibilidade do recurso de
+revista, consubstanciado na necessidade de a parte indicar, em razões recursais, os
+trechos do acórdão regional que evidenciem os contornos fáticos e jurídicos
+prequestionados da matéria em debate, com a devida impugnação de todos os
+fundamentos adotados pelo Tribunal Regional, mediante cotejo analítico entre as teses
+enfrentadas e as alegadas violações ou contrariedades invocadas em seu apelo. 2. Para
+o fim a que se destina a norma, não basta a mera transcrição de trecho insuficiente,
+que não contemple todos os fundamentos registrados no acórdão regional,
+porquanto impossibilitado extrair, com exatidão, o quadro fático e moldura jurídica
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F1955265ECDD9.
+adotados pelo Tribunal Regional, necessários ao exame da admissibilidade do
+recurso de revista. 3. No caso dos autos, o trecho transcrito é insuficiente para
+atender à determinação legal, porque além de não conter as circunstâncias fáticas a
+partir das quais o TRT examinou a controvérsia, não aborda todos os fundamentos
+jurídicos que amparam a decisão. 4. Inobservado pressuposto formal intrínseco, não é
+possível processar o apelo. Agravo de instrumento conhecido e desprovido. (...) (AIRR￾0021248-91.2023.5.04.0741, 5ª Turma, Relatora Ministra Morgana de Almeida Richa, DEJT
+24/09/2025).
+AGRAVO DA RECLAMANTE. AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. LEI
+Nº 13.467/2017. PAGAMENTO DE VERBAS RESCISÓRIAS. FATO DO PRÍNCIPE. EXTINÇÃO DE
+CARTÓRIO. TRANSCRIÇÃO INSUFICIENTE DO TRECHO QUE DEMONSTRA O
+PREQUESTIONAMENTO DA MATÉRIA. ÓBICE DO ARTIGO 896, §1º-A, I E III DA CLT. 1 –
+Na decisão monocrática foi negado provimento ao agravo de instrumento. 2 – Cumpre
+registrar que o recurso de revista da parte se dividiu em dois temas: “preliminar de
+nulidade do acórdão do regional por negativa de prestação jurisdicional” e “ pagamento
+de verbas rescisórias. fato do príncipe. extinção de cartório”. 3 - Na decisão monocrática,
+foi mantido o despacho de admissibilidade do recurso de revista por seus próprios
+fundamentos, sendo o fundamento utilizado para denegar seguimento ao tema
+“preliminar de nulidade do acórdão do regional por negativa de prestação jurisdicional”
+a ocorrência regular da prestação jurisdicional e, em relação ao tema de fundo, do óbice
+do artigo 896, §1º-A, I, da CLT. Não há insurgência em relação ao tema “PRELIMINAR DE
+NULIDADE DO ACÓRDÃO DO REGIONAL POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL”.
+4 - No agravo interno, a parte sustenta que preencheu o requisito do artigo 896, §1º-A, I,
+da CLT. 5 - A Lei nº 13.015/2014 exige que a parte indique, nas razões recursais, os
+trechos da decisão recorrida a fim de que seja demonstrado o prequestionamento.
+Não cabe, pois, apenas indicar alguns fragmentos da decisão do Regional, mas
+apontar expressamente todos os fundamentos adotados pelo TRT que se pretende
+ver reformados. 6 -No caso dos autos, os excertos da decisão recorrida que foram
+transcritos não abrangem os diversos fundamentos de fato e de direito utilizados
+pelo TRT, especialmente aqueles relevantes, em que registram que o ato praticado pelo
+poder público (extinção do tabelionato em que a reclamante trabalhava) foi legítimo e
+que “o denominado fato do príncipe deve ser suscitado pela parte prejudicada em face
+do seu real empregador para que este seja condenado ao pagamento dos haveres
+rescisórios e não contra o ente público, como fez a reclamante.”. 7 – O trecho transcrito
+pela parte no recurso de revista trata-se apenas de uma interpretação da Corte
+Regional em relação ao artigo 486, da CLT,não constando nenhum fundamento que
+levou o Tribunal Regional a manter a sentença que julgou improcedente o pedido da
+reclamante. Verifica-se, portanto, que não há materialmente como fazer o confronto
+analítico das suas alegações com a decisão recorrida, uma vez que os trechos
+indicados, nas razões de recurso de revista, não tratam da questão sob a
+perspectiva das alegações. 8 - Ressalte-se que é dever da parte não só indicar os
+trechos da controvérsia, mas também, em observância ao princípio da dialeticidade,
+fazer o seu confronto analiticamente com a fundamentação jurídica invocada pela parte
+nas razões recursais. Incide ao caso o disposto no artigo 896, § 1º-A, incisos I e III, da CLT.
+9 – Decisão mantida, com acréscimo de fundamentos. 10 - A Sexta Turma evoluiu para o
+entendimento de que fica prejudicada a análise da transcendência quando não
+preenchidos pressupostos de admissibilidade. 11 - Agravo a que se nega provimento.
+(AIRR-0000854-13.2023.5.13.0030, 6ª Turma, Relatora Ministra Katia Magalhaes Arruda,
+DEJT 08/09/2025).
+AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA DA PARTE RÉ. LEI Nº
+13.467/2017. RESPONSABILIDADE SUBSIDIÁRIA- ENTE PÚBLICO AUSÊNCIA DE
+COMPROVAÇÃO DO EFETIVO PREQUESTIONAMENTO. TRANSCRIÇÃO INSUFICIENTE.
+REQUISITO PREVISTO NO ARTIGO 896, § 1º-A, I, DA CLT NÃO OBSERVADO.
+TRANSCENDÊNCIA NÃO EXAMINADA. Entre as alterações promovidas à sistemática
+recursal pela Lei nº 13.015/2014 encontra-se a criação de pressuposto intrínseco do
+recurso de revista, no qual a parte deve, obrigatoriamente, transcrever, ou destacar
+(sublinhar/negritar), o fragmento da decisão recorrida que revele a resposta do
+tribunal de origem sobre a matéria objeto do apelo; ou seja, o ponto específico da
+discussão, contendo as principais premissas fáticas e jurídicas contidas no acórdão
+regional acerca do tema invocado no recurso. Na presente situação, o fragmento do
+julgado colacionado de forma esparsa pela parte recorrente não representa, em
+específico, o prequestionamento da controvérsia objeto das razões do recurso de
+revista, já que não aborda todo o quadro fático delimitado pelo Tribunal Regional, além
+de não representar todos os fundamentos adotados pela decisão recorrida. Agravo de
+instrumento conhecido e não provido. (AIRR-397-94.2020.5.05.0551, 7ª Turma, Relator
+Ministro Claudio Mascarenhas Brandao, DEJT 10/10/2025).
+RECURSO DE REVISTA DO SEGUNDO RECLAMADO (FUNDAÇÃO DO ABC). REGÊNCIA
+PELA LEI Nº 13.467/2017 – RESPONSABILIDADE SUBSIDIÁRIA. TERCEIRIZAÇÃO DE
+SERVIÇOS. ENTE PÚBLICO. ÔNUS DA PROVA. TRANSCRIÇÃO INSUFICIENTE DA DECISÃO
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F1955265ECDD9.
+RECORRIDA. INOBSERVÂNCIA DO DISPOSTO NO INCISO I DO § 1º-A DO ART. 896 DA
+CLT. AUSÊNCIA DE TRANSCENDÊNCIA. Atranscrição efetuada pela recorrente não
+atende ao comando do inciso I do § 1º-A do art. 896 da CLT, porque não abrangem
+todos os fundamentos de fato e de direito adotados pela Corte Regional para
+solucionar a controvérsia, ficando inviabilizado o conhecimento do apelo. Recurso de
+revista de que não se conhece. (RR-1001437-84.2021.5.02.0473, 8ª Turma, Relator
+Ministro Sergio Pinto Martins, DEJT 15/10/2025).
+Esclareça-se que a própria Lei nº 13.015/2014 estabeleceu a necessidade de
+cumprimento da referida formalidade processual, com a finalidade de prevenir a
+interposição de recursos de natureza extraordinária ao TST que não ataquem teses
+jurídicas prequestionadas perante o TRT. Por isso, não é suficiente que haja meras
+referências àquilo que a Corte de origem teria decidido, sendo necessária a efetiva
+reprodução específica da tese emitida na decisão recorrida.
+Assim, reputo que a causanão oferece transcendência com relação aos reflexos
+de natureza econômica, política, social ou jurídica, nos termos do art. 896-A, § 1º, da CLT.
+Ressalte-se, por fim, que as vias recursais extraordinárias para os tribunais
+superiores (STF, STJ, TST) não traduzem terceiro grau de jurisdição; existem para
+assegurar a imperatividade da ordem jurídica constitucional e federal, visando à
+uniformização jurisprudencial na Federação. Por isso seu acesso é notoriamente restrito,
+não permitindo cognição ampla.
+Pelo exposto, com arrimo no art. 118, X, do RITST,NEGO PROVIMENTO ao agravo
+de instrumento.
+Adverte-se a Parte Agravante para a possibilidade de aplicação da penalidade
+estabelecida no art. 1.021, § 4º, do CPC/2015, em caso de interposição abusiva de ulterior
+recurso protelatório ou manifestamente infundado”. (g.n)
+Nas razões do agravo, a Parte Agravante pugna pelo provimento do agravo de instrumento.
+Sem razão, contudo.
+Do cotejo da decisão agravada com as razões do agravo, verifica-se que a Parte Agravante não
+logra êxito em desconstituir os fundamentos da decisão monocrática que negou provimento ao seu
+agravo de instrumento.
+Conforme salientado na decisão agravada, trata-se de recurso de revista manifestamente
+inadmissível, tendo em vista que a Parte Recorrente não cuidou de transcrever adequadamente os
+fundamentos da decisão recorrida em que se consubstancia o prequestionamento dos temas objeto
+de insurgência recursal, nos termos do art. 896, § 1º-A, I, da CLT, incluído pela Lei 13.015/2014, o que
+obsta o conhecimento do apelo.
+Eis o seu teor:
+Art. 896. (...)
+§ 1o-A. Sob pena de não conhecimento, é ônus da parte:
+I - indicar o trecho da decisão recorrida que consubstancia o
+prequestionamento da controvérsia objeto do recurso de revista. (destacamos).
+Havendo expressa exigência legal de indicação do trecho do julgado que demonstre o
+enfrentamento da matéria pelo Tribunal Regional, evidenciando o prequestionamento, a ausência
+desse pressuposto intrínseco torna insuscetível de veiculação o recurso de revista.
+Com efeito, não há como se concluir pela violação de eventual dispositivo legal ou
+constitucional apontado no apelo – ou aferir a existência de dissenso jurisprudencial – se não houver
+qualquer manifestação sobre as matérias impugnadas, cuja indicação, repita-se, constitui ônus da
+parte recorrente, nos termos do art. 896, §1º-A, I, da mencionada Lei 13.015/2014.
+Observe-se que, no caso concreto, os trechos indicados são insuficientes para o exame da
+controvérsia, na medida em quenão constam dos excertos reproduzidos pela parte todas as
+premissas fáticas e fundamentos jurídicos adotados pelo Regional para a solução da
+controvérsia, em descompasso com o artigo 896, § 1º-A, I e III, da CLT.
+Nesse sentido, foram citados julgados desta Corte Superior.
+Esclareça-se que a própria Lei nº 13.015/2014 estabeleceu a necessidade de cumprimento da
+referida formalidade processual, com a finalidade de prevenir a interposição de recursos de natureza
+extraordinária ao TST que não ataquem teses jurídicas prequestionadas perante o TRT. Por isso, não
+é suficiente que haja meras referências àquilo que a Corte de origem teria decidido, sendo
+necessária a efetiva reprodução específica da tese emitida na decisão recorrida.
+Assim, considerando o aspecto processual que inviabiliza o exame do mérito recursal,deixa-se
+de analisar os indicadores de transcendência, nos termos do art. 896-A da CLT.
+Tratando-se, portanto, de decisão proferida em estrita observância às normas processuais (art.
+557, caput, do CPC/1973; arts. 14 e 932, IV, "a", do CPC/2015), é insuscetível de reforma ou
+reconsideração.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+ISTO POSTO
+ACORDAM os Ministros da Terceira Turma do Tribunal Superior do Trabalho, à unanimidade,
+negar provimento ao agravo”. (g.n)
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F1955265ECDD9.
+Observa-se, portanto, que, ao contrário do que sustenta a Parte Embargante, a
+matéria apontada como omissa foi devidamente analisada e fundamentada na decisão embargada, em
+consonância com o princípio constitucional da motivação das decisões judiciais (art. 93, IX, da CF),
+também referido na lei ordinária - arts. 832 da CLT e 489 do CPC/2015.
+No caso, conforme fundamentado na decisão embargada, a transcrição nas
+razões do recurso de revista não se revela suficiente para comprovação do prequestionamento do
+tema, objeto do apelo, por não informar todos os fundamentos de fato e de direito que deram respaldo
+a decisão do Tribunal Regional. Assim sendo, constata-se que a Parte Recorrente não observou o
+comando do art. 896, 1º-A, I e III, da CLT.
+Portanto, não se constata ausência de fundamentação no exame das questões
+arguidas, mas, efetivamente, irresignação da Parte Embargante contra o que foi decidido.
+Como se sabe, esta via processual não é adequada para a revisão de decisões
+judiciais. A omissão, contradição ou obscuridade a justificarem a oposição de embargos de declaração
+apenas se configuram quando o Julgador deixa de se manifestar acerca das matérias contidas no
+recurso interposto, utiliza fundamentos colidentes entre si, ou ainda quando a decisão não é clara.
+Ademais, o Julgador não está obrigado a rebater, um a um, os argumentos das
+partes, bastando que indique, na decisão, os motivos que lhe formaram o convencimento (art. 371 do
+CPC/2015), em face dos fatos e circunstâncias constantes nos autos. O posicionamento desfavorável à
+tese daquele que recorre não se traduz, necessariamente, em omissão do julgado.
+Outrossim, nos termos da OJ 118/SBDI-I/TST, havendo tese explícita sobre a
+matéria, na decisão recorrida, é desnecessária a referência expressa ao dispositivo legal para fins de
+prequestionamento.
+Se a argumentação dos embargos não se insere em nenhum dos vícios
+mencionados nos arts. 897-A da CLT e 1.022 do CPC/2015, deve ser desprovido o recurso.
+Pelo exposto, NEGO PROVIMENTO aos embargos de declaração.
+ISTO POSTO
+ACORDAM os Ministros da Terceira Turma do Tribunal Superior do Trabalho, à
+unanimidade, negar provimento aos embargos de declaração.
+Brasília, 1 de setembro de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+MAURICIO GODINHO DELGADO
+Ministro Relator
+Firmado por assinatura digital em 03/09/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 10067F1955265ECDD9.
