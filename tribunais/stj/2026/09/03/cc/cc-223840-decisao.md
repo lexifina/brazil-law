@@ -1,0 +1,54 @@
+DECISÃO
+Cuida-se  de  conflito  de  competência  instaurado entre o  JUÍZO DA VARA DO TRABALHO DE CEARÁ-MIRIM - RN e o JUÍZO DE DIREITO DA 3A VARA DE CEARÁ MIRIM - RN.
+Inicialmente, o JUÍZO DE DIREITO DA 3A VARA DE CEARÁ MIRIM - RN declinou de sua competência argumentando que (fls. 30-31):
+Trata-se de AÇÃO DE RESTITUIÇÃO DE QUANTIA PAGA E INDENIZAÇÃO POR DANOS MORAIS C/C PEDIDO DE TUTELA DE URGÊNCIA formulado por MANOEL FERREIRA FILHO em face da CONAFER - CONFEDERAÇÃO NACIONAL DOS AGRICULTORES E FAMILIARES E EMPREEND. FAMI. RURAIS DO BRASIL, aduzindo, em síntese, que possui aposentadoria por incapacidade permanente previdenciária, e que notou desconto em seu benefício nomeado de "249 CONTRIB. CONAFER 0800 940 1285", ao qual desconhece.
+Ao final, requereu a declaração de nulidade e inexistência do débito, além de restituição do indébito e indenização por danos morais.
+É o relato. Decido.
+Nos termos do art. 114, inciso III, da Constituição Federal, "Compete à Justiça do Trabalho processar c julgar:  ..  III - as ações sobre representação sindical, entre sindicatos, entre sindicatos e trabalhadores, e entre sindicatos e empregadores".
+Tal norma encerra competência em razão da matéria e, portanto, absoluta, podendo o juiz conhecer da matéria em qualquer tempo ou grau de jurisdição, pronunciando-se a respeito, inclusive, de ofício (art. 64, § 1º, do CPC).
+É o que ocorre no presente caso, em que a matéria em litígio diz respeito à relação entre trabalhador e entidade sindical acerca da cobrança de contribuição confederativa.
+Em caso idêntico, o Superior Tribunal de Justiça fixou entendimento no sentido da competência da Justiça do Trabalho, conforme aresto a seguir:
+ ..
+Nesse sentido, a competência para análise e julgamento do feito é da Justiça do Trabalho.
+Diante do exposto, DECLARO a incompetência absoluta deste juízo para processo e julgamento da presente demanda e determino a remessa dos autos para a Vara do Trabalho de Ceará-Mirim, após a preclusão do prazo recursal ou renúncia a este.
+Recebidos  os  autos , o JUÍZO DA VARA DO TRABALHO DE CEARÁ-MIRIM - RN suscitou o presente conflito defendendo que (fls. 48-52):
+A controvérsia posta nos autos consiste em definir a validade de descontos realizados em benefício previdenciário da parte autora, sob a rubrica "249 CONTRIB. CONAFER", bem como a eventual responsabilidade da entidade requerida pela restituição dos valores descontados e pelo pagamento de indenização por danos morais.
+A parte autora sustenta que jamais autorizou os descontos, que não celebrou negócio jurídico com a requerida e que não se filiou validamente à entidade responsável pela cobrança. Com base nessa causa de pedir, pleiteia a declaração de inexistência/nulidade do negócio jurídico, a inexigibilidade dos descontos, a repetição do indébito em dobro, além de indenização por danos morais. (ID 3fdf3b5)
+Embora a decisão declinatória da Justiça Estadual tenha atribuído natureza sindical à controvérsia, com fundamento no art. 114, III, da Constituição Federal, verifica-se que a causa de pedir deduzida na petição inicial não versa propriamente sobre representação sindical, enquadramento sindical, disputa intersindical, contribuição sindical típica ou relação coletiva de trabalho. O núcleo da pretensão autoral consiste na alegação de inexistência de autorização individual para desconto em benefício previdenciário e na consequente responsabilização civil da entidade que teria recebido valores sem anuência válida do beneficiário.
+Nessa perspectiva, a demanda aproxima-se das ações de natureza civil em que aposentados ou pensionistas buscam discutir descontos associativos ou consignados em benefício previdenciário, sob alegação de inexistência de contratação, ausência de autorização válida, falha na prestação de serviço, repetição de indébito e dano moral.
+A circunstância de a entidade demandada integrar estrutura confederativa e de o desconto ostentar a rubrica "CONTRIB. CONAFER" não desloca, por si só, a competência para a Justiça do Trabalho quando a pretensão não exige solução de controvérsia coletiva sindical nem exame de relação de trabalho, mas apenas a aferição da existência, validade e eficácia de autorização individual para desconto em benefício previdenciário, com efeitos patrimoniais civis.
+O art. 114, III, da Constituição Federal atribui à Justiça do Trabalho competência para processar e julgar as ações sobre representação sindical, entre sindicatos, entre sindicatos e trabalhadores, e entre sindicatos e empregadores. Todavia, tal regra de competência deve ser interpretada em conformidade com a natureza da causa de pedir e do pedido deduzidos em juízo.
+No caso, a parte autora não pretende discutir sua representação sindical em sentido próprio, tampouco postula direitos decorrentes de relação de trabalho ou de vínculo jurídico-trabalhista. Busca, em verdade, a desconstituição de desconto realizado em benefício previdenciário, sob alegação de ausência de autorização e de inexistência de relação jurídica válida, com pedidos de restituição de valores e indenização por dano moral.
+Com efeito, extrai-se da petição inicial que os pedidos decorrem da alegada ilicitude do desconto e estão amparados no Código Civil e no Código de Defesa do Consumidor, inexistindo controvérsia sobre relação trabalhista.
+Não se desconhece que a entidade requerida possui natureza associativa/confederativa. Todavia, tal elemento não altera, neste momento processual, o núcleo da pretensão deduzida na inicial, que está centrado na inexistência de autorização individual, na suposta cobrança indevida em benefício previdenciário e na responsabilidade civil daí decorrente.
+Divergindo do entendimento exarado pelo Juízo Estadual e considerando que ambos os órgãos jurisdicionais se consideram incompetentes para o exame da matéria, impõe-se a suscitação do conflito negativo de competência, nos termos do art. 66, II, do CPC. De plano, destaco o entendimento do STJ:
+ ..
+Desse modo, configurada situação em que o Juízo Estadual declarou-se incompetente e este Juízo Trabalhista também entende não possuir competência material para apreciar a demanda, caracteriza-se conflito negativo de competência, nos termos do art. 66, II, do CPC.
+A competência para dirimir conflito entre Juízo Estadual e Juízo do Trabalho é do Superior Tribunal de Justiça, conforme art. 105, I, "d", da Constituição Federal.
+Impõe-se, portanto, a suscitação de conflito negativo de competência perante o Superior Tribunal de Justiça, com a suspensão do processo até ulterior deliberação da Corte competente.
+ ..
+Diante do exposto, e em face da decisão declinatória de competência proferida pelo Juízo da 3ª Vara da Comarca de Ceará-Mirim/RN (Processo 0801200-89.2026.8.20.5102), este Juízo da Vara do Trabalho de Ceará-Mirim/RN DECLARA SUA INCOMPETÊNCIA ABSOLUTA para processar e julgar a presente ação movida por MANOEL FERREIRA FILHO em face de CONAFER - CONFEDERAÇÃO NACIONAL DOS AGRICULTORES FAMILIARES E EMPREEND. FAMI. RURAIS DO BRASIL e SUSCITA O CONFLITO NEGATIVO DE COMPETÊNCIA perante o Superior Tribunal de Justiça (STJ), com fulcro no art. 105, I, "d", da Constituição Federal e artigos 66, II, e 951 e seguintes do CPC.
+Parecer do  Ministério  Público  Federal, às fls. 7-10, sem emitir opinião meritória.
+É,  no  essencial,  o  relatório.
+Com fundamento na orientação contida na Súmula n. 568/STJ, procedo ao julgamento monocrático do presente conflito.
+Conheço do presente conflito de competência, porquanto envolve Juízos vinculados a Tribunais distintos, nos moldes do art. 105, inciso I, alínea "d", da Constituição Federal.
+A análise dos autos indica a propositura de ação de restituição de quantias pagas e indenização por danos morais contra a Confederação Nacional dos Agricultores Familiares e Empreendedores Familiares Rurais do Brasil - CONAFER, na qual o autor sustenta a inexistência de qualquer vínculo jurídico com a requerida e, por isso, solicita que seja declarada a ilegalidade dos descontos das contribuições sindicais feitas sobre seu benefício previdenciário, além da condenação da entidade à devolução dos valores descontados indevidamente e ao pagamento de indenização por danos morais.
+Nos termos do art. 114, inciso III, da Constituição Federal, cabe à Justiça do Trabalho o processamento e julgamento de ações que versem sobre representação sindical, ajuizadas entre sindicatos, entre sindicatos e trabalhadores e entre sindicatos e empregadores.
+Contudo, no presente caso, verifica-se que o fato gerador do direito pleiteado é um ato de natureza eminentemente civil - descontos indevidos efetuados pela entidade sindical - sem qualquer debate sobre questões trabalhistas ou sindicais, o que demonstra que a Justiça comum é competente para processar e julgar a ação.
+A propósito, cito:
+DIREITO PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO. MATÉRIA DE CUNHO CIVIL. COMPETÊNCIA DA JUSTIÇA COMUM. CONFLITO CONHECIDO.
+I. Caso em exame
+1. Conflito negativo de competência suscitado pelo Juízo da 73ª Vara do Trabalho de São Paulo/SP, tendo por suscitado o Juízo de Direito da 25ª Vara Cível de São Paulo/SP, em ação declaratória de inexistência de débito cumulada com repetição de indébito e indenização por danos morais, em razão de descontos indevidos no benefício previdenciário da requerente.
+II. Questão em discussão
+2. A questão em discussão consiste em determinar qual o juízo competente para processar e julgar a ação, considerando que a controvérsia não decorre de relação de trabalho, nem de representatividade sindical, mas sim de matéria de cunho civil.
+III. Razões de decidir
+3. A competência se fixa em razão da causa de pedir e do pedido formulado na inicial, que, no caso, referem-se a matéria de cunho civil, não havendo controvérsia sobre relação trabalhista.
+4. O Superior Tribunal de Justiça tem entendimento consolidado de que ações que envolvem a inexistência de relação jurídica entre as partes e pedidos de repetição de indébito são de competência da Justiça Comum.
+IV. Dispositivo
+5. Conflito conhecido para declarar competente o Juízo de Direito da 25ª Vara Cível de São Paulo/SP para processar e julgar a demanda de origem.
+(CC n. 212.053/SP, relatora Ministra Daniela Teixeira, Segunda Seção, julgado em 10/9/2025, DJEN de 15/9/2025, grifo meu.)
+Em casos análogos, confiram-se os seguintes julgados: CC n. 217.331, Ministra Maria Isabel Gallotti, DJEN de 20/02/2026; CC n. 210.347, Ministro Raul Araújo, DJEN de 17/11/2025; CC n. 215.430, Ministra Maria Isabel Gallotti, DJEN de 25/9/2025; CC n. 214.148, Ministro Moura Ribeiro, DJEN de 8/9/2025; CC n. 213.452, Ministro João Otávio de Noronha, DJEN de 18/6/2025.
+Ante o exposto, conheço do conflito e declaro competente o JUÍZO DE DIREITO DA 3A VARA DE CEARÁ MIRIM - RN.
+Comunique-se  o  teor  da  presente  decisão  aos  juízos  suscitado  e  suscitante.
+Publique-se.  Intimem-se.
+EMENTA
