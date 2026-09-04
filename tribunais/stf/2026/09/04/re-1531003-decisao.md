@@ -1,0 +1,75 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO. CIVIL. LOTEAMENTO: COBRANÇA DE TAXAS ASSOCIATIVAS. TEMA 492 DA REPERCUSSÃO GERAL. CONDIÇÃO DE ASSOCIADA: QUESTÃO SUPERADA NA ORIGEM E DIRIMIDA COM FUNDAMENTO NA LEGISLAÇÃO INFRACONSTITUCIONAL E NO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. ALEGADA CONTRARIEDADE AO PRINCÍPIO DA LEGALIDADE: SÚMULA N. 636 DESTE SUPREMO TRIBUNAL. DESCABIMENTO DO RECURSO EXTRAORDINÁRIO PELA AL. C DO INC. III DO ART. 102 DA CONSTITUIÇÃO DA REPÚBLICA. RECURSO EXTRAORDINÁRIO NÃO CONHECIDO.
+Relatório
+1. Recurso extraordinário interposto, com base nas als. a e c do inc. III do art. 102 da Constituição da República, contra o seguinte julgado da Quarta Câmara de Direito Privado do Tribunal de Justiça de São Paulo:
+
+“APELAÇÃO - COBRANÇA DE TAXA DE CONSERVAÇÃO E FUNDO DE MELHORAMENTOS - sentença de procedência mantida - inaplicabilidade dos temas 882 do C. STJ e 492 do C. STF - Tese de inexigibilidade da cobrança por ser proprietária de lote, adquirido antes da Lei 13.465/2017, e que não aderiu ao ato constitutivo da Associação - Empreendimento registrado em março de 2.018 - Associação foi criada pela loteadora para esse fim, com a ata de fundação presidida pelo sócio controlador - Loteadora que tem, mais do que qualquer outro, interesse na prestação dos serviços da associação recusa ao pagamento que se aproxima, em muito, à má-fé na relação contratual - Exigibilidade confirmada diante das peculiaridades do caso concreto - cobrança devida precedentes recurso improvido” (fl. 22, e-doc. 99).
+
+Os embargos declaratórios opostos pela recorrida foram acolhidos, nos termos da seguinte ementa:
+“EMBARGOS DE DECLARAÇÃO. Embargante aponta a existência de vício no aresto em comento. Contradição. Ocorrência. Acórdão que negou provimento ao recurso de apelação. Descabida a reversão do ônus sucumbencial. Honorários sucumbenciais que devem ser majorados. Prequestionamento anotado. EMBARGOS ACOLHIDOS” (fl. 2, e-doc. 109).
+
+Os embargos declaratórios opostos pela recorrente foram rejeitados (e-doc. 112).
+
+2. A recorrente alega ter o Tribunal de origem contrariado os incs. II, XVII e XX do art. 5º da Constituição da República.
+
+Assevera “completa ausência de distinção fática entre o caso em tela e o julgamento vinculante do Tema nº 492/STF” (fl. 11, e-doc. 119).
+Sustenta que, “se a Recorrente é proprietária do lote sobre o qual se pretende exigir as taxas de manutenção e conservação muito antes de 2017, quando ocorreu o advento da Lei nº 13.465, é certo que, independentemente do modo como adquiriu a propriedade sobre o aludido imóvel, deve ser julgada de acordo com o precedente enunciado no Tema 492/STF, sob pena de violação direta do princípio da isonomia” (fl. 12, e-doc. 119).
+
+Argumenta que, “para o cenário delineado no presente Recurso Extraordinário, envolvendo a propriedade do lote que geraria a cobrança pretendida pela Recorrida, o advento da Lei nº 13.465/2017 é irrelevante, na medida em que a propriedade do lote em questão exercida pela Recorrente é muito anterior à referida norma legal, assim como o é com relação a própria implantação do loteamento, na medida em que ela já possuía a propriedade da gleba de terra loteada, razão pela qual prevalece a literalidade do inciso XX, do artigo 5º, da Carta Magna, isto é, o livre exercício do direito de se associar e de se desassociar” (fl. 14, e-doc. 119).
+
+Assevera que, “apesar de ser a loteadora do Residencial em comento, já era proprietária da gleba e dos lotes antes mesmo da constituição da referida Associação e também do advento da Lei nº 13.465/217 – repita-se –, razão pela qual a mera participação em assembleia que houve a constituição da Associação não enseja a vinculação automática, uma vez que inexiste adesão expressa e sequer o registro da Associação na matrícula do imóvel e no Cartório de Registro de Imóveis” (fl. 19, e-doc. 119).
+
+Pede “seja o presente Recurso Extraordinário admitido e provido, afastando-se o v. Acórdão a quo, que decidiu causa em última instância, pois contrariou dispositivos da Constituição Federal (incisos II, XVII e XX, todos do seu artigo 5º), nos moldes da orientação fixada no RE nº 695.911/SP (Tema 492), para julgar improcedentes os pedidos formulados pela Recorrida na petição inicial” (fl. 20, e-doc. 119).
+
+3. Em juízo de retratação do Tema 492 da repercussão geral, o Tribunal de origem manteve o acórdão recorrido, em julgado com a seguinte ementa:
+“APELAÇÃO – COBRANÇA DE TAXA DE CONSERVAÇÃO E FUNDO DE MELHORAMENTOS – Reapreciação do recurso de apelação por determinação da Egrégia Presidência deste Tribunal de Justiça em observância ao REsp nº 695911/SP conforme art. 1.030, II do CPC. – Sentença de procedência mantida – inaplicabilidade dos temas 882 do C. STJ e 492 do C. STF – Tese de inexigibilidade da cobrança por ser proprietária de lote, adquirido antes da Lei 13.465/2017, e que não aderiu ao ato constitutivo da Associação – Empreendimento registrado em março de 2018 – Associação foi criada pela loteadora para esse fim, com a ata de fundação presidida pelo sócio controlador – Loteadora que tem, mais do que qualquer outro, interesse na prestação dos serviços da associação recusa ao pagamento que se aproxima, em muito, à má-fé na relação contratual – Exigibilidade confirmada diante das peculiaridades do caso concreto – Cobrança devida – Precedentes – Recurso improvido” (fl. 2, e-doc. 190).
+
+Apreciada a matéria trazida na espécie, DECIDO.
+
+4. Razão jurídica não assiste à recorrente.
+
+5. No julgamento do Recurso Extraordinário n. 695.911, Tema 492 da repercussão geral, Relator o Ministro Dias Toffoli, este Supremo Tribunal firmou a seguinte tese:
+“É inconstitucional a cobrança por parte de associação de taxa de manutenção e conservação de loteamento imobiliário urbano de proprietário não associado até o advento da Lei n. 13.465/17, ou de anterior lei municipal que discipline a questão, a partir da qual se torna possível a cotização dos proprietários de imóveis, titulares de direitos ou moradores em loteamentos de acesso controlado, que i) já possuindo lote, adiram ao ato constitutivo das entidades equiparadas a administradoras de imóveis ou (ii) sendo novos adquirentes de lotes, o ato constitutivo da obrigação esteja registrado no competente Registro de Imóveis” (DJe 19.4.2021).
+
+ Na espécie vertente, a controvérsia foi dirimida, no acórdão recorrido, com fundamento nos elementos de prova juntados aos autos. Descabido cogitar-se de divergência entre o acórdão recorrido e a tese firmada pelo Supremo Tribunal Federal no julgamento do Tema 492 da repercussão geral, consideradas peculiaridades da controvérsia trazida a exame, como afirmado na origem.
+
+Impossível rever, em recurso extraordinário, a conclusão do Tribunal de origem no sentido de que “teria ocorrido anuência tácita com a cobrança de taxa associativa na medida em que o loteamento fechado foi constituído em sua propriedade, tendo concordado com a criação de associação com infraestrutura e serviços prestados, e, por consequência, a cobrança da taxa associativa de manutenção (...) mais do que isso, o representante legal da Ré/Apelante, senhor Mauro Cezar de Camargo é o presidente da assembleia que instituiu a associação e presidente da própria associação (fls. 235/241), o que implica. Logo, é de se concluir que se esquivar do pagamento de mensalidade da qual instituiu e inclusive fomenta as vendas dos lotes, em muito se aproxima da má-fé na relação contratual” (fl. 6, e-doc. 99).
+
+Reavaliar o que assentado pelo Tribunal de origem demandaria o reexame da matéria fático-probatória e da legislação infraconstitucional aplicável ao processo, procedimento inadmissível nesta fase recursal. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal. Assim, por exemplo:
+“EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. CONVERSÃO EM AGRAVO REGIMENTAL. CIVIL. LOTEAMENTO: COBRANÇA DE TAXAS ASSOCIATIVAS. TEMA 492 DA REPERCUSSÃO GERAL. QUALIDADE DE ASSOCIADA: QUESTÃO SUPERADA NA ORIGEM E DIRIMIDA COM BASE NA LEGISLAÇÃO INFRACONSTITUCIONAL E NO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. ALEGADA CONTRARIEDADE AO PRINCÍPIO DA LEGALIDADE: SÚMULA N. 636 DESTE SUPREMO TRIBUNAL. DECISÃO AGRAVADA MANTIDA. AGRAVO REGIMENTAL NÃO CONHECIDO, COM DETERMINAÇÃO DE CERTIFICAÇÃO DO TRÂNSITO EM JULGADO E BAIXA IMEDIATA DO PROCESSO À ORIGEM, INDEPENDENTE DA PUBLICAÇÃO DO ACÓRDÃO” (RE n. 1.553.130-ED, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJe 21.10.2025).
+
+“AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. CONDIÇÕES RESTRITIVAS CONSTANTES NA MATRÍCULA DO IMÓVEL. OBRIGAÇÃO DE CUSTEIO RELATIVO À PRESTAÇÃO DE SERVIÇOS. INAPLICABILIDADE DO TEMA 492 DA REPERCUSSÃO GERAL. REEXAME DE FATOS. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL.
+1. Para concluir de forma diversa ao entendimento formulado no acórdão recorrido, seria necessário rever o quadro fático dos autos, o que é vedado em sede extraordinária pela Súmula 279 (Para simples reexame de prova não cabe recurso extraordinário) do STF.
+2. Agravo Interno a que se nega provimento” (RE n. 1.498.478-AgR, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 28.8.2024).
+
+“AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. DIREITO CIVIL. COBRANÇA DE TAXA DE MANUTENÇÃO, CONSERVAÇÃO E SEGURANÇA. LOTEAMENTO. ASSOCIAÇÃO DE MORADORES. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. 1. É inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos. Incidência da Súmula 279 do STF.
+2. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita” (RE n. 1.336.620-AgR, Relator o Ministro Luiz Fux, Plenário, DJe 1º.10.2021).
+
+“Agravo regimental em recurso extraordinário. 2. Direito Civil. Loteamento imobiliário urbano. Taxas ou encargos cobrados em função dos serviços prestados por associação. Tema 492 da repercussão geral. 3. Requisitos para a cobrança. 4. Hipótese em que divergir do acórdão recorrido demandaria o revolvimento do acervo probatório, providência vedada pela Súmula 279 do STF. Precedentes.
+5. Ausência de impugnação específica dos fundamentos da decisão agravada. Deficiência na fundamentação do agravo regimental. Súmula 284 do STF. 6. Agravo regimental não provido” (RE
+n. 1.433.627-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 12.9.2023).
+
+Confiram-se também, por exemplo, decisões monocráticas proferidas em casos semelhantes ao presente: RE n. 1.336.042, Relatora a Ministra Cármen Lúcia, DJe 1º.6.2026, e RE n. 1.606.951, Relator o Ministro Luiz Fux, DJe 12.8.2026.
+
+6. A alegada ofensa ao princípio da legalidade, previsto no inc. II do art. 5º da Constituição da República, quando dependente de análise prévia de legislação infraconstitucional, esbarra no óbice da Súmula
+n. 636 do Supremo Tribunal Federal, pela qual se dispõe não caber “recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”. Neste sentido, por exemplo:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. TAXA DE UTILIZAÇÃO DO SISTEMA INTEGRADO DE COMÉRCIO EXTERIOR - SISCOMEX. LEGITIMIDADE DA COBRANÇA. PRECEDENTES. LEI N. 9.716/1998. SUJEITO PASSIVO DA OBRIGAÇÃO TRIBUTÁRIA: VALIDADE JURÍDICA. ALEGADA CONTRARIEDADE AO PRINCÍPIO DA LEGALIDADE TRIBUTÁRIA: SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. ÓBICES JURÍDICOS IMPEDITIVOS DA ADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. DECISÃO AGRAVADA MANTIDA. AGRAVO REGIMENTAL NÃO CONHECIDO, COM DETERMINAÇÃO DE CERTIFICAÇÃO DO TRÂNSITO EM JULGADO E BAIXA IMEDIATA DO PROCESSO À ORIGEM, INDEPENDENTE DA PUBLICAÇÃO DO ACÓRDÃO” (ARE n. 1.573.623-AgR, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJe 3.3.2026).
+
+“DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PRESCRIÇÃO. AUSÊNCIA DE OFENSA AO
+ART. 93, IX, DA CONSTITUIÇÃO. AÇÃO RESCISÓRIA. VIOLAÇÃO AO PRINCÍPIO DA LEGALIDADE. SÚMULA 636/STF. 1. A jurisprudência do Supremo Tribunal Federal afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional sem que se discuta o seu sentido à luz da Constituição. Em se tratando especificamente de supostas ofensas ao princípio da legalidade, o que se pode discutir nesta sede, em linha de princípio, é o eventual descumprimento da própria reserva legal, ou seja, da exigência de que determinada matéria seja disciplinada por lei e não por ato secundário. Não é disso que se trata nos autos. A hipótese, portanto, atrai a incidência da súmula 636/STF. 2. O acórdão recorrido está devidamente fundamentado, embora em sentido contrário aos interesses da parte agravante. 3. A solução da controvérsia demanda a reapreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), o que é inviável nesta fase recursal. 4. Agravo regimental a que se nega provimento” (ARE n. 887.644-AgR, Relator o Ministro Luís Roberto Barroso, Primeira Turma, DJe 7.8.2015).
+
+7. Inviável o recurso extraordinário pela al. c do inc. III do art. 102 da Constituição da República, pois o Tribunal de origem não julgou válidos lei ou ato de governo local contestados em face da Constituição da República. Incide na espécie a Súmula n. 284 do Supremo Tribunal Federal (ARE n. 1.518.751-AgR, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJe 9.12.2024; ARE n. 1.556.740-AgR, Relator o Ministro Luís Roberto Barroso, Plenário, DJe 2.9.2025; e RE n. 1.430.536-AgR, Relator o Ministro Cristiano Zanin, Primeira Turma, DJe 15.5.2024).
+
+Comprovados os óbices jurídicos impeditivos da admissibilidade do recurso, nada há a prover em relação às alegações da recorrente.
+
+8. Pelo exposto, não conheço do recurso extraordinário (inc. III do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal) e condeno a parte sucumbente, nesta instância recursal, ao pagamento de honorários advocatícios majorados em 10%, percentual que se soma ao fixado na origem, obedecidos os limites dos §§ 2º, 3º e 11 do art. 85 do Código de Processo Civil.
+
+Eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional.
+
+Publique-se.
+
+Brasília, 4 de setembro de 2026.
+
+Ministra CÁRMEN LÚCIA
+Relatora
