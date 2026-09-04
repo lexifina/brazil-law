@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de HIGOR HENRIQUE VIEIRA DE SOUSA contra acórdão do Tribunal de Justiça do Estado de São Paulo que rejeitou a preliminar de nulidade e deu parcial provimento à Apelação Criminal defensiva n. 1500362-96.2026.8.26.0395, readequando a dosimetria.
+A defesa sustenta a nulidade do ingresso domiciliar, por ausência de fundadas razões prévias à diligência e de comprovação do consentimento do morador, bem como a ilicitude das provas obtidas e delas derivadas, com a consequente absolvição.
+Subsidiariamente, requer a desclassificação da conduta para o art. 28 da Lei n. 11.343/2006 e o afastamento da majorante prevista no art. 40, III, do mesmo diploma, ao argumento de que a aferição da distância foi realizada a partir de local diverso daquele em que ocorreu a consumação do delito.
+Em liminar, pleiteia a soltura ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão. No mérito, requer o reconhecimento da ilicitude do ingresso domiciliar, o desentranhamento das provas e a absolvição ou, sucessivamente, a desclassificação para o art. 28 e o afastamento da majorante do art. 40, III.
+É o relatório.
+Quanto à alegada nulidade do ingresso domiciliar e das provas dele decorrentes, o acórdão impugnado consignou que, após denúncia anônima, os policiais militares passaram a monitorar o paciente e observaram sua entrada e saída reiterada do imóvel, seguida de deslocamentos ao local indicado como ponto de comercialização de entorpecentes. Registrou, ainda, que a denúncia apontava a residência do avô como local destinado ao armazenamento das drogas. Diante dessas circunstâncias, a Corte estadual reputou legítimo o ingresso no imóvel, conclusão que não evidencia, de plano, constrangimento ilegal manifesto.
+A corroborar: AgRg no HC n. 1.079.709/PB, relator Ministro Og Fernandes, Sexta Turma, julgado em 24/6/2026, DJEN de 2/7/2026.
+No que diz respeito à desclassificação da conduta, as instâncias ordinárias reconheceram a autoria e a materialidade com fundamento na apreensão de entorpecentes e dinheiro, além dos depoimentos dos policiais militares, considerados coerentes e merecedores de credibilidade (fl. 145). A pretensão defensiva, nesse ponto, pressupõe a revisão das premissas fáticas estabelecidas pelas instâncias ordinárias, providência incompatível com a via estreita do habeas corpus.
+No mesmo sentido: AgRg no AREsp n. 3.269.388/RN, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/8/2026, DJEN de 27/8/2026.
+Quanto às demais alegações, nos moldes apresentados pela defesa, não houve pronunciamento da Corte de origem, de modo que seu exame direto por esta Corte Superior configuraria indevida supressão de instância, não se verificando, ademais, ilegalidade manifesta que justifique a concessão da ordem de ofício.
+Ante o exposto, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE DO INGRESSO DOMICILIAR. FUNDADAS RAZÕES E CONSENTIMENTO. ILICITUDE DAS PROVAS. DESCLASSIFICAÇÃO PARA O ART. 28 DA LEI N. 11.343/2006. REVOLVIMENTO FÁTICO-PROBATÓRIO. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
