@@ -1,0 +1,1 @@
+Art. 208-I. O trâmite e o julgamento do processo administrativo fiscal poderão ser diferenciados em função do valor do crédito tributário discutido, do indébito pleiteado pelo sujeito passivo ou do porte da pessoa jurídica, nos termos da legislação específica.

@@ -1,0 +1,1 @@
+Art. 199-A. As Fazendas Públicas da União, dos Estados, do Distrito Federal e dos Municípios poderão estabelecer entre si, mediante convênio, o compartilhamento das atividades de fiscalização, lançamento e cobrança de tributos e de sua estrutura destinada ao processo administrativo fiscal, com vistas à otimização do exercício de sua capacidade tributária.
