@@ -1,0 +1,1 @@
+Art. 171-B. Lei estabelecerá os critérios e as condições para a mediação de controvérsias tributárias e aduaneiras, a ser exercida por terceiro sem poder decisório, que, escolhido ou aceito pelas partes, as auxiliará e as estimulará na identificação ou na construção de soluções consensuais.
