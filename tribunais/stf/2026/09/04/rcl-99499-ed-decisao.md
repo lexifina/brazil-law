@@ -1,0 +1,37 @@
+DECISÃO:
+Vistos.
+Trata-se de embargos de declaração opostos por João Fábio Bento Lima contra decisão mediante a qual neguei seguimento a presente reclamação com base na jurisprudência dessa Corte e por entender não haver aderência estrita entre o ato reclamado e o parâmetro de controle invocado na Súmula Vinculante nº 14 (e-doc. 5).
+Inicialmente, a parte atribuiu valor à causa e alega, em síntese, que a decisão incorreu em omissão quanto ao pedido de
+“acesso aos elementos de prova já produzidos, concluídos, formalizados e documentados no procedimento investigatório, especialmente aqueles que já foram utilizados para fundamentar a representação policial pela prisão preventiva, a manifestação do Ministério Público e a decisão judicial que decretou a segregação cautelar.”
+Requer, ao fim,
+“o conhecimento e acolhimento dos presentes Embargos de Declaração, para que seja suprida a omissão apontada e expressamente esclarecido que o pedido defensivo não abrange diligências pendentes, em andamento ou ainda não documentadas, para o fim de ser reconhecido que o objeto da Reclamação se limita aos elementos de prova já produzidos, concluídos, formalizados e documentados, especialmente aqueles utilizados para fundamentar a representação policial pela prisão preventiva, a manifestação ministerial e a decisão judicial que decretou a custódia cautelar.” (e-doc. 7)
+É o relatório do essencial. Decido.
+Anoto, inicialmente, que o embargante cumpriu a determinação de indicação do valor da causa, razão pela qual passo a apreciar a postulação recursal.
+Destaco que os embargos declaratórios constituem remédio processual para sanar vícios de omissão, contradição, obscuridade ou erro material na decisão embargada (art. 1.022 do CPC).
+A omissão, a contradição ou a obscuridade, para efeitos de interposição de embargos de declaração, há de ser interna ao decisum, o que não ocorre em relação à decisão embargada.
+A decisão foi explícita ao assentar que o óbice de acesso  integral aos documentos encartados nos autos decorre da  existência de diligências em curso, uma vez que a publicidade dos atos pode comprometer o resultado útil da investigação ante sua natureza sigilosa.
+Nesse sentido, verificou-se a ausência de aderência estrita ao enunciado indicado na Súmula Vinculante nº 14.
+Transcrevo decisão embargada na parte de interesse (e-doc. 16):
+“A parte reclamante alega não ter conseguido acesso a qualquer elemento de prova, fato que impediria que a defesa constituída pudesse exercer sua função, violando o direito à ampla defesa e o pleno exercício do contraditório técnico.
+Todavia, colhe-se da documentação que instrui a exordial que o processo ainda tramita sob regime de sigilo e que a investigação permanece em curso, com diligências ainda pendentes, conforme expressamente consignado na decisão ora reclamada:
+“Considerando a natureza da investigação e o sigilo necessário para o seu sucesso, é caso, por ora, de não acolhimento do pleito, uma vez que existem medidas em curso ainda pendentes de cumprimento, inexistindo ato concluído já documentado em relação a todas aquelas que já foram determinadas.
+Destarte, pela peculiaridade do caso, pode-se concluir que a inobservância do  sigilo neste momento implicaria prejuízo ao deslinde do caso e ao sucesso da investigação  policial.
+Nesse sentido, inclusive, é o quanto disposto no §11, do art. 7º, da Lei  8.096/94, o qual prevê que o acesso do advogado aos autos poderá ser delimitado em casos  em que existem diligências em andamento e ainda não documentadas nas hipóteses em que houver risco de comprometimento da eficiência, da eficácia ou da finalidade das diligências, sendo esta a hipótese deste feito.
+Inaplicável, portanto, no caso em exame, o preceito sumular constante da Súmula Vinculante nº 14, eis que, conforme entendimento pacífico do próprio Pretório Excelso, o termo 'elementos de prova já documentados da súmula vinculante n. 14 se refere, como bem dito pelo MPF, àqueles que já estão formalizados, ou seja, que não são informações concernentes à decretação e à realização de diligências investigatórias, sem que possa existir prejuízo para as diligências pendentes (STF RCL 16804/RS Rel. Min. Roberto Barroso j. 24.09.2014 p. 30.09.2014/DJe-190).
+Na mesmo linha: STF HC 87725/DF Rel. Min. Celso de Mello j. 18.12.2006 p. 02.02.2007, e também STJ HC 311298/DF Rel. Min. Sebastião Reis Junior j. 06.04.2015 p. 08.04.2015.
+Ante o exposto, INDEFIRO, por ora, o pedido de vista.
+Logo, o quadro documental permite concluir que, ao contrário do alegado, não há violação à Súmula Vinculante nº 14, mormente porque “as diligências em andamento não estão contempladas pelo teor da Súmula Vinculante 14” (Rcl 22.062-AgR/SP, Rel. Min. Roberto Barroso, Primeira Turma, DJe 20/5/2016)” (e-doc. 5)
+Como visto, a decisão embargada não incorreu em qualquer vício a justificar a oposição de embargos de declaração, já que decidiu o caso nos limites necessários ao seu deslinde.
+Ressalte-se, ademais, que não é dever do julgador rebater todos os argumentos apresentados pela parte, mas somente aqueles capazes de afastar a conclusão adotada na decisão, o que não é o caso do fundamento referido.
+Com efeito, o pleito deduzido nos embargos ora em análise, em sua literalidade, é absolutamente impertinente ao deslinde da controvérsia solucionada. No caso, é evidente que a pretensão do embargante é provocar a rediscussão da causa, fim para o qual não se presta o presente recurso.
+Cito os seguintes precedentes:
+“EMBARGOS DE DECLARAÇÃO EM AÇÃO DIRETA DE INCONSTITUCIONALIDADE. AUSÊNCIA DE CONTRADIÇÃO, OMISSÃO OU OBSCURIDADE. REJEIÇÃO. 1. Ausente contradição, omissão ou obscuridade justificadora da oposição de embargos declaratórios, a evidenciar o caráter meramente infringente da insurgência. 2. Embargos de declaração rejeitados” (ADI nº 5.785-AgR-ED, Rel. Min. Rosa Weber, Tribunal Pleno, DJe de 18/1/21).
+“EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE OBSCURIDADE, CONTRADIÇÃO, OMISSÃO OU ERRO MATERIAL. 1. Não havendo ambiguidade, omissão, contradição, obscuridade ou erro material, impõe-se a rejeição dos embargos de declaração. 2. Embargos de declaração conhecidos e rejeitados” (ARE nº 1.153.306-AgR-ED, Rel. Min. Nunes Marques, Segunda Turma, DJe de 22/11/21).
+“RECLAMAÇÃO. INADEQUAÇÃO DO PARADIGMA INVOCADO. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE OMISSÃO. CARÁTER PROTELATÓRIO. REJEIÇÃO. 1. Os embargos de declaração não constituem meio hábil para reforma do julgado, sendo cabíveis somente quando houver no acórdão omissão, contradição, obscuridade ou erro material. 2. A ausência de manifestação do Colegiado sobre ponto que não se constitui matéria sobre a qual necessariamente deveria o órgão julgador se manifestar não viabiliza processamento dos embargos de declaração fundados em omissão. 3. Os embargos de declaração não se prestam à rediscussão do que assentado no julgado em decorrência de inconformismo da parte embargante, revelando-se protelatórios os embargos que, lastreados em pretensão meramente infringente, despreza o teor da fundamentação constante do acórdão embargado. 4. Embargos de declaração rejeitados” (Rcl nº 55.968-ED-AgR-ED, Rel. Min. Edson Fachin, Segunda Turma, DJe de 6/3/23).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Brasília, 4 de setembro de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
