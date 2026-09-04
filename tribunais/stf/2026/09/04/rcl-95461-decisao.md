@@ -1,0 +1,78 @@
+DECISÃO: Trata-se de reclamação constitucional, com pedido liminar, ajuizada por Jovanildo Chruscinski em face de acórdão prolatado pelo Tribunal Regional Federal da 4ª Região, nos autos do Processo nº 5047168-36.2025.4.04.7000.
+O reclamante sustenta que, ao manter a negativa de fornecimento dos fármacos Epcoritamabe e Tocilizumabe para tratamento de Linfoma Não Hodgkin Folicular recidivado e refratário, o Tribunal reclamado teria inobservado a jurisprudência desta Corte firmada nos Temas 6 e 1.234 da repercussão geral, cujas teses foram sintetizadas nas Súmulas Vinculantes 60 e 61.
+Afirma que o acórdão reclamado manteve a improcedência da ação com fundamento na ausência de evidências científicas de alto nível para o medicamento pleiteado, a despeito da publicação de ensaio clínico de fase 3 denominado EPCORE FL-1, randomizado, controlado, multicêntrico e internacional, favorável à sua utilização.
+Considera, ainda, que o acórdão reclamado acrescentou o custo-efetividade como critério para negar o fornecimento do medicamento, em que pese tal requisito não tenha sido previsto no julgamento dos paradigmas.
+Por fim, afirma que o acórdão reclamado deixou de ponderar sobre a ausência de pedido de incorporação do medicamento junto à Conitec e considera que a demanda por “estudos de fase 3 com desfechos de sobrevida global nessa categoria de neoplasia demandam décadas de seguimento para maturação dos dados” (eDOC 1, p. 7), sendo desproporcional a cobrança por padrão de evidência superior ao adotado por renomadas agências reguladoras estatais.
+Requer a concessão de liminar para que seja determinado o imediato fornecimento dos fármacos pleiteados em favor do reclamante. No mérito, pleiteia que a reclamação seja julgada procedente, para determinar que outro acórdão seja prolatado com a devida consideração dos fatos científicos supervenientes. Pugna, ao final, pela concessão do benefício da justiça gratuita.
+É o relatório. Decido.
+Inicialmente, dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (RISTF, art. 52, parágrafo único).
+Superada a questão, rememoro que a reclamação, tal como prevista no artigo 102, I, “l”, da Constituição e regulada nos artigos 988 a 993 do Código de Processo Civil e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, tem cabimento para preservar a competência do tribunal ou garantir a autoridade das suas decisões, bem como contra ato administrativo ou decisão judicial que contrarie súmula vinculante (CF/88, art. 103-A, § 3º).
+Conforme relatado, alega-se a inobservância da jurisprudência desta Corte firmada nos Temas 6 e 1.234 da repercussão geral, cujas teses foram sintetizadas nas Súmulas Vinculantes 60 e 61, a seguir transcritos:
+
+Súmula vinculante n. 60
+“O pedido e a análise administrativos de fármacos na rede pública de saúde, a judicialização do caso, bem ainda seus desdobramentos (administrativos e jurisdicionais), devem observar os termos dos 3 (três) acordos interfederativos (e seus fluxos) homologados pelo Supremo Tribunal Federal, em governança judicial colaborativa, no tema 1.234 da sistemática da repercussão geral (RE 1.366.243).”
+
+Súmula vinculante n. 61
+“A concessão judicial de medicamento registrado na ANVISA, mas não incorporado às listas de dispensação do Sistema Único de Saúde, deve observar as teses firmadas no julgamento do Tema 6 da Repercussão Geral (RE 566.471)”.
+
+Tema 6
+“1. A ausência de inclusão de medicamento nas listas de dispensação do Sistema Único de Saúde - SUS (RENAME, RESME, REMUME, entre outras) impede, como regra geral, o fornecimento do fármaco por decisão judicial, independentemente do custo.
+2. É possível, excepcionalmente, a concessão judicial de medicamento registrado na ANVISA, mas não incorporado às listas de dispensação do Sistema Único de Saúde, desde que preenchidos, cumulativamente, os seguintes requisitos, cujo ônus probatório incumbe ao autor da ação:
+(a) negativa de fornecimento do medicamento na via administrativa, nos termos do item '4' do Tema 1234 da repercussão geral;
+(b) ilegalidade do ato de não incorporação do medicamento pela Conitec, ausência de pedido de incorporação ou da mora na sua apreciação, tendo em vista os prazos e critérios previstos nos artigos 19-Q e 19-R da Lei nº 8.080/1990 e no Decreto nº 7.646/2011;
+(c) impossibilidade de substituição por outro medicamento constante das listas do SUS e dos protocolos clínicos e diretrizes terapêuticas;
+(d) comprovação, à luz da medicina baseada em evidências, da eficácia, acurácia, efetividade e segurança do fármaco, necessariamente respaldadas por evidências científicas de alto nível, ou seja, unicamente ensaios clínicos randomizados e revisão sistemática ou meta-análise;
+(e) imprescindibilidade clínica do tratamento, comprovada mediante laudo médico fundamentado, descrevendo inclusive qual o tratamento já realizado; e
+(f) incapacidade financeira de arcar com o custeio do medicamento.
+3. Sob pena de nulidade da decisão judicial, nos termos do artigo 489, § 1º, incisos V e VI, e artigo 927, inciso III, § 1º, ambos do Código de Processo Civil, o Poder Judiciário, ao apreciar pedido de concessão de medicamentos não incorporados, deverá obrigatoriamente:
+(a) analisar o ato administrativo comissivo ou omissivo de não incorporação pela Conitec ou da negativa de fornecimento da via administrativa, à luz das circunstâncias do caso concreto e da legislação de regência, especialmente a política pública do SUS, não sendo possível a incursão no mérito do ato administrativo;
+(b) aferir a presença dos requisitos de dispensação do medicamento, previstos no item 2, a partir da prévia consulta ao Núcleo de Apoio Técnico do Poder Judiciário (NATJUS), sempre que disponível na respectiva jurisdição, ou a entes ou pessoas com expertise técnica na área, não podendo fundamentar a sua decisão unicamente em prescrição, relatório ou laudo médico juntado aos autos pelo autor da ação; e
+(c) no caso de deferimento judicial do fármaco, oficiar aos órgãos competentes para avaliarem a possibilidade de sua incorporação no âmbito do SUS”.
+
+Tema 1234
+“[...]
+IV – Análise judicial do ato administrativo de indeferimento de medicamento pelo SUS
+4) Sob pena de nulidade do ato jurisdicional (art. 489, § 1º, V e VI, c/c art. 927, III, §1º, ambos do CPC), o Poder Judiciário, ao apreciar pedido de concessão de medicamentos não incorporados, deverá obrigatoriamente analisar o ato administrativo comissivo ou omissivo da não incorporação pela Conitec e da negativa de fornecimento na via administrativa, tal como acordado entre os Entes Federativos em autocomposição no Supremo Tribunal Federal.
+4.1) No exercício do controle de legalidade, o Poder Judiciário não pode substituir a vontade do administrador, mas tão somente verificar se o ato administrativo específico daquele caso concreto está em conformidade com as balizas presentes na Constituição Federal, na legislação de regência e na política pública no SUS.
+4.2) A análise jurisdicional do ato administrativo que indefere o fornecimento de medicamento não incorporado restringe-se ao exame da regularidade do procedimento e da legalidade do ato de não incorporação e do ato administrativo questionado, à luz do controle de legalidade e da teoria dos motivos determinantes, não sendo possível incursão no mérito administrativo, ressalvada a cognição do ato administrativo discricionário, o qual se vincula à existência, à veracidade e à legitimidade dos motivos apontados como fundamentos para a sua adoção, a sujeitar o ente público aos seus termos.
+4.3) Tratando-se de medicamento não incorporado, é do autor da ação o ônus de demonstrar, com fundamento na Medicina Baseada em Evidências, a segurança e a eficácia do fármaco, bem como a inexistência de substituto terapêutico incorporado pelo SUS.
+4.4) Conforme decisão da STA 175-AgR, não basta a simples alegação de necessidade do medicamento, mesmo que acompanhada de relatório médico, sendo necessária a demonstração de que a opinião do profissional encontra respaldo em evidências científicas de alto nível, ou seja, unicamente ensaios clínicos randomizados, revisão sistemática ou meta-análise. [...]”
+
+Pois bem.
+Não se ignora a urgência e sensibilidade desses casos em que a parte recorre ao Poder Judiciário a fim de requerer a concessão de fármaco não fornecido no âmbito do Sistema Único de Saúde - SUS e que, muitas vezes, trata-se de medicamento que representa a única ou última esperança de cura ou alívio da enfermidade que lhe acomete.
+No entanto, em tais casos, e com vistas a viabilizar a própria manutenção das políticas públicas na área de saúde, faz-se necessário observar os critérios que, após longo debate com o Poder Público, foram estabelecidos por esta Suprema Corte no julgamento dos referidos precedentes vinculantes.
+Na hipótese, o TRF da 4ª Região manteve a sentença que julgou improcedente o pedido de fornecimento dos medicamentos Epcoritamabe e Tocilizumabe (eDOC 2, p. 47-56).
+Na oportunidade, concluiu-se pela ausência comprovação da eficácia, acurácia, efetividade e segurança do fármaco por evidências científicas de alto nível, já que o Epcoritamabe não atende a esse padrão de credibilidade e o Tocilizumabe não é um tratamento primário para o câncer.
+Verifica-se que os fármacos Epcoritamabe e Tocilizumabe possuem registro na Anvisa, mas não constam do elenco de medicamentos disponibilizados pelo Componente da Assistência Farmacêutica em Oncologia - AF-ONCO, já que não foram incorporados ao SUS.
+No ponto, cumpre salientar que até 2019, os medicamentos oncológicos não faziam parte da política de assistência farmacêutica do SUS. O sistema foi inicialmente organizado de modo que os medicamentos oncológicos fossem de livre prescrição, inseridos no âmbito da assistência oncológica prevista na (PNPCC) e vinculada aos estabelecimentos credenciados.
+Destarte, pelo modelo adotado da assistência oncológica no SUS, bastava que o medicamento antineoplásico tivesse registro na ANVISA, e fosse comercializado no Brasil, para que se qualificasse sua aquisição, prescrição e fornecimento aos pacientes, pelos hospitais habilitados em oncologia no SUS.1
+Entretanto, o Ministério da Saúde passou a incorporar alguns medicamentos oncológicos, mediante portaria, após avaliação em tecnologia e recomendação da CONITEC. Isso aconteceu com vários medicamentos oncológicos ao longo dos anos até que, em 2023, o Ministério da Saúde reformulou a política de assistência oncológica e estabeleceu, com a Lei 14.758/2023, a Política Nacional de Prevenção e Controle do Câncer no âmbito do Sistema Único de Saúde (SUS), a qual passou a prever o mesmo procedimento de avaliação, incorporação e dispensação de medicamentos da assistência farmacêutica do SUS para os medicamentos oncológicos.
+Assim, considerando a alteração da política oncológica e o contexto fático e normativo acima descrito, o tratamento jurídico a ser dado aos medicamentos oncológicos pleiteados anteriormente à Lei 14.758/2023, regulamentada pela Portaria nº 8.477, de 20.10.2025, perpassa pela verificação de que se encontram registrados na ANVISA e se enquadram numa das seguintes situações:
+
+(i) tenham portaria de incorporação expedida pelo Ministério da Saúde;
+(ii) embora não incorporados por portaria do Ministério da Saúde, tenham protocolo clínico e diretrizes terapêuticas expedidas pelo referido Ministério; ou
+(iii) sejam prescritos em conformidade com a bula (ou seja, com a finalidade terapêutica para o qual fora registrado pela ANVISA) e cujo tratamento seja de valor igual ou inferior ao previsto na APAC.
+
+Por sua vez, os medicamentos oncológicos solicitados com base na política do SUS posterior à vigência da Lei 14.758/2023 são considerados incorporados desde que listados no elenco de medicamentos disponibilizados pelo Componente da Assistência Farmacêutica em Oncologia - AF-ONCO, ou tenham sido “incorporados” após decisão da CONITEC e portaria de incorporação do Ministério da Saúde, desde que prescritos em conformidade com o PCDT ou com base no determinado pela incorporação da CONITEC.
+Retomando o caso dos autos, observo que os medicamentos pleiteados nos autos de origem não foram incorporados ao SUS e não constam do elenco de medicamentos oncológicos disponibilizados pelo AF-ONCO.
+Verifica-se, ainda, que o acórdão reclamado faz menção expressa ao fato de que os estudos apresentados para embasar a concessão dos medicamentos Epcoritamabe e Tocilizumabe para tratamento de Linfoma Não Hodgkin Folicular recidivado e refratário são de fase 2 e, nesse sentido, não atendem aos requisitos estabelecidos por esta Corte no julgamento dos Temas 6 e 1234 da repercussão geral.
+Com efeito, o laudo médico pericial produzido para o caso concreto corrobora tal assertiva:
+
+“h) Em caso positivo, está respaldado por ensaios clínicos randomizados e revisão sistemática ou meta-análise? Indicar. Explicar os desfechos analisados nos estudos, taxas de resposta, ganhos de sobrevida global e livre de progressão de doença, informando quantidade de meses, comparativos percentuais, etc.
+Resposta. Não. O estudo que embasou a medicação ainda é de fase II. Os desfechos foram comentados anteriormente. Esta informação está na bula do fármaco: [...]“ (eDOC 4, p. 233).
+
+Por outro lado, não merece prosperar a alegação deduzida pelo reclamante, no sentido de que o ensaio clínico de fase 3 denominado EPCORE FL-1 atende aos requisitos estabelecidos por esta Corte, no que concerne à comprovação de evidências científicas de alto nível.
+Isso porque o estudo de fase 3 denominado EPCORE FL-1, mencionado pelo reclamante, avaliou o uso do Epcoritamabe em combinação com Rituximabe e Lenalidomida para o tratamento de pacientes com linfoma folicular recidivado ou refratário, razão pela qual não se adequa ao caso concreto, em que se pleiteia o fornecimento de Epcoritamabe e Tocilizumabe (eDOC 2, p. 72-84).
+Por fim, cumpre salientar que apesar da evidente dificuldade de realização de estudos de alto nível para determinadas patologias, não se admite a flexibilização do requisito estabelecido por esta Corte relativamente à comprovação de evidências científicas robustas, uma vez que a concessão judicial de medicamentos não incorporados é medida excepcional, condicionada à demonstração cumulativa dos requisitos estabelecidos pelo Supremo Tribunal Federal, ônus do qual não se desincumbiu o reclamante.
+Dessa forma, considerando que os fundamentos utilizados no acórdão reclamado observam estritamente os precedentes vinculantes firmados no julgamento dos Temas 6 e 1.234 da repercussão geral, cujas teses foram sintetizadas nas Súmulas Vinculantes 60 e 61, não se constata violação aos mencionados paradigmas.
+Por fim, sublinho, à título de informação ao Reclamante, que o Núcleo de Terapia Avançada de Ribeirão Preto/SP (Nutera RP) possui centro de pesquisa no combate ao câncer com células CAR-T para pacientes com leucemia linfoide aguda de células B (LLA) ou linfoma não-Hodgkin de células B refratárias, com resultados superiores aos tratamentos convencionais. Note-se que, caso o paciente seja elegível para ingressar no Estudo Clínico em desenvolvimento, sua participação é gratuita, sem prejuízo do tratamento prescrito pelo médico que acompanha o paciente.2
+
+Ante o exposto, nego seguimento à reclamação (art. 21, § 1º, do RISTF). Resta prejudicado o pedido de liminar.
+Defiro o benefício da justiça gratuita.
+Intime-se pessoalmente o Reclamante sobre o conteúdo dessa decisão.
+Publique-se. Int..
+Brasília, 4 de setembro de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
