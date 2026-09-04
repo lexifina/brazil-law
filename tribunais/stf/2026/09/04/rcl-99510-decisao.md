@@ -1,0 +1,66 @@
+DECISÃO: Trata-se de reclamação constitucional, com pedido de medida liminar, ajuizada por CEMIG Distribuição S.A contra acórdão do Tribunal Regional do Trabalho da 3ª Região, nos autos do Processo n. 0011342-35.2017.5.03.0153.
+A parte reclamante alega, em síntese, o descumprimento da orientação firmada por esta Corte nos autos do julgamento do Tema 1046 da sistemática da repercussão geral.
+Para tanto, argumenta que a decisão reclamada desconsiderou as disposições constantes dos Acordos Coletivos de Trabalho (ACTs) firmados no âmbito da Cemig, os quais estabelecem limites orçamentários para a concessão de alterações salariais e condicionam a implementação das progressões funcionais à disponibilidade de recursos financeiros específicos, bem como à aferição do desempenho do empregado. Nesse contexto, afirma que o ato reclamado contrariou a tese firmada assentada no Tema 1.046 da Repercussão Geral, segundo a qual são constitucionais os acordos e as convenções coletivas que pactuam limitações ou afastamentos de direitos trabalhistas, desde que preservados os direitos absolutamente indisponíveis.
+Nesses termos, reforça que as ACTs preveem uma verba específica para alterações salariais, condicionando a concessão de progressões à liberação de recursos financeiros e que a distribuição integral dessa verba constitui um fato impeditivo para outras alterações individuais.
+Aduz, ainda, que “conforme previsão no Plano de Cargos e Salários, a concessão das alterações individuais de salários não são automáticas, tendo como condição sine qua non A LIBERAÇÃO DE RECURSOS FINANCEIROS ESPECÍFICOS PARA ESSA FINALIDADE” e que “conforme amplamente demonstrado nos autos não havia recursos financeiros para alcançar o reclamante, ainda assim, não obteve nota suficiente em várias avaliações de desempenho” (eDOC 1, p. 4).
+Por fim, requer a concessão de liminar para suspender a tramitação do processo de origem e, no mérito, a procedência da reclamação para cassar o acórdão reclamado por ofensa ao Tema 1.046 da repercussão geral.
+É o relatório.
+Decido.
+Inicialmente, rememoro que, conforme disposto na Constituição Federal, compete ao STF processar e julgar originariamente reclamação para a preservação de sua competência e garantia da autoridade de suas decisões (art. 102, I, “l”, da CF/88). Nesse sentido, o novo Código de Processo Civil de 2015 estabelece o rol das hipóteses de cabimento da reclamação, nos termos a seguir transcritos:
+
+“Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+III – garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+IV – garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência. (...)”.
+
+O § 4º do mesmo artigo esclarece que as hipóteses dos incisos III e IV compreendem a aplicação indevida da tese jurídica e sua não aplicação aos casos que a ela correspondem.
+Verifica-se, ainda, nos termos do § 5º, que é inadmissível reclamação proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida, exceto quando comprovado o esgotamento das instâncias ordinárias, com a devida interposição e julgamento do agravo interno, previsto no art. 1.030, § 2º, do CPC, e a demonstração da teratologia da decisão.
+Nesses termos, a reclamatória proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida somente será cabível quando presentes os seguintes pressupostos necessários e cumulativos, quais sejam: o esgotamento da instância de origem, com a interposição de agravo interno da decisão monocrática que sobresta o feito, inadmite liminarmente o recurso da competência do STF ou julga-o prejudicado; a plausibilidade na tese de erro na na aplicação do entendimento do Supremo Tribunal Federal firmado na repercussão  geral pelo Juízo a quo, a indicar teratologia da decisão reclamada.
+No caso, segundo o reclamante, o ato reclamado teria desrespeitado a tese assentada no Tema 1.046 da repercussão geral, in verbis:
+
+“São constitucionais os acordos e as convenções coletivos que, ao considerarem a adequação setorial negociada, pactuam limitações ou afastamentos de direitos trabalhistas, independentemente da explicitação especificada de vantagens compensatórias, desde que respeitados os direitos absolutamente indisponíveis.”
+
+O acórdão proferido no julgamento do recurso paradigma da repercussão geral (ARE-RG 1.121.633, de minha relatoria, DJe de 28.4.2023) foi assim ementado:
+
+“Recurso extraordinário com agravo. Direito do Trabalho. Processo-paradigma da sistemática da repercussão geral. Tema 1.046. 3. Validade de norma coletiva que limita ou restringe direito trabalhista. Matéria constitucional. Revisão da tese firmada nos temas 357 e 762. 4. Fixação de tese: ‘São constitucionais os acordos e as convenções coletivas que, ao considerarem a adequação setorial negociada, pactuem limitações ou afastamentos de direitos trabalhistas, independentemente da explicitação especificada de vantagens compensatórias, desde que respeitados os direitos absolutamente indisponíveis.’ 5. Recurso extraordinário provido.”
+
+Pois bem.
+No caso em análise, o TRT da 3ª Região entendeu não ter restado provada a efetiva inviabilidade orçamentária de cumprimento das normas coletivas relativas à progressão horizontal. Confiram-se, pois, os trechos pertinentes do acórdão reclamado:
+
+“Nas razões de recurso alega a Recda, em resumo, que a r. sentença deferiu as diferenças salariais e deve ser reformada, sob o fundamento que foi violado o inciso XXVI artigo 7º da Constituição Federal. Requer, também, que o pleito de progressões horizontais e verticais sejam declarados improcedentes, pois ’... cumpre esclarecer a concessão de reajustes individuais de salários está atrelada a vários critérios, dentre eles a Avaliação de Desempenho, Verba do Órgão (negociada com as entidades sindicais) correspondente a um percentual da folha de salário base do mês de dezembro do ano anterior, Avaliação de Desempenho, e análise Gerencial (vide Cláusula 30ª do ACT 2011/2012 - Instrução de Pessoal 5.12)...’. Menciona que sempre concedeu as progressões e abonos com base na norma coletiva da categoria profissional; a concessão das alterações individuais de salário não é automática, tendo como condição a liberação de recursos financeiros específicos para essa finalidade. Acrescenta que no caso deste processo, não havia recursos financeiros suficientes para alcançar o Recte. Registra que o laudo pericial, elaborado em ação coletiva, constatou que a Cemig concedeu regularmente os aumentos devidos, inclusive em montante superior ao previsto para a progressão e abono.
+Sem razão, entretanto, como decidiu a Douta Maioria, vencido o Relator.
+Este provia o apelo patronal, porque essa matéria foi recentemente examinada nesta E. Turma, como pode ser visto no Acórdão proferido no processo de nº 0010596-36.2016.5.03.0014, pelo MM Juiz Convocado Rodrigo Ribeiro Bueno, cujos fundamentos são abaixo transcritos e deveriam ser adotados como razões de decidir:
+‘É certo que o atendimento, pelo empregado, dos requisitos exigidos para as progressões horizontal e vertical não lhe concede automaticamente o direito ao benefício pecuniário correspondente, já que também condicionado à liberação de recursos financeiros específicos para tal finalidade. No caso dos autos, de acordo com o laudo pericial de ID 1dded26, o autor preencheu os requisitos para a percepção da progressão horizontal e vertical, mas não foi contemplado em razão de inexistência de verba.
+Ora, as progressões inserem-se no poder discricionário da reclamada de organização de seu pessoal, tendo em vista que não ocorrem de forma automática, eis que dependem de critério subjetivo de avaliações de desempenho, passando pela empregadora a conveniência, ou não, de realizá-las, bem como da observância de critério objetivo, consistente na existência de dotação orçamentária específica para suportar o aumento de custo com as progressões.
+Assim, não fere qualquer princípio da isonomia, a reclamada, em razão de restrições orçamentárias, realizar a progressões dentro do seu PCS apenas de alguns empregados, inclusive daqueles que obtiveram melhor graduação nas avaliações de desempenho.
+Dou provimento para excluir da condenação as diferenças salariais decorrentes de progressões não concedidas sob a alegação de insuficiência de recursos financeiros e reflexos.’
+Pelo exposto, o Relator dava provimento parcial ao apelo da Recda, para excluir da condenação as diferenças salariais decorrentes de progressões não concedidas e respectivos reflexos.
+Entretanto, vencido o Relator, prevaleceu o entendimento da Douta Maioria, abaixo transcrito.
+Cabe manter a r. sentença, pelos seus próprios fundamentos, acrescentando ainda que tendo a empregadora alegado fato obstativo a concessão das progressões, ou seja, a falta de recursos para essa finalidade, a ela cabia o encargo de apresentar a prova de suas alegações (inciso II artigo 373 CPC).
+A demonstração da indisponibilidade orçamentária, para implementação das progressões, cabia a empresa, diante das dificuldades do empregado em apresentar a prova, porque esses dados e os respectivos documentos ficam na posse da empregadora. Não cumprido esse encargo processual, são devidas as diferenças salariais deferidas na r. sentença.
+Negaram provimento, por maioria, vencido o Relator.” (eDOC 8, ID: b22a6936; grifos nosso).
+
+Em consulta ao sítio eletrônico do Tribunal Superior do Trabalho, verifica-se que, após a negativa de seguimento do recurso de revista interposto contra a mencionada decisão, foi interposto agravo de instrumento, ao qual também foi negado seguimento.
+Na sequência, foi interposto recurso extraordinário, cujo processamento foi igualmente obstado, com fundamento no Tema 181 da Repercussão Geral. Em razão dessa decisão, foi manejado agravo, que também teve seu provimento negado.
+Pois bem.
+Assiste razão à reclamante, conforme se demonstrará a seguir.
+Conforme se extrai dos autos, no tocante às alterações salariais do beneficiário, verifica-se a celebração de Acordos Coletivos de Trabalho que condicionam a concessão e a aplicação dos reajustes às disposições do Plano de Cargos e Salários. É o que se observa, por exemplo, no Acordo Coletivo de Trabalho referente ao período de 2019/2021, in verbis:
+
+“CLÁUSULA 29ª VERBA PARA CONCESSÃO DE ALTERAÇÕES SALARIAIS – PCR - A Cemig concederá 1,20% (um inteiro e vinte centésimos por cento) da folha de pagamento de salário base do mês de dezembro de cada ano, para fins de concessão de alterações individuais de salários, durante o ano seguinte, a ser aplicado conforme condições do Plano de Cargos, Carreiras e Remunerações – PCCR.
+Parágrafo único - A distribuição integral da verba prevista no Caput para fins de alteração individual de salário (acesso funcional) constitui fato impeditivo para a concessão de alterações individuais de salário.” (Grifos nosso).
+
+O Tribunal reclamado destacou que o único motivo para que o empregado não fosse contemplado com a progressão horizontal foi a suposta inexistência de recursos. Salientou, no entanto, que a ora reclamante não se desincumbiu do ônus de provar a ausência de disponibilidade orçamentária ou de comprovar que o empregado não se encontrava dentre os funcionários classificados com melhor desempenho, razão pela qual manteve a sentença de procedência do pedido.
+Nesse contexto, verifica-se que ao afastar expressamente qualquer impedimento à obtenção da promoção fundado em questões orçamentárias, o acórdão reclamado desconsiderou a previsão dos acordos coletivos de trabalho, no que estes estipulam a obrigação da reclamada de oferecer recursos financeiros limitados para fins de progressão horizontal, incorrendo, por conseguinte, em inobservância do que restou decidido no julgamento do Tema 1046 no âmbito desta Corte.
+No mesmo sentido, em caso análogo ao dos autos, envolvendo a mesma empresa ora reclamante (CEMIG Distribuição S.A), cito o seguinte precedente:
+
+“Agravo regimental na reclamação. 2. Direito constitucional e trabalhista. 3. Decisão reclamada publicada em data anterior ao paradigma indicado. Utilização da reclamação como meio de suspender a execução dos efeitos futuros da decisão reclamada. Entendimento firmado na ADC 4. Cabimento. 5. ARE-RG 1.121.633, tema 1046 da repercussão geral. Discussão sobre a prevalência de acordo coletivo que restringe direitos trabalhistas. Reclamação julgada procedente. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Negado provimento ao agravo regimental.” (Rcl 71.455/MG, de minha relatoria, Segunda Turma, DJe 5.3.2025; grifo nosso).
+
+Ante o exposto, julgo procedente a reclamação para cassar o ato reclamado e determinar que outro seja proferido considerando o entendimento firmado no julgamento do Tema 1.046 da repercussão geral e observando o disposto no Acordo Coletivo de Trabalho acerca das progressões salariais.
+
+Publique-se. Comunique-se.
+Brasília, 4 de setembro de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
