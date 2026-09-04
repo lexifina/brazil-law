@@ -1,0 +1,1 @@
+Art. 171-C. A transação, a mediação e a arbitragem especial tributária e aduaneira não caracterizam renúncia de receita para fins do disposto no art. 14 da Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal).

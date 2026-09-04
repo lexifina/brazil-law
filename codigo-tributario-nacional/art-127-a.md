@@ -1,0 +1,1 @@
+Art. 127-A. As intimações dos atos do processo poderão ser realizadas por meio de Domicílio Tributário Eletrônico (DTE), inclusive quando se tratar de intimação de procurador, nos termos das leis reguladoras do processo tributário administrativo.

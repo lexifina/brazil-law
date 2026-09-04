@@ -1,0 +1,1 @@
+Art. 211-A. O Distrito Federal, os Estados e os Municípios deverão, no prazo de 2 (dois) anos, atualizar a sua legislação tributária e aduaneira para adotar, no mínimo, os critérios previstos no § 5º do art. 142 desta Lei, como forma de implementar moderação sancionatória e dosimetria da penalidade.
