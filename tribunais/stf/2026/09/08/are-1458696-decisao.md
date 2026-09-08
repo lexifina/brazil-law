@@ -1,0 +1,14 @@
+DECISÃO: Referente à petição/STF nº 46.690/2026 (id:30547c1a)
+O Grupo de Atuação Estratégica das Defensorias Públicas Estaduais e Distrital nos Tribunais Superiores (GAETS), requereu o seu ingresso no presente feito na condição de amicus curiae (e-doc. 193).
+Sustenta que a controvérsia possui relevante repercussão social e jurídica, por envolver a possibilidade de despronúncia, após condenação transitada em julgado pelo Tribunal do Júri, mediante habeas corpus, especialmente em hipóteses de condenações fundadas em provas ilícitas ou juridicamente inidôneas.
+Para demonstrar sua representatividade adequada, o GAETS destaca a atuação coordenada das Defensorias Públicas perante os Tribunais Superiores, bem como sua experiência na defesa dos direitos fundamentais, especialmente na seara penal, ressaltando os impactos que a controvérsia poderá produzir sobre a população vulnerável e sobre a atuação institucional das Defensorias Públicas.
+Por fim, requer a admissão nos autos na qualidade de amicus curiae; e caso não seja admitido como amicus curiae, que seja deferida sua participação como custos vulnerabilis;
+Nos termos do art. 138, caput, do Código de Processo Civil, o relator poderá, considerando a relevância da matéria, a especificidade do tema objeto da demanda ou a repercussão social da controvérsia, admitir a participação de pessoa natural ou jurídica, órgão ou entidade especializada, com representatividade adequada, na condição de amicus curiae.
+A relevância da matéria e a repercussão social da controvérsia são inquestionáveis. O presente recurso extraordinário discute a Possibilidade de despronúncia, após condenação pelo Tribunal do Júri transitada em julgado, por decisão em habeas corpus.
+A representatividade adequada da requerente encontra-se plenamente demonstrada, por se tratar de grupo especializado vinculado às Defensorias Públicas Estaduais e Distrital, com atuação coordenada perante os Tribunais Superiores e experiência institucional diretamente relacionada à matéria controvertida, especialmente na defesa dos direitos fundamentais e na tutela da liberdade no âmbito do processo penal. Sua participação poderá trazer elementos fáticos e jurídicos relevantes, contribuindo para a pluralização e legitimação do debate constitucional neste Supremo Tribunal Federal.
+Ante o exposto, DEFIRO o pedido de ingresso do Grupo de Atuação Estratégica das Defensorias Públicas Estaduais e Distrital nos Tribunais Superiores (GAETS) na condição de amicus curiae, franqueando-lhe o exercício das faculdades processuais inerentes à função, notadamente a apresentação de memoriais, informações e a realização de sustentação oral no momento oportuno, assim como a participação em reuniões técnicas.
+Publique-se.
+Brasília, 8 de setembro de 2026.
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
