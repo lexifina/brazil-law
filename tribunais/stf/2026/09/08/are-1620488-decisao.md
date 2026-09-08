@@ -1,0 +1,20 @@
+DESPACHO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado pelo Estado de São Paulo, em face do acórdão do Tribunal de Justiça Estadual assim ementado:
+
+“RECURSOS DE APELAÇÃO EM MANDADO DE SEGURANÇA. TRIBUTÁRIO. CREDITAMENTO DE ICMS. EMPRESA FORNECEDORA DE SERVIÇOS DE TRANSPORTE TERRESTRE. INSUMOS NECESSÁRIOS AO DESENVOLVIMENTO DA ATIVIDADE. Possibilidade de creditamento de ICMS relativos à aquisição de insumos indispensáveis ao desenvolvimento da atividade fim. Laudo pericial indicando essencialidade dos produtos para o desenvolvimento da atividade da empresa. Inteligência do art. 66 do RIMS Decreto Estadual nº 45.490/00 e da Lei Complementar nº 87/96. Precedentes. Correção monetária devida, em razão da resistência apresentada pela Fazenda Estadual. Sentença reformada. Recurso da Fazenda Estadual desprovido.” (Apelação Cível nº 1031609-64.2022.8.26.0405, 2ª Câmara de Direito Público do Tribunal de Justiça de São Paulo, Rel. Des. Marcelo Martins Berthe, j. 11/02/2025)
+
+No recurso extraordinário, sustenta-se violação dos arts. 24, I, e 155, II, e § 2º, I e XII, da Constituição da República. Argumenta-se, em síntese, que é vedado o creditamento de produto intermediário que não se consome instantaneamente e tampouco se incorpora à mercadoria/serviço.
+É o relatório.
+
+Da leitura dos autos, verifica-se que a matéria versada no presente recurso, relativa ao ”creditamento de ICMS sobre mercadorias intermediárias utilizadas no processo produtivo, condicionado ao seu consumo e à integração física no produto final” (Tema 1465), foi submetida ao Plenário Virtual para análise quanto à existência de repercussão geral no RE 1.424.015-RG , assim ementado:
+
+“DIREITO TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS (ICMS) INCIDENTE NA AQUISIÇÃO DE PRODUTOS INTERMEDIÁRIOS EMPREGADOS NO PROCESSO PRODUTIVO. CREDITAMENTO. PRINCÍPIO DA NÃO CUMULATIVIDADE. LEI COMPLEMENTAR N. 87/1996. TEORIA DO CRÉDITO FÍSICO. REPERCUSSÃO GERAL RECONHECIDA. I. CASO EM EXAME 1. Recursos extraordinários interpostos contra acórdão – prolatado em sede de Incidente de Resolução de Demandas Repetitivas (IRDR) – que manteve a sentença de improcedência por concluir que o creditamento do ICMS sobre a aquisição de produtos intermediários empregados nos ciclos produtivos dependeria da comprovação de sua integração física ao produto final. 2. A parte recorrente sustenta que a impossibilidade de compensação do ICMS sobre bens relativos ao fenômeno produtivo acarreta dupla incidência do tributo, em afronta ao princípio da não cumulatividade. II. QUESTÃO EM DISCUSSÃO 3. A questão em discussão consiste em saber se, na vigência da LC n. 87/1996 e em observância ao princípio constitucional da não cumulatividade (CF/1988, art. 155, § 2º, I), o creditamento do ICMS depende do consumo das mercadorias intermediárias utilizadas no processo produtivo, bem como de sua integração física ao produto final. III. RAZÕES DE DECIDIR 4. É constitucional a questão alusiva ao direito ao creditamento do ICMS sobre a aquisição de produtos intermediários empregados no ciclo de fabricação do produto. 5. Apesar de o STF já ter reconhecido a natureza constitucional da controvérsia, ainda não há consenso nos julgamentos da Corte acerca da matéria. Assim, o tema reclama a uniformidade quanto ao tratamento, tendo em vista o largo potencial de introduzir mais decisões conflitantes no âmbito da jurisdição pátria. 6. Ante a presença de manifestações oscilantes no STF, justifica-se a apreciação pelo Tribunal Pleno, sob o ângulo pacificador da repercussão geral. IV. DISPOSITIVO 7. Repercussão geral reconhecida.” (RE 1424015 RG, Rel. Min. Nunes Marques, Pleno, DJe 04/08/2026)
+
+  O art. 328 do RISTF autoriza a devolução dos recursos extraordinários e dos agravos aos Tribunais ou Turmas Recursais de origem para os fins previstos nos arts. 1.036 a 1.040 do CPC.
+Devolvam-se os autos à Corte de origem.
+Publique-se.
+
+Brasília, 8 de setembro de 2026.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
