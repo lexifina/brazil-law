@@ -1,0 +1,3 @@
+LEI Nº 15.497, DE 4 DE SETEMBRO DE 2026
+Altera a Lei nº 15.201, de 9 de setembro de 2025, para reduzir o prazo de análise dos processos e dos serviços administrativos no âmbito do Programa de Gerenciamento de Benefícios (PGB).
+Faço saber que o Presidente da República adotou a Medida Provisória nº 1.369, de 2026, que o Congresso Nacional aprovou, e eu, Davi Alcolumbre, Presidente da Mesa do Congresso Nacional, para os efeitos do disposto no art. 62 da Constituição Federal, com a redação dada pela Emenda Constitucional nº 32, combinado com o art. 12 da Resolução nº 1, de 2002-CN, promulgo a seguinte Lei:
