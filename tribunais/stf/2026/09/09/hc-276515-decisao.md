@@ -1,0 +1,35 @@
+DECISÃO: Trata-se de habeas corpus, com pedido de medida liminar, impetrado por Sarah Barbosa dos Santos Ohno e Eder Augusto Vilela, em favor de Emanuel Rausch de Souza Silva, contra acórdão da Quinta Turma do Superior Tribunal de Justiça proferido no AgRg no HC 1.114.460/MG (eDOC 3, pp. 1-4).
+Colho do ato impugnado:
+Consta dos autos que o paciente foi condenado a 5 (cinco) anos de reclusão, em regime inicial semiaberto, pela prática do delito capitulado no art. 33, caput, da Lei 11.343/2006.
+Em suas razões, sustentam os impetrantes a ocorrência de constrangimento ilegal, porquanto a condenação estaria amparada em prova digital ilícita, ante a quebra da cadeia de custódia dos dados extraídos de dois aparelhos celulares do paciente, o que impõe o desentranhamento das provas e, por consequência, a absolvição por ausência de materialidade idônea, com base no art. 386, II e VII, do CPP.
+Afirmam que houve atraso de 4 (quatro) anos e 3 (três) meses entre a apreensão e a perícia, além da ausência de extração de código hash no recolhimento, de referência a Folha de Apreensão e Vigilância inexistente e da ressalva pericial de que os dados seriam passíveis de alterações, comprometendo a integridade e confiabilidade do acervo informático.
+Argumentam que, mantida a condenação, o paciente faz jus ao reconhecimento do tráfico privilegiado, previsto no art. 33, § 4º, da Lei n. 11.343/2006, em sua fração máxima de 2/3, com fixação do regime inicial aberto e substituição da pena privativa de liberdade por restritivas de direitos, destacando primariedade, bons antecedentes e quantidade compatível com a versão defensiva, além de inexistirem elementos concretos de dedicação a atividades criminosas.
+Requerem, liminarmente e no mérito, o reconhecimento da ilicitude das provas que embasaram a condenação e a absolvição do paciente. Subsidiariamente, pugnam pelo reconhecimento da causa de diminuição do tráfico privilegiado, com fixação do regime inicial aberto e substituição da pena privativa de liberdade por restritivas de direitos. (eDOC 3, p. 1).
+
+A Quinta Turma negou provimento ao agravo regimental e manteve o não conhecimento da impetração pelos fundamentos transcritos (eDOC 3, pp. 1-4).
+Neste writ, a defesa sustenta que a condenação se apoia em “prova digital totalmente corrompida” (eDOC 1, p. 2). Alega que os aparelhos foram apreendidos em março de 2020 e que o exame somente se iniciou em junho de 2024, sem espelhamento bit a bit nem extração contemporânea de código hash (eDOC 1, pp. 2-3).
+Afirma, ainda, que o laudo pericial conteria a ressalva de que os dados armazenados “podem não indicar com exatidão a realidade dos eventos, uma vez que são passíveis de alterações” (eDOC 1, p. 3).
+Requer, liminarmente, “a imediata suspensão dos efeitos do acórdão condenatório” (eDOC 1, p. 8). No mérito, pede a nulidade da extração digital, com absolvição e restituição dos bens e valores apreendidos; subsidiariamente, pretende a incidência do tráfico privilegiado na fração de 2/3, o regime inicial aberto e a substituição da pena privativa de liberdade por restritivas de direitos (eDOC 1, p. 8).
+É o relatório.
+Decido.
+A impetração não comporta seguimento.
+O Superior Tribunal de Justiça não apreciou a alegada quebra da cadeia de custódia nem o cabimento da causa de diminuição do tráfico privilegiado. Limitou-se a manter o não conhecimento do habeas corpus por inadequação da via e ausência de exaurimento da instância antecedente (eDOC 3, pp. 1-4).
+O julgamento do agravo regimental não altera essa conclusão. O colegiado apenas confirmou que a impetração não podia substituir o agravo em recurso especial nem dispensar a prévia submissão da decisão monocrática estadual ao órgão colegiado competente.
+A jurisprudência desta Corte é firme no sentido de que, ausente manifestação das instâncias antecedentes sobre o mérito, a apreciação pelo STF resultaria em supressão de instância e ampliação da competência prevista no art. 102 da CF: HC 109.430-AgR/DF, Rel. Min. Celso de Mello, Tribunal Pleno, DJe 13.8.2014; HC 164.535-AgR/RJ, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 20.4.2020; e HC 163.568/RS, Rel. Min. Marco Aurélio, Red. p/ o acórdão Min. Rosa Weber, Primeira Turma, DJe 30.8.2019.
+Evidentemente, em obediência ao princípio da proteção judicial efetiva (CF, art. 5º, XXXV), a aplicação desse entendimento jurisprudencial pode ser afastada no caso de configuração de patente constrangimento ilegal ou abuso de poder, o que, todavia, não é o caso dos autos.
+De todo modo, não se verifica patente constrangimento ilegal.
+O intervalo temporal alegado, a ausência de espelhamento bit a bit e de código hash contemporâneo e a ressalva reproduzida pela defesa recomendam exame técnico. Não demonstram, porém, por si sós, adulteração concreta dos dados, perda de autenticidade ou prejuízo específico.
+A impetração não foi instruída com a íntegra dos laudos de extração, os registros completos de recebimento, armazenamento e manuseio dos aparelhos, os arquivos nativos ou parecer técnico que identifique conteúdo efetivamente alterado. O reconhecimento da nulidade, portanto, exigiria reconstruir a trajetória dos vestígios e confrontar os procedimentos empregados, o que não pode ser feito com a prova pré-constituída apresentada.
+A sentença, por sua vez, registrou imagens do acusado manuseando quantidade expressiva de drogas, fotografias de entorpecentes embalados para comercialização e plantações de maconha, além de conversas qualificadas como negociações típicas da mercancia ilícita (eDOC 2, pp. 4-5). Não há elemento técnico, nestes autos, que demonstre de plano a alteração precisamente desses dados.
+Tampouco há ilegalidade manifesta na negativa do tráfico privilegiado. A sentença não afastou o redutor apenas em razão da natureza ou da quantidade das substâncias apreendidas, mas com fundamento nas conversas mantidas entre 2019 e 2020, consideradas indicativas de dedicação habitual à traficância (eDOC 2, p. 5).
+Nesse sentido:
+“Agravo regimental em habeas corpus. 2. Tráfico de drogas. Causa de diminuição de pena. 3. As circunstâncias do crime constituem elementos concretos aptos a afastar a causa de diminuição de pena do art. 33, § 4º, da Lei 11.343/2006. 4. Agravo regimental desprovido”. (HC 228.594 AgR, de minha relatoria, Segunda Turma, DJe 23.10.2023).
+
+A validade das conversas constitui justamente a matéria não apreciada pelo Superior Tribunal de Justiça e cujo exame, no estado da instrução, depende de apuração técnica. Sem prova pré-constituída de adulteração, não há direito manifesto à absolvição nem à aplicação imediata da minorante.
+Assim, por não se tratar de decisão manifestamente contrária à jurisprudência do STF ou de flagrante hipótese de constrangimento ilegal, descabe autorizar a supressão de instância ou a concessão da ordem de ofício.
+Ante o exposto, nego seguimento ao habeas corpus (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 9 de setembro de 2026.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
