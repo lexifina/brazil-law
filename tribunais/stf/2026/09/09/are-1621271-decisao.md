@@ -1,0 +1,31 @@
+DECISÃO:
+Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+O acórdão recorrido  ficou assim ementado:
+
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. ESTELIONATO E ORGANIZAÇÃO CRIMINOSA. REPRESENTAÇÃO CRIMINAL. CONTINUIDADE DELITIVA. SÚMULA 83/STJ. AGRAVO REGIMENTAL NÃO PROVIDO. I. CASO EM EXAME 1. Agravo regimental interposto contra decisão monocrática que não conheceu de agravo em recurso especial, em demanda oriunda de acórdão do Tribunal de Justiça de Rondônia, referente à condenação por estelionato e organização criminosa. 2. O agravante alega erro material na identificação do recorrente, superação da Súmula 83/STJ nas teses de representação criminal (arts. 38 e 39 do CPP; § 5º do art. 171 do CP) e continuidade delitiva (art. 71 do CP), além de dissídio jurisprudencial e violação de lei federal. 3. Requer reconsideração para conhecer e prover o agravo em recurso especial ou, subsidiariamente, submissão ao colegiado e prosseguimento do recurso especial superando os óbices sumulares. II. QUESTÃO EM DISCUSSÃO 4. A questão em discussão consiste em saber se: (i) o erro material na identificação do recorrente comprometeu o julgamento; (ii) a Súmula 83/STJ foi corretamente aplicada às teses de representação criminal e continuidade delitiva; e (iii) há elementos suficientes para superar os óbices sumulares e admitir o recurso especial. III. RAZÕES DE DECIDIR 5. O erro material na identificação do recorrente não gerou prejuízo processual, pois a fundamentação da decisão monocrática abordou as teses deduzidas pelo agravante. 6. A aplicação da Súmula 83/STJ foi correta, uma vez que o acórdão recorrido está em consonância com a jurisprudência consolidada do STJ, tanto em relação à suficiência do comportamento inequívoco da vítima para caracterizar a representação criminal quanto à exigência de vínculo subjetivo para o reconhecimento da continuidade delitiva. 7. A pretensão de reanálise dos fatos e provas para redefinir os requisitos da continuidade delitiva encontra óbice na Súmula 7 do STJ, que veda o reexame do conjunto fáticoprobatório em recurso especial. 8. O agravante não apresentou elementos novos capazes de demonstrar distinção fática relevante ou aplicação equivocada da jurisprudência que justifiquem a superação dos óbices sumulares. IV. DISPOSITIVO E TESE 9. Resultado do Julgamento: Agravo regimental desprovido. Tese de julgamento: 1. O erro material na identificação do recorrente não gera nulidade processual quando não há prejuízo à análise das teses recursais. 2. A Súmula 83/STJ aplica-se quando o acórdão recorrido está em consonância com a jurisprudência consolidada do STJ, independentemente da alínea invocada no recurso especial. 3. A reanálise de fatos e provas para redefinir os requisitos da continuidade delitiva encontra óbice na Súmula 7 do STJ. Dispositivos relevantes citados: CPP, arts. 38 e 39; CP, art. 71; CP, § 5º do art. 171. Jurisprudência relevante citada: STJ, Súmula 83; STJ, Súmula 7.
+
+Opostos os embargos de declaração, foram rejeitados.
+No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, XLVI, LIV, LV e LVI, da Constituição Federal.
+Decido.
+Analisados os autos, no que tange à alegação de violação do(s) art(s). 5º, XLVI, LIV e LV, da Constituição, verifica-se que a decisão de inadmissão do recurso extraordinário está amparada em aplicação de precedente firmado com base na sistemática da repercussão geral.
+Todavia, o art. 1.042 do Código de Processo Civil é expresso sobre o não cabimento de agravo dirigido ao STF nas hipóteses em que a negativa de seguimento do recurso extraordinário tiver como base exclusivamente a sistemática da repercussão geral, sendo essa decisão passível de impugnação somente por agravo interno (art. 1.030, § 2º, do CPC/2015). Sobre o tema, destaque-se:
+
+“EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM: AUSÊNCIA DE PREVISÃO LEGAL DE RECURSO PARA O SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 1.109.295/RS-ED-ED, Tribunal Pleno, Rel. Min. Cármen Lúcia, DJe de 25/09/2018).
+
+Assim, não conheço do recurso quanto ao(s) capítulo(s) acima referenciado(s).
+Ademais, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, nos termos da Súmula 279/STF. Sobre o tema, a propósito:
+
+“Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Fatos e provas. Reexame. Impossibilidade. Legislação infraconstitucional. Ofensa Reflexa. Precedentes. 1. Não se presta o recurso extraordinário para o reexame dos fatos e das provas constantes dos autos, tampouco para a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 2. Agravo regimental não provido” (ARE 1183314/CE - AgR, Tribunal Pleno, Rel. Min. Dias Toffoli, DJe de 15/04/2019).
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. MANUTENÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida. 2. O recurso extraordinário esbarra no óbice previsto na Súmula 279 do STF, por demandar o reexame de fatos e provas. 3. Agravo regimental desprovido” (ARE 1165382/SP - AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 04/03/2020).
+
+“RECURSO EXTRAORDINÁRIO COM AGRAVO – MATÉRIA PENAL – ALEGADA VIOLAÇÃO AO PRECEITO INSCRITO NO ART. 5º, LVII, DA CONSTITUIÇÃO DA REPÚBLICA – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – AGRAVO INTERNO IMPROVIDO” (ARE 1131709 AgR, Segunda Turma, Rel. Min. Celso de Mello, DJe de 30/10/2018).
+
+Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 9 de setembro de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
