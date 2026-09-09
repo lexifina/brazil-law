@@ -1,0 +1,197 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+6ª Turma Cível
+Processo N.APELAÇÃO CÍVEL 0710654-13.2022.8.07.0018APELANTE(S)REGINA FATIMA CARVALHO,REGINA HELENA VICENTE,REGINA LUCIA VIANA,REGINA MARIA PEREIRA DOS REIS,REGINA ROMEIRO,REGINALDA FRANCISCA DA SILVA,REGINALDO BRAGA DIAS,REGINALDO FERREIRA DE ARAUJO e REGINALDO JERONIMO DA SILVAAPELADO(S)DISTRITO FEDERALRelatorDesembargador ALFEU MACHADO
+ Acórdão Nº2171204
+
+EMENTA
+
+ APELAÇÃO CÍVEL. DIREITO PROCESSUAL CIVIL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. AÇÃO Nº 59.888/96 (0001096-21.1999.8.07.0000). BENEFÍCIO ALIMENTAÇÃO. SAE/DF. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA DA OBRIGAÇÃO DE PAGAR. AUTONOMIA EM RELAÇÃO À OBRIGAÇÃO DE FAZER. INAPLICABILIDADE DA MODULAÇÃO DOS EFEITOS DO TEMA 880/STJ. EREsp Nº 1.301.935/DF. UNIFORMIZAÇÃO PELA CORTE ESPECIAL DO STJ. RECURSO CONHECIDO E DESPROVIDO.
+
+I. Caso em Exame
+
+1. Apelação cível interposta por substituídos individuais em face de sentença que, em cumprimento individual de sentença coletiva movido contra o Distrito Federal, reconheceu a exceção substancial peremptória de prescrição da pretensão executória da obrigação de pagar e extinguiu o processo, com resolução do mérito, com fundamento no art. 487, II, do Código de Processo Civil. O título executivo foi constituído nos autos da ação coletiva nº 59.888/96 (0001096-21.1999.8.07.0000), ajuizada pelo Sindicato dos Auxiliares de Administração Escolar no Distrito Federal — SAE/DF, para condenar o ente público ao restabelecimento do pagamento do benefício alimentação suprimido a partir de janeiro/1996 e ao adimplemento das parcelas vencidas e vincendas até o efetivo restabelecimento, ocorrido em maio/2002.
+
+II. Questão em Discussão
+
+2. Há três questões em discussão: (i) definir se a pendência de Recurso Extraordinário interposto contra o acórdão proferido pela Corte Especial do Superior Tribunal de Justiça no EREsp nº 1.301.935/DF constitui óbice ao imediato julgamento do cumprimento individual; (ii) definir se subsiste a prescrição da pretensão executória da obrigação de pagar reconhecida na origem, considerada a autonomia entre as pretensões executórias (fazer e pagar) derivadas do mesmo título coletivo; e (iii) definir se incide, na espécie, a modulação dos efeitos do Tema Repetitivo nº 880/STJ, sob o fundamento de que a liquidação do julgado dependeria do fornecimento, pelo executado, de documentos ou fichas financeiras dos substituídos.
+
+III. Razões de Decidir
+
+3. A interposição de recurso extraordinário não é dotada, por regra, de efeito suspensivo automático (art. 995 do CPC), tampouco há notícia de concessão de efeito suspensivo específico ao apelo dirigido contra o acórdão proferido pela Corte Especial do Superior Tribunal de Justiça no EREsp nº 1.301.935/DF. Encontrando-se definitivamente exaurida a jurisdição daquela Corte Superior quanto à matéria, é possível o regular prosseguimento do feito e o enfrentamento definitivo da prejudicial de mérito.
+
+4. As pretensões executórias derivadas da sentença coletiva formada nos autos da ação nº 59.888/96 — obrigação de fazer e obrigação de pagar — são autônomas e sujeitam-se a fluxos prescricionais próprios, deflagrados a partir do trânsito em julgado do título coletivo, em 10/03/2000. O ajuizamento tempestivo do cumprimento da obrigação de fazer, em 25/08/2000, não interrompeu nem suspendeu o prazo prescricional relativo à execução da obrigação de pagar, cujo quinquênio se consumou em 10/03/2005.
+
+4.1. A execução da obrigação de pagar imposta na sentença coletiva prescindia da apresentação de fichas financeiras ou de quaisquer outros documentos pelo executado, na medida em que os elementos necessários à elaboração dos cálculos — valor mensal do benefício alimentação suprimido e respectivo período de incidência — já estavam integralmente delimitados no próprio título judicial, de sorte que os parâmetros aritméticos definidos na coisa julgada bastavam à confecção da memória de cálculo.
+
+4.2. A Corte Especial do Superior Tribunal de Justiça, no julgamento do EREsp nº 1.301.935/DF, uniformizou definitivamente a jurisprudência daquela Corte Superior e assentou a inaplicabilidade da modulação dos efeitos do Tema Repetitivo nº 880/STJ ao cumprimento lastreado no título coletivo em discussão, ratificando o fundamento delineado pela Primeira Turma no julgamento do AgRg no AgRg no REsp nº 1.301.935/DF. Ausentes, no plano fático, os pressupostos da regra modulatória, a intempestividade da propositura da execução da obrigação de pagar não pode ser socorrida pela dicção do enunciado do Tema 880/STJ.
+
+4.3. O art. 104 do Código de Defesa do Consumidor afasta a litispendência entre ações coletivas e ações individuais para tutela de direitos individuais homogêneos, mas não elide as repercussões processuais recíprocas entre as duas frentes executivas. O efeito interruptivo do prazo prescricional decorrente do ajuizamento tempestivo da execução coletiva opera estritamente entre execuções que veiculem a mesma espécie de obrigação, não havendo transmissão de efeito interruptivo entre pretensões executórias de naturezas distintas, ainda quando derivadas de um mesmo título judicial (AgRg no REsp nº 1.350.669/RS).
+
+4.4. Reconhecida a prescrição da liquidação/execução coletiva da obrigação de pagar, deduzida somente em 08/07/2009, quando já ultrapassado o quinquênio prescricional, dela não se extrai qualquer efeito interruptivo em relação aos cumprimentos individuais posteriormente deduzidos, motivo pelo qual o presente cumprimento individual, ajuizado em 26/06/2022 — mais de duas décadas após o trânsito em julgado do título coletivo e mais de 17 anos após a consumação do quinquênio prescricional —, encontra-se irremediavelmente atingido pela prescrição da pretensão executória, nos termos do art. 487, II, do CPC c/c os arts. 1º, 8º e 9º do Decreto nº 20.910/1932.
+
+IV. Dispositivo
+
+5. Recurso conhecido e desprovido
+
+Tese de julgamento: " "1. As pretensões executórias das obrigações de fazer e de pagar derivadas da sentença coletiva formada nos autos da ação nº 59.888/96 são autônomas e sujeitam-se a fluxos prescricionais próprios, não havendo transmissão de efeito interruptivo entre pretensões executórias de naturezas distintas, ainda quando derivadas de um mesmo título judicial. 2. É inaplicável a modulação dos efeitos do Tema Repetitivo nº 880/STJ ao cumprimento lastreado na sentença coletiva formada nos autos da ação nº 59.888/96, na medida em que a execução da obrigação de pagar prescindia da apresentação de fichas financeiras ou documentos pelo executado, dado que os elementos necessários à elaboração dos cálculos já estavam integralmente delimitados no próprio título judicial, conforme uniformizado pela Corte Especial do Superior Tribunal de Justiça no EREsp nº 1.301.935/DF. 3. Configura-se a consumação da prescrição da pretensão executória da obrigação de pagar em cumprimento individual de sentença coletiva ajuizado após ultrapassado, em mais de 17 anos, o quinquênio prescricional contado do trânsito em julgado do título coletivo.""
+
+Legislação relevante citada: CPC, arts. 85, §§ 3º e 11, 487, II, 995 e 1.010; CDC, arts. 15, 97 e 104; Decreto nº 20.910/1932, arts. 1º, 8º e 9º; Lei Distrital nº 2.944/2002.
+
+Jurisprudência relevante citada: STJ, AgRg no AgRg no REsp nº 1.301.935/DF, Rel. p/ acórdão Min. Regina Helena Costa, Primeira Turma, DJe de 19/10/2018; STJ, EREsp nº 1.301.935/DF, Corte Especial; STJ, Tema Repetitivo nº 880 (REsp nº 1.336.026/PE); STJ, AgRg no REsp nº 1.350.669/RS, Rel. Min. Francisco Falcão, Segunda Turma, DJe de 28/11/2022.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 6ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, ALFEU MACHADO - Relator, LEONARDO ROSCOE BESSA - 1º Vogal e ARQUIBALDO CARNEIRO - 2º Vogal, sob a Presidência da Senhora Desembargadora VERA ANDRIGHI, em proferir a seguinte decisão: CONHECIDO. DESPROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 09 de Setembro de 2026
+
+Desembargador ALFEU MACHADORelator
+
+RELATÓRIO
+
+Cuida-se de Apelação Cível interposta por REGINA FATIMA CARVALHO, REGINA HELENA VICENTE, REGINA LUCIA VIANA, REGINA MARIA PEREIRA DOS REIS, REGINA ROMEIRO, REGINALDA FRANCISCA DA SILVA, REGINALDO BRAGA DIAS, REGINALDO FERREIRA DE ARAUJO e REGINALDO JERONIMO DA SILVA, em desfavor da sentença proferida pelo Juízo da 7ª Vara da Fazenda Pública do Distrito Federal (ID 46126280), integrada pela decisão dos embargos de declaração (ID 46126285), que, em cumprimento individual de sentença coletiva, acolheu a prejudicial de mérito de prescrição arguida pelo DISTRITO FEDERAL e extinguiu o feito com resolução do mérito, nos termos do art. 487, II, do CPC c/c os arts. 1º, 8º e 9º do Decreto nº 20.910/32, condenando a parte exequente ao pagamento das custas iniciais e dos honorários advocatícios.
+
+Adoto o relatório da sentença recorrida:
+
+“(...) Vistos
+
+Trata-se de cumprimento individual de sentença coletiva proposto por REGINA FATIMA CARVALHO, REGINA HELENA VICENTE, REGINALDA FRANCISCA DA SILVA, , REGINALDO BRAGA DIAS, REGINALDO FERREIRA DE ARAUJO, REGINALDO JERONIMO DA SILVA,   em desfavor do DISTRITO FEDERAL.
+
+O cumprimento de sentença em comento deriva da ação originária em trâmite sob o nº 0001096-21.1999.8.07.0000 (Processo de conhecimento físico tombado sob o número 59.888/96), de origem da c. 1ª Vara da Fazenda Pública do Distrito Federal, que entendeu pela procedência dos pedidos formulados na exordial para condenar o ora executado a pagar aos substituídos as parcelas vencidas e vincendas do benefício alimentação devido desde a sua supressão no ano de 1996.
+
+O DISTRITO FEDERAL apresentou impugnação por meio da petição de ID 146992397, ocasião em que arguiu a prescrição da pretensão deduzida na exordial do presente cumprimento de sentença. No mérito, alegou excesso de execução.
+
+O exequente apresentou réplica por meio da petição de ID 147475294, oportunidade em que alegou a não ocorrência da prescrição, sob a assertiva de aplicação da modulação dos efeitos do Tema Repetitivo nº 880 do STJ. No mérito, aduziu a inexistência de excesso de execução, pugnando, em consequência, pela homologação dos valores descritos na exordial. (...)”
+
+O Juízo a quo pontuou que o cumprimento individual deriva do título judicial constituído nos autos da ação coletiva nº 0001096-21.1999.8.07.0000 (processo físico nº 59.888/96), cuja sentença exequenda transitou em julgado em 10/03/2000.
+
+Anotou que o cumprimento coletivo da obrigação de pagar foi deflagrado pelo sindicato somente em 26/08/2009, quando já superado o prazo prescricional quinquenal fixado pelo art. 1º do Decreto nº 20.910/32, o que já teria sido reconhecido pelo Juízo de origem nos autos coletivos nº 2009.01.1.134432-0 e chancelado pelo e. TJDFT em sede de apelação.
+
+Consignou, ainda, que o Superior Tribunal de Justiça, no REsp nº 1.301.935/DF, teria afastado a incidência do Tema 880/STJ ao caso, por entender que o ajuizamento da execução da obrigação de fazer não interrompe o prazo prescricional para a execução da obrigação de pagar, sendo o prazo prescricional único e a demora atribuível à inércia do próprio sindicato.
+
+Rejeitou-se, na decisão dos embargos de declaração (ID 46126285), a alegação de omissão quanto à distinção entre direito coletivo em sentido estrito e direito individual homogêneo, ao fundamento de que, para o reconhecimento da prescrição, releva o lapso temporal transcorrido entre o trânsito em julgado do título coletivo e a deflagração do cumprimento individual — proposto mais de duas décadas depois —, sem que se verifique causa suspensiva ou interruptiva.
+
+Registrou-se, ademais, que os embargos de divergência pendentes de julgamento no STJ (EREsp nº 1.301.935/DF) não possuem efeito suspensivo, razão pela qual não obstariam o reconhecimento da prescrição.
+
+Quanto à sucumbência, a parte exequente foi condenada ao pagamento das custas iniciais e dos honorários advocatícios fixados em percentuais escalonados sobre o valor atualizado da causa, com fundamento no art. 85, §§ 1º, 2º e 3º, incisos I a V, do CPC.
+
+Sustentam os apelantes, em síntese, que o título executivo decorre da ação coletiva nº 59.888/96 (0001096-21.1999.8.07.0000), na qual o Sindicato dos Auxiliares em Administração Escolar no Distrito Federal — SAE/DF obteve a condenação do Distrito Federal ao pagamento dos tíquetes alimentação suprimidos desde janeiro de 1996 até o restabelecimento em maio de 2002.
+
+Alegam que, por se tratar de direito individual homogêneo, seria plenamente cabível o cumprimento de sentença deflagrado de forma fracionada e individual, em favor dos sindicalizados substituídos, com amparo no art. 8º, III, da Constituição Federal, no Tema 823 da repercussão geral do STF, e nos arts. 97 e 104 do Código de Defesa do Consumidor, aplicáveis por força do art. 15 do CPC.
+
+Pontuam que o Juízo de origem recebeu a demanda como cumprimento individual de sentença coletiva, tendo intimado a Fazenda Pública para impugnação na forma do art. 535 do CPC e determinado a juntada de procurações individualizadas dos exequentes, providências que foram integralmente atendidas.
+
+Insurgem-se, no mérito, contra o reconhecimento da prescrição da pretensão executória. Sustentam que não há vinculação nem litispendência entre o presente cumprimento individual e a ação coletiva relativa ao REsp nº 1.301.935/DF, uma vez que os exequentes optaram pela execução individual do título, o que seria plenamente admissível à luz dos arts. 97 e 104 do CDC e da jurisprudência pacífica sobre a matéria.
+
+Argumentam que se trata de cumprimentos de sentença distintos, não sendo possível transportar automaticamente o entendimento adotado no âmbito do cumprimento coletivo, sobretudo porque, no seu entender, restaria caracterizada e comprovada a aplicação da modulação dos efeitos do Tema 880/STJ ao presente feito.
+
+Aduzem que a decisão proferida no REsp nº 1.301.935/DF ainda não transitou em julgado, encontrando-se pendente de exame o respectivo recurso de embargos de divergência, motivo pelo qual não poderia servir de fundamento para o reconhecimento imediato da prescrição no âmbito do cumprimento individual.
+
+Sustentam, ainda, a necessidade de observância da diferenciação entre direito coletivo em sentido estrito e direito individual homogêneo, questão que reputam essencial à correta compreensão do regime prescricional aplicável ao cumprimento individual deflagrado pelos substituídos.
+
+Reiteram, com base nos aclaratórios opostos, que o acórdão do STJ no REsp nº 1.301.935/DF, além de não ter transitado em julgado, não comprometeria a regular tramitação do cumprimento de sentença individual, cabendo o prosseguimento do feito para regular processamento.
+
+Ao final, requerem o conhecimento e o provimento do recurso, para (i) reformar a sentença combatida, afastando-se a prescrição reconhecida; (ii) admitir o cumprimento individual de sentença, determinando-se seu regular processamento; e (iii) inverter os ônus sucumbenciais fixados na origem.
+
+Dispensado o recolhimento do preparo recursal em virtude da gratuidade de justiça (ID 68462139).
+
+Em contrarrazões, pontua o ente público que o título exequendo transitou em julgado em 10/3/2000, ao passo que a liquidação coletiva foi deduzida apenas em 2009, tendo o colendo Superior Tribunal de Justiça, no AgRg no AgRg no REsp nº 1.301.935/DF, consolidado o entendimento no sentido da consumação da prescrição da pretensão executória e da inaplicabilidade da modulação dos efeitos do Tema 880/STJ, com fundamento autônomo suficiente na inércia do sindicato em formular tempestivamente o pedido de execução da obrigação de pagar.
+
+Invoca precedentes deste egrégio Tribunal em casos análogos oriundos do mesmo título coletivo, sustenta a impossibilidade de autoexclusão intempestiva da execução coletiva já sentenciada (art. 485, § 5º, do CPC) e defende a manutenção da condenação em honorários sucumbenciais, com incidência da Taxa SELIC como fator de atualização, por força do art. 3º da Emenda Constitucional nº 113/2021.
+
+Por decisão monocrática deste Relator (ID 45090915), determinou-se a suspensão do feito até o trânsito em julgado do decidido no REsp nº 1.301.935/DF, à luz do disposto no art. 313, V, "a", do Código de Processo Civil.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador ALFEU MACHADO - RelatorPresentes os pressupostos de admissibilidade, conheço do recurso manejado; é tempestivo, adequado à espécie de decisão e dispensado o recolhimento do preparo recursal em virtude da gratuidade de justiça.
+
+Cuida-se de Apelação Cível interposta por REGINA FATIMA CARVALHO, REGINA HELENA VICENTE, REGINA LUCIA VIANA, REGINA MARIA PEREIRA DOS REIS, REGINA ROMEIRO, REGINALDA FRANCISCA DA SILVA, REGINALDO BRAGA DIAS, REGINALDO FERREIRA DE ARAUJO e REGINALDO JERONIMO DA SILVA, em desfavor da sentença proferida pelo Juízo da 7ª Vara da Fazenda Pública do Distrito Federal (ID 46126280), integrada pela decisão dos embargos de declaração (ID 46126285), que, em cumprimento individual de sentença coletiva, acolheu a prejudicial de mérito de prescrição arguida pelo Distrito Federal e extinguiu o feito com resolução do mérito, nos termos do art. 487, II, do CPC c/c os arts. 1º, 8º e 9º do Decreto nº 20.910/32, condenando a parte exequente ao pagamento das custas iniciais e dos honorários advocatícios.
+
+O objeto da lide se resume a definir se está consumada a prescrição da pretensão executória relativa à obrigação de pagar decorrente da sentença coletiva formada nos autos da ação nº 59.888/96 (0001096-21.1999.8.07.0000), à luz da autonomia entre as pretensões executórias derivadas do mesmo título e da (in)aplicabilidade da modulação dos efeitos do Tema 880/STJ ao cumprimento individual.
+
+Antes de mais nada, importante afastar eventual óbice ao imediato julgamento do presente feito em razão da pendência de Recurso Extraordinário interposto contra o acórdão proferido pela Corte Especial do colendo Superior Tribunal de Justiça no EREsp nº 1.301.935/DF.
+
+Como sabido, a interposição do apelo extremo não é dotada, por regra, de efeito suspensivo automático (art. 995 do CPC), tampouco há notícia de concessão de efeito suspensivo específico àquele recurso. Além disso, a jurisdição do colendo Superior Tribunal de Justiça, no tocante à matéria, encontra-se definitivamente exaurida, restando pacificada, em âmbito daquela Corte Superior, tanto a controvérsia relativa à autonomia entre as pretensões executórias (fazer e pagar) quanto a controvérsia relativa à inaplicabilidade da modulação dos efeitos do Tema 880/STJ ao cumprimento lastreado no mesmo título coletivo. Tal quadro autoriza o regular prosseguimento do feito em epígrafe, com o consequente enfrentamento da prejudicial de mérito reconhecida na origem.
+
+Por fim, cumpre registrar que a decisão monocrática de suspensão anteriormente proferida por este Relator, prolatada em 23/5/2023 (ID 46980300) e reiterada em decisões subsequentes, apoiou-se, expressamente, na então pendência do julgamento do REsp nº 1.301.935/DF. Superado esse marco, com a definição da controvérsia pela Corte Especial daquela Corte Superior, a suspensão determinada perdeu seu suporte fático, impondo-se o imediato prosseguimento e julgamento definitivo do feito.
+
+1. Do histórico da ação coletiva nº 59.888/96 (0001096-21.1999.8.07.0000), do REsp 1.301.935/DF, da uniformização quanto à inaplicabilidade da modulação dos efeitos do Tema 880/STJ e da possibilidade de seguimento do julgamento individual.
+
+Extrai-se dos autos originários que o Sindicato dos Auxiliares de Administração Escolar no Distrito Federal — SAE/DF ajuizou, em desfavor do Distrito Federal, ação coletiva sob o rito processual do CPC/1973, autuada sob o nº 59.888/96 (posteriormente digitalizada sob o nº 0001096-21.1999.8.07.0000), na qual pleiteou, em substituição processual dos integrantes da categoria, o restabelecimento do pagamento do benefício alimentação, suprimido a partir de janeiro/1996, e a condenação do ente público ao pagamento das parcelas vencidas e vincendas desde a supressão até o efetivo restabelecimento.
+
+O Juízo da 1ª Vara da Fazenda Pública do Distrito Federal julgou procedente o pedido, condenando o ente público, em duas frentes obrigacionais distintas e autônomas, a saber: (i) obrigação de fazer, consistente no restabelecimento do pagamento do benefício alimentação; e (ii) obrigação de pagar, consistente no adimplemento das parcelas devidas desde janeiro/1996 até a data do efetivo restabelecimento, mediante correção monetária a contar de cada mês de referência. A sentença foi complementada pela decisão dos embargos de declaração, que a integrou para nela incluir, expressamente, as parcelas vencidas e vincendas.
+
+Interposto recurso de apelação pelo Distrito Federal, o acórdão de segundo grau negou-lhe provimento, mantendo integralmente a sentença de procedência.
+
+Interpostos os recursos cabíveis para as instâncias superiores, todos restaram desprovidos, culminando com o trânsito em julgado da sentença coletiva em 10 de março de 2000, conforme certidão específica juntada aos autos originários.
+
+Deflagrado o quinquênio prescricional a partir daquela data, o SAE/DF adotou apenas providência parcial em relação ao adimplemento do título coletivo. Isso porque, em 25 de agosto de 2000, o sindicato promoveu, nos autos originários, tão somente o cumprimento da obrigação de fazer, com vistas ao restabelecimento administrativo do pagamento do benefício alimentação em favor dos substituídos, providência que veio a ser integralmente atendida pelo ente público, no plano administrativo, em maio/2002, por força da Lei Distrital nº 2.944/2002.
+
+Diversamente, quanto à obrigação de pagar, o SAE/DF permaneceu inteiramente inerte ao longo do quinquênio subsequente ao trânsito em julgado. Somente em 08/07/2009, mediante petição protocolada nos próprios autos da ação coletiva, é que a entidade sindical veio a formular pedido de liquidação e cumprimento da obrigação de pagar, quando já ultrapassados mais de nove anos do trânsito em julgado do título coletivo e mais de sete anos do restabelecimento administrativo do benefício.
+
+O Juízo da 1ª Vara da Fazenda Pública do Distrito Federal, ao apreciar o pedido, reconheceu de ofício a consumação da prescrição da pretensão executória, entendimento integralmente mantido por este egrégio Tribunal em sede de apelação.
+
+Interpostos os recursos cabíveis para as instâncias superiores, a controvérsia alcançou o colendo Superior Tribunal de Justiça, no bojo do REsp nº 1.301.935/DF. Ao apreciar definitivamente a matéria no julgamento do AgRg no AgRg no REsp nº 1.301.935/DF (Rel. p/ acórdão Min. Regina Helena Costa, Primeira Turma, DJe de 19/10/2018), aquela Corte Superior assentou, com toda clareza, o caráter autônomo das pretensões executórias derivadas da sentença coletiva formada nos autos da ação nº 59.888/96, para consignar que o cumprimento tempestivo da obrigação de fazer, deflagrado em 25/08/2000, não interrompeu nem suspendeu o prazo prescricional relativo à execução da obrigação de pagar, cujo transcurso permaneceu íntegro a partir do trânsito em julgado do título coletivo, em 10/03/2000.
+
+Assentou-se, ainda, que a execução da obrigação de pagar, no caso concreto, não dependia da prévia execução da obrigação de fazer, tampouco da apresentação de fichas financeiras ou de quaisquer outros documentos pelo executado, na medida em que os elementos necessários à elaboração dos cálculos já estavam integralmente delimitados no próprio título judicial, notadamente o valor mensal do benefício alimentação suprimido e o respectivo período de incidência, de sorte que os próprios parâmetros aritméticos definidos na coisa julgada bastavam à confecção da memória de cálculo.
+
+Dessa dupla constatação extraiu o colendo Superior Tribunal de Justiça a conclusão inarredável de que a inércia do sindicato substituto processual em formular tempestivamente o pedido de execução da obrigação de pagar, no quinquênio contado do trânsito em julgado do título coletivo (10/3/2000 a 10/3/2005), acarretou a consumação da prescrição da pretensão executória, sem qualquer interferência do fato de que, no mesmo período, havia sido tempestivamente promovido o cumprimento autônomo da obrigação de fazer.
+
+Contra o referido acórdão, opôs o SAE/DF Embargos de Divergência em Recurso Especial, precisamente com o objetivo de discutir a aplicabilidade da modulação dos efeitos do Tema 880/STJ (REsp nº 1.336.026/PE) ao caso concreto, ao argumento de que a liquidação do julgado dependeria, em concreto, do fornecimento pelo executado de documentos e fichas financeiras dos substituídos, hipótese em que, na dicção do enunciado modulatório, o prazo prescricional para o ajuizamento do cumprimento de sentença ficaria renovado até 30/6/2022.
+
+Ocorre, todavia, que a Corte Especial do colendo Superior Tribunal de Justiça, no julgamento do EREsp nº 1.301.935/DF, uniformizou definitivamente a jurisprudência interna daquela Corte Superior e assentou a inaplicabilidade da modulação dos efeitos do Tema 880/STJ ao cumprimento lastreado no mesmo título coletivo em discussão, ratificando, para tanto, o fundamento já delineado pela Primeira Turma no julgamento do AgRg no AgRg no REsp nº 1.301.935/DF, no sentido de que a execução da obrigação de pagar imposta na sentença coletiva prescindia da apresentação de fichas financeiras ou documentos pelo executado, dado que os elementos necessários à elaboração dos cálculos já estavam integralmente delimitados no próprio título judicial.
+
+Com esse pronunciamento da Corte Especial, restou pacificado, em âmbito da jurisdição do colendo Superior Tribunal de Justiça, que a intempestividade da propositura da execução da obrigação de pagar, ocorrida somente em 8/7/2009, não pode ser socorrida pela regra excepcional da modulação dos efeitos do Tema 880/STJ, precisamente porque não estavam preenchidos, no plano fático, os pressupostos daquela regra modulatória.
+
+2) Da desvinculação entre o cumprimento coletivo e o cumprimento individual, do Tema nº 880/STJ e do reconhecimento da prescrição da pretensão executória.
+
+Sustentam os apelantes que, tratando-se o presente feito de cumprimento individual de sentença coletiva relativa a direitos individuais homogêneos, não haveria vinculação obrigatória com o quanto decidido nos autos da liquidação/execução coletiva, invocando, para tanto, os arts. 97 e 104 do Código de Defesa do Consumidor, aplicáveis por força do art. 15 do CPC.
+
+Sob esse específico ângulo, a tese recursal encontra amparo parcial.
+
+Com efeito, o art. 104 do Código de Defesa do Consumidor é expresso ao dispor que as ações coletivas para a tutela de direitos individuais homogêneos não induzem litispendência para as ações individuais, cabendo ao titular do direito optar, autonomamente, pela via da execução coletiva promovida pelo substituto processual ou pelo cumprimento individual, sem que a coexistência das duas frentes processuais implique bis in idem processual.
+
+Ocorre, todavia, que a inexistência de litispendência não se confunde com a inexistência de repercussões processuais recíprocas entre as duas frentes executivas.
+
+A jurisprudência do colendo Superior Tribunal de Justiça sedimentou-se no sentido de que, tratando-se de cumprimento individual lastreado no mesmo título judicial coletivo, o ajuizamento tempestivo da execução coletiva pelo substituto processual interrompe o curso do prazo prescricional relativo aos cumprimentos individuais, retomando-se a contagem pela metade a partir do último ato praticado no feito coletivo, nos termos do art. 9º do Decreto nº 20.910/1932.
+
+Esse efeito interruptivo, entretanto, opera estritamente entre execuções que veiculem a mesma espécie de obrigação. É dizer: a execução coletiva da obrigação de fazer interrompe o prazo prescricional das execuções individuais da obrigação de fazer; e a execução coletiva da obrigação de pagar interrompe o prazo prescricional das execuções individuais da obrigação de pagar. Não há, todavia, transmissão de efeito interruptivo entre pretensões executórias de naturezas distintas, ainda quando derivadas de um mesmo título judicial.
+
+Nessa mesma esteira, calha ressaltar que, consoante jurisprudência do colendo Superior Tribunal de Justiça, "ainda que originadas de um mesmo título judicial, as duas pretensões (fazer e dar) são distintas, motivo pelo qual o prazo prescricional para ambas inicia-se com o trânsito em julgado do título executivo judicial e corre paralelamente sem que o exercício da pretensão em uma obrigação reflita sobre a outra. Logo, deve prevalecer o entendimento segundo o qual o ajuizamento da execução coletiva da obrigação de fazer não repercute na fluência do prazo prescricional da execução da obrigação de pagar, na medida em que as pretensões são distintas, não se confundem e têm regramento próprio" (AgRg no REsp n. 1.350.669/RS, Rel. Min. Francisco Falcão, Segunda Turma, DJe de 28/11/2022).
+
+Aplicando essas premissas ao caso dos autos, verifica-se que o único ato executivo tempestivamente praticado pelo sindicato substituto processual não veicula pretensão da mesma natureza daquela ora exequenda, motivo pelo qual dele não se extrai qualquer efeito interruptivo em relação ao prazo prescricional da execução da obrigação de pagar, seja no plano coletivo, seja no plano individual.
+
+Foi precisamente por esse fundamento — autonomia das pretensões executórias derivadas do mesmo título coletivo — que o colendo Superior Tribunal de Justiça, no julgamento do AgRg no AgRg no REsp nº 1.301.935/DF, reconheceu a consumação da prescrição da pretensão executória da obrigação de pagar imposta na sentença coletiva proferida na ação nº 59.888/96, assentando que o ajuizamento tempestivo do cumprimento da obrigação de fazer, em 25/8/2000, não interrompeu nem suspendeu o prazo prescricional da execução da obrigação de pagar, cujo termo final se operou em 10/03/2005 e cujo primeiro ato de exercício, promovido por meio da liquidação coletiva nº 2009.01.1.134432-0 (0134432-69.2009.8.07.0001), somente ocorreu em 08/07/2009, quando já ultrapassado, em mais de quatro anos, o quinquênio prescricional.
+
+Referida orientação foi definitivamente pacificada pela Corte Especial daquela Corte Superior no julgamento do EREsp nº 1.301.935/DF, oportunidade em que também restou afastada a incidência da modulação dos efeitos do Tema 880/STJ ao caso concreto, sob o fundamento de que a execução da obrigação de pagar prescindia da apresentação de documentos ou fichas financeiras pelo executado, dado que os elementos necessários à elaboração dos cálculos já estavam integralmente delimitados no próprio título judicial.
+
+Não há, ademais, se falar em iliquidez do título exequendo que ensejasse a necessidade de apresentação de documentos por parte do apelado, motivo pelo qual o presente caso não se adequa à hipótese delineada no Tema 880 retrocitado. Verificada a existência de valor mensal certo e de período determinado, os próprios parâmetros aritméticos definidos na coisa julgada bastavam à elaboração dos cálculos.
+
+Acrescente-se, ainda, que, conquanto o apelante tenha afirmado que solicitou informações para realização dos cálculos e que o apelado se recusou a fornecê-los, o que teria impossibilitado a liquidação do julgado e o consequente cumprimento da obrigação de pagar, extrai-se dos documentos acostados a este feito que todos os pedidos foram formulados no âmbito da obrigação de fazer, cuja execução foi tempestivamente promovida, e em data anterior a maio/2002, mês em que o benefício alimentação tornou a ser pago administrativamente. Ainda que houvesse necessidade de dados individualizados dos substituídos para elaboração dos cálculos, tais valores administrativamente restabelecidos poderiam ter sido utilizados como baliza para a elaboração dos cálculos da obrigação de pagar.
+
+Por consectário, tendo em vista que o cumprimento da obrigação de pagar deixou de ser tempestivamente proposto em razão de inércia da parte interessada (sindicato substituto processual e/ou seus substituídos), resta patente a prescrição da referida pretensão, tanto na seara coletiva quanto na individual.
+
+Acrescente-se que não há se falar em interrupção do prazo prescricional em razão da propositura da liquidação/execução coletiva da obrigação de pagar pelo substituto processual, para efeito de ajuizamento do cumprimento individual do mesmo título coletivo, pois reconhecida a prescrição daquela execução coletiva, precisamente por ter sido deduzida quando já ultrapassado o quinquênio prescricional, o que retira dela qualquer efeito interruptivo em relação aos cumprimentos individuais posteriormente deduzidos.
+
+Aplicando-se, portanto, integralmente, ao presente caso, o entendimento pacificado pela Corte Especial do colendo Superior Tribunal de Justiça no EREsp nº 1.301.935/DF, resta patente a consumação da prescrição da pretensão executória da obrigação de pagar em relação ao presente cumprimento individual, ajuizado em 29/06/2022 (ID 46126183), ou seja, mais de duas décadas após o trânsito em julgado do título coletivo e mais de 17 anos após a consumação do quinquênio prescricional.
+
+Diante desse quadro, impõe-se manter, em sua integralidade, o reconhecimento da prescrição da pretensão executória, tal qual acertadamente decidido pelo Juízo a quo, com a consequente extinção do presente cumprimento individual de sentença coletiva, com resolução do mérito, com fundamento no art. 487, II, do CPC c/c os arts. 1º, 8º e 9º do Decreto nº 20.910/1932.
+
+3) Dispositivo.
+
+Ante o exposto, CONHEÇO e NEGO PROVIMENTO ao recurso de apelação, mantendo integralmente a sentença combatida.
+
+Nos termos do art. 85, § 11, CPC, majoro os honorários advocatícios sucumbenciais fixados na origem na medida de 20% (vinte por cento) sobre o valor mínimo estabelecido pelo escalonamento previsto no art. 85, § 3º, CPC, observada a condição suspensiva de exigibilidade decorrente da gratuidade de justiça deferida (art. 98, § 3º, do CPC).
+
+Determino, ainda, que a Secretaria proceda à retificação da autuação do feito, para que passe a constar o deferimento da gratuidade de justiça em favor das partes apelantes.
+
+É como voto.
+O Senhor Desembargador LEONARDO ROSCOE BESSA - 1º Vogal Com o(a) relator(a)O Senhor Desembargador ARQUIBALDO CARNEIRO - 2º Vogal Com o(a) relator(a)
+
+DECISÃO
+
+CONHECIDO. DESPROVIDO. UNÂNIME.
