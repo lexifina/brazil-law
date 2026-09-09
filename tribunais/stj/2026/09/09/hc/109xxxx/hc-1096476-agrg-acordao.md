@@ -1,0 +1,82 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/09/2026 a 09/09/2026, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Carlos Pires Brandão.
+Os Srs. Ministros Nilsoni de Freitas (Desembargadora Convocada do TJDFT), Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS AUTÔNOMOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que denegou a ordem em habeas corpus, com pretensão de reforma do decisum. Óbice processual apontado: ausência de impugnação específica dos fundamentos autônomos da decisão agravada, com incidência da Súmula 182 do Superior Tribunal de Justiça.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se o agravo regimental pode ser conhecido diante da ausência de impugnação específica aos fundamentos autônomos da decisão monocrática que denegou a ordem.
+III. RAZÕES DE DECIDIR
+3. O agravo regimental deve impugnar, de forma específica e analítica, todos os fundamentos autônomos da decisão agravada, sob pena de não conhecimento, conforme a orientação consolidada na Súmula 182/STJ.
+4. As razões recursais tangenciam o fundamento de gravidade concreta e reiteração delitiva, sem enfrentar os elementos individualizados considerados na decisão, como a dinâmica empresarial e o potencial de replicação do modus operandi.
+5. O argumento sobre contemporaneidade limita-se ao lapso temporal dos fatos, sem enfrentar a premissa decisória de risco atual extraído da capacidade de continuidade da atuação e da ampliação do universo de vítimas.
+6. A alegação de inovação pelo tribunal de origem foca a "condição financeira" para evasão, sem impugnar os demais pilares autônomos de garantia da ordem pública, reiteração e risco à instrução reconhecidos na decisão agravada.
+7. A proposta de medidas cautelares diversas não enfrenta o motivo autônomo de inadequação estrutural das cautelares para neutralizar o risco identificado, mantendo-se deficiente a dialeticidade recursal.
+8. O pedido de prisão domiciliar por maternidade não rebate os fundamentos autônomos da persistência dos riscos qualificados e do óbice fático registrado, razão pela qual subsiste a incidência do óbice processual.
+IV. DISPOSITIVO
+9 . Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por GLAUCIA DA COSTA DOS SANTOS contra decisão monocrática que denegou a ordem no habeas corpus (fls. 120-125).
+Consta dos autos que a denúncia imputa à paciente a prática dos crimes previstos no art. 171, § 4º, do Código Penal e no art. 102 da Lei n. 10.741/2003, em concurso material, por fatos situados entre os anos de 2021 e 2022. A prisão preventiva foi decretada no ato de recebimento da denúncia, em 24/11/2025.
+A decisão agravada assentou a existência de lastro probatório mínimo e a gravidade concreta do modus operandi, com referência à reiteração de condutas, à especial vulnerabilidade da vítima idosa e ao abalo da ordem pública. Afirmou que a contemporaneidade dos motivos da prisão preventiva relaciona-se aos riscos atuais, reputou insuficientes as medidas cautelares diversas da prisão, indeferiu a prisão domiciliar por maternidade diante da persistência dos requisitos da preventiva e do registro de condição de foragida e, por fim, consignou a legitimidade do julgamento monocrático em alinhamento à jurisprudência dominante.
+O agravante sustenta a necessidade de submissão ao colegiado, ao afirmar que a matéria não se conforma à jurisprudência dominante e que, à luz do princípio da colegialidade, impõe-se a reconsideração ou o julgamento pela Turma.
+Aponta, em seguida, a ausência de contemporaneidade dos motivos da prisão preventiva, nos termos do art. 312, § 2º, do Código de Processo Penal, porque a custódia foi decretada cerca de 3 (três) a 4 (quatro) anos após os fatos, sem indicação de fato novo, atual e individualizado que demonstre risco presente à ordem pública, à instrução criminal ou à aplicação da lei penal. Ressalta que a fundamentação se apoiou em gravidade abstrata e projeções especulativas, em afronta ao art. 93, inciso IX, da Constituição Federal e ao art. 315, §§ 1º e 2º, do Código de Processo Penal.
+Alega inexistência de lastro probatório para a "evasão do distrito da culpa", frisando contradição com a informação de que "o mandado de prisão preventiva expedido ainda não foi cumprido", e assevera viver sob o próprio nome, com residência fixa em Chapecó/SC e vínculo de emprego formal, de modo que a notícia genérica de evasão carece de elementos objetivos.
+Aponta indevida inovação de fundamentos pelo Tribunal de Justiça do Estado de São Paulo ao incluir a "condição financeira" como indicativo de fuga, fundamento não presente no decreto prisional de 24/11/2025, além de incompatível com a remuneração mensal aproximada de R$ 2.400,00 (dois mil e quatrocentos reais).
+Ressalta a ausência dos requisitos do art. 312 do Código de Processo Penal, ao afirmar que a garantia da ordem pública se sustentou em juízos abstratos, que a instrução já se encontra adiantada e que o risco à aplicação da lei penal apoia-se apenas em presunções, destacando condições pessoais favoráveis como primariedade, residência fixa, trabalho lícito e maternidade. Defende a suficiência de medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal, com observância dos critérios dos incisos I e II e do § 6º do art. 282 do Código de Processo Penal, propondo comparecimento periódico, manutenção de endereço atualizado, proibição de contato com vítimas e, se necessário, monitoração eletrônica.
+Aduz, por fim, a proteção integral à maternidade e à infância, com fundamento nos arts. 318, inciso V, e 318-A do Código de Processo Penal e no HC coletivo n. 143.641/SP do Supremo Tribunal Federal, afirmando ser mãe de 2 (duas) crianças menores de 12 (doze) anos e que, em sede cautelar, a imprescindibilidade dos cuidados é presumida, sendo indevida a exigência de exclusividade dos cuidados. Requer, em caráter de urgência, medida cautelar para suspender os efeitos do decreto e sustar o mandado até o julgamento colegiado (fls. 129-141).
+Requer o provimento do agravo regimental para a reconsideração da decisão monocrática ou a submissão do feito ao colegiado, com a concessão de medida cautelar para suspender o decreto prisional e sustar o mandado; no mérito, busca a revogação da prisão preventiva; subsidiariamente, pede a substituição por medidas cautelares diversas ou a concessão de prisão domiciliar por maternidade.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS AUTÔNOMOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que denegou a ordem em habeas corpus, com pretensão de reforma do decisum. Óbice processual apontado: ausência de impugnação específica dos fundamentos autônomos da decisão agravada, com incidência da Súmula 182 do Superior Tribunal de Justiça.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se o agravo regimental pode ser conhecido diante da ausência de impugnação específica aos fundamentos autônomos da decisão monocrática que denegou a ordem.
+III. RAZÕES DE DECIDIR
+3. O agravo regimental deve impugnar, de forma específica e analítica, todos os fundamentos autônomos da decisão agravada, sob pena de não conhecimento, conforme a orientação consolidada na Súmula 182/STJ.
+4. As razões recursais tangenciam o fundamento de gravidade concreta e reiteração delitiva, sem enfrentar os elementos individualizados considerados na decisão, como a dinâmica empresarial e o potencial de replicação do modus operandi.
+5. O argumento sobre contemporaneidade limita-se ao lapso temporal dos fatos, sem enfrentar a premissa decisória de risco atual extraído da capacidade de continuidade da atuação e da ampliação do universo de vítimas.
+6. A alegação de inovação pelo tribunal de origem foca a "condição financeira" para evasão, sem impugnar os demais pilares autônomos de garantia da ordem pública, reiteração e risco à instrução reconhecidos na decisão agravada.
+7. A proposta de medidas cautelares diversas não enfrenta o motivo autônomo de inadequação estrutural das cautelares para neutralizar o risco identificado, mantendo-se deficiente a dialeticidade recursal.
+8. O pedido de prisão domiciliar por maternidade não rebate os fundamentos autônomos da persistência dos riscos qualificados e do óbice fático registrado, razão pela qual subsiste a incidência do óbice processual.
+IV. DISPOSITIVO
+9 . Agravo regimental não conhecido.
+VOTO
+O agravo regimental não merece conhecimento, por deficiência de impugnação específica apta a infirmar os fundamentos autônomos da decisão agravada, na linha do entendimento consolidado representado pela Súmula 182 do Superior Tribunal de Justiça.
+O agravante, contudo, limitou-se a afirmar que a decisão se apoiou em gravidade abstrata, sem dialogar, de modo específico, com os pontos autônomos que sustentam o juízo de risco, mormente a reiteração demonstrada em feitos conexos, a dinâmica empresarial apresentada e o potencial de replicação do padrão operativo, todos destacados na decisão agravada. Nessa linha, a insurgência tangencia o fundamento central e não o infirma, deixando sem impugnação específica a base autônoma que, por si, sustenta a medida cautelar.
+Ainda, o agravante sustentou que não houve fato novo, porém não enfrentou o raciocínio de que a projeção do risco decorre da capacidade de continuidade da atuação delineada e do potencial de ampliação do universo de vítimas na moldura descrita, argumento autônomo da decisão. A peça recursal reitera a premissa temporal, sem atacar, de modo direto, a conclusão de que a atualidade do perigo foi extraída da análise contextualizada do iter de atuação e da sua replicabilidade, o que mantém incólume o fundamento específico adotado.
+No tocante à alegada inovação de fundamentos pelo Tribunal de origem, a decisão monocrática afastou a tese ao consignar que tanto o Juízo quanto a Corte estadual justificaram a prisão pela gravidade concreta e pela necessidade de garantia da ordem pública e da instrução. O agravante elegeu, como inovação, a menção à "condição financeira" para evasão, mas não impugnou especificamente os demais pilares autônomos reconhecidos na decisão agravada (gravidade concreta, reiteração e risco de obstrução). Ao atacar isoladamente um ponto adicional, sem enfrentar a integralidade dos fundamentos determinantes, a insurgência permanece deficiente quanto à impugnação específica exigida.
+Tenta o agravante associar a notícia de fuga tão somente à existência contemporânea ou não de mandado de prisão em aberto à época, quando essa correlação não é necessária. A evasão do distrito da culpa deve se basear em elementos fáticos e não meramente formais (como a expedição formal de mandado de prisão), por mais que esses possam também corroborar essa circunstância, conforme o caso concreto. É possível observar nos autos de origem que nem sequer foi possível o indiciamento direto da agravante, ante o fato concreto de sua evasão do distrito da culpa (fl. 314 dos autos de origem), mesmo intimada via eletrônica para comparecimento (fl. 300 dos autos de origem), com informação do Ministério Público estadual no sentido de que não foi possível a oferta de Acordo de Não Persecução Penal pelo fato da agravada ter deixado o distrito da culpa (fl. 336). Revolvimento mais aprofundado das circunstâncias fáticas extrapolam a via estrita do habeas corpus e não foi o único fundamento que deu ensejo à decretação da prisão, considerando que os demais ainda subsistem .
+No que tange à insuficiência das medidas cautelares diversas, o agravante propôs elenco de medidas alternativas, porém não enfrentou diretamente a razão decisória (a inadequação estrutural das cautelares à neutralização do risco identificado), limitando-se à afirmação genérica de proporcionalidade. Assim, não há impugnação específica do motivo autônomo que embasou a manutenção da prisão.
+Por fim, quanto à prisão domiciliar por maternidade, o agravante alegou que equivocada a premissa fática de evasão e invocou a presunção legal de imprescindibilidade dos cuidados, mas não enfrentou o fundamento autônomo assentado (persistência dos riscos qualificados), tampouco contrapôs, de modo específico, a jurisprudência aplicada sobre o óbice da não localização após a decretação. Desse modo, permanece sem ataque direto o conjunto de fundamentos determinantes da negativa da domiciliar.
+A propósito:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. REITERAÇÃO DE WRIT. INDEFERIMENTO LIMINAR. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que indeferiu liminarmente habeas corpus, por indevida reiteração de pedidos, com fundamento no art. 21-E, IV, c/c art. 210, do RISTJ.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o agravo regimental pode ser conhecido, considerando a ausência de impugnação específica aos fundamentos da decisão agravada.
+III. Razões de decidir
+3. Nos termos do art. 1.021, § 1º, do Código de Processo Civil, é ônus da parte recorrente impugnar especificamente os fundamentos da decisão agravada.
+4. A ausência de dialeticidade recursal, caracterizada pela falta de ataque específico aos fundamentos da decisão agravada, impede o conhecimento do recurso, conforme a Súmula n. 182 do STJ.
+IV. Dispositivo
+5. Agravo regimental não conhecido.
+(AgRg no HC n. 1.088.277/SP, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 9/6/2026, DJEN de 24/6/2026).
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SUSPENSÃO CONDICIONAL DO PROCESSO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE INADMISSIBILIDADE. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de agravo em recurso especial, com base na Súmula n. 182 do Superior Tribunal de Justiça, em processo que discute a revogação da suspensão condicional do processo por descumprimento de condição em ação penal por crimes contra a ordem tributária.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se as razões do agravo em recurso especial impugnaram, de forma específica e analítica, todos os fundamentos autônomos da decisão de inadmissibilidade proferida na origem, de modo a afastar a incidência da Súmula n. 182/STJ.
+III. Razões de decidir
+3. O agravo em recurso especial deve impugnar, de forma específica, todos os fundamentos autônomos da decisão de inadmissibilidade, sob pena de não conhecimento, nos termos do art. 932, III, do CPC/2015, do art. 253 do RISTJ, e da Súmula 182/STJ.
+4. O óbice da Súmula n. 7/STJ não foi infirmado, já que a mera assertiva de que o recurso especial não pretende reexaminar fatos ou provas não supre o necessário cotejo analítico entre as premissas fáticas do acórdão recorrido e as teses jurídicas deduzidas.
+5. A afirmação de preenchimento dos requisitos formais do recurso especial não supera a deficiência de fundamentação assentada com base na Súmula n. 284 do Supremo Tribunal Federal. O recurso exige o confronto direto com os fundamentos da decisão recorrida.
+6. O momento processual adequado para a impugnação completa dos fundamentos da decisão de inadmissibilidade é a interposição do agravo em recurso especial. A omissão não pode ser suprida na via do agravo regimental por força da preclusão.
+7. A dialeticidade recursal não exige reprodução literal dos fundamentos da decisão recorrida, mas impõe demonstração concreta do desacerto de cada óbice com apoio nas premissas fáticas do acórdão, encargo não cumprido pelo agravante.
+IV. Dispositivo
+8 . Agravo regimental não provido.
+(AgRg no AREsp 3029578/SP, Rel. Ministro CARLOS PIRES BRANDÃO, SEXTA TURMA, julgamento em 09/06/2026, DJEN em 24/06/2026).
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
