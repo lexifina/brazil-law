@@ -1,0 +1,32 @@
+DECISÃO
+1. Trata-se de Embargos de Declaração opostos por JOAO FELICIANO DA COSTA FERREIRA, à decisão que conheceu do Agravo para não conhecer do Recurso Especial, em razão da aplicação de óbices de admissibilidade recursal, nos termos do art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante:
+Nesse sentido, temos que a decisão ora embargada não enfrentou a necessidade de suspensão do feito em razão do Tema 1.433/STJ, apesar de a matéria nele afetada possuir evidente pertinência com a controvérsia central destes autos, especialmente quanto à extensão subjetiva da coisa julgada coletiva, aos limites subjetivos da eficácia da sentença coletiva, à possibilidade de inclusão de entidades da Administração Indireta nos efeitos executivos da ACP e à legitimidade passiva de entes não expressamente indicados no polo passivo da ação coletiva originária. A omissão é manifesta, sobretudo porque a própria decisão reconheceu que a discussão travada nos autos envolve precisamente a definição dos limites subjetivos da coisa julgada coletiva e a extensão de seus efeitos em relação ao BACEN. Assim, a decisão embargada incorre em omissão ao deixar de enfrentar o a determinação de sobrestamento do feito diante da existência de recurso repetitivo pendente de julgamento acerca da matéria controvertida, em afronta aos arts. 1.036, 1.037, 1.040 e 1.041 do CPC (fl. 1176)
+Requer, assim, o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes Aclaratórios.
+É o relatório.
+2. Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Observe-se que a parte embargante pretende a suspensão do feito em razão de existir decisão de sobrestamento dos processos que versem sobre idêntica controvérsia a processo submetido à sistemática de recursos repetitivos.
+Ocorre que esse exame resta prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente não conhecimento do Recurso Especial.
+Com efeito, o Recurso Especial aviado nestes autos sequer ultrapassou os requisitos de admissibilidade, tendo sido aplicado óbices de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Assim, eventual suspensão do feito até julgamento do referido recurso repetitivo não interferiria no mérito do presente Recurso Especial, o qual, ressalte-se, sequer foi conhecido.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SFH. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. CAIXA ECONÔMICA FEDERAL. INTERESSE. AUSÊNCIA. JUSTIÇA ESTADUAL. COMPETÊNCIA. APÓLICES PRIVADAS. REEXAME DE PROVAS. INADMISSIBILIDADE. SÚMULA N º 7/STJ.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, quando o recurso não ultrapassar o juízo de admissibilidade, não haverá necessidade de sobrestamento do feito em virtude de repercussão geral ou afetação como representativo da controvérsia, tendo em vista que o tema de mérito não chegará a ser enfrentado.
+2. Na hipótese, o reexame da conclusão do aresto impugnado acerca do interesse da Caixa Econômica Federal - CEF na demanda encontra óbice na Súmula nº 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.136.507/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 6/10/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. ASSOCIAÇÃO. TAXA ASSOCIATIVA. PEDIDO DE DESASSOCIAÇÃO. SÚMULA 284 DO STF. ESCRITURA PÚBLICA DE COMPRA E VENDA. CONFISSÃO DE DÍVIDA. REEXAME. IMPOSSIBILIDADE. SÚMULA 5 DO STJ. SÚMULA 7 DO STJ.
+1. Esta Corte Superior perfilha o entendimento de que não há que se falar em sobrestamento e, portanto, em retorno dos autos às instâncias ordinárias quando não ultrapassado sequer o conhecimento do recurso especial.
+2. A parte recorrente, nas razões do recurso especial, não impugnou adequadamente, como lhe competia, o fundamento adotado pelo acórdão recorrido, o que caracteriza deficiência de fundamentação, atraindo a incidência da Súmula 284 do STF.
+3. Derruir a conclusão a que chegou o Tribunal a quo, acolhendo a tese recursal, demandaria o reexame de fatos e provas, bem como a análise dos instrumentos negociais, o que é vedado pelos enunciados das Súmulas 5 e 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.047.013/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 17/5/2023.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HIPÓTESE DE CABIMENTO. OMISSÃO. SOBRESTAMENTO DO ESPECIAL POR TEMA EM REPETITIVO. DESNECESSIDADE DIANTE DE RECURSO INADMISSÍVEL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Da análise do agravo de fls. 829/840 (e-STJ), verifica-se que a agravante não impugnou os fundamentos da decisão agravada relativos à incidência da Súmula 283/STF, limitando-se a alegar que não apontou violação de Súmula e a se insurgir quanto à inexistência de óbice da Súmula 7/STJ e da não incidência da Súmula 284/STF, de modo que o agravo em recurso especial não mereceu conhecimento, haja vista a incidência do inciso V do art. 21-E do RISTJ.
+2. "Se o recurso não ultrapassa o juízo de admissibilidade, não é necessário sobrestar o processo. Isso porque o tema de mérito, independentemente da repercussão geral ou de sua afetação como representativo da controvérsia, não será enfrentado". (AgInt no AREsp 1746550/PE, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/04/2021, DJe 23/04/2021) 3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 2.268.366/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 10/5/2023.)
+Assim, não há qualquer irregularidade sanável por meio dos presentes Embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+3. Ante o exposto, rejeito os Embargos de Declaração e advirto a parte Embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
+ EMENTA
