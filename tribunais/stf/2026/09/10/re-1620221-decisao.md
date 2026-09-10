@@ -1,0 +1,43 @@
+DECISÃO: Trata-se de recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado por OI S/A. - Em Recuperação Judicial, em face do acórdão do Tribunal de Justiça do Estado de Alagoas, assim ementado:
+
+“DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. ICMS. FUNDO ESTADUAL DE COMBATE E ERRADICAÇÃO DA POBREZA (FECOEP). ADICIONAL DE ICMS SOBRE ENERGIA ELÉTRICA E SERVIÇOS DE TELECOMUNICAÇÕES. ESSENCIALIDADE DOS SERVIÇOS. IMPOSSIBILIDADE DE TRIBUTAÇÃO AGRAVADA SOBRE BENS E SERVIÇOS NÃO SUPÉRFLUOS. APLICAÇÃO ANALÓGICA DA MODULAÇÃO DE EFEITOS DO TEMA N.º 745 DO STF. REPETIÇÃO DE INDÉBITO INDEVIDA. SUCUMBÊNCIA MÍNIMA DA AUTORA. REFORMA PARCIAL DA SENTENÇA. RECURSO PARCIALMENTE PROVIDO.
+I. CASO EM EXAME
+1. Apelação cível interposta contra sentença proferida em ação declaratória cumulada com repetição de indébito tributário que julgou parcialmente procedente o pedido para declarar a inexistência de relação jurídico-tributária quanto à incidência do adicional do FECOEP sobre energia elétrica, apenas a partir de 01.01.2024, em razão da modulação de efeitos do Tema n.º 745 do STF, indeferindo a restituição dos valores recolhidos anteriormente e condenando a autora ao pagamento das custas processuais e honorários advocatícios. A apelante sustenta a inaplicabilidade da modulação do Tema n.º 745 ao FECOEP, a ilegalidade da cobrança sobre serviços essenciais e a inadequação da condenação aos ônus sucumbenciais.
+II. QUESTÃO EM DISCUSSÃO
+2. Há 3 questões em discussão: (i) definir se o adicional do FECOEP pode incidir sobre energia elétrica e serviços de telecomunicações, à luz do art. 82, §1º, do ADCT; (ii) estabelecer se a modulação de efeitos fixada pelo STF no Tema nº 745 é aplicável, por analogia, à cobrança do adicional do FECOEP; e (iii) determinar se a condenação da autora aos ônus sucumbenciais deve ser mantida diante do acolhimento do pedido declaratório principal.
+III. RAZÕES DE DECIDIR
+3. O art. 82, §1º, do ADCT restringe a incidência do adicional do FECOEP a produtos e serviços supérfluos, de modo que a essencialidade da energia elétrica e dos serviços de telecomunicações impede a tributação agravada sobre tais atividades.
+4. A ratio decidendi do Tema n.º 745 do STF aplica-se analogicamente ao FECOEP, pois o fundamento central do precedente reside na incompatibilidade entre a essencialidade da energia elétrica e telecomunicações e a imposição de carga tributária majorada fundada em superfluidade.
+ 5. A modulação de efeitos do Tema n.º 745 do STF deve ser observada também em relação ao FECOEP, uma vez que decorre de razões de segurança jurídica, equilíbrio federativo e estabilidade orçamentária, nos termos do art. 27 da Lei n.º 9.868/1999, e não exclusivamente da disciplina das alíquotas ordinárias do ICMS.
+6. A Lei Complementar n.º 194/2022 apenas positivou entendimento já consolidado pelo STF quanto à essencialidade da energia elétrica e dos serviços de telecomunicações, sem afastar a modulação de efeitos estabelecida pela Suprema Corte.
+7. A ausência de enquadramento da autora nas hipóteses excepcionadas pelo STF impede a produção imediata dos efeitos da inexigibilidade tributária, razão pela qual o reconhecimento da impossibilidade de cobrança do FECOEP somente produz efeitos a partir de 01.01.2024, inviabilizando a repetição do indébito relativamente aos valores anteriormente recolhidos.
+ 8. A modulação de efeitos não configura improcedência parcial do pedido, mas limitação temporal da eficácia do direito reconhecido, razão pela qual não caracteriza sucumbência relevante da autora.
+ 9. A superveniência do Decreto Estadual n.º 83.840/2022 reduziu parcialmente a utilidade da demanda quanto ao período posterior a 01.07.2022, configurando sucumbência mínima da autora, nos termos do art. 86, parágrafo único, do CPC.
+10. A impossibilidade de mensuração do proveito econômico imediato da demanda declaratória justifica a fixação dos honorários advocatícios sobre o valor atualizado da causa, nos termos do art. 85, §4º, III, do CPC.
+IV. DISPOSITIVO E TESE
+11. Recurso parcialmente provido.
+Tese de julgamento: "1. O adicional do FECOEP não pode incidir sobre energia elétrica e serviços de telecomunicações, por se tratar de bens e serviços essenciais incompatíveis com a exigência constitucional de superfluidade prevista no art. 82, §1º, do ADCT. 2. A modulação de efeitos fixada pelo STF no Tema n.º 745 aplica-se, por analogia, à cobrança do adicional do FECOEP sobre energia elétrica e telecomunicações. 3. A Lei Complementar n.º 194/2022 não afasta a modulação de efeitos do Tema n.º 745, pois apenas positivou entendimento já reconhecido pelo STF acerca da essencialidade desses serviços. 4. A modulação temporal dos efeitos do direito reconhecido não configura improcedência parcial do pedido nem sucumbência substancial da parte vencedora. 5. A sucumbência mínima da autora impõe a condenação integral do Estado ao pagamento das custas processuais e honorários advocatícios, nos termos do art. 86, parágrafo único, do CPC." (Apelação Cível nº 0713807-12.2023.8.02.0001, Relatora Juíza convocada Ana Florinda M. da Silva Dantas, 4ª Câmara Cível do TJAL, j. 01/07/2026)
+
+No recurso extraordinário, sustenta-se violação do art. 82, §1º, do ADCT. Argumenta, em síntese,  a equivocada aplicação da modulação de efeitos do tema 745 da Repercussão Geral, defendendo sua inaplicabilidade.
+É o relatório.
+Decido.
+O recurso  não comporta seguimento.
+Trata-se, na origem, de ação declaratória cumulada com repetição de indébito, na qual se defendia a não incidência do FECP sobre operações com telecomunicações.
+A Corte local, por seu turno, aplicou o tema 745 da Repercussão analogicamente ao caso, decidindo que seria indevido o recolhimento do adicional e aplicando a modulação de efeitos. Confira-se:
+
+“Com efeito, a modulação promovida pela Suprema Corte não decorreu exclusivamente das especificidades da alíquota ordinária do ICMS, mas sobretudo de razões consequencialistas, relacionadas à necessidade de preservação da segurança jurídica, do equilíbrio federativo e da estabilidade orçamentária dos entes subnacionais, nos termos do art. 27 da Lei n.º 9.868/1999. Trata-se, portanto, de fundamento constitucional e pragmático que igualmente se projeta sobre a cobrança do adicional do FECOEP, cuja arrecadação se destina ao financiamento de políticas públicas voltadas ao combate e erradicação da pobreza.
+[...]
+No caso concreto, a ação foi ajuizada apenas no ano de 2023, inexistindo enquadramento em qualquer das hipóteses excepcionadas pelo Supremo Tribunal Federal para incidência imediata dos efeitos do Tema n.º 745. Consequentemente, a eficácia material do reconhecimento da impossibilidade de cobrança do FECOEP sobre energia elétrica e telecomunicações somente exsurge a partir do exercício financeiro de 2024, em simetria ao regime de transição fixado pela Corte Suprema.” (Grifo acrescido)
+Nessa senda, o Supremo Tribunal Federal, ao apreciar o Tema 745 da sistemática da repercussão geral, fixou a tese segundo a qual “[a]dotada, pelo legislador estadual, a técnica da seletividade em relação ao Imposto sobre Circulação de Mercadorias e Serviços-ICMS, discrepam do figurino constitucional alíquotas sobre as operações de energia elétrica e serviços de telecomunicação em patamar superior ao das operações em geral, considerada a essencialidade dos bens e serviços”.
+Na ocasião, esta Corte modulou os efeitos da decisão para o exercício financeiro de 2024, ressalvando-se as ações ajuizadas até a data do início do julgamento do mérito (05.2.2021). Na presente hipótese, a ação foi ajuizada em abril de 2023 (e-doc. 01), após, portanto, o marco temporal definido por esta Suprema Corte.
+Nesse contexto, até o término do exercício financeiro de 2023, as operações com energia elétrica e a prestação dos serviços de telecomunicação poderiam ser tributadas com alíquota superior à estipulada para as operações em geral, nos termos das leis dos Estados e do Distrito Federal.
+Verifica-se, portanto, que o acórdão impugnado está alinhado à jurisprudência desta Suprema Corte quanto à modulação dos efeitos estabelecida no julgamento do Tema 745 da repercussão geral.
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+
+Brasília, 10 de setembro de 2026.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
