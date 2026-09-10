@@ -1,0 +1,45 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto por ESTADO DE MATO GROSSO contra decisão que inadmitiu o recurso especial com fundamento na incidência da Súmula 7 deste STJ e, por analogia, Súmulas 280 e 284 do STF.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Contraminuta apresentada.
+É o relatório.
+Decido.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Mato Grosso, assim ementado:
+Ementa: direito tributário. Apelação cível. Responsabilidade solidária. Cooperativa de armazenagem. Inexistência de interesse comum no fato gerador. Ilegalidade de atribuição de responsabilidade com base em legislação estadual. Recurso não provido.
+I. Caso em exame
+1. Apelação Cível interposta contra sentença que julgou procedente ação anulatória para reconhecer a ilegitimidade da cooperativa em figurar como responsável solidária em diversas Certidões de Dívida Ativa oriundas de autos de infração lavrados contra produtores rurais, determinando sua exclusão do polo passivo. A parte recorrente sustenta que a cooperativa não apenas armazenava, mas também comercializava grãos dos produtores, configurando interesse comum no fato gerador do ICMS e justificando a solidariedade, com base na Lei Complementar n. 87/96, Lei Estadual n. 7.098/98 e no Regulamento do ICMS/MT.
+II. Questão em discussão
+2. A questão em discussão consiste em definir se é legítima a inclusão da cooperativa no polo passivo das Certidões de Dívida Ativa como responsável solidária por infrações tributárias atribuídas a produtores rurais cooperados.
+III. Razões de decidir
+3. A responsabilidade solidária prevista no art. 124, I, do CTN exige demonstração de interesse comum na realização do fato gerador, o que não se configura quando a cooperativa atua exclusivamente como armazenadora, sem participar das operações comerciais ou auferir lucro com elas.
+4. A ausência de emissão de notas fiscais, de participação nas vendas e de proveito econômico direto nas transações afasta o nexo de solidariedade entre a cooperativa e os produtores autuados.
+5. A atribuição de responsabilidade solidária com base apenas na atividade de depósito caracteriza aplicação genérica e presumida da norma, incompatível com a interpretação restritiva exigida em matéria de responsabilidade tributária.
+6. Os dispositivos da Lei Estadual n. 7.098/98 que atribuem solidariedade à cooperativa afrontam o art. 146, III, da CF/1988, por tratarem de matéria reservada à lei complementar, conforme decidido pelo STF na ADI nº 4845.
+7. A jurisprudência do TJMT é firme ao afastar a responsabilidade solidária de cooperativas de armazenagem em casos análogos, diante da ausência de vínculo jurídico-tributário direto com o fato gerador do imposto devido por terceiros.
+IV. Dispositivo
+8. Recurso não provido (fls. 1.087-1.088).
+Os embargos de declaração opostos foram rejeitados (fls. 1.159-1.167).
+Nas razões do recurso especial, a parte recorrente aponta violação dos arts. 124, I e II, e 128 do Código Tributário Nacional.
+Argumenta que o art. 124, II, do CTN autoriza a designação legal de terceiros responsáveis, e a Lei Estadual 7.098/1998 designa o armazém geral/depositário como responsável solidário quando houver saída de mercadoria sem documentação fiscal.
+Defende que o TJMT aplicou equivocadamente a ADI 4845 do Supremo Tribunal Federal, pois a autuação não se baseou no art. 18-C da Lei 7.098/1998, declarado inconstitucional, mas nos arts. 18 e 18-A combinados com o art. 124, II, do CTN. Argumenta a necessidade de distinguishing para validar a responsabilidade específica do depositário.
+O recurso especial tem origem em ação anulatória proposta por cooperativa de armazenagem, para desconstituir Certidões de Dívida Ativa - CDAs de ICMS em que figurou como responsável solidária, decorrentes de autos de infração lavrados contra produtores rurais. O TJMT manteve a sentença que reconheceu a ilegitimidade da cooperativa para a solidariedade, por ausência de interesse comum e por ilegalidade da atribuição com base em legislação estadual, à luz da ADI 4845. Vejamos:
+Na hipótese dos autos, a cooperativa ora apelada foi incluída como responsável solidária em Certidões de Dívida Ativa originadas de autos de infração lavrados contra produtores rurais, no âmbito do E-process n. 5886869/2021, instaurado para apuração de operações realizadas no exercício de 2016.
+Conforme documentação constante nos autos, a cooperativa exercia a função de armazenadora de grãos, não sendo a emitente das notas fiscais relacionadas às saídas das mercadorias, tampouco tendo participado das operações comerciais ou auferido proveito econômico direto decorrente dessas transações.
+Diante disso, não se evidencia a presença de interesse comum na situação que constitui o fato gerador da obrigação principal, nos termos do art. 124, I, do Código Tributário Nacional, o que afasta a possibilidade de responsabilização solidária da cooperativa pelo crédito tributário exigido exclusivamente dos produtores autuados.
+Ressalto que a responsabilidade tributária solidária prevista no art. 124 do CTN exige interpretação restritiva e fundamentação específica, não podendo ser aplicada de forma genérica ou com base apenas em presunção de vínculo econômico, sob pena de violação aos princípios da legalidade e da segurança jurídica.
+ ..
+Embora o Estado de Mato Grosso alegue a cooperativa não se limitava à armazenagem, mas também comercializava grãos dos produtores, é importante registrar que não restou comprovado nos autos o alegado interesse comum na realização do fato gerador, tampouco a participação da cooperativa nas operações de venda.
+Além disso, ainda que o Estado sustente que os créditos tributários foram regularmente lançados com respaldo na Lei Complementar n. 87/96, na Lei Estadual n. 7.098/98 e no Decreto n. 2.212/2014, é ilegal a atribuição de responsabilidade tributária solidária à cooperativa de armazenagem de grãos dos cooperados, com base em legislação estadual, pelo descumprimento de obrigação tributária acessória e principal, uma vez que não foi ela quem emitiu os documentos fiscais tidos como inidôneos, não realizou as operações de venda e tampouco teve qualquer participação nos lucros obtidos pelos produtores rurais (fls. 1.093-1.094).
+O recurso não merece prosperar.
+De início, quanto à apontada violação ao art. 128 do CTN, observa-se que a parte recorrente limitou-se a apontar o artigo de lei que entende por violado, sem, todavia, cotejar e explicitar os motivos pelos quais o comando normativo teria deixado de ser aplicado ou como o acórdão recorrido estaria violando o dispositivo legal, o que atrai o óbice previsto na Súmula 284/STF.
+Segundo a jurisprudência desta Corte, "quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal" (AgInt no REsp n. 2.126.362/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 2/9/2024, DJe de 5/9/2024).
+Ademais, da análise dos autos é possível verificar que a apreciação da pretensão do recorrente, ainda que sustentada com base em suposta violação à lei federal, demandaria, necessariamente, a interpretação da legislação local considerada pelo acórdão recorrido, inviável em recurso especial, nos termos da Súmula 280/STF.
+Por fim, a pretensão da parte recorrente encontra óbice na Súmula 7/STJ. Isso porque, para alterar as conclusões do órgão julgador - no sentido de que a cooperativa atuou como armazenadora; não emitiu notas de saída; não participou das vendas; não auferiu proveito econômico direto; e a responsabilização fundada na atividade de depósito foi tida como genérica - seria imprescindível o reexame do acervo fático-probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284 DO STF. RESERVA LEGAL. FALTA DE INTERESSE DE AGIR. MATÉRIA QUE DEVERIA TER SIDO SUSCITADA EM AÇÃO CIVIL PÚBLICA ANTERIORMENTE AJUIZADA CONTRA O RECORRENTE. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+4. Para chegar a conclusão diversa da que chegou o Tribunal de origem, é inevitável novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo Interno não provido (AgInt no AREsp n. 2.168.672/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/5/2023, DJe de 5/6/2023, grifo nosso).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Intimem-se.
+ EMENTA
