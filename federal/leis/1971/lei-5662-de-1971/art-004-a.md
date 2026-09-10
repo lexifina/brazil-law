@@ -1,0 +1,2 @@
+Art. 4º-A O disposto no art. 224 da Consolidação das Leis do Trabalho – CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, não se aplica aos empregados do Banco Nacional de Desenvolvimento Econômico e Social – BNDES e aos de suas subsidiárias.
+Parágrafo único. A jornada de trabalho dos empregados do BNDES e de suas subsidiárias será de sete horas diárias, perfazendo um total de trinta e cinco horas de trabalho semanais, não podendo ser reduzida em qualquer hipótese.

@@ -1,0 +1,1 @@
+Art. 5º-A. O Banco Nacional de Desenvolvimento Econômico e Social (BNDES) é autorizado a constituir subsidiárias integrais ou controladas, com vistas ao cumprimento de atividades do seu objeto social.
