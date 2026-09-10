@@ -1,0 +1,35 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Zenaide dos Santos contra acórdão da Quinta Turma do Superior Tribunal de Justiça, que negou provimento ao AgRg no HC 1.102.065/RS (doc. 9, pp. 1006-1014).
+
+Consta de documento encartado a estes autos que a paciente “[...] cumpre pena de 20 anos, 08 meses e 14 dias de reclusão, atualmente em regime fechado, pela prática dos crimes de tráfico de drogas e associação para o tráfico. Iniciou o cumprimento da pena em 14/04/2017, com previsão de término para 30/06/2038” (doc. 2, p. 33).
+
+Neste writ, o impetrante sustenta, em síntese, que:
+
+Embora a jurisprudência admita o reconhecimento de falta grave decorrente da prática de fato definido como crime doloso independentemente do trânsito em julgado da condenação penal, tal reconhecimento exige a efetiva observância do devido processo legal, com a apuração concreta da materialidade e da autoria do fato no âmbito da execução penal, mediante procedimento que assegure o contraditório e a ampla defesa.
+No caso em análise, contudo, verifica-se que o reconhecimento das faltas graves baseou-se exclusivamente em elementos extraídos de decisões proferidas em outros processos, especialmente no âmbito do pedido de prisão preventiva, os quais se fundam em juízo de cognição sumária e não constituem prova definitiva da prática delitiva. (doc. 1, pp. 6-7).
+
+E, ao final, requer:
+
+a) Sejam colhidas informações da autoridade coatora, no caso dos autos o MM. Ministro Presidente do Superior Tribunal de Justiça; b) A oitiva do Ministério Público; c) A concessão da ordem de habeas corpus em sede liminar com a reforma da decisão para o NÃO ACOLHIMENTO das teses ventiladas pelo Ministério Público, para absolver a paciente da aplicação de falta grave, inclusive de forma liminar; d) Subsidiariamente, seja considerada falta menos gravosa; e) ALTERNATIVAMENTE o afastamento da perda de dias remidos. f) no mérito, a procedência da ação e a confirmação da ordem. (doc. 1, p. 8).
+
+É o relatório necessário. Decido.
+
+Colaciono, por oportuno, a ementa do acórdão impugnado:
+
+Ementa DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO. FALTA GRAVE POR COMETIMENTO DE CRIME DOLOSO. REGRESSÃO DE REGIME. PERDA DE DIAS REMIDOS. AGRAVO REGIMENTAL DESPROVIDO. I. Caso em exame 1. O recurso. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, manejado como substitutivo de recurso próprio. 2. Fato relevante. No curso da execução penal, após audiência de justificação, foi reconhecida a prática de faltas graves, com imposição de regressão ao regime fechado, perda de 1/10 dos dias remidos e alteração da data-base para setembro de 2024. 3. Fundamentos da insurgência. A Agravante sustenta ausência de participação nos fatos em apuração por supostamente se encontrar presa à época, inexistência de ilícitos em busca e apreensão realizada em cela e insuficiência de elementos por se basearem em processos criminais em curso e em decisão de prisão preventiva, de cognição sumária. 4. Pedido. Pretensão de conhecimento e provimento do agravo regimental para reformar a decisão e conceder a ordem. II. Questão em discussão 5. A questão em discussão consiste em: (i) saber se é cabível habeas corpus substitutivo de recurso próprio; (ii) saber se o cometimento de fato definido como crime doloso durante a execução penal autoriza o reconhecimento de falta grave independentemente de trânsito em julgado; (iii) saber se, reconhecida a falta grave, impõem-se os consectários legais de regressão de regime, alteração da data-base e perda de dias remidos; e (iv) saber se, na via estreita do habeas corpus, é possível o revolvimento do conjunto fático-probatório e a análise de alegações não apreciadas na instância de origem. III. Razões de decidir 6. Habeas corpus substitutivo de recurso próprio não é cabível, conforme orientação consolidada, admitindo-se, contudo, a análise de eventual flagrante ilegalidade para concessão de ofício. 7. A prática de fato definido como crime doloso durante a execução caracteriza falta grave, prescindindo do trânsito em julgado de condenação no processo penal instaurado para apuração do fato, conforme art. 118, I, e art. 52 da LEP e Súmula 526 do STJ. 8. A apuração administrativa observou o devido processo legal, contraditório e ampla defesa, com audiência de justificação e assistência por defensor, bastando indícios suficientes de autoria e materialidade para fins disciplinares. 9. Reconhecida a falta grave, incidem obrigatoriamente os consectários legais: regressão de regime, alteração da data-base e perda de dias remidos, nos termos dos arts. 127 e 57 da LEP, sendo legítima a fração de 1/10 quando devidamente fundamentada; a falta grave interrompe a contagem do prazo para progressão de regime, conforme Súmula 534 do STJ. IV. Dispositivo 10. Resultado do Julgamento: Agravo regimental desprovido. (doc. 9, pp. 1006-1007 – grifei).
+
+Com efeito, a jurisprudência do Supremo Tribunal Federal é firme no sentido de que a análise da pretendida absolvição demandaria o necessário reexame de fatos e provas, o que é irrealizável na ação constitucional do habeas corpus.
+
+Nessa mesma direção:
+
+Ementa AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO DA PENA. FALTA GRAVE. ALEGADA NULIDADE DO PROCESSO ADMINISTRATIVO. PEDIDO DE ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. NECESSÁRIO REEXAME DE FATOS E PROVAS. INVIABILIDADE. AGRAVO AO QUAL SE NEGA PROVIMENTO. I – No caso, dissentir do que decidido pela Sexta Turma do Superior Tribunal de Justiça demandaria o reexame do conjunto fático-probatório constante dos autos, o que é inviável na estreita via do habeas corpus. II – Agravo ao qual se nega provimento. (RHC 232.997 AgR/SP, da minha relatoria, Primeira Turma, DJe 1º/12/2023 – grifei).
+
+Ementa AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. WRIT SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL. FALTA DISCIPLINAR GRAVE. PLEITO ABSOLUTÓRIO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INVIABILIDADE. ATO COATOR PARAMETRIZADO COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. MANIFESTA ILEGALIDADE OU TERATOLOGIA NÃO IDENTIFICADAS. 1. Na linha da orientação jurisprudencial desta Suprema Corte, o Agravante tem o dever de impugnar, de forma específica, todos os fundamentos da decisão agravada, sob pena de não provimento do agravo regimental. Precedentes. 2. Inadmissível o emprego do habeas corpus como sucedâneo de recurso ou revisão criminal. Precedentes. 3. Para concluir em sentido diverso das instâncias anteriores quanto ao pleito de absolvição da imputação de falta grave, imprescindíveis o reexame e a valoração de fatos e provas, para o que não se presta a via eleita. Precedentes. 4. Agravo regimental conhecido e não provido. (HC 242.951 AgR/SP, Rel. Min. Flávio Dino, Primeira Turma, DJe 28/8/2024 – grifei).
+
+Ante o exposto, nego seguimento ao habeas corpus (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+
+Publique-se.
+
+Brasília, 10 de setembro de 2026.
+
+Ministro Cristiano Zanin
+Relator
