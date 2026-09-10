@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de JAIR FRAGOSO, preso preventivamente e acusado pela prática do crime de tráfico de drogas (Processo n. 5002817-54.2026.8.21.0074/RS, da 1ª Vara Judicial da comarca de Três de Maio/RS).
+O impetrante aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul, que, em 20/8/2026, conheceu em parte e, na parte conhecida, denegou o HC n. 5243784-40.2026.8.21.7000/RS.
+Alega a existência de novo ato coator superveniente, consubstanciado na decisão de 13/7/2026 que reavaliou e manteve a prisão preventiva (art. 316 do Código de Processo Penal), não integralmente apreciado pela Corte de origem.
+Sustenta a ausência de fundamentação concreta quanto ao alegado risco à instrução criminal, afirmando que o juízo de origem não indicou conduta específica do paciente que pudesse comprometer a produção da prova.
+Afirma a ausência de demonstração individualizada do periculum libertatis e do risco atual de reiteração delitiva, reputando insuficiente a referência genérica a registros pretéritos.
+Alega a insuficiência da fundamentação para afastar as medidas cautelares do art. 319 do Código de Processo Penal, sem exame concreto das alternativas menos gravosas. Invoca a proporcionalidade da medida, destacando, entre outros aspectos, a apreensão de aproximadamente 8 g de cocaína e demais objetos, pugnando por análise cuidadosa da necessidade da segregação.
+Defende a suficiência de medidas cautelares diversas, como comparecimento periódico, proibição de contato, restrições de deslocamento, recolhimento domiciliar e monitoração eletrônica.
+Em caráter liminar, pede a revogação da prisão com expedição de alvará de soltura, subsidiariamente a substituição por cautelares diversas e, no mérito, a concessão definitiva da ordem, o reconhecimento do novo ato coator e a substituição por medidas cautelares.
+É o relatório.
+Do atento exame dos autos observo que a segregação cautelar do acusado se encontra fundamentada na garantia da ordem pública, em razão do risco concreto de reiteração delitiva, com base no histórico de envolvimento criminal indicado pelas certidões judiciais e na prática de nova infração durante a pendência de ação penal (art. 312, § 3º, IV, do Código de Processo Penal; art. 310, § 5º, I e IV, do Código de Processo Penal) - fls. 43/44.
+O Juízo de origem também registrou a contemporaneidade dos fundamentos, a designação próxima da audiência e destacou a insuficiência das medidas do art. 319 do Código de Processo Penal, consideradas inadequadas para conter o ímpeto delitivo (fl. 44).
+Como se vê, a imposição da prisão preventiva se encontra adequadamente fundamentada a partir da análise particularizada da situação fática dos autos, tendo sido amparada no risco concreto de reiteração delitiva, notadamente porque o autuado ostenta histórico criminal, o que justifica a custódia cautelar, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+Com efeito, a jurisprudência desta Corte admite a decretação da prisão preventiva para resguardar a ordem pública quando o agente ostenta maus antecedentes, reincidência, prática pretérita de atos infracionais, inquéritos em andamento ou ações penais em curso, pois tais circunstâncias evidenciam sua contumácia delitiva e, por conseguinte, sua periculosidade, conforme já reconhecido no AgRg no RHC n. 159.385/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 27/5/2022.
+Indefiro liminarmente o writ (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO DELITIVA. CONTEMPORANEIDADE DOS FUNDAMENTOS. INSUFICIÊNCIA DE MEDIDAS CAUTELARES DIVERSAS. HISTÓRICO CRIMINAL.
+Petição inicial indeferida liminarmente.
