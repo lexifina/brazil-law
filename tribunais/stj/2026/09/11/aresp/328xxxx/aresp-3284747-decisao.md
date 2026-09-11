@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo manejado por Luiz Claudio Marestoni contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fls. 591/592):
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AUSÊNCIA DE INTERESSE RECURSAL. DECISÃO FUNDAMENTADA. INEXISTÊNCIA DE NULIDADE. APOSENTADORIA ESPECIAL. COMPROVAÇÃO DAS CONDIÇÕES ESPECIAIS. VIBRAÇÃO DE CORPO INTEIRO. IMPLEMENTAÇÃO DOS REQUISITOS. TERMO INICIAL DOS EFEITOS FINANCEIROS. TEMA 1124/STJ. JUROS E CORREÇÃO MONETÁRIA. MANUAL DE CÁLCULOS NA JUSTIÇA FEDERAL. HONORÁRIOS DE ADVOGADO. SUCUMBÊNCIA RECURSAL.
+1. Ausência de interesse recursal quanto à(ao) pedido de submissão da sentença ao reexame necessário, observância da prescrição quinquenal e isenção de custas processuais. Pedido não conhecido.
+2. Preliminar de nulidade rejeitada. Não se vislumbra a ausência da análise de qualquer questão relevante no , que aborda todas as questões e traz emdecisum seu bojo o necessário para a compreensão de seus fundamentos.
+3. Valor da condenação inferior a 1000 (mil) salários mínimos. Remessa oficial descabida. Preliminar rejeitada.
+4. Em relação ao pedido de recebimento do recurso no efeito suspensivo, a antecipação da tutela foi concedida na sentença, o que torna possível o recebimento da apelação apenas no efeito devolutivo, nos termos do art. 1012, § 1º, inciso V do CPC/2015.
+5. Deve ser observada a legislação vigente à época da prestação do trabalho para o reconhecimento da natureza da atividade exercida pelo segurado e os meios de sua demonstração.
+6. A Emenda Constitucional nº 103/2019 alterou profundamente os critérios para concessão da aposentadoria especial com a reintrodução do critério etário como exigência e modificando a forma de cálculo do benefício
+7. A especialidade do tempo de trabalho é reconhecida por mero enquadramento legal da atividade profissional (até 28/04/95), por meio da confecção de informativos ou formulários (no período de 29/04/95 a 10/12/97) e via laudo técnico ou Perfil Profissiográfico Previdenciário (a partir de 11/12/97).
+8. Para o agente ruído, considera-se especial a atividade desenvolvida acima do limite de 80dB até 05/03/1997, quando foi editado o Decreto nº 2.172/97, a partir de então deve-se considerar especial a atividade desenvolvida acima de 90dB. A partir da edição do Decreto nº 4882 em 18/11/2003, o limite passou a ser de 85Db.
+9. O uso de Equipamento de Proteção Individual - EPI para o agente nocivo ruído, desde que em níveis acima dos limites legais, não descaracteriza o tempo de serviço especial.
+10. Possível o reconhecimento da atividade especial em razão da exposição à vibração de corpo inteiro (VCI), se superado o limite legal de 0,63 m/s  para atividades desempenhadas até 12/08/2014 e de 1,1 m/s  para atividades exercidas a partir de 13/08/2014 (Instrução Normativa INSS/PRES nº 45/2010, Portaria MTE n.º 1.297/13.08.2014, Norma ISO nº 2.631/85).
+11. A soma dos períodos redunda no total de mais de 25 anos de tempo de serviço especial, o que autoriza a concessão da aposentadoria especial, nos termos do art. 57 da Lei nº 8.213/91.
+12. Termo inicial dos efeitos financeiros da concessão do benefício. Tema 1.124/STJ.
+13. Juros e correção monetária. Aplicação dos índices previstos no capítulo 4.3, do Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal, alterado pela Resolução CJF nº 784/2022, de 08 de agosto de 2022, ou daquele que estiver em vigor na data da liquidação do título executivo judicial.
+14. Honorários advocatícios fixados em 10% do valor da condenação com fundamento nos incisos I ou II do §3º do artigo 85 do CPC/2015, aplicada a Súmula 111 do C. Superior Tribunal de Justiça (Tema 1105 do STJ).
+15. Considerando o parcial provimento do recurso, incabível a aplicação da regra do §11 do artigo 85 do CPC/2015. Precedente do STJ (AgInt nos ER Esp n. 1.539.725/DF, relator Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 9/8/2017, D Je de 19/10/2017.)
+16. É obrigatória a dedução, na fase de liquidação, dos valores eventualmente pagos administrativamente à parte autora, a mesmo título ou cuja cumulação seja vedada por lei, após o termo inicial do benefício ora assinalado, em consonância com o disposto no art. 124 da Lei nº 8.213/91.
+17. Quanto à alegação de necessidade de a parte autora apresentar autodeclaração, entendo tratar-se de procedimento a ser efetuado na esfera administrativa, em que se dispensa a determinação judicial.
+18. Sentença corrigida de ofício. Preliminar rejeitada. Apelação do Instituto Nacional do Seguro Social - INSS parcialmente conhecida e, na parte conhecida, parcialmente provido.
+Opostos dois embargos de declaração, um pela Autarquia previdenciária, e outro pela parte Autora, foram rejeitados consoante as seguintes ementas (fls. 628 e 672):
+EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL. ERRO MATERIAL. CORREÇÃO. NÃO VERIFICAÇÃO DAS HIPÓTESES PREVISTAS NO ARTIGO 1.022 DO CPC/15. PROPÓSITO MERAMENTE MODIFICATIVO. PREQUESTIONAMENTO. RECURSO REJEITADO.
+1. De acordo com o art. 1.022 do Código de Processo Civil, os embargos de declaração possuem função processual específica, que consiste em integrar, retificar ou complementar a decisão embargada.
+2. Erro material no corpo do relatório, integrante do v. acórdão embargado. Correção de ofício.
+3. O(a) embargante não logrou demonstrar a existência de omissão ou de qualquer das hipóteses elencadas naquele dispositivo legal.
+4. A insatisfação da parte com o resultado da decisão embargada não enseja a oposição de embargos de declaração.
+5. Os embargos para fim de prequestionamento têm como pressuposto de admissibilidade a demonstração da ocorrência de qualquer das hipóteses previstas nos incisos do art. 1.022 do CPC/2015, não se fazendo necessária, para interposição de recursos aos Tribunais Superiores, alusão expressa a todos os dispositivos legais mencionados pelas partes.
+6. Erro material corrigido, de ofício. Embargos de declaração rejeitados.
+EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL. NÃO VERIFICAÇÃO DAS HIPÓTESES PREVISTAS NO ARTIGO 1.022 DO CPC/15. PROPÓSITO MERAMENTE MODIFICATIVO. PREQUESTIONAMENTO. RECURSO REJEITADO.
+1. De acordo com o art. 1.022 do Código de Processo Civil, os embargos de declaração possuem função processual específica, que consiste em integrar, retificar ou complementar a decisão embargada.
+2. A parte embargante não logrou demonstrar a existência de omissão ou de qualquer das hipóteses elencadas naquele dispositivo legal.
+3. A insatisfação da parte com o resultado da decisão embargada não enseja a oposição de embargos de declaração.
+4. Os embargos para fim de prequestionamento têm como pressuposto de admissibilidade a demonstração da ocorrência de qualquer das hipóteses previstas nos incisos do art. 1.022 do CPC/2015, não se fazendo necessária, para interposição de recursos aos Tribunais Superiores, alusão expressa a todos os dispositivos legais mencionados pelas partes.
+5. Embargos de declaração rejeitados.
+Nas razões do recurso especial, a parte ora recorrente aponta, além de divergência jurisprudencial, contrariedade ao art. 493 do CPC, sustentando a necessidade de que seja apreciado "a reafirmação da DER, a fim de viabilizar a concessão da aposentadoria por tempo de contribuição, já que os requisitos foram cumpridos no curso do processo" (fls. 684), bem como violação ao art. 49, II, da Lei n. 8.213/1991, alegando que " a  Lei de Benefícios estabelece que a aposentadoria será devida a partir da DER, podendo esta ser reafirmada em favor do segurado" (fl. 685).
+Todavia, em juízo negativo de admissibilidade, decidiu a Vice-presidência do TRF-3 inadmitir o apelo nobre da parte ora agravante porque "parte autora traz argumentos relacionados à violação do Tema 995/STJ, não tendo sido atacado o fundamento principal tratado no v. acórdão recorrido, qual seja o pedido expresso de aposentadoria especial na inicial, o que constitui inovação recursal o pedido de reafirmação da DER visando aposentadoria por tempo de contribuição", " aplicando-se  ao caso a Súmula 283 do Supremo Tribunal Federal" (fls. 695/696).
+Irresignada com a decisão da Corte Federal, a parte ora recorrente ofereceu agravo às fls. 702/705, onde impugnou de forma devida e apropriada os fundamentos da inadmissibilidade.
+A Autarquia Previdenciária ora agravada não apresentou suas contrarrazões.
+Rec urso tempestivo.
+Representação regular (fl. 18).
+É O NECESSÁRIO RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Compulsando-se detidamente os autos e considerando os artigos suscitados por violados, verifico que o acórdão recorrido encontra-se em harmonia com a jurisprudência do Superior Tribunal de Justiça no sentido de considerar como sendo inovação recursal toda matéria trazida somente nos embargos de declaração, como ocorreu no caso concreto.
+Demonstra-se o referido entendimento por meio dos seguintes precedentes (g.n.):
+DIREITO PROCESSUAL CIVIL. TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ARGUIÇÃO DE OMISSÃO QUE CONFIGURA INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Hipótese em que o argumento apresentado pela Embargante - que, supostamente, não teria sido examinado no acórdão embargado - não foi veiculado, oportunamente, na petição de Agravo em Recurso Especial, sede própria para se veicular todos os fundamentos de impugnação da decisão que inadmite o apelo nobre na origem.
+2. Consoante pacífica jurisprudência desta Casa, " a  argumentação trazida somente nos embargos de declaração caracteriza indevida inovação recursal e impede o acolhimento da insurgência tal como apresentada" (EDcl no REsp n. 2.147.583/SP, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 10/9/2025, DJEN de 15/9/2025).
+3. A deficiência da argumentação da petição de Agravo em Recurso Especial não pode ser suprida, originariamente, em embargos declaratórios opostos ao decisum que não conhece do recurso com fundamento na Súmula n. 182/STJ, ante a incidência da preclusão e da vedação à inovação recursal.
+4. Embargos de declaração não conhecidos.
+(EDcl no AREsp n. 3.111.008/RJ, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 19/8/2026, DJEN de 28/8/2026.)
+PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INOVAÇÃO RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO.
+1. A falta de prequestionamento de matéria alegada nas razões do recurso especial impede seu conhecimento, não obstante a oposição de embargos declaratórios. Incidência da Súmula 211 do STJ.
+2. A tese específica de violação dos artigos 948 e 951 do Código Civil caracteriza indevida inovação recursal. A matéria não foi aventada nas razões de apelação, sendo trazida apenas em sede de embargos de declaração, o que impede o cumprimento do requisito do prequestionamento por força da preclusão consumativa.
+3. A menção genérica do Tribunal de origem de que "o acórdão embargado, após análise detida dos elementos probatórios constantes dos autos, concluiu, expressamente, pela manutenção da pensão vitalícia à autora  ..  considerando sua total incapacidade e dependência econômica em relação à genitora falecida" não configura o efetivo debate prévio sobre a tese específica de violação dos artigos 948 e 951 do Código Civil, não preenchendo o requisito constitucional do prequestionamento.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.242.323/BA, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 12/8/2026, DJEN de 20/8/2026.)
+Assim, é possível aferir que o acórdão recorrido encontra-se em sintonia com a jurisprudência firmada no âmbito do Superior Tribunal de Justiça, cenário que autoriza a incidência da Súmula 83/STJ.
+Por fim, inviável se torna o conhecimento do recurso especial pelo dissídio jurisprudencial invocado, uma vez que o mesmo óbice imposto à admissão do recurso pela alínea a do permissivo constitucional impede a análise recursal pela alínea c.
+ANTE O EXPOSTO, conheço do agravo para não conhecer do recurso especial.
+ EMENTA
