@@ -1,0 +1,1443 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Superior do Trabalho
+PROCESSO Nº TST-EDCiv-Ag-AIRR - 10488-93.2020.5.03.0134
+A C Ó R D Ã O
+3ª Turma
+GMMGD/cgc
+EMBARGOS DE DECLARAÇÃO. AGRAVO. AGRAVO DE
+INSTRUMENTO. OMISSÃO. INEXISTÊNCIA. As matérias sobre as
+quais a Parte Embargante alega ter havido omissão – “FGTS –
+acordo de parcelamento”, “professor – diferenças salariais –
+redução de carga horária” e “correção monetária do FGTS” -
+foram devidamente analisadas e fundamentadas no acórdão
+embargado, em consonância com o princípio constitucional da
+motivação das decisões judiciais (art. 93, IX, da CF), também
+referido na lei ordinária - arts. 832 da CLT e 489 do CPC/2015. Se
+a argumentação posta nos embargos não se insere em nenhum
+dos vícios mencionados nos arts. 897-A da CLT e 1.022 do
+CPC/2015, deve ser desprovido o recurso. Embargos de
+declaração desprovidos.
+Vistos, relatados e discutidos estes autos de Embargos de Declaração Cível em
+Agravo em Agravo de Instrumento em Recurso de Revista nº TST-EDCiv-Ag-AIRR - 10488-
+93.2020.5.03.0134, em que é Embargante ASSOCIAÇÃO SALGADO DE OLIVEIRA DE EDUCAÇÃO E
+CULTURA LTDA. e é Embargado(a) EURIPEDES VENANCIO DA SILVA.
+A 3ª Turma negou provimento ao agravo.
+A Parte Reclamada interpõe embargos de declaração, alegando omissão no
+julgado.
+É o relatório.
+V O T O
+I) CONHECIMENTO
+Atendidos os pressupostos recursais, CONHEÇO dos embargos de declaração.
+II) MÉRITO
+EMBARGOS DE DECLARAÇÃO. AGRAVO. AGRAVO DE INSTRUMENTO. RECURSO
+DE REVISTA. OMISSÃO. INEXISTÊNCIA
+Nos embargos de declaração, a Parte alega omissão no julgado.
+Aduz que “a condenação da ré ao pagamento das diferenças de FGTS, importaria na
+descaracterização o termo de acordo formulado, concedendo direito ao obreiro de receber os valores
+eventualmente inadimplidos a título de FGTS de forma diferenciada dos demais funcionários da ré, o que
+caracterizaria violação ao artigo 5º CAPUT da CF/88.”.
+Afirma que “o V. Acórdão desta C. Turma encontra-se omisso, não tendo sequer tecido
+comentários sobre o tema, justificando a conduta do tribunal a quo, quanto a suposta incidência das ADC’s 58
+e 59 do STF”.
+Sustenta que “A E. Turma, restou omissa diante do fato de que além da comprovação
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006800B85DD7BC36E.
+de que houve a devida rescisão parcial, bem como restou demonstrada por fatos públicos que justificável
+redução. Ora N. Desembargadores, de igual sorte o Acórdão embargado gera bis in idem. Assim totalmente
+inviável a manutenção da carga horária da Embargada, haja vista que inúmeros fatores, sendo estes
+completamente justificadores, interferiram na carga horária objeto do processo.”.
+Sem razão, contudo.
+A matéria suscitada nos embargos de declaração já foi objeto de pronunciamento
+por esta Corte no acórdão embargado, que assim foi fundamentado:
+III) MÉRITO
+PROLAÇÃO DE JULGAMENTO PELA TÉCNICA DA MOTIVAÇÃO RELACIONAL. 1.
+RECOLHIMENTO DO FGTS. ACORDO DE PARCELAMENTO ENTRE A EMPREGADORA E A CAIXA
+ECONÔMICA FEDERAL. EFEITOS EM RELAÇÃO À RECLAMAÇÃO TRABALHISTA AJUIZADA PELA
+EMPREGADA. MATÉRIA FÁTICA. SÚMULA 126 DO TST. PREJUDICADO O EXAME DA
+TRANSCENDÊNCIA. 2. PROFESSOR. DIFERENÇAS SALARIAIS. REDUÇÃO DE CARGA HORÁRIA. NÃO
+CUMPRIMENTO DOS REQUISITOS PREVISTOS NAS NORMAS COLETIVAS DA CATEGORIA. AUSÊNCIA
+DE HOMOLOGAÇÃO PELO SINDICATO. MATÉRIA FÁTICA. SÚMULA 126 DO TST. PREJUDICADO O
+EXAME DA TRANSCENDÊNCIA. 3. HONORÁRIOS ADVOCATÍCIOS. PERCENTUAL ARBITRADO.
+OBSERVÂNCIA DOS LIMITES DO ARTIGO 791-A DA CLT. SÚMULA 333 DO TST. AUSÊNCIA DE
+TRANSCENDÊNCIA. 4. CORREÇÃO MONETÁRIA DO FGTS. ORIENTAÇÃO JURISPRUDENCIAL 302 DA
+SBDI-1 DO TRIBUNAL SUPERIOR DO TRABALHO. AUSÊNCIA DE TRANSCENDÊNCIA
+A decisão agravada foi proferida nos seguintes termos:
+AGRAVO DE INSTRUMENTO
+No Juízo de admissibilidade regional, foi denegado seguimento ao recurso de
+revista em despacho assim fundamentado:
+"PRESSUPOSTOS EXTRÍNSECOS
+O recurso é próprio, tempestivo (acórdão publicado em 15/12/2021; recurso
+de revista interposto em 22/01/2022), devidamente preparado (dispensado do
+depósito recursal - art. 899, §10, CLT; custas - Id 6b0c856), sendo regular a
+representação processual.
+PRESSUPOSTOS INTRÍNSECOS
+TRANSCENDÊNCIA
+Nos termos do artigo 896-A, § 6º da CLT, cabe ao Tribunal Superior do
+Trabalho analisar se a causa oferece transcendência em relação aos reflexos
+gerais de natureza econômica, política, social ou jurídica.
+Remuneração, Verbas Indenizatórias e Benefícios / Salário / Diferença
+Salarial.
+Férias / Indenização / Dobra / Terço Constitucional.
+DIREITO PROCESSUAL CIVIL E DO TRABALHO / Partes e Procuradores /
+Sucumbência / Honorários Advocatícios .
+DIREITO PROCESSUAL CIVIL E DO TRABALHO / Liquidação / Cumprimento
+/ Execução / Valor da Execução / Cálculo / Atualização / Correção Monetária.
+DIREITO PROCESSUAL CIVIL E DO TRABALHO / Liquidação / Cumprimento
+/ Execução / Valor da Execução / Cálculo / Atualização / Juros.
+Rescisão do Contrato de Trabalho / Verbas Rescisórias / Multa de 40% do
+FGTS.
+DIREITO PROCESSUAL CIVIL E DO TRABALHO / Jurisdição e Competência /
+Competência / Competência da Justiça do Trabalho / Contribuições
+Previdenciárias.
+DIREITO PROCESSUAL CIVIL E DO TRABALHO / Liquidação / Cumprimento /
+Execução / Execução Previdenciária.
+Examinados os fundamentos do acórdão, constato que o recurso, em
+seus temas e desdobramentos, não demonstra divergência jurisprudencial
+válida e específica, nem contrariedade com Súmula de jurisprudência
+uniforme do TST ou Súmula Vinculante do STF, tampouco violação literal e
+direta de qualquer dispositivo de lei federal e/ou da Constituição da República,
+como exigem as alíneas "a" e "c" do art. 896 da CLT .
+Quanto às diferenças salariais decorrentes da redução da carga horária,
+inviável o seguimento do recurso, por suposta ofensa ao art. 7º, XXVI, e
+alegada contrariedade à OJ 244 da SBDI-1 do TST, diante do entendimento
+manifestado pelos julgadores, após análise dos termos estabelecidos nas
+normas coletivas da categoria, no sentido de que:
+"(...) Cumpre ressaltar, ainda, que era ônus da ré fazer prova de que a
+diminuição das aulas do autor a partir de 2017 ocorreu em razão da redução do
+número de turmas/alunos, bem como demonstrar que a queda não foi motivada pelo
+empregador - o que não ocorreu, sendo de se salientar que não se vislumbra da prova
+oral tal comprovação e que os documentos apontados na defesa, produzidos
+unilateralmente, não possuem o valor probante pretendido. Incumbia à recorrente,
+também, ter efetuado a resilição parcial junto ao Sindicato e ter quitado a indenização
+prevista nas referidas normas coletivas . Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006800B85DD7BC36E.
+Não tendo a reclamada demonstrado ter cumprido integralmente essas
+exigências estabelecidas na norma coletiva, outra não poderá ser a conclusão, a
+não ser pela irregularidade da redução da carga-horária do autor pelo período
+reconhecido na r. sentença.
+Noutro giro, percebe-se do instrumento normativo acima transcrito que, sendo
+parcial o restabelecimento das aulas (no prazo máximo de 1 ano), aquelas que
+remanescerem serão a base de cálculo da indenização mencionada.
+Sendo assim, considerando, como visto, que houve o restabelecimento parcial da
+carga horária do reclamante (5 horas aula das 8 que haviam sido reduzidas), correta a
+condenação da reclamada ao pagamento da indenização sobre as 3 horas aulas,
+remanescentes, nos termos da norma coletiva. ".
+Em relação aos temas em destaque, o acórdão recorrido está lastreado
+em provas. Incabível, portanto, o recurso de revista para reexame de fatos e
+provas, nos termos da Súmula 126 do TST.
+Não há ofensas ao art. 818 da CLT e ao art. 373 do CPC, em relação a todos
+os temas suscitados. A Turma adentrou o cerne da prova, valorando-a contrária
+aos interesses da recorrente.
+Quanto às férias em dobro e à gratuidade da justiça, diante do quadro fático
+retratado no julgado, não suscetível de ser reexaminado nesta fase processual,
+infere-se que o entendimento está em consonância, respectivamente, com as
+Súmulas nº 450 e 463, I,do TST. Assim, por haver convergência entre a tese
+adotada no acórdão recorrido e a referida Súmula do TST, não se vislumbra
+possível violação de disposições de lei federal e constitucional, tampouco
+divergência jurisprudencial, ficando superados os arestos válidos coligidos (§ 7º do
+art. 896 da CLT e Súmula nº 333 do TST).
+Assim, em relação às diferenças sobre a multa de 40% do FGTS,
+diferenças salariais, férias/dobra, aos honorários advocatícios devidos pela
+reclamada/majoração , gratuidade de justiça, as teses adotadas pela Turma
+traduzem, no seu entender, a melhor aplicação que se pode dar aos
+dispositivos legais pertinentes, o que torna inviável o processamento da
+revista, além de impedir o seu seguimento por supostas lesões à legislação
+ordinária .
+Considerando as premissas fático-jurídicas delineadas no acórdão, não
+se vislumbra possível violação literal e direta aos dispositivos da Constituição
+Federal e da legislação federal invocados
+O deslinde da controvérsia quanto ao referido tema, bem assim quanto às
+férias, em dobro, transpõe os limites da literalidade dos preceitos legais
+invocados, uma vez que a matéria em discussão é eminentemente interpretativa,
+não se podendo afirmar que a própria letra dos dispositivos tenha sofrido ofensa
+pelo acórdão.
+Quanto à atualização dos depósitos de FGTS, afasto as violações
+alegadas, eis que constou do acórdão "(...) Frise-se que não há falar na aplicação
+à espécie do previsto no art. 22, da Lei 8036/1990 ("O empregador que não realizar
+os depósitos previstos nesta Lei, no prazo fixado no art. 15, responderá pela
+incidência da Taxa Referencial - TR sobre a importância correspondente"), tendo
+em vista o teor da OJ 302 do c. TST, in verbis: "Os créditos referentes ao FGTS,
+decorrentes de condenação judicial, serão corrigidos pelos mesmos índices
+aplicáveis aos débitos trabalhistas ".
+Acerca do índice de correção monetária aplicável na apuração das
+verbas objeto da condenação, a tese adotada no acórdão recorrido está de
+acordo com a decisão do Supremo Tribunal Federal, na Ação Direta de
+Constitucionalidade nº 58, firmada em sede de controle concentrado de
+constitucionalidade, com eficácia erga omnes e efeito vinculante (art. 102, §2º, da
+CR), no sentido de que o índice a ser considerado para a atualização dos créditos
+decorrentes de condenação judicial na Justiça do Trabalho deverá ser o IPCA-E
+acrescido dos juros legais (art. 39, caput, da Lei 8.177, de 1991) na fase pré-judicial
+(conforme a redação do item "6" da ementa do julgado) e, a partir do ajuizamento
+da ação, a taxa SELIC (art. 406 do Código Civil), o que atrai o óbice constante do
+art. 896 da CLT e da Súmula 333 do TST.
+Registre-se que o item 6 da própria decisão da ADC 58 proferida pelo STF,
+estabelece que "(...) Em relação à fase extrajudicial, ou seja, a que antecede o
+ajuizamento das ações trabalhistas, deverá ser utilizado como indexador o IPCA-E
+acumulado no período de janeiro a dezembro de 2000. A partir de janeiro de 2001,
+deverá ser utilizado o IPCA-E mensal (IPCA-15/IBGE), em razão da extinção da UFIR
+como indexador, nos termos do art. 29, § 3º,da MP 1.973-67/2000. Além da indexação,
+serão aplicados os juros legais (art. 39, caput, da Lei 8.177, de 1991). (...)" (Decisão
+publicada em 09/12/2021 no DJE e acessada pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código
+99A0-4F8A-F532-D1A8 e senhaB8E2-7A2B-2EFF-353C).
+Acrescento que a análise da admissibilidade, em relação ao tema "isenção
+da cota previdenciária patronal" fica prejudicada, uma vez que constou do acórdão
+"(...) Ressalvado o posicionamento deste Relator, prevalece o entendimento da d. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006800B85DD7BC36E.
+maioria, no sentido de se remeter à fase de liquidação a análise da matéria em
+destaque, tendo-se em vista que: (i) a reclamada possui certificado CEBAS ativo,
+havendo pedido de renovação pendente de análise (processo nº
+23000.010299/2012-58), devendo se considerar, portanto, sua condição de
+entidade filantrópica que, em tese, lhe permitiria a isenção tributária pretendida;
+(ii) como seu requerimento de prorrogação da certificação ainda se encontra
+pendente de análise, mostra-se prudente que se remeta o exame de tal pretensão
+para a fase de liquidação, momento em que se apurarão os créditos trabalhistas
+sobre os quais deverão incidir os recolhimentos previdenciários, cabendo então
+verificar, à luz da situação fática vigente, se faz possível a pretendida isenção. Ante
+o exposto, nada a modificar na r. sentença, que determinou seja a matéria arguida
+e deliberada na fase de liquidação (ID. d229eb4 - Pág. 8 )."
+Acrescento que, no caso, as garantias ao contraditório e à ampla defesa,
+inerentes ao devido processo legal, foram devidamente resguardadas à
+recorrente. É de se esclarecer que a parte não está sendo privada de seus bens
+sem o devido processo legal, pois vem se utilizando de todos os meios hábeis
+para discutir a matéria, apenas não logrando êxito em sua pretensão, o que
+afasta a alegada violação dos incisos LIV e LV do art. 5º da CR.
+Fica afastada, ainda, a violação do inciso XXXVI do art. 5º da CR, não
+havendo a suposta afronta ao direito adquirido, ao ato jurídico perfeito ou à
+coisa julgada.
+Da mesma forma, não está sendo atingindo o direito de propriedade da
+reclamada (art. 5º, XXII da CR), haja vista que o processo vem observando os
+dispositivos pertinentes para a condução do processo.
+Não há ofensa direta e literal do art. 7°, XXVI, da CR, uma vez que a
+Turma Julgadora não negou validade a norma coletiva em ambos os temas
+(redução da carga horária, multa normativa), mas apenas deu a interpretação
+que julgou apropriada à realidade fática evidenciada nos autos.
+De toda sorte, em relação a todos os temas, é imprópria a alegada
+afronta ao princípio da legalidade (inciso II do art. 5º da CR) e inexistem as
+demais ofensas constitucionais apontadas, pois a análise da matéria suscitada
+no recurso não se exaure na Constituição, exigindo que se interprete o
+conteúdo da legislação infraconstitucional (Súmula 636 do STF). Violação, se
+houvesse, seria meramente reflexa, o que é insuficiente para autorizar o
+seguimento do recurso de revista, de acordo com as reiteradas decisões da SBDI-I
+do TST (AIRR - 1000615-14.2015.5.02.0471 , Relatora Ministra: Maria Helena
+Mallmann, Data de Julgamento: 25/10/2017, 2ª Turma, Data de Publicação: DEJT
+27/10/2017, AIRR - 55641-78.2004.5.09.0091, julgado em 24.2.2010, Relatora
+Ministra Maria de Assis Calsing, 4ª Turma, DEJT de 5.3.2010; RR - 17800-
+25.2006.5.02.0301, julgado em 14.10.2009, Relatora Ministra Rosa Maria Weber, 3ª
+Turma, DEJT de 13.11.2009).
+Em relação às diferenças salariais/redução da carga horária, é
+inespecífico o aresto válido colacionado, proveniente do TRT da 1ª Região
+(íntegra ID. 1f02220), porque não aborda as mesmas premissas e todos os
+fundamentos salientados pela Turma julgadora, conforme excerto
+supramencionado . (Súmulas 23 e 296 do TST).
+Não são aptos ao confronto de teses os arestos colacionados carentes de
+indicação de fonte oficial ou repositório autorizado em que foram publicados
+(Súmula 337, I, do TST e § 8º do art. 896 da CLT).
+Por fim, registro que arestos trazidos à colação, provenientes de Turmas do
+TST, deste Tribunal ou de órgãos não mencionados na alínea "a" do art. 896 da
+CLT, não se prestam ao confronto de teses.
+CONCLUSÃO
+DENEGO seguimento ao recurso de revista." (págs. 1.325-1.330,).
+Interpostos embargos de declaração, manifestou-se o Regional:
+"A embargante alega que há omissão na decisão argumentando que: "
+(...)observa-se que nada se falou sobre um item do Recurso de Revista interposto
+pela Reclamada, ou seja, no que tange à gratuidade de justiça do Autor." (ID.
+dc0a630)
+Examino.
+De início, é prudente destacar que, em sede de embargos declaratórios, a
+omissão a ser suprida é apenas aquela que consista na ausência de solução para
+uma questão controvertida, o que não ocorreu no caso.
+Ainda que sucinta, a decisão recorrida foi adequadamente fundamentada,
+de forma atenta às circunstâncias da lide circunscritas pelo acórdão e pelo recurso
+e, ainda, em consonância com as normas e a jurisprudência aplicáveis.
+Naturalmente, a adoção de tese contrária aos interesses da recorrente não pode
+ser confundida com ausência de fundamentação. No mesmo passo, concisão não
+pode ser confundida com omissão.
+Ressalto que as ofensas indicadas aos arts. 494, art. 790, parágrafos 3º e 4º
+da CLT, art. 5º II, LIV e LV da CF/88, referentes, respectivamente, à insurgência da
+embargante sobre a justiça gratuita deferida ao autor, foram afastadas, ainda que
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006800B85DD7BC36E.
+não de modo expresso, nos trechos em que constam que:
+"(...) Em relação aos temas em destaque, o acórdão recorrido está lastreado
+em provas. Incabível, portanto, o recurso de revista para reexame de fatos e
+provas, nos termos da Súmula 126 do TST.
+(...) Considerando as premissas fático-jurídicas delineadas no acórdão, não
+se vislumbra possível violação literal e direta aos dispositivos da Constituição
+Federal e da legislação federal invocados.
+(...)Acrescento que, no caso, as garantias ao contraditório e à ampla defesa,
+inerentes ao devido processo legal, foram devidamente resguardadas à
+recorrente. É de se esclarecer que a parte não está sendo privada de seus bens
+sem o devido processo legal, pois vem se utilizando de todos os meios hábeis para
+discutir a matéria, apenas não logrando êxito em sua pretensão, o que afasta a
+alegada violaçãodos incisos LIV e LV do art. 5º da CR.
+De toda sorte, em relação a todos os temas, é imprópria a alegada afronta
+ao princípio da legalidade (inciso II do art. 5º da CR) e inexistem as demais ofensas
+constitucionais apontadas, pois a análise da matéria suscitada no recurso não se
+exaure na Constituição, exigindo que se interprete o conteúdo da legislação
+infraconstitucional (Súmula 636 do STF). Violação, se houvesse, seria meramente
+reflexa, o que é insuficiente para autorizar o seguimento do recurso de revista, de
+acordo com as reiteradas decisões da SBDI-I do TST (AIRR - 1000615-
+14.2015.5.02.0471 , Relatora Ministra: Maria Helena Mallmann, Data de
+Julgamento: 25 /10/2017, 2ª Turma, Data de Publicação: DEJT 27/10/2017, AIRR -
+55641- 78.2004.5.09.0091, julgado em 24.2.2010, Relatora Ministra Maria de Assis
+Calsing, 4ª Turma, DEJT de 5.3.2010; RR - 17800-25.2006.5.02.0301, julgado em
+14.10.2009,Relatora Ministra Rosa Maria Weber, 3ª Turma, DEJT de 13.11.2009)".
+A bem da verdade, o que se vislumbra é a clara intenção da parte
+embargante em rediscutir a matéria, rever o mérito da decisão, o que demandaria
+o revolvimento de matéria fático-probatória, inviável nesta fase processual
+extraordinária, por força da Súmula 126, do TST, repise-se.
+Com efeito, na decisão de admissibilidade ora impugnada, estão
+explicitados, de forma clara e coerente, os fundamentos adotados por este
+Regional na análise da admissibilidade do recurso, inclusive em relação às ofensas
+mencionadas à legislação.
+Registro que compete a este Regional, no exercício do primeiro juízo de
+admissibilidade, apenas aferir se foram satisfeitos os pressupostos extrínsecos e
+intrínsecos de admissibilidade do recurso de revista, o que foi devidamente
+cumprido no despacho impugnado.
+A decisão recorrida foi adequadamente fundamentada, de forma atenta e
+satisfatória às circunstâncias da lide circunscritas pelo acórdão e pelo recurso e,
+ainda, em consonância com as normas e a jurisprudência aplicáveis.
+Não há obscuridade, contradição, omissão ou manifesto equívoco no exame
+de admissibilidade do recurso.
+Assim, acolho, em parte, os embargos de declaração opostos, tão só para
+prestar os esclarecimentos supra, sem, contudo, com isso, imprimir qualquer
+efeito modificativo ao julgado.
+CONCLUSÃO
+ACOLHO, em parte, os embargos de declaração tão só para prestar os
+esclarecimentos supra, sem, com isso, gerar qualquer efeito modificativo ao
+julgado, mantendo incólume o despacho de ID. 460f45d, por seus próprios
+fundamentos." (págs. 1.340-1.342).
+Examinando o teor do acórdão recorrido, na fração de interesse, dessume-se que
+foram apresentados detidamente os fundamentos que serviram de suporte fático￾probatório e jurídico para formação de seu convencimento acerca dos temas "ENTIDADE
+BENEFICENTE. CONTRIBUIÇÃO PREVIDENCIÁRIA", " DIFERENÇAS A TÍTULO DA MULTA DE
+40% DO FGTS", "DIFERENÇAS SALARIAIS. REDUÇÃO DE CARGA HORÁRIA",
+"HONORÁRIOS ADVOCATÍCIOS. PERCENTUAL ARBITRADO", "CORREÇÃO MONETÁRIA E
+JUROS MORATÓRIOS", " CORREÇÃO MONETÁRIA DO FGTS " e "BENEFÍCIOS DA JUSTIÇA
+GRATUITA DEFERIDOS AO RECLAMANTE", conforme se observa dos seguintes excertos da
+decisão de origem quanto aos referidos temas trazidos no recurso:
+"2. Entidade filantrópica. Isenção da contribuição previdenciária patronal
+A reclamada insiste no requerimento de isenção da cota previdenciária
+patronal.
+Pois bem.
+Ressalvado o posicionamento deste Relator, prevalece o entendimento da d.
+maioria, no sentido de se remeter à fase de liquidação a análise da matéria em
+destaque, tendo-se em vista que: (i) a reclamada possui certificado CEBAS ativo,
+havendo pedido de renovação pendente de análise (processo nº
+23000.010299/2012-58), devendo se considerar, portanto, sua condição de
+entidade filantrópica que, em tese, lhe permitiria a isenção tributária pretendida;
+(ii) como seu requerimento de prorrogação da certificação ainda se encontra
+pendente de análise, mostra-se prudente que se remeta o exame de tal pretensão
+para a fase de liquidação, momento em que se apurarão os créditos trabalhistas
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006800B85DD7BC36E.
+sobre os quais deverão incidir os recolhimentos previdenciários, cabendo então
+verificar, à luz da situação fática vigente, se faz possível a pretendida isenção.
+Ante o exposto, nada a modificar na r. sentença, que determinou seja a
+matéria arguida e deliberada na fase de liquidação (ID. d229eb4 - Pág. 8).
+Nesse sentido, os seguinte julgados desta d. Turma, envolvendo a mesma
+reclamada: 0010821-51.2019.5.03.0014 (ROT), Relator: Oswaldo Tadeu Barbosa
+Guedes, disponibilizado em 23/09/2021; 0010925-68.2019.5.03.0038 (ROT), Relator:
+Manoel Barbosa da Silva, disponibilizado em 01/06/2020.
+Nego provimento.
+3. Diferenças sobre a multa de 40% do FGTS
+Não se conforma a reclamada com a condenação ao pagamento das
+diferenças a serem apuradas na multa de 40% do FGTS. Sustenta que efetuou o
+recolhimento da parcela "sobre todas as competências de FGTS do Recorrido,
+inclusive aquelas que não foram recolhidas".
+Examino.
+Na inicial, pretendeu o autor o recebimento da multa fundiária de 40% sobre
+" os valores que se encontram depositados na conta vinculada do reclamante
+(conforme extrato ora juntado), o FGTS decorrente das verbas rescisórias, bem
+como os valores que forem apurados e decorrentes da condenação a título de
+FGTS não depositado nos autos nº 0011216-71.2019.5.03.0134 " (ID. 0e4d324 - Pág.
+3).
+A decisão do MM. Juízo de origem foi no seguinte sentido:
+"Quanto ao FGTS, postula o autor a multa de 40% sobre o saldo de FGTS já
+depositado, sobre o FGTS incidente sobre verbas rescisórias e também o FGTS que vier
+a ser objeto de condenação nos autos da ação nº 0011216-71.2019.5.03.0134.
+Procede o pedido, devendo ser apurada eventual diferença na multa de 40% do
+FGTS já paga pela reclamada. Para tanto, deverá o reclamante comprovar nestes
+autos, no momento oportuno, o valor levantado de FGTS objeto da condenação nos
+autos do processo nº 0011216-71.2019.5.03.0134, que acrescido do valor levantado no
+presente feito (liberado mediante alvará após concessão da antecipação de tutela), e
+do valor do FGTS sobre verbas rescisórias, será utilizado como base de cálculo da
+multa rescisória" (ID. d229eb4 - Pág. 4).
+É certo que o documento de ID. 529628b (Guia de Recolhimento
+Rescisório do FGTS) revela o pagamento, pela reclamada, da multa fundiária
+de 40%. Ocorre que a própria recorrente admitiu em sua defesa (ID. 01422d2 -
+Pág. 10) que não está realizando os depósitos de FGTS devidos aos seus
+empregados de forma correta, já que firmou um acordo com a Caixa
+Econômica Federal para parcelamento da dívida respectiva - o que foi,
+inclusive, objeto de ação trabalhista ajuizada pelo reclamante sob o nº
+0011216-71.2019.5.03.0134.
+Nesse sentido, verifica-se que a empresa não juntou aos autos os
+comprovantes relativos a todos os depósitos fundiários do autor, tal como
+comprovado pelo extrato de ID. 3558faa, não se podendo concluir, pelo
+documento de ID. 529628b, que o valor ali discriminado refere-se a "todas as
+competências de FGTS do Recorrido", inclusive aquelas objeto da condenação
+nos autos da mencionada reclamação trabalhista.
+Devidas, portanto, as diferenças da multa de 40% do FGTS, cuja base de
+cálculo deverá incidir sobre todos os valores de FGTS devidos na
+contratualidade, conforme determinado na origem .
+Cumpre ressaltar que, consoante se extrai da r. sentença,já foi autorizada
+a dedução do valor já quitado pela reclamada (ID. 529628b), o que resguarda a
+recorrente de qualquer prejuízo e afasta a possibilidade de enriquecimento ilícito
+do autor.
+Nada a prover.
+4. Diferenças salariais. Redução da carga horária
+Insurge-se a reclamada contra a condenação ao pagamento das diferenças
+salariais pela redução parcial de 3 horas aula, relativamente ao período
+compreendido entre o segundo semestre de 2017 e o primeiro semestre de 2018.
+Alega que a redução da carga horária do autor no segundo semestre de 2017
+decorreu da diminuição do número de alunos/turmas.
+Examino.
+Incontroverso, nos autos, que a carga horária do reclamante sofreu as
+seguintes alterações:
+"-08/2016 até 07/2017 teve reduzida para 22 horas/aula por semana;
+- 08/2017 até 01/2018 a carga horária foi reduzida para 14 horas/aula por
+semana;
+- 02/2018 a 07/2018 cumpriu carga horária de 19 horas/aula por semana" (ID.
+0e4d324 - Pág. 5/6).
+Há, na CCT 2017/2018, cláusula referente à irredutibilidade salarial, na qual
+foi estabelecido que:
+"§ 1º - A redução do número de aulas ou da carga-horária semanal do professor,
+por acordo das partes ou resultante da diminuição do número de turmas por queda ou
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006800B85DD7BC36E.
+ausência de matrícula, não motivadas pelo empregador (....) só terá validade se
+homologada pelo sindicato da categoria profissional ou pelas entidades ou órgãos
+competentes para homologar rescisões.
+§2º - A redução do número de aulas terá validade, se obedecido o previsto no
+parágrafo anterior e paga a indenização de que trata o Parágrafo Terceiro,
+configurando resilição parcial do contrato de trabalho.
+(...)
+§9º - O pagamento da indenização estabelecida nos § § 2º e 3º desta cláusula
+poderá exclusivamente para o ensino superior e posterior, ser suspenso pelo prazo
+máximo de 1 (um) ano, autorizado seu não pagamento caso as aulas reduzidas sejam
+restabelecidas ao contrato de trabalho do professor ao final deste prazo. Se parcial o
+restabelecimento das aulas, as que remanescerem não restabelecidas serão a base de
+cálculo da indenização mencionada. Ocorrendo rescisão do contrato de trabalho no
+interregno de tempo referente à suspensão do pagamento de que trata este parágrafo,
+os valores devidos a título de indenização serão quitados juntamente com as verbas
+rescisórias" (cláusula 20ª, CCT 2017/2018; ID. 50148f5 - Pág. 7).
+Percebe-se que os instrumentos normativos, conquanto apliquem o
+princípio da irredutibilidade salarial aos ganhos do docente, permitem a
+redução do número de aulas, com consequente redução salarial, desde que,
+havendo acordo entre as partes ou diminuição do número de turmas por
+queda ou ausência de matrículas, não motivadas pelo empregador, a redução
+seja homologada pelo sindicato ou por entidades ou órgãos competentes para
+homologar rescisões .
+Contudo, tais requisitos não foram satisfeitos no caso dos autos.
+De acordo com a jurisprudência majoritária, a redução do número de aulas
+lecionadas não constitui, em princípio, alteração contratual ilícita, salvo se
+acompanhada da diminuição do salário hora (OJ n° 244, da SDI-1/TST). No caso sob
+exame, como já analisado, a norma coletiva estabelece expressamente dois
+requisitos para que se considere válida a redução: 1) a existência de acordo
+entre as partes ou a diminuição do número de turmas por queda nas
+matrículas; 2) a chancela do órgão sindical, devendo o primeiro ser
+comprovado.
+Cumpre ressaltar, ainda, que era ônus da ré fazer prova de que a
+diminuição das aulas do autor a partir de 2017 ocorreu em razão da redução
+do número de turmas/alunos, bem como demonstrar que a queda não foi
+motivada pelo empregador - o que não ocorreu, sendo de se salientar que não
+se vislumbra da prova oral tal comprovação e que os documentos apontados
+na defesa, produzidos unilateralmente, não possuem o valor probante
+pretendido. Incumbia à recorrente, também, ter efetuado a resilição parcial
+junto ao Sindicato e ter quitado a indenização prevista nas referidas normas
+coletivas.
+Não tendo a reclamada demonstrado ter cumprido integralmente essas
+exigências estabelecidas na norma coletiva, outra não poderá ser a conclusão,
+a não ser pela irregularidade da redução da carga-horária do autor pelo
+período reconhecido na r. sentença .
+Noutro giro, percebe-se do instrumento normativo acima transcrito que,
+sendo parcial o restabelecimento das aulas (no prazo máximo de 1 ano), aquelas
+que remanescerem serão a base de cálculo da indenização mencionada.
+Sendo assim, considerando, como visto, que houve o restabelecimento
+parcial da carga horária do reclamante (5 horas aula das 8 que haviam sido
+reduzidas), correta a condenação da reclamada ao pagamento da indenização
+sobre as 3 horas aulas, remanescentes, nos termos da norma coletiva.
+Nada a prover.
+[...]
+6. Justiça gratuita
+A reclamada insurge-se contra a concessão do benefício da justiça gratuita
+ao reclamante.
+Examino.
+O benefício em epígrafe foi concedido ao autor, na origem, com base na
+declaração de hipossuficiência adunada sob o ID. a286dcc, não desconstituída por
+nenhum elemento de prova constante dos autos (ID. d229eb4 - Pág. 8).
+Nos termos dos parágrafos 3º e 4º do art. 790 da CLT, caso o empregado
+receba salário inferior a 40% (quarenta por cento) do limite máximo dos benefícios
+do Regime Geral de Previdência Social, apresentada a declaração de
+hipossuficiência financeira, os referidos benefícios devem ser concedidos. Caso
+receba montante superior, o reclamante deverá comprovar a insuficiência de
+recursos para arcar com as custas do processo, não sendo suficiente a
+apresentação da declaração de hipossuficiência por si só.
+No caso dos autos, o TRCT anexado sob o ID. f1b5106 revela que o autor
+recebeu, como última remuneração, o valor de R$2.077,76, inferior ao limite
+previsto no art. 790, §3º, da CLT. Lado outro, não há indício de que o reclamante se
+encontra empregado atualmente (vide CTPS de ID. d2d866f), circunstância que, Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006800B85DD7BC36E.
+associada à declaração de hipossuficiência colacionada no ID. a286dcc, autoriza a
+presunção de que o recorrido não possui condições de arcar com as custas e
+despesas processuais sem prejuízo do sustento próprio ou de sua família.
+Isso posto, mantém-se incólume a r. sentença, nesse aspecto.
+Nego provimento.
+7. Honorários advocatícios
+A reclamada pretende a redução do percentual arbitrado a título de
+honorários advocatícios em favor dos advogados do reclamante.
+Mas não lhe assiste razão.
+Quanto ao montante fixado na origem, é certo que o art. 791-A dispõe que :
+"[...] § 2º Ao fixar os honorários, o juízo observará:
+I - o grau de zelo do profissional;
+II - o lugar de prestação do serviço;
+III - a natureza e a importância da causa;
+IV - o trabalho realizado pelo advogado e o tempo exigido para o seu serviço."
+E, considerando os parâmetros acima expostos, o MM. Juiz a quo condenou
+a ré ao pagamento de honorários advocatícios em favor do procurador adverso em
+10% (ID. d229eb4 - Pág. 9), montante este que, no entendimento desse Relator, é
+condizente com o trabalho realizado, com a complexidade da causa e com os
+percentuais fixados por este Colegiado em ações similares .
+Ressalto que não há falar em reforma da sentença "para excluir da base de
+cálculo" dos honorários de sucumbência as "verbas pleiteadas na inicial que foram
+pagas antes da prolação da sentença" (como pretende a reclamada em seu apelo),
+porquanto a condenação ao pagamento da verba honorária foi determinada sobre
+"o crédito líquido devido à parte autora que resultar da liquidação da sentença",
+tendo o magistrado de origem autorizado expressamente "a dedução dos valores
+pagos a idêntico título,desde que comprovados nos autos através dos
+documentos que se encontram juntados, salvo se a presente decisão a afastou
+expressamente" (ID. d229eb4 - Pág. 9/10),
+Nada a prover.
+8. Índice de correção monetária
+O MM. Juízo de origem, quanto ao tema, determinou que "- a atualização
+monetária dos créditos trabalhistas deve ocorrer, a partir do vencimento de cada
+parcela (art. 459, § 1º, da CLT), inclusive quanto ao FGTS (OJ 302 da SBDI-1, do TST),
+até o dia anterior ao ajuizamento da presente demanda, pelo Índice de Preços ao
+Consumidor Amplo Especial (IPCA-E); - a partir do ajuizamento da presente
+demanda e até o efetivo pagamento dos créditos trabalhistas (súmula 15 do RT 3ª
+Região), a atualização monetária e os juros de mora, juntos, deve ocorrer pelo
+índice do Sistema Especial de Liquidação e de Custódia (SELIC)" .
+Pretende a reclamada a utilização tão somente da TR no cálculo da
+atualização monetária relativamente às verbas fundiárias, conforme o disposto no
+art. 22 da Lei n. 8.036/90.
+Pois bem.
+Em relação ao índice de correção monetária, este Relator vinha adotando o
+posicionamento de que o índice de correção dos débitos trabalhistas, até o dia
+24/03/2015, seria a TRD (art. 39 da Lei 8.177/91) e, a partir de 25/03/2015, o IPCA-E,
+com lastro em decisões do STF nas ADIs 4425 e 4357 e na Reclamação
+Constitucional 22.012, bem como em posicionamento adotado pelo TST nos autos
+da ArgInc-000479-60.2011.5.04.0231. Nesse mesmo sentido foi editada a Súmula
+73 deste Regional.
+Não obstante, o Exmo. Ministro Gilmar Mendes, ao examinar Medida
+Cautelar na Ação Declaratória de Constitucionalidade nº 58-DF, determinou, em
+27/06/2020, a "suspensão do julgamento de todos os processos em curso no
+âmbito da Justiça do Trabalho que envolvam a aplicação dos arts. 879, §7, e 899, §
+4º, da CLT, com a redação dada pela Lei nº 13.467/2017, e o art. 39, caput e § 1º, da
+Lei 8.177/91".
+Posteriormente, ao decidir a Medida Cautelar em Agravo Regimental oposta
+em face da referida decisão, o Ministro Gilmar Mendes esclareceu que " a medida
+cautelar deferida na decisão agravada não impede o regular andamento de processos
+judiciais, tampouco a produção de atos de execução, adjudicação e transferência
+patrimonial no que diz respeito à parcela do valor das condenações que se afigura
+incontroversa pela aplicação de qualquer dos dois índices de correção ".
+Por isso, para conferir efetividade à prestação jurisdicional e viabilização do
+prosseguimento do processo, em respeito aos princípios da duração razoável do
+processo e da celeridade processual, esta Turma julgadora passou a remeter a
+questão para exame na fase de liquidação, ressalvando expressamente a não
+ocorrência de preclusão sobre a matéria até que decisão definitiva do STF
+sobreviesse.
+Ocorre que na sessão plenária de 18/12/2020, o STF, ao examinar o mérito
+da ADC nº 58-DF, por maioria, declarou a inconstitucionalidade da aplicação da TR
+como índice de correção monetária dos débitos trabalhistas, definiu pela aplicação
+do IPCA-E como índice de atualização na fase pré-judicial e pela SELIC na fase
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006800B85DD7BC36E.
+judicial e modulou os efeitos dessa decisão nos seguintes termos:
+" Decisão: O Tribunal, por maioria, julgou parcialmente procedente a ação, para
+conferir interpretação conforme à Constituição ao art. 879, § 7º, e ao art. 899, § 4º, da
+CLT, na redação dada pela Lei 13.467 de 2017, no sentido de considerar que à
+atualização dos créditos decorrentes de condenação judicial e à correção dos
+depósitos recursais em contas judiciais na Justiça do Trabalho deverão ser aplicados,
+até que sobrevenha solução legislativa, os mesmos índices de correção monetária e de
+juros que vigentes para as condenações cíveis em geral, quais sejam a incidência do
+IPCA-E na fase pré-judicial e, a partir da citação, a incidência da taxa SELIC (art. 406 do
+Código Civil), nos termos do voto do Relator, vencidos os Ministros Edson Fachin, Rosa
+Weber, Ricardo Lewandowski e Marco Aurélio. Por fim, por maioria, modulou os efeitos
+da decisão, ao entendimento de que(i) são reputados válidos e não ensejarão qualquer
+rediscussão (na ação em curso ou em nova demanda, incluindo ação rescisória) todos
+os pagamentos realizados utilizando a TR (IPCA-E ou qualquer outro índice), no tempo
+e modo oportunos (de forma extrajudicial ou judicial, inclusive depósitos judiciais) e os
+juros de mora de 1% ao mês, assim como devem ser mantidas e executadas as
+sentenças transitadas em julgado que expressamente adotaram, na sua
+fundamentação ou no dispositivo, a TR (ou o IPCA-E) e os juros de mora de 1% ao mês;
+(ii) os processos em curso que estejam sobrestados na fase de conhecimento
+(independentemente de estarem com ou sem sentença, inclusive na fase recursal)
+devem ter aplicação, de forma retroativa, da taxa Selic (juros e correção monetária),
+sob pena de alegação futura de inexigibilidade de título judicial fundado em
+interpretação contrária ao posicionamento do STF (art. 525, §§ 12 e 14, ou art. 535, §§
+5º e 7º, do CPC) e (iii) igualmente, ao acórdão formalizado pelo Supremo sobre a
+questão dever-se-á aplicar eficácia erga omnes e efeito vinculante, no sentido de atingir
+aqueles feitos já transitados em julgado desde que sem qualquer manifestação
+expressa quanto aos índices de correção monetária e taxa de juros (omissão expressa
+ou simples consideração de seguir os critérios legais), vencidos os Ministros Alexandre
+de Moraes e Marco Aurélio, que não modulavam os efeitos da decisão. Impedido o
+Ministro Luiz Fux (Presidente). Presidiu o julgamento a Ministra Rosa Weber (Vice￾Presidente). Plenário, 18.12.2020." (Sessão realizada por videoconferência - Resolução
+672/2020/STF).
+O caso dos autos amolda-se ao item (ii) da modulação dos efeitos, pois o
+processo encontra-se ainda na fase de conhecimento, com sentença e em
+segundo grau de jurisdição.
+Assim sendo, aplicar-se-á ao presente caso, diante da eficácia erga
+omnes, do efeito vinculante e da determinação de aplicação retroativa da
+decisão acima transcrita, o estabelecido pela Corte Suprema quanto aos juros
+e correção monetária das parcelas objeto da presente apuração .
+Frise-se que não há falar na aplicação à espécie do previsto no art. 22, da
+Lei 8036/1990 ("O empregador que não realizar os depósitos previstos nesta Lei,
+no prazo fixado no art. 15, responderá pela incidência da Taxa Referencial - TR
+sobre a importância correspondente"), tendo em vista o teor da OJ 302 do c. TST,
+in verbis: " Os créditos referentes ao FGTS, decorrentes de condenação judicial,
+serão corrigidos pelos mesmos índices aplicáveis aos débitos trabalhistas ".
+Dou provimento parcial para determinar sejam observados os índices
+definidos no julgamento da ADC n° 58, pelo E. STF, quanto aos juros e correção
+monetária a incidir sobre as parcelas objeto da condenação." (págs. 754-757).
+Interpostos embargos de declaração, manifestou-se o Regional:
+"MÉRITO
+Proferido o acórdão de ID. 7d75702, a reclamada opõe embargos de
+declaração (ID. fdc2b1e), para fins de prequestionamento, alegando a existência
+de omissões no julgado.
+1- FGTS e multa de 40%. Alega a embargante que esta d. Turma julgadora foi
+omissa quanto à tese levantada no recurso ordinário de que houve recolhimento
+da multa de 40% sobre todas as competências do FGTS, inclusive sobre aquelas
+que não foram recolhidas.
+Pois bem.
+Analisando-se o acórdão embargado, verifica-se a inexistência de qualquer
+vício passível de ser sanado por meio de embargos de declaração, que se limitam
+às hipóteses de omissão, contradição, obscuridade ou correção de erro material
+no julgado (artigos 1.022 do CPC e 897-A da CLT).
+As questões relativas ao FGTS e multa de 40% foram devidamente
+analisadas por esta Eg. 5ª Turma, como se verifica:
+[...]
+Como claramente se extrai do julgado, houve expressa apreciação do tema
+pela d. Turma. Aliás, evidencia-se que a "omissão" apontada pela embargante
+trata-se, na verdade, de insurgência quanto à interpretação dada ao caso pelo
+julgado que lhe foi desfavorável.
+Vê-se que a parte embargante está inconformada com o resultado do
+pronunciamento judicial. Portanto, se tem como objetivo sanar os erros
+intelectuais (erro in judicando) e os erros de procedimento (erro in procedendo), Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006800B85DD7BC36E.
+porventura existentes no julgado, não poderá impugnar o acórdão através da via
+estreita dos embargos de declaração, cuja interposição processual não se presta a
+fins estranhos àqueles elencados no art. 1022 do CPC, nem se presta, ainda, para
+manifestar inconformismo com o julgado, uma vez que estes são impugnáveis
+pelos recursos adequados.
+Nego provimento.
+[...]
+3- Contribuição previdenciária. Honorários advocatícios. Correção
+monetária. Quanto aos mencionados temas, sustentou a reclamada que: - a sua
+condição de entidade filantrópica "já foi reconhecida em Sentença, que, de modo
+indevido, enviou para fase de execução a Isenção da contribuição previdenciária
+patronal", sendo tal fato incontroverso, pelo que omisso o acórdão quanto "a
+aplicação do 884 do CC, 5º II e LIV, da CF e, principalmente ao o artigo 195, §7º da
+CF"; - há afronta ao artigo 791-A, § 2º da CLT (pretendendo a ré a manifestação
+desta d. Turma sobre "qual questão da alta complexidade jurídica, a justificar a
+pretensão de percentual de honorários tão elevado"); - "a questão da ADC58 não
+pode ser aplicada a qualquer valor de FGTS discutido nesses autos, ou seja, omisso
+o Acórdão quanto ao ponto, inclusive sob pena de afronta aos artigos art. 18 e 22
+da Lei n. 8.036/90, 884, do Código Civil, 5º, II, CF, Lei nº 8.036/90 e ainda, 5º, LIV e
+LV, CF e o art. 492, CPC".
+Analiso.
+Os entendimentos da Turma Julgadora quanto às questões suscitadas pela
+embargante foram no sentido de que:
+[...]
+Observa-se que, quanto aos temas contribuição previdenciária e honorários
+advocatícios, inexiste qualquer vício na decisão embargada a ensejar a oposição
+dos presentes embargos declaratórios. Esta d. Turma também foi expressa
+quanto à inaplicabilidade, ao caso dos autos, do previsto no art. 22 da Lei
+8036/1990, tendo em vista o teor da OJ 302 do c. TST .
+O que se verifica na peça aviada pela reclamada é seu mero inconformismo
+em relação aos posicionamentos adotados pela Turma julgadora quanto às
+referidas questões, o que extrapola os estreitos limites previstos nos artigos 897-A
+da CLT e 1.022 do CPC/2015.
+Esclareça-se que, tendo sido adotada tese explícita pela Turma quanto aos
+temas suscitados pela embargante, não há que se falar em necessidade de
+prequestionamento, muito menos em omissão no julgado.
+No que tange ao índice de correção monetária, cumpre asseverar que o
+Tribunal Pleno do Supremo Tribunal Federal, por unanimidade, acolheu
+parcialmente os embargos de declaração opostos pela AGU em face do acórdão
+que julgou, de forma conjunta, o mérito das Ações Diretas de
+Inconstitucionalidade 6.021 e 5.867 e das Ações Declaratórias de
+Constitucionalidade 58 e 59, "para sanar o erro material constante da decisão de
+julgamento e do resumo do acórdão, de modo a estabelecer 'a incidência do IPCA￾E na fase pré-judicial e, a partir do ajuizamento da ação, a incidência da taxa SELIC
+(art. 406 do Código Civil)'."
+Nesse contexto, provejo os embargos, sem atribuir efeito modificativo ao
+julgado, apenas para esclarecer que a apuração das parcelas deferidas no
+presente feito deverá observar a incidência do IPCA-e até a distribuição da ação e
+da SELIC a partir de então, em estrita observância ao posicionamento adotado
+pelo Supremo Tribunal Federal no julgamento conjunto das Ações Diretas de
+Inconstitucionalidade 6.021 e 5.867 e das Ações Declaratórias de
+Constitucionalidade 58 e 59 ." (págs. 1.239-1.247, destacou-se e grifou-se).
+Nas razões do agravo de instrumento, a parte insurge-se contra o despacho
+denegatório do seguimento de seu recurso de revista, insistindo na sua admissibilidade,
+ao argumento de que foi demonstrado o regular preenchimento dos requisitos previstos
+no artigo 896 da CLT.
+Sem razão, contudo, quanto aos temas "ENTIDADE BENEFICENTE. CONTRIBUIÇÃO
+PREVIDENCIÁRIA", " DIFERENÇAS A TÍTULO DA MULTA DE 40% DO FGTS", "DIFERENÇAS
+SALARIAIS. REDUÇÃO DE CARGA HORÁRIA", "HONORÁRIOS ADVOCATÍCIOS.
+PERCENTUAL ARBITRADO ", "CORREÇÃO MONETÁRIA E JUROS MORATÓRIOS", "
+CORREÇÃO MONETÁRIA DO FGTS " e "BENEFÍCIOS DA JUSTIÇA GRATUITA DEFERIDOS AO
+RECLAMANTE".
+Inicialmente, não se pode olvidar, no exame dos pressupostos de admissibilidade
+do recurso de revista, a sua natureza e a função da Corte a que se destina. Não mais se
+litiga em instância ordinária, onde se exaure, por completo, a análise de todas as
+matérias de fatos e de provas dos autos, moldurando-se as balizas dessas circunstâncias
+de acontecimentos, às quais cabe a este Tribunal revisor, tão somente, manifestar-se
+sobre a correta interpretação e aplicação do direito ao caso concreto.
+O Tribunal Superior do Trabalho tem, portanto, atribuição eminentemente recursal
+e extraordinária, que visa essencialmente à uniformização e à proteção do Direito do
+Trabalho pátrio (artigos 111-A, § 1º, da Constituição Federal e 1º, 3º, inciso III, alínea "b", e
+4º, alíneas "b", "c" e "d", da Lei nº 7.701/1988), razão pela qual o recurso de revista
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006800B85DD7BC36E.
+caracteriza-se pelo seu conteúdo técnico e pelas hipóteses restritivas de sua utilização
+(artigo 896, alíneas "a", "b" e "c", da CLT).
+Nesse contexto, em face do cotejo das razões constantes no agravo de
+instrumento apresentadas com os fundamentos da decisão agravada bem como do
+teor da decisão regional proferida, verifica-se que os argumentos apresentados não
+conseguem demonstrar a necessidade de processamento do recurso de revista.
+Em razão do exposto, reporto-me e adoto, por seus próprios fundamentos, a
+motivação utilizada pelo Juízo de admissibilidade a quo para obstaculizar o
+seguimento do recurso de revista.
+Ressalta-se que não configura negativa de prestação jurisdicional ou inexistência
+de motivação a decisão do Juízo ad quem pela qual se acolhem, como razões de decidir,
+os próprios fundamentos constantes da decisão da instância recorrida, em acolhimento
+à técnica da motivação per relationem, uma vez que atendida a exigência constitucional
+e legal da motivação das decisões emanadas do Poder Judiciário (artigos 93, inciso IX, da
+Constituição Federal, 489, inciso II, do CPC/2015 e 832 da CLT), bem como porque
+viabilizados à parte interessada, de igual forma, os meios e recursos cabíveis no
+ordenamento jurídico para a impugnação desses fundamentos, no caso, o apelo previsto
+no artigo 1.021 do CPC/2015 c/c o artigo 265 do Regimento Interno do Tribunal Superior
+do Trabalho, haja vista que as motivações da decisão do órgão jurisdicional a quo são
+integralmente transcritas e incorporadas às razões decisórias da instância revisora.
+Cabe esclarecer, ainda, que a validade da motivação per relationem, também
+denominada "por remissão" ou "por referência", independe até mesmo de o órgão
+judicante revisor acrescentar argumentos ou fundamentos à decisão recorrida, tendo
+em vista que, na expressiva maioria das vezes, a matéria a ser enfrentada na instância
+ad quem já foi completa e exaustivamente examinada pelo Juízo de origem em seus
+aspectos relevantes e necessários para a solução da controvérsia, máxime considerando
+que, na seara do Processo do Trabalho, a análise do agravo de instrumento por esta
+Corte superior tem por finalidade específica constatar o acerto ou desacerto da ordem
+de trancamento do recurso de revista oriunda de decisão monocrática proferida pelos
+Tribunais Regionais do Trabalho, que é prévia e não definitiva (artigo 896, § 1º, da CLT).
+Diante desse peculiar e restrito objetivo do agravo de instrumento no âmbito
+desta Justiça especializada, a adoção, pelos próprios fundamentos, da decisão do Juízo
+de admissibilidade regional, que, acertadamente, denega seguimento a recurso de
+revista, antes de configurar qualquer prejuízo às garantias constitucionais do devido
+processo legal, do contraditório e da ampla defesa (artigo 5º, incisos LIV e LV, da
+Constituição Federal), constitui forma de julgamento possível, tecnicamente jurídica,
+apropriada e mesmo indicada, uma vez que se apresenta como instrumento valioso de
+racionalização da atividade jurisdicional, consentâneo, portanto, não só com o anseio
+das partes do processo, mas com o desejo de toda a sociedade na entrega de uma
+prestação jurisdicional mais efetiva e mais célere, atento ao princípio constitucional da
+duração razoável do processo disposto no inciso LXXVIII do mesmo artigo 5º do Texto
+Constitucional.
+Por sua vez, não há falar na aplicação da norma proibitiva do artigo 1.021, § 3º, do
+CPC/2015 à espécie, uma vez que sua incidência se dirige ao exame dos agravos
+internos, e não do agravo de instrumento, que é a hipótese dos autos.
+Nessa linha de entendimento, são os seguintes precedentes deste Tribunal,
+conforme se observa nestes julgados:
+"AGRAVO. AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. PROCESSO
+SOB A ÉGIDE DA LEI Nº 13.467/2017. PROLAÇÃO DE JULGAMENTO PELA TÉCNICA
+DA MOTIVAÇÃO RELACIONAL. CONDOMÍNIO RESIDENCIAL. DESNECESSIDADE DE
+OBEDIÊNCIA À COTA PARA CONTRATAÇÃO DE MENOR APRENDIZ. FUNÇÕES QUE
+NÃO DEMANDAM FORMAÇÃO PROFISSIONAL. No caso concreto, o Relator, pela via
+monocrática, manteve, pelos próprios e jurídicos fundamentos, a decisão objeto
+de recurso. Registre-se que a motivação por adoção das razões da decisão
+recorrida não se traduz em omissão no julgado ou na negativa de prestação
+jurisdicional. Isso porque a fundamentação utilizada pela instância ordinária se
+incorpora à decisão proferida pela Corte revisora - e, portanto, a análise dos fatos
+e das provas, bem como do enquadramento jurídico a eles conferido. Dessa
+forma, considerando-se que o convencimento exposto na decisão recorrida é
+suficiente para definição da matéria discutida em Juízo, com enfrentamento
+efetivo dos argumentos articulados pela Parte Recorrente, torna-se viável a
+incorporação formal dessa decisão por referência. Ou seja, se a decisão regional
+contém fundamentação suficiente - com exame completo e adequado dos fatos
+discutidos na lide e expressa referência às regras jurídicas que regem as matérias
+debatidas -, a adoção dos motivos que compõem esse julgamento não implica
+inobservância aos arts. 93, IX, da CF/88, e 489, II, do CPC/2015. Assim sendo, a
+prolação de julgamentos pela técnica da motivação relacional não viola os
+princípios e garantias constitucionais do devido processo legal (art. 5º, LIV), do
+contraditório e da ampla defesa (art. 5º, LV), além de preservar o direito à razoável
+celeridade da tramitação processual (art. 5º, LXXVIII). Revela-se, na prática, como
+ferramenta apropriada de racionalização da atividade jurisdicional. Nesse sentido,
+inclusive, posiciona-se a jurisprudência desta Corte Superior, segundo a qual a
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006800B85DD7BC36E.
+confirmação integral da decisão agravada não implica ausência de
+fundamentação, não eliminando o direito da parte de submeter sua irresignação
+ao exame da instância revisora. No mesmo sentido, decisões proferidas pelo STF.
+Assim sendo, a decisão agravada foi proferida em estrita observância às normas
+processuais (art. 557, caput, do CPC/1973; arts. 14 e 932, IV, "a", do CPC/2015),
+razão pela qual é insuscetível de reforma ou reconsideração. Agravo desprovido."
+(Ag-AIRR-104-22.2019.5.13.0007, Ministro Relator: Mauricio Godinho Delgado, 3ª
+Turma, DEJT de 27/5/2022).
+"AGRAVO. AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA RECURSO.
+INTERPOSIÇÃO ANTERIOR AO INÍCIO DE VIGÊNCIA DA LEI 13.105/2015 (NOVO CPC)
+ADOÇÃO DOS FUNDAMENTOS DO DESPACHO AGRAVADO. POSSIBILIDADE.
+NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. DECISÃO
+MONOCRÁTICA DENEGATÓRIA DE SEGUIMENTO. MANUTENÇÃO. Não configura
+negativa de prestação jurisdicional a adoção pelo Juízo ad quem da técnica da
+fundamentação per relationem, ao invocar, como razões de decidir, os próprios
+fundamentos da decisão impugnada, cumprida a exigência constitucional da
+motivação das decisões. Precedentes da Suprema Corte e do Tribunal Superior do
+Trabalho. Incólume o art. 93, IX, da Constituição Federal. Agravo conhecido e não
+provido." (Ag-AIRR-33100-34.2007.5.02.0255, Ministro Relator: Hugo Carlos
+Scheuermann, 1ª Turma, DEJT de 31/3/2017).
+"AGRAVO. AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA INTERPOSTO
+NA VIGÊNCIA DA LEI Nº 13.015/2014. 1. MOTIVAÇÃO "PER RELATIONEM" -
+LEGITIMIDADE CONSTITUCIONAL DESSA TÉCNICA DE MOTIVAÇÃO -
+FUNDAMENTAÇÃO VÁLIDA. JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL E
+DO TRIBUNAL SUPERIOR DO TRABALHO. 2. NULIDADE DO ACÓRDÃO REGIONAL
+POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. 3.
+COMISSÕES. DIVERGÊNCIA JURISPRUDENCIAL. ARESTOS INSERVÍVEIS. SÚMULA Nº
+296 DO TST. Impõe-se confirmar a decisão que negou seguimento ao agravo de
+instrumento, porquanto o recurso de revista não comprovou pressuposto
+intrínseco de admissibilidade inscrito no art. 896 da CLT. Agravo a que se nega
+provimento." (Ag-AIRR-11335-50.2015.5.15.0130, Ministro Relator: Walmir Oliveira
+da Costa, 1ª Turma, DEJT de 12/2/2021).
+"III - AGRAVO DE INSTRUMENTO INTERPOSTO PELA RECLAMADA. RECURSO
+DE REVISTA. LEI N° 13.014/2015. RETORNO DOS AUTOS. ANÁLISE DOS TEMAS
+SOBRESTADOS. ADOÇÃO DA TÉCNICA PER RELATIONEM. Segundo o
+posicionamento consolidado no âmbito do Supremo Tribunal Federal (MS￾27.350/DF, Rel. Min. Celso de Mello, DJ 4/6/2008), a decisão por meio da qual se
+mantêm os fundamentos do Juízo a quo (motivação per relationem) não configura
+negativa de prestação jurisdicional, tendo em vista a observância do princípio
+constitucional da motivação das decisões judiciais, por isso não há que se falar em
+ofensa ao art. 489, § 1°, do CPC. Agravo de instrumento a que se nega
+provimento." (AIRR-10564-78.2015.5.18.0004, Ministra Relatora: Maria Helena
+Mallmann, 2ª Turma, DEJT de 27/8/2021).
+"AGRAVO. PRELIMINAR DE NULIDADE DA DECISÃO MONOCRÁTICA POR
+NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO
+CONFIGURAÇÃO. NÃO PROVIMENTO. O artigo 932, III e IV, "a", do CPC/2015
+autoriza o relator a negar seguimento ao recurso quando manifestamente
+inadmissível, improcedente ou prejudicado em razão de entendimento sumulado
+pelo respectivo Tribunal. No presente caso, foi mantida a decisão que denegou
+seguimento ao recurso de revista da executada, especificamente quanto à
+questão da execução de seus bens. Ademais, a jurisprudência deste colendo
+Tribunal Superior do Trabalho é no sentido de que a confirmação jurídica e
+integral de decisões por seus próprios fundamentos não configura desrespeito ao
+devido processo legal, ao princípio do acesso ao Poder Judiciário, ao contraditório
+e à ampla defesa (motivação per relationem). Precedentes. Assim, a decisão, ainda
+que contrária aos interesses da parte, encontra-se motivada, não havendo
+configuração de negativa de prestação jurisdicional, razão pela qual o
+processamento do recurso de revista não se viabiliza tanto pelas alegações
+suscitadas em sede de preliminar como no mérito do agravo. Agravo a que se nega
+provimento, com aplicação da multa prevista no artigo 1.021, § 4º, do CPC." (Ag￾AIRR-248500-22.1997.5.02.0040, Ministro Relator: Guilherme Augusto Caputo
+Bastos, 4ª Turma, DEJT de 10/9/2021).
+"AGRAVO DA ELETROPAULO METROPOLITANA ELETRICIDADE DE SAO PAULO
+S.A. ACÓRDÃO PROFERIDO NA VIGÊNCIA DA LEI Nº 13.015/2014. ADOÇÃO DA
+TÉCNICA "PER RELATIONEM". Este Tribunal e o STF possuem entendimento maciço
+de que a adoção da técnica "per relationem", como forma de razão de decidir
+atende plenamente às exigências legal e constitucional da motivação das decisões
+proferidas pelo Poder Judiciário, (STF-ED-MS 25.936-1/DF, Relator Min. Celso de
+Mello, Tribunal Pleno, DJe 18/09/2009), não havendo, ainda, violação das garantias
+da ampla defesa e do devido processo legal, considerando-se a possibilidade de
+revisão da decisão por meio da interposição do agravo interno, nos termos do art.
+1.021, § 3º, do CPC. Agravo não provido." (Ag-AIRR-166400-38.2009.5.02.0024, Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006800B85DD7BC36E.
+Ministro Relator: Breno Medeiros, 5ª Turma, DEJT de 29/5/2020).
+"A) CERCEAMENTO DO DIREITO DE DEFESA. B) EXECUÇÃO.
+DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. BENEFÍCIO DE ORDEM. NÃO
+INFIRMA OS FUNDAMENTOS DO DESPACHO. 1 - Nas razões do agravo de
+instrumento, a parte ora agravante não conseguiu infirmar os fundamentos que
+embasaram o não seguimento do recurso de revista, os quais, pelo seu acerto,
+adoto como razões de decidir. 2 - O STF, no julgamento do AI-791292 QO-RG/PE,
+em procedimento de repercussão geral, manteve o entendimento de que a
+motivação referenciada (per relationem) atende à exigência constitucional da
+devida fundamentação, e não implica negativa de prestação jurisdicional. 3 - Nas
+razões do recurso de revista não foram indicados os trechos da decisão recorrida
+que consubstanciam o prequestionamento, seja por meio da transcrição do
+fragmento, seja sinalizando o número da página e do parágrafo do acórdão do
+Regional em que se encontra o trecho da matéria impugnada, por exemplo, o que
+não se admite, nos termos do art. 896, § 1º-A, I, da CLT. 4 - Agravo de instrumento
+a que se nega provimento." (AIRR-109600-67.2013.5.17.0012, Ministra Relatora:
+Kátia Magalhães Arruda, 6ª Turma, DEJT de 8/4/2016).
+"AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA.
+CPC/2015. INSTRUÇÃO NORMATIVA Nº 40 DO TST. LEI Nº 13.467/2017. NULIDADE
+DA DECISÃO UNIPESSOAL, POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL.
+FUNDAMENTAÇÃO PER RELATIONEM. A negativa de seguimento ao agravo de
+instrumento, mediante decisão unipessoal que mantém a decisão denegatória do
+recurso de revista proferida pelo Tribunal Regional, por motivação referenciada -
+per relationem - incorpora essas razões e, portanto, cumpre integralmente os
+ditames contidos nos artigos 93, IX, da Constituição Federal, 832 da CLT e 489 do
+Código de Processo Civil de 2015. Precedentes desta Corte e do Supremo Tribunal
+Federal. Agravo conhecido e não provido." (Ag-AIRR-10965-71.2016.5.03.0065,
+Ministro Relator: Cláudio Mascarenhas Brandão, 7ª Turma, DEJT de 27/5/2022).
+"AGRAVO. DECISÃO MONOCRÁTICA. NULIDADE POR NEGATIVA DE
+PRESTAÇÃO JUSRISDICONAL NÃO CONFIGURADA. Os Ministros do STF decidiram
+que a adoção da motivação per relationem não configura, por si só, a negativa de
+prestação jurisdicional ou a inexistência de motivação da decisão, devendo ser
+analisados se os fundamentos lançados são suficientes para justificar as
+conclusões (ARE nº 1.024.997 Rel. Min. Roberto Barroso, Primeira Turma, DJe-101
+DIVULG 15-05-2017 PUBLIC 16-05-2017), o que ocorre na hipótese. (...) Agravo não
+provido." (Ag-AIRR-387-18.2016.5.17.0014, Ministro Relator: Emmanoel Pereira, 8ª
+Turma, DEJT de 3/11/2021).
+"AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. NULIDADE POR NEGATIVA
+DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 1. Trata-se de agravo interno
+interposto em face da decisão da Vice-Presidência do TST pela qual denegado
+seguimento ao recurso extraordinário com base em precedente de repercussão
+geral. 2. O Supremo Tribunal Federal, ao decidir Questão de Ordem no Agravo de
+Instrumento nº 791.292/PE, em relação à questão de negativa de prestação
+jurisdicional, firmou o entendimento de que "o art. 93, IX, da Constituição Federal
+exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente,
+sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou
+provas, nem que sejam corretos os fundamentos da decisão". 3. No referido
+julgado, a Suprema Corte concluiu, ainda, que não havia negativa de prestação
+jurisdicional e respectiva violação literal do inciso IX do artigo 93 da Constituição
+da República quando o acórdão do Tribunal Superior do Trabalho endossa "os
+fundamentos do despacho de inadmissibilidade do recurso de revista, integrando￾os ao julgamento do agravo de instrumento". 4. Cabe ressaltar que o Supremo
+Tribunal Federal, na vigência do atual Código de Processo Civil, manteve o
+entendimento de que a adoção da motivação per relationem não configura, por si
+só, a negativa de prestação jurisdicional ou a inexistência de motivação da
+decisão, devendo ser analisados se os fundamentos lançados são suficientes para
+justificar as conclusões. (ARE-1024997-AgR, Relator: Min. Roberto Barroso, Primeira
+Turma, DJe-101 DIVULG 15-05-2017 PUBLIC 16-05-2017). 5. Nesse sentir, a 5ª Turma
+do Tribunal Superior do Trabalho, ao negar provimento ao agravo em agravo de
+instrumento em recurso de revista interposto pelo ora recorrente, endossando os
+fundamentos do despacho de inadmissibilidade do recurso de revista proferido
+pela Presidência do Tribunal Regional do Trabalho, não incorreu em negativa de
+prestação jurisdicional. 6. Assim, ficam mantidos os fundamentos adotados pela
+decisão agravada, restando verificado, ainda, o caráter infundado do presente
+agravo, aplicando-se a multa prevista no § 4º do artigo 1.021 do atual CPC. Agravo
+interno não provido, com aplicação de multa." (Ag-Ag-AIRR-94800-
+34.2009.5.15.0043, Ministro Relator: Emmanoel Pereira, Órgão Especial, DEJT de
+15/8/2017).
+Da mesma forma, o próprio Supremo Tribunal Federal, bem como o Superior
+Tribunal de Justiça, mesmo após a entrada em vigência do Código de Processo Civil de
+2015, entendem que a adoção da técnica de fundamentação jurídica per relationem não
+configura ausência ou insuficiência de fundamentação, muito menos negativa de
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006800B85DD7BC36E.
+prestação jurisdicional, ainda que utilizada na seara do Direito Penal. Nesse sentido, são
+os seguintes precedentes:
+"Agravo regimental em habeas corpus. Penal e Processo Penal. Artigo 33,
+caput, da Lei nº 11.343/06, e art. 16, caput, da Lei nº 10.826/03. Alegação de
+violação do art. 93, IX, da Constituição Federal. Fundamentação per relationem.
+Possibilidade. Precedentes. Agravo não provido. 1. É legítima, do ponto de vista
+jurídico-constitucional, a utilização, pelo Poder Judiciário, da técnica da motivação
+per relationem, porquanto compatível com o disposto no art. 93, IX, da
+Constituição da República. 2. A adoção pelo órgão judicante dos fundamentos
+veiculados no parecer do Ministério Público como razão de decidir não configura
+ausência de motivação nem de prestação jurisdicional. Precedentes (ARE nº
+1.024.997-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 16/5/17). 3.
+Agravo regimental a que se nega provimento." (HC-200.598-AgR, Ministro Relator:
+Dias Toffoli, Primeira Turma, Julgamento em 31/5/2021, Data de Publicação:
+28/6/2021).
+Agravo regimental em habeas corpus. Penal e Processo Penal. Artigo 33,
+caput, da Lei nº 11.343/06, e art. 16, caput, da Lei nº 10.826/03. Alegação de
+violação do art. 93, IX, da Constituição Federal.Fundamentaçãoperrelationem.
+Possibilidade. Precedentes. Agravo não provido. 1. É legítima, do ponto de vista
+jurídico-constitucional, a utilização, pelo Poder Judiciário, da técnica
+damotivaçãoperrelationem, porquanto compatível com o disposto no art. 93, IX,
+da Constituição da República. 2. A adoção pelo órgão judicante dos fundamentos
+veiculados no parecer do Ministério Público como razão de decidir não configura
+ausência demotivaçãonem de prestação jurisdicional. Precedentes (ARE nº
+1.024.997-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 16/5/17). 3.
+Agravo regimental a que se nega provimento. (HC 200598 AgR, Rel. Min. Dias
+Toffoli, DJE de 28.06.2021)
+RECURSO ORDINÁRIO. ALEGADA NULIDADE DECORRENTE DE
+IMPROPRIEDADE NO USO DA FUNDAMENTAÇÃOPERRELATIONEM. INEXISTÊNCIA.
+1.A jurisprudência deste SUPREMO TRIBUNAL já se consolidou no sentido da
+validade damotivaçãoperrelationem nas decisões judiciais, inclusive quando se
+tratar de remissão a parecer ministerial constante dos autos(cf. HC 150.872-AgR,
+Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 10/6/2019; ARE 1.082.664-ED￾AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 6/11/2018; HC 130.860-
+AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira DJe de 27/10/2017; HC 99.827-MC,
+Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 25/5/2011). 2. Recurso
+Ordinário a que se nega provimento. (RHC 113308, Rel. Min. Marco Aurélio, DJE de
+02.06.2021)
+"HABEAS CORPUS" - JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL
+CONSOLIDADA QUANTO À MATÉRIA VERSADA NA IMPETRAÇÃO - POSSIBILIDADE,
+EM TAL HIPÓTESE, DE O RELATOR DA CAUSA DECIDIR, MONOCRATICAMENTE, A
+CONTROVÉRSIA JURÍDICA - COMPETÊNCIA MONOCRÁTICA QUE O SUPREMO
+TRIBUNAL FEDERAL DELEGOU, VALIDAMENTE, EM SEDE REGIMENTAL (RISTF, ART.
+192, "CAPUT", NA REDAÇÃO DADA PELA ER Nº 30/2009) - INOCORRÊNCIA DE
+TRANSGRESSÃO AO PRINCÍPIO DA COLEGIALIDADE - PLENA LEGITIMIDADE
+JURÍDICA DESSA DELEGAÇÃO REGIMENTAL - ADOÇÃO DA TÉCNICA DA MOTIVAÇÃO
+"PER RELATIONEM" - LEGITIMIDADE CONSTITUCIONAL DESSA TÉCNICA DE
+MOTIVAÇÃO - FUNDAMENTAÇÃO VÁLIDA - PRISÃO CAUTELAR - NECESSIDADE
+COMPROVADA - MOTIVAÇÃO IDÔNEA QUE ENCONTRA APOIO EM FATOS
+CONCRETOS - PERICULOSIDADE DO ACUSADO/RÉU EVIDENCIADA PELO "MODUS
+OPERANDI" DA REALIZAÇÃO DA PRÁTICA DELITUOSA - PRECEDENTES DESTA
+SUPREMA CORTE - RECURSO DE AGRAVO IMPROVIDO. - O Supremo Tribunal
+Federal tem salientado, em seu magistério jurisprudencial, a propósito da
+motivação "per relationem", que inocorre ausência de fundamentação quando o
+ato decisório - o acórdão, inclusive - reporta-se, expressamente, a manifestações
+ou a peças processuais outras, mesmo as produzidas pelo Ministério Público,
+desde que nelas achem-se expostos os motivos, de fato ou de direito,
+justificadores da decisão judicial proferida. Precedentes. Doutrina. - O acórdão, ao
+fazer remissão aos fundamentos fático-jurídicos expostos no parecer do Ministério
+Público - e ao invocá-los como expressa razão de decidir -, ajusta-se, com plena
+fidelidade, à exigência jurídico-constitucional de motivação a que estão sujeitos os
+atos decisórios emanados do Poder Judiciário (CF, art. 93, IX). Revela-se legítima a
+prisão cautelar se a decisão que a decreta encontra suporte idôneo em elementos
+concretos e reais que - além de ajustarem-se aos fundamentos abstratos definidos
+em sede legal - demonstram que a permanência em liberdade do suposto autor
+do delito comprometerá a garantia da ordem pública." (HC-127.228-AgR, Ministro
+Relator: Celso de Mello, Segunda Turma, Julgamento em 1º/9/2015, Data de
+Publicação: 12/11/2015).
+"DIREITO PENAL E PROCESSUAL PENAL. AGRAVO INTERNO EM RECURSO
+EXTRAORDINÁRIO COM AGRAVO. ESTELIONATO PREVIDENCIÁRIO. MOTIVAÇÃO
+PER RELATIONEM. POSSIBILIDADE. AUSÊNCIA DE VIOLAÇÃO AO ART. 93, IX, DA
+CONSTITUIÇÃO FEDERAL. ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006800B85DD7BC36E.
+CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279/STF. PRESCRIÇÃO DA
+PRETENSÃO PUNITIVA ESTATAL. JUÍZO DA EXECUÇÃO. 1. A jurisprudência do
+Supremo Tribunal Federal é no sentido de que não viola a exigência constitucional
+da motivação o acórdão de segunda instância que adota como razões de decidir
+fundamentos contidos na sentença recorrida. Precedentes. 2. A decisão está
+devidamente fundamentada, embora em sentido contrário aos interesses da parte
+agravante. (...). Agravo interno a que se nega provimento." (ARE-1.244.643-AgR,
+Ministro Relator: Roberto Barroso, Primeira Turma, Julgamento em 13/3/2020,
+Data de Publicação: 3/4/2020).
+"AGRAVO REGIMENTAL NOS SEGUNDOS EMBARGOS DE DECLARAÇÃO NO
+RECURSO EXTRAORDINÁRIO CRIMINAL COM AGRAVO. OFENSA AOS ARTS. 5°, XII; E
+93, IX, DA CF. ALEGAÇÃO DE FALTA DE PREQUESTIONAMENTO E DE EXISTÊNCIA DE
+OFENSA REFLEXA. INOCORRÊNCIA. INTERCEPTAÇÕES TELEFÔNICAS, ESCUTAS
+AMBIENTAIS E RASTREAMENTO VEICULAR DEFERIDOS EM DECISÃO
+FUNDAMENTADA. AUSÊNCIA DE INDÍCIOS DE AUTORIA. IMPOSSIBILIDADE DE
+REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279/STF. MEDIDAS
+EXCEPCIONAIS DEFERIDAS PELO PERÍODO DE 30 DIAS. POSSIBILIDADE. FALTA DE
+DEMONSTRAÇÃO DO PREJUÍZO. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS
+FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 283 DO
+SUPREMO TRIBUNAL FEDERAL. AGRAVO A QUE SE NEGA PROVIMENTO. I - No caso
+dos autos, ficam afastadas as alegações de falta de prequestionamento e de
+existência de ofensa reflexa, uma vez que os arts. 5°, XII; e 93, IX, da Constituição
+Federal constaram da ementa do acórdão recorrido e foram utilizados como razão
+de decidir pelo Tribunal de origem. II - O Supremo Tribunal Federal admite como
+motivação per relationem ou por remissão a simples referência aos fundamentos
+de fato ou de direito constantes de manifestação ou ato decisório anteriores.
+Precedentes. III - No caso, o acórdão proferido pelo Tribunal de Justiça do Estado
+do Rio Grande do Sul, ainda que sucintamente, traz os motivos que levaram o
+Colegiado a autorizar as interceptações telefônicas, as escutas ambientais e o
+rastreamento veicular (...). Agravo regimental a que se nega provimento." (ARE￾1.260.103-ED-ED-AgR, Ministro Relator: Ricardo Lewandowski, Segunda Turma,
+Julgamento em 28/9/2020, Data de Publicação: 2/10/2020).
+Acrescente-se que, quanto ao tema "ENTIDADE BENEFICENTE. CONTRIBUIÇÃO
+PREVIDENCIÁRIA", os seguintes precedentes de lavra deste Relator, com a mesma
+reclamada dos presentes autos, no sentido de que não se constata nenhum prejuízo à
+parte, uma vez que a Corte de origem não indeferiu a pretendida desoneração da folha
+de pagamento em relação aos recolhimentos de benefícios previdenciários (cota-parte
+patronal), mas tão somente remeteu a análise da matéria à fase de execução,
+procedimento que urge seja mantido:
+"[...] IMUNIDADE TRIBUTÁRIA. ENTIDADE BENEFICENTE. CONTRIBUIÇÃO
+PREVIDENCIÁRIA. COTA PATRONAL. DETERMINAÇÃO DE ANÁLISE DA MATÉRIA NA
+FASE EXECUTIVA. No caso, registrou-se, em decisão monocrática, que "o Regional
+remeteu a análise da matéria para a fase de execução, consignando que ' a
+certidão juntada com a defesa (ID. cf10b32) comprova a condição de entidade
+beneficente da Reclamada , eis que o requerimento de renovação do Certificado
+de Entidade Beneficente de Assistência Social - CEBAS, protocolado
+tempestivamente, se encontra em análise. Nos termos da certidão ID. cf10b32, o
+certificado CEBAS deve ser considerado como ativo até a conclusão da ação nº
+23000.010299/2012-58, na qual foi requerida a respectiva renovação'. Ainda, em
+consulta ao sítio eletrônico, realizada em 18/06/2020, consta informação de que o
+referido processo ainda se encontra em fase de 'análise', o que corrobora que a
+instituição Reclamada possui certificado ativo no presente momento " . Nesse
+contexto, de fato, não se constata prejuízo à parte, uma vez que a Corte de origem
+não indeferiu a pretendida desoneração da folha de pagamento em relação aos
+recolhimentos de benefícios previdenciários (cota-parte patronal), mas tão
+somente remeteu a análise da matéria à fase de execução. Agravo desprovido.
+[...]." (Ag-AIRR-10842-05.2019.5.03.0183, 3ª Turma, Relator Ministro José Roberto
+Freire Pimenta, DEJT 07/03/2025).
+Também a seguinte decisão monocrática: "AIRR-101073-40.2019.5.01.0246, Relator:
+José Roberto Freire Pimenta, Publicação: 25/03/2024".
+Em relação aos temas "DIFERENÇAS A TÍTULO DA MULTA DE 40% DO FGTS" e
+"DIFERENÇAS SALARIAIS. REDUÇÃO DE CARGA HORÁRIA", está prejudicado o exame
+da transcendência do recurso de revista, ante a constatação de óbice processual
+para seu processamento, qual seja, a Súmula nº 126 do TST .
+Em relação aos temas " HONORÁRIOS ADVOCATÍCIOS. PERCENTUAL ARBITRADO",
+"CORREÇÃO MONETÁRIA E JUROS MORATÓRIOS", "CORREÇÃO MONETÁRIA DO FGTS" e
+"BENEFÍCIOS DA JUSTIÇA GRATUITA DEFERIDOS AO RECLAMANTE", não se constata a
+transcendência política da causa a ensejar o exame do recurso de revista, pois o
+acórdão regional apresenta-se em consonância com a Súmula nº 463, item I, do TST,
+com a OJ nº 302 da SBDI-1 do TST, com Tese Vinculante do STF, e com a iterativa, notória
+e atual jurisprudência do TST, incidindo a Súmula nº 333 do TST.
+Por outro lado, também não constato haver, no particular, transcendência jurídica, Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006800B85DD7BC36E.
+social, econômica ou qualquer outra relevância para o exame do apelo, nos termos do
+art. 896-A da CLT.
+Colaciona-se precedentes da iterativa, notória e atual jurisprudência do TST
+quanto à manutenção do percentual arbitrado a título de honorários advocatícios
+sucumbenciais:
+"HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO DO PERCENTUAL. Impossível
+constatar a apontada violação do artigo 791-A da CLT. O mencionado dispositivo
+prevê que os honorários advocatícios serão "fixados entre o mínimo de 5% (cinco
+por cento) e o máximo de 15% (quinze por cento) sobre o valor que resultar da
+liquidação da sentença". Assim, tendo a Corte regional respeitado os limites
+mínimo e máximo fixados no referido dispositivo legal, não é possível verificar a
+necessária "violação literal de disposição de lei federal", na forma exigida pela
+alínea "c" do artigo 896 da CLT. Ademais, destaca-se que o arbitramento do
+percentual dos honorários advocatícios sucumbenciais se encontra no âmbito do
+poder discricionário do magistrado, em observância aos critérios de razoabilidade
+e de proporcionalidade, o que torna impossível a verificação da apontada violação
+legal. Agravo de instrumento desprovido" (AIRR-651-29.2019.5.21.0043, 2ª Turma ,
+Relator Ministro: José Roberto Freire Pimenta, DEJT 28/5/2021).
+"5. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. PERCENTUAL.
+TRANSCENDÊNCIA NÃO RECONHECIDA. O percentual dos honorários advocatícios
+foi fixado com observância do art. 791-A da CLT (mínimo de cinco e o máximo de
+quinze por cento sobre o valor da condenação). A fixação do percentual prevista
+no citado preceito constitui faculdade do julgador, que examinará cada caso em
+concreto" (Ag-AIRR-11654-76.2019.5.18.0006, 1ª Turma , Relator Ministro Amaury
+Rodrigues Pinto Junior, DEJT 17/12/2021).
+"1.4. PERCENTUAL DOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. I. A
+Corte de origem, ao arbitrar os honorários advocatícios sucumbenciais com
+elevação do seu percentual, decidiu levando em conta o grau de zelo do
+profissional, o lugar de prestação do serviço, a natureza e a importância da causa,
+além do trabalho realizado e o tempo exigido para o seu serviço, de modo que o
+reexame da matéria encontra óbice na Súmula 126, do TST. II. Sucumbente a
+Reclamada nos objetos da presente demanda, correta a sua condenação em
+honorários sucumbenciais no percentual de 15%, o qual atende o disposto no art.
+791-A da CLT" (Ag-AIRR-10285-14.2019.5.18.0211, 4ª Turma , Relator Ministro
+Alexandre Luiz Ramos, DEJT 17/12/2021).
+"HONORÁRIOS DE ADVOGADO - PRETENSÃO DE MAJORAÇÃO DO VALOR
+ARBITRADO. PRESENÇA DE TRANSCENDÊNCIA JURÍDICA. O Tribunal Regional
+buscou amparo no artigo 791-A, §2º, da CLT para julgar razoável o percentual de
+10% atribuído pela sentença aos honorários de advogado. O recurso de revista
+oferece transcendência com relação aos reflexos de natureza jurídica previstos no
+artigo 896-A, §1º, IV, da CLT, uma vez que se está diante de decisão fundamentada
+em dispositivo inserido no processo do trabalho pela Lei nº 13.467/2017. A decisão
+sobre o pedido de majoração do percentual dos honorários de advogado é
+prerrogativa do Tribunal Regional, que examinará o caso concreto de acordo com
+os critérios previstos na lei. Precedentes. Agravo de instrumento conhecido e
+desprovido" (RRAg-985-59.2019.5.10.0014, 3ª Turma , Relator Ministro Alexandre
+de Souza Agra Belmonte, DEJT 19/03/2021).
+"[...] 3 - HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO DO PERCENTUAL . 1.
+Estabelece o art. 791-A da CLT que: "ao advogado, ainda que atue em causa
+própria, serão devidos honorários de sucumbência, fixados entre o mínimo de 5%
+(cinco por cento) e o máximo de 15% (quinze por cento) sobre o valor que resultar
+da liquidação da sentença, do proveito econômico obtido ou, não sendo possível
+mensurá-lo, sobre o valor atualizado da causa". O § 2º do art. 791 da CLT
+estabelece os critérios de balizamento para o Juízo fixar o valor dos honorários
+advocatícios, que são: I - o grau de zelo do profissional; II - o lugar de prestação do
+serviço; III - a natureza e a importância da causa; IV - o trabalho realizado pelo
+advogado e o tempo exigido para o seu serviço. 2. No caso, a Corte de origem,
+sopesando os critérios estabelecidos na lei, concluiu pela condenação em 10% (dez
+por cento) a título de honorários advocatícios, o que corresponde ao percentual
+médio previsto em lei (entre 5% a 15%). Nesse cenário, não cabe a esta Corte
+Superior reexaminar os critérios estabelecidos no § 2º do art. 791 da CLT, para
+majorar o percentual decretado pela Corte regional, exceto se a condenação fosse
+desarrazoada, o que não se configura no caso, uma vez que a parcela arbitrada
+traduz percentual condizente com os requisitos legais. Agravo de instrumento não
+provido quanto ao tema . [...]." (AIRR-352-75.2022.5.06.0104, 8ª Turma, Relatora
+Ministra Delaide Alves Miranda Arantes, DEJT 07/10/2024).
+Veja-se, ainda, precedentes da iterativa, notória e atual jurisprudência do TST
+especificamente acerca da Justiça gratuita:
+"RECURSO DE REVISTA REGIDO PELA LEI Nº 13.467/2017. BENEFÍCIOS DA
+JUSTIÇA GRATUITA. COMPROVAÇÃO. AÇÃO AJUIZADA NA VIGÊNCIA DA LEI Nº
+13.467/2017. DECLARAÇÃO PROFERIDA POR PESSOA NATURAL. Discute-se se
+apenas a declaração de pobreza é suficiente para a comprovação do estado de
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006800B85DD7BC36E.
+miserabilidade do reclamante, para fins de deferimento dos benefícios da Justiça
+gratuita, em ação ajuizada após a vigência da Lei n° 13.467/2017. No caso, as
+instâncias ordinárias, aplicando o artigo 790, § 3º, da CLT, entenderam que a
+declaração de pobreza apresentada pelo reclamante não era suficiente para
+caracterizar a presunção relativa de veracidade desse fato. A Lei nº 13.467/2017,
+que entrou em vigor em 11/11/2017, inseriu o parágrafo 4º ao artigo 790 da CLT, o
+qual dispõe que " o benefício da justiça gratuita será concedido à parte que
+comprovar insuficiência de recursos para o pagamento das custas do processo ".
+Dessa forma, considerando que esta ação foi ajuizada na vigência da Reforma
+Trabalhista, submete-se ao que dispõe o § 4º do artigo 790 da CLT, que exige a
+comprovação da insuficiência de recursos para a concessão dos benefícios da
+Justiça gratuita à parte requerente. Com efeito, nos termos do item I da Súmula nº
+463 do TST, basta a simples afirmação do declarante ou de seu advogado para se
+considerar configurada a sua situação econômica: " I - A partir de 26.06.2017, para
+a concessão da assistência judiciária gratuita à pessoa natural, basta a declaração
+de hipossuficiência econômica firmada pela parte ou por seu advogado, desde que
+munido de procuração com poderes específicos para esse fim (art. 105 do CPC de
+2015) ". Ressalta-se que a nova redação do § 4º do artigo 790 da CLT não é
+incompatível com a redação do artigo 99, § 3º, do CPC/2015, razão pela qual as
+duas normas legais podem e devem ser aplicadas conjuntamente, por força dos
+artigos 15 do CPC/2015 e 769 da CLT. Conclui-se, portanto, que a comprovação a
+que alude o § 4º do artigo 790 da CLT pode ser feita mediante declaração de
+miserabilidade da parte. Nesse contexto, a simples afirmação do reclamante de
+que não tem condições financeiras de arcar com as despesas do processo autoriza
+a concessão da Justiça gratuita à pessoa natural. Precedentes. Assim, o Regional,
+ao rejeitar o pedido de deferimento dos benefícios da Justiça gratuita, apresenta￾se a sua decisão em dissonância com a atual jurisprudência do TST e viola, por má
+aplicação, a previsão do artigo 790, § 3º, da CLT. Recurso de revista conhecido e
+provido" (RR-10789-16.2019.5.15.0013, 2ª Turma , Relator Ministro José Roberto
+Freire Pimenta, DEJT 02/08/2021).
+"AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. LEI Nº 13.467/2017.
+ASSISTÊNCIA JUDICIÁRIA GRATUITA. DEFERIMENTO. A assistência judiciária gratuita
+está condicionada à declaração do requerente, pessoa natural, de que não pode
+arcar com o pagamento das custas do processo sem sacrifício de sua subsistência
+familiar. Portanto, uma vez presente nos autos declaração de miserabilidade
+jurídica, considera-se preenchido o requisito legal, na linha do item I da Súmula
+463 desta Corte, mormente quando não se extrai do acórdão recorrido a
+existência de prova que possa contrariar a declaração de hipossuficiência
+econômica firmada pelo reclamante. Com efeito, a situação econômica do
+reclamante não pode ser analisada somente em relação ao montante do salário
+recebido, uma vez que a sua condição econômica pode estar prejudicada ou
+alterada por vários fatores. A decisão que defere o benefício da justiça gratuita em
+tal contexto harmoniza-se com a Súmula de jurisprudência uniforme e o atual
+entendimento deste Tribunal Superior. Precedentes. Agravo de instrumento
+conhecido e não provido" (AIRR-1000486-57.2018.5.02.0033, 8ª Turma , Relator
+Desembargador Convocado João Pedro Silvestrin, DEJT 21/06/2021).
+"RECURSO DE REVISTA INTERPOSTO NA VIGÊNCIA DAS LEIS Nos 13.015/2014
+E 13.467/2017. BENEFÍCIOS DA JUSTIÇA GRATUITA. COMPROVAÇÃO. AÇÃO
+AJUIZADA NA VIGÊNCIA DA LEI Nº 13.467/2017. DECLARAÇÃO PROFERIDA POR
+PESSOA NATURAL. Cinge-se a controvérsia a decidir se apenas a declaração de
+pobreza é suficiente para a comprovação do estado de miserabilidade do
+reclamante, para fins de deferimento dos benefícios da Justiça gratuita, em ação
+ajuizada após a vigência da Lei n° 13.467/2017. No caso, as instâncias ordinárias,
+aplicando o artigo 99, § 3º, do CPC/2015, entenderam que a declaração de pobreza
+apresentada pelo reclamante é suficiente para caracterizar a presunção relativa de
+veracidade desse fato. Com efeito, para o Regional, o reclamante conseguiu
+comprovar a sua hipossuficiência econômica, uma vez que "a declaração de
+pobreza apresentada pelo interessado em audiência é prova bastante de sua
+hipossuficiência econômica, a teor do artigo 99, §3º, do Código de Processo Civil:
+"Presume-se verdadeira a alegação de insuficiência deduzida exclusivamente por
+pessoa natural". A Lei nº 13.467/2017, que entrou em vigor em 11/11/2017, inseriu
+o parágrafo 4º ao artigo 790 da CLT, que assim dispõe: "Art. 790. (...) § 4º O
+benefício da justiça gratuita será concedido à parte que comprovar insuficiência
+de recursos para o pagamento das custas do processo". Dessa forma,
+considerando que a ação foi ajuizada na vigência da reforma trabalhista, ela
+submete-se ao que dispõe o § 4º do artigo 790 da CLT, que exige a comprovação
+da insuficiência de recursos para a concessão dos benefícios da Justiça gratuita à
+parte requerente. Com efeito, nos termos do item I da Súmula nº 463 do TST, basta
+a simples afirmação do declarante ou de seu advogado para se considerar
+configurada a sua situação econômica: "I - A partir de 26.06.2017, para a
+concessão da assistência judiciária gratuita à pessoa natural, basta a declaração
+de hipossuficiência econômica firmada pela parte ou por seu advogado, desde que
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006800B85DD7BC36E.
+munido de procuração com poderes específicos para esse fim (art. 105 do CPC de
+2015)". Ressalta-se que a nova redação do § 4º do artigo 790 da CLT não é
+incompatível com a redação do artigo 99, § 3º, do CPC/2015, razão pela qual as
+duas normas legais podem e devem ser aplicadas conjuntamente, por força dos
+artigos 15 do CPC/2015 e 769 da CLT. Conclui-se, portanto, que a comprovação a
+que alude o § 4º do artigo 790 da CLT pode ser feita mediante declaração de
+miserabilidade da parte. Nesse contexto, a simples afirmação do reclamante de
+que não tem condições financeiras de arcar com as despesas do processo autoriza
+a concessão da Justiça gratuita à pessoa natural. Enfatiza-se, por fim, que o banco
+recorrente nada provou em sentido contrário, limitando-se a negar validade à
+declaração de pobreza feita pelo reclamante, sem nada alegar de substancial
+contra ela e seu conteúdo. Não cabe, portanto, a esta instância de natureza
+extraordinária afastar, sem nenhum elemento concreto em contrário, a conclusão
+de ambas as instâncias ordinárias sobre o fato de ser o reclamante pobre em
+sentido legal. Recurso de revista conhecido e desprovido." (RR-340-
+21.2018.5.06.0001, Relator Ministro: José Roberto Freire Pimenta, data de
+julgamento: 19/2/2020, 2ª Turma, data de publicação: DEJT 28/2/2020)
+"[...] II - AGRAVO DO RECLAMADO. RECURSO DE REVISTA COM AGRAVO.
+MATÉRIA OBJETO DO RECURSO DE REVISTA DOS RECLAMANTES. DECISÃO
+MONOCRÁTICA DE PROVIMENTO. JUSTIÇA GRATUITA. PESSOA NATURAL.
+DECLARAÇÃO DE POBREZA. VALIDADE. APLICAÇÃO DA SÚMULA 463, I, DO TST, NA
+VIGÊNCIA DA LEI N.º 13.467/2017. POSSIBILIDADE. TRANSCENDÊNCIA
+RECONHECIDA. BENEFÍCIO CONCEDIDO. 1. Na hipótese, o Tribunal Regional
+afastou a concessão dos benefícios da justiça gratuita aos reclamantes, ao
+fundamento de que recebiam salário superior a 40% do limite máximo dos
+benefícios do Regime Geral de Previdência Social. 2. Todavia, a jurisprudência
+sedimentada neste Tribunal Superior na matéria é a de que a declaração de
+hipossuficiência firmada pela parte ou por seu procurador com poderes especiais
+se presume verdadeira, nos termos do art. 99, § 3.º, do CPC, autorizando a
+concessão da justiça gratuita à pessoa natural, ainda que perceba salário superior
+a 40% (quarenta por cento) do limite máximo dos benefícios do Regime Geral de
+Previdência Social. 3. Impõe-se confirmar a decisão monocrática, mediante a qual
+foi conhecido e provido o Recurso de Revista dos reclamantes. Agravo conhecido e
+não provido" (Ag-RRAg-774-08.2021.5.09.0652, 1ª Turma, Redator Ministro Luiz José
+Dezena da Silva, DEJT 26/03/2025).
+"RECURSO DE REVISTA DO RECLAMANTE INTERPOSTO NA VIGÊNCIA DA LEI Nº
+13.467/2017. TRANSCENDÊNCIA JURÍDICA. RECLAMAÇÃO TRABALHISTA
+INTERPOSTA NA VIGÊNCIA DA LEI Nº 13.467/2017. BENEFÍCIO DA JUSTIÇA
+GRATUITA. COMPROVAÇÃO DE INSUFICIÊNCIA DE RECURSOS POR SIMPLES
+DECLARAÇÃO. 1 - Deve ser reconhecida a transcendência na forma autorizada pelo
+art. 896-A, § 1º, IV, da CLT, quando constatada "a existência de questão nova em
+torno da interpretação da legislação trabalhista". Caso em que se discute a
+exegese dos §§ 3º e 4º do art. 790 da CLT, pela redação dada pela Lei nº
+13.467/2017, em reclamação trabalhista proposta na sua vigência. 2 - A Lei nº
+13.467/2017 alterou a parte final do § 3º e acresceu o § 4º do art. 790 da CLT, o qual
+passou a dispor que "O benefício da justiça gratuita será concedido à parte que
+comprovar insuficiência de recursos para o pagamento das custas do processo". 3
+- Questiona-se, após essa alteração legislativa, a forma de comprovação de
+insuficiência de recursos para fins de obter o benefício da justiça gratuita no
+âmbito do Processo do Trabalho. 4 - Embora a CLT atualmente não trate
+especificamente sobre a questão, a normatização processual civil, plenamente
+aplicável ao Processo do Trabalho, seguindo uma evolução legislativa de
+facilitação do acesso à Justiça em consonância com o texto constitucional de 1988,
+estabeleceu que se presume "verdadeira a alegação de insuficiência deduzida
+exclusivamente por pessoa natural". 5 - Também quanto ao assunto, a Súmula nº
+463, I, do TST, com a redação dada pela Resolução nº 219, de 28/6/2017, em
+consonância com o CPC de 2015, firmou a diretriz de que "para a concessão da
+assistência judiciária gratuita à pessoa natural, basta a declaração de
+hipossuficiência econômica firmada pela parte ou por seu advogado". 6 - Nesse
+contexto, mantém-se no Processo do Trabalho, mesmo após a Lei n.º 13.467/2017,
+o entendimento de que a declaração do interessado, de que não dispõe de
+recursos suficientes para o pagamento das custas do processo, goza de presunção
+relativa de veracidade e se revela suficiente para comprovação de tal condição (99,
+§ 2º, do CPC de 2015 c/c art. 790, § 4º, da CLT). Harmoniza-se esse entendimento
+com o princípio da inafastabilidade da jurisdição (art. 5º, XXXV, da Constituição
+Federal). 7 - De tal sorte, havendo o reclamante prestado declaração de
+hipossuficiência e postulado benefício de justiça gratuita, à míngua de prova em
+sentido contrário, reputa-se demonstrada a insuficiência de recursos a que alude
+o art. 790, § 4º, da CLT. 8 - Recurso de revista de que se conhece e a que se dá
+provimento." (RR-10607-91.2018.5.18.0171, Relatora Ministra: Kátia Magalhães
+Arruda, data de julgamento: 11/3/2020, 6ª Turma, data de publicação: DEJT
+13/3/2020)
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006800B85DD7BC36E.
+"RECURSO DE REVISTA. ASSISTÊNCIA JUDICIÁRIA GRATUITA. DECLARAÇÃO DE
+HIPOSSUFICIÊNCIA. RECLAMAÇÃO TRABALHISTA AJUIZADA NA VIGÊNCIA DA LEI Nº
+13.467/2017. COMPROVAÇÃO DO ESTADO DE MISERABILIDADE MEDIANTE
+DECLARAÇÃO PROFERIDA POR PESSOA NATURAL. Cinge-se a controvérsia a se
+saber se é necessária a comprovação do estado de miserabilidade no processo do
+trabalho para fins de concessão dos benefícios da assistência judiciária gratuita. A
+Lei nº 1.060/50, que estabelecia as normas para a concessão de assistência
+judiciária gratuita aos necessitados, previa no parágrafo único do art. 2º que
+"Considera-se necessitado, para os fins legais, todo aquele cuja situação
+econômica não lhe permita pagar as custas do processo e os honorários de
+advogado, sem prejuízo do sustento próprio ou da família." Por sua vez, o art. 4º
+estabelecia como requisito para concessão da gratuidade de justiça que "A parte
+gozará dos benefícios da assistência judiciária, mediante simples afirmação, na
+própria petição inicial, de que não está em condições de pagar as custas do
+processo e os honorários de advogado, sem prejuízo próprio ou de sua família".
+Dessa disposição, as partes começaram a apresentar nos autos a declaração de
+hipossuficiência. O art. 5º da referida lei dispunha expressamente que "O juiz, se
+não tiver fundadas razões para indeferir o pedido, deverá julgá-lo de plano,
+motivando ou não o deferimento dentro do prazo de setenta e duas horas."
+Portanto, surgiu para as partes requerentes do benefício da gratuidade da justiça
+a presunção de veracidade da declaração de hipossuficiência. A jurisprudência do
+TST havia se consolidado no sentido de que, para a concessão da assistência
+judiciária gratuita à pessoa natural, bastava a declaração de hipossuficiência
+econômica firmada pela parte ou por seu advogado. Na mesma linha, o art. 99 do
+CPC/2015, revogando as disposições da Lei nº 1.060/50 sobre gratuidade de justiça,
+trouxe em seu § 3º que "Presume-se verdadeira a alegação de insuficiência
+deduzida exclusivamente por pessoa natural". Nesse sentido, após a entrada em
+vigor do Código de Processo Civil de 2015, o TST converteu a Orientação
+Jurisprudencial nº 304 da SBDI-1 na Súmula nº 463. Logo, para a pessoa natural
+requerer os benefícios da justiça gratuita bastava a juntada de declaração de
+hipossuficiência, sendo ônus da parte adversa comprovar que o requerente não se
+enquadrava em nenhuma das situações de miserabilidade. No caso de pedido
+formulado pelo advogado da parte, este deveria ter procuração com poderes
+específicos para este fim. No entanto, em 11/11/2017, entrou em vigor a Lei nº
+13.467/2017 (Reforma Trabalhista), que inseriu o parágrafo 4º ao art. 790 da CLT.
+Dessa forma, as ações ajuizadas a partir da entrada em vigor da reforma
+trabalhista estão submetidas ao que dispõe o § 4º do art. 790 da CLT, que exige a
+comprovação, pela parte requerente, da insuficiência de recursos para a
+concessão dos benefícios da justiça gratuita. Sem dúvida, o referido dispositivo
+inaugurou uma condição menos favorável à pessoa natural do que aquela prevista
+no Código de Processo Civil. No entanto, em se tratando de norma específica que
+rege o Processo do Trabalho, não há espaço, a priori , para se utilizar somente as
+disposições do CPC. Logo, o referido dispositivo implicaria, no ponto de vista do
+trabalhador, um retrocesso social, dificultando o acesso deste ao Poder Judiciário.
+Assim, a par da questão da constitucionalidade ou não do § 4º do art. 790 da CLT, a
+aplicação do referido dispositivo não pode ocorrer isoladamente, mas sim deve
+ser interpretado sistematicamente com as demais normas, quer aquelas
+constantes na própria CLT, quer aquelas previstas na Constituição Federal e no
+Código de Processo Civil. Dessa forma, à luz do que dispõe o próprio § 3º do art.
+790 da CLT c/c com os arts. 15 e 99, § 3º, do CPC, entende-se que a comprovação a
+que alude o § 4º do art. 790 da CLT pode ser feita mediante a simples declaração
+da parte, a fim de viabilizar o pleno acesso do trabalhador ao Poder Judiciário,
+dando, assim, cumprimento ao art. 5º, XXXV e LXXIV da Constituição Federal. Isso
+porque não se pode atribuir ao trabalhador que postula, junto a esta
+Especializada, uma condição menos favorável àquela destinada aos cidadãos
+comuns que litigam na justiça comum, sob pena de afronta ao princípio da
+isonomia, previsto no caput do art. 5º da CF. Não conceder à autora, no caso dos
+autos, os benefícios da gratuidade de justiça, é o mesmo que impedir o amplo
+acesso ao Poder Judiciário (art. 5º, XXXV, da CF) e discriminar o trabalhador em
+relação às pessoas naturais que litigam na justiça comum (art. 5º, caput , da CF).
+Recurso de revista conhecido por contrariedade à Súmula 463, I, do TST e
+provido." (RR-893-70.2018.5.13.0002, 3ª Turma, Relator Ministro Alexandre de
+Souza Agra Belmonte, DEJT 25/10/2019)
+Dessa forma, tendo em vista que a parte não logrou demonstrar a necessidade de
+provimento do apelo, merecendo ser mantida a decisão denegatória de seguimento ao
+recurso de revista, nego provimento ao agravo de instrumento quanto aos temas
+"ENTIDADE BENEFICENTE. CONTRIBUIÇÃO PREVIDENCIÁRIA", "DIFERENÇAS A TÍTULO DA
+MULTA DE 40% DO FGTS", "DIFERENÇAS SALARIAIS. REDUÇÃO DE CARGA HORÁRIA",
+"HONORÁRIOS ADVOCATÍCIOS. PERCENTUAL ARBITRADO", "CORREÇÃO MONETÁRIA E
+JUROS MORATÓRIOS", "CORREÇÃO MONETÁRIA DO FGTS" e "BENEFÍCIOS DA JUSTIÇA
+GRATUITA DEFERIDOS AO RECLAMANTE".
+(...)
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006800B85DD7BC36E.
+Nas razões do agravo, a Parte Agravante pugna pelo provimento do agravo de instrumento.
+Sem razão, contudo.
+Conforme salientado na decisão agravada, a Parte Agravante não logra êxito em
+desconstituir os fundamentos da decisão monocrática que denegou seguimento ao recurso de
+revista, tendo em vista que, de seu detido cotejo com as razões do recurso, conclui-se não haver
+a demonstração de jurisprudência dissonante específica sobre o tema, de interpretação
+divergente de normas regulamentares ou de violação direta de dispositivo de lei federal ou da
+Constituição da República, nos moldes das alíneas a , b e c do art. 896 da CLT.
+Registre-se que a motivação por adoção dos fundamentos da decisão recorrida não se
+traduz em omissão no julgado ou na negativa de prestação jurisdicional - até mesmo porque
+transcritos integralmente.
+Isso porque a fundamentação utilizada pela instância ordinária se incorpora à decisão
+proferida pela Corte revisora - e, portanto, a análise dos fatos e das provas, bem como do
+enquadramento jurídico a eles conferido. Dessa forma, considerando-se que o convencimento
+exposto na decisão recorrida é suficiente para definição da matéria discutida em Juízo, com
+enfrentamento efetivo dos argumentos articulados pela Parte Recorrente, torna-se viável a
+incorporação formal dessa decisão por referência.
+Ou seja, se a decisão regional contém fundamentação suficiente - com exame completo e
+adequado dos fatos discutidos na lide e expressa referência às regras jurídicas que regem as
+matérias debatidas -, a adoção dos motivos que compõem esse julgamento não implica
+inobservância aos arts. 93, IX, da CF/88, e 489, II, do CPC/2015.
+Assim sendo, a prolação de julgamentos pela técnica da motivação relacional não viola os
+princípios e garantias constitucionais do devido processo legal (art. 5º, LIV), do contraditório e da
+ampla defesa (art. 5º, LV), além de preservar o direito à razoável celeridade da tramitação processual
+(art. 5º, LXXVIII). Revela-se, na prática, como ferramenta apropriada de racionalização da atividade
+jurisdicional.
+Nesse sentido, inclusive, posiciona-se a jurisprudência desta Corte Superior, citada na decisão
+agravada, segundo a qual a confirmação integral da decisão agravada não implica ausência de
+fundamentação, não eliminando o direito da parte de submeter sua irresignação ao exame da
+instância revisora.
+Ademais, o próprio STF entende que a fundamentação relacional não se confunde com a
+ausência ou a deficiência de fundamentação da decisão judicial, conforme ementas transcritas no
+julgamento monocrático.
+Acresça-se a esses fundamentos a peculiaridade de que a principal finalidade desta Corte
+Superior é uniformizar a jurisprudência trabalhista para que se preserve a unidade na interpretação
+da lei, atendendo ao primado da segurança jurídica inerente ao Estado Democrático de Direito.
+Como se sabe, no sistema processual trabalhista, o exame da matéria fática dos autos é atribuição
+da Instância Ordinária, não do TST. Sendo o recurso de revista um apelo de caráter extraordinário -
+submetido aos pressupostos genéricos e específicos traçados no art. 896 da CLT -, em que se
+examinam potenciais nulidades, a interpretação da ordem jurídica e as dissensões decisórias em
+face da jurisprudência do TST, não objetiva a avaliação da lide em seu aspecto subjetivo, devendo
+adentrar o assunto fático se houver manifestos desajustes ou contradições entre os dados fáticos
+expostos e a decisão tomada, o que não é o caso dos autos.
+Por fim, reitere-se que, quanto aos temas " diferenças a título da multa de 40% do FGTS " e "
+diferenças salariais - redução de carga horária ", fica prejudicado o exame da transcendência, em
+razão da aplicação de óbice processual. Já com relação aos temas " honorários advocatícios -
+percentual arbitrado " e " correção monetária do FGTS ", a causa não oferece transcendência com
+relação aos reflexos de natureza econômica, política, social ou jurídica. Também não há outros
+indicadores de relevância no caso concreto, nos termos do art. 896-A, § 1º, da CLT.
+Tratando-se, portanto, de decisão proferida em estrita observância às normas processuais (art.
+557, caput , do CPC/1973; arts. 14 e 932, IV, "a", do CPC/2015), é insuscetível de reforma ou
+reconsideração.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Observa-se, portanto, que, ao contrário do que sustenta a Parte Embargante, as
+matérias apontadas como omissas foram devidamente analisadas e fundamentadas na decisão
+embargada, em consonância com o princípio constitucional da motivação das decisões judiciais (art. 93,
+IX, da CF), também referido na lei ordinária - arts. 832 da CLT e 489 do CPC/2015.
+Como se constata dos destaques na decisão embargada, a Embargante não
+logrou êxito em desconstituir os fundamentos da decisão do Tribunal Regional que negou seguimento
+ao seu recurso de revista.
+Conforme salientado na decisão embargada, a motivação por adoção dos
+fundamentos da decisão recorrida não se traduz em omissão no julgado ou na negativa de prestação
+jurisdicional - até mesmo porque transcritos integralmente.
+Isso porque a fundamentação utilizada pela instância ordinária se incorpora à
+decisão proferida pela Corte revisora - e, portanto, a análise dos fatos e das provas, bem como do
+enquadramento jurídico a eles conferido. Dessa forma, considerando-se que o convencimento exposto
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006800B85DD7BC36E.
+na decisão recorrida é suficiente para definição da matéria discutida em Juízo, com enfrentamento
+efetivo dos argumentos articulados pela Parte Recorrente, torna-se viável a incorporação formal dessa
+decisão por referência.
+Ou seja, se a decisão regional contém fundamentação suficiente - com exame
+completo e adequado dos fatos discutidos na lide e expressa referência às regras jurídicas que regem as
+matérias debatidas -, a adoção dos motivos que compõem esse julgamento não implica inobservância
+aos arts. 93, IX, da CF/88, e 489, II, do CPC/2015.
+Assim sendo, a prolação de julgamentos pela técnica da motivação relacional não
+viola os princípios e garantias constitucionais do devido processo legal (art. 5º, LIV), do contraditório e da
+ampla defesa (art. 5º, LV), além de preservar o direito à razoável celeridade da tramitação processual
+(art. 5º, LXXVIII). Revela-se, na prática, como ferramenta apropriada de racionalização da atividade
+jurisdicional.
+Portanto, não se constata ausência de fundamentação no exame das questões
+arguidas, mas, efetivamente, irresignação da Parte Embargante contra o que foi decidido.
+Como se sabe, esta via processual não é adequada para a revisão de decisões
+judiciais. A omissão, contradição ou obscuridade a justificarem a oposição de embargos de declaração
+apenas se configuram quando o Julgador deixa de se manifestar acerca das matérias contidas no
+recurso interposto, utiliza fundamentos colidentes entre si, ou ainda quando a decisão não é clara.
+Ademais, o Julgador não está obrigado a rebater, um a um, os argumentos das
+partes, bastando que indique, na decisão, os motivos que lhe formaram o convencimento (art. 371 do
+CPC/2015), em face dos fatos e circunstâncias constantes nos autos. O posicionamento desfavorável à
+tese daquele que recorre não se traduz, necessariamente, em omissão do julgado.
+Outrossim, nos termos da OJ 118/SBDI-I/TST, havendo tese explícita sobre a
+matéria, na decisão recorrida, é desnecessária a referência expressa ao dispositivo legal para fins de
+prequestionamento.
+Se a argumentação dos embargos não se insere em nenhum dos vícios
+mencionados nos arts. 897-A da CLT e 1.022 do CPC/2015, deve ser desprovido o recurso.
+Pelo exposto, NEGO PROVIMENTO aos embargos de declaração.
+ISTO POSTO
+ACORDAM os Ministros da Terceira Turma do Tribunal Superior do Trabalho, à
+unanimidade, negar provimento aos embargos de declaração.
+Brasília, 9 de setembro de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+MAURICIO GODINHO DELGADO
+Ministro Relator
+Firmado por assinatura digital em 11/09/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006800B85DD7BC36E.
