@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial interposto por Valdirene de Almeida Oliveira Carneiro com fundamento no art. 105, III, a, da Constituição Federal.
+Na origem, servidora pública estadual ajuizou ação de cobrança visando ao reconhecimento de desvio de função e ao pagamento das diferenças remuneratórias respectivas. Deu-se à causa o valor de R$ 179.305,14 (cento e setenta e nove mil, trezentos e cinco reais e quatorze centavos).
+Após sentença que julgou improcedente o pedido, o Tribunal de Justiça do Estado do Tocantins negou provimento à apelação, em decisão monocrática, posteriormente mantida em agravo interno. O acórdão foi assim ementado:
+DIREITO ADMINISTRATIVO E CONSTITUCIONAL. AGRAVO INTERNO EM APELAÇÃO CÍVEL. SERVIDOR PÚBLICO ESTADUAL. DESVIO DE FUNÇÃO NÃO COMPROVADO. DIFERENÇA REMUNERATÓRIA ENTRE CARGOS DE AUXILIAR E TÉCNICO DE ENFERMAGEM. AUSÊNCIA DE ELEMENTOS JURÍDICOS E/OU FÁTICOS NOVOS. DECISÃO ESCORADA EM RAZÕES JURÍDICAS E FÁTICAS DEVIDAMENTE JUSTIFICADAS. NÃO PROVIMENTO.
+I. CASO EM EXAME
+1. Trata-se de agravo interno interposto por servidor público estadual contra decisão monocrática que negou provimento a recurso de apelação, mantendo a sentença de improcedência do pedido inicial de condenação do Estado ao pagamento da diferença remuneratória entre os cargos de auxiliar de enfermagem e técnico de enfermagem, sob a alegação de desvio de função.
+II. QUESTÃO EM DISCUSSÃO
+2. Questão em discussão: definir se há veiculação de qualquer elemento novo a justificar uma mudança de entendimento.
+III. RAZÕES DE DECIDIR/TESE
+3. Na decisão agravada internamente restou fundamentado que à consideração de que as atribuições aos cargos de técnico e auxiliar de enfermagem são diversos, o contexto probatório formado no processo, em completa ressonância com a conclusão encontrada pelo juízo de primeiro grau, demonstra, de forma apta e suficiente, a ausência de desvio funcional por parte da apelante, então requerente.
+4. Não havendo veiculação de qualquer elemento novo a justificar uma mudança de entendimento, permanecendo idêntica a situação fática e jurídica, impõe seja mantida a decisão agravada, sobretudo quando escorada em razões jurídicas e fáticas devidamente fundamentadas.
+IV. DISPOSITIVO
+5. Recurso não provido.
+Jurisprudência relevante citada no voto: TJTO, 2ª Câmara Cível, AgRg no AI 5011920-05.2013.827.0000, Rel. Des. Daniel Negry, julgado em 05/02/2014.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte recorrente alega violação dos arts. 6º, 9º, 10, 370 e 373, § 1º, do Código de Processo Civil (CPC). Em síntese, sustenta que o indeferimento da prova testemunhal e pericial, seguido de julgamento de improcedência por insuficiência probatória, configurou cerceamento de defesa e negativa de prestação jurisdicional, com fundamentação deficiente.
+Contrarrazões apresentadas pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+O recurso não pode ser conhecido.
+Quanto aos arts. 6º, 9º e 10 do CPC, as razões recursais não demonstram, de forma individualizada, de que modo os respectivos comandos normativos teriam sido violados. Em face de tal deficiência recursal, aplica-se, por analogia, a Súmula 284 do Supremo Tribunal Federal (STF).
+Em relação ao art. 373, § 1º, do CPC, não se verifica, no acórdão recorrido, pronunciamento específico sobre a distribuição dinâmica do ônus da prova, e não foram opostos embargos declaratórios. Ausente o prequestionamento, aplicam-se as Súmulas 282 e 356 do STF.
+Ademais, o Tribunal de origem examinou expressamente o alegado cerceamento de defesa e concluiu que a comprovação do desvio funcional exigia elementos objetivos e documentais. Assentou que a prova testemunhal não constituía meio adequado para distinguir as atribuições técnicas privativas dos cargos de auxiliar e de técnico de enfermagem. Registrou, ainda, que as escalas de trabalho juntadas demonstravam apenas os horários de entrada e saída, sem comprovar o exercício habitual das funções do cargo paradigma.
+Desse modo, o acolhimento da pretensão recursal exigiria rever as premissas relativas à necessidade, à utilidade e à aptidão da prova testemunhal, bem como reexaminar a suficiência dos documentos juntados. Tal providência é inviável em recurso especial, nos termos da Súmula 7 do Superior Tribunal de Justiça (STJ).
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA OFENSA AO ART. 535 DO CPC/73. INEXISTÊNCIA. AÇÃO INDENIZATÓRIA. LIMITAÇÃO ADMINISTRATIVA, DECORRENTE DE ATO EMANADO PELO PODER PÚBLICO MUNICIPAL, QUE DIMINUI, DEMASIADAMENTE, O VALOR ECONÔMICO DO BEM. COMPROVAÇÃO DO PREJUÍZO. PRECEDENTES DO STJ. ÔNUS DA PROVA. ART. 333 DO CPC/73. NECESSIDADE DE REEXAME DO CONTEÚDO FÁTICO-PROBATÓRIO. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+IV. Na forma da jurisprudência do STJ, "não há como aferir eventual ofensa ao art. 333 do CPC/1973 (art. 373 do CPC/2015) sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame" (STJ, REsp 1.602.794/TO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 30/06/2017). Em igual sentido: STJ, AgInt no REsp 1.651.346/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 21/06/2017.
+ ..
+(AgInt no AREsp n. 551.389/RN, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/11/2022, DJe de 5/5/2023.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AUSÊNCIA DE MANIFESTAÇÃO DO TRIBUNAL A QUO. EMBARGOS DE DECLARAÇÃO. REJEIÇÃO. ART. 1.022 DO CPC/2015. VIOLAÇÃO. OCORRÊNCIA. SERVIDOR PÚBLICO. JUSTIÇA ELEITORAL. TÉCNICO E ANALISTA JUDICIÁRIO. OFICIAL DE JUSTIÇA AD HOC. DESVIO DE FUNÇÃO. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. RECURSO ESPECIAL DA UNIÃO
+ ..
+6. Na hipótese dos autos, o Tribunal de origem, ao decidir a vexata quaestio, consignou (fls. 291-295, e-STJ): "(..) não há como acolher o pleito indenizatório, porquanto não preenchido o requisito da habitualidade necessário à configuração de desvio de função. A mera existência de portaria de designação formal - dado o seu caráter genérico (sem especificação dos atos a cumprir) - não é suficiente, por si só, para comprovar a permanência e habitualidade no desempenho da atividade anômala, e o número reduzido de diligências efetivamente realizadas denota que a função de Oficial de Justiça foi exercida de forma esporádica, eventual."
+7. Extrai-se do acórdão objurgado que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, mormente para avaliar se houve desvio de função, o que não se admite ante o óbice da Súmula 7/STJ. Nesse sentido: REsp 1.693.601/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 23.10.2017, e AgInt no AREsp 1.069.694/RS, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 18.12.2017.
+8. Fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+CONCLUSÃO
+9. Recurso Especial da União provido, determinando-se o retorno dos autos ao Tribunal de origem, para novo julgamento dos Embargos de Declaração, e Agravo em Recurso Especial de Carlos Fernando Costa não provido.
+(REsp n. 1.718.548/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/3/2018, DJe de 16/11/2018.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. PRETENSÃO AO RECONHECIMENTO DE DESVIO DE FUNÇÃO. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. Hipótese em que o Tribunal local consignou: "Ao magistrado, como destinatário da prova, compete ponderar sobre a necessidade ou não da sua realização. A produção probatória deve possibilitar ao magistrado a formação do seu convencimento acerca da questão posta. No caso, o indeferimento da prova requerida não caracteriza cerceamento de defesa, não sendo o caso, portanto, de nulidade da sentença" (fl. 4.601, e-STJ).
+2. Não se configura a ofensa ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+3. Não há como aferir eventual ofensa aos arts. 369 e 373 do CPC/2015 (arts. 332 e 333 do CPC/1973) sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame.
+4. O art. 370 do CPC/2015 consagra o princípio da persuasão racional, habilitando o magistrado a valer-se do seu convencimento, à luz das provas constantes dos autos que entender aplicáveis ao caso concreto. Não obstante, a aferição acerca da necessidade de produção de prova pericial impõe o reexame do conjunto fático-probatório encartado nos autos, o que é defeso ao STJ, ante o óbice erigido pela Súmula 7/STJ.
+5. Recurso Especial não conhecido.
+(REsp n. 1.671.550/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/6/2017, DJe de 30/6/2017.)
+Determino a majoração dos honorários advocatícios previamente fixados pelas instâncias de origem, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do CPC, observados, se aplicáveis: i. os limites previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do Regimento Interno do STJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
