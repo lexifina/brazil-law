@@ -1,0 +1,130 @@
+DECISÃO
+
+RECLAMAÇÃO. BLOQUEIO DE VERBAS PÚBLICAS PELA JUSTIÇA DO TRABALHO. CONTRATO DE GESTÃO. RECURSOS PÚBLICOS DESTINADOS A AÇÕES NA ÁREA DE SAÚDE. IMPOSSIBILIDADE. ADPF Nº 1.012/PA: INOBSERVÂNCIA. PROCEDÊNCIA.
+
+    1. Trata-se de reclamação, com pedido de medida liminar, ajuizada pelo Instituto Nacional de Pesquisa e Gestão em Saúde (Insaúde), em desfavor de decisão proferida pelo Juízo da 17ª Vara do Trabalho de Belém/PA, nos autos do Processo nº 0000028-59.2026.5.08.0017, pela qual teria sido inobservada a decisão proferida na Arguição de Descumprimento de Preceito Fundamental  nº 1.012/PA.
+
+    2. O reclamante narra que tramita, na origem, execução trabalhista promovida pelo beneficiário em seu desfavor, na qual foi emitida, em 21/07/2026, ordem de bloqueio, via SisbaJud, no valor de R$ 12.071,84, “com repetição programada no período de 22/07 a 22/08/2026 e sem qualquer segregação prévia entre receitas próprias do Reclamante e recursos públicos de aplicação compulsória em saúde”.
+
+    3. Noticia que a ordem de bloqueio foi dirigida simultaneamente a dez instituições financeiras e de pagamento, o que evidenciaria tratar-se “de pesquisa eletrônica indiscriminada, incapaz, por sua própria natureza, de distinguir contas de livre movimentação de contas afetadas a política pública”.
+
+    4. Informa que “a série de bloqueios alcançou R$ 22.716,95 (vinte e dois mil, setecentos e dezesseis reais e noventa e cinco centavos), quase o dobro do crédito perseguido. Foram bloqueados R$ 12.071,84 no Banco do Brasil, com cumprimento integral em 22/07/2026, R$ 10.627,18 (dez mil, seiscentos e vinte e sete reais e dezoito centavos) no Santander, com afetação de depósito a prazo, títulos ou valores mobiliários, e R$ 17,93 (dezessete reais e noventa e três centavos) no Banco do Estado do Rio Grande do Sul”.
+
+    5. Aponta que “o Juízo determinou o desbloqueio dos valores localizados no Santander e no Banrisul e, no mesmo ato, expediu a ordem de transferência nº 072026000137092113, relativa aos R$ 12.071,84 (doze mil, setenta e um reais e oitenta e quatro centavos) bloqueados no Banco do Brasil”.
+
+    6. Alega que “a conta atingida no Banco do Brasil não é conta de livre movimentação nem concentra patrimônio disponível da entidade. É conta operacional da agência 4635-3, vinculada ao Contrato de Gestão nº 001/2022, celebrado com a Fundação Municipal de Saúde de São Gonçalo e o Município de São Gonçalo/RJ, cujo objeto é o gerenciamento, a manutenção e a administração das atividades da Unidade de Pronto Atendimento Santa Luzia”.
+
+    7. Relata que opôs embargos à execução instruídos com os contratos de gestão, as declarações contábeis, declarações complementares, cláusula de destinação de conta e os extratos correspondentes, mas o Juízo reclamado rejeitou os embargos e manteve integralmente a constrição, aos fundamentos de que não teria havido “demonstração cabal de que os valores constritos no momento do bloqueio proviessem exclusivamente de repasses públicos; o registro, nos balancetes, de receitas oriundas de aplicações financeiras; e a ausência de indicação, pela entidade, de outros bens livres e desembaraçados aptos a substituir os valores bloqueados”.
+
+    8. Defende que houve violação às ADPFs nº 1.012/PA, nº 664/ES e nº 484/AP, visto que na decisão reclamada manteve-se a constrição de recursos decorrentes de ajuste firmado entre a parte reclamante e o Município de São Gonçalo/RJ, “transformando a receita de uma unidade de pronto atendimento fluminense em meio de pagamento de crédito trabalhista constituído no Pará”.
+
+    9. Requer, liminarmente, a suspensão da eficácia da decisão reclamada e a suspensão de todos os atos executórios deferidos. No mérito, busca a procedência da reclamação para cassar a decisão reclamada, “bem como os atos dela dependentes, na parte em que mantiveram a constrição sobre recursos vinculados a contrato de gestão em saúde estranho ao objeto da execução”, determinando-se ao Juízo reclamado que profira nova decisão em conformidade com os precedentes vinculantes invocados.
+
+É o relatório.
+
+Decido.
+
+    10. Inicialmente concebida como construção jurisprudencial, a reclamação reveste-se de natureza constitucional e tem como finalidades a preservação da competência do Supremo Tribunal Federal, a garantia da autoridade de suas decisões (art. 102, inc. I, al. “l”, da CRFB), além da observância de enunciado da Súmula Vinculante do STF (art. 103-A, § 3º, da CRFB).
+
+    11. Em sede infraconstitucional, encontra regulação nos arts. 988 a 993 do Código de Processo Civil e, especificamente no âmbito do Supremo Tribunal Federal, nos arts. 156 a 162 do respectivo Regimento Interno.
+
+    12. Observo que, nos termos do parágrafo único do art. 161 do Regimento Interno do Supremo Tribunal Federal (RISTF), “o Relator poderá julgar a reclamação quando a matéria for objeto de jurisprudência consolidada do Tribunal”, o que se apresenta na espécie.
+
+    13. No caso em tela, a parte reclamante alega que, na decisão reclamada, deixou-se de observar paradigma vinculante desta Suprema Corte, no qual se reconheceu a impossibilidade de constrição judicial de receitas públicas objeto de contratos de gestão firmados entre Administração Pública e entidades de terceiro setor.
+
+    14. Com efeito, diversos julgados do Supremo Tribunal Federal, em sede de controle concentrado de constitucionalidade, têm firmado o entendimento de que o regime de precatórios é aplicável às empresas públicas e sociedades de economia mista que prestem serviços públicos de modo não concorrencial e sem fins lucrativos, cito as ADPFs nº 275/PB, nº 484/AP, nº 664/ES e nº 1.012/PA.
+
+    15. No julgamento da ADPF nº 275/PB, esta Suprema Corte assim decidiu:
+
+“CONSTITUCIONAL. ADPF. BLOQUEIO DE RECEITAS PÚBLICAS POR DECISÕES JUDICIAIS. CRÉDITOS TRABALHISTAS DEVIDOS POR ENTE DA ADMINISTRAÇÃO INDIRETA. INDEPENDÊNCIA ENTRE OS PODERES E LEGALIDADE ORÇAMENTÁRIA. ARGUIÇÃO PROCEDENTE. 1. Decisões judiciais que determinam o bloqueio, penhora ou liberação de receitas públicas, sob a disponibilidade financeira de entes da Administração Pública, para satisfação de créditos trabalhistas, violam o princípio da legalidade orçamentária (art. 167, VI, da CF), o preceito da separação funcional de poderes (art. 2º c/c art. 60, § 4º, III, da CF), o princípio da eficiência da Administração Pública (art. 37, caput, da CF) e o princípio da continuidade dos serviços públicos (art. 175, da CF). Precedente firmado no julgamento da ADPF387 (Rel. Min. GILMAR MENDES, Tribunal Pleno, julgado em 23/3/2017). 2. Arguição conhecida e julgada procedente.”
+(ADPF nº 275/PB, Rel. Min. Alexandre de Moraes, Tribunal Pleno, j. 17/10/2018, p. 27/06/2019; grifos acrescidos).
+
+    16. No que se refere à Arguição de Descumprimento de Preceito Fundamental nº 484/AP, esta Suprema Corte julgou parcialmente procedente o pedido para declarar a inconstitucionalidade de quaisquer medidas de constrição judicial proferidas pelo Tribunal Regional do Trabalho da 8ª Região, pelo Tribunal Regional Federal da 1ª Região e pelo Tribunal de Justiça do Estado do Amapá, em desfavor do Estado do Amapá, das Caixas Escolares ou das Unidades Descentralizadas de Execução da Educação (UDEs), que recaiam sobre verbas destinadas à educação, confirmando os termos da medida cautelar anteriormente concedida, bem como para afastar a submissão ao regime de precatório das Caixas Escolares ou Unidades Descentralizadas de Educação, em razão da sua natureza jurídica de direito privado, de não integrar a Administração Pública, de não compor o orçamento público e da ratio que inspira a gestão descentralizada da coisa pública. Confira-se a ementa:
+
+“Ementa: ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL. INTERPRETAÇÃO JUDICIAL COMO OBJETO DE CONTROLE. POSSIBILIDADE. SUBSIDIARIEDADE. INEXISTÊNCIA DE OUTRO MEIO PARA SANAR A LESÃO OU AMEAÇA EM CARÁTER AMPLO. DECISÕES JUDICIAIS QUE RESULTARAM NO BLOQUEIO, PENHORA OU SEQUESTRO, PARA O FIM DE PAGAMENTO DE DÍVIDAS TRABALHISTAS, DE VERBAS DO ESTADO DO AMAPÁ, DAS CAIXAS ESCOLARES E DAS UNIDADES DESCENTRALIZADAS DE EXECUÇÃO DA EDUCAÇÃO – UDEs, DESTINADAS À MERENDA, AO TRANSPORTE DE ALUNOS E À MANUTENÇÃO DAS ESCOLAS PÚBLICAS. OFENSA AOS PRINCÍPIOS DA SEPARAÇÕES DOS PODERES E DO FOMENTO À EDUCAÇÃO. NATUREZA PRIVADA DAS UNIDADES EXECUTORAS. REPASSE DE VERBAS. DESCENTRALIZAÇÃO DA GESTÃO FINANCEIRA. NÃO CARACTERIZAÇÃO DAS PRERROGATIVAS DA FAZENDA PÚBLICA. NÃO SUJEIÇÃO AO REGIME DE PRECATÓRIO ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL CONHECIDA E JULGADO PARCIALMENTE PROCEDENTE O PEDIDO.
+1. O direito social à educação (artigos 6º e 205 e seguintes da Constituição), bem como a prioridade absoluta de proteção às crianças e aos adolescentes, em respeito à condição peculiar de pessoas em desenvolvimento que são (artigo 227 da Constituição), justificam a especial proteção constitucional dos valores necessários à aplicação efetiva dos recursos públicos destinados à concretização dos efetivos direitos.
+2. Os princípios da separação dos poderes e do fomento à educação são violados por decisões judiciais que gerem bloqueio, penhora ou sequestro, para fins de quitação de débitos trabalhistas, de verbas públicas destinadas à merenda, ao transporte de alunos e à manutenção das escolas públicas.
+3. A proteção constitucional a direitos individuais e a garantias fundamentais, inclusive de ordem trabalhista, convive com a impenhorabilidade, in casu, sob a ratio de que estão afetados a finalidades públicas e à realização das atividades e serviços públicos decorrentes do exercício obrigatório da função administrativa.
+4. O artigo 167, VI, da Constituição proíbe a transposição, o remanejamento ou a transferência de recursos de uma categoria de programação para outra ou de um órgão para outro, sem prévia autorização legislativa, mandamento esse que também vincula o Judiciário. Isso porque as regras sobre aprovação e gestão orçamentárias consagram mecanismos de freios e contrapesos essenciais ao regular funcionamento das instituições republicanas e democráticas e à concretização do princípio da separação dos poderes.
+5.  As Unidades Executoras funcionam por meio de repasses de verbas para associações privadas sem fins lucrativos. Essa medida de descentralização da gestão financeira na prestação de serviços educacionais configura escolha de alocação de recursos plenamente legítima, inserida na margem de conformação das decisões de agentes políticos. No entanto, a transferência não descaracteriza a natureza eminentemente privada das Caixas Escolares, razão pela qual não lhes é aplicável o regime jurídico da Fazenda Pública. Se a associação privada conta com a agilidade do setor privado para posicionar-se como credora, que o faça para posicionar-se como devedora.
+6. A arguição de descumprimento de preceito fundamental para evitar ou reparar lesão a preceito fundamental decorrente de atos judiciais é via processual que atende ao requisito da subsidiariedade, mercê de não existir outro instrumento para sanar a controvérsia com caráter abrangente e imediato, ou com a mesma eficácia e celeridade.
+7. Arguição de descumprimento de preceito fundamental conhecida e julgado PARCIALMENTE PROCEDENTE o pedido, para declarar a inconstitucionalidade de quaisquer medidas de constrição judicial proferidas pelo Tribunal Regional do Trabalho da 8ª Região, pelo Tribunal Regional Federal da 1ª Região e pelo Tribunal de Justiça do Estado do Amapá, em desfavor do Estado do Amapá, das Caixas Escolares ou das Unidades Descentralizadas de Execução da Educação – UDEs, que recaiam sobre verbas destinadas à educação, confirmando os termos da medida cautelar anteriormente concedida, bem como para afastar a submissão ao regime de precatório das Caixas Escolares ou Unidades Descentralizadas de Educação, em razão da sua natureza jurídica de direito privado, de não integrar a Administração Pública, de não compor o orçamento público e da ratio que inspira a gestão descentralizada da coisa pública.”
+(ADPF nº 484/AP, Rel. Min. Luiz Fux, Tribunal Pleno, j. 04/06/2020, p. 10/11/2020; grifos no original).
+
+    17. A decisão proferida pelo Plenário desta Corte Suprema na ADPF nº 664/ES foi assim ementada:
+
+“CONSTITUCIONAL. FINANCEIRO. CONSTRIÇÃO DE RECEITAS PÚBLICAS POR DECISÕES JUDICIAIS. RECURSOS DE FUNDO ESTADUAL DE SAÚDE DESTINADOS À EXECUÇÃO DE ATIVIDADES VIA CONTRATOS DE GESTÃO FIRMADOS PELO ESTADO DO ESPÍRITO SANTO COM ENTIDADES DE TERCEIRO SETOR. INDEPENDÊNCIA ENTRE OS PODERES E LEGALIDADE ORÇAMENTÁRIA. ARGUIÇÃO JULGADA PROCEDENTE.
+1. Decisões judiciais que determinam o bloqueio, penhora ou liberação, para satisfação de créditos trabalhistas, de receitas públicas oriundas do Fundo Estadual de Saúde objeto de contratos de gestão firmados entre o Estado do Espírito Santo e entidades de terceiro setor violam o princípio da legalidade orçamentária (art. 167, VI, da CF), o preceito da separação funcional de poderes (art. 2º c/c art. 60, § 4º, III, da CF), o princípio da eficiência da Administração Pública (art. 37, caput, da CF) e o princípio da continuidade dos serviços públicos (art. 175 da CF). Precedentes: ADPF 275, Rel. Min. ALEXANDRE DE MORAES, Tribunal Pleno, julgado em 17/10/2018, DJe de 27/6/2019; ADPF 556, Rel. Min. CÁRMEN LÚCIA, Tribunal Pleno, julgado em 14/2/2020, DJe de 6/3/2020; ADPF 620-MC-Ref, Rel. Min. ROBERTO BARROSO, Tribunal Pleno, julgado em 3/4/2020, DJe de 12/5/2020; ADPF 484, Rel. Min. LUIZ FUX, Tribunal Pleno, julgado em 4/6/2020, pendente publicação de acórdão; entre outros julgados.
+2. Medida Cautelar confirmada e ação julgada procedente.”
+(ADPF nº 664/ES, Rel. Min. Alexandre de Moraes, Tribunal Pleno, j. 19/04/2021, p. 04/05/2021).
+
+    18. Por fim, transcrevo a ementa do julgamento da ADPF nº 1.012/PA, expressamente apontada pelo reclamante como descumprida:
+
+“CONSTITUCIONAL. ADPF. BLOQUEIO DE RECEITAS PÚBLICAS VINCULADAS A CONTRATO DE GESTÃO PARA CONSECUÇÃO DE SERVIÇOS PÚBLICOS. IMPOSSIBILIDADE. PRECEDENTES DO STF.
+1. O Supremo Tribunal Federal possui  jurisprudência consolidada no sentido de vedar o bloqueio, penhora ou liberação, de receitas públicas, vinculadas a contratos de gestão firmados entre o poder público e entidades do terceiro setor para a prestação de serviços públicos de saúde.
+2. Precedentes do STF nas ADPFs nº. 275, 620 e 664, dentre outras.
+3. Em respeito aos princípios da separação de poderes, legalidade orçamentária, eficiência administrativa e continuidade dos serviços públicos, mostram-se inconstitucionais decisões judiciais que determinam a constrição de receitas que compõem o patrimônio público e estão afetas à execução de serviços de saúde, direcionando-as, indevidamente, para o pagamento de despesas estranhas ao objeto dos contratos de gestão.
+4. Arguição de Descumprimento de Preceito Fundamental que se julga procedente.”
+(ADPF nº 1.012/PA, Rel. Min. Edson Fachin, Tribunal Pleno, j. 13/12/2022, p.19/12/2022).
+
+    19. Como se vê, o Plenário desta Corte conheceu das arguições e julgou-as procedentes para afirmar a impossibilidade de constrição judicial (bloqueio, penhora ou liberação em favor de terceiros) de receitas que estejam sob a disponibilidade do Poder Público. Entendeu, dessa forma, que o bloqueio de verbas públicas pela Justiça trabalhista viola princípios de envergadura constitucional, tais como o da legalidade orçamentária, da separação funcional de Poderes, da eficiência da Administração Pública e da continuidade dos serviços públicos.
+
+    20. No caso em tela, a decisão apontada como reclamada foi exarada pela 17ª Vara do Trabalho de Belém/PA, pelos seguintes fundamentos (e-doc. 10; destaques do original):
+
+“I – RELATÓRIO
+Trata-se de Embargos à Execução opostos pela executada  INSTITUTO NACIONAL DE PESQUISA E GESTÃO EM SAÚDE - INSAÚDE, sob Id. b6dd81f.
+A despeito da ausência de prejuízo à parte exequente, a qual, por tal motivo, não foi formalmente intimada, os presentes Embargos foram devidamente remetidos a este Juízo para apreciação e posterior julgamento.
+II – FUNDAMENTAÇÃO
+Conheço dos presentes embargos à execução, uma vez que restaram atendidos todos os pressupostos de admissibilidade, conforme atesta a certidão de Id. 0f5bbed.
+A empresa embargante postula a declaração de nulidade da constrição judicial realizada em sua conta bancária, alegando a impenhorabilidade de tais valores com fulcro no art. 833, IX, do CPC, nos princípios constitucionais da ordem econômica e social da saúde, insculpidos nos arts. 6º, 196, 197 e 199 da Constituição Federal, bem como no entendimento vinculante do Supremo Tribunal Federal firmado nas ADPFs 1012, 664 e 484.
+Para tanto, sustenta que os valores bloqueados ostentam natureza pública, encontrando-se vinculados aos convênios de contrato de gestão em saúde firmados com a Fundação Municipal de Saúde de São Gonçalo/RJ. Ademais, alega que a conta em questão é específica para essa finalidade, conforme expressamente previsto em cláusula contratual e fartamente comprovado por meio de documentação acostada.
+Passo à análise.
+Embora as garantias que tutelam as verbas públicas destinadas à saúde, consagradas no art. 833, IX, do CPC, sejam de suma importância, cumpre assinalar que referidas proteções não se revestem de caráter absoluto.
+A incidência da impenhorabilidade exige a demonstração inequívoca, não apenas da origem pública dos recursos, mas também de sua destinação exclusiva à área da saúde, afastando, de forma categórica, qualquer indício de confusão patrimonial ou de disponibilidade dos valores para quitação de outras obrigações da entidade.
+Nesse sentido, a jurisprudência do Egrégio Tribunal Regional da 8ª Região, em decisão que espelha o raciocínio aqui adotado, estabeleceu que:
+(...)
+No caso em tela, o executado trouxe aos autos contratos de gestão (Ids. a326e0f e 9cec22a) e declarações contábeis (Ids. 3514528, 0e23f03 e e5a35e8), bem como outras declarações (Ids. 9428f78 e 867a95a).
+Tais documentos, em tese, indicam que a conta bloqueada junto ao Banco do Brasil é, de fato, o canal de recebimento e movimentação de recursos decorrentes do Termo de Convênio firmado com o Município de São Gonçalo/RJ.
+Contudo, é imperioso salientar que a mera apresentação desses documentos, por si só, não se mostra suficiente para comprovar, de maneira cabal e inequívoca, que os valores efetivamente constritos no momento do bloqueio provinham exclusivamente de repasses públicos destinados, compulsoriamente, à área da saúde.
+A alegação genérica de que a conta é destinada ao custeio das atividades de saúde não elimina a necessidade de apresentação de prova robusta, apta a demonstrar que os valores bloqueados não se encontravam misturados a outras verbas da entidade, nem estavam disponíveis para fazer frente a despesas diversas.
+Ressalte-se, ademais, que os balancetes financeiros juntados aos autos evidenciam o recebimento de receitas oriundas de aplicações financeiras pela reclamada. Tal circunstância, por si só, já afasta a tese de que a conta bloqueada se destina, de forma exclusiva, ao recebimento de verbas públicas, fragilizando a pretensão de impenhorabilidade.
+Por fim, e não menos importante, cumpre notar que a reclamada não indicou quaisquer outros bens livres e desembaraçados que pudessem, de forma eficaz, substituir os valores bloqueados, a fim de garantir a satisfação do crédito exequendo.
+Diante do exposto, e pela ausência de comprovação inequívoca da origem e destinação exclusiva dos valores constritos, a manutenção da penhora é medida que se impõe, o que acarreta, inevitavelmente, a rejeição dos presentes embargos.
+III - CONCLUSÃO
+ANTE O EXPOSTO E MAIS O QUE DOS AUTOS CONSTA, DECIDO CONHECER DOS EMBARGOS À EXECUÇÃO OPOSTOS POR INSTITUTO NACIONAL DE PESQUISA E GESTÃO EM SAÚDE - INSAÚDE; E, NO MÉRITO, JULGÁ-LOS IMPROCEDENTES, TUDO NOS TERMOS DA FUNDAMENTAÇÃO.”
+
+    21. Examinando detidamente o ato reclamado, observa-se que a autoridade reclamada justificou a manutenção da ordem constritiva realizada em desfavor do reclamante, na ausência de provas de que o bloqueio determinado tenha recaído sobre valores depositados por entes públicos para aplicação compulsória em educação, saúde ou assistência social.
+
+    22. Nada obstante, compulsando os documentos colacionados aos autos, verifica-se que: (i) o Instituto Nacional de Pesquisa e Gestão em Saúde (Insaúde), ora reclamante, associação civil de direito privado, sem fins lucrativos, prestadora de serviços na área da saúde, mantém com o Município de São Gonçalo/RS o Contrato de Gestão nº 001/2022, pelo qual é responsável pela gestão, gerenciamento, operacionalização e execução dos serviços de saúde prestados em unidade pertencente ao Sistema Único de Saúde (SUS); (ii) segundo o referido Contrato de Gestão firmado entre o Instituto e o ente municipal, a Conta-Corrente nº 9603-2, Agência 4635-3, Banco do Brasil, destina-se ao repasse dos valores contratados (e-doc. 9, p. 32, item 10.2); e (iii) o bloqueio de R$ 12.071,84 recaiu sobre a Conta-Corrente nº 9603-2, Agência 4635-3, Banco do Brasil, vinculada ao Contrato de Gestão.
+
+    23. Nesse cenário, considero, consoante o alegado, que houve o descumprimento ao decidido por esta Corte nas ADPFs apontadas, porquanto mantida a ordem de bloqueio de verbas públicas para fins de satisfação de créditos trabalhistas.
+
+    24. Com efeito, esta Corte, em diversos precedentes, decidiu não ser possível a constrição judicial de recursos públicos vinculados a ações na área da saúde, para fins de garantir a satisfação de verbas trabalhistas devidas por organização social. Nesse sentido:
+
+“AGRAVO REGIMENTAL NOS SEGUNDOS EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. ADPF’S 114/PI E 275/PB. FUNDO ESTADUAL DE SAÚDE.  CONTRATOS DE GESTÃO. TERCEIRO SETOR. CONSTRIÇÃO JUDICIAL. GARANTIA. PAGAMENTO. DÉBITO TRABALHISTA. IMPOSSIBILIDADE. OFENSA À AUTORIDADE DE DECISÃO DO STF. ADPF 664/ES. RECLAMAÇÃO JULGADA PROCEDENTE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+I – As razões do agravo regimental são inaptas para desconstituir os fundamentos da decisão agravada, que, por isso, se mantêm hígidos.
+II – Esta Corte já decidiu que o bloqueio, penhora ou liberação para satisfação de créditos trabalhistas de receitas públicas oriundas do Fundo Estadual de Saúde, objeto de contratos de gestão firmados entre o Estado do Espírito Santo e entidades de terceiro setor, violam os princípios da legalidade orçamentária, da separação funcional de poderes, da eficiência da Administração Pública e da continuidade dos serviços públicos (art. 175 da CF). Precedentes.
+III – Agravo regimental a que se nega provimento.”
+(Rcl nº 41.170-AgR-ED-Segundos/ES, Rel. Min. Ricardo Lewandowski, Segunda Turma, j. 14/06/2021, p. 17/06/2021; grifos nossos).
+
+“AGRAVO REGIMENTAL NA RECLAMAÇÃO. CONSTITUCIONAL. ORGANIZAÇÃO SOCIAL. BLOQUEIO DE VALORES DEPOSITADOS EM CONTA CORRENTE REFERENTES A REPASSE DE VERBAS PÚBLICAS DA SECRETARIA DE ESTADO DA SAÚDE EM RAZÃO DE CONTRATO DE GESTÃO: DESCUMPRIMENTO DAS DECISÕES PROFERIDAS PELO SUPREMO TRIBUNAL FEDERAL NAS ARGUIÇÕES DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL NS. 664 E 485: PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+(Rcl nº 52.342-AgR/RJ, Rel. Min. Cármen Lúcia, Primeira Turma, j. 08/08/2022, p. 09/08/2022; grifos nossos).
+
+“Agravo regimental em reclamação. ADPF nº 484/AP e ADPF nº 664/ES. Fundação do ABC. Organização social que atua na área da saúde. Bloqueio de valores determinado pelo Poder Judiciário sem a discriminação das contas sobre as quais recairão a execução. Violação de entendimento vinculante do STF que impede o bloqueio de recursos em conta de entidade do terceiro setor afeita exclusivamente ao repasse de verbas públicas com destinação vinculada constitucionalmente. Agravo regimental provido e reclamação julgada procedente.
+1. A ausência de aderência estrita com o julgado na ADPF nº 484/AP e na ADPF nº 664/ES ocorre somente quando é efetivamente desempenhado o ônus argumentativo pelo juízo da execução, fundando-se a decisão de bloqueio de recursos na identificação de contas da referida entidade que não estejam vinculadas ao repasse de verbas públicas da Secretaria de Estado da Saúde.
+2. A ordem de bloqueio de valores contra organização social que atue na área da saúde sem a discriminação das contas sobre as quais recairão sua execução vai de encontro à tese que orienta o entendimento vinculante do STF indicado como paradigma, qual seja, impedir o bloqueio de recursos em conta afeita exclusivamente ao repasse de verbas públicas com destinação vinculada constitucionalmente.
+3. Agravo regimental provido e reclamação julgada procedente para cassar as decisões reclamadas e determinar que outra seja proferida em observância ao julgado na ADPF nº 484/AP e na ADPF nº 664/ES, bem como às diretrizes da presente reclamação.”
+(Rcl nº 49.140-AgR/SP, Rel. Min. Rosa Weber, Red. do Acórdão Min. Dias Toffoli, Primeira Turma, j. 26/04/2022, p. 31/08/2022; grifos nossos).
+
+    25. Nessa mesma linha, trago as seguintes decisões monocráticas: Rcl nº 54.350/SP, Rel. Min. Roberto Barroso, j. 21/09/2022, p. 22/09/2022; Rcl nº 54.012/CE, Rel. Min. Cármen Lúcia, j. 23/06/2022, p. 24/06/2022; Rcl nº 53.303/SP, Rel. Min. Alexandre de Moraes, j. 11/05/2022, p. 13/05/2022; Rcl nº 52.401/SP, Rel. Min. Luiz Fux, j. 25/10/2022, p. 26/10/2022; e Rcl nº 46.982/SP, Rel. Min. Dias Toffoli, j. 28/02/2022, p. 02/03/2022.
+
+    26. Ante o exposto, julgo procedente a reclamação, nos termos do art. 161, parágrafo único, do RISTF, para cassar a decisão reclamada e determinar que outra seja proferida, em estrita observância ao entendimento deste Supremo Tribunal Federal firmado na ADPF nº 1.012/PA, devendo ser imediatamente liberados os recursos financeiros do reclamante, cujos bloqueios foram analisados na presente demanda. Sem honorários, de acordo com o entendimento prevalecente na Segunda Turma do Supremo Tribunal Federal.
+
+Comunique-se, com urgência, ao Juízo da 17ª Vara do Trabalho de Belém/PA, para cumprimento.
+
+Publique-se.
+
+Brasília, 12 de setembro de 2026.
+
+Ministro ANDRÉ MENDONÇA
+Relator
