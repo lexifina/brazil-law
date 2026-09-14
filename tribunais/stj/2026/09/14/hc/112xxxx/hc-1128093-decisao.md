@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de NELSON DE SOUZA, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que negou provimento a agravo regimental para manter decisão de indeferimento liminar de revisão criminal, nos termos do acórdão assim ementado:
+AGRAVO REGIMENTAL Interposição contra decisão monocrática que indeferiu liminarmente a revisão criminal, na forma do art. 168, 83º, do RITJ Pretensão de reexame do conjunto probatório Descabimento Agravo Regimental desprovido. (e-STJ, fl. 69)
+O impetrante afirma que foi condenado à pena de 2 anos de reclusão, mais 10 dias-multa, como incurso no art. 1º, incisos I e V, da Lei n. 8.137/1990. Sustenta que a sentença e o acórdão da apelação teriam considerado consumado o delito em 16/5/2007, data da realização de diligência fiscal no estabelecimento empresarial.
+Alega que, ajuizada revisão criminal com o objetivo de ver reconhecida a prescrição retroativa, o Tribunal de origem adotou como marco consumativo a constituição definitiva do crédito tributário, ocorrida em 11/5/2009, incorrendo, assim, em reformatio in pejus.
+Requer, em liminar e no mérito, a cassação do acórdão impugnado e o reconhecimento da prescrição, tomando-se como marco consumativo a data que, segundo sustenta, teria sido adotada na sentença e no acórdão condenatório.
+É o relatório.
+Decido.
+Esta Corte - HC n. 535.063/SP, Terceira Seção, relator Ministro Sebastião Reis Junior, julgado em 10/6/2020, DJe de 25/8/2020 - e o Supremo Tribunal Federal - AgRg no HC n. 180.365/PB, Primeira Turma, relatora Ministra Rosa Weber, julgado em 27/3/2020, DJe de 2/4/2020; AgRg no HC n. 147.210/SP, Segunda Turma, relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/2/2020 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo ao exame da impetração, a fim de verificar a ocorrência de manifesta ilegalidade que autorize a concessão da ordem de ofício.
+Não há reformatio in pejus. Ao contrário do que afirma o impetrante, a sentença e o acórdão condenatório não fixaram o dia 16/5/2007 como data da consumação do delito, mas apenas consignaram que as condutas de omissão de informações fiscais ocorreram entre junho de 2005 e maio de 2007.
+A própria sentença, embora tenha reconhecido a prática das condutas previstas nos incisos I e V do art. 1º da Lei n. 8.137/1990, considerou configurado um único delito, porquanto produzido um só resultado: a supressão do tributo.
+A questão relativa ao marco consumativo foi suscitada pela defesa apenas na revisão criminal, ao pleitear o reconhecimento da prescrição retroativa. Ao rejeitar a tese, o Tribunal de origem considerou que, por se tratar de crime material contra a ordem tributária, a consumação ocorreu em 11/5/2009, com a constituição definitiva do crédito tributário.
+A adoção desse marco não alterou os fatos reconhecidos no título condenatório nem agravou situação jurídica anteriormente assegurada ao réu, mas apenas definiu, à luz da natureza material do delito, o respectivo momento consumativo.
+Desse modo, considerada a pena de 2 anos de reclusão e o prazo prescricional de 4 anos, não ocorreu a prescrição entre a constituição definitiva do crédito tributário, em 11/5/2009, e o recebimento da denúncia, em 24/5/2011.
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
