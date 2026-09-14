@@ -1,0 +1,8 @@
+Art. 3º-A A garantia aos financiamentos concedidos no âmbito do Peac-FGI Crédito Solidário RS, de que trata o inciso III do caput do art. 2º desta Lei, será operacionalizada por meio do FGI, administrado pelo BNDES, vinculada ao Peac-FGI Crédito Solidário RS.
+§ 1º Serão elegíveis à garantia do Peac-FGI Crédito Solidário RS as operações de crédito contratadas até 31 de dezembro de 2024 e que tiverem, cumulativamente:
+I - prazo de carência de, no mínimo, 6 (seis) meses e, no máximo, 24 (vinte e quatro) meses;
+II - prazo total da operação de, no mínimo, 12 (doze) meses e, no máximo, 84 (oitenta e quatro) meses; e
+III - taxa de juros média máxima nos termos estabelecidos em ato do Ministério do Desenvolvimento, Indústria, Comércio e Serviços.
+§ 2º O Peac-FGI Crédito Solidário RS, observado o disposto neste Capítulo, está vinculado à área do Ministério do Desenvolvimento, Indústria, Comércio e Serviços responsável por supervisionar a política de desenvolvimento da indústria, do comércio e dos serviços, que representará o Ministério perante o FGI.
+§ 3º Para fins de apuração da receita bruta referida no art. 1º-A desta Lei, o agente financeiro poderá utilizar o mesmo critério utilizado para classificação e reporte de informações de suas operações de crédito para o Banco Central do Brasil e considerar o conceito de grupo econômico conforme estabelecido em sua política de crédito e deverá observar o conceito de grupo econômico definido pelo BNDES, no caso de operações com recursos do BNDES ou da Finame.
+§ 4º Durante a vigência do contrato no âmbito do Peac-FGI Crédito Solidário RS, os agentes financeiros poderão autorizar a alteração do tomador do crédito na hipótese de incorporação, de fusão ou de cisão do tomador original.
