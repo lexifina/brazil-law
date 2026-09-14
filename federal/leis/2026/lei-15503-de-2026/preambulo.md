@@ -1,0 +1,4 @@
+LEI Nº 15.503, DE 14 DE SETEMBRO DE 2026
+Destina recursos para disponibilizar linhas de financiamento reembolsável a profissionais de transporte escolar, profissionais de transporte remunerado privado individual de passageiros, taxistas e cooperativas de taxistas, para aquisição de veículos automotores novos que atendam a critérios de sustentabilidade ambiental, social ou econômica; e altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), a Lei nº 9.998, de 17 de agosto de 2000 (Lei do Fundo de Universalização dos Serviços de Telecomunicações), a Lei nº 10.150, de 21 de dezembro de 2000, a Lei nº 11.484, de 31 de maio de 2007 (Lei de Incentivo à Indústria de TV Digital), a Lei nº 12.087, de 11 de novembro de 2009, a Lei nº 13.999, de 18 de maio de 2020, a Lei nº 14.042, de 19 de agosto de 2020, e a Lei nº 14.947, de 2 de agosto de 2024.
+O PRESIDENTE DA REPÚBLICA
+Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
