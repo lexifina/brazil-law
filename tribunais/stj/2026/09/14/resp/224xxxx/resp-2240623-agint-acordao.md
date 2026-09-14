@@ -1,0 +1,131 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 08/09/2026 a 14/09/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. AGRAVO INTERNO. PLANO DE SAÚDE COLETIVO. REAJUSTES POR SINISTRALIDADE E VCMH. APURAÇÃO DO PERCENTUAL ADEQUADO EM CUMPRIMENTO DE SENTENÇA. INAPLICABILIDADE DOS ÍNDICES DA ANS. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática que deu parcial provimento ao recurso especial da parte adversa em demanda envolvendo plano de saúde coletivo, reajustes por sinistralidade e VCMH e substituição por índices da ANS.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) saber se há negativa de prestação jurisdicional, contradição lógica ou preclusão probatória na remessa da apuração do percentual de reajuste à fase de cumprimento de sentença; e (ii) saber se devem ser aplicados, por substituição, os índices da ANS fixados para planos individuais aos contratos coletivos.
+III. RAZÕES DE DECIDIR
+3. A orientação consolidada reconhece que, verificada abusividade de reajustes por sinistralidade e VCMH em plano coletivo, é possível apurar o percentual adequado na fase de cumprimento de sentença, mediante cálculos atuariais, para restabelecer o equilíbrio contratual.
+4. Os índices anuais da ANS previstos para planos individuais não se aplicam aos contratos de natureza coletiva, em razão da distinta forma de custeio e da regulação setorial que apenas acompanha os reajustes coletivos para fins de monitoramento.
+5. A remessa da definição do índice à liquidação não reabre a instrução nem confere nova oportunidade probatória, limitando-se à quantificação técnica do comando já definido no título, com substituição do percentual reconhecido abusivo pelo tecnicamente adequado.
+6. A alegação de negativa de prestação jurisdicional não procede quando o acórdão enfrenta os pontos essenciais e determina, de modo fundamentado, a via adequada para apuração do índice, afastando a aplicação dos índices da ANS aos planos coletivos.
+IV. DISPOSITIVO
+7. Resultado do Julgamento: Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MIN. LUÍS CARLOS GAMBOGI (DESEMBARGADOR CONVOCADO DO TJMG) - Relator:
+Cuida-se de agravo interno interposto por MARIA ELIANE RIBEIRO DE SOUSA GOMES, contra decisão monocrática que deu parcial provimento ao recurso especial da parte adversa.
+O apelo extremo, fundamentado nas alíneas a e c do permissivo constitucional, foi interposto no intuito de reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+DIREITO CIVIL. APELAÇÃO. PLANO DE SAÚDE. CONTRATO COLETIVO. REAJUSTE POR SINISTRALIDADE. RECURSO PROVIDO. I. Caso em Exame Trata-se de apelação interposta contra sentença que julgou improcedente a ação cominatória c. c. indenizatória proposta pela autora visando afastar reajustes anuais aplicados de 2021 a 2023 e substituí-los pelos índices da ANS, além de restituir valores pagos indevidamente. II. Questão em Discussão A questão em discussão consiste em: (i) insuficiência do relatório apresentado pela operadora do plano de saúde; (ii) falta de comprovação da base atuarial para os reajustes; (iii) abusividade dos reajustes por sinistralidade e financeiro, devendo ser substituídos pelos índices da ANS. III. Razões de Decidir Nos contratos coletivos, os reajustes anuais não são definidos pela ANS, mas pela livre negociação entre operadoras e contratantes, no entanto, a ausência de demonstração clara dos reajustes aplicados caracteriza obrigação abusiva, conforme o Código de Defesa do Consumidor. Dispositivo e Tese Tese de julgamento: 1. Reajustes anuais em planos coletivos devem ser justificados com cálculos atuariais claros. 2. Reajustes abusivos devem ser substituídos pelos índices da ANS. Recurso provido afastar os reajustes anuais de 2021 a 2023, substituindo-os pelos índices da ANS, além de restituir valores pagos indevidamente.
+Os embargos de declaração opostos foram rejeitados pelo acórdão de fls. 685-688, e-STJ.
+Nas razões do recurso especial (fls. 645-665, e-STJ), a recorrente aponta, além do dissídio jurisprudencial, violação dos arts. 35-E, § 2º da Lei nº 9.656/98, 20 da LINDB, 421 e 478 do Código Civil. Sustenta, em síntese, a legalidade dos reajustes anuais aplicados.
+Contrarrazões às fls. 692-711, e-STJ.
+Após decisão de admissão do recurso especial (fls. 713-714, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+Em decisão singular (fls. 722-726, e-STJ), deu-se parcial provimento ao recurso especial, ante: a) o entendimento jurisprudencial desta Corte quanto à possibilidade de apuração, na fase de cumprimento de sentença, do percentual adequado por meio de cálculos atuariais, para restabelecer o equilíbrio contratual; b) a impossibilidade de revolvimento de matéria fático-probatória e de cláusulas contratuais em sede de recurso especial, à luz das Súmulas 5 e 7/STJ.
+Os embargos de declaração foram rejeitados (fls. 874-876, e-STJ).
+Daí o presente agravo interno (fls. 880-886, e-STJ), no qual a parte agravante sustenta, em síntese, que a decisão monocrática incorreu em negativa de prestação jurisdicional e contradição, por não enfrentar a preclusão lógica decorrente da inércia probatória das agravadas na fase de conhecimento, além de defender a aplicação dos índices da ANS aos contratos coletivos em substituição aos reajustes impugnados, por entender que a apuração em liquidação reabriria indevidamente a instrução.
+Impugnação às fls. 893-897, e-STJ.
+É o relatório.
+EMENTA
+DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. AGRAVO INTERNO. PLANO DE SAÚDE COLETIVO. REAJUSTES POR SINISTRALIDADE E VCMH. APURAÇÃO DO PERCENTUAL ADEQUADO EM CUMPRIMENTO DE SENTENÇA. INAPLICABILIDADE DOS ÍNDICES DA ANS. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática que deu parcial provimento ao recurso especial da parte adversa em demanda envolvendo plano de saúde coletivo, reajustes por sinistralidade e VCMH e substituição por índices da ANS.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) saber se há negativa de prestação jurisdicional, contradição lógica ou preclusão probatória na remessa da apuração do percentual de reajuste à fase de cumprimento de sentença; e (ii) saber se devem ser aplicados, por substituição, os índices da ANS fixados para planos individuais aos contratos coletivos.
+III. RAZÕES DE DECIDIR
+3. A orientação consolidada reconhece que, verificada abusividade de reajustes por sinistralidade e VCMH em plano coletivo, é possível apurar o percentual adequado na fase de cumprimento de sentença, mediante cálculos atuariais, para restabelecer o equilíbrio contratual.
+4. Os índices anuais da ANS previstos para planos individuais não se aplicam aos contratos de natureza coletiva, em razão da distinta forma de custeio e da regulação setorial que apenas acompanha os reajustes coletivos para fins de monitoramento.
+5. A remessa da definição do índice à liquidação não reabre a instrução nem confere nova oportunidade probatória, limitando-se à quantificação técnica do comando já definido no título, com substituição do percentual reconhecido abusivo pelo tecnicamente adequado.
+6. A alegação de negativa de prestação jurisdicional não procede quando o acórdão enfrenta os pontos essenciais e determina, de modo fundamentado, a via adequada para apuração do índice, afastando a aplicação dos índices da ANS aos planos coletivos.
+IV. DISPOSITIVO
+7. Resultado do Julgamento: Agravo interno desprovido.
+VOTO
+O EXMO. SR. MIN. LUÍS CARLOS GAMBOGI (DESEMBARGADOR CONVOCADO DO TJMG) - Relator:
+O agravo interno não merece provimento.
+1. De início, observa-se que as razões do presente agravo reeditam, em substância, os fundamentos já deduzidos nos embargos de declaração rejeitados (fls. 874-876, e-STJ), sem trazer argumento novo apto a infirmar a decisão agravada. Ainda assim, enfrentam-se, ponto a ponto, as teses recursais.
+2. Sustenta a agravante haver contradição lógica e preclusão na determinação de apuração do percentual adequado em cumprimento de sentença, porquanto, tendo as agravadas requerido o julgamento antecipado e deixado de produzir a prova técnica que lhes incumbia, teria operado a preclusão, de modo que a remessa à liquidação representaria indevida nova oportunidade probatória.
+Aduz, ainda, a agravante que a decisão seria omissa por não determinar a aplicação direta dos índices da ANS em substituição aos reajustes impugnados.
+A irresignação não prospera.
+A decisão agravada amparou-se em orientação consolidada desta Corte, segundo a qual, reconhecida a abusividade do reajuste em plano de saúde coletivo e afastado tão somente o percentual reputado abusivo, é possível a apuração do percentual adequado na fase de cumprimento de sentença, por meio de cálculos atuariais, a fim de restabelecer o equilíbrio contratual.
+Nesse sentido:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. REAJUSTE POR SINISTRALIDADE E VCMH. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF. INAPLICABILIDADE DOS ÍNDICES DA ANS. APURAÇÃO DO PERCENTUAL EM LIQUIDAÇÃO DE SENTENÇA. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+II - Questões em discussão
+2. Saber se houve negativa de prestação jurisdicional, se é aplicável a Súmula n. 284/STF, se é cabível determinar a apuração de novo índice de reajuste em liquidação de sentença.
+III - Razões de decidir
+3. Inexiste afronta aos arts. 489 e 1.022 do CPC quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+4. A ausência de indicação do dispositivo de lei federal supostamente violado impede a exata compreensão da controvérsia e obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+5. "Inaplicáveis os índices da Agência Nacional de Saúde Suplementar
+- ANS -, previstos para os planos de saúde individuais, aos contratos de plano de saúde de natureza coletiva" (REsp n. 2.072.215/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 9/12/2025, DJEN de 18/12/2025. - grifei).
+IV. Dispositivo
+6. Agravo interno desprovido.
+(AgInt no REsp n. 2.215.047/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/6/2026, DJEN de 12/6/2026.)
+Direito do consumidor e processual civil. Agravo interno NO recurso especial. Plano de saúde coletivo por adesão. Reajuste por faixa etária, sinistralidade e VCMH. Abusividade. Cálculo atuarial em liquidação de sentença. Inaplicabilidade dos índices da ANS. Súmula 83/STJ. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+I. Caso em exame
+1. Agravo interno interposto contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu de recurso especial por suposta ausência de indicação de dispositivo de lei federal violado.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o acórdão recorrido, ao reputar abusivo o reajuste por mudança de faixa etária em plano de saúde coletivo por adesão, determinar a apuração do percentual adequado por cálculos atuariais na fase de liquidação de sentença e afastar a aplicação dos índices da ANS fixados para planos individuais, contrariou os arts. 421 e 422 do Código Civil e 54, § 4º, e 51, § 2º, do Código de Defesa do Consumidor.
+III. Razões de decidir
+3. O Tribunal de origem reconheceu, em consonância com a orientação do STJ, que, em planos coletivos por adesão, as cláusulas de reajuste por VCMH, sinistralidade e faixa etária não são, por si, abusivas, mas a aplicação concreta dos reajustes deve observar critérios de razoabilidade, demonstração de equilíbrio contratual e base atuarial idônea, nos parâmetros fixados pelos Temas 952 e 1.016 do STJ. A decisão está em conformidade com a orientação firmada por esta Corte Superior, incidindo o óbice da Súmula 83/STJ.
+IV. Dispositivo
+4. Resultado do Julgamento: Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no REsp n. 2.250.839/SP, relator Ministro Luís Carlos Gambogi (Desembargador Convocado do TJMG), Quarta Turma, julgado em 1/6/2026, DJEN de 8/6/2026.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CIVIL. CONSUMIDOR. ALEGADA NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. INCONFORMISMO. PLANO DE SAÚDE COLETIVO. REAJUSTE POR VCMH E SINISTRALIDADE. CABIMENTO. APURAÇÃO DO ÍNDICE EM LIQUIDAÇÃO DE SENTENÇA. VIABILIDADE. INCIDÊNCIA DAS SÚMULAS 5, 7 E 83/STJ.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que conheceu de agravo para não conhecer de recurso especial, em demanda revisional de contrato de assistência à saúde na modalidade coletiva, na qual se discutem reajustes anuais fundamentados na Variação de Custos Médico-Hospitalares (VCMH) e na sinistralidade.
+2. O acórdão do Tribunal de origem reconheceu a licitude, em tese, das cláusulas contratuais que preveem reajuste anual com base em VCMH e sinistralidade, mas declarou abusivo o percentual efetivamente aplicado por ausência de substrato atuarial idôneo, afastou a utilização dos índices da ANS previstos para planos individuais, determinando que o índice adequado seja apurado em fase de liquidação de sentença.
+II. Questão em discussão
+3. Há duas questões em discussão: (i) saber se o acórdão recorrido incorreu em negativa de prestação jurisdicional ou deficiência de fundamentação; e (ii) saber se é possível afastar a determinação de apuração do índice de reajuste em fase de liquidação.
+III. Razões de decidir
+4. O Tribunal de origem examinou, de forma clara e fundamentada, as teses suscitadas na apelação e nos embargos de declaração, inclusive quanto à licitude abstrata das cláusulas de reajuste, à abusividade do índice concreto aplicado, à inaplicabilidade dos índices da ANS aos contratos coletivos e à remessa da apuração do índice adequado à fase de cumprimento de sentença, o que afasta a alegada violação aos arts. 489 e 1.022 do CPC.
+5. A ausência de indicação, no próprio acórdão, de um percentual específico de reajuste, com a remessa da definição do índice à liquidação, decorre do reconhecimento de insuficiência do acervo probatório para tal fixação e não configura omissão ou negativa de prestação jurisdicional, pois o direito ao reajuste foi certificado, preservadas as proteções do consumidor.
+6. A pretensão de afastar a remessa da definição do índice à liquidação demandaria reexame do contrato e do substrato fático-probatório relativo à necessidade de reequilíbrio financeiro e à abusividade dos aumentos, providência vedada em recurso especial pelas Súmulas n. 5 e 7 do STJ.
+7. Entendimento de origem quanto à inaplicabilidade dos índices da Agência Nacional de Saúde Suplementar (ANS) aos planos coletivos e o cabimento da apuração do valor devido em cumprimento de sentença (ou liquidação) em consonância com a jurisprudência. Incidência da Súmula n. 83/STJ.
+8. "Inaplicáveis os índices da Agência Nacional de Saúde Suplementar
+- ANS -, previstos para os planos de saúde individuais, aos contratos de plano de saúde de natureza coletiva. Precedentes".
+"Verificada abusividade nos reajustes por sinistralidade e por variação de custos médicos-hospitalares (VCMH) praticados pela operadora do plano de saúde, mister a apuração do percentual adequado na fase de cumprimento de sentença, a fim de restabelecer o equilíbrio contratual por meio de cálculos atuariais" (REsp n. 2.106.567/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 5/3/2025).
+IV. Dispositivo e tese
+Agravo interno improvido..
+(AgInt no AREsp n. 2.954.185/AL, relator Ministro Humberto Martins, Terceira Turma, julgado em 1/6/2026, DJEN de 8/6/2026.)
+DIREITO PRIVADO. RECURSO ESPECIAL. PLANO DE SAÚDE REAJUSTE POR SINISTRALIDADE E VCMH. APLICAÇÃO DE ÍNDICES DA ANS A PLANOS COLETIVOS. RECURSO ESPECIAL CONHECIDO EM PARTE E PROVIDO EM PARTE.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, proferido em apelação cível, que manteve sentença de procedência em ação de reajuste contratual.
+2. A controvérsia trata de ação de procedimento comum sobre nulidade de cláusula de reajuste por sinistralidade e VCMH em plano coletivo, substituição dos reajustes pelos índices da ANS dos planos individuais e restituição dos valores pagos em excesso.
+3. Na sentença, o Juízo julgou procedentes os pedidos, declarou nula a cláusula de reajuste por sinistralidade e VCMH, determinou o recálculo pelas variações da ANS desde 2012 e condenou à restituição, com honorários fixados.
+4. A Corte de origem negou provimento à apelação, manteve a sentença por seus fundamentos e aplicou, como parâmetro, os índices da ANS dos contratos individuais; acolheu embargos da autora para sanar erro material sobre a base dos honorários e rejeitou embargos da operadora por ausência de omissão.
+II. QUESTÃO EM DISCUSSÃO
+5. Há seis questões em discussão: (i) saber se houve violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC por ausência de enfrentamento de argumentos e omissão persistente; (ii) saber se a decisão desconsiderou a liberdade de contratar e o mutualismo (art. 421 do CC); (iii) saber se não foram consideradas as consequências práticas da decisão (art. 20 da LINDB); (iv) saber se é indevida a aplicação dos índices da ANS dos planos individuais a contrato coletivo (art. 35-E, § 2º, da Lei n. 9.656/1998); (v) saber se houve excessiva onerosidade e extrema vantagem (art. 478 do CC); e (vi) saber se há divergência jurisprudencial quanto à limitação dos reajustes por sinistralidade aos índices da ANS.
+III. RAZÕES DE DECIDIR
+6. Não ocorreu a ofensa aos arts. 489, § 1º, IV, e 1.022, II, do CPC, pois o acórdão examinou de modo claro e suficiente as questões relevantes.
+7. Incidem as Súmulas n. 5 e 7 do STJ para obstar o reexame de cláusulas contratuais e do conjunto probatório sobre reajuste e sinistralidade.
+8. Reconhecida a divergência, em planos coletivos os índices da ANS dos contratos individuais não se aplicam como teto, devendo os percentuais de reajuste por sinistralidade ser apurados em liquidação por cálculo atuarial.
+IV. DISPOSITIVO E TESE
+9. Recurso especial conhecido parcialmente e provido em parte.
+Tese de julgamento: "1. Obstam o o reexame de cláusulas contratuais e do conjunto probatório sobre reajuste e sinistralidade a incidência das Súmulas n. 5 e 7 do STJ. 2. Em planos coletivos, os índices da ANS dos contratos individuais não se aplicam como teto;
+reconhecida a divergência, os percentuais de reajuste por sinistralidade devem ser apurados em liquidação por cálculo atuarial".
+Dispositivos relevantes citados: CPC, arts. 489, § 1º, IV, e 1.022, II; CC, arts. 421 e 478; Lei n. 9.656/1998, art. 35-E, § 2º; Lei n. 4.657/1942, art. 20.
+Jurisprudência relevante citada: STJ, Súmulas n. 5 e 7; STJ, AgInt no AREsp n. 2.043.624/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/8/2022; STJ, AgInt no REsp n. 1.989.063/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 8/8/2022; STJ, AgRg nos EDcl no AREsp n. 235.553/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 2/6/2015; STJ, AgInt no REsp n. 2.008.784/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 6/3/2023; STJ, AgInt no AREsp n. 1.155.520/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 7/2/2019; STJ, AgInt nos EDcl no REsp n. 2.083.161/SP, relator Ministro Marco Buzzi, Quarta Turma, julgados em 19/8/2024.
+(REsp n. 2.211.767/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 11/5/2026, DJEN de 14/5/2026.)
+RECURSO DE RAMALHO E OUTRO: PROCESSUAL CIVIL E CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. REAJUSTES POR FAIXA ETÁRIA E POR SINISTRALIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA (ARTS. 1.022 E 489 DO CPC). PRECLUSÃO PROBATÓRIA E ART. 400 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO (SÚMULA 211/STJ). ÍNDICES DA ANS. INAPLICABILIDADE A PLANOS COLETIVOS. NECESSIDADE DE PERÍCIA ATUARIAL EM LIQUIDAÇÃO. ÓBICES DAS SÚMULAS 5/STJ E 7/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO INSUFICIENTE. AGRAVO CONHECIDO. ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
+1. Agravo em recurso especial interposto por consumidores contra decisão que inadmitiu o especial manejado contra acórdão que reconheceu abusividade do reajuste por faixa etária (aos 59 anos) e dos aumentos por sinistralidade, mas determinou a apuração do índice correto em liquidação de sentença, afastando a substituição pelos índices da Agência Nacional de Saúde Suplementar (ANS).
+2. O objetivo recursal é decidir se (i) há negativa de prestação jurisdicional por contradição e omissão ao remeter a apuração de percentuais à liquidação; (ii) há preclusão probatória das rés e incidência do art. 400 do CPC, com impossibilidade de "nova fase" para comprovação atuarial; (iii) devem ser aplicados, por substituição, os índices da ANS aos reajustes anuais; (iv) há dissídio jurisprudencial que afaste a liquidação e imponha índices da ANS.
+3. Não há negativa de prestação jurisdicional quando o acórdão enfrenta os pontos essenciais, define a abusividade e, com base no CDC e no CPC, remete a apuração técnica à liquidação, afastando a aplicação dos índices da ANS aos planos coletivos.
+4. Não se pode conhecer da tese de preclusão probatória e de incidência do art. 400 do CPC por ausência de prequestionamento específico (Súmula 211/STJ). A pretensão de afastar a liquidação e impor índices ANS exigiria reexame de fatos, provas e cláusulas contratuais, o que não se compatibiliza com o recurso especial (Súmulas 5/STJ e 7/STJ).
+5. O dissídio jurisprudencial não se demonstra sem cotejo analítico com similitude fático-jurídica e indicação precisa das circunstâncias comuns; prejudicado, ademais, pelo não conhecimento das teses correlatas pela alínea a.
+6. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, não provido. RECURSO DE QUALICORP: PROCESSUAL CIVIL E CONSUMIDOR. RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. REAJUSTE POR FAIXA ETÁRIA AOS 59 ANOS. RN ANS 63/2003. VARIAÇÃO ACUMULADA (ART. 3º, II). ÔNUS DA PROVA DA BASE ATUARIAL (ART. 373, II, DO CPC). ATO INFRALEGAL. INVIABILIDADE DE EXAME NA VIA ESPECIAL. REEXAME DE CLÁUSULAS E PROVAS. SÚMULAS 5/STJ E 7/STJ. ÍNDICES DA ANS PARA PLANOS INDIVIDUAIS. INAPLICABILIDADE A PLANOS COLETIVOS. DISSÍDIO JURISPRUDENCIAL. DEFICIÊNCIA DIALÉTICA E DE COTEJO (SÚMULA 284/STF). RECURSO ESPECIAL NÃO CONHECIDO.
+1. Recurso especial de operadora/administradora contra acórdão que reconheceu abusividade do reajuste de 76,20% na última faixa etária por ausência de base atuarial idônea, determinando apuração pericial em liquidação e afastando a substituição pelos índices da ANS.
+2. O objetivo recursal é decidir se (i) o reajuste por faixa etária aos 59 anos, com "variação acumulada" nos termos do art. 3º, II, da RN 63/2003, observa os limites regulatórios; (ii) os índices da ANS para planos individuais são inaplicáveis a planos coletivos; (iii) há dissídio com julgados estaduais que validam reajustes por sinistralidade sem aplicação de índices da ANS.
+3. A discussão sobre ato infralegal (RN 63/2003) é insuscetível de exame em recurso especial. A validade do percentual e o suporte atuarial idôneo demandam reinterpretação de cláusulas contratuais e revolvimento de fatos e provas, o que é vedado pelas Súmulas 5/STJ e 7/STJ. A base decisória do acórdão - ausência de demonstração atuarial e onerosidade excessiva - não foi especificamente impugnada, caracterizando deficiência de fundamentação (Súmula 284/STF).
+4. Os índices anuais da ANS previstos para planos individuais não se aplicam a contratos coletivos; em caso de abusividade, a readequação por perícia atuarial em liquidação é a via adequada para restabelecer o equilíbrio contratual.
+5. Recurso especial não conhecido.
+(REsp n. 2.223.481/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 4/5/2026, DJEN de 8/5/2026.)
+Registre-se que "os contratos coletivos, independentemente do número de beneficiários, têm forma de custeio diferente dos contratos individuais/familiares, sendo que só a estes últimos são aplicáveis os índices aprovados pela ANS" (AgInt no Araújo, Quarta Turma, julgado em REsp n. 2.008.784/SP, 6/3/2023, DJe de relator Ministro Raul 27/3/2023) .
+Assim, "no plano coletivo, o reajuste anual é apenas acompanhado pela ANS, para fins de monitoramento da evolução dos preços e de prevenção de abusos, não havendo que se falar, portanto, em aplicação dos índices previstos aos planos individuais" (AgInt no AREsp n. 1.155.520/SP, Isabel Gallotti, Quarta Turma, julgado em 7/2/2019, relatora Ministra Maria DJe de 15/2/2019)
+Portanto, se reconhecida a abusividade da cláusula contratual de reajuste, a apuração do percentual adequado para fins de manutenção do equilíbrio atuarial deverá ser apurada em fase de cumprimento de sentença, por meio de cálculos atuariais, sendo inaplicáveis, para fim de reajustes por sinistralidade e VCMH, as determinações de cálculo da ANS.
+Não há, pois, contradição alguma. A apuração em liquidação não se presta à reabertura da instrução nem à concessão de nova chance probatória à operadora, mas tão somente à quantificação do comando já definido no título, qual seja, a fixação do percentual de reajuste tecnicamente adequado, em substituição àquele reconhecido abusivo. A solução adotada é precisamente a que esta Corte vem aplicando em casos análogos, inclusive no âmbito desta Quarta Turma.
+3. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
