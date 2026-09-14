@@ -1,0 +1,33 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado pelo Estado da Bahia, em face do acórdão do Tribunal de Justiça estadual assim ementado:
+
+“MANDADO DE SEGURANÇA. COLETIVO. PREVENTIVO. DIREITO ADMINISTRATIVO E CONSTITUCIONAL. SERVIDOR PÚBLICO ESTADUAL. PARECER SISTÊMICO Nº 001178/2020 DA PGE. ILEGALIDADE. ESTABILIDADE ECONÔMICA. NORMA DE TRANSIÇÃO. EMENDA Nº 22/15 DA CONSTITUIÇÃO ESTADUAL. APLICABILIDADE. EMENDA Nº 103/19 DA CONSTITUIÇÃO FEDERAL. INAPLICABILIDADE. PRINCÍPIOS DA SEGURANÇA JURÍDICA E CONFIANÇA LEGÍTIMA. SEGURANÇA CONCEDIDA. Cinge-se a controvérsia dos autos ao alegado justo receio da Impetrante de ter violado o direito dos seus afiliados à aquisição da estabilidade econômica, em razão do teor do Parecer Sistêmico nº 001178/2020 da Procuradoria Geral do Estado, no sentido de que vedada a concessão de estabilidade econômica aos servidores civis do Estado da Bahia que não tenham implementado os requisitos temporais para obtenção da vantagem antes da vigência da EC 103/2019, que inseriu o parágrafo 9º no art. 39 da CF/88. Em que pese o advento da Emenda Constitucional nº 103/19, permanece válida a regra de transição inserida na Emenda nº 22/15 da Constituição Estadual que, ao extinguir o direito à estabilidade econômica dos servidores públicos estaduais, em seu art. 3º, assegurou tal direito àqueles que tenham ingressado no serviço público até aquela data. Desta forma, não tendo o Parecer Sistêmico nº nº 001178/2020 da PGE, ato ora inquinado de ilegal, se manifestado no sentido acima disposto, encerra flagrante ilegalidade a autorizar a concessão da segurança pleiteada.” (Mandado de Segurança Coletivo nº 8013233-78.2021.805.0000, Turma Julgadora da Seção Cível de Direito Público do Tribunal de Justiça do Estado da Bahia, Rel. Des. Lisbete Maria Teixeira Almeida Cézar Santos, j. 06.7.2023)
+
+Na minuta, sustenta-se violação dos arts. 5º, XXXVI, 39, § 9º, 93, IX, e 97 da Constituição da República, 13 da Emenda Constitucional 103/2019, bem como contrariedade às teses firmadas nos Temas nº 24 e 41 da Repercussão Geral, à ratio decidendi da decisão da ADI nº 830 e à Súmula Vinculante nº 10.
+É o relatório.
+Decido.
+O recurso comporta provimento.
+Na origem, a Recorrida, Associação dos Gestores Governamentais do Estado da Bahia, impetrou Mandado de Segurança visando afastar os efeitos do Parecer Sistêmico nº 001178/2020, da Procuradoria-Geral do Estado (PGE/BA), que, em razão da Emenda Constitucional Federal nº 103/2019, concluiu pela extinção da possibilidade de aquisição da vantagem denominada Estabilidade Econômica para os servidores civis que ainda não haviam preenchido os requisitos temporais.
+O Tribunal de origem, ao conceder a segurança, entendeu pela inaplicabilidade da Emenda Constitucional nº 103/2019 e pela prevalência da regra de transição estadual (EC estadual nº 22/2015), sob o argumento de que a lei não prejudicará o direito adquirido.
+O recurso extraordinário merece ser provido, uma vez que o acórdão recorrido, ao determinar a ultratividade de regra de transição estadual em face de norma constitucional federal superveniente e expressamente proibitiva, violou a supremacia da Constituição e a jurisprudência desta Suprema Corte.
+A controvérsia envolve servidores civis, cuja situação estatutária é regida pelo Capítulo VI, Seção II, da Constituição Federal.
+Com o advento da Emenda Constitucional nº 103/2019, publicada em 13 de novembro de 2019, o art. 39 da CF/88 foi alterado com a inclusão do seguinte dispositivo, de eficácia e aplicação imediatas:
+
+“§ 9º É vedada a incorporação de vantagens de caráter temporário ou vinculadas ao exercício de função de confiança ou de cargo em comissão à remuneração do cargo efetivo.”
+
+O Parecer Sistêmico nº 001178/2020 da PGE/BA corretamente aponta que esta vedação se aplica aos servidores civis de todos os entes federativos (norma de repetição obrigatória) e que ela não alcança, por exclusão de competência, os militares estaduais.
+Dessa forma, o § 9º do art. 39 da CF estabeleceu um novo marco constitucional proibitivo, suprimindo, para o futuro, a fonte material para a aquisição da Estabilidade Econômica, mesmo que prevista em lei ou Constituição Estadual.
+O entendimento do Tribunal a quo, ao aplicar a regra de transição estadual para servidores que ainda não haviam preenchido todos os requisitos para a incorporação da vantagem (caracterizando mera expectativa de direito), confronta diretamente a jurisprudência consolidada do STF, que conduz às seguintes conclusões:
+
+    I. Tema 24 e Tema 41 da Repercussão Geral: O STF firmou tese no sentido de que não há direito adquirido a regime jurídico, inclusive quanto à forma de composição da remuneração de servidores públicos, devendo-se observar apenas a garantia da irredutibilidade do valor nominal dos vencimentos.
+    II. Incompatibilidade da Transição: A Estabilidade Econômica era uma vantagem que se protraía no tempo (exigindo o cumprimento de tempo mínimo em comissão), caracterizando-se como elemento do regime jurídico. O servidor que estava em processo de aquisição não tinha um direito definitivamente incorporado ao seu patrimônio jurídico, mas sim uma expectativa. A norma constitucional superveniente (EC 103/2019) pode, e deve, atingir essas expectativas, impedindo a consolidação do direito em data posterior à proibição.
+    III. Limite do Direito Adquirido: O direito à incorporação é resguardado apenas para aqueles servidores que cumpriram integralmente todos os requisitos temporais (e, no limite, o fato gerador) antes da vigência da EC nº 103/2019 (13/11/2019), nos termos do Art. 13 da própria Emenda Federal. Para aqueles que buscam incorporar tempo de serviço posterior a essa data, a vedação constitucional federal incide de forma plena.
+
+O Mandado de Segurança busca a condenação do Estado para reconhecer o direito dos substituídos que preencham os requisitos mesmo depois da EC nº 103/2019, pretensão que é frontalmente incompatível com a ordem constitucional vigente.
+Diante do exposto, com base no art. 21, §§ 1º e 2º, do Regimento Interno do Supremo Tribunal Federal, dou provimento ao recurso extraordinário para, cassando o acórdão recorrido, denegar a segurança, ressalvado o direito à incorporação da vantagem pessoal de estabilidade econômica para os substituídos que tenham preenchido todos os requisitos legais até a entrada em vigor da Emenda Constitucional nº 109/2019 (13 de novembro de 2019).
+Publique-se.
+
+Brasília, 14 de setembro de 2026.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
