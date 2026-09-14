@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de conflito de competência, com pedido liminar, ajuizado por EDUARDO MALVEIRO PEREIRA LEITE, envolvendo o r. juízo da 82ª Vara do Trabalho do Rio de Janeiro/RJ e a 1ª Vara de Falências e Recuperações Judiciais de São Paulo/SP), em razão de decisões conflitantes acerca dos efeitos do encerramento da falência sobre obrigações trabalhistas.
+Alega o suscitante, em resumo, que o Grupo Lightcomm teve sua recuperação judicial convolada em falência, decretada em 24/04/2015, tendo sido arrecadados bens, apresentado Quadro Geral de Credores. O Juízo falimentar, em 27/05/2025, declarou encerrada a falência e extinguiu as obrigações da falida, ressalvado o crédito tributário.
+Apesar disso, a execução trabalhista que tramita na 82ª Vara do Trabalho do Rio de Janeiro/RJ (ATOrd 0010171-58.2013.5.01.0082), objetivando o pagamento de créditos do Grupo, prossegue contra ex-sócios e ex-diretores, com constrições incidentes também sobre bens e valores do suscitante.
+Requer, em caráter liminar, a suspensão do curso da execução trabalhista e, no mérito, a declaração de competência do r. juízo falimentar.
+É o relatório.
+Decisão.
+A matéria subjacente ao presente incidente encontra-se pacificada no âmbito deste Superior Tribunal de Justiça, de modo a atrair a incidência da Súmula 568/STJ e a possibilidade do exame unipessoal da questão (ut. CC 179.787/PE, Rel. Min. Paulo de Tarso Sanseverino, Dje de 25/05/2021; CC 169.970/SP, Rel. Min. Antonio Carlos Ferreira, Dje de 30/03/2020).
+1. De início, vale destacar a competência deste Superior Tribunal de Justiça para o exame do presente conflito, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+2. É firme a jurisprudência desta Corte no sentido de que a Justiça do Trabalho, no âmbito da legislação específica, possui competência para desconsiderar a personalidade jurídica e redirecionar a execução em face dos sócios não abrangidos pelos efeitos da recuperação judicial e/ou falência.
+Nessa linha: AgInt nos EDcl no CC n. 204.084/AL, Relator Ministro Raul Araújo, Segunda Seção, julgado em 9/4/2025 de 25/4/2025; CC 214989/RJ , Rel. Min. Humberto Martins, Dje de 13/10/2025; AgInt no CC 202205/SP, Rel. Min. João Otávio de Noronha, DJe de 25/8/2025, dentre outros inúmeros julgados acerca do tema.
+Nos limites em que a responsabilização recai sobre patrimônio de pessoas físicas que não integram a massa falida - e, portanto, não se encontram sujeitas ao juízo universal -, a competência funcional e material para conduzir os atos constritivos permanece na Justiça do Trabalho, sem prejuízo de observância às balizas da Lei 11.101/2005 quanto ao acervo da falida.
+Assim, a orientação segundo a qual o juízo falimentar é universal e indivisível dirige-se à preservação da ordem concursal e à tutela dos bens da massa falida.
+Daí não decorre exclusão da competência da Justiça do Trabalho para redirecionar a execução contra devedores pessoais não alcançados pela extinção das obrigações da falida, sobretudo quando a própria decisão trabalhista afastou a aplicação do art. 158 da LREF aos créditos trabalhistas e determinou a continuidade dos atos executórios em face de ex-sócios e administradores.
+Impõe-se, assim, a seguinte distinção: atos que importem constrição sobre bens da massa falida devem se submeter ao juízo universal; atos voltados à responsabilização patrimonial de terceiros, não inseridos no acervo da falida, subsistem na Justiça Especializada.
+3. Do exposto, com fundamento no art. 955, parágrafo único, do CPC c/c Súmula 568/STJ, não conheço do presente conflito de competência.
+Publique-se. Intimem-se. Após, arquivem-se.
+EMENTA
