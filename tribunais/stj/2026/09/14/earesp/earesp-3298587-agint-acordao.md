@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 08/09/2026 a 14/09/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luís Carlos Gambogi (Desembargador Convocado do TJMG), João Otávio de Noronha, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REDIBITÓRIA. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+I. Razões de decidir
+1. O recurso especial que não impugna fundamento do acórdão recorrido independente e suficiente para mantê-lo, no ponto controvertido, não deve ser admitido, a teor da Súmula n. 283/STF.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento de elementos fático-probatórios dos autos (Súmula n. 7/STJ).
+II. Dispositivo
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno (fls. 468-473) interposto contra decisão desta relatoria, que negou provimento ao recurso (fls. 462-464).
+Em suas razões, a parte alega que não se aplicam as Súmulas n. 7 do STJ e 283 do STF. Assevera que "O recurso especial, ao sustentar que "o v. acórdão recorrido, ao determinar a restituição de 80% do valor pago, mas permitir que a recorrida permaneça com os materiais, incorreu em manifesta violação aos artigos que regem o vício redibitório e vedam o enriquecimento sem causa", incorporou como premissa a permanência dos materiais com a recorrida e impugnou exatamente a consequência jurídica dela extraída pelo Tribunal a quo" (fl. 471).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação (fls. 474-476).
+É o relatório.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REDIBITÓRIA. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+I. Razões de decidir
+1. O recurso especial que não impugna fundamento do acórdão recorrido independente e suficiente para mantê-lo, no ponto controvertido, não deve ser admitido, a teor da Súmula n. 283/STF.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento de elementos fático-probatórios dos autos (Súmula n. 7/STJ).
+II. Dispositivo
+3. Agravo interno desprovido.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (fls. 463-464):
+Quanto à alegação de violação dos 86, 927 e 944 do CC e 373, I, do CPC, a Corte local concluiu que (fl. 417, grifamos):
+..
+A prova pericial foi categórica ao apontar vícios em 80% dos serviços prestados, identificando infiltrações em janelas e portas externas, falhas na aplicação do silicone de vedação, inadequação dos parafusos utilizados e desrespeito às normas técnicas da ABNT (fls. 265/285). Destacou, ainda, que as paredes internas de vidro temperado (oito no total), estavam em conformidade, o que fragiliza a alegação de que a parte interna não foi periciada. Tudo indica que o perito considerou a existência destas divisórias internas e as incluiu na porção de 20% dos serviços bem prestados.
+O argumento de que não houve individualização da responsabilidade entre os réus não se sustenta, extraindo-se do laudo pericial a responsabilidade de ambos os prestadores de serviço. Por isso, a r. sentença reconheceu, de forma expressa, que não havia solidariedade e distribuiu a condenação de forma proporcional ao valor que cada qual recebeu.
+Rever a conclusão do acórdão recorrido, de que "A prova pericial foi categórica ao apontar vícios em 80% dos serviços prestados" e que extrai-se "do laudo pericial a responsabilidade de ambos os prestadores de serviço", demandaria incursão no campo fático-probatório, providência vedada na via especial, conforme a Súmula n. 7 do STJ.
+No que concerne à alegação de ofensa aos arts. 441, 884 e 885 do CC, sob o fundamento de que "O v. acórdão recorrido, ao determinar a restituição de 80% do valor pago, mas permitir que a recorrida permaneça com os materiais, incorreu em manifesta violação aos artigos que regem o vício redibitório e vedam o enriquecimento sem causa", o Tribunal a quo considerou que (fl. 417):
+Quanto à pretensão de restituição dos materiais instalados, a insurgência também não prospera. Conforme decidido pelo D. Juízo "a quo" nos embargos de declaração (fls. 370/371), as janelas, divisórias e portas de vidro encontram-se incorporados à estrutura do imóvel, presumindo-se que a retirada ocasionaria maior prejuízo à apelada. Note-se que a autora a fls. 368, condicionou a retirada dos materiais a critérios objetivos, como a sua viabilidade técnica e econômica, sobre o que não há indício nos autos, tendo os advogados dos réus, no início da audiência de instrução, estimado que o custo deste procedimento seria elevado.
+No mais, não se trata de mero desacordo contratual, mas de vícios relevantes, como atestado pelo laudo e corroborado pela prova oral, que não foram sanados mesmo após diversas tentativas, justificando-se a rescisão parcial e o abatimento proporcional do preço pago. Se a solução fosse simples, bastando o reforço da vedação, como quer o apelante, já o teria feito nas oportunidades em que esteve no imóvel e que antecederam o ajuizamento da demanda.
+Verifica-se que não houve impugnação de todos fundamentos do acórdão recorrido notadamente de que "as janelas, divisórias e portas de vidro encontram-se incorporados à estrutura do imóvel, presumindo-se que a retirada ocasionaria maior prejuízo à apelada" (fl. 417) e que "O pedido deduzido pela autora, de restituição integral do preço, foi acolhido apenas parcialmente, com redução proporcional aos defeitos comprovados nos serviços realizado pelos réus, justamente para se afastar o enriquecimento sem causa e qualquer das partes" (fl. 428). Incide, portanto, a Súmula n. 283 do STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Deixo de majorar os honorários advocatícios recursais, tendo em vista que fixados no patamar máximo legal (fl. 418).
+Publique-se e intimem-se.
+Com efeito, segundo constou da decisão ora agravada, a parte recorrente não rebateu, de modo específico, os seguintes fundamentos do acórdão recorrido (fl. 418, grifamos):
+Quanto à pretensão de restituição dos materiais instalados, a insurgência também não prospera. Conforme decidido pelo D. Juízo "a quo" nos embargos de declaração (fls. 370/371), as janelas, divisórias e portas de vidro encontram-se incorporados à estrutura do imóvel, presumindo-se que a retirada ocasionaria maior prejuízo à apelada. Note-se que a autora a fls. 368, condicionou a retirada dos materiais a critérios objetivos, como a sua viabilidade técnica e econômica, sobre o que não há indício nos autos, tendo os advogados dos réus, no início da audiência de instrução, estimado que o custo deste procedimento seria elevado.
+No mais, não se trata de mero desacordo contratual, mas de vícios relevantes, como atestado pelo laudo e corroborado pela prova oral, que não foram sanados mesmo após diversas tentativas, justificando-se a rescisão parcial e o abatimento proporcional do preço pago. Se a solução fosse simples, bastando o reforço da vedação, como quer o apelante, já o teria feito nas oportunidades em que esteve no imóvel e que antecederam o ajuizamento da demanda.
+Por sua vez, o acórdão proferido em sede de embargos de declaração consignou que (fl. 428):
+O v. acórdão examinou o pedido restituição dos materiais aplicados, reconhecendo a incorporação dos vidros ao imóvel e a inviabilidade técnica e econômica da retirada, o que foi reconhecido pelas partes. O pedido deduzido pela autora, de restituição integral do preço, foi acolhido apenas parcialmente, com redução proporcional aos defeitos comprovados nos serviços realizado pelos réus, justamente para se afastar o enriquecimento sem causa e qualquer das partes.
+A ausência de impugnação específica de fundamentos independentes e suficientes para manter o acórdão combatido - notadamente de que "as janelas, divisórias e portas de vidro encontram-se incorporados à estrutura do imóvel, presumindo-se que a retirada ocasionaria maior prejuízo à apelada" (fl. 417) e que "O pedido deduzido pela autora, de restituição integral do preço, foi acolhido apenas parcialmente, com redução proporcional aos defeitos comprovados nos serviços realizado pelos réus, justamente para se afastar o enriquecimento sem causa e qualquer das partes" (fl. 428) -, leva à inadmissão do recurso, tendo em vista o teor da Súmula n. 283/STF.
+No que diz respeito à tese de que não foi estabelecido "o nexo de causalidade entre a conduta do recorrente e os vícios apontados" (fl. 434), a Corte local assim se manifestou (fls. 417-418):
+..
+A prova pericial foi categórica ao apontar vícios em 80% dos serviços prestados, identificando infiltrações em janelas e portas externas, falhas na aplicação do silicone de vedação, inadequação dos parafusos utilizados e desrespeito às normas técnicas da ABNT (fls. 265/285). Destacou, ainda, que as paredes internas de vidro temperado (oito no total), estavam em conformidade, o que fragiliza a alegação de que a parte interna não foi periciada. Tudo indica que o perito considerou a existência destas divisórias internas e as incluiu na porção de 20% dos serviços bem prestados.
+O argumento de que não houve individualização da responsabilidade entre os réus não se sustenta, extraindo-se do laudo pericial a responsabilidade de ambos os prestadores de serviço. Por isso, a r. sentença reconheceu, de forma expressa, que não havia solidariedade e distribuiu a condenação de forma proporcional ao valor que cada qual recebeu.
+De tal modo, para afastar o entendimento das instâncias originárias, a respeito de que "A prova pericial foi categórica ao apontar vícios em 80% dos serviços prestados" e de que se extrai "do laudo pericial a responsabilidade de ambos os prestadores de serviço", seria imprescindível a revisão do contexto fático-probatório dos autos, o que é vedado pela Súmula n. 7/STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
