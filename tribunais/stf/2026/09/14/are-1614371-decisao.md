@@ -1,0 +1,23 @@
+DESPACHO: (Ref. à Petição 113.211/2026):
+Em petição apresentada na origem, a recorrente arguiu a nulidade da intimação da decisão monocrática proferida em 15.07.2026 (eDOC 27, p. 7-11), requerendo a devolução do prazo de agravo regimental.
+Sustentou que a intimação da decisão foi dirigida exclusivamente ao Procurador-Geral do Distrito Federal, sem que os advogados da recorrente tomassem ciência da decisão.
+Argumentou que não houve intimação para sanar eventual vício na representação processual, medida necessária, tendo em vista que o advogado principal da demanda não se encontra relacionado no polo representativo.
+Em razão do exposto requereu: a) o reconhecimento da nulidade da intimação da decisão monocrática; b) que se torne sem efeito a certidão de trânsito em julgado e o termo de baixa definitiva lavrados em 27/08/2026, com o desarquivamento/reautuação do feito, se necessário; c) a realização de nova e regular intimação da decisão, com a indicação de todos os advogados constituídos; d) a consequente abertura (devolução) do prazo para interposição do agravo interno (art. 1.021 do CPC), oportunizando-se à recorrente o exercício do contraditório e da ampla defesa.
+
+É o relatório. Decido.
+
+Nos termos do art. 1º da Resolução 404/2009 do STF, “as intimações das decisões serão feitas em nome de apenas um dos procuradores da(s) parte(s), nos termos do art. 82, § 1º e § 2º, do Regimento Interno, salvo deliberação contrária do Relator.”
+O § 2º do art. 82 do RISTF, por sua vez, dispõe que “é suficiente a indicação do nome de um dos advogados, quando a parte houver constituído mais de um, ou o constituído substabelecer a outro com reserva de poderes”.
+Nessa linha, a jurisprudência desta Corte firmou entendimento no sentido de que, contando a parte intimada com mais de um advogado habilitado nos autos, é válida a publicação realizada em nome de qualquer um deles, exceto no caso de substabelecimento outorgado sem reserva de poderes ou com pedido expresso de publicação em nome de determinado patrono, o que não é o caso dos autos. Nesse sentido:
+“DIREITO PROCESSUAL CIVIL. SEGUNDO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA EM EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO EXTRAORDINÁRIO. ALEGAÇÃO DE NULIDADE DA INTIMAÇÃO FEITA EM NOME DE UM DOS ADVOGADOS HABILITADOS. AUSÊNCIA DE PEDIDO EXPRESSO DE PUBLICAÇÃO EM NOME DO ADVOGADO SUBSTABELECIDO. SUBSTABELECIMENTO COM RESERVA DE PODERES. NÃO OCORRE NULIDADE. RESOLUÇÃO/STF 404/2009. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA NO SUPREMO TRIBUNAL FEDERAL. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. O entendimento assinalado na decisão agravada não diverge da jurisprudência firmada no Supremo Tribunal Federal. Contando a parte intimada com mais de um advogado habilitado nos autos, é válida a publicação realizada em nome de qualquer um deles, exceto no caso de substabelecimento outorgado sem reserva de poderes ou com pedido expresso de publicação em nome de determinado patrono – o que não é o caso dos autos. Precedentes. 2. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Agravo interno conhecido e não provido, com determinação de imediata baixa dos autos à origem.” (RE 754.855-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 12.04.2019).
+“Agravo regimental em recurso extraordinário. 2. Direito Processual Civil e do Trabalho. 3. Parte intimada assistida por mais de um advogado. Publicação em nome de um deles. Eficácia do ato intimatório. Ausência de nulidade. Precedentes. 4. Bem leiloado. Alegado preço vil. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório. Súmula 279 do STF. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Negativa de provimento ao agravo regimental.” (RE 723.284-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 11.09.2018).
+
+Com efeito, constata-se que a publicação da decisão que negou seguimento ao recurso extraordinário com agravo, ocorrida em 20.07.2026, foi realizada em nome de Thiago Soares Silva, advogado signatário da petição de ARE (eDOC 21), devidamente constituído nos autos (eDOC 13). Assim, não houve irregularidade na intimação.
+Ante o exposto, com base nos arts. 13, V, c , e 21, § 1º, do RISTF, indefiro o pedido.
+À Secretaria Judiciária para que providencie a baixa dos autos.
+Publique-se.
+Brasília, 14 de setembro de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
