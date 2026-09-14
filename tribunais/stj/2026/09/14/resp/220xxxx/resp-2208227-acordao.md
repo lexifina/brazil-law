@@ -1,0 +1,78 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 08/09/2026 a 14/09/2026, por unanimidade, conhecer do recurso mas lhe negar provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CIVIL. PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO. OBSCURIDADE. INEXISTÊNCIA. RESCISÃO CONTRATUAL. CLÁUSULA CONTRATUAL. AVISO PRÉVIO. SESSENTA DIAS. NULIDADE. AÇÃO CIVIL PÚBLICA. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. AÇÃO CIVIL PÚBLICA. EFEITO ERGA OMNES. TEMA 1.075/STF. TEMA 480/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas em sentido inverso aos interesses da parte.
+2. A nulidade do parágrafo único do art. 17 da RN ANS nº 195/2009, reconhecida em ação civil pública com eficácia erga omnes, afasta a cláusula de aviso prévio para cancelamento do plano. Precedentes.
+3. O Supremo Tribunal Federal e o Superior Tribunal de Justiça firmaram entendimento no sentido de que a coisa julgada formada em ação civil pública produz efeitos gerais, sem limitação territorial. Temas 1.075/STF e 480/STJ.
+4. Recurso especial conhecido e não provido.
+RELATÓRIO
+Trata-se de recurso especial interposto por OMINT SERVIÇOS DE SAÚDE LTDA., com fundamento no art. 105, inciso III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, assim ementado:
+"PLANO DE SAÚDE. RESCISÃO UNILATERAL DE CONTRATO. SENTENÇA DE PROCEDÊNCIA. Insurgência do demandado, que pugna pela validade da cobrança do aviso prévio para rescisão do plano de saúde. Descabimento. Imposição contratual que foi declarada ilícita no julgamento da ação civil pública nº 0136265-83.2013.4.02.5101, com anulação do parágrafo único do art. 17, da Resolução Normativa nº 195/2009. Rescisão contratual mantida, sem imposição de pagamento de aviso prévio. Precedentes Jurisprudenciais. Apelo não provido. Majorados os honorários" (e-STJ fl. 207).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 218/220).
+Nas razões do recurso especial (e-STJ fls. 226/233), a parte recorrente alega violação dos seguintes dispositivos com as respectivas teses:
+(i) art. 1.022, inciso II, do Código de Processo Civil, ante a persistência de omissão e obscuridade apontadas nos embargos de declaração rejeitados, em negativa de prestação jurisdicional;
+(ii) art. 506 do Código de Processo Civil, por inaplicáveis, ao caso concreto, os efeitos da sentença proferida em ação civil pública na qual a recorrente não figurou como parte; e
+(iii) arts. 389, 408, 416 e 422 do Código Civil e 54, § 4º, do Código de Defesa do Consumidor, ao argumento de ser válida a cláusula contratual que previa multa na hipótese de rescisão antecipada do contrato.
+O prazo para contrarrazões transcorreu in albis (e-STJ fl. 240).
+É o relatório.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CIVIL. PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO. OBSCURIDADE. INEXISTÊNCIA. RESCISÃO CONTRATUAL. CLÁUSULA CONTRATUAL. AVISO PRÉVIO. SESSENTA DIAS. NULIDADE. AÇÃO CIVIL PÚBLICA. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. AÇÃO CIVIL PÚBLICA. EFEITO ERGA OMNES. TEMA 1.075/STF. TEMA 480/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas em sentido inverso aos interesses da parte.
+2. A nulidade do parágrafo único do art. 17 da RN ANS nº 195/2009, reconhecida em ação civil pública com eficácia erga omnes, afasta a cláusula de aviso prévio para cancelamento do plano. Precedentes.
+3. O Supremo Tribunal Federal e o Superior Tribunal de Justiça firmaram entendimento no sentido de que a coisa julgada formada em ação civil pública produz efeitos gerais, sem limitação territorial. Temas 1.075/STF e 480/STJ.
+4. Recurso especial conhecido e não provido.
+VOTO
+A irresignação não merece prosperar.
+Inicialmente, a recorrente sustenta omissão do acórdão recorrido quanto à "aplicação do disposto nos artigos 408, 416 e 422 do Código Civil e art. 54, §4º do Código de Defesa do Consumidor, que asseguram o direito da Omint de cobrar a multa expressamente prevista no Contrato, além de tratar-se de cláusula clara e devidamente destacada, em conformidade com os princípios do direito do consumidor" (e-STJ fl. 229).
+Quanto ao ponto, o voto condutor assim delineou a matéria:
+"Inicialmente, trata-se de uma típica relação de consumo, porque as partes estão enquadradas nos artigos 2º e 3º do Código de Defesa do Consumidor. É o que dispõe a Súmula nº 100 do TJSP e a Súmula 608, do C. STJ.
+E, apesar de se tratar de contratação de seguro saúde por pessoa jurídica, não há dúvidas que os beneficiários são pessoas físicas e hipossuficientes. Portanto, destinatários finais.
+Superado o cabimento do código consumerista, vale ressaltar que a cláusula que estipula aviso prévio de 60 dias para rescisão do contrato fere o artigo 51 do CDC, ao impor condição desfavorável ao cancelamento unilateral, colocando o consumidor em desvantagem excessiva e gerando o enriquecimento ilegal e sem causa do plano de saúde, o que por si só autorizaria a revisão contratual" (e-STJ fl. 208).
+Assim, a matéria foi sobejamente enfrentada pela Corte estadual, conquanto em sentido contrário aos interesses da recorrente, o que não se confunde com negativa de prestação jurisdicional.
+Não se vislumbra, portanto, vícios na fundamentação do acórdão impugnado, que solucionou fundamentadamente a causa, ainda que sob perspectiva diversa da pretendida pela ora recorrente.
+Suscita, ainda, obscuridade "acerca da inaplicabilidade do entendimento adotado na Ação Civil Pública nº 0136265-83.2013.4.02.5101, uma vez que a declaração de nulidade do artigo 17 da Resolução Normativa nº 195/09 não tem relação com a controvérsia instaurada nestes autos, pois, no caso, a discussão não diz respeito a exigência de aviso prévio, mas sim a cobrança de cláusula penal indenizatória (multa) expressamente prevista no contrato, além de esclarecer em que medida seria aplicável o entendimento da ACP uma vez que Omint não integrou o polo passivo daquela ação coletiva ex vi do art. 506 do CPC" (e-STJ fl. 228).
+Todavia, da leitura da peça de embargos, não foi aventada a alegada obscuridade. Ao revés, a ora recorrente expressamente se refere à aviso prévio, ao afirmar "o direito da Omint de cobrar o aviso prévio prevista no Contrato encontra fundamento legal tanto nos artigos 408 e 416", sem fazer distinção expressa entre o julgado na Ação Civil Pública nº 0136265-83.2013.4.02.5101 e o caso concreto.
+Assim, não há falar em obscuridade se o tribunal não foi instado a se manifestar.
+Por outro lado, o tribunal de origem afastou a legalidade da cláusula penal, em razão da declaração de nulidade do art. 17, parágrafo único, da Resolução Normativa ANS nº 195/2009, nos autos da Ação Civil Pública nº 0136265-83.2013.4.02.5101, com efeito erga omnes.
+Verifica-se que o acórdão recorrido está de acordo com a jurisprudência desta Corte acerca do tema, firmada no sentido de que "a anulação do parágrafo único do art. 17 da RN n. 195/2009 da ANS na Ação Civil Pública n. 0136265-83.2013.4.02.5101, com eficácia erga omnes, retirou o fundamento normativo que legitimava a exigência de aviso prévio remunerado de 60 dias, de modo que não subsiste base regulatória para a cobrança de mensalidades após o pedido de cancelamento" (REsp n. 2.242.400/SP, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 11/5/2026, DJEN de 14/5/2026.)
+A propósito:
+DIREITO CIVIL. RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO EMPRESARIAL. CLÁUSULA DE AVISO PRÉVIO DE 60 DIAS PARA RESCISÃO CONTRATUAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+1. A falta de prequestionamento da matéria alegada nas razões do recurso especial impede seu conhecimento, não obstante a oposição de embargos declaratórios. Incidência da Súmula 211 do STJ.
+2. A nulidade do parágrafo único do art. 17 da RN ANS nº 195/2009 foi reconhecida em ação civil pública nº 0136265-83.2013.4.02.5101, com trânsito em julgado, decisão que possui eficácia erga omnes e afasta a exigência de aviso prévio de 60 dias para rescisão de planos de saúde.
+3. O recurso especial interposto com base na alínea "c" do permissivo constitucional não dispensa o necessário prequestionamento da questão jurídica, que, no caso em liça, não ocorreu.
+4. Recurso especial não conhecido.
+(REsp 2.247.495/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 2/3/2026, DJEN de 11/3/2026)
+DIREITO DO CONSUMIDOR E CIVIL. RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. COBRANÇA DE MENSALIDADES APÓS O PEDIDO DE CANCELAMENTO. CLÁUSULA DE AVISO PRÉVIO REMUNERADO. ABUSIVIDADE CONFIGURADA. VIOLAÇÃO DO ART. 51, IV E XV, DO CÓDIGO DE DEFESA DO CONSUMIDOR. ANULAÇÃO DO PARÁGRAFO ÚNICO DO ART. 17 DA RN Nº 195/2009 DA ANS PELA AÇÃO CIVIL PÚBLICA Nº 0136265-83.2013.4.02.5101. EFEITOS ERGA OMNES E EX TUNC. EDIÇÃO DA RN Nº 455/2020 EM CUMPRIMENTO À DECISÃO JUDICIAL. INEXIGIBILIDADE DA COBRANÇA APÓS O PEDIDO DE CANCELAMENTO. DISSÍDIO JURISPRUDENCIAL COMPROVADO. RECURSO ESPECIAL CONHECIDO E PROVIDO
+1. A cláusula contratual que impõe ao consumidor o pagamento de mensalidades após o pedido de cancelamento do plano de saúde coletivo, a título de aviso prévio de 60 dias, é nula de pleno direito por impor obrigação desproporcional e violar a boa-fé objetiva e a função social do contrato.
+2. A exigência de aviso prévio remunerado prevista no parágrafo único do art. 17 da RN nº 195/2009 da ANS foi declarada nula na Ação Civil Pública nº 0136265-83.2013.4.02.5101, decisão dotada de eficácia erga omnes e ex tunc, que tornou inválido o dispositivo desde sua origem.
+3. A edição da RN nº 455/2020 pela ANS não instituiu nova regra, mas apenas formalizou o cumprimento da decisão judicial, eliminando definitivamente o fundamento normativo que legitimava a cobrança de valores após o cancelamento.
+4. A cobrança de mensalidades durante o período de aviso prévio revela-se abusiva e inexigível, pois o consumidor não está obrigado a remunerar serviço que não pretende mais utilizar.
+5. Divergência jurisprudencial demonstrada em cotejo analítico com julgados do TJSP e TJRJ que reconhecem a nulidade da cláusula de aviso prévio e a inexigibilidade dos valores cobrados após o cancelamento.
+6. Recurso especial conhecido e provido.
+(AREsp 3.028.075/SC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/11/2025, DJEN de 27/11/2025)
+DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. PLANO DE SAÚDE. RESCISÃO CONTRATUAL. AVISO PRÉVIO DE 60 DIAS. NULIDADE DO PARÁGRAFO ÚNICO DO ART. 17 DA RN ANS Nº 195/2009 RECONHECIDA EM AÇÃO CIVIL PÚBLICA COM TRÂNSITO EM JULGADO. IMPOSSIBILIDADE DE COBRANÇA DE MENSALIDADES NO PERÍODO. NOVA RESOLUÇÃO DA ANS SOBRE A MATÉRIA NÃO MAIS PREVÊ A POSSIBILIDADE. REANÁLISE DE CLÁUSULAS CONTRATUAIS E PROVAS. ÓBICE DAS SÚMULAS 5 E 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+(..)
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se subsiste a exigência de aviso prévio de 60 dias para a rescisão contratual de plano de saúde, com cobrança de mensalidades no período, à luz da RN ANS nº 195/2009, da RN nº 557/2022 e da ação civil pública transitada em julgado; (ii) estabelecer se é possível, em recurso especial, reexaminar provas e cláusulas contratuais para reformar o entendimento adotado pelo Tribunal de origem.
+III. RAZÕES DE DECIDIR
+3. O recurso especial não pode ser conhecido quando a pretensão demanda reexame do conjunto fático-probatório e interpretação de cláusulas contratuais, hipóteses vedadas pelas Súmulas 5 e 7/STJ.
+4. A nulidade do parágrafo único do art. 17 da RN ANS nº 195/2009 foi reconhecida em ação civil pública nº 0136265-83.2013.4.02.5101, com trânsito em julgado, decisão que possui eficácia erga omnes e afasta a exigência de aviso prévio de 60 dias para rescisão de planos de saúde.
+5. A RN ANS nº 557/2022, norma atualmente vigente, não reproduziu a previsão anulada, o que reforça a impossibilidade de cobrança de mensalidades após o pedido de rescisão contratual.
+6. A invocação dos arts. 421 e 422 do Código Civil não legitima a manutenção de cláusula contratual reputada abusiva e anulada judicialmente, pois a liberdade contratual encontra limite na proteção ao consumidor e no controle de cláusulas abusivas.
+IV. DISPOSITIVO
+7. Recurso especial não conhecido."
+(REsp 2.225.949/SP, relatora Ministra DANIELA TEIXEIRA, Terceira Turma, julgado em 22/9/2025, DJEN de 25/9/2025)
+Quanto à suscitada afronta ao art. 506 do Código de Processo Civil, cumpre destacar que o Supremo Tribunal Federal e o Superior Tribunal de Justiça firmaram entendimento no sentido de que a coisa julgada formada em ação civil pública produz efeitos gerais, sem limitação territorial, conforme decidido nos Temas 1.075/STF e 480/STJ.
+Confira-se:
+"PROCESSUAL CIVIL E CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. PRÁTICA COMERCIAL ABUSIVA. LEGITIMIDADE ATIVA DO MINISTÉRIO PÚBLICO. ALCANCE OBJETIVO E SUBJETIVO DOS EFEITOS DA SENTENÇA COLETIVA. IMPOSSIBILIDADE DE RESTRIÇÃO AOS LIMITES DA COMPETÊNCIA TERRITORIAL DO ÓRGÃO PROLATOR. ENTENDIMENTO DA CORTE ESPECIAL EM RECURSO ESPECIAL REPETITIVO. TEMA 480/STJ. INCONSTITUCIONALIDADE DO ART. 16 DA LEI 7.347/85, COM A REDAÇÃO DADA PELA LEI 9.494/97. REPERCUSSÃO GERAL. TEMA 1.075/STF. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM AS JURISPRUDÊNCIAS DO STJ E DO STF. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. A Corte Especial do STJ firmou entendimento em recurso especial representativo da controvérsia, Tema 480, REsp 1.243.887/PR, no sentido de que os efeitos e a eficácia da sentença proferida no âmbito da ação civil pública não estão circunscritos a lindes geográficos, mas aos limites objetivos e subjetivos do que foi decidido, levando-se em conta, para tanto, sempre a extensão do dano e a qualidade dos interesses metaindividuais postos em juízo.
+3. O Supremo Tribunal Federal, no julgamento do Tema de Repercussão Geral nº 1.075, no RE 1.101.937, fixou a tese de ser inconstitucional a redação do art. 16 da Lei 7.347/85, alterada pela Lei 9.494/97, sendo repristinada sua redação original. Ainda, em se tratando de ação civil pública de efeitos nacionais ou regionais, a competência deve observar o art. 93, II, da Lei 8.078/90 (Código de Defesa do Consumidor).
+4. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ. 5. Agravo interno a que se nega provimento. (AgInt no AREsp 1.630.016/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/5/2024, DJe de 4/6/2024)
+Assim, tendo em vista que a ação civil pública reconheceu a nulidade da cláusula de aviso prévio nos contratos de planos de saúde coletivos, os efeitos da coisa julgada formada naquele processo alcançam a presente demanda.
+Ante o exposto, conheço do recurso especial e nego-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 12% sobre o valor da causa, os quais devem ser majorados para 15% em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+É o voto.
