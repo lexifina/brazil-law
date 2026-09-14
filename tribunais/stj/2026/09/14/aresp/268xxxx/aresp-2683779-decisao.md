@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual o SERVICO SOCIAL DA INDUSTRIA - SESI, o SERVICO NACIONAL DE APRENDIZAGEM INDUSTRIAL e o SERVICO SOCIAL DO COMERCIO - SESC - ADMINISTRACAO REGIONAL NO ESTADO DE SAO PAULO se insurgiram contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO (fls. 1.071/1.092).
+A questão debatida nos autos, qual seja, "definir se há legitimidade dos terceiros destinatários de contribuições para integrar o polo passivo de ação judicial em que se discute a relação jurídico-tributária e/ou repetição de indébito entre o contribuinte e a União ou as suas Autarquias", encontra-se afetada à Primeira Seção do Superior Tribunal de Justiça, aguardando o julgamento, sob o rito dos recursos repetitivos (Tema 1.275), do REsp 2.170. 082/SP, de relatoria do Ministro Marco Auarélio Bellizze.
+A admissão de recurso especial como representativo da controvérsia impõe o sobrestamento dos processos em que foram interpostos recursos na origem cuja matéria identifique-se com o tema afetado, para que, concluído o julgamento no Superior Tribunal de Justiça, seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 do CPC/2015.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do CPC/2015, após a publicação do acórdão dos recursos representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC/2015.
+Publique-se. Intimem-se.
+ EMENTA
