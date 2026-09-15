@@ -1,0 +1,66 @@
+DECISÃO:
+
+Vistos.
+Trata-se de agravo regimental interposto em favor de Jesse Vieira dos Santos em face de decisão monocrática a qual neguei seguimento ao habeas corpus, em razão da deficiência na instrução (e-doc. 12).
+Em suas razões, a defesa alega, em síntese, a tempestividade do recurso e que, embora não tenha juntado aos autos os documentos necessários à análise do feito, o faz nesta oportunidade.
+Por essa razão, pleiteia a reconsideração da negativa de seguimento do writ para que se analise o seu mérito.
+Considerando os argumentos expostos, a tempestividade e o princípio da celeridade processual, reconsidero a decisão pela qual neguei seguimento ao feito,  em razão da deficiência na sua instrução.
+Passo a apreciar a impetração.
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Jesse Vieira dos Santos, apontando como autoridade coatora o Superior Tribunal de Justiça, que rejeitou os embargos de declaração no AgRg no AREsp nº 2.474.010/AM, Relator Ministro Sebastião Reis Júnior (e-doc. 14).
+Consta dos autos que o paciente foi condenado à pena de 10 anos e 9 meses de reclusão, em regime inicial fechado, pela prática do crime de lavagem de capitais.
+Interpostas apelações criminais, o Tribunal Regional Federal da 1ª Região negou provimento ao recurso defensivo interposto pelo paciente.
+No âmbito do Superior Tribunal de Justiça, o Ministro Sebastião Reis Júnior não conheceu do AREsp  nº 2.474.010/AM. O agravo regimental interposto não foi conhecido, por unanimidade, pela Sexta Turma do STJ (e-doc. 18). Opostos embargos de declaração; estes foram rejeitados (e-doc. 14).
+Neste writ, a defesa narra que o próprio Ministério Público Federal reconheceu a ausência de materialidade da lavagem de capitais, alegando que o delito não se confunde com a simples existência de patrimônio supostamente proveniente de atividade ilícita — havendo a necessidade de demonstração de ocultação ou dissimulação. Questiona, ainda, a dosimetria da pena em relação às circunstâncias judiciais previstas no art. 59 do Código Penal.
+Requer, ao final:
+“1. LIMINARMENTE, diante da proximidade do trânsito em julgado previsto para 18/09/2026, a imediata suspensão de sua certificação e dos efeitos executórios da condenação impugnada até o julgamento deste habeas corpus;
+2. NO MÉRITO, COMO PEDIDO PRINCIPAL, a concessão da ordem para afastar a condenação do paciente pelo delito de lavagem de capitais, diante do constrangimento ilegal demonstrado pela prova pré-constituída, especialmente a manifestação do Ministério Público Federal de fls. 21.131/21.132, que reconheceu ausência de materialidade;
+3. SUBSIDIARIAMENTE, caso não seja possível afastar imediatamente a condenação, seja reconhecida a nulidade necessária ao efetivo enfrentamento da manifestação ministerial e da questão da materialidade;
+4. AUTONOMAMENTE E TAMBÉM EM CARÁTER SUBSIDIÁRIO, caso mantida a condenação, seja reconhecida a manifesta ilegalidade da dosimetria, afastando-se os vetores negativos desprovidos de fundamentação concreta, individualizada e autônoma;
+5. Consequentemente, seja a pena-base reduzida ao mínimo legal de 3 anos, caso afastados todos os vetores negativos, procedendo-se novamente às demais fases do sistema trifásico;
+6. Subsidiariamente ao item anterior, seja determinada ao órgão competente a realização de nova dosimetria, sem utilização de fundamentos genéricos, inerentes ao delito ou valorados mais de uma vez;
+7. Sejam recalculados todos os efeitos decorrentes da nova pena, inclusive regime inicial, situação executória, progressão, prescrição e demais consequências que eventualmente sejam afetadas pelo novo quantum.” (e-doc. 1, p. 19-20)
+
+Examinados os autos, decido.
+Transcrevo a ementa da decisão impugnada:
+
+“AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. DECISÃO AGRAVADA. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA.  SÚMULA 182/STJ. MÉRITO DO APELO NOBRE. ANÁLISE. DESCABIMENTO. JUÍZO DE ADMISSIBILIDADE DO AGRAVO NÃO ULTRAPASSADO. OFENSA A DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE EXAME.
+1. Inexistente insurgência concreta contra a fundamentação da decisão que deixou de conhecer do agravo em recurso especial, incide a Súmula 182/STJ.
+2. Não tendo sido este agravo regimental conhecido e, por conseguinte, mantida decisão que não conheceu do agravo em recurso especial, é incabível o exame das matérias veiculadas no recurso especial não admitido.
+3. É defeso a esta Corte Superior de Justiça levar a efeito exame de pretensa afronta a dispositivos constitucionais em sede de recurso especial, mesmo com o fito de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal.
+4. Agravo regimental não conhecido.” (e-doc. 18)
+
+No STJ, o Ministro Sebastião Reis Júnior no voto condutor do acórdão, destacou o seguinte:
+“(...)
+A decisão impugnada deve ser mantida pelo que nela se contém, tendo em conta que o agravante não logrou desconstituir seu fundamento, motivo pelo qual o trago ao Colegiado para ser confirmada.
+Inicialmente, esclareço que o art. 1.021, § 1º, do Código de Processo Civil, aplicável no âmbito criminal em razão do comando normativo contido no art. 3º do Código de Processo Penal, em harmonia com o princípio da dialeticidade, estabelece que, [n]a petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada.
+Com efeito, a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos, inclusive de forma específica, suficiente e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da  Súmula n. 182/STJ  (AgRg nos EDcl no AREsp n. 2.985.942/MA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/9/2025, DJEN de 25/9/2025).
+Na espécie, o agravo em recurso especial interposto pela parte agravante não foi conhecido porque não houve impugnação específica e/ou suficiente dos fundamentos da decisão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO que não admitiu o apelo nobre relativo à incidência das Súmulas    e  7/STJ, 83/STJ 284/STF, além da ausência de similitude fática para comprovação do dissídio jurisprudencial, o que atraiu a incidência da  Súmula 182/STJ  (fls.  27.104/27.107).
+Todavia, a parte agravante, neste agravo regimental, não impugnou os antes citados fundamentos, restringindo-se a afirmar que a decisão que não conheceu o agravo em recurso especial teria deixado de analisar o mérito do apelo nobre.
+(...)
+Ademais, esclareço que é defeso a esta Corte Superior de Justiça levar a efeito exame de pretensa afronta a dispositivos constitucionais em sede de recurso especial, mesmo com o fito de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal. Ilustrativamente: na via do recurso especial, é descabida a análise da alegação de ofensa a dispositivos ou princípios constitucionais, ainda que para fins de prequestionamento (EDcl no AgRg no AREsp n. 2.254.533/MG, Ministra Laurita Vaz, Sexta Turma, DJe  22/8/2023).” (e-doc. 18, p. 4-5, grifei)
+
+Pelo que há no julgado emanado pelo Superior Tribunal de Justiça, não se verifica flagrante ilegalidade, abuso de poder ou teratologia. Ao contrário, o julgado em questão mostra-se devidamente fundamentado, estando justificado o convencimento formado.
+Com efeito, conforme se vê da ementa transcrita acima, o acórdão impugnado não examinou as questões suscitadas na presente impetração. Portanto, sua apreciação, de forma originária, neste ensejo, configuraria inadmissível supressão de instância.
+Perfilhando esse entendimento, destaco os precedentes seguintes: HC nº 113.172/SP, Primeira Turma, de minha relatoria, DJe de 17/4/13; HC nº 118.836/PA-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 8/10/13; HC nº 116.857/ES-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 21/5/13; HC nº 114.583/MS, Segunda Turma, Relator o Ministro Cezar Peluso, DJe de 27/8/12; HC nº 92.264/SP, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 14/12/07; e HC nº 90.654/SP, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 25/5/07, entre outros.
+Sob outro enfoque, observo que, se as instâncias ordinárias concluíram pela existência de provas suficientes para a condenação da paciente pelo crime de lavagem de capitais, nos termos da denúncia oferecida, para se chegar a uma conclusão diversa, necessário seria o reexame de fatos e provas que o habeas corpus não comporta.
+De acordo com o entendimento da Corte é inviável a utilização do habeas corpus para se revolver o contexto fático-probatório e glosar os elementos de prova que ampararam aquela conclusão. Nesse sentido: RHC nº 105.150, Primeira Turma, de minha relatoria, DJe de 4/5/12; RHC nº 121.092/SP, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 12/5/14; HC nº 118.602/SP, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 11/3/14; e o HC nº 111.398/SP, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 3/5/12.
+Ademais, observa-se que as instâncias ordinárias apresentaram fundamentos idôneos, aptos a justificar a imposição da pena do paciente, atendendo não só aos requisitos legais como também aos princípios da individualização da pena e da proporcionalidade (e-doc. 4, p. 310).
+Sob esse enfoque, é pacífica a jurisprudência desta Corte no sentido de que “a via estreita do habeas corpus não permite que se proceda à ponderação e o reexame das circunstâncias judiciais referidas no art. 59 do Código Penal, consideradas na sentença condenatória” (HC nº 100.371/CE, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 21/5/10; HC nº 121.569/SP, Primeira Turma, de minha relatoria, DJe de 16/5/14).
+É certo, ainda, que “[a]s circunstâncias judiciais elencadas no artigo 59 do Código Penal, quando desfavoráveis, autorizam a fixação da pena-base em patamar acima do mínimo legal, bem como fixação do regime prisional fechado mais gravoso.” (HC nº 140.816-AgR/SP, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 20/6/17).
+Tem-se, portanto, que a pena privativa de liberdade imposta ao paciente foi alicerçada na indicação de circunstâncias judiciais desfavoráveis pela instância ordinária, não sendo o habeas corpus a via adequada para se revisitar o juízo feito pelas instâncias de mérito para se ponderar a respeito de qual seria a pena adequada ao caso concreto.
+Nesse sentido: RHC nº 133.974/RJ, Segunda Turma, de minha relatoria, DJe de 3/3/17; RHC nº 132.361/SP, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 22/4/16; e HC nº 87.684/AM, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 25/8/06, entre outros.
+Como bem sintetizado pelo Ministro Marco Aurélio, “[a] valoração de circunstância judicial, inserida na dosimetria da pena, envolve, de regra, justo ou injusto, não encerrando ilegalidade.” (HC nº 196.740/SP, Primeira Turma, DJe de 25/3/21).
+Por fim, importante ressaltar que a dosimetria da pena, em todas as suas fases,  é tema ligado ao mérito da ação penal, portanto, deve-se, em regra, privilegiar a conclusão adotada pelas instâncias ordinárias, porque soberanas na análise de fatos e provas. Vide:
+
+“Agravo regimental em habeas corpus. Penal e Processo Penal. Crimes tipificados no art. 316, caput, c/c o art. 327, § 2º, do CP. Alegada desproporcionalidade na fixação da pena-base. Tema não enfrentado pelo Superior Tribunal de Justiça. Supressão de instância. Dosimetria da pena. Habeas corpus. Via processual inadequada. Reexame do cotejo fático-probatório. Inadmissibilidade. Precedentes. Agravo não provido. 1. Conforme a jurisprudência da Suprema Corte, a via do habeas corpus não permite que se proceda à ponderação e ao reexame das circunstâncias judiciais referidas no art. 59 do Código Penal consideradas na sentença condenatória (HC nº 100.371/CE, Primeira Turma, Rel. Min. Ricardo Lewandowski, DJe de 21/5/10; HC nº 121.569/SP, Primeira Turma, de minha relatoria, DJe de 16/5/14). 2. “[A] dosimetria da pena, bem como os critérios subjetivos considerados pelos órgãos inferiores para a sua realização, não são passíveis de aferição na via estreita do habeas corpus, por demandar minucioso exame fático e probatório inerente a meio processual diverso” (HC nº 130.886/SP-AgR, Primeira Turma, Rel. Min. Luiz Fux,DJe de 19/6/17). 3. Agravo regimental não provido”. (HC 208624 AgR, de minha relatoria, Primeira Turma, DJe de 25/04/2022)
+
+“AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. REDIMENSIONAMENTO DA SANÇÃO PENAL. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICOPROBATÓRIO QUE CARACTERIZA INDEVIDA SUPRESSÃO DE INSTÂNCIA. AGRAVO A QUE SE NEGA PROVIMENTO” (RHC nº 178.506-AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe de 16/3/20).
+
+Ante o exposto, reconsidero a decisão agravada (e-doc. 12), restando prejudicado o agravo regimental contra ela interposto (e-doc. 13) e, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao habeas corpus, prejudicado o pedido liminar.
+
+Publique-se.
+Brasília, 15 de setembro de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
