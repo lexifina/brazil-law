@@ -1,0 +1,504 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 13
+
+15/09/2026
+
+SEGUNDA TURMA
+
+AG.REG. NO HABEAS CORPUS 275.928 DISTRITO FEDERAL
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. DIAS TOFFOLI
+: PHILIPP BOHM
+: WILLIAM ALBUQUERQUE DE SOUSA FARIA
+: ARIEL RODRIGUES ROCCO
+: SUPERIOR TRIBUNAL DE JUSTIÇA
+EMENTA
+
+Agravo regimental em habeas corpus. Matéria criminal.
+Condenação. Delito previsto no art. 1º, inciso I, c/c o art. 12, inciso I, da
+Lei nº 8.137/90. Inviabilidade do uso do writ como sucedâneo recursal.
+Pleito de reconhecimento da não suspensão dos prazos prescricionais.
+Extinção da punibilidade por prescrição da pretensão punitiva
+retroativa. Teses suscitadas pela defesa não apreciadas pelo Superior
+Tribunal de Justiça. Supressão de instância. Inadmissibilidade.
+Reexame de fatos e provas. Ausência de flagrante teratologia,
+ilegalidade manifesta ou abuso de poder. Decisão agravada em
+harmonia com entendimento consolidado pela Suprema Corte.
+Manutenção da decisão por seus próprios fundamentos. Agravo ao qual
+se nega provimento.
+1. A decisão atacada não merece reforma, uma vez que seus
+fundamentos se harmonizam estritamente com o entendimento
+consolidado pela Suprema Corte.
+2. O recurso mostra-se inviável, na medida em que contém apenas a
+reiteração dos argumentos de defesa anteriormente expostos, sem, no
+entanto, revelar quaisquer elementos capazes de afastar as razões
+expressas na decisão agravada, a qual deve ser mantida por seus próprios
+fundamentos.
+3. Agravo ao qual se nega provimento.
+ACÓRDÃO
+A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto do Relator, Ministro Dias Toffoli.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código FC23-9A0F-1BB2-F953 e senha FE65-6E63-CD9D-FEDD
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 13
+
+HC 275928 AGR / DF
+Brasília, 15 de setembro de 2026.
+Ministro DIAS TOFFOLI
+Relator
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código FC23-9A0F-1BB2-F953 e senha FE65-6E63-CD9D-FEDD
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 13
+
+AG.REG. NO HABEAS CORPUS 275.928 DISTRITO FEDERAL
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. DIAS TOFFOLI
+: PHILIPP BOHM
+: WILLIAM ALBUQUERQUE DE SOUSA FARIA
+: ARIEL RODRIGUES ROCCO
+: SUPERIOR TRIBUNAL DE JUSTIÇA
+RELATÓRIO
+
+O SENHOR MINISTRO DIAS TOFFOLI (RELATOR):
+Trata-se de agravo regimental interposto contra decisão monocrática
+de negativa de seguimento ao habeas corpus lastreada em entendimento
+jurisprudencial desta Suprema Corte (e-doc. 17).
+O agravante reitera os argumentos anteriormente expostos na inicial
+do presente writ e, ao final, requer a reconsideração da decisão agravada
+ou o provimento do presente recurso (e-doc. 18).
+A vista à Procuradoria-Geral da República foi dispensada, nos termos
+do parágrafo único do art. 52 do Regimento Interno do Supremo Tribunal
+Federal.
+É o relatório.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código ED80-BE83-BC00-DC63 e senha 8CB0-E88C-60C2-E181
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 4 de 13
+
+AG.REG. NO HABEAS CORPUS 275.928 DISTRITO FEDERAL
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. DIAS TOFFOLI
+: PHILIPP BOHM
+: WILLIAM ALBUQUERQUE DE SOUSA FARIA
+: ARIEL RODRIGUES ROCCO
+: SUPERIOR TRIBUNAL DE JUSTIÇA
+VOTO
+
+O SENHOR MINISTRO DIAS TOFFOLI (RELATOR):
+A irresignação não merece prosperar, porquanto o agravante não
+apresentou fundamentos aptos a modificar o entendimento
+anteriormente adotado.
+Com efeito, a decisão ora atacada não merece reforma, uma vez que
+seus fundamentos se harmonizam estritamente com o entendimento
+consolidado por esta Suprema Corte.
+Nesse sentido, transcrevo a decisão questionada:
+“Trata-se de habeas corpus, com pedido liminar,
+impetrado em favor de Philipp Bohm, apontando como
+autoridade coatora o Superior Tribunal de Justiça, que rejeitou
+os embargos de declaração no AgRg no HC nº 1.074.289/SP,
+Relator o Ministro Ribeiro Dantas.
+Consta dos autos a condenação, em primeira instância, às
+penas de 4 (quatro) anos, 4 (quatro) meses e 15 (quinze) dias de
+reclusão, em regime inicial semiaberto, e 220 dias-multa, pela
+prática do delito previsto no art. 1°, inciso I, c/c o artigo 12,
+inciso I, ambos da Lei nº 8.137/90 (e-doc. 11).
+Interposta apelação criminal, a 5ª Turma do Tribunal
+Regional Federal da 3ª Região deu parcial provimento ao
+recurso defensivo, a fim de redimensionar a pena definitiva
+cominada ao paciente para 3 (três) anos e 6 (seis) meses de
+reclusão, em regime aberto, substituída por duas penas
+restritivas de direitos, e pagamento de 16 dias-multa (e-doc. 12).
+Opostos embargos de declaração; estes foram rejeitados
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3542-050E-653F-6C86 e senha 293E-A4BD-A1E1-223B
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 5 de 13
+
+HC 275928 AGR / DF
+(e-doc. 2).
+No âmbito do Superior Tribunal de Justiça, o habeas corpus
+impetrado não foi conhecido. Irresignada, a defesa interpôs
+agravo regimental; este foi improvido (e-doc. 13). Os embargos
+de declaração opostos foram rejeitados (e-doc. 14).
+Neste writ, defende-se a perpetração de constrangimento
+ilegal diante da ocorrência da prescrição da pretensão punitiva
+retroativa e extinção da punibilidade, tendo em vista que
+pugna-se o reconhecimento de que a suspensão do prazo
+prescricional nunca ocorreu devido à não inserção da pessoa
+jurídica devedora de tributos em qualquer regime de
+parcelamento junto ao Fisco.
+Requer, ao final:
+‘(i) a concessão da medida liminar, nos termos do tópico
+VI supra, para suspender o início do cumprimento da
+reprimenda imposta ao PACIENTE e sustar a expedição de
+mandado de prisão e/ou de guia de execução nos autos do
+processo n° 0006355-63.2015.4.03.6181, até o julgamento final do
+presente writ;
+(ii) a requisição de informações à autoridade apontada
+como coatora, caso Vossa Excelência entenda necessário, e a
+posterior remessa dos autos à douta Procuradoria-Geral da
+República;
+(iii) no mérito, seja CONCEDIDA A ORDEM, ainda que
+de ofício (por tratar-se de matéria de ordem pública), para
+reconhecer que nunca houve suspensão dos prazos
+prescricionais nos autos do processo n° 000635563.2015.4.03.6181 e, ao fim, para DECRETAR EXTINTA A
+PUNIBILIDADE do PACIENTE, pela ocorrência da prescrição
+da pretensão punitiva retroativa, decorrida entre a data da
+constituição definitiva do crédito tributário (27/02/2012) e a data
+do recebimento da denúncia (04/05/2021), nos termos dos arts.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3542-050E-653F-6C86 e senha 293E-A4BD-A1E1-223B
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 6 de 13
+
+HC 275928 AGR / DF
+107, inciso IV, 109, inciso IV, e 110, § 1º, todos do Código Penal.’
+(e-doc. 1, p. 17)
+
+Examinados os autos, decido.
+Transcrevo a ementa do acórdão recorrido:
+‘DIREITO
+PROCESSUAL
+PENAL.
+AGRAVO
+REGIMENTAL EM HABEAS CORPUS. HABEAS CORPUS
+COMO SUCEDÂNEO RECURSAL. PRESCRIÇÃO PENAL.
+CAUSA SUSPENSIVA DO PRAZO PRESCRICIONAL (ART.
+9º DA LEI 10.684/2003). NECESSIDADE DE ANÁLISE
+FÁTICO-ADMINISTRATIVA. AGRAVO IMPROVIDO.
+I. Caso em exame
+1. O recurso. Agravo regimental interposto contra decisão
+que não conheceu de habeas corpus destinado a reconhecer a
+ocorrência de prescrição da pretensão punitiva retroativa.
+2. Fato relevante. Condenação por delito do art. 1º, inciso
+I, da Lei nº 8.137/1990, mantida em grau recursal. Na
+impetração originária, a defesa alegou inexistência de causa
+válida de suspensão do prazo prescricional por ausência de
+efetiva adesão a parcelamento tributário apto a ensejar a
+incidência do art. 9º da Lei nº 10.684/2003.
+3. As decisões anteriores. Decisão agravada não conheceu
+do habeas corpus por inadequação da via eleita e ausência de
+flagrante ilegalidade, ao fundamento de que a tese demandaria
+reavaliação do contexto fático-administrativo da suspensão do
+feito, incompatível com a via mandamental. Nas razões, a
+defesa afirmou posterior interposição de agravo em recurso
+especial e sustentou que a matéria seria exclusivamente
+jurídica, requerendo o reconhecimento da prescrição.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o habeas
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3542-050E-653F-6C86 e senha 293E-A4BD-A1E1-223B
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 7 de 13
+
+HC 275928 AGR / DF
+corpus pode ser conhecido como via adequada, não obstante a
+orientação que veda seu uso como sucedâneo recursal, e apesar
+da existência de recurso próprio interposto.
+5. A questão em discussão consiste em saber se há
+flagrante ilegalidade decorrente da manutenção da persecução
+penal apesar da alegada prescrição, à vista da controvérsia
+sobre a incidência da causa suspensiva do art. 9º da Lei nº
+10.684/2003 diante da inexistência de parcelamento efetivo.
+6. A questão em discussão consiste em saber se a solução
+da controvérsia demanda incursão em elementos fáticoadministrativos e probatórios incompatível com os estreitos
+limites cognitivos do habeas corpus.
+III. Razões de decidir
+7. A Corte, em consonância com a orientação do
+Supremo Tribunal Federal, não admite o habeas corpus como
+substitutivo de recurso próprio, ressalvadas hipóteses
+excepcionais de flagrante ilegalidade; a simultaneidade com
+recurso cabível recomenda contenção procedimental para
+evitar duplicidade de apreciação da mesma controvérsia.
+8. A decisão agravada não se limitou ao reconhecimento
+da inadequação da via eleita, tendo examinado a existência de
+eventual constrangimento ilegal manifesto e concluído pela sua
+inexistência.
+9. A suspensão do feito foi decretada com base em
+informações administrativas então constantes dos autos e
+acolhidas judicialmente; a posterior informação fazendária
+sobre inexistência de parcelamento não autoriza, de forma
+automática, concluir que a suspensão era inválida desde a
+origem.
+10. A solução demanda análise do contexto
+administrativo que ensejou a suspensão, da natureza e dos
+efeitos das tratativas existentes e da extensão jurídica dos atos
+praticados na persecução penal, providência que ultrapassa os
+limites cognitivos do habeas corpus por envolver revolvimento
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3542-050E-653F-6C86 e senha 293E-A4BD-A1E1-223B
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 8 de 13
+
+HC 275928 AGR / DF
+fático-probatório.
+11. Inexistência de teratologia nas decisões das instâncias
+ordinárias, que examinaram cronologia dos fatos, marcos
+interruptivos e incidência da causa suspensiva, concluindo
+fundamentadamente pela não ocorrência de prescrição.
+12. Os argumentos recursais evidenciam inconformismo,
+sem elementos aptos a infirmar os fundamentos da decisão
+agravada.
+IV. Dispositivo e tese
+13. Resultado do Julgamento:
+improvido.’ (e-doc. 13, grifei)
+
+Agravo
+
+regimental
+
+No STJ, o Ministro Ribeiro Dantas, no voto condutor do
+acórdão, destacou o seguinte:
+‘(...)
+O agravo regimental não merece provimento.
+Conforme consignado na decisão agravada, esta Corte,
+em consonância com a orientação do Supremo Tribunal
+Federal, não admite o emprego do habeas corpus como
+substitutivo de recurso próprio, ressalvadas hipóteses
+excepcionais de flagrante ilegalidade.
+A defesa sustenta que houve posterior interposição do
+agravo em recurso especial, circunstância que, na verdade,
+recomenda contenção procedimental a fim de evitar apreciação
+paralela da mesma controvérsia por vias autônomas. Embora o
+writ possua estatura constitucional e não ostente natureza
+recursal, sua utilização simultânea ao recurso cabível não
+pode conduzir à duplicidade de apreciação jurisdicional da
+mesma insurgência, sob pena de comprometimento da
+racionalidade do sistema processual e de esvaziamento da
+organicidade recursal estabelecida pela legislação processual.
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3542-050E-653F-6C86 e senha 293E-A4BD-A1E1-223B
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 9 de 13
+
+HC 275928 AGR / DF
+De todo modo, quando da prolação da decisão
+monocrática, não havia notícias nos autos acerca da efetiva
+interposição do referido agravo. Ademais, a decisão agravada
+não se limitou ao reconhecimento da inadequação da via eleita,
+tendo procedido ao exame da existência de eventual
+constrangimento ilegal manifesto, concluindo pela sua
+inexistência.
+No ponto, a agravante afirma que a controvérsia seria
+exclusivamente jurídica, dispensando qualquer incursão sobre
+matéria fática, porquanto a própria Procuradoria-Geral da
+Fazenda Nacional teria informado inexistir efetivo
+parcelamento dos débitos tributários.
+Todavia, a tese não autoriza o reconhecimento imediato
+da ilegalidade apontada.
+Com efeito, a suspensão do feito não decorreu de mera
+construção abstrata ou de presunção destituída de lastro
+concreto, mas de informações então encaminhadas aos autos e
+acolhidas judicialmente, produzindo efeitos processuais no
+curso da persecução penal.
+A pretensão defensiva pressupõe reconhecer que a causa
+suspensiva seria desprovida de suporte jurídico desde a
+origem, apesar de ter sido decretada com base no contexto
+administrativo então apresentado. A posterior manifestação
+fazendária no sentido de que os débitos não foram
+efetivamente parcelados não conduz, automaticamente, à
+conclusão de que a suspensão anteriormente decretada fosse
+inválida desde o início.
+Isso porque a solução da controvérsia não se limita à
+constatação objetiva da inexistência de parcelamento formal,
+exigindo a análise do contexto administrativo que ensejou a
+suspensão do feito, da natureza e dos efeitos das tratativas
+então existentes, bem como da própria extensão jurídica dos
+atos praticados no curso da persecução penal. Tal providência
+ultrapassa os estreitos limites cognitivos do habeas corpus,
+incompatível com incursão aprofundada sobre elementos
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3542-050E-653F-6C86 e senha 293E-A4BD-A1E1-223B
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 10 de 13
+
+HC 275928 AGR / DF
+fático-probatórios.
+Além disso, não se verifica manifesta teratologia no
+entendimento adotado pelas instâncias ordinárias, as quais
+examinaram expressamente a cronologia dos fatos, os marcos
+interruptivos e a incidência da causa suspensiva, concluindo,
+de forma fundamentada, pela não ocorrência da prescrição.
+Os argumentos deduzidos no presente recurso revelam
+mero inconformismo com a solução adotada, sem
+demonstração de elementos aptos a infirmar os fundamentos da
+decisão agravada.’ (e-doc. 13, p. 4-5, grifei)
+
+Pelo que há no julgado proferido pela Quinta Turma do
+Superior Tribunal de Justiça, não se verifica flagrante
+ilegalidade, abuso de poder ou teratologia. Ao contrário, o
+julgado em questão mostra-se devidamente fundamentado,
+estando justificado o convencimento formado.
+Inicialmente, ressalto que o Supremo Tribunal Federal
+consolidou jurisprudência no sentido da inviabilidade de
+utilização do habeas corpus como sucedâneo recursal, salvo
+em caso de manifesta ilegalidade. Assim, por exemplo:
+’AGRAVO REGIMENTAL NO HABEAS CORPUS.
+SUBSTITUTIVO
+DE
+RECURSO
+ORDINÁRIO.
+INADEQUAÇÃO DA VIA ELEITA. WRIT SUCEDÂNEO DE
+RECURSO OU REVISÃO CRIMINAL. INVIABILIDADE.
+FURTO QUALIFICADO. SUBSTITUIÇÃO DA PENA
+PRIVATIVA DE LIBERDADE POR PENA RESTRITIVA DE
+DIREITOS. SUPRESSÃO DE INSTÂNCIA. 1. Contra a
+denegação de habeas corpus por Tribunal Superior prevê a
+Constituição Federal remédio jurídico expresso, o recurso
+ordinário. Diante da dicção do art. 102, II, a, da Constituição da
+República, a impetração de novo habeas corpus em caráter
+substitutivo escamoteia o instituto recursal próprio, em
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3542-050E-653F-6C86 e senha 293E-A4BD-A1E1-223B
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 11 de 13
+
+HC 275928 AGR / DF
+manifesta burla ao preceito constitucional. 2. Inadmissível o
+emprego do habeas corpus como sucedâneo de recurso ou
+revisão criminal. Precedentes. 3. Inviável o exame da tese
+defensiva não analisada pelo Superior Tribunal de Justiça, sob
+pena de indevida supressão de instância. 4. Agravo regimental
+conhecido e não provido’. (HC 143439 AgR, Rel. Min. ROSA
+WEBER, Primeira Turma, DJe de 27/09/2017, grifei)
+
+Ainda que superado o óbice, quanto à tese suscitada pela
+defesa — a extinção da punibilidade do paciente por
+ocorrência da prescrição da pretensão punitiva retroativa —,
+esta não foi apreciada pelo Superior Tribunal de Justiça.
+Portanto, sua apreciação, de forma originária, neste ensejo,
+configuraria inadmissível supressão de instância.
+Perfilhando esse entendimento, destaco os precedentes
+seguintes: HC nº 113.172/SP, Primeira Turma, de minha
+relatoria, DJe de 17/4/13; HC nº 118.836/PA-AgR, Segunda
+Turma, Relatora a Ministra Cármen Lúcia, DJe de 8/10/13; HC
+nº 116.857/ES-AgR, Segunda Turma, Relator o Ministro Teori
+Zavascki, DJe de 21/5/13; HC nº 114.583/MS, Segunda Turma,
+Relator o Ministro Cezar Peluso, DJe de 27/8/12; HC nº
+92.264/SP, Primeira Turma, Relator o Ministro Menezes
+Direito, DJ de 14/12/07; e HC nº 90.654/SP, Primeira Turma,
+Relator o Ministro Sepúlveda Pertence, DJ de 25/5/07, entre
+outros.
+Por fim, ressalta-se que para o acolhimento das teses
+defensivas, seria indispensável o reexame de todo conjunto
+fático-probatório, fato esse inviável na via estreita do habeas
+corpus, que não admite dilação probatória, nos termos da
+jurisprudência pacífica desta Suprema Corte.
+Ante o exposto, nos termos do art. 21, § 1º, do Regimento
+Interno do Supremo Tribunal Federal, nego seguimento ao
+presente habeas corpus, prejudicado o pedido liminar.
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3542-050E-653F-6C86 e senha 293E-A4BD-A1E1-223B
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 12 de 13
+
+HC 275928 AGR / DF
+Publique-se” (e-doc. 17).
+
+Concluo, desse modo, que os argumentos apresentados pelo
+agravante são insuficientes para modificar a decisão ora agravada, razão
+pela qual ela deve ser mantida.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3542-050E-653F-6C86 e senha 293E-A4BD-A1E1-223B
+
+Supremo Tribunal Federal
+Extrato de Ata - 15/09/2026
+
+Inteiro Teor do Acórdão - Página 13 de 13
+
+SEGUNDA TURMA
+
+EXTRATO DE ATA
+
+AG.REG. NO HABEAS CORPUS 275.928
+PROCED. : DISTRITO FEDERAL/DF
+RELATOR(A): MIN. DIAS TOFFOLI
+AGTE.(S): PHILIPP BOHM
+ADV.(A/S): WILLIAM ALBUQUERQUE DE SOUSA FARIA (336388/SP)
+ADV.(A/S): ARIEL RODRIGUES ROCCO (449534/SP)
+AGDO.(A/S): SUPERIOR TRIBUNAL DE JUSTIÇA
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto do Relator, Ministro Dias Toffoli.
+Segunda Turma, Sessão Virtual de 4.9.2026 a 14.9.2026.
+Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes,
+Dias Toffoli, Nunes Marques e André Mendonça.
+Thiago Fernandes Lins
+Secretário da Segunda Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código ADBF-A11E-45AD-85AA e senha 9C29-A23B-B8D3-3982
