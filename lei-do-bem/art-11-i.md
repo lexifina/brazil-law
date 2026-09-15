@@ -1,0 +1,2 @@
+Art. 11-I. Os recursos referidos no inciso V do § 1º e no § 6º do art. 11-B desta Lei serão aplicados no financiamento de programas e projetos de fomento à cadeia produtiva da economia digital.
+Parágrafo único. Do total de recursos de que trata o caput deste artigo serão aplicados, no mínimo, 40% (quarenta por cento) em programas e projetos destinados às Regiões Norte, Nordeste e Centro-Oeste, incluídas as respectivas áreas de abrangência das agências de desenvolvimento regional.
