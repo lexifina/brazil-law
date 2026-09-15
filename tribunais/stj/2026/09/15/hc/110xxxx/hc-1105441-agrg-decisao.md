@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo regimental interposto por RODOLFO FILIPE MARTINS contra decisão monocrática proferida pelo Ministro Presidente desta Corte, por meio da qual se indeferiu liminarmente o habeas corpus (fls. 107-109).
+Consta dos autos a prisão preventiva do paciente, ora agravante, pela suposta prática do delito capitulado no art. 33, caput, c/c art. 40, inciso V, da Lei 11.343/2006, termos em que denunciado.
+Nas razões do agravo regimental, sustenta a necessidade de superação excepcional da Súmula 691 do STF por flagrante ilegalidade e teratologia na decisão impugnada, apontando que o Tribunal de origem manteve o curso da ação penal e a custódia cautelar perante juízo estadual absolutamente incompetente, além de não enfrentar nulidades absolutas; afirma a incompetência da Justiça Estadual em razão da conexão instrumental e probatória entre o tráfico interestadual e o descaminho dos 300 celulares estrangeiros apreendidos no mesmo tempo, local e veículo, invocando a atração da competência federal por prevenção; aponta nulidade absoluta da busca veicular por ausência de fundada suspeita, por ter decorrido de denúncia anônima sem monitoramento prévio idôneo, com violação do art. 244 do CPP; alega quebra da cadeia de custódia da prova pericial, em violação aos arts. 158-A a 158-F do CPP; e, por fim, afirma a desproporcionalidade da prisão preventiva, por se apoiar na gravidade abstrata e na quantidade de droga, apesar de condições pessoais favoráveis.
+Requer o provimento do agravo regimental para superar a Súmula n. 691 do Supremo Tribunal Federal e admitir o processamento do habeas corpus, com a concessão da ordem para reconhecer a incompetência absoluta da Justiça Estadual e remeter o feito à Justiça Federal; ou, subsidiariamente, para declarar a nulidade da busca veicular por ausência de fundada suspeita, ou a nulidade dos laudos periciais por quebra da cadeia de custódia, bem como para revogar a prisão preventiva, substituindo-a por medidas cautelares alternativas.
+O MPF manifestou-se pelo desprovimento do agravo regimental, com aplicação da Súmula n. 691 do Supremo Tribunal Federal (fls. 138-140).
+É o relatório
+Decido.
+Após consulta ao sítio eletrônico do Tribunal de origem, verificou-se que a decisão do Desembargador Relator da impetração originária (HC n. 2143501-70.2026.8.26.0000/SP), questionada no presente habeas corpus, foi substituída pelo julgamento de mérito realizado em 27/07/2026.
+Dessa forma, conforme entendimento consolidado desta Corte Superior de Justiça, está configur ada a prejudicialidade do habeas corpus e dos recursos subsequentes, uma vez que a insurgência se limitava ao indeferimento do pedido liminar na instância de origem.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT CONTRA DECISÃO QUE INDEFERIU LIMINAR NO HABEAS CORPUS. SUPERVENIÊNCIA DE ACÓRDÃO NA ORIGEM. PREJUDICIALIDADE. REITERAÇÃO DE MATÉRIA SUSCITADA EM OUTRA IMPETRAÇÃO. AGRAVO DESPROVIDO.
+1. A decisão agravada julgou prejudicado o recurso no writ impetrado contra ato de Desembargador Relator que indeferiu liminar em habeas corpus.
+2. Segundo orientação do STJ, "na hipótese de habeas corpus contra liminar de Desembargador, é correta a declaração de prejudicialidade do pedido de superação da Súmula n. 691 do STF se sobrevém o julgamento de mérito da impetração requerida ao Tribunal de Justiça. O acórdão denegatório da ordem desafia impugnação própria, não sendo mais necessária a subversão à regular ordem de competências" (AgRg no HC n. 737.749/MG, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe de 17/8/2023).
+3. A irresignação veicula pedido e causa de pedir análogos aos formulados no HC 920.733/SP. Diante de inadmissível reiteração, resta obstaculizado o processamento do agravo.
+4. Agravo regimental desprovido.
+(AgRg no AgRg no HC n. 894.357/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024; grifamos.)
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. WRIT IMPETRADO CONTRA O INDEFERIMENTO DO PEDIDO LIMINAR NA ORIGEM. SÚMULA N. 691/STF. SUPERVENIENTE JULGAMENTO DO MÉRITO. DECISÃO TERMINATIVA QUE DESAFIA IMPUGNAÇÃO PRÓPRIA. PREJUDICIALIDADE. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O julgamento superveniente, na origem, do mérito do habeas corpus impetrado prejudica a análise do writ que se insurgia, nesta Corte Superior de Justiça, contra a decisão liminar de Desembargador. Precedentes desta Corte e do Supremo Tribunal Federal.
+2. Agravo regimental não provido.
+(AgRg no AgRg no HC n. 929.972/ES, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 27/11/2024, DJEN de 2/12/2024; grifamos.)
+Ante o exposto, julgo prejudicado o agravo regimental.
+Publique-se. Intimem-se.
+ EMENTA
