@@ -1,0 +1,21 @@
+DECISÃO
+MARCOS ANTONIO BARBOSA JUNIOR alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Habeas Corpus n. 2094905-55.2026.8.26.0000.
+Consta dos autos que o paciente foi condenado a 15 anos de reclusão e ao pagamento de 1.500 dias-multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, e a 3 anos de reclusão e ao pagamento de 10 dias-multa, pela prática do crime previsto no art. 311, § 2º, III, do Código Penal, em regime inicial fechado. A sentença negou ao paciente o direito de recorrer em liberdade.
+A defesa sustenta, em síntese, que a sentença condenatória não fundamentou a manutenção da custódia preventiva. Aduz que o paciente é primário, tem bons antecedentes e residência fixa e não há pressupostos para a segregação cautelar. Acrescenta que a presunção de inocência lhe garante aguardar em liberdade o julgamento da apelação.
+Requer, assim, a revogação da prisão preventiva ou a imposição de medidas cautelares alternativas, nos termos do art. 319 do CPP.
+Indeferida a liminar (fls. 67-68), o Ministério Público Federal opinou pela denegação da ordem (fls. 73-78).
+Decido.
+A jurisprudência desta Corte assevera que não se justifica conceder ao condenado o direito de recorrer em liberdade quando permaneceu preso durante toda a instrução criminal e subsistem os fundamentos da prisão preventiva.
+Nesse sentido:
+  A orientação pacificada nesta Corte Superior é no sentido de que não há lógica em deferir ao condenado o direito de recorrer solto quando permaneceu segregado durante a persecução criminal, se persistentes os motivos para a preventiva.
+(AgRg no HC n. 889.447/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 20/5/2024, DJe de 22/5/2024.)
+No caso dos autos, por ocasião da audiência de custódia, o Juízo de primeiro grau converteu a prisão em flagrante em preventiva, considerando a apreensão de mais de 70 kg de maconha, fracionados em tijolos e porções menores, bem como de petrechos próprios do tráfico (balanças de precisão, seladora a vácuo e cadernos de contabilidade), além da manutenção, no mesmo imóvel, de veículo produto de furto com sinais identificadores adulterados (fls. 36-44). O pedido de revogação foi posteriormente indeferido, com reiteração dos mesmos fundamentos (fls. 45-48).
+A sentença condenatória, ao negar o direito de recorrer em liberdade, manteve a custódia amparada nesse mesmo acervo de fundamentos, e o Tribunal de Justiça do Estado de São Paulo, ao apreciar o habeas corpus impetrado na origem, expressamente reconheceu que (fls. 13-16):
+  A prisão antecipada foi determinada pelo Emérito Juízo de 1ª Instância, após requerimento do Ministério Público, e mantida em sentença, restando amparada em elementos idôneos e suficientemente fundamentada, se mostrando adequada e suficiente à garantia da ordem pública e aplicação da lei penal.
+Tais elementos evidenciam a gravidade concreta dos delitos cometidos, a ensejar, por conseguinte, a necessidade de manutenção da custódia preventiva para a garantia da ordem pública.
+Não prospera, ademais, a sustentada afronta à presunção de inocência (art. 5º, LVII, da Constituição Federal) e aos tratados internacionais invocados na inicial. A prisão preventiva, quando fundamentada em elementos concretos, como na espécie, não se confunde com antecipação de pena; destina -se a resguardar a ordem pública durante a persecução penal, sem violar a presunção de não culpabilidade.
+Em acréscimo, esclareço à defesa que condições pessoais favoráveis do paciente, como primariedade, bons antecedentes e residência fixa, não afastam, por si sós, a prisão preventiva quando a medida se encontra devidamente fundamentada.
+Tampouco se mostra adequada, no caso, a substituição da custódia pelas medidas cautelares previstas no art. 319 do Código de Processo Penal, sobretudo porque sua insuficiência foi concretamente reconhecida pelas instâncias ordinárias (fls. 36-44 e 45-48), em consonância com a jurisprudência desta Corte (AgRg no RHC n. 221.283/SC, Rel. Ministra Maria Marluce Caldas, Quinta Turma, julgado em 24/6/2026, DJEN de 16/7/2026).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
