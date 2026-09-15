@@ -1,0 +1,6 @@
+Art. 11-H. O descumprimento da condição de disponibilizar fornecimento efetivo, nos termos do inciso I do § 1º do art. 11-B desta Lei, implicará suspensão dos benefícios em novas aquisições, na forma estabelecida em regulamento.
+§ 1º A suspensão referida no caput deste artigo será automaticamente convertida em cancelamento da habilitação ao Redata, no caso de a pessoa jurídica não sanar a infração no prazo de 180 (cento e oitenta) dias, contado da data da notificação de suspensão.
+§ 2º Da decisão administrativa que determinar a suspensão dos benefícios do Redata ou o cancelamento da habilitação ao Redata cabe recurso, sem efeito suspensivo.
+§ 3º O processo administrativo de que trata este artigo será regido pela Lei nº 9.784, de 29 de janeiro de 1999 (Lei do Processo Administrativo Federal).
+§ 4º Durante o período em que perdurar a suspensão, a pessoa jurídica com habilitação suspensa, ou o grupo econômico do qual ela participe, não poderá fruir dos benefícios do Redata.
+§ 5º Na hipótese de cancelamento da habilitação ao Redata na forma do disposto neste artigo, a pessoa jurídica excluída e o grupo econômico do qual faça parte somente poderão efetuar nova adesão ao Redata após o decurso do prazo de 2 (dois) anos, contado da data do cancelamento.

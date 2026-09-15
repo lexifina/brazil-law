@@ -1,0 +1,1 @@
+Art. 11-G. Na hipótese de não ser efetuado o recolhimento dos tributos suspensos na forma do disposto nos arts. 11-D, 11-E ou 11-F desta Lei, caberá lançamento de ofício, com aplicação de juros e da multa de que trata o art. 44 da Lei nº 9.430, de 27 de dezembro de 1996.
