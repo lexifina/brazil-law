@@ -1,0 +1,1 @@
+Art. 36-A. Os valores decorrentes das multas aplicadas com base nesta Lei serão destinados, pelo prazo de 5 (cinco) anos, ao Fundo Nacional para a Criança e o Adolescente, instituído pela Lei nº 8.242, de 12 de outubro de 1991, e serão utilizados necessariamente em políticas e projetos que tenham por objetivo a proteção de crianças e de adolescentes.
