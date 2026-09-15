@@ -1,0 +1,4 @@
+Resolução Nº 5.341 RESOLUÇÃO CMN Nº 5.341, DE 14 DE SETEMBRO DE 2026
+Altera a Resolução CMN nº 5.304, de 20 de maio de 2026, em virtude da conversão da Medida Provisória nº 1.366, de 12 de junho de 2026, na Lei nº 15.503, de 14 de setembro de 2026, que prevê as linhas de financiamento anteriormente autorizadas pela Medida Provisória nº 1.359, de 19 de maio de 2026, destinadas à aquisição de veículos automotores novos por profissionais de transporte remunerado privado individual de passageiros, taxistas e cooperativas de taxistas.
+O Banco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, torna público que o Conselho Monetário Nacional, em sessão extraordinária realizada em 14 de setembro de 2026, tendo em vista o disposto no art. 4º, caput, inciso VI, da Lei nº 4.595, de 31 de dezembro de 1964, e com base na Lei nº 15.503, de 14 de setembro de 2026,
+R E S O L V E U :
