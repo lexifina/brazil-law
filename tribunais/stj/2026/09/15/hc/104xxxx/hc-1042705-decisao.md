@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de LUIZ EDUARDO LINDOLPHO FERNANDES contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL no julgamento do Agravo de Execução Penal n. 1604729-22.2025.8.12.0000.
+Extraio dos autos que o paciente cumpre pena unificada de 24 (vinte e quatro) anos e 6 (seis) meses de reclusão, em regime fechado, pela prática de crimes de uso de documento falso, roubo majorado e tráfico de drogas. No curso da execução, sobreveio decisão em revisão criminal que reduziu a reprimenda imposta pelo crime de tráfico para 8 (oito) anos e 9 (nove) meses de reclusão.
+Neste remédio constitucional, a defesa sustenta a ilegalidade na manutenção da data-base para progressão de regime em 25/05/2023 (data da última falta grave homologada), argumentando que a redução da pena operada pela revisão criminal deveria retroagir para antecipar o marco de benefícios. Alega, ainda, constrangimento ilegal pela demora na homologação judicial da referida falta grave.
+O pedido de liminar foi indeferido.
+As informações foram prestadas pelas instâncias ordinárias.
+O MINISTÉRIO PÚBLICO FEDERAL manifestou-se pelo não conhecimento da impetração e, no mérito, pela denegação da ordem.
+É o relatório. DECIDO.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+No caso em exame, registro que não constato ilegalidade manifesta que justifique a concessão da ordem de ofício. O TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL fundamentou que a fração para progressão de regime deve incidir sobre o saldo remanescente da pena após a interrupção causada pela falta grave cometida em 25/5/2023, nos termos do art. 42 do Código Penal e em consonância com a Súmula n. 534, STJ.
+Constato que o cálculo de pena já observou a redução da reprimenda operada pela revisão criminal, incidindo os abatimentos de tempo cumprido e remido de forma adequada sobre a totalidade da sanção. No que tange à demora na homologação da falta grave, observo que o procedimento observou o contraditório e a ampla defesa, não se verificando desídia estatal que invalide o marco interruptivo.
+De todo modo, não verifico a presença de ilegalidade flagrante que desafie a concessão da ordem de ofício, nos termos do §2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea "a", do RISTJ, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
