@@ -1,0 +1,460 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Superior do Trabalho
+PROCESSO Nº TST-RR - 479-10.2012.5.04.0301
+A C Ó R D Ã O
+6ª Turma
+GDCEBC/eliz
+I – ESCLARECIMENTO INICIAL
+Em razão de recurso extraordinário interposto pela reclamada
+OI S.A., retornam os autos da Vice-Presidência do TST para
+exame de eventual juízo de retratação quanto ao recurso de
+revista da empresa, ante as teses jurídicas fixadas pelo STF no
+julgamento dos Temas 383 e 725 da Tabela de Repercussão
+Geral.
+II – RECURSO DE REVISTA. OI S.A. ANTERIOR À VIGÊNCIA DA LEI
+Nº 13.467/2017
+APRECIAÇÃO DE EVENTUAL JUÍZO DE RETRATAÇÃO
+LICITUDE DA TERCEIRIZAÇÃO DE SERVIÇOS LIGADOS À
+ATIVIDADE-FIM DA TOMADORA DE SERVIÇOS. TESES
+VINCULANTES DO STF
+Sinale-se, de início, que o caso sob exame não tem aderência
+estrita ao Tema 29 da Tabela de IRR: “À luz da jurisprudência
+vinculante firmada pelo Supremo Tribunal Federal na ADPF 324 nos
+Temas 725 e 739 de repercussão geral, é possível o reconhecimento
+de vínculo de emprego do trabalhador terceirizado com a tomadora
+de serviços, em razão da identificação de fraude no negócio jurídico
+entabulado entre as empresas? Em caso positivo, em quais
+condições?” Nestes autos, não houve o reconhecimento de
+fraude na terceirização, nem de subordinação direta à
+empresa tomadora de serviços.
+No caso concreto, o TRT considerou ilícita a terceirização havida
+entre as reclamadas, exclusivamente porque as funções
+exercidas pelo reclamante estariam inseridas na atividade-fim
+da tomadora de serviços (OI S.A.). Não há no acórdão recorrido
+apontamento de fraude na relação jurídica entre as partes. O
+TRT não reconheceu a fraude com base nas provas, mas na
+interpretação de normas jurídicas relativas à terceirização.
+No acórdão objeto do recurso extraordinário, a Sexta Turma do
+TST não conheceu do recurso de revista interposto pela OI S.A.
+(tomadora dos serviços), e, assim, manteve o reconhecimento
+do vínculo empregatício do reclamante diretamente com a
+empresa. Aplicou-se o entendimento vigente à época na
+jurisprudência desta Corte, no sentido de que não haveria
+autorização na lei para a terceirização da atividade-fim das
+empresas concessionárias de serviço público.
+Posteriormente, no julgamento do RE 958.252 (Tema 725 da
+Tabela de Repercussão Geral), o STF fixou a seguinte tese
+vinculante: “É lícita a terceirização ou qualquer outra forma de
+divisão do trabalho entre pessoas jurídicas distintas,
+independentemente do objeto social das empresas envolvidas,
+mantida a responsabilidade subsidiária da empresa contratante”.
+Em julgamento de embargos de declaração no RE 958.252, o
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006806D752181D994.
+STF esclareceu que os valores que tenham sido recebidos de
+boa-fé pelos trabalhadores não deverão ser restituídos, ficando
+prejudicada a discussão relativamente à possibilidade de
+ajuizamento de ação rescisória, tendo em vista já haver
+transcorrido o prazo para propositura, cujo termo inicial foi o
+trânsito em julgado da ADPF 324.
+Na ADPF n° 324, o STF firmou a seguinte tese vinculante: “1. É
+lícita a terceirização de toda e qualquer atividade, meio ou fim, não
+se configurando relação de emprego entre a contratante e o
+empregado da contratada. 2. Na terceirização, compete à
+contratante: i) verificar a idoneidade e a capacidade econômica da
+terceirizada; e ii) responder subsidiariamente pelo descumprimento
+das normas trabalhistas, bem como por obrigações previdenciárias,
+na forma do art. 31 da Lei 8.212/1993”.
+Tratando especificamente da terceirização em
+concessionárias e permissionárias de serviços públicos na
+ADC 26, o STF julgou procedente o pedido para declarar a
+constitucionalidade do art. 25, § 1º, da Lei nº 8.987/1995. Esse
+dispositivo de lei federal tem a seguinte previsão: “a
+concessionária poderá contratar com terceiros o desenvolvimento
+de atividades inerentes, acessórias ou complementares ao serviço
+concedido, bem como a implementação de projetos associados”.
+Ainda tratando especificamente da terceirização em
+concessionárias e permissionárias de serviços públicos no
+ARE 791.932 (Tema 739 da Tabela de Repercussão geral), o STF
+firmou a seguinte tese vinculante: “É nula a decisão de órgão
+fracionário que se recusa a aplicar o art. 94, II, da Lei 9.472/1997,
+sem observar a cláusula de reserva de Plenário (CF, art. 97),
+observado o artigo 949 do CPC”. O art. 94, II, da Lei 9.472/1997,
+tem a seguinte previsão: a concessionária de serviços públicos
+poderá “contratar com terceiros o desenvolvimento de atividades
+inerentes, acessórias ou complementares ao serviço, bem como a
+implementação de projetos associados”.
+Quanto ao receio de que a terceirização dos serviços possa
+ensejar o desrespeito aos direitos sociais, previdenciários ou a
+dignidade do trabalhador, no ARE 791932 registrou o Ministro
+Alexandre de Moraes, relator: “Caso isso ocorra, seja na relação
+contratual trabalhista tradicional, seja na hipótese de terceirização,
+haverá um desvio ilegal na execução de uma das legítimas opções
+de organização empresarial, que deverá ser fiscalizado, combatido
+e penalizado. Da mesma maneira, caso a prática de ilícita
+intermediação de mão de obra, com afronta aos direitos sociais e
+previdenciários dos trabalhadores, se esconda formalmente em
+uma fraudulenta terceirização, por meio de contrato de prestação
+serviços, nada impedirá a efetiva fiscalização e responsabilização,
+pois o Direito não vive de rótulos, mas sim da análise da real
+natureza jurídica dos contratos”.
+Nesse contexto, a aplicação das teses vinculantes do STF
+pressupõe que tenha havido a terceirização lícita mediante
+regular contrato de prestação de serviços, hipótese em que a
+empresa prestadora de serviços efetivamente é a empregadora.
+Não se aplicam as teses vinculantes quando estejam
+configurados os requisitos do vínculo de emprego do art. 3º da
+CLT em relação à empresa tomadora de serviços. Não se
+aplicam as teses vinculantes quando esteja provada a fraude, Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006806D752181D994.
+nos termos do art. 9º da CLT: “serão nulos de pleno direito os atos
+praticados com o objetivo de desvirtuar, impedir ou fraudar a
+aplicação dos preceitos contidos na presente Consolidação”.
+Porém, conforme decidido no STF, não configura fraude a
+terceirização, por si mesma, de atividades inerentes, acessórias
+ou complementares.
+Por fim, no julgamento do RE nº 635.546 (Tema 383 da Tabela
+de Repercussão geral), o STF entendeu não ser possível, ainda
+que haja identidade de funções, a isonomia remuneratória entre
+os empregados da empresa prestadora de serviços e os
+admitidos diretamente pelo ente público tomador dos serviços,
+caso dos autos. No acórdão do RE 635.546, ficou consignado
+que: a decisão sobre quanto pagar ao empregado compete a
+cada empresa de acordo com sua capacidade econômica; o
+reconhecimento judicial da isonomia fere o princípio da livre
+iniciativa, por se tratarem de agentes econômicos distintos, que
+não podem estar sujeitos a decisões empresariais que não são
+suas; a igualdade remuneratória não pode ser concedida com
+base no princípio da isonomia e na previsão do artigo 7º, XXXII,
+da CF/88. A tese jurídica fixada pela Suprema Corte foi a
+seguinte: "A equiparação de remuneração entre empregados da
+empresa tomadora de serviços e empregados da empresa
+contratada (terceirizada) fere o princípio da livre iniciativa, por se
+tratarem de agentes econômicos distintos, que não podem estar
+sujeitos a decisões empresariais que não são suas".
+Ante o exposto, conclui-se que o acórdão da Sexta Turma
+comporta retratação, pois não está em conformidade com as
+teses vinculantes do STF.
+Recurso de revista a que se dá provimento.
+Vistos, relatados e discutidos estes autos de Recurso de Revista nº TST-RR - 479-
+10.2012.5.04.0301, em que são Recorrentes e Recorridas ETE - ENGENHARIA DE TELECOMUNICAÇÕES E
+ELETRICIDADE LTDA. e OI S.A. e é Recorrido VICTOR NAZARENO BECK.
+A reclamada OI S.A. interpôs recurso extraordinário para o Supremo Tribunal
+Federal contra acórdão da 6ª Turma, que não conheceu do recurso de revista da empresa, quanto ao
+tema da licitude da terceirização.
+O Ministro Vice-Presidente desta Corte, com base no art. 1.030, II, do CPC/2015,
+determinou o retorno dos autos à 6ª Turma para manifestação sobre a necessidade de exercer eventual
+juízo de retratação, em observância às teses vinculantes fixadas pelo STF nos Temas 383 e 725 da Tabela
+de Repercussão Geral.
+É o relatório.
+V O T O
+RECURSO DE REVISTA DA OI S.A.
+APRECIAÇÃO DE EVENTUAL JUÍZO DE RETRATAÇÃO
+LICITUDE DA TERCEIRIZAÇÃO DE SERVIÇOS LIGADOS À ATIVIDADE-FIM DA
+TOMADORA DE SERVIÇOS. TESES VINCULANTES DO STF
+Sinale-se, de início, que o caso sob exame não tem aderência estrita ao Tema
+29 da Tabela de IRR: “À luz da jurisprudência vinculante firmada pelo Supremo Tribunal Federal na ADPF
+324 nos Temas 725 e 739 de repercussão geral, é possível o reconhecimento de vínculo de emprego do
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006806D752181D994.
+trabalhador terceirizado com a tomadora de serviços, em razão da identificação de fraude no negócio
+jurídico entabulado entre as empresas? Em caso positivo, em quais condições?” Nestes autos, não houve o
+reconhecimento de fraude na terceirização, nem de subordinação direta à empresa tomadora de
+serviços.
+Ao resolver a controvérsia sobre a licitude da terceirização noticiada nos autos, o
+TRT decidiu com base nos seguintes fundamentos (trechos do acórdão recorrido transcritos no recurso
+de revista):
+“EMENTA
+RELAÇÃO JURÍDICA DE EMPREGO. TERCEIRIZAÇÃO. INTERMEDIAÇÃO DE MÃO DE OBRA. Apesar de
+formalmente contratada pela empresa prestadora de serviços, o reclamante realizava atividades
+relacionadas à necessidade permanente da tomadora, ligadas à sua atividade-fim, porquanto
+utilizadas como meio de concretizar seus objetivos econômicos. Relação jurídica de emprego
+declarada diretamente com a tomadora. Incidência do entendimento consubstanciado na súmula
+331, I, do TST. Recurso do reclamante a que se dá provimento.”
+“Há, por outro lado, responsabilidade solidária de ambas as reclamadas pelas parcelas devidas ao
+recorrente. O fato de se tratar de empresas com personalidades jurídicas distintas em nada afeta o
+que ora se conclui. Confira-se a doutrina:
+"O intermediador responde porque contratou o trabalhador, atraindo para si a responsabilidade
+trabalhista, por isso é chamado de empregador formal ou aparente. Quando é desfeita esta farsa e
+repassado judicialmente o vínculo empregatício ao tomador, real empregador, não poderá ser
+desprezada a responsabilidade, mesmo porque não se pode premiar o infrator da norma em seu
+próprio proveito, o que é repudiado pelo direito. Logo, o tomador responde porque é o real
+empregador e o intermediador porque é o empregador aparente e também porque praticaram, em
+conjunto, atos ilegais com o objetivo de fraudar e prejudicar os direitos trabalhistas do trabalhador
+(art. 9º da CLT). Portanto, a responsabilidade decorre tanto da lei civil (arts. 186 c/c 927 c/c 942 do
+Código Civil) como da trabalhista (arts. 9º, 2º e 3º da CLT)." (in CASSAR, Vólia Bomfim. Direito do
+Trabalho, Niterói: Impetus, 2012, p. 539).
+Assim, dou provimento ao recurso do reclamante para declarar a relação jurídica de emprego com a
+primeira reclamada, OI S/A, no período de 24/08/2006 a 31/03/2010, e a responsabilidade solidária de
+ambas as reclamadas pelas parcelas reconhecidas na presente decisão.”
+No acórdão objeto do recurso extraordinário, a Sexta Turma do TST não conheceu
+do recurso de revista interposto pela OI S.A. (tomadora dos serviços), e, assim, manteve o
+reconhecimento do vínculo empregatício do reclamante diretamente com a empresa. Aplicou-se o
+entendimento vigente à época na jurisprudência desta Corte, no sentido de que não haveria autorização
+na lei para a terceirização da atividade-fim das empresas concessionárias de serviço público. O julgado
+foi sintetizado na seguinte ementa:
+I-RECURSO DE REVISTA DA OI. LEI Nº 13.015/2014. [...] TERCEIRIZAÇÃO DE SERVIÇOS LIGADOS À
+ATIVIDADE-FIM. ILICITUDE. CONCESSIONÁRIA DE SERVIÇOS DE TELECOMUNICAÇÕES.
+RECONHECIMENTO DO VÍNCULO DE EMPREGO COM A PRIMEIRA RECLAMADA OI S.A.
+1 - Foram atendidos os requisitos do art. 896, § 1º-A, da CLT.
+2 - Não se discute nos autos a terceirização da atividade decall center (suspensão de processos
+determinada pelo STF no ARE 791932 RG/DF).
+3 - Segundo a jurisprudência deste Tribunal, o art. 25 da Lei nº 8.897/95 não autoriza a terceirização
+da atividade-fim das empresas concessionárias de serviço público.
+4 - No caso, O TRT consignou que o reclamante foi contratado pela 2ª reclamada (ETE) para prestar
+serviços para a OI S.A., os quais se ligavam à atividade fim da tomadora, na medida em que
+indispensáveis ao seu regular funcionamento e inseridos na sua estrutura e finalidade.
+5 - Assim, ao reconhecer o vínculo de emprego entre o reclamante e a OI S.A., o TRT decidiu em
+harmonia com a Súmula nº 331, I, do TST.
+6 - Recurso de revista de que não se conhece.
+Posteriormente, no julgamento do RE 958.252 (Tema 725 da Tabela de
+Repercussão Geral), o STF fixou a seguinte tese vinculante: “É lícita a terceirização ou qualquer outra
+forma de divisão do trabalho entre pessoas jurídicas distintas, independentemente do objeto social das
+empresas envolvidas, mantida a responsabilidade subsidiária da empresa contratante”.
+Constou na ementa do voto do relator, Ministro Luiz Fux:
+1. Recurso extraordinário com repercussão geral reconhecida para examinar a constitucionalidade
+da Súmula n.º 331 do Tribunal Superior do Trabalho, no que concerne à proibição da terceirização de
+atividades-fim e responsabilização do contratante pelas obrigações trabalhistas referentes aos
+empregados da empresa terceirizada. 2. Interesse recursal subsistente após a aprovação das Leis nº.
+13.429, de 31 de março de 2017, e 13.467, de 13 de julho de 2017, as quais modificaram a Lei n.º
+6.019/1974 para expressamente consagrar a terceirização das chamadas "atividades-fim", porquanto
+necessário não apenas fixar o entendimento desta Corte sobre a constitucionalidade da tese
+esposada na Súmula nº. 331 do TST quanto ao período anterior à vigência das referidas Leis, como
+também deliberar a respeito da subsistência da orientação sumular do TST posteriormente às
+reformas legislativas. 3. A interpretação jurisprudencial do próprio texto da Carta Magna, Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006806D752181D994.
+empreendida pelo Tribunal a quo, revela a admissibilidade do apelo extremo, por traduzir ofensa
+direta e não oblíqua à Constituição. Inaplicável, dessa forma, a orientação esposada na Súmula nº
+636 desta Egrégia Corte. Mais além, não tem incidência o verbete sumular nº 283 deste Egrégio
+Tribunal, porquanto a motivação de cunho legal do aresto recorrido é insuficiente para validar o
+acórdão de forma autônoma. 4. Os valores do trabalho e da livre iniciativa, insculpidos na
+Constituição (art. 1º, IV), são intrinsecamente conectados, em uma relação dialógica que impede seja
+rotulada determinada providência como maximizadora de apenas um desses princípios, haja vista
+ser essencial para o progresso dos trabalhadores brasileiros a liberdade de organização produtiva
+dos cidadãos, entendida esta como balizamento do poder regulatório para evitar intervenções na
+dinâmica da economia incompatíveis com os postulados da proporcionalidade e da razoabilidade. 5.
+O art. 5º, II, da Constituição consagra o princípio da liberdade jurídica, consectário da dignidade da
+pessoa humana, restando cediço em sede doutrinária que o "princípio da liberdade jurídica exige
+uma situação de disciplina jurídica na qual se ordena e se proíbe o mínimo possível" (ALEXY, Robert.
+Teoria dos Direitos Fundamentais. Trad. Virgílio Afonso da Silva. São Paulo: Malheiros, 2008. p. 177).
+6. O direito geral de liberdade, sob pena de tornar-se estéril, somente pode ser restringido por medidas informadas por parâmetro constitucionalmente legítimo e adequadas ao teste da
+proporcionalidade. 7. O ônus de demonstrar empiricamente a necessidade e adequação da medida
+restritiva a liberdades fundamentais para o atingimento de um objetivo constitucionalmente legítimo
+compete ao proponente da limitação, exigindo-se maior rigor na apuração da certeza sobre essas
+premissas empíricas quanto mais intensa for a restrição proposta. 8. A segurança das premissas
+empíricas que embasam medidas restritivas a direitos fundamentais deve atingir grau máximo de
+certeza nos casos em que estas não forem propostas pela via legislativa, com a chancela do debate
+público e democrático, restando estéreis quando impostas por construção jurisprudencial sem
+comprovação inequívoca dos motivos apontados. 9. A terceirização não fragiliza a mobilização
+sindical dos trabalhadores, porquanto o art. 8º, II, da Constituição contempla a existência de apenas
+uma organização sindical para cada categoria profissional ou econômica, mercê de a dispersão
+territorial também ocorrer quando uma mesma sociedade empresarial divide a sua operação por
+diversas localidades distintas. 10. A dicotomia entre "atividade-fim" e "atividade-meio" é imprecisa,
+artificial e ignora a dinâmica da economia moderna, caracterizada pela especialização e divisão de
+tarefas com vistas à maior eficiência possível, de modo que frequentemente o produto ou serviço
+final comercializado por uma entidade comercial é fabricado ou prestado por agente distinto, sendo
+também comum a mutação constante do objeto social das empresas para atender a necessidades
+da sociedade, como revelam as mais valiosas empresas do mundo. É que a doutrina no campo
+econômico é uníssona no sentido de que as "Firmas mudaram o escopo de suas atividades,
+tipicamente reconcentrando em seus negócios principais e terceirizando muitas das atividades que
+previamente consideravam como centrais" (ROBERTS, John. The Modern Firm: Organizational Design
+for Performance and Growth. Oxford: Oxford University Press, 2007). 11. A cisão de atividades entre
+pessoas jurídicas distintas não revela qualquer intuito fraudulento, consubstanciando estratégia,
+garantida pelos artigos 1º, IV, e 170 da Constituição brasileira, de configuração das empresas para
+fazer frente às exigências dos consumidores, justamente porque elas assumem o risco da atividade,
+representando a perda de eficiência uma ameaça à sua sobrevivência e ao emprego dos
+trabalhadores. 12. Histórico científico: Ronald H. Coase, "The Nature of The Firm", Economica (new
+series), Vol. 4, Issue 16, p. 386-405, 1937. O objetivo de uma organização empresarial é o de
+reproduzir a distribuição de fatores sob competição atomística dentro da firma, apenas fazendo
+sentido a produção de um bem ou serviço internamente em sua estrutura quando os custos disso
+não ultrapassarem os custos de obtenção perante terceiros no mercado, estes denominados "custos
+de transação", método segundo o qual firma e sociedade desfrutam de maior produção e menor
+desperdício. 13. A Teoria da Administração qualifica a terceirização (outsourcing) como modelo
+organizacional de desintegração vertical, destinado ao alcance de ganhos de performance por meio
+da transferência para outros do fornecimento de bens e serviços anteriormente providos pela
+própria firma, a fim de que esta se concentre somente naquelas atividades em que pode gerar o maior valor, adotando a função de "arquiteto vertical" ou "organizador da cadeia de valor". 14. A
+terceirização apresenta os seguintes benefícios: (i) aprimoramento de tarefas pelo aprendizado
+especializado; (ii) economias de escala e de escopo; (iii) redução da complexidade organizacional; (iv)
+redução de problemas de cálculo e atribuição, facilitando a provisão de incentivos mais fortes a
+empregados; (v) precificação mais precisa de custos e maior transparência; (vi) estímulo à
+competição de fornecedores externos; (vii) maior facilidade de adaptação a necessidades de modificações estruturais; (viii) eliminação de problemas de possíveis excessos de produção; (ix) maior
+eficiência pelo fim de subsídios cruzados entre departamentos com desempenhos diferentes; (x)
+redução dos custos iniciais de entrada no mercado, facilitando o surgimento de novos concorrentes;
+(xi) superação de eventuais limitações de acesso a tecnologias ou matérias-primas; (xii) menor
+alavancagem operacional, diminuindo a exposição da companhia a riscos e oscilações de balanço,
+pela redução de seus custos fixos; (xiii) maior flexibilidade para adaptação ao mercado; (xiv) não
+comprometimento de recursos que poderiam ser utilizados em setores estratégicos; (xv) diminuição
+da possibilidade de falhas de um setor se comunicarem a outros; e (xvi) melhor adaptação a
+diferentes requerimentos de administração, know-how e estrutura, para setores e atividades
+distintas. 15. A terceirização de uma etapa produtiva é estratégia de organização que depende da
+peculiaridade de cada mercado e cada empresa, destacando a opinio doctorum que por vezes a
+configuração ótima pode ser o fornecimento tanto interno quanto externo (GULATI, Ranjay;
+PURANAM, Phanish; BHATTACHARYA, Sourav. "How Much to Make and How Much to Buy? An
+Analysis of Optimal Plural Sourcing Strategies." Strategic Management Journal 34, no. 10 (October
+2013): 1145–1161). Deveras, defensável à luz da teoria econômica até mesmo a terceirização dos
+Conselhos de Administração das companhias às chamadas Board Service Providers (BSPs)
+(BAINBRIDGE, Stephen M.; Henderson, M. Todd. "Boards-R-Us: Reconceptualizing Corporate Boards "
+(July 10, 2013). University of Chicago Coase-Sandor Institute for Law & Economics Research Paper No.
+646; UCLA School of Law, Law-Econ Research Paper No. 13-11). 16. As leis trabalhistas devem ser
+observadas por cada uma das empresas envolvidas na cadeia de valor com relação aos empregados
+que contratarem, tutelando-se, nos termos constitucionalmente assegurados, o interesse dos
+trabalhadores. 17. A prova dos efeitos práticos da terceirização demanda pesquisas empíricas,
+submetidas aos rígidos procedimentos reconhecidos pela comunidade científica para desenho do
+projeto, coleta, codificação, análise de dados e, em especial, a realização de inferências causais mediante correta aplicação de ferramentas matemáticas, estatísticas e informáticas, evitando-se o
+enviesamento por omissão de variáveis ("omitted variable bias"). 18. A terceirização, segundo
+estudos empíricos criteriosos, longe de "precarizar", "reificar" ou prejudicar os empregados, resulta
+em inegáveis benefícios aos trabalhadores em geral, como a redução do desemprego, diminuição do
+turnover, crescimento econômico e aumento de salários, permitindo a concretização de mandamentos constitucionais como "erradicar a pobreza e a marginalização e reduzir as
+desigualdades sociais e regionais", "redução das desigualdades regionais e sociais" e a "busca do
+pleno emprego" (arts. 3º, III, e 170 CRFB). 19. A realidade brasileira, apurada em estudo específico,
+revela que "os trabalhadores das atividades de Segurança/vigilância recebem, em média, 5% a mais
+quando são terceirizados", que "ocupações de alta qualificação e que necessitam de acúmulo de
+capital humano específico, como P&D [pesquisa e desenvolvimento] e TI [tecnologia da informação],
+pagam salários maiores aos terceirizados", bem como afirmou ser "possível que [em] serviços nos
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006806D752181D994.
+quais os salários dos terceirizados são menores, o nível do emprego seja maior exatamente porque o
+‘reço’(salário) é menor" (ZYLBERSTAJN, Hélio et alii . "Diferencial de salários da mão de obra
+terceirizada no Brasil". In : CMICRO - Nº32, Working Paper Series, 07 de agosto de 2015, FGV-EESP).
+20. A teoria econômica, à luz dessas constatações empíricas, vaticina que, verbis: "Quando a
+terceirização permite às firmas produzir com menos custos, a competição entre firmas que
+terceirizam diminuirá os preços dos seus produtos. (.) consumidores terão mais dinheiro para gastar
+com outros bens, o que ajudará empregos em outras indústrias" (TAYLOR, Timothy. "In Defense of
+Outsourcing". In: 25 Cato J. 367 2005. p. 371). 21. O escrutínio rigoroso das premissas empíricas
+assumidas pela Corte de origem revela insubsistentes as afirmações de fraude e precarização, não
+sendo suficiente para embasar a medida restritiva o recurso meramente retórico a interpretações de
+cláusulas constitucionais genéricas, motivo pelo qual deve ser afastada a proibição, em homenagem
+às liberdades fundamentais consagradas na Carta Magna (art. 1º, IV, art. 5º, II, e art. 170). 22. Em
+conclusão, a prática da terceirização já era válida no direito brasileiro mesmo no período anterior à
+edição das Leis nº. 13.429/2017 e 13.467/2017, independentemente dos setores em que adotada ou
+da natureza das atividades contratadas com terceira pessoa, reputando-se inconstitucional a Súmula
+nº. 331 do TST, por violação aos princípios da livre iniciativa (artigos 1º, IV, e 170 da CRFB) e da
+liberdade contratual (art. 5º, II, da CRFB). 23. As contratações de serviços por interposta pessoa são
+hígidas, na forma determinada pelo negócio jurídico entre as partes, até o advento das Leis nº.
+13.429/2017 e 13.467/2017, marco temporal após o qual incide o regramento determinado na nova
+redação da Lei n.º 6.019/1974, inclusive quanto às obrigações e formalidades exigidas das empresas
+tomadoras e prestadoras de serviço. 24. É aplicável às relações jurídicas preexistentes à Lei n.º
+13.429, de 31 de março de 2017, a responsabilidade subsidiária da pessoa jurídica contratante pelas
+obrigações trabalhistas não adimplidas pela empresa prestadora de serviços, bem como a
+responsabilidade pelo recolhimento das contribuições previdenciárias devidas por esta (art. 31 da Lei
+n.º 8.212/93), mercê da necessidade de evitar o vácuo normativo resultante da insubsistência da
+Súmula n.º 331 do TST".
+Em julgamento de embargos de declaração no RE 958.252, o STF esclareceu que
+os valores que tenham sido recebidos de boa-fé pelos trabalhadores não deverão ser restituídos,
+ficando prejudicada a discussão relativamente à possibilidade de ajuizamento de ação rescisória, tendo
+em vista já haver transcorrido o prazo para propositura, cujo termo inicial foi o trânsito em julgado da
+ADPF 324.
+Na ADPF n° 324, o STF firmou a seguinte tese vinculante: “1. É lícita a
+terceirização de toda e qualquer atividade, meio ou fim, não se configurando relação de emprego entre a
+contratante e o empregado da contratada. 2. Na terceirização, compete à contratante: i) verificar a
+idoneidade e a capacidade econômica da terceirizada; e ii) responder subsidiariamente pelo descumprimento
+das normas trabalhistas, bem como por obrigações previdenciárias, na forma do art. 31 da Lei 8.212/1993”.
+Constou na ementa do acórdão da relatoria do Ministro Roberto Barroso:
+1. A Constituição não impõe a adoção de um modelo de produção específico, não impede o
+desenvolvimento de estratégias empresariais flexíveis, tampouco veda a terceirização. Todavia, a
+jurisprudência trabalhista sobre o tema tem sido oscilante e não estabelece critérios e condições
+claras e objetivas, que permitam sua adoção com segurança. O direito do trabalho e o sistema
+sindical precisam se adequar às transformações no mercado de trabalho e na sociedade. 2. A
+terceirização das atividades-meio ou das atividades-fim de uma empresa tem amparo nos princípios
+constitucionais da livre iniciativa e da livre concorrência, que asseguram aos agentes econômicos a
+liberdade de formular estratégias negociais indutoras de maior eficiência econômica e
+competitividade. 3. A terceirização não enseja, por si só, precarização do trabalho, violação da
+dignidade do trabalhador ou desrespeito a direitos previdenciários. É o exercício abusivo da sua
+contratação que pode produzir tais violações. 4. Para evitar tal exercício abusivo, os princípios que
+amparam a constitucionalidade da terceirização devem ser compatibilizados com as normas
+constitucionais de tutela do trabalhador, cabendo à contratante: i) verificar a idoneidade e a
+capacidade econômica da terceirizada; e ii) responder subsidiariamente pelo descumprimento das
+normas trabalhistas, bem como por obrigações previdenciárias (art. 31 da Lei 8.212/1993). 5. A
+responsabilização subsidiária da tomadora dos serviços pressupõe a sua participação no processo
+judicial, bem como a sua inclusão no título executivo judicial. 6. Mesmo com a superveniência da Lei
+13.467/2017, persiste o objeto da ação, entre outras razões porque, a despeito dela, não foi revogada
+ou alterada a Súmula 331 do TST, que consolidava o conjunto de decisões da Justiça do Trabalho
+sobre a matéria, a indicar que o tema continua a demandar a manifestação do Supremo Tribunal
+Federal a respeito dos aspectos constitucionais da terceirização. Além disso, a aprovação da lei
+ocorreu após o pedido de inclusão do feito em pauta. 7. Firmo a seguinte tese: "1. É lícita a
+terceirização de toda e qualquer atividade, meio ou fim, não se configurando relação de emprego
+entre a contratante e o empregado da contratada. 2. Na terceirização, compete à contratante: i)
+verificar a idoneidade e a capacidade econômica da terceirizada; e ii) responder subsidiariamente
+pelo descumprimento das normas trabalhistas, bem como por obrigações previdenciárias, na forma
+do art. 31 da Lei 8.212/1993". 8. ADPF julgada procedente para assentar a licitude da terceirização de
+atividade-fim ou meio. Restou explicitado pela maioria que a decisão não afeta automaticamente
+decisões transitadas em julgado.
+Tratando especificamente da terceirização em concessionárias e
+permissionárias de serviços públicos na ADC 26, o STF julgou procedente o pedido para declarar a
+constitucionalidade do art. 25, § 1º, da Lei nº 8.987/1995. Esse dispositivo de lei federal tem a seguinte
+previsão: “a concessionária poderá contratar com terceiros o desenvolvimento de atividades inerentes,
+acessórias ou complementares ao serviço concedido, bem como a implementação de projetos associados”.
+Ainda tratando especificamente da terceirização em concessionárias e
+permissionárias de serviços públicos no ARE 791932 (Tema 739 da Tabela de Repercussão geral), o
+STF firmou a seguinte tese vinculante: “É nula a decisão de órgão fracionário que se recusa a aplicar o art. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006806D752181D994.
+94, II, da Lei 9.472/1997, sem observar a cláusula de reserva de Plenário (CF, art. 97), observado o artigo 949
+do CPC”.
+O art. 94, II, da Lei 9.472/1997, tem a seguinte previsão: a concessionária de
+serviços públicos poderá “contratar com terceiros o desenvolvimento de atividades inerentes, acessórias ou
+complementares ao serviço, bem como a implementação de projetos associados”.
+Quanto ao receio de que a terceirização dos serviços possa ensejar o desrespeito
+aos direitos sociais, previdenciários ou a dignidade do trabalhador, no ARE 791932 registrou o Ministro
+Alexandre de Moraes, relator:
+Caso isso ocorra, seja na relação contratual trabalhista tradicional, seja na hipótese de terceirização,
+haverá um desvio ilegal na execução de uma das legítimas opções de organização empresarial, que
+deverá ser fiscalizado, combatido e penalizado. Da mesma maneira, caso a prática de ilícita
+intermediação de mão de obra, com afronta aos direitos sociais e previdenciários dos trabalhadores,
+se esconda formalmente em uma fraudulenta terceirização, por meio de contrato de prestação
+serviços, nada impedirá a efetiva fiscalização e responsabilização, pois o Direito não vive de rótulos, mas sim da análise da real natureza jurídica dos contratos.
+Nesse contexto, a aplicação das teses vinculantes do STF pressupõe que tenha
+havido a terceirização lícita mediante regular contrato de prestação de serviços, hipótese em que a
+empresa prestadora de serviços efetivamente é a empregadora. Não se aplicam as teses vinculantes
+quando estejam configurados os requisitos do vínculo de emprego do art. 3º da CLT em relação à
+empresa tomadora de serviços. Não se aplicam as teses vinculantes quando esteja provada a fraude,
+nos termos do art. 9º da CLT: “serão nulos de pleno direito os atos praticados com o objetivo de desvirtuar,
+impedir ou fraudar a aplicação dos preceitos contidos na presente Consolidação”. Porém, conforme
+decidido no STF, não configura fraude a terceirização, por si mesma, de atividades inerentes, acessórias
+ou complementares.
+Por fim, no julgamento do RE nº 635.546 (Tema 383 da Tabela de Repercussão
+geral), o STF entendeu não ser possível, ainda que haja identidade de funções, a isonomia
+remuneratória entre os empregados da empresa prestadora de serviços e os admitidos diretamente
+pelo ente público tomador dos serviços, caso dos autos.
+No acórdão do RE 635.546, ficou consignado que: a decisão sobre quanto pagar ao
+empregado compete a cada empresa de acordo com sua capacidade econômica; o reconhecimento
+judicial da isonomia fere o princípio da livre iniciativa, por se tratarem de agentes econômicos distintos,
+que não podem estar sujeitos a decisões empresariais que não são suas; a igualdade remuneratória não
+pode ser concedida com base no princípio da isonomia e na previsão do artigo 7º, XXXII, da CF/88.
+O Ministro Luís Roberto Barroso, registrou que "a decisão proferida na ADPF 324
+ressalvou expressamente alguns direitos que, por integrarem patamar civilizatório mínimo em matéria
+trabalhista, devem ser assegurados em igualdade de condições aos empregados da empresa tomadora de
+serviços e da contratada. Esse é o caso, por exemplo, dos treinamentos, material e normas de segurança e
+saúde no trabalho. Não é, contudo, o caso da remuneração do trabalhador, já que se trata de empresas
+diferentes, com possibilidades econômicas distintas. Os mesmos princípios – da liberdade de iniciativa e livre
+concorrência – vedam que se imponha à contratada as decisões empresariais da tomadora do serviço sobre
+quanto pagar a seus empregados, e vice-versa".
+A tese jurídica fixada pela Suprema Corte foi a seguinte: "A equiparação de
+remuneração entre empregados da empresa tomadora de serviços e empregados da empresa contratada
+(terceirizada) fere o princípio da livre iniciativa, por se tratarem de agentes econômicos distintos, que não
+podem estar sujeitos a decisões empresariais que não são suas".
+No caso concreto, o TRT considerou ilícita a terceirização havida entre as
+reclamadas, exclusivamente porque as funções exercidas pelo reclamante estariam inseridas na
+atividade-fim da tomadora de serviços (OI S.A.). Não há no acórdão recorrido apontamento de fraude na
+relação jurídica entre as partes. O TRT não reconheceu a fraude com base nas provas, mas na
+interpretação de normas jurídicas relativas à terceirização.
+Nesse contexto, conclui-se que o acórdão da Sexta Turma comporta retratação,
+pois não está em conformidade com as teses vinculantes do STF.
+Assim, em juízo de retratação, conheço do recurso de revista da OI S.A, por
+ofensa ao art. 94, II, da Lei n.º 9.472/97. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006806D752181D994.
+MÉRITO
+LICITUDE DA TERCEIRIZAÇÃO DE SERVIÇOS LIGADOS À ATIVIDADE-FIM DA
+TOMADORA DE SERVIÇOS. TESES VINCULANTES DO STF
+Como consequência lógica do conhecimento do recurso de revista, por ofensa ao
+art. 94, II, da Lei n.º 9.472/97, dou-lhe provimento para julgar improcedente o pedido de reconhecimento
+do vínculo empregatício com a OI S.A. e pedidos decorrentes, mas reconhecer a responsabilidade
+subsidiária da tomadora de serviços pelas verbas remanescentes deferidas, nos termos do item IV da
+Súmula nº 331 do TST.
+ISTO POSTO
+ACORDAM os Ministros da Sexta Turma do Tribunal Superior do Trabalho, por
+unanimidade, exercendo o juízo de retratação, conhecer do recurso de revista quanto ao tema
+“LICITUDE DA TERCEIRIZAÇÃO DE SERVIÇOS LIGADOS À ATIVIDADE-FIM DA TOMADORA DE SERVIÇOS.
+TESES VINCULANTES DO STF”, por ofensa ao art. 94, II, da Lei n.º 9.472/97, e, no mérito, dar-lhe
+provimento para julgar improcedente o pedido de reconhecimento do vínculo empregatício com a OI
+S.A. e pedidos decorrentes, mas reconhecer a responsabilidade subsidiária da tomadora de serviços
+pelas verbas remanescentes deferidas, nos termos do item IV da Súmula nº 331 do TST.
+Brasília, 14 de setembro de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+ELEONORA BORDINI COCA
+Desembargadora Convocada Relatora
+Firmado por assinatura digital em 16/09/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 1006806D752181D994.
