@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LUIZ FERNANDO ESTEVAM XUDRE, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que denegou a ordem no HC n. 2132607-35.2026.8.26.0000, mantendo a segregação cautelar.
+Consta dos autos que, em 7/5/2026, o paciente foi preso em flagrante pela suposta prática do crime de furto qualificado tentado, sobrevindo decisão, em 8/5/2026, que converteu a custódia em preventiva (Processo n. 1506803-14.2026.8.26.0389/2026 - fls. 22/25).
+O impetrante sustenta que o acórdão recorrido teria mantido a segregação cautelar do paciente sob premissas fáticas equivocadas, destacando que houve extinção da punibilidade por prescrição da pretensão executória em processo pretérito (art. 107, IV, do Código Penal), de modo que essa circunstância não poderia justificar a prisão preventiva.
+Aponta inidoneidade dos fundamentos baseados na gravidade abstrata do delito e no clamor público, destacando tratar-se de crime patrimonial, sem violência ou grave ameaça, praticado na modalidade tentada, com restituição imediata do bem.
+Assinala ofensa ao princípio da homogeneidade, afirmando que a manutenção da prisão preventiva configuraria antecipação indevida de pena, diante da perspectiva de regime inicial aberto e substituição por penas restritivas de direitos em caso de eventual condenação.
+Alega a existência de condições pessoais favoráveis, como residência fixa e ocupação lícita, e defende a suficiência de medidas cautelares diversas da prisão previstas no art. 319 do Código de Processo Penal.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, com expedição do competente alvará de soltura em prol do paciente, ainda que mediante imposição de medidas cautelares alternativas.
+Liminar indeferida (fls. 40/41).
+Prestadas as informações (fls. 47/48), o Ministério Público Federal opinou pelo não conhecimento do habeas corpus e, se conhecido, pela denegação da ordem (fls. 67/70).
+É o relatório.
+As informações obtidas no endereço eletrônico do Tribunal de Justiça de São Paulo dão conta de que, o Juízo de Direito da 2ª Vara Criminal da comarca de São José dos Campos/SP, em 2/9/2026 (posteriormente à presente impetração), julgou procedente a pretensão punitiva estatal para condenar o ora paciente à pena de 1 ano e 2 meses de reclusão, em regime inicial fechado, além do pagamento de 5 dias-multa, como incurso no art. 155, § 4º, III e IV, c/c o art. 14, II, ambos do Código Penal, sendo-lhe, na oportunidade, negado o direito de recurso em liberdade (Ação Penal n. 1506803-14.2026.8.26.0389).
+Desse modo, na linha da jurisprudência desta Corte, fica prejudicado o pedido de análise dos fundamentos da prisão preventiva, uma vez que a custódia decorre, agora, além da menção às circunstâncias fáticas que ensejaram sua prisão cautelar, de "título judicial diverso", consubstanciado, em "novo fundamento", qual seja, os "efeitos da condenação" (sentença condenatória afigurando como um "plus" a desautorizar o apelo em liberdade), cujo requisito específico, desafia, portanto, impugnação própria perante o Tribunal de origem. Nesse sentido, o seguinte julgado: AgRg no HC n. 717.891/SP, minha relatoria, Sexta Turma, DJe 13/5/2022.
+Tal o contexto, julgo prejudicado o presente habeas corpus (art. 34, XI, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. FURTO QUALIFICADO TENTADO. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NEGATIVA DO RECURSO EM LIBERDADE. NOVO FUNDAMENTO. EFEITOS DA CONDENAÇÃO. NOVO TÍTULO JUDICIAL LEGITIMADOR DA CONSTRIÇÃO CAUTELAR QUE DEVE SER ANTES SUBMETIDO À ANÁLISE DO TRIBUNAL A QUO. PRECEDENTE. PERDA DE OBJETO.
+Writ prejudicado.
