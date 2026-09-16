@@ -1,0 +1,86 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual BRAVA ENERGIA S.A. e 3R BAHIA S.A. se insurgiram, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado da Bahia assim ementado (fl. 387):
+AGRAVO INTERNO. DIREITO PROCESSUAL CIVIL E DIREITO DO CONSUMIDOR. AÇÃO INDENIZATÓRIA POR DANO AMBIENTAL DECORRENTE DE VAZAMENTO DE ÓLEO. COMPETÊNCIA DAS VARAS DE RELAÇÕES DE CONSUMO. APLICAÇÃO DO ART. 17 DO CÓDIGO DE DEFESA DO CONSUMIDOR. CONFIGURAÇÃO DO CONSUMIDOR POR EQUIPARAÇÃO. NATUREZA COLETIVA E DIFUSA DO DANO. RESPONSABILIDADE OBJETIVA DAS EMPRESAS ENVOLVIDAS. ENTENDIMENTO CONSOLIDADO NO SUPERIOR TRIBUNAL DE JUSTIÇA E ADOTADO PELAS SEÇÕES CÍVEIS REUNIDAS DO TJBA. AUSÊNCIA DE RELAÇÃO CONTRATUAL DIRETA QUE NÃO AFASTA A INCIDÊNCIA DA LEGISLAÇÃO CONSUMERISTA. REJEIÇÃO DA PRELIMINAR DE NULIDADE DA DECISÃO MONOCRÁTICA. POSSIBILIDADE DE JULGAMENTO INDIVIDUAL PELO RELATOR QUANDO HOUVER ENTENDIMENTO DOMINANTE. SÚMULA 568 DO STJ. AGRAVO INTERNO CONHECIDO E NÃO PROVIDO.
+I. Caso em exame
+1. Trata-se de agravo interno interposto contra decisão monocrática que negou provimento a agravo de instrumento, manejado em face de decisão que reconheceu a competência da 5ª Vara de Relações de Consumo da Comarca de Salvador para processar e julgar ação indenizatória, ajuizada em razão de alegado dano ambiental, provocado por vazamento de óleo, que teria prejudicado comunidades pesqueiras. Os agravantes sustentam ausência de relação jurídica de consumo, inexistência de dano comprovado e de nexo causal, bem como defendem a competência das Varas Cíveis para o processamento da demanda.
+II. Questão em discussão
+2. A controvérsia principal consiste em definir se os autores da ação indenizatória por dano ambiental, residentes e trabalhadores em comunidades tradicionais de pesca artesanal, podem ser equiparados a consumidores para fins de aplicação do Código de Defesa do Consumidor, e, em decorrência, se é competente a Vara de Relações de Consumo para processar a demanda, mesmo diante da inexistência de relação contratual direta entre as partes.
+3. Discute-se, ainda, a validade da decisão monocrática proferida com fundamento em jurisprudência pacificada.
+III. Razões de decidir
+4. O agravo interno reúne os requisitos de admissibilidade, sendo conhecido.
+5. A alegação de nulidade da decisão monocrática não merece prosperar, uma vez que a interpretação sistemática do art. 932, IV, do CPC permite o julgamento unipessoal pelo relator quando o entendimento adotado esteja em consonância com a jurisprudência consolidada do STJ ou do próprio Tribunal local, conforme dispõe a Súmula 568 do STJ.
+6. No mérito, restou demonstrado que o reconhecimento da competência da Vara de Relações de Consumo está respaldado em sólida construção jurisprudencial, baseada no art. 17 do Código de Defesa do Consumidor, que equipara a consumidores todas as vítimas de eventos danosos decorrentes de defeitos de produtos ou serviços, ainda que não haja relação jurídica direta com o fornecedor.
+7. O Superior Tribunal de Justiça tem reafirmado que vítimas de danos ambientais podem ser consideradas consumidores por equiparação, nos termos do art. 17 do CDC, aplicando-se a tais situações as normas protetivas do direito do consumidor, especialmente quando os danos são decorrentes de atividades empresariais, como a exploração de petróleo.
+8. A jurisprudência do TJBA passou a seguir esse entendimento após o julgamento do REsp 2.018.386-BA, de relatoria da Ministra Nancy Andrighi, consolidando a aplicação da legislação consumerista em demandas dessa natureza, com reconhecimento da competência das Varas de Relações de Consumo.
+9. Os danos ambientais alegados na petição inicial da ação de origem apresentam natureza coletiva e difusa, afetando o ecossistema da região e impactando diretamente a subsistência de comunidades pesqueiras. Tais circunstâncias justificam a aplicação do CDC e da responsabilidade objetiva prevista no art. 14.
+10. A alegação de ausência de prova da condição profissional dos autores ou de nexo causal entre o evento e os prejuízos reportados não se presta, nesta fase processual, a infirmar a competência reconhecida, devendo ser analisada na instrução de mérito.
+11. A exploração de petróleo pelas agravantes configura prestação de serviço para fins do CDC, sendo suficiente a plausível alegação de dano ambiental decorrente da atividade empresarial para que se reconheça a aplicabilidade da legislação consumerista e a consequente competência do juízo especializado.
+IV. Dispositivo e tese Agravo interno conhecido e não provido.
+Tese de julgamento:
+1. É válida a decisão monocrática proferida com base em jurisprudência dominante, nos termos da interpretação sistemática do art. 932, IV, do CPC e da Súmula 568 do STJ.
+2. Em ações indenizatórias por dano ambiental decorrente de atividade empresarial, as vítimas podem ser equiparadas a consumidores, nos termos do art. 17 do CDC, atraindo a competência das Varas de Relações de Consumo.
+Os embargos de declaração opostos foram rejeitados (fls. 466/469).
+Nas razões do recurso especial às fls. 500/532, a parte recorrente alega violação:
+(a) dos arts. 2 e 17 do Código de Defesa do Consumidor, sustentando a impossibilidade de equiparação sem a existência de consumidor primário e de relação de consumo-base (fls. 520/521, 520/523, 520/525);
+(b) dos arts. 489, § 1º, incisos IV, V e VI, e 1.022, incisos I e II, do Código de Processo Civil, por omissão e fundamentação deficiente quanto ao distinguishing dos precedentes utilizados e à tese de consumidor por equiparação (fls. 515/517, 515/519, 515/521, 515/523);
+(c) do art. 932, inciso IV, alínea b, do Código de Processo Civil, por suposta inadequação do julgamento monocrático à luz da Súmula 568 do Superior Tribunal de Justiça (fls. 504/506, 518/519).
+Não foram apresentadas contrarrazões (fl. 560).
+Quando do juízo de admissibilidade, o recurso especial não foi admitido (fls. 561/572), razão pela qual foi interposto o agravo em recurso especial de fls. 586/609.
+Parecer do Ministério Público Federal pelo não conhecimento do agravo ou, caso conhecido, por seu não provimento (fls. 633/641).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Na origem, cuida-se de agravo de instrumento contra decisão de declínio de competência para Vara de Relações de Consumo, em ação indenizatória por alegado dano ambiental. O Tribunal de origem manteve a competência consumerista com fundamento no art. 17 do Código de Defesa do Consumidor, reconhecendo a figura do consumidor por equiparação e validando o julgamento monocrático com base na Súmula 568 do Superior Tribunal de Justiça (fls. 393/406; 387/406).
+Inexiste a alegada violação dos arts. 489, § 1º, incisos IV, V e VI, e 1.022, incisos I e II, do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, tendo o Tribunal de origem apreciado fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+A parte recorrente sustenta omissão da instância ordinária no tocante a estas questões: (a) ausência de análise sobre a necessidade de relação de consumo-base e consumidor primário para a incidência do art. 17 do Código de Defesa do Consumidor; (b) ausência de enfrentamento do distinguishing em relação aos precedentes do Superior Tribunal de Justiça aplicados; e (c) inadequação do julgamento monocrático com fundamento na Súmula 568 do STJ e no art. 932, IV, do Código de Processo Civil.
+Todavia, conforme se depreende da análise do acórdão recorrido, o Tribunal de origem, de modo expresso, fundamentado e coeso, enfrentou cada um dos pontos supostamente omissos, tendo concluído que: i) o art. 17 do Código de Defesa do Consumidor dispensa relação contratual direta e a individualização de consumidor primário, bastando o nexo entre a atividade empresarial e o evento danoso; ii) a jurisprudência do Superior Tribunal de Justiça admite a figura do consumidor por equiparação em hipóteses de danos ambientais; e iii) o julgamento monocrático é legítimo à luz da interpretação sistemática do art. 932, IV, do Código de Processo Civil e da Súmula 568 do Superior Tribunal de Justiça.
+É importante ressaltar que o contraponto aos argumentos das partes não demanda a citação literal de suas palavras ou dos mesmos dispositivos legais. É suficiente que haja fundamentação fática e jurídica coerente e adstrita ao que se debate nos autos.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. OMISSÃO. INEXISTÊNCIA.  EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a sanar omissão, contradição, obscuridade ou erro material no julgado, não se prestando à rediscussão do mérito da causa.
+
+4. O julgador não está obrigado a rebater, um a um, todos os argumentos suscitados pelas partes, bastando que decline fundamentação suficiente para amparar a conclusão a que chegou.
+5. A pretensão de reabertura do debate sobre matéria já examinada e decidida, sob o rótulo de omissão, revela mero inconformismo com o resultado do julgamento, insuscetível de veiculação pela via estreita dos embargos de declaração.
+
+7. Embargos de declaração rejeitados.
+(EDcl no REsp n. 2.222.647/PR, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 26/8/2026, DJEN de 2/9/2026.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.  VIOLAÇÃO AO ART. 1.022 DO CPC. INEXISTÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO SUFICIENTE.  AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao artigo 1.022 do Código de Processo Civil quando o Tribunal de origem se manifesta de modo claro e fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos e rechaçando os argumentos da parte, ainda que em sentido desfavorável à sua pretensão. O julgador não está obrigado a rebater, um a um, todos os argumentos deduzidos, se os fundamentos utilizados foram suficientes para embasar a decisão.
+
+6. Agravo interno desprovido
+(AgInt no AREsp n. 2.975.536/MG, relator Ministro Marco Aurélio Bellizze, Segunda Turma, julgado em 1/7/2026, DJEN de 5/8/2026.)
+Nos exatos termos do acórdão recorrido, o Tribunal de Justiça do Estado da Bahia assim se manifestou (fls. 405/406):
+A fase processual em que nos encontramos é de análise de competência, não de mérito. Neste momento, basta a alegação plausível de dano ambiental causado por atividade empresarial para justificar a aplicação da legislação consumerista.
+Para fins de determinação da competência, é suficiente a alegação de que as supostas vítimas foram atingidas por evento relacionado à atividade empresarial dos requeridos, caracterizando-as como consumidores equiparados nos termos do artigo 17 do Código de Defesa do Consumidor.
+O suposto dano ambiental descrito nos autos possui natureza difusa, atingindo número indeterminado de pessoas e o meio ambiente como bem jurídico coletivo.
+Tais danos, por sua própria natureza, justificam a aplicação da legislação consumerista, que oferece instrumentos mais adequados para a tutela de direitos transindividuais, como a responsabilidade objetiva prevista no artigo 14 do Código de Defesa do Consumidor.
+
+No caso, a atividade de exploração petrolífera desenvolvida pelas agravantes caracteriza prestação de serviço no sentido amplo, sendo suficiente para justificar a aplicação da legislação consumerista quando há alegação de danos a terceiros.
+A ausência de prova robusta dos danos alegados não constitui óbice à aplicação do Código de Defesa do Consumidor, uma vez que tal questão refere-se também ao mérito da demanda, cabendo à instrução probatória esclarecer a efetiva ocorrência e extensão dos prejuízos.
+A aplicação da legislação consumerista ao caso concreto harmoniza-se com os princípios constitucionais da proteção ao meio ambiente e da defesa do consumidor.
+O reconhecimento da competência das Varas de Relações de Consumo assegura maior especialização no julgamento de demandas envolvendo danos ambientais, além de garantir a aplicação de instrumentos processuais mais adequados à tutela de direitos difusos e coletivos.
+Diante de todo o exposto, verifica-se que a decisão agravada encontra-se em perfeita sintonia com o entendimento consolidado nos Tribunais Superiores e com a melhor interpretação da legislação aplicável.
+A caracterização dos autores como consumidores equiparados, nos termos do artigo 17 do Código de Defesa do Consumidor, decorre da natureza do dano alegado e da relação entre este e a atividade empresarial desenvolvida pelas agravantes, independentemente da existência de vínculo contratual direto.
+A competência das Varas de Relações de Consumo para processar e julgar demandas envolvendo danos ambientais representa evolução jurisprudencial que visa assegurar maior efetividade na tutela de direitos transindividuais, devendo ser mantida no caso concreto.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+O art. 932, IV, b, do Código de Processo Civil não foi apreciado pelo Tribunal de origem.
+A falta de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso a esta instância por não ter sido preenchido o requisito constitucional do prequestionamento.
+Incide no presente caso, por analogia, a Súmula 282 do Supremo Tribunal Federal (STF).
+Para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa seja decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não no caso concreto.
+Ausente pronunciamento do Tribunal de Justiça do Estado da Bahia sobre o ponto, caberia, inicialmente, suscitá-lo em embargos de declaração. Mantida a omissão, deveria a parte interessada deduzir a nulidade do julgamento por violação do art. 1.022 do Código de Processo Civil.
+No caso dos autos, foi afastada a existência de violação do art. 1.022 do CPC.
+Por fim, nos exatos termos do acórdão recorrido, o Tribunal de Justiça do Estado da Bahia assim se manifestou (fls. 406):
+Para fins de determinação da competência, é suficiente a alegação de que as supostas vítimas foram atingidas por evento relacionado à atividade empresarial dos requeridos, caracterizando-as como consumidores equiparados nos termos do artigo 17 do Código de Defesa do Consumidor.
+O suposto dano ambiental descrito nos autos possui natureza difusa, atingindo número indeterminado de pessoas e o meio ambiente como bem jurídico coletivo.
+
+No caso, a atividade de exploração petrolífera desenvolvida pelas agravantes caracteriza prestação de serviço no sentido amplo, sendo suficiente para justificar a aplicação da legislação consumerista quando há alegação de danos a terceiros.
+A ausência de prova robusta dos danos alegados não constitui óbice à aplicação do Código de Defesa do Consumidor, uma vez que tal questão refere-se também ao mérito da demanda, cabendo à instrução probatória esclarecer a efetiva ocorrência e extensão dos prejuízos.
+ ..
+A caracterização dos autores como consumidores equiparados, nos termos do artigo 17 do Código de Defesa do Consumidor, decorre da natureza do dano alegado e da relação entre este e a atividade empresarial desenvolvida pelas agravantes, independentemente da existência de vínculo contratual direto.
+O Tribunal de origem reconheceu a incidência do art. 17 do Código de Defesa do Consumidor às hipóteses narradas, assentando a natureza difusa do dano e a repercussão sobre comunidades pesqueiras, além de registrar que a discussão sobre origem do óleo, comprovação de danos e condição profissional dos autores se insere no mérito e demanda instrução (fls. 405/406).
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide novamente no ponto a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, a ele negar provimento.
+Deixo de majorar honorários pelo não arbitramento na origem.
+Publique-se. Intimem-se.
+EMENTA
