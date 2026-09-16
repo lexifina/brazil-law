@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 10/09/2026 a 16/09/2026, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Teodoro Silva Santos.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNADOS DE FORMA ESPECÍFICA NENHUM DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO APELO NOBRE. APLICAÇÃO DA SÚMULA N. 182 DO STJ. AGRAVO INTERNO DESPROVIDO. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL TIDO POR VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284/STF.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por INSTITUTO DE GESTAO E HUMANIZACAO IGH contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, que não conheceu do recurso especial (fl . 622).
+Pondera a parte agravante, em síntese (fl. 627):
+O fundamento da decisão de inadmissibilidade foi o de que os Embargos de Declaração opostos no evento 122 não foram conhecidos por intempestividade e, por isso, não teriam o condão de interromper o prazo para a interposição de outros recursos. Ocorre que, em análise aos autos, verifica-se que os referidos Embargos de Declaração não foram opostos pelo Agravante, INSTITUTO DE GESTÃO E HUMANIZAÇÃO (IGH), mas sim pelo MUNICÍPIO DE CAXIAS DO SUL / RS, corréu na demanda. Dessa forma, a decisão que considerou o Recurso Especial do Agravante intempestivo merece ser reformada, pois a penalidade pela oposição de recurso intempestivo por uma das partes não pode ser estendida à parte que aguardou, de boa-fé, o julgamento dos aclaratórios para, só então, interpor seu recurso.
+ ..
+A questão central do presente recurso é definir se a oposição de Embargos de Declaração, ainda que intempestivos, por uma das partes, tem o poder de prejudicar o direito da outra parte, que não opôs os embargos, de ter o prazo recursal interrompido.
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNADOS DE FORMA ESPECÍFICA NENHUM DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO APELO NOBRE. APLICAÇÃO DA SÚMULA N. 182 DO STJ. AGRAVO INTERNO DESPROVIDO. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL TIDO POR VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284/STF.
+VOTO
+O TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL não admitiu o apelo nobre com esteio na seguinte fundamentação (fls. 622-623) :
+Cabe destacar que a Câmara Julgadora não conheceu dos embargos de declaração no evento 122, ACOR2 diante de sua intempestividade, e conforme o entendimento do STJ, "o recurso de embargos de declaração, quando não conhecido por ser manifestamente incabível, intempestivo, ou por almejar atribuir efeitos infringentes sem a indicação, na peça de interposição, de vício próprio de embargabilidade, não possui a aptidão de interromper o prazo para a interposição de novos recursos." (AgRg nos EAR Esp n. 2.216.810/SP, relator Ministro Mauro Campbell Marques, Corte Especial, julgado em 27/6/2023, D Je de 3/7/2023.).
+ ..
+Nesse contexto, portanto, o julgamento de recurso não conhecido não interrompe, nem suspende o prazo para a interposição do recurso próprio, sendo inafastável, in casu, o reconhecimento da intempestividade do recurso especial apresentado após o julgamento de embargos declaratórios que não foram conhecidos pelo Órgão Julgador. Nesse sentido, a intimação eletrônica contendo as conclusões do acórdão proferido em sede dos embargos de declaração foi expedida em 28/05/2025 (Evento 76), sendo confirmada pela recorrente em 02/06/2025. Assim, a data final para a interposição do recurso especial para a ora recorrente se deu em 23/06/2025. Todavia, a petição recursal foi apresentada somente no dia 26/11/2025 (Evento 136), quando já decorrido o prazo legal de 15 dias estabelecido no artigo 1.003, § 5º, do CPC, contando-se o prazo somente em dias úteis, na forma do artigo 219 do mesmo diploma legal..
+Na hipótese dos autos, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, nenhum dos fundamentos mencionados na decisão agravada.
+Nesse contexto, são aplicáveis à espécie o art. 932, inciso III, do Código de Processo Civil, bem como o óbice da Súmula n. 182 do STJ, in verbis: " é  inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ilustrativamente:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ademais, extrai-se do recurso de agravo que a parte recorrente não indicou o dispositivo legal que entende ter sido violado por ocasião do julgamento de inadmissibilidade do recurso especial, onde se reconheceu que "o recurso de embargos de declaração, quando não conhecido por ser manifestamente incabível, intempestivo, ou por almejar atribuir efeitos infringentes sem a indicação, na peça de interposição, de vício próprio de embargabilidade, não possui a aptidão de interromper o prazo para a interposição de novos recursos". A parte recorrente limitou-se a alegar que aguardou de boa-fé o julgamento dos aclaratórios interpostos por outra parte na demanda para, só então, interpor o seu recurso.
+A falta de indicação do dispositivo de lei federal que a parte entende como tendo sido violado caracteriza a ausência de delimitação da controvérsia, atraindo a incidência da Súmula n. 284 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+Cabe ressaltar que a simples menção a artigos de lei ou a dissertação sobre atos normativos não se presta a atender ao requisito de admissão do recurso especial, consistente na indicação clara e inequívoca do dispositivo de lei federal ou tratado que se considera violado, o que se mostra indispensável, diante da natureza vinculada do recurso. No mesmo sentido: AgInt no REsp n. 1.861.859/ES, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 20/11/2023, DJe de 27/11/2023; AgInt no REsp n. 1.891.181/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/10/2023, DJe de 18/12/2023.
+Ante o exposto, NÃO CONHEÇO do ao agravo.
+É o voto.
