@@ -1,0 +1,16 @@
+DECISÃO
+Na ação proposta por Luciene Paulo da Silva Araújo contra o Estado de Alagoas, o Juízo de Direito da 16ª Vara Cível da Capital condenou o réu "a implantar, no vencimento do Autor, a diferença salarial referente a 10 horas adicionais que passou a laborar, bem como a pagar à parte autora quantia equivalente à diferença de 1/3 do valor da remuneração correspondente à jornada excedente cumprida a partir de 2016, observada a prescrição quinquenal" (e-STJ, fls. 147-148).
+Ao apreciar a apelação interposta pelo Estado, o Tribunal de Justiça de Alagoas decidiu dar-lhe provimento "para extinguir o feito sem julgamento de mérito, nos termos do art. 485, V, do CPC, ante o reconhecimento da coisa julgada" (e-STJ, fl. 252).
+Após ver rejeitados seus embargos de declaração (e-STJ, fls. 290-302), a autora ingressou com recurso especial (e-STJ, fls. 307-329), que não foi admitido pelo tribunal de origem (e-STJ, fls. 363-367), o que a levou a ingressar com o agravo em recurso especial de fls. 376-391 (e-STJ).
+Tendo sido sorteado relator do feito, nele proferi a decisão de fls. 430-437 (e-STJ), por intermédio da qual conheci do agravo para conhecer em parte do recurso especial e, nessa extensão, dar-lhe parcial provimento a fim de determinar ao tribunal de origem que promovesse o reexame da matéria relativa à coisa julgada à luz da jurisprudência do STJ (e-STJ, fls. 430-437).
+Contra essa decisão, o Estado de Alagoas interpôs o agravo interno de fls. 442-445 (e-STJ).
+Intimada a apresentar suas contrarrazões, a autora protocolizou a Petição n. 622.281/2026, tendo noticiado o seguinte (e-STJ, fl. 450):
+Informa a parte agravada que, após a interposição do presente recurso, as partes celebraram acordo extrajudicial/transação acerca da matéria objeto da demanda, tendo sido integralmente solucionada a controvérsia discutida nos autos.
+Dessa forma, resta caracterizada a perda superveniente do interesse processual no prosseguimento e julgamento do presente Agravo Interno, uma vez que a pretensão deduzida no recurso encontra-se definitivamente superada pela composição firmada entre as partes.
+Após a juntada, pela autora, da documentação comprobatória da celebração do noticiado acordo (e-STJ, fls. 483-487), o Estado de Alagoas, instado a se manifestar, informou que "a Secretaria de Estado do Planejamento, Gestão e Patrimônio (SEPLAG) está adotando as providências para o cumprimento do acordo em relação aos aderentes", requerendo, à vista disso, "a extinção do presente processo sem resolução do mérito" (e-STJ, fl. 499).
+Brevemente relatado, decido.
+Conforme noticiado pela parte autora, a pretensão por ela deduzida na presente ação acabou sendo objeto de autocomposição na via administrativa, o que fez desaparecer, por completo, o seu interesse na obtenção da tutela jurisdicional.
+Nessa conformação, torno sem efeito a decisão de fls. 430-437 (e-STJ) e, desde logo, julgo extinto o processo sem resolução do mérito, na forma do art. 485, VI, do CPC/2025, ficando prejudicado, em consequência, o agravo interno de fls. 442-445 (e-STJ).
+Por não haver necessidade de se aguardar o decurso do prazo recursal, cuide a Coordenadoria de, tão logo publicada esta decisão, certificar o trânsito em julgado e providenciar a baixa dos autos à origem.
+Publique-se.
+EMENTA
