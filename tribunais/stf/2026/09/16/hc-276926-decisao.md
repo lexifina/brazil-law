@@ -1,0 +1,32 @@
+DECISÃO: Trata-se de habeas corpus impetrado por Kaled Lakis, em favor de Denilson Gnoatto Pereira, contra acórdão da Sexta Turma do Superior Tribunal de Justiça no AgRg no HC 1.100.644/SP, que negou provimento ao agravo regimental e manteve a pena de 20 anos de reclusão imposta ao paciente. (eDOC 2, pp. 192-200)
+Consta dos autos que o paciente foi condenado pela prática do crime previsto no art. 159, § 1º, primeira parte, c/c o art. 29 do Código Penal. A pena foi fixada em 20 anos de reclusão. Em revisão criminal, o Tribunal de Justiça do Estado de São Paulo manteve a dosimetria. (eDOC 2, pp. 19-30)
+Nesta Corte, o impetrante sustenta que “a sentença utilizou fundamentação comum para todos os acusados e concluiu expressamente pela imposição da mesma pena-base máxima “para todos os acusados”” (eDOC 1, p. 7).
+Alega, ainda, que “a sentença utilizou fundamentação comum para todos os acusados e concluiu expressamente pela imposição da mesma pena-base máxima “para todos os ado Código Penal” (eDOC 1, p. 9), de modo que a consideração do período superior a 90 dias na primeira fase configuraria dupla valoração.
+Afirma, por fim, que “a existência de circunstâncias concretas desfavoráveis não impede o reconhecimento da ilegalidade quanto ao quantum aplicado” (eDOC 1, p. 14), porque os fundamentos adotados não justificariam o esgotamento integral do intervalo de oito anos entre as penas mínima e máxima.
+Requer a concessão da ordem para reconhecer a desproporcionalidade e a ausência de fundamentação individualizada da pena-base, com novo cálculo da reprimenda; subsidiariamente, pede a fixação da pena-base no mínimo legal de 12 anos ou em patamar intermediário. (eDOC 1, p. 17)
+É o relatório.
+Decido.
+
+A controvérsia diz respeito à dosimetria de condenação transitada em julgado, cuja revisão pela via do habeas corpus é excepcional. A intervenção das Cortes Superiores na pena fixada pelas instâncias ordinárias pressupõe ilegalidade manifesta, abuso de poder ou teratologia aferível de plano.
+Além disso, a Corte tem entendimento consolidado no sentido de que cabe às instâncias ordinárias fixar as penas, admitindo-se o controle de proporcionalidade em habeas corpus apenas em situações excepcionais. Nesse sentido: HC 232.473 AgR, Rel. Min. Flávio Dino, Primeira Turma, DJe 21.3.2024; HC 232.344 AgR, Rel. Min. Nunes Marques, Segunda Turma, DJe 7.12.2023; e AgR no HC 246.480, de minha relatoria, Segunda Turma, DJe 5.11.2024.
+No caso, a sentença fundamentou a exasperação da pena-base nos seguintes termos:
+
+“(...) em consideração às consequências do crime, que provocou traumas e produziu sequelas, ofendendo a saúde da vítima Maureen, em consideração as declarações de fls. 730/733, impõe-se a exasperação da pena, para atendimento de sua finalidade teleológica - retribuição e prevenção.
+Ainda neste passo, em consideração as circunstâncias do crime, que indicam traços de criminalidade organizada, com participação de pessoas domiciliadas em municípios distintos (...), que praticam a ação criminosa em localidade estranha de suas residências, demonstrando também predeterminação na prática delitiva, e por isso, intensidade de dolo, impõe-se maior exasperação da pena-base.
+Também em consideração às circunstâncias do crime, uma vez que a ofendida teve a liberdade cerceada por mais de noventa dias, a pena-base merece maior exasperação. Ora, se a lei admite a exasperação em caso privação da liberdade superior a vinte e quatro horas, obviamente, um sequestro de mais de noventa dias merece ser apenado mais rigorosamente, observando-se os parâmetros fixados no preceito secundário do tipo em questão.
+(...) Assim sendo, para todos os acusados, a pena-base é fixada em vinte anos, pois considerando um aumento correspondente a 2/3 do piso mínimo abstratamente cominado ao tipo em questão (§ 1º, artigo 159 do CP).” (eDOC 2, pp. 28-29)
+Ao examinar a revisão criminal, o Tribunal de Justiça consignou que as consequências do delito excederam o normal à espécie, pois a vítima do crime de extorsão mediante sequestro emagreceu “cerca de vinte quilos e ter contraído fungos, sofreu sérios traumas psicológicos, tanto que ainda faz acompanhamento psiquiátrico”. Registrou, ainda, que as circunstâncias do crime eram aptas a justificar o acréscimo imposto à pena-base. (eDOC 2, p. 29)
+A Sexta Turma do Superior Tribunal de Justiça, por sua vez, destacou a duração extraordinária do sequestro, superior a 90 dias, as severas consequências físicas e psicológicas sofridas pela vítima e a atuação premeditada do grupo criminoso, concluindo pela ausência de flagrante ilegalidade. (eDOC 2, pp. 192-200)
+Não identifico constrangimento ilegal patente.
+Em primeiro lugar, as consequências valoradas não se limitam ao sofrimento ordinariamente inerente ao delito. Foram indicados efeitos concretos e particularmente graves sobre a saúde física e psíquica da vítima. Também as circunstâncias do crime foram descritas a partir de elementos objetivos da execução, como a atuação coordenada de agentes domiciliados em municípios distintos, a prática em localidade diversa e a premeditação. Tais dados ultrapassam referências genéricas à gravidade abstrata do tipo.
+Tampouco se verifica, de plano, bis in idem na consideração da duração do sequestro. O dado temporal foi empregado pelo excesso muito superior ao limiar legal, e não pela mera presença do elemento qualificante.
+A circunstância de a pena-base ter sido fixada em igual patamar para os corréus também não demonstra, por si só, ausência de individualização. As vetoriais efetivamente consideradas — consequências e circunstâncias do crime — são objetivas e comuns à execução do fato. (eDOC 2, pp. 25-29)
+Na espécie, a elevação decorreu da conjugação de fundamentos concretos de gravidade excepcional: privação da liberdade por mais de três meses, consequências físicas e psicológicas intensas e modus operandi previamente organizado. À luz dessas premissas, não se mostra teratológica a manutenção da pena-base em 20 anos, ainda que fosse possível conceber, em juízo ordinário de dosimetria, solução quantitativa diversa.
+A via estreita do habeas corpus não autoriza substituir a valoração motivada das instâncias antecedentes por novo juízo discricionário sobre o quantum da pena, ausente erro jurídico manifesto.
+Ante o exposto, denego a ordem de habeas corpus (RISTF, art. 192).
+Publique-se.
+Brasília, 16 de setembro de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
