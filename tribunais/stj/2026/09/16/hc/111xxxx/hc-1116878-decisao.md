@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ERIK RAFAEL MARTINS DA SILVA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente encontra-se preso preventivamente pela suposta prática do crime de roubo majorado pelo concurso de agentes (art. 157, § 2º, II, do CP), tendo a prisão sido decretada em 25/04/2026.
+A defesa impetrou habeas corpus ao Tribunal de origem, que denegou a ordem em acórdão de fls. 9-40.
+No presente writ, a defesa sustenta a ausência de fundamentação concreta e contemporânea da decisão que decretou a segregação cautelar, afirmando que se baseou em premissa fática equivocada e contradições no acórdão recorrido.
+Declara a insuficiência de atos infracionais remotos como fundamento autônomo para manter a preventiva.
+Assevera serem adequadas as medidas cautelares previstas no artigo 319 do Código de Processo Penal e aponta ofensa ao princípio da homogeneidade, diante da probabilidade de fixação de regime inicial menos gravoso.
+Requer, ao final, a revogação da prisão preventiva, com a expedição de alvará de soltura, ou, subsidiariamente, sua substituição por medidas cautelares previstas no artigo 319 do Código de Processo Penal.
+Liminar indeferida às fls. 416-417.
+Informações prestadas às 429-467.
+É o relatório. DECIDO.
+A análise da decisão que decretou a prisão preventiva, permite a conclusão de que a prisão cautelar encontra-se devidamente fundamentada para a garantia da ordem pública, em razão da gravidade concreta da conduta atribuída, haja vista que o paciente, praticou, em tese, o crime de roubo majorado pelo concurso de agentes (art. 157, § 2º, II, do CP). O acusado, em concurso com outro corréu, teria empurrado a vítima e, mediante força física, subtraído a corrente de seu pescoço, fugindo em seguida com o auxílio de seu comparsa em uma bicicleta; a ação foi integralmente registrada por câmeras de segurança e, após diligências, a equipe policial localizou em sua residência diversas correntes (joias), documentos e roupas compatíveis com as imagens captadas - fls. 73-74.
+Insta consignar que a gravidade em concreto do crime e a periculosidade do agente, evidenciada pelo modus operandi, constituem fundamentação idônea para a decretação da custódia preventiva.
+Sobre o tema:
+"A jurisprudência do STF e do STJ admite a decretação da prisão preventiva com base na gravidade concreta do delito e na periculosidade extraída do modus operandi empregado" (AgRg no HC n. 1.062.919/GO, relatora Ministra Maria Marluce Caldas, Quinta Turma, DJEN de 18/8/2026.)
+"A manutenção da prisão preventiva é legítima quando demonstrados, com base em elementos concretos, a gravidade do delito, evidenciando o periculum libertatis e a necessidade de garantir a ordem pública" (AgRg no RHC n. 228.899/PI, relator Ministro Joel Ilan Paciornik, Quinta Turma,DJEN de 17/8/2026.)
+Ademais, conforme consta nos autos, o encarceramento provisório mostra-se necessário diante do fundado risco de reiteração delitiva, uma vez que o acusado possui histórico de atos infracionais, com registros de internações na Fundação Casa durante a adolescência - fl. 22.
+Com efeito, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública.
+A propósito:
+"A prisão preventiva está justificada pela garantia da ordem pública, evidenciado risco concreto pela existência de outras ações penais e inquéritos por tráfico"(AgRg no RHC n. 237.207/BA, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 18/8/2026.)
+"De acordo com o STJ, "A existência de maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou ações penais em curso são elementos suficientes para demonstrar o risco de reiteração delitiva e justificar a prisão preventiva, conforme entendimento do Superior Tribunal de Justiça" (AgRg no RHC n. 236.988/MG, relator Ministro Rogerio Schietti, Sexta Turma, DJEN de 17/8/2026.)
+"como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência ou até mesmo outras ações penais ou inquéritos em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (AgRg no RHC n. 223.637/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 21/10/2025.)
+Segundo bem ressaltado pelo acórdão recorrido, embora a defesa sustente que os atos infracionais mencionados sejam antigos (10/05/2023 e 18/09/2021), praticados pelo paciente durante a adolescência (fls. 4), inexistindo demonstração concreta de contemporaneidade apta a evidenciar risco atual à ordem pública, impende consignar que tal circunstância, ainda que não configure reincidência, indica reiteração delitiva e revela o receio de novas investidas contra a ordem pública, reforçando, assim, a presença dos requisitos da custódia cautelar - fl. 22.
+Outrossim, vale pontuar que não se presta a via do habeas corpus para análise de desproporcionalidade da prisão em face de eventual condenação do réu, uma vez que tal exame só poderá ser realizado pelo Juízo de primeiro grau, após cognição exauriente de fatos e provas do processo, a fim de definir, se for o caso, a pena e o regime a serem aplicados.
+Nesse sentido:
+"É inviável a aplicação do princípio da homogeneidade por meio de prognóstico antecipado de pena e regime inicial na via estreita do writ" (AgRg no RHC n. 230.880/RJ, relatora Ministra Maria Marluce Caldas, Quinta Turma, DJEN de 18/8/2026.)
+"A alegação de violação do princípio da homogeneidade não prospera, pois a aferição do regime prisional em eventual condenação depende de dilação probatória ainda em curso, sendo inviável o juízo prognóstico nesta via" (AgRg no RHC n. 233.478/BA, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 12/8/2026, DJEN de 18/8/2026.)
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
