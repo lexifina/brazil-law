@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 10/09/2026 a 16/09/2026, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Teodoro Silva Santos.
+EMENTA
+PROCESSO CIVIL E DESAPROPRIAÇÃO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÕES. E CONTRADIÇÕES INEXISTÊNCIA. EMBARGOS REJEITADOS, COM ADVERTÊNCIA.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. A contradição ensejadora dos declaratórios deve ser aquela verificada no bojo do decisum impugnado, ou seja, aquela existente entre os fundamentos utilizados para embasá-lo e a sua conclusão, e não entre a fundamentação e a tese defendida pela parte.
+3. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+4. Embargos de declaração rejeitados, com a advertência de que, caso sejam reiterados embargos de declaração com argumentos meramente protelatórios, será aplicada multa processual.
+RELATÓRIO
+Trata-se de embargos de declaração opostos pelo MUNICÍPIO DE BELO HORIZONTE contra acórdão por mim relatado que conheceu parcialmente do respectivo recurso especial e, nessa extensão, negou-lhe, nos termos da seguinte ementa (fl. 742):
+PROCESSUAL CIVIL E DESAPROPRIAÇÃO INDIRETA. RECURSO ESPECIAL. ALEGAÇÃO DE AFRONTA A DISPOSITIVOS DA CARTA MAGNA. IMPOSSIBILIDADE DE EXAME NA VIA DO APELO NOBRE. SUPOSTA CONTRARIEDADE AOS ARTS. 489 E 1.022 DO CPC/2015. ÔNUS PELO PAGAMENTO DE HONORÁRIOS PERICIAIS. PLEITO PELA APLICAÇÃO DA REGRA CONTIDA NO ART. 95 DO CPC/2015. ACÓRDÃO RECORRIDO COM FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO INTERPOSTO RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA N. 126 DO STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. A via do recurso especial, destinada a uniformizar a interpretação do direito federal infraconstitucional, não se presta à análise da alegação de ofensa a dispositivo da Constituição da República.
+2. O acórdão recorrido não possui as omissões suscitadas. Ao revés, o Tribunal a quo se manifestou sobre todos os aspectos importantes ao deslinde do feito, adotando argumentação concreta e que satisfaz o dever de fundamentação das decisões judiciais.
+3. O Tribunal de origem, para afastar a tese segundo a qual é aplicável à hipótese dos autos o comando normativo contido no art. 95 do CPC/2015 porque, mesmo nas demandas expropriatórias, o pagamento dos honorários periciais é ônus que deve recair sobre a parte que requer a produção da prova técnica, além da fundamentação infraconstitucional, está assentado em fundamento lastreado na Carta Magna (dever constitucional do ente público nas ações de desapropriação indireta de pagar justa e prévia indenização) autônomo e suficiente, por si só, para dar suporte à conclusão do Tribunal de origem.
+4. Recurso especial parcialmente conhecido e, nessa extensão, desprovido.
+Sustenta a parte embargante que o aresto embargado contém as seguintes omissões e contradições:
+a) não foram examinados os argumentos veiculados nas razões do apelo nobre e que fundamentaram as alegações de afronta ao art. 1.022 do CPC/2015 em decorrência de negativa de prestação jurisdicional, por parte do Tribunal a quo, quando do julgamento dos embargos de declaração;
+b) a Corte de origem não enfrentou de forma adequada o fundamento relativo a precedente do Superior Tribunal de Justiça - REsp n. 1.343.375/BA, da relatoria da Exma. Senhora Ministra Eliana Calmon -, que tratou da aplicação do comando normativo contido no art. 95 do CPC/2015 às ações de desapropriação indireta, o que configurou malferimento ao art. 489 do CPC/2015;
+c) o acórdão embargado não demonstrou os motivos pelos quais o fundamento do aresto prolatado pelo Tribunal a quo seria autônomo a ponto de justificar a aplicação do óbice da Súmula n. 126 do STJ pela ausência de interposição de recurso extraordinário, sendo certo que o ora Embargante não se insurgiu contra o dever constitucional de indenizar em razão da desapropriação indireta, nem contra a obrigação do Estado de levar a efeito justa indenização.
+Não foram apresentadas respostas ao recurso integrativo (fls. 771 e 772).
+É o relatório.
+EMENTA
+PROCESSO CIVIL E DESAPROPRIAÇÃO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÕES. E CONTRADIÇÕES INEXISTÊNCIA. EMBARGOS REJEITADOS, COM ADVERTÊNCIA.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. A contradição ensejadora dos declaratórios deve ser aquela verificada no bojo do decisum impugnado, ou seja, aquela existente entre os fundamentos utilizados para embasá-lo e a sua conclusão, e não entre a fundamentação e a tese defendida pela parte.
+3. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+4. Embargos de declaração rejeitados, com a advertência de que, caso sejam reiterados embargos de declaração com argumentos meramente protelatórios, será aplicada multa processual.
+VOTO
+Os embargos de declaração não devem ser acolhidos.
+Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial. Ocorre que tais vícios não são verificados no aresto ora embargado.
+Inicialmente, esclareço que a contradição ensejadora dos declaratórios deve ser aquela verificada no bojo do decisum impugnado, ou seja, aquela existente entre os fundamentos utilizados para embasá-lo e a sua conclusão, e não entre a fundamentação e a tese defendida pela parte, tal como pretende o ora Embargante.
+Nesse sentido: "a contradição sanável por meio dos aclaratórios é aquela interna ao julgado embargado, que se dá entre a fundamentação e o dispositivo, de modo a evidenciar uma ausência de logicidade no raciocínio desenvolvido pelo julgador". (EDcl no AgInt no AREsp n. 2.369.902/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/11/2023, DJe de 17/11/2023).
+No mesmo entendimento:
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. ISS. ARRENDAMENTO MERCANTIL. SUPOSTA OFENSA AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. COMPETÊNCIA PARA EXIGÊNCIA DO IMPOSTO LOCAL. RESP N. 1.060.210/SC (TEMA REPETITIVO N. 355/STJ). ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. A contradição ensejadora dos declaratórios deve ser aquela verificada no bojo do decisum embargado, ou seja, aquela existente entre os fundamentos utilizados para embasá-lo e a respectiva conclusão, e não entre a fundamentação e a tese defendida pela parte.
+ ..
+6. Agravo interno desprovido.
+(AgInt no REsp n. 2.013.897/MG, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 28/5/2025, DJEN de 4/6/2025.)
+Ademais, o acórdão impugnado resolveu a questão controvertida de forma inteligível e congruente, porquanto apresentou todos os fundamentos que alicerçaram o convencimento nele plasmado, em conformidade com a legislação de regência e com o atual entendimento jurisprudencial do Superior Tribunal de Justiça.
+Com efeito, no aresto embargado foi explicitamente assinalado que:
+a) não é possível, na via do recurso especial, examinar alegação de contrariedade a dispositivo constitucional;
+b) não houve afronta ao art. 1.022 do CPC/2015, porquanto o acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais não apresentava as omissões suscitadas pela parte ora Embargante, porquanto aquela corte se pronunciou de forma adequada a propósito de todos os temas indispensáveis à solução da lide posta ao crivo do Poder Judiciário;
+c) inexistiu malferimento ao art. 489 do CPC/2015, pois o aresto então objurgado contém fundamentação escorreita e adequada a sustentar as conclusões nele plasmadas;
+d) A Corte de origem, com o fito de arredar a tese esgrimida pelo ora Embargante, isto é, pela aplicabilidade à hipótese dos autos do preconizado no art. 95 do CPC/2015 (ausência de responsabilidade do ente público quanto ao pagamento de honorários periciais, o que seria ônus atribuível às ora Embargadas por terem pleiteado a perícia), além de fundamentação infraconstitucional, também alicerçou as respectivas conclusões em fundamento constitucional autônomo e suficiente para ampará-las, qual seja, o dever constitucional do ente público nas ações de desapropriação indireta de pagar justa e prévia indenização, mas não foi interposto recurso extraordinário, o que acarretou a incidência do óbice da Súmula n. 126 do STJ.
+Ressalto, ainda, que a intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+(EDcl no REsp n. 1.978.532/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 11/3/2024, DJe de 15/3/2024.)
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. TEMA N. 1.109. RENÚNCIA TÁCITA À PRESCRIÇÃO POR PARTE DA ADMINISTRAÇÃO. INAPLICABILIDADE DO ART. 191 DO CÓDIGO CIVIL NA ESPÉCIE. REGIME JURÍDICO-ADMINISTRATIVO DE DIREITO PÚBLICO QUE EXIGE LEI AUTORIZATIVA PRÓPRIA PARA FINS DE RENÚNCIA À PRESCRIÇÃO JÁ CONSUMADA EM FAVOR DA ADMINISTRAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas obscuridades no julgado combatido, traduzem, na verdade, o inconformismo da parte com o decisório tomado, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+(EDcl no REsp n. 1.928.910/RS, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 19/12/2023, DJe de 5/2/2024.)
+Ante o exposto, REJEITO os embargos de declaração, com a advertência de que, caso sejam reiterados embargos de declaração com argumentos meramente protelatórios, será aplicada multa processual.
+É como voto.
