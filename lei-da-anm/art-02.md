@@ -42,6 +42,7 @@ XXXVII - regulamentar a aplicação de recursos de pesquisa, desenvolvimento tec
 XXXVIII - regular, normatizar, autorizar, controlar e fiscalizar as atividades de pesquisa e lavra de minérios nucleares no País, exceto em relação às questões de segurança nuclear e proteção radiológica, observado o disposto no art. 6º da Lei nº 14.222, de 15 de outubro de 2021;
 XXXIX - fiscalizar os titulares de concessões de lavra quanto à ocorrência de elementos nucleares;
 XL - (VETADO).
+XLI - habilitar os projetos de pesquisa, desenvolvimento e inovação tecnológica relacionados à pesquisa, à lavra, ao beneficiamento e à transformação mineral de minerais críticos e estratégicos.
 § 1º A ANM deverá, ao tomar conhecimento de fato que possa configurar indício de infração da ordem econômica, comunicá-lo imediatamente ao Conselho Administrativo de Defesa Econômica (Cade).
 § 2º Se a comunicação prevista no § 1º deste artigo decorrer de cessão de direitos minerários que não atenda aos critérios previstos na legislação de defesa da concorrência brasileira, a anuência da cessão estará vinculada à decisão terminativa proferida pelo Cade publicada em meio oficial.
 § 3º A ANM deverá, ao tomar conhecimento de fato que possa configurar indício de infração penal, comunicá-lo imediatamente à autoridade competente.
