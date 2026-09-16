@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de IGOR GUILHERME MENDES DOS SANTOS, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente encontra-se preso preventivamente pela suposta prática dos arts. 33, caput, e 35, caput, da Lei 11.343/2006, e do art. 329 do Código Penal.
+A defesa impetrou habeas corpus ao Tribunal de origem, que denegou a ordem em acórdão de fls. 10-15.
+No presente writ, a defesa sustenta a ausência de fundamentação concreta da decisão que decretou a segregação cautelar, por basear-se em gravidade abstrata, quantidade de droga e tentativa de fuga, sem demonstrar o periculum libertatis.
+Afirma que a decisão se apoiou em fundamentos abstratos e presunções genéricas (denúncia anônima, suposta vinculação a terceiros, alegado "aparelhamento" e presunção de ausência de trabalho) sem individualizar a conduta do paciente
+Requer, ao final, a revogação da prisão preventiva ou, subsidiariamente, a sua substituição por medidas cautelares diversas, previstas no art. 319 do Código de Processo Penal.
+Liminar indeferida às fls. 32-33.
+Informações solicitadas às fls. 39-58.
+O Ministério Público Federal, em parecer às fls. 62-64, manifestou-se pelo não conhecimento do habeas corpus.
+É o relatório. DECIDO.
+In casu, a decisão que decretou a prisão preventiva encontra-se fundamentada na garantia da ordem pública, diante da gravidade concreta da conduta atribuída ao paciente, surpreendido por policiais após denúncia de comercialização e ocultação de drogas em área de mata entre os bairros Parque do Horto e Jardim Cambuí. Ao perceber a aproximação da viatura, o paciente e o corréu teriam empreendido fuga, transpondo cercas e adentrando galerias pluviais, resistindo à abordagem com violência e agressões físicas contra os agentes, o que exigiu uso moderado da força para sua contenção, ocasião em que, na busca pessoal, foram apreendidos 8,2 gramas de maconha, 66 gramas de cocaína fracionada em 57 porções, além de balança de precisão, três aparelhos celulares e R$162,00 em espécie, circunstâncias que evidenciam a periculosidade concreta do agente e a necessidade da segregação cautelar - fl. 14.
+Sobre o tema:
+"A prisão preventiva encontra-se devidamente fundamentada em elementos concretos, notadamente na gravidade da conduta, caracterizada pela atuação em contexto de tráfico de drogas com participação de adolescentes e apreensão de entorpecentes e valores fracionados" (AgRg no HC n. 1.082.011/MG, relatora Ministra Maria Marluce Caldas, Quinta Turma, DJEN de 16/7/2026.)
+"A prisão preventiva permanece justificada pela garantia da ordem pública, diante da gravidade concreta demonstrada pela apreensão de significativa quantidade e variedade de entorpecentes e pela indicativa associação para o tráfico, elementos que evidenciam a periculosidade da agravante" (AgRg no HC n. 1.077.286/MS, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 3/7/2026.)
+Registra-se, ainda, que a jurisprudência desta Corte Superior não exige a completa individualização da conduta de cada suspeito na fase investigativa, bastando a demonstração de indícios de prática delitiva e da indispensabilidade das medidas. Nesse sentido: AgRg no RHC n. 203.724/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJEN de 11/3/2025 e AgRg no RHC n. 208.625/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 11/3/2025.
+Por fim, ressalta-se que a presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+Nesse sentido:
+"Condições pessoais favoráveis não impedem a decretação ou manutenção da prisão preventiva quando presentes os requisitos do art. 312 do CPP; medidas cautelares diversas da prisão mostram-se inadequadas quando demonstrada, de forma concreta, a necessidade da custódia" (AgRg no RHC n. 232.360/SP, relatora Ministra Maria Marluce Caldas, Quinta Turma, DJEN de 18/8/2026.)
+"Eventuais condições pessoais favoráveis não possuem o condão de, isoladamente, conduzir à revogação da prisão preventiva, sendo certo que, concretamente demonstrada pelas instâncias ordinárias sua necessidade, não se afigura suficiente a fixação de medidas cautelares alternativas, diante da ausência de comprovação de sua eficácia no caso concreto" (RHC n. 236.049/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 18/8/2026.)
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
