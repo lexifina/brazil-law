@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 10/09/2026 a 16/09/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Messod Azulay Neto, Maria Marluce Caldas, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental NO Agravo em recurso especial. POSSE ILEGAL DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA. ABSOLVIÇÃO. Óbices de admissibilidade. Súmula n. 182/STJ e Súmula n. 7/STJ. Desprovimento DO AGRAVO REGIMENTAL .
+I. Caso em exame
+1. O recurso. Agravo regimental interposto contra decisão monocrática da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial, com fundamento na Súmula n. 182/STJ.
+2. Fato relevante. A defesa sustenta o preenchimento dos requisitos de admissibilidade do recurso especial e afirma ter impugnado todos os fundamentos da decisão de inadmissibilidade, postulando a reconsideração ou a apreciação colegiada.
+3. Decisão anterior. Mantida a decisão agravada, o feito foi submetido à Turma competente, com voto pela negativa de provimento ao agravo regimental.
+II. Questão em discussão
+4. Há duas questões em discussão: (i) saber se o agravo regimental impugnou de forma específica os fundamentos que ensejaram o não conhecimento do agravo em recurso especial, notadamente o óbice da Súmula n. 182/STJ; e (ii) saber se é possível afastar a incidência da Súmula n. 7/STJ sob a alegação de mera revaloração jurídica das provas, sem incursão no acervo fático-probatório.
+III. Razões de decidir
+5. O agravante não apresentou argumentos novos nem impugnação específica apta a infirmar os fundamentos da decisão monocrática, mantendo-se hígido o óbice da Súmula n. 182/STJ.
+6. Para afastar a Súmula n. 7/STJ, incumbe ao recorrente demonstrar de modo concreto e individualizado que a reforma pode ocorrer exclusivamente com base nas premissas fáticas fixadas no acórdão recorrido, sem reexame do conjunto probatório, o que não ocorreu.
+7. A pretensão recursal demanda revisão da credibilidade, coerência e suficiência dos elementos de prova valorados pelas instâncias ordinárias (depoimentos policiais, testemunha de defesa e versão do acusado), caracterizando reexame probatório vedado na via especial.
+8. A mera qualificação da tese como "revaloração da prova" não afasta o óbice sumular quando a modificação do julgado pressupõe nova análise da prova.
+9. A indicação de dispositivos legais e de interpretação reputada adequada, desacompanhada de enfrentamento objetivo e individualizado dos óbices de admissibilidade, não supre a exigência de impugnação específica.
+10. O recurso especial tem natureza excepcional e não se destina à revisão ampla das conclusões fáticas das instâncias ordinárias, sob pena de indevida transformação do Superior Tribunal de Justiça em terceira instância.
+IV. Dispositivo e tese
+11. Resultado do Julgamento: Agravo regimental desprovido.
+RELATÓRIO
+Cuida-se de agravo regimental interposto por EDILSON ALVES MEDEIROS contra decisão monocrática da Presidência do STJ que não conheceu do agravo em recurso especial, com base na Súmula n. 182 do STJ.
+No presente agravo regimental (fls. 278-302), a defesa repisa os argumentos anteriormente apresentados no recurso, no sentido que os requisitos para a admissão do recurso estão preenchidos e que a parte agravante impugnou todos os fundamentos da decisão.
+Postula, assim, a reconsideração da decisão, ou que o presente agravo seja submetido à apreciação do Colegiado, pugnando pelo seu total provimento.
+Por manter a decisão agravada, submeto o feito à Quinta Turma.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental NO Agravo em recurso especial. POSSE ILEGAL DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA. ABSOLVIÇÃO. Óbices de admissibilidade. Súmula n. 182/STJ e Súmula n. 7/STJ. Desprovimento DO AGRAVO REGIMENTAL .
+I. Caso em exame
+1. O recurso. Agravo regimental interposto contra decisão monocrática da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial, com fundamento na Súmula n. 182/STJ.
+2. Fato relevante. A defesa sustenta o preenchimento dos requisitos de admissibilidade do recurso especial e afirma ter impugnado todos os fundamentos da decisão de inadmissibilidade, postulando a reconsideração ou a apreciação colegiada.
+3. Decisão anterior. Mantida a decisão agravada, o feito foi submetido à Turma competente, com voto pela negativa de provimento ao agravo regimental.
+II. Questão em discussão
+4. Há duas questões em discussão: (i) saber se o agravo regimental impugnou de forma específica os fundamentos que ensejaram o não conhecimento do agravo em recurso especial, notadamente o óbice da Súmula n. 182/STJ; e (ii) saber se é possível afastar a incidência da Súmula n. 7/STJ sob a alegação de mera revaloração jurídica das provas, sem incursão no acervo fático-probatório.
+III. Razões de decidir
+5. O agravante não apresentou argumentos novos nem impugnação específica apta a infirmar os fundamentos da decisão monocrática, mantendo-se hígido o óbice da Súmula n. 182/STJ.
+6. Para afastar a Súmula n. 7/STJ, incumbe ao recorrente demonstrar de modo concreto e individualizado que a reforma pode ocorrer exclusivamente com base nas premissas fáticas fixadas no acórdão recorrido, sem reexame do conjunto probatório, o que não ocorreu.
+7. A pretensão recursal demanda revisão da credibilidade, coerência e suficiência dos elementos de prova valorados pelas instâncias ordinárias (depoimentos policiais, testemunha de defesa e versão do acusado), caracterizando reexame probatório vedado na via especial.
+8. A mera qualificação da tese como "revaloração da prova" não afasta o óbice sumular quando a modificação do julgado pressupõe nova análise da prova.
+9. A indicação de dispositivos legais e de interpretação reputada adequada, desacompanhada de enfrentamento objetivo e individualizado dos óbices de admissibilidade, não supre a exigência de impugnação específica.
+10. O recurso especial tem natureza excepcional e não se destina à revisão ampla das conclusões fáticas das instâncias ordinárias, sob pena de indevida transformação do Superior Tribunal de Justiça em terceira instância.
+IV. Dispositivo e tese
+11. Resultado do Julgamento: Agravo regimental desprovido.
+VOTO
+A parte que se considerar prejudicada por decisão monocrática proferida pelo Relator poderá, no prazo de cinco dias, requerer a apresentação do feito em mesa, nas matérias penais em geral, a fim de que a Corte Especial, a Seção ou a Turma competente se pronuncie sobre a controvérsia, mantendo ou reformando a decisão impugnada.
+No caso, as razões apresentadas pela parte agravante não contêm argumentos novos ou fundamentos jurídicos aptos a infirmar as conclusões adotadas na decisão monocrática, razão pela qual não se evidencia motivo para a alteração do entendimento anteriormente firmado.
+Consoante consignado na decisão agravada, o agravante não impugnou adequadamente os óbices que ensejaram a inadmissão do recurso especial, notadamente aquele decorrente da incidência da Súmula n. 7 do Superior Tribunal de Justiça.
+Com efeito, para afastar a aplicação do referido enunciado sumular, não basta a mera afirmação de que sua incidência seria indevida ou de que a pretensão recursal estaria limitada à revaloração jurídica das provas. Incumbe ao recorrente demonstrar, de maneira concreta e individualizada, que a modificação da conclusão alcançada pelo Tribunal de origem pode ser realizada exclusivamente a partir das premissas fáticas já estabelecidas no acórdão recorrido, sem necessidade de nova incursão sobre o conjunto probatório dos autos.
+Na hipótese, contudo, a pretensão recursal pressupõe justamente a revisão da valoração conferida pelas instâncias ordinárias aos elementos de prova produzidos no processo.
+Com efeito, o Tribunal de origem assentou que eventual divergência quanto ao local exato em que a arma de fogo foi encontrada não constituiria circunstância suficientemente relevante para afastar a credibilidade atribuída aos depoimentos dos agentes policiais, tratando-se de aspecto periférico diante do conjunto probatório considerado na formação do convencimento judicial. Registrou-se, ainda, que, em razão da natureza rotineira das diligências realizadas pelos agentes de segurança, não seria razoável exigir absoluta precisão na descrição de todos os pormenores do fato, sobretudo quando inexistentes elementos concretos capazes de comprometer a coerência substancial de seus relatos.
+Além disso, a conclusão adotada pela instância ordinária não se baseou exclusivamente nos depoimentos policiais. A testemunha de defesa José Reinaldo Nunes afirmou que frequentava o estabelecimento havia aproximadamente três anos para a prática de jogo do bicho e confirmou que se encontrava no local no momento em que os policiais localizaram a arma de fogo no interior do estabelecimento, embora não tivesse presenciado o ponto exato em que o objeto foi encontrado.
+O próprio acusado, por sua vez, admitiu a exploração do jogo do bicho e reconheceu que a arma foi apreendida no interior de seu estabelecimento, embora tenha sustentado tese de negativa de autoria, afirmando que o artefato não lhe pertencia e que teria sido ali colocado pelos agentes policiais. Alegou, para tanto, ser vítima de perseguição decorrente de disputas relacionadas à exploração do jogo do bicho e de desavença com um vizinho policial. Consta, ainda, do acórdão recorrido a referência à existência de processo anterior envolvendo a posse de outra arma de fogo.
+Nesse contexto, acolher a pretensão defensiva demandaria nova apreciação acerca da credibilidade dos depoimentos policiais, da relevância das divergências apontadas, da força probatória do relato da testemunha de defesa e da plausibilidade da versão apresentada pelo acusado. Tal providência ultrapassa os limites da mera revaloração jurídica de fatos incontroversos e implica efetivo reexame do acervo fático-probatório, providência inviável em recurso especial, nos termos da Súmula n. 7/STJ.
+A mera atribuição da expressão "revaloração da prova" à pretensão recursal não altera essa conclusão. O que define a incidência do óbice sumular é a natureza da providência necessária à modificação do julgado recorrido: se a reforma pretendida depende de nova análise da suficiência, da coerência ou da credibilidade dos elementos de convicção constantes dos autos, está configurado o reexame probatório vedado na via especial.
+Do mesmo modo, a simples menção a dispositivos de legislação federal, acompanhada da exposição da interpretação jurídica que o recorrente reputa mais adequada à solução da controvérsia, não se mostra suficiente para superar os óbices de admissibilidade apontados. O agravo deve dirigir-se especificamente aos fundamentos que impediram o processamento do recurso especial, demonstrando, de forma objetiva e individualizada, as razões pelas quais não incidiriam no caso concreto.
+Não basta, portanto, reproduzir argumentação própria de recurso de apelação, voltada essencialmente à obtenção de nova apreciação da causa. O Superior Tribunal de Justiça não atua como instância recursal ordinária, tampouco como Corte de revisão ampla das conclusões fáticas alcançadas pelas instâncias de origem.
+O recurso especial possui natureza excepcional, fundamentação vinculada e requisitos próprios de admissibilidade. Sua finalidade consiste em assegurar a correta interpretação e a uniformização da legislação federal infraconstitucional, e não em promover novo julgamento da causa ou nova valoração do conjunto probatório, sob pena de se converter o Superior Tribunal de Justiça em verdadeira terceira instância recursal.
+Assim, não tendo a parte agravante demonstrado o desacerto dos fundamentos adotados na decisão monocrática, tampouco apresentado argumentos aptos a afastar a incidência da Súmula n. 7/STJ, impõe-se a manutenção do entendimento anteriormente firmado.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
