@@ -1,0 +1,22 @@
+DECISÃO: Trata-se de embargos de declaração opostos por MIGUEL ANGELO CLARO e VANESSA DOMINGUES CLARO contra decisão de minha lavra que julgou parcialmente procedente a reclamação para assegurar à defesa o acesso aos elementos de prova já documentados e restituir o prazo para complementação das alegações finais (eDOC 30, p. 5).
+Os embargantes sustentam, em síntese, que o julgado contém “contradição entre os fundamentos (...) e o dispositivo” (eDOC 33, p. 2), “omissão quanto ao pedido sucessivo e à fase do art. 402 do CPP” (eDOC 33, p. 2) e “obscuridade nas expressões ‘complementação das alegações finais’ e ‘na data em que franqueado o acesso’” (eDOC 33, p. 2).
+Requerem que se reconheça a possibilidade de formular e ver apreciados requerimentos de diligências antes dos memoriais ou, subsidiariamente, que se atribuam efeitos modificativos aos embargos (eDOC 33, pp. 11-12).
+Em petição superveniente, afirmam que “a liberação sistêmica, contudo, não produziu acesso integral” (eDOC 39, p. 2) e noticiam a pendência, na origem, de requerimentos de diligências formulados em 31.8.2026 (eDOC 39, pp. 2-4).
+É o relatório.
+Decido.
+Os embargos de declaração não podem ser acolhidos.
+Ressalto que os embargos de declaração são cabíveis para sanar a ocorrência de obscuridade, contradição ou, ainda, suprir omissão de ponto ou questão da decisão embargada, bem como para corrigir erro material.
+A decisão embargada registrou expressamente que, após as informações, os reclamantes postularam “nulidade desde a resposta à acusação ou, sucessivamente, desde o início da instrução” (eDOC 30, p. 2). Ao definir a providência cabível, limitou a recomposição processual à fase de alegações finais e determinou que, “na data em que franqueado o acesso, seja restituído à defesa o prazo de 10 (dez) dias para complementação das alegações finais” (eDOC 30, p. 5).
+Não houve omissão. A limitação expressa da tutela à fase de alegações finais afastou a pretendida anulação automática da instrução. O julgador não está obrigado a examinar, um a um, todos os argumentos ou consequências que a parte extrai dos arts. 402 e 404 do Código de Processo Penal, quando a questão não é necessária à solução da controvérsia submetida à reclamação.
+Também não há contradição. O reconhecimento de que o acesso deve anteceder o julgamento é inteiramente compatível com a oportunidade de manifestação defensiva antes da sentença. Disso não decorre, como consequência necessária, a reabertura automática da instrução ou de nova fase para requerimento de provas. A decisão não impediu a defesa de formular pedidos ao Juízo natural; apenas não antecipou o exame da admissibilidade e da imprescindibilidade de diligências específicas, matérias que devem ser inicialmente apreciadas na origem.
+O dispositivo, por sua vez, é claro. A expressão “na data em que franqueado o acesso” refere-se ao acesso aos elementos especificados na própria ordem, e não a providência sistêmica anterior que não corresponda ao seu efetivo cumprimento. A verificação da completude do material disponibilizado e da data em que isso ocorreu diz respeito à execução do julgado. Do mesmo modo, a expressão “complementação das alegações finais” designa a oportunidade adicional concedida para a apresentação dos memoriais, sem determinar nem vedar providência processual diversa.
+Os fatos supervenientes noticiados não revelam vício interno da decisão. A alegada indisponibilidade de parte do relatório, das mídias ou dos documentos-fonte, assim como a pendência de requerimentos de diligências, poderá ser examinada no âmbito do cumprimento da ordem ou pelo Juízo de origem, conforme a natureza da questão, mas não autoriza ampliar, em embargos de declaração, o alcance objetivo da tutela concedida.
+Como se pode observar, a decisão embargada enfrentou os pontos necessários ao julgamento e delimitou de forma coerente a providência deferida. Os aclaratórios buscam, em verdade, obter a ampliação da tutela para alcançar fase processual que não foi reaberta.
+Não verifico, portanto, qualquer omissão, obscuridade, contradição ou erro material na decisão embargada, mas mero inconformismo com o seu conteúdo e pretensão de rediscussão do mérito, o que deve ser endereçado pelas vias processuais adequadas.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Comunique-se ao Juízo de primeiro grau.
+Brasília, 16 de setembro de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
