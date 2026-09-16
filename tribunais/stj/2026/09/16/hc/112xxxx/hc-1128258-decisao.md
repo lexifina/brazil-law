@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de AILTON DOMBROSKI e GILMAR DOMBROSKI, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, nos autos do Recurso em Sentido Estrito n. 5000696-66.2024.8.21.0157 (fls. 2-12).
+Consta dos autos que os pacientes respondem a ação penal de competência do Tribunal do Júri, por suposta prática de tentativa de homicídio, mediante conjunção de esforços dos acusados.
+A denúncia foi recebida em 02/12/2013, e, após a instrução, sobreveio decisão, em 04/11/2019, que pronunciou os pacientes pelo art. 121, caput, c/c art. 14, II, do Código Penal, e impronunciou um dos corréus , nos termos do art. 414 do Código de Processo Penal.
+Narra a inicial que o Tribunal de origem, em 28/06/2024, negou provimento a recurso em sentido estrito e manteve a pronúncia dos pacientes.
+No presente writ, a parte impetrante alega que a pronúncia carece de indícios suficientes de autoria, por apoiar-se exclusivamente em reconhecimentos inválidos, em especial o reconhecimento fotográfico realizado na Delegacia de Polícia em 29/06/2011, sem observância das formalidades do art. 226 do Código de Processo Penal.
+Sustenta que não houve descrição prévia individualizada, que as fotografias dos suspeitos foram inseridas em álbum de pessoas com passagens policiais após a autoridade já ter elegido previamente os irmãos DOMBROSKI como suspeitos, e que um dos pacientes sequer possuía antecedentes à época, tendo sua imagem sido obtida fora do acervo e incluída no procedimento.
+Argumenta, ainda, que o reconhecimento judicial subsequente não convalida o vício originário e, ao contrário, revela contradições relevantes entre os depoimentos prestados na fase policial e em juízo.
+Ressalta, ainda, a orientação desta Corte no Tema Repetitivo n. 1.258 e precedentes correlatos sobre a invalidade de reconhecimentos feitos em desacordo com o art. 226 do Código de Processo Penal e a impossibilidade de sua utilização para fundamentar decisões, inclusive de pronúncia.
+Por fim, afirma violação ao art. 476 do Código de Processo Penal, por pretensão acusatória de sustentar em plenário fato diverso do descrito na pronúncia quanto à autoria do disparo atribuída ao paciente AILTON DOMBROSKI .
+Requer, em liminar, a suspensão da sessão do Tribunal do Júri designada para 10/09/2026, e, no mérito, a concessão da ordem para declarar a nulidade dos reconhecimentos fotográficos, determinar seu desentranhamento e vedar seu uso em qualquer fase do processo, cassando o acórdão impugnado para impronunciar os pacientes.
+Subsidiariamente, pugna pela prolação de nova decisão conforme o art. 413 do Código de Processo Penal sem considerar a prova invalidada e, ainda, pela determinação de que, em plenário, a acusação e a quesitação observem estritamente os limites da pronúncia, vedando-se imputação da autoria do disparo ao paciente AILTON DOMBROSKI .
+É o relatório.
+Decido.
+De início, cumpre destacar que, na estreita via do habeas corpus, exige-se a prévia constituição da prova, devendo a impetração ser devidamente instruída com toda a documentação indispensável à apreciação da pretensão deduzida.
+No caso em exame, entretanto, verifica-se que a parte impetrante deixou de acostar aos autos cópia do acórdão apontado como ato coator na impetração, peça imprescindível à adequada compreensão da controvérsia.
+A ausência de tal documento inviabiliza o conhecimento da impetração, porquanto não se desincumbiu a Defesa do ônus que lhe competia de instruir devidamente o feito. Nesse sentido: AgRg no HC n. 1.006.445/MG, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 12/8/2025, DJEN de 18/8/2025; AgRg no HC n. 995.894/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 24/6/2025, DJEN de 30/6/2025; PET no HC n. 941.704/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/10/2024, DJe de 22/10/2024.
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
