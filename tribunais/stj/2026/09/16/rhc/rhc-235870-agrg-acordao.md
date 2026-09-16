@@ -1,0 +1,83 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 10/09/2026 a 16/09/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental. Habeas corpus. Tentativa de homicídio qualificado. Fração da causa de diminuição da tentativa. Iter criminis. Impossibilidade de revolvimento fático. Agravo desprovido.
+I. Caso em exame
+1. O recurso. Agravo regimental interposto contra decisão monocrática que negou provimento a recurso em habeas corpus.
+2. Fato relevante. Condenação por homicídio qualificado tentado. Agravante sustenta a incidência da fração máxima de redução (2/3) prevista no art. 14, parágrafo único, do Código Penal, por se tratar de tentativa branca, afirmando falha da arma de fogo e ausência de lesão à vítima.
+3. As decisões anteriores. Instâncias ordinárias aplicaram a fração de 1/2, com fundamento na maior proximidade da consumação e no maior percurso do iter criminis (vários disparos), entendendo que a modificação das premissas demandaria revolvimento fático. Manifestação do Ministério Público estadual e parecer do Ministério Público Federal pelo desprovimento do agravo.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se, na terceira fase da dosimetria da pena, a causa de diminuição da tentativa deve ser aplicada na fração máxima (2/3) por se tratar de tentativa branca, ou mantida em 1/2 ante a proximidade da consumação evidenciada pelo maior percurso do iter criminis.
+5. A questão em discussão consiste em saber se é possível, em sede de habeas corpus e no respectivo agravo regimental, reexaminar fatos e provas para redimensionar a fração da tentativa, considerando os limites da via estreita e a necessidade de teratologia ou flagrante ilegalidade para controle da dosimetria.
+III. Razões de decidir
+6. O agravo regimental não apresentou argumentos novos capazes de alterar os fundamentos da decisão agravada, que se encontra alinhada à jurisprudência da Corte e devidamente motivada.
+7. A escolha da fração de redução pela tentativa deve considerar exclusivamente o iter criminis percorrido; quanto mais próxima a consumação do delito, menor a fração de diminuição. As instâncias ordinárias motivaram a aplicação de 1/2 pela maior proximidade da consumação.
+8. A revisão da premissa sobre a maior ou menor proximidade da consumação demanda reexame aprofundado do acervo fático-probatório, providência incompatível com a via estreita do habeas corpus e de seu recurso, ausentes teratologia ou flagrante ilegalidade.
+9. Inexiste contrariedade ao texto expresso da lei ou evidência dos autos que autorize a desconstituição da coisa julgada; não se verificam as hipóteses taxativas do art. 621 do Código de Processo Penal.
+IV. Dispositivo e tese
+10. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. A fração de redução da pena pela tentativa deve considerar o iter criminis percorrido, sendo menor quanto mais próxima estiver a consumação do delito.
+2. O redimensionamento da fração da tentativa que pressuponha reavaliação da proximidade da consumação exige revolvimento fático-probatório, inviável em habeas corpus e em agravo regimental, salvo teratologia ou flagrante ilegalidade.
+3. É legítima a manutenção da fração de 1/2 quando fundamentada na maior proximidade da consumação e no maior percurso do iter criminis, ainda em hipóteses de tentativa branca.
+RELATÓRIO
+Trata-se de agravo regimental interposto por EVANDRO DE JESUS FERNANDES, contra decisão de fls. 811-814, que negou provimento ao recurso em habeas corpus.
+Sustenta a parte agravante que a condenação pelo homicídio qualificado tentado, na terceira fase da dosimetria, deve receber a redução máxima prevista para a tentativa, na fração de 2/3, por se tratar de tentativa branca. Afirma que, conforme a própria moldura fática da sentença, a arma de fogo "veio a falhar", não havendo qualquer lesão à vítima, o que impõe a incidência do patamar máximo de diminuição do art. 14, parágrafo único, do Código Penal.
+Alega que o acórdão do TJ/PB, ao manter a fração de 1/2, apoiou-se apenas na referência a "três tiros" sem considerar a sequência textual que indica a falha da arma, de modo que não houve disparos eficazes. Aponta, como reforço, a jurisprudência desta Corte. Defende que a revisão, aqui, não demanda revolvimento probatório, porque a inexistência de lesão e a falha da arma constam do próprio título condenatório, sendo, portanto, matéria de direito aplicada a fato incontroverso.
+Requer o provimento do agravo regimental para reformar a decisão monocrática de fls. 811-814 e aplicar a fração de 2/3 na causa de diminuição da tentativa, redimensionando a pena do homicídio qualificado tentado (fls. 819-827).
+Contrarrazões apresentadas pelo Ministério Público do Estado da Paraíba, pelo desprovimento do agravo regimental (fls. 834-837).
+O parecer do Ministério Público Federal, também, é pelo não provimento, destacando que as instâncias ordinárias justificaram a fração de 1/2 com base na proximidade da consumação e que a alteração exigiria dilação probatória, vedada nesta sede (fls. 842-849).
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Habeas corpus. Tentativa de homicídio qualificado. Fração da causa de diminuição da tentativa. Iter criminis. Impossibilidade de revolvimento fático. Agravo desprovido.
+I. Caso em exame
+1. O recurso. Agravo regimental interposto contra decisão monocrática que negou provimento a recurso em habeas corpus.
+2. Fato relevante. Condenação por homicídio qualificado tentado. Agravante sustenta a incidência da fração máxima de redução (2/3) prevista no art. 14, parágrafo único, do Código Penal, por se tratar de tentativa branca, afirmando falha da arma de fogo e ausência de lesão à vítima.
+3. As decisões anteriores. Instâncias ordinárias aplicaram a fração de 1/2, com fundamento na maior proximidade da consumação e no maior percurso do iter criminis (vários disparos), entendendo que a modificação das premissas demandaria revolvimento fático. Manifestação do Ministério Público estadual e parecer do Ministério Público Federal pelo desprovimento do agravo.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se, na terceira fase da dosimetria da pena, a causa de diminuição da tentativa deve ser aplicada na fração máxima (2/3) por se tratar de tentativa branca, ou mantida em 1/2 ante a proximidade da consumação evidenciada pelo maior percurso do iter criminis.
+5. A questão em discussão consiste em saber se é possível, em sede de habeas corpus e no respectivo agravo regimental, reexaminar fatos e provas para redimensionar a fração da tentativa, considerando os limites da via estreita e a necessidade de teratologia ou flagrante ilegalidade para controle da dosimetria.
+III. Razões de decidir
+6. O agravo regimental não apresentou argumentos novos capazes de alterar os fundamentos da decisão agravada, que se encontra alinhada à jurisprudência da Corte e devidamente motivada.
+7. A escolha da fração de redução pela tentativa deve considerar exclusivamente o iter criminis percorrido; quanto mais próxima a consumação do delito, menor a fração de diminuição. As instâncias ordinárias motivaram a aplicação de 1/2 pela maior proximidade da consumação.
+8. A revisão da premissa sobre a maior ou menor proximidade da consumação demanda reexame aprofundado do acervo fático-probatório, providência incompatível com a via estreita do habeas corpus e de seu recurso, ausentes teratologia ou flagrante ilegalidade.
+9. Inexiste contrariedade ao texto expresso da lei ou evidência dos autos que autorize a desconstituição da coisa julgada; não se verificam as hipóteses taxativas do art. 621 do Código de Processo Penal.
+IV. Dispositivo e tese
+10. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. A fração de redução da pena pela tentativa deve considerar o iter criminis percorrido, sendo menor quanto mais próxima estiver a consumação do delito.
+2. O redimensionamento da fração da tentativa que pressuponha reavaliação da proximidade da consumação exige revolvimento fático-probatório, inviável em habeas corpus e em agravo regimental, salvo teratologia ou flagrante ilegalidade.
+3. É legítima a manutenção da fração de 1/2 quando fundamentada na maior proximidade da consumação e no maior percurso do iter criminis, ainda em hipóteses de tentativa branca.
+VOTO
+O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a decisão combatida por seus próprios e jurídicos fundamentos.
+Nessa linha, não obstante o teor das razões suscitadas no presente agravo, não vislumbro elementos hábeis a alterar a decisão agravada, porquanto todos os pontos apresentados pela parte foram analisados de forma devidamente fundamentada, em estrita conformidade com a jurisprudência pacífica desta Corte.
+A decisão agravada assim fundamentou o desprovimento do recurso em habeas corpus:
+ ..  No que tange à tese suscitada pela defesa, observa-se que esta foi integralmente refutada pelas instâncias ordinárias. O Tribunal a quo, em detida análise do acervo fático-probatório, ratificou o entendimento do magistrado de primeiro grau, fundamentando a impossibilidade de aplicação da fração máxima da minorante da tentativa.
+A decisão fundamentou-se na análise do percorrido, justificando a aplicação de patamar iter criminis diverso do máximo legal com base nas particularidades do caso concreto. Dessarte, a alteração da fração da minorante para o patamar de 2/3 (dois terços) exigiria, invariavelmente, o reexame aprofundado do acervo fático-probatório, providência manifestamente incompatível com a via estreita do habeas corpus (ou de seu recurso).
+Nesse sentido, destaco o entendimento desta Corte: ..
+Ademais, desconstituir a fundamentação adotada pelo juízo de origem e referendada pelo Tribunal a quo exigiria, necessariamente, um exame aprofundado do acervo fático-probatório. É cediço que a via estreita do habeas corpus (e de seu recurso), por possuir rito de cognição sumária, não comporta dilação probatória nem permite o revolvimento aprofundado de fatos e provas, providência essa indispensável para alterar as conclusões alcançadas nas instâncias ordinárias sobre a dosimetria da pena.
+Portanto, revela-se inviável o acolhimento da insurgência defensiva, dada a ausência de contrariedade ao texto expresso da lei ou à evidência dos autos. Inexistindo elementos novos que infirmem a condenação, não se vislumbra a subsunção do caso a qualquer das hipóteses taxativas do art. 621 do Código de Processo Penal, o que inviabiliza a desconstituição da coisa julgada. ..
+Cabe destacar que somente é possível controle do juízo discricionário do magistrado quando da dosimetria da pena diante de teratologia ou flagrante ilegalidade, o que, no caso dos autos, como bem ressaltado na decisão agravada, não se evidenciou.
+De acordo com a denúncia "o acusado EVANDRO DE JESUS FERNANDES (..), de forma repentina (surpresa), sacou uma arma de fogo e, com intenção de matar, atirou três vezes contra o ofendido em questão, entretanto, o armamento veio a falhar" (e-fl. 32, grifou-se).
+Veja-se que, diante do referido contexto fático-probatório, as instâncias ordinárias aplicaram o percentual de 1/2 para a tentativa de homicídio praticada pelo paciente por considerar que o iter criminis foi todo percorrido, não tendo ocorrido o resultado por circunstâncias alheias à vontade do agente (falha da arma de fogo), confirmando o entendimento reiterado nessa Corte Superior de que quanto mais próximo da consumação menor deve ser a fração de diminuição aplicada.
+Aliás, o fato de o armamento ter falhado e a ausência de lesão na vítima não afastaram a circunstância de que o iter criminis foi percorrido em um maior percurso, considerando que o agente veio a realizar três disparos com a arma de fogo e, só então, essa veio a falhar.
+Por essa razão, mostra-se idôneo o critério adotado pelas instâncias ordinárias, de modo que rever as premissas sobre a proximidade da consumação do delito exige um maior exame de matéria fática, o que não é permitido na via eleita do habeas corpus.
+Nesse sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. TENTATIVA DE HOMICÍDIO. PENA-BASE. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA NA VALORAÇÃO NEGATIVA DOS VETORES CULPABILIDADE, CONDUTA SOCIAL, PERSONALIDADE E CIRCUNSTÂNCIAS DO CRIME. MANUTENÇÃO DO DESVALOR DOS ANTECEDENTES E MOTIVOS DO CRIME. TENTATIVA BRANCA. FRAÇÃO. VÁRIOS DISPAROS DE ARMA DE FOGO. MAIOR PERCURSO DO ITER CRIMINIS. ADEQUADA A FRAÇÃO DE 1/2. REGIME FECHADO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem de ofício se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+2. Na primeira fase da dosimetria da pena, o julgador, fazendo uso de sua discricionariedade juridicamente vinculada, deve considerar as particularidades do caso concreto, à luz do art. 59 do Código Penal - CPP e do princípio da proporcionalidade. A esta Corte, cabe apenas o controle da legalidade dos critérios adotados, bem como à correção de frações discrepantes.
+No caso, o desvalor da culpabilidade deve ser afastado, "pois a consciência da ilicitude é elemento constitutivo do conceito analítico de crime (imputabilidade, potencial consciência da ilicitude e exigibilidade de conduta diversa), sendo, portanto, inerente ao próprio tipo penal" (HC 513.454/PE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 27/8/2019).
+Da mesma forma, a conduta social e a personalidade, uma vez que processos em andamento (Súmula n. 444 do Superior Tribunal de Justiça - STJ) ou condenações transitadas em julgado não são elementos idôneos na valoração negativa dessas circunstâncias judiciais (cf.: HC 388.005/PE, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 1º/7/2019).
+O desvalor dos motivos do crime (torpe) deve ser mantido. Segundo a jurisprudência desta Corte, "reconhecida a incidência de duas ou mais qualificadoras, uma delas poderá ser utilizada para tipificar a conduta como delito qualificado, promovendo a alteração do quantum de pena abstratamente previsto, sendo que as demais poderão ser valoradas na segunda fase da dosimetria, caso correspondam a uma das agravantes ou como circunstância judicial, na primeira fase da etapa do critério trifásico" (HC 505.263/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe de 10/9/2019).
+Por último, a fundamentação utilizada nas circunstâncias do crime - mediante emboscada - confunde-se com a segunda qualificadora (art. 121, § 2º, IV, do Código Penal - CP), o que configura indevido bis in idem.
+3. Na escolha do quantum de redução da pena pela tentativa, o critério adotado mostra-se idôneo, pois o magistrado deve levar em consideração somente o iter criminis percorrido, ou seja, quanto mais próxima a consumação do delito, menor será a diminuição.
+Embora a vítima não tenha sido atingida, configurando, assim, tentativa branca, hipótese na qual se tem aplicado, em regra, a fração máxima (2/3), o fato de o paciente ter efetuado vários disparos contra a vítima evidencia um maior percurso do iter criminis, justificando a fração de 1/2.
+Ademais, a modificação do entendimento sobre a maior ou menor proximidade da consumação do delito demanda o reexame minucioso da matéria fática, o que é vedado na via estreita do habeas corpus.
+4. O regime fechado fica mantido em razão das circunstâncias judiciais desfavoráveis, nos termos do art. 33, §§ 2º e 3º, c.c. o art. 59, ambos do Código Penal.
+5. Habeas corpus não conhecido, mas concedida a ordem, de ofício, para afastar a valoração negativa dos vetores culpabilidade, conduta social, personalidade e circunstâncias do crime, reduzindo a pena final do paciente para 6 anos e 8 meses de reclusão em regime fechado.
+(HC n. 525.846/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/11/2019, DJe de 12/11/2019.)
+Dessa forma, a decisão monocrática agravada não comporta qualquer reparo, devendo ser mantida em sua integralidade.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
