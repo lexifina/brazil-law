@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 10/09/2026 a 16/09/2026, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Carlos Pires Brandão.
+Os Srs. Ministros Nilsoni de Freitas (Desembargadora Convocada do TJDFT), Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. INVESTIGAÇÃO POR TRÁFICO DE DROGAS. INDEFERIMENTO LIMINAR DO WRIT. INCIDÊNCIA DA SÚMULA Nº 691/STF. ACESSO AOS AUTOS. DILIGÊNCIAS EM CURSO. SÚMULA VINCULANTE Nº 14/STF. INEXISTÊNCIA DE ILEGALIDADE MANIFESTA. AGRAVO NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que indeferiu liminarmente o habeas corpus, com fundamento na Súmula nº 691 do Supremo Tribunal Federal, em razão de o remédio heróico ter sido impetrado contra decisão de Desembargador Relator que indeferira a liminar no Tribunal de origem.
+2. O agravante aduz a inaplicabilidade do óbice sumular, alegando a existência de manifesta ilegalidade decorrente da negativa de acesso da defesa aos elementos de informação de inquérito policial que apura a suposta prática do crime de tráfico de drogas, além de sustentar a desproporcionalidade da segregação cautelar.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se está configurada manifesta ilegalidade ou teratologia apta a afastar a incidência da Súmula nº 691 do Supremo Tribunal Federal, de modo a permitir o conhecimento do habeas corpus impetrado contra indeferimento de liminar na origem, ante a alegada violação das prerrogativas defensivas por restrição de acesso a autos de inquérito policial.
+III. RAZÕES DE DECIDIR
+4. O Superior Tribunal de Justiça não admite a impetração de habeas corpus contra decisão que indefere pedido liminar na instância de origem, sob pena de indevida supressão de instância, consoante o enunciado da Súmula nº 691 do Supremo Tribunal Federal.
+5. A superação do referido óbice processual somente se justifica em hipóteses excepcionais, quando demonstrada de forma evidente a flagrante ilegalidade, a teratologia ou a ausência de fundamentação do ato decisório impugnado.
+6. A garantia de amplo acesso aos elementos de prova já documentados em procedimento investigatório, nos termos da Súmula Vinculante nº 14 do Supremo Tribunal Federal, não alcança as diligências investigativas que ainda se encontram em andamento.
+7. A existência de diligências policiais em curso justifica o sigilo temporário de frações da investigação criminal, o que afasta o reconhecimento de manifesta ilegalidade no provimento preliminar que postergou o exame do direito de acesso para após as informações da autoridade coatora.
+8. A ausência de manifesta ilegalidade impede a mitigação do enunciado sumular e impõe a manutenção da decisão que indeferiu liminarmente o writ, devendo-se aguardar o julgamento de mérito pelo Tribunal a quo.
+IV. DISPOSITIVO
+9. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MARCELO BATISTA ALVES contra decisão monocrática que indeferiu liminarmente o habeas corpus (fls. 23-27).
+Consta dos autos que o agravante figura como paciente em investigação por tráfico de drogas, vinculada ao Inquérito n. 1500719-90.2026.8.26.0455, em trâmite perante a Vara Regional das Garantias - 1ª Região Administrativa Judiciária - Osasco, havendo notícia de medidas cautelares decretadas e de negativa de acesso da defesa aos elementos já documentados, sob o fundamento de diligências em curso, sendo o paciente identificado como preso no feito de origem (fls. 16-19; 12-13; 2-10).
+A decisão agravada indeferiu liminarmente o habeas corpus, aplicando por analogia a Súmula n. 691 do Supremo Tribunal Federal por se tratar de impetração contra decisão monocrática do Tribunal de Justiça do Estado de São Paulo que indeferira medida liminar no writ originário, destacando a ausência de manifesta ilegalidade, a existência de diligências investigativas em andamento e a necessidade de prévias informações da autoridade apontada como coatora e de parecer ministerial.
+Assentou, ainda, que a Súmula Vinculante n. 14 do STF assegura acesso aos elementos já documentados, não alcançando diligências em curso (fls. 16-19).
+O agravante sustenta que a decisão monocrática é genérica e carece de fundamentação adequada para o não conhecimento do habeas corpus, em violação ao art. 93, inciso IX, da Constituição Federal. Ressalta que a negativa de acesso configura ilegalidade manifesta, devendo ser afastado o óbice da Súmula n. 691 do STF diante da necessidade de tutela imediata das prerrogativas da defesa e do controle judicial do sigilo apenas quanto a diligências em andamento (fls. 23-27; 2-10).
+Argumenta, ainda, que a manutenção da segregação cautelar revela desproporcionalidade, apontando conduta social ilibada do paciente e a viabilidade de aguardar o desfecho da persecução penal em liberdade (fls. 23-27).
+Requer o provimento do agravo regimental para cassar a decisão ora agravada e julgado o mérito do writ com a concessão da ordem (fl. 27).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. INVESTIGAÇÃO POR TRÁFICO DE DROGAS. INDEFERIMENTO LIMINAR DO WRIT. INCIDÊNCIA DA SÚMULA Nº 691/STF. ACESSO AOS AUTOS. DILIGÊNCIAS EM CURSO. SÚMULA VINCULANTE Nº 14/STF. INEXISTÊNCIA DE ILEGALIDADE MANIFESTA. AGRAVO NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que indeferiu liminarmente o habeas corpus, com fundamento na Súmula nº 691 do Supremo Tribunal Federal, em razão de o remédio heróico ter sido impetrado contra decisão de Desembargador Relator que indeferira a liminar no Tribunal de origem.
+2. O agravante aduz a inaplicabilidade do óbice sumular, alegando a existência de manifesta ilegalidade decorrente da negativa de acesso da defesa aos elementos de informação de inquérito policial que apura a suposta prática do crime de tráfico de drogas, além de sustentar a desproporcionalidade da segregação cautelar.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se está configurada manifesta ilegalidade ou teratologia apta a afastar a incidência da Súmula nº 691 do Supremo Tribunal Federal, de modo a permitir o conhecimento do habeas corpus impetrado contra indeferimento de liminar na origem, ante a alegada violação das prerrogativas defensivas por restrição de acesso a autos de inquérito policial.
+III. RAZÕES DE DECIDIR
+4. O Superior Tribunal de Justiça não admite a impetração de habeas corpus contra decisão que indefere pedido liminar na instância de origem, sob pena de indevida supressão de instância, consoante o enunciado da Súmula nº 691 do Supremo Tribunal Federal.
+5. A superação do referido óbice processual somente se justifica em hipóteses excepcionais, quando demonstrada de forma evidente a flagrante ilegalidade, a teratologia ou a ausência de fundamentação do ato decisório impugnado.
+6. A garantia de amplo acesso aos elementos de prova já documentados em procedimento investigatório, nos termos da Súmula Vinculante nº 14 do Supremo Tribunal Federal, não alcança as diligências investigativas que ainda se encontram em andamento.
+7. A existência de diligências policiais em curso justifica o sigilo temporário de frações da investigação criminal, o que afasta o reconhecimento de manifesta ilegalidade no provimento preliminar que postergou o exame do direito de acesso para após as informações da autoridade coatora.
+8. A ausência de manifesta ilegalidade impede a mitigação do enunciado sumular e impõe a manutenção da decisão que indeferiu liminarmente o writ, devendo-se aguardar o julgamento de mérito pelo Tribunal a quo.
+IV. DISPOSITIVO
+9. Agravo regimental não provido.
+VOTO
+Conforme relatado, busca o agravante a reconsideração da decisão agravada ou a submissão da matéria ao colegiado.
+A decisão que indeferiu liminarmente o habeas corpus foi assim fundamentada:
+De plano, observo que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário, incidindo analogicamente à hipótese a Súmula n. 691/STF, in verbis:
+(..)
+Em análise perfunctória, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, sobretudo diante da decisão do Desembargador Relator do writ originário que, em juízo preliminar, não se sentindo apta para se manifestar com a profundidade ordinária que o caso exige, requisitou informações à autoridade apontada como coatora e o parecer ministerial para melhor firmar a sua convicção sobre o caso.
+O Desembargador Relator indeferiu o pedido liminar nos seguintes termos (fls. 12/13 - grifamos):
+O impetrante ajuizou o presente pedido de habeas corpus com pedido liminar, contra decisão que indeferiu o pedido de habilitação e acesso da defesa aos autos de investigação que apura a suposta prática do crime de tráfico de drogas.
+Alega violação às prerrogativas da advocacia, ao contraditório e à ampla defesa, alegando afronta à Súmula Vinculante nº 14 do Supremo Tribunal Federal, uma vez que foi negado acesso aos elementos já documentados no procedimento investigatório, apesar da existência de medidas cautelares decretadas em desfavor do paciente. Afirma, ainda, que o sigilo da investigação não justifica a restrição pretendida.
+Requer seja assegurado ao patrono o acesso aos autos e às provas já documentadas. Há pedido liminar.
+O paciente está sendo investigado no curso dos autos de n º 1500719-90.2026.8.26.0455.
+Verifica-se que às folhas 10 dos presentes autos, consta decisão a qual indeferiu a habilitação solicitada pelo patrono do paciente, nos termos da cota do DD. Representante do Ministério Público, apontando restarem pendentes diligências investigativas em andamento.
+Afigura-se inviável, a concessão da liminar, já que não restou comprovado o periculum in mora, eis que como visto, o que se afasta, em tese, a incidência da Súmula Vinculante nº 14 do STF, eis que o direito de acesso do investigado só compreende elementos de prova já documentados em procedimento investigatório, após a finalização da medida, visando possibilitar o sucesso do ato investigatório, conforme a jurisprudência do Supremo Tribunal Federal.
+Ante o exposto, INDEFIRO A LIMINAR postulada. Requisitem-se informações à autoridade coatora, que deverá indicar a existência de peças e diligências já completadas que levaram à decretação e remetam-se os autos à Procuradoria Geral de Justiça para que após, tornem conclusos.
+É firme a jurisprudência desta Corte no sentido de que a Súmula Vinculante 14 garante o amplo acesso da defesa ao procedimento policial, desde que não se trate de diligências em curso, o que é a hipótese dos autos. Nesse sentido:
+DIREITO PENAL. DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PARTICIPAÇÃO DOS ADVOGADOS DE DEFESA NA OITIVA DOS POLICIAIS CONDUTORES. NEGATIVA. DILIGÊNCIA EM CURSO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. AGRAVO IMPROVIDO.
+1. O acórdão recorrido está em consonância com a jurisprudência do Superior Tribunal de Justiça, segundo a qual não configura irregularidade a ausência do advogado nos atos do inquérito policial, que ostenta natureza inquisitiva e informativa, no qual deve ser assegurada a ampla defesa, mas não necessariamente o contraditório.
+2. A Súmula Vinculante n. 14 garante o amplo acesso da defesa ao procedimento policial, desde que não se trate de diligências em curso, o que é exatamente o caso dos autos, no qual foi indeferida a presença dos advogados na oitiva dos policiais responsáveis pela prisão do paciente ainda no momento do registro do flagrante em delegacia.
+3. O art. 7º, XXI, da Lei n. 8.906/1994 garante ao advogado o direito de assistir aos seus clientes durante as investigações, mas não lhe assegura o direito de acompanhar a realização de todas as diligências em andamento nem autoriza que ele esteja presente durante a oitiva de qualquer pessoa ouvida no inquérito, além de seus próprios clientes.
+4. Agravo regimental improvido. (AgRg no RHC n. 224.471/PR, relator Ministro Og Fernandes, Sexta Turma, julgado em 22/4/2026, DJEN de 27/4/2026 - grifamos.)
+Nestes termos, a situação dos autos não apresenta nenhuma excepcionalidade a justificar a prematura intervenção desta Corte e a superação da Súmula 691/STF.
+Nos termos do que dispõe o enunciado da Súmula 691 do Supremo Tribunal Federal, em regra, não se admite a impetração de habeas corpus contra decisão que indefere a liminar na origem, sob pena de indevida supressão de instância, ressalvadas as hipóteses em que evidenciada decisão teratológica ou desprovida de fundamentação.
+No decisum recorrido, restou assentado que a situação dos autos não apresenta excepcionalidade a justificar a prematura intervenção desta Corte Superior e a superação do referido verbete sumular, devendo-se aguardar o esgotamento da jurisdição do Tribunal de origem.
+Sendo assim, não se vislumbra manifesta ilegalidade apta a autorizar o afastamento ou mitigação da Súmula n. 691/STF, tendo em vista que a decisão recorrida não se apresenta como teratológica ou desprovida de fundamentação. De fato, cabe ao Tribunal a quo, por ocasião do julgamento da impetração, a análise de mérito da matéria vertida nos autos, pelo que o revolvimento do tema, nesta via estreita, acarretaria indevida supressão de instância.
+A jurisprudência consolidada do STF e do STJ estabelece que, salvo hipóteses excepcionais, não cabe habeas corpus contra decisão que indefere liminar em writ anterior (AgRg no HC n. 1.032.046/RJ, relator Ministro Messod Azulay Neto, julgado em 16/09/2025, DJEN de 22/09/2025).
+A decisão ora agravada manifestou-se sobre todos os pontos suscitados pelo impetrante, inclusive assentando a existência de diligência em curso o que afasta a alegada violação à Súmula Vinculante n. 14 do STF.
+Dessa forma, ausentes argumentos relevantes que infirmem as razões consideradas no julgado ora agravado, que está em estrita sintonia com a jurisprudência desta Corte Superior de Justiça, deve ser mantida a decisão impugnada.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
