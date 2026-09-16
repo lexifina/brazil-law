@@ -1,0 +1,133 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+4ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0729113-78.2026.8.07.0000AGRAVANTE(S)ANDREA GUEDES PONTE DE OLIVEIRAAGRAVADO(S)CINTHIA MACHADO SOUZARelatorDesembargador AISTON HENRIQUE DE SOUSA
+ Acórdão Nº2178894
+
+EMENTA
+
+ AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. GRATUIDADE DE JUSTIÇA. PESSOA NATURAL. MICROEMPREENDEDORA INDIVIDUAL. HIPOSSUFICIÊNCIA ECONÔMICA COMPROVADA. RECURSO PROVIDO.
+
+I. CASO EM EXAME
+
+1. Agravo de instrumento, com pedido de tutela antecipada, interposto pela executada contra decisão proferida nos autos de execução, que indeferiu o pedido de concessão dos benefícios da gratuidade de justiça por ela formulado.
+
+II. QUESTÃO EM DISCUSSÃO
+
+2. A questão em discussão consiste em verificar se estão presentes os requisitos legais para a concessão da gratuidade de justiça à agravante, considerando a presunção relativa de veracidade da declaração de hipossuficiência e os elementos econômicos constantes dos autos.
+
+III. RAZÕES DE DECIDIR
+
+3. A gratuidade de justiça deve ser concedida àqueles que comprovam insuficiência de recursos para arcar com as despesas processuais e honorários advocatícios sem prejuízo do próprio sustento e da família, conforme os arts. 5º, LXXIV, da Constituição Federal, e 99 do Código de Processo Civil.
+
+4. A declaração de hipossuficiência apresentada por pessoa natural possui presunção relativa de veracidade, não autorizando, contudo, a concessão automática do benefício sem análise dos elementos existentes nos autos.
+
+5. O Tema 1178 do STJ, firmado no julgamento do REsp 1.988.687/RJ, veda o indeferimento imediato com base exclusivamente em critérios objetivos e determina que, havendo elementos que afastem a presunção, o magistrado deve oportunizar à parte a comprovação da alegada insuficiência, admitindo parâmetros objetivos apenas de forma suplementar.
+
+6. A documentação apresentada, especialmente a declaração de imposto de renda, demonstra que a agravante aufere renda mensal aproximada de R$ 3.000,00, sem indicação de patrimônio relevante ou bens de elevado valor capazes de afastar a alegada hipossuficiência econômica.
+
+IV. DISPOSITIVO E TESE
+
+7. Recurso provido.
+
+Teses de julgamento: "1. A declaração de hipossuficiência firmada por pessoa natural goza de presunção relativa de veracidade, que somente pode ser afastada mediante elementos concretos nos autos. 2. É vedado o indeferimento da gratuidade de justiça com fundamento exclusivo em critérios objetivos, admitidos apenas de forma suplementar, conforme o Tema 1178 do STJ."
+
+Dispositivos legais citados: CF, art. 5º, LXXIV; CPC, arts. 99, §§ 2º e 3º.
+
+Jurisprudência relevante citada: STJ, REsp 1.988.687/RJ (Tema 1178); TJDFT, Acórdão 1943483, 0722775-59.2024.8.07.0000, Rel. Des. Jansen Fialho de Almeida, 4ª Turma Cível, j. 07/11/2024.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 4ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, AISTON HENRIQUE DE SOUSA - Relator, SÉRGIO ROCHA - 1º Vogal e MARIO-ZAM BELMIRO - 2º Vogal, sob a Presidência do Senhor Desembargador JAMES EDUARDO OLIVEIRA, em proferir a seguinte decisão: DAR PROVIMENTO AO RECURSO. UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 25 de Setembro de 2026
+
+Desembargador AISTON HENRIQUE DE SOUSARelator
+
+RELATÓRIO
+
+Cuida-se de agravo de instrumento, com pedido de tutela antecipada, interposto pela executada contra decisão proferida nos autos de execução, a qual indeferiu o pedido de concessão dos benefícios da gratuidade de justiça.
+
+A decisão agravada (ID. 279212298, originário) foi proferida nos seguintes termos:
+
+“Nos termos do art. 98, do CPC e da Súmula 481 do STJ, a pessoa jurídica pode ser beneficiária da gratuidade de justiça, desde que demonstre sua hipossuficiência econômica.
+
+Com efeito, a jurisprudência é firme no sentido de que a concessão do benefício não decorre de simples declaração, exigindo-se prova efetiva da incapacidade financeira, por meio de documentação contábil idônea, como balanços patrimoniais, balancetes, demonstrações de resultado e outros elementos aptos a evidenciar a alegada insuficiência de recursos.
+
+No caso em exame, a executada pessoa jurídica limitou-se a juntar recibo de entrega de declaração original no Simples Nacional (ID 277548516), documento que, por si só, não demonstra a alegada impossibilidade de arcar com os encargos processuais, bem como documento referente a negociação bancária junto ao Nubank (ID 277548517), igualmente insuficiente para comprovar incapacidade econômica.
+
+De igual modo, não há elementos suficientes para o deferimento do benefício à pessoa física executada. A declaração anual apresentada à Receita Federal (ID 277548515), da qual consta o recebimento do valor anual de R$ 35.000,00 da pessoa jurídica, assim como os extratos bancários colacionados ao ID 270206651, não evidenciam, de forma concreta, a impossibilidade de suportar as despesas do processo.
+
+Nesse norte, a documentação apresentada não se revela apta a demonstrar a alegada insuficiência financeira das requerentes.
+
+Posto isso, indefiro o pedido de gratuidade de justiça formulado pelas executadas.
+
+Prossiga-se nos termos da decisão de recebimento (ID 263961696), com os atos expropriatórios.
+
+Publique-se.”
+
+Em suas razões recursais, a agravante sustenta, em síntese, que não dispõe de condições financeiras para arcar com as custas processuais sem comprometer o próprio sustento e o de sua família.
+
+Aduz que a declaração de hipossuficiência possui presunção relativa de veracidade, sendo apta, por si só, a justificar a concessão do benefício da gratuidade de justiça. Acrescenta que é microempreendedora individual e que os documentos acostados aos autos comprovam sua insuficiência econômica.
+
+Pugna pela concessão da tutela recursal para suspender a exigibilidade do recolhimento das custas processuais e, no mérito, o provimento do recurso, com a reforma da decisão agravada, a fim de que lhe sejam deferidos os benefícios da justiça gratuita.
+
+Preparo dispensado (art. 99, § 7º, do CPC).
+
+A antecipação dos efeitos da tutela recursal foi deferida pela decisão de ID. 86411568.
+
+Contrarrazões da agravada pelo desprovimento do recurso (ID. 87403887).
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador AISTON HENRIQUE DE SOUSA - RelatorPresentes os pressupostos de admissibilidade, conheço do recurso interposto.
+
+A controvérsia recursal consiste em verificar se estão presentes os requisitos para a concessão da gratuidade de justiça formulado pela agravante.
+
+A gratuidade de justiça encontra fundamento nos artigos 5º, inciso LXXIV, da Constituição Federal, e 99, do Código de Processo Civil, devendo ser concedida àqueles que comprovarem insuficiência de recursos.
+
+Os benefícios da gratuidade de justiça devem alcançar os mais necessitados que apresentam evidente insuficiência de recursos para suportar as despesas do processo sem prejuízo de seu sustento e de sua família.
+
+Em relação às pessoas naturais, há presunção relativa de veracidade da declaração de hipossuficiência (art. 99, § 3º, do CPC), a qual, no entanto, não implica em automática e indiscriminada concessão do benefício, a partir da mera apresentação de declaração de hipossuficiência, devendo a benesse ser concedida apenas àqueles que não têm recursos para arcar com o pagamento das despesas processuais e dos honorários advocatícios sem prejuízo ao sustento próprio e da família.
+
+Quanto aos critérios para definição da gratuidade de justiça, a jurisprudência pátria consolidada no tema 1178, oriunda do julgamento ao REsp 1988687/RJ, definiu a combinação de critério objetivos e subjetivos para a concessão do benefício:
+
+“1. É vedado o uso de critérios objetivos para o indeferimento imediato da gratuidade judiciária requerida por pessoa natural.
+
+2. Verificada a existência nos autos de elementos aptos a afastar a presunção de hipossuficiência econômica da pessoa natural, o juiz deverá determinar o requerente a comprovação de sua condição, indicando de modo preciso, às razões que justificam tal afastamento, nos termos do 99, parágrafo 2º, do CPC.
+
+3. Cumprida a diligência, a adoção de parâmetros objetivos pelo magistrado pode ser realizada em caráter meramente suplementar e desde que não sirva como fundamento exclusivo para o indeferimento do pedido da gratuidade.”
+
+A Resolução nº. 140/2015 da Defensoria Pública do Distrito Federal estabelece como pessoa hipossuficiente aquela que recebe renda mensal correspondente ao valor de até cinco salários-mínimos, critério objetivo que, em cotejo com outros dados, é razoável para o reconhecimento do direito.
+
+No caso em análise, verifica-se que a agravante exerce suas atividades na condição de microempreendedora individual (MEI), razão pela qual a análise do pedido de gratuidade de justiça deve observar os critérios aplicáveis às pessoas naturais, considerando que, nessa modalidade empresarial, não há efetiva separação patrimonial entre a pessoa jurídica e seu titular.
+
+Quanto aos aspectos subjetivos, a documentação acostada aos autos, especialmente a declaração de imposto de renda (ID.  86318222, págs. 2 a 9), demonstra que a agravante aufere renda mensal aproximada de R$ 3.000,00, proveniente da atividade profissional exercida. Ademais, não há elementos que indiquem a existência de patrimônio relevante ou bens de elevado valor capazes de afastar a alegada hipossuficiência econômica, evidenciando que o pagamento das despesas processuais poderia comprometer sua manutenção.
+
+Assim, os elementos constantes dos autos revelam circunstâncias que enquadram a situação da agravante como de hipossuficiência econômica, evidenciando a necessidade de concessão do benefício da gratuidade da justiça. Nesse sentido, este é o entendimento desta 4ª Turma Cível:
+
+“PROCESSO CIVIL. JUSTIÇA GRATUITA. DECLARAÇÃO DE POBREZA. PRESUNÇÃO RELATIVA DE VERACIDADE. HIPOSSUFICIÊNCIA ECONÔMICA DEMONSTRADA. BENEFÍCIO CONCEDIDO. RECURSO PROVIDO.
+
+1. O § 2º do art. 99 do CPC de 2015, estabelece que “o juiz somente poderá indeferir o pedido se houver nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão de gratuidade, devendo, antes de indeferir o pedido, determinar à parte a comprovação do preenchimento dos referidos pressupostos”. Além disso, o § 3º do referido artigo confere presunção de verdade à alegação de insuficiência deduzida por pessoa natural.
+
+2. Se os documentos colacionados aos autos são suficientes para comprovar a condição de miserabilidade do recorrente, de modo a confirmar a presunção de hipossuficiência declarada, há de se conceder a gratuidade judiciária postulada.
+
+3. Agravo de instrumento provido. (Acórdão 1943483, 0722775-59.2024.8.07.0000, Relator(a): JANSEN FIALHO DE ALMEIDA, 4ª TURMA CÍVEL, data de julgamento: 07/11/2024, publicado no DJe: 23/11/2024.)”
+
+Dessa forma, considerando os elementos constantes dos autos, resta demonstrada a insuficiência de recursos da agravante para suportar as despesas processuais sem prejuízo de sua manutenção.
+
+Assim, encontra-se preenchido o requisito previsto no art. 5º, inciso LXXIV, da Constituição Federal, fazendo jus à assistência jurídica integral e gratuita.
+
+Conclusão
+
+Isso posto, DOU PROVIMENTO ao recurso, para reformar a decisão agravada e conceder à agravante os benefícios da gratuidade de justiça, diante da comprovação de sua hipossuficiência econômica
+
+É como voto.
+O Senhor Desembargador SÉRGIO ROCHA - 1º Vogal Com o(a) relator(a)O Senhor Desembargador MARIO-ZAM BELMIRO - 2º Vogal Com o(a) relator(a)
+
+DECISÃO
+
+DAR PROVIMENTO AO RECURSO. UNÂNIME
