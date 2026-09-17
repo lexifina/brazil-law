@@ -1,0 +1,67 @@
+DECISÃO:
+Cuida-se de reclamação constitucional, com pedido liminar, ajuizada por Engarrafadora Brambila Ltda. contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, nos autos da Apelação Cível nº 5002240- 92.2019.4.04.7102/RS, que teria desrespeitado a autoridade do Supremo Tribunal Federal e a eficácia do que decidido no Recurso Extraordinário nº 370.726/RS.
+A reclamante narra que impetrou Mandado de Segurança nº 2000.71.02.001627-3, no ano 2000 perante a 2ª Vara Federal de Santa Maria/RS, no qual se postulou o reconhecimento do direito ao aproveitamento de créditos de Imposto sobre Produtos Industrializados decorrentes da aquisição de insumos sob diversos regimes de desoneração tributária. Naquela oportunidade, o Juízo de primeiro grau concedeu a segurança para assegurar o creditamento relativamente a insumos adquiridos com isenção, não tributação e alíquota zero.
+Em sede de recurso ordinário, o Tribunal Regional Federal da 4ª Região negou provimento à apelação da União e à remessa necessária. Informa que a Fazenda Nacional interpôs o Recurso Extraordinário nº 370.726/RS, no qual, em decisão monocrática da lavra do Ministro César Peluso, foi dado parcial provimento ao recurso para, denegando em parte a ordem, negar a compensação de créditos de IPI decorrentes da aquisição de insumos não tributados ou sujeitos à alíquota zero, mantendo hígida, portanto, a sentença quanto ao creditamento de IPI decorrente de insumos adquiridos com isenção.
+Discorre que, a despeito da vigência da ordem mandamental com eficácia plena, a União inscreveu o débito em dívida ativa sob o número 00311000359-90 e ajuizou a Execução Fiscal nº 5008848-87.2011.4.04.7102, cobrando a quantia principal de R$ 819.631,56, que atualizada perfaz a expressiva soma de R$ 3.462.581,14.
+Prossegue discorrendo que opôs Embargos à Execução Fiscal autuados sob o nº 5002240-92.2019.4.04.7102, demonstrando a manifesta ofensa à coisa julgada, e que a 4ª Vara Federal de Santa Maria/RS rejeitou a defesa, sentença esta mantida pela 2ª Turma do Tribunal Regional Federal da 4ª Região.
+Noticia que, em face do acórdão regional, a parte reclamante manejou, simultaneamente, recurso extraordinário e recurso especial, mas que a Vice-Presidência do TRF da negou seguimento ao apelo extremo em decisão mista. Remetidos os autos à Suprema Corte, sobreveio determinação de devolução do feito à origem, sob a premissa de que a insurgência envolvia tema de repercussão geral passível de apreciação em agravo interno (Evento 64).
+Ao receber o processo devolvido, a Vice-Presidência do Tribunal Regional Federal da 4ª Região proferiu a decisão monocrática de Evento 66, deixando de conhecer integralmente do agravo em recurso extraordinário e ordenando a baixa definitiva dos autos sem analisar a necessária decomposição dos capítulos recursais independentes.
+A parte reclamante aponta que, em seguida, interpôs agravo interno com fundamento no artigo 1.021 do Código de Processo Civil, apontando a nulidade do ato e o dever de cumprimento da coisa julgada formada no processo paradigma, porém, o apelo não foi conhecido, consolidando o quadro de descumprimento da autoridade da decisão do Supremo Tribunal Federal.
+Nesses termos, a parte reclamante obtempera que a eficácia preclusiva da coisa julgada consolidou-se sobre a parcela da demanda favorável à contribuinte, ou seja, permaneceu incólume o direito subjetivo de aproveitamento dos créditos oriundos de insumos isentos. Todavia, a autoridade fazendária, ao lavrar o auto de infração nº 11060.000523/2003-19 e emitir a Certidão de Dívida Ativa nº 00 3 1100 0359-90, glosou indistintamente a totalidade dos créditos escriturados pela sociedade empresária no período de 10/01/2001 a 10/03/2003, abrangendo inclusive os valores acobertados pela coisa julgada formada perante o Supremo Tribunal Federal.
+Sustenta que a fiscalização tributária reuniu indistintamente em um único montante as operações relativas a insumos isentos, imunes, não tributados e com alíquota zero, sonegando a individualização técnica e quantitativa necessária para expurgar a parcela vedada e preservar a parcela legítima. A inserção de valores inexigíveis no bojo do título executivo corrompe a exatidão da dívida e impede o exercício pleno da ampla defesa, consubstanciando grave ofensa ao devido processo legal estabelecido no artigo 5º, inciso LIV, da Constituição Federal.
+Aduz que
+
+“A administração tributária detinha o dever de rever de ofício o lançamento tributário para adequá-lo estritamente aos parâmetros da decisão proferida pelo Supremo Tribunal Federal, nos termos do artigo 149, inciso VIII, do Código Tributário Nacional. A inércia do Fisco em proceder à readequação e a persistência na cobrança da totalidade dos créditos fulminam a liquidez da CDA nº 00 3 1100 0359-90.
+A cumulação de crédito ilegítimo com valores indevidamente glosados impede a subsistência da execução fiscal, impondo-se a cassação dos atos judiciais que validaram a cobrança e a determinação para que a autoridade fazendária proceda à desconstituição do título viciado ou à sua substituição conforme os exatos limites da decisão transitada em julgado no Recurso Extraordinário nº 370.726/RS.”
+
+Requer, assim,
+
+“a) a concessão de medida liminar, com fundamento no artigo 989, inciso II, do Código de Processo Civil, para determinar a imediata suspensão da tramitação da Execução Fiscal nº 5008848-87.2011.4.04.7102 e dos respectivos Embargos à Execução Fiscal nº 5002240-92.2019.4.04.7102/RS perante a 4ª Vara Federal de Santa Maria/RS e perante o Tribunal Regional Federal da 4ª Região, obstando a prática de qualquer ato de constrição patrimonial, bloqueio de ativos ou penhora de faturamento até o julgamento definitivo desta reclamação;
+(...)
+e) o julgamento de integral procedência da presente Reclamação Constitucional, com fulcro no artigo 992 do Código de Processo Civil, para: e.1) cassar os atos judiciais impugnados proferidos pela Vice-Presidência e pela 2ª Turma do Tribunal Regional Federal da 4ª Região nos autos da Apelação Cível nº 5002240- 92.2019.4.04.7102/RS, garantindo a plena autoridade e eficácia da decisão prolatada pelo Supremo Tribunal Federal no Recurso Extraordinário nº 370.726/RS; e.2) reconhecer a intangibilidade da coisa julgada material decorrente do Mandado de Segurança nº 2000.71.02.001627-3 quanto ao direito de creditamento do IPI relativo a insumos isentos;”
+
+É o relatório.
+Decido.
+Bem examinados os autos, ressalto, inicialmente, que o cabimento da reclamação, instituto jurídico de natureza constitucional, deve ser aferido nos estritos limites das normas de regência (art. 102, I, l, CF).
+Nesse sentido, cumpre salientar que o parâmetro apontado pela parte reclamante é a decisão proferida no RE nº 370.726/RS, que tem a seguinte parte dispositiva:
+“Ante o exposto, dou provimento ao recurso extraordinário para, denegando, em parte, a ordem, negar a compensação de créditos de IPI decorrentes da aquisição de insumos não tributados ou sujeitos à alíquota zero. Custas em proporção.”
+
+Compulsando os autos, verifico que a 2ª Turma do Tribunal Regional Federal da 4ª Região, ao manter a sentença dos embargos à execução, consignou o seguinte:
+
+“2.2. Legalidade do lançamento, da inscrição em dívida ativa e da cobrança judicial
+(...)
+Alternativamente ao reconhecimento da nulidade da cobrança e da execução, a Embargante defende ainda a iliquidez do título, ao argumento de que, quando do lançamento, o agente autuador não teria identificado se os créditos por ela informados se referiam exclusivamente a insumos adquiridos sob regime de não tributação ou alíquota zero (questões enfrentadas na ação mandamental), quando havia, na verdade, créditos de outras espécies.
+Entende a Embargante que a União deveria, durante o processo administrativo, ter realizado a identificação de cada tipo originário de crédito aproveitado pela Embargante e expungido somente aqueles irregularmente utilizados, e não simplesmente glosado todas as entradas de crédito indistintamente.
+Como observo, a Embargante pretende inserir discussão acerca da necessidade de separação, pelo agente autuante, dos créditos cujo aproveitamento teria sido obstado pelo Poder Judiciário, daqueles cujo direito subsistiria.
+No entanto, é preciso considerar que, na notificação de lançamento, constou de forma expressa que competia ao contribuinte, se afastada a causa suspensiva da exigibilidade (fato que veio a ocorrer com a decisão final no mandado de segurança), recolher total ou parcialmente o crédito lançado, conforme teor e extensão do julgado (fl. 29 do PAF, PROCADM6, ev. 6).
+ Assim, se dentre os créditos a serem pretensamente aproveitados, havia outros legitimamente informados e que não estariam ao abrigo da decisão judicial, competia ao contribuinte/Embargante essa demonstração, o que não ocorreu no presente caso.
+Ademais, no relatório do Auto de Infração, lavrado após exame da documentação contábil da pessoa jurídica, constou que os créditos informados eram aqueles integrantes da espécie em discussão judicial, informação dotada de presunção de legitimidade e veracidade inerente aos atos administrativos em geral. O próprio recurso administrativo interposto pelo contribuinte tratou apenas dos efeitos da ação mandamental sobre a exigibilidade do crédito.
+Logo, não há motivo para reconhecer vício de nulidade no lançamento e na exigência fiscal.”
+
+Delineada a moldura fático-jurídica subjacente à controvérsia, não verifico, no ato impugnado, descumprimento da decisão proferida no RE 370.726/RS.
+O paradigma, ao dar parcial provimento ao recurso extraordinário da União, restringiu a ordem concedida no Mandado de Segurança nº 2000.71.02.001627-3, excluindo o direito à compensação de crédito de IPI decorrentes da aquisição de insumos não tributados ou sujeitos à alíquota zero.
+Em assim sendo, e conforme exaustivamente afirmado pela parte reclamante, a coisa julgada material recaiu sobre ponto específico da sentença proferida pela 2ª Vara Federal de Santa Maria, qual seja, o reconhecimento do crédito de IPI sobre aquisição de insumos isentos.
+A parte reclamante, por sua vez, sustenta que a Autoridade Fazendária reuniu indistintamente em um único montante as operações relativas a insumos isentos, imunes, não tributados e com alíquota zero, sonegando a individualização técnica e quantitativa necessária para expurgar a parcela vedada e preservar a parcela legítima.
+Como visto, a alegada ausência de glosa dos créditos de IPI relativas a insumos isentos, caso evidenciada, não afronta a decisum proferido no RE 370.726/RS, na parte em que foi favorável à União. Transcrevo a decisão exarada no RE nº 370.726/RS:
+
+“DECISÃO: 1. Trata-se de recurso extraordinário contra acórdão do Tribunal Regional Federal da 4ª Região que entendeu devida a compensação de créditos de IPI relativamente à aquisição de matérias primas e insumos isentos, não tributados ou sujeitos à alíquota zero.
+A recorrente, com fundamento no art. 102, III, a, alega ter havido violação ao disposto no art. 153, § 3º, II, da Constituição Federal.
+2.	Consistente o recurso.
+	É que o acórdão recorrido decidiu a causa em desacordo com a posição firmada pela Corte no julgamento dos REs nº 370.682 (Rel. Min. ILMAR GALVÃO), e 353.657 (Rel. Min. MARCO AURÉLIO), concluído em 25.06.2007, e nos quais o Plenário decidiu ser indevida compensação de créditos de IPI decorrentes da aquisição de matérias-primas e insumos não tributados ou sujeitos à alíquota zero.
+	3.	Ante o exposto, dou provimento ao recurso extraordinário para, denegando, em parte, a ordem, negar a compensação de créditos de IPI decorrentes da aquisição de insumos não tributados ou sujeitos à alíquota zero. Custas em proporção”. (DJ de 11/07/2007).
+
+Registre-se que o Agravo Interno interposto contra a decisão proferida no RE 370.726/RS foi improvido, nos seguintes termos:
+
+“1. RECURSO. Extraordinário. Inadmissibilidade. Jurisprudência assentada. Ausência de razões novas. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões novas, decisão fundada em jurisprudência assente na Corte.
+2.	RECURSO. Agravo. Regimental. Jurisprudência assentada sobre a matéria. Caráter meramente abusivo. Litigância de má-fé. Imposição de multa. Aplicação do art. 557, § 2º, cc. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a interposição de agravo, manifestamente inadmissível ou infundado, deve o Tribunal condenar a agravante a pagar multa ao agravado.
+
+Anote-se, ainda, que os embargos de divergências opostos na oportunidade foram inadmitidos tendo por fundamento a “intempestividade do recurso, a ausência de demonstração da alegada divergência e a falta de prévio recolhimento da multa anteriormente imposta nos autos”.
+Logo, entendo que, ao contrário do alegado, o acórdão reclamado não descumpriu a decisão emanada desta Suprema Corte.
+Ante o exposto, nego seguimento à presente reclamação, nos termos do art. 21, §1° do Regimento Interno do Supremo Tribunal Federal. Prejudicada a análise do pedido liminar.
+Considerando que o uso de meios processuais manifestamente inadmissíveis gera efeitos danosos à prestação jurisdicional, a parte reclamante fica também advertida, na hipótese de recurso, da possibilidade de aplicação ipso facto da multa processual prevista no art. 1.021, §4º, do CPC/2015.
+Publique-se.
+Brasília, 17 de setembro de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
