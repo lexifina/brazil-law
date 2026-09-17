@@ -1,0 +1,37 @@
+DECISÃO
+1. Trata-se de Agravo apresentado por ESTADO DE MATO GROSSO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, assim resumido:
+CONSTITUCIONAL E ADMINISTRATIVO - RECURSO DE APELAÇÃO CÍVEL E REMESSA NECESSÁRIA - MANDADO DE SEGURANÇA - PRELIMINAR - PRELIMINAR DE IMPROVIMENTO DO RECURSO - APLICAÇÃO DO ARTIGO 932 NCPC - REJEITADA - MÉRITO - ICMS SOBRE TARIFA DE USO DO SISTEMA DE DISTRIBUIÇÃO (TUSD) E DE TRANSMISSÃO (TUST) - LIMITAÇÃO DA INCIDÊNCIA DO IMPOSTO AO CONSUMO EFETIVO DE ENERGIA - ORIENTAÇÃO CONSOLIDADA DO STJ - PREQUESTIONAMENTO - DECLARAÇÃO INCIDENTAL DE INCONSTITUCIONALIDADE - OFENSA À SÚMULA VINCULANTE No 10 DO STF - INOCORRÊNCIA - PEDIDO DE CUMPRIMENTO DE LIMINAR QUE CONFIGURA CUMPRIMENTO PROVISÓRIO DE SENTENÇA - INCOMPETÊNCIA DO TRIBUNAL - RECURSO DESPROVIDO - SENTENÇA RATIFICADA.
+DIREITO PROCESSUAL CIVIL E DIREITO TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO EM MANDADO DE SEGURANÇA. ICMS. ENERGIA ELÉTRICA. TARIFAS DE USO DO SISTEMA DE DISTRIBUIÇÃO (TUSD) E DE TRANSMISSÃO (TUST). ALEGAÇÃO DE DECISÃO EXTRA PETITA. NULIDADE DE ALGIBEIRA. PRECLUSÃO. EMBARGOS REJEITADOS.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa aos arts. 141 e 492 do CPC, no que concerne ao reconhecimento da nulidade do acórdão por julgamento extra petita, em razão da inexistência de pedido inicial relativo à exclusão da TUST da base de cálculo do ICMS, sendo que houve pedido apenas quanto à TUSD. Argumenta:
+O presente Recurso Especial volta-se contra acórdão da Primeira Câmara de Direito Público e Coletivo do Tribunal de Justiça do Estado de Mato Grosso que rejeitou os embargos de declaração opostos pelo Estado e manteve o entendimento de que a modulação aplicada ao caso alcançaria tanto a TUSD quanto a TUST, desde o deferimento da liminar até a publicação do acórdão do STJ no Tema 986, apesar da ausência de pedido quanto à tarifa de transmissão.
+O próprio acórdão recorrido reconheceu, de forma expressa, que na petição inicial houve pedido apenas quanto à TUSD, e não quanto à TUST.
+Apesar disso, concluiu que não seria mais possível corrigir o excesso decisório, sob o fundamento de que a matéria não teria sido arguida anteriormente e que a insurgência tardia configuraria "nulidade de algibeira", com incidência de preclusão.
+Assim, embora tenha admitido a inexistência de pedido relativo à TUST, o acórdão manteve comando jurisdicional que abrange objeto não deduzido em juízo.
+A controvérsia devolvida ao Superior Tribunal de Justiça é, portanto, estritamente de direito: saber se, reconhecido pelo próprio acórdão que a petição inicial não formulou pedido quanto à TUST, pode o Tribunal manter provimento judicial que alcança essa tarifa, afastando a incidência dos arts. 141 e 492 do CPC sob argumento de preclusão.
+ ..
+O presente recurso é cabível, pois impugna acórdão proferido por Tribunal de Justiça em última instância ordinária, que conferiu interpretação incompatível com os arts. 141 e 492 do Código de Processo Civil, ao admitir a manutenção de comando decisório relativo à TUST, embora o próprio acórdão tenha reconhecido que a petição inicial formulou pedido apenas quanto à TUSD.
+Trata-se de hipótese de cabimento pela alínea "a" do inciso III do art. 105 da Constituição Federal, por violação direta de lei federal.
+ ..
+O órgão jurisdicional deve decidir o mérito nos limites propostos pelas partes, sendo-lhe vedado conceder providência sobre objeto não deduzido em juízo.
+Assim, o juiz não pode condenar em objeto diverso do que foi pedido, nem ampliar, por iniciativa própria, o conteúdo objetivo da demanda.
+No caso, o acórdão recorrido foi expresso ao admitir que a exordial não continha pedido relativo à TUST, mas apenas à TUSD.
+Se não houve pedido quanto à TUST, não era juridicamente possível manter pronunciamento jurisdicional que determinasse a exclusão dessa tarifa da base de cálculo do ICMS, ainda que decisões anteriores tenham incorrido no mesmo excesso.
+A circunstância de a liminar e a sentença terem também mencionado a TUST não convalida o vício.
+A congruência é aferida entre a petição inicial e o provimento jurisdicional. É daí que decorre a violação aos arts. 141 e 492 do CPC.
+No ponto, o acórdão reconheceu a ausência de pedido quanto à TUST, mas recusou-se a extirpar do julgado exatamente o capítulo que extrapolou os limites da demanda (fls. 468-472).
+É o relatório.
+2. Quanto à controvérsia, incide a Súmula n. 283/STF, porquanto a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja:
+É possível conferir que, o recorrente argumenta que o Acórdão é extra petita, uma vez que decidiu acerca da TUST, além da TUSD, sendo que a exclusão da primeira tarifa não teria sido pleiteada pelo embargado.
+Observa-se dos autos que, realmente, da exordial, não se confere pedido do recorrido acerca da TUST, apenas da TUSD, no entanto, desde a primeira decisão proferida pelo Juízo a quo, houve a determinação da suspensão da cobrança.
+ ..
+No apelo interposto, o Estado de Mato Grosso, em nenhum momento, insurgiu-se com relação a esta prática, inclusive nos recursos posteriores. Esta é a primeira oportunidade que suscita esta questão.
+É necessário registrar que, esta prática, realmente configura vício de decisão, já que decide sobre questão não elencada pelo interessado, contudo, o Acórdão proferido apenas reanalisou os atos anteriores, em razão do efeito devolutivo dos recursos.
+Não é aceitável que, neste momento, depois de todas as decisões e atos proferido, a regular a inexigibilidade, ou exigibilidade parcial da TUST, aponte vício da decisão, ainda em razão de que o Estado já possuía ciência acerca deste fato, pois, como já mencionado, é algo realizado desde a primeira decisão nestes autos.
+A jurisprudência pátria, em alinhamento com a doutrina brasileira, entende que esta prática é denominada nulidade de algibeira, que são os casos em que a parte, ciente de uma nulidade, aguarda o momento mais adequado para suscitar um vício já existente, mediante alguma negativa jurisdicional.
+Ato contínuo, a prática verificada neste momento é exatamente esta. Argumentou-se, a partir dos recursos anteriores, que a cobrança da tarifa seria devida, sem mencionar a circunstância de que o ato sentencial ou de que a decisão liminar estariam viciadas (fls. 452-454, grifo acrescido).
+Nesse sentido: "Incide a Súmula n. 283 do STF, aplicável analogicamente a esta Corte Superior, quando o acórdão recorrido é assentado em mais de um fundamento suficiente para manter a conclusão do Tribunal a quo e a parte não impugna todos eles" (REsp n. 2.082.894/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 28/8/2023).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 2.267.385/ES, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 21/3/2025; REsp n. 2.180.608/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 18/3/2025, DJEN de 21/3/2025; AgInt no AREsp n. 2.470.308/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 21/10/2024; AgInt no AREsp n. 638.541/MA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 24/11/2023.
+3. Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se. Intimem-se.
+ EMENTA
