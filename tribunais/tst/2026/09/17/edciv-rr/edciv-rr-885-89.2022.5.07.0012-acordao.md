@@ -1,0 +1,1295 @@
+Poder Judiciário
+Justiça do Trabalho
+${SVNOMEORGAO}
+PROCESSO Nº TST-EDCiv-RR - 885-89.2022.5.07.0012
+A C Ó R D Ã O
+7ª Turma
+GMMRC/vrro/joj/nev
+EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM
+AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA
+OPOSTOS PELA RECLAMADA
+INCORPORAÇÃO DE GRATIFICAÇÃO DE FUNÇÃO. REQUISITOS
+IMPLEMENTADOS APÓS A VIGÊNCIA DA LEI N.º 13.467/2017.
+DIREITO À INCORPORAÇÃO PREVISTO NO REGULAMENTO
+INTERNO DA CEF - RH 151. OMISSÃO. VÍCIO NÃO
+CONSTATADO. DESPROVIMENTO.
+Não constatada omissão, contradição, obscuridade ou erro
+material no julgado, nos termos dos artigos 897-A da CLT e 1.022
+do CPC, impõe-se negar provimento aos embargos de
+declaração.
+Embargos de declaração conhecidos e desprovidos.
+Vistos, relatados e discutidos estes autos de Embargos de Declaração Cível em
+Recurso de Revista nº TST-EDCiv-RR - 885-89.2022.5.07.0012, em que é Embargante CAIXA ECONÔMICA
+FEDERAL e é Embargado(a) MARIA GERLANIA HOLANDA MORAIS.
+Trata-se de embargos de declaração opostos contra acórdão prolatado por esta 7ª
+Turma que negou provimento ao agravo interno.
+É o relatório.
+V O T O
+1 - CONHECIMENTO
+Atendidos os pressupostos legais de admissibilidade, conheço os embargos de
+declaração.
+2 - MÉRITO
+INCORPORAÇÃO DE GRATIFICAÇÃO DE FUNÇÃO. REQUISITOS IMPLEMENTADOS
+APÓS A VIGÊNCIA DA LEI N.º 13.467/2017. DIREITO À INCORPORAÇÃO PREVISTO NO REGULAMENTO
+INTERNO DA CEF - RH 151. OMISSÃO. VÍCIO NÃO CONSTATADO
+Afirma a parte embargante que há necessidade de aclaramento e
+prequestionamento em face do julgado.
+Alega que o recurso de revista encontra óbice na Súmula n.º 126 do Tribunal
+Superior do Trabalho e que a parte reclamante não preencheu os requisitos da Súmula n.º 372 em sua
+completude.
+Aduz que “só haveria se falar em direito adquirido àqueles empregados que tivessem
+exercido mais de 10 anos de função gratificada e tiverem sido revertidos ao cargo de origem por interesse da
+administração e antes de 13/11/2017, data da vigência da lei n.13.467/2017”.
+Em conclusão, sustenta que os embargos merecem acolhimento para que sejam
+sanados os vícios apontados.
+Os embargos de declaração têm por objetivo sanar omissão, contradição e/ou
+obscuridade no julgado, além de corrigir erro material, como estabelecem os artigos 897-A da CLT e
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100680EAF5E3FB64C7.
+1.022 do Código de Processo Civil.
+O acórdão embargado foi assim exarado (sequencial 22):
+I - AGRAVO. AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. INCORPORAÇÃO DE
+GRATIFICAÇÃO DE FUNÇÃO. REQUISITOS IMPLEMENTADOS APÓS A VIGÊNCIA DA LEI Nº 13.467/2017.
+DIREITO À INCORPORAÇÃO PREVISTO NO REGULAMENTO INTERNO DA CEF - RH 151.
+TRANSCENDÊNCIA RECONHECIDA. PROVIMENTO .
+Demonstrada possível contrariedade à jurisprudência sumulada desta Corte Superior, é de se
+prover o agravo para adentrar no exame do agravo de instrumento.
+Agravo conhecido e provido.
+II - AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. INCORPORAÇÃO DE GRATIFICAÇÃO
+DE FUNÇÃO. REQUISITOS IMPLEMENTADOS APÓS A VIGÊNCIA DA LEI Nº 13.467/2017. DIREITO À
+INCORPORAÇÃO PREVISTO NO REGULAMENTO INTERNO DA CEF - RH 151.
+TRANSCENDÊNCIA RECONHECIDA. PROVIMENTO .
+Constatada possível contrariedade à Súmula nº 51, I, desta Corte Superior, é de se prover o
+agravo de instrumento para determinar o processamento do recurso de revista.
+Agravo de instrumento conhecido e provido.
+III - RECURSO DE REVISTA. INCORPORAÇÃO DE GRATIFICAÇÃO DE FUNÇÃO. REQUISITOS
+IMPLEMENTADOS APÓS A VIGÊNCIA DA LEI Nº 13.467/2017. DIREITO À INCORPORAÇÃO PREVISTO NO
+REGULAMENTO INTERNO DA CEF - RH 151. TRANSCENDÊNCIA POLÍTICA RECONHECIDA. PROVIMENTO
+.
+Prevalece nesta Corte Superior o entendimento segundo o qual o direito à incorporação da
+gratificação de função percebida por mais de dez anos, fundado no normativo interno RH 151 da
+Caixa Econômica Federal, incorporou-se ao contrato de trabalho do empregado admitido durante
+sua vigência, nos termos da Súmula nº 51, I, do TST, de modo que as alterações introduzidas pela Lei
+nº 13.467/2017 não autorizam a supressão da vantagem prevista, sob pena de se caracterizar
+alteração contratual lesiva.
+Recurso de revista conhecido e provido.
+Vistos, relatados e discutidos estes autos de Recurso de Revista nº TST- RR - 885-
+89.2022.5.07.0012 , em que é Recorrente(s) MARIA GERLANIA HOLANDA MORAIS e é Recorrido(s)
+CAIXA ECONÔMICA FEDERAL .
+Trata-se de agravo interposto contra decisão monocrática proferida pelo Exmo. Ministro
+Evandro Valadão, mediante a qual se negou provimento ao agravo de instrumento.
+Contrarrazões apresentadas.
+É o relatório.
+V O T O
+I - AGRAVO EM AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA
+CONHECIMENTO
+Presentes seus pressupostos objetivos e subjetivos, conheço do agravo.
+MÉRITO
+Trata-se de agravo interposto em face de decisão monocrática, mediante a qual foi negado
+provimento ao agravo de instrumento, com base nos seguintes fundamentos:
+D E C I S Ã O
+Trata-se de agravo de instrumento interposto contra decisão em que se denegou
+seguimento ao recurso de revista.
+A publicação do acórdão regional deu-se na vigência da Lei nº 13.467/2017.
+Atendidos os pressupostos extrínsecos, conheço do agravo de instrumento.
+As razões apresentadas no agravo de instrumento não ensejam o manejo do
+recurso de revista, porque não atendidos os requisitos do art. 896 da CLT.
+O exame da decisão agravada em confronto com as razões do recurso de revista e
+com o consignado no acórdão regional evidencia que, de fato, o recurso não merece
+seguimento.
+As alegações constantes da minuta do agravo de instrumento não trazem
+argumentos capazes de demonstrar equívoco ou desacerto na decisão agravada,
+tampouco permitem que se reconheça a transcendência da causa, como se verá a
+seguir:
+PRESSUPOSTOS EXTRÍNSECOS
+Recurso tempestivo (decisão publicada em 12/07/2023 - Id 16116dd; recurso
+apresentado em 18/07/2023 - Id eb86558).
+Representação processual regular (Id a1caaf5).
+Isento de preparo (artigos 790-A da Consolidação das Leis do Trabalho e 1º, inciso
+IV, do Decreto-lei 779/1969).
+PRESSUPOSTOS INTRÍNSECOS
+TRANSCENDÊNCIA
+Nos termos do artigo 896-A, § 6º, da Consolidação das Leis do Trabalho, cabe ao
+Tribunal Superior do Trabalho analisar se a causa oferece transcendência em relação aos
+reflexos gerais de natureza econômica, política, social ou jurídica.
+REMUNERAÇÃO, VERBAS INDENIZATÓRIAS E BENEFÍCIOS (2581) / GRATIFICAÇÃO
+(2055) / INCORPORAÇÃO
+Alegação(ões):
+- contrariedade à(ao): item I da Súmula nº 51; Súmula nº 372 do Tribunal Superior
+do Trabalho.
+- violação do(s) incisos LV e XXXVI do artigo 5º; inciso VI do artigo 7º; artigo 93 da
+Constituição Federal.
+- violação da(o) artigo 444 da Consolidação das Leis do Trabalho;
+§1º do artigo 457 da Consolidação das Leis do Trabalho; artigo 468 da
+Consolidação das Leis do Trabalho; artigo 818 da Consolidação das Leis do Trabalho;
+inciso II do artigo 373 do Código de Processo Civil de 2015.
+- divergência jurisprudencial.
+A Recorrente alega que: Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100680EAF5E3FB64C7.
+[¿]
+Deve-se apontar que o acórdão recorrido violou o enunciado 51 da súmula do TST
+e a fim de comprovar tal violação se faz o cotejo analítico: (¿)
+Como se observa, o acórdão afirmou que "Ocorre que a Lei nº 13.467/17
+acrescentou ao art. 468, da CLT o parágrafo segundo, que assim dispõe: "A alteração de
+que trata o § 1o deste artigo, com ou sem justo motivo, não assegura ao empregado o
+direito à manutenção do pagamento da gratificação correspondente, que não será
+incorporada, independentemente do tempo de exercício da respectiva função". A nova
+redação de referido artigo, expressamente, desobriga o empregador a manter o
+pagamento de gratificação função, quando o empregado não mais exerce a função
+gratificada / cargo comissionado, inclusive, independente do tempo de exercício", o que
+está em direto confronto com o inciso I do enunciado 51 da Súmula do TST, o qual dispõe
+que "as cláusulas regulamentares, que revoguem ou alterem vantagens deferidas
+anteriormente, só atingirão os trabalhadores admitidos após a revogação ou alteração
+do regulamento"
+O acórdão recorrido violou o artigo 468 da CLT1 , pois admitiu alteração lesiva ao
+admitir que a empregadora suprimisse direito previsto em regulamento de empresa que
+aderiu ao contrato de emprego da recorrente e há prequestionamento explícito: (¿)
+Também há interpretação divergente da referida norma com entendimento do
+Tribunal Regional do Trabalho da 11ª Região: (¿)
+O acórdão do TRT da 11ª Região afirma que "o regulamento de empresa adere ao
+contrato individual de trabalho, passando a integrar as cláusulas deste, sendo vedada a
+sua supressão unilateral (art. 468, da CLT), ainda que lei posterior autorize o empregador
+a fazê-lo", ao contrário do acórdão recorrido que afirma da validade do benefício
+previsto em regulamento empresarial, apenas, se "o empregado implementar os
+requisitos nelas previstos durante o período de sua vigência". Ou seja, o TRT da 11ª
+Região entende que as normas do regulamento aderem ao contrato de emprego,
+enquanto o TRT da 7ª Região só as garante em hipótese de ato jurídico perfeito,
+afastando quando todos os requisitos não estão preenchidos durante a vigência do
+regulamento.
+Quanto a interpretação diversa daquela dada por Turma do TST, novamente,
+socorre-se do cotejo analítico:
+(¿)
+Expõe a Recorrente, outrossim, que:
+[¿]
+DA INTEGRAÇÃO DO REGULAMENTO DE EMPRESA AO CONTRATO DE EMPREGO DA
+RECLAMANTE
+O acórdão recorrido viola frontalmente o enunciado nº 51 do TST, pois este dispõe
+que "as cláusulas regulamentares, que revoguem ou alterem vantagens deferidas
+anteriormente, só atingirão os trabalhadores admitidos após a revogação ou alteração
+do regulamento".
+O enunciado se distingue do posicionamento do acórdão ao afirmar que a
+revogação das cláusulas que trazem vantagens só atinge os novos contratos, ou seja, é o
+próprio regulamento que é adicionado ao contrato de emprego, enquanto o acórdão
+confunde a referida adesão com o ato jurídico perfeito4.
+O entendimento do TRT da 7ª Região viola a regra hermenêutica de que não há
+palavras despiciendas na lei, pois caso o TST desejasse,no enunciado nº 51,proteger o ato
+jurídico perfeito o teria dito expressamente e não teria dito que a revogação de
+cláusulas regulamentares só atingem empregados admitidos após a revogação.
+Reforça-se o argumento através do inciso II do enunciado nº 51, o qual afirma que
+"havendo a coexistência de dois regulamentos da empresa, a opção do empregado por
+um deles tem efeito jurídico de renúncia às regras do sistema do outro". Ora, o
+TST,quando afirma que o empregado pode optar por um conjunto de regras, afirma que
+estas aderiram ao contrato de emprego do trabalhador.
+(¿)
+Caso o entendimento do TRT da 7ª Região fosse a regra, não seria necessário o
+inciso II do enunciado, pois a mera revogação do regulamento já afastaria a aplicação
+das suas cláusulas, salvo na hipótese de ato jurídico perfeito.
+[¿]
+Postula a Recorrente ao final:
+[¿]
+Requer a demandante que seja dado provimento ao presente recurso, a fim de
+reformar o acórdão e garantir a incorporação das gratificações em conformidade com o
+que foi solicitado na inicial.
+[¿]
+Fundamentos do acórdão recorrido:
+[¿]
+ADICIONAL DE INCORPORAÇÃO CARGO COMISSIONADO, GRATIFICAÇÃO CTVA.
+A principal matéria versada nos autos diz respeito à incorporação da gratificação
+pelo exercício do cargo comissionado, bem como da gratificação CTVA e de PORTE.
+In casu, não se considera alteração unilateral a determinação do empregador para
+que o empregado reverta ao cargo efetivo anteriormente ocupado, deixando o exercício
+de função de confiança. Quer isto dizer que, mesmo após vários anos ocupando função
+gratificada, pode o empregador destituir o empregado, sem que isso se consubstancie
+uma alteração unilateral, porque se considera que tal determinação está inserta no
+poder de gerência da empresa, no direito potestativo do patrão.
+Contudo, com esteio no princípio do equilíbrio financeiro, e a fim de que o
+empregado revertido ao cargo efetivo não passasse a amargar declínio em sua
+economia e consequente qualidade de vida, a jurisprudência foi se firmando no sentido
+de que, percebida a gratificação de função por dez ou mais anos, se o empregador, sem
+justo motivo, o reverter a seu cargo efetivo, não poderia retirar-lhe a gratificação
+(entendimento cristalizado na Súmula nº372, TST).
+Ocorre que a Lei nº 13.467/17 acrescentou ao art. 468, da CLT o parágrafo
+segundo, que assim dispõe: "A alteração de que trata o § 1o deste artigo, com ou sem
+justo motivo, não assegura ao empregado o direito à manutenção do pagamento da
+gratificação correspondente, que não será incorporada, independentemente do tempo
+de exercício da respectiva função".
+A nova redação de referido artigo, expressamente, desobriga o empregador a manter o pagamento de gratificação função, quando o empregado não mais exerce a
+função gratificada / cargo comissionado, inclusive, independente do tempo de exercício.
+Na espécie, restou incontroverso que a reclamante percebeu função gratificada
+junto à ré desde 09/2009, perdurando até 15/03/2022, ou seja, por mais de dez anos,
+conforme demonstra documentos de fls. 36/38. Entretanto, o início da vigência da Lei Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100680EAF5E3FB64C7.
+13.467/17, acima referida, ocorreu antes de a reclamante contabilizar a percepção de
+gratificação de função por 10 (dez) anos.
+A reclamante sustenta adicionalmente que o regulamento interno da CEF prevê a
+incorporação de função gratificada quando exercida por mais de dez anos, e, que
+referida norma aderiu ao contrato de trabalho, não podendo ser revogada
+unilateralmente, como previsto no enunciado 51 da Súmula do TST. Entende, então, que
+a alteração da norma somente se aplica aos empregados admitidos posteriormente.
+De fato, o Manual Normativo RH-151 (MN - RH-151), vigente por ocasião da
+admissão da Reclamante, acerca do adicional de incorporação, assim dispunha:
+"3.3.1 É requisito para a concessão de Adicional de Incorporação:
+-ter sido dispensado de FG / CC / FC, por interesse da Administração conforme
+subitem 3.1.1, a partir de 11 /04/2006;
+- ter exercido FG / CC / FC por período maior ou igual a 10 anos imediatamente
+anterior à dispensa" (fl. 62).
+Referida norma interna, no entanto, foi revogada antes mesmo da reclamante
+implementar o requisito objetivo-temporal nela previsto.
+O cerne da questão repousa, então, em saber se a norma interna aderiu ao
+contrato de trabalho do empregado, aplicando-se as alterações somente aos
+trabalhadores admitidos posteriormente.
+Neste aspecto, afirma a demandada que:
+"A sentença a quo considerou que o normativo RH 151 gerou um direito aos
+empregados, importante ressaltar que não se trata de direito adquirido por todo e
+qualquer empregado admitido no curso de sua vigência. Uma vez que o empregado
+perdeu a função em 30 de junho de 2022, mais de um cinco anos após a entrada em
+vigor da Lei nº 13.467/2017, não há que se falar em direito à incorporação, pois o
+reclamante foi admitido na empresa em 13/09/2010, não possuindo ainda tempo de
+exercício de função, qual seja, 10 anos, quando da vigência da Lei nº 13.467/2017" (fl.
+975).
+Sobre o tema, o Tribunal Superior do Trabalho já decidiu:
+"(...)
+RECURSO DE REVISTA. VIGÊNCIA DA LEI Nº 13.467/17. GRATIFICAÇÃO DE FUNÇÃO
+PREVISTA EM NORMA INTERNA REVOGADA ANTES DA IMPLEMENTAÇÃO DO REQUISITO
+OBJETIVO-TEMPORAL (5 ANOS NA FUNÇÃO). INEXISTÊNCIA DE DIREITO ADQUIRIDO.
+1. O Tribunal Regional registrou que "o autor exerceu o cargo de confiança de no
+período de 11/8/2011 a 10/7/2019". Asseverou que "a reclamada em seus normativos,
+Resolução nº 010/2010 e Resolução nº 006/2013, assegura ao empregado o direito de
+incorporação da gratificação quando tiver permanecido por mais de 5 anos na função,
+escalonando o percentual de incorporação de acordo com o tempo de permanência".
+Destacou, no entanto, que "a Resolução acima transcrita foi revogada em julho de 2013
+pela Resolução n.º 06 /2013 (fl. 131), a qual foi revogada em fevereiro de 2015 pela
+Resolução nº 006/2015 (fl. 135)".
+2. Invocando a integração do regramento previsto na Resolução ao contrato de
+trabalho do autor, firmou entendimento no sentido de que "a Resolução n.º 006/2015
+não possui o condão de afastar o direito do reclamante à incorporação da gratificação de
+função, tendo em vista que a Resolução nº 010 /2010 incorporou-se ao seu contrato de
+trabalho".
+3. A reversão ao cargo efetivo configura alteração lícita do contrato de trabalho,
+não assegurando ao empregado o direito à manutenção do pagamento da gratificação
+correspondente, ressalvadas as hipóteses em que há previsão expressa do direito à
+incorporação em lei, cláusula coletiva ou norma interna e o empregado implemente os
+requisitos previstos durante o período de sua vigência.
+4. Em tal contexto, não há falar em direito adquirido, mas em mera expectativa
+que não se consumou.
+Recurso de revista conhecido e provido.(TST- RR-1746-54.2019.5.10.0802, 1ª Turma, Ministro Relator Amaury Rodrigues Pinto Junior, data do julgamento: 19.10.22).
+RECURSO DE REVISTA. VIGÊNCIA DA LEI Nº 13.467/17. GRATIFICAÇÃO DE FUNÇÃO
+PREVISTA EM NORMA INTERNA REVOGADA ANTES DA IMPLEMENTAÇÃO DO REQUISITO
+OBJETIVO TEMPORAL (10 ANOS NA FUNÇÃO). INEXISTÊNCIA DE DIREITO ADQUIRIDO.
+1. O Tribunal Regional registrou "a ITF (INCORPORAÇÃO POR TEMPO DE FUNÇÃO)
+foi instituída no âmbito da reclamada em 2012, como 'mecanismo de incorporação
+administrativa de função concedida aos empregados que forem dispensados do
+exercício de função após um período igual ou superior a 10 anos, de função.' (Manual de
+Pessoal, Módulo 36, capítulo 1, item 2 - ID 2d8960d)". Destacou, no entanto, que "em
+2014, por decisão do Conselho de Administração da ECT, a ITF foi extinta e,
+consequentemente, revogadas as referidas disposições do Módulo 36 do MANPES".
+2. Invocando a inalterabilidade contratual lesiva, firmou entendimento no sentido
+de que "a revogação da norma interna dois anos após a sua edição não possui o condão
+de afastar o surgimento do direito ao reclamante", ainda que haja apontado que o
+requisito objetivo temporal previsto na norma interna ocorreu apenas em 2020, ou seja,
+seis anos depois da revogação da norma que instituiu o direito.
+3. A reversão ao cargo efetivo configura alteração lícita do contrato de trabalho,
+não assegurando ao empregado o direito à manutenção do pagamento da gratificação
+correspondente, ressalvadas as hipóteses em que há previsão expressa do direito à
+incorporação em lei, cláusula coletiva ou norma interna e o empregado implemente os
+requisitos previstos durante o período de sua vigência.
+4. Em tal contexto, não há falar em direito adquirido, mas em mera expectativa
+que não se consumou."
+Recurso de revista conhecido e provido. (TST-RR-860- 33.2020.5.10.0022, Ministro
+Relator Amaury Rodrigues Pinto Junior, data do julgamento 10.08.22)"
+Do acima exposto, verifica-se que a reversão ao cargo efetivo, por si só, não
+configura alteração ilícita do contrato de trabalho, não fazendo jus o trabalhador à
+incorporação da gratificação correspondente, salvo em caso de previsão em lei, cláusula
+coletiva ou norma interna, se o empregado implementar os requisitos nelas previstos
+durante o período de sua vigência.
+Esta não é, no entanto, a situação dos autos, uma vez que, a demandante era
+portadora de mera expectativa de direito a qual não se consumou pois não atingiu o
+objetivo- temporal enquanto vigente a norma interna.
+Destaca-se que o próprio Tribunal Superior firmou entendimento de que as
+alterações legislativas são de efeito imediato, resguardando apenas as situações já
+constituídas anteriormente.
+"AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA.
+INTERPOSIÇÃO NA VIGÊNCIA DA LEI N.º 13.467/2017. AUSÊNCIA DE TRANSCENDÊNCIA.
+INCORPORAÇÃO DA GRATIFICAÇÃO DE FUNÇÃO EXERCIDA POR MAIS DE DEZ ANOS
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100680EAF5E3FB64C7.
+ANTES DA ENTRADA EM VIGOR DA LEI N.º 13.467/2017. ALTERAÇÃO LEGISLATIVA. DIREITO
+ADQUIRIDO. A despeito das razões apresentadas pela parte agravante, deve ser mantida
+a decisão agravada que denegou seguimento ao Agravo de Instrumento. No caso em
+apreço, o Regional, verificando que o reclamante recebeu gratificação de função por mais de dez anos, adotou como razão de decidir a ratio contida no item I da Súmula n.º
+372 desta Corte. Na hipótese, os requisitos para o recebimento do direito postulado
+foram preenchidos em período anterior à vigência da Lei n.º 13.467/17, razão pela qual
+as inovações legislativas não se aplicam ao caso em comento, estando o direito
+incorporado ao patrimônio jurídico do autor. Precedentes da Corte. Agravo conhecido e
+não provido " (Ag-AIRR-945- 37.2020.5.10.0016, 1ª Turma, Relator Ministro Luiz Jose
+Dezena da Silva, DEJT 24/10/2022).
+Por todo exposto, merece reforma a decisão monocrática que deferiu os pedidos
+relativos à incorporação correspondente ao valor médio das gratificações recebidas nos
+últimos 5(cinco) anos, inclusive CTVA e porte de unidade, bem como ao pagamento de
+diferenças salariais, vencidas e vincendas, decorrentes da incorporação pretendida, bem
+como de verbas consectárias.
+DO DANO MORAL / DA ALEGADA DISPENSA DISCRIMINATÓRIA DA FUNÇÃO.
+Em seu pleito recursal, a parte autora relatou que "o fato de a CEF estar
+cumprindo o seu Regulamento Interno é o suficiente para configurar o dano moral, pois
+institucionalizou a obrigação de destituir uma empregada, apenas, por estar doente!!! Tal
+situação é absurda, a brilhante carreira da parte autora foi interrompida por esta estar
+enferma, tratando de uma dispensa de função discriminatória, mesmo que
+institucionalizada em normativo, o que não é admissível!" (fl. 964)
+Seguiu narrando que sua carreira foi interrompida por estar enferma e requer a
+aplicação analógica do enunciado 443 do TST.
+Aduziu que: "o burn out é visto no mundo corporativo de forma estigmatizada,
+pois se presume que o empregado estaria simulando a doença a fim de evitar o trabalho
+e, dessa forma, o trabalhador fica marcado como preguiçoso e improdutivo, reduzindo,
+drasticamente, as suas chances de ascensão. Tal concepção discriminatória foi
+institucionalizada na empresa pública ré, cujo regulamento de empresa impõe a retirada
+da função após 6 meses de doença!!! Situação esta que não pode ser admitida pelo
+Judiciário, sob pena de penalizar os trabalhadores enfermos e os excluir do ambiente de
+trabalho!!!" (fl. 965)
+Por fim, sustenta: "Ademais, Carlos Roberto Gonçalves leciona que "o dano moral,
+salvo casos especiais, como o do inadimplemento contratual, por exemplo, em que se
+faz mister a prova da perturbação da esfera anímica do lesado, dispensa prova em
+concreto, pois se passa no interior da personalidade e existe in re ipsa. Trata-se de
+presunção absoluta." Ou seja, não há necessidade de prova do efetivo dano, mas tão
+somente da conduta danosa e o nexo de causalidade; o que ocorre no presente caso,
+pois está comprovado que a recorrente esteve doente e que a CEF a retirou da função
+por tal motivo." (fl. 966) Requereu, pois, a condenação da parte adversa em indenização
+por dano moral no importe de R$ 50.000,00 (cinquenta mil reais).
+À análise.
+Relativamente à alegada dispensa discriminatória do cargo de confiança, não se
+vislumbra nos autos, como bem destacara o juízo a quo, qualquer prova documental ou
+testemunhal capaz de comprovar a tese autoral.
+Na verdade, a função exercida pela autora, qual seja, Gerente de Carteira PF é de
+livre indicação e dispensa, fazendo parte do poder diretivo do empregador.
+Incabível ao caso a aplicação analógica da Súmula 443 do TST, tendo em vista que
+esta, na sua essência, trata do rompimento de vínculo empregatício, não podendo ser
+aplicada à função de confiança que, por natureza, requer maior liberdade de nomeação
+e destituição.
+Aliás, conforme mencionado alhures, a reversão do trabalhador ao cargo original é
+totalmente lícita nos termos do art. 468 da CLT, parágrafo primeiro.
+Observa-se, ainda, que a a MN RH 184, dispõe:
+"3.17.3 ASSEGURAMENTO DECORRENTE DE EXERCÍCIO NÃO EFETIVO DE FUNÇÃO
+GRATIFICADA / CARGO EM COMISSÃO 3.17.3.1 No exercício não efetivo de FG / CC por
+180 dias consecutivos, ininterruptos e imediatamente anteriores à ocorrência dos
+afastamentos a seguir, o empregado tem assegurado o valor da FG / CC exercida e,
+quando for o caso, do CTVA e do porte da unidade" (fl. 887).
+Referida norma restou plenamente observada pela demandada, não se
+verificando qualquer ato ilícito praticado pela empregadora.
+Destarte, à vista de todo o contexto defluente do acervo instrutório, conclui-se
+que não há se falar em indenização por dano moral decorrente de dispensa
+discriminatória do exercício de função comissionada.
+Improvido.
+Prejudicada a análise da limitação da condenação aos valores apontados na
+petição inicial em face da total improcedência dos pleitos exordiais.
+[¿]
+Fundamentos da decisão de embargos de declaração:
+[¿]
+Em primeiro lugar, considera-se omissão a ausência de manifestação da decisão
+sobre ponto no qual deveria se pronunciar.
+Alega a embargante que "o acórdão recorrido ao afirmar que não faz jus o
+trabalhador à incorporação salvo se a empregada implementar os requisitos do
+regulamento durante o período de sua vigência viola frontalmente o enunciado nº 51 do
+TST, pois este dispõe que "as cláusulas regulamentares, que revoguem ou alterem
+vantagens deferidas anteriormente, só atingirão os trabalhadores admitidos após a
+revogação ou alteração do regulamento" (fl. 1041).
+Entretanto, verifica-se, no caso, que o Acórdão do recurso ordinário se manifestou
+sobre o tema. No caso, a matéria restou amplamente debatida. Observe-se o teor da
+decisão embargada (fl. 1011)
+"MÉRITO
+ADICIONAL DE INCORPORAÇÃO CARGO COMISSIONADO, GRATIFICAÇÃO CTVA.
+A principal matéria versada nos autos diz respeito à incorporação da gratificação
+pelo exercício do cargo comissionado, bem como da gratificação CTVA e de PORTE.
+In casu, não se considera alteração unilateral a determinação do empregador para
+que o empregado reverta ao cargo efetivo anteriormente ocupado, deixando o exercício
+de função de confiança. Quer isto dizer que, mesmo após vários anos ocupando função
+gratificada, pode o empregador destituir o empregado, sem que isso se consubstancie
+uma alteração unilateral, porque se considera que tal determinação está inserta no
+poder de gerência da empresa, no direito potestativo do patrão.
+Contudo, com esteio no princípio do equilíbrio financeiro, e a fim de que o
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100680EAF5E3FB64C7.
+empregado revertido ao cargo efetivo não passasse a amargar declínio em sua
+economia e consequente qualidade de vida, a jurisprudência foi se firmando no sentido
+de que, percebida a gratificação de função por dez ou mais anos, se o empregador, sem
+justo motivo, o reverter a seu cargo efetivo, não poderia retirar-lhe a gratificação
+(entendimento cristalizado na Súmula nº372, TST).
+Ocorre que a Lei nº 13.467/17 acrescentou ao art. 468, da CLT o parágrafo
+segundo, que assim dispõe: "A alteração de que trata o § 1o deste artigo, com ou sem
+justo motivo, não assegura ao empregado o direito à manutenção do pagamento da
+gratificação correspondente, que não será incorporada, independentemente do tempo
+de exercício da respectiva função".
+A nova redação de referido artigo, expressamente, desobriga o empregador a manter o pagamento de gratificação função, quando o empregado não mais exerce a
+função gratificada / cargo comissionado, inclusive, independente do tempo de exercício.
+Na espécie, restou incontroverso que a reclamante percebeu função gratificada
+junto à ré desde 09/2009, perdurando até 15/03/2022, ou seja, por mais de dez anos,
+conforme demonstra documentos de fls. 36/38. Entretanto, o início da vigência da Lei
+13.467/17, acima referida, ocorreu antes de a reclamante contabilizar a percepção de
+gratificação de função por10 (dez) anos.
+A reclamante sustenta adicionalmente que o regulamento interno da CEF prevê a
+incorporação de função gratificada quando exercida por mais de dez anos, e, que
+referida norma aderiu ao contrato de trabalho, não podendo ser revogada
+unilateralmente, como previsto no enunciado 51 da Súmula do TST. Entende, então, que
+a alteração da norma somente se aplica aos empregados admitidos posteriormente.
+De fato, o Manual Normativo RH-151 (MN - RH-151), vigente por ocasião da
+admissão da Reclamante, acerca do adicional de incorporação, assim dispunha :
+"3.3.1 É requisito para a concessão de Adicional de Incorporação:
+-ter sido dispensado de FG / CC / FC, por interesse da Administração conforme
+subitem 3.1.1, a partir de 11 /04/2006;
+- ter exercido FG / CC / FC por período maior ou igual a 10 anos imediatamente
+anterior à dispensa" (fl. 62).
+Referida norma interna, no entanto, foi revogada antes mesmo da reclamante
+implementar o requisito objetivo-temporal nela previsto.
+O cerne da questão repousa, então, em saber se a norma interna aderiu ao
+contrato de trabalho do empregado, aplicando-se as alterações somente aos
+trabalhadores admitidos posteriormente.
+Neste aspecto, afirma a demandada que:
+"A sentença a quo considerou que o normativo RH 151 gerou um direito aos
+empregados, importante ressaltar que não se trata de direito adquirido por todo e
+qualquer empregado admitido no curso de sua vigência. Uma vez que o empregado
+perdeu a função em 30 de junho de 2022, mais de um cinco anos após a entrada em
+vigor da Lei nº 13.467/2017, não há que se falar em direito à incorporação, pois o
+reclamante foi admitido na empresa em 13/09/2010, não possuindo ainda tempo de
+exercício de função, qual seja, 10 anos, quando da vigência da Lei nº 13.467/2017" (fl.
+975).
+Sobre o tema, o Tribunal Superior do Trabalho já decidiu:
+"(...)
+RECURSO DE REVISTA. VIGÊNCIA DA LEI Nº 13.467/17. GRATIFICAÇÃO DE FUNÇÃO
+PREVISTA EM NORMA INTERNA REVOGADA ANTES DA IMPLEMENTAÇÃO DO REQUISITO
+OBJETIVO-TEMPORAL (5 ANOS NA FUNÇÃO). INEXISTÊNCIA DE DIREITO ADQUIRIDO.
+1. O Tribunal Regional registrou que "o autor exerceu o cargo de confiança de no
+período de 11/8/2011 a 10/7/2019". Asseverou que "a reclamada em seus normativos,
+Resolução nº 010/2010 e Resolução nº 006/2013, assegura ao empregado o direito de
+incorporação da gratificação quando tiver permanecido por mais de 5 anos na função,
+escalonando o percentual de incorporação de acordo com o tempo de permanência".
+Destacou, no entanto, que "a Resolução acima transcrita foi revogada em julho de 2013
+pela Resolução n.º 06 /2013 (fl. 131), a qual foi revogada em fevereiro de 2015 pela
+Resolução nº 006/2015 (fl. 135)".
+2. Invocando a integração do regramento previsto na Resolução ao contrato de
+trabalho do autor, firmou entendimento no sentido de que "a Resolução n.º 006/2015
+não possui o condão de afastar o direito do reclamante à incorporação da gratificação de
+função, tendo em vista que a Resolução nº 010 /2010 incorporou-se ao seu contrato de
+trabalho".
+3. A reversão ao cargo efetivo configura alteração lícita do contrato de trabalho,
+não assegurando ao empregado o direito à manutenção do pagamento da gratificação
+correspondente, ressalvadas as hipóteses em que há previsão expressa do direito à
+incorporação em lei, cláusula coletiva ou norma interna e o empregado implemente os
+requisitos previstos durante o período de sua vigência.
+4. Em tal contexto, não há falar em direito adquirido, mas em mera expectativa
+que não se consumou.
+Recurso de revista conhecido e provido.(TST- RR-1746-54.2019.5.10.0802, 1ª Turma, Ministro Relator Amaury Rodrigues Pinto Junior, data do julgamento: 19.10.22).
+RECURSO DE REVISTA. VIGÊNCIA DA LEI Nº 13.467/17. GRATIFICAÇÃO DE FUNÇÃO
+PREVISTA EM NORMA INTERNA REVOGADA ANTES DA IMPLEMENTAÇÃO DO REQUISITO
+OBJETIVO TEMPORAL (10 ANOS NA FUNÇÃO). INEXISTÊNCIA DE DIREITO ADQUIRIDO.
+1. O Tribunal Regional registrou "a ITF (INCORPORAÇÃO POR TEMPO DE FUNÇÃO)
+foi instituída no âmbito da reclamada em 2012, como 'mecanismo de incorporação
+administrativa de função concedida aos empregados que forem dispensados do
+exercício de função após um período igual ou superior a 10 anos, de função.' (Manual de
+Pessoal, Módulo 36, capítulo 1, item 2 - ID 2d8960d)". Destacou, no entanto, que "em
+2014, por decisão do Conselho de Administração da ECT, a ITF foi extinta e,
+consequentemente, revogadas as referidas disposições do Módulo 36 do MANPES".
+2. Invocando a inalterabilidade contratual lesiva, firmou entendimento no sentido
+de que "a revogação da norma interna dois anos após a sua edição não possui o condão
+de afastar o surgimento do direito ao reclamante", ainda que haja apontado que o
+requisito objetivo temporal previsto na norma interna ocorreu apenas em 2020, ou seja,
+seis anos depois da revogação da norma que instituiu o direito.
+3. A reversão ao cargo efetivo configura alteração lícita do contrato de trabalho,
+não assegurando ao empregado o direito à manutenção do pagamento da gratificação
+correspondente, ressalvadas as hipóteses em que há previsão expressa do direito à
+incorporação em lei, cláusula coletiva ou norma interna e o empregado implemente os
+requisitos previstos durante o período de sua vigência.
+4. Em tal contexto, não há falar em direito adquirido, mas em mera expectativa
+que não se consumou."
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100680EAF5E3FB64C7.
+Recurso de revista conhecido e provido. (TST-RR-860- 33.2020.5.10.0022, Ministro
+Relator Amaury Rodrigues Pinto Junior, data do julgamento 10.08.22)"
+Do acima exposto, verifica-se que a reversão ao cargo efetivo, por si só, não
+configura alteração ilícita do contrato de trabalho, não fazendo jus o trabalhador à
+incorporação da gratificação correspondente, salvo em caso de previsão em lei, cláusula
+coletiva ou norma interna, se o empregado implementar os requisitos nelas previstos
+durante o período de sua vigência.
+Esta não é, no entanto, a situação dos autos, uma vez que, a demandante era
+portadora de mera expectativa de direito a qual não se consumou pois não atingiu o
+objetivo- temporal enquanto vigente a norma interna.
+Destaca-se que o próprio Tribunal Superior firmou entendimento de que as
+alterações legislativas são de efeito imediato, resguardando apenas as situações já
+constituídas anteriormente.
+"AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA.
+INTERPOSIÇÃO NA VIGÊNCIA DA LEI N.º 13.467/2017. AUSÊNCIA DE TRANSCENDÊNCIA.
+INCORPORAÇÃO DA GRATIFICAÇÃO DE FUNÇÃO EXERCIDA POR MAIS DE DEZ ANOS
+ANTES DA ENTRADA EM VIGOR DA LEI N.º 13.467/2017. ALTERAÇÃO LEGISLATIVA. DIREITO
+ADQUIRIDO. A despeito das razões apresentadas pela parte agravante, deve ser mantida
+a decisão agravada que denegou seguimento ao Agravo de Instrumento. No caso em
+apreço, o Regional, verificando que o reclamante recebeu gratificação de função por mais de dez anos, adotou como razão de decidir a ratio contida no item I da Súmula n.º
+372 desta Corte. Na hipótese, os requisitos para o recebimento do direito postulado
+foram preenchidos em período anterior à vigência da Lei n.º 13.467/17, razão pela qual
+as inovações legislativas não se aplicam ao caso em comento, estando o direito
+incorporado ao patrimônio jurídico do autor. Precedentes da Corte. Agravo conhecido e
+não provido " (Ag-AIRR-945- 37.2020.5.10.0016, 1ª Turma, Relator Ministro Luiz Jose
+Dezena da Silva, DEJT 24/10/2022).
+Por todo exposto, merece reforma a decisão monocrática que deferiu os pedidos
+relativos à incorporação correspondente ao valor médio das gratificações recebidas nos
+últimos 5(cinco) anos, inclusive CTVA e porte de unidade, bem como ao pagamento de
+diferenças salariais, vencidas e vincendas, decorrentes da incorporação pretendida, bem
+como de verbas consectárias.
+DO DANO MORAL / DA ALEGADA DISPENSA DISCRIMINATÓRIA DA FUNÇÃO.
+Em seu pleito recursal, a parte autora relatou que "o fato de a CEF estar
+cumprindo o seu Regulamento Interno é o suficiente para configurar o dano moral, pois
+institucionalizou a obrigação de destituir uma empregada, apenas, por estar doente!!! Tal
+situação é absurda, a brilhante carreira da parte autora foi interrompida por esta estar
+enferma, tratando de uma dispensa de função discriminatória, mesmo que
+institucionalizada em normativo, o que não é admissível!" (fl. 964)
+Seguiu narrando que sua carreira foi interrompida por estar enferma e requer a
+aplicação analógica do enunciado 443 do TST.
+Aduziu que: "o burn out é visto no mundo corporativo de forma estigmatizada,
+pois se presume que o empregado estaria simulando a doença a fim de evitar o trabalho
+e, dessa forma, o trabalhador fica marcado como preguiçoso e improdutivo, reduzindo,
+drasticamente, as suas chances de ascensão. Tal concepção discriminatória foi
+institucionalizada na empresa pública ré, cujo regulamento de empresa impõe a retirada
+da função após 6 meses de doença!!! Situação esta que não pode ser admitida pelo
+Judiciário, sob pena de penalizar os trabalhadores enfermos e os excluir do ambiente de
+trabalho!!!" (fl. 965)
+Por fim, sustenta: "Ademais, Carlos Roberto Gonçalves leciona que "o dano moral,
+salvo casos especiais, como o do inadimplemento contratual, por exemplo, em que se
+faz mister a prova da perturbação da esfera anímica do lesado, dispensa prova em
+concreto, pois se passa no interior da personalidade e existe in re ipsa. Trata-se de
+presunção absoluta." Ou seja, não há necessidade de prova do efetivo dano, mas tão
+somente da conduta danosa e o nexo de causalidade; o que ocorre no presente caso,
+pois está comprovado que a recorrente esteve doente e que a CEF a retirou da função
+por tal motivo." (fl. 966) Requereu, pois, a condenação da parte adversa em indenização
+por dano moral no importe de R$ 50.000,00 (cinquenta mil reais).
+À análise.
+Relativamente à alegada dispensa discriminatória do cargo de confiança, não se
+vislumbra nos autos, como bem destacara o juízo a quo, qualquer prova documental ou
+testemunhal capaz de comprovar a tese autoral.
+Na verdade, a função exercida pela autora, qual seja, Gerente de Carteira PF é de
+livre indicação e dispensa, fazendo parte do poder diretivo do empregador.
+Incabível ao caso a aplicação analógica da Súmula 443 do TST, tendo em vista que
+esta, na sua essência, trata do rompimento de vínculo empregatício, não podendo ser
+aplicada à função de confiança que, por natureza, requer maior liberdade de nomeação
+e destituição.
+Aliás, conforme mencionado alhures, a reversão do trabalhador ao cargo original é
+totalmente lícita nos termos do art. 468 da CLT, parágrafo primeiro.
+Observa-se, ainda, que a a MN RH 184, dispõe:
+"3.17.3 ASSEGURAMENTO DECORRENTE DE EXERCÍCIO NÃO EFETIVO DE FUNÇÃO
+GRATIFICADA / CARGO EM COMISSÃO
+3.17.3.1 No exercício não efetivo de FG / CC por 180 dias consecutivos,
+ininterruptos e imediatamente anteriores à ocorrência dos afastamentos a seguir, o
+empregado tem assegurado o valor da FG / CC exercida e, quando for o caso, do CTVA e
+do porte da unidade" (fl. 887).
+Referida norma restou plenamente observada pela demandada, não se
+verificando qualquer ato ilícito praticado pela empregadora.
+Destarte, à vista de todo o contexto defluente do acervo instrutório, conclui-se
+que não há se falar em indenização por dano moral decorrente de dispensa
+discriminatória do exercício de função comissionada.
+Improvido.
+Prejudicada a análise da limitação da condenação aos valores apontados na
+petição inicial em face da total improcedência dos pleitos exordiais.".
+Portanto, como se observa conforme os termos grifados, o tema ora em
+questionamento fora devidamente analisado e equacionado ao ensejo da decisão
+colegiada acima reproduzida, ora embargada e decidida quando no acórdão restou
+consignado que "verifica-se que a reversão ao cargo efetivo, por si só, não configura
+alteração ilícita do contrato de trabalho, não fazendo jus o trabalhador à incorporação
+da gratificação correspondente, salvo em caso de previsão em lei, cláusula coletiva ou
+norma interna, se o empregado implementar os requisitos nelas previstos durante o
+período de sua vigência. Esta não é, no entanto, a situação dos autos, uma vez que, a
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100680EAF5E3FB64C7.
+demandante era portadora de mera expectativa de direito a qual não se consumou pois
+não atingiu o objetivo-temporal enquanto vigente a norma interna" (fl. 1014)
+Não se pode perder de vista que os embargos de declaração constituem meio
+hábil e legal de que a parte dispõe para, nos termos do preconizados no artigo 1.022 do
+CPC em vigor, obter do órgão jurisdicional pronunciamento acerca de determinado
+pedido ou aspecto da demanda com vistas a: I - esclarecer obscuridade ou eliminar
+contradição; II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o
+juiz de ofício ou a requerimento; III - corrigir erro material.
+Nesse diapasão, percebe-se claramente, conforme se observa no relato, o intuito
+da parte embargante em ver modificada a decisão embargada em seu obséquio, o que,
+todavia, lhe é vedado em sede de aclaratórios.
+Ao que se pode inferir, trata-se a impugnação ora em análise de mero
+inconformismo da parte, que pretende ver reanalisados os seus argumentos, conforme
+se depreende do relatório acima esposado, o que somente lhe será possível por meio da
+utilização da faculdade recursal ordinária.
+Demais disto, os embargos de declaração não se prestam como meio para novas
+ou renovadas argumentações da parte e tampouco para perpetuar discussões a respeito
+de aspectos que não tenham sido acolhidos pelo Juízo.
+Por fim, insta acentuar que, em situações tais, é incorreto suscitar, em sede de
+embargos de declaração, a existência do vício de erro material, omissão, contradição e /
+ou obscuridade em face da rejeição de determinados pontos de vista ou de pretender
+reacender discussão de matérias, a pretexto de prequestionamento.
+Inacolhe-se, portanto.
+[¿]
+À análise.
+Observa-se que o Colegiado decidiu com amparo nos elementos probatórios
+contidos nos autos. Conclusão diversa da adotada remeteria ao reexame de fatos e
+provas, procedimento vedado pela Súmula 126 do Tribunal Superior do Trabalho. Diante
+da premissa fática delineada no acórdão no sentido de que "o Manual Normativo RH-151
+(MN -RH-151), vigente por ocasião da admissão da Reclamante, acerca do adicional de
+incorporação foi revogada antes mesmo da reclamante implementar o requisito
+objetivo-temporal nela previsto .", não se vislumbra possível violação aos preceitos da
+legislação federal apontados ou à Súmula do TST, impondo- se destacar, no aspecto, que
+a menção de arestos para configuração do dissídio jurisprudencial sobre essa matéria,
+na hipótese, não viabiliza o processamento do recurso
+Não se constata, in fine, possível ofensa aos dispositivos constitucionais apontados
+pela parte recorrente. Violação, se houvesse, seria meramente reflexa, o que é
+insuficiente para autorizar o seguimento do recurso de revista, de acordo com as
+reiteradas decisões da Subseção 1 Especializada em Dissídios Individuais do Tribunal
+Superior do Trabalho (AIRR - 1000615-14.2015.5.02.0471 , Relatora Ministra: Maria
+Helena Mallmann, Data de Julgamento: 25/10/2017, 2ª Turma, Data de Publicação: DEJT
+27/10/2017, AIRR - 55641-78.2004.5.09.0091, julgado em 24.2.2010, Relatora Ministra Maria de Assis Calsing, 4ª Turma, DEJT de 5.3.2010; RR - 17800-25.2006.5.02.0301, julgado
+em 14.10.2009, Relatora Ministra Rosa Maria Weber, 3ª Turma, DEJT de 13.11.2009).
+Inviável, pois, o processamento do recurso de revista.
+CONCLUSÃO
+Denego seguimento.
+(marcador do documento eletrônico).
+Ante os termos da decisão agravada e à luz das circunstâncias dos presentes
+autos, verifica-se que as questões jurídicas debatidas no recurso de revista não
+oferecem transcendência , seja no seu vetor político - não se detecta contrariedade a
+súmula, orientação jurisprudencial ou precedente de observância obrigatória; jurídico -
+não se busca a interpretação de lei nova ou de questão não pacificada; econômico - o
+valor da causa ou da pretensão recursal não se qualificam como elevados para a
+caracterização da transcendência por este vetor; ou social - não se busca a preservação
+de direitos sociais constitucionais supostamente violados de maneira intolerável.
+Diante do exposto, e nos termos dos arts. 896, § 14, e 896-A da CLT, 932, III, IV e V,
+do CPC de 2015 e 251, I, II e III, do Regimento Interno desta Corte Superior, conheço do
+agravo de instrumento e nego-lhe provimento por ausência de transcendência da causa.
+Nas razões do agravo interno, a parte sustenta, em síntese, que faz jus à incorporação da
+gratificação de função percebida entre os anos de 2009 e 2022, em razão de previsão no
+regulamento interno da CEF (RH 151), o qual se incorporou ao contrato de emprego. Aduz que a
+causa possui transcendência e que não demanda reexame de matéria fática, mas tão somente o
+correto enquadramento jurídico dos fatos descritos no acórdão regional.
+Ao exame.
+No caso em tela, a Corte de origem reformou a sentença primeva, que havia deferido à
+agravante o direito à incorporação correspondente ao valor médio das gratificações recebidas,
+inclusive CTVA e porte de unidade, julgando improcedente o pleito de incorporação. Merece
+destaque o seguinte trecho da decisão regional:
+Na espécie, restou incontroverso que a reclamante percebeu função gratificada
+junto à ré desde 09/2009, perdurando até 15/03/2022, ou seja, por mais de dez anos,
+conforme demonstra documentos de fls. 36/38. Entretanto, o início da vigência da Lei
+13.467/17, acima referida, ocorreu antes de a reclamante contabilizar a percepção de
+gratificação de função por 10 (dez) anos.
+A reclamante sustenta adicionalmente que o regulamento interno da CEF prevê a
+incorporação de função gratificada quando exercida por mais de dez anos, e, que
+referida norma aderiu ao contrato de trabalho, não podendo ser revogada
+unilateralmente, como previsto no enunciado 51 da Súmula do TST. Entende, então, que
+a alteração da norma somente se aplica aos empregados admitidos posteriormente.
+De fato, o Manual Normativo RH-151 (MN -RH-151), vigente por ocasião da
+admissão da Reclamante, acerca do adicional de incorporação, assim dispunha :
+"3.3.1 É requisito para a concessão de Adicional de Incorporação:
+-ter sido dispensado de FG/CC/FC, por interesse da Administração conforme
+subitem 3.1.1, a partir de 11/04/2006;
+- ter exercido FG/CC/FC por período maior ou igual a 10 anos imediatamente
+anterior à dispensa" (fl. 62).
+Referida norma interna, no entanto, foi revogada antes mesmo da reclamante
+implementar o requisito objetivo-temporal nela previsto .
+Assim, por vislumbrar possível contrariedade do acordão regional com a jurisprudência desta
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100680EAF5E3FB64C7.
+Corte, reconheço a transcendência política da causa , conforme art. 896-A, §1º, II, da CLT.
+Ante o exposto, dou provimento ao agravo para melhor exame da matéria no agravo de
+instrumento.
+II - AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA
+CONHECIMENTO
+Presentes os pressupostos legais de admissibilidade, conheço do agravo de instrumento.
+MÉRITO
+A Corte de origem negou seguimento ao recurso de revista. Lançou mão, para tanto, dos
+seguintes fundamentos:
+PRESSUPOSTOS EXTRÍNSECOS
+Recurso tempestivo (decisão publicada em 12/07/2023 - Id 16116dd; recurso
+apresentado em 18/07/2023 - Id eb86558).
+Representação processual regular (Id a1caaf5). Isento de preparo (artigos 790-A da
+Consolidação das Leis do Trabalho e 1º, inciso IV, do Decreto-lei 779/1969).
+PRESSUPOSTOS INTRÍNSECOS
+TRANSCENDÊNCIA
+Nos termos do artigo 896-A, § 6º, da Consolidação das Leis do Trabalho, cabe ao
+Tribunal Superior do Trabalho analisar se a causa oferece transcendência em relação aos
+reflexos gerais de natureza econômica, política, social ou jurídica.
+REMUNERAÇÃO, VERBAS INDENIZATÓRIAS E BENEFÍCIOS (2581) / GRATIFICAÇÃO
+(2055) / INCORPORAÇÃO
+Alegação(ões):
+- contrariedade à(ao): item I da Súmula nº 51; Súmula nº 372 do Tribunal Superior
+do Trabalho.
+- violação do(s) incisos LV e XXXVI do artigo 5º; inciso VI do artigo 7º; artigo 93 da
+Constituição Federal.
+- violação da(o) artigo 444 da Consolidação das Leis do Trabalho; §1º do artigo 457
+da Consolidação das Leis do Trabalho; artigo 468 da Consolidação das Leis do Trabalho;
+artigo 818 da Consolidação das Leis do Trabalho; inciso II do artigo 373 do Código de
+Processo Civil de 2015.
+- divergência jurisprudencial.
+A Recorrente alega que:
+[¿]
+Deve-se apontar que o acórdão recorrido violou o enunciado 51 da súmula do TST
+e a fim de comprovar tal violação se faz o cotejo analítico: (¿) Como se observa, o
+acórdão afirmou que "Ocorre que a Lei nº 13.467/17 acrescentou ao art. 468, da CLT o
+parágrafo segundo, que assim dispõe: "A alteração de que trata o § 1o deste artigo, com
+ou sem justo motivo, não assegura ao empregado o direito à manutenção do pagamento
+da gratificação correspondente, que não será incorporada, independentemente do
+tempo de exercício da respectiva função".
+A nova redação de referido artigo, expressamente, desobriga o empregador a manter o pagamento de gratificação função, quando o empregado não mais exerce a
+função gratificada/cargo comissionado, inclusive, independente do tempo de exercício",
+o que está em direto confronto com o inciso I do enunciado 51 da Súmula do TST, o qual
+dispõe que "as cláusulas regulamentares, que revoguem ou alterem vantagens deferidas
+anteriormente, só atingirão os trabalhadores admitidos após a revogação ou alteração
+do regulamento"
+O acórdão recorrido violou o artigo 468 da CLT1 , pois admitiu alteração lesiva ao
+admitir que a empregadora suprimisse direito previsto em regulamento de empresa que
+aderiu ao contrato de emprego da recorrente e há prequestionamento explícito:
+(¿)
+Também há interpretação divergente da referida norma com entendimento do
+Tribunal Regional do Trabalho da 11ª Região:
+(¿)
+O acórdão do TRT da 11ª Região afirma que "o regulamento de empresa adere ao
+contrato individual de trabalho, passando a integrar as cláusulas deste, sendo vedada a
+sua supressão unilateral (art. 468, da CLT), ainda que lei posterior autorize o empregador
+a fazê-lo", ao contrário do acórdão recorrido que afirma da validade do benefício
+previsto em regulamento empresarial, apenas, se "o empregado implementar os
+requisitos nelas previstos durante o período de sua vigência". Ou seja, o TRT da 11ª
+Região entende que as normas do regulamento aderem ao contrato de emprego,
+enquanto o TRT da 7ª Região só as garante em hipótese de ato jurídico perfeito,
+afastando quando todos os requisitos não estão preenchidos durante a vigência do
+regulamento. Quanto a interpretação diversa daquela dada por Turma do TST,
+novamente, socorre-se do cotejo analítico:
+(¿)
+Expõe a Recorrente, outrossim, que:
+(...)
+Postula a Recorrente ao final:
+[¿]
+Requer a demandante que seja dado provimento ao presente recurso, a fim de
+reformar o acórdão e garantir a incorporação das gratificações em conformidade com o
+que foi solicitado na inicial.
+[¿]
+Fundamentos do acórdão recorrido:
+[¿]
+ADICIONAL DE INCORPORAÇÃO CARGO COMISSIONADO, GRATIFICAÇÃO CTVA.
+A principal matéria versada nos autos diz respeito à incorporação da gratificação
+pelo exercício do cargo comissionado, bem como da gratificação CTVA e de PORTE.
+In casu, não se considera alteração unilateral a determinação do empregador para
+que o empregado reverta ao cargo efetivo anteriormente ocupado, deixando o exercício
+de função de confiança.
+Quer isto dizer que, mesmo após vários anos ocupando função gratificada, pode o
+empregador destituir o empregado, sem que isso se consubstancie uma alteração
+unilateral, porque se considera que tal determinação está inserta no poder de gerência
+da empresa, no direito potestativo do patrão.
+Contudo, com esteio no princípio do equilíbrio financeiro, e a fim de que o
+empregado revertido ao cargo efetivo não passasse a amargar declínio em sua
+economia e consequente qualidade de vida, a jurisprudência foi se firmando no sentido
+de que, percebida a gratificação de função por dez ou mais anos, se o empregador, sem
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100680EAF5E3FB64C7.
+justo motivo, o reverter a seu cargo efetivo, não poderia retirar-lhe a gratificação
+(entendimento cristalizado na Súmula nº372, TST). Ocorre que a Lei nº 13.467/17
+acrescentou ao art. 468, da CLT o parágrafo segundo, que assim dispõe: "A alteração de
+que trata o § 1o deste artigo, com ou sem justo motivo, não assegura ao empregado o
+direito à manutenção do pagamento da gratificação correspondente, que não será
+incorporada, independentemente do tempo de exercício da respectiva função". A nova
+redação de referido artigo, expressamente, desobriga o empregador a manter o
+pagamento de gratificação função, quando o empregado não mais exerce a função
+gratificada/cargo comissionado, inclusive, independente do tempo de exercício.
+Na espécie, restou incontroverso que a reclamante percebeu função gratificada
+junto à ré desde 09/2009, perdurando até 15/03/2022, ou seja, por mais de dez anos,
+conforme demonstra documentos de fls. 36/38. Entretanto, o início da vigência da Lei
+13.467/17, acima referida, ocorreu antes de a reclamante contabilizar a percepção de
+gratificação de função por 10 (dez) anos.
+A reclamante sustenta adicionalmente que o regulamento interno da CEF prevê a
+incorporação de função gratificada quando exercida por mais de dez anos, e, que
+referida norma aderiu ao contrato de trabalho, não podendo ser revogada
+unilateralmente, como previsto no enunciado 51 da Súmula do TST. Entende, então, que
+a alteração da norma somente se aplica aos empregados admitidos posteriormente.
+De fato, o Manual Normativo RH-151 (MN RH-151), vigente por ocasião da
+admissão da Reclamante, acerca do adicional de incorporação, assim dispunha: "3.3.1 É
+requisito para a concessão de Adicional de Incorporação:-ter sido dispensado de
+FG/CC/FC, por interesse da Administração conforme subitem 3.1.1, a partir de 11
+/04/2006;- ter exercido FG/CC/FC por período maior ou igual a 10 anos imediatamente
+anterior à dispensa" (fl. 62).
+Referida norma interna, no entanto, foi revogada antes mesmo da reclamante
+implementar o requisito objetivo-temporal nela previsto. O cerne da questão repousa,
+então, em saber se a norma interna aderiu ao contrato de trabalho do empregado,
+aplicando-se as alterações somente aos trabalhadores admitidos posteriormente.
+Neste aspecto, afirma a demandada que: "A sentença a quo considerou que o
+normativo RH 151 gerou um direito aos empregados, importante ressaltar que não se
+trata de direito adquirido por todo e qualquer empregado admitido no curso de sua
+vigência. Uma vez que o empregado perdeu a função em 30 de junho de 2022, mais de
+um cinco anos após a entrada em vigor da Lei nº 13.467/2017, não há que se falar em
+direito à incorporação, pois o reclamante foi admitido na empresa em 13/09/2010, não
+possuindo ainda tempo de exercício de função, qual seja, 10 anos, quando da vigência da
+" (fl. 975).
+Sobre o tema, o Tribunal Superior do Trabalho já decidiu:
+"(...) RECURSO DE REVISTA. VIGÊNCIA DA LEI Nº 13.467/17. GRATIFICAÇÃO DE
+FUNÇÃO PREVISTA EM NORMA INTERNA REVOGADA ANTES DA IMPLEMENTAÇÃO DO
+REQUISITO OBJETIVO-TEMPORAL (5 ANOS NA FUNÇÃO). INEXISTÊNCIA DE DIREITO
+ADQUIRIDO. 1. O Tribunal Regional registrou que "o autor exerceu o cargo de confiança
+de no período de 11/8/2011 a 10/7/2019". Asseverou que "a reclamada em seus
+normativos, Resolução nº 010/2010 e Resolução nº 006/2013, assegura ao empregado o
+direito de incorporação da gratificação quando tiver permanecido por mais de 5 anos na
+função, escalonando o percentual de incorporação de acordo com o tempo de
+permanência". Destacou, no entanto, que "a Resolução acima transcrita foi revogada em
+julho de 2013 pela Resolução n.º 06 /2013 (fl. 131), a qual foi revogada em fevereiro de
+2015 pela Resolução nº 006/2015 (fl. 135)". 2. Invocando a integração do regramento
+previsto na Resolução ao contrato de trabalho do autor, firmou entendimento no
+sentido de que "a Resolução n.º 006/2015 não possui o condão de afastar o direito do
+reclamante à incorporação da gratificação de função, tendo em vista que a Resolução nº
+010 /2010 incorporou-se ao seu contrato de trabalho". 3. A reversão ao cargo efetivo
+configura alteração lícita do contrato de trabalho, não assegurando ao Assinado
+eletronicamente. empregado o direito à manutenção do pagamento da gratificação
+correspondente, ressalvadas as hipóteses em que há previsão expressa do direito à
+incorporação em lei, cláusula coletiva ou norma interna e o empregado implemente os
+requisitos previstos durante o período de sua vigência. 4. Em tal contexto, não há falar
+em direito adquirido, mas em mera expectativa que não se consumou. Recurso de
+revista conhecido e provido.(TST RR-1746-54.2019.5.10.0802, 1ª Turma, Ministro Relator
+Amaury Rodrigues Pinto Junior, data do julgamento: 19.10.22).
+RECURSO DE REVISTA. VIGÊNCIA DA LEI Nº 13.467/17. GRATIFICAÇÃO DE FUNÇÃO
+PREVISTA EM NORMA INTERNA REVOGADA ANTES DA IMPLEMENTAÇÃO DO REQUISITO
+OBJETIVO TEMPORAL (10 ANOS NA FUNÇÃO). INEXISTÊNCIA DE DIREITO ADQUIRIDO. 1. O
+Tribunal Regional registrou "a ITF (INCORPORAÇÃO POR TEMPO DE FUNÇÃO) foi
+instituída no âmbito da reclamada em 2012, como 'mecanismo de incorporação
+administrativa de função concedida aos empregados que forem dispensados do
+exercício de função após um período igual ou superior a 10 anos, de função.' (Manual de
+Pessoal, Módulo 36, capítulo 1, item 2 - ID 2d8960d)". Destacou, no entanto, que "em
+2014, por decisão do Conselho de Administração da ECT, a ITF foi extinta e,
+consequentemente, revogadas as referidas disposições do Módulo 36 do MANPES". 2.
+Invocando a inalterabilidade contratual lesiva, firmou entendimento no sentido de que
+"a revogação da norma interna dois anos após a sua edição não possui o condão de
+afastar o surgimento do direito ao reclamante", ainda que haja apontado que o requisito
+objetivo temporal previsto na norma interna ocorreu apenas em 2020, ou seja, seis anos
+depois da revogação da norma que instituiu o direito. 3. A reversão ao cargo efetivo
+configura alteração lícita do contrato de trabalho, não assegurando ao empregado o
+direito à manutenção do pagamento da gratificação correspondente, ressalvadas as
+hipóteses em que há previsão expressa do direito à incorporação em lei, cláusula
+coletiva ou norma interna e o empregado implemente os requisitos previstos durante o
+período de sua vigência. 4. Em tal contexto, não há falar em direito adquirido, mas em
+mera expectativa que não se consumou." Recurso de revista conhecido e provido. (TST￾RR-860- 33.2020.5.10.0022, Ministro Relator Amaury Rodrigues Pinto Junior, data do
+julgamento 10.08.22)"
+Do acima exposto, verifica-se que a reversão ao cargo efetivo, por si só, não
+configura alteração ilícita do contrato de trabalho, não fazendo jus o trabalhador à
+incorporação da gratificação correspondente, salvo em caso de previsão em lei, cláusula
+coletiva ou norma interna, se o empregado implementar os requisitos nelas previstos
+durante o período de sua vigência.
+Esta não é, no entanto, a situação dos autos, uma vez que, a demandante era
+portadora de mera expectativa de direito a qual não se consumou pois não atingiu o
+objetivo temporal enquanto vigente a norma interna.
+Destaca-se que o próprio Tribunal Superior firmou entendimento de que as
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100680EAF5E3FB64C7.
+alterações legislativas são de efeito imediato, resguardando apenas as situações já
+constituídas anteriormente.
+"AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA.
+INTERPOSIÇÃO NA VIGÊNCIA DA LEI N.º 13.467/2017. AUSÊNCIA DE TRANSCENDÊNCIA.
+INCORPORAÇÃO DA GRATIFICAÇÃO DE FUNÇÃO EXERCIDA POR MAIS DE DEZ ANOS
+ANTES DA ENTRADA EM VIGOR DA LEI N.º 13.467/2017. ALTERAÇÃO LEGISLATIVA. DIREITO
+ADQUIRIDO. A despeito das razões apresentadas pela parte agravante, deve ser mantida
+a decisão agravada que denegou seguimento ao Agravo de Instrumento. No caso em
+apreço, o Regional, verificando que o reclamante recebeu gratificação de função por mais de dez anos, adotou como razão de decidir a ratio contida no item I da Súmula n.º
+372 desta Corte. Na hipótese, os requisitos para o recebimento do direito postulado
+foram preenchidos em período anterior à vigência da Lei n.º 13.467/17, razão pela qual
+as inovações legislativas não se aplicam ao caso em comento, estando o direito
+incorporado ao patrimônio jurídico do autor. Precedentes da Corte. Agravo conhecido e
+não provido " (Ag-AIRR-945 37.2020.5.10.0016, 1ª Turma, Relator Ministro Luiz Jose
+Dezena da Silva, DEJT 24/10/2022).
+Por todo exposto, merece reforma a decisão monocrática que deferiu os pedidos
+relativos à incorporação correspondente ao valor médio das gratificações recebidas nos
+últimos 5(cinco) anos, inclusive CTVA e porte de unidade, bem como ao pagamento de
+diferenças salariais, vencidas e vincendas, decorrentes da incorporação pretendida, bem
+como de verbas consectárias.
+(...)
+À análise.
+Observa-se que o Colegiado decidiu com amparo nos elementos probatórios
+contidos nos autos. Conclusão diversa da adotada remeteria ao reexame de fatos e
+provas, procedimento vedado pela Súmula 126 do Tribunal Superior do Trabalho . Diante
+da premissa fática delineada no acórdão no sentido de que "o Manual Normativo RH-151
+(MN -RH-151), vigente por ocasião da admissão da Reclamante, acerca do adicional de
+incorporação foi revogada antes mesmo da reclamante .", não se vislumbra possível
+implementar o requisito objetivo-temporal nela previsto violação aos preceitos da
+legislação federal apontados ou à Súmula do TST, impondo-se destacar, no aspecto, que
+a menção de arestos para configuração do dissídio jurisprudencial sobre essa matéria,
+na hipótese, não viabiliza o processamento do recurso.
+Não se constata, in fine , possível ofensa aos dispositivos constitucionais
+apontados pela parte recorrente. Violação, se houvesse, seria meramente reflexa, o que
+é insuficiente para autorizar o seguimento do recurso de revista , de acordo com as
+reiteradas decisões da Subseção 1 Especializada em Dissídios Individuais do Tribunal
+Superior do Trabalho (AIRR - 1000615-14.2015.5.02.0471 , Relatora Ministra: Maria
+Helena Mallmann, Data de Julgamento: 25/10/2017, 2ª Turma, Data de Publicação: DEJT
+27/10/2017, AIRR - 55641-78.2004.5.09.0091, julgado em 24.2.2010, Relatora Ministra Maria de Assis Calsing, 4ª Turma, DEJT de 5.3.2010; RR 17800-25.2006.5.02.0301, julgado
+em 14.10.2009, Relatora Ministra Rosa Maria Weber, 3ª Turma, DEJT de 13.11.2009).
+Inviável, pois, o processamento do recurso de revista.
+CONCLUSÃO
+Denego seguimento.
+A parte agravante sustenta que não requer o reexame de fatos e provas, mas tão somente o
+correto enquadramento jurídico dos fatos que se traduz em análise de matéria de direito. Defende
+que o acórdão recorrido viola frontalmente o enunciado nº 51 do TST, pois este dispõe que " as
+cláusulas regulamentares, que revoguem ou alterem vantagens deferidas anteriormente, só
+atingirão os trabalhadores admitidos após a revogação ou alteração do regulamento ".
+Conforme analisado no julgamento do agravo, constata-se possível contrariedade à
+jurisprudência desta Corte Superior, o que autoriza o seguimento do recurso de revista.
+Assim, dou provimento ao agravo de instrumento para o processamento do recurso de revista.
+III - RECURSO DE REVISTA
+CONHECIMENTO
+Eis o teor dos trechos do acórdão regional transcritos nas razões do recurso de revista:
+Ocorre que a Lei nº 13.467/17 acrescentou ao art. 468, da CLT o parágrafo
+segundo, que assim dispõe: "A alteração de que trata o § 1o deste artigo, com ou sem
+justo motivo, não assegura ao empregado o direito à manutenção do pagamento da
+gratificação correspondente, que não será incorporada, independentemente do tempo
+de exercício da respectiva função".
+A nova redação de referido artigo, expressamente, desobriga o empregador a manter o pagamento de gratificação função, quando o empregado não mais exerce a
+função gratificada/cargo comissionado, inclusive, independente do tempo de exercício .
+(...)
+A reclamante sustenta adicionalmente que o regulamento interno da CEF prevê a
+incorporação de função gratificada quando exercida por mais de dez anos, e, que
+referida norma aderiu ao contrato de trabalho, não podendo ser revogada
+unilateralmente, como previsto no enunciado 51 da Súmula do TST. Entende, então, que
+a alteração da norma somente se aplica aos empregados admitidos posteriormente.
+De fato, o Manual Normativo RH-151 (MN -RH-151), vigente por ocasião da
+admissão da Reclamante, acerca do adicional de incorporação, assim dispunha :
+"3.3.1 É requisito para a concessão de Adicional de Incorporação: -ter sido
+dispensado de FG/CC/FC, por interesse da Administração conforme subitem 3.1.1, a
+partir de 11/04/2006; - ter exercido FG/CC/FC por período maior ou igual a 10 anos
+imediatamente anterior à dispensa" (fl. 62).
+Referida norma interna, no entanto, foi revogada antes mesmo da reclamante
+implementar o requisito objetivo temporal nela previsto .
+(...)
+Por todo exposto, merece reforma a decisão monocrática que deferiu os pedidos
+relativos à incorporação correspondente ao valor médio das gratificações recebidas nos
+últimos 5 (cinco) anos, inclusive CTVA e porte de unidade, bem como ao pagamento de
+diferenças salariais, vencidas e vincendas, decorrentes da incorporação pretendida, bem
+como de verbas consectárias.
+Como se verifica, a Corte de origem reformou a sentença primeva, que havia deferido à
+agravante o direito à incorporação correspondente ao valor médio das gratificações recebidas,
+inclusive CTVA e porte de unidade, julgando improcedente o pleito de incorporação, por entender
+que a norma interna da CEF (RH 151) foi revogada antes da implementação do requisito objetivo￾Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100680EAF5E3FB64C7.
+temporal pela parte reclamante, a qual se deu somente após a vigência do art. 468, §2º, da CLT.
+A parte recorrente sustenta, por outro lado, que a alteração da norma interna somente se
+aplica aos empregados admitidos posteriormente a sua revogação. Aduz que " o acórdão recorrido
+violou o artigo 468 da CLT, pois admitiu alteração lesiva ao admitir que a empregadora suprimisse
+direito previsto em regulamento de empresa que aderiu ao contrato de emprego da recorrente " e
+que " viola frontalmente o enunciado nº 51 do TST, pois este dispõe que "as cláusulas
+regulamentares, que revoguem ou alterem vantagens deferidas anteriormente, só atingirão os
+trabalhadores admitidos após a revogação ou alteração do regulamento" ".
+A matéria discutida diz respeito ao direito à incorporação da gratificação de função percebida
+por mais de dez anos, fundado no normativo interno RH 151 da Caixa Econômica Federal, frente às
+alterações introduzidas pela Lei nº 13.467/2017, notadamente no art. 468, §2º, da CLT.
+Observa-se que a causa oferece transcendência política , nos termos do art. 896-A, §1º, II, pois
+o Tribunal Regional decidiu de maneira contrária à jurisprudência sumulada desta Corte Superior.
+Sobre o tema, prevalece nesta Corte Superior o entendimento segundo o qual o direito à
+incorporação da gratificação de função percebida por mais de dez anos, fundado no normativo
+interno RH 151 da Caixa Econômica Federal, se incorporou ao contrato de trabalho do empregado
+admitido durante sua vigência, nos termos da Súmula nº 51, I, do TST, de modo que as alterações
+introduzidas pela Lei nº 13.467/2017 não autorizam a supressão da vantagem prevista , sob pena de
+se caracterizar alteração contratual lesiva.
+Nesse sentido, colhem-se os seguintes precedentes:
+AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. ACÓRDÃO PUBLICADO NA
+VIGÊNCIA DA LEI Nº 13.467/2017. 1. GRATIFICAÇÃO DE FUNÇÃO. INCORPORAÇÃO.
+SÚMULA Nº 372, I, DO TST. CAIXA ECONÔMICA FEDERAL. ITEM 3.3.1 DO NORMATIVO
+INTERNO RH 151. REGULAMENTAÇÃO DA INCORPORAÇÃO. REQUISITO TEMPORAL DE 10
+ANOS. CONTAGEM APÓS O DIA 11/11/2017. DISTINÇÃO ( DISTINGUISHING ).
+INTEGRAÇÃO DA RH 151 AO CONTRATO DE TRABALHO. ART. 468, CAPUT, DA CLT E
+SÚMULA Nº 51, I, DO TST. TRANSCENDÊNCIA POLÍTICA RECONHECIDA. I . A questão
+controvertida oferece transcendência política por tangenciar a Súmula nº 372, I, do TST,
+atualmente cancelada pela Resolução nº 225/2025 (com eficácia a partir de 2/7/2025). Em
+observância à teoria do isolamento dos atos processuais, o referido verbete rege a
+admissibilidade do recurso de revista, considerando que este foi interposto quase dois
+anos antes de seu cancelamento. No entanto, em relação ao direito material, conforme
+expressamente consignado na Resolução nº 225, a Súmula nº 372, I, teve sua
+aplicabilidade extinta a partir de 11/11/2017, data de início da vigência da Lei nº
+13.467/2017, que, ao inserir o § 2º ao art. 468 da CLT, vedou a incorporação. II. A Caixa
+Econômica Federal, em novembro de 2011, editou o Normativo Interno RH 151, que
+regulamentou a incorporação prevista na Súmula nº 372, I, do TST. Esta Corte Superior,
+ao examinar a matéria em múltiplos recursos, consolidou o entendimento de que a
+parte reclamante contratada antes da revogação do RH 151 tem direito ao adicional de
+incorporação, se demonstrado o exercício de função de confiança por pelo menos dez
+anos no período imediatamente anterior à dispensa (Item 3.3.1 do RH 151), admitindo-se
+o cômputo do referido período mesmo após a vigência da Lei nº 13.467/2017. Isso
+porque, nos termos do art. 468 da CLT e à luz da Súmula nº 51, I, do TST, a norma interna
+benéfica da incorporação passou a integrar o contrato de trabalho da parte reclamante,
+para todos os efeitos . III . No caso destes autos, considerando: a) o registro de que " a
+RH 151, datada de 3 de novembro de 2011, [...] já havia se integrado ao contrato de
+trabalho da reclamante "; (b) que a " soma dos dias de exercício de função comissionada
+resulta em 4.037 dias, sendo 1.244 de efetivo exercício de funções comissionadas e
+2.793 dias de recebimento da parcela CTC ", e que c) " a própria norma da reclamada
+garante à CTC natureza de gratificação de função ", conclui-se que o Tribunal Regional,
+ao condenar a parte reclamada ao pagamento de diferenças salariais a título de
+gratificação de função, proferiu acórdão em conformidade com a atual, notória e
+iterativa jurisprudência desta Corte Superior (art. 896, § 7º, da CLT e Súmula nº 333 do
+TST). Decisão agravada que se mantém, por fundamento diverso. IV . Agravo de
+instrumento a que se nega provimento. 2. (...). (AIRR-0000791-93.2022.5.10.0001, 7ª
+Turma , Relator Ministro Evandro Pereira Valadao Lopes, DEJT 11/12/2025).
+AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA DA PARTE RÉ. LEI Nº
+13.467/2017. ADICIONAL DE INCORPORAÇÃO. NORMA INTERNA. BASE DE CÁLCULO.
+AUSÊNCIA DE COMPROVAÇÃO DO EFETIVO PREQUESTIONAMENTO. REQUISITO PREVISTO
+NO ARTIGO 896, § 1º-A, I, DA CLT. TRANSCENDÊNCIA NÃO EXAMINADA. Em sede de
+recurso de revista, a parte deve, obrigatoriamente, transcrever, ou destacar
+(sublinhar/negritar), o ponto específico da discussão, contendo as principais premissas
+fáticas e jurídicas contidas no acórdão regional acerca do tema por ela invocado, o que
+não ocorreu no apelo. Agravo de instrumento conhecido e não provido. NEGATIVA DE
+PRESTAÇÃO JURISDICIONAL. DECISÃO COMPLETA, VÁLIDA E DEVIDAMENTE
+FUNDAMENTADA. PRETENSÃO DE REGISTRO FÁTICO IRRELEVANTE PARA O DESLINDE DA
+CONTROVÉRSIA E DE EXPRESSO PRONUNCIAMENTO ACERCA DE TESE JURÍDICA.
+PREQUESTIONAMENTO FICTO. SÚMULA Nº 297, III, DO TST. AUSÊNCIA DE
+TRANSCENDÊNCIA. Não se constata a transcendência da causa, no aspecto econômico,
+político, jurídico ou social. Agravo de instrumento conhecido e não provido, por ausência
+de transcendência da causa. RECURSO DE REVISTA DA PARTE RÉ. LEI Nº 13.467/2017.
+INCORPORAÇÃO DE GRATIFICAÇÃO FUNÇÃO. CARGO DE CONFIANÇA EXERCIDO POR 10
+ANOS OU MAIS. CONDIÇÃO IMPLEMENTADA APÓS A VIGÊNCIA DA LEI Nº 13.467/17.
+DIREITO PREVISTO EM NORMA INTERNA. RH-151. ARTIGO 468, CAPUT, DA CLT E SÚMULA
+Nº 51, I, DO TST. DISTINGUISHING. TRANSCENDÊNCIA JURÍDICA RECONHECIDA . A
+jurisprudência desta Corte se firmou no sentido de que o empregado que implementou o
+requisito da percepção da gratificação de função por 10 anos ou mais antes da vigência
+do artigo 468, § 2º, da CLT, introduzido pela Lei nº 13.467/17, faz jus à incorporação da
+gratificação na forma preconizada pela Súmula nº 372, I, do TST, em face da garantia
+constitucional da irretroatividade da Lei (artigo 5º, XXVI, da Constituição Federal),
+assecuratória do direito adquirido. No presente caso, é incontroverso que o autor, ao
+tempo da entrada em vigor da Lei nº 13.467/17, não havia implementado o requisito
+temporal previsto na Súmula nº 372, I, desta Corte, ou seja, ainda não tinha acumulado
+10 anos ou mais de percepção de gratificação de função. Contudo, o caso possui
+peculiaridade que o distingue dos demais analisados por esta Corte, na medida em que,
+consoante o acórdão proferido pelo Tribunal Regional, o direito vindicado também está
+previsto em norma interna da reclamada, vigente no momento da contratação. Com
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100680EAF5E3FB64C7.
+efeito, constou que, por meio do normativo interno "RH-151", a ré assegurou a
+percepção do "Adicional de Incorporação" a todos os empregados que viessem a ser
+dispensados de cargo em comissão, sem justo motivo, e que o tivessem exercido por
+período maior ou igual a 10 anos . De acordo com o artigo 468, caput, da CLT, "nos
+contratos individuais de trabalho só é lícita a alteração das respectivas condições por mútuo consentimento, e ainda assim desde que não resultem, direta ou indiretamente,
+prejuízos ao empregado, sob pena de nulidade da cláusula infringente desta garantia".
+Nos termos da Súmula nº 51, I, do TST, "as cláusulas regulamentares, que revoguem ou
+alterem vantagens deferidas anteriormente, só atingirão os trabalhadores admitidos
+após a revogação ou alteração do regulamento". Nesse contexto, o direito à
+incorporação da gratificação de função, no caso concreto, advém de previsão em norma
+regulamentar, cujas disposições se incorporaram ao contrato de trabalho do autor, de modo que a introdução do artigo 468, § 2º, da CLT pela Lei nº 13.467/17 não tem o
+condão de afastá-la, sob pena de se caracterizar alteração contratual lesiva . Ressalte-se
+que a revogação posterior da aludida norma somente teria efeito para os empregados
+admitidos posteriormente a ela, nos termos do mencionado item I da Súmula nº 51 desta
+Corte Superior (Princípio da Condição Mais Benéfica). Decisão regional que se mantém.
+Recurso de revista não conhecido. (RRAg-0000551-05.2020.5.19.0008, 7ª Turma , Relator Ministro Claudio Mascarenhas Brandao, DEJT 07/10/2024).
+RECURSO DE REVISTA INTERPOSTO PELA PARTE AUTORA. VIGÊNCIA DA LEI N.º
+13.467/17. INCORPORAÇÃO DE GRATIFICAÇÃO DE FUNÇÃO PERCEBIDA POR PERÍODO
+SUPERIOR A DEZ ANOS. DIREITO PREVISTO EM NORMA EMPRESARIAL INTERNA DA CEF.
+ALTERAÇÃO CONTRATUAL LESIVA. IMPOSSIBILIDADE. SÚMULA N.º 51, I, DO TST.
+TRANSCENDÊNCIA JURÍDICA RECONHECIDA. 1. Prevalece nesta Corte Superior o
+entendimento segundo o qual, nas hipóteses em que o empregado houver
+implementado o requisito alusivo à percepção da gratificação de função por dez anos ou mais antes da entrada em vigor da Lei n.º 13.467/17, subsiste aplicável o entendimento
+fixado na Súmula n.º 372, I, do TST, considerando que a lei nova não pode alcançar
+situações que se consolidaram à luz da legislação anterior onde inexistia o preceito que
+afasta a possibilidade de incorporação da gratificação. 2. No entanto, caso a condição
+temporal ocorra em data posterior à entrada em vigor da Lei n.º 13.467/17, ainda que
+relativo a contrato de trabalho iniciado em momento anterior ao vigor da supracitada
+lei, em atenção ao disposto nos arts. 6º da LINDB e 912 da CLT, não resta assegurada a manutenção do pagamento da gratificação, ante a supressão do direito com o advento
+da nova lei, não havendo falar, assim, em ato jurídico perfeito, tampouco em direito
+adquirido. 3. Todavia, a hipótese dos autos apresenta uma distinção relevante, uma vez
+que o direito pleiteado pela parte autora encontra-se assegurado em norma
+regulamentar da demandada, vigente à época da admissão da demandante, o qual prevê
+a incorporação do adicional de gratificação após o exercício por 10 (dez) anos ou mais da
+função comissionada. 4. Nesse diapasão, nos termos do art. 468 da CLT e do
+entendimento consubstanciado na Súmula n.º 51, I, do TST, as alterações promovidas
+pela Lei n.º 13.467/17 não têm o condão de atingir o direito à incorporação de função
+previsto em norma empresarial, que já aderiu ao contrato de trabalho da parte autora,
+não podendo mais ser alterado ou suprimido unilateralmente pelo empregador, sob
+pena de restar caracterizada a alteração contratual lesiva e ofensa ao direito adquirido
+(art. 5º, XXXVI, da Constituição Federal). Recurso de revista conhecido e provido. (RR￾0001050-48.2022.5.07.0009, 1ª Turma , Relator Ministro Amaury Rodrigues Pinto Junior,
+DEJT 10/09/2024).
+EMBARGOS DE DECLARAÇÃO. RECURSO DE REVISTA INTERPOSTO NA VIGÊNCIA DA
+LEI INCORPORAÇÃO DE FUNÇÃO. PREVISÃO EM REGULAMENTO INTERNO OMISSÃO
+CONFIGURADA. 1 - O acórdão embargado registrou a premissa de que o reclamante
+havia completado o período de dez anos de percepção da gratificação de função antes
+da vigência da Lei 13.467/17, tal premissa constava no acórdão do Tribunal Regional em
+recurso ordinário. 2 - Ocorre que a Corte local, no acórdão em embargos de declaração,
+esclareceu que o reclamante exerceu mais de 10 anos de função de confiança, mas que
+na época da vigência da Lei 13.467/2017, ainda não havia completado o requisito
+temporal. 3 - Contudo, o Tribunal de origem consignou que a reclamada no Manual
+Normativo RH 151, instituiu a partir de 11/04/2006, o pagamento de parcela de natureza
+salarial, denominada de "adicional de incorporação", aos empregados dispensados de
+função de gratificação, por interesse da Administração, nos casos em que o exercício do
+cargo de especial fidúcia tivesse se dado por período maior ou igual a dez anos,
+imediatamente anterior à dispensa". O Tribunal Regional ainda sinalizou que a
+vantagem prevista no referido manual normativo da reclamada aderiu ao contrato de
+trabalho do autor, o que atrai a aplicação da Súmula n 51, I, do TST, que dispõe "as
+cláusulas regulamentares, que revoguem ou alterem vantagens deferidas
+anteriormente, só atingirão os trabalhadores admitidos após a revogação ou alteração
+do regulamento". 4 - Vale consignar, que o Tribunal Regional destacou que a dispensa do
+reclamante da função de confiança ocorreu sem justo motivo, já que a alegação de
+"baixo desempenho" não encontrou respaldo probatório nos autos, tendo sido
+ressaltado a prática discriminatória da empregadora frente às limitações do autor,
+portador de deficiência auditiva. 5 - Nesse passo, o reclamante não faz jus à
+incorporação da gratificação com fundamento na Súmula 372, I, do TST, todavia, o
+reclamante faz jus à incorporação da gratificação à luz da Súmula 51, I, do TST e do art.
+468, caput, da CLT, pois há previsão normativa garante a incorporação pretendida pela
+parte, conquanto o autor tenha completado o requisito temporal depois da vigência da
+Lei 13.467/2017. Julgados. 6 - Nesse contexto, forçoso reconhecer que as inovações
+promovidas pela Lei13.467/2017 não têm o condão de obstar o direito à incorporação de
+função, previsto em norma empresarial que aderiu ao contrato de trabalho do
+reclamante (art. 5º, XXXVI, da Constituição Federal). Embargos de declaração conhecidos
+e providos, com efeito modificativo. (AIRR-0010567-44.2022.5.15.0142, 2ª Turma ,
+Relatora Ministra Delaide Alves Miranda Arantes, DEJT 02/10/2025).
+AGRAVO. AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA . LEIS NOS 13.015/2014
+E 13.467/2017. ADICIONAL DE INCORPORAÇÃO. DIREITO PREVISTO EM NORMA
+EMPRESARIAL INTERNA DA CEF (RH 151). INCORPORAÇÃO AO CONTRATO DE TRABALHO.
+IMPOSSIBILIDADE DE ALTERAÇÃO CONTRATUAL LESIVA. SÚMULA 51, I, DO TST. 1. É firme
+a jurisprudência desta Corte no sentido de que a alteração e/ou revogação unilateral do
+conteúdo de norma interna empresarial apenas atingirão os contratos de trabalho
+firmados posteriormente às mudanças. É o que preveem o art. 468, caput, da CLT e a
+Súmula 51, I, do TST. 2. No caso dos autos, a norma disposta no Regulamento Interno da
+Reclamada - RH 151 - prevê a incorporação da função gratificada exercida por tempo
+igual ou superior a dez anos. Esta norma estava vigente à época da contratação da parte
+reclamante. 3. Nesse contexto, as alterações promovidas pela Lei nº 13.467/2017, em
+especial, a nova redação do art. 468, §2º, da CLT, não autorizam a supressão de
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100680EAF5E3FB64C7.
+vantagem prevista em norma regulamentar, haja vista que o direito ali fixado à
+incorporação da gratificação de função percebida por mais de 10 anos aderiu ao
+contrato de trabalho da parte trabalhadora, por força do que dispõem a Súmula 51, I, do
+TST c/c art. 468, caput, da CLT e art. 5º, XXXVI, da CRFB/88 . 4. Noutro passo, convém
+salientar que o caso em análise não é a hipótese de revogação de vantagem por
+alteração da norma legal, que, conforme o entendimento firmado pelo Tribunal Pleno no
+julgamento do Tema 23 da Tabela de Incidentes de Recursos de Revista Repetitivos,
+atinge os contratos em curso. Agravo de que se conhece e a que se nega provimento.
+(AIRR-0010617-98.2022.5.03.0079, 3ª Turma , Relator Ministro Alberto Bastos Balazeiro,
+DEJT 14/10/2025).
+I - AGRAVO EM AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. ACÓRDÃO
+REGIONAL PUBLICADO NA VIGÊNCIA DA LEI Nº 13.467/2017. 1. NULIDADE. NEGATIVA DE
+PRESTAÇÃO JURISDICIONAL. TRANSCENDÊNCIA NÃO RECONHECIDA. 1.1. Dos
+fundamentos consignados nos acórdãos regionais, emerge manifestação devidamente
+fundamentada acerca das questões postas nas razões recursais, ainda que de forma
+contrária aos interesses da parte.1.2. Nesse sentido, ao rejeitar os embargos de
+declaração opostos pelo reclamante, o Tribunal Regional destacou que a ação coletiva
+cuja manifestação pretendia a parte não foi indicada de forma expressa na petição
+inicial , pelo que não configurada a omissão suscitada. 1.3. Portanto, constata-se que a menção acerca da ação coletiva 0001646-12.2017.5.10.0013 apenas veio a ocorrer com a
+oposição dos embargos de declaração, de forma que, eventual omissão, não poderia ser
+imputada ao Tribunal Regional, que decidiu a lide nos limites em que proposta, tendo
+refutado todos os argumentos capazes de infirmar a conclusão adotada. 1.4. Assim, o
+fato de o reclamante genericamente mencionar um suposto número de ações coletivas
+sobre a matéria não o legitima a, posteriormente, suscitar a nulidade do acórdão em
+razão da ausência de manifestação acerca da liminar concedida em autos distintos
+daqueles expressamente indicados na exordial, uma vez que, desde o ajuizamento da
+ação, a parte autora já tinha conhecimento da existência das ações coletivas, porém
+optou por apenas invocar uma delas. 1.5. Dessa forma, inexiste qualquer nulidade a ser
+declarada, mantendo-se incólume a decisão monocrática que não reconheceu a
+transcendência da causa. Agravo conhecido e desprovido. 2. ADICIONAL
+DEINCORPORAÇÃO. DIREITO PREVISTO EM REGULAMENTO INTERNO (RH 151).
+GRATIFICAÇÃO DE FUNÇÃO RECEBIDA POR MAIS DE DEZ ANOS. Afasta-se o óbice
+indicado na decisão monocrática e remete-se o agravo de instrumento para apreciação
+do Colegiado. Agravo conhecido e provido. II - AGRAVO DE INSTRUMENTO EM RECURSO
+DE REVISTA. ADICIONAL DEINCORPORAÇÃO. DIREITO PREVISTO EM REGULAMENTO
+INTERNO (RH 151). GRATIFICAÇÃO DE FUNÇÃO RECEBIDA POR MAIS DE DEZ ANOS.
+Constatada possível contrariedade à Súmula 51, I do TST, determina-se o processamento
+do recurso de revista. Agravo de instrumento conhecido e provido. III - RECURSO DE
+REVISTA. ADICIONAL DEINCORPORAÇÃO. DIREITO PREVISTO EM REGULAMENTO
+INTERNO (RH 151). GRATIFICAÇÃO DE FUNÇÃO RECEBIDA POR MAIS DE DEZ ANOS. 1.
+Trata-se de controvérsia acerca da aplicabilidade dos requisitos estabelecidos para o
+adicional deincorporaçãoprevistos na normaRH 151aos empregados da Caixa Econômica
+Federal contratados antes de sua revogação, mesmo após a inclusão do § 2º ao art. 468
+da CLT, pela Lei 13.467/2017. 2. A SBDI-1 desta Corte Superior, ao julgar o E-RR - 1744-
+41.2017.5.12.0045, em 24/03/2022, fixou entendimento no sentido de que o § 2º do art.
+468 da CLT, incluído pela Lei nº 13.467/2017, que afasta o direito àincorporaçãoda
+gratificação de função, não se aplica aos casos em que o exercício da função gratificada
+por mais de 10 anos já havia sido implementado antes de 11/11/2017, não podendo
+retroagir para alcançar situação pretérita já consolidada sob a égide da lei antiga, sob
+pena de ofensa ao direito adquirido. 3. Na hipótese, o acórdão regional consignou que o
+reclamante não desempenhou cargos comissionados pelo período mínimo de dez anos,
+ainda que de forma descontínua, até 10.11.2017. Por outro lado, emerge da decisão
+regional que, consideradas as funções exercidas até 7.10.2018, após a vigência da Lei
+13.467/2017, o reclamante alcançaria o tempo de dez anos de exercício da função
+comissionada exigidos pela normaRH 151, premissa fática inalterável à luz da Súmula
+126 do TST. 4. A tese defendida pelo reclamante é a de que o direito ao adicional
+deincorporaçãode função lhe seria garantido por força do regulamento interno da
+reclamada,RH 151, cuja revogação apenas atingiria os trabalhadores contratados a partir
+de então, consoante diretriz prevista na Súmula nº 51, I do TST. 5. Nesse contexto,
+forçoso reconhecer que as inovações promovidas pela Lei nº 13.467/2017 não têm o
+condão de modificar esse entendimento, visto que o direito àincorporaçãode função,
+previsto em norma empresarial , aderiu ao contrato de trabalho do reclamante, não
+podendo mais ser alterado ou suprimido unilateralmente pelo empregador, salvo por
+condição mais favorável, sob pena de alteração contratual lesiva e ofensa ao direito
+adquirido (art. 5º, XXXVI, da Constituição Federal). Precedente desta 5ª Turma acerca de
+situação idêntica. Recurso de revista conhecido e provido. (RRAg-24591-
+19.2018.5.24.0061, 5ª Turma , Relatora Ministra Morgana de Almeida Richa, DEJT
+18/10/2024).
+I - AGRAVO INTERNO. RECURSO DE REVISTA. DECISÃO
+MONOCRÁTICA.INCORPORAÇÃO. GRATIFICAÇÃO DE FUNÇÃO. PREVISÃO EM
+REGULAMENTO INTERNO. A decisão monocrática proferida nestes autos merece ser
+revista. Constatada possível contrariedade ao item I da Súmula 51 do TST. Agravo interno
+de que se conhece e a que se dá provimento. II - RECURSO DE REVISTA. DECISÃO
+MONOCRÁTICA.INCORPORAÇÃO. GRATIFICAÇÃO DE FUNÇÃO. PREVISÃO EM
+REGULAMENTO INTERNO. No presente caso, é incontroverso que, ao tempo da entrada
+em vigor da referida Lei, a reclamante não tinha acumulado 10 anos de percepção de
+gratificação de função. A jurisprudência desta Corte se firmou no sentido de que
+somente o empregado que implementou o requisito temporal da percepção da
+gratificação defunção por 10 anos antes da vigência do § 2º, art. 468 da CLT, introduzido
+pela Lei nº 13.467/17, faz jus àincorporaçãoda gratificaçãona forma preconizada pela
+Súmula nº 372, I, do TST. Entretanto, a presente hipótese apresenta a particularidade de
+que o direito vindicado também está previsto em norma interna da reclamada (MNRH
+151) , vigente no momento da contratação. Tal peculiaridade impõe que o exame da
+controvérsia ocorra à luz do direito adquirido contratual (artigo 468, caput , da CLT e
+Súmula 51, I, do TST) e não dos efeitos da alteração legislativa (Súmula 372 do TST).
+Recurso de revista de que se conhece e a que se dá provimento" (Ag-RR-175-
+06.2022.5.21.0004, 8ª Turma , Relator Ministro Sergio Pinto Martins, DEJT 13/05/2025).
+AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA - REGÊNCIA PELA LEI Nº
+13.467/2017 - RITO SUMARÍSSIMO - CAIXA ECONÔMICA FEDERAL (CEF). GRATIFICAÇÃO DE
+FUNÇÃO.INCORPORAÇÃO. PREVISÃO EM NORMA INTERNA (MNRH151). REVOGAÇÃO.
+EFEITOS. TRANSCENDÊNCIA POLÍTICA . Constatada possível contrariedade ao item I da
+Súmula 51 do TST, dá-se provimento ao agravo de instrumento para determinar o
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100680EAF5E3FB64C7.
+processamento do recurso de revista . Agravo de instrumento a que se dá provimento. II
+- RECURSO DE REVISTA - REGÊNCIA PELA LEI Nº 13.467 /2017 - NULIDADE DO ACÓRDÃO
+REGIONAL POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. Com fundamento no § 2º do
+artigo 282 do CPC e em observância ao princípio da economia processual, deixa-se de
+analisar a preliminar arguida pela recorrente. GRATIFICAÇÃO DE
+FUNÇÃO.INCORPORAÇÃO. PREVISÃO EM NORMA INTERNA (MNRH 151). REVOGAÇÃO.
+EFEITOS. TRANSCENDÊNCIA POLÍTICA. 1. A revogação do MNRH 151, que instituiu e
+regulamentou o direito ao adicional deincorporação, não alcança os empregados
+admitidos anteriormente. Estrita subsunção da hipótese aos termos do item I da Súmula
+51 do TST. 2. Inexigível a implementação do requisito temporal de 10 (dez) anos antes da
+revogação, pois referido verbete sumular não versa sobre o direito adquirido no âmbito
+concreto - para o qual se pressuporia o transcurso do prazo fixado -, mas sob o ponto de
+vista " contratual ". O que se proclama é a impossibilidade de que inovações
+regulamentares revoguem ou alterem cláusulas benéficas, previstas abstratamente em
+norma regulamentar aplicável aos contratos de trabalho em vigor. Enuncia-se, assim, a
+ultratividade dessas cláusulas frente a alterações prejudiciais, independentemente da
+implementação das condições necessárias à aquisição do direito. 3. Inaplicabilidade da
+jurisprudência firmada por esta Corte em relação aos critérios para incidência da
+Súmula 372 deste Tribunal ante a superveniência da Reforma Trabalhista, visto não
+abranger a controvérsia em torno do direito adquirido contratual (artigo 468, caput , da
+CLT e Súmula 51, I, do TST), mas apenas as consequências da alteração legislativa. 4.
+Inaplicabilidade, também, do entendimento firmado pela Subseção I Especializada em
+Dissídios Individuais em casos que envolvam o pedido de "Progressão Especial" prevista
+na Informação Padronizada nº 320/DARH/2004 editada pela Infraero - nos quais exigido
+o implemento do requisito temporal de 3 (três) anos na função para que os empregados
+fizessem jus àincorporaçãodo percentual de 70,26% sobre o valor da remuneração da
+gratificação até então auferida -, pois ali se tratou de ilegalidade da norma instituidora, a
+qual foi, inicialmente, suspensa, posteriormente revogada - com a convalidação das
+progressões já concedidas - e, finalmente, anulada , juntamente com o ato revogatório.
+O elemento de distinção em relação ao item I da Súmula 51 do TST - ilegalidade da
+norma, que veio a ser anulada - foi muito bem pontuado na fundamentação do acórdão
+referente ao processo TST-E-ED-RR-130825-22.2015.5.13.0001 (Rel. Min. Márcio Eurico
+Vitral Amaro, DEJT de 8/3/2019), julgado em composição plena. Recurso de revista de
+que se conhece e a que se dá parcial provimento" (RR-0000949-92.2022.5.14.0404, 8ª
+Turma , Relator Ministro Sergio Pinto Martins, DEJT 25/11/2024).
+Nesse contexto, consignado pela Corte regional que a admissão da reclamante se deu sob a
+égide do normativo interno RH 151 , reconhece-se que suas disposições, notadamente no que diz
+respeito ao direito à incorporação da gratificação de função, foram incorporadas ao contrato de
+trabalho da recorrente, que possui direito adquirido contratual , na esteira do que preconiza a
+Súmula nº 51, I, do TST.
+Ao entender de forma diversa, indeferindo à reclamante o direito à incorporação, por
+considerar que o requisito temporal só foi alcançado após o advento da Lei nº 13.467/2017 e da
+revogação da norma interna RH 151, o Tribunal Regional contrariou a Súmula nº 51, I, desta Corte
+Superior.
+Ante o exposto, conheço do recurso de revista, por contrariedade à Súmula nº 51, I, do TST.
+MÉRITO
+Como consequência lógica do conhecimento do apelo, por contrariedade à Súmula nº 51, I, do
+TST, dou-lhe provimento para restabelecer a sentença.
+ISTO POSTO
+ACORDAM os Ministros da Sétima Turma do Tribunal Superior do Trabalho, por unanimidade: I
+- conhecer e dar provimento ao agravo para melhor exame do agravo de instrumento; II - conhecer e
+dar provimento ao agravo de instrumento para determinar o processamento do recurso de revista;
+III - conhecer do recurso de revista por divergência jurisprudencial e, no mérito, dar-lhe provimento
+para restabelecer a sentença.
+No presente caso, foram analisadas e consignadas expressamente as razões de
+convencimento em relação a todas as irresignações da embargante, registrando a decisão recorrida que
+o acórdão regional contrariou a jurisprudência desta Corte Superior, no sentido de que o direito à
+incorporação da gratificação de função percebida por mais de dez anos, fundado no normativo interno
+RH 151 da Caixa Econômica Federal, se incorporou ao contrato de trabalho do empregado admitido
+durante sua vigência, nos termos da Súmula n.º 51, I, do TST, de modo que as alterações introduzidas
+pela Lei n.º 13.467/2017 não autorizam a supressão da vantagem prevista, sob pena de se caracterizar
+alteração contratual lesiva.
+Com efeito, os embargos declaratórios não têm o condão de submeter o que foi
+decidido a um novo exame, como recurso capaz de modificar a prestação jurisdicional, a pretexto de
+obter uma declaração do exato sentido do julgado, reformando o anterior. A via é imprópria inclusive
+para impugnar a justiça ou não da decisão.
+Conclui-se que a embargante pretende apenas rediscutir nos embargos de
+declaração matéria já examinada pela Turma julgadora, em verdadeiro desvio de finalidade processual.
+Assim, não constatados vícios no julgado, nego provimento aos embargos de
+declaração.
+ISTO POSTO
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100680EAF5E3FB64C7.
+ACORDAM os Ministros da Sétima Turma do Tribunal Superior do Trabalho, à
+unanimidade, conhecer e negar provimento aos embargos de declaração.
+Brasília, 15 de setembro de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+MARGARETH RODRIGUES COSTA
+Ministra Relatora
+Firmado por assinatura digital em 18/09/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100680EAF5E3FB64C7.
