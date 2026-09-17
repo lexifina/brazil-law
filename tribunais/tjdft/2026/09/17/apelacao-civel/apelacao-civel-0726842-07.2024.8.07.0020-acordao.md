@@ -1,0 +1,150 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+5ª Turma Cível
+Processo N.APELAÇÃO CÍVEL 0726842-07.2024.8.07.0020APELANTE(S)AULLYSTER DE JESUS ARAUJOAPELADO(S)COOPERATIVA DE CREDITO DE LIVRE ADMISSAO DE ASSOCIADOS DO PLANALTO CENTRAL - SICREDI PLANALTO CENTRALRelatoraDesembargadora LUCIMEIRE MARIA DA SILVA
+ Acórdão Nº2175231
+
+EMENTA
+
+APELAÇÃO CÍVEL. PROCESSO CIVIL. CONSUMIDOR. AÇÃO MONITÓRIA. CARTÃO DE CRÉDITO. EMBARGOS MONITÓRIOS. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. INÉPCIA DA INICIAL. NÃO CONFIGURAÇÃO. PROVA ESCRITA SUFICIENTE. ART. 700 DO CPC. JUROS ABUSIVOS. ALEGAÇÃO GENÉRICA. DESCUMPRIMENTO DO ART. 702, § 2º, DO CPC. RECURSO DESPROVIDO.
+
+1.   Não configura cerceamento de defesa o indeferimento de prova pericial quando os autos se encontram suficientemente instruídos e a parte se limita a formular alegações genéricas de excesso de cobrança, sem apresentar elementos mínimos aptos a justificar a produção da prova técnica.
+
+2.   A ação monitória fundada em contrato de cartão de crédito pode ser instruída com a proposta de adesão, o regulamento contratual, as faturas demonstrativas da utilização do crédito e a memória de cálculo do débito, documentos aptos a demonstrar a probabilidade do direito invocado pelo credor, nos termos do art. 700 do CPC.
+
+3. Não há inépcia da petição inicial quando a causa de pedir e os pedidos estão adequadamente delineados e a demanda é acompanhada dos documentos necessários à demonstração da relação jurídica e do débito perseguido. Precedentes.
+
+4.  A alegação de excesso de execução exige a indicação do valor incontroverso e a apresentação de demonstrativo discriminado e atualizado da dívida, conforme dispõe o art. 702, § 2º, do CPC. A mera impugnação genérica dos encargos contratuais, desacompanhada de qualquer elemento concreto que evidencie a irregularidade apontada, não é suficiente para afastar a presunção de legitimidade da cobrança.
+
+5.   Preliminares rejeitadas. Recurso conhecido e desprovido.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 5ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, LUCIMEIRE MARIA DA SILVA - Relatora, LEONOR AGUENA - 1º Vogal e ANA CANTARINO - 2º Vogal, sob a Presidência da Senhora Desembargadora LUCIMEIRE MARIA DA SILVA, em proferir a seguinte decisão: CONHECER. REJEITAR AS PRELIMINARES. NEGAR PROVIMENTO AO RECURSO. UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 17 de Setembro de 2026
+
+Desembargadora LUCIMEIRE MARIA DA SILVAPresidente e Relatora
+
+RELATÓRIO
+
+Cuida-se de apelação cível interposta por AULLYSTER DE JESUS ARAÚJO contra a r. sentença de ID 86405524, proferida nos autos da ação monitória ajuizada por COOPERATIVA DE CRÉDITO DE LIVRE ADMISSÃO DE ASSOCIADOS DO PLANALTO CENTRAL (SICREDI PLANALTO CENTRAL) em face do apelante, por meio da qual o douto Magistrado da 2ª Vara Cível de Águas Claras declarou convertido, de pleno direito, o mandado monitório inicial em título executivo judicial no valor de R$ 31.759,94 (trinta e um mil, setecentos e cinquenta e nove reais e noventa e quatro centavos), atualizado até 27/11/2024, que deverá ser corrigido pelo INPC, a partir de 28/11/2024 e acrescido de juros de mora de 1% (um por cento) ao mês, até o efetivo pagamento.
+
+A parte requerida foi condenada ao pagamento das custas processuais e dos honorários advocatícios, estes fixados em 10% (dez por cento) do valor atualizado da condenação, com base no art. 85, § 2º, do CPC.
+
+Em suas razões recursais (ID 86405526), o apelante sustenta, preliminarmente, a nulidade da sentença por cerceamento de defesa, ao argumento de que foi indeferida a produção de prova pericial contábil reputada indispensável para aferir a regularidade dos encargos cobrados, a eventual capitalização indevida de juros e a exatidão do débito. Afirma que a decisão violou os princípios do contraditório e da ampla defesa.
+
+No mérito, aduz que a ação monitória não foi instruída com documentação suficiente para demonstrar a liquidez e a certeza da dívida, porquanto a instituição financeira apresentou apenas memória de cálculo simplificada e histórico de faturas, sem demonstrativo analítico da evolução do débito. Defende a inépcia da inicial.
+
+Sustenta, ainda, excesso de execução em razão da cobrança de juros remuneratórios supostamente abusivos e da capitalização mensal sem pactuação válida, requerendo a reforma da sentença para acolher os embargos monitórios.
+
+Ausente preparo, porquanto a parte litiga sob o pálio da justiça gratuita.
+
+Em contrarrazões (ID 86405529), a apelada pugna pelo não provimento do recurso.
+
+É o relatório.
+
+VOTOS
+
+A Senhora Desembargadora LUCIMEIRE MARIA DA SILVA - Relatora
+
+Presentes os requisitos de admissibilidade, conheço do recurso e o recebo nos efeitos devolutivo e suspensivo, nos termos do art. 1.012, caput, do Código de Processo Civil.
+
+ Cuida-se de apelação cível interposta por AULLYSTER DE JESUS ARAÚJO contra a r. sentença de ID 86405524, proferida nos autos da ação monitória ajuizada por COOPERATIVA DE CRÉDITO DE LIVRE ADMISSÃO DE ASSOCIADOS DO PLANALTO CENTRAL (SICREDI PLANALTO CENTRAL) em face do apelante, por meio da qual o douto Magistrado da 2ª Vara Cível de Águas Claras declarou convertido, de pleno direito, o mandado monitório inicial em título executivo judicial no valor de R$ 31.759,94 (trinta e um mil, setecentos e cinquenta e nove reais e noventa e quatro centavos), atualizado até 27/11/2024, que deverá ser corrigido pelo INPC, a partir de 28/11/2024 e acrescido de juros de mora de 1% (um por cento) ao mês, até o efetivo pagamento.
+
+A parte requerida foi condenada ao pagamento das custas processuais e dos honorários advocatícios, estes fixados em 10% (dez por cento) do valor atualizado da condenação, com base no art. 85, § 2º, do CPC.
+
+Em suas razões recursais (ID 86405526), o apelante sustenta, preliminarmente, a nulidade da sentença por cerceamento de defesa, ao argumento de que foi indeferida a produção de prova pericial contábil reputada indispensável para aferir a regularidade dos encargos cobrados, a eventual capitalização indevida de juros e a exatidão do débito. Afirma que a decisão violou os princípios do contraditório e da ampla defesa.
+
+Aduz que a ação monitória não foi instruída com documentação suficiente para demonstrar a liquidez e a certeza da dívida, porquanto a instituição financeira apresentou apenas memória de cálculo simplificada e histórico de faturas, sem demonstrativo analítico da evolução do débito. Defende a inépcia da inicial.
+
+No mérito, sustenta, ainda, excesso de execução em razão da cobrança de juros remuneratórios supostamente abusivos e da capitalização mensal sem pactuação válida, requerendo a reforma da sentença para acolher os embargos monitórios.
+
+Vejamos.
+
+I - Da preliminar de cerceamento de defesa
+
+Não há que se falar em cerceamento de defesa pelo indeferimento da prova pericial.
+
+Atenta às especificidades delineadas no feito, tenho que a mera omissão do juízo quanto à análise de certas provas não configura hipótese de cerceamento de defesa, porquanto se verifica que o douto magistrado de origem julgou a demanda com fundamento nas provas já constantes dos autos.
+
+Logo, uma vez que a prova vindicada pela parte requerida mostrava-se desnecessária à solução da controvérsia, não há que se cogitar acerca da ocorrência de cerceamento de defesa pelo fato de o juízo monocrático ter indeferido a sua produção.
+
+O magistrado deve, por óbvio, expor suas razões de decidir, nos estritos termos do artigo 93, inciso IX, da Constituição Federal de 1988, motivos esses que não serão necessariamente alicerçados nos argumentos ventilados pelos demandantes.
+
+Nesse passo, verifico que, de modo claro e coerente, Sua Excelência a quo conferiu às questões levantadas a solução reclamada, expondo suas razões de decidir, não se obrigando, pois, a se manifestar com fulcro nos fundamentos expostos pelo recorrente, traduzindo, dessa forma, provimento balizado em elementos outros que não os pretendidos pelo apelante.
+
+Ademais, embora o apelante tenha suscitado a existência de excesso de cobrança, deixou de apresentar qualquer elemento concreto capaz de conferir verossimilhança às suas alegações. Os embargos monitórios limitaram-se a impugnações genéricas quanto à evolução do débito e aos encargos contratuais, sem indicação de cláusula específica reputada ilegal ou demonstrativo mínimo de cálculo apto a evidenciar a alegada irregularidade.
+
+Nessas circunstâncias, a produção de perícia contábil revelar-se-ia medida meramente exploratória, providência incompatível com as regras de distribuição do ônus probatório.
+
+Ausente controvérsia técnica minimamente delimitada e não tendo o réu se desincumbido do ônus de apresentar indícios concretos de excesso de cobrança, mostra-se legítimo o julgamento antecipado da lide, nos termos do art. 355, I, do CPC, sem que isso implique violação aos princípios do contraditório e da ampla defesa.
+
+Nesse sentido, observe-se julgado deste egrégio Tribunal de Justiça:
+
+“APELAÇÃO CÍVEL. DIREITO PROCESSUAL CIVIL. AÇÃO MONITÓRIA. DÍVIDA. CARTÃO DE CRÉDITO. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. CAPITALIZAÇÃO DE JUROS. POSSIBILIDADE. APELO DESPROVIDO. 1. O Juiz é o presidente do processo e o destinatário da prova, de forma que tem o dever de conduzir o feito para determinar a instrução, conforme a relevância e a necessidade para formar o convencimento judicial, bem como indeferir as diligências inúteis ou protelatórias (arts. 370 e 371 do CPC).  2. Tratando-se de dívida de cartão de crédito, não se faz necessária a juntada de contrato devidamente assinado, bastando para o processamento da ação monitória a juntada das faturas demonstrando o uso do cartão de crédito, bem como as cláusulas gerais do contrato. Precedentes. 3. Não tendo a parte apresentado cálculos para demonstrar eventual equívoco no valor apresentado na inicial, não se faz necessário o deferimento de realização de prova pericial para averiguar o valor do débito. 4. Ausentes elementos concretos para infirmar as provas colacionadas, não se vislumbra razão para afastar o princípio do livre convencimento do Magistrado. 5. Segundo os enunciados 539 e 541 da Súmula do Superior Tribunal de Justiça, é permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados com instituições integrantes do Sistema Financeiro Nacional a partir de 31/03/2000, data da entrada em vigor da Medida Provisória 1.963-17/2000, desde que expressamente pactuada, além de que a previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada. 6. Apelo conhecido e desprovido.” (Acórdão 1780960, 0709927-96.2022.8.07.0004, Relator(a): LUCIMEIRE MARIA DA SILVA, 5ª TURMA CÍVEL, data de julgamento: 03/11/2023, publicado no DJe: 17/11/2023). (g.n.).
+
+Destarte, REJEITO a preliminar de nulidade da sentença por cerceamento de defesa.
+
+II - Da inépcia da inicial
+
+Segundo disposto no art. 700 do CPC, a ação monitória poderá ser proposta por aquele que afirmar, com base em prova escrita sem eficácia de título executivo, ter direito de exigir do devedor capaz, entre outros, o pagamento de quantia em dinheiro.
+
+Previsto, ainda, no art. 700, § 2º do mesmo Diploma que, na petição inicial, incumbirá ao autor explicitar, conforme o caso, a importância devida, instruindo-a com memória de cálculo; o valor atual da coisa reclamada; ou o conteúdo patrimonial em discussão ou o proveito econômico perseguido.
+
+No caso, tenho que a proposta de admissão e de abertura de conta de depósito e adesão a produtos e serviços assinada pelo apelante/réu ao ID 86405282, bem como a proposta de adesão a cartão de crédito assinada pelo apelante/réu (ID 86405283), o regulamento de utilização do cartão de crédito apresentado ao ID 86405284, as faturas com a utilização do cartão de crédito (ID  86405285) e a planilha de cálculos de ID 86405286, são documentos hábeis e suficientes para instruir a ação monitória proposta.
+
+Registre-se, por oportuno, o teor do Enunciado 247 da Súmula do Superior Tribunal de Justiça: "O contrato de abertura de crédito em conta corrente, acompanhado do demonstrativo de débito, constitui documento hábil para o ajuizamento da ação monitória".
+
+No caso de contrato de cartão de crédito, constata-se que a juntada das faturas demonstrando o uso do cartão de crédito, bem como do contrato de aquisição de produtos/serviços, atende ao disposto no artigo 700 do CPC.
+
+Sobre o tema, confiram-se arestos desta egrégia Corte:
+
+“APELAÇÃO. CIVIL. PROCESSO CIVIL. PRELIMINARES DE VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE E INÉPCIA DA INICIAL. REJEIÇÃO. IMPUGNAÇÃO À GRATUIDADE DE JUSTIÇA. IMPERTINÊNCIA. EMBARGOS À AÇÃO MONITÓRIA. CARTÃO DE CRÉDITO. PROVA DOCUMENTAL SUFICIENTE PARA INSTRUIR A AÇÃO. CAPITALIZAÇÃO E CORREÇÃO MONETÁRIA. POSSIBILIDADE. SENTENÇA MANTIDA.  1. As razões recursais impugnaram especificamente a sentença, não havendo que se falar em ofensa ao princípio da dialeticidade recursal.  2. Da leitura da inicial, depreende-se que a causa de pedir e o pedido estão corretamente delineados, a pretensão é juridicamente possível e consentânea com a lógica narrativa dos fatos, razão pela qual não há falar em inépcia da petição inicial.  3. A revogação do benefício da gratuidade de justiça exige prova da modificação na condição de hipossuficiência econômico-financeira, incumbindo à parte que alega o ônus de provar tal condição. 4. Trata-se de ação monitória lastreada em contrato de aquisição de produtos/serviços de cartão de crédito, acompanhados de faturas e extratos das movimentações, que atendem ao disposto no artigo 700 do CPC. 5. A revisão da taxa de juros somente é possível em casos excepcionais, ou seja, em que se observem os requisitos da abusividade, o que não se verifica no caso em apreço. 6. Recurso conhecido e não provido.” (Acórdão 2035692, 0700690-67.2024.8.07.0004, Relator(a): MAURICIO SILVA MIRANDA, 7ª TURMA CÍVEL, data de julgamento: 20/08/2025, publicado no DJe: 02/09/2025). (g.n.).
+
+“APELAÇÃO. DIREITO PROCESSUAL CIVIL E DO CONSUMIDOR. AÇÃO MONITÓRIA. CONTRATO DE CARTÃO DE CRÉDITO. CERCEAMENTO DE DEFESA. INDEFERIMENTO DE PROVA PERICIAL. PRELIMINAR REJEITADA. APRESENTAÇÃO DE PROVA ESCRITA DA DÍVIDA. ÔNUS PROCESSUAL DO AUTOR. DÍVIDA COMPROVADA. CONSTITUIÇÃO DO TÍTULO EXECUTIVO JUDICIAL. IMPUGNAÇÃO DA DÍVIDA. ABUSIVIDADE. AUSÊNCIA DE INDICAÇÃO DO VALOR DEVIDO. DEFESA GENÉRICA. NÃO ADMITIDA. ENCARGOS DA MORA. CUMULAÇÃO COM JUROS REMUNERATÓRIOS. POSSIBILIDADE. RECURSO CONHECIDO E NÃO PROVIDO. SENTENÇA MANTIDA. 1. O juiz é o destinatário principal da prova. Compete a ele decidir a respeito dos elementos necessários à formação de seu convencimento e zelar pela efetividade do processo, nos moldes dos arts. 370 e 371 do Código de Processo Civil - CPC. O juízo pode determinar as provas necessárias à instrução processual e indeferir as inúteis ou meramente protelatórias. 2. No caso, é desnecessária a prova pericial contábil: os documentos juntados são suficientes para verificar o montante cobrado e os encargos incidentes. Preliminar rejeitada. 3. A relação jurídica existente entre as partes atrai a aplicação das normas previstas no Código de Defesa do Consumidor – CDC: as partes se enquadram nos conceitos de consumidor e fornecedor previstos nos artigos 2º e 3º do referido diploma legal. Nesse sentido, é a Súmula 297 do Superior Tribunal de Justiça: “O Código de Defesa do Consumidor é aplicável às instituições financeiras”. 4. A ação monitória visa a formação de título executivo judicial para cobrança de obrigação. Pode ser proposta por aquele quem afirmar, com base em prova escrita sem eficácia de título executivo, ter direito de exigir do devedor capaz o pagamento de quantia, entrega de coisa ou o adimplemento de obrigação de fazer ou não fazer (art. 700, do Código de Processo Civil – CPC). 5. Na ação monitória, o juiz, em cognição sumária, já expede ordem de cumprimento imediato da obrigação. Se o réu cumprir, o processo é extinto assim como a obrigação. Caso contrário, a ordem se transforma em título executivo judicial para dar início ao cumprimento de sentença. Trata-se de procedimento especial, diferenciado e abreviado em favor do credor que possui prova escrita que comprove a obrigação. Caracteriza-se pela inversão do contraditório. Cabe ao autor trazer prova escrita que permita um juízo de probabilidade em relação à existência do crédito. Ao réu cumpre, em embargos, afastar a presunção em favor do autor, com base na regra geral de distribuição dos ônus da prova. 6. A autora/apelada instruiu a ação monitória com os seguintes documentos: 1) contrato de cartão de crédito, assinado eletronicamente por Roberto; 2) informativo sobre os termos dos serviços contratados; 3) faturas em nome do cliente, em que constam a utilização do cartão de crédito; 4) planilha atualizada da dívida. O acervo probatório apresentado é suficiente para aparelhar a execução: demonstra o vínculo jurídico contratual entre as partes e constitui título líquido, certo e exigível. 7. A impugnação da cobrança que se baseie na abusividade dos encargos exige que o devedor indique o valor correto da dívida com demonstrativo discriminado e atualizado, sob pena de não conhecimento de sua defesa caso o ônus não seja atendido. Se insere em tal hipótese a impugnação de cláusulas do contrato referentes ao pagamento, especialmente quanto ao valor cobrado (quantum debeatur). 8. Quanto aos embargos à ação monitória, o art. 702, §2º, do CPC, prevê que “Quando o réu alegar que o autor pleiteia quantia superior à devida, cumprir-lhe-á declarar de imediato o valor que entende correto, apresentando demonstrativo discriminado e atualizado da dívida.” A impugnação da cobrança que se baseie na abusividade dos encargos exige que o devedor indique o valor correto da dívida com demonstrativo discriminado e atualizado. 9. Em sua impugnação, o apelante se limitou a alegar a abusividade abstrata das cláusulas do contrato relacionadas aos juros remuneratórios e ao excesso dos valores cobrados pelo banco. Não foi indicado o valor concreto da dívida que entende devido nem apresentada a planilha demonstrativa do saldo devedor, o que não é admitido pelo ordenamento jurídico. A defesa apresentada pela devedora não atende ao requisito legal; é insuficiente para afastar a legitimidade da cobrança. Precedentes. 10. Por fim, não prospera a tese levantada pelo apelante de que não é possível a cobrança cumulativa de juros remuneratórios e moratórios. O art. 2º da Resolução 4.882/2020 do Conselho Monetário Nacional estabelece que, em caso de atraso no pagamento de obrigações relativas a operações de crédito, arrendamento mercantil financeiro, faturas de cartão de crédito e demais instrumentos de pagamento pós-pagos, podem ser cobrados, exclusivamente, os seguintes encargos: (i) juros remuneratórios, por dia de atraso, sobre a parcela vencida ou sobre o saldo devedor não liquidado; (ii) multa, nos termos da legislação em vigor; e (iii) juros de mora, conforme a legislação aplicável.  1. Em síntese, trata-se encargos distintos: os juros moratórios é uma compensação pelo atraso no cumprimento da obrigação, ao passo que os juros remuneratórios têm a finalidade de remunerar o capital emprestado. 12. No caso, a fatura do cartão de crédito referente ao mês de outubro de 2024, período em que ocorreu o inadimplemento, prevê a cobrança de juros moratórios de 1% ao mês e multa de 2% sobre o débito. Todos os encargos previstos estão de acordo com as orientações do Banco Central. Logo, não há abusividade. 13. Recurso conhecido e desprovido. Sentença mantida.” (Acórdão 2068627, 0754057-15.2024.8.07.0001, Relator(a): LEONARDO ROSCOE BESSA, 6ª TURMA CÍVEL, data de julgamento: 12/11/2025, publicado no DJe: 03/12/2025). (g.n.).
+
+Dessa forma, REJEITO a preliminar suscitada.
+
+III - Do mérito
+
+No tocante à alegação de abusividade dos juros remuneratórios e de excesso de execução, igualmente não assiste razão ao apelante.
+
+Isso porque os embargos monitórios limitaram-se a suscitar, de forma genérica, a suposta irregularidade dos encargos contratuais, sem apontar especificamente quais cláusulas seriam abusivas, qual seria a taxa reputada excessiva ou, ainda, qual o valor efetivamente devido. Tampouco apresentou memória de cálculo, planilha, parecer técnico ou qualquer demonstrativo apto a evidenciar o alegado excesso de cobrança (ID 86405296).
+
+A propósito, o art. 702, § 2º, do CPC estabelece expressamente que, ao alegar a cobrança de quantia superior à devida, incumbia ao réu declarar de imediato o valor que entendia correto, apresentando demonstrativo discriminado e atualizado da dívida. Confira-se:
+
+“Art. 702. Independentemente de prévia segurança do juízo, o réu poderá opor, nos próprios autos, no prazo previsto no art. 701 , embargos à ação monitória.
+
+§ 1º Os embargos podem se fundar em matéria passível de alegação como defesa no procedimento comum.
+
+§ 2º Quando o réu alegar que o autor pleiteia quantia superior à devida, cumprir-lhe-á declarar de imediato o valor que entende correto, apresentando demonstrativo discriminado e atualizado da dívida.
+
+§ 3º Não apontado o valor correto ou não apresentado o demonstrativo, os embargos serão liminarmente rejeitados, se esse for o seu único fundamento, e, se houver outro fundamento, os embargos serão processados, mas o juiz deixará de examinar a alegação de excesso.”
+
+No entanto, tal ônus processual não foi observado, circunstância que impede o acolhimento de impugnações genéricas fundadas em suposto excesso de execução ou abusividade dos encargos.
+
+Nesse sentido, colaciono arestos deste egrégio Tribunal:
+
+“DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. CONTRATO DE EMPRÉSTIMO BANCÁRIO. GRATUIDADE DE JUSTIÇA. BENEFÍCIO JÁ DEFERIDO NA SENTENÇA. AUSÊNCIA DE INTERESSE RECURSAL. ALEGAÇÃO DE NULIDADE DE CITAÇÃO. DESNECESSIDADE DE NOTIFICAÇÃO EXTRAJUDICIAL. PROVA ESCRITA SUFICIENTE. LIQUIDEZ E EXIGIBILIDADE DO CRÉDITO. JUROS REMUNERATÓRIOS. CAPITALIZAÇÃO MENSAL EXPRESSAMENTE PACTUADA. AUSÊNCIA DE COMPROVAÇÃO DE ABUSIVIDADE. CDC. INVERSÃO DO ÔNUS DA PROVA. NÃO CABIMENTO. SENTENÇA MANTIDA. RECURSO PARCIALMENTE CONHECIDO E DESPROVIDO. I. CASO EM EXAME 1. Apelação interposta contra sentença que, em ação monitória, rejeitou os embargos monitórios opostos pela devedora e julgou procedente o pedido, constituindo título executivo judicial no valor de R$ 21.408,70, decorrente de contratos de empréstimo bancário inadimplidos, com concessão do benefício da gratuidade de justiça à ré. II. QUESTÃO EM DISCUSSÃO 2. Há quatro questões em discussão: (i) definir se o pedido de gratuidade de justiça formulado em sede recursal deve ser conhecido, diante de prévia concessão do benefício na sentença; (ii) estabelecer se a ausência de notificação extrajudicial ou eventual vício de citação acarretaria nulidade da ação monitória; (iii) verificar se os contratos apresentados constituem prova escrita suficiente, líquida e exigível para embasar a pretensão monitória; e (iv) determinar se há excesso de cobrança em razão de juros abusivos, encargos ilegais ou capitalização indevida, bem como a possibilidade de inversão do ônus da prova com fundamento no Código de Defesa do Consumidor. III. RAZÕES DE DECIDIR 3. O pedido de gratuidade de justiça formulado em grau recursal não deve ser conhecido quando o benefício já foi expressamente deferido na sentença, por ausência de interesse recursal. 4. A ação monitória prescinde de prévia constituição em mora por notificação extrajudicial, bastando a apresentação de prova escrita apta a demonstrar a plausibilidade do crédito, nos termos do art. 700 do CPC. 5. Inexistem vícios na citação capazes de comprometer o contraditório e a ampla defesa, uma vez que a parte ré participou regularmente do processo, apresentando embargos monitórios. 6. Os contratos de empréstimo firmados entre as partes, acompanhados de demonstrativos de evolução do débito, constituem prova escrita suficiente, certa e líquida, especialmente diante do reconhecimento da contratação e da disponibilização dos valores pela devedora. 7. A alegação de abusividade dos juros remuneratórios é genérica e desacompanhada de demonstração concreta ou comparação com a taxa média de mercado à época da contratação. 8. A capitalização mensal de juros é válida quando expressamente pactuada em contratos bancários celebrados após 31/03/2000, conforme legislação e jurisprudência consolidada do Superior Tribunal de Justiça. 9. A inversão do ônus da prova prevista no Código de Defesa do Consumidor não é automática, exigindo verossimilhança das alegações ou hipossuficiência técnica, não configuradas no caso concreto.  IV. DISPOSITIVO E TESE 10. Recurso parcialmente conhecido e desprovido. Tese de julgamento: "1. O pedido de gratuidade de justiça formulado em sede recursal não deve ser conhecido quando o benefício já foi deferido na sentença, por ausência de interesse recursal."; "2. A ação monitória não exige prévia notificação extrajudicial para a constituição em mora do devedor, sendo suficiente a prova escrita do crédito."; "3. Contratos bancários acompanhados de demonstrativos de débito constituem prova escrita hábil, líquida e exigível para embasar a pretensão monitória.'; "4. A revisão de juros remuneratórios e encargos contratuais depende de demonstração concreta de abusividade, não se admitindo alegações genéricas."; "5. É válida a capitalização mensal de juros em contratos bancários quando expressamente pactuada."; "6. A inversão do ônus da prova prevista no CDC não é automática e exige a comprovação de seus pressupostos legais.". _____ Dispositivos relevantes citados: CPC, arts. 487, I, 700 e 85, § 11; CC, art. 397; CDC, arts. 6º, V, e 51; Lei nº 4.595/1964; Medida Provisória nº 1.963-17/2000 (reeditada como MP nº 2.170-36/2001). Jurisprudência relevante citada: STJ, Súmulas nºs 297, 539 e 541; STF, Súmula nº 596; STJ, REsp nº 973.827/RS (repetitivo); STJ, REsp nº 1.061.530/RS (repetitivo); TJDFT, Acórdão nº 1858642, Apelação Cível nº 0700540-72.2023.8.07.0020, Rel. Des. Roberto Freitas Filho, 3ª Turma Cível, j. 02.05.2024. (Acórdão 2105305, 0720157-86.2025.8.07.0007, Relator(a): LEONOR AGUENA, 5ª TURMA CÍVEL, data de julgamento: 26/03/2026). (g.n.).
+
+“APELAÇÃO CÍVEL. CONSUMIDOR E PROCESSO CIVIL. AÇÃO MONITÓRIA. APELAÇÃO DO RÉU REVEL. PRELIMINARES. DESERÇÃO. PREJUDICADA. INOVAÇÃO RECURSAL. MATÉRIA DE ORDEM PÚBLICA ALEGADA. CONHECIMENTO. MÉRITO. DÍVIDA ORIUNDA DE CARTÃO DE CRÉDITO. AFIRMAÇÃO DE ABUSIVIDADE DA TAXA DE JUROS CONTRATADA. AUSÊNCIA DE ELEMENTOS PROBATÓRIOS. NÃO DEMONSTRAÇÃO. CAPITALIZAÇÃO. POSSIBILIDADE. SENTENÇA MANTIDA.  1. O pleito de reconhecimento da deserção do apelo ante o não pagamento de preparo resta prejudicado diante da concessão da gratuidade de justiça. 2. O recorrente permaneceu inerte no juízo de origem e só veio apresentar seus questionamentos à segunda instância, nas razões recursais. Aplicáveis, portanto, os efeitos da revelia. Não obstante, alega a nulidade de cláusulas do contrato consumerista, matéria de ordem pública, apta para ser revisada no grau recursal e até de ofício pelo juízo. De acordo com a teoria da asserção, para efeito de juízo de admissão, considera-se somente as afirmações do apelante conforme expostas nas razões. Por conseguinte, por ter sido alegada matéria de ordem pública, não alcançável pelo instituto da revelia, mister admitir o apelo. 3. Para a relação jurídica que se estabelece entre as partes, decorrente da celebração de contrato de mútuo bancário, devem incidir as normas do Código de Defesa do Consumidor (Súmula nº 297/STJ). 4. Embora o apelante argumente, de forma genérica, a abusividade dos juros cobrados, verifica-se que não apresentou qualquer cálculo ou elemento probatório que demonstre o alegado. Sequer apresentou comparação das taxas de juros médias vigentes no mercado à época, informação que poderia ter obtida no site do Banco Central. 5. Segundo os enunciados 539 e 541 da Súmula do Superior Tribunal de Justiça, é permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados com instituições integrantes do Sistema Financeiro Nacional a partir de 31/03/2000, data da entrada em vigor da Medida Provisória 1.963-17/2000, desde que expressamente pactuada, além de que a previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada. 6. Apelação conhecida e desprovida.” (Acórdão 2025109, 0710461-73.2023.8.07.0014, Relator(a): LUCIMEIRE MARIA DA SILVA, 5ª TURMA CÍVEL, data de julgamento: 31/07/2025). (g.n.).
+
+Com efeito, a instituição financeira instruiu a ação monitória com a proposta de adesão aos produtos e serviços, o termo de adesão ao cartão de crédito, as faturas demonstrativas da utilização do crédito e a memória de cálculo do débito, documentos suficientes para evidenciar a origem e a evolução da obrigação. Em contrapartida, o apelante não produziu prova mínima capaz de infirmar a correção dos valores exigidos.
+
+Assim, ausente demonstração concreta da abusividade alegada e não tendo o réu atendido ao disposto no art. 702, § 2º, do CPC, devem ser rejeitadas as insurgências relativas ao alegado excesso de execução.
+
+DO DISPOSITIVO
+
+Ante o exposto, rejeito as preliminares e NEGO PROVIMENTO ao recurso para manter incólume a r. sentença hostilizada.
+
+No que toca aos honorários recursais, com espeque no §11º do artigo 85 do CPC, condeno o apelante ao pagamento da majoração dos honorários advocatícios em 1% (um por cento) do valor atualizado da condenação. Todavia, suspensa sua exigibilidade, tendo em vista a parte litigar sob o pálio da justiça gratuita.
+
+É o meu voto.
+
+A Senhora Desembargadora LEONOR AGUENA - 1º Vogal Com o(a) relator(a)A Senhora Desembargadora ANA CANTARINO - 2º Vogal Com o(a) relator(a)
+
+DECISÃO
+
+CONHECER. REJEITAR AS PRELIMINARES. NEGAR PROVIMENTO AO RECURSO. UNÂNIME
