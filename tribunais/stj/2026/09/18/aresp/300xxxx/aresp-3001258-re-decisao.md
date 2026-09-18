@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fls. 2.125-2.126):
+PROCESSUAL CIVIL E DIREITO AMBIENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS DECORRENTES DE DESASTRE SOCIOAMBIENTAL. SUSPENSÃO/DESMEMBRAMENTO À LUZ DOS TEMAS 675/STF E 923/STJ. INEXISTÊNCIA DE DETERMINAÇÃO ESPECÍFICA DE SOBRESTAMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL (ART. 1.022 DO CPC). INOCORRÊNCIA. PROVA MÍNIMA DO FATO CONSTITUTIVO. NECESSIDADE. DANO MORAL INDIVIDUAL IN RE IPSA. INAPLICABILIDADE SEM PROVA DO NEXO E DO ABALO PESSOAL. ÓBICES DAS SÚMULAS 7/STJ, 283/STF E 284/STF. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
+1. Agravo em recurso especial interposto por litisconsortes ativos, em ação de indenização por danos morais decorrentes de subsidência geológica em Maceió/AL, contra acórdão que (i) anulou parcialmente a sentença quanto a aderentes ao Programa de Compensação Financeira e Apoio à Realocação, determinando retorno para sobrestamento até julgamento de recursos pendentes; (ii) reconheceu
+interesse de agir; (iii) aplicou a causa madura para julgar improcedente o pedido do menor; e (iv) determinou instrução probatória aos demais.
+2. O objetivo recursal é decidir se (i) é cabível o sobrestamento/desmembramento das ações individuais com base nos Temas 675/STF e 923/STJ; (ii) houve negativa de prestação jurisdicional (art. 1.022 do CPC); (iii) e se há dano moral in re ipsa.
+3. A suspensão de ações individuais não se impõe automaticamente por existir ação civil pública sem ordem específica de sobrestamento; a referência ao Tema 923/STJ restringe-se ao caso paradigmático diverso, e o Tema 675/STF não possui repercussão geral reconhecida, afastando a paralisação genérica das demandas.
+4. Não há negativa de prestação jurisdicional quando o acórdão enfrenta os pontos controvertidos, reconhece a legitimidade e o interesse de agir, aplica a causa madura e conclui pela ausência de prova mínima do abalo pessoal e de nexo causai, o que afasta o cabimento dos aclaratórios como via de rediscussão.
+5. A responsabilidade objetiva ambiental não dispensa prova do dano e do nexo causai no plano individual; a inversão do ônus da prova em degradação ambiental não exime o autor de apresentar prova mínima do fato constitutivo. Dano moral in re ipsa não se presume sem demonstração do vínculo fático relevante e do abalo pessoal concreto.
+6. A revisão das conclusões locais sobre nexo, dano e suficiência probatória demanda revolvimento fático-probatório, atraindo os óbices das Súmulas 7/STJ, 283/STF e 284/STF.
+7. Agravo conhecido. Recurso especial conhecido em parte e, nessa extensão, não provido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 2.171-2.177).
+As partes recorrentes alegam a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 1º, III; 5º, V, X, XXXV e LXXVIII; e 93, IX, da Constituição Federal.
+Sustenta negativa de prestação jurisdicional, afirmando que o mérito do pedido de indenização por danos morais não teria sido apreciado em nenhuma instância.
+Argumenta que houve supressão do direito de acesso à jurisdição e violação à razoável duração do processo, por impedir a análise do mérito da pretensão indenizatória.
+Expõe que a demanda envolve danos morais individuais decorrentes de desastre socioambiental, os quais não poderiam ser absorvidos por acordos coletivos.
+Ressalta afronta ao dever de fundamentação das decisões judiciais, por ausência de motivação suficiente quanto às razões de rejeição das teses deduzidas.
+Requer a concessão do benefício da justiça gratuita, bem como a admissão e provimento do recurso extraordinário.
+É o relatório.
+No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 2.132-2.136):
+Da violação do II, do CPC art. 1.022
+Sustentam CARINA e outros que o acórdão recorrido foi omisso ao desconsiderar as alegações apresentadas nos embargos de declaração acerca dos direitos dos menores de idade aos danos morais e seu interesse de agir (legitimidade para pleitear a reparação por danos morais, in re ipsa, decorrentes do impacto emocional e da desestruturação familiar sofridos em razão do desastre socioambiental, não relacionados exclusivamente da relação com o imóvel, mas das consequências diretas do evento traumático que afetou seu núcleo familiar e comunitário - e-STJ fl. 1640).
+O acórdão recorrido reconheceu, ao contrário da sentença, a legitimidade da menor L. C. M. da S. e e promoveu o julgamento de mérito aplicando a Teoria da Causa Madura (e-STJ fl.1630-1634):
+ ..
+Ao contrário do alegado nas razões recursais, que evoca as preliminares (e-STJ fl. 1651), o acórdão recorrido reconheceu a legitimidade ativa e o interesse de agir e resolveu o mérito da questão.
+Ademais, as provas foram analisadas pelo Tribunal Estadual, que concluiu pela inexistência de nexo causal. Portanto, a pretensão recursal é de mera reanálise dos fatos e provas. A propósito:
+ ..
+Por fim, a questão referente ao impacto emocional e da desestruturação familiar sofridos em razão do desastre socioambiental, em relação à menor, não foram arguidas nos embargos de declaração (e-STJ fls. 1656-1663).
+Não há, por todo o exposto, a omissão apontada.
+Da violação dos arts. 186 e 927 do CC
+Defendem CARINA e outros que a decisão impugnada desconsiderou que os acordos firmados com a BRASKEM não abrangem a totalidade dos danos sofridos, especialmente os danos morais, que possuem caráter personalíssimo e não podem ser presumidos como satisfeitos sem uma análise individualizada (a reparação deve ser proporcional à gravidade do abalo moral imposto a cada um dos autores). Afirmam que o valor irrisório dos acordos não condiz com a função compensatória dos danos morais sofridos.
+No entanto, as razões recursais, além de deficientes por não demonstrarem como o acórdão recorrido violou as normas federais apontadas, não guardam dialeticidade com os fundamentos do acórdão, que, conforme transcrição acima, entendeu pela inexistência de nexo causal entre a conduta da BRASKEM e eventuais danos alegados (ausência de relação entre L. C. M. da S. e o imóvel)
+ ..
+Rever as conclusões do Tribunal Estadual acerca da presença dos requisitos da responsabilidade civil (conduta, dano e nexo causal) e mesmo da extensão do dano encontram óbice no enunciado 7 da Súmula do Superior Tribunal de Justiça:
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+No tocante às demais alegações, nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o STF já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não tem repercussão geral.
+Quando o STJ não analisar o mérito do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos.
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do recurso extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
