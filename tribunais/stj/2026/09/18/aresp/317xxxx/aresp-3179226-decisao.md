@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo ESTADO DE MINAS GERAIS contra inadmissão, na origem, de recurso especial fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado (fl. 670):
+EMENTA: AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PRINCÍPIO DA DIALETICIDADE RECURSAL. INFRINGÊNCIA NÃO CARACTERIZADA. RECURSO CONHECIDO. INTIMAÇÕES DA FAZENDA PÚBLICA. NULIDADES. AUSÊNCIA. MULTA POR LITIGÂNCIA DE MÁ-FÉ. INAPLICABILIDADE. DOLO PROCESSUAL NÃO DEMONSTRADO.
+1 - PRELIMINAR.
+1.1. Por força do princípio da dialeticidade, o recorrente deve deduzir os fundamentos de fato e de direito hostilizadores da decisão impugnada, sob pena de tornar inepta a peça recursal.
+1.2. Uma vez atendida a exigência mencionada, há que se admitir o processamento do recurso interposto.
+1.3. Preliminar de não conhecimento do recurso por falta de dialeticidade rejeitada.
+2 - MÉRITO.
+2.1. Inexiste nulidade por ausência de intimação válida quando comprovado que a Fazenda Pública foi, por mais de uma vez, regularmente intimada para apresentar impugnação ao cumprimento de sentença, com expressa referência ao prazo de 30 (trinta) dias previsto no art. 535, §3º, do CPC.
+2.2. A ausência de apresentação de impugnação, mesmo após sucessivas intimações regulares, caracteriza preclusão consumativa, inviabilizando a rediscussão posterior dos cálculos de liquidação.
+2.3. A intimação para contrarrazoar os embargos de declaração somente é obrigatória na hipótese de acolhimento do recurso integrativo com efeitos modificativos. Não sendo essa a hipótese versada nos autos, há que se rechaçar a tese de nulidade, sobretudo quando não houve qualquer demonstração de prejuízo processual por parte do embargado.
+2. 4. Sem prova inequívoca de dolo processual, não há que se falar em imposição de multa por litigância de má-fé.
+2. 5. Recurso desprovido.
+Não foram opostos embargos de declaração (fl. 684).
+Em seu recurso especial de fls. 689-694, a parte recorrente alega, além de divergência jurisprudencial, violação ao art. 1.023, § 2º do CPC.
+Defende que "houve prejuízo ao Estado de Minas Gerais, considerando que, sem que lhe fosse oportunizado apresentar suas razões, modificou o julgado, retirando- lhe o prazo para impugnação ao cumprimento de sentença, o que justifica a declaração de nulidade. Portanto, a decisão recorrida afronta o disposto no art. 1.023, §2º, do CPC" (fl. 692).
+Contrarrazões apresentadas às fls. 708-727.
+O Tribunal de origem, às fls. 730-732, não admitiu o recurso especial sob os seguintes fundamentos:
+Do exame minucioso dos autos, bem como das razões recursais, com a devida vênia, constata-se que os demais pressupostos de admissibilidade não se encontram presentes, pelos motivos que se seguem.
+Anote-se que a Turma Julgadora assim decidiu a questão posta:
+"Quanto à ausência de intimação para apresentação de contrarrazões aos embargos de declaração, também não há como acolher a pretensão recursal, pois a intimação para contrarrazões em embargos declaratórios só é exigível quando houver potencial modificação da decisão embargada, nos termos do art. 1.023, §2º, do CPC. E, no caso em tela, é nítido que os embargos opostos pela exequente, aqui agravada, limitaram-se a sanar omissão processual e viabilizar a correta tramitação do cumprimento de sentença, não havendo efeito infringente com modificação de mérito apta a ensejar intimação específica da Fazenda Pública. Aliás, a ausência de apresentação de impugnação, mesmo após sucessivas intimações regulares, em verdade, caracteriza preclusão consumativa, inviabilizando a rediscussão posterior dos cálculos de liquidação. Além do mais, também nesse particular, como não houve qualquer demonstração de prejuízo efetivo decorrente da ausência de contrarrazões, é inviável falar-se em nulidade." (Acórdão no agravo de instrumento, documento eletrônico de ordem 150, págs. 9-10)
+Ora, além de a parte recorrente não ter infirmado de forma eficaz as apontadas razões de decidir, não logrando demonstrar o suposto desacerto da fundamentação constante do acórdão recorrido, especialmente quanto à aventada preclusão consumativa, eventual reforma do aresto implicaria, necessariamente, reexame do conjunto fático-probatório dos autos, de impossível análise na via eleita, o que impede o trânsito do recurso, nos termos do disposto nos Enunciados nos 283 e 7 das Súmulas do Supremo Tribunal Federal e do Superior Tribunal de Justiça, respectivamente.
+Por fim, pontue-se que o trânsito do recurso é igualmente inviável quanto ao pretenso dissenso pretoriano, visto que, conforme já assentou o Superior Tribunal de Justiça, "a incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, dado que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática de cada caso" (AgInt no AR Esp 2.732.008/RS, Rel. Min. Marco Aurélio Bellizze, D Je de 13/11/2024).
+Ante o exposto, com fundamento no art. 1.030, V, do CPC, inadmite-se o recurso.
+Em seu agravo, às fls. 739-762, a parte agravante defende que impugnou os fundamentos da decisão agravada reiterando os argumentos apresentados em seu recurso especial.
+É o relatório.
+A insurgência não pode ser conhecida.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se em três fundamentos distintos e concomitantes: (i) - aplicação do enunciado 283 da Súmula do STF, por "não ter infirmado de forma eficaz as apontadas razões de decidir, não logrando demonstrar o suposto desacerto da fundamentação constante do acórdão recorrido, especialmente quanto à aventada preclusão consumativa"; (ii) - incidência do enunciado 7 da Súmula do STJ, por demandar o reexame do conjunto fático-probatório dos autos, e (iii) - dissídio jurisprudencial prejudicado.
+Todavia, no seu agravo, a parte não infirmou adequadamente nenhum dos fundamentos supra citados, pois se limitou a reiterar os argumentos do seu recurso especial, de maneira que estes, à míngua de impugnação específica e pormenorizada, permanecem hígidos, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar a fundamentação do juízo de admissibilidade realizado pelo Tribunal de origem, a parte recorrente fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I , do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Nesse sentido:
+TRIB UTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno n ão provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do STJ, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intime-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, E 253, P. Ú, I, DO RISTJ. AGRAVO NÃO CONHECIDO.
