@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Reclamação ajuizada por José Carlos da Anunciação e outro apontando como autoridade reclamada o Ministro Luis Felipe Salomão, então Vice-Presidente do STJ, tendo como ato reclamado o seguinte despacho de Sua Excelência, proferido nos autos do EARESP 1131543/SP:
+1. Trata-se de petição de fls. 2-4 do expediente avulso, na qual se requer a remessa dos autos ao Supremo Tribunal Federal, "para apreciação do Agravo em Recurso Extraordinário" (fl. 3 do expediente avulso).
+A parte requerente alega que após a certificação do trânsito em julgado à fl. 5.645, os autos foram remetidos para o Tribunal de origem, apesar de ainda haver recurso extraordinário (fls. 3.935-3.950) e agravo em recurso extraordinário (fls. 4.666-4.684) a serem remetidos ao STF.
+2. Como se vê da certidão de fl. 5.645, foi certificado o trânsito em julgado do último provimento jurisdicional destes autos em 04/08/2025, não restando pendente de remessa ao STF qualquer recurso que tenha sido interposto perante o STJ.
+3. Ante o exposto, configurado o exaurimento da prestação jurisdicional, nada mais há que se possa apreciar.
+Arquivem-se eventuais novas manifestações, ficando dispensado o envio à Vice-Presidência e, conforme o caso, baixem-se ou arquivem-se os autos.
+Publique-se. Intimem-se.
+Narram os reclamantes que interpuseram, perante o Tribunal de Justiça do Estado de São Paulo (TJSP), Recurso Extraordinário (fls. 3.935/3.950) e, contra a decisão que lhe obstou seguimento, Agravo em Recurso Extraordinário (fls. 4.686/4.692), ambos com expressa destinação e dirigidos ao Supremo Tribunal Federal.
+Alegam que, após o encerramento do julgamento dos recursos de competência do Superior Tribunal de Justiça (EAREsp n. 1.131.543/SP), foi certificado o trânsito em julgado em 04/08/2025, com a subsequente determinação de baixa dos autos à origem, sem que o Recurso Extraordinário e o Agravo em Recurso Extraordinário fossem encaminhados ao Pretório Excelso.
+Noticiam que apresentaram petição perante a Vice-Presidência do STJ postulando o envio dos recursos ao STF, havendo o então Vice-Presidente, Ministro Luis Felipe Salomão, proferido decisão em 24/09/2025 no sentido de que não restaria pendente de remessa qualquer recurso interposto perante o STJ, com a determinação de arquivamento de novas manifestações.
+Afirmam a existência de equívoco procedimental nessa decisão, sustentando que os recursos constitucionais não foram interpostos perante o Superior Tribunal de Justiça, mas sim perante o Tribunal de Justiça estadual (origem), razão pela qual incide o comando do art. 1.031, § 1º, do Código de Processo Civil, segundo o qual, concluído o julgamento no STJ, os autos devem ser remetidos ao STF para apreciação dos recursos extraordinários que não estejam prejudicados.
+Salientam, ademais, que tais recursos aguardam julgamento há anos e que não houve qualquer juízo de prejudicialidade quanto a eles.
+Registram, por fim, que protocolaram nova petição avulsa em 31/08/2026, a qual restou liminarmente rejeitada pelo setor de protocolo em 01/09/2026 com base no art. 13, VI, da Resolução STJ/GP n. 16/2026 (processo baixado/remetido), justificando, assim, o ajuizamento da presente reclamação.
+Requerem, em síntese: (i) o recebimento da presente reclamação e o reconhecimento formal da existência e da ausência de prejudicialidade do Recurso Extraordinário e do respectivo Agravo; (ii) a observância do art. 1.031, § 1º, do CPC, com determinação à unidade competente do STJ para que proceda à imediata remessa dos autos ao Supremo Tribunal Federal; e (iii) subsidiariamente, a localização, certificação e vinculação dos referidos recursos, obstando-se nova baixa ou arquivamento antes de apreciada a remessa à Suprema Corte.
+É o relatório. Passo a decidir.
+Em que pese o presente feito tenha sido autuado como Reclamação, a hipótese dos autos não veicula pedido típico da reclamação prevista no art. 105, I, "f", da Constituição Federal ou no art. 988 do CPC/2015, visto que a Reclamação, no âmbito do STJ, constitui instrumento destinado à preservação da competência do tribunal (inciso I), a garantir a autoridade das decisões do tribunal (inciso II) e à observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência (inciso IV e § 4º).
+O caso dos autos, contudo, indica que se pretende o reconhecimento formal da existência e da ausência de prejudicialidade do Recurso Extraordinário e do respectivo Agravo, com determinação à unidade competente do STJ para que proceda à imediata remessa dos autos do EAREsp n. 1.131.543/SP ao Supremo Tribunal Federal.
+Verifica-se, contudo, que os autos do EAREsp n. 1.131.543/SP já foram baixados ao Tribunal de Justiça de origem.
+Em se tratando de processo baixado, o art. 13, VI, da Resolução STJ/GP n. 16 de fevereiro de 2026 determina que serão rejeitadas as petições que possuam natureza incidental e se refiram a processos já baixados ao tribunal de origem, a quem caberá deliberar sobre eventual solicitação de devolução dos autos ao Superior Tribunal de Justiça.
+Confira-se:
+Art. 13. Serão rejeitadas as petições que:
+I - tiverem sido encaminhadas por meio diverso do sistema de peticionamento oficial do Tribunal;
+II - não observarem os requisitos de forma ou de conteúdo exigidos para o peticionamento eletrônico;
+III - apresentarem falha técnica que impeça a identificação do peticionário ou a leitura dos arquivos transmitidos;
+IV - tiverem sido protocoladas em duplicidade;
+V - estiverem dirigidas expressamente a outro tribunal ou a órgão estranho ao Superior Tribunal de Justiça;
+VI - possuam natureza incidental e se refiram a processos já remetidos ao Supremo Tribunal Federal ou baixados à instância de origem, a quem caberá deliberar sobre eventual solicitação de devolução dos autos ao Superior Tribunal de Justiça;
+VII - estiverem subscritas por pessoa impedida de peticionar em juízo, seja em razão de irregularidade na inscrição nos quadros da Ordem dos Advogados do Brasil, no caso de advogado, seja por expressa determinação de autoridade judicial competente. (Grifei)
+Conclui-se, portanto, que o presente instrumento processual, de aplicação restrita, é inadequado para o fim almejado, devendo a providência ser requerida ao tribunal de origem, consoante o supracitado inciso VI do art. 13 da Resolução STJ/GP n. 16/2026.
+Ante o exposto, com fulcro no artigo 34, XVIII, do RISTJ, indefiro liminarmente a petição inicial e extingo o processo sem julgamento de mérito.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL . RECLAMAÇÃO. PRETENSÃO DE REMESSA DOS AUTOS DO EARESP N. 1.131.543/SP AO STF. HIPÓTESE NÃO ENQUADRADA NAQUELAS QUE AUTORIZAM O MANEJO DO P RESENTE INSTRUMENTO PROCESSUAL. RESOLUÇÃO STJ/GP N. 16/2026. PROVIDÊNCIA QUE DEVE SER SOLICITADA AO TRIBUNAL DE ORIGEM. INDEFERIMENTO DA PETIÇÃO INICIAL. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO.
