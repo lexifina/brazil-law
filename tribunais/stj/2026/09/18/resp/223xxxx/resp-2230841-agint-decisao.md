@@ -1,0 +1,16 @@
+DECISÃO
+Em  análise,  agravo  interno  interposto por HITACHI ENERGY BRASIL LTDA. E FILIAL(IS) contra a decisão que conheceu parcialmente do recurso especial e, nessa extensão, negou-lhe provimento (fls. 3.384-3.391).
+Argumenta a parte agravante, em síntese, que é necessário o sobrestamento do feito em razão da afetação do Tema 1445 da Repercussão Geral pelo Supremo Tribunal Federal (RE 1.566.336/MG), que impactaria diretamente a discussão acerca da incidência de contribuição previdenciária sobre o décimo terceiro salário proporcional devido na rescisão do contrato de trabalho (fls. 3.397-3.413).
+Sustenta, ainda, a inaplicabilidade dos óbices previstos nas Súmulas 7, 83 e 211/STJ, alegando, em síntese, a inexistência de jurisprudência dominante desta Corte Superior quanto a determinadas rubricas discutidas nos autos, a desnecessidade de reexame fático-probatório para análise da controvérsia relativa ao auxílio-moradia/ajuda-aluguel e a ocorrência de efetivo prequestionamento dos dispositivos legais apontados no recurso especial.
+Por fim, pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Como certificado nos autos, transcorreu in albis o prazo para impugnação (fl. 3.419).
+É o relatório.
+Decido.
+Com efeito, verifico que a controvérsia objeto do Tema 1445/STF - cuja questão submetida a julgamento é: "Incidência de contribuição previdenciária patronal sobre os valores pagos ao empregado a título de décimo terceiro salário proporcional ao aviso prévio indenizado" - guarda pertinência com uma das matérias discutidas nos presentes autos, notadamente a incidência de contribuição previdenciária sobre o décimo terceiro salário proporcional pago por ocasião da rescisão contratual.
+Nesse contexto, os recursos que tratam da mesma controvérsia neste Superior Tribunal de Justiça devem aguardar, no Tribunal recorrido, a solução da questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039, 1.040 e 1.041 do CPC/2015.
+Cumpre destacar que, de acordo com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que, eventualmente, não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo ou pelo novo pronunciamento do órgão julgador.
+Isso posto, em juízo de reconsideração, determino a devolução dos autos ao Tribunal recorrido para que o recurso permaneça suspenso até a publicação dos acórdãos paradigmas, nos termos do art. 1.037, II, do CPC/2015, observando-se, em seguida, o procedimento dos arts. 1.040 e 1.041 do CPC/2015.
+Advirto as partes que, na esteira da jurisprudência tranquila desta Corte, esta decisão possui recorribilidade limitada à demonstração do distinguishing, na forma do art. 1.037, §§ 9º e 10, IV, do CPC, sendo que não será conhecido eventual agravo interno ou pedido de reconsideração a pretender o julgamento do presente recurso especial.
+A oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Intimem-se.
+EMENTA
