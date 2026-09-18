@@ -1,0 +1,132 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribuna Superior do Trabalho
+PROCESSO Nº TST-Ag-Emb-Ag-AIRR - 1001523-14.2020.5.02.0013
+A C Ó R D Ã O
+SDI-1
+CMB/lt/htgp
+AGRAVO INTERNO EM EMBARGOS EM AGRAVO EM AGRAVO DE
+INSTRUMENTO EM RECURSO DE REVISTA. INTERPOSIÇÃO NA
+VIGÊNCIA DA LEI Nº 13.467/2017. DECISÃO DO MINISTRO
+PRESIDENTE DA TURMA QUE DENEGOU SEGUIMENTO AOS
+EMBARGOS DA PARTE AUTORA POR INCIDÊNCIA DO ÓBICE DA
+SÚMULA Nº 353 DESTE TRIBUNAL. Merece ser mantida a
+decisão singular que denegou seguimento aos embargos,
+porquanto o acórdão embargado, após análise dos
+pressupostos intrínsecos de admissibilidade do recurso de
+revista previstos no artigo 896 da CLT, negou provimento ao
+agravo de instrumento. Aplicou-se, portanto, na espécie o óbice
+da Súmula nº 353 deste Tribunal, uma vez que, ao contrário do
+que afirma a parte agravante, a hipótese dos autos não está
+contemplada nas exceções nela estabelecidas. Tampouco se
+cogita da hipótese prevista no artigo 258, parágrafo único, do
+Regimento Interno deste Tribunal, com a redação dada pela
+Emenda Regimental nº 7, de 25 de novembro de 2024, tendo em
+vista não se tratar de decisão de Turma proferida em agravo
+interno e agravo de instrumento que contraria precedentes
+obrigatórios firmados em julgamento de incidentes de assunção
+de competência, de demandas repetitivas ou de recursos
+repetitivos, do Tribunal Superior do Trabalho, ou de repercussão
+geral do Supremo Tribunal Federal. Pertinente o referido óbice,
+impõe-se a multa prevista nos artigos 81 do Código de Processo
+Civil e 793-C da CLT, porquanto claramente caracterizado o
+intuito protelatório da medida intentada, na esteira de julgados
+oriundos deste Órgão uniformizador. Agravo interno
+conhecido e não provido.
+Vistos, relatados e discutidos estes autos de Agravo em Embargos em Agravo em
+Agravo de Instrumento em Recurso de Revista nº TST-Ag-Emb-Ag-AIRR - 1001523-14.2020.5.02.0013,
+em que é Agravante LEONARDO APARECIDO DE CALDAS e é Agravado BANCO SANTANDER (BRASIL)
+S.A..
+O Ministro Presidente da Egrégia 6ª Turma deste Tribunal negou seguimento aos
+embargos, por incabíveis, com fundamento na Súmula nº 353 do TST.
+Contra essa decisão, a parte autora interpõe o presente agravo interno. Requer o
+provimento deste apelo para o regular exame dos embargos por esta Subseção. Sustenta que o seu
+recurso se enquadra no artigo 894, II, da CLT.
+Impugnação aos embargos apresentada.
+Dispensada a remessa dos autos ao Ministério Público do Trabalho, nos termos
+do artigo 95, § 2º, II, do Regimento Interno do Tribunal Superior do Trabalho.
+É o relatório.
+V O T O
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100682DD216C605C26.
+CONHECIMENTO
+Atendidos os pressupostos extrínsecos de admissibilidade relativos à
+tempestividade e à representação processual, conheço do agravo interno.
+MÉRITO
+O Ministro Presidente da Egrégia 6ª Turma deste Tribunal negou seguimento aos
+embargos interpostos pela parte autora, ao fundamento de que incide o óbice da Súmula nº 353 do TST.
+A parte agravante entende que os seus embargos estão enquadrados no artigo
+984, II, da CLT.
+Sustenta que se impõe o provimento do presente agravo para determinar o
+julgamento dos embargos por esta Subseção.
+Não há reparos a fazer na decisão ora agravada.
+Com efeito, quando manifesto o não cabimento, como na hipótese dos autos,
+pode a Presidência da Turma negar-lhe seguimento, consoante autoriza o Regulamento Interno deste
+Tribunal Superior.
+Frise-se, por oportuno, que a admissibilidade dos recursos está condicionada,
+primeiramente, à satisfação, pelo recorrente, dos pressupostos extrínsecos e somente depois será
+examinado o atendimento dos intrínsecos previstos para cada modalidade recursal.
+No presente caso, a denegação de seguimento pela decisão singular foi
+fundamentada no entendimento consubstanciado na Súmula nº 353 deste Tribunal, diante da ausência
+do requisito extrínseco referente à adequação, o que impossibilitou o exame dos seus pressupostos
+intrínsecos. Eis o teor do referido verbete:
+“Não cabem embargos para a Seção de Dissídios Individuais de decisão de Turma proferida em
+agravo, salvo:
+a) da decisão que não conhece de agravo de instrumento ou de agravo pela ausência de
+pressupostos extrínsecos;
+b) da decisão que nega provimento a agravo contra decisão monocrática do Relator, em que se
+proclamou a ausência de pressupostos extrínsecos de agravo de instrumento;
+c) para revisão dos pressupostos extrínsecos de admissibilidade do recurso de revista, cuja
+ausência haja sido declarada originariamente pela Turma no julgamento do agravo;
+d) para impugnar o conhecimento de agravo de instrumento;
+e) para impugnar a imposição de multas previstas nos arts. 1.021, § 4º, do CPC de 2015 ou
+1.026, § 2º, do CPC de 2015 (art. 538, parágrafo único, do CPC de 1973, ou art. 557, § 2º, do CPC de
+1973).
+f) contra decisão de Turma proferida em agravo em recurso de revista, nos termos do art. 894,
+II, da CLT”.
+De fato, a Egrégia Turma negou provimento ao agravo com base no exame dos
+pressupostos intrínsecos do recurso de revista, consoante se observa da ementa abaixo transcrita, no
+que tange à matéria objeto do recurso de embargos:
+“AGRAVO EM AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA SOB A ÉGIDE DA LEI
+13.467/2017. GRATIFICAÇÃO ESPECIAL. PAGAMENTO POR OCASIÃO DA RESCISÃO CONTRATUAL.
+PRINCÍPIO DA ISONOMIA. SÚMULA 126 DO TST. TRANSCENDÊNCIA PREJUDICADA. A Corte Regional
+concluiu que não houve violação ao princípio da isonomia, porquanto, no caso dos autos, não há
+provas de que outros empregados receberam a tal gratificação ao tempo em que o reclamante foi
+demitido. Assim, não existe suporte fático para acolher o pleito de pagamento de gratificação
+especial na rescisão, por ofensa ao princípio da isonomia, nos moldes formulados pelo obreiro.
+Ademais, a decisão regional está em consonância com o entendimento desta Corte no sentido de
+que a parcela gratificação especial é indevida quando constatado que não houve o seu pagamento a
+empregados nas mesmas condições do requerente. Precedentes. Agravo não provido.”
+Tampouco se cogita da hipótese prevista no artigo 258, parágrafo único, do
+Regimento Interno deste Tribunal, com a redação dada pela Emenda Regimental nº 7, de 25 de
+novembro de 2024, tendo em vista não se tratar de decisão de Turma proferida em agravo interno e
+agravo de instrumento que contraria precedentes obrigatórios firmados em julgamento de incidentes
+de assunção de competência, de demandas repetitivas ou de recursos repetitivos, do Tribunal Superior
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100682DD216C605C26.
+do Trabalho, ou de repercussão geral do Supremo Tribunal Federal.
+Ressalte-se, por fim, que esta Subseção já firmou seu posicionamento no sentido
+de que a interposição de agravo contra decisão que nega seguimento a recurso de embargos, por
+incabível, revela intuito protelatório, nos termos dos artigos 80, inciso VII, do Código de Processo Civil e
+793-B da CLT e, assim, determina a aplicação da multa prevista nos artigos 81 e 793-C dos respectivos
+diplomas legais.
+Nesse sentido, citem-se os seguintes precedentes: Ag-E-Ag-AIRR-74100-
+89.2009.5.04.0351, Subseção I Especializada em Dissídios Individuais, Relator Ministro Alexandre Luiz
+Ramos, DEJT 10/02/2023; Ag-E-Ag-AIRR-1001849-73.2015.5.02.0263, Subseção I Especializada em Dissídios
+Individuais, Relator Ministro Hugo Carlos Scheuermann, DEJT 01/02/2023; Ag-E-ED-AIRR-447-
+56.2020.5.21.0008, Subseção I Especializada em Dissídios Individuais, Relatora Ministra Maria Cristina
+Irigoyen Peduzzi, DEJT 01/02/2023; Ag-E-Ag-AIRR-848-61.2020.5.10.0105, Subseção I Especializada em
+Dissídios Individuais, Relator Ministro Breno Medeiros, DEJT 01/02/2023; Ag-E-AIRR-10667-
+31.2014.5.18.0001, Subseção I Especializada em Dissídios Individuais, Relator Ministro Jose Roberto
+Freire Pimenta, DEJT 09/12/2022.
+Ante o exposto, nego provimento ao agravo interno.
+ISTO POSTO
+ACORDAM os Ministros da Subseção I Especializada em Dissídios Individuais do
+Tribunal Superior do Trabalho, por unanimidade, conhecer do agravo interno, no mérito, negar-lhe
+provimento e, em face do intuito protelatório da medida intentada, impor a parte agravante multa de
+dois por cento sobre o valor atualizado da causa, nos termos dos artigos 81 do Código de Processo Civil e
+793-C da CLT, porquanto claramente caracterizado o intuito protelatório da medida intentada.
+Brasília, 16 de setembro de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+CLÁUDIO BRANDÃO
+Ministro Relator
+Firmado por assinatura digital em 30/09/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100682DD216C605C26.
