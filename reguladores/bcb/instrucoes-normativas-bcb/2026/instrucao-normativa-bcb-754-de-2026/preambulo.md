@@ -1,0 +1,4 @@
+Resolução Nº 222 INSTRUÇÃO NORMATIVA BCB Nº 754, DE 1º DE JULHO DE 2026
+Altera a Instrução Normativa BCB nº 330, de 24 de novembro de 2022, que consolida os procedimentos para o registro de informações cadastrais no Sistema de Informações sobre Entidades de Interesse do Banco Central – Unicad, de que trata a Resolução BCB nº 209, de 22 de março de 2022.
+O Chefe do Departamento de Monitoramento do Sistema Financeiro – Desig, no uso da atribuição que lhe confere o art. 23, inciso I, alínea “a”, do Regimento Interno do Banco Central do Brasil, divulgado por meio da Resolução BCB nº 340, de 21 de setembro de 2023, com base no art. 85, inciso I, alínea “b”, do referido Regimento, tendo em vista o disposto na Resolução Conjunta nº 16, de 28 de novembro de 2025, na Resolução CMN nº 4.557, de 23 de fevereiro de 2017, e nas Resoluções BCB ns. 209, de 22 de março de 2022, 265, de 25 de novembro de 2022, e 517, de 3 de novembro de 2025,
+R E S O L V E :
