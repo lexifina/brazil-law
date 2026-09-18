@@ -1,0 +1,39 @@
+EMBARGOS DE DECLARAÇÃO EM DECISÃO MONOCRÁTICA. PENHORA NO ROSTO DOS AUTOS E CONVERSÃO EM RENDA DE VALORES DECORRENTES DE RPV. ALEGAÇÃO DE AFRONTA AO TEMA 558-RG E DE OFENSA DIRETA À CARTA MAGNA. MATÉRIA DEVIDAMENTE ENFRENTADA. INCIDÊNCIA DA SÚMULA 279/STF E DO TEMA 660-RG. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+    1. O recurso de embargos de declaração não é meio adequado para a rediscussão da matéria em decorrência de inconformismo do embargante.
+2. No caso, não foram observados os requisitos próprios do recurso (art. 1.022, I, II e III, do CPC), uma vez que inexiste omissão, contradição, obscuridade ou erro material na decisão embargada.
+3. Embargos de declaração rejeitados.
+
+DECISÃO: Trata-se de embargos de declaração opostos de decisão monocrática  pela qual foi negado seguimento ao recurso extraordinário com agravo.
+Em suas razões recursais, as embargantes sustentam a existência de omissão no pronunciamento monocrático. Alegam, em suma, que: (i) a decisão embargada partiu da premissa equivocada de que o debate cingir-se-ia à penhora no rosto dos autos, deixando de analisar o argumento central relativo à conversão em renda dos valores requisitados, o que conferiria caráter satisfativo à medida e atrairia a incidência do Tema 558 da Repercussão Geral (RE 678.360/RS); e (ii) a apontada violação aos artigos 2º e 5º, LIV e LV, da Constituição Federal possui caráter direto e autônomo, decorrente de suposta atuação jurisdicional fora dos parâmetros da execução fiscal, o que afastaria o óbice da Súmula 279/STF. Requerem o acolhimento dos aclaratórios com efeitos infringentes.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração são cabíveis “contra qualquer decisão judicial” nos casos de obscuridade, contradição ou omissão da decisão impugnada, bem como correção de eventual erro material. Admitindo-se, conforme o art. 1.024, § 2º, o enfrentamento monocrático quando “opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal”.
+Com base nesses permissivos legais, procedo à apreciação singular destes aclaratórios.
+Não se constatam, entretanto, quaisquer dos referidos vícios.
+De início, realço que foram devidamente explicitadas as razões de decidir e enfrentadas as questões necessárias e suficientes ao deslinde da controvérsia, consideradas, a teor do art. 489, IV, do CPC/2015, bem como da jurisprudência desta Corte, aquelas assertivas recursais capazes de, em tese, infirmar a conclusão adotada pelo julgador. Precedentes: AR 2374 AgR-ED, Tribunal Pleno, Relator Min. Teori Zavascki, DJe 15.9.2016 e ARE 919777 AgR-ED, Tribunal Pleno, Relator Min. Ricardo Lewandowski (Presidente), DJe 21.9.2016.
+Por conseguinte, reputo desatendidos os pressupostos de embargabilidade, consoante o art. 1022 do CPC.
+Na espécie, a decisão embargada examinou de forma clara, suficiente e coerente todas as questões relevantes postas em julgamento.
+Restou expressamente consignado que a hipótese dos autos não guarda correlação com a tese fixada no Tema 558-RG (RE 678.360/RS). Com efeito, o paradigma vinculante citado declarou a inconstitucionalidade da compensação unilateral, compulsória e automática de débitos tributários com créditos de precatórios realizada administrativamente pela Fazenda Pública antes da expedição do título (antigos §§ 9º e 10 do art. 100 da CF, incluídos pela EC 62/2009).
+No presente caso, contudo, a constrição e a ulterior destinação de valores foram determinadas pelo Poder Judiciário, em sede executiva e com fulcro no art. 860 do CPC, a requerimento formulado perante os juízos das execuções fiscais competentes.
+Ademais, a decisão embargada enfrentou especificamente a questão da conversão dos valores em renda, assentando textualmente que:
+
+“[...] para dissentir das premissas fáticas e conclusões delineadas no acórdão recorrido, notadamente para aferir se os montantes convertidos em renda consubstanciavam indevida satisfação direta do crédito cobrado nos autos da execução fiscal correlata ou se decorreram de mero acerto de contas relativo aos honorários sucumbenciais do CCHA nos limites do próprio cumprimento de sentença, ou, ainda, se a constrição violou a ordem procedimental das instâncias originárias, seria indispensável o revolvimento da moldura fática delineada, bem como a análise da legislação infraconstitucional aplicável (Código de Processo Civil e Lei nº 6.830/1980), o que torna oblíqua e reflexa eventual ofensa”.
+
+Nesse contexto, afasta-se a alegação de ofensa constitucional direta aos artigos 2º e 5º, LIV e LV, da Carta Política. A verificação de suposta extrapolação dos limites do processo de conhecimento em relação ao rito executivo fiscal dependeria, inafastavelmente, do prévio cotejo com a legislação processual infraconstitucional e da reanálise das circunstâncias fáticas dos atos expropriatórios praticados na origem, circunstâncias que atraem, de modo imperioso, a incidência da Súmula 279/STF e da diretriz sufragada no Tema 660 da Repercussão Geral (ARE 748.371-RG).
+Inexistindo omissão, obscuridade, contradição ou erro material na decisão recorrida, a rejeição dos embargos de declaração é medida de rigor, sendo vedada a pretensão de atribuir eficácia infringente para rediscutir matérias devidamente solvidas.
+Com efeito, os embargos de declaração não se prestam à rediscussão do mérito assentado no julgado, em decorrência de mero inconformismo da parte com o desfecho da demanda. Nesse sentido:
+
+“Direito constitucional e administrativo. Embargos de declaração em recurso ordinário em mandado de segurança. Revisão de concessão de anistia. Inovação recursal. Pretensão infringente nos embargos. Ausência de omissão. 1. Embargos de declaração opostos contra acórdão em que a Primeira Turma negou provimento a agravo interno em recurso ordinário em mandado de segurança, em vista de inovação recursal ao ser interposto o recurso ordinário. 2. Não há erro, obscuridade, contradição ou omissão no acórdão questionado, o que afasta a presença dos pressupostos de embargabilidade, conforme o art. 1.022 do CPC/2015. 3. Embargos de declaração rejeitados.” (RMS 39232-AgR-ED, Rel. Min. Luís Roberto Barroso, 1ª Turma, DJe 18.10.2023)
+
+“EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PRETENSÃO DE ANÁLISE DE CONTROVÉRSIA QUE NÃO FOI OBJETO DO ACÓRDÃO PROFERIDO PELO SUPERIOR TRIBUNAL DE JUSTIÇA. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. INEXISTÊNCIA DE VÍCIOS DE FUNDAMENTAÇÃO NO ACÓRDÃO EMBARGADO. EMBARGOS DE DECLARAÇÃO REJEITADOS. 1. O acórdão embargado contém fundamentação apta e suficiente a resolver todos os pontos apresentados. 2. A apresentação de fundamentos apenas em sede de recurso ordinário, sem que tenha ocorrido debate em momento processual anterior pelo Superior Tribunal de Justiça, configura inovação recursal insuscetível de apreciação pela CORTE (RMS 33.675-ED-AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 09/10/2020). 3. Ausentes omissão, contradição, obscuridade ou erro material no julgado, não há razão para qualquer reparo. 4. Embargos de Declaração rejeitados.” (RMS 39252-AgR-ED, Rel. Min. Alexandre De Moraes, 1ª Turma, DJe 04.10.2023)
+
+Por todo o exposto, constata-se que a parte embargante busca indevidamente o rejulgamento do feito, o que não é admitido na via estreita dos embargos de declaração.
+Considerando a inexistência de quaisquer dos vícios do art. 1.022 do CPC, rejeito os embargos de declaração.
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+
+Brasília, 18 de setembro de 2026.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
