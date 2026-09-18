@@ -1,0 +1,37 @@
+DECISÃO
+Examina-se recurso especial interposto por CARLA JAMILA LOPES FRANKE, WILLIAM DA FONSECA LEMES, fundamentado, exclusivamente, na alínea "a" do permissivo constitucional..
+Recurso especial interposto em:22/6/2026.
+Concluso ao gabinete em: 15/9/2026
+Ação: de revisão de contrato bancário, ajuizada por TADEU AUGUSTO ABDUCH DA ROCHA, em face de FACTA FINANCEIRA S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO, na qual requer a revisão do contrato de empréstimo consignado e a repetição do indébito.
+Sentença: julgou improcedentes os pedidos formulados por TADEU AUGUSTO ABDUCH DA ROCHA em face de FACTA FINANCEIRA S. A. CREDITO, FINANCIAMENTO E INVESTIMENTO. (e-STJ fls. 146-147)
+Acórdão: manteve a decisão unipessoal do Relator que deu provimento ao recurso de apelação interposto por TADEU AUGUSTO ABDUCH DA ROCHA, nos termos da seguinte ementa:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. HONORÁRIOS ADVOCATÍCIOS. DECISÃO EXTRA PETITA. INEXISTÊNCIA. RECURSO DESPROVIDO.
+I. CASO EM EXAME: 1. Agravo interno interposto contra decisão monocrática que apreciou recurso de apelação, o qual foi interposto contra sentença que julgou improcedente a ação de revisão de contrato bancário. A parte agravante busca a reforma da decisão que alterou de ofício os honorários advocatícios  xados em sentença.
+II. QUESTÃO EM DISCUSSÃO: 1. Há duas questões em discussão: (i) preliminar de ofensa ao princípio da dialeticidade recursal; (ii) mérito quanto à alegação de decisão extra petita na fixação dos honorários advocatícios.
+III. RAZÕES DE DECIDIR: 1. A preliminar de ofensa ao princípio da dialeticidade recursal foi rejeitada, pois a parte recorrente impugnou adequadamente os fundamentos da sentença, atendendo aos requisitos do art. 1.010 do CPC. 2. A alegação de decisão extra petita na  xação dos honorários advocatícios não merece acolhida, pois a decisão monocrática agiu dentro da discricionariedade legal ao  xar os honorários por apreciação equitativa, valor proporcional ao proveito econômico e ao trabalho realizado pelo advogado, conforme o art. 85, § 2º e § 8º, do CPC. 3. A decisão recorrida não foi extra petita, pois ao reformar a sentença, o tribunal recursal refaz a  xação dos honorários com base no trabalho realizado em primeira instância e na fase recursal.
+IV. DISPOSITIVO E TESE: 1. Preliminar rejeitada. Recurso desprovido.
+_____ Dispositivos relevantes citados: CPC, arts. 85, §2º, §8º, 1.010, 1.021, §4º. Jurisprudência relevante citada: STJ, REsp 1746072/PR, Rel. Min. Nancy Andrighi, Rel. p/ Acórdão Min. Raul Araújo, j. 13.02.2019.
+(e-STJ fls. 239-240)
+Recurso especial: alega violação dos arts. 85, § 2º, e § 8º, do CPC. Afirma que a verba honorária deve observar percentuais entre 10% e 20% sobre a condenação, o proveito econômico ou o valor atualizado da causa. Aduz que não se aplica a apreciação equitativa porque o valor da causa é expressivo e o proveito econômico é mensurável. Argumenta que a fixação em R$ 1.000,00 (mil reais) corresponde a percentual inferior ao mínimo legal. Assevera que há erro fático quanto ao valor do contrato mencionado no acórdão. (e-STJ fls. 243 -248)
+RELATADO O PROCESSO, DECIDE-SE.
+I. Dos honorários advocatícios sucumbenciais
+Em relação aos honorários, o TJ/RS assim decidiu (e-STJ fls. 235-238):
+" ..
+Deste modo, a regra geral obrigatória é que os honorários sejam fixados sobre o valor da condenação, do proveito econômico obtido ou sobre o valor atualizado da causa.
+No caso em tela, como bem observado na decisão embargada, quando o juízo a quo julga improcedente a ação, é devolvida à segunda instância toda a matéria alegada pelas partes, quer na inicial, quer na contestação, segundo orientação do Superior Tribunal de Justiça.
+O fato da sentença ter fixado os honorários advocatícios sobre o valor da causa não vincula esse grau de jurisdição a fixar o mesmo valor.
+Ademais, o valor arbitrado (R$ 1.000,00), por apreciação equitativa, está dentro do patamar adotado por esse Colegiado em situações similares, além de guardar proporcionalidade com o proveito econômico em lide e com o trabalho realizado pelo advogado da parte autora, não se constituindo de natureza vil ou insuficiente para remuneração do ilustre advogado.
+Importante ressaltar que a decisão não foi extra petita, mas agiu dentro da discricionariedade legal para remunerar adequadamente o profissional, considerando as particularidades da demanda.
+ .. "
+Contudo, a jurisprudência do STJ orienta que a fixação dos honorários deve seguir a seguinte ordem de preferência: "i) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); ii) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: II. a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou II. b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º)" (REsp 1.746.072/PR, Segunda Seção, DJe de 29/3/2019).
+Importante ressaltar que esta Corte, em julgamento sob o rito dos repetitivos, fixou a tese de que "apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo" (REsp 1.850.512/SP, Corte Especial, DJe 31/5/2022, Tema 1076), não sendo essa a hipótese em exame.
+Infere-se, portanto, que o acórdão recorrido, ao fixar o arbitramento dos honorários pelo critério equitativo, está em desconformidade com a jurisprudência desta Corte Superior.
+O acórdão recorrido, portanto, merece reforma neste ponto.
+Forte nessas razões, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, a fim de determinar que o TJ/RS promova o arbitramento da verba honorária à luz do entendimento firmado que reflete a jurisprudência desta Corte Superior.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. Ação de revisão de contrato bancário. REQUISITOS. HONORÁRIOS DE SUCUMBÊNCIA. FIXAÇÃO POR APRECIAÇÃO EQUITATIVA. ART. 85, § 2º, DO CPC/15. ORDEM DE GRADAÇÃO. ENTENDIMENTO DO ACÓRDÃO RECORRIDO EM DISSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.
+1. Ação de revisão de contrato bancário.
+2. Segundo o entendimento do STJ, a mera dissolução irregular da sociedade e a ausência de pagamento de credores não autorizam, por si só, a desconsideração da personalidade jurídica, sendo necessária a prova da confusão patrimonial ou o desvio da finalidade societária. Precedentes.
+3. Além disso, para a fixação dos honorários sucumbenciais, estabelece-se a seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II.a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II.b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º). Precedente.
+4. Recurso especial conhecido e provido.
