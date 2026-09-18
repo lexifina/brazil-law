@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interno interposto por ESTADO DE MINAS GERAIS contra decisão monocrática que negou provimento ao recurso especial.
+Rememora-se que o apelo nobre foi interposto contra acórdão assim ementado:
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ATO JUDICIAL QUE REJEITA A IMPUGNAÇÃO, HOMOLOGA OS CÁLCULOS DO VALOR DEVIDO, CONDENA O DEVEDOR AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA E DETERMINA A EXPEDIÇÃO DE PRECATÓRIO. NATUREZA DE SENTENÇA. RECURSO CABÍVEL. APELAÇÃO CÍVEL. INADEQUAÇÃO DA VIA ELEITA. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE. INAPLICABILIDADE. RECURSO NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Agravo de Instrumento aviado pelo Estado de Minas Gerais contra decisão proferida no cumprimento de sentença que rejeitou a impugnação do executado, homologou os cálculos do valor devido, fixou honorários advocatícios de sucumbência e determinou a expedição de precatório.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir se é cabível o Agravo de Instrumento contra decisão que, em fase de cumprimento de sentença, rejeita impugnação, homologa cálculos e determina a expedição de precatório, ou se o recurso adequado é o de Apelação Cível.
+III. RAZÕES DE DECIDIR
+3. A decisão recorrida, ao rejeitar a impugnação ao cumprimento de sentença, homologar o valor devido e determinar a expedição de precatório, encerra a fase executiva, possuindo natureza de sentença nos termos do art. 487 do CPC/2015.
+4. De acordo com a jurisprudência consolidada do Superior Tribunal de Justiça, o recurso cabível contra decisão que homologa cálculos e determina expedição de precatório é a Apelação, e não o Agravo de Instrumento.
+5. O equívoco na escolha da via recursal, quando manifesta a inadequação, configura erro grosseiro e impede a aplicação do princípio da fungibilidade recursal.
+IV. DISPOSITIVO E TESE
+6. Recurso não conhecido. Teses de julgamento: A decisão que, no cumprimento de sentença, homologa cálculos e determina expedição de precatório possui natureza de sentença, sendo atacável pelo recuso de Apelação Cível.
+Dispositivos relevantes citados: CPC/2015, arts. 1.007, §1º; 1.015, par. ún.; 203, §1º; 487.
+Jurisprudência relevante citada: STJ, AgInt no REsp 2.089.713/MA, Rel. Min. Francisco Falcão, Segunda Turma, j. 04/12/2024; TJMG, Apelação Cível 1.0000.24.355792-3/002, Rel. Des. Renan Chaves Carreira Machado, j. 30/09/2025; TJMG, Apelação Cível 1.0000.25.186132-4/001, Rel. Des. Sandra Fonseca, j. 26/08/2025.
+É o relatório. Decido.
+A matéria deduzida no presente recurso especial, qual seja, 1) Definir a natureza jurídica do pronunciamento judicial que julga impugnação ao cumprimento de sentença, homologa os cálculos e determina a expedição de precatório/RPV; 2) Definir as hipóteses de aplicação do princípio da fungibilidade aos recursos interpostos contra esses pronunciamentos judiciais, foi afetada para julgamento sob a sistemática dos recursos especiais repetitivos, no REsp n. 2.269.091/PE (Tema 1458).
+Diante disso, torna-se impositiva a suspensão dos feitos pendentes que tratem da mesma matéria, nos termos do art. 1.036 do CPC/2015.
+Por sua vez, os arts. 1.040 e 1.041, ambos do CPC/2015, dispõem sobre a atuação do Tribunal de origem após o julgamento do recurso extraordinário submetido ao regime de repercussão geral ou do recurso especial submetido ao regime dos recursos repetitivos.
+De acordo com tais dispositivos, há a previsão da negativa de seguimento dos recursos, da retratação do órgão colegiado para alinhamento das teses ou, ainda, a manutenção do acórdão divergente, com a remessa dos recursos aos Tribunais correspondentes.
+Nesse panorama, cabe ao Ministro Relator, no Superior Tribunal de Justiça, determinar a devolução dos autos ao Tribunal de origem para que, após o julgamento do paradigma, seja reexaminado o acórdão recorrido e realizada a superveniente admissibilidade do recurso especial.
+O referido entendimento restou assentado no art. 34, XXIV, do Regimento Interno do Superior Tribunal de Justiça, com a atribuição de competência ao relator para "determinar a devolução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis".
+Neste sentido, destacam-se os julgados: AgInt no REsp 1646935/PE, Rel. Min. SÉRGIO KUKINA, DJe 09/04/2018, EDcl no AgInt no REsp 1478016/SP, Rel. Min. BENEDITO GONÇALVES, DJe 06/04/2018, AREsp 751.282/PB, Rel. Min. HUMBERTO MARTINS, DJe 10/09/2015; AREsp 877.159/MG, Rel. Min. ASSUSETE MAGALHÃES, DJe 06/04/2016; bem assim os precedentes abaixo, cujos excertos transcreve-se:
+ ..
+Verifico que a matéria versada no apelo foi submetida a julgamento no rito dos recursos repetitivos (RESP 1.201.993/SP, que cuida do tema: "prescrição para o redirecionamento da Execução Fiscal, no prazo de cinco anos, contados da citação da pessoa jurídica ").
+Em tal circunstância, deve ser prestigiado o escopo perseguido na legislação processual (Lei 11.672/2008), isto é, a criação de mecanismo que oportunize às instâncias de origem o juízo de retratação na forma do art. 543-C, § 7º, e 543-B, § 3º, do CPC; e 1040 e seguintes do CPC/2015, conforme o caso.
+ ..
+Pelo exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 543-B, § 3º, e 543-C, §§ 7º e 8º, do CPC; e 1040 e seguintes do CPC/2015 e, após a publicação do acórdão do respectivo recurso excepcional representativo da controvérsia:
+a) denegue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou
+b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo. (REsp 1633320/SC, Rel. Min. HERMAN BENJAMIN, Dje 07/11/2016)."
+"O Superior Tribunal de Justiça, no REsp 1.201.993/MG de relatoria do Min. Herman Benjamin (DJe de 25.10.2010), submeteu à Primeira Seção/STJ a questão relativa ao termo inicial da prescrição pra o redirecionamento da execução fiscal para o sócio-gerente, a fim de que tal recurso seja julgado na forma dos recursos repetitivos.
+A admissão de recurso especial como representativo da controvérsia impõe que os recursos interpostos (na Corte de origem), que tratem da mesma questão central, fiquem suspensos até o pronunciamento definitivo deste Tribunal.
+Posteriormente, tais recursos devem ter seguimento negado (na hipótese de o acórdão recorrido coincidir com a orientação do Superior Tribunal de Justiça) ou devem ser novamente examinados pelo Tribunal de origem (na hipótese de o acórdão recorrido divergir da orientação do Superior Tribunal de Justiça).
+Assim, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após publicado o acórdão relativo ao recurso representativo da controvérsia, o recurso especial seja submetido ao procedimento acima referido.
+Consequentemente, torno sem efeito a decisão de fls. 510/513 e julgo prejudicado o agravo interno de fls. 517/525.
+(AgInt no AREsp 970052/PB, Rel. Min. MAURO CAMPBELL MARQUES, DJe 4/11/2016)."
+Ante o exposto, reconsidero a decisão agravada, tornando-a sem efeito, e julgo prejudicado o recurso especial, determinando-se a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão do respectivo recurso especial representativo da controvérsia, em conformidade com a previsão do art. 1.040, c.c. o §2º do art. 1.041, ambos do CPC/2015: a) na hipótese da decisão recorrida coincidir com a orientação do Superior Tribunal de Justiça, seja negado seguimento ao recurso especial ou encaminhado a esta Corte Superior para a análise das questões que não ficaram prejudicadas; ou b) caso o acórdão recorrido contrarie a orientação do Superior Tribunal de Justiça, seja exercido o juízo de retratação e considerado prejudicado o recurso especial ou encaminhado a esta Corte Superior para a análise das questões que não ficaram prejudicadas; ou c) finalmente, mantido o acórdão divergente, o recurso especial seja remetido ao Superior Tribunal de Justiça.
+Anote-se a retirada de pauta.
+Publique-se. Intime-se.
+EMENTA
