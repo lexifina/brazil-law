@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interno interposto pela Fazenda Nacional da decisão de fls. 737/740 que não conheceu do agravo em recurso especial.
+Nas razões recursais, a parte agravante alega:
+(a) suspensão do processo até o julgamento do Tema 1.416/STJ, com devolução dos autos ao Tribunal de origem, nos termos do art. 256-L do Regimento Interno do Superior Tribunal de Justiça;
+(b) inaplicabilidade do entendimento do Embargos de Divergência em Recurso Especial 1.517.492/PR para o regime jurídico anterior à Lei 14.789/2023, com necessidade de exame à luz do art. 30 da Lei 12.973/2014 e dos arts. 9 e 10 da Lei Complementar 160/2017; e
+(c) apresentação de razões para revisão do precedente do EREsp 1.517.492/PR, incluindo: ausência de violação à imunidade recíproca e ao pacto federativo; natureza de receita dos créditos presumidos na esfera do contribuinte; exigência de cumprimento de requisitos do art. 30 da Lei 12.973/2014 para caracterização como subvenção para investimento; e risco de subordinação da política tributária federal às decisões estaduais.
+Requer a reconsideração da decisão agravada ou a apreciação do recurso pelo órgão colegiado competente.
+A parte adversa Moinho Paulista Ltda. apresentou impugnação às fls. 757/767.
+É o relatório.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.416), e foi assim delimitada:
+Definir se os créditos presumidos do Imposto sobre Circulação de Mercadorias e Serviços - ICMS, concedidos pelos Estados-membros como incentivo fiscal à pessoa jurídica, podem ser excluídos das bases de cálculo do Imposto sobre a Renda de Pessoa Jurídica - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL, nos regimes jurídicos anterior e posterior à Lei n. 14.789/2023. " (REsp 2.171.374/RS, REsp 2.188.282/PR, REsp 2.188.361/RS, REsp 2.221.127/PE relatora Ministra Regina Helena Costa).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+O envio do recurso especial a esta Corte Superior deve ocorrer somente após o esgotamento da instância ordinária, formalizado com o novo julgamento pelo Tribunal de origem, quando então será possível examinar, no âmbito do STJ, as matérias jurídicas que eventualmente permanecerem controvertidas. Essa cautela também evita o fracionamento do recurso e previne eventual violação ao princípio da unicidade recursal, que veda a interposição simultânea ou sucessiva de recursos contra a mesma decisão.
+Ante o exposto, reconsidero a decisão agravada e determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos de controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+EMENTA
