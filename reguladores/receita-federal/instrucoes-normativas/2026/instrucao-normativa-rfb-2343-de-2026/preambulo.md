@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2343, de 17 de setembro de 2026
+Altera a Instrução Normativa RFB nº 1.700, de 14 de março de 2017, para adequar as regras relativas aos serviços hospitalares e ao tratamento tributário de perdas em créditos de instituições financeiras.
+A SECRETÁRIA ESPECIAL DA RECEITA FEDERAL DO BRASIL, SUBSTITUTA, no uso da atribuição que lhe confere o art. 350, caput, inciso III, do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 15 da Lei nº 9.249, de 26 de dezembro de 1995, na Lei nº 12.838, de 9 de julho de 2013, na Lei nº 14.467, de 16 de novembro de 2022, e no Parecer SEI nº 7689/2021/ME, resolve:
