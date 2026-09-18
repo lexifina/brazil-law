@@ -1,0 +1,35 @@
+DECISÃO: Trata-se de reclamação constitucional, com pedido de medida liminar, ajuizada por José Welliginthon Santos Batista contra decisões proferidas pelo Juízo da Vara Regional de Execuções Penais da Comarca de São José/SC, nos autos da Transferência entre Estabelecimentos Penais nº 5008430-04.2026.8.24.0064/SC, por suposta violação à autoridade da Súmula Vinculante 56.
+Consta dos autos que o Juízo da 2ª Vara Criminal da Comarca de Juazeiro do Norte/CE, em 13.3.2026, concedeu ao reclamante a progressão ao regime semiaberto, com data-base em 29.1.2025, e consignou a ausência de estabelecimento penal adequado ao regime intermediário nas comarcas do interior do Ceará. Assentou, ainda, que, inexistindo vaga, deve ser aplicada a saída antecipada com monitoração eletrônica, ficando a harmonização obstada, naquele momento, pela pendência do recambiamento (eDOC 3, pp. 7-8).
+O reclamante encontra-se custodiado na Colônia Agrícola de Palhoça/SC, onde o sistema i-PEN registra o cumprimento do regime semiaberto, bom comportamento e trabalho interno iniciado em 13.7.2026 (eDOC 3, p. 16).
+Em 3.6.2026, a autoridade reclamada indeferiu a permanência do apenado em Santa Catarina e determinou seu recambiamento para estabelecimento penal vinculado à Comarca de Juazeiro do Norte/CE (eDOC 3, pp. 32-33). Em 1.9.2026, ao rejeitar pedido de reconsideração, manteve a medida e registrou que a Colônia Agrícola de Palhoça se encontra parcialmente interditada e que eventual deliberação acerca da forma de cumprimento da pena compete ao Juízo responsável pela execução (eDOC 3, pp. 13-14).
+Em 9.9.2026, o Ministério Público do Estado do Ceará manifestou-se pelo imediato recambiamento do sentenciado e, diante da inexistência de estabelecimento adequado ao regime semiaberto na região, pela subsequente implantação de monitoração eletrônica em modalidade harmonizada (eDOC 2, p. 3).
+Na petição inicial, sustenta-se que “a medida menos gravosa e imediatamente aplicável é a colocação do reclamante sob monitoramento no local em que já se encontra” (eDOC 1, p. 5).
+Requer-se, no mérito, “a determinação para que o reclamante seja colocado, desde logo, em prisão domiciliar com monitoramento eletrônico (...) na comarca de Palhoça/SC” (eDOC 1, p. 7) ou, subsidiariamente, a suspensão da ordem de recambiamento.
+Dispensei a requisição de informações ao Juízo de origem, bem como a remessa dos autos à Procuradoria-Geral da República, por se tratar de matéria consolidada no âmbito da jurisprudência desta Suprema Corte (art. 52, parágrafo único, do RISTF).
+É o relatório.
+Decido.
+
+O instrumento da reclamação, tal como previsto no art. 102, I, l, da Constituição e regulado no Código de Processo Civil (arts. 988 a 993) e no RISTF (arts. 156 a 162), tem o intuito de preservar a competência do tribunal ou garantir a autoridade das suas decisões, bem como assegurar a observância a enunciado de Súmula Vinculante e acórdão proferido em sede de controle concentrado de constitucionalidade.
+O reclamante aponta como paradigma de controle violado a Súmula Vinculante 56, que possui o seguinte teor:
+
+“A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso, devendo-se observar, nessa hipótese, os parâmetros fixados no RE 641.320/RS.”
+Conforme se extrai dos autos, o reclamante cumpre atualmente o regime semiaberto em Santa Catarina, com registro de atividade laboral, e insurge-se contra o recambiamento determinado pela autoridade reclamada, pretendendo que a monitoração eletrônica seja implementada diretamente em Palhoça/SC (eDOC 3, p. 16; eDOC 1, p. 7).
+Ao apreciar o pedido de reconsideração, o Magistrado reclamado manteve a determinação de retorno ao Estado em que tramita a execução penal e consignou:
+
+“A decisão proferida no evento 8 determinou o recambiamento do apenado em razão da vinculação da execução penal ao Estado do Ceará, circunstância que permanece inalterada.
+(...)
+Por fim, no que se refere ao pedido subsidiário relacionado ao regime semiaberto harmonizado, eventual deliberação acerca da forma de cumprimento da pena compete ao Juízo responsável pela execução.” (eDOC 3, p. 13)
+Como se vê, o ato reclamado não determinou o cumprimento da pena em regime fechado nem afastou a incidência das alternativas previstas na Súmula Vinculante 56. Limitou-se a ordenar o recambiamento do sentenciado e a reservar ao Juízo da execução a definição da forma de cumprimento da pena.
+Na espécie, portanto, carece de respaldo fático a tese de violação ativa e consumada ao verbete sumular. Não há determinação atual de manutenção do reclamante em regime mais gravoso por falta de estabelecimento adequado, mas controvérsia sobre o local de prosseguimento da execução e sobre a antecipação, por esta Corte, da modalidade de cumprimento a ser implementada pelo Juízo competente.
+Desta forma, inexiste aderência estrita entre o ato reclamado e o paradigma apontado, o que inviabiliza o prosseguimento da presente reclamação. Nesse sentido:
+
+“AGRAVO REGIMENTAL NA RECLAMAÇÃO. ALEGAÇÃO DE AFRONTA À SÚMULA VINCULANTE 56. AUSÊNCIA DE ADERÊNCIA ESTRITA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – O pedido foi negado por não se enquadrar em nenhuma das hipóteses de cabimento de reclamação previstas no art. 102, I, l, da Constituição Federal ou mesmo no art. 988, I a IV, do Código de Processo Civil, seja para preservar a competência desta Corte, seja para garantir a autoridade de suas decisões ou, ainda, a observância obrigatória das súmulas vinculantes. II - Os atos questionados em qualquer reclamação nos casos em que se sustenta desrespeito à autoridade de decisão do Supremo Tribunal Federal hão de se ajustar, com exatidão e pertinência, aos julgamentos desta Suprema Corte invocados como paradigmas de confronto, em ordem a permitir, pela análise comparativa, a verificação da conformidade, ou não, da deliberação estatal impugnada em relação ao parâmetro de controle emanado deste Tribunal (Rcl 6.534-AgR/MA, de relatoria do Ministro Celso de Mello). III - Agravo regimental a que se nega provimento”. (Rcl 37.046 AgR, Segunda Turma, rel. Ricardo Lewandowski, DJe 13.2.2020, grifei)
+Ademais, o exame detido dos autos evidencia a inadequação da via eleita, porquanto o reclamante pretende fazer uso deste instrumento excepcional como autêntico atalho processual ou sucedâneo recursal, esquivando-se da via do Agravo em Execução (art. 197 da LEP) para rediscutir perante este Pretório Excelso as premissas logísticas da execução e obter de modo originário a aplicação do regime semiaberto harmonizado sob monitoração eletrônica.
+Assim, ausente a aderência estrita entre o ato reclamado e o paradigma de controle indicado, a pretensão reclamatória revela-se manifestamente inadmissível.
+Ante o exposto, com fundamento no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento à presente reclamação constitucional, prejudicado o exame do pedido liminar.
+Publique-se.
+Brasília, 18 de setembro de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
