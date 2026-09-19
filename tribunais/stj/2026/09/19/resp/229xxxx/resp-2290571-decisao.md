@@ -1,0 +1,74 @@
+RECURSO ESPECIAL Nº 2290571 - DF (2026/0341474-5)
+
+RELATORA: MINISTRA DANIELA TEIXEIRA
+
+RECORRENTE: ODONTO PRE CLINICA DE PREVENCAO E REABILITACAO LTDA
+
+RECORRENTE: RODOLFO MENDES DE MORAIS
+
+ADVOGADOS: FABRICIO CORREIA DE AQUINO - DF018486
+
+AUGUSTO GOMES PEREIRA - DF031291
+
+EDUARDO GUERRA DE ALMEIDA NEVES - DF046985
+
+DANIEL SANTANA WERCERLENS FERREIRA PRATES - DF066323
+
+RECORRIDO: CLEUSA ALVES DOS PASSOS
+
+ADVOGADO: DEFENSORIA PÚBLICA DO DISTRITO FEDERAL - DEFENSOR PÚBLICO
+
+EMENTA
+
+DECISÃO
+Trata-se de recurso especial interposto por ODONTO PRÉ CLÍNICA DE PREVENÇÃO E REABILITAÇÃO LTDA e RODOLFO MENDES DE MORAIS, com fundamento no art. 105, inciso III, alíneas “a” e “c”, da Constituição Federal, contra acórdão da 7.ª Turma Cível do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim ementado, no que interessa (e-STJ, fls. 735/755):
+
+CONSUMIDOR. APELAÇÕES. AÇÃO DE CONHECIMENTO. PRELIMINAR DE NULIDADE POR AUSÊNCIA DE FUNDAMENTAÇÃO. REJEIÇÃO. SERVIÇOS ODONTOLÓGICOS. VIOLAÇÃO AO DEVER DE INFORMAÇÃO. DANOS MATERIAIS DEVIDOS. DANOS MORAIS CONFIGURADOS. QUANTUM INDENIZATÓRIO ADEQUADO. DANOS ESTÉTICOS NÃO OBSERVADOS. LITIGÂNCIA DE MÁ-FÉ NÃO CONSTATADA. RECURSO DA AUTORA CONHECIDO E DESPROVIDO. RECURSO DOS RÉUS CONHECIDO E PARCIALMENTE PROVIDO.
+I. CASO EM EXAME
+1. Apelações interpostas por ambas as partes contra sentença que, nos autos de ação de conhecimento, julgou parcialmente procedentes os pedidos deduzidos na petição inicial, para condenar solidariamente os réus ao pagamento de: a) R$1.000,00 (mil reais) a título de danos materiais; b) R$8.000,00 (oito mil reais) a título de reparação civil por danos estéticos; e c) R$8.000,00 (oito mil reais) sob a rubrica de reparação civil por danos morais.
+2. Esta Turma Cível, por meio do Acórdão n. 1893086, negou provimento ao Agravo de instrumento n. 0714874-40.2024.8.07.0000, interposto pelos réus contra decisão que homologou o valor dos honorários periciais.
+II. QUESTÕES EM DISCUSSÃO
+3. As questões em discussão consistem em analisar: (i) se a sentença é nula por ausência de fundamentação; (ii) se houve falha na prestação dos serviços odontológicos contratados pela autora; (iii) se é cabível a reparação civil da autora por danos materiais; (iv) se é viável a condenação das rés ao pagamento de indenização por danos morais e estéticos; (v) se é cabível a alteração do valor fixado na sentença a título de reparação civil por danos morais e estéticos; e (vi) se é pertinente a condenação da autora por litigância de má-fé.
+III. RAZÕES DE DECIDIR
+4. Se a r. sentença declinou, de forma aprofundada e suficiente, razões pelas quais reputou não verificada falha, sob o aspecto técnico, dos serviços odontológicos prestados à autora, não há falar em nulidade por ausência de fundamentação. Preliminar suscitada pela autora rejeitada.
+5. Enquanto a clínica odontológica está sujeita à responsabilização civil objetiva, o dentista que atua nesse estabelecimento sujeita-se à responsabilidade civil subjetiva. A responsabilização da pessoa jurídica em solidariedade com o profissional dentista, nos termos do art. 7º, parágrafo único, do CDC, dependerá da demonstração de conduta culposa atribuível ao odontólogo na execução do tratamento fornecido ao consumidor.
+6. A prova pericial é clara ao apontar que, apesar de os serviços odontológicos terem sido prestados adequadamente sob o aspecto técnico, os fornecedores incorreram em “infração ” ao não esclarecerem “ética adequadamente à paciente os propósitos, riscos, limitações, custos e alternativas de tratamento, deixando que a Autora criasse uma expectativa estética impossível de ser atingido” (ID . 78660336).
+7. O art. 6º, inciso III, do CDC, prevê como direito básico do consumidor a informação adequada e clara sobre os serviços, com especificação correta de sua quantidade, características, composição, qualidade, tributos incidentes e preço, bem como sobre os riscos que apresentem. Essa garantia legal, ao não ter sido estritamente observada pelos réus, impõe o reconhecimento da impropriedade dos serviços prestados à paciente, na forma do art. 20, § 2º, do CDC.
+8. Se a perícia judicial foi clara ao apontar que os serviços odontológicos foram executados de forma adequada e completa sob o ponto de vista técnico, não há falar em condenação dos réus à obrigação de fazer consistente em sua reexecução.
+9. É cabível o ressarcimento da consumidora por valores comprovadamente desembolsados no âmbito de processo administrativo, perante o CRO-DF, com a finalidade de apurar infração ética praticada pelo dentista.
+10. A violação, pelos réus, ao direito básico de alertar a paciente acerca dos riscos, limitações, custos e alternativas de tratamento odontológico resultou no retardamento da completa execução dos serviços por mais de uma década, isto é, entre 2004 e 2017, com sucessivas e desgastantes intervenções clínicas até sua finalização. Viável a reparação civil da autora por danos morais.
+11. No tocante ao quantum indenizatório devido a título de reparação civil por danos morais, após o cotejo dos precedentes judiciais semelhantes deste e. Tribunal, tem-se que o valor fixado na r. sentença não comporta alteração, porque atende ao critério bifásico e se revela moderado.
+12. Não observada lesão de caráter duradouro ou permanente, e capaz de provocar efetivo prejuízo a algum atributo físico da paciente, comprometendo a sua imagem ou sua funcionalidade, não há falar em reparação civil por danos estéticos.
+13. Incabível a condenação da autora ao pagamento de multa por litigância de má-fé, porque não verificada a prática das condutas listadas no art. 80 do CPC.
+IV. DISPOSITIVO
+14. Recurso da autora conhecido e desprovido. Recurso dos réus conhecido e parcialmente provido.
+
+Os dois embargos de declaração sucessivamente opostos pela parte recorrente foram conhecidos e rejeitados (e-STJ, fls. 805/824 e 840/857).
+Nas razões recursais, a parte recorrente aponta violação dos arts. 186, 187, 389, 395, 404, 927 e 944 do Código Civil, dos arts. 6º, inciso III, 7º, parágrafo único, e 14, §§ 3º, inciso II, e 4º, do Código de Defesa do Consumidor e do art. 85 do Código de Processo Civil, além de dissídio jurisprudencial.
+Sustenta, em síntese, que os honorários advocatícios contratuais ajustados entre a autora e seu procurador para acompanhamento de procedimento administrativo perante o Conselho Regional de Odontologia não podem ser transferidos à parte adversa a título de dano material, por decorrerem de avença privada da qual esta não participou; que, afastado o erro técnico pela perícia judicial, a mera falha no dever de informar não configura dano moral indenizável, sendo indevida também a responsabilização solidária da pessoa jurídica, ante a inexistência de culpa do profissional liberal (art. 14, § 4º, do Código de Defesa do Consumidor); e, subsidiariamente, que o valor arbitrado a título de reparação extrapatrimonial é desproporcional à extensão do dano. Pede o afastamento das condenações remanescentes e a redistribuição dos ônus sucumbenciais (e-STJ, fls. 858/873).
+Foram apresentadas contrarrazões pela Defensoria Pública do Distrito Federal (e-STJ, fls. 881/884).
+O recurso especial foi admitido na origem (e-STJ, fls. 886/888).
+É o relatório.
+DECIDO.
+O recurso é tempestivo e regularmente preparado. Registro que, embora a decisão de admissibilidade tenha explicitado suas razões quanto a um dos fundamentos deduzidos, a admissão do recurso especial devolve a esta Corte o conhecimento dos demais, na forma do art. 1.034, parágrafo único, do Código de Processo Civil, e do enunciado n.º 292 da Súmula do Supremo Tribunal Federal, motivo pelo qual passo ao exame de todos os capítulos impugnados.
+No presente processo, a parte recorrente afirma, em suma, que estão presentes os requisitos para o conhecimento e o provimento de seu recurso. A pretensão, contudo, não supera os óbices que se opõem ao trânsito do apelo nobre.
+Principio pelo capítulo relativo à condenação ao pagamento de R$ 1.000,00 (mil reais) a título de danos materiais, correspondentes aos honorários contratados pela consumidora para acompanhá-la no processo administrativo instaurado perante o Conselho Regional de Odontologia do Distrito Federal.
+Invoca a parte recorrente, como razão de decidir, a tese firmada pela Corte Especial deste Tribunal Superior no julgamento do EREsp n.º 1.507.864/RS, relatora Ministra Laurita Vaz, julgado em 20/4/2016, DJe de 11/5/2016, segundo a qual cabe ao perdedor da ação arcar com os honorários de advogado fixados pelo Juízo em decorrência da sucumbência (art. 20 do Código de Processo Civil de 1973 e art. 85 do Código de Processo Civil de 2015), e não com os honorários decorrentes de contratos firmados pela parte contrária e seu procurador, em circunstâncias particulares totalmente alheias à vontade do condenado.
+O precedente, contudo, não socorre a tese recursal, porque nele não se contém a amplitude que se lhe pretende emprestar. A razão de decidir ali assentada dirige-se aos honorários contratuais ajustados para a atuação em juízo — e precisamente porque a esfera judicial dispõe de mecanismo próprio de responsabilização do vencido, que é a verba sucumbencial do art. 85 do Código de Processo Civil. Daí a compreensão, também firmada no âmbito desta Corte, de que os arts. 389, 395 e 404 do Código Civil, ao aludirem a “honorários de advogado” como parcela integrante das perdas e danos, devem ser interpretados de modo a abranger os honorários contratuais despendidos com a adoção de medidas extrajudiciais, para os quais inexiste aquele mecanismo compensatório.
+Ora, é exatamente essa a hipótese dos autos. O dispêndio reconhecido pelo acórdão recorrido não se refere à contratação de advogado para o ajuizamento da presente demanda, mas à assistência técnica prestada à consumidora em procedimento ético-disciplinar instaurado perante conselho profissional — via distinta e anterior ao processo judicial, em que não há condenação em honorários sucumbenciais e cuja instauração decorreu, segundo a moldura fática do julgado, da própria conduta imputada aos recorrentes, que ali resultou sancionada. Não há, pois, negativa de vigência aos arts. 389, 395 e 404 do Código Civil e ao art. 85 do Código de Processo Civil; ao contrário, a solução adotada na origem guarda conformidade com a orientação desta Corte, o que atrai o enunciado n.º 83 da Súmula do Superior Tribunal de Justiça, aplicável também aos recursos interpostos pela alínea “a” do permissivo constitucional.
+Acrescente-se que a aferição do efetivo desembolso da quantia, de sua comprovação documental e do nexo entre a despesa e a conduta dos réus repousa em exame de prova, insuscetível de revisão nesta sede, a teor do enunciado n.º 7 da Súmula desta Corte.
+Idêntico óbice alcança o capítulo referente à configuração do dano moral e à responsabilidade solidária da pessoa jurídica. O Tribunal de origem, soberano na apreciação dos fatos, assentou que, embora tecnicamente adequados os serviços, os fornecedores descumpriram o dever de informação previsto no art. 6º, inciso III, do Código de Defesa do Consumidor, e que essa omissão “resultou no retardamento da completa execução dos serviços por mais de uma década, isto é, entre 2004 e 2017, com sucessivas e desgastantes intervenções clínicas até sua finalização”. Assentou, ainda, que a responsabilização da clínica, em solidariedade com o profissional, pressupunha a demonstração de conduta culposa do odontólogo — pressuposto que reputou presente à luz da infração ética reconhecida no procedimento administrativo e confirmada pela perícia judicial.
+Infirmar tais conclusões — para negar a existência de lesão a direito da personalidade, o nexo causal ou a culpa do profissional liberal exigida pelo art. 14, § 4º, do Código de Defesa do Consumidor — exigiria o revolvimento do acervo fático-probatório e a reapreciação da prova pericial, providências vedadas pelo enunciado n.º 7 da Súmula desta Corte. Colhem-se, a propósito, precedentes da Terceira Turma:
+“(...) 2. No tocante às Súmulas nºs 5 e 7/STJ, não basta a parte sustentar genericamente a não aplicação dos óbices, sem explicitar, à luz do contexto fático delineado no acórdão e da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame fático-probatório ou da análise das cláusulas contratuais. (...)” (AgInt no AREsp n. 2.753.530/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/12/2024, DJEN de 20/12/2024.)
+“(...) 1. No caso, afastar a afirmação contida no acórdão atacado (...) demanda a reavaliação do acervo fático-probatório dos autos e a interpretação das cláusulas contratuais. A pretensão de rever esse entendimento encontra óbice nas Súmulas n.os 5 e 7 do STJ. (...)” (AgInt no AREsp n. 2.555.823/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Também não prospera o pedido subsidiário de redução do valor arbitrado. É consabido que a revisão do quantum indenizatório, em recurso especial, somente se admite em hipóteses excepcionais, quando a quantia se revelar irrisória ou exorbitante, a ponto de destoar dos parâmetros da razoabilidade e da proporcionalidade. Não é o que se verifica: a reparação foi fixada em R$ 8.000,00 (oito mil reais), montante que o Tribunal de origem reputou moderado após a aplicação do método bifásico e o cotejo com precedentes análogos, e que, considerada a extensão temporal do dano reconhecida no acórdão, não se mostra desproporcional. Fora daquelas hipóteses excepcionais, a rediscussão do valor esbarra, uma vez mais, no enunciado n.º 7 da Súmula desta Corte.
+Por fim, tampouco se viabiliza o recurso pela alínea “c” do permissivo constitucional. O dissídio jurisprudencial pressupõe similitude fática entre os julgados confrontados, requisito ausente na espécie: os paradigmas invocados versam sobre honorários contratuais ajustados para a atuação em juízo, ao passo que o acórdão recorrido cuidou de despesa suportada em procedimento administrativo perante conselho profissional — distinção que, como visto, é precisamente aquela que define a solução da controvérsia. Ademais, e de modo decisivo, a incidência do óbice do enunciado n.º 7 da Súmula desta Corte, acima reconhecida quanto aos demais capítulos, impede igualmente o exame da divergência.
+Ante o exposto, não conheço do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 2% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intime-se.
+
+Brasília, 19 de setembro de 2026.
+
+Ministra Daniela Teixeira
+Relatora
