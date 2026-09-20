@@ -1,0 +1,50 @@
+EDcl no AGRAVO EM RECURSO ESPECIAL Nº 3234320 - SP (2026/0128748-1)
+
+RELATOR: MINISTRO PRESIDENTE DO STJ
+
+EMBARGANTE: POLEODUTO INDUSTRIA E COMERCIO DE ELETRO-MECANICOS LTDA
+
+ADVOGADA: FLÁVIA LORENA PEIXOTO HOLANDA GAETA - SP280721
+
+EMBARGADO: ESTADO DE SÃO PAULO
+
+PROCURADORES: MARCELO ROBERTO BOROWSKI - SP123352
+
+VITOR TILIERI - SP242456
+
+EMENTA
+
+DECISÃO
+1. Trata-se de Embargos de Declaração opostos por POLEODUTO INDUSTRIA E COMERCIO DE ELETRO-MECANICOS LTDA contra a decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que não admitiu o Recurso Especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que
+
+08. No caso dos autos, a decisão embargada partiu da premissa de inexistência de impugnação específica à Súmula nº 7/STJ, todavia, com a devida vênia, verifica-se que houve inequívoco equívoco material na apreciação das razões recursais, porquanto a Embargante impugnou expressamente a incidência da Súmula nº 7/STJ no Agravo em Recurso Especial.
+09. Com efeito, o recurso continha tópico específico denominado "II. II. V. DA NÃO INCIDÊNCIA DAS SÚMULAS Nº 7/STJ E 280/STF", destinado justamente a afastar os óbices apontados na decisão de inadmissibilidade proferida pelo Tribunal de origem. 10. Mais do que isso, a Embargante dedicou argumentação específica à Súmula nº 7/STJ, destacando expressamente que a controvérsia submetida ao Superior Tribunal de Justiça não demandava reexame de fatos e provas, mas apenas a apreciação de questão eminentemente jurídica.
+
+Requer, assim, o conhecimento e o acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+2. Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A propósito, da análise do Agravo em Recurso Especial observa-se que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada, conforme exigido pelo art. 253, parágrafo único, do RISTJ, a saber: súmula 7/STJ.
+Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, Rel. Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26.8.2020).
+Relativamente à Súmula n. 7 do STJ, não basta a parte "sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no Recurso Especial, de que maneira a análise não dependeria do reexame de provas". (AgRg no AREsp n. 1.677.886/MS, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 3.6.2020).
+Nesse mesmo sentido:
+
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A decisão ora recorrida não conheceu do agravo em razão da não impugnação aos fundamentos da decisão que inadmitiu o recurso especial na origem, notadamente quanto à Súmula 7/STJ (condenação solidária da União e do Estado da Bahia). Assim, consignou-se a incidência da Súmula 182 do STJ.
+2. A parte, para ver seu recurso especial inadmitido ascender a esta Corte, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de seguimento daquele recurso sob pena de vê-los mantidos.
+3. É mister repetir que as razões demonstrativas do desacerto da decisão agravada devem ser veiculadas imediatamente nessa oportunidade, pois convém frisar não ser admitida fundamentação a destempo, a fim de inovar a justificativa para ascensão do recurso excepcional, diante da preclusão consumativa.
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial, incidindo à espécie o Enunciado da Súmula 182 do STJ.
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada ou simplesmente a insistência no mérito da controvérsia. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.907.380/BA, Rel. Ministro Manoel Erhardt (Desembargador convocado do TRF5), Primeira Turma, DJe de 14.10.2021)
+
+Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que inadmite o recurso especial é a interposição do agravo em recurso especial, sob pena de preclusão caso feita posteriormente.
+Ressalte-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 28.8.2014.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+3. Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
+
+Brasília, 20 de setembro de 2026.
+
+MINISTRO LUIS FELIPE SALOMÃO
+Presidente
