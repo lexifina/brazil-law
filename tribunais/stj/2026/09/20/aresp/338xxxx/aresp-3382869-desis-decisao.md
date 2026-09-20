@@ -1,0 +1,26 @@
+DESIS no AGRAVO EM RECURSO ESPECIAL Nº 3382869 - SC (2026/0377913-1)
+
+RELATOR: MINISTRO PRESIDENTE DO STJ
+
+REQUERENTE: BANCO DO BRASIL SA
+
+ADVOGADA: ANDREA GONÇALVES OLIVA ITACARAMBI E OUTRO(S) - GO025246
+
+REQUERIDO: LOIDECIR LUIZ MACHADO
+
+REQUERIDO: ZORZI PIZZARIA LTDA
+
+ADVOGADO: TONY SERPA - SC028437
+
+EMENTA
+
+DECISÃO
+
+Homologo a desistência do Agravo em Recurso Especial (fl. 381) interposto nos presentes autos por BANCO DO BRASIL SA.
+No mais, encaminhem-se os autos à origem.
+Publique-se. Intimem-se.
+
+Brasília, 20 de setembro de 2026.
+
+MINISTRO LUIS FELIPE SALOMÃO
+Presidente
