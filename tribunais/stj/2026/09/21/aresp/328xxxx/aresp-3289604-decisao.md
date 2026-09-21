@@ -1,0 +1,36 @@
+AGRAVO EM RECURSO ESPECIAL Nº 3289604 - DF (2026/0234341-9)
+
+RELATOR: MINISTRO FRANCISCO FALCÃO
+
+AGRAVANTE: UNIÃO
+
+AGRAVADO: SINDICATO NACIONAL DOS OFICIAIS DE JUSTICA FEDERAIS
+
+ADVOGADOS: RUSSIELTON SOUSA BARROSO CIPRIANO - DF041213
+
+DAVI OLIVEIRA BASTOS - DF073603
+
+RENAN FARIA DE SOUSA - DF082879
+
+EMENTA
+
+DECISÃO
+Na origem, trata-se de ação coletiva declaratória e indenizatória. Na sentença, julgou-se o pedido procedente. No Tribunal a quo, a sentença foi parcialmente reformada. O valor da causa foi fixado em R$ 15.305,10 (quinze mil e trezentos e cinco reais e dez centavos).
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO. SERVIDOR PÚBLICO CIVIL. LICENÇA PRÊMIO NÃO GOZADA. CONVERSÃO EM PECÚNIA. BASE DE CÁLCULO. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. 1. O cerne da controvérsia reside em saber se na conversão em pecúnia das licenças prêmios pode ser incluído, ou não, na base de cálculo, o abono de permanência, a gratificação de atividade externa, o adicional de qualificação permanente, o adicional de qualificação temporário, a gratificação adicional por tempo de serviço, a indenização de transporte e o auxílio-alimentação. 2. O art. 87 da Lei 8.112/90 previa em sua redação original, que a base de cálculo para a licença prêmio por assiduidade seria a remuneração do servidor. Já os arts. 40 e 41 trazem a menção que a remuneração é à retribuição pecuniária mais vantagens. Na seqüência, o art. 49 cita quais são as vantagens que poderão ser pagas ao servidor e que as indenizações não serão incorporadas para nenhum efeito. Por fim, o inciso III do art. 51 e 60, cita que o transporte é uma indenização, logo, não deve ser incorporada para nenhum fim. 3. O juízo sentenciante entendeu ser devido o uso na base de cálculo das seguintes verbas: (1) abono de permanência; (2) auxílio-alimentação; (3) gratificação de atividade externa; (4) adicional de qualificação permanente; (5) adicional de qualificação temporário; (5) gratificação adicional por tempo de serviço; e (7) indenização de transporte. 4. Quanto às verbas de abono de permanência e auxílio-alimentação, “a jurisprudência deste Superior Tribunal é firme no sentido de que as rubricas que compõem a remuneração do servidor deverão ser incluídas na base de cálculo da conversão do benefício em pecúnia, dentre elas, o 13º salário, o 1/3 constitucional de férias, o auxílio-alimentação, a gratificação natalina e o abono de permanência” (AgInt no AR Esp n. 2.058.188/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 21/8/2023, D Je de 24/8/2023.). 5. Em relação à gratificação de atividade externa; adicional de qualificação permanente; adicional de qualificação temporário; e gratificação adicional por tempo de serviço, não há impedimento legal, haja vista compor a remuneração do servidor e não restar vedado pelo § 1º do art. 49 da Lei 8.112/90. 6. Entretanto, no que tange a indenização de transportes, há vedação expressa na legislação de vigência, tendo sido equivocado a inclusão dela na base de cálculo. 7. Recurso conhecido e parcialmente provido.
+
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Presentes os pressupostos recursais, conheço do recurso. Sem preliminares. O cerne da controvérsia reside em saber se na conversão em pecúnia das licenças prêmios pode ser incluído na base de cálculo, ou não, o abono de permanência, a gratificação de atividade externa, o adicional de qualificação permanente, o adicional de qualificação temporário, a gratificação adicional por tempo de serviço, a indenização de transporte e o auxílio- alimentação. (...) o art. 87 da Lei 8.112/90 previa em sua redação original, que a base de cálculo para a licença prêmio por assiduidade seria a remuneração do servidor. Já os arts. 40 e 41 trazem a menção que a remuneração é à retribuição pecuniária, mais vantagens. Na seqüência, o art. 49 cita quais são as vantagens que poderão ser pagas ao servidor e que as indenizações não serão incorporadas para nenhum efeito. Por fim, o inciso III do art. 51 e art. 60, cita que o transporte é uma indenização, logo, não deve ser incorporada para nenhum fim. Nessa linha intelectiva, assiste parcial razão a UNIÃO FEDERAL. Explico. O juízo sentenciante entendeu ser devido o uso na base de cálculo das seguintes verbas: (1) abono de permanência; (2) auxílio-alimentação; (3) gratificação de atividade externa; (4) adicional de qualificação permanente; (5) adicional de qualificação temporário; (5) gratificação adicional por tempo de serviço; e (7) indenização de transporte. Quanto às verbas de abono de permanência e auxílio-alimentação, “a jurisprudência deste Superior Tribunal é firme no sentido de que as rubricas que compõem a remuneração do servidor deverão ser incluídas na base de cálculo da conversão do benefício em pecúnia, dentre elas, o 13º salário, o 1/3 constitucional de férias, o auxílio-alimentação, a gratificação natalina e o abono de permanência” (AgInt no AR Esp n. 2.058.188/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 21/8/2023, D Je de 24/8/2023.). Em relação à gratificação de atividade externa; adicional de qualificação permanente; adicional de qualificação temporário; e gratificação adicional por tempo de serviço, não há impedimento legal, haja vista compor a remuneração do servidor e não restar vedado pelo § 1º do art. 49 da Lei 8.112/90. Entretanto, no que tange a indenização de transportes, há vedação expressa na legislação de vigência, tendo sido equivocado a inclusão dela na base de cálculo. Posto isto, DOU PARCIAL PROVIMENTO à apelação.
+Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem na vigência do CPC/2015, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+
+Brasília, 21 de setembro de 2026.
+
+Ministro Francisco Falcão
+Relator
