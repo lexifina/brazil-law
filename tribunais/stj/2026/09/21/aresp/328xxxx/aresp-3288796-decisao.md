@@ -1,0 +1,34 @@
+AGRAVO EM RECURSO ESPECIAL Nº 3288796 - DF (2026/0227801-1)
+
+RELATOR: MINISTRO FRANCISCO FALCÃO
+
+AGRAVANTE: AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA - ANEEL
+
+AGRAVADO: AMBAR ENERGIA AMAZONAS S.A.
+
+ADVOGADO: SPENCER DALTRO DE MIRANDA FILHO - DF017615
+
+EMENTA
+
+DECISÃO
+Na origem, trata-se de mandado de segurança (reembolso de ICMS). Na sentença, julgou-se procedente o pedido. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 12.000,00 (doze mil reais).
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO contra acórdão com o seguinte resumo de ementa:
+DIREITO ADMINISTRATIVO. APELAÇÃO CÍVEL E REMESSA NECESSÁRIA. MANDADO DE SEGURANÇA. REEMBOLSO DE ICMS. CONTA DE CONSUMO DE COMBUSTÍVEIS DOS SISTEMAS ISOLADOS – CCC-ISOL. ART. 8º DA LEI 8.631/1993. ILEGALIDADE DA RESOLUÇÃO ANEEL Nº. 432/2007. EXORBITÂNCIA DO PODER REGULAMENTAR. RECURSO E REMESSA NECESSÁRIA DESPROVIDOS.
+
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Não merece reparos a sentença recorrida. Consoante o princípio constitucional da legalidade, consagrado no artigo 5º, inciso II, da Constituição Federal, “ninguém será obrigado a fazer ou deixar de fazer alguma coisa senão em virtude de lei”. O direito invocado pelo impetrante encontra amparo no § 2º do artigo 8º da Lei nº 8.631/1993, que, à época, assegurava a todos os concessionários distribuidores o rateio do custo de consumo de combustíveis, incluindo o de biodiesel, para geração de energia elétrica nos sistemas isolados, que deveria compreender os percentuais, especificados na norma, de todos os encargos e tributos incidentes, (...)Ao tratar da sistemática de reembolso no âmbito da Conta de Consumo de Combustíveis (CCC), o legislador federal restringiu-se a exigir a inclusão dos tributos incidentes sobre os custos arcados, sem estabelecer qualquer outro critério ou condicionamento para a fruição do benefício legal. Dentre tais tributos, inclui-se o Imposto sobre Circulação de Mercadorias e Serviços – ICMS, tributo estadual que incide sobre a aquisição de combustíveis utilizados na produção de energia elétrica nos sistemas isolados. Entretanto, em dissonância com o referido comando legal, a Agência Nacional de Energia Elétrica – ANEEL, por meio da Resolução nº. 432/2007, instituiu condicionantes não previstas em lei, especialmente quando restringe a inclusão dos valores correspondente ao ICMS, no reembolso da CCC, à comprovação de que o tributo represente custo efetivo ou à demonstração de impossibilidade legal de aproveitamento de créditos de ICMS decorrentes de operações anteriores. Tais exigências configuram inovação indevida no ordenamento jurídico, pois impõem requisitos não previstos em lei, criando obrigações em desfavor do administrado, em flagrante desrespeito ao princípio da legalidade estrita e em exorbitância ao poder regulamentar, inserto no art. 84, inciso IV, da Constituição Federal, que autoriza o Chefe do Poder Executivo a expedir decretos e regulamentos meramente executórios, destinados à fiel execução das leis, mas que não admite a edição de regulamentos autônomos pelas agências reguladoras ou por qualquer outro órgão da Administração Pública, salvo nas hipóteses excepcionalíssimas constitucionalmente previstas, o que não se verifica no presente caso. Consequentemente, a imposição de critérios restritivos pelo ato normativo da ANEEL, sem amparo legal expresso, viola diretamente o princípio da legalidade. Trata-se, pois, de regulamentação que extrapola os limites da função normativa delegada, usurpando a competência do Poder Legislativo. (...) Deste modo, merece ser mantida a sentença recorrida, razão pela qual nego provimento à apelação e à remessa necessária interpostas.
+Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Conforme entendimento pacífico desta Corte, “o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão”. A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, “sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida”. EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação (artigos 2º, 3º, I, XIX, da Lei n. 9.427/96 ; 11, § 4º, da Lei n. 9.648/98), esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Conforme entendimento desta Corte, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ, quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado. Nesse sentido: AgInt no AREsp 1.234.093/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe 3/5/2018; AgInt no AREsp 1.173.531/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2018, DJe 26/3/2018.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+
+Brasília, 21 de setembro de 2026.
+
+Ministro Francisco Falcão
+Relator
