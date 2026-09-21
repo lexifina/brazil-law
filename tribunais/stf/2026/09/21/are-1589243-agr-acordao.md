@@ -1,0 +1,960 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 22
+
+21/09/2026
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.589.243 RIO
+DE JANEIRO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. LUIZ FUX
+: GABRIEL VARELLA NEVES DE MORAES SILVA
+: FELIPE FRANCISCO PEIXOTO AZEREDO
+: MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE
+JANEIRO
+: PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DO
+RIO DE JANEIRO
+
+EMENTA:
+AGRAVO
+INTERNO
+NO
+RECURSO
+EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL
+PENAL. CRIME DE TRÁFICO ILÍCITO DE ENTORPECENTES.
+ALEGAÇÃO DE OFENSA AO ARTIGO 5º, XI, DA CONSTITUIÇÃO
+FEDERAL. INGRESSO EM DOMICÍLIO CONSIDERADO LEGAL
+PELO TRIBUNAL A QUO. PRETENDIDO RECONHECIMENTO DA
+ILICITUDE
+DA
+PROVA.
+ACÓRDÃO
+RECORRIDO
+EM
+CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA SUPREMA
+CORTE. ALEGADA VIOLAÇÃO AO ARTIGO 5º, LIV E LV, DA
+CONSTITUIÇÃO FEDERAL. PRINCÍPIOS DO DEVIDO PROCESSO
+LEGAL, DA AMPLA DEFESA E DO CONTRADITÓRIO. OFENSA
+REFLEXA AO TEXTO DA CONSTITUIÇÃO FEDERAL. ALEGADA
+VIOLAÇÃO AO ART. 5º, XXXVI, XXXIX, LVII E 102, §3º, DA
+CONSTITUIÇÃO FEDERAL. NECESSIDADE DE REVOLVIMENTO
+DO
+CONJUNTO
+FÁTICO-PROBATÓRIO
+DOS
+AUTOS.
+IMPOSSIBILIDADE. SÚMULA 279 DO STF. APONTADA VIOLAÇÃO
+AO ART. 5º, LXIII, DA CONSTITUIÇÃO FEDERAL. VIOLAÇÃO DO
+DIREITO CONSTITUCIONAL AO SILÊNCIO. NÃO OCORRÊNCIA.
+ALEGADA VIOLAÇÃO AO ARTIGO 5º, XLVI, DA CONSTITUIÇÃO
+FEDERAL.
+INDIVIDUALIZAÇÃO
+DA
+PENA.
+MATÉRIA
+INFRACONSTITUCIONAL. AGRAVO INTERNO DESPROVIDO..
+I. CASO EM EXAME
+1. Agravo interno interposto em face de decisão que negou
+provimento a agravo em recurso extraordinário, assentando a
+consonância do acórdão recorrido com a jurisprudência desta Corte na
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5CD2-34D8-8A0D-A3F2 e senha BBB3-6DB1-3EC9-D555
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 22
+
+ARE 1589243 AGR / RJ
+questão referente ao ingresso em domicílio e à apontada violação ao art.
+5º, XI, da Constituição Federal; a índole infraconstitucional da
+controvérsia relativa à suscitada violação ao art. 5º, LIV e LV, da
+Constituição Federal; a incidência da Súmula 279 desta Corte quanto à
+questão relacionada à autoria e materialidade delitiva; a ausência de
+violação do direito constitucional ao silêncio; e a índole
+infraconstitucional da questão ligada à individualização da pena.
+II. QUESTÃO EM DISCUSSÃO
+2. Há cinco questões em discussão: (i) saber se investigações prévias
+que culminaram na busca domiciliar e apreensão de material
+entorpecente configuram fundadas razões para o ingresso no imóvel, nos
+termos da jurisprudência desta Corte; (ii) saber se a alegada violação ao
+art. 5º, LIV e LV, da Constituição Federal, revela ofensa direta ao texto
+constitucional; (iii) saber se as alegações referentes à autoria e
+materialidade do crime de tráfico ilícito de entorpecentes dispensam o
+exame do conjunto fático-probatório dos autos; (iv) saber se a menção, no
+acórdão recorrido, ao exercício do direito constitucional ao silêncio,
+resulta em violação ao art. 5º, LXIII; e (v), saber se a controvérsia atinente
+à individualização da pena dispensa a análise da legislação
+infraconstitucional aplicável à espécie.
+III. RAZÕES DE DECIDIR
+3. O Tribunal a quo reconheceu a licitude das provas obtidas
+mediante o ingresso dos agentes policiais no domicílio do recorrido, à
+consideração de que “as investigações do Setor de Inteligência da Polícia, em
+conjunto com o flagrante do Réu na residência com vasto cultivo de “cannabis
+sativa l”, sem mencionar que ele já havia colhido cerca de 500g de folhas da
+matéria prima em questão, configuram a situação de "fundada suspeita" e
+justificam a entrada de PCs na casa, bem como a abordagem do Réu.”
+4. Nesse contexto, verifica-se que o acórdão recorrido está em
+consonância com a Jurisprudência desta Suprema Corte na matéria, como
+se extrai dos seguintes precedentes, que tratam tanto da busca pessoal
+(que independe de mandado judicial) quanto da busca domiciliar,
+
+2
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5CD2-34D8-8A0D-A3F2 e senha BBB3-6DB1-3EC9-D555
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 3 de 22
+
+ARE 1589243 AGR / RJ
+realizadas por agentes dos órgãos de segurança pública.
+5. A jurisprudência desta Corte é uníssona no sentido de que a
+verificação de ofensa aos princípios da legalidade, do livre acesso à
+justiça, do devido processo legal, da ampla defesa, do contraditório e da
+motivação das decisões judiciais, bem como aos limites da coisa julgada,
+quando dependente do reexame prévio de normas infraconstitucionais,
+revela ofensa indireta ou reflexa à Constituição Federal, o que, por si só,
+não desafia a instância extraordinária.
+6. Divergir das conclusões às quais chegou o Tribunal de origem
+quanto ao potencial entorpecente do material apreendido, bem como de
+sua destinação ao tráfico, demandaria, no presente caso, o reexame do
+conjunto fático-probatório dos autos.
+7. Quanto à apontada violação ao art. 5º, LXIII, revelada pela
+alegação de que o Tribunal a quo valorou negativamente o uso, pelo
+recorrente, do direito constitucional ao silêncio, verifica-se que, embora
+haja menção, no acórdão recorrido, à ausência de manifestação do réu
+quanto aos fatos a ele imputados, tal circunstância não foi utilizada para a
+manutenção da condenação, que se deu em razão das provas constantes
+dos autos; e nem fundamentou qualquer agravamento da reprimenda
+originalmente aplicada.
+8. Quanto à alegada violação ao art. 5º, XLVI, da Constituição
+Federal, a jurisprudência desta Corte é uníssona no sentido de que a
+resolução da controvérsia atinente à individualização da pena demanda a
+análise da legislação infraconstitucional aplicável à espécie (Código
+Penal), o que se revela inviável em sede de recurso extraordinário, por
+configurar ofensa indireta à Constituição Federal.
+IV. DISPOSITIVO
+9. Agravo interno desprovido.
+ACÓRDÃO
+A Segunda Turma do Supremo Tribunal Federal, na conformidade
+da ata de julgamento virtual de 11/9 a 18/9/2026, por unanimidade, negou
+
+3
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5CD2-34D8-8A0D-A3F2 e senha BBB3-6DB1-3EC9-D555
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 4 de 22
+
+ARE 1589243 AGR / RJ
+provimento ao agravo regimental, nos termos do voto do Relator,
+Ministro Luiz Fux.
+Publique-se.
+Brasília, 21 de setembro de 2026.
+Ministro LUIZ FUX
+Relator
+
+Documento assinado digitalmente
+
+4
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5CD2-34D8-8A0D-A3F2 e senha BBB3-6DB1-3EC9-D555
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 22
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.589.243 RIO
+DE JANEIRO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. LUIZ FUX
+: GABRIEL VARELLA NEVES DE MORAES SILVA
+: FELIPE FRANCISCO PEIXOTO AZEREDO
+: MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE
+JANEIRO
+: PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DO
+RIO DE JANEIRO
+
+RELATÓRIO
+O SENHOR MINISTRO LUIZ FUX (RELATOR): Trata-se de agravo interno
+interposto em face de decisão de minha lavra, pela qual neguei provimento
+ao agravo em recurso extraordinário e que restou assim ementada:
+RECURSO EXTRAORDINÁRIO COM AGRAVO.
+PENAL E PROCESSUAL PENAL. CRIME DE TRÁFICO
+ILÍCITO DE ENTORPECENTES. ALEGAÇÃO DE OFENSA
+AO ARTIGO 5º, XI, DA CONSTITUIÇÃO FEDERAL.
+INGRESSO EM DOMICÍLIO CONSIDERADO LEGAL
+PELO
+TRIBUNAL
+A
+QUO.
+PRETENDIDO
+RECONHECIMENTO DA ILICITUDE DA PROVA.
+ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A
+JURISPRUDÊNCIA
+DESTA
+SUPREMA
+CORTE.
+ALEGADA VIOLAÇÃO AO ARTIGO 5º, LIV E LV, DA
+CONSTITUIÇÃO FEDERAL. PRINCÍPIOS DO DEVIDO
+PROCESSO LEGAL, DA AMPLA DEFESA E DO
+CONTRADITÓRIO. OFENSA REFLEXA AO TEXTO DA
+CONSTITUIÇÃO FEDERAL. ALEGADA VIOLAÇÃO AO
+ART. 5º, XXXVI, XXXIX, LVII E 102, §3º, DA
+CONSTITUIÇÃO
+FEDERAL.
+NECESSIDADE
+DE
+REVOLVIMENTO
+DO
+CONJUNTO
+FÁTICOPROBATÓRIO
+DOS
+AUTOS.
+IMPOSSIBILIDADE.
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código BA45-65CE-95DF-6990 e senha 0938-28E4-9532-BC52
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 6 de 22
+
+ARE 1589243 AGR / RJ
+SÚMULA 279 DO STF. APONTADA VIOLAÇÃO AO ART.
+5º, LXIII, DA CONSTITUIÇÃO FEDERAL. VIOLAÇÃO DO
+DIREITO CONSTITUCIONAL AO SILÊNCIO. NÃO
+OCORRÊNCIA. ALEGADA VIOLAÇÃO AO ARTIGO 5º,
+XLVI,
+DA
+CONSTITUIÇÃO
+FEDERAL.
+INDIVIDUALIZAÇÃO
+DA
+PENA.
+MATÉRIA
+INFRACONSTITUCIONAL. AGRAVO DESPROVIDO.
+Em breve síntese, o agravante sustenta que “A observação sobre o
+silêncio não aparece em capítulo autônomo ou em obiter dictum. Está inserida no
+trecho do voto destinado a examinar a destinação das plantas ao tráfico,
+funcionando como premissa da conclusão condenatória.”
+Aduz que “A própria r. decisão agravada transcreve precedente segundo o
+qual a justificação posterior deve apoiar-se no que se sabia antes da diligência. O
+que se sabia antes, no caso, resume-se a informação anônima, sem inquérito
+instaurado, sem procedimento formal, sem registro documental e sem qualquer ato
+de investigação identificável nos autos. Os policiais ouvidos em juízo descreveram
+informações recebidas e se apresentaram como integrantes de equipe de rua, não
+como investigadores. Informação anônima não documentada não constitui fundada
+razão.”
+Argumenta que “A questão não é de reexame de prova, pois as datas e as
+descrições estão nos documentos oficiais e foram reconhecidas no julgado.
+Tampouco é reflexa: discute-se a possibilidade de condenar com base em vestígio
+cuja identidade o Estado não é capaz de assegurar, o que toca diretamente o
+contraditório e a presunção de inocência.”
+Destaca que “Não afastada a presunção do Tema 506 por elementos
+objetivos, e inexistente na denúncia a descrição fática que permitiria examinar seu
+cabimento, a classificação da conduta como tráfico carece de base.”
+2
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código BA45-65CE-95DF-6990 e senha 0938-28E4-9532-BC52
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 7 de 22
+
+ARE 1589243 AGR / RJ
+
+Relata que “A perícia não identificou o sexo das plantas nem quantificou o
+princípio ativo, e o v. acórdão contentou-se com a assertiva de que os peritos
+constataram a existência de THC, sem qualquer especificação. ”
+Aduz que “A quarta questão diz respeito à dosimetria. O v. acórdão elevou
+a pena-base considerando graves as circunstâncias e a quantidade do material, e
+em seguida recusou a minorante do art. 33, §4º, ao afirmar que o agravante não
+seria novato no narcotráfico dada a exorbitante quantidade.”
+É o relatório.
+
+3
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código BA45-65CE-95DF-6990 e senha 0938-28E4-9532-BC52
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 8 de 22
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.589.243 RIO
+DE JANEIRO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. LUIZ FUX
+: GABRIEL VARELLA NEVES DE MORAES SILVA
+: FELIPE FRANCISCO PEIXOTO AZEREDO
+: MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE
+JANEIRO
+: PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DO
+RIO DE JANEIRO
+VOTO
+
+O EXMO. SR. MINISTRO LUIZ FUX (RELATOR): A presente
+irresignação não merece prosperar.
+Em que pesem os argumentos expendidos no agravo, resta
+evidenciado das razões recursais que o agravante não trouxe alegação
+capaz de infirmar a decisão hostilizada, razão pela qual ela deve ser
+mantida, por seus próprios fundamentos.
+Consoante já afirmado na decisão recorrida, o Plenário do Supremo
+Tribunal Federal, no julgamento do RE 603.616, no qual se interpretou os
+limites da cláusula de inviolabilidade do domicílio (CF/88, art. 5º, XI),
+fixou a seguinte tese de repercussão geral: “A entrada forçada em domicílio
+sem mandado judicial só é lícita, mesmo em período noturno, quando amparada
+em fundadas razões, devidamente justificadas a posteriori , que indiquem que
+dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade
+disciplinar, civil e penal do agente ou da autoridade, e de nulidade dos atos
+praticados”.
+In casu, o Tribunal a quo reconheceu a licitude das provas obtidas
+mediante o ingresso dos agentes policiais no domicílio do recorrido, à
+consideração de que:
+“Os PCs, de forma CONVICTA, declinaram que receberam
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 45F8-CE3A-ACDF-1311 e senha 93CA-D081-1443-C4BE
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 9 de 22
+
+ARE 1589243 AGR / RJ
+informações do Setor de Inteligência da UPJ, que noticiava que um
+indivíduo cultivava maconha na Rua Eutíquio Soledade, nº 124, Ilha
+do Governador.
+Durante as investigações, foi descoberto que seriam drogas de
+melhor qualidade, comercializadas por maior preço. Também foi
+averiguado que as drogas eram cultivadas em residências.
+Depois de fabricadas, as drogas eram comercializadas por
+“playboys” da região.
+O PC Marcelo declinou que o Setor de Inteligência já vinha
+fazendo as investigações por um “bom tempo”.
+Os agentes da lei foram ao local. Chamaram, mas ninguém
+atendeu. Por isso, pediram permissão para o vizinho permitir a
+entrada, o que foi aceito. Colocaram uma escada no muro da casa
+contígua à do Réu e perceberam que se tratava de imóvel desabitado,
+com um quintal grande nos fundos, no qual havia plantação de
+maconha.
+Diante da situação flagrancial encimada, entraram na casa
+objeto das investigações. Lá, viram que as plantas tinham odor bem
+forte de “cannabis”. Logo em seguida, encontraram o acusado na porta
+da cozinha. Gabriel disse que não era proprietário da residência, estava
+no local de passagem e não podia falar nada sobre as drogas.
+É DE DESTAQUE QUE OS PCS ENCONTRARAM, AO
+LADO DO RÉU, VÁRIAS PLANTAS DE “CANNABIS SATIVA
+L” (TOTAL DE 500G), QUE FORAM COLHIDAS POR ELE.
+Se não bastasse, foram encontrados diversos fertilizantes e
+produtos utilizados para o plantio da maconha.
+(...)
+Ora, é indubitável que a situação acima descrita justifica a
+“fundada suspeita” para que fosse efetivada a revista pessoal, em
+consonância com o que prevê o artigo 244 do Código de Processo
+Penal: “A busca pessoal independerá de mandado, no caso de prisão ou
+
+2
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 45F8-CE3A-ACDF-1311 e senha 93CA-D081-1443-C4BE
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 10 de 22
+
+ARE 1589243 AGR / RJ
+quando houver fundada suspeita de que a pessoa esteja na posse de
+arma proibida ou de objetos ou papéis que constituam corpo de delito,
+ou quando a medida for determinada no curso de busca domiciliar”.
+Aliás, os PCs foram ao local em razão de investigações feitas pelo
+Setor de Inteligência da DP. Foi descoberto, durante as investigações,
+que o Réu cultivava maconha na Rua Eutíquio Soledade, nº 124, Ilha
+do Governador. Os PCs bateram na casa, mas ninguém atendeu.
+Entraram na casa do vizinho, com autorização deste. De lá, viram que
+a residência onde o acusado estava POSSUÍA UMA PLANTAÇÃO
+DE MACONHA.
+Assim, entraram na residência objeto das investigações e
+constataram que, de fato, o Réu cultivava maconha no local.
+Logo, as investigações do Setor de Inteligência da Polícia, em
+conjunto com o flagrante do Réu na residência com vasto cultivo de
+“cannabis sativa l”, sem mencionar que ele já havia colhido cerca de
+500g de folhas da matéria prima em questão, configuram a situação de
+"fundada suspeita" e justificam a entrada de PCs na casa, bem como a
+abordagem do Réu.”.
+
+Nesse contexto, verifica-se que o acórdão recorrido está em
+consonância com a Jurisprudência desta Suprema Corte na matéria, como
+se extrai dos seguintes precedentes, que tratam tanto da busca pessoal
+(que independe de mandado judicial) quanto da busca domiciliar,
+realizadas por agentes dos órgãos de segurança pública:
+“PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL.
+RECURSO EXTRAORDINÁRIO. TRÁFICO DE DROGAS.
+BUSCA E APREENSÃO DOMICILIAR. FUNDADAS RAZÕES
+PARA O INGRESSO NO IMÓVEL DEVIDAMENTE
+COMPROVADAS A POSTERIORI. OBSERVÂNCIA DAS
+DIRETRIZES FIXADAS POR ESTA SUPREMA CORTE NO
+JULGAMENTO DO TEMA 280 DA REPERCUSSÃO GERAL.
+
+3
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 45F8-CE3A-ACDF-1311 e senha 93CA-D081-1443-C4BE
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 11 de 22
+
+ARE 1589243 AGR / RJ
+ACÓRDÃO RECORRIDO EM DESCONFORMIDADE COM A
+JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. 1.
+A inviolabilidade domiciliar constitui uma das mais antigas e
+importantes garantias individuais de uma Sociedade civilizada pois
+engloba a tutela da intimidade, da vida privada, da honra, bem como a
+proteção individual e familiar do sossego e tranquilidade, que não
+podem ceder – salvo excepcionalmente – à persecução penal do Estado.
+2. Os direitos à intimidade e à vida privada – consubstanciados em
+bens, pertences e documentos pessoais existentes dentro de "casa" –
+garantem uma salvaguarda ao espaço íntimo intransponível por
+intromissões ilícitas externas, e contra flagrantes arbitrariedades. 3.
+Excepcionalmente, porém, a Constituição Federal estabelece específica
+e restritamente as hipóteses possíveis de violabilidade domiciliar, para
+que a “casa” não se transforme em garantia de impunidade de crimes,
+que em seu interior se pratiquem ou se pretendam ocultar. Dessa
+maneira, nos termos do já citado inciso XI, do artigo 5º da
+Constituição Federal, a casa é o asilo inviolável do indivíduo, ninguém
+nela podendo penetrar sem consentimento do morador, salvo em caso
+de flagrante delito ou desastre, ou para prestar socorro, ou, ainda,
+durante o dia, por determinação judicial. 4. O alcance interpretativo
+do inciso XI, do artigo 5º da Constituição Federal foi definido pelo
+SUPREMO TRIBUNAL FEDERAL, na análise do RE 603.616/RO
+(Rel. Min. GILMAR MENDES, DJe de 10/5/2016, Tema 280 de
+Repercussão Geral), a partir, exatamente, das premissas da
+excepcionalidade e necessidade de eficácia total da garantia
+fundamental; tendo sido estabelecida a seguinte TESE: “A entrada
+forçada em domicílio sem mandado judicial só é lícita, mesmo em
+período noturno, quando amparada em fundadas razões, devidamente
+justificadas a posteriori, que indiquem que dentro da casa ocorre
+situação de flagrante delito, sob pena de responsabilidade disciplinar,
+civil e penal do agente ou da autoridade, e de nulidade dos atos
+praticados.” 5. Ocorre, entretanto, que o Superior Tribunal de Justiça,
+no caso concreto ora sob análise, concluiu que, não obstante o suspeito
+tenha empreendido fuga e ingressado em sua residência ao avistar os
+policiais durante patrulhamento de rotina, tais fatos não constituiriam
+
+4
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 45F8-CE3A-ACDF-1311 e senha 93CA-D081-1443-C4BE
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 12 de 22
+
+ARE 1589243 AGR / RJ
+fundamentos hábeis a permitir o ingresso em seu domicílio. 6. Em se
+tratando de delito de tráfico de drogas praticado, em tese, na
+modalidade "guardar", a consumação se prolonga no tempo e,
+enquanto configurada essa situação, a flagrância permite a
+busca domiciliar, independentemente da expedição de mandado
+judicial, desde que presentes fundadas razões de que em seu
+interior ocorre a prática de crime, como consignado no
+indigitado RE 603.616, portador do Tema 280 da sistemática da
+Repercussão Geral do STF. 7. Agravo Regimental a que se nega
+provimento”. (RE 1.466.339-AgR, Rel. Min. Alexandre de Moraes,
+Primeira Turma, DJe de 09/01/2024)
+“AGRAVO
+REGIMENTAL
+NO
+RECURSO
+EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL.
+APREENSÃO DE ENTORPECENTE. DENÚNCIA ANÔNIMA.
+BUSCA PESSOAL. INGRESSO DOMICILIAR POSTERIOR.
+AUTORIZAÇÃO DO SUSPEITO. FUNDADAS RAZÕES.
+INVIOLABILIDADE DE DOMICÍLIO: INC. XI DO ART. 5º DA
+CONSTITUIÇÃO DA REPÚBLICA. BUSCA E APREENSÃO
+DOMICILIAR SEM MANDADO JUDICIAL EM CASO DE
+CRIME PERMANENTE. POSSIBILIDADE. TEMA 280 DA
+REPERCUSSÃO GERAL. ACÓRDÃO DO TRIBUNAL DE
+ORIGEM DIVERGENTE DA JURISPRUDÊNCIA DO
+SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL
+DESPROVIDO”. (ARE 1.441.784-AgR, Rel. Min. Cármen Lúcia,
+Primeira Turma, DJe de 24/08/2023)
+“EMENTA: AGRAVO REGIMENTAL NO RECURSO
+ORDINÁRIO EM HABEAS CORPUS. DESRESPEITO DA
+INVIOLABILIDADE
+DE DOMICÍLIO:
+INOCORRÊNCIA.
+FLAGRANTE: FUNDADAS RAZÕES PARA INGRESSO DOS
+POLICIAIS. 1. Demonstradas fundadas razões a indicar a ocorrência
+de situação de flagrante em domicílio, não surge desrespeitada a
+inviolabilidade domiciliar. 2. O crime de tráfico de drogas, na
+modalidade “ter em depósito”, possui natureza permanente,
+
+5
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 45F8-CE3A-ACDF-1311 e senha 93CA-D081-1443-C4BE
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 13 de 22
+
+ARE 1589243 AGR / RJ
+prolongando-se no tempo o estado flagrancial. 3. A urgência é ínsita
+ao estado flagrancial, situação que autoriza a invasão
+domiciliar, em qualquer horário e sem autorização judicial —
+CFRB, art. 5º, inc. XI. 4. Agravo regimental a que se nega
+provimento.” (RHC 213.142-AgR, Rel. Min. André Mendonça,
+Segunda Turma, DJe de 10/01/2023)
+“DIREITO CONSTITUCIONAL E PROCESSUAL PENAL.
+RECURSO EXTRAORDINÁRIO COM AGRAVO. INGRESSO
+DOMICILIAR
+SEM
+MANDADO
+JUDICIAL.
+CRIME
+PERMANENTE.
+INTERCEPTAÇÃO
+TELEFÔNICA.
+FUNDADAS RAZÕES PARA A DILIGÊNCIA. TEMA 280/RG.
+AGRAVO REGIMENTAL DESPROVIDO. I. CASO EM EXAME
+Recurso extraordinário com agravo interposto contra decisão que
+reconheceu a legalidade do ingresso em domicílio sem mandado
+judicial, realizado com base em investigação prévia e interceptação
+telefônica que indicavam a entrega de drogas em local determinado. A
+diligência culminou na prisão em flagrante por crime permanente. II.
+QUESTÃO EM DISCUSSÃO A questão em discussão consiste em
+verificar a existência de fundadas razões que justifiquem a invasão
+domiciliar sem autorização judicial, à luz da jurisprudência do
+Supremo Tribunal Federal sobre o Tema 280 da repercussão geral. III.
+RAZÕES DE DECIDIR A autoridade policial realizou o ingresso em
+domicílio com fundamento em investigação anterior, inclusive
+aparelhada com interceptação telefônica judicialmente autorizada. A
+jurisprudência do STF, firmada no julgamento do RE 603.616/RO
+(Tema 280), admite a entrada em domicílio sem mandado judicial em
+caso de fundadas razões, especialmente quando se trata de crime
+permanente, desde que justificadas a posteriori com base no que se
+sabia antes. Sendo o tráfico de drogas crime de natureza permanente,
+cuja consumação se prolonga no tempo, não se exige mandado judicial
+quando presentes elementos concretos que indiquem flagrante-delito.
+Ausentes argumentos que infirmem a decisão agravada, mantém-se a
+conclusão de legalidade da diligência. IV. DISPOSITIVO Agravo
+regimental desprovido.” (ARE 1538881 AgR, Relator(a): ANDRÉ
+
+6
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 45F8-CE3A-ACDF-1311 e senha 93CA-D081-1443-C4BE
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 14 de 22
+
+ARE 1589243 AGR / RJ
+MENDONÇA, Segunda Turma, julgado em 07-05-2025,
+PROCESSO ELETRÔNICO DJe-s/n
+DIVULG 16-05-2025
+PUBLIC 19-05-2025)
+
+Lado outro, a jurisprudência desta Corte é uníssona no sentido de
+que a verificação de ofensa aos princípios da legalidade, do livre acesso à
+justiça, do devido processo legal, da ampla defesa, do contraditório e da
+motivação das decisões judiciais, bem como aos limites da coisa julgada,
+quando dependente do reexame prévio de normas infraconstitucionais,
+revela ofensa indireta ou reflexa à Constituição Federal, o que, por si só,
+não desafia a instância extraordinária. Nesse sentido, colaciono os
+seguintes julgados:
+“RECURSO EXTRAORDINÁRIO COM AGRAVO –
+MATÉRIA PENAL – ALEGADA VIOLAÇÃO AOS PRECEITOS
+INSCRITOS NO ART. 5º, LIV E LV, DA CONSTITUIÇÃO DA
+REPÚBLICA – AUSÊNCIA DE OFENSA DIRETA –
+TRANSGRESSÃO AO ART. 93, IX, DA CARTA MAGNA –
+INOCORRÊNCIA – AGRAVO INTERNO IMPROVIDO.”
+(ARE 1.177.197-AgR, Rel. Min. Celso de Mello, Segunda Turma,
+DJe de 29/4/2019)
+EMENTA DIREITO PENAL E PROCESSUAL PENAL.
+EMBARGOS DE DECLARAÇÃO OPOSTOS FORA DO PRAZO
+NÃO SUSPENDEM NEM INTERROMPEM O PRAZO PARA O
+MANEJO
+DO
+APELO
+EXTREMO.
+RECURSO
+EXTRAORDINÁRIO
+INTEMPESTIVO.
+ALEGAÇÃO
+DE
+OFENSA AO ART. 5º, II, XXXVI, LIV E LV, DA
+CONSTITUIÇÃO
+DA
+REPÚBLICA.
+LEGALIDADE.
+CONTRADITÓRIO E AMPLA DEFESA. DEVIDO PROCESSO
+LEGAL. INAFASTABILIDADE DA JURISDIÇÃO. AUSÊNCIA
+DE REPERCUSSÃO GERAL. EVENTUAL VIOLAÇÃO
+REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO
+
+7
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 45F8-CE3A-ACDF-1311 e senha 93CA-D081-1443-C4BE
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 15 de 22
+
+ARE 1589243 AGR / RJ
+VIABILIZA O RECURSO EXTRAORDINÁRIO. AGRAVO NÃO
+PROVIDO. 1. Interposto o recurso extraordinário após esgotado o
+prazo legal de 15 (quinze) dias, contados do dia imediatamente
+posterior à publicação do acórdão recorrido, manifesta sua
+intempestividade. 2. O entendimento consignado na decisão agravada
+reflete a jurisprudência firmada no Supremo Tribunal Federal. Os
+embargos de declaração declarados intempestivos na origem não
+suspendem nem interrompem o prazo para o manejo do apelo extremo.
+3. O exame da alegada ofensa ao art. 5º, II, XXXVI, LIV e LV,
+da Magna Carta, observada a estreita moldura com que
+devolvida a matéria à apreciação desta Suprema Corte,
+dependeria de prévia análise da legislação infraconstitucional
+aplicada, o que foge à competência jurisdicional extraordinária
+prevista no art. 102 da Lei Maior. 4. Agravo interno conhecido e
+não provido. (ARE 1429813 AgR, Relator(a): ROSA WEBER
+(Presidente), Tribunal Pleno, julgado em 15-05-2023, PROCESSO
+ELETRÔNICO DJe-s/n DIVULG 30-05-2023 PUBLIC 31-05-2023)
+
+Ademais, divergir das conclusões às quais chegou o Tribunal de
+origem quanto ao potencial entorpecente do material apreendido, bem
+como de sua destinação ao tráfico, demandaria, no presente caso, o
+reexame do conjunto fático-probatório dos autos.
+Não se revela cognoscível, em sede de recurso extraordinário, a
+insurgência que tem como escopo o incursionamento no contexto fáticoprobatório engendrado nos autos, porquanto referida pretensão não se
+amolda à estreita via do apelo extremo, cujo conteúdo se restringe à
+discussão eminentemente de direito, face ao óbice erigido pela Súmula
+279 do STF. Nesse sentido:
+“Direito penal. Agravo regimental no recurso extraordinário
+com agravo. Tráfico de drogas. Reexame de fatos e provas. Súmula
+279/STF. Valoração das circunstâncias judiciais. Matéria
+
+8
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 45F8-CE3A-ACDF-1311 e senha 93CA-D081-1443-C4BE
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 16 de 22
+
+ARE 1589243 AGR / RJ
+infraconstitucional. Tema 182/RG. Agravo regimental a que se nega
+provimento. I. Caso em exame 1. Agravo regimental interposto da
+decisão que negou seguimento a recurso extraordinário com agravo. 2.
+O recurso extraordinário foi interposto para impugnar acórdão do do
+Tribunal de Justiça do Estado de São Paulo que negou provimento ao
+apelo defensivo. II. Questão em discussão: 3. Preenchimento dos
+pressupostos de admissibilidade do recurso extraordinário. III. Razão
+de decidir: 4. Questões relacionadas à materialidade e autoria
+delitivas demandam o revolvimento dos fatos e das provas
+constantes dos autos, de modo que incide o óbice da Súmula
+279/STF. 5. Eventual desproporcionalidade na majoração da pena-base
+é matéria afeta às instâncias ordinárias, mais próximas dos fatos, e
+constitui, se existente, violação meramente reflexa ou indireta à
+Constituição Federal. Tema 182/RG. 6. Necessidade de revolvimento
+do conjunto fático-probatório dos autos. Óbice da Súmula 279/STF. 7.
+Agravante condenado à pena de 2 anos e 6 meses de reclusão, em
+regime aberto, como incurso no art. 33, § 4º, da Lei de Drogas.
+Descabida a extinção da punibilidade pelo fato de o agravante ter
+cumprido 1 ano e 10 meses de pena em regime diverso daquele fixado,
+porquanto ainda resta tempo de pena a cumprir. IV. Dispositivo: 8.
+Agravo regimental não conhecido.” (ARE 1570088 AgR, Relator(a):
+GILMAR MENDES, Segunda Turma, julgado em 16-12-2025,
+PROCESSO ELETRÔNICO DJe-s/n
+DIVULG 17-12-2025
+PUBLIC 18-12-2025)
+“DIREITO PROCESSUAL PENAL E CONSTITUCIONAL.
+AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO
+COM AGRAVO. TRÁFICO DE DROGAS E ASSOCIAÇÃO AO
+TRÁFICO. AUSÊNCIA DE REPERCUSSÃO GERAL. OFENSA
+REFLEXA À CONSTITUIÇÃO. NECESSIDADE DE REEXAME
+DE PROVAS. SÚMULA 279/STF. APLICAÇÃO DOS TEMAS 339
+E 660 DA REPERCUSSÃO GERAL. AGRAVO REGIMENTAL
+DESPROVIDO. I. Caso em exame 1. Agravo Regimental interposto
+contra decisão pela qual neguei seguimento ao Recurso Extraordinário
+
+9
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 45F8-CE3A-ACDF-1311 e senha 93CA-D081-1443-C4BE
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 17 de 22
+
+ARE 1589243 AGR / RJ
+com Agravo aos fundamentos de que (i) não houve demonstração
+fundamentada da repercussão geral; (ii) incide ao caso a Súmula
+279/STF e os Temas 339 e 660 da Repercussão Geral e (iii) o exame da
+pretensão veiculada neste apelo situa-se no contexto normativo
+infraconstitucional. II. Questão em discussão 2. Inaplicabilidade dos
+óbices processuais invocados na decisão agravada. III. Razões de
+decidir 3. A obrigação do recorrente em apresentar formal e
+motivadamente a preliminar de repercussão geral, que demonstre sob o
+ponto de vista econômico, político, social ou jurídico, a relevância da
+questão constitucional debatida que ultrapasse os interesses subjetivos
+da causa, conforme exigência constitucional e legal (art. 102, § 3º, da
+CF/88, c/c art. 1.035, § 2º, do CPC/2015), não se confunde com meras
+invocações desacompanhadas de sólidos fundamentos no sentido de
+que o tema controvertido é portador de ampla repercussão e de suma
+importância para o cenário econômico, político, social ou jurídico, ou
+que não interessa única e simplesmente às partes envolvidas na lide,
+muito menos ainda divagações de que a jurisprudência do SUPREMO
+TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida,
+entre outras de igual patamar argumentativo. 4. A análise das teses
+defensivas exige reexame do conjunto fático-probatório,
+especialmente quanto à autoria, materialidade e dinâmica dos
+fatos, o que é vedado em Recurso Extraordinário, nos termos da
+Súmula 279/STF. 5. A controvérsia relacionada ao exame das
+alegações relativas à ilicitude da prova, insuficiência probatória,
+dosimetria da pena e incidência de causa de aumento pressupõe
+interpretação de legislação infraconstitucional e análise do conjunto
+probatório dos autos, o que caracteriza ofensa meramente indireta à
+CONSTITUIÇÃO FEDERAL. 6. O acórdão impugnado condenou o
+recorrente com base em legislação ordinária e no substrato fático dos
+autos, afastando as teses da defesa, o que implica que as alegadas
+ofensas à CONSTITUIÇÃO FEDERAL seriam meramente indiretas.
+7. No julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR
+MENDES, Tema 660), esta CORTE rejeitou a repercussão geral da
+alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa
+julgada ou aos princípios da legalidade, do contraditório, da ampla
+
+10
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 45F8-CE3A-ACDF-1311 e senha 93CA-D081-1443-C4BE
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 18 de 22
+
+ARE 1589243 AGR / RJ
+defesa e do devido processo legal, quando se mostrar imprescindível o
+exame de normas de natureza infraconstitucional. 8. Quanto à ofensa
+ao art. 93, IX, da CONSTITUIÇÃO FEDERAL, esta CORTE firmou
+entendimento no sentido de que o dispositivo “exige que o acórdão ou
+decisão sejam fundamentados, ainda que sucintamente, sem
+determinar, contudo, o exame pormenorizado de cada uma das
+alegações ou provas, nem que sejam corretos os fundamentos da
+decisão” (AI 791.292-QO-RG/PE, Rel. Min. GILMAR MENDES,
+Tema 339). IV. Dispositivo e tese 9. Agravo regimental a que se nega
+provimento.” (ARE 1601421 AgR, Relator(a): ALEXANDRE DE
+MORAES, Primeira Turma, julgado em 01-06-2026, PROCESSO
+ELETRÔNICO DJe-s/n DIVULG 15-06-2026 PUBLIC 16-062026)
+“Direito Penal e Processual Penal. Agravo Regimental no
+Recurso Extraordinário com Agravo. Tráfico de drogas privilegiado.
+Fração da minorante. Dosimetria e regime fechado. Fundamentação do
+acórdão recorrido. Interpretação de normas infraconstitucionais.
+Revolvimento de fatos e provas: verbete nº 279 da súmula do STF.
+Decisão fundamentada (Tema RG nº 339). Recurso não provido. I.
+Caso em exame 1. Agravo regimental interposto contra decisão pela
+qual se negou seguimento a recurso extraordinário em que se buscava
+reformar acórdão condenatório pelo crime de tráfico de drogas, para
+obter aplicação da fração máxima do redutor da minorante do tráfico
+privilegiado e fixação de regime mais brando ou, subsidiariamente, a
+desclassificação da conduta. II. Questão em discussão 2. Há três
+questões em discussão: (i) definir se o acórdão recorrido carece de
+fundamentação, em afronta ao art. 93, inc. IX, da Constituição; (ii)
+estabelecer se é possível, em recurso extraordinário, o reexame de fatos,
+provas e da legislação infraconstitucional; (iii) verificar se seria caso de
+concessão de ordem de habeas corpus de ofício. III. Razões de decidir 3.
+O Supremo Tribunal Federal, ao julgar o Tema RG nº 339, firmou
+entendimento de que o art. 93, inc. IX, da Constituição exige
+fundamentação das decisões, ainda que sucinta, sem obrigar o exame
+
+11
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 45F8-CE3A-ACDF-1311 e senha 93CA-D081-1443-C4BE
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 19 de 22
+
+ARE 1589243 AGR / RJ
+exaustivo de todos os argumentos apresentados. 4. No acórdão
+recorrido apresenta-se fundamentação suficiente, abordando os
+elementos de autoria e materialidade do crime de tráfico de
+drogas, para o qual desnecessário flagrante da mercância, bem
+como as circunstâncias que justificaram aplicação do redutor na fração
+mínima e fixação de regime mais gravoso. 5. A análise pretendida
+pela parte agravante demanda reexame do conjunto fáticoprobatório (verbete nº 279 da Súmula do STF) e interpretação de
+normas do Código Penal, o que é vedado em recurso extraordinário. 6.
+A suposta violação aos preceitos constitucionais invocados configura,
+no máximo, ofensa indireta ou reflexa à Constituição, o que inviabiliza
+o conhecimento do recurso nesta via recursal. 7. A concessão de habeas
+corpus de ofício é medida excepcional, cabível apenas em casos de
+flagrante ilegalidade, teratologia ou abuso de direito, o que não se
+verifica na hipótese. IV. Dispositivo 8. Agravo regimental não
+provido.” (ARE 1549988 AgR, Relator(a): ANDRÉ MENDONÇA,
+Segunda Turma, julgado em 20-10-2025, PROCESSO
+ELETRÔNICO DJe-s/n DIVULG 04-11-2025 PUBLIC 05-112025)
+
+Quanto à apontada violação ao art. 5º, LXIII, revelada pela alegação
+de que o Tribunal a quo valorou negativamente o uso, pelo recorrente, do
+direito constitucional ao silêncio, verifica-se que, embora haja menção, no
+acórdão recorrido, à ausência de manifestação do réu quanto aos fatos a
+ele imputados, tal circunstância não foi utilizada para a manutenção da
+condenação, que se deu em razão das provas constantes dos autos; e nem
+fundamentou qualquer agravamento da reprimenda originalmente
+aplicada. Com efeito, extrai-se do acórdão recorrido que:
+“Para a configuração do delito de tráfico de drogas na
+modalidade do artigo 33, §1º, II, o necessário é que as testemunhas
+confirmem que o Réu semeava, cultivava ou fazia a colheita, sem
+autorização ou em desacordo com determinação legal ou regulamentar,
+
+12
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 45F8-CE3A-ACDF-1311 e senha 93CA-D081-1443-C4BE
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 20 de 22
+
+ARE 1589243 AGR / RJ
+de plantas que se constituem em matéria-prima para a preparação de
+drogas, o que ocorreu nos autos.
+Assim, verifica-se que a condenação do acusado no crime de
+tráfico de drogas foi feita com base nas provas carreadas aos autos, não
+merecendo nenhum reparo a sentença condenatória.”
+
+A jurisprudência desta Suprema Corte é firme no sentido de que o
+princípio pas de nullité sans grief exige a demonstração de prejuízo
+concreto à parte que suscita a nulidade, o que não se verifica in casu, uma
+vez que o recorrente apenas alega a nulidade, sem comprovação do
+prejuízo à defesa.
+Por fim, quanto à alegada violação ao art. 5º, XLVI, da Constituição
+Federal, a jurisprudência desta Corte é uníssona no sentido de que a
+resolução da controvérsia atinente à individualização da pena demanda a
+análise da legislação infraconstitucional aplicável à espécie (Código
+Penal), o que se revela inviável em sede de recurso extraordinário, por
+configurar ofensa indireta à Constituição Federal. Nesse sentido:
+“AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO
+COM AGRAVO. ALEGADA AFRONTA AO ART. 5º, XLVI E
+XLVIII,
+DA
+MAGNA
+CARTA.
+PRINCÍPIO
+DA
+INDIVIDUALIZAÇÃO DA PENA. REGIME INICIAL DE
+CUMPRIMENTO DA REPRIMENDA. TEMAS SITUADOS NO
+CONTEXTO
+NORMATIVO
+INFRACONSTITUCIONAL.
+INVIABILIDADE DE REEXAME PROBATÓRIO. INCIDÊNCIA
+DA SÚMULA 279 DO STF. 1. Nos termos da jurisprudência do
+Supremo Tribunal Federal, a alegação de afronta ao princípio
+da individualização das penas configura matéria situada no
+contexto normativo infraconstitucional, de forma que as
+ofensas à Constituição indicadas no recurso extraordinário são
+meramente indiretas (ou mediatas), o que inviabiliza o
+conhecimento do referido apelo. Precedentes. 2. Há precedentes de
+
+13
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 45F8-CE3A-ACDF-1311 e senha 93CA-D081-1443-C4BE
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 21 de 22
+
+ARE 1589243 AGR / RJ
+ambas as Turmas desta Corte no sentido de que a revisão dos critérios
+utilizados para a fixação do regime inicial de cumprimento da
+pena exige o incursionamento nos fatos e provas concernentes à
+causa, o que encontra óbice na Súmula 279 do STF. 3. Agravo
+interno a que se nega provimento.” (ARE 1.055.410-AgR, Rel. Min.
+Alexandre de Moraes, Primeira Turma, DJe de 21/11/2017).
+
+Mantenho a compreensão de que, sob esse enfoque, ressoa
+inequívoca inadmissibilidade do apelo extremo.
+Consectariamente, forçoso é concluir que, à luz do entendimento
+jurisprudencial desta Corte, o presente agravo revela-se inadmissível.
+Ex positis, NEGO PROVIMENTO ao agravo interno.
+É como voto.
+
+14
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 45F8-CE3A-ACDF-1311 e senha 93CA-D081-1443-C4BE
+
+Supremo Tribunal Federal
+Extrato de Ata - 21/09/2026
+
+Inteiro Teor do Acórdão - Página 22 de 22
+
+SEGUNDA TURMA
+
+EXTRATO DE ATA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.589.243
+PROCED. : RIO DE JANEIRO/RJ
+RELATOR(A): MIN. LUIZ FUX
+AGTE.(S): GABRIEL VARELLA NEVES DE MORAES SILVA
+ADV.(A/S): FELIPE FRANCISCO PEIXOTO AZEREDO (234167/RJ)
+AGDO.(A/S): MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO
+PROC.(A/S)(ES): PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DO RIO DE
+JANEIRO
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto do Relator, Ministro Luiz Fux.
+Segunda Turma, Sessão Virtual de 11.9.2026 a 18.9.2026.
+Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes,
+Dias Toffoli, Nunes Marques e André Mendonça.
+Thiago Fernandes Lins
+Secretário da Segunda Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D949-C0A3-0E26-753B e senha 7BC2-6933-386E-9D08
