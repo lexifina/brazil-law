@@ -1,0 +1,93 @@
+DECISÃO:
+Trata-de de habeas corpus, com pedido de liminar, impetrado em favor de Luiz Claudio de Queiroz, apontando como autoridade coatora o Superior Tribunal de Justiça, que rejeitou os embargos de declaração nos EDcl no AgRg no REsp nº 2.051.896/RJ, Relator o Ministro Rogério Schietti Cruz (e-doc. 12).
+Consta dos autos que o paciente foi inicialmente condenado à pena de 4 (quatro) anos de reclusão, em regime aberto, mais o pagamento de 10 (dez) dias-multa, pela prática do crime disposto no art. 4º da Lei nº 7.492/1986.
+Em sede de apelação criminal, o Tribunal Regional Federal da 2ª Região deu parcial provimento ao recurso, reduzindo a pena do paciente para 2 (dois) anos de reclusão, mantido o regime aberto e o pagamento de 10 (dez) dias-multa. Interposto REsp, o TRF 2 inadmitiu o recurso.
+Irresignada a defesa interpôs Agravo em REsp perante o Superior Tribunal de Justiça, que por meio de decisão monocrática, conheceu o agravo para negar provimento ao recurso especial. Interposto agravo regimental, a Sexta Turma do STJ, negou provimento ao recurso. Opostos dois embargos de declaração em sequência, ambos foram igualmente rejeitados.
+Neste writ, a defesa sustenta, em síntese, a ocorrência de constrangimento ilegal em decorrência do afastamento ilegal da prescrição da pretensão punitiva.
+Requer ao final:
+
+“a) o conhecimento do presente habeas corpus, por versar sobre constrangimento ilegal diretamente relacionado à liberdade do paciente e aferível de plano a partir de marcos processuais incontroversos;
+b) liminarmente, a suspensão de quaisquer atos de execução da pena ou medidas restritivas de liberdade decorrentes da condenação imposta ao paciente, até o julgamento definitivo da presente impetração;
+c) no mérito, a concessão definitiva da ordem para reconhecer que, considerada a pena concretamente fixada em 02 anos de reclusão e o correspondente prazo prescricional de 04 anos, a prescrição da pretensão punitiva já se encontrava consumada antes do julgamento da apelação ocorrido em 11 de novembro de 2021;
+d) seja reconhecido que a aptidão interruptiva do acórdão confirmatório pressupõe a existência de prazo prescricional ainda em curso no momento de sua prolação, não podendo o pronunciamento jurisdicional posterior produzir eficácia retroativa capaz de restaurar pretensão punitiva anteriormente extinta;
+e) por consequência, seja declarada extinta a punibilidade de LUIZ CLAUDIO DE QUEIROZ, pela prescrição da pretensão punitiva, nos termos dos arts. 107, IV, 109, V, 110 e 117 do Código Penal;
+f) subsidiariamente, caso se entenda necessária nova apreciação da matéria pela autoridade apontada como coatora, seja cassado o acórdão impugnado para que outro seja proferido, com enfrentamento específico da circunstância de que o prazo prescricional defendido pelo paciente já se encontrava integralmente exaurido antes da prolação do acórdão utilizado como causa interruptiva;
+g) ainda subsidiariamente, caso não se conheça do habeas corpus por inadequação da via eleita, seja reconhecida a flagrante ilegalidade e concedida a ordem de ofício, diante da natureza de ordem pública da prescrição, da ausência de necessidade de dilação probatória e da possibilidade de aferição imediata do constrangimento a partir dos elementos objetivos constantes dos autos.”
+
+Indeferida a liminar (e-doc. 16), foram prestadas informações pelo TRF2 (e-docs. 19-24).
+Instada, a PGR  se manifestou pela concessão da ordem, conforme parecer assim ementado:
+
+“HABEAS CORPUS. PENAL E PROCESSUAL PENAL. SUCEDÂNEO DE RECURSO PRÓPRIO. NÃO CONHECIMENTO. CRIME CONTRA O SISTEMA FINANCEIRO NACIONAL. GESTÃO TEMERÁRIA (ARTIGO 4º, PARÁGRAFO ÚNICO, DA LEI Nº 7.492/1986). PENA EM CONCRETO FIXADA EM 2 (DOIS) ANOS DE RECLUSÃO. PRAZO PRESCRICIONAL QUADRIENAL (ARTIGO 109, V, C/C ARTIGO 110, § 1º, DO CÓDIGO PENAL). SENTENÇA CONDENATÓRIA PROFERIDA EM MARÇO DE 2016. EXAURIMENTO INTEGRAL DO LAPSO PRESCRICIONAL EM MARÇO DE 2020. ACÓRDÃO DE APELAÇÃO PROFERIDO APENAS EM OUTUBRO DE 2021. IMPOSSIBILIDADE DE INTERRUPÇÃO DE PRAZO JÁ EXAURIDO. INEXISTÊNCIA DE EFEITO RESTAURADOR DA PRETENSÃO PUNITIVA ESTATAL. DISTINÇÃO (DISTINGUISHING) NECESSÁRIA EM RELAÇÃO AO HC 176.473/RR DO PLENÁRIO DO STF. INAPTIDÃO DOS EMBARGOS DE DECLARAÇÃO PARA ALTERAR A ORDEM CRONOLÓGICA DOS FATOS JURÍDICOS CONSOLIDADOS. EVIDENTE CONSTRANGIMENTO ILEGAL. PARECER PELA CONCESSÃO DA ORDEM PARA DECLARAR A EXTINÇÃO DA PUNIBILIDADE.” (e-doc. 26)
+
+Examinados os autos, decido.
+Transcrevo a ementa do acórdão impugnado:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME CONTRA O SISTEMA FINANCEIRO. GESTÃO TEMERÁRIA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. SUPERVENIÊNCIA DE FATO NOVO. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. MARCO INTERRUPTIVO. EMBARGOS DE DECLARAÇÃO TEMPESTIVOS E NÃO PROTELATÓRIOS. CONFIGURAÇÃO. ALEGAÇÕES DEFENSIVAS SOBRE OMISSÃO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1.Nos termos do art. 110, §1°, do CP, a prescrição, depois da sentença condenatória com trânsito em julgado para a acusação, regula-se pela pena aplicada, não podendo ter por termo inicial data anterior à da denúncia ou queixa.
+2.Esta Corte Superior consolidou entendimento no sentido de que os embargos de declaração tempestivos e não protelatórios integram o julgamento do recurso principal, constituindo marco interruptivo da prescrição. Precedente: AgRg no RHC n. 162.262/MA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/6/2022, DJe de 20/6/2022.
+3.No caso concreto, o trânsito em julgado para a acusação, considerada a pena aplicada pelas instâncias ordinárias de 2 anos de reclusão, cuja pretensão punitiva prescreve em 4 anos. Desde a publicação do acórdão que rejeitou os embargos de declaração na Apelação Criminal n. 0806495-09.2010.4.02.5101, em 15.9.2022, não transcorreu o prazo prescricional definido pela Lei. Não há como reconhecer a alegação de prescrição da pretensão punitiva.
+4. Quanto aos demais temas suscitados nos embargos, aplica-se o entendimento de que os embargos de declaração destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no julgado, não se prestando para a revisão de julgado em caso de mero inconformismo da parte.
+5.Embargos de declaração rejeitados.” (e-doc. 12)
+
+No STJ, o Ministro Rogério Schietti Cruz, no voto condutor do acórdão, destacou o seguinte:
+
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração almeja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material.
+Sob essas premissas, constato que, no caso em análise, o julgado não incorreu em nenhuma omissão, obscuridade, contradição ou ambiguidade que justifique estes aclaratórios.
+Verifico, contudo, a superveniência de fato novo: o trânsito em julgado para a acusação. Esta circunstância autoriza o conhecimento específico da questão prescricional suscitada pelos embargantes.
+Passo, portanto, a analisar exclusivamente esse tema.
+Nos termos do art. 110, §1°, do CP, a prescrição, depois da sentença condenatória com trânsito em julgado para a acusação, regula-se pela pena aplicada, não podendo ter por termo inicial data anterior à da denúncia ou queixa. A causa extintiva de punibilidade ocorre nos prazos previstos no art. 109 do CP sendo interrompida nas seguintes hipóteses:
+“Causas interruptivas da prescrição
+Art. 117 - O curso da prescrição interrompe-se:
+I - pelo recebimento da denúncia ou da queixa;
+II - pela pronúncia;
+III - pela decisão confirmatória da pronúncia;
+IV - pela publicação da sentença ou acórdão condenatórios recorríveis;
+V - pelo início ou continuação do cumprimento da pena;
+§ 1º - Excetuados os casos dos incisos V e VI deste artigo, a interrupção da prescrição produz efeitos relativamente a todos os autores do crime. Nos crimes conexos, que sejam objeto do mesmo processo, estende-se aos demais a interrupção relativa a qualquer deles.
+§ 2º - Interrompida a prescrição, salvo a hipótese do inciso V deste artigo, todo o prazo começa a correr, novamente, do dia da interrupção.”
+Considerada a pena aplicada pelas instâncias ordinárias, de 2 anos de reclusão, a pretensão punitiva prescreve em 4 anos.
+Com fundamento nos arts. 110, § 1° e 109, V, ambos do CP, não reconheço o decurso desse prazo, pois, desde a publicação do acórdão que rejeitou os embargos de declaração na Apelação Criminal n. 0806495-09.2010.4.02.5101, em 15.9.2022 (fl. 2.624), não transcorreu o prazo prescricional definido por Lei.
+Esta Corte Superior consolidou entendimento no sentido de que os embargos de declaração tempestivos e não protelatórios integram o julgamento do recurso principal, constituindo marco interruptivo da prescrição.
+(...)
+Não há, portanto, como reconhecer a alegação de prescrição da pretensão punitiva.
+Quanto aos demais temas suscitados nos embargos - quais sejam, a alegação de omissão na análise dos argumentos defensivos sobre inexistência de autoria delitiva, ausência de dolo e precedentes absolutórios em ações penais conexas - aplica-se o entendimento consolidado do Superior Tribunal de Justiça de que "[d]e acordo com o disposto no art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para a revisão de julgado em caso de mero inconformismo da parte" (AgRg no REsp n. 1.850.458/RS, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 26/2/2021, grifei)
+As alegações defensivas sobre compartimentalização do banco, autonomia setorial, mera assinatura de documentos para cumprimento de formalidades e ausência de participação direta nas operações irregulares foram devidamente analisadas e rejeitadas no acórdão embargado. A pretensão de revisitar esses argumentos configura inequívoco inconformismo com o resultado desfavorável, não se configurando omissão passível de correção via embargos declaratórios.
+Outra não é a situação do caso em comento, visto que a parte reúne argumentos contrários à tese acolhida na decisão monocrática. constituindo verdadeira tentativa de reexame das questões já analisadas. Todavia, consoante a jurisprudência do Superior Tribunal de Justiça, "o Embargante indisfarçavelmente busca impugnar o acórdão que lhe foi desfavorável, insistindo nos mesmos argumentos, com o inequívoco intento de rediscutir a causa, o que não se coaduna com a via eleita. [...] A respeitável discordância do combativo causídico com o deslinde da controvérsia não autoriza a eternização da discussão, protraindo a solução da lide, com a utilização de recurso que não se presta ao fim desejado" (EDcl no AgRg nos EREsp n. 1.878.394/PR, Rel. Ministra Laurita Vaz, 3ª S., DJe 4/5/2021).
+À vista do exposto, rejeito os embargos de declaração.” (e-doc. 12)
+
+Com efeito, da análise dos autos, verifico a existência de ilegalidade a amparar a concessão da ordem, haja vista que restou demonstrada a ocorrência da prescrição da pretensão punitiva na modalidade intercorrente, consoante demonstraram os impetrantes.
+Nesse aspecto, a prescrição intercorrente ocorre, dentre outras hipóteses, entre a sentença condenatória e o acórdão que deu provimento ao recurso para fixar nova pena, transitada em julgado para a acusação, a teor do disposto nos  arts. 109; 110, § 1º; e 117, todos do Código Penal.
+No caso concreto, consta dos autos que o paciente, pela prática do crime de gestão temerária de instituição financeira, teve sua pena diminuída no julgamento da apelação para 2 anos de reclusão.
+A sentença condenatória recorrível foi proferida em 10/03/2016. Já a prolação do acórdão de apelação ocorreu apenas em 04/10/2021. Uma vez operado o trânsito em julgado para a acusação no tocante ao quantum da reprimenda, em superveniente julgamento pelo STJ, a prescrição passou a ser regulada pela pena concretamente aplicada de forma definitiva.
+Assim, considerando que transcorreram mais de 4 anos entre a sentença condenatória e o acórdão de apelação, tem-se configurada a prescrição intercorrente à luz do art. 109, V, do Código Penal, o qual determina que a prescrição se verifica em 4 anos se a pena não excede dois anos, que é o caso ora em análise. O lapso prescricional quadrienal se exauriu de forma integral em 10/03/2020, em momento anterior, portanto, à prolação do acórdão.
+Corroborando essa conclusão, destaco trecho do parecer da PGR:
+
+“(...)
+Ademais, a subsistência de título condenatório pendente sobre pretensão punitiva alcançada por causa extintiva da punibilidade afeta diretamente o jus puniendi estatal e atinge a esfera de liberdade do paciente.
+Dessa forma, diante da evidente incompatibilidade temporal entre a consumação da prescrição e o ato jurisdicional posterior utilizado pelas instâncias de origem como marco interruptivo, resta caracterizado manifesto constrangimento ilegal, a autorizar o pleno conhecimento do writ e a concessão da ordem pleiteada, inclusive de ofício.
+Vale frisar que a prescrição da pretensão punitiva constitui causa de extinção da punibilidade, nos termos do artigo 107, IV, do Código Penal. O pronunciamento judicial que a reconhece possui natureza meramente declaratória, pois não cria a extinção, mas limita-se a atestar situação jurídica aperfeiçoada pleno jure pelo decurso do tempo.
+No caso concreto, o ora paciente foi condenado à pena de 2 (dois) anos de reclusão em sede de apelação. Operado o trânsito em julgado para a acusação no tocante ao quantum da reprimenda, a prescrição passa a ser regulada pela pena concretamente aplicada, consoante o disposto no artigo 110, § 1º, do Código Penal.
+Com efeito, a fixação da pena em 2 (dois) anos de reclusão atrai a incidência do prazo prescricional de 4 (quatro) anos, nos termos do artigo 109, V, do Código Penal.
+Destarte, a análise da sequência cronológica dos autos revela a seguinte linha temporal objetiva: 10.3.2016 – publicação da sentença condenatória recorrível (marco interruptivo previsto no artigo 117, IV, do CP); 10.3.2020 – consumação e exaurimento integral do prazo prescricional de 4 (quatro) anos, contados a partir da sentença; 4.10.2021 – prolação do acórdão de apelação pelo TRF2; e 15.9.2022 – publicação do acórdão que julgou os embargos de declaração do MPF no TRF2.
+Nesse contexto, considerando-se a data da sentença condenatória (10.3.2016) como o marco interruptivo tido por favorável à acusação, constata-se que o prazo quadrienal de que dispunha o Estado para julgar o recurso de apelação exauriu-se por completo em 10 de março de 2020.
+Por oportuno, cabe lembrar que a causa interruptiva disciplinada pelo artigo 117 do Código Penal pressupõe, por imperativo lógico-jurídico, a existência de um prazo penal ainda em curso, de modo que, somente se pode interromper aquilo que está fluindo, ou seja, uma vez atingido o termo final do lapso temporal sem causa válida de suspensão ou interrupção, opera-se de pleno direito a extinção da punibilidade.
+O Código Penal não prevê efeito restaurador ou eficácia retroativa capaz de ressuscitar pretensão punitiva estatal extinta. A interrupção faz o prazo existente voltar a correr por inteiro, não possuindo o condão de fazer renascer prazo que já se exauriu nem de desconstruir situação jurídica aperfeiçoada no passado.
+Admitir que o acórdão de apelação proferido em 4.10.2021 – mais de 1 (um) ano e 6 (seis) meses após 10.3.2020 – possa agir retroativamente para apagar a extinção da punibilidade consumada, violaria frontalmente o regime da estrita legalidade e das garantias penais fundamentais.
+Na hipótese, a Sexta Turma do Superior Tribunal de Justiça manteve a condenação ao aplicar o entendimento firmado pelo Plenário do Supremo Tribunal Federal no julgamento do HC 176.473/RR, no sentido de que o acórdão confirmatório da condenação interrompe a prescrição.
+Contudo, impõe-se realizar a devida distinção (distinguishing). No julgamento do HC 176.473/RR, o STF debruçou-se sobre a aptidão da tese de acórdão confirmatório atuar como marco interruptivo quando proferido no curso do prazo prescricional.
+O precedente do Tribunal Supremo não afirmou – nem poderia afirmar – que o acórdão confirmatório seja dotado de eficácia retroativa capaz de desconstruir causa extintiva da punibilidade consumada antes da sua existência.
+A aplicação da tese do aresto confirmatório pressupõe, em plano logicamente anterior, que no momento da prolação do acórdão ainda subsista prescrição em curso a ser interrompida. Como em 4.10.2021 o prazo de 4 (quatro) anos já havia terminado, não havia lapso pendente passível de interrupção.
+Tampouco socorre o Estado a tese invocada pelo STJ de que o julgamento dos embargos de declaração no TRF2 (publicado em 15.9.2022) integraria o acórdão principal para fins prescricionais.
+A natureza integrativa dos embargos de declaração visa aperfeiçoar, esclarecer ou sanar omissões do pronunciamento judicial embargado. Essa integração atua sobre o conteúdo e a eficácia do julgado, mas não possui o poder de alterar a ordem cronológica dos fatos jurídicos ou de retroagir a existência do aresto principal para momento anterior a março/2020.
+Com efeito, se quando do julgamento da apelação (4.10.2021) a prescrição já se encontrava aperfeiçoada desde 10.3.2020, a prolação posterior do acórdão integrativo dos aclaratórios em 2022 não tem a virtude de restaurar a pretensão punitiva extinta antes da sua própria formação.
+Nesse diapasão, diante da flagrante ilegalidade demonstrada pelos marcos temporais objetivos e incontroversos, resta evidenciada a consumação da prescrição da pretensão punitiva retroativa em 10.3.2020.
+Ante o exposto, o Ministério Público Federal opina pela concessão da ordem para declarar extinta a punibilidade de LUIZ CLAUDIO DE QUEIROZ, nos termos do artigo 107, IV, c/c os artigos 109, V, 110, § 1º, e 117, todos do Código Penal.” (e-doc. 26)
+
+Logo, deve ser reconhecida a extinção da punibilidade do paciente com relação ao crime de gestão temerária de instituição financeira, nos termos do art. 107, IV, do Código Penal.
+Diante desse quadro, nos termos do caput do art. 192 do RISTF, concedo a ordem de habeas corpus em favor de Luiz Claudio de Queiroz, para julgar extinta a punibilidade do paciente, pela prescrição da pretensão punitiva intercorrente, em relação ao crime previsto no art. 4º, parágrafo único, da Lei nº 7.492/1986.
+Comuniquem-se, com urgência, ao STJ e ao TRF/2ª Região para que adotem todas as providências necessárias ao pronto cumprimento desta decisão.
+Publique-se.
+Brasília, 21 de setembro de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
