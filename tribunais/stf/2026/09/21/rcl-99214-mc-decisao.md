@@ -1,0 +1,67 @@
+DECISÃO
+
+Trata-se de Reclamação Constitucional, com pedido de tutela de urgência, ajuizada por Leonardo José do Patrocínio Aragão dos Santos Lau e pelo Instituto José do Patrocínio em face do Diretório Nacional do Mobilização Nacional (MOBILIZA) e de outros partidos políticos nacionais, sob alegação de descumprimento da autoridade da decisão proferida pelo SUPREMO TRIBUNAL FEDERAL na ADPF 738, Rel. Min. RICARDO LEWANDOWSKI.
+Sustentam os reclamantes, em síntese, que o primeiro reclamante, candidato negro pelo MOBILIZA, sofreu "omissão dolosa e injustificada" da agremiação partidária, consistente na ausência de repasse proporcional e tempestivo de recursos do Fundo Especial de Financiamento de Campanha (FEFC), do Fundo Partidário e da distribuição correspondente de tempo de propaganda eleitoral gratuita. Afirmam que tal conduta teria produzido "asfixia financeira e política" apta a inviabilizar a competitividade da candidatura e a frustrar a eficácia prática da política afirmativa reconhecida na ADPF 738.
+Argumentam que a decisão paradigma da ADPF 738 estabeleceu a obrigatoriedade de distribuição proporcional dos recursos públicos destinados ao financiamento eleitoral e do tempo de propaganda às candidaturas negras, entendimento posteriormente incorporado ao Texto Constitucional pelo art. 17, § 9º, da Constituição Federal.
+Em sede liminar, requerem: "determinar ao primeiro Reclamado, Diretório Nacional do Partido da Mobilização Nacional (MOBILIZA), a comprovação documental, no prazo improrrogável de 48 horas, da efetiva aplicação e repasse do percentual mínimo de 30% dos recursos do FEFC e do Fundo Partidário devidos à candidatura do primeiro Reclamante", bem como, "em caso de não comprovação do repasse integral (...), determinar o repasse imediato das verbas retidas".
+Quanto aos demais partidos, postulam providências de natureza instrutória e fiscalizatória destinadas à apresentação de planos de distribuição de recursos e comprovantes de repasse das verbas destinadas a candidaturas negras.
+Por meio de despacho de 27/8/2026, foi determinada a solicitação de informações ao MOBILIZA, nos termos do art. 989 do CPC, o qual aduziu, em síntese, "a ausência de demonstração de ato concreto de afronta à ADPF nº 738/DF". Asseverou, ainda, que que os recursos do FEFC somente ingressaram na esfera de disponibilidade do partido em 20/8/2026, no montante de R$ 3.307.679,85; que os critérios de distribuição haviam sido regularmente aprovados e divulgados perante o Tribunal Superior Eleitoral; e que o prazo regulamentar para destinação dos recursos teria sido prorrogado para 8/9/2026, não havendo mora consumada à época da propositura da reclamação (eDoc. 12).
+Por meio da Petição 110.154/2026, aditou-se a Petição Inicial, bem como foram formulados pedidos de ingresso como assistente litisconsorcial pelas seguintes entidades: I) EDUCAFRO Brasil; II) Instituto de Advocacia Racial e Ambiental (IARA); III) Movimento Negro Unificado (MNU); e IV) Federação Nacional das Associações Quilombolas (FENAQ); e Sociedade Afro-brasileira de Desenvolvimento Sócio-Cultural (eDoc 25).
+É o relatório.
+
+Preliminarmente, recebo a Petição 110.154/2026 como pedido de ingresso na qualidade de amicus curiae, o qual DEFIRO para permitir o ingresso no processo, nessa condição, das seguintes entidades: EDUCAFRO Brasil, Instituto de Advocacia Racial e Ambiental (IARA), Movimento Negro Unificado (MNU), Federação Nacional das Associações Quilombolas (FENAQ) e Sociedade Afro-brasileira de Desenvolvimento Sócio-Cultural.
+Quanto ao pedido de tutela de urgência, a questão central controvertida consiste em verificar se existem elementos suficientes para concluir, em sede de cognição sumária, que o PARTIDO MOBILIZA praticou ato ou omissão aptos a comprometer a autoridade do julgamento da ADPF 738.
+A respeito do cabimento de Reclamação para o SUPREMO TRIBUNAL FEDERAL, a Constituição da República dispõe o seguinte:
+
+“Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+I - processar e julgar, originariamente:
+[...]
+l) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;”
+
+“Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei;
+[...]
+§ 3º Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso.”
+
+Veja-se também o art. 988, I, II e III, do Código de Processo Civil:
+
+“Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade”;
+
+Nesse cenário, a reclamação constitucional somente é cabível quando demonstrada aderência estrita entre o ato impugnado e o conteúdo normativo efetivamente fixado pelo paradigma invocado.
+No julgamento da ADPF 738, Rel. Min. RICARDO LEWANDOWSKI, esta CORTE assentou que os recursos públicos destinados ao financiamento eleitoral e o tempo de propaganda eleitoral gratuita devem ser distribuídos de forma proporcional às candidaturas negras, como instrumento de concretização da igualdade material e de combate ao racismo estrutural. Transcrevo a ementa do referido julgado:
+
+“REFERENDO NA MEDIDA CAUTELAR EM ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL. POLÍTICAS PÚBLICAS DE CARÁTER AFIRMATIVO. INCENTIVO A CANDIDATURAS DE PESSOAS NEGRAS PARA CARGOS ELETIVOS. VALORES CONSTITUCIONAIS DA CIDADANIA E DA DIGNIDADE DA PESSOA HUMANA. IGUALDADE EM SENTIDO MATERIAL. ORIENTAÇÕES CONSTANTES DE RESPOSTA DO TRIBUNAL SUPERIOR ELEITORAL À CONSULTA FORMULADA POR PARLAMENTAR FEDERAL. APLICAÇÃO IMEDIATA PARA AS PRÓXIMAS ELEIÇÕES. NÃO INCIDÊNCIA DO PRINCÍPIO DA ANTERIORIDADE OU ANUALIDADE (ART. 16 DA CF/1988). MERO PROCEDIMENTO QUE NÃO ALTERA O PROCESSO ELEITORAL. PRECEDENTES. MEDIDA CAUTELAR REFERENDADA.
+I - Políticas públicas tendentes a incentivar a apresentação de candidaturas de pessoas negras aos cargos eletivos nas disputas eleitorais que se travam em nosso País, já a partir deste ano, prestam homenagem aos valores constitucionais da cidadania e da dignidade humana, bem como à exortação, abrigada no preâmbulo do texto magno, de construirmos, todos, uma sociedade fraterna, pluralista e sem preconceitos, fundada na harmonia social, livre de quaisquer formas de discriminação.
+II - O princípio da igualdade (art. 5º, caput, da CF), considerado em sua dimensão material, pressupõe a adoção, pelo Estado, seja de politicas universalistas, que abrangem um número indeterminado de indivíduos, mediante ações de natureza estrutural, seja de políticas afirmativas, as quais atingem grupos sociais determinados, de maneira pontual, atribuindo-lhes certas vantagens, por um tempo definido, com vistas a permitir que superem desigualdades decorrentes de situações históricas particulares (ADPF 186/DF, de minha relatoria). Precedentes.
+III – O entendimento do Supremo Tribunal Federal é no sentido de que só ocorre ofensa ao princípio da anterioridade nas hipóteses de: (i) rompimento da igualdade de participação dos partidos políticos ou candidatos no processo eleitoral; (ii) deformação que afete a normalidade das eleições; (iii) introdução de elemento perturbador do pleito; ou (iv) mudança motivada por propósito casuístico (ADI 3.741/DF, de minha relatoria). Precedentes.
+IV - No caso dos autos, é possível constatar que o TSE não promoveu qualquer inovação nas normas relativas ao processo eleitoral, concebido em sua acepção estrita, porquanto não modificou a disciplina das convenções partidárias, nem os coeficientes eleitorais e nem tampouco a extensão do sufrágio universal. Apenas introduziu um aperfeiçoamento nas regras relativas à propaganda, ao financiamento das campanhas e à prestação de contas, todas com caráter eminentemente procedimental, com o elevado propósito de ampliar a participação de cidadãos negros no embate democrático pela conquista de cargos políticos.
+V – Medida cautelar referendada”.
+(ADPF 738 MC-Ref, Rel. Min. RICARDO LEWANDOWSKI, TRIBUNAL PLENO, DJe de 29/10/2020)
+
+Posteriormente, a Emenda Constitucional 133/2024 incorporou ao texto constitucional o art. 17, § 9º, estabelecendo piso mínimo obrigatório de destinação de recursos a candidaturas de pessoas pretas e pardas, nos seguintes termos:
+
+“Art. 17. É livre a criação, fusão, incorporação e extinção de partidos políticos, resguardados a soberania nacional, o regime democrático, o pluripartidarismo, os direitos fundamentais da pessoa humana e observados os seguintes preceitos:
+[...]
+§ 9º Dos recursos oriundos do Fundo Especial de Financiamento de Campanha e do fundo partidário destinados às campanhas eleitorais, os partidos políticos devem, obrigatoriamente, aplicar 30% (trinta por cento) em candidaturas de pessoas pretas e pardas, nas circunscrições que melhor atendam aos interesses e às estratégias partidárias”.
+
+A controvérsia, portanto, não diz respeito à existência da obrigação constitucional, que é inequívoca.
+O que deve ser examinado é se a atuação concreta do MOBILIZA revela plausível resistência ao cumprimento do paradigma constitucional.
+Em juízo de cognição sumária, verifico a presença da plausibilidade jurídica da pretensão em relação ao PARTIDO MOBILIZA. Isso porque há demonstração de que: I) o primeiro reclamante é candidato negro regularmente registrado pela agremiação; II) foram formulados pedidos de acesso aos recursos partidários; III) a distribuição dos recursos destinados ao cumprimento da política afirmativa constitui obrigação constitucionalmente vinculada; e IV) o próprio partido reconhece que ainda não havia ocorrido o repasse individualizado ao reclamante quando da apresentação das informações.
+O MOBILIZA informou que o prazo regulamentar de distribuição se encerraria apenas em 8/9/2026. Nesse contexto, é possível obter as informações devidas quanto ao repasse de verbas para o reclamante. Além disso, a celeridade do calendário eleitoral impõe interpretação compatível com a máxima efetividade do paradigma constitucional.
+A jurisprudência da CORTE tem reiteradamente afirmado que ações afirmativas eleitorais somente cumprem sua função quando implementadas de maneira efetiva e tempestiva. Assim, a autoridade da ADPF 738 não se limita à observância formal de percentuais globais, mas exige também que os recursos afirmativos sejam disponibilizados em momento apto a produzir resultados concretos no processo eleitoral.
+Igualmente, está caracterizado o perigo da demora, pois o financiamento eleitoral possui natureza perecível, na medida em que os recursos disponibilizados apenas ao final da campanha não têm aptidão para recompor oportunidades eleitorais perdidas.
+Conforme narrado na inicial, a ausência de recursos compromete imediatamente a produção de material de campanha, o impulsionamento de conteúdo, a assessoria jurídica e contábil, e a organização da estrutura eleitoral. Portanto, a demora da prestação jurisdicional pode tornar irreversível a lesão alegada.
+Por outro lado, não identifico a presença de requisitos que autorizem, neste momento processual, a extensão de medidas cautelares aos demais partidos integrantes do polo passivo. A própria petição inicial reconhece a inexistência de elementos individualizados relativos às demais agremiações, valendo-se essencialmente de alegações genéricas sobre risco sistêmico. A reclamação constitucional não se presta à instauração de procedimento geral de auditoria preventiva do sistema partidário.
+Ante o exposto:
+1) Recebo a Petição 110.154/2026 como pedido de ingresso na qualidade de amicus curiae, o qual DEFIRO, para permitir o ingresso no processo, nessa condição, das seguintes entidades: EDUCAFRO Brasil, Instituto de Advocacia Racial e Ambiental (IARA), Movimento Negro Unificado (MNU), Federação Nacional das Associações Quilombolas (FENAQ) e Sociedade Afro-brasileira de Desenvolvimento Sócio-Cultural;
+2) DEFIRO PARCIALMENTE a medida cautelar, em relação ao MOBILIZA, para determinar que apresente, no prazo de 48 horas, documentação comprobatória detalhada da distribuição dos recursos do Fundo Especial de Financiamento de Campanha destinados às candidaturas negras do partido, notadamente à do Reclamante Leonardo José do Patrocínio Aragão dos Santos Lau; e comprove a observância concreta das diretrizes estabelecidas na ADPF 738 e no art. 17, § 9º, da Constituição Federal, sob pela de nulidade Demonstrativo de Regularidade de Atos Partidários (DRAP).
+Comunique-se com urgência.
+Após, abra-se vista à Procuradoria-Geral da República, para manifestação.
+Publique-se.
+Brasília, 21 de setembro de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
