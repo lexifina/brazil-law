@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2344, de 18 de setembro de 2026
+Dispõe sobre a utilização de saldos credores da Contribuição para o PIS/Pasep e da Cofins para compensação com débitos próprios, nos termos do art. 5º da Lei Complementar nº 235, de 27 de agosto de 2026.
+A SECRETÁRIA ESPECIAL DA RECEITA FEDERAL DO BRASIL, SUBSTITUTA, no uso da atribuição que lhe confere o art. 350, caput, inciso III, do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 5º da Lei Complementar nº 235, de 27 de agosto de 2026, resolve:
