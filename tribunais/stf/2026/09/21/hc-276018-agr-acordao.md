@@ -1,0 +1,496 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 11
+
+21/09/2026
+
+PRIMEIRA TURMA
+
+AG.REG. NO HABEAS CORPUS 276.018 MATO GROSSO
+RELATORA
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. CÁRMEN LÚCIA
+: LUIS CARLOS DE LIMA PEREIRA
+: FABIO JUNIOR DE SOUZA MACHADO
+: RELATOR DO HC N° 1.120.427 DO SUPERIOR
+TRIBUNAL DE JUSTIÇA
+
+EMENTA: AGRAVO REGIMENTAL NO HABEAS CORPUS.
+DESCABIMENTO
+DE
+IMPETRAÇÃO
+CONTRA
+DECISÃO
+MONOCRÁTICA. ASSOCIAÇÃO PARA O TRÁFICO INTERESTADUAL
+DE
+ENTORPECENTE.
+REGIME
+INICIAL
+FECHADO
+COM
+FUNDAMENTAÇÃO IDÔNEA. QUANTIDADE E NATUREZA DO
+ENTORPECENTE. PRECEDENTES DO SUPREMO TRIBUNAL
+FEDERAL. AGRAVO REGIMENTAL DESPROVIDO.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros do
+Supremo Tribunal Federal, em Sessão da Primeira Turma, na
+conformidade da ata de julgamento, por unanimidade, negar provimento
+ao agravo regimental, nos termos do voto da Relatora, Ministra Cármen
+Lúcia. Sessão Virtual de 11.9.2026 a 18.9.2026.
+Publique-se.
+Brasília, 21 de setembro de 2026.
+Ministra CÁRMEN LÚCIA
+Relatora
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 7F84-F248-51E0-A4DC e senha 2FA2-F13F-6038-FBD0
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 2 de 11
+
+AG.REG. NO HABEAS CORPUS 276.018 MATO GROSSO
+RELATORA
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. CÁRMEN LÚCIA
+: LUIS CARLOS DE LIMA PEREIRA
+: FABIO JUNIOR DE SOUZA MACHADO
+: RELATOR DO HC N° 1.120.427 DO SUPERIOR
+TRIBUNAL DE JUSTIÇA
+RELATÓRIO
+
+A SENHORA MINISTRA CÁRMEN LÚCIA (Relatora):
+1. Em 21.8.2026, foi negado seguimento ao presente habeas corpus,
+com requerimento de medida liminar, impetrado, em 19.8.2026, por Fábio
+Júnior de Souza Machado, advogado, em benefício de Luis Carlos de
+Lima Pereira, contra decisão pela qual, em 13.8.2026, o Ministro Reynaldo
+Soares da Fonseca, do Superior Tribunal de Justiça, não conheceu do
+Habeas Corpus n. 1.120.427:
+“Trata-se de habeas corpus, com pedido liminar, impetrado em
+favor de LUIS CARLOS DE LIMA PEREIRA contra acórdão
+proferido pelo Tribunal de Justiça do Estado do Mato Grosso
+(Apelação n. 1005697-02.2025.8.11.0042).
+Consta dos autos que o paciente foi condenado, em primeiro grau
+de jurisdição, às penas de 5 anos e 10 meses de reclusão, em regime
+inicial fechado, e 580 dias-multa, pela prática do crime previsto no art.
+33, caput, da Lei n. 11.343/2006 (e-STJ fls. 63/88).
+Irresignada, a defesa interpôs recurso de apelação, o qual foi
+desprovido (e-STJ fls. 20/49), em acórdão assim ementado:
+DIREITO PENAL E PROCESSUAL PENAL.
+APELAÇÃO CRIMINAL. TRÁFICO INTERESTADUAL DE
+DROGAS. TRANSPORTE DE COCAÍNA EM CAMINHÃO
+FRIGORÍFICO. (...) REGIME FECHADO. PRISÃO
+PREVENTIVA PRESERVADA. RECURSO DESPROVIDO.
+1. Apelação criminal interposta contra sentença que
+condenou o réu pela prática do crime previsto no art. 33, caput,
+c/c art. 40, inciso V, da Lei nº 11.343/2006, à pena de 5 anos e
+10 meses de reclusão, em regime inicial fechado, além de 580
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A0DB-4457-D996-A906 e senha 612A-1903-042B-5FE7
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 11
+
+HC 276018 AGR / MT
+dias-multa, em razão do transporte interestadual de 101 tabletes
+de cocaína, totalizando 100,60 kg, ocultados na cabine de
+caminhão frigorífico. (...)
+12. A natureza e a elevada quantidade de cocaína
+apreendida justificam a imposição do regime inicial fechado, nos
+termos do art. 42 da Lei de Drogas e da jurisprudência
+consolidada.
+No presente mandamus (e-STJ fls. 2/19), a impetrante sustenta
+que o Tribunal a quo impôs constrangimento ilegal ao paciente, pois
+manteve o regime inicial fechado sem fundamentação idônea. Aduz
+que a incidência do art. 42 da Lei n. 11.343/2006 não torna obrigatório
+o estabelecimento do regime fechado. Também assevera que o paciente
+é primário e a sua pena-base foi estabelecida no patamar mínimo legal,
+razão pela qual faz jus a regime prisional mais brando.
+Ao final, liminarmente e no mérito, pede a concessão da ordem
+para que o regime inicial seja alterado para semiaberto”.
+
+2. Publicada a decisão pela qual negado seguimento ao habeas corpus
+no DJe 25.8.2026, o agravante interpõe tempestivo agravo regimental em
+28.8.2026.
+3. O agravante reitera a alegação, afastada nas instâncias
+antecedentes, de não ter sido apresentada fundamentação idônea para a
+fixação do regime inicial fechado para o cumprimento da pena.
+Sustenta que o regime adequado a ser imposto seria o semiaberto,
+nos termos da al. b do § 2º do art. 33 do Código Penal, pois ele seria
+primário, a pena teria sido estabelecida em cinco anos e dez meses de
+reclusão e a gravidade abstrata do delito de tráfico interestadual de
+entorpecente não conduziria por si só ao regime fechado.
+Afirma que a circunstância judicial da quantidade do entorpecente
+prevista no art. 42 da Lei n. 11.343/2006 não poderia ser utilizada para a
+2
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A0DB-4457-D996-A906 e senha 612A-1903-042B-5FE7
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 11
+
+HC 276018 AGR / MT
+fixação do regime inicial fechado.
+Estes os pedidos:
+
+“(...) a) o conhecimento e o provimento do presente Agravo
+Regimental, para que seja reconsiderada a decisão monocrática que
+negou seguimento ao habeas corpus;
+b) caso não exercido o juízo de retratação, seja o presente recurso
+submetido à apreciação da Colenda Primeira Turma do Supremo
+Tribunal Federal;
+c) seja excepcionalmente superado o óbice decorrente da ausência
+de prévio esgotamento da jurisdição do Superior Tribunal de Justiça,
+diante do constrangimento ilegal apontado, com a concessão da ordem
+de habeas corpus, inclusive de ofício, se necessário;
+d) no mérito, seja reconhecida a insuficiência da fundamentação
+empregada para a imposição do regime inicial fechado e,
+consequentemente, seja fixado o regime inicial semiaberto para o
+cumprimento da pena de 5 (cinco) anos e 10 (dez) meses de reclusão,
+nos termos do art. 33, § 2º, ‘b’, do Código Penal;
+e) subsidiariamente, caso não se entenda possível a imediata
+fixação do regime semiaberto, seja cassado o capítulo relativo ao
+regime inicial de cumprimento da pena, determinando-se nova
+apreciação pelas instâncias competentes, mediante fundamentação
+concreta e individualizada, à luz dos arts. 33, §§ 2º e 3º, e 59 do
+Código Penal e da Súmula 719 do STF;
+f) por fim, sendo concedida a ordem, sejam expedidas
+imediatamente as comunicações necessárias ao Juízo responsável pela
+execução/custódia do paciente, para efetivo cumprimento da decisão”.
+
+É o relatório.
+
+3
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A0DB-4457-D996-A906 e senha 612A-1903-042B-5FE7
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 5 de 11
+
+AG.REG. NO HABEAS CORPUS 276.018 MATO GROSSO
+RELATORA
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. CÁRMEN LÚCIA
+: LUIS CARLOS DE LIMA PEREIRA
+: FABIO JUNIOR DE SOUZA MACHADO
+: RELATOR DO HC N° 1.120.427 DO SUPERIOR
+TRIBUNAL DE JUSTIÇA
+VOTO
+
+A SENHORA MINISTRA CÁRMEN LÚCIA (Relatora):
+1. Razão jurídica não assiste ao agravante.
+2. O presente habeas corpus foi impetrado contra decisão pela qual o
+Ministro Reynaldo Soares da Fonseca, do Superior Tribunal de Justiça,
+não conheceu do Habeas Corpus n. 1.120.427.
+Pela jurisprudência deste Supremo Tribunal, “[h]á óbice ao
+conhecimento de habeas corpus impetrado contra decisão monocrática,
+indeferitória de writ, do Superior Tribunal de Justiça, cuja jurisdição não se
+esgotou. Precedentes” (HC n. 191.940-AgR, Relatora a Ministra Rosa Weber,
+Primeira Turma, DJe 17.2.2021). Confira-se também este julgado:
+
+“AGRAVO REGIMENTAL NO HABEAS CORPUS.
+IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DO
+SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO ESGOTAMENTO
+DE JURISDIÇÃO. CRIME DE HOMICÍDIO QUALIFICADO.
+PRISÃO PREVENTIVA. SUPRESSÃO DE INSTÂNCIA.
+REITERAÇÃO
+DE
+IMPETRAÇÃO
+ANTERIOR.
+SUPERVENIÊNCIA DA SENTENÇA DE PRONÚNCIA.
+SUBSTITUIÇÃO DO TÍTULO PRISIONAL. 1. Há óbice ao
+conhecimento de habeas corpus impetrado contra decisão
+monocrática, indeferitória de writ, do Superior Tribunal de Justiça,
+cuja jurisdição não se esgotou, ausente o manejo de agravo regimental.
+Precedentes” (HC n. 152.853-AgR, Relatora a Ministra Rosa
+Weber, Primeira Turma, DJe 10.5.2018).
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AC21-3A05-AFC4-20B5 e senha 9ABF-EA17-BCCF-4F0E
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 6 de 11
+
+HC 276018 AGR / MT
+3. Sem adentrar o mérito da causa, mas para afastar eventual
+alegação de ilegalidade manifesta ou teratologia, é de se anotar ter sido o
+agravante condenado pelo juízo da Décima Terceira Vara Criminal da
+comarca de Cuiabá/MT, em 18.3.2026, à pena de cinco anos e dez meses
+de reclusão e quinhentos e oitenta dias-multa, fixado o regime inicial
+fechado, pela prática do delito de tráfico interestadual de entorpecente:
+
+“(...) Observando, pois, com estrita fidelidade, as regras do art.
+42 da Lei n. 11.343/06, que impõe ao Juiz levar em consideração, com
+preponderância sobre o previsto no art. 59 do Código Penal, a
+natureza e a quantidade da droga, na fixação da pena base, in casu,
+DEIXO para avaliar a expressiva quantidade de cocaína apreendida
+nestes autos (100,600 kg – cem quilogramas e seiscentos gramas) na
+3ª fase da dosimetria, por vislumbrar como fundamento idôneo a
+evidenciar sua dedicação às atividades criminosas.
+(...) não há que se falar em aplicação da causa especial de
+diminuição de pena disciplinada no § 4º, do art. 33, da Lei n.
+11.343/2006.
+Ainda que o condenado seja primário e não possua registros
+criminais com trânsito em julgado, há elementos suficientes que
+demonstram sua dedicação às atividades criminosas e integração a
+organização criminosa, evidenciada pelas circunstâncias que
+envolveram o transporte e a apreensão de expressiva quantidade de
+droga (100.600 kg de COCAÍNA), o que afasta, sem margem de
+dúvidas, a tese de traficante eventual. Ressalte-se que a tamanha
+quantidade de entorpecente e seu elevado valor monetário não são
+compatíveis com a confiança depositada em alguém inexperiente na
+prática delituosa.
+Dessa forma, resta justificada a negativa do reconhecimento da
+causa especial de diminuição prevista no § 4º do art. 33 da Lei nº
+11.343/2006”.
+
+4. Contra essa sentença foi interposto, em benefício do agravante,
+recurso de apelação criminal (Processo n. 1005697-02.2025.8.11.0042), ao
+qual a Terceira Câmara Criminal do Tribunal de Justiça de Mato Grosso
+
+2
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AC21-3A05-AFC4-20B5 e senha 9ABF-EA17-BCCF-4F0E
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 7 de 11
+
+HC 276018 AGR / MT
+negou provimento para manter a condenação e o regime inicial fechado
+imposto:
+“(...) Como se observa, não se pode olvidar que a natureza e a
+expressiva quantidade do entorpecente apreendido – 101 (cento e um)
+tabletes de cocaína, totalizando 100,60 kg (cem quilogramas e
+seiscentos gramas) – constituem elementos aptos a justificar a
+imposição de regime prisional mais gravoso (...).
+Logo, in casu, foi corretamente fixado ao recorrente o regime
+inicial fechado, justamente em razão da natureza e da quantidade da
+droga apreendida, circunstâncias que evidenciam a elevada gravidade
+concreta da infração. Incidem, na espécie, as disposições contidas no
+art. 42 da Lei de Drogas, bem como no art. 59 c/c art. 33, §§ 2º e 3º,
+ambos do Código Penal, e no Enunciado Orientativo nº 47 da Turma
+de Câmaras Criminais Reunidas do TJMT. Soma-se a isso a existência
+de elementos que indicam a dedicação do apelante a atividades
+criminosas, peculiaridades que justificam a imposição de regime
+prisional mais rigoroso”.
+
+5. Foi impetrado no Superior Tribunal de Justiça, em benefício do
+paciente, o Habeas Corpus n. 1.120.427, no qual se reiterou a pretensão de
+alteração do regime prisional fechado imposto ao agravante. O Relator,
+Ministro Reynaldo Soares da Fonseca, afirmou ser idônea a
+fundamentação apresentada para a imposição do regime mais gravoso:
+“(...) o regime inicial fechado foi estabelecido e mantido com
+lastro na especial gravidade do crime praticado, tendo em vista a
+expressiva quantidade e natureza especialmente deletéria das drogas
+apreendidas – 100,6 kg de cocaína –, fundamento idôneo e suficiente
+para o recrudescimento, a teor do disposto no art. 42 da Lei n.
+11.343/2006.
+Nesse contexto, tratando-se de condenação a pena privativa de
+liberdade que excede 4 anos de reclusão, a quantidade e natureza
+especialmente deletéria dos entorpecentes apreendidos justifica o
+estabelecimento do regime inicial fechado”.
+
+3
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AC21-3A05-AFC4-20B5 e senha 9ABF-EA17-BCCF-4F0E
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 8 de 11
+
+HC 276018 AGR / MT
+6. Embora as penas de cinco anos e dez meses de reclusão e de
+quinhentos e oitenta dias-multa permitissem, em tese, a fixação de regime
+prisional inicial diverso do fechado, apresentou-se fundamentação idônea
+para a definição do regime mais gravoso. Foi ressaltada a “expressiva
+quantidade e natureza especialmente deletéria das drogas apreendidas – 100,6 kg
+de cocaína”. Essa conclusão harmoniza-se com a jurisprudência
+consolidada deste Supremo Tribunal, de que são exemplos:
+“AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO
+EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTE.
+CAUSA DE DIMINUIÇÃO DO § 4º DO ART. 33 DA LEI N.
+11.343/2006: DEDICAÇÃO DO AGRAVANTE A ATIVIDADES
+CRIMINOSAS. REEXAME DE FATOS E PROVAS:
+IMPOSSIBILIDADE.
+REGIME
+INICIAL
+FECHADO.
+FUNDAMENTAÇÃO
+IDÔNEA.
+QUANTIDADE
+DE
+ENTORPECENTE. AGRAVO REGIMENTAL DESPROVIDO”
+(RHC n. 268.272-AgR, Relatora a Ministra Cármen Lúcia,
+Primeira Turma, DJe 18.3.2026).
+
+“AGRAVO REGIMENTAL NO HABEAS CORPUS.
+DIREITO PENAL. PACIENTE CONDENADO PELO CRIME DE
+TRÁFICO ILÍCITO DE DROGAS, COM A INCIDÊNCIA DA
+CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO
+ART. 33, § 4º, DA LEI N. 11.343/2006. PENA INFERIOR A 8
+ANOS. FIXAÇÃO DE REGIME INICIAL FECHADO
+FUNDAMENTADA NA ELEVADA QUANTIDADE DE
+DROGA APREENDIDA. POSSIBILIDADE. DEFICIÊNCIA
+DOCUMENTAL
+QUE
+IMPEDIU
+A
+COMPLETA
+COMPREENSÃO DA CADEIA RECURSAL NO SUPERIOR
+TRIBUNAL DE JUSTIÇA. SUPRESSÃO DE INSTÂNCIA.
+AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO
+REGIMENTAL IMPROVIDO. I. Caso em exame 1. O paciente foi
+condenado, em primeiro grau, à pena de 7 anos e 6 meses de reclusão,
+em regime inicial fechado, pela prática do crime de tráfico ilícito de
+drogas (art. 33 da Lei n. 11.343/2006). 2. Em segunda instância, o
+
+4
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AC21-3A05-AFC4-20B5 e senha 9ABF-EA17-BCCF-4F0E
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 9 de 11
+
+HC 276018 AGR / MT
+Tribunal de Justiça do Estado de São Paulo – TJSP deu parcial
+provimento à apelação defensiva para fixar a pena-base no mínimo
+legal, afastando a quantidade de droga apreendida da primeira fase da
+dosimetria, mantido, contudo, o regime inicial fechado. 3. O Ministro
+Relator do Superior Tribunal de Justiça – STJ não conheceu do
+habeas corpus, mas concedeu a ordem, de ofício, ‘para reconhecer a
+causa especial de diminuição prevista no art. 33, § 4º, da Lei n.
+11.343/2006, na fração de 1/6, e, assim, reduzir a reprimenda para 4
+anos e 2 meses de reclusão, mantidas as demais disposições do acórdão
+impugnado’. 4. Os embargos de declaração opostos pela defesa contra
+essa decisão foram rejeitados, com a manutenção do regime inicial
+fechado, e, por fim, o agravo regimental interposto pelo Ministério
+Público do Estado de São Paulo – MPSP foi improvido, sendo mantida
+a sanção do paciente de 4 anos e 2 meses de reclusão, em regime
+fechado, pela prática do crime de tráfico privilegiado previsto no art.
+33, § 4º, da Lei n. 11.343/2006. 5. Pretende-se o afastamento do
+regime inicial fechado. (...) Em que pese a deficiência documental
+anteriormente registrada, na decisão agravada não se verificou
+ilegalidade flagrante ou abuso de poder aptos a autorizar a superação
+do óbice processual apontado, tampouco a concessão da ordem, de
+ofício, sobretudo porque, embora a pena definitiva tenha sido fixada em
+4 anos e 2 meses de reclusão, reconheceu-se que o paciente não faz jus
+a regime prisional mais brando, em razão da expressiva quantidade de
+droga apreendida – 26 tijolos, cuja massa bruta, incluídas as
+respectivas embalagens, ultrapassou 26 kg –, consoante a
+jurisprudência desta Suprema Corte. IV. Dispositivo 10. Agravo
+regimental a que se nega provimento” (HC n. 271.552-AgR, Relator
+o Ministro Cristiano Zanin, Primeira Turma, DJe 3.6.2026).
+“Direito Penal e Processual Penal. Agravo Regimental no
+Habeas Corpus. Condenação transitada em julgado. Sucedâneo de
+revisão criminal. Matéria não apreciada pelo órgão apontado como
+coator. Supressão de instância. Tráfico de drogas. Regime de
+cumprimento fechado: adequação. Ilegalidade manifesta: não
+ocorrência. I. Caso em exame 1. Agravo regimental interposto contra
+
+5
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AC21-3A05-AFC4-20B5 e senha 9ABF-EA17-BCCF-4F0E
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 10 de 11
+
+HC 276018 AGR / MT
+decisão pela qual foi negado seguimento ao habeas corpus interposto
+em favor de paciente definitivamente condenado pelo crime previsto no
+art. 33 da Lei nº 11.343, de 2006 (tráfico de drogas). 2. A defesa
+pretende a fixação de regime de cumprimento de pena menos gravoso.
+II. Questão em discussão 3. A questão em discussão consiste em saber
+se, no caso concreto, estaria configurada flagrante ilegalidade apta a
+superar os óbices do writ como sucedâneo de revisão criminal e
+supressão de instância. III. Razões de decidir 4. Na jurisprudência
+consolidada do STF não se admite o habeas corpus como substitutivo
+da revisão criminal, salvo em casos de flagrante ilegalidade, o que não
+se verifica na hipótese. 5. A matéria de fundo não foi analisada pelo
+STJ. A atuação originária do STF configuraria supressão de instância,
+em desconformidade com a jurisprudência dominante da Corte. 6. A
+concessão da ordem de ofício exige a demonstração de manifesta
+ilegalidade, abuso de poder ou teratologia da decisão impugnada, o que
+não foi evidenciado nos autos. 7. A jurisprudência desta Suprema
+Corte firmou entendimento no sentido de que a ‘fixação do regime
+inicial de cumprimento da pena não está atrelada, de modo absoluto,
+ao quantum da sanção corporal aplicada, devendo-se considerar as
+especiais circunstâncias do caso concreto.’ Precedentes. 8. Ainda que
+fixada a pena em quantum não superior a 8 anos de reclusão, não há
+ilegalidade na definição do regime fechado, uma vez consideradas as
+especifidades do caso concreto e a existência de circunstâncias judiciais
+negativas – quantidade e natureza da droga. IV. Dispositivo 9. Agravo
+regimental ao qual se nega provimento” (HC n. 258.598-AgR,
+Relator o Ministro André Mendonça, Segunda Turma, DJe
+29.10.2025).
+
+7. Todas as questões apresentadas na presente impetração e
+reiteradas neste agravo regimental foram analisadas e, como afirmei na
+decisão agravada, não se demonstra ilegalidade manifesta ou flagrante
+teratologia na espécie, sendo idônea a fundamentação utilizada para a
+imposição do regime inicial fechado.
+8. Pelo exposto, nego provimento ao agravo regimental.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AC21-3A05-AFC4-20B5 e senha 9ABF-EA17-BCCF-4F0E
+
+6
+
+Supremo Tribunal Federal
+Extrato de Ata - 21/09/2026
+
+Inteiro Teor do Acórdão - Página 11 de 11
+
+PRIMEIRA TURMA
+
+EXTRATO DE ATA
+
+AG.REG. NO HABEAS CORPUS 276.018
+PROCED. : MATO GROSSO/MT
+RELATOR(A): MIN. CÁRMEN LÚCIA
+AGTE.(S): LUIS CARLOS DE LIMA PEREIRA
+ADV.(A/S): FABIO JUNIOR DE SOUZA MACHADO (58426/GO)
+AGDO.(A/S): RELATOR DO HC N° 1.120.427 DO SUPERIOR TRIBUNAL DE
+JUSTIÇA
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto da Relatora, Ministra Cármen Lúcia.
+Primeira Turma, Sessão Virtual de 11.9.2026 a 18.9.2026.
+Composição: Ministros Flávio Dino (Presidente), Cármen Lúcia,
+Alexandre de Moraes e Cristiano Zanin.
+Cintia da Silva Gonçalves
+Secretária da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código DD7A-2839-E67F-78B6 e senha 4E44-3D3D-FCD4-E30B
