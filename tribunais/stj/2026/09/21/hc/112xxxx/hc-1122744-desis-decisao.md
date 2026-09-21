@@ -1,0 +1,29 @@
+DESIS no HABEAS CORPUS Nº 1122744 - PE (2026/0349323-9)
+
+RELATOR: MINISTRO SEBASTIÃO REIS JÚNIOR
+
+REQUERENTE: ORAZIO FERREIRA DA SILVA NETO (PRESO)
+
+ADVOGADOS: MAXUELL VILARINHO DA SILVA JUNIOR - MG191329
+
+LYNDONJHONSON DE FREITAS PRUDENCIO - MG213412
+
+REQUERIDO: MINISTÉRIO PÚBLICO FEDERAL
+
+REQUERIDO: MINISTÉRIO PÚBLICO DO ESTADO DE PERNAMBUCO
+
+IMPETRADO: TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO
+
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. SUPERVENIÊNCIA DE DECISÃO FAVORÁVEL. PERDA DO OBJETO.
+Agravo regimental prejudicado.
+
+DECISÃO
+Nos termos do art. 34, IX, do RISTJ, homologo o pedido de desistência do presente habeas corpus (e, por consequência, do respectivo agravo regimental), formulado por Orazio Ferreira da Silva Neto, por meio da Petição n. 967177 /2026 (fls . 520/521 ).
+
+Publique-se.
+
+Brasília, 21 de setembro de 2026.
+
+Ministro Sebastião Reis Júnior
+Relator
