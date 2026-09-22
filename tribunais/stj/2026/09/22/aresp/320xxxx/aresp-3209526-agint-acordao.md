@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 15/09/2026 a 22/09/2026, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO. ADMISSIBILIDADE. RECONSIDERAÇÃO. PRESTAÇÃO JURISDICIONAL. NEGATIVA. AUSÊNCIA. EXECUÇÃO. NOVA PERÍCIA. NECESSIDADE. PROVAS. REEXAME. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Verificado que, no caso concreto, o agravo em recurso especial preenche os requisitos de admissibilidade, deve ser afastado o óbice aplicado pelo julgado atacado.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. O recurso especial é inviável quando a modificação do acórdão recorrido demanda o reexame do conjunto fático-probatório dos autos, conforme dispõe a Súmula nº 7/STJ.
+4. Agravo interno provido. Decisão reconsiderada para conhecer do agravo, conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CEDAE contra a decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em virtude da falta de impugnação dos fundamentos da decisão que não admitiu o recurso especial (e-STJ fls. 222/223).
+Nas razões do agravo (e-STJ fls. 227/236), a parte agravante sustenta, em síntese, que impugnou de forma suficiente os argumentos do julgado atacado.
+Repisa as teses dos recursos interpostos anteriormente, alegando que: (i) declinou as razões pelas quais houve efetiva violação do art. 1.022 do CPC, tendo em vista a negativa de prestação jurisdicional cometida pelo acórdão local, e (ii) demonstrou a inaplicabilidade da Súmula nº 7/STJ, pois a discussão é meramente de direito, não sendo necessário o reexame de provas, mas a sua revaloração jurídica, com o reconhecimento da suscitada violação dos arts. 7º, 369, 370, 480 e 1.022 do Código de Processo Civil.
+Reitera as razões dos recursos interpostos anteriormente.
+Ao final, requer o provimento do agravo interno para dar provimento ao recurso especial.
+A parte contrária não apresentou impugnação (e-STJ fl. 240).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO. ADMISSIBILIDADE. RECONSIDERAÇÃO. PRESTAÇÃO JURISDICIONAL. NEGATIVA. AUSÊNCIA. EXECUÇÃO. NOVA PERÍCIA. NECESSIDADE. PROVAS. REEXAME. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Verificado que, no caso concreto, o agravo em recurso especial preenche os requisitos de admissibilidade, deve ser afastado o óbice aplicado pelo julgado atacado.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. O recurso especial é inviável quando a modificação do acórdão recorrido demanda o reexame do conjunto fático-probatório dos autos, conforme dispõe a Súmula nº 7/STJ.
+4. Agravo interno provido. Decisão reconsiderada para conhecer do agravo, conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+VOTO
+Com razão a parte agravante.
+Com efeito, verifica-se que todos os fundamentos da decisão que negou seguimento ao recurso especial na origem foram impugnados, conforme se extrai do agravo em recurso especial (e-STJ fls. 227/236).
+Assim, reconsidera-se a decisão de e-STJ fls. 222/223 e passa-se à análise do apelo nobre, haja vista se encontrarem preenchidos os requisitos de admissibilidade do agravo em recurso especial.
+Trata-se de recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"Agravo de Instrumento. Ação revisional c/c indenização em fase de execução. Impugnação ao cumprimento da sentença rejeitado pela decisão de fls. 1047 dos autos principais. Decisão esta a desafiar recurso próprio. Impossibilidade do magistrado reabrir as questões relativas ao excesso de execução indefinidamente. Cálculos do contador e perito nomeado pelo juízo a indicar crédito em favor do exequente, não se vislumbrando fundamento para nova e protelatória perícia. Provimento do agravo." (e-STJ fl. 77)
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, a parte recorrente alega violação dos arts. 7º, 369, 370, 480 e 1.022, III, do Código de Processo Civil.
+Assevera que o acórdão combatido incorreu em negativa de prestação jurisdicional ao não se pronunciar sobre os seguintes fatos da causa: (i) a decisão de e-STJ fl. 1.317 não rejeitou a impugnação, mas apenas determinou realização de nova perícia, sendo esta decisão o objeto do agravo interposto pelo Condomínio na origem; (ii) mesmo que o decisum ora embargado esteja se referindo à decisão de e-STJ fls. 1.047/1.048 (que rejeitou a impugnação), fato é que esta decisão foi reformada pela decisão de e-STJ fl. 1.111, diante da oposição de embargos/chamamento do feito à ordem pela CEDAE às e-STJ fls. 1.074/1.079; (iii) a discussão quanto aos valores prosseguiu até a presente data, inexistindo preclusão quanto aos valores indicados para fins de execução.
+Defende a necessidade de realização de nova perícia, haja vista a complexidade da questão, os altos valores envolvidos e a grande divergência entre as partes sobre o montante devido.
+Sem as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No que tange ao defeito na prestação jurisdicional, a parte recorrente pretende o pronunciamento sobre os seguintes pontos: (i) a decisão de e-STJ fl. 1.317 não rejeitou a impugnação, mas apenas determinou realização de nova perícia, sendo esta decisão o objeto do agravo interposto pelo Condomínio na origem; (ii) mesmo que o decisum ora embargado esteja se referindo à decisão de e-STJ fls. 1.047/1.048 (que rejeitou a impugnação), fato é que esta decisão foi reformada pela decisão de fl. 1.111, diante a oposição de embargos/chamamento do feito à ordem pela CEDAE em e-STJ fls. 1.074/1.079; (iii) a discussão quanto aos valores prosseguiu até a presente data, inexistindo preclusão quanto aos valores indicados para fins de execução.
+Contudo, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, como se vê do seguinte trecho:
+"(..)
+Como visto, em sede de execução e impugnação ao cumprimento da sentença, já restou produzido nos autos cálculos do contador e perícia realizada por expert do juízo, ambas a concluir pelo crédito da parte agravante em desfavor da CEDAE.
+Realizadas tais provas conclusivas e inexistindo elementos a justificar novos atos judiciais, parece-me que andou a exma magistrada de primeiro grau ao determinar o prolongamento da instrução, sem qualquer novo fundamento ou justificativa. A nova perícia, apresenta-se protelatória e inútil nos autos diante dos laudos antes realizados.
+Assim, considerando a decisão que rejeitou a impugnação a execução de fls. 1317 agravada bem como a inexistência de recurso próprio contra mesma; considerando a realização de cálculos do contador e de laudo pericial por perito nomeado a concluírem pelo credito da parte exequente e finalmente, pela inexistência de fundamento ou justa causa a nova pericia nos autos, voto pelo provimento do agravo de instrumento para cassar a decisão guerreada e determinar o prosseguimento da execução nos valores indicados pelo perito." (e-STJ fls. 78/79)
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte recorrente.
+Nesse sentido:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. CULPA DA VENDEDORA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. PRESCRIÇÃO. APLICAÇÃO DO PRAZO PRESCRICIONAL DECENAL. INCIDÊNCIA DA SÚMULA Nº 83 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em ofensa aos arts. 489 e 1022 do CPC, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte.
+2. As Turmas que compõem a Segunda Seção deste Superior Tribunal firmaram entendimento no sentido de que, nos casos de rescisão de contrato de compra e venda de imóvel por culpa do vendedor, é aplicável o prazo decenal contado a partir da resolução.
+3. Agravo interno não provido."
+(AgInt no AREsp 2.267.897/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 6/12/2023 - grifou-se)
+No mais, o Tribunal de origem, à luz da prova dos autos, concluiu pela desnecessidade de realização de nova perícia, por já terem sido produzidos nos autos os cálculos do contador e a prova pericial, realizada por especialista do juízo, conforme se extrai da leitura do voto condutor, acima transcrito.
+Com efeito, a determinação da realização de provas, a qualquer tempo e sob o livre convencimento do magistrado, é uma faculdade deste, incumbindo-lhe sopesar sua necessidade e indeferir diligências inúteis, protelatórias ou desnecessárias.
+O juízo acerca da produção da prova compete soberanamente às instâncias ordinárias, e o seu reexame, na estreita via do recurso especial, encontra o óbice da Súmula nº 7/STJ.
+A propósito:
+"DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO DO ACÓRDÃO. EXCESSO DE EXECUÇÃO. DISPENSA DE PERÍCIA. ÓBICE DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O acórdão recorrido enfrentou de forma clara e fundamentada a controvérsia relativa à análise da planilha adotada pelo juízo e dos comprovantes de pagamento, apreciando expressamente a alegação de excesso de execução, o que afasta a apontada violação aos arts. 489 e 1.022 do CPC/2015. A mera circunstância de a decisão não acolher a tese do agravante não caracteriza omissão, obscuridade ou contradição, pois o órgão julgador não está obrigado a rebater, um a um, todos os argumentos expendidos pelas partes, desde que apresente fundamentos suficientes para a solução da lide.
+2. O Tribunal de origem, a partir do exame das provas dos autos, concluiu que a planilha considerada pelo juízo está em consonância com o contrato e com as alegações dos próprios devedores, reputando genérica a impugnação dos cálculos e desnecessário o envio dos autos à contadoria, de modo que a pretensão de alterar tal entendimento demanda revolvimento do conjunto fático-probatório, vedado em recurso especial, nos termos da Súmula 7/STJ.
+3. A realização de nova perícia constitui faculdade do juiz, e não dever, à luz dos arts. 480 e 573 do CPC/2015, sendo legítima a dispensa da prova pericial quando o julgador entende suficientes os elementos já constantes dos autos para formar seu convencimento, circunstância que afasta o alegado cerceamento de defesa.
+4. Rever, em sede de recurso especial, a conclusão quanto à desnecessidade de perícia e à inexistência de excesso de execução implica reexame de fatos e provas, o que é obstado pela Súmula 7/STJ, razão pela qual o agravo interno não apresenta argumentos idôneos para modificar a decisão monocrática.
+5. Agravo interno desprovido, mantida a decisão que deu parcial provimento ao recurso especial, apenas para afastar a multa do art. 1.026, § 2º, do CPC/2015."
+(AgInt no AREsp 3.023.137/SC, Relator Ministro Raul Araújo, Quarta Turma, julgado em 30/3/2026, DJEN de 8/4/2026)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DÍVIDA CONDOMINIAL. VALOR APURADO DO IMÓVEL CONSTANTE DO LAUDO PERICIAL. PRODUÇÃO DE NOVA PROVA PERICIAL E NOVA AVALIAÇÃO DO IMÓVEL. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+Alterar o decidido no acórdão impugnado, no que se refere à validade da perícia realizada, a necessidade de nova perícia, bem como nova avaliação do imóvel, de fato, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+Agravo interno improvido."
+(AgInt no AREsp 3.047.988/SP, Relator Ministro Humberto Martins, Terceira Turma, julgado em 23/3/2026, DJEN de 26/3/2026)
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+Salienta-se que a errônea valoração da prova que dá ensejo à excepcional intervenção do Superior Tribunal de Justiça na questão decorre de falha na aplicação de norma ou princípio no campo probatório, não das conclusões alcançadas pelas instâncias ordinárias com base nos elementos informativos do processo.
+Ante o exposto, dou provimento ao agravo interno e reconsidero a decisão agravada (e-STJ fls. 222/223) e conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Não cabe, na hipótese, a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pela ausência de prévia fixação na origem.
+É o voto.
