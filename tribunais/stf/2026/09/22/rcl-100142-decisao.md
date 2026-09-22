@@ -1,0 +1,77 @@
+DECISÃO
+
+RECLAMAÇÃO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO: FUNDAMENTO IDÔNEO. DESCUMPRIMENTO DA SÚMULA VINCULANTE N. 26 DO SUPREMO TRIBUNAL FEDERAL EVIDENCIADO. RECLAMAÇÃO JULGADA PROCEDENTE.
+
+Relatório
+1. Reclamação, com requerimento de medida liminar, ajuizada pelo Ministério Público de São Paulo, em 17.9.2026, contra ato do Ministro Ribeiro Dantas, do Superior Tribunal de Justiça, que, no julgamento do Habeas Corpus n. 1.126.760/SP, teria contrariado a Súmula Vinculante n. 26 do Supremo Tribunal Federal.
+O caso
+2. Consta dos autos que, em 22.5.2026, o juízo da Unidade Regional de Departamento Estadual de Execução Criminal – DEECRIM – 5ª RAJ, da comarca de Presidente Prudente/SP, na Execução Penal n. 0004372-50.2019.8.26.0026, teria concedido progressão ao regime semiaberto ao beneficiário, Fábio Cândido do Nascimento de Souza Rico, sem determinar a realização de exame criminológico (fls. 34-37, e-doc. 2).
+O Ministério Público de São Paulo interpôs o Agravo em Execução Penal n. 0009678-53.2026.8.26.0996 no Tribunal de Justiça de São Paulo. Em 28.8.2026, o Núcleo de Justiça 4.0 em Segundo Grau – Turma IX (Direito Criminal) deu provimento ao agravo, determinando a realização de exame criminológico (fls. 14-19, e-doc. 2). Esta a ementa do acórdão:
+
+“AGRAVO EM EXECUÇÃO PENAL - PROGRESSÃO DE REGIME - RECURSO DO MINISTÉRIO PÚBLICO CONTRA DECISÃO DE PROGRESSÃO COM DISPENSA DE EXAME CRIMINOLÓGICO - ACOLHIMENTO - Sistema legal em que o benefício da progressão de regime exige prévio exame criminológico do sentenciado como requisito subjetivo - A Lei nº 14.843/2024, tida como constitucional pelo Colendo Órgão Especial do TJSP, introduziu no Art. 112, § 1º, da LEP, alteração de natureza processual, cuja aplicação é imediata (art. 2º, CPP) - Ainda que assim não fosse, desde antes da referida alteração legislativa era possível a determinação da realização de exame criminológico (Súmula Vinculante 26 e Súmula 439, do STJ) - Exame destinado à verificação da aptidão do sentenciado à convivência em sociedade, a ser realizado antes da retomada de sua liberdade, e não depois - Caso em que o sentenciado praticou crime equiparado a hediondo, além de diversas faltas graves a justificar a realização do exame criminológico antes de se deliberar sobre progressão ao regime semiaberto - Decisão reformada - DERAM PROVIMENTO AO RECURSO”.
+
+Contra esse acórdão, a defesa do beneficiário impetrou o Habeas Corpus n. 1.126.760/SP no Superior Tribunal de Justiça. Em 3.9.2026, o Relator, Ministro Ribeiro Dantas, concedeu a ordem de ofício para restabelecer a decisão do juízo de primeiro grau de progressão de regime do beneficiário (fls. 70-76, e-doc. 2).
+
+3. Nesta ação, o reclamante alega que “a decisão do Superior Tribunal de Justiça descumpriu a Súmula Vinculante 26, tendo em vista que a decisão da origem foi suficientemente fundamentada e inexistia flagrante ilegalidade ou constrangimento ilegal” (fl. 3, e-doc. 1).
+
+Assevera que o beneficiário, “reincidente, cumpre longa pena por crime praticado com violência ou grave ameaça contra a pessoa (roubo), além de tráfico de drogas, ostentando quatro faltas disciplinares ao longo do cumprimento da pena, a demonstrar histórico prisional conturbado, e apresenta considerável saldo de pena pendente de cumprimento” (fl. 4, e-doc. 1).
+
+Afirma que, “para a correta análise do requisito subjetivo da progressão de regime de cumprimento de pena, foi determinada a realização do exame criminológico, em decisão fundamentada, fornecendo os motivos concretos da necessidade da avaliação técnica, tendo em vista a prática de crime equiparado a hediondo, o cometimento de quatro faltas disciplinares, sendo três de natureza grave, e a insuficiência do comportamento carcerário do último ano para aferição meticulosa da conduta do reeducando, de modo a verificar se o sentenciado reúne condições efetivas para que seja colocado em regime menos rigoroso, que lhe dará acesso maior às ruas e ao convívio social” (fls. 4-5, e-doc. 1).
+
+Sustenta que “a decisão [do Tribunal estadual] está em plena harmonia com o enunciado da Súmula Vinculante 26, que pacificou a possibilidade de ser determinada a realização de exame criminológico, de maneira fundamentada, para avaliar os requisitos para a progressão de regime de cumprimento de pena” (fl. 5, e-doc. 1).
+
+Acentua ter havido “inidônea, desproporcional e irrazoável limitação, com ofensa ao livre convencimento motivado, esvaziando, por via oblíqua, a autoridade da súmula vinculante mencionada ao se inviabilizar, na prática, a fundamentação concreta da realização do exame, o que representa também afronta à competência dessa Corte Suprema” (fl. 6, e-doc. 1).
+
+Estes os requerimentos e o pedido:
+
+“a) a suspensão do ato impugnado para evitar dano irreparável, nos termos do art. 989, inciso II, do Código de Processo Civil, restaurando-se o decisório do Tribunal de Justiça paulista, diante da probabilidade do direito e do perigo da demora;
+b) a requisição de informações ao ilustre Ministro Ribeiro Dantas do colendo Superior Tribunal de Justiça (SAFS, Quadra 6, Lote 01, CEP 70095-900, Brasília/DF), nos termos do art. 989, inciso I, do Código de Processo Civil, no prazo de 10 (dez) dias;
+c) a citação do beneficiário do ato (Fabio Candido do Nascimento de Souza Rico - com endereço informado nos autos como sendo Penitenciária ‘Joao Augustinho Panucci’, de Marabá Paulista – fl. 22), para, nos termos do artigo 989, inciso III, do Código de Processo Civil, apresentar contestação, no prazo de 15 dias;
+d) a intimação do douto Procurador-Geral da República para seu parecer;
+e) a procedência do pedido, para cassar a decisão reclamada e, como consequência, restabelecer a decisão que determinou a realização do exame criminológico, com o retorno do beneficiário do ato ao regime adequado, enquanto não se conclui a perícia” (fls. 10-11, e-doc. 1).
+
+Examinados os elementos dos autos, DECIDO.
+
+4. Com o instituto da súmula vinculante, inaugurou-se hipótese de cabimento de reclamação para o Supremo Tribunal Federal, como disposto no § 3º do art. 103-A da Constituição da República.
+
+A contrariedade a determinada súmula ou sua aplicação indevida por ato administrativo ou decisão judicial possibilita a atuação deste Supremo Tribunal, que, ao julgar a reclamação procedente, pode anular o ato ou cassar a decisão e determinar outra seja proferida com ou sem aplicação da súmula, conforme o caso.
+
+5. Põe-se em foco na presente reclamação se a autoridade reclamada teria contrariado a Súmula Vinculante n. 26 do Supremo Tribunal Federal, na qual se tem:
+
+“Para efeito de progressão de regime no cumprimento de pena por crime hediondo, ou equiparado, o juízo da execução observará a inconstitucionalidade do art. 2º da Lei n. 8.072, de 25 de julho de 1990, sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendo determinar, para tal fim, de modo fundamentado, a realização de exame criminológico”.
+
+6. O Tribunal de Justiça de São Paulo determinou a submissão do beneficiário à realização de exame criminológico, com estes fundamentos:
+
+“Mesmo que, por epítrope, se pudesse considerar que a norma é de natureza material e, por isso, não retroage em prejuízo do sentenciado, impõe-se destacar que, à luz da Súmula Vinculante 26 e da Súmula 439, STJ, mais acima transcritas, desde antes da vigência da lei de 2024 era dado ao magistrado decidir fundamentadamente pela realização do exame criminológico para melhor se aferir o mérito daquele que pretende a progressão de regime, porquanto tal prova se mostra idônea a eventualmente justificar o indeferimento do benefício, a despeito de o sentenciado apresentar bom comportamento carcerário.
+No caso específico, o sentenciado praticou crime equiparado a hediondo, além de quatro faltas, sendo três delas de natureza grave, o que recomenda maior cautela antes de se decidir sobre a progressão do sentenciado com base apenas no seu comportamento intramuros no último ano, e sem qualquer elemento de aferição das perspectivas interdisciplinares biopsicossociais sobre o mérito subjetivo em retomar o convívio com a sociedade, em ambientação extramuros, justificando-se, no caso, a realização do exame criminológico para aferição do requisito subjetivo do benefício da progressão de regime, a se realizar antes da concessão do benefício” (fl. 17, e-doc. 2).
+
+7. O Superior Tribunal de Justiça concedeu habeas corpus em favor do beneficiário, para afastar a exigência de realização do exame criminológico, nos seguintes termos:
+
+“Depreende-se dos autos que o paciente se encontra em execução de pena por crimes praticados antes do advento da Lei n. 14.843/2024, que modificou o art. 112, § 1º, da LEP, a fim de tornar obrigatório o exame criminológico. Assim, de acordo com a jurisprudência desta Corte Superior, deve ser afastada a aplicação da nova norma ao caso concreto, eis que constitui novatio legis in pejus. (...)
+A controvérsia deve ser analisada, portanto, à luz da Súmula n. 439 do STJ (‘admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada.’).
+Com efeito, não é vedado ao órgão julgador determinar a submissão do apenado ao exame criminológico, desde que o faça de maneira fundamentada, em estrita observância à garantia constitucional de motivação das decisões judiciais, expressa no art. 93, IX, da Constituição da República, bem como à própria previsão da antiga redação do art. 112, § 1º, da Lei de Execução Penal (‘A decisão será sempre motivada e precedida de manifestação do Ministério Público e do defensor.’).
+No caso dos autos, verifica-se que o Tribunal de origem pautou a exigência da perícia com base na gravidade abstrata dos delitos praticados pelo paciente, bem como no cometimento de faltas disciplinares muito antigas - uma média, cometida em 2021; e outras três, de natureza grave, cometidas em 2007, 2016 e 2021 -, fundamentos considerados inaptos para exigir a confecção do exame criminológico, de acordo com a jurisprudência desta Corte Superior (...).
+Ante o exposto, não conheço do habeas corpus. Contudo, concedo a ordem, de ofício, para restabelecer a decisão do Juízo das execuções penais, que concedeu ao paciente a progressão de regime” (fls. 71-76, e-doc. 2).
+
+8. Apesar de, em desacordo com a jurisprudência deste Supremo Tribunal, destacar que a Lei n. 14.843/2024 tem aplicação imediata, o Núcleo de Justiça 4.0 em Segundo Grau – Turma IX (Direito Criminal) do Tribunal de Justiça paulista realçou que o beneficiário “praticou crime equiparado a hediondo, além de quatro faltas, sendo três delas de natureza grave” (fl. 17, e-doc. 2) como argumento para submeter o beneficiário ao exame criminológico.
+
+Na espécie, consideradas as peculiaridades do caso concreto, foi determinada, com adequada fundamentação, realização de exame criminológico, divergindo o ato reclamado da jurisprudência predominante sobre a matéria, incluído o enunciado na Súmula Vinculante n. 26. Assim, por exemplo:
+
+“AGRAVO REGIMENTAL NA RECLAMAÇÃO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. ALEGADO DESCUMPRIMENTO DA SÚMULA VINCULANTE N. 26 DO SUPREMO TRIBUNAL FEDERAL. EXAME CRIMINOLÓGICO: FUNDAMENTO IDÔNEO. AGRAVO REGIMENTAL DESPROVIDO” (Rcl n. 89.271-AgR, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJe 3.3.2026).
+
+“AGRAVO REGIMENTAL NA RECLAMAÇÃO. EXAME CRIMINOLÓGICO. SUPOSTA VIOLAÇÃO À SÚMULA VINCULANTE 26. NÃO OCORRÊNCIA. DECISÃO JUDICIAL ADEQUADAMENTE FUNDAMENTADA NAS PECULIARIDADES DO CASO CONCRETO. I. QUESTÃO EM DISCUSSÃO 1. Alega-se violação à Súmula Vinculante 26. II. RAZÕES DE DECIDIR 2. Incide, na hipótese, a jurisprudência pacífica desta CORTE no sentido de ser inviável a Reclamação Constitucional ajuizada sob a alegação de ofensa à Súmula Vinculante 26, quando o magistrado, com base nas particularidades do caso concreto, entende necessária a realização de exame criminológico para a formação de seu convencimento. III. DISPOSITIVO 3. Agravo Regimental a que se nega provimento” (Rcl n. 93.108-AgR, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 14.5.2026).
+
+“AGRAVO REGIMENTAL NA RECLAMAÇÃO. EXECUÇÃO PENAL. ALEGAÇÃO DE DESRESPEITO À SÚMULA VINCULANTE 26. EXAME CRIMINOLÓGICO. DECISÃO FUNDAMENTADA. POSSIBILIDADE. AGRAVO CONHECIDO E NÃO PROVIDO. 1. A jurisprudência desta Suprema Corte, consolidada no enunciado da Súmula Vinculante 26, reputa viável a realização do exame criminológico nas situações em que o Juízo da Execução, mediante fundamentação adequada, o considerar necessário para a formação do seu convencimento. 2. No caso concreto, o magistrado de primeiro grau determinou, por decisão devidamente fundamentada, a realização do referido exame, com base na situação específica do apenado. 3. Inexistente, na hipótese, qualquer ato praticado pela autoridade reclamada capaz de afrontar o enunciado da Súmula Vinculante 26. Precedentes. 4. Agravo regimental conhecido e não provido” (Rcl n. 83.086-AgR, Relator o Ministro Flávio Dino, Primeira Turma, DJe 24.9.2025).
+
+“AGRAVO REGIMENTAL NA RECLAMAÇÃO. EXAME CRIMINOLÓGICO. SÚMULA VINCULANTE 26. DECISÃO JUDICIAL ADEQUADAMENTE FUNDAMENTADA NAS PARTICULARIDADES DO CASO CONCRETO. I. CASO EM EXAME 1. Agravo Regimental interposto contra decisão que julgou procedente a Reclamação, para cassar a decisão proferida pelo Superior Tribunal de Justiça (HC 981.188/SP) e restabelecer a decisão do Juízo da Execução Penal, a qual determinou a submissão do sentenciado à realização de exame criminológico, como requisito para a análise do pedido de progressão de regime. II.QUESTÃO EM DISCUSSÃO 2. Discute-se a a aplicação da Súmula Vinculante 26. II. RAZÕES DE DECIDIR 3. É pacífica a jurisprudência deste SUPREMO TRIBUNAL FEDERAL no sentido de que é admissível a realização do exame criminológico sempre que o magistrado, com fundamento nas particularidades do caso concreto, entender necessária sua realização para a formação do convencimento judicial. Precedentes. 4. Na espécie, a decisão do Juízo da Execução Penal – confirmada pelo Tribunal de Justiça de São Paulo – revela-se fundamentada, com base nas circunstâncias específicas do caso. Conforme consignado, o sentenciado, que cumpre pena decorrente de condenações pelos crimes de ‘tráfico de drogas e de organização criminosa, majorada pelo emprego de arma de fogo e agravada pelo exercício do comando da organização’, possui ‘histórico de faltas disciplinares’. IV. DISPOSITIVO 5. Agravo Regimental a que se nega provimento” (Rcl n. 82.670-AgR, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 8.9.2025).
+
+9. Pelo exposto, julgo procedente a presente reclamação, para cassar a decisão reclamada e restabelecer a decisão proferida pelo Núcleo de Justiça 4.0 em Segundo Grau – Turma IX (Direito Criminal) do Tribunal de Justiça de São Paulo no Agravo em Execução Penal n. 0009678-53.2026.8.26.0996.
+
+Oficie-se, com urgência, ao Ministro Ribeiro Dantas, Relator do Habeas Corpus n. 1.126.760/SP; ao Desembargador Alexandre Coelho, do Tribunal de Justiça de São Paulo, Relator do Agravo em Execução Penal n. 0009678-53.2026.8.26.0996; e ao juízo da Unidade Regional de Departamento Estadual de Execução Criminal – DEECRIM – 5ª RAJ, da comarca de Presidente Prudente/SP (Execução Penal n. 0004372-50.2019.8.26.0026), para ciência e imediato cumprimento desta decisão, enviando-se-lhes cópias, por meio eletrônico.
+
+Publique-se.
+
+Brasília, 22 de setembro de 2026.
+
+Ministra CÁRMEN LÚCIA
+Relatora
