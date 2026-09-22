@@ -1,1 +1,2 @@
 Art. 57. O Conselho Seccional exerce e observa, no respectivo território, as competências, vedações e funções atribuídas ao Conselho Federal, no que couber e no âmbito de sua competência material e territorial, e as normas gerais estabelecidas nesta lei, no regulamento geral, no Código de Ética e Disciplina, e nos Provimentos.
+Parágrafo único. É facultada aos Conselhos Seccionais, na forma do Regulamento Geral, a criação de diretorias regimentais temporárias de caráter temático.
