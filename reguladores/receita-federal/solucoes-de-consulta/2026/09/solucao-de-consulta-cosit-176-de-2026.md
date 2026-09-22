@@ -1,0 +1,15 @@
+Solução de Consulta Cosit nº 176, de 18 de setembro de 2026
+Assunto: Contribuição para o PIS/Pasep
+FISCALIZAÇÃO DE TRÂNSITO. ATIVIDADE DE MONITORAMENTO DE VIAS. NÃO CARACTERIZAÇÃO COMO SEGURANÇA PRIVADA. SUJEIÇÃO AO REGIME NÃO CUMULATIVO.
+A atividade de monitoramento de vias, com o fornecimento e instalação de equipamentos e sistemas informatizados, com serviços acessórios (manutenção, conformidade técnica e suporte operacional), destinados à fiscalização de trânsito, não se enquadra como serviço de segurança privada, nos termos do art. 10 da Lei nº 7.102, de 20 de junho de 1983 (revogada), e do art. 5º da Lei nº 14.967, de 9 de setembro de 2024. Trata-se de atividade de natureza distinta, não sujeita à regulamentação da Polícia Federal, estando submetida ao regime não cumulativo da Contribuição para o PIS/Pasep, conforme disposto na Lei nº 10.637, de 30 de dezembro de 2002.
+SOLUÇÃO DE CONSULTA PARCIALMENTE VINCULADA À SOLUÇÃO DE DIVERGÊNCIA COSIT Nº 1, DE 17 DE OUTUBRO DE 2025.
+Dispositivos Legais: Constituição Federal, art. 144; Lei nº 10.637, de 30 de dezembro de 2002, art. 8º, inciso I; Lei nº 7.102, de 20 de junho de 1983, art. 10, inciso I; Lei nº 14.967, de 9 de setembro de 2024, art. 5º; Lei nº 13.675, de 11 de junho de 2018, arts. 1º, 2º e 9º; Lei nº 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro - CTB, arts. 1º, 6º, 7º, 12, 20, 21, 22, 24, 24-A e 280; e Instrução Normativa RFB nº 2.121, de 15 de dezembro de 2022, arts. 123 e 145.
+Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins
+FISCALIZAÇÃO DE TRÂNSITO. ATIVIDADE DE MONITORAMENTO DE VIAS. NÃO CARACTERIZAÇÃO COMO SEGURANÇA PRIVADA. SUJEIÇÃO AO REGIME NÃO CUMULATIVO.
+A atividade de monitoramento de vias, com o fornecimento e instalação de equipamentos e sistemas informatizados, com serviços acessórios (manutenção, conformidade técnica e suporte operacional), destinados à fiscalização de trânsito, não se enquadra como serviço de segurança privada, nos termos do art. 10 da Lei nº 7.102, de 20 de junho de 1983 (revogada), e do art. 5º da Lei nº 14.967, de 9 de setembro de 2024. Trata-se de atividade de natureza distinta, não sujeita à regulamentação da Polícia Federal, estando submetida ao regime não cumulativo da Cofins, conforme disposto na Lei nº 10.833, de 29 de dezembro de 2003.
+SOLUÇÃO DE CONSULTA PARCIALMENTE VINCULADA À SOLUÇÃO DE DIVERGÊNCIA COSIT Nº 1, DE 17 DE OUTUBRO DE 2025.
+Dispositivos Legais: Constituição Federal, art. 144; Lei nº 10.833, de 29 de dezembro de 2003, art. 10, inciso I; Lei nº 7.102, de 20 de junho de 1983, art. 10, inciso I; Lei nº 14.967, de 9 de setembro de 2024, art. 5º; Lei nº 13.675, 11 de junho de 2018, arts. 1º, 2º e 9º; Lei nº 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro - CTB, arts. 1º, 6º, 7º, 12, 20, 21, 22, 24, 24-A e 280; e Instrução Normativa RFB nº 2.121, de 15 de dezembro de 2022, arts. 123 e 145.
+SC Cosit nº 176-2026
+[arquivo anexo: SC Cosit nº 176-2026.pdf]
+RODRIGO AUGUSTO VERLY DE OLIVEIRA
+Coordenador-Geral
