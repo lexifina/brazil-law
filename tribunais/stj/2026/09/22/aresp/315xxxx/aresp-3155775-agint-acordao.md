@@ -1,0 +1,108 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 15/09/2026 a 22/09/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CIVIL. VIOLAÇÃO DO ART. 1.022 DO CPC INEXISTENTE. PREVIDÊNCIA PRIVADA. SALDO DE DEPÓSITOS. PENHORABILIDADE. ANÁLISE CASUÍSTICA. PRECEDENTES. IMPENHORABILIDADE RECONHECIDA. REVISÃO. SÚMULA N. 7/STJ.
+1. Inexiste a alegada violação do art. 1.022 do CPC, visto que o Tribunal de origem efetivamente enfrentou a questão relativa à possibilidade de retenção do saldo de previdência para fins de compensação de valores inadimplidos de empréstimos concedidos pelo próprio plano de previdência, no que destacou que a viabilidade compensatória perpassaria pela aferição de penhorabilidade do saldo, cuja pretensão de resgate integral deste não afastaria seu caráter previdenciário e alimentar, o qual, à luz do acervo fático dos autos, ficou comprovado.
+2. O inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional. Precedentes.
+3. A impenhorabilidade dos valores depositados em fundo de previdência complementar privada deve ser analisada pelo magistrado de forma casuística, levando em consideração as peculiaridades de cada situação. Exegese do entendimento firmado nos EREsp n. 1.121.719/SP, relatora Ministra Nancy Andrighi, Segunda Seção, DJe de 4/4/2014. Incidência da Súmula n. 83/STJ e 568/STJ.
+4. Revisão do caráter previdenciário e alimentar do saldo de previdência privada, e sua consequente impenhorabilidade, que esbarra no óbice da Súmula n. 7/STJ.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS (FUNCEF) contra decisão monocrática de minha relatoria que conheceu do agravo para não conhecer do recurso especial (fls. 696-701).
+O recurso especial inadmitido foi interposto, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL assim ementado (fls. 489-490):
+APELAÇÃO CÍVEL. PREVIDÊNCIA PRIVADA. AÇÃO DE COBRANÇA. RESGATE DAS CONTRIBUIÇÕES PREVIDENCIÁRIAS. RETENÇÃO EM RAZÃO DE EMPRÉSTIMO NÃO ADIMPLIDO. COMPENSAÇÃO. IMPOSSIBILIDADE. VERBA DE NATUREZA ALIMENTAR
+1) Trata-se de ação de cobrança, através da qual, a parte autora busca a liberação para resgate do saldo acumulado no plano de previdência privada - Novo Plano - administrado pela Funcef, tendo em vista a retenção do valor pela requerida, em razão de débitos oriundos de contratos de empréstimos não adimplidos, julgada parcialmente procedente na origem.
+2) No caso dos autos, a requerida alegou a expressa previsão regulamentar e contratual sobre a incidência dos créditos do plano sobre o valor a ser resgatado pelo participante, ficando a Fundação autorizada a utilizar o saldo para abater do débito decorrente dos contratos por ele firmados, em respeito ao pacta sunt servanda e ao equilíbrio atuarial dos planos de benefícios.
+3) O direito à restituição das parcelas pagas ao plano de previdência privada está amparado pelo Art. 36 do Regulamento do Plano Único da CEEE e da Súmula n.º 289 do STJ, a qual também destaca que o valor a ser devolvido deve sofrer a correção pelos índices que melhor recomponham a desvalorização da moeda.
+4) Nos termos do entendimento do egrégio STJ, a possibilidade de resgate do saldo de plano de previdência complementar, não afasta a natureza previdenciária e alimentar do valor depositado, desde que comprovada a necessidade de utilização do saldo para a subsistência do participante e de sua família.
+5) Restou comprovado nos autos que o autor aufere rendimento mensal bruto no valor de R$ 2.424,05 (..) a título de benefício previdenciário, sem que haja outra fonte de rendimento, o que demonstra a necessidade de utilização dos valores para a sua subsistência, restando caracterizada a natureza alimentar da verba, o que afasta a possibilidade de compensação dos valores, visto que se tratam de dívidas de naturezas distintas.
+6) Diante desse contexto, a manutenção da sentença recorrida é medida impositiva.
+APELAÇÃO CÍVEL DESPROVIDA.
+Rejeitados os embargos de declaração opostos (fls. 553-554).
+A agravante reitera, nas razões do recurso interno, a alegação de afronta ao art. 1.022 do CPC, por entender que houve prestação jurisdicional incompleta.
+Aduz a inaplicabilidade da Súmula n. 211/STJ, oportunidade em que reitera a adesão voluntária da agravada aos termos do plano de previdência, inclusive quanto à possibilidade de compensação dos empréstimos com o saldo de resgate.
+Sustenta, outrossim, que não incidem os preceitos das Súmulas n. 5/STJ e 7/STJ à hipótese dos autos, pois (fl. 713-714):
+24.  ..  o que se buscou deixar claro no decorrer dos autos é que tanto o contrato de previdência complementar, quanto o contrato de empréstimo, ambos firmados entre as partes litigantes, são civis e podem ser compensados, haja vista que o produto da consecução do respectivo objeto de cada um é o mesmo: valores pecuniários, líquidos e certos.
+25. Nesse diapasão, há de se ter em mente que o almejado pela Agravante é tão somente a correta aplicação, e não interpretação, dos dispositivos contratuais e legais por ela apresentados ao longo de todo o processo.
+Pugna, por fim, pelo provimento do recurso.
+O agravado não apresentou contraminuta (fl. 719).
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CIVIL. VIOLAÇÃO DO ART. 1.022 DO CPC INEXISTENTE. PREVIDÊNCIA PRIVADA. SALDO DE DEPÓSITOS. PENHORABILIDADE. ANÁLISE CASUÍSTICA. PRECEDENTES. IMPENHORABILIDADE RECONHECIDA. REVISÃO. SÚMULA N. 7/STJ.
+1. Inexiste a alegada violação do art. 1.022 do CPC, visto que o Tribunal de origem efetivamente enfrentou a questão relativa à possibilidade de retenção do saldo de previdência para fins de compensação de valores inadimplidos de empréstimos concedidos pelo próprio plano de previdência, no que destacou que a viabilidade compensatória perpassaria pela aferição de penhorabilidade do saldo, cuja pretensão de resgate integral deste não afastaria seu caráter previdenciário e alimentar, o qual, à luz do acervo fático dos autos, ficou comprovado.
+2. O inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional. Precedentes.
+3. A impenhorabilidade dos valores depositados em fundo de previdência complementar privada deve ser analisada pelo magistrado de forma casuística, levando em consideração as peculiaridades de cada situação. Exegese do entendimento firmado nos EREsp n. 1.121.719/SP, relatora Ministra Nancy Andrighi, Segunda Seção, DJe de 4/4/2014. Incidência da Súmula n. 83/STJ e 568/STJ.
+4. Revisão do caráter previdenciário e alimentar do saldo de previdência privada, e sua consequente impenhorabilidade, que esbarra no óbice da Súmula n. 7/STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O agravo interno não merece prosperar.
+Conforme consignado na decisão agravada, inexiste a alegada violação do art. 1.022 do CPC, visto que o Tribunal de origem efetivamente enfrentou a questão levada ao seu conhecimento, qual seja, a possibilidade de retenção do saldo de previdência para fins de compensação de valores inadimplidos de empréstimos concedidos pelo próprio plano de previdência.
+E, a propósito do contexto recursal, destacou a origem que a viabilidade de compensação perpassaria pela aferição de penhorabilidade do saldo, cuja pretensão de resgate integral deste não afastaria seu caráter previdenciário e alimentar, o qual, à luz do acervo fático dos autos, ficou comprovado. Vejamos:
+Pelos motivos expostos, a parte, ora requerida, postulou, naqueles autos  Cumprimento de Sentença n. 5001413-72.2021.8.21.0096 , a penhora do saldo de contribuições mantido junto à FUNCEF a fim de sanar o referido crédito. No entanto, foi indeferido o pedido de penhora nos seguintes termos evento 1, DOC9 - evento 25, DOC1 sic:
+Vistos.
+Sabe-se que a penhora de fundo de previdência privada tem sua impenhorabilidade relativa, de modo que cabe ao Juiz analisar o caso concreto.
+In casu, percebe-se que a previdência privada é utilizada pelo executado para lhe assegurar uma futura subsistência, de modo que se vislumbra uma evidente semelhança com o a poupança, devendo-se aplicar, analogicamente o art. 833, inciso X, do CPC.
+Tal como apontado na petição 24.1, o valor líquido à disposição do executado e de R$47.475,12, valor que se insere dentro do limite máximo de 40 (quarenta) salários mínimos (R$48.480,00), mostrando-se, portanto, impenhorável.
+Ante o exposto, indefiro o pedido de penhora do valor depositado no fundo de previdência privada, até o limite de quarenta salários mínimos (ou R$48 480.00).
+Diante desse contexto, o valor referente ao saldo do plano de previdência complementar do autor foi considerado verba alimentar, porquanto, destinado a assegurar a subsistência do participante.
+Nos termos do entendimento do egrégio STJ, a possibilidade de resgate do saldo de plano de previdência complementar, não afasta a natureza previdenciária e alimentar do valor depositado, desde que comprovada a necessidade de utilização do saldo para a subsistência do participante e de sua família, in verbis:
+ ..
+Assim, no caso dos autos, o autor comprova auferir rendimento bruto mensal no valor de R$2.424,05 (..) evento 1, DOC4 a título de benefício previdenciário, inexistindo outra fonte de renda, o que demonstra a necessidade de utilização dos valores para a sua subsistência, restando caracterizada a natureza alimentar da verba, o que afasta a possibilidade de compensação dos valores, visto que se tratam de dívidas de naturezas distintas.
+Nesse contexto, mantenho a bem lançada sentença da lavra do douto magistrado de origem, Dr. RODRIGO ANTOLA AITA, cujos fundamentos adoto como razões de decidir e passam a fazer parte integrante deste voto, in verbis:
+" .. O plano de previdência é uma aplicação financeira que constitui modalidade de previdência privada complementar, mas que também possibilita não apenas a pessoa auferir um rendimento daquela aplicação financeira, mas também o resgate total dessa aplicação, como se fora uma caderneta de poupança. E, nos termos da regra processual do art. 833, que estabelece a impenhorabilidade dos bens, diz o inciso X: "Até o limite de 40 (quarenta) salários mínimos, a quantia depositada em caderneta de poupança".
+Deve-se atentar para o fato de que, em geral, o participante adere a esse tipo de contrato com o intuito de resguardar o próprio futuro e/ou de seus beneficiários, garantindo o recebimento de certa quantia, que julga suficiente para a manutenção futura do atual padrão de vida. Essa é, aliás, a finalidade precípua dos fundos de previdência privada, e o principal diferenciador das aplicações financeiras convencionais.
+Assim, apesar de o artigo 14, III, da LC 109/2001 permitir que ocorra o resgate da totalidade das contribuições vertidas ao plano pelo participante, essa faculdade, no entanto, concedida ao participante não tem o efeito de afastar, de forma absoluta e automática, a natureza essencialmente previdenciária e, portanto, alimentar, do saldo existente naquele fundo.
+Portanto a mesma proteção que abarca os proventos advindos da aposentadoria privada, em princípio, deve valer para a reserva financeira que visa justamente a assegurá-los, sob pena de se tornar inócua a própria garantia da impenhorabilidade daqueles proventos.
+Outrossim, se é da essência do regime de previdência complementar a inscrição em um plano de benefícios de caráter previdenciário, seria ilógico afirmar que os valores depositados pelo participante possam, originalmente, ter natureza alimentar, e, com o decorrer do tempo, se não forem utilizados, passem a se constituir em investimento ou poupança, passível de penhora.
+Ou seja, a menos que fique comprovado que, no caso concreto, o participante resgatou as contribuições vertidas ao Plano, sem consumi-las para o suprimento de suas necessidades básicas, valendo-se, pois, do fundo de previdência privada como verdadeira aplicação financeira, o saldo existente se encontra abrangido pelo art. 649, IV, do CPC.
+ ..
+Dessa forma, aplicado o referido entendimento ao presente caso, depreende-se que o resgate do valor depositado no plano de previdência complementar do autor não enseja a perda de sua natureza previdenciária e alimentar.
+Outrossim, de acordo com o STJ, a natureza alimentar dos valores depositados em fundo de previdência privada deve ser analisado de maneira casuística pelo magistrado.
+ ..
+No caso em comento, o autor comprova auferir rendimentos de R$ 2.424,05 (1.4), a título de benefício previdenciário, o que, a míngua de qualquer prova da parte ré em sentido contrário, denota a carência de recursos e a necessidade dos valores para a sua subsistência.
+Sendo assim, entendo ter sido comprovada a natureza alimentar da verba. Diante da comprovação da natureza alimentar, não há falar na compensação dos valores, nos termos do art. 368 do Código Civil, visto que se tratam de dívidas de naturezas distintas.
+Ainda, tendo em vista que este juízo, no evento 81.1, entendeu pela impenhorabilidade dos valores depositados em fundo de previdência privada complementar, caracterizando a verba como de natureza alimentar, a presente ação merece procedência.
+ .. .
+Observa-se, assim, que as questões recursais foram efetivamente enfrentadas pelo Tribunal de origem, sendo que não se pode ter como omissa ou carente de fundamentação uma decisão tão somente porque suas alegações não foram acolhidas.
+O Tribunal de origem efetivamente enfrentou a questão posta, cabendo relembrar que não é necessário abordar todos os temas suscitados pela parte, pois "a função teleológica da decisão judicial é a de compor, precipuamente, litígios. Não é peça acadêmica ou doutrinária, tampouco destina-se a responder a argumentos, à guisa de quesitos, como se laudo pericial fora. Contenta-se o sistema com a solução da controvérsia observada a res in iudicium deducta" (REsp n. 209.048/RJ, relator Ministro Franciulli Netto, Segunda Turma, DJ de 19/12/2003, p. 380).
+A título de reforço, cito:
+2. O órgão julgador não é obrigado a se manifestar sobre todos os pontos alegados pelas partes, mas somente sobre aqueles que entender necessários para a sua decisão, de acordo com seu livre e fundamentado convencimento, não caracterizando omissão ou ofensa à legislação infraconstitucional o resultado diferente do pretendido pela parte. Precedentes.
+(EDcl no REsp n. 2.024.829/SC, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 17/5/2023.)
+1. O julgado recorrido não padece de qualquer omissão ou nulidade na sua fundamentação, porquanto apreciou as teses relevantes para o deslinde da controvérsia, tendo concluído, após minucioso exame dos elementos fáticos e probatórios produzidos nos autos, que o decreto condenatório está em conformidade com a evidência dos autos. Nesse ponto, cumpre ressaltar que, conforme a consolidada jurisprudência desta Corte, o órgão julgador não está obrigado a se manifestar sobre todos os pontos alegados pela parte, mas somente sobre aqueles necessários ao deslinde da controvérsia, de acordo com o livre convencimento motivado.
+(AgRg no REsp n. 2.041.751/MG, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 24/4/2023.)
+Cumpre reiterar que entendimento contrário não se confunde com omissão no julgado ou com ausência de prestação jurisdicional. A propósito: "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 29/8/2022).
+No mesmo sentido:
+2.2. Não há ofensa aos arts. 489 e 1.022 do CPC, quando o Tribunal de origem examina, de forma fundamentada, a questão submetida à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+(REsp n. 1.947.636/PE, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 6/9/2024.)
+1. Segundo orientação jurisprudencial vigente no Superior Tribunal de Justiça, não há falar em omissão, contradição, obscuridade ou erro material, nem em deficiência na fundamentação, quando a decisão recorrida está adequadamente motivada com base na aplicação do direito considerado cabível ao caso concreto, pois o mero inconformismo da parte com a solução da controvérsia não configura negativa de prestação jurisdicional.
+(AgInt no AREsp n. 2.595.147/SE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 28/8/2024.)
+No mais, conforme já destacaram as razões de decidir tanto da sentença como do acórdão, a jurisprudência do STJ firmou-se na possibilidade de declaração de impenhorabilidade, ou não, dos valores depositados em fundo de previdência complementar privada, cuja análise de sua natureza é avaliada casuisticamente pelo magistrado.
+A propósito, ementa do julgado que fixou a orientação da Segunda Seção:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. SALDO EM FUNDO DE PREVIDÊNCIA PRIVADA COMPLEMENTAR. IMPENHORABILIDADE. INDISPONIBILIDADE DE BENS DETERMINADA À LUZ DO ART. 36 DA LEI 6.024/74. MEDIDA DESPROPORCIONAL.
+1. O regime de previdência privada complementar é, nos termos do art. 1º da LC 109/2001, "baseado na constituição de reservas que garantam o benefício, nos termos do caput do art. 202 da Constituição Federal", que, por sua vez, está inserido na seção que dispõe sobre a Previdência Social.
+2. Embora não se negue que o PGBL permite o "resgate da totalidade das contribuições vertidas ao plano pelo participante" (art. 14, III, da LC 109/2001), essa faculdade concedida ao participante de fundo de previdência privada complementar não tem o condão de afastar, de forma inexorável, a natureza essencialmente previdenciária e, portanto, alimentar, do saldo existente.
+3. Por isso, a impenhorabilidade dos valores depositados em fundo de previdência privada complementar deve ser aferida pelo Juiz casuisticamente, de modo que, se as provas dos autos revelarem a necessidade de utilização do saldo para a subsistência do participante e de sua família, caracterizada estará a sua natureza alimentar, na forma do art. 649, IV, do CPC.
+4. Ante as peculiaridades da espécie (curto período em que o embargante esteve à frente da instituição financeira e sua ínfima participação no respectivo capital social), não se mostra razoável impor ao embargante tão grave medida, de ter decretada a indisponibilidade de todos os seus bens, inclusive do saldo existente em fundo de previdência privada complementar - PGBL.
+5. Embargos de divergência conhecidos e providos.
+(EREsp n. 1.121.719/SP, relatora Ministra Nancy Andrighi, Segunda Seção, DJe de 4/4/2014.)
+A título de reforço:
+2. A impenhorabilidade dos valores depositados em fundo de previdência complementar privada deve ser analisada pelo magistrado de forma casuística, levando em consideração as peculiaridades de cada situação. Precedente da Segunda Seção, EREsp n. 1.121.719/SP, Rel. Ministra NANCY ANDRIGHI, DJe de 4/4/2014.
+(AgInt no AREsp n. 2.631.444/SP, relator Ministro Humberto Martins, Terceira Turma, DJe de 9/10/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. PENHORABILIDADE. POSSIBILIDADE. ANÁLISE CASUÍSTICA.
+1. A Segunda Seção desta Corte, no julgamento dos EREsp 1.121.719/SP, entendeu que a possibilidade da penhora dos valores depositados em fundo de previdência privada complementar deve ser analisada de forma casuística. Precedente.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 2.007.267/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 17/11/2023.)
+Por seu turno, ao contrário do que insiste a agravante, inafastáveis os preceitos da Súmula n. 7/STJ à hipótese dos autos, visto que a impenhorabilidade do saldo decorreu da análise fático-probatória dos autos, de modo que a revisão do entendimento de origem efetivamente esbarra no óbice do referido enunciado sumular:
+1. A conclusão do Tribunal de origem quanto à natureza de investimento dos valores depositados em plano de previdência privada modalidade VGBL, fundada na ausência de prova do caráter alimentar e da dependência exclusiva da devedora em relação aos rendimentos, demanda o reexame do conjunto fático-probatório dos autos, procedimento vedado pela Súmula nº 7 do STJ.
+(AREsp n. 3.077.210/RJ, relator Ministro Moura Ribeiro, Terceira Turma, DJEN de 20/3/2026.)
+3. Rever as conclusões da origem acerca do caráter alimentar da previdência privada apta a ensejar a impenhorabilidade do fundo encontra óbice na Súmula n. 7/STJ.
+(AgInt no REsp n. 2.034.496/SP, relator Ministro Humberto Martins, Terceira Turma, DJe de 6/12/2023.)
+Ness e contexto, em razão da impenhorabilidade do saldo, a pretensão de compensação fica claramente prejudicada.
+Assim, da leitura da petição de agravo interno não se extrai argumentação relevante apta a infirmar os fundamentos da decisão ora agravada.
+Dessarte, nada havendo a retificar ou esclarecer na decisão agravada, deve ela ser mantida.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
