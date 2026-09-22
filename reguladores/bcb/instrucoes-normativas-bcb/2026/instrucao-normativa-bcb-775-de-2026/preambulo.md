@@ -1,0 +1,4 @@
+INSTRUÇÃO NORMATIVA BCB Nº 775, DE 11 DE SETEMBRO DE 2026
+Dispõe sobre a natureza operacional da recepção, por meio dos sistemas de registro ou de depósito centralizado de duplicatas escriturais, e do redirecionamento ao escriturador das informações enviadas pelos agentes financiadores sobre os contratos, de que trata o caput do art. 12-A da Resolução BCB nº 339, de 24 de agosto de 2023, durante o prazo previsto no § 4º do referido artigo, bem como sobre os critérios de priorização para aplicação dos efeitos desses contratos às agendas de duplicatas do sacador.
+O Chefe do Departamento de Regulação do Sistema Financeiro (Denor), no uso da atribuição que lhe confere o art. 23, inciso I, alínea “a”, do Regimento Interno do Banco Central do Brasil, anexo à Resolução BCB nº 340, de 21 de setembro de 2023, e tendo em vista o disposto nos arts. 12-A e 41 da Resolução BCB nº 339, de 24 de agosto de 2023,
+R E S O L V E :
