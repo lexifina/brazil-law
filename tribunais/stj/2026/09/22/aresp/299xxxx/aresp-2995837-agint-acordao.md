@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 15/09/2026 a 22/09/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CAPÍTULOS AUTÔNOMOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. PRECLUSÃO DA MATÉRIA. OCORRÊNCIA. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. PROVIMENTO NEGADO.
+1. A falta de impugnação, no agravo interno, a fundamento autônomo da decisão agravada acarreta a preclusão da matéria não atacada, restando ao relator a análise do capítulo efetivamente impugnado (EREsp 1.424.404/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe de 17/11/2021).
+2. Inexiste ofensa ao art. 1.022 do Código de Processo Civil (CPC) quando o Tribunal de origem aprecia fundamentadamente a controvérsia, prestando a jurisdição na medida da pretensão deduzida, sem incorrer em erro material, omissão, contradição ou obscuridade; o descontentamento da parte recorrente com o resultado do julgamento não configura ofensa à lei.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por Condomínio do Edifício Golden Macaé contra a decisão monocrática de fls. 1.592/1.597, que conheceu do agravo em recurso especial para conhecer em parte do recurso especial e, nessa extensão, a ele negar provimento.
+A parte agravante sustenta que a decisão é genérica e não enfrentou o ponto nuclear da controvérsia, qual seja, a suposta inexistência de qualquer etapa de prestação do serviço de esgotamento sanitário antes de 2017, afirmando que não havia tubulação para coleta e que a estação de tratamento da concessionária somente teria sido concluída em 31/12/2016 (fls. 1.604/1.605).
+Alega omissão e obscuridade quanto à distinção entre galeria de águas pluviais (GAP) e rede de esgoto, afirmando que o lançamento em GAP não configuraria prestação de serviço pela concessionária e que, portanto, a cobrança nas faturas de 26/2/2016, 26/3/2016 e 26/4/2016 seria indevida (fls. 1.604/1.605).
+Sustenta a necessidade de retorno dos autos ao Tribunal de origem para que este se manifeste sobre as questões articuladas nos embargos de declaração, citando precedente que admite anulação por violação ao art. 1.022 do CPC (fl. 1.605).
+Afirma, ainda, que houve negativa de vigência ao Recurso Especial 1.339.313/RJ (Tema 565), porque não haveria qualquer etapa do serviço antes de 2017 e porque o uso de GAP não legitima cobrança de tarifa (fls. 1.604/1.606).
+Requer a reconsideração da decisão agravada ou a apreciação do processo pelo órgão colegiado competente.
+Impugnação apresentada às fls. 1.613/1.619 (BRK Ambiental Macaé S/A) e 1.621/1.625 (Companhia Estadual de Águas e Esgotos - CEDAE).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CAPÍTULOS AUTÔNOMOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. PRECLUSÃO DA MATÉRIA. OCORRÊNCIA. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. PROVIMENTO NEGADO.
+1. A falta de impugnação, no agravo interno, a fundamento autônomo da decisão agravada acarreta a preclusão da matéria não atacada, restando ao relator a análise do capítulo efetivamente impugnado (EREsp 1.424.404/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe de 17/11/2021).
+2. Inexiste ofensa ao art. 1.022 do Código de Processo Civil (CPC) quando o Tribunal de origem aprecia fundamentadamente a controvérsia, prestando a jurisdição na medida da pretensão deduzida, sem incorrer em erro material, omissão, contradição ou obscuridade; o descontentamento da parte recorrente com o resultado do julgamento não configura ofensa à lei.
+3. Agravo interno a que se nega provimento.
+VOTO
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos EREsp 1.424.404/SP (relator Ministro Luis Felipe Salomão, DJe de 17/11/2021), fixou os seguintes parâmetros para a incidência da Súmula 182/STJ nos agravos internos interpostos de decisões proferidas em recurso especial ou em agravo em recurso especial:
+"a) incide o verbete quando: i) o único ou todos os capítulos da decisão agravada não foi ou não foram impugnados; ii) não houver a impugnação de todos os fundamentos adotados na análise de determinado capítulo autônomo (ou seja, quando não há ataque a fundamento capaz, por si só, de manter a conclusão alcançada na decisão agravada);
+b) não se aplica o óbice sumular no caso em que houver vários capítulos autônomos, e a parte agravante não se insurgir contra algum deles, pois isso acarreta apenas a preclusão da matéria não impugnada, devendo ser analisado o que remanesceu" (AgInt no AREsp n. 1.681.420/GO, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 25/4/2022, DJe de 27/4/2022).
+A parte recorrente deixou de impugnar a tese de inadequação do recurso especial para análise de eventual ofensa ao Tema 565/STJ; quanto a esse ponto a decisão agravada permanece incólume, em razão de se ter operado a preclusão.
+No que efetivamente impugnado, não obstante o esforço argumentativo, a decisão agravada deve ser mantida.
+O recurso especial foi interposto contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO assim ementado (fl. 1.327):
+APELAÇÃO. DIREITO DO CONSUMIDOR. AÇÃO DE REPETIÇÃO DE INDÉBITO C/C OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANOS MORAIS. CEDAE. COBRANÇA DE TARIFA DE ESGOTO. ALEGAÇÃO DE AUSÊNCIA DE TRATAMENTO. SENTENÇA DE IMPROCEDÊNCIA. APELO DO CONDOMÍNIO AUTOR. SENTENÇA QUE NÃO MERECE REFORMA. LEGALIDADE NA COBRANÇA. ENTENDIMENTO FIRMADO NA SISTEMÁTICA DE RECURSO REPETITIVO NO STJ, RESP 1.339.313/RJ, O QUAL CONSIDERA LÍCITA A COBRANÇA DE TARIFA DE ESGOTO, AINDA QUANDO A CONCESSIONÁRIA REALIZE A PRESTAÇÃO PARCIAL DO SERVIÇO. COBRANÇA INTEGRAL QUE É VÁLIDA PRECEDENTE STJ. LAUDO PERICIAL ATESTANDO O ESCOAMENTO POR GAP. RECURSO A QUE SE NEGA PROVIMENTO.
+A parte insiste na tese de omissão sobre o ponto central relativo à inexistência de qualquer etapa de serviço antes de 2017 e às faturas de 26/2/2016, 26/3/2016 e 26/4/2016.
+Em nova análise, verifica-se inexistir ofensa ao art. 1.022 do CPC, porquanto o acórdão recorrido analisou detidamente a prova pericial produzida nos autos e consignou de forma clara que o imóvel do condomínio autor era atendido pelo sistema de esgotamento sanitário, registrando que, no período anterior a 2017, os efluentes líquidos tratados na ETE privativa eram despejados na galeria de águas pluviais que passa pelo logradouro ( fl. 1.333).
+Eis o pertinente trecho do voto condutor do julgamento (fl. 1332/1333, sem destaque no original):
+Da interpretação literal do referido dispositivo, vemos que a legislação considera como serviço público de esgotamento sanitário a realização de uma ou mais das atividades apresentadas, não sendo necessário, para que se configure o serviço, que todas estejam presentes.
+Assim, ainda que apenas haja a coleta dos esgotos, sem o seu tratamento, considera-se já prestado o serviço de esgotamento sanitário, ainda que de forma incompleta.
+Na hipótese, para o correto deslinde da questão, foi produzida prova pericial no condomínio autor, na qual o perito concluiu que o serviço é prestado no imóvel do autor. In verbis (index 168):
+(..)
+Verifica-se, portanto, que o serviço é prestado de forma total a partir de início de 2017 e de forma incompleta antes de 2017.
+A discussão acerca da legalidade da cobrança de tarifa de esgoto ainda que não haja rede de tratamento encontra-se pacificada na jurisprudência do Colendo Superior Tribunal de Justiça, tendo sido, inclusive, objeto de julgamento através do Recurso Especial Representativo de Controvérsia (Recurso Repetitivo) nº 1.339.313 - RJ, in verbis, no sentido de ser legítima a cobrança quando a concessionária realiza a coleta, transporte e escoamento dos dejetos, ainda que não promova seu tratamento.
+Tudo o que interessava à resolução da lide foi devidamente respondido. É importante ressaltar que o contraponto aos argumentos das partes não demanda a citação literal de suas palavras ou dos mesmos dispositivos legais. É suficiente que haja fundamentação fática e jurídica coerente e adstrita ao que se debate nos autos.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. FORNECIMENTO DE ENERGIA ELÉTRICA. RESPONSABILIDADE CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. ART. 1.022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. DANOS MORAIS. VALOR DA INDENIZAÇÃO. OBSERVÂNCIA DOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. REVISÃO DO QUANTUM INDENIZATÓRIO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7/STJ.
+1. Segundo o comando contido no art. 1.021, § 1º, do CPC, constitui ônus da parte agravante impugnar especificamente os fundamentos da decisão combatida, o que, na hipótese, não foi observado.
+2. Não há falar em ofensa ao art. 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+3. Em regra, não é cabível na via especial a revisão do montante que foi estipulado pelas instâncias ordinárias a título de indenização por danos morais, ante a impossibilidade de reanálise de fatos e provas por este Sodalício, conforme o óbice previsto na Súmula n. 7/STJ.
+4. A jurisprudência do Superior Tribunal de Justiça admite, somente em caráter excepcional, que o quantum indenizatório arbitrado seja alterado caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade, o que não se verifica na espécie.
+5. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+(AgInt no AREsp n. 3.052.832/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 4/5/2026, DJEN de 8/5/2026.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
