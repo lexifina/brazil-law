@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 15/09/2026 a 22/09/2026, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO. RECURSO NÃO CONHECIDO.
+1. Nos termos da Súmula 182 do Superior Tribunal de Justiça (STJ), não se conhece do agravo interno que não rebate os fundamentos da decisão que, nesta instância, examinou recurso.
+2. Agravo interno de que não se conhece.
+RELATÓRIO
+Trata-se de agravo interno interposto por SV VIAGENS LTDA da decisão da Presidência do Superior Tribunal de Justiça de fls. 549/550.
+Nas razões recursais, a parte agravante requer a reconsideração da decisão agravada ou a apreciação do processo pelo órgão colegiado competente.
+A parte adversa apresentou impugnação (fls. 566/569).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO. RECURSO NÃO CONHECIDO.
+1. Nos termos da Súmula 182 do Superior Tribunal de Justiça (STJ), não se conhece do agravo interno que não rebate os fundamentos da decisão que, nesta instância, examinou recurso.
+2. Agravo interno de que não se conhece.
+VOTO
+Na origem, o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA proferiu o acórdão assim ementado (fl. 337):
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO FISCAL JULGADOS IMPROCEDENTES. MULTAS APLICADAS PELO PROCON ESTADUAL POR DESOBEDIÊNCIA À NOTIFICAÇÃO PARA PRESTAR INFORMAÇÕES SOBRE RECLAMAÇÃO DE DESRESPEITO À LEGISLAÇÃO CONSUMERISTA FORMULADA POR CONSUMIDOR. POSSIBILIDADE. APLICAÇÃO DO ART. 55, § 4º, DO CDC, E DO ART. 33, § 2º, DO DECRETO FEDERAL N. 2.181/1997. PRECEDENTES. PODER DE POLÍCIA QUE AUTORIZA O PROCON A APLICAR PENALIDADES. DECISÕES ADMINISTRATIVAS DEVIDAMENTE FUNDAMENTADAS. MULTAS APLICADAS EM MONTANTES ADEQUADOS E DEVIDAMENTE FUNDAMENTADOS DE ACORDO COM OS PARÂMETROS LEGAIS. SENTENÇA MANTIDA. HONORÁRIOS SUCUMBENCIAIS RECURSAIS. MAJORAÇÃO DO PERCENTUAL INICIAL. RECURSO DESPROVIDO.
+"1. A recusa à prestação das informações ou o desrespeito às determinações e convocações do Procon caracterizam desobediência, passível de sanção administrativa; 2. A multa imposta pelo Procon foi devidamente fundamentada e calculada conforme normativa aplicável, portanto, é legal e proporcional, devendo ser mantida. Dispositivos relevantes citados: CDC, arts. 55, § 4º, 56 e 57;Decreto Federal n. 2.181/97, art. 33, § 2º; Portaria Normativa SDE/PROCON n. 526 de 16/09/2020, arts. 56 e 57. Jurisprudência relevante citada: TJSC, Apelação n. 5111139-51.2023.8.24.0023, rel. Desa. Maria do Rocio Luz Santa Ritta, Segunda Câmara de Direito Público, j. 25-03- 2025;TJSC, Apelação n. 5003522-85.2021.8.24.0028, rel. Des. Vilson Fontana, Quinta Câmara de Direito Público, j. 03-09-2024;TJSC, Apelação n. 5009667-85.2024.8.24.0018, rel. Des. Diogo Pítsica, Quarta Câmara de Direito Público, j. 30-01-2025." (TJSC, Apelação n. 5112077-46.2023.8.24.0023, do Tribunal de Justiça de Santa Catarina, rel. Maria do Rocio Luz Santa Ritta, Segunda Câmara de Direito Público, j. 08-07-2025 - destaques acrescidos).
+Na decisão agravada não se conheceu do recurso porque a parte agravante deixou de impugnar a incidência das Súmulas 7 e 211 do Superior Tribunal de Justiça.
+Em seu agravo interno, a parte recorrente alega o seguinte (fls. 559/560):
+5. Conforme demonstrado nos autos, a respeitável decisão proferida em sede de apelação negou vigência ao artigo 1º da Lei nº. 8.934/94.
+6. Isso porque, conforme exposto no Recurso Especial, a Recorrente registrou a alteração de seu endereço em sua respectiva junta comercial em data anterior ao início do procedimento administrativo cuja multa se busca anular. Sendo que nos termos da Lei 8.934/94, o Registro Público de Empresas Mercantis e Atividades Afins é exercido de forma sistêmica em todo o território nacional com a específica finalidade de dar garantia e publicidade de atos jurídicos das empresas submetidas a registro na forma desta Lei.
+7. No caso em tela, conforme exposto exaustivamente nos embargos à execução e na apelação interposta, a Recorrente registrou a alteração de seu endereço em sua respectiva junta comercial em data anterior ao início do procedimento administrativo cuj a multa se busca anular. A citação da Embargante foi endereçada para a Rua Henry Ford, 643, Osasco/SP, quando, na realidade, a sede da Embargante na época era na Avenida Industrial, nº600, 1º andar, salas 108- B e 109-B, Santo André/SP. Cumpre destacar que essa mudança de endereço foi feita em maio de 2016, ou seja, antes do início do referido procedimento administrativo.
+8. No mais, não há que se falar na pretensão de reexame de prova (Súmula 7 do STJ), uma vez que a questão que se coloca nas razões recursais diz respeito exclusivamente à matéria de direito - e não ao reexame do conjunto fático-probatório dos autos - sendo perfeitamente cabível que esta Colenda Corte Superior, no cumprimento do seu dever constitucional venha a zelar pela uniformização das decisões proferidas no âmbito dos Tribunais de Justiça, fato veemente suscitado no recurso especial que não teve provimento.
+Como se vê, a parte agravante, no recurso ora examinado, não rebate as razões expostas na decisão que visa a impugnar. Por esse motivo, aplico ao presente caso a Súmula 182 do Superior Tribunal de Justiça (STJ), segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Registro que o recurso de agravo, tanto aquele previsto no art. 1.042 do Código de Processo Civil (CPC) como o dito regimental ou interno previsto no art. 1.021, § 1º, do mesmo CPC, objetiva desconstituir os fundamentos da decisão que examinou o recurso especial; o recurso não comporta seguimento sem essa providência.
+Ante o exposto, não conheço do agravo interno.
+É o voto.
