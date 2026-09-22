@@ -1,0 +1,92 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 15/09/2026 a 22/09/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. DEGRADAÇÃO AMBIENTAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de compensação por danos morais em razão de degradação ambiental.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo interno no agravo em recurso especial não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por BERIVALDO JORGE DOS SANTOS JUNIOR contra decisão unipessoal que conheceu do agravo para conhecer parcialmente do recurso especial que interpusera e, nessa extensão, negar-lhe provimento, pelos seguintes fundamentos: ausência de violação do art. 1.022 do CPC; e incidência das Súmulas 7 e 211/STJ.
+Ação: compensação por danos morais, ajuizada pelo agravante, em face de BRASKEM S.A., em razão de alteração de rotina e logística de trabalho decorrente de impactos ambientais.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: negou provimento ao recurso de apelação interposto pelo agravante, nos termos da seguinte ementa:
+DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL POR DANO MORAL DECORRENTE DE DANO AMBIENTAL. AUSÊNCIA DE NEXO CAUSAL ENTRE A ATIVIDADE DA EMPRESA E O DANO INDIVIDUAL ALEGADO. JULGAMENTO ANTECIPADO DA LIDE. INEXISTÊNCIA DE CERCEAMENTO DE DEFESA. RECURSO CONHECIDO E NÃO PROVIDO.
+I. CASO EM EXAME
+1. Apelação cível interposta por Berivaldo Jorge dos Santos Junior contra sentença que julgou improcedente ação indenizatória por danos morais, ajuizada em razão de alegada alteração de rotina e prejuízo profissional decorrentes de impactos ambientais gerados por atividade mineradora, sob o fundamento de inexistência de prova do dano moral e ausência de nexo causal entre o evento e a conduta da empresa.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões centrais em discussão: (i) verificar se houve cerceamento de defesa; (ii) determinar se há responsabilidade civil da empresa mineradora por danos morais alegadamente sofridos pelo autor, em decorrência de impactos ambientais.
+III. RAZÕES DE DECIDIR
+3. A repetição de argumentos da inicial no recurso de apelação não impede seu conhecimento, desde que presentes impugnações suficientes aos fundamentos da sentença, conforme jurisprudência do STJ.
+4. O indeferimento de produção de prova oral pelo juízo não configura cerceamento de defesa quando os elementos constantes dos autos são suficientes à formação do convencimento, sendo o juiz o destinatário final da prova, conforme arts. 370 e 371 do CPC.
+5. Aplica-se à espécie o princípio "pas de nullité sans grief", segundo o qual nulidades processuais somente se reconhecem quando demonstrado prejuízo à parte, o que não ocorreu.
+6. O julgamento antecipado da lide é cabível quando não há necessidade de produção de provas, nos termos do art. 355, I, do CPC.
+7. A responsabilidade civil por dano ambiental, embora objetiva, exige a demonstração do nexo de causalidade entre a conduta do agente e o dano alegado, conforme jurisprudência consolidada do STJ.
+8. A mera alteração do local de trabalho, ainda que motivada por evento ambiental, não se mostra como consequência direta e imediata da atividade mineradora, configurando-se como fato mediato e insuficiente para ensejar a responsabilização da ré.
+9. Ausente o nexo de causalidade necessário entre a conduta da mineradora e os danos morais alegados, inviável o acolhimento do pedido indenizatório.
+IV. DISPOSITIVO E TESE
+10. Recurso conhecido e desprovido.
+Tese de julgamento: "1. A rejeição do pedido de produção de prova oral não configura cerceamento de defesa quando os autos contêm elementos suficientes à formação do convencimento judicial. 2. A responsabilidade civil por dano ambiental exige a demonstração do nexo de causalidade entre a conduta da empresa e o dano alegado." ___
+Dispositivos relevantes citados: CF/1988, art. 5º, LV. CPC, arts. 355, 370, 371, 374, I, 403, 944, 945. CC, art. 927. Súmula 618/STJ.
+Jurisprudência relevante citada: STJ, AgInt no AgInt no REsp 2.014.740/TO, Min. Regina Helena Costa; STJ, REsp 1833243/CE, Min. Herman Benjamin; STJ, AgInt no AREsp 934.319/SP, Min. Francisco Falcão; STJ, REsp 1.596.081/PR, Min. Ricardo Villas Bôas Cueva. (e-STJ fls. 1086-1087)
+Embargos de Declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 6º, 369, 373 e 1.022 do CPC, 14, § 1º, da Lei 6.938/1981, 186 e 927 do CC e 6º, VIII, e 17 do CDC. Além da negativa de prestação jurisdicional, sustenta cerceamento de defesa e necessidade de permitir a produção de prova adequada e útil à demonstração de dano e nexo causal. Aduz responsabilidade objetiva informada pela teoria do risco integral, com inversão do ônus da prova em demandas ambientais. Argumenta que vítimas de degradação ambiental são consumidores por equiparação, justificando inversão probatória e tutela efetiva. Assevera que o dano moral decorrente de degradação ambiental é presumido, dispensando comprovação minuciosa.
+Decisão monocrática: conheceu do agravo para conhecer parcialmente do recurso especial interposto pelo agravante e, nessa extensão, negar-lhe provimento.
+Agravo interno: em suas razões, o agravante afirma que: i) não incide a Súmula 7 do STJ, por se tratar de matéria estritamente jurídica; ii) não incide a Súmula 211 do STJ, pois a matéria foi prequestionada; iii) não se aplica, por analogia, a Súmula 283/STF, por haver impugnação específica de todos os fundamentos; iv) é incorreta a aplicação do art. 932, III, do CPC, devendo o recurso ser submetido ao colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. DEGRADAÇÃO AMBIENTAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de compensação por danos morais em razão de degradação ambiental.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo interno no agravo em recurso especial não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+1. A decisão agravada conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento, ante a ausência de violação do art. 1.022 do CPC; e a incidência das Súmulas 7 e 211/STJ.
+I. Do pedido de sobrestamento do processo
+2. A parte agravante pleiteia o sobrestamento do processo sob o argumento de que há ação civil pública em trâmite discutindo a legalidade do acordo debatido nos presentes autos.
+3. O pedido formulado não encontra guarida, já que não há qualquer fundamentação a evidenciar a similitude fática entre a situação versada nos autos e os Temas 675 do STF e 923 do STJ apontados. Ademais, o requerente não se desincumbiu, sequer, de trazer aos autos cópia da inicial da ação civil pública ajuizada pela Defensoria Pública estadual, providência necessária para o exame dos elementos objetivos da demanda.
+4. Além disso, a suspensão do trâmite processual com base em decisão hipotética,que pode ser prolatada em outro processo, vai de encontro ao princípioprevisto no art. 5º, LXXVIII, da CF/88 (REsp 2.157.064/AL, Segunda Seção, julgado em 13/11/2024, DJe de 27/11/2024; PET no AREsp 2.434.183/AL, DJe 8/11/2024).
+5. Nada obstante, havendo modificação das circunstâncias fáticas e jurídicas, será possível ajuizar nova ação no Juízo de origem, caso a decisão a ser proferida no âmbito da Ação Civil Pública proposta pela DPE/AL seja favorável aos peticionários.
+6. Dessarte, incabível o sobrestamento.
+II. Da negativa de prestação jurisdicional
+7. O agravante alega que o acórdão recorrido foi omisso acerca da aplicação da teoria do risco integral à responsabilidade por dano ambiental, sendo o ônus da prova da ausência de nexo de causalidade e dano da agravada.
+8. Entretanto, o TJ/AL foi claro em suas conclusões: i) não há de se falar em cerceamento de defesa se o julgador entende pela desnecessidade de produção de outras partes, além das que já acompanham os autos (e-STJ fl. 1092); ii) é público e notório, e incontroverso, que a atividade mineradora exercida pela agravada em alguns bairros da capital ttrouxe consequências urbanísticas e ambientais, sendo, pois, desnecessária a inversão do ônus da prova, bem como a oitiva do representante legal da empresa e de testemunhas, que nunca foram indicadas nos autos, a fim de demonstrar que a agravada causou o evento apontado pelo agravante (e-STJ fl. 1096); iii) o STJ possui o entendimento sedimentado no sentido de que, apesar da responsabilidade por dano ambiental ser objetiva e embasada na teoria do risco integral, não exime os autores de demandas reparatórias do dever de demonstrar a existência de nexo de causalidade entre os efeitos danosos que afirmam ter suportado e o comportamento comissivo ou omissivo daqueles a quem imputam a condição de causadores de tais danos (e-STJ fl. 1101); iv) na espécie, não há o nexo de causalidade necessário à configuração da responsabilidade civil, porquanto, apesar de o agravante sustentar que teve alteração na sua rotina diária em razão da mudença de seu local de trabalho, sequer mencionou o endereço de seu novo local de trabalho (e-STJ fl. 1103); v) o liame de causalidade entre a alteração de local de trabalho do agravante e a atividade da empresa mineradora é indireto e mediato, não se vislumbrando, portanto, que os danos ambientais causados pela extração da mineradora foram a causa necessária, direta e imediata para o alegado evento danoso (e-STJ fl. 1103); vi) a mera alteração do local de trabalho é uma situação corriqueira que qualquer empregado está sujeito, uma vez que, muitas vezes, por diversos fatores, é necessário alterar os locais em que os trabalhadores exercem suas atividades, sem que isso acarrete qualquer dano, sendo, pois, um acontecimento ínsito à relação empregatícia (e-STJ fl. 1103); vii) o suposto dano experimentado pela parte autora se configura apenas e tão somente como desdobramentos de uma cadeia de acontecimentos, estando, portanto, em posição distante das condutas e danos diretos e imediatos, ocorridos, por exemplo, nas hipóteses dos proprietários que perderam seus imóveis em decorrência dos danos socioambientais ocasionados pela atividade da mineradora (e-STJ fls. 1103/1104); viii) o dano alegado não decorre de forma direta, imediata e de maneira necessária em relação à conduta da agravada (e-STJ fl. 1104).
+9. Assim, constata-se que o artigo 1.022 do CPC realmente não foi violado, porquanto o acórdão recorrido não contém omissão, contradição ou obscuridade. Nota-se, nesse passo, que o Tribunal de origem tratou de todos os temas oportunamente colocados pelas partes, proferindo, a partir da conjuntura então cristalizada, a decisão que lhe pareceu mais coerente. Ressalte-se que o fato de as questões terem sido tratadas sob viés diverso daquele pretendido pela agravante não dá ensejo à interposição de embargos de declaração, que foram utilizados com efeitos meramente infringenciais.
+III. Da ausência de prequestionamento
+10. Ademais, os arts. 6º, 369 e 373 do CPC, 14, § 1º, da Lei 6.938/1981, e 6º, VIII, e 17 do CDC não foram objeto de expresso prequestionamento pelo TJ/AL, apesar da interposição de embargos de declaração, o que importa na incidência do óbice da Súmula 211/STJ.
+11. Saliente-se, outrossim, que a ausência de prequestionamento dos dispositivos legais indicados pelo agravante não leva ao imediato provimento do recurso especial por ofensa ao art. 1.022 do CPC, quando o Tribunal de origem fundamenta a decisão suficientemente para decidir de forma integral a controvérsia, como ocorreu na hipótese dos autos.
+12. De acordo com o art. 1.025 do CPC, consideram-se incluídos no acórdão de inadmissão ou rejeição os elementos que o embargante suscitou, para fins de prequestionamento, apenas no caso de o tribunal superior considerar existente erro, omissão, contradição ou obscuridade, o que não ocorreu neste processo.
+IV. Do reexame de fatos e provas
+13. Por fim, permanece a incidência da Súmula 7/STJ à espécie. Isso porquanto alterar as conclusões adotadas pelo Tribunal de origem quanto à inexistência de cerceamento de defesa e à ausência de nexo causal entre a atividade da empresa e o dano alegado demandaria desta Corte, indubitavelmente, a incursão no conteúdo fático-probatório dos autos, conforme se depreende dos seguintes trechos:
+Nesse contexto, vigendo no ordenamento jurídico pátrio o princípio do livre convencimento motivado do juiz, entende o Superior Tribunal de Justiça que não há que se falar em cerceamento de defesa se o julgador conclui pela desnecessidade de produção de outras provas, além das que já acompanham os autos. Veja-se:
+(..)
+Convém ressaltar, ainda, que, para o reconhecimento de eventual nulidade de decisão judicial por cerceamento, é necessária a demonstração de efetivo prejuízo à sua defesa relacionado ao vício que se busca demonstrar, segundo o princípio do "pas de nullité sans grief". É nesse sentido a jurisprudência consolidada da Corte Superior de Justiça, conforme a seguir ementado:
+(..)
+Foi nesse contexto que o juízo sentenciante adotou a técnica do julgamento antecipado da lide, que pressupõe, necessariamente, a existência de questão de mérito exclusivamente de direito ou, sendo de direito e de fato, a desnecessidade de instrução probatória, consoante dispõe o art. 355, do CPC:
+(..)
+No caso, a parte apelante aduz que teve negado o direito à produção probatória, que destinar-se-ia à comprovação da existência do dano, do nexo causal e sua extensão, decorrentes das atividades da parte ré.
+Acerca do tema, o colendo Superior Tribunal de Justiça editou a Súmula nº 618, segundo a qual "a inversão do ônus da prova aplica-se às ações de degradação ambiental" (Súmula 618, CORTE ESPECIAL, julgado em 24/10/2018, D Je 30/10/2018).
+Isso porque, em decorrência da Teoria do Risco Integral, compete ao poluidor a prova da segurança de seu empreendimento e que sua atividade não causou o dano ambiental. Senão vejamos:
+(..)
+Não obstante, é público e notório - e incontroverso - que a atividade mineradora exercida pela parte recorrida em alguns bairros da capital trouxe consequências urbanísticas e ambientais, sendo, pois, desnecessária a inversão do ônus da prova, bem como a oitiva do representante legal da empresa ou de testemunhas, que, repise-se, nunca foram indicadas nos autos, a fim de demonstrar que a apelada causou o evento apontado pela parte apelante, nos termos do art. 374, I, do CPC:
+(..)
+Portanto, sendo inconteste a desnecessidade de inversão do ônus da prova e que juízo singular concluiu pela suficiência das provas produzidas no decorrer do processo, entendimento ora ratificado, não há que se falar em cerceamento de defesa, impondo-se o não acolhimento do argumento.
+(..)
+Nesse diapasão, cabe destacar que o Superior Tribunal de Justiça possui o entendimento sedimentado no sentido de que, apesar da responsabilidade por dano ambiental ser objetiva e embasada na teoria do risco integral, não exime os autores de demandas reparatórias do dever de demonstrar a existência de nexo de causalidade entre os efeitos danosos que afirmam ter suportado e o comportamento comissivo ou omissivo daqueles a quem imputam a condição de causadores de tais danos. Confira-se:
+(..)
+Firmada essas premissas, na espécie, verifica-se que não há o nexo de causalidade necessário à configuração da responsabilidade civil.
+Primeiramente, ressalte-se que, apesar da parte recorrente sustentar que teve que alterar sua rotina diária em razão da mudança de seu local de trabalho, sequer mencionou o endereço de seu novo local de trabalho.
+Ademais, verifica-se que o liame de causalidade entre a alteração de local de trabalho da parte autora e a atividade da empresa mineradora é indireto e mediato, não se vislumbrando, portanto, que os danos ambientais causados pela extração da mineradora foram a causa necessária, direta e imediata para o alegado evento danoso.
+Tanto é assim que a mera alteração do local de trabalho é uma situação corriqueira que qualquer empregado está sujeito, uma vez que, muitas vezes, por diversos fatores, é necessário alterar os locais em que os trabalhadores exercem suas atividades, sem que isso acarrete qualquer dano, sendo, pois, um acontecimento ínsito à relação empregatícia.
+Em uma linha causal, verifica-se que o suposto dano experimentado pela parte autora se configura apenas e tão somente como desdobramentos de uma cadeia de acontecimentos, estando, portanto, em posição distante das condutas e danos diretos e imediatos, ocorridos, por exemplo, nos casos dos proprietários que perderam seus imóveis em decorrência dos danos socioambientais ocasionados pela atividade da mineradora.
+Em outros termos, é válido dizer que o dano alegado não decorre de forma direta, imediata e de maneira necessária em relação à conduta da parte demandada.
+Logo, ausente o nexo de causalidade, resta imperioso manter a improcedência do pedido autoral de indenização por danos morais.
+14. Frise-se que o STJ apenas toma os fatos conforme delineados pelo Tribunal de origem, de maneira que a incursão nesta seara implicaria ofensa ao referido óbice sumular.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
