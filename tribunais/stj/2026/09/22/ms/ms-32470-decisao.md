@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de Mandado de Segurança impetrado contra ato atribuído ao MINISTRO DE ESTADO DO TRABALHO E EMPREGO, consubstanciado na edição da Portaria 1.097, de 24/06/2026, que, nos termos de seu art. 1º, "disciplina o procedimento para que as entidades sindicais com registro no Cadastro Nacional de Entidades Sindicais - CNES solicitem a correção de inadequação na indicação de Grupo ou de Classe constantes do referido cadastro, mediante pedido de registro de alteração estatutária".
+Os impetrantes afirmam que:
+(a) a Portaria não exige a demonstração de equívoco, erro ou inadequação no Cadastro Nacional de Entidades Sindicais (CNES) para que seja corrigido o Grupo ou a Classe da entidade sindical;
+(b) a Coordenação-Geral de Registro Sindical, na Análise Técnica 2927, já havia estabelecido a impossibilidade jurídica de alteração de Grupo por meio de alteração estatutária, tendo em vista a ausência de previsão legal;
+(c) essa Portaria possibilita a invalidação de vínculos legítimos apenas com base na classificação administrativa nela disposta, sem que exista no ordenamento jurídico legislação legitimadora. Segundo essa tese, uma entidade poderia deixar de ser representante dos trabalhadores e passar a ser representante dos empregadores apenas via alteração estatutária.
+Requer a concessão de medida liminar para suspender a eficácia da Portaria MTE 1.097/2026 e, ao final, a declaração de ilegalidade da Portaria, bem como a nulidade de deferimento dos pedidos de alteração de Grupo que "atinjam a esfera de representação da Impetrante e de suas filiadas" (fl. 27). Subsidiariamente, requer que Portaria MTE 1.097/2026 seja aplicada somente nos casos em que haja comprovação de erro material na indicação de Grupo ou de Classe.
+É o relatório.
+A concessão de medida liminar exige a presença concomitante de dois pressupostos autorizadores, quais sejam, a probabilidade do direito e o risco de dano irreparável ou de difícil reparação.
+Verifico que a Portaria MTE 1.097/2026 é dotada de generalidade e abstração, porquanto "disciplina o procedimento para que as entidades sindicais com registro no Cadastro Nacional de Entidades Sindicais - CNES solicitem a correção de inadequação na indicação de Grupo ou de Classe constantes do referido cadastro, mediante pedido de registro de alteração estatutária" (fl. 76).
+Não havendo destinatário concretamente individualizado, inexiste direito individual a ser protegido pela ação constitucional, incidindo na hipótese a Súmula 266 do Supremo Tribunal Federal (STF): "Não cabe mandado de segurança contra lei em tese".
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. MANDADO DE SEGURANÇA. PORTARIA 991/2024 DO MTE. ATO GERAL E ABSTRATO. NÃO CABIMENTO DO WRIT. SÚMULA 266/STF. PROVIMENTO NEGADO.
+1. A Portaria 991/2024 do Ministério do Trabalho e Emprego (MTE), ato apontado como coator, é dotada de generalidade e abstração, por exigir a regularidade fiscal com a Seguridade Social para fins de ingresso no programa de apoio financeiro às empresas localizadas em áreas atingidas pelas enchentes, instituído pela Medida Provisória 1.230/2024. Aplicação, por analogia, da Súmula 266 do Supremo Tribunal Federal (STF).
+2.Agravo interno a que se nega provimento.
+(AgInt nos EDcl no MS n. 30.328/DF, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 16/9/2025, DJEN de 19/9/2025, sem destaque no original.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. PORTARIA 1.287/2017, DO MINISTÉRIO DO TRABALHO. ALEGAÇÃO DE NULIDADE. PRETENSÃO CONTRA LEI EM TESE. AUSÊNCIA DE DEMONSTRAÇÃO DE EFEITOS CONCRETOS. SÚMULA 266/STF. NÃO CABIMENTO DO WRIT.
+1. "Não cabe mandado de segurança contra lei em tese."(Súmula n. 266/STF).
+2. A impetrante, ora agravante, insurge-se contra os termos da Portaria n. 1.287/2017, expedida pelo senhor Ministro do Trabalho, a qual veda a prática comercial de cobrança, pelas empresas operadoras de vales alimentação e refeição, de taxas de serviços negativas nos contratos firmados com empresas beneficiárias do Programa de Alimentação do Trabalhor - PAT . Diante disso, deve ser assentado que a norma impugnada se dirige indistinta e genericamente a todas as empresas integrantes do PAT, não a atingindo de forma individual e concreta. Logo, ressoa evidente que a pretensão mandamental se volta contra lei em tese. Precedentes: AgInt no MS 20.469/DF, Relatora Ministra Regina Helena Costa, Primeira Seção, DJe 20/3/2018; MS 21.555/DF, Relator Ministro Herman Benjamin, Primeira Seção, DJe 17/10/2017; e MS 20.076/DF, Relator Ministro Gurgel de Faria, Primeira Seção, DJe 12/9/2016.
+3. Confiram-se, ainda, as seguintes decisões monocráticas nas quais também se aplicou a Súmula n. 266/STF no bojo de mandados de segurança em que também se impugnava a Portaria n. 1.287/2017: MS 24.195/DF, Relatora Ministra Regina Helena Costa, DJe 11/4/2018; MS 24.181/DF, Relatora Regina Helena Costa, DJe 9/4/2018; e MS 24.166/DF, Relator Ministro Sérgio Kukina, DJe 23/4/2018. .
+4. Agravo interno não pr ovido.
+(AgInt no MS n. 24.356/DF, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 13/2/2019, DJe de 19/2/2019, sem destaque no original.)
+Ante o exposto, indefiro liminarmente a inicial do mandado de segurança, nos termos do art. 10, caput, da Lei 12.016/2009 e dos arts. 34, XIX, e 212 do Regimento Interno do Superior Tribunal de Justiça.
+Custas na forma da lei.
+Sem condenação ao pagamento de honorários advocatícios nos termos do art. 25 da Lei 12.016/2009
+Publique-se. Intimem-se.
+EMENTA
