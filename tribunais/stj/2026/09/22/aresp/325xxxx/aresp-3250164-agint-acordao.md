@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 15/09/2026 a 22/09/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG), João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ÓBICES DE ADMISSIBILIDADE. SÚMULA 284/STF. DISSOCIAÇÃO ENTRE AS RAZÕES DO ESPECIAL E OS FUNDAMENTOS DO ACÓRDÃO. SÚMULA 7/STJ. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. DECISÃO MANTIDA.
+1. Incide a Súmula 284/STF em razão da deficiência de fundamentação e dissociação das razões do recurso especial em face dos fundamentos do acórdão recorrido.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por LENITA COELHO DOS SANTOS contra decisão singular da lavra do Ministro Presidente do STJ que conheceu do agravo para não conhecer do recurso especial pelos seguintes fundamentos: a) aplicação da Súmula 284/STF, por dissociação das razões do especial em relação aos fundamentos do acórdão recorrido; b) aplicação da Súmula 7/STJ, porquanto o acolhimento da pretensão demandaria o reexame do acervo fático-probatório dos autos.
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que a decisão agravada incorreu em equívoco ao aplicar a Súmula 284/STF, pois haveria perfeita simetria entre as razões do recurso especial e os fundamentos do acórdão recorrido, com impugnação específica da tese de que a lavratura do termo de penhora seria suficiente para afastar a prescrição intercorrente.
+Sustenta, ainda, a não incidência da Súmula 7/STJ, por tratar-se de controvérsia de direito, restrita à valoração jurídica dos fatos incontroversos fixados no acórdão de origem, notadamente a paralisação do processo entre 2008 e 2014 e os atos praticados pela exequente (fls. 337-340).
+Impugnação ao agravo interno às fls. 345-351, na qual a parte agravada alega, em síntese: repetição de argumentos já afastados na decisão monocrática; incidência da Súmula 284/STF pela não impugnação do fundamento relativo à ausência de suspensão do processo; e necessidade de reexame fático-probatório, atraindo a Súmula 7/STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ÓBICES DE ADMISSIBILIDADE. SÚMULA 284/STF. DISSOCIAÇÃO ENTRE AS RAZÕES DO ESPECIAL E OS FUNDAMENTOS DO ACÓRDÃO. SÚMULA 7/STJ. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. DECISÃO MANTIDA.
+1. Incide a Súmula 284/STF em razão da deficiência de fundamentação e dissociação das razões do recurso especial em face dos fundamentos do acórdão recorrido.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+Originariamente, trata-se de execução de título extrajudicial proposta por Cargill Agrícola S.A. em face de Lenita Coelho dos Santos, visando a satisfação de crédito representado por notas promissórias emitidas no ano de 2000, no valor nominal de R$ 23.353,52 (vinte e três mil, trezentos e cinquenta e três reais e cinquenta e dois centavos), com lavratura de termo de penhora sobre a Fazenda Porta das Caixas e ausência de embargos à execução. Em 2008, a executada juntou certidão retificada comprovando a propriedade do imóvel, e, em 2014, houve intimação do exequente para impulsionar o feito, com posteriores despachos em 2017 e manifestação em 2019.
+O juízo de primeiro grau acolheu a exceção de pré-executividade e reconheceu a prescrição intercorrente, destacando paralisação do feito por quase sete anos, extinguindo a execução e fixando honorários em favor da executada, sob fundamento de que a inércia do credor atrai a prescrição no prazo quinquenal, com base em entendimento jurisprudencial e nos arts. 206, § 5º, I, do Código Civil e 1.056 e 14 do Código de Processo Civil.
+O Tribunal de Justiça de Pernambuco deu provimento à apelação da exequente para afastar a prescrição intercorrente, por entender que não houve suspensão por ausência de bens penhoráveis, que existia penhora efetivada, e que a paralisação entre 2008 e 2014 decorreu de inércia do Poder Judiciário, com reiteradas petições da exequente, determinando o regular processamento da execução.
+Nas razões do recurso especial, a parte recorrente apontou ofensa aos arts. 921, §§ 1º a 5º, do Código de Processo Civil, argumentando que a execução permaneceu paralisada por mais de sete anos sem impulso útil do credor, que a ausência de averbação da penhora não afasta a fluência da prescrição intercorrente e que a demora do Poder Judiciário não suspende o prazo quando o exequente se mantém omisso, requerendo o reconhecimento da prescrição e a extinção da execução.
+O recurso não merece prosperar.
+No que se refere à inércia do exequente e à fluência do prazo prescricional, o Tribunal de origem resolveu a questão com base nos seguintes fundamentos:
+3. A declaração da prescrição intercorrente, contudo, tem como pressuposto a suspensão do processo em razão da não localização de bens do devedor passíveis de expropriação judicial, aliada à inércia do exequente em diligenciar no sentido de localizar novos bens penhoráveis.
+4. Na hipótese dos autos, contudo, tal situação não ocorreu.
+5. Primeiro, porque não houve, no presente caso, suspensão do feito em razão da não localização de bens penhoráveis. Pelo contrário, foi lavrado auto de penhora sobre a Fazenda Porta das Caixas (ID 38145280).
+6. Segundo porque a injustificada paralização do feito entre 08/04/2008 e 13/03/2014 não decorreu de desídia do exequente, mas sim de inércia do Poder Judiciário. Explico.
+7. Após a lavratura do termo de penhora em 13/07/2006 (ID 38145280) a exequente interpor petição arguindo que a executada não era proprietária do bem e requerendo a realização de BACENJUD (ID 38145283). Tal pedido não fora apreciado pelo juiz.
+8. Mais adiante, em abril de 2008, a executada veio aos autos provando a propriedade através de certidão retificada e requerendo o prosseguimento do feito. Fora feita conclusão em 08/07/2008 (ID 38145285) e somente em 13/03/2014 o juiz exarou despacho intimando as partes para impulsionar o feito (ID 38145286).
+9. Por conseguinte, os quase 7 (sete) em que o processo ficou paralisado, como pontuou o juiz de piso, não foi devido à falta de ação do exequente. Este, nos anos que se seguiram até a interposição de exceção de pré-executividade, reiterou pedidos de realização de BACEJUD, bem como a penhora do imóvel, conforme se observa nas petições de IDs 38145291, 38145298 e 38145303.
+10. Assim, ausentes os requisitos para caracterização da prescrição intercorrente, de rigor a reforma da sentença para que os autos retornem à origem para regular processamento.
+Como se vê, o acórdão estadual concluiu que não houve suspensão do feito em razão da não localização de bens penhoráveis e que foi lavrado auto de penhora sobre a Fazenda Porta das Caixas, além de terem sido registradas diligências da exequente.
+Nas razões do recurso em apreço, contudo, verifica-se que tais fundamentos não foiram impugnados, ficando caracterizada a deficiência na fundamentação do recurso. Tem aplicação, nesse aspecto, o óbice da Súmula 284/STF.
+De outra parte, alterar a conclusão a que chegou o Tribunal de origem, no que se refere à inércia do exequente, especialmente ante as premissão fáticas fixadas sobre a lavratura de penhora, petições requerendo Bacenjud e análise da paralisação processual atribuída à inércia do juízo, demandaria, necessariamente, o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na Súmula 7/STJ.
+Nesse contexto, não havendo argumentos aptos a infirmar os fundamentos da decisão agravada, esta deve ser integralmente mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
