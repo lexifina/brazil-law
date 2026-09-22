@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 15/09/2026 a 22/09/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG), João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM OBRIGAÇÃO DE FAZER. CAPÍTULO AUTÔNOMO NÃO IMPUGNADO. PRECLUSÃO. SÚMULA 83/STJ. FUNDAMENTAÇÃO DEFICIENTE. AGRAVO INTERNO NÃO PROVIDO.
+1. Operou-se a preclusão consumativa no tocante aos capítulos relativos ao dissídio jurisprudencial e à alegação de não aplicabilidade das normas consumeristas.
+2. O agravo interno não rebateu os fundamentos autônomos da decisão agravada, com mera reprodução das razões do recurso especial, o que não atende ao ônus de impugnação específica. Precedentes.
+3. A decisão agravada alinhou-se à jurisprudência do Superior Tribunal de Justiça sobre nulidade de cláusula de aviso prévio remunerado de 60 dias, o que atrai a aplicação da Súmula 83/STJ. Precedentes.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por NOTRE DAME INTERMÉDICA SAÚDE S.A. contra decisão singular da minha lavra em que neguei provimento ao recurso, pelos seguintes fundamentos: a) Súmula 7/STJ, quanto à aplicabilidade do Código de Defesa do Consumidor ao caso concreto; b) Súmula 83/STJ, quanto à abusividade da cláusula de aviso prévio; c) deficiência do dissídio, pela Súmula 284/STF (fls. 381-385)
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que a matéria é estritamente jurídica e prescinde de reexame de provas. Sustenta violação dos arts. 421 e 422 do Código Civil. Afirma cabimento do recurso. Alega inaplicação das Súmulas 5 e 7 do STJ (fls. 389-399 ).
+Decorreu o prazo sem apresentação de impugnação (fl. 404).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM OBRIGAÇÃO DE FAZER. CAPÍTULO AUTÔNOMO NÃO IMPUGNADO. PRECLUSÃO. SÚMULA 83/STJ. FUNDAMENTAÇÃO DEFICIENTE. AGRAVO INTERNO NÃO PROVIDO.
+1. Operou-se a preclusão consumativa no tocante aos capítulos relativos ao dissídio jurisprudencial e à alegação de não aplicabilidade das normas consumeristas.
+2. O agravo interno não rebateu os fundamentos autônomos da decisão agravada, com mera reprodução das razões do recurso especial, o que não atende ao ônus de impugnação específica. Precedentes.
+3. A decisão agravada alinhou-se à jurisprudência do Superior Tribunal de Justiça sobre nulidade de cláusula de aviso prévio remunerado de 60 dias, o que atrai a aplicação da Súmula 83/STJ. Precedentes.
+4. Agravo interno a que se nega provimento.
+VOTO
+Originariamente, a autora ajuizou ação declaratória de nulidade de cláusula contratual cumulada com obrigação de não fazer, visando a afastar cláusula de aviso prévio de 60 dias e a declarar não exigíveis as cobranças posteriores ao pedido de cancelamento formulado em 8/5/2024. Indicou duas parcelas de R$ 743,52, totalizando R$ 1.487,04, com vencimentos em 6/6/2024 e 6/7/2024 (fls. 336-338).
+O Juízo de primeiro grau julgou procedente o pedido, confirmou a tutela e declarou não exigíveis as mensalidades cobradas a título de aviso prévio, resilindo o contrato desde 8/5/2024. Condenou a ré ao pagamento de custas e honorários fixados em R$ 2.500,00, nos termos do art. 85, § 8º, do Código de Processo Civil (fl. 338).
+O Tribunal de Justiça de São Paulo negou provimento à apelação e reconheceu a abusividade da cláusula de aviso prévio, diante da anulação do parágrafo único do art. 17 da RN 195/2009 por ACP com eficácia para todos, e da leitura do art. 23 da RN 557/2022. Aplicou o Código de Defesa do Consumidor e manteve a não exigibilidade de cobranças posteriores (fls. 339-344).
+Feito esse breve retrospecto da demanda, passo à análise das alegações apresentadas no agravo interno.
+Reitero, de antemão, que a decisão agravada negou provimento ao recurso especial com fundamentos autônomos: aplicabilidade do Código de Defesa do Consumidor ao caso concreto, com incidência da Súmula 7/STJ; abusividade da cláusula de aviso prévio, atraindo a aplicação da Súmula 83/STJ; e deficiência do dissídio, pela Súmula 284/STF.
+Por outro lado, em agravo interno, foram apresentados os seguintes argumentos: repetição da tese de que a controvérsia é estritamente de direito, sem necessidade de reexame de provas ou interpretação de cláusulas, invocando a inaplicabilidade das Súmulas 5 e 7 do STJ; e validade contratual à luz dos arts. 421 e 422 do Código Civil, bem como do art. 17 da RN 195/2009 e do art. 23 da RN 557/2022.
+Nesse contexto, observo, primeiramente, que se operou a preclusão consumativa quanto aos capítulos referentes ao dissídio jurisprudencial e à alegação de inaplicabilidade das normas consumeristas.
+Secundariamente, vejo que o recurso, apesar de discutir a validade das cláusulas contratuais e defender a livre pactuação do aviso prévio controverso, não rebate a incidência da Súmula 83/STJ nem os fundamentos determinantes dos precedentes transcritos na decisão agravada, que reconhecem a nulidade da cláusula de aviso prévio remunerado à vista da ACP nº 0136265-83.2013.4.02.5101, com eficácia erga omnes e ex tunc, e da RN nº 455/2020.
+Não demonstra que a jurisprudência invocada é inaplicável ao caso concreto, bem como não apresenta precedentes mais recentes em sentido contrário àqueles que embasaram as razões de decidir. Ou seja, não evidencia a presença de distinção e/ou superação dos entendimentos utilizados na decisão agravada.
+Ademais, verifico que as teses do agravo reproduzem substancialmente as do recurso especial, situação que aclara a insuficiência da impugnação à decisão agravada. A propósito:
+AGRAVO INTERNO. DECISÃO QUE NÃO CONHECEU DO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ADEQUADA E ESPECÍFICA DE FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. MERA REPRODUÇÃO DO RECURSO ESPECIAL. INSUFICIÊNCIA. AGRAVO INTERNO NÃO PROVIDO. 1. Não merece reparo a decisão da Presidência do Superior Tribunal de Justiça que corretamente identificou a falha do agravo em recurso especial consistente em discutir apenas de modo genérico e superficial alguns dos fundamentos pelos quais o Tribunal de origem deixou de admitir o recurso especial. 2. A mera reprodução do recurso especial não é suficiente para impugnar a decisão agravada, que não admitiu o recurso (AgInt nos EAREsp 1.157.501/SP, Rel. Ministro Moura Ribeiro, Segunda Seção, julgado em 20/8/2019, DJe 22/8/2019. 3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.635.168/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/11/2025, DJEN de 25/11/2025.) (grifo nosso)
+Assim, concluo que o agravo não impugna adequadamente os fundamentos autônomos da decisão agravada, tornando imprescindível sua manutenção.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
