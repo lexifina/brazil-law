@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 15/09/2026 a 22/09/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG), João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LOCAÇÃO. AÇÃO DE DESPEJO POR DENÚNCIA VAZIA. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. DISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. VERIFICAÇÃO. INVIABILIDADE. NECESSIDADE DE REEXAME FÁTICO. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. Não é possível reverter a conclusão do acórdão recorrido acerca da responsabilidade pela formação da lide e da distribuição dos ônus sucumbenciais, com fundamento no princípio da causalidade, sem o reexame dos elementos fáticos da demanda, o que encontra óbice na Súmula 7/STJ.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por HYSETH DE FÁTIMA CÉSAR TEREZA ATHAYDE DE OLIVEIRA SANTOS contra decisão singular da Presidência do Superior Tribunal de Justiça que conheceu do agravo em recurso especial para não conhecer do recurso especial, pelos seguintes fundamentos: a) ausência de prequestionamento da tese do recurso, uma vez que a questão não teria sido examinada pelo tribunal de origem sob o enfoque pretendido pela recorrente; b) incidência da Súmula 7/STJ, porquanto o acolhimento da pretensão do recurso exigiria o reexame do acervo fático-probatório (fls. 251-254).
+Nas razões do agravo interno (fls. 258-268), a parte agravante sustenta, em síntese, que: a) a matéria federal foi efetivamente prequestionada, pois o acórdão recorrido enfrentou a disciplina da sucumbência, o princípio da causalidade e a relevância jurídica da ausência de resistência ao pedido de despejo; b) não incide a Súmula 7/STJ, pois se discute apenas a consequência jurídica da ausência de resistência, com apoio nos arts. 85, 86 e 90 do Código de Processo Civil; c) a responsabilidade contratual perante o locador não resolve, de forma automática, a distribuição dos ônus processuais, que se rege pela lógica da causalidade.
+Foi apresentada impugnação (fls. 274-281), na qual a parte agravada pugna pelo não conhecimento do agravo interno e, no mérito, pela manutenção da decisão agravada.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LOCAÇÃO. AÇÃO DE DESPEJO POR DENÚNCIA VAZIA. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. DISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. VERIFICAÇÃO. INVIABILIDADE. NECESSIDADE DE REEXAME FÁTICO. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. Não é possível reverter a conclusão do acórdão recorrido acerca da responsabilidade pela formação da lide e da distribuição dos ônus sucumbenciais, com fundamento no princípio da causalidade, sem o reexame dos elementos fáticos da demanda, o que encontra óbice na Súmula 7/STJ.
+2. Agravo interno a que se nega provimento.
+VOTO
+O recurso não merece prosperar.
+Trata-se, na origem, de ação de despejo por denúncia vazia ajuizada por Pátio Arapiraca S/A em face da locatária, ora agravante, com pedido de rescisão do contrato de locação de imóvel comercial e de desocupação do bem.
+A sentença julgou procedente o pedido e impôs à ré as custas processuais e os honorários advocatícios.
+O tribunal de origem enfrentou de forma expressa a controvérsia sobre a distribuição dos ônus sucumbenciais. Assim consignou o acórdão recorrido (fls. 162-165):
+Nos termos do art. 85, caput, do Código de Processo Civil, a sentença condenará o vencido a pagar honorários ao advogado do vencedor. O critério da sucumbência é objetivo  .. .
+Contudo, o princípio da causalidade também pode ser invocado, especialmente em situações onde a parte vencida não deu causa ao ajuizamento da ação. Nesse sentido, a jurisprudência reconhece a possibilidade de aplicação do princípio da causalidade em detrimento do da sucumbência, desde que demonstrado que a parte demandada não contribuiu para a formação do litígio.
+ ..
+Ademais, a ausência de resistência ao pedido de despejo, por si só, não afasta a incidência do princípio da causalidade, mormente quando a própria parte não se desincumbiu do ônus de demonstrar cabalmente a comunicação formal da alteração da relação locatícia, como exigido contratualmente no item "XIV - DA CESSÃO OU EMPRÉSTIMO DAS LOJAS" (Fl. 55).
+Dessa forma, não há elementos suficientes para atribuir à parte apelada a responsabilidade pela propositura da ação ou para afastar a responsabilidade processual da parte apelante, razão pela qual se impõe a manutenção integral da sentença de primeiro grau.
+Embora o tribunal de origem tenha enfrentado a distribuição dos ônus sucumbenciais à luz do art. 85 do CPC e do princípio da causalidade, o que satisfaz o requisito do prequestionamento, o conhecimento do recurso especial esbarra na Súmula 7/STJ, pois a revisão dessa distribuição exigiria o reexame do conjunto fático-probatório.
+No caso, a agravante sustenta que não teria dado causa à demanda, e atribui à locadora a responsabilidade pela instauração do litígio, em razão da ausência de regularização da titularidade contratual.
+Ocorre que definir quem deu causa à propositura da ação, se a locatária, por permanecer formalmente vinculada ao contrato e não formalizar a cessão com anuência da locadora, ou a locadora, por não regularizar a titularidade, impõe o sopesamento da conduta de ambas as partes na formação da lide. O tribunal de origem, com base nos fatos e provas, concluiu que não há elementos suficientes para atribuir à parte apelada a responsabilidade pela propositura da ação. Rever essa conclusão exigiria o reexame do acervo fático-probatório, o que atrai a Súmula 7/STJ, sem que a controvérsia se reduza a simples subsunção jurídica.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE RÉ. 1. Consoante a jurisprudência desta Corte, a sucumbência é atribuída à luz do princípio da causalidade, o qual impõe a quem deu causa à propositura da ação o dever de arcar com os honorários advocatícios, mesmo ocorrendo a superveniente perda do objeto .Precedentes. 2. Rever as conclusões alcançadas pelas instâncias originárias quanto ao princípio da causalidade e à distribuição dos ônus da sucumbenciais, exigiria reexame das provas contidas nos autos.Incidência da Súmula 7/STJ . 3. Agravo interno desprovido.
+(STJ - AgInt no AREsp: 2356698 MG 2023/0144224-4, Relator.: Ministro MARCO BUZZI, Data de Julgamento: 29/04/2024, T4 - QUARTA TURMA, Data de Publicação: DJe 02/05/2024)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CONTRATO DE PLANO DE SAÚDE. OBRIGAÇÃO DE FAZER. SUPOSTA OMISSÃO. INOCORRÊNCIA. DANO MORAL. AFASTAMENTO A PARTIR DE AUSÊNCIA DE ELEMENTOS FÁTICOS. DISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. REFORMA DO JULGADO. REEXAME DA PROVA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DISSÍDIO INTERPRETATIVO. FALTA DE INDICAÇÃO DE DISPOSITIVO LEGAL A QUE TERIA SIDO ATRIBUÍDA INTERPRETAÇÃO DIVERGENTE. AUSÊNCIA DE CARACTERIZAÇÃO DO DISSÍDIO. APLICAÇÃO, POR ANALOGIA, DA SÚMULA Nº 284 DO STF. PRECEDENTES. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+ ..  4. É assente nesta Corte que a análise do pleito recursal relativo ao princípio da causalidade e à distribuição dos ônus da sucumbenciais demandaria o reexame de matéria fático-probatória, providência vedada nesta via, por força do
+Enunciado nº 7 da Súmula do STJ.  ..
+7. Agravo interno não provido.
+(AgInt no AREsp n. 1.958.844/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 16/5/2022, DJe de 19/5/2022.)
+AGRAVO INTERNO. RECURSO ESPECIAL. CAUTELAR. EXIBIÇÃO DE DOCUMENTOS. AUSÊNCIA DE PRETENSÃO RESISTIDA. INCABÍVEL FIXAÇÃO DE HONORÁRIOS SUCUMBENCIAIS. REEXAME DE PROVAS. SÚMULAS 7 E 83 DO STJ.
+Pela aplicação dos princípios da sucumbência e da causalidade em ações cautelares de exibição de documentos, para haver condenação ao pagamento de honorários advocatícios deve estar caracterizada nos autos a resistência à pretensão. No caso, o tribunal de origem consignou que não houve pretensão resistida. Incidência da Súmula 83/STJ.
+Não é possível reverter a conclusão do acórdão recorrido acerca da ausência de pedido resistido, sem reexame dos elementos fáticos da demanda, o que encontra óbice na Súmula 7/STJ.
+Agravo interno a que se nega provimento.
+(AgInt no REsp 1.585.865/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 4/8/2016, DJe de 10/8/2016.)
+Não há violação ao art. 85 do Código de Processo Civil. O tribunal de origem aplicou corretamente a regra da sucumbência e ainda analisou se era caso de afastá-la pela causalidade, concluindo que não. A lei federal, portanto, foi bem aplicada. O que a agravante pretende não é corrigir um erro de interpretação da lei, mas obter conclusão diferente sobre quem deu causa à demanda, o que depende dos fatos e não cabe no recurso especial.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
