@@ -1,0 +1,18 @@
+DECISÃO
+PABLO CAPELARIO LOPES alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo no HC n. 5003968-46.2026.8.08.0000.
+Consta dos autos que o paciente foi denunciado, juntamente com corréus, pela suposta prática dos crimes previstos nos arts. 33 e 35 da Lei n. 11.343/2006 e 17 da Lei n. 10.826/2003. A prisão preventiva foi decretada em 2/8/2022 e mantida em sucessivas reavaliações pelo Juízo de origem (fl. 499; fls. 669-670).
+A defesa pretende a revogação da prisão preventiva, sob os argumentos de que: a) inexiste prova da materialidade do tráfico, por ausência de apreensão de entorpecentes em poder do paciente; b) os elementos de convicção consistem exclusivamente em conversas extraídas do aparelho celular de corréu, sem observância da cadeia de custódia da prova digital (fls. 2-7).
+Indeferida a liminar, foram prestadas as informações. Em seguida, o Ministério Público Federal opinou pelo não conhecimento da impetração.
+Decido.
+I. Materialidade e liame subjetivo entre os denunciados
+A ausência de apreensão de droga diretamente com o paciente não afasta, por si só, a materialidade do delito, pois "a caracterização do crime de tráfico de drogas prescinde da apreensão de entorpecentes na posse de cada réu, sendo suficiente a apreensão com ao menos um deles, desde que evidenciado o liame subjetivo entre os acusados" (AgRg no REsp n. 2.059.739/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/2/2025, DJEN de 24/2/2025).
+No mesmo sentido, a mera ausência de apreensão de drogas na posse direta do agente "não afasta a materialidade do delito de tráfico quando estiver delineada a sua ligação com outros integrantes da mesma organização criminosa que mantinham a guarda dos estupefacientes destinados ao comércio proscrito" (HC n. 536.222/SC, relator. Ministro Jorge Mussi 5ª T., DJe de 4/8/2020).
+No caso, as instâncias de origem indicaram, com base em mensagens extraídas de aparelho celular de corréu mediante autorização judicial, elementos concretos de atuação conjunta do paciente na mercancia de entorpecentes e no comércio ilegal de arma de fogo (fls. 1.128-1.129).
+II. Gravidade concreta, estrutura associativa e risco de reiteração delitiva
+O Tribunal de origem também assentou a gravidade concreta da conduta e o risco de reiteração delitiva, à vista do fato de o paciente ostentar duas condenações transitadas em julgado, uma por tráfico de drogas e uma por crime previsto na Lei n. 10.826/2003 (fl. 1.130). A jurisprudência desta Corte reconhece que, igualmente na associação para o tráfico de drogas (art. 35 da Lei n. 11.343/2006), a necessidade de interromper a atuação do grupo estruturado constitui fundamento idôneo de prisão preventiva para garantia da ordem pública (AgRg no HC n. 926.668/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/3/2025, DJEN de 8/4/2025). Ademais: "a existência de .. reincidência .. são elementos suficientes para demonstrar o risco de reiteração delitiva" (AgRg no RHC n. 229.594/AL, Rel. Ministro Carlos Pires Brandão, Sexta Turma, DJEN de 10/3/2026).
+III. Cadeia de custódia da prova digital - supressão de instância
+A tese, tal como lançada, é genérica e desacompanhada de demonstração de prejuízo concreto ao conjunto probatório, além de ainda não haver sido apreciada pelo Juízo de primeiro grau. Foi suscitada apenas em alegações finais, com os autos pendentes de sentença (fls. 1.149-1.150; fl. 1. 161), circunstância que impede seu exame direto por esta instância, sob pena de indevida supressão de grau de jurisdição.
+IV. Dispositivo
+À vista do exposto, denego a ordem de habeas corpus .
+Publique-se e intimem-se.
+EMENTA
