@@ -1,0 +1,8 @@
+DECISÃO
+Nos presentes autos, há debate sobre matéria afetada à Primeira Seção do Superior Tribunal de Justiça, aguardando julgamento sob o rito dos recursos repetitivos, Tema 1.209/STJ, vinculado aos REsp 2.039.132/SP, 2.013.920/RJ, 2.035.296/SP, 1.971.965/PE e 1.843.631/PE, de relatoria do Ministro Francisco Falcão.
+A questão de direito está delimitada nos seguintes termos: "Definição acerca da (in)compatibilidade do Incidente de Desconsideração de Personalidade Jurídica, previsto no art. 133 e seguintes do Código de Processo Civil, com o rito próprio da Execução Fiscal, disciplinado pela Lei n. 6.830/1980 e, sendo compatível, identificação das hipóteses de imprescindibilidade de sua instauração, considerando o fundamento jurídico do pleito de redirecionamento do feito executório."
+Verifica-se, igualmente, que foi determinada a suspensão dos processos pendentes (art. 1.037, II, do CPC/2015).
+Nesse contexto, em observância ao princípio da eficiência e ao regime jurídico-processual do CPC/2015, bem como ao disposto no art. 256-L do RISTJ, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos paradigmas, seja realizado o juízo de conformação previsto nos arts. 1.039, caput, e 1.040 do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. (IN)COMPATIBILIDADE DO INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA COM A EXECUÇÃO FISCAL. ART. 133 E SEGUINTES DO CPC/2015. RITO PRÓPRIO DA LEI N. 6.830/1980. IDENTIFICAÇÃO DAS HIPÓTESES DE IMPRESCINDIBILIDADE. MATÉRIA AFETADA AO JULGAMENTO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA 1.209 DO STJ. DETERMINADA A DEVOLUÇÃO DOS AUTOS À CORTE DE ORIGEM.
