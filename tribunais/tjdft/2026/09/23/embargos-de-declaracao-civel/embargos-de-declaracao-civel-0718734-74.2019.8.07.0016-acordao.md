@@ -1,0 +1,109 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Segunda Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.EMBARGOS DE DECLARAÇÃO CÍVEL 0718734-74.2019.8.07.0016EMBARGANTE(S)DISTRITO FEDERALEMBARGADO(S)LAUDEMIRA LIMA DE OLIVEIRARelatoraJuiza GISELLE ROCHA RAPOSO
+ Acórdão Nº2180735
+
+EMENTA
+
+ DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. GRATIFICAÇÃO DE ATIVIDADE DE ENSINO ESPECIAL – GAEE. ADPF Nº 615 E TEMA 100 DA REPERCUSSÃO GERAL. OMISSÃO CONFIGURADA. EMBARGOS ACOLHIDOS COM EFEITOS MODIFICATIVOS.
+
+I. CASO EM EXAME
+
+1. Embargos de declaração opostos pelo DISTRITO FEDERAL em face do acórdão que confirmou a sentença.
+
+2. Em suas razões, sustenta que o acórdão foi omisso ao deixar de apreciar fato superveniente relevante, consistente na decisão cautelar proferida pelo STF na ADPF nº 615, que determinou a suspensão dos processos envolvendo a extensão da GAEE a professores que não atendam exclusivamente alunos com necessidades especiais.
+
+3. O fato relevante. Esta Turma Recursal proferiu acórdão negando provimento ao recurso inominado. Após o julgamento, o feito foi suspenso em razão da medida cautelar deferida pelo Supremo Tribunal Federal na ADPF nº 615. Com a superveniência do julgamento definitivo da controvérsia constitucional, mostra-se necessária a revisão do acórdão embargado, para adequação do julgado ao entendimento firmado pela Suprema Corte.
+
+II. QUESTÃO EM DISCUSSÃO
+
+4. A controvérsia consiste em verificar se a superveniente decisão proferida pelo STF na ADPF nº 615 impõe a revisão do acórdão anteriormente proferido e a adequação do julgamento aos parâmetros nela fixados.
+
+III. RAZÕES DE DECIDIR
+
+5. Os embargos de declaração destinam-se a sanar obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC). Na hipótese, a superveniência do julgamento da ADPF nº 615 pelo Supremo Tribunal Federal impõe a adequação do acórdão anteriormente proferido por esta Turma Recursal, circunstância apta a justificar o acolhimento dos embargos com efeitos modificativos, para conformação do julgado ao entendimento vinculante posteriormente estabelecido, que passará a conter a seguinte redação:
+
+“DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO INOMINADO. GRATIFICAÇÃO DE ATIVIDADE DE ENSINO ESPECIAL – GAEE. DIREITO À PERCEPÇÃO DA VANTAGEM RECONHECIDO EM DECISÕES TRANSITADAS EM JULGADO. AÇÃO AUTÔNOMA. ADPF Nº 615 E TEMA 100 DA REPERCUSSÃO GERAL. LIMITES OBJETIVOS. IMPOSSIBILIDADE DE DECLARAÇÃO INCIDENTAL DE INEXIGIBILIDADE EM PROCESSO DIVERSO. MANUTENÇÃO DA EFICÁCIA DOS TÍTULOS JUDICIAIS. INCORPORAÇÃO PROPORCIONAL DA VANTAGEM. INEXIGIBILIDADE SUPERVENIENTE RECONHECIDA EM RELAÇÃO A PARTE DOS TÍTULOS. EXCLUSÃO PARCIAL. PROCESSO COM PENDÊNCIA DE ANÁLISE DA EXCEÇÃO DE PRÉ-EXECUTIVIDADE. MÉRITO PREJUDICADO. RECURSO PARCIALMENTE PROVIDO.
+
+I. CASO EM EXAME
+
+1. Recurso inominado interposto pelo Distrito Federal contra sentença que julgou procedentes os pedidos iniciais para condená-lo a incorporar aos proventos de aposentadoria da parte autora a Gratificação de Atividade de Ensino Especial – GAEE, no percentual de 4,8% do total da gratificação, bem como ao pagamento da quantia de R$ 9.140,88 (nove mil, cento e quarenta reais e oitenta e oito centavos), referente ao percentual supostamente devido a título de incorporação a partir de 15/07/2019, data de sua aposentadoria, com a projeção dos próximos 12 (doze) meses, além dos valores que se fizerem devidos até a efetiva incorporação, devidamente corrigidos.
+
+2. Em seu recurso, solicita, preliminarmente, a suspensão do feito até o julgamento definitivo do IRDR 0023697-25.2016.8.07.0000. No mérito, sustenta que a autora não tem direito à incorporação da GAEE/GATE, por ter atuado em turmas inclusivas e não em unidades ou modalidades de ensino especial previstas em lei. Sustenta que a ADI nº 2017.00.2.021004-9 reconheceu a constitucionalidade das normas que restringem o benefício, afastando o pagamento da gratificação nessas hipóteses. Subsidiariamente, pleiteia que eventual incorporação observe os critérios da Lei Distrital nº 5.105/2013, vigente à época da aposentadoria, bem como a revisão dos cálculos da condenação. O Distrito Federal também apresentou exceção de pré-executividade, por meio da qual pretende afastar a eficácia da coisa julgada, ao argumento de sua inconstitucionalidade.
+
+3. Consta dos autos que a autora, servidora aposentada da Secretaria de Estado de Educação do Distrito Federal, obteve em demandas judiciais anteriores (processos nº 2010.01.1.002765-0, 0022128-14.2011.8.07.0016, 201301.1.112399-4, 2014.01.1.093416-3, 2014.01.1.152291-2, 0718523-77.2015.8.07.0016, 0720350-26.2015.8.07.0016, 0723886-11.2016.8.07.0016 e 0717334-30.2016.8.07.0016) o reconhecimento do direito ao recebimento da GAEE relativamente aos exercícios de 2005, 2007, 2009, 2010, 2011, 2012, 2013, 2014 e 2015. O Distrito Federal efetuou os pagamentos das parcelas reconhecidas, porém não procedeu à averbação funcional dos respectivos períodos nos assentamentos funcionais, circunstância que motivou o indeferimento administrativo da incorporação proporcional da gratificação por ocasião de sua aposentadoria.
+
+II. QUESTÕES EM DISCUSSÃO
+
+4. As questões em discussão consistem em: (i) verificar se é necessária a suspensão do feito até o julgamento definitivo do IRDR 0023697-25.2016.8.07.0000; (ii) definir se, em ação autônoma destinada ao reconhecimento de efeitos administrativos decorrentes de títulos judiciais pretéritos, é cabível a alegação incidental de inexigibilidade fundada na ADPF nº 615 e na revisão do Tema 100 da repercussão geral; (iii) verificar se a possibilidade de apresentação da simples petição prevista pelo Supremo Tribunal Federal impede, por si só, a produção dos efeitos administrativos dos títulos originários; (iv) definir o alcance da simples petição prevista na ADPF nº 615 e sua aptidão para produzir efeitos rescisórios indiretos em ação diversa; (v) analisar a natureza jurídica das sentenças originárias que reconheceram o direito à percepção da GAEE; (vi) verificar se a averbação funcional constitui consequência legal do reconhecimento judicial da gratificação; e (vii) definir se a incorporação proporcional da vantagem constitui efeito jurídico decorrente da situação funcional anteriormente reconhecida.
+
+III. RAZÕES DE DECIDIR
+
+5. Suspensão do processo. O pedido de suspensão não procede, pois a questão já foi adequadamente resolvida à luz da ADI nº 0021864-35.2017.8.07.0000 e da ADPF nº 615. Pedido indeferido.
+
+6. A controvérsia deve partir da premissa de que existem títulos judiciais transitados em julgado reconhecendo o direito da autora à percepção da GAEE nos períodos indicados nas demandas originárias. Enquanto não declarados inexigíveis pelos meios processuais adequados, tais títulos permanecem válidos e aptos a produzir os efeitos jurídicos inerentes à situação jurídica reconhecida.
+
+7. A ADPF nº 615 e a revisão do Tema 100 da repercussão geral instituíram mecanismo excepcional para exame da eventual inexigibilidade dos títulos judiciais formados no âmbito dos Juizados Especiais, mediante simples petição apresentada nos próprios autos em que se formou a coisa julgada. Não se admite, entretanto, que ação autônoma diversa seja utilizada para reconhecer, de forma incidental ou indireta, a perda de eficácia de decisões transitadas em julgado, sob pena de atribuição de efeitos rescisórios indiretos não autorizados pelo precedente vinculante.
+
+8. A mera possibilidade de futura apresentação da petição prevista na ADPF nº 615 não suspende automaticamente a eficácia dos títulos judiciais originários nem impede que continuem produzindo os efeitos jurídicos deles decorrentes enquanto inexistente pronunciamento específico acerca de sua inexigibilidade.
+
+9. As sentenças transitadas em julgado, embora formalmente condenatórias, reconheceram o direito material da autora à percepção da GAEE nos períodos nelas indicados, constituindo situação jurídica protegida pela coisa julgada e apta a irradiar os efeitos funcionais previstos na legislação distrital.
+
+10. A averbação funcional dos períodos reconhecidos judicialmente e a correspondente incorporação proporcional da vantagem decorrem diretamente das Leis Distritais nº 4.075/2007 e nº 5.105/2013, que vinculam consequências remuneratórias e funcionais próprias ao exercício da atividade especial, não se tratando de benefício novo ou de direito autônomo dependente de novo pronunciamento jurisdicional.
+
+11. Mostra-se incompatível com a autoridade da coisa julgada a negativa administrativa fundada exclusivamente na ausência de registro funcional cuja realização incumbia à própria Administração, após o reconhecimento judicial do direito da servidora à percepção da gratificação.
+
+12. Preservada a eficácia dos títulos judiciais originários, impõe-se reconhecer o direito da autora à averbação funcional dos períodos judicialmente reconhecidos e à correspondente incorporação proporcional da GAEE aos seus proventos de aposentadoria.
+
+13. Assim, deve-se distinguir as situações jurídicas submetidas à apreciação. Em relação aos títulos judiciais que não foram desconstituídos nem tiveram a sua inexigibilidade reconhecida pelo juízo competente (processos nº 2010.01.1.002765-0, 0022128-14.2011.8.07.0016, 201301.1.112399-4, 2014.01.1.093416-3, 2014.01.1.152291-2, 0718523-77.2015.8.07.0016), permanece hígida a coisa julgada formada nas demandas originárias. Nessas hipóteses, subsiste o reconhecimento judicial do direito à percepção da GAEE nos períodos de 2005, 2007, 2009, 2010, 2011 e 2012, impondo-se a averbação funcional correspondente e a incorporação proporcional da gratificação aos proventos de aposentadoria.
+
+14. Por outro lado, quanto ao título judicial cuja inexigibilidade foi suscitada pelo Distrito Federal, no prazo fixado pelo Supremo Tribunal Federal, e expressamente acolhida pelo juízo competente (processo nº 0720350-26.2015.8.07.0016), não subsiste suporte jurídico para a produção de efeitos funcionais posteriores. Declarada a inexigibilidade do título, afasta-se o fundamento necessário à averbação do período de 2013 e, por consequência, à incorporação proporcional da GAEE aos proventos de aposentadoria referente ao respectivo exercício.
+
+15. Por fim, considerando que os efeitos administrativos pretendidos nesta ação dependem da validade e da eficácia dos títulos judiciais originários, o recurso deve ser reconhecido como prejudicado quanto aos exercícios de 2014 e 2015 (processos nº 0723886-11.2016.8.07.0016 e 0717334-30.2016.8.07.0016), em razão da pendência de julgamento da exceção de pré-executividade apresentada nos autos ou do recurso interposto contra a decisão que a apreciou.
+
+IV. DISPOSITIVO
+
+16. Recurso parcialmente provido. Sentença parcialmente reformada para: a) manter o reconhecimento do direito da parte autora à averbação dos períodos de 2005, 2007, 2009, 2010, 2011 e 2012 e à incorporação da GAEE aos proventos de aposentadoria no percentual de 3,6%, correspondente aos períodos reconhecidos judicialmente, com a adequação dos cálculos em liquidação de sentença; b) afastar o direito à averbação do período de 2013, bem como à respectiva incorporação da gratificação e ao pagamento de diferenças remuneratórias correlatas, em razão da inexigibilidade do título judicial que lhe servia de fundamento; e c) julgar prejudicado o exame do pedido referente aos exercícios de 2014 e 2015, em razão da pendência de julgamento da exceção de pré-executividade nos respectivos processos de origem ou do recurso interposto contra a decisão que a apreciou.
+
+17. Isento de custas. Sem condenação em honorários advocatícios em razão da ausência de recorrente integralmente vencido.
+
+18. A súmula de julgamento servirá de acórdão, na forma do art. 46 da Lei nº 9.099/1995.
+
+_________________________
+
+Dispositivos relevantes citados: Lei Distrital nº 4.075/2007, art. 21, § 3º, V e VI; Lei Distrital nº 5.105/2013, arts. 30 e 31.
+
+Jurisprudência relevante citada: STF, ADPF nº 615; STF, Tema 100 da repercussão geral.”
+
+IV. DISPOSITIVO
+
+6. Embargos de declaração acolhidos, com efeitos modificativos, para adequar o acórdão ao entendimento firmado pelo Supremo Tribunal Federal na ADPF nº 615, passando a prevalecer a redação acima transcrita.
+
+7. A súmula de julgamento servirá de acórdão (art. 46, Lei n. 9.099/95).
+
+_________________________
+
+Dispositivos relevantes citados: CPC, art. 1.022.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Segunda Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, GISELLE ROCHA RAPOSO - Relatora, SILVANA DA SILVA CHAVES - 1º Vogal e LUCIANA FREIRE NAVES FERNANDES GONCALVES - 2º Vogal, sob a Presidência da Senhora Juíza GISELLE ROCHA RAPOSO, em proferir a seguinte decisão: EMBARGOS ACOLHIDOS COM EFEITOS MODIFICATIVOS. UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 30 de Setembro de 2026
+
+Juíza GISELLE ROCHA RAPOSOPresidente e Relatora
+
+RELATÓRIO
+
+A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+VOTOS
+
+A Senhora Juíza GISELLE ROCHA RAPOSO - RelatoraA ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+A Senhora Juíza SILVANA DA SILVA CHAVES - 1º Vogal Com o(a) relator(a)A Senhora Juíza LUCIANA FREIRE NAVES FERNANDES GONCALVES - 2º Vogal Com o(a) relator(a)
+
+DECISÃO
+
+EMBARGOS ACOLHIDOS COM EFEITOS MODIFICATIVOS. UNÂNIME
