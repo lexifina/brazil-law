@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido liminar impetrado em favor de VANESSA PINHEIRO VIDAL MATALOBOS apontando como autoridade coatora o TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO ( Recurso em Sentido Estrito n. 5008790-05.2026.4.02.5101/RJ).
+Depreende-se dos autos que o Juízo de primeiro grau denegou a ordem de habeas corpus que objetivava a concessão de salvo-conduto em favor do paciente.
+Irresignada, a defesa ingressou com recurso em sentido estrito, tendo o Tribunal a quo negado provimento à insurgência.
+Neste writ, sustenta a defesa que a paciente "apresenta o quadro de síndrome dolorosa complexa nas costas, além disso conta com um histórico de câncer de mama com recidiva e metástase hepática (doença de Paget atualmente) onde realizou inúmeras cirurgias, das quais alterou toda a inervação das costas da paciente e mesmo com o uso de diversos medicamentos, não houve a resposta terapêutica esperada pelos médicos. Com o uso prologando desses fármacos, veio também a paciente a se tornar refratária aos medicamentos convencionais, e assim sem mais alternativa terapêutica disponível, restou a médica que acompanha a enferma a prescrever o óleo de cannabidiol, contudo o produto chega a custar em torno de 3 mil reais nas farmácias convencionais, o que impossibilita o acesso da grande maioria da população, dessa forma, veio o paciente a solicitar o fornecimento do cannabidiol ao poder público, que infelizmente não cumpriu com o seu dever constitucional de prover a saúde dos habitantes" (e-STJ fl. 6).
+Pontua que a paciente "objetiva o salvo conduto para a autorização do cultivo de Cannabis Sativa para fins de cultivar, processar, administrar, manipular, produzir e portar o óleo extraído a afim de que seja dado continuidade ao seu tratamento médico, já que o produto importado é muito caro, conforme orçamento anexo e pela eficiência do óleo produzido de maneira artesanal, dessa forma resta comprovado a necessidade do paciente, estando assim presentes os requisitos autorizadores para a concessão do pedido liminar em caráter de urgência no acesso ao medicamento. Da fumaça do bom direito - como se demonstra claramente pela vasta documentação médica anexo, as pretensões do paciente são unicamente com a finalidade medicinal, pois o direito da saúde está previsto tanto na Constituição Federal, quanto na Estadual do Paraná bem como na lei orgânica do município de Curitiba. Com relação ao periculum in mora, não parece haver qualquer sombra de dúvida de que a liberdade de locomoção do paciente encontra-se sob iminente risco. Conforme mencionado alhures, basta uma singela denúncia anônima ou uma reles suspeita por parte de agentes estatais para deflagrar uma operação que venha a prendê-lo em flagrante pela prática do crime de tráfico de drogas, com a consequente apreensão destruição dos cultivares de Cannabis Sativa" (e-STJ fls. 21/22).
+Busca, assim, a concessão de salvo-conduto à paciente.
+É o relatório.
+Decido.
+Pois bem. A despeito do esforço da diligente defesa, verifico que não foi juntado aos autos o inteiro teor do acórdão impugnado, já que não consta o voto vencedor proferido (mas apenas o voto-vista, que ficou vencido), o que impede o exame da controvérsia.
+Ressalte-se que o rito do habeas corpus - e do recurso ordinário que lhe faz as vezes - pressupõe prova pré-constituída do direito alegado, devendo a defesa demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao acusado.
+Nesse sentido, guardadas as devidas particularidades:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ÔNUS DE INSTRUÇÃO. AUSÊNCIA DO INTEIRO TEOR DO ACÓRDÃO APONTADO COMO ATO COATOR. PROVA PRÉ-CONSTITUÍDA. INDEFERIMENTO LIMINAR MANTIDO. RECURSO IMPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental contra decisão monocrática que indeferiu liminarmente habeas corpus por deficiência de instrução, em razão da ausência do inteiro teor do acórdão apontado como ato coator, peça indispensável à adequada compreensão da controvérsia.
+2. Agravante sustenta que a sentença condenatória demonstraria inexistirem elementos probatórios autônomos aptos a corroborar reconhecimento fotográfico em desconformidade com o art. 226 do Código de Processo Penal e com a orientação firmada no Tema n. 1.258, afirma ter juntado atestado extraído do SEEU e requer diligência para requisição do acórdão do Tribunal de origem com base no art. 662 do Código de Processo Penal, além de pedido de reconsideração.
+3. Indeferimento liminar do habeas corpus pela ausência de prova pré-constituída do alegado constrangimento ilegal, ante a falta de peças essenciais ao exame da controvérsia.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber (i) se a ausência do inteiro teor do acórdão impugnado impede a análise da alegada ilegalidade; (ii) se caberia diligência para suprimento da deficiência instrutória do habeas corpus.
+III. RAZÕES DE DECIDIR
+5. A ausência do inteiro teor do acórdão apontado como coator inviabiliza a aferição segura da extensão da fundamentação adotada pelo Tribunal de origem e da eventual existência de elementos probatórios autônomos aptos a corroborar o reconhecimento fotográfico questionado pelo agravante.
+6. O habeas corpus exige prova pré-constituída do alegado constrangimento ilegal, incumbindo à parte impetrante apresentar, desde o ajuizamento do writ, os documentos indispensáveis à adequada compreensão da controvérsia.
+7. A via mandamental não se presta à reconstrução do conteúdo de decisões não juntadas aos autos nem à superação da deficiência originária da instrução da impetração mediante diligência judicial.
+IV. DISPOSITIVO E TESE
+8. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. O habeas corpus exige prova pré-constituída e correta instrução inicial com peças essenciais, sob pena de indeferimento liminar. 2. A ausência do inteiro teor do acórdão apontado como ato coator impede o exame do writ e não pode ser suprida por diligência em sede de agravo regimental. 3. Referências constantes da sentença condenatória não substituem o acórdão do Tribunal de origem para aferir os fundamentos da manutenção da condenação. Dispositivos relevantes citados: Não há dispositivos legais específicos mencionados no voto. Jurisprudência relevante citada: STJ, AgRg no HC n. 1.043.111/RN, Rel. Min. Messod Azulay Neto, Quinta Turma, DJEN de 22/4/2026; STJ, AgRg no HC n. 1.037.893/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, DJEN de 28/11/2025.
+(AgRg no HC n. 1.078.999/PE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/8/2026, DJEN de 19/8/2026, grifo nosso.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E POSSE ILEGAL DE ARMA DE FOGO. NEGADO AO RÉU O DIREITO DE RECORRER EM LIBERDADE. INDEFERIMENTO LIMINAR POR INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE PEÇAS ESSENCIAIS. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que indeferiu liminarmente habeas corpus no qual se postulava o direito de o paciente aguardar em liberdade o trânsito em julgado da sentença penal condenatória pelos crimes de tráfico transnacional de drogas (art. 33, caput, c/c art. 40, I, da Lei n. 11.343/2006) e posse ilegal de arma de fogo com numeração suprimida (art. 16, § 1º, IV, da Lei n. 10.826/2003).
+2. No agravo regimental, a Defesa sustenta superação do óbice formal, ante a juntada da sentença condenatória, e reitera o pedido de revogação da prisão cautelar, requerendo reconsideração da decisão ou submissão do recurso ao colegiado.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a juntada, no agravo regimental, de cópia da sentença condenatória é suficiente para suprir a ausência de peça essencial, de modo a viabilizar o exame, em habeas corpus, do pedido de concessão do direito de recorrer em liberdade.
+III. RAZÕES DE DECIDIR
+4. A Defesa não juntou a cópia da decisão que decretou a prisão preventiva e do inteiro teor do acórdão proferido pela Corte de origem, o que mantém a deficiência de instrução e impede o exame adequado da legalidade da prisão.
+5. Na via do habeas corpus exige-se prévia constituição da prova, cabendo ao impetrante o ônus de instruir a impetração com toda a documentação indispensável à análise da pretensão, sendo inviável o conhecimento do writ quando ausentes peças essenciais, conforme reiterada jurisprudência do Superior Tribunal de Justiça.
+IV. DISPOSITIVO
+6. Agravo regimental desprovido.
+(AgRg no HC n. 1.070.380/PR, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 13/5/2026, DJEN de 19/5/2026, grifo nosso.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. DEFESA NÃO JUNTOU OS DOCUMENTOS FALTANTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+2. É indispensável à parte - sobretudo quando se tratar de defesa constituída - apresentar elementos documentais suficientes para permitir aferir a suscitada existência de constrangimento ilegal no ato atacado na impetração.
+3. No recurso em habeas corpus, a defesa pleiteou a revogação da prisão preventiva do recorrente e o reconhecimento da inépcia da denúncia. Todavia, não foi juntada cópia da decisão que decretou a custódia cautelar do acusado nem da inicial acusatória. Não instruído suficientemente o recurso, mostra-se inviável o exame do sustentado constrangimento ilegal.
+4. Agravo regimental não provido.
+(AgRg no RHC n. 231.451/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/5/2026, DJEN de 18/5/2026, grifo nosso.)
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
