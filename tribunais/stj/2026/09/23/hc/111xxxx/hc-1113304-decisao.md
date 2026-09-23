@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo d e recurso especial, com pedido liminar, impetrado em favor de JOÃO PEDRO OLIVEIRA DE LIMA, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, no julgamento da Apelação Criminal n. 5180476-12.2025.8.21.0001/RS.
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 1 ano, 10 meses e 7 dias de reclusão, e 170 dias-multa, além de 3 meses e 28 dias de detenção, em regime inicial aberto, pela prática dos delitos tipificados no art. 33, § 4º, da Lei n. 11.343/2006, e no art. 329, caput, n/f do art. 69, ambos do Código Penal (e-STJ, fls. 102/121).
+Irresignadas, ambas as partes apelaram e o Tribunal estadual deu parcial provimento aos recursos, para redimensionar as sanções do paciente a 4 anos de reclusão e 170 dias-multa, além de 4 meses e 22 dias de detenção, a ser cumprida em regime inicial aberto, mantidos os demais termos da condenação (e-STJ, fls. 11/32), em acórdão assim ementado:
+DIREITO PENAL. APELAÇÕES CRIMINAIS. TRÁFICO DEDROGAS E RESISTÊNCIA. PRELIMINARES REJEITADAS. CONDENAÇÃO MANTIDA. REDIMENSIONAMENTO DA PENA. PARCIAL PROVIMENTO AO RECURSO DEFENSIVO. DESPROVIMENTO DO RECURSO MINISTERIAL.
+I. CASO EM EXAME:
+1. Apelações criminais interpostas pela defesa e pelo Ministério Público contra sentença que condenou o réu pela prática dos crimes de tráfico de drogas (art.33, caput, e §4º, da Lei nº 11.343/06) e resistência (art. 329, caput, do CP), à pena de 1 ano, 10 meses e 7 dias de reclusão e 3 meses e 28 dias de detenção, além de 170 dias-multa.
+II. QUESTÃO EM DISCUSSÃO:
+1. No recurso da defesa, há quatro questões em discussão: (i) preliminar de atipicidade da conduta por ausência de ofensividade do crime de tráfico de drogas; (ii) preliminar de nulidade da prova por ausência de fundada suspeita para a busca pessoal; (iii) absolvição por insuficiência probatória; (iv)subsidiariamente, desclassificação para uso próprio e redimensionamento da pena.
+2. No recurso do Ministério Público, a questão em discussão consiste no afastamento da causa de diminuição de pena prevista no art. 33, §4º, da Lei nº11.343/06 ou, alternativamente, a revisão da fração redutora aplicada.
+III. RAZÕES DE DECIDIR:
+1. A preliminar de atipicidade da conduta por ausência de ofensividade não merece acolhimento, pois o Supremo Tribunal Federal já pacificou o entendimento de que a criação de crimes de perigo abstrato, como o tráfico de drogas, não representa comportamento inconstitucional por parte do legislador penal.
+2. A preliminar de nulidade da busca pessoal também não prospera, pois a abordagem policial foi justificada pela fuga do réu ao avistar a viatura em local conhecido como ponto de tráfico, configurando fundada suspeita nos termos do art. 244 do CPP e da jurisprudência do STJ.
+3. A materialidade e autoria do crime de tráfico de drogas estão comprovadas pelo auto de apreensão, laudo pericial e depoimentos coerentes dos policiais, que relataram a apreensão de 84 buchas de cocaína (46 gramas) em poder do réu, quantidade incompatível com o consumo pessoal.
+4. A palavra dos policiais goza de presunção de veracidade, não havendo elementos que indiquem interesse em prejudicar o réu ou contradições em seus depoimentos, sendo suficientes para embasar a condenação.
+5. O crime de resistência restou configurado, pois o réu não se limitou a uma simples fuga, mas reagiu de forma violenta, tentando desferir cabeçada contra um dos policiais, sendo necessário o uso da força para contê-lo.
+6. Na dosimetria, deve ser afastada a valoração negativa da natureza e quantidade de drogas na primeira fase, conforme Tema 712 do STF, sendo tais circunstâncias consideradas apenas na terceira fase para modulação da causa de diminuição de pena.
+7. A causa de diminuição do art. 33, §4º, da Lei nº 11.343/06 deve ser mantida, pois o réu é primário e não possui antecedentes, não havendo elementos suficientes que demonstrem dedicação a atividades criminosas, conforme Tema Repetitivo 1139 do STJ. No entanto, alterada a fração redutora para 1/5 (um quinto) considerando a natureza e quantidade de drogas apreendidas.
+IV. DISPOSITIVO E TESE:
+1. Preliminares rejeitadas.
+2. Recurso defensivo parcialmente provido para redimensionar a pena-base ao mínimo legal.
+3. Recurso ministerial parcialmente provido para alterar a fração redutora relativa à minorante do art. 33, §4º, da Lei nº 11.343/06 para 1/5 (um quinto).
+Tese de julgamento: 1. A existência de inquéritos policiais ou ações penais em curso não constitui fundamento idôneo para afastar a aplicação da causa de diminuição de pena prevista no art. 33, §4º, da Lei nº 11.343/06, conforme Tema Repetitivo 1139 do STJ.
+___________
+Dispositivos relevantes citados: CP, arts. 33, §2º, "c", 44, 65, I, 69; CPP, art.244; Lei nº 11.343/06, arts. 33, caput e §4º, 42. Jurisprudência relevante citada: STF, HC 104410, Rel. Min. Gilmar Mendes, j.06/03/2012; STJ, RHC 158.580/BA, Rel. Min. Rogerio Schietti Cruz, j.25/04/2022; STF, RHC 229514 AgR, Rel. Min. Gilmar Mendes, j. 02/10/2023;STJ, AgRg no HC 894.442/SP, Rel. Min. Messod Azulay Neto, j. 16/10/2024; STJ, Tema Repetitivo 1139.
+No presente writ (e-STJ, fls. 2/10), a impetrante sustenta que o acórdão impugnado impôs constrangimento ilegal ao paciente, na terceira fase da dosimetria de sua pena, na medida em que não aplicou a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, na razão máxima de 2/3.
+No ponto, aduz que tendo em vista a falta de idoneidade dos fundamentos utilizados para afastar a aplicação da redutora prevista pelo § 4º, do art. 33, da Lei de Drogas, em seu patamar máximo, merece reforma a decisão recorrida, para que seja aplicada, em fração máxima, a minorante em comento (e-STJ, fl. 9).
+Diante disso, requer liminarmente, a suspensão da execução da pena do paciente, até o julgamento definitivo desta impetração e, no mérito, a redução de suas sanções, ante o aumento da fração redutora prevista no § 4º do art. 33 da Lei n. 11.343/2006, de 1/5 para 2/3.
+O pedido liminar foi indeferido pelo Ministro HERMAN BENJAMIN - Presidente do STJ -, às e-STJ, fls. 124/125, e as informações foram prestadas, às e-STJ, fls. 128/155 e 156/158.
+O Ministério Público Federal, em parecer exarado às e-STJ, fls. 164/169, opinou pelo não conhecimento do mandamus e, caso conhecido, pela denegação da ordem.
+É o relatório. Decido.
+De início, o presente habeas corpus não comporta conhecimento, pois impetrado em substituição a recurso próprio. Entretanto, nada impede que, de ofício, seja constatada a existência de ilegalidade que importe em ofensa à liberdade de locomoção do paciente.
+Conforme relatado, busca-se o redimensionamento das sanções do paciente, ante o aumento da fração de redução, pelo reconhecimento do tráfico privilegiado.
+Preliminarmente, cabe ressaltar que a revisão da dosimetria da pena, na via do habeas corpus, somente é possível em situações excepcionais de manifesta ilegalidade ou abuso de poder, cujo reconhecimento ocorra de plano, sem maiores incursões em aspectos circunstanciais ou fáticos e probatórios (HC n. 304.083/PR, Relator Ministro FELIX FISCHER, Quinta Turma, DJe 12/3/2015).
+Ademais, nos termos do art. 33, § 4º da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organização criminosa.
+Sob essas diretrizes, ao julgar os recursos de apelação, o Relator do voto condutor do acórdão asseverou que (e-STJ, fls. 28/31, grifei):
+..
+Considerando que a defesa e o Ministério Público manifestaram irresignação apenas em relação à pena relativa ao delito de tráfico de drogas, por não verificar nenhuma irregularidade relativa ao crime de resistência, passo, de pronto, à análise dos pontos objeto de questionamento.
+A defesa requer a redução da pena-base, sob a alegação de que o juízo de primeiro grau teria considerado desfavoráveis a natureza e quantidade de drogas apreendidas para afastar a basilar do mínimo legal.
+No ponto, acolho o requerimento defensivo para afastar a valoração negativa acerca da natureza e quantidade de drogas apreendidas na primeira fase da dosimetria, considerando o teor do Tema n.º 712 do STF, segundo o qual, "As circunstâncias da natureza e da quantidade da droga apreendida devem ser levadas em consideração apenas em uma das fases do cálculo da pena".
+Assim, a análise acerca da natureza e quantidade de drogas será considerada na terceira fase da dosimetria.
+Assim, redimensiono a pena-base ao mínimo legal.
+Ausentes agravantes.
+Reconhecida a atenuante da menoridade, prevista no art. 65, inciso I, do Código Penal.
+No entanto, deixo de operar a redução, porquanto reconduzida a pena-base ao mínimo legal, haja vista o teor da Súmula 231 do STJ.
+Assim, mantenho a pena provisória em 05 (cinco) anos de reclusão.
+Ausentes majorantes.
+Com relação à minorante prevista no art. 33, §4º da Lei nº 11.343/06, o Ministério Público requer o seu afastamento, ou mesmo a alteração da fração redutora.
+No entanto, mantenho a sua incidência, uma vez que o réu é primário e não possui antecedentes, não havendo elementos suficientes que demonstre maior dedicação do acusado a atividades criminosas.
+O simples fato de o réu responder a processo penal em curso não é suficiente para afastar a incidência da privilegiadora, como já decidido pelo Superior Tribunal de Justiça no Tema Repetitivo 1139.
+..
+No entanto, considerando a natureza e quantidade de drogas apreendidas (84 porções de cocaína, pesando 46 gramas), tendo em vista o disposto no art. 42 da Lei nº11.343/06, fixo a fração redutora em 1/5 (um quinto), fixando a pena definitiva em 04(quatro) anos de reclusão.
+Mantenho pena de multa em 170 (cento e setenta) dias-multa, na razão unitária mínima de 1/30 (um trigésimo) do salário-mínimo vigente na data do fato, por não haver recurso por parte do Ministério Público.
+Considerando o concurso de crimes, nos termos do art. 69, caput, do Código Penal, vai fixada a pena definitiva em 04 (quatro) anos de reclusão e 04 (quatro) meses e 22 (vinte e dois) dias de detenção.
+Pela leitura do recorte acima, verifica-se que a minorante do tráfico privilegiado foi aplicada na fração de 1/5, em virtude da quantidade e natureza do entorpecente apreendido - 46 gramas de cocaína (e-STJ, fl. 31) -; todavia, em que pese esse argumento seja idôneo para modular o redutor, verifico que o montante em questão não extrapola o inerente à própria tipificação do delito. Desse modo, constato a ocorrência de flagrante constrangimento ilegal e, de ofício, aplico a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, no teto legal de 2/3.
+Ao ensejo:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃOAGRAVADA. IMPUGNAÇÃO SUFICIENTE. RECONSIDERAÇÃO. TRÁFICO DE DROGAS. DOSIMETRIA. ART. 33, § 4º, DA LEI DE DROGAS. AFASTAMENTO. QUANTIDADE DE DROGAS. AUSÊNCIA DE CIRCUNSTÂNCIAS CONCRETAS ADICIONAIS. ILEGALIDADE. OCORRÊNCIA. RESTABELECIMENTO DA SENTENÇA CONDENATÓRIA. AGRAVO PROVIDO.
+.. .
+2. Conforme a jurisprudência desta Corte Superior, a indicação da quantidade de drogas apreendida, isoladamente, sem a expressa referência a circunstâncias concretas adicionais, não justifica o afastamento da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+3. Tendo o Tribunal de origem decidido pelo afastamento da causa de diminuição em razão da dedicação à atividade criminosa, considerando, para tanto, a quantidade e a natureza das drogas apreendidas, tratando-se de 478 comprimidos de ecstasy, deve ser reconhecida manifesta ilegalidade, restabelecendo-se a sentença condenatória.
+4. Agravo regimental provido para restabelecer a sentença condenatória. (AgRg no AREsp n. 1.746.751/SC, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 2/2/2021, DJe 8/2/2021).
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. AUSÊNCIA DE ELEMENTOS QUE INDIQUEM A DEDICAÇÃO DO ACUSADO EM ATIVIDADES CRIMINOSAS. QUANTIDADE E NATUREZA DA DROGA. APLICABILIDADE DO ÍNDICE EM MENOR EXTENSÃO. REGIME PRISIONAL. QUANTIA E ESPÉCIE DO ENTORPECENTE. MODO SEMIABERTO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITO. FALTA DE PREENCHIMENTO DE REQUISITO SUBJETIVO. MANIFESTA ILEGALIDADE VERIFICADA. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+..
+2. Os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas (art. 33, § 4º, da Lei n. 11.343/2006).
+3. Hipótese em que à míngua de elementos probatórios que denotem a habitualidade delitiva do paciente ou ser ele integrante de organização criminosa, e considerando a sua primariedade e seus bons antecedentes, a quantidade da droga apreendida - 27,2g de maconha e 43,8g de cocaína - não se mostra excessiva para impedir a concessão de benefício em questão, cabendo, assim, a aplicação do redutor do art. 33, § 4º, da Lei n. 11.343/2006 na fração 1/2, atento aos vetores do art. 42 da referida Lei.
+..
+6. Habeas corpus não conhecido. Ordem concedida, de ofício, para fazer incidir a causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006 na fração de 1/2, redimensionando a pena do paciente para 2 anos e 6 meses de reclusão mais 250 dias-multa, bem como para estabelecer o regime semiaberto. (HC n. 517.105/SP, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 24/9/2019, DJe 30/9/2019).
+Desse modo, as sanções da paciente, ficam definitivamente estabilizadas em 1 ano e 8 meses de reclusão, além de 170 dias-multa (tráfico de drogas), e em 4 meses e 22 dias de detenção (resistência).
+Mantenho o regime inicial aberto e determino a substituição da pena privativa de liberdade por medidas restritivas de direitos, nos termos do art. 44, I, II e III, do Código Penal.
+Ante o exposto, com fulcro no art. 34, XX, do RISTJ, não conheço do habeas corpus. Todavia, concedo a ordem, ex officio, para fixar ao paciente as penas de 1 ano e 8 meses de reclusão, além de 170 dias-multa (tráfico de drogas), além de 4 meses e 22 dias de detenção (resistência), a ser cumprida em regime inicial aberto, e determino também a substituição da pena privativa de liberdade por medidas restritivas de direitos, a critério do Juízo das Execuções Penais.
+Comunique-se, com urgência, o Tribunal impetrado e o Juízo de primeiro grau.
+Intimem-se.
+EMENTA
