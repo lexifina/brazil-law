@@ -1,0 +1,47 @@
+DECISÃO
+
+Trata-se de Ação Penal proposta em face de ADRIANA CAMARGO DA SILVA LEMES, julgada procedente, para CONDENAR A RÉ à pena de 1 (um) ano de reclusão e 20 (vinte) dias-multa, cada dia-multa no valor de 1/2 (meio) salário mínimo nacional, em regime inicial aberto para o início do cumprimento da pena, pois incursa nos artigos:
+
+- 286, parágrafo único (incitação ao crime equiparada pela animosidade das Forças Armadas contra os Poderes Constitucionais), do Código Penal, à pena de 20 (vinte) dias-multa, cada dia-multa no valor de 1/2 (meio) salário mínimo nacional.
+- 288 (associação criminosa), do Código Penal, à pena de 1 (um) ano de reclusão.
+
+Foi substituída a pena privativa de liberdade, nos termos do artigo 44, § 2º, do Código Penal, por penas restritivas de direitos, consistentes em:
+
+- (i) Prestação de serviços à comunidade ou a entidades públicas, pelo total de 225h (duzentas e vinte e cinco horas), observados os limites mensais de cumprimento no mínimo de 30h (trinta horas), em local a ser indicado pelo juízo de execução;
+- (ii) Participação presencial em curso, elaborado pelo Ministério Público Federal, com temática sobre “Democracia, Estado de Direito e Golpe de Estado”, com carga horária de 12h (doze horas), distribuída em 4 (quatro) módulos de 3h (três horas), a ser ministrado pelo juízo da execução;
+- (iii) Proibição de ausentar-se da Comarca em que reside, até a extinção da pena;
+- (iv) Proibição de utilização de redes sociais, até a extinção da pena;
+- (v) Manutenção da suspensão dos passaportes emitidos pela República Federativa do Brasil, em nome da condenada;
+- (vi) Revogação de registro ou porte de arma de fogo, se existente;
+- (vii) 20 (vinte) dias-multa, cada um no valor de 1/2 (meio) salário mínimo à época dos fatos, pela prática do crime previsto no artigo 286, parágrafo único, do Código Penal (incitação ao crime equiparada pela animosidade das Forças Armadas contra os Poderes Constitucionais).
+
+A ré também foi condenada ao pagamento do valor mínimo indenizatório a título de danos morais coletivos de R$ 5.000.000,00 (cinco milhões de reais), a ser adimplido de forma solidária pelos demais condenados, em favor do fundo a que alude o art. 13 da Lei 7.347/1985.
+Foi fixado o regime aberto para o início do cumprimento da pena.
+O acórdão condenatório transitou em julgado em 10/2/2026, conforme certificado pela Secretaria Judiciária (eDoc. 155).
+Em 27/2/2026, em razão do trânsito em julgado desta Ação Penal, determinei o início do cumprimento das penas restritivas de direitos impostas a ADRIANA CAMARGO DA SILVA LEMES (eDoc.156).
+Em 11/9/2026, o Juízo da Vara de Execução de Penas e Medidas Alternativas de Goiânia/GO comunicou que “considerando que a este juízo foi delegado tão somente o acompanhamento e a fiscalização das penas impostas ao reeducando, declino da análise do pedido de abatimento de horas na prestação de serviço pela doação de sangue realizada pela sentenciada (evento 25), submetendo à apreciação do Supremo Tribunal Federal” (eDocs.169-177).
+Com vista dos autos, a Procuradoria-Geral da República manifestou-se pelo “indeferimento do abatimento das horas de prestação de serviços à comunidade”(eDoc.180).
+
+É o relatório. DECIDO.
+
+A  apenada requereu a remição/abatimento da pena de prestação de serviço à comunidade pela doação de sangue.
+A pretensão não merece acolhimento.
+Embora a Portaria nº 001, de 11 outubro de 2022, do Tribunal de Justiça do Estado de Goiás, estabeleça a doação voluntária de sangue como abatimento da prestação de serviços à comunidade, tal regulamentação não encontra amparo na Lei de Execução Penal.
+A prestação de serviços à comunidade possui disciplina específica nos artigos 46 do Código Penal e 149 e seguintes da Lei de Execução Penal, os quais estabelecem sua forma de cumprimento e as hipóteses legalmente admitidas de alteração, conversão ou extinção. Em nenhum momento, o ordenamento jurídico prevê a substituição, compensação ou remição dessa modalidade de pena mediante doação de sangue.
+Assim, a criação de hipótese de abatimento da reprimenda por ato administrativo representa verdadeira inovação normativa em matéria de direito penal e de execução penal, campos submetidos ao princípio da  legalidade estrita.
+Nesse sentido é a manifestação da Procuradoria-Geral da República (eDoc.180):
+
+“Não há previsão legal para o abatimento das horas de prestação de serviços à comunidade por meio de doação de sangue.
+ O art. 43 do Código Penal prevê, de forma taxativa, as espécies de penas restritivas de direitos admitidas pelo ordenamento jurídico, entre elas a prestação de serviços à comunidade. Logo, no direito penal, vigora o princípio da legalidade estrita, sendo vedada a criação judicial de novas modalidades de pena ou de formas alternativas de cumprimento não previstas em lei.
+A manifestação é pelo indeferimento do abatimento das horas de prestação de serviços à comunidade”.
+
+Diante do exposto, nos termos dos artigos 21 e 341 do Regimento Interno do SUPREMO TRIBUNAL FEDERAL,  INDEFIRO o requerimento formulado pela apenada ADRIANA CAMARGO DA SILVA LEMES.
+Comunique-se ao Juízo da Vara de Execução de Penas e Medidas Alternativas de Goiânia/GO.
+Intimem-se os advogados regularmente constituídos.
+Ciência à Procuradoria-Geral da República.
+Publique-se.
+Brasília, 23 de setembro de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
