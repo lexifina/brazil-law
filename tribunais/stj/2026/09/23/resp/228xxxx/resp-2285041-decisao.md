@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão da 21ª Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 704/709):
+AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO C/C INDENIZATÓRIA - Sentença de improcedência - "Golpe do resgate de pontos Livelo" - Autor que recebeu SMS, clicou no link enviado e forneceu sua senha bancária - Culpa exclusiva da vítima - Falta de cautela do consumidor, que não adotou os cuidados necessários - Excludente de responsabilidade - Inteligência do art. 14, § 3º, II do CDC - Inexistência de falha na prestação de serviços do banco e ausência de nexo de causalidade entre a conduta deste e o dano sofrido pelo requerente, a justificar o pedido indenizatório - Não demonstrado o vazamento de informações pelo banco, bem como eventual desrespeito ao perfil do correntista, a afastar o pedido subsidiário de reconhecimento de culpa concorrente - Fortuito externo - Inaplicabilidade da Súmula 479 do C. STJ - SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+O recurso especial aponta violação ao art. 14 do Código de Defesa do Consumidor.
+Nas razões do recurso especial, a parte recorrente aponta ofensa ao art. 14 do Código de Defesa do Consumidor, argumentando que fraudes bancárias digitais configuram fortuito interno e impõem responsabilidade objetiva à instituição financeira pelo risco do empreendimento, com dever de segurança e monitoramento do perfil de transações, afastando a conclusão de culpa exclusiva da vítima.
+Sustenta divergência jurisprudencial ao afirmar que, em cenário de fraude com utilização de dados sensíveis do consumidor e operações destoantes do perfil, há falha no dever de segurança do banco e concorrência de causas, reconhecendo-se a responsabilidade da instituição financeira e a inaplicabilidade de fortuito externo ou culpa exclusiva do consumidor.
+Nas contrarrazões de fls. 688-695, o Banco Bradesco S/A sustenta culpa exclusiva do consumidor, inexistência de falha na prestação do serviço e ausência de nexo causal, invocando o art. 14, § 3º, II, do Código de Defesa do Consumidor e pugnando pela manutenção da improcedência.
+É o relatório.
+DECIDO.
+O recurso especial é tempestivo e cabível, pois interposto em face de acórdão que negou provimento à apelação.
+Originariamente, trata-se de ação declaratória de inexigibilidade de débito cumulada com indenização por danos morais e pedido de tutela de urgência proposta por André Lima Silva em face de Banco Bradesco S/A. O autor narrou ter recebido SMS sobre expiração de pontos Livelo, clicado em link e fornecido dados, com posterior movimentação de R$ 1.000,00 em 30/11/2023 em favor de terceiro, utilizando cheque especial, com saldo prévio de R$ 3,22 e negativação, tendo requerido declaração de inexigibilidade, exclusão da restrição e indenização de R$ 15.000,00.
+A sentença julgou improcedentes os pedidos, manteve a gratuidade da justiça, afastou a ilegitimidade passiva e reconheceu culpa exclusiva da vítima, com extinção do processo com resolução de mérito e condenação do autor ao pagamento de custas e honorários fixados em 10% sobre o valor atualizado da causa.
+O Tribunal de origem negou provimento à apelação, adotou a tese de culpa exclusiva do consumidor, aplicou o art. 14, § 3º, II, do Código de Defesa do Consumidor, reputou fortuito externo, afastou a incidência da Súmula 479/STJ e majorou os honorários para 15% sobre o valor atualizado da causa, observada a justiça gratuita.
+A insurgência não merece prosperar.
+O Tribunal de origem, ao valorar o conjunto fático-probatório dos autos, fixou as seguintes premissas: (i) o autor "entrou no referido link, fornecendo sua senha bancária" (fl. 707); (ii) "não restou demonstrado qualquer vazamento de informações pelo banco, bem como eventual desrespeito ao perfil do correntista" (fl. 708); (iii) reconheceu a ocorrência de fortuito externo e a culpa exclusiva da vítima (art. 14, § 3º, II, do Código de Defesa do Consumidor), afastando a aplicação da Súmula nº 479/STJ (fls. 705/708).
+A pretensão recursal busca infirmar tais conclusões fáticas, para converter o fortuito externo em fortuito interno, reconhecer falha no dever de segurança por suposto vazamento de dados e afastar a culpa exclusiva do consumidor. Todavia, o acolhimento dessas teses demandaria o revolvimento do acervo fático-probatório, providência vedada na via especial, à luz da Súmula nº 7 do Superior Tribunal de Justiça.
+A propósito, a jurisprudência desta Corte é firme no sentido de que, reconhecidas pelas instâncias ordinárias a inexistência de defeito na prestação do serviço e a culpa exclusiva da vítima em casos de fraude, a modificação desse entendimento esbarra na Súmula nº 7/STJ:
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DIREITO DO CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA. FRAUDE BANCÁRIA. COBRANÇA EM FATURA DE CARTÃO DE CRÉDITO. SERVIÇO "PAGUE CONTAS". RESPONSABILIDADE CIVIL. FALHA NA PRESTAÇÃO DE SERVIÇO. ÔNUS DA PROVA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. Na hipótese, o Tribunal de origem, com base na análise do conjunto fático-probatório, concluiu que a parte autora não apresentou prova mínima dos fatos constitutivos de seu direito, não havendo indícios de fraude ou falha na prestação do serviço, uma vez que a operação foi autenticada mediante senha pessoal e token de segurança.
+2. Rever o entendimento firmado pela Corte local, no que tange à regularidade da operação e à ausência de falha na prestação do serviço, demandaria o revolvimento do acervo fático-probatório dos autos, procedimento vedado pela Súmula nº 7/STJ.
+3. A incidência da Súmula nº 7/STJ obsta a admissão do recurso especial por qualquer das alíneas do permissivo constitucional, ficando prejudicada a análise da divergência jurisprudencial.
+4. Agravo conhecido para não conhecer do recurso especial.
+(AREsp n. 3.200.527/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 31/8/2026, DJEN de 4/9/2026.)
+DIREITO PROCESSUAL CIVIL E DO CONSUMIDOR. RECURSO ESPECIAL. RESPONSABILIDADE CIVIL POR OPERAÇÕES BANCÁRIAS DURANTE SEQUESTRO-RELÂMPAGO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULAS 7 E 83 DO STJ. FORTUITO EXTERNO. JUÍZO DE ADMISSIBILIDADE. RECURSO ESPECIAL NÃO CONHECIDO.
+1. O acórdão de origem examinou de modo suficiente e fundamentado as questões essenciais, afastando omissão, contradição ou obscuridade, inexistindo violação aos arts. 489, § 1º, III, IV e VI, e 1.022, I e II, do CPC.
+2. A aferição de eventual inovação recursal demandaria cotejo entre contestação, apelação, contrarrazões e limites da devolutividade, providência que implica reexame do contexto processual e fático-probatório, atraindo o óbice da Súmula 7/STJ.
+3. As premissas fixadas pela Corte local - sequestro ocorrido fora da esfera de vigilância do banco, operações realizadas com cartão e senha pessoais, dentro dos limites disponíveis, sem prévia comunicação à instituição e sem desvio do perfil do consumidor - afastam falha na prestação do serviço e configuram fortuito externo apto a romper o nexo causal, nos termos do art. 14, § 3º, II, do CDC.
+4. A pretensão de reconhecer defeito do serviço, atipicidade das movimentações, insuficiência de mecanismos de segurança ou fortuito interno exigiria revolvimento do acervo probatório, vedado em recurso especial, incidindo a Súmula 7/STJ.
+5. O acórdão recorrido harmoniza-se com a orientação desta Corte para eventos criminosos fora da esfera de controle da instituição financeira sem demonstração de falha específica, o que atrai a Súmula 83/STJ.
+6. O dissídio jurisprudencial não comporta conhecimento, pois a verificação de similitude fática com os paradigmas demanda revolvimento probatório e, no caso, as premissas delineadas afastam a identidade fático-jurídica necessária.
+7. O juízo de admissibilidade realizado na origem não vincula o Superior Tribunal de Justiça, competindo-lhe novo exame de admissibilidade do apelo nobre.
+8. Aplicação do art. 932, III, do CPC para não conhecer do recurso especial e majoração dos honorários advocatícios, nos termos do art. 85, § 11, do CPC, observado o art. 98, § 3º, do CPC.
+9. Recurso especial não conhecido, com majoração dos honorários advocatícios.
+(REsp n. 2.270.055/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 22/6/2026, DJEN de 29/6/2026.)
+No caso concreto, o recorrente pretende, em essência, rediscutir os fatos definidos na origem para atrair a responsabilidade objetiva da instituição financeira, o que não é possível na via eleita.
+Incidente o óbice apontado acima quanto à pretensão recursal aduzida sob o prisma da alínea "a" do permissivo constitucional, resta prejudicada a análise da mesma pretensão pela alínea "c".
+Nesse sentido:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. REVISÃO DE BENEFÍCIO. TETOS DAS EMENDAS CONSTITUCIONAIS 20/98 E 41/03. FORMA DE CÁLCULO. COEFICIENTE DE PROPORCIONALIDADE. CÁLCULO DO BENEFÍCIO. MOMENTO DA APLICAÇÃO. QUESTÃO DIRIMIDA SOB ENFOQUE EMINENTEMENTE CONSTITUCIONAL. USURPAÇÃO DA COMPETÊNCIA DO STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem fundamentou a decisão com base no acórdão proferido pelo Supremo Tribunal Federal, em repercussão geral, no RE 564.354/SE, razão pela qual descabe ao STJ se manifestar sobre a controvérsia recursal, sob pena de invadir a competência do STF.
+2. Assim, considerando que a tese recursal diz respeito à matéria analisada na origem à luz de fundamento constitucional, o con hecimento da matéria envolve, obrigatoriamente, o enfrentamento de matéria constitucional, inviável em recurso especial, sob pena de usurpação da competência do STF prevista no art. 102 da CRFB/88.
+3. Resta prejudicada a análise da alegada existência de divergência jurisprudencial, pela alínea "c" do permissivo constitucional, considerando o não conhecimento do recurso especial pela alínea "a".
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.079.972/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. TEMA N. 988 DO STJ. TAXATIVIDADE MITIGADA DO ART. 1.015 DO CPC. URGÊNCIA E REEXAME DE PROVAS. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática da Presidência que não conheceu do recurso especial por aplicação da Súmula n. 284 do STF.
+2. A controvérsia envolve embargos à execução e discute a possibilidade de agravo de instrumento contra indeferimento de complementação de prova pericial, nova prova pericial e prova oral, com valor da causa de R$ 2.590.427,02.
+3. A Corte de origem deu provimento ao agravo de instrumento para permitir a instrução probatória e rejeitou os embargos de declaração.
+II. QUESTÃO EM DISCUSSÃO
+4. Há duas questões em discussão: (i) saber se o recurso especial indicou de forma clara, expressa e precisa os dispositivos legais violados e apresentou cotejo analítico suficiente para afastar a Súmula n. 284 do STF; e (ii) saber se a controvérsia é exclusivamente de direito, sem reexame de provas, envolvendo a correta aplicação do Tema n. 988 do STJ acerca da taxatividade mitigada do art. 1.015 do CPC.
+III. RAZÕES DE DECIDIR
+5. A Súmula n. 284 do STF não incide, pois as razões do recurso especial permitem a exata compreensão da controvérsia;
+reconsidera-se o óbice formal inicialmente aplicado.
+6. O exame da alegada ausência de urgência para a recorribilidade imediata demanda revaloração do conjunto fático-probatório, o que atrai a Súmula n. 7 do STJ e impede o conhecimento do recurso especial.
+7. Incidindo a Súmula n. 7 do STJ quanto à alínea a do art. 105, III, da Constituição Federal, resta prejudicada a análise da divergência jurisprudencial pela alínea c sobre o mesmo tema.
+IV. DISPOSITIVO E TESE
+8. Agravo interno desprovido.
+..
+(AgInt no AREsp n. 3.025.310/SC, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 9/3/2026, DJEN de 12/3/2026.)
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, em 2% sobre o percentual já arbitrado ou em 10% se a verba houver sido fixada em valor líquido, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
