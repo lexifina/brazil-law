@@ -1,0 +1,9 @@
+DECISÃO
+1. Trata-se de habeas corpus impetrado em favor de WESLEY ADRIANO DE MELO em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO .
+É o relatório.
+2. Por meio do despacho de fl. 15 foi determinada a intimação da parte impetrante para que instruísse a inicial do habeas corpus com as peças necessárias ao exame da pretensão nele deduzida, sob pena de não conhecimento do writ.
+Entretanto, decorrido o prazo, não foram adotadas as providências necessárias pela parte requerente.
+3. Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
