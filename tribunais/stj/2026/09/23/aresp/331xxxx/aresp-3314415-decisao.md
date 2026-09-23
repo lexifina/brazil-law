@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ASSOCIAÇÃO DOS FUNCIONARIOS DO BANCO DA PROVINCIA DO RIO GRANDE DO SUL e BANCO SANTANDER (BRASIL) S.A. contra decisão que inadmitiu o recurso especial interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ, fl. 45):
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. FASE DE CUMPRIMENTO DE SENTENÇA. ASSOCIAÇÃO DOS FUNCIONÁRIOS DO BANCO DA PROVÍNCIA DO RIO GRANDE DO SUL. BANCO SANTANDER. INCIDÊNCIA DE CORREÇÃO MONETÁRIA E JUROS DE MORA SOBRE OS VALORES DEPOSITADOS A TÍTULO DE GARANTIA DO JUÍZO. TEMA 677 DO STJ. INEXISTÊNCIA DE MODULAÇÃO DE EFEITOS. APLICAÇÃO IMEDIATA. ENCARGOS MORATÓRIOS DEVIDOS. PERÍCIA ATUARIAL. PRESCINDIBILIDADE. DECISÃO RECORRIDA MANTIDA. AGRAVO DE INSTRUMENTO DESPROVIDO. AGRAVO INTERNO DESPROVIDO.
+Os embargos de declaração opostos pelas recorrentes foram rejeitados (e-STJ, fls. 59-62).
+Nas razões do recurso especial (e-STJ, fls. 65-74), as recorrentes apontam violação ao art. 1.022, incisos I e II, do Código de Processo Civil.
+Sustentam, em síntese, que o Tribunal de origem, mesmo após a oposição de embargos de declaração, não teria se manifestado adequadamente acerca da incidência do art. 334 do Código Civil e da Súmula 179/STJ, nem sobre as alegações relativas à estabilidade processual, ao ato jurídico perfeito e à consolidação da metodologia de cálculo anteriormente adotada no cumprimento de sentença. Argumentam, ainda, que os depósitos judiciais e os atos processuais invocados seriam anteriores à revisão da tese firmada no Tema 677/STJ e que a aplicação do novo entendimento acarretaria enriquecimento sem causa.
+Foram apresentadas contrarrazões (e-STJ, fls. 78-83).
+O recurso especial foi inadmitido na origem (e-STJ, fls. 84-92).
+No presente agravo (e-STJ, fls. 95-106), as recorrentes sustentam que a análise da apontada violação ao art. 1.022 do Código de Processo Civil prescinde de reexame do conjunto fático-probatório e reiteram a existência de omissão no acórdão recorrido.
+Houve contraminuta (e-STJ, fls. 108-113).
+É o relatório.
+DECIDO.
+O agravo é tempestivo, encontra-se formalmente em ordem e impugnou específica e suficientemente os fundamentos invocados pela decisão de inadmissibilidade na origem, razão pela qual passo ao exame do recurso especial.
+Quanto à alegada afronta ao art. 1.022, incisos I e II, do Código de Processo Civil, não se verifica negativa de prestação jurisdicional.
+Com efeito, o Tribunal de origem examinou expressamente as questões que as recorrentes reputam omitidas. Ao julgar os embargos de declaração, consignou (e-STJ, fl. 60):
+Não assiste razão à parte embargante, tendo em vista que o acórdão embargado apreciou de forma completa e suficiente todas as questões pertinentes, inexistindo omissão quanto aos dispositivos indicados nos aclaratórios. A decisão embargada examinou expressamente a aplicabilidade imediata da tese revisada do Tema 677/STJ, circunstância que afasta a pretensão de limitar seus efeitos ou de afastá-la sob o argumento de suposta estabilidade processual, ou ato jurídico perfeito. Ademais, a invocação do art. 334 do Código Civil e da Súmula 179 do STJ não tem o condão de afastar a orientação vinculante firmada pela Corte Especial, a qual trata justamente da distinção entre o depósito como garantia e o efetivo adimplemento, ponto este enfrentado no julgamento, o que afasta a alegação de omissão.
+Constata-se, portanto, que houve pronunciamento específico acerca do art. 334 do Código Civil, da Súmula 179/STJ, da alegada estabilidade processual e do ato jurídico perfeito, bem como da aplicação imediata da tese revisada no Tema 677/STJ. A circunstância de o Tribunal de origem ter rejeitado as teses sustentadas pelas recorrentes não caracteriza negativa de prestação jurisdicional.
+Conforme o entendimento desta Corte, " n ão procede a arguição de ofensa ao 1.022 do CPC, quando o Tribunal Estadual se pronuncia, de forma motivada e suficiente, sobre os pontos relevantes e necessários ao deslinde da controvérsia" (AgInt no REsp n. 1.899.000/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023.)
+Ressalte-se que não se pode confundir decisão desfavorável aos interesses da parte com negativa de prestação jurisdicional, nem fundamentação concisa com ausência de fundamentação, de modo que, constatada a pronúncia expressa e suficiente acerca dos temas indicados como omissos, não assiste razão aos recorrentes.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Deixo de fixar honorários recursais, porquanto incabíveis na espécie.
+Publique-se. Intimem-se.
+EMENTA
