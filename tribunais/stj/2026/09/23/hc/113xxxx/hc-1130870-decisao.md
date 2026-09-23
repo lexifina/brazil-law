@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MATEUS LIMA DA SILVA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC n. 1.0000.26.456583-9).
+Consta que o paciente foi preso em flagrante, em 23/02/2026, com posterior conversão da custódia em preventiva, em razão da suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006 (houve apreensão de 1.229,75 gramas de maconha e 45,5 gramas de cocaína).
+A Defesa, pugnando pela revogação da prisão preventiva, impetrou habeas corpus na Corte de origem, que denegou a ordem (fls. 25-36).
+Neste writ, a parte impetrante sustenta, em suma, que ocorre excesso de prazo para a formação da culpa.
+Argumenta que houve violação à Súmula Vinculante n. 14 do Supremo Tribunal Federal, em razão de restrições indevidas ao acesso aos elementos informativos já documentados, inclusive mídias e imagens requisitadas, bem como do impedimento de acompanhamento, pelo advogado, das oitivas de policiais responsáveis pela prisão no momento da lavratura do auto de prisão em flagrante, o que comprometeria a efetividade do contraditório e da ampla defesa.
+Requer, liminarmente e no mérito, o relaxamento da prisão preventiva e, subsidiariamente, a sua substituição por cautelares diversas.
+É o relatório.
+Decido.
+Preliminarmente, ressalto que, conforme o entendimento consolidado desta Corte, as disposições contidas nos arts. 64, inciso III, e 202, do Regimento Interno do Superior Tribunal de Justiça não afastam a prerrogativa do relator de apreciar liminarmente, em habeas corpus ou recurso em habeas corpus, a pretensão que esteja em conformidade com súmula ou com a jurisprudência consolidada dos Tribunais Superiores, ou, ainda, que as contrarie, v.g. AgRg no HC n. 856.046/SP, de relatoria do Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023.
+Assim, passo a analisar diretamente o pedido formulado na insurgência.
+No tocante ao alegado excesso de prazo para a formação da culpa, anoto que a aferição de eventual retardo na condução de processos judiciais não resulta de uma simples soma dos prazos processuais. Trata-se de uma análise que convoca a aplicação do princípio da razoabilidade, segundo o qual a demora no trâmite processual deve ser avaliada à luz das particularidades do caso concreto. A mera extrapolação dos prazos legalmente previstos não induz, de forma automática, o reconhecimento da ilegalidade, sendo imprescindível a demonstração de que a delonga é injustificada e decorre de desídia do aparato judicial (AgRg no HC n. 907.485/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024.).
+A análise, portanto, é casuística e demanda uma ponderação entre a duração da prisão e a complexidade da causa, a pluralidade de réus, a necessidade de diligências específicas (como a expedição de cartas precatórias ou a realização de perícias) e a eventual contribuição da defesa para a demora processual.
+No caso em exame, o Tribunal de origem, ao analisar a questão, apresentou fundamentação idônea para afastar, por ora, a alegação de mora processual injustificada. Confira-se o seguinte trecho do acórdão impugnado (fl. 30):
+.. À vista disso, extrai-se das informações prestadas pelo magistrado de primeira instância que o inquérito policial foi distribuído em 25 de março de 2026 tendo, portanto, se passado menos de cinco meses desde seu início.
+Sendo assim, entendo que não restou demonstrada a indolência judiciária apta a caracterização de excesso de prazo.
+Verifica-se que a dilação temporal decorreu da natureza complexa do feito, que busca averiguar não só as questões relativas a grande quantidade de droga apreendida, mas também a possibilidade de envolvimento de terceiros como coparticipes do crime, o que evidencia as peculiaridades do caso concreto. Ademais, certo é que até o presente momento a tramitação processual acontece de forma regular.
+Perante todo o exposto, entendo que não restou demonstrada a indolência judiciária apta a caracterização de excesso de prazo, sendo indevido o relaxamento da prisão.
+Do excerto transcrito, verifica-se que o feito, ao que parece, tem seu ritmo justificado pelas peculiaridades da causa, uma vez que não se mostra exagerado o interregno da custódia, se considerado o tempo concreto de prisão preventiva ante a quantidade de pena abstrata do crime pelo qual o paciente está sendo investigado: art. 33, caput, da Lei n. 11.343/2006.
+Ademais, foram destacadas circunstâncias que contribuem para o ritmo processual no caso concreto não ser tão célere quanto o que se almeja, que são as peculiaridades do feito, uma vez que a foi apreendida substancial quantidade de droga e investiga-se o envolvimento de terceiros como copartícipes do crime.
+Não se vislumbra, a partir dos elementos constantes dos autos, um cenário de inércia, desídia ou paralisação indevida da máquina judiciária. Pelo contrário, o processo segue seu curso regular, com a prática dos atos necessários à elucidação dos fatos.
+A propósito:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. EXCESSO DE PRAZO NA INSTRUÇÃO CRIMINAL. INEXISTÊNCIA. RECURSO DESPROVIDO. I. CASO EM EXAME
+(..)
+6. A alegação de excesso de prazo não se sustenta, pois o processo tramita de forma compatível com sua complexidade, que envolve mais de 20 réus, vários advogados, diligências pendentes e audiências redesignadas por necessidade probatória, sem desídia do juízo.
+7. A jurisprudência pacífica desta Corte considera que o excesso de prazo não pode ser aferido apenas por critério cronológico, devendo-se aplicar juízo de razoabilidade diante das peculiaridades do caso concreto.
+8. A existência de novos aditamentos à denúncia e a redesignação de audiências visam preservar o contraditório e a ampla defesa, não sendo indicativos de morosidade indevida.
+IV. RECURSO DESPROVIDO. (AgRg no RHC n. 214.014/PR, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 13/8/2025, DJEN de 19/8/2025; grifamos).
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. INTEGRAR ORGANIZAÇÃO CRIMINOSA. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O MESMO FIM. LAVAGEM DE DINHEIRO. OPERAÇÃO MANGUEZAIS. NEGATIVA DE AUTORIA. APROFUNDADO EXAME FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. PEDIDO DE EXTENSÃO DA LIBERDADE PROVISÓRIA CONCEDIDA A OUTRAS DENUNCIADAS. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. NECESSIDADE DE REDUZIR OU INTERROMPER A ATIVIDADE DO GRUPO CRIMINOSO. RESGUARDO DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA. MOTIVAÇÃO IDÔNEA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE ATO PROCRASTINATÓRIO POR PARTE DAS AUTORIDADES PÚBLICAS. IMPULSIONAMENTO DO PROCESSO DE FORMA REGULAR. COMPLEXIDADE DO FEITO. DESMEMBRAMENTO DO PROCESSO EM RELAÇÃO À PACIENTE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTES. PARECER ACOLHIDO. HABEAS CORPUS CONHECIDO EM PARTE E, NESSA EXTENSÃO, ORDEM DENEGADA.
+I. Caso em exame
+1. Habeas corpus impetrado em favor de paciente cuja prisão preventiva foi decretada no âmbito da Operação Manguezais, que investiga organização criminosa voltada para tráfico de drogas, associação para o tráfico e lavagem de dinheiro, dentre outros crimes. A defesa alega constrangimento ilegal por excesso de prazo na formação da culpa, ausência de fundamentação idônea para a prisão e inexistência de indícios mínimos de autoria.
+2. O Tribunal de Justiça de Pernambuco denegou a ordem e convalidou a prisão preventiva, destacando a fundamentação baseada na garantia da ordem pública e na aplicação da lei penal, com indícios de participação ativa da paciente no tráfico de drogas.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a prisão preventiva da paciente está devidamente fundamentada e se há excesso de prazo na formação da culpa que justifique a concessão da ordem de habeas corpus.
+III. Razões de decidir
+(..)
+6. Não há excesso de prazo na formação da culpa, considerando a complexidade do caso, o número de réus e a quantidade de fatos imputados, além de não haver desídia do juízo ou do Ministério Público.
+IV. Dispositivo e tese
+7. Habeas corpus conhecido em parte e, nessa extensão, ordem denegada.
+Tese de julgamento: "1. A prisão preventiva é idônea quando fundamentada na garantia da ordem pública e na aplicação da lei penal, com base em indícios de participação em organização criminosa. 2. Não há excesso de prazo na formação da culpa em casos complexos, considerando a quantidade de réus e fatos imputados, desde que não haja desídia do juízo ou do Ministério Público."
+Dispositivos relevantes citados: CPP, art. 312; CPP, art. 313, inciso I.
+Jurisprudência relevante citada: STJ, AgRg no RHC 171.820/PR, Min. Laurita Vaz, Sexta Turma, DJe 20/4/2023; STF, HC 191.068-AgR, Min. Gilmar Mendes, relator p/ acórdão Min. Nunes Marques, Segunda Turma, julgado em 8/4/2021, DJe 16/6/2021. (HC n. 975.776/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/6/2025, DJEN de 23/6/2025; grifamos).
+Apenas para fins de registro, pontuo que, em consulta ao site do Tribunal de Justiça do Estado de Minas Gerais, pude constatar nos autos da Ação Penal em comento (n. 5004280-34.2026.8.13.0145) que o Ministério Público já ofereceu a denúncia contra o paciente e que, em 15/9/2026, o Juízo singular a recebeu, designando a audiência de instrução e julgamento para o dia 28/10/2026. Portanto, ao que parece, o feito, realmente, apresenta trâmite regular.
+Por fim, quanto à tese de violação ao enunciado da Súmula Vinculante n. 14/STF, cumpre salientar que a matéria não foi examinada pelo Tribunal de origem no acórdão impugnado, o que impede a manifestação originária desta Corte, sob pena de supressão de instância.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE RESPONSABILIDADE DE PREFEITO. FALSIDADE IDEOLÓGICA, POR 13 VEZES. NULIDADE. QUEBRA DE SIGILO TELEFÔNICO E TELEMÁTICO. INEXISTÊNCIA DE DILIGÊNCIA PRÉVIA. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. DIVERSAS DILIGÊNCIAS PREPARATÓRIAS. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+2. O Tribunal de origem não analisou o tema no viés ora delineado pela defesa, ficando esta Corte impedida de apreciar a matéria, sob pena de indevida supressão de instância.
+(..)
+5. Agravo regimental desprovido. (AgRg no HC n. 864.854/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/9/2025, DJEN de 9/9/2025.)
+Ante o exposto, conheço parcialmente da impetração e, nessa extensão, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
