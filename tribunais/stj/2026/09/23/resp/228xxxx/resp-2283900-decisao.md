@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fls. 120/121):
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CONTRATO DE ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. INADIMPLEMENTO ABSOLUTO. ALEGADA ABUSIVIDADE DE ENCARGOS ACESSÓRIOS. MORA CONFIGURADA. POSSIBILIDADE DE CONCESSÃO DE LIMINAR DE BUSCA E APREENSÃO. RECURSO DESPROVIDO. A ausência da taxa de juros diária não afasta a con guração da mora quando o contrato explicita as taxas mensal e anual, além do Custo Efetivo Total (CET), assegurando o dever de informação previsto na legislação consumerista.
+A eventual abusividade de encargos acessórias como tarifas administrativas ou capitalização de juros não compromete a exigibilidade do valor principal, tampouco impede a concessão da liminar de busca e apreensão.
+O inadimplemento absoluto da obrigação contratual, sem qualquer pagamento, inclusive do valor principal, con gura mora su ciente para justi car a retomada do bem alienado duciariamente, nos termos do art. 3º e §3º do Decreto-Lei nº 911/69.
+A jurisprudência do STJ (Tema 972) estabelece que a abusividade de cláusulas acessórias não descaracteriza a mora nem afasta a eficácia da tutela executiva fundada na garantia fiduciária.
+O reconhecimento da mora se dá inclusive em casos de cumprimento imperfeito da obrigação, conforme doutrina de Pontes de Miranda, sendo inadmissível o uso oportunista de ações revisionais como mecanismo para manter o bem sem qualquer contraprestação.
+A limitação à efetividade da busca e apreensão com base em vícios parciais do contrato fragiliza a segurança jurídica e impacta negativamente o mercado de crédito, desestimulando o acesso a nanciamento em condições justas e equilibradas.
+Os embargos de declaração opostos foram rejeitados (fls. 160-161, 163-164).
+Nas razões do recurso especial, a parte recorrente alega que o acórdão recorrido violou os arts. 6º, III e VIII, 39, V, 46 e 52 do Código de Defesa do Consumidor (fls. 169-175).
+Aponta ofensa aos arts. 6º, III e VIII, 46 e 52 do Código de Defesa do Consumidor, ao argumento de que a previsão contratual de capitalização diária de juros sem a informação expressa da taxa diária viola o dever de informação e a boa-fé, caracteriza abusividade no período da normalidade e impõe a descaracterização da mora, com a consequente revogação da liminar de busca e apreensão (fls. 169-175).
+Aponta violação do entendimento consolidado no REsp 1.061.530/RS e na correta interpretação do Tema 972 do Superior Tribunal de Justiça, sustentando que a abusividade de encargos da normalidade contratual, notadamente juros remuneratórios e capitalização, descaracteriza a mora, devendo o mérito ser apreciado para julgar improcedente a ação de busca e apreensão e manter a posse do bem com o consumidor (fls. 170-177).
+Sustenta divergência jurisprudencial, afirmando existir dissídio com julgados de outros tribunais e do Superior Tribunal de Justiça que reconhecem a abusividade da capitalização diária sem taxa e a consequente descaracterização da mora em casos similares, com manutenção do bem na posse do consumidor e inviabilidade da busca e apreensão (fls. 178-181).
+Nas contrarrazões de fls. 190-201, BANCO VOTORANTIM S.A. sustenta a incidência das Súmulas 7/STJ e 83/STJ, defende a legalidade da capitalização e a suficiência da informação das taxas mensal, anual e do CET, afirma que eventual abusividade não afasta a mora nem impede a liminar de busca e apreensão e requer a manutenção do acórdão e a negativa de provimento ao recurso especial.
+É o relatório.
+DECIDO.
+O recurso especial é tempestivo e cabível, pois interposto em face de acórdão que negou provimento ao agravo de instrumento (fls. 108; 120/121).
+Originariamente, trata-se de ação de busca e apreensão proposta por BANCO VOTORANTIM S.A. em razão de inadimplemento contratual em financiamento de veículo com garantia de alienação fiduciária, na qual foi requerida medida liminar de apreensão do bem e, ao final, a consolidação da propriedade e posse plena. O devedor alegou abusividade no período da normalidade contratual por capitalização diária dos juros remuneratórios sem indicação da taxa diária e postulou gratuidade e afastamento da mora.
+O juízo de primeiro grau deferiu a liminar de busca e apreensão, com autorização de força policial e arrombamento se necessário, após entender comprovada a mora conforme contrato e notificação juntados.
+O Tribunal de Justiça de Minas Gerais, por maioria, negou provimento ao agravo de instrumento, mantendo a liminar, sob o fundamento de que a ausência da taxa diária não afasta a mora quando previstas as taxas mensal e anual e o Custo Efetivo Total, que eventual abusividade de encargos acessórios não afeta a exigibilidade do principal e que o inadimplemento absoluto configura mora suficiente, alinhando o entendimento ao Tema 972 do Superior Tribunal de Justiça.
+Feito esse breve retrospecto, observo que o recurso especial deve ser conhecido e provido.
+A Segunda Seção do Superior Tribunal de Justiça firmou entendimento de que, pactuada a capitalização diária de juros, é imprescindível a informação da taxa diária, sendo insuficiente a mera menção às taxas efetivas mensal e anual, sob pena de violação ao dever de informação e abusividade da cláusula. Veja-se:
+RECURSO ESPECIAL. DIREITO CIVIL, PROCESSUAL CIVIL E DO CONSUMIDOR. (EN. 3/STJ). CÉDULA DE CRÉDITO BANCÁRIO. CAPITALIZAÇÃO DIÁRIA DE JUROS REMUNERATÓRIOS. TAXA DIÁRIA NÃO INFORMADA. VIOLAÇÃO AO DEVER DE INFORMAÇÃO. ABUSIVIDADE.
+1. Controvérsia acerca do cumprimento de dever de informação na hipótese em que pactuada capitalização diária de juros em contrato bancário.
+2. Necessidade de fornecimento, pela instituição financeira, de informações claras ao consumidor acerca da periodicidade da capitalização dos juros adotada no contrato, e das respectivas taxas.
+3. Insuficiência da informação acerca das taxas efetivas mensal e anual, na hipótese em que pactuada capitalização diária, sendo imprescindível, também, informação acerca da taxa diária de juros, a fim de se garantir ao consumidor a possibilidade de controle "a priori" do alcance dos encargos do contrato. Julgado específico da Terceira Turma.
+4. Na espécie, abusividade parcial da cláusula contratual na parte em que, apesar de pactuar as taxas efetivas anual e mensal, que ficam mantidas, conforme decidido pelo acórdão recorrido, não dispôs acerca da taxa diária.
+5. RECURSO ESPECIAL DESPROVIDO, COM MAJORAÇÃO DE HONORÁRIOS.
+(REsp n. 1.826.463/SC, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 14/10/2020, DJe de 29/10/2020.)
+Colham-se precedentes mais recentes:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. CAPITALIZAÇÃO DIÁRIA DE JUROS SEM INDICAÇÃO DA TAXA. MORA AFASTADA. OMISSÃO SOBRE AS CONSEQUÊNCIAS PRÁTICAS. EFEITOS INFRINGENTES. EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO. DEVOLUÇÃO DO VEÍCULO OU RESSARCIMENTO PELO VALOR DE MERCADO NA DATA DA APREENSÃO. MULTA DO ART. 3º, § 6º, DO DECRETO-LEI Nº 911/1969. INAPLICABILIDADE. EMBARGOS DE DECLARAÇÃO ACOLHIDOS COM EFEITOS INFRINGENTES
+1. Embargos de declaração contra acórdão que, ao prover o recurso especial para afastar a mora por abusividade da capitalização diária de juros sem indicação da taxa, julgou improcedente a busca e apreensão sem enfrentar as consequências jurídicas da descaracterização da mora.
+2. A ausência de constituição válida em mora do devedor fiduciante impede o processamento da ação de busca e apreensão, impondo sua extinção sem resolução de mérito (art. 485, IV, do CPC). A apreensão indevida do bem acarreta sua restituição ou, na impossibilidade, o ressarcimento do valor de mercado à época da constrição (Tabela FIPE), devidamente atualizado.
+3. A penalidade do art. 3º, § 6º, do Decreto-Lei nº 911/1969 não incide em hipóteses de extinção sem julgamento de mérito.
+Precedentes.
+4. Embargos de declaração acolhidos, com efeitos modificativos
+(EDcl no REsp n. 2.210.784/SC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 31/8/2026, DJEN de 3/9/2026.)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282/STF. REVISÃO DO JULGADO. REEXAME DE PROVAS E DE CLÁUSULAS CONTRATUAIS. APLICAÇÃO DE ÓBICES SUMULARES. CONSONÂNCIA JURISPRUDENCIAL. SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial em demanda bancária na qual se discute capitalização diária de juros, dever de informação e descaracterização da mora.
+2. A parte agravante sustenta a presença dos requisitos de admissibilidade, requerendo o afastamento da incidência das Súmulas 282/STF, 5 e 7/STJ e 83/STJ e afirma que o acórdão de origem teria apreciado a validade da cláusula de capitalização diária, sendo desnecessário reexame fático-probatório.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o agravo interno supera os óbices de admissibilidade do recurso especial, notadamente: (i) a falta de prequestionamento dos arts. 1º e 4º, IX, da Lei 4.595/1964; (ii) a vedação ao reexame de cláusulas contratuais e de provas (Súmulas 5 e 7/STJ); e (iii) a incidência da Súmula 83/STJ, diante da conformidade do acórdão recorrido com a jurisprudência do STJ sobre capitalização diária de juros, dever de informação e descaracterização da mora.
+III. Razões de decidir
+4. Inexiste prequestionamento útil dos arts. 1º e 4º, IX, da Lei 4.595/1964, pois o Tribunal de origem decidiu a controvérsia sob a ótica do dever de informação do CDC.
+5. A revisão da conclusão do acórdão recorrido - de que a capitalização diária sem informação da taxa diária viola transparência e dever de informação, configurando abusividade e descaracterizando a mora - demandaria reinterpretação de cláusulas contratuais e reexame do acervo probatório, providência vedada pelas Súmulas 5 e 7/STJ.
+6. O entendimento do acórdão recorrido está em consonância com a jurisprudência do STJ que admite a capitalização diária apenas com informação clara da taxa diária e reconhece a descaracterização da mora diante de abusividade de encargos na normalidade contratual, atraindo a incidência da Súmula 83/STJ.
+IV. Dispositivo
+7. Agravo interno não provido
+(AgInt no AREsp n. 3.048.781/GO, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 30/6/2026, DJEN de 3/7/2026.)
+No caso concreto, o contrato prevê capitalização diária sem a indicação da taxa diária (fls. 113), hipótese subsumida à tese do REsp nº 1.826.463/SC, que reputa abusiva a cobrança nessa parte, e atrai, por consectário lógico, a descaracterização da mora.
+Ante o exposto, conheço do recurso especial e dou-lhe provimento para:
+a) declarar abusiva a capitalização diária de juros remuneratórios sem a indicação expressa da taxa diária contratada;
+b) reconhecer a descaracterização da mora por abusividade de encargos exigidos no período de normalidade contratual (juros remuneratórios e capitalização);
+c) julgar extinta, sem resolução de mérito, a ação de busca e apreensão, por ausência de constituição válida em mora (art. 485, IV, do Código de Processo Civil), determinando, se houver apreensão, a restituição do veículo ao devedor fiduciante e, na impossibilidade, o ressarcimento do valor de mercado à época da constrição (Tabela FIPE), devidamente atualizado; e afastar a aplicação da multa prevista no art. 3º, § 6º, do Decreto-Lei nº 911/1969.
+Sem honorários recursais, diante do provimento do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
