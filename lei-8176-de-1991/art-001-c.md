@@ -1,0 +1,1 @@
+Art. 1º-C. Nos crimes previstos nos arts. 1º-A e 1º-B desta Lei, a condenação terá como efeito a perda do cargo, da função ou do emprego público, com a inabilitação para o seu exercício pelo dobro do prazo da pena aplicada.

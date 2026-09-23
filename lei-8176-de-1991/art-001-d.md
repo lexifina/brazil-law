@@ -1,0 +1,1 @@
+Art. 1º-D. O juiz determinará a alienação antecipada, na forma do art. 144-A do Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para preservação do valor dos bens, sempre que estiverem sujeitos a qualquer grau de deterioração ou depreciação ou quando houver dificuldade para sua manutenção.
