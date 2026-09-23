@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por ANA ALINE LENARDT, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (HC n. 0104483-55.2026.8.16.0000).
+Consta nos autos que a recorrente foi presa em flagrante em 27/06/2026 e, posteriormente, teve a prisão convertida em preventiva pela suposta prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006, em virtude da apreensão de 2,469 kg de maconha, 504 gramas de crack, 502 gramas de cocaína e 11,7 gramas de maconha na forma "ice", nos termos em que foi denunciada.
+Impetrado habeas corpus na origem, a liminar foi deferida para determinar a expedição de alvará de soltura, mediante monitoramento eletrônico. No julgamento do mérito, contudo, a ordem foi denegada.
+Nesta insurgência, a Defesa sustenta, em suma, que a recorrente faz jus à substituição da prisão preventiva pela domiciliar. Afirma que a recorrente é mãe de criança menor de 12 anos e que o delito foi cometido sem violência ou grave ameaça e não foi praticado contra descendente.
+Requer, em liminar, a suspensão dos efeitos do acórdão. No mérito, pleiteia o restabelecimento da prisão domiciliar ou, subsidiariamente, o reconhecimento da ilegalidade da fundamentação, com a determinação de novo julgamento.
+É o relatório.
+Decido.
+Inicialmente, ressalto que, conforme o entendimento consolidado desta Corte, as disposições contidas nos arts. 64, inciso III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam a prerrogativa do relator de apreciar liminarmente, em habeas corpus ou recurso em habeas corpus, a pretensão que esteja em conformidade com súmula ou com a jurisprudência consolidada dos Tribunais Superiores, ou, ainda, que as contrarie, v.g. AgRg no HC n. 856.046/SP, de relatoria do Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023.
+Assim, passo a analisar diretamente o pedido formulado na insurgência.
+O ordenamento jurídico pátrio, notadamente após a inserção do art. 318-A no Código de Processo Penal e o julgamento do Habeas Corpus Coletivo n. 143.641/SP pelo Supremo Tribunal Federal, estabeleceu como regra a substituição da prisão preventiva pela domiciliar para mulheres que sejam mães de crianças menores de 12 (doze) anos. Tal medida visa resguardar o melhor interesse da criança e o princípio da proteção integral, insculpido no art. 227 da Constituição Federal.
+Entretanto, o direito à prisão domiciliar não é absoluto, comportando exceções em "situações excepcionalíssimas", as quais devem ser devidamente fundamentadas, conforme ressalvado no próprio precedente da Suprema Corte.
+Na hipótese, o Tribunal de origem, ao indeferir a benesse, consignou o seguinte (fls. 50-51):
+Remanesce, por fim, a discussão acerca do cabimento da prisão domiciliar, alvo central da presente impetração.
+Não obstante os argumentos apresentados pela impetrante e os fundamentos declinados na decisão de deferimento da liminar, exarada pela eminente Desª Substª Simone Cherem Fabricio de Melo, o caso em análise revela-se como hipótese excepcional, apta a afastar a aplicação da benesse prevista nos arts. 318-A e 318-B, do Código de Processo Penal, que preveem a substituição da prisão preventiva por domiciliar (com ou sem a aplicação concomitante de medidas alternativas) para mulheres responsáveis por filhos menores de 12 anos.
+Embora o delito apurado não envolva violência ou grave ameaça, nem tampouco tenha sido cometido contra descendente, o fato é que a paciente foi presa em flagrante pela suposta prática do crime de tráfico de drogas em contexto no qual, segundo o apurado, teria deixado a sua própria residência, em Curitiba/PR, onde supostamente deveria permanecer a fim de prestar os cuidados demandados para sua filha menor, e teria percorrido uma distância de mais de 150 quilômetros, para chegar a Irati/PR, cidade em que acabou por ser presa, antes da efetiva entrega do entorpecente ao destinatário.
+Não fosse essa primeira constatação, por determinação do d. Juízo impetrado, foi elaborado estudo social a partir do qual é possível concluir que, por mais que não estejam sob os cuidados da paciente, os menores, ainda assim, não foram relegados ao completo abandono, mas, ao contrário, estão sendo assistidos por pessoas do seu núcleo familiar.
+(..)
+Incontroverso, portanto, que as filhas da paciente estavam sob os cuidados de outros familiares enquanto a paciente permaneceu presa. Em relação à infante, inclusive, o relatório destaca que essa menor já permanecia sob os cuidados de sua tia com frequência.
+Nessa quadra, sobremodo quando cotejadas essas informações à luz das gravíssimas circunstâncias da infração (transporte intermunicipal de expressiva quantidade de drogas de variadas naturezas e elevado potencial deletério) e da aparente contumácia delitiva de ANA ALINE LENARDT (já condenada por tráfico de entorpecentes), é patente que o caso não comporta a prisão domiciliar.
+Na hipótese, observa-se que o Tribunal a quo reconheceu, de forma fundamentada, a existência de situação excepcional apta a afastar o benefício.
+Para isso, considerou a gravidade concreta da infração, diante do transporte intermunicipal de expressiva quantidade e variedade de drogas, o risco de reiteração, uma vez que a recorrente possui condenação pela mesma prática delitiva, e a constatação, em estudo social realizado pelo Conselho Tutelar, de que as filhas da recorrente estão sob os cuidados de outros familiares.
+Ademais, pelo exposto, verifica-se a ausência de identidade fático-processual do caso concreto com o julgado invocado no recurso , no qual ponderou-se que a quantidade de droga apreendida e o transporte intermunicipal de entorpecentes não justificam, isoladamente, o afastamento do benefício. Como transcrito acima, os referidos elementos não justificaram, per se, a denegação da ordem na hipótese.
+Além disso, o julgado invocado não se enquadra como precedente qualificado e não possui efeito vinculante, de modo que não é suficiente para desconstituir o entendimento ora firmado.
+A propósito:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CORRUPÇÃO DE MENORES. PRISÃO PREVENTIVA. REINCIDÊNCIA ESPECÍFICA. RISCO DE REITERAÇÃO DELITIVA. INDÍCIOS DE INTEGRAÇÃO EM ORGANIZAÇÃO CRIMINOSA. MEDIDAS CAUTELARES INSUFICIENTES. PRISÃO DOMICILIAR. MÃE DE CRIANÇAS MENORES. SITUAÇÃO EXCEPCIONALÍSSIMA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A prisão preventiva pode ser decretada antes do trânsito em julgado da sentença condenatória desde que estejam presentes os requisitos previstos no art. 312 do CPP.
+2. Foram constatados elementos concretos capazes de justificar a privação cautelar da liberdade, diante da reincidência específica da agravante no crime de tráfico de drogas e do concreto risco de reiteração delitiva.
+3. A prática de novo delito durante a execução criminal evidencia contumácia delitiva e reforça a necessidade da segregação cautelar.
+4. A existência de indícios de integração da agravante em organização criminosa voltada ao tráfico de drogas justifica a custódia preventiva para interromper a atuação delitiva.
+5. A quantidade e a natureza dos entorpecentes apreendidos, especialmente crack e cocaína, associadas à corrupção de adolescente, revelam gravidade concreta apta a legitimar a prisão cautelar.
+6. Medidas cautelares diversas da prisão mostram-se insuficientes diante da periculosidade concreta da agente e do risco de reiteração criminosa.
+7. A substituição da prisão preventiva por domiciliar não é automática para mães de crianças menores de 12 anos, podendo ser afastada em situações excepcionalíssimas devidamente fundamentadas.
+8. A reincidência específica no tráfico, os indícios de habitualidade criminosa e a ausência de demonstração da imprescindibilidade da agravante nos cuidados dos filhos afastam a concessão da prisão domiciliar.
+9. A existência de ação de guarda indicando negligência materna e a permanência das crianças sob os cuidados da avó materna evidenciam ausência de benefício concreto às crianças com a concessão da domiciliar.
+10. Agravo regimental improvido.
+(AgRg no HC n. 1.089.941/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 11/6/2026, DJEN de 16/6/2026.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. TENTATIVA DE INTRODUÇÃO DO ENTORPECENTE EM ESTABELECIMENTO PRISIONAL. REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO IDÔNEA. SUBSTITUIÇÃO POR PRISÃO DOMICILIAR. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus impetrado com o objetivo de obter liberdade provisória, ou, subsidiariamente, a substituição da prisão preventiva por prisão domiciliar, com fundamento no art. 318, V, do Código de Processo Penal, sob o argumento de ser mãe de crianças menores de 12 anos.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se a prisão preventiva da agravante, primária e mãe de crianças menores, pode ser substituída por prisão domiciliar; (ii) estabelecer se a fundamentação apresentada pelas instâncias ordinárias é suficiente para justificar a manutenção da custódia cautelar.
+III. RAZÕES DE DECIDIR
+3. A prisão preventiva encontra respaldo em fundamentação concreta, com base na apreensão de 119g de maconha, no interior de unidade prisional, tentativa de introdução de entorpecente durante visita a detento. Além disso, a existência de condenações anteriores por tráfico de drogas, ainda que sem trânsito em julgado, evidencia risco de reiteração delitiva e justifica a segregação para garantia da ordem pública, fundamentos que evidenciam a necessidade de manutenção da custódia e a insuficiência de medidas cautelares menos gravosas (art. 319 do CPP).
+4. O acórdão impetrado apresentou motivação válida para o indeferimento do pedido de prisão domiciliar, com esteio no risco de reiteração delitiva, valendo destacar ainda a gravidade do delito praticado, que envolveu tentativa de introduzir entorpecente em estabelecimento prisional.
+IV. DISPOSITIVO E TESE
+5. Agravo regimental desprovido.
+Tese de julgamento:
+1. A prisão preventiva pode ser mantida, mesmo em se tratando de mulher mãe de crianças menores de 12 anos, quando demonstradas a gravidade concreta da conduta e a reiteração delitiva.
+2. A quantidade e o contexto da apreensão de entorpecentes, aliados à reincidência específica, constituem fundamentação idônea para justificar a segregação cautelar, nos termos do art. 312 do CPP, bem como o indeferimento do pedido de prisão domiciliar.
+(AgRg no HC n. 994.472/SC, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 17/6/2025, DJEN de 25/6/2025.)
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
