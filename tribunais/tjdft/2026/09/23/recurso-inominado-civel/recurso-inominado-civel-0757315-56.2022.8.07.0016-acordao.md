@@ -1,0 +1,213 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Segunda Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0757315-56.2022.8.07.0016RECORRENTE(S)DISTRITO FEDERALRECORRIDO(S)ADRIANA DA SILVA OLIVEIRARelatoraJuiza SILVANA DA SILVA CHAVES
+ Acórdão Nº2181146
+
+EMENTA
+
+DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO INOMINADO. JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA. GRATIFICAÇÃO DE ATIVIDADE DE ENSINO ESPECIAL – GAEE. INCORPORAÇÃO AOS PROVENTOS DE APOSENTADORIA. AÇÃO AUTÔNOMA. RECURSO DO DISTRITO FEDERAL. DISTINÇÃO ENTRE O OBJETO DA ADPF Nº 615 E DO TEMA 100 DA REPERCUSSÃO GERAL. SENTENÇAS ORIGINÁRIAS QUE RECONHECERAM O DIREITO À PERCEPÇÃO DA GRATIFICAÇÃO. EFEITOS FUNCIONAIS DECORRENTES DA LEGISLAÇÃO DISTRITAL. AVERBAÇÃO FUNCIONAL. INCORPORAÇÃO PROPORCIONAL. TÍTULOS JUDICIAIS ORIGINÁRIOS VÁLIDOS E NÃO DESCONSTITUÍDOS. GRATIFICAÇÃO DO ANO DE 2007. PERÍODO ANTERIOR À VIGÊNCIA DA LEI DISTRITAL Nº 4.075/2007. INCORPORAÇÃO NO PERCENTUAL DE 0,6% AO ANO. SENTENÇA DE PARCIAL PROCEDÊNCIA MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+
+I. CASO EM EXAME
+
+1. Recurso inominado interposto pelo Distrito Federal em face da sentença que julgou parcialmente procedentes os pedidos de averbação funcional dos períodos em que a parte autora teve reconhecido judicialmente o direito ao recebimento da Gratificação de Atividade de Ensino Especial – GAEE e de incorporação proporcional da vantagem aos proventos de aposentadoria.
+
+2. Recurso tempestivo e adequado à espécie. Dispensado o preparo, por se tratar de recorrente fazenda pública. Foram apresentadas contrarrazões (ID 44409540).
+
+3. Na origem, a parte autora ajuizou ação de conhecimento sustentando que obteve, em ações judiciais anteriormente transitadas em julgado (processos 2012.01.1.051346-3, 2012.01.1.160491-9 e 2013 01 1 120559-5), o reconhecimento do direito ao recebimento da GAEE nos exercícios de 2007, 2008 e 2009, tendo o Distrito Federal efetuado apenas o pagamento das parcelas reconhecidas, sem proceder à averbação funcional dos respectivos períodos no SIGRH/SISRH, circunstância que motivou o indeferimento administrativo da incorporação proporcional da gratificação.
+
+4. Em suas razões recursais, o Distrito Federal sustenta que as decisões judiciais invocadas limitaram-se a condená-lo ao pagamento de quantia certa relativa a determinados exercícios, sem determinar a incorporação da gratificação aos proventos, tratando-se de questão nova ainda não apreciada pelo Poder Judiciário, e defende a aplicabilidade da tese fixada na ADI nº 0021864-35.2017.8.07.0000.
+
+II. QUESTÃO EM DISCUSSÃO
+
+5. As questões em discussão consistem em: (i) definir se, em ação autônoma destinada ao reconhecimento de efeitos administrativos decorrentes de títulos judiciais pretéritos, é cabível a alegação incidental de inexigibilidade fundada na ADPF nº 615 e na revisão do Tema 100 da repercussão geral; (ii) verificar se a possibilidade de apresentação da simples petição prevista pelo Supremo Tribunal Federal impede, por si só, a produção dos efeitos administrativos dos títulos originários; (iii) definir o alcance da simples petição criada pela ADPF nº 615 e sua aptidão para produzir efeitos rescisórios indiretos em ação diversa; (iv) analisar a natureza jurídica das sentenças originárias que reconheceram o direito à percepção da GAEE; (v) verificar se a averbação funcional constitui consequência legal do reconhecimento judicial da gratificação; e (vi) definir se a incorporação proporcional da vantagem constitui efeito jurídico decorrente da situação funcional anteriormente reconhecida. (vii) analisar se a alegação de necessidade de atuação em turmas exclusivas de alunos com necessidades especiais retroage ao período anterior à Lei Distrital nº 4.075/2007, considerando o pedido de incorporação da gratificação referente ao ano de 2007.
+
+III. RAZÕES DE DECIDIR
+
+6. A ADPF nº 615 e a revisão do Tema 100 da repercussão geral instituíram procedimento excepcional destinado exclusivamente ao exame da inexigibilidade do próprio título judicial, mediante simples petição apresentada nos autos em que formada a coisa julgada, não autorizando a atribuição de efeitos rescisórios indiretos em ações autônomas fundadas em relações jurídicas distintas.
+
+7. A simples possibilidade de futura apresentação da petição prevista na ADPF nº 615 não suspende automaticamente a eficácia de títulos judiciais regularmente constituídos nem impede que continuem produzindo os efeitos jurídicos próprios enquanto inexistente pronunciamento específico acerca de sua inexigibilidade.
+
+8. As sentenças originárias, embora formalmente condenatórias, reconheceram o direito material da autora à percepção da Gratificação de Atividade de Ensino Especial relativamente aos períodos nelas indicados, constituindo situação jurídica protegida pela coisa julgada e não impugnada pelos meios previstos na ADPF 615 ou no Tema 100 da Repercussão Geral, apta a irradiar os efeitos administrativos previstos na legislação distrital.
+
+9. A incorporação proporcional da GAEE decorre diretamente da disciplina estabelecida pelas Leis Distritais nº 4.075/2007 e nº 5.105/2013, que vinculam ao efetivo exercício da atividade especial consequências funcionais próprias durante a ativa e que são levadas nos mesmos moldes aos proventos de inatividade, não se tratando de benefício novo ou de direito autônomo desvinculado da percepção da gratificação na ativa.
+
+10. A averbação funcional constitui providência administrativa destinada a refletir situação jurídica definitivamente reconhecida pelo Poder Judiciário, sendo incompatível com a autoridade da coisa julgada a negativa administrativa fundada exclusivamente na ausência de registro funcional cuja realização incumbia à própria Administração.
+
+11. Preservada a eficácia dos títulos judiciais originários, cuja eventual inexigibilidade somente poderá ser apreciada mediante o procedimento excepcional instituído pela ADPF nº 615, impõe-se reconhecer o direito da autora à averbação funcional dos períodos judicialmente reconhecidos, bem como à correspondente incorporação proporcional da Gratificação de Atividade de Ensino Especial.
+
+12. A consulta aos processos originários confirmou que os títulos judiciais relativos aos exercícios de 2007, 2008 e 2009 (processos nº 2012.01.1.051346-3, 2012.01.1.160491-9 e 2013 01 1 120559-5) permanecem hígidos, não tendo sido objeto de qualquer petição de inexigibilidade ou desconstituição, o que confirma a correção da sentença recorrida.
+
+13. Embora a hígidez dos três títulos judiciais justificasse, em tese, a incorporação no percentual de 1,8%, a sentença recorrida reconheceu o direito à incorporação no percentual de 1,2%, e a parte autora não interpôs recurso próprio buscando a majoração desse percentual, de modo que sua ampliação nesta instância recursal configuraria reformatio in pejus em desfavor do único recorrente, impondo-se a manutenção do percentual fixado na origem.
+
+14. Em relação ao exercício de 2007, considerando que a exigência de atuação em turmas “exclusivamente” de alunos especiais somente adveio a partir da Lei Distrital nº 4.075/2007, publicada em 28/12/2007 e com efeitos a partir de 1º de março de 2008, não há sequer o que se falar em eventual inexigibilidade do título.
+
+15. A aplicação da Lei Distrital nº 5.105/2013 relativa à incorporação da Gratificação de Atividade de Ensino Especial não implicou redução do percentual anual de incorporação. Embora os arts. 30 e 31 passem a adotar a técnica de 1/25 avos da gratificação por ano de efetivo exercício, considerando que a GAEE corresponde a 15% do vencimento básico, cada fração anual equivale a 0,6% do vencimento básico, preservando, sob metodologia distinta, o mesmo resultado matemático previsto na Lei nº 4.075/2007. Afastada, portanto, a alegação de que a legislação superveniente teria reduzido a incorporação para 0,04% ao ano, por decorrer de equivocada interpretação da base de incidência da fração legal.
+
+IV. DISPOSITIVO
+
+16. Recurso conhecido e não provido. Sentença mantida por seus próprios fundamentos, reconhecendo o direito da autora à averbação funcional dos períodos em que teve judicialmente reconhecido o direito à percepção da Gratificação de Atividade de Ensino Especial – GAEE (anos de 2007, 2008 e 2009), bem como à correspondente incorporação proporcional da vantagem, no percentual de 1,2% — mantido tal como fixado na origem, ante a ausência de recurso da parte autora buscando sua majoração —, e ao pagamento das diferenças remuneratórias devidas, nos termos fixados na sentença recorrida.
+
+17. Sem custas finais. Fixados honorários de sucumbência no valor equivalente a 10% da condenação, nos termos do art. 55 da Lei nº 9.099/1995.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Segunda Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, SILVANA DA SILVA CHAVES - Relatora, LUCIANA FREIRE NAVES FERNANDES GONCALVES - 1º Vogal e MARILZA NEVES GEBRIM - 2º Vogal, sob a Presidência da Senhora Juíza GISELLE ROCHA RAPOSO, em proferir a seguinte decisão: RECURSO CONHECIDO E NÃO PROVIDO. UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 30 de Setembro de 2026
+
+Juíza SILVANA DA SILVA CHAVESRelatora
+
+RELATÓRIO
+
+Cuida-se de recurso inominado interposto pelo Distrito Federal contra sentença proferida pelo Juizado Especial da Fazenda Pública que julgou parcialmente procedentes os pedidos formulados na inicial.
+
+Na origem, a autora, professora da Secretaria de Estado de Educação do Distrito Federal, ajuizou ação de conhecimento objetivando o reconhecimento do direito à incorporação da Gratificação de Atividade de Ensino Especial – GAEE aos seus proventos de aposentadoria, no percentual correspondente ao período em que teve o direito à percepção da vantagem reconhecido judicialmente, bem como o pagamento das diferenças remuneratórias daí decorrentes. Sustentou que, nos autos dos processos nº 2012.01.1.051346-3, 2012.01.1.160491-9 e 2013 01 1 120559-5, foi reconhecido por decisão transitada em julgado o seu direito ao recebimento da GAEE relativamente aos anos de 2007, 2008 e 2009.
+
+O Distrito Federal apresentou contestação sustentando, em síntese, que as decisões proferidas nas ações anteriores limitaram-se à condenação ao pagamento de valores referentes à GAEE, não tendo reconhecido direito à incorporação da vantagem nem determinado averbação funcional dos períodos reconhecidos. Defendeu que a incorporação constitui instituto jurídico autônomo, sujeito aos requisitos previstos na legislação vigente à época da aposentadoria, razão pela qual não decorreria automaticamente das sentenças anteriormente proferidas, sustentando ainda a aplicação da tese fixada na ADI nº 0021864-35.2017.8.07.0000 quanto à exigência de exclusividade no atendimento a alunos com necessidades especiais.
+
+Sobreveio sentença de parcial procedência, reconhecendo o direito da autora à incorporação da GAEE aos proventos de aposentadoria no percentual de 1,2%, bem como ao pagamento das diferenças remuneratórias devidas, sob o fundamento de que a incorporação decorre de comando legal próprio (arts. 30 e 31 da Lei Distrital nº 5.105/2013), distinto daquele que reconheceu o direito à percepção da gratificação, e de que as decisões judiciais que fundamentam o direito à incorporação referem-se a períodos pretéritos, já alcançados pela coisa julgada, não atingidos pelo julgamento da ADI nº 0021864-35.2017.8.07.0000.
+
+Em suas razões recursais, o Distrito Federal sustenta, em síntese, que as decisões judiciais invocadas pela autora limitaram-se a condená-lo ao pagamento de quantia certa relativa à GAEE em determinados exercícios, sem determinar a incorporação da gratificação aos proventos, tratando-se, portanto, de questão nova ainda não apreciada pelo Poder Judiciário. Defende a aplicabilidade da tese fixada na ADI nº 0021864-35.2017.8.07.0000, que declarou constitucional a exigência de atendimento exclusivo a alunos com necessidades especiais, e requer, alternativamente, a alteração do percentual de incorporação.
+
+Em contrarrazões, a autora pugna pela manutenção integral da sentença, reiterando que o direito à incorporação decorre diretamente da legislação distrital, independentemente de determinação expressa nas sentenças que reconheceram o direito à percepção da gratificação, e que as decisões invocadas não foram atingidas pelo julgamento da ADI mencionada, por serem anteriores e definitivas.
+
+É o relatório.
+
+VOTOS
+
+A Senhora Juíza SILVANA DA SILVA CHAVES - Relatora
+O recurso é próprio e tempestivo. Dispensado o preparo, por se tratar de recorrente fazenda pública. Presentes os pressupostos de admissibilidade, conheço do recurso.
+
+As questões devolvidas a julgamento podem ser sintetizadas nos seguintes termos: a) verificar se, em ação autônoma destinada ao reconhecimento dos efeitos administrativos decorrentes de decisões judiciais pretéritas, é possível ao Distrito Federal suscitar, incidentalmente, a inexigibilidade dos títulos judiciais que constituem a causa de pedir da demanda, com fundamento na ADPF nº 615 e na revisão do Tema 100 da repercussão geral; b) definir se a possibilidade de apresentação da simples petição prevista pelo Supremo Tribunal Federal nos autos das ações originárias é suficiente para suspender ou impedir, desde logo, o reconhecimento dos efeitos administrativos decorrentes daqueles títulos, antes mesmo de eventual pronunciamento judicial acerca de sua inexigibilidade; c) estabelecer se a simples petição criada pela ADPF nº 615 possui alcance suficiente para produzir efeitos rescisórios indiretos em ação autônoma diversa daquela em que se formou a coisa julgada; d) verificar se as sentenças transitadas em julgado limitaram-se ao reconhecimento de obrigação pecuniária ou se também reconheceram situação jurídica apta a irradiar os efeitos administrativos previstos na legislação distrital; e) definir se a averbação funcional dos períodos reconhecidos judicialmente constitui consequência legal do próprio reconhecimento da Gratificação de Atividade de Ensino Especial ou se dependeria de determinação expressa constante dos títulos judiciais; f) por fim, examinar se a negativa administrativa fundada exclusivamente na ausência de registro funcional mostra-se compatível com a autoridade da coisa julgada, com o regime jurídico instituído pelas Leis Distritais nº 4.075/2007 e nº 5.105/2013 e com os limites objetivos estabelecidos pelo Supremo Tribunal Federal no julgamento da ADPF nº 615 e da revisão do Tema 100; g) analisar se a alegação de necessidade de atuação em turmas exclusivas de alunos com necessidades especiais retroage ao período anterior à Lei Distrital nº 4.075/2007, considerando o pedido de incorporação da gratificação referente ao ano de 2007.
+
+I - O objeto da ADPF nº 615 e os limites objetivos da solução construída pelo Supremo Tribunal Federal
+
+Antes do exame do mérito propriamente dito, impõe-se delimitar o alcance da solução processual construída pelo Supremo Tribunal Federal no julgamento da Arguição de Descumprimento de Preceito Fundamental nº 615 e da revisão do Tema 100 da repercussão geral.
+
+A presente demanda não possui natureza executiva nem objetiva o cumprimento das sentenças anteriormente proferidas em favor da autora.
+
+O Distrito Federal, entretanto, sustenta que os títulos judiciais invocados na presente ação perderam aptidão para produzir efeitos jurídicos em razão da superveniente declaração de constitucionalidade da expressão "exclusivamente", constante da legislação distrital que disciplina a Gratificação de Atividade de Ensino Especial – GAEE, invocando, para tanto, os fundamentos desenvolvidos na ADPF nº 615 e na revisão do Tema 100.
+
+A tese defensiva parte da premissa de que a possibilidade de apresentação da simples petição criada pelo Supremo Tribunal Federal é suficiente para impedir, desde logo, que os títulos judiciais anteriormente formados continuem irradiando quaisquer efeitos jurídicos, inclusive em ações autônomas posteriormente ajuizadas.
+
+A questão, entretanto, demanda exame mais detido acerca da extensão objetiva do precedente firmado pelo Supremo Tribunal Federal. A controvérsia submetida à apreciação da Corte Suprema na ADPF nº 615 possuía objeto processual claramente delimitado.
+
+O Distrito Federal submeteu ao Supremo Tribunal Federal a situação decorrente da existência de milhares de cumprimentos de sentença em curso perante os Juizados Especiais da Fazenda Pública, todos fundados em títulos judiciais que haviam reconhecido o direito ao recebimento da GAEE com fundamento em orientação jurisprudencial posteriormente superada pelo julgamento, em controle concentrado, da constitucionalidade da exigência de atuação exclusiva.
+
+O problema enfrentado pelo Supremo Tribunal Federal era essencialmente processual. Diante da impossibilidade de ajuizamento de ação rescisória no âmbito dos Juizados Especiais, decorrente do art. 59 da Lei nº 9.099/1995, impunha-se definir qual seria o instrumento processual adequado para permitir a apreciação da alegação de inexigibilidade desses títulos executivos.
+
+Foi exatamente para solucionar essa lacuna que a Corte Suprema instituiu procedimento excepcional consistente na apresentação de simples petição nos próprios autos em que formado o título judicial, incumbindo ao Juízo competente apreciar a alegação de inexigibilidade à luz do pronunciamento superveniente proferido em controle concentrado de constitucionalidade.
+
+A excepcionalidade do mecanismo criado pelo Supremo Tribunal Federal decorre justamente da inexistência de ação rescisória no microssistema dos Juizados Especiais.  Trata-se, portanto, de solução processual específica, destinada a suprir situação igualmente específica.
+
+Não se extrai do acórdão da ADPF nº 615 autorização para que a alegação de inexigibilidade seja formulada incidentalmente em qualquer processo futuro que, de alguma forma, tenha por pressuposto a existência daqueles títulos judiciais. Ao contrário. Todo o procedimento concebido pela Corte Suprema encontra-se estruturado sobre dois pressupostos indissociáveis: o próprio título judicial e os autos em que esse título foi formado.
+
+Não por outra razão, o Supremo Tribunal Federal fez expressa referência à apresentação de simples petição nos próprios autos, incumbindo ao Juízo que proferiu a decisão originária apreciar eventual incompatibilidade entre o título executivo e o pronunciamento constitucional superveniente.  E a razão dessa opção processual revela-se evidente, uma vez que a declaração de inexigibilidade interfere diretamente na autoridade da coisa julgada formada naquele processo específico. Consequentemente, a apreciação dessa matéria deve ocorrer precisamente no procedimento instituído para esse fim, observando-se os pressupostos, limites temporais e garantias processuais estabelecidos pelo próprio Supremo Tribunal Federal.
+
+Admitir solução diversa significaria permitir que eventual perda de eficácia do título judicial fosse reconhecida de maneira indireta, incidental e difusa em processos diversos, sem que houvesse pronunciamento judicial acerca da própria inexigibilidade nos autos em que formada a coisa julgada. Em outras palavras, equivaleria a atribuir efeitos rescisórios indiretos a títulos judiciais distintos daqueles submetidos ao procedimento excepcional criado pela ADPF nº 615 e tal interpretação não encontra amparo no precedente vinculante.
+
+A solução construída pelo Supremo Tribunal Federal não transformou a simples petição em mecanismo geral de revisão da coisa julgada, tampouco autorizou que a simples possibilidade de futura arguição de inexigibilidade fosse suficiente, por si só, para impedir que títulos judiciais regularmente constituídos continuassem produzindo os efeitos jurídicos que lhes são próprios enquanto não sobreviesse pronunciamento específico acerca de sua eficácia.
+
+Nesse sentido, a presente demanda não pretende executar as sentenças anteriormente proferidas nem obter novo pagamento da Gratificação de Atividade de Ensino Especial.
+
+O título judicial originário comparece à presente ação apenas como fato jurídico integrante da causa de pedir, cabendo ao Judiciário examinar se a situação jurídica anteriormente reconhecida produz os efeitos administrativos previstos na legislação distrital ou não, na hipótese de inatividade do servidor que recebeu a GAEE na ativa.
+
+Eventual declaração de inexigibilidade daqueles títulos, caso venha a ocorrer, deverá observar exatamente o procedimento excepcional delineado pelo Supremo Tribunal Federal, não sendo possível presumir, antecipar ou conferir efeitos a pronunciamento que ainda não foi proferido no âmbito dos processos em que a coisa julgada se formou.
+
+A simples possibilidade jurídica de futura apresentação da petição prevista na ADPF nº 615, por si só, não possui aptidão para suspender automaticamente a eficácia de títulos judiciais regularmente constituídos nem para impedir, em ação autônoma, a apreciação dos efeitos jurídicos que deles decorrem.
+
+Assim, rejeito a alegação de que a mera invocação da ADPF nº 615 e da revisão do Tema 100 seja suficiente para afastar, incidentalmente, os efeitos administrativos dos títulos judiciais que fundamentam a presente demanda e procedo à continuação da apreciação da controvérsia.
+
+II - A natureza jurídica das sentenças originárias e os efeitos administrativos do reconhecimento judicial da Gratificação de Atividade de Ensino Especial
+
+O Distrito Federal sustenta que os títulos judiciais invocados na presente demanda limitaram-se à condenação ao pagamento de determinada quantia, exaurindo integralmente seus efeitos com a satisfação da obrigação pecuniária.
+
+Nessa perspectiva, a incorporação da gratificação constituiria relação jurídica autônoma, dependente de novo pronunciamento jurisdicional e da demonstração, à época da aposentadoria, de todos os requisitos materiais previstos na legislação então vigente. A tese, entretanto, não se harmoniza com o conteúdo das sentenças originárias nem com a própria disciplina legal da Gratificação de Atividade de Ensino Especial.
+
+Embora redigidas sob a forma de condenação ao pagamento de determinada quantia, as decisões judiciais anteriormente proferidas não reconheceram mera obrigação patrimonial desvinculada da situação funcional da servidora.  Ao condenarem o Distrito Federal ao pagamento da Gratificação de Atividade de Ensino Especial, relativamente aos períodos expressamente indicados, reconheceram, como pressuposto lógico e jurídico da condenação, que a autora preenchia, naqueles exercícios, os requisitos legais necessários à percepção da vantagem. Em outras palavras, o pagamento judicial da GAEE não decorreu de liberalidade, indenização substitutiva ou compensação financeira. Decorreu do reconhecimento jurisdicional de que a autora fazia jus ao recebimento da própria gratificação prevista na legislação distrital.
+
+Assim, a condenação pecuniária constituiu apenas a consequência patrimonial imediata desse reconhecimento. O conteúdo do pronunciamento jurisdicional, entretanto, não se esgotou na obrigação de pagar.
+
+Toda sentença condenatória pressupõe o reconhecimento da relação jurídica material que fundamenta a condenação. No caso concreto, ao afirmar que a parte autora fazia jus ao recebimento da Gratificação de Atividade de Ensino Especial relativamente aos exercícios indicados, o Poder Judiciário reconheceu situação jurídica específica que passou a integrar definitivamente o patrimônio jurídico da servidora, encontrando-se protegida pela autoridade da coisa julgada.
+
+Importante considerar, ainda, que a legislação distrital não atribui à percepção da GAEE apenas efeitos financeiros imediato.  Tanto a Lei Distrital nº 4.075/2007 quanto a Lei Distrital nº 5.105/2013 estabeleceram que o efetivo exercício da atividade de ensino especial produz reflexos funcionais próprios, prevendo a incorporação proporcional da vantagem à razão de um vinte e cinco avos por ano de exercício, tanto quando o servidor deixasse de desempenhar a atividade quanto por ocasião da aposentadoria, sendo que tal regra mantém-se vigente ainda hoje.
+
+A incorporação da gratificação em razão do exercício da atividade específica não foi instituída como benefício novo, concedido discricionariamente pela Administração. Constituiu consequência jurídica expressamente prevista em lei para o servidor que houvesse percebido legitimamente a Gratificação de Atividade de Ensino Especial durante o exercício da atividade.
+
+Nesse contexto, importa distinguir os efeitos diretos da sentença dos efeitos legais decorrentes da situação jurídica por ela reconhecida. O efeito direto da decisão consistiu na condenação ao pagamento das parcelas vencidas da gratificação. Já os efeitos administrativos decorrem da própria legislação de regência, que vinculou ao reconhecimento da percepção da vantagem determinadas consequências funcionais, dentre elas a incorporação proporcional.
+
+Assim, não há razoabilidade na conclusão de que a sentença de origem necessitaria reproduzir cada uma dessas consequências legais. Não seria razoável exigir que o pronunciamento jurisdicional determinasse, de forma expressa, a atualização dos assentamentos funcionais, a inscrição no SISRH, a averbação dos períodos reconhecidos, a alteração dos registros administrativos ou todos os demais atos necessários ao fiel cumprimento da legislação. Tais providências constituem desdobramentos administrativos naturais da situação jurídica reconhecida judicialmente.
+
+Exigir determinação expressa para cada um desses efeitos equivaleria a restringir artificialmente a eficácia da coisa julgada e a desconsiderar que os efeitos reflexos decorrem diretamente da lei, e não da vontade do julgador.
+
+A interpretação defendida pelo Distrito Federal conduz, inclusive, a resultado incompatível com a própria autoridade das decisões judiciais anteriormente proferidas.
+
+Conforme demonstrado nos autos, a Administração efetuou o pagamento judicial da Gratificação de Atividade de Ensino Especial, mas deixou de registrar funcionalmente que a servidora efetivamente percebeu a vantagem nos exercícios reconhecidos, criando, assim, situação paradoxal. Para fins financeiros, reconheceu-se que a autora recebeu a GAEE. Para fins funcionais, entretanto, passou-se a afirmar que a gratificação jamais integrou sua vida funcional.
+
+Em outras palavras, o DF defende a existência de uma Gratificação de Atividade de Ensino Especial com existência financeira, mas sem existência funcional, cuja dissociação não encontra amparo na legislação distrital nem na autoridade da coisa julgada.
+
+O pagamento judicial da vantagem não constitui fato jurídico distinto daquele que ocorreria caso a Administração houvesse efetuado espontaneamente o pagamento. A circunstância de a percepção decorrer de decisão judicial não desnatura a própria natureza jurídica da gratificação.
+
+Se o Poder Judiciário reconheceu definitivamente que a servidora fazia jus à Gratificação de Atividade de Ensino Especial relativamente aos períodos indicados, a Administração não pode, posteriormente, negar a produção dos efeitos legais inerentes à própria vantagem sob o fundamento exclusivo de que, por conta própria, deixou de promover os registros funcionais correspondentes.
+
+A omissão administrativa quanto à averbação dos períodos reconhecidos judicialmente não possui aptidão para restringir a eficácia da coisa julgada nem para impedir a incidência dos efeitos jurídicos que a própria legislação vinculou ao recebimento da gratificação. E a averbação funcional, nessas circunstâncias, não constitui novo direito nem benefício autônomo, mas representa apenas providência administrativa destinada a refletir, nos assentamentos funcionais da servidora, situação jurídica definitivamente reconhecida pelo Poder Judiciário e não questionada nos termos da ADPF 615, por meio de petição juntada nos próprios autos.
+
+Reconhecida judicialmente a percepção da Gratificação de Atividade de Ensino Especial relativamente aos exercícios indicados nas sentenças transitadas em julgado, impõe-se reconhecer também a produção dos efeitos administrativos que a legislação distrital expressamente vinculou a essa percepção, entre eles a correspondente averbação funcional e a consideração desses períodos para fins de incorporação proporcional da vantagem.
+
+III - A incorporação da GAEE como efeito jurídico diferido da situação funcional anteriormente reconhecida. Aplicação ao caso concreto.
+
+Definidos os limites objetivos da ADPF nº 615 e reconhecida a aptidão das sentenças originárias para irradiar os efeitos jurídicos previstos na legislação distrital, impõe-se examinar a tese sustentada pelo Distrito Federal de que a incorporação da Gratificação de Atividade de Ensino Especial constitui direito novo, submetido exclusivamente à legislação vigente quando da aposentadoria.
+
+É certo que a jurisprudência consolidada do Supremo Tribunal Federal, sintetizada na Súmula nº 359, estabelece que os proventos de aposentadoria regulam-se pela legislação vigente no momento em que o servidor implementa os requisitos necessários à inativação. Tal orientação, contudo, não resolve integralmente a controvérsia ora submetida a julgamento.
+
+A discussão travada nestes autos não diz respeito à definição do regime jurídico aplicável à aposentadoria nem ao reconhecimento de vantagem funcional criada por legislação superveniente. O que se discute é se a parte autora, ao aposentar-se, já ostentava situação jurídica definitivamente reconhecida pelo Poder Judiciário relativamente aos períodos em que exerceu atividade apta à percepção da Gratificação de Atividade de Ensino Especial, a qual é incorporada aos seus proventos desde a ativa à razão de 1/25 avos após deixar de exercer a função.
+
+Note-se que a legislação distrital não instituiu a incorporação como vantagem autônoma desvinculada do efetivo exercício da atividade. Ao contrário, tanto a Lei Distrital nº 4.075/2007 quanto a Lei Distrital nº 5.105/2013 vincularam expressamente a incorporação ao tempo de efetivo exercício da atividade de ensino especial, estabelecendo que cada período de percepção da gratificação produziria, progressivamente, reflexos sobre a remuneração do servidor na ativa e, posteriormente, sobre os proventos de aposentadoria.
+
+A aposentadoria, portanto, não constitui o fato gerador da incorporação da gratificação em análise, uma vez que já incorporada desde a ativa. E, ainda que se considere a aposentadoria como o momento em que se aperfeiçoa a incorporação da vantagem na inatividade, o suporte fático que a legislação elegeu para sua formação é precisamente o tempo de efetivo exercício da atividade especial, cuja existência, no caso concreto, foi definitivamente reconhecida pelas sentenças transitadas em julgado.
+
+A aposentadoria representa o momento em que o efeito jurídico anteriormente formado e incorporado na ativa projeta-se sobre a nova situação funcional do servidor. A situação jurídica apta a gerar a incorporação formou-se durante o exercício da atividade que ensejou o pagamento da gratificação.
+
+No contexto desta gratificação específica, a aposentadoria apenas consolida e projeta, para a inatividade, os efeitos que a própria legislação já vinculava ao tempo de efetivo exercício da atividade especial.
+
+No caso concreto as sentenças transitadas em julgado reconheceram que a parte autora fazia jus ao recebimento da Gratificação de Atividade de Ensino Especial relativamente aos exercícios nelas indicados, sendo que, enquanto tais pronunciamentos permanecerem íntegros e eficazes, constituem situação jurídica apta a demonstrar o preenchimento do requisito temporal previsto na legislação distrital para a correspondente incorporação proporcional.
+
+A Administração não pode utilizar-se do poder da auto-tutela para desconsiderar esse fato jurídico sob o fundamento de que deixou de proceder aos registros funcionais pertinentes e que isso possibilita nova análise da situação funcional para fins de novo pronunciamento judicial a respeito do direito ou não ao recebimento da gratificação que origina a incorporação pretendida.
+
+Exigir novo reconhecimento judicial do exercício da atividade especial significaria admitir a rediscussão indireta de matéria já coberta pela autoridade da coisa julgada e que não foi questionada nos termos da ADPF 615 ou do Tema 100 da Repercussão Geral, os quais delimitaram a sistemática específica destinada ao afastamento da coisa julgada com vício de inconstitucionalidade superveniente.
+
+Também não procede a alegação de inexistência de determinação expressa de averbação funcional. As sentenças originárias condenaram o Distrito Federal ao pagamento da Gratificação de Atividade de Ensino Especial relativamente aos períodos nelas reconhecidos. Como dito, o reconhecimento jurisdicional da própria gratificação torna desnecessária determinação específica acerca de cada consequência administrativa prevista em lei. A averbação funcional não constitui obrigação autônoma a ser criada por nova sentença.
+
+Não se mostra juridicamente admissível que a própria omissão administrativa em inscrever o registro do recebimento da gratificação seja posteriormente invocada como fundamento para negar eficácia aos efeitos legais decorrentes da situação jurídica anteriormente reconhecida.
+
+Esta Turma procedeu, ainda, à consulta dos processos originários indicados como causa de pedir da presente ação — nº 2012.01.1.051346-3, 2012.01.1.160491-9 e 2013 01 1 120559-5 —, tendo constatado que os títulos judiciais relativos aos exercícios de 2007, 2008 e 2009 permanecem hígidos, não tendo sido objeto de qualquer petição de inexigibilidade ou desconstituição, o que confirma a correção da sentença recorrida.
+
+Observo, ainda, que a hígidez dos três títulos judiciais justificaria, em tese, a incorporação no percentual de 1,8% (três exercícios, à razão de 0,6% ao ano). A sentença recorrida, contudo, reconheceu o direito à incorporação no percentual de 1,2%, e a parte autora não interpôs recurso próprio buscando a majoração desse percentual. Assim, ainda que os três títulos permaneçam hígidos, o percentual fixado na sentença não pode ser ampliado nesta instância recursal, sob pena de violação à reformatio in pejus em desfavor do único recorrente, o Distrito Federal, razão pela qual deve ser mantido o percentual de 1,2% tal como estabelecido na origem.
+
+Por fim, ressalto, ainda, que em relação ao exercício de 2007, considerando que a exigência de atuação em turmas “exclusivamente” de alunos especiais somente adveio a partir da Lei Distrital nº 4.075/2007, publicada em 28/12/2007 e com efeitos a partir de 1º de março de 2008, não há o que se falar em eventual inexigibilidade do título.
+
+IV- Do percentual a ser incorporado
+
+Em relação à alegação do DF de que a Lei nº 5.105/2013 teria reduzido o percentual de incorporação de 0,6% para 0,04% ao ano, observo equívoco na afirmação.
+
+Na realidade, a metodologia de cálculo permaneceu equivalente, embora com redação diversa. A Lei nº 4.075/2007 previa a incorporação de 0,6% por ano de efetivo exercício, até o limite de 15% da gratificação. Já a Lei nº 5.105/2013 passou a estabelecer que a incorporação ocorre à razão de 1/25 avos por ano de efetivo exercício, até o limite da integralidade da gratificação. Considerando que a GAEE corresponde a 15% do vencimento básico, cada 1/25 da gratificação representa precisamente 0,6% do vencimento básico (15% ÷ 25 = 0,6%). Assim, não houve redução do percentual anual de incorporação, mas apenas alteração da técnica legislativa empregada para expressar o mesmo resultado matemático.
+
+Também não procede a conclusão de que 1/25 da gratificação equivaleria a 0,04% ao ano. Esse raciocínio parte da premissa equivocada de que a fração deve incidir diretamente sobre o percentual de incorporação, quando, na verdade, a lei determina que a fração incida sobre a gratificação integral. Em outras palavras, primeiro identifica-se o valor integral da GAEE (15% do vencimento básico) e, somente então, aplica-se a fração correspondente ao número de anos de efetivo exercício. Assim, reconhecidos, por exemplo, três anos aptos à incorporação, o cálculo correto corresponde a 3/25 da gratificação integral, o que resulta em 1,8% do vencimento básico, e não em 0,12%, como decorreria da metodologia defendida pelo Distrito Federal.
+
+Inclusive, nos cálculos ofertados pela própria área técnica, nota-se a inclusão correta de 0,6% ao ano.
+
+Desse modo, embora a incorporação deva efetivamente observar a legislação vigente à época em que implementados os requisitos para a aposentadoria, em consonância com a Súmula nº 359 do Supremo Tribunal Federal, a aplicação da Lei nº 5.105/2013 não conduz ao percentual indicado pelo Distrito Federal. A metodologia prevista nos arts. 30 e 31 da Lei nº 5.105/2013 consiste em incorporar 1/25 da gratificação integral por ano de efetivo exercício, até o limite da totalidade da vantagem, critério que, no caso específico da GAEE, corresponde exatamente à incorporação de 0,6% do vencimento básico por ano reconhecido, preservando, sob técnica legislativa distinta, a mesma progressão prevista na legislação anterior
+
+V – Dispositivo
+
+Conheço do recurso e nego-lhe provimento, mantendo a sentença que reconheceu o direito da autora à averbação funcional dos períodos em que teve judicialmente reconhecido o direito à percepção da Gratificação de Atividade de Ensino Especial – GAEE (anos de 2007, 2008 e 2009), bem como à correspondente incorporação proporcional da vantagem, no percentual de 1,2%, e ao pagamento das diferenças remuneratórias devidas, nos exatos termos fixados na sentença recorrida.
+
+Sem condenação em custas e honorários advocatícios, em razão da ausência de recorrido vencido, nos termos do art. 55 da Lei nº 9.099/1995.
+
+A Senhora Juíza LUCIANA FREIRE NAVES FERNANDES GONCALVES - 1º Vogal Com o(a) relator(a)A Senhora Juíza MARILZA NEVES GEBRIM - 2º Vogal Com o(a) relator(a)
+
+DECISÃO
+
+RECURSO CONHECIDO E NÃO PROVIDO. UNÂNIME
