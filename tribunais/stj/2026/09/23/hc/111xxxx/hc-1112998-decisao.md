@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de MARCELO BIERMEIER, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Extrai-se dos autos que o paciente foi condenado à pena de 1 ano 2 meses e 13 dias de reclusão, além de 12 dias-multa, em regime aberto, como incurso no art. 171, caput, do Código Penal.
+A defesa apresentou recurso de apelação perante o Tribunal de origem, que lhe negou provimento, nos termos do acórdão que recebeu a seguinte ementa:
+"APELAÇÃO CRIMINAL. ESTELIONATO (ART. 171, CAPUT, DO CÓDIGO PENAL). SENTENÇA CONDENATÓRIA. RECURSO DO RÉU. PRELIMINAR. CONDIÇÃO DE PROCEDIBILIDADE. ALEGAÇÃO DE AUSÊNCIA DE REPRESENTAÇÃO DA VÍTIMA. PEDIDO DE RECONHECIMENTO DE NULIDADE DO PROCESSO. IMPOSSIBILIDADE. VÍTIMA QUE ATUOU ATIVAMENTE NO PROCESSO INVESTIGATIVO. DEMONSTRAÇÃO INEQUÍVOCA DO INTERESSE DA PARTE EM PROCESSAR O ACUSADO PELA PRÁTICA DO CRIME DE ESTELIONATO. ADEMAIS, LAVRATURA DE BOLETIM DE OCORRÊNCIA EM MOMENTO POSTERIOR A OCORRÊNCIA DO FATO. PROEMIAL RECHAÇADA. MÉRITO. PLEITO DE ABSOLVIÇÃO. AUSÊNCIA DE DOLO. TESE AFASTADA. MATERIALIDADE E AUTORIA DELITIVAS COMPROVADAS. PALAVRAS DA VÍTIMA EM CONSONÂNCIA COM OS DEMAIS ELEMENTOS DE PROVAS. DOLO DO AGENTE NO ATO PERPETRADO DEVIDAMENTE DEMONSTRADO. MANUTENÇÃO DA SENTENÇA QUE SE IMPÕE. PEDIDO DE JUSTIÇA GRATUITA. PLEITO A SER EFETUADO E APRECIADO APÓS O TRÂNSITO EM JULGADO PELO JUÍZO DE PRIMEIRO GRAU. PEDIDO NÃO CONHECIDO. RECURSO CONHECIDO EM PARTE E DESPROVIDO." (e-STJ, fls. 42-46)
+Opostos embargos de declaração, estes foram rejeitados, conso ante acórdão de fls. 62-64 (e-STJ).
+Neste writ, a defesa alega ilegalidadea existência de constrangimento ilegal pois a condenação estaria baseada exclusivamente em reconhecimento pessoal feito em desacordo com o art. 226 do Código de Processo Penal, sem qualquer prova autônoma de corroboração. Alega ofensa ao Tema Repetitivo 1.258.
+Pretende o reconhecimento da nulidade e absolvição do paciente.
+Indeferida a liminar (e-STJ, fl. 339), o Ministério Público Federal opina pelo não conhecimento do writ (e-STJ, fls. 375-378).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Em sede de embargos de declaração, o Tribunal de origem apontou que:
+" ..
+O embargante alega omissão indireta porquanto não foi reconhecida, de ofício, a nulidade do reconhecimento fotográfico feito pela vítima.
+Consoante destaca-se do pleito aclaratório, o acórdão impugnado não possui qualquer contradição, obscuridade, ambiguidade ou omissão, uma vez que a própria defesa reconhece que a tese não fez parte das razões recursais, ressaltando deveriam ter sido analisadas de ofício por esta Corte de Justiça. O que denomina omissão indireta.
+Contudo, como cediço, a decisão omissa caracteriza-se pela ausência de manifestação acerca de algum aspecto suscitado pelo réu, não sendo possível, por conseguinte, o manejo dos embargos de declaração para inovar em matérias não submetidas à apreciação do órgão julgador.
+..
+Nesse compasso, tendo sido requerido o reconhecimento da referida nulidade por meio dos presentes embargos, questão sequer cogitada em sede recursal pela defesa, não há de se conhecer do recurso, na medida em que se caracteriza como indubitável inovação recursal." (e-STJ, fls. 62-63)
+Assim, verifica-se que as questões apresentadas no presente writ não foram objeto de deliberação pelo Tribunal de origem, razão pela qual inviável a apreciação do tema por esta Corte, sob pena de indevida supressão de instância e alargamento inconstitucional da hipótese de competência do Superior Tribunal de Justiça para julgamento de habeas corpus, constante no art. 105, I, "c", da Constituição da República.
+Nesse sentido:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. RECONHECIMENTO FOTOGRÁFICO. ART. 226 DO CPP. MATÉRIA NÃO SUSCITADA NA APELAÇÃO. INOVAÇÃO RECURSAL EM EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. ART. 155 DO CPP. CONDENAÇÃO FUNDADA EM PROVA JUDICIALIZADA E ELEMENTOS DOCUMENTAIS. REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. DEPOIMENTOS POLICIAIS. VALIDADE QUANDO CORROBORADOS. SÚMULA N. 83/STJ. ASSOCIAÇÃO PARA O TRÁFICO. ESTABILIDADE E PERMANÊNCIA RECONHECIDAS PELAS INSTÂNCIAS ORDINÁRIAS. DOSIMETRIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A alegada nulidade do reconhecimento fotográfico por inobservância do art. 226 do CPP não foi suscitada nas razões de apelação e foi deduzida apenas em embargos de declaração, nos quais o Tribunal de origem deixou de conhecê-la por inovação recursal, circunstância que impede o exame da matéria no recurso especial, ante a ausência de prequestionamento e a incidência da Súmula n. 211/STJ.
+2. O julgamento superveniente do Tema Repetitivo n. 1.258/STJ não supre a inexistência de pronunciamento da instância ordinária sobre as circunstâncias concretas do ato de reconhecimento, sendo inviável o exame originário da tese nesta Corte sem indevida supressão de instância.
+3. Não há violação ao art. 155 do CPP quando a condenação se apoia em prova oral produzida sob contraditório e em elementos documentais e periciais, não se limitando a dados colhidos na fase inquisitorial. A pretensão absolutória, fundada em diversa valoração da prova, encontra óbice na Súmula n. 7/STJ.
+4. Os depoimentos de agentes públicos podem integrar validamente o conjunto probatório quando prestados em juízo, coerentes e corroborados por outros elementos, em conformidade com a jurisprudência desta Corte, incidindo a Súmula n. 83/STJ.
+5. A condenação pelo art. 35 da Lei 11.343/2006 foi mantida com fundamento em divisão de tarefas, reiteração da logística criminosa, apreensões em Estados distintos e movimentações financeiras entre os agentes, tendo o Tribunal de origem concluído que "a complexidade e a reiteração do modus operandi são incompatíveis com uma colaboração eventual". Rever essa conclusão demandaria reexame probatório, vedado pela Súmula n. 7/STJ.
+6. A exasperação da pena-base encontra fundamento idôneo na natureza e, sobretudo, na quantidade excepcional das drogas apreendidas - aproximadamente 1.064 kg de maconha e 64 kg de cocaína -, nos termos do art. 42 da Lei 11.343/2006, não se evidenciando manifesta desproporcionalidade.
+7. A excepcional neutralização de condenação remota como mau antecedente não pode ser examinada quando o acórdão recorrido não fixa a data de extinção da respectiva pena, marco temporal necessário à análise da tese, cuja apuração demandaria incursão em elementos estranhos à moldura fática delineada na origem.
+8. Mantidas a reincidência, os maus antecedentes e a condenação por associação para o tráfico, não estão preenchidos os requisitos cumulativos do art. 33, § 4º, da Lei 11.343/2006.
+9. Agravo regimental a que se nega provimento." (AgRg no AREsp n. 3.301.825/RO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/9/2026, DJEN de 9/9/2026.)
+"DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPETRACAO CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADOR. NÃO EXAURIMENTO DA INSTÂNCIA ORDINÁRIA. SUPRESSÃO DE INSTÂNCIA. RECURSO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que indeferiu liminar, em writ no qual a defesa impugna decisão singular proferida por desembargador do Tribunal de origem.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se é cabível a análise de habeas corpus impetrado contra decisão monocrática de desembargador, sem o esgotamento da instância ordinária mediante agravo regimental, e se é possível apreciar, desde logo, a nulidade do reconhecimento pessoal por inobservância do art. 226 do CPP quando o tema não foi examinado pela instância precedente.
+III. Razões de decidir
+3. A Corte é incompetente para o julgamento de writ impetrado diretamente contra decisão monocrática de desembargador, sem exaurimento da instância ordinária, sendo necessária a interposição do agravo regimental para submissão ao órgão colegiado competente.
+4. A apreciação da nulidade do reconhecimento pessoal por inobservância do art. 226 do CPP não é possível quando ausente deliberação da instância precedente sobre o tema, sob pena de indevida supressão de instância.
+IV. Dispositivo
+5. Resultado do Julgamento: Recurso não conhecido." (AgRg no HC n. 1.106.071/AM, relatora Ministra Nilsoni de Freitas (Desembargadora Convocada do TJDFT), Sexta Turma, julgado em 2/9/2026, DJEN de 8/9/2026.)
+Ante o exposto, não conheço o habeas corpus.
+Publique-se.
+Intime-se.
+EMENTA
