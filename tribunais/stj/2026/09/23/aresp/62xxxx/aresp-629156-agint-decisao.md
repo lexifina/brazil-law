@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo interno interposto por DAVID KRETSKI E OUTROS contra decisão que determinou a devolução dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que lá permanecessem suspensos no aguardo da publicação do acórdão do RE n. 827.996/PR (repercussão geral acerca do interesse jurídico da Caixa Econômica Federal em ações de seguro habitacional do SFH), aplicando-se, conforme o caso, as diretivas dos arts. 1.039 e 1.040 do CPC (e-STJ fls. 1.315/1.316).
+Nas razões do recurso, os agravantes sustentam, em síntese, que o reconhecimento da repercussão geral não implica a suspensão automática dos processos que versem sobre a mesma controvérsia, conforme decidido pelo Supremo Tribunal Federal na questão de ordem no RE n. 966.177/RS, e que, não tendo o Relator do RE n. 827.996/PR determinado o sobrestamento dos feitos, seria indevida a suspensão do processo.
+Posteriormente, a agravada LIBERTY SEGUROS S/A peticionou informando que o Supremo Tribunal Federal concluiu o julgamento do RE n. 827.996/PR, Tema 1.011 da repercussão geral, tendo ocorrido o trânsito em julgado e a baixa definitiva do paradigma em 17/6/2023 (e-STJ fls. 1.353/1.355).
+Desse modo, tendo sido definitivamente julgado o recurso extraordinário cuja pendência justificou o sobrestamento impugnado, verifica-se a perda superveniente do objeto do presente agravo interno.
+Diante do exposto, reconheço a perda superveniente do objeto do presente agravo interno, nos termos dos arts. 493 e 932, III, do CPC, c/c art. 34, XX, do RISTJ, e determino a baixa dos autos ao Tribunal de origem.
+Publique-se. Intime-se.
+EMENTA
