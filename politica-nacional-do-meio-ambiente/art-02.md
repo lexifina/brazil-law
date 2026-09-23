@@ -9,3 +9,4 @@ VII - acompanhamento do estado da qualidade ambiental;
 VIII - recuperação de áreas degradadas;
 IX - proteção de áreas ameaçadas de degradação;
 X - educação ambiental a todos os níveis de ensino, inclusive a educação da comunidade, objetivando capacitá-la para participação ativa na defesa do meio ambiente.
+XI - garantia do acesso prioritário de crianças e adolescentes à natureza e ao meio ambiente ecologicamente equilibrado.
