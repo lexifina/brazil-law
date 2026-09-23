@@ -1,0 +1,33 @@
+DECISÃO
+1. Trata-se de NOVOS Embargos de Declaração opostos por JARDEL GONCALVES DE SOUSA à decisão de fls. 1038/1039, que rejeitou os embargos anteriores.
+Sustenta a parte embargante:
+A decisão embargada reconhece expressamente a necessidade de regularização da representação processual, tanto que determinou a intimação da parte recorrente para sanar o vício apontado, com fundamento nos arts. 76 e 932, parágrafo único, do Código de Processo Civil.
+Todavia, ao apreciar a providência adotada pelo embargante, concluiu que o instrumento procuratório apresentado não poderia ser aceito em razão de possuir data posterior à interposição dos Embargos de Declaração. Com a devida vênia, o decisum deixou de enfrentar questão essencial ao deslinde da controvérsia.
+Isso porque o embargante efetivamente atendeu à determinação judicial, promovendo a juntada do instrumento procuratório dentro do prazo concedido por esta Corte. Dessa forma, não se trata de hipótese em que a parte permaneceu inerte ou deixou transcorrer o prazo sem qualquer providência. Ao contrário, houve efetivo cumprimento da determinação judicial.
+Nesse contexto, a afirmação de que não houve regularização da representação processual não corresponde exatamente ao ocorrido nos autos, uma vez que a providência determinada foi realizada pela parte recorrente.
+A controvérsia, portanto, não reside na ausência de cumprimento da determinação judicial, mas sim na conclusão posterior de que o documento apresentado seria insuficiente para produzir efeitos jurídicos.
+Ocorre que tal conclusão acaba por desvirtuar a finalidade prática da intimação realizada nos termos dos arts. 76 e 932 do Código de Processo Civil, pois os referidos dispositivos estabelecem expressamente a possibilidade de saneamento do vício mediante oportunidade concedida à parte para regularização da representação processual (fls. 1045/1046).
+..
+Ocorre que a determinação judicial foi devidamente cumprida, tendo a parte embargante apresentado o instrumento procuratório dentro do prazo concedido, não havendo, portanto, ausência de providência ou inércia processual.
+..
+A partir de então, foram praticados diversos atos processuais pelo advogado subscritor, incluindo a apresentação de recursos e demais manifestações, sem qualquer impedimento ou questionamento quanto à sua atuação pelos órgãos jurisdicionais competentes.
+..
+Isso porque, ao mesmo tempo em que a decisão reconhece a existência de vício passível de regularização e oportuniza a parte sua correção, posteriormente conclui que a providência adotada não seria suficiente para produzir qualquer efeito jurídico.
+Em outras palavras, a parte foi intimada para sanar eventual irregularidade, cumpriu a determinação judicial e apresentou o instrumento procuratório solicitado, mas, ainda assim, o recurso deixou de ser conhecido sob o fundamento de ausência de regularização.
+Tal circunstância evidencia incompatibilidade lógica entre a oportunidade de saneamento concedida por esta Corte e a conclusão posteriormente adotada, configurando omissão quanto à análise do cumprimento da determinação judicial pela defesa (fls. 1047/1048).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+2. Nos termos do art. 619 do Código de Processo Penal, os Embargos de Declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Inicialmente, cumpre esclarecer que, de fato, a parte embargante apresentou instrumento procuratório dentro do prazo concedido por esta Corte. Contudo, a simples juntada do documento não significa, por si só, que o vício tenha sido efetivamente sanado. Para tanto, seria necessário que a procuração fosse apta a conferir poderes ao advogado subscritor no momento da interposição dos Embargos de Declaração.
+No caso, os Embargos de Declaração foram opostos em 04.05.2026 (fl. 997), enquanto a procuração apresentada somente foi outorgada em 30.06.2026 (fl. 1033), portanto, posteriormente à interposição do recurso.
+A questão, assim, não é de inércia da parte, mas de ineficácia jurídica do instrumento apresentado para sanar o vício existente quando da interposição do recurso. A oportunidade prevista nos arts. 76 e 932, parágrafo único, do CPC permite à parte corrigir a irregularidade, mas não autoriza que uma procuração posteriormente outorgada produza efeitos retroativos para validar ato processual praticado quando o advogado ainda não possuía poderes de representação.
+Portanto, não há incompatibilidade entre a intimação para regularização e o posterior reconhecimento de que a providência adotada foi insuficiente. A parte teve oportunidade de sanar o vício, mas apresentou instrumento de mandato posterior ao ato que pretendia validar, o que não regulariza retroativamente a representação processual.
+Também não altera essa conclusão o fato de o advogado ter praticado outros atos processuais anteriormente sem questionamento. Eventual ausência de impugnação anterior não substitui a procuração nem confere retroativamente poderes que não existiam quando da interposição dos Embargos de Declaração.
+Assim, deve ser mantida a decisão que reconheceu a irregularidade da representação processual e deixou de conhecer dos Embargos de Declaração, diante da incidência da Súmula 115/STJ.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 31.8.2020; AgInt no AREsp 1639930/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 3.8.2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição ou omissão.
+3. Ante o exposto, rejeito os Embargos de Declaração.
+Publique-se. Intimem-se.
+EMENTA
