@@ -1,0 +1,39 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CONDOMÍNIO CIVIL PRÓ-INDIVISO DO BALNEÁRIO CAMBORIÚ SHOPPING contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 16/4/2026.
+Concluso ao gabinete em: 4/9/2026.
+Ação: de despejo por falta de pagamento, ajuizada pelo agravante, em face de OAZ COMERCIAL LTDA EM RECUPERACAO JUDICIAL, na qual requer a rescisão do contrato de locação e a retomada do imóvel com cumprimento de mandado de despejo.
+Decisão interlocutória: indeferiu o pedido de suspensão do feito e determinou a expedição de mandado de despejo forçado.
+Acórdão: deu provimento ao agravo de instrumento interposto pela agravada, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO E AGRAVO INTERNO (ART. 1.021 CPC). AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO. DECISÃO QUE INDEFERIU O PEDIDO DE SUSPENSÃO DO FEITO E DETERMINOU O CUMPRIMENTO DO MANDADO DE DESPEJO. INSURGÊNCIA DA LOCATÁRIA.
+BUSCA A SUSPENSÃO DO FEITO, AMPARANDA NO DEFERIMENTO DE RECUPERAÇÃO JUDICIAL. ACOLHIMENTO. O DEFERIMENTO DA RECUPERAÇÃO JUDICIAL, POR SI SÓ, NÃO IMPEDE O PROSSEGUIMENTO DE AÇÕES DE DESPEJO, POR APLICAÇÃO ANALÓGICA DO ART. 49, § 3º, DA LREF. TODAVIA, COMPETE AO JUÍZO RECUPERACIONAL AVALIAR A ESSENCIALIDADE DOS BENS OCUPADOS PELA EMPRESA EM CRISE PARA O CUMPRIMENTO DO PLANO, PODENDO SUSPENDER ORDENS DE DESPEJO MESMO EM AÇÕES DE NATUREZA NÃO ESTRITAMENTE EXECUTIVA. EXISTÊNCIA DE DECISÃO DO JUÍZO UNIVERSAL DETERMINANDO A SUSPENSÃO DAS ORDENS DE DESPEJO FUNDADAS EM CRÉDITOS CONCURSAIS DURANTE O STAY PERIOD, RECONHECENDO A INDISPENSABILIDADE DO PONTO COMERCIAL À CONTINUIDADE DA ATIVIDADE EMPRESARIAL. MEDIDA DESALIJATÓRIA SUSPENSA, A FIM DE ASSEGURAR A PRESERVAÇÃO DA EMPRESA E A EFICÁCIA DO PROCESSO DE RECUPERAÇÃO, SEM PREJUÍZO DA OBRIGAÇÃO DE ADIMPLEMENTO DOS ALUGUEIS E ENCARGOS POSTERIORES, DE NATUREZA EXTRACONCURSAL. REFORMA DA DECISÃO.
+AGRAVO INTERNO. PRETENSÃO DE ALTERAÇÃO DA DECISÃO MONOCRÁTICA QUE DEFERIU O PEDIDO DE EFEITO SUSPENSIVO. NÃO CONHECIMENTO. PERDA SUPERVENIENTE DO OBJETO PELO JULGAMENTO DO AGRAVO DE INSTRUMENTO.
+AGRAVO DE INSTRUMENTO CONHECIDO E PROVIDO. AGRAVO INTERNO PREJUDICADO. (e-STJ fl. 171)
+Embargos de Declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 473, III, IV, do CPC, 54, II, V, e 71, II, V, da Lei 8.245/1991, bem como dissídio jurisprudencial. Afirma que a decisão contrariou regras processuais ao manter a suspensão da ordem de despejo com fundamento genérico, frustrando a efetividade da medida locatícia. Aduz que houve indevida relativização da retomada do imóvel e da liminar de despejo, desconsiderando a disciplina específica da Lei de Locações.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 473, III, IV, do CPC, 54, II, V, e 71, II, V, da Lei 8.245/1991, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+Nesse sentido: AgInt no REsp n. 1.820.915/SP, Terceira Turma, DJe de 17/4/2024 e AgInt no AREsp n. 2.116.675/MG, Quarta Turma, DJe de 2/5/2024.
+- Da fundamentação deficiente
+De toda sorte, ainda que assim não fosse, para que o recurso especial seja admitido, é indispensável que a parte recorrente explicite de forma clara os dispositivos legais apontados como violados, demonstrando a relação entre eles e os fundamentos do acórdão recorrido. Isso permite a exata compreensão da controvérsia e viabiliza o exame do recurso especial.
+No entanto, na hipótese em análise, essa correlação não foi devidamente estabelecida, tendo em vista que a alegada ofensa aos arts. 473, III e IV, do CPC, e aos arts. 54, II e V, e 71, II e V, da Lei 8.245/1991, não foi articulada com os fundamentos efetivamente adotados no acórdão (preservação da empresa, concursalidade dos créditos pretéritos, decisão do juízo recuperacional sobre a essencialidade do imóvel e suspensão das ordens de despejo durante o stay period) limitando-se o agravante a invocar tais dispositivos sem demonstrar, de modo específico, a contrariedade entre seu conteúdo normativo e a ratio decidendi do julgado.
+Dessa forma, a ausência de argumentação específica que correlacione o conteúdo dos dispositivos legais apontados como violados aos fundamentos do acórdão recorrido compromete a exata compreensão da controvérsia, atraindo a aplicação da Súmula 284/STF.
+Frise-se, ainda, que os argumentos invocados pela parte agravante não demonstram como o acórdão recorrido violou os arts. 6º, §§ 1º e 2º, 47, 49, caput e §3º, da Lei 11.101/2005, 59, §1º, IX, da Lei 8.245/91 e 189, II, do CPC, havendo mera citação recursal, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+Nesse sentido: AgInt no AREsp 1.947.682/SP, Terceira Turma, DJe 20/12/2023; e AgInt no AREsp 2.138.858/SP, Quarta Turma, DJe 15/6/2023.
+- Da divergência jurisprudencial
+Por fim, a falta de precisa indicação do dispositivo legal sobre o qual recai a divergência inviabiliza a análise do dissídio jurisprudencial e atrai a incidência, por analogia, da Súmula 284 do STF. Nesse sentido: AgInt no REsp 1.957.278/DF, 1ª Turma, DJe 20/09/2023; AgInt no REsp 1.566.341/SP, 4ª Turma, DJe 21/06/2023; e AgInt no AgInt no AgInt no AREsp 1.731.772/SC, 3ª Turma, DJe 24/10/2022.
+Outrossim, a comprovação da divergência jurisprudencial demanda que a parte recorrente realize uma análise comparativa detalhada entre o a córdão recorrido e o paradigma, de modo a identificar as semelhanças entre as situações de fato e a existência de interpretações jurídicas diferentes sobre mesmo dispositivo legal, além de observar os requisitos formais, consoante previsão dos arts. 1029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ. No entanto, neste recurso, evidencia-se a ausência do cotejo analítico.
+Importante destacar que a mera transcrição das ementas dos acórdãos não é suficiente para comprovar o dissídio jurisprudencial. É necessário realizar uma comparação minuciosa entre os trechos dos acórdãos recorrido e o paradigma, explicitando como os tribunais interpretam de forma divergente, porém em situações semelhantes, o mesmo artigo de lei federal. Nesse sentido: AgInt no AREsp 2.396.088/PR, 3ª Turma, DJe de 22/11/2023, e AgInt no AREsp 2.334.899/SP, 4ª Turma, DJe de 7/12/2023.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal local.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DESPEJO. AGRAVO DE INSTRUMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. DISSÍDIO. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. COTEJO ANALÍTICO NÃO REALIZADO.
+1. Ação de despejo.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. A falta de indicação do dispositivo legal sobre o qual recai a divergência inviabiliza a análise do dissídio.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Agravo conhecido. Recurso especial não conhecido.
