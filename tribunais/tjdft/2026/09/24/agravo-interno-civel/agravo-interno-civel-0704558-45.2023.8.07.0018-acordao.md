@@ -1,0 +1,236 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+5ª Turma Cível
+Processo N.AGRAVO INTERNO CÍVEL 0704558-45.2023.8.07.0018AGRAVANTE(S)FERNANDO CESAR MENESES DOS SANTOS,FERNANDO HELIO DE SOUZA SILVA,FLAVIO HENRIQUE PIMENTEL DO NASCIMENTO,FRANCA FONSECA,FRANCISCO ALCEU DA SILVA,JOSE DE RIBAMAR DA SILVA,GILMAR PEREIRA DA CONCEICAO,JOSE GERALDO DIAS,MARINEIDE FONSECA COELHO,NAPOLINO ROMUALDO DA SILVA e THAISI ALEXANDRE JORGEAGRAVADO(S)DISTRITO FEDERALRelatorDesembargador FÁBIO EDUARDO MARQUES
+ Acórdão Nº2178260
+
+EMENTA
+
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NA APELAÇÃO CÍVEL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. IRDR. LEGITIMIDADE ATIVA. LIMITES SUBJETIVOS DA COISA JULGADA. REPRESENTAÇÃO SINDICAL. TEMA 1.402 DO STJ. TEMA REPETITIVO 973 DO STJ. OBSERVÂNCIA DE TESE VINCULANTE. RECURSO NÃO PROVIDO.
+
+I. Caso em exame
+
+1. Agravo interno interposto contra decisão monocrática que negou provimento a recurso e manteve o reconhecimento da ilegitimidade ativa dos agravantes para promover cumprimento individual de sentença coletiva.
+
+II. Questão em discussão
+
+2. Há duas questões em discussão: (i) definir se o processo deve permanecer suspenso em razão de controvérsias pendentes de julgamento no Superior Tribunal de Justiça; e (ii) estabelecer se os recorrentes possuem legitimidade ativa para promover o cumprimento individual da sentença coletiva.
+
+III. Razões de decidir
+
+3. A suspensão determinada em razão de incidente de resolução de demandas repetitivas cessou com o julgamento do recurso especial paradigma do Tema 1.402 do STJ, sendo desnecessário aguardar o trânsito em julgado, conforme orientação jurisprudencial da Corte Superior.
+
+4.  O Tema 1.302 do STJ trata de controvérsia distinta, relacionada à legitimidade dos integrantes da categoria para cumprimento individual de sentença coletiva independentemente de filiação sindical ou inclusão em lista de substituídos, não abrangendo a questão dos limites subjetivos da coisa julgada examinada no caso. Enquanto inexistir pronunciamento vinculante do Superior Tribunal de Justiça em sentido diverso, permanece obrigatória a observância da tese vinculante firmada no âmbito do incidente de resolução de demandas repetitivas local, nos termos do art. 927, III, do CPC.
+
+5. A tese firmada no IRDR 21 estabelece que somente possuem legitimidade para o cumprimento individual da sentença coletiva os servidores que integravam os quadros da Administração Direta na data do ajuizamento da ação coletiva e que eram representados exclusivamente pela entidade sindical autora.
+
+6. No caso, os agravantes pertencem a categoria funcional representada por entidade sindical própria, circunstância que os exclui da hipótese delimitada pela tese vinculante, caracterizando a ilegitimidade ativa para a execução individual do título coletivo.
+
+IV. Dispositivo
+
+7. Recurso conhecido e não provido.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 5ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, FÁBIO EDUARDO MARQUES - Relator, LUCIMEIRE MARIA DA SILVA - 1º Vogal e LEONOR AGUENA - 2º Vogal, sob a Presidência da Senhora Desembargadora LUCIMEIRE MARIA DA SILVA, em proferir a seguinte decisão: CONHECER. NEGAR PROVIMENTO AO AGRAVO INTERNO. UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 24 de Setembro de 2026
+
+Desembargador FÁBIO EDUARDO MARQUESRelator
+
+RELATÓRIO
+
+Cuida-se de agravo interno interposto contra a decisão desta relatoria que negou provimento à apelação, na forma do art. 932 do CPC, mantendo a sentença que extinguiu o cumprimento individual de sentença coletiva por ilegitimidade ativa (id. 83850192).
+
+Os APELANTES-AGRAVANTES (id. 79198908) suscitam, preliminarmente, a necessidade de suspensão do feito até o julgamento do Tema Repetitivo 1.302 do STJ. Alegam que a aplicação imediata do entendimento firmado no IRDR n.º 21 gera risco de decisões conflitantes e afronta à segurança jurídica.
+
+No mérito, defendem a inaplicabilidade do IRDR n.º 21 ao caso, sob o argumento de que o título originado da ação coletiva não estabeleceu limitação subjetiva quanto aos beneficiários da condenação. Sustentam que a decisão agravada, ao reconhecer a ilegitimidade ativa dos exequentes por serem representados por sindicato específico da categoria dos policiais civis, restringiu indevidamente os efeitos da coisa julgada, em violação aos arts. 502 a 509 do CPC. Salientam que o SINDIRETA atuou como substituto processual de toda a categoria dos servidores da administração direta, de modo que os efeitos da sentença coletiva alcançam todos os integrantes da categoria beneficiada, independentemente de filiação sindical ou vinculação a sindicato mais específico.
+
+Acrescentam que a jurisprudência do STF e do STJ reconhece a ampla legitimidade extraordinária dos sindicatos para a defesa judicial dos interesses da categoria, bem como a possibilidade de execução individual por todos os beneficiários do título coletivo, desde que inexistente limitação expressa no título executivo. Invocam, para tanto, os Temas 823 e 1.119 do STF e precedentes recentes do STJ que prestigiam o princípio do máximo benefício da coisa julgada coletiva.
+
+Por fim, declaram violação aos arts. 5º, XVII e XXXVI, 8º, II, 37, VI, e 39, § 3º, da Constituição Federal, pela aplicação aos sindicatos de servidores públicos as regras de unicidade sindical próprias do setor privado.
+
+Requerem a suspensão do processo até o julgamento do Tema 1.302/STJ ou, subsidiariamente, o reconhecimento de sua legitimidade ativa para o prosseguimento do cumprimento de sentença.
+
+Contraminuta apresentada, pugnando pela condenação dos agravantes ao pagamento de multa por recurso protelatório e pela majoração da verba honorária sucumbencial.
+
+Como mantenho na íntegra a decisão recorrida, submeto o presente recurso a julgamento da egrégia Turma.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador FÁBIO EDUARDO MARQUES - Relator
+
+Presentes os pressupostos de admissibilidade, em especial a previsão do art. 1.021, caput, do CPC e do art. 265 do RITJDFT, conheço do agravo interno.
+
+A parte agravante intenta a reforma da decisão desta relatoria que negou provimento à apelação, na forma do art. 932 do CPC.
+
+Eis o teor da decisão agravada:
+
+Cuida-se de apelação interposta da r. sentença (id. 55767478) que extinguiu o cumprimento individual de sentença coletiva (Ação Coletiva n. 32.159/97) por ilegitimidade ativa, porque o servidor da Polícia Civil do Distrito Federal não pode receber valores oriundos do título executivo judicial exequendo à medida que a categoria não é representada pelo SINDIRETA/DF.
+
+Acolhidos os declaratórios para retificar a questão da sucumbência (id. 55767483 e 55767490), apelam os EXEQUENTES (id. 55767492).
+
+Sustentam que a decisão viola a coisa julgada e o entendimento consolidado pelo Supremo Tribunal Federal no Tema 823, segundo o qual os sindicatos possuem ampla legitimidade extraordinária para atuar como substitutos processuais de toda a categoria, independentemente de autorização ou filiação dos substituídos.
+
+Alegam que o título judicial formado na ação coletiva não estabeleceu qualquer limitação subjetiva quanto aos beneficiários, condenando o Distrito Federal ao pagamento das parcelas do auxílio-alimentação a todos os servidores da Administração Direta, Autárquica e Fundacional do DF atingidos pela supressão do benefício, não se admitindo, em fase de execução, restrição posterior de seu alcance.
+
+Defendem que eventual discussão acerca da abrangência da substituição sindical deveria ter sido deduzida na fase de conhecimento, encontrando-se a matéria acobertada pela coisa julgada. Afirmam que a exigência de comprovação de filiação sindical ofende os arts. 8º, III, da Constituição Federal, 509, §4º, 502, 503 e 508 do CPC, bem como a jurisprudência pacífica do STF, do STJ e do TJDFT, que reconhecem a legitimidade dos integrantes da categoria substituída para promover execução individual de sentença coletiva.
+
+Pedem o provimento ao recurso para o regular prosseguimento do feito.
+
+Contrarrazões pela manutenção da r. sentença (id. 55767495).
+
+Processo suspenso para aguardar a decisão definitiva no IRDR 21 (id. 58121737), assim permanecendo com o recurso interposto ao STJ (REsp 2.231.007/DF), julgado em 11/03/2026, com acórdão publicado em 18/03/2026, referente ao paradigma para o Tema Repetitivo 1.402 do STJ.
+
+É o relatório.
+
+Decido na forma do art. 932 do CPC.
+
+Presentes os pressupostos de admissibilidade, conheço do recurso.
+
+SUSPENSÃO DO PROCESSO
+
+A controvérsia afetada no Tema 1.169 do STJ diz respeito à liquidação prévia do julgado indispensável para o ajuizamento de ação objetivando o cumprimento de sentença condenatória genérica proferida em demanda coletiva. Houve determinação do STJ para suspensão de todos os processos que versem sobre a mesma matéria. Todavia o presente recurso cuida de outras matérias, de maneira que nada obsta prosseguir.
+
+No mais, segundo a regra do art. 1.040, III, do CPC, publicado o acórdão paradigma no julgamento dos recursos extraordinário e especial repetitivos, os processos suspensos em primeiro e segundo graus de jurisdição retomarão o curso para julgamento e aplicação da tese firmada pelo tribunal superior.
+
+Quanto ao IRDR – Tema 21, o processo deveria permanecer suspenso até a decisão definitiva, a princípio cessando na hipótese de não ser interposto recurso especial ou recurso extraordinário contra a decisão proferida no incidente.
+
+Nada obstante, como foi interposto o REsp 2.231.007/DF (paradigma ao Tema 1.402 do STJ) contra o acórdão prolatado para o IRDR, a suspensão do feito terminou com o julgamento do recurso especial, não sendo necessário aguardar o trânsito em julgado. Precedentes no STJ: REsp 1.869.867/SC, relator Ministro Og Fernandes, Segunda Turma, julgado em 20/04/2021; REsp n. 1.976.792/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 18/5/2023.
+
+Passo ao exame do recurso.
+
+LEGITIMIDADE ATIVA
+
+A reconhecida ilegitimidade ativa baseia-se no fato de a parte exequente não integrar a categoria substituída, pois é servidor da Polícia Civil do DF, carreira representada pelo SINDPOL/DF, e não pelo SINDIRETA.
+
+A Câmara de Uniformização firmou a seguinte tese para o IRDR 21: “Somente os servidores que já pertenciam aos quadros da Administração Direta do Distrito Federal, na data do ajuizamento da Ação Coletiva nº 32.159/97, e que sejam representados, exclusivamente, pelo SINDIRETA/DF, independentemente de autorização para a propositura da demanda ou de filiação ao SINDIRETA/DF na fase de conhecimento, possuem legitimidade ativa para os respectivos Cumprimentos Individuais da Sentença Coletiva”.
+
+No REsp 2.231.007/DF (paradigma ao Tema 1.402 do STJ), interposto contra o acórdão do IRDR, a Corte Superior consolidou a tese de que não pode haver execução por servidores de autarquias e fundações públicas, limitando-se a coisa julgada aos servidores da administração direta.
+
+Vejamos a tese no Tema 1.402 do STJ:
+
+I - A sentença coletiva que condena a administração centralizada ao pagamento de verba remuneratória não pode ser executada por servidores de autarquias e fundações públicas.
+
+II - Os servidores que integravam os quadros de autarquias e de fundações públicas do Distrito Federal na data da propositura da Ação Coletiva n. 32.159/97 não foram beneficiados pela coisa julgada.
+
+De outro prisma, a tese aprovada no IRDR exige a representação exclusiva pelo SINDIRETA, enquanto o Superior Tribunal de Justiça não decidiu, no julgamento do paradigma ao Tema Repetitivo 1.402, se a coisa julgada alcança os servidores representados por outros sindicatos ou não filiados ao SINDIRETA, pois o caso era de servidor de fundação pública, portanto essas questões não eram objeto do recurso especial.
+
+O acórdão do REsp 2.231.007/DF anotou que no Tema Repetitivo 1.302 do STJ está em discussão se todos os servidores da categoria são legitimados a propor o cumprimento individual de sentença decorrente de ação coletiva proposta por sindicato, independentemente de filiação ou de constar em lista, salientando que a controvérsia naquele REsp 2.231.007/DF é diferente porquanto apenas trata dos limites da coisa julgada quanto ao polo passivo - saber se a condenação da administração centralizada alcança autarquias e fundações públicas.
+
+Entretanto, sem prejuízo da tese a ser firmada no Tema 1.302 do STJ, por ora cabe ressaltar que permanece hígida a deliberação vinculante da Câmara de Uniformização do TJDFT, quanto à representação exclusiva pelo SINDIRETA.
+
+Com efeito, juízes e tribunais devem observar os acórdãos em incidente de resolução de demandas repetitivas, bem assim no julgamento de recursos extraordinário e especial repetitivos, nos termos do art. 927, inc. III, do CPC.
+
+Nesse sentido, não assiste razão ao apelante.
+
+Confira-se o precedente na Turma:
+
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. ILEGITIMIDADE ATIVA. REPRESENTAÇÃO SINDICAL EXCLUSIVA. RECURSO CONHECIDO E PROVIDO.
+
+I. CASO EM EXAME
+
+1. Agravo de instrumento interposto contra decisão que rejeitou impugnação ao cumprimento de sentença coletiva, reconhecendo a responsabilidade subsidiária do ente público e homologando cálculos apresentados pela parte exequente.
+
+II. QUESTÃO EM DISCUSSÃO
+
+2. A controvérsia recursal consiste em verificar a legitimidade ativa para o cumprimento individual de sentença coletiva ajuizada por sindicato diverso daquele ao qual o exequente estava vinculado à época da propositura da ação.
+
+III. RAZÕES DE DECIDIR
+
+3. A sentença coletiva transitada em julgado reconheceu o direito ao pagamento de diferenças de proventos de aposentadoria, em favor de servidores representados pelo SINDIRETA/DF.
+
+4. O exequente estava filiado ao SAE/DF, sindicato específico da categoria funcional.
+
+5. A representação sindical exclusiva, conforme o princípio da unicidade sindical previsto no art. 8º, inc. II, da CF/1988, impede o aproveitamento de título judicial obtido por sindicato diverso.
+
+6. A jurisprudência do TJDFT, firmada no IRDR – Tema nº 21, estabelece que apenas servidores da administração direta representados exclusivamente pelo SINDIRETA/DF possuem legitimidade ativa para o cumprimento individual da sentença coletiva.
+
+7. Reconhecida a ilegitimidade ativa, impõe-se a extinção do cumprimento de sentença, nos termos do art. 485, inc. VI, do CPC.
+
+IV. DISPOSITIVO
+
+8. Recurso conhecido e provido.
+
+Dispositivos relevantes citados: CF/1988, art. 8º, inc. II. CPC, art. 485, inc. VI.
+
+Jurisprudência relevante citada: TJDFT, AI, 0700046-48.2025.8.07.0018, Rel(a). Fabrício Fontoura Bezerra, Sétima Turma Cível, p. 23.10.2025. TJDFT, AI, 0703011-53.2025.8.07.0000, Rel(a). Mauricio Silva Miranda, Sétima Turma Cível, p. 20.05.2025. TJDFT, APC, 0702169-19.2025.8.07.0018, Rel(a). Mauricio Silva Miranda, Sétima Turma Cível, p. 03.11.2025.
+
+(AGI 0738039-82.2025.8.07.0000, Rel. Desa. Ana Cantarino, 5ª Turma Cível, data de julgamento: 12/02/2026, publicado no DJe: 24/02/2026.)
+
+Registre-se que, em cumprimento individual de sentença condenatória prolatada em ação coletiva, ao contrário da simples fase de execução de um título executivo, a cognição deve ser exauriente para definir a existência e liquidez do direito vindicado, haja vista que os sujeitos processuais não são os mesmos da fase de conhecimento. Assim, nas ações coletivas lato sensu transfere-se para a fase de cumprimento a cognição acerca do direito individual de receber o que findou reconhecido no título judicial proferido na ação ordinária.
+
+Essa compreensão foi aferida pelo Superior Tribunal de Justiça para o Tema Repetitivo 973, ao analisar a aplicabilidade da Súmula 345 do STJ diante da superveniência do art. 85, § 7º, do CPC de 2015, assim sintetizando na ementa de recurso representativo da controvérsia:
+
+[...] 5. O procedimento de cumprimento individual de sentença coletiva, ainda que ajuizado em litisconsórcio, quando almeja a satisfação de direito reconhecido em sentença condenatória genérica proferida em ação coletiva, não pode receber o mesmo tratamento pertinente a um procedimento de cumprimento comum, uma vez que traz consigo a discussão de nova relação jurídica, e a existência e a liquidez do direito dela decorrente serão objeto de juízo de valor a ser proferido como pressuposto para a satisfação do direito vindicado.
+
+6. Hipótese em que o procedimento de cumprimento de sentença pressupõe cognição exauriente - a despeito do nome a ele dado, que induz à indevida compreensão de se estar diante de mera fase de execução -, sendo indispensável a contratação de advogado, uma vez que é necessária a identificação da titularidade do exequente em relação ao direito pleiteado, promovendo-se a liquidação do valor a ser pago e a individualização do crédito, o que torna induvidoso o conteúdo cognitivo dessa execução específica.
+
+7. Não houve mudança no ordenamento jurídico, uma vez que o art. 85, § 7º, do CPC/2015 reproduz basicamente o teor normativo contido no art. 1º-D da Lei n. 9.494/1997, em relação ao qual o entendimento desta Corte, já consagrado, é no sentido de afastar a aplicação do aludido comando nas execuções individuais, ainda que promovidas em litisconsórcio, do julgado proferido em sede de ação coletiva lato sensu, ação civil pública ou ação de classe.
+
+8. Para o fim preconizado no art. 1.039 do CPC/2015, firma-se a seguinte tese: "O art. 85, § 7º, do CPC/2015 não afasta a aplicação do entendimento consolidado na Súmula 345 do STJ, de modo que são devidos honorários advocatícios nos procedimentos individuais de cumprimento de sentença decorrente de ação coletiva, ainda que não impugnados e promovidos em litisconsócio."
+
+9. Recurso especial desprovido, com majoração da verba honorária.
+
+(REsp n. 1.648.498/RS, relator Ministro Gurgel de Faria, Corte Especial, julgado em 20/6/2018, DJe de 27/6/2018.)
+
+Nesse enquadramento, não há coisa julgada acerca da legitimidade ativa do exequente no cumprimento individual de sentença coletiva, ao argumento de que a questão não foi arguida na fase de conhecimento pelo Distrito Federal.
+
+CONCLUSÃO DO JULGAMENTO
+
+Ante o exposto, a decisão deve ser mantida.
+
+Nego provimento ao recurso.
+
+Majoro em 1% os honorários advocatícios, nos termos do art. 85, § 11, do CPC.
+
+Advirto quanto à hipótese de aplicação das multas do art. 1.021, § 4º e/ou art. 1.026, § 2º, ambos do CPC.
+
+Como definido no Tema Repetitivo 698 do STJ, “Caracterizam-se como protelatórios os embargos de declaração que visam rediscutir matéria já apreciada e decidida pela Corte de origem em conformidade com súmula do STJ ou STF ou, ainda, precedente julgado pelo rito dos artigos 543-C e 543-B, do CPC”.
+
+Como sedimentado no Tema Repetitivo 1.201 do STJ, excetuadas as hipóteses da tese relativas à distinção ou a superação do precedente qualificado, ou decisão amparada em julgado de tribunal de segundo grau, “O agravo interposto contra decisão do Tribunal de origem, ainda que com o objetivo de exaurir a instância recursal ordinária, a fim de permitir a interposição de recurso especial e/ou extraordinário, quando apresentado contra decisão baseada em precedente qualificado oriundo do STJ ou do STF, autoriza a aplicação da multa prevista no art. 1.021, § 4º, do CPC (revisão do TR 434/STJ)”. Assim, “Excetuadas as hipóteses supra, caberá ao órgão colegiado verificar a aplicação da multa, considerando-se as peculiaridades do caso concreto.”
+
+Preclusa a decisão, baixem-se os autos.
+
+Intimem-se.
+
+Apesar da argumentação dos agravantes, as razões deste agravo interno não abalam a certeza da decisão unipessoal proferida por esta Relatoria.
+
+Conforme consignado na decisão que nesta via se combate, a suspensão decorrente do IRDR 21 cessou com o julgamento do REsp 2.231.007/DF, paradigma do Tema 1.402 do STJ, sendo desnecessário aguardar o respectivo trânsito em julgado, em consonância com a jurisprudência da Corte Superior (REsp 1.869.867/SC e REsp 1.976.792/RS).
+
+Além disso, o decisum esclareceu que o Tema 1.302 do STJ versa sobre controvérsia distinta, relacionada à legitimidade dos integrantes da categoria para promover cumprimento individual de sentença coletiva independentemente de filiação sindical ou inclusão em lista de substituídos, ao passo que o REsp 2.231.007/DF tratou especificamente dos limites subjetivos da coisa julgada em relação aos servidores da administração direta e às entidades da administração indireta.
+
+Enquanto não houver pronunciamento vinculante do Superior Tribunal de Justiça apto a afastar a orientação firmada no âmbito local, permanece íntegra e obrigatória a observância da tese vinculante estabelecida no IRDR 21 do TJDFT, nos termos do art. 927, III, do CPC. Assim, inexiste motivo para nova suspensão do feito.
+
+No mérito, os agravantes sustentam a legitimidade ativa para o cumprimento individual de sentença coletiva (Ação Coletiva n. 32.159/97).
+
+Sem razão.
+
+A decisão atacada registrou que a Câmara de Uniformização, ao julgar o IRDR 21, firmou a tese de que somente possuem legitimidade para promover os cumprimentos individuais da sentença coletiva os servidores que: (i) já integravam os quadros da Administração Direta do Distrito Federal na data do ajuizamento da ação coletiva; e (ii) eram representados exclusivamente pelo SINDIRETA/DF.
+
+Assinalou que, no caso, a ilegitimidade ativa foi reconhecida porque os exequentes pertencem à carreira da Polícia Civil do Distrito Federal, categoria representada por entidade sindical própria, o SINDPOL/DF, não se enquadrando, portanto, na hipótese delimitada pela tese vinculante.
+
+A argumentação de que o título executivo não estabeleceu limitação subjetiva aos beneficiários não afasta a incidência da tese fixada no IRDR 21, cuja observância é obrigatória pelos órgãos jurisdicionais. Consoante destacado no decisum, a questão relativa à representação exclusiva pelo SINDIRETA não foi afastada pelo julgamento do REsp 2.231.007/DF, permanecendo hígida a orientação vinculante firmada pela Câmara de Uniformização do TJDFT.
+
+Também foi ressaltado que o cumprimento individual de sentença coletiva exige cognição exauriente acerca da titularidade do direito invocado, não havendo falar em preclusão ou coisa julgada quanto à legitimidade ativa do exequente apenas porque a matéria não foi discutida na fase de conhecimento. A decisão reportou-se, inclusive, à orientação firmada pelo Superior Tribunal de Justiça no Tema Repetitivo 973.
+
+Assim, a despeito das alegações dos agravantes, prevalece a decisão impugnada, que foi clara ao assentar as razões para o não provimento do recurso.
+
+Entretanto, não é o caso de aplicação de multa por recurso protelatório, como requerido em contrarrazões, porquanto a decisão amparou-se em IRDR julgado por esta Corte e não em precedente qualificado oriundo do STJ ou do STF.
+
+Como sedimentado no Tema Repetitivo 1.201 do STJ, excetuadas as hipóteses da tese relativas à distinção ou a superação do precedente qualificado, ou decisão amparada em julgado de tribunal de segundo grau, “O agravo interposto contra decisão do Tribunal de origem, ainda que com o objetivo de exaurir a instância recursal ordinária, a fim de permitir a interposição de recurso especial e/ou extraordinário, quando apresentado contra decisão baseada em precedente qualificado oriundo do STJ ou do STF, autoriza a aplicação da multa prevista no art. 1.021, § 4º, do CPC (revisão do TR 434/STJ)”. Assim, “Excetuadas as hipóteses supra, caberá ao órgão colegiado verificar a aplicação da multa, considerando-se as peculiaridades do caso concreto.”
+
+Quanto ao pedido posto em contrarrazões para majoração dos honorários de sucumbência, também não merece guarida. Isso porque o cabimento de honorários restringe-se ao recurso de decisão em que podem ser arbitrados honorários na instância a quo, não se enquadrando nesta hipótese o agravo interno interposto contra decisão monocrática que negou provimento à apelação, na forma do art. 932 do CPC.
+
+Nego provimento ao agravo interno.
+
+É como voto.
+
+A Senhora Desembargadora LUCIMEIRE MARIA DA SILVA - 1º Vogal Com o(a) relator(a)A Senhora Desembargadora LEONOR AGUENA - 2º Vogal Com o(a) relator(a)
+
+DECISÃO
+
+CONHECER. NEGAR PROVIMENTO AO AGRAVO INTERNO. UNÂNIME
