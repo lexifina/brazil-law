@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da ausência de demonstração de violação de dispositivos legais, da incidência da Súmula n. 7 do STJ e da falta do devido cotejo analítico (fls. 515-517).
+O acórdão recorrido encontra-se assim ementado (fl. 439):
+RESPONSABILIDADE CIVIL. Locação não residencial. Edificação utilizada na comercialização de calçados. Avarias em sinistro de incêndio. Abordagem reparatória deduzida por ex-locatária. Prejuízos debitados à incúria de ex-locadores. Juízo de procedência. Apelo dos réus, provido, para julgar improcedente a demanda. Recurso da autora, sobrevém prejudicado.
+Os embargos de declaração foram rejeitados (fls. 487-489).
+Nas razões do recurso especial (fls. 444-467), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais, sob os respectivos argumentos:
+(ii) art. 5º, LV, da CF, defendendo que "não foi dado o direito de contraditório de produzir novas provas, e mais a ofensa ao princípio da não surpresa, posto não ser minimamente razoável impedir à parte de exercer o contraditório efetivo" (fl. 457).
+(i) art. 1.007, caput, e §§ 4º e 5º, do CPC, sustentando que: a) não houve "o recolhimento do preparo no ato da interposição do recurso, conforme determina o art. 1.007 do CPC, sujeitando-se aos efeitos da deserção" (fl. 458); b) " n a tentativa de reparar o grave erro os recorrentes aduziram aos autos petição de juntada seguida da Guia de recolhimento de taxas judiciais às fls. 325/327, no entanto, deixaram de observar o art. 1.007 § 4.º do Código de Processo Civil" (fl. 460); c) "o recolhimento deve ser em dobro, ou seja, 8% (oito por cento) sobre o valor da causa e não 4% (quatro por cento)" como foi realizado " (fl. 461); d) "não haveria mais a possibilidade de complementação e com isto o reconhecimento da deserção era medida que se impunha" (fl. 461).
+Aduziu que "não se verifica a hipótese descrita no Tema Repetitivo 413 do STJ, pois, o recurso de apelação (fls. 306/322) teria sido interposto em 07/02/2.023 (terça- feira) e o preparo Recursal (fls. 325/327) recolhido em 14/02/2.023 (terça- feira)" (fl. 465).
+No agravo (fls. 520-542), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 546-550).
+É o relatório.
+Decido.
+De início, cumpre esclarecer que não cabe ao Superior Tribunal de Justiça manifestar-se acerca de violação de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+A alegação de ofensa ao art. 1.007, §§ 4º e 5º, do CPC não foi analisada pelo Tribunal de origem, apesar da oposição de embargos declaratórios. Caberia à parte alegar violação do art. 1.022 do CPC, o que não ocorreu. Dessa forma, à falta de prequestionamento, incide a Súmula n. 211/STJ.
+Em relação à tese de ofensa ao Tema n. 413/STJ, nas razões recursais, não foram indicados os dispositivos legais supostamente violados ou objeto de interpretação divergente, do que resulta a incidência da Súmula n. 284 do STF.
+Além disso, as razões recursais encontram-se dissociadas do contexto dos autos, uma vez que a parte ora agravante afirma, nas razões recursais, que haveria necessidade de recolhimento do preparo em dobro. Entretanto, a Corte local concluiu que, no "prazo de cinco dias para regularização do preparo" (fl. 489), houve o recolhimento.
+Dessa forma, está caracterizada deficiência na fundamentação recursal, fazendo incidir, uma vez mais, a Súmula n. 284 do Supremo Tribunal Federal.
+De todo modo, rever a conclusão do acórdão, quanto à "regularização do preparo" (fl. 489), demandaria incursão no campo fático-probatório, providência vedada na via especial, conforme a Súmula n. 7 do STJ.
+Cumpre esclarecer que "é firme o entendimento desta Corte no sentido de que os mesmos óbices impostos à admissão do recurso pela alínea "a" do permissivo constitucional impedem a análise recursal pela alínea "c", ficando prejudicada a análise do dissídio jurisprudencial" (AgInt no AREsp n. 2.874.198/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 18/8/2025, DJEN de 22/8/2025).
+Ademais, o conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige indicação do dispositivo legal objeto de interpretação divergente, bem como demonstração do dissídio, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e realização de cotejo analítico entre elas, nos termos definidos pelos arts. 255, §§ 1º e 2º, do RISTJ e 1.029, § 1º, do CPC, ônus dos quais a parte agravante não se desincumbiu.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como a concessão da gratuidade da justiça.
+Publique-se e intimem-se.
+EMENTA
