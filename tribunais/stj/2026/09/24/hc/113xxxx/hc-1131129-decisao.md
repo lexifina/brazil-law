@@ -1,0 +1,29 @@
+DECISÃO
+MARCO JUNIO MARTINS DE OLIVEIRA alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2201474-80.2026.8.26.0000.
+A defesa sustenta que não estão presentes os requisitos dos arts. 312 e 313 do CPP para justificar a custódia cautelar. Afirma que o decreto prisional não tem fundamentação concreta e está assentado na gravidade abstrata do crime. Sustenta, ainda a desproporcionalidade da prisão e a suficiência de medidas cautelares alternativas.
+Requer a revogação da prisão preventiva, ainda que mediante imposição de cautelares diversas.
+Decido.
+O habeas corpus comporta apreciação imediata, uma vez que a questão deduzida nesta impetração encontra solução no entendimento dominante do Superior Tribunal de Justiça.
+Infere-se dos autos que o insurgente foi preso em flagrante, no dia 30/6/2026, pela suposta prática do delito de tráfico de drogas.
+O Magistrado de origem homologou o flagrante e converteu a prisão em preventiva, em decisão assim fundamentada (fls. 112-113, destaquei):
+A materialidade delitiva encontra-se evidenciada pelo auto de exibição e apreensão, boletim de ocorrência, termos de depoimento, auto de prisão em flagrante e apreensão das substâncias entorpecentes submetidas à perícia preliminar.
+A quantidade e variedade das drogas apreendidas também extrapolam significativamente os limites compatíveis com consumo próprio, evidenciando elevado potencial lesivo da atividade criminosa e concreta periculosidade dos agentes. Foram apreendidos aproximadamente 917,1g de skunk, 109,5g de crack, 42g de haxixe, 6,4g de maconha e outras substâncias derivadas, fracionadas em centenas de porções destinadas à mercancia ilícita.
+Os indícios de autoria também se mostram presentes, decorrendo dos relatos convergentes dos agentes públicos responsáveis pela diligência, dos elementos de investigação já desenvolvidos pela especializada e da própria dinâmica da abordagem descrita nos autos.
+No caso concreto, a gravidade da conduta revela-se não apenas pela natureza do delito imputado, mas sobretudo pelas circunstâncias em que praticado. Foram apreendidas expressivas quantidades e variadas espécies de entorpecentes, já fracionadas e prontas para comercialização ilícita, consistentes em porções de skunk, crack, maconha e derivados de haxixe, evidenciando atividade criminosa estruturada e direcionada à difusão de drogas em larga escala.
+O Tribunal de origem ratificou a decisão de primeiro grau.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+No caso, o decreto prisional está devidamente fundamentado, pois indicou a gravidade da conduta, extraída da apreensão de 917,1 g de skunk, 109,5 g de crack e 42 g de haxixe, fracionadas em centenas de porções prontas para a comercialização. Além disso, ressaltou a presença de indícios de participação em atividade estruturada de difusão de drogas em larga escala.
+O STJ é firme ao asseverar que, nas situações em que a quantidade e/ou a natureza dos entorpecentes e outras circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são bastantes para demonstrar a gravidade concreta do delito e denotam a necessidade de se acautelar a ordem pública.
+Nessa perspectiva: "A prisão preventiva por tráfico de drogas pode ser decretada quando a gravidade concreta da conduta se evidencia por fatores como quantidade e natureza da substância apreendida, forma de acondicionamento ou presença de instrumentos destinados à comercialização, demonstrando maior potencial lesivo e periculosidade do agente" (AgRg no RHC n. 226.214/SP, Rel. Ministra Maria Marluce Caldas, 5ª T., DJEN de 30/3/2026).
+Menciono também:
+ ..
+1. A periculosidade do agente, ao ser preso com expressiva quantidade de droga, mais de 1 kg de maconha, constitui fundamentação idônea para a garantia da ordem pública.
+2. A desproporcionalidade da prisão preventiva em relação ao provável regime prisional não pode ser aferida antes da dosimetria da pena, incabível, portanto, sua antecipação na via eleita.
+3. Presentes fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão.
+4. Agravo regimental improvido.
+(AgRg no HC n. 633.326/MG, Rel. Ministro Olindo Menezes - Desembargador convocado do TRF 1ª Região -, 6ª T., DJe 7/5/2021, grifei)
+Em razão da gravidade do crime e das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se m ostram adequadas e suficientes para evitar a prática de novas infrações penais. Nesse sentido: "as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal são insuficientes para a consecução do efeito almejado. Ou seja, tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no HC n. 789.592/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 27/2/2023).
+Ressalto, por fim, que "Eventuais condições pessoais favoráveis não têm o condão de, por si sós, garantir a revogação da prisão preventiva" (AgRg no HC n. 582.182/RS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 21/8/2020).
+À vista do exposto, denego a ordem de habeas corpus.
+Publique-se e intimem-se.
+ EMENTA
