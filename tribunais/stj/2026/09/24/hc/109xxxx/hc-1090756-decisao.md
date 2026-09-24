@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo regimental interposto por MARIELE SILVA SANTOS, contra decisão de fls. 217-231, que não conheceu do habeas corpus substitutivo e, ao examinar a possibilidade de concessão de ofício, concluiu pela inexistência de ilegalidade flagrante, mantendo a prisão preventiva sem substituição por domiciliar.
+Sustenta a parte agravante que a decisão monocrática deve ser reformada. Afirma a incidência dos arts. 318, III, e 318-A do Código de Processo Penal, porque é mãe de criança menor com Transtorno do Espectro Autista, sem que se verifique qualquer das exceções legais. Alega que a regra protetiva, reafirmada no HC coletivo n. 143.641/SP, só pode ser afastada em situação verdadeiramente excepcional, com base em elementos concretos, e não em gravidade abstrata dos delitos ou em mera atribuição de posição na organização criminosa. Argumenta que os fundamentos usados para negar a domiciliar  companheirismo com o suposto líder, recebimento de valores via PIX e incompatibilidade entre o endereço indicado e o local de tratamento da criança  são aspectos da imputação ainda pendente de instrução e não autorizam, por si, a supressão do regime protetivo. Diz que eventuais ajustes de tratamento podem ser feitos na rede pública local, sem prejuízo do acompanhamento já iniciado, e que a atual guarda pela avó não elimina a necessidade de priorizar a presença materna, podendo a rede de apoio familiar, inclusive, facilitar a organização dos cuidados da criança.
+Aponta, ainda, a necessidade de isonomia. Ressalta que, em 30/06/2026, no HC n. 1.098.155/BA, fora concedida, de ofício, por essa relatoria, prisão domiciliar às corrés Dulcinea Maria de Jesus Santos e Vanessa Santa Bárbara dos Santos, da mesma ação penal, com fundamentos objetivos que também se aplicariam à sua situação. Invoca o art. 580 do CPP, por analogia, para extensão do entendimento, e pede, ao menos, que se determinem diligências junto ao Conselho Tutelar, CREAS e CMDCA sobre a criança, nos moldes daquela decisão anterior.
+Requer o provimento do agravo regimental para substituir a prisão preventiva por domiciliar, com cautelares do art. 319 do CPP; cumulativamente, a extensão do benefício deferido às corrés; e, subsidiariamente, a realização de estudo social antes do julgamento definitivo (fls. 239-246).
+Contrarrazões apresentadas (fls. 265-274).
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo regimental, ratificando a posição anterior de não conhecimento do writ e a ausência de ilegalidade para concessão de ofício (fls. 277 e 209-215).
+É o relatório.
+DECIDO.
+Conforme informado pela paciente, houve apresentação de pedido de extensão de efeitos da substituição da sua prisão preventiva por prisão domiciliar, nos moldes e condições fixados às corrés Vanessa Santa Bárbara dos Santos e Dulcinea Maria de Jesus Santos, nos autos do Habeas Corpus n. 1.098.155/BA, o qual restou deferido por mim em 05/08/2026, tendo transitado em julgado em 31/08/2026.
+Desse modo, fica evidenciada a perda superveniente do objeto do presente writ.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
