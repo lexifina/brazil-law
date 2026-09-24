@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de pedido de tutela de urgência formulado por RAIZEN CAARAPO ACUCAR E ALCOOL LTDA em medida cautelar com fundamento em querela nullitatis insanabilis e pedido de liminar.
+A Requerente sustenta nulidade absoluta do acórdão proferido no REsp n. 2.125.102/SP, por ausência de intimação válida de seus patronos habilitados, após petição protocolada em 4/11/2025 (fl.1.670 daqueles autos), na qual requereu a substituição do patrocínio e a realização de todas as intimações, "nos termos do Art. 272, §§ 1º e 2º, do CPC  sob pena de nulidade".
+Afirma que a Secretaria não efetivou o cadastramento, razão pela qual não teve ciência da publicação de pauta em 5/12/2025, tampouco da sessão virtual de 3/2/2026 a 9/2/2026 ou da publicação do acórdão em 11/2/2026.
+O acórdão REsp n. 2.125.102/SP transitou em julgado em 11/3/2026, iniciando-se o cumprimento de sentença com cobrança de R$ 239.884,34.
+Sustenta violação do art. 272, §§ 1º, 2º e 5º, do Código de Processo Civil e do art. 88, § 1º, do Regimento Interno do Superior Tribunal de Justiça; sustenta também violação aos arts. 9º e 10 também do CPC.
+Informa depósito do valor incontroverso e caução do remanescente para garantia do juízo, afastando periculum in mora inverso (fl. 15).
+Ao fim requereu a distribuição incidental da cautelar ao REsp n. 2.125.102/SP, a tutela de urgência para suspender a eficácia do acórdão e o cumprimento de sentença n 0000933-21.2026.8.26.0047, obstando atos constritivos e "o levantamento de valores controvertidos pelo Exequente até o julgamento final da presente medida", e, no mérito, o reconhecimento da nulidade de todos os atos após 4/11/2025, com declaração de inexistência jurídica do acórdão quanto à Requerente e nova inclusão em pauta com intimação regular.
+É, no essencial, o relatório. Decido.
+De acordo com o art. 300 do CPC, a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo. Ou seja, o deferimento do pedido de tutela provisória de urgência exige a presença simultânea de dois requisitos autorizadores: o fumus boni iuris, caracterizado pela relevância jurídica dos argumentos apresentados no pedido, e o periculum in mora, consubstanciado na possibilidade de perecimento do bem jurídico objeto da pretensão resistida.
+Na hipótese em tela, em exame perfunctório, não verifico o requisito do fumus boni juris, consubstanciado na ausência de probabilidade de êxito do pedido, pelo que passo a expor.
+O requerente pleiteia medida cautelar com fundamento em querela nullitatis insanabilis e pedido de liminar. O art. 67 do RISTJ enumera os tipos de processos que podem ser distribuídos nesta Corte e dentre os 54 tipos de ação e procedimentos, e dentre eles não esta a querela nullitatis insanabilis, logo a ação que seria principal não poderia ser sequer distribuída. Tampouco é possível se reconhecer a fungibilidade do presente procedimento com o da ação rescisória, pois os pedidos veiculados na inicial não preenchem os requisitos do art. 968 do CPC.
+Ademais, embora tenha alegado o depósito integral do valor executado, não houve demonstração desta providência.
+Ausente um dos requisitos, por serem cumulativos, fica prejudicada a análise do outro pressuposto e se mostra inviável atribuir efeito suspensivo ao recurso especial.
+A propósito, confiram-se estes precedentes: AgInt no TP n. 4.482/ES, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/6/2023, DJe de 14/6/2023; e AgInt na Pet n. 14.862/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 29/5/2023, DJe de 1º/6/2023.
+Ante o exposto, indefiro o pedido de tutela provisória.
+Publique-se. Intimem-se.
+EMENTA
