@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se d e habeas corpus impetrado em benefício de DARIO PEREIRA QUEIROZ - réu na Ação Penal n. 1534706-39.2016.8.26.0562, da 5ª Vara Criminal da comarca de Santos/SP -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que, em 18/5/2026, não conheceu do HC n. 2069868-26.2026.8.26.0000 (fls. 16/22).
+O impetrante alega o cabimento do writ para sanar processo manifestamente nulo, por constrangimento ilegal atual decorrente da suspeição de promotor de justiça.
+Afirma que a suspeição de membro do Ministério Público ocorre em razão da relação de parentesco entre o Promotor Renato dos Santos Gama e uma testemunha de acusação (comprovadamente sua genitora), havendo indícios de aconselhamento e preparação de depoimento, o que violaria o devido processo legal, a impessoalidade e a moralidade.
+Argumenta que, apesar do evidente conflito de interesses e da violação de seus deveres funcionais, o Dr. Renato dos Santos Gama não apenas deixou de se declarar suspeito, como também subscreveu peças processuais em conjunto com seus pares do GAECO, atuando diretamente no feito (fl. 8).
+Aponta constrangimento ilegal imediato, pois a condução da ação penal por órgão acusador suspeito contamina os atos processuais e ameaça o status libertatis do paciente, impondo a incidência do art. 564, I, do Código de Processo Penal e dos arts. 5º, LIV e LV, da Constituição.
+Em caráter liminar, requer a suspensão imediata do trâmite da ação penal.
+No mérito, pede a concessão da ordem para reconhecer a nulidade absoluta ab initio do processo, por suspeição manifesta do Promotor Renato dos Santos Gama, com anulação da Ação Penal n. 1534706-39.2016.8.26.0562 desde o nascedouro.
+Os autos foram a mim distribuídos por prevenção.
+É o relatório.
+Este writ não merece ir adiante.
+Tal como destacado na origem, a impetração busca a discussão de questão processual que não afeta diretamente a liberdade de locomoção.
+Ora, nos termos do art. 5º, LXVIII, da Constituição da República, a utilização do habeas corpus deve estar atrelada à demonstração, no caso concreto, de ato coator que possa ao menos vir a causar ameaça à liberdade de locomoção do paciente, por ilegalidade ou abuso de poder. 3. Não se destina o remédio constitucional, como regra, ao enfrentamento de questões processuais examinadas no curso da ação penal, impugnáveis através de instrumentos recursais expressamente previstos em lei, ressalvado, por óbvio, a hipótese em que haja concreto e iminente risco à liberdade de locomoção do indivíduo (AgRg no HC n. 874.713/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 20/8/2024).
+No caso, o paciente está solto, de modo que eventual concessão da ordem nem sequer influenciaria diretamente o status libertatis dele.
+Afora isso, o Tribunal estadual pontuou que a decisão hostilizada verticalizou na análise da prova produzida no expediente própio e encontra-se suficientemente fundamentada (fls. 376/399), de modo que para dissentir de suas conclusões seria necessário cotejo valorativo e profundo revolvimento de provas, providências sabidamente incompatíveis com a estreita via do Habeas Corpus (fl. 21). Observo, no ponto, que, contrariamente à alegação da defesa de que o promotor tido como suspeito atuou diretamente no feito, constou da decisão de primeiro grau que esse Promotor de Justiça nunca praticou qualquer ato na ação penal e nos seus incidentes (fl. 454).
+Aplicável, assim, o entendimento segundo o qual a alegação de suspeição ou impedimento de magistrado não apreciada pelo Tribunal de origem, por envolver matéria fática, não pode ser examinada originariamente em habeas corpus perante Tribunal Superior (AgRg no HC n. 1.076.001/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/5/2026, DJEN de 26/5/2026).
+Pelo exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. SUSPEIÇÃO DE MEMBRO DO MINISTÉRIO PÚBLICO. PRÉVIO WRIT NÃO CONHECIDO. AUSÊNCIA DE RISCO CONCRETO E IMINENTE À LIBERDADE DE LOCOMOÇÃO. NECESSIDADE DE INCURSÃO EM MATÉRIA FÁTICO-PROBATÓRIA. INADMISSIBILIDADE DO REMÉDIO CONSTITUCIONAL. IMPOSSIBILIDADE DE SUPRESSÃO DE INSTÂNCIA.
+Petição inicial indeferida liminarmente.
