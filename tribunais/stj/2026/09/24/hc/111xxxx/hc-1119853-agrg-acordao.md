@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 17/09/2026 a 24/09/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Pires Brandão, Nilsoni de Freitas (Desembargadora Convocada do TJDFT), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCAS VEICULAR E DOMICILIAR. SUPRESSÃO DE INSTÂNCIA. SENTENÇA CONDENATÓRIA. MANUTENÇÃO DA PRISÃO PREVENTIVA. MOTIVAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A alegação de nulidade da busca veicular e do ingresso domiciliar não foi examinada no acórdão impugnado, o que impede seu enfrentamento neste feito sob pena de indevida supressão de instância.
+2. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+3. É válida, para manter a prisão preventiva em sentença condenatória, a referência aos fundamentos exarados no decreto de custódia cautelar, conforme jurisprudência consolidada desta Corte Superior.
+4. No caso, a cautela extrema foi justificada pela gravidade concreta da conduta em tese perpetrada, evidenciada pela apreensão de 967 gramas de cocaína, 14 gramas de MDMA e 90 comprimidos de ecstasy, elementos idôneos para acautelar a ordem pública.
+5. Agravo regimental não provido.
+RELATÓRIO
+GUILHERME VIEIRA BELENS agrava de decisão em que conheci em parte do habeas corpus e deneguei a ordem.
+A defesa alega que a manutenção da custódia preventiva, na sentença que condenou o paciente à pena de 8 anos e 9 meses de reclusão, em regime inicial fechado, mais multa, pela prática do crime descrito no art. 33, caput, c/c o art. 40, II, da Lei n. 11.343/2006, não foi devidamente fundamentada, em afronta ao art. 387, § 1º, do CPP.
+Reitera a tese de nulidade na busca veicular e no ingresso domiciliar e sustenta condições pessoais favoráveis e suficiência de medidas cautelares diversas, além de argumentar que a quantidade de drogas apreendida não justificaria, por si só, a prisão preventiva.
+Pleiteia, assim, a reconsideração da decisão agravada ou a submissão do feito a julgamento colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCAS VEICULAR E DOMICILIAR. SUPRESSÃO DE INSTÂNCIA. SENTENÇA CONDENATÓRIA. MANUTENÇÃO DA PRISÃO PREVENTIVA. MOTIVAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A alegação de nulidade da busca veicular e do ingresso domiciliar não foi examinada no acórdão impugnado, o que impede seu enfrentamento neste feito sob pena de indevida supressão de instância.
+2. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+3. É válida, para manter a prisão preventiva em sentença condenatória, a referência aos fundamentos exarados no decreto de custódia cautelar, conforme jurisprudência consolidada desta Corte Superior.
+4. No caso, a cautela extrema foi justificada pela gravidade concreta da conduta em tese perpetrada, evidenciada pela apreensão de 967 gramas de cocaína, 14 gramas de MDMA e 90 comprimidos de ecstasy, elementos idôneos para acautelar a ordem pública.
+5. Agravo regimental não provido.
+VOTO
+Apesar dos argumentos despendidos pelo agravante, entendo que não lhe assiste razão.
+Inicialmente, recordo que, conforme pontuado no decisum agravado, a questão relacionada à nulidade da prova (busca veicular e ingresso domiciliar) não foi analisada no acórdão combatido, o que inviabiliza seu exame nesta oportunidade, por acarretar supressão de instância.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP) (fls. 118-119).
+Conforme destaquei na decisão agravada, esta Corte Superior considera válida, para manter a prisão preventiva em sentença condenatória, a referência aos fundamentos exarados no decreto de custódia cautelar. A propósito:
+
+1. A jurisprudência consolidada desta Corte Superior considera válida, para manter a prisão preventiva em sentença condenatória ou decisão de pronúncia, a referência aos fundamentos exarados no decreto de custódia cautelar. Precedentes.
+
+5. Agravo não provido.
+(AgRg no HC n. 776.127/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/4/2023, DJe de 19/4/2023.
+Ao proferir a sentença condenatória, o Juízo singular consignou "que os requisitos do artigo 312 do Código de Processo Penal que motivaram a manutenção de sua segregação se mantêm (evento 16, auto de prisão em flagrante de n.5001321-71.2026.8.24.0505 - apenso), em especial, a garantia da ordem pública, tendo em vista a possibilidade de reiteração criminosa e a salvaguarda da aplicação da lei penal, uma vez que o acusado já foi submetido ao contraditório judicial e condenado, sendo que a decretação de sua liberdade, além de possibilitar o retorno à atividade criminosa por parte deste, criará na sociedade um sentimento de impunidade de prejuízos incalculáveis" (fl. 76, grifei).
+Conforme destaquei, a fundamentação exarada para decretar a prisão preventiva do paciente já foi por mim apreciada (e considerada idônea) no HC n. 1.092.206/SC, ocasião em que concluí demonstrada a gravidade concreta da conduta, notadamente pela apreensão de grande quantidade e variedade de substâncias estupefacientes, isto é, 967 gramas de cocaína, 14 gramas de MDMA e 90 comprimidos de ecstasy (fl. 119).
+Registre-se, ainda, a conclusão alinhada às instâncias ordinárias de que "a quantidade e a diversidade dos entorpecentes encontrados com o agente, quando evidenciarem a maior reprovabilidade do fato, podem servir de fundamento para a prisão preventiva" (AgRg no RHC n. 178.504/SP, rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 16/6/2023).
+Portanto, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada. A propósito: "É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos" (AgRg no HC n. 749.888/RS, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe 26/8/2022).
+À vista do exposto, nego provimento ao agravo regimental.
