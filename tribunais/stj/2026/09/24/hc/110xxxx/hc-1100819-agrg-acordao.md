@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 17/09/2026 a 24/09/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Pires Brandão, Nilsoni de Freitas (Desembargadora Convocada do TJDFT), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. FRAÇÃO DO REDUTOR. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O disposto no art. 33, § 4º, da Lei n. 11.343/2006 estabelece apenas os requisitos necessários para a aplicação da minorante nele prevista, deixando, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena. Uma vez que, no caso, a instância de origem - dentro do seu livre convencimento motivado - fundamentou, com base em argumentos idôneos e específicos dos autos, o porquê da redução de pena no patamar de 1/6, não se verifica nenhuma ilegalidade manifesta de que estaria sendo vítima o réu.
+2. Agravo regimental não provido.
+RELATÓRIO
+GUSTAVO HENRIQUE DA SILVA interpõe agravo regimental contra decisão de minha relatoria, em que deneguei a ordem de habeas corpus e, por conseguinte, mantive inalterada a reprimenda a ele imposta pela prática do crime de tráfico de drogas.
+A defesa reitera a sua compreensão de que a minorante prevista no § 4º do art. 33 da Lei de Drogas deve ser aplicada no patamar máximo de 2/3, e não em 1/6, como efetivado pela Corte de origem.
+Afirma que "as especificidades do presente caso aliada à quantidade apreendida não permitem a aplicação da fração de 1/6, pois a quantidade apreendida não é considerada exorbitante a ponto de afastar a aplicação da minorante por 2/3. A quantidade de droga, isoladamente considerada, não justifica a fração mínima de 1/6" (fl. 126).
+Requer, assim, a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado, para que a referida minorante seja aplicada no patamar máximo de 2/3.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. FRAÇÃO DO REDUTOR. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O disposto no art. 33, § 4º, da Lei n. 11.343/2006 estabelece apenas os requisitos necessários para a aplicação da minorante nele prevista, deixando, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena. Uma vez que, no caso, a instância de origem - dentro do seu livre convencimento motivado - fundamentou, com base em argumentos idôneos e específicos dos autos, o porquê da redução de pena no patamar de 1/6, não se verifica nenhuma ilegalidade manifesta de que estaria sendo vítima o réu.
+2. Agravo regimental não provido.
+VOTO
+Em que pesem os argumentos despendidos pela defesa, entendo que não lhe assiste razão.
+Segundo o disposto no § 4º do art. 33 da Lei de Drogas, "Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa".
+Assim, observa-se que o dispositivo legal estabelece apenas os requisitos necessários para a aplicação da minorante nela prevista, deixando, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+No caso, a Corte de origem - dentro do seu livre convencimento motivado - fundamentou, com base em argumentos idôneos e específicos dos autos, o porquê da redução de 1/6, havendo mencionado que "Os Laudos Toxicológicos in casu demonstram que foram apreendidos aproximadamente 480,43 g (quatrocentos e oitenta gramas e quarenta e três centigramas) de maconha, 49,13 g (quarenta e nove gramas e treze centigramas) de crack e 173,91g (cento e setenta e três gramas e noventa e um centigramas) de cocaína, quantidade esta que se mostra bastante expressiva, e demonstra a maior periculosidade da conduta dos réus, a justificar a exasperação da pena" (fl. 63).
+Relembro, por oportuno, que o juiz, ao reconhecer a presença dos quatro requisitos necessários ao reconhecimento da benesse em questão, não está obrigado a aplicar o patama r máximo de redução de pena, porquanto possui plena discricionariedade para, à luz das peculiaridades do caso concreto, efetivar a diminuição no quantum que entenda suficiente e necessário para a prevenção e a repressão do delito perpetrado, tal como ocorreu no caso dos autos.
+Portanto, em razão de todas essas considerações, entendo irretocável a conclusão do decisum recorrido de que deveria ser mantida inalterada a reprimenda a imposta ao réu.
+À vista do exposto, nego provimento ao agravo regimental.
