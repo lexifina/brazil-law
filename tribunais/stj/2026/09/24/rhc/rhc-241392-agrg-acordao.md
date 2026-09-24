@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 17/09/2026 a 24/09/2026, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Carlos Pires Brandão.
+Os Srs. Ministros Nilsoni de Freitas (Desembargadora Convocada do TJDFT), Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TENTATIVA DE HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. MANUTENÇÃO NA PRONÚNCIA. GARANTIA DA ORDEM PÚBLICA E APLICAÇÃO DA LEI PENAL. GRAVIDADE CONCRETA. FUGITIVO DO DISTRITO DA CULPA. PARTICIPAÇÃO EM ATOS POR VIDEOCONFERÊNCIA. CONTEMPORANEIDADE DA MEDIDA. MEDIDAS CAUTELARES DIVERSAS. INADEQUAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que negou provimento ao recurso ordinário em habeas corpus, mantendo a prisão preventiva do agravante, denunciado e pronunciado pela suposta prática do crime de tentativa de homicídio qualificado por motivo torpe e mediante recurso que dificultou a defesa da vítima, em concurso de pessoas.
+2. A segregação cautelar foi decretada em junho de 2022 e mantida na sentença de pronúncia proferida em 16/09/2025, permanecendo em aberto o mandado de prisão.
+3. A defesa sustenta ausência de contemporaneidade nos fundamentos da prisão, falta de fundamentação concreta, desproporcionalidade da medida e colaboração processual evidenciada pela constituição de advogado e pela participação do réu na instrução por videoconferência, requerendo a revogação da custódia ou a substituição por medidas cautelares alternativas do art. 319 do CPP.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se a condição de foragido do réu, somada à gravidade concreta do delito demonstrada no modus operandi, justifica a manutenção da prisão preventiva para a garantia da ordem pública e da aplicação da lei penal, afastando a tese de falta de contemporaneidade e a suficiência de medidas cautelares diversas do art. 319 do CPP, ainda que o acusado tenha participado da instrução por videoconferência.
+III. RAZÕES DE DECIDIR
+5. A condição de foragido do distrito da culpa por longo período afasta a alegação de constrangimento ilegal por falta de contemporaneidade e evidencia o risco atual e contínuo à aplicação da lei penal.
+6. A constituição de advogado e a participação remota em atos processuais por videoconferência não afastam a necessidade da segregação cautelar quando o réu permanece se esquivando deliberadamente ao cumprimento do mandado de prisão expedido em seu desfavor.
+7. A gravidade concreta da conduta apurada, estampada no modus operandi da tentativa de homicídio qualificado em concurso de agentes, justifica a custódia cautelar para a garantia da ordem pública.
+8. As medidas cautelares alternativas previstas no art. 319 do CPP mostram-se inadequadas e insuficientes para resguardar a ordem pública e a aplicação da lei penal diante da postura contumaz do réu em manter-se evadido.
+IV. DISPOSITIVO
+9. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JOÃO VICTOR HOLZMEISTER DA SILVA contra decisão monocrática que negou provimento ao recurso ordinário em habeas corpus (fls. 1040-1044).
+Consta dos autos que o agravante responde a ação penal pela suposta prática de tentativa de homicídio qualificado por motivo torpe e mediante recurso que dificultou a defesa da vítima, em concurso de pessoas, com denúncia recebida e prisão preventiva decretada em junho de 2022, participação na instrução por videoconferência e manutenção da custódia na sentença de pronúncia proferida em 16/09/2025, permanecendo em aberto o mandado de prisão (fls. 873-886 e 1040-1044).
+A decisão agravada manteve a prisão preventiva com fundamento na gravidade concreta da conduta, evidenciada pelo modus operandi do delito, e na necessidade de assegurar a aplicação da lei penal em razão da evasão do distrito da culpa. Assentou que a participação do réu em atos processuais por videoconferência não afasta o periculum libertatis e rejeitou a tese de ausência de contemporaneidade, por persistirem riscos atuais, e considerou inadequadas medidas cautelares diversas (fls. 1040-1044).
+O agravante sustenta falta de contemporaneidade dos motivos da prisão preventiva e inexistência de fatos novos que justifiquem a medida, apontando que, apesar do não cumprimento do mandado, não há registro de reiteração delitiva, ameaça a testemunhas ou qualquer interferência negativa na condução do feito.
+Argumenta, ainda, que a condição de foragido, isoladamente, não configura justa causa para a manutenção da custódia, destacando ter constituído advogado, apresentado defesa técnica e participado da instrução por videoconferência, o que evidenciaria colaboração com o processo e ausência de risco à aplicação da lei penal.
+Aponta fundamentação genérica quanto ao periculum libertatis, afirma que não houve indicação concreta da dinâmica delitiva para justificar a gravidade em abstrato, ressalta a regularidade da marcha processual até a pronúncia em 16/09/2025 e menciona atos processuais subsequentes, inclusive a pendência de juízo de retratação no recurso em sentido estrito, atribuindo eventual atraso à desídia estatal.
+Requer o provimento do agravo regimental para reformar a decisão monocrática e revogar a prisão preventiva do agravante. Subsidiariamente, pleiteia a aplicação de medidas cautelares diversas da prisão (fls. 1048-1053).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TENTATIVA DE HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. MANUTENÇÃO NA PRONÚNCIA. GARANTIA DA ORDEM PÚBLICA E APLICAÇÃO DA LEI PENAL. GRAVIDADE CONCRETA. FUGITIVO DO DISTRITO DA CULPA. PARTICIPAÇÃO EM ATOS POR VIDEOCONFERÊNCIA. CONTEMPORANEIDADE DA MEDIDA. MEDIDAS CAUTELARES DIVERSAS. INADEQUAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que negou provimento ao recurso ordinário em habeas corpus, mantendo a prisão preventiva do agravante, denunciado e pronunciado pela suposta prática do crime de tentativa de homicídio qualificado por motivo torpe e mediante recurso que dificultou a defesa da vítima, em concurso de pessoas.
+2. A segregação cautelar foi decretada em junho de 2022 e mantida na sentença de pronúncia proferida em 16/09/2025, permanecendo em aberto o mandado de prisão.
+3. A defesa sustenta ausência de contemporaneidade nos fundamentos da prisão, falta de fundamentação concreta, desproporcionalidade da medida e colaboração processual evidenciada pela constituição de advogado e pela participação do réu na instrução por videoconferência, requerendo a revogação da custódia ou a substituição por medidas cautelares alternativas do art. 319 do CPP.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se a condição de foragido do réu, somada à gravidade concreta do delito demonstrada no modus operandi, justifica a manutenção da prisão preventiva para a garantia da ordem pública e da aplicação da lei penal, afastando a tese de falta de contemporaneidade e a suficiência de medidas cautelares diversas do art. 319 do CPP, ainda que o acusado tenha participado da instrução por videoconferência.
+III. RAZÕES DE DECIDIR
+5. A condição de foragido do distrito da culpa por longo período afasta a alegação de constrangimento ilegal por falta de contemporaneidade e evidencia o risco atual e contínuo à aplicação da lei penal.
+6. A constituição de advogado e a participação remota em atos processuais por videoconferência não afastam a necessidade da segregação cautelar quando o réu permanece se esquivando deliberadamente ao cumprimento do mandado de prisão expedido em seu desfavor.
+7. A gravidade concreta da conduta apurada, estampada no modus operandi da tentativa de homicídio qualificado em concurso de agentes, justifica a custódia cautelar para a garantia da ordem pública.
+8. As medidas cautelares alternativas previstas no art. 319 do CPP mostram-se inadequadas e insuficientes para resguardar a ordem pública e a aplicação da lei penal diante da postura contumaz do réu em manter-se evadido.
+IV. DISPOSITIVO
+9. Agravo regimental desprovido.
+VOTO
+Presentes os requisitos de admissibilidade, conheço do recurso interposto. No mérito, a pretensão recursal não merece acolhimento.
+Conforme relatado, o agravante foi denunciado e pronunciado pela suposta prática do crime de tentativa de homicídio qualificado (por motivo torpe e mediante recurso que dificultou a defesa da vítima), em concurso de pessoas. A prisão preventiva foi decretada em junho de 2022, sendo mantida na sentença de pronúncia proferida em 16/09/2025, e o mandado prisional permanece em aberto.
+Neste agravo regimental, a Defesa sustenta, em suma, a falta de contemporaneidade dos motivos da custódia, a inexistência de fatos novos e a ocorrência de constrangimento ilegal. Alega que o agravante constituiu advogado e participou da instrução por videoconferência, o que afastaria o risco à aplicação da lei penal, e pugna pela revogação da medida ou sua substituição por cautelares diversas.
+Não obstante os argumentos apresentados, a irresignação não prospera. A decisão agravada deve ser integralmente mantida, porquanto proferida em estrita consonância com a ordem jurídica e com o entendimento pacificado desta Corte Superior.
+Inicialmente, quanto à alegação de falta de contemporaneidade e demora no trâmite processual, a jurisprudência deste Superior Tribunal de Justiça é pacífica no sentido de que a condição de foragido afasta a alegação de constrangimento ilegal pela dita ausência de contemporaneidade.
+O fato de o agravante permanecer evadido do distrito da culpa há longo período evidencia, por si só, o contínuo e atual risco à persecução penal. A fuga prolongada constitui fundamento idôneo para a decretação e a manutenção da prisão preventiva, diante do risco manifesto à aplicação da lei penal. Nesse sentido:
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO TENTADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS. ORDEM DENEGADA.
+(..)
+5. A prisão preventiva é compatível com a presunção de inocência quando fundamentada em elementos concretos que indicam o fumus comissi delicti e o periculum libertatis.
+6. A gravidade concreta da conduta, evidenciada pelo modus operandi do crime, praticado mediante disparo de arma de fogo contra vítima de 14 anos em local de aglomeração de pessoas, é circunstância apta a indicar a periculosidade do agente e constitui fundamentação idônea para o decreto preventivo.
+7. A fuga do distrito da culpa denota a intenção do acusado em não colaborar com a instrução criminal e se furtar da aplicação da lei penal.
+IV. Dispositivo e tese
+8. Ordem denegada. (HC 1006237/SP, relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 13/08/2025, DJEN de 18/08/2025)
+Nesse contexto, o argumento de que o agravante teria demonstrado "colaboração" ao constituir defesa técnica e participar da instrução por meio de videoconferência não tem o condão de afastar o periculum libertatis. A participação remota em atos processuais, enquanto o réu se recusa deliberadamente a se submeter à jurisdição estatal e ao cumprimento do mandado de prisão expedido há anos em seu desfavor, denota inegável intenção de se furtar à responsabilidade penal, reforçando, e não mitigando, a necessidade da custódia cautelar.
+Ademais, os motivos declinados quando da decretação da prisão cautelar se robustecem com a superveniência da sentença de pronúncia. A manutenção da segregação encontra amparo não apenas na evasão, mas na gravidade concreta do delito, evidenciada pelo modus operandi da conduta imputada (tentativa de homicídio praticada por motivo torpe, mediante recurso que dificultou a defesa da vítima e em concurso de agentes). Tais circunstâncias denotam a periculosidade do agente e justificam a custódia para a garantia da ordem pública. A propósito:
+DIREITO PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDO QUALIFICADO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA. RÉU FORAGIDO POR QUATRO ANOS. RECURSO DESPROVIDO.
+(..)
+3. A prisão preventiva está fundamentada em elementos concretos que justificam a necessidade da medida, considerando o grave risco à ordem pública evidenciado pelo modus operandi do crime, a inserção do paciente em organização criminosa e o fato de ter permanecido foragido por quatro anos após o decreto da prisão.
+4. A ausência de contemporaneidade não se verifica no caso, uma vez que o fundamento do decreto é analisado a partir da data do cumprimento da prisão, demonstrando que o risco à ordem pública persiste.
+5. A disparidade no tratamento entre os réus não se configura, pois os demais acusados foram postos em liberdade diante do excesso de prazo para o oferecimento da denúncia, situação distinta do recorrente, que permaneceu foragido.
+IV. Dispositivo e tese
+6. Recurso desprovido.
+Tese de julgamento: "1. A prisão preventiva pode ser mantida quando fundamentada em elementos concretos que evidenciam risco à ordem pública. 2. A análise da contemporaneidade da pr isão preventiva considera a data do cumprimento da prisão e a persistência do risco à ordem pública. 3. A disparidade de tratamento entre réus não se configura quando há justificativa distinta para a manutenção da prisão de um dos acusados."
+Dispositivos relevantes citados: CPP, arts. 312, 319 e 580.
+Jurisprudência relevante citada: STF - HC n. 206.116-AgR, Ministra Rosa Weber, Primeira Turma, DJe 18/10/2021. (RHC 212053/PA, relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 06/05/2025, DJEN de 09/05/2025)
+Por via de consequência, tendo em vista que a necessidade da prisão preventiva foi concretamente demonstrada nos termos dos arts. 312 e 313, ambos do Código de Processo Penal, não se mostra suficiente a aplicação de medidas cautelares mais brandas, previstas no art. 319 do mesmo diploma legal. É cediço que o comparecimento periódico ou o monitoramento eletrônico seriam inócuos para um réu que já demonstra franca disposição em burlar a lei penal mantendo-se foragido.
+Dessa forma, na ausência de argumento relevante que infirme as razões consideradas no julgado ora agravado, que está em estrita sintonia com a jurisprudência desta Corte Superior de Justiça, deve ser mantida a decisão impugnada por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
