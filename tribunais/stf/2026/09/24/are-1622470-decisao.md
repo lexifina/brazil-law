@@ -1,0 +1,156 @@
+Ementa: Direito administrativo e outras matérias de direito público. Recurso extraordinário com agravo. Ação Civil Pública. Loteamento. Infraestrutura urbana. Omissão assentada pelo Tribunal de origem. Município. Responsabilidade. Previsão em norma local. Análise:  Reexame de legislação infraconstitucional e revisão de fatos e provas. Impossibilidade. Enunciado nº 279 da súmula do STF. Negativa de provimento.
+I. Caso em exame
+1. Agravo contra decisão pela qual se negou seguimento a recurso extraordinário interposto em desfavor de acórdão pelo qual o Tribunal de Justiça do Estado de Minas Gerais manteve condenação do município à obrigação de fazer, consistente na revitalização do sistema de drenagem pluvial e implantação de sistema de iluminação em loteamento.
+2. O recorrente sustentou que a responsabilidade pela infraestrutura urbana essencial é do loteador e que os problemas surgiram 20 (vinte) anos após a aprovação do loteamento, devido a novas edificações, não configurando negligência da Administração. Alegou que a responsabilidade seria das concessionárias de serviços públicos (Cemig e Codau). O recurso extraordinário pedia a reforma do acórdão para que fosse declarada a responsabilidade subsidiária do Município e o ressarcimento de eventuais valores despendidos.
+II. Questão em discussão
+3. A questão em discussão consiste em saber houve omissão do Município, a fim de concluir pela responsabilidade em relação às providências determinadas.
+III. Razões de decidir
+4. O Tribunal de origem decidiu a controvérsia sobre a responsabilidade do Município com base no quadro fático dos autos e na legislação municipal pertinente.
+5. A revisão do entendimento adotado pelo Tribunal de origem quanto à responsabilidade do Município e à existência de omissão demandaria o reexame do conjunto fático-probatório e a análise de normas infraconstitucionais, o que é vedado em recurso extraordinário, conforme o enunciado nº 279 da Súmula do Supremo Tribunal Federal.
+IV. Dispositivo
+6. Recurso extraordinário com agravo ao qual se nega provimento.
+
+DECISÃO
+
+1. Trata-se de agravo contra decisão pela qual se negou seguimento a recurso extraordinário interposto em desfavor de acórdão do Tribunal de Justiça do Estado de Minais Gerais, assim ementado:
+
+“APELAÇÕES CÍVEIS – AÇÃO CIVIL PÚBLICA – PRELIMINARES – AUSÊNCIA DE FUNDAMENTAÇÃO DA SENTENÇA – REJEITADA – IMPOSSIBILIDADE DE CHAMAMENTO AO PROCESSO E ILEGITIMIDADE PASSIVA – ACOLHIDAS – PREJUDICIAL DE MÉRITO – PRESCRIÇÃO – AFASTADA – MÉRITO – LOTEAMENTO APROVADO PELA PREFEITURA DE UBERABA EM 1992 – CUMPRIMENTO DAS OBRIGAÇÕES ASSUMIDAS PELO LOTEADOR – PROBLEMAS INFRAESTRUTURAIS SURGIDOS PELO DECURSO DO TEMPO – REVITALIZAÇÃO DO SISTEMA DE DRENAGEM PLUVIAL E IMPLANTAÇÃO DE SISTEMA DE ILUMINAÇÃO – RESPONSABILIDADE DO MUNICÍPIO – SENTENÇA PARCIALMENTE REFORMADA.
+ - O art. 93, IX, da Constituição da República, prescreve que é nulo o provimento jurisdicional proferido sem a devida fundamentação jurídica, o que exige do juiz motivar seu racional convencimento de modo claro e preciso. Todavia, estando a sentença suficientemente motivada, não há que se falar em nulidade da decisão.
+- O chamamento ao processo objetiva a inclusão do devedor principal ou dos coobrigados pela dívida para integrarem o polo passivo da relação jurídica já existente, a fim de que o juiz declare, na mesma sentença, a responsabilidade de cada um.
+- O Superior Tribunal de Justiça assentou o entendimento de que o chamamento ao processo somente é admissível nas obrigações solidárias de pagar quantia certa, não sendo cabível nas obrigações de fazer.
+- Inexistindo documento que vincule a quinta apelante ao contrato de loteamento ou à sua execução, tratando-se, à evidência, de pessoa jurídica diversa daquela que efetivamente firmou o contrato com o Município de Uberaba, forçoso reconhecer sua ilegitimidade passiva para o feito.
+- A ação civil pública que visa à condenação de ente público a obrigação de fazer consistente em reparar irregularidades urbanísticas verificadas em loteamento que aprovou não se sujeita à prescrição, por se tratar de infração omissiva de caráter permanente, que, segundo o STJ, pelo menos no âmbito cível-administrativo, renova-se sucessivamente até que cessada. - Nos termos do art. 182 da Constituição da República de 1988, a política de desenvolvimento urbano é de responsabilidade do Poder Público municipal. Desse modo, passados mais de vinte anos desde a execução das obras de loteamento e verificando-se que as galerias de água pluvial se tornaram insuficientes para o atendimento da demanda, em razão da expansão do sistema viário, deve ser reconhecida a responsabilidade do ente público municipal pela revitalização do sistema de drenagem pluvial, assim como pela instalação da infraestrutura de iluminação pública necessária.
+- Se a prova produzida nos autos demonstra que, à época da aprovação do loteamento, o projeto atendeu às diretrizes e normas municipais, não tendo havido nenhuma notícia de irregularidade quanto à execução do projeto, deve ser reformada a sentença para afastar a condenação do loteador pela execução de obras de infraestrutura necessárias, que surgiram com o passar do tempo.” (e-doc. 264).
+
+2. Os embargos de declaração opostos foram rejeitados (e-doc. 282).
+
+3. No recurso extraordinário, o recorrente aponta violados os arts. 5º, incs. XXXV e LV, 30, inc. VIII, 37, inc. XIX, e 93, inc. IX, da Constituição da República.
+
+3.1. Narra que a competência estabelecida no art. 30, inc. VIII, da CRFB “diz respeito primordialmente à delimitação das áreas de parcelamento do loteamento, cabendo ao próprio lotador realizar as obras de equipamentos urbanos essenciais – como redes elétrica e pluvial – dos imóveis que pretende incorporar”.
+
+3.2. Dessa forma, sustenta que o fato de a municipalidade, à época da implantação do loteamento, ter entendido pela regularidade da execução do projeto não torna o Município responsável por irregularidades verificadas 20 (vinte) anos depois, decorrentes de novas edificações.
+
+3.3. Afirma que não foi configurada negligência da Administração.
+
+3.4. Alega que, se houvesse omissão na fiscalização, seria das “pessoas jurídicas de direito privado especialmente criadas para este fim, e que detém expertise técnica para tanto, fiscalizar suas respectivas áreas de sua atuação, nos termos do art.37, XIX, da CRFB/88”.
+
+3.5. Nesse sentido, indica que “a responsabilidade precípua pela implementação dos equipamentos urbanos faltantes na instalação da infraestrutura de iluminação pública no final da Rua Osvaldo Pagliaro e na correção/revitalização do sistema de drenagem pluvial é, respectivamente, da CEMIG e da CODAU – concessionárias destes serviços públicos em regime de monopólio em Uberaba”.
+
+3.6. Requer o provimento do apelo extremo, a fim de que, reformado o acórdão recorrido, seja declarada “a responsabilidade subsidiária do Município de Uberaba quanto à regularização do loteamento, bem como para determinar o devido ressarcimento de eventuais valores dispendidos pelo Município em cumprimento da referida obrigação de fazer” (e-doc. 324).
+
+É o relatório.
+
+Decido.
+
+4. Transcrevo os fundamentos do acórdão impugnado:
+
+“Verifica-se, pois, que o chamamento ao processo objetiva a inclusão do devedor principal ou dos coobrigados pela dívida para integrarem o polo passivo da relação já existente, a fim de que o juiz declare, na mesma sentença, a responsabilidade de cada um.
+ Ademais, depreende-se que a citação daquele que deva figurar como litisconsorte passivo será requerida pelo réu em sede de contestação, sob pena de ficar sem efeito o chamamento.
+In casu, o Ministério Público ajuizou ação civil pública em face do Município de Uberaba/MG, em virtude de supostas irregularidades urbanísticas constatadas no loteamento “Conjunto Uberaba I” em sede de inquérito civil. Ao contestar a ação (fls. 161/182-TJ), o ente municipal, dentre outros pontos, pediu o chamamento ao processo do Centro Operacional de Desenvolvimento e Saneamento de Uberaba – CODAU, e da Central Energética de Minas Gerais – CEMIG.
+ Segundo o réu, em caso de eventual condenação, não poderia ser o único responsabilizado pela realização de obras de infraestrutura de galerias de água e da rede elétrica, eis que caberia ao CODAU, à época denominada Companhia das Águas, fiscalizar e aprovar a implantação das galerias pluviais, enquanto à CEMIG competiria aprovar o projeto de iluminação pública.
+Ao discorrer sobre o instituto do chamamento ao processo, o Superior Tribunal de Justiça assentou o entendimento de que somente seria admissível nas obrigações solidárias de pagar quantia certa, não sendo cabível nas obrigações de fazer, tal como ocorre no presente caso:
+“ADMINISTRATIVO E PROCESSUAL CIVIL. FORNECIMENTO DE MEDICAMENTOS. CHAMAMENTO DA UNIÃO AO PROCESSO. NÃO CABIMENTO. QUESTÃO TIPICAMENTE PROCESSUAL. DESNECESSIDADE DE SOBRESTAMENTO. CERCEAMENTO DE DEFESA. SÚMULA 7/STJ.
+1. O tema tratado no presente recurso especial não diz respeito à caracterização ou não responsabilidade solidária dos Entes Federados para o fornecimento de medicamentos.
+2. Não está o recurso especial questionando a existência de solidariedade passiva. Na verdade, o Estado de Santa Catarina parte desse pressuposto para afirmar que tem direito de chamar a União ao processo, e deslocar os autos para a justiça federal.
+3. Portanto, em face do seu objeto, o presente recurso pode ser julgado, não havendo falar em sobrestamento ou espera pelo pronunciamento do Supremo Tribunal Federal no julgamento do RE 566.471/RN, cuja repercussão geral foi reconhecida.
+4. O chamamento ao processo, previsto no art. 77, III, do CPC, é típico de obrigações solidárias de pagar quantia. Trata-se de excepcional formação de litisconsórcio passivo facultativo promovida pelo demandado, que não comporta interpretação extensiva para alcançar prestação de entrega de coisa certa, cuja satisfação efetiva inadmite divisão. Precedentes: (AgRg no REsp 1.009.622/SC, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 3.8.2010, DJe 14.9.2010), (REsp 1.125.537/SC, Rel. Min. Teori Albino Zavascki, Primeira Turma, julgado em 16.3.2010, DJe 24.3.2010).
+5. Portanto, qualquer que seja o resultado que o Supremo Tribunal Federal ou o Superior Tribunal de Justiça venham concluir a respeito da solidariedade passiva, ou não, dos Entes Federados na obrigação de fornecer medicamentos, desde já, é possível definir que não caberá o chamamento ao processo, pois este instituto só é possível nas obrigações solidárias de pagar quantia certa, e não nas obrigações de fazer.
+6. O Tribunal de origem entendeu que a causa estava pronta para julgamento, e fundamentou esta decisão baseado em razões fático-probatórias, de modo que para se conhecer das alegações do recorrente seria necessário o revolvimento da matéria probatória, o que é vedado a esta Corte Superior, nos termos da Súmula 7/STJ. Agravo regimental improvido. (AgRg no REsp 1249125/SC, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 14/06/2011, DJe 21/06/2011) (destaquei)
+Em caso análogo ao presente, em que o CODAU foi chamado à lide nos autos de ação civil pública movida pelo Ministério Público contra o Município de Uberaba, visando à condenação do réu em obrigação de fazer concernente a regularizar a parte estrutural do loteamento denominado "Jardim Califórnia", esta 5ª Câmara Cível assim decidiu:
+(...)
+Isso posto, ACOLHO A PRELIMINAR para reformar a sentença e julgar improcedente o pedido de chamamento do CODAU e da CEMIG ao processo, ficando extinta a ação, sem resolução de mérito, em relação a ambos. Por conseguinte, fica prejudicada a análise dos demais aspectos de seus recursos.
+(...)
+MÉRITO
+O primeiro e o terceiro recursos terão seus méritos examinados conjuntamente porque seus argumentos se confundem.
+Haure-se que o Ministério Público moveu ação civil pública em face do Município de Uberaba, aduzindo que foram apuradas, em sede de inquérito civil, irregularidades urbanísticas no loteamento Conjunto Uberaba I, no que tange à instalação de infraestrutura de iluminação pública e correção do sistema de drenagem pluvial.
+Segundo noticiou o parquet, o próprio ente público teria prestado informações no sentido de que, embora a loteadora tenha cumprido com as obrigações assumidas, “situações irregulares surgiram pela omissão do ente municipal em mal avaliar o sistema de drenagem e, ainda, deixar de planejar e implantar a iluminação pública no final da rua Osvaldo Pagliaro.”
+ Dessa feita, apontou ser de responsabilidade do réu a regularização do loteamento, sobretudo em virtude de sua omissão quanto ao planejamento da obra, pelo que pugnou pela condenação do Município à obrigação de fazer, consubstanciada em implementar os equipamentos urbanos faltantes, quais sejam a instalação de infraestrutura de iluminação pública no final da rua Osvaldo Pagliaro e a correção/revitalização do sistema de drenagem pluvial, mediante a elaboração de projetos técnicos com ART – Anotação de Responsabilidade Técnica.
+ Em sua contestação, o Município de Uberaba requereu a denunciação da lide das empresas loteadoras, Construtora Guimarães Castro Ltda. e RCG Engenharia e Empreendimentos Ltda., bem como o chamamento ao processo do Centro Operacional de Desenvolvimento e Saneamento de Uberaba - CODAU e da Central Energética de Minas Gerais – CEMIG. No mérito, afirmou que o projeto de loteamento se deu em total respeito aos regulamentos administrativos e nos moldes da Lei 6.766/79 e que seriam os loteadores-empreendedores os responsáveis pela execução das obras de infraestrutura.
+A Exma. Magistrada singular deferiu os pedidos de chamamento ao processo e de denunciação da lide, tendo, ao final, julgado procedente o pedido inicial e condenado todos os réus na obrigação de fazer pleiteada pelo Ministério Público.
+Pois bem! Superadas as questões preliminares relativas ao chamamento ao processo, conforme requerido pela segunda e quarta rés, e à ilegitimidade passiva da quinta ré, bem como afastada a prejudicial de mérito de prescrição, passo ao exame do mérito do primeiro e do terceiro recursos.
+A questão relativa ao parcelamento do solo urbano veio a ser regulamentada pela Lei n.º 6.766, de 19 de dezembro de 1979, denominada Lei de Parcelamento do Solo, que assim dispõe:
+(...)
+Verifica-se que o proprietário do imóvel a ser loteado deve solicitar, à Prefeitura Municipal, que defina as diretrizes para o loteamento, a partir das quais será elaborado o correspondente projeto, a ser submetido à aprovação da Municipalidade, devendo-se efetuar, em seguida, o registro imobiliário.
+Ainda, segundo previu a Lei do Parcelamento:
+(...)
+Depreende-se dos dispositivos que a obrigação pelo loteamento é do proprietário da gleba que será loteada; contudo, pode a Prefeitura Municipal regularizar o loteamento não autorizado, ou executado sem observância às determinações da licença, se desatendida pelo loteador a notificação para regularização da área, sempre no exercício de seu poder-dever, de modo a evitar lesão aos padrões de desenvolvimento urbano e, como não poderia ser diferente, na defesa dos direitos dos adquirentes de lotes.
+Volvendo ao caso dos autos, observa-se que o Ministério Público recebeu o Ofício n. 286/2011/PROGER (fl. 10-TJ), protocolizado pela Procuradoria-Geral do Município de Uberaba, noticiando que, ao longo dos anos, naquela cidade, foram implementados vários loteamentos que apresentam problemas de infraestrutura, sobretudo no que tange à drenagem urbana por meio de galerias pluviais. Assim, arrolou os nomes dos loteamentos às fls. 11/13-TJ e solicitou providências, com o envolvimento dos loteadores.
+O Ministério Público, de ofício, instaurou um inquérito civil para cada empreendimento/loteamento, a fim de apurar as irregularidades. Especificamente em relação ao loteamento “Conjunto Uberaba I”, solicitou à Prefeitura Municipal de Uberaba que fornecesse documentos relativos ao procedimento de registro do bairro.
+A Secretaria de Obras municipal apresentou resposta à fl. 146-TJ, esclarecendo que o loteamento foi aprovado pelo Município por meio do Decreto n. 1.275/1992 e que, segundo os “mapas aprovados dos loteamentos”, estes teriam sido implementados em sua totalidade. Ainda, colacionou esclarecimentos prestados pelo CODAU, fazendo-se oportuna a seguinte transcrição (fl. 124-TJ):
+“O Conjunto Uberaba I teve seus projetos de saneamento aprovados e foram edificados na integra. O projeto atendeu as normas do CODAU em vigência na época. Durante sua execução as obras foram vistoriadas pelos Engenheiro Alcir Gomes. Em função das edificações e da impermeabilização do solo, as galerias de água pluvial se mostram insuficientes, embora tenha o projeto atendido as normas do CODAU. Para solucionar o problema deverá ser implantado galerias auxiliares. O custo somente poderá ser avaliado após projeto.” (destaquei)
+Em sua contestação (fls. 161/181-TJ), o Município, ora primeiro apelante, afirmou que a aprovação do loteamento se deu em observância às diretrizes dos regulamentos administrativos e nos moldes da Lei nº 6.766/79, e que foram adotados todos os meios de fiscalização adequados.
+Ao que se nota, da vasta documentação colacionada aos autos, é que, à época da aprovação do loteamento, o projeto atendeu às diretrizes e normas municipais, não tendo havido nenhuma notícia de irregularidade quanto à execução do projeto.
+Entretanto, passados mais de 20 (vinte) anos desde a implantação do loteamento, houve expansão do sistema viário, com novas edificações, tornando as galerias de água pluvial insuficientes para o atendimento da demanda.
+No que tange à iluminação, o Relatório Técnico do Departamento de Iluminação Pública da Prefeitura de Uberaba (fls. 140/143-TJ) atesta que a infraestrutura da rede de distribuição de energia elétrica e iluminação pública do Conjunto Uberaba I atende aos requisitos das normas em quase todo o loteamento. Apenas no final da Rua Osvaldo Pagliaro foi verificada a ausência de infraestrutura de iluminação pública, problema este que, todavia, não foi atribuído à execução do serviço pelos empreendedores.
+Assim, como bem lançado na petição inicial da ação, as empresas loteadas cumpriram com as obrigações assumidas no contrato, não havendo nos autos absolutamente nenhum documento que prove o contrário. Não obstante, passados tantos anos, cabia ao Município de Uberaba fiscalizar se os equipamentos urbanos de escoamento das águas pluviais e iluminação pública continuavam a atender às necessidades locais, adotando as medidas necessárias para a correção dos eventuais problemas encontrados.
+Note-se que, no presente caso, não se pode falar em responsabilidade subsidiária no Município pela execução das obras de infraestrutura porque, como visto, não houve omissão ou falha na execução do projeto pelos empreendedores, não sendo o caso de loteamento clandestino, mas de necessidades relacionadas à infraestrutura supervenientes à conclusão das obras.
+Dessa feita, e considerando que, nos termos do art. 182 da Constituição da República de 1988, a política de desenvolvimento urbano é de responsabilidade do Poder Público municipal, entendo que deve ser negado provimento ao primeiro recurso e dado provimento ao terceiro para afastar a condenação da RCG Engenharia e Empreendimentos Ltda.
+Pelo exposto, REJEITO A PRELIMINAR DE NULIDADE DA SENTENÇA POR AUSÊNCIA DE FUNDAMENTAÇÃO, ACOLHO A PRELIMINAR DE IMPROCEDÊNCIA DO CHAMAMENTO AO PROCESSO, em relação ao segundo e à quarta recorrentes, ACOLHO A PRELIMINAR DE ILEGITIMIDADE PASSIVA da quinta apelante, REJEITO A PREJUDICIAL DE MÉRITO DE PRESCRIÇÃO, NEGO PROVIMENTO AO PRIMEIRO RECURSO E DOU PROVIMENTO AO TERCEIRO, para reformar em parte a sentença e julgar improcedente o pedido em face da terceira apelante.” (e-doc. 264).
+
+5. De início, relativamente à suscitada negativa de prestação jurisdicional pelo Tribunal de origem, pontuo que o Supremo Tribunal Federal, no julgamento do AI nº 791.292-QO-RG/PE, Tema nº 339 do ementário da Repercussão Geral, concluiu pela seguinte tese: “o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas”.
+
+5.1. Da leitura dos fundamentos acima transcritos e do acórdão pertinente aos embargos de declaração, tem-se que a decisão foi suficientemente fundamentada, não se configurando a mencionada nulidade.
+
+6. Quanto à alegação de violação ao art. 5º, inc. LV (devido processo legal, contraditório e ampla defesa), aponto que o recurso extraordinário não teria chances de êxito.
+
+6.1. O Pretório Excelso, no julgamento do ARE nº 748.371-RG/MT (Rel. Min. Gilmar Mendes, j. 06/06/2013, p. 1º/08/2013, Tema nº 660 do rol da Repercussão Geral), rejeitou a repercussão geral de alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional, como no caso ora em exame.
+
+6.2. Dessa forma, descabida a alegação de usurpação, pelo 1º Vice-Presidente do TJMG, da competência do STF. Os óbices ao seguimento do extraordinário foram indicados na forma da jurisprudência desta Corte, cabendo impugnação mediante agravo interno, pelo que não conheço deste agravo, no particular.
+
+7. No mais, percebe-se da simples leitura dos fundamentos do acórdão recorrido, que a Corte de origem decidiu a controvérsia a respeito da responsabilidade do Município pelas providências solicitadas a partir do quadro fático dos autos e da legislação municipal de regência.
+
+8. Não há questão constitucional a ser apreciada. Inexiste a violação frontal aos dispositivos constitucionais indicados. A veracidade do quanto alegado no apelo extremo, especialmente no tocante à demonstração de omissão da municipalidade, somente poderia ser verificada mediante análise da legislação local de regência e do exame das provas constantes dos autos, procedimento inviável em sede extraordinária, na forma do enunciado nº 279 da Súmula do STF.
+
+9. Nesse sentido:
+
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 22.03.2023. AÇÃO CIVIL PÚBLICA. PRESERVAÇÃO DO MEIO AMBIENTE. SANEAMENTO BÁSICO. IMPLANTAÇÃO DE REDES COLETORAS DE ESGOTO. APROVAÇÃO DE NOVOS LOTEAMENTOS. ALEGADA OFENSA AO PRINCÍPIO DA SEPARAÇÃO DE PODERES. IMPROCEDÊNCIA. OFENSA REFLEXA. SÚMULA 279 DO STF. ADI 1.842. COMPETÊNCIA COMUM DOS ENTES FEDERATIVOS. PRECEDENTES.
+1. O acórdão recorrido está em sintonia com a jurisprudência desta Corte, a qual firmou o entendimento no sentido de que o Poder Judiciário, em situações excepcionais, pode determinar que a Administração pública adote medidas assecuratórias de direitos constitucionalmente reconhecidos como essenciais, sem que isso configure violação do princípio da separação de poderes, uma vez que não se trata de ingerência ilegítima de um Poder na esfera de outro.
+2. Eventual divergência em relação ao entendimento adotado pelo Juízo a quo, quanto à existência de omissão, no que diz respeito à fiscalização e responsabilidade imputada ao Município Recorrente, com vistas à implementação de políticas públicas, demandaria o reexame do conjunto fático-probatório constante dos autos (Súmula 279 do STF) e a análise de normas infraconstitucionais (Leis 6.766/79, 6.938/91 e 11.445/2007, Lei Complementar Municipal 3.439/2016 e NBR 7229 da ABNT), o que inviabiliza o processamento do apelo extremo, por ser reflexa a alegada ofensa à Constituição Federal.
+3. Ademais, esta Corte possui jurisprudência no sentido da competência comum dos entes federados na promoção de melhorias das condições de saneamento básico (ADI 1.842, Redator para o acórdão Min. Gilmar Mendes, DJe 16.09.2013).
+4. Agravo regimental a que se nega provimento. Inaplicável o artigo 85, § 11, do CPC, por se tratar de recurso oriundo de ação civil pública.”
+(ARE nº 1.380.897-AgR/GO, Rel. Min. Eddson Fachin, Segunda Turma, j. 08/08/2023, p. 15/08/2023).
+
+“DIREITO CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. AÇÃO CIVIL PÚBLICA. IMPLEMENTAÇÃO DE POLÍTICA PÚBLICA. INTERVENÇÃO DO PODER JUDICIÁRIO. EXCEPCIONALIDADE NÃO COMPROVADA. OMISSÃO ESTATAL. AUSÊNCIA. REEXAME DE FATOS E PROVAS. SÚMULA N. 279/STF. RECURSO DESPROVIDO.
+I. CASO EM EXAME 1. Agravo interno interposto contra decisão que, ao não conhecer do recurso extraordinário, invocou, como razões de decidir: (i) a consonância do pronunciamento de origem com a jurisprudência do STF; e (ii) a incidência da Súmula n. 279/STF.
+2. A parte agravante sustenta violação direta de normas constitucionais, prescindindo o desfecho da controvérsia de reexame do conjunto fático.
+II. QUESTÃO EM DISCUSSÃO
+3. Discute-se a possibilidade de o Poder Judiciário, em ação civil pública, determinar ao Executivo a implementação de políticas públicas quando, considerado o conjunto fático-probatório, não ficar evidenciado quadro excepcional a justificar a imposição de providências relacionadas ao saneamento básico municipal.
+III. RAZÕES DE DECIDIR
+4. O STF firmou entendimento pela possibilidade de o Judiciário, ante inadimplência e em situações excepcionais, determinar ao poder público o implemento de políticas públicas constitucionalmente previstas. Precedentes.
+5. Dissentir da conclusão alcançada na origem demandaria revolvimento de elementos fático-probatórios, providência inviável em sede de recurso extraordinário. Incidência da Súmula 279/STF.
+IV. DISPOSITIVO
+6. Agravo interno desprovido.”
+(RE nº 1.215.716-AgR/RJ, Rel. Min. Nunes Marques, Segunda Turma, j. 22/04/2026, p. 08/05/2026).
+
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO CIVIL PÚBLICA. OMISSÃO DO PODER PÚBLICO. SANEAMENTO BÁSICO. INTERVENÇÃO DO PODER JUDICIÁRIO. POSSIBILIDADE. CONSONÂNCIA DO ACÓRDÃO COM O ENTENDIMENTO DESTA CORTE. TEMA 698 DA REPERCUSSÃO GERAL. NECESSIDADE DE ANÁLISE DE FATOS E PROVAS. ÓBICE DA SÚMULA 279 DO STF. DESPROVIMENTO DO AGRAVO.
+I - Caso em exame 1. Agravo Interno em face de decisão monocrática, na qual foi negado provimento ao recurso extraordinário pela consonância do acórdão recorrido com o Tema 698 da repercussão geral e pela incidência do óbice da Súmula 279 do STF.
+II - Questão em discussão
+2. Verificar a viabilidade, ou não, do recurso extraordinário, no caso concreto, em face dos óbices apontados na decisão recorrida, especialmente, em relação, ao item 2 do referido Tema, no que diz respeito à fixação de prazo.
+III - Razões de decidir
+3. Ao apreciar o mérito do RE-RG 684.612, com repercussão geral reconhecida, Redator para o acórdão Ministro Luís Roberto Barroso, referente ao Tema 698, no qual se discutia a competência do Poder Judiciário para determinar ao Poder Executivo a realização direitos fundamentais, o Supremo Tribunal Federal decidiu pela licitude da imposição da obrigação, não sendo oponível à decisão o argumento da reserva do possível nem o princípio da separação dos poderes.
+4. Na presente hipótese, cuida-se de situação que exige a pronta ação do Judiciário para recompor a ordem jurídica violada, principalmente, porque a ação civil pública foi ajuizada em 2008, tendo sido a sentença exarada em 2014, ocasião em que se determinou ao Município Agravante, após o trânsito em julgado, que incluísse, na primeira lei orçamentária a ser elaborada, a implantação da rede de drenagem, conferindo-se o prazo de dois anos para a conclusão das obras necessárias.
+5. Não há, portanto, desrespeito ao item 2 do mencionado Tema.
+6. Ademais, eventual divergência em relação ao entendimento adotado pelo Tribunal a quo demandaria o reexame de fatos e provas, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+7. A petição de agravo regimental não trouxe novos argumentos aptos a desconstituir a decisão agravada, a qual deve ser mantida.
+ IV - DISPOSITIVO
+8. Agravo regimental a que se nega provimento. Inaplicável o artigo 85, § 11, CPC, visto que se trata de recurso oriundo de ação civil pública.”
+(ARE nº 1.555.633-AgR/RN, Rel. Min. Edson Fachin, Segunda Turma, j. 06/10/2025, p. 20/10/2025).
+
+“AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. COMUNIDADE DE SANTA THEREZINHA. AREA DE RISCO DE DESLIZAMENTO DE ENCOSTA. OMISSÃO ADMINISTRATIVA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279 DO STF. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS NO JUÍZO RECORRIDO. IMPOSSIBILIDADE DE MAJORAÇÃO NESTA SEDE RECURSAL. ARTIGO 85, § 11, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.”
+(RE nº 1.045.984-AgR/RJ, Rel. Min. Luiz Fux, Primeira Turma, j. 29/09/2017, p.  19/10/2017).
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO CIVIL PÚBLICA. UNIDADE DE CONSERVAÇÃO. MEIO AMBIENTE. DETERMINAÇÃO DO PODER JUDICIÁRIO DE POLÍTICAS PÚBLICAS. AUSÊNCIA DE COMPROVAÇÃO DE OMISSÃO OU INÉRCIA DO PODER PÚBLICO. IMPOSSIBILIDADE DE REEEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO COM APLICAÇÃO DE MULTA. I - Para chegar-se à conclusão contrária à adotada pelo acórdão recorrido, seria necessário o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279/STF. II – Agravo regimental a que se nega provimento, com aplicação de multa. “
+(ARE nº 1.458.475-AgR/RS, Rel. Min. Cristiano Zanin, Primeira Turma, j. 19/12/2023, p. 15/02/2024).
+
+10. Para a espécie, inclusive, faz-se válido registrar a advertência de que, em casos de apresentação de medida recursal manifestamente inadmissível ou improcedente, o Supremo Tribunal Federal entende pela possibilidade de aplicação de multa, nos termos do art. 1.021, § 4º, do CPC (ARE nº 1.321.696-ED-AgR/MG, de minha relatoria, Segunda Turma, j. 06/06/2022, p. 29/06/2022; ARE nº 1.107.805-AgR/SP, Rel. Min. Roberto Barroso, Primeira Turma, j. 13/12/2019, p. 03/02/2020; Rcl nº 45.289- AgR/DF, Rel. Min. Dias Toffoli, j. 04/10/2021, p. 30/11/2021; Rcl nº 24.841- EDAgR/SP, Rel. Min. Luiz Fux, Primeira Turma, j. 20/04/2017, p. 11/05/2017; MS nº 37.637-AgR/DF, Rel. Min. Roberto Barroso, Tribunal Pleno, j. 17/05/2021, p. 16/06/2021; e MS nº 35.272-AgR-segundo/DF, Rel. Min. Edson Fachin, Segunda Turma, j. 16/06/2020, p. 08/10/2020).
+
+11. Para além, consigno ainda que a apresentação de embargos de declaração com intuito protelatório assoberba ilegitimamente a justiça, prejudicando a mais célere e efetiva prestação jurisdicional. A eventual insistência na apresentação de recursos protelatórios acarreta a possibilidade e, até mesmo, a obrigação de se incidir a multa processual prevista no art. 1.026, §§ 2º a 4º, do CPC.
+
+12. Ante o exposto, conheço em parte do recurso extraordinário com agravo e nego-lhe provimento, na forma do art. 21, § 1º, do RISTF. Havendo condenação em honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do CPC, observados os limites dos §§ 2º e 3º do referido artigo.
+
+Publique-se.
+
+Brasília, 24 de setembro de 2026.
+
+Ministro ANDRÉ MENDONÇA
+Relator
