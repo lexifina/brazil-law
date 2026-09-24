@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (fl. 74):
+AGRAVO DE INSTRUMENTO - Ação de obrigação de fazer cumulada com danos morais - Invasão de conta na rede social "Instagram" por golpistas - Cumprimento provisório objetivando a execução provisória de multa diária -Decisão agravada que rejeitou a impugnação apresentada pela ré Facebook - Empresa que, ao contrário do que alega, foi intimada pessoalmente para cumprimento da decisão - Incontroverso descumprimento da ordem judicial - Demora de quase 18 dias para cumprimento da obrigação de fazer, de modo que a multa é exigível - Redução do valor, porém, que se impõe, porquanto a multa, no montante de aproximadamente R$ 184.000,00 tomou dimensão excessiva e desproporcional, a ensejar enriquecimento indevido, se não for alterada - Aplicação do Tema Repetitivo 706 do C. STJ -Redução equitativa do valor total da multa para R$ 30.000,00, em observância aos princípios da proporcionalidade e razoabilidade - Decisão parcialmente reformada - RECURSO PROVIDO EM PARTE.
+Os embargos de declaração (fls. 100-104) foram acolhidos sem efeitos infringentes, sob a seguinte ementa (fl. 101):
+EMBARGOS DE DECLARAÇÃO - Omissão constatada quanto a precedentes do STJ invocados pela parte, no que se refere à alteração no valor das astreintes - Vício sanado para constar que não houve alteração expressa pela C. Corte do Tema 706, precedente que cuida da matéria, e estabelecido sob a sistemática dos recursos repetitivos - Decisões que, portanto, não possuem efeito vinculante.
+EMBARGOS ACOLHIDOS, sem efeitos modificativos.
+Em suas razões (fls. 107-152), a parte recorrente aponta dissídio jurisprudencial e violação do art. 537, §1º, do CPC. Para tanto, sustenta "que a decisão proferida contraria diretamente o disposto no art. 537, § 1º do CPC, ao admitir a redução das astreintes vencidas, quando o referido dispositivo legal restringe a revisão única e exclusivamente às astreintes vincendas" (fl. 113).
+Contrarrazões apresentadas (fls. 223-247).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+O recurso especial versa, entre outras matérias, sobre tema afetado à Segunda Seção desta Corte, nos autos dos Recursos Especiais representativos da controvérsia n. 2.236.049/PE e 1.932.269/RJ, para julgamento segundo o rito previsto nos arts. 1.036 a 1.041 do CPC/2015, a fim de decidir quanto à "Interpretação a ser dada ao § 1º do art. 537 do CPC de 2015, quanto: (i) à possibilidade de modificação das multas cominatórias (astreintes) vencidas, além das vincendas; e (ii) à delimitação do que deve ser considerado multa vencida" (Tema n. 1.442/STJ).
+Nos termos do art. 256-L do RISTJ (incluído pela Emenda Regimental n. 24, de 2016), o recurso especial distribuído nesta Corte que tenha como fundamento idêntica questão de direito afetada será devolvido ao Tribunal de origem, para nele permanecer suspenso.
+Assim, por razões de economia processual e em atenção aos objetivos das regras que disciplinam a matéria, faz-se necessário remeter os autos à origem, até o pronunciamento definitivo do Superior Tribunal de Justiça sobre o recurso especial representativo da controvérsia.
+Ante o exposto, DETERMINO A DEVOLUÇÃO dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, depois de publicado o acórdão paradigma, seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
