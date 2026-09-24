@@ -1,0 +1,36 @@
+DECISÃO
+HELDER HENRIQUE ALONSO alega sofrer coação ilegal no seu direito de locomoção em decorrência de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ no HC n. 0061059-60.2026.8.16.0000.
+A defesa pretende a revogação ou a substituição da custódia preventiva do paciente, decretada pela suposta prática do crime previsto no art. 33 da Lei n. 11.343/2006, por medidas cautelares diversas. Afirma, para tanto, que houve violência policial por ocasião do flagrante e consequente nulidade das provas colhidas nessa ocasião. Sustenta, por conseguinte, a inexistência de indícios suficientes de autoria e materialidade contra o paciente.
+Requer o que segue (fls. 192-193):
+a) o conhecimento e o provimento do recurso ordinário;
+b) a concessão da ordem para reconhecer a ilegalidade do flagrante decorrente da violência policial documentada nos laudos periciais oficiais do Instituto Médico-Legal, com o consequente relaxamento da prisão (art. 5º, LXV, da Constituição Federal) e a imediata expedição de alvará de soltura em favor do paciente;
+c) a declaração da ilicitude integral do acervo probatório derivado da operação de 20 de janeiro de 2026, com o desentranhamento das provas (art. 157, caput e §§ 1º e 3º, do CPP);
+d) como consequência, o trancamento da ação penal n. 0000188- 16.2026.8.16.0113 por ausência de justa causa (art. 395, III, do CPP);
+e) subsidiariamente, caso se repute inadequado o trancamento nesta via, o relaxamento da prisão e o reconhecimento da ilicitude das provas, com o desentranhamento (art. 57 do CPP) e a remessa ao juízo de origem da delibação sobre a licitude de eventual acervo remanescente, conforme a solução adotada pelo Superior Tribunal de Justiça no HC 876.910/PE;
+f) a extensão da ordem aos corréus Clodoaldo Aparecido Luchetti, Matheus Pereira da Silva e Felippe Roque Biazuto (art. 580 do CPP);
+O Ministério Público Federal opinou pelo não provimento do recurso em habeas corpus (fls. 406-415).
+Decido.
+Quanto à almejada nulidade da prisão em flagrante, embora a alegação de agressão e a consequente nulidade do flagrante devam ser apuradas em procedimento próprio, elas não invalidam automaticamente a custódia preventiva, que se sustenta em um novo título judicial e nos elementos concretos apontados pelo juízo prolator da decisão.
+Com o decreto da prisão preventiva restam superadas eventuais irregularidades ocorridas na homologação do flagrante, uma vez que é novo título judicial que embasa o encarceramento cautelar. Nesse sentido a jurisprudência desta Corte:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA . NÃO REALIZAÇÃO DA AUDIÊNCIA DE CUSTÓDIA NO PRAZO LEGAL. QUESTÃO SUPERADA PELA DECRETAÇÃO DA PRISÃO PREVENTIVA. QUANTIDADE DE ENTORPECENTE. GARANTIA DA ORDEM PÚBLICA . FUNDAMENTOS IDÔNEOS. CAUTELARES. INVIABILIDADE. CONDIÇÕES PESSOAIS FAVORÁVEIS . INDIFERENÇA. DESPROPORCIONALIDADE DA MEDIDA. IMPREVISIBILIDADE. RECURSO NÃO PROVIDO.
+1. Eventuais irregularidades ocorridas na homologação da prisão em flagrante ficaram superadas com a decretação da prisão preventiva, novo título judicial a embasar o encarceramento cautelar.
+ ..
+4. A custódia cautelar está suficientemente fundamentada na garantia da ordem pública, haja vista a gravidade concreta da conduta delitiva, em que foi apreendida expressiva quantidade de drogas.
+ ..
+(AgRg no RHC 194215/PR, Relator Ministro Ribeiro Dantas, Quinta Turma, Julgado em 12/08/2024, DJe 15/08/2024).
+Esses fundamentos afastam a nulidade do flagrante arguida pela defesa. E, inexistente ilegalidade, não há que se falar em ausência de justa causa para a persecução penal.
+Ademais, o Tribunal de origem decidiu a respeito da questão, nos termos a seguir (fls. 154-172, grifei):
+ ..
+A ordem deve ser conhecida e, no mérito, denegada.
+A impetração sustenta que o paciente sofreu graves agressões físicas por parte das forças policiais por ocasião de sua prisão em flagrante, vício que inquinará de nulidade toda a persecução penal, amparando-se na constatação de lesões corporais atestadas pelos laudos médicos elaborados pelo Instituto Médico-Legal.
+O exame do caderno de provas revela, de fato, que os autuados foram submetidos a exames periciais em 29 de janeiro de 2026, tendo o perito oficial constatado a presença de equimose ad cautelam acastanhada de 8,0 centímetros por 3,0 centímetros na coxa esquerda e equimose arroxeada de 2,0 centímetros por 1,5 centímetro na perna esquerda do paciente Helder Henrique Alonso, além de lesões contundentes de naturezas semelhantes nos corréus Clodoaldo e Matheus.
+Ocorre que, conquanto os laudos oficiais do Instituto Médico-Legal comprovem a materialidade física das lesões corporais (existência das equimoses e do edema), tais documentos técnicos limitam-se a atestar o estado físico dos periciandos, sendo manifestamente incapazes de individualizar a autoria das agressões ou de desvelar as reais circunstâncias em que as lesões foram prováveis de serem produzidas. A constatação da materialidade das lesões não equivale, por si só, à demonstração de que estas decorreram de agressões físicas arbitrárias ou de tortura por parte dos policiais que realizaram a prisão em flagrante.
+Na via estreita e de cognição sumária do habeas corpus, caracterizada pela ausência de dilação probatória e necessidade de prova pré-constituída inequívoca, revela-se absolutamente inviável estabelecer, de plano, o nexo de causalidade entre as lesões e eventual abuso estatal. Diante da divergência de versões entre os autuados e os policiais militares, não é possível concluir, de forma segura e inequívoca, apenas com os elementos atualmente disponíveis, se as lesões decorreram de violência arbitrária ou de circunstâncias relacionadas à abordagem policial, questão que demanda adequada instrução probatória e observância do contraditório.
+A ausência de prova incontroversa e inequívoca acerca do nexo causal impede o relaxamento da prisão na via mandamental, uma vez que a ilegalidade da custódia não se mostra evidente. A apuração de eventuais excessos ou das condutas dos policiais militares deve ocorrer na esfera própria que já se encontra formalmente instaurada perante a Auditoria Militar de Curitiba por meio da NF 0046.26.097927-6, na qual foi expedida requisição de apuração disciplinar e penal militar à Corregedoria-Geral da Corporação pelo e-Protocolo número 25.845.246-1.
+ ..
+Pelos trechos acima transcritos, constato que o Tribunal de origem asseverou que não há comprovação inequívoca de que a violência sofrida pelo paciente adveio de ação dos policiais por ocasião da prisão em flagrante.
+Nesse ponto, observo que não há como, na estreita via do habeas corpus e nessa incipiente fase da persecução penal, fazer incursão vertical em matéria fático-probatória e delimitar com precisão a relação da ação policial com os ferimentos em apuração ou mesmo de se concluir pela existência ou não de qualquer responsabilidade, salvo em hipótese de demonstração de plano, o que não é o caso dos autos.
+Portanto, a apuração da veracidade do uso de violência policial deve ser realizada na via própria.
+À vista do exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se e intimem-se.
+EMENTA
