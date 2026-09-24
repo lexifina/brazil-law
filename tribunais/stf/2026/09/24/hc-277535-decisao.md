@@ -1,0 +1,58 @@
+DECISÃO:
+Vistos
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Edson Luiz Christovam Junior, contra decisão monocrática proferida por Ministro do Superior Tribunal de Justiça (e-doc. 5).
+Consta dos autos que o paciente foi condenado à pena de 6 (seis) anos de reclusão, em regime inicial fechado, mais o pagamento de 15 (quinze) dias-multa, pela prática do crime disposto no art. 157, caput, do Código Penal.
+A condenação transitou em julgado.
+Ajuizada ação de revisão criminal, esta foi julgada improcedente pelo Tribunal de Justiça do Estado de São Paulo.
+Irresignada, a defesa impetrou habeas corpus perante o Superior Tribunal de Justiça, que por meio de decisão monocrática, não conheceu do writ.
+Nesta impetração, a defesa sustenta, em síntese, a ocorrência de constrangimento ilegal decorrente das negativas jurisdicionais por impedimentos formais e a possibilidade de superação dos óbices para análise do mérito da questão.
+Requer, ao final:
+
+“(...) liminarmente, a suspensão dos efeitos da decisão impugnada, na parte em que recusou conhecimento ao HC 1.105.846/SP, determinando-se ao Superior Tribunal de Justiça que prossiga no julgamento da impetração, afastados os óbices fundados na unirrecorribilidade e na mera substitutividade do recurso especial.
+Após a requisição de informações e a oitiva da Procuradoria-Geral da República, requer-se a confirmação da liminar e a concessão definitiva da ordem para que o STJ conheça e analise o HC 1.105.846/SP como entender de direito, sem que a existência ou a tramitação do recurso especial impeça a prestação jurisdicional. Subsidiariamente, caso não se conheça desta impetração por ausência de prévia apreciação colegiada no STJ, requer-se a concessão da ordem de ofício.”
+
+Examinados os autos, decido.
+Transcrevo, no que interessa à presente impetração, trecho da decisão monocrática combatida:
+
+“É firme no Superior Tribunal de Justiça a compreensão de que o habeas corpus não pode ser utilizado como substitutivo do recurso legalmente previsto.
+No caso, apreciado pela instância de origem o pedido de revisão criminal, a impugnação deve ser feita por meio de recurso especial, nos termos previstos no art. 105, III, da Constituição Federal, por se tratar de "causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios". Nesse sentido: AgRg no HC n. 1.042.849/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/11/2025, DJEN de 12/11/2025; AgRg no HC n. 1.015.569/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 24/9/2025, DJEN de 30/9/2025; e HC n. 988.028/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/5/2025, DJEN de 21/5/2025.
+Por isso, e observado o princípio da unirrecorribilidade, a impetração é substitutiva de recurso próprio, razão pela qual do habeas corpus não se pode conhecer.
+Deve-se registrar, em acréscimo, que, nas hipóteses em que a instância de origem não conhece do pedido revisional, por entender não caracterizada alguma das previsões contidas no art. 621 do Código de Processo Penal, a irresignação quanto a tal conclusão – cabível no recurso especial, como esclarecido – depende da demonstração de aplicação incorreta do referido dispositivo da lei processual.
+Com efeito, a jurisprudência deste Superior Tribunal não admite a utilização da revisão criminal como nova oportunidade de interpor apelação, reabrindo-se a rediscussão de questões já acobertadas pela coisa julgada, sendo indispensável a demonstração de cabimento do pedido revisional. Nesse sentido: HC n. 988.028/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/5/2025, DJEN de 21/5/2025; e HC n. 970.713/BA, de minha Relatoria, Sexta Turma, julgado em 3/9/2025, DJEN de 9/9/2025.
+Por fim, em atenção à previsão do art. 647-A do CPP, observo que não há flagrante ilegalidade que possa a autorizar a concessão da ordem de ofício.
+No caso dos autos, o Tribunal de origem registrou que a condenação do paciente se deu com base no conjunto probatório colacionado nos autos da ação penal, em especial na prova testemunhal, de modo que não se contempla hipótese de flagrante ilegalidade.
+Ademais, a via estreita do habeas corpus não se coaduna com o pedido de absolvição ou de desclassificação de condutas, por extrapolar o âmbito sumário de sua cognição.
+(...)
+Outrossim, no que tange à dosimetria da pena, verifica-se que a matéria não foi apreciada no ato judicial impugnado, o que impede o conhecimento do pedido pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+(...)
+Em suma, mantém-se a conclusão pela impossibilidade de conhecimento do writ, conforme entendimento consolidado.
+Ante o exposto, nos termos do art. 210 do RISTJ, não conheço do habeas corpus.” (e-doc. 5)
+
+O art. 102, I, i, da Constituição Federal preceitua que a competência do Supremo Tribunal Federal para processar e julgar originariamente o habeas corpus será inaugurada “[...] quando o coator for Tribunal Superior ou quando o coator ou o paciente for autoridade ou funcionário cujos atos estejam sujeitos diretamente à jurisdição do Supremo Tribunal Federal, ou se trate de crime sujeito à mesma jurisdição em uma única instância”.
+Na espécie, a ausência da análise pelo colegiado de Tribunal Superior, dos fundamentos constantes da decisão monocrática, impede o conhecimento do writ nesta Suprema Corte.
+Nesse sentido:
+
+“AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO VOLTADA CONTRA DECISÃO MONOCRÁTICA DE MINISTRO DE TRIBUNAL SUPERIOR. IMPOSSIBILIDADE DE SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE ILEGALIDADE. PRECEDENTES. I. CASO EM EXAME 1. Pacientes condenados a 4 anos, 9 meses e 18 dias de reclusão, em regime fechado, pela prática do crime de concussão (art. 305 do Código Penal Militar). II. QUESTÃO EM DISCUSSÃO 2. Impetração na qual se busca a celebração de acordo de não persecução penal (ANPP). III. RAZÕES DE DECIDIR 3. Incidência de óbice ao conhecimento da ordem impetrada neste STF, uma vez que se impugna decisão monocrática de Ministro do Superior de Tribunal de Justiça (HC 260309 AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 17/9/2025; HC 260318 AgR, Rel. Min. CRISTIANO ZANIN, Primeira Turma, DJe de 17/9/2025; HC 260219 AgR, Rel. Min, FLÁVIO DINO, Primeira Turma, DJe de 22/9/2025; HC 259789 AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe de 10/9/2025; HC 208.035-AgR, Rel. Min. EDSON FACHIN, Segunda Turma, DJe de 21/9/2022; RHC 213.550-AgR, Rel. Min. ANDRÉ MENDONÇA, Segunda Turma, DJe de 1º/9/2022; HC 216.979-AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 25/8/2022; HC 216.955-AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 25/8/2022; HC 217.067-AgR, RHC 214.783-AgR, Rel. Min. NUNES MARQUES, Segunda Turma, DJe de 4/8/2022). 4. O exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do SUPREMO TRIBUNAL FEDERAL, conforme vem sendo reiteradamente proclamado por esta CORTE (HC 211.364-AgR, Rel. Min. EDSON FACHIN, Segunda Turma, DJe de 24/8/2022; HC 172.384, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 10/2/2021; HC 180.895-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 18/6/2020; HC 262.350, Rel. p/ Acórdão: Min. ROSA WEBER, Primeira Turma, DJe de 30/8/2019). 5. Inexistência de teratologia ou caso excepcional caracterizadores de flagrante constrangimento ilegal. IV. DISPOSITIVO 6. Agravo Regimental a que se nega provimento.” (HC nº 275790 AgR, Primeira Turma, Relator o Ministro Alexandre de Moraes, DJe de 17/9/2026, grifei).
+
+Ademais, ainda que superado esse óbice, o Supremo Tribunal Federal consolidou jurisprudência no sentido da inviabilidade de utilização do habeas corpus como sucedâneo de recurso ou revisão criminal, salvo em caso de manifesta ilegalidade, o que não verifico no caso concreto. Assim, por exemplo:
+
+“AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. IMPOSSIBILIDADE. QUESTÕES NÃO EXAMINADAS NA INSTÂNCIA ANTECEDENTE. PEDIDO MANIFESTAMENTE IMPROCEDENTE E CONTRÁRIO À JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (HC n. 191.123-AgR, de Rel. Min. Cármen Lúcia, Segunda Turma, DJe 4.11.2020).
+
+“AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL E PROCESSO PENAL. WRIT SUBSTITUTIVO DE AÇÃO RESCISÓRIA. EXCEPCIONALIDADE. CRIME CONTRA O SISTEMA FINANCEIRO. DOSIMETRIA DA PENA. AUSÊNCIA DE ILEGALIDADE. AGRAVO DESPROVIDO. 1. A orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que o habeas corpus não pode ser utilizado como sucedâneo de revisão criminal (HC 139517, Rel. p/ acórdão Min. Roberto Barroso, DJe-025 de 8.2.2019) (…) 6. Agravo regimental conhecido e não provido” (RHC n. 131.660-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 5.4.2019).
+
+Não fosse isso, tem-se pedido de habeas corpus no qual se pretende apontar a ilegalidade de decisão que não analisou o mérito do recurso. Logo, sobressai a jurisprudência deste Supremo Tribunal Federal no sentido de que não se revela admissível a utilização do habeas corpus quando se pretende discutir os pressupostos de admissibilidade de recurso interposto ou ação ajuizada na origem.
+Nesse sentido, anote-se:
+
+“PROCESSUAL PENAL. AGRAVO REGIMENTAL. HOMICÍDIO QUALIFICADO. ANÁLISE DOS PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO INTERPOSTO PERANTE TRIBUNAL SUPERIOR. INADEQUAÇÃO DA VIA ELEITA. 1. Inexistindo pronunciamento colegiado do Superior Tribunal de Justiça, não compete ao Supremo Tribunal Federal examinar a questão de direito discutida na impetração. 2. Não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante Tribunal Superior (vg. HC 111.324, Redator para o acórdão o Min. Luís Roberto Barroso; HC 109.156, Rel. Min. Dias Toffoli; HC 115.357-AgR, Rel. Min. Dias Toffoli). 3. Declarada a ausência de repercussão geral da matéria pelo Plenário do Supremo Tribunal Federal, os recursos que versem sobre questão constitucional idêntica devem ser inadmitidos na origem, com base no artigo 543-B, § 3º, do Código de Processo Civil. 4. Agravo regimental desprovido.” (HC nº 134.760-AgR/BA, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 24/11/16 – grifei)
+
+ “’HABEAS CORPUS’ – INVIABILIDADE DE SUA IMPETRAÇÃO, QUANDO VISA À DISCUSSÃO EM TORNO DOS PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO INTERPOSTO PERANTE O E. SUPERIOR TRIBUNAL DE JUSTIÇA – PRECEDENTES – IMPETRAÇÃO FORMULADA, ADEMAIS, COM APOIO EM FUNDAMENTO NÃO EXAMINADO PELO TRIBUNAL APONTADO COMO COATOR – SUPRESSÃO DE INSTÂNCIA – INVIABILIDADE – RECURSO DE AGRAVO IMPROVIDO” (HC nº 142.201/SC-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJe de 15/12/17).
+
+No mesmo sentido: HC nº 138.687-AgR/RS, Segunda Turma, Relator o Ministro Celso de Mello, DJe de 1º/3/17; HC nº 134.446-AgR/SE, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 5/12/16; HC nº 134.206-AgR/RO, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 22/6/16; HC nº 131.365/SP, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 30/3/16; HC nº 109.156/PR, Primeira Turma de minha relatoria, DJe de 15/4/13.
+Por fim, não verifico a existência de teratologia, flagrante ilegalidade ou abuso de poder para que se realize uma análise “per saltum” das questões de mérito trazidas no presente habeas corpus.
+Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, prejudicado o pedido liminar.
+Publique-se.
+Brasília, 24 de setembro de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
