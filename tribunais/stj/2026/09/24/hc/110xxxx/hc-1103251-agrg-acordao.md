@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 17/09/2026 a 24/09/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Carlos Pires Brandão, Nilsoni de Freitas (Desembargadora Convocada do TJDFT) e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. REGIME DOMICILIAR. ESTADO DE SAÚDE DEBILITADO POR DOENÇA GRAVE. INCAPACIDADE DO SISTEMA PRISIONAL EM PRESTAR ASSISTÊNCIA. ART. 117, II, DA LEP. PRECEDENTES.
+1. Nos termos da jurisprudência desta Corte Superior de Justiça, a prisão domiciliar só é admitida em favor de preso inserido no regime aberto, a teor do que dispõe o art. 117 da Lei de Execução Penal. Contudo, comprovado que o recluso - não obstante cumpra pena nos regimes fechado ou semiaberto - esteja acometido por doença grave, com debilidade acentuada de sua saúde, e que o tratamento médico necessário não possa ser prestado no ambiente prisional, admite-se, de forma excepcional, sua colocação em prisão domiciliar (precedente).
+2. Não houve comprovação de incapacidade do sistema prisional em prestar os atendimentos de saúde, tendo sido prestada a atenção necessária e o tratamento adequado para as queixas do apenado, inclusive com exames de imagem, avaliação de especialistas, retorno e encaminhamento em casos de urgência e emergência.
+3. Somente mediante incursão no acervo fático-probatório seria possível rever as conclusões da instância local, medida essa incabível na via do habeas corpus.
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ROGERIO PARREIRA contra a decisão monocrática da Presidência do Superior Tribunal de Justiça que indeferiu liminarmente a inicial (fls. 200/203).
+O agravante alega, em síntese, que o cabimento excepcional do habeas corpus impõe a superação de óbices formais quando presente flagrante ilegalidade, teratologia ou abuso de poder, pois a indeferida tutela visa resguardar o direito fundamental à vida diante de seu quadro clínico gravíssimo; requer, por isso, a reconsideração da decisão para processamento do writ.
+Sustenta a desnecessidade de revolvimento fático-probatório, porque a condição de saúde está inequivocamente comprovada por laudos e relatórios médicos constantes do processo de execução, havendo prova pré-constituída; afirma que a análise a ser feita é estritamente jurídica, à luz do art. 117 da Lei de Execução Penal e dos precedentes humanitários do Superior Tribunal de Justiça.
+Argumenta que o sistema prisional não dispõe da mínima estrutura para prover tratamento médico complexo, contínuo e especializado para neoplasia testicular e insuficiência renal, o que configura tratamento cruel e degradante e violação da dignidade da pessoa humana e da vedação de tratamento desumano ou degradante.
+Pugna, assim, pela reforma da decisão agravada (fls. 208/213).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. REGIME DOMICILIAR. ESTADO DE SAÚDE DEBILITADO POR DOENÇA GRAVE. INCAPACIDADE DO SISTEMA PRISIONAL EM PRESTAR ASSISTÊNCIA. ART. 117, II, DA LEP. PRECEDENTES.
+1. Nos termos da jurisprudência desta Corte Superior de Justiça, a prisão domiciliar só é admitida em favor de preso inserido no regime aberto, a teor do que dispõe o art. 117 da Lei de Execução Penal. Contudo, comprovado que o recluso - não obstante cumpra pena nos regimes fechado ou semiaberto - esteja acometido por doença grave, com debilidade acentuada de sua saúde, e que o tratamento médico necessário não possa ser prestado no ambiente prisional, admite-se, de forma excepcional, sua colocação em prisão domiciliar (precedente).
+2. Não houve comprovação de incapacidade do sistema prisional em prestar os atendimentos de saúde, tendo sido prestada a atenção necessária e o tratamento adequado para as queixas do apenado, inclusive com exames de imagem, avaliação de especialistas, retorno e encaminhamento em casos de urgência e emergência.
+3. Somente mediante incursão no acervo fático-probatório seria possível rever as conclusões da instância local, medida essa incabível na via do habeas corpus.
+4. Agravo regimental improvido.
+VOTO
+O presente agravo deve ser conhecido, já que reúne os requisitos de admissibilidade.
+No mérito, todavia, não deve ser provido.
+O Tribunal local negou provimento ao agravo defensivo n os seguintes fundamentos (fl. 16):
+No caso dos autos, observa-se que o agravante limita-se a comprovar a existência da moléstia que lhe acomete através dos inúmeros relatórios médicos apresentados, contudo, sem apresentar qualquer prova mínima de que efetivamente se encontre em situação de vulnerabilidade extrema ou desassistência, ou ainda de que tal tratamento não possa, de forma absoluta, ser realizado no ambiente carcerário.
+Pelo contrário, a grande maioria dos documentos médicos apresentados junto ao agravo são relatórios e medicamentos que estão sendo fornecidos pelo Estado em tratamento enquanto cumpre o regime de pena.
+Neste sentido, o relatório médico mais recente juntado às fls. 88/89, atesta que o sentenciado está em tratamento regular: "Reitero que o recluso sempre obteve atenção médica em unidade prisional diante de suas queixas e que a equipe de saúde segue com cuidados integrais e longitudinais para com o paciente e fornece o necessário para o tratamento adequado de enfermidades apresentadas pelo sentenciado, incluindo exames de imagem, avaliação de especialista, retorno e encaminhamento em caso de urgência ou em emergência."
+Há diversos relatórios apresentados pelo agravante que demonstram a entrada e saída regular do sentenciado na unidade hospitalar, mediante a necessidade de atendimento (vide fls. 74/78).
+Tais relatórios, afastam a necessidade de expedição de mandado de constatação, não havendo qualquer elemento que indique que ele não seja idôneo. As informações nele contidas tornam desnecessárias a apresentação de novo relatório médico para se aferir novamente sua pretensão.
+Nos termos da jurisprudência desta Corte Superior de Justiça, a prisão domiciliar só é admitida em favor de preso inserido no regime aberto, a teor do que dispõe o art. 117 da Lei de Execução Penal. Contudo, comprovado que o recluso - não obstante cumpra pena nos regimes fechado ou semiaberto - esteja acometido por doença grave, com debilidade acentuada de sua saúde, e que o tratamento médico necessário não possa ser prestado no ambiente prisional, admite-se, de forma excepcional, sua colocação em prisão domiciliar (HC n. 599.642/SP, Ministra Laurita Vaz, Sexta Turma, DJe 21/6/2021).
+Em reforço: AgRg no RHC n. 224.809/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/3/2026, DJEN de 24/3/2026.
+Assim, o fato de o agravante estar em regime fechado não impede, por si, a concessão do regime domiciliar humanitário.
+Necessário, portanto, analisar os demais requisitos para o benefício: estar acometido de doença grave, com debilidade acentuada e sem condições de tratamento no ambiente prisional.
+E, no caso, conforme o excerto supra, não houve comprovação de incapacidade do sistema prisional em prestar os atendimentos de saúde, tendo sido prestada a atenção necessária e o tratamento adequado para as queixas do apenado, inclusive com exames de imagem, avaliação de especialistas, retorno e encaminhamento em casos de urgência e emergência.
+Assim, conforme consta na decisão agravada, somente mediante incursão no acervo fático-probatório seria possível rever as conclusões da instância local, medida essa incabível na via do habeas corpus, que exige prova pré-constituída das alegações .
+Ante o exposto, nego provimento ao agravo regimental.
