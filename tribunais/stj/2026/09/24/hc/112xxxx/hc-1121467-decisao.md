@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LUIZ CÉSAR DE PAIVA que tem como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo de Execução Penal n. 0000808-25.2026.8.26.0509).
+Consta dos autos que o paciente cumpre pena decorrente de condenação superveniente, com trânsito em julgado em 2024, após a extinção da execução anterior em 2/3/2023, sendo a prisão cautelar relacionada ao novo processo efetivada em 5/10/2022.
+A impetrante alega que o acórdão recorrido deve ser cassado, pois a fixação da data-base em 3/3/2023 afronta a legislação federal e a adequada interpretação dos institutos da execução penal.
+Alega que, sobrevindo nova condenação no curso da execução, há necessidade de unificação de penas nos termos do art. 111 da Lei de Execução Penal, fixando-se a última prisão como marco interruptivo para a progressão.
+Aduz que o entendimento da Súmula n. 534 do STJ deve ser aplicado por analogia, pois, se a falta grave interrompe o prazo, com maior razão o cometimento de novo crime reinicia a contagem a partir do fato ou da prisão dele decorrente.
+Assevera que não se pode desconsiderar o período de encarceramento anterior, sob pena de instaurar um "bis in idem às avessas", deixando de computar tempo de segregação efetivamente cumprido na nova execução.
+Afirma que o art. 42 do Código Penal impõe a detração de todo o tempo de prisão, e que a manutenção da data-base em 3/3/2023 cria um vazio jurídico em que o período de 5/10/2022 a 2/3/2023 não é considerado para nenhum fim.
+Defende que a extinção formal da execução anterior antes da expedição da nova guia é anomalia processual que não pode prejudicar o paciente, devendo prevalecer o critério material da prática de novo crime no curso da execução.
+Sustenta haver diretriz jurisprudencial no STJ pela adoção da última prisão ou da falta grave como data-base para futuros benefícios, e que não há respaldo legal para alterar a data-base em razão da unificação.
+Pondera que a decisão impugnada viola os arts. 111 e 112 da Lei de Execução Penal e 42 do Código Penal, configurando constrangimento ilegal.
+Requer, no mérito, a cassação do acórdão recorrido e a retificação do cálculo de penas para fixar a data-base na última prisão e para computar todo o período de encarceramento como pena cumprida na presente execução.
+Informações foram prestadas (fls. 92-116 e 121-123).
+O Ministério Público Federal se manifestou pelo não conhecimento do habeas corpus ou pela denegação da ordem (fls. 135-136).
+É o relatório.
+O Superior Tribunal de Justiça entende ser inviável a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração.
+Sobre a questão, confiram-se os seguintes julgados desta Corte Superior:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. ABSOLVIÇÃO IMPETRAÇÃO DE HABEAS CORPUS NA FLUÊNCIA DO PRAZO PARA A INTERPOSIÇÃO DE RECURSOS NA ORIGEM. IMPOSSIBILIDADE.
+1. "O writ foi manejado antes do dies ad quem para a interposição da via de impugnação própria na causa principal, o recurso especial. Dessa forma, a impetração consubstancia inadequada substituição do recurso cabível ao Superior Tribunal de Justiça, não se podendo excluir a possibilidade de a matéria ser julgada por esta Corte na via de impugnação própria, a ser eventualmente interposta na causa principal" (AgRg no HC n. 895.954/DF, relator Ministro Otávio de Almeida Toledo - Desembargador Convocado do TJSP, Sexta Turma, julgado em 12/8/2024, DJe de 20/8/2024.)
+2. Agravo regimental desprovido.
+(AgRg no HC n. 939.599/SE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/10/2024, DJe de 28/10/2024 - grifo próprio.)
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto por Pablo da Silva contra decisão monocrática que não conheceu de habeas corpus, com base no entendimento de que o habeas corpus foi utilizado em substituição a revisão criminal. O agravante foi condenado a 1 ano de reclusão, com substituição da pena por restritiva de direitos, pela prática de furto (art. 155, caput, CP). A defesa pleiteou a conversão da pena restritiva de direitos em multa, alegando discriminação com base na condição financeira do paciente.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é cabível o conhecimento do habeas corpus utilizado em substituição à revisão criminal; e (ii) estabelecer se a escolha da pena restritiva de direitos, em vez de multa, configura discriminação por condição financeira.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não é admitido como substituto de revisão criminal, conforme a jurisprudência consolidada do STJ e do STF, ressalvados casos de flagrante ilegalidade.
+4. Não houve demonstração de ilegalidade evidente na escolha da pena restritiva de direitos, sendo esta compatível com a natureza do crime e as condições pessoais do condenado.
+IV. DISPOSITIVO E TESE
+5. Agravo regimental desprovido.
+Tese de julgamento:
+1. O habeas corpus não pode ser utilizado como substituto de revisão criminal, salvo em casos de flagrante ilegalidade.
+2. A escolha de pena restritiva de direitos, em substituição à privativa de liberdade, não configura discriminação por condição financeira, desde que adequadamente fundamentada.
+Dispositivos relevantes citados: Código Penal, art. 155; STJ, AgRg no HC 861.867/SC; STF, HC 921.445/MS.
+(AgRg no HC n. 943.522/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/10/2024, DJe de 4/11/2024 - grifo próprio.)
+Portanto, não se pode conhecer do presente habeas corpus.
+Por outro lado, o exame dos autos não indica a existência de ilegalidade flagrante, apta a autorizar a concessão da ordem de ofício.
+No caso dos autos, o Tribunal de origem negou provimento ao agravo em execução interposto pela defesa, consignando, para tanto, que (fls. 64-70):
+A pendência de trânsito em julgado de condenação superveniente não impede, por si só, eventual unificação de penas (art. 111 da LEP) - definitiva e provisória -, desde que (i) haja guia provisória que permita ao Juízo da Execução Penal exercer a competência prevista no artigo 66, inciso III, e artigo 111, ambos da Lei de Execução Penal e (ii) tal medida (soma / unificação de penas) resulte em situação mais favorável a(o) apenado(a), conforme orientação consolidada no STJ e inteligência da Súmula n. 716 do Supremo Tribunal Federal.
+Contudo, no presente caso, não há que se falar em soma / unificação da pena cumprida na execução penal n. 7002715-57.2012.8.26.0071, extinta em 02/03/2023, com a pena privativa de liberdade atualmente cumprida em regime fechado nos autos de origem (execução n. 0005239-39.2025.8.26.0509), cuja sentença condenatória correlata foi proferida em data posterior àquela (vide fls. 06/08).
+Respeitado, pois, entendimento em contrário, não cabe adotar marco temporal (05/10/2022) e/ou lapso de cumprimento de pena (de 05/10/2022 a 02/03/2023) pertinente a execução já extinta (vide "observação" à fl. 07) como termo inicial para progressão de regime, livramento condicional, indulto e comutação em execução penal atualmente em cumprimento, iniciada em data posterior (autônoma).
+Com efeito, a data-base para progressão de regime (fl. 07), livramento condicional (fl. 08) e demais benefícios executórios não pode corresponder a 05/10/2022, sob pena de se contabilizar, novamente, o período de prisão já contado na execução anterior.
+ ..
+Note-se que houve um considerável lapso temporal entre o integral cumprimento da pena anterior, extinta, e o início do cumprimento da reprimenda superveniente (autos de origem), razão pela qual, impossível a soma / unificação das penas em questão (vide inteligência da tese firmada pelo STJ no julgamento do Tema 1367), indeferem-se os pedidos formulados pelo(a) reeducando(a).
+Embora a regra seja que, com a superveniência de nova condenação no curso da execução penal, a nova pena deva ser somada / unificada àquela que está sendo cumprida, subtraindo-se o período já cumprido (art. 75, par. 2º, do CP e art. 111, da LEP), no caso, a nova condenação, superveniente, se deu em agosto de 2025 (fl. 06), quando o agravante já havia cumprido a pena anterior (autos n. 7002715-57.2012.8.26.0071); extinta em 02/03/2023.
+Detalhe: o lapso havido entre a prisão do agravante em 05/10/2022 (referente ao crime cuja pena está ser executada nos autos de origem) e 02/03/2023, foi contabilizado para extinguir a pena executada nos autos n. 7002715-57.2012.8.26.0071 - motivo pelo qual a data-base para progressão de regime, livramento condicional e demais benefícios executórios na execução penal em cumprimento não pode ser o dia 05/10/2022, sob pena de se contabilizar, em duplicidade, tal período de prisão - reitera-se, já contado na execução anterior (vide, nessa seara, observação à fl. 07).
+Com isso, a "data-base" a ser observada, correta, para a progressão de regime e livramento condicional é o primeiro dia subsequente à data da extinção (02/02/23) da anterior execução, ou seja, o dia 03/03/2023.
+Em suma, dadas as particularidades do presente caso, mantem-se o termo inicial fixado - tanto para progressão de regime, como livramento condicional - na decisão agravada, qual seja, a data subsequente ao término do cumprimento da pena da execução anterior.
+No caso dos autos, o Tribunal de Justiça do Estado de São Paulo negou provimento ao agravo em execução interposto pela defesa, consignando, para tanto, a impossibilidade de unificar pena já extinta em 2/3/2023 com a condenação superveniente, pois o período de 5/10/2022 a 2/3/2023 já teria sido computado na execução anterior, vedada a duplicidade.
+A conclusão harmoniza-se com a jurisprudência desta Corte Superior, uma vez que, verificado lapso entre o integral cumprimento da pena anterior e o início da reprimenda superveniente, é inviável a unificação das penas. Para benefícios executórios futuros, deve prevalecer como data-base o primeiro dia subsequente à extinção da execução antecedente, a fim de evitar a duplicidade de aproveitamento do período já computado.
+A propósito:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. DATA-BASE PARA FINS DE PROGRESSÃO DE REGIME. DIA SUBSEQUENTE AO TÉRMINO DA EXECUÇÃO ANTERIOR. POSSIBILIDADE. NOVA SENTENÇA CONDENATÓRIA EXARADA APÓS O RESGATE INTEGRAL DA REPRIMENDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da uníssona jurisprudência desta Corte Superior, "havendo lapso temporal entre o integral cumprimento das penas anteriores e o início do cumprimento da reprimenda superveniente, não há que se falar em unificação de penas; o que, para fins de fixação do início do marco temporal para concessão de futuros benefícios executórios, impõe que a nova data- base seja o primeiro dia subsequente à data da extinção da primeira execução" (AgRg no HC n. 884.167/SP, relator Ministro Otávio de Almeida Toledo, Desembargador Convocado do TJSP, Sexta Turma, julgado em 18/12/2024, DJEN de 23/12/2024).
+2. No presente caso, a pena anteriormente imposta ao agravante foi extinta pelo integral cumprimento em 3/10/2021 e a nova sentença condenatória foi proferida apenas em 4/8/2022. Dessa forma, embora a prisão cautelar (1º/5/2018) tenha ocorrido antes da extinção da primeira execução, vê-se que o título executório foi exarado depois, inviabilizando, assim, a unificação de penas que manteria como data-base a última prisão para fins de progressão.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 918.839/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 30/4/2025, DJEN de 8/5/2025.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. UNIFICAÇÃO DAS PENAS. DATA-BASE PARA BENEFÍCIOS FUTUROS. LAPSO ENTRE A EXTINÇÃO DE PENA ANTERIOR E O INÍCIO DO CUMPRIMENTO DE PENA SUPERVENIENTE. DATA-BASE É O PRIMEIRO DIA SUBSEQUENTE À EXTINÇÃO DA PENA ANTERIOR. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. não há ilegalidade nas razões constantes da decisão ora recorrida, porquanto não lastreada em qualquer fundamento que não não conste da jurisprudência desta Corte Superior.
+2. É cediço o entendimento deste Egrégio no sentido de que, havendo lapso temporal entre o integral cumprimento das penas anteriores e o início do cumprimento da reprimenda superveniente, não há que se falar em de unificação de penas; o que, para fins de fixação do início do marco temporal para concessão de futuros benefícios executórios, impõe que a nova data-base seja o primeiro dia subsequente à data da extinção da primeira execução.
+3. Na hipótese dos autos, o agravante teve sua pena extinta por integral cumprimento em data anterior ao início do cumprimento da pena referente a novo delito, razão pela qual a data-base para concessão de novos benefícios deve ser o primeiro dia subsequente à extinção da primeira, sob pena de utilizar-se duplamente o período de cumprimento anterior.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 884.167/SP, relator Ministro Otávio de Almeida Toledo - Desembargador convocado do TJSP -, Sexta Turma, julgado em 18/12/2024, DJEN de 23/12/2024.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de J ustiça, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
