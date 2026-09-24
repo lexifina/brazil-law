@@ -1,0 +1,35 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por SF COMÉRCIO DE FRIOS E LATICÍNIOS EIRELI contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 10/2/2026.
+Concluso ao gabinete em: 18/8/2026.
+Ação: revisional de contrato c/c repetição de indébito, ajuizada por SF COMÉRCIO DE FRIOS E LATICÍNIOS EIRELI, em face de DESENVOLVE SP - AGÊNCIA DE FOMENTO DO ESTADO DE SÃO PAULO S.A., na qual requer a revisão do contrato bancário, com afastamento da capitalização de juros e da cumulação da SELIC com juros remuneratórios, e a restituição da Tarifa de Crédito Digital (TCD).
+Sentença: julgou parcialmente procedentes os pedidos, para: i) reconhecer a abusividade da Tarifa de Crédito Digital (TCD) e determinar a restituição do valor de R$ 7.464,82 (sete mil quatrocentos e sessenta e quatro reais e oitenta e dois centavos); ii) determinar o abatimento da quantia do saldo devedor, se não quitado.
+Acórdão: negou provimento ao recurso de apelação interposto pela agravante, nos termos da seguinte ementa:
+Apelação. Contratos bancários. Cerceamento de defesa ante o julgamento antecipado da lide sem a realização da prova pericial. Ação de revisional de contrato c.c. repetição de indébito. Juros capitalizados mensalmente. Admissibilidade. Aplicação da Súmula 539 do STJ e da MP 2.170-36/2001. Inaplicabilidade da Súmula 121 STF. Utilização da taxa Selic para a composição dos juros remuneratórios. Admissibilidade. Preliminar rejeitada. Sentença de parcial procedência mantida. Recurso desprovido. (e-STJ fl. 322)
+Recurso especial: alega violação do art. 369 do CPC; dos arts. 113, 187 e 422 do CC; e do art. 54 do CDC. Afirma que há cerceamento de defesa pelo indeferimento de prova pericial contábil necessária à demonstração de onerosidade excessiva e abusividade dos encargos. Aduz que a cumulação de taxa SELIC com juros remuneratórios, sem transparência e clareza, viola a boa-fé contratual e caracteriza anatocismo.
+Argumenta que, por se tratar de contrato de adesão, deve ser relativizado o acordo firmado, com interpretação favorável à aderente e afastamento de cláusulas que imponham desvantagem exagerada.
+Requer, ao final, a reforma do acórdão recorrido para dar provimento ao recurso especial para reconhecer o cerceamento de defesa determinando o retorno dos autos ao Juízo de primeiro grau, para realização de prova pericial contábil.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do descabimento de agravo em recurso especial contra decisão fundamentada no art. 1.030, I, "b", do CPC
+Nos termos dos arts. 1.030, § 2º, e 1.042, caput, do CPC/2015, o agravo interno, no próprio Tribunal de origem, é o único recurso cabível contra a decisão que nega seguimento a recurso especial em razão da conformidade entre o acórdão recorrido e a orientação firmada pelo STJ em sede de recurso especial repetitivo (art. 1.030, I, "b"), não sendo admissível a interposição de agravo em recurso especial.
+Nesse sentido: AgInt no TP 529/PE, Terceira Turma, DJe de 23/10/2017; AgInt nos EDcl no AREsp 1.093.907/MT, Terceira Turma Turma, DJe de 24/10/2017; AgInt no AREsp 973.427/MG, Quarta Turma, DJe de 13/10/2017.
+Assim, na hipótese dos autos, considerando que a decisão de admissibilidade proferida pelo TJSP negou seguimento ao recurso especial, no que concerne à ilegalidade da capitalização mensal dos juros, em razão do recurso especial repetitivo n. 973.827/RS (Temas 246 e 247), tem-se por prejudicado o exame do tema.
+Dessa forma, passo à análise da matéria remanescente.
+- Do cerceamento de defesa
+Conforme a jurisprudência do STJ, não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção ou complementação de prova. Nesse sentido: REsp n. 2.192.255/SP, Terceira Turma, DJEN de 28/2/2025; e AgInt no REsp n. 2.077.630/SP, Quarta Turma, DJe de 18/4/2024.
+Na espécie, o TJ/SP manteve a decisão do Juízo de Primeiro Grau de Jurisdição que indeferiu o pedido da agravante de produção de prova pericial, consoante o fundamento de que a prova documental era necessária e suficiente ao julgamento da questão controvertida.
+Não se constata, destarte, cerceamento de defesa.
+Ademais, alterar o decidido no acórdão recorrido, acerca da ausência de cerceamento de defesa, por ter sido indeferida a realização de alguma prova, demandaria o reexame de fatos e provas, o que não é permitido ante o óbice da Súmula 7 desta Corte. Na mesma linha: AgInt no AREsp n. 2.714.570/SP, Terceira Turma, DJEN de 20/2/2025; AgInt no REsp n. 2.000.839/RJ, Quarta Turma, DJEN de 23/12/2024.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Ademais, alterar o decidido no acórdão impugnado, no que se refere à ilegalidade da utilização da Taxa Selic no cálculo dos juros remuneratórios, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Desse modo, não é possível que sejam revisitados fatos ou que seja conferida nova interpretação de cláusula contratual, uma vez que são matérias ligadas às especificidades do processo e alheias à função desta Corte Superior que é a uniformização da interpretação da legislação federal.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o proveito econômico obtido pela parte agravada (e-STJ fls. 339) para 18%, observada eventual concessão da gratuidade de justiça.
+Previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO DE EMPRÉSTIMO BANCÁRIO C/C REPETIÇÃO DE INDÉBITO. DECISÃO QUE NEGA SEGUIMENTO A RECURSO ESPECIAL FUNDAMENTADA EM REPETITIVO. APLICAÇÃO DO CPC. NÃO CABIMENTO DE AGRAVO EM RECURSO ESPECIAL. CABIMENTO DE AGRAVO INTERNO NO TRIBUNAL DE ORIGEM. CERCEAMENTO DE DEFESA. PRODUÇÃO DE PROVAS. TAXA SELIC. COMPOSIÇÃO. JUROS REMUNERATÓRIOS. ANATOCISMO. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7.
+1. Ação revisional de contrato bancário c/c repetição de indébito.
+2. Conforme determinação expressa contida no art. 1.030, I, c/c 1.042, caput e § 2º, ambos do CPC, é cabível agravo interno contra decisão na origem que nega seguimento ao recurso especial com base em recurso repetitivo.
+3. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+4. Agravo conhecido. Recurso especial não conhecido.
