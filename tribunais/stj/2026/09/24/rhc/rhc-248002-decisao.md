@@ -1,0 +1,101 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por LUCAS RODRIGUES SOARES SILVA, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO no julgamento do Habeas Corpus Criminal n. 5027062-67.2026.4.04.0000/PR.
+Extrai-se dos autos que o recorrente foi preso em flagrante em 18/6/2026, posteriormente convertido em prisão preventiva, e restou denunciado, pela suposta prática do crime tipificado no art. 33, caput, c/c o art. 40, I, da Lei n. 11.343/2006.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão que restou assim ementado (fl. 190):
+"DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. MACONHA. ELEVADA QUANTIDADE. PRISÃO PREVENTIVA. BUSCA VEICULAR. JUSTA CAUSA CONFIGURADA. ORDEM DENEGADA.
+I. CASO EM EXAME:
+1 . Habeas corpus impetrado em favor de paciente preso em  agrante, com prisão convertida em preventiva, pela prática, em tese, do crime de trá co transnacional de drogas (Lei nº 11.343/2006, arts. 33, caput, e 40, I). O paciente foi  agrado transportando 2.175,00 kg de maconha em um caminhão boiadeiro. A defesa alega nulidade da busca veicular por ausência de fundada suspeita e requer o trancamento da ação penal.
+II. QUESTÃO EM DISCUSSÃO:
+2. Há duas questões em discussão: (i) saber se há nulidade na busca veicular por ausência de fundada suspeita; e (ii) saber se estão presentes os requisitos para a manutenção da prisão preventiva do paciente.
+III. RAZÕES DE DECIDIR:
+3. A busca veicular foi legal, pois amparada em fundada suspeita decorrente de elementos concretos, quais sejam, a placa traseira do caminhão encoberta e o tráfego em estrada vicinal utilizada para desviar de fiscalização policial em região de fronteira.
+4. Os depoimentos dos policiais gozam de presunção de legitimidade e fé pública, sendo válidos para demonstrar a justa causa da abordagem, especialmente quando coerentes e sem indícios de motivação pessoal para incriminação injustificada.
+5. A prisão preventiva está devidamente fundamentada na garantia da ordem pública, diante da gravidade concreta da conduta evidenciada pela expressiva quantidade de droga apreendida (mais de duas toneladas de maconha).
+6. O modus operandi empregado, consistente na ocultação da droga sob carga de feno em caminhão boiadeiro, indica a existência de estrutura organizada e interação com organização criminosa, justificando a segregação cautelar.
+7. Eventuais condições pessoais favoráveis do paciente não obstam a decretação da prisão preventiva quando demonstrada a necessidade da medida extrema para evitar a reiteração delitiva.
+IV. DISPOSITIVO E TESE:
+8. Ordem denegada.
+Tese de julgamento: 9. A existência de elementos objetivos, como veículo com placa encoberta trafegando em rota de desvio de  scalização em região de fronteira, constitui fundada suspeita apta a legitimar a busca veicular, sendo a apreensão de expressiva quantidade de drogas fundamento idôneo para a decretação da prisão preventiva para garantia da ordem pública.
+Dispositivos relevantes citados: CPP, arts. 302, 312, 313 e 319; Lei nº 11.343/2006, arts. 33, caput, e 40, I.
+Jurisprudência relevante citada: STF, RE 1.602.595, Rel. Min. Flávio Dino, j. 18.05.2026; STJ, AgRg no HC n. 1.092.177/MS, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, j. 24.06.2026; STJ, AgRg no HC n. 1.004.114/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, j. 09.12.2025."
+Nas razões do presente recurso, a defesa sustenta a nulidade da abordagem policial por ausência de fundadas razões objetivas, em desobediência aos arts. 240, § 2º, e 244 do Código de Processo Penal - CPP.
+Sustenta a ilicitude das provas por derivação, na forma do art. 157, § 1º, do CPP, porquanto toda a cadeia probatória decorre de diligência inicial inválida.
+Argui a inidoneidade dos fundamentos adotados para a decretação e manutenção da prisão preventiva, por ausência de motivação concreta quanto à necessidade da medida extrema e fragilidade dos depoimentos policiais.
+Requer, em liminar, a expedição de alvará de soltura em favor do recorrente, para que aguarde em liberdade o julgamento definitivo deste recurso, ainda que mediante a aplicação de medidas cautelares diversas da prisão. No mérito, pugna pela concessão da ordem para reformar o acórdão do Tribunal de origem, revogar a prisão preventiva, reconhecer a nulidade da abordagem por ausência de fundadas razões e desentranhar a droga apreendida dos autos.
+É o relatório.
+Decido.
+Conforme relatado, busca-se, com o presente recurso, a declaração de nulidade da busca veicular e das provas dela derivadas e a revogação da prisão preventiva, ainda que mediante a aplicação de medidas cautelares alternativas.
+O Tribunal de origem denegou a ordem nos seguintes termos (grifos nossos):
+"As decisões iniciais esgotaram a análise meritória e devem ser mantidas.
+Com efeito, inexiste coação ilegal apta a justificar o pleito de relaxamento da prisão e estão presentes, além de fundados indícios de materialidade e autoria, elementos concretos que apontam para a necessidade de manutenção da custódia para garantir a ordem pública.
+ ..
+Vale registrar, por fim, que o paciente já foi denunciado pela possível prática do crime previsto no artigo 33, caput, c/c art. 40, inciso I, ambos da Lei n.º 11.343/06 (processo 5002228- 95.2026.4.04.7017/PR, evento 1, INIC1) e o juízo da instrução manteve a prisão preventiva (idem, evento 8.1).
+Assim, ratifico a decisão inicial, por seus próprios fundamentos, com os acréscimos acima." (fls. 188/189)
+Cumpre, pois, transcrever as razões expostas na decisão que indeferiu o pedido liminar, posteriormente ratificadas pelo colegiado no acórdão (grifos nossos):
+"O paciente foi preso em flagrante no dia 18/06/2026 pela prática, em tese, do crime previsto no art. 33, caput, c/c art. 40, inciso I, ambos da Lei n.º 11.343/06, quando foi surpreendido transportando aproximadamente 2.175,00 kg de maconha.
+ ..
+A tese da defesa de ausência de provas de ocultação da placa do caminhão e da afirmação do paciente de que transportava maconha (falta de justa causa para a abordagem) não prospera neste momento. Como bem decidiu o juízo de origem:
+Quanto à alegação da defesa, a justa causa para a abordagem policial ficou devidamente demonstrada pelos depoimentos do condutor e da testemunha (processo 5007235-10.2026.4.04.7004/PR, evento 1, DOC1, p. 4-5). Segundo os relatos, a equipe policial visualizou o veículo VW/7.90, tipo caminhão boiadeiro, transitando com a placa traseira encoberta, o que constitui fundada suspeita e infração administrativa.
+Somado a isso, o veículo foi flagrado acessando uma estrada vicinal comumente utilizada por criminosos nesta região de fronteira com o objetivo de desviar da fiscalização na cidade de Maria Helena/PR. Tal conjuntura fática é suficiente para, neste momento processual, considerar legal o flagrante realizado, uma vez que os policiais agiram amparados por fundadas suspeitas que se confirmaram com a localização de 2.175,00 kg de "maconha" no veículo conduzido pelo investigado.
+Dessa forma, estando presentes os requisitos do art. 302 do CPP e inexistindo vícios que maculem o ato, não há que se falar em relaxamento da prisão em flagrante.
+Extrai-se do inquérito que os dois policiais ouvidos apresentaram depoimentos harmônicos acerca da existência de fundada suspeita (IPL, 1.1, p. 4 e 5). Como visto, a busca veicular foi motivada por elementos concretos e objetivos.
+A jurisprudência é firme no sentido de que a palavra dos policiais merece a credibilidade e a fé pública inerente ao depoimento de qualquer funcionário estatal no exercício de suas funções, se ausentes indícios de que houvesse motivos pessoais para a incriminação injustificada da parte investigada.
+Nesse sentido:
+(..) "inexistindo prova em contrário, a palavra dos policiais militares é dotada de fé pública e presumidamente legítima, de forma que não subsistem razões para descredibilizar as declarações prestadas no caso em análise. Isso porque, os policiais foram coerentes e coesos ao relatarem a forma como se deu a busca, não havendo elemento capaz de desqualificar os relatos" (..) (STF, RE 1602595, Relator(a): Min. Flávio Dino, Publicação: 18/05/2026).
+(..) "o depoimento policial possui presunção de veracidade em virtude da fé pública inerente ao exercício da função estatal, salvo indícios de incriminação injustificada por motivos pessoais." (..) (STJ, AgRg no HC n. 1.004.114/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 9/12/2025, DJEN de 18/12/2025).
+Nota-se, assim, que, além de não existir ilegalidade na abordagem policial, as circunstâncias foram graves, justificando a manutenção da prisão preventiva para garantir a ordem pública, especialmente considerando que o paciente já possui histórico de tráfico de drogas (em São Paulo). " (fls. 141/146)
+Ainda, em sede de reconsideração do indeferimento do pedido liminar, acrescentou-se (grifos nossos):
+"A despeito das alegações e dos precedentes apresentados, tenho, em análise preliminar, própria deste momento processual, que o caso em análise não se reveste de ilegalidade manifesta, estando presentes elementos concretos e objetivos que justificaram a inspeção veicular: (i) cobertura da placa; (ii) acesso a estrada vicinal comumente utilizada por criminosos da região com o objetivo de desviar da fiscalização; (iii) afirmação do paciente de que transportava drogas." (fl. 163)
+Nos termos do art. 244 do Código de Processo Penal e da jurisprudência das Cortes Superiores, a busca pessoal (e veicular) prescinde de mandado quando há fundada suspeita de posse de objetos que constituam corpo de delito, podendo tal suspeita ser lastreada em dados objetivos e circunstâncias específicas da abordagem.
+Extrai-se do acórdão impugnado que o Tribunal de origem reputou lícita a abordagem policial e reconheceu a presença de fundada suspeita, assentando que a atuação estatal se amparou em elementos concretos e objetivos. Conforme consignado pelas instâncias ordinárias, os policiais visualizaram o veículo conduzido pelo acusado transitando com a placa traseira encoberta, circunstância que, por configurar infração administrativa, justificava a fiscalização.
+Somou-se a isso o fato de o caminhão acessar estrada vicinal sabidamente utilizada por criminosos da região de fronteira para escapar da fiscalização policial. Os relatos dos agentes, considerados harmônicos e coerentes, indicaram ainda que tais circunstâncias motivaram a inspeção veicular, posteriormente corroborada pela localização de aproximadamente 2.175 kg de maconha. Ademais, registrou-se que o próprio acusado teria afirmado transportar drogas, reforçando o quadro de fundada suspeita que legitimou a atuação policial.
+Assim, demonstrado que a diligência foi pautada por elementos concretos, conclui-se que a apreensão dos entorpecentes decorreu da legal atuação estatal, o que obsta o reconhecimento de qualquer vício processual.
+Em igual sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. BUSCA PESSOAL E VEICULAR. FUNDADA SUSPEITA. PROVA DERIVADA. PRECLUSÃO PRO JUDICATO. AGRAVO REGIMENTAL IMPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que conheceu de agravo em recurso especial e negou-lhe provimento, mantendo acórdão que reconheceu a legalidade da busca pessoal e veicular e a existência de fundada suspeita a legitimar a atuação policial em diligência que resultou na apreensão de grande quantidade de cigarros estrangeiros e numerário em veículo conduzido pelo recorrente, condenado pela prática do crime previsto no art. 334-A, § 1º, incisos I e IV, do Código Penal, c.c. os arts. 2º e 3º do Decreto-Lei n. 399/1968, com aplicação da pena de inabilitação para dirigir veículo com fundamento no art. 92, III, do Código Penal.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) saber se a abordagem policial, com busca pessoal e veicular, realizada em via pública, em área de alto índice criminal, diante de nervosismo, alteração de comportamento e aceleração brusca do veículo ao avistar a viatura, configura fundada suspeita suficiente, nos termos dos arts. 240, § 2º, e 244 do Código de Processo Penal, a legitimar a diligência e a validade da prova obtida; e (ii) saber se, diante do quadro fático delineado pelas instâncias ordinárias e já apreciado em acórdão anterior em recurso em sentido estrito, é possível, em agravo regimental no recurso especial, revalorar juridicamente os fatos para reconhecer a nulidade da busca, afastar a incidência da preclusão pro judicato e, por consequência, invalidar a prova produzida.
+III. RAZÕES DE DECIDIR
+3. O agravo regimental não apresentou argumentos novos ou suficientes para infirmar os fundamentos da decisão monocrática que já havia examinado o recurso especial e afastado a alegada ilegalidade da busca pessoal e veicular.
+4. A instância anterior reconheceu a ocorrência de preclusão pro judicato quanto à discussão sobre a legalidade da busca pessoal, una vez que a Turma já havia enfrentado a matéria em recurso em sentido estrito, recebendo a denúncia e determinando o prosseguimento da ação penal, sendo vedado ao juízo sentenciante reapreciar questão anteriormente decidida, nos termos do art. 505 do CPC, aplicado analogicamente ao processo penal pelo art. 3º do CPP.
+5. As instâncias ordinárias firmaram quadro fático no sentido de que a abordagem se deu em patrulhamento de força tática em região de alto índice criminal, em horário noturno, após percepção de atitude reputada suspeita, nervosismo dos ocupantes, mudança de olhar ao avistarem a viatura e aceleração brusca do veículo, elementos concretos que caracterizam fundada suspeita para fins de busca pessoal e veicular.
+6. A atuação policial observou os parâmetros dos arts. 240, § 2º, e 244 do Código de Processo Penal, pois a fundada suspeita, enquanto noção construída a partir das circunstâncias concretas do caso, não exige certeza absoluta, mas base objetiva que justifique a intervenção, inexistindo nos autos indícios de perseguição pessoal ou discriminação que pudessem macular a diligência.
+7. O policiamento preventivo e ostensivo é dever constitucional e determinadas reações objetivas do abordado, aliadas ao contexto de tempo e lugar, justificam a busca pessoal e veicular quando presentes elementos reveladores de justa causa, não se configurando violação aos arts. 240, § 2º, e 244 do CPP.
+8. A pretensão de revalorar o conjunto fático-probatório, para afastar a fundada suspeita reconhecida pelas instâncias ordinárias e declarar nula a busca, esbarra nos limites da via eleita, que não admite reexame do acervo probatório, mantendo-se hígida a conclusão quanto à licitude da prova colhida.
+IV. DISPOSITIVO E TESE
+9. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. A fundado suspeita que autoriza busca pessoal e veicular (arts. 240, § 2º, e 244 do CPP) pode ser configurada por elementos objetivos relativos ao local, horário e comportamento dos ocupantes do veículo, como nervosismo, alteração de conduta e aceleração brusca ao avistar viatura policial.
+2. Questão já decidida em acórdão anterior do próprio órgão colegiado acerca da legalidade da busca sujeita-se à preclusão pro judicato, sendo vedado ao juízo reapreciá-la, nos termos do art. 505 do CPC, aplicado analogicamente ao processo penal pelo art. 3º do CPP.
+3. Não é possível, em agravo regimental no recurso especial, revalorar o quadro fático delineado pelas instâncias ordinárias para afastar a fundada suspeita reconhecida e declarar ilícita a prova obtida em busca pessoal e veicular reputada legítima pelos tribunais de origem.
+Dispositivos relevantes citados:CPP, arts. 3º, 240, § 2º, e 244;
+CPC, art. 505; CP, art. 92, III, e art. 334-A, § 1º, incisos I e IV; Decreto-Lei n. 399/1968, arts. 2º e 3º.
+Jurisprudência relevante citada:STF, RHC 229514 AgR, Rel. Min. Gilmar Mendes, Segunda Turma, j. 2.10.2023, DJe 23.10.2023; STF, HC 230232 AgR, Rel. Min. André Mendonça, Segunda Turma, j. 2.10.2023, DJe 9.10.2023; STJ, AgRg no AREsp 1.403.409/RS, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, j. 26.3.2019, DJe 4.4.2019; STJ, AgRg no HC 828.485/SC, Rel. Min. Ribeiro Dantas, Quinta Turma, j. 21.8.2023, DJe 24.8.2023.
+(AgRg no AREsp n. 3.103.571/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 5/5/2026, DJEN de 12/5/2026.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. BUSCA VEICULAR. FUNDADA SUSPEITA. VALIDADE DA PROVA. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que deu provimento ao recurso especial do Ministério Público para cassar acórdão do Tribunal de Justiça de origem que absolveu o réu por ausência de justa causa para a abordagem policial e determinou o retorno dos autos para apreciação das demais teses defensivas.
+2. O réu havia sido condenado a 5 anos e 10 meses de reclusão, em regime fechado, além do pagamento de 583 dias-multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, em razão da apreensão de 68,068 kg de cloridrato de cocaína no interior do veículo por ele conduzido.
+3. O Tribunal de Justiça de origem absolveu o réu, entendendo que a busca veicular foi realizada sem fundada suspeita, configurando "fishing expedition", e declarou a ilicitude da prova obtida, aplicando a Teoria dos Frutos da Árvore Envenenada.
+4. O Ministério Público recorreu, alegando que a fundada suspeita para a busca veicular estava configurada por elementos objetivos, como manobra arriscada, nervosismo do condutor e informações incongruentes sobre o trajeto.
+5. A decisão agravada reconheceu a existência de fundada suspeita para a busca veicular e cassou o acórdão recorrido, determinando o retorno dos autos ao Tribunal de Justiça de origem para apreciar as demais alegações da defesa postas na apelação.
+6. A defesa interpôs agravo regimental, alegando que a análise do recurso especial esbarrou no óbice da Súmula n. 7 do STJ e que as provas obtidas estão contaminadas pela ilicitude inicial.
+II. QUESTÃO EM DISCUSSÃO
+7. A questão em discussão consiste em saber se as buscas pessoal e veicular realizadas sem mandado judicial foram amparadas por fundada suspeita, baseada em elementos objetivos e concretos que justificassem a abordagem policial.
+III. RAZÕES DE DECIDIR
+8. A busca pessoal e veicular sem mandado judicial é legítima quando amparada por fundada suspeita, conforme disposto nos arts. 240, § 2º, e 244 do Código de Processo Penal.
+9. No caso concreto, a fundada suspeita foi demonstrada por elementos objetivos, como a realização de manobra arriscada pelo condutor, o comportamento incomum ao avistar a viatura policial e a apresentação de informações incongruentes sobre o trajeto.
+10. A decisão agravada está em conformidade com a jurisprudência consolidada do Superior Tribunal de Justiça, que reconhece a validade da busca veicular quando há fundada suspeita baseada em elementos concretos.
+IV. DISPOSITIVO E TESE
+11. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+1. A busca pessoal e veicular sem mandado judicial é válida quando amparada por fundada suspeita, baseada em elementos objetivos e concretos.
+Dispositivos relevantes citados: CPP, arts. 240, § 2º; 244; Lei n. 11.343/2006, art. 33, caput.
+Jurisprudência relevante citada:STJ, AgRg no AREsp n. 2.837.712/PR, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 16.10.2025, DJEN de 22.10.2025; STJ, AgRg no HC n. 945.830/SC, Rel. Min. Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 04.06.2025, DJEN de 11.06.2025.
+(AgRg no REsp n. 2.240.006/RJ, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/4/2026, DJEN de 29/4/2026.)
+Ademais, esclarece-se que as premissas fáticas firmadas no acórdão recorrido - especialmente quanto à cobertura da placa e à informação do paciente de que transportava drogas - não podem ser revistas na presente via (AgRg no AREsp n. 3.121.076/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/6/2026, DJEN de 15/6/2026).
+Ante o exposto, com fundamento no art. 34, XX, c/c art. 202, c/c art. 246, todos do Regimento Interno do Superior Tribunal de Justiça - RISTJ, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
