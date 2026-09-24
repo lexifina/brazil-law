@@ -1,0 +1,13 @@
+DECISÃO
+A certidão de fl. 299 noticia que o prazo para interposição de agravo regimental em relação à decisão de fls. 276/280 teve início em 10/09/2026 e término em 14/09/2026, a Petição n. 982191/2026 (AgRg), contudo, é intempestiva, pois foi protocolizada em 17/09/2026.
+Diferente do que alega o douto patrono, a suposta ausência de recebimento de e-mail informativo não possui o condão de afastar a intempestividade do recurso interposto.
+O e-mail não figura entre os meios legais e oficiais de comunicação dos atos processuais previstos no Código de Processo Civil e na Lei nº 11.419/2006. As ferramentas de notificação por e-mail ou sistemas Push dos tribunais operam como mera facilidade, de caráter informativo, cuja falha ou ausência não justifica a perda de prazos peremptórios.
+Conforme mansa e pacífica jurisprudência do Superior Tribunal de Justiça, constitui ônus exclusivo do advogado constituído acompanhar as publicações oficiais no Diário da Justiça Eletrônico (DJe) ou diretamente no portal do processo eletrônico. A desídia no acompanhamento das publicações oficiais não configura justa causa para a dilação de prazo ou relevação da intempestividade, impondo-se o não conhecimento do recurso face à preclusão temporal.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. PRESTAÇÃO DE SERVIÇOS DE CONSULTORIA. INTIMAÇÕES. LEI Nº 11.419/06. DIÁRIO DE JUSTIÇA ELETRÔNICO E PORTAL ELETRÔNICO. SISTEMA PUSH. COMUNICAÇÃO NÃO OFICIAL. INTIMAÇÃO PELO DIÁRIO ELETRÔNICO REGULAR. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.1. A Lei nº 11.419/06 prevê duas espécies de intimação, as realizadas pelo Diário de Justiça Eletrônico e as realizadas pelo Portal Eletrônico. 2. Tratando-se de ferramenta de cunho meramente informativo, a ausência de comunicação pelo sistema Push não se caracteriza como justa causa para o não cumprimento do prazo processual, porquanto não se trata de meio de intimação oficial. 3.O acórdão vergastado consignou a disponibilização do despacho para complementação do preparo aos 21/8/2024 e publicação aos 22/8/2024, atestando-se, pois, a regularidade da intimação realizada. 4. Agravo conhecido. Recurso especial não provido. (AREsp n. 3.032.180/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 9/2/2026, DJEN de 18/2/2026.)
+No mesmo sentido: AgRg nos EDcl no AREsp n. 2.611.295/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 27/11/2024, DJEN de 3/12/2024.
+Ante o exposto, não conheço do recurso de fls. 287/298.
+Publique-se.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS DENEGADO. MANIFESTA INTEMPESTIVIDADE. SISTEMA PUSH. COMUNICAÇÃO NÃO OFICIAL. INTIMAÇÃO PELO DIÁRIO DA JUSTIÇA ELETRÔNICO.
+Agravo regimental não conhecido.
