@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JOSÉ MAURÍCIO RODRIGUES contra acórdão do Tribunal de Justiça do Estado de São Paulo (Agravo Interno Criminal n. 2166044-67.2026.8.26.0000/50000).
+Extrai-se dos autos que o paciente foi condenado, com trânsito em julgado em 24/02/2025, pela prática do delito tipificado no art. 273, § 1º-B, incisos I e V, do Código Penal, à pena de 1 ano, 4 meses e 10 dias de reclusão, em regime inicial semiaberto (e-STJ fl. 3). Consta, ainda, a detração do período de prisão cautelar de 01/05/2024 a 17/07/2024 e que, após pronunciamento liminar desta Corte Superior no HC n. 1075935/SP, o Ministério Público manifestou-se pela fixação do lapso em 20%, nos termos do art. 112, II, da LEP, atingido em 19/03/2026 (e-STJ fl. 3).
+Em 16/06/2026, o Juízo da Execução determinou a realização de exame criminológico (e-STJ fl. 4). Oficiado o estabelecimento prisional, a chefia do CPP de Jardinópolis/SP, por meio do Ofício n. 4410/2026-SAP-PP-CPPJARDIN-SRS, protocolado em 04/08/2026, informou a impossibilidade de realização da perícia e requereu dilação de prazo por tempo indeterminado, noticiando a ausência de psicólogo no quadro de peritos e o encaminhamento da demanda à Coordenadoria de Reintegração e Cidadania (e-STJ fl. 4).
+A defesa interpôs agravo interno no Tribunal a quo.
+O Tribunal de Justiça, em sessão virtual realizada em 07/08/2026, negou provimento ao agravo interno, mantendo a segregação do paciente para aguardar perícia técnica inexistente, sob a justificativa de inocorrência de excesso de prazo, e assentando que a matéria deveria ser veiculada por agravo em execução (e-STJ fls. 3 e 5).
+No presente writ, a defesa alega que se encontra superado o óbice do sucedâneo recursal em virtude de flagrante constrangimento ilegal e teratologia, aptos a justificar a concessão da ordem, inclusive de ofício (e-STJ fl. 3). Aduz excesso de prazo imputável exclusivamente ao Estado para a realização do exame criminológico, somado à iminência de cumprimento integral da pena em regime mais gravoso (e-STJ fls. 3/5). Sustenta que o paciente, idoso de 68 anos, já atingiu o lapso objetivo e permanece com seu pedido de progressão sobrestado apenas por ausência de psicólogo no estabelecimento prisional (e-STJ fls. 3/4). Defende que a exigência do exame criminológico, nas circunstâncias, é desproporcional e abusiva (e-STJ fls. 4/5). Asserta, por fim, a presença do fumus boni iuris e do periculum in mora, com violação aos arts. 5º, LXXVIII, da Constituição Federal, e 112 da LEP (e-STJ fl. 5).
+Requer o deferimento de medida liminar para determinar ao Juízo da Execução a imediata apreciação do pedido de progressão ao regime aberto, independentemente da realização de exame criminológico, com expedição de alvará de soltura se preenchidos os demais requisitos; a requisição de informações à autoridade apontada como coatora; a remessa dos autos à Subprocuradoria-Geral da República; e, no mérito, a concessão definitiva da ordem para cassar o acórdão proferido no Agravo Interno Criminal n. 2166044-67.2026.8.26.0000/50000 e afastar a exigência do laudo pericial diante do excesso de prazo estatal (e-STJ fl. 6).
+Liminar indeferida (e-STJ fls. 92/94).
+Informações ofertadas.
+O Ministério Público Federal manifestou-se pelo conhecimento e reconhecimento da PREJUDICIALIDADE do presente habeas corpus , diante da manifesta perda superveniente de seu objeto (e-STJ fls. 155/159).
+É o relatório. Decido.
+De fato, o Juízo da Execução ofertou informações noticiando que em 03/09/2026 foi deferida a progressão do paciente ao regime aberto sob os seguintes fundamentos:
+ ..
+O sentenciado faz jus ao livramento condicional, pois atendidos os requisitos exigidos pelos artigos 83 do Código Penal e 131 da Lei de Execução Penal.
+Com efeito, o condenado satisfez o lapso temporal exigido pela norma de regência, conforme demonstra o cálculo de pena elaborado, e não cometeu falta disciplinar de natureza grave nos últimos 12 (doze) meses.
+Quanto ao requisito subjetivo, o sentenciado ostenta bom comportamento carcerário, segundo revela documento juntado aos
+ ..
+Ante o exposto, com amparo no art. 34, XI, do Regimento interno do STJ, julgo prejudicado o pedido formulado no presente habeas corpus, ante a perda superveniente de seu objeto.
+Intimem-se.
+EMENTA
