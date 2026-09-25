@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de TALLES HENRIQUE DE SOUZA DA SILVA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (fls. 12-19).
+Consta dos autos que o paciente foi condenado pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, à pena de 5 (cinco) anos de reclusão, em regime inicial semiaberto, e 500 (quinhentos) dias-multa. Interposta apelação, o Tribunal de origem manteve a condenação e afastou a incidência da causa especial de diminuição prevista no § 4º do art. 33 da Lei de Drogas. Após a inadmissão do recurso especial, foi impetrado o presente habeas corpus.
+A defesa sustenta constrangimento ilegal no afastamento da minorante do art. 33, § 4º, da Lei n. 11.343/2006. Alega que os elementos considerados pelo Tribunal de origem não constituem fundamentos concretos aptos a demonstrar sua dedicação habitual a atividades criminosas ou sua integração a organização criminosa.
+Sustenta, ainda, que, reconhecida a primariedade e ausentes circunstâncias judiciais desfavoráveis, a quantidade de droga apreendida não impede a aplicação do redutor em sua fração máxima.
+Requer, assim, a concessão da ordem para reconhecer a causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, na fração de 2/3 (dois terços), com o consequente redimensionamento da pena e adequação do regime prisional (fls. 2-11).
+Informações prestadas às fls. 108-110 e 112.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus ou, no mérito, pela denegação da ordem (fls. 115-119).
+É o relatório.
+É entendimento consolidado desta Corte que não cabe habeas corpus substitutivo do recurso próprio, ressalvada a possibilidade de concessão da ordem, de ofício, quando constatada flagrante ilegalidade ou teratologia no ato impugnado.
+Observam-se a respeito: AgRg no HC n. 943.146/MG, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 22/10/2024; AgRg no HC n. 874.713/SP, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 20/8/2024; AgRg no HC n. 749.702/SP, Sexta Turma, relator Ministro Antonio Saldanha Palheiro, DJe de 29/2/2024; AgRg no HC n. 912.662/SP, Sexta Turma, relator Ministro Sebastião Reis Júnior, DJe de 27/6/2024; e HC n. 740.303/ES, Quinta Turma, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, DJe de 16/8/2022.
+No caso, o presente habeas corpus foi impetrado contra acórdão do Tribunal de origem que, ao julgar a apelação interposta pela defesa manteve a sentença condenatória em seus ulteriores termos. A via adequada para a impugnação do referido acórdão é o recurso próprio, razão pela qual não se conhece da impetração como sucedâneo recursal.
+Contudo, presente flagrante ilegalidade, é possível a concessão do habeas corpus de ofício, incumbindo à impetração demonstrá-la.
+No caso, o Tribunal de origem afastou a incidência da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006 ao considerar, além da apreensão de 20 porções de cocaína, com peso total de 28,50g, elementos como a fuga do paciente ao avistar a equipe policial, o fato de estar submetido a monitoramento eletrônico e possuir mandado de prisão em aberto, as informações policiais acerca de seu envolvimento em outras práticas delitivas, bem como a apreensão de dois aparelhos celulares e de uma touca tipo ninja.
+Considerou, ainda, a existência de condenação anterior por receptação e adulteração de sinal identificador de veículo automotor, circunstâncias que, na compreensão da Corte local, evidenciariam sua dedicação à atividade criminosa.
+A pretensão defensiva, portanto, não se limita à mera revaloração jurídica de fatos incontroversos. Para afastar a conclusão alcançada pelo Tribunal de origem quanto à dedicação do paciente à atividade criminosa, seria necessário revisitar o conjunto de elementos probatórios que embasaram o acórdão, atribuindo-lhes peso e significado diversos daqueles conferidos pelas instâncias ordinárias, providência incompatível com a estreita via do habeas corpus.
+Nesse sentido, esta Corte tem reiteradamente assentado que a revisão da conclusão das instâncias ordinárias acerca da dedicação do agente a atividades criminosas, quando fundada nas circunstâncias concretas do caso, demanda o revolvimento do conjunto fático-probatório, pro vidência incompatível com a via estreita do habeas corpus.
+Nesse sentido:
+DIREITO PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. UTILIZAÇÃO COMO SUBSTITUTIVO DE RECURSO. CAUSA DE DIMINUIÇÃO DE PENA. DEDICAÇÃO À ATIVIDADE CRIMINOSA. NEGADO PROVIMENTO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus utilizado como substitutivo de recurso especial, mantendo acórdão do Tribunal de Justiça do Estado de São Paulo que afastou a causa de diminuição de pena prevista no § 4º do art. 33 da Lei nº 11.343/2006.
+2. O agravante foi condenado à pena de 5 anos de reclusão, em regime inicial semiaberto, e ao pagamento de 500 dias-multa, pela prática do crime de tráfico de drogas. O afastamento da minorante foi fundamentado na existência de atos infracionais análogos ao tráfico de drogas, na apreensão de balança de precisão e dinheiro em espécie, e na habitualidade delitiva.
+3. A defesa sustenta que o afastamento do redutor baseou-se em fundamentos inidôneos, alegando que atos infracionais antigos e inquéritos em andamento não podem fundamentar a negativa da minorante, conforme jurisprudência pacificada. Requer a reforma da decisão para aplicação do redutor em grau máximo.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o habeas corpus pode ser utilizado como substitutivo de recurso especial e se o afastamento da causa de diminuição de pena foi devidamente fundamentado em elementos concretos que evidenciem a dedicação habitual à atividade criminosa.
+III. Razões de decidir
+5. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade, conforme jurisprudência consolidada do Superior Tribunal de Justiça.
+6. O afastamento da causa de diminuição de pena foi fundamentado em elementos concretos, como atos infracionais análogos ao tráfico de drogas, apreensão de balança de precisão e dinheiro em espécie, e análise conjunta das circunstâncias que evidenciam a habitualidade delitiva.
+7. A quantidade de droga apreendida, embora pequena, não constitui fundamento automático para aplicação do redutor, devendo ser analisada no contexto probatório dos autos.
+8. O exame aprofundado das circunstâncias fáticas e a reavaliação dos elementos probatórios demandariam incursão no conjunto fático-probatório, providência incompatível com a via estreita do habeas corpus.
+9. A decisão agravada está em consonância com a jurisprudência dominante do Superior Tribunal de Justiça, não havendo ilegalidade flagrante ou teratologia que justifique sua reforma.
+IV. Dispositivo e tese
+10. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade.
+2. O afastamento da causa de diminuição de pena prevista no § 4º do art. 33 da Lei nº 11.343/2006 pode ser fundamentado em elementos concretos que evidenciem a dedicação habitual à atividade criminosa.
+3. A análise aprofundada do conjunto fático-probatório é incompatível com a via estreita do habeas corpus.
+(AgRg no HC n. 1.003.636/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/10/2025, DJEN de 29/10/2025 - grifo próprio.)
+Embora a apreensão da droga, isoladamente considerada, não seja suficiente para demonstrar habitualidade delitiva, a conclusão adotada na origem não se apoiou exclusivamente na quantidade ou na natureza do entorpecente. O acórdão examinou um conjunto de circunstâncias concretas e, a partir delas, reconheceu a presença do requisito impeditivo da minorante. A discussão acerca da suficiência desses elementos para demonstrar a dedicação do paciente à atividade criminosa pressupõe, no caso, nova incursão sobre o quadro fático-probatório, o que afasta a possibilidade de reconhecimento de flagrante ilegalidade.
+Com efeito, "a modificação desse entendimento, a fim de fazer incidir a minorante da Lei de Drogas, enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus" (AgRg no HC n. 785.908/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/3/2023, DJe de 17/3/2023).
+Assim, embora a defesa sustente a existência de elementos insuficientes para caracterizar a dedicação do paciente à a tividade criminosa, a pretensão deduzida nesta via pressupõe a revisão da valoração realizada pelas instâncias ordinárias, não se identificando, de plano, constrangimento ilegal manifesto.
+Desse modo, ausente flagrante ilegalidade, deve ser preservada a conclusão alcançada pelo Tribunal de origem.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
