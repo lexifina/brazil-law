@@ -1,0 +1,93 @@
+DECISÃO
+
+Recurso ordinário em habeas corpus. Embriaguez ao volante, direção perigosa e falsidade ideológica. Pleito de absolvição quanto ao crime previsto no art. 299 do Código Penal. Reexame do acervo fático-probatório. Impossibilidade. Precedentes. Manifesta ilegalidade ou teratologia não identificadas.  Negativa de seguimento.
+
+Trata-se de recurso ordinário em habeas corpus interposto por Kaio Zanolli contra acórdão do Superior Tribunal de Justiça que negou provimento ao agravo regimental no HC 1.084.149/ES (evento 42).
+
+O recorrente foi condenado pela prática dos crimes de embriaguez ao volante, direção perigosa e falsidade ideológica, tipificados nos arts. 306 e 311 da Lei 9.503/97 e art. 299 do Código Penal ( evento 16).
+
+No presente recurso ordinário, a defesa sustenta a atipicidade da conduta em relação ao crime de falsidade ideológica, porquanto o documento objeto da controvérsia consiste em termo policial que apenas reproduziu fielmente a declaração prestada pelo recorrente, posteriormente considerada inverídica. Assevera que a redução a termo pela autoridade policial não pode alterar a natureza constitucional de autodefesa da declaração. Alega que a garantia contra a autoincriminação  impede que o Estado transforme o exercício da defesa pessoal do investigado em fonte autônoma de incriminação. Argumenta que a matéria não demanda incursão no acervo fático-probatório, uma vez que a discussão se restringe à qualificação jurídica de fatos já apreciados pelas instâncias ordinárias. Aduz a existência de erro material no acórdão recorrido  com fundamentação dissociada do caso concreto. Requer a absolvição do recorrente.
+
+O Ministério Público Federal opina pelo não provimento do recurso ordinário em habeas corpus (evento 84).
+
+É o relatório. Decido.
+
+Extraio do acórdão recorrido (evento 41):
+
+“DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. EMBRIAGUEZ AO VOLANTE. FALSIDADE IDEOLÓGICA. AGRAVO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus por ser substitutivo de recurso próprio.
+2. Pretensão de absolvição do crime de embriaguez ao volante (art. 306 do CTB) por insuficiência de provas, com alegação de que a condenação se amparou apenas em depoimentos de guardas municipais, e de reconhecimento da atipicidade do crime de falsidade ideológica (art. 299 do CP), sob fundamento de exercício do direito à não autoincriminação em declarações prestadas na fase policial.
+3. Instâncias ordinárias mantiveram condenação por embriaguez ao volante, com base em prova testemunhal coerente e Auto de Constatação de Sinais de Alteração da Capacidade Psicomotora, e rejeitaram a atipicidade do art. 299 do CP por inserção de informação falsa em termo de declarações perante a autoridade policial.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se é cabível o habeas corpus substitutivo de recurso próprio, admitindo-se exceção apenas diante de flagrante ilegalidade.
+5. A questão em discussão consiste em saber se, na via estreita do habeas corpus, é possível revisar a condenação pelo art. 306 do CTB, fundada em depoimentos harmônicos de agentes públicos e em Auto de Constatação, apesar da recusa do paciente ao teste do etilômetro e ao exame de alcoolemia.
+6. A questão em discussão consiste em saber se o exercício do direito à não autoincriminação afasta a tipicidade do art. 299 do CP quando há inserção de declaração falsa em documento público com o fim de alterar a verdade sobre fato juridicamente relevante.
+III. Razões de decidir
+7. A orientação jurisprudencial consolidada afasta o cabimento de habeas corpus substitutivo de recurso próprio, permitindo o conhecimento apenas na presença de flagrante ilegalidade, não evidenciada no caso.
+8. A revisão das conclusões das instâncias ordinárias sobre autoria e materialidade do crime do art. 306 do CTB exigiria revolvimento do acervo fático-probatório, incompatível com o habeas corpus; além disso, o art. 306, § 2º, do CTB admite a comprovação por outros meios, como Auto de Constatação e prova testemunhal coerente.
+9. O direito à não autoincriminação não autoriza inserir declaração falsa em documento público para alterar fato juridicamente relevante; a conduta extrapola a autodefesa e se subsume ao art. 299 do CP, conforme reconhecido pelas instâncias ordinárias.
+10. Ausente flagrante ilegalidade nas decisões impugnadas, mantém-se a decisão que não conheceu do habeas corpus.
+IV. Dispositivo e tese
+11. Resultado do Julgamento: Agravo regimental improvido, mantida a decisão que não conheceu do habeas corpus.”
+
+A jurisprudência desta Corte é no sentido da inviabilidade, como regra, de utilização do writ como sucedâneo recursal ou revisão criminal (HC 233.726-AgR, Rel. Min. Cristiano Zanin, Primeira Turma, DJe 26.02.2024; HC 235.844-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 22.02.2024), com ressalva, nesta última hipótese, de serem os fatos incontroversos (HC 139.741/DF, Rel. Min. Dias Toffoli, Segunda Turma, DJe 12.04.2019).
+
+De todo modo, não observo constrangimento ilegal ou teratologia hábil à concessão de ofício da ordem de habeas corpus.
+
+O recorrente foi condenado às penas de 01 (um) ano de reclusão, 01 (um) ano, 06 (seis) meses e 15 (quinze) dias de detenção, no regime inicial aberto, substituída a pena privativa de liberdade por duas restritivas de direitos, pela prática dos crimes previstos nos arts. 306, 309 e 311 do Código de Trânsito Brasileiro e arts. 299 e 330, na forma do art. 69, todos do Código Penal (evento 13). Em sede de revisão criminal, o Tribunal de Justiça do Estado do Espírito Santo absolveu o recorrente das imputações referentes aos delitos tipificados nos arts. 330 do CP e 309 do CTB, mantendo as condenações pelos demais crimes, com o redimensionamento da pena total pelo juízo da execução (evento 18).
+
+Na oportunidade, o Tribunal de Justiça local rechaçou a tese defensiva de atipicidade do crime de falsidade ideológica, nos seguintes termos (evento 18, fls. 6-7):
+
+“Por fim, busca o requerente a absolvição da imputação de falsidade ideológica, sustentando que suas declarações na fase policial estavam amparadas pelo direito de não produzir prova contra si mesmo.A pretensão não procede.
+O tipo penal do art. 299 do Código Penal pune a conduta de "Omitir, em documento público ou particular, declaração que dele devia constar, ou nele inserir ou fazer inserir declaração falsa ou diversa da que devia ser escrita, com o fim de prejudicar direito, criar obrigação ou alterar a verdade sobre fato juridicamente relevante".
+No caso, a denúncia imputou ao réu o fato de ter inserido, em termo de declarações perante a autoridade policial (documento público), a informação falsa de que a corré Layandra conduzia o veículo, com o claro intuito de alterar a verdade sobre fato juridicamente relevante e se eximir da responsabilidade penal. Tal conduta foi confessada em audiência de acordo de não persecução penal.
+O direito à não autoincriminação (nemo tenetur se detegere), embora garanta ao investigado o direito de permanecer em silêncio e de não ser compelido a produzir prova contra si, não abarca a possibilidade de imputar falsamente a terceiro a prática de crime ou de falsear a verdade em documento público com o fim de alterar fato juridicamente relevante. O exercício da ampla defesa encontra limites na legalidade, não podendo ser invocado para legitimar a prática de novos delitos.
+A conduta de apresentar versão inverídica dos fatos em interrogatório não configura, por si só, o crime. Contudo, no caso concreto, a falsidade foi inserida em termo de declarações, configurando o tipo penal do art. 299 do CP, pois extrapolou o mero exercício da autodefesa.
+Dessa forma, a condenação por este delito deve ser mantida.”
+
+O Superior Tribunal de Justiça, por sua vez, assentou (evento 42, fls. 5-6):
+
+“O habeas corpus não se presta para a apreciação de alegações que buscam a absolvição do paciente ou alteração de classificação típica em razão de conclusões acerca do contexto fático, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita.
+(...).
+Por fim, no que tange à atipicidade do crime de falsidade ideológica, restou constatado pelas instâncias ordinárias que a inserção de informações falsas não ocorreu no exercício do direito de defesa, durante o interrogatório. Em verdade, o paciente, transbrodando seu direito de defesa, apontou falsamente que a corré Layandra conduzia o veículo, com o claro intuito de alterar a verdade sobre fato juridicamente relevante em termo de declaração perante a autoridade policial.”
+
+Nessa perspectiva, para dissentir do fundamento adotado pelas instâncias antecedentes e acolher a pretensão defensiva de absolvição do recorrente, necessário o revolvimento de matéria fática, inviável em habeas corpus. Esta Suprema Corte já assentou que “As instâncias ordinárias, soberanas na análise do acervo probatório, concluíram pela suficiência do amplo espectro de provas que embasou a condenação da paciente pela prática do crime de falsidade ideológica. Qualquer conclusão em sentido contrário seria necessário rechaçar o suporte probatório produzido sob o crivo do contraditório e da ampla defesa, providência inviável em sede de Habeas Corpus . Precedentes” (HC 187.150 AgR/SP, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 31.8.2020); “É impróprio, na via estreita do habeas corpus, a qual não comporta dilação probatória, o reexame, com vistas ao acolhimento das teses defensivas – ausência de dolo e inexigibilidade de conduta diversa –, do conjunto fático-probatório produzido nas instâncias ordinárias.” (HC 226.064 AgR/SP, Rel. Min. Nunes Marques, Segunda Turma, DJe 14.9.2023); “a estreita via do habeas corpus não se presta a revisitar as premissas decisórias do édito condenatório, de modo que o remédio constitucional não se compatibiliza com a aferição da autoria ou dolo do agente” (HC 134.267 AgR, Rel. Min. Edson Fachin, Primeira Turma, DJe 06.3.2017); “Habeas Corpus é ‘ação inadequada para a valoração e exame minucioso do acervo fático-probatório engendrado nos autos para o fim de verificar a atipicidade da conduta ou qualquer fato capaz de gerar a absolvição do paciente’ (HC 134.985 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 29/6/2017).” (HC 223.525 AgR/GO, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 24.02.2023);  “A ação de habeas corpus – de caráter sumaríssimo – constitui remédio processual inadequado, quando ajuizada com objetivo (a) de promover a análise aprofundada da prova penal, (b) de efetuar o reexame do conjunto probatório regularmente produzido, (c) de provocar a reapreciação da matéria de fato e (d) de proceder à revalorização dos elementos indiciários e/ou coligidos no procedimento penal”(HC 92.887/GO, Rel. Min. Celso de Mello, 2ª Turma, DJe 19.12.2012);  “A análise da pretendida absolvição, consideradas todas as questões suscitadas nesta impetração, demandaria o necessário reexame de fatos e provas, o que inviável na ação constitucional do habeas corpus . Isso porque ‘[a] ação de ‘habeas corpus’ revela-se instrumento processualmente inidôneo para o exame aprofundado do conjunto probatório que se viu produzir, em sede de cognição penal, com efetiva observância da cláusula do devido processo legal’ (HC 69.412/RJ, Rel. Min. Celso de Mello, Primeira Turma, DJ 6/11/2006)” (HC 271.865 AgR/RJ, Rel. Min. Cristiano Zanin, Primeira Turma, DJe 12.6.2026).
+
+Por acréscimo, colho do parecer ministerial (evento 84, fls. 14-27):
+
+“(...).
+Levando em conta as garantias da ampla defesa (na qual se inclui a autodefesa) e da presunção de inocência, bem assim o direito de permanecer calado em persecução penal instaurada, previstos constitucionalmente no art. 5º, LV, LVII e LXIII, entende-se não se poder obrigar o investigado ou réu a produzir provas contra si mesmo.
+O referido princípio também se encontra assentado no Artigo 8º, g, da Convenção Americana de Direitos Humanos, segundo o qual “Durante o processo, toda pessoa tem direito, em plena igualdade, às seguintes garantias mínimas: [...] direito de não ser obrigado a depor contra si mesma, nem a declarar-se culpada”.
+É dizer, portanto, que o núcleo essencial da não autoincriminação implica i) o direito de permanecer silente perante a autoridade policial ou órgão jurisdicional acerca dos fatos imputados - sem que tal silêncio seja desfavoravelmente interpretado contra o agente -; e ii) a impossibilidade de obrigar-se o réu ou investigado a adotar conduta ativa que resulte na produção de provas contra si mesmo.
+Como resultado, pode o agente adotar as medidas necessárias, por meios próprios, para defender-se da persecução criminal, sem que ele seja obrigado a falar ou a apresentar versão desfavorável sobre os fatos.
+(...).
+Mas o direito à não autoincriminação não é absoluto, encontrando limites claros na lei e no conflito com outros interesses jurídicos especialmente protegidos.
+A despeito de não poder o réu ou investigado ser obrigado a falar ou a produzir elemento de prova que o prejudique, eventual autodefesa não pode resultar em conduta ilícita ou criminosa, colocando em risco, assim, outros bens jurídicos tutelados pela norma penal incriminadora.
+Foi com base em tal fundamento que esse Supremo Tribunal Federal, ao julgar o Recurso Extraordinário nº 640.139 (do qual se originou o Tema nº 478 da Repercussão Geral), entendeu ser típica a conduta de atribuir a si mesmo falsa identidade perante autoridade policial, com o objetivo de ocultar maus antecedentes, ainda que em alegado exercício de autodefesa.
+(...).
+Outro precedente de especial relevância para este caso é o oriundo do Recurso Extraordinário nº 971.959, o qual, por sua vez, gerou o Tema nº 907 da Repercussão Geral, cuja tese estabelece: “A regra que prevê o crime do art. 305 do Código de Trânsito Brasileiro (Lei nº 9.503/97) é constitucional, posto não infirmar o princípio da não incriminação, garantido o direito ao silêncio e ressalvadas as hipóteses de exclusão da tipicidade e da antijuridicidade” (grifo acrescido).
+Naquela ocasião, analisando a constitucionalidade do art. 305 do CTB, essa Suprema Corte asseverou, mais uma vez, que o direito à não autoincriminação  encontra limites, não podendo prevalecer quando resultar em conduta ilícita ou estiver em colisão com outros interesses jurídicos de especial relevância, tais quais a Administração da Justiça e a efetividade da persecução penal.
+Esse STF compreendeu que aquele direito (trazido pelo brocardo nemo tenetur se detegere) tem como finalidade apenas evitar que o indivíduo se veja obrigado a produzir provas contra si mesmo ou a falar, contra a sua vontade, sobre os fatos imputados; assim, a autodefesa não abarca condutas que, para eximir o agente da responsabilidade penal, afrontam a lei ou outros interesses jurídicos.
+(...).
+No caso, como dito anteriormente, Kaio Zanolli foi denunciado pelo MP-ES ante a prática do crime tipificado no art. 299 do Código Penal, ao fundamento de que o depoimento por ele prestado em sede policial (aduzindo inveridicamente que fora Layandra Guimarães Cypestre quem dirigia o veículo automotor no dia 25/04/2020) resultou na inserção de informação falsa sobre fato juridicamente relevante em documento público (termo de declarações da Polícia Civil do Espírito Santo).
+Já o recorrente alega ser atípica a conduta, por ter decorrido de regular exercício do direito à autodefesa, bem assim porque, na condição de investigado, não se encontrava obrigado a dizer a verdade ou a produzir provas contra si mesmo (nemo tenetur se detegere).
+Entretanto, as provas confirmadas na origem demonstram que o recorrente não apenas atribuiu de forma inverídica a responsabilidade penal sobre os fatos a Layandra Guimarães Cypestre, sabendo de sua inocência, mas também que assim o fez em prévio acerto com a corré, a qual, inclusive, corroborou a inverdade em depoimento posteriormente prestado no dia 21/08/2020, no intento de burlar a investigação e livrar Kaio Zanolli da persecução penal.
+(...).
+Ao contrário do alegado pelo recorrente, a caracterização da falsidade ideológica no caso não se deu apenas porque a declaração falsa foi levada a termo pela autoridade policial, mas também porque se atribuiu falsamente a terceira pessoa, após prévio ajuste com ela, a autoria sobre delito diverso, tudo com o objetivo de frustrar a efetividade da persecução penal e o bom funcionamento da Administração da Justiça, evitando-se a responsabilização penal de Kaio Zanolli.
+Como dito, o direito à não autoincriminação garante que o réu ou investigado não será obrigado a adotar conduta ativa para a produção de prova contra si mesmo ou, ainda, que ele poderá silenciar-se sobre os fatos que lhe foram imputados, não podendo tal silêncio ser-lhe interpretado desfavoravelmente. 	Tal direito, entretanto, não concede “carta branca” para a prática de condutas ilícitas ou criminosas, tampouco para a inserção, em documento público, de informação falsa sobre a autoria delitiva atribuída a terceira pessoa, após prévio acerto, para frustrar a efetividade da persecução penal.
+Essa conduta desborda dos limites regulares da autodefesa, razão pela qual não se identifica constrangimento ilegal na condenação do recorrente pelo crime do art. 299 do Código Penal.
+(...).
+Some-se a isso a necessidade de revolvimento aprofundado de fatos e provas, incabível na via estreita do habeas corpus, para dissentir do entendimento firmado pela Corte de origem e, assim, decidir pela absolvição do recorrente quanto ao crime do art. 299 do Código Penal.”
+
+Por derradeiro, quanto ao alegado erro material com fundamento dissociado do caso concreto, reitero a jurisprudência desta Suprema Corte  no sentido da inviabilidade, como regra, de utilização do writ como sucedâneo de recurso próprio (embargos de declaração). Além disso, assento que, à míngua de pronunciamento judicial conclusivo pela Corte Superior, inviável a análise do writ pelo Supremo Tribunal Federal, sob pena de indevida supressão de instância. Cito, nessa linha, precedentes: HC 235.221-AgR, Rel. Min. Cristiano Zanin, Primeira Turma, DJe  09.02.2024; HC 236.138-AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 22.02.2024; HC 235.861-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 22.02.2024; e RHC 230.594-AgR, Rel. Min. Nunes Marques, Segunda Turma, DJe 23.02.2024.
+
+Ante o exposto, nego seguimento ao presente recurso ordinário em habeas corpus (art. 21, § 1º, RISTF).
+
+Publique-se.
+
+Brasília, 25 de setembro de 2026.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
