@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de MARCIO AUGUSTO DO CARMO NASCIMENTO, no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que, em 24/4/2026, deu provimento ao agravo e determinou o retorno do paciente ao regime fechado para realização de exame criminológico (Agravo de Execução Penal n. 0002062-94.2026.8.26.0521).
+Em síntese, o impetrante alega constrangimento ilegal decorrente da cassação da progressão ao semiaberto e da imposição do exame criminológico com fundamento exclusivo na reincidência, sem motivação concreta e individualizada extraída da execução.
+Sustenta que o delito é anterior à Lei n. 14.843/2024, razão pela qual o exame não é obrigatório, e que, mesmo quando admitido, depende de decisão idônea, vedados critérios genéricos como gravidade em abstrato ou mera reincidência.
+Requer o afastamento da exigência do exame criminológico por ausência de fundamentação concreta e em razão da irretroatividade da lei penal mais gravosa, com o restabelecimento da decisão que concedeu a progressão ao regime semiaberto (Processo n. 0001813-17.2024.8.26.0521, DEECRIM 10ª RAJ - Sorocaba/SP).
+Liminar indeferida (fls. 31/32).
+Prestadas as informações (fls. 36/57 e 65/74), o Ministério Público Federal ofereceu parecer pela concessão da ordem (fls. 76/81).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+Verifico ilegalidade apta a justificar a concessão da ordem.
+O Tribunal local proveu o recurso ministerial com base nos seguintes fundamentos (fls. 13/14 - grifos do original):
+ ..
+No caso específico, as condutas do agravado revelam a necessidade de melhor análise do mérito do sentenciado, eis que é reincidente em crime de tráfico ilícito de entorpecentes, além de ostentar faltas disciplinares ainda que de natureza média, inexistindo elementos que convençam quanto à sua capacidade de retorno ao convívio social, o que justifica plenamente a necessidade do exame criminológico como requisito subjetivo do benefício da progressão de regime, a se realizar antes da concessão do benefício,
+Daí porque, ora se reforma a respeitável decisão e se determina a realização do aludido exame, voltando o agravado ao regime fechado.
+ ..
+Para os crimes praticados antes da vigência da Lei n. 14.843/2024, permanece aplicável o entendimento consolidado na Súmula n. 439 do Superior Tribunal de Justiça - STJ, segundo a qual se admite o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada, e na Súmula Vinculante n. 26 do Supremo Tribunal Federal - STF, que assegura ao Juízo da execução a faculdade de determinar, de modo fundamentado, a realização de exame criminológico. A exigência do exame baseada exclusivamente na gravidade abstrata do delito ou no tempo de pena remanescente não constitui fundamento idôneo; é indispensável a indicação de elementos concretos da execução penal (AgRg no HC n. 1.016.107/GO, relator Ministro Rogerio Schietti, Sexta Turma, julgado em 12/8/2026, DJEN de 17/8/2026).
+No entanto, gravidade abstrata do delito, longa pena a cumprir e reincidência não são fundamentos idôneos para exigir exame criminológico, ausentes elementos concretos e contemporâneos da execução. É o que se depreende da leitura destes precedentes, por exemplo: HC n. 978.973/SP, de minha relatoria, Sexta Turma, julgado em 4/3/2026, DJEN de 10/3/2026; AgRg no HC n. 1.006.720/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/6/2026, DJEN de 24/6/2026; AgRg no HC n. 1.070.176/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/4/2026, DJEN de 22/4/2026.
+Também não justifica a imposição do exame a referência à prática de falta média já reabilitada (AgRg no HC n. 940.981/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/2/2025, DJEN de 24/2/2025).
+Por fim, não constitui fundamentação idônea a utilização de faltas graves antigas já reabilitadas como fundamento para exigir a realização de exame criminológico (AgRg no HC n. 1.006.720/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/6/2026, DJEN de 24/6/2026).
+Especificamente, em relação ao § 1º do art. 112 da Lei de Execução Penal, com redação dada pela Lei n. 14.843/2024, a Sexta Turma desta Corte, no RHC n. 200.670/GO, de minha relatoria, Sexta Turma, julgado em 20/8/2024, DJe de 23/8/2024, decidiu que a exigência de realização do exame criminológico para qualquer progressão de regime constitui novatio legis in pejus, pois incrementa requisito, tornando mais difícil alcançar regimes prisionais menos gravosos à liberdade. A retroatividade dessa norma se mostra inconstitucional, diante do art. 5º, XL, da Constituição Federal, e ilegal, nos termos do art. 2º do Código Penal.
+No caso, o tribunal não indicou elementos idôneos da execução para impor a realização do exame criminológico, mas a retroatividade da Lei n. 14.843/2024, a reincidência e a prática de faltas médias, fundamentos que não encontram aporte na jurisprudência.
+Ante o exposto, concedo a ordem para cassar o acórdão e restaurar a decisão de primeiro grau, que concedeu a progressão de regime (fls. 15/17).
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. IMPOSIÇÃO DO EXAME CRIMINOLÓGICO. CRIMES PRATICADOS ANTES DA LEI N. 14.843/2024. NECESSIDADE DE FUNDAMENTAÇÃO IDÔNEA. REINCIDÊNCIA. FALTAS MÉDIAS. FUNDAMENTAÇÃO INIDÔNEA. PRECEDENTES. NOVATIO LEGIS IN PEJUS. IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida.
