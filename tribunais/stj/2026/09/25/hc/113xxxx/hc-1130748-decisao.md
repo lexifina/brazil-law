@@ -1,0 +1,26 @@
+DECISÃO
+LUIZ AUGUSTO PEDRO DA SILVA, JEAN SILVA DE OLIVEIRA e outros alegam sofrer coação ilegal diante de acórdão do Tribunal de Justiça do Rio de Janeiro que, após o trânsito em julgado do julgamento das apelações, retificou a pena final dos pacientes (e-STJ fls. 2-5).
+Segundo a impetração, no julgamento das apelações relativas aos crimes de tráfico de drogas e associação para o tráfico, o Tribunal fixou penas individuais de 6 anos e 8 meses de reclusão e 4 anos e 2 meses de reclusão. Ao realizar o concurso material, porém, estabeleceu no dispositivo a pena final de 8 anos e 10 meses de reclusão e 1.567 dias-multa.
+A defesa afirma que o Ministério Público não recorreu e que o acórdão transitou em julgado em 12/6/2026 (e-STJ fls. 4-5).
+Relata que, após a baixa dos autos, o Juízo da Execução apontou erro no somatório e os devolveu ao Tribunal. A Segunda Câmara Criminal, com fundamento no art. 494, I, do CPC, elevou a pena final de cada paciente para 10 anos e 10 meses de reclusão (e-STJ fl. 5).
+A Defensoria sustenta que o trânsito em julgado encerrou a competência funcional do órgão julgador para alterar o acórdão em prejuízo dos condenados. Em seguida, afirma que a possibilidade de corrigir erro material prevista no art. 494, I, do CPC não pode ser aplicada no processo penal. Alega, por fim, violação da coisa julgada, proibição de reformatio in pejus e ocorrência de revisão criminal pro societate, vedada pelo ordenamento (e-STJ fls. 6-12).
+Afirma que a elevação da pena em dois anos repercute no cálculo da execução e posterga a progressão de regime e o livramento condicional. Requer o restabelecimento da pena de 8 anos e 10 meses, além dos 1.567 dias-multa.
+Decido.
+Conforme a jurisprudência desta Corte, não é possível a correção, pelo Tribunal de Justiça, "de eventuais erros materiais para recrudescer a situação do Réu sem que haja a interposição de recurso tempestivo e cabível pela acusação. Com a prolação do dispositivo da sentença e o transcurso do prazo para a oposição de embargos declaratórios ou de outros recursos para o Ministério Público, competiria ao Tribunal local agravar o julgamento somente se tivesse sido provocado, nesse ponto, pela parte interessada. Precedentes" (HC n. 746.337/RS, Relª. Ministra Laurita Vaz, 6ª T., DJe de 29/9/2022).
+Deveras, "ocorre reformatio in pejus quando, em virtude da correção de ofício de erro material, em recurso exclusivo da defesa, a situação do réu é agravada (..)" (HC 334.692/RS, rel. Min. Joel Ilan Paciornik, Quinta Turma, DJe 10/8/2016)" (AgRg no REsp n. 1.924.031/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe de 25/10/2021).
+No caso, o erro no acórdão de apelação não podia ser corrigido de ofício, depois do trânsito em julgado, para agravar a situação dos condenados sem impugnação tempestiva da acusação.
+Isso porque "A correção de erro material que agrava a pena em recurso exclusivo da defesa con figura reformatio in pejus, vedada pelo art. 617 do CPP" (AgRg no REsp n. 2.267.350/AP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/8/2026, DJEN de 14/8/2026).
+O colegiado já decidiu a controvérsia, nos seguintes termos:
+ ..  A questão em discussão consiste em saber se a correção de erro material em sentença penal condenatória, após o trânsito em julgado, pode ser realizada de ofício pelo juiz, sem recurso do Ministério Público, e se tal correção configura reformatio in pejus.
+III. Razões de decidir
+5. A correção de erro material em sentença penal condenatória, após o trânsito em julgado, não pode ser realizada de ofício, quanto mais em situação configuradora de reformatio in pejus, como in casu, em que restou comprovado o agravamento da situação do réu sem recurso do acusador.
+6. O princípio do non reformatio in pejus impede o agravamento da situação do réu sem manifestação formal e tempestiva da acusação, sendo nula a decisão que reformou a sentença condenatória.
+7. A correção de erro material em sentença penal não se sujeita aos mesmos princípios do direito processual civil, devendo respeitar as garantias do réu no processo penal.
+IV. Dispositivo e tese
+8. Agravo improvido.
+Tese de julgamento: "1. A correção de erro material em sentença penal condenatória, após o trânsito em julgado, não pode ser realizada de ofício, pois configura reformatio in pejus. 2. O princípio do non reformatio in pejus impede o agravamento da situação do réu sem recurso do acusador. 3. A correção de erro material em sentença penal deve respeitar as garantias do réu no processo penal".
+Dispositivos relevantes citados: CP, art. 92, inciso I, alíneas a e b; CRFB, art. 5º, inciso XXXVI; CPP, art. 621.Jurisprudência relevante citada: STJ, HC 257.376/PB, Rel. Min. Jorge Mussi, Quinta Turma, julgado em 12.03.2013; STJ, HC 176.320/AL, Rel. Min. Napoleão Nunes Maia Filho, Rel. para acórdão Min. Jorge Mussi, Quinta Turma, julgado em 17.05.2011.
+(AgRg no RHC n. 210.836/RO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/4/2025, DJEN de 24/4/2025).
+À vista do exposto, concedo a ordem de habeas corpus para afastar a correção do erro material e restabelecer a pena privativa de liberdade aplicada aos réu no acórdão de apelação.
+Publique-se e intimem-se.
+EMENTA
