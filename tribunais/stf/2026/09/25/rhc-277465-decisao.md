@@ -1,0 +1,94 @@
+Decisão
+
+recurso ordinário em habeas corpus. furto.  contumácia delitiva.  bagatela: inviabilidade. regime semiaberto: desproporcionalidade. possibilidade de fixação de regime mais brando (precedente do plenário do STF). concessão da ordem, de ofício.
+
+1. Trata-se de recurso ordinário em habeas corpus interposto contra acórdão pelo qual a Sexta Turma do Superior Tribunal de Justiça negou provimento ao Agravo Regimental no Habeas Corpus nº 1.058.338/ES (e-doc. 34).
+
+2. Consta dos autos que a recorrente foi condenada a 1 ano, 6 meses e 20 dias de reclusão, no regime inicial semiaberto, e ao pagamento de 12 dias-multa, pela prática do crime do art. 155, caput, do Código Penal (furto simples) (e-doc. 9).
+
+3. O Tribunal de Justiça negou provimento à apelação da defesa (e-doc. 5). Contra essa decisão, a defesa impetrou habeas corpus no STJ, não conhecido pelo Ministro Relator (e-doc. 15). Na sequência, formalizou-se o citado agravo regimental de que resultou o ato coator impugnado.
+
+4. No presente recurso ordinário em habeas corpus, a Defensoria Pública do Espírito Santo aponta possibilidade de aplicação do princípio da insignificância. Destaca o pequeno valor da res furtiva — 1,378kg (um quilo e trezentos e setenta e oito gramas) de queijo mussarela, 2 pacotes de tempero e 1 pacote de milho de pipoca, avaliados em R$ 103,97 — e a sua restituição à vítima. Afirma indevido o afastamento da benesse exclusivamente em razão do histórico criminal do recorrente. Colaciona precedentes desta Suprema Corte.
+
+5. Requer, liminarmente, a suspensão da execução da pena imposta até o julgamento do presente recurso. No mérito, busca o seu provimento para o reconhecimento da atipicidade material da conduta decorrente da aplicação do princípio da insignificância.
+
+6. O Ministério Pública do Estado do Espírito Santo manisfestou-se, intempestivamente, pelo não provimento do recurso (e-doc. 64).
+
+É o relatório.
+
+Decido.
+
+7. O princípio da insignificância surgiu no Direito Romano, no entanto restringia-se ao âmbito cível, com suporte no brocardo de minimis non curat praetor (o magistrado não deve se ocupar de assuntos irrelevantes). Na década de 1970, foi introduzido ao Direito Penal, a partir dos estudos de Claus Roxin. Tem por finalidade limitar o campo de incidência do tipo penal, evitando-se a punição de comportamentos criminosos irrelevantes que resultem em lesão inexpressiva ao bem jurídico tutelado pela norma penal. Afasta-se a tipicidade material da conduta — não obstante formalmente típica — quando, como dito, não demonstrada lesão substancial ao bem jurídico. Conforme preleciona Assis Toledo:
+
+“(...) segundo o princípio da insignificância, que se revela por inteiro pela sua própria denominação, o direito penal, por sua natureza fragmentária, só vai aonde seja necessário para a proteção ao bem jurídico. Não deve se ocupar de bagatelas.”
+(TOLEDO, Francisco de Assis. Princípios básicos de direito penal, São Paulo: 5ª ed. Saraiva, 2002, p. 133).
+
+8. Seu postulado decorre da interpretação dos seguintes princípios basilares do Direito Penal, que se inter-relacionam:
+
+“(i) da intervenção mínima (o direito penal só deve ser utilizado como ultima ratio (ii) da fragmentariedade (o direito penal é um “sistema descontínuo de ilicitudes”, que somente se destina a proteger determinadas ofensas a certos bens jurídicos, sendo vedada a analogia para preencher lacunas sob o pretexto de resguardá-los); (iii) da subsidiariedade (só se deve lançar mão do direito penal caso outros ramos do direito não sejam capazes de oferecer uma resposta satisfatória); e (iv) da lesividade (não há crime sem lesão ou perigo de lesão a um bem jurídico pertencente a outrem).”
+(BATISTA, Nilo. Introdução crítica ao direito penal brasileiro. Rio de Janeiro: Revan, 2011, p. 82-94; grifos nossos).
+
+9. No HC nº 84.412/SP (Rel. Min. Celso de Mello, Segunda Turma, j.  19/10/2004, p. 19/11/2004), o Supremo Tribunal Federal definiu vetores para aplicação do princípio da bagatela, a saber: “(a) a mínima ofensividade da conduta do agente, (b) nenhuma periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada”. Essas diretrizes, desde então, têm norteado a atuação dos Ministros desta Corte.
+
+10.  Na hipótese, a magistrada sentenciante afastou a incidência do princípio a partir da seguinte fundamentação:
+
+“Quanto à matéria posta em debate, registro que, embora me filie à teoria que entende que o princípio da insignificância possui relevante valia no âmbito do Direito Penal moderno, pois possibilita a adequação dos tipos penais existentes ao princípio da intervenção mínima do Estado, no presente caso, não vislumbro a presença dos requisitos necessários à aplicação de tal instituto.
+É de se dizer, que a aplicação do princípio da insignificância depende de quatro requisitos: a mínima ofensividade da conduta do agente; a nenhuma periculosidade social da ação; o reduzidíssimo grau de reprovabilidade do comportamento; e a inexpressividade da lesão jurídica provocada.
+Quanto ao aspecto, veja-se julgamento realizado pelo Supremo Tribunal Federal, relatado pelo eminente Ministro Celso de Mello:
+(...)
+Assim, conquanto seja adepta da validade do princípio da insignificância, em tese, neste caso específico, tenho que não deve prosperar o pleito defensivo, pois não vejo reunidos os requisitos necessários à aplicação do referido princípio e, consequentemente, da exclusão da tipicidade conglobante.
+Os autos trazem componentes que revelam a acentuada reprovabilidade do comportamento da acusada, tendo em vista que repetidamente incorre em delitos patrimoniais, conforme relatório que se extrai do Sistema Eletrônico de Execução Unificado (SEEU), consubstanciado nas execuções nº, 0004830-46.2016.8.08.0035, 0005847-20.2016.8.08.0035, 0008246-56.2015.8.08.0035 e 0002772-70.2016.8.08.0035, 0016949-39.2016.8.08.0035 e 0005940-17.2015.8.08.0035 tratando-se de ré multirreincidente, o que não recomenda a aplicação do referido princípio, o qual, definitivamente, não contribuiria para a sua ressocialização, pelo contrário, funcionaria como verdadeiro estímulo do próprio Estado, por meio de sua atividade jurisdicional, à perpetuação de práticas delitivas atentatórias contra a segurança da sociedade.
+O Princípio da bagatela importa investigar o desvalor da ação criminosa em seu sentido amplo, de modo a impedir que, a pretexto da insignificância apenas do resultado material, acabe desvirtuando o objetivo a que visou o legislador quando formulou a tipificação penal.
+Desta Forma, entendo que no caso em análise, não se deve observar somente o resultado material da conduta, mas também a contumácia da acusada na prática delitiva em delitos patrimoniais, razão pela qual deixo de aplicar o Princípio da Insignificância.” (e-doc. 9, p. 5-6; grifos nossos)
+
+11. O Tribunal de Justiça corroborou a ótica (e-doc. 5), entendimento mantido pelo STJ no ato ora impugnado, que restou assim ementado:
+
+“PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. SUBSTITUTIVIDADE. ILEGALIDADE FLAGRANTE. PRINCÍPIO DA INSIGNIFICÂNCIA. REITERAÇÃO DELITIVA. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça firmou compreensão de que o habeas corpus não pode ser utilizado como substitutivo do recurso próprio, admitindo-se o exame apenas em casos de ilegalidade flagrante.
+2. No caso, não se verifica ilegalidade flagrante, pois o acórdão do Tribunal de origem está alinhado à jurisprudência desta Corte Superior, que afasta a aplicação do princípio da insignificância diante da reiteração delitiva em crime patrimonial.
+3. O Supremo Tribunal Federal estabelece como requisitos da insignificância a mínima ofensividade da conduta, a ausência de periculosidade social, o reduzido grau de reprovabilidade e a inexpressividade da lesão jurídica.
+4. A habitualidade criminosa evidenciada por múltiplas guias de execução criminal afasta a atipicidade material, demonstrando acentuada reprovabilidade do comportamento e periculosidade social.
+5. Agravo regimental improvido.” (e-doc. 34, p. 1).
+
+12. Confira-se, também, o seguinte trecho desse julgado com ementa supratranscrita:
+
+“Com efeito, embora a defesa apresente precedentes que direcionam à possibilidade de aplicação do princípio da insignificância em casos nos quais o dano patrimonial é inferior à 10% do salário mínimo, mesmo em circunstância de reiteração delitiva, fato é que o exame apurado dos autos afasta essa possibilidade.
+Conforme decidido pelo Supremo Tribunal Federal, são requisitos para aplicação da insignificância: a mínima ofensividade da conduta, a ausência de periculosidade social na ação, o reduzido grau de reprovabilidade do comportamento e a inexpressividade da lesão jurídica provocada.
+No caso dos autos, a existência de seis guias de execução criminal em desfavor da paciente indica uma delinquência contumaz que afasta a atipicidade material da conduta, sob pena de desvirtuar a aplicação do direito penal. A habitualidade criminosa, nesse sentido, demonstra a acentuada reprovabilidade do comportamento e a periculosidade social, tornando inviável a aplicação do princípio da insignificância. “(e-doc. 34, p. 3; grifos nossos).
+
+13. Consideradas a contumácia delitiva da recorrente (multirreincidência), que contava com “06 guias de execução por crimes contra patrimônio” (e-doc. 9, p. 8), conclui-se pela relevante reprovabilidade da conduta, o que inviabiliza a incidência do princípio da insignificância. Nesse sentido, a jurisprudência desta Corte:
+
+“Habeas corpus. Penal. Furto praticado durante o repouso noturno (CP, art. 155, § 1º). Alegada incidência do postulado da insignificância. Não incidência, tendo em vista a contumácia e a reincidência específica. Precedentes. Ordem denegada. 1. Não se mostra possível acatar a tese de irrelevância material da conduta, pois, além de o delito ter sido praticado durante o repouso noturno, noticiam os autos que o agravante é reincidente em crimes patrimoniais. 2. O Tribunal Pleno, ao denegar o HC nº 123.108/MG, o HC nº 123.533/SP e o HC nº 123.734/MG (sob a relatoria do Ministro Roberto Barroso), consolidou o entendimento já existente no sentido de que a habitualidade delitiva específica ou a reincidência obstam a aplicação do princípio da insignificância (Informativo nº 793/STF). 3. A inexpressividade da lesão ao bem jurídico (furto de objetos avaliados em 80 reais) não é, por si só, suficiente para o reconhecimento da atipicidade material da conduta. 4. Ordem denegada.”
+(HC nº 191.126/SP, Rel. Min. Dias Toffoli, Primeira Turma, j. 29/03/2021, p. 04/05/2021; grifos nossos).
+
+“AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. FURTO QUALIFICADO. CONCURSO DE PESSOAS. VULNERABILIDADE DA VÍTIMA. PACIENTE MULTIRREINCIDENTE. CARACTERIZADA A REPROVABILIDADE DO COMPORTAMENTO. INAPLICABILIDADE DO PRINCÍPIO DA INSIGNIFICÂNCIA. INVIABILIDADE DO PLEITO ABSOLUTÓRIO. RECURSO ORDINÁRIO EM HABEAS CORPUS DESPROVIDO. 1. É aplicável o princípio da insignificância no sistema penal brasileiro desde que preenchidos, cumulativamente, os seguintes requisitos: ‘a) a mínima ofensividade da conduta do agente, b) nenhuma periculosidade social da ação, c) o reduzidíssimo grau de reprovabilidade do comportamento e d) a inexpressividade da lesão jurídica provocada’ (HC 84.412, ministro Celso de Mello). 2. Na presença desses quatro vetores, o princípio da insignificância incidirá para afastar, no plano material, a própria tipicidade da conduta diante da ausência de lesão ou perigo de lesão ao bem jurídico tutelado. 3. A insignificância, princípio que afasta a tipicidade da conduta, especialmente nos crimes patrimoniais, não deve ser tida como regra geral, a se observar unicamente o valor da coisa objeto do delito. Deve ser aplicada, segundo penso, apenas quando estiver demonstrado nos autos a presença cumulativa dos quatro vetores objetivos que venho de referir. 4. A contumácia ou reiteração delitiva, a multirreincidência, a reincidência específica são exemplos de elementos aptos a indicar a reprovabilidade do comportamento, fator hábil a afastar a aplicação do princípio da insignificância. 5. Para o acolhimento da tese defensiva – caracterização do reduzidíssimo grau de reprovabilidade da conduta –, seria indispensável o reexame de todo o conjunto fático-probatório que levou as instâncias ordinárias, especialmente ao ressaltarem que ‘os réus cometeram o crime se valendo do maior número de agentes, podendo assim monitorar o local sem que pudessem ser vistos’ e ‘que o crime ocorreu quando a vítima cega estava sozinha em casa’, a concluir pela ‘maior reprovabilidade da conduta’, fato inviável na via estreita do habeas corpus, que não admite dilação probatória. 6. As circunstâncias do delito (o concurso de agentes e a vulnerabilidade da vítima, no caso) e a multirreincidência específica do agravante têm o condão de afastar a caracterização do reduzidíssimo grau de reprovabilidade do comportamento, o que impede o pretendido reconhecimento da atipicidade da conduta, a aplicação do princípio da insignificância e, em consequência, o pleito absolutório. 7. Consideradas a quantidade da pena privativa de liberdade aplicada, não superior a 4 anos, a reincidência do agravante e a existência de circunstâncias judiciais desfavoráveis (maus antecedentes, no caso), é adequada a fixação do regime fechado, nos termos do art. 33, § 2º, ‘c’, e § 3º, do Código Penal. 8. Agravo regimental desprovido.”
+(RHC nº 198.550-AgR/SC, Rel. Min. Nunes Marques, Segunda Turma, j. 04/10/2021, p. 02/12/2021; grifos nossos).
+
+14. Acresce notar que a recuperação dos bens pela vítima não afasta a tipicidade da conduta nem significa que o bem jurídico não tenha sido lesado ou colocado em risco. A restituição pode influir na dosimetria da pena ou em eventual juízo de menor reprovabilidade, mas não é apta, por si só, a desnaturar o fato típico ou a autorizar a incidência do princípio da insignificância.
+
+15. De outro lado, embora não se evidencie crime de bagatela, haja vista os fundamentos veiculados, quanto ao regime fixado para o início do cumprimento da reprimenda,  observo que, no julgamento conjunto dos Habeas Corpus nº 123.108/MG, nº 123.533/SP e nº 123.734/MG (Rel. Min. Roberto Barroso, Tribunal Pleno, j. 03/08/2015, p. 1º/02/2016), firmou-se a seguinte tese:
+
+“I - A reincidência não impede, por si só, que o juiz da causa reconheça a insignificância penal da conduta, à luz dos elementos do caso concreto; II - Na hipótese de o juiz da causa considerar penal ou socialmente indesejável a aplicação do princípio da insignificância por furto, em situações em que tal enquadramento seja cogitável, eventual sanção privativa de liberdade deverá ser fixada, como regra geral, em regime inicial aberto, paralisando-se a incidência do art. 33, § 2º, c, do CP no caso concreto, com base no princípio da proporcionalidade.” (grifos nossos).
+
+16. A orientação firmada autoriza, em situações nas quais seja cogitável o reconhecimento da insignificância, a fixação excepcional do regime aberto ao condenado reincidente, ainda que afastada a atipicidade material da conduta. Nesses casos, a incidência do art. 33, § 2º, al. “c”, do Código Penal pode ser afastada à luz do princípio da proporcionalidade.
+
+17. No caso concreto, os bens subtraídos — 1,378kg (um quilo e trezentos e setenta e oito gramas) de queijo mussarela, 2 pacotes de tempero e 1 pacote de milho de pipoca, avaliados em R$ 103,97 — não ostentam valor expressivo e a pena aplicada foi fixada em patamar inferior a 4 anos, qual seja, 1 ano, 6 meses e 20 dias de reclusão. Assim, à luz do princípio da proporcionalidade e do entendimento firmado pelo Plenário desta Corte, mostra-se desarrazoada a manutenção de regime semiaberto, revelando-se adequado, no caso, o estabelecimento do regime inicial aberto para o cumprimento da reprimenda.
+
+18. Nesse sentido colaciono  precedentes de ambas as Turmas:
+
+“RECURSO ORDINÁRIO EM HABEAS CORPUS. FURTO QUALIFICADO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. ABRANDAMENTO DO REGIME INICIAL DE CUMPRIMENTO DA PENA. VIABILIDADE. (...) Não se mostra possível acatar a tese de atipicidade material da conduta, pois não há como afastar o elevado nível de reprovabilidade assentado pelas instâncias antecedentes, ainda mais considerando o registro do Tribunal local dando conta de que o paciente é reincidente, o que desautoriza a aplicação do princípio da insignificância, na linha da jurisprudência desta CORTE. 5. Quanto ao modo de cumprimento da reprimenda penal, há quadro de constrangimento ilegal a ser corrigido. A imposição do regime inicial semiaberto parece colidir com a proporcionalidade na escolha do regime que melhor se coadune com as circunstâncias da conduta, de modo que o regime aberto melhor se amolda à espécie(..).”
+(RHC nº 187.677/SP, Rel. Min. Marco Aurélio, Red. do Acórdão Min. Alexandre de Moraes, Primeira Turma, j. 08/09/2020, p. 03/12/2020; grifos nossos).
+
+“AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. CONDENAÇÃO POR FURTO SIMPLES. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. RÉU REINCIDENTE ESPECÍFICO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. ORDEM CONCEDIDA, DE OFÍCIO, QUANTO AO REGIME PRISIONAL. I – A configuração do delito de bagatela, conforme têm entendido as duas Turmas deste Tribunal, exige a satisfação, de forma concomitante, de certos requisitos, quais sejam, a conduta minimamente ofensiva, a ausência de periculosidade social da ação, o reduzido grau de reprovabilidade do comportamento e a lesão jurídica inexpressiva. II – No caso sob exame, o paciente foi condenado à pena definitiva de 1 ano e 4 meses de reclusão, em regime inicial semiaberto, pela prática do crime de furto simples, com aplicação da agravante da reincidência (art. 155 combinado com o art. 61, I, do CP). III – Ao analisarem a possibilidade de aplicação do princípio da insignificância ao caso concreto, as instâncias antecedentes, após aferirem o resultado material da conduta praticada pelo agente, ressaltaram a sua reincidência (específica) e contumácia na prática do delito em questão, elementos que, embora não determinantes, devem ser considerados. IV – Agravo regimental a que se nega provimento. V – Ordem concedida, de ofício, quanto ao regime prisional, para que o paciente inicie a execução de sua reprimenda no regime aberto, nos termos do que decidido pelo Plenário desta Corte no HC 123.108/MG.”
+(RHC nº 146.304-AgR/MS, Rel. Min. Ricardo Lewandowski, Segunda Turma, j. 16/03/2018, p. 27/03/2018; grifos nossos).
+
+19. Ante o exposto, com base no art. 192 do RISTF, concedo a ordem, de ofício, para fixar o regime aberto (processo nº 0000668-27.2024.8.08.0035/ES, da 6ª Vara Criminal da Comarca da Capital - Juízo de Vila Velha/ES).
+
+Comunique-se, com urgência.
+
+Publique-se.
+
+Brasília, 25 de setembro de 2026.
+
+Ministro ANDRÉ MENDONÇA
+Relator
