@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso ordinário interposto por CARLOS HENRIQUE DE SOUZA SILVEIRA desafiando acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, nos autos do HC n. 1.0000.26.449183-8/000.
+O recorrente foi preso em flagrante pela suposta prática do crime de tráfico de drogas, tendo a custódia sido posteriormente convertida em prisão preventiva.
+Contra essa decisão a defesa impetrou habeas corpus, cuja ordem foi denegada pelos Desembargadores integrantes da Primeira Câmara de Direito Criminal.
+No presente recurso ordinário, a defesa sustenta que as instâncias de origem conferiram à reincidência significado que ultrapassa a legítima consideração da vida pregressa do acusado. Alega que o dado foi utilizado para formular juízo determinista acerca de sua personalidade e presumir uma propensão permanente à prática de delitos, em substituição à demonstração concreta do periculum libertatis.
+Aponta, ainda, excesso de prazo na formação da culpa.
+Esclarece que a alegação não decorre da simples contagem dos dias de prisão, mas das circunstâncias concretas que impediram o início da instrução na audiência designada para 24 de junho de 2026.
+Afirma que a prova pericial extraída dos aparelhos telefônicos estava concluída desde 28 de maio de 2026 e que seu conteúdo integral foi solicitado pela defesa do recorrente em 1º de junho, com reiteração nos dias 10 e 11 do mesmo mês, diante da proximidade da audiência e da necessidade de análise adequada dos elementos digitais. Embora o Juízo tenha determinado a disponibilização do material e a regularização da representação processual das defesas, as providências não teriam sido satisfatoriamente cumpridas antes do ato. Acrescenta que o advogado de uma das corrés, apesar de possuir procuração juntada aos autos, permaneceu sem habilitação regular no sistema, não recebeu as intimações pertinentes e tampouco obteve acesso adequado à perícia. Essas irregularidades foram suscitadas quando aberta a audiência de 24 de junho de 2026, ocasião em que nenhuma testemunha foi ouvida e nenhum acusado interrogado, impondo-se a redesignação do ato.
+Segundo a defesa, o acórdão recorrido atribuiu a frustração da audiência a questão processual suscitada pela defesa de corréu e, com base nessa premissa, afastou a existência de desídia estatal. Argumenta, contudo, que as defesas apenas apontaram falhas preexistentes relacionadas à habilitação do advogado, à ausência de intimação e à indisponibilidade da prova pericial, apesar das sucessivas determinações judiciais destinadas a solucionar tais obstáculos.
+Ressalta que, mesmo após a audiência frustrada, foram necessárias novas providências para disponibilizar o conteúdo integral da perícia, tendo sido constatado, inclusive, que um dos links fornecidos continha apenas o programa destinado à leitura dos dados, e não os arquivos efetivamente extraídos. A nova audiência foi designada para 9 de setembro de 2026, data em que o recorrente completará aproximadamente 179 dias de prisão cautelar sem a realização efetiva do primeiro ato instrutório.
+Defende, assim, que a razoabilidade da duração da custódia deve ser examinada à luz das causas do atraso, uma vez que a frustração da audiência anterior não decorreu de comportamento procrastinatório das defesas, mas de falhas estatais na habilitação e na intimação dos patronos, bem como na disponibilização da prova.
+Requer o conhecimento e o provimento do recurso, para que seja reconhecido o constrangimento ilegal e revogada a prisão preventiva, com a expedição de alvará de soltura. Alternativamente, pleiteia o reconhecimento do excesso de prazo na formação da culpa ou, subsidiariamente, a substituição da custódia por medidas cautelares diversas, nos termos dos arts. 282 e 319 do Código de Processo Penal. Requer, por fim, a confirmação de eventual tutela liminar deferida.
+O pedido liminar foi indeferido.
+Ouvido, o Ministério Público Federal manifestou-se pelo desprovimento do presente inconformismo.
+É o relatório.
+Decido.
+O presente recurso está prejudicado.
+Consoante as informações prestadas às e-STJ fls. 1.461/1.464, sobreveio sentença absolutória em favor do recorrente, nos termos do art. 386, inciso VII, do Código de Processo Penal, com a correspondente expedição de alvará de soltura.
+Nada mais há, portanto, a ser aqui apreciado.
+Ante o exposto, com base no art. 34, XI, do Regimento Interno desta Corte, julgo prejudicado o presente recurso.
+Publique-se. Intimem-se.
+EMENTA
