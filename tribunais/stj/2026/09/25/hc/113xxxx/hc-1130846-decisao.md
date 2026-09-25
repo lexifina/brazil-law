@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FRANCISCO MARCELINO LIMA MOREIRA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, que, nos autos do HC n. 3013724-70.2026.8.06.0000, denegou a ordem (fls. 17-23).
+Consta dos autos que o paciente responde por suposta integração em organização criminosa vinculada, com atuação nos municípios de Banabuiú/CE e Quixadá/CE, no âmbito de inquérito instaurado a partir da extração de dados de aparelho celular, em que foi identificado como integrante do grupo, com envio de mensagem por terminal telefônico associado na investigação (fls. 17-23).
+A denúncia foi recebida na Ação Penal n. 0228247-88.2025.8.06.0001, com determinação de citação e outras providências (fls. 59-60).
+Há notícia de prisão preventiva decretada no primeiro grau. Impetrado habeas corpus originário, o Tribunal de origem denegou a ordem.
+No presente writ, a parte impetrante alega que a custódia preventiva carece de fundamentação concreta e individualizada do periculum libertatis, argumentando que os elementos atribuídos ao paciente se limitam à sua vinculação ao grupo de mensagens, à associação de uma linha telefônica ao seu nome e ao envio de uma única mensagem, sem imputação de atos de violência, posse de armas, tráfico de drogas, arrecadação de valores, recrutamento, liderança, comando, coordenação ou qualquer função de destaque na suposta estrutura criminosa.
+Sustenta que a própria motivação adotada na origem confunde a identificação de possível participação na organização com a demonstração da necessidade da prisão preventiva, exigindo-se, para a medida extrema, a prova de risco atual decorrente do estado de liberdade do paciente, não evidenciada nos autos.
+Argumenta, ainda, que são suficientes medidas cautelares diversas da prisão previstas no art. 319 do Código de Processo Penal, como comparecimento periódico em juízo, proibição de contato com os demais investigados, proibição de ausentar-se da comarca e monitoração eletrônica.
+Por fim, destaca a existência de condições pessoais favoráveis do paciente (como primariedade, residência fixa, vínculo laboral formal desde 07/03/2022, paternidade de duas filhas menores) e ausência de notícias de descumprimento de determinações judiciais, tentativa de fuga, embaraço à investigação ou risco à instrução criminal; ressaltando, inclusive, a apresentação espontânea em delegacia para cumprimento do mandado prisional.
+Requer, liminarmente e no mérito, a concessão da ordem para revogar a prisão preventiva decretada.
+Subsidiariamente, pugna pela substituição da custódia por medidas cautelares diversas da prisão do art. 319 do Código de Processo Penal.
+É o relatório.
+Decido.
+De início, cumpre destacar que, na estreita via do habeas corpus, exige-se a prévia constituição da prova, devendo a impetração ser devidamente instruída com toda a documentação indispensável à apreciação da pretensão deduzida.
+No caso em exame, entretanto, verifica-se que a parte impetrante deixou de acostar aos autos cópia da decisão de primeiro grau que decretou a prisão preventiva do paciente peça imprescindível à adequada compreensão da controvérsia.
+A ausência de tal documento inviabiliza o conhecimento da impetração, porquanto não se desincumbiu a Defesa do ônus que lhe competia de instruir devidamente o feito. Nesse sentido: AgRg no HC n. 1.006.445/MG, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 12/8/2025, DJEN de 18/8/2025; AgRg no HC n. 995.894/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 24/6/2025, DJEN de 30/6/2025; PET no HC n. 941.704/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/10/2024, DJe de 22/10/2024.
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
