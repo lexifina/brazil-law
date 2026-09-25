@@ -1,0 +1,2 @@
+Art. 31-E. As despesas decorrentes da aquisição, pela União, de carteiras de créditos inadimplidos ou de eventual integralização de cotas em fundo correrão à conta de dotações orçamentárias consignadas ao Ministério da Fazenda, observado o limite máximo de R$ 15.000.000.000,00 (quinze bilhões de reais).
+Parágrafo único. As despesas de que trata o caput têm natureza discricionária e observarão a disponibilidade orçamentária e financeira.

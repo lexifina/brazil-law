@@ -1,0 +1,2 @@
+Art. 31-A. Fica instituída a Modalidade Emergencial de Renegociação de Dívidas de Pessoas Físicas Inadimplentes - Desenrola Brasil 3.0, nos termos do disposto neste Capítulo, com o objetivo de fomentar a regularização das dívidas.
+Parágrafo único. O disposto neste Capítulo será operacionalizado mediante aquisição das carteiras a que se refere o art. 31-C pela União, por fundo privado, fundo de investimentos em direitos creditórios ou outros instrumentos financeiros.
