@@ -1,0 +1,29 @@
+DECISÃO
+Examina-se recurso especial interposto por NOTRE DAME INTERMÉDICA SAÚDE S.A., fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 9/3/2026.
+Concluso ao gabinete em: 4/9/2026.
+Ação: declaratória, ajuizada por MPS HOLDING LTDA, em face de NOTRE DAME INTERMÉDICA SAÚDE S.A., na qual requer a rescisão do contrato desde 22/10/2024 e a declaração de inexigibilidade das duas mensalidades posteriores ao pedido de cancelamento.
+Sentença: julgou procedentes os pedidos, para: i) confirmar a tutela de urgência; ii) declarar a inexigibilidade das duas mensalidades exigidas após o pedido de rescisão contratual; iii) extinguir o processo com resolução do mérito.
+Acórdão: negou provimento ao recurso de apelação interposto por NOTRE DAME INTERMÉDICA SAÚDE S.A., nos termos da seguinte ementa:
+CIVIL. APELAÇÃO CÍVEL. CONTRATOS. RECURSO IMPROVIDO. I. Caso em Exame 1. Ação declaratória julgada procedente para declarar rescindido o contrato e inexigíveis as mensalidades após o pedido de cancelamento. II. Questão em Discussão 2. A questão em discussão consiste em examinar a validade da cláusula contratual que exige aviso prévio de 60 dias para cancelamento do plano de saúde coletivo empresarial. III. Razões de Decidir 3. A aplicação do Código de Defesa do Consumidor é justificada pela vulnerabilidade técnica e econômica da autora, pois não atua no mesmo segmento do apelante. 4. A cláusula de aviso prévio de 60 dias é abusiva, pois a norma que a fundamentava foi anulada, conforme decisão em ação civil pública. IV. Dispositivo 5. Recurso desprovido. (e-STJ fl. 753)
+Recurso especial: alega violação dos arts. 473 do CC e 506 do CPC, bem como dissídio jurisprudencial. Afirma que a cláusula de aviso prévio de 60 dias é válida e compatível com a boa-fé, assegurando prazo de denúncia para reorganização contratual e permitindo a cobrança das mensalidades enquanto os serviços permanecem disponíveis. Aduz que a decisão em ação civil pública possui efeitos apenas quanto às partes do processo, não alcançando operadoras que não integraram a lide, de modo que não impede a pactuação contratual das condições de rescisão. Argumenta que há divergência entre julgados de tribunais estaduais acerca da validade da cláusula e da cobrança das mensalidades no período de aviso prévio.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 568 do STJ
+O TJ/SP, ao julgar o recurso de apelação interposto pela parte recorrente, concluiu o seguinte:
+Embora contratado o plano de saúde por pessoa jurídica em prol de beneficiários indicados por ocasião da proposta, existe hipossuficiência técnica, pois referidas empresa não atuam no mesmo segmento da apelante e, ainda, econômica, a refletir na ausência de paridade na elaboração das disposições contratuais, senão no que diz respeito à escolha entre as hipóteses previamente apresentadas.
+Ademais, a validade da cláusula contratual que prevê aviso prévio de 60 dias para o encerramento do plano coletivo empresarial durante sua vigência não mais se sustenta, pois a disposição regulatória que a fundamentava foi anulada pela Agência Nacional de Saúde, após decisão proferida pela Justiça Federal no âmbito de ação civil pública (autos nº 0136265-83.2013.4.02.51.01), quando se proclamou:  ..  (e-STJ fls. 754-755)
+A exegese de que uma disposição declarada nula possa ter seus efeitos revalidados por uma norma superveniente não comporta acolhimento, pois o vício de nulidade não se convalida. Logo, a ulterior revogação da resolução onde se encontrava inserida a norma viciada não permite que planos de saúde possam manter o dispositivo contratual contendo referido vício.
+O entendimento sedimentado nesta Colenda 7ª Câmara de Direito Privado reconhece a abusividade da referida cláusula, em sintonia com o que foi decidido na referida ação civil pública.  ..  (e-STJ fl. 755)
+Considerando o fato de que a RN 557/22 não inovou nesta sede, é irretocável e correta a conclusão adotada pelo d. magistrado sentenciante, sendo o caso de improvimento do presente recurso. (e-STJ fl. 757)
+Da análise dos trechos acima, constata-se que a decisão do TJ/SP está alinhada com a jurisprudência do STJ, no sentido de que é abusiva a cláusula fundamentada no parágrafo único do art. 17 da RN nº 195/2009 da ANS que impõe a exigência de aviso prévio de 60 dias para o cancelamento de contratos coletivos de planos de saúde.
+Nesse sentido: AgInt no REsp n. 2.274.380/SP, Quarta Turma, DJEN de 18/9/2026; AgInt no REsp n. 2.249.298/SP, Terceira Turma, DJEN de 27/8/2026; REsp n. 2.218.243/SP, Quarta Turma, DJEN de 19/12/2025; AREsp n. 3.028.075/SC, Terceira Turma, DJEN de 27/11/2025; REsp n. 2.225.949/SP, Terceira Turma, DJEN de 25/9/2025.
+Assim, com fundamento na Súmula 568/STJ, o recurso não deve ser provido.
+Forte nessas razões, com fundamento no art. 932, IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 2% (dois por cento) sobre o valor atualizado da causa.
+Previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO DA SAÚDE. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. SAÚDE SUPLEMENTAR. CLÁUSULA DE AVISO PRÉVIO DE 60 DIAS. ABUSIVIDADE.
+1. Ação declaratória.
+2. Consoante jurisprudência do STJ, é abusiva a cláusula que estabelece exigência de aviso prévio remunerado de 60 dias para o cancelamento de contratos coletivos de planos de saúde.
+3. Recurso especial conhecido e não provido.
