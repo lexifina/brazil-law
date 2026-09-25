@@ -1,0 +1,1 @@
+Art. 31-F. Para fins de operacionalização do Desenrola Brasil 3.0, os procedimentos competitivos de que trata o art. 31-C poderão prever a aquisição, a transferência e a gestão das carteiras de créditos por fundos de direitos creditórios.

@@ -1,0 +1,7 @@
+Art. 31-G. Para fins do disposto neste Capítulo, fica a União autorizada a participar de fundo que, atendidos os requisitos e as normas complementares fixados neste artigo e em ato do Ministro de Estado da Fazenda, tenha por finalidade viabilizar a aquisição, a transferência e a gestão das carteiras de créditos adquiridas.
+§ 1º O fundo de que trata o caput terá natureza privada e patrimônio próprio separado do patrimônio dos cotistas e da instituição administradora e será sujeito a direitos e obrigações próprios.
+§ 2º O fundo de que trata o caput poderá ser criado, administrado, gerido e representado judicial e extrajudicialmente por instituição financeira oficial federal.
+§ 3º Os bens e os direitos integrantes do patrimônio do fundo, os seus frutos e rendimentos não se comunicam com o patrimônio da instituição administradora.
+§ 4º O fundo responderá por suas obrigações com os bens e os direitos alocados para a finalidade de que trata o caput, e o cotista ou seus agentes públicos não responderão por qualquer obrigação ou eventual prejuízo do fundo, exceto o cotista pela integralização das cotas que subscrever.
+§ 5º A integralização de cotas pela União será autorizada em ato do Ministro de Estado da Fazenda, e poderá ser realizada por meio de aporte da União, previsto nas leis orçamentárias anuais e em seus créditos adicionais.
+§ 6º A representação da União na assembleia de cotistas ocorrerá nos termos do disposto no art. 10, caput, inciso V, do Decreto-Lei nº 147, de 3 de fevereiro de 1967.
