@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Pedro Augusto Nicastro, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (Revisão Criminal n. 2057319-18.2025.8.26.0000).
+Consta dos autos que o paciente foi condenado à pena de 10 anos, 2 meses e 15 dias de reclusão, em regime inicial fechado, e pagamento de 1.021 dias-multa, como incurso no art. 33 da Lei n. 11.343/2006 (Processo n. 0001263-69.2013.8.26.0048).
+Requer-se a revisão da dosimetria, com a redução da pena-base, sob a alegação de ausência de fundamentação idônea.
+É o relatório.
+Contra o acórdão da Apelação n. 0001263-69.2013.8.26.0048 e com o mesmo objeto do presente writ já houve nesta Corte a anterior impetração do HC n. 920.008/SP, do HC n. 946.034/SP e do HC 1055637/SP, em benefício do mesmo paciente.
+Agora o presente habeas corpus foi impetrado contra o acórdão da Revisão Criminal n. 2057319-18.2025.8.26.0000, que remodulou a pena do paciente para 10 anos, 2 meses e 15 dias de reclusão, em regime inicial fechado, e pagamento de 1.021 dias-multa. Ressalto que contra o referido acórdão da revisão criminal foi interposto o recurso especial, autuado nesta Corte como REsp n. 2.231.345/SP, que não foi conhecido e, em 02/09/26, desprovido o respectivo agravo regimental pela egrégia Sexta Turma.
+Ocorre que a jurisprudência desta Corte é no sentido de ser a revisão criminal instrumento de utilização excepcional, voltado à desconstituição da coisa julgada, e somente se legitima quando demonstrada, de forma clara, a incidência de uma das hipóteses de cabimento previstas no art. 621 do Código de Processo Penal. Não se admite que seja manejada como sucedâneo recursal para reabrir discussão de mérito, por simples inconformismo, nem como uma segunda apelação voltada à reanálise da prova já produzida nos autos.
+O seu escopo restrito demanda situações em que a contradição com a evidência dos autos seja manifesta e indiscutível, dispensando qualquer interpretação ampliativa ou juízos subjetivos sobre o material probatório. Não se confunde, pois, com pretensão de reexame de provas ou alegações genéricas de fragilidade probatória. Em suma, ausentes os requisitos legais, a revisão criminal não é a via adequada para rediscutir, indefinidamente, questões já apreciadas pelas instâncias ordinárias.
+Sobre o assunto, por exemplo, AgRg na RvCr n. 4.730/CE, Ministro Ribeiro Dantas, Terceira Seção, DJe 14/9/2020; HC n. 206.847/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 25/2/2016; AgRg no AgRg no AREsp n. 2.270.812/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 20/9/2023.
+No caso, as ilegalidades trazidas na impetração não ficaram configuradas.
+A pena-base foi elevada em razão dos maus antecedentes e da expressiva quantidade de droga apreendida, mais de uma tonelada de maconha (fl. 96):
+A pena base foi majorada em 1/2 (metade), diante da culpabilidade, antecedentes, conduta social, personalidade e, ainda, pela enorme quantidade de drogas ocultas no fundo falso de um caminhão (1.038kg de maconha).
+Já a fração de aumento pela reincidência foi devidamente ajustada no acórdão revisional em 1/6, em harmonia com a jurisprudência desta Corte, mesmo acréscimo em decorrência do tráfico interestadual (art. 40, V, da Lei de Drogas).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. REVISÃO CRIMINAL. EXCEPCIONALIDADE DO INSTRUMENTO. INADEQUAÇÃO COMO SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE DE REABERTURA DO MÉRITO E DE REEXAME DE PROVAS. DOSIMETRIA. PENA-BASE MAJORADA POR MAUS ANTECEDENTES E EXPRESSIVA QUANTIDADE DE DROGA. APREENSÃO DE MAIS DE UMA TONELADA DE MACONHA. REINCIDÊNCIA COM FRAÇÃO DE 1/6. AUMENTO PELO TRÁFICO INTERESTADUAL. AUSÊNCIA DE ILEGALIDADE. CONFORMIDADE COM JURISPRUDÊNCIA.
+Petição inicial indeferida liminarmente.
