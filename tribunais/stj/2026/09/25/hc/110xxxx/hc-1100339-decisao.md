@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ERIC UILSSON EMANUEL EMILIO, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que, nos autos do HC n. 2374422-62.2025.8.26.0000, não conheceu do pedido de extensão dos efeitos da ordem anteriormente concedida ao corréu Carlos Alberto Emilio (fls. 2-6).
+A defesa sustenta que o paciente foi condenado, juntamente com o corréu, pela prática do crime previsto no art. 168, § 1º, III, do Código Penal, à pena de 2 (dois) anos e 26 (vinte e seis) dias de reclusão, em regime inicial semiaberto, e que ambos se encontram em idêntica situação fática e jurídica.
+Afirma que houve reparação integral do dano mediante acordo celebrado com a vítima antes da sentença penal e que, embora o pedido de indulto formulado pelo paciente, com fundamento no Decreto n. 12.338/2024, tenha sido indeferido na execução penal, o Tribunal de origem, em habeas corpus impetrado em favor do corréu, reconheceu a reparação integral e determinou nova apreciação do benefício.
+Alega, com fundamento no art. 580 do Código de Processo Penal, que os efeitos da decisão proferida em favor do corréu devem ser estendidos ao paciente, porquanto o reconhecimento da reparação integral do dano constituiria fundamento de natureza objetiva.
+Requer, assim, a extensão dos efeitos do HC n. 2374422-62.2025.8.26.0000, com o reconhecimento da reparação integral do dano, a suspensão do mandado de prisão e a reanálise do pedido de indulto na execução penal (fls. 2-6).
+A liminar foi indeferida (fls. 44-45) e as informações foram prestadas às fls. 51-79.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (fls. 83-85).
+É o relatório. Decido.
+O Superior Tribunal de Justiça firmou compreensão no sentido de que o habeas corpus não pode ser utilizado como substitutivo do recurso legalmente previsto, impondo-se o não conhecimento da impetração, ressalvada a possibilidade de concessão da ordem, de ofício, quando constatada situação de flagrante ilegalidade, abuso de poder ou teratologia.
+Observam-se a respeito: AgRg no HC n. 943.146/MG, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 22/10/2024; AgRg no HC n. 874.713/SP, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 20/8/2024; AgRg no HC n. 749.702/SP, Sexta Turma, relator Ministro Antonio Saldanha Palheiro, DJe de 29/2/2024; AgRg no HC n. 912.662/SP, Sexta Turma, relator Ministro Sebastião Reis Júnior, DJe de 27/6/2024; e HC n. 740.303/ES, Quinta Turma, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, DJe de 16/8/2022.
+O presente writ volta-se contra decisão que não conheceu do pedido formulado pelo paciente para extensão dos efeitos da ordem anteriormente concedida ao corréu Carlos Alberto Emilio.
+No caso, não se identifica constrangimento ilegal manifesto.
+A impetração aponta como ato coator o acórdão proferido nos autos do Habeas Corpus n. 2374422-62.2025.8.26.0000 (fls. 34/38), processo em que o paciente sequer figurou como parte, porquanto ali impetrado exclusivamente em favor do corréu Carlos Alberto Emilio, cuja ordem foi concedida em parte para beneficiá-lo com exclusividade.
+Por essa razão, não foi conhecido o pedido de extensão formulado pelo paciente, ficando consignado, ainda, a necessidade de análise individualizada dos requisitos previstos no Decreto n. 12.338/2024, diante das particularidades da situação executória do paciente (fls. 7-8).
+Tendo sido a decisão proferida em relação jurídica processual alheia ao paciente, dela não decorre, por si só, gravame apto a legitimar a presente impetração.
+Ademais, a pretensão de extensão dos efeitos daquela decisão ao paciente foi, na origem, veiculada em petição autônoma, apreciada por decisão monocrática da Relatora, que dela não conheceu, ao fundamento de que o requerente não integrava o polo ativo do habeas corpus concedido ao corréu e de que a incidência do art. 580 do Código de Processo Penal sequer havia sido submetida ao Juízo de origem (e-STJ fls. 7/8).
+Tratando-se de decisão monocrática, sujeita a agravo interno perante o órgão colegiado competente, não se admite seu enfrentamento direto por meio de habeas corpus, sob pena de indevida supressão de instância, circunstância que, também por esse fundamento, obsta o conhecimento do presente writ.
+Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. Nos termos dos arts. 1.021, § 1º, do CPC e 259, § 2º, do RISTJ, aplicados analogicamente ao Processo Penal, cabe ao recorrente, na petição de agravo regimental, impugnar especificamente os fundamentos da decisão agravada.
+2. A decisão de não conhecimento do habeas corpus teve como fundamento o fato de que a decisão combatida foi proferida monocraticamente pelo Desembargador relator na origem, não havendo, pois, deliberação colegiada do Tribunal de origem sobre a matéria trazida na presente impetração, o que inviabiliza o seu conhecimento por esta Corte Superior devido à ausência de exaurimento de instância.
+3. Nas razões do agravo regimental, porém, a parte agravante não enfrentou de maneira adequada os motivos que impediram o conhecimento do pedido, impossibilitando o conhecimento do agravo regimental, nos termos do art. 1.021, § 1º, do CPC e da Súmula n. 182 do STJ, aplicável por analogia.
+4. Inexistente flagrante ilegalidade que autorize a concessão da ordem de ofício.
+5. Agravo regimental não conhecido.
+(AgRg no HC n. 1.070.512/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 2/9/2026, DJEN de 8/9/2026.)
+Anote-se, ainda, que a presente impetração sequer noticiou a existência do Agravo em Execução Penal n. 0013189-41.2025.8.26.0496, interposto pelo próprio paciente na execução penal para postular, em via própria, a mesma pretensão indultária com base no Decreto n. 12.338/2024.
+Tal circunstância somente veio a ser esclarecida por ocasião das informações prestadas pelo Tribunal de origem (fls. 58/79), das quais se extrai que o recurso foi julgado pela Nona Câmara de Direito Criminal, que, por unanimidade, negou-lhe provimento, tornando-se o acórdão irrecorrível (e-STJ fls. 70/77).
+Constituiu-se, dessa forma, novo título judicial específico e definitivo sobre a pretensão indultária do paciente, não trazido nestes autos, circunstância que reforça a inadequação da via eleita.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
