@@ -1,0 +1,9 @@
+Ato nº 12355, de 25 de setembro de 2026
+O SUPERINTENDENTE DE OUTORGA E RECURSOS À PRESTAÇÃO DA AGÊNCIA NACIONAL DE TELECOMUNICAÇÕES, no uso das atribuições que lhe foram conferidas pelo art. 156 do Regimento Interno da Anatel, aprovado pela Resolução nº 612, de 29 de abril de 2013, e
+CONSIDERANDO o disposto no art. 19, inciso VIII, da Lei nº 9.472, de 16 de julho de 1997, de que cabe à Anatel administrar o espectro de radiofrequências, expedindo as respectivas normas;
+CONSIDERANDO o disposto no art. 161 da Lei nº 9.472, de 16 de julho de 1997, que determina que a qualquer tempo poderá ser modificada a destinação de radiofrequências ou faixas, bem como ordenada a alteração de potências ou de outras características técnicas, desde que o interesse público ou o cumprimento de convenções ou tratados internacionais assim o determine;
+CONSIDERANDO o Modelo de Gestão do Espectro, aprovado pelo Acordão nº 651, de 1º de novembro de 2018 (SEI nº 3434164), que estabelece que condições de uso de radiofrequências, tais como canalizações, limites de potências e outras condições técnicas específicas, que visem à convivência harmônica entre os serviços e ao uso eficiente e adequado do espectro, quando necessárias, sejam tratadas no âmbito da Superintendência de Outorga e Recursos à Prestação, por meio da edição de Atos de Requisitos Técnicos (de Condições de Uso do Espectro);
+CONSIDERANDO o disposto no art. 2º do Regulamento de Condições de Uso de Radiofrequências, aprovado pela Resolução nº 773, de 16 de janeiro de 2025;
+CONSIDERANDO o disposto no Plano de Atribuição, Destinação e Distribuição de Faixas de Frequências no Brasil (PDFF), aprovado pela Resolução nº 789, de 06 de julho de 2026; e
+CONSIDERANDO o resultado da Consulta Pública nº 21, de 15 de Maio de 2026, bem como o constante dos autos do processo nº 53500.012020/2023-53.
+RESOLVE:
