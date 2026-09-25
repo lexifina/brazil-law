@@ -1,0 +1,90 @@
+DECISÃO
+
+RECLAMAÇÃO. PROCESSUAL CIVIL. ALEGADO DESCUMPRIMENTO DO AGRAVO DE INSTRUMENTO N. 791.292, TEMA 339 DA REPERCUSSÃO GERAL: AUSÊNCIA DE DEMONSTRAÇÃO
+DE TERATOLOGIA. RECLAMAÇÃO
+COMO SUCEDÂNEO RECURSAL: IMPOSSIBILIDADE. PRECEDENTES. RECLAMAÇÃO À QUAL SE NEGA SEGUIMENTO.
+
+Relatório
+1. Reclamação, com requerimento de medida liminar, ajuizada por Condomínio Residencial Ecopark Ltda. e Construtora Alavanca Ltda., em 21.9.2026, contra decisão proferida pelo Superior Tribunal de Justiça no Processo n. 2374397, pela qual teria sido desrespeitado o decidido pelo Supremo Tribunal Federal no Agravo de Instrumento n. 791.292-RG, Tema 339:
+“AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC.
+ I. CASO EM EXAME
+ 1.1. Agravo interno interposto contra decisão que negou seguimento a recurso extraordinário, sob o fundamento de que o acórdão recorrido estaria em conformidade com a tese fixada pelo STF no Tema n. 339 da repercussão geral.
+1.2. A parte agravante alegou a inaplicabilidade do Tema n. 339 ao caso, argumentando que não houve fundamentação adequada no acórdão recorrido quanto às matérias suscitadas, o que configuraria ofensa ao texto constitucional.
+II. QUESTÕES EM DISCUSSÃO
+ 2.1. A existência de afronta ao art. 93, IX, da Constituição Federal quando se discute a suficiência da fundamentação das decisões judiciais, com aplicabilidade do Tema n. 339 do STF.
+III. RAZÕES DE DECIDIR
+3.1. O STF, ao tratar do Tema n. 339 da repercussão geral, firmou a tese de que a Constituição Federal exige que acórdãos e decisões sejam fundamentados, ainda que sucintamente, sem vinculação à correção ou abrangência detalhada de todas as alegações das partes, mas à existência de motivação que permita a compreensão da solução dada à controvérsia.
+ 3.2. No caso concreto, o acórdão recorrido apresentou motivação adequada para a solução da controvérsia, em conformidade com o Tema n. 339, razão pela qual é justificada a negativa de seguimento ao recurso extraordinário nos termos do art. 1.030, I, a, do CPC.
+IV. DISPOSITIVO
+ 4.1. Agravo interno a que se nega provimento.
+(...) Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso, conforme consignado na decisão agravada, foram declinados, de forma satisfatória, os motivos da compreensão adotada no acórdão objeto do recurso extraordinário, como se observa do seguinte trecho do referido julgado (...).
+(...) Verifica-se, portanto, que foram suficientemente apresentadas as razões pelas quais não estão preenchidos os requisitos de admissibilidade do recurso dirigido ao STJ, não tendo sido examinada a matéria de fundo, motivo pelo qual é inviável o exame das questões relacionadas ao mérito recursal e ao acerto da aplicação de óbices processuais por esta Corte.
+Com efeito, demonstrada a realização da prestação jurisdicional constitucionalmente adequada, ainda quando não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339 do STF.
+ 3. Ante o exposto, nego provimento ao agravo interno”
+(fls. 69-75, e-doc. 5).
+
+2. Os reclamantes informam “trata[r]-se de ação de rescisão contratual de negócio jurídico imobiliário (compromisso de venda e compra de apartamento)” (fl. 3, e-doc. 1).
+
+Salientam “subsist[ir] a ausência de manifestação judicial no tocante à tese/pedido das reclamantes, sendo certo que matéria não analisada é plenamente capaz de alterar o desfecho da causa, redundando em nulidade do julgado por afronta aos artigos 11, 489, 1.022, do NCPC e artigo 93, inciso IX, da Carta Magna” (fl. 6, e-doc. 1).
+
+Ressaltam que o “artigo 93, IX, da Carta Magna, foi totalmente vilipendiado pelo Superior Tribunal de Justiça. (...) [N]ão se trata de fundamentação deficitária em relação aos pontos suscitados pela reclamante, mas sim de ausência total de fundamentação” (fl. 8, e-doc. 1).
+
+Requerem medida liminar, “com ordem para suspensão do processo principal até ulterior decisão da presente medida” (fl. 14, e-doc. 1).
+
+Pedem a procedência da presente reclamação, “determinando o processamento do Recurso Extraordinário, com remessa do processo principal à Suprema Corte; (...) Já na Suprema Corte o processo principal, darem provimento do Apelo Extremo, com anulação do julgado do STJ e ordem para análise e supressão/correção da omissão e contradição acima ventiladas, admitindo-se excepcionais efeitos modificativos aos recurso, sob pena de violação dos dispositivos constitucionais e infraconstitucionais invocados no recurso, notadamente do artigo 93, inciso IX, da Lei Maior” (fl. 15, e-doc. 1).
+
+Examinados os elementos havidos nos autos, DECIDO.
+
+3. O parágrafo único do art. 161 do Regimento Interno do Supremo Tribunal Federal dispõe que “o Relator poderá julgar a reclamação quando a matéria for objeto de jurisprudência consolidada do Tribunal”, como ocorre na espécie.
+
+4. Põe-se em foco nesta reclamação se, ao negar seguimento ao recurso extraordinário interposto pelos reclamantes e não remeter o agravo a este Supremo Tribunal, a autoridade reclamada teria usurpado a competência do Supremo Tribunal Federal e desrespeitado o decidido no Agravo de Instrumento n. 791.292-RG, Temas 339 da repercussão geral.
+
+5. A reclamação é instrumento constitucional processual posto no sistema como dupla garantia formal da jurisdição: primeiro, para o jurisdicionado que tenha recebido resposta a pleito formulado judicialmente e veja a decisão proferida afrontada, fragilizada e despojada de plena eficácia; segundo, para o Supremo Tribunal Federal (al. l do inc. I do art. 102 da Constituição da República) ou para o Superior Tribunal de Justiça (al. f do inc. I do art. 105 da Constituição), que podem ter suas competências enfrentadas e menosprezadas por outros órgãos do Poder Judiciário e a autoridade de suas decisões mitigada em face de atos reclamados.
+
+Busca-se pela reclamação fazer que a prestação jurisdicional se mantenha dotada de vigor jurídico próprio ou o órgão judicial de instância superior tenha sua competência resguardada.
+
+A reclamação não se presta a antecipar julgados, atalhar julgamentos, fazer sucumbirem decisões sem que se atenham à legislação processual específica discussão ou litígio a serem solucionados judicialmente.
+
+6. Este Supremo Tribunal assentou que o cabimento da reclamação fundada na aplicação de paradigma da repercussão pressupõe comprovação de teratologia na decisão reclamada e esgotamento da via recursal ordinária (inc. II do § 5º do art. 988 do Código de Processo Civil). Assim, por exemplo:
+“O Plenário desta Corte decidiu, no julgamento da Ação Cautelar 2.177-MC-QO/PE, que a jurisdição do Supremo Tribunal Federal somente se inicia com a manutenção, pelo Tribunal de origem, de decisão contrária ao entendimento firmado no julgamento da repercussão geral, nos termos do § 4º do art. 543-B do Código de Processo Civil. 3. Fora dessa específica hipótese não há previsão legal de cabimento de recurso ou de outro remédio processual para o Supremo Tribunal Federal. 4. Inteligência dos arts. 543-B do Código de Processo Civil e 328-A do Regimento Interno do Supremo Tribunal Federal. 5. Possibilidade de a parte que considerar equivocada a aplicação da repercussão geral interpor agravo interno perante o Tribunal de origem. 6. Oportunidade de correção, no próprio âmbito do Tribunal de origem, seja em juízo de retratação, seja por decisão colegiada, do eventual equívoco” (Rcl n. 7.569, Relatora a Ministra Ellen Gracie, Plenário, DJe 11.12.2009).
+
+“AGRAVO REGIMENTAL NA RECLAMAÇÃO. JULGAMENTO PELO TRIBUNAL DE ORIGEM DE AGRAVO INTERNO INTERPOSTO CONTRA DECISÃO QUE
+NEGOU SEGUIMENTO A RECURSO EXTRAORDINÁRIO. OCORRÊNCIA DE PRÉVIO ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. PRECEDENTES. DIREITO CIVIL. RESPONSABILIDADE EXTRACONTRATUAL DE NATUREZA SUBJETIVA. APLICAÇÃO PELO TRIBUNAL A QUO DA SISTEMÁTICA DA REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO 748.371. TEMA 660. AUSÊNCIA DE TERATOLOGIA NA DECISÃO ORA RECLAMADA. DECISÃO IMPUGNADA QUE SE ENCONTRA EM HARMONIA COM O LEADING CASE QUE SE REPUTA VIOLADO. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO. 1. A reclamação, por expressa determinação constitucional, destina-se a preservar a competência desta Suprema Corte e garantir a autoridade de suas decisões, ex vi do artigo 102, inciso I, alínea l, da Constituição da República, além de salvaguardar o estrito cumprimento dos enunciados de Súmula Vinculante, nos termos do artigo 103-A, § 3º, da Constituição, incluído pela Emenda Constitucional 45/2004. Neste particular, a jurisprudência desta Suprema Corte estabeleceu diversas condicionantes para a utilização da via reclamatória, de sorte a evitar o desvirtuamento do referido instrumento processual. Disso resulta i) a impossibilidade de utilizar per saltum a reclamação, suprimindo graus de jurisdição, ii) a impossibilidade de se proceder a um elastério hermenêutico da competência desta Corte, por estar definida em rol numerus clausus, e iii) a observância da estrita aderência da controvérsia contida no ato reclamado e o conteúdo dos acórdãos desta Suprema Corte apontados como paradigma. 2. In casu, houve o prévio esgotamento das instâncias ordinárias, na medida em que o Tribunal de origem já julgou o agravo interno interposto pelo ora reclamante contra a decisão que negou seguimento, com fundamento nos Temas 451 e 660 da Repercussão Geral, ao seu recurso extraordinário. 3. No julgamento do Recurso Extraordinário 748.371, Tema 660 da Repercussão Geral, que tratava do cerceamento de defesa e suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, esta Suprema Corte reputou infraconstitucional a matéria posta em análise, negando-lhe a existência de repercussão geral. 4. O Tribunal reclamado decidiu a controvérsia consoante o entendimento previamente fixado nesta Corte sobre o tema, em pleno respeito aos pilares hierárquicos da jurisdição, não incorrendo em qualquer conduta que represente usurpação de competência desta Corte. 5. Evidencia-se a ausência de teratologia na decisão ora impugnada a viabilizar o progresso desta via reclamatória. 6. Agravo regimental desprovido” (Rcl n. 29.484-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 23.4.2019).
+
+7. Na espécie em exame, o Superior Tribunal de Justiça decidiu:
+
+“No caso, conforme consignado na decisão agravada, foram declinados, de forma satisfatória, os motivos da compreensão adotada no acórdão objeto do recurso extraordinário, como se observa do seguinte trecho do referido julgado (fls. 933-944): (...)
+(...) Conforme se extrai do acórdão recorrido e do julgamento dos embargos declaratórios, o Tribunal  a  quo enfrentou as questões que considerou relevantes para a solução da lide, expondo de maneira clara e coesa os fundamentos que o levaram a decidir pela culpa dos compradores na rescisão, pela fixação do percentual de retenção em 20% dos valores pagos, pela inexigibilidade das taxas condominiais antes da posse e pela fixação do termo inicial dos juros de mora no trânsito em julgado. O acórdão de apelação afastou expressamente a tese de nulidade da sentença por falta de fundamentação (...).
+ [...] Posteriormente, no julgamento dos embargos de declaração, a Corte paulista novamente rechaçou a existência de vícios, afirmando que as questões foram detidamente examinadas e que a pretensão das embargantes revelava mero inconformismo com o resultado do julgamento, buscando indevida rediscussão da matéria. (...).
+ [...] É cediço que o julgador não está obrigado a responder a todas as alegações das partes, quando já tenha encontrado motivo suficiente para fundamentar a decisão, nem a se ater aos fundamentos indicados por elas ou a responder um a um todos os seus argumentos. A prestação jurisdicional é entregue de forma completa quando as questões essenciais ao julgamento da causa são apreciadas, o que efetivamente ocorreu no caso em tela. O fato de o resultado não ser aquele almejado pelas Recorrentes não significa que houve omissão ou negativa de prestação jurisdicional” (fl. 71, e-doc. 5).
+
+Diferente do alegado na petição inicial desta reclamação, a decisão reclamada está adequadamente fundamentada, tendo sido apreciados e decididos os pontos questionados no caso.
+
+Na espécie, os reclamantes limitaram-se a expor inconformismo com o julgado questionado, não se desincumbindo da obrigação processual de demonstrar teratologia na decisão reclamada, o que acarreta o descabimento da reclamação. Confiram-se, por exemplo, os seguintes julgados:
+“Agravo regimental em reclamação. 2. Direito do Trabalho. Reclamação contra decisão que aplica a sistemática da repercussão geral. Não cabimento. 3. Inadmissibilidade da reclamação constitucional com o propósito de questionar a aplicação da sistemática da repercussão geral, tal como previsto no art. 543-A e 543-B do CPC/73. AI-QO 760.358 e Reclamações 7.569 e 7.547. 4. Aplicação, pelo Juízo reclamado, de tese firmada por esta Corte no âmbito da repercussão geral. Inexistência de teratologia. Não cabimento. 5. Impossibilidade de utilização da reclamação como sucedâneo recursal. 6. Decisão transitada em julgado. Incidência da Súmula 734 desta Corte 7. Ausência de argumentos ou provas que possam influenciar a convicção do julgador. 9. Agravo regimental não provido” (Rcl n. 33.432-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 17.5.2019).
+
+“CONSTITUCIONAL, ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. ALEGADA VIOLAÇÃO DE PRECEDENTE DESTA CORTE. INEXISTÊNCIA. DECISÃO RECLAMADA EM CONFORMIDADE COM O PARADIGMA DE CONFRONTO APONTADO. AUSÊNCIA DE TERATOLOGIA. PARTICULARIDADES DO CASO CONCRETO. ANÁLISE E EMISSÃO DE JUÍZO DE VALOR. INVIABILIDADE. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO. 1. O Tribunal reclamado analisou o caso concreto atento ao que decidido por esta SUPREMA CORTE no RE 855.178-RG (Tema 793 da Repercussão Geral). 2. Cotejando a decisão reclamada com o paradigma de confronto apontado, e respeitado o âmbito cognitivo deste instrumental, não se constata teratologia no ato judicial que se alega afrontar o precedente deste TRIBUNAL. 3. Inviável o exame e a emissão de juízo a respeito de particularidades do caso concreto, sob pena de convolar esta distinta ação em recurso ou atalho processual, expedientes repelidos por esta SUPREMA CORTE. 4. Recurso de agravo a que se nega provimento” (Rcl n. 33.582-AgR, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 6.8.2019).
+
+8. A reclamação não pode ser utilizada como sucedâneo recursal, sendo instrumento inidôneo para reexame do conteúdo do ato reclamado. Assim, por exemplo:
+“RECLAMAÇÃO. INFRAERO. EXECUÇÃO PROVISÓRIA. PENHORA DE BENS. ALEGAÇÃO DE AFRONTA AO QUANTO DECIDIDO NA ADPF 387. AUSÊNCIA DE ESTRITA ADERÊNCIA. RECURSO EXTRAORDINÁRIO 472.490. PROCESSO DE ÍNDOLE SUBJETIVA. DECISÃO QUE NÃO TEM EFEITO VINCULANTE E EFICÁCIA ERGA OMNES. UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. 1. À míngua de identidade material entre o ato reclamado e o paradigma invocado, não há como divisar a alegada afronta à autoridade de decisão desta Excelsa Corte. 2. Não cabe reclamação constitucional para questionar a autoridade de decisão proferida em processo de índole subjetiva, sem eficácia erga omnes, que vincula apenas as partes que o integraram. 3. Reclamação constitucional é ação vocacionada para a tutela específica da competência e autoridade das decisões proferidas por este Supremo Tribunal Federal, não servindo como sucedâneo recursal ou ação rescisória. 2. Agravo interno conhecido e não provido” (Rcl n. 29.315-AgR/SP, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 25.9.2018).
+
+“Ausentes os pressupostos legitimadores da reclamação, este remédio constitucional não pode ser utilizado como um atalho processual destinado à submissão imediata do litígio ao exame direto desta Suprema Corte, nem tampouco como sucedâneo recursal viabilizador do reexame do conteúdo do ato reclamado” (Rcl
+n. 10.036-AgR, Relator o Ministro Joaquim Barbosa, Plenário, DJe 1º.2.2012).
+
+“O remédio constitucional da reclamação não pode ser utilizado como um (inadmissível) atalho processual destinado a permitir, por razões de caráter meramente pragmático, a submissão imediata do litígio ao exame direto do Supremo Tribunal Federal. Precedentes. – A reclamação, constitucionalmente vocacionada a cumprir a dupla função a que alude o art. 102, I, l, da Carta Política (RTJ 134/1033), não se qualifica como sucedâneo recursal nem configura instrumento viabilizador do reexame do conteúdo do ato reclamado, eis que tal finalidade revela-se estranha à destinação constitucional subjacente à instituição dessa medida processual. Precedentes” (Rcl n. 4.381-AgR, Relator o Ministro Celso de Mello, Plenário, DJe 5.8.2011).
+
+Ausentes os requisitos processuais viabilizadores do regular trâmite desta reclamação.
+
+9. Pelo exposto, nego seguimento à presente reclamação (§ 1º do
+art. 21 e parágrafo único do art. 161 do Regimento Interno do Supremo Tribunal Federal), prejudicada a medida liminar requerida.
+
+Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+Publique-se.
+
+Brasília, 25 de setembro de 2026.
+
+Ministra CÁRMEN LÚCIA
+Relatora
