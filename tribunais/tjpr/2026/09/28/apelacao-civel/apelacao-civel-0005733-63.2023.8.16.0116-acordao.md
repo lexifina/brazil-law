@@ -1,0 +1,87 @@
+APELAÇÃO CÍVEL. EXECUÇÃO FISCAL DE BAIXO VALOR. CRÉDITO INFERIOR AO LIMITE DE 7 UFMS PREVISTO NA LEGISLAÇÃO MUNICIPAL VIGENTE À ÉPOCA DA PROPOSITURA. AUSÊNCIA DE INTERESSE PROCESSUAL. TEMA Nº 1.184 DO STF. EXIGÊNCIA CUMULATIVA DE AUSÊNCIA DE MOVIMENTAÇÃO ÚTIL. REQUISITO DA RESOLUÇÃO Nº 547/2024 DO CNJ INAPLICÁVEL À EXECUÇÃO
+PROPOSTA ANTERIORMENTE. PEDIDO SUBSIDIÁRIO DE SOMA DE OUTRAS EXECUÇÕES RELATIVAS AO MESMO IMÓVEL. AUSÊNCIA DE INDICAÇÃO DOS PROCESSOS E DE COMPROVAÇÃO DOS PRESSUPOSTOS PARA REUNIÃO. ÔNUS DO EXEQUENTE. SENTENÇA MANTIDA. RECURSO NÃO PROVIDO.
+I. CASO EM EXAME
+
+1. Apelação interposta pelo Município de Matinhos contra sentença que extinguiu, sem resolução do mérito, execução fiscal proposta em 21.12.2023 para cobrança de crédito tributário no valor de R$ 1.926,11 considerado inferior ao limite estabelecido pela legislação municipal.
+II. QUESTÕES EM DISCUSSÃO
+
+2. A controvérsia em questão consiste em saber se a extinção da execução fiscal de baixo valor exige, cumulativamente, a ausência de movimentação útil prevista na Resolução nº 547/2024 do CNJ e se devem ser somados os valores de outras execuções relativas ao mesmo imóvel.
+III. RAZÕES DE DECIDIR
+
+3. A Lei Municipal nº 2.478/2023, vigente quando da propositura, adotava o valor equivalente a 7 UFMs como parâmetro para o tratamento das execuções fiscais de baixo valor.
+4. Considerando o valor da UFM vigente à época, o limite municipal correspondia a R$ 2.245,67. O crédito exequendo, de R$ 1.926,11 era inferior ao parâmetro estabelecido pelo próprio Município.
+5. A manutenção da extinção prestigia a autonomia do ente federativo e o princípio da eficiência administrativa, em conformidade com a orientação firmada pelo STF no Tema nº 1.184.
+6. Não se exige, no caso, a demonstração cumulativa de ausência de movimentação útil por mais de um ano, pois esse requisito decorre da Resolução nº 547/2024 do CNJ, editada posteriormente à propositura
+da execução. A extinção está fundada no parâmetro previsto na legislação municipal vigente em 2023.
+7. O pedido de soma dos débitos de outras execuções fiscais não pode ser acolhido, pois o Município não indicou os processos relacionados ao mesmo imóvel nem demonstrou a possibilidade de sua reunião. Incumbia ao exequente apresentar os elementos necessários à análise da pretensão.
+IV. DISPOSITIVO E TESE
+
+8. Recurso não provido.
+
+Tese de julgamento: "É cabível a extinção de execução fiscal cujo valor, na data da propositura, seja inferior ao parâmetro estabelecido pela legislação municipal então vigente, não cabendo ao Poder Judiciário identificar, de ofício, outras execuções que poderiam ser reunidas quando o exequente não indica os respectivos processos nem demonstra os pressupostos da reunião. "
+Dispositivos relevantes citados:
+
+- Lei Municipal de Matinhos nº 2.478/2023;
+- Resolução nº 547/2024 do CNJ, art. 1º;
+
+- Código de Processo Civil, art. 932, inciso V, alínea "b".
+Jurisprudência relevante citada:
+
+TJPR - 2ª Câmara Cível - 0005462-88.2022.8.16.0116 - Matinhos -
+ Rel.: DESEMBARGADOR SUBSTITUTO CARLOS MAURICIO FERREIRA -
+ J. 15.07.2026.
+
+1 - EXPOSIÇÃO FÁTICA:
+Trata-se de recurso de apelação cível voltado a impugnar a sentença (mov. 45.1) proferida nos autos de
+Execução Fiscal NPU 0005733-63.2023.8.16.0116, em que é exequente MUNICÍPIO DE MATINHOS e executada CATIA SILENE DE SOUZA NARDES, pela qual foi julgado extinto o processo sem resolução de mérito, nos termos do artigo 485, inciso VI, do Código de Processo Civil c/c o Tema 1.184/STF e a Resolução nº 547/2024 do CNJ.
+
+O exequente MUNICÍPIO DE MATINHOS interpôs recurso de apelação (mov. 48.1), alegando, em síntese, que:
+I. “À época do ajuizamento, vale advertir, a questão era disciplinada pela Lei Municipal n.º 2.073/2019, que enunciava que o débito de pequeno valor é o de até 06 (seis) UFM – e, compulsando o sítio eletrônico “Leis Municipais”, a última atualização do valor da UFM era de 1993, de forma que cada UFM correspondia a CR$ 18.000,00 (dezoito mil cruzeiros)”.
+II. “... subsidiariamente, devem ser somados os valores de todas as execuções fiscais atinentes ao mesmo imóvel, e aferir se atingem o valor mínimo previsto no artigo 498 da Lei Municipal n.º 2.489/2023, de R$ 2.245,67”.
+
+III. Ao final, requereu o conhecimento e provimento do recurso para reformar a sentença e determinar o prosseguimento da execução.
+
+É o relatório.
+
+2 – FUNDAMENTAÇÃO E VOTO:
+Presentes os pressupostos de admissibilidade, conheço do recurso.
+No mérito, cumpre analisar se é o caso de reformar, ou não, a sentença que extinguiu o processo de execução fiscal, em razão do valor executado, nos termos do Tema nº 1.184 do Supremo Tribunal Federal.
+No âmbito do aludido Tema, a Suprema Corte estabeleceu a seguinte tese:
+“1. É legítima a extinção de execução fiscal de baixo valor pela ausência de interesse de agir tendo em vista o princípio constitucional da eficiência administrativa, respeitada a competência constitucional de cada ente federado. 2. O ajuizamento da execução fiscal dependerá da prévia adoção das seguintes providências: a) tentativa de conciliação ou adoção de solução administrativa; e b) protesto do título, salvo por motivo de eficiência administrativa, comprovando-se a inadequação da medida. 3. O trâmite de ações de execução fiscal não impede os entes federados de pedirem a suspensão do processo para a adoção das medidas previstas no item 2, devendo, nesse caso, o juiz ser comunicado do prazo para as providências cabíveis”.
+
+Ou seja, o julgado elencou requisitos administrativos a serem realizados pelo ente federativo antes de propor execuções fiscais de baixo valor.
+Diante do conceito aberto de “baixo valor”, o Conselho Nacional de Justiça, por meio da Resolução nº 547/2024, instituiu “medidas de tratamento racional e eficiente na tramitação das execuções fiscais pendentes no Poder Judiciário, a partir do julgamento do tema 1184 da repercussão geral pelo STF”.
+
+No plano da mencionada Resolução, fixou-se que “deverão ser extintas as execuções fiscais de valor inferior a R$ 10.000,00 (dez mil reais) quando do ajuizamento, em que não haja movimentação útil há mais de um ano sem citação do executado ou, ainda que citado, não tenham sido localizados bens penhoráveis” (artigo 1º, parágrafo 1º). Todavia, ficou esclarecido que deve ser “respeitada a competência constitucional de cada ente federado”.
+Ou seja, não obstante a Resolução tenha indicado o valor abaixo de 10 mil reais como critério para extinção de execuções por baixo valor, deixou claro que o referido patamar não pode ser aplicado em ordem a violar a competência constitucional de cada ente federativo em relação à exigência de obrigações tributárias de sua alçada.
+Nesse contexto, conjuntamente, em reunião realizada em 23.10.2025, a Primeira, a Segunda e a Terceira Câmaras Cíveis deste Tribunal, de competência especializada para análise e julgamento de matéria tributária, editaram os seguintes enunciados (Despacho 12441346 – SEI NPU 0085517-23.2025.8.16.6000):
+“1 – A extinção do processo, seja com base nas teses firmadas pelo Supremo Tribunal Federal no julgamento do Tema 1184 ou com fulcro na Resolução 547/CNJ, deve dar-se sem ônus para as partes.” (enunciado aprovado por unanimidade de votos);
+
+2 – A exigência, como condição do ajuizamento de execução fiscal, de protesto do título ou de tentativa de conciliação ou adoção de solução administrativa, não se aplica às ações de execução fiscal propostas anteriormente à data da publicação da ata do julgamento do Tema 1184 (STF), que se deu em 05/02/2024.” (enunciado aprovado por maioria de votos, vencidos os Desembargadores Jorge de Oliveira Vargas, Sérgio Roberto Nóbrega Rolanski e o Desembargador Substituto Fernando César Zeni);
+3 – A exigência, como condição do ajuizamento da execução fiscal, de protesto do título ou de tentativa de conciliação ou adoção de solução administrativa, aplica-se a todas as execuções fiscais propostas posteriormente à edição da Resolução 547/CNJ, independentemente do valor, salvo, quanto ao protesto, se se fizerem presentes algumas das hipóteses do art. 3º, incs. I a IV, da referida resolução. (ARE 1.553.607 – Tema 14/28 e Consulta CNJ 0005858-02.2024.200.0000” (enunciado aprovado por unanimidade votos);
+4 – Na ausência de lei local fixando o montante pecuniário para que uma dívida seja considerada de pequeno valor, poderá ser considerado o valor previsto no art. 34 da Lei 6.830/1980” (enunciado aprovado por maioria de votos, vencidos o Desembargador Jorge de Oliveira Vargas, para quem o valor a ser considerado é R$ 4.700,00, que seria o custo médio de uma ação de execução, e o Desembargador Sérgio Roberto Nóbrega Rolanski, para quem deve ser observado o valor de R$ 10.000,00, previsto na Resolução 547/CNJ);
+5 – É faculdade do exequente, em relação às ações de execução fiscal ajuizadas anteriormente à publicação da ata do julgamento do Tema 1184 (STF), postular a suspensão do processo para: a) protestar o título ou comunicar a inscrição da dívida ativa aos órgãos que operam banco de dados e cadastros relativos a consumidores e aos serviços de proteção ao crédito; ou b) tentar solução consensual ou adoção de outras soluções administrativas.” (enunciado aprovado por maioria de votos, vencidos o Desembargador Jorge de Oliveira Vargas e o Desembargador Sérgio Roberto Nóbrega Rolanski);
+6 – O transcurso de prazo superior a um ano para obtenção da citação do executado não leva à extinção do processo, com fulcro na Resolução 547/CNJ, quando o referido prazo seja ultrapassado em razão da necessidade de esgotamento das diligências necessárias à localização dos endereços do executado, medida sem a qual não é possível a realização da citação por edital” (enunciado aprovado por unanimidade de votos);
+7 – Não é possível a extinção, com fulcro na Resolução 547/CNJ, de processos de execução, cujo valor seja superior a R$ 10.000,00, considerada a data do ajuizamento da ação.” (enunciado aprovado por unanimidade de votos);
+8 – Anteriormente à extinção dos processos de execução fiscal por ausência de movimentação útil há mais de um ano sem localização de bens penhoráveis, deve se proceder à intimação do exequente para que, em prazo razoável, exerça, se desejar, a faculdade prevista no §5º do art. 1º da Resolução 547/CNJ.” (enunciado aprovado por unanimidade de votos);
+9 – A
+extinção da execução fiscal, seja com base nas teses fixadas pelo Supremo Tribunal Federal quando julgamento do Tema 1184 seja com fulcro nas regras previstas na Resolução 547/CNJ, não possibilita o cancelamento da certidão de dívida ativa nem a baixa do crédito tributário” (enunciado aprovado por unanimidade de votos).
+10 – O exequente, quando da propositura da ação de execução fiscal, não necessita comprovar a realização das providências previstas nos arts. 2º e 3º da Resolução nº 547/2024-CNJ, que são condições de ajuizamento da ação, bastando afirmar tê-las realizado” (enunciado aprovado por maioria de votos, vencidos os Desembargadores Octávio Campos Fischer e Jorge de Oliveira Vargas, que defenderam a necessidade de comprovação, ainda que mínima, das providências previstas nos arts. 2º e 3º da Resolução nº 547/2024-CNJ);
+11 – O protesto é dispensado quando se fizer presente uma das seguintes hipóteses: I) comunicação de inscrição em dívida ativa aos órgãos que operam bancos de dados e cadastros relativos a consumidores e aos serviços de proteção ao crédito e congêneres (Lei nº 10.522/2002, art. 20-B, §3º, I); II) existência de averbação, inclusive por meio eletrônico, da certidão de dívida ativa nos órgãos de registro de bens e direitos sujeitos a arresto ou penhora (Lei nº 10.522/2002, art. 20-B, §3º, I); III) indicação, no ajuizamento da ação, de bens ou direitos passíveis de penhora de titularidade do executado; IV) inclusão do crédito inscrito em dívida ativa no Cadastro Informativo de créditos não quitados do setor público federal (Cadin), de que trata a Lei nº 10.522/2002” (enunciado aprovado por unanimidade de votos).
+12 – Para fins do §2º do art. 1º da Resolução nº 547/2024-CNJ, consideram-se apensadas tão somente as execuções fiscais em que haja decisão judicial determinando a sua reunião (Súmula nº 515/STJ)” (enunciado aprovado por unanimidade de votos)”.
+A partir daí, ao se deparar com execução fiscal cujo valor seja abaixo de R$ 10.000,00, o julgador deve observar a existência, ou não, de lei específica do ente federativo acerca do tema.
+A execução foi proposta
+em 21.12.2023 para cobrança de crédito tributário no valor de R$ 1.926,11 conforme a Certidão de Dívida Ativa nº 4871/2023 (mov. 1.2).
+Na data da propositura, vigorava a Lei Municipal nº 2.478/2023, cujo art. 1º adotava o equivalente a 7 Unidades Fiscais Municipais como parâmetro para o tratamento das execuções fiscais de baixo valor:
+"Art. 1º O débito consolidado cujo valor seja igual ou inferior ao valor equivalente à 7 (sete) UFM, para dívidas ativas relativas a IPTU, taxas municipais, contribuições de melhoria e multas não tributárias, dívidas tributarias relativas a ISSQN, serão considerados, para efeitos dessa lei, como débitos de pequeno valor. " (NR)
+A UFM correspondia, então, a R$ 320,81, de modo que 7 UFMs totalizavam R$ 2.245,67. O crédito executado era, portanto, inferior ao parâmetro estabelecido pelo próprio Município.
+Nesse contexto, a extinção deve ser mantida. O Tema nº 1.184 do STF, ao reconhecer a legitimidade da extinção das execuções fiscais de baixo valor e ressalvar a competência de cada ente federativo, prestigia os critérios definidos na legislação local. No caso, a aplicação do parâmetro municipal conduz à conclusão de que o prosseguimento da cobrança judicial não se justifica sob a perspectiva do interesse processual e da eficiência administrativa.
+A propósito, em casos semelhantes, esta Câmara decidiu do modo acima resumido. Exemplificativamente:
+MAURÍCIO FERREIRA1. DIREITO PROCESSUAL CIVIL E TRIBUTÁRIO. APELAÇÃO CÍVEL. EXTINÇÃO DE EXECUÇÃO FISCAL DE BAIXO VALOR POR AUSÊNCIA DE INTERESSE PROCESSUAL E APLICAÇÃO DO TEMA 1.184 DO STF E RESOLUÇÃO 547/2024 DO CNJ. RECURSO DESPROVIDO. I. Caso em exame 1. Apelação cível interposta pelo Município de Matinhos contra sentença que extinguiu, sem julgamento do mérito, execução fiscal ajuizada para cobrança de débitos tributários de pequeno valor, com fundamento na ausência de interesse processual prevista no Tema 1.184 do STF e na Resolução nº 547/2024 do CNJ. II. Questão em discussão 2. A questão em discussão consiste em saber se a execução fiscal ajuizada em 2022, no valor inferior ao 1 Em substituição ao Des. Eugenio Achille Grandinetti. 2ª Câmara Cível Apelação Cível sob o nº 0005462-88.2022.8.16.0116 limite mínimo estabelecido pela legislação municipal, deve ser extinta por ausência de interesse processual com base no Tema 1.184 do STF e na Resolução nº 547/2024 do CNJ, considerando a inaplicabilidade desses dispositivos às execuções ajuizadas antes de sua vigência. III. Razões de decidir 3. A execução fiscal foi ajuizada antes da publicação do Tema 1184 do STF e da Resolução 547 do CNJ, normas processuais que não possuem efeito retroativo para atos já iniciados. 4. O valor da execução fiscal (R$ 1.466,00) é inferior ao limite mínimo estabelecido pela legislação municipal vigente à época (R$ 2.036,10), configurando baixo valor conforme competência do ente federado. 5. Diante do exposto, mantém-se a extinção da execução fiscal por ausência de interesse processual, em respeito ao princípio da eficiência administrativa e à legislação aplicável. IV. Dispositivo e tese 6. Apelação cível conhecida e desprovida. Tese de julgamento: É legítima a extinção da execução fiscal de baixo valor, ajuizada antes do julgamento do Tema 1184 do STF e da publicação da Resolução 547 do CNJ, quando o valor do débito for inferior ao limite fixado pela legislação municipal vigente à época do ajuizamento, e houver ausência de movimentação útil por mais de um ano sem citação do executado ou, mesmo citado, não forem localizados bens penhoráveis, 2ª Câmara Cível Apelação Cível sob o nº 0005462-88.2022.8.16.0116 respeitada a competência constitucional do ente federado.
+(TJPR - 2ª Câmara Cível - 0005462-88.2022.8.16.0116 - Matinhos -
+ Rel.: DESEMBARGADOR SUBSTITUTO CARLOS MAURICIO FERREIRA -
+ J. 15.07.2026)
+Não procede, ademais, a alegação de que a extinção dependeria também da ausência de movimentação útil por mais de um ano. Essa condição está prevista no art. 1º, § 1º, da Resolução nº 547/2024 do CNJ, editada depois da propositura da execução. A manutenção da sentença não decorre desse dispositivo, mas do fato de que, desde a propositura da ação, o crédito era inferior ao parâmetro fixado pela legislação municipal então vigente.Também não comporta acolhimento o pedido subsidiário de soma dos valores de outras execuções relativas ao mesmo imóvel. O Município não indicou quais processos deveriam ser considerados, nem apresentou elementos que demonstrassem a possibilidade de reunião.
+Cabia ao exequente instruir sua pretensão com os dados necessários à identificação das execuções e à apuração do alegado crédito consolidado. Não se pode transferir ao Poder Judiciário o ônus de pesquisar, entre os processos em tramitação, quais cobranças estariam relacionadas ao mesmo imóvel e se preencheriam os requisitos para reunião.
+Portanto, ausente demonstração mínima dos fatos que sustentam o pedido subsidiário, este deve ser rejeitado.
+Ante o exposto, voto no sentido de negar provimento ao recurso.
