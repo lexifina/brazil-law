@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de MATHEUS ALVES ARAUJO LAMERINHA, condenado por roubo majorado a 6 anos e 8 meses de reclusão e 16 dias-multa (fls. 24/27 - Ação Penal n. 1502540-05.2024.8.26.0616, da 3ª Vara Judicial da comarca de Ferraz de Vasconcelos/SP), no qual se aponta como ato coator acórdão do Tribunal de Justiça de São Paulo que rejeitou a matéria preliminar e negou provimento ao apelo defensivo (fls. 11/23).
+A impetração busca a fixação do regime inicial semiaberto, sob o argumento de que a imposição do regime fechado viola o art. 33, § 2º, b, do Código Penal, a Súmula 440 do Superior Tribunal de Justiça e as Súmulas 718 e 719 do Supremo Tribunal Federal, pois a pena-base foi estabelecida no mínimo legal, sem circunstâncias judiciais desfavoráveis, e as instâncias ordinárias teriam se baseado apenas na gravidade abstrata do delito (fls. 4/10).
+A defesa destaca, ainda, a primariedade e os bons antecedentes do paciente, bem como a menção, pelo Juízo singular, à confissão do réu (fls. 8/10).
+É o relatório.
+O writ comporta acolhimento. Embora se trate de medida substitutiva de recurso próprio, verifico flagrante constrangimento ilegal.
+O Juízo singular estabeleceu o regime inicial fechado pela gravidade do crime e quantidade de pena (fl. 26). O Tribunal de origem manteve o regime mais gravoso por considerá-lo necessário e suficiente para reprovação e prevenção do crime, com referências à comoção social e à necessidade de evitar sensação de impunidade, sem indicar circunstância concreta da conduta que extrapole a normalidade do tipo (fls. 21/23).
+Tal fundamentação destoa do entendimento desta Corte Superior, para a qual, fixada a pena-base no mínimo legal,  a imposição de regime prisional mais gravoso do que o correspondente à sanção aplicada exige fundamentação concreta e idônea, não bastando referências genéricas à gravidade do delito ou às finalidades de reprovação e prevenção da pena (AgRg no HC n. 1.074.596/SP, Ministro Messod Azulay Neto, Quinta Turma, DJEN/CNJ 10/6/2026).
+Assim, considerada a pena definitiva de 6 anos e 8 meses de reclusão e 16 dias-multa (fl. 26), fixada a pena-base no mínimo legal e ausente fundamento concreto para a imposição de regime mais gravoso, é cabível o regime inicial semiaberto, nos termos do art. 33, § 2º, b, do Código Penal.
+Em razão disso, concedo liminarmente a ordem para fixar o regime inicial semiaberto de cumprimento da pena de 6 anos e 8 meses de reclusão, mantidos os demais termos da condenação referente à Ação Penal n. 1502540-05.2024.8.26.0616, da 3ª Vara Judicial da comarca de Ferraz de Vasconcelos/SP.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+DIREITO PENAL. HABEAS CORPUS. ROUBO MAJORADO. REGIME PRISIONAL. PENA-BASE NO MÍNIMO LEGAL. AUSÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. FUNDAMENTAÇÃO GENÉRICA NA GRAVIDADE ABSTRATA. SÚMULAS 440 DO STJ E 718/719 DO STF. FIXAÇÃO DO REGIME SEMIABERTO. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida nos termos do dispositivo.
