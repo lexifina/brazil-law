@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MARIA ROSA DA SILVA à decisão dessa relatoria, assim ementada (e-STJ, fl. 448):
+AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. APELAÇÃO CÍVEL. PASEP. DIFERENÇAS APONTADAS EM CONTA INDIVIDUAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. SUPOSTA VIOLAÇÃO À ENUNCIADO SÚMULAR. DESCABIMENTO. ALEGADA VIOLAÇÃO À LC N. 26/1975. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA. SÚMULA N. 284/STF. RESPONSABILIDADE DO BANCO DO BRASIL. LEGITIMIDADE PASSIVA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR FIRMADO SOB O RITO DOS RECURSOS ESPECIAIS REPETITIVOS (TEMA N. 1.150/STJ). DANO MATERIAL. CONFIGURAÇÃO. FALHA NA PRESTAÇÃO DO SERVIÇO. DANO MORAL. AUSÊNCIA. REVISÃO. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+A embargante defende a existência de omissão quanto à correta aplicação da TJLP e do fator de redução previsto na regulamentação própria do PASEP, sustentando que a tese relativa à TJLP é autônoma em relação à utilização da SELIC.
+Argumenta que "a incidência da Súmula 284/STF relativamente à LC nº 26/1975 não resolve, automaticamente, a alegação autônoma de violação aos arts. 489 e 1.022 do CPC, decorrente da ausência de apreciação da tese relativa à TJLP" (e-STJ, fl. 468).
+Requer, assim, sejam acolhidos os embargos com efeitos infringentes.
+Brevemente relatado, decido.
+Cabe rememorar que essa espécie recursal tem por finalidade suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material, nos termos do art. 1.022 do Código de Processo Civil de 2015, vícios ausentes no caso em apreço.
+A decisão embargada decidiu com fundamentação suficiente a controvérsia, esclarecendo que no tocante à alegada afronta aos arts. 489 e 1.022 do Código de Processo de 2015, que as questões deduzidas no processo foram resolvidas satisfatoriamente, não se identificando vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional, conforme se verifica dos acórdãos às fls. 331-350 e 368-383 (e-STJ).
+Em relação à LC n. 26/1975, não há na fundamentação do recurso a indicação adequada da questão federal controvertida, tendo deixado a parte recorrente de indicar com precisão quais dispositivos legais seriam violados ou objeto de dissídio interpretativo, o que atrai, por conseguinte, o enunciado da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+É pacífico no Superior Tribunal de Justiça o entendimento de que a ausência de indicação, no recurso especial, do dispositivo de lei federal tido por infringido configura deficiência na fundamentação recursal, o que atrai a incidência da Súmula n. 284 do Supremo Tribunal Federal, por analogia.
+Desse modo, observa-se que o verdadeiro intento dos presentes declaratórios é a obtenção de efeito infringente, pretensão que esbarra na finalidade integrativa do recurso em tela, que não se presta à rediscussão da causa já devidamente decidida.
+Como se verifica das razões dos aclaratórios, a insurgente não apresenta nenhum dos vícios elencados no aludido dispositivo normativo.
+Depreende-se das razões apresentadas que a embargante, deveras, não se conforma com a decisão, buscando, por via imprópria, a reforma do resultado do julgamento.
+Todavia, a atribuição de efeitos infringentes aos embargos somente se faz possível em situações excepcionais, notadamente nos casos em que a alteração do julgado decorre da correção de algum dos vícios apontados, o que não é a hipótese dos autos.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. EMBARGOS REJEITADOS.
