@@ -1,0 +1,72 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de KARINE DE CASSIA ESPERANCA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no Habeas Corpus n. 183249-12.2026.8.26.0000.
+Consta dos autos que a paciente encontra-se custodiada preventivamente pela suposta prática do delito de roubo circunstanciado.
+Sustenta a parte impetrante que não houve indícios mínimos de autoria delitiva e que os relatos de violência ocorreram apenas por parte dos corréus. Afirma ainda que a acusada jamais esteve no local dos fatos.
+Alega ainda ausência de fundamentação idônea, bem como dos requisitos autorizadores da prisão preventiva, previstos no art. 312 do Código de Processo Penal.
+Aduz que não houve participação da paciente na prática do roubo, além de cooperação dolosa prevista no art. 29, § 2º, do Código Penal, e que ela deverá apenas responder na medida de sua culpabilidade.
+Afirma que a acusada possui condições pessoais favoráveis, notadamente o fato de ser pessoa jovem, comprovadamente primária e possuidora de excelentes antecedentes, não ostentando qualquer condenação criminal ou registro penal anterior (e-STJ fl. 6).
+Diante disso, busca a defesa:
+a) o deferimento da MEDIDA LIMINAR, com a imediata revogação da prisão preventiva de KARINE DE CÁSSIA ESPERANÇA e a consequente expedição do competente ALVARÁ DE SOLTURA em seu favor, se por outro motivo não estiver presa, com ou sem a fixação das medidas cautelares diversas do artigo 319 do Código de Processo Penal;
+b) a requisição das informações de estilo à autoridade apontada como coatora, com posterior vista dos autos à Douta Procuradoria Geral de Justiça;
+c) no mérito, a CONCESSÃO DEFINITIVA DA ORDEM DE HABEAS CORPUS, confirmando-se a liminar anteriormente concedida, para revogar a prisão preventiva decretada em desfavor da paciente na Ação Penal nº 1503168-25.2026.8.26.0389 da 2ª Vara Criminal de Jacareí/SP, mediante a imposição das medidas cautelares alternativas que este Colegiado julgar convenientes.
+É o relatório.
+Decido.
+No tocante à necessidade da custódia cautelar, persistem os fundamentos que autorizam sua manutenção, porquanto presentes os requisitos previstos nos arts. 312 e 313 do Código de Processo Penal.
+O periculum libertatis foi demonstrado diante da gravidade concreta das condutas imputadas à paciente.
+No caso, o Juízo de origem converteu a prisão em temporária em preventiva, nos seguintes termos (e-STJ fls. 267/268, grifo nosso):
+Da Prisão Preventiva
+8- Trata-se de representação da d. Autoridade Policial pugnando pela conversão da prisão temporária em prisão preventiva de RAFAEL ANTÔNIO DE CARVALHO e KARINE DE CÁSSIA ESPERANÇA, bem como pela decretação da prisão preventiva de WARLEI BARBOSA DE ALMEIDA. Em relação ao indiciado JOAQUIM JACY DA SILVA FONSECA, conquanto a Autoridade Policial tenha noticiado sua segregação anterior por outro feito, o Ministério Público manifestou-se favoravelmente à decretação da prisão preventiva também em seu desfavor neste processo. O Ministério Público manifestou-se pelo deferimento dos pleitos (fls. 154/155).
+DECIDO.
+A materialidade delitiva e os indícios de autoria do crime de roubo majorado pelo concurso de agentes e pelo emprego de arma de fogo (art. 157, § 2º, II, e § 2º-A, I, do Código Penal) encontram-se solidamente demonstrados nos autos. O modus operandi desvelado pela Polícia Civil demonstra a existência de uma estrutura criminosa organizada e especializada em assaltos através de plataformas digitais (Marketplace do Facebook e Instagram).
+A prisão cautelar é medida que se mostra imperiosa e inteiramente justificada no caso em tela, preenchendo os requisitos dos artigos 312 e 313 do Código de Processo Penal. O crime foi marcado por acentuada gravidade concreta, perpetrado durante o repouso noturno, mediante grave ameaça com emprego de arma de fogo e em concurso de quatro agentes. Ademais, há fundados indícios de itinerância criminosa e reiteração delitiva: a investigação apontou nítida correlação do grupo com outro roubo registrado no BO nº 7798/2026 (objeto de procedimento apartado), e na residência de Joaquim foi apreendido o moletom idêntico ao visualizado pelas câmeras de monitoramento do COI no dia do crime. A liberdade dos representados gera instabilidade e traz inegável sobressalto à paz social na comarca, demonstrando que medidas cautelares diversas da prisão (art. 319 do CPP) seriam insuficientes e ineficazes para conter a reiteração das condutas.
+O Tribunal de origem, ao vislumbrar que a soltura da paciente caracterizaria risco à ordem pública, denegou a ordem valendo-se dos seguintes fundamentos (e-STJ fls. 15/16, grifo nosso):
+Decisão de manutenção da prisão preventiva:
+"Vistos. Trata-se de resposta à acusação apresentada pela defesa técnica da ré KARINE DE CÁSSIA ESPERANÇA, em que a defesa requer preliminarmente de revogação da prisão preventiva. Em síntese, a defesa sustenta a ausência dos requisitos do art. 312 do CPP, alegando que a acusada ostenta condições pessoais favoráveis, tais como residência fixa e ocupação lícita. O Ministério Público opinou pelo indeferimento do pedido (fls. 194/195)
+Decido. Compulsando os autos, verifica-se que os motivos que ensejaram a decretação da prisão preventiva permanecem hígidos e contemporâneos. A materialidade delitiva está devidamente demonstrada e há indícios suficientes de autoria em desfavor da acusada Karine. Os elementos informativos indicam que a acusada, em tese, atuava ativamente no grupo criminoso, sendo responsável por receber vantagem financeira para atrair as vítimas para emboscadas. Trata-se de conduta revestida de gravidade concreta acentuada, perpetrada mediante violência e/ou grave ameaça à pessoa. Ademais, constatam-se indícios de atuação reiterada do grupo criminoso sob o mesmo modus operandi, o que evidencia o risco concreto de reiteração delitiva e justifica a segregação cautelar para a garantia da ordem pública, nos moldes previstos no artigo 312 do Código de Processo Pena As condições pessoais eventualmente favoráveis - tais como primariedade, residência fixa e ocupação lícita - não têm o condão de, por si sós, revogar a custódia cautelar quando presentes os requisitos legais que autorizam a prisão preventiva (jurisprudência consolidada do STJ e do STF). Outrossim, diante da gravidade concreta dos fatos e da periculosidade demonstrada, revela-se insuficiente e inadequada a aplicação de qualquer das medidas cautelares alternativas insculpidas no art. 319 do CPP. Diante do exposto, indefiro o pedido de revogação da prisão preventiva e, em consequência, mantenho a prisão cautelar de KARINE DE CÁSSIA ESPERANÇA. No mais, oficie-se à 9ª RAJ, solicitando com urgência a remessa dos autos da medida cautelar nº 1505721-45.2026.8.26.0389, vinculada à presente Ação Penal. Ciência ao Ministério Público. Int. Jacareí, 20 de julho de 2026." (fls. 200/201 dos autos de origem destaquei).
+ ..
+Não se desconhece que a garantia da ordem pública compreende não apenas a prevenção da reiteração delitiva mas também a necessidade de resguardar a paz social diante da gravidade concreta da infração penal.
+A jurisprudência desta Corte consolidou entendimento de que o risco à ordem pública pode ser extraído da habitualidade delitiva do agente ou das circunstâncias concretas que envolvem a prática criminosa.
+No caso, a gravidade concreta das condutas imputadas à paciente evidencia-se pelo modo de execução empregado, consistente, em tese, em indícios de participação em grupo criminoso especializado em assaltos por meio de plataformas digitais. Na hipótese, ficou registrado que "a acusada, em tese, atuava ativamente no grupo criminoso, sendo responsável por receber vantagem financeira para atrair as vítimas para emboscadas."
+Também ficou consignado que o delito foi marcado por acentuada gravidade concreta, com a participação de quatro agentes, durante o repouso noturno, mediante grave ameaça com emprego de arma de fogo. Ademais, "há fundados indícios de itinerância criminosa e reiteração delitiva: a investigação apontou nítida correlação do grupo com outro roubo registrado no BO nº 7798/2026 (objeto de procedimento apartado), e na residência de Joaquim foi apreendido o moletom idêntico ao visualizado pelas câmeras de monitoramento do COI no dia do crime."
+Diante desse cenário, a segregação cautelar revela-se necessária e adequada para garantia da ordem pública.
+No mesmo sentido:
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO. RESISTÊNCIA. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE EM CONCRETO DA CONDUTA. MODUS OPERANDI. FUNDADO RISCO DE REITERAÇÃO DELITIVA. PACIENTE REINCIDENTE. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. ORDEM DENEGADA.
+I. Caso em exame
+1. Habeas corpus impetrado visando à revogação da prisão preventiva, substituída anteriormente por medidas cautelares, sob alegação de ausência dos requisitos para a custódia e condições pessoais favoráveis do paciente.
+II. Questão em discussão
+2. A questão em discussão consiste na verificação da legalidade da manutenção da prisão preventiva do paciente, considerando a gravidade concreta das condutas e a periculosidade do agente.
+III. Razões de decidir
+3. A prisão preventiva é compatível com a presunção de inocência quando não assume natureza de antecipação de pena e está fundamentada em elementos concretos.
+4. A necessidade da prisão preventiva decorre do risco à ordem pública, derivado do modus operandi empregado e do fundado risco de reiteração delitiva (reincidência).
+5. A presença de condições pessoais favoráveis não impede a decretação da prisão preventiva quando há fundamentação idônea.
+IV. Dispositivo
+6. Ordem de habeas corpus denegada
+(HC n. 876.640/RS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 15/10/2024, DJe de 22/10/2024, grifo nosso.)
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. ROUBO MAJORADO. CORRUPÇÃO DE MENORES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. CONTUMÁCIA DELITIVA. CONTEMPORANEIDADE. SUPRESSÃO DE INSTÂNCIA.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. No caso, a prisão preventiva está fundamentada na contumácia delitiva do recorrente, que possui condenação definitiva pela prática do mesmo crime. Ademais, segundo o decreto, no momento de sua prisão, o acusado estava em cumprimento de pena. É inequívoco, dessa forma, o risco de que, solto, perpetre novas condutas ilícitas. Assim, faz-se necessária a segregação provisória como forma de acautelar a ordem pública.
+3. Conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição ou manutenção da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade.
+4. O pleito de falta de contemporaneidade entre as datas dos fatos e do decreto de prisão preventiva não foi debatido pelo Tribunal de origem, o que impede a análise por esta Corte, sob pena de supressão de instância.
+5. Recurso em habeas corpus desprovido.
+(RHC n. 181.735/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/6/2023, DJe de 23/6/2023, grifo nosso.)
+Nos termos do art. 93, inciso IX, da Constituição Federal, as decisões judiciais devem ser devidamente fundamentadas.
+A prisão preventiva, quando lastreada em fundamentos concretos e nos requisitos legais, não afronta os princípios da presunção de inocência e da proporcionalidade, por não representar antecipação de pena, mas medida destinada à tutela da ordem pública e à efetividade da persecução penal, conforme orientação consolidada do Supremo Tribunal Federal (HC n. 211. 105 AgR, Relator Ministro Dias Toffoli, Primeira Turma, julgado em 11/4/2022, DJe de 30/5/2022).
+No caso, o decreto prisional apresentou fundamentação concreta e idônea, com indicação dos elementos de materialidade, dos indícios de autoria e das circunstâncias aptas a justificar a custódia cautelar.
+Não há, portanto, falar em revogação da prisão preventiva, tampouco em substituição por medidas cautelares diversas, as quais se mostram insuficientes diante das peculiaridades do caso concreto.
+No que se refere à alegação de ausência de indícios de autoria, cumpre esclarecer, preliminarmente, que a via estreita do habeas corpus (e do seu recurso ordinário) não comporta o "exame da veracidade do suporte probatório que embasou o decreto de prisão preventiva. Isso porque, além de demandar o reexame de fatos, é suficiente para o juízo cautelar a verossimilhança das alegações, e não o juízo de certeza, próprio da sentença condenatória" (STF, RHC n. 123.812/DF, Relator Ministro Teori Zavascki, Segunda Turma, DJe de 20/10/2014).
+Por fim, quanto à tese de desclassificação para o art. 29, § 2º, do Código Penal, tem-se que ela não foi debatida pelo Tribunal de origem, o que impede a análise por esta Corte Superior, sob pena de indevida supressão de instância.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. NULIDADE DA DECISÃO POR CONTER FUNDAMENTOS NÃO DELINEADOS NA DECISÃO DE 1º GRAU. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que, em habeas corpus, deixou de conhecer de parte as alegações de nulidade por supressão de instância.
+II. QUESTÃO EM DISCUSSÃO
+2. Há uma questão em discussão: (i) definir se é possível o exame, pelo Superior Tribunal de Justiça, de tese não apreciada pelo Tribunal de origem, sem incorrer em supressão de instância.
+III. RAZÕES DE DECIDIR
+3. O STJ não conhece de matéria não apreciada pela instância ordinária, sob pena de supressão de instância e violação ao duplo grau de jurisdição e ao devido processo legal.
+4. A ausência de manifestação prévia do Tribunal de origem sobre a alegada nulidade impede sua análise direta pela Corte Superior.
+IV. DISPOSITIVO
+5. Agravo regimental desprovido.
+(AgRg no RHC n. 221.222/CE, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 24/6/2026, DJEN de 16/7/2026.)
+Ante o exposto, conheço em parte da impetração e, nessa extensão, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
