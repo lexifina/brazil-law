@@ -1,0 +1,88 @@
+DECISÃO
+
+Rosângela Romão da Silva interpusera, inicialmente, com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, recurso extraordinário (eDoc 234) contra acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa se encontra assim redigida (eDoc 227):
+
+*PREVIDÊNCIA PRIVADA. Adesão da autora a Plano de Benefício Definido (PBD) em 05 de fevereiro de 2001, saldado pela ré em março de 2008, com a implantação e nova adesão da autora ao Plano Postalprev. Saldamento e instituição do novo Plano que foi suspenso em março de 2008 por força de decisão liminar proferida em Ação Coletiva ajuizada pelo Sindicato representante da categoria profissional da autora. Recebimento de benefício de Suplementação de Auxílio-Doença (SAD) previsto no PBD pela autora, no período de maio de 2011 a abril de 2014. Superveniente realização de acordo judicial entre o Sindicato e a ré, pactuando a desistência da Ação Coletiva, o saldamento definitivo do PBD e a implantação do PostalPrev desde março de 2008, com previsão de autorização para compensação dos valores de benefícios e de contribuição devidos. Inconformismo da autora em relação ao desconto promovido pela ré em folha de pagamento a partir de agosto de 2015. Pretensão de declaração de inexigibilidade da devolução de valores pagos a título de SAD, com pedido subsidiário de condenação da ré no cumprimento dos termos do acordo em relação à forma de compensação das contribuições e dos benefícios, com o reconhecimento da prescrição dos valores eventualmente pagos a maior, além da condenação da ré ao pagamento de indenização por danos morais em razão de indevida “negativação” do nome da autora nos cadastros de inadimplentes do SCPC e Serasa. SENTENÇA de improcedência. APELAÇÃO da autora, que insiste no acolhimento do pedido inicial, sob a argumentação de que, por se tratar de verba de caráter alimentar, não pode sofrer descontos no benefício, além de não haver prova de que aderiu aos termos do acordo pactuado pelo Sindicato; a ré não efetuou a compensação das contribuições vertidas ao PBD com as contribuições devidas ao Postalprev; ainda que restasse alguma diferença, o desconto não poderia ter sido lançado de uma só vez, devendo ser limitado a, no máximo, dez por cento (10%) do salário base ou do benefício percebido; não bastasse, parte dos valores cobrados foram atingidos pela prescrição trienal. EXAME: ausência de ilegalidade na devolução dos valores recebidos a título de suplementação de auxílio-doença, sequer a pretexto de consubstanciar verba de natureza alimentar, já que foram pagos em caráter provisório. Observância do artigo 302, inciso III, do Código de Processo Civil e do entendimento consolidado pelo C. Superior Tribunal de Justiça, no julgamento do REsp 1.401.560/MT, submetido ao rito dos Recursos Repetitivos, no sentido de que “... A reforma da decisão que antecipa os efeitos da tutela final obriga o autor da ação a devolver os valores dos benefícios previdenciários ou assistenciais recebidos, o que pode ser feito por meio de desconto em valor que não exceda 30% (trinta por cento) da importância de eventual benefício que ainda lhe estiver sendo pago”. Cogitada ausência de anuência da autora em relação ao acordo firmado por seu Sindicato que não pode ser invocada em razão do advento de negociação e decisão que lhe foi desfavorável, ainda mais considerando que se beneficiou da Ação Coletiva em momento pretérito. Valores discutidos que foram recebidos pela autora a título de suplementação de benefício previdenciário em razão de decisão liminar proferida no processo trabalhista nº 0036300-39.2008.5.02.0441. Ré que não poderia exigir a devolução de tais valores enquanto não revogada ou reformada aquela decisão, o que aconteceu em setembro de 2014. Desconto iniciado em agosto de 2015. Prescrição não configurada. Incontroverso recebimento do benefício de Suplementação de Auxílio-Doença (SAD), previsto no Plano de Benefício Definido (PBD), pela autora, no período de maio de 2011 a abril de 2014. Superveniente extinção do processo trabalhista após acordo firmado entre as partes, com a cessão dos efeitos da liminar que havia obstado o saldamento e a transição dos planos de previdência. Benefício SAD não previsto no Plano PostalPrev. Acordo que autorizou a compensação de valores devidos a título de contribuição e de benefícios entre os Planos. Ré que comprovou o estorno dos valores de contribuição vertidos ao PBD, assim como a regular compensação de valores pagos a título de Suplementação de Auxílio-Doença (SAD) com o Benefício de Auxílio-Doença (BAD), devido de maio de 2011 a abril de 2013, e com o Benefício de Aposentadoria por Invalidez (BAI), devido de maio de 2013 a abril de 2014, procedendo à cobrança parcelada do saldo remanescente, tudo conforme previsto no Regulamento do Plano Postalprev e nos termos do acordo homologado judicialmente. Restrição de crédito promovida pela ré contra a autora em razão do inadimplemento de contrato de mútuo, sem qualquer relação com a mudança de plano de previdência, e que consubstanciou mero exercício regular de direito. Sentença mantida. RECURSO NÃO PROVIDO.*
+
+Opostos embargos de declaração, foram rejeitados nos seguintes termos (eDoc 231):
+
+*EMBARGOS DE DECLARAÇÃO. Omissão, contradição ou obscuridade não configuradas. Caráter meramente infringente. Inadequação dos Embargos para fins de prequestionamento. Aplicação do artigo 1.025 do Código de Processo Civil. EMBARGOS REJEITADOS.*
+
+Nas razões do extraordinário, a recorrente alegou violação aos arts. 1º, inciso III; 5º, incisos X e XXXVI; 7º, incisos VI e X; e 194, parágrafo único, inciso IV, todos da Constituição da República. Para melhor compreensão dos argumentos encampados na peça recursal, transcrevem-se os seguintes trechos (eDoc 234, fls. 14, 15, 17, 21 e 24):
+
+[...]
+O primeiro ponto relevante do RECURSO EXTRAORDINÁRIO consiste em decidir se é CONSTITUCIONAL o desconto ou devolução de valores recebidos pela recorrente a título de benefícios previdenciários suplementados/complementados recebidos de boa-fé pelo trabalhador, bem como se é possível a devolução dos valores recebidos, tendo em vista o caráter alimentar do benefício e a incidência das normas constitucionais da DIGNIDADE DA PESSOA HUMANA (ART. 1º , INCISO III , DA CONSTITUIÇÃO), além dos PRINCÍPIOS CONSTITUCIONAIS QUE PROTEGEM OS SALÁRIOS E OS BENEFÍCIOS PREVIDENCIÁRIOS CONTRA O CONFISCO (ART. 7º, X, DA CF), DA IRREDUTIBILIDADE (ART. 7º, INCISO VI C/C ART. 194, PARÁGRAFO ÚNICO, IV, DA CF), além da própria PROTEÇÃO AO DIREITO DE PROPRIEDADE DO TRABALHADOR (ART. 5º, INCISO XXII, DA CF).
+[...]
+A outra questão relevante é saber se é CONSTITUCIONAL, a pretexto de aplicação de normas que permitem o saldo de PLANOS DE PREVIDENCIA, determinar que trabalhadores e segurados que tenham implementado as condições para o recebimento desse tipo de benefício não tenham protegido o direito de receber os seus benefícios segundo as regras contratadas com os referidos PLANOS DE PREVIDENCIÁRIO COMPLEMENTAR e não tenham seus DIREITOS ADQUIRIDOS protegidos segundo as normas dos PLANOS DE BENEFÍCIO CONTRATADOS e vigentes ao tempo da implementação das condições exigidas para o recebimento dos mesmos. Aqui se alega a vulneração do PRINCÍPIO CONSTITUCIONAL DA SEGURANÇA JURÍDICA (ART. 5º, CAPUT, da CF) e da PROTEÇÃO DO DIREITO ADQUIRIDO E DO ATO JURÍDICO PERFEITO, sendo o REGULAMENTO DO PLANO DE BENEFÍCIO um verdadeiro ATO JURÍDICO PERFEITO (art. 5º, inciso XXXVI, da CF) e que deverá ser cumprido, segundo o regramento da data de adesão e protegido, quanto aos seus efeitos, a eventuais alterações em razão do SALDAMENTO de PLANOS DE PREVIDÊNCIA COMPLEMENTAR.
+[...]
+As verbas alimentares previdenciárias ou assistenciais recebidas de boa fé são irrepetíveis, em respeito ao princípio da dignidade da pessoa humana (art. 1º , inciso III , da Constituição), além dos PRINCÍPIOS CONSTITUCIONAIS que protegem os salários e os benefícios previdenciários contra o CONFISCO (art. 7º, X, da CF) e contra a irredutibilidade (art. 7º, inciso VI c/c art. 194, Parágrafo único, IV, da CF), além da própria proteção ao direito de propriedade do trabalhador (art. 5º, inciso XXII, da CF).
+[...]
+Num primeiro momento e com relação à IRRECEPTIBILIDADE DOS VALORES recebidos a título de BENEFÍCIOS PREVIDENCIÁRIOS SUPLEMENTADOS/COMPLEMENTADOS primeiramente é necessário afirmar que os valores recebidos segundo as regras do REGULAMENTO DE BENEFÍCIO DEFINIDO respeitaram o ATO JURÍDICO PERFEITO, ou seja, as condições vigentes ao tempo da ADESÃO ao CONTRATO pela autora, tendo a autora direito adquirido ao recebimento do benefício nos exatos moldes em que recebeu, conforme previsto no artigo 5º, inciso XXXVI, da CF. O fato de ter ocorrido o SALDAMENTO não retira da autora o direito que tinha de ver o contrato cumprido segundo as manifestações de vontade e o REGULAMENTO vigente ao tempo de sua ADESÃO.
+[...]
+1) tendo em vista o caráter alimentar dos valores percebidos pela autora a título de “AUXÍLIO DOENÇA”, impõe-se a reforma do V. Acórdão recorrido para afastar a determinação de devolução dos valores pagos, tendo em vista a violação ao princípio da dignidade da pessoa humana (art. 1º , inciso III, da Constituição), além dos PRINCÍPIOS CONSTITUCIONAIS que protegem os salários e os benefícios previdenciários contra o CONFISCO (art. 7º, X, da CF) e contra a irredutibilidade (art. 7º, inciso VI c/c art. 194, Parágrafo único, IV, da CF), além da própria proteção ao direito de propriedade do trabalhador (art. 5º, inciso XXII, da CF) ;
+2) tendo em vista a VIOLAÇÃO aos PRINCÍPIOS CONSTITUCIIONAIS da SEGURANÇA JURÍDICA E DA PROTEÇÃO AO DIREITO ADQUIRIDO E ATO JURÍDICO PERCEITO (art. 5º, Caput e e inciso XXXVI, da CF), bem como a afronta à SÚMULA 359 DO C. STF, impõe-se a reforma do V. Acórdão recorrido para o reconhecimento do direito da autora, ora recorrente ao recebimento do benefício que foi objeto de desconto indevido por parte da recorrida de acordo com o REGULAMENTO DO PLANO DE PREVIDÊNCIA existente à data da contratação e de acordo com as regras previstas ao tempo em que adquiriu o direito ao recebimento do benefício previdenciário complementado/suplementado, afastando-se os descontos indevidos levados a efeito.
+[...]
+
+Por entender como incidente na espécie o óbice do enunciado n. 282 da Súmula do Supremo Tribunal Federal, o Presidente da Seção de Direito Privado do Tribunal de Justiça do Estado de São Paulo inadmitiu o apelo extremo. Da aludida decisão colhe-se o excerto a seguir (eDoc 253, fl. 1):
+
+[...]
+Incide na espécie a Súmula 282 do E. Supremo Tribunal Federal, já que o prequestionamento apto a preencher o requisito de admissibilidade do recurso extraordinário é aquele em que a matéria controvertida foi debatida e apreciada no tribunal de origem à luz da legislação pertinente, ainda que os dispositivos tidos por violados não constem do acórdão recorrido.
+[...]
+
+Irresignada com a decisão de inadmissibilidade, Rosângela Romão da Silva interpôs agravo em recurso extraordinário (eDoc 260), nos termos do art. 1.042 do Código de Processo Civil. Os argumentos utilizados pela agravante podem ser extraídos dos fragmentos abaixo reproduzidos (eDoc 260, fls. 11, 14, 17 e 19):
+
+[...]
+Nos Embargos de Declaração a omissão quanto à questão constitucional foi objeto do seguinte trecho da petição de EMBARGOS DE DECLARAÇÃO:
+[...]
+E restou rejeitada no julgamento dos Embargos de Declaração sob os seguintes fundamentos:
+[...]
+A questão constitucional discutida no RECURSO EXTRAORDINÁRIO denegado diz respeito à possibilidade de devolução de valores recebidos de boa-fé e de natureza alimentar pela ora recorrente a título de suplementação/complementação de benefícios previdenciários.
+O Tribunal de origem adotou expressamente TESE FAVORÁVEL à devolução de tais valores, consoante se observa do seguinte trecho do V. Acórdão recorrido que evidencia o PREQUESTIONAMENTO da questão constitucional suscitada:
+[...]
+Essa questão igualmente foi PREQUESTIONADA na origem, consoante se observa do seguinte trecho da petição de embargos de declaração:
+[...]
+
+Finalmente, o inconformismo da recorrente ascendeu a esta Corte.
+
+É o relatório. Decido.
+
+Por meio do agravo interposto, a recorrente intentou impugnar o fundamento de que se valeu o Presidente da Seção de Direito Privado do Tribunal de Justiça do Estado de São Paulo para inadmitir o apelo extremo.
+
+Todavia, apesar do esforço argumentativo despendido, o óbice sumular antes invocado mantém-se incólume.
+
+Explico.
+
+Os dispositivos constitucionais mencionados nas peças processuais aviadas pela recorrente, inclusive em embargos de declaração anteriores ao extraordinário, não foram considerados no acórdão recorrido, na medida em que desinfluentes ao desate da questão controvertida.
+
+Diferentemente do que supõe a agravante, ao atendimento do requisito do prequestionamento não basta a evocação de dispositivos constitucionais pelos sujeitos do litígio. Mais que isso, importa que tais dispositivos tenham sido debatidos pelo Tribunal de origem, por ocasião do julgamento alusivo ao acórdão recorrido. A guisa de exemplo, trago à lembrança o precedente firmado no ARE 1.395.028 AgR, cujo acórdão, da minha relatoria, data de 17 de fevereiro de 2025:
+
+AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO. FUNDAMENTO SUFICIENTE NÃO IMPUGNADO NAS RAZÕES DO RECURSO EXCEPCIONAL. SÚMULA 283/STF. MATÉRIA CONSTITUCIONAL. PREQUESTIONAMENTO. AUSÊNCIA. INADMISSIBILIDADE.
+1. Não se admite o acesso à via extraordinária quando a peça recursal não abrange todos os fundamentos, tidos por suficientes, que respaldam o acórdão recorrido. Incidência da Súmula 283/STF.
+2. Ausente o necessário prequestionamento, ante a inexistência de prévio debate da matéria constitucional, incidem os óbices das Súmulas 282 e 356/STF.
+3. Agravo interno desprovido.
+(Grifei)
+
+Não fosse esse o melhor entendimento, a simples alegação de ofensa a determinados dispositivos constitucionais, mesmo que despida de qualquer fundamento defensável, bastaria para abrir a instância extraordinária.
+
+Sobre o chamado prequestionamento ficto, importa considerar que sua configuração está condicionada à aquiescência do tribunal ad quem, mediante pronunciamento que reconheça a existência dos vícios apontados nos embargos de declaração (CPC, art. 1.025). Nesse sentido, o escólio de Leonardo Carneiro da Cunha1:
+
+8. Prequestionamento ficto. Para que caiba o recurso especial ou extraordinário, é preciso que a matéria tenha sido examinada no acórdão recorrido. Em outra palavras, é preciso que haja prequestionamento. Não é necessário que haja expressa menção ao número do artigo ou do dispositivo legal; basta que a matéria contida no dispositivo tenha sido objeto de debate e julgamento pela decisão. Não tendo a matéria sido tratada no acórdão, haverá, então, omissão, sendo cabíveis os embargos de declaração, com vistas a suprir omissão e, assim, obter-se o prequestionamento. Os embargos cabem para suprir a omissão. Suprida a omissão, obtém-se, por consequência, o prequestionamento. Opostos os embargos de declaração, e, ainda assim, não havendo apreciação da matéria pelo tribunal, não haverá, a princípio, prequestionamento. Se a matéria tiver sido suscitada previamente ou se tratar de questão cognoscível de ofício, mas o tribunal não a tiver apreciado, a parte pode opor embargos de declaração para que seja suprida a omissão. Ainda que os embargos sejam rejeitados ou inadmitidos, considera-se caracterizado o prequestionamento. Para isso, é preciso que o tribunal superior considere existente a omissão. A mesma situação ocorre nos casos de contradição, obscuridade ou erro material. Aliás, é possível que o tribunal de origem profira julgamento partindo de premissa falsa, em manifesto erro material. Se, mesmo instado a corrigir o erro material por embargos de declaração, nele persistir, ter-se-á caracterizado o prequestionamento. É necessário, entretanto, que o tribunal superior considere que, efetivamente, houve o erro material, a fim de se ter como configurado o prequestionamento. O art. 1.025 considera existente o prequestionamento com a simples oposição de embargos de declaração, mesmo que a questão não seja apreciada pelo tribunal de origem. É o que se chama de prequestionamento ficto.
+(Grifei)
+
+No caso concreto, com amparo no art. 1.025 do Código de Processo Civil, a contrario sensu, registro o acerto do Tribunal de origem ao rejeitar os aclaratórios, porquanto inexistente qualquer omissão no acórdão embargado, confirmando-se, assim, a ausência de prequestionamento, a teor dos enunciados n. 282 e n. 356 da Súmula do Supremo Tribunal Federal.
+
+Conclui-se, desse modo, que o Presidente da Seção de Direito Privado do Tribunal de Justiça do Estado de São Paulo agiu com acerto ao inadmitir o recurso extraordinário.
+
+Diante do exposto, conheço do agravo, mas a ele nego provimento.
+
+Advirto que o manejo de recurso manifestamente inadmissível, improcedente ou protelatório causa embaraço à tramitação dos feitos, sendo incompatível com o dever de boa-fé processual (CPC, art. 5º). Tal circunstância, inclusive, para além de autorizar, recomenda ao Poder Judiciário a aplicação de multa, nos termos dos arts. 1.021, § 4º, e 1.026, §§ 2º e 3º, ambos do Código de Processo Civil.
+
+Com fundamento no § 11 do art. 85 do CPC, majoro em 10% (dez por cento) a verba honorária fixada pelas instâncias de origem, observados os limites previstos nos §§ 2º e 3º, bem assim o eventual deferimento de gratuidade da justiça.
+
+Publique-se.
+
+Brasília, 28 de setembro de 2026.
+
+Ministro NUNES MARQUES
+Relator
+Documento assinado digitalmente
