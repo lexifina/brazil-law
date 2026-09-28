@@ -1,0 +1,90 @@
+DECISÃO
+
+A União interpusera, inicialmente, com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, recurso extraordinário (eDoc 29) contra acórdão do Tribunal Regional Federal da 1ª Região, cuja ementa se encontra assim redigida (eDoc 21):
+
+ADMINISTRATIVO E PROCESSUAL CIVIL. APELAÇÃO DAS PARTES EXEQUENTES E APELAÇÃO DA UNIÃO. CUMPRIMENTO DE SENTENÇA. TITULO JUDICIAL EXEQUENDO FORMADO EM AÇÃO PROPOSTA POR SINDICATO. DIREITO RECONHECIDO NA COISA JULGADA EXTENSÍVEL À CATEGORIA PROFISSIONAL. LIMITAÇÃO DO DIREITO À EVENTUAL LISTA JUNTADA AOS AUTOS. IMPOSSIBILIDADE. TEMA 823 DO SUPREMO TRIBUNAL FEDERAL. JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. No exame da causa, ressalto a matéria concernente à extensão da legitimidade processual atribuída aos Sindicatos, quando integram relação processual judicializada, no interesse da classe profissional que representam. Essencial, nesse sentido, o entendimento aplicado pelo Supremo Tribunal Federal à essa matéria, em recurso extraordinário julgado com a natureza de repercussão geral, como se verifica: Tema 823 (RE 883.642/AL – Regime de Repercussão Geral) – “Os sindicatos possuem ampla legitimidade extraordinária para defender em juízo os direitos e interesses coletivos ou individuais dos integrantes da categoria que representam, inclusive nas liquidações e execuções de sentença, independentemente de autorização dos substituídos.”.
+2. Nesse sentido, é também o entendimento do Superior Tribunal de Justiça, que reafirma a ampla legitimidade processual dos Sindicatos e expressamente afasta a restrição que poderia resultar de eventual lista de filiados juntada pelo Sindicato no ajuizamento da ação: REsp n. 1.966.058/AL, relator Ministro Afrânio Vilela, Primeira Seção, julgado em 9/10/2024, DJe de 11/10/2024.): “...2. Em razão da norma contida no art. 8º, III, da Constituição Federal, é firme o entendimento de que os sindicatos são substitutos processuais de toda a categoria, estando legitimados a defender em juízo os interesses da classe correspondente. Nessa medida, e nos termos da Súmula 629/STF, não é necessária a autorização expressa do sindicalizado para propositura de qualquer ação, ou para se beneficiar dos efeitos de eventual decisão.”; AgInt no REsp n. 1.997.516/RS, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 7/10/2024, DJe de 10/10/2024: “...1. A coisa julgada formada na ação coletiva abrange todos os servidores da categoria, independentemente da comprovação da condição de filiado ao sindicato autor da ação coletiva....”.
+3. Não é possível limitar o direito oriundo da substituição processual de Sindicato a qualquer procedimento que impeça o exercício dessa função de busca coletiva da jurisdição, a exemplo de eventual exigência de lista ou autorização de sindicalizados, porquanto, nessa hipótese, a coisa julgada produzida estende o direito constituído à categoria profissional.
+4. Recurso de apelação dos servidores públicos exequentes, ora apelantes, provido, para reconhecer legal e legítima a substituição processual do Sindicato em relação à categoria profissional que representa, independentemente de qualquer restrição de procedimento, a exemplo de lista nominal ou autorização, e determinar, em decorrência, a remessa do processo para o Juízo de origem em primeira instância. Ônus da sucumbência invertido, inclusive em relação aos honorários fixados na sentença. Recurso de apelação da União desprovido.
+
+Opostos embargos de declaração, foram rejeitados nestes termos (eDoc 26):
+
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO DA UNIÃO. INEXISTÊNCIA DE OMISSÃO E CONTRADIÇÃO. CUMPRIMENTO DE SENTENÇA. TITULO JUDICIAL EXEQUENDO FORMADO EM AÇÃO PROPOSTA POR SINDICATO. DIREITO RECONHECIDO EM ACÓRDÃO TRANSITADO EM JULGADO. EXTENSÃO À CATEGORIA PROFISSIONAL. LIMITAÇÃO DO DIREITO À EVENTUAL LISTA JUNTADA AOS AUTOS. IMPOSSIBILIDADE. TEMA 823 DO SUPREMO TRIBUNAL FEDERAL. JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. INOVAÇÃO DE MATÉRIAS E TEMAS DE DIREITO. IMPOSSIBILIDADE. ADEQUADO E PONTUAL EXAME DOS ASPECTOS DE RELEVÂNCIA PARA O JULGAMENTO DA LIDE. ACÓRDÃO EMBARGADO CONFIRMADO. EMBARGOS DE DECLARAÇÃO DESPROVIDOS.
+1. Trata-se de embargos de declaração opostos pela União, sob o argumento de que o acórdão embargado é omisso, pelas seguintes razões: a) há ilegitimidade ativa em relação aos exequentes cujos nomes não constaram na peça inicial da ação coletiva que resultou no cumprimento de sentença constante dos autos; b) “O acórdão ora recorrido reconheceu que toda a categoria substituída pela Unafisco/Sindifisco seria legítima para executar o título formado nos autos do processo nº 0010391-24.2006.4.01.3400. Ocorre que, em se mantendo este entendimento por parte da Turma, há clara omissão quanto a questão de ordem pública, qual seja, a existência de múltiplas coisas julgadas formadas nos vários processos ajuizados pelo sindicato com vistas ao recebimento da GIFA em paridade.”; c) é contraditório o acórdão embargado, uma vez que “a sentença recorrida fixou honorários advocatícios por ter posto fim a execução, com a extinção do processo sem resolução do mérito por reconhecimento da ilegitimidade ativa da parte exequente. No entanto, ao reformar a sentença, o acórdão reconhece que os autos devem retornar a primeira instância para regular prosseguimento do cumprimento de sentença, momento em que o juízo enfrentará as demais preliminares apresentadas pela União em sede de impugnação, bem como eventual excesso.”; d) pede a suspensão do processo, sob alegada existência de acordo com os exequentes.
+2. Em contrarrazões, o Sindifisco, afirma: a) o Sindicato ajuizou ação coletiva em favor da categoria que representa, não havendo o apontado vício de legitimidade, em conformidade com o Tema 823 do Supremo Tribunal Federal; b) não se configura a apontada existência de diversos títulos transitados em julgado com o mesmo propósito, porquanto “Não há qualquer lógica jurídica em se determinar a prevalência de título judicial cujo objeto não é idêntico ao dos presentes autos, na fase processual em que se encontra, para que as partes possam propor novos cumprimentos de sentença, em total afronta ao princípio da razoável duração do processo e da segurança jurídica.”; c) foi adequadamente determinada a inversão do ônus da sucumbência, na forma do art. 85, § 1º, do CPC, que autoriza a incidência de honorários no cumprimento de sentença e na execução; d) pede que os embargos de declaração da União não sejam conhecidos, ou desprovidos.
+3. O acórdão embargado examinou e solucionou, pontualmente, os aspectos controversos relevantes para o julgamento da lide, concluindo, de forma fundada, pela inexistência do apontado vício de ilegitimidade ativa do Sindicato autor, com amparo em jurisprudência expressa do Supremo Tribunal Federal e do Superior Tribunal de Justiça, não se ressentido, assim, da alegada omissão e contradição, como se verifica:
+“No exame da causa, ressalto a matéria concernente à extensão da legitimidade processual atribuída aos Sindicatos, quando integram relação processual judicializada, no interesse da classe profissional que representam. Essencial, nesse sentido, o entendimento aplicado pelo Supremo Tribunal Federal à essa matéria, em recurso extraordinário julgado com a natureza de repercussão geral, como se verifica: Tema 823 (RE 883.642/AL – Regime de Repercussão Geral) – “Os sindicatos possuem ampla legitimidade extraordinária para defender em juízo os direitos e interesses coletivos ou individuais dos integrantes da categoria que representam, inclusive nas liquidações e execuções de sentença, independentemente de autorização dos substituídos.”.
+2. Nesse sentido, é também o entendimento do Superior Tribunal de Justiça, que reafirma a ampla legitimidade processual dos Sindicatos e expressamente afasta a restrição que poderia resultar de eventual lista de filiados juntada pelo Sindicato no ajuizamento da ação: REsp n. 1.966.058/AL, relator Ministro Afrânio Vilela, Primeira Seção, julgado em 9/10/2024, DJe de 11/10/2024.): “...2. Em razão da norma contida no art. 8º, III, da Constituição Federal, é firme o entendimento de que os sindicatos são substitutos processuais de toda a categoria, estando legitimados a defender em juízo os interesses da classe correspondente. Nessa medida, e nos termos da Súmula 629/STF, não é necessária a autorização expressa do sindicalizado para propositura de qualquer ação, ou para se beneficiar dos efeitos de eventual decisão.”; AgInt no REsp n. 1.997.516/RS, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 7/10/2024, DJe de 10/10/2024: “...1. A coisa julgada formada na ação coletiva abrange todos os servidores da categoria, independentemente da comprovação da condição de filiado ao sindicato autor da ação coletiva....”.
+3. Não é possível limitar o direito oriundo da substituição processual de Sindicato a qualquer procedimento que impeça o exercício dessa função de busca coletiva da jurisdição, a exemplo de eventual exigência de lista ou autorização de sindicalizados, porquanto, nessa hipótese, a coisa julgada produzida estende o direito constituído à categoria profissional.”.
+4. Quanto ao pedido de suspensão do processo em razão de “acordo ajustado entre partes”, formulado nos embargos de declaração em exame, não se configura qualquer omissão, uma vez que essa pretensão não integrou a lide em momento anterior, e não poderia ser, em consequência, objeto de exame, uma vez que não constava dos autos.
+5. Com efeito, o instrumento de “acordo” consiste em documento assinado, apenas, pela própria União, e que faz referência a processos específicos, sem demonstrar a eventual existência de efetivo ajuste entre as partes. A União, havendo obtido sentença que lhe fora favorável, manteve-se na ação com o objetivo de preservar o entendimento de mérito que entendeu lhe ser conveniente, buscando o desprovimento da apelação das partes exequentes, conduta incompatível com a alegada realização de “acordo” nos autos.
+6. Ainda que comprovada a existência de acordo, os efeitos desse ajuste, em cada processo, e em relação, individualmente, aos substituídos pelo Sindicato, possui ambiente processual adequado perante o Juízo da execução, a ser instruído pelo magistrado de primeira instância, como, a propósito, expressamente determinou o acórdão embargado.
+7. Embargos de declaração não se constituem via processual adequada para se obter novo julgamento da causa, e, menos ainda, quando amparado em argumentos que não foram referidos em momento anterior, no curso do processo.
+8. Na situação dos autos, não merecem acolhimento as razões recursais da União, seja porque foram expressamente analisadas pelo acórdão embargado (matéria afeta à legitimidade processual e aos honorários), seja pelo fato de não serem objeto do recurso de apelação examinado.
+9. Embargos de declaração da União desprovidos, mantendo-se, integralmente, o decidido pelo acórdão embargado, que determinou o envio dos autos ao Juízo de primeira instância, com a finalidade de que a execução tenha curso processual regular.
+
+Nas razões do extraordinário, a recorrente alegou violação aos arts. 5º, inciso XXXVI, e 8º, inciso III, da Constituição da República. Para melhor compreensão dos argumentos encampados na peça recursal, transcrevem-se os seguintes trechos (eDoc 29, fls. 6, 8 e9):
+[...]
+A entidade sindical ajuizou várias ações coletivas, apresentando, em cada uma delas, listagens com servidores diferentes a serem representados no processo. Em todas essas ações, o pedido e a causa de pedir eram os mesmos, com a única diferença de que os servidores listados eram distintos em cada ação.
+Assim, a Unafisco/Sindifisco, embora dispensada da juntada da lista com a relação dos filiados por ocasião do ajuizamento da ação coletiva, apresentou a relação nominal de filiados substituídos à época da instauração do processo de conhecimento.
+Nesse caso, se o sindicato, espontaneamente, opta pela apresentação de rol dos substituídos, a substituição processual restringe-se aos integrantes da categoria identificados na relação apresentada, por nítida vinculação ao princípio da adstrição/congruência, que vincula a atividade jurisdicional em seus exatos termos, conforme alude o artigo 492 do CPC:
+[...]
+Por conta disso, não se pode admitir, após o trânsito em julgado da decisão, a inclusão de novos substituídos, tendo em vista a imutabilidade da eficácia subjetiva da coisa julgada material.
+Formou-se, assim, verdadeira coisa julgada, de forma que acabou o acórdão, dessa forma, ofendendo a autoridade imutável da decisão judicial (art. 5º, XXXVI, CF/88), matéria de ordem pública e de assento constitucional, o que demanda a imediata reforma do acórdão por parte do Supremo Tribunal Federal.
+Veja-se que a própria entidade sindical impôs, espontânea e livremente, o limite subjetivo à coisa julgada.
+[...]
+A discussão que se trava nos autos não é a respeito da legitimidade sindical para atuar como substituto processual, mas da necessidade de respeito aos limites subjetivos delimitados pela coisa julgada.
+[...]
+E, no caso, fica clara a violação à Constituição Federal, na medida em que o acórdão, contrariando os os limites do pedido e os limites subjetivos da coisa julgada, desconsidera a possibilidade de que a entidade sindical possa atuar, de forma coletiva, apenas em benefício de parte de seus substituídos/representados.
+Foi o que ocorreu nos autos, na medida em que a entidade sindical, de forma deliberada, ajuizou ações distintas, mas com mesmo medido e causa de pedir, diferenciadas apenas pela listagem de servidores apresentada junto à inicial.
+Nessa esteira, não se nega que o ente sindical pode propor demanda para beneficiar toda uma categoria, conforme ressai da leitura do art. 8º, III, da Constituição Federal. Não se trata do ponto discutido nos autos.
+Entretanto, “in eo quod plus est semper inest et minus”, ou seja, se o ente sindical pode atuar em prol de toda a categoria, também o pode fazer com relação a parte dela.
+[...]
+Por entender como incidentes na espécie os óbices dos enunciados n. 279 e n. 636 da Súmula do Supremo Tribunal Federal, o Vice-Presidente do Tribunal Regional Federal da 1ª Região inadmitiu o apelo extremo. Da aludida decisão colhe-se o excerto a seguir (eDoc 34, fl. 3):
+
+[...]
+A teor do dispositivo ao final lançado, tem-se que o recurso não merece trânsito pelo não-atendimento integral aos seus pressupostos admissionais, notadamente porque há aparente necessidade de revolver probatório, vedado pela SÚMULAS 007/STJ e 279/STF, e/ou tentativa de superação de jurisprudência atual do STF e/ou não-demonstração de, em tese, frontal violação ao sentido evidente de norma(s) constitucional(is) (na lógica da SÚMULA/STF-636); há aparente manejo do Recurso Extraordinário como se 3ª Instância Recursal ordinária fosse.
+[...]
+
+Irresignada com a decisão de inadmissibilidade, a União interpôs agravo em recurso extraordinário (eDoc 37), nos termos do art. 1.042 do Código de Processo Civil. Os argumentos utilizados pela agravante podem ser extraídos dos fragmentos reproduzidos abaixo (eDoc 37, fls. 6 e 10):
+
+[...]
+De plano, convém esclarecer que a União não pretende a reanálise de matéria fático-probatória com o presente recurso.
+A bem da verdade, o recurso insurge-se quanto à ofensa direta à Constituição Federal.
+[...]
+Ao afastar tal limitação e aplicar de forma automática a tese do Tema 823, o acórdão recorrido acabou por vulnerar diretamente dispositivos constitucionais, notadamente o art. 5º, XXXVI, e o art. 8º, III.
+Assim, verifica-se que o recurso extraordinário da União não objetiva rediscutir fatos ou provas, mas sim a correta aplicação dos dispositivos constitucionais apontados como violados.
+A controvérsia, portanto, é eminentemente jurídica, cujas teses prescindem de revolvimento fático. Não há controvérsia sobre os elementos do caso concreto. A insurgência da União está restrita à aplicação incorreta de dispositivo constitucional sendo inaplicável, portanto, as Súmulas 279 e 636 do STF, bem como a Súmula 7 do STJ.
+[...]
+
+Finalmente, ascenderam os autos a esta Corte.
+
+É o relatório. Decido.
+
+Por meio do agravo interposto, a recorrente logrou impugnar todos os fundamentos de que se valeu o Vice-Presidente do Tribunal Regional Federal da 1ª Região para inadmitir o apelo extremo.
+
+No mérito, registro que o acórdão recorrido se encontra em perfeita sintonia com entendimento já assentado nesta Corte.
+
+Explico:
+
+O Tribunal de origem, ao examinar a controvérsia, concluiu inviável limitar os efeitos da coisa julgada coletiva à lista de substituídos eventualmente juntada aos autos, na medida em que se trata de providência dispensável, considerado o caráter amplo da substituição processual exercida pelo sindicato, capaz de alcançar toda a categoria profissional.
+
+Tal compreensão está de acordo com o entendimento firmado por esta Suprema Corte no Tema 823 da Repercussão Geral, no qual fixada a seguinte tese:
+
+Tema 823/RG
+Os sindicatos possuem ampla legitimidade extraordinária para defender em juízo os direitos e interesses coletivos ou individuais dos integrantes da categoria que representam, inclusive nas liquidações e execuções de sentença, independentemente de autorização dos substituídos.
+
+Diante do exposto, nego provimento ao recurso extraordinário.
+
+Advirto que o manejo de recurso manifestamente inadmissível, improcedente ou protelatório causa embaraço à tramitação dos feitos, sendo incompatível com o dever de boa-fé processual (CPC, art. 5º). Tal circunstância, inclusive, para além de autorizar, recomenda ao Poder Judiciário a aplicação de multa, nos termos dos arts. 1.021, § 4º, e 1.026, §§ 2º e 3º, ambos do Código de Processo Civil.
+
+Por fim, com fundamento no § 11 do art. 85 do Código de Processo Civil, majoro em 10% (dez por cento) a verba honorária fixada pelas instâncias de origem, observados os limites previstos nos §§ 2º e 3º.
+
+Publique-se.
+
+Brasília, 28 de setembro de 2026.
+
+Ministro NUNES MARQUES
+Relator
+Documento assinado digitalmente
