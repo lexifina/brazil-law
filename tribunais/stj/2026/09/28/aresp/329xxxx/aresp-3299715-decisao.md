@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo manejado por Katia Aparecida de Almeida Frata contra decisão que não admiti u recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 356):
+ACIDENTE DO TRABALHO - INFORTÚNIO TÍPICO - MARCENEIRA - LESÃO EM AMBAS AS PERNAS - LAUDO MÉDICO-PERICIAL CONCLUSIVO - AUSÊNCIA DE INCAPACIDADE LABORATIVA ATUAL - BENEFÍCIO ACIDENTÁRIO INDEVIDO.
+Recurso da autora desprovido.
+Opostos embargos de declaração (fls. 245/252), foram rejeitados (fl. 254).
+Nas razões do recurso especial, a parte ora recorrente aponta contrariedade aos arts. 21, I, e 86 da Lei n. 8.213/1991, sustentando que " o  douto magistrado "a quo" e os nobres desembargadores redigiram sentença e acórdão improcedentes, baseando-se unicamente em laudo falho" que " d eixaram de observar as contradições e inconsistências do laudo pericial apontadas" e que "embora o perito judicial tenha relatado em sua conclusão que a Recorrente não possui sequelas incapacitantes, é preciso reforçar que em razão da lesão mencionada, a recorrente padece com limitações, uma vez que padece com limitação de movimentos, perda de força e dor" (fl. 272) e defendendo que "considerando a natureza das normas previdenciárias a impor uma interpretação "in dubio pro misero", não vejo alternativa que não seja reconhecimento do direito ao auxílio-acidente também aos casos de lesão mínima" (fl. 273), como razões para inadmitir o apelo nobre.
+Todavi a, em juízo negativo de admissibilidade, decidiu a Presidente da Seção de Direito Público do TJ-SP negar seguimento o apelo nobre da parte ora agravante "com base no artigo 1.030, inciso I, alínea "b" do Código de Processo Civil" (fl. 284) e inadmiti-lo porque "rever o entendimento firmado pela douta Turma Julgadora implicaria no reexame dos elementos fáticos que serviram de base à decisão recorrida, o que importaria em nova incursão no campo fático, objetivo divorciado do âmbito do recurso especial de acordo com a Súmula 7 da Corte Superior" (fl. 283)
+Irresignada com a decisão da Corte Federal, a parte ora recorrente ofereceu agravo às fls. 291/300, onde impugnou de forma devida e apropriada os fundamentos da inadmissibilidade.
+A Autarquia Previdenciária ora agravada não apresentou suas contrarrazões.
+Rec urso tempestivo.
+Representação regular (fl. 11).
+É O NECESSÁRIO RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Em relação aos dispositivo suscitados por violados, verifico que o Tribunal de origem, soberano na delimitação dos fatos e provas, e após minuciosa avaliação do caso concreto, manteve a sentença de improcedência em desfavor da Autora em relação à ação acidentária ajuizada, pois entendeu que "o laudo encartado aos autos é claro, bem fundamentado e coerente, por isso deve ser acolhido como razão de decidir, não havendo justificativa médica ou jurídica para renovação da prova pericial" (fl. 240). Enfim, registra o acórdão recorrido (fls. 238/240):
+Na perícia médica designada (fls. 107/117), o expert, valendo- se dos exames físicos e complementares existentes nos autos, constatou que a segurada apresenta o seguinte quadro: "Há simetria de movimentos em MMII. Flexão e extensão de joelhos e tornozelos sem alterações ( e simétricos). FM está GV em MMII.".
+E concluiu: "A pericia em questão é especial por alguns aspectos: - Periciada teve um acidente ocupacional (folha 23) com fratura em membros inferiores.
+- Não há perda de mobilidade
+- Não há perda de força musuclar
+SENDO ASSIM , CONCLUÍMOS:
+1) Não se comprova uma incapacidade laboral, aos dados apresentados.
+2) não ficou comprovada uma perda funcional residual (há mobilidade e força muscular funcional e simétrica).
+3) não ficou comprovada uma restrição para uma prática laboral salubre e dentro das normas vigentes." (fls. 116/117).
+Ao responder os quesitos das partes, o perito consignou: "Não há comprovação de uma perda funcional. Não há comprovação de uma sequela ( p. ex, não união, degrau articular, desvio de eixo, osteomielite etc). O exame mostra uma mobilidade simétrica e uma força muscular Grau V." (quesito 4, fl. 112).
+As partes tomaram ciência do laudo e a autora se manifestou às fls. 173/176, requerendo esclarecimentos. Os autos retornaram ao jurisperito, que respondeu as quesitos complementares da obreira, ratificando sua conclusão e acrescentando: "O exame pericial observou uma funcionalidade em articulações mencionadas. Vale dizer, ainda, que não há nenhuma documentação que comprove uma sequela do trauma em questão (p. ex.;. não união, osteomielites, instabilidades, degraus articulares et cetera)." (fls. 183/186).
+(..)
+Enfim, sabe-se que, para a concessão do benefício acidentário, é de rigor a constatação do acidente ou o diagnóstico da doença, a caracterização do nexo causal com o trabalho e a efetiva incapacidade profissional. A ausência de qualquer destes requisitos inviabiliza o deferimento da reparação. No caso, não há incapacidade laborativa a ser indenizada, o que afasta a pretensão deduzida.
+Destarte, não é possível rever toda essa compreensão sem o revolvimento de fatos e provas.
+Assim, a controvérsia não se limita a uma questão puramente de direito, apta a ser examinada em sede de recurso especial e, por isso, inafastável o óbice disciplinado pela Súmula 7/STJ, como bem concluiu a decisão combatida.
+Nesse sentido, inclusive, a jurisprudência (g.n.):
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ACIDENTÁRIA. ACÓRDÃO DO TRIBUNAL DE ORIGEM QUE, COM BASE NAS PROVAS DOS AUTOS E EM EXAME DO LAUDO PERICIAL, RECONHECE A AUSÊNCIA DOS REQUISITOS LEGAIS AUTORIZADORES DA CONCESSÃO DO BENEFÍCIO. ALTERAÇÃO DO JULGADO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. DECISÃO DA PRESIDÊNCIA DO STJ MANTIDA.
+1. Cuida-se, na origem, de Ação Ordinária proposta contra o INSS com vistas à concessão do benefício de auxílio-acidente.
+2. Nos termos do art. 86, caput, da Lei 8.213/1991, o auxílio-acidente será concedido como indenização ao segurado quando, "após consolidação das lesões decorrentes de acidente de qualquer natureza, resultarem sequelas que impliquem redução da capacidade para o trabalho que habitualmente exercia". Assim, para a concessão do benefício, não basta a presença de alguma moléstia. É necessário que lesões sejam consolidadas e resultem em sequela que acarrete diminuição efetiva e permanente da capacidade para a atividade que o segurado habitualmente exercia.
+3. In casu, apesar da alegação do recorrente de que seu Recurso não pretende reexame de prova, mas sim sua revaloração, saliento que não é possível o seguimento do Recurso Especial quando nele visa-se reformar entendimento do Tribunal de origem, que, calcado no suporte fático-probatório dos autos, concluiu pela inexistência de incapacidade laboral apta à concessão do benefício do auxílio-acidente. Óbice intransponível da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+4. A incidência da referida súmula é óbice também para o exame da divergência jurisprudencial, o que inviabiliza o conhecimento do Recurso Especial pela alínea "c" do permissivo constitucional.
+5. Agravo Interno não provido.
+(AgInt nos EDcl no AREsp n. 2.232.670/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/6/2023, DJe de 27/6/2023.)
+ANTE O EXPOSTO, conheço do agravo para não conhecer do recurso especial.
+ EMENTA
