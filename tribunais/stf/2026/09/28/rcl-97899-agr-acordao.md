@@ -1,0 +1,611 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 14
+
+28/09/2026
+
+SEGUNDA TURMA
+
+AG.REG. NA RECLAMAÇÃO 97.899 ALAGOAS
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+BENEF.(A/S)
+BENEF.(A/S)
+BENEF.(A/S)
+BENEF.(A/S)
+BENEF.(A/S)
+ADV.(A/S)
+
+: MIN. GILMAR MENDES
+: CIRO CESAR MELO DE MENESES E OUTRO(A/S)
+: WESCLEY BARBOSA VILELA FERREIRA
+: TRIBUNAL DE JUSTICA DO ESTADO DE ALAGOAS
+: SEM REPRESENTAÇÃO NOS AUTOS
+: RONIELSON DA CONCEICAO SILVA
+: GENIVAL DIONISIO BARBOSA NETO
+: LIBNI MURILLO MACIEL CARVALHO
+: LUCAS SILVA DE MELO
+: TALVANE SILVA MEDEIROS
+: GUSTAVO FERREIRA GOMES
+
+EMENTA: DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO
+PÚBLICO. AGRAVO REGIMENTAL NA RECLAMAÇÃO. ELEIÇÃO DE MESA
+DIRETORA DE CÂMARA MUNICIPAL. BIÊNIO 2027/2028. REALIZAÇÃO DO
+PLEITO COM EXCESSIVA ANTECEDÊNCIA. APLICAÇÃO DOS PRECEDENTES
+FIRMADOS NAS ADIS 7.733 E 7.350. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que
+julgou procedente reclamação constitucional para cassar acórdão do
+Tribunal de Justiça do Estado de Alagoas e conceder a segurança,
+anulando a eleição da Mesa Diretora da Câmara Municipal de
+Olivença/AL para o biênio 2027/2028, realizada em 1º.1.2025, por afronta
+à orientação firmada nas ADIs 7.733 e 7.350.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) saber se a ausência de prévia
+citação dos beneficiários do ato reclamado acarreta nulidade do
+julgamento da reclamação e (ii) saber se os parâmetros fixados nas ADIs
+7.733 e 7.350 são aplicáveis ao presente caso.
+III. RAZÕES DE DECIDIR
+3. Não há nulidade decorrente da ausência de citação dos
+beneficiários do ato reclamado quando lhes é assegurada a possibilidade
+de ampla manifestação por meio de agravo regimental, conforme
+jurisprudência consolidada do Supremo Tribunal Federal.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6339-2A63-8DFC-88FE e senha D0F8-FC36-D204-1C85
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 14
+
+RCL 97899 AGR / AL
+4. É cabível reclamação destinada a garantir a autoridade de decisão
+proferida em controle concentrado de constitucionalidade, sendo
+dispensável o prévio esgotamento das instâncias ordinárias previsto para
+hipóteses relacionadas à repercussão geral.
+5. A orientação firmada nas ADIs 7.733 e 7.350, segundo a qual as
+eleições para a Mesa Diretora referentes ao segundo biênio da legislatura
+devem ocorrer em momento próximo ao início do respectivo mandato,
+decorre dos princípios republicano e democrático e do critério da
+contemporaneidade, aplicando-se igualmente às Câmaras Municipais.
+6. A eleição realizada em 1º.1.2025 para composição da Mesa
+Diretora da Câmara Municipal de Olivença/AL referente ao biênio
+2027/2028 ocorreu com excessiva antecedência em relação ao início do
+mandato, em desacordo com a orientação vinculante desta Corte.
+7. O acórdão reclamado afastou indevidamente a incidência dos
+paradigmas firmados pelo Supremo Tribunal Federal, configurando
+desrespeito à autoridade das decisões proferidas nas ADIs 7.733 e 7.350.
+IV. DISPOSITIVO
+8. Agravo regimental a que se nega provimento.
+ACÓRDÃO:
+A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto do Relator, Ministro Gilmar Mendes.
+Publique-se.
+Brasília, 28 de setembro de 2026.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
+
+2
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6339-2A63-8DFC-88FE e senha D0F8-FC36-D204-1C85
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 14
+
+AG.REG. NA RECLAMAÇÃO 97.899 ALAGOAS
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+BENEF.(A/S)
+BENEF.(A/S)
+BENEF.(A/S)
+BENEF.(A/S)
+BENEF.(A/S)
+ADV.(A/S)
+
+: MIN. GILMAR MENDES
+: CIRO CESAR MELO DE MENESES E OUTRO(A/S)
+: WESCLEY BARBOSA VILELA FERREIRA
+: TRIBUNAL DE JUSTICA DO ESTADO DE ALAGOAS
+: SEM REPRESENTAÇÃO NOS AUTOS
+: RONIELSON DA CONCEICAO SILVA
+: GENIVAL DIONISIO BARBOSA NETO
+: LIBNI MURILLO MACIEL CARVALHO
+: LUCAS SILVA DE MELO
+: TALVANE SILVA MEDEIROS
+: GUSTAVO FERREIRA GOMES
+
+RELATÓRIO
+O SENHOR MINISTRO GILMAR MENDES (RELATOR): ): Tratase de agravo regimental interposto contra decisão monocrática que julgou
+procedente a reclamação para reformar o ato reclamado e conceder a
+segurança pleiteada para anular a eleição da Mesa Diretora da Câmara
+Municipal de Olivença/AL para o biênio 2027/2028, realizada em 1°.1.2025,
+em atenção à orientação firmada nas ADIs 7.733 e 7.350.
+Em suas razões recursais, os agravantes sustentam, em síntese,
+nulidade decorrente da ausência de citação e do prejuízo concreto dela
+resultante. Alegam, ainda, que a reclamação não pode ser utilizada como
+sucedâneo recursal e apontam que se encontrava pendente de apreciação
+o recurso extraordinário interposto em face do acórdão de origem, objeto
+desta reclamação.
+Argumentam ausência de aderência estrita entre os paradigmas
+invocados e o ato reclamado e destacam que “No caso concreto, a r. decisão
+aqui agravada reconheceu que os paradigmas originariamente diziam respeito às
+Assembleias Legislativas, mas concluiu que a orientação seria igualmente aplicável
+às Câmaras Municipais em razão dos princípios republicano e democrático.”
+(eDOC 18, p. 21)
+Por fim, postulam o conhecimento do Agravo Interno, com concessão
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código FBC4-D3E1-2DF0-EC8F e senha D388-B47B-D355-0689
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 14
+
+RCL 97899 AGR / AL
+de efeito suspensivo para impedir a execução da decisão agravada até o
+julgamento colegiado. No mérito, pretendem a nulidade da decisão
+monocrática por ausência de citação dos beneficiários do ato reclamado e
+consequente violação ao contraditório e à ampla defesa, com retorno do
+feito à fase de citação e apresentação de defesa.
+Subsidiariamente, requerem a improcedência da Reclamação, por
+ausência de aderência estrita aos paradigmas invocados e inadequação da
+via reclamatória, restabelecendo-se o acórdão do TJ/AL.
+É o relatório.
+
+2
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código FBC4-D3E1-2DF0-EC8F e senha D388-B47B-D355-0689
+
+Supremo Tribunal Federal
+Voto - MIN. GILMAR MENDES
+
+Inteiro Teor do Acórdão - Página 5 de 14
+
+AG.REG. NA RECLAMAÇÃO 97.899 ALAGOAS
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+BENEF.(A/S)
+BENEF.(A/S)
+BENEF.(A/S)
+BENEF.(A/S)
+BENEF.(A/S)
+ADV.(A/S)
+
+: MIN. GILMAR MENDES
+: CIRO CESAR MELO DE MENESES E OUTRO(A/S)
+: WESCLEY BARBOSA VILELA FERREIRA
+: TRIBUNAL DE JUSTICA DO ESTADO DE ALAGOAS
+: SEM REPRESENTAÇÃO NOS AUTOS
+: RONIELSON DA CONCEICAO SILVA
+: GENIVAL DIONISIO BARBOSA NETO
+: LIBNI MURILLO MACIEL CARVALHO
+: LUCAS SILVA DE MELO
+: TALVANE SILVA MEDEIROS
+: GUSTAVO FERREIRA GOMES
+VOTO
+
+O SENHOR MINISTRO GILMAR MENDES (RELATOR): No
+agravo regimental, não ficou demonstrado o desacerto da decisão
+agravada.
+Verifico que as alegações das partes são impertinentes e decorrem de
+mero inconformismo com a decisão adotada por este Tribunal, uma vez
+que os agravantes não trouxeram argumentos suficientes a infirmá-la,
+visando apenas à rediscussão da matéria já decidida de acordo com a
+jurisprudência desta Corte.
+Preliminarmente, quanto à alegada nulidade decorrente da
+inobservância do contraditório, em razão da ausência de citação da parte
+beneficiária para apresentação de contestação, nos termos do art. 989, III,
+do CPC, não lhe assiste razão.
+Isso porque, conforme o princípio pas de nulitté sans grief, é necessária
+demonstração de prejuízo acerca das nulidades suscitadas, o que não
+ocorreu no caso em exame (RMS 28.490 AgR, Rel. Min. Roberto Barroso,
+Tribunal Pleno, julgado em 8.8.2017).
+Com efeito, as razões que poderiam ter sido deduzidas na
+contestação, a fim de influir no julgamento desta reclamação, foram
+devidamente apresentadas neste recurso. Assim, não há qualquer
+prejuízo à parte recorrente.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E653-E781-02F6-2C7E e senha 70CA-EDC4-ECF9-E8ED
+
+Supremo Tribunal Federal
+Voto - MIN. GILMAR MENDES
+
+Inteiro Teor do Acórdão - Página 6 de 14
+
+RCL 97899 AGR / AL
+
+No mais, não é necessário, no caso dos autos, o prévio esgotamento
+de instâncias ordinárias previsto no art. 988, § 5º, II, do CPC, tendo em
+vista que se trata de reclamação na qual se busca garantir a observância
+de decisão do Supremo Tribunal Federal proferida em sede de controle
+concentrado de constitucionalidade, e não de recurso extraordinário com
+repercussão geral reconhecida.
+Posto isso, conforme assentado na decisão ora agravada, o Plenário
+do Supremo Tribunal Federal, no julgamento das ADIs 7.733, de minha
+relatoria, e 7.350, Rel. Min. Dias Toffoli, firmou orientação segundo a qual
+as eleições para a Mesa Diretora do Poder Legislativo referentes ao
+segundo biênio da legislatura devem ser realizadas a partir do mês de
+outubro do ano anterior ao início do respectivo mandato, em observância
+aos princípios republicano e democrático, bem como ao critério da
+contemporaneidade.
+Nesse sentido, confira-se a ementa dos paradigmas invocados:
+“Ação direta de inconstitucionalidade. Mesa Diretora da
+Assembleia Legislativa do Estado do Rio Grande do Norte.
+Antecipação das eleições. Inconstitucionalidade. Modulação de
+efeitos. Procedência do pedido. I. Caso em exame 1. Ação direta
+de inconstitucionalidade proposta em face do art. 11 do
+Regimento Interno da Assembleia Legislativa do Estado do Rio
+Grande do Norte. II. Questão em discussão 2. A questão em
+discussão consiste em saber se é constitucional a realização, a
+qualquer tempo, das eleições para composição da Mesa
+Diretora do Poder Legislativo para o segundo biênio da
+legislatura. III. Razões de decidir 3. A realização de eleições
+próximas ao início do respectivo mandato configura, para além
+de ferramenta democrática, mecanismo de concretização do
+princípio representativo, da periodicidade do pleito e da
+contemporaneidade.
+4.
+Interpretação
+sistemática
+da
+
+2
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E653-E781-02F6-2C7E e senha 70CA-EDC4-ECF9-E8ED
+
+Supremo Tribunal Federal
+Voto - MIN. GILMAR MENDES
+
+Inteiro Teor do Acórdão - Página 7 de 14
+
+RCL 97899 AGR / AL
+Constituição Federal leva à compreensão de que as eleições da
+Mesa Diretora do Poder Legislativo, para o segundo biênio da
+legislatura, devem realizar-se a partir do mês de outubro do
+ano anterior ao início do mandato pertinente, em respeito à
+expressão política da composição atual da casa. 5. Presença, no
+caso, dos requisitos autorizadores da modulação de efeitos, nos
+termos do art. 27 da Lei 9.868/1999. IV. Dispositivo 6. Pedido
+julgado procedente, com modulação de efeitos. 7. Determinada
+a realização de nova eleição para composição da Mesa Diretora
+da Assembleia Legislativa do Estado do Rio Grande do Norte
+para o biênio 2025-2026”. (ADI 7733, de minha relatoria,
+Tribunal Pleno, DJe 28.11.2024; grifo nosso)
+“Ação direta de inconstitucionalidade. Medida cautelar.
+Referendo. Conversão. Julgamento de mérito. Emenda nº 48/22
+à Constituição do Estado do Tocantins. Eleições concomitantes
+da mesa diretora da Assembleia Legislativa para o primeiro e o
+segundo biênios. Inconstitucionalidade. Violação dos princípios
+republicano e democrático. Ação direta julgada procedente. 1.
+O Supremo Tribunal Federal pacificou que os estados não
+estão totalmente livres para definirem qualquer forma de
+eleição para os cargos diretivos dos respectivos parlamentos,
+devendo observar as balizas impostas pelos princípios
+republicano e democrático. Do mesmo modo, a autonomia dos
+estados na definição do momento em que devem ocorrer as
+eleições para os cargos de suas mesas deve ser exercida dentro
+das balizas constitucionais. Precedentes: ADI nº 6.685/MA,
+Tribunal Pleno, Rel. Min. Alexandre de Moraes, DJe de 5/11/21;
+ADI nº 6.707/ES, Tribunal Pleno, Rel. Min. Ricardo
+Lewandowski, red. do ac. Min. Gilmar Mendes, DJe de 6/12/21;
+ADI nº 6.704/GO, Tribunal Pleno, Rel. Min. Rosa Weber, DJe de
+17/11/21; ADI nº 6.708/DF, Tribunal Pleno, Rel. Min. Nunes
+Marques, DJe de 2/9/22. 2. Ao estabelecer a periodicidade das
+eleições para os cargos do poder executivo e do legislativo, a
+
+3
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E653-E781-02F6-2C7E e senha 70CA-EDC4-ECF9-E8ED
+
+Supremo Tribunal Federal
+Voto - MIN. GILMAR MENDES
+
+Inteiro Teor do Acórdão - Página 8 de 14
+
+RCL 97899 AGR / AL
+Constituição de 1988 previu que elas ocorram em data próxima
+ao
+início
+do
+novo
+mandato,
+estabelecendo
+a
+contemporaneidade entre a eleição e o mandato respectivo
+(arts. 28; 29, inciso II; 77 e 81, § 1º, da CF/88). Também as
+eleições para as mesas das casas legislativas federais devem ser
+contemporâneas ao início do respectivo biênio (art. 57, § 4º, da
+CF/88). Não há no texto constitucional nenhuma norma que se
+assemelhe ao que previu o dispositivo questionado, isto é, que
+antecipe de forma tão desarrazoada a escolha de eleitos para
+um dado mandato e concentre em um único momento a escolha
+de duas “chapas” distintas para os mesmos cargos. 3. A
+Constituição de 1988 qualifica o voto periódico como cláusula
+pétrea (art. 60, § 4º, inciso II), enquanto mecanismo de
+alternância do poder e de promoção do pluralismo político,
+evitando a perpetuação de determinado grupo por período
+indeterminado. A concentração das eleições de duas chapas
+distintas para os mesmos cargos em um único momento
+suprime o momento político de renovação que deve ocorrer
+após o transcurso de um mandato. Acaba-se por privilegiar o
+grupo político majoritário ou de maior influência no momento
+do pleito único, o qual muito facilmente pode garantir dois
+mandatos consecutivos. 4. O princípio representativo impõe
+que o poder político seja exercido por representantes que
+espelhem as forças políticas majoritárias na sociedade. Daí que,
+para cada novo mandato, deve haver uma nova manifestação
+de vontade pelos eleitores, em momento próximo ao início do
+respectivo mandato, como forma de garantir que os eleitos
+refletirão a conjuntura presente e os anseios da maioria. No
+caso em análise, a mesa diretora do segundo biênio eleita no
+início da legislatura pode vir a não refletir as forças políticas
+majoritárias presentes no início do respectivo mandato,
+vulnerando o ideal representativo. 5. Depreende-se da
+jurisprudência do TSE que o corpo eleitoral habilitado a votar
+no momento que precede o exercício do mandato tem o direito
+constitucional de escolher seu governante (art. 1º da
+
+4
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E653-E781-02F6-2C7E e senha 70CA-EDC4-ECF9-E8ED
+
+Supremo Tribunal Federal
+Voto - MIN. GILMAR MENDES
+
+Inteiro Teor do Acórdão - Página 9 de 14
+
+RCL 97899 AGR / AL
+Constituição de 1988) (MS nº 47.598, Rel. Min. Aldir Passarinho
+Junior, DJe de 18/6/10; MS nº 4.228/SE, Rel. Min. Henrique
+Neves, DJe de 1º/9/09). O raciocínio aplica-se à democracia
+interna das casas legislativas, sendo certo que os parlamentares
+que compõem a casa legislativa no início do segundo biênio
+têm o direito de decidir acerca da composição da respectiva
+mesa. 6. Ação direta julgada procedente”. (ADI 7350, Rel. Min,
+DIAS TOFFOLI, Tribunal Pleno, DJe 07.05.2024; grifo nosso)
+
+Essa orientação foi posteriormente ratificada pelo Plenário desta
+Corte em diversos julgados, dentre os quais se destacam a ADI 7.737, Rel.
+Min. Flávio Dino, DJe 16.7.2025; as ADIs 7.753 e 7.732, Rel. Min. Cristiano
+Zanin, DJe 9.9.2025 e 21.10.2025, respectivamente; e a ADI 7.734, Rel. Min.
+Alexandre de Moraes, DJe 28.4.2026.
+Destaco que, embora os paradigmas invocados tratem das Mesas
+Diretoras de Assembleias Legislativas, a orientação neles firmada aplicase igualmente às Câmaras Municipais, por decorrer dos princípios
+republicano e democrático e do critério da contemporaneidade,
+parâmetros constitucionais que devem ser observados por todas as Casas
+Legislativas. Inexistem, na espécie, elementos aptos a justificar solução
+diversa.
+Pois bem.
+Nos termos já consignados, extrai-se dos autos que o Juízo de
+primeiro grau concedeu a segurança pleiteada para anular a sessão da
+Câmara de Vereadores do Município de Olivença/AL que elegeu a Mesa
+Diretora para o biênio 2027/2028. Para tanto, reconheceu a
+incompatibilidade do art. 12, § 2º, do Regimento Interno da Casa
+Legislativa com a orientação firmada pelo STF na ADI 7.733, por permitir
+a realização da eleição para o segundo biênio em momento
+excessivamente antecipado. Confira-se trecho da sentença:
+“No caso em tela, observa-se que o impetrante argumenta
+
+5
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E653-E781-02F6-2C7E e senha 70CA-EDC4-ECF9-E8ED
+
+Supremo Tribunal Federal
+Voto - MIN. GILMAR MENDES
+
+Inteiro Teor do Acórdão - Página 10 de 14
+
+RCL 97899 AGR / AL
+a inconstitucionalidade da antecipação da eleição da Mesa
+Diretora para o segundo biênio de maneira muito anterior ao
+início do mandato, o qual teve por base o julgamento do
+Supremo Tribunal Federal na ADI 7733 que declarou a
+inconstitucionalidade, sem redução de texto, do art. 11 do
+Regimento Interno da Assembleia Legislativa do Estado do Rio
+Grande do Norte, no sentido de excluir qualquer interpretação
+que permita a realização de eleições, para composição da Mesa
+Diretora para o segundo biênio da legislatura, antes do mês de
+outubro que antecede o início de tal biênio.
+Pois bem. De inicio, consigne-se que é possível a
+declaração incidental de inconstitucionalidade, em mandado de
+segurança, de quaisquer leis ou atos normativos do Poder
+Público, desde que a controvérsia constitucional não figure
+como pedido, mas sim como causa de pedir, fundamento ou
+simples questão prejudicial, indispensável à resolução do litígio
+principal. (RMS 31.707/MT, Rel. Ministra DIVA MALERBI
+(DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO),
+SEGUNDA TURMA, julgado em 13/11/2012, DJe 23/11/2012).
+O Regimento Interno da Câmara de Vereadores do
+Município de Olivença/AL, o qual foi modificado pela
+Resolução nº 4/2024, dispõe da seguinte maneira sobre a eleição
+do biênio subsequente:
+(...)
+§2º. A eleição para renovação da Mesa para o biênio
+seguinte realizar-se-á a qualquer tempo, desde que os
+vereadores sejam convocados para esta finalidade em sessão ou
+por Edital, em caso de convocação por Edital será com prazo de
+dez dias no mínimo de antecedência, empossando-se os eleitos
+em 1º de janeiro do biênio seguinte. Grifei
+A Constituição Federal, ao disciplinar a periodicidade das
+eleições para os cargos do Poder Executivo e Legislativo,
+
+6
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E653-E781-02F6-2C7E e senha 70CA-EDC4-ECF9-E8ED
+
+Supremo Tribunal Federal
+Voto - MIN. GILMAR MENDES
+
+Inteiro Teor do Acórdão - Página 11 de 14
+
+RCL 97899 AGR / AL
+determina que estas ocorram em datas próximas ao início dos
+novos mandatos, assegurando, assim, a contemporaneidade
+entre o pleito eleitoral e o mandato respectivo (arts. 28; 29,
+inciso II; 77 e 81, § 1º, da CF/88).
+Portanto, em análise ao artigo 12, § 2º, do Regimento
+Interno da Câmara de Vereadores do Município de
+Olivença/AL, verifica-se que referido dispositivo mostra-se
+inconstitucional, considerando que, se a duração dos mandatos
+é estabelecida diretamente pela Constituição Federal (art. 57, §
+4º, da CF/88), tal previsão constitucional vincula, por
+consequência, também as normas eleitorais relacionadas ao
+processo de escolha dos titulares de mandatos de menor
+duração, como o biênio conferido a cada Mesa Diretora,
+impondo-se, portanto, a observância da contemporaneidade
+entre o momento do pleito e aquele em que o cargo ou função
+serão efetivamente exercidos.
+Cumpre salientar, ainda, que a antecipação excessiva da
+eleição da Mesa Diretora da Câmara Municipal para o
+segundo biênio compromete a adequada representação da
+vontade da maioria dos parlamentares no momento oportuno
+para ocorrer a alternância nos referidos cargos, o que se revela
+em dissonância com os parâmetros constitucionais que
+norteiam o controle de constitucionalidade da matéria”.
+(eDOC 7, p. 5-6; grifo nosso)
+
+Contudo, o Tribunal de Justiça do Estado de Alagoas deu
+provimento ao recurso de apelação para denegar a segurança.
+Na ocasião, assentou que inexiste orientação vinculante específica do
+Supremo Tribunal Federal aplicável à eleição de Mesa Diretora de
+Câmara Municipal, concluindo ser inviável a invalidação do pleito com
+fundamento em interpretação extensiva dos entendimentos firmados por
+esta Corte. Confira-se trecho do acórdão reclamado:
+7
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E653-E781-02F6-2C7E e senha 70CA-EDC4-ECF9-E8ED
+
+Supremo Tribunal Federal
+Voto - MIN. GILMAR MENDES
+
+Inteiro Teor do Acórdão - Página 12 de 14
+
+RCL 97899 AGR / AL
+
+“A tese sustentada pelos impetrantes funda-se,
+essencialmente, em interpretação extensiva de precedentes do
+Supremo Tribunal Federal que versam sobre matérias
+correlatas, notadamente a vedação de reeleições sucessivas e a
+fixação de marcos temporais para a escolha das mesas diretoras.
+Todavia, não se verifica, no caso em exame, identidade
+fática ou jurídica suficiente entre os paradigmas invocados e a
+situação concreta, tampouco a existência de orientação
+vinculante específica que, de forma clara e direta, impeça a
+realização da eleição na forma adotada pela Câmara Municipal
+de Olivença.
+Ainda que se reconheça a existência de precedentes da
+Corte Suprema sobre a disciplina da composição das mesas
+diretoras, cumpre destacar que tais julgados foram firmados em
+contextos próprios, marcados por peculiaridades relacionadas,
+sobretudo, à reeleição sucessiva ou à perpetuação no poder, não
+sendo possível extrair, de maneira automática e generalizada,
+vedação absoluta à realização de eleição antecipada,
+especialmente na ausência de comando vinculante expresso
+nesse sentido.
+A adequada aplicação de precedentes judiciais, em
+especial aqueles emanados do Supremo Tribunal Federal, exige
+não apenas a similitude temática, mas a efetiva correspondência
+entre os contextos fático-jurídicos analisados, sob pena de
+indevida ampliação de sua ratio decidendi. No caso dos autos, a
+pretensão deduzida pelos impetrantes apoia-se em leitura
+ampliativa desses julgados, sem que se demonstre, de forma
+inequívoca, a existência de fundamento determinante
+diretamente aplicável à hipótese concreta.
+Não há, portanto, orientação vinculante específica, clara e
+categórica, que vede a realização da eleição da Mesa Diretora
+da Câmara Municipal de Olivença/AL para o biênio
+
+8
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E653-E781-02F6-2C7E e senha 70CA-EDC4-ECF9-E8ED
+
+Supremo Tribunal Federal
+Voto - MIN. GILMAR MENDES
+
+Inteiro Teor do Acórdão - Página 13 de 14
+
+RCL 97899 AGR / AL
+subsequente em momento anterior ao início do respectivo
+período legislativo, sobretudo quando observadas as
+disposições regimentais e ausentes vícios formais ou indícios de
+abuso de poder”. (eDOC 12, p. 10-11)
+
+Diante desse contexto, ficou evidenciado que o acórdão recorrido foi
+proferido em descompasso com a orientação firmada por esta Suprema
+Corte sobre a matéria.
+Com efeito, a eleição realizada em 1º.1.2025 para a composição da
+Mesa Diretora referente ao biênio 2027/2028 ocorreu com excessiva
+antecedência em relação ao início do respectivo mandato, em manifesta
+afronta ao critério da contemporaneidade estabelecido nos paradigmas
+invocados.
+Verifica-se, portanto, inequívoca aderência entre a controvérsia dos
+autos e os precedentes desta Corte, impondo-se o reconhecimento da
+incompatibilidade do ato impugnado com a orientação firmada nas ADIs
+7.733 e 7.350.
+Desse modo, não verifico qualquer reparo a ser feito na decisão
+agravada, a qual deve ser integralmente mantida.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+
+9
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E653-E781-02F6-2C7E e senha 70CA-EDC4-ECF9-E8ED
+
+Supremo Tribunal Federal
+Extrato de Ata - 28/09/2026
+
+Inteiro Teor do Acórdão - Página 14 de 14
+
+SEGUNDA TURMA
+
+EXTRATO DE ATA
+
+AG.REG. NA RECLAMAÇÃO 97.899
+PROCED. : ALAGOAS/AL
+RELATOR(A): MIN. GILMAR MENDES
+AGTE.(S): Ciro Cesar Melo de Meneses e Outro(a/s)
+ADV.(A/S): WESCLEY BARBOSA VILELA FERREIRA (12601/AL)
+AGDO.(A/S): TRIBUNAL DE JUSTICA DO ESTADO DE ALAGOAS
+ADV.(A/S): SEM REPRESENTAÇÃO NOS AUTOS
+BENEF.(A/S): RONIELSON DA CONCEICAO SILVA
+BENEF.(A/S): GENIVAL DIONISIO BARBOSA NETO
+BENEF.(A/S): LIBNI MURILLO MACIEL CARVALHO
+BENEF.(A/S): LUCAS SILVA DE MELO
+BENEF.(A/S): TALVANE SILVA MEDEIROS
+ADV.(A/S): GUSTAVO FERREIRA GOMES (5865/AL)
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto do Relator, Ministro Gilmar Mendes.
+Segunda Turma, Sessão Virtual de 18.9.2026 a 25.9.2026.
+Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes,
+Dias Toffoli, Nunes Marques e André Mendonça.
+Thiago Fernandes Lins
+Secretário da Segunda Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 39FF-5DB4-1BAD-BB25 e senha 6153-37D2-22B9-9C00
