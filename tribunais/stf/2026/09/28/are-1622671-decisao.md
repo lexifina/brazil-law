@@ -1,0 +1,49 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. ISSQN. BASE DE CÁLCULO. PRETENSÃO DE EXCLUSÃO DOS VALORES RELATIVOS A TRIBUTOS FEDERAIS E AO PRÓPRIO IMPOSTO. APENAS LEI COMPLEMENTAR NACIONAL PODE DETERMINAR A EXCLUSÃO DE VALORES DA BASE DE CÁLCULO DO ISSQN. PRECEDENTES. NEGADO SEGUIMENTO AO AGRAVO.
+
+DECISÃO: Trata-se de agravo nos autos objetivando a reforma de decisão que inadmitiu recurso extraordinário interposto com base na alínea “a” do permissivo constitucional contra acórdão que dispôs:
+
+“DIREITO TRIBUTÁRIO. APELAÇÃO. ISS. RECURSO NÃO PROVIDO.
+I. Caso em Exame.
+1. Apelação interposta contra sentença que denegou a segurança, reconhecendo a regularidade da inclusão do ISS, PIS e COFINS na base de cálculo do ISS. A impetrante busca afastar tal inclusão e obter compensação dos valores recolhidos nos últimos cinco anos.
+II. Questão em Discussão.
+2. A questão em discussão consiste em determinar se é legal a inclusão do ISS sobre sua própria base de cálculo, bem como dos tributos federais Pis e Cofins, conforme a legislação vigente e a interpretação do E. STF.
+III. Razões de Decidir.
+3. O art. 7º da Lei Complementar nº 116/2003 estabelece que a base de cálculo do ISS é o preço do serviço, excluindo apenas o valor dos materiais fornecidos pelo prestador de serviços.
+4. O E. STF, na ADPF nº 190, fixou a tese de que é inconstitucional lei municipal que exclua valores da base de cálculo do ISS fora das hipóteses previstas em lei complementar federal.
+5. Não há direito à compensação dos valores recolhidos, dada a regularidade da exigência tributária.
+6. Sentença denegatória mantida.
+IV. Dispositivo.
+7. Recurso não provido.”
+
+Os embargos de declaração opostos foram desprovidos.
+Nas razões do apelo extremo, a parte recorrente argui preliminar de repercussão geral e, no mérito, violação aos artigos 5º, inciso II; 145, § 1º; 146, inciso III, “a”; 150, inciso I; e 156, inciso III, da Constituição Federal.
+Foram apresentadas contrarrazões recursais.
+O Tribunal a quo não admitiu o recurso extraordinário, por entender que incidiriam os óbices das Súmulas 279 e 280 do STF.
+
+É o relatório. DECIDO.
+
+O recurso não merece prosperar.
+Com feito, é assente na Corte que apenas lei complementar nacional pode determinar a exclusão de valores da base de cálculo do ISSQN. Nesse diapasão, revela-se inviável a pretensão de obter na via judicial a exclusão, da base de cálculo do ISSQN, de valores relativos a tributos federais e ao próprio imposto. Nesse sentido, cito as ementas infra:
+
+“Direito Tributário. Agravo interno em recurso extraordinário com agravo. ISS. Base de cálculo. Pretensão de exclusão de tributos federais. Impossibilidade. Jurisprudência de Supremo Tribunal Federal. I. Caso em exame. 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário com agravo, o qual tem por objeto acórdão que manteve sentença de improcedência do pedido. II. Questão em discussão. 2. Preenchimento dos pressupostos de admissibilidade do recurso extraordinário com agravo. III. Razão de decidir. 3. A petição de agravo não trouxe novos argumentos aptos a desconstituir a decisão agravada, a qual deve ser mantida pelos seus próprios fundamentos. 4. O acórdão recorrido está alinhado ao entendimento do Supremo Tribunal Federal. Precedente. IV. Dispositivo. 5. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência. 6. Agravo interno a que se nega provimento, com a aplicação da multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.021, § 4º, do CPC/2015.” (ARE 1.511.967-AgR, Plenário, Rel. Min. Luís Roberto Barroso - Presidente, DJe de 10/10/2024)
+
+“Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. 3. Imposto sobre Serviços de Qualquer Natureza (ISS). 4. Exclusão do ISS, PIS e COFINS da base de cálculo do ISS. Impossibilidade. 5. ADPF 190. É inconstitucional lei municipal que veicule exclusão de valores da base de cálculo do ISS fora das hipóteses previstas em lei complementar nacional. 6. Impossibilidade de reexame da legislação municipal para verificar se a norma local desborda da lei complementar nacional no que concerne às hipóteses de exclusão de valores da base de cálculo do ISS. Súmula 280/STF. 7. Negativa de provimento ao agravo regimental.” (ARE 1.480.210-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 5/11/2024)
+
+“DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. BASE DE CÁLCULO DO IMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA (ISSQN). EXCLUSÃO DO PRÓPRIO IMPOSTO E DE OUTROS TRIBUTOS FEDERAIS. IMPOSSIBILIDADE. LEI COMPLEMENTAR NACIONAL. HIPÓTESES DE EXCLUSÃO. ROL TAXATIVO. ADPF 189 E ADPF 190. 1. Considerado o decidido na ADPF 189 e na ADPF 190, mostra-se inconstitucional legislação municipal na qual veiculada exclusão de valores da base de cálculo do ISSQN fora das hipóteses previstas em lei complementar nacional. 2. Agravo interno desprovido.” (RE 1.494.556-AgR, Segunda Turma, Rel. Min. Nunes Marques, DJe de 5/11/2024)
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA - ISSQN: EXCLUSÃO DE TRIBUTOS FEDERAIS DA BASE DE CÁLCULO DESSE IMPOSTO. IMPOSSIBILIDADE. ARGUIÇÕES DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL NS. 189/SP E 190/SP. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL DESPROVIDO.” (ARE 1.504.995-AgR, Primeira Turma, Rel. Cármen Lúcia, DJe de 5/9/2024)
+
+“DIREITO TRIBUTÁRIO. ISS. DEDUÇÃO DOS VALORES RELATIVOS AOS TRIBUTOS FEDERAIS (PIS E COFINS) DA BASE DE CÁLCULO DO ISS. AUSÊNCIA DE PREVISÃO LEGAL. DECISÃO RECORRIDA ALINHADA COM A JURISPUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO NÃO PROVIDO. 1. O entendimento acolhido no acórdão impugnado está alinhado à jurisprudência desta Suprema Corte, no sentido de que a Lei Complementar nº 116/03 definiu a base de cálculo do ISS como o preço do serviço, inexistindo fundamento para a exclusão dos valores referentes aos tributos federais. Não há falar, portanto, em afronta aos preceitos constitucionais indicados nas razões recursais. 2. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita. 3. Agravo interno conhecido e não provido.” (ARE 1.497.379-AgR, Primeira Turma, Rel. Min. Flávio Dino, DJe de 27/8/2024)
+
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. IMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA - ISSQN. BASE DE CÁLCULO. EXCLUSÃO DE TRIBUTOS. INCONSTITUCIONALIDADE DE LEI MUNICIPAL QUE VEICULE EXCLUSÃO DE VALORES DA BASE DE CÁLCULO DO ISS FORA DAS HIPÓTESES PREVISTAS EM LEI COMPLEMENTAR NACIONAL. ADPF 190/SP. ANÁLISE DE LEGISLAÇÃO LOCAL. SÚMULA 280. DESPROVIMENTO DO AGRAVO. 1. O acórdão recorrido está em consonância com o entendimento firmado por esta Suprema Corte no julgamento da ADPF 190/SP, no qual se assentou a inconstitucionalidade de lei municipal que veicule exclusão de valores da base de cálculo do Imposto sobre Serviços de Qualquer Natureza - ISSQN fora das hipóteses previstas em lei complementar nacional. 2. Ademais, a verificação do alegado alargamento da base de cálculo do ISS, demandaria o reexame do Código Tributário do Município de Jundiaí, de modo que o processamento do apelo extremo encontra-se inviabilizado, tendo em vista a vedação contida na Súmula 280 do STF. 3. Agravo regimental a que se nega provimento.” (ARE 1.470.865-AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 12/6/2024)
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA - ISSQN. BASE DE CÁLCULO. EXCLUSÃO DE TRIBUTOS. LEI MUNICIPAL. IMPOSSIBILIDADE. MATÉRIA RESERVADA À LEI COMPLEMENTAR FEDERAL. ART. 146, III, A, DA CONSTITUIÇÃO FEDERAL. INCONSTITUCIONALIDADE DE LEI MUNICIPAL QUE VEICULE EXCLUSÃO DE VALORES DA BASE DE CÁLCULO DO ISS FORA DAS HIPÓTESES PREVISTAS EM LEI COMPLEMENTAR NACIONAL. ADPF 190/SP. AGRAVO IMPROVIDO. I - Ao julgar a ADPF 190/SP, o Plenário (i) declarou a inconstitucionalidade da Lei do Município da Estância Hidromineral de Poá que, ao dispor sobre o ISS, excluía da base de cálculo do imposto os valores referentes ao IRPJ, CSLL, PIS e COFINS, e (ii) firmou a seguinte tese: ‘É inconstitucional lei municipal que veicule exclusão de valores da base de cálculo do ISSQN fora das hipóteses previstas em lei complementar nacional. Também é incompatível com o Texto Constitucional medida fiscal que resulte indiretamente na redução da alíquota mínima estabelecida pelo art. 88 do ADCT, a partir da redução da carga tributária incidente sobre a prestação de serviço na territorialidade do ente tributante’ (ADPF 190/SP, Rel. Min. Edson Fachin, Plenário, DJe 27/4/2017). II - In casu, a decisão agravada está em harmonia com a ratio daquele julgamento, no sentido de que a Lei Complementar 116/03 definiu a base de cálculo do ISS como o preço do serviço, inexistindo fundamento para a exclusão dos valores referentes aos tributos federais. III - Agravo ao qual se nega provimento.” (ARE 1.469.426-AgR, Primeira Turma, Rel. Min. Cristiano Zanin, DJe de 15/4/2024)
+
+Ex positis, NEGO SEGUIMENTO ao agravo, com fundamento no teor do artigo 932, inciso VIII, do Código de Processo Civil, combinado com o artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+Ademais, por se tratar de mandado de segurança, não há majoração de honorários advocatícios (Súmula 512 do STF).
+Publique-se.
+Brasília, 28 de setembro de 2026.
+
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
