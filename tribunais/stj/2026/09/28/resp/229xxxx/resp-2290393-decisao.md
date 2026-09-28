@@ -1,0 +1,63 @@
+DECISÃO
+Traditio Companhia de Seguros e Artur Ogawa e outros interpõem recursos especiais em relação aos Acórdãos proferidos pelo Tribunal de Justiça do Estado do Paraná, assim ementado:
+DIREITO CONSTITUCIONAL E PROCESSUAL CIVIL. AÇÃO DE RESPONSABILIDADE OBRIGACIONAL SECURITÁRIA. SISTEMA HABITACIONAL FINANCEIRO (SFH). DECISÃO QUE MANTEVE OS AUTOS NA JUSTIÇA ESTADUAL. TEMA 1011 DO STF. COMPETÊNCIA DA JUSTIÇA FEDERAL. INTERESSE DA CEF QUANTO ÀS APÓLICES PÚBLICAS. DESMEMBRAMENTO. DECISÃO REFORMADA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+I. Caso em exame
+1. Agravo de Instrumento objetivando a reforma da decisão que manteve os autos na Justiça Estadual.
+II. Questão em discussão
+2. A questão em discussão consiste em saber qual é o juízo competente para a apreciação de demandas envolvendo o Sistema Habitacional Financeiro (SFH) após o julgamento do Tema 1011 pelo STF.
+III. Razões de decidir
+3. No caso de demanda a competência será da Justiça Federal, desde que haja manifestação de interesse da CEF ou da União desde que haja manifestação de interesse da CEF ou da União quando manifestado o interesse da CEF, antes da prolação de sentença de mérito, desde que o contrato securitário seja vinculado ao SFH e inclua apólices do ramo 66.
+IV. Dispositivo e tese
+4. Agravo de Instrumento conhecido e parcialmente provido.
+Tese de julgamento: "Compete à Justiça Federal o processamento e julgamento de demandas relacionadas a contratos de seguro habitacional vinculados ao Sistema Financeiro de Habitação, quando manifestado o interesse da Caixa Econômica Federal, observados os termos da MP 513/2010 e Lei 12.409/2011."
+_________
+Dispositivo relevante citado: Lei nº 9.469/1997, art. 5º.
+Jurisprudência relevante citada: STF, RE 827996, Relator(a): GILMAR MENDES, Tribunal Pleno, julgado em 29-06-2020, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO D Je-208 DIVULG 20-08-2020 PUBLIC 21-08- 2020.
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. OMISSÃO. VÍCIO CONSTATADO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+I. Caso em exame
+1. Embargos de declaração contra acórdão proferido em sede de Agravo de Instrumento que questionava a competência para apreciação de casos envolvendo apólices públicas - SFH.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o acórdão embargado incorreu em vício de omissão.
+III. Razões de decidir
+3. Vício constatado tendo em conta a não apreciação completa do interesse público da Caixa Econômica Federal, sobre determinadas apólices públicas ligadas ao ramo 66. 4. Vício sanado para o fim de retificar as apólices de interesse da empresa pública.
+IV. Dispositivo
+4. Embargos de declaração acolhidos.
+_________
+Dispositivo relevante citado: CPC, art. 1.022, I;
+O cerne dos recursos interpostos envolve dois tópicos que merecem atenção: i) discussão acerca da competência da Justiça Estadual ou Justiça Federal, nos casos em que há indicação do possível interesse da Caixa Econômica Federal em intervir na lide, nas ações de indenização securitária fundada em contratos vinculados ao Sistema Financeiro da Habitação - SFH e eventual comprometimento do Fundo de Compensação de Variações Salariais - FCVS; bem como ii) discussão acerca do reconhecimento da cobertura securitária nos casos de danos nos imóveis por vícios construtivos.
+É o relatório. Decido.
+A Corte Especial do Superior Tribunal de Justiça, com base no julgamento, sob o regime de repercussão geral, do Tema 1.011 (RE 827.996/PR), decidiu revisitar os Temas 50 e 51 dos recursos repetitivos (REsp 1.091.363/SC e REsp 1.091.393/SC), que tratam da forma de intervenção da Caixa Econômica Federal e da competência da Justiça Federal em ações de indenização de seguro habitacional vinculado ao Sistema Financeiro da Habitação (SFH).
+O julgamento foi finalizado na Sessão Virtual de 08/09/2026 a 15/09/2026, cujo acórdão encontra-se pendente de publicação .
+Lado outro, em relação à discussão acerca do reconhecimento da cobertura securitária nos casos de danos nos imóveis por vícios construtivos, a referida controvérsia foi afetada pela Primeira Seção desta Corte Superior para julgamento sob o rito dos recursos especiais repetitivos  Tema 1.301/STJ  , nos seguintes termos: "Possibilidade, ou não, de se excluir da cobertura securitária os danos decorrentes de vícios construtivos em imóveis financiados no âmbito do Sistema Financeiro de Habitação e vinculados ao FCVS".
+Confira-se a ementa:
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO - SFH. FCVS. COBERTURA SECURITÁRIA. DANOS NO IMÓVEL. VÍCIOS CONSTRUTIVOS. MULTIPLICIDADE DE DEMANDAS EM QUE SE DISCUTE A MESMA QUESTÃO JURÍDICA CONTROVERTIDA. PROPOSTA DE AFETAÇÃO DE TEMA REPETITIVO. SUSPENSÃO DOS RECURSOS QUE TRATAM DA MATÉRIA AFETADA.
+1. A multiplicidade de recursos especiais, em que se discute a existência de cobertura securitária para os danos decorrentes de defeitos na construção dos imóveis financiados pelo SFH e vinculados ao FCVS, recomenda a afetação da controvérsia para julgamento sob a sistemática dos recursos repetitivos, nos termos dos arts. 1.036 a 1.041 do CPC.
+2. Delimitação da questão controvertida: "Possibilidade, ou não, de se excluir da cobertura securitária os danos decorrentes de vícios construtivos em imóveis financiados no âmbito do Sistema Financeiro de Habitação e vinculados ao FCVS".
+3. Determinação de suspensão do processamento dos recursos especiais e agravos em recursos especiais interpostos perante os tribunais de segunda instância ou em tramitação no STJ.
+4. Afetação do recurso especial como representativo da controvérsia jurídica repetitiva para julgamento pela Primeira Seção deste Superior Tribunal de Justiça
+(ProAfR no REsp n. 2.178.751/PR, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 10/12/2024, DJe de 16/12/2024).
+Nos recursos representativos da controvérsia (REsp 2.178.751/PR e REsp 2.179.119/PR) há determinação de suspensão da tramitação dos recursos especiais e agravos em recursos especiais interpostos nos tribunais de segunda instância ou em tramitação no STJ que versem sobre a questão aqui delimitada, sendo que eventuais requerimentos ou pedidos urgentes deverão ser apreciados pelo Juízo a quo.
+Nesse contexto, impõe-se aguardar o exaurimento da jurisdição do Tribunal a quo, a qual apenas se esgotará com a reapreciação à luz das teses fixadas nos Temas 50, 51 e 1.301 por este STJ, oportunidade em que a Corte de origem, relativamente ao recurso especial lá sobrestado, haverá de observar o iter delineado nos arts. 1.040 e 1.041 do CPC.
+Em processos idênticos, foram proferidas as decisões monocráticas: REsp n. 2.087.954, Ministro Humberto Martins, DJEN de 03/10/2025; AgInt no AREsp n. 2.267.726, Ministro Teodoro Silva Santos, DJEN de 18/03/2025; AgInt no AREsp n. 2.824.804, Ministro Francisco Falcão, DJEN de 11/03/2025 e EDcl no REsp n.1.424.902, Ministro Teodoro Silva Santos, DJEN de 06/03/2025.
+Observa-se, ainda, que, de acordo com o artigo 1.041, § 2º, do CPC, "quando ocorrer a hipótese do inciso II do caput do art. 1.040 e o recurso versar sobre outras questões, caberá ao presidente ou ao vice-presidente do Tribunal recorrido, depois do reexame pelo órgão de origem e independentemente de ratificação do recurso, sendo positivo o juízo de admissibilidade, determinar a remessa do recurso ao tribunal superior para julgamento das demais questões", cuja diretriz metodológica, por certo, deve alcançar também aqueles feitos que já tenham ascendido a este STJ.
+De acordo com os referidos dispositivos, há a previsão da negativa de seguimento dos recursos, da retratação do órgão colegiado para alinhamento das teses ou, ainda, a manutenção da decisão divergente, com a remessa dos recursos aos tribunais correspondentes.
+Nesse panorama, cabe ao ministro relator, no Superior Tribunal de Justiça, determinar a devolução dos autos ao Tribunal de origem para que, após o julgamento do paradigma, seja reexaminado o pronunciamento recorrido.
+No mesmo sentido, destacam-se os seguintes julgados:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CONDENAÇÃO EM HONORÁRIOS SUCUMBENCIAIS EM FAVOR DA DEFENSORIA PÚBLICA. REPERCUSSÃO GERAL RECONHECIDA. TEMA 1.002/STF. DEVOLUÇÃO E SOBRESTAMENTO DO RECURSO ESPECIAL NA CORTE DE ORIGEM. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, COM EFEITOS INFRINGENTES.
+1. Verifica-se que a matéria tratada nos autos, relativa ao cabimento de condenação em honorários sucumbenciais em favor da Defensoria Pública, teve sua repercussão geral reconhecida pelo Plenário do Supremo Tribunal Federal no julgamento do RE 1.140.005/RJ (Tema 1.002).
+2. Em tal circunstância, deve ser prestigiado o escopo perseguido na legislação processual (Lei 11.672/2008), isto é, a criação de mecanismo que oportunize às instâncias de origem o juízo de retratação na forma do art. 543-C, § 7º, e 543-B, § 3º, do CPC; e 1040 e seguintes do CPC/2015, conforme o caso. (EDcl no AgInt no REsp 1.731.055/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 22/08/2019; EDcl no AgInt no AREsp 1.238.827/MG, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 25/10/2018; EDcl no AgInt no AREsp 556.571/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 25/02/2019).
+3. Embargos de Declaração acolhidos, com efeitos infringentes, para tornar sem efeito o decisum de fls. 304-309/e-STJ, determinando-se o retorno dos autos à origem, com a devida baixa nesta Corte, para que, em observância aos arts. 1040 e seguintes do CPC/2015 e após a publicação do acórdão do respectivo recurso excepcional representativo da controvérsia: a) denegue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+(STJ, EDcl no REsp 1827693/AL, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/03/2020, DJe 28/08/2020.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. SEGURO HABITACIONAL. SISTEMA FINANCEIRO DE HABITAÇÃO. VÍCIOS DE CONSTRUÇÃO. COBERTURA SECURITÁRIA. TEMA Nº 1.011/STF. OBSERVÂNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, diante do julgamento da controvérsia em repercussão geral - Tema nº 1.011/STF - o recurso especial não comporta solução no âmbito do Superior Tribunal de Justiça.
+3. Agravo interno não provido.
+(AgInt nos EDcl nos EDcl no A REsp 1298539/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 22/02/2022.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. IRRESIGNAÇÃO MANEJADA SOB A ÉGIDE DO NCPC. SEGURO. VÍCIOS CONSTRUTIVOS. INTERESSE DA CEF. REPERCUSSÃO GERAL DA MATÉRIA RECONHECIDA PELO STF. TEMA Nº 1.011 DO STF. OBSERVÂNCIA. JUÍZO DE CONFORMAÇÃO. RETORNO DOS AUTOS AO TRIBUNAL ESTADUAL.
+1. As disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. Esta Corte Superior orienta que, julgado a controvérsia em repercussão geral (Tema nº 1.011), os recursos que tratam da mesma polêmica devem retornar ao Tribunal estadual para que este faça o juízo de conformação.
+3. Embargos de declaração acolhidos, com efeitos infringentes.
+(EDcl no AgInt no REsp n. 1.779.580/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 4/4/2022, DJe de 6/4/2022.)
+Ante o exposto, julgo prejudicado o exame dos recursos especiais interpostos por Traditio Companhia de Seguros e Artur Ogawa e outros e, com fundamento no art. 256-L, inciso I, do Regimento Interno do Superior Tribunal de Justiça, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, considerando a publicação do acórdão do recurso repetitivo (Temas 50 e 51/STJ), bem como a pendência do julgamento do Tema 1.301/STJ: a) na hipótese de a decisão recorrida coincidir com a orientação do Superior Tribunal de Justiça, seja negado seguimento aos recursos especiais ou encaminhados a esta Corte Superior para a análise das questões que não ficaram prejudicadas; ou b) caso o acórdão recorrido contrarie a orientação desta Corte, seja exercido o juízo de retratação e considerado prejudicados os recursos especiais ou encaminhados a esta Corte Superior, para a análise das questões que não ficaram prejudicadas; ou c) finalmente, mantido o acórdão divergente, os recursos especiais sejam remetidos ao Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
