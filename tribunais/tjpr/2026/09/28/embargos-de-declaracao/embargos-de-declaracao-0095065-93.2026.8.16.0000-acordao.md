@@ -1,0 +1,60 @@
+EMENTA: DIREITO CIVIL E DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE CONTRADIÇÃO MERO INCONFORMISMO COM O QUE FOI DECIDIDO. EMBARGOS DE DECLARAÇÃO CONHECIDOS E NÃO ACOLHIDOS.
+I. CASO EM EXAME
+
+1. Embargos de declaração opostos em face de acórdão que conheceu o agravo de instrumento da parte embargante e negou provimento.
+II. QUESTÃO EM DISCUSSÃO
+
+2. A questão em discussão consiste em verificar se o acórdão incorreu em contradição.
+III. RAZÕES DE DECIDIR
+
+3. Não foi verificado no acórdão qualquer contradição no conteúdo decisório, o que demonstra a busca pela reforma do julgado por via inadequada.
+IV. DISPOSITIVO E TESE
+
+4. Embargos de declaração conhecidos e não acolhidos.
+Tese de julgamento: "Os embargos de declaração não servem para a rediscussão de mérito”.
+_________
+
+Dispositivos relevantes citados: CPC, art. 1.022.
+Jurisprudência relevante citada: STJ, REsp n. 2.214.864/PE, relatora Ministra Maria Thereza de Assis Moura, Primeira Seção, j. 10/12/2025; STJ, EDcl nos EDcl no REsp 1710743/AM, Rel. Ministro MAURO CAMPBELL MARQUES SEGUNDA TURMA, j. 23/08/2018; STJ, EDcl nos EDcl no AgInt no AREsp 934.341/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, j.16/02/2017; TJPR, 14ª Câmara Cível, 0057669-74.2025.8.16.0014, Rel. DESEMBARGADOR FRANCISCO EDUARDO GONZAGA DE OLIVEIRA, J. 02.03.2026.
+
+I. RELATÓRIO
+Trata-se de Embargos de Declaração opostos por MUNICÍPIO DE SENGÉS, contra o acórdão que negou o provimento do Agravo de Instrumento proposta pelo Embargante (mov. 32.1/AI).
+Em suas razões recursais, alegou, em síntese, que: a. o acórdão embargado reconheceu corretamente que a “situação jurídica constituída”, para fins de aplicação do Tema 792 do STF, não se forma com o trânsito em julgado da ação coletiva, mas apenas quando o crédito individual se torna líquido e exigível; b. o acórdão é contraditório porque, embora admita que a proteção ao direito adquirido depende da preclusão da discussão sobre o valor devido, adotou como marco temporal a data da homologação dos cálculos; c. a constituição definitiva da situação jurídica somente ocorre após o encerramento do prazo recursal contra a decisão que homologa os cálculos, momento em que se opera a preclusão da controvérsia sobre o valor do crédito; d. a decisão homologatória dos cálculos foi proferida em 26/08/2025, mas o Município ainda dispunha de prazo para interpor agravo de instrumento, nos termos do artigo 1.015, parágrafo único, do CPC; e. a preclusão da discussão sobre os cálculos somente ocorreu após o escoamento do prazo recursal contado da intimação realizada em 18/10/2025; f. a Lei Municipal nº 783/2025 entrou em vigor em 17/10/2025, quando ainda não estava consolidada a situação jurídica do exequente; g. em razão disso, a Lei Municipal nº 783/2025 deve ser aplicada ao caso concreto, por ser anterior à efetiva constituição da situação jurídica protegida pelo Tema 792 do STF.
+Ao final, requereu o conhecimento e provimento do recurso de embargos de declaração para que a decisão colegiada seja reformada, a fim de sanar o vício alegados.
+O embargado opôs contrarrazões (mov. 10.1/ED).
+É o relatório.
+
+II. FUNDAMENTAÇÃO
+Presentes os pressupostos de admissibilidade do recurso ora interposto, tanto os intrínsecos (legitimidade, interesse, cabimento e inexistência de fato impeditivo e extintivo), quanto os extrínsecos (tempestividade e regularidade formal), deve este ser conhecido.
+O art. 1022 do Código de Processo Civil prevê o cabimento de embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade ou eliminar contradição; para suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e para corrigir erro material.
+No caso em questão, contudo, não se verifica qualquer vício na decisão objurgada capaz de ensejar o acolhimento destes declaratórios.
+
+Isso, porque, inobstante as formulações apresentadas, o acórdão recorrido foi cristalino e coeso ao estabelecer as razões para entender que a redução do teto da RPV não se aplica ao caso concreto (mov. 32.1/AI):
+(...)O Tema 792 do STF, ao dispor acerca da aplicação retroativa das normas que tratam de créditos a serem pagos via precatório, estabeleceu que “Lei disciplinadora da submissão de crédito ao sistema de execução via precatório possui natureza material e processual, sendo inaplicável à situação jurídica constituída em data que a anteceda.”
+Ainda, necessário pontuar que, como a própria parte agravante elenca, o Tema 792/STF protege o direito adquirido do credor quando a discussão acerca do valor já se encontra preclusa em execução individual, hipótese que se encaixa no presente caso, como será exposto.
+Assim, se faz necessário constatar qual é o momento em que a situação jurídica se torna definitivamente constituída. In casu, verifica-se que a sentença exequenda é oriunda de ação coletiva, mas o crédito individual do exequente apenas é constituído com a homologação dos cálculos, a qual se deu em 04/09/2025 quando foi veiculada a decisão que homologou o cálculo do valor exequendo no DJEN (mov. 156.1/autos de origem), sem que tenha sido interposto qualquer recurso contra a referida decisão.
+(...)
+Logo, considerando que a Lei Municipal nº 783/2025 entrou em vigor na data de sua publicação (art. 5º da Lei),a qual se deu em 16/10/2025, a redução do teto do RPV que trata a referida lei não pode ser aplicada ao caso concreto.
+Quanto aos demais pontos que buscam o reconhecimento da constitucionalidade do art. 3º, VI da Lei Municipal nº 783/2025, do município de Sengés, entendo que também não merecem acolhida.
+(...)
+Conclui-se, pois, que a parte embargante, sob o pretexto de que teria havido contradição expõe seu posicionamento na tentativa de alterar a decisão exarada e incutir questões já dirimidas em momento anterior nos autos.
+Nesse viés, enfatiza-se que a contradição deve ser interna à decisão recorrida, de modo que não se pode considerar como vício embargável a alegação de incompatibilidade entre o conteúdo decidido e outros elementos alheios ao comendo decisório.
+Nesse sentido é a compreensão do Superior Tribunal de Justiça:
+A contradição que autoriza a oposição dos embargos é intrínseca ao julgado impugnado, ou seja, entre as suas proposições, fundamentação e conclusão, e não entre ele e fatores externos a si, como, por exemplo, as provas dos autos ou as alegações das partes (EDcl nos EDcl no REsp 1710743/AM, Rel. Ministro MAURO CAMPBELL MARQUES SEGUNDA TURMA, julgado em 23/08/2018, DJe 29/08/2018)(Grifado)
+Ou seja, ao contrário do que aduz a parte embargante, não se verifica qualquer vício, motivo pelo qual o recurso não comporta acolhimento.
+
+Com efeito, destaca-se que a pretensão do recorrente nos presentes embargos apenas demonstra divergência de seu ponto de vista, buscando, de forma errônea, a reapreciação da matéria de mérito por via recursal imprópria, o que é vedado pela jurisprudência do Superior Tribunal de Justiça:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. VÍCIOS INEXISTENTES. PRETENSÃO DE REDISCUSSÃO DA CAUSA. DESCABIMENTO. (...) 1. OS EMBARGOS DE DECLARAÇÃO NÃO SE PRESTAM À REDISCUSSÃO DE MATÉRIA DEVIDAMENTE ABORDADA E DECIDIDA NO ACÓRDÃO EMBARGADO, TAMPOUCO SERVEM PARA DISCUTIR MANIFESTAÇÕES RELACIONADAS AO INCONFORMISMO DAS PARTES, AFIGURANDO-SE EVIDENTE O INTUITO INFRINGENTE DA PRESENTE INSURGÊNCIA, CUJO OBJETIVO NÃO É SUPRIR OMISSÃO, AFASTAR OBSCURIDADE, ELIMINAR CONTRADIÇÃO OU CORRIGIR ERRO MATERIAL, MAS, SIM, REFORMAR O JULGADO POR VIA INADEQUADA. 2. (…) (EDcl nos EDcl no AgInt no AREsp 934.341/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/02/2017, DJe 24/02/2017)(Grifado)
+No mesmo sentido, esta Corte já decidiu:
+
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. TÍTULO EXECUTIVO EXTRAJUDICIAL. CÉDULA DE CRÉDITO BANCÁRIO. ILIQUIDEZ DEMONSTRADA. ALEGAÇÃO DE OMISSÃO. PREQUESTIONAMENTO. EMBARGOS REJEITADOS.I. CASO EM EXAME1. EMBARGOS DE DECLARAÇÃO OPOSTOS POR BANCO DO BRASIL S/A CONTRA ACÓRDÃO QUE, AO JULGAR APELAÇÃO CÍVEL, CASSOU A SENTENÇA DE PROCEDÊNCIA DOS EMBARGOS À EXECUÇÃO E DECLAROU, DE OFÍCIO, A NULIDADE DA EXECUÇÃO POR ILIQUIDEZ DO TÍTULO EXECUTIVO EXTRAJUDICIAL, JULGANDO PREJUDICADO O RECURSO DA INSTITUIÇÃO FINANCEIRA.II. QUESTÃO EM DISCUSSÃO2. HÁ DUAS QUESTÕES EM DISCUSSÃO: (I) DEFINIR SE O ACÓRDÃO EMBARGADO INCORREU EM OMISSÃO AO NÃO RECONHECER A NOVAÇÃO COMO CAUSA EXTINTIVA DAS OBRIGAÇÕES ANTERIORES; (II) VERIFICAR SE HOUVE OMISSÃO QUANTO À APLICAÇÃO DOS DISPOSITIVOS LEGAIS INVOCADOS PARA FINS DE PREQUESTIONAMENTO, ESPECIALMENTE SOBRE A AUTONOMIA DA CÉDULA DE CRÉDITO BANCÁRIO E A FORMA DE FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS.III. RAZÕES DE DECIDIR3. OS EMBARGOS DE DECLARAÇÃO TÊM CABIMENTO APENAS PARA SANAR OBSCURIDADE, OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL, NOS TERMOS DO ART. 1.022 DO CPC, NÃO SE PRESTANDO À REDISCUSSÃO DO MÉRITO OU À REFORMA DO JULGADO.4. O ACÓRDÃO EMBARGADO APRESENTA FUNDAMENTAÇÃO CLARA, COMPLETA E COERENTE QUANTO À ILIQUIDEZ DO TÍTULO, RESULTANTE DA OMISSÃO DO BANCO NA APRESENTAÇÃO DOS DOCUMENTOS ESSENCIAIS PARA A ANÁLISE DAS DÍVIDAS RENEGOCIADAS.5. A TESE DE QUE TERIA OCORRIDO NOVAÇÃO NÃO AFASTA A NECESSIDADE DE DEMONSTRAÇÃO DOCUMENTAL DAS OBRIGAÇÕES ANTERIORES, POIS A AUSÊNCIA DESSES DOCUMENTOS COMPROMETE A VERIFICAÇÃO DA COMPOSIÇÃO DO DÉBITO.6. A FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS BASEOU-SE CORRETAMENTE NO ART. 85, §§ 2º E 6º, DO CPC, SENDO INAPLICÁVEL O § 8º, CONFORME ENTENDIMENTO CONSOLIDADO DO STJ EM RECURSO REPETITIVO (RESP 1.850.512/SP) E DECISÃO DO STF (TEMA 1255), POR NÃO SE TRATAR DE DEMANDA COM A FAZENDA PÚBLICA.7. O INCONFORMISMO COM A DECISÃO NÃO CONFIGURA OMISSÃO OU CONTRADIÇÃO. A PARTE BUSCA REDISCUTIR MATÉRIA JÁ DECIDIDA DE FORMA FUNDAMENTADA.8. O PREQUESTIONAMENTO NÃO EXIGE MENÇÃO EXPRESSA AOS DISPOSITIVOS LEGAIS, SENDO SUFICIENTE QUE A QUESTÃO JURÍDICA TENHA SIDO EFETIVAMENTE ENFRENTADA NO ACÓRDÃO, AINDA QUE SEM REFERÊNCIA NUMÉRICA AOS ARTIGOS.IV. DISPOSITIVO 9. Embargos de declaração rejeitados.Dispositivos relevantes citados: CPC, arts. 1.022, 85, §§ 2º, 6º e 8º; 400; 803, parágrafo único; 924, I; CC, art. 360, I; Lei nº 10.931/2004, arts. 28 e 29.Jurisprudência relevante citada: STJ, REsp 1.850.512/SP, Rel. Min. Og Fernandes, Corte Especial, j. 16.03.2022 (Tema 1076); STF, Tema 1255, j. 24.03.2025; STJ, AgInt nos EDcl no REsp 1899924/SP, Rel. Min. Marco Aurélio Bellizze, j. 03.05.2021; STJ, EDcl no REsp 1705548/MS, Rel. Min. Sérgio Kukina, j. 19.04.2021; STF, AR 1300, Rel. Min. Ilmar Galvão, Pleno. (TJPR - 14ª Câmara Cível - 0057669-74.2025.8.16.0014 - Londrina -
+ Rel.: DESEMBARGADOR FRANCISCO EDUARDO GONZAGA DE OLIVEIRA -
+ J. 02.03.2026)(Grifado)
+De outro lado, o embargado requereu, em contrarrazões, a aplicação da multa prevista no art. 1.026, § 2º, do Código de Processo Civil, ao fundamento de que os embargos de declaração teriam caráter manifestamente protelatório.
+Contudo, a aplicação da referida penalidade não decorre automaticamente da rejeição dos embargos de declaração nem da mera constatação de que a parte pretende rediscutir matéria já decidida, pois exige-se demonstração inequívoca de que o recurso foi manejado de forma abusiva, com propósito manifestamente protelatório.
+Na hipótese, embora os argumentos deduzidos não evidenciem a ocorrência de quaisquer dos vícios previstos no art. 1.022 do CPC, o embargante apresentou razões individualizadas relacionadas às teses que pretendia discutir.
+Portanto, não se identifica abuso processual evidente nem a utilização dos embargos de declaração com finalidade exclusivamente protelatória, razão pela qual deve ser afastada a multa prevista no art. 1.026, § 2º, do CPC.
+Desse modo, com base no exposto por ambas as partes, entende-se pelo não provimento do presente recurso, bem como pela não aplicação da multa prevista no dispositivo supracitado.
+
+DA CONCLUSÃO
+Em face do exposto, e ante a ausência das hipóteses elencadas no artigo 1022 do Código de Processo Civil, vota-se pelo conhecimento e não acolhimento dos embargos, para a manutenção do acórdão proferido nos seus próprios termos.
