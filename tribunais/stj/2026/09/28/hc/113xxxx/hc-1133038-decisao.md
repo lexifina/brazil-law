@@ -1,0 +1,59 @@
+HABEAS CORPUS Nº 1133038 - SP (2026/0415911-0)
+
+RELATORA: MINISTRA NILSONI DE FREITAS (DESEMBARGADORA CONVOCADA DO TJDFT)
+
+IMPETRANTE: JOSE WELLINGTON DE CARVALHO NEVES
+
+ADVOGADO: JOSÉ WELLINGTON DE CARVALHO NEVES - PI024944
+
+IMPETRADO: TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO
+
+PACIENTE: REGINALDO DE SOUSA SILVA (PRESO)
+
+INTERES.: MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO
+
+EMENTA
+
+DECISÃO
+
+Trata-se de habeas corpus com pedido liminar impetrado em favor de REGINALDO DE SOUSA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2165700-86.2026.8.26.0000).
+Depreende-se dos autos que o Juízo do Departamento Estadual de Execução Criminal da 6ª RAJ - Comarca de Ribeirão Preto/SP indeferiu o pedido de recambiamento do sentenciado para o Estado do Piauí.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal estadual, que não conheceu do writ, em acórdão assim ementado (e-STJ fl. 16):
+HABEAS CORPUS. Pleito para recambiamento para cumprimento da pena em unidade prisional mais próxima de seus familiares. Descabimento. O habeas corpus não é instrumento adequado para acelerar incidentes em execução penal ou abreviar postulações de benefícios, e tampouco configura via adequada ao exame do preenchimento dos requisitos objetivos e subjetivos necessários à concessão dos benefícios. Ausência de manifesta ilegalidade. Discricionariedade do juízo da execução. Inexistência de constrangimento ilegal. inadequação da via eleita. Habeas Corpus não conhecido.
+
+Nesta instância, a defesa salienta que, em relação ao delito pelo qual foi condenado, o apenado foi custodiado no Estado do Piauí, durante a instrução, e que a determinação de sua transferência para o Estado de São Paulo carece de fundamentação.
+Assevera que "o recambiamento interestadual possui procedimento próprio, previsto em resolução do Conselho Nacional de Justiça vigente e vinculante, e nenhuma de suas etapas foi observada, nem a mais elementar delas, que é a oitiva da pessoa presa. Trata-se de controle de legalidade sobre inobservância de rito normativo expresso" (e-STJ fl. 7).
+Requer, inclusive liminarmente, a concessão da ordem para "anular a decisão de 22/08/2025 e os atos subsequentes dela decorrentes, inclusive a decisão de 07/04/2026, determinando-se ao Juízo da Execução que, caso entenda de retomar a matéria, observe integralmente o procedimento dos arts. 9º a 11 da Resolução CNJ nº 404/2021, com prévia oitiva do paciente e manifestação da defesa técnica e do Ministério Público, e com decisão fundamentada que aprecie expressamente o vínculo social e familiar do paciente no Estado do Piauí, permanecendo ele, até então, recolhido no estabelecimento em que se encontra" (e-STJ fl. 13).
+É o relatório.
+Decido.
+No caso dos autos, o Tribunal de origem não conheceu da impetração, consignando, para tanto, que (e-STJ fls. 18/19):
+Os Tribunais Superiores pacificaram o entendimento de que não se admite habeas corpus quando a lei prevê recurso próprio para impugnar a decisão proferida pelo Juízo das Execuções Criminais.
+O habeas corpus não é substituto de recurso cabível, como o agravo em execução, exceto em casos de ilegalidade manifesta, o que não ocorre nos autos.
+[...].
+Cabe ressaltar que o writ não é o instrumento adequado para acelerar incidentes em execução penal ou abreviar postulações de benefícios, e tampouco configura via adequada ao exame do preenchimento dos requisitos objetivos e subjetivos necessários à concessão dos benefícios.
+Daí que se tem que o recurso cabível para questões referentes à execução da pena é o agravo, nos termos do artigo 197 da Lei de Execução Penal.
+
+Nessas circunstâncias, a ausência de manifestação do Tribunal de Justiça do Estado de São Paulo acerca do mérito do pedido formulado na impetração antecedente configura indevida negativa de prestação jurisdicional, principalmente considerando que a análise do aventado constrangimento ilegal não demanda aprofundado exame de matéria probatória.
+A propósito, confiram-se os seguintes precedentes:
+HABEAS CORPUS SUBSTITUTIVO DO RECURSO CABÍVEL. IMPOSSIBILIDADE. NÃO CONHECIMENTO. EXECUÇÃO PENAL. INDULTO. PREENCHIMENTO DOS REQUISITOS SUBJETIVOS. SUPRESSÃO DE INSTÂNCIA. RECUSA DO TRIBUNAL A QUO. EXISTÊNCIA DE RECURSO PRÓPRIO. MATÉRIA DE DIREITO. NECESSIDADE DE ANÁLISE DA ILEGALIDADE APONTADA. ORDEM CONCEDIDA.
+1. Esta Corte não deve continuar a admitir a impetração de habeas corpus (originário) como substitutivo de recurso, dada a clareza do texto constitucional, que prevê expressamente a via recursal própria ao enfrentamento de insurgências voltadas contra acórdãos que não atendam às pretensões veiculadas por meio do writ nas instâncias ordinárias.
+2. Verificada hipótese de dedução de habeas corpus em lugar do recurso cabível, impõe-se o não conhecimento da impetração, nada impedindo, contudo, que se corrija de ofício eventual ilegalidade flagrante, como forma de coarctar o constrangimento ilegal.
+3. No vertente caso, sustenta-se a impossibilidade de negar ao paciente o indulto, porque entende presentes os requisitos subjetivos elencados no Decreto Presidencial n. 7.049/2009.
+4. A questão deduzida não foi examinada pelo Tribunal de Justiça estadual, o qual julgou que o habeas corpus não seria a via adequada ao exame da postulação, nada dizendo quanto ao mérito. Tal circunstância impede a análise pelo Superior Tribunal de Justiça, sob pena de incorrer na indevida supressão de instância.
+5. Tratando-se de matéria de direito, a despeito da existência de via processual própria, o Tribunal a quo deve proceder ao exame da flagrante ilegalidade apontada, se existente ou não.
+6. Impetração não conhecida. Ordem de habeas corpus concedida, de ofício, a fim de determinar ao Tribunal a quo que examine o pedido deduzido no mandamus originário, decidindo como entender de direito. (HC 264.046/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 5/9/2013, DJe 23/9/2013, grifo nosso.)
+
+HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO AO RECURSO PREVISTO NO ORDENAMENTO JURÍDICO. 1. NÃO CABIMENTO. MODIFICAÇÃO DE ENTENDIMENTO JURISPRUDENCIAL. RESTRIÇÃO DO REMÉDIO CONSTITUCIONAL. EXAME EXCEPCIONAL QUE VISA PRIVILEGIAR A AMPLA DEFESA E O DEVIDO PROCESSO LEGAL. 2. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. TEMA NÃO ANALISADO PELO TRIBUNAL DE ORIGEM EM RAZÃO DE SER CABÍVEL AGRAVO EM EXECUÇÃO. QUESTÃO DE DIREITO. CONSTRANGIMENTO ILEGAL EVIDENTE. 3. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. A jurisprudência do Superior Tribunal de Justiça, buscando a racionalidade do ordenamento jurídico e a funcionalidade do sistema recursal, vinha se firmando, mais recentemente, no sentido de ser imperiosa a restrição do cabimento do remédio constitucional às hipóteses previstas na Constituição Federal e no Código de Processo Penal. Nessa linha de evolução hermenêutica, o Supremo Tribunal Federal passou a não mais admitir habeas corpus que tenha por objetivo substituir o recurso ordinariamente cabível para a espécie.
+Precedentes. Contudo, devem ser analisadas as questões suscitadas na inicial no intuito de verificar a existência de constrangimento ilegal evidente - a ser sanado mediante a concessão de habeas corpus de ofício -, evitando-se prejuízos à ampla defesa e ao devido processo legal.
+2. De acordo com a jurisprudência do Superior Tribunal de Justiça, a despeito de existir recurso próprio e adequado para questionar as decisões proferidas em tema de Execução Penal, a ação de habeas corpus substitutiva de agravo em execução deve ser analisada pela Corte de origem com o intuito de verificar a existência de flagrante ilegalidade, desde que não seja necessário o reexame de fatos e provas, como na espécie, em que se discute o preenchimento dos requisitos objetivos e subjetivos à progressão de regime. Precedentes.
+3. Habeas corpus não conhecido. Ordem concedida de ofício para determinar que o Tribunal de Justiça de São Paulo examine o mérito do Habeas Corpus n. 0160802-21.2013.8.26.0000 como entender de direito. (HC 282.251/SP, relator Ministro Marco Aurélio Bellizze, Quinta Turma, julgado em 11/3/2014, DJe 19/3/2014, grifo nosso.)
+
+Nesse contexto, em se tratando de relevante questão de direito, deve a Corte estadual analisar a matéria suscitada no habeas corpus precedente.
+Ante o exposto, concedo parcialmente a ordem para determinar que o Tribunal de Justiça do Estado de São Paulo aprecie o mérito do Habeas Corpus n. 2165700-86.2026.8.26.0000, como entender de direito.
+Publique-se. Intimem-se.
+
+Brasília, 28 de setembro de 2026.
+
+Ministra Nilsoni de Freitas (Desembargadora Convocada do TJDFT)
+Relatora
