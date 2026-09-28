@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de STEFANIE RODRIGUES (registro civil: GUALBERTO PETRONIO RODRIGUES DOS REIS)- cumprindo pena privativa de liberdade em razão de diversas condenações pelo crime de roubo majorado (PEC n. 0024846-79.2014.8.07.0015) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS (Agravo de Execução Penal n. 0731426-12.2026.8.07.0000), não comporta processamento.
+Com efeito, busca a impetração a concessão da mudança de estabelecimento prisional, ao argumento de que se trata de pessoa trans, que possui direito a cumprir a pena no estabelecimento prisional de sua escolha, de modo que impedir o exercício desse direito em razão do histórico disciplinar desfavorável importa, na prática, na criação de condição não prevista em lei para o exercício de direito fundamental, cuja exigência não ocorreria em hipótese de mulher cisgênero em idêntica situação disciplinar (fl. 8).
+Ocorre que, além de se tratar de writ impetrado em substituição ao recurso adequado, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois consta dos autos que a paciente já usufruiu do exercício desse direito por duas vezes, e agora pleiteia o retorno a estabelecimento prisional destinado a presas do sexo feminino, a respeito do qual já manifestou expressamente a não adaptação às normas da unidade (fl. 22).
+Conforme bem salientou o Tribunal de origem, o exercício do direito de escolha do estabelecimento prisional pela pessoa trans não pode se confundir com o direito irrestrito à realização de transferências sucessivas e imotivadas entre unidades prisionais, tampouco afasta a necessidade de observância das condições concretas do sistema penitenciário e da segurança institucional (fls. 23/24).
+Assim, não verifico ofensa à liberdade de locomoção da paciente.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. PRETENSÃO DE CUMPRIMENTO DA PENA EM ESTABELECIMENTO PRISIONAL ADEQUADO. IDENTIDADE SEXUAL E DE GÊNERO. ESCOLHA DA PESSOA PRESA. DIREITO DEVIDAMENTE OBSERVADO PELAS INTÂNCIAS ORDINÁRIAS. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
