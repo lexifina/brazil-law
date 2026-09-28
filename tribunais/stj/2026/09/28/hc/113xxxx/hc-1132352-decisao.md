@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de DALVAN CORREA DE QUADROS, ISMAEL DA SILVA DIAS e ROGER DIAS SCHWANCK (Processo n. 5004517-34.2021.8.21.0141, da Vara Criminal da comarca de Capão da Canoa/RS).
+O impetrante aponta como autoridade coatora a Desembargadora Relatora da Segunda Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul, que, em 21/9/2026, concedeu liminar na Correição Parcial n. 5337811-15.2026.8.21.7000, determinando a reinserção nos autos das gravações audiovisuais da sessão plenária anulada.
+Alega o cabimento do remédio constitucional, ao argumento de que a reinserção das mídias às vésperas do novo julgamento pelo Tribunal do Júri configuraria constrangimento ilegal.
+Sustenta a necessidade de julgamento efetivamente novo, com renovação integral dos atos em plenário, sem utilização cumulativa da instrução audiovisual produzida no primeiro julgamento, posteriormente anulado.
+Defende a impossibilidade de ressuscitar a instrução plenária anulada como prova autônoma perante o novo Conselho de Sentença, sob pena de duplicação indevida do acervo probatório.
+Aduz risco específico quanto aos interrogatórios pretéritos - potencial afronta à estratégia defensiva e ao direito ao silêncio na nova sessão -, e indica distinção com o julgamento proferido no HC n. 558.860/SP, afirmando que o precedente não autoriza a incorporação automática de todo o conteúdo audiovisual da sessão anulada.
+Em caráter liminar, pede a suspensão imediata dos efeitos da decisão proferida na correição parcial, com restabelecimento da ordem de desentranhamento determinada pelo Juízo de origem; subsidiariamente, vedação de exibição, reprodução, leitura, referência ou utilização das mídias perante o Conselho de Sentença; e, se inviável a apreciação útil antes do início da sessão, a suspensão do Júri designado para 24/9/2026.
+No mérito, requer a concessão definitiva para afastar a utilização, no novo julgamento, dos registros audiovisuais da sessão de 2/7/2025, com restabelecimento do desentranhamento ou, subsidiariamente, restrição de sua aptidão probatória perante os jurados.
+É o relatório.
+O writ é inadmissível.
+Na espécie, o impetrante impugna decisão monocrática de Desembargadora que deferiu pedido liminar, circunstância que atrai o mesmo entendimento consubstanciado no enunciado da Súmula 691 do Supremo Tribunal Federal, por analogia.
+Com efeito, a jurisprudência do Superior Tribunal de Justiça não admite habeas corpus contra decisão que indefere liminar, salvo em casos de flagrante ilegalidade, abuso de poder ou teratologia. Similar compreensão alcança os casos em que o habeas corpus tenha sido impetrado contra decisão que deferiu pedido liminar na origem, como na espécie (AgRg no HC n. 986.135/PR, Ministro Joel Ilan Paciornik, Quinta Turma, DJEN 25/4/2025).
+Esse posicionamento pode ser afastado apenas em situações excepcionais, se for evidenciada nos autos a configuração de flagrante ilegalidade ou abuso de poder, o que não ocorreu no caso em tela, diante das particularidades mencionadas no decisum impugnado.
+A decisão apontada como coatora assentou que a nulidade reconhecida na apelação foi formal - usurpação de competência do Tribunal do Júri pelo Juiz-Presidente e contradição na votação de quesitos -, sem contaminar a prova oral colhida sob contraditório na primeira sessão plenária. Registrou que não houve determinação de desentranhamento no acórdão anulatório e citou precedente desta Corte Superior para autorizar a manutenção dos registros.
+Nesse contexto, ausente ilegalidade manifesta na decisão provisória impugnada, mostra-se prematuro o exame da controvérsia por esta Corte Superior, antes do julgamento do mérito da correição parcial pelo órgão competente do Tribunal de origem, sob pena de indevida supressão de instância.
+Em face do exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRIBUNAL DO JÚRI. CORREIÇÃO PARCIAL. DECISÃO MONOCRÁTICA QUE DEFERE MEDIDA LIMINAR. REINSERÇÃO NOS AUTOS DOS REGISTROS AUDIOVISUAIS DE SESSÃO DE JULGAMENTO ANTERIOR. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 691 DO STF. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE OU ABUSO DE PODER.
+Petição inicial indeferida liminarmente.
