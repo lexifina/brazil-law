@@ -1,0 +1,13 @@
+EMBARGOS DE DECLARAÇÃO CÍVEL. APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. PRETENSÃO FUNDADA NA FALTA DE COMUNICAÇÃO PRÉVIA À INSCRIÇÃO NO CADASTRO DE INADIMPLENTES. SENTENÇA DE IMPROCEDÊNCIA. ACÓRDÃO QUE MANTEVE A SENTENÇA NEGANDO PROVIMENTO AO RECURSO DA EMBARGADA.
+
+ APONTAMENTO DE ERRO MATERIAL. OCORRÊNCIA. CORREÇÃO PARA ALTERAR A PARTE DISPOSITIVA DO ACÓRDÃO CONSTANDO QUE O RECURSO DE APELAÇÃO DA AUTORA FOI CONHECIDO E DESPROVIDO. EMBARGOS ACOLHIDOS PARA CORRIGIR ERRO MATERIAL.
+
+I – SERASA S.A. opôs embargos de declaração contra o acórdão de mov. 25.1- autos nº 0006359-76.2023.8.16.0021 Ap, que conheceu e negou provimento ao recurso de apelação interposto pela embargada. A embargante alega, em síntese, que o Acórdão incorreu em erro material ao consignar na parte dispositiva que o recurso da autora foi conhecido e provido. Sustenta a necessidade de correção do equívoco, vez que a ementa e a fundamentação do Acórdão deixam claro que o recurso da autora foi conhecido e desprovido. Pugna pelo acolhimento dos aclaratórios para corrigir o erro material.
+É a breve exposição.
+
+II – VOTO E SUA FUNDAMENTAÇÃO
+Presentes os pressupostos recursais, intrínsecos e extrínsecos, deve ser conhecido o recurso.O artigo 1.022 do CPC dispõe que são cabíveis embargos de declaração quando houver obscuridade, contradição, omissão ou erro material sobre ponto a respeito do qual deveria o Tribunal se pronunciar. No caso, de fato o v. acórdão incorreu em erro material em sua parte dispositiva, pois assim constou (mov. 15.1-Ap):
+“(...)Ante o exposto, acordam os Desembargadores da 10ª Câmara Cível do TRIBUNAL DE JUSTIÇA DO PARANÁ, por unanimidade de votos, em julgar CONHECIDO O RECURSO DE PARTE E PROVIDO o recurso de ELIANE AKIE TAKEDA SANTOS representado(a) por AGENOR SANTOS NETO.(...)”.
+Conforme consignado pela embargante, há necessidade de correção do equívoco, uma vez que o recurso da embargada foi conhecido e desprovido, conforme consta na ementa e na fundamentação do Acórdão. Assim, a parte dispositiva do Acórdão em que houve o erro material deve ser corrigida para constar o seguinte:
+“(...)Ante o exposto, acordam os Desembargadores da 10ª Câmara Cível do TRIBUNAL DE JUSTIÇA DO PARANÁ, por unanimidade de votos, em julgar CONHECIDO O RECURSO DE PARTE E DESPROVIDO o recurso de ELIANE AKIE TAKEDA SANTOS representado(a) por AGENOR SANTOS NETO.(...)”- destaquei.
+No mais, permanece inalterada a decisão.Por oportuno, como se trata de mero erro material, desnecessária a intimação da embargada para contrarrazões, haja vista a ausência de modificação do julgado.Diante do exposto, voto no sentido de conhecer e acolher os embargos de declaração, para o fim de corrigir o erro material, nos termos acima consignados.
