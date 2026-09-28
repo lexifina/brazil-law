@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Estado da Bahia com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado da Bahia, assim ementado (fls. 134/135):
+MANDADO DE SEGURANÇA. IMPUGNAÇÃO À GRATUIDADE JUDICIÁRIA. PREJUDICADA. CUSTAS RECOLHIDAS. PRELIMINARES DE AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA, LITISPENDÊNCIA, DECADÊNCIA E PRESCRIÇÃO. REJEITADAS. POLICIAL MILITAR INATIVO. DIREITO À PERCEPÇÃO DA GRATIFICAÇÃO POR CONDIÇÕES ESPECIAIS DE TRABALHO - CET, NO PERCENTUAL DE 125%. DIREITO LÍQUIDO E CERTO DEMONSTRADO. PRECEDENTES DESTE EGRÉGIO TRIBUNAL DE JUSTIÇA. SEGURANÇA CONCEDIDA.
+1. O presente Mandado de Segurança foi impetrado contra ato ilegal atribuído ao SECRETÁRIO DE ADMINISTRAÇÃO DO ESTADO DA BAHIA, consubstanciado na omissão do pagamento, ao Impetrante, da Gratificação por Condição Especial de Trabalho - CET no percentual de 125% (cento e vinte e cinco por cento), referente à graduação de 1º Tenente PM.
+2. No caso dos autos, o direito à majoração da gratificação é inconteste, uma vez que a documentação acostada aos autos demonstra que o Impetrante foi transferido para a inatividade no posto de 1º Sargento da PM/BA, percebendo proventos calculados sobre a remuneração integral de 1º Tenente da PM/BA, contudo, não está recebendo a CET, no importe de 125%, tal qual os policiais da ativa.
+Opostos embargos declaratórios, foram rejeitados (fls. 264/267).
+Nas razões do recurso especial, a parte recorrente aponta, além de dissídio jurisprudencial, violação aos seguintes dispositivos:
+I - art. 1.022, II, do Código de Processo Civil, ao argumento de que o acórdão deixou de enfrentar matéria de ordem pública suscitada nos embargos de declaração, consistente na litispendência/coisa julgada com a ação nº 8004776-11.2022.8.05.0004, deixando de examinar os pontos relativos à tríplice identidade de ações, ao trânsito em julgado certificado em 12/05/2025 e à consequente extinção do feito com base no art. 485, V, do CPC/2015 e;
+II - art. 337, VI, §§ 1º, 2º, 3º e 4º, do Código de Processo Civil, porque restou configurada a litispendência/coisa julgada entre o presente mandado de segurança e a ação anteriormente ajuizada, havendo identidade de partes, causa de pedir e pedido, de modo que a matéria, por ser de ordem pública, é cognoscível a qualquer tempo, inclusive em embargos de declaração, impondo-se a extinção sem resolução do mérito. Aduz, ainda, que não há preclusão para suscitar tais questões antes do trânsito em julgado e que o Tribunal a quo incorreu em erro ao reputar inovação recursal.
+Parecer ministerial às fls. 346/351.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida, pois a parte recorrente, nas razões aduzidas nos embargos declaratórios e no recurso especial, sustentou (fls. 194/196 g.n):
+ ..
+LITISPENDÊNCIA/COISA JULGADA. LITIGÂNCIA DE MÁ-FÉ.
+O presente feito deve ser extinto em razão da ocorrência de litispendência/coisa julgada, tendo em vista que é reprodução idêntica de ação anteriormente ajuizada pelas mesmas partes, contendo a mesma fundamentação jurídica (causa de pedir) e o mesmo pedido sob o número 8004776- 11.2022.8.05.0004. É o que demonstra a documentação colacionada em anexo.
+Assim, a hipótese é de extinção do processo sem resolução do mérito com fundamento nos arts. 485, V e 337, § 1º, § 2º, § 3º e § 4º, todos do CPC, desde já prequestionados, pela ocorrência de litispendência/coisa julgada:
+ ..
+Requer, pois, que haja pronunciamento de V. exa sobre o fato relevante (litispendência/coisa julgada), questão de ordem que pode ser deduzida a qualquer momento, podendo, inclusive, ser reconhecida de ofício pelo Poder Judiciário, ao tempo em que postula sejam emprestados efeitos infringentes ao recurso, com a modificação do julgado, para extinguir o feito sem julgamento de mérito e condenar a parte autora pela litigância de má-fé.
+Contudo, o Tribunal de origem quedou silente sobre tais argumentações, limitando-se a manter os fundamentos do acórdão e rejeitando os pertinentes aclaratórios do ora recorrente, em franca violação ao art. 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+ANTE O EXPOSTO, dou provimento ao recurso especial, para anular o aresto proferido em embargos de declaração. Retornem os autos à Corte de origem, para que esta possa, por meio de seu órgão colegiado, proferir novo acórdão, sanando as omissões apontadas nesta decisão.
+Publique-se.
+EMENTA
