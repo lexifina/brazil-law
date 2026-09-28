@@ -1,0 +1,7 @@
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. DECISÃO MONOCRÁTICA QUE INDEFERIU PEDIDOD E ATRiBUIÇÃO DE EFEITO SUSPENSIVO A AGRAVO DE INSTRUMENTO. JULGAMENTO DO MÉRITO DO RECURSO PRINCIPAL PELO ÓRGÃO COLEGIADO NA MESMA SESSÃO. PERDA SUPERVENIENTE DO OBJETO. AGRAVO INTERNO PREJUDICADO.
+
+RELATÓRIO
+Trata-se de agravo interno interposto por SILVIO LEANDRO DA SILVA (mov. 1.1) em face da decisão monocrática proferida ao mov. 8.1 do agravo de instrumento n. 0077597-19.2026.8.16.0000, por meio da qual este Relator indeferiu o pedido de tutela recursal.Em suas razões, sustenta o Agravante, em síntese, que: a) estariam presentes a probabilidade do direito e o perigo de dano autorizadores da tutela recursal, porquanto a controvérsia deduzida nos embargos ultrapassaria a mera divergência aritmética, alcançando a própria composição do crédito exequendo; b) o prosseguimento da execução, com a possibilidade de novas medidas constritivas e expropriatórias, comprometeria a utilidade do julgamento do agravo de instrumento; e c) a jurisprudência admitiria, em hipóteses excepcionais, a concessão de efeito suspensivo mesmo sem a garantia integral do juízo. Pugna, assim, pela reforma da decisão monocrática, com a atribuição de efeito suspensivo ao agravo de instrumento e a suspensão do curso da execução.A Agravada apresentou contrarrazões (mov. 10.1).É o relatório.
+
+VOTO
+Diante do julgamento de mérito do agravo de instrumento n. 0077597-19.2026.8.16.0000, a pretensão apresentada no presente agravo interno perdeu o objeto.
