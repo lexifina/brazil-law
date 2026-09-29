@@ -1,0 +1,62 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. FISCALIZAÇÃO DAS RELAÇÕES DE TRABALHO. APLICAÇÃO DE PENALIDADE ADMINISTRATIVA. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. HARMONIA DO JULGADO COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO: INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. RECURSO EXTRAORDINÁRIO COM AGRAVO NÃO CONHECIDO.
+
+Relatório
+1. Agravo nos autos principais contra a inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado da Quarta Turma do Tribunal Regional Federal da Quarta Região:
+“ADMINISTRATIVO. MANDADO DE SEGURANÇA COLETIVO. AGRAVO DE INSTRUMENTO. AGRAVO INTERNO. RELAÇÕES DE TRABALHO. NATUREZA PRIVADA. FISCALIZAÇÃO. JUSTIÇA DO TRABALHO. COMPETÊNCIA. ARTIGO 114, INCISOS IV, VII E IX, DA CONSTITUIÇÃO FEDERAL. I. A legislação ora objurgada regulamenta as relações de trabalho de natureza privada, criando mecanismos de fiscalização no âmbito do Ministério do Trabalho e Emprego, para assegurar a igualdade salarial e de critérios remuneratórios entre mulheres e homens. II. É inafastável a competência da Justiça do Trabalho para apreciar a lide, nos termos do artigo 114, incisos IV, VII e IX, da Constituição Federal” (fl. 5, e-doc. 10).
+
+Os embargos de declaração opostos foram parcialmente acolhidos para fins de prequestionamento (e-doc. 14).
+
+2. No recurso extraordinário, o agravante alegou ter o Tribunal de origem contrariado o inc. IX do art. 93, os incs. I e VIII do art. 109 e os incs. IV, VII e IX do art. 114 da Constituição da República.
+
+Argumentou “não se busca[r] no mandamus dirimir controvérsia decorrente de relação de trabalho de qualquer natureza, tampouco matéria sujeita à jurisdição da Justiça do Trabalho, mas sim questão administrativa relativa à determinação contida em atos normativos (Decreto nº 11.795/2023 e Portaria MTE nº 3.714/2023), cuja atuação do Ministério do Trabalho e Emprego é apenas consequência das determinações constantes nos atos normativos ora debatidos” (fls. 9-10, e-doc. 23).
+
+Ressaltou que, “no caso em tela, somente ocorrerá alguma penalidade se a parte inadimplir dessa obrigação, conforme estipulado no art. 5º, § 3º da Lei nº 14.611/2023. Portanto, inaplicável ao caso o inciso VII do art. 114 da CF/88” (fl. 10, e-doc. 23).
+
+Asseverou que, sendo “evidente que não há no presente caso discussão acerca de qualquer tipo de relação de trabalho direta a ser analisada, mas sim atos administrativos praticados por autoridade federal, com relação direta aos empregadores, remanesce a competência da Justiça Federal para processar e julgar a ação mandamental” (fl. 11, e-doc. 23).
+
+Pediu provimento do recurso extraordinário.
+
+3. A Vice-Presidente do Tribunal Regional Federal da Quarta Região negou seguimento ao recurso extraordinário pela aplicação do Tema 339 da repercussão geral e inadmitiu-o pela incidência da Súmula n. 279 do Supremo Tribunal Federal (e-doc. 35).
+
+4. No agravo interposto contra a inadmissibilidade do recurso extraordinário, o agravante alega que “não se está discutindo as provas postas nos autos e consideradas pelo Juízo para seu convencimento, até porque não foram produzidas provas, mas sim apenas a competência para processamento e julgamento do mandado de segurança. Desta forma, não deve ser aplicada a Súmula 279 do STF ao caso” (fl. 9, e-doc. 40).
+
+Pede o provimento do presente recurso extraordinário com agravo.
+
+Examinados os elementos havidos nos autos, DECIDO.
+
+5. Razão jurídica não assiste ao agravante.
+
+6. Na espécie, a Desembargadora Federal, Relatora do voto condutor do acórdão recorrido, assentou competir à Justiça do Trabalho processar e julgar demandas em que se discutem penalidades administrativas aplicadas aos empregados pelos órgãos de fiscalização das relações de trabalho. Estes os fundamentos adotados no acórdão questionado:
+“Com efeito, (1) o(a) impetrante pretende impedir a divulgação pública pelo MTE e a publicação pelos substituídos do Impetrante do ‘Relatório de Transparência Salarial e de Critérios Remuneratórios’ em seus sites e redes sociais, sem oportunidade de defesa prévia, sem proteção dos dados pessoais sensíveis e de interesse dos competidores, assim como o respeito às demais garantias constitucionais dos substituídos do Impetrante; (2) as medidas que almeja obstar estão relacionadas à ação fiscalizatória das autoridades trabalhistas, e (3) a legislação questionada regulamenta as relações de trabalho de natureza privada, criando mecanismos de fiscalização no âmbito do Ministério do Trabalho e Emprego, para assegurar a igualdade salarial e de critérios remuneratórios entre mulheres e homens.
+Diante desse contexto, é inafastável a competência da Justiça do Trabalho para apreciar a lide, nos termos do artigo 114, incisos IV, VII e IX, da Constituição Federal” (fl. 3, e-doc. 10).
+
+A jurisprudência deste Supremo Tribunal firmou-se no sentido de competir à Justiça do Trabalho apreciar e julgar os processos relativos a sanções administrativas impostas ao empregador pelos órgãos de fiscalização. Nesse sentido, por exemplo:
+“Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. 3. Arguição de perda de objeto do recurso extraordinário. Não ocorrência. 4. Mandado de Segurança. Expedição de certidão de regularidade fiscal. Penalidades administrativas impostas aos empregadores pelos órgãos de fiscalização das relações de trabalho. Competência da Justiça do Trabalho. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento” (ARE n. 842.122-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 27.8.2018).
+
+“COMPETÊNCIA – JUSTIÇA DO TRABALHO. Compete à Justiça do Trabalho apreciar e julgar processos relativos a sanções administrativas impostas ao empregador pelos órgãos de fiscalização. Inteligência do inciso VII do artigo 114 da Constituição Federal” (RE n. 627.391-AgR, Relator o Ministro Marco Aurélio, Primeira Turma, DJe 13.12.2017).
+
+Confiram-se as seguintes decisões monocráticas transitadas em julgado proferidas em processos com controvérsias similares à do presente processo: ARE 1.585.37, Relator o Ministro Flávio Dino, DJe 9.2.2026; e RE n. 1.552.388, Relatora a Ministra Cármen Lúcia, DJe 9.6.2025.
+
+O Tribunal Regional Federal da Quarta Região, ao assentar ser da Justiça do Trabalho a competência para processar e julgar demanda relacionada à penalidades administrativas aplicáveis aos empregadores pelos órgãos de fiscalização das relações de trabalho não divergiu da jurisprudência deste Supremo Tribunal Federal.
+
+7. Como assentado na decisão de inadmissibilidade do recurso extraordinário, rever o entendimento adotado pelo Tribunal Regional, sobre a competência da Justiça do trabalho para processamento e julgamento do presente caso, demandaria a análise do conjunto probatório constante dos autos, procedimento incabível em recurso extraordinário, como se tem na Súmula n. 279 do Supremo Tribunal Federal. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Assim, por exemplo:
+“Direito civil. Agravo regimental no recurso extraordinário com agravo. Verbas trabalhistas. Reflexos na previdência complementar. Competência da Justiça do Trabalho. Repercussão geral. Fundamentação deficiente. Inadmissibilidade. Reexame de fatos e provas. Súmula n° 279/STF. Agravo interno não provido. I. Caso em exame 1. Agravo interno interposto contra decisão que negou seguimento a recurso extraordinário. 2. O recurso extraordinário busca reformar acórdão que tratava da competência para julgar pedido de recálculo de base de cálculo de salário de contribuição e inclusão de verbas trabalhistas em benefício de complementação de aposentadoria, com condenação de instituição financeira e entidade de previdência privada. 3. O Tribunal de origem concluiu pela competência da Justiça do Trabalho para a demanda, por envolver verbas de natureza trabalhista e seus reflexos em previdência privada. II. Questão em discussão 4. Há duas questões em discussão: (i) saber se a preliminar de repercussão geral do recurso extraordinário foi adequadamente fundamentada; e (ii) saber se é possível o reexame de fatos e provas em recurso extraordinário para discutir a competência da Justiça do Trabalho. III. Razões de decidir 5. A parte agravante não apresentou fundamentação suficiente para demonstrar a existência de questões relevantes que ultrapassem os interesses subjetivos do processo na petição do recurso extraordinário, conforme exigido pelos artigos 1.035, §§ 1º e 2º, do Código de Processo Civil e 327, § 1º, do Regimento Interno do Supremo Tribunal Federal. A jurisprudência da Corte é firme no sentido de que a ausência ou deficiência na fundamentação da preliminar de repercussão geral acarreta a inadmissibilidade do recurso extraordinário, mesmo em casos de repercussão geral presumida ou reconhecida em outro processo. A deficiência na preliminar de repercussão geral não pode ser suprida nas razões do agravo interno, devido à preclusão consumativa. 6. Não se verifica a alegada violação do art. 93, IX, da Constituição Federal, pois o órgão julgador de origem fundamentou adequadamente sua decisão, enfrentando as causas de pedir e aplicando o direito pertinente, sem a necessidade de exame pormenorizado de todas as alegações. 7. O Tribunal de origem decidiu a controvérsia sobre a competência da Justiça do Trabalho com base no conjunto fático-probatório dos autos, e o reexame de fatos e provas é inviável em recurso extraordinário, conforme Súmula 279/STF. IV. Dispositivo 8. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita. 9. Agravo interno conhecido e não provido” (ARE n. 1.612.656-AgR, Relator o Ministro Flávio Dino, Primeira Turma, DJe 24.9.2026).
+
+“AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONTROVÉRSIA QUANTO À COMPETÊNCIA DA JUSTIÇA DO TRABALHO. AFERIÇÃO SOBRE NATUREZA CIVIL OU TRABALHISTA DA RELAÇÃO. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. MANIFESTA IMPROCEDÊNCIA. AGRAVO INTERNO DESPROVIDO, COM IMPOSIÇÃO DE MULTA DE 5% (CINCO POR CENTO) DO VALOR ATUALIZADO DA CAUSA, NOS TERMOS DO ARTIGO 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL, CASO SEJA UNÂNIME A VOTAÇÃO. HONORÁRIOS ADVOCATÍCIOS MAJORADOS AO MÁXIMO LEGAL EM DESFAVOR DA PARTE RECORRENTE, CASO AS INSTÂNCIAS DE ORIGEM OS TENHAM FIXADO, NOS TERMOS DO ARTIGO 85, § 11, DO CÓDIGO DE PROCESSO CIVIL, OBSERVADOS OS LIMITES DOS §§ 2º E 3º E A EVENTUAL CONCESSÃO DE JUSTIÇA GRATUITA” (ARE n. 1.515.376-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 11.4.2025).
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. FISCALIZAÇÃO DAS RELAÇÕES DE TRABALHO. PENALIDADE ADMINISTRATIVA. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279/STF. AGRAVO IMPROVIDO. I - Compete à Justiça do Trabalho apreciar e julgar processos relativos às penalidades administrativas impostas aos empregadores pelos órgãos de fiscalização das relações de trabalho. II - Conforme a Súmula 279/STF, é inviável, em recurso extraordinário, o reexame do conjunto fático-probatório constante dos autos. III - Agravo regimental a que se nega provimento” (ARE n. 1.482.679-AgR, Relator o Ministro Cristiano Zanin, Primeira Turma, DJe 3.5.2024).
+
+Comprovados os óbices jurídicos impeditivos da admissibilidade do recurso, nada há a prover em relação às alegações do agravante.
+
+8. Pelo exposto, não conheço do presente recurso extraordinário com agravo (inc. III do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+
+Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional.
+
+Publique-se.
+
+Brasília, 29 de setembro de 2026.
+
+Ministra CÁRMEN LÚCIA
+Relatora
