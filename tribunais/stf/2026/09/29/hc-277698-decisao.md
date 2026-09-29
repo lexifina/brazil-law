@@ -1,0 +1,47 @@
+DECISÃO
+
+Habeas corpus. Falta grave. Execução penal. Não exaurimento da instância antecedente. Não se conhece de habeas corpus impetrado contra decisão monocrática de Ministro de Tribunal Superior. O exaurimento da instância no Tribunal Superior é condição para instaurar a competência desta Suprema Corte. Precedentes. Negativa de seguimento.
+
+Trata-se de habeas corpus impetrado em favor de Adriano Manoel dos Santos contra decisão monocrática do Relator do HC 1.116.340/SC do Superior Tribunal de Justiça, que não conheceu do writ (evento 10).
+
+O Juízo da Execução Penal reconheceu e homologou a falta grave imputada ao paciente, determinando sua regressão ao regime semiaberto e a perda de um terço dos dias anteriormente remidos. Interposto agravo em execução, o Tribunal de Justiça negou provimento ao recurso (eventos 5 e 8).
+
+No presente writ, a defesa sustenta indevido o reconhecimento da falta grave, porquanto partiu de imputação disciplinar cuja autoria não foi individualizada por elemento probatório diretamente vinculado ao paciente. Alega a impossibilidade de reconhecimento de falta grave por presunção. Aduz que “nenhum aparelho celular ou chip foi apreendido em poder do paciente. Tampouco houve perícia técnica ou identificação de voz capaz de atribuir a Adriano as comunicações investigadas, circunstâncias expressamente levadas ao conhecimento do Superior Tribunal de Justiça”. Requer, em medida liminar, a suspensão dos efeitos decorrentes do reconhecimento da falta grave. No mérito, pugna pela concessão da ordem, a fim de que seja reconhecido o constrangimento ilegal decorrente da manutenção da sanção disciplinar sem suporte probatório individualizado apto a demonstrar que o paciente praticou a conduta prevista no art. 50, inciso VII, da Lei de Execução Penal, com o consequente afastamento da infração disciplinar e de todos os efeitos dela decorrentes. Subsidiariamente, requer seja determinado novo exame da matéria, com efetivo controle jurisdicional acerca da existência de suporte probatório individualizado para a imposição da sanção disciplinar.
+
+É o relatório. Decido.
+
+Colho do ato apontado como coator (evento 10):
+
+“(...)
+Esta Corte e o Supremo Tribunal Federal pacificaram o entendimento de que não cabe habeas corpus como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (STJ, HC n. 535.063/SP, Terceira Seção, Relator Ministro Sebastião Reis Junior, julgado em 10/6/2020, DJe de 25/8/2020; STF, AgRg no HC n. 180.365/PB, Primeira Turma, Relatora Ministra Rosa Weber, julgado em 27/3/2020, DJe de 2/4/2020; e AgRg no HC n. 147.210/SP, Segunda Turma, Relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/2/2020).
+Passo, portanto, à análise das alegações defensivas exclusivamente para verificar a existência de constrangimento ilegal manifesto que justifique a atuação excepcional desta Corte.
+Inicialmente, a Defesa assevera que, no âmbito do Tribunal de origem, a Procuradoria-Geral de Justiça opinou pelo provimento do recurso defensivo, reconhecendo a insuficiência do conjunto probatório para demonstrar a autoria da falta grave. Tal manifestação, contudo, não vincula o órgão julgador, a quem compete formar livremente sua convicção a partir dos elementos constantes do procedimento administrativo disciplinar e da instrução processual, o que foi observado pelo colegiado estadual ao apreciar o recurso.
+A defesa pretende afastar o reconhecimento da falta grave prevista no art. 50, VII, da Lei de Execução Penal, ao argumento de que não haveria prova suficiente de que o paciente tenha efetivamente utilizado aparelho telefônico para comunicação com o ambiente externo. Sustenta, para tanto, que não houve apreensão de aparelho em sua posse, tampouco registro de mensagens, ligações ou outros elementos que demonstrem sua utilização, afirmando que a imputação teria decorrido exclusivamente da existência de vínculo entre o paciente e pessoa cadastrada como visitante.
+O Tribunal de origem, contudo, ao apreciar o agravo em execução, manteve a homologação do procedimento administrativo disciplinar, assentando que a apreciação da suficiência das provas produzidas para a caracterização da falta grave incumbiria à autoridade administrativa, limitando-se a atuação judicial ao controle da legalidade do procedimento (fls. 13-16).
+Embora a defesa questione essa conclusão e sustente a inexistência de elementos probatórios suficientes para individualizar a conduta do paciente, o acolhimento da pretensão exigiria nova incursão no conteúdo do procedimento administrativo disciplinar, com reavaliação dos elementos que embasaram o reconhecimento da falta grave e da conclusão acerca da autoria da infração.
+Esta Corte Superior possui o entendimento de que a pretensão de afastamento da falta grave por alegada ausência de prova mínima da autoria demanda revolvimento do acervo fático-probatório, providência incompatível com a via estreita do habeas corpus.
+(...)
+É certo que o controle judicial da execução penal não se limita à verificação de aspectos meramente formais do procedimento administrativo. Todavia, a pretensão deduzida neste writ ultrapassa esse controle de legalidade, pois pressupõe a conclusão de que os elementos reunidos no procedimento administrativo seriam insuficientes para demonstrar que o paciente praticou a conduta que lhe foi atribuída.
+Não se trata, portanto, de mera questão jurídica passível de solução a partir das premissas fáticas expressamente reconhecidas no acórdão impugnado, mas de pretensão que reclama a reapreciação dos elementos probatórios utilizados para a formação da convicção acerca da falta disciplinar.
+ Nesse contexto, não se evidencia ilegalidade manifesta ou teratologia no ato impugnado que autorize a superação excepcional do óbice ao conhecimento do habeas corpus. A irresignação defensiva deve ser deduzida pela via processual adequada, não sendo possível utilizar o writ como sucedâneo recursal para promover nova análise do conjunto probatório produzido no procedimento administrativo disciplinar.
+Ante o exposto, não conheço do habeas corpus.”
+
+Há óbice ao conhecimento do presente writ, uma vez não esgotada a jurisdição do Tribunal Superior antecedente. Os atos impugnados são decisões monocráticas e não o resultado de julgamentos colegiados.
+
+O exaurimento da instância no Tribunal Superior é condição para instaurar a competência desta Suprema Corte com base nos artigos 102, I, ‘i’, e 102, II, ‘a’, da Constituição Federal. Nesse sentido, a jurisprudência desta Suprema Corte afirma que “Não se inaugura a competência deste Supremo nas hipóteses em que não esgotada a jurisdição antecedente, visto que tal proceder acarretaria indevida supressão de instância, dado o cabimento de agravo regimental” (HC 234.766-AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe 05.02.2024); “A não interposição de agravo regimental no Superior Tribunal de Justiça ou a ausência da análise da decisão monocrática pelo Colegiado daquela Corte impedem o conhecimento do habeas corpus pelo Supremo Tribunal Federal, pois, do contrário, permitiria ao jurisdicionado a escolha do Tribunal para conhecer e julgar a sua causa, o que configuraria evidente abuso do direito de recorrer.” (HC 235.743-AgR, Rel. Min. Cristiano Zanin, Primeira Turma, DJe 14.02.2024).
+
+Na mesma linha: HC 235.631-ED, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 14.02.2024; HC 233.763-AgR, Rel. Min. André Mendonça, Segunda Turma, DJe 13.12.2023; HC 235.584-AgR, Rel. Min. Cristiano Zanin, Primeira Turma, DJe 09.02.2024; HC 232.665-AgR, Rel. min. Cármen Lúcia, Primeira Turma, DJe 26.10.2023; HC 233.620-AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 09.01.2024; HC 234.766-AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe 05.02.2024; HC 228.740-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 228.740-AgR; HC 221.482-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 01.12.2022; HC 230.493-AgR, Rel. Min. Nunes Marques, Segunda Turma, DJe 09.01.2024; HC 225.698-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 27.4.2023; HC 218.742-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 20.9.2022.
+
+Na esteira da orientação do Ministro Celso de Mello, ‘[e]sta Suprema Corte (...) compreende que a cognoscibilidade da ação de “habeas corpus” supõe, em contexto idêntico ao de que ora se cuida, a existência de decisão colegiada da Corte Superior apontada como coatora, situação inocorrente na espécie’ (HC 183.035/CE).
+
+O caso concreto não autoriza superação desse entendimento, porquanto não identificadas situações excepcionais de flagrante ilegalidade ou de teratologia constatáveis de plano, ou, ainda, de decisão manifestamente contrária à jurisprudência desta Suprema Corte. Nessa linha, “a conduta amolda-se perfeitamente ao disposto no art. 50, VI, combinado com o art. 39, I e V, ambos da LEP, que impõem ao condenado o dever de comportamento disciplinado e o cumprimento das ordens recebidas, o que inclui o zelo pelos bens públicos sob sua guarda” e “a higidez da decisão administrativa e do acórdão impugnado é reforçada pelas contradições apresentadas pelo próprio reeducando durante a sua ouvida” (evento 9).
+
+Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+
+Publique-se.
+
+Brasília, 29 de setembro de 2026.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
