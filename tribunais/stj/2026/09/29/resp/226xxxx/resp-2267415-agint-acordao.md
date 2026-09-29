@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/09/2026 a 29/09/2026, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Regina Helena Costa, Gurgel de Faria, Paulo Sérgio Domingues e Herman Benjamin votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. NECESSIDADE DE COMBATE A TODOS OS FUNDAMENTOS DO CAPÍTULO IMPUGNADO. EXIGÊNCIA CONTIDA NO ART. 1.021, § 1º, DO CPC. SÚMULA N. 182/STJ. INOVAÇÃO DE TESE RECURSAL. IMPOSSIBILIDADE.
+1. De acordo com o art. 1.021, § 1º, do CPC, constitui ônus da parte recorrente impugnar especificamente os pilares do decisório combatido, evidenciando o desacerto das razões declinadas no julgamento monocrático.
+2. A Corte Especial, ao julgar os EREsp n. 1.424.404/SP (rel. Ministro Luis Felipe Salomão, DJe de 17/11/2021), decidiu que, em relação ao agravo interno manejado contra decisão monocrática de relator, deverá a parte agravante refutar a todos os alicerces empregados no capítulo por ela impugnado, sob pena de incidência do óbice previsto na Súmula n. 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida."
+3. Caso em que a parte insurgente não se desincumbiu desse encargo, limitando-se a arguir tese dissociada das razões contidas no decisum atacado.
+4. "É vedado, em agravo interno, a inovação de tese recursal" (AgInt no PUIL n. 5.558/DF, rel. Ministro Sérgio Kukina, Primeira Seção, DJEN de 18/8/2026).
+5. Agravo interno não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por Silvana Barbosa Costa desafiando a decisão de fls. 830/833, que não conheceu de seu recurso especial, pelos seguintes alicerces: (a) a existência de fundamento autônomo no acórdão recorrido, não impugnado, atrai a incidência do Enunciado n. 283/STF; (b) a modificação das premissas adotadas pela Corte estadual, no sentido de que a ora agravante não foi beneficiada pela preclusão, porquanto não participou da liquidação coletiva n. 6542/2005, demandaria o reexame de matéria fático-probatória, o que esbarra na vedação a que se refere a Súmula n. 7/STJ; (c) referidos óbices sumulares inviabilizam o conhecimento da tese de dissídio jurisprudencial.
+Inconformada, a parte agravante aduz que a questão controvertida versa apenas sobre a existência de preclusão (matéria processual), motivo pelo qual "não se deve falar em necessidade de combate a fundamento constitucional" que, outrossim, "jamais foi objeto recursal  ..  vez que o Recurso Especial interposto pretende tão somente verificar a negativa de prestação jurisdicional pela Corte Estadual" (fl. 842). Daí asseverar a inaplicabilidade do Verbete n. 126/STJ.
+Lado outro, aduz a existência de violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC, pois: (i) "ainda que a Corte Estadual não esteja obrigada a analisar todos os argumentos, esta deve ser reputada como omissa quando não analisar aqueles argumentos essenciais ao deslinde do feito" (fl. 843); (ii) " é  flagrante a omissão do órgão julgador, pois em nenhum momento enfrentou as questões e documentos apontados, sequer para declarar sua imprestabilidade a infirmar conclusão apontada na decisão recorrida" (fl. 844).
+Por fim, requer a reconsideração ou a reforma do decisum atacado.
+Sem impugnação (fl. 855).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. NECESSIDADE DE COMBATE A TODOS OS FUNDAMENTOS DO CAPÍTULO IMPUGNADO. EXIGÊNCIA CONTIDA NO ART. 1.021, § 1º, DO CPC. SÚMULA N. 182/STJ. INOVAÇÃO DE TESE RECURSAL. IMPOSSIBILIDADE.
+1. De acordo com o art. 1.021, § 1º, do CPC, constitui ônus da parte recorrente impugnar especificamente os pilares do decisório combatido, evidenciando o desacerto das razões declinadas no julgamento monocrático.
+2. A Corte Especial, ao julgar os EREsp n. 1.424.404/SP (rel. Ministro Luis Felipe Salomão, DJe de 17/11/2021), decidiu que, em relação ao agravo interno manejado contra decisão monocrática de relator, deverá a parte agravante refutar a todos os alicerces empregados no capítulo por ela impugnado, sob pena de incidência do óbice previsto na Súmula n. 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida."
+3. Caso em que a parte insurgente não se desincumbiu desse encargo, limitando-se a arguir tese dissociada das razões contidas no decisum atacado.
+4. "É vedado, em agravo interno, a inovação de tese recursal" (AgInt no PUIL n. 5.558/DF, rel. Ministro Sérgio Kukina, Primeira Seção, DJEN de 18/8/2026).
+5. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não comporta conhecimento.
+Segundo o art. 1.021, § 1º, do CPC, constitui ônus da parte recorrente impugnar especificamente os pilares do decisório combatido, evidenciando o desacerto das razões declinadas no julgamento monocrático.
+De outro giro, a Corte Especial, ao julgar os EREsp 1.424.404/SP (Rel. Ministro Luis Felipe Salomão, DJe 17/11/2021), decidiu que, em relação ao agravo interno manejado contra decisão monocrática de relator, deverá a parte agravante refutar a todos os alicerces empregados no capítulo por ela impugnado, sob pena de incidência do óbice previsto na Súmula n. 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida."
+Na espécie, conforme destacado no relatório acima, o decisum agravado não conheceu de seu recurso especial pelos seguintes argumentos: (a) a existência de fundamento autônomo no acórdão recorrido, não impugnado, atrai a incidência do Enunciado n. 283/STF; (b) a modificação das premissas adotadas pela Corte estadual, no sentido de que a ora insurgente não foi beneficiada pela preclusão, porquanto não participou da liquidação coletiva n. 6542/2005, demandaria o reexame de matéria fático-probatória, o que esbarra na vedação a que se refere a Súmula n. 7/STJ; (c) os referidos empeços sumulares inviabilizam o conhecimento da tese de dissídio jurisprudencial.
+Já no agravo interno agora examinado, a parte recorrente cinge-se a deduzir tese que se encontra dissociada dos pilares contidos na decisão agravada, que não aplicou ao caso o Verbete n. 126/STJ, deixando, assim, como lhe incumbia (art. 1.021, § 1º, do CPC), de empreender efetivo combate ao decisório atacado.
+Nesse contexto, incide o aludido Enunciado n. 182/STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ E APLICAÇÃO DO DISPOSTO NOS ARTS. 932, III, E 1.021, § 1º, DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO.
+1. As razões de agravo interno não impugnam especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus da parte agravante. Incidência da Súmula 182/STJ e aplicação do disposto no art. 932, III, c/c o art. 1.021, § 1º, ambos do Código de Processo Civil de 2015.
+2. Agravo interno não conhecido.
+(AgInt no AREsp n. 2.023.903/TO, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO IMPUGNAM FUNDAMENTO DA DECISÃO RECORRIDA. SÚMULA N. 182/STJ. OFENSA AO PRINCÍPIO DA DIALETICIDADE. AGRAVO INTERNO NÃO CONHECIDO.
+1. O art. 1.021, § 1º, do NCPC determina que, na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada, o que não ocorreu no presente caso.
+2. Ademais, em observância ao princípio da dialeticidade, exige-se do agravante o desenvolvimento de argumentação capaz de demonstrar a incorreção dos motivos nos quais se fundou a decisão agravada. Súmula n. 182/STJ.
+3. Agravo interno não conhecido.
+(AgInt no AREsp n. 1.965.607/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/9/2022, DJe de 22/9/2022.)
+A seu turno, é inviável o conhecimento da tese de ofensa aos arts. 489, § 1º, IV, e 1.022, II, do CPC, porque suscitada apenas nas razões do agravo interno, em evidente e indevida inovação recursal. Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. ARGUIÇÃO DE TESE QUE NÃO GUARDA PERTINÊNCIA COM O CASO APRECIADO PELA TURMA RECURSAL. SÚMULA N. 284/STF. INOVAÇÃO DE TESE RECURSAL. PRECLUSÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE.
+1. A infração de trânsito imputada à parte agravante não foi aquela prevista no art. 165 do CTB (" d irigir sob a influência de álcool ou de qualquer outra substância psicoativa que determine dependência"), mas, sim, de se recusar a se submeter ao referido teste, nos termos do art. 165-A do mesmo diploma legal (" r ecusar-se a ser submetido a teste, exame clínico, perícia ou outro procedimento que permita certificar influência de álcool ou outra substância psicoativa, na forma estabelecida pelo art. 277"), motivo pelo qual, nesse ponto, a tese de dissídio jurisprudencial não guarda a necessária similitude com o caso sub judice. A propósito: AgInt no PUIL n. 2.406/DF, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Seção, DJe de 5/5/2022.
+2. É vedado, em agravo interno, a inovação de tese recursal. Nesse sentido: AgInt na Pet n. 10.963/PE, relator Ministro Gurgel De Faria, Primeira Seção, DJe de 22/2/2018; AgInt nos EDcl no PUIL n. 482/RS, relator Ministro Sérgio Kukina, Primeira Seção, DJe de 19/3/2020.
+3. O pedido de uniformização não se presta à discussão de questões de natureza fático-probatória. A propósito, o seguinte julgado:
+AgInt no PUIL n. 116/RO, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 30/6/2017.
+4. Agravo interno parcialmente conhecido e, nessa parte, desprovido.
+(AgInt no PUIL n. 5.558/DF, relator Ministro Sérgio Kukina, Primeira Seção, DJEN de 18/8/2026, grifo nosso.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/15. NÃO OCORRÊNCIA. INOVAÇÃO DE TESE RECURSAL. IMPOSSIBILIDADE. AUSÊNCIA DE COMANDO NORMATIVO. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Afasta-se a alegada afronta aos artigos 489 e 1.022, II, do CPC, pois o Tribunal de origem prestou a tutela jurisdicional de forma clara e fundamentada por meio de fundamentação jurídica que condiz com a resolução da controvérsia. A aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+3. "A tese que não foi ventilada no apelo especial, mas, apenas, nas razões de agravo interno, configura inovação recursal insuscetível de conhecimento, ante a preclusão consumativa.".(AgInt no REsp n. 2.186.179/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 18/8/2025, DJEN de 27/8/2025.)
+4. Configura deficiência na argumentação recursal, a impedir a exata compreensão da controvérsia, o desenvolvimento de temática ou de argumentos dissociados dos fundamentos aplicados pelo acórdão a quo ou quando o dispositivo de lei indicado não contém comando normativo capaz de amparar a pretensão deduzida. Incidência da Súmula 284/STF.
+5. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o seu conhecimento, a teor da Súmula 282/STF.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.967.605/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJEN de 7/11/2025, grifo nosso.)
+ANTE O EXPOSTO, não conheço do agravo interno.
+É o voto.
