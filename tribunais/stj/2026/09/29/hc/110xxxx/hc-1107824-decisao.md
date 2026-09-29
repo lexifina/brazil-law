@@ -1,0 +1,40 @@
+DECISÃO
+WILLIAN MARTINS DA ROCHA alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios (Apelação Criminal n. 0701505-39.2025.8.07.0001).
+Consta dos autos que o paciente foi condenado à pena de 7 anos e 6 meses de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+A defesa sustenta a ilegalidade na pena-base fixada, sob a tese de que os antecedentes valorados remetem a condenações muito antigas. Afirma que as penas não podem ter caráter perpétuo, razão pela qual pugna pela exclusão da referida circunstância judicial, com a consequente redução da reprimenda-base.
+Não houve pedido de liminar.
+O Ministério Público Federal manifestou-se pela concessão da ordem (fls. 366-367).
+Decido.
+I. Maus antecedentes
+O Tribunal a quo assim se pronunciou sobre os antecedentes do paciente (fls. 277-296):
+ ..
+Quanto aos antecedentes, cabe ressaltar que, embora o Juízo singular tenha cometido erro material ao consignar que o réu não é portador de maus antecedentes, a interpretação sistemática da sentença indica a correta análise da moduladora, pois concluiu considerando os antecedentes como desfavoráveis e aplicou a fração respectiva.
+Em consulta à folha de antecedentes penais, verifica-se que o réu possui condenação definitiva nos autos nº 2004.01.1.023020-0, oriundos da 8ª Vara Criminal de Brasília, pela prática do crime previsto no artigo 157, § 2º, II, do Código Penal, fato ocorrido em 14/03/2004, com trânsito em julgado em 25/04/2005 (ID 77074611, pág. 6), circunstância que autoriza o reconhecimento dos antecedentes, nos termos da jurisprudência do Superior Tribunal de Justiça. Consta, ainda, condenação nos autos nº 0710278-40.2020.8.07.0004, oriundos da 1ª Vara Criminal do Gama, referente ao crime previsto no artigo 171 do Código Penal, por fato ocorrido em 10/11/2019, com trânsito em julgado em 27/08/2022 (ID 77074611, pág. 9), a qual foi corretamente reservada para a segunda fase da dosimetria, para fins de reconhecimento da reincidência, tendo em vista sua anterioridade em relação ao fato ora apurado. Assim, uma das anotações foi valorada na primeira fase e a outra na segunda, em conformidade com a orientação jurisprudencial consolidada.
+ ..
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de sanção a ser aplicada ao condenado criminalmente, com vistas à prevenção e à reprovação do delito perpetrado.
+Assim, para obter-se uma aplicação justa da lei penal, o julgador, dentro dessa discricionariedade juridicamente vinculada, há de atentar para as singularidades do caso concreto, e deve, na primeira etapa do procedimento trifásico, guiar-se pelas oito circunstâncias relacionadas no caput do art. 59 do Código Penal. São elas: a culpabilidade; os antecedentes; a conduta social; a personalidade do agente; os motivos; as circunstâncias e as consequências do crime e o comportamento da vítima.
+Quanto aos antecedentes criminais, importante recordar que, por ocasião do julgamento do RE n. 593.818/SC, com repercussão geral reconhecida, o Supremo Tribunal Federal fixou o seguinte posicionamento - Tema 150:
+Não se aplica ao reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, I, do Código Penal, podendo o julgador, fundamentada e eventualmente, não promover qualquer incremento da pena-base em razão de condenações pretéritas, quando as considerar desimportantes, ou demasiadamente distanciadas no tempo, e, portanto, não necessárias à prevenção e repressão do crime, nos termos do comando do artigo 59, do Código Penal. (grifei)
+Na mesma linha, considero que eternizar a valoração negativa dos antecedentes para ensejar impactos na sanção estabelecida, sem nenhuma ponderação sobre as circunstâncias do caso concreto, não se coaduna com os fins do Direito Penal.
+A propósito, já decidiu esta Corte Superior que "a tese do "direito ao esquecimento" não deve ser aplicada em relação a feitos extintos que não possuam lapso temporal significante em relação à data da condenação, qual seja, menos de 10 anos" (AgRg no AgRg no HC n. 698.747/SC, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), 6ª T., DJe de 1º/4/2022, destaquei).
+Importante esclarecer, ainda, que o interregno considerado para tanto é o intervalo entre a data da extinção da pena anteriormente fixada e a prática do novo fato delituoso. Nesse sentido:
+ ..
+2. Sobre a valoração negativa dos antecedentes criminais, o Supremo Tribunal Federal decidiu, em recurso extraordinário com repercussão geral, que "não se aplica aos maus antecedentes o prazo quinquenal de prescrição previsto para a reincidência (art. 64, I, do Código Penal)" (RE n. 593.818, relator ROBERTO BARROSO, Tribunal Pleno, julgado em 18/8/2020, processo eletrônico, REPERCUSSÃO GERAL - MÉRITO, DJe-277, divulgado em 20/11/2020, publicado em 23/11/2020).
+Contudo, segundo a jurisprudência desta Corte, "quando os registros da folha de antecedentes do réu são muito antigos  .. , admite-se o afastamento de sua análise desfavorável, em aplicação à teoria do direito ao esquecimento" (REsp n. 1.707.948/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/4/2018, DJe de 16/4/2018.). Nesse contexto, "o cômputo do prazo do para aplicação do direito ao esquecimento em relação aos antecedentes é realizado entre extinção da pena anteriormente imposta e a prática do novo delito" (EDcl no AgRg no HC n. 696.253/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/4/2022, DJe de 3/5/2022.). Precedentes.
+ ..
+6. Agravo regimental desprovido. (AgRg no REsp n. 1.924.064/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 4/10/2022, grifei)
+No caso concreto, verifico que o registro considerado como maus antecedentes (Processo n. 2004.01.1.023020-0) ocorreu em 14/3/2004, o trânsito em julgado da condenação se deu em 25/4/2005 e, entre a extinção da punibilidade da condenação anterior (4/4/2008) e o fato objeto deste writ (13/1/2025), passaram-se mais de 16 anos, lapso suficiente para aplicação do direito ao esquecimento.
+Diante de tais considerações, entendo que deve ser afastada a valoração desfavorável dos antecedentes do paciente.
+Deve, por conseguinte, ser realizada a nova dosimetria da pena.
+II. Nova dosimetria
+Na primeira fase do delito de tráfico ilícito de entorpecentes, afastada a valoração negativa dos antecedentes, a reprimenda-base deve ser reduzida para 6 anos e 3 meses de reclusão mais 625 dias-multa. Apenas ressalto que estou fixando esse patamar em observância, basicamente, à mesma proporção da que foi estabelecida pela instância de origem.
+Na segunda fase, presentes a atenuante da confissão espontânea e a agravante da reincidência, que foram corretamente compensadas na sentença. Por isso, a pena permanece a mesma.
+Na terceira etapa, não foram reconhecidas causas de aumento ou diminuição de pena.
+Assim, fica a reprimenda do paciente definitivamente estabelecida em 6 anos e 3 meses de reclusão mais 625 dias-multa.
+Fica mantida a imposição do regime inicial fechado, pois, além de haver sido condenado a reprimenda superior a 4 anos de reclusão, teve a pena-base estabelecida acima do mínimo legal e era reincidente ao tempo do crime.
+III. Dispositivo
+À vista do exposto, concedo a ordem de habeas corpus, a fim de afastar a análise desfavorável da vetorial relativa aos antecedentes e, por conseguinte, reduzir em parte a pena-base imposta ao paciente, tornando, assim, a sua sanção definitiva em 6 anos e 3 meses de reclusão e pagamento de 625 dias-multa, nos autos da condenação objeto do Processo n. 0701505-39.2025.8.07.0001.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
