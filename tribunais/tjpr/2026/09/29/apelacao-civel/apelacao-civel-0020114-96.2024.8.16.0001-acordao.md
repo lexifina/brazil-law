@@ -1,0 +1,84 @@
+DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. FRAUDE CONTRA CREDORES E CERCEAMENTO DE DEFESA EM AÇÃO PAULIANA. RECURSOS DE APELAÇÃO PROVIDOS PARA CASSAR A SENTENÇA E DETERMINAR O RETORNO DOS AUTOS À ORIGEM PARA COMPLEMENTAÇÃO DA INSTRUÇÃO PROCESSUAL, ASSEGURANDO A PRODUÇÃO DA PROVA ORAL REQUERIDA PELAS APELANTES, COM POSTERIOR NOVA DECISÃO.
+I. CASO EM EXAME
+1. Apelação da sentença que julgou procedentes os pedidos em ação pauliana ajuizada pelo Banco Safra, visando anular transferência de quota-parte de imóvel realizada por dação em pagamento entre familiares, sob alegação de fraude contra credores. As apelantes sustentam cerceamento de defesa e, no mérito, a regularidade da operação, a ausência de insolvência e de má-fé.
+II. QUESTÃO EM DISCUSSÃO
+2. Consiste em saber se houve cerceamento de defesa pela negativa da produção de prova oral requerida pelas rés-apelantes em ação pauliana, e, caso superada essa questão, saber se a transferência de quota-parte de imóvel por dação em pagamento configura fraude contra credores.
+III. RAZÕES DE DECIDIR
+3. Houve cerceamento de defesa, pois o juiz indeferiu a produção de prova oral requerida pelas rés para demonstrar a boa-fé e a regularidade da transferência do imóvel, julgando antecipadamente o mérito, decidindo pela procedência dos pedidos formulados pela parte autora, em detrimento dos interesses da parte que requereu a produção de provas, sob fundamento, inclusive, de que esta não teria se desincumbido do ônus de provar a boa-fé.
+4. Diante do cerceamento de defesa, a sentença deve ser anulada e os autos retornados ao juízo de origem para complementação da instrução probatória, assegurando às partes o contraditório e ampla defesa.
+IV. DISPOSITIVO
+5. Apelações conhecidas e providas para cassar a sentença e determinar o retorno dos autos à origem para complementação da instrução processual, assegurando às partes a produção de provas e posterior manifestação antes de nova decisão.
+_________
+Dispositivos relevantes citados:
+ CRFB/1988, art. 5º, LV; CPC/2015, arts. 7º, 369 e 370, p.u.
+Jurisprudência relevante citada: STJ, AgInt no AREsp 1406156/SP, Rel. Min. Nancy Andrighi, Primeira Turma, j. 01.07.2021; STJ, AgInt no AREsp 1478713/SP, Rel. Min. Nancy Andrighi, Terceira Turma, j. 13.03.2020; STJ, AgInt no AREsp 1058301/DF, Rel. Min. Nancy Andrighi, Quarta Turma, j. 04.12.2018; STJ, REsp 1.926.646/SP, Rel. Min. Nancy Andrighi, Terceira Turma, j. 15.02.2022; TJPR, Apelação Cível 0000673-11.2019.8.16.0194, Rel. Des. Rosaldo Elias Pacagnan, 20ª Câmara Cível, j. 01.07.2025.
+
+I – RELATÓRIO
+Trata-se de recursos de apelação interposto por Gabriela Khouri e Michelle Khouri Melo em face da sentença mov. 88.1, mantida pela decisão de mov. 103.1, proferida na ação pauliana autuada sob n. 0020114-96.2024.8.16.0001, em trâmite perante o Juízo da 11ª Vara Cível do Foro Central da Comarca da região Metropolitana de Curitiba, que julgou procedentes os pedidos constantes na petição inicial.
+Aduz a apelante Michelle que a decisão de primeiro grau incorreu em erro ao presumir fraude contra credores com base exclusivamente no vínculo familiar entre as rés, sem respaldo probatório concreto.
+Argumenta que a transferência da quota-parte do imóvel, realizada por meio de dação em pagamento à sua irmã Gabriela, foi legítima, respaldada por documentos que comprovam a posse exclusiva da corré sobre o imóvel, os cuidados dispensados à mãe enferma e a ausência de má-fé na transação.
+Destaca que teve cerceado seu direito de defesa, pois teve indeferida a produção de prova oral essencial para demonstrar a boa-fé e a regularidade da operação, o que configura nulidade da sentença.
+No mérito, a apelante alega ilegitimidade ativa do Banco Safra, pois o crédito objeto da ação só venceu após a transferência da quota-parte do imóvel, o que impede o reconhecimento da fraude contra credores, conforme previsto no artigo 158, § 2º, do Código Civil.
+Subsidiariamente, defende que não estão presentes os requisitos legais para configurar a fraude, uma vez que não houve insolvência da apelante, o valor do imóvel é inferior à dívida reclamada, e a alienação foi feita por justo motivo familiar, sem prejuízo aos credores.
+Ressalta ainda que a operação foi formalizada por escritura pública e registrada, afastando qualquer suspeita de conluio ou intenção de fraudar credores.
+Requer a nulidade da sentença por cerceamento de defesa, com o retorno dos autos para a fase instrutória, ou, caso não acolhida essa preliminar, o reconhecimento da ilegitimidade ativa do autor e a extinção do processo sem resolução do mérito. Subsidiariamente, pleiteia a reforma integral da sentença para julgar improcedente a ação pauliana, reconhecendo a regularidade da transferência do imóvel e afastando a presunção de fraude contra credores.
+A apelante Gabriela alega que não participou da dívida originária, tendo adquirido a quota-parte por dação em pagamento legítima, para ressarcimento de despesas médicas e cuidados com a mãe das rés, e que o indeferimento da prova oral que pretendia produzir para demonstrar sua boa-fé configurou cerceamento de defesa, o que justifica a nulidade da sentença.
+No mérito, a apelante sustenta que a sentença incorreu em equívoco ao presumir automaticamente a fraude apenas pelo parentesco entre as rés, sem considerar as provas que demonstram a regularidade da transferência, a ausência da insolvência do devedor e a inexistência dos elementos essenciais para caracterizar a fraude contra credores, quais sejam a anterioridade do crédito, a insolvência do devedor e o consilium fraudis.
+Destaca que a alienação do imóvel ocorreu antes do vencimento do crédito alegado pelo autor, inexistindo interesse processual, e que o valor da dação em pagamento corresponde ao valor de mercado do imóvel, afastando a alegação de preço vil ou redução patrimonial fraudulenta.
+Requer, preliminarmente, o reconhecimento da nulidade da sentença por cerceamento de defesa, com o retorno dos autos para produção da prova oral. Subsidiariamente, pleiteia a reforma da decisão para reconhecer a carência de interesse de agir do autor e, caso não seja esse o entendimento, a improcedência da ação, pela ausência dos requisitos legais da fraude contra credores.
+Contrarrazões pelo desprovimento dos recursos.
+Assim, os autos vieram-me os conclusos.
+É o relatório.
+
+II – FUNDAMENTAÇÃO
+Presentes os pressupostos de admissibilidade intrínsecos (legitimidade, interesse, cabimento e inexistência de fato impeditivo ou extintivo) e extrínsecos (tempestividade e regularidade formal), os recursos devem ser conhecidos.
+Os recursos devolvem a este Tribunal questões semelhantes entre si, motivo pelo qual serão analisados em conjunto.
+Cerceamento de defesa
+A ré/apelante Michelle sustentou que houve cerceamento da sua defesa, porque foi indeferida a produção de prova oral, por meio da qual ela objetivava demonstrar a regularidade da dação em pagamento, a ausência de fraude e a boa-fé na transferência da quota-parte do imóvel.
+Já a ré/apelante Gabriela pretendia, com a prova oral, comprovar a regularidade da transferência da quota-parte do imóvel e a ausência de fraude.
+Com razão as apelantes.
+O artigo 5º, inciso LV, da Constituição da República Federativa do Brasil prescreve que:
+Aos litigantes, em processo judicial ou administrativo, e aos acusados em geral são assegurados o contraditório e ampla defesa, com os meios e recursos a ela inerentes.
+O artigo 7º do Código de Processo Civil estabelece que:
+É assegurada às partes paridade de tratamento em relação ao exercício de direitos e faculdades processuais, aos meios de defesa, aos ônus, aos deveres e à aplicação de sanções processuais, competindo ao juiz zelar pelo efetivo contraditório.
+Os artigos 369 e 370 do mesmo código prescrevem que:
+Art. 369. As partes têm o direito de empregar todos os meios legais, bem como os moralmente legítimos, ainda que não especificados neste Código, para provar a verdade dos fatos em que se funda o pedido ou a defesa e influir eficazmente na convicção do juiz.
+
+Art. 370. Caberá ao juiz, de ofício ou a requerimento da parte, determinar as provas necessárias ao julgamento do mérito.
+Parágrafo único. O juiz indeferirá, em decisão fundamentada, as diligências inúteis ou meramente protelatórias.
+A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que “há cerceamento de defesa na hipótese em que o magistrado julga antecipadamente a lide, indeferindo a produção de provas previamente requerida pelas partes, e conclui pela improcedência da demanda com fundamento na falta de comprovação do direito alegado” (Primeira Turma, AgInt no AREsp 1406156/SP, DJe 1/7/2021; Terceira Turma, AgInt no AREsp 1478713/SP, DJe 13/3/2020; Quarta Turma, AgInt no AREsp 1058301/DF, DJe 4/12/2018).
+No particular, verifica-se que, nas contestações, as recorrentes pugnaram por depoimento pessoal e oitiva de testemunhas (mov. 53.1) e por prova oral (mov. 54.1).
+Ao justificar a necessidade da prova oral, a apelante Michelle Khouri esclareceu que “a produção de prova oral será essencial para a defesa da parte Ré, principalmente pois, através de testemunhas que participaram dos fatos (como familiares e contador), esta parte poderá mostrar a legitimidade da dação em pagamento realizada, bem como a total ausência de conluio fraudulento entre as partes, eis que o negócio só foi realizado como contribuição por despesas médicas que, atualmente e infelizmente, está em estado grave na UTI” (mov. 76.1).
+Já a apelante Gabriela Khouri esclareceu que “reservou o seu direito em requerer a produção de prova oral, que será útil para reforçar a boa-fé do negócio entabulado e afastar quaisquer dúvidas sobre a inexistência de fraude. A prova oral testemunhal se revela fundamental para a elucidação dos fatos, notadamente quanto à demonstração da real motivação da dação em pagamento, do contínuo exercício da posse do imóvel por esta Ré, bem como da destinação dos valores recebidos em razão do negócio, de forma a atestar a existência de uma negociação válida, ratificar a residência desta Ré com sua mãe no imóvel por décadas e os cuidados médicos arcados exclusivamente pela própria. (...) tal prova será imprescindível para esclarecer a dinâmica do negócio jurídico e confirmar que sua finalidade foi unicamente a compensação dos gastos médicos com a genitora das Rés, afastando qualquer presunção de fraude (sobre a qual, até então, não há mínimo indícios)”.
+No entanto, o Juízo de 1º Grau visualizou a possibilidade de julgamento antecipado, anunciado às partes (mov. 80.1).
+Em sentença, o Juízo de origem entendeu que “embora a ré Gabriela alegue boa-fé e justifique a dação em pagamento em decorrência de despesas médicas da mãe, inexiste qualquer correlação entre o valor da suposta negociação realizada entre as demandadas e o montante das referidas despesas médicas familiares acostadas ao feito”.
+O cenário narrado demonstra que, embora as apelantes tenham postulado a produção de prova oral para comprovar a boa-fé no negócio sob discussão, a magistrada julgou o feito de forma antecipada e contrariamente aos interesses das recorrentes, sob o fundamento de que estas não se desincumbiram do ônus de comprovar a boa-fé (terceiro requisito para configuração da fraude contra credores.
+Está demonstrado, desse modo, o cerceamento de defesa.
+Neste sentido:
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO PAULIANA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. BEM DE FAMÍLIA. MANUTENÇÃO DA DESTINAÇÃO. IMPENHORABILIDADE. RECONHECIMENTO. FRAUDE CONTRA CREDORES AFASTADA. CERCEAMENTO DE DEFESA. CONFIGURAÇÃO.
+(...)
+2. O propósito recursal é decidir se a) houve negativa de prestação jurisdicional; b) a doação de imóvel onde reside a família configura fraude contra credores e c) houve cerceamento de defesa.
+(...)
+8. Há cerceamento de defesa na hipótese em que o magistrado julga antecipadamente a lide, indeferindo a produção de provas previamente requerida pelas partes, e conclui pela improcedência da demanda com fundamento na falta de comprovação do direito alegado. Precedentes.
+Na hipótese, o devedor também doou sua quota-parte de outro bem imóvel. Para comprovar a solvabilidade, postulou a produção de prova pericial, mas tal requerimento não foi examinado pelo juiz, que julgou o mérito de forma antecipada e contrariamente aos interesses do devedor sob o fundamento de que este não comprovou a sua solvência. Portanto, houve cerceamento de defesa.
+9. Recursos especiais conhecidos e providos.
+(STJ, Terceira Turma, REsp n. 1.926.646/SP, relatora Ministra Nancy Andrighi, julgado em 15/2/2022, DJe de 18/2/2022).
+Neste sentido também já decidiu esta Câmara:
+DIREITO CIVIL E DIREITO PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO PAULIANA. FRAUDE CONTRA CREDORES. NULIDADE DE OFERECIMENTO DE BEM IMÓVEL EM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA POR DÍVIDAS DE OUTREM. CERCEAMENTO DO DIREITO DE DEFESA. RECURSO PROVIDO.
+I. CASO EM EXAME
+1. Apelação Cível visando a nulidade ou reforma de sentença que julgou improcedentes os pedidos formulados em Ação Pauliana, na qual os autores/Apelantes sustentam a nulidade de alienação fiduciária de imóvel, alegando que teria sido realizada de forma gratuita e em fraude contra credores, em razão da insolvência da empresa garantidora. Na decisão recorrida o Juízo a quo entendeu que a alienação teria sido onerosa e que não se evidenciou nas provas a intenção das rés/Apeladas de fraudar os credores.
+2. Os autores/Apelantes alegam que lhes foi cerceado o direito de produzir provas relevantes para o deslinde da causa e que a sentença padece de vícios de fundamentação que evidenciam contradição nesse aspecto, devendo ser anulada. No mérito, que a ocorrência da fraude alegada na petição inicial deve ser reconhecida e anulado o contrato de alienação fiduciária sobre o bem imóvel indicado.
+II. QUESTÃO EM DISCUSSÃO
+3. Consiste em saber se existe nulidade da sentença e, se isso for superado, se a alienação fiduciária do imóvel pela ré CHOICE em favor da ré TOWER BRIDGE II, configurou fraude contra credores e deve ser anulada.
+III. RAZÕES DE DECIDIR
+4. O Juízo a quo indeferiu, em decisão saneadora e de forma genérica, a produção da prova oral e documental requerida tempestiva e justificadamente pelos autores/Apelantes, consistente nos depoimentos pessoais dos representantes legais das rés/Apeladas e na prestação de informações documentadas pela ré credora fiduciária acerca da execução, mesmo que parcial, das primeiras garantias da operação de crédito, cerceando o seu direito de defesa, pois são elementos de prova que se revelam potencialmente úteis para a elucidação de fatos relevantes e capazes de influenciar na convicção do julgador, isto é, não se tratando de diligências inúteis ou meramente protelatórias.
+5. A sentença não apresentou fundamentação adequada para o afastamento da produção de tais provas, ao passo que repetidamente afirmou que os autores/Apelantes não tinham efetuado comprovação dos fatos que alegaram, assim contradizendo a anterior dispensa das provas.
+6. Os aspectos importantes e essenciais para o deslinde da controvérsia, acerca da gratuidade ou onerosidade do negócio jurídico, isto é, sobre a suposta contrapartida dada ou prometida dar pela ré CIDADÃO à ré CHOICE, que também tocam ao estado de insolvência desta última, e da ciência da ré TOWER BRIDGE II sobre essas questões e sobre o direito creditício dos autores/Apelantes e sua alegada anterioridade, dentre outros fatos controvertidos entre as partes, devem ser analisados após instrução probatória plena, inclusive em razão do tipo de vício que a petição inicial atribui ao negócio jurídico.
+7. A jurisprudência do Superior Tribunal de Justiça reconhece a caracterização do cerceamento de defesa quando provas requeridas tempestivamente são indeferidas e o pedido é julgado improcedente por falta de provas.
+IV. DISPOSITIVO E TESE
+8. Recurso conhecido e provido, cassando a sentença recorrida e determinando o retorno dos autos à origem para a dilação probatória exigida.
+9. Tese de julgamento: “O indeferimento da produção de provas requeridas em ação pauliana e capazes, em tese, de servir à comprovação da alegação de fraude contra credores, caracteriza cerceamento de defesa”.
+(...)
+(TJPR - 20ª Câmara Cível - 0000673-11.2019.8.16.0194 - Curitiba - Relator: Desembargador Rosaldo Elias Pacagnan - j. 1/7/2025).
+Os demais tópicos dos recursos ficam prejudicados, não havendo que se falar em sucumbência, e sua distribuição, com a anulação da sentença e retorno do processo ao 1º Grau para novo e oportuno julgamento.
+Diante do exposto, voto pelo conhecimento e provimento do recurso, para cassar a sentença recorrida, com o retorno dos autos à origem para adoção das providências especificadas na fundamentação, para completar a instrução do processo, assegurada a posterior manifestação das partes quanto às provas acrescidas, antes de proferir nova sentença.
