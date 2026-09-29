@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/09/2026 a 29/09/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO C/C RESTITUIÇÃO DE VALORES. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de rescisão de contrato c/c restituição de valores.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Agravo interno não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por MOMENTUM EMPREENDIMENTOS IMOBILIÁRIOS LTDA., contra decisão que conheceu do agravo para não conhecer do recurso especial.
+Ação: de rescisão de contrato c/c pedido de restituição de valores, ajuizada por JHONES DOS SANTOS RESENDE, em face de MOMENTUM EMPREENDIMENTOS IMOBILIÁRIOS LTDA, BMP MONEY PLUS SOCIEDADE DE CRÉDITO DIRETO S.A. e PICK MONEY COMPANHIA SECURITIZADORA DE CRÉDITO, na qual requer a rescisão dos contratos de compra e venda e de financiamento, com devolução dos valores pagos.
+Sentença: julgou parcialmente procedentes os pedidos, para: i) declarar a rescisão do contrato de compra e venda e do financiamento firmado entre as partes; ii) determinar a devolução, em parcela única, de 80% (oitenta por cento) dos valores pagos.
+Acórdão: deu parcial provimento ao recurso de apelação interposto por PICK MONEY COMPANHIA SECURITIZADORA DE CRÉDITOS FINANCEIROS S.A. e negou provimento ao recurso de apelação interposto por MOMENTUM EMPREENDIMENTOS IMOBILIÁRIOS LTDA, nos termos da seguinte ementa:
+DIREITO CIVIL. APELAÇÕES. RESCISÃO CONTRATUAL. PARCIAL PROVIMENTO DO RECURSO DA CORRÉ E DESPROVIMENTO DA OUTRA CORRÉ. I. Caso em Exame 1. Ação de rescisão de contrato cumulada com pedido de restituição de valores, visando a rescisão de contrato de compra e venda de imóvel e financiamento, com devolução de 80% dos valores pagos. A requerida Pick Money e a correquerida Momentum Empreendimentos interpuseram recursos de apelação contra a sentença que julgou parcialmente procedente o pedido. II. Questão em Discussão 2. As questões em discussão consistem em saber se (i) a rescisão do contrato de compra e venda é possível, considerando a alegação de quitação e asseverada independência dos contratos, bem como se (ii) a validade da cláusula contratual que transfere ao comprador a obrigação de pagar a comissão de corretagem é válida. III. Razões de Decidir 3. Os contratos são coligados, consoante postura desta c. Câmara em hipóteses semelhantes envolvendo as mesmas requeridas, e a legislação consumerista é aplicável, permitindo a rescisão contratual e a devolução dos valores pagos. 4. A comissão de corretagem foi destacada no contrato, sendo válida a sua retenção conforme jurisprudência do STJ. IV. Dispositivo e Tese 5. Recurso da corré Momentum desprovido; recurso da corré Pick Money parcialmente provido para autorizar a retenção do valor da comissão de corretagem. Tese de julgamento: 1. Aplicação da legislação consumerista permite a rescisão contratual e devolução de valores. 2. Retenção da comissão de corretagem é válida quando destacada no contrato. Legislação Citada: CF/1988, art. 93, IX; CPC, art. 489; Código de Defesa do Consumidor, art. 53. Jurisprudência Citada: TJSP, Apelação Cível 1122423- 67.2022.8.26.0100, Rel. (e-STJ fls. 615-616)
+Embargos de Declaração: opostos por PICK MONEY COMPANHIA SECURITIZADORA DE CRÉDITOS FINANCEIROS S.A. e MOMENTUM EMPREENDIMENTOS IMOBILIÁRIOS LTDA, foram rejeitados.
+Recurso especial: alega violação dos arts. 83, 1.361 § 1º do CC, 32, 42, 51 da Lei 10.931/2004, bem como dissídio jurisprudencial. Afirma que os direitos aquisitivos do lote são bens móveis e que a garantia fiduciária constituída em cédula de crédito bancário dispensa registro para eficácia entre as partes. Aduz que o registro das garantias é exigível apenas para valer contra terceiros. Argumenta que não há exigência legal de vinculação entre a alienação fiduciária e o financiamento do próprio bem, reputando indevida a rescisão do contrato de compra e venda quitado.
+Decisão unipessoal: conheceu do agravo para não conhecer do recurso especial, em razão da incidência das Súmulas 282/STF, 284/STF e 7/STJ, da ausência de cotejo analítico e da deficiência de correlação entre os dispositivos apontados e os fundamentos do acórdão recorrido.
+Agravo interno: nas razões do presente recurso, a parte agravante aduz que: i) há prequestionamento implícito das matérias decididas, afastando a Súmula 282/STF; ii) demonstra cotejo analítico com os REsp 1.866.844/SP e 2.181.796/SP, evidenciando divergência sobre registro da garantia fiduciária e coligação; iii) a fundamentação do recurso especial é específica e suficiente, não incidindo a Súmula 284/STF; iv) a controvérsia é exclusivamente de direito, sendo indevida a aplicação da Súmula 7/STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO C/C RESTITUIÇÃO DE VALORES. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de rescisão de contrato c/c restituição de valores.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Agravo interno não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+I. Da ausência de prequestionamento
+1. A falta de prequestionamento é condição suficiente para obstar o processamento do recurso especial e exigência indispensável para o seu cabimento. Insatisfeito, este não supera o âmbito de sua admissibilidade, atraindo a incidência das Súmulas 282 do STF ou 211 do STJ.
+2. Dito isso, da reanálise minuciosa dos autos, realmente, observa-se que a aplicação do óbice da Súmula 282 do STF decorre da não deliberação pelo acórdão recorrido acerca dos artigos alegadamente violados, não tendo a parte agravante oposto o recurso de embargos de declaração.
+3. A propósito, convém salientar que a incumbência constitucional deste Superior Tribunal de Justiça, ao julgar o recurso especial, é muito mais ampla do que o exame do direito alegado pelas partes, em revisão do decidido pelas Cortes locais. Cabe ao STJ, precipuamente, a uniformização da interpretação da Lei Federal, daí porque é indispensável que tenha havido o prévio debate acerca dos artigos legais pelos Tribunais de origem.
+4. Portanto, a decisão deve ser mantida ante a aplicação do óbice da Súmula 282 do STF.
+II. Da divergência jurisprudencial
+5. A ausência de prequestionamento do tema que se supõe divergente, qual seja, a alegada violação dos arts. 83, 1.361 § 1º do CC, 32, 42, 51 da Lei 10.931/2004, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 2.391.548/SP, Terceira Turma, DJe de 20/3/2024, e AgInt no AREsp 2.314.188/SP, Quarta Turma, DJe de 21/12/2023.
+6. Além disso, a parte agravante não apresentou adequadamente o dissídio jurisprudencial, devido à ausência de cotejo analítico entre os julgados, sendo certo que, para a demonstração da divergência não basta apenas a transcrição de ementas.
+7. Isso porque, para que se tenha por configurada a divergência, é necessário que haja uma análise aprofundada e exaustiva dos arestos, de modo a demonstrar que o acórdão do Tribunal local foi proferido de maneira análoga ou similar a outros julgados.
+8. Ainda, é necessário que a parte agravante faça uma análise mais apurada dos acórdãos, de forma a comparar os fundamentos adotados por cada órgão para fazer a demonstração da divergência. Logo, é premente que o agravante apresente o cotejo entre os acórdãos, evidenciando, assim, a divergência jurisprudencial, o que não ocorreu na espécie.
+III. Do reexame de fatos e provas
+9. Quanto à aplicação da Súmula 7/STJ, essa merece ser mantida, haja vista que os argumentos trazidos pela parte agravante não são capazes de demonstrar como alterar o decidido pelo Tribunal de origem acerca da coligação dos contratos, da parceria entre as empresas e da ausência de quitação, não demandaria o reexame de fatos e provas.
+10. Desse modo, rever tal entendimento, de fato, implicaria em reexame do acervo fático-probatório, o que é obstado pelo enunciado sumular nº 7/STJ.
+11 . A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no agravo em recurso especial.
