@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/09/2026 a 29/09/2026, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. INÉPCIA. IMPUGNAÇÃO DA DECISÃO AGRAVADA.
+1. Ação rescisória.
+2. É inepta a petição de agravo no recurso especial que não impugna, especificamente, os fundamentos da decisão agravada.
+3. Agravo interno não conhecido, com aplicação de multa.
+RELATÓRIO
+Examina-se agravo interno interposto por JOSE DA SILVA IRMAO e MARINHA RAMOS DE OLIVEIRA SILVA, contra decisão que não conheceu do agravo em recurso especial.
+Ação: rescisória, ajuizada pelos agravantes, em face de AKIRA MATSUDA, na qual requer rescindir a sentença dos embargos à execução e declarar a nulidade dos atos expropriatórios praticados na execução por suposta falsificação de assinaturas nos avisos de recebimento das intimações de leilão.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: extinguiu o processo sem resolução do mérito, nos termos da seguinte ementa:
+Ação rescisória. Sentença que julgou improcedentes embargos à execução. Pedido de rescisão da sentença, declarando-se a nulidade dos atos processuais expropriatórios praticados na execução, sob alegação de falsificação da assinatura dos executados, nos avisos de recebimento das cartas expedidas para intimação dos devedores quanto ao leilão do imóvel penhorado. Pleito fundado no art. 966, inciso VI, do Código de Processo Civil.
+1. Valor da causa. Correção de ofício. Não correspondência ao proveito econômico pretendido pela parte autora e que, na ação rescisória, coincide, regra geral, com o valor da causa da ação originária. Correção de ofício, adotando-se o valor da causa na execução, com atualização monetária, nos termos do art. 292, § 3º, do CPC.
+2. Justiça gratuita. Impugnação. Elementos de convicção que embasam a concessão do benefício à parte autora, no despacho inicial desta ação, diante do valor da caução prevista no art. 968, II, do CPC, observando-se, contudo, que a benesse, além de estar restrita ao presente feito, pode ser revogada tão logo comprovada a capacidade econômica dos demandantes.
+3. Legitimidade passiva. Ocorrência. Diante da pretensão dos executados, em rescindir a sentença proferida em embargos à execução julgados improcedentes, legitimado ad causam para responder a ação rescisória é o exequente.
+4. Interesse de agir. Inexistência. 4.1. Utilidade. A sentença que julgou improcedentes embargos à execução foi proferida e transitou em julgado antes das intimações dos devedores acerca do leilão do bem penhorado, de modo que eventual nulidade destes atos não interfere na higidez da decisão rescindenda. 4.2. Adequação. A alegada nulidade recai sobre ato de comunicação processual, e não sobre elemento de convicção utilizado para demonstrar a veracidade ou não de fatos controvertidos, razão por que não há embasamento para o ajuizamento de ação rescisória fundada em prova falsa (art. 966, inc. VI, do CPC). 4.3. Necessidade. Ademais, a alegação de nulidade, ora veiculada, foi rejeitada em recente decisão, minuciosa e fundamentada, do Juízo da execução, ao apreciar suscitação de falsidade arguida pelo executados, não se olvidando que a ação rescisória não é sucedâneo recursal.
+5. Condições de procedibilidade. Sentença rescindenda transitada em julgado há mais de 2 (dois) anos. Postergação do termo inicial do prazo decadencial que somente se aplica à rescisória proposta com base na obtenção, pelo autor, após o trânsito em julgado, de "prova nova cuja existência ignorava ou de que não pôde fazer uso, capaz, por si só, de lhe assegurar pronunciamento favorável", mas não com base em afirmada falsidade de prova, até porque, reitere-se, o que os autores impugnam é a higidez de ato de comunicação processual. Inteligência dos arts. 966, inc. VII, c.c. 975, § 2º, ambos do CPC. Tratando-se de alegada nulidade de intimação, sequer haveria se falar em fungibilidade e recebimento da ação como querella nullitatis insabanabilis, pois não há dúvida acerca da validade da citação dos autores no processo de execução.
+6. Deslealdade processual. Penalização do litigante que depende da caracterização de dolo induvidoso, e que não se confunde com a ausência da melhor técnica processual.
+7. Tutela antecipada. Análise dos elementos vertidos na execução que retiram qualquer embasamento da medida, diante da inexistência do "fumus boni juris" em favor do devedores, e da caracterização, isso sim, do "periculum in mora" em desfavor do exequente, que há mais de duas décadas busca a satisfação de seu crédito. Revogação da tutela concedida "initio litis", possibilitando-se, a partir da publicação deste Acórdão, a imediata imissão na posse do imóvel pelo exequente, com base na carta de adjudicação já expedida.
+8. Processo extinto sem resolução do mérito, nos termos dos arts. 330, inc. III c.c. 485, incs. I e IV e 975, e também do art. 485, inc. IV, todos do CPC, deferida a justiça gratuita aos autores restrita ao presente feito, corrigindo- se de ofício o valor da causa, com revogação imediata da tutela antecipada. (e-STJ fls. 1020-1022)
+Decisão da Presidência do STJ: não conheceu do agravo em recurso especial interposto pela parte agravante devido à ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial.
+Agravo interno: a parte agravante alega que o agravo em recurso especial ataca todos os fundamentos da decisão de inadmissibilidade, que estão preenchidos os requisitos de cabimento e que a ação rescisória é admissível por prova falsa, não incidindo a Súmula 7/STJ. Traz questões relativas ao mérito do recurso especial. Requer, assim, o provimento do agravo para que seja determinado o processamento do recurso especial e apreciado o mérito.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. INÉPCIA. IMPUGNAÇÃO DA DECISÃO AGRAVADA.
+1. Ação rescisória.
+2. É inepta a petição de agravo no recurso especial que não impugna, especificamente, os fundamentos da decisão agravada.
+3. Agravo interno não conhecido, com aplicação de multa.
+VOTO
+1. A decisão agravada não conheceu do agravo em recurso especial interposto pela parte agravante com base na seguinte fundamentação:
+Por meio da análise dos autos, verifica-se que a decisão agravada inadmitiu o Recurso Especial, considerando: ausência de afronta a dispositivo legal (art. 489, §1º, do CPC), Súmula 7/STJ e ausência de afronta a dispositivo legal (demais questões).
+Entretanto, a parte agravante deixou de impugnar especificamente: ausência de afronta a dispositivo legal (art. 489, §1º, do CPC) e Súmula 7/STJ.
+Nos termos do III, do CPC e do parágrafo único, I, do art. 932, art. 253, Regimento Interno desta Corte, não se conhecerá do Agravo em Recurso Especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". (e-STJ, fl. 1098)
+2. Pela análise das razões recursais apresentadas, verifica-se que a parte agravante, não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada. Isso porque, nas razões do presente agravo não impugnou, consistentemente, os fundamentos da decisão agravada quanto à ausência de afronta a dispositivo legal (art. 489, §1º, do CPC) e Súmula 7/STJ.
+3. Ressalte-se que, a parte agravante deve demonstrar a inaplicabilidade da súmula 7/STJ, por meio do cotejo entre a tese recursal e a efetiva desnecessidade do reexame de fatos e provas no caso concreto, de modo a demonstrar o devido desacerto da decisão agravada, não bastando a mera citação de artigos de lei supostamente violados.
+4. Assim, cabia à agravante apontar que, nas razões do agravo em recurso especial, combateu os termos da decisão agravada, ônus do qual não se desincumbiu.
+5. E, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo que não impugna, especificamente, os fundamentos da decisão agravada, a teor do disposto na Súmula 182 do STJ, a qual se subsume perfeitamente ao presente recurso.
+6. Tem-se como manifestamente inadmissível o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, como determina o art. 1.021, §1º, do CPC/15, razão pela qual, na hipótese de ser desprovido este recurso, à unanimidade, fixo multa de 1% sobre o valor atualizado da causa, com fulcro no §4º do art. 1.021 do CPC/15.
+DISPOSITIVO
+Forte nessas razões, NÃO CONHEÇO do agravo interno.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+É o voto.
