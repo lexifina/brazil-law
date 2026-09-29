@@ -1,0 +1,93 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/09/2026 a 29/09/2026, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro João Otávio de Noronha.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Luís Carlos Gambogi (Desembargador Convocado do TJMG) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Isabel Gallotti.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. REVISÃO DA RENDA MENSAL INICIAL PARA INCLUSÃO DE HORAS EXTRAS E VERBAS RECONHECIDAS NA JUSTIÇA DO TRABALHO. RECURSO ESPECIAL CONHECIDO EM PARTE E DESPROVIDO.
+I. CASO EM EXAME
+1. Recurso especial contra acórdão do Tribunal de Justiça de São Paulo que, em ação de previdência privada, decidiu à luz dos Temas n. 955 e 1.021 do STJ, com manutenção da improcedência do pedido e reconhecimento da ilegitimidade do patrocinador.
+2. A controvérsia é sobre o recálculo da renda mensal inicial do benefício de complementação de aposentadoria para incluir horas extras e verbas remuneratórias reconhecidas na Justiça do Trabalho, com aplicação do regulamento do plano de benefício definido.
+3. O Juízo de primeiro grau julgou extinto o feito sem resolução do mérito, quanto ao patrocinador, e improcedente quanto à entidade de previdência, com condenação a custas e honorários, observada a gratuidade.
+4. A Corte de origem manteve a improcedência, reconheceu a ilegitimidade passiva do patrocinador e aplicou as teses dos Temas n. 955 e 1.021, majorando os honorários.
+II. QUESTÃO EM DISCUSSÃO
+5. Há cinco questões em discussão: (i) saber se houve negativa de prestação jurisdicional, em violação dos arts. 1.022, I e II, e 1.025 do CPC; (ii) saber se o art. 28 da Lei n. 8.212/1991 impõe a integração das horas extras e verbas remuneratórias ao salário real de participação e ao salário real de benefício; (iii) saber se os arts. 423 e 424 do CC invalidam cláusula de adesão irretratável e irrevogável do saldamento; (iv) saber se os arts. 368 e 369 do CC autorizam a compensação entre diferenças de benefício e aporte para recomposição de reserva matemática; e (v) saber se há divergência jurisprudencial apta a ensejar o conhecimento do recurso pela alínea c.
+III. RAZÕES DE DECIDIR
+6. Não se verifica a alegada violação dos arts. 1.022, I e II, e 1.025 do CPC, pois o acórdão recorrido enfrentou os pontos essenciais, afastando os vícios alegados.
+7. Incidem as Súmulas n. 5 e 7 do STJ relativamente às teses fundadas nos arts. 28 da Lei n. 8.212/1991 e 423, 424, 368 e 369 do CC, porque a pretensão recursal demanda interpretação de cláusulas regulamentares e reexame do acervo fático-probatório quanto a saldamento, migração e reserva matemática.
+8. Incide a Súmula n. 284 do STF por deficiência na demonstração do dissídio, e a Súmula n. 13 do STJ quanto aos paradigmas oriundos do mesmo Tribunal de origem, o que impede o conhecimento da divergência jurisprudencial.
+IV. DISPOSITIVO E TESE
+9. Recurso especial conhecido em parte e desprovido.
+Tese de julgamento: "1. Não há negativa de prestação jurisdicional quando o acórdão enfrenta os pontos essenciais, afastando os vícios dos arts. 1.022 e 1.025 do CPC. 2. Incidem as Súmulas n. 5 e 7 do STJ quando o recurso pretende interpretar cláusulas regulamentares e reexaminar o acervo fático-probatório, inviabilizando a revisão da base de cálculo do benefício e a declaração de nulidade de cláusulas de saldamento e migração. 3. Incidem as Súmulas n. 284 do STF e 13 do STJ quando o dissídio não é demonstrado por cotejo analítico e os paradigmas são do mesmo tribunal de origem".
+Dispositivos relevantes citados: CF, art. 105, III, a e c; CPC, arts. 1.022, 1.025 e 85, §§ 2º e 11; CC, arts. 368, 369, 423 e 424; Lei n. 8.212/1991, art. 28.
+Jurisprudência relevante citada: STJ, Súmulas n. 5, 7 e 13; STF, Súmula n. 284.
+RELATÓRIO
+Trata-se de recurso especial interposto por JOSÉ ARCHIMEDES MAGNOLER com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça de São Paulo em apelação nos autos de ação cível de previdência privada.
+O julgado foi assim ementado (fl. 1.132):
+AÇÃO CÍVEL. PREVIDÊNCIA PRIVADA. Recáiculo do valor da renda inicial do benefício previdenciário de complementação da aposentadoria. Segundo entendimento do C. Superior Tribunal de Justiça não tem legitimidade passiva o empregador (- patrocinador), em litígio que envolva participante (-empregado-) e entidade de previdência privada fechada, com discussão de matéria previdenciária, contratos não se comunicam. Código de Defesa do Consumidor não se aplica quanto há benefício de Previdência Privada Fechada Complementar. Regime de previdência privada é facultativo e se baseia na constituição de reserva (-reserva matemática-) que garanta o pagamento do benefício contratado. Tema Repetitivo n. 955 do C. STJ, orienta à não inclusão das horas extras concedidas na Justiça do Trabalho, no cálculo do benefício previdenciário de complementação da aposentadoria, sem a reserva matemática, porque prejudica os demais participantes a quem pertence o patrimônio formado destinado à aposentadoria previdenciária. Com a extensão da tese do Tema repetitivo n. 955, também não cabe a inclusão de outras verbas trabalhistas, no cálculo do benefício previdenciário de complementação da aposentadoria se não houver reserva matemática. Tema repetitivo n. 1.021 que manteve a inviabilidade da inclusão dos reflexos de quaisquer verbas remuneratórias reconhecidas pela Justiça do Trabalho, nos cálculos da renda mensal inicial dos benefícios de complementação de aposentadoria, porém garantindo eventual direito de reparação civil perante à Justiça do Trabalho r. sentença mantida - RECURSO DE APELAÇÃO DO AUTOR NÃO PROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 28 da Lei n. 8.212/1991, porque o acórdão recorrido deixou de reconhecer que a totalidade dos rendimentos computáveis para efeito de contribuição ao INSS inclusive horas extras e demais verbas remuneratórias reconhecidas na Justiça do Trabalho deveria integrar o salário real de participação e repercutir no salário real de benefício;
+b) 423 e 424 do Código Civil, já que o acórdão recorrido validou cláusula contratual de adesão irretratável e irrevogável no termo de saldamento, que implicou renúncia de direitos, em contrariedade às regras de interpretação pró-aderente e de nulidade de cláusulas restritivas em contratos de adesão;
+c) 368 e 369 do Código Civil, pois o acórdão recorrido afastou a possibilidade de compensação entre valores devidos a título de diferenças de complementação e eventual aporte de custeio destinado à recomposição da reserva matemática; e
+d) 1.022, I e II, e 1.025 do Código de Processo Civil, porquanto o acórdão dos embargos de declaração não sanou omissões, mantendo ausência de enfrentamento de pontos específicos (previsão regulamentar, modulação dos Temas n. 955 e 1.021, custeio e saldamento), o que configura negativa de prestação jurisdicional.
+Sustenta que o Tribunal de origem, ao decidir que o saldamento e a adesão ao PrevMais impediram o recálculo do benefício e que a inclusão de verbas remuneratórias é inviável sem reserva matemática, divergiu do entendimento firmado no REsp n. 1.312.736/RS (Tema n. 955) e no REsp n. 1.778.938/SP (Tema n. 1.021) quanto à modulação para demandas ajuizadas até 8/8/2018, condicionando o recálculo à previsão regulamentar e à recomposição prévia e integral das reservas.
+Requer o provimento do recurso para que se reforme o acórdão recorrido e se reconheça a aplicabilidade da modulação dos Temas n. 955 e 1.021 do STJ ao caso, determinando-se a revisão da base de cálculo do benefício saldado para inclusão das horas extras e demais verbas remuneratórias reconhecidas na Justiça do Trabalho, condicionada à recomposição prévia e integral das reservas matemáticas mediante estudo atuarial. Requer ainda que se decrete a nulidade do acórdão dos embargos de declaração e se determine novo julgamento para enfrentamento dos pontos omissos.
+Contrarrazões de BANCO DO BRASIL S.A. às fls. 1.285-1.309, em que requer a condenação do recorrente por litigância de má-fé, com aplicação de multa (arts. 77, § 2º, e 81, § 3º, do Código de Processo Civil).
+O recurso especial foi admitido às fls. 1.706-1.708.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. REVISÃO DA RENDA MENSAL INICIAL PARA INCLUSÃO DE HORAS EXTRAS E VERBAS RECONHECIDAS NA JUSTIÇA DO TRABALHO. RECURSO ESPECIAL CONHECIDO EM PARTE E DESPROVIDO.
+I. CASO EM EXAME
+1. Recurso especial contra acórdão do Tribunal de Justiça de São Paulo que, em ação de previdência privada, decidiu à luz dos Temas n. 955 e 1.021 do STJ, com manutenção da improcedência do pedido e reconhecimento da ilegitimidade do patrocinador.
+2. A controvérsia é sobre o recálculo da renda mensal inicial do benefício de complementação de aposentadoria para incluir horas extras e verbas remuneratórias reconhecidas na Justiça do Trabalho, com aplicação do regulamento do plano de benefício definido.
+3. O Juízo de primeiro grau julgou extinto o feito sem resolução do mérito, quanto ao patrocinador, e improcedente quanto à entidade de previdência, com condenação a custas e honorários, observada a gratuidade.
+4. A Corte de origem manteve a improcedência, reconheceu a ilegitimidade passiva do patrocinador e aplicou as teses dos Temas n. 955 e 1.021, majorando os honorários.
+II. QUESTÃO EM DISCUSSÃO
+5. Há cinco questões em discussão: (i) saber se houve negativa de prestação jurisdicional, em violação dos arts. 1.022, I e II, e 1.025 do CPC; (ii) saber se o art. 28 da Lei n. 8.212/1991 impõe a integração das horas extras e verbas remuneratórias ao salário real de participação e ao salário real de benefício; (iii) saber se os arts. 423 e 424 do CC invalidam cláusula de adesão irretratável e irrevogável do saldamento; (iv) saber se os arts. 368 e 369 do CC autorizam a compensação entre diferenças de benefício e aporte para recomposição de reserva matemática; e (v) saber se há divergência jurisprudencial apta a ensejar o conhecimento do recurso pela alínea c.
+III. RAZÕES DE DECIDIR
+6. Não se verifica a alegada violação dos arts. 1.022, I e II, e 1.025 do CPC, pois o acórdão recorrido enfrentou os pontos essenciais, afastando os vícios alegados.
+7. Incidem as Súmulas n. 5 e 7 do STJ relativamente às teses fundadas nos arts. 28 da Lei n. 8.212/1991 e 423, 424, 368 e 369 do CC, porque a pretensão recursal demanda interpretação de cláusulas regulamentares e reexame do acervo fático-probatório quanto a saldamento, migração e reserva matemática.
+8. Incide a Súmula n. 284 do STF por deficiência na demonstração do dissídio, e a Súmula n. 13 do STJ quanto aos paradigmas oriundos do mesmo Tribunal de origem, o que impede o conhecimento da divergência jurisprudencial.
+IV. DISPOSITIVO E TESE
+9. Recurso especial conhecido em parte e desprovido.
+Tese de julgamento: "1. Não há negativa de prestação jurisdicional quando o acórdão enfrenta os pontos essenciais, afastando os vícios dos arts. 1.022 e 1.025 do CPC. 2. Incidem as Súmulas n. 5 e 7 do STJ quando o recurso pretende interpretar cláusulas regulamentares e reexaminar o acervo fático-probatório, inviabilizando a revisão da base de cálculo do benefício e a declaração de nulidade de cláusulas de saldamento e migração. 3. Incidem as Súmulas n. 284 do STF e 13 do STJ quando o dissídio não é demonstrado por cotejo analítico e os paradigmas são do mesmo tribunal de origem".
+Dispositivos relevantes citados: CF, art. 105, III, a e c; CPC, arts. 1.022, 1.025 e 85, §§ 2º e 11; CC, arts. 368, 369, 423 e 424; Lei n. 8.212/1991, art. 28.
+Jurisprudência relevante citada: STJ, Súmulas n. 5, 7 e 13; STF, Súmula n. 284.
+VOTO
+A controvérsia diz respeito a ação de previdência privada em que a parte autora pleiteou o recálculo da renda mensal inicial do benefício de complementação de aposentadoria para inclusão de horas extras e demais verbas remuneratórias reconhecidas na Justiça do Trabalho, com aplicação do regulamento do plano de benefício definido (BD).
+O Juízo de primeiro grau julgou extinto o feito sem resolução do mérito, em relação ao BANCO DO BRASIL S.A., e improcedente em relação ao ECONOMUS, com condenação da parte autora ao pagamento de custas e despesas processuais e honorários de 10% sobre o valor atualizado da causa, observada a justiça gratuita.
+A Corte de origem manteve a sentença de improcedência quanto ao ECONOMUS e reconheceu a ilegitimidade passiva do BANCO DO BRASIL S.A., negando provimento à apelação do autor: aplicou as teses dos Temas n. 955 e 1.021 do STJ e majorou os honorários para 12% sobre o valor atualizado da causa.
+I - Arts. 1.022, I e II, e 1.025 do Código de Processo Civil
+Não se verifica a alegada negativa de prestação jurisdicional.
+O Tribunal de origem examinou os pontos relevantes para a solução da controvérsia, ainda que em sentido contrário à pretensão da parte recorrente, e os embargos de declaração foram rejeitados porque inexistentes os vícios previstos no art. 1.022 do Código de Processo Civil.
+Quanto à previsão regulamentar para inclusão das verbas remuneratórias no salário real de participação do plano BD, não houve omissão. O acórdão examinou o regulamento aplicável após a migração e registrou expressamente: "Salário de Benefício: significará a remuneração paga ao Participante pelo Patrocinador, não consideradas as verbas pagas a título de horas extraordinárias .. " (fl. 1.136).
+Assim, a questão relativa à disciplina regulamentar da base de cálculo foi efetivamente enfrentada.
+Quanto à aplicação da modulação dos Temas n. 955 e 1.021 do STJ às ações ajuizadas até 8/8/2018, também não se constata omissão. O acórdão aplicou os Temas n. 955 e 1.021 ao caso concreto, concluindo pela inviabilidade da inclusão dos reflexos das verbas remuneratórias reconhecidas na Justiça do Trabalho sem a correspondente reserva matemática.
+A circunstância de a conclusão adotada não coincidir com a interpretação pretendida pelo recorrente não caracteriza omissão.
+Quanto à necessidade e forma de recomposição prévia e integral das reservas matemáticas mediante estudo atuarial, também não houve omissão.
+A Corte estadual examinou a necessidade de formação da reserva matemática e, ao aplicar os Temas n. 955 e 1.021, afastou a revisão pretendida sem o correspondente custeio.
+O ponto, portanto, foi considerado na solução da controvérsia, ainda que não acolhida a tese recursal.
+Quanto ao alcance do saldamento às verbas posteriormente reconhecidas na Justiça do Trabalho, igualmente não há omissão.
+O acórdão enfrentou diretamente os efeitos da migração e do saldamento, consignando que, "com o saldamento do Plano anterior e a adesão ao plano PREVMAIS, o Autor renunciou ao Plano BD e seus benefícios" (fl. 1.138).
+Desse modo, a Corte de origem definiu as consequências do saldamento para a pretensão de revisão formulada pelo recorrente.
+Nos embargos de declaração, o Tribunal reiterou a inexistência de vício nos seguintes termos: "Inexistência dos vícios elencados nos incisos I, II e III do art. 1.022 do CPC. Pretensão de rediscussão da matéria já decidida. Embargos rejeitados" (fl. 1.192).
+Não se identifica, portanto, omissão apta a caracterizar violação dos dispositivos indicados.
+II - Art. 28 da Lei n. 8.212/1991
+A pretensão recursal, tal como formulada, exige definir qual regulamento disciplina o benefício após o saldamento e a migração para o PrevMais e interpretar as respectivas regras relativas ao "Salário de Benefício".
+O acórdão recorrido considerou aplicável o regulamento do PrevMais e consignou que sua disciplina exclui as horas extraordinárias da base de cálculo, além de levar em conta as circunstâncias concretas relativas ao saldamento, à migração e à formação da reserva matemática.
+A alteração dessas premissas demandaria nova interpretação das disposições regulamentares e do termo de adesão, bem como reexame do contexto fático-probatório considerado pela Corte estadual, providências inviáveis em recurso especial, nos termos das Súmulas n. 5 e 7 do STJ.
+III - Arts. 423 e 424 do Código Civil
+A alegação de invalidade da cláusula de adesão irretratável e irrevogável pressupõe nova interpretação do termo de saldamento e de adesão ao PrevMais, bem como reexame das circunstâncias em que ocorreu a migração.
+O Tribunal de origem assentou que a adesão foi voluntária, sem alegação de vício de vontade, bem como que o saldamento do plano anterior e a adesão ao PrevMais implicaram renúncia aos benefícios do Plano BD.
+Rever essas premissas para reconhecer a nulidade sustentada pelo recorrente exigiria interpretação das cláusulas contratuais e reexame do quadro fático-probatório, providências vedadas pelas Súmulas n. 5 e 7 do STJ.
+IV - Arts. 368 e 369 do Código Civil
+A pretensão de compensação formulada pelo recorrente exige verificar a existência e as características das obrigações que pretende compensar, inclusive quanto às diferenças de benefício, ao aporte necessário ao custeio e à formação da reserva matemática.
+A solução da controvérsia dependeria, assim, do reexame dos elementos concretos relativos às obrigações e à estrutura de custeio, além da interpretação das regras regulamentares pertinentes à reserva matemática.
+Incidem, portanto, as Súmulas n. 7 e 5 do STJ.
+V - Divergência jurisprudencial
+O dissídio jurisprudencial não foi demonstrado de forma suficiente, pois não houve cotejo analítico apto a evidenciar a identidade ou similitude das circunstâncias fáticas e jurídicas entre o acórdão recorrido e os julgados invocados. A deficiência na demonstração da divergência impede a exata compreensão do dissídio alegado, atraindo a incidência da Súmula n. 284 do STF.
+Além disso, quanto aos precedentes oriundos do próprio Tribunal de Justiça de São Paulo indicados como paradigmas, incide a Súmula n. 13 do STJ, segundo a qual a divergência entre julgados do mesmo tribunal não enseja recurso especial.
+VI - Conclusão
+Ante o exposto, conheço em parte do recurso especial e nego-lhe provimento.
+Nos termos do § 11 do art. 85 do Código de Processo Civil, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+É o voto.
