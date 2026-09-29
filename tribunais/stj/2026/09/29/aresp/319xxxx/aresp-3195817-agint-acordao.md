@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/09/2026 a 29/09/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG), João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Maria Isabel Gallotti.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INVERSÃO DO ÔNUS DA PR OVA. PROVA MÍNIMA. SÚMULA 83/STJ. INCIDÊNCIA. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando negativa de prestação jurisdicional.
+2. A jurisprudência do STJ é uniforme no sentido da necessidade de prova mínima nas relações de consumo, o que atrai a incidência da Súmula 83/STJ.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por JULIANA ALVES CASTEJON em face da decisão singular da minha lavra em que neguei provimento ao agravo em recurso especial pelos seguintes fundamentos: a) inexistência de negativa de prestação jurisdicional; b) incidência da Súmula 83/STJ; c) incidência da Súmula 7/STJ (fls. 580-586).
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que a controvérsia possui natureza exclusivamente jurídica, com necessidade de reenquadramento das premissas fáticas já fixadas no acórdão recorrido, afastando a Súmula 7/STJ. Sustenta que a fraude ocorreu em contexto contratual real, com uso de dados exatos e de canal associado ao fornecedor, caracterizando fortuito interno conforme a Súmula 479/STJ.
+Alega também a indevida aplicação da Súmula 83/STJ por inexistir similitude fática com os precedentes citados. Distingue casos de engenharia social, com fornecimento de senhas, de hipóteses em que criminosos acessam dados sigilosos e emitem boleto com valor idêntico ao débito real, envolvendo a logomarca do grupo econômico.
+Argumenta a negativa de prestação jurisdicional por ausência de enfrentamento específico da inversão do ônus da prova deferida em primeiro grau.
+Na sua impugnação ao agravo interno, a parte agravada alega ausência de prequestionamento (Súmula 211/STJ), deficiência na demonstração do dissídio e necessidade de reexame de matéria fático-probatória, sustentando a incidência das Súmulas 5/STJ e 7/STJ (fls. 618-621).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INVERSÃO DO ÔNUS DA PR OVA. PROVA MÍNIMA. SÚMULA 83/STJ. INCIDÊNCIA. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando negativa de prestação jurisdicional.
+2. A jurisprudência do STJ é uniforme no sentido da necessidade de prova mínima nas relações de consumo, o que atrai a incidência da Súmula 83/STJ.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+4. Agravo interno a que se nega provimento.
+VOTO
+Originariamente, Juliana Alves Castejon propôs ação de indenização por danos materiais e morais em face de Aymoré Crédito, Financiamento e Investimento S/A, narrando golpe do boleto após contato com o canal de atendimento, uso dos dados do contrato e apreensão do veículo, com alegação de relação de consumo e de fortuito interno (fls. 1-15).
+No primeiro grau, o Juízo reconheceu a relação de consumo, aplicou a inversão do ônus da prova e condenou a recorrida ao pagamento de danos morais de R$ 10.000,00 (dez mil reais) e de danos materiais pela perda do uso do veículo, com valor a apurar, com fundamento no Código de Defesa do Consumidor e na Súmula 479 do STJ (fls. 292-294).
+O Tribunal de origem deu provimento ao recurso da instituição financeira e julgou improcedentes os pedidos, afastando a falha do serviço, reconhecendo culpa exclusiva da vítima e o rompimento do nexo causal. Rejeitou embargos de declaração por inexistência de vícios (fls. 381-389, 409-414).
+Feito esse breve retrospecto da demanda, passo à análise das alegações apresentadas no agravo interno.
+Nas razões do agravo interno, a parte agravante alega negativa de prestação jurisdicional (arts. 489, § 1º, IV e VI, e 1.022 do Código de Processo Civil), sob o argumento de que o Tribunal de origem não apreciou o pedido de inversão do ônus da prova. Não assiste razão à agravante.
+O acórdão recorrido ao fundamentar sua decisão, consignou o que se segue (fl. 388):
+(..) Contudo, o autor não cumpriu com seu ônus de comprovar que o boleto foi obtido nos canais oficiais da instituição financeira e nem de que modo seus dados teriam sido obtidos pelos criminosos. É evidente que a própria autora forneceu seu CPF e outras informações aos estelionatários durante a conversa via WhatsApp (ordem n. 2). Ademais, do próprio comprovante de pagamento é possível identificar que o beneficiário do pagamento se trata de pessoa jurídica diversa: AYM ASSESSORIA EM COBRANÇA, CONSULTORIA E FINANÇAS LTDA (ordem n. 6). Outrossim, não há evidência de que a referida instituição de pagamento tenha contribuído para a ocorrência da fraude. (..)
+Ademais, conforme assentado na decisão agravada (fl. 583), a jurisprudência do Superior Tribunal de Justiça é no sentido de que a inversão do ônus da prova, mesmo em se tratando de relação de consumo, não dispensa o autor de apresentar prova mínima dos fatos constitutivos de seu direito. A propósito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. DANO AMBIENTAL. ATIVIDADE DE MINERAÇÃO. AFUNDAMENTO DO SOLO. RESPONSABILIDADE CIVIL OBJETIVA. ÔNUS DA PROVA. INVERSÃO. NECESSIDADE DE PROVA MÍNIMA DO DANO E DO NEXO CAUSAL.
+1. Não há que se falar em vício na prestação jurisdicional, uma vez que, no caso, os pontos suscitados pela parte foram devidamente enfrentados pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada sobre o assunto, ainda que em sentido contrário à pretensão dos agravantes.
+2. Conforme jurisprudência pacífica desta Corte, a decisão que indefere a produção de provas, por considerá-las desnecessárias, não configura cerceamento de defesa, desde que devidamente motivada, como ocorreu na hipótese em apreço.
+3. Conforme jurisprudência consolidada desta Corte, a inversão do ônus da prova, nos termos do art. 6º, VIII, do Código de Defesa do Consumidor, não é automática, dependendo de prévia análise das instâncias ordinárias sobre a verossimilhança das alegações e a hipossuficiência do consumidor.
+4. A inversão do ônus da prova não exime o autor de produzir prova mínima dos fatos constitutivos do seu direito, sendo ônus que subsiste mesmo nas relações de consumo.
+5. Mesmo em se tratando de responsabilidade civil objetiva, é imprescindível a comprovação do nexo causal para que haja dever de indenizar.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 3.058.921/AL, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 30/3/2026, DJEN de 7/4/2026).
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. INVERSÃO DO ÔNUS DA PROVA. PROVA MÍNIMA. CONSUMIDOR. SÚMULA N. 83/STJ. AUSÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento a agravo em recurso especial.
+II. Razões de decidir
+2. Inexiste afronta ao art. 1.022 do CPC quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+3. A simples indicação dos dispositivos legais tidos por violados, sem enfrentamento do tema pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula n. 211 do STJ.
+4. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+5. "Nos termos da jurisprudência pacífica do STJ, apesar de o art. 6º, VIII, do CDC prever a inversão do ônus da prova para facilitação da defesa, a aplicação do Código de Defesa do Consumidor não exime o autor do ônus de apresentar prova mínima dos fatos constitutivos de seu direito. Precedentes" (AgInt no AREsp 2298281/RJ, Rel Ministro HUMBERTO MARTINS, Terceira Turma, j. 20/11/2023).
+III. Dispositivo
+6. Agravo interno desprovido.
+(AgInt no REsp n. 2.155.288/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 9/3/2026, DJEN de 12/3/2026).
+Nessa esteira, considerando o entendimento do STJ e a necessidade de comprovação mínima dos fatos alegados, verifica-se que, no caso concreto, não foram apresentados elementos suficientes para demonstrar a existência de vínculo entre a instituição financeira e a fraude narrada.
+Ressalto que a alegada omissão acerca da inversão do ônus da prova não caracteriza negativa de prestação jurisdicional, pois o Tribunal de origem apresentou fundamentação suficiente para afastar a pretensão indenizatória, ao consignar a ausência de comprovação mínima da falha na prestação do serviço e do nexo causal entre a atuação da instituição financeira e a fraude narrada.
+Reafirmo que o julgador não é obrigado a abordar todos os temas invocados pela parte se, para decidir a controvérsia, apenas um deles é suficiente ou prejudicial aos outros (AgRg no AREsp n. 2.322.113/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/6/2023, DJe de 12/6/2023; AgInt no AREsp n. 1.728.763/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 21/3/2023, DJe de 23/3/2023; e AgInt no AREsp n. 2.129.548/GO, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 28/11/2022, DJe de 1/12/2022).
+Igualmente, não assiste razão à parte agravante no tocante à inaplicabilidade da Súmula 83 do STJ.
+A distinção invocada pela agravante - vazamento de dados e "aproximação" entre fraude e operação real - não foi reconhecida no acórdão recorrido. Ao contrário, o acórdão estadual afirmou a inexistência de prova mínima quanto ao uso de canais oficiais e quanto ao modo de obtenção dos dados da agravante pelos criminosos (fl. 388). Nesse contexto, os precedentes utilizados na decisão agravada guardam similitude fática suficiente com o caso em tela, qual seja: beneficiário diverso, ausência de demonstração de vazamento de informações e ausência de demonstração de defeito do serviço, situação em que se firma a culpa exclusiva do consumidor e se afasta o nexo causal exigido pelo art. 14 do Código de Defesa do Consumidor.
+Visto isso, a tese de não incidência da Súmula 83/STJ pressupõe admitir, contra as premissas fixadas, que houve tratamento indevido de dados ou falha sistêmica que caracterize fortuito interno. Essa conclusão, todavia, demandaria reexame do conjunto fático-probatório para identificar a origem dos dados e eventual contribuição da instituição financeira, providência vedada pela Súmula 7/STJ.
+Por fim, quanto à alegação de que não incide a Súmula 7 do STJ, esta igualmente não prospera.
+Conforme consignado na decisão agravada (fl. 584), o acórdão recorrido fixou premissas fáticas claras, quais sejam: a ausência de prova mínima de que o boleto foi obtido em canais oficiais; o fornecimento de CPF e de dados pela consumidora em conversa via WhatsApp; beneficiário diverso no comprovante; a inexistência de evidência de contribuição da instituição para a fraude; e a conduta da consumidora em desacordo com normas mínimas de segurança, configurando culpa exclusiva que rompe o nexo causal (fls. 388-389).
+Assim, embora a agravante sustente tratar-se de mero reenquadramento jurídico, alterar a conclusão a que chegou o Tribunal de origem demandaria, necessariamente, o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na Súmula 7/STJ.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
