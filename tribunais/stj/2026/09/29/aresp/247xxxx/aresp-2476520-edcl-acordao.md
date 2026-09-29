@@ -1,0 +1,82 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/09/2026 a 29/09/2026, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+2. O acórdão embargado, de maneira clara e fundamentada, consignou por quais motivos foram aplicadas as Súmulas n. 5/STJ, 7/STJ, 211/STJ e 283/STF.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de embargos de declaração opostos por WALNEI HORACIO COSTA contra acórdão da Terceira Turma que, por unanimidade, manteve decisão monocrática de minha relatoria, que conheceu do agravo para não conhecer do recurso especial (fls. 526-540).
+O aresto embargado tem a seguinte ementa (fl. 528):
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITOS AUTORAIS E CONEXOS. CONTRATO DE PRESTAÇÃO DE SERVIÇOS AUDIOVISUAIS. CESSÃO DE DIREITOS CONEXOS. VICIO DE CONSENTIMENTO E VICIOS FORMAIS DO CONTRATO. SUMULAS N. 5/STJ, 7/STJ, 211/STJ E 283/STF.
+1. Trata-se de ação declaratória cumulada com arbitramento de pagamentos, proposta por intérprete de obra audiovisual contra produtora, com pedido de nulidade de cláusula contratual de cessão de direitos conexos e pagamento por exibições da obra. Agravo interno interposto contra decisão monocrática que que não conheceu do recurso especial.
+2. Inexistência de violação do art. 1.022 do CPC, pois o acórdão recorrido apresentou fundamentação suficiente e as contradições alegadas asseveram sobre o mérito da decisão.
+3. Ausência de prequestionamento das teses relativas a vício de consentimento e contrato de adesão, pois a matéria não foi examinada pelo Tribunal de origem, embora opostos embargos de declaração. Súmula 211/STJ.
+4. O prequestionamento ficto do art. 1.025 do CPC é restrito a questões de direito e é inaplicável a matérias fático-probatórias.
+5. A pretensão recursal demanda reexame de fatos e provas e interpretação de cláusulas contratuais (validade da cessão e vícios formais), providências vedadas em recurso especial pelos óbices das Súmulas 5 e 7/STJ.
+6. O acórdão estadual assentou a natureza civil da relação contratual e a desnecessidade de visto sindical do art. 9º da Lei nº 6.533/1978, sendo que o recorrente não impugnou esse fundamento, atraindo o óbice da Súmula n. 283/STF.
+7. A interpretação sistemática da Lei nº 9.610/1998 realizada pelo Tribunal de origem reconheceu a eficácia da cláusula de cessão de direitos, sendo inviável sua revisão em sede especial pelos impedimentos das Súmulas n. 5 e 7/STJ.
+Agravo interno improvido.
+Sustenta a parte embargante que há omissão e contradição no acórdão embargado quanto ao prequestionamento ficto do art. 1.025 do CPC, afirmando que a matéria é de direito e que houve provocação específica por embargos na origem.
+Aduz, também, que há contradição na aplicação das Súmulas n. 5/STJ e 7/STJ porque a tese seria exclusivamente normativa, e o teor da cláusula contratual é incontroverso.
+Postula a ocorrência de contradição na aplicação da Súmula n. 283/STF, pois teria impugnado o fundamento da natureza civil ao defender a incidência do art. 13 da Lei n. 6.533/1978 a qualquer prestação de serviços artísticos, independentemente de vínculo.
+Ressalta, em suma, que o acórdão foi omisso e contraditório sobre o enquadramento da controvérsia como matéria de direito para fins de prequestionamento ficto, a desnecessidade de reexame probatório e interpretação de cláusulas contratuais e sobre a necessidade de impugnação específica do visto sindical em face da nulidade material autônoma do art. 13 da Lei 6.533/1978.
+Requer, ao final, o acolhimento dos embargos declaratórios, empregando efeitos modificativos, para afastar os óbices das Súmulas n. 5/STJ, 7/STJ, 211/STJ e 283/STF e conhecer e prover "o recurso especial para declarar a nulidade da Cláusula Quinta do contrato de prestação de serviços artísticos, com o consequente arbitramento dos pagamentos devidos pelas exibições da obra." (fl. 547).
+A parte embargada, instada a manifestar-se, silenciou (fl. 554).
+É, no essencial, o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+2. O acórdão embargado, de maneira clara e fundamentada, consignou por quais motivos foram aplicadas as Súmulas n. 5/STJ, 7/STJ, 211/STJ e 283/STF.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+No caso em exame, inexistem vícios no julgado.
+Com efeito, verifica-se que o acórdão embargado, quanto às matérias de ausência de prequestionamento e de violação do art. 1.022, bem como quanto à impossibilidade de aplicação do art. 1.025 do CPC e incidência das Súmulas n. 5/STJ, 7/STJ, 211/STJ e 283/STF, de maneira clara e fundamentada, consignou que a instância ordinária não debateu a questão de vício de consentimento para se manter congruente com os pedidos da petição inicial, e as demais alegações necessitariam de imprescindível reexame do acervo fático-probatório (fls. 531-533):
+(..) o Tribunal de origem deixou claro que "no que toca à alegação de vício de consentimento, imperioso destacar que as razões recursais de apelação não trouxeram alusão a tal argumento suscitado no curso do feito. Aliás, sequer seria caso de enfrentar tal tese, uma vez que na petição inicial da presente ação a parte autora intentava a declaração de nulidade do contrato tão somente por vício formal (contrato sem acompanhamento pelo Sindicato da categoria) e por nulidade da cláusula de renúncia a direitos conexos de sua atuação" (fl. 361). E continua (fl. 361):
+Quanto à alegada omissão relativa à renúncia antecipada de direitos oriundos do contrato, bem como quanto à contradição acerca da impossibilidade de "extensão excessiva da cláusula", o acórdão fundamentou de forma cristalina que, levando em consideração uma interpretação do feito sob a ótica da sistemática introduzida pela Lei nº 9.610/1998, a qual atualizou e consolidou a legislação sobre os direitos autorais. Sobre o tema, a decisão colegiada expôs que sistemática introduzida pela lei reconheceu a possibilidade de cessão de direitos patrimoniais relacionados aos conexos, bem como que o Superior Tribunal de Justiça possui entendimento de ser existente, válida e eficaz a cláusula de cessão de direitos conexos em contratos de prestação de serviços. Confira-se:
+(..)
+Por derradeiro, é imperioso destacar que o acórdão ora embargado analisou de forma discriminada o contrato acostado aos autos para fins de aferir o respeito ao regramento dos dispositivos alhures mencionados, os quais seriam requisitos estabelecidos tanto pela lei quanto pelo entendimento da Corte Superior para validade da cláusula de cessão. Ainda, salienta-se que não há contradição quando do reconhecimento de presunção do consentimento para utilização econômica eventual da obra, mormente pelo fato de estar calcado em autorização expressa da produção da obra para produção audiovisual pelo intérprete, nos termos do art. 81 da Lei nº 9.610/1998.
+Acrescento que a contradição que enseja a violação do art. 1.022 do CPC é a contradição interna do julgado, ou seja, a ocorrência de uma incompatibilidade entre os elementos da decisão. Assim, as contradições indicadas, na verdade, correspondem ao próprio mérito da decisão.
+A alegação de que o vício de consentimento em contrato de adesão teria sido suscitado desde a petição inicial (fls. 5-13) não merece prosperar, tendo em vista que, endossando a conclusão do Tribunal local, de fato, a matéria não foi apresentada naquela ocasião.
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+Quanto à alegação de desrespeito dos artigos 166, VII, e 424 do Código Civil e à tese de ter assinado um contrato com vício de consentimento, o TJRS informou que "no que toca à alegação de vício de consentimento, imperioso destacar que as razões recursais de apelação não trouxeram alusão a tal argumento suscitado no curso do feito. Aliás, sequer seria caso de enfrentar tal tese, uma vez que na petição inicial da presente ação a parte autora intentava a declaração de nulidade do contrato tão somente por vício formal (contrato sem acompanhamento pelo Sindicato da categoria) e por nulidade da cláusula de renúncia a direitos conexos de sua atuação" (fl. 361).
+Dessa forma, ao contrário do que pretende o recorrente, a tese recursal de que foi assinado um contrato de adesão com vício de consentimento não pode ser considerada uma decorrência lógica e jurídica da controvérsia apresentada ao Poder Judiciário.
+Assim, verifica-se que esse argumento não foi objeto de exame pelo Tribunal estadual, embora opostos embargos de declaração pela parte recorrente, deixando, portanto, de servir de fundamento à conclusão adotada no acórdão hostilizado.
+Desatendido, portanto, o requisito específico de admissibilidade do recurso especial referente ao prequestionamento, o que atrai o óbice constante na Súmula n. 211 do Superior Tribunal de Justiça.
+Nessa ótica, a Corte Especial do STJ firmou o entendimento no sentido de que "mesmo que se trate de questão de ordem pública, é imprescindível que a matéria tenha sido decidida no acórdão impugnado, para que se configure o prequestionamento". (AgInt nos EDcl no AREsp 746.371/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 09/03/2018).
+A respeito do tema é inviável o reconhecimento do prequestionamento ficto previsto no art. 1.025 do CPC tendo em vista que se trata de matéria de ordem fática. Cito o seguinte precedente:
+(..)
+Em relação à negativa de vigência ao art. 13 da Lei n. 6.533/1978, o Tribunal estadual declarou ter realizado uma análise sistemática da legislação sobre o tema ao decidir que não é cabível anular a cláusula contratual de cessão de direitos, fundamentando a decisão com os seguintes argumentos (fls. 328-330 e 333):
+(..)
+Considerando os fundamentos da decisão do Tribunal a quo, percebe-se que o art. 13 da Lei n. 6.533/1978 não foi declarado revogado ou inconstitucional, ao contrário, com base no conjunto fático-probatório foi realizado um cotejo da legislação em vigor para concluir que não caberia anular judicialmente a cláusula contratual.
+Desse modo, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fático-probatória e interpretação das cláusulas contratuais, procedimentos vedados a esta Corte, em razão dos óbices das Súmulas n. 5 e 7/STJ. Cito os seguintes precedentes:
+(..)
+Por fim, quanto à afirmação de que o acórdão desrespeitou os arts. 49 e 50 da Lei n. 9.610/1998 e o art. 9º, §1º, da Lei n. 6.533/1978, alegando questões de vício formal, o Tribunal local concluiu que (fl. 328):
+(..)
+Com efeito, da análise das razões do recurso especial, observa-se que a recorrente limita-se a suscitar vícios formais do contrato (previsão da contraprestação pela cessão de direitos conexos ou mesmo estabelecimento da cessão não onerosa e ausência de visto sindical) e deixa de impugnar o fundamento do acordão recorrido no sentido de não ser necessário visto sindical por não configurar relação trabalhista, o que atrai a incidência da Súmula n. 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+(..)
+No mais, ainda que superado esse óbice, alterar o decidido no acórdão impugnado quanto a análise de vicio formal do contrato exige o reexame de fatos e provas e interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas n. 5/STJ e 7/STJ. Cito o seguinte precedente:
+Quanto ao prequestionamento, vale ressaltar que, na forma da jurisprudência do STJ, "para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto" (AgInt no REsp n. 1.890.753/MA, Relatora em. Ministra Assusete Magalhães, Segunda Turma, DJe de 6/5/2021).
+Em relação às alegadas omissões e contradições, nos termos da jurisprudência do STJ, "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022). No mesmo sentido:
+2.2. Não há ofensa aos arts. 489 e 1.022 do CPC, quando o Tribunal de origem examina, de forma fundamentada, a questão submetida à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+(REsp n. 1.947.636/PE, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 6/9/2024.)
+1. Segundo orientação jurisprudencial vigente no Superior Tribunal de Justiça, não há falar em omissão, contradição, obscuridade ou erro material, nem em deficiência na fundamentação, quando a decisão recorrida está adequadamente motivada com base na aplicação do direito considerado cabível ao caso concreto, pois o mero inconformismo da parte com a solução da controvérsia não configura negativa de prestação jurisdicional.
+(AgInt no AREsp n. 2.595.147/SE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 28/8/2024.)
+Observa-se, portanto, a pretensão do embargante na modificação do julgado. Todavia, os embargos de declaração não são a via adequada para se buscar o rejulgamento da causa.
+A propósito, cito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. ERRO MATERIAL. OCORRÊNCIA. CORREÇÃO. EFEITOS INTEGRATIVO E MODIFICATIVO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022).
+2. No caso, os presentes aclaratórios merecem acolhimento, para sanar erro material verificado.
+3. Embargos de declaração acolhidos, com efeitos integrativo e modificativo.
+(EDcl no AgInt no REsp n. 2.122.639/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 9/9/2024, DJe de 13/9/2024.)
+No mesmo sentido, cito: EDcl no AgInt no AREsp n. 1.896.238/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 25/3/2022; EDcl no AgInt no AREsp n. 1.880.896/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 26/5/2022.
+Portanto, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+É como penso. É como voto.
