@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/09/2026 a 29/09/2026, por unanimidade, conhecer do recurso mas lhe negar provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DUPLICATA MERCANTIL COM ACEITE. TÍTULO EXECUTIVO HÁBIL. ART. 15, I, DA LEI Nº 5.474/1968. DESNECESSIDADE DE PROTESTO OU DE COMPROVANTE DE ENTREGA DA MERCADORIA. JUNTADA POSTERIOR DE NOTAS FISCAIS. MERO REFORÇO PROBATÓRIO. VÍCIO INEXISTENTE.
+1. A duplicata com aceite, por si só, constitui título executivo extrajudicial, sendo dispensável a apresentação de protesto ou de comprovante de entrega das mercadorias para a propositura da execução, nos termos do art. 15, I, da Lei nº 5.474/1968. Precedentes.
+3. Na hipótese, a juntada posterior das notas fiscais, que apenas corroboram a relação jurídica subjacente, consiste em mero reforço probatório que não afeta a validade do título executivo já perfeito desde a sua emissão com o aceite.
+4. Agravo conhecido para negar provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por FABIO HENRIQUE FAVARO VALONI contra a decisão que inadmitiu o recurso especial.
+O apelo nobre, fundamentado no art. 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Mato Grosso, assim ementado:
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DUPLICATAS MERCANTIS COM ACEITE. DESNECESSIDADE DE PROTESTO E COMPROVAÇÃO DE ENTREGA DAS MERCADORIAS. RECURSO NÃO PROVIDO.
+I. CASO EM EXAME
+Agravo de Instrumento interposto contra decisão proferida nos autos da Ação de Execução de Título Extrajudicial nº 1006923-62.2025.8.11.0003, em trâmite perante a 2ª Vara Cível de Rondonópolis/MT, que rejeitou Exceção de Pré-Executividade apresentada pelo executado. O agravante sustenta que o título executivo não possui os requisitos legais de certeza, liquidez e exigibilidade, e que a juntada das notas fiscais eletrônicas ocorreu tardiamente. Requer a nulidade do título e extinção da execução.
+II. QUESTÃO EM DISCUSSÃO
+Há duas questões em discussão: (i) definir se as duplicatas com aceite prescindem de protesto e comprovação da entrega das mercadorias; e (ii) estabelecer se é válida a juntada posterior das notas fiscais no curso da execução, após a oposição de Exceção de Pré -Executividade.
+III. RAZÕES DE DECIDIR
+A duplicata aceita pelo devedor constitui título executivo extrajudicial suficiente para a propositura da execução, sendo desnecessária a comprovação do protesto e da entrega das mercadorias, conforme art. 15, I, da Lei 5.474/1968. A apresentação posterior das notas fiscais assinadas pelo executado, ainda que após a oposição da Exceção de Pré-Executividade, reforça a prova da relação subjacente, sem configurar nulidade, pois o título executivo já era completo e eficaz com base no aceite. Mesmo se considerados indispensáveis, os documentos poderiam ser apresentados posteriormente, conforme entendimento consolidado do STJ que admite a emenda da inicial para sanar eventual ausência documental antes de se decretar a extinção do processo (AREsp n. 2.922.817/SP).
+IV. DISPOSITIVO E TESE
+Recurso não provido." (e-STJ fls. 36/37)
+No especial (e-STJ fls. 46/63), o recorrente alega violação dos arts. 320, 485, IV, 783 e 784 do Código de Processo Civil e 15 da Lei nº 5.474/1968.
+Aduz que a execução foi proposta com base em título desprovido de certeza, liquidez e exigibilidade, visto que os documentos essenciais, notadamente as notas fiscais, não instruíram a petição inicial. Afirma que a juntada extemporânea de tais documentos, após a oposição de exceção de pré-executividade, não tem o poder de sanar o vício originário, pois a executividade do título deve estar presente no momento do ajuizamento da demanda. Sustenta que a interpretação conferida pelo Tribunal de origem ao art. 15, I, da Lei nº 5.474/1968 é extensiva e não afasta a necessidade de cumprimento dos requisitos processuais para a constituição válida da execução.
+Foram apresentadas contrarrazões (e-STJ fls. 74/78).
+O recurso especial foi inadmitido na origem (e-STJ fls. 79/82), sobrevindo a interposição do presente agravo (e-STJ fls. 83/98).
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DUPLICATA MERCANTIL COM ACEITE. TÍTULO EXECUTIVO HÁBIL. ART. 15, I, DA LEI Nº 5.474/1968. DESNECESSIDADE DE PROTESTO OU DE COMPROVANTE DE ENTREGA DA MERCADORIA. JUNTADA POSTERIOR DE NOTAS FISCAIS. MERO REFORÇO PROBATÓRIO. VÍCIO INEXISTENTE.
+1. A duplicata com aceite, por si só, constitui título executivo extrajudicial, sendo dispensável a apresentação de protesto ou de comprovante de entrega das mercadorias para a propositura da execução, nos termos do art. 15, I, da Lei nº 5.474/1968. Precedentes.
+3. Na hipótese, a juntada posterior das notas fiscais, que apenas corroboram a relação jurídica subjacente, consiste em mero reforço probatório que não afeta a validade do título executivo já perfeito desde a sua emissão com o aceite.
+4. Agravo conhecido para negar provimento ao recurso especial.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece acolhida.
+Na origem, cuida-se de execução de título extrajudicial fundada em duplicatas mercantis com aceite, na qual o executado, ora recorrente, opôs exceção de pré-executividade arguindo a nulidade do feito por ausência de documentos indispensáveis à propositura da ação, quais sejam, as notas fiscais comprobatórias da relação subjacente.
+O Tribunal de origem manteve a decisão que rejeitou a exceção, sob o fundamento de que a duplicata com aceite é, por si só, título executivo hábil, sendo desnecessária a comprovação da entrega da mercadoria, e que a juntada posterior das notas fiscais não invalida o processo.
+Com efeito, o acórdão recorrido está em harmonia com a jurisprudência desta Corte Superior, que reconhece a suficiência da duplicata mercantil aceita para instruir a execução.
+Nos termos do art. 15, I, da Lei nº 5.474/1968, a duplicata ou triplicata aceita, protestada ou não, é título executivo extrajudicial. O aceite lançado no título pelo sacado corresponde ao reconhecimento da dívida, conferindo-lhe os atributos de certeza, liquidez e exigibilidade, e dispensando a necessidade de apresentação de outros documentos, como o comprovante de entrega de mercadorias ou o protesto.
+No caso, sendo a execução lastreada em duplicatas com aceite, a juntada posterior das notas fiscais pela exequente configurou mero reforço probatório, não se tratando de emenda à inicial para sanar vício de constituição do título, que já era hígido e exequível desde o ajuizamento.
+Nesse contexto, a decisão do Tribunal de origem não destoa do entendimento do Superior Tribunal de Justiça. Confira-se:
+AGRAVO INTERNO. DIREITO CAMBIÁRIO. ENDOSSO-CAUÇÃO. AMPLA CIRCULAÇÃO DOS TÍTULOS DE CRÉDITO, CONFERINDO AOS TERCEIROS DE BOA-FÉ SEGURANÇA JURÍDICA. INTERESSE SOCIAL E ECONÔMICO. CONFUSÃO ENTRE O INSTITUTO CAMBIÁRIO DO ENDOSSO E O CIVILISTA DA CESSÃO DE CRÉDITO. DESCABIMENTO. ACEITE. DECLARAÇÃO CAMBIAL, TORNANDO O SACADO DEVEDOR PRINCIPAL DA DUPLICATA. ENDOSSATÁRIO PIGNORATÍCIO. DETENTOR DOS DIREITOS EMERGENTES DO TÍTULO, NÃO PODENDO COOBRIGADOS INVOCAR EXCEÇÕES FUNDADAS EM RELAÇÕES PESSOAIS. QUITAÇÃO REGULAR DE DÉBITO DE NATUREZA CAMBIAL. RESGATE DA CÁRTULA. NECESSIDADE.
+(..)
+3. Como a duplicata tem aceite, o art. 15 da Lei n. 5.474./1968 estabelece que a cobrança judicial de duplicata ou triplicata será efetuada de conformidade com o processo aplicável aos títulos executivos extrajudiciais, não havendo necessidade de nenhum outro documento, além do título. E o art. 25 esclarece que aplicam-se à duplicata e à triplicata, no que couber, os dispositivos da legislação sobre emissão, circulação e pagamento das Letras de Câmbio.
+4. Havendo aceite, o aceitante se vincula à duplicata, afastada a possibilidade de investigação do negócio causal. Conquanto a duplicata seja causal apenas na sua origem/emissão, sua circulação - após o aceite do sacado ou, na sua falta, pela comprovação do negócio mercantil subjacente e do protesto - rege-se pelo princípio da abstração, desprendendo-se de sua causa original, sendo por isso inoponíveis exceções pessoais a terceiros de boa-fé, como ausência de entrega da mercadoria ou de prestação de serviços, ou mesmo quitação ao credor originário. Precedentes.
+(..)
+(AgInt no AREsp nº 1.635.968/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 6/4/2021, DJe de 4/6/2021)
+"RECURSO ESPECIAL. CIVIL E EMPRESARIAL. TÍTULO DE CRÉDITO. PRINCÍPIOS. CARTULARIDADE. ABSTRAÇÃO. AUTONOMIA. INOPONIBILIDADE DE EXCEÇÕES PESSOAIS. TERCEIRO DE BOA-FÉ. DUPLICATA SIMULADA. CAUSA. INEXISTÊNCIA. DEFEITO FORMAL. ACEITAÇÃO. PROTESTO REGULAR. ART. 15, II, DA LEI 5474/68. INOCORRÊNCIA. EXERCÍCIO DE DIREITOS CONTRA O ENDOSSANTE. PROTESTO. DESNECESSIDADE.
+1. Cinge-se a controvérsia a determinar se: a) a falta de causa para a emissão de duplicata configura exceção pessoal; b) esse defeito da duplicata pode ser oposto ao endossatário que recebe o título por endosso-caução; e c) deve ser mantida a validade do protesto para resguardar os direitos do endossatário em relação ao endossante/sacador.
+2. A duplicata é um título causal que só passa a ter existência cambial, abstrata, pelo reconhecimento expresso do comprador ou tomador de serviço da prática do ato que possibilita sua emissão, com o aceite, ou pelo protesto acompanhado da comprovação da entrega e recebimento da mercadoria ou prestação do serviço, sem recusa regular, conforme prevê o art. 15, I e II, da Lei 5.474/68.
+3. Se não ocorre o aceite ou o regular protesto, a inexistência de causa à emissão de duplicata consubstancia vício de natureza formal para emissão do título, relativo à sua existência cambial e de natureza distinta das exceções pessoais, razão pela qual pode ser oposta ao endossatário que recebe a duplicata por endosso-caução.
+4. Embora, em regra, o protesto permita que o portador exerça o direito de regresso contra os endossantes e avalistas da duplicata, na hipótese de duplicata simulada, o protesto deve ser sustado com o resguardo dos direitos do endossatário em relação ao endossante, pois, com esse procedimento, evita-se o dano que poderia sofrer o sacado e resguarda-se o interesse legítimo de ressarcimento junto ao emitente da cártula.
+5. In casu, a duplicata foi emitida sem causa subjacente, sendo inexigível perante a sacada, que não aceitou o título, tendo sido impedido o protesto, resguardados os direitos da endossatária em face da endossante. O acórdão recorrido, portanto, não merece reforma.
+6. Recurso especial desprovido."
+(REsp n. 1.634.859/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 9/3/2017, DJe de 14/3/2017)
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Deixa-se de majorar os honorários sucumbenciais, nos termos do art. 85, § 11, do CPC, tendo em vista que não foram arbitrados na origem.
+É o voto.
