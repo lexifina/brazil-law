@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ALAN DE SOUSA GOMES, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em decorrência do julgamento da apelação criminal n. 1503897-47.2025.8.26.0628.
+Consta nos autos que o paciente foi inicialmente condenado pelo Juízo da 2ª Vara Criminal da Comarca de Itapevi à pena de 1 (um) ano e 8 (oito) meses de reclusão, em regime inicial aberto, substituída por duas penas restritivas de direitos, além de 166 (cento e sessenta e seis) dias-multa, por infração ao artigo 33, caput, da Lei n. 11.343/2006 (fls. 18-19).
+Ambas as partes apelaram ao Tribunal de Justiça do Estado de São Paulo, que negou provimento ao recurso da defesa e deu provimento ao recurso da acusação, redimensionando a pena do paciente para 6 (seis) anos de reclusão, em regime inicial fechado, além de 600 (seiscentos) dias-multa no mínimo legal, mantidos os demais termos da sentença (fls. 14 e 39).
+Na presente impetração, busca-se a concessão da ordem para: (i) substituir a prisão preventiva por prisão domiciliar, com base no art. 318, VI, do CPP; (ii) reconhecer a ausência de contemporaneidade e de fundamentação concreta para a custódia cautelar; e (iii) aplicar medidas cautelares alternativas do art. 319 do CPP.
+É o breve relatório. DECIDO.
+De fato, embora a segregação em geral seja tema de extrema relevância, das simples alegações da Defesa, não se pode extrair a certeza necessária à eventual análise e concessão da ordem.
+Verifica-se a instrução deficiente da impetração, devido à ausência do inteiro teor da decisão que decretou a prisão preventiva em desfavor da paciente, o que não permite a perfeita compreensão da controvérsia.
+Está pacificado no Superior Tribunal de Justiça que "é dever do impetrante instruir o writ com os documentos necessários ao desl inde da controvérsia, de modo que a falta da íntegra do ato coator torna inviável a análise dos pedidos" (AgRg no HC n. 790.533/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 17/4/2023, DJe de 20/4/2023).
+Ademais, doutrina e a jurisprudência entendem que o habeas corpus, por constituir ação mandamental cuja principal característica é a sumariedade, não possui fase instrutória, vale dizer, "a inicial deve vir acompanhada de prova documental pré-constituída, que propicie o exame, pelo juiz ou tribunal, dos fatos caracterizadores do constrangimento ou ameaça, bem como de sua ilegalidade, pois ao impetrante incumbe o ônus da prova" (GRINOV ER, A.P.; FILHO, A. M. G.; FERNANDES, A.S. Recursos no Processo Penal, ed. Rev. dos Tribunais, 2011, p. 298).
+Ante o exposto, não conheço o presente habeas corpus.
+Publique-se. Intimem -se.
+ EMENTA
