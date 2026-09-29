@@ -1,0 +1,29 @@
+DESIS no AGRAVO EM RECURSO ESPECIAL Nº 3184198 - SE (2026/0061928-5)
+
+RELATOR: MINISTRO RAUL ARAÚJO
+
+REQUERENTE: BANCO DO BRASIL SA
+
+ADVOGADOS: GUSTAVO HENRIQUE RODRIGUES DANTAS - SE001501
+
+SERGIO HENRIQUE DE OLIVEIRA GOMES - DF017844
+
+LOUISE RAINER PEREIRA GIONEDIS - SE001501A
+
+REQUERIDO: MARIA LUIZA DE JESUS
+
+ADVOGADOS: MARIA ELIZABETE MORAES MAIA - SE001660
+
+CARLOS AUGUSTO SANTOS MACHADO - SE008721
+
+EMENTA
+
+DECISÃO
+Homologo, para que produza seus efeitos jurídicos e legais, o pedido de desistência do recurso interposto por BANCO DO BRASIL S.A., formulado às fls. 498-505, nos termos dos arts. 998 do CPC de 2015 e 34, IX, do RISTJ.
+Remetam-se os autos à origem para as providências cabíveis.
+Publique-se.
+
+Brasília, 29 de setembro de 2026.
+
+Ministro RAUL ARAÚJO
+Relator
