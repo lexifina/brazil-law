@@ -1,0 +1,61 @@
+HABEAS CORPUS Nº 1133424 - RJ (2026/0418644-6)
+
+RELATORA: MINISTRA NILSONI DE FREITAS (DESEMBARGADORA CONVOCADA DO TJDFT)
+
+IMPETRANTE: GUILHERME LUIZ GONCALVES TEIXEIRA
+
+ADVOGADO: GUILHERME LUIZ GONÇALVES TEIXEIRA - RJ187668
+
+IMPETRADO: TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO
+
+PACIENTE: DIEGO MAX FERNANDES BLESE
+
+INTERES.: MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO
+
+EMENTA
+
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de DIEGO MAX FERNANDES BLESE no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Habeas Corpus n. 0046908-08.2026.8.19.0000).
+Depreende-se dos autos que o paciente foi denunciado pela suposta prática do delito previsto no art. 121, § 2º, IV, c/c o art. 14, inciso II, ambos do Código Penal.
+O Juízo de primeiro grau indeferiu o pedido de realização de interrogatório do réu por videoconferência.
+Irresignada, a defesa impetrou prévio habeas corpus perante o Tribunal de origem, que foi denegado (e-STJ fls. 10/18).
+Daí o presente writ, no qual sustenta nulidade por cerceamento de defesa.
+Aduz a defesa que o indeferimento do pedido de participação da audiência por meio virtual, com realização do interrogatório do réu foragido por videoconferência, restringe o pleno exercício da autodefesa.
+Requer, liminarmente, a suspensão da audiência designada para o dia 30/11/2026.
+No mérito, a concessão da ordem para que seja autorizada a colheita do interrogatório do réu, de modo virtual.
+É o relatório.
+Decido.
+Consoante relatado, a defesa pretende seja determinado ao Juízo de primeiro grau que interrogue o paciente por videoconferência.
+O Tribunal de origem consignou que se mostra "acertada a decisão que indeferiu o pedido para que o paciente participasse da Audiência de Instrução e Julgamento por videoconferência. Isso porque admitir a realização do ato por meio virtual em favor de réu que se encontra foragido significaria prestigiar a conduta do acusado que se furtou ao processo. Não é admissível que a condição de foragido seja utilizada para ampliar prerrogativas processuais ou conferir tratamento mais favorável ao acusado, sob pena de esvaziar a efetividade da decretação da prisão preventiva e comprometer a autoridade das decisões judiciais" (e-STJ fl. 15, grifo nosso).
+Como se vê, o paciente encontra-se foragido e o acórdão recorrido consignou haver mandado de prisão expedido em seu desfavor e não cumprido.
+O entendimento do Tribunal estadual consoa com o entendimento do Superior Tribunal de Justiça que se firmou no sentido de "não ser possível o reconhecimento de nulidade na não realização de interrogatório de réu foragido que possui advogado constituído nos autos, não sendo legítimo que o paciente se aproveite dessa situação para ser interrogado por videoc onferência, o que configuraria verdadeiro desprezo pelas determinações judiciais, uma vez que deveria estar preso. Em outras palavras, "a ninguém é dado beneficiar-se da própria torpeza" (AgRg no HC n. 825.382/SP, Relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 22/9/2023).
+Dessarte, não há falar-se em nulidade por cerceamento de defesa, em razão do indeferimento do interrogatório do réu por videoconferência, mormente porque ele encontra-se foragido, não podendo beneficiar-se de sua própria torpeza, a fim de nulificar os atos processuais a que deu causa.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INSTRUÇÃO CRIMINAL. RÉU FORAGIDO, PLEITO DE REALIZAÇÃO DE INTERROGATÓRIO POR MEIO AUDIOVISUAL. IMPOSSIBILIDADE. COMPREENSÃO DO PRETÓRIO EXCELSO. JURISPRUDÊNCIA DESTA CORTE SUPERIOR. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Sobre o tema, " a jurisprudência desta Corte Superior de Justiça é uníssona no sentido de não ser possível o reconhecimento de nulidade na não realização de interrogatório de réu foragido que possui advogado constituído nos autos, não sendo legítimo que o paciente se aproveite dessa situação para ser interrogado por videoconferência, o que configuraria verdadeiro desprezo pelas determinações judiciais, uma vez que deveria estar preso. Em outras palavras, "a ninguém é dado beneficiar-se da própria torpeza"" (AgRg no HC n. 825.382/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 22/9/2023.) 2. Agravo regimental não provido.
+(AgRg no HC n. 911.661/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 24/6/2024, DJe de 28/6/2024.)
+
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. CRIMES DE TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. RÉU FORAGIDO QUE POSSUI ADVOGADO CONSTITUÍDO NOS AUTOS. INTERROGATÓRIO POR VIDEOCONFERÊNCIA. IMPOSSIBILIDADE. PRECEDENTES DO STJ. AUSÊNCIA DE FLAGRANTE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Como é de conhecimento, o direito de presença é um dos desdobramentos do princípio da plenitude da defesa, na sua vertente da autodefesa, pois permite a participação ativa do réu, dando-lhe a possibilidade de presenciar e participar da instrução criminal e auxiliar seu advogado, se for o caso, na condução e direcionamento dos questionamentos e diligências. Entretanto, não se trata de um direito absoluto, sendo legítima a restrição, quando houver fundado motivo.
+2. Nessa linha de intelecção, não há previsão legal que autorize a realização de interrogatório por meio da videoconferência nas situações em que há mandado de prisão expedido e não cumprido contra o réu, como no caso dos autos, além de a jurisprudência de ambas as Turmas desta Corte Superior serem refratárias à tese defensiva, pelo seu potencial de fragilizar o dever da boa-fé objetiva nas relações jurídico-processuais (AgRg no RHC n. 188.541/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/2/2024, DJe de 4/3/2024).
+3. Na hipótese, a pretexto de garantir o exercício das garantias constitucionais do contraditório e da ampla defesa, busca-se, em verdade, permitir que o réu - cuja prisão preventiva foi decretada em 10/2/2023 e ainda está pendente de cumprimento - permaneça foragido e, ainda assim, participe da audiência de instrução e julgamento, o que viola o princípio da boa-fé objetiva, que deve nortear as relações jurídico-processuais e traduz violação ao princípio de que ninguém pode se beneficiar da própria torpeza (nemo auditur propriam turpitudinem allegans).
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 902.134/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/5/2024, DJe de 23/5/2024.)
+
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TESES DE NULIDADE. SUPRESSÃO DE INSTÂNCIA. FALTA DE INTERROGATÓRIO POR VIDEOCONFERÊNCIA. NÃO OCORRÊNCIA. RÉU FORAGIDO COM ADVOGADO CONSTITUÍDO NOS AUTOS NA DATA DA SESSÃO PLENÁRIA. PRECEDENTES. SÚMULA N. 182, STJ. AGRAVO REGIMENTAL CONHECIDO E DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - A jurisprudência deste STJ é unânime no sentido de que não é possível reconhecer a nulidade da falta de interrogatório de réu foragido que possui advogado constituído nos autos, pois não se pode se beneficiar da própria torpeza, alegando apenas o direito à autodefesa para ser interrogado por videoconferência ou anular atos já realizados. Precedentes.
+III - Na hipótese, aduz a defesa que o agravante não se encontraria na situação de foragido, conforme consignado no acórdão de origem e na decisão aqui agravada. No entanto, a defesa, ao esclarecer que o agravante teria sido preso por força da sentença condenatória, apresentando data, confirma que a sessão de julgamento ocorreu em momento muito anterior.
+IV - Como devidamente explicado na decisão, sobre a tese de que um link teria sido disponibilizado ao agravante, embora não tenha sido permitida a sua participação na sala teams, não foi debatida no acórdão (indevida supressão de instância).
+V - No mais, os argumentos atraem a Súmula n. 182, STJ.
+Agravo regimental conhecido e desprovido.
+(AgRg no HC n. 867.512/MT, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 29/4/2024, DJe de 2/5/2024.)
+
+Dessa forma, não há nenhuma nulidade ou teratologia a ser reparada na presente via.
+Ante o exposto, denego a ordem de habeas corpus liminarmente.
+Publique-se. Intimem-se.
+
+Brasília, 29 de setembro de 2026.
+
+Ministra Nilsoni de Freitas (Desembargadora Convocada do TJDFT)
+Relatora
