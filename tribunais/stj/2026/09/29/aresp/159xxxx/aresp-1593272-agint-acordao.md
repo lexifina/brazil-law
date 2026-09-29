@@ -1,0 +1,43 @@
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 1593272 - RJ (2019/0294244-2)
+
+Número Único: 0059618-71.2018.4.02.5101 – TRF2
+
+RELATOR: MINISTRO PAULO SÉRGIO DOMINGUES
+
+AGRAVANTE: JOAO BATISTA COSTA LEITE GUIMARAES
+
+AGRAVANTE: JOIMAR FERREIRA DA SILVA
+
+AGRAVANTE: JOSÉ AFONSO SILVA RAMOS
+
+AGRAVANTE: JOSÉ NIVALDO MILITO
+
+AGRAVANTE: JULIO CESAR DA SILVEIRA
+
+ADVOGADOS: GUSTAVO HENRIQUE CAPUTO BASTOS - DF007383
+
+FRANCISCO QUEIROZ CAPUTO NETO - DF011707
+
+RODRIGO BADARO ALMEIDA DE CASTRO - DF002221A
+
+MARCELO JAIME FERREIRA - DF015766
+
+AGRAVADO: UNIÃO
+
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CAPÍTULOS AUTÔNOMOS. PRECLUSÃO. TEMA 1399/STJ. SOBRESTAMENTO. INVIABILIDADE . AÇÃO RESCISÓRIA 6.436/DF. SUSPENSÃO. DESNECESSIDADE. GRATIFICAÇÃO DE ATIVIDADE TRIBUTÁRIA (GAT). VENCIMENTO BÁSICO. NÃO INTEGRAÇÃO. BASE DE CÁLCULO DE OUTRAS PARCELAS. NÃO INCIDÊNCIA. PROVIMENTO NEGADO.
+1. A falta de impugnação, no agravo interno, a fundamento autônomo da decisão agravada acarreta a preclusão da matéria não atacada, restando ao relator a análise do capítulo efetivamente impugnado.
+2. A afetação dos recursos especiais cadastrados sob o Tema 1399/STJ, voltada à definição sobre honorários sucumbenciais em execução individual de sentença coletiva desconstituída, não obsta o julgamento do recurso quando a controvérsia tratada é distinta, sendo inaplicável o sobrestamento por inadequação temática.
+3. A pendência de trânsito em julgado da Ação Rescisória 6.436/DF não impõe a suspensão do feito, sendo possível aplicar a orientação firmada no julgamento, não caracterizada prejudicialidade externa à luz do art. 313, V, a, do Código de Processo Civil.
+4. Mantêm-se os fundamentos materiais da decisão recorrida quanto à Gratificação de Atividade Tributária, que não se confunde com vencimento básico e não pode ser incluída na base de cálculo de adicionais, anuênios e demais gratificações.
+5. Agravo interno a que se nega provimento.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/09/2026 a 29/09/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+
+Brasília, 29 de setembro de 2026.
+
+MINISTRO PAULO SÉRGIO DOMINGUES
+Relator
