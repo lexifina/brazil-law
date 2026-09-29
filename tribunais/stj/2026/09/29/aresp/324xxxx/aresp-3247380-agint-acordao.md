@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/09/2026 a 29/09/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG), João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Maria Isabel Gallotti.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER C.C. PEDIDO INDENIZATÓRIO POR DANOS MORAIS. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. REPRODUÇÃO DAS RAZÕES DO RESP. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. DECISÃO MANTIDA.
+1. Nos termos do art. 932, III, do Código de Processo Civil e do art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não se conhece de agravo em recurso especial cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação do enunciado 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por UNIMED DE BEBEDOURO COOPERATIVA DE TRABALHO MÉDICO em face da decisão singular da lavra do Ministro Presidente do STJ, pela qual o agravo em recurso especial não foi conhecido em virtude da incidência da Súmula 182/STJ, haja vista a ausência de impugnação específica à ausência de afronta a dispositivo legal e à incidência da Súmula 7/STJ.
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que o AREsp impugnou todos os fundamentos da decisão de inadmissibilidade do Tribunal de origem, sustentando tratar das mesmas questões sob enfoque jurídico, sem reexame de provas, e que, por isso, não incide a Súmula 7/STJ.
+A parte agravante também reafirma a deserção da apelação dos agravados pelo art. 1.007 do Código de Processo Civil, invocando precedentes e a Súmula 187 do STJ; reitera a inexistência de dano moral; e suscita o Tema 1.365 do STJ para afastar o dano moral presumido.
+Na sua impugnação ao agravo in terno, a parte agravada alega que o agravo não impugnou especificamente todos os fundamentos, ofende a dialeticidade, repete as razões do recurso especial e requer a aplicação da multa do art. 1.021, § 4º, do Código de Processo Civil (fls. 824-830).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER C.C. PEDIDO INDENIZATÓRIO POR DANOS MORAIS. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. REPRODUÇÃO DAS RAZÕES DO RESP. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. DECISÃO MANTIDA.
+1. Nos termos do art. 932, III, do Código de Processo Civil e do art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não se conhece de agravo em recurso especial cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação do enunciado 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+VOTO
+De início, destaco que a decisão que não admitiu o recurso especial consignou: a) não ficou demonstrada a alegada vulneração aos arts. 186, 187, 927 e 944 do Código Civil; b) incidência da Súmula 7/STJ; c) dissídio jurisprudencial não comprovado nos moldes dos arts. 1.029, § 1º, do Código de Processo Civil e 255, §§ 1º e 2º, do RISTJ (fls. 748-750).
+No seu agravo em recurso especial, a parte agravante alegou deserção da apelação pelo art. 1.007 do Código de Processo Civil, defendeu a inexistência de ato ilícito e de dano moral, impugnou o valor da indenização e apresentou dissídio utilizando como paradigma o julgado do TJPR (fls. 753-774).
+Como se vê, as razões do agravo em recurso especial deixaram de impugnar integralmente os fundamentos da decisão que não admitiu o recurso especial, haja vista que não infirmaram, de modo específico e suficiente, a incidência da Súmula 7/STJ aplicada à controvérsia.
+A propósito, a Corte Especial do STJ manteve o entendimento de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo em recurso especial, por aplicação da Súmula 182/STJ (Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Relator Ministro João Otávio de Noronha, Relator para acórdão Ministro Luis Felipe Salomão, julgado em 19/9/2018, DJe 30/11/2018).
+Outrossim, importa esclarecer que, conforme jurisprudência pacífica deste Superior Tribunal de Justiça, a mera reprodução do recurso especial não é suficiente para impugnar a decisão agravada que não admitiu o recurso (AgInt nos EAREsp 1.157.501/SP, Rel. Ministro Moura Ribeiro, Segunda Seção, julgado em 20/8/2019, DJe 22/8/2019).
+Desse modo, sem impugnação específica e suficiente para infirmar todos os fundamentos da decisão que não admitiu o recurso especial na origem, correta a aplicação, por analogia, da Súmula 182/STJ, devendo-se manter a decisão ora agravada integralmente.
+Por fim, quanto ao pedido da parte ora agravada para aplicação de multa, registro que, em que pese o não provimento do recurso, a sua interposição, por si só, não pode ser considerada como protelatória ou como litigância de má-fé, de modo que incabível, por ora, a aplicação de penalidade à parte que exerce regularmente faculdade processual prevista em lei (EDcl no AgInt nos EAREsp 782.294/DF, de minha relatoria, Segunda Seção, julgado em 13/12/2017, DJe 18/12/2017).
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
