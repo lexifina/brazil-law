@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/09/2026 a 29/09/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL E RESTITUIÇÃO DE VALORES C/C COMPENSAÇÃO POR DANOS MORAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. NECESSIDADE DE REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. DEFICIÊNCIA NA DEMONSTRAÇÃO DO DISSÍDIO. INCIDÊNCIA DO TEMA 1368/STJ. INAPLICABILIDADE.
+1. Ação de rescisão contratual e restituição de valores c/c compensação por danos morais.
+2. Agravo interno interposto contra decisão que conheceu do agravo e, com fundamento no art. 932, III, do CPC, não conheceu do recurso especial.
+3. Agravo interno não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por GIAN CARLOS EBELING, contra decisão que conheceu do agravo e, com fundamento no art. 932, III, do CPC, não conheceu do recurso especial.
+Ação: rescisão contratual e restituição de valores c/c compensação pelos danos morais, ajuizada por DOMINGOS SANTIN, em face de GIAN CARLOS EBELING.
+Sentença: julgou parcialmente procedentes os pedidos, para declarar a rescisão contratual do contrato de empreitada firmado entre a parte agravada e a parte agravante, datado em 11/07/2019, bem como para determinar o retorno das partes ao status quo ante, e, consequentemente, condenar a parte agravante à restituição de R$ 40.000,00 à parte agravada. Por fim, condenou a parte agravante ao pagamento das custas e dos honorários, estes fixados em 10% sobre o valor da condenação, indeferindo à parte agravante a Justiça Gratuita, diante da ausência de comprovação da hipossuficiência financeira.
+Acórdão: negou provimento à Apelação interposta pela parte agravante, nos termos da seguinte ementa:
+"APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL C/C INDENIZATÓRIA. SENTENÇA DE PARCIAL PROCEDÊNCIA. RECURSO DA PARTE RÉ. CONTRATO DE EMPREITADA. CONSTRUÇÃO NÃO CONCLUÍDA. INADIMPLEMENTO INCONTROVERSO. RESOLUÇÃO CABÍVEL. NECESSÁRIO RETORNO DAS PARTES AO STATUS QUO ANTE. DEVOLUÇÃO DE VALORES PAGOS PELO AUTOR. PEDIDO PARA "ABATIMENTO" REFERENTE AOS "SERVIÇOS PRESTADOS E MATERIAIS INCORPORADOS" NÃO APRESENTADO SOB A FORMA DE RECONVENÇÃO. AUSÊNCIA DE PROVA DOCUMENTAL MÍNIMA, DE TODA SORTE, PARA DAR AMPARO À PRETENSÃO. DESNECESSIDADE DE PERÍCIA TÉCNICA. SENTENÇA MANTIDA. RECURSO DESPROVIDO." (e-STJ fl. 152)
+Embargos de declaração: opostos, pela parte agravante, foram rejeitados, com aplicação de multa.
+Recurso especial: alega violação dos arts. 98, 99, 329, 336, 369, 371, 434, 464, 927, III, 1.026, § 2º, CPC, 406, CC, bem como dissídio jurisprudencial, sustentando que: i) a parte recorrente alegou em defesa que houve a realização parcial dos serviços contratados, incluindo terraplanagem, escavação, aquisição de materiais e outras atividades preparatórias para a construção, mas o TJ/SC indeferiu o pedido de realização de perícia técnica para aferição dos serviços efetivamente prestados; e, ii) o TJ/SC entendeu que o pedido de abatimento dos valores pagos, em razão dos serviços prestados, deveria ter sido formulado por meio de reconvenção, e não em contestação, sob pena de preclusão, no entanto, o pedido de abatimento não se confunde com pedido contraposto ou reconvenção, pois o abatimento é forma de defesa substancial, consistente na dedução proporcional do valor devido em razão de vício, defeito ou cumprimento parcial da obrigação; e, iii) o TJ/SC negou o pedido de gratuidade, fundamentando que a mera declaração de inaptidão não seria suficiente para comprovar a hipossuficiência econômica; e, iv) o TJ/SC ao fixar a condenação da parte recorrente, não aplicou a taxa SELIC de forma exclusiva para correção monetária e juros de mora do débito, contrariando frontalmente o precedente vinculante do Tema 1.368/STJ; e, v) o TJ/SC considerou protelatórios os embargos de declaração opostos pela parte recorrente contra a decisão do Tribunal, aplicando multa de 2% sobre o valor atualizado da causa, nos termos do artigo 1.026, § 2º, CPC, o que não é aplicável à hipótese.
+Decisão unipessoal: conheceu do agravo e, com fundamento no art. 932, III, do CPC, não conheceu do recurso especial
+Agravo interno: a parte agravante alega, tão somente, que o recurso está devidamente fundamentado, houve o devido prequestionamento e não é necessário o reexame de fatos e provas e interpretação de cláusulas contratuais. Ainda, defende que o TJ/SC deveria adequar o acórdão recorrido ao Tema 1368/STJ. Requer, assim, o provimento do agravo.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL E RESTITUIÇÃO DE VALORES C/C COMPENSAÇÃO POR DANOS MORAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. NECESSIDADE DE REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. DEFICIÊNCIA NA DEMONSTRAÇÃO DO DISSÍDIO. INCIDÊNCIA DO TEMA 1368/STJ. INAPLICABILIDADE.
+1. Ação de rescisão contratual e restituição de valores c/c compensação por danos morais.
+2. Agravo interno interposto contra decisão que conheceu do agravo e, com fundamento no art. 932, III, do CPC, não conheceu do recurso especial.
+3. Agravo interno não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+I. DA DEFICIÊNCIA DE FUNDAMENTAÇÃO (SÚMULA 284/STF)
+1. No recurso especial fundamentado na alínea "a" do permissivo constitucional, a parte agravante deve particularizar os dispositivos de lei federal violados e, sobretudo, fazer acompanhar a devida fundamentação jurídica pertinente, no intuito de viabilizar a abertura da via especial, sendo insuficiente mencionar ofensa genérica, tal qual ocorre na presente hipótese, em que os argumentos apresentados não demonstram como o acórdão recorrido teria violado os arts. 98, 99, 329, 336, 369, 371, 434, 464, 927, III, 1.026, § 2º, CPC.
+2. Nesse sentido: AgInt no REsp 2.098.663/PE, Terceira Turma, DJe 20/12/2023; AgInt no AREsp 2.249.995/SP, Quarta Turma, DJe 20/10/2023.
+II. DA AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA TRATADA NO RECURSO ESPECIAL (SÚMULA 211/STJ)
+3. A parte agravante não sustentou a inaplicabilidade da Súmula 211/STJ de forma consistente, pois se limitou a asseverar, de forma genérica, que a matéria teria sido prequestionada.
+4. Não demonstrou, ainda, que a tese relativa à interpretação do artigo de lei federal indicado no apelo especial teria sido efetivamente analisada e debatida no acórdão recorrido.
+5. Nesse sentido: AgInt no REsp 2.101.466/SP, Terceira Turma, DJe 28/2/2024; AgInt no AREsp 2.314.188/SP, Quarta Turma, DJe 21/12/2023.
+III. DO RECONHECIMENTO DA NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS (SÚMULA 5/STJ) E DO REEXAME DE CONTEXTO FÁTICO-PROBATÓRIO (SÚMULA 7/STJ)
+6. Da análise das razões do agravo interno, verifica-se que a parte agravante não impugnou a incidência das Súmulas 5 e 7/STJ de forma consistente, pois se limitou a alegar genericamente que pretendia a aplicação do direito à hipótese, assim também como não demonstrou a desnecessidade do revolvimento de fatos e provas, além de não ter demonstrado que a análise do recurso especial prescinde da interpretação das cláusulas do contrato objeto do recurso.
+7. Nesse sentido, confira-se: AgInt no AREsp 2.441.269/RS, Terceira Turma, DJe 28/2/2024; AgInt no AREsp 2.417.625/RS, Terceira Turma, DJe 28/2/2024; AgInt no REsp 2.041.442/RN, Quarta Turma, DJe 28/2/2024; AgInt no AREsp 2.326.551/GO, Quarta Turma, DJe 21/12/2023.
+IV. DA DEFICIÊNCIA NA DEMONSTRAÇÃO DO DISSÍDIO JURISPRUDENCIAL
+8. A parte agravante não realizou a análise comparativa detalhada entre o acórdão recorrido e o paradigma, de modo a identificar as semelhanças das situações de fato e a existência de interpretações jurídicas diferentes sobre o mesmo dispositivo legal.
+9. Ademais, não há, nas razões do recurso especial, o cumprimento dos requisitos formais previstos nos arts. 1.029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ.
+10. Nesse sentido: AgInt no REsp 1.813.194/ES, Terceira Turma, DJe 29/2/2024; AgInt no REsp 2.041.495/RN, Quarta Turma, DJe 20/12/2023.
+V. DA ALEGADA INCIDÊNCIA DO TEMA 1368/STJ
+11. A parte agravante alega que a tese do Tema 1368/STJ é diretamente aplicável ao caso, considerando que o TJSC determinou correção monetária pelo INPC/IPCA e juros moratórios de 1% ao mês em cumulação, o que a tese vinculante expressamente proíbe, por caracterizar bis in idem dado que a SELIC tem natureza composta (correção juros), por isso, trata-se de questão de direito, verificável objetivamente pela confrontação do dispositivo do acórdão com a tese firmada.
+12. No entanto, é necessário destacar que a argumentação trazida em sede de agravo interno revela-se inaplicável à hipótese, isto é, apta ao afastamento, uma vez que o art. 406, CC, não foi devidamente prequestionado, não sendo possível, inclusive, superar o óbice sumular 211/STJ, porquanto a argumentação da parte agravante não foi levada ao conhecimento do TJ/SC no momento devido.
+13. A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
