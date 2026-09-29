@@ -1,0 +1,97 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/09/2026 a 29/09/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Luís Carlos Gambogi (Desembargador Convocado do TJMG) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Isabel Gallotti.
+EMENTA
+DIREITO PRIVADO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA N. 182 DO STJ. RECONSIDERAÇÃO. RECURSO ESPECIAL. AÇÃO REGRESSIVA DE COBRANÇA C/C INDENIZAÇÃO POR DANOS MATERIAIS. ÓBICES SUMULARES. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno contra decisão da Presidência do STJ que não conheceu do agravo em recurso especial por ausência de impugnação específica ao óbice da Súmula n. 7 do STJ.
+2. A controvérsia trata de ação regressiva de cobrança c/c indenização por danos materiais, decorrente de acordo judicial firmado para evitar a expropriação do imóvel garantidor da locação.
+3. O Juízo de primeiro grau julgou procedente o pedido, condenando ao pagamento de valores já desembolsados e das parcelas vincendas, com juros e correção, e fixou honorários advocatícios em 10% sobre o valor da causa.
+4. A Corte de origem manteve integralmente a sentença e majorou os honorários em cinco pontos percentuais, assentando a responsabilidade pessoal do recorrente como devedor solidário e a irrelevância das teses de desconsideração, retirada societária ou limitação por quota-parte.
+II. QUESTÃO EM DISCUSSÃO
+5. Há três questões em discussão: (i) saber se os fundamentos da decisão de admissibilidade foram devidamente impugnados; (ii) saber se houve violação do art. 99, § 2º por concessão de gratuidade de justiça contrariamente ao elementos dos autos que afastariam a hipossuficiência; (iii) saber se a sentença é nula por julgamento extra petita, em ofensa aos arts. 141 e 492 do CPC, ao reconhecer a solidariedade contratual sem pedido expresso; (iv) saber se houve violação do art. 37, parágrafo único, da Lei n. 8.245/1991 por validar dupla garantia em contrato de locação; (v) saber se houve violação do art. 50 do CC por desconsidera a personalidade jurídica sem prova de desvio de finalidade ou confusão patrimonial; (vi) saber se houve violação dos arts. 1.003, parágrafo único, 1.024 e 1.032 do CC, ao atribuir responsabilidade do sócio retirante após o limite temporal; e (vii) saber se cabe a majoração dos honorários recursais em agravo interno postulada em contrarrazões.
+III. RAZÕES DE DECIDIR
+6. A impugnação apresentada no agravo em recurso especial foi considerada suficiente, afastando a incidência da Súmula n. 182 do STJ.
+7. Incide a Súmula n. 7 do STJ quando a análise da controvérsia acerca da concessão da gratuidade de justiça e da nulidade da sentença por julgamento extra petita demandar o reexame de elementos de fato e de provas.
+8. Incide a Súmula n. 284 do STF quando os argumentos recursais são dissonantes dos fundamentos do acórdão recorrido, por deficiência de fundamentação que prejudica a exata compreensão da controvérsia em relação ao art. 37, parágrafo único, da Lei n. 8.245/1991.
+9. Não houve pronunciamento no acórdão recorrido quanto aos arts. 50, 1.003, parágrafo único, 1.032 e 1.024 do CC, incidindo a Súmula n. 282 por falta prequestionamento.
+10. É inviável a majoração de honorários em agravo interno, por não inaugurar instância, conforme precedentes da Quarta e da Terceira Turma.
+IV. DISPOSITIVO E TESE
+11. Agravo interno desprovido.
+Tese de julgamento: "1. A impugnação apresentada no agravo em recurso especial foi considerada suficiente, afastando a incidência da Súmula n. 182 do STJ. 2. Incide a Súmula n. 7 do STJ quando a análise da controvérsia demanda o reexame de elementos de fato e de provas. 3. Incide a Súmula n. 284 do STF quando a deficiência de fundamentação prejudica a exata compreensão da controvérsia. 4. A ausência de prequestionamento impede o conhecimento do recurso especial, diante do óbice da Súmula n. 282 do STF. 5. Não há majoração de honorários em agravo interno por não inaugurar instância".
+Dispositivos relevantes citados: CPC, arts. 99, § 2º, 141, 492; Lei n. 8.245/1991, art. 37, parágrafo único; CC, arts. 50, 1.003, parágrafo único, 1.024, 1.032.
+Jurisprudência relevante citada: STJ, Súmula n. 7; STF, Súmulas n. 282, 284; STJ, EDcl no AgInt no AREsp n. 437.263/MS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgados em 3/4/2018; STJ, AgInt no AREsp n. 1.223.865/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/3/2018.
+RELATÓRIO
+Trata-se de agravo interno interposto por PAULO EMÍDIO DA SILVA COSTA contra decisão da Presidência do Superior Tribunal de Justiça que, com base nos arts. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça e 253, parágrafo único, I, não conheceu do agravo em recurso especial, ao fundamento de ausência de impugnação específica do óbice da Súmula n. 7 do STJ.
+A parte agravante alega que impugnou especificamente todos os fundamentos da decisão de inadmissibilidade, sustenta a inaplicabilidade da Súmula n. 182 do STJ e afirma que o agravo em recurso especial demonstrou, de forma objetiva e analítica, que as questões devolvidas são de direito, prescindindo de revolvimento probatório.
+Defende que rebateu a incidência da Súmula n. 7 do STJ e pontua violação direta a dispositivos federais (arts. 50, 1.003, parágrafo único, 1.024 e 1.032 do Código Civil; 99, § 2º, 141 e 492 do Código de Processo Civil; e 37, parágrafo único, da Lei n. 8.245/1991.
+Requer o conhecimento e provimento do agravo interno, a reconsideração da decisão monocrática para reconhecer a impugnação específica ao óbice da Súmula n. 7 do STJ, a submissão ao colegiado e, ao final, o provimento do agravo em recurso especial com o processamento do recurso especial.
+Contrarrazões apresentadas às fls. 513-520, em que se pleiteia o desprovimento do recurso, além da majoração dos honorários recursais.
+É o relatório.
+EMENTA
+DIREITO PRIVADO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA N. 182 DO STJ. RECONSIDERAÇÃO. RECURSO ESPECIAL. AÇÃO REGRESSIVA DE COBRANÇA C/C INDENIZAÇÃO POR DANOS MATERIAIS. ÓBICES SUMULARES. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno contra decisão da Presidência do STJ que não conheceu do agravo em recurso especial por ausência de impugnação específica ao óbice da Súmula n. 7 do STJ.
+2. A controvérsia trata de ação regressiva de cobrança c/c indenização por danos materiais, decorrente de acordo judicial firmado para evitar a expropriação do imóvel garantidor da locação.
+3. O Juízo de primeiro grau julgou procedente o pedido, condenando ao pagamento de valores já desembolsados e das parcelas vincendas, com juros e correção, e fixou honorários advocatícios em 10% sobre o valor da causa.
+4. A Corte de origem manteve integralmente a sentença e majorou os honorários em cinco pontos percentuais, assentando a responsabilidade pessoal do recorrente como devedor solidário e a irrelevância das teses de desconsideração, retirada societária ou limitação por quota-parte.
+II. QUESTÃO EM DISCUSSÃO
+5. Há três questões em discussão: (i) saber se os fundamentos da decisão de admissibilidade foram devidamente impugnados; (ii) saber se houve violação do art. 99, § 2º por concessão de gratuidade de justiça contrariamente ao elementos dos autos que afastariam a hipossuficiência; (iii) saber se a sentença é nula por julgamento extra petita, em ofensa aos arts. 141 e 492 do CPC, ao reconhecer a solidariedade contratual sem pedido expresso; (iv) saber se houve violação do art. 37, parágrafo único, da Lei n. 8.245/1991 por validar dupla garantia em contrato de locação; (v) saber se houve violação do art. 50 do CC por desconsidera a personalidade jurídica sem prova de desvio de finalidade ou confusão patrimonial; (vi) saber se houve violação dos arts. 1.003, parágrafo único, 1.024 e 1.032 do CC, ao atribuir responsabilidade do sócio retirante após o limite temporal; e (vii) saber se cabe a majoração dos honorários recursais em agravo interno postulada em contrarrazões.
+III. RAZÕES DE DECIDIR
+6. A impugnação apresentada no agravo em recurso especial foi considerada suficiente, afastando a incidência da Súmula n. 182 do STJ.
+7. Incide a Súmula n. 7 do STJ quando a análise da controvérsia acerca da concessão da gratuidade de justiça e da nulidade da sentença por julgamento extra petita demandar o reexame de elementos de fato e de provas.
+8. Incide a Súmula n. 284 do STF quando os argumentos recursais são dissonantes dos fundamentos do acórdão recorrido, por deficiência de fundamentação que prejudica a exata compreensão da controvérsia em relação ao art. 37, parágrafo único, da Lei n. 8.245/1991.
+9. Não houve pronunciamento no acórdão recorrido quanto aos arts. 50, 1.003, parágrafo único, 1.032 e 1.024 do CC, incidindo a Súmula n. 282 por falta prequestionamento.
+10. É inviável a majoração de honorários em agravo interno, por não inaugurar instância, conforme precedentes da Quarta e da Terceira Turma.
+IV. DISPOSITIVO E TESE
+11. Agravo interno desprovido.
+Tese de julgamento: "1. A impugnação apresentada no agravo em recurso especial foi considerada suficiente, afastando a incidência da Súmula n. 182 do STJ. 2. Incide a Súmula n. 7 do STJ quando a análise da controvérsia demanda o reexame de elementos de fato e de provas. 3. Incide a Súmula n. 284 do STF quando a deficiência de fundamentação prejudica a exata compreensão da controvérsia. 4. A ausência de prequestionamento impede o conhecimento do recurso especial, diante do óbice da Súmula n. 282 do STF. 5. Não há majoração de honorários em agravo interno por não inaugurar instância".
+Dispositivos relevantes citados: CPC, arts. 99, § 2º, 141, 492; Lei n. 8.245/1991, art. 37, parágrafo único; CC, arts. 50, 1.003, parágrafo único, 1.024, 1.032.
+Jurisprudência relevante citada: STJ, Súmula n. 7; STF, Súmulas n. 282, 284; STJ, EDcl no AgInt no AREsp n. 437.263/MS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgados em 3/4/2018; STJ, AgInt no AREsp n. 1.223.865/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/3/2018.
+VOTO
+Razão assiste à parte agravante quanto à não incidência da Súmula n. 182 do STJ, uma vez que se mostra suficiente a impugnação apresentada no agravo em recurso especial. Assim, na forma do art. 259, § 6º, do RISTJ, reconsidero a decisão de fls. 492-493.
+Passo a nova análise das razões do agravo.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação, nos autos de ação regressiva de cobrança c/c indenização por danos materiais.
+O julgado foi assim ementado (fl. 394):
+Ação regressiva - Pagamento de dívida oriunda de contrato de locação - Viúva de fiador celebrou acordo para quitar o débito, a fim de evitar a constrição do imóvel dado como garantia - Pretensão de ressarcimento contra locatária e seus sócios - Legitimidade passiva configurada - Inexistência de julgamento ultra petita - Pedido de ressarcimento que abrange a integralidade das parcelas assumidas - Rejeitada a impugnação à gratuidade judiciária - Responsabilidade pessoal evidenciada pela assinatura do ex-sócio como devedor solidário - Irrelevância de discussões sobre desconsideração da personalidade jurídica, retirada de quadro societário e limitação da responsabilidade, com base em quota-parte da sociedade - Sentença mantida - Recurso ao qual se nega provimento.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 99, § 2º, do Código de Processo Civil, porque haveria elementos nos autos que evidenciaram a ausência dos pressupostos da gratuidade, já que a recorrida assumiu e pagou valores elevados do acordo;
+b) 141 e 492 do Código de Processo Civil, pois teria havido julgamento extra petita ao reconhecer solidariedade contratual sem pedido expresso na inicial;
+c) 37, parágrafo único, da Lei n. 8.245/1991, pois, ao manter a solidariedade contratual, em contrato de locação que já previa a garantia fidejussória, houve a configuração de dupla garantia vedada por lei;
+d) 50 do Código Civil, porquanto a desconsideração da personalidade jurídica foi aplicada sem prova de desvio de finalidade ou confusão patrimonial; e
+e) 1.003, parágrafo único, 1.032 e 1.024 do Código Civil, visto que fora atribuída responsabilidade pessoal e solidária do sócio retirante após o limite temporal legal de 2 anos.
+Requer o provimento do recurso para que se afaste a responsabilidade pessoal do recorrente e para que se revogue a gratuidade de justiça da parte recorrida.
+Contrarrazões às fls. 427-450.
+Passo, pois, à análise das proposições deduzidas.
+A controvérsia diz respeito a ação regressiva de cobrança c/c indenização por danos materiais em que a parte autora pleiteou ressarcimento dos valores já pagos e dos que viesse a pagar em razão do acordo judicial firmado para evitar a expropriação do imóvel garantidor da locação. O valor da causa foi fixado em R$ 365.020,00.
+Na sentença, o Juízo de primeiro grau julgou procedente o pedido, condenando os réus ao pagamento de R$ 105.000,00 já desembolsados e das parcelas vincendas do acordo, com juros e correção, e fixou honorários advocatícios em 10% sobre o valor da causa.
+A Corte estadual manteve integralmente a sentença e majorou os honorários em 5 pontos percentuais, assentando a responsabilidade pessoal do recorrente como locatário solidário, reputando irrelevantes as teses de desconsideração, retirada societária ou limitação por quota-parte.
+I - Art. 99, § 2º, do CPC
+No recurso especial, a parte recorrente alega que o acórdão recorrido violou o dispositivo ao manter a gratuidade de justiça, pois os valores assumidos e pagos no acordo evidenciaram capacidade econômica incompatível com a benesse.
+O acórdão recorrido, contudo, assentou que havia "farta documentação nos autos" demonstrando a hipossuficiência, inclusive contratação de empréstimo bancário, e que a impugnação do recorrente foi genérica, concluindo ser "um contrassenso" usar o montante do acordo, destinado a terceiro, como prova de riqueza.
+No ponto, a revisão da conclusão demanda reexame do acervo fático-probatório que embasou a manutenção da gratuidade, o que encontra óbice na Súmula n. 7 do STJ.
+II - Arts. 141 e 492 do CPC
+No recurso especial, o recorrente afirma que houve julgamento extra petita, pois a solidariedade contratual só foi mencionada em réplica e não constou de pedido expresso na inicial, violando os limites de congruência.
+O acórdão recorrido afastou a tese da apelação de julgamento ultra petita, por reconhecer a legitimidade passiva do apelante, pois o contrato o qualifica como devedor solidário, considerando a sentença válida, já que o pedido autoral abrange o ressarcimento das parcelas pagas e das que fossem pagas até a sentença, conforme o acordo anexado; destacou que o valor da causa corresponde à integralidade do acordo, o que evidencia a intenção de ressarcimento total dos danos decorrentes do inadimplemento da locação, nestes termos (fls. 395-396):
+2. Rejeito as preliminares. A apelada imputa ao apelante a responsabilidade pelo pagamento dos aluguéis e junta instrumento do contrato no qual ele figura como devedor solidário. É o que basta para caracterizar sua legitimidade para ser alojado no polo passivo da demanda.
+E a sentença não é nula. A apelada formulou pedido de ressarcimento das parcelas já pagas do acordo, bem como dos valores pagos "até a prolação da sentença em razão do acordo anexo" (p. 9, item 4). O apelante interpreta o pedido de forma literal e restritiva, argumentando que a sentença já foi proferida, mas ainda há diversas parcelas do acordo a serem pagas, que devem ser excluídas da condenação, pois o pedido inicial abarca apenas aquelas quitadas "até a prolação da sentença".
+Além de ser inconcebível que a apelada tenha ajuizado a demanda para pleitear ressarcimento parcial até uma data imprevisível, é importante notar que, ao valor da causa, foi atribuída quantia equivalente à integralidade do acordo, reforçando sua intenção de ser ressarcida integralmente pelos danos materiais causados pelo inadimplemento da locação.
+Nesse contexto, rever as conclusões do acórdão impugnado demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula n. 7 do STJ.
+III - Art. 37, parágrafo único, da Lei n. 8.245/1991
+No recurso especial, o recorrente sustenta nulidade do contrato por "dupla garantia", por suposta cumulação de fiança com solidariedade contratual do sócio, vedada pelo parágrafo único do art. 37 da Lei n. 8.245/1991.
+O acórdão recorrido afirmou que a solidariedade de devedores não é modalidade de garantia locatícia e que o contrato juntado demonstrou o status de locatário-solidário, bastando para legitimar a condenação regressiva.
+A parte recorrente, contudo, ao se limitar a defender a existência de dupla garantia em descompasso com a legislação de regência, apresenta argumentação dissonante do fundamento do acórdão, não o rebatendo adequadamente, o que compromete a compreensão da controvérsia e atrai a incidência da Súmula n. 284 do STF.
+IV - Arts. 1.003, parágrafo único, 1.032 e 1.024 do CC
+No recurso especial, o recorrente alega que, sendo sócio retirante, sua responsabilização estaria limitada às obrigações contraídas até a retirada e ao prazo bienal, e apenas de forma subsidiária, à luz dos arts. 1.003, parágrafo único, 1.032 e 1.024 do Código Civil.
+O acórdão recorrido concluiu que tais discussões são irrelevantes, pois "a responsabilidade pessoal pela dívida está evidenciada" pela assinatura como "devedor solidário", tornando "desnecessárias" as teses sobre retirada do quadro societário e limitação pela quota-parte.
+No ponto, não houve efetivo enfrentamento pela Corte estadual do conteúdo normativo dos arts. 1.003, parágrafo único, 1.032 e 1.024 do Código Civil, porque o fundamento autônomo da decisão foi a responsabilidade direta e pessoal do recorrente como locatário solidário, reputando-se prejudicadas as teses societárias. Caso de aplicação da Súmula n. 282 do STF, por ausência de prequestionamento.
+V - Art. 50 do Código Civil
+No recurso especial, o recorrente aduz que a desconsideração foi aplicada sem comprovação de abuso, desvio de finalidade ou confusão patrimonial.
+O acórdão recorrido consignou a desnecessidade da análise de desconsideração em razão da responsabilidade pessoal pelo contrato.
+A questão não foi apreciada pelo Tribunal a quo. Caso, pois, de aplicação da Súmula n. 282 do STF.
+VI - Majoração dos honorários recursais
+No que se refere ao pedido de majoração dos honorários recursais em razão do julgamento deste agravo interno, cumpre destacar que a interposição de agravo interno não inaugura instância, razão pela qual é inviável a majoração de honorários no julgamento de agravo interno e de embargos de declaração oferecidos pela parte cujo rec urso não ultrapassou a fase de conhecimento ou foi desprovido (EDcl no AgInt no AREsp n. 437.263/MS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgados em 3/4/2018, DJe de 10/4/2018; e AgInt no AREsp n. 1.223.865/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/3/2018, DJe de 3/4/2018).
+VII - Conclusão
+Ante o exposto, nego provimento ao agravo interno.
+É o vo to.
