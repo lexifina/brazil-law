@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/09/2026 a 29/09/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG) e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Isabel Gallotti.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. INTEMPESTIVIDADE. AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DO ART. 1.003, § 6º, DO CPC, COM AS ALTERAÇÕES DA LEI 14.939/2024. INTIMAÇÃO PARA COMPROVAÇÃO POSTERIOR DA TEMPESTIVIDADE RECURSAL. SUSPENSÃO DO EXPEDIENTE FORENSE NÃO COMPROVADA. AUSÊNCIA DE DOCUMENTAÇÃO IDÔNEA. ART. 220 DO CPC. INTEMPESTIVIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos dos arts. 219, caput, 994, VII e VIII, 1.003, § 5º, 1.029, § 3º, e 1.042, caput, do Código de Processo Civil de 2015, o prazo para interposição do recurso especial e do agravo em recurso especial é de 15 (quinze) dias úteis.
+2. Conforme disposto no art. 1.003, § 6º, do CPC, com redação dada pela Lei 14.939/2024, " o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, e, se não o fizer, o tribunal determinará a correção do vício formal, ou poderá desconsiderá-lo caso a informação já conste do processo eletrônico".
+3. A ocorrência de feriado local, recesso, paralisação ou interrupção de expediente forense deve ser comprovada no ato de interposição por documento oficial ou certidão do tribunal, não bastando menção nas razões ou documento sem fé pública.
+4. Caso concreto no qual, no ato de interposição do recurso especial, a parte agravante não apresenta documentação idônea, e o documento juntado posteriormente é insuficiente para afastar a intempestividade.
+5. A indisponibilidade de comunicação eletrônica e/ou início tardio ou o encerramento antecipado do expediente forense só influenciará no prazo processual caso coincida com o começo do prazo (art. 231, V, do CPC) ou com final deste, não sendo esta a hipótese dos autos.
+6. O período de suspensão do art. 220 do CPC não posterga a realização nem a data da publicação da intimação, apenas impede a fluência do prazo no intervalo legal.
+7. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por LAYRA CARNEIRO FERNANDES contra decisão monocrática proferida pelo Presidente desta Corte (e-STJ, fls. 1.701-1.702), que não conheceu do agravo em recurso especial, com fundamento na sua intempestividade, embora previamente concedida oportunidade para comprovação da suspensão do prazo.
+Em suas razões, a parte agravante afirma a tempestividade do agravo em recurso especial interposto em 11/2/2026.
+Sustenta, com base na disponibilização no DJEN em 19/11/2025, que, em razão da suspensão do art. 220 do CPC, a data da publicação deve ser 21/1/2026, com início da contagem do prazo em 22/1/2026 e término em 11/2/2026.
+Juntou, ainda, documento do Tribunal de Justiça do Estado de Minas Gerais acerca de indisponibilidade do sistema PJe em 3/2/2026, superior a 60 minutos a partir das 12h, como causa para prorrogação da contagem (e-STJ, fl. 1.698).
+Devidamente intimada, a parte agravada não apresentou impugnação (e-STJ, fl. 1.717).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. INTEMPESTIVIDADE. AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DO ART. 1.003, § 6º, DO CPC, COM AS ALTERAÇÕES DA LEI 14.939/2024. INTIMAÇÃO PARA COMPROVAÇÃO POSTERIOR DA TEMPESTIVIDADE RECURSAL. SUSPENSÃO DO EXPEDIENTE FORENSE NÃO COMPROVADA. AUSÊNCIA DE DOCUMENTAÇÃO IDÔNEA. ART. 220 DO CPC. INTEMPESTIVIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos dos arts. 219, caput, 994, VII e VIII, 1.003, § 5º, 1.029, § 3º, e 1.042, caput, do Código de Processo Civil de 2015, o prazo para interposição do recurso especial e do agravo em recurso especial é de 15 (quinze) dias úteis.
+2. Conforme disposto no art. 1.003, § 6º, do CPC, com redação dada pela Lei 14.939/2024, " o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, e, se não o fizer, o tribunal determinará a correção do vício formal, ou poderá desconsiderá-lo caso a informação já conste do processo eletrônico".
+3. A ocorrência de feriado local, recesso, paralisação ou interrupção de expediente forense deve ser comprovada no ato de interposição por documento oficial ou certidão do tribunal, não bastando menção nas razões ou documento sem fé pública.
+4. Caso concreto no qual, no ato de interposição do recurso especial, a parte agravante não apresenta documentação idônea, e o documento juntado posteriormente é insuficiente para afastar a intempestividade.
+5. A indisponibilidade de comunicação eletrônica e/ou início tardio ou o encerramento antecipado do expediente forense só influenciará no prazo processual caso coincida com o começo do prazo (art. 231, V, do CPC) ou com final deste, não sendo esta a hipótese dos autos.
+6. O período de suspensão do art. 220 do CPC não posterga a realização nem a data da publicação da intimação, apenas impede a fluência do prazo no intervalo legal.
+7. Agravo interno a que se nega provimento.
+VOTO
+O presente recurso não merece prosperar.
+O prazo para interposição do recurso especial é de 15 (quinze) dias úteis, conforme os artigos 1.003, § 5º, e 1.029 do Código de Processo Civil.
+No caso dos autos, a parte recorrente foi intimada da decisão agravada em 7/1/2026, com prazo recursal certificado até 10/2/2026, e interpõe o agravo em recurso especial apenas em 11/2/2026; constatando tal fato, houve intimação da parte recorrente para comprovação de eventual suspensão, interrupção ou prorrogação do prazo processual.
+Verifica-se, na manifestação de fls. 1.695-1.698, que a agravante não apresentou documento idôneo apto a demonstrar feriado local ou suspensão do expediente no lapso indicado. Limita-se a sustentar que a data da publicação deve ser 21/1/2026, em razão da suspensão do art. 220 do CPC, e junta documento do Tribunal de origem acerca de indisponibilidade do sistema PJe em 3/2/2026.
+Como bem delineado pela Presidência desta Corte, "o art. 220 do CPC apenas suspende o curso dos prazos processuais no período de 20/12 a 20/01, mas não suspende a prática dos atos, que poderá ser realizada em qualquer dia útil, nos termos do art. 212 c/c art. 216 do CPC, não havendo, assim, impedimento para a realização da intimação. Caso o Tribunal a quo não intime neste período, deveria a parte comprovar, o que, de fato, não ocorreu", portanto, manifestamente intempestivo o agravo em recurso especial.
+De igual modo, a indisponibilidade do sistema PJe suscitada pela agravante no dia 3/2/2026, não coincide com o início nem com o termo final do prazo e, portanto, não altera o cômputo já certificado.
+Conforme a orientação firmada por esta Corte, a indisponibilidade do sistema eletrônico verificada no curso do prazo recursal não autoriza a prorrogação do seu término, a extensão do lapso somente é admitida quando a falha coincide com o primeiro ou último dia do prazo, hipótese em que o início ou o vencimento se desloca para o próximo dia útil.
+Colhe-se, a propósito:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DE AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL (ART. 1.022 DO CPC). INOCORRÊNCIA. CONTAGEM DE PRAZOS (ARTS. 216, 219 E 224 DO CPC). INDISPONIBILIDADE OU ENCERRAMENTO ANTECIPADO NO CURSO DO PRAZO. IRRELEVÂNCIA. AUSÊNCIA DE COMPROVAÇÃO DE FATO APTO A PRORROGAR PRAZO (ART. 1.003, § 6º, DO CPC). SÚMULA 7/STJ E 279/STF. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. RELEVÂNCIA DA QUESTÃO FEDERAL (EC nº 125/2022). ENUNCIADO ADMINISTRATIVO 8/STJ. NÃO INCIDÊNCIA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Agravo em recurso especial contra acórdão que reconhece a intempestividade de agravo de instrumento e afasta alegada negativa de prestação jurisdicional.
+2. Não se configura negativa de prestação jurisdicional quando o órgão colegiado aprecia, de modo suficiente e fundamentado, as teses deduzidas, sendo desnecessário rebater, uma a uma, todas as alegações, nem mencionar expressamente todos os dispositivos legais invocados.
+3. A indisponibilidade de sistema ou o encerramento antecipado do expediente forense ocorrido durante o curso do prazo não prorrogam a contagem; apenas o termo inicial ou final, se coincidentes com tais eventos, comportam prorrogação, mantendo-se a conclusão de intempestividade na ausência de comprovação específica apta a deslocar o termo final (arts. 216, 219 e 224 do CPC; art. 1.003, § 6º, do CPC).
+4. A revisão da moldura fática sobre datas de intimação, ocorrência de indisponibilidade e protocolo do recurso demanda reexame probatório, o que é vedado pelas Súmulas 7/STJ e 279/STF.
+5. O requisito da relevância da questão federal previsto pela EC nº 125/2022 não incide enquanto ausente lei regulamentadora, conforme o Enunciado Administrativo 8/STJ.
+6. Agravo conhecido para não conhecer do recurso especial.
+(AREsp n. 2.975.500/RJ, relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 9/2/2026, DJEN de 13/2/2026)
+Desse modo, a Presidência desta Corte Superior, acertadamente, não conheceu do agravo em recurso especial por intempestividade, na manifestação apresentada na petição incidental, em que a agravante não demonstra a interposição do recurso dentro do prazo legal nem apresenta fundamento idôneo capaz de infirmar a decisão guerreada.
+Portanto, considerando que, quando intimada para sanar o vício, a agravante não juntou documento idôneo que comprove suspensão, interrupção ou prorrogação do prazo processual, sendo insuficiente o registro de indisponibilidade do sistema do Tribunal de Justiça de Minas Gerais em 3/2/2026 (e-STJ, fl. 1.698), impõe-se reconhecer a intempestividade do recurso.
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
