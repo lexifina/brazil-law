@@ -1,0 +1,2 @@
+Institui a Sociedade Anônima do Futebol e dispõe sobre normas de constituição, governança, controle e transparência, meios de financiamento da atividade futebolística, tratamento dos passivos das entidades de práticas desportivas e regime tributário específico; e altera as Leis nºs 9.615, de 24 de março de 1998, e 10.406, de 10 de janeiro de 2002 (Código Civil).
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
