@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/09/2026 a 29/09/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG), João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Maria Isabel Gallotti.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE ILEGALIDADE C.C CANCELAMENTO DE REGISTRO C.C INDENIZAÇÃO POR DANOS MORAIS. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. REPRODUÇÃO DAS RAZÕES DO RESP. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. DECISÃO MANTIDA.
+1. Nos termos do art. 932, III, do Código de Processo Civil e do art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não se conhece de agravo em recurso especial cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação do enunciado 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por BOA VISTA SERVIÇOS S.A. contra decisão singular da lavra do Ministro Presidente do STJ pela qual o agravo em recurso especial não foi conhecido em virtude da incidência da Súmula 182/STJ, haja vista a ausência de impugnação específica aos seguintes fundamentos: Súmulas 518, 83, 211 e 7 do STJ.
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que impugnou, de forma específica e detalhada, todos os óbices aplicados na decisão de admissibilidade, afastando a incidência das Súmulas 7, 83 e 518 do STJ, e demonstrando violação dos arts. 43, § 2º, do Código de Defesa do Consumidor e 373, II, do Código de Processo Civil.
+Alega, ainda, que o acórdão recorrido divergiu da jurisprudência do Superior Tribunal de Justiça quanto à aplicação da Súmula 385 do STJ e que o tema foi prequestionado, inclusive por meio dos embargos de declaração, com incidência do art. 1.025 do Código de Processo Civil.
+Decorreu o prazo sem apresentação de impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE ILEGALIDADE C.C CANCELAMENTO DE REGISTRO C.C INDENIZAÇÃO POR DANOS MORAIS. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. REPRODUÇÃO DAS RAZÕES DO RESP. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. DECISÃO MANTIDA.
+1. Nos termos do art. 932, III, do Código de Processo Civil e do art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não se conhece de agravo em recurso especial cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação do enunciado 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+VOTO
+De início destaco que a decisão que não admitiu o recurso especial consignou: a) incidência da Súmula 518/STJ quanto à alegada ofensa à Súmula 385/STJ; b) aplicação da Súmula 83/STJ quanto ao dano moral in re ipsa por ausência de notificação prévia (art. 43, § 2º, do Código de Defesa do Consumidor); c) incidência da Súmula 7/STJ para afastar tese de "devedor contumaz" e inscrição preexistente ativa; d) ausência de prequestionamento do art. 369 do Código de Processo Civil, nos termos da Súmula 211/STJ; e) prejuízo do dissídio pela alínea "c" do inciso III do art. 105 da Constituição Federal em razão dos óbices da alínea "a".
+No seu agravo em recurso especial, a parte agravante apenas afirmou que a controvérsia envolve qualificação jurídica dos fatos, sem reexame probatório; que a Súmula 83/STJ não impede o conhecimento; que não houve violação da Súmula 518/STJ, pois o recurso indicou ofensa aos arts. 43, § 2º, do Código de Defesa do Consumidor e 373, II, do Código de Processo Civil e que o dissídio foi demonstrado com paradigmas atuais.
+Como se vê, as razões do agravo em recurso especial deixaram de impugnar integralmente os fundamentos da decisão que não admitiu o recurso especial, haja vista que não enfrentaram, de modo específico, o óbice relativo ao prequestionamento do art. 369 do Código de Processo Civil, aplicado com base na Súmula 211/STJ.
+A propósito, a Corte Especial do STJ manteve o entendimento de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo em recurso especial, por aplicação da Súmula 182/STJ (Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Relator Ministro João Otávio de Noronha, Relator para acórdão Ministro Luis Felipe Salomão, julgado em 19/9/2018, DJe 30/11/2018).
+Outrossim, importa esclarecer que, conforme jurisprudência pacífica deste Superior Tribunal de Justiça, a mera reprodução do recurso especial não é suficiente para impugnar a decisão agravada que não admitiu o recurso (AgInt nos EAREsp 1.157.501/SP, Rel. Ministro Moura Ribeiro, Segunda Seção, julgado em 20/8/2019, DJe 22/8/2019).
+Desse modo, sem impugnação específica e suficiente para infirmar todos os fundamentos da decisão que não admitiu o recurso especial na origem, correta a aplicação, por analogia, da Súmula 182/STJ, devendo-se manter a decisão ora agravada integralmente.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
