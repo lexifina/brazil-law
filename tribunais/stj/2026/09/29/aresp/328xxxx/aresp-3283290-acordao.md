@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/09/2026 a 29/09/2026, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+PROCESSUAL CIVIL E DIREITO EMPRESARIAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA CUMULADA COM RECONVENÇÃO POR CONCORRÊNCIA DESLEAL. ÔNUS DA PROVA (ART. 373, I, DO CPC). DOCUMENTOS ELETRÔNICOS E NOTAS FISCAIS. INSUFICIÊNCIA PROBATÓRIA. VALORAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICIALIDADE. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Agravo em recurso especial interposto contra decisão de inadmissão do apelo nobre em ação de cobrança de serviços médicos, com reconvenção por concorrência desleal, na qual se determinou indenização com liquidação nos termos do art. 210 da Lei n. 9.279/1996.
+2. A controvérsia recursal, fundada na alegada violação dos arts. 373, I, e 434 do CPC por distribuição indevida do ônus da prova e acolhimento da reconvenção com base em documentos eletrônicos questionáveis, demanda reexame de premissas fático-probatórias fixadas pelo Tribunal de origem: ausência de prova suficiente da prestação de serviços em julho de 2022 e reconhecimento da concorrência desleal a partir de documentos não impugnados em contestação, o que encontra óbice na Súmula n. 7 do STJ.
+3. Prejudicada a análise do dissídio jurisprudencial, diante da incidência da Súmula n. 7 do STJ.
+4. Agravo conhecido. Recurso especial não conhecido.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por CLÍNICA LEAO LTDA (CLÍNICA LEAO) contra decisão que não admitiu seu apelo nobre, manejado com fundamento no art. 105, III, a e c, da CF, proferida pelo Tribunal de Justiça do Estado de São Paulo, de relatoria do Desembargador ALEXANDRE LAZZARINI, assim ementado:
+AÇÃO DE COBRANÇA. PRESTAÇÃO DE SERVIÇOS MÉDICOS. SENTENÇA DE IMPROCEDÊNCIA, E PROCEDÊNCIA DA RECONVENÇÃO, PARA CONDENAR A AUTORA/RECONVINDA NO PAGAMENTO DE INDENIZAÇÃO POR DANOS MATERIAIS, NOS TERMOS DO ART. 210, DA LEI Nº 9.279/96, EM RAZÃO DA PRÁTICA DE CONCORRÊNCIA DESLEAL. MANUTENÇÃO. EFETIVA PRESTAÇÃO DE SERVIÇOS PELA AUTORA/RECONVINDA EM JULHO/2022 NÃO COMPROVADA. NOTAS FISCAIS JUNTADAS AOS AUTOS QUE FORAM EMITIDAS SOMENTE EM SETEMBRO/2022, E QUE NÃO ESPECIFICAM QUAIS OS SERVIÇOS A QUE SE REFEREM. ÔNUS DA AUTORA. ART. 373, I, DO NCPC. CONCORRÊNCIA DESLEAL CONFIGURADA. DOCUMENTOS JUNTADOS PELA RÉ/RECONVINTE QUE NÃO FORAM ESPECIFICAMENTE IMPUGNADOS PELA AUTORA/RECONVINDA EM SUA CONTESTAÇÃO. CONTATO COM OS CLIENTES PARA QUE PASSASSEM A SER ATENDIDOS EM SUA CLÍNICA PARTICULAR, SEM QUE FOSSEM INFORMADOS ACERCA DO DESLIGAMENTO DA AUTORA EM RELAÇÃO À RÉ. INDENIZAÇÃO POR DANOS MATERIAIS DEVIDA, EM VIRTUDE DO DESVIO DE CLIENTELA. APELAÇÃO DA AUTORA/RECONVINDA NÃO PROVIDA (e-STJ, fls. 227-235).
+Os embargos de declaração de CLÍNICA LEAO foram rejeitados (e-STJ, fls. 246-249).
+O TJSP inadmitiu o recurso especial (e-STJ, fls. 294-297).
+Nas razões do agravo, CLÍNICA LEAO defendeu o desacerto da decisão que inadmitiu seu recurso especial (e-STJ, fls. 305-314).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E DIREITO EMPRESARIAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA CUMULADA COM RECONVENÇÃO POR CONCORRÊNCIA DESLEAL. ÔNUS DA PROVA (ART. 373, I, DO CPC). DOCUMENTOS ELETRÔNICOS E NOTAS FISCAIS. INSUFICIÊNCIA PROBATÓRIA. VALORAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICIALIDADE. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Agravo em recurso especial interposto contra decisão de inadmissão do apelo nobre em ação de cobrança de serviços médicos, com reconvenção por concorrência desleal, na qual se determinou indenização com liquidação nos termos do art. 210 da Lei n. 9.279/1996.
+2. A controvérsia recursal, fundada na alegada violação dos arts. 373, I, e 434 do CPC por distribuição indevida do ônus da prova e acolhimento da reconvenção com base em documentos eletrônicos questionáveis, demanda reexame de premissas fático-probatórias fixadas pelo Tribunal de origem: ausência de prova suficiente da prestação de serviços em julho de 2022 e reconhecimento da concorrência desleal a partir de documentos não impugnados em contestação, o que encontra óbice na Súmula n. 7 do STJ.
+3. Prejudicada a análise do dissídio jurisprudencial, diante da incidência da Súmula n. 7 do STJ.
+4. Agravo conhecido. Recurso especial não conhecido.
+VOTO
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida. Dele CONHEÇO, portanto, e passo ao exame do recurso especial.
+Do recurso especial
+Nas razões de seu apelo nobre, interposto com fundamento nas alíneas a e c do inciso III do art. 105 da CF, CLÍNICA LEAO alegou (1) violação dos arts. 373, I, e 434 do CPC, por distribuição desproporcional do ônus da prova e por acolhimento da reconvenção com base em documentos eletrônicos frágeis; e (2) existência de dissídio jurisprudencial, com cotejo analítico em confronto com acórdão do Tribunal de Justiça de Santa Catarina sobre concorrência desleal e exigência de prova robusta do desvio de clientela (e-STJ, fls. 252-270).
+Houve apresentação de contrarrazões por DOUTORES DO EMAGRECIMENTO CLÍNICA MÉDICA LTDA (DOUTORES DO EMAGRECIMENTO) defendendo a incidência da Súmula 7/STJ, a aplicação, por analogia, da Súmula 284/STF por deficiência na fundamentação e postulando litigância de má-fé (e-STJ, fls. 280-293).
+Da reconstituição dos fatos
+De acordo com a moldura fática dos autos, a ação de cobrança discutiu valores de serviços médicos supostamente prestados em julho de 2022. A sentença julgou improcedente a cobrança e procedente a reconvenção por concorrência desleal, condenando CLÍNICA LEAO a indenização, com liquidação nos termos do art. 210 da Lei nº 9.279/1996.
+A apelação da CLÍNICA LEAO foi desprovida. O acórdão reafirmou a falta de prova suficiente da prestação de serviços no período e manteve a reconvenção, destacando contatos com pacientes e exigência de novo cadastro sem esclarecimento do desligamento, caracterizando concorrência desleal. Os embargos de declaração foram rejeitados, com registro de que as questões foram enfrentadas e de que planilhas unilaterais não comprovam a efetiva prestação dos serviços.
+Na sequência, CLÍNICA LEAO interpôs recurso especial, sustentando violação dos arts. 373 e 434 do CPC e divergência com precedente do Tribunal catarinense.
+O objetivo recursal é decidir se (i) houve violação dos arts. 373 e 434 do CPC, por distribuição indevida do ônus da prova e acolhimento da reconvenção com documentação insuficiente; (ii) seria possível afastar a Súmula 7/STJ, por se tratar de revaloração jurídica dos fatos fixados; (iii) foi demonstrado o dissídio jurisprudencial com similitude fática suficiente para admitir o recurso especial pela alínea c.
+(1) Da violação dos arts. 373, I, e 434, ambos do CPC
+CLÍNICA LEAO alegou violação dos referidos dispositivos por distribuição desproporcional do ônus da prova e por acolhimento da reconvenção com base em documentos eletrônicos frágeis.
+Quanto ao ponto, a Corte bandeirante se manifestou nos seguintes termos:
+.. Em que pese o inconformismo ora deduzido, a insurgência da autora/reconvinda não comporta provimento.
+Isso porque, ao contrário do que alega a apelante, a efetiva prestação de serviços no mês de julho/2022 foi objeto de controvérsia no presente feito, competindo à autora o ônus de provar que, efetivamente, prestou serviços à ré durante o referido mês, fazendo jus à remuneração.
+Limitou-se a autora, todavia, a juntar apenas as notas fiscais de fls. 28/29, emitidas somente em 26/09/2022, e sem qualquer indicação dos serviços aos quais se referem, e quando foram prestados, de modo que não constituem provas suficientes a embasarem a pretensão de cobrança ora deduzida.
+Nem há como ser acolhida, ainda, a alegação de que a ré/apelada teria o domínio total das informações quanto aos serviços prestados pela recorrente, já que é razoável esperado que a autora/apelante, no mínimo, tivesse um registro dos serviços prestados, com os nomes dos pacientes atendidos, data do atendimento, procedimentos realizados, etc., até para que pudesse conferir as informações apresentadas pela parte contrária.
+Todavia, não consta nenhuma dessas informações nos presentes autos, de modo que a pretensão de cobrança relativa a um período no qual a própria prestação de serviços era questão controvertida, não poderia ser provida.
+Por conseguinte, também deve ser mantida a condenação da autora/reconvinda no pagamento de indenização por danos materiais decorrente da prática de concorrência desleal, tendo em vista que, como bem ressaltou o MM. Juiz de origem, "em que pese seja permitido ao réu tentar conquistar a clientela da parte autora e fazer prevalecer o seu negócio, os meios empregados não podem ser capazes de enganar os consumidores em relação à origem dos produtos".
+E, na hipótese concreta, observa-se que os documentos juntados pela ré/reconvinte às fls. 71/75, os quais demonstram que a autora entrou em contato com os pacientes, exigindo novo cadastro para que fossem atendidos em sua clínica particular, sem esclarecer o desligamento da prestação de serviços junto à ré, não foram especificamente impugnados na contestação, vindo a reconvinda a fazê-lo somente quando da interposição do presente apelo.
+Limitou-se a reconvinda a alegar, em sua contestação, que entrou em contato com os pacientes por dever médico, a fim de indagá-los se gostariam de continuar os atendimentos com o médico, contudo, não conferiu o devido esclarecimento aos pacientes de que estava se desligando da ora apelada, levando-os a crer que se tratava de simples mudança de endereço.
+Além disso, confessou a autora/reconvinda a contratação de uma empresa prestadora de serviços de agendamento, a qual entrou em contato com os pacientes, mas sem esclarecimento de que havia cessado a prestação de serviços junto à ré.
+Ainda que a apelante afirme ter ocorrido mera "falha de comunicação", resta evidenciada no caso concreto a prática de concorrência desleal, e o desvio de clientela por parte da autora/reconvinda, o que implica no dever de indenizar pelos danos materiais, a serem apurados na forma do art. 210, da Lei nº 9.279/96.
+V) Correta, portanto, a solução dada pela r. sentença, a qual deve ser mantida em sua integralidade (e-STJ, fls. 233-235, sem destaques no original).
+O acórdão recorrido fixou premissas fáticas claras: inexistência de prova suficiente da prestação de serviços em julho de 2022, limitação a notas fiscais emitidas em setembro de 2022 e reconhecimento de concorrência desleal com base em documentos não impugnados na contestação.
+As razões do recurso especial, ao afirmar desproporcionalidade probatória e impugnar a força dos prints, demandam rediscutir a suficiência, autenticidade e valoração de provas e a controvérsia sobre a efetiva prestação de serviços, o que esbarra no óbice da Súmula n. 7 do STJ, diante da necessidade de reexame fático-probatório.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ISS. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICO-TRIBUTÁRIA CUMULADA COM REPETIÇÃO DE INDÉBITO. ALEGADA BITRIBUTAÇÃO. RETENÇÃO PELO TOMADOR DOS SERVIÇOS. INSUFICIÊNCIA DA PROVA DO EFETIVO RECOLHIMENTO E DA DUPLICIDADE DO PAGAMENTO. ART. 166 DO CTN. CARTAS DE ANUÊNCIA CONSIDERADAS INIDÔNEAS PELO TRIBUNAL DE ORIGEM. ÔNUS DA PROVA. ARTS. 373 E 396 DO CPC. CERCEAMENTO DE DEFESA AFASTADO. MATÉRIA DECIDIDA COM BASE EM PREMISSAS FÁTICO-PROBATÓRIAS. SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. A alteração das conclusões firmadas pela Corte de origem quanto à insuficiência da documentação apresentada para comprovação do efetivo recolhimento do ISS, da alegada duplicidade de pagamento e do preenchimento dos requisitos previstos no art. 166 do CTN demanda reexame do conjunto fático-probatório dos autos, providência inviável em recurso especial, nos termos da Súmula n. 7 do STJ.
+2. A alegação de que a controvérsia envolveria mera revaloração jurídica da prova não afasta a incidência da Súmula n. 7 do STJ quando o Tribunal de origem conclui, a partir da análise concreta da documentação apresentada, pela insuficiência da prova produzida para demonstração dos fatos constitutivos do direito alegado.
+..
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 3.113.628/SP, relator Ministro TEODORO SILVA SANTOS , Segunda Turma, julgado em 1/7/2026, DJEN de 8/7/2026 - sem destaque no original)
+PROCESSUAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIÊNCIA INEQUÍVOCA DO INÍCIO DO CUMPRIMENTO DE SENTENÇA. PAGAMENTO VOLUNTÁRIO. AUSÊNCIA. INCIDÊNCIA DA MULTA DO ART. 475-J DO CPC/1973 (ART. 523, § 1º, DO CPC/2015) E DE HONORÁRIOS ADVOCATÍCIOS. REEXAME DOS ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. NÃO CABIMENTO. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+..
+2. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama o reexame dos elementos fático-probatórios dos autos.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.178.364/RJ, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 29/4/2024, DJe de 2/5/2024 - sem destaque no original)
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INVENTÁRIO. SUCESSÕES. CÔNJUGE SOBREVIVENTE. CONCORRÊNCIA COM DESCENDENTES. REGIME DE BENS. SEPARAÇÃO OBRIGATÓRIA. AUSÊNCIA DE PREQUESTIONAMENTO. REEXAME FÁTICO-PROBATÓRIO. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. RECURSO DESPROVIDO.
+..
+6. O reexame do acervo fático-probatório em recurso especial é vedado, nos termos da Súmula 7 do STJ, e o recorrente não demonstrou tratar-se de mera revaloração jurídica de fatos incontroversos.
+..
+IV. DISPOSITIVO
+11. Agravo interno desprovido.
+(AgInt no REsp n. 2.231.513/AL, relatora Ministra DANIELA TEIXEIRA, Terceira Turma, julgado em 1/6/2026, DJEN de 8/6/2026 - sem destaque no original)
+(2) Do dissídio jurisprudencial
+A incidência da Súmula n. 7 do STJ torna prejudicada a análise do dissídio jurisprudencial.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO o valor dos honorários advocatícios em favor de DOUTORES DO EMAGRECIMENTO para 20% sobre o valor da condenação da reconvenção e sobre o valor da causa da ação principal, nos termos do art. 85, § 11, do CPC.
+É o voto.
