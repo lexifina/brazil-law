@@ -1,0 +1,37 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Rogerio da Silva Santos contra acórdão da Quinta Turma do Superior Tribunal de Justiça, que negou provimento ao AgRg no HC 1.121.743/SP (doc. 2, pp. 44-52).
+
+Consta de documento encartado a estes autos que “[...] o paciente foi condenado pela prática do crime de roubo majorado (art. 157, § 2º, incisos II e V, c/c § 2º-A, inciso I, do Código Penal), por três vezes, na forma do art. 70 do Código Penal, tendo sido fixada, em primeiro grau, a pena de 7 anos, 9 meses e 10 dias de reclusão, em regime inicial fechado, além de 18 dias-multa [...]. A defesa interpôs apelação criminal, tendo o Tribunal a quo dado parcial provimento ao recurso para reduzir a pena para 6 anos e 8 meses de reclusão, mantendo o regime inicial fechado e a condenação pelo art. 157, § 2º, II e V, c/c § 2º-A, I, do Código Penal [...]” (doc. 2, p. 36).
+
+Neste writ, o impetrante sustenta, em síntese, que:
+
+Conforme expressamente reconhecido pelo Tribunal de Justiça de São Paulo, o paciente não realizou a abordagem armada nem exerceu pessoalmente a grave ameaça contra as vítimas. Sua atuação foi situada durante o transbordo da carga, quando as vítimas ainda estavam em poder dos assaltantes. O acórdão atribuiu-lhe, ainda, a ordem para que o indivíduo armado as deixasse na Rodovia Fernão Dias.
+Apesar dessa delimitação, a causa de aumento relativa ao emprego de arma de fogo foi integralmente atribuída ao paciente, sob o fundamento de que estaria previamente ajustado com os demais envolvidos e agiria em unidade de desígnios.
+[...]
+O constrangimento ilegal submetido a esta Suprema Corte consiste na atribuição da majorante mediante inferência de adesão subjetiva, sem indicação de circunstância concreta que demonstre o conhecimento e a aceitação, pelo paciente, do emprego da arma de fogo na abordagem realizada por terceiro. (doc. 1, pp. 1-2).
+
+E, ao final, requer:
+
+[...] seja a presente ordem de habeas corpus conhecida e, no mérito, concedida para afastar a causa de aumento prevista no artigo 157, § 2ºA, inciso I, do Código Penal em relação ao paciente, diante da ausência de fundamentação individualizada quanto à sua ciência e adesão ao emprego da arma de fogo por terceiro, determinando-se o redimensionamento da pena e a reavaliação do regime prisional. Subsidiariamente, requer seja concedida a ordem para cassar o acórdão impugnado, no ponto relativo à comunicabilidade da majorante, determinando-se ao Superior Tribunal de Justiça que proceda a novo julgamento da questão, mediante fundamentação concreta e individualizada, observados os artigos 5º, incisos XLV e XLVI, e 93, inciso IX, da Constituição Federal. (doc. 1, p. 4).
+
+É o relatório necessário. Decido.
+
+Colaciono, por oportuno, a ementa do acórdão impugnado:
+
+Ementa PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. EMPREGO DE ARMA DE FOGO. COMUNICABILIDADE DAS CIRCUNSTÂNCIAS OBJETIVAS NA COAUTORIA. UNIDADE DE DESÍGNIOS DELINEADA PELAS INSTÂNCIAS ORDINÁRIAS. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO. 1. O agravante busca o afastamento da causa de aumento do emprego de arma de fogo, ao argumento de que não realizou a abordagem armada e somente surgiu no transbordo da carga. As instâncias ordinárias, contudo, reconheceram o emprego de arma de fogo no roubo e a unidade de desígnios entre os coautores, descrevendo atuação concertada do agravante na dinâmica criminosa, inclusive com ordem sobre a liberação das vítimas. 2. Em contexto de coautoria previamente ajustada para a prática de roubo, as circunstâncias objetivas do delito se comunicam entre os agentes, mesmo que nem todos executem pessoalmente o gravame. 3. Agravo regimental não provido. (doc. 2, p. 44 – grifei).
+
+O acórdão da Quinta Turma do Superior Tribunal de Justiça não merece reparos. Isso porque “[a] dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas. Às Cortes Superiores, no exame da dosimetria das penas em grau recursal, compete o controle da legalidade e da constitucionalidade dos critérios empregados, bem como a correção de eventuais discrepâncias, se gritantes ou arbitrárias, nas frações de aumento ou diminuição adotadas pelas instâncias anteriores” (RHC 119.961/DF, Rel. Min. Rosa Weber, Primeira Turma, DJe 22/5/2014 – grifei). No caso, não há qualquer iniquidade no acórdão impugnado.
+
+Nessa mesma direção:
+
+Ementa AGRAVO REGIMENTAL. HABEAS CORPUS. ROUBO MAJORADO. EMPREGO DE ARMA DE FOGO. DOSIMETRIA DA PENA. CONTROLE DA LEGALIDADE E DA CONSTITUCIONALIDADE DOS CRITÉRIOS UTILIZADOS. CORREÇÃO DE EVENTUAIS ARBITRARIEDADES. INIQUIDADES QUE NÃO SE VERIFICAM NO PRESENTE CASO. AGRAVO AO QUAL SE NEGA PROVIMENTO. I. Caso em exame 1. Paciente “[...] condenado como incurso no art. 157, § 2º, incisos II e V, e § 2º-A, inciso I, do Código Penal, à pena de 8 anos, 10 meses e 20 dias de reclusão, em regime inicial fechado, bem como ao pagamento de 21 dias-multa [...]. Interposta apelação, o Tribunal local negou provimento ao recurso defensivo, mantendo a condenação proferida na sentença [...]. II. Questão em discussão 2. Pretendido refazimento da dosimetria da pena. III. Razões de decidir 3. Com efeito, “[ao] Supremo Tribunal Federal, no exame da dosimetria, compete o controle da legalidade e da constitucionalidade dos critérios empregados, com a correção de eventuais decisões teratológicas e arbitrárias, que violem dispositivo constitucional” (HC 232.565 AgR/PR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 9/11/2023). Iniquidades que não se verificam no presente caso. IV. Dispositivo 4. Agravo regimental ao qual se nega provimento. (HC 261.468 AgR/SP, da minha relatoria, Primeira Turma, DJe 15/10/2025 – grifei).
+
+Ementa Direito penal. Agravo regimental no recurso ordinário em habeas corpus. Individualização da pena. Homicídio qualificado, na forma tentada. Recurso exclusivo da defesa. Incremento da fundamentação, com manutenção da fração de redução. Reformatio in pejus inexistente. Agravo regimental não provido. I. Caso em exame 1. Agravo regimental interposto contra decisão em que neguei provimento ao recurso ordinário em habeas corpus, por reputar inexistente ilegalidade manifesta ou constrangimento ilegal passível de correção pela via estreita do mandamus. II. Questão em discussão 2. Reformatio in pejus no julgamento do recurso de apelação interposto pela defesa. III. Razões de decidir 3. A jurisprudência da Corte é firme no sentido de que cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas. Às Cortes Superiores, no exame da dosimetria, compete somente o controle da legalidade e da constitucionalidade dos critérios empregados, com a correção apenas de eventuais decisões teratológicas e arbitrárias, que violem frontalmente dispositivo constitucional. Precedentes. 4. Se no julgamento do recurso exclusivo da defesa a pena do réu permaneceu inalterada, não há margem para se falar em agravamento da sua situação e, consequentemente, na ocorrência de reformatio in pejus. IV. Dispositivo 5. Agravo regimental desprovido. (RHC 260.114 AgR/SP, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 1º/10/2025 – grifei).
+
+Ante o exposto, denego a ordem (art. 192, caput, do Regimento Interno do Supremo Tribunal Federal).
+
+Publique-se.
+
+Brasília, 29 de setembro de 2026.
+
+Ministro Cristiano Zanin
+Relator
