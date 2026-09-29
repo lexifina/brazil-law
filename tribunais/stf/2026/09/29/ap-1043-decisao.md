@@ -1,0 +1,49 @@
+DESPACHO
+
+Trata-se de Ação Penal em face do Deputado Federal JOÃO CARLOS PAOLILO BACELAR FILHO e de NORMA SUELY VENTURA DA SILVA. A denúncia, oferecida pela Procuradoria-Geral da República (PGR), imputou aos réus a prática da conduta descrita no art. 312, caput, do Código Penal.
+Em 23/4/2026, homologuei o Acordo de Não Persecução Penal celebrado entre a Procuradoria-Geral da República, JOÃO CARLOS PAOLILO BACELAR FILHO e NORMA SUELY VENTURA DA SILVA, segundo o qual os réus se comprometeram a cumprir as seguintes condições:
+
+“3.1.2 Repararem os danos causados pelos crimes perpetrados, restituindo ao erário o valor de R$ 1.312.618,09 (um milhão, trezentos e doze mil reais, seiscentos e dezoito reais e nove centavos) em conta-corrente a ser indicada pelo Juízo competente, nos termos do art. 28-A, I, do CPP. Os valores são devidos de forma solidária e deverão ser pagos em até duas parcelas de igual valor, no prazo de 20 (vinte) e 40 (quarenta) dias, respectivamente, após a homologação do acordo. O numerário será destinado à União, vitima dos crimes perpetrados pelos Compromissários;
+3.1.3 Pagarem, a título de prestação pecuniária, o valor de R$ 96.096,00 (noventa e seis mil e noventa e seis reais) no caso do Compromissário João Carlos Paolilo Bacelar Filho; e o valor de R$ 20.275,00 (vinte mil, duzentos e setenta e cinco reais e vinte centavos), no caso da Compromissária Norma Suely Ventura da Silva, após a homologação do acordo. A importância foi apurada com base em ferramenta institucional de parâmetros objetivos, em conformidade com o art. 45 do Código Penal. O juízo da execução destinará os valores, preferencialmente, a entidades públicas ou de interesse social, nos termos do art. 28-A, IV, do Código de Processo Penal.
+3.1.4 Prestarem serviços à comunidade, com carga horária total de 280 horas, a ser cumprida individualmente por cada Compromissário, em instituição a ser designada pelo juízo competente, conforme art. 28-A, III, Código de Processo Penal e arts. 46, §§ 1°, 2° e 3°, e 55 do Código Penal;
+3.1.4 Informarem ao Ministério Público Federal e ao juízo competente eventual mudança de endereço, número de telefone ou e-mail.”
+
+A Defesa de JOÃO CARLOS PAOLILO BACELAR FILHO requereu a postergação das datas inicialmente previstas para o cumprimento da prestação de serviços à comunidade, em razão da necessidade de compatibilização dessa obrigação com a agenda decorrente do cargo político atualmente ocupado e com as atividades relacionadas à candidatura eleitoral (eDoc. 382), o que indeferi em 2/9/2026 (eDoc. 401).
+Em nova manifestação, a Defesa de JOÃO CARLOS PAOLILO BACELAR FILHO requereu o imediato início do cumprimento da obrigação de prestação de serviços à comunidade, bem como a expedição de guia para pagamento da prestação pecuniária, com prazo não inferior a 30 (trinta) dias (eDoc. 408).
+Em 11/9/2026, determinei ao Juízo da Vara de Execuções das Penas e Medidas Alternativas do Distrito Federal que, no prazo de 48 (quarenta e oito) horas, adotasse as providências necessárias à efetivação e fiscalização do cumprimento das obrigações assumidas por JOÃO CARLOS PAOLILO BACELAR FILHO, especialmente, quanto (eDoc. 410):
+
+(1) ao imediato início ao cumprimento da obrigação de prestação de serviços à comunidade, com carga horária total de 280 (duzentas e oitenta) horas, mediante a designação da entidade beneficiária, nos termos do art. 28-A, III, do Código de Processo Penal e dos arts. 46, §§ 1º, 2º e 3º, e 55 do Código Penal;
+(2) ao cumprimento da obrigação de prestação pecuniária prevista no item 3.1.3 do ANPP, com a expedição da respectiva guia de recolhimento ou documento de arrecadação pertinente, assegurando-se prazo não inferior a 30 (trinta) dias para o pagamento integral do valor devido.
+
+Em 22/9/2026, o Juízo da Vara de Execuções das Penas e Medidas Alternativas do Distrito Federal em relação ao cumprimento da prestação de serviços à comunidade, informou que o compromissário  “foi encaminhado à instituição, porém até agora não se apresentou.”
+Quanto à prestação pecuniária, informou que o “boleto de pagamento foi expedido em 14.9.2026, com vencimento para 14.10.2026. Ou seja, concedeu-se o prazo de 35 dias, levando em consideração a data da decisão do Supremo Tribunal Federal.”
+Por fim, encaminhou pedido da Defesa de JOÃO CARLOS PAOLILO BACELAR FILHO que “requer seja autorizado o início do cumprimento da prestação de serviços à comunidade efetivamente começando no dia 06/10/2026, primeiro momento imediatamente posterior ao encerramento do período eleitoral em que será possível organizar o retorno do requerente a Brasília e o comparecimento à instituição designada. “ e que  “seja estabelecido o dia 30/11/2026 como data limite para pagamento dos valores, com a correspondente expedição ou reexpedição das guias com vencimento em 30/11/2026.” (eDoc. 418).
+Com vista dos autos, a Procuradoria-Geral da República apresentou manifestação pelo “indeferimento dos pedidos e por nova advertência ao solicitante, quanto à necessidade de dar início ao cumprimento das obrigações, sob pena de rescisão do ANPP” (eDoc. 421).
+
+É o relatório. DECIDO.
+
+Em 23/4/2026, homologuei o Acordo de Não Persecução Penal celebrado entre a Procuradoria-Geral da República, JOÃO CARLOS PAOLILO BACELAR FILHO e NORMA SUELY VENTURA DA SILVA, segundo o qual os réus se comprometeram a cumprir as seguintes condições:
+
+“3.1.2 Repararem os danos causados pelos crimes perpetrados, restituindo ao erário o valor de R$ 1.312.618,09 (um milhão, trezentos e doze mil reais, seiscentos e dezoito reais e nove centavos) em conta-corrente a ser indicada pelo Juízo competente, nos termos do art. 28-A, I, do CPP. Os valores são devidos de forma solidária e deverão ser pagos em até duas parcelas de igual valor, no prazo de 20 (vinte) e 40 (quarenta) dias, respectivamente, após a homologação do acordo. O numerário será destinado à União, vitima dos crimes perpetrados pelos Compromissários;
+3.1.3 Pagarem, a título de prestação pecuniária, o valor de R$ 96.096,00 (noventa e seis mil e noventa e seis reais) no caso do Compromissário João Carlos Paolilo Bacelar Filho; e o valor de R$ 20.275,00 (vinte mil, duzentos e setenta e cinco reais e vinte centavos), no caso da Compromissária Norma Suely Ventura da Silva, após a homologação do acordo. A importância foi apurada com base em ferramenta institucional de parâmetros objetivos, em conformidade com o art. 45 do Código Penal. O juízo da execução destinará os valores, preferencialmente, a entidades públicas ou de interesse social, nos termos do art. 28-A, IV, do Código de Processo Penal.
+3.1.4 Prestarem serviços à comunidade, com carga horária total de 280 horas, a ser cumprida individualmente por cada Compromissário, em instituição a ser designada pelo juízo competente, conforme art. 28-A, III, Código de Processo Penal e arts. 46, §§ 1°, 2° e 3°, e 55 do Código Penal;
+3.1.4 Informarem ao Ministério Público Federal e ao juízo competente eventual mudança de endereço, número de telefone ou e-mail.”
+Conforme decisão datada de 2/9/2026, ao submeter o Acordo de Não Persecução Penal à homologação deste SUPREMO TRIBUNAL FEDERAL, a Procuradoria-Geral da República e os compromissários realizaram as tratativas que antecederam a celebração do acordo com o conhecimento prévio das condições a serem cumpridas.
+A defesa de JOÃO CARLOS PAOLILO BACELAR FILHO requereu a postergação das datas inicialmente previstas para o cumprimento da prestação de serviços à comunidade, em razão da necessidade de compatibilização dessa obrigação com a agenda decorrente do cargo político atualmente ocupado e com as atividades relacionadas à candidatura eleitoral. Além disso, requereu a postergação das datas inicialmente estabelecidas para o pagamento da reparação do dano ao erário.
+No entanto, o compromissário, na condição de agente político, tinha ciência prévia das datas estabelecidas para a realização das eleições e, consequentemente, da necessidade de conciliar os compromissos decorrentes do mandato e da campanha eleitoral com o cumprimento das obrigações assumidas no ANPP.
+No ponto, assim se manifestou a Procuradoria-Geral da República (eDoc. 421):
+
+O juízo das execuções do Distrito Federal remete pedido de João Carlos P. Bacelar Filho, em que solicita autorização para postergação do início do cumprimento da prestação de serviços à comunidade e do pagamento dos valores pactuados no acordo de não persecução penal, com a consequente adequação dos vencimentos das respectivas guias.
+Destaca que, apesar de encaminhado à instituição social para início da prestação de serviços à comunidade, o compromissário não compareceu e que a guia referente à prestação pecuniária tem vencimento previsto para 14.10.2026.
+Não é a primeira vez que o requerente, sem demonstrar boa vontade no cumprimento das obrigações assumidas no acordo, solicita prorrogação de prazos. Requerimento idêntico já havia sido indeferido por esse relator em decisão recente (2.9.2026), sem que nenhum fato novo ou relevante tenha sido apresentado.
+Nessas condições, o Ministério Público Federal manifesta-se pelo indeferimento dos pedidos e por nova advertência ao solicitante, quanto à necessidade de dar início ao cumprimento das obrigações, sob pena de rescisão do ANPP.
+
+  Diante de todo o exposto, nos termos do art. 21, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, INDEFIRO os requerimentos formulados pela defesa de JOÃO CARLOS PAOLILO BACELAR FILHO e DETERMINO a continuidade do cumprimento do Acordo de Não Persecução Penal, ADVERTINDO, entretanto, que em caso de novos descumprimentos das condições impostas, o referido acordo poderá ser rescindido.
+Intimem-se os advogados regularmente constituídos, inclusive por meios eletrônicos.
+Ciência à Procuradoria-Geral da República.
+Publique-se.
+Brasília, 29 de setembro de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
