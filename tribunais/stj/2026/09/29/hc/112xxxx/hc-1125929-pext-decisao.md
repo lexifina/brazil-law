@@ -1,0 +1,84 @@
+PExt no HABEAS CORPUS Nº 1125929 - RJ (2026/0369872-5)
+
+RELATOR: MINISTRO MESSOD AZULAY NETO
+
+REQUERENTE: PAULO SERGIO VAZ DE ARRUDA
+
+ADVOGADOS: ALEXANDRE LOPES DE OLIVEIRA - RJ081570
+
+JOÃO BALTHAZAR DE MATOS - RJ171106
+
+REQUERIDO: MINISTÉRIO PÚBLICO FEDERAL
+
+IMPETRADO: TRIBUNAL REGIONAL FEDERAL DA 2A REGIAO
+
+INTERES.: CHAAYA MOGHRABI
+
+INTERES.: SARITA MOGHRABI
+
+ADVOGADOS: ALBERTO ZACHARIAS TORON - SP065371
+
+LUIZA ALEXANDRINA VASCONCELOS OLIVER - SP235045
+
+GABRIELLA GOMES SORRILHA - SP441047
+
+EMENTA
+
+DECISÃO
+Trata-se de um segundo pedido de extensão da ordem de habeas corpus concedida aos pacientes, CHAAYA MOGHRABI e SARITA MOGHRABI, apresentado às fls. 306-416, em benefício de PAULO SERGIO VAZ DE ARRUDA (PExt n. 01024708/2026).
+Em 3/9/2026, a ordem de habeas corpus foi concedida aos pacientes originários, nos seguintes termos (fl. 255):
+[...] in casu, não há como se ratificar que a denúncia foi capaz de preencher todos os elementos exigidos ao crime previsto no art. 1º da Lei nº 9.613/98, razão pela qual é possível verificar a flagrante ilegalidade apta à concessão de uma ordem, com amparo no § 2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, após as informações prestadas pela origem e em resposta ao pedido da defesa no RCD n. 00910385/2026, não conheço do habeas corpus. Concedo a ordem, de ofício, para determinar o trancamento da ação penal n. 066473-10.2020.4.02.5101 (Operação Fiat Lux) em relação aos pacientes, CHAAYA MOGHRABI e SARITA MOGHRABI, pela acusação de lavagem de dinheiro (art. 1º, V, § 1º, I, § 4º da Lei nº 9.613/98), em razão da patente atipicidade dos fatos narrados na denúncia (art. 386, III, do Código de Processo Penal).
+
+Nesta petição, a defesa de PAULO SERGIO VAZ DE ARRUDA busca a concessão da ordem para: (i) reconhecer a atipicidade da imputação de lavagem de capitais por ausência de descrição de atos de ocultação ou dissimulação e de elementos mínimos de ciência da origem ilícita dos valores; e (ii) determinar o trancamento da ação penal n. 5066473-10.2020.4.02.5101 em relação ao peticinante.
+Requer "a) com fundamento no art. 580 do Código de Processo Penal, sejam estendidos a PAULO SÉRGIO VAZ DE ARRUDA os efeitos da ordem concedida de ofício no HC nº 1.125.929/RJ, reconhecendo-se a incidência dos mesmos fundamentos objetivos que conduziram ao trancamento da ação penal em favor de CHAAYA MOGHRABI e SARITA MOGHRABI, determinando-se o trancamento da Ação Penal nº 5066473-10.2020.4.02.5101 em relação a PAULO SÉRGIO VAZ DE ARRUDA quanto à imputação de lavagem de capitais constante do Conjunto de Fatos 04, por patente atipicidade dos fatos narrados na denúncia, nos mesmos termos da decisão já proferida por Vossa Excelência; b) seja igualmente reconhecida, diante da identidade da deficiência típica apontada, a incidência da ratio decidendi sobre a imputação de lavagem de capitais formulada contra o Requerente, no Conjunto de Fatos 03, determinando-se o trancamento da persecução também quanto a essa imputação; c) subsidiariamente, caso se entenda necessária análise autônoma quanto ao Conjunto de Fatos 03, seja desde logo deferida a extensão relativamente ao Conjunto de Fatos 04, cuja identidade objetiva com os fatos examinados na decisão é manifesta" (fl. 317).
+É o relatório. DECIDO.
+Cinge-se o pedido ao trancamento da ação penal em relação ao corréu PAULO SERGIO VAZ DE ARRUDA dos pacientes originais, CHAAYA MOGHRABI e SARITA MOGHRABI, pela acusação de suposta prática do "art. 1º, V, §1º, I, §4º da Lei nº 9.613/98, em sua redação original, na forma dos arts. 29 e 30 do Código Penal, por 02 vezes (Conjunto de fatos 04)" (fl. 116).
+No entanto, entendo não ser o caso de deferimento do pedido de extensão nos termos do artigo 580 do Código de Processo Penal, tampouco de concessão da ordem de ofício na forma do artigo 654, § 2º, do mesmo Diploma.
+Certo que "O trancamento de procedimento investigatório criminal, na via do habeas corpus ou do respectivo recurso ordinário, somente é admissível em caráter excepcional, quando demonstrada, de plano, a ausência inequívoca de indícios mínimos de materialidade e autoria, a atipicidade da conduta ou causa extintiva de punibilidade" (RHC n. 222.226/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/8/2026, DJEN de 24/8/2026.)
+A corroborar:
+[...] O entendimento desta Corte é no sentido de que o trancamento de ação penal por meio do habeas corpus é medida excepcional. Por isso, será cabível somente quando houver inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito. [...] (AgRg no RHC n. 191.754/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 10/6/2024, DJe de 13/6/2024.)
+
+Primeiramente, importante rememorar que a denúncia versava sobre possível crime de lavagem de ativos praticado no âmbito da Eletronuclear em relação aos dois pacientes, ao ora novo peticionante e a outros sete corréus.
+Em relação aos pacientes originais narrava a exordial apenas (fls. 116-117):
+[...] CHAAYA MOGHRABI
+
+Tendo CHAAYA MOGHRABI: a) de forma livre e consciente, em 08 de julho de 2008, junto a BRUNO GONÇALVES LUZ, PAULO SÉRGIO VAZ DE ARRUDA e MANFRED NOWAK, ocultado e dissimulado a natureza, a origem, a localização, a disposição, a movimentação e a propriedade de USD 36.636,00 (trinta e seis mil, seiscentos e trinta e seis dólares) transferidos da conta da offshore TOTAL TEC POWER SOLUTIONS, gerenciada por JORGE LUZ e BRUNO LUZ, no banco Clariden Leu (Suíça), para conta da offshore EYESBLUE LTD, controlada por ele e SARITA MOGHRABI, está incurso nas penas do art. 1º, V, §1º, I, §4º da Lei nº 9.613/98, em sua redação original, na forma dos arts. 29 e 30 do Código Penal (Conjunto de fatos 04).
+
+SARITA MOGHRABI
+
+Tendo SARITA MOGHRABI: a) de forma livre e consciente, em 08 de julho de 2008, junto a BRUNO GONÇALVES LUZ, PAULO SÉRGIO VAZ DE ARRUDA e MANFRED NOWAK, ocultado e dissimulado a natureza, a origem, a localização, a disposição, a movimentação e a propriedade de USD 36.636,00 (trinta e seis mil, seiscentos e trinta e seis dólares) transferidos da conta da offshore TOTAL TEC POWER SOLUTIONS, gerenciada por JORGE LUZ e BRUNO LUZ, no banco Clariden Leu (Suíça), para conta da offshore EYESBLUE LTD, na qual figura como beneficiária, está incursa nas penas do art. 1º, V, §1º, I, §4º da Lei nº 9.613/98, em sua redação original, na forma dos arts. 29 e 30 do Código Penal (Conjunto de fatos 04). [...] (grifei)
+
+Do contrário, em relação ao aqui peticionante, os fatos, em tese, imputados foram diversos, segundo a suposta imputação da denúncia que abaixo transcrevo (fls. 114-116):
+[...] a) de forma livre e consciente, entre 12 de junho de 2006 e 06 de fevereiro de 2009, auxiliado ANÍBAL FERREIRA GOMES, SILAS RONDEAU CAVALCANTE SILVA, OTHON LUIZ PINHEIRO DA SILVA e LUIZ MANUEL AMARAL MESSIAS, com apoio de LUIS CARLOS BATISTA SÁ, MANFRED MAX NOWAK e ANA CRISTINA DA SILVA TONIOLO, a ocultar e dissimular a natureza, a origem, a localização, a disposição, a movimentação e a propriedade de, pelo menos, EUR 1.994.976,46 (um milhão, novecentos e noventa e quatro mil, novecentos e setenta e seis euros e quarenta e seis centavos), afastando o produto de crimes de corrupção praticados de sua origem ilícita, por meio de transferências de recursos da empresa FRAMATOME/AREVA para a conta bancária da TOTAL TEC POWER SOLUTIONS, no banco Clariden Leu (Suíça), controlada por BRUNO GONÇALVES LUZ e JORGE ANTÔNIO DA SILVA LUZ, com posterior repasses de valores aos envolvidos, por meio de: (1) 07 (sete) transferências (19/04/2007, 09/07/2007, 08/10/2007, 25/01/2008, 26/05/2008, 12/01/2009 e 06/02/2009) no valor total de EUR 383.078,50 (trezentos e oitenta e três mil, setenta e oito reais e cinquenta centavos) para a conta da offshore DELAROSA PROPERTIES LTD, no banco Credit Suisse (Suíça), controlada por ANA CRISTINA DA SILVA TONIOLO e OTHON PINHEIRO; (2) 05 (cinco) transferências (20/10/2006, 15/11/2006, 24/11/2006, 18/12/2006 e 08/01/2007) no valor total de EUR 125.400,00 (cento e vinte e cinco mil e quatrocentos euros) para as contas das offshores NIBEL CORPORATION, LESPAN SA L. A. e SHILLEAN HOLDING INC, em benefício de ANÍBAL GOMES e SILAS RONDEAU, além do recebimento do equivalente de EUR 24.000,00 (vinte e quatro mil euros) em reais, em espécie; (3) 05 (cinco) transferências (18/04/2007, 10/07/2007, 08/10/2007, 25/01/2008 e 26/05/2008) no valor total de EUR 188.000,00 (cento e oitenta e oito mil euros) para as contas no Rural International Bank LTD e Banco Rural Europa SA, em benefício de LUIZ MANUEL AMARAL MESSIAS e (4) 17 (dezessete) transferências (19/04/2007, 10/05/2007, 09/07/2007, 08/10/2007, 29/11/2007, 03/01/2008, 04/03/2008, 25/04/2008, 26/05/2008, 16/06/2008, 12/09/2008, 22/09/2008, 16/10/2008, 30/10/2008, 23/12/2008, 12/01/2009 e 06/02/2009), no valor total de EUR 264.912,60 (duzentos e sessenta e quatro mil, novecentos e doze euros e sessenta centavos) para a conta da offshore QUANDOL TRADING LTD, no banco Lombard Odier & Cie SA (Suíça), controlada por MANFRED MAX NOWAK, está incurso nas penas do art. 1º, V, §1º, I, §4º da Lei nº 9.613/98, em sua redação original, na forma dos arts. 29 e 30 do Código Penal (Conjunto de fatos 03); e b) de forma livre e consciente, em ao menos 02 (duas) oportunidades distintas, nos dias 31 de maio de 2007 e 08 de julho de 2008, junto a BRUNO GONÇALVES LUZ, CHAAYA MOGHRABI e MANFRED NOWAK, ocultado e dissimulado a natureza, a origem, a localização, a disposição, a movimentação e a propriedade de USD 118.329,00 (cento e dezoito mil, trezentos e vinte e nove dólares) por meio de transferências de recursos provenientes dos crimes antecedentes da conta da offshore TOTAL TEC POWER SOLUTIONS, gerenciada por JORGE LUZ e BRUNO LUZ, no banco Clariden Leu (Suíça), para contas por ele indicadas, a fim de que fossem realizadas operações dólar-cabo para disponibilização de recursos no Brasil, sendo: (1) USD 81.693,00 (oitenta e um mil, seiscentos e noventa e três dólares) transferidos em 31 de maio de 2007 para conta da offshore CERVEROS TRADE LTD, por ele controlada e (2) USD 36.636,00 (trinta e seis mil, seiscentos e trinta e seis dólares) transferidos em 08 de julho de 2008 para conta da offshore EYESBLUE LTD, controlada por CHAAYA MOGHRABI e SARITA MOGHRABI, está incurso nas penas do art. 1º, V, §1º, I, §4º da Lei nº 9.613/98, em sua redação original, na forma dos arts. 29 e 30 do Código Penal, por 02 vezes (Conjunto de fatos 04). (grifei)
+
+Não obstante, como até já explicado quando da decisão de fls. 275-284 e seus embargos de declaração (fls. 302-305), o acórdão de habeas corpus n. 5010707-36.2026.4.02.0000, às fls. 15-23, não tratou da situação concreta do peticionante - seus respectivos pacientes foram apenas os réus CHAAYA MOGHRABI e SARITA MOGHRABI.
+De pronto, verifica-se que o peticionante não se encaixa na circunstância de ter, contra si, a imputação de uma única e isolada conduta: uma operação financeira comumente conhecida como dólar-cabo. Para muito além, a denúncia cita fatos diversos e mais numerosos (cerca de 36 transferências) e valores muito além do que eventualmente se consideraria presumidamente lícito por analogia à normativa pátria vigente (mais de dois milhões de euros).
+Retorno a mencionar que, como referência para a eventual responsabilização abstrata pelo crime de evasão de divisas (art. 22, parágrafo único, da Lei n. 7.492/1986), o Banco Central editou, ainda em 2001, a Circular n. 3.071, definindo que a declaração do patrimônio no exterior a ser realizada no dia 31/12 do ano-base, deveria ser comunicada apenas quando superior a US$ 100.000,00 (cem mil dólares).
+In verbis:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 22, PARÁGRAFO ÚNICO, DA LEI N. 7.492/1986. DENÚNCIA. CIRCULAR N. 3.071/2001 DO BANCO CENTRAL. SALDO EM 31/12 DO ANO BASE. PRECEDENTES.
+[...] 2. "Com o objetivo de traçar os contornos da norma penal de evasão de divisas, trazida no art. 22, parágrafo único, parte final, da Lei n. 7.492/1986, o Banco Central editou a Circular n. 3.071/2001, definindo que a declaração do patrimônio no exterior deveria ser realizada no dia 31 de dezembro do ano-base, e que deveria ser comunicada apenas a existência de relevante saldo bancário, considerado, à época, o valor superior a R$10.000,00 (dez mil reais), fixado atualmente em US$ 100.000,00 (cem mil dólares), sob pena de não ficar configurado o crime em tela" (RHC n. 82.880/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/8/2018, DJe 27/8/2018).
+3. No caso, a denúncia não apontou o saldo nas contas do agravado ao final do ano base.
+4. Agravo regimental desprovido (AgRg no REsp n. 1.381.038/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/6/2021, DJe de 23/6/2021.)
+
+Hoje, o valor atualizado pelo Bacen é bem maior (Resolução n. 279/2022: US$ 1.000.000,00), mas, ainda assim, muito inferior ao narrado na exordial em face da peticionante.
+Nesse compasso, inaplicável o art. 580 do CPP: "No caso de concurso de agentes (Código Penal, art. 25), a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros".
+Veja-se :
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. INTEGRAÇÃO EM ORGANIZAÇÃO CRIMINOSA. LAVAGEM DE DINHEIRO. PEDIDO DE EXTENSÃO DE BENEFÍCIO CONCEDIDO A CORRÉUS. AUSÊNCIA DE SIMILITUDE FÁTICO-PROCESSUAL. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. PERICULOSIDADE DO AGENTE. GRAVIDADE CONCRETA. SUPOSTA POSIÇÃO DE DESTAQUE NA ORGANIZAÇÃO CRIMINOSA. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA. ALEGAÇÃO DE DESPROPORCIONALIDADE DA MEDIDA. INOCORRÊNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+1. Quanto ao pedido de extensão, nos termos do art. 580 do CPP, no caso de concurso de agentes (Código Penal, art. 25), "a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros".
+2. No caso, segundo consta do acórdão, o agravante não está na mesma situação fático-processual dos corréus que tiveram a preventiva revogada, pois, conforme o exposto, além de responder pelos crimes de organização criminosa também lhe é imputado o crime de lavagem de dinheiro (mediante a realização de 58 movimentações bancárias, conforme a autoridade policial e o Ministério Público) circunstâncias que, aliadas à posição de destaque que lhe é atribuída na organização criminosa, evidencia-se maior periculosidade concreta, e, por consequência, reforça a necessidade de cautelaridade. Não é demais pontuar que o réu já possui condenação pelo Tribunal do Juri pela prática de crime contra a vida (homicídio), cujo trânsito em julgado se deu em 18/11/20241 (e-STJ fl. 46). Logo, a situação do ora agravante é notoriamente distinta e mais grave do que a dos corréus, sendo, esta, uma particularidade que não se comunica. Portanto, não se identifica a similaridade legal que autoriza a extensão do benefício postulado. [...]
+10. Agravo regimental a que se nega provimento (AgRg no RHC n. 241.782/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/8/2026, DJEN de 27/8/2026.)
+
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO E COAÇÃO NO CURSO DO PROCESSO. PRISÃO PREVENTIVA. PEDIDO DE EXTENSÃO DOS EFEITOS DA DECISÃO CONCESSIVA AO CORRÉU (ART. 580 DO CPP). AUSÊNCIA DE IDENTIDADE FÁTICO-PROCESSUAL. RÉU FORAGIDO. NECESSIDADE DE ASSEGURAR A APLICAÇÃO DA LEI PENAL. EXCESSO DE PRAZO. NÃO CONFIGURAÇÃO. CONTEMPORANEIDADE. SUPRESSÃO DE INSTÂNCIA. MEDIDAS CAUTELARES DIVERSAS. INVIABILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+[...] 2. A extensão dos efeitos de decisão favorável a corréu, nos termos do art. 580 do CPP, exige identidade fático-processual e a inexistência de fundamentos de caráter exclusivamente pessoal que justifiquem tratamento diferenciado entre os acusados.
+3. Inviável a extensão quando o corréu beneficiado permaneceu submetido à custódia cautelar, sem registro de faltas graves, tendo o excesso de prazo sido reconhecido em razão de falhas do serviço auxiliar do Judiciário, ao passo que o agravante evadiu-se do distrito da culpa e permanece não localizado. [...]
+7. Agravo regimental não provido (AgRg no RHC n. 236.264/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/8/2026, DJEN de 24/8/2026.)
+
+Ao fim, in casu, não há como se ratificar a tese de que a denúncia não foi capaz de preencher todos os elementos exigidos pelo art. 41 do CPP.
+Ante o exposto, julgo improcedente o pedido de extensão.
+Publique-se. Intimem-se.
+
+Brasília, 29 de setembro de 2026.
+
+Ministro Messod Azulay Neto
+Relator
