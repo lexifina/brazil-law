@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de WESLEY PAIXÃO SILVA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em decorrência do julgamento da apelação criminal n. 1500526-76.2024.8.26.0542.
+Consta dos autos que o paciente foi inicialmente condenado pelo Juízo da Vara Criminal da Comarca de Cotia à pena de 8 (oito) anos e 2 (dois) meses de reclusão, em regime inicial fechado, além de 18 (dezoito) dias-multa, pela prática do delito previsto no artigo 157, § 2º, incisos II e V, c.c. o artigo 29, na forma do artigo 70, ambos do Código Penal (fls. 29-36).
+A defesa interpôs recurso de apelação ao Tribunal de Justiça do Estado de São Paulo, que lhe negou provimento (fls. 37-44), sobrevindo o trânsito em julgado.
+Na impetração, busca-se a concessão da ordem para: (i) fixar a pena-base no mínimo legal, por ausência de fundamentação concreta; (ii) reduzir o aumento da terceira fase ao patamar mínimo de 1/3 e aplicar o artigo 68, parágrafo único, do Código Penal, afastando a cumulação automática das causas de aumento; e (iii) afastar o concurso formal, reconhecendo a prática de crime único, com o consequente redimensionamento da pena e a reavaliação do regime prisional (fls. 6-18 e 21-22).
+É o relatório. DECIDO.
+A controvérsia consiste na ocorrência de possível constrangimento ilegal, caracterizado pela dosimetria da pena aplicada ao paciente, notadamente quanto à exasperação da pena-base, ao percentual de aumento decorrente das causas de aumento de pena e ao reconhecimento do concurso formal, com reflexos no quantum da reprimenda e no regime prisional fixado.
+Contudo, o presente habeas corpus investe contra um acórdão com trânsito em julgado. Portanto, não deve ser conhecido, pois foi utilizado como substituto de uma revisão criminal, em uma situação em que não se configurou a competência originária desta Corte.
+Conforme o artigo 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, as revisões criminais e as ações rescisórias de seus julgados.
+Quanto à pretensão de concessão de habeas corpus de ofício, com fundamento na interpretação sistemática dos arts. 647-A e 654, § 2º, ambos do Código de Processo Penal, esta Corte Superior entende que a concessão da ordem de ofício constitui iniciativa exclusiva do julgador, quando se deparar com flagrante ilegalidade em procedimento de sua competência, o que não se verifica no caso concreto.
+Nessa linha: "Na hipótese, a condenação transitou em julgado em 31/5/2023. Dessa forma, o presente writ seria sucedâneo de revisão criminal, sendo esta Corte incompetente para o processamento do pleito revisional. (AgRg no HC n. 861.867/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024.)
+O artigo 210 do Regimento Interno do Superior Tribunal de Justiça autoriza o relator a indeferir liminarmente o habeas corpus quando constatada a manifesta incompetência, hipótese verificada nos presentes autos.
+Com essas considerações, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
