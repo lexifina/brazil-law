@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/09/2026 a 29/09/2026, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBSCURIDADE, OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Os embargos de declaração, a teor do art. 1.022 do CPC, constituem recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição, omissão ou erro material -, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examinam-se embargos de declaração, opostos por DE FARO E CARACIOLO SOCIEDADE DE ADVOGADOS, contra acórdão que, por unanimidade, negou provimento ao agravo interno interposto pela parte embargante, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA DE PREQUESTIONAMENTO.
+1. Ação de cobrança de honorários advocatícios contratuais.
+2. Agravo interno interposto contra decisão que conheceu do agravo e, com fundamento no art. 932, IV, "a", do CPC, bem como na Súmula 568/STJ, conheceu parcialmente do recurso especial e, nessa extensão, negou-lhe provimento.
+3. Agravo interno não provido.
+Em suas razões recursais, a parte embargante defende que o v. acórdão é omisso e contraditório.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBSCURIDADE, OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Os embargos de declaração, a teor do art. 1.022 do CPC, constituem recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição, omissão ou erro material -, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+2. Embargos de declaração rejeitados.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+1. Nos termos do art. 1.022 do CPC, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja, no julgado impugnado, obscuridade, contradição, omissão ou erro material.
+2. Nessa perspectiva, a parte embargante defende que o v. acórdão é omisso e contraditório.
+I. Da alegada omissão
+3. Sustenta a parte embargante que o recurso especial aponta expressamente a existência de erro de premissa na decisão do TJ/SP indicando ter o órgão julgador se equivocado ao afirmar que a ação pretendia o percebimento de honorários de sucumbência propriamente ditos quando, na realidade, da intepretação lógico-sistemática da petição inicial, depreende-se que a pretensão é de natureza indenizatória, com causa de pedir fundada na teoria da perda de uma chance, em razão da revogação abrupta, imotivada e abusiva do mandato, subtraindo dos advogados a possibilidade de alcançarem sucesso em ação para a qual foram contratados no êxito.
+4. Além disso, afirma a parte embargante que o recurso especial aborda especificamente a omissão do TJ/SP quanto à incidência à espécie da teoria dos pedidos implícitos, a qual, tivesse sido analisada e acolhida, permitiria inferir pela natureza indenizatória da ação, dando ensejo à condenação da parte embargada pela via do arbitramento dos honorários devidos à parte embargante.
+5. Ao analisar detidamente a decisão do TJ/SP, a decisão unipessoal entendeu pela ausência de negativa de prestação jurisdicional, a qual foi mantida pelo Colegiado nos seguintes termos:
+6. I. DA AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC
+7. A parte agravante não demonstrou, de maneira clara e específica, a falta de manifestação expressa sobre fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual o Tribunal de origem deveria ter se manifestado.
+8. Ademais, a parte agravante apenas aduziu que o acórdão recorrido não examinou individualmente cada um dos argumentos suscitados no recurso, não explicitando em que consistiria a pretensa ofensa aos arts. 489 e 1.022 do CPC.
+9. Nesse sentido: AgInt no AREsp 2.183.105/MG, Quarta Turma, DJe 7/12/2023; AgInt no AREsp 1.996.859/SP, Terceira Turma, DJe 4/5/2022."
+10. Em que pese a insurgência da parte embargante, razão não lhe assiste, porquanto não se verificou nenhum vício na decisão proferida pelo TJ/SP e, consequentemente, não há vício na decisão proferida pelo Colegiado.
+11. Inclusive, é preciso ressaltar que toda a discussão junto ao TJ/SP orbita em torno de um contrato celebrado entre a parte embargante e a parte embargada e, nessa situação, o TJ/SP decidiu da seguinte maneira:
+"Cinge-se a controvérsia em apreciar se as rés devem algum valor ao escritório autor pelo serviço prestado nos autos do procedimento administrativo de nº 10314-720.185/2020-44.
+(..) conclui-se que os honorários advocatícios contratuais são devidos, independentemente de quem deu causa ao desfazimento antecipado do negócio e se a condição suspensiva se implementou, com a observação de que a verba é devida proporcionalmente ao serviço prestado.
+Infere-se, portanto, que apesar de o contrato prever o pagamento imediato dos honorários em casos de rescisão, não há previsão clara sobre o percentual aplicável ou o valor devido.
+Por conta disso, deve-se aplicar o art. 22º do Estatuto da OAB, o qual estabelece que "na falta de estipulação ou de acordo, os honorários são fixados por arbitramento judicial, em remuneração compatível com o trabalho e o valor econômico da questão, observado obrigatoriamente o disposto nos §§ 2º, 3º, 4º, 5º, 6º, 6º-A, 8º, 8º-A, 9º e 10 do art. 85 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil)."
+Entretanto, a aplicação deste artigo implicaria arbitramento dos honorários de advogado, pedido este que não foi formulado pelo autor nestes autos.
+Não se ignora que os nobres causídicos que patrocinaram os interesses da ré até certo momento processual merecem a devida remuneração por seu trabalho e que deve ser levada em consideração o valor pago. Mas, para que se evite eventual julgamento "extra petita", é caso de julgar improcedente o pedido de cobrança, o que não obsta o ajuizamento de eventual ação de arbitramento de honorários advocatícios por parte do demandante, ocasião em que será analisado também se o valor pago já é suficiente para remunerar o trabalho.
+Dessa maneira, a r. sentença deve ser reformada para julgar improcedente o pedido de cobrança de honorários advocatícios contratuais ad exitum."
+12. Assim sendo, diante da decisão do TJ/SP, devidamente analisada pelo Colegiado, por isso afastada a negativa de prestação jurisdicional, não é possível, como quer fazer crer a parte embargante, que o TJ/SP adotou uma visão deturpada da ação, reformou a sentença e julgou o pedido improcedente, sob o singelo e frágil argumento de que a fixação de remuneração à embargante caracterizaria julgamento extra petita.
+13. Em outro aspecto, no tocante à decisão do Colegiado de que não houve a negativa de prestação jurisdicional suscitada e de que não houve o devido prequestionamento dos artigos tidos por violados, a defesa da parte embargante não guarda simetria com o que foi decido nos autos, pois o entendimento da parte embargante, de que houve omissão quanto ao fato de que a sentença de primeiro grau foi de procedência do pedido indenizatório, reconhecendo o direito dela aos honorários contratuais, de maneira que não havia interesse recursal para suscitar, em sede apelação, a violação aos arts. 141 e 492 do CPC ou à teoria dos pedidos implícitos, não demonstra ter havido negativa de prestação jurisdicional, até mesmo porque o TJ/SP, mediante a devida provocação pelos embargos opostos, poderia ter se manifestado sobre os referidos artigos, no entanto, o que se percebe é que os argumentos levados ao conhecimento do tribunal em nada alteraram o entendimento de que a sentença deveria ser reformada, por isso, não há omissão do Colegiado.
+II. Da alegada contradição
+14. Na sequência, defende a parte embargante que ao mesmo tempo em que a decisão unipessoal agravada, mantida pelo Colegiado, decidiu pela ausência de prequestionamento quanto aos artigos 141, 492, CPC, decidiu também que o acórdão recorrido está fundamentado e expressamente decidiu acerca dos fatos que apontavam para a ausência de negativa de prestação jurisdicional, concluindo, a partir daí que que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+15. Aduz ainda a parte embargante que, nessa perspectiva de ideias, há uma contradição interna do julgado, pois não há como conciliar as duas premissas, ou seja, se a prestação jurisdicional foi esgotada e todas as questões de mérito enfrentadas, não pode o mesmo julgado, a poucas linhas de distância, reconhecer que dispositivos legais expressamente suscitados em embargos de declaração simplesmente não foram decididos.
+16. Sem razão a parte embargante e isso porque está Corte tem entendimento sedimentado de que não há incompatibilidade em se afastar a violação ao art. 1.022 do CPC e, ao mesmo tempo, reconhecer a falta de prequestionamento quanto ao conteúdo normativo dos dispositivos legais tidos como violados, se devidamente decidida a causa com outros fundamentos.
+17. Nesse sentido: AgInt nos EDcl no REsp 2.017.813/SC, Terceira Turma, DJEN 21/5/2026; AgInt no AREsp 3.111.939/RS, Terceira Turma, DJEN 8/5/2026; AgInt nos EDcl no AREsp 2.828.415/PR, Quarta Turma, DJEN 27/4/2026; AREsp 2.987.579/MT, Quarta Turma, DJEN 13/11/2025.
+18. Verifica-se, nessa linha, que a questão apontada pela parte embargante, resume-se a pedido de reanálise das razões apresentadas no agravo interno, não se constituindo, portanto, em pontos omissos e contraditórios do julgado, mas mero inconformismo com os fundamentos adotados no acórdão embargado.
+19. De fato, o acórdão embargado foi claro ao negar provimento ao agravo interno para manter a decisão unipessoal outrora agravada que conheceu do agravo e, com fundamento no art. 932, IV, "a", do CPC, bem como na Súmula 568/STJ, conheceu parcialmente do recurso especial e, nessa extensão, negou-lhe provimento.
+20. Assim, revela-se nítida a pretensão da parte embargante de se valer dos embargos de declaração para rediscutir matéria já decidida, fazendo com que prevaleça o seu entendimento sobre o tema, intuito esse incompatível com a natureza deste recurso.
+21. Como se sabe, os embargos declaratórios não são via adequada para corrigir suposto erro de julgamento, não sendo possível atribuir eficácia infringente ao recurso se ausentes erro material, omissão, obscuridade ou contradição.
+22. Desse modo, dissociado o pleito de qualquer um dos pressupostos de oposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a sua rejeição.
+23. Por fim, advirto a parte de que a futura interposição de recursos ou medidas protelatórias ensejará a aplicação de multa.
+DISPOSITIVO
+Forte nessas razões, REJEITO os embargos de declaração no agravo interno no agravo em recurso especial.
