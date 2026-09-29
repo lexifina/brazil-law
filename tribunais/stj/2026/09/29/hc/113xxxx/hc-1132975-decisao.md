@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JHONATAN DE LIMA PEREIRA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em decorrência do julgamento da apelação criminal n. 1515007-12.2021.8.26.0037 (fls. 50-52).
+Consta nos autos que o paciente foi inicialmente condenado pelo Juízo da 1ª Vara Criminal da Coma rca de Araraquara à pena de 33 (trinta e três) anos e 4 (quatro) meses de reclusão, em regime fechado, além de 78 (setenta e oito) dias-multa, por infração ao artigo 157, § 2º, inciso II, e § 2º-A, inciso I, do Código Penal, em concurso formal impróprio (art. 70, segunda parte, do Código Penal) (fls. 48-49).
+A defesa apelou ao Tribunal de Justiça do Estado de São Paulo, que deu parcial provimento ao recurso, para aplicar a regra do concurso formal próprio (art. 70, primeira parte, do Código Penal), limitar-se a um só aumento na terceira fase (art. 68, parágrafo único, do Código Penal) e redimensionar a pena do paciente para 10 (dez) anos de reclusão e 24 (vinte e quatro) dias-multa, mantido o regime fechado (fls. 61-62).
+Na presente impetração, busca-se a concessão da ordem para: (i) reconhecer a violação ao artigo 155 do Código de Processo Penal, ante a ausência de prova judicial independente de autoria, com a absolvição nos termos do artigo 386, VII, do Código de Processo Penal; e (ii) conceder liminar para suspender os efeitos executórios da condenação e expedir alvará de soltura, salvo se por outro motivo estiver preso (fls. 2-26).
+É o relatório. DECIDO.
+A controvérsia consiste em uma possível ilegalidade flagrante, consubstanciada na negativa à absolvição.
+Todavia, o presente habeas corpus investe contra um acórdão com trânsito em julgado. Por essa razão, não deve ser conhecido, uma vez que foi utilizado como substituto de uma revisão criminal, em um contexto em que não se estabeleceu a competência originária desta Corte.
+Conforme o artigo 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados".
+Quanto à pretensão de concessão de habeas corpus de ofício, com fundamento na interpretação sistemática dos arts. 647-A e 654, § 2º, ambos do Código de Processo Penal, esta Corte Superior entende que a concessão da ordem de ofício constitui iniciativa exclusiva do julgador, quando se deparar com flagrante ilegalidade em procedimento de sua competência, o que não se verifica no caso concreto.
+Nessa linha: "Na hipótese, a condenação transitou em julgado em 31/5/2023. Dessa forma, o presente writ seria sucedâneo de revisão criminal, sendo esta Corte incompetente para o processamento do pleito revisional. (AgRg no HC n. 861.867/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024.)
+Com essas considerações, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
