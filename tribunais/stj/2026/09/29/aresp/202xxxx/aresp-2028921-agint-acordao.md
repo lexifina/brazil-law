@@ -1,0 +1,67 @@
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2028921 - PR (2021/0370222-4)
+
+Número Único: 0054067-37.2013.8.16.0001 – TJPR
+
+RELATORA: MINISTRA MARIA ISABEL GALLOTTI
+
+AGRAVANTE: DORIVAM CELSO NOGUEIRA FILHO
+
+ADVOGADOS: LUCIANO RIBEIRO REIS BARROS - DF021701
+
+NATHALIE CERQUEIRA - PR063613
+
+FERNANDO BARBUR CARNEIRO - PR061000
+
+AGRAVADO: MARIO FERNANDO DA SILVA
+
+AGRAVADO: ELENICE DE CARVALHO VIEIRA
+
+AGRAVADO: DANIEL BRUNO GALVÃO
+
+AGRAVADO: MARCIA DE JESUS SILVA
+
+AGRAVADO: GABRIELA TRIERVEILLER RIBEIRO GALVÃO
+
+AGRAVADO: VICTOR LEONE
+
+AGRAVADO: EMERSON DARCY VICHINHESKI
+
+AGRAVADO: CÍNTIA LANGE LEONE
+
+ADVOGADOS: ALCEU RODRIGUES CHAVES - PR029073
+
+LUCIANO HINZ MARAN - PR029381
+
+LAIS BAHL - PR070411
+
+INTERES.: CDM CONSTRUTORA E INCORPORADORA LTDA
+
+ADVOGADO: SEM REPRESENTAÇÃO NOS AUTOS - SE000000M
+
+INTERES.: BARIGÜI S/A CRÉDITO, FINANCIAMENTO E INVESTIMENTOS
+
+ADVOGADOS: LUIS HENRIQUE MOREIRA - SC031420
+
+ARNOLDO AFONSO DE OLIVEIRA PINTO - PR016727
+
+MAXIMILIANO GOMES MENS WOELLNER - PR031117
+
+INTERES.: JOAO GUSTAVO CARAZZAI DE MORAIS
+
+ADVOGADO: DEFENSORIA PÚBLICA DO ESTADO DO PARANÁ
+
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. SOCIEDADE DE FATO. RESPONSABILIDADE SOLIDÁRIA. REEXAME DE FATOS E PROVAS. SÚMULA 7 DO STJ.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando negativa de prestação jurisdicional.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. Agravo interno a que se nega provimento.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/09/2026 a 29/09/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG), João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Maria Isabel Gallotti.
+
+Brasília, 29 de setembro de 2026.
+
+Ministra Maria Isabel Gallotti
+Ministra
