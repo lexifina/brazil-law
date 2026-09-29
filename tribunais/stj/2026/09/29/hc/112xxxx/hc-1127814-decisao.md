@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de RAFAEL ARAUJO DE NOVAIS, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em decorrência do julgamento do Agravo em Execução Penal n. 0010792-27.2026.8.26.0996.
+Consta nos autos que o Juízo da execução negou ao paciente o indulto previsto no Decreto Presidencial nº 12.790/2025.
+Interposto agravo em execução, a negativa foi mantida (fl. 10):
+AGRAVO EM EXECUÇÃO PENAL - Recurso defensivo Indulto - Decreto Presidencial nº 12.790/2025 - Crime patrimonial cometido sem violência ou grave ameaça à pessoa Aplicação do artigo 9º, inciso XV, do referido decreto Reparação do dano decorrente de ação policial e de terceiros que não substitui a indispensável voluntariedade do ato Inexistência de presunção absoluta de hipossuficiência em virtude da assistência pela Defensoria Pública e fixação de pena de multa no mínimo legal Requisitos legais não preenchidos Decisão mantida Recurso não provido.
+Na presente impetração, a defesa sustenta que " ..  em relação à incapacidade econômica do recorrido, não se justifica a negativa do indulto sob a alegação genérica de que o simples fato do Paciente ser assistido pela Defensoria Pública não seria suficiente para evidenciar a hipossuficiência. Isso pois, aqueles que usufruem da assistência judiciária gratuita possuem presunção de hipossuficiência, o que torna clara a impossibilidade econômica para reparação dos danos" (fl. 6).
+Requer, inclusive liminarmente, " ..  DECLARAR o direito do paciente ao indulto, com base no art. 9º, inciso XV, c. c. art. 12, §2º, do decreto presidencial nº 12.790/2025 ao delito patrimonial perpetrado sem violência ou grave ameaça" (fl. 8).
+Às informações foram prestadas, às fls. 92-94 e 95-108.
+O Ministério Público Federal manifestou, às fls. 112-122, pela denegação do habeas corpus.
+É o relatório. DECIDO.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida.
+A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância ao § 2º do artigo 654 do Código de Processo Penal.
+Cinge-se a matéria a verificar a possibilidade de indulto.
+O Tribunal manteve a decisão do Juízo da execução que indeferiu o pedido de indulto ao paciente com fundamento no art. 9º, XV do Decreto nº 12.790/2025, porque não houve comprovação da reparação voluntária do dano e tampouco a demonstração da incapacidade econômica para fins de dispensa da reparação do dano (fls. 12-13):
+ ..  Por sua vez, o artigo 9º, inciso XV, do Decreto Presidencial nº 12.790/2025 estabelece que a concessão do indulto para crimes contra o patrimônio, cometidos sem violência ou grave ameaça à pessoa, está condicionada à comprovação, até 25 de dezembro de 2025, da reparação voluntária do dano causado ou da efetiva impossibilidade econômica de fazê-lo, a teor do disposto no artigo 12, § 2º do mesmo Decreto.
+Na espécie, não se ignora que houve recuperação da res furtiva, mas igualmente não se descuida de que ela se deu em virtude de apreensão policial e circunstâncias alheias à vontade do agente, e não de ato voluntário do agravante.  ..
+Não bastasse, não há nos autos qualquer demonstração documental da impossibilidade financeira do agravante e a simples assistência pela Defensoria Pública não presume, de forma inconteste, a sua hipossuficiência.  ..  (gifei)
+Portanto, diante da ausência de comprovação da reparação do dano e da inexistência de elementos que justifiquem a dispensa legal dessa exigência, impõe-se o indeferimento do pedido.
+Corroborando:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. INDULTO PREVISTO EM DECRETO PRESIDENCIAL. PRESUNÇÃO DE HIPOSSUFICIÊNCIA ECONÔMICA RELATIVA. NECESSIDADE DE REPARAÇÃO DO DANO. HABEAS CORPUS SUBSTITUTIVO NÃO CONHECIDO. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Impugnação de decisão que não conheceu de habeas corpus, em agravo regimental interposto contra acórdão que manteve indeferimento de indulto pelo Juízo da execução penal, com fundamento no art. 9º, XV, do Decreto nº 12.790/2025, por ausência de reparação do dano e inexistência de presunção de incapacidade econômica do art. 12, § 2º, do mesmo Decreto.
+2. Fato relevante. Recorrente sustenta presunção objetiva de hipossuficiência econômica pelo critério do art. 12, § 2º, V, do Decreto nº 12.790/2025, em razão de fixação do valor do dia-multa no mínimo legal (1/30 do salário-mínimo), e afirma indevida exigência cumulativa de representação pela Defensoria Pública e confusão entre valor do dia-multa e quantidade de dias-multa.
+3. As decisões anteriores. Instâncias ordinárias registraram patrocínio por advogado particular, a multa não fixada no patamar mínimo e a inexistência de reparação do dano ou demonstração de arrependimento posterior, mantendo o indeferimento do indulto.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em: (i) saber se o habeas corpus pode ser utilizado como sucedâneo de recurso próprio e se há flagrante ilegalidade que autorize concessão de ofício; (ii) saber se a presunção de hipossuficiência econômica do art. 12, § 2º, V, do Decreto nº 12.790/2025 é automática quando o valor do dia-multa é fixado no mínimo legal, inclusive à luz da assistência pela Defensoria Pública ou da constituição de advogado particular; (iii) saber se, para a hipótese do art. 9º, XV, do Decreto nº 12.790/2025, é exigível a reparação do dano, vinculada ao arrependimento posterior (arts. 16 e 65, III, "b", do Código Penal), como requisitos cumulativos; (iv) saber se a revisão dos elementos fáticos utilizados para afastar a hipossuficiência demanda revolvimento probatório incabível na via eleita.
+III. RAZÕES DE DECIDIR
+5. O habeas corpus substitutivo de recurso próprio não deve ser conhecido, conforme orientação consolidada, somente admitindo-se a concessão de ofício diante de flagrante ilegalidade, inexistente no caso.
+6. A presunção de incapacidade econômica prevista no art. 12, § 2º, do Decreto nº 12.790/2025 possui natureza relativa e deve ser aferida segundo as peculiaridades do caso concreto, não se configurando de forma automática pela fixação do valor do dia-multa no mínimo legal.
+7. O art. 9º, XV, do Decreto nº 12.790/2025 condiciona o indulto, em crimes contra o patrimônio sem violência ou grave ameaça, à reparação do dano, vinculada ao arrependimento posterior nos marcos dos arts. 16 e 65, III, "b", do Código Penal, requisitos que devem ser atendidos cumulativamente.
+8. No caso concreto, não houve reparação voluntária do dano, não se aplicou a causa de diminuição do art. 16 do Código Penal nem a atenuante do art. 65, III, "b", e foi registrado patrocínio por advogado particular e multa não fixada no patamar mínimo, elementos suficientes para afastar a presunção de hipossuficiência.
+9. A revisão dos elementos fáticos utilizados pelas instâncias ordinárias para afastar a hipossuficiência demandaria revolvimento probatório, providência incabível em habeas corpus.
+10. Ausente argumento novo apto a alterar a decisão agravada, impõe-se a manutenção pelos próprios fundamentos.
+IV. DISPOSITIVO
+11. Resultado do Julgamento: Agravo regimental desprovido, mantido o não conhecimento do habeas corpus e o indeferimento do indulto  ..  (AgRg no HC n. 1.099.260/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/8/2026, DJEN de 17/8/2026, grifei.)
+Portanto, diante da ausência de comprovação da reparação do dano e da inexistência de elementos que justifiquem a dispensa legal dessa e outras exigências, impõe-se o indeferimento do pedido.
+Por certo, a revisão dos elementos concretos utilizados para afastar a conclusão da origem demandaria, necessariamente, revolvimento probatório, providência incabível via eleita.
+Nesse sentido:
+ ..  5. A modificação das premissas fáticas delineadas pelas instâncias de origem enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus  ..  AgRg no HC n. 957.713/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 5/3/2025, DJEN de 11/3/2025.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
