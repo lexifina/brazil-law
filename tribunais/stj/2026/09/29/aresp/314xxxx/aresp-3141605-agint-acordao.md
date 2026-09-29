@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/09/2026 a 29/09/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG), João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Maria Isabel Gallotti.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. EXPURGOS INFLACIONÁRIOS. EXIGÊNCIA DE PROCURAÇÃO ATUALIZADA PARA EXPEDIÇÃO DE ALVARÁ. ALINHAMENTO JURISPRUDENCIAL. SÚMULA 83/STJ. ÓBICE DA SÚMULA 7/STJ. DISSÍDIO PREJUDICADO. DECISÃO MANTIDA.
+1. A exigência de procuração atualizada, considerada a longa duração do processo e a liberação de valores, coaduna-se com o poder geral de cautela e com a direção do processo, conforme precedentes desta Corte (Súmula 83/STJ).
+2. A revisão das conclusões do Tribunal de origem sobre a conveniência da medida demanda reexame de fatos e provas (Súmula 7/STJ).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por SUCESSÃO DE ROSALINA REICHERT contra decisão singular da minha lavra em que não conheci do recurso especial pelos seguintes fundamentos: a) entendimento de que, consideradas as peculiaridades do caso concreto e o poder geral de cautela, é possível exigir procuração atualizada para a expedição de alvará, estando o acórdão estadual em sintonia com a jurisprudência do STJ, com aplicação da Súmula 83/STJ; b) incidência da Súmula 7/STJ como óbice intransponível à revisão das premissas fáticas, o que também prejudica o exame do dissídio pela alínea "c" do art. 105, III, da Constituição Federal (fls. 147-151).
+Opostos embargos de declaração, restaram parcialmente acolhidos, sem efeitos infringentes, para sanar omissão quanto às teses de negativa de prestação jurisdicional e de decisão surpresa (fls. 189-191).
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que a decisão agravada incorreu em error in procedendo ao não conhecer do recurso especial. Sustenta nulidade do acórdão estadual por ausência de prestação jurisdicional e decisão surpresa, com ofensa aos arts. 1.022, I e II, parágrafo único, II, e 489, § 1º, IV e VI, do CPC, além dos arts. 6º, 7º, 9º, 10 e 933 do CPC.
+Aduz que o Tribunal de origem julgou o agravo de instrumento com fundamento novo e fático longo lapso temporal da procuração e idade avançada dos outorgantes sem oportunizar prévia manifestação, violando o princípio da não surpresa previsto no art. 10 do CPC/2015.
+Defende que a exigência de procuração atualizada não encontra amparo nos arts. 105 do CPC e 682 do CC e que a aplicação do poder geral de cautela exige demonstração concreta dos requisitos dos arts. 300 e 301 do CPC, inexistentes no caso.
+Argumenta que a incidência da Súmula 7/STJ é inadequada por se tratar de controvérsia exclusivamente jurídica e que a Súmula 83/STJ foi aplicada indevidamente, pois há precedentes do STJ que asseguram o direito do patrono, com poderes especiais, à expedição de alvará em seu nome.
+Decorreu o prazo sem apresentação de impugnação (fl. 223).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. EXPURGOS INFLACIONÁRIOS. EXIGÊNCIA DE PROCURAÇÃO ATUALIZADA PARA EXPEDIÇÃO DE ALVARÁ. ALINHAMENTO JURISPRUDENCIAL. SÚMULA 83/STJ. ÓBICE DA SÚMULA 7/STJ. DISSÍDIO PREJUDICADO. DECISÃO MANTIDA.
+1. A exigência de procuração atualizada, considerada a longa duração do processo e a liberação de valores, coaduna-se com o poder geral de cautela e com a direção do processo, conforme precedentes desta Corte (Súmula 83/STJ).
+2. A revisão das conclusões do Tribunal de origem sobre a conveniência da medida demanda reexame de fatos e provas (Súmula 7/STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+Cuidam os autos de liquidação individual de sentença coletiva sobre expurgos inflacionários e cumprimento de sentença. Houve alvará em 2020 em nome do patrono com poderes especiais, e pedido de novo alvará sobre saldo remanescente.
+A decisão singular condicionou a expedição do novo alvará à juntada de procuração atualizada. Fundamentou-se em dados bancários e na necessidade de segurança na liberação.
+O Tribunal de origem desproveu o agravo de instrumento interposto e manteve a exigência de procuração atualizada. Fundamentou no poder geral de cautela, na longa duração do processo e na idade avançada, aplicando precedentes e entendimentos correlatos.
+O recurso não prospera.
+No que toca ao alinhamento do acórdão estadual com a jurisprudência do STJ e à aplicação da Súmula 83/STJ, a decisão agravada demonstrou que, diante das peculiaridades do caso, é possível exigir procuração atualizada com base no poder geral de cautela e na direção do processo, sem ofensa aos arts. 105 do CPC e 682 do CC.
+A decisão transcreveu precedentes desta Corte que admitem a medida: "Seja pelo ângulo do poder geral de cautela, seja pelo ângulo do poder discricionário de direção formal e material do processo, é perfeitamente cabível ao magistrado, diante das peculiaridades de cada caso concreto, solicitar a apresentação de instrumento de mandato atualizado com a finalidade precípua de proteger os interesses das partes e zelar pela regularidade dos pressupostos processuais, o que não implica contrariedade ao art. 38 do CPC ou ao art. 682 do Código Civil" (AgInt nos EDcl no AgInt no AREsp 1.765.369/SC, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 19/8/2021) e "Na hipótese dos autos, extrai-se ( ) que o entendimento do Tribunal de origem está em consonância com a orientação do STJ ( ). Incide, in casu, o princípio estabelecido na Súmula 83/STJ" (AgInt no REsp 1.748.719/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 29/5/2019) (fls. 149-150).
+A insurgência do agravante não afasta a aderência do acórdão estadual à orientação consolidada.
+De outra parte, conforme consignado na decisão agravada, é "impossível superar as conclusões fixadas pelas instâncias de origem com relação à conveniência de se exigir uma procuração atualizada, sem esbarrar na Súmula nº 7 do STJ" (AgInt nos EDcl no AREsp 2.302.887/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe 22/8/2024) (fl. 151).
+O agravante afirma tratar-se de questão exclusivamente jurídica, porém o acórdão estadual fundou-se em circunstâncias fáticas específicas longa duração do processo e idade avançada e na prudência para a liberação de valores, o que impede, em recurso especial, a revisão das premissas estabelecidas.
+O mesmo óbice prejudica o conhecimento pela alínea "c" do art. 105, III, da Constituição Federal, conforme orientação citada na própria decisão agravada.
+No tocante às nulidades suscitadas, os embargos de declaração foram parcialmente acolhidos para enfrentar expressamente as teses de negativa de prestação jurisdicional e decisão surpresa, sem alteração do resultado (fls. 189-191). A decisão embargada esclareceu que o Tribunal de origem "emitiu pronunciamento de forma fundamentada" e que não se configurou decisão surpresa, pois o acórdão tratou de elementos fáticos colhidos dos autos e justificou a medida de prudência no âmbito do contraditório (fls. 190-191). Nessa linha, não se verifica ofensa aos arts. 1.022 e 489 do CPC, nem violação aos arts. 6º, 7º, 9º, 10 e 933 do CPC.
+Nesse contexto, não havendo argumentos aptos a infirmar os fundamentos da decisão agravada, esta deve ser integralmente mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
