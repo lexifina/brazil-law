@@ -1,0 +1,74 @@
+HABEAS CORPUS Nº 1133276 - PR (2026/0417946-7)
+
+RELATOR: MINISTRO ROGERIO SCHIETTI
+
+IMPETRANTE: DEFENSORIA PÚBLICA DO ESTADO DO PARANÁ
+
+ADVOGADO: DEFENSORIA PÚBLICA DO ESTADO DO PARANÁ
+
+IMPETRADO: TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ
+
+PACIENTE: EDERSON SERGIO DOMINGOS (PRESO)
+
+INTERES.: MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ
+
+EMENTA
+
+DECISÃO
+EDERSON SERGIO DOMINGOS alega sofrer constrangimento ilegal no seu direito de locomoção em decorrência de acórdão do Tribunal de Justiça do Estado do Paraná no Agravo em Execução Penal nº 4000852-61.2026.8.16.0021.
+Nesta Corte Superior, a defesa sustenta que estão preenchidos os requisitos legais para a concessão do livramento condicional e que não houve falta grave nos 12 meses anteriores ao benefício. Aduz que a única anotação disciplinar existente, de 2/6/2017, é remota e já reabilitada, circunstância que não pode servir de fundamento para negar a benesse, e que o atestado de conduta carcerária favorável demonstra o mérito executório do paciente.
+Requer, liminarmente, a suspensão dos efeitos do acórdão recorrido e, no mérito, a concessão do livramento condicional ou, subsidiariamente, a concessão da ordem de ofício, caso não conhecido o writ.
+Decido.
+I. Requisito subjetivo para o livramento condicional e contemporaneidade
+A Terceira Seção desta Corte Superior, no julgamento do REsp n. 1.970.217/MG, sob o rito do recurso especial repetitivo, Rel. para o acórdão o Min. Ribeiro Dantas, finalizado em 1º/6/2023 (Tema n. 1.161), fixou a tese de que “a valoração do requisito subjetivo para concessão do livramento condicional – bom comportamento durante a execução da pena (art. 83, inciso III, alínea ‘a’, do Código Penal) – deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea ‘b’ do mesmo inciso III do art. 83 do Código Penal”.
+Esse Tema, de observância obrigatória, consolida o entendimento de que o requisito objetivo de “não cometimento de falta grave nos últimos 12 (doze) meses”, introduzido pela Lei n. 13.964/2019, não limita a análise do requisito subjetivo (bom comportamento). O magistrado pode e deve avaliar todo o histórico carcerário do apenado para formar sua convicção sobre o mérito do reeducando.
+Pelo princípio da razoabilidade, contudo, ainda que se possa analisar todo o histórico prisional do reeducando para aferir o preenchimento ou não do requisito subjetivo para concessão do livramento condicional, há necessidade de um mínimo de contemporaneidade entre a falta e o benefício.
+Assim, faltas graves muito antigas não justificam, por si, a negativa do benefício ou a exigência de exame pericial, visto que não espelham a avaliação contemporânea do cumprimento da reprimenda:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. ART. 83 DO CÓDIGO PENAL COM REDAÇÃO DADA PELA LEI N. 13.964/2019. AUSÊNCIA DO REQUISITO SUBJETIVO. GRAVIDADE ABSTRATA DOS DELITOS E FALTAS DISCIPLINARES GRAVES ANTIGAS. FUNDAMENTAÇÃO INIDÔNEA. BOM COMPORTAMENTO DURANTE A EXECUÇÃO DA PENA. PRINCÍPIO DA RAZOABILIDADE E CARÁTER RESSOCIALIZADOR DA PENA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O entendimento vigente neste Tribunal Superior é no sentido de não ser possível atribuir efeitos eternos às faltas graves praticadas na execução penal, por consubstanciar ofensa ao princípio da razoabilidade e ao caráter ressocializador da pena. Por essa razão, os precedentes desta Corte apontam ser inidôneo indeferir direitos previstos no decorrer da execução penal com lastro em faltas disciplinares antigas e já reabilitadas.
+2. Nos termos da jurisprudência consolidada nesta Corte, a argumentação relacionada à gravidade abstrata do crime e à longa pena a cumprir é inidônea para o indeferimento de benefícios executórios.
+3. No caso, o indeferimento do benefício foi fundamentado pela ausência do requisito subjetivo, em razão da natureza dos crimes praticados e da prática de faltas disciplinares graves no curso da execução penal pelo Apenado. Nada obstante, segundo a guia de execução penal acostada aos autos, foram cometidas 04 (quatro) faltas disciplinares graves, sendo uma no ano de 2004 e as demais em 2009.4. Não deve prosperar o fundamento de que "o art. 83, inc . III, do Código Penal [...] não impede que as faltas mais antigas sejam consideradas para a análise global do comportamento do apenado", por confrontar o caráter ressocializador da pena e o princípio da razoabilidade, pois respaldado em faltas graves longínquas, ocorridas há mais de 13 anos (2009) e já há muito reabilitadas.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 764.969/DF, relatora Ministra Laurita Vaz, 6ª T., DJe de 24/3/2023, destaquei.)
+
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL DEFERIDO PELO JUIZ DE PRIMEIRO GRAU. DECISÃO CASSADA PELO TRIBUNAL REVISOR. REQUISITO SUBJETIVO. FALTA GRAVE ANTIGA, GRAVIDADE ABSTRATA DOS DELITOS E LONGA PENA A CUMPRIR. FUNDAMENTOS INIDÔNEOS. PRECEDENTES. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO REGIMENTAL D ESPROVIDO.
+1. Hipótese em que o Juízo das Execuções Penais, em 04/05/2023, deferiu o pleito de livramento condicional ao Paciente (fls. 36-37), que cumpre a pena de 14 (catorze) anos, 2 (dois) meses e 20 (vinte) dias de reclusão, pela prática dos delitos de roubo majorado, receptação, tráfico privilegiado e adulteração de sinal identificador de veículo, com termo final previsto para o dia 04/07/2031, decisão que foi reformada pelo Tribunal estadual.
+2. Esta Corte Superior de Justiça firmou orientação no sentido de que a gravidade abstrata dos crimes praticados e a longa pena a cumprir pelo Apenado, bem como as faltas disciplinares antigas e reabilitadas não constitui fundamentação idônea a justificar o indeferimento de benefícios no âmbito da execução penal.
+3. No caso, conforme guia de execução de pena, a referida infração disciplinar ocorreu em 28/04/2020, e reabilitada em 27/05/2021, ou seja, há mais de três anos, não constando nenhum registro posterior de falta disciplinar.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 876.646/SP, relator Ministro Teodoro Silva Santos, 6ª T., DJe de 15/3/2024, destaquei.)
+
+II. O caso dos autos
+O Juízo da VEC assim decidiu a controvérsia (fls. 33-34, grifei):
+O(a) sentenciado(a) – atualmente em regime fechado – tem a pena total fixada em 32 anos e 02 meses, por três condenações ativas, pelos seguintes crimes: furto qualificado, furto simples e latrocínio.
+Ao que consta do sistema, conforme a sua condição de reincidente, de acordo com a natureza dos crimes e não havendo equívocos quanto às frações anotadas, a data do atingimento do requisito objetivo se operou em 28/02/2026:
+[...]
+- Requisitos subjetivos
+[...]
+Estabelecidas essas premissas, há se reconhecer que, no caso concreto, o(a) sentenciado(a) não faz jus ao benefício, na medida em que, ao que consta do sistema, houve o cometimento de falta grave, consistente na posse e no ingresso de aparelhos celulares em unidade prisional, ocorrida em 02/06/2017 [1.128 a 1.141], devidamente homologada, conforme decisão de e. 1.147.
+Além disso, existem diversos registros de infrações disciplinares praticadas pelo sentenciado ao longo do cumprimento de sua pena, conforme informações extraídas do prontuário de e. 1.125 - Fls. 08 a 11. 1.1. Por consectário, nos termos do art. 131 e ss. da LEP c/c o art. 83 do CP, INDEFIRO o livramento condicional.
+
+O Tribunal de origem, por sua vez, mencionou o seguinte (fls. 77-81, destaquei):
+No caso concreto, consta que o agravante cumpre pena total de 32 anos e 2 meses de reclusão, decorrente de condenações por furto qualificado, furto simples e latrocínio. O incidente de livramento condicional foi instaurado de ofício, com manifestação desfavorável do Ministério Público e posicionamento favorável da Defensoria Pública. O juízo de origem reconheceu que o requisito objetivo havia sido alcançado em 28.2.2026, mas indeferiu o benefício por ausência de requisito subjetivo, diante de falta grave praticada em 2.6.2017, consistente na posse e no ingresso de aparelhos celulares em unidade prisional, além de outros registros disciplinares extraídos do prontuário do sentenciado. Esses elementos constam da decisão agravada, do incidente executório e dos documentos disciplinares referidos no processo, especialmente mov. 319.1 – SEEU, mov. 325.1 – SEEU, mov. 327.1 – SEEU, mov. 329.1 – SEEU, movs. 1.128 a 1.141 – SEEU, mov. 1.147 – SEEU e mov. 1.125 – SEEU.
+A falta grave considerada pelo juízo singular não constitui dado lateral ou irrelevante. O ingresso e a posse de aparelhos celulares em unidade prisional revelam violação grave à disciplina carcerária, com potencial de comprometer a segurança interna do estabelecimento e a própria fiscalização estatal sobre a execução da pena. A conduta, por sua natureza, não se restringe a mero descumprimento formal de regra administrativa. Trata-se de infração que demonstra ruptura consciente com a disciplina do sistema prisional, justamente em contexto no qual se exige do apenado autocontrole, respeito às normas institucionais e capacidade de adaptação progressiva às condições impostas pela execução penal.
+Não procede o argumento de que o decurso de quase nove anos retiraria, por si só, aptidão valorativa da falta grave. O tempo transcorrido é elemento relevante e deve ser considerado no exame judicial, mas não opera como causa automática de apagamento do histórico prisional. A execução penal possui dinâmica própria, de modo que a avaliação do mérito não pode ignorar a trajetória concreta do condenado. Se faltas antigas não podem atuar como punição perpétua, também não se pode convertê-las em fatos juridicamente inexistentes quando revelam dado expressivo sobre o comportamento do apenado durante a execução. O equilíbrio está em examinar o conteúdo da falta, sua gravidade, o conjunto da ficha disciplinar, a natureza da pena executada e a finalidade do benefício pretendido.
+Esse exame foi realizado na origem. A decisão recorrida não se limitou a mencionar a falta de 2.6.2017 de forma abstrata. O juízo apontou que a infração foi devidamente homologada, indicou a existência de diversos registros disciplinares constantes do prontuário e ponderou que o livramento condicional exige juízo mais rigoroso de aptidão para reinserção social, por se tratar de etapa avançada da execução. A fundamentação, portanto, não repousa em presunção genérica desfavorável, mas em dados extraídos da execução penal, com identificação do histórico prisional e vinculação direta ao requisito previsto no art. 83, III, “a”, do Código Penal.
+Também não convence a afirmação de que o atestado de conduta favorável imporia automaticamente a concessão do benefício. O documento administrativo tem importância, mas não vincula o juízo da execução. O bom comportamento carcerário, para fins de livramento condicional, não se resume à classificação atual emitida pela unidade prisional. A certidão ou o atestado de conduta representam retrato parcial e contemporâneo da situação disciplinar, ao passo que o art. 83, III, “a”, do Código Penal exige avaliação mais ampla, com exame de toda a execução. Por isso, o registro favorável mencionado pela defesa no mov. 314.1 – SEEU não elimina a necessidade de ponderação judicial sobre a falta grave homologada no mov. 1.147 – SEEU e sobre os registros constantes do prontuário no mov. 1.125 – SEEU.
+[...]
+A situação concreta do agravante reforça essa conclusão. A pena total é expressiva, de 32 anos e 2 meses de reclusão, e inclui condenação por latrocínio, crime doloso cometido com violência ou grave ameaça à pessoa. Nessa hipótese, o parágrafo único do art. 83 do Código Penal exige, além dos demais requisitos, constatação de condições pessoais que permitam presumir que o liberado não voltará a delinquir. Essa exigência impõe cautela maior ao julgador, pois o livramento condicional desloca o cumprimento da pena para ambiente de liberdade fiscalizada. Diante de histórico disciplinar com falta grave por ingresso e posse de aparelhos celulares em unidade prisional, somado a registros de infrações ao longo da execução, não há base segura para afirmar, neste momento, a presença do prognóstico favorável exigido para a medida.
+[...]
+A defesa sustenta que inexistiria prova concreta de risco de reincidência. A objeção, entretanto, inverte a lógica do benefício. O livramento condicional não constitui direito automático derivado do decurso do tempo, mas faculdade judicial sujeita ao preenchimento cumulativo de requisitos objetivos e subjetivos. Cabe ao sentenciado demonstrar mérito compatível com a antecipação condicional da liberdade. Quando o histórico prisional contém falta grave homologada e outros apontamentos disciplinares, não se pode exigir do Estado prova positiva de futura reiteração delitiva, como se o indeferimento dependesse de certeza sobre comportamento posterior. Basta que os elementos da execução não autorizem juízo favorável de confiança, especialmente diante da gravidade da pena em cumprimento e das condições impostas pelo art. 83 do Código Penal.
+Nessa linha, a argumentação defensiva concentra-se no requisito da alínea “b” do inciso III do art. 83 do Código Penal, pois afirma que o agravante não praticou falta grave no período de doze meses anterior ao benefício. Ocorre que a decisão recorrida não negou o livramento condicional por descumprimento desse requisito específico. A negativa decorreu da ausência de comprovação do bom comportamento durante a execução, previsto na alínea “a”, a partir da leitura global do histórico prisional. Portanto, ainda que superado o óbice temporal da alínea “b”, permanece hígida a conclusão pela insuficiência do requisito subjetivo autônomo exigido na alínea “a”.
+
+No caso, houve a justificação idônea dos motivos pelos quais as instâncias de origem entenderam ausente o requisito subjetivo necessário para a concessão do livramento condicional e não configura constrangimento ilegal a indicação de que o sentenciado ostenta anotação de falta grave de 2017, bem como existem diversos registros de infrações disciplinares praticadas pelo sentenciado ao longo do cumprimento de sua pena.
+A decisão da Corte de origem está em conformidade com o Tema Repetitivo n. 1.161 do STJ, que determina a avaliação do requisito subjetivo com base em todo o histórico prisional, sem limitação temporal aos últimos 12 meses.
+Assim, o entendimento está conforme a jurisprudência desta Corte Superior.
+Igualmente, no presente caso, não se trata de falta antiga e isolada. O fundamento para indeferimento do benefício, em razão do não preenchimento do requisito subjetivo, ampara-se no histórico de cumprimento de pena do paciente, que apresenta vários registros disciplinares em seu prontuário.
+III. Dispositivo
+À vista do exposto, denego a ordem de habeas corpus.
+Publique-se e intimem-se.
+
+Brasília (DF), 29 de setembro de 2026.
+
+Ministro ROGERIO SCHIETTI
+Relator
