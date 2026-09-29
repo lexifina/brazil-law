@@ -1,0 +1,38 @@
+DECISÃO
+DIEGO BARBOSA DA SILVA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Ceará na Apelação Criminal n. 0201056-44.2025.8.06.0300.
+Consta dos autos que o paciente foi condenado à pena de 7 anos e 6 meses de reclusão, além de 750 dias-multa, em regime inicial semiaberto, pela prática do crime previsto no art. 33, c/c o art. 40, IV e VI, da Lei n. 11.343/2006. Ao redimensionar a reprimenda nesses termos, o Tribunal de origem manteve a prisão preventiva anteriormente decretada, sob o fundamento de que não haveria incompatibilidade entre a segregação cautelar e o regime semiaberto fixado no título condenatório.
+A defesa sustenta que a manutenção da prisão é incompatível com o regime inicial semiaberto estabelecido no próprio acórdão condenatório, por ausência de excepcionalidade concreta apta a justificá-la, e requer a revogação da prisão preventiva, com expedição de alvará de soltura, ou, subsidiariamente, a substituição por medidas cautelares diversas (art. 319 do CPP). Por fim, requer, subsidiariamente, a transferência do paciente a estabelecimento compatível com o regime semiaberto (fls. 2-9).
+Liminar indeferida (fls. 189-190).
+Informações prestadas (fls. 193-195).
+O Ministério Público Federal opinou pela denegação da ordem (fls. 209-214).
+Decido.
+O Juízo de primeira instância, ao proferir a sentença condenatória, negou aos acusados o direito de recorrer em liberdade pelos seguintes fundamentos (fl. 50, grifei): "Nego aos acusados o direito de recorrerem em liberdade, uma vez que presentes os requisitos da prisão preventiva, mormente diante da periculosidade da conduta dos réus considerada em concreto, presos que foram com variedade de droga, balança de precisão, além de armamento".
+O Tribunal de origem, ao redimensionar a pena e fixar expressamente o regime inicial semiaberto, manteve a negativa do direito de recorrer em liberdade pelos seguintes fundamentos (flS. 30-32, destaquei):
+Mantenho a negativa aos acusados do direito de recorrerem em liberdade, uma vez que presentes os requisitos da prisão preventiva, mormente diante da periculosidade da conduta dos réus considerada em concreto, presos que foram com variedade de droga, balança de precisão, além de armamento, utilizado, na oportunidade, para atentar contra a vida da composição policial. Ademais, conforme jurisprudência do STJ, não há incompatibilidade ou desproporcionalidade entre a prisão cautelar e o regime semiaberto estabelecido na sentença, bastando que a segregação cautelar observe as regras e condições próprias do regime semiaberto. Dito de outra forma, a fixação do regime semiaberto não gera, como efeito automático, a revogação da prisão preventiva, in verbis:
+ ..
+Portanto, a manutenção da custódia preventiva reveste-se de suficiente legalidade, legitimidade e necessidade, diante das peculiaridades observadas pelo magistrado sentenciante.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+No caso, o decreto prisional está devidamente fundamentado, pois indicou a gravidade da conduta, extraída da variedade de droga apreendida, balança de precisão e além de armamento, utilizado, na oportunidade, para atentar contra a vida da composição policial.
+O STJ é firme ao asseverar que, nas situações em que a quantidade e/ou a natureza dos entorpecentes e outras circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são bastantes para demonstrar a gravidade concreta do delito e denotam a necessidade de se acautelar a ordem pública.
+Nessa perspectiva: "A prisão preventiva por tráfico de drogas pode ser decretada quando a gravidade concreta da conduta se evidencia por fatores como quantidade e natureza da substância apreendida, forma de acondicionamento ou presença de instrumentos destinados à comercialização, demonstrando maior potencial lesivo e periculosidade do agente" (AgRg no RHC n. 226.214/SP, Rel. Ministra Maria Marluce Caldas, 5ª T., DJEN de 30/3/2026).
+Menciono também:
+ ..
+1. A periculosidade do agente, ao ser preso com expressiva quantidade de droga, mais de 1 kg de maconha, constitui fundamentação idônea para a garantia da ordem pública.
+2. A desproporcionalidade da prisão preventiva em relação ao provável regime prisional não pode ser aferida antes da dosimetria da pena, incabível, portanto, sua antecipação na via eleita.
+3. Presentes fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão.
+4. Agravo regimental improvido.
+(AgRg no HC n. 633.326/MG, Rel. Ministro Olindo Menezes (Desembargador convocado do TRF 1ª Região), 6ª T., DJe 7/5/2021, grifei)
+No caso em análise, nota-se que os argumentos usados para decretar a prisão preventiva foram mantidos na sentença condenatória, a fim de negar ao réu o direito de recorrer em liberdade.
+A jurisprudência desta Corte Superior é firme em assinalar não haver ilegalidade na referência aos motivos que justificaram a decretação da prisão preventiva do acusado para negar-lhe o direito de recorrem em liberdade. A propósito:
+ ..
+3. Nos termos da orientação jurisprudencial das Turmas integrantes da Terceira Seção desta Corte, a manutenção da custódia cautelar, na sentença, por considerar-se ainda presentes os motivos ensejadores da sua decretação, não configura ofensa ao art. 387, § 1º, do CPP. Em casos tais, mister se faz a análise do decreto prisional para se verificar a presença de lastro de legitimidade da medida extrema.
+ ..
+9. Habeas corpus não conhecido.
+(HC n. 438.280/GO, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 2/4/2018, grifei)
+Em razão da gravidade do crime e das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais. Nesse sentido: "as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal são insuficientes para a consecução do efeito almejado. Ou seja, tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no HC n. 789.592/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 27/2/2023).
+Ressalto, ainda, que "Eventuais condições pessoais favoráveis não têm o condão de, por si sós, garantir a revogação da prisão preventiva" (AgRg no HC n. 582.182/RS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 21/8/2020).
+Por fim, é sólida a orientação deste Superior Tribunal de que "não há incompatibilidade entre a manutenção da prisão cautelar e a fixação do regime semiaberto para o inicial cumprimento de pena" (AgRg no HC n. 779.532/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe de 19/12/2022, grifei).
+No mesmo sentido: "É pacífico o entendimento deste Tribunal Superior no sentido de que a manutenção da prisão preventiva pelo juiz sentenciante é compatível com a fixação do regime semiaberto, desde que ocorra a devida adequação da segregação cautelar com o regime estabelecido pela sentença condenatória" (AgRg no HC n. 783.309/SC, Rel. Ministro Ribeiro Dantas, DJe 16/2/2023).
+À vista do exposto, denego a ordem de habeas corpus.
+Publique-se e intimem-se.
+EMENTA
