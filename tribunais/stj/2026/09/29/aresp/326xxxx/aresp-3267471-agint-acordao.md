@@ -1,0 +1,52 @@
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 3267471 - RS (2026/0184882-1)
+
+RELATORA: MINISTRA MARIA ISABEL GALLOTTI
+
+AGRAVANTE: SESOSTRE PEDRO DA SILVA JUNIOR
+
+ADVOGADOS: ROBERTO GOMES NOTARI - SP273385
+
+TIAGO ARANHA D ALVIA - SP335730
+
+AGRAVADO: BANCO VIPAL S/A
+
+ADVOGADOS: MAURO HIANE DE MOURA - RS052270
+
+FILIPE SCHERER OLIVEIRA - RS074680
+
+LUCAS TERRES DE OLIVEIRA - RS119916
+
+CASSIANE BORGES WENDLING - RS124718
+
+AGRAVADO: ABADIA PERES DE ARAUJO SILVA
+
+AGRAVADO: AUTOMOTIVA PNEUS EM RECUPERACAO JUDICIAL LTDA
+
+AGRAVADO: HEITOR PERES CAIXETA SILVA
+
+AGRAVADO: JOAO BATISTA CAIXETA DA SILVA
+
+AGRAVADO: JUNIA QUEIROZ MACHADO SILVA
+
+AGRAVADO: LAZARO EUSTAQUIO CAIXETA DA SILVA
+
+AGRAVADO: LUIZ ELI CAIXETA SILVA
+
+AGRAVADO: VICENTE PAULO CAIXETA DA SILVA
+
+ADVOGADO: SEM REPRESENTAÇÃO NOS AUTOS - SE000000M
+
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. TUTELA DE URGÊNCIA INDEFERIDA. REQUISITOS NÃO DEMONSTRADOS. PREJUDICIALIDADE EXTERNA NÃO RECONHECIDA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. REPRODUÇÃO DAS RAZÕES DO RECURSO ESPECIAL. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. DECISÃO MANTIDA.
+1. Nos termos do art. 932, III, do Código de Processo Civil, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação, por analogia, do enunciado 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/09/2026 a 29/09/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG), João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Maria Isabel Gallotti.
+
+Brasília, 29 de setembro de 2026.
+
+Ministra Maria Isabel Gallotti
+Ministra
