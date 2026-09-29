@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/09/2026 a 29/09/2026, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Luís Carlos Gambogi (Desembargador Convocado do TJMG) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Isabel Gallotti.
+EMENTA
+DIREITO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CERCEAMENTO DE DEFESA. JULGAMENTO ANTECIPADO. SÚMULA N. 7 DO STJ. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+I. CASO EM EXAME
+1. Embargos de declaração opostos a acórdão que desproveu agravo em recurso especial, em razão da incidência da Súmula n. 7 do STJ para afastar o reexame do conjunto fático-probatório sobre suficiência da prova documental e inutilidade da prova oral.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) saber se houve omissão quanto ao exame autônomo da tese de cerceamento de defesa por violação dos arts. 7 e 355 I do CPC; (ii) saber se há obscuridade sobre por que a análise do julgamento antecipado exigiria reexame de provas e não controle jurídico dos arts. 7 e 355 I do CPC; e (iii) saber se há contradição na incidência da Súmula n. 7 do STJ quando o recurso especial busca apenas anulação por supressão da instrução probatória.
+III. RAZÕES DE DECIDIR
+3. Os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado.
+4. Omissão inexistente: a decisão enfrentou a tese de cerceam ento de defesa e rejeitou o conhecimento por demandar revolvimento fático quanto à suficiência da prova e à utilidade da prova oral.
+5. Obscuridade não caracterizada: o acórdão explicitou, de modo claro e direto, a razão de aplicar a Súmula n. 7 do STJ, por exigir reexame do conjunto fático-probatório.
+6. Contradição não verificada: há coerência entre os fundamentos e a conclusão ao qualificar a insurgência como pretensão de rediscussão probatória, incompatível com a via especial.
+IV. DISPOSITIVO E TESE
+7. Embargos de declaração rejeitados.
+Tese de julgamento: "1. Não há omissão quando o acórdão embargado analisa devidamente a tese de cerceamento de defesa suscitada nos embargos de declaração. 2. Não cabem embargos de declaração quando o acórdão embargado expõe, de forma clara, a razão de decidir, afastando obscuridade. 3. Inexiste contradição quando a decisão apresenta coerência interna entre os fundamentos e a conclusão, vedada a rediscussão do mérito por via integrativa."
+Dispositivos relevantes citados: CPC, arts. 7, 355 I, 489 §1 IV, 1.022 I, 1.025 e 1.026 §2.
+Jurisprudência relevante citada: STJ, Súmula n. 7.
+RELATÓRIO
+SÉRGIO SALVO MOLINA GIMENO opõe embargos de declaração ao acórdão de fls. 417-426, assim ementado:
+DIREITO CIVIL. AGRAVO EM RECURSO ESPECIAL. COMISSÃO DE CORRETAGEM EM COMPRA E VENDA DE IMÓVEL. CERCEAMENTO DE DEFESA POR JULGAMENTO ANTECIPADO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra acórdão do TJSP que manteve integralmente a condenação ao pagamento de comissão de corretagem e majorou honorários, sob fundamento de suficiência da prova documental e inutilidade da prova oral.
+2. A controvérsia versa sobre ação de cobrança de comissão de corretagem relativa à venda de imóvel, com pedido de 6% do valor da alienação, fundada em intermediação útil e contrato verbal de corretagem.
+3. Na sentença, o Juízo de primeiro grau julgou procedente o pedido.
+4. A Corte de origem manteve integralmente a condenação e majorou honorários, reconhecendo a aproximação útil das partes pelo corretor, a obrigação de pagamento da comissão e a desnecessidade da prova oral.
+II. QUESTÃO EM DISCUSSÃO
+5. Há três questões em discussão: (i) saber se houve cerceamento de defesa por violação dos arts. 7º e 355 do CPC, diante do julgamento antecipado sem produção de prova oral; (ii) saber se é indevida a comissão de corretagem, por violação dos arts. 725 e 726 do CC, ante alegada inexistência de intermediação eficaz e de contrato de exclusividade; e (iii) saber se há divergência jurisprudencial quanto à exigibilidade da comissão de corretagem.
+III. RAZÕES DE DECIDIR
+6. Incide a Súmula n. 7 do STJ, pois o acolhimento das teses exigiria reexame do conjunto fático-probatório acerca da suficiência da prova documental, da inutilidade da prova oral e da efetiva intermediação útil do corretor, o que é incompatível com a via do recurso especial. Não há cerceamento de defesa quando o magistrado, como destinatário da prova, indefere, de forma fundamentada, a produção de provas desnecessárias. Prejudicada a análise do dissídio jurisprudencial pela mesma razão.
+IV. DISPOSITIVO E TESE 7. Agravo em recurso especial desprovido.
+Tese de julgamento: 1. Aplica-se a Súmula n. 7 do STJ para afastar o conhecimento da alegada violação dos arts. 7 e 355 do CPC, por demandar reexame de provas sobre a suficiência da prova documental e a utilidade da prova oral. 2. Incide a Súmula n. 7 do STJ quanto à alegada violação dos arts. 725 e 726 do CC, pois a revisão das premissas fáticas sobre a intermediação útil do corretor é vedada em recurso especial. 3. Prejudicada a análise da divergência jurisprudencial diante da incidência da Súmula n. 7 do STJ.
+Dispositivos relevantes citados: CPC, arts. 7º, 355 e 85, § 11; CC, arts. 722, 725 e 726; CF, art. 105, III.
+Jurisprudência relevante citada: STJ, Súmula n. 7; STJ, AgInt no AREsp n. 2.498.710/MS , relator Ministro Marco Aurélio Belizze, Terceira Turma, julgados em 13/5/2024; STJ, AgRg no AREsp n. 16.879/SP , relator Ministro Humberto Martins, julgados em 27/4/2012; STJ, AgInt no AREsp n. 1.898.375/RS , relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgados em 30/6/2022; STJ, AgInt no AREsp n. 1.611.756/GO , relator Ministro Raul Araújo, Quarta Turma, julgados em 1/9/2022.
+Em suas razões, a embargante aponta que há omissão quanto aos seguintes pontos: a) exame autônomo da tese de cerceamento de defesa, por violação dos arts. 7º e 355, I, do Código de Processo Civil; b) esclarecimento sobre por que a análise da regularidade do julgamento antecipado exigiria reexame de prova, e não controle jurídico dos arts. 7º e 355, I, do Código de Processo Civil; e c) definição sobre a incidência da Súmula n. 7 do STJ quando o recurso especial apenas busca anulação do julgamento por supressão da instrução probatória.
+Requer o acolhimento dos embargos para sanar os vícios, com efeitos modificativos, afastando a Súmula n. 7 do STJ quanto ao cerceamento de defesa e dando provimento ao agravo em recurso especial; subsidiariamente, requer pronunciamento expresso sobre os arts. 7º, 355, I, 489, § 1º, IV, 1.022, I, e 1.025 do Código de Processo Civil, para fins de prequestionamento.
+Não foram apresentadas contrarrazões aos embargos (fl. 441).
+É o relatório.
+EMENTA
+DIREITO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CERCEAMENTO DE DEFESA. JULGAMENTO ANTECIPADO. SÚMULA N. 7 DO STJ. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+I. CASO EM EXAME
+1. Embargos de declaração opostos a acórdão que desproveu agravo em recurso especial, em razão da incidência da Súmula n. 7 do STJ para afastar o reexame do conjunto fático-probatório sobre suficiência da prova documental e inutilidade da prova oral.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) saber se houve omissão quanto ao exame autônomo da tese de cerceamento de defesa por violação dos arts. 7 e 355 I do CPC; (ii) saber se há obscuridade sobre por que a análise do julgamento antecipado exigiria reexame de provas e não controle jurídico dos arts. 7 e 355 I do CPC; e (iii) saber se há contradição na incidência da Súmula n. 7 do STJ quando o recurso especial busca apenas anulação por supressão da instrução probatória.
+III. RAZÕES DE DECIDIR
+3. Os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado.
+4. Omissão inexistente: a decisão enfrentou a tese de cerceam ento de defesa e rejeitou o conhecimento por demandar revolvimento fático quanto à suficiência da prova e à utilidade da prova oral.
+5. Obscuridade não caracterizada: o acórdão explicitou, de modo claro e direto, a razão de aplicar a Súmula n. 7 do STJ, por exigir reexame do conjunto fático-probatório.
+6. Contradição não verificada: há coerência entre os fundamentos e a conclusão ao qualificar a insurgência como pretensão de rediscussão probatória, incompatível com a via especial.
+IV. DISPOSITIVO E TESE
+7. Embargos de declaração rejeitados.
+Tese de julgamento: "1. Não há omissão quando o acórdão embargado analisa devidamente a tese de cerceamento de defesa suscitada nos embargos de declaração. 2. Não cabem embargos de declaração quando o acórdão embargado expõe, de forma clara, a razão de decidir, afastando obscuridade. 3. Inexiste contradição quando a decisão apresenta coerência interna entre os fundamentos e a conclusão, vedada a rediscussão do mérito por via integrativa."
+Dispositivos relevantes citados: CPC, arts. 7, 355 I, 489 §1 IV, 1.022 I, 1.025 e 1.026 §2.
+Jurisprudência relevante citada: STJ, Súmula n. 7.
+VOTO
+Nos termos do art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado.
+Em suas razões, a parte aponta omissão, pois a questão referente ao exame autônomo da tese de cerceamento de defesa, por violação dos arts. 7º e 355, I, do Código de Processo Civil não foi analisada.
+Sem razão a embargante. A questão foi devidamente apreciada no acórdão. Confira-se (421-423):
+A parte recorrente aponta a ocorrência de cerceamento de defesa, ao argumento de que o julgamento antecipado da lide teria sido indevidamente proferido sem a produção da prova oral oportunamente requerida, consistente em prova testemunhal e depoimento pessoal, a qual reputa essencial para demonstrar a inexistência de efetiva intermediação apta a ensejar o pagamento da comissão de corretagem. Afirma, em síntese, que a documentação produzida pelo autor seria insuficiente e contraditória, que o recorrido não teria atuado efetivamente como corretor, que o recorrente já conhecia previamente os vendedores do imóvel e que as tratativas teriam sido conduzidas diretamente entre as partes, circunstâncias que, a seu ver, demandariam regular instrução probatória, sendo inviável o julgamento antecipado. A irresignação, contudo, não comporta conhecimento. Conforme expressamente consignado pelo Tribunal de origem, não havia necessidade de produção de qualquer outra prova, além da documental . Nesse contexto, a pretensão recursal, embora deduzida sob o rótulo de violação dos arts. 7º e 355 do Código de Processo Civil, demanda, em verdade, a rediscussão do juízo de suficiência da instrução probatória firmado pelas instâncias ordinárias . Tal providência revela-se inviável em sede de recurso especial, a teor da Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial. Com efeito, a jurisprudência desta Corte é firme no sentido de que não há cerceamento de defesa quando o magistrado, destinatário da prova, entende suficientemente instruído o feito e, de forma fundamentada, indefere a produção de provas reputadas desnecessárias ou inúteis ao deslinde da controvérsia. (grifos acrescidos)
+Como visto, no acórdão embargado consta que a tese de cerceamento foi enfrentada e afastada à luz da suficiência probatória reconhecida nas instâncias ordinárias e do óbice da Súmula n. 7 do STJ, com fundamentação específica sobre a inutilidade da prova oral. Assim, não há omissão a ser sanada.
+No que se refere à alegada obscuridade quanto ao fundamento de incidência da Súmula n. 7 do STJ sobre a nulidade por cerceamento de defesa, também não há como acolher os embargos. Conforme consta do acórdão, a incidência do óbice foi justificada pelo fato de que o acolhimento da tese exigiria reexame do conjunto fático-probatório e revisão do juízo de suficiência da instrução, tarefa incompatível com o recurso especial. Observe-se (fl. 418 e fls. 422-423):
+Incide a Súmula n. 7 do STJ, pois o acolhimento das teses exigiria reexame do conjunto fático-probatório acerca da suficiência da prova documental, da inutilidade da prova oral e da efetiva intermediação útil do corretor, o que é incompatível com a via do recurso especial. Tal providência revela-se inviável em sede de recurso especial, a teor da Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial (grifos acrescidos).
+Desse modo, a alegação de obscuridade não procede, pois o acórdão explicitou, de forma direta e coerente, a razão de aplicabilidade da Súmula n. 7 do STJ à tese processual.
+Por fim, também não há como prosperar a alegação de contradição sobre o enquadramento da insurgência como reavaliação de mérito probatório, quando a parte buscou apenas a anulação por cerceamento. No ponto, o acórdão registrou que, apesar do rótulo processual, o pedido demandava rediscutir a suficiência da prova e a utilidade da prova oral, o que pressupõe revolvimento fático. A propósito, veja-se o trecho do julgado (fls. 422-423):
+Nesse contexto, a pretensão recursal, embora deduzida sob o rótulo de violação dos arts. 7º e 355 do Código de Processo Civil, demanda, em verdade, a rediscussão do juízo de suficiência da instrução probatória . Tal providência revela-se inviável em sede de recurso especial, a teor da Súmula 7 do STJ.
+A conclusão do acórdão é harmônica com seus fundamentos, inexistindo proposições antagônicas ou divergência entre motivos e dispositivo. Não há contradição a ser sanada.
+Dessa forma, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação do STJ foi analisada, não padecendo o acórdão embargado dos vícios que autorizariam sua oposição (obscuridade, contradição, omissão e erro material).
+Ante o exposto, rejeito os embargos de declaração.
+Advirto a parte de que a reiteração de embargos de declaração sobre a mesma matéria poderá ser considerada manifestamente protelatória, com imposição da multa de 2% sobre o valor atualizado da causa (art. 1.026, § 2º, do Código de Processo Civil).
+É o voto.
