@@ -1,0 +1,19 @@
+DECISÃO: Trata-se de reclamação constitucional com pedido de medida liminar, proposta por MOACYR FLORA STOCKLER, em face de decisão do Tribunal Superior do Trabalho nos autos do Processo nº TST-Ag-AIRR - 1000865- 55.2023.5.02.0701.
+Em suas razões, a parte reclamante alega, em suma, que o Juízo reclamado negou cumprimento à decisão proferida nos autos do ARE 1.532.603/PR, Tema 1.389 da repercussão geral, que determinou a suspensão nacional dos processos que versam sobre a existência de fraude na contratação de pessoa jurídica (“pejotização”) para a prestação de serviços.
+Nessa linha, afirma que “a lide originária versa especificamente sobre a fraude na contratação civil de profissional médico (pejotização) perante o grupo Notre Dame Intermédica Saúde S.A.”. Acrescenta que “após a publicação do acórdão de Recurso Ordinário pela 15ª Turma do TRT da 2ª Região e a respectiva rejeição dos Embargos de Declaração, os autos ascenderam indevidamente ao Tribunal Superior do Trabalho, sendo distribuídos à Relatoria do Ministro Fabrício Gonçalves (6ª Turma)”.
+Dessa forma, alega que, apesar de ser instado formalmente a promover a aplicação da ordem de sobrestamento exarada por esta Suprema Corte, a Autoridade Reclamada proferiu despacho genérico, determinando a continuidade da marcha processual e mantendo o processo pautado para julgamento técnico de admissibilidade/mérito na Corte Superior Trabalhista. Nesse sentido, aponta que “o ato reclamado usurpa a competência executória e nega eficácia impositiva à determinação de suspensão nacional exarada por esta Suprema Corte, configurando frontal resistência à autoridade do STF”.
+Por fim, requer, liminarmente, a suspensão do trâmite do Processo nº TST-Ag-AIRR - 1000865-55.2023.5.02.0701, retirando-o de qualquer pauta de julgamento perante a 6ª Turma do TST, e, no mérito, a procedência da reclamação para cassar o ato reclamado, determinando-se a devolução e o efetivo sobrestamento dos autos na origem (TRT da 2ª Região) até o julgamento definitivo do ARE 1.532.603/PR (Tema 1.389/STF).
+É o breve relatório.
+Decido.
+Registre-se que o Supremo Tribunal Federal, no julgamento do ARE-RG 1.532.603, de minha relatoria (Tema 1.389), reconheceu a repercussão geral das seguintes questões, que serão oportunamente apreciadas pelo Pleno: 1) competência da Justiça do Trabalho para julgar as causas em que se discute a fraude no contrato civil de prestação de serviços; 2) licitude da contratação de trabalhador autônomo ou pessoa jurídica para a prestação de serviços, à luz do entendimento firmado pelo STF no julgamento da ADPF 324, que reconheceu a validade constitucional de diferentes formas de divisão do trabalho e a liberdade de organização produtiva dos cidadãos; e 3) ônus da prova relacionado à alegação de fraude na contratação civil, averiguando se essa responsabilidade recai sobre o autor da reclamação trabalhista ou sobre a empresa contratante.
+Na sequência, foi determinada a suspensão nacional da tramitação de todos os processos que tratem das questões mencionadas no Tema 1.389 da repercussão geral, até julgamento definitivo do recurso extraordinário, com fundamento no art. 1.035, § 5º, do CPC, com a finalidade de impedir a multiplicação de decisões divergentes sobre a matéria, privilegiando o princípio da segurança jurídica.
+No caso dos autos, verifica-se que a controvérsia se refere à análise da validade da contratação sob regime de pessoa jurídica e eventual configuração de fraude trabalhista, matéria abrangida pelo escopo do Tema 1.389.
+Nesses termos, verifica-se que a autoridade reclamada deixou de observar a determinação  proferida no Tema 1.389 da repercussão geral.
+Ante o exposto, julgo procedente a reclamação para determinar a suspensão do Processo nº 1000865-55.2023.5.02.0701, até julgamento do mérito do Tema 1.389 da repercussão geral.
+
+Publique-se.
+Brasília, 29 de setembro de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
