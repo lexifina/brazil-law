@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de embargos de declaração contra decisão monocrática.
+Proferida decisão no recurso, a parte embargante opõe embargos de declaração apontando vícios na decisão embargada, conforme se confere dos seguintes trechos da petição:
+ ..  a r. decisão embargada incorreu em omissão ao aplicar a Súmula 83 sem enfrentar a divergência entre as Turmas de Direito Público deste E. STJ, afirmada pelo acórdão recorrido, invocada no recurso especial e reconhecida pela decisão de admissibilidade. Diante do exposto, requer sejam acolhidos os presentes aclaratórios para sanar a omissão apontada e, reconhecida a inexistência de orientação firmada deste E. STJ sobre a legalidade da IN 243/2002, afastar a aplicação da Súmula 83 e conhecer do recurso especial pela alínea "c" do permissivo constitucional, com o exame do dissídio jurisprudencial. ..
+É o relatório. Decido.
+Os embargos não merecem acolhimento.
+As alegações da parte embargante foram analisadas na decisão embargada.
+Ademais, se o recurso é inapto ao conhecimento, a falta de exame da matéria de fundo impossibilita a própria existência de omissão quanto a esta matéria. Nesse sentido: EDcl nos EDcl no AgInt no RE nos EDcl no AgInt no REsp 1.337.262/RJ, relator Ministro Humberto Martins, Corte Especial, julgado em 21/3/2018, DJe 5/4/2018; EDcl no AgRg no AREsp 174.304/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 10/4/2018, DJe 23/4/2018; EDcl no AgInt no REsp 1.487.963/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 24/10/2017, DJe 7/11/2017.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais devia pronunciar-se o juiz de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida. (EDcl no MS 21.315/DF, Rel. Ministra Diva Malerbi (desembargadora Convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016).
+As questões sobre as quais se aponta a existência de vício foram tratadas com clareza e sem contradições, conforme se percebe dos seguintes trechos da decisão:
+ ..
+De início, em relação à alegada omissão, contrariedade ou contradição suscitada no presente recurso especial, o recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em nulidade ao deixar de se pronunciar adequadamente acerca das questões apresentadas nos embargos de declaração, fazendo-o de forma genérica, sem desenvolver argumentos para demonstrar especificamente a suposta mácula.
+Nesse panorama, a arguição genérica de nulidade pelo recorrente atrai o comando do Enunciado Sumular n. 284/STF, inviabilizando o conhecimento dessa parcela recursal. Sobre o assunto, confiram-se:
+ ..
+AgInt no REsp n. 2.223.298/PI, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 27/5/2026, DJEN de 1/6/2026.
+ ..
+AgInt no AR Esp n. 2.647.607/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 11/5/2026, DJEN de 19/5/2026.
+Cinge-se a controvérsia em determinar se, com o fim de apurar os preços de transferência, devem ser observados exclusivamente os critérios estabelecidos pelo art. 18 da Lei n. 9.430/1996, afastando-se aqueles constantes na Instrução Normativa SRF n. 243/2002.
+O sistema de controle dos preços de transferência tem a finalidade de impedir que empresas vinculadas manipulem os valores de operações internacionais para transferir lucros a outras jurisdições e, com isso, reduzir artificialmente as bases tributáveis no Brasil. Sua aplicação fundamenta-se na comparação entre operações realizadas por partes vinculadas e aquelas que seriam praticadas em condições normais de mercado, segundo o princípio arm"s length.
+A sistemática estrutura-se na comparação entre uma operação em condições normais de mercado e a operação entre partes vinculadas, determinando-se o valor envolvido na operação a partir do que usualmente acontece em situações desprovidas de vinculação (preço parâmetro).
+Nesse contexto, uma vez definido o preço parâmetro, caso o preço praticado lhe seja superior, nas importações, ou inferior, nas exportações, a respectiva diferença deve ser computada no lucro líquido para fins de determinação da base de cálculo da CSLL.
+O art. 18 da Lei n. 9.430/1996, ao adotar o princípio mencionado, estabelece que os custos, despesas e encargos relativos aos bens constantes dos documentos de importação somente são dedutíveis na determinação do lucro real até o valor obtido pela aplicação de um dos métodos legalmente previstos.
+A IN SRF n. 243/2002, ao determinar a apuração do percentual de participação do bem importado no custo total e no preço de venda do produto final, apenas tornou operacional a correspondência já exigida pelo art. 18 da Lei n. 9.430/1996, de modo a possibilitar a determinação do preço parâmetro com maior precisão, não tendo instituído nova hipótese de incidência, bem como não alterou alíquotas nem criou base de cálculo diversa daquela estabelecida em lei.
+A interpretação defendida pela recorrente, no sentido de que a IN SRF n. 243/2002 teria extrapolado os limites do poder regulamentar e, dessa forma, violado os arts.. 97, II, III, § 1º, e 100, I, do Código Tributário Nacional, não prospera, na medida em que buscou a Receita Federal tão somente refletir a metodologia utilizada pelo art. 18 da Lei n. 9.430/1996 como forma de obtenção do preço parâmetro e, como consequência, evitar a exportação de lucros.
+A metodologia prevista na IN SRF n. 243/2002, ao contrário, preserva a correspondência entre o custo do bem importado e sua participação no produto vendido, aproximando as operações entre empresas vinculadas das condições que seriam praticadas entre partes independentes.
+Portanto, a adoção da sistemática requerida pelo contribuinte revela-se inviável, tendo em vista que, independentemente do preço do insumo importado e lançado em sua contabilidade, até o limite do preço parâmetro (que é fixo), o particular garantiria a integral dedutibilidade.
+Isso porque a empresa contribuinte teria conhecimento, de antemão, do limite máximo do valor do insumo que poderia ser lançado, o qual, por óbvio, sempre corresponderia a menor diferença possível em relação ao preço parâmetro, fator que resultaria na maximização irregular de sua dedutibilidade fiscal.
+Nesse contexto, o Superior Tribunal de Justiça já se manifestou no sentido de que a IN SRF n. 243/2002 não violou o art. 18 da Lei n. 9.430/1996, uma vez que consubstanciou interpretação lógica e finalística da norma, conferindo aplicação prática ao método PRL-60 sem promover indevida majoração tributária. Nesse sentido:
+ ..
+AgInt no AREsp n. 2.056.722/SP, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 9/12/2025, DJEN de 16/12/2025.
+ ..
+REsp n. 1.787.614/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 2/10/2023, DJe de 15/4/2024.
+Ademais, o advento da Lei n. 12.715/2012, com o intuito de incluir as previsões da Instrução Normativa SRF n. 243/2002 ao texto da Lei n. 9.430/1996, não demonstra como o referido ato normativo teria extrapolado os limites legais, conforme defende a recorrente.
+Isso porque, a despeito do correto posicionamento da Receita Federal, se revela adequada a alteração da norma como medida de redução dos litígios nas esferas administrativa e judicial, como medida de redução de danos fiscais e de custos com o contencioso tributário.
+Em conformidade, com relação à inclusão do frete, seguro e imposto de importação na composição do preço praticado, verifica-se que a análise da pretensão recursal demanda o reexame do acervo fático-probatório, com o fim de atestar a modalidade das operações contratuais desenvolvidas pela recorrente, o que atrai a incidência da Súmula n. 7/STJ e, por consequência, o não conhecimento do apelo especial quanto à referida parcela recursal.
+Por fim, no que tange ao suposto dissídio jurisprudencial apontado, aplica-se a Súmula n. 83/STJ. In verbis: "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida."
+ ..
+As alegações da parte, como se vê, configuram a intenção de rediscutir a matéria, o que é inviável em embargos de declaração.
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp 166.402/PE, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl 8.826/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 15/2/2017, DJe 15/3/2017.)
+Cumpre ressaltar que os embargos de declaração não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargo s de declaração.
+Publique-se. Intimem-se.
+EMENTA
