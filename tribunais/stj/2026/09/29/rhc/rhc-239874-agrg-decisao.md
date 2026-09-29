@@ -1,0 +1,25 @@
+AgRg no RECURSO EM HABEAS CORPUS Nº 239874 - MS (2026/0221643-9)
+
+RELATOR: MINISTRO JOEL ILAN PACIORNIK
+
+AGRAVANTE: NARRIMAN FRANCO BORGES (PRESO)
+
+ADVOGADOS: KEILY DA SILVA FERREIRA - MS021444
+
+CAIO CESAR PEREIRA DE MOURA KAI - MS022950
+
+HÉLIO VALNER MARTINES LORENZON - MS027936
+
+AGRAVADO: MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO DO SUL
+
+EMENTA
+
+DECISÃO
+Homologo o pedido de desistência do julgamento do agravo regimental formulado pela defesa de NARRIMAN FRANCO BORGES à fl. 47 5, nos termos do art. 34, inciso IX, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.
+Intimem-se.
+
+Brasília, 29 de setembro de 2026.
+
+JOEL ILAN PACIORNIK
+Relator
