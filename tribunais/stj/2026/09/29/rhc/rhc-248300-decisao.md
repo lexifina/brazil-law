@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por FRANCISCO DAS CHAGAS GOMES DOS SANTOS contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ que, nos autos do HC n. 3018294-02.2026.8.06.0000, conheceu parcialmente da impetração e denegou a ordem (fls. 154-167).
+Consta dos autos que o recorrente foi preso em flagrante em 30/05/2026, no âmbito de investigação e subsequente ação penal que apuram a suposta prática de homicídio qualificado, com imputação nos termos do art. 121, § 2º, I, III e IV, c/c art. 29, ambos do Código Penal. A prisão em flagrante foi convertida em preventiva em audiência de custódia realizada em 01/06/2026.
+Em 27/07/2026, sobreveio o recebimento da denúncia, ocasião na qual foi reavaliados os motivos da prisão preventiva anteriormente decretada (fl. 121).
+Impetrado habeas corpus na origem, o Tribunal estadual conheceu parcialmente da writ e denegou a ordem por meio do acórdão ora impugnado.
+Nas presentes razões recursais, a Defesa do recorrente alega ausência dos requisitos do art. 312 do Código de Processo Penal, apontando fundamentação genérica e baseada na gravidade do delito e no modus operandi, sem demonstração concreta do periculum libertatis.
+Sustenta ofensa ao art. 315, § 2º, do Código de Processo Penal, por uso de conceitos jurídicos indeterminados sem individualização de fatos novos ou contemporâneos, e afirma que a decisão de origem chegou a justificar a prisão para "resguardo da integridade física do autuado", fundamento que não integra o rol legal.
+Argumenta, ainda, a indevida complementação da motivação pelo Tribunal de origem para convalidar o decreto, em violação à exigência de fundamentação prévia e contemporânea do Juízo singular que decretou a custódia.
+Aponta, ainda, a plausibilidade da tese de legítima defesa, referindo a agressão prévia da vítima com golpe de machado no ombro do recorrente, o que, no mínimo, mitigaria a alegada periculosidade concreta e tornaria desproporcional a manutenção da prisão preventiva; ressaltando que eventual discussão sobre eventual excesso se desenvolverá na fase de instrução.
+Destaca a presença de condições pessoais favoráveis (primariedade, residência fixa e ocupação lícita), com o que defende a suficiência de medidas cautelares diversas da prisão, nos termos dos arts. 282, § 6º, e 319 do Código de Processo Penal.
+Por fim, suscita a ocorência de excesso de prazo na formação da culpa, argumentando que o oferecimento superveniente da denúncia não afasta o prejuízo decorrente da constrição indevida.
+Requer, liminarmente e no mérito, o provimento do recurso para revogar a prisão preventiva do recorrente, facultada a imposição de medidas cautelares diversas da prisão.
+É o relatório.
+Decido.
+De início, verifico que o recorrente instruiu deficientemente o feito, visto não haver anexado aos autos cópia integral da decisão do recebimento da denúncia, ocasião na qual, segundo informações do Juízo de primeira instância, reavaliou e manteve a segregação cautelar do acusado, peça indispensável à exata compreensão da controvérsia.
+Essa falha processual, de responsabilidade exclusiva da parte recorrente, inviabiliza a análise do mérito. Isso porque o rito do recurso ordinário em habeas corpus pressupõe a apresentação de prova pré-constituída, sendo ônus do recorrente demonstrar, de plano e por meio de documentos, a existência do alegado constrangimento ilegal.
+A ausência de tal documento inviabiliza o conhecimento da insurgência, porquanto não se desincumbiu a Defesa do ônus que lhe competia de instruir devidamente o feito. Nesse sentido: AgRg no HC n. 1.006.445/MG, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 12/8/2025, DJEN de 18/8/2025; AgRg no HC n. 995.894/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 24/6/2025, DJEN de 30/6/2025; PET no HC n. 941.704/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/10/2024, DJe de 22/10/2024.
+Ante o exposto, não conheço do recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
