@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/09/2026 a 29/09/2026, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG), João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Maria Isabel Gallotti.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. RECURSO ESPECIAL. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por Claudir Luis Arend (Espólio) contra acórdão proferido pela Quarta Turma do Superior Tribunal de Justiça que negou provimento ao seu agravo interno, mantendo a decisão singular que deu provimento ao recurso especial interposto pelo Banco do Brasil S.A. para determinar a suspensão do processo até o julgamento definitivo do Tema 1.290 pelo Supremo Tribunal Federal.
+O acórdão embargado ficou assim ementado:
+"AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. TEMA 1.290/STF. ORDEM DE SUSPENSÃO NACIONAL. ABRANGÊNCIA DE TODAS AS DEMANDAS PENDENTES. INCLUSIVE LIQUIDAÇÕES E CUMPRIMENTOS DE SENTENÇA. COISA JULGADA NÃO AFASTA SOBRESTAMENTO. DECISÃO SINGULAR MANTIDA. AGRAVO INTERNO NÃO PROVIDO. 1. O Supremo Tribunal Federal, no Tema 1.290, determinou, com base no art. 1.035, § 5º, do Código de Processo Civil, a suspensão do processamento de todas as demandas pendentes que tratam da matéria, inclusive liquidações e cumprimentos de sentença. 2. O alcance da expressão "inclusive" é exemplificativo e amplia a abrangência da ordem, atendendo a critérios de isonomia, segurança jurídica e eficiência, evitando decisões díspares e prática de atos processuais possivelmente inúteis ou contrários à tese a fixar. 3. A existência de trânsito em julgado em ação individual não afasta a suspensão determinada no Tema 1.290/STF, conforme orientação do Superior Tribunal de Justiça, abrangendo feitos em liquidação ou execução de sentença sobre a mesma controvérsia. Precedente. 4. Agravo interno a que se nega provimento."
+Em suas razões do recurso, a parte embargante aponta a existência de omissão e contradição no julgado, sustentando a inaplicabilidade da suspensão do Tema 1.290/STF. Aduz que o cumprimento de sentença de origem decorre de ação ordinária individual de repetição de indébito transitada em julgado, inexistindo vinculação com o título coletivo formado na Ação Civil Pública 94.0008514-1, de modo que o sobrestamento viola as regras do Código de Processo Civil. Defende que a eficácia preclusiva da coisa julgada impede o sobrestamento e requer o acolhimento dos embargos, com atribuição de efeitos infringentes, para determinar o regular prosseguimento da execução.
+Não houve apresentação de resposta aos embargos de declaração.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. RECURSO ESPECIAL. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não merecem ser acolhidos.
+O recurso de embargos de declaração possui fundamentação vinculada, sendo cabível unicamente nas hipóteses de obscuridade, contradição, omissão ou erro material, conforme dispõe o art. 1.022 do CPC. No caso, a parte embargante, sob o pretexto de sanar supostos vícios, demonstra mero inconformismo com a tese jurídica adotada e busca a rediscussão da matéria decidida, finalidade para a qual o recurso se revela inadequado.
+O acórdão embargado enfrentou de modo suficiente e fundamentado toda a matéria controversa, assentando de forma explícita que a ordem de suspensão nacional exarada no Recurso Extraordinário 1.445.162/DF, correspondente ao Tema 1.290/STF, determina a paralisação de todas as demandas pendentes que tratem do critério de reajuste do saldo devedor de cédulas de crédito rural no mês de março de 1990.
+Ficou consignado no julgado que a ordem do STF abrange tanto as liquidações quanto os cumprimentos de sentença, de modo que a existência de trânsito em julgado na fase de conhecimento de ação individual não afasta a necessidade de sobrestamento do feito. De igual modo, este colegiado destacou precedente do STJ, proferido pela Terceira Turma no AgInt no AREsp 2.879.974/GO, sob a relatoria do Ministro Moura Ribeiro, no qual se firmou o entendimento de que nem mesmo a alegação de coisa julgada obsta a aplicação do Tema 1.290/STF em processos na fase de liquidação ou execução.
+Portanto, não se constata omissão ou contradição no julgado. A contradição que autoriza o acolhimento dos embargos de declaração é aquela interna, existente entre as premissas e a conclusão da própria decisão, o que não ocorre na hipótese. A divergência entre o entendimento adotado no julgado e a expectativa da parte embargante quanto à subsunção do seu caso concreto à ordem de sobrestamento nacional constitui matéria de mérito, a ser veiculada pela via recursal adequada, e não enseja a integração do julgado.
+Em face do exposto, rejeito os embargos de declaração.
+É como voto.
