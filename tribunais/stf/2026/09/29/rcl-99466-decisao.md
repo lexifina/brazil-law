@@ -1,0 +1,62 @@
+DECISÃO: Trata-se de reclamação constitucional, com pedido de medida liminar, ajuizada pela Instituição Chaddad de Ensino Ltda. contra ato do Presidente do Conselho Estadual de Educação de São Paulo, consubstanciado no Parecer CEE nº 51/2026, que aprovou o projeto do Curso de Medicina a ser mantido pelo Instituto Municipal de Ensino Superior de São Manuel “Prof. Dr. Aldo Castaldi” - IMES-SM.
+A reclamante sustenta, em síntese, que o ato reclamado teria violado a autoridade da decisão proferida por esta Corte na ADPF 1.247/DF, ao viabilizar a implantação de novo Curso de Medicina pelo IMES-SM, instituição municipal criada antes da Constituição Federal de 1988.
+Para tanto, argumenta que “não é juridicamente possível equiparar a anterioridade da instituição à anterioridade do curso” (eDOC 1, p. 7), afirmando que a autorização temporária constante da decisão paradigma alcançaria apenas cursos e unidades efetivamente já em funcionamento.
+Invoca, ainda, a Rcl 89.300/TO, na qual a Segunda Turma referendou medida cautelar relativa à implantação de novo Curso de Medicina pela Universidade de Gurupi - UNIRG em campus localizado fora do Município-sede.
+Assim, requer, em liminar, a suspensão dos efeitos do Parecer CEE nº 51/2026 e dos atos administrativos dele decorrentes destinados à implantação ou à autorização de funcionamento do Curso de Medicina do IMES-SM. No mérito, postula a cassação do Parecer e o impedimento do prosseguimento dos atos administrativos voltados à implantação e à autorização de funcionamento do curso (eDOC 1, p. 12).
+Requisitadas informações, o Presidente do Conselho Estadual de Educação de São Paulo manifestou-se pela extinção do processo por falta de interesse de agir ou, subsidiariamente, pela improcedência da reclamação, ao fundamento de que o ato impugnado estaria em consonância com a decisão paradigma (eDOC 17, p. 12).
+A Procuradoria-Geral da República opinou pela negativa de seguimento da reclamação (eDOC 26, p. 12).
+É o relatório.
+Decido.
+Inicialmente, destaco que, conforme disposto na Constituição, compete ao Supremo Tribunal Federal processar e julgar originariamente reclamação para a preservação de sua competência, garantia da autoridade de suas decisões e da observância das Súmulas Vinculantes (arts. 102, I, l, e 103-A, § 3º da CF/88).
+Na espécie, a reclamante alega a existência de descumprimento do decidido pelo STF na ADPF 1.247/DF.
+Extrai-se dos autos que o Parecer CEE nº 51/2026 aprovou o projeto do Curso de Medicina a ser mantido pelo IMES-SM no Município de São Manuel/SP, com 40 vagas semestrais, totalizando 80 vagas anuais, e estabeleceu que a autorização de funcionamento dependerá de novo pedido, no prazo de um ano, acompanhado da verificação do cumprimento dos termos e condições fixados pelo Conselho Estadual de Educação.
+Confira-se, pois, trecho do ato reclamado:
+
+“2.1 Aprova-se, com fundamento nas Deliberações CEE 171/2019 e 167/2019, o Projeto do Curso de Medicina a ser mantido pelo Instituto Municipal de Ensino Superior de São Manuel "Prof. Dr. Aldo Castaldi", com 40 (quarenta) vagas semestrais totalizando 80 (oitenta) vagas anuais nas 2 (duas) citadas entradas.
+2.2 Para a Autorização de Funcionamento do Curso, a Instituição deverá solicitar a este Conselho no prazo de um ano, com possibilidade de prorrogação por igual período, a visita de Especialistas às suas instalações e aos serviços de saúde que oferecerão campos de estágio prático e Internato, acompanhada de entrevistas com os responsáveis, para a verificação do cumprimento dos Termos de Compromisso e para a elaboração de Relatório circunstanciado, nos termos das normas de regência.” (eDOC 11, p. 15).
+
+Daí o ajuizamento da presente reclamação, na qual se aponta suposta violação à decisão proferida na ADPF 1.247 MC-ED-Ref/DF, Rel. Min. Flávio Dino, Tribunal Pleno, DJe 13.10.2025.
+O referido precedente versa sobre a cobrança de mensalidades e a atuação territorial das instituições públicas municipais de ensino superior, bem como sobre o alcance da medida cautelar anteriormente deferida. Confira-se, a seguir, a ementa do julgado:
+
+“ADPF. REFERENDO À LIMINAR. EMBARGOS DE DECLARAÇÃO. INSTITUIÇÕES PÚBLICAS DE ENSINO SUPERIOR MUNICIPAIS. COBRANÇA DE MENSALIDADES E ATUAÇÃO FORA DA SEDE MUNICIPAL. RECONSIDERAÇÃO PARCIAL DA LIMINAR.
+I. CASO EM EXAME
+1. Após o deferimento da liminar, os embargantes buscam esclarecimento quanto ao alcance da medida cautelar que suspendeu o ingresso de novos alunos nas instituições de ensino superior municipais que atuam onerosamente e fora dos limites territoriais do município sede.
+2. Pleiteia-se, ainda, a reconsideração parcial da liminar, para que seja admitido o ingresso de novos alunos nas unidades (campi) instaladas e nos cursos oferecidos fora da sede municipal.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber: (i) se a liminar deferida alcança as instituições de ensino superior beneficiadas pela exceção ao princípio da gratuidade no ensino prevista no art. 242, caput, da CF; e (ii) se o alcance da liminar deve ser restringido para autorizar o ingresso de novos alunos nas unidades (campi) instaladas e nos cursos oferecidos fora da sede municipal.
+III. RAZÕES DE DECIDIR
+4. Tal como assinalado na liminar, a norma inscrita no art. 242, caput, da CF, excepciona a gratuidade no ensino em relação às universidades públicas estaduais ou municipais existentes na data da promulgação da Constituição Federal de 1988.
+5. A atividade educacional dos Municípios no ensino superior limita-se ao espaço territorial municipal. Se fosse possível os Municípios instituírem entidades de ensino superior e campi em outras unidades da Federação (outros Estados ou Municípios), o ente municipal, além de exorbitar o âmbito de suas competências locais (CF, art. 30), estaria usurpando as atribuições da União e dos Estados-membros.
+6. A jurisprudência plenária desta Corte assentou a impossibilidade jurídica das universidades públicas estaduais estabelecerem cursos de ensino superior ou unidades acadêmicas (campi) fora do território estadual. Somente a União Federal, em tal contexto, possui legitimidade para realizar o credenciamento. Precedentes (ACO 1197 e ACO 1903 ED-terceiros-AgR). O mesmo raciocínio jurídico deve ser observado em relação aos estabelecimentos de educação superior criados por Municípios.
+7. Perigo de irreversibilidade do provimento liminar. Não obstante tais razões, a suspensão do ingresso de novos alunos em faculdades, centros universitários e demais unidades acadêmicas (campi) já instalados e em pleno funcionamento fora da sede do município de origem, poderia colocar em risco a sustentabilidade desses estabelecimentos de educação superior e prejudicar a continuidade da prestação de serviço público essencial à população, especialmente ao corpo docente e discente das instituições de ensino superior afetadas.
+DISPOSITIVO
+8. Medida liminar reconsiderada em parte, ficando as demais questões remetidas ao exame do mérito. Decisão referendada.” (eDOC 12, pp. 1-3).
+
+Do acórdão de referendo consta, ainda, a delimitação do comando cautelar nos seguintes termos:
+
+“Vistos, relatados e discutidos estes autos, acordam os Ministros do Supremo Tribunal Federal, em sessão virtual do Pleno, por unanimidade de votos, em referendar a decisão pela qual reconsiderada, em parte, a decisão embargada, para afastar a suspensão do ingresso de novos alunos nas instituições de ensino superior municipais — de modo a preservar a sustentabilidade financeira das unidades (campi) e cursos em atividade —, desde que vinculados a entidades educacionais instituídas antes da data da promulgação da Constituição de 1988 (CF, art. 242,caput), ficando temporariamente autorizada, portanto — nos estabelecimentos de ensino beneficiados pelo art. 242, caput, da Constituição —, a realização de novas matrículas nos cursos e unidades (campi), que estejam efetivamente já em funcionamento, situados dentro ou fora do Município sede, inclusive a cobrança de mensalidades; em entender, contudo, que fica vedada a criação, autorização e reconhecimento de novos cursos e/ou campi fora da sede do Município de origem, e que cursos já criados, mas que não estejam funcionando efetivamente fora da sede municipal, não podem iniciar suas atividades; por fim, em entender que estas vedações também se aplicam às instituições municipais criadas após a Constituição de 1988, sendo que estas não podem cobrar mensalidades.” (eDOC 12, p. 3).
+
+Como se observa, o paradigma invocado versa, no que interessa à presente controvérsia, sobre a atuação das instituições públicas municipais de ensino superior fora dos limites territoriais do Município-sede, tendo o Plenário vedado expressamente a criação, autorização e reconhecimento de novos cursos e/ou campi fora da sede do Município de origem.
+Diversamente, o caso sob exame envolve a aprovação do projeto de Curso de Medicina a ser ofertado pelo IMES-SM no próprio Município de São Manuel/SP, dentro dos limites territoriais do Município que instituiu a entidade educacional.
+Trata-se, portanto, de situação que não corresponde à hipótese territorial expressamente alcançada pela vedação cautelar.
+A expressão “efetivamente já em funcionamento”, invocada pela reclamante, integra o trecho do acórdão que autorizou temporariamente novas matrículas para preservação de cursos e unidades em atividade. Ela não elimina a qualificação territorial expressamente aposta, no mesmo comando, à vedação de criação, autorização e reconhecimento de novos cursos e/ou campi: “fora da sede do Município de origem”.
+Também não conduz a conclusão diversa a Rcl 89.300/TO, pois, segundo o próprio precedente transcrito na inicial, os atos ali impugnados destinavam-se à criação e à implantação de Curso de Medicina em campus localizado no Município de Colinas do Tocantins/TO, diverso da sede da Universidade de Gurupi - UNIRG (eDOC 1, pp. 9-10).
+Ademais, o ato reclamado limita-se à aprovação do projeto do curso e expressamente condiciona a futura autorização de funcionamento a novo requerimento e à verificação das exigências previstas no Parecer CEE nº 51/2026 (eDOC 11, p. 15).
+Nesse contexto, constata-se que o paradigma indicado não apresenta identidade temática nem similitude fático-jurídica com o ato reclamado, porquanto a vedação fixada por esta Corte não alcança a criação de novo curso na própria sede do Município de origem. Evidencia-se, assim, a ausência de estrita aderência entre o ato reclamado e o precedente apontado como paradigma.
+Cumpre reiterar, conforme jurisprudência consolidada desta Suprema Corte, que a reclamação constitucional exige que o ato reclamado guarde exatidão e pertinência com o conteúdo normativo da decisão paradigma, de modo a permitir o cotejo direto e imediato entre as situações confrontadas, o que manifestamente não se verifica na hipótese.
+Nesse sentido:
+
+“Os atos questionados em qualquer reclamação - nos casos em que se sustenta desrespeito à autoridade de decisão do Supremo Tribunal Federal - hão de se ajustar, com exatidão e pertinência, aos julgamentos desta Suprema Corte invocados como paradigmas de confronto, em ordem a permitir, pela análise comparativa, a verificação da conformidade, ou não, da deliberação estatal impugnada em relação ao parâmetro de controle emanado deste Tribunal.” (Rcl 6.534 AgR, Rel. Min. Celso de Mello, Pleno, DJe 17.10.2008).
+
+Cito, ainda, o seguinte precedente:
+
+“AGRAVO REGIMENTAL NA RECLAMAÇÃO. PRINCÍPIO DA AUTONOMIA POLÍTICO-PARTIDÁRIA. INSTAURAÇÃO DE INCIDENTE DE DESCONSIDERAÇÃO DE PERSONALIDADE JURÍDICA. ALEGADA VIOLAÇÃO À ADC 31/DF. AUSÊNCIA DE ADERÊNCIA ESTRITA. AGRAVO REGIMENTAL DESPROVIDO. 1. A ausência de aderência estrita entre a matéria constante do ato impugnado e o parâmetro de controle invocado torna inadmissível a reclamação constitucional. 2. A previsão de cabimento da reclamação pela novel legislação processual não significa o afastamento da relevante função a ser desempenhada pelas instâncias ordinárias no respeito à cultura dos precedentes, permitindo um acesso per saltum à Corte Suprema. 3. Agravo regimental a que se nega provimento.” (Rcl 65.329 AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe 17.6.2024).
+
+Assim, conclui-se pela inadmissibilidade do pedido.
+Ante o exposto, nego seguimento à reclamação (art. 21, § 1º, do RISTF) e julgo prejudicado o pedido de liminar.
+Publique-se.
+Brasília, 29 de setembro de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
