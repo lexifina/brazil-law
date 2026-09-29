@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/09/2026 a 29/09/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG) e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Isabel Gallotti.
+EMENTA
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. FALSA ACUSAÇÃO DE CRIME NO INTERIOR DO ESTABELECIMENTO. QUANTUM INDENIZATÓRIO. VALOR ARBITRADO. PROPORCIONALIDADE. AGRAVO INTERNO DESPROVIDO.
+1. "A falsa acusação de furto e a abordagem inadequada dos prepostos do estabelecimento comercial expõem a pessoa a situação vexatória ensejadora de abalo emocional, ensejando, portanto, a indenização por dano moral" (AgRg no REsp 1.258.882/SP, Relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 18/6/2013, DJe de 27/6/2013).
+2. É admissível o reexame do valor fixado a título de danos morais quando verificada a exorbitância ou a natureza irrisória da importância arbitrada, em ofensa aos princípios da razoabilidade e da proporcionalidade.
+3. No caso, a Corte de origem asseverou, ao fixar a condenação por danos morais, que "não se pode perder de vista que, em uma cidade do interior, gera grande impacto uma acusação indevida de prática de um crime, situação que é capaz de macular por longo período de tempo a imagem daqueles que são abordados no interior de uma loja. E não só isso, como vejo que o segurança contratado pela ré imputou o crime aos autores quando inquirido pela Polícia Militar, prolongando seu sofrimento, vergonha e indignação".
+4. Não se mostra exagerado, pois, o montante estabelecido pelo Tribunal de Justiça em R$ 20.000,00 (vinte mil reais), a título de compensação por danos morais, em favor de cada um dos autores, visto não ser desproporcional aos danos sofridos, em decorrência do impacto de acusação indevida da prática de crime.
+5 . Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por SUPERMERCADO SUPER LUNA S.A. contra decisão proferida por esta Relatoria que conheceu do agravo para dar parcial provimento ao recurso especial interposto pela ora recorrente, apenas para afastar a multa por embargos de declaração protelatórios.
+Nas razões do agravo interno, sustenta a parte agravante: (I) a inaplicabilidade da Súmula 7 desta Corte; (II) a desproporcionalidade na fixação do quantum indenizatório, pois "a fundamentação adotada limitou-se a referências genéricas aos princípios da razoabilidade e da proporcionalidade, ao porte econômico da recorrente e aos parâmetros usualmente adotados pela Câmara Julgadora, sem estabelecer correlação objetiva entre a extensão do dano efetivamente reconhecido e o expressivo aumento da indenização" (fl. 839).
+Impugnação às fls. 844-851.
+É o relatório.
+EMENTA
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. FALSA ACUSAÇÃO DE CRIME NO INTERIOR DO ESTABELECIMENTO. QUANTUM INDENIZATÓRIO. VALOR ARBITRADO. PROPORCIONALIDADE. AGRAVO INTERNO DESPROVIDO.
+1. "A falsa acusação de furto e a abordagem inadequada dos prepostos do estabelecimento comercial expõem a pessoa a situação vexatória ensejadora de abalo emocional, ensejando, portanto, a indenização por dano moral" (AgRg no REsp 1.258.882/SP, Relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 18/6/2013, DJe de 27/6/2013).
+2. É admissível o reexame do valor fixado a título de danos morais quando verificada a exorbitância ou a natureza irrisória da importância arbitrada, em ofensa aos princípios da razoabilidade e da proporcionalidade.
+3. No caso, a Corte de origem asseverou, ao fixar a condenação por danos morais, que "não se pode perder de vista que, em uma cidade do interior, gera grande impacto uma acusação indevida de prática de um crime, situação que é capaz de macular por longo período de tempo a imagem daqueles que são abordados no interior de uma loja. E não só isso, como vejo que o segurança contratado pela ré imputou o crime aos autores quando inquirido pela Polícia Militar, prolongando seu sofrimento, vergonha e indignação".
+4. Não se mostra exagerado, pois, o montante estabelecido pelo Tribunal de Justiça em R$ 20.000,00 (vinte mil reais), a título de compensação por danos morais, em favor de cada um dos autores, visto não ser desproporcional aos danos sofridos, em decorrência do impacto de acusação indevida da prática de crime.
+5 . Agravo interno a que se nega provimento.
+VOTO
+Cabe examinar, no presente agravo interno, tão somente a parte impugnada da decisão hostilizada, permanecendo incólumes os fundamentos não refutados pela parte agravante.
+A insurgência diz respeito ao quantum indenizatório fixado pelas instâncias ordinárias.
+Como dito na decisão ora impugnada, no caso, o Tribunal de origem, ao reformar a sentença e majorar o valor arbitrado a título de compensação por danos morais para o valor de R$ 20.000,00 (vinte mil reais) para cada um dos autores, consignou o seguinte em suas razões de decidir:
+Quando do arbitramento do valor indenizatório a título de danos morais, deverá o Julgador se ater aos critérios de razoabilidade e de proporcionalidade, para que a medida seja capaz de atenuar o sofrimento da vítima do ato ilícito sem que represente enriquecimento ilícito, bem como para que ela também seja capaz de coibir a prática reiterada da conduta lesiva pelo seu causador. Possui a reparação pecuniária, dessa forma, natureza jurídica de caráter dúplice:
+compensatório para a vítima e punitivo para o ofensor.
+Deve-se considerar a conduta lesiva do agente, o grau de culpa e a extensão dos danos, bem como a condição econômica das partes.
+(..)
+Assim, pelo princípio da razoabilidade deve-se observar a mister congruência lógica entre a situação posta e os atos praticados pela ofensora, tendo em vista os fins reparatórios a que se destina, e pelo princípio da proporcionalidade deve-se ponderar uma adequada condenação, a necessidade da medida e a proporcionalidade propriamente dita, a extensão do dano.
+Referida aplicação tem por escopo, impedir o enriquecimento ilícito da parte favorecida, resguardando-se a adequação que caso concreto exige.
+E, dadas estas considerações, tenho que o valor fixado na sentença, no importe de R$ 5.000,00 para cada parte não alcançou um valor condizente com a realidade e natureza dos fatos apresentados, principalmente considerando os parâmetros adotados por esta colenda Turma Julgadora em casos semelhantes e que envolvem um supermercado de porte médio a grande.
+(..)
+Entretanto, tenho como devida a atualização do parâmetro que vem sendo adotado para os casos como o da espécie, já que em situações que podem ser consideradas como menos gravosas à personalidade da pessoa humana este Órgão Colegiado já vem admitindo a fixação de indenização em mais de R$ 15.000,00.
+Não se pode perder de vista que, em uma cidade do interior, gera grande impacto uma acusação indevida de prática de um crime, situação que é capaz de macular por longo período de tempo a imagem daqueles que são abordados no interior de uma loja. E não só isso, como vejo que o segurança contratado pela ré imputou o crime aos autores quando inquirido pela Polícia Militar, prolongando seu sofrimento, vergonha e indignação.
+(..)
+Pelo todo que foi exposto, NEGO PROVIMENTO AO RECURSO PRINCIPAL E DOU PROVIMENTO AO RECURSO ADESIVO para majorar o valor da condenação arbitrada a título de indenização por danos morais para R$ 20.000,00 para cada um dos autores, importe a ser corrigido monetariamente pelo IPCA (art. 389, parágrafo único do CC) a partir da publicação desta decisão, e acrescido de juros de mora, a partir da data do evento danoso, de 1% a.m. até a data da entrada em vigor da Lei 14.905/2024, a partir da qual deverá se dar nos termos do art. 406, §1º, do CC (taxa SELIC, com a dedução do IPCA).
+O Superior Tribunal de Justiça firmou orientação de que somente é admissível o exame do valor fixado a título de danos morais em hipóteses excepcionais, quando for verificada a exorbitância ou a natureza irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade. Nesse sentido: AgRg no REsp 971.113/SP, Quarta Turma, Rel. Min. JOÃO OTÁVIO DE NORONHA, DJe de 8/3/2010; AgRg no REsp 675.950/SC, Terceira Turma, Rel. Min. SIDNEI BENETI, DJe de 3/11/2008; AgRg no Ag 1.065.600/MG, Terceira Turma, Rel. Min. MASSAMI UYEDA, DJe de 20/10/2008.
+A respeito do tema, salientou o eminente Ministro ALDIR PASSARINHO JUNIOR: "A intromissão do Superior Tribunal de Justiça na revisão do dano moral somente deve ocorrer em casos em que a razoabilidade for abandonada, denotando um valor indenizatório abusivo, a ponto de implicar enriquecimento indevido, ou irrisório, a ponto de tornar inócua a compensação pela ofensa efetivamente causada" (REsp 879.460/AC, Quarta Turma, DJe de 26/4/2010).
+A propósito, citam-se, ainda, os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALSA ACUSAÇÃO DE FURTO. DANOS MORAIS CONFIGURADOS. INDENIZAÇÃO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Para prevalecer a pretensão em sentido contrário à conclusão do tribunal de origem, mister se faz a revisão do conjunto fático-probatório dos autos, o que, nos termos da Súmula nº 7/STJ, é inviável nesta instância especial.
+2. Agravo regimental não provido.
+(AgRg no AREsp n. 258.954/MG, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 25/6/2013, DJe de 9/8/2013.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. FALSA ACUSAÇÃO DE FURTO EM ESTABELECIMENTO COMERCIAL. ABORDAGEM INADEQUADA. DANO MORAL. CONFIGURADO. FIXAÇÃO DO QUANTUM. RELAÇÃO EXTRACONTRATUAL. CORREÇÃO MONETÁRIA. SÚMULA N. 362/STJ. JUROS DE MORA. SÚMULA N. 54/STJ.
+1. A falsa acusação de furto e a abordagem inadequada dos prepostos do estabelecimento comercial expõem a pessoa a situação vexatória ensejadora de abalo emocional, ensejando, portanto, a indenização por dano moral.
+2. O termo inicial da correção monetária incidente sobre a indenização por danos morais é a data do seu arbitramento, consoante dispõe a Súmula n. 362/STJ: "A correção monetária do valor da indenização do dano moral incide desde a data do arbitramento".
+3. Os juros moratórios, em se tratando de responsabilidade extracontratual, incidem desde a data do evento danoso, na forma da Súmula n. 54/STJ: "Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual".
+4. Agravo regimental desprovido.
+(AgRg no REsp n. 1.258.882/SP, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 18/6/2013, DJe de 27/6/2013.)
+Nesse diapasão, não merece reforma a decisão monocrática proferida alhures.
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
