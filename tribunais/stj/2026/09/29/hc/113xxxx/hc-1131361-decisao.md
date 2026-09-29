@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de GUILHERME DAVI CERQUEIRA DE BARROS, apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro, nos autos da Apelação Criminal nº 0183488-18.2021.8.19.0001.
+Consta dos autos que o paciente foi condenado à pena de 4 (quatro) anos e 1 (um) mês de reclusão, em regime inicial fechado, pela prática do crime previsto no art. 35, caput, c/c o art. 40, inciso IV, ambos da Lei nº 11.343/2006.
+A Defesa interpôs recurso de apelação, ao qual o Tribunal de origem negou provimento.
+Neste writ, a parte impetrante sustenta falta de fundamentação idônea para a fixação do regime inicial fechado.
+Ressalta, subsidiariamente, a possibilidade de reconhecimento da causa especial de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, diante da ausência de dedicação a atividades criminosas.
+Requer, liminarmente e no mérito, a readequação da dosimetria, bem como a fixação do regime inicial menos gravoso.
+É o relatório.
+Decido.
+Ressalto que, conforme o entendimento consolidado desta Corte, as disposições contidas nos arts. 64, inciso III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam a prerrogativa do relator de apreciar liminarmente, em habeas corpus ou recurso em habeas corpus, a pretensão que esteja em conformidade com súmula ou com a jurisprudência consolidada dos Tribunais Superiores, ou, ainda, que as contrarie, v.g. AgRg no HC n. 856.046/SP, de relatoria do Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023.
+Assim, passo a analisar diretamente o pedido formulado na insurgência.
+Esta Corte e o Supremo Tribunal Federal pacificaram o entendimento de que não cabe habeas corpus como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (STJ, AgRg no HC n. 991.206/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 12/8/2025, DJEN de 22/8/2025; STJ, AgRg no HC n. 904.291/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 5/3/2025, DJEN de 11/3/2025; STF, HC 260.108 AgR, Relator Ministro Edson Fachin, Segunda Turma, julgado em 15/9/2025, publicado em 19/9/2025 e STF, HC 257524 AgR, Relator(a) Ministro Flávio Dino, Primeira Turma, julgado em 12/8/2025, publicado em 18/8/2025).
+De qualquer modo, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+De início, destaco que a condenação pela prática do crime de associação para o tráfico de drogas inviabiliza a aplicação do redutor previsto no art. 33, § 4.º, da Lei de Drogas.
+Com igual conclusão:
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. MINORANTE DO TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+5. A condenação pelo crime de associação para o tráfico inviabiliza a aplicação do redutor previsto no art. 33, § 4º, da Lei Antidrogas.
+ ..
+(AgRg no HC n. 1.012.092/RJ, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 12/11/2025, DJEN de 18/11/2025; sem grifos no original.)
+DIREITO PROCESSUAL PENAL E PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PROVA. TRÁFICO PRIVILEGIADO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+10. O pedido subsidiário de reconhecimento da causa de diminuição do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006) resta prejudicado, pois a condenação pelo crime de associação para o tráfico demonstra dedicação a atividades criminosas e, conforme jurisprudência consolidada do Superior Tribunal de Justiça, impede o reconhecimento da minorante.
+ ..
+(AgRg no HC n. 1.081.378/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 13/5/2026, DJEN de 19/5/2026; sem grifos no original.)
+De outra parte, embora o quantum da pena seja o critério inicial para a escolha do regime prisional, nos termos do art. 33 do Código Penal, o julgador pode, com base nas circunstâncias judiciais do art. 59 e na gravidade concreta do crime, impor regime mais rigoroso quando as particularidades do caso assim o exigirem. Na espécie, a Corte local destacou que, levando em consideração as circunstâncias judiciais desfavoráveis e o "quantum" da reprimenda imposta (04 anos e 01 mês de reclusão), em observância ao que autoriza o artigo 33, § 3º , do Código Penal, entendo que deve ser mantido, no presente caso, o regime fechado para o cumprimento da pena (fl. 23), o que é admitido por esta Corte Superior. Confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA ESPECIAL DE DIMINUIÇÃO DA PENA. ART. 33, § 4º, DA LEI N. 11.343/2006. NÃO INCIDÊNCIA. NÃO PREENCHIMENTO DOS REQUISITOS PREVISTOS EM LEI. PACIENTE QUE SE DEDICAVA A ATIVIDADES CRIMINOSAS. INVERSÃO DO JULGADO. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO E PROBATÓRIO. INVIABILIDADE NA VIA ELEITA. REGIME FECHADO. PENA SUPERIOR A 4 ANOS E CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. PENA-BASE ACIMA DO MÍNIMO LEGAL AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos do art. 33, § 4º, da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organização criminosa.
+2. No caso dos autos, verifica-se que o Tribunal local formou sua convicção com base nos elementos fáticos constantes dos autos para afastar a aplicação da redutora do art. 33, § 4º, da Lei de Drogas, por entender que o paciente se dedicava às atividades criminosas, não apenas pela quantidade de drogas apreendidas, mas pela circunstâncias em que foi realizada a prisão do paciente - aquele ponto de tráfico tem todas as características de ser explorado por grupo organizado. Está instalado há muito tempo. Ele é dotado de algumas comodidades, como um sofá e uma barraca. Além disso, o réu foi encontrado na posse de contabilidade do tráfico (e-STJ fl. 34).
+Dessa forma, a Corte de origem se convenceu de que o paciente se dedicava, efetivamente, às atividades criminosas, e desconstituir tais assertivas demandaria, necessariamente, o revolvimento do conjunto fático-probatório, inviável na via estreita do habeas corpus.
+3. Por fim, não há se falar em ilegalidade na fixação do regime fechado. Isso porque, não obstante a pena seja inferior a 8 anos e o paciente seja primário, as circunstâncias judiciais não lhe eram todas favoráveis, tanto que a pena-base foi fixada acima do mínimo legal. Dessa forma, nos termos do art. 33, § 2º e § 3º, o regime inicial fechado se mostra mais adequado.
+4. Agravo regimental não provido. (AgRg no HC n. 1.030.338/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/9/2025, DJEN de 17/9/2025 grifamos).
+Por fim, tendo em vista o quantum da reprimenda estabelecida, não é possível a substituição da pena privativa de liberdade por restritivas de direitos, nos termos do art. 44, inciso I, todos do Código Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
