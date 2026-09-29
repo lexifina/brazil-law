@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ANA CRISTINA DA SILVA TONIOLO, em face da decisão monocrática proferida, às fls. 275-284, que julgou improcedente o pedido de extensão.
+Nos presentes aclaratórios, a embargante alega que houve omissão e obscuridade na decisão embargada.
+Assere quanto ao fundamento central do pedido de extensão e à individualização da conduta atribuída à embargante.
+Sustenta obscuridade quanto à distinção fático-processual estabelecida na decisão.
+Requer, ao final, o conhecimento e acolhimento dos presentes embargos de declaração, para que seja sanada a alegada omissão e obscuridade, atribuindo efeitos infringentes.
+O Ministério Público Federal manifestou ciência da decisão, à fl. 300.
+É o relatório. DECIDO.
+Preambularmente, insta consignar que os embargos de declaração são cabíveis nas hipóteses do art. 619 do CPP, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão. Podem também ser admitidos para a correção de eventual erro material, consoante o entendimento hoje preconizado pelo CPC; sendo possível, apenas excepcionalmente, a alteração ou modificação do decisum embargado.
+São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, novo julgamento do caso.
+No presente caso, a embargante aponta que houve omissão e obscuridade na decisão embargada.
+Contudo, tem-se que a decisão monocrática analisou de forma devidamente fundamentada os pontos apresentados e, quanto aos presentes embargos, buscam tão somente o reexame da matéria anteriormente julgada.
+Na decisão ora embargada, foi ressaltado expressamente, às fls. 277-284, que:
+No entanto, entendo não ser o caso de deferimento do pedido de extensão nos termos do artigo 580 do Código de Processo Penal, tampouco de concessão da ordem de ofício na forma do artigo 654, § 2º, do mesmo Diploma.
+Certo que "O trancamento de procedimento investigatório criminal, na via do habeas corpus ou do respectivo recurso ordinário, somente é admissível em caráter excepcional, quando demonstrada, de plano, a ausência inequívoca de indícios mínimos de materialidade e autoria, a atipicidade da conduta ou causa extintiva de punibilidade" (RHC n. 222.226/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/8/2026, DJEN de 24/8/2026.)  ..
+Não obstante, é crucial também ressaltar que o acórdão de habeas corpus n. 5010707-36.2026.4.02.0000, às fls. 15-23, não tratou da situação concreta da peticionante, já que seus respectivos pacientes foram apenas os réus CHAAYA MOGHRABI e SARITA MOGHRABI.
+De pronto, verifica-se que a peticionante não se encaixa na circunstância de ter, contra si, a imputação de uma única e isolada conduta: uma operação financeira comumente conhecida como dólar-cabo.
+Para muito além, a denúncia cita diversas transferências e valores.
+Aliás, os núcleos do tipo penal e os montantes envolvidos igualmente se mostram discrepantes, pois, aos pacientes, a transferência bancária seria única e de valor muito aquém do referenciado pelo Banco Central em suas Circulares e Resoluções (US$ 36.636,00).
+Ao passo que, à peticionante, são imputadas as condutas de "ocultar e dissimular a natureza, a origem, a localização, a disposição, a movimentação e a propriedade de, pelo menos, EUR 1.994.976,46 (um milhão, novecentos e noventa e quatro mil, novecentos e setenta e seis euros e quarenta e seis centavos)"; de "07 (sete) transferências (19/04/2007, 09/07/2007, 08/10/2007, 25/01/2008, 26/05/2008, 12/01/2009 e 06/02/2009) no valor total de EUR 383.078,50 (trezentos e oitenta e três mil, setenta e oito reais e cinquenta centavos)"; de "05 (cinco) transferências (20/10/2006, 15/11/2006, 24/11/2006, 18/12/2006 e 08/01/2007) no valor total de EUR 125.400,00 (cento e vinte e cinco mil e quatrocentos euros)"; de realizar o "recebimento do equivalente de EUR 24.000,00 (vinte e quatro mil euros) em reais, em espécie"; de "05 (cinco) transferências (18/04/2007, 10/07/2007, 08/10/2007, 25/01/2008 e 26/05/2008) no valor total de EUR 188.000,00 (cento e oitenta e oito mil euros)"; e de "17 (dezessete) transferências (19/04/2007, 10/05/2007, 09/07/2007, 08/10/2007, 29/11/2007, 03/01/2008, 04/03/2008, 25/04/2008, 26/05/2008, 16/06/2008, 12/09/2008, 22/09/2008, 16/10/2008, 30/10/2008, 23/12/2008, 12/01/2009 e 06/02/2009), no valor total de EUR 264.912,60 (duzentos e sessenta e quatro mil, novecentos e doze euros e sessenta centavos)" (fls. 113-114, grifei).
+Nesse contexto, volto a citar que, como referência para a eventual responsabilização abstrata pelo crime de evasão de divisas (art. 22, parágrafo único, da Lei n. 7.492/1986), o Banco Central editou, ainda em 2001, a Circular n. 3.071, definindo que a declaração do patrimônio no exterior a ser realizada no dia 31/12 do ano-base, deveria ser comunicada apenas quando superior a US$ 100.000,00 (cem mil dólares).  ..
+Hoje, o valor atualizado pelo Bacen é bem maior (Resolução n. 279/2022: US$ 1.000.000,00), mas, ainda assim, muito inferior ao narrado na exordial em face da peticionante.
+Nesse compasso, inaplicável o art. 580 do CPP: "No caso de concurso de agentes (Código Penal, art. 25), a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros".  ..
+Ao fim, in casu, não há como se ratificar a tese de que a denúncia não foi capaz de preencher todos os elementos exigidos pelo art. 41 do CPP.
+Ante o exposto, julgo improcedente o pedido de extensão. (grifei)
+Consoante consta, a matéria já foi devidamente analisada, claro, nos limites em que aqui apresentada e nas balizas da via eleita, não havendo falar em vícios.
+A questão quanto à ciência da origem ilícita dos recursos e à prática de atos concretamente orientados ao seu branqueamento, segundo a tese de "responsabilização hereditária", foi sim debatida, contudo, em sentido contrário aos anseios da defesa, já que a denúncia, prima facie, bem narrou as condutas supostamente típicas.
+Assim, sequer o pedido subsidiário de concessão da ordem de ofício caberia, pois, seja do ponto de vista quantitativo seja do qualitativo, não é o caso de flagrante ilegalidade, tampouco de similitude objetiva com a situação dos pacientes originais.
+Ao fim, o que pretende a embargante, na verdade, é o reexame da matéria de mérito já julgada, situação que não se coaduna com a via dos embargos de declaração.
+Corroborando: EDcl no AgRg no REsp n. 1.988.016/SP, Quinta Turma, Rel. Min. João Batista Moreira, Des. Convocado do TRF1, DJe de 27/6/2023; EDcl no AgRg no AREsp n. 1.681.479/RN, Quinta Turma, de minha relatoria, DJe de 23/3/2023; e AgRg no REsp n. 2.062.933/PR, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 17/8/2023.
+Portanto, a decisão embargada não padece de qualquer vício.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
