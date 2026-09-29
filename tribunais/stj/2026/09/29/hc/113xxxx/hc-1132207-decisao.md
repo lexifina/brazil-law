@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de EDUARDO SALU CONSTÂNCIA, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1502385-26.2019.8.26.0309).
+Consta dos autos que o paciente foi condenado, pela prática do delito previsto no art. 157, §§ 2º, I e V, e 2º-A, inciso I, do Código Penal, à pena de 15 (quinze) anos, 6 (seis) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, mais pagamento de 36 dias-multa (e-STJ fls. 10/13).
+O Tribunal local deu parcial provimento ao recurso defensivo para reduzir a reprimenda para 9 (nove) anos e 26 (vinte e seis) dias de reclusão, mais 20 dias-multa, mantido o regime inicial fechado. De ofício, corrigiu erro material constante da sentença para afastar a incidência da causa de aumento prevista no art. 157, § 2º, V, do Código Penal (e-STJ fls. 14/27).
+Na presente impetração, a defesa sustenta, em síntese, a ilegalidade da negativação do vetorial referente aos antecedentes, ao argumento de que, embora a condenação utilizada seja anterior ao delito ora examinado, a respectiva sentença condenatória e o trânsito em julgado ocorreram posteriormente.
+Requer, ao final, a concessão da ordem para que seja afastada a valoração negativa dos antecedentes, com a consequente fixação da pena-base no mínimo legal e o refazimento da dosimetria, de modo que a reprimenda definitiva não ultrapasse 7 anos, 9 meses e 10 dias de reclusão e 18 dias-multa, mantido o regime inicial fechado (e-STJ fl. 9).
+É o relatório.
+Decido.
+A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Do mesmo modo:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.  ..
+(AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024, grifo nosso.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO. APLICAÇÃO DO IN DUBIO PRO REO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. POSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. "Firmou-se nesta Corte o entendimento de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 733.751/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/9/2023, DJe de 20/9/2023). Não obstante, em caso de manifesta ilegalidade, é possível a concessão da ordem de ofício, conforme preceitua o art. 654, § 2º, do Código de Processo Penal" (AgRg no HC n. 882.773/SP, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024).  ..
+(AgRg no HC n. 907.053/SP, relator Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 16/9/2024, DJe de 19/9/2024, grifo nosso.)
+Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção.
+No entanto, no caso, não há que se falar em teratologia ou flagrante ilegalidade apta a ensejar a superação do supracitado entendimento.
+No ponto, cumpre destacar que "a revisão da dosimetria da pena no habeas corpus somente é permitida nas hipóteses de falta de fundamentação concreta ou quando a sanção aplicada é notoriamente desproporcional e irrazoável diante do crime cometido" (HC n. 339.769/RJ, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/9/2017, DJe de 2/10/2017).
+Ademais, acerca da controvérsia, assim dispôs o Tribunal local (e-STJ fl. 24, grifo nosso):
+Na primeira fase, sopesados os maus antecedentes do réu (autos n. 1501077-52.2019.8.26.0309 roubo majorado, trânsito em julgado 13/3/2021 fls. 344/345; autos n. 1502166-13.2019. 8. 26.0309 roubo majorado, trânsito em julgado em 7/6/2024 fls. 342/343), a i. magistrada sentenciante elevou a pena-base em 1/2 acima do mínimo legal.
+A princípio saliento que a jurisprudência deste Tribunal Superior é pacífica no sentido de que condenações por fatos anteriores, mas com trânsito em julgado posterior à data do crime em apuração, podem justificar a majoração da pena-base a título de maus antecedentes. (STJ, AgRg no HC 556.142/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/06/2020, DJe 29/06/2020).
+Nada obstante, o acusado foi absolvido do processo n. 1502166-13.2019.8.26.0309. Assim, tendo em conta a existência de apenas uma condenação definitiva apta a caracterizar maus antecedentes, entendo que a elevação da basilar em 1/6 reveste-se de maior proporcionalidade às particularidades do caso.
+Assim, fixo a pena-base em 4 anos e 8 meses de reclusão, e pagamento de 11 dias-multa, no mínimo legal.
+A defesa alega que ações penais em curso não podem gerar maus antecedentes. No entanto, sem razão.
+No caso dos autos, as instâncias ordinárias negativaram a vetorial referente aos antecedentes em razão de condenação que transitou em julgado posteriormente ao fato ora em apuração, mas referente à conduta praticada em momento anterior.
+Desse modo, a fundamentação utilizada pela Corte estadual está em consonância com o entendimento do Superior Tribunal de Justiça de que "a condenação definitiva por fato anterior ao crime descrito na denúncia, com trânsito em julgado posterior à data do ilícito de que ora se cuida, embora não configure a agravante da reincidência, pode caracterizar maus antecedentes e ensejar o acréscimo da pena-base" (AgRg no HC n. 607.497/SC, Relator Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 22/9/2020, DJe 30/9/2020).
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. DOSIMETRIA. MAUS ANTECEDENTES. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+1. Agravo regimental interposto contra decisão que denegou o habeas corpus, considerando que o acórdão impugnado encontra-se em consonância com a jurisprudência desta Corte Especial.
+2. A decisão agravada fundamentou-se no entendimento consolidado de que condenações por fatos anteriores ao delito em apuração, com trânsito em julgado ocorrido antes da prolação da nova sentença - ainda que em data posterior à do cometimento do novo crime - configuram maus antecedentes.
+3. A decisão agravada deve ser integralmente mantida, porquanto os argumentos expendidos pelo agravante constituem mera reiteração das teses já apresentadas na impetração originária e não infirmam os fundamentos sólidos do provimento monocrático, não havendo falar-se em ilegalidade flagrante à concessão da ordem de ofício.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 1.019.692/PR, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 6/5/2026, DJEN de 11/5/2026, grifo nosso)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PEDIDO DE DESCLASSIFICAÇÃO PARA O ART. 28 DA LEI 11.343/2006. IMPOSSIBILIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. INOVAÇÃO RECURSAL QUANTO AO REGIME PRISIONAL. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+I. CASO EM EXAME
+1. Trata-se de agravo regimental interposto contra decisão monocrática que negara provimento a recurso ordinário em habeas corpus, no qual se buscava a desclassificação de condenação definitiva pelo crime previsto no art. 33, caput, da Lei n. 11.343/2006, para a infração do art. 28 do mesmo diploma.
+2. Neste agravo regimental, a parte agravante assevera que a decisão recorrida incorreu em equívoco ao enquadrar a pretensão como reexame probatório, quando se trata de revaloração jurídica de fatos incontroversos, admitida na via do habeas corpus. Reitera o pleito de desclassificação para a infração penal prevista no art. 28 da Lei n. 11.343/2006, bem como aponta distinção em relação à jurisprudência utilizada para a manutenção do regime inicial fechado.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se, na via do recurso ordinário em habeas corpus, é possível a desclassificação da condenação pelo crime de tráfico de drogas (art. 33, caput, da Lei n. 11.343/2006) para a infração do art. 28 da mesma lei, sem incorrer em indevido revolvimento fático-probatório.
+4. Há, ainda, questão em discussão consistente em saber se é admissível, em agravo regimental, inovar o pedido para discutir a fixação de regime prisional mais brando, quando a tese não foi deduzida oportunamente nas razões do recurso ordinário em habeas corpus.
+III. RAZÕES DE DECIDIR
+5. Para acolher o pleito de desclassificação para a infração penal do art. 28 da Lei n. 11.343/2006, seria necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado nesta via do recurso ordinário em habeas corpus.
+6. Nos termos da jurisprudência desta Corte Superior, a condenação por crime anterior à prática delitiva, com trânsito em julgado posterior, configura maus antecedentes.
+7. Configura inovação recursal, vedada em agravo regimental, a formulação, apenas nessa fase, de pedido de fixação de regime prisional mais brando, por se tratar de tese não suscitada oportunamente nas razões do recurso ordinário, hipótese em que incide a preclusão consumativa e não se conhece do agravo no ponto.
+IV. DISPOSITIVO
+8. Agravo regimental conhecido em parte e, na extensão, desprovido.
+(AgRg no RHC n. 234.638/PE, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 13/5/2026, DJEN de 19/5/2026, grifo nosso)
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
