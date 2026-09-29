@@ -1,0 +1,32 @@
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 3234100 - SP (2026/0147479-7)
+
+Número Único: 1012291-95.2022.8.26.0114 – TJSPCF
+
+RELATORA: MINISTRA NANCY ANDRIGHI
+
+AGRAVANTE: CELIA APARECIDA RAMOS
+
+ADVOGADO: EDUARDO RAMOS DEZENA - SP107641
+
+AGRAVADO: BANCO BMG S.A
+
+ADVOGADOS: RAFAEL RAMOS ABRAHAO - MG151701
+
+RAFAEL RAMOS ABRAHAO - SP503868
+
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL.
+1. Ação revisional de contrato bancário.
+2. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, em razão da não impugnação dos seguintes fundamentos da decisão de inadmissibilidade: falta de demonstração das v iolações apontadas e Súmula 7/STJ.
+3. Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Precedentes.
+4. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/09/2026 a 29/09/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+
+Brasília, 29 de setembro de 2026.
+
+MINISTRA NANCY ANDRIGHI
+Relatora
