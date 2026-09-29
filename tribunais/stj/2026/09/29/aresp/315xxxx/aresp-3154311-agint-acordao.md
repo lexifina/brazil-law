@@ -1,0 +1,81 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/09/2026 a 29/09/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REGRESSIVA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL AFASTADA. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno contra decisão monocrática que conheceu do agravo para não conhecer do recurso especial, com fundamento no art. 932, III e IV, do Código de Processo Civil e na jurisprudência consolidada desta Corte.
+2. Agravante sustenta a presença de requisitos para o conhecimento e provimento do recurso, bem como a ocorrência de negativa de prestação jurisdicional por violação aos arts. 489, § 1º, IV, e 1.022 do Código de Processo Civil.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se houve negativa de prestação jurisdicional, por ofensa aos arts. 489, § 1º, IV, e 1.022 do Código de Processo Civil.
+III. RAZÕES DE DECIDIR
+4. Afastada a alegada violação aos arts. 489, § 1º, IV, e 1.022 do Código de Processo Civil, porque o acórdão de origem apreciou integralmente a controvérsia com fundamentação clara, suficiente e coerente sobre os pontos relevantes, inexistindo omissão, contradição ou obscuridade.
+5. O julgador não está obrigado a rebater todos os argumentos das partes, devendo enfrentar apenas aqueles capazes, em tese, de infirmar a conclusão adotada, conforme orientação firmada nesta Corte.
+IV. DISPOSITIVO
+6. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por CHUBB SEGUROS BRASIL S.A contra decisão de minha relatoria que conheceu do agravo para não conhecer do recurso especial.
+Segundo a parte agravante, o recurso preenche os requisitos necessários ao conhecimento e provimento.
+Intimada nos termos do art. 1.021, § 2º, do Código de Processo Civil, a parte agravada afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REGRESSIVA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL AFASTADA. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno contra decisão monocrática que conheceu do agravo para não conhecer do recurso especial, com fundamento no art. 932, III e IV, do Código de Processo Civil e na jurisprudência consolidada desta Corte.
+2. Agravante sustenta a presença de requisitos para o conhecimento e provimento do recurso, bem como a ocorrência de negativa de prestação jurisdicional por violação aos arts. 489, § 1º, IV, e 1.022 do Código de Processo Civil.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se houve negativa de prestação jurisdicional, por ofensa aos arts. 489, § 1º, IV, e 1.022 do Código de Processo Civil.
+III. RAZÕES DE DECIDIR
+4. Afastada a alegada violação aos arts. 489, § 1º, IV, e 1.022 do Código de Processo Civil, porque o acórdão de origem apreciou integralmente a controvérsia com fundamentação clara, suficiente e coerente sobre os pontos relevantes, inexistindo omissão, contradição ou obscuridade.
+5. O julgador não está obrigado a rebater todos os argumentos das partes, devendo enfrentar apenas aqueles capazes, em tese, de infirmar a conclusão adotada, conforme orientação firmada nesta Corte.
+IV. DISPOSITIVO
+6. Agravo interno desprovido.
+VOTO
+O agravo interno é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, hipótese que resulte na reconsideração dos argumentos fáticos e jurídicos anteriormente lançados, motivo pelo qual mantenho a decisão agravada pelos fundamentos anteriormente expostos, os quais transcrevo para que passem a fazer parte da presente decisão (e-STJ fls. 2684/2685):
+Verifico que a alegada violação aos arts. 489, § 1º, inciso IV, e 1.022 do CPC não se configura no caso concreto.
+O acórdão recorrido manifestou-se de forma clara, fundamentada e exaustiva quanto à responsabilidade das rés pelo acidente que ocasionou a perda total da treliça segurada. A Corte de origem, com base em robusto conjunto probatório composto por três laudos técnicos convergentes do Instituto de Criminalística (IC), do Instituto de Pesquisas Tecnológicas (IPT) e da perícia judicial , concluiu expressamente pela ausência de responsabilidade da empresa projetista Engeti e pela responsabilidade exclusiva da empresa executora Construtora Tardelli.
+Confira-se a fundamentação do acórdão recorrido (fls. 2.684/2.685):
+"Assim é que o Instituto de Criminalística (fls. 190/191) após elencar todos os elementos encontrados no local da perícia, concluiu que Tais falhas primárias de execução são visíveis quando da supervisão; diante de tais erros básicos de execução, a tragédia era previsível a um engenheiro; deu causa ao acidente a execução tosca e grosseira da coluna do apoio 4 da ponte sul, na região de conexão entre sua fundação e o pilar (pino). (..)Relatório feito pelo IPT (Instituto de Pesquisas Tecnológicas), por sua vez, também concluiu que a causa do desmoronamento da ponte foi uma falha na construção da coluna de apoio 4 (fls. 246).
+E a conclusão do perito nomeado pelo juízo não foi diferente, tendo ele afirmado que a causa da ruptura não se relaciona às condições do projeto, mas sim à sua execução, tendo em vista que o projeto estrutural atendia à especificações normativas, sendo possível afirmar que o colapso global do AP 04 decorreu de falhas construtivas (fls. 1458), cujo problema detectado estava "associado à falta de aderência entre a camisa pré-moldada e o concreto moldado in loco do fuste". (fls. 1518).
+Diante de todo este conjunto probatório, de se reputar como causadora do dano exclusivamente a corré Construtora Tardelli, devendo a corré Engeti Consultoria e Engenharia SS Ltda, responsável pela elaboração do projeto, ser isentada de qualquer responsabilidade, porquanto ausente qualquer defeito de projeto que pudesse ter causalmente contribuído para o advento do sinistro."
+A questão da responsabilidade da empresa Engeti foi, portanto, expressamente enfrentada e decidida pelo Tribunal de origem, que a afastou com base em sólido fundamento probatório. Não há, pois, omissão, contradição ou obscuridade no julgado.
+Ademais, os embargos de declaração opostos pela agravante foram rejeitados pelo acórdão de fls. 2.720/2.725, que consignou de forma expressa:
+"Na hipótese, o aresto embargado se manifestou de forma bastante clara e bem fundamentada quanto às razões que levaram a turma julgadora, por unanimidade, decidir pela responsabilidade no procedimento construtivo e não na elaboração do projeto, mantendo a improcedência com relação à Engeti.
+Ambos os embargantes, em realidade, apenas manifestam seu inconformismo com o resultado do julgamento, buscando, em última análise, a reforma da decisão, solução absolutamente inviável em sede de embargos de declaração.
+Relevante salientar, por oportuno, que o julgador não está obrigado a mencionar ou rebater todos os argumentos e provas trazidos pelas partes, podendo servir-se tão somente daqueles que considerar bastantes para fundamentar sua decisão, importando, por juízo lógico, em rejeição implícita das alegações preteridas."
+A jurisprudência desta Corte Superior é firme no sentido de que não configura omissão a decisão que, embora contrária à pretensão da parte, aprecia integralmente a controvérsia e a soluciona de forma fundamentada. O julgador não está obrigado a rebater todos os argumentos deduzidos pelas partes, bastando que fundamente adequadamente sua decisão.
+..
+Portanto, inviável o conhecimento da insurgência recursal quanto à alegada deficiência da prestação jurisdicional.
+Com efeito, a legislação processual estabelece, no art. 932, III e IV, do Código de Processo Civil, a faculdade de o relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal.
+Cuida-se de inovação legal que reflete a já consagrada jurisprudência deste Superior Tribunal de Justiça, no sentido de que: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema." (Súmula nº 568 do STJ, aprovada pela Corte Especial em 16/03/2016)
+Dada a sólida fundamentação que respalda a atuação do relator, a redação do art. 1.021, §1º, do Código de Processo Civil é clara no sentido de estabelecer que: "Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada."
+Há, assim, ônus imposto ao agravante que deseja ver reformada a decisão que impugna, no sentido de que as razões por ele invocadas sejam especificamente voltadas à integralidade dos fundamentos trazidos pela decisão agravada e, ainda, que sejam aptas a desconstituir, de maneira contundente, os argumentos que sustentaram a decisão atacada.
+O não atendimento a tais requisitos importa, via de consequência, na manutenção do que decidido monocraticamente com base na inadmissibilidade manifesta ou na jurisprudência consolidada nesta Corte, conforme se extrai dos seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE AFASTOU A IMPENHORABILIDADE DE IMÓVEL E MANTEVE SUA EXPROPRIAÇÃO, BEM COMO INDEFERIU O PEDIDO DE NOVA AVALIAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL.
+1. Cumprimento de sentença em que foi proferida decisão afastando a impenhorabilidade do imóvel e mantendo sua expropriação, bem como indeferindo o pedido de nova avaliação.
+2. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, em razão da não impugnação do seguinte fundamento da decisão de inadmissibilidade: incidência da Súmula 7 do STJ.
+3. Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Precedentes.
+4. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.494.296/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/11/2024, DJe de 26/11/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CAPÍTULO AUTÔNOMO NÃO IMPUGNADO. LITISCONSÓRCIO NECESSÁRIO. PRECLUSÃO. PROCESSUAL CIVIL. CIVIL. CONTRIBUIÇÃO PREVIDENCIÁRIA. CESSAÇÃO DOS DESCONTOS. REPETIÇÃO DO INDÉBITO. PRESCRIÇÃO DECENAL. DIVERSOS PRECEDENTES ESPECÍFICOS. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC INEXISTENTE. LEGITIMIDADE PASSIVA DO RECORRENTE. REVISÃO. SUMULAS N. 7/STJ E 280/STF.
+1. No âmbito do agravo interno, a ausência de impugnação específica de capítulo autônomo impõe o reconhecimento da preclusão da matéria não impugnada, afastando-se a incidência da Súmula n. 182/STJ (EREsp n. 1.424.404/SP, relator Ministro Luis Felipe Salomão, Corte Especial do Superior Tribunal de Justiça, DJe 17/11/2021). Preclusa, portanto, a tese de imprescindibilidade de formação de litisconsórcio passivo.
+(..)
+(AgInt no AREsp n. 2.206.481/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 7/10/2024, DJe de 9/10/2024.)
+Há, portanto, orientação clara e firme desta Terceira Turma no sentido de que, ausente impugnação específica dos fundamentos presentes na decisão agravada, ou inexistente apresentação de fundamentação robusta e suficiente à desconstituição dos argumentos fáticos e jurídicos alvo da pretensão recursal, a parte recorrente não logrará êxito em sua pretensão.
+No presente recurso, a parte agravante afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+Ocorre, contudo, que a questão já foi enfrentada pela decisão agravada, que analisou detidamente todas as questões jurídicas postas.
+No que tange à alegada violação aos arts. 489, § 1º, inciso IV, e 1.022 do CPC, verifica-se que o Tribunal de origem realmente se manifestou expressamente sobre os pontos a respeito dos quais a parte recorrente alega omissão, especificamente sobre todo o acervo fático-probatório produzido nos autos reconhecendo que não houve qualquer responsabilidade da empresa projetista quanto ao evento danoso. É o que se extrai dos seguintes excertos (e-STJ fls. 2684/2685):
+É fato que, em ação de produção antecipada de provas promovida pela Concessionária Rodovias do Tietê S/A, processo nº 0008080-39.2014.8.26.0526, o expert nomeado afirmou ter sido o acidente causado tanto por erro de projeto, quanto por erro de execução da obra, ocorridos no pilar 4 da ponte sul.
+Entretanto, posteriores análises por profissionais de engenharia chegaram a conclusões parcialmente diversas.
+Assim é que o Instituto de Criminalística (fls. 190/191) após elencar todos os elementos encontrados no local da perícia, concluiu que Tais falhas primárias de execução são visíveis quando da supervisão; diante de tais erros básicos de execução, a tragédia era previsível a um engenheiro; deu causa ao acidente a execução tosca e grosseira da coluna do apoio 4 da ponte sul, na região de conexão entre sua fundação e o pilar (pino) .. Ao se executar um pilar com tantas falhas grosseiras em sua ferragem e, ainda, desconsiderar o importante aviso fornecido pela ponte norte, foram assumidos os riscos inerentes, não se importando com as gravíssimas consequências aos trabalhadores e aos futuros usuários da ponte.
+Relatório feito pelo IPT (Instituto de Pesquisas Tecnológicas), por sua vez, também concluiu que a causa do desmoronamento da ponte foi uma falha na construção da coluna de apoio 4 (fls. 246).
+E a conclusão do perito nomeado pelo juízo não foi diferente, tendo ele afirmado que a causa da ruptura não se relaciona às condições do projeto, mas sim à sua execução, tendo em vista que o projeto estrutural atendia à especificações normativas, sendo possível afirmar que o colapso global do AP 04 decorreu de falhas construtivas (fls. 1458), cujo problema detectado estava "associado à falta de aderência entre a camisa pré-moldada e o concreto moldado in loco do fuste". (fls. 1518).
+Diante de todo este conjunto probatório, de se reputar como causadora do dano exclusivamente a corré Construtora Tardelli, devendo a corré Engeti Consultoria e Engenharia SS Ltda, responsável pela elaboração do projeto, ser isentada de qualquer responsabilidade, porquanto ausente qualquer defeito de projeto que pudesse ter causalmente contribuído para o advento do sinistro.
+Afasta-se a alegada ofensa aos artigos 489 e 1.022 do CPC quando o Colegiado originário aprecia a demanda de forma clara e precisa, pronunciando-se, de forma motivada e suficiente, sobre os pontos relevantes ao deslinde da controvérsia.
+A jurisprudência desta Corte tem sido firme no sentido de que a ausência de menção a um outro argumento invocado pela defesa não macula o comando decisório se a fundamentação for apta, por si só, a sustentar a conclusão adotada.
+Como se tem sistematicamente reafirmado nesta Corte, o teor do art. 489, § 1º, inc. IV, do CPC/2015 ao dispor que não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que não enfrentar todos os argumentos expendidos no processo que sejam capazes de, em tese, infirmar a conclusão adotada pelo julgador não significa que este tenha que enfrentar todos os argumentos trazidos pelas partes, senão apenas aqueles que sejam capazes de, em tese, infirmar a conclusão alcançada pelo julgador (EDcl nos EREsp 1523744/RS, Rel. Ministro Og Fernandes, Corte Especial, julgado em 07/10/2020, DJe 28/10/2020).
+Portanto, tendo o Tribunal de origem julgado o caso à luz dos fatos e das provas, aplicando o direito que entendeu correto à espécie em análise, de fato, não se afigura violação aos artigos 1.022, inciso II, e 489, § 1º, inciso IV do Código de Processo Civil, por alegada deficiência na fundamentação do acórdão recorrido.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
