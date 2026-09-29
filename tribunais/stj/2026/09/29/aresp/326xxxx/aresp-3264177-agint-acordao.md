@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/09/2026 a 29/09/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG), João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Maria Isabel Gallotti.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. REPRODUÇÃO DAS RAZÕES DO RESP. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. DECISÃO MANTIDA.
+1. Nos termos do art. 932, III, do Código de Processo Civil e do art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não se conhece de agravo em recurso especial cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação do enunciado 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por CAPARAO EMPREENDIMENTOS IMOBILIARIOS LTDA contra decisão singular da lavra do Ministro Presidente do STJ pela qual o agravo em recurso especial não foi conhecido em virtude da incidência da Súmula 182/STJ, haja vista a ausência de impugnação específica ao fundamento da Súmula 7/STJ.
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que o agravo em recurso especial impugnou, de modo específico, o óbice da Súmula 7/STJ, por tratar de questão eminentemente jurídica. Sustenta revaloração jurídica de fatos incontroversos, aplicação do Tema 988, e que não houve necessidade de reexame probatório.
+Alega, ainda, que o debate envolve a mitigação do rol do art. 1.015 do Código de Processo Civil, com demonstração de urgência concreta. Defende que os embargos de declaração opostos na origem tinham propósito prequestionatório e não possuíam caráter protelatório.
+Na sua impugnação ao agravo interno, a parte agravada alega que o agravo em recurso especial não impugnou, de forma específica, o fundamento da Súmula 7/STJ, mantendo-se hígida a decisão denegatória de admissibilidade. Requer manutenção da decisão e aplicação de multa do art. 1.021, § 4º, do Código de Processo Civil (fls. 3322-3330).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. REPRODUÇÃO DAS RAZÕES DO RESP. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. DECISÃO MANTIDA.
+1. Nos termos do art. 932, III, do Código de Processo Civil e do art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não se conhece de agravo em recurso especial cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação do enunciado 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+VOTO
+De início destaco que a decisão que não admitiu o recurso especial consignou: a) inexistência de negativa de prestação jurisdicional, com afastamento de ofensa aos arts. 489 e 1.022 do Código de Processo Civil; e b) incidência da Súmula 7/STJ quanto à urgência e à taxatividade mitigada do art. 1.015 do Código de Processo Civil (fls. 3260-3261).
+No seu agravo em recurso especial, a parte agravante apenas afirmou que a controvérsia é jurídica, com revaloração jurídica dos fatos, afastando a Súmula 7/STJ, e que houve negativa de prestação jurisdicional, além de defender a aplicação do Tema 988.
+Registro que não basta a alegação genérica de que a matéria não demandaria reexame de provas ou fatos (Súmula 7 do STJ), mas mera revaloração, pois, conforme entendimento desta Corte, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficiente a breve menção à tese sustentada ou simplesmente a insistência no mérito da controvérsia.
+Como se vê, as razões do agravo em recurso especial deixaram de impugnar integralmente os fundamentos da decisão que não admitiu o recurso especial, haja vista que o enfrentamento ao óbice da Súmula 7/STJ ocorreu de forma genérica, sem demonstrar a ausência concreta de reexame probatório e a urgência exigida pelo Tema 988.
+A propósito, a Corte Especial do STJ manteve o entendimento de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo em recurso especial, por aplicação da Súmula 182/STJ (Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Relator Ministro João Otávio de Noronha, Relator para acórdão Ministro Luis Felipe Salomão, julgado em 19/9/2018, DJe 30/11/2018).
+Outrossim, importa esclarecer que, conforme jurisprudência pacífica deste Superior Tribunal de Justiça, a mera reprodução do recurso especial não é suficiente para impugnar a decisão agravada que não admitiu o recurso (AgInt nos EAREsp 1.157.501/SP, Rel. Ministro Moura Ribeiro, Segunda Seção, julgado em 20/8/2019, DJe 22/8/2019).
+Desse modo, sem impugnação específica e suficiente para infirmar todos os fundamentos da decisão que não admitiu o recurso especial na origem, correta a aplicação, por analogia, da Súmula 182/STJ, devendo-se manter a decisão ora agravada integralmente.
+Por fim, quanto ao pedido da parte ora agravada para aplicação de multa, registro que, em que pese o não provimento do recurso, a sua interposição, por si só, não pode ser considerada como protelatória ou como litigância de má-fé, de modo que incabível, por ora, a aplicação de penalidade à parte que exerce regularmente faculdade processual prevista em lei (EDcl no AgInt nos EAREsp 782.294/DF, de minha relatoria, Segunda Seção, julgado em 13/12/2017, DJe 18/12/2017).
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
