@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/09/2026 a 29/09/2026, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG) e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Isabel Gallotti.
+EMENTA
+AGRAVO INTERNO NO R ECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. AGRAVO NÃO CONHECIDO. RECURSO MANIFESTAMENTE INADMISSÍVEL. MULTA DO ART. 1.021, § 4º, DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO, COM APLICAÇÃO DE MULTA.
+1. É inviável o agravo interno que deixa de impugnar especificamente os fundamentos da decisão agravada (CPC/2015, art. 1.021, § 1º).
+2. O recurso mostra-se manifestamente inadmissível, a ensejar a aplicação da multa prevista no art. 1.021, § 4º, do CPC, no montante equivalente a 1% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º do citado artigo de lei.
+3. Agravo interno não conhecido, com aplicação de multa.
+RELATÓRIO
+Cuida-se de agravo interno interposto por NOTRE DAME INTERMÉDICA SAÚDE S.A., inconformada com a decisão de fls. 597-601, proferida por esta relatoria, que negou provimento ao recurso especial, sob os seguintes fundamentos:
+a) incidência da Súmula 83/STJ, quanto à cláusula de aviso prévio e a cobrança de mensalidades no período; e
+b) incidência da Súmula 282/STF, no tocante à alegada advocacia predatória.
+Em suas razões, a agravante aponta que "não é necessário o revolvimento do conjunto fático-probatório e de cláusulas contratuais para haver o julgamento do Recurso Especial. Isto porque o objeto do recurso funda-se no fato de que, a Agravada após concordar com os termos pactuados no contrato firmado entre as partes, ou seja, após aceitar a exigência do aviso prévio de 60 (sessenta) dias para a rescisão contratual, requer a rescisão contratual imediata" (fl. 611).
+Argumenta, ainda, que, "Melhor dizendo, procura-se, por meio deste apelo especial, tão somente a subsunção dos fatos já delimitados às normas vigentes, pois, uma vez definida a interpretação, o direito será aplicado, qual seja, os artigos 421 e 422 do Código Civil, assim como o artigo 17 da RN 195 da ANS e o artigo 23 da atual RN 557/2022, não esbarrando nas Súmulas 5 e 7/STJ6, que vedam, respectivamente, a análise de cláusula contratual em sede de Recurso Especial e a interposição de especial quando o Recorrente vise tão somente viabilizar o reexame do conjunto fático-probatório Isto é, visa-se demonstrar que os artigos 421 e 422 do Código Civil, artigo 17 da RN 195 da ANS e o artigo 23 da atual RN 557/2022 foram violados na v. decisão recorrido, sem que haja necessidade de análise de cláusula contratual e de reexame do conjunto fático-probatório do caso. A inaplicabilidade das Súmulas 5 e 7 desta C. Corte de Justiça ao presente caso se demonstra por meio da decisão monocrática proferida Recurso Especial interposto em caso similar ao presente, cujo objeto versa sobre rescisão de contrato de assistência de saúde com a exigência do aviso prévio" (fl. 612).
+Sem impugnação, conforme certidão de fl. 620.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO R ECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. AGRAVO NÃO CONHECIDO. RECURSO MANIFESTAMENTE INADMISSÍVEL. MULTA DO ART. 1.021, § 4º, DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO, COM APLICAÇÃO DE MULTA.
+1. É inviável o agravo interno que deixa de impugnar especificamente os fundamentos da decisão agravada (CPC/2015, art. 1.021, § 1º).
+2. O recurso mostra-se manifestamente inadmissível, a ensejar a aplicação da multa prevista no art. 1.021, § 4º, do CPC, no montante equivalente a 1% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º do citado artigo de lei.
+3. Agravo interno não conhecido, com aplicação de multa.
+VOTO
+O agravo interno não merece sequer ser conhecido, visto que a parte agravante deixou de atacar, especificamente, os fundamentos adotados na decisão agravada.
+Com efeito, a decisão monocrática proferida por esta relatoria, às fls. 597-601, negou provimento ao recurso especial, sob os seguintes fundamentos:
+"A irresignação não comporta provimento.
+O Tribunal de Justiça, analisando as circunstâncias do caso, consignou pela invalidade da cláusula que estipula 60 dias de aviso prévio para o cancelamento do plano de saúde, estabelecendo, ainda, a impossibilidade de cobrança referente ao período após o pedido. A título elucidativo, confira-se trecho do v. acórdão estadual:
+(..)
+Com efeito, a cláusula de aviso prévio de 60 dias foi considerada abusiva e contrária à jurisprudência consolidada do STJ, que reconhece a invalidade do parágrafo único do art. 17 da RN 195/2009 da ANS, em razão de ação civil pública com efeitos nacionais e imediatos. Sendo assim, a cobrança de mensalidades durante o período de aviso prévio revela-se abusiva e inexigível, pois o consumidor não está obrigado a remunerar serviço que não pretende mais utilizar. Nesse sentido:
+(..)
+Nesse contexto, estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ, pelas alíneas "a" e "c" do permissivo constitucional. Por fim, não merece conhecimento a alegação de advocacia predatória, pois a matéria invocada no apelo nobre não foi apreciada pelo Tribunal a quo, tampouco foi alvo de embargos declaratórios para sanar eventual omissão. Esse pressuposto específico do recurso especial é exigido inclusive para matérias de ordem pública. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF. Nesse sentido:
+(..)
+Com essas considerações, conclui-se que o recurso não merece prosperar. Ante o exposto, nego provimento ao recurso especial. Com supedâneo no art. 85, § 11, do CPC/15, majoram-se os honorários advocatícios sucumbenciais de 12% para 13% sobre o valor atualizado da causa. Publique-se." (grifou-se)
+Contudo, a agravante limita-se à aplicação das Súmulas 5 e 7 do STJ em relação à validade da cláusula de aviso prévio. Ocorre que, nesse ponto, o recurso especial foi negado por incidência da Súmula 83/STJ, que não fora devidamente impugnada, não havendo sequer menção ao referido verbete sumular. Outrossim, o mesmo ocorreu em relação ao tema de advocacia predatória, em que incidiu o óbice da Súmula 282/STF, também não impugnada ou mencionada em sede de agravo interno.
+Ressalte-se, por oportuno, que o respeito à regra contida no art. 1.021, § 1º, do CPC não se trata de mero formalismo processual, mas decorre do princípio processual da dialeticidade, visto que, sem o específico ataque aos fundamentos da decisão agravada, estes permanecem incólumes, tornando inviável a reforma pleiteada nas razões do recurso.
+Em tal contexto, o recurso mostra-se manifestamente inadmissível, a ensejar a aplicação da multa prevista no art. 1.021, § 4º, do CPC, no montante equivalente a 1% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º do citado artigo de lei.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. INCIDÊNCIA DA SÚMULA 182 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, CPC. AGRAVO NÃO CONHECIDO.
+1. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. Incide na espécie a Súmula 182/STJ.
+2. O recurso mostra-se manifestamente inadmissível, a ensejar a aplicação da multa prevista no artigo 1.021, § 4º, do CPC, no percentual de 1% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º, do citado artigo de lei.
+3. Agravo regimental não conhecido, com aplicação de multa."
+(AgRg no AREsp 842.889/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/04/2016, DJe de 11/04/2016)
+A nte o exposto, não se conhece do agravo interno de fls. 604-615 , com imposição de multa no montante equivalente a 1% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º do art. 1.021 do CPC.
+É como voto.
