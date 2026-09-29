@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/09/2026 a 29/09/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Paulo Sérgio Domingues, Herman Benjamin, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. EXAME. PREJUÍZO.
+1. Não enfrentada, no julgado impugnado, tese relacionada a artigo de lei federal apontado no recurso especial, há falta do prequestionamento, o que faz incidir no caso o óbice da Súmula 282 do STF.
+2. "Esta Corte já pacificou entendimento em torno do art. 1.025 do CPC no sentido de que o reconhecimento do prequestionamento ficto com base no referido dispositivo legal pressupõe a oposição de embargos de declaração na origem sobre o ponto omisso já suscitado previamente, além de alegação e o reconhecimento, pelo STJ, de ofensa ao art. 1.022 do CPC suscitada nas razões do recurso especial, o que não ocorreu na hipótese" (AgInt nos EREsp 2020182/MS, relator Ministro Mauro Campbell Marques, Corte Especial, julgado em 11/6/2024, DJe de 14/6/2024).
+3. A inadmissão do recurso especial com fundamento na alínea "a" do permissivo constitucional, por incidência de óbice sumular, prejudica o exame do dissídio jurisprudencial quando a divergência alegada diz respeito à mesma tese jurídica.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ZANEPAN COMÉRCIO ATACADISTA DE GÊNEROS ALIMENTÍCIOS LTDA. contra decisão em que conheci do agravo para não conhecer do recurso especial, haja vista a falta de prequestionamento (Súmula 282 do STF).
+Nas razões deste recurso (e-STJ fls. 401/418), a parte agravante sustenta que "O Tribunal de origem emitiu efetivamente juízo de valor sobre a aplicação do disposto no art. 168, I, do CTN, interpretou seu conteúdo, aplicou-o ao caso concreto e definiu a data do pagamento como termo inicial da prescrição" (e-STJ fl. 408).
+Sobre a ofensa aos arts. 9º, 10 e 323 do CPC, alega que "A tese recursal direcionada a esse e. Superior Tribunal de Justiça, portanto, foi regularmente suscitada, compôs a matéria devolvida ao Tribunal, porém, o órgão julgador entendeu existir prejudicial de mérito capaz de encerrar o feito, de modo que a questão demandou seu tratamento pela via do Recurso Especial" (e-STJ fl. 411). Diz, no ponto, que invocou o art. 1.025 do CPC com o propósito de prequestionamento.
+Por fim, afirma que "o Recurso Especial da Agravante não desenvolveu arguição autônoma de dissídio jurisprudencial" (e-STJ fl. 413).
+Ao final, requer o provimento do recurso pelo colegiado.
+Contraminuta às e-STJ fls. 424/431.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. EXAME. PREJUÍZO.
+1. Não enfrentada, no julgado impugnado, tese relacionada a artigo de lei federal apontado no recurso especial, há falta do prequestionamento, o que faz incidir no caso o óbice da Súmula 282 do STF.
+2. "Esta Corte já pacificou entendimento em torno do art. 1.025 do CPC no sentido de que o reconhecimento do prequestionamento ficto com base no referido dispositivo legal pressupõe a oposição de embargos de declaração na origem sobre o ponto omisso já suscitado previamente, além de alegação e o reconhecimento, pelo STJ, de ofensa ao art. 1.022 do CPC suscitada nas razões do recurso especial, o que não ocorreu na hipótese" (AgInt nos EREsp 2020182/MS, relator Ministro Mauro Campbell Marques, Corte Especial, julgado em 11/6/2024, DJe de 14/6/2024).
+3. A inadmissão do recurso especial com fundamento na alínea "a" do permissivo constitucional, por incidência de óbice sumular, prejudica o exame do dissídio jurisprudencial quando a divergência alegada diz respeito à mesma tese jurídica.
+4. Agravo interno desprovido.
+VOTO
+O presente agravo não merece prosperar.
+Como assinalado na decisão agravada, na origem, cuida-se de ação ordinária visando a repetição de indébito de ICMS recolhido a maior, mediante restituição ou compensação.
+Em primeiro grau (e-STJ fls. 199/206), o pedido foi julgado improcedente.
+O Tribunal de origem declarou a prescrição da pretensão deduzida na ação ordinária (e-STJ fls. 284/285):
+A pretensão à restituição de tributos pagos indevidamente ou a maior encontra regramento específico no Código Tributário Nacional. O artigo 165 do CTN estabelece as hipóteses em que o sujeito passivo tem direito à restituição, notadamente quando ocorre "cobrança ou pagamento espontâneo de tributo indevido ou maior que o devido" (inciso I) ou "erro na edificação do sujeito passivo, na determinação da alíquota aplicável, no cálculo do montante do débito ou na elaboração ou conferência de qualquer documento relativo ao pagamento" (inciso II).
+A presente demanda, conforme se depreende da causa de pedir exposta na inicial, amolda-se a essas hipóteses, alegando pagamento a maior de ICMS em virtude de equívocos na escrituração fiscal.
+O prazo para o exercício dessa pretensão de restituição é definido no artigo 168 do mesmo diploma legal, que dispõe:
+..
+No caso dos autos, a pretensão funda-se no artigo 165, I (pagamento a maior), aplicando-se, portanto, a regra do inciso I do artigo 168. A "extinção do crédito tributário", mencionada como marco inicial, ocorre, na hipótese de pagamento indevido, na data do próprio pagamento. Este é o momento em que surge para o contribuinte a pretensão de reaver o valor desembolsado sem causa jurídica válida ou em montante superior ao devido.
+Com efeito, o Egrégio Superior Tribunal de Justiça, ao julgar o REsp 1.269.570/MG sob o rito dos recursos repetitivos, firmou o entendimento de que o prazo prescricional quinquenal para a ação de repetição de indébito, nos tributos sujeitos a lançamento por homologação, conta-se da data do pagamento antecipado, tido como o momento do pagamento indevido. Vejamos:
+..
+Compulsando os autos, verifica-se que a autora, ora apelante pleiteia a restituição de valores de ICMS referentes às competências de novembro de 2017 e dezembro de 2017. Conforme comprovantes anexados à própria inicial, os pagamentos correspondentes foram efetuados em 18/12/2017 (Ref. 11/2017, valor R$ 54.425,25) e 18/01/2018 (Ref. 12/2017, valor R$ 38.199,33).
+Destaco inclusive que, a existência de prévio requerimento administrativo de restituição e sua eventual demora na apreciação ou indeferimento pela autoridade fiscal não têm o condão de suspender ou interromper o fluxo do prazo prescricional para o ajuizamento da ação judicial. O Colendo Superior Tribunal de Justiça já pacificou a matéria através da Súmula 625: "O pedido administrativo de compensação ou de restituição não interrompe o prazo prescricional para a ação de repetição de indébito tributário de que trata o art. 168 do CTN .. ". A via administrativa é uma faculdade do contribuinte, e sua utilização não afasta o dever de observar o prazo legal para buscar a tutela jurisdicional, caso entenda necessário.
+Dessa forma, diante da clareza dos fatos (datas de pagamento e data de ajuizamento) e da inequívoca aplicação da regra prescricional do artigo 168, I, do CTN, o reconhecimento da prescrição é medida que se impõe.
+Ante o exposto, cumprida a exigência do art. 487, parágrafo único, do CPC, RECONHEÇO, EX OFFICIO, A PRESCRIÇÃO QUINQUENAL da pretensão de repetição do indébito tributário formulada na inicial e, por conseguinte, JULGO EXTINTO O PROCESSO, COM RESOLUÇÃO DO MÉRITO, nos termos do artigo 487, inciso II, do Código de Processo Civil.
+Pois bem.
+Inicialmente, verifica-se que a alegação de cerceamento de defesa decorrente da prolação de sentença, sem prévia decisão saneadora (violação dos arts. 9º, 10 e 323 do CPC), não foi apreciada pelo Tribunal de origem, visto que o acórdão recorrido reconheceu, de ofício, a prescrição da pretensão de repetição do indébito tributário.
+Ademais, com relação à ofensa ao art. 168 do CTN e à ocorrência da prescrição da pretensão deduzida em juízo, a tese recursal em particular, relacionada ao termo inicial, não foi examinada especificamente pelo acórdão recorrido.
+Sendo assim, não enfrentadas, no julgado impugnado, as teses relacionadas a artigos de lei federal apontados no recurso especial, há falta do prequestionamento, o que faz incidir no caso o óbice da Súmula 282 do STF.
+Destaque-se que "Esta Corte já pacificou entendimento em torno do art. 1.025 do CPC no sentido de que o reconhecimento do prequestionamento ficto com base no referido dispositivo legal pressupõe a oposição de embargos de declaração na origem sobre o ponto omisso já suscitado previamente, além de alegação e o reconhecimento, pelo STJ, de ofensa ao art. 1.022 do CPC suscitada nas razões do recurso especial, o que não ocorreu na hipótese" (AgInt nos EREsp 2020182/MS, relator Ministro Mauro Campbell Marques, Corte Especial, julgado em 11/6/2024, DJe de 14/6/2024).
+Por fim, verifica-se que a parte recorrente expressamente manifestou a intenção recursal baseada na alínea "c" do permissivo constitucional (e-STJ fl. 293).
+No ponto, portanto, é certo que "a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Precedentes" (AgInt nos EDcl no REsp 1998 539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
