@@ -1,0 +1,56 @@
+RECURSO ESPECIAL Nº 2274043 - SP (2026/0172307-1)
+
+RELATORA: MINISTRA DANIELA TEIXEIRA
+
+RECORRENTE: JORGE LOPES DOS SANTOS NETO
+
+ADVOGADO: ERALDO AURÉLIO RODRIGUES FRANZESE - SP042501
+
+RECORRIDO: FUNDACAO PETROBRAS DE SEGURIDADE SOCIAL PETROS
+
+ADVOGADO: RENATO LOBO GUIMARAES - SP516061
+
+RECORRIDO: ULTRAFERTIL SA
+
+ADVOGADOS: GEAZE MURIEL RIBEIRO DA CRUZ - BA033741
+
+RAFAEL ALFREDI DE MATOS - SP296620
+
+EMENTA
+
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, inciso III, alínea “a”, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 1023):
+“APELAÇÃO. AÇÃO DE REVISÃO DE PLANO DE EQUACIONAMENTO DE DÉFICIT. Previdência privada. Sentença de improcedência. Apelo do autor visando reforma. Descabimento. Cerceamento de defesa não verificado. Matéria essencialmente de direito que prescinde de perícia contábil. Sentença que apreciou detalhadamente a lide. Omissão não verificada. Preliminares afastadas. Caráter mutualista da previdência complementar. Resultado deficitário do plano que deve ser suportado proporcionalmente pelos patrocinadores, participantes e assistidos. Autorização legal para que o equacionamento se dê mediante cobrança de contribuição extraordinária. Art. 21, §1º, LC nº 109/01. Implementação de planos de equacionamento de déficit que independe da causa do passivo. Sentença mantida. RECURSO NÃO PROVIDO.” (fls. 1022/1023)
+Sustenta a parte recorrente violação ao art. 3º do Código de Processo Civil; ao art. 489, § 1º, incisos II e IV, do Código de Processo Civil; e ao art. 1.022, inciso II e parágrafo único, inciso II, do Código de Processo Civil (fls. 1045/1053).
+Defende que o recurso preenche os requisitos necessários ao conhecimento e provimento.
+Intimadas nos termos do art. 1.030 do Código de Processo Civil, as partes recorridas — Fundação Petros (fls. 1057/1076) e Ultrafértil S.A. (fls. 1078/1100) — afirmaram a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado, requerendo o não conhecimento do recurso.
+O Ministério Público, em parecer, opinou pela negativa de seguimento (fls. 1106/1109).
+É o relatório.
+DECIDO.
+O recurso especial é tempestivo e cabível, pois interposto em face de acórdão que negou provimento à apelação (fls. 1022/1029) e admitido na origem (fls. 1110/1111).
+No presente processo, a parte afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+No que tange à alegada violação aos arts. 489, § 1º, incisos II e IV, e 1.022 do CPC, verifica-se que o Tribunal de origem se manifestou expressamente sobre os pontos a respeito dos quais a parte recorrente alega omissão — a prescindibilidade da prova pericial e a pretensão de responsabilização civil da patrocinadora. É o que se extrai dos seguintes excertos (fls. 1025/1026):
+“De início, não há que se falar em cerceamento de defesa. A controvérsia se limita à alegada responsabilidade civil da patrocinadora pelos prejuízos suportados pelo apelante em razão dos planos de equacionamento de débitos, matéria essencialmente de direito cuja apreciação prescinde da realização da prova pericial contábil.” (fls. 1025)
+“Insta consignar, por oportuno, que a controvérsia a respeito da alegada dívida da patrocinadora com relação às obrigações decorrentes do FAT/FC foi submetida a procedimento arbitral ainda não finalizado. De qualquer modo, nada impede que havendo o pagamento do suposto débito a entidade reveja e reajuste seu plano de custeio.” (fls. 1026)
+Afasta-se a alegada ofensa aos artigos 489 e 1.022 do CPC quando o Colegiado originário aprecia a demanda de forma clara e precisa, pronunciando-se, de forma motivada e suficiente, sobre os pontos relevantes ao deslinde da controvérsia. A jurisprudência desta Corte tem sido firme no sentido de que a ausência de menção a um outro argumento invocado pela defesa não macula o comando decisório se a fundamentação for apta, por si só, a sustentar a conclusão adotada. Como se tem sistematicamente reafirmado nesta Corte, o teor do art. 489, § 1º, inc. IV, do CPC/2015 — ao dispor que não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que não enfrentar todos os argumentos expendidos no processo que sejam capazes de, em tese, infirmar a conclusão adotada pelo julgador — não significa que este tenha que enfrentar todos os argumentos trazidos pelas partes, senão apenas aqueles que sejam capazes de, em tese, infirmar a conclusão alcançada pelo julgador (EDcl nos EREsp 1523744/RS, Rel. Ministro Og Fernandes, Corte Especial, julgado em 07/10/2020, DJe 28/10/2020).
+Portanto, tendo o Tribunal de origem julgado o caso à luz dos fatos e das provas, aplicando o direito que entendeu correto à espécie em análise, não se afigura violação aos artigos 1.022, inciso II, e 489, § 1°, inciso IV, do Código de Processo Civil, por alegada deficiência na fundamentação do acórdão recorrido.
+Em relação à alegada violação ao art. 3º do Código de Processo Civil, em que pese a oposição de embargos declaratórios na origem (fls. 1032/1035) e sua rejeição (fls. 1036/1039), a admissão do prequestionamento ficto previsto no artigo 1.025 do CPC, em recurso especial, exige que no mesmo recurso seja indicada negativa de vigência ao artigo 1.022 do CPC em conexão com o tema que a parte recorrente pretendeu prequestionar. O cumprimento desse ônus processual é necessário para que se possibilite ao órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. INVENTÁRIO. - LIQUIDAÇÃO PARCIAL DE SOCIEDADE LIMITADA. PARTICIPAÇÃO NOS LUCROS PROPORCIONAIS ÀS COTAS INVENTARIADAS - HERDEIROS SÓCIOS EM CONDOMÍNIO - CABIMENTO - PRESCRIÇÃO DO DIREITO - NÃO OCORRÊNCIA. 01. Inviável o recurso especial na parte em que a insurgência recursal não estiver calcada em violação a dispositivo de lei, ou em dissídio jurisprudencial. 02. Avaliar o alcance da quitação dada pelos recorridos e o que se apurou a título de patrimônio líquido da empresa, são matérias insuscetíveis de apreciação na via estreita do recurso especial, ante o óbice da Súmula 7/STJ. 03. Inviável a análise de violação de dispositivos de lei não prequestionados na origem, apesar da interposição de embargos de declaração. 04. A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei. 05. O pedido de abertura de inventário interrompe o curso do prazo prescricional para todas as pendengas entre meeiro, herdeiros e/ou legatários que exijam a definição de titularidade sobre parte do patrimônio inventariado. 06. Recurso especial não provido. (REsp n. 1.639.314/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4/4/2017, DJe de 10/4/2017.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA. PREQUESTIONAMENTO. EXIGÊNCIA CONSTITUCIONAL. ART. 1.025 DO CPC/15. NATUREZA FICTA. POSSIBILIDADE. REQUISITOS NÃO CUMPRIDOS. SÚMULA Nº 282/STF. USUCAPIÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA. Nº 7/STJ. DECISÃO MANTIDA. 1. O prequestionamento é exigência constitucional, devendo ser observado quando da interposição de recurso especial. 2. O prequestionamento ficto previsto no art. 1025 do CPC/15 exige a oposição de embargos de declaração na origem e a indicação do art. 1022 do CPC/15 como violado. Precedentes. 3. Verificar se caracterizado ou não o usucapião somente se processa mediante reexame do acervo fático-probatório, o que é vedado em sede de recurso especial, diante do óbice da Súmula nº 7/STJ. 4. Agravo interno não provido. (AgInt no AREsp n. 1.187.992/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 19/4/2018, DJe de 2/5/2018.)
+No presente caso, embora indicada a violação ao artigo 1.022 do CPC (fls. 1045/1053), a apontada ofensa não foi reconhecida por esta Corte, conforme acima consignado, subsistindo a ausência de prequestionamento quanto ao art. 3º do CPC, o que inviabiliza o conhecimento da insurgência no ponto por óbice da Súmula n. 211/STJ, em razão da ausência dos requisitos necessários para que se configure o prequestionamento ficto.
+Em relação à alegada necessidade da prova pericial atuarial e ao consequente cerceamento de defesa, para conhecer da controvérsia apresentada neste recurso, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com o entendimento firmado pela Súmula n. 7/STJ, que estabelece que a pretensão de simples reexame de prova não enseja recurso especial.
+De fato, presente a função uniformizadora do recurso especial, não se pode cogitar de seu emprego para a realização de rejulgamento do contexto fático-probatório, em atitude típica de revisão promovida por nova instância. Diante disso, é reiterada a jurisprudência no sentido de que o reexame de fatos e provas é vedado em recurso especial pela Súmula n. 7/STJ.
+No presente caso, o Tribunal de origem estabeleceu a seguinte premissa fática (fls. 1025):
+“De início, não há que se falar em cerceamento de defesa. A controvérsia se limita à alegada responsabilidade civil da patrocinadora pelos prejuízos suportados pelo apelante em razão dos planos de equacionamento de débitos, matéria essencialmente de direito cuja apreciação prescinde da realização da prova pericial contábil.” (fls. 1025)
+Assim, o acolhimento da tese recursal demandaria inevitável revisão do quadro fático-probatório estabelecido na instância de origem, providência que, como visto, é inviável nesta sede.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. DISCUSSÃO ACERCA DA NECESSIDADE DE PROVA PERICIAL. CERCEAMENTO DE DEFESA. QUESTÃO ATREL ADA AO REEXAME FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO. 1. Segundo a jurisprudência vigente no Superior Tribunal de Justiça, inexiste cerceamento de defesa quando o julgador indefere motivadamente a produção de provas, entendendo que a questão controvertida encontra-se comprovada suficientemente nos autos por outros elementos. 2. A revisão da conclusão adotada pelo Tribunal de origem, acerca da inexistência de cerceamento de defesa, esbarra na Súmula 7/STJ. 3. Agravo interno desprovido. (AgInt no AREsp n. 2.622.588/SP, relator Ministro Marco Aurélio Bellizze, Segunda Turma, julgado em 26/2/2025, DJe de 6/3/2025.)
+Ante o exposto, conheço parcialmente do recurso especial e, na extensão conhecida (alegadas violações aos arts. 1.022 e 489 do CPC), nego-lhe provimento; não conheço do restante, por incidência das Súmulas n. 211/STJ (art. 3º do CPC) e n. 7/STJ (revolvimento fático-probatório).
+Deixo de majorar os honorários advocatícios, porquanto já fixados, na origem, no patamar máximo de 20% previsto no art. 85, § 2º, do Código de Processo Civil (fls. 1028/1029), observada eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+
+Brasília, 29 de setembro de 2026.
+
+Ministra Daniela Teixeira
+Relatora
