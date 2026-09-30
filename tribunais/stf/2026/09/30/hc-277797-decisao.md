@@ -1,0 +1,77 @@
+DECISÃO
+
+HABEAS CORPUS. PENAL. TRÁFICO DE ENTORPECENTE E POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. PRISÃO CAUTELAR FUNDAMENTADA. PEDIDO MANIFESTAMENTE IMPROCEDENTE E CONTRÁRIO À JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. HABEAS CORPUS AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Habeas corpus, com requerimento de medida liminar, impetrado, em 29.9.2026, por Larissa Cristine Silva Pierazo, advogada, em benefício de Diego Henrique de Jesus Costa, contra acórdão da Sexta Turma do Superior Tribunal de Justiça pelo qual, em 19.8.2026, desprovido o Agravo Regimental no Habeas Corpus n. 1.100.683, Relator o Ministro Og Fernandes:
+“PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. QUANTIDADE DE DROGA. MODUS OPERANDI. PARTICIPAÇÃO DE ADOLESCENTE. MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA. SUPRESSÃO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A prisão preventiva pode ser decretada antes do trânsito em julgado da sentença condenatória desde que estejam presentes os requisitos previstos no art. 312 do CPP.
+2. Foram constatados elementos concretos capazes de justificar a privação cautelar da liberdade, evidenciados pelo modus operandi, pois, por ocasião da prisão em flagrante, foram apreendidos em poder do agravante 47 pinos contendo substância análoga à cocaína (53 g), 20 porções de substância análoga à maconha (28 g) e a quantia de R$ 137,00 em espécie, além de o delito ter sido praticado em concurso com adolescente, também surpreendido na posse de 302 pinos de cocaína (336 g), circunstâncias que evidenciam a gravidade concreta da conduta e justificam a manutenção da custódia cautelar.
+3. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+4. Quanto às alegações de ausência de contemporaneidade, de desproporcionalidade da prisão preventiva e de condições pessoais favoráveis do agravante, destaca-se que o Tribunal de origem não as examinou, circunstância que inviabiliza o exame das questões pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+5. Agravo regimental improvido”.
+
+2. Na presente ação, a impetrante sustenta inidoneidade do fundamento adotado para a prisão cautelar do paciente e ausência dos requisitos do art. 312 do Código de Processo Penal, sob a alegação de não terem sido apresentados elementos concretos que justificassem a constrição cautelar da sua liberdade, mas apenas a gravidade abstrata dos fatos a ele atribuídos.
+
+Assevera que a quantidade de entorpecente apreendida seria pequena; o delito de tráfico de entorpecente imputado não teria sido praticado com violência ou grave ameaça; o paciente seria primário, de bons antecedentes, com residência fixa, trabalho lícito, bem como afirma ser possível a substituição da prisão por medida cautelar diversa.
+
+Pondera que a atribuição da prática do tráfico de entorpecente ao paciente em concurso com adolescente, para justificar a prisão preventiva, também não seria fundamentação inidônea, pois a droga apreendida estaria na sacola do adolescente, que teria assumido ser dono da substância apreendida, de modo que não haveria liame subjetivo ou “premeditação” entre eles.
+
+Afirma que, em caso de condenação, seria aplicada na dosimetria da pena do paciente a causa de diminuição do § 4º do art. 33 da Lei n. 11.343/2006 e fixado o regime inicial aberto, incompatível com a situação atual de encarceramento .
+
+Estes os requerimentos e o pedido:
+“(...) requer a concessão da medida liminar, inaudita altera pars, para revogar a prisão preventiva de DIEGO HENRIQUE DE JESUS COSTA, com a imediata expedição de alvará de soltura, se por outro motivo não estiver preso, mediante imposição, se necessário, das medidas cautelares diversas da prisão previstas no art. 319 do CPP.
+No mérito, a confirmação da liminar, com a concessão definitiva da ordem, para revogar a prisão preventiva do Paciente, com ou sem a imposição de medidas cautelares diversas da prisão.
+CUMPRE SALIENTAR QUE AS MEDIDAS CAUTELARES DIVERSAS DA PRISÃO SÃO DEVIDAMENTE SUFICIENTES NO CASO EM TELA, HAJA VISTA ESTARMOS DIANTE DE UM RÉU PRIMÁRIO, DE APENAS 19 ANOS, E DA AUSÊNCIA MANIFESTA DE PERICULUM LIBERTATIS”.
+
+Examinada a matéria posta à apreciação, DECIDO.
+
+3. O pedido apresentado pela impetrante é manifestamente contrário à jurisprudência do Supremo Tribunal Federal.
+
+4. Consta dos autos que, em 9.4.2026, o paciente foi preso em flagrante pela prática do delito de tráfico de entorpecente:
+“(...) no dia 09 de abril de 2026, policiais militares que faziam patrulhamento de rotina avistaram dois indivíduos, sendo um dele com uma sacola nas mãos e, ao avistarem a viatura policial, empreenderam fuga. O Paciente acabou sendo detido e com ele havia numa pochete 47 porções de cocaína, pesando 53g, e 20 porções de ‘maconha’, pesando 28,g além de R$137,00. Com o outro indivíduo, identificado como H., havia 302 pinos de cocaína, pesando 336g”.
+
+Em 10.4.2026, ao realizar a audiência de custódia, o juízo da Vara Regional das Garantias da 8ª RAJ da comarca de São José do Rio Preto/SP converteu a prisão em flagrante em preventiva:
+“(...) No caso dos autos, o flagrante deve ser convertido em prisão preventiva em face da existência de prova da materialidade da infração e indícios de autoria, bem como a presença dos requisitos legais que autorizam a prisão cautelar (art. 312 e art. 313 do CPP). Com efeito, o Auto de Exibição e Apreensão (fls.15/16*) e o Laudo de Constatação (fls. 29/31) comprovam a apreensão da droga com o investigado. Quanto à autoria, os depoimentos colhidos pela Autoridade Policial indicam a participação do investigado na prática do tráfico de drogas, tendo sido apreendidos, na pochete por ele portada, 47 pinos contendo substância análoga à cocaína (53g), 20 porções de substância análoga à maconha (28g) e a quantia de R$ 137,00 em espécie. Em relação aos requisitos cautelares, o investigado se envolveu na prática de delito equiparado a hediondo (art. 5º, XLIII da CF, art. 2º, caput da Lei nº 8.072/1990 e art. 44 da LD), praticado em circunstâncias graves. Embora primário, a gravidade concreta não se verifica apenas pela natureza legal do delito, mas pelas circunstâncias da apreensão, em especial a diversidade (cocaína e maconha) e o expressivo fracionamento da droga (47 pinos de cocaína e 20 trouxinhas de maconha), aliados à apreensão de numerário compatível com a mercancia, elementos que, em cognição sumária, podem revelar dedicação a atividade criminosa e afastar a incidência da causa de diminuição do art. 33, § 4º, da Lei de Drogas. A esses dados soma-se o fato de o flagrante haver ocorrido em concurso com adolescente, também surpreendido na posse de 302 pinos de cocaína (336g), circunstância que, em tese, atrai a majorante do art. 40, VI, da Lei nº 11.343/06 e reforça, neste juízo cautelar, a gravidade concreta da conduta, na forma do art. 312, § 3º, III, do CPP. Assim, a prisão cautelar revela-se necessária para a garantia da ordem pública, abalada pela gravidade concreta do delito imputado, bem como pela periculosidade do agente, que, em tese, se dedica a atividade criminosa em concurso com adolescente (art. 312 do CPP). Por fim, as medidas cautelares diversas da prisão (art. 319 do CPP) não parecem adequadas no caso dos autos, tendo em vista que não seriam suficientes para impedir a reiteração criminal, mormente do crime de tráfico de drogas supostamente praticado pelo investigado (art. 282, § 6º do CPP)”.
+
+A prisão preventiva do paciente foi mantida em segunda instância, com a denegação do Habeas Corpus n. 2091380-65.2026.8.26.0000 pela Primeira Câmara de Direito Criminal do Tribunal de Justiça de São Paulo em 25.5.2026, com os seguintes fundamentos:
+“(...) Há indícios suficientes de autoria e prova da materialidade, destacando que a pena cominada ao crime de tráfico de drogas, abstratamente, é superior a quatro anos de reclusão e referido delito – equiparado a crime hediondo – é considerado gravíssimo, respaldando-
+-se a necessidade da manutenção da segregação na garantia da ordem pública.
+Não há, portanto, que se falar em constrangimento ilegal na manutenção da prisão que deve ser mantida em razão de sua periculosidade concreta, levando-se em conta as circunstâncias em que se deram os fatos.
+Ao que consta, nada de novo foi trazido aos autos que pudesse alterar a situação fática de modo a ensejar a revogação da prisão preventiva do Paciente.
+Finalmente, não se mostra adequada a aplicação de qualquer outra medida cautelar prevista no artigo 319, pois a Lei nº 12.403/11 estabelece que as referidas medidas só poderão ser aplicadas quando ausentes os requisitos da prisão preventiva, o que não ocorre no presente caso.
+Com efeito, a prisão, de fato, é medida excepcional, todavia, necessária no caso concreto”.
+
+Esse julgado foi mantido pela Sexta Turma do Superior Tribunal de Justiça no acórdão objeto da presente impetração:
+“(...) A leitura do decreto prisional revela que a custódia cautelar está suficientemente fundamentada na necessidade de garantir a ordem pública, considerando a gravidade da conduta delituosa, pois, por ocasião da prisão em flagrante, foram apreendidos 47 pinos contendo substância análoga à cocaína (53 g), 20 porções de substância análoga à maconha (28 g) e a quantia de R$ 137,00 em espécie (...).
+Além disso, a leitura do decreto prisional revela que a custódia cautelar também está fundamentada na necessidade de garantir a ordem pública, considerando a gravidade da conduta delituosa, pois o delito teria ocorrido em concurso com adolescente, também surpreendido na posse de 302 pinos de cocaína (336 g) (fl. 37).
+Cumpre destacar que, com a alteração promovida no Código de Processo Penal, pela Lei n. 15.272/2025, o legislador passou a dispor, no art. 312, § 3º, I, que, para a aferição da periculosidade do agente e do consequente risco à ordem pública, deve ser considerado o modus operandi, inclusive quanto ao uso reiterado de violência ou grave ameaça à pessoa ou quanto à premeditação do agente para a prática delituosa.
+As circunstâncias delineadas nos autos, que revelam a gravidade concreta da conduta delituosa – praticada mediante premeditação, envolvendo a participação de adolescente –, justificam a imposição da prisão cautelar, a fim de assegurar a ordem pública. É pacífico o entendimento do Superior Tribunal de Justiça de que não se configura constrangimento ilegal quando a segregação preventiva é decretada em face do modus operandi empregado na prática do delito.
+(...) havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública”.
+
+5. Pelo demonstrado nestes autos, a prisão preventiva justifica-se em razão da periculosidade do paciente, consideradas a gravidade concreta da conduta e a necessidade de evitar a reiteração delitiva. Foi realçada a idoneidade da fundamentação apresentada para a custódia cautelar do paciente, preso em condições que evidenciam a prática do delito de tráfico de entorpecente, quando foram “apreendidos 47 pinos contendo substância análoga à cocaína (53 g), 20 porções de substância análoga à maconha (28 g) e a quantia de R$ 137,00 em espécie”.
+
+Ademais, ao contrário do afirmado na inicial da presente impetração, as “circunstâncias delineadas nos autos, que revelam a gravidade concreta da conduta delituosa – praticada mediante premeditação, envolvendo a participação de adolescente –, justificam a imposição da prisão cautelar, a fim de assegurar a ordem pública”.
+
+Diferente do alegado nesta impetração, não se comprova, na espécie, carência dos requisitos do art. 312 do Código de Processo Penal, pois a conduta do paciente foi individualizada e foram apresentados elementos probatórios para demonstrar a autoria e a materialidade dos delitos a ele imputados.
+
+Pelas circunstâncias do ato praticado e com os dados apresentados nas instâncias antecedentes, adotou-se fundamentação idônea para decretação da prisão, e não aplicação de medida cautelar diversa. A constrição da liberdade do paciente harmoniza-se com a jurisprudência deste Supremo Tribunal, no sentido de a periculosidade do agente, evidenciada pela necessidade de evitar a reiteração delitiva e pelo modus operandi, ser motivo idôneo para a custódia cautelar. Assim, por exemplo:
+“AGRAVO REGIMENTAL NO HABEAS CORPUS. CONSTITUCIONAL. ORGANIZAÇÃO CRIMINOSA PARA O TRÁFICO DE DROGAS, POSSE ILEGAL DE ARMA DE FOGO, LAVAGEM DE DINHEIRO, CORRUPÇÃO DE MENOR E CORRUPÇÃO ATIVA. PRISÃO FUNDAMENTADA. AGRAVO REGIMENTAL DESPROVIDO” (HC n. 231.976-AgR, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJe 4.10.2023).
+
+“AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSO PENAL. SÚMULA 691 DO STF. INEXISTÊNCIA DE ILEGALIDADE EVIDENTE OU TERATOLOGIA. CRIME DE TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO. 1. A teor da Súmula 691/STF, é inadmissível a impetração de habeas corpus contra decisão denegatória de liminar, salvo em hipóteses excepcionais, em que o impetrante demonstre a existência de flagrante ilegalidade, abuso de poder ou teratologia na decisão hostilizada. 2. Inocorrência das hipóteses de excepcional superação do verbete sumular. Prisão preventiva decretada com a finalidade de desarticular organização criminosa e impedir reiteração delitiva. 3. Agravo regimental desprovido” (HC n. 233.042-AgR, Relator o Ministro Edson Fachin, Segunda Turma, DJe 13.11.2023).
+
+“‘HABEAS CORPUS’ – PRISÃO PREVENTIVA – NECESSIDADE COMPROVADA DE SUA DECRETAÇÃO – DECISÃO FUNDAMENTADA – MOTIVAÇÃO IDÔNEA QUE ENCONTRA APOIO EM FATOS CONCRETOS – PERICULOSIDADE DO ACUSADO/RÉU EVIDENCIADA PELO ‘MODUS OPERANDI’ DA REALIZAÇÃO DA PRÁTICA DELITUOSA E PELA REAL POSSIBILIDADE DE REITERAÇÃO DELITIVA – PRECEDENTES DESTA SUPREMA CORTE – LEGALIDADE DA DECISÃO QUE DETERMINOU A PRISÃO CAUTELAR E INSUFICIÊNCIA DA UTILIZAÇÃO DAS MEDIDAS CAUTELARES ALTERNATIVAS – PARECER DA DOUTA PROCURADORIA-GERAL DA REPÚBLICA PELO NÃO PROVIMENTO DESTA ESPÉCIE RECURSAL – RECURSO DE AGRAVO IMPROVIDO” (HC n. 177.179-AgR, Relator o Ministro Celso de Mello, Segunda Turma, DJe 9.7.2020).
+
+6. As instâncias antecedentes consideraram o conjunto probatório para concluir demonstrados os indícios de autoria da prática delituosa e os requisitos para a prisão cautelar.
+
+Para rever os pressupostos da prisão cautelar na forma adotada pelas instâncias antecedentes e, se fosse o caso, acolher as alegações da impetrante, seria necessário reexaminar os fatos e as provas dos autos, ao que não se presta o habeas corpus.
+
+7. A jurisprudência deste Supremo Tribunal consolidou-se no sentido de que a “existência de condições subjetivas favoráveis ao agravante, tais como primariedade e residência fixa, não obsta a segregação cautelar, desde que presentes, nos autos, elementos concretos a recomendar sua manutenção, como se verifica na espécie” (HC n. 154.394, Relator o Ministro Dias Toffoli, Segunda Turma, DJe 24.8.2018).
+
+8. Pelo exposto, nego seguimento ao habeas corpus (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal), prejudicada a medida liminar requerida.
+
+Publique-se.
+
+Brasília, 30 de setembro de 2026.
+
+Ministra CÁRMEN LÚCIA
+Relatora
