@@ -1,2 +1,0 @@
-Art. 1º-A Fica o Poder Executivo autorizado a conceder subvenção econômica em percentual ou valor do prêmio do seguro rural contratado no ano de 2014, na forma estabelecida no ato específico de que trata o art. 1º desta Lei, devendo a obrigação assumida em decorrência desta subvenção ser integralmente liquidada no exercício financeiro de 2015.
-Parágrafo único. Aplicam-se as demais disposições desta Lei à subvenção estabelecida no caput deste artigo.
