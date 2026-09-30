@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de recurso ordinário em mandado de segurança, interposto por Ademar de Jesus Rios contra acórdão às fls. 247/259, proferido à unanimidade pela Seção Cível da Direito Público do Tribunal de Justiça do Estado da Bahia, assim ementado:
+DIREITO ADMINISTRATIVO E CONSTITUCIONAL. MANDADO DE SEGURANÇA. POLICIAL MILITAR INATIVO. PRETENSÃO DE PROMOÇÃO AO POSTO DE TENENTE E RECÁLCULO DE PROVENTOS. AUSÊNCIA DE COMPROVAÇÃO DOS REQUISITOS LEGAIS. SEGURANÇA DENEGADA.
+I. Caso em exame
+1. Mandado de segurança impetrado por policial militar da reserva remunerada, contra omissão atribuída ao Secretário da Administração do Estado da Bahia, objetivando sua promoção ao posto de 1º Tenente e consequente cálculo dos proventos com base no posto de Capitão PM.
+II. Questão em discussão
+2. Há duas questões em discussão: (i) saber se a ausência de promoção à graduação de 1º Tenente caracteriza ilegalidade, ensejando reclassificação para fins de cálculo de proventos; (ii) verificar a existência de direito líquido e certo à promoção com base apenas na extinção de graduações pela Lei Estadual nº 7.145/1997.
+III. Razões de decidir
+3. A reestruturação das graduações da PMBA, por meio das Leis Estaduais nº 7.145/1997 e nº 11.360/2009, não implica promoção automática.
+4. O acesso ao oficialato exige aprovação em curso específico (CFOAPM), conforme Lei Estadual nº 7.990/2001 e Decreto nº 16.300/2015.
+5. O impetrante não comprovou preenchimento dos requisitos legais, como participação e aprovação no curso exigido.
+6. A jurisprudência do TJBA é pacífica quanto à legalidade da inatividade na graduação de 1º Sargento, com cálculo dos proventos na forma do art. 92 da Lei nº 7.990/2001, sem direito à reclassificação.
+IV. Dispositivo e tese
+7. Ordem denegada. Dispositivos relevantes citados: CF/1988, art. 5º, LXIX; Lei nº 12.016/2009, art. 1º; Lei nº 7.990/2001, arts. 122, 127 e 134; Decreto nº 16.300/2015, arts. 1º e 4º. Jurisprudência relevante citada: TJBA, MS nº 8033588-12.2021.8.05.0000, Rel. Des. Raimundo Sérgio Sales Cafezeiro, Seção Cível de Direito Público, j. 23.05.2022; TJBA, MS nº 8015521-33.2020.8.05.0000, Rel. Des. Maria de Fátima Silva Carvalho, Seção Cível de Direito Público, j. 29.08.2021. (fls. 247/248)
+Na origem, o impetrante, policial militar da reserva remunerada, sustenta ter sido prejudicado pelas sucessivas reestruturações promovidas na carreira da Polícia Militar baiana, notadamente em razão das alterações introduzidas pelas Leis Estaduais nº 7.145/1997 e nº 7.990/2001. Afirma que a supressão de graduações intermediárias e o alegado retardamento das promoções ocasionaram preterição em sua evolução funcional, razão pela qual pleiteia o reconhecimento do direito à promoção ao posto de 1º Tenente PM, com os correspondentes reflexos no cálculo de seus proventos de inatividade.
+O Tribunal de origem denegou a segurança ao entendimento de que as modificações legislativas promovidas na estrutura hierárquica da corporação não acarretaram promoção automática dos militares alcançados pelas alterações normativas. Consignou, ainda, que o acesso ao oficialato permanece condicionado ao preenchimento dos requisitos previstos na legislação de regência, especialmente a aprovação em curso específico de formação e a observância das demais condições legais para a promoção, circunstâncias não demonstradas pelo impetrante. Assentou, por fim, a inexistência de prova pré-constituída apta a evidenciar o alegado direito líquido e certo.
+Nas razões do recurso ordinário (fls. 277/344), o recorrente sustenta que o acórdão recorrido destoa da orientação anteriormente adotada pelo próprio Tribunal de Justiça da Bahia em casos semelhantes. Defende que a extinção da graduação de Subtenente e a forma como se deu a reorganização da carreira militar teriam gerado sucessivas preterições funcionais, circunstância que lhe asseguraria o direito à promoção ao posto de 1º Tenente, especialmente à luz das regras de promoção por ressarcimento de preterição previstas na legislação estadual.
+Recurso sem contrarrazões. (fls. 358).
+O Ministério Público Federal, pelo Subprocurador-Geral da República Eitel Santiago de Brito Pereira, manifestou-se pelo não provimento do recurso, pelos fundamentos do parecer às fls. 462/465, assim ementado:
+DIREITO ADMINISTRATIVO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. SARGENTO DA ATIVA. PRETENSÃO DE RECLASSIFICAÇÃO PARA 1º TENENTE. IMPOSSIBILIDADE. RECURSO ORDINÁRIO QUE NÃ IMPUGNA OS FUNDAMENTOS DO ACÓRDÃO. OFENSA AO PRINCÍPIO DA DIALETICIDADE. NÃO CONHECIMENTO DO RECURSO. SÚMULA 283 DO STF. MÉRITO. PROMOÇÃO NA CARREIRA QUE OBEDECEU ESTRITAMENTE AS REGRAS DA LEI ESTADUAL Nº7.990/2001, COM ALTERAÇÕES DA LEI ESTADUAL 11.356/2009. PARECER DO MPF PELO NÃO CONHECIMENTO DO RECURSO ORDINÁRIO, EM VIRTUDE DA AUSÊNCIA DE DIALETICIDADE, OU, SE CONHECIDO, PELO DESPROVIMENTO DO RECURSO ORDINÁRIO. (fl. 358).
+Benefício de gratuidade de justiça deferido na origem (fl. 119/126).
+Representação regular (fl. 67).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Consoante expressamente prevê o art. 932, inciso III, do Código de Processo Civil, "incumbe ao relator  ..  não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida" .
+Assim, o presente apelo não merece avançar para além da barreira do juízo de admissibilidade recursal.
+De início, como bem apontou o Parquet Federal em seu alentado parecer "constata-se que o recorrente apenas repetiu os argumentos expostos na petição inicial do mandamus, deixando de impugnar fundamento do acórdão" (fl. 358).
+Com efeito, o acórdão recorrido assentou que a reorganização da carreira promovida pelas Leis Estaduais n. 7.145/1997 e 11.360/2009 não implicou promoção automática dos militares abrangidos pelas modificações legislativas. Consignou, ainda, que o acesso ao oficialato depende do preenchimento dos requisitos previstos na legislação de regência, dentre eles aprovação em curso específico de formação, inclusão em lista de pré-qualificação, cumprimento de interstício e observância das demais condições legalmente estabelecidas para a ascensão funcional.
+Além disso, a Corte estadual registrou expressamente que o impetrante não comprovou o preenchimento dessas exigências, tampouco apresentou prova pré-constituída apta a demonstrar o alegado direito líquido e certo.
+Todavia, nas razões recursais, ainda que expresse seu descontentamento com a denegação da ordem, o recorrente não aponta razões jurídicas para tentar desconstituir esta específica fundamentação invocada pelo Tribunal. Mas, com isso, o impetrante não cuidou de oferecer combate específico, nem integral, aos fundamentos do aresto que intenta desconstituir.
+Essa irregularidade, porque violadora do princípio da dialeticidade, impede o conhecimento do recurso. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INOBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE. ART. 932, III, DO CPC.
+1. A viabilidade do recurso ordinário pressupõe a demonstração de erro na concatenação dos juízos expostos na fundamentação do acórdão recorrido, não se mostrando suficiente a mera insurgência contra o comando contido no dispositivo, como, no caso, a denegação da ordem.
+2. Nas hipóteses em que as razões recursais não infirmam a totalidade dos fundamentos do acórdão recorrido, é dever, e não faculdade do Relator, não conhecer do recurso. Inteligência do art. 932, III, do CPC. Precedentes.
+3. Na hipótese ora examinada, apesar das alegações que agora faz o agravante, certo é que, nas razões do recurso ordinário, se limitou a discordar do acórdão recorrido e insistir nas teses da própria impetração.
+4. Agravo interno não provido.
+(AgInt no RMS 66.918/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 15/10/2021)
+Eis porque, como dantes anotado, o presente recurso ordinário não merece avançar para além do juízo de admissibilidade.
+ANTE O EXPOSTO, e com fundamento no art. 932, III, do CPC, não conheço do presente recurso ordinário.
+Publique-se.
+EMENTA
