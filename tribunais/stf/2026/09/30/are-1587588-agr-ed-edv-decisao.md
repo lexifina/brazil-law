@@ -1,0 +1,34 @@
+DECISÃO: Trata-se de embargos de divergência opostos contra acórdão da Primeira Turma deste Supremo Tribunal Federal, pelo qual foi negado provimento ao recurso extraordinário com agravo. O acórdão embargado está assim ementado:
+
+“Direito administrativo e outras matérias de direito público. Agravo regimental no recurso extraordinário com agravo. Acumulação de benefícios previdenciários. Emenda Constitucional nº 103/2019. Aposentadorias e pensão por morte. Regimes previdenciários diversos e fatos geradores distintos. Inaplicabilidade do Tema nº 921 da Repercussão Geral. Agravo interno não provido.
+I. Caso em exame
+1.  Agravo interno interposto contra decisão monocrática que negou seguimento a recurso extraordinário com agravo.
+2.  O agravo interno busca reformar a decisão que considerou correta a manutenção da acumulação de aposentadorias concedidas antes da EC nº 103/2019, aplicando os redutores do art. 24, § 2º, da referida Emenda apenas à pensão por morte, cujo fato gerador ocorreu após sua vigência.
+II. Questão em discussão
+3.  A questão em discussão consiste em saber se a Emenda Constitucional nº 103/2019, especialmente o art. 24, § 2º, e o Tema nº 921 da Repercussão Geral, devem ser aplicados para reduzir proventos de aposentadorias adquiridas antes de sua vigência, quando acumuladas com pensão por morte cujo fato gerador ocorreu após a emenda, em casos de cargos constitucionalmente acumuláveis e regimes previdenciários distintos.
+III. Razões de decidir
+4.  A jurisprudência do Supremo Tribunal Federal, em conformidade com a Súmula nº 359, estabelece que a lei vigente ao tempo em que preenchidos os requisitos para a aquisição do benefício previdenciário deve ser aplicada (princípio tempus regit actum).
+5.  A vedação do Tema nº 921 da Repercussão Geral não se estende automaticamente a todas as hipóteses de acumulação de benefícios previdenciários oriundos de regimes distintos ou de naturezas diversas, como aposentadoria própria e pensão por morte de cônjuge, desde que tais acumulações encontrem amparo em dispositivos constitucionais ou legais específicos.
+6. A jurisprudência desta Suprema Corte tem afastado a aplicação do Tema nº 921 da Repercussão Geral em situações que decorrem de regimes previdenciários diversos e de fatos geradores distintos, a exemplo da acumulação de aposentadorias de cargos constitucionalmente acumuláveis com pensão militar.
+7. O art. 24 da Emenda Constitucional nº 103/2019 veda a acumulação de mais de uma pensão por morte deixada pelo mesmo instituidor no âmbito do mesmo regime de previdência social, mas não impede a acumulação de aposentadoria própria do beneficiário com uma  pensão por morte, por serem benefícios de naturezas e fatos geradores distintos.
+IV. Dispositivo
+8. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+9. Agravo interno conhecido e não provido.”
+
+O embargante indica como paradigma o acórdão da Segunda Turma no RE 1.510.285 AgR, Rel. Min. Nunes Marques. Sustenta que, nesse julgado, firmou-se o entendimento de que, ocorrido o óbito do instituidor da pensão após a EC nº 103/2019, a acumulação de pensão por morte de um regime com aposentadoria de outro regime deve observar, em sua totalidade, as faixas de redução do § 2º do art. 24, ficando assegurada a integralidade apenas do benefício mais vantajoso. Eis a sua ementa:
+
+“Direito Constitucional e Previdenciário. Agravo interno em recurso extraordinário. Pensão por morte e aposentadoria. Acúmulo. Instituidor da pensão falecido após a EC n. 103/2019. Redutor. Art. 24, § 2º. Incidência. Recurso desprovido. Verba honorária. Majoração cabível. I. CASO EM EXAME 1. Agravo interno interposto contra decisão que, ao negar provimento ao recurso extraordinário, manteve ótica segundo a qual o acúmulo de pensão por morte, concedida após a promulgação da Emenda Constitucional n. 103/2019, com aposentadoria, ambas vinculadas a regimes previdenciários distintos, deve observar o redutor previsto no § 2º do art. 24 dessa alteração constitucional. II. QUESTÃO EM DISCUSSÃO 2. A questão consiste em saber se, na acumulação de aposentadoria e pensão por morte, concedidas por diferentes regimes de previdência, cujo instituidor tenha falecido após a promulgação da EC n. 103/2019, deve incidir, ou não, o redutor preconizado no art. 24, § 2º. III. RAZÕES DE DECIDIR 3. A pensão por morte é regida pelas normas vigentes na data do óbito do instituidor do benefício. Precedentes. 4. No caso, o óbito ocorreu após a vigência da EC n. 103/2019, a partir da qual a acumulação, permitida na forma do inciso II do § 1º do art. 24, de pensão por morte de um regime de previdência social com aposentadoria concedida por outro regime deve observar as faixas de redução previstas no § 2º desse mesmo artigo. IV. DISPOSITIVO 5. Agravo interno desprovido, com majoração da verba honorária. (RE 1510285 AgR, Relator(a): NUNES MARQUES, Segunda Turma, DJe 19-12-2024)
+
+Intimada, a parte embargada não se manifestou.
+Por meio da análise do confronto analítico realizado pelo embargante vislumbra-se satisfatoriamente a existência de soluções jurídicas dissonantes entre o ato da Primeira Turma e a diretriz firmada pela Segunda Turma perante quadros fáticos assemelhados, ou seja, quanto ao alcance do art. 24, § 2º, da EC nº 103/2019.
+Os dois acórdãos examinaram, no mérito, a acumulação de aposentadoria de regime próprio com pensão por morte de cônjuge paga por outro regime próprio, com óbito do instituidor posterior à EC nº 103/2019. Entendo que a diferença na quantidade de aposentadorias acumuladas não altera a questão jurídica controvertida.
+Assim, enquanto o acórdão embargado da Primeira Turma preservou a integralidade das aposentadorias concedidas antes da Emenda, com fundamento no § 4º do mesmo artigo, e restringiu a incidência do redutor à pensão por morte, em sentido oposto, o acórdão paradigma da Segunda Turma entendeu que a acumulação se submete às faixas de redução, assegurando-se o valor integral apenas do benefício mais vantajoso e parte dos demais, sem distinguir os benefícios pela data de concessão.
+Nesse cenário, entendo que, em princípio, está demonstrada, pela parte embargante, a divergência na aplicação da sistemática de precedentes vinculantes desta Suprema Corte, razão pela qual o processamento do recurso é de rigor.
+Ante o exposto, admito os embargos de divergência (art. 355 do RISTF).
+Determino a remessa dos autos à Secretaria para as providências cabíveis.
+Publique-se.
+Brasília, 30 de setembro de 2026.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
