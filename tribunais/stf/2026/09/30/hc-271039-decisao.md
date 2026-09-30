@@ -1,0 +1,111 @@
+DECISÃO: Trata-se de habeas corpus, com pedido de medida liminar,  impetrado em favor de Henrique Manoel Fernandes Machado, no qual se pretende, em síntese, o reconhecimento da extinção da punibilidade em razão da alegada ocorrência de prescrição da pretensão punitiva, bem como, subsidiariamente, a concessão de prisão domiciliar humanitária.
+Consta dos autos que o Ministério Público Federal (MPF), em 27.4.2004, ofereceu denúncia em desfavor do paciente e de outros quatro corréus pela suposta prática dos crimes previstos nos arts. 288 e 312, c/c art. 71, todos do Código Penal (eDOC 2). Segundo a acusação, no período compreendido entre 1998 e 2002, o paciente teria integrado esquema de desvio de recursos públicos que ficou conhecido como “Escândalo dos Gafanhotos”. Na condição de Conselheiro do Tribunal de Contas do Estado de Roraima, ele teria participado da inclusão de servidores fantasmas em folhas de pagamento de órgãos da Administração Pública estadual e na posterior apropriação dos valores correspondentes pelos integrantes da organização.
+Em 16.11.2011, a Corte Especial do Superior Tribunal de Justiça (STJ), nos autos da AP 327/RR, recebeu parcialmente a denúncia em relação ao delito de peculato-desvio e declarou extinta a punibilidade quanto à imputação do crime de quadrilha em virtude da prescrição. Na mesma oportunidade, determinou o afastamento cautelar do paciente do cargo (eDOC 4).
+Em 18.12.2018, a pretensão ministerial foi julgada parcialmente procedente para: (i) reconhecer a prescrição da pretensão punitiva em relação a um dos corréus; (ii) condenar o paciente pela prática do crime de peculato-desvio à pena de 11 (onze) anos, 1 (um) mês e 10 (dez) dias de reclusão, além de multa e perda do cargo público; e (iii) declarar extinta a punibilidade de outra corré em razão da concessão de perdão judicial decorrente do acordo de colaboração premiada (eDOC 6).
+Contra o acórdão condenatório a defesa do paciente opôs embargos de declaração e manejou os recursos cabíveis perante as instâncias superiores, todos sem êxito. A condenação então transitou em julgado (eDOC 7) e, em 23.3.2026, foi ordenada a expedição de mandado de prisão para início da execução da pena (eDOC 10). Após a efetivação da medida, realizou-se a audiência de custódia em 2.4.2026 (eDOC 11).
+Os autos foram posteriormente remetidos ao juízo da execução penal. No presente writ, o paciente impugna essa determinação de início da execução da reprimenda.
+A impetração sustenta: (i) a incidência da prescrição retroativa nos termos do art. 110, §§ 1º e 2º, do Código Penal, em sua redação anterior à Lei 12.234/2010; (ii) a necessidade de utilização da pena de 6 (seis) anos e 8 (oito) meses, sem o acréscimo decorrente da continuidade delitiva, nos termos da Súmula 497 desta Corte, o que atrairia prazo prescricional de 12 (doze) anos; (iii) a adoção do ano de 1998 como marco inicial da contagem prescricional, diante da moldura temporal constante da denúncia; (iv) a existência de tratamento distinto em relação ao corréu Neudo Ribeiro Campos, então Governador do Estado, cuja punibilidade foi extinta pela Corte Especial do STJ, ao argumento de que a mesma moldura temporal utilizada para reconhecer a prescrição daquele acusado deveria conduzir à idêntica solução em favor do paciente; e (v) a concessão de prisão domiciliar diante das condições de saúde do paciente, que possui 76 (setenta e seis) anos de idade e é portador de graves enfermidades (eDOC 9).
+A Procuradoria-Geral da República (PGR) manifestou-se pela denegação da ordem (eDOC 16).
+
+É o relatório. Decido.
+
+O cerne da impetração consiste em verificar se a condenação imposta ao paciente na AP 327/RR está ou não alcançada pela prescrição da pretensão punitiva estatal, considerada a alegada incidência das regras de prescrição retroativa aplicáveis aos fatos descritos na denúncia.
+A discussão envolve, essencialmente, a definição do termo inicial da contagem do prazo prescricional, os efeitos da continuidade delitiva sobre esse cálculo e a eventual repercussão da situação processual do corréu Neudo Ribeiro Campos em relação à situação do paciente.
+Subsidiariamente, também deverá ser examinado o pleito de concessão de prisão domiciliar humanitária em razão das condições de saúde do paciente.
+Inicialmente, cumpre observar que a tese prescricional deduzida na presente impetração não foi objeto de apreciação pelas instâncias antecedentes, circunstância apontada pela PGR.
+Não obstante, a prescrição constitui matéria de ordem pública, relacionada à própria subsistência do direito de punir do Estado, e pode ser reconhecida a qualquer tempo e grau de jurisdição. Assim, embora a questão tenha sido suscitada pela primeira vez nesta Corte, a natureza da matéria autoriza seu exame, razão pela qual passo à análise das alegações deduzidas pela defesa.
+
+I. Da moldura temporal da denúncia e da alegação de caráter genérico da imputação
+
+A defesa sustenta, inicialmente, que a denúncia teria caráter genérico ao imputar ao paciente fatos ocorridos entre 1998 e 2002 sem individualização suficiente das condutas praticadas.
+A tese não merece acolhimento.
+A questão foi expressamente apreciada pela Corte Especial do STJ quando do juízo de admissibilidade da acusação. Na ocasião, ao afastar a preliminar de inépcia, o Tribunal consignou que, relativamente aos fatos descritos como crime de peculato, “a denúncia expõe o fato criminoso, com suas circunstâncias, e a imputação específica aos acusados, a qual se ajusta, em tese, à figura tipificada no art. 312 do Código Penal.” (eDOC 4, p. 16), concluindo estarem preenchidos os requisitos do art. 41 do Código de Processo Penal.
+Além disso, acrescentou haver suporte probatório mínimo de autoria e materialidade apto a justificar o recebimento da denúncia. No que se refere especificamente ao paciente, o Ministro Relator consignou:
+
+“Henrique Manoel Fernandes Machado:
+O Conselheiro do Tribunal de Contas do Estado recebeu do acusado Neudo Campos o ‘benefício’ de simular a contratação de pessoas, mediante a indicação de servidores ‘fantasmas’ aos acusados Carlos Eduardo Levischi e Diva Silva Briglia. Assim, recebeu parcela da quantia dos vencimentos dos ‘falsos’ funcionários, os quais, como já salientado, não prestavam serviços. Há nos autos elementos indiciários de autoria, tais como: os depoimentos de Diva da Silva Briglia (fls. 148/160), Ana Ilza Silva Coelho (fls. 89-95), Sônia Pereira Nattrodt (fls. 97/106), Carlos Eduardo Levischi (fls. 77-80), Maria do Livramento Alves Ferro (fls. 81/88), Marly Figueiredo Brilhante (fl. 266/268), assim como os documentos apreendidos na residência do denunciado Neudo Campos Ribeiro (fls. 361/427).” (p. 16)
+
+A persecução penal prosseguiu regularmente, foi submetida à ampla instrução probatória e culminou em julgamento de mérito pela Corte competente. A condenação foi posteriormente mantida nas sucessivas impugnações defensivas e transitou em julgado, em 18.2.2019 (eDOC 7). Não se verifica, portanto, vício de genericidade apto a comprometer a validade da persecução penal ou a transformar a moldura temporal descrita na denúncia em parâmetro automático para a contagem da prescrição.
+Superada tal alegação, cumpre examinar a consequência jurídica que a defesa pretende extrair da delimitação temporal constante da denúncia. A impetração argui que, tendo o Parquet afirmado que os fatos ocorreram no período compreendido entre 1998 e 2002, o Estado estaria vinculado ao marco inaugural desse intervalo para fins de contagem do prazo prescricional. Defende, assim, que a referência ao ano de 1998 na exordial acusatória imporia sua adoção como termo inicial da prescrição da pretensão punitiva.
+A tese igualmente não prospera.
+Conforme se extrai da peça acusatória e do acórdão que a recebeu (eDOC 2 e eDOC 4, respectivamente), a imputação formulada pelo MPF não se refere a fato único e instantâneo, mas à possível participação do paciente em esquema criminoso complexo, desenvolvido ao longo de vários anos, mediante a inclusão de servidores fantasmas em folhas de pagamento de órgãos da Administração Pública estadual, com a consequente apropriação de recursos públicos.
+Transcrevo da denúncia:
+
+“No período de 1998 a 2002 os réus acima indicados associaram-se, de forma estável e permanente, na cidade de Boa Vista, com o propósito de praticarem desvio de recursos públicos, sendo que apenas no ano de 2002 a sangria dos cofres públicos alcançou a cifra de aproximadamente 70.000.000,00 (setenta milhões de reais), aí incluídas também verbas federais.
+O esquema criminoso consistiu na inserção, nas folhas de pagamento do Departamento de Estradas de Rodagem de Roraima - DER/RR e da Secretaria de Administração daquele Estado, de pessoas que jamais prestaram serviços àquelas unidades administrativas e cujos salários eram percebidos por terceiros.” (eDOC 2, p. 2, grifo nosso)
+
+Nesse contexto, a referência ao período compreendido entre 1998 e 2002 não traduz deficiência da peça acusatória, mas delimitação temporal da atividade criminosa que se pretendeu vincular aos denunciados. A moldura cronológica constante da denúncia tem por finalidade definir o âmbito da acusação e permitir o pleno exercício do contraditório e da ampla defesa, indicando ao acusado o intervalo de tempo no qual teriam ocorrido os fatos investigados.
+Não se confunde, todavia, a delimitação temporal da conduta com os critérios aplicáveis para a definição do termo inicial da contagem do prazo prescricional.
+Da afirmação do MPF de que o esquema teria funcionado entre 1998 e 2002 não decorre a obrigação de adotar, automaticamente, o ano de 1998 como marco inicial para toda e qualquer análise prescricional.
+A denúncia não descreve fato único e instantâneo supostamente praticado naquele ano. Ao contrário, narra a existência de estrutura estável voltada à inserção de servidores fantasmas em folhas de pagamento estaduais, com sucessivos pagamentos e desvios de recursos públicos ao longo de vários anos.
+Essa característica foi expressamente reconhecida no acórdão condenatório, que aplicou a causa de aumento prevista no art. 71 do Código Penal ao fundamento de que os desvios de recursos públicos ocorreram de forma reiterada e em circunstâncias semelhantes:
+
+“Considero que está presente a causa de aumento de pena prevista no art. 71, do Código Penal, pois os desvios de recursos públicos por meio da indicação de servidores fantasmas a serem incluídos na folha de pagamento do Estado de Roraima ocorreu de forma reiterada e por circunstâncias assemelhadas, as penalidades do crime devem ser aumentadas em 2/3 (dois terços).” (eDOC 6, p. 72, grifo nosso)
+
+Não se trata, portanto, de narrativa referente a episódio isolado ocorrido em 1998, mas de sucessivos atos delitivos que, segundo a acusação acolhida no título condenatório, integrariam uma mesma sequência criminosa desenvolvida ao longo do período abrangido pela denúncia.
+A referência ao intervalo compreendido entre 1998 e 2002 define os limites temporais da imputação formulada pelo MPF, mas não impõe, por si só, a adoção do primeiro ano ali mencionado como termo inicial da contagem prescricional.
+Dessa forma, a mera circunstância de a denúncia ter atribuído ao paciente participação em esquema supostamente desenvolvido entre 1998 e 2002 não autoriza a seleção automática do marco temporal mais remoto — e mais favorável à defesa — dentre aqueles abrangidos pela imputação, tal como pretende a impetração.
+A definição do prazo prescricional exige, ainda, a correta identificação da pena de referência aplicável ao caso concreto, questão que passa a ser examinada.
+
+II. Da pena de referência para o cálculo prescricional: Súmula 497 do STF
+
+Assiste razão à defesa quanto à pena de referência a ser considerada para fins de cálculo prescricional.
+No caso concreto, o paciente foi condenado à pena definitiva de 11 (onze) anos, 1 (um) mês e 10 (dez) dias de reclusão pela prática do delito de peculato-desvio em continuidade delitiva. O montante final da reprimenda resultou da incidência da exasperação prevista no art. 71 do Código Penal.
+Conforme sustenta a impetração, antes da incidência do referido aumento, a pena fixada em desfavor do paciente correspondia a 6 (seis) anos e 8 (oito) meses de reclusão. A defesa afirma que esse é o quantum que deve ser adotado para fins de cálculo do prazo prescricional, considerado o teor da Súmula 497 desta Corte, segundo a qual:
+
+“No crime continuado, a prescrição regula-se pela pena imposta na sentença, não se computando o acréscimo decorrente da continuação.”
+
+Desse modo, para fins de aferição do prazo prescricional, deve ser desconsiderado o aumento decorrente da continuidade delitiva, devendo ser tomada como parâmetro a pena de 6 (seis) anos e 8 (oito) meses de reclusão.
+Considerada essa pena de referência, o prazo prescricional a ser aplicado, na espécie, corresponde a 12 (doze) anos, nos termos do art. 109, III, do Código Penal. Todavia, a correção dessa premissa não conduz, automaticamente, ao reconhecimento da prescrição.
+O ponto efetivamente controvertido consiste em definir a partir de qual marco temporal esse prazo de 12 (doze) anos deve ser contado.
+
+III. Da situação do corréu Neudo Ribeiro Campos e da incidência do art. 115 do Código Penal
+
+A defesa sustenta que a solução adotada pela Corte Especial do STJ em relação ao então Governador de Roraima Neudo Ribeiro Campos, corréu na AP 327/RR, deveria ser estendida ao paciente. Alega, em síntese, que eles foram denunciados no contexto da mesma imputação fática, fundada em fatos descritos como ocorridos entre 1998 e 2002, e que ambos fariam jus ao tratamento prescricional mais benéfico previsto no art. 115 do Código Penal, razão pela qual o reconhecimento da prescrição em favor daquele corréu deveria conduzir à mesma conclusão em benefício do ora paciente.
+A argumentação, contudo, não procede.
+O próprio acórdão condenatório esclarece os fundamentos que conduziram ao reconhecimento da prescrição em favor de Neudo Ribeiro Campos. Na oportunidade, a Corte Especial consignou expressamente:
+
+“DA PRESCRIÇÃO DA PRETENSÃO PUNITIVA EM RELAÇÃO AO RÉU NEUDO RIBEIRO CAMPOS
+Ocorreu a prescrição da pretensão punitiva pela pena em abstrato em relação ao réu Neudo Ribeiro Campos, pois completou 70 (setenta) anos em 1º/9/2016.
+O crime denunciado (peculato-desvio) prescreve em 16 (dezesseis) anos. No entanto, com o benefício da prescrição etária previsto no art. 115, do Código Penal, o prazo prescricional é reduzido à metade, ou seja, ao período de 8 (oito) anos.
+A denúncia foi parcialmente recebida em 16/11/2011 e descreve que os fatos teriam ocorrido entre 1998 e 2002. Ou seja, nos termos do art. 115, do Código Penal, transcorrido o período de mais de 8 (oito) anos entre os fatos denunciados e a data da assentada, deve ser reconhecida a prescrição da pretensão punitiva em relação ao réu Neudo Ribeiro Campos.” (eDOC 6, pp. 33-34, grifos nossos)
+
+Verifica-se, portanto, que a prescrição reconhecida em favor de Neudo Ribeiro Campos esteve diretamente relacionada à incidência do art. 115 do Código Penal, circunstância pessoal expressamente considerada pela Corte Especial. Trata-se de situação jurídica que não se projeta automaticamente sobre os demais acusados.
+A situação do paciente é distinta.
+Consta da Carta de Guia Definitiva que Henrique Manoel Fernandes Machado nasceu em 16.2.1950 (eDOC 8, p. 1). Por sua vez, o acórdão condenatório foi proferido em 18.12.2018 (eDOC 6). Assim, na data da primeira decisão condenatória nos autos da AP 327/RR, o paciente possuía 68 (sessenta e oito) anos de idade.
+Por outro lado, a própria Corte Especial consignou que Neudo Ribeiro Campos completou 70 (setenta) anos em 1º.9.2016, circunstância que autorizou a incidência do art. 115 do Código Penal e a consequente redução do prazo prescricional pela metade (eDOC 6).
+Não procede, portanto, a tese de que a única distinção entre os corréus residiria na utilização da pena em abstrato para um e da pena concretamente aplicada para outro. O próprio acórdão evidencia que a diferenciação adotada pela Corte Especial também decorreu da incidência do art. 115 do Código Penal em favor de Neudo Ribeiro Campos, circunstância pessoal relacionada à sua condição etária e inexistente em relação ao paciente quando do julgamento condenatório.
+Tal fato justifica tratamento prescricional diverso entre os corréus.
+Cumpre observar que, embora o paciente tenha completado 70 (setenta) anos em 16.2.2020, quando ainda pendiam de apreciação recursos interpostos pela defesa, os pronunciamentos jurisdicionais posteriores tiveram caráter meramente confirmatório. Não resultaram em nova condenação nem em alteração substancial do título condenatório formado pela Corte Especial.
+Nesse contexto, incide a orientação firmada pelo STF, no sentido de que a redução do prazo prescricional pela metade, prevista no artigo 115 do Código Penal, exige que o agente tenha completado 70 (setenta) anos de idade até a data da primeira sentença penal condenatória, não sendo aplicável o benefício se essa idade for atingida em momento posterior, inclusive na data de acórdão que meramente confirma a condenação (HC 107.398/RJ, de minha relatoria, Segunda Turma, DJe 24.5.2011; HC 1.033.206 AgR-AgR-EDv-AgR/SP, rel. Min. Dias Toffoli, Plenário, DJe 10.11.2020; HC 199.025 AgR/PR, rel. Min. Rosa Weber, Primeira Turma, DJe 7.6.2021; RHC 194.588 AgR/SP, rel. Min. André Mendonça, DJe 31.5.2022).
+Desse modo, não há falar em incompatibilidade lógica entre a solução conferida ao corréu Neudo Ribeiro Campos e aquela adotada em relação ao paciente. A diferença de tratamento decorreu da incidência de requisito legal específico, inexistente em favor de Henrique Manoel Fernandes Machado no momento em que proferida a primeira decisão condenatória.
+
+IV. Da inexistência de prescrição da pretensão punitiva estatal
+
+À luz das premissas anteriormente estabelecidas, não se constata a ocorrência da prescrição da pretensão punitiva estatal invocada pela defesa.
+Cumpre registrar, inicialmente, que a incidência da disciplina prescricional prevista no art. 110, §§ 1º e 2º, do Código Penal, em sua redação anterior à Lei 12.234/2010, não conduz, por si só, à extinção da punibilidade postulada pela defesa. Ainda que se admita a aplicação do regime jurídico vigente à época dos fatos, permanecem insubsistentes as premissas utilizadas pela impetração para sustentar a consumação da prescrição, notadamente a adoção automática do ano de 1998 como termo inicial da contagem e a alegada identidade de situação entre o paciente e o corréu Neudo Ribeiro Campos.
+Com base nas conclusões já expostas, verifica-se que:
+(i) a denúncia foi considerada apta pela Corte Especial, que reconheceu o atendimento dos requisitos previstos no art. 41 do Código de Processo Penal e afastou expressamente a alegação de imputação genérica;
+(ii) a circunstância de a denúncia delimitar os fatos ao período compreendido entre 1998 e 2002 não impõe, por si só, a adoção do ano de 1998 como termo inicial da contagem prescricional;
+(iii) a acusação e a posterior condenação foram estruturadas a partir da prática de condutas reiteradas ao longo do tempo, circunstância reconhecida pelo acórdão condenatório ao aplicar a continuidade delitiva prevista no art. 71 do Código Penal;
+(iv) a pena de referência para fins de cálculo da prescrição corresponde a 6 (seis) anos e 8 (oito) meses de reclusão, sem o acréscimo decorrente da continuidade delitiva (Súmula 497 do STF), incidindo o prazo prescricional de 12 (doze) anos (CP, art. 109, III);
+(v) a situação jurídica do corréu Neudo Ribeiro Campos não se confunde com a do paciente, uma vez que a prescrição reconhecida em seu favor decorreu da incidência da causa pessoal de redução prevista no art. 115 do Código Penal; e
+(vi) o paciente não possuía 70 (setenta) anos de idade quando proferida a primeira decisão condenatória nos autos da AP 327/RR, fato que afasta a incidência do benefício previsto no art. 115 do Código Penal, nos termos da jurisprudência desta Corte.
+Não se evidenciando causa extintiva da punibilidade apta a comprometer a higidez do título condenatório, a ordem não merece ser concedida.
+
+V. Do pedido subsidiário de prisão domiciliar humanitária
+
+Subsidiariamente, a impetração requer a concessão de prisão domiciliar humanitária em favor do paciente, ao argumento de que ele possui 76 (setenta e seis) anos de idade e é portador de graves enfermidades, dentre as quais cardiopatia grave, diabetes mellitus de difícil controle, hipertensão arterial sistêmica, dislipidemia e incontinência urinária persistente (eDOC 9).
+Os documentos médicos juntados aos autos evidenciam quadro clínico que efetivamente demanda atenção e acompanhamento contínuos.
+Não se ignora a relevância das condições de saúde relatadas pela defesa, tampouco a necessidade de que o cumprimento da pena ocorra em ambiente compatível com a dignidade da pessoa humana e com a preservação da integridade física do condenado.
+Ocorre que a análise acerca da adequação das condições de cumprimento da pena, da suficiência da assistência médica disponibilizada pelo sistema prisional e da eventual necessidade de substituição da prisão por recolhimento domiciliar demanda avaliação concreta e atualizada da situação do condenado, providência que demanda exame de elementos fáticos atualizados e das condições concretas da execução penal. Tais fatores extrapolam os limites cognitivos da via eleita, cabendo ao juízo da execução apreciá-los.
+Uma vez iniciado o cumprimento da reprimenda e instaurada a respectiva execução, compete a tal juízo acompanhar a situação pessoal do sentenciado e deliberar sobre medidas relacionadas à forma de execução da pena, inclusive sobre a eventual concessão de prisão domiciliar (Lei de Execução Penal, art. 117).
+Recomenda-se, contudo, que o juízo da execução penal proceda à apreciação prioritária de eventual requerimento relacionado ao estado de saúde do paciente, tendo em conta a documentação médica juntada aos autos, sua idade avançada e as particularidades do caso concreto.
+Ante o exposto, denego a ordem de habeas corpus.
+
+Publique-se.
+Brasília, 30 de setembro de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
