@@ -1,0 +1,62 @@
+Decisão
+
+Trata-se de Reclamação, com pedido de medida liminar, ajuizada pela Unimed Goiânia Cooperativa de Trabalho Médico em face de decisão proferida pelo Tribunal de Justiça do Estado de Goiás (Processo 5905661-54.2026.8.09.0051), que teria, em tese, negado vigência ao entendimento firmado pela CORTE no julgamento da ADI 7.265, Rel. Min. ROBERTO BARROSO.
+Na inicial, a parte autora expõe as seguintes alegações de fato e de direito (eDoc. 1):
+
+“Na origem, cuida-se de Ação de Obrigação de Fazer cumulada com pedido de tutela provisória de urgência autuada sob o nº 5618661-97.2026.8.09.0051, ajuizada por Carlindo Fernandes dos Reis em face da Unimed Goiânia Cooperativa de Trabalho Médico, perante a 21ª Vara Cível da Comarca de Goiânia/GO.
+O beneficiário noticiou ser beneficiário do plano de saúde e portador de adenocarcinoma pulmonar avançado e metastático, em estádio IV (cT4N3M1), com mutação somática KRAS G12C, tendo experimentado progressão clínica da doença após submissão à primeira linha sistêmica padronizada (Carboplatina, Pemetrexede e Pembrolizumabe). Pleiteou, com base na prescrição médica, o fornecimento ininterrupto do medicamento Sotorasibe (Lumakras®) 120 mg, na dosagem de 8 comprimidos diários (960 mg/dia), totalizando 240 comprimidos mensais, cujo valor atinge R$ 70.845,18 por mês e o custo anualizado de R$ 850.142,16.
+[...]
+A despeito da constatação técnica de que ausente o requisito do item 2, inciso (ii), da tese firmada na ADI nº 7.265, o Juízo da 21ª Vara Cível da Comarca de Goiânia deferiu a tutela de urgência no ev. 31. O fundamento determinante foi assim expresso:
+[...]
+Irresignada, a cooperativa interpôs o tempestivo Agravo de Instrumento nº 5905661-54.2026.8.09.0051 (distribuído à 9ª Câmara Cível do TJGO sob relatoria do Des. Antônio Cézar Meneses), sustentando a ausência manifesta dos requisitos da tutela de urgência, a vulneração do art. 300 do CPC, a irreversibilidade fática do provimento antecipado e a direta afronta à tese vinculante firmada por este Supremo Tribunal Federal na ADI nº 7.265/DF.
+Sobreveio, contudo, a r. decisão liminar proferida pelo Relator no dia 22/09/2026, indeferindo o efeito suspensivo vindicado. Para tanto, a autoridade reclamada chancelou expressamente a tese de que o art. 12, inciso II, alínea "g", da Lei nº 9.656/1998 consagraria uma ‘base jurídica autônoma’ de cobertura obrigatória mínima para tratamentos antineoplásicos orais domiciliares capaz de superar e afastar a deliberação administrativa da ANS de não incorporação da tecnologia, consignando que o juiz de piso ‘não desconsiderou esse dado, apenas dele divergiu’”
+
+Ao final, no mérito, requer “a procedência da Reclamação para, confirmando a liminar, cassar a decisão monocrática proferida no Agravo de Instrumento nº 5905661-54.2026.8.09.0051 e a decisão proferida no ev. 31 dos autos nº 5618661-97.2026.8.09.0051, determinando que outra seja proferida pelo Juízo de origem em estrita observância à tese firmada na ADI nº 7.265”.
+
+É o relatório. Decido.
+
+A respeito do cabimento de Reclamação para o SUPREMO TRIBUNAL FEDERAL, a Constituição da República dispõe o seguinte:
+
+“Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+I - processar e julgar, originariamente:
+[...]
+l) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;”
+
+“Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei;
+[...]
+§ 3º Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso.”
+
+Veja-se também o art. 988, I, II e III, do Código de Processo Civil:
+
+“Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;”
+
+O parâmetro de controle invocado é o entendimento firmado pela CORTE no julgamento da ADI 7.265, Rel. Min. ROBERTO BARROSO, em que se conferiu interpretação conforme à Constituição ao § 13 do art. 10 da Lei 9.656/1998, incluído pela Lei 14.454/2022, nos termos da seguinte Tese:
+
+“1. É constitucional a imposição legal de cobertura de tratamentos ou procedimentos fora do rol da ANS, desde que preenchidos os parâmetros técnicos e jurídicos fixados nesta decisão. 2. Em caso de tratamento ou procedimento não previsto no rol da ANS, a cobertura deverá ser autorizada pela operadora de planos de assistência à saúde, desde que preenchidos, cumulativamente, os seguintes requisitos:(i) prescrição por médico ou odontólogo assistente habilitado; (ii) inexistência de negativa expressa da ANS ou de pendência de análise em proposta de atualização do rol (PAR); (iii) ausência de alternativa terapêutica adequada para a condição do paciente no rol de procedimentos da ANS; (iv) comprovação de eficácia e segurança do tratamento à luz da medicina baseada em evidências de alto grau ou ATS, necessariamente respaldadas por evidências científicas de alto nível; e (v) existência de registro na Anvisa. 3. A ausência de inclusão de procedimento ou tratamento no rol da ANS impede, como regra geral, a sua concessão judicial, salvo quando preenchidos os requisitos previstos no item 2, demonstrados na forma do art. 373 do CPC. Sob pena de nulidade da decisão judicial, nos termos do art. 489, §1º, V e VI, e art. 927, III, §1º, do CPC, o Poder Judiciário, ao apreciar pedido de cobertura de procedimento ou tratamento não incluído no rol, deverá obrigatoriamente: (a) verificar se há prova do prévio requerimento à operadora de saúde, com a negativa, mora irrazoável ou omissão da operadora na autorização do tratamento não incorporado ao rol da ANS; (b) analisar o ato administrativo de não incorporação pela ANS à luz das circunstâncias do caso concreto e da legislação de regência, sem incursão no mérito técnico-administrativo; (c) aferir a presença dos requisitos previstos no item 2, a partir de consulta prévia ao Núcleo de Apoio Técnico do Poder Judiciário (NATJUS), sempre que disponível, ou a entes ou pessoas com expertise técnica, não podendo fundamentar sua decisão apenas em prescrição, relatório ou laudo médico apresentado pela parte; e (d) em caso de deferimento judicial do pedido, oficiar a ANS para avaliar a possibilidade de inclusão do tratamento no rol de cobertura obrigatória”.
+
+Na origem, trata-se de ação de obrigação de fazer ajuizada em face da Reclamante, por meio do qual a parte ora Beneficiária, diagnosticada com “adenocarcinoma de pulmão em estádio IV com mutação KRAS G12C”, pretende o fornecimento continuo do medicamento “Sotorasibe (Lumakras) 120 mg”.
+O Juízo da 21ª Vara Cível da Comarca de Goiânia deferiu o pedido de tutela de urgência realizado pela parte ora beneficiária para determinar que a ora Reclamante forneça “no prazo de 5 (cinco) dias úteis, o medicamento Sotorasibe (Lumakras®) 120 mg, na posologia indicada na prescrição médica constante dos autos, devendo o fornecimento ser mantido de forma contínua enquanto perdurar a necessidade clínica e houver prescrição médica vigente” (eDoc. 4, fl. 6).
+Interposto Agravo de Instrumento pela ora Reclamante, o Tribunal reclamado negou-lhe provimento, sob os seguintes fundamentos:
+
+“Trata-se de agravo de instrumento interposto por Unimed Goiânia Cooperativa de Trabalho Médico contra decisão do Juízo da 21ª Vara Cível da Comarca de Goiânia que deferiu a tutela de urgência para determinar o fornecimento contínuo do medicamento Sotorasibe (Lumakras) 120 mg em favor do agravado, portador de adenocarcinoma de pulmão em estádio IV com mutação KRAS G12C, sob multa diária de R$ 5.000,00.
+[...]
+No caso vertente, restrito à análise perfunctória do arrazoado e dos elementos até então produzidos, denota-se que o pedido de atribuição de efeito suspensivo não merece acolhimento.
+O Juízo a quo, antes de apreciar o pedido de tutela de urgência, determinou a remessa dos autos à Câmara de Saúde deste Tribunal, em estrita observância ao itinerário procedimental fixado pela ADI 7.265/DF. O órgão técnico, na Nota Técnica nº 42967/2026, reconheceu embasamento técnico e evidências científicas de qualidade para a indicação do fármaco ao perfil clínico e molecular do agravado, ao mesmo tempo em que consignou a existência da decisão de não incorporação pela ANS. A decisão agravada não desconsiderou esse dado, apenas dele divergiu, ao fundamentar o deferimento em base jurídica autônoma, o art. 12, II, g, da Lei nº 9.656/98, que estabelece cobertura mínima obrigatória para tratamentos antineoplásicos domiciliares de uso oral, entendimento que encontra amparo em jurisprudência do Superior Tribunal de Justiça.
+As reclamações constitucionais colacionadas pela agravante não autorizam, nesta fase, conclusão diversa. Na Reclamação nº 91.843/GO, cuja cópia integra os autos, o vício reconhecido pelo Supremo Tribunal Federal foi a recusa do colegiado goiano em sequer conhecer da tese da ADI 7.265/DF, suscitada de forma inédita em agravo interno. Situação distinta da que ora se examina, em que o Juízo de origem enfrentou expressamente a tese vinculante e a ela contrapôs fundamento legal próprio, com prévia consulta ao órgão técnico. A solidez da fundamentação adotada na origem é suficiente, neste juízo sumário, para afastar a probabilidade de provimento em grau que justifique a suspensão liminar dos efeitos da decisão.
+O risco de dano de difícil reparação pesa, no confronto entre os interesses em jogo, em desfavor da suspensão. De um lado, está a saúde de paciente idoso, com neoplasia pulmonar metastática em progressão documentada após falha de linha sistêmica anterior. De outro, está o interesse patrimonial de cooperativa de trabalho médico, cuja exposição financeira, ainda que relevante, já se encontra mitigada pela revisão trimestral da prescrição determinada na própria decisão agravada, e não se equipara, em termos de irreversibilidade, ao risco de agravamento clínico decorrente da interrupção do tratamento indicado pelo médico assistente.
+Registre-se, por fim, que o indeferimento do efeito suspensivo não implica prejulgamento do mérito recursal, que será oportunamente apreciado após a manifestação do agravado.
+Portanto, indefiro o pedido de atribuição de efeito suspensivo ao agravo.” (eDoc. 4, fls. 424-426)
+
+Logo, se vê que o Juízo reclamado, em juízo de cognição sumária e diante dos elementos probatórios apresentados nos autos, entendeu estarem preenchidos os requisitos necessários à manutenção do deferimento da medida liminar. Assim, para rever tal conclusão, seria necessário o reexame da matéria fático probatória, o que encontra óbice na jurisprudência pacífica desta CORTE no sentido de que “a reclamação não pode ser utilizada como sucedâneo de recurso ou de ações judiciais em geral, tampouco para reanálise de fatos e provas” (RCL 53.076 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 29/06/2022).
+Dessa forma, a postulação não passa de simples pedido de revisão do entendimento aplicado na origem, o que confirma a inviabilidade desta ação. Esta CORTE teve a oportunidade de afirmar que a Reclamação tem escopo bastante específico, não se prestando ao papel de simples substituto de recursos de natureza ordinária ou extraordinária (RCL 6.880 AgR, Rel. Min. CELSO DE MELLO, Plenário, DJe de 22/02/2013).
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO À RECLAMAÇÃO.
+Por fim, nos termos do art. 52, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, dispenso a remessa dos autos à Procuradoria-Geral da República.
+Publique-se.
+Brasília, 30 de setembro de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
