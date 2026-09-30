@@ -1,0 +1,40 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor Christian Borges da Silva contra decisão monocrática de Ministro do Superior Tribunal de Justiça, que indeferiu liminarmente o HC 1.126.668/RS. O referido ato jurisdicional foi proferido nos seguintes termos:
+
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de CHRISTIAN BORGES DA SILVA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL na Apelação Criminal n. 5150845-28.2022.8.21.0001.
+Depreende-se dos autos que o paciente foi inicialmente absolvido pelo Juízo da 12ª Vara Criminal do Foro Central da Comarca de Porto Alegre/RS da imputação da prática do crime de tráfico ilícito de entorpecentes (fls. 71-75).
+A acusação apelou ao Tribunal de origem, que deu parcial provimento ao recurso para condenar o paciente pelo delito do artigo 33, caput, da Lei n. 11.343/2006, fixando a pena em 7 (sete) anos, 11 (onze) meses e 8 (oito) dias de reclusão, em regime inicial fechado, além de 667 (seiscentos e sessenta e sete) dias-multa, mantidos os demais termos pertinentes (fls. 24-32).
+Na presente impetração, busca-se, em síntese, a concessão da ordem, inclusive liminarmente, para: (i) reconhecer a ilicitude da busca pessoal por ausência de fundada suspeita, declarando inadmissíveis as provas dela decorrentes; e (ii) restabelecer a sentença absolutória.
+A referida condenação transitou em julgado em 30/4/2025 (fl. 4).
+É o relatório.DECIDO.
+Conforme consta dos autos, a Defesa busca, em síntese, a concessão da ordem para que seja reconhecida a nulidade apontada, com a consequente absolvição do paciente.
+No entanto, o presente habeas corpus se volta contra um julgado transitado, imutável, enquanto abarcado pelo preceito constitucional da coisa julgada. Diante disso, não deve ser conhecido, pois foi utilizado como substituto de uma revisão criminal, em uma situação na qual não se configurou a competência originária desta Corte.
+De acordo com o artigo 105, inciso I, alínea “e”, da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, “as revisões criminais e as ações rescisórias de seus julgados”. Nessa linha: [...].
+De todo modo, cotejando as alegações deduzidas na inicial com a percuciente fundamentação contida no acórdão impugnado, não verifico a presença de teratologia ou coação ilegal que desafie a concessão da ordem, de ofício, nos termos do § 2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, indefiro liminarmente o presente habeas corpus, restando prejudicado o pedido de liminar. (doc. 15 – grifei).
+
+Neste writ, a impetrante requer:
+
+a) o deferimento da medida liminar, para suspender os efeitos da condenação imposta na Apelação Criminal n.º 5150845-28.2022.8.21.0001/RS e a execução penal n.º 8004203-30.2025.8.21.0001, expedindo-se alvará de soltura em favor do paciente, salvo se por outro motivo estiver preso; b) no mérito, o conhecimento e a concessão da ordem para reconhecer a ilicitude da busca pessoal realizada no paciente, por ausência de fundada suspeita anterior e objetivamente demonstrada, declarando-se inadmissíveis as provas diretamente obtidas e todas aquelas delas derivadas, nos termos do artigo 5º, inciso LVI, da Constituição Federal e do artigo 157, caput e § 1º, do Código de Processo Penal, cassando-se os acórdãos condenatórios e restabelecendo-se a sentença absolutória, com a expedição de alvará de soltura e a comunicação ao juízo da execução; c) subsidiariamente, caso não conhecida a impetração, a concessão da ordem de ofício, nos termos do artigo 654, § 2º, do Código de Processo Penal, para os mesmos fins. (doc. 1, pp. 9-10).
+
+É o relatório necessário. Decido.
+
+O art. 102, I, i, da Constituição Federal estabelece que a competência do Supremo Tribunal Federal para processar e julgar originariamente a ação constitucional do habeas corpus será inaugurada quando o coator for Tribunal Superior ou quando o coator ou o paciente for autoridade ou funcionário cujos atos estejam sujeitos diretamente à jurisdição desta Suprema Corte, ou se trate de crime sujeito à mesma jurisdição em uma única instância.
+
+Contudo, este habeas corpus, como visto, foi impetrado contra decisão monocrática de Ministro do Superior Tribunal de Justiça, que indeferiu liminarmente o HC 1.126.668/RS (doc. 15). Assim, no caso, a ausência da análise dos fundamentos constantes do ato coator por colegiado daquele Superior Tribunal impede o prosseguimento do writ por supressão de instância.
+
+Nessa mesma direção:
+
+Ementa AGRAVO REGIMENTAL. HABEAS CORPUS IMPETRADO CONTRA DECISÃO MONOCRÁTICA DE MINISTRO DO SUPERIOR TRIBUNAL DE JUSTIÇA. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE OU ABUSO DE PODER APTOS A PERMITIR A SUPERAÇÃO DESSE ÓBICE. AGRAVO AO QUAL SE NEGA PROVIMENTO. I. Caso em exame 1. Nulidades processuais. II. Questão em discussão 2. Pretendida anulação da ação penal. III. Razões de decidir 3. O art. 102, I, i, da Constituição Federal prescreve que a competência do Supremo Tribunal Federal para processar e julgar originariamente a ação constitucional do habeas corpus será inaugurada quando o coator for Tribunal Superior ou quando o coator ou o paciente for autoridade ou funcionário cujos atos estejam sujeitos diretamente à jurisdição do Supremo Tribunal Federal, ou se trate de crime sujeito à mesma jurisdição em uma única instância. No caso, este habeas corpus foi impetrado contra decisão monocrática de Ministro do Superior Tribunal de Justiça. 4. Ausentes ilegalidade flagrante ou abuso de poder aptos a permitir a superação do óbice acima indicado. IV. Dispositivo 5. Agravo regimental ao qual se nega provimento. (HC 246.735 AgR/SP, da minha relatoria, Primeira Turma, DJe 30/10/2024 – grifei)
+
+Ementa AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO VOLTADA CONTRA DECISÃO MONOCRÁTICA DE MINISTRO DE TRIBUNAL SUPERIOR. IMPOSSIBILIDADE DE SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE ILEGALIDADE. PRECEDENTES. 1. Incidência de óbice ao conhecimento da ordem impetrada neste SUPREMO TRIBUNAL FEDERAL, uma vez que se impugna decisão monocrática de Ministro do Superior Tribunal de Justiça (HC 219.841-AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 6/10/2022; HC 219.672-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 6/10/2022; HC 216.953-AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 29/9/2022; HC 217.751-AgR, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe de 27/9/2022; HC 208.035-AgR, Rel. Min. EDSON FACHIN, Segunda Turma, DJe de 21/9/2022; RHC 213.550-AgR, Rel. Min. ANDRÉ MENDONÇA, Segunda Turma, DJe de 1º/9/2022; HC 216.979-AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 25/8/2022; HC 216.955-AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 25/8/2022; HC 217.067-AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 24/8/2022; RHC 214.783-AgR, Rel. Min. NUNES MARQUES, Segunda Turma, DJe de 4/8/2022). 2. O exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do SUPREMO TRIBUNAL FEDERAL, conforme vem sendo reiteradamente proclamado por esta CORTE (HC 211.364-AgR, Rel. Min. EDSON FACHIN, Segunda Turma, DJe de 24/8/2022; HC 172.384, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 10/2/2021; HC 180.895-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 18/6/2020; HC 262.350, Rel. p/ Acórdão: Min. ROSA WEBER, Primeira Turma, DJe de 30/8/2019). 3. Inexistência de teratologia ou caso excepcional caracterizadores de flagrante constrangimento ilegal. 4. Agravo Regimental a que se nega provimento. (HC 228.736 AgR/BA, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe de 27/6/2023 – grifei).
+
+Para além disso, registro que não verifiquei, nos autos, nenhuma ilegalidade flagrante, teratologia ou abuso de poder aptos a permitir a superação do óbice acima indicado. Nesse contexto, ressalto a inviabilidade do writ como sucedâneo de revisão criminal.
+
+Ante o exposto, nego seguimento ao habeas corpus (art. 21, § 1°, do Regimento Interno do Supremo Tribunal Federal).
+
+Publique-se.
+
+Brasília, 30 de setembro de 2026.
+
+Ministro Cristiano Zanin
+Relator
