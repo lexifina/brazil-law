@@ -27,7 +27,7 @@ Do Crédito Rural
 CAPÍTULO XIV
 Do Crédito Fundiário
 CAPÍTULO XV
-Do Seguro Agrícola
+DO SEGURO RURAL
 CAPÍTULO XVI
 Da Garantia da Atividade Agropecuária
 CAPÍTULO XVII
