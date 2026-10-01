@@ -1,0 +1,21 @@
+DESIS no AGRAVO EM RECURSO ESPECIAL Nº 3383517 - MA (2026/0380601-8)
+
+RELATOR: MINISTRO PRESIDENTE DO STJ
+
+REQUERENTE: VICTOR HUGO SANTOS COSTA
+
+ADVOGADO: JORDAN VIECELI - PR074764
+
+REQUERIDO: ESTADO DO MARANHÃO
+
+EMENTA
+
+DECISÃO
+
+Homologo a desistência do Agravo em Recurso Especial (fl. 808 ) interposto nos presentes autos por VICTOR HUGO SANTOS COSTA.
+Publique-se. Intimem-se.
+
+Brasília, 01 de outubro de 2026.
+
+MINISTRO LUIS FELIPE SALOMÃO
+Presidente
