@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/09/2026 a 01/10/2026, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Sebastião Reis Júnior.
+Os Srs. Ministros Rogerio Schietti Cruz, Carlos Pires Brandão, Nilsoni de Freitas (Desembargadora Convocada do TJDFT) e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+PROCESSUAL PENAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. TESE DE ILICITUDE DA BUSCA DOMICILIAR. ACÓRDÃO RECORRIDO AMPARADO EM FUNDAMENTO CONSTITUCIONAL AUTÔNOMO. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. BUSCA PESSOAL. FUNDADA SUSPEITA. EVASÃO AO AVISTAR GUARNIÇÃO POLICIAL. APREENSÃO DE ENTORPECENTES. LICITUDE DA PROVA.
+1. Não se conhece da insurgência relativa à alegada ilicitude do ingresso domiciliar quando o acórdão recorrido mantém a legalidade da diligência com fundamento autônomo de natureza constitucional, calcado no art. 5º, XI, da Constituição Federal e na jurisprudência do Supremo Tribunal Federal, sem que tenha sido interposto recurso extraordinário. Incidência da Súmula 126/STJ.
+2. É lícita a busca pessoal realizada quando precedida de elementos concretos aptos a caracterizar fundada suspeita da posse de corpo de delito, nos termos do art. 244 do CPP.
+3. A fuga do agente ao avistar guarnição policial constitui circunstância objetiva apta a justificar a realização de busca pessoal. Precedente da Terceira Seção.
+4. Hipótese em que a abordagem ocorreu após o recorrente interromper abruptamente seu trajeto e empreender evasão a pé ao perceber a aproximação da viatura policial.
+5. Recurso especial parcialmente conhecido e, nessa extensão, improvido.
+RELATÓRIO
+Trata-se de recurso especial interposto por FABIANO CARLOS RAMIRES, fundado no art. 105, III, a, da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça de Santa Catarina no julgamento da Apelação Criminal n. 5002212-29.2025.8.24.0505/SC assim ementado (fls. 192/193):
+DIREITO PENAL E PROCESSUAL PENAL. APELAÇÃO. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA. DESPROVIMENTO.
+I. CASO EM EXAME
+1. Recurso de apelação da defesa contra sentença que condenou o réu à pena privativa de liberdade de 6 (seis) anos, 9 (nove) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, além de 583 (quinhentos e oitenta e três) dias-multa, no valor mínimo legal, por infração ao disposto no art. 33, caput, da Lei n. 11.343/06.
+II. QUESTÃO EM DISCUSSÃO
+2. As questões em discussão consistem em aferir se (i) a busca pessoal e a posterior incursão domiciliar são ilegais, maculando as provas; (ii) há cerceamento de defesa decorrente da negativa de oitiva de testemunha apta a contrapor a versão dos policiais; e (iii) subsiste bis in idem pela valoração negativa dos antecedentes e aplicação da agravante da reincidência
+III. RAZÕES DE DECIDIR
+3. Fundadas suspeitas consubstanciadas pelo contexto fático-probatório. Militares que, durante patrulhamento em região alvo de informes do tráfico, depararam-se com atitude suspeita do réu, que, ao perceber a presença policial, abandonou sua motocicleta e empreendeu fuga a pé. Cenário capaz de legitimar a ação da polícia militar, cuja função constitucional é o patrulhamento ostensivo para preservação da ordem pública.
+4. A justa causa para ingresso na residência não exige a certeza da ocorrência de delito, mas fundadas razões a respeito. Acusado que, após praticar conduta evidentemente suspeita, foi abordado com nove porções de cocaína, com peso de 9g. Ademais, a versão do réu é pouco crível e o resultado da ação confirmou as fundadas razões, com a apreensão de drogas variadas e petrechos. Ação policial fundamentada em cenário que concebe, de modo tangível, as fundadas razões para invasão do domicílio.
+5. A testemunha indicada pela defesa deveria ter sido arrolada na defesa prévia, já que não se trata de prova nova ou descoberta após a audiência de instrução de julgamento. De relevo pontuar que o réu, já na fase indiciária, inequivocamente conhecia a testemunha, inclusive seu local de trabalho e fatores para sua identificação. Além do momento impertinente para o requerimento, não se vislumbra prejuízo, na medida em que a testemunha referida não visualizou o preciso instante da abordagem que ensejou na apreensão das porções de cocaína.
+6. Infere-se que a sentença recorreu a um título condenatório para elevar a pena-base e a outro para majorá-la na fase subsequente, inexistindo, por conseguinte, violação ao princípio da vedação ao bis in idem.
+IV. DISPOSITIVO
+7. Recurso conhecido e desprovido.
+A parte recorrente aponta violação dos arts. 157, § 1º, 240, § 1º e § 2º, 244 e 245, todos do Código de Processo Penal (fls. 208/222).
+Contrarrazões juntadas às fls. 223/228, o recurso foi admitido na origem (fls. 229/232).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opina pelo não conhecimento do recurso, conforme parecer assim ementado (fl. 242):
+Recurso especial. Tráfico de drogas. i) Tese da defesa reside na nulidade na busca pessoal e domiciliar pela falta de fundadas razões na abordagem policial. ii) Fundadas suspeitas foram reconhecidas no âmbito do processo de forma singular e colegiada, sendo inviável reexame do acervo fático-probatório que fundamenta a condenação, já devidamente apreciado pelas instâncias originárias (Súmula 7/STJ). iii) Parecer pelo não conhecimento do recurso.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. TESE DE ILICITUDE DA BUSCA DOMICILIAR. ACÓRDÃO RECORRIDO AMPARADO EM FUNDAMENTO CONSTITUCIONAL AUTÔNOMO. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. BUSCA PESSOAL. FUNDADA SUSPEITA. EVASÃO AO AVISTAR GUARNIÇÃO POLICIAL. APREENSÃO DE ENTORPECENTES. LICITUDE DA PROVA.
+1. Não se conhece da insurgência relativa à alegada ilicitude do ingresso domiciliar quando o acórdão recorrido mantém a legalidade da diligência com fundamento autônomo de natureza constitucional, calcado no art. 5º, XI, da Constituição Federal e na jurisprudência do Supremo Tribunal Federal, sem que tenha sido interposto recurso extraordinário. Incidência da Súmula 126/STJ.
+2. É lícita a busca pessoal realizada quando precedida de elementos concretos aptos a caracterizar fundada suspeita da posse de corpo de delito, nos termos do art. 244 do CPP.
+3. A fuga do agente ao avistar guarnição policial constitui circunstância objetiva apta a justificar a realização de busca pessoal. Precedente da Terceira Seção.
+4. Hipótese em que a abordagem ocorreu após o recorrente interromper abruptamente seu trajeto e empreender evasão a pé ao perceber a aproximação da viatura policial.
+5. Recurso especial parcialmente conhecido e, nessa extensão, improvido.
+VOTO
+O recurso especial tem origem em ação penal por tráfico de drogas. O recorrente foi condenado à pena de 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado, e 583 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006, após apreensões decorrentes de busca pessoal e ingresso domiciliar, cuja legalidade foi mantida pelo Tribunal de origem (fls. 186/191 e 192/193).
+A petição recursal sustenta a ilicitude das provas obtidas em busca pessoal e domiciliar, apontando violação dos arts. 157, § 1º, 240, § 1º e § 2º, 244 e 245, todos do Código de Processo Penal (fls. 208/222).
+Inicialmente, cumpre registrar que a controvérsia relativa à licitude do ingresso domiciliar foi solucionada pelo Tribunal de origem também à luz do art. 5º, XI, da Constituição Federal, reputando presentes as fundadas razões aptas a justificar a mitigação da garantia constitucional da inviolabilidade do domicílio, fundamento autônomo e suficiente à manutenção do acórdão recorrido (fl. 188 - grifo nosso):
+..
+2.2 Incursão domiciliar
+Em preliminar a defesa também pretende a ilegalidade da incursão domiciliar, pois, consoante afirma, os policiais não obtiveram assentimento pessoal para a medida, nos termos do relatado pela testemunha Ana Clara e demonstrado pelas imagens do circuito interno de segurança da residência. Acrescenta que "Não há investigação previa; Não há denuncia, mesma que anônima; Não há prisões anteriores no local, ou chamado do 190", o que reforça a ausência de fundadas razões.
+Sem razão, todavia.
+De acordo com o art. 5º, XI, da Constituição, "a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial".
+O Supremo Tribunal Federal determinou que o ingresso policial em domicílio, sem mandado judicial, é possível, mesmo em período noturno, contanto que haja fundadas razões, consubstanciadas em elementos probatórios mínimos que indiquem flagrante delito, devidamente justificadas a posteriori (Tema n. 280, STF).
+..
+Ausente a interposição de recurso extraordinário para impugnar o fundamento de índole constitucional adotado pelo Tribunal de origem, incide, no ponto, o óbice da Súmula 126/STJ.
+De outra parte, no tocante à suposta ilicitude da prova obtida em busca pessoal, a insurgência é admissível, mas, no mérito, não merece acolhida.
+Colhe-se da moldura fática delineada no acórdão atacado que a busca pessoal somente foi levada a efeito diante de indícios concretos de que o recorrente poderia portar consigo corpo de delito, convicção essa extraída não de mera percepção subjetiva dos policiais, mas de um comportamento anômalo concreto que precedeu a abordagem, inclusive evasão a pé (fl. 187 - grifo nosso):
+..
+Assentadas tais premissas, na hipótese em tela, verifica-se que não há ilegalidade na busca pessoal. Durante atividade de patrulhamento direcionado à apuração de denúncias relacionadas ao narcotráfico na região, os policiais militares avistaram o recorrente conduzindo motocicleta. Ao perceber a aproximação da viatura policial, o réu interrompeu abruptamente o trajeto, ocasião em que estacionou o veículo defronte a uma barbearia - local já referido em denúncias anteriores vinculadas ao comércio ilícito -, e empreendeu evasão a pé, justificando a perseguição policial diante da evidente conduta suspeita. Alcançado no interior de um bar, os agentes procederam com a busca pessoal, medida que resultou na apreensão de 9 (nove) porções de cocaína, com cerca de 9g, já individualizadas para a comercialização, além de R$ 150,00 (cento e cinquenta reais) em espécie.
+..
+Esse cenário, notadamente a fuga verificada ao avistar guarnição policial, consubstancia elemento concreto apto a justificar a busca pessoal:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. BUSCA PESSOAL. FUGA AO AVISTAR GUARNIÇÃO POLICIAL. FUNDADA SUSPEITA DA POSSE DE CORPO DE DELITO. PROVA LÍCITA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Com relação à busca pessoal, sabe-se que esta Corte Superior a equipara à busca pessoal e que o art. 244 do CPP assevera que: "A busca pessoal independerá de mandado, no caso de prisão ou quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito, ou quando a medida for determinada no curso de busca domiciliar".
+2. Em sessão realizada no dia 18/4/2024, a Terceira Seção desta Corte Superior de Justiça, por ocasião do julgamento do HC n. 877.943/MS (Rel. Ministro Rogerio Schietti), decidiu que a conduta de fugir correndo repentinamente ao avistar uma guarnição policial preenche o requisito de fundada suspeita de corpo de delito para a realização de uma busca pessoal em via pública, nos termos do art. 244 do CPP.
+3. No caso, os autos evidenciam que a revista pessoal foi precedida de fundada suspeita da posse de corpo de delito, uma vez que o acusado, ao visualizar a chegada da guarnição policial, empreendeu fuga e foi alcançado, motivo pelo qual os agentes realizaram a revista e encontraram a droga apreendida.
+4. Agravo regimental não provido.
+(AgRg no REsp n. 2.265.722/PA, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/6/2026, DJEN de 22/6/2026 - grifo nosso).
+No mesmo sentido, confiram-se: AgRg no AREsp n. 3.146.003/GO, relatora Ministra Nilsoni de Freitas (Desembargadora Convocada do TJDFT), Sexta Turma, julgado em 4/8/2026, DJEN de 14/8/2026; e AgRg no AREsp n. 2.734.218/TO, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 9/6/2026, DJEN de 24/6/2026.
+Logo, evidenciada a existência de fundada suspeita da posse de corpo de delito, nos termos do art. 244 do CPP e da orientação firmada pela Terceira Seção desta Corte, não há falar em ilicitude da prova obtida mediante busca pessoal
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
