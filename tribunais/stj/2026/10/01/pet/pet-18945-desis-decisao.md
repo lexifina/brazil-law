@@ -1,0 +1,30 @@
+DESIS na PETIÇÃO Nº 18945 - SP (2026/0110654-2)
+
+RELATOR: MINISTRO PRESIDENTE DO STJ
+
+REQUERENTE: NELSON CLARO PAULINO
+
+ADVOGADOS: PAULO LOURENCO SOBRINHO - SP042942
+
+MARCELO APARECIDO PAES CAPUANO - SP467859
+
+REQUERIDO: AVL ADMINISTRACAO DE BENS LTDA
+
+REQUERIDO: ANDRE VINICIUS LIVRIERI
+
+ADVOGADOS: ALEX RODRIGUES DE JESUS - SP356605
+
+PAULO ROGÉRIO NARDINO - SP372343
+
+EMENTA
+
+DECISÃO
+
+A parte, NELSO CLARO PAULINO, requer a desistência da ação (fl. 134).
+Visto que ainda não houve citação, homologo a desistência da Petição , extinguindo o processo sem resolução de mérito (art. 485, VIII, do Código de Processo Civil).
+Publique-se. Intimem-se.
+
+Brasília, 01 de outubro de 2026.
+
+MINISTRO LUIS FELIPE SALOMÃO
+Presidente
