@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/09/2026 a 01/10/2026, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Teodoro Silva Santos.
+EMENTA
+PROCESSO CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. MINUTA QUE NÃO INFIRMA ESPECIFICAMENTE FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. A parte agravante, no agravo em recurso especial, deixou de impugnar, de forma específica, fundamento da decisão que não admitiu o recurso especial na origem. Incidência da Súmula n. 182 do STJ.
+2. Agravo em recurso especial não conhecido.
+RELATÓRIO
+Trata-se de agravo de JOAO RODRIGUES PEREIRA da decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Cível n. 5002978-73.2024.4.03.6119 e assim ementado (fls. 722-723):
+DIREITO PREVIDENCIÁRIO. REVISÃO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. ELETRICIDADE. ATIVIDADE ESPECIAL NÃO COMPROVADA. PERÍODO RECONHECIDO JUDICIALMENTE. MAJORAÇÃO DA RMI. TERMO INICIAL DOS EFEITOS FINANCEIROS.
+I. Caso em exame
+1. Trata-se de ação previdenciária ajuizada por JOÃO RODRIGUES PEREIRA em face do INSTITUTO. NACIONAL DO SEGURO SOCIAL-INSS, objetivando a revisão de benefício de aposentadoria por tempo de contribuição (NB 42/180.818.828-1 - DIB 27/11/2017 e DIP 23/05/2019), mediante o reconhecimento de atividade especial por enquadramento de categoria profissional exercida na qualidade de "ajudante de eletricista" e "eletricista", nos períodos de 10/02/1978 a 09/05/1978, 10/05/1978 a 09/08/1978, 10/08/1978 a 09/11/1978, 10/11/1978 a 09/02/1979, 10/02/1979 a 08/05/1979, 10/05/1979 a 08/08/1979, 10/08/1979 a 08/11/1979, 10/11/1979 a 08/02/1980, 11/02/1980 a 10/05/1980, 12/05/1980 a 02/08/1980, 04/08/1980 a 10/08/1981 e de 02/03/1982 a 02/06/1982, com a majoração da renda mensal inicial.
+2. Pedido de fixação dos honorários nos termos da Súmula 111 STF e pedido de isenção de custas não conhecidos, haja vista que a r. sentença dispôs no mesmo sentido da pretensão do réu.
+3. Não há que se falar em suspensão do feito em razão do julgado RE 1368225/RS, tendo em vista que a matéria ali versada diz respeito ao reconhecimento da especialidade da profissão de "vigilante", com fundamento na exposição a perigo, diferente da profissão desempenhada pelo autor.
+4. Considerando que a parte autora já recebe aposentadoria por tempo de contribuição, resta incontroverso o cumprimento dos requisitos exigidos pela Lei nº 8.213/91. Note-se que os períodos de 08/06/1982 a 01/12/1986, 11/05/1987 a 25/10/1990 e de 01/06/1995 a 05/03/1997 foram enquadrados como atividade especial na esfera judicial (processo 5002452-82.2019.403.6119 com trânsito em julgado em 08/11/2021), motivo pelo qual restam incontroversos.
+5. A controvérsia nos presentes autos refere-se, portanto, ao reconhecimento do exercício de atividade especial por enquadramento de categoria profissional nos períodos de 10/02/1978 a 09/05/1978, 10/05/1978 a 09/08/1978, 10/08/1978 a 09/11/1978, 10/11/1978 a 09/02/1979, 10/02/1979 a 08/05/1979, 10/05/1979 a 08/08/1979, 10/08/1979 a 08/11/1979, 10/11/1979 a 08/02/1980, 11/02/1980 a 10/05/1980, 12/05/1980 a 02/08/1980, 04/08/1980 a 10/08/1981 e de 02/03/1982 a 02/06/1982, bem como a possibilidade de majoração da renda mensal inicial. II. Questão em discussão
+6. Questões em discussão: (i) possibilidade (ou não) de manutenção do reconhecimento de atividade especial efetuado em primeiro grau; (ii) majoração da RMI; (iii) fixação do termo inicial dos efeitos financeiros; e (iv) consectários legais. III. Razões de decidir
+7. No presente caso, da análise dos documentos acostados aos autos, e de acordo com a legislação previdenciária vigente à época, a parte autora não comprovou o exercício de atividade especial nos períodos requeridos, uma vez que não restou demonstrada a exposição a tensão superior a 250V.(e-STJ Fl.722) Documento recebido eletronicamente da origem
+8. Computando-se o tempo de serviço comum laborado até a data do requerimento administrativo (27/11/2017), somados aos períodos especiais incontroversos reconhecidos em âmbito judicial (08/06/1982 a 01/12/1986, 11/05/1987 a 25/10/1990 e de 01/06/1995 a 05/03/1997), verifica-se que a parte autora comprovou o exercício de atividades consideradas especiais por um período de 37 (trinta e sete) anos e 09 (nove) dias, razão pela qual preenche os requisitos para revisão do benefício, com majoração da renda mensal inicial.
+9. No tocante ao termo inicial dos efeitos da revisão, tendo em vista entre a a data de pagamento administrativo do benefício original (27/06/2019) e o ajuizamento da ação (26/04/2024) não transcorreram 5 (cinco) anos, não há que se falar em prescrição, sendo devida sua fixação na data do requerimento administrativo (27/11/2017).
+10. Consigne-se os termos da tese firmada no julgamento do Tema 709 pelo C. Supremo Tribunal Federal, ressalvando que deve haver devolução das parcelas que eventualmente forem pagas entre a implantação e a referida cessação.
+IV. Dispositivo e tese
+11. Apelação do INSS conhecida em parte e parcialmente provida. Apelação do autor provida.
+Opostos embargos de declaração, foram rejeitados (fls. 755-756).
+Nas razões do apelo nobre, interposto com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, a parte recorrente alega, além de divergência jurisprudencial, violação dos arts. 485, inciso IV, e 486, ambos do Código de Processo Civil, bem como ao Tema n. 629 do Superior Tribunal de Justiça. Para tanto, aduz que (fl. 769):
+e ntende o Recorrente que, se a CTPS não é prova apta a comprovar a especialidade da exposição a eletricidade, os pedidos relativos aos períodos citados devem ser extintos sem resolução de mérito por aplicação extensiva da Tese firmada por este Egrégio Tribunal no Tema 629.
+Inadmitido o recurso pela incidência do óbice da Súmula n. 7 do Superior Tribunal de Justiça (fls. 818-820), seguiu-se o presente agravo em recurso especial (fls. 821-828), sem apresentação de contraminuta.
+É o relatório.
+EMENTA
+PROCESSO CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. MINUTA QUE NÃO INFIRMA ESPECIFICAMENTE FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. A parte agravante, no agravo em recurso especial, deixou de impugnar, de forma específica, fundamento da decisão que não admitiu o recurso especial na origem. Incidência da Súmula n. 182 do STJ.
+2. Agravo em recurso especial não conhecido.
+VOTO
+O agravo não comporta conhecimento.
+O Tribunal de origem não admitiu o apelo nobre em razão da incidência da Súmula n. 7 do STJ.
+Contudo, a parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório, não tendo esclarecido, à luz da tese veiculada no apelo nobre, qual seja, "considerar que a ausência de prova da especialidade implica em ausência dos pressupostos de constituição e desenvolvimento válido e regular do processo" (fl. 767 ), de que maneira não seria necessária a incursão ao campo fático-probatório.
+Para buscar afastar a incidência da Súmula n. 7 do STJ, deve a parte cotejar a moldura fática incontroversa do acórdão recorrido com as teses por ele suscitadas, demonstrando de que forma o seu exame prescindiria da análise de elementos probantes, tal como explicitado na decisão que não admitiu o recurso especial. A propósito:
+..
+5. A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial.
+(AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021).
+Agravo interno improvido.
+(AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+..
+5. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial, ainda que autônomos, impede o conhecimento do respectivo agravo consoante preceituam os arts. 253, I, do RISTJ e 932, III, do CPC/2015 e a Súmula 182 do STJ, aplicável por analogia.
+6. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial; correta, portanto, a incidência na espécie do enunciado da Súmula 182 do STJ.
+7. Afinal, inadmitido o recurso especial com base na Súmula 7 do STJ, não é suficiente a afirmação genérica de que é desnecessário o reexame de provas, ainda que seja feita uma breve menção à tese sustentada, ou simplesmente a insistência no mérito da controvérsia. É indispensável o cotejo entre o acórdão recorrido e a argumentação trazida no recurso especial que possa justificar o afastamento do óbice processual em questão.
+8. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.983.212/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/3/2023, DJe de 17/3/2023.)
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do Código de Processo Civil). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ. Nesse sentido:
+..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNADO DE FORMA ESPECÍFICA O FUNDAMENTO DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA N. 182 DO STJ. SÚMULA N. 7 DO STJ. INSURGÊNCIA GENÉRICA. HONORÁRIOS RECURSAIS. AFRONTA AO PRINCÍPIO DA DIALETICIDADE. AGRAVO INTERNO PARCIALMENTE CONHECIDO E DESPROVIDO.
+1. A parte Agravante, no agravo em recurso especial, deixou de impugnar, de forma específica, um dos fundamentos da decisão que não admitiu o recurso especial na origem, qual seja, o óbice previsto na Súmula n. 7 do STJ. Incidência da Súmula n. 182 do STJ.
+2. Conforme remansosa jurisprudência desta Corte, " a impugnação da Súmula 7 do STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica por ele conferida e a apreciação jurídica que lhes deveria ter sido efetivamente atribuída. .. O Recurso daí proveniente deveria se esmerar não em simplesmente reiterar as razões do Recurso Especial ou os argumentos referentes ao mérito da controvérsia, mas em demonstrar efetivamente que a referida Súmula não se aplica ao caso concreto e que, portanto, seria desnecessário revolver o acervo fático-probatório dos autos para a análise da insurgência" (AgInt no AREsp n. 2.371.208/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+3. Ao final da peça recursal, a Recorrente limita-se em postular a exclusão dos honorários recursais sem antes apontar o equívoco da decisão recorrida. Não se indicam, conforme exige o princípio da dialeticidade, os pressupostos fáticos e jurídicos que, no caso, desautorizariam a majoração dos honorários advocatícios sucumbenciais, razão pela qual o pedido subsidiário é incognoscível.
+4. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+(AgInt no AREsp 2346013/SP, relator Mini stro Teodoro Silva Santos, DJe 22/8/2024.)
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 729), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como a concessão da gratuidade de justiça.
+É o voto.
