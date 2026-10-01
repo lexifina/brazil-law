@@ -1,0 +1,86 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOSEFA PINTO DE OLIVEIRA contra decisão que inadmitiu seu recurso especial, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de Sergipe, assim ementado:
+DIREITO PROCESSUAL CIVIL. APELAÇÃO CÍVEL. PRESCRIÇÃO INTERCORRENTE. CUMPRIMENTO DE SENTENÇA ORIUNDO DE AÇÃO MONITÓRIA. LEI Nº 14.195/2021. IRRETROATIVIDADE DA LEI PROCESSUAL. SENTENÇA ANULADA. RECURSO PROVIDO.
+I. CASO EM EXAME
+Apelação cível interposta por instituição financeira contra sentença proferida em cumprimento de sentença oriundo de ação monitória. O Juízo de origem reconheceu a prescrição intercorrente e extinguiu o feito com resolução de mérito, nos termos do art. 487, II, do CPC. O apelante sustentou a inexistência de prescrição intercorrente, ao argumento de que promoveu regularmente o andamento do feito e que não houve suspensão processual superior a um ano em razão da ausência de bens penhoráveis, pugnando pela anulação da sentença e regular prosseguimento da execução.
+II. QUESTÃO EM DISCUSSÃO
+Discute-se se, diante dos marcos temporais da suspensão e arquivamento do processo, seria aplicável a prescrição intercorrente prevista no art. 921, §4º, do CPC, com redação dada pela Lei nº 14.195/2021, e se tal norma teria aplicação retroativa ao processo em curso.
+III. RAZÕES DE DECIDIR
+A Lei nº 14.195/2021 introduziu alterações no art. 921, §4º, do CPC, estabelecendo que o termo inicial da prescrição no curso da execução corresponde à ciência da primeira tentativa infrutífera de localização do devedor ou de bens penhoráveis.
+Todavia, a legislação processual não retroage para alcançar situações jurídicas já consolidadas antes de sua vigência, conforme o princípio da irretroatividade das normas processuais (art. 14 do CPC). No caso, os marcos temporais indicados suspensão em 21/01/2014 e arquivamento em 04/06/2019 antecedem a alteração legislativa, de modo que não se pode aplicar retroativamente a nova disciplina da prescrição intercorrente. Ausente, pois, a configuração de prescrição, impõe-se a anulação da sentença recorrida.
+IV. DISPOSITIVO E TESE R
+ecurso provido. Sentença anulada, com retorno dos autos ao Juízo de origem para regular prosseguimento do cumprimento de sentença.
+Tese de julgamento: A Lei nº 14.195/2021, ao alterar a disciplina da prescrição intercorrente no art. 921, §4º, do CPC, possui aplicabilidade imediata, mas não retroativa, de modo que não incide sobre processos suspensos ou arquivados antes de sua vigência. (fls. 299-300)
+Em seu recurso especial, a parte recorrente alega violação dos arts. 921, 924, V e 1.056, do CPC, bem como divergência jurisprudencial, afirmando isto: (I) "O Acórdão recorrido, ao afastar a prescrição intercorrente, violou frontalmente a legislação federal, especificamente a regra de transição prevista no art. 1.056 do CPC/15. O voto condutor (maioria) entendeu que a prescrição não ocorreu porque a Lei 14.195/2021 não retroage. Todavia, essa interpretação ignora que a prescrição se consumou sob a vigência da regra anterior e da regra de transição do CPC de 2015, antes mesmo da edição da Lei 14.195/2021" (fl. 322); (II) "(..) a jurisprudência desta Corte Superior é firme no sentido de que diligências infrutíferas não interrompem a prescrição intercorrente, pois esta decorre da ineficácia do processo e não apenas da inércia da parte (AgInt no REsp 2.113.875/BA)" (fl. 324).
+É o relatório.
+Extrai-se dos autos que, na origem, o BANCO DO ESTADO DE SERGIPE S/A alegou a existência de contrato de abertura de crédito em conta-corrente (cheque especial) firmado em 13/04/2004, com inadimplência desde 30/12/2004, cujo débito atualizado em 16/06/2008 seria de R$33.132,78. Diante do não pagamento, o autor propôs Ação Monitória contra JOSEFA PINTO DE OLIVEIRA, requerendo a constituição de título executivo judicial na hipótese de ausência de pagamento ou de embargos.
+O juízo de primeiro grau reconheceu a prescrição intercorrente e extinguiu o processo com resolução de mérito, à luz do art. 487, II, do CPC, aplicando o art. 921, com seus §§, e destacando a suspensão em 21/01/2014 e o arquivamento em 04/06/2019, sem atos processuais úteis posteriores, além de afastar ônus sucumbenciais em razão da superveniência da Lei 14.195/2021.
+No acórdão, o Tribunal de Justiça do Estado de Sergipe deu provimento à apelação do BANESE para anular a sentença e determinar o prosseguimento da execução, assentando que a alteração do art. 921, § 4º, do CPC pela Lei 14.195/2021 tem aplicabilidade imediata, porém não retroativa, motivo pelo qual, considerados os marcos da suspensão (21/01/2014) e do arquivamento (04/06/2019), não se configuraria a prescrição intercorrente.
+É o que se observa neste trecho do v. acórdão recorrido, in verbis:
+Cinge-se a discussão a respeito da existência ou não da prescrição intercorrente.
+Trata-se de cumprimento de sentença iniciado em 20/08/2008 oriundo de ação monitória, cujo prazo prescricional é de 05 anos nos termos do art. 206, §5º, I do CPC, vez que trata de Crédito em Conta Corrente, conforme inicial.
+Determinado o arquivamento em 04/06/2019, com despacho anterior deferindo a suspensão em 21/01/2014.
+O Código de Processo Civil prevê:
+(..)
+O art. 921, §4º do CPC, com as alterações trazidas pela Lei nº 14.195/2021, dispõe que o termo inicial da prescrição no curso do processo será a ciência da primeira tentativa infrutífera de localização do devedor ou de bens penhoráveis, e será suspensa, por uma única vez, pelo prazo máximo de 1 (um) ano:
+(..)
+Apesar do longo prazo do feito executivo, não se pode desconsiderar que estava em trâmite para adimplemento do débito.
+Verifico que o magistrado de origem apontou os marcos temporais na sentença como sendo 21/01/2014, da suspensão e 04/06/2019 para o arquivamento.
+Assim, levando-se em conta os marcos temporais descritos acima, as alterações introduzidas pela Lei nº 14.195, de 26/08/2021, que passa a ter aplicabilidade imediata, mas não retroativa não se pode considerar a prescrição intercorrente para o presente caso.
+Desta forma devem ser observados os marcos temporais com a observância da não retroatividade da lei processual civil, não estando presente feito atingido pela prescrição intercorrente, merecendo reforma a sentença.
+Por todo o exposto, voto pelo conhecimento e dou provimento ao recurso, anulando a sentença, para retorno dos autos e seu regular andamento.
+Quanto ao tema, esta Corte Superior possui entendimento jurisprudencial de que a prescrição intercorrente da pretensão executiva pressupõe a inércia injustificada do credor. Corroboram esse entendimento:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO INTERCORRENTE. AUSÊNCIA DE INÉRCIA INJUSTIFICADA DO CREDOR. SÚMULA 83/STJ. REPERSONIFICAÇÃO DA INSTITUIÇÃO BANCÁRIA. NÃO INCIDÊNCIA DO ART. 9º DA LEI 8.177/91. JUROS. APLICAÇÃO DA TAXA SELIC. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. A jurisprudência desta Corte é firme no sentido de que a prescrição intercorrente da pretensão executiva pressupõe inércia injustificada do credor, o que não se verificou no presente caso. Incidência da Súmula 83/STJ.
+2. No julgamento do REsp 1.838.257, de relatoria do em. Ministro Paulo de Tarso Sanseverino, este Tribunal Superior entendeu que, em razão da repersonificação da massa liquidanda do Banco Bamerindus na figura do Banco Sistema, "não haveria falar na incidência do quanto disposto no art. 9º da Lei 8.177, pois a instituição devedora não mais se encontra em liquidação".
+3. O entendimento desta Corte Superior é de que a taxa dos juros moratórios - a que se refere o art. 406 do CC/2002 - é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, que se revela insuscetível de cumulação com quaisquer índices de correção monetária, sob pena de bis in idem.
+4. Agravo interno parcialmente provido, apenas para aplicar a taxa Selic na hipótese em exame."
+(AgInt no AREsp n. 2.569.229/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/11/2024, DJEN de 29/11/2024, g.n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. PRESCRIÇÃO INTERCORRENTE. PARALISAÇÃO DECORRENTE DA INÉRCIA DO CREDOR. REVISÃO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NAO PROVIDO.
+1. Não se configura a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado. Não se trata de omissão, contradição ou obscuridade, tampouco de correção de erro material, mas, sim, de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da insurgente. Ressalte-se que a mera insatisfação com o conteúdo da decisão não enseja Embargos de Declaração, recurso que se presta tão somente a sanar os vícios previstos no art. 1.022 do CPC, pertinentes à análise dos temas trazidos à tutela jurisdicional no momento processual oportuno.
+2. A prescrição intercorrente da pretensão executiva pressupõe inércia injustificada do credor, o que não se verifica quando o período sem prática de atos processuais é atribuível à demora no impulso oficial pelo órgão judiciário.
+3. In casu, o Colegiado originário fundamentou sua decisão no sentido de que a demora no processamento do feito se deu por culpa da inércia do credor. Com efeito, no julgamento do REsp 1.102.431/RJ, Representativo de Controvérsia (Tema 179), a Primeira Seção firmou o entendimento de que demanda reexame de provas avaliar se a demora no andamento do feito ocorreu em razão da morosidade do Poder Judiciário ou por inércia do exequente, providência inviável nesta via por incidência da Súmula 7/STJ (relator Ministro Luiz Fux).
+3. Agravo Interno não provido."
+(AgInt nos EDcl no AREsp n. 2.568.037/RS, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/8/2024, DJe de 22/8/2024, g.n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. CAUSA REGIDA PELO CPC/73. MERO TRANSCURSO DO PRAZO. OPOSIÇÃO DE EMBARGOS À EXECUÇÃO. INÉRCIA DO CREDOR NÃO EVIDENCIADA. INEXISTÊNCIA DE PRÉVIO CONTRADITÓRIO. PRESCRIÇÃO INTERCORRENTE. INVIABILIDADE. IAC/1. NÃO PROVIDO.
+1. Conforme jurisprudência consolidada no âmbito desta Corte, nas causas regidas pelo CPC/73: " .. somente a inércia injustificada do credor caracteriza a prescrição intercorrente na execução" (AgInt no AREsp 1556710/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 29/10/2019, DJe 04/11/2019), o que não ficou evidenciado na espécie, em que nem sequer viabilizado o contraditório prévio ao exequente.
+2. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.405.265/PR, relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 1/7/2024, DJe de 3/7/2024, g.n.)
+"CIVIL E PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÉDULA DE CRÉDITO BANCÁRIO COM GARANTIA FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. AFASTAMENTO DA PRESCRIÇÃO. DEMORA NA CITAÇÃO. DESÍDIA DO BANCO NÃO VERIFICADA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A análise da tese recursal no sentido de que houve culpa do banco quando a conjuntura, envolvendo a demora na citação, não seria possível sem a incursão no acervo fático-probatório enfeixado nos autos. Incidência da Súmula n.º 7 do STJ.
+2. Ademais, o entendimento do Tribunal estadual está em consonância com a jurisprudência desta Corte, que perfilha o posicionamento de que somente caracteriza a prescrição intercorrente caso fique comprovada a inércia injustificada do exequente.
+3. No presente caso, conforme se colhe do acórdão recorrido, o credor promoveu diligências para satisfação do seu crédito, não ficando demonstrada sua desídia. Portanto, não ocorreu a prescrição.
+Incidência da Súmula n.º 83 do STJ.
+4. Agravo interno não provido."
+(AgInt no REsp n. 2.087.384/MT, relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/5/2024, DJe de 29/5/2024, g.n.)
+Acrescente-se, também, que a jurisprudência do STJ se firmou no sentido de que as alterações promovidas pela Lei nº 14.195/2021 na regulamentação da prescrição intercorrente não se aplicam retroativamente, incidindo apenas sobre os fatos ocorridos após sua entrada em vigor, em respeito ao princípio do tempus regit actum. Portanto, até 27/8/2021, a comprovação da inércia do exequente era indispensável para o reconhecimento da prescrição intercorrente. Nesse sentido, confiram-se os seguintes escólios:
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. PRESCRIÇÃO INTERCORRENTE. REGIME JURÍDICO APLICÁVEL. IRRETROATIVIDADE DA LEI Nº 14.195/2021. I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado do Paraná que afastou a ocorrência de prescrição intercorrente em execução de título extrajudicial, considerando a ausência de inércia da parte exequente sob a vigência do Código de Processo Civil de 2015, antes
+da entrada em vigor da Lei nº 14.195/2021.
+2. A recorrente alegou violação dos artigos 206, § 5º, I, do Código Civil, e 921, III, e 927, III, do Código de Processo Civil, além de dissídio jurisprudencial, sustentando que os requerimentos infrutíferos para localização de bens não interrompem ou suspendem o prazo prescricional, sendo necessária a extinção da execução.
+3. O Tribunal de origem concluiu pela diligência da parte exequente na busca pela satisfação do crédito, afastando a caracterização de inércia ou desídia, conforme o regime jurídico vigente à época dos atos processuais.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se a prescrição intercorrente pode ser reconhecida em execução de título extrajudicial, considerando atos processuais realizados sob a vigência do Código de Processo Civil de 2015, antes da entrada em vigor da Lei nº 14.195/2021, e se a nova sistemática introduzida por essa lei pode ser aplicada retroativamente.
+III. RAZÕES DE DECIDIR
+5. A prescrição intercorrente, sob o regime do Código de Processo Civil de 2015, exige a comprovação de inércia ou desídia do credor, sendo insuficiente o mero lapso temporal para sua configuração.
+6. A conduta proativa do credor na busca de bens, ainda que infrutífera, afasta a caracterização de inércia ou desídia, impedindo o reconhecimento da prescrição intercorrente.
+7. A Lei nº 14.195/2021, que desvinculou a prescrição intercorrente da inércia do credor, não pode ser aplicada retroativamente, em respeito ao princípio do tempus regit actum e ao artigo 14 do Código de Processo Civil. Súmula 83/STJ.
+8. A alteração das conclusões do Tribunal de origem demandaria reexame do
+conjunto fático-probatório, providência vedada em recurso especial, conforme o óbice da Súmula 7 do STJ.
+IV. DISPOSITIVO E TESE
+Resultado do Julgamento: Recurso especial não conhecido.
+Tese de julgamento:
+1. A prescrição intercorrente, sob o regime do Código de Processo Civil de 2015, exige a comprovação de inércia ou desídia do credor, sendo insuficiente o mero lapso temporal para sua configuração.
+2. A conduta proativa do credor na busca de bens, ainda que infrutífera, afasta a caracterização de inércia ou desídia, impedindo o reconhecimento da prescrição intercorrente.
+3. A Lei nº 14.195/2021, que desvinculou a prescrição intercorrente da inércia do credor, não pode ser aplicada retroativamente, em respeito ao princípio do tempus regit actum e ao artigo 14 do Código de Processo Civil. ..
+(REsp n. 2.166.287/PR, relator Ministro HUMBERTO MARTINS, Terceira Turma, julgado em 1/12/2025, DJEN de 4/12/2025)
+CIVIL. PROCESSUAL CIVIL. AÇÃO. PRESCRIÇÃO INTERCORRENTE. VIOLAÇÃO DOS ARTS. 489, § 1º, IV, 1.022, I E II, DO CPC. NÃO OCORRÊNCIA. PRESCRIÇÃO INTERCORRENTE. TERMO INICIAL DO PRAZO. ART. 921, § 4º, CPC. MODIFICAÇÃO. REDAÇÃO DADA PELA LEI N. 14.195/2021. PRINCÍPIO DA IRRETROATIVIDADE. AFASTAMENTO DA PRESCRIÇÃO. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO
+1. Não há que se falar em negativa da prestação jurisdicional, se o Tribunal local, clara e fundamentadamente, dirimir as questões que lhe forem submetidas.
+2. A sistemática introduzida pela Lei n. 14.195/2021, segundo a qual a prescrição intercorrente tem como termo inicial a ciência da primeira tentativa infrutífera de localização do devedor ou de bens penhoráveis, não se aplica a situações anteriores ao início de vigência da norma.
+3.Agravo conhecido. Recurso Especial parcialmente provido.
+(AREsp n. 2.421.802/PR, relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 9/6/2025, DJEN de 12/6/2025)
+Nesse contexto, estando a decisão recorrida de acordo com a jurisprudência desta Corte, o recurso encontra óbice na Súmula 83/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Havendo prévia fixação de honorários advocatícios sucumbenciais pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+EMENTA
