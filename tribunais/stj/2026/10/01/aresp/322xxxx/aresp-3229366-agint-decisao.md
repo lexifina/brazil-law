@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo interno interposto por NOTRE DAME INTERMÉDICA SAÚDE S.A. contra decisão monocrática de fls. 481-485, e-STJ, da lavra do Ministro Presidente do STJ, que conheceu do agravo para não conhecer do recurso especial manejado pela parte ora agravante.
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafiou acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (fl. 350, e-STJ):
+VOTO 5281 APELAÇÃO CÍVEL. DIREITO DA SAÚDE. AÇÃO INDENIZATÓRIA. Negativa de cobertura de procedimento cirúrgico. Dano moral. Sentença de improcedência. Apelo da autora. Documentos dos autos que demonstram o caráter de urgência do procedimento cirúrgico para tratamento de apendicite. Recusa de cobertura por alegação de período de carência. Descabimento. Incidência da Súmula 103 do E. TJSP e Súmula 597 do C. STJ. Transferência da paciente para o Sistema Único de Saúde, quando já preparada para o procedimento cirúrgico. Recusa injustificada que enseja reparação por dano moral, por agravar a situação de aflição e dor em decorrência do atraso para a realização da cirurgia. Sentença reformada. Indenização por danos morais fixada em R$ 10.000,00, quantia que atende às finalidades compensatória, punitiva e pedagógica da reparação. Inversão do ônus sucumbencial. RECURSO PROVIDO.
+Nas razões de recurso especial (fls. 359-364, e-STJ), apontou a parte recorrente ofensa aos seguintes dispositivos: arts. 186, 927 e 944 do Código Civil, além de dissídio jurisprudencial.
+Sustenta, em síntese: a) que não houve ato ilícito, tratando-se de exercício regular de direito na interpretação de cláusula de carência contratual; b) que o mero inadimplemento contratual não gera dano moral; c) o art. 944 do CC exige proporcionalidade e demonstração do dano; e d) que os fatos são incontroversos e não há reexame de provas (Súmula 7/STJ).
+Contrarrazões apresentadas às fls. 369-381, e-STJ.
+Em juízo de admissibilidade (fls. 444-446, e-STJ), negou-se o processamento do recurso especial, dando ensejo ao presente agravo (fls. 449-460, e-STJ).
+Contraminuta apresentada às fls. 463-475, e-STJ.
+Em decisão monocrática (fls. 481-485, e-STJ), o Ministro Presidente do STJ conheceu do agravo para não conhecer do recurso especial, sob o fundamento da incidência do óbice da Súmula 7/STJ.
+Inconformada, no presente agravo interno (fls. 489-506, e-STJ), a parte recorrente insurge-se contra a negativa de seguimento ao recurso especial, combatendo a aplicação da Súmula 7/STJ, diante da não necessidade de reexame de matéria fática para se verificar a inexistência de ato ilícito no caso dos autos, em razão da legitimidade da cláusula de carência e da não caracterização do quadro como urgência/emergência nos termos da lei. Requer, ao final, a reforma da decisão agravada.
+É o relatório.
+Decido.
+1. Verifica-se que, nos presentes autos, existe debate sobre questão de direito que foi afetada pela Segunda Seção do Superior Tribunal de Justiça como representativa de controvérsia, a ser julgada sob o rito dos recursos especiais repetitivos, conforme previsão dos arts. 1.036 e 1.037 do CPC/2015.
+Com efeito, a decisão de afetação nos autos do REsp n. 2.190.337-DF, de relatoria do Ministro Antônio Carlos Ferreira, DJe de 10/03/2025, (Tema 1314), delimitou as questões jurídicas controvertidas da seguinte forma: "I) abusividade da cláusula contratual de plano de saúde que prevê carência para utilização dos serviços de assistência médica nas situações de emergência ou de urgência se ultrapassado o prazo máximo de 24 horas contado da data da contratação; e II) abusividade da cláusula contratual de plano de saúde que limita no tempo a internação hospitalar do segurado".
+Nesse contexto, em observância ao princípio da economia processual e à própria finalidade do novo CPC, corroborada pelo art. 256-L do RISTJ, incluído pela Emenda Regimental n. 24, de 2016, considera-se devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão proferido no recurso afetado como representativo da controvérsia.
+Eis o teor da aludida disposição regimental:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+2. Do exposto, reconsidera-se a decisão de fls. 481-485 (e-STJ) e determina-se a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia (Tema 1314/STJ), sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC/2015.
+Publique-se.
+Intimem-se.
+EMENTA
