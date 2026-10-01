@@ -1,0 +1,24 @@
+DESIS no AGRAVO EM RECURSO ESPECIAL Nº 3382727 - GO (2026/0377115-0)
+
+RELATOR: MINISTRO PRESIDENTE DO STJ
+
+REQUERENTE: BANCO DO BRASIL SA
+
+ADVOGADO: SERGIO HENRIQUE DE OLIVEIRA GOMES E OUTRO(S) - DF017844
+
+REQUERIDO: SUELI APARECIDA LOPES MERLI
+
+ADVOGADO: HENRY ATIQUE - SP216907
+
+EMENTA
+
+DECISÃO
+
+Homologo a desistência do Agravo em Recurso Especial (fl. 672) interposto nos presentes autos por BANCO DO BRASIL SA.
+No mais, encaminhem-se os autos à origem.
+Publique-se. Intimem-se.
+
+Brasília, 01 de outubro de 2026.
+
+MINISTRO LUIS FELIPE SALOMÃO
+Presidente
