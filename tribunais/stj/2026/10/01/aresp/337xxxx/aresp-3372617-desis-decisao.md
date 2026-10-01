@@ -1,0 +1,24 @@
+DESIS no AGRAVO EM RECURSO ESPECIAL Nº 3372617 - AP (2026/0370531-6)
+
+RELATOR: MINISTRO PRESIDENTE DO STJ
+
+REQUERENTE: BANCO DO BRASIL SA
+
+ADVOGADO: SERGIO HENRIQUE DE OLIVEIRA GOMES E OUTRO(S) - DF017844
+
+REQUERIDO: DALCI BRUNO DE SOUZA MACEDO
+
+ADVOGADA: GLAUCY REGINA GONÇALVES MACHADO - AP003964
+
+EMENTA
+
+DECISÃO
+
+Homologo a desistência do Agravo em Recurso Especial (fl. 829) interposto nos presentes autos por BANCO DO BRASIL SA.
+No mais, encaminhem-se os autos à origem.
+Publique-se. Intimem-se.
+
+Brasília, 01 de outubro de 2026.
+
+MINISTRO LUIS FELIPE SALOMÃO
+Presidente
