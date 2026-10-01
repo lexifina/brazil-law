@@ -1,0 +1,68 @@
+RECURSO EM HABEAS CORPUS Nº 243759 - PA (2026/0314490-2)
+
+RELATOR: MINISTRO RIBEIRO DANTAS
+
+RECORRENTE: RHAMNA PAIXAO LIMA JORGE (PRESO)
+
+ADVOGADO: KAYO CEZZAR RIBEIRO HONORIO - GO064307
+
+RECORRIDO: MINISTÉRIO PÚBLICO DO ESTADO DO PARÁ
+
+EMENTA
+
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por RHAMNA PAIXÃO LIMA JORGE contra acórdão da Seção de Direito Penal do Tribunal de Justiça do Estado do Pará que denegou a ordem no HC n. 0811456-39.2026.8.14.0000.
+A recorrente foi presa em flagrante em 23 de abril de 2026, tendo a custódia sido convertida em preventiva em 26 de abril de 2026. Segundo as informações prestadas pelo Juízo da Vara Única da Comarca de Breu Branco/PA, foi denunciada pela suposta prática dos delitos previstos nos arts. 180, caput, e 288 do Código Penal e no art. 1º, § 1º, I, da Lei n. 9.613/1998, em concurso material.
+Nas razões recursais, a defesa sustenta a ausência de reavaliação periódica da prisão preventiva, a insuficiência dos fundamentos cautelares e a possibilidade de aplicação de medidas menos gravosas. Requer, subsidiariamente, a substituição da prisão preventiva por domiciliar, por ser a recorrente mãe de criança menor de 12 anos, com cumprimento em residência de familiar na cidade de Goiânia/GO, diversa do imóvel relacionado aos fatos investigados. Alega que essa alternativa não foi enfrentada pelo acórdão recorrido e que a concessão da medida não depende da demonstração de desamparo da criança.
+Suscita, ainda, a ilicitude do ingresso domiciliar e das provas dele decorrentes, a inexistência de situação flagrancial e a irregularidade do interrogatório policial, iniciado antes da chegada do advogado constituído (e-STJ, fls. 239-254).
+O pedido liminar foi indeferido pela Presiência desta Corte (e-STJ, fls. 263-264).
+Prestadas informações pelo Tribunal de origem e pelo Juízo de primeiro grau (e-STJ, fls. 270-281), o Ministério Público Federal opinou pelo desprovimento do recurso (e-STJ, fls. 286-292).
+É o relatório.
+Decido.
+O recurso não comporta provimento.
+Inicialmente, a alegação de ausência de revisão nonagesimal não foi apreciada no acórdão recorrido, conforme esclareceu o Tribunal de origem nas informações prestadas (e-STJ, fl. 275), circunstância que impede seu exame originário nesta instância, ressalvada a verificação de ilegalidade manifesta.
+De todo modo, as informações do Juízo de primeiro grau registram que a necessidade da prisão foi novamente examinada em 30 de maio de 2026 e em 1º de agosto de 2026, ocasião em que foi mantida a custódia (e-STJ, fl. 280). Esses esclarecimentos afastam a premissa de que a prisão teria permanecido sem controle jurisdicional desde sua decretação.
+Ademais, o Supremo Tribunal Federal, no julgamento das ADIs n. 6.581/DF e 6.582/DF, assentou que a inobservância do prazo previsto no art. 316, parágrafo único, do Código de Processo Penal não acarreta revogação automática da prisão preventiva, devendo o juízo competente ser instado a reavaliar a legalidade e a atualidade de seus fundamentos. Não se identifica, portanto, motivo para determinar a soltura por esse fundamento.
+Quanto à fundamentação da prisão preventiva, o decreto prisional apresenta elementos relacionados às circunstâncias concretas dos fatos investigados.
+O magistrado destacou a apreensão de bens supostamente provenientes de crimes patrimoniais recentes, entre eles um drone reconhecido pela vítima, além de perfumes, relógios e ferramentas de arrombamento. Mencionou, ainda, a aquisição de veículo mediante pagamento de expressiva quantia em espécie, com recursos que teriam sido fornecidos pelo companheiro da recorrente (e-STJ, fl. 165).
+Para caracterizar o perigo decorrente do estado de liberdade, consignou que a residência seria utilizada como depósito de produtos ilícitos, local de guarda de instrumentos destinados à prática de furtos qualificados e esconderijo de criminosos, inclusive de foragido de unidade de segurança máxima. A partir desses elementos, concluiu que a recorrente, em tese, prestava suporte logístico à continuidade das atividades de grupo voltado à prática de crimes patrimoniais (e-STJ, fl. 166).
+O acórdão recorrido manteve essa compreensão, reconhecendo que a apreensão dos bens e a utilização do imóvel para guarda e ocultação de patrimônio supostamente ilícito evidenciavam risco concreto de reiteração delitiva (e-STJ, fls. 234-235).
+Não se trata, assim, de prisão fundamentada exclusivamente na gravidade abstrata dos delitos imputados. As circunstâncias descritas pelas instâncias ordinárias evidenciam, em juízo cautelar, a necessidade de resguardar a ordem pública, nos termos do art. 312 do Código de Processo Penal.
+A conclusão da investigação e o recebimento da denúncia não afastam, por si sós, fundamento cautelar relacionado ao risco de continuidade delitiva. Do mesmo modo, a primariedade e os demais predicados pessoais favoráveis não impõem a revogação da custódia quando presentes elementos concretos que justifiquem sua manutenção.
+Nesse contexto, a conclusão acerca da insuficiência das medidas cautelares diversas da prisão encontra respaldo na dinâmica delitiva descrita, especialmente no suporte logístico que a recorrente supostamente prestava às atividades criminosas. Não se identifica, portanto, fundamentação meramente abstrata ou desvinculada dos autos.
+No tocante à prisão domiciliar, a condição de mãe de criança de oito anos foi registrada na audiência de custódia e reiterada nas informações do Juízo de primeiro grau (e-STJ, fls. 162 e 280). As imputações não envolvem violência ou grave ameaça à pessoa, tampouco crime cometido contra a filha ou dependente da recorrente.
+O art. 318-A do Código de Processo Penal estabelece a substituição da prisão preventiva por domiciliar nas hipóteses nele previstas. Além das exceções legais, a jurisprudência admite o afastamento da medida em situações excepcionalíssimas concretamente fundamentadas, à luz do HC coletivo n. 143.641/SP do Supremo Tribunal Federal.
+Para a incidência desse regime cautelar, a imprescindibilidade dos cuidados maternos é presumida, não sendo exigível demonstrar que a mãe seja a única responsável pela criança ou que esta esteja desassistida. Nesse sentido, o HC n. 1.070.513/PR, relator Ministro Antonio Saldanha Palheiro, relator para acórdão Ministro Og Fernandes, Sexta Turma, julgado em 14/4/2026, DJEN de 19/6/2026.
+Assim, a existência de rede familiar de apoio, mencionada pelas instâncias ordinárias, não constitui, isoladamente, fundamento idôneo para afastar a substituição.
+A negativa, contudo, não se apoiou exclusivamente nessa circunstância.
+O decreto prisional consignou que a residência da recorrente constituiria centro logístico das atividades criminosas, servindo à guarda de bens furtados e ferramentas de arrombamento, além de abrigar pessoas envolvidas na prática de crimes. Registrou que a permanência naquele imóvel facilitaria a reiteração delitiva e que a convivência da criança em ambiente frequentado por indivíduos armados e foragidos representaria risco à sua integridade e ao seu desenvolvimento (e-STJ, fls. 167-169).
+O Tribunal de origem, por sua vez, destacou a inserção da própria residência na dinâmica delitiva e a insuficiência da permanência nesse ambiente para resguardar a ordem pública (e-STJ, fls. 235-236).
+Esses fundamentos ultrapassam a simples constatação de que o crime teria ocorrido no domicílio. Referem-se à utilização do imóvel como estrutura de apoio à atividade criminosa e ao risco que esse ambiente representaria para a criança, circunstâncias que permitem reconhecer a inadequação da medida substitutiva nas condições examinadas pelas instâncias ordinárias.
+No AgRg no HC n. 985.730/MS, deste relator, Quinta Turma, julgado em 2/4/2025, DJEN de 8/4/2025, admitiu-se o afastamento da prisão domiciliar diante da exposição dos filhos menores à atividade criminosa desenvolvida no ambiente doméstico. Também no AgRg no HC n. 1.080.178/MG, citado pelo acórdão recorrido, a negativa foi relacionada ao risco de continuidade da atividade criminosa e à exposição da criança ao ambiente delitivo.
+Desse modo, embora a existência de rede de apoio não constitua razão suficiente para negar a domiciliar, os demais fundamentos apresentados sustentam a conclusão adotada na origem.
+A defesa argumenta, ainda, que requereu, no habeas corpus, o cumprimento da prisão domiciliar em endereço diverso, a ser indicado pela família ou pela defesa, preferencialmente na residência de familiar idôneo ou da pessoa responsável pelos cuidados da criança, com monitoração eletrônica e outras restrições.
+Esse pedido, entretanto, não se confunde com o controle da legalidade da negativa de prisão domiciliar nas condições anteriormente submetidas ao juízo singular.
+As informações de primeiro grau registram sucessivos pedidos de revogação da prisão e a manutenção dos fundamentos cautelares, mas não indicam que tenha sido submetida àquele juízo proposta de cumprimento da domiciliar em outro imóvel, acompanhada dos elementos necessários à avaliação de sua adequação (e-STJ, fls. 279-281).
+A mera formulação dessa alternativa no habeas corpus não transfere ao Tribunal a análise inicial das condições de um endereço ainda a ser indicado, nem permite concluir que a mudança de residência seria suficiente para neutralizar os riscos identificados no decreto prisional.
+A apreciação dessa proposta cabe, inicialmente, ao juízo responsável pela custódia, mediante a identificação do imóvel e a apresentação dos elementos pertinentes à avaliação das condições de cumprimento, da possibilidade de fiscalização e da suficiência das cautelares adicionais.
+Seu exame originário pelo Tribunal, sem prévia apreciação pelo juízo singular e sem os elementos necessários à aferição de sua viabilidade, implicaria supressão de instância e poderia exigir atividade probatória incompatível com a via do habeas corpus.
+Nesse contexto, a ausência de exame específico da alternativa pelo acórdão recorrido não autoriza sua cassação para impor ao Tribunal a apreciação originária de questão que deve ser previamente submetida ao juízo competente.
+Fica ressalvada a possibilidade de a defesa formular pedido de substituição da prisão preventiva por domiciliar em endereço diverso perante o Juízo da Vara Única da Comarca de Breu Branco/PA, com indicação do imóvel e apresentação dos elementos necessários à avaliação da medida.
+No que diz respeito ao ingresso domiciliar, a invocação dos limites cognitivos do habeas corpus não afasta o ônus estatal de demonstrar a legalidade da diligência. Conforme a orientação firmada no HC n. 598.051/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/3/2021, DJe de 15/3/2021, a prova da legalidade e da voluntariedade do consentimento do morador incumbe ao Estado em caso de dúvida.
+O decreto prisional registra a versão de que o ingresso foi autorizado pela moradora (e-STJ, fl. 163). A defesa, por sua vez, sustenta que houve arrombamento e que a recorrente somente chegou à residência após a entrada dos policiais.
+Ao examinar a controvérsia, o Tribunal de origem consignou que a definição das circunstâncias anteriores ao ingresso, da sequência da diligência e da presença da recorrente no imóvel exige apreciação conjunta dos elementos informativos e valoração de provas a serem submetidas ao contraditório, atividade própria da instrução processual (e-STJ, fls. 230-231).
+Nesse contexto, o acolhimento da narrativa defensiva demandaria aprofundado exame do conjunto probatório, incompatível com a cognição da via eleita. Não se identifica ilegalidade demonstrável de plano que permita declarar a nulidade da diligência e das provas derivadas, sem prejuízo do exame da questão pelo juízo competente, observado o ônus estatal de demonstrar a legalidade do ingresso.
+Quanto à alegada inexistência de situação flagrancial, o acórdão recorrido igualmente destacou que a controvérsia diz respeito à dinâmica dos fatos que culminaram na prisão, cuja elucidação exige o exame dos registros da ocorrência, dos depoimentos policiais e do auto de prisão em flagrante.
+Ressaltou que, embora a defesa sustente que a recorrente somente chegou ao imóvel após o ingresso dos agentes, os policiais afirmaram que ela já se encontrava no local (e-STJ, fl. 232).
+Acolher a versão defensiva, nessas circunstâncias, pressupõe incursão probatória incompatível com a via eleita, não se evidenciando ilegalidade manifesta apta a justificar o relaxamento da prisão por esse fundamento.
+No tocante à nulidade do interrogatório policial, o Tribunal de origem reconheceu que o advogado ingressou na sala após o início da oitiva, mas afastou a pretensão por não identificar prejuízo concreto demonstrável de plano (e-STJ, fl. 233).
+Nos termos do art. 563 do Código de Processo Penal, o reconhecimento da nulidade exige, em regra, demonstração do prejuízo causado à defesa.
+A chegada posterior do defensor, isoladamente considerada, não esclarece as condições em que o ato foi iniciado, a extensão da assistência prestada ou a repercussão das declarações na situação jurídica da recorrente. Tais aspectos demandam exame do registro integral da oitiva, inclusive para verificar eventual impedimento ao exercício do direito de assistência pelo advogado constituído.
+Não se identifica, nos elementos examinados, demonstração de prejuízo concreto que autorize, nesta via, o reconhecimento da nulidade pretendida ou a revogação da custódia por esse motivo, sem prejuízo da apreciação da questão pelo juízo competente.
+Ante o exposto, conheço em parte do recurso ordinário e nego-lhe provimento.
+Publique-se. Intimem-se.
+
+Brasília, 01 de outubro de 2026.
+
+Ministro Ribeiro Dantas
+Relator
