@@ -1,0 +1,24 @@
+DESIS no AGRAVO EM RECURSO ESPECIAL Nº 3393229 - PR (2026/0394419-2)
+
+RELATOR: MINISTRO PRESIDENTE DO STJ
+
+REQUERENTE: BANCO DO BRASIL SA
+
+ADVOGADA: ANDREA GONÇALVES OLIVA ITACARAMBI E OUTRO(S) - GO025246
+
+REQUERIDO: ADAO VALDIR MARCONDES
+
+ADVOGADA: JACKELINE CHAVES - PR115288
+
+EMENTA
+
+DECISÃO
+
+Homologo a desistência do Agravo em Recurso Especial (fl. 296) interposto nos presentes autos por BANCO DO BRASIL SA.
+No mais, encaminhem-se os autos à origem.
+Publique-se. Intimem-se.
+
+Brasília, 01 de outubro de 2026.
+
+MINISTRO LUIS FELIPE SALOMÃO
+Presidente
