@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por ALEX RODRIGUES DA SILVA contra decisão de fls. 141-145, que inadmitiu o recurso especial com fundamento na incidência da Súmula 7 do Superior Tribunal de Justiça e no art. 1.030, inciso V, do Código de Processo Civil.
+Na origem, o agravante foi pronunciado como incurso no art. 121, § 2º, IV, c/c art. 14, II, ambos do Código Penal, por tentativa de homicídio qualificado pelo recurso que dificultou a defesa da vítima.
+Interposto recurso em sentido estrito pela defesa, o Tribunal de Justiça do Estado do Tocantins negou provimento, mantendo a pronúncia e a qualificadora.
+No recurso especial, sustenta-se violação dos arts. 413 do Código de Processo Penal e 121, § 2º, IV, e 14, II, do Código Penal, aduzindo: (i) nulidade da pronúncia e do acórdão por fundamentação genérica e utilização indevida do in dubio pro societate para suprir lacunas probatórias quanto ao animus necandi; (ii) necessidade de desclassificação para lesão corporal à luz do art. 419 do CPP, diante do contexto fático de briga generalizada; (iii) incompatibilidade objetiva da qualificadora do art. 121, § 2º, IV, do CP com prévia rixa, impondo seu decote; e (iv) reconhecimento, inclusive de ofício, da nulidade da pronúncia por ausência de fundamentação concreta (arts. 93, IX, da CF; 413, § 1º, e 315, § 2º, do CPP; 489, § 1º, do CPC), com remessa para nova decisão.
+Contraminuta apresentada (fls. 154-172).
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo, nos termos da seguinte ementa (fl. 196):
+PENAL. PROCESSO PENAL. AGRAVO LEGAL E(M) RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO. PRONÚNCIA. PLEITOS POR PRETENSA DESCLASSIFICAÇÃO DA CONDUTA CRIMINOSA A LESÃO CORPORAL OU ELISÃO DE QUALIFICADORA QUE DEMANDA(RIA)M INDEVIDO (RE)EXAME FÁTICO PROBATÓRIO NA VIA OPTATA (E) POR CORTE SUPERIOR INCOMPETENTE. SÚMULAS 7/STJ E 279/STF. COMPETÊNCIA CONSTITUCIONAL DO TRIBUNAL DO JÚRI LOCAL PARA JULGAMENTO DE CRIMES DOLOSOS CONTRA A VIDA. PARECER POR DESPROVIMENTO DE AGRAVO LEGAL E(M) RECURSO ESPECIAL EM RESPEITO À JURISDIÇÃO E SEUS LIMITES.
+É o relatório.
+Os requisitos de admissibilidade foram atendidos, inclusive tendo a defesa impugnado cada ponto da decisão agravada. Passa-se a análise do recurso especial.
+A tese central do presente recurso especial no pedido de desclassificação da conduta para lesão corporal. Subsidiariamente, a defesa requer o decote da qualificadora do recurso que dificultou a defesa da vítima em razão da ausência do elemento surpresa.
+Delimitada a controvérsia, destaca-se o entendimento firmado pela Corte local (fls. 85-89):
+1. Desclassificação para lesão corporal grave
+Sobre o assunto é preciso registrar que, para que ocorra a desclassificação da conduta, devem haver provas irrefutáveis e absolutas, apenas sendo permitida quando o animus necandi apresentar-se ausente, sem qualquer dúvida.
+No presente caso, os elementos probatórios constantes dos autos, como o laudo de exame de corpo de delito, as declarações da vítima e das testemunhas corroboram a acusação, demonstrando, em juízo de probabilidade, a tentativa de homicídio doloso.
+A utilização de arma branca em região vital do corpo, aliada à dinâmica do ataque e à necessidade de intervenção de terceiros, revelam, em tese, dolo homicida.
+Assim, a tese defensiva de ausência de animus necandi, pretendendo a desclassificação para o crime de lesão corporal, encontra óbice na orientação firmada tanto pelo Superior Tribunal de Justiça quanto pelo Supremo Tribunal Federal. Em se tratando de crimes dolosos contra a vida, a existência de versões conflitantes e incertezas sobre a intenção homicida impõem o respeito ao princípio do in dubio pro societate, remetendo-se a questão ao Tribunal Popular. ..
+3. Afastamento da qualificadora do recurso que dificultou a defesa da vítima
+A defesa pugna pelo afastamento da qualificadora prevista no artigo 121, §2º, IV, do Código Penal, sustentando a completa ausência de suporte probatório.
+Porém, insta salientar, novamente, que a sentença de pronúncia não deve adentrar o mérito probatório, mas apenas verificar a existência de indícios que justifiquem a submissão da Recorrente ao julgamento pelo Tribunal do Júri, juízo constitucionalmente competente. ..
+No caso, há relatos testemunhais indicando que o crime foi cometido por meio de ataque pelas costas da vítima, o que evidencia possibilidade da ocorrência da qualificadora do "recurso que dificultou a defesa da vítima".
+Assim, compete ao Conselho de Sentença decidir sobre a existência ou não da qualificadora, conforme previsto no art. 5º, inciso XXXVIII, alínea "d", da Constituição da República.
+Verifica-se que o Tribunal de origem consignou a existência de prova da materialidade e de indícios suficientes de autoria, inclusive produzida em juízo, aptos a justificar a manutenção da sentença de pronúncia. Ademais, a qualificadora do recurso que dificultou a defesa da vítima foi mantida dianta de relatos testemunhais, que indicam que o delito foi cometido por meio de ataque pelas costas da vítima.
+Esta Corte Superior entende que, nos termos da Súmula n. 7/STJ, a pretensão de simples reexa me de provas não enseja recurso especial, uma vez que a competência do STJ se restringe à uniformização da interpretação da legislação infraconstitucional, não lhe cabendo atuar como terceira instância revisora.
+No caso, a revisão dos fundamentos do acórdão recorrido, com o objetivo de desclassificar a conduta do recorrente, ou, de modo subsidiário, excluir a qualificadora , implicaria o revolvimento do conjunto fático-probatório, providência vedada na via do recurso especial, conforme destacado acima.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA. INDÍCIOS DE AUTORIA. QUALIFICADORAS. FUNDAMENTAÇÃO PER RELATIONEM. PREQUESTIONAMENTO. EXTENSÃO DE DESPRONÚNCIA A CORRÉU. AGRAVO REGIMENTAL DESPROVIDO. ..
+10. A pretensão defensiva de afastar a pronúncia ou as qualificadoras, sob o argumento de inexistência de indícios de autoria ou de insuficiência de testemunhos indiretos, demandaria reexame do conjunto fático-probatório, o que é vedado em recurso especial pela Súmula n. 7 do STJ. ..
+1. A revisão, em recurso especial, da decisão de pronúncia e das qualificadoras do homicídio, fundada em alegada ausência de indícios de autoria, demanda reexame do conjunto fático-probatório, providência vedada pela Súmula n. 7 do STJ.
+l. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 5.10.2023.
+(AgRg no AREsp n. 2.547.065/CE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 14/4/2026, DJEN de 22/4/2026.)
+Aliás, é pacífico o entendimento segundo o qual "havendo minimamente a possibilidade da vítima ter sido surpreendida com a conduta do acusado, é necessário submeter a tese fática ao Conselho de Sentença, instância competente para aferir se a circunstância narrada na denúncia dificultou ou não a defesa da vítima" (AgRg no AREsp n. 2.119.196/RS, Ministro Sebastião Reis Junior, Sexta Turma, DJe 30/9/2022).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
