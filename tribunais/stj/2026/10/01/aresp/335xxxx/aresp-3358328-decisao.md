@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por KEVEN DIAS DA SILVA ELIAS contra a decisão que inadmitiu o recurso especial, fundado no permissivo do art. 105, III, a, da Constituição Federal, apresentado contra o acórdão exarado pelo Tribunal de Justiça do Estado de Minas Gerais no julgamento da apelação criminal n. 1.0000.25.266545-0/001, assim ementado (fl. 326):
+APELAÇÃO CRIMINAL. FURTO QUALIFICADO. ABSOLVIÇÃO. DESCABIMENTO. AUTORIA E MATERIALIDADE COMPROVADAS. DECOTE DA QUALIFICADORA DO ROMPIMENTO DE OBSTÁCULO. INVIABILIDADE. - Demonstrado que o apelante subtraiu, para si, mediante rompimento de obstáculo, coisa alheia móvel, fica aperfeiçoado em sua configuração típica o delito previsto no artigo 155, § 4º,I, do Código Penal, não se podendo falar em absolvição ou decote da respectiva qualificadora.
+Nas razões do recurso especial, a parte agravante suscita violação dos arts. 155, § 4º, I, do Código Penal, e 158 do Código de Processo Penal.
+Alega que a incidência da qualificadora do rompimento de obstáculo exige exame pericial, somente dispensável nas hipóteses excepcionais em que o delito não deixa vestígios: " i) quando o delito não deixar vestígios ou estes tenham desaparecido; ii) circunstâncias do crime não permitirem a confecção do laudo" (fl. 348).
+Argumenta que não há nos autos justificativa plausível para a não realização do exame pericial direto e que, sendo possível a perícia, a prova testemunhal - ainda que uniforme - é inapta a suprir sua ausência, à luz do art. 158 do Código de Processo Penal e da orientação do Superior Tribunal de Justiça.
+Sustenta que o acórdão recorrido contrariou a lei federal ao manter a qualificadora sem laudo e sem justificar a excepcionalidade, invocando precedentes do Superior Tribunal de Justiça que exigem fundamentação concreta para a perícia indireta ou para a substituição por outros meios probatórios.
+Defende que, à míngua de justificativa e diante de vestígios presumivelmente existentes no arrombamento de janela, deve ser afastada a qualificadora do art. 155, § 4º, I, com a desclassificação para furto simples e o redimensionamento da pena.
+A Corte de origem inadmitiu o reclamo com base nos seguintes fundamentos: a) incidência da Súmula 7/STJ, por demandar reexame de provas; b) incidência da Súmula 83/STJ, por estar o acórdão em consonância com a jurisprudência desta Corte (fls. 366/367), sendo a decisão atacada pelo presente agravo (fls. 377/388).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou pelo não conhecimento do agravo e, caso conhecido, pelo não conhecimento do recurso especial (fls. 408/412).
+É o relatório.
+O presente agravo em recurso especial deve ser conhecido, pois reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+Passo à análise do recurso especial.
+Quanto ao tema, asseverou o Tribunal a quo (fls. 330/331):
+Inviável, ainda, o decote da qualificadora do rompimento de obstáculo.
+Repita-se que a vítima confirmou tal circunstância, sustentando que surpreendeu o réu dentro de sua residência e percebeu que ele possuía seus pertences furtados, após ingressar no imóvel rompendo a janela lateral esquerda, sendo seus relatos confirmados pela narrativa do policial em juízo.
+A prova oral produzida no processo é clara ao apontar a prática do furto - que se perfez mediante rompimento de obstáculo -, consistente no arrombamento da janela do imóvel de propriedade da vítima, não havendo que se falar em ofensa ao art. 158 do Código de Processo Penal, por ausência de exame de corpo de delito, tampouco no decote da qualificadora em questão.
+Aliás, apegar-se à necessidade da realização do exame de corpo de delito, quando esse é absolutamente desnecessário em razão da clareza e notoriedade da prova oral idônea, é expressão do mais puro formalismo.
+Afinal, o exame de corpo de delito não é o único meio de se provar a ocorrência de um crime ou de uma circunstância qualificadora, notadamente quando ela se apresenta visível a olho nu, perceptível aos sentidos de qualquer leigo (visão, audição, etc), revelando a desnecessidade absoluta de qualquer atestado científico.
+Assim, mantenho a condenação pelo crime de furto qualificado pelo rompimento de obstáculo.
+Segundo a jurisprudência desta Corte, em regra, as qualificadoras da destruição ou rompimento de obstáculo e da escalada só podem ser aplicadas ao crime de furto mediante realização de exame pericial, tendo em vista que, por ser infração que deixa vestígio, é imprescindível a realização de exame de corpo de delito direto, por expressa imposição legal.
+No entanto, este Tribunal admite, excepcionalmente, a manutenção das qualificadoras quando outras provas demonstrarem cabalmente as referidas circunstâncias. No caso, além do relato da vítima, há o depoimento do policial militar, que assegura que o réu arrombou a janela da casa para ter acesso ao seu interior. Logo, a prova pericial revela-se dispensável, pois o arrombamento está claramente demonstrado por outros elementos probatórios, sendo de rigor a manutenção da qualificadora prevista no art. 155, § 4º, I, do Código Penal.
+Nesse sentido: AgRg no AgRg no AREsp n. 2.271.667/TO, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 22/3/2024; e AgRg no AREsp n. 2.295.606/DF, Ministro Teodoro Silva Santos, Sexta Turma, DJe 27/2/2024.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. EXCLUSÃO DA QUALIFICADORA DO ROMPIMENTO DE OBSTÁCULO. CRIME QUE DEIXA VESTÍGIOS. OUTRAS PROVAS QUE DEMONSTRAM CABALMENTE A OCORRÊNCIA DA CIRCUNSTÂNCIA. MANUTENÇÃO POSSÍVEL. PRECEDENTES.
+Agravo conhecido para negar provimento ao recurso especial.
