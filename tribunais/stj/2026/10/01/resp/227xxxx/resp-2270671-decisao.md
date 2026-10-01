@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto por REGINALDO JOSE BEZERRA DOS SANTOS, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Maranhão assim ementado (e-STJ fl. 231):
+AGRAVO INTERNO. PROCESSO CIVIL. EXECUÇÃO DE SENTENÇA COLETIVA. ILEGITIMIDADE ATIVA. REITERAÇÃO DE ARGUMENTOS JÁ ENFRENTADOS NA APELAÇÃO. ARGUMENTAÇÃO RECURSAL INSUFICIENTE PARA REFORMAR A DECISÃO AGRAVADA. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+I. A insurgência cinge-se a mera irresignação, não sendo instruída com substrato novo que venha a alterar a percepção sobre o caso em testilha, de sorte que a decisão recorrida não merece alteração;
+II. Agravo interno conhecido e desprovido.
+Rejeitados os aclaratórios (e-STJ fls. 230/243).
+Nas suas razões, a parte recorrente aponta violação dos arts. 489, § 1º, IV, 1.021, § 4º, e 1.022, II, do CPC, sustentando negativa de prestação jurisdicional, porquanto "a corte estadual não se pronunciou sobre a alegação de preclusão da aferição da ilegitimidade e sobre o cargo da parte recorrente não ser abrangido pelo sindicato indicado como mais específico" (e-STJ fl. 279).
+Insurge-se, ao fim, contra a sanção cominada ao agravo interno.
+Contrarrazões às e-STJ fls. 293/303.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 305/312.
+Passo a decidir.
+Quanto  à  alegada  ofensa  aos  arts.  489, § 1º, IV, 1.022, II, do CPC, cumpre  destacar  que,  ainda  que  o  recorrente  considere  insubsistente  ou  incorreta  a  fundamentação  utilizada  pelo  Tribunal  nos  julgamentos  realizados,  não  há,  necessariamente,  ausência  de  manifestação.  Não  há  como  confundir  o  resultado  desfavorável  ao  litigante  com  a  falta  de  fundamentação.
+Ademais,  consoante  entendimento  desta  Corte,  o  magistrado  não  está  obrigado  a  responder  a  todas  as  alegações  das  partes,  tampouco  a  rebater,  um  a  um,  todos  os  seus  argumentos,  desde  que  os  fundamentos  utilizados  tenham  sido  suficientes  para  embasar  a  decisão,  como  ocorre  na  espécie.  Nesse  sentido:  AgRg  no  AREsp  163417/AL,  relator  Ministro  NAPOLEÃO  NUNES  MAIA  FILHO,  Primeira  Turma,  DJe  29/9/2014.
+No  caso,  no aresto recorrido restou consignado que "diante a existência de entidade sindical que atua na mesma base territorial e representa diretamente os servidores vinculados à Secretaria de Estado da Educação no Estado do Maranhão, qual seja, o SINPROESEMMA/MA, forçoso reconhecer a ilegitimidade ativa da agravante para executar individualmente a obrigação de fazer contida na sentença da ação coletiva nº 6.542/2005, diante da vedação decorrente da unicidade sindical" (e-STJ fl. 234).
+Concluiu, nessa senda, que, " ..  havendo entidade sindical mais específica que atua na mesma base territorial e representa diretamente os servidores vinculados à Secretaria de Estado da Educação no Estado do Maranhão, qual seja, o SINPROESEMMA/MA, forçoso reconhecer a ilegitimidade ativa do apelante para executar individualmente a obrigação de fazer contida na sentença da ação coletiva nº 6.542/2005, diante da vedação decorrente da unicidade sindical" (e-STJ fl. 235).
+Consignou, por fim, que a legitimidade ativa de cada beneficiário da sentença coletiva somente é aferida quando do ajuizamento do cumprimento de sentença individual, o que, no presente caso, somente ocorreu em 15.08.2018, quando já existia o Sindicato representativo da carreira do recorrente" (e-STJ fl. 235).
+Dessa  forma,  contrariamente  ao  alegado  pela  parte  recorrente,  não  há  nenhuma  omissão a  ser  sanada,  pois  a  Corte  de  origem manifestou-se expressa e taxativamente acerca da impossibilidade de o exequente beneficiar-se do título coletivo.
+Doutro lado, conquanto não tenha se manifestado declaradamente acerca da ocorrência de preclusão, utilizou-se de fundamento que prescindiu de sua análise: aferição da legitimidade somente quando manejada a execução individual.
+No pertinente à multa cominada ao agravo interno, com razão a parte recorrente, destacando-se que o caso em apreço, por não envolver aplicação de multa em razão da existência de precedente qualificado, não atrai a aplicação do Tema 1.201 do STJ.
+Isto posto, a jurisprudência do STJ entende descaber a imposição da multa prevista no art. 1.021, § 4º, do CPC em razão do mero desprovimento do agravo interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso. A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VÍCIO NO ARESTO EMBARGADO. DESCABIMENTO. PEDIDO DE ARBITRAMENTO DE MULTA. NÃO APLICAÇÃO DO ART. 1.021, § 4º, DO CPC/2015. REJEIÇÃO DOS EMBARGOS DECLARATÓRIOS.
+1. O fato de o agravo interno ser improvido em votação unânime não acarreta a incidência automática da multa do art. 1.021, § 4º do CPC.
+2. A meu ver, a multa em tela só se aplica quando o agravo interno for declarado manifestamente inadmissível ou manifestamente improcedente.
+3. A decisão embargada, entretanto, negou provimento ao agravo interno de forma unânime, mas não o declarou manifestamente improcedente. Assim, descabida a aplicação da multa do art. 1.021, § 4º, do CPC.
+4 . Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1.633.035/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 09/11/2021, DJe 10/12/2021).
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. CONCURSO PÚBLICO. TEMPORÁRIO DA AERONÁUTICA. TÉCNICO EM LABORATÓRIO. ÍNDICE DE MASSA CORPORAL. CRITÉRIOS. EXIGÊNCIA DE PREVISÃO LEGAL ESPECÍFICA E COMPATIBILIDADE COM AS ATRIBUIÇÕES DO CARGO. AUSÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I  Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II  A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III  A exigência de limites máximo e mínimo de Índice de Massa Corporal (IMC) em concursos públicos somente é permitida se houver previsão legal específica e compatibilidade com as atribuições do cargo. Precedentes.
+IV  Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V  Agravo Interno des provido.
+(AgInt no REsp 1.879.579/PE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 05/10/2020, DJe 08/10/2020).
+Ante o exposto, com base no art. 255, § 4º, II e III, do RISTJ, DOU PARCIAL PROVIMENTO ao recurso especial apenas para afastar a multa aplicada no julgamento do agravo interno.
+Publique-se. Intimem-se.
+EMENTA
