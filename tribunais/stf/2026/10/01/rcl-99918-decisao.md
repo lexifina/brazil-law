@@ -1,0 +1,73 @@
+Trata-se de reclamação, com pedido de liminar, proposta por Fabiana Maciel da Silva e outros, para garantir a observância de precedente vinculante proferido pelo Supremo Tribunal Federal, firmado na Arguição de Descumprimento de Preceito Fundamental (ADPF) 828/DF, da relatoria do Ministro Luís Roberto Barroso.
+
+Sustentam os reclamantes:
+
+A presente Reclamação Constitucional decorre de ação de reintegração de posse ajuizada em face de famílias que residem em imóvel situado na Avenida Lins de Vasconcelos, na cidade de São Paulo, em ocupação existente desde 2015. Permanecem no local 15 famílias, entre as quais há crianças, idosos e pessoas em situação de vulnerabilidade social.
+Durante a fase de conhecimento, o conflito chegou a ser submetido à Comissão Regional de Soluções Fundiárias. A audiência então realizada, porém, terminou sem acordo e, sobretudo, sem que fosse construída qualquer alternativa concreta para as famílias ou estabelecida alguma medida voltada à hipótese de futura desocupação.
+Não houve proposta de reassentamento, inclusão efetiva em programa habitacional, solução provisória de moradia ou qualquer outra alternativa construída com participação dos ocupantes. Também não foi elaborado plano para eventual retirada das famílias, o que se explica pelo próprio momento processual em que ocorreu a audiência: ainda não havia sentença e, portanto, tampouco existia uma ordem de desocupação concretamente executável; a audiência se encerrou sem solução para o conflito.
+
+Segundo alegam:
+
+Isso não significa, porém, que a simples realização de uma audiência, em qualquer momento processual e independentemente de seu resultado, seja suficiente para considerar definitivamente cumpridas as determinações da ADPF 828.
+O que se exige é uma atuação institucional compatível com a situação concreta do conflito e com o estágio em que se encontra a ordem judicial. Enquanto houver possibilidade de solução ou de construção de alternativa, a atuação deve se orientar nesse sentido. Quando a remoção se mostrar inevitável, a função passa também pelo planejamento das condições em que será realizada e pela redução dos impactos sobre as famílias atingidas.
+(...)
+A incompatibilidade entre a decisão reclamada e o paradigma se torna mais evidente quando se observa a sequência dos fatos: houve audiência anterior à sentença, mas não houve solução para o conflito; nenhuma alternativa concreta foi apresentada às famílias, não foi elaborado plano destinado ao cumprimento da ordem que somente depois veio a ser formada. Ainda assim, a atuação da Comissão foi considerada esgotada e o cumprimento da reintegração passou a avançar.
+Essa interpretação reduz o regime instituído pela ADPF 828 à realização formal de uma audiência: uma vez ocorrido esse ato em algum momento do processo, ainda que antes da sentença e sem qualquer resultado concreto, todas as demais funções atribuídas à Comissão seriam consideradas superadas.
+Não foi esse o modelo estabelecido pelo Supremo Tribunal Federal. As Comissões foram criadas também para atuar sobre a própria estratégia de cumprimento das ordens de desocupação. Por isso, sua função permanece relevante mesmo quando não se alcança acordo.
+Não existe contradição entre reconhecer a validade da sentença possessória e exigir que sua execução seja submetida ao regime previsto para os conflitos fundiários coletivos.
+É justamente quando surge uma ordem concretamente executável que se torna atual a necessidade de avaliar como ela será cumprida, quais pessoas serão atingidas, quais vulnerabilidades estarão envolvidas, quais órgãos públicos deverão participar e quais medidas podem reduzir os danos decorrentes da retirada.
+Ao considerar suficientes as tentativas pretéritas de composição e permitir o prosseguimento da desocupação sem atuação institucional adequada ao atual estágio do conflito, a decisão reclamada esvazia parte essencial do regime estabelecido na ADPF 828 (doc. 1, pp. 6-9).
+
+Ao final, requerem:
+
+3. o julgamento de procedência da Reclamação, reconhecendo-se a violação à autoridade da decisão proferida na ADPF 828 e cassando-se o ato reclamado no ponto em que permite o prosseguimento da desocupação sem nova submissão do cumprimento da ordem ao regime estabelecido pelo Supremo Tribunal Federal.
+4. que o cumprimento da reintegração seja submetido à Comissão Regional de Soluções Fundiárias do Tribunal de Justiça do Estado de São Paulo, para que, consideradas as providências já realizadas e a atual fase processual, exerça as atribuições ainda pertinentes ao conflito, inclusive mediante atualização das informações sobre as condições do imóvel e das famílias, retomada da articulação institucional, avaliação de eventuais medidas alternativas e, caso a desocupação se revele inevitável, elaboração de plano de ação destinado ao seu cumprimento de forma planejada, pacífica e compatível com as vulnerabilidades identificadas (doc. 1, pp. 10-11).
+
+É o relatório. Decido.
+
+A demanda é improcedente, pelos fundamentos que passo a expor.
+
+Na presente reclamação, conforme relatado, sustenta-se, em síntese, que o ato impugnado viola o entendimento firmado pelo Supremo Tribunal Federal no julgamento da ADPF 828/DF, ante a inobservância das diretrizes fixadas para a aplicação do regime de transição estabelecido no julgamento do precedente vinculante.
+
+O Plenário do Supremo Tribunal Federal, em 2/11/2022, determinou:
+
+(a) Os Tribunais de Justiça e os Tribunais Regionais Federais deverão instalar, imediatamente, comissões de conflitos fundiários que possam servir de apoio operacional aos juízes e, principalmente nesse primeiro momento, elaborar a estratégia de retomada da execução de decisões suspensas pela presente ação, de maneira gradual e escalonada; ( b ) Devem ser realizadas inspeções judiciais e audiências de mediação pelas comissões de conflitos fundiários, como etapa prévia e necessária às ordens de desocupação coletiva, inclusive em relação àquelas cujos mandados já tenham sido expedidos. As audiências devem contar com a participação do Ministério Público e da Defensoria Pública nos locais em que esta estiver estruturada, bem como, quando for o caso, dos órgãos responsáveis pela política agrária e urbana da União, Estados, Distrito Federal e Municípios onde se situe a área do litígio, nos termos do art. 565 do Código de Processo Civil e do art. 2º, § 4º, da Lei nº 14.216/2021; (c) As medidas administrativas que possam resultar em remoções coletivas de pessoas vulneráveis devem (i) ser realizadas mediante a ciência prévia e oitiva dos representantes das comunidades afetadas; (ii) ser antecedidas de prazo mínimo razoável para a desocupação pela população envolvida; (iii) garantir o encaminhamento das pessoas em situação de vulnerabilidade social para abrigos públicos (ou local com condições dignas) ou adotar outra medida eficaz para resguardar o direito à moradia, vedando-se, em qualquer caso, a separação de membros de uma mesma família (grifei).
+
+No caso, o Juiz de Direito de primeiro grau determinou o prosseguimento da reintegração de posse, o que poderia implicar a desocupação forçada do imóvel em questão, nos seguintes termos:
+
+Diante do exposto, JULGO PROCEDENTE o pedido formulado na inicial, com fundamento no artigo 487, inciso I, do Código de Processo Civil, para o fim de REINTEGRAR a parte autora, NORIKO ALICE SANDA, na posse definitiva do imóvel descrito na petição inicial, localizado na Avenida Lins de Vasconcelos, nº 3.340, Vila Mariana, São Paulo/SP, matrícula nº 2.427 do 1º Cartório de Registro de Imóveis de São Paulo.
+Considerando a natureza coletiva do litígio e a vulnerabilidade social de parte dos ocupantes, concedo o prazo de 30 (trinta) dias para a desocupação voluntária do imóvel, a contar da intimação desta sentença. Decorrido o prazo sem a desocupação, expeça-se o competente mandado de reintegração de posse.
+Para a hipótese de cumprimento forçado da medida, deverá ser oficiado com antecedência à Polícia Militar, solicitando-se o auxílio de força policial, se necessário, bem como ao Conselho Tutelar e aos órgãos municipais de Assistência Social e Habitação, para que prestem o devido acompanhamento e suporte às famílias durante o ato de desocupação, em observância às diretrizes estabelecidas pelo Supremo Tribunal Federal na ADPF 828 e às normas que regem os conflitos fundiários (doc. 11, p. 9).
+
+Em análise dos autos, vê-se que a decisão reclamada está alinhada aos parâmetros fixados na Quarta Tutela Provisória Incidental na ADPF 828.
+
+Na base empírica da decisão reclamada consta determinação de observância aos parâmetros definidos na ADPF 828.
+
+ Ademais, não há nenhum indicador, no ato reclamado, de que, por ocasião do cumprimento de sentença, o precedente vinculante será inobservado. Noto que, por ora, sequer consta expedição de mandado de reintegração de posse.
+
+Lembro que, em regra, não é possível discordar das conclusões fáticas assentadas na base empírica da decisão reclamada, considerando que não se admite análise fático-probatória em reclamação constitucional.
+
+Nessa mesma linha:
+
+EMENTA: PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NA RECLAMAÇÃO. ALEGADA VIOLAÇÃO AO ENUNCIADO 24 DA SÚMULA VINCULANTE DO SUPREMO TRIBUNAL FEDERAL. IMPROCEDÊNCIA MANIFESTA. AGRAVO REGIMENTAL DESPROVIDO. 1. A reclamação, por expressa determinação constitucional, destina-se a preservar a competência desta Suprema Corte e garantir a autoridade de suas decisões, ex vi do art. 102, I, l, da CF, além de salvaguardar o estrito cumprimento dos enunciados da Súmula Vinculante, nos termos do art. 103-A, § 3º, da Constituição, incluído pela EC 45/2004. 2. In casu, (a) O reclamante sustenta que o ato reclamado violou o enunciado 24 da Súmula Vinculante do Supremo Tribunal Federal, segundo o qual “Não se tipifica crime material contra a ordem tributária, previsto no art. 1º, incisos I IV, da Lei nº 8.137/90, antes do lançamento definitivo do tributo”. (b) Solicitadas informações, a Autoridade Reclamada esclareceu que “os elementos trazidos aos autos comprovam a apuração do crédito e sua constituição, conforme preconizado na Súmula Vinculante n° 24 do STF”; (c) Ouvida, a Procuradoria-Geral da República destacou que “a inicial acusatória de fls. 45/73 arrola cerca de 30 autos de infração para alicerçar a pretensão punitiva, individualizando em cada item a data de constituição definitiva dos créditos tributários e da respectiva inscrição em dívida ativa”. (d) Consectariamente, diante da a existência de notícia, nos autos de origem, do lançamento definitivo do tributo, cuja sonegação é imputada ao Reclamante, resta clara a manifesta improcedência da Reclamação. (e) Demais disso, conclusão diversa da relatada pela Autoridade Reclamada, cujas informações são revestidas de presunção de veracidade, demandaria o indevido incursionamento na moldura fático-probatória delineada nos autos, inviável em sede de Reclamação. Precedentes. 3. Ex positis, nego provimento ao agravo regimental (Rcl 35.563 AgR/DF, Rel. Min. Luiz Fux, Primeira Turma, DJe 2/12/2019 – grifei).
+
+AGRAVO REGIMENTAL NA RECLAMAÇÃO. ALEGAÇÃO DE DESRESPEITO À DECISÃO PROFERIDA NAS ADPF’S 395/DF E 444/DF. INFORMAÇÕES DA AUTORIDADE COATORA. PRESUNÇÃO DE VERACIDADE. CUMPRIMENTO DE MANDADO DE BUSCA E APREENSÃO. CONDUÇÃO COERCITIVA PARA INTERROGATÓRIO. INOCORRÊNCIA. AUSÊNCIA DE ADERÊNCIA ESTRITA. REEXAME DE FATOS E PROVAS. INVIABILIDADE. IMPOSSIBILIDADE DE UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO DE RECURSO. AGRAVO REGIMENTAL NÃO PROVIDO. 1. No caso em análise, alega o reclamante a não observância do precedente firmado pelo Plenário do Supremo Tribunal Federal no julgamento da ADPFs 395 e 444, os quais trataram especificamente da inconstitucionalidade da condução coercitiva de investigados ou réus para interrogatório. 2. Das informações prestadas pela autoridade reclamada – que são dotadas de presunção juris tantum de veracidade –, evidencia-se a inexistência de afronta ao paradigma, pois a autoridade reclamada apenas deu cumprimento ao mandado de busca e apreensão, sem realizar condução coercitiva para interrogatório, a evidenciar a inadmissibilidade da reclamação. 3. Ademais, a pretensão da defesa de reconhecimento da “nulidade da apreensão de bens, valores e documentos encontrados na residência do investigado”, além de ser completamente estranha à hipótese de cabimento, possui nítido propósito de substituir a via recursal própria, o que não é admitido por esta Suprema Corte, tendo em vista que a reclamação não se destina ao atropelamento da marcha processual. Precedentes. 4. Para dissentir das premissas fáticas estabelecidas pela autoridade reclamada e acolher os pleitos da parte reclamante, seria necessária a instauração de incidente de dilação probatória e o reexame de fatos e provas, que são inadmissíveis em sede de reclamação. Precedentes. 5. Agravo regimental conhecido e não provido (Rcl 73.664 AgR/RO, Rel. Min. Flávio Dino, Primeira Turma, DJe 21/2/2025).
+
+O que pretendem os reclamantes, na verdade, é usar o instrumento processual da reclamação como sucedâneo recursal, finalidade essa que não converge com a sua destinação constitucional (Rcl 61.544 ED/SP, da minha relatoria, Primeira Turma, DJe 4/10/2023; e Rcl 20.807 AgR/PB, Rel. Min. Celso de Mello, Segunda Turma, DJe 16/9/2015).
+
+No mesmo sentido:
+
+AGRAVO REGIMENTAL NA RECLAMAÇÃO. ALEGADA USURPAÇÃO DE COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. NÃO OCORRÊNCIA. AUSÊNCIA DE REPERCUSSÃO GERAL (TEMA 181). UTILIZAÇÃO DA VIA RECLAMATÓRIA COMO SUCEDÂNEO DE RECURSO. INVIABILIDADE. AGRAVO IMPROVIDO. I – Não houve usurpação de competência do STF na decisão reclamada, que, ao aplicar a sistemática da repercussão geral, de forma irreparável, com base no Tema 181, respeitou integralmente a competência estabelecida pelo art. 1.030, I, a, do CPC. II – O que pretende a parte agravante, na verdade, é usar o instrumento processual da reclamação como sucedâneo de recurso, finalidade essa que não converge com a sua destinação constitucional. III - Agravo regimental ao qual se nega provimento (Rcl 62.347 AgR/RJ, da minha relatoria, DJe 18/12/2023).
+
+  Por fim, observo que a improcedência desta reclamação não significa que os direitos fundamentais dos moradores do local possam ser violados. Apenas se reconhece que, por ora, não houve qualquer descumprimento das condicionantes impostas pelo Supremo Tribunal Federal na ADPF 828/DF.
+
+Posto isso, com fundamento no art. 992 do CPC e no art. 161, parágrafo único, do RISTF,   julgo improcedente a presente reclamação.
+
+Sem condenação em honorários, pois não houve angularização processual.
+
+Publique-se.
+
+Brasília, 1º de outubro de 2026.
+
+Ministro Cristiano Zanin
+Relator
