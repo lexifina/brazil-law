@@ -1,0 +1,28 @@
+DECISÃO
+Examina-se recurso especial interposto por NOTRE DAME INTERMÉDICA SAÚDE S.A, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 16/3/2026.
+Concluso ao gabinete em: 18/9/2026.
+Ação: declaratória de inexigibilidade de débito c/c rescisão contratual e devolução do valor pago, ajuizada por STOCKER S E SERVICOS INFORMATICA LTDA, em face de NOTRE DAME INTERMÉDICA SAÚDE S.A, na qual requer a rescisão do contrato e a declaração de inexigibilidade das mensalidades posteriores ao pedido de cancelamento, com devolução dos valores.
+Sentença: julgou procedentes os pedidos, para: i) declarar a invalidade da cláusula contratual de aviso prévio de 60 dias; ii) declarar rescindido o contrato a partir de 19/7/2024; iii) declarar a inexigibilidade de todas as prestações posteriores ao pedido de cancelamento.
+Acórdão: negou provimento ao recurso de apelação interposto por NOTRE DAME INTERMÉDICA SAÚDE S/A, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO C.C. RESCISÃO CONTRATUAL E DEVOLUÇÃO DE VALOR PAGO. PLANO DE SAÚDE. EXIGÊNCIA DE NOTIFICAÇÃO PRÉVIA DE 60 DIAS PARA A RESCISÃO DO CONTRATO. INADMISSIBILIDADE. PARÁGRAFO ÚNICO DO ART. 17 DA RN N. 195/2009 DA ANS DECLARADO NULO EM AÇÃO CIVIL PÚBLICA. PRODUÇÃO DE EFEITOS EM ÂMBITO NACIONAL. EXIGÊNCIA, ADEMAIS, ABUSIVA POR COMPROMETER O SINALAGMA CONTRATUAL. PRECEDENTES. SENTENÇA MANTIDA. RECURSO NÃO PROVIDO. Tendo o parágrafo único do artigo 17 da RN 195/2009 da ANS sido declarado nulo em Ação Civil Pública, cuja sentença transitou em julgado, produz efeitos em âmbito nacional e tem efeitos retroativos, conforme já decidiu esta Corte, o beneficiário, em caso de rescisão imotivada do contrato, não está obrigado a cumprir o período de notificação prévia de 60 dias. (e-STJ fl. 488)
+Recurso especial: Alega violação dos arts. 473 do CC, e 506 do CPC, bem como dissídio jurisprudencial. Afirma que é válida a cláusula contratual que impõe aviso prévio de 60 dias na rescisão de plano coletivo, com manutenção da cobertura e remuneração correspondente nesse período. Aduz que a decisão da ação civil pública proposta pelo PROCON/RJ tem efeitos apenas em relação à ANS, não se estendendo às operadoras por força dos limites subjetivos da coisa julgada, considerando que naquela ação coletiva não houve a tutela de direitos individuais homogêneos ou coletivos. Argumenta que o art. 23 da RN 557/2022 atribui às partes a definição das condições de rescisão, permitindo a pactuação do aviso prévio bilateral como expressão da boa-fé e do equilíbrio contratual.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 473 do CC e 506 do CPC, indicados como violados, bem como acerca dos argumentos invocados pela parte recorrente quanto à ocorrência de advocacia predatória, não tendo a referida parte oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Da divergência jurisprudencial
+A ausência de prequestionamento do tema que se supõe divergente, qual seja, a violação dos arts. 473 do CC e 506 do CPC, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 2.391.548/SP, Terceira Turma, DJe de 20/3/2024, e AgInt no AREsp 2.314.188/SP, Quarta Turma, DJe de 21/12/2023.
+Além disso, a comprovação da divergência jurisprudencial demanda que a parte recorrente realize uma análise comparativa detalhada entre o acórdão recorrido e o paradigma, de modo a identificar as semelhanças entre as situações de fato e a existência de interpretações jurídicas diferentes sobre mesmo dispositivo legal, além de observar os requisitos formais, consoante previsão dos arts. 1029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ.
+No entanto, neste recurso, evidencia-se a ausência do cotejo analítico. Importante destacar que a mera transcrição das ementas dos acórdãos não é suficiente para comprovar o dissídio jurisprudencial. É necessário realizar uma comparação minuciosa entre os trechos dos acórdãos recorrido e o paradigma, explicitando como os tribunais interpretam de forma divergente, porém em situações semelhantes, o mesmo artigo de lei federal. Nesse sentido: AgInt no AREsp 2.396.088/PR, 3ª Turma, DJe de 22/11/2023, e AgInt no AREsp 2.334.899/SP, 4ª Turma, DJe de 7/12/2023.
+Forte nessas razões, NÃO CONHEÇO do recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, majoro em 5% os honorários fixados anteriormente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO C/C RESCISÃO CONTRATUAL E DEVOLUÇÃO DE VALOR PAGO.
+AVISO PRÉVIO PARA CANCELAMENTO DO PLANO DE SAÚDE. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA. INVIABILIDADE.
+1. Ação declaratória de inexigibilidade de débito c/c rescisão contratual e devolução de valor pago.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+4. Recurso especial não conhecido.
