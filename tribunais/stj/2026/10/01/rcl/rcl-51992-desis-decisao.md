@@ -1,0 +1,37 @@
+DESIS na RECLAMAÇÃO Nº 51992 - GO (2026/0373659-2)
+
+RELATOR: MINISTRO HUMBERTO MARTINS
+
+REQUERENTE: BANCO VOLVO (BRASIL) S/A
+
+ADVOGADOS: PAULO ARMANDO CAETANO DE OLIVEIRA - PR012628
+
+NATHÁLIA KOWALSKI FONTANA - PR044056
+
+DENNYS ALBUQUERQUE RODRIGUES - DF067659
+
+JULIA BASSO MOREIRA - DF068043
+
+ANDRÉ LUIZ NOGUEIRA DOS SANTOS - DF069707
+
+GABRIELA MENESES ALMEIDA - DF087101
+
+REQUERIDO: PEROLA DISTRIBUICAO E LOGISTICA S/A
+
+ADVOGADO: SEM REPRESENTAÇÃO NOS AUTOS - SE000000M
+
+RECLAMADO: JUIZ DE DIREITO DA 1A VARA CÍVEL DE ANAPOLIS - GO
+
+EMENTA
+RECLAMAÇÃO CONSTITUCIONAL. DESISTÊNCIA DA AÇÃO. ARTS. 485, VIII, DO CPC/2015 E 34, IX, DO RISTJ. DESISTÊNCIA HOMOLOGADA. EXTINÇÃO DA AÇÃO SEM RESOLUÇÃO DE MÉRITO.
+
+DECISÃO
+Cuida-se de petição apresentada por BANCO VOLVO (BRASIL) S/A, às fls. 69-71, requerendo a homologação da desistência da presente reclamação, com fundamento no art. 485, inciso VIII e §§ 4º e 5º do CPC.
+É, no essencial, o relató rio.
+Ante o exposto, com fundamento nos arts. 485, VIII, do CPC e 34, IX, do RISTJ, homologo a desistência e julgo extinta a ação sem resolução de mérito.
+Publique-se. Intimem-se.
+
+Brasília, 01 de outubro de 2026.
+
+Ministro Humberto Martins
+Relator
