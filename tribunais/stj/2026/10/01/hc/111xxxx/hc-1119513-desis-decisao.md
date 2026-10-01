@@ -1,0 +1,24 @@
+DESIS no HABEAS CORPUS Nº 1119513 - SP (2026/0329582-6)
+
+RELATOR: MINISTRO MESSOD AZULAY NETO
+
+REQUERENTE: ARMANDO LACERDA FERREIRA (PRESO)
+
+ADVOGADO: CONRADO DE SOUZA FRANCO - SP247620
+
+REQUERIDO: MINISTÉRIO PÚBLICO FEDERAL
+
+REQUERIDO: MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO
+
+IMPETRADO: TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO
+
+EMENTA
+
+DECISÃO
+N os termos da Petição n. 01028803/2026, e com fulcro no art. 34, inciso IX, do RISTJ, homologo o pedido de desistência formulado à fl. 124 .
+Publ ique-se. Intimem-se.
+
+Brasília, 01 de outubro de 2026.
+
+Ministro Messod Azulay Neto
+Relator
