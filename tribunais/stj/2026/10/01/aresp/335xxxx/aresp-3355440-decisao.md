@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ISRAEL CONCEICAO DE ABREU contra a decisão do Tribunal de Justiça do Estado do Tocantins que inadmitiu recurso especial, apresentado contra o acórdão exarado no julgamento da Apelação Criminal n. 0021448-89.2025.8.27.2729/TO.
+O Ministério Público Federal apresentou parecer opinando pelo não conhecimento do agravo em recurso especial (fls. 314/315).
+É o relatório.
+O agravo é inadmissível.
+Inicialmente, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos, inclusive de forma específica, suficiente e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula n. 182/STJ (AgRg nos EDcl no AREsp n. 2.985.942/MA, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/9/2025).
+Ao que se observa, o Tribunal de origem inadmitiu o apelo nobre pelos seguintes fundamentos: 1) ausência de prequestionamento das teses defensivas, em razão do não conhecimento da apelação por intempestividade, com incidência das Súmulas n. 282 e 356/STF; 2) deserção, por falta de comprovação do preparo e inexistência de gratuidade deferida (fls. 276/278).
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a íntegra da decisão de inadmissão.
+Ora, não houve impugnação concreta do óbice quanto à falta de prequestionamento. Com efeito, o agravante não indicou folhas do acórdão com debate da questão relativa ao patamar máximo de 2/3 pretendido para o redutor do art. 33, § 4º, da Lei n. 11.343/2006 (na hipótese o acórdão recorrido apenas afastou a incidência da minorante, sem deliberar sobre fração), nem articulou a aplicação do art. 1.025 do Código de Processo Civil. Do mesmo modo, quanto à majorante do art. 40, VI, da Lei de Drogas, inexistiu indicação de trecho do acórdão que demonstre apreciação do tema na origem ou alegação de prequestionamento ficto. Por fim, em relação ao perdimento do veículo, igualmente, não foram apontadas folhas do acórdão com debate da matéria nem sustentado prequestionamento ficto.
+No caso, o que se verifica é que as razões do agravo se limitaram a impugnar o fundamento de deserção, sustentando a inaplicabilidade de preparo a recursos criminais da defesa, com base nas garantias do art. 5º, LIV e LV, da Constituição Federal. Assim, persiste a ausência de impugnação específica e concreta de todos os fundamentos da decisão agravada.
+Por conseguinte, aplica-se, à hipótese dos autos, o art. 932, inciso III, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, e a Súmula 182/STJ por analogia.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. APREENSÃO DE 1.701,86 G DE MACONHA E 25,29 G DE COCAÍNA. IMPUGNAÇÃO DEFICIENTE DA DECISÃO DE INADMISSÃO. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
