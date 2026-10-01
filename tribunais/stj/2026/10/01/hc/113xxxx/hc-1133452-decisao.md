@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de LÁZARO HENRIQUE MUNIZ ROSA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, em decorrência do julgamento da apelação criminal n. 1.0000.25.149141-1/001.
+Consta dos autos que o paciente foi inicialmente condenado pelo Juízo da 1ª Vara Criminal e da Infância e da Juventude da Comarca de Manhuaçu/MG à pena de 8 (oito) anos de reclusão, em regime inicial semiaberto, além de 19 (dezenove) dias-multa, pela prática do delito previsto no artigo 157, § 2º, inciso II, e § 2º-A, inciso I, do Código Penal (fls. 221-237).
+A defesa interpôs apelação ao Tribunal de Justiça do Estado de Minas Gerais, que deu parcial provimento ao recurso para redimensionar a pena para 6 (seis) anos e 8 (oito) meses de reclusão, em regime inicial semiaberto, além de 16 (dezesseis) dias-multa, mantidos os demais termos da condenação (fls. 22-55), sobrevindo o trânsito em julgado.
+A defesa impetrou previamente o HC n. 1.133.123/MG perante o Superior Tribunal de Justiça, apontando como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais, em decorrência do julgamento da apelação criminal n. 1.0000.25.149141-1/001. Buscou-se a concessão da ordem para: (i) reconhecer o constrangimento ilegal na terceira fase da dosimetria da pena, afastando a fração de 2/3 aplicada sem fundamentação concreta e individualizada; e (ii) redimensionar a reprimenda, com a aplicação de fração menor, subsidiariamente de 1/3 ou 1/6. O habeas corpus foi indeferido liminarmente (fls. 120-121 do HC n. 1.133.123/MG).
+Nesta impetração, busca-se a concessão da ordem para: (i) afastar a fração de 2/3 aplicada na terceira fase da dosimetria da pena, com o redimensionamento da reprimenda do paciente; e (ii) subsidiariamente, readequar a fração de aumento para patamar inferior.
+É o relatório. DECIDO.
+A pretensão deduzida pela defesa caracteriza reiteração de pedido previamente submetido ao Superior Tribunal de Justiça por ocasião da impetração do HC n. 1.133.123/MG, que foi indeferido liminarmente (fls. 120-121).
+A presente impetração evidencia o propósito de dupla apreciação, o que não é admitido pela jurisprudência do Superior Tribunal de Justiça. A esse respeito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. WRIT INDEFERIDO LIMINARMENTE. MATÉRIA PREVIAMENTE E EXAUSTIVAMENTE ANALISADA NO HC N. 849.414-SP. REITERAÇÃO DE PEDIDOS. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I - Os pleitos ora veiculados já foram anteriormente submetidos à apreciação desta Corte, tendo sido julgados no âmbito do HC n. 849.414-SP, não havendo ilegalidade no não conhecimento do writ em razão da reiteração de pedidos.
+II - Consoante artigo 210 do Regimento Interno do STJ, bem como nos moldes da jurisprudência desta Corte Superior, quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, tal qual ocorreu no presente caso, o relator o indeferirá liminarmente, não havendo ilegalidade a ser sanada quanto ao ponto.
+Agravo regimental desprovido.
+(AgRg no HC n. 894.011/SP, minha relatoria, Quinta Turma, julgado em 17/6/2024, DJe de 20/6/2024.)
+O artigo 210 do Regimento Interno do Superior Tribunal de Justiça autoriza o relator a indeferir liminarmente o habeas corpus quando se tratar de reiteração de outro, com os mesmos fundamentos, hipótese verificada nos presentes autos.
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
