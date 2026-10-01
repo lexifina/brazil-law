@@ -1,0 +1,484 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Superior do Trabalho
+PROCESSO Nº TST-EDCiv-AIRR - 18166-91.2017.5.16.0009
+A C Ó R D Ã O
+5ª Turma
+GMMAR/abl/rsm
+EMBARGOS DE DECLARAÇÃO CÍVEL EM AGRAVO DE
+INSTRUMENTO EM RECURSO DE REVISTA. TERCEIRIZAÇÃO.
+RESPONSABILIDADE SUBSIDIÁRIA. ENTE DA ADMINISTRAÇÃO
+PÚBLICA. CULPA “IN VIGILANDO” COMPROVADA.
+DESPROVIMENTO. 1. Os embargos de declaração têm por
+finalidade provocar a complementação do julgado a fim de
+sanar vícios, com hipóteses taxativamente previstas no art. 897-
+A da CLT e no art. 1.022 do CPC. 2. No caso, diversamente do que
+sustenta a parte, o acórdão embargado limitou-se a reproduzir a
+premissa fática consignada pelo Tribunal Regional, segundo a
+qual “a Administração Pública foi declarada revel e confessa
+quanto aos fatos (incidência da OJ 152 da SBDI-1 do TST), o que
+afasta a tese de transferência automática da responsabilidade e
+caracteriza a culpa in vigilando”. Assim, a referência à revelia e à
+confissão ficta não decorre de equívoco material desta Corte,
+mas da reprodução dos fundamentos adotados pelo acórdão
+regional (Súmula 126 do TST). 3. Ressalte-se que a ausência de
+manifestação desta Corte acerca da preliminar de nulidade de
+intimação decorre do fato de que a insurgência não foi renovada
+nas razões do agravo de instrumento, evidenciando o
+conformismo da parte com o despacho denegatório quanto ao
+tema. 4. Assim, não constatados os equívocos apontados,
+inviável a alteração das conclusões do acórdão pela estreita via
+processual adotada. Embargos de declaração conhecidos e
+desprovidos.
+Vistos, relatados e discutidos estes autos de Embargos de Declaração Cível em
+Agravo de Instrumento em Recurso de Revista nº TST-EDCiv-AIRR - 18166-91.2017.5.16.0009, em que é
+Embargante ESTADO DO MARANHÃO e são Embargados ENALDO TEIXEIRA ALVES e INSTITUTO
+CORPORE PARA O DESENVOLVIMENTO DA QUALIDADE DE VIDA.
+Alegando omissão e erro material, a parte opõe embargos de declaração ao
+acórdão prolatado por esta Eg. Turma.
+É o relatório.
+V O T O
+ADMISSIBILIDADE
+Presentes os requisitos legais de admissibilidade, conheço dos embargos de
+declaração.
+MÉRITO
+A parte embargante alega omissão quanto à nulidade processual suscitada em
+razão da ausência de intimação pessoal para a sessão de julgamento do recurso ordinário. Sustenta que
+não foi apreciada a tese de que, nos autos eletrônicos, as comunicações dirigidas à Fazenda Pública
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683384F4C86D296.
+devem ocorrer por meio eletrônico próprio, nos termos do art. 183 do CPC, e não apenas mediante
+publicação no Diário Eletrônico. Afirma ter sofrido prejuízo ao exercício do contraditório e da ampla
+defesa, por ter sido impedido de apresentar memoriais, formular pedidos de destaque e realizar
+sustentação oral.
+Alega erro material, ao argumento de que o acórdão embargado consignou que a
+responsabilização subsidiária decorreu de sua revelia e confissão ficta, mas não houve decretação de
+revelia nos autos, pois o preposto compareceu à audiência. Por fim, se insurge contra a aplicação do
+item 4, II, da tese firmada pelo STF no Tema 1.118 da Tabela de Repercussão Geral. Defende a
+inaplicabilidade da Lei nº 14.133/2021, bem como a incidência do regime jurídico próprio das parcerias
+com entidades do terceiro setor.
+Passo à análise.
+Os embargos de declaração têm por finalidade provocar a complementação do
+julgado a fim de sanar vícios, com hipóteses taxativamente previstas no art. 897-A da CLT e no art. 1.022
+do CPC. Assim, as partes podem fazer uso dos embargos de declaração quando constatarem a
+existência de erro material, omissão, contradição, obscuridade no julgado, bem como para
+prequestionar tese (art. 1.025 do CPC c/c Súmula 297 do TST), inclusive para provocar complementação
+de fundamentação deficiente (art. 489, § 1º, do CPC).
+Haverá omissão quando o julgado deixar de apreciar um pedido, enquanto o
+prequestionamento evidencia apenas a necessidade de manifestação adicional sobre questões jurídicas
+a tornar conhecida a matéria que será remetida, eventualmente, mediante recurso. Os vícios de
+obscuridade e contradição, por sua vez, ocorrem quando evidenciada a desarmonia da decisão. Obscura
+é a decisão que padece de perspicuidade, enquanto a contradição diz respeito ao antagonismo
+endógeno entre premissas silogísticas e a subsunção ou entre o fundamento e a conclusão do
+provimento.
+No caso, não constatados os equívocos acima apontados, inviável a alteração das
+conclusões do acórdão pela estreita via dos embargos declaratórios. Emerge das razões recursais mero
+inconformismo com os fundamentos constantes na decisão de fundo, que a respeito do tema
+manifestou-se detalhadamente:
+“(...)
+TERCEIRIZAÇÃO. RESPONSABILIDADE SUBSIDIÁRIA. REVELIA DO ENTE DA ADMINISTRAÇÃO
+PÚBLICA. CULPA IN VIGILANDO COMPROVADA
+O Tribunal Regional negou provimento ao recurso ordinário interposto pela parte reclamada,
+quanto ao tema, na esteira dos seguintes fundamentos, parcialmente transcritos no recurso de
+revista, nos termos do art. 896, § 1º-A, I, da CLT:
+‘(...) No que tange à responsabilização da Administração Pública pelos encargos
+trabalhistas decorrentes de contratos de terceirização, é certo que o Supremo Tribunal
+Federal emitiu pronunciamento, por ocasião do julgamento da ADC n° 16, reconhecendo
+a constitucionalidade do art. 71, § 1°, da Lei 8.666/93, que prescreve o seguinte:
+Art. 71 (...)
+§ 1º A inadimplência do contratado, com referência aos encargos trabalhistas,
+fiscais e comerciais não transfere à Administração Pública a responsabilidade por seu
+pagamento, nem poderá onerar o objeto do contrato ou restringir a regularização e o
+uso das obras e edificações, inclusive perante o Registro de Imóveis.
+Contudo, esse reconhecimento não resulta na completa ausência de
+responsabilidade da administração pública pelos contratos firmados com empresas
+prestadoras de serviços, apenas vinculando tal responsabilidade à comprovação de
+culpa do ente público, materializada na ausência do dever que lhe compete, qual seja,
+fiscalizar o cumprimento das obrigações contratuais e legais da prestadora de serviço
+como empregadora.
+Extrai-se do entendimento do Pretório Excelso, que a Lei nº 8.666/93, que
+dispõe sobre normas de licitações e contratos da Administração Pública, deve ser
+analisada com base nos preceitos constitucionais, de modo que, ao fazer uma
+interpretação estritamente literal da norma, como bem pretende o recorrente,
+afrontar-se-iam direitos fundamentais dos trabalhadores, entre eles, a dignidade da
+pessoa humana e a valorização do trabalho.
+Na esteira do entendimento acima esposado, o c. TST implementou uma revisão
+na sua jurisprudência, de modo a adaptá-la à nova diretriz traçada pelo Pretório Excelso,
+conferindo nova redação ao inciso IV da Súmula 331 e a ela acrescentando o inciso V,
+conforme se segue: (...)IV - O inadimplemento das obrigações trabalhistas, por parte do
+empregador, implica a responsabilidade subsidiária do tomador dos serviços quanto
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683384F4C86D296.
+àquelas obrigações, desde que haja participado da relação processual e conste também
+do título executivo judicial. V - Os entes integrantes da Administração Pública direta e
+indireta respondem subsidiariamente, nas mesmas condições do item IV, caso
+evidenciada a sua conduta culposa no cumprimento das obrigações da Lei n.º 8.666, de
+21.06.1993, especialmente na fiscalização do cumprimento das obrigações contratuais e
+legais da prestadora de serviço como empregadora. A aludida responsabilidade não
+decorre de mero inadimplemento das obrigações trabalhistas assumidas pela empresa
+regularmente contratada(...).
+Destarte, conclui-se, primeiramente, que não há inaplicabilidade do entendimento
+sumulado em face do dispositivo legal levantado (art. 71, §1º, da Lei nº 8.666/93), pelo
+contrário, haja vista o C. TST ter revisado sua orientação jurisprudencial justamente para
+se adequar ao comando do STF.
+Ademais, cabe ressaltar que em julgamento ocorrido em 26/04/2017, o Plenário do
+STF definiu a tese de repercussão geral firmada no julgamento do Recurso Extraordinário
+(RE) 760931, que discute a responsabilidade da administração pública gerada pelo
+inadimplemento de verbas trabalhistas de empresas prestadoras de serviços
+contratadas por meio de licitações, cuja tese foi redigida nos seguintes termos:
+O inadimplemento dos encargos trabalhistas dos empregados do contratado não
+transfere ao poder público contratante automaticamente a responsabilidade pelo seu
+pagamento, seja em caráter solidário ou subsidiário, nos termos do artigo 71, parágrafo
+1º, da Lei 8.666/1993. (grifo acrescido)
+Como se pode verificar, foi mantido o entendimento consolidado de que a
+Administração Pública Direta e Indireta não poderá ser responsabilizada de forma
+automática pelo inadimplemento dos encargos trabalhistas dos empregados do
+contratado, e somente responderá subsidiariamente pelo inadimplemento dessas
+obrigações trabalhistas desde que haja participado da relação processual, conste
+também no título executivo judicial e caso reste demonstrada a sua conduta culposa no
+cumprimento das obrigações da Lei nº 8.666/1993, mormente na fiscalização do
+cumprimento das obrigações contratuais e legais da prestadora de serviço como
+empregadora.
+Logo, fica evidente que cabe ao ente público ou entidade da Administração
+Indireta observar a idoneidade econômico-financeira da empresa prestadora de serviço,
+além de velar, após a celebração do contrato, pela correta aplicação da legislação
+celetista, conforme os ditames do art. 67 da Lei nº 8.666/93, sob pena de responder, de
+forma subsidiária, pelo pagamento dos encargos trabalhistas devidos aos empregados
+contratados em decorrência do pacto celebrado com a empresa prestadora de serviços,
+ante a ocorrência de culpa in vigilando, na forma entabulada pelo art. 186 do Código
+Civil.
+Por outro lado, segundo o art. 58, da Lei nº 8.666/93, o Estado tem ainda o dever
+de fiscalizar a contratada, exigindo o cumprimento regular das obrigações legais e
+contratuais, inclusive com relação ao pagamento das verbas rescisórias.
+Ressalte-se que restou incontroversa a ausência de fiscalização do contrato por
+meio da revelia e confissão ficta do ente público recorrente, concluindo-se que a
+atribuição de sua responsabilidade subsidiária está em consonância com a
+jurisprudência do Tribunal Superior do Trabalho (Súmula 331, V) e do STF.
+Dessa forma, em consonância com a decisão prolatada pelo STF e com o
+entendimento do c. TST, não comprovado o zelo e exação quanto ao cumprimento
+das obrigações trabalhistas por parte do 1º reclamado e tendo composto a lide, não
+vislumbramos qualquer motivo para que se possa eximir do 2º demandado a
+responsabilidade subsidiária pelos direitos reconhecidos na sentença recorrida’
+(destaques da parte).
+Na minuta de agravo de instrumento, a parte reclamada requer seja conhecido e provido o
+recurso de revista e, assim, afastada sua condenação subsidiária, por entender que não foram
+identificados elementos que evidenciem o descumprimento das obrigações previstas na Lei nº
+8.666/93. Assevera que foi responsabilizado de forma objetiva e automática, embora tenha cumprido
+a fiscalização contratual. Alega que, no caso, houve a indevida inversão do ônus probatório. Indica
+ofensa aos arts. 5º, LV, da Constituição Federal, 71, § 1º, da Lei 8.666/93, 818, I, §§ 1º e 2º, da CLT,
+além de contrariedade à Súmula 331, V, do TST. Colaciona arestos.
+Nos termos do art. 896-A, § 1º, IV, da CLT, reconheço a transcendência jurídica da matéria.
+O Supremo Tribunal Federal, no julgamento da Ação Declaratória de Constitucionalidade nº 16-
+DF, em 24/11/2010 (Relator Ministro Cezar Peluso, in DJe 9/9/2011), ao passo em que concluiu pela
+higidez do art. 71, § 1º, da Lei nº 8.666/1993, entendeu necessária, para o reconhecimento da
+responsabilidade subsidiária da Administração Pública, a efetiva demonstração de culpa, em adoção
+à teoria da responsabilidade subjetiva extracontratual. Concluiu inaplicável, ao caso, o art. 37, § 6°,
+da Constituição Federal.
+Tal compreensão foi reafirmada ao apreciar o Tema 246 da Repercussão Geral, no qual
+assentou, com eficácia erga omnes e efeito vinculante, a seguinte tese:‘o inadimplemento dos encargos
+trabalhistas dos empregados do contratado não transfere automaticamente ao Poder Público
+contratante a responsabilidade pelo seu pagamento, seja em caráter solidário ou subsidiário, nos termos
+do art. 71, § 1º, da Lei nº 8.666/93’.
+Contra tal decisão, opostos três embargos de declaração, nos quais se questionava, dentre
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683384F4C86D296.
+outros aspectos, qual o alcance do advérbio "automaticamente", de modo a delimitar a
+responsabilidade da Administração Pública pelos débitos trabalhistas de pessoas jurídicas por ela
+contratadas, e a quem competiria o ônus da prova da omissão no dever de fiscalizar o regular
+adimplemento das verbas devidas aos empregados.
+Rejeitados os embargos de declaração, nos termos do voto do Ministro Edson Fachin, assim
+ementado:
+‘EMBARGOS DECLARATÓRIOS EM RECURSO EXTRAORDINÁRIO. TEMA 246 DA
+SISTEMÁTICA DA REPERCUSSÃO GERAL. RESPONSABILIDADE SUBSIDIÁRIA DA
+ADMINISTRAÇÃO PÚBLICA. EMPRESAS TERCEIRIZADAS. INEXISTÊNCIA DE OMISSÃO,
+OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. EMBARGOS DE DECLARAÇÃO
+REJEITADOS. 1. Não há contradição a ser sanada, pois a tese aprovada, no contexto da
+sistemática da repercussão geral, reflete a posição da maioria da Corte quanto ao tema
+em questão, contemplando exatamente os debates que conduziram ao acórdão
+embargado. 2. Não se caracteriza obscuridade, pois, conforme está cristalino no acórdão
+e na respectiva tese de repercussão geral, a responsabilização subsidiária do poder
+público não é automática, dependendo de comprovação de culpa in eligendo ou culpa in
+vigilando, o que decorre da inarredável obrigação da administração pública de fiscalizar
+os contratos administrativos firmados sob os efeitos da estrita legalidade. 3. Embargos
+de declaração rejeitados.’ (RE 760931 ED, Ac. Tribunal Pleno, Relator Ministro Luiz Fux,
+Relator p/ Acórdão Ministro Edson Fachin, DJe 6/9/2019).
+Fixou-se, portanto, o entendimento acerca da impossibilidade de responsabilização subsidiária
+automática da Administração Pública, mas tão somente acaso demonstrada sua conduta omissiva ou
+comissiva.
+Acrescendo novos delineamentos à questão, no julgamento do Tema 1.118 da Tabela de
+Repercussão Geral, o Supremo Tribunal Federal decidiu ser da parte autora o ônus de comprovar a
+falha na fiscalização das obrigações trabalhistas da prestadora de serviços contratada. Foram fixadas
+as seguintes teses jurídicas:
+‘1. Não há responsabilidade subsidiária da Administração Pública por encargos
+trabalhistas gerados pelo inadimplemento de empresa prestadora de serviços
+contratada, se amparada exclusivamente na premissa da inversão do ônus da prova,
+remanescendo imprescindível a comprovação, pela parte autora, da efetiva existência de
+comportamento negligente ou nexo de causalidade entre o dano por ele invocado e a
+conduta comissiva ou omissiva do poder público.
+2. Haverá comportamento negligente quando a Administração Pública
+permanecer inerte após o recebimento de notificação formal de que a empresa
+contratada está descumprindo suas obrigações trabalhistas enviada pelo trabalhador,
+sindicato, Ministério do Trabalho, Ministério Público, Defensoria Pública ou outro meio
+idôneo.
+3. Constitui responsabilidade da Administração Pública garantir as condições de
+segurança, higiene e salubridade dos trabalhadores quando o trabalho for realizado em
+suas dependências ou local previamente convencionado em contrato, nos termos do
+artigo 5º-A, § 3º, da Lei 6.019/1974.
+4. Nos contratos de terceirização, a Administração Pública deverá: (i) exigir da
+contratada a comprovação de capital social integralizado compatível com o número de
+empregados, na forma do art. 4º-B da Lei nº 6.019/1974; e (ii) adotar medidas para
+assegurar o cumprimento das obrigações trabalhistas pela contratada, na forma do art.
+121, § 3º, da Lei nº 14.133/2021, tais como condicionar o pagamento à comprovação de
+quitação das obrigações trabalhistas do mês anterior.’
+Extrai-se, ainda, da ementa do acórdão:
+‘O reconhecimento da culpa exige demonstração específica de que a
+Administração, mesmo após ter sido notificada formalmente sobre o descumprimento
+de obrigações trabalhistas pela empresa contratada, permaneceu inerte, omitindo-se em
+adotar as providências cabíveis para assegurar a regularidade contratual.’
+Com efeito, inviável presumir a ciência do inadimplemento pela Administração Pública, que
+não tem o ônus da prova da culpa na fiscalização, tanto no que concerne ao conhecimento da
+situação de ilegalidade quanto à inércia em implementar medidas para saná-la.
+Além disso, para a configuração da culpain vigilando não basta a mera constatação de
+ineficácia da fiscalização, ainda que decorrente da comprovação do descumprimento das obrigações
+regulares do contrato de trabalho.
+Esse entendimento foi reafirmado pela Suprema Corte, após o julgamento do Tema 1.118 da
+Tabela de Repercussão Geral. Citam-se as seguintes decisões monocráticas: Rcl 77037/SP, Relator
+Ministro Gilmar Mendes, DJe de 13/03/2025; Rcl 76942/RS, Relatora Ministra Cármen Lúcia, DJe de
+17/03/2025; Rcl 75541/RS, Relator Ministro André Mendonça, DJe de 13/03/2025; Rcl 76983/RS,
+Relator Ministro Cristiano Zanin, DJe de 07/03/2025; Rcl 76650/SP – Relator Ministro Nunes Marques,
+DJe de 11/03/2025, dentre outras.
+Diante disso, entendo superada a compreensão da SBDI-1 desta Corte nos precedentes E-RR￾Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683384F4C86D296.
+925-07.2016.5.05.0281 e E-RR-992-25.2014.5.04.0101.
+Não obstante, esta 5ª Turma decidiu, interpretando os itens 1, 2 e 4 da tese do Tema 1.118 da
+Tabela de Repercussão Geral do STF, que, nos casos nos quais há inadimplemento do FGTS no curso
+do contrato de trabalho, haverá culpa in vigilando, uma vez que a prestadora teria que apresentar
+mensalmente o pagamento da parcela à tomadora. Excepcionados, de igual modo, os processos em
+que há revelia do ente público.
+Fiquei vencida no ponto, à luz do que extraio da parte vinculante da decisão, da ementa e,
+expressamente, do voto do Ministro Flávio Dino, acolhido pelo relator, Ministro Nunes Marques, de
+seguinte teor: ‘fundamento minha divergência na necessidade de tornar a tese mais direta, evitando-se
+eventuais aplicações do precedente vinculante que prejudiquem a sua estabilidade, integridade e
+coerência (art. 926 do CPC). Isso porque entendo que a notificação formal e fundamentada dirigida à
+administração pública pode noticiar quaisquer descumprimentos de obrigações trabalhistas pela empresa
+contratada, seja no que concerne ao pagamento, seja em relação àquelas de natureza previdenciária ou
+do FGTS, por exemplo. Dessa forma, visando a evitar eventual má compreensão ou distorções na aplicação
+da tese, proponho a retirada do termo ‘notadamente o pagamento’ constante no item 2.’
+Por isso, ressalvo minha compreensão.
+No caso em exame, extrai-se do acórdão que a Administração Pública foi declarada revel e
+confessa quanto aos fatos (incidência da OJ 152 da SBDI-1 do TST), o que afasta a tese de
+transferência automática da responsabilidade e caracteriza a culpa in vigilando. Observe-se:
+‘Ressalte-se que restou incontroversa a ausência de fiscalização do contrato por
+meio da revelia e confissão ficta do ente público recorrente, concluindo-se que a
+atribuição de sua responsabilidade subsidiária está em consonância com a
+jurisprudência do Tribunal Superior do Trabalho (Súmula 331, V) e do STF’.
+Em situação análoga a dos autos, já decidiu esta 5ª Turma:
+‘AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. ACÓRDÃO PUBLICADO NA
+VIGÊNCIA DA LEI Nº 13.467/2017. ADMINISTRAÇÃO PÚBLICA. RESPONSABILIDADE
+SUBSIDIÁRIA. CULPA IN VIGILANDO. TEMA Nº 246 DO STF. CULPA COMPROVADA.
+AUSÊNCIA DE TRANSCENDÊNCIA. O Supremo Tribunal Federal, em sede de repercussão
+geral, ao julgar o mérito do RE 760931/DF, fixou a seguinte tese a respeito da
+impossibilidade de transferência automática da responsabilidade subsidiária ao
+integrante da Administração Pública: "O inadimplemento dos encargos trabalhistas dos
+empregados do contratado não transfere automaticamente ao Poder Público
+contratante a responsabilidade pelo seu pagamento, seja em caráter solidário ou
+subsidiário, nos termos do art. 71, § 1º, da Lei nº 8.666/93 ". Na hipótese, o acórdão
+regional consignou que o ente público foi declarado revel e confesso quanto à matéria
+de fato, não se havendo falar, portanto, em transferência automática de
+responsabilidade . Tendo em vista que a decisão regional encontra-se em conformidade
+com o entendimento consubstanciado pelo STF no RE 760931/DF, bem como na Súmula
+nº 331, V, do TST, incide o óbice da Súmula nº 333 do TST e do artigo 896, § 7º, da CLT. A
+existência de obstáculo processual apto a inviabilizar o exame da matéria de fundo
+veiculada, como no caso, acaba por evidenciar, em última análise, a própria ausência de
+transcendência do recurso de revista, em qualquer das suas modalidades. Agravo de
+instrumento não provido’ (AIRR-0010701-22.2023.5.15.0147, 5ª Turma,Relator Ministro
+Breno Medeiros, DEJT 04/04/2025).
+‘AGRAVO EM RECURSO DE REVISTA COM AGRAVO DE INSTRUMENTO. ACÓRDÃO
+REGIONAL PUBLICADO NA VIGÊNCIA DA LEI Nº 13.467/2017. RESPONSABILIDADE
+SUBSIDIÁRIA. ENTE DA ADMINISTRAÇÃO PÚBLICA. REVELIA. CULPA COMPROVADA.
+TRANSCENDÊNCIA NÃO RECONHECIDA NA DECISÃO AGRAVADA. 1. Em interpretação
+sistemática dos arts. 58, III, 67 e 71 da Lei nº 8.666/1993, é possível inferir a
+responsabilidade subjetiva e subsidiária do ente da Administração Pública Direta ou
+Indireta, quando caracterizadas ação ou omissão culposa na fiscalização e a ausência de
+adoção de medidas preventivas ou sancionatórias ao inadimplemento de obrigações
+trabalhistas por parte de empresas prestadoras de serviços contratadas. 2. O Supremo
+Tribunal Federal, no julgamento do RE nº 760.931/DF (Tema 246 da Repercussão Geral),
+fixou, com eficácia “erga omnes” e efeito vinculante, tese acerca da impossibilidade de
+responsabilização subsidiária automática da Administração Pública, salvo quando
+demonstrada sua conduta omissiva ou comissiva. 3. No caso em exame, a Corte Regional
+consignou que a Administração Pública foi declarada revel e confessa quanto aos fatos
+(incidência da OJ 152 da SBDI-1 do TST), o que afasta a tese de transferência automática
+da responsabilidade e caracteriza a culpa “in vigilando”. 4. Nessa hipótese, é irrelevante a
+discussão a respeito do ônus de comprovar eventual conduta culposa na fiscalização das
+obrigações trabalhistas (Tema 1.118 de Repercussão Geral). Precedentes. Mantém-se a
+decisão recorrida. Agravo conhecido e desprovido’ (Ag-ARR-387-58.2014.5.15.0106, 5ª
+Turma, Relatora Ministra Morgana de Almeida Richa, DEJT 14/04/2025).
+‘AGRAVO. AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA REGIDO PELA LEI
+13.467/2017. RESPONSABILIDADE SUBSIDIÁRIA. ENTE DA ADMINISTRAÇÃO PÚBLICA.
+MATÉRIA JULGADA PELO SUPREMO TRIBUNAL FEDERAL (RE 760.931). REPERCUSSÃO
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683384F4C86D296.
+GERAL. REVELIA. CONFISSÃO FICTA APLICADA. CONFIGURAÇÃO DE CULPA IN
+VIGILANDO. TRANSCENDÊNCIA JURÍDICA. 1. Discute-se nos presentes autos a
+responsabilidade subsidiária do ente público pelas verbas trabalhistas inadimplidas pela
+empresa prestadora de serviços. 2. O Supremo Tribunal Federal, no julgamento da ADC
+16 ajuizada pelo governo do Distrito Federal, considerou constitucional o art. 71, § 1º, da
+Lei 8.666/93. Afirmou que a simples inadimplência da empresa contratada não transfere,
+automaticamente, a responsabilidade pelas verbas trabalhistas à entidade pública. Com
+efeito, a responsabilidade subsidiária da Administração Pública não decorre de
+presunção de culpa ou do simples fato de ter a parte Reclamante prestado serviços à
+tomadora de serviços, mas da verificação em concreto da culpa pela instância revisora.
+3. No presente caso, o Tribunal Regional destacou que o ente público foi declarado revel
+e confesso quanto aos fatos, circunstância que caracterizou a culpa in vigilando do
+segundo Reclamado. 4. Está sedimentado nesta Corte Superior o entendimento de que
+as pessoas jurídicas de direito público sujeitam-se aos efeitos da revelia prevista no
+artigo 844 da CLT. Inteligência da OJ 152 da SBDI-1/TST. 5. Fixada a premissa da confissão
+da entidade pública quanto à ausência de fiscalização e, portanto, configurada a culpa in
+vigilando , é legítima a imputação da responsabilidade subsidiária combatida. Decisão
+monocrática mantida com acréscimo de fundamentação. Agravo não provido’ (Ag-AIRR￾1001297-42.2021.5.02.0605, 5ª Turma,Relator Ministro Douglas Alencar Rodrigues ,
+DEJT 16/02/2024).
+Nessa hipótese, é irrelevante a discussão a respeito do ônus de comprovar eventual conduta
+culposa na fiscalização das obrigações trabalhistas (Tema 1.118 de Repercussão Geral).
+Diante do exposto, nego provimento ao agravo de instrumento.”
+Depreende-se da transcrição do acórdão, em cotejo com as razões de embargos
+de declaração, o nítido intento de reanálise das matérias, inclusive, com repetição de argumentos
+trazidos em sede de recurso de revista, já rebatidos, ainda que indiretamente.
+No que se refere ao alegado erro material, não assiste razão ao embargante.
+Isso porque, diversamente do que sustenta a parte, o acórdão embargado
+limitou-se a reproduzir a premissa fática consignada pelo Tribunal Regional, segundo a qual “a
+Administração Pública foi declarada revel e confessa quanto aos fatos (incidência da OJ 152 da SBDI-1 do
+TST), o que afasta a tese de transferência automática da responsabilidade e caracteriza a culpa in
+vigilando”.
+Assim, a referência à revelia e à confissão ficta não decorre de equívoco material
+desta Corte, mas da reprodução dos fundamentos adotados pelo acórdão regional (Súmula 126 do TST).
+Quanto à alegada omissão na análise da nulidade arguida, também não assiste
+razão ao embargante.
+A ausência de manifestação desta Corte acerca da preliminar de nulidade de
+intimação decorre do fato de que a insurgência não foi renovada nas razões do agravo de instrumento,
+evidenciando o conformismo da parte com o despacho denegatório quanto ao tema.
+Com efeito, em razão da devolutividade estrita, inerente aos recursos de natureza
+extraordinária, somente são objeto de análise por esta Corte as matérias expressamente devolvidas no
+agravo de instrumento, tal como determina o art. 1º, “caput”, da Instrução Normativa nº 40/2016 do TST.
+Assim, não tendo a parte renovado a controvérsia relativa à alegada nulidade
+processual, inexiste a omissão apontada.
+Ressalte-se que o reexame do mérito e da aplicação do direito é vedado em sede
+de embargos de declaração. Se a parte entende que o acórdão não julgou corretamente a questão (error
+in judicando), ou que tal entendimento destoa dos meios probatórios produzidos ou do posicionamento
+preponderante sobre a matéria, deve expor seu inconformismo por meio de medida recursal adequada.
+Nestes termos, nego provimento.
+ISTO POSTO
+ACORDAM os Ministros da Quinta Turma do Tribunal Superior do Trabalho, por
+unanimidade, conhecer e negar provimento aos embargos declaratórios.
+Brasília, 29 de setembro de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+MORGANA DE ALMEIDA
+Ministra Relatora
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683384F4C86D296.
+Fir
+m
+a
+d
+o
+p
+o
+r
+a
+s
+sin
+a
+t
+u
+r
+a
+digit
+al e
+m
+0
+2
+/
+1
+0
+/
+2
+0
+2
+6
+p
+elo
+sis
+t
+e
+m
+a
+A
+s
+sin
+eJ
+u
+s
+d
+a
+J
+u
+s
+tiç
+a
+d
+o
+T
+r
+a
+b
+alh
+o, c
+o
+n
+f
+o
+r
+m
+e
+M
+P
+2.2
+0
+0
+-
+2
+/
+2
+0
+0
+1, q
+u
+e in
+s
+tit
+uiu
+a In
+f
+r
+a
+-
+E
+s
+t
+r
+u
+t
+u
+r
+a
+d
+e
+C
+h
+a
+v
+e
+s
+P
+ú
+blic
+a
+s
+B
+r
+a
+sileir
+a. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683384F4C86D296.
