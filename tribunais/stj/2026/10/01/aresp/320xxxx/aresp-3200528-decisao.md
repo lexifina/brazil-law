@@ -1,0 +1,8 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por R046 RIO DE JANEIRO EMPREENDIMENTOS E PARTICIPACOES S.A contra acordão que julgou questão relativa à resolução contratual por culpa ou desistência imotivada do comprador, e legitimidade da retenção de parte dos valores pagos pelo vendedor, variando entre 10% e 25%.
+A controvérsia objeto do recurso especial está submetida a julgamento no rito dos recursos repetitivos, afetado ao Tema n. 1.465/STJ:
+Definir o percentual e a respectiva base de cálculo dos valores que o vendedor poderá reter na rescisão, por iniciativa e culpa do comprador/consumidor, de contratos de compra e venda de imóvel firmados anteriormente à vigência da Lei nº 13.786/2018 (Lei do Distrato).
+Tendo em vista que o presente agravo em recurso especial enquadra-se no tema acima descrito, em observância ao princípio da economia processual e à finalidade dos precedentes vinculantes, é imperioso determinar o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão a ser proferido nos autos dos recursos representativos da controvérsia.
+Ante o exposto, determino que o feito seja devolvido e sobrestado no Tribunal de origem, para que se aguarde o julgamento Tema n. 1.465/STJ , de modo que, após sua publicação, em observância ao art. 1.040 do CPC: a) seja negado seguimento ao recurso, se a decisão recorrida coincidir com a orientação emanada pela Corte de Justiça; ou b) proceda-se ao juízo de retratação, na hipótese de o acórdão vergastado divergir da decisão sobre o tema posto no rito dos recursos repetitivos.
+Publique-se. Intimem-se.
+EMENTA
