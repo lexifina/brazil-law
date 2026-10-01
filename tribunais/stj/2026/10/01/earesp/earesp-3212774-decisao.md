@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo manejado por Gaudencio Barbosa contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo, assim ementado (fls. 741/742):
+ADMINISTRATIVO E PROCESSUAL CIVIL - APELAÇÃO CÍVEL - PRESCRIÇÃO INTERCORRENTE - CONSELHO DE DISCIPLINA - LEI ESTADUAL Nº 3.206/1978 - PRAZO PRESCRICIONAL - ILÍCITO DISCIPLINAR CAPITULADO COMO CRIME - RECURSO PARCIALMENTE CONHECIDO E DESPROVIDO.
+Recurso de apelação interposto contra sentença que julgou improcedente pedido de anulação de Conselho de Disciplina, mantendo a exclusão do apelante da Polícia Militar.
+Preliminar de inovação recursal parcialmente acolhida, afastando o conhecimento da tese de inconstitucionalidade de dispositivo legal não debatida no primeiro grau.
+Afastada a prescrição intercorrente, considerando a interrupção do prazo com a instauração do Conselho de Disciplina e a aplicação do prazo prescricional penal a ilícitos disciplinares tipificados como crimes.
+Inexistência de cerceamento de defesa ou nulidade no procedimento administrativo. Recurso parcialmente conhecido e, na parte conhecida, desprovido.
+I. Caso em exame Recurso de apelação contra sentença que rejeitou pedido de anulação do Conselho de Disciplina instaurado contra o apelante, mantendo a exclusão das fileiras da Polícia Militar.
+O apelante sustenta prescrição intercorrente, vícios no procedimento e inconstitucionalidade de dispositivo regulamentar. O apelado suscita inovação recursal quanto a alguns temas.
+Opostos embargos declaratórios, foram rejeitados (fls. 774/808).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 369 e 373 do CPC e 5º, LV, da Constituição Federal. Sustenta a ocorrência de cerceamento de defesa, sob o argumento de que "a produção da prova documental era de suma importância, haja vista que o recorrente, na época dos fatos, estava sob tratamento médico psiquiátrico no Hospital da Polícia Militar do ES, mas que, apesar do protocolo perante a instituição de saúde. Dessa maneira, o Recorrente mesmo tendo requerido ao Juiz a quo para que fosse oficiado a instituição de saúde, conforme previsto no art. 6º e art. 378 do CPC, mas o apelo foi indeferido sob a argumentação que as provas produzidas eram suficientes. Portanto, verifica-se que o direito do Recorrente de produção da prova documental foi sonegado ordinárias." (fls. 815/816).
+Em 18/5/2026 o em. Ministro Presidente do STJ proferiu decisão unipessoal conhecendo do agravo para não conhecer do recurso especial, ante a incidência das Súmulas 282 e 284/STF (fls. 873/877), contra a qual foi interposto agravo interno (fls. 883/890), pendente de apreciação.
+O Ministério Público Federal, em parecer do ilustre Subprocurador-Geral da República Rodolfo Tigre Maia, opinou pelo desprovimento do agravo interno (fls. 922/932).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Melhor compulsando os autos, exercendo o juízo de retratação facultado pelo art. 1.021, § 2º, 2ª parte, do CPC e 259 do RISTJ, reconsidero a decisão agravada (fls. 873/877), tornando-a sem efeito.
+Passo a novo exame do agravo em recurso especial.
+Inicialmente, em recurso especial não cabe invocar violação a norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa aos arts. 5º, LV, da Constituição Federal.
+No mais, o Tribunal de origem afastou o alegado cerceamento de defesa, com base na seguinte fundamentação (fls. 747/748):
+Conforme bem fundamentado pela sentença recorrida, o Apelante não comprovou, nos autos, cerceamento do direito de defesa ou violação ao devido processo legal, ônus que lhe incumbia. Nesse sentido, destaca a sentença vergastada que:
+"Da análise detida das alegações autorais, percebo que não há qualquer indicativo feito pelo Autor de que lhe foi cerceado algum direito. Outrossim, inexiste qualquer evidência de cerceamento de defesa.
+O autor foi punido nos termos do Conselho de Disciplina de Portaria n.
+021/2005, conforme decisão de fls. 50/62, à pena de exclusão a bem da disciplina.
+O Autor não indicou com exatidão o ato da Administração que o impediu de constituir defensor ou da manifestação deste nos autos, violando algum princípio de ordem constitucional. Inexiste qualquer elemento nos autos capaz de comprovar que houve cerceamento de defesa por parte do Autor no processo administrativo disciplinar instaurado pelo Réu, violando assim princípios basilares e de ordem constitucional como os princípios da ampla defesa e do contraditório. Ora, para se falar em ilicitude apta a gerar o reconhecimento de nulidade de processo administrativo faz-se necessário que a parte demonstre de forma substancial o vício que macula o procedimento".
+Quanto ao tema, esta C. Câmara se manifestou nos seguintes termos:
+(..)
+Outrossim, além de não terem sido comprovadas quaisquer nulidades no caso em apreço, é forçoso considerar, em atenção ao princípio "Pas de Nullité Sans Grief", que tais nulidades devem ser acompanhadas de demonstração de prejuízo, o que, uma vez mais, não se verifica no caso em tela.
+Nesse contexto, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Em reforço:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONCURSO PÚBLICO. CERCEAMENTO DE DEFESA. INDEFERIMENTO DE PROVA PERICIAL. INCIDÊNCIA DA SÚMULA 7/STJ. VÍCIOS DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CONTROVÉRSIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração destinam-se a sanar obscuridade, contradição, omissão ou erro material, nos termos do art. 1.022 do CPC/2015, vícios não verificados na hipótese, porquanto o acórdão embargado enfrentou de forma suficiente a controvérsia e consignou que a revisão da conclusão das instâncias ordinárias quanto ao indeferimento da prova pericial e à alegada configuração de cerceamento de defesa demandaria o reexame do conjunto fático-probatório dos autos, providência inviável em recurso especial diante do óbice da Súmula 7/STJ.
+2. O inconformismo da parte com a fundamentação adotada e a alegação de inadequada aplicação da Súmula 7/STJ evidenciam mera pretensão de rediscussão da matéria decidida, finalidade incompatível com a estreita via dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no REsp n. 2.182.864/AL, relator Ministro Marco Aurélio Bellizze, Segunda Turma, julgado em 16/9/2026, DJEN de 21/9/2026.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. ATOS ADMINISTRATIVOS. INFRAÇÃO E MULTAS. AÇÃO ANULATÓRIA. ARGUIÇÃO DE NULIDADE DO AUTO DE INFRAÇÃO E DO PROCESSO ADMINISTRATIVO. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA N. 7/STJ. AGRAVO EM RECURSO ESPECIAL CONHECIDO. ÓBICES À ADMISSIBILIDADE DO RECURSO ESPECIAL. RECURSO ESPECIAL NÃO CONHECIDO.
+I - Na origem, trata-se de ação anulatória de auto de infração e auto de multa, lavrados durante fiscalização no estabelecimento da parte autora. Na sentença, julgou-se o pedido improcedente. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 100.000,00 (cem mil reais).
+II - Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça. Não se deve conhecer do recurso especial.
+III - A irresignação da parte recorrente acerca da matéria, vai de encontro às convicções do julgador a quo, que decidiu o ponto com lastro no conjunto probatório constante dos autos. Dessa forma, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese o Enunciado n. 7 da Súmula do STJ.
+IV - Agravo em recurso especial conhecido. Recurso especial não conhecido.
+(AREsp n. 3.266.772/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/9/2026, DJEN de 21/9/2026.)
+ANTE O EXPOSTO, em juízo de retratação, nos termos do art. 1.021, § 2º, do CPC, reconsidero a decisão de fls. 873/877 e, nessa extensão, conheço do agravo para não conhecer do recurso especial. Prejudicado o agravo interno de fls. 883/890.
+Publique-se.
+EMENTA
