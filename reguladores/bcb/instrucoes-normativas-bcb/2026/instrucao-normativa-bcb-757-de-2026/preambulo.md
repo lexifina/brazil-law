@@ -1,0 +1,4 @@
+CIRCULAR N INSTRUÇÃO NORMATIVA BCB Nº 757, DE 8 DE JULHO DE 2026
+Estabelece os procedimentos para a prestação de informações ao Banco Central do Brasil relativas a contas de depósito em moeda estrangeira de que trata o art. 80-A da Resolução BCB nº 277, de 31 de dezembro de 2022.
+O Chefe do Departamento de Monitoramento do Sistema Financeiro – Desig e o Chefe do Departamento de Regulação Prudencial e Cambial – Dereg, no uso das atribuições que lhes conferem o art. 23, inciso I, alínea “a” do Regimento Interno do Banco Central do Brasil, divulgado por meio da Resolução BCB nº 340, de 21 de setembro de 2023, com base nos arts. 85, inciso I, alínea “b”, e 119, inciso II, alínea “a”, respectivamente, do referido Regimento, e tendo em vista o disposto nas Resoluções BCB ns. 277, de 31 de dezembro de 2022, e 575, de 18 de junho de 2026,
+R E S O L V E M :
