@@ -1,0 +1,24 @@
+DESIS no AGRAVO EM RECURSO ESPECIAL Nº 3391133 - TO (2026/0401666-4)
+
+RELATOR: MINISTRO PRESIDENTE DO STJ
+
+REQUERENTE: DECOLAR. COM LTDA.
+
+ADVOGADO: MARCELO MARCOS DE OLIVEIRA - SP179168
+
+REQUERIDO: MARILANE COELHO LUCAS
+
+ADVOGADA: JULIANNY GOMES E COSTA - TO005107
+
+EMENTA
+
+DECISÃO
+
+Homologo a desistência do Agravo em Recurso Especial (fl. 289) interposto nos presentes autos por DECOLAR. COM LTDA.
+No mais, encaminhem-se os autos à origem.
+Publique-se. Intimem-se.
+
+Brasília, 01 de outubro de 2026.
+
+MINISTRO LUIS FELIPE SALOMÃO
+Presidente
