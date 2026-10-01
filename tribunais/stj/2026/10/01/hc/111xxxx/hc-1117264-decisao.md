@@ -1,0 +1,27 @@
+DECISÃO
+BRUNO BARBOSA DE OLIVEIRA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1513262-78.2025.8.26.0385.
+O paciente foi condenado a 5 anos e 10 meses de reclusão, em regime inicial fechado, mais multa, pela prática do crime do art. 33, caput, c/c 40, VI, da Lei n. 11.343/2006.
+A defesa sustenta que o afastamento do tráfico privilegiado baseou-se indevidamente apenas na quantidade de drogas e na apreensão de rádio transmissor. Afirma que o paciente é primário e possui bons antecedentes.
+Requer a aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006, com redimensionamento da pena, adequação do regime prisional e substituição da pena privativa de liberdade por restritivas de direitos.
+O Ministério Público Federal manifestou-se pelo não conhecimento da impetração ou, caso conhecida, pela denegação da ordem (fls. 88-93).
+Decido.
+Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida." (AgRg no AgRg no AREsp n. 2.458.375/RS, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 13/11/2023).
+No caso, a instância de origem - dentro do seu livre convencimento motivado - apontou elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades delituosas, notadamente ao tráfico de drogas.
+Para tanto, salientou a Corte estadual que (fls. 13-14, destaquei):
+Na derradeira fase, não se cogita, na espécie, da aplicação do § 4º do artigo 33 da Lei nº 11.343/2006.
+Isso porque o referido benefício é destinado apenas ao pequeno traficante, novato, "de primeira viagem", nas palavras de GUILHERME DE SOUZA NUCCI (Leis Penais Especiais, RT, 2ª edição, 2007, p. 330).
+Consta dos autos que, além das centenas de porções de cocaína e crack, o acusado foi detido em local conhecido como ponto de venda de drogas, conluiado com um adolescente e trazendo, ainda, um rádio transmissor, evidenciando sua dedicação ao comércio proibido e vinculação com organização criminosa.
+Ora, todos sabem que, para que se possa praticar quaisquer das condutas previstas na cabeça do artigo 33 da Lei n.º 11.343/06, não é suficiente a mera predisposição do agente. Não se consegue droga em grande quantidade, no atacado, em qualquer lugar.
+Não se pode efetuar a venda de entorpecentes em qualquer lugar, a menos que sob a autorização da organização criminosa que controla a atividade na região em que se pretende exercer o comércio ilícito.
+Caso contrário, sofrerá represálias.
+O transporte da droga não é confiado a qualquer um que se disponibilize a fazê-lo, pois são vultosos os valores envolvidos.
+Os responsáveis pela organização da atividade, por certo, não confiariam a execução de importante tarefa necessária para a consecução do objetivo final da atividade à pessoa que não goze de sua confiança, ou seja, que possua com eles estreito vínculo, sendo irrelevante eventual prévio vínculo empregatício em atividade formal.
+Ademais, faço o registro de que, por ocasião do julgamento de recurso especial sob o rito dos recursos repetitivos, a Terceira Seção deste Tribunal decidiu (Tema n. 1.154):
+A apreensão de quantidade de drogas de tal modo expressiva que, por sua própria dimensão, seja incompatível com a figura do traficante eventual ou de pequeno traficante, configura fundamento idôneo para afastar a minorante do art. 33, § 4º, da Lei n. 11.343/2006. Fora dessa hipótese, a natureza e a quantidade das drogas podem afastar a minorante quando associadas a outros elementos do caso concreto - como alto grau de profissionalismo, sofisticada logística de transporte ou complexa estrutura de armazenamento -, dos quais se possa inferir, mediante fundamentação concreta, a dedicação do agente a atividades criminosas ou sua integração a organização criminosa.
+Na espécie, além da quantidade de drogas apreendidas (2.363 g de cocaína e 219 g de crack), as demais circunstâncias - rádio transmissor, ponto de tráfico e envolvimento de adolescente - em que perpetrado o delito que, em conjunto, permitiram concluir que o acusado não seria um pequeno traficante ou um mero neófito em atividade criminosa.
+De acordo com a jurisprudência deste Superior Tribunal, "consideram-se como outros elementos para afastar a minorante o modus operandi, a apreensão de apetrechos relacionados à traficância, por exemplo, balança de precisão, embalagens, armas e munições, especialmente quando o tráfico foi praticado no contexto de delito de armas ou quando ficar evidenciado, de modo fundamentado, o envolvimento do agente com organização criminosa" (AgRg no HC n. 731.344/SC, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 8/8/2022).
+Para desconstituir a conclusão alcançada pelo Tribunal a quo seria necessário o reexame de provas acostadas aos autos, medida inviável na via estreita do writ.
+À vista do exposto, denego a ordem de habeas corpus.
+Publique-se e intimem-se.
+EMENTA
