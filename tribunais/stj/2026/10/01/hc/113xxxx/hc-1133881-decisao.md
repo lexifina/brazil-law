@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em benefício de JULIO CESAR MARQUES PEREZ no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL (Autos n. 0900767-72.2025.8.12.0019).
+Depreende-se da petição inicial e de consulta realizada no sítio eletrônico do Tribunal de origem que o ora paciente foi condenado a 5 (cinco) anos e 10 (dez) meses de reclusão, no regime inicial fechado, por haver praticado os crimes de tráfico de drogas e desobediência, após a Corte local ter dado provimento ao recurso ministerial.
+Após o trânsito em julgado, a defesa impetra o presente writ, no qual sustenta que, "ao apreciar a apelação interposta pelo Ministério Público, a 3ª Câmara Criminal do Tribunal de Justiça de Mato Grosso do Sul acolheu o recurso por maioria de votos (fls. 328-338), estabelecendo a sanção privativa de liberdade no patamar de 5 anos e 10 meses de reclusão, com cumprimento no regime inicial fechado, restando vencido o posicionamento divergente que preservava a situação mais favorável fixada na r. sentença condenatória (fls. 236-247). Diante desse cenário, incumbia privativamente à defesa técnica interpor os Embargos Infringentes e de Nulidade, instrumento ordinário expressamente assegurado pelo art. 609, parágrafo único, do Código de Processo Penal para fazer prevalecer a tese absolutória ou mitigadora acolhida pelo voto minoritário. Nada obstante a expressa dicção legal, a defesa técnica originária protocolou diretamente o Recurso Especial (fls. 400-403), incorrendo em erro técnico grosseiro ao suprimir a via ordinária infringente" (e-STJ fls. 5/6, grifo nosso).
+Diante dessas considerações, pede (e-STJ fl. 11):
+A) O deferimento da medida liminar inaudita altera parte para suspender os efeitos da certidão de trânsito em julgado exarada na Ação Penal nº 0900767-72.2025.8.12.0019 e determinar o imediato recolhimento do Mandado de Prisão Definitiva nº 0900767- 72.2025.8.12.0019.01.0003-05;
+B) A notificação da autoridade coatora para que preste as informações pertinentes no prazo legal;
+C) A abertura de vista dos autos ao Ministério Público Federal para a emissão de parecer;
+D) No mérito, a concessão definitiva da ordem de Habeas Corpus para anular a certidão de trânsito em julgado na Ação Penal nº 0900767- 72.2025.8.12.0019, reabrindo-se o prazo processual à defesa constituída para o manejo dos Embargos Infringentes e de Nulidade, com a confirmação definitiva do recolhimento e cancelamento do mandado de prisão;
+E) Subsidiariamente, caso superada a declaração de nulidade, a concessão da ordem para fixar o regime inicial semiaberto de cumprimento de pena em favor do paciente, com a imediata expedição de guia ou ordem de adequação prisional correspondente.
+É o relatório.
+Decido.
+A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. .. MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE. .. AGRAVO REGIMENTAL DESPROVIDO.
+.. 2. Não se conhece de habeas corpus impetrado concomitantemente com o recurso especial, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+.. (AgRg no HC n. 904.330/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. O recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo.
+.. (AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/9/2023, DJe de 25/9/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+.. (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.
+Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção.
+Entretanto, tal não é o caso do presente writ,
+A uma, porque, não obstante as razões declinadas, o impetrante não instruiu os autos, pois nele consta somente a petição inicial e a decisão que não admitiu o recurso especial, o que, a toda evidência, impede o exame da tese suscitada, ante a ausência do acórdão que julgou a apelação ministerial por maioria.
+Ressalte-se que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto à parte interessada.
+Nesse sentido, segue a jurisprudência desta Corte:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO. HISTÓRICO CARCERÁRIO DESFAVORÁVEL. FALTAS DISCIPLINARES. EXAME CRIMINOLÓGICO NÃO VINCULANTE. SUPRESSÃO DE INSTÂNCIA. INSTRUÇÃO DEFICIENTE. AGRAVO REGIMENTAL DESPROVIDO.
+..
+7. O habeas corpus exige prova pré-constituída da ilegalidade alegada, incumbindo à parte impetrante instruir adequadamente a inicial com os documentos indispensáveis à análise da controvérsia.
+8. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no HC n. 1.074.759/SP, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 16/6/2026, DJEN de 22/6/2026.)
+A duas, porque o verbete n. 207 da Súmula desta Corte só incidiu em relação aos "arts. 33, §§ 2º e 3º, 59 e 68 do Código Penal e arts. 33 e 42 da Lei n.º 11.343/06" (e-STJ fl. 17, grifo nosso), e não em relação a todos os capítulos decisórios . Ou seja, "a discordância do atual advogado em relação à estratégia adotada pelo defensor anterior não configura nulidade processual" (AgRg no AREsp n. 2.728.773/CE, Relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/2/2025, DJEN de 14/2/2025).
+É dizer, não pode ser qualificado "como defeituoso o trabalho realizado pelos advogados contratados pelo recorrente, pois atuaram de acordo com a autonomia que lhes foi conferida por ocasião da habilitação ao exercício da advocacia, nos termos do artigo 7º, inciso I, da Lei 8.906/1994 .. Diante de um insucesso, para o crítico sempre haverá algo a mais que o causídico poderia ter feito ou alegado, circunstância que não redunda, por si só, na caracterização da deficiência de defesa, a qual, conforme salientado, depende da demonstração do prejuízo para o acusado, não verificado na hipótese" (RHC n. 69.035/ES, Relator Ministro Jorge Mussi, Quinta Turma, julgado em 7/11/2017, DJe 14/11/2017, grifo nosso).
+Ilustrativamente:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. NULIDADE POR AUSÊNCIA DE DEFESA TÉCNICA NO PRAZO RECURSAL. DEFENSORIA PÚBLICA. PRINCÍPIO DA VOLUNTARIEDADE RECURSAL. NECESSIDADE DE DEMONSTRAÇÃO DE PREJUÍZO. IMPOSSIBILIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL DESPROVIDO.
+..
+6. A ausência de interposição de recurso pelo advogado ou Defensoria Pública regularmente constituídos não configura, por si só, cerceamento de defesa, pois vigora o princípio da voluntariedade recursal (CPP, art. 574), sendo a opção de recorrer ou não questão de estratégia técnica da defesa.
+..
+(AgRg no RHC n. 228.742/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/4/2026, DJEN de 29/4/2026, grifo nosso).
+Ademais, nos moldes do art. 563 do Código de Processo Penal, nenhum ato será declarado nulo se da nulidade não resultar danos às partes. Nessa toada, é evidente que a tipicidade dos atos processuais funciona somente como instrumento para a correta aplicação do direito.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
