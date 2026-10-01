@@ -1,0 +1,15 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ESPÓLIO DE EDMIR DONINE contra decisão que inadmitiu recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: execução por quantia certa ajuizada pelo BANCO DO BRASIL S/A, em face do agravante, na qual requer a satisfação do crédito decorrente de contrato de empréstimo garantido por nota promissória.
+Sentença: julgou extinta a execução pela prescrição intercorrente.
+Acórdão: deu provimento ao recurso de apelação interposto pelo agravado, nos termos da seguinte ementa:
+APELAÇÃO. AÇÃO DE EXECUÇÃO POR QUANTIA CERTA. CONTRATO DE EMPRESTIMO CAPITAL DE GIRO CRÉDITO EMPRESARIAL. PRESCRIÇÃO INTERCORRENTE. NÃO VERIFICAÇÃO. AUSÊNCIA DE INÉRCIA POR PERIODO SUPERIOR AO ENSEJADOR DA PRESCRIÇÃO QUINQUENAL. PROCESSO, AINDA, QUE NÃO TEVE O CURSO SUSPENSO, BEM COMO DO PRAZO PRESCRICIONAL. POR DETERMINAÇÃO JUDICIAL. ALTERAÇÃO PROMOVIDA PELA LEI 14.195 2021, NO CODIGO DE PROCESSO CIVIL, QUE NÃO PODE SER APLICADA DE FORMA RETROATIVA. R. SENTENÇA DE EXTINÇÃO REFORMADA. RECURSO PROVIDO. (e-STJ fl. 381)
+Decisão de admissibilidade do TJ/SP: inadmitiu o recurso especial em razão dos seguintes fundamentos: i) não demonstrada a alegada vulneração aos dispositivos arrolados; ii) necessidade de reexame de contexto fático-probatório (Súmula 7/STJ); iii) dissídio jurisprudencial não comprovado.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que: i) "trata-se de revaloração jurídica, e não de reexame fático"; ii) "a fundamentação do recurso foi clara ao confrontar a tese do acórdão com o texto expresso da lei federal e a interpretação pacificada por esta Colenda Corte"; iii) "o agravante demonstrou a similitude fática entre o caso concreto (execução paralisada por ausência de bens) e o paradigma (REsp 1.604.412/SC), evidenciando que o Tribunal de origem decidiu em confronto direto com a jurisprudência consolidada do Colendo Superior Tribunal de Justiça."
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: i) não demonstrada a alegada vulneração aos dispositivos arrolados; ii) necessidade de reexame de contexto fático-probatório (Súmula 7/STJ); iii) dissídio jurisprudencial não comprovado.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Alerto que a interposição de recurso contra esta decisão, declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1021, §4º e 1026, §2º do CPC.
+Publique-se. Intimem-se.
+EMENTA
