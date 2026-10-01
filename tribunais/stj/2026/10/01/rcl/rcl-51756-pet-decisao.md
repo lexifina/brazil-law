@@ -1,0 +1,28 @@
+PET na RECLAMAÇÃO Nº 51756 - SP (2026/0282228-9)
+
+RELATOR: MINISTRO PRESIDENTE DO STJ
+
+REQUERENTE: SUSANA MARIA DOS SANTOS
+
+ADVOGADOS: CLÉBER STEVENS GERAGE - SP355105
+
+CARMEN FRANCO - SP477458
+
+REQUERIDO: BANCO SANTANDER (BRASIL) S.A.
+
+ADVOGADO: RAFAEL PORDEUS COSTA LIMA NETO - CE023599
+
+RECLAMADO: JUIZ DE DIREITO DA VARA DO JUIZADO ESPECIAL CÍVEL E CRIMINAL DE ATIBAIA - SP
+
+EMENTA
+
+DECISÃO
+
+A parte, SUSANA MARIA DOS SANTOS, requer a desistência da ação (fl. 295).
+Visto que ainda não houve citação, homologo a desistência da R eclamação, extinguindo o processo sem resolução de mérito (art. 485, VIII, do Código de Processo Civil).
+Publique-se. Intimem-se.
+
+Brasília, 01 de outubro de 2026.
+
+MINISTRO LUIS FELIPE SALOMÃO
+Presidente
