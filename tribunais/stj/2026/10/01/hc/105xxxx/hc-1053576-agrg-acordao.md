@@ -1,0 +1,33 @@
+AgRg no PExt no HABEAS CORPUS Nº 1053576 - SP (2025/0455800-1)
+
+Número Único: 0455800-17.2025.3.00.0000 – TJSPRGL
+
+RELATOR: MINISTRO SEBASTIÃO REIS JÚNIOR
+
+AGRAVANTE: PAMELA DE OLIVEIRA DOS SANTOS RODRIGUES
+
+ADVOGADO: ALEXANDRE DOS SANTOS GERALDES - SP258616
+
+AGRAVADO: MINISTÉRIO PÚBLICO FEDERAL
+
+AGRAVADO: MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO
+
+IMPETRADO: TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO
+
+INTERES.: TATIANE TAMIRES DA SILVA ARAUJO (PRESO)
+
+ADVOGADA: THAYS DOS SANTOS ANDRADE MELO - SP389779
+
+EMENTA
+AGRAVO REGIMENTAL EM PEDIDO DE EXTENSÃO EM HABEAS CORPUS. ESTELIONATO, ASSOCIAÇÃO CRIMINOSA E LAVAGEM DE DINHEIRO. SUBSTITUIÇÃO DA PRISÃO PREVENTIVA POR DOMICILIAR. AUSÊNCIA DE SIMILITUDE DE SITUAÇÕES. FUNDAMENTAÇÃO IDÔNEA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. RAZÕES QUE NÃO INFIRMAM TODOS OS FUNDAMENTOS DO DECISUM ATACADO. SÚMULA 182/STJ. INCIDÊNCIA.
+Agravo regimental não conhecido.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/09/2026 a 01/10/2026, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Carlos Pires Brandão, Nilsoni de Freitas (Desembargadora Convocada do TJDFT) e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+
+Brasília, 01 de outubro de 2026.
+
+Ministro Sebastião Reis Júnior
+Relator
