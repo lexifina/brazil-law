@@ -1,0 +1,127 @@
+Poder Judiciário
+Justiça do Trabalho
+${SVNOMEORGAO}
+PROCESSO Nº TST-Emb-Ag-RRAg - 906-64.2022.5.13.0023
+A C Ó R D Ã O
+Subseção I Especializada em Dissídios Individuais
+GMALR/gf/pv
+DIREITO DO TRABALHO. EMBARGOS. EMPRESA BRASILEIRA DE
+CORREIOS E TELÉGRAFOS – ECT. GRATIFICAÇÃO DE FÉRIAS
+SOBRE O ABONO PECUNIÁRIO. MUDANÇA DA FORMA DE
+CÁLCULO. MEMORANDO CIRCULAR 2.316/2016 – GPAR/CEGEP.
+ALTERAÇÃO CONTRATUAL LESIVA. EMPREGADO ADMITIDO
+ANTES DA MODIFICAÇÃO. TEMA 115 DOS RECURSOS
+REPETITIVOS DO TST. ART. 894, § 2º, DA CLT. RESSALVA DE
+ENTENDIMENTO DO RELATOR. EMBARGOS NÃO CONHECIDOS.
+I. CASO EM EXAME
+Embargos interpostos pela Empresa Brasileira de Correios e
+Telégrafos – ECT contra acórdão de Turma do TST que
+reconheceu o direito à manutenção da sistemática de cálculo da
+gratificação de férias sobre o abono pecuniário em relação a
+empregado admitido antes da alteração promovida pelo
+Memorando Circular 2.316/2016 – GPAR/CEGEP.
+II. QUESTÃO EM DISCUSSÃO
+Discute-se se a alteração promovida pela ECT na forma de
+cálculo do abono pecuniário previsto no art. 143 da CLT pode
+alcançar os empregados contratados sob a sistemática anterior.
+III. RAZÕES DE DECIDIR
+1. O Tribunal Pleno do TST, no julgamento do Tema 115 dos
+recursos repetitivos, firmou tese vinculante no sentido de que a
+mudança na forma de cálculo do abono pecuniário promovida
+pela ECT mediante o Memorando Circular 2.316/2016 –
+GPAR/CEGEP configura alteração contratual lesiva e não atinge
+os empregados contratados sob a égide da sistemática anterior.
+2. Registrado no acórdão embargado que o Reclamante foi
+admitido antes da alteração e reconhecida a impossibilidade de
+incidência da nova sistemática de cálculo sobre o contrato em
+curso, a decisão da Turma encontra-se em consonância com a
+tese vinculante firmada pelo Tribunal Pleno.
+3. Incidência do art. 894, § 2º, da CLT. Ressalva de entendimento
+pessoal do Relator.
+IV. DISPOSITIVO
+Embargos não conhecidos.
+Vistos, relatados e discutidos estes autos de Embargos em Agravo em Recurso
+de Revista com Agravo nº TST-Emb-Ag-RRAg - 906-64.2022.5.13.0023, em que é Embargante EMPRESA
+BRASILEIRA DE CORREIOS E TELÉGRAFOS - ECT e é Embargado(a) RUBENICIO TIAGO GREGORIO DOS
+SANTOS.
+A 6ª Turma reconheceu o direito do Reclamante à manutenção da sistemática de
+cálculo da gratificação de férias sobre o abono pecuniário vigente anteriormente ao Memorando
+Circular 2.316/2016 – GPAR/CEGEP.
+A Empresa Brasileira de Correios e Telégrafos – ECT interpõe recurso de
+embargos.
+Desnecessária a remessa dos autos ao Ministério Público do Trabalho, nos termos
+do art. 95 do Regimento Interno do TST.
+É o relatório.
+V O T O
+1. CONHECIMENTO
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683CB2F01EC6822.
+Satisfeitos os pressupostos extrínsecos de admissibilidade do recurso, prossigo
+no exame dos pressupostos intrínsecos dos embargos à SDI-1.
+EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS – ECT. GRATIFICAÇÃO DE
+FÉRIAS SOBRE ABONO PECUNIÁRIO. MUDANÇA DA FORMA DE CÁLCULO. MEMORANDO CIRCULAR
+2.316/2016 – GPAR/CEGEP. ALTERAÇÃO CONTRATUAL LESIVA. TEMA 115 DOS RECURSOS REPETITIVOS
+DO TST
+A 6ª Turma reconheceu o direito do Reclamante à manutenção da sistemática de
+cálculo da gratificação de férias sobre o abono pecuniário vigente anteriormente ao Memorando
+Circular 2.316/2016 – GPAR/CEGEP. Eis os fundamentos adotados no julgamento do agravo interposto
+em face da decisão monocrática que não conheceu do recurso de revista interposto pela ECT:
+AGRAVO DA RECLAMADA. AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. LEI Nº
+13.467/2017. ECT. ABONO PECUNIÁRIO. FÉRIAS. MUDANÇA DO CÁLCULO. ALTERAÇÃO CONTRATUAL
+LESIVA.
+AUSÊNCIA DE TRANSCENDÊNCIA.
+Até o fechamento da pauta, não havia determinação de suspensão dos processos em curso no
+TST quanto ao tema 115 da Tabela de IRR: " A mudança na forma de cálculo do abono pecuniário
+previsto no art. 143 da CLT, promovida pela Empresa Brasileira de Correios e Telégrafos - ECT por
+meio do Memorando Circular nº 2.316/2016 - GPAR / CEGEP, configura alteração contratual lesiva,
+não atingindo, pois, os empregados contratados sob a égide da sistemática anterior?"
+Na decisão monocrática não se reconheceu a transcendência e negou-se provimento ao agravo
+de instrumento.
+Deve ser parcialmente provido o agravo somente para reconhecer a transcendência jurídica,
+ante a pendência de IRR sobre a matéria.
+A decisão do Regional está em consonância com a jurisprudência majoritária desta Corte
+Superior, no sentido de que aalteraçãopromovida pelaECTna forma decálculodoabono
+pecuniárioprevisto no art. 143 da CLT, nos termos do Memorando Circular nº 2.316/2016, por ser
+menos vantajosa, não atinge os trabalhadores admitidos anteriormente à vigência do novo
+regulamento, caso do reclamante, por configuraralteraçãounilateral elesiva, a teor do art. 468 da CLT
+e da Súmula nº 51, I, do TST, prática vedada pela legislação trabalhista.
+Esclareça-se que a ECT, embora pertença à administração pública indireta, está sujeita ao
+regime jurídico das empresas privadas e, por essa razão, é obrigada a cumprir o ordenamento
+jurídico trabalhista. Portanto, não pode, unilateralmente, fazer alterações lesivas aos seus
+empregados, conforme o art. 468 da CLT.
+Registre-se que no Tema 1330 ( leading case ARE 1499413), o STF, por unanimidade, fixou a tese
+de que" é infraconstitucional e fática a controvérsia sobre a forma de cálculo de abono pecuniário de
+férias dos empregados da Empresa de Correios e Telégrafos - ECT".
+Agravo a que se dá parcial provimento somente para reconhecer a transcendência jurídica.
+Nas razões de embargos, a ECT sustenta, em síntese, que a modificação
+promovida pelo Memorando Circular 2.316/2016 – GPAR/CEGEP não configura alteração contratual
+lesiva, mas mera adequação da sistemática de cálculo do abono pecuniário previsto no art. 143 da CLT,
+destinada a impedir pagamento em duplicidade.
+Ao exame.
+A controvérsia foi solucionada pelo Tribunal Pleno desta Corte no julgamento do
+IncJulgRREmbRep-1000250-90.2022.5.02.0025, sob o rito dos recursos repetitivos.
+Na ocasião, foi fixada, para o Tema 115, a seguinte tese jurídica vinculante:
+“A mudança na forma de cálculo do abono pecuniário previsto no art. 143 da CLT,
+promovida pela Empresa Brasileira de Correios e Telégrafos – ECT por meio do Memorando
+Circular 2.316/2016 – GPAR/CEGEP, configura alteração contratual lesiva, não atingindo os
+empregados contratados sob a égide da sistemática anterior.”
+No caso, revela-se incontroverso que o Reclamante foi admitido anteriormente à
+alteração implementada pelo Memorando Circular 2.316/2016 – GPAR/CEGEP.
+A decisão da Turma, ao reconhecer que a nova forma de cálculo não pode
+alcançar empregado contratado sob a sistemática anterior, está em plena consonância com a tese
+vinculante firmada pelo Tribunal Pleno.
+Embora mantenha entendimento pessoal no sentido de que a alteração
+promovida pela ECT consubstanciou mera correção da metodologia de cálculo, destinada a afastar
+pagamento em duplicidade, sem alteração das normas internas que disciplinavam a parcela, Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683CB2F01EC6822.
+acompanho, por disciplina judiciária, a orientação vinculante firmada pelo Tribunal Pleno.
+Nesse contexto, não há divergência jurisprudencial atual a ser uniformizada no
+âmbito desta Subseção, incidindo o óbice do art. 894, § 2º, da CLT.
+Ante o exposto, NÃO CONHEÇO dos embargos.
+ISTO POSTO
+ACORDAM os Ministros da Subseção I Especializada em Dissídios Individuais do
+Tribunal Superior do Trabalho, por unanimidade, não conhecer dos embargos.
+Brasília, 30 de setembro de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+ALEXANDRE LUIZ RAMOS
+Ministro Relator
+Firmado por assinatura digital em 07/10/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683CB2F01EC6822.
