@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto pela Comissão Nacional de Energia Nuclear (CNEN), com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do Tribunal Regional Federal da 6ª Região assim ementado (fls. 525/526):
+DIREITO ADMINISTRATIVO. APELAÇÃO CÍVEL. SERVIDOR PÚBLICO EXPOSTO A RADIAÇÃO IONIZANTE. REDUÇÃO DE JORNADA COM FUNDAMENTO NA LEI 1.234/1950. PAGAMENTO DE HORAS EXTRAS E REFLEXOS. REJEIÇÃO DAS ALEGAÇÕES DE REVOGAÇÃO DA NORMA ESPECIAL. APELAÇÃO DESPROVIDA.
+I. CASO EM EXAME
+1. Apelação interposta contra sentença que julgou procedente o pedido de servidor da Comissão Nacional de Energia Nuclear - CNEN, para reconhecer o direito à jornada de trabalho de 24 horas semanais, nos termos da Lei 1.234/1950, sem redução de vencimentos, e condenar a ré ao pagamento de horas extras referentes às 16 horas semanais excedentes, com acréscimos legais e reflexos em férias, 13º salário, gratificações e adicionais, respeitada a prescrição quinquenal. Determinou-se a aplicação de juros e correção monetária conforme o Manual de Cálculos da Justiça Federal. A parte ré sustentou a revogação da Lei 1.234/1950 pelo regime jurídico instituído pela Lei 8.112/1990, além da inexistência de habitualidade na exposição à radiação.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) definir se o servidor público federal que exerce atividades habituais com exposição a radiação ionizante tem direito à jornada de 24 horas semanais prevista na Lei 1.234/1950, mesmo após a edição da Lei 8.112/1990; (ii) estabelecer se é devido o pagamento de horas extras pelas horas laboradas além desse limite legal; (iii) determinar os critérios de aplicação de correção monetária e juros de mora sobre os valores devidos.
+III. RAZÕES DE DECIDIR
+3. A Lei 1.234/1950 permanece em vigor como norma especial que assegura direitos específicos aos servidores que operam com radiações ionizantes, inclusive jornada máxima de 24 horas semanais, férias semestrais e gratificação adicional, nos termos do art. 1º da referida norma.
+4. A Lei 8.112/1990, embora tenha estabelecido regra geral de jornada de 40 horas semanais, ressalva expressamente, em seu art. 19, §2º, a prevalência de jornadas previstas em legislação especial, como é o caso da Lei 1.234/1950.
+5. A habitualidade da exposição à radiação ficou demonstrada pela atuação do autor em unidades classificadas como áreas controladas, pelo recebimento de adicional de irradiação ionizante e concessão regular de férias semestrais, conforme documentos administrativos anexados aos autos.
+6. Havendo comprovação de jornada efetiva superior a 24 horas semanais, impõe-se o pagamento das horas excedentes como extraordinárias, acrescidas de 50%, com repercussões em demais parcelas remuneratórias, conforme entendimento consolidado do Superior Tribunal de Justiça.
+7. A pretensão da autarquia de limitar o pagamento das horas extras às duas primeiras horas diárias excedentes não se sustenta, devendo prevalecer a remuneração integral de todas as horas além do limite legal de 24 horas semanais.
+8. A alegação de exercício de cargo em comissão pelo autor não afasta o direito reconhecido, por não haver demonstração de exercício do referido cargo no período de cinco anos anterior ao ajuizamento da ação.
+9. A correção monetária deve observar o IPCA-E até a entrada em vigor da Emenda Constitucional 113/2021, a partir da qual deve ser aplicada a taxa Selic, conforme os parâmetros estabelecidos pelo Supremo Tribunal Federal (Tema 810) e já incorporados no Manual de Cálculos da Justiça Federal.
+IV. DISPOSITIVO E TESE
+10. Apelação desprovida.
+Os embargos de declaração opostos pela CNEN foram rejeitados (fls. 563/569).
+A parte recorrente alega violação dos arts. 1.022, inciso II, 496, inciso I, e 927, inciso IV, do Código de Processo Civil, ao argumento de que o acórdão recorrido teria mantido omissão quanto à incompatibilidade entre o pagamento de horas extras e o recebimento da Gratificação Específica de Produção de Radioisótopos e Radiofármacos (GEPR), bem como quanto à repercussão das horas extras sobre férias, décimo terceiro salário, gratificações e adicionais.
+Sustenta ofensa ao art. 285, §1º, da Lei 11.907/2009, ao argumento de que a percepção da GEPR, por exigir jornada de quarenta horas semanais, seria incompatível com o pagamento de horas extras calculadas com base na jornada reduzida de vinte e quatro horas prevista na Lei 1.234/1950.
+Aponta violação do art. 1º, inciso III, alíneas f a r, da Lei 8.852/1994, e do art. 66 da Lei 8.112/1990, cumulados com o art. 73 da Lei 8.112/1990, ao argumento de que o adicional de férias e a gratificação natalina, por não integrarem o conceito de remuneração, não poderiam compor a base de cálculo das horas extras nem seus reflexos.
+Contrarrazões apresentadas (fls. 595/626).
+O recurso foi admitido (fl. 630).
+É o relatório.
+Na origem, cuida-se de ação ordinária de cobrança cumulada com obrigação de fazer, na qual o autor pretende a redução de sua jornada de trabalho para vinte e quatro horas semanais, sem redução de vencimentos, com o consequente pagamento das horas extraordinárias correspondentes e reflexos remuneratórios, em razão de exposição habitual a radiação ionizante.
+A sentença foi de procedência dos pedidos autorais (fls. 408/413), a qual foi mantida pelo Tribunal de origem (fls. 518/526).
+Assiste razão à parte recorrente.
+A alegada ofensa ao art. 1.022 do Código de Processo Civil tem por base suposta omissão do acórdão recorrido sobre a incompatibilidade entre o pagamento de horas extras e o recebimento da Gratificação Específica de Produção de Radioisótopos e Radiofármacos (GEPR), bem como sobre o fundamento jurídico da repercussão das horas extras sobre férias, décimo terceiro salário, gratificações e adicionais.
+Constato que, apesar de provocado em duas oportunidades, por meio do recurso de apelação às fls. 436/457 e dos embargos de declaração às fls. 533/540, o Tribunal de origem manteve-se silente sobre essa matéria.
+A omissão pela instância ordinária é essencial ao deslinde da controvérsia, na medida em que a delimitação do alcance da condenação  no que se refere à eventual exclusão de períodos em que percebida a GEPR e à extensão dos reflexos remuneratórios sobre férias, décimo terceiro salário, gratificações e adicionais  repercute diretamente no quantum devido e não pode ser suprida por esta Corte, sob pena de indevida supressão de instância.
+Para o Superior Tribunal de Justiça, presente algum dos vícios - omissão, contradição ou obscuridade -, e apontada a violação do art. 1.022 do CPC no recurso especial, deve ser anulado o acórdão proferido pelo Tribunal de origem ao examinar os embargos de declaração lá opostos, retornando-se os autos à origem para nova apreciação do recurso.
+A propósito, cito estes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. TRIBUTÁRIO. ICMS. OFENSA AO ART. 1.022 DO CPC/2015. OMISSÃO CONFIGURADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Configurada a omissão no acórdão prolatado pelo Tribunal a quo e preenchidos os requisitos para o reconhecimento de violação ao art. 1 .022 do CPC/2015, impõe-se o retorno dos autos à origem, a fim de que o vício seja sanado.
+II - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência.
+III - Agravo Interno improvido.
+(AgInt no REsp n. 2.237.530/MT, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 9/2/2026, DJEN de 13/2/2026.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. REPETIÇÃO DE INDÉBITO. CONTRIBUIÇÃO PREVIDENCIÁRIA. SERVIDOR PÚBLICO CEDIDO. VIOLAÇÃO AO ART. 1.022 DO CPC. OMISSÃO CONFIGURADA. AUSÊNCIA DE MANIFESTAÇÃO SOBRE TESES RELEVANTES. PRESCRIÇÃO E SUCUMBÊNCIA RECÍPROCA. ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO GENÉRICA. NULIDADE. RETORNO DOS AUTOS À ORIGEM. NECESSIDADE. AGRAVO INTERNO IMPROVIDO.
+1. Configurada a violação ao art. 1.022 do CPC quando o Tribunal de origem, mesmo após a oposição de embargos de declaração, deixa de se manifestar sobre questões essenciais ao deslinde da controvérsia, notadamente o termo inicial do prazo prescricional para a repetição de indébito tributário (art. 168, I, do CTN) e a configuração da sucumbência recíproca (art. 86 do CPC).
+2. A rejeição dos embargos de declaração com fundamentação genérica, sem o enfrentamento específico dos argumentos capazes de, em tese, infirmar a conclusão adotada, caracteriza negativa de prestação jurisdicional.
+3. Necessidade de anulação do acórdão proferido no julgamento dos embargos de declaração e de retorno dos autos à origem para novo julgamento, a fim de que as omissões apontadas sejam sanadas, sob pena de supressão de instância.
+4. Agravo interno improvido.
+(AgInt no REsp n. 2.176.632/PE, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 25/2/2026, DJEN de 3/3/2026.)
+O reconhecimento da negativa de prestação jurisdicional prejudica a análise das demais matérias suscitadas no recurso especial.
+Ante o exposto, conheço do recurso especial e a ele dou provimento para reconhecer o vício de omissão e, assim, anular o acórdão recorrido, determinando o retorno dos autos à origem para novo exame dos embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
