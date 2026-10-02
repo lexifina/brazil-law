@@ -1,0 +1,35 @@
+Direito processual civil e direito do consumidor. Embargos de declaração. Contrato declarado nulo. Danos morais indevidos. Restituição simples de valores. Juros de mora. Inexistência de omissão ou contradição. Embargos de declaração rejeitados.
+I. CASO EM EXAME
+Embargos de declaração opostos contra acórdão que deu parcial provimento ao recurso para reconhecer a nulidade de contrato, determinar a restituição simples dos valores descontados, admitir a compensação entre as partes e redefinir os ônus sucumbenciais.
+O embargante sustenta a existência de omissão e contradição quanto ao não reconhecimento de danos morais, à não aplicação da repetição do indébito em dobro e à ausência de incidência de juros de mora a partir dos descontos realizados. Requer o acolhimento dos embargos com efeitos infringentes e para fins de prequestionamento.
+II. QUESTÃO EM DISCUSSÃO
+Há três questões em discussão: (i) saber se o acórdão foi omisso ou contraditório ao afastar a condenação por danos morais em razão de descontos incidentes sobre benefício previdenciário; (ii) saber se houve omissão ou contradição quanto à restituição simples dos valores descontados, em detrimento da repetição do indébito em dobro; e (iii) saber se o acórdão deixou de se manifestar acerca da incidência dos juros de mora sobre os valores discutidos.
+III. RAZÕES DE DECIDIR
+1. O acórdão enfrentou expressamente as matérias suscitadas pelo embargante, inexistindo omissão ou contradição apta a justificar o acolhimento dos embargos de declaração. 2. Quanto à restituição dos valores, o acórdão consignou que houve crédito de quantia em favor da parte autora, motivo pelo qual determinou o retorno das partes ao estado anterior, com compensação dos valores correspondentes. 3 .A restituição foi fixada de forma simples, diante da ausência de reconhecimento de má-fé da instituição financeira, considerada a transferência dos valores à conta da parte autora. 4. Em relação aos danos morais, o acórdão concluiu que os descontos realizados sobre verba previdenciária, nas circunstâncias do caso, não geram automaticamente o dever de indenizar, especialmente porque não se verificou que o prejuízo decorreu diretamente da conduta da instituição financeira.5. Também houve manifestação específica acerca dos juros de mora, tendo o acórdão estabelecido a correção monetária pelo IPCA a partir da data do crédito dos valores e afastado a incidência de juros moratórios por ausência de mora. 6.
+A pretensão recursal revela mero inconformismo com a solução adotada e busca a rediscussão de matéria já examinada, finalidade incompatível com a natureza integrativa dos embargos de declaração.
+IV. DISPOSITIVO E TESE
+Embargos de declaração rejeitados.
+Tese de julgamento: "1. Não há omissão ou contradição quando o acórdão aprecia expressamente os pedidos de danos morais, restituição de valores e incidência de juros de mora. 2. Os embargos de declaração não se prestam à rediscussão do mérito da decisão nem ao reexame de questões já decididas. 3. O prequestionamento não afasta a necessidade de demonstração dos vícios previstos no art. 1.022 do CPC."
+Dispositivos relevantes citados: CPC, art. 1.022.
+Jurisprudência relevante citada: EDcl nos EDcl nos EDcl no AgInt no REsp n. 1.762.663/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/2/2022, DJe de 16/3/2022
+
+1. RELATÓRIO:
+Trata-se de Embargos de Declaração oposto em face do acórdão de mov. 15.1, prolatado por esta 13ª Câmara Cível, por meio do qual foi dado parcial provimento ao recurso para reconhecer a nulidade do contrato, com devolução simples dos valores descontados, admitida a compensação, com a redefinição do ônus sucumbencial.
+Alega o embargante a existência de omissão e contradição quanto aos danos morais e à repetição do indébito dobrada, ao argumento de que os descontos indevidos incidiram sobre benefício previdenciário e de que a devolução em dobro independe da comprovação de má-fé. Sustenta, ainda, omissão quanto à incidência dos juros de mora a partir do desconto indevido. Assim, requer o acolhimento dos presentes embargos com efeitos infringentes e para fins de prequestionamento.
+Foram apresentadas contrarrazões (mov. 10.1)
+É o relatório.
+
+2. FUNDAMENTAÇÃO:
+Presentes os pressupostos intrínsecos e extrínsecos de admissibilidade, conheço dos embargos de declaração.
+Inobstante os argumentos aduzidos, não observo qualquer dos vícios elencados no art. art. 1.022 do CPC. Verifico que apesar das afirmações do embargante, o acórdão enfrentou de maneira clara os argumentos trazidos.
+
+Apesar dos argumentos do embargante quanto aos danos morais e à repetição do indébito em dobro, as matérias foram devidamente examinadas no acórdão, que considerou o repasse de R$ 2.833,69 à sua conta e determinou o retorno das partes ao status quo ante, admitida a compensação. Destaco do julgado:
+Tal restituição, friso, deve ser de forma simples, eis que não identifico qualquer má-fé do Banco, em especial porque transferiu valores para a conta bancária do autor e esta não demonstrou a intenção de devolução, nem mesmo na esfera judicial.
+Por sua vez, o valor a ser ressarcido pelo requerente deve ser corrigido monetariamente pelo IPCA e a partir da data do creditamento na conta, não havendo se falar em incidência de juros moratórios, porque não está em mora.
+Sobre os danos morais, o fato de tal situação ter gerado ao autor descontos indevidos na sua verba previdenciária, não gera diretamente o dever de indenizar por dano moral. Isso porque, não se observa que o prejuízo foi gerado diretamente pelo Banco, sendo que este também, ao que tudo indica, realizou o repasse de valores.
+Portanto, resta evidente o enfrentamento expresso de todas as questões suscitadas pelo embargante, inclusive acerca dos juros de mora.
+ Daí porque
+“O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua alteração, que só muito excepcionalmente é admitida. 6. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015. Os Embargos Declaratórios não constituem instrumento adequado à reanálise da matéria de mérito.” (EDcl nos EDcl nos EDcl no AgInt no REsp n. 1.762.663/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/2/2022, DJe de 16/3/2022.)Destarte, a matéria foi devidamente enfrentada no acórdão, inexistindo qualquer omissão ou contradição a ser suprida. Os presentes aclaratórios evidenciam, na verdade, mero inconformismo com a solução adotada, buscando rediscutir questão já apreciada, o que não se admite pela via dos embargos, razão pela qual não comportam acolhimento.
+Por fim, quanto aos dispositivos invocados para fins de prequestionamento, os embargos de declaração somente são cabíveis para esse propósito quando o acórdão tenha se omitido em relação a algum ponto, circunstância não verificada na hipótese.
+3. CONCLUSÃO
+Nestes termos, voto pela rejeição dos embargos.
