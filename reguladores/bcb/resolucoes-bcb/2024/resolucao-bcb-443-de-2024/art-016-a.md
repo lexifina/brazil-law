@@ -1,0 +1,1 @@
+Art. 16-A. As instituições participantes do arranjo de pagamento do boleto estão obrigadas, desde a data da publicação da Medida Provisória nº 1.394, de 25 de setembro de 2026, a impedir o processamento, a liquidação e a viabilização de transações destinadas a loterias de aposta de quota fixa. (Incluído pela Resolução BCB nº 596, de 30/9/2026.)
