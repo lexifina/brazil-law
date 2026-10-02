@@ -1,0 +1,35 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por DISTRITO FEDERAL, com fundamento na incidência  da Súmula  7 deste STJ.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial.
+Sem contraminuta.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de admissibilidade do agravo, passo à análise do recurso especial interposto contra acórdão do Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+AGRAVO DE INSTRUMENTO. PROCESSUAL DIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. CITAÇÃO POR EDITAL. MEDIDA EXCEPCIONAL. NÃO ESGOTAMENTO DOS MEIOS DISPONÍVEIS. MANUTENÇÃO DA DECISÃO AGRAVADA.
+I. CASO EM EXAME: Agravo de instrumento interposto em sede de execução fiscal contra decisão que indeferiu pedido de citação por edital, determinando ao exequente a demonstração do esgotamento dos meios disponíveis para localização do executado antes do deferimento da citação ficta.
+II. QUESTÃO EM DISCUSSÃO: Definir se, no âmbito da execução fiscal, a citação porII. edital poderia ser autorizada diante das tentativas de localização já realizadas pelo exequente ou se ainda havia diligências possíveis a serem adotadas.
+III. RAZÕES DE DECIDIR: A citação por edital, especialmente em execução fiscal, é medida excepcional e subsidiária, sendo admitida somente quando comprovada a impossibilidade de localização do executado por outros meios, conforme dispõe o art. 256 do No caso concreto, verifica-se que o exequente não demonstrouCPC e a Súmula 414 do STJ. o esgotamento de todas as ferramentas disponíveis para a localização do devedor, uma vez que a decisão agravada indicou expressamente a existência de bases de dados não consultadas. Ademais, a jurisprudência consolidada do TJDFT e do STJ é clara ao estabelecer que a citação editalícia somente pode ser realizada após frustradas todas as formas de citação pessoal e postal, incluindo a utilização de sistemas de pesquisa acessíveis ao ente exequente.
+IV. DISPOSITIVO E TESE: Agravo de instrumento conhecido e desprovido (fls. 32-33).
+Nas razões do recurso especial, a parte recorrente aponta violação ao art. 8º, III, da Lei 6.830/1980 (Lei de Execução Fiscal) e o art. 256, II, do CPC.
+Sustenta que o Tribunal de Justiça do Distrito Federal e Territórios exigiu o exaurimento absoluto das diligências, criando requisito não previsto na LEF e na Súmula 414/STJ, que exigem apenas esgotamento razoável e a frustração das modalidades pessoal e postal.
+O recurso especial tem origem em execução fiscal em que se indeferiu a citação por edital após tentativas frustradas de citação postal e por oficial de justiça, condicionando-se a medida à comprovação do esgotamento dos meios de pesquisa disponíveis ao exequente. O TJDFT negou provimento ao agravo de instrumento com os seguintes fundamentos:
+Em relação às tentativas de citação da executada, cumpre ressaltar que em 16/07/2024 foi expedida carta de citação por Correios (AR digital) para o endereço cadastrado.
+O Aviso de Recebimento foi devolvido com a informação de "desconhecido" (ID 205598378 da origem).
+Verifica-se que em 27/11/2024 o oficial de justiça compareceu ao mesmo endereço, porém não localizou a executada.
+A certidão expedida pelo oficial atesta que a empresa ré seria desconhecida no local (ID 219043699).
+Em 23/12/2024, o Distrito Federal peticionou requerendo a citação por edital, alegando a impossibilidade de localização da executada, conforme demonstrariam as tentativas documentadas nos autos (ID 221754469).
+No âmbito da execução fiscal, o enunciado nº 414 da Súmula do STJ estabelece que a citação ficta somente pode ser realizada após frustradas as modalidades pessoal e postal.
+Ademais, não se pode considerar o executado em local incerto ou não sabido se há sistemas de pesquisa disponíveis que não foram consultados, sendo imprescindível o esgotamento de todos os meios razoáveis para sua localização antes da citação editalícia.
+ ..
+Na hipótese, a própria decisão agravada evidencia que ainda existem ferramentas disponíveis para a obtenção do endereço do executado.
+O magistrado de origem indicou expressamente que a Procuradoria do Distrito Federal possui acesso a bases de dados sem que tenha sido demonstrado pelo exequente que essas fontes foram efetivamente consultadas.
+Assim, diante da inexistência de prova de que todas as ferramentas disponíveis foram utilizadas para localizar o executado, correta a decisão agravada ao condicionar a análise da citação editalícia à juntada de documentos que comprovem a efetiva exaustão dos meios disponíveis (fls. 36-37).
+Diante desse contexto, a pretensão recursal de ver reconhecida a possibilidade de citação por edital, encontra óbice na Súmula 7 deste STJ, assim enunciada: "a pretensão de simples reexame de prova não enseja recurso especial".
+Conforme consignado pelo TJDFT, não há prova de que todas as ferramentas disponíveis foram utilizadas para localizar o executado. O acórdão destacou que "a própria decisão agravada evidencia que ainda existem ferramentas disponíveis para a obtenção do endereço do executado  ..  a Procuradoria do Distrito Federal possui acesso a bases de dados sem que tenha sido demonstrado pelo exequente que essas fontes foram efetivamente consultadas". Alterar essa conclusão exigiria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Ainda que assim não fosse, cumpre registrar que, conforme jurisprudência do STJ, para que se configure o prequestionamento, é necessário que a causa tenha sido decidida à luz dos dispositivos legais apontados como contrariados, interpretando-se a sua aplicação ou não, ao caso concreto. Nesse contexto, "a simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento" (AgInt nos EDcl no AREsp n. 2.263.247/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023).
+No caso, o art. 8º, III, da LEF não foi objeto de análise pelo TJDFT, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Ausente, portanto, o requisito do prequestionamento, incidem, no ponto, as Súmulas 282 e 356 do STF, por analogia.
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o agravo em recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Intimem-se.
+ EMENTA
