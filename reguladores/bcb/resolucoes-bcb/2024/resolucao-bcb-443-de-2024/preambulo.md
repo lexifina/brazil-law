@@ -1,0 +1,6 @@
+Resolução Nº 443 RESOLUÇÃO BCB Nº 443, DE 12 DE DEZEMBRO DE 2024
+Disciplina o arranjo de pagamento do boleto, as espécies do instrumento boleto, sua emissão e formas de apresentação, bem como a forma de liquidação das transferências de fundos a ele associadas.
+A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em 12 de dezembro de 2024, com base nos arts. 9º e 11, caput, inciso VI, da Lei nº 4.595, de 31 de dezembro de 1964, no art. 10 da Lei nº 10.214, de 27 de março de 2001, e no art. 9º da Lei nº 12.865, de 9 de outubro de 2013, e tendo em vista o disposto nos arts. 4º e 12 da Resolução CMN nº 4.952, de 30 de setembro de 2021, na Resolução nº 4.557, de 23 de fevereiro de 2017, e na Resolução BCB nº 150, de 6 de outubro de 2021,
+R E S O L V E :
+CAPÍTULO I
+DO OBJETO E DO ÂMBITO DE APLICAÇÃO
