@@ -1,0 +1,91 @@
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. BLOQUEIO DE VALOR EM CONTA BANCÁRIA. QUANTIA INFERIOR A 40 SALÁRIOS-MÍNIMOS. AUSÊNCIA DE COMPROVAÇÃO DE QUE SE TRATA DE RESERVA DE PATRIMÔNIO DESTINADO A ASSEGURAR O MÍNIMO EXISTENCIAL. INEXISTÊNCIA DE PROVA DE QUE A CONSTRIÇÃO PREJUDICARÁ A SUBSISTÊNCIA DO DEVEDOR. OBSERVÂNCIA AO PRINCÍPIO DA EFETIVIDADE DA EXECUÇÃO. DECISÃO AGRAVADA MANTIDA.
+A jurisprudência do STJ estabelece que a proteção da impenhorabilidade se aplica automaticamente apenas aos valores depositados em caderneta de poupança, e não a outras aplicações financeiras. Logo, em conta bancária ou aplicações financeiras a proteção legal depende da comprovação de que os valores constituem reserva financeira destinada a assegurar o mínimo existencial.
+
+Agravo de Instrumento não provido.
+
+1. Trata-se de agravo de instrumento interposto por Alessandra Teles de Oliveira em face de decisão proferida nos autos de execução de título extrajudicial, a qual rejeitou a arguição de impenhorabilidade e manteve o bloqueio do valor (mov. 92).
+
+Nas razões do recurso, sustenta o recorrente, em síntese: a) que os recursos constritos possuem natureza de reserva financeira, destinando-se à preservação de seu mínimo existencial; b) que a conta bancária apresenta baixa movimentação, sendo utilizada essencialmente para a guarda de valores de pequena monta; c) que os recursos mantidos na funcionalidade denominada “Porquinho” têm a finalidade de constituir patrimônio destinado a assegurar seu mínimo existencial e que a modalidade utilizada permite ao usuário separar recursos especificamente voltados à formação de reserva financeira; d) que a natureza jurídica atribuída pela instituição financeira ao produto, tecnicamente operacionalizado mediante CDB de liquidez diária, não altera sua efetiva finalidade econômica; e) que a proteção conferida pelo art. 833, inciso X, do Código de Processo Civil não pode ficar condicionada exclusivamente à nomenclatura comercial utilizada pela instituição bancária, sob pena de esvaziar completamente a finalidade da norma diante da evolução dos produtos financeiros disponibilizados pelos bancos digitais; f) que a penhora recaiu sobre R$ 2.332,71 (dois mil, trezentos e trinta e dois reais e setenta e um centavos), quantia inferior ao limite legal de quarenta salários mínimos estabelecido pelo art. 833, inciso X, do Código de Processo Civil; g) que a manutenção da penhora viola a proteção conferida pelo art. 833, inciso X, do Código de Processo Civil. Ao final, requereu a reforma da decisão, para reconhecer a impenhorabilidade dos valores bloqueados via SISBAJUD e determinar sua imediata liberação.
+O recurso teve o seu processamento determinado.
+
+O agravado apresentou resposta (mov.24).
+É o relatório.
+
+2. Presentes os requisitos e pressupostos de admissibilidade, conheço do recurso.
+
+Impenhorabilidade
+Pretende a agravante o reconhecimento da impenhorabilidade dos valores bloqueados, ao fundamento de que se enquadram na hipótese prevista no art. 833, caput, inciso X, do CPC.
+Como se sabe, o art. 833, do CPC considera impenhoráveis os vencimentos, subsídios, soldos, salários, remunerações, proventos de aposentadoria, pensões, pecúlios e os montepios, bem como as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal, bem como a quantia depositada em caderneta de poupança, até o limite de 40 (quarenta) salários-mínimos. Confira-se:
+
+“Art. 833. São impenhoráveis:
+
+I - os bens inalienáveis e os declarados, por ato voluntário, não sujeitos à execução;
+
+II - os móveis, os pertences e as utilidades domésticas que guarnecem a residência do executado, salvo os de elevado valor ou os que ultrapassem as necessidades comuns correspondentes a um médio padrão de vida;
+
+III - os vestuários, bem como os pertences de uso pessoal do executado, salvo se de elevado valor;
+
+IV - os vencimentos, os subsídios, os soldos, os salários, as remunerações, os proventos de aposentadoria, as pensões, os pecúlios e os montepios, bem como as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal, ressalvado o § 2º;
+
+V- os livros, as máquinas, as ferramentas, os utensílios, os instrumentos ou outros bens móveis necessários ou úteis ao exercício da profissão do executado;
+
+VI - o seguro de vida;
+
+VII - os materiais necessários para obras em andamento, salvo se essas forem penhoradas;
+
+VIII - a pequena propriedade rural, assim definida em lei, desde que trabalhada pela família;
+
+IX - os recursos públicos recebidos por instituições privadas para aplicação compulsória em educação, saúde ou assistência social;
+
+X- a quantia depositada em caderneta de poupança, até o limite de 40 (quarenta) salários-mínimos;
+
+XI - os recursos públicos do fundo partidário recebidos por partido político, nos termos da lei;
+
+XII - os créditos oriundos de alienação de unidades imobiliárias, sob regime de incorporação imobiliária, vinculados à execução da obra.
+§ 1º A impenhorabilidade não é oponível à execução de dívida relativa ao próprio bem, inclusive àquela contraída para sua aquisição.
+§ 2º O disposto nos incisos IV e X do caput não se aplica à hipótese de penhora para pagamento de prestação alimentícia, independentemente de sua origem, bem como às importâncias excedentes a 50 (cinquenta) salários-mínimos mensais, devendo a constrição observar o disposto no art. 528, § 8º, e no art. 529, §3º.
+§ 3º Incluem-se na impenhorabilidade prevista no inciso V do caput os equipamentos, os implementos e as máquinas agrícolas pertencentes a pessoa física ou a empresa individual produtora rural, exceto quando tais bens tenham sido objeto de financiamento e estejam vinculados em garantia a negócio jurídico ou quando respondam por dívida de natureza alimentar, trabalhista ou previdenciária”.
+
+Observe-se que o escopo do legislador foi o de preservar alguns recursos financeiros do devedor, constituindo uma garantia para sua segurança alimentícia e de sua família.
+
+Vale notar, contudo, que a impenhorabilidade não pode ir além do necessário para fazer frente ao sustento do devedor, da sua família e daqueles que dele comprovadamente dependam. Afinal, o princípio da dignidade humana, matriz constitucional da impenhorabilidade prevista no art. 833, do CPC (art. 1º, III, da CF), visa-se tão somente preservar um mínimo intangível da esfera do devedor, sem o qual a sobrevivência dele e da sua família restaria comprometida, e não o que excede.
+
+Assim, o simples caráter de espécie remuneratória não tem, por si só, o condão de afastar ou impedir a realização de atos judiciais constritivos, até porque estes não passam de efeitos naturais da execução. Logo, como regra, não se mostra razoável admitir que toda e qualquer verba alimentar, inclusive aquelas não utilizadas para a subsistência no período em que recebidas, continuem a gozar do benefício da impenhorabilidade.
+
+Pensar em sentido contrário representaria proteção demasiada ao devedor, em verdadeiro menosprezo ao direito de crédito do exequente, ou ainda, estar-se-ia garantindo não a sobrevivência digna do devedor, mas a manutenção de um padrão de vida às custas do credor.
+Em verdade, a matéria posta discussão caracteriza uma situação paradigmática, em que há conflito de direitos igualmente assegurados pelo ordenamento jurídico - de um lado, a satisfação creditícia do exequente, e, de outro o sustento do devedor.
+
+Para sopesar os valores em conflito, oportuno citar o postulado da proporcionalidade, assim definido na doutrina por Humberto Ávila:
+
+“O postulado da proporcionalidade se aplica a situações em que há uma relação de causalidade entre dois elementos empiricamente discerníveis, um meio e um fim, de tal sorte que se possa proceder aos três exames fundamentais: o da adequação (o meio promove o fim?), o da necessidade (dentre os meios disponíveis e igualmente adequados para promover o fim, não há outro meio menos restritivo do(s) direito(s) fundamentais afetados?) e o da proporcionalidade em sentido estrito (as vantagens trazidas pela promoção do fim correspondem às desvantagens provocadas pela adoção do meio?). Nesse sentido, a proporcionalidade como postulado estruturador de aplicação de princípios que concretamente se imbricam em torno de uma relação de causalidade entre um meio e um fim, não possui aplicabilidade irrestrita. Sua aplicação depende de elementos sem os quais não pode ser aplicada. Sem um meio, um fim concreto e um relação de causalidade entre eles não há aplicabilidade do postulado da proporcionalidade em seu caráter trifásico.” (ÁVILA, Humberto Bergmann. Teoria dos Princípios. 13 ed. São Paulo: Malheiros, 2012.).
+
+No caso, observa-se que houve o bloqueio via Sisbajud do valor R$ R$ 2.328,78 da conta bancária existente no Banco Inter (mov. 82.1).
+
+Embora a referida quantia seja inferior a 40 salários-mínimos, tal fato, por si só, não é capaz de configurar sua impenhorabilidade, considerando o entendimento do STJ no julgamento do REsp nº 1677144/RS, ocasião em que firmou a seguinte tese:
+“a) é irrelevante o nome dado à aplicação financeira, mas é essencial que o investimento possua características e objetivo similares ao da utilização da poupança (isto é, reserva contínua e duradoura de numerário até quarenta salários mínimos, destinada a conferir proteção individual ou familiar em caso de emergência ou imprevisto grave) - o que não ocorre, por exemplo, com aplicações especulativas e de alto risco financeiro (como recursos em bitcoin, etc.);
+b) não possui as características acima o dinheiro referente às sobras que remanescem, no final do mês, em conta-corrente tradicional ou remunerada (a qual se destina, justamente, a fazer frente às mais diversas operações financeiras de natureza diária, eventual ou frequente, mas jamais a constituir reserva financeira para proteção contra adversidades futuras e incertas);
+c) importante ressalvar que a circunstância descrita no item anterior, por si só, não conduz automaticamente ao entendimento de que o valor mantido em conta-corrente será sempre penhorável. Com efeito, deve subsistir a orientação jurisprudencial de que o devedor poderá solicitar a anulação da medida constritiva, desde que comprove que o dinheiro percebido no mês de ingresso do numerário possui natureza absolutamente impenhorável (por exemplo, conta usada para receber o salário, ou verba de natureza salarial);
+d) para os fins da impenhorabilidade descrita na hipótese "a", acima, ressalvada a hipótese de aplicação em caderneta de poupança (em torno da qual há presunção absoluta de impenhorabilidade), é ônus da parte devedora produzir prova concreta de que a aplicação similar à poupança constitui reserva de patrimônio destinado a assegurar o mínimo existencial ou a proteger o indivíduo ou seu núcleo familiar contra adversidades.
+
+SÍNTESE DA TESE OBJETIVA AQUI APRESENTADA
+
+23. A garantia da impenhorabilidade é aplicável automaticamente, no patamar de até 40 (quarenta), ao valor depositado exclusivamente em caderneta de poupança. Se a medida de bloqueio/penhora judicial, por meio físico ou eletrônico (Bacenjud), atingir dinheiro mantido em conta-corrente ou quaisquer outras aplicações financeiras, poderá eventualmente a garantia da impenhorabilidade ser estendida a tal investimento - respeitado o teto de quarenta salários mínimos -, desde que comprovado, pela parte processual atingida pelo ato constritivo, que o referido montante constitui reserva de patrimônio destinada a assegurar o mínimo existencial.  (REsp n. 1.677.144/RS, relator Ministro Herman Benjamin, Corte Especial, julgado em 21/2/2024, DJe de 23/5/2024.).
+
+Em outras palavras, não sendo caderneta de poupança, o reconhecimento de impenhorabilidade de valores depositados em conta corrente ou quaisquer outras aplicações financeiras depende da comprovação pelo devedor do caráter de reserva financeira ou que o montante constitui verba absolutamente impenhorável.
+
+E, na presente hipótese, embora a agravante tenha impugnando a penhora, não há nos autos nenhum elemento capaz de comprovar a impenhorabilidade alegada.
+Isso porque, os documentos acostados (mov. 81.3 e 87.2), além de não serem esclarecedores, apontam que os valores questionados se encontravam em conta de investimento renda fixa – CDB.
+
+E mesmo quando instada a juntar documentos para elucidar a origem dos valores constritos (mov. 84), a parte se restringiu a juntar “prints” de tela (mov. 87) que informam se tratar de “investimento de baixo risco, com regate fácil e proteção garantida”.
+
+Nesse contexto, a mera alegação de que que os recursos possuem natureza de reserva financeira, destinando-se à preservação de seu mínimo existencial, ou ainda, de que a conta bancária apresenta baixa movimentação, sendo utilizada essencialmente para a guarda de valores de pequena monta, por si só, não é capaz de deferir a impenhorabilidade pleiteada, sobretudo se considerado que sequer foram juntados extratos da referida conta bancária, ou qualquer outro meio hábil a demonstrar a argumentação apresentada.
+Vale dizer, os documentos existentes nos autos não são capazes de comprovar que o valor bloqueado constitua reserva particular similar aos recursos constantes da poupança, o que não pode ser simplesmente presumido pela inferioridade ao patamar de 40 salários mínimos, mas deve ser objetivamente comprovado pela parte.
+
+Ademais, a agravante não se desincumbiu do ônus de juntar comprovante acerca de suas despesas mensais e habituais, de forma a comprovar que a constrição inviabilizaria seu sustento e o mínimo existencial.
+Como se sabe, nos termos do art. 854, §3º, inciso I, do CPC, constitui ônus do executado demonstrar o atributo da impenhorabilidade, por se tratar de fato impeditivo do direito do credor.Sendo assim, não há como acolher a tese de impenhorabilidade. Sobre a questão, a jurisprudência desta Corte:
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DECISÃO RECORRIDA QUE MANTEVE A PENHORA DE VALOR ENCONTRADO EM CONTA CORRENTE PROVENIENTE DE RESGATE DE INVESTIMENTO (CDB). MANUTENÇÃO. AUSÊNCIA DE COMPROVAÇÃO DE QUE O MONTANTE SE CARACTERIZA COMO RESERVA FINANCEIRA DESTINADA A ASSEGURAR O MÍNIMO EXISTENCIAL. ÔNUS DO DEVEDOR. IMPOSSIBILIDADE DE APLICAÇÃO DA PROTEÇÃO LEGAL DO INCISO X DO ARTIGO 833 DO CÓDIGO DE PROCESSO CIVIL. RECURSO DESPROVIDO. I. CASO EM EXAME1. Agravo de Instrumento interposto contra decisão interlocutória que, em Execução de Título Extrajudicial, deferiu parcialmente o desbloqueio de valores em conta bancária da executada, liberando a quantia de R$ 60,69, por se tratar de proventos de aposentadoria, e mantendo a penhora sobre R$ 1.000,32, oriundos de resgate de aplicação financeira, considerando que este último não goza da proteção da impenhorabilidade.II. QUESTÃO EM DISCUSSÃO2. A questão em discussão consiste em saber se a decisão que manteve a penhora sobre valores bloqueados em conta bancária deve ser reformada.III. RAZÕES DE DECIDIR3. A jurisprudência do STJ estabelece que a impenhorabilidade de valores depositados em conta corrente ou outras aplicações financeiras depende da comprovação de que constituem reserva de patrimônio destinada à subsistência.4. A parte recorrente não demonstrou que o valor bloqueado era proveniente de proventos de aposentadoria ou que possuía caráter de reserva financeira, o que inviabiliza o acolhimento da alegação de impenhorabilidade.IV. DISPOSITIVO E TESE5. Recurso desprovido.Tese de julgamento: A impenhorabilidade de valores depositados em conta corrente ou outras aplicações financeiras, mesmo que inferiores a 40 salários mínimos, depende da comprovação de que tais quantias constituem reserva de patrimônio destinada a assegurar o mínimo existencial do devedor._________Dispositivos relevantes citados: CPC/2015, art. 833, X.Jurisprudência relevante citada: STJ, REsp nº 1.660.671/RS, Rel. Min. Herman Benjamin, Corte Especial, j. 21.02.2024; TJPR, 13ª Câmara Cível, 0036714-64.2025.8.16.0000, Rel. Substituto Marcos Vinicius da Rocha Loures Demchuk, j. 12.12.2025; TJPR, 18ª Câmara Cível, 0113671-09.2025.8.16.0000, Rel. Desembargador Pericles Bellusci de Batista Pereira, j. 15.12.2025; TJPR, 6ª Câmara Cível, 0033229-56.2025.8.16.0000, Rel. Substituto Horacio Ribas Teixeira, j. 07.10.2025; TJPR, 15ª Câmara Cível, 0049001-59.2025.8.16.0000, Rel. Desembargador Luiz Carlos Gabardo, j. 19.07.2025. (TJPR - 15ª Câmara Cível - 0148541-80.2025.8.16.0000 - Formosa do Oeste - Rel.: DESEMBARGADORA DENISE KRUGER PEREIRA - J. 18.04.2026)
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. BLOQUEIO DE QUANTIAS EM CONTA BANCÁRIA DA PARTE DEVEDORA. 1. CONSTRIÇÃO EM CONTA BANCÁRIA DIVERSA DA CADERNETA DE POUPANÇA. INVESTIMENTO EM CDB DI E RENDA FIXA. PRESUNÇÃO DE PENHORABILIDADE. NOVO POSICIONAMENTO DA CORTE ESPECIAL DO STJ (REsp 1.677.144-RS). IMPOSSIBILIDADE DE AMPLIAÇÃO IRRESTRITA DA REGRA PREVISTA NO ART. 833, INCISO X, DO CPC. NECESSIDADE DE COMPROVAÇÃO DO INTUITO DE POUPAR OU DE QUE O DEPÓSITO CORRESPONDE A VERBA IMPENHORÁVEL. 2. ÔNUS PROBATÓRIO QUE COMPETE À PARTE EXECUTADA. INTELIGÊNCIA DO ART. 854, § 3º, DO CPC.1. De acordo com o posicionamento do STJ, a impenhorabilidade de dinheiro em contas bancárias ou aplicações financeiras diversas da caderneta de poupança, limitada a 40 (quarenta) salários-mínimos, somente pode ser declarada quando os valores decorrerem de verba de natureza impenhorável ou quando constituírem reserva contínua e duradoura destinada a conferir proteção individual ou familiar ao devedor, em caso de emergência ou imprevisto grave.2. É do executado o ônus de provar a impenhorabilidade de depósito em conta bancária ou aplicação financeira diversa da caderneta de poupança. RECURSO CONHECIDO E PROVIDO. (TJPR - 15ª Câmara Cível - 0086492-37.2024.8.16.0000 - Londrina -
+ Rel.: SUBSTITUTO DAVI PINTO DE ALMEIDA -
+ J. 26.11.2024)
+Sendo assim, não merece acolhimento o recurso, devendo ser mantida a decisão agravada que afastou a impenhorabilidade do valor em discussão.
+3. Ante o exposto, nega-se provimento ao recurso, nos termos da fundamentação.
