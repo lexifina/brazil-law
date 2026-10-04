@@ -1,8 +1,0 @@
-Art. 139-A. A política institucional de aperfeiçoamento e capacitação dos servidores da Agência, o incentivo à pesquisa aplicada, a estudos e eventos de caráter técnico científico nas áreas fins da Agência e aos intercâmbios acadêmicos serão desenvolvidos pelo Centro de Altos Estudos em Telecomunicações - Ceatel, dotado de orçamento próprio e coordenado por um Conselho Superior.
-§ 1º A presidência e a vice-presidência do Conselho Superior caberão a membros do Conselho Diretor da Agência, sem prejuízo de suas atribuições ordinárias.
-§ 2º O Conselho Superior será composto por, no mínimo, 7 (sete) e, no máximo, 15 (quinze) membros, dentre servidores da Agência, representantes da sociedade civil e da comunidade acadêmica, conforme designação do Conselho Diretor, sendo obrigatória a participação de representantes de, pelo menos, 5 (cinco) Superintendências da Agência.
-§ 3º O Ceatel terá 1 (um) diretor-executivo, membro nato do Conselho Superior, conforme designação do Conselho Diretor, a quem caberá a condução das atividades ordinárias de gestão do órgão.
-§ 4º O Ceatel contará com 1 (uma) Secretaria Executiva, conduzida pela Assessoria Técnica da Anatel, com as atribuições de assessorar e apoiar o Ceatel.
-§ 5º O Ceatel contará com pelo menos 1 (um) Assessor de cada Gabinete do Conselho Diretor, dentre outros servidores que serão designados pelo Conselho Diretor.
-§ 6º Haverá a renovação de, pelo menos, metade dos membros do Conselho Superior a cada 2 (dois) anos, por meio da designação de novos membros pelo Conselho Diretor da Agência.
-§ 7º O Ceatel manifestar-se-á sobre licenças para especialização, mestrado, doutorado e pós-doutorado, antecedendo à decisão do órgão competente.
