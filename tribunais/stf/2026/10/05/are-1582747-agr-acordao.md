@@ -1,0 +1,611 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 14
+
+05/10/2026
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.582.747
+PARANÁ
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. CRISTIANO ZANIN
+: RAIDE DA SILVA VIEIRA
+: ADRIANA DA COSTA RICARDO SCHIER
+: ESTADO DO PARANÁ
+: PROCURADOR-GERAL DO ESTADO DO PARANÁ
+
+Ementa: DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO
+PÚBLICO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM
+AGRAVO. AÇÃO RESCISÓRIA. EXECUÇÃO DE SENTENÇA COLETIVA.
+LEGITIMIDADE ATIVA. REEXAME DE FATOS E PROVAS E DE LEGISLAÇÃO LOCAL.
+SÚMULAS 279 E 280. TEMA 660 DA REPERCUSSÃO GERAL. OFENSA REFLEXA.
+AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão pela qual neguei
+provimento ao recurso extraordinário com agravo, com fundamento nas
+Súmulas 279 e 280 e no Tema 660 da repercussão geral.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se existem óbices
+processuais e sumulares que impedem a admissibilidade do recurso
+extraordinário.
+III. RAZÕES DE DECIDIR
+3. Descabe recurso extraordinário para rever o contexto fáticoprobatório e a interpretação dada a legislação local infraconstitucional
+(Súmulas 279 e 280/STF).
+4. Em regra, descabe a interposição de recurso extraordinário para
+discutir matéria relacionada à ofensa aos princípios constitucionais do
+devido processo legal, da ampla defesa, do contraditório, da prestação
+jurisdicional e dos limites da coisa julgada, quando a verificação dessas
+alegações depender de exame prévio de legislação infraconstitucional,
+por configurar situação de ofensa reflexa ao texto constitucional (Tema
+660 da repercussão geral).
+IV. DISPOSITIVO E TESE
+5. Agravo regimental desprovido.
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3DA7-7EBA-E05F-37B3 e senha B33A-3300-6F67-DE2C
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 14
+
+ARE 1582747 AGR / PR
+_________
+Dispositivos relevantes citados: Leis Complementares estaduais nº
+92/2002 e nº 131/2010.
+Jurisprudência relevante citada: ADI 5.510; Súmulas 279 e 280; Tema
+660 da repercussão geral.
+ACÓRDÃO
+Acordam os Ministros do Supremo Tribunal Federal, em sessão
+virtual da Primeira Turma, na conformidade da ata de julgamentos, por
+unanimidade, negar provimento ao agravo regimental, nos termos do
+voto do Relator.
+Brasília, 5 de outubro de 2026.
+CRISTIANO ZANIN - Relator
+
+2
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3DA7-7EBA-E05F-37B3 e senha B33A-3300-6F67-DE2C
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 14
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.582.747
+PARANÁ
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. CRISTIANO ZANIN
+: RAIDE DA SILVA VIEIRA
+: ADRIANA DA COSTA RICARDO SCHIER
+: ESTADO DO PARANÁ
+: PROCURADOR-GERAL DO ESTADO DO PARANÁ
+RELATÓRIO
+
+O Senhor Ministro CRISTIANO ZANIN (Relator): Trata-se de agravo
+interno interposto contra decisão pela qual neguei provimento ao recurso
+extraordinário com agravo, com fundamento nas Súmulas 279 e 280 e no
+Tema 660 da repercussão geral.
+A agravante alega, em suma, que:
+O Recurso Extraordinário não busca rediscutir a
+interpretação das Leis Complementares estaduais nº 92/2002 e
+nº 131/2010, questão já definida por este Supremo Tribunal
+Federal no julgamento da ADI nº 5.510/PR. O que se discute é
+questão anterior e de natureza constitucional: se o Tribunal de
+origem poderia afastar a aplicação do entendimento firmado por
+esta Corte em controle concentrado, sob o argumento de que se
+trataria de mera alteração de entendimento jurisprudencial.
+Essa distinção é fundamental. Quando a controvérsia
+envolve o cumprimento de decisão proferida pelo Supremo
+Tribunal Federal em ação direta, a legislação estadual deixa de
+ser o objeto principal da discussão,passando a constituir apenas
+o suporte normativo sobre o qual já incidiu ainterpretação
+vinculante desta Corte. Assim, a discussão acerca do afastamento
+dessa interpretação envolve diretamente o art. 102, § 2º, da
+Constituição Federal, e não a interpretação de direito local. Por
+isso, não se aplica ao caso a Súmula nº 280/STF, que pressupõe
+decisão fundada em direito local.
+[...]
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9D7F-A632-5C7C-4234 e senha 0279-2AF5-553E-5B18
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 14
+
+ARE 1582747 AGR / PR
+Consta expressamente do Agravo em Recurso
+Extraordinário fundamentação clara e consistente demonstrando
+que a controvérsia submetida à apreciação deste e. Supremo
+Tribunal Federal é de natureza eminentemente jurídica, não
+demandando o reexame do conjunto fático-probatório dos autos.
+A discussão posta cinge-se à correta interpretação e aplicação de
+normas constitucionais, especialmente à luz dos efeitos do
+entendimento firmado por esta Corte no julgamento da ADI nº
+5510 (doc. 206, p. 7).
+
+É o relatório.
+
+2
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9D7F-A632-5C7C-4234 e senha 0279-2AF5-553E-5B18
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 5 de 14
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.582.747
+PARANÁ
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. CRISTIANO ZANIN
+: RAIDE DA SILVA VIEIRA
+: ADRIANA DA COSTA RICARDO SCHIER
+: ESTADO DO PARANÁ
+: PROCURADOR-GERAL DO ESTADO DO PARANÁ
+VOTO
+
+O Senhor Ministro CRISTIANO ZANIN (Relator): Bem reexaminada a
+questão, verifico que a decisão ora atacada não merece reforma, visto que
+a recorrente não aduz argumentos capazes de afastar as razões nela
+expendidas.
+Isso porque, conforme consignado na decisão agravada:
+Trata-se de agravo interposto contra decisão do Tribunal
+de Justiça do Estado do Paraná que inadmitiu o recurso
+extraordinário com fundamento na natureza infraconstitucional
+da matéria em discussão e na Súmula 282 do Supremo Tribunal
+Federal.
+A agravante alega, em suma, que:
+[...] a matéria apresenta de forma inobjetável
+repercussão geral, porque a decisão contraria
+entendimento pacificado neste e. STF, consagrado nos
+Temas de Repercussão Geral de n. 733, que assegura o
+cabimento de Ação Rescisória própria diante de
+declaração de constitucionalidade de dispositivo legal,
+assim como o de n. 553, que assegura o direito à paridade
+dos servidores aposentados, quando a aposentadoria
+antecede a lei que previu o direito à transposição de cargo.
+[...]
+Nesse sentido, o Acórdão recorrido afronta os artigos
+102, § 2º, da Constituição Federal, bem como o art. 40, § 8º.
+Cumprindo todos os requisitos legais, a matéria
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2678-F300-687F-3772 e senha 71B8-4886-620D-95A0
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 6 de 14
+
+ARE 1582747 AGR / PR
+encontra-se integral e diretamente prequestionada, como
+se observa nas decisões proferidas pelo e. TJ/PR, tanto nos
+Acórdãos e votos proferidos no julgamento da Ação
+Rescisória, quanto nos Embargos de Declaração.
+[...]
+Como restou demonstrado nos tópicos acima, a Ação
+Rescisória interposta na origem, para fazer valer a decisão
+proferida por este e. STF no âmbito da ADI 5510, acaba
+por negar, mais uma vez, ao autor, ora agravante, o seu
+direito à paridade de proventos de aposentadoria, já que
+lhe impede de receber o chamado Bolão referente ao
+Prêmio de Produtividade (doc. 138, p. 5-8).
+É o relatório. Decido.
+Bem examinados os autos, verifico que a pretensão
+recursal não merece acolhimento.
+Inicialmente, registro que o Supremo Tribunal Federal, ao
+apreciar o pedido deduzido na ADI 5.510/PR, deu-lhe parcial
+procedência para conferir interpretação conforme à
+Constituição a dispositivos da Lei Complementar nº 92/2002 e
+da Lei Complementar nº 131/2010, ambas do Estado do Paraná,
+a fim de “[...] afastar qualquer aplicação que possibilite a
+investidura de outrora ocupantes do cargo de Agente Fiscal 3
+(AF-3) em cargo de Auditor Fiscal”. Além disso, os efeitos de
+sua decisão foram modulados de forma a preservar os atos,
+situações e promoções concedidas em prol da necessária
+segurança jurídica:
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE.
+TRANSPOSIÇÃO. PROVIMENTO DERIVADO DE
+CARGOS PÚBLICOS. AUDITORES FISCAIS. ART. 37, II,
+DA CARTA FEDERAL. CONCURSO PÚBLICO.
+INOBSERVÂNCIA. ARTS. 156, I, II e III, DA LEI
+COMPLEMENTAR Nº 92/2002 E AO ART. 150, I, II e III,
+DA LEI COMPLEMENTAR Nº 131/2010, AMBAS DO
+ESTADO DO PARANÁ. INTERPRETAÇÃO CONFORME
+À
+CONSTITUIÇÃO.
+PROCEDÊNCIA
+PARCIAL.
+
+2
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2678-F300-687F-3772 e senha 71B8-4886-620D-95A0
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 7 de 14
+
+ARE 1582747 AGR / PR
+SEGURANÇA JURÍDICA. MODULAÇÃO TEMPORAL
+DOS EFEITOS DO ACÓRDÃO EM MAIOR EXTENSÃO.
+1. Ação direta de inconstitucionalidade, com pedido de
+medida cautelar, proposta pelo Procurador-Geral da
+República, em face dos arts. 150, I a VI e § 1°, e 156 da Lei
+Complementar nº 131, de 29.09.2010, e dos arts. 156, I a VI
+e § 2°, e 157 da Lei Complementar nº 92, de 05.07.2002,
+ambas do Estado do Paraná. As normas dispuseram sobre
+a reestruturação da carreira de Agente Fiscal da
+Coordenação da Receita do Estado do Paraná. 2. Nos
+termos do art. 27 da lei n.º 9.868/99 que autoriza, por
+razões de segurança jurídica ou excepcional interesse
+social, a restrição dos efeitos da declaração de sua
+inconstitucionalidade, modulo os efeitos da decisão (i)
+para que produza efeitos a partir de 2 (dois) anos contados
+da publicação da Ata deste julgamento; (ii) para preservar
+os atos praticados pelos servidores investidos
+irregularmente no cargo de Auditor Fiscal, inclusive nesse
+período de 2 (dois) anos; (iii) para congelar, na data da
+publicação da Ata deste julgamento, o valor nominal das
+remunerações dos servidores afetados pela decisão, até
+que a diferença recebida com base na lei ora declarada
+inconstitucional seja absorvida por aumentos futuros; (iv)
+para preservar as situações até aqui consolidadas
+exclusivamente para fins de aposentadoria, ou seja, os
+aposentados e os indivíduos que implementaram os
+requisitos para a aposentadoria até a data da publicação
+da Ata deste julgamento e, divergindo do Relator, modulo
+em maior extensão os efeitos da decisão, de modo a
+também (v) preservar as promoções concedidas na
+vigência das Leis Complementares nº 92/2002 e 131/2010
+do Estado do Paraná, como também para preservar o
+quadro funcional dos agentes fiscais 3 que tiveram seus
+cargos transformados em auditores fiscais e os atos por
+eles executados. 3. Pedido na ação direta de
+
+3
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2678-F300-687F-3772 e senha 71B8-4886-620D-95A0
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 8 de 14
+
+ARE 1582747 AGR / PR
+inconstitucionalidade julgado parcialmente procedente,
+para conferir interpretação conforme à Constituição ao art.
+156, I, II e III, da Lei Complementar nº 92/2002, e ao art.
+150, I, II e III, da Lei Complementar nº 131/2010, ambas do
+Estado do Paraná, de modo a afastar qualquer aplicação
+que possibilite a investidura de outrora ocupantes do
+cargo de Agente Fiscal 3 (AF-3) em cargo de Auditor
+Fiscal. Modulação de efeitos em maior extensão. 3. Pedido
+na ação direta de inconstitucionalidade julgado
+parcialmente procedente, para conferir interpretação
+conforme à Constituição ao art. 156, I, II e III, da Lei
+Complementar nº 92/2002, e ao art. 150, I, II e III, da Lei
+Complementar nº 131/2010, ambas do Estado do Paraná,
+de modo a afastar qualquer aplicação que possibilite a
+investidura de outrora ocupantes do cargo de Agente
+Fiscal 3 (AF-3) em cargo de Auditor Fiscal. Modulação de
+efeitos em maior extensão.
+O Tribunal de origem decidiu que a recorrente não teria
+legitimidade para a execução de crédito reconhecido em
+sentença coletiva. Assim, para dissentir do acórdão recorrido e
+verificar a procedência dos argumentos consignados no apelo
+extremo, seria necessária a reanálise da interpretação dada pelo
+TJPR ao contexto fático-probatório e à legislação
+infraconstitucional local aplicável ao caso (Lei Complementar
+estadual n. 92/2002), o que é vedado pela Súmula 280/STF.
+Incabível, portanto, o recurso extraordinário. Nesse sentido,
+destaco julgados desta Suprema Corte cujas ementas transcrevo
+a seguir:
+Direito Constitucional e Administrativo. Agravo
+Regimental no Recurso Extraordinário. Servidor público
+aposentado. Execução de ação coletiva. Legitimidade
+assentada nos acórdãos recorridos. Reexame de normas
+infraconstitucionais e de fatos e provas. Óbice dos
+enunciados nº 279 e nº 280 da Súmula do STF. I. Caso em
+exame 1. O Tribunal de origem assentou a legitimidade do
+
+4
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2678-F300-687F-3772 e senha 71B8-4886-620D-95A0
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 9 de 14
+
+ARE 1582747 AGR / PR
+autor para executar a decisão proferida na Ação Coletiva
+nº 1.397, de 2005, em virtude de se enquadrar nos termos
+da modulação dos efeitos da decisão proferida por esta
+Corte na Ação Direta de Inconstitucionalidade nº
+5.510/PR, uma vez que já tinha se aposentado antes do
+respectivo julgamento. 2. Foi negado seguimento ao
+recurso extraordinário em virtude da incidência dos
+enunciados nº 279 e nº 280 da Súmula do Supremo
+Tribunal Federal. II. Questão em discussão 3. Neste agravo
+regimental, o agravante aponta a não incidência, na
+hipótese, dos verbetes nº 279 e nº 280 da Súmula do STF,
+alegando que a decisão agravada diverge do que decidido
+no julgamento da ADI nº 5.510/PR, sob o argumento de
+que não seria possível o servidor pleitear benefícios
+adicionais que não foram consolidados voluntariamente
+pela Administração Pública. III. Razões de decidir 4.
+Apesar das alegações constantes das razões deste agravo,
+é preciso ter em conta que, em sede de recurso
+extraordinário, não é possível reexaminar os elementos
+probatórios dos autos, no caso, o alcance da decisão
+formalizada na Ação Coletiva nº 1.397, de 2005, movida
+pelo Sindicato dos Auditores Fiscais da Receita do Estado
+do Paraná. 5. Além disso, a legitimidade do ora agravado
+foi reconhecida com base no disposto nas Leis
+Complementares estaduais nº 92, de 2002, e nº 131, de
+2010, e na modulação de efeitos conferida à decisão
+prolatada na nº ADI nº 5.510/PR, por meio da qual se
+assentou a preservação das transformações do cargo de
+Agente Fiscal 3 para Auditor Fiscal no tocante aos
+servidores que já estivessem aposentados. 6. Desse modo,
+conforme consignado na decisão agravada, para divergir
+dos fundamentos expostos pelo Colegiado a quo e acolher
+os argumentos do agravante, seria necessário reexaminar
+as provas dos autos e a legislação local, o que é inviável
+em sede de recurso extraordinário, ante os óbices dos
+
+5
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2678-F300-687F-3772 e senha 71B8-4886-620D-95A0
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 10 de 14
+
+ARE 1582747 AGR / PR
+verbetes nº 279 e nº 280 da Súmula do STF. IV. Dispositivo
+7. Agravo regimental ao qual se nega provimento (RE
+1.525.988 AgR/PR, Rel. Min. André Mendonça, Segunda
+Turma, DJe 3/4/2025).
+AGRAVO
+REGIMENTAL
+NO
+RECURSO
+EXTRAORDINÁRIO COM AGRAVO. EXECUÇÃO
+INDIVIDUAL DE DECISÃO FORMALIZADA EM AÇÃO
+COLETIVA. LEGITIMIDADE. REEXAME DE FATOS E
+PROVAS:
+INVIABILIDADE
+NO
+CAMPO
+EXTRAORDINÁRIO. INCIDÊNCIA DO ENUNCIADO Nº
+279 DA SÚMULA DO STF. LIMITES SUBJETIVOS DA
+COISA JULGADA. AUSÊNCIA DE REPERCUSSÃO
+GERAL. TEMA RG Nº 848. 1. Na espécie, o Tribunal de
+Justiça do Estado de São Paulo asseverou ter o sindicato
+atuado como substituto processual de toda a categoria.
+Desse modo, somente a partir da apreciação dos autos da
+ação coletiva em questão, nos quais proferida a decisão
+que se busca executar, seria possível concluir de forma
+diversa ao consignado pelo Tribunal de origem. 2. O
+reexame da matéria fática e dos elementos probatórios que
+fundamentam o acórdão recorrido é inviável no âmbito do
+recurso extraordinário, caracterizada a incidência do
+enunciado nº 279 da Súmula do STF. 3. Ademais, esta
+Corte já decidiu não possuir repercussão geral a matéria
+alusiva aos limites subjetivos da coisa julgada (ARE nº
+901.963-RG/SC, da relatoria do Ministro Teori Zavascki —
+Tema nº 848 do ementário da Repercussão Geral). 4.
+Agravo regimental ao qual se nega provimento (ARE
+1.385.892 AgR/PR, Rel. Min. André Mendonça, Segunda
+Turma, DJe 7/11/2022).
+AGRAVO
+INTERNO
+NO
+RECURSO
+EXTRAORDINÁRIO
+COM
+AGRAVO.
+DIREITO
+PROCESSUAL CIVIL. AÇÃO COLETIVA. SINDICATO.
+EXECUÇÃO INDIVIDUAL. LEGITIMIDADE ATIVA.
+LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA
+
+6
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2678-F300-687F-3772 e senha 71B8-4886-620D-95A0
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 11 de 14
+
+ARE 1582747 AGR / PR
+REFLEXA.
+FATOS
+E
+PROVAS.
+REEXAME.
+IMPOSSIBILIDADE.
+PRECEDENTES.
+AGRAVO
+INTERNO DESPROVIDO. 1. O recurso extraordinário é
+instrumento de impugnação de decisão judicial
+inadequado para a análise de matéria infraconstitucional,
+bem como para a valoração e exame minucioso do acervo
+fático-probatório engendrado nos autos (Súmula 279 do
+STF). 2. Agravo interno desprovido, com imposição de
+multa de 5% (cinco por cento) do valor atualizado da
+causa (artigo 1.021, § 4º, do CPC), caso seja unânime a
+votação. 3. Honorários advocatícios majorados ao máximo
+legal em desfavor da parte recorrente, caso as instâncias
+de origem os tenham fixado, nos termos do artigo 85, § 11,
+do Código de Processo Civil, observados os limites dos §§
+2º e 3º e a eventual concessão de justiça gratuita (ARE
+1.378.461 AgR/RJ, Rel. Min Luiz Fux (Presidente), Tribunal
+Pleno, DJe 17/8/2022).
+DIREITO PROCESSUAL CIVIL. AÇÃO COLETIVA.
+EXECUÇÃO
+INDIVIDUAL.
+LEGITIMIDADE.
+REELABORAÇÃO
+DA
+MOLDURA
+FÁTICA.
+PROCEDIMENTO
+VEDADO
+NA
+INSTÂNCIA
+EXTRAORDINÁRIA. AGRAVO NÃO PROVIDO. 1. A
+controvérsia, a teor do já asseverado na decisão guerreada,
+não alcança estatura constitucional. Não há falar em
+afronta aos preceitos constitucionais indicados nas razões
+recursais.
+Compreensão
+diversa
+demandaria
+a
+reelaboração da moldura fática a tornar oblíqua e reflexa
+eventual ofensa à Constituição, insuscetível, como tal, de
+viabilizar o conhecimento do recurso extraordinário.
+Desatendida a exigência do art. 102, III, “a”, da Lei Maior,
+nos termos da remansosa jurisprudência desta Suprema
+Corte. 2. As razões do agravo interno não se mostram
+aptas a infirmar os fundamentos que lastrearam a decisão
+agravada. 3. A teor do art. 85, § 11, do CPC, o “tribunal, ao
+julgar recurso, majorará os honorários fixados
+
+7
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2678-F300-687F-3772 e senha 71B8-4886-620D-95A0
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 12 de 14
+
+ARE 1582747 AGR / PR
+anteriormente levando em conta o trabalho adicional
+realizado em grau recursal, observando, conforme o caso,
+o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no
+cômputo geral da fixação de honorários devidos ao
+advogado do vencedor, ultrapassar os respectivos limites
+estabelecidos nos §§ 2º e 3º para a fase de conhecimento 4.
+Agravo interno conhecido e não provido (ARE 1.418.603
+AgR/RO, Rel. Min. Rosa Weber (Presidente), Tribunal
+Pleno, DJe 5/5/2023).
+Com essa mesma orientação, menciono as seguintes
+decisões, entre outras: RE 1.567.448/PR, Rel. Min. Flávio Dino,
+DJe 17/9/2025; ARE 1.354.999/PR, Rel. Min. Edson Fachin, DJe
+26/6/2025; ARE 1.549.655/PR, Rel. Min. André Mendonça, DJe
+22/5/2025; e ARE 1.287.794/PR, Rel. Min. Gilmar Mendes, DJe
+4/3/2024.
+Por fim, aponto que esta Suprema Corte firmou orientação
+no sentido de ser inadmissível, em regra, a interposição de
+recurso extraordinário para discutir matéria relacionada à
+ofensa aos princípios constitucionais do devido processo legal,
+da ampla defesa, do contraditório, da prestação jurisdicional e
+dos limites da coisa julgada, quando a verificação dessas
+alegações depender de exame prévio de legislação
+infraconstitucional, por configurar situação de ofensa reflexa ao
+texto constitucional.
+Esse entendimento foi consolidado no julgamento do ARE
+748.371 RG (Tema 660), da relatoria do Ministro Gilmar
+Mendes, em que se rejeitou a repercussão geral da matéria em
+acórdão assim ementado:
+Alegação de cerceamento do direito de defesa. Tema
+relativo à suposta violação aos princípios do contraditório,
+da ampla defesa, dos limites da coisa julgada e do devido
+processo legal. Julgamento da causa dependente de prévia
+análise
+da
+adequada
+aplicação
+das
+normas
+infraconstitucionais. Rejeição da repercussão geral.
+Posto isso, nego provimento ao recurso (art. 932 do CPC).
+
+8
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2678-F300-687F-3772 e senha 71B8-4886-620D-95A0
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 13 de 14
+
+ARE 1582747 AGR / PR
+Honorários advocatícios majorados em 1% (um por cento), em
+desfavor da parte recorrente, caso fixada a verba honorária na
+origem, observados os limites previstos nos §§ 2º, 3º e 11 do art.
+85 do CPC, bem como a eventual concessão do benefício da
+gratuidade da Justiça.
+Publique-se.
+
+Assim, mantenho a decisão recorrida por seus próprios
+fundamentos, visto que está apoiada na jurisprudência desta Corte sobre
+a controvérsia em exame.
+É como voto.
+
+9
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2678-F300-687F-3772 e senha 71B8-4886-620D-95A0
+
+Supremo Tribunal Federal
+Extrato de Ata - 05/10/2026
+
+Inteiro Teor do Acórdão - Página 14 de 14
+
+PRIMEIRA TURMA
+
+EXTRATO DE ATA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.582.747
+PROCED. : PARANÁ/PR
+RELATOR(A): MIN. CRISTIANO ZANIN
+AGTE.(S): RAIDE DA SILVA VIEIRA
+ADV.(A/S): ADRIANA DA COSTA RICARDO SCHIER (27589/PR)
+AGDO.(A/S): ESTADO DO PARANÁ
+PROC.(A/S)(ES): PROCURADOR-GERAL DO ESTADO DO PARANÁ
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto do Relator, Ministro Cristiano Zanin.
+Primeira Turma, Sessão Virtual de 25.9.2026 a 2.10.2026.
+Composição: Ministros Cármen Lúcia (Presidente), Alexandre de
+Moraes, Cristiano Zanin e Flávio Dino.
+Cintia da Silva Gonçalves
+Secretária da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9690-7B97-8B4E-6211 e senha 3E9A-E4E6-9F1D-7EE4
