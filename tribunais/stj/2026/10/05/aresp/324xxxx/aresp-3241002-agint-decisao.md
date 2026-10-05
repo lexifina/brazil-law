@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interno interposto por PITANGUEIRAS URBANIZADORA SPE LTDA. contra decisão proferida por esta Relatoria, às fls. 381/386, que conheceu do agravo para dar parcial provimento ao recurso especial, com o fim de determinar que a retenção dos valores, em favor da recorrente, seja de 25% dos valores efetivamente pagos pela parte compradora.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 410/414)
+Em suas razões recursais, a agravante sustenta que a decisão monocrática teria aplicado indevidamente a Súmula 83/STJ ao tema da taxa de fruição, pois a matéria não está pacificada no Superior Tribunal de Justiça, havendo divergência entre a Terceira e a Quarta Turmas, e, por isso, seria necessária a apreciação colegiada do mérito (fls. 427/430).
+Aduz que o afastamento da taxa de fruição seria incorreto, porque a posse do lote, ainda que sem edificação, justifica indenização para evitar enriquecimento sem causa, conforme precedentes da Quarta Turma, de modo que se deveria arbitrar a fruição desde a imissão na posse até a devolução do imóvel (fls. 426/429).
+A parte agravada apresentou impugnação às fls. 439/452.
+É o relatório. Passo a decidir.
+Uma das questões de direito objeto do recurso especial foi afetada à Segunda Seção do Superior Tribunal de Justiça como representativa de controvérsia a ser julgada sob o rito dos recursos repetitivos, conforme decisões de afetação dos REsp"s 2.255.393/MA e 2.255.054/MA, as quais delimitaram o Tema 1.465 nos termos da seguinte ementa:
+"PROPOSTA DE AFETAÇÃO EM RECURSO ESPECIAL. RITO DOS RECURSOS REPETITIVOS. DIREITO DO CONSUMIDOR. PROMESSA DE COMPRA E VENDA DE IMÓVEL. CONTRATO ANTERIOR À LEI Nº 13.786/2018. RESCISÃO POR INICIATIVA DO COMPRADOR. RETENÇÃO. PERCENTUAL E BASE DE CÁLCULO. DEFINIÇÃO.
+1. Delimitação da controvérsia: definir o percentual e a respectiva base de cálculo dos valores que o vendedor poderá reter na rescisão, por iniciativa e culpa do comprador/consumidor, de contratos de compra e venda de imóvel firmados anteriormente à vigência da Lei nº 13.786/2018 (Lei do Distrato).
+2. Recurso especial afetado ao rito do artigo 1.036 do CPC."
+(ProAfR no REsp n. 2.255.393/MA, relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 30/6/2026, DJEN de 4/8/2026.)
+Nesse contexto, em observância à economia processual e ao art. 256-L do RISTJ, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução da questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Cumpre destacar que, em conformidade com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que eventualmente não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo ou pelo novo pronunciamento do Tribunal de origem.
+Diante do exposto, dou provimento ao agravo interno para reconsiderar a decisão agravada (e-STJ, fls. 381/386), integrada pela decisão de fls. 410/414, tornando-as sem efeito, e determinar a devolução dos autos ao Tribunal de origem, com a devida baixa, para que o recurso especial permaneça suspenso até a publicação do acórdão paradigma, nos termos do art. 1.037, II, do Código de Processo Civil de 2015, devendo ser analisado, em seguida, o procedimento dos arts. 1.040 e 1.041 do CPC/2015.
+Publique-se.
+EMENTA
