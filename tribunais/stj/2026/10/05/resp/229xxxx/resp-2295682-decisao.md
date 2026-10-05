@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por NOTRE DAME INTERMÉDICA SAUDE S/A com arrimo nas alíneas "a" e "c" do permissivo constitucional contra v. acórdão exarado pelo eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), assim ementado:
+"Ação declaratória de inexistência de débito em contrato de plano de saúde - Improcedência em primeiro grau - Aptidão do recurso - Desfazimento do negócio jurídico por iniciativa do estipulante - Previsão contratual expressa sobre a necessidade de comunicação, por escrito, com no mínimo sessenta (60) dias de antecedência e mediante o pagamento dos prêmios correspondentes a este período - Anulação do parágrafo único, do art. 17, da Resolução Normativa n. 195 da ANS, pela Resolução Normativa n. 455, em cumprimento ao quanto decidido na Ação Civil Pública n. 0136265-83.2013.3.02.51.01, o qual previa a possibilidade de rescisão imotivada dos planos privados de assistência à saúde coletivos por adesão ou empresarial somente após a vigência do período de doze (12) meses e mediante prévia notificação da outra parte com antecedência mínima de 60 (sessenta) dias - Efeitos erga omnes deste julgado - Pedido de cancelamento demonstrado - Inexigibilidade do débito cobrado - Inocorrência de litigância de má-fé - Alteração da disciplina da sucumbência - Sentença reformada - Recurso provido." (fls. 1.492)
+Nas razões do apelo nobre (fls. 1.498-1.509), NOTRE DAME INTERMÉDICA SAUDE S/A aponta, além de divergência jurisprudencial, violação aos arts. 473 e 506 do Código Civil, ao argumento, entre outros, de que o "período de Aviso Prévio também concede ao beneficiário a possibilidade de contratar um novo plano de saúde, atendendo todas as carências médicas, bem como permite que a Operadora de Saúde possa realizar procedimentos administrativos necessários para o cancelamento, garantido o equilíbrio da carteira de sinistros. Da mesma forma, caso a Recorrida desejasse rescindir o contrato unilateralmente, por certo também deveria notificar a Autora com antecedência prévia, evitando que os beneficiários sejam surpreendidos ou tenham prejuízos com a interrupção abruta dos serviços. Ou seja, está se falando de preceito contratual que se aplica a ambos os celebrantes, evitando, por um lado, que o contratante deixe de pagar abruptamente os prêmios avençados, e por outro, que a operadora de plano de saúde deixe, do dia para a noite, de prestar-lhe o serviço essencial para o qual fora contratada. Em outras palavras, a cláusula que menciona a necessidade de notificação prévia, seja por qual das partes forem, se mostra de todo razoável, haja vista a necessidade de programação e organização por ambos os contratante" (fls. 1.503).
+Assevera que tal "entendimento harmoniza com o disposto no artigo 473 do Código Civil, não observado pelo Tribunal a quo, que estipula que as resilições unilaterais do contrato se operam mediante denúncia notificada à outra parte, e que, a depender da natureza do contrato, a denúncia unilateral só produz efeitos depois de transcorrido um prazo compatível para reorganização da contraparte:" (fls. 1.503 - destaques no original).
+Defende que " a obrigação de comunicar com antecedência a intenção de extinguir a relação contratual resulta diretamente do contrato celebrado entre as partes, mediante cláusula que não se reputa abusiva, que seria exigível de ambas as partes, sendo perfeitamente válida e eficaz" (fls. 1.506).
+Aduz, ainda, que "a decisão proferida no julgamento da Ação Civil Pública nº 136265-83.2013.4.02.51.0101, movida pelo PROCON-RJ contra a ANS, teria efeito erga omnes, aplicável aos contratos de plano de saúde empresariais e coletivos, o que tornaria a cobrança de aviso prévio e de mensalidades posteriores à data do cancelamento abusiva. Ocorre que essa decisão proferida na Ação Civil Pública apenas proibiu a ANS de estipular quais seriam as condições rescisórias dos contratos coletivos. Tanto que, através do artigo 23 da Resolução nº 557/2022, editada posteriormente a este decisum, a ANS permitiu que as partes pudessem livremente dispor sobre tal tema. Inclusive, tal como demonstrado nos autos, a ANS constantemente valida que a rescisão unilateral apenas pode ocorrer precedida de notificação, observando as disposições contratuais ajustada previamente entre as partes. Nessa linha, tal decisão proferida pelo Tribunal Regional Federal da 2ª Região possui efeitos inter partes, ou seja, alcança apenas a Agência Reguladora, não podendo estender às Operadoras de Planos de Saúde, que sequer participaram daquele processo, nos termos do artigo 506 do CPC" (fls. 1.507).
+Intimado, REINALDO FINOCCHIARO FILHO SOCIEDADE INDIVIDUAL DE ADVOCACIA apresentou contrarrazões (fls. 1.534-1.555), pelo desprovimento do recurso.
+Admitido o recurso (decisão às fls. 1.561-1.563), ascenderam os autos a esta eg. Corte.
+É o relatório. Passo a decidir.
+No caso, os conteúdos normativos dos arts. 473 e 506 do Código Civil não foram analisados pelo eg. TJ-SP, sendo que não foram opostos embargos de declaração pelo ora Agravante visando o prequestionamento. Assim sendo, nessa parte, o apelo nobre encontra óbice nas Súmulas n. 282 e 356, ambas do col. STF, ante a ausência de prequestionamento. Nesse sentido, destacam-se os recentes julgados:
+"DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. RECURSO DESPROVIDO.
+(..)
+3. Ausente o enfrentamento da matéria pelo acórdão recorrido, inviável o conhecimento do recurso especial, por falta de prequestionamento. Incidência das Súmulas n. 282 e 356 do STF.
+II. Dispositivo
+4. Recurso especial desprovido."
+(REsp n. 2.042.930/SP, relator MINISTRO ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 22/9/2026, DJEN de 24/9/2026 - g. n.)
+"DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO. NULIDADE DE ATOS PROCESSUAIS. SÚMULAS 282 E 356/STF E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+(..)
+III. RAZÕES DE DECIDIR
+4. O conhecimento do recurso especial exige pronunciamento do Tribunal de origem sobre a tese jurídica indicada; ausente debate específico e não opostos embargos de declaração para suprir omissão, incidem os óbices das Súmulas 282 e 356 do STF.
+(..)
+IV. DISPOSITIVO E TESE
+6. Resultado do Julgamento: Agravo interno desprovido."
+(AgInt no AREsp n. 3.175.410/RJ, relator MINISTRO LUÍS CARLOS GAMBOGI (Desembargador Convocado do TJMG), Quarta Turma, julgado em 12/8/2026, DJEN de 17/8/2026 - g. n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. AÇÃO DE RESCISÃO CONTRATUAL COM PEDIDO DE DEVOLUÇÃO DE VALORES PAGOS. VIOLAÇÃO AO ART. 32-A, III, DA LEI 6.766/79. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. AGRAVO DESPROVIDO.
+1. Fica inviabilizado o conhecimento de temas trazidos no recurso especial, mas não debatidos e decididos nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Incidência das Súmulas 282 e 356 do STF.
+(..)
+3. Agravo interno desprovido."
+(AgInt no AREsp n. 3.164.615/SP, relator MINISTRO RAUL ARAÚJO, Quarta Turma, julgado em 30/6/2026, DJEN de 30/7/2026 - g. n.)
+Finalmente, melhor sorte não socorre ao apelo nobre pelo dissenso pretoriano.
+Como sabido, a remansosa jurisprudência desta Corte é no sentido de que o conhecimento do recurso especial pela alínea "c" do permissivo constitucional também exige o prequestionamento dos temas vinculados aos artigos objeto da suposta divergência jurisprudencial. Nessa linha de intelecção, destacam-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DECISÃO DEFERINDO PENHORA DE FATURAMENTO E NOMEANDO ADMINISTRADOR-DEPOSITÁRIO. VIOLAÇÃO ART. 869 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO QUE TAMBÉM IMPEDE O CONHECIMENTO DO DISSÍDIO JURISPRUDENCIAL. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+5. A iterativa jurisprudência desta Corte é no sentido de que o conhecimento do recurso especial - pela alínea "c" do permissivo constitucional - também exige o prequestionamento dos temas vinculados aos artigos objeto da suposta divergência jurisprudencial porquanto o óbice da ausência de prequestionamento impede a análise do dissidio interpretativo uma vez que fica inviável a comprovação da similitude das circunstâncias fáticas e do direito aplicado. Precedentes.
+6. Agravo interno não provido."
+(AgInt no AREsp n. 1.787.611/SP, relator MINISTRO LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 10/5/2021, DJe de 13/5/2021 - g. n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. (..). FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. NÃO PROVIDO.
+(..)
+4. O óbice da ausência de prequestionamento impede a análise da divergência jurisprudencial alegada, porquanto inviável a comprovação da similitude das circunstâncias fáticas e do direito aplicado. Precedentes.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.314.188/SP, relatora MINISTRA MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 18/12/2023, DJe de 21/12/2023 - g. n.)
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, com arrimo no art. 255, §4º, I, do RI-STJ, não conheço do recurso especial.
+Publique-se.
+EMENTA
