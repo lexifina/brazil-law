@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DPX INCORPORAÇÕES LTDA e OUTRO contra decisão que inadmitiu seu recurso especial, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de Paraná, assim ementado:
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. PRETENSA REFORMA DA DECISÃO LIMINAR, COM A CONCESSÃO DO EFEITO SUSPENSIVO AO RECURSO. MATÉRIA PREJUDICADA EM RAZÃO DO JULGAMENTO DO AGRAVO DE INSTRUMENTO.
+I. Caso em exame 1. Agravo interno interposto contra decisão que indeferiu o pedido de atribuição do efeito suspensivo, ou de antecipação da tutela recursal, ao Agravo de Instrumento em ação de rescisão contratual, na qual a parte dos documentos não foi justificada e ocorreu agravante alegou que a juntada após a fase instrutória, prejudicando sua defesa.
+II. Questão em discussão 2. A questão em discussão consiste em saber se o agravo interno deve ser conhecido ou não, em razão da perda superveniente do objeto devido ao julgamento do agravo de instrumento em apenso.
+III. Razões de decidir 3. O recurso não merece ser conhecido por estar prejudicado em razão do julgamento do mérito do agravo de instrumento em apenso.
+4. A perda do objeto do agravo interno implica falta de interesse recursal, o que justifica o não conhecimento do recurso.
+5. Rejeição do pedido de aplicação da multa prevista no § 4º do art. 1.021 do CPC.
+IV. Dispositivo e tese 6. Recurso não conhecido, prejudicado em razão do julgamento do agravo de instrumento em apenso.
+O julgamento do mérito do agravo de instrumento Tese de julgamento:
+(recurso principal), prejudica a análise do agravo interno interposto em face de decisão liminar proferida no recurso principal.
+_________
+Dispositivos relevantes citados: CPC/2015, art. 1.021.
+Jurisprudência relevante citada: TJPR - 20ª Câmara Cível - 0082310- 08.2024.8.16.0000 - Curitiba - Rel.: Fabio Marcondes Leite - J. 25.02.2025; TJPR - 20ª Câmara Cível - 0079005-16.2024.8.16.0000 - Londrina - Rel.: Rosaldo Elias Pacagnan - J. 14.03.2025.
+RECURSO NÃO CONHECIDO.
+Opostos embargos de declaração, restaram rejeitados.
+Em seu recurso especial, a parte recorrente alega violação dos arts. 5º, 342, I, 434, 435, caput e § único, 489, § 1º, V, 1.022, II e parágrafo único, II, do CPC, bem como divergência jurisprudencial, sustentando, em síntese, isto: (I) negativa de prestação jurisdicional; (II) "Ao permitir a juntada de documentos quando já superado o momento adequado, o julgador prestigiou a desorganização processual e feriu a confiança legítima da contraparte, em clara violação ao princípio da cooperação e da estabilidade procedimental. Deste modo, o acórdão contrariou o disposto no art. 434 do CPC, que dispõe que as partes devem instruir a petição inicial e a contestação com os documentos destinados a provar suas alegações, admitindo a juntada posterior apenas nas hipóteses do art. 435, quando destinados a fazer prova de fatos ocorridos depois dos articulados ou para contrapô-los aos que foram produzidos nos autos" (fl. 177).
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+É o Relatório. Passo a decidir.
+É indevido conjecturar-se a existência de ausência de fundamentação e omissão no julgado, apenas porque decidido em desconformidade com os interesses da parte.
+Assim, rejeita-se a alegada violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o eg. TJ-PR analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação. Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489, § 1º, IV e V, e 1.022 do CPC/2015 NÃO CONFIGURADA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF. COLISÃO ENTRE PREMISSAS DE NATUREZA FÁTICA. ÓBICE DA SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. Não há violação dos arts. 489, § 1º, IV e V, e 1.022 do CPC/2015, pois o Tribunal a quo dirimiu as questões pertinentes ao litígio, emitindo pronunciamento de forma clara e fundamentada.
+ ..
+9. Agravo Interno não provido."
+(AgInt no AREsp 1294074/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/10/2018, DJe 29/10/2018)
+Quanto ao mais, esta Corte Superior possui entendimento de que a regra prevista no art. 396 do CPC/73 (art. 434 do CPC/2015), segundo a qual incumbe à parte instruir a inicial ou a contestação com os documentos que forem necessários para provar o direito alegado, somente pode ser excepcionada se, após o ajuizamento da ação, surgirem documentos novos, ou seja, decorrentes de fatos supervenientes ou que somente tenham sido conhecidos pela parte em momento posterior, nos termos do art. 397 do CPC/73 (art. 435 do CPC/2015). Nesse mesmo sentido:
+"DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RESSARCIMENTO. CONTRATO DE SEGURO. INCÊNDIO EM ARMAZÉM. SUB-ROGAÇÃO DA SEGURADORA. JUNTADA EXTEMPORÂNEA DE DOCUMENTOS. PRECLUSÃO PROBATÓRIA. ARTS. 1.022 E 435, PARÁGRAFO ÚNICO, DO CPC. RECURSO PROVIDO.
+1. Nos termos do art. 435, parágrafo único, do CPC, a juntada posterior de documentos depende da comprovação, pela parte interessada, do motivo que a impediu de apresentá-los no momento processual adequado. A invocação genérica do princípio da busca da verdade real não supre a ausência dos requisitos legais para afastar a preclusão probatória.
+2. Documentos emitidos antes do ajuizamento da ação e não apresentados com a petição inicial, sem demonstração de justo impedimento, não podem ser admitidos após a prolação da sentença, sob pena de violação da preclusão e do devido processo legal.
+3. Recurso especial provido."
+(REsp n. 2.099.997/MT, Rel. Ministro MOURA RIBEIRO, Terceira Turma, julgado em 25/5/2026, DJEN de 29/5/2026.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. AUSÊNCIA DOS VÍCIOS PREVISTOS NO ART. 1.022 DO CPC. COMPROVAÇÃO DA EXISTÊNCIA DO CRÉDITO. SÚMULA 7/STJ. DOCUMENTO NOVO. NÃO CARACTERIZAÇÃO. SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Agravo interno contra decisão da Presidência que conheceu do agravo para não conhecer do recurso especial.
+2. Não se verifica a alegada violação ao art. 1.022 do CPC/2015, na medida em que a eg. Corte Estadual dirimiu, fundamentadamente, as questões que lhe foram submetidas.
+3. A Corte de origem concluiu que a parte autora apresentou a prova escrita do débito, por meio de notas fiscais, e que o réu não se desincumbiu de provar fato impeditivo, modificativo ou extintivo do direito alegado pela parte autora. A modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+4. A regra prevista no art. 396 do CPC/73 (art. 434 do CPC/2015), segundo a qual incumbe à parte instruir a inicial ou a contestação com os documentos que forem necessários para provar o direito alegado, somente pode ser excepcionada se, após o ajuizamento da ação, surgirem documentos novos, ou seja, decorrentes de fatos supervenientes ou que somente tenham sido conhecidos pela parte em momento posterior, nos termos do art. 397 do CPC/73 (art. 435 do CPC/2015).
+5. Na hipótese, os documentos, apresentados pela ré apenas após a prolação da sentença, não podem ser considerados novos, porque, nos termos do consignado pelas instâncias ordinárias, visavam comprovar fato anterior, já alegado na contestação. Ademais, oportunizada a dilação probatória, a prerrogativa teria sido dispensada pela parte, que, outrossim, requereu o julgamento antecipado da lide. Incidência da Súmula 83/STJ.
+6. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.734.438/RJ, Rel. Ministro RAUL ARAÚJO, Quarta Turma, julgado em 15/3/2021, DJe de 7/4/2021)
+Na hipótese, extrai-se do trecho, quando do julgamento dos embargos de declaração, isto:
+"Note-se, ainda, que o acórdão recorrido destacou que o magistrado evidenciou a situação excepcional envolvendo a recuperação tardia dos documentos por meio de acolhendo a juntada dos backup, documentos, bem como o devido exercício do contraditório com a possibilidade de manifestação da parte contrária, não havendo que se falar em prejuízo processual da parte adversa.
+Noutro trecho o referido julgado esclareceu que: "ao contrário do que alega a recorrente, não se vislumbra que a juntada do documento foi revestida de má-fé, com ocultação premeditada e surpresa do juízo, tampouco de surpreender a parte adversa, ou dificultar-lhe a defesa.
+Em verdade, a medida tomada pelo Juízo de origem vai ao encontro dos princípios da celeridade e da economia processual, eis que há possibilidade de eventual anulação a sentença em sede de apelação, por cerceamento de defesa, o que levaria à reabertura tardia da instrução, sendo que tal situação restou ressalvada na fundamentação da r. decisão agravada." "
+Estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ.
+Ademais, ainda que superado o referido óbice, tem-se que a pretensão de modificar o entendimento firmado, quanto à extemporaneidade do documento apresentado, demandaria o revolvimento do acervo fático-probatório, o que é inviável em recurso especial, nos termos da Súmula 7 do STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Havendo prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+EMENTA
