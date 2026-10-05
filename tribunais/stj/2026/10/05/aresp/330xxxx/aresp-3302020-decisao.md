@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo manejado por Warner Reis Rodrigues Duarte contra decisão da Primeira Vice-Presidência do Tribunal de Justiça do Estado de Goiás que não admitiu o recurso especial com base na incidência da Súmula 83 do STJ.
+A parte agravante sustenta a inaplicabilidade das Sumúlas 7 e 83 do STJ e 284 do STF. Argumenta que "a aplicação da Súmula 83 do STJ revela uma incompreensão abissal do cerne do Recurso Especial e da própria tese que se pretende ver apreciada por esta Corte. A decisão agravada afirma que o acórdão recorrido estaria em consonância com a jurisprudência do STJ, especialmente ao mencionar o Tema 948/STJ, nos seguintes termos:  ..  A tese do Recurso Especial não é de conformidade, mas sim de discrepância do acórdão local com a jurisprudência dominante e vinculante do STJ. Utilizar a Súmula 83/STJ para impedir a subida de um recurso que tem como cerne demonstrar que a decisão recorrida NÃO está em conformidade com o entendimento do STJ, é subverter a finalidade da referida súmula e, por consequência, impedir o exercício da função uniformizadora desta Corte. A Súmula 83 aplica-se quando o acórdão recorrido está de acordo com a jurisprudência do STJ, e o recurso busca alterar esse entendimento. No presente caso, o Recurso Especial busca restaurar o entendimento do STJ, que foi desrespeitado pelo Tribunal de origem." (fls. 319/320).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar o motivo adotado pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, a parte agravante deixou de rebater, de modo específico, a incidência da Súmula 83 do STJ.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Essa foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+Diante do exposto , nos termos do art. 932, III, do CPC, não conheço do agravo.
+Publique-se.
+EMENTA
