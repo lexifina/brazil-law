@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por UNIMED DO CEARÁ - FEDERAÇÃO DAS SOCIEDADES COOPERATIVAS MÉDICAS DO ESTADO DO CEARÁ LTDA. contra decisão singular de minha lavra na qual se conheceu do agravo, negou-se provimento ao recurso especial e manteve-se a obrigação de fornecimento de materiais ligados ao ato cirúrgico, com apoio na Resolução Normativa 424/2017 da Agência Nacional de Saúde Suplementar, na jurisprudência do Superior Tribunal de Justiça e na vedação ao reexame fático da Súmula 7/STJ, preservando-se a indenização por danos morais e majorando-se os honorários nos termos do art. 85, § 11, do Código de Processo Civil.
+Nas razões do seu recurso, a parte embargante alega omissão quanto à regularidade da junta médica e ao exercício regular de direito, por defesa fundada na Resolução Normativa 424/2017 e no parecer do desempatador sobre códigos cirúrgicos e materiais.
+Sustenta contradição entre o registro da junta médica e a conclusão de recusa indevida, requerendo esclarecimento sobre o alcance do parecer técnico e seus efeitos jurídicos na controvérsia examinada.
+Requer suprimento de omissão quanto à configuração do dano moral no caso específico, defendendo a necessidade de indicar circunstâncias concretas que evidenciem ato ilícito e agravamento da angústia do beneficiário.
+Foi apresentada impugnação.
+Assim delimitada a questão, passo a decidir.
+Os presentes embargos não merecem prosperar.
+Quanto à omissão sobre junta médica e exercício regular de direito, a decisão embargada enfrentou a regulação setorial e destacou o art. 7º, inciso I, da Resolução Normativa 424/2017, que atribui ao médico assistente a definição das características dos materiais indispensáveis à cirurgia, mantendo a cobertura dos itens ligados ao procedimento autorizado.
+No tocante à contradição, a decisão assentou a consonância com a orientação do Superior Tribunal de Justiça sobre o dever de cobertura de órteses e próteses diretamente ligadas ao ato cirúrgico e indicou o óbice da Súmula 7/STJ para revisões sobre imprescindibilidade e substitutos terapêuticos, inexistindo incoerência entre as premissas e a conclusão adotada.
+Quanto à omissão sobre o dano moral, a decisão embargada reafirmou a linha jurisprudencial segundo a qual a recusa indevida intensifica a angústia do beneficiário e acatou a conclusão do Tribunal de origem sobre a potencialização do sofrimento, preservando a fixação em R$ 3.000,00. Nesse aspecto, não se configura a omissão apontada.
+Cumpre reforçar que "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão" (EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 15/6/2016, DJe 3/8/2016).
+Ademais, os embargos de declaração não se prestam para rediscutir questões já devidamente tratadas, não havendo "(..) que se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação" (EDcl no AgRg nos EREsp 1.213.226/SC, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 24/10/2016, DJe 22/11/2016).
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
