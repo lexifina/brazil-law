@@ -1,0 +1,211 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Superior do TRabalho
+PROCESSO Nº TST-Ag-E-ED-AIRR - 1757-75.2012.5.02.0083
+A C Ó R D Ã O
+Órgão Especial
+GMMGD/mmd/vd
+AGRAVO. RECURSO EXTRAORDINÁRIO DENEGADO.
+TERCEIRIZAÇÃO DE SERVIÇOS. TEMA 725 DO EMENTÁRIO DE
+REPERCUSSÃO GERAL DO STF. PROVIMENTO. 1 . Este Ministro
+Relator, acolhendo o entendimento lavrado em sessão do
+Plenário Virtual do Órgão Especial, em que houve ampla
+sufragação da tese ora explicitada, reformula seu voto original –
+como é próprio em uma democracia –, ressalvando seu
+entendimento pessoal, para dar provimento ao agravo e
+determinar a remessa dos presentes autos ao órgão fracionário
+desta Corte, a fim de que se manifeste, à luz da tese firmada no
+Tema 725 da repercussão geral do STF, nos termos do art. 1.030,
+II, do CPC, acerca da necessidade de exercer eventual juízo de
+retratação da decisão proferida. 2. A tese jurídica prevalecente
+no julgamento foi a de que compete ao órgão fracionário
+examinar se deve (ou não) exercer eventual juízo de retratação
+da decisão anteriormente prolatada. Isso porque o Supremo
+Tribunal Federal, ao apreciar o Tema 725 da repercussão geral,
+estabeleceu que “é lícita a terceirização ou qualquer outra forma
+de divisão do trabalho entre pessoas jurídicas distintas,
+independentemente do objeto social das empresas envolvidas,
+mantida a responsabilidade subsidiária da empresa contratante”.
+3 . Fica ressalvado o entendimento pessoal deste Relator, no
+seguinte sentido: Na hipótese de o Tribunal Regional reconhecer a
+existência de responsabilidade da Parte Reclamada pautada na
+análise do contexto fático-probatório descrito nos autos que
+demonstrou a presença dos elementos caracterizadores do vínculo
+de emprego e a utilização de artifício fraudulento para mascarar a
+relação jurídica entre as empresas, a decisão não está fundada na
+discussão acerca da terceirização – Tema 725 da Tabela de
+Repercussão Geral. Nesse sentido, em casos similares envolvendo o
+reconhecimento de vínculo da empresa contratante em razão de
+fraude na intermediação da mão de obra, o e. STF já se manifestou
+registrando a não aderência ao Tema nº 725. Agravo conhecido e
+provido.
+Vistos, relatados e discutidos estes autos de Agravo em Embargos em Embargos
+de Declaração em Agravo de Instrumento em Recurso de Revista nº TST-Ag-E-ED-AIRR - 1757-
+75.2012.5.02.0083, em que é Agravante ICOMON TECNOLOGIA LTDA. e são Agravados LUIZ CARLOS
+SOARES, TELEFÔNICA BRASIL S.A. e WORKTIME ASSESSORIA EMPRESARIAL LTDA..
+Por meio de decisão monocrática foi denegado seguimento ao recurso
+extraordinário interposto.
+Inconformada, a Parte interpõe agravo com fundamento no art. 1.021 do
+CPC/2015. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683E8924427ED6D.
+Foi concedida vista à Parte Agravada para se manifestar no prazo de 8 (oito) dias.
+A Parte Agravada apresentou manifestação.
+É o relatório.
+V O T O
+I) CONHECIMENTO
+Atendidos todos os pressupostos recursais, CONHEÇO do apelo.
+II) MÉRITO
+AGRAVO. RECURSO EXTRAORDINÁRIO DENEGADO. TERCEIRIZAÇÃO DE
+SERVIÇOS. TEMA 725 DO EMENTÁRIO DE REPERCUSSÃO GERAL DO STF. PROVIMENTO
+A decisão agravada foi proferida nos seguintes termos:
+Trata-se de recurso extraordinário interposto em face de acórdão prolatado por este Tribunal
+Superior do Trabalho em que a parte se insurge quanto à “licitude da contratação de mão de obra
+terceirizada para a prestação de serviços relacionados com a atividade-fim da empresa tomadora de
+serviços”.
+A Parte argui prefacial de repercussão geral.
+É o relatório.
+A questão referente à terceirização de serviços para a consecução da atividade fim da empresa
+foi objeto da ADPF 324 julgada simultaneamente com o RE 958.252/MG, do qual resultou o Tema 725
+da Tabela de Repercussão Geral, com o mérito julgado em 30/08/2018, acórdão publicado em
+13/09/2019 e trânsito em julgado em 15/10/2024.
+Na ADPF 324 foi fixada a seguinte tese: “1. É lícita a terceirização de toda e qualquer atividade,
+meio ou fim, não se configurando relação de emprego entre a contratante e o empregado da
+contratada. 2. Na terceirização, compete à contratante: i) verificar a idoneidade e a capacidade
+econômica da terceirizada; e ii) responder subsidiariamente pelo descumprimento das normas
+trabalhistas, bem como por obrigações previdenciárias, na forma do art. 31 da Lei 8.212/1993”.
+Referida tese foi consolidada no Tema 725 de seguinte teor: “É lícita a terceirização ou qualquer
+outra forma de divisão do trabalho entre pessoas jurídicas distintas, independentemente do objeto
+social das empresas envolvidas, mantida a responsabilidade subsidiária da empresa contratante”.
+Importante destacar que a Suprema Corte, no acórdão dos embargos de declaração no RE
+958.252, publicado no dia 24/08/2022, modulou os efeitos do julgamento para “assentar a
+aplicabilidade dos efeitos da tese jurídica fixada apenas aos processos que ainda estavam em curso
+na data da conclusão do julgado (30/08/2018), restando obstado o ajuizamento de ações rescisórias
+contra decisões transitadas em julgado antes da mencionada data que tenham a Súmula 331 do TST
+por fundamento, mantidos todos os demais termos do acórdão embargado”.
+Esclareceu, também, por meio do acórdão em embargos de declaração, publicado no DJe no
+dia 11/03/2024, que os “valores que tenham sido recebidos de boa-fé pelos trabalhadores não
+deverão ser restituídos, ficando prejudicada a discussão relativamente à possibilidade de
+ajuizamento de ação rescisória, tendo em vista já haver transcorrido o prazo para propositura, cujo
+termo inicial foi o trânsito em julgado da ADPF 324” (28/09/2021).
+No presente caso, a Turma desta Corte concluiu que a terceirização foi lícita, na qual a segunda
+Reclamada foi beneficiária da prestação de serviços da Parte Reclamante, respondendo apenas pelo
+adimplemento dos créditos trabalhistas, nos termos do art. 331, IV, do TST.
+Nesse contexto, conclui-se que a decisão recorrida encontra-se em conformidade com a tese
+de repercussão geral firmada pelo Supremo Tribunal Federal no Tema 725, ao julgar o RE
+958.252/MG.
+Ante o exposto, conforme o art. 1.030, I, “a”, do CPC/2015, nego seguimento ao recurso
+extraordinário e determino a baixa dos autos à origem depois do transcurso do prazo recursal caso
+não haja manifestação das Partes.
+Nas razões do agravo, a Parte Agravante pugna pela reforma da decisão que
+denegou seguimento ao recurso extraordinário.
+À análise.
+A questão referente à terceirização de serviços para a consecução da atividade fim da
+empresa foi objeto da ADPF 324 julgada simultaneamente com o RE 958.252/MG, do qual resultou o Tema
+725 da Tabela de Repercussão Geral, com o mérito julgado em 30/08/2018, acórdão publicado em 13/09/2019
+e trânsito em julgado em 15/10/2024.
+Na ADPF 324 foi fixada a seguinte tese:“1. É lícita a terceirização de toda e qualquer
+atividade, meio ou fim, não se configurando relação de emprego entre a contratante e o empregado da
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683E8924427ED6D.
+contratada. 2. Na terceirização, compete à contratante: i) verificar a idoneidade e a capacidade econômica da
+terceirizada; e ii) responder subsidiariamente pelo descumprimento das normas trabalhistas, bem como por
+obrigações previdenciárias, na forma do art. 31 da Lei 8.212/1993”.
+Referida tese foi consolidada no Tema 725 de seguinte teor: “É lícita a terceirização ou
+qualquer outra forma de divisão do trabalho entre pessoas jurídicas distintas, independentemente do objeto
+social das empresas envolvidas, mantida a responsabilidade subsidiária da empresa contratante”.
+Diante desse entendimento, este Ministro Relator compreende que, na hipótese de
+o Tribunal Regional reconhecer a existência de responsabilidade da Parte Reclamada pautada na análise
+do contexto fático-probatório descrito nos autos que demonstrou a presença dos elementos
+caracterizadores do vínculo de emprego e a utilização de artifício fraudulento para mascarar a relação
+jurídica entre as empresas, a decisão não está fundada na discussão acerca da terceirização – Tema 725
+da Tabela de Repercussão Geral.
+Ademais, em casos similares envolvendo o reconhecimento de vínculo da empresa
+contratante em razão de fraude na intermediação da mão de obra, o e. STF já se manifestou registrando
+a não aderência ao Tema nº 725. Nesse sentido:
+Ementa: AGRAVO REGIMENTAL NA RECLAMAÇÃO. TRABALHISTA. TER-CEIRIZAÇÃO. ALEGAÇÃO DE
+AFRONTA À AUTORIDADE DA DECISÃO PROFERIDA NA AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE
+48/DF. AUSÊNCIA DE ESTRITA ADERÊNCIA. AUSÊNCIA DE CONTRATO. VULNERABILIDADE. REANÁLISE DO
+CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. UTILIZAÇÃO DARE-CLAMAÇÃO COMO SUCEDÂNEO
+RECURSAL. IMPOSSIBILIDADE. AGRAVO DES-PROVIDO. I. Caso em exame 1. Trata-se de agravo regimental
+interposto contra decisão que julgou improcedente a reclamação proposta para garantir a observância da
+tese fixada pelo Supremo Tribunal Federal no julgamento da ADC 48/DF. II. Questão em discussão 2.
+Definir se o Tribunal de origem afrontou o precedente vinculante do Supremo Tribunal Federal, ao
+reconhecer o vínculo empregatício entre a agravante e o beneficiário do ato reclamado. III. Razões de
+decidir 3. A autoridade reclamada, mediante apreciação das provas produzidas nos autos, concluiu
+pela configuração dos elementos fático-jurídicos necessários à formação do vínculo empregatício
+entre a reclamante e o beneficiário do ato reclamado, em conformidade com o art. 3° da CLT. 4. No
+caso concreto, é evidente (i) a ausência de informação sobre a existência de contrato escrito; e (ii) a
+situação de vulnerabilidade do trabalhador. 5. Em casos semelhantes, a jurisprudência do Supremo
+Tribunal Federal exige aderência estrita entre o ato reclamado e o conteúdo dos paradigmas
+apontados como violados, o que ora não ocorreu. 6. Dissentir das razões adotadas pela Justiça
+Trabalhista demandaria o reexame do conjunto fático-probatório dos autos, circunstância também não
+admitida em reclamação constitucional. 7. A intenção da agravante é utilizar a reclamação como
+sucedâneo recursal, finalidade que não se compatibiliza com a sua destinação constitucional. IV.
+Dispositivo e tese 8. Agravo regimental desprovido. Dispositivos relevantes citados: CLT, arts. 2º, 3º.
+Jurisprudência relevante citada: STF, ADC 48/DF; Rcl 38.504 AgR/SP, Rel. Min. Edson Fachin, Segunda
+Turma, DJe 6/4/2021; Rcl 62.419 AgR/RJ, Rel. Min. Cristiano Zanin, Primeira Turma, DJe 22/11/2023; Rcl
+50.238 AgR/CE, Rel. Min. Dias Toffoli, Primeira Turma, DJe 24/5/2022. (Rcl 79318 AgR, Relator(a):
+CRISTIANO ZANIN, Primeira Turma, julgado em 16-06-2025, PROCESSO ELETRÔNICO DJe-s/n DIVULG 17-
+06-2025 PUBLIC 18-06-2025) (g.n.)
+EMENTA: AGRAVO INTERNO NA RECLAMAÇÃO. RECLAMAÇÃO. DIREITO DO TRABALHO. DECISÃO
+IMPUGNADA QUE AFIRMA A EXISTÊNCIA DE VÍNCULO EMPREGATÍCIO ENTRE O RECLAMANTE E O
+BENEFICIÁRIO. ALEGAÇÃO DE OFENSA ÀS DECISÕES VINCULANTES PROFERIDAS NA ADPF 324 E NO RECURSO
+EXTRAORDINÁRIO 958.252 – TEMA 725 DA REPERCUSSÃO GERAL. DESCA-BIMENTO. AUSÊNCIA DE ESTRITA
+ADERÊNCIA. ACÓRDÃO FUNDADO EM ASPECTOS FÁTICOS E QUE DECLARA A EXISTÊNCIA DE
+SUBORDINAÇÃO. INEXISTÊNCIA DE CONTRATO ESCRITO APTO A JUSTIFICAR FORMA ALTERNATIVA DE
+CONTRATAÇÃO. PRECEDENTES. REVOLVIMENTO DO CONJUNTO FÁTICOPROBATÓRIO QUE NÃO SE ADMITE
+NA VIA RECLAMATÓRIA. PRECEDENTES. RECLAMAÇÃO A QUE SE NEGOU SEGUIMENTO. AGRAVO A QUE SE
+NEGA PRO-VIMENTO. (Rcl 76639 AgR, Relator(a): LUIZ FUX, Primeira Turma, julgado em 03-06-2025,
+PROCESSO ELETRÔNICO DJe-s/n DIVULG 05-06-2025 PUBLIC 06-06-2025)
+DIREITO DO TRABALHO. TERCEIRIZAÇÃO. VÍNCULO EMPREGATÍCIO. SUBORDINAÇÃO JURÍDICA.
+REQUISITOS DOS ARTS. 2º E 3º DA CONSOLIDAÇÃO DAS LEIS DO TRABALHO. CONFIGURAÇÃO.
+COMPREENSÃO DIVERSA. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA
+EXTRAORDINÁRIA. TEMA Nº 725. INAPLICABILIDADE. ALEGAÇÃO DE OFENSA AO ART. 5º, II, DA
+CONSTITUIÇÃO DA REPUBLICA. LEGALIDADE. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA
+REPUBLICA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. 1. A controvérsia, conforme já asseverado
+na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta a preceito
+constitucional indicado nas razões recursais. Compreensão diversa demandaria a análise da legislação
+infraconstitucional encampada na decisão da Corte de origem, bem como a reelaboração da moldura
+fática, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar
+o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, ‘a’, da Lei Maior,
+nos termos da jurisprudência desta Suprema Corte. 2. A questão do preenchimento dos requisitos
+legais para a caracterização do vínculo de emprego, controvérsia submetida à apreciação desta
+Corte por meio do recurso extraordinário, não foi submetida ao Plenário Virtual para manifestação
+acerca da existência de repercussão geral no RE 958.252-RG. 3. As razões do agravo não se mostram
+aptas a infirmar os fundamentos que lastrearam a decisão agravada, principalmente no que se refere à
+ausência de ofensa a preceito da Constituição da Republica. 4. Agravo interno conhecido e não provido. 5.
+A teor do art. 85, § 11, do CPC/2015, o ‘tribunal, ao julgar recurso, majorará os honorários fixados
+anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o
+caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários
+devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a
+fase de conhecimento’". (ARE 1.349.118 AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 10.12.2021)
+(g.n.)
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 09.09.2020.
+RECONHECIMENTO PELO TRIBUNAL A QUO DO VÍNCULO EMPREGATÍCIO. CONFIGURAÇÃO DA
+SUBORDINAÇÃO JURÍDICA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS.
+SÚMULA 279. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. No caso, o Tribunal a quo, a partir do
+exame dos elementos de prova dos autos, reconheceu o vínculo empregatício do recorrido com a
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683E8924427ED6D.
+tomadora dos serviços, em virtude da configuração da subordinação jurídica, para se divergir desse
+entendimento faz-se necessário reexaminar o conjunto fático-probatório da causa. Incide, portanto, na
+hipótese, o óbice da Súmula 279 do STF. 2. Agravo regimental a que se nega provimento. (STF - ARE:
+1280609 MG 0001843-08.2011.5.03.0098, Relator.: EDSON FACHIN, Data de Julgamento: 24/02/2021,
+Segunda Turma, Data de Publicação: 25/03/2021) (g.n.)
+Não obstante a compreensão acima sufragada em itálico –a qual se adota
+como ressalva de entendimento pessoal – este Ministro Relator, acolhendo o entendimento
+majoritário deste Órgão Especial – como é próprio em uma democracia – reformula o voto original
+para dar provimento ao agravo e determinar a remessa dos presentes autos ao órgão fracionário
+desta Corte, a fim de que se manifeste, à luz da tese firmada no Tema 725 da repercussão geral,
+nos termos do art. 1.030, II, do CPC, acerca da necessidade de exercer eventual juízo de retratação
+da decisão proferida.
+Pelo exposto, DOU PROVIMENTO ao agravo.
+ISTO POSTO
+ACORDAM os Ministros do Órgão Especial do Tribunal Superior do Trabalho, à
+unanimidade, dar provimento ao agravo e determinar a remessa dos presentes autos ao órgão
+fracionário desta Corte, a fim de que se manifeste, à luz da tese firmada no Tema 725 da repercussão
+geral do STF, nos termos do art. 1.030, II, do CPC, acerca da necessidade de exercer eventual juízo de
+retratação da decisão proferida. Ressalva de entendimento pessoal do Ministro Relator.
+Brasília, 5 de outubro de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+MAURICIO GODINHO DELGADO
+Ministro Relator
+Firmado por assinatura digital em 08/10/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683E8924427ED6D.
