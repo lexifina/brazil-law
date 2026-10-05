@@ -1,0 +1,24 @@
+DECISÃO:
+Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+O acórdão recorrido  ficou assim ementado:
+
+MANDADO DE SEGURANÇA. PRELIMINAR DE PRESCRIÇÃO. NÃO ACOLHIMENTO. PRETENSÃO DE EXCLUSÃO DO REGISTRO DA FICHA DE ASSENTAMENTO FUNCIONAL DO AUTOR. PROCEDIMENTO SIDO ARQUIVADO, CONFORME DETERMINAÇÃO DA CORREG/PM N.º R/1465-15/15, DEVIDAMENTE PUBLICADO EM 08/01/2016, NO BGO N.º 005. ART. 1.º DO DECRETO N.º 20.910/32. ADMISSIBILIDADE DO PEDIDO DE EXCLUSÃO. ART. 56 DA LEI ESTADUAL N.º 7990/01. VEDAÇÃO À APLICAÇÃO DE PENAS DE CARÁTER PERPÉTUO. ART. 5.º, INC. XLVII, DA CONSTITUIÇÃO FEDERAL DE 1988 AGRAVO INTERNO CONHECIDO E IMPROVIDO. 1. A prescrição sustentada pelo Estado atinge tão somente a anulação ou invalidação das punições, não abarcando o cancelamento dos registros, eis que se tratando o mesmo de ato omissivo da Administração Pública e inexistindo prazo para que ela pratique o ato, impossível é fixar dies a quo do prazo prescricional, tendo em vista que a omissão não significa recusa e, por tal motivo, não há se falar em início da contagem do prazo prescricional. Preliminar rejeitada. 2. Embora tenha havido em desfavor do impetrante, a instauração de Processo Administrativo Disciplinar para apuração de acúmulo indevido de cargo público, em 12/09/2012, o referido procedimento foi arquivado, conforme determinação da CORREG/PM n.º R/1465-15/15, devidamente publicado em 08/01/2016, no BGO n.º 005. 3. Não se admite, no ordenamento jurídico brasileiro, o caráter perpétuo de qualquer sanção, havendo-se, por conseguinte, que expurgar, do assentamento funcional do recorrente, as punições impostas no período indicado, com arrimo no art. 56 do Estatuto dos Policiais Militares do Estado da Bahia. 4. O Estado da Bahia sustenta que o assentamento funcional deveria ser mantido para ser analisado na hora de se calcular as vantagens e concessões de direitos do Policial. Contudo, o Estatuto do Policial Militar não vincula qualquer dos benefícios exemplificados ao regime disciplinar policial, de modo que se está criando hipótese de repercussão não prevista na lei e não limitada no tempo para uma infração já apurada, punida, registrada e que deveria ser cancelada, na forma da disposição legal. 5. Registre-se ainda, que tais punições poderão até ser consideradas para promoções dos Policiais, desde que a legislação permita e de que sejam observados aquele período constante no art. 56 para as suas devidas punições, após passados o tempo constante da lei, não pode a Administração Pública computar a sanção imposta anteriormente, sob pena de violação a preceito Constitucional que proíbe penas de caráter perpétuo, art. 5.º, inc. XLVII, alínea “b” da CF.
+
+Opostos os embargos de declaração, foram rejeitados.
+No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, XXXV; 2º; 42 e 93, IX da Constituição Federal.
+Decido.
+Analisados os autos, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, segundo as quais: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário,DJe de 26/03/2018)
+
+“RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 09/10/2020)
+Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 5 de outubro de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
