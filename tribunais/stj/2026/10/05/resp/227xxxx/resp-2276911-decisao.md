@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (fl. 168):
+AÇÃO DECLARATÓRIA INEXISTÊNCIA DE RELAÇÃO JURÍDICA COM PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - EMPRÉSTIMO CONSIGNADO - EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO - PRETENSÃO DE ANULAÇÃO - DESCABIMENTO - Determinação judicial para que fosse juntada aos autos procuração judicial com firma reconhecida, com fulcro no disposto no Comunicado CG nº 02/2017, da Corregedoria Geral de Justiça deste E. Tribunal de Justiça, em razão de se tratar de tipo de ação ajuizada de forma repetida, muitas vezes à margem do conhecimento e da vontade da parte - Não atendimento pela parte autora - Extinção do processo nos termos do art. 485, I, do CPC - Sentença mantida - Recurso desprovido.
+Nas razões do recurso especial (fls. 179-202), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(i) art. 489, § 1º, I, do CPC, afirmando a ausência de fundamentação adequada do acórdão ao impor custas ao advogado sem indicar as razões concretas de dolo ou culpa;
+(ii) art. 104, caput e § 2º, do CPC, sustentando que a condenação do advogado ao pagamento de custas e despesas processuais pressupõe ato não ratificado pela parte e que não houve prova de não ratificação;
+(iii) arts. 105, § 1º, e 425, IV, do CPC, defendendo a suficiência da assinatura digital na procuração e a autenticidade dos documentos apresentados por advogado, sem obrigatoriedade de reconhecimento de firma;
+(iv) arts. 5º, §§ 1º, 2º e 3º, e 32 da Lei n. 8.906/1994, porque o advogado possui fé pública para autenticar documentos e que não se comprovou qualquer infração disciplinar para justificar sanções ao patrono;
+(v) arts. 98 e 99, §§ 2º, 3º e 4º, do CPC e 2º e 4º da Lei n. 1.060/1950, quanto à gratuidade da justiça, pois a presunção relativa de hipossuficiência da pessoa natural não foi ilidida por elementos concretos dos autos.
+Contrarrazões apresentadas às fls. 244-251.
+É o relatório.
+Decido.
+De início, no que diz respeito à suposta ofensa ao art. 489 do CPC, a parte ora recorrente ateve-se a formular alegações genéricas de violação desse dispositivo, sem demonstrar de forma específica em que consistiu o vício cometido pelo Tribunal a quo. Com efeito, é inafastável a Súmula n. 284/STF.
+Cumpre acrescentar que, segundo a jurisprudência desta Corte, "a alegação de ofensa aos arts. 489 e 1.022 do CPC/2015 apresentada nas razões do recurso especial, quando não foram opostos embargos de declaração contra o acórdão recorrido, atrai a incidência da Súmula 284 do STF" (AgInt no AREsp n. 2.527.444/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/6/2024, DJe de 7/6/2024).
+O Tribunal de origem deliberou com base nos seguintes fundamentos (fls. 169-175):
+Por se tratar de tipo de ação ajuizada de forma repetida neste Tribunal, determinou o juiz de 1º grau, nos termos do Comunicado CG nº 02/2017, fosse providenciado o reconhecimento da firma lançada na procuração ou qualificação da assinatura eletrônica (fls. 42/44).
+Contudo, a apelante deixou de atender a providência, resultando na sentença de extinção sem resolução do mérito, por indeferimento da petição inicial.
+Pois bem. Respeitados os argumentos deduzidos pela ora apelante, andou bem o juiz a quo ao julgar extinto o processo ante a inércia da parte autora em atender ao comando judicial que determinou a apresentação de procuração com firma reconhecida, pois é fato notório o expressivo volume de ações ajuizadas neste Estado que buscam revisão contratual, sem que a parte autora tenha conhecimento da existência da respectiva demanda judicial interposta em seu nome, o que levou a Corregedoria Geral de Justiça deste E. Tribunal de Justiça, entre outros fatores, a elaborar o Comunicado 02/2017, nos seguintes termos:
+ ..
+Nessa esteira, conclui-se que a magistrada de primeiro grau, ao determinar a juntada aos autos de mandato judicial com firma reconhecida, agiu de forma diligente, considerando a existência de incontáveis ações judiciais análogas à presente em que se constatou abuso por parte do advogado, pois movidas à margem do conhecimento e da vontade da parte requerente.
+ ..
+Além disso, com a confirmação, nessa sede, da irregularidade da representação processual, mantém-se também a conclusão de que o patrono litigante não possuía também poderes para requerer a gratuidade da justiça em nome da parte autora e, por isso, serão devidos por ele também os valores relativos ao preparo recursal.
+Quanto à alegação de afronta aos arts. 5º, §§ 1º, 2º e 3º, e 32 da Lei n. 8.906/1994, não houve pronunciamento do TJSP sobre essa questão, nem a Corte local foi instada a fazê-lo por via de embargos declaratórios, circunstância que impede o conhecimento da insurgência por falta de prequestionamento. Assim, devem ser aplicadas ao caso as Súmulas n. 282 e 356 do STF.
+No mais, o acórdão recorrido encontra-se em consonância com a tese firmada pela Corte Especial do STJ, no julgamento do Tema Repetitivo n. 1.198/STJ, de que, "constatados indícios de litigância abusiva, o juiz pode exigir, de modo fundamentado e com observância à razoabilidade do caso concreto, a emenda da petição inicial a fim de demonstrar o interesse de agir e a autenticidade da postulação, respeitadas as regras de distribuição do ônus da prova" (REsp n. 2.021.665/MS, relator Ministro Moura Ribeiro, Corte Especial, julgado em 13/3/2025, DJEN de 11/6/2026), o que atrai a Súmula n. 83/STJ.
+De todo modo, modificar o acórdão impugnado, no que se refere à existência de indícios de litigância predatória e à irregularidade da representação processual, demandaria incursão no campo fático-probatório, o que é vedado pela Súmula n. 7/STJ. A propósito:
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. LITIGÂNCIA ABUSIVA. EMENDA DA PETIÇÃO INICIAL PARA DEMONSTRAR AUTENTICIDADE DA POSTULAÇÃO E INTERESSE DE AGIR. ALINHAMENTO AO TEMA 1.198/STJ. INCIDÊNCIA DAS SÚMULAS N. 83 E 7/STJ. RECURSO NÃO CONHECIDO.
+I. Caso em exame
+1. Recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, interposto contra acórdão que negou provimento à apelação e manteve a extinção do processo por descumprimento de determinação de emenda da petição inicial diante de indícios de litigância predatória, exigindo a juntada de procuração com firma reconhecida, comprovante de residência recente e extratos bancários, com apoio em comunicados da Corregedoria e no art. 139, III, do Código de Processo Civil.
+2. Alegação de violação aos arts. 103, 104 e 105 do Código de Processo Civil, com pedido de conhecimento e provimento do recurso.
+3. Voto pelo não conhecimento do recurso especial e majoração de honorários nos termos do art. 85, § 11, do Código de Processo Civil.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se, constatados indícios de litigância abusiva, o magistrado pode exigir, de modo fundamentado e razoável, a emenda da petição inicial para demonstração do interesse de agir e da autenticidade da postulação, e se o acórdão recorrido está alinhado ao Tema 1.198/STJ, atraindo a incidência da Súmula n. 83/STJ.
+III. Razões de decidir
+5. O Superior Tribunal de Justiça, sob a sistemática dos recursos repetitivos (Tema 1.198/STJ), firmou entendimento de que, havendo indícios de litigância abusiva, o juiz pode exigir a emenda da petição inicial para demonstrar o interesse de agir e a autenticidade da postulação, observada a razoabilidade do caso concreto e as regras de ônus da prova.
+6. O acórdão recorrido encontra-se alinhado à jurisprudência desta Corte quanto à possibilidade de exigir documentos em hipóteses de indícios de litigância predatória, o que atrai a incidência da Súmula n. 83/STJ e impede o conhecimento do recurso especial pela alínea "a".
+7. Em caso de não conhecimento do recurso, é cabível a majoração de honorários advocatícios, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites legais e eventual gratuidade da justiça.
+IV. Dispositivo
+8. Recurso não conhecido.
+(REsp n. 2.271.437/SP, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 12/8/2026, DJEN de 17/8/2026.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PRODUÇÃO ANTECIPADA DE PROVAS. LITIGÂNCIA PREDATÓRIA. EXIGÊNCIA DE DOCUMENTOS CAPAZES DE COMPROVAR A SERIEDADE DA DEMANDA E, ASSIM, COIBIR A FRAUDE PROCESSUAL. PRECEDENTES. SÚMULA 83 DO STJ. REANÁLISE. IMPERATIVO REEXAME DO ACERVO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO ANTE A INCIDÊNCIA DO ÓBICE SUMULAR. RECURSO ESPECIAL DESPROVIDO.
+1. O Tema n. 1.198/STJ preceitua que, constatados indícios de litigância abusiva, o juiz pode exigir, de modo fundamentado e com observância à razoabilidade da situação concreta apresentada, a emenda da petição inicial a fim de demonstrar o interesse de agir e a autenticidade da postulação, respeitadas as regras de distribuição do ônus da prova.
+2. Rever as conclusões no sentido de que, diante da suspeita de litigância abusiva, é necessário que o advogado apresente a procuração com firma reconhecida demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula 7 do STJ.
+3. Dissídio jurisprudencial prejudicado.
+4. Recurso especial desprovido.
+(REsp n. 2.241.385/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 16/12/2025, DJEN de 19/12/2025.)
+Além disso, o acórdão combatido assinalou que o advogado da parte recorrente não apresentou procuração válida para postular em Juízo e que, mesmo intimado, não promoveu a ratificação do ato, o que permite a sua condenação pelas despesas processuais, nos termos do art. 104, § 2º, do CPC.
+Alterar tal entendimento exigiria, necessariamente, o reexame de elementos fáticos e probatórios, o que encontra óbice na Súmula n. 7 /STJ. No mesmo sentido:
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. LITIGÂNCIA PREDATÓRIA. EMENDA DA PETIÇÃO INICIAL PARA APRESENTAÇÃO DE PROCURAÇÃO ESPECÍFICA COM FIRMA RECONHECIDA. INEFICÁCIA DE ATOS NÃO RATIFICADOS E RESPONSABILIZAÇÃO DO ADVOGADO. RECURSO DESPROVIDO.
+1. Nos termos da tese firmada para o Tema 1.198 dos Recursos Repetitivos: "constatados indícios de litigância abusiva, o juiz pode exigir, de modo fundamentado e com observância à razoabilidade do caso concreto, a emenda da petição inicial a fim de demonstrar o interesse de agir e a autenticidade da postulação, respeitadas as regras de distribuição do ônus da prova".
+2. A ausência de ratificação pela parte autoriza a declaração de ineficácia dos atos praticados em seu nome e a responsabilização direta do advogado pelas despesas, nos termos do art. 104, § 2º, do CPC.
+3. Recurso especial desprovido.
+(REsp n. 2.268.610/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 30/6/2026, DJEN de 30/7/2026.)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. LITIGÂNCIA PREDATÓRIA. IRREGULARIDADE DE REPRESENTAÇÃO PROCESSUAL. PROCURAÇÃO COM DIVERGÊNCIA DE ASSINATURA. EXIGÊNCIA DE EMENDA À PETIÇÃO INICIAL. RESPONSABILIZAÇÃO PESSOAL DO ADVOGADO. ART. 104, § 2º, DO CPC. INCIDÊNCIA DAS SÚMULAS 7 E 83 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que não conheceu de recurso especial manejado em ação extinta sem resolução de mérito por irregularidade de representação processual, diante de indícios de litigância predatória e divergência manifesta entre a assinatura constante da procuração e a do documento de identificação da parte autora. A parte agravante sustentou a regularidade da petição inicial, a ilegalidade da exigência de procuração com firma reconhecida e poderes específicos, bem como a impossibilidade de condenação pessoal do advogado ao pagamento de custas, despesas processuais e honorários advocatícios.
+II. Questão em discussão
+2. Há duas questões em discussão: (i) definir se a exigência de comprovação adicional da autenticidade da representação processual, diante de indícios de litigância abusiva, viola as regras processuais aplicáveis; e (ii) estabelecer se é legítima a responsabilização pessoal do advogado pelas custas, despesas processuais e honorários advocatícios em razão da ausência de regularização da representação processual.
+III. Razões de decidir
+3. O Tribunal de origem identificou fortes indícios de litigância predatória, consistentes no ajuizamento massivo de demandas padronizadas pelo mesmo patrono e na divergência evidente entre as assinaturas constantes da procuração e do documento de identidade da parte autora.
+4. O magistrado pode exigir, de forma fundamentada e proporcional, a emenda da petição inicial para comprovação da autenticidade da representação processual e do interesse de agir quando presentes indícios de litigância abusiva, conforme tese firmada no Tema Repetitivo 1.198 do STJ.
+5. A ausência de regularização da representação processual, apesar da oportunidade concedida à parte autora, caracteriza vício de pressuposto de constituição e desenvolvimento válido do processo, autorizando a extinção sem resolução de mérito, nos termos do art. 485, IV, do CPC.
+6. A responsabilização pessoal do advogado pelas custas, despesas processuais e honorários advocatícios encontra respaldo no art. 104, § 2º, do CPC, diante da inexistência de ratificação da procuração pela parte representada e da ausência de manifestação de interesse em litigar.
+7. O acolhimento das teses recursais demandaria reexame do conjunto fático-probatório relativo à autenticidade das assinaturas, à dinâmica de ajuizamento das demandas e ao comportamento processual do patrono, providência vedada pela Súmula 7 do STJ.
+8. A decisão recorrida está em conformidade com a jurisprudência consolidada do STJ, inclusive com o Tema Repetitivo 1.198, o que atrai a incidência da súmula n. 83 do STJ.
+IV. Dispositivo
+9. Agravo interno não provido.
+(AgInt no REsp n. 2.250.161/SP, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 15/6/2026, DJEN de 18/6/2026.)
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários advocatícios, na forma do art. 85, § 11, do CPC, porquanto não foram fixados pelas instâncias originárias.
+Publique-se e intimem-se.
+ EMENTA
