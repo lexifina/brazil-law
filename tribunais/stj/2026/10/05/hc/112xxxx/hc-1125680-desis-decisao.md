@@ -1,0 +1,24 @@
+DESIS no HABEAS CORPUS Nº 1125680 - SP (2026/0368742-7)
+
+RELATOR: MINISTRO MESSOD AZULAY NETO
+
+REQUERENTE: RAFAEL DIAS ANDRADE (PRESO)
+
+ADVOGADO: CAIO CESAR DOMINGUES DE ALMEIDA - SP455364
+
+REQUERIDO: MINISTÉRIO PÚBLICO FEDERAL
+
+REQUERIDO: MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO
+
+IMPETRADO: TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO
+
+EMENTA
+
+DECISÃO
+Nos termos da Petição n. 01043547/2026, e com fulcro no art. 34, inciso IX, do RISTJ, homologo o pedido de desistência formulado à fl. 243 .
+Publique-se. Intimem-se.
+
+Brasília, 05 de outubro de 2026.
+
+Ministro Messod Azulay Neto
+Relator
