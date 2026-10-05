@@ -1,0 +1,64 @@
+RECURSO EM HABEAS CORPUS Nº 249133 - GO (2026/0419843-8)
+
+RELATOR: MINISTRO SEBASTIÃO REIS JÚNIOR
+
+RECORRENTE: RODRIGO FREITAS DE CARVALHO
+
+ADVOGADOS: ELÍUDE BENTO DA SILVA - GO012320
+
+MARCO AURÉLIO MATOS - GO032829
+
+RECORRIDO: MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS
+
+CORRÉU: JEAN CARLOS DA SILVA CRUZ
+
+CORRÉU: IRON ELEOTERIO DE SOUZA
+
+CORRÉU: FRANCINATO CAMPOS ALVES DE ALMEIDA
+
+EMENTA
+DIREITO PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. RECEPTAÇÃO DE ANIMAL (ART. 180-A DO CP). TRANCAMENTO DA AÇÃO PENAL. INÉPCIA DA DENÚNCIA. NÃO OCORRÊNCIA. ART. 41 DO CPP. ELEMENTO SUBJETIVO EXPRESSAMENTE IMPUTADO. DESCRIÇÃO SUFICIENTE DOS FATOS E DE SUAS CIRCUNSTÂNCIAS. TESE DE BOA-FÉ. MATÉRIA AFETA AO MÉRITO DA AÇÃO PENAL. NECESSIDADE DE DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE DE EXAME NA VIA ELEITA.
+Recurso improvido.
+
+DECISÃO
+Trata-se de recurso interposto por Rodrigo Freitas de Carvalho contra o acórdão proferido pelo Tribunal de Justiça do Estado de Goiás no HC n. 5709507-68.2026.8.09.0017 (fls. 3.502/3.516).
+O recorrente foi denunciado pela suposta prática do crime de receptação de animal, tendo sido preso em flagrante em 14/6/2023 e colocado em liberdade provisória mediante fiança, no curso do Processo n. 5372163-34.2023.8.09.0017, em trâmite na Vara Criminal da comarca de Bela Vista de Goiás/GO. No Tribunal de origem, pediu o trancamento da ação penal por inépcia da denúncia e ausência de justa causa, bem como a suspensão da audiência de instrução, então designada para 3/8/2026. A ordem foi denegada por maioria.
+Sustenta a inépcia da denúncia por ausência de descrição concreta do elemento subjetivo exigido pelo tipo do art. 180-A do Código Penal, afirmando que o Ministério Público apenas imputou o verbo “adquirir” sem narrar circunstâncias que demonstrem o conhecimento da origem ilícita dos semoventes, em violação do art. 41 do Código de Processo Penal.
+Alega que atuou de boa-fé como prestador de serviços de confinamento e engorda na Fazenda Boa Esperança, mediante diárias de R$ 7,00 por cabeça, respaldado por Guias de Trânsito Animal e notas fiscais aparentemente idôneas, o que evidenciaria atipicidade fática e inviabilidade de responsabilização objetiva.
+Defende que a persecução penal se funda em presunção indevida de dolo a partir do ingresso material dos animais em seu estabelecimento, configurando responsabilidade penal objetiva vedada pelo ordenamento e comprometendo o contraditório e a ampla defesa.
+Pede, em caráter liminar, a suspensão imediata do Processo Criminal n. 5372163-34.2023.8.09.0017, inclusive da audiência de instrução e julgamento, em razão do risco de realização de atos potencialmente nulos e do fumus boni iuris decorrente da inépcia da inicial.
+No mérito, requer o provimento do recurso para reconhecer a inépcia formal da denúncia por violação do art. 41 do Código de Processo Penal e determinar o trancamento da ação penal em relação ao recorrente.
+Nas contrarrazões, o Núcleo Especializado em Recursos Constitucionais do Ministério Público do Estado de Goiás requereu o recebimento do recurso e, no mérito, limitou-se a ratificar o parecer do Procurador de Justiça (fls. 3.458/3.464).
+Os autos foram distribuídos por prevenção.
+É o relatório.
+A denúncia de fls. 2.042/2.044 narra que, em maio e junho de 2023, 554 bovinos pertencentes à FINPEC Agronegócios Ltda. teriam sido desviados mediante substituição de notas fiscais e Guias de Trânsito Animal por documentos emitidos em nome de corréu, direcionando parte dos animais – 235 cabeças – ao confinamento explorado pelo recorrente, na Fazenda Boa Esperança. Especificamente, imputa ao recorrente – como exposto pelo Tribunal estadual – que “adquiriu, em proveito próprio, coisa que sabia ser produto de crime”, vinculando-o ao desembarque dos animais no confinamento (fl. 3.505).
+O acórdão registra que, após a resposta à acusação, a decisão de confirmação do recebimento da denúncia foi anulada em habeas corpus do corréu por fundamentação genérica, tendo o juízo renovado a análise e rejeitado a preliminar de inépcia no evento 166. A audiência inicialmente designada para 3/8/2026 foi redesignada, com concordância das partes, para 5/3/2027, conforme as informações do Juízo de origem.
+Nos fundamentos do acórdão recorrido, o colegiado assentou que o trancamento por habeas corpus é medida excepcional, exigindo demonstração inequívoca de atipicidade, inépcia ou ausência de justa causa sem dilação probatória; e que, à luz da redação vigente do art. 180-A em 2023 (Lei n. 13.330/2016), a denúncia atende ao art. 41 do Código de Processo Penal, pois individualiza objeto, procedência criminosa, período, local, conduta típica e conhecimento da origem ilícita, sendo desnecessária a antecipação probatória do estado psicológico do agente. Destacou, ainda, que a versão defensiva de recebimento para confinamento e engorda não revela atipicidade manifesta, porque o tipo também contemplava os núcleos “receber” e “ter em depósito”, e que a controvérsia sobre documentos oficiais, remuneração do serviço e circunstâncias da movimentação dos bovinos demanda instrução probatória; por fim, afirmou ser suficiente a fundamentação da decisão que rejeitou a preliminar de inépcia e determinou o prosseguimento da ação penal.
+Destaco do acórdão recorrido estes trechos (fls. 3.508/3.509):
+
+"[...] Uma coisa é exigir que o elemento subjetivo integre a imputação fática e que a denúncia forneça contexto suficiente para individualizá-lo; outra é exigir que a peça acusatória, antes da instrução, demonstre probatoriamente o processo psicológico pelo qual o agente adquiriu conhecimento da origem criminosa do bem. Esta última exigência confundiria aptidão formal da acusação com suficiência da prova para condenação.
+No caso concreto, a denúncia não omitiu o elemento subjetivo. Ela afirmou, em proposição direta e inequívoca, que Rodrigo “adquiriu, em proveito próprio, coisa que sabia ser produto de crime”, atribuindo-lhe, portanto, conhecimento efetivo da procedência criminosa.
+Não é necessário resolver, nesta etapa, qualquer controvérsia dogmática sobre a amplitude da antiga locução legal “deve saber”, porque a própria acusação adotou formulação mais categórica ao atribuir ciência positiva ao paciente.
+A afirmação subjetiva também não aparece isolada de uma narrativa objetiva. A denúncia identifica o crime antecedente que teria produzido os semoventes; informa que os animais pertenciam à FINPEC; indica o número total de 554 cabeças alegadamente desviadas; descreve a retirada sob o pretexto de encaminhamento a frigoríficos; individualiza os embarques de 24 e 26.05.2023; atribui a Iron a substituição das notas fiscais e GTAs originárias da FINPEC por documentos em nome de Francinato; aponta como um dos destinos o confinamento de Rodrigo na Fazenda Boa Esperança; e afirma que 235 cabeças foram ali desembarcadas.
+Tem-se, desse modo, imputação com agente identificado, objeto material individualizado, procedência criminosa narrada, intervalo temporal indicado, local determinado, conduta típica atribuída e elemento subjetivo expressamente afirmado. É possível compreender, sem necessidade de reconstrução judicial da acusação, qual fato o Ministério Público pretende provar.
+Nem o preço supostamente pago, nem a forma contratual de transmissão dos bovinos constituem elementares autônomas do artigo 180-A. A ausência desses dados pode assumir relevância probatória para confirmar ou infirmar a tese de efetiva aquisição e, sobretudo, a ciência da origem ilícita; não converte, porém, uma imputação compreensível em acusação formalmente inexistente.
+Também não prospera, por essa razão, o argumento de que a denúncia não explicou “como” Rodrigo tomou conhecimento da origem criminosa. O artigo 41 exige exposição do fato criminoso e de suas circunstâncias, não a antecipação integral da prova do estado subjetivo. Em delitos nos quais o conhecimento ou a finalidade constituem elementos internos da conduta, é necessário que sejam imputados e que a narrativa externa forneça base fática minimamente vinculada ao acusado; sua demonstração conclusiva é questão de prova.
+[...]
+No caso, diversamente, o verbo típico é imputado diretamente a Rodrigo, o objeto material e sua quantidade são definidos, o destino dos bovinos é identificado e o conhecimento da procedência criminosa é expressamente atribuído. A razão determinante do precedente, portanto, não se reproduz. [...]"
+
+Preenchendo a peça acusatória todos os requisitos exigidos pelo art. 41 do Código de Processo Penal, contendo a qualificação dos acusados, a classificação jurídica dos fatos, a exposição do fato criminoso com todas as suas circunstâncias, o rol de testemunhas e a individualização da conduta atribuída a cada denunciado, de forma a permitir o exercício do contraditório e ampla defesa, inviável falar-se em inépcia.
+Não há reparos a fazer ao acórdão impugnado, que, ademais, expôs o seguinte (fl. 3.510):
+"[...] A manutenção da ação penal não significa presumir o dolo a partir do ingresso dos bovinos na Fazenda Boa Esperança. Também não transfere ao paciente o ônus de demonstrar boa-fé. Significa somente reconhecer que há uma acusação formalmente delimitada cujo elemento subjetivo deverá ser provado pelo órgão acusador no curso regular do processo, sob contraditório, e examinado segundo o padrão probatório próprio de eventual sentença.
+A documentação constante dos autos confirma, de outra parte, por que essa discussão não comporta solução sumária. Há Guias de Trânsito Animal emitidas eletronicamente pelo sistema da Agrodefesa em nome de Francinato Campos Alves de Almeida, com indicação do estabelecimento de Rodrigo Freitas de Carvalho, na Fazenda Boa Esperança, como destino de bovinos. A existência material desses documentos oferece suporte à alegação defensiva de que lhe foram apresentados papéis formalmente emitidos no sistema oficial, mas não resolve, em nenhuma direção, a controvérsia acerca da origem dos animais, da regularidade substancial das operações documentadas e, sobretudo, do conhecimento que o paciente possuía a respeito da dinâmica antecedente. [...]"
+
+Diz a jurisprudência do Superior Tribunal de Justiça que "o trancamento da ação penal somente é possível, na via do habeas corpus ou do respectivo recurso ordinário, em caráter excepcional, quando se comprovar, de plano, a inépcia da denúncia, a atipicidade da conduta, a incidência de causa de extinção da punibilidade ou a ausência de indícios de materialidade ou de autoria delitiva". "A denúncia é apta quando descreve, de forma clara e suficiente, a conduta atribuída, a materialidade e os indícios de autoria, permitindo o exercício da ampla defesa, sendo a análise aprofundada de nexo causal, tipicidade e elementos subjetivos própria da instrução." (RHC n. 236.310/MG, de minha relatoria, Sexta Turma, DJEN de 23/6/2026).
+No caso, "a denúncia que descreve os fatos de forma satisfatória, em observância ao disposto no art. 41 do Código de Processo Penal e, por conseguinte, permite o regular exercício da ampla defesa, não pode ser acoimada de inepta" (AgRg no AREsp n. 700.966/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 19/9/2022). Não se pode confundir a exigência de descrição do fato criminoso com a demonstração antecipada de sua veracidade. A denúncia deve expor os fatos e suas circunstâncias de forma inteligível, permitindo a compreensão da imputação e o exercício da defesa. A comprovação da procedência das alegações acusatórias constitui matéria própria da instrução criminal e do eventual juízo condenatório.
+Por fim, nesta fase da persecução penal, não são necessárias provas robustas de autoria e materialidade para que o Ministério Público, titular da ação penal, dê início à persecução penal, sendo suficientes a prova da materialidade e a presença de indícios mínimos de autoria, nos termos do art. 41 do Código de Processo Penal, "sendo certo que o acolhimento da tese defensiva demandaria [destinada a afastar a ciência da origem ilícita dos animais, circunstância que se relaciona diretamente ao mérito da imputação], necessariamente, amplo reexame da matéria fático-probatória, procedimento, a toda evidência incompatível com a via do habeas corpus e do seu recurso ordinário. Precedentes" (RHC n. 133.974/SP, Ministro Felix Fischer, Quinta Turma, DJe de 16/10/2020).
+Com efeito, a controvérsia envolve a efetiva natureza da relação mantida entre o recorrente e os demais investigados, a regularidade substancial da documentação apresentada, a dinâmica de ingresso dos bovinos no estabelecimento e, principalmente, a existência ou não de conhecimento acerca da suposta origem criminosa dos animais. Tais circunstâncias não podem ser dirimidas de plano.
+Pelo exposto, nego provimento ao recurso (art. 38, XVIII, b, do RISTJ).
+Publique-se.
+
+Brasília, 05 de outubro de 2026.
+
+Ministro Sebastião Reis Júnior
+Relator
