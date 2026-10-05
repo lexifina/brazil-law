@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MUNICÍPIO DE SANTO ANTÔNIO DO DESCOBERTO - GO contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, que inadmitiu o recurso especial manejado em face de acórdão assim ementado (fls. 84-86):
+EMENTA: DIREITO ADMINISTRATIVO. REMESSA NECESSÁRIA E APELAÇÃO CÍVEL. PISO SALARIAL NACIONAL DO MAGISTÉRIO. OBRIGAÇÃO DE FAZER. DIFERENÇAS SALARIAIS. REMESSA NECESSÁRIA E APELAÇÃO CÍVEL DESPROVIDAS.
+I. CASO EM EXAME
+1. Trata-se de ação de obrigação de fazer ajuizada por professora da rede pública municipal, cuja remuneração não observava o piso salarial nacional do magistério, conforme a L. nº 11.738/2008. A autora buscava a adequação de seu vencimento-base ao piso nacional vigente e o pagamento das diferenças salariais retroativas. A sentença de primeiro grau julgou procedentes os pedidos, determinando a adequação do salário-base e o pagamento das diferenças, além da adequação para os anos subsequentes. O Município apelou, requerendo a suspensão do processo em razão do Tema 1324 do STF e de ação no TRF1, alegando impossibilidade financeira, violação à L. C. nº 101/2000, e a não incidência automática do piso em toda a carreira (Tema Repetitivo 911 do STJ). Argumentou, ainda, sobre o julgamento extra petita ao determinar a adequação para anos futuros. A apelada defendeu a manutenção da sentença, sustentando a obrigatoriedade do pagamento do piso sobre o vencimento-base, a inaplicabilidade do Tema 1324 do STF e a não configuração de extra petita em obrigação de trato sucessivo.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) saber se é cabível a suspensão do processo em razão do Tema 1324 do STF e de ação judicial no TRF1; (ii) saber se o Município está obrigado a adequar o vencimento-base de servidora professora ao piso salarial nacional do magistério e a pagar as diferenças retroativas, frente aos argumentos de impossibilidade financeira, limites da L. C. nº 101/2000 e do Tema Repetitivo 911 do STJ; e (iii) saber se a determinação de adequação do vencimento para anos futuros configura julgamento extra petita.
+III. RAZÕES DE DECIDIR
+3. A preliminar de suspensão do processo é rejeitada. A controvérsia da demanda refere-se à adequação do vencimento-base ao valor nominal do piso salarial nacional, diferentemente do objeto do Tema 1324 do STF, que discute a extensão automática de índices de reajuste à carreira.
+3.1 O direito ao piso salarial nacional do magistério público é assegurado pela CF/1988, art. 206, V e VIII, e regulamentado pela L. nº 11.738/2008.
+3.2 A constitucionalidade da L. nº 11.738/2008 foi reconhecida pelo STF no julgamento da ADI nº 4.167/DF, que estabeleceu que o piso se refere ao vencimento-base, com aplicabilidade a partir de 27.04.2011.
+3.3 A impossibilidade financeira ou a alegação de violação à L. C. nº 101/2000 não podem servir de justificativa para o não cumprimento de direitos subjetivos do servidor público, como o recebimento de vantagens asseguradas por lei.
+3.4 A determinação de adequação do vencimento-base para anos subsequentes não configura julgamento extra petita, pois se trata de obrigação de trato sucessivo, conforme o art. 323 do CPC.
+IV. DISPOSITIVO E TESE
+4. Os pedidos são procedentes. A Remessa Necessária e a Apelação Cível são desprovidas.
+Tese de julgamento:
+4.1 Não se aplica o Tema 1324 do STF quando a demanda versa sobre a adequação do vencimento-base ao piso salarial nacional do magistério, e não sobre a extensão automática de índices de reajuste à carreira.
+4.2 É constitucional a Lei nº 11.738/2008, que instituiu o piso salarial nacional do magistério público, referente ao vencimento-base, conforme entendimento do STF na ADI nº 4.167/DF.
+4.3 A alegação de impossibilidade financeira ou de violação à Lei de Responsabilidade Fiscal não justifica o descumprimento do pagamento do piso salarial do magistério, que configura direito subjetivo assegurado por lei.
+4.4 A determinação de adequação do vencimento-base para anos futuros, em obrigação de trato sucessivo, não configura julgamento extra petita, nos termos do art. 323 do CPC."
+Dispositivos relevantes citados: CF/1988, art. 206, V e VIII; ADCT, art. 60, III, "e"; CPC, arts. 323, 487, I, 489, § 1º, VI, 1.007, § 1º; L. nº 9.289/96, art. 4º, I; L. C. nº 101/2000, art. 19, § 1º, IV; L. nº 11.738/2008, arts. 2º, 5º; EC nº 113/2021, art. 3º.
+Jurisprudências relevantes citadas: STF, ADI nº 4.167/DF, Rel. Min. Joaquim Barbosa, Pleno, j. 24.08.2011; STF, Emb. Decl. ADI 4167 ED / DF, Rel. Min. Joaquim Barbosa, Pleno, j. 09-10-2013; STF, Recurso Extraordinário com Agravo nº 1.502.069/SP (Tema 1324); STJ, Tema Repetitivo 911; TJGO, IRDR nº 5174796-58.2020.8.09.0000.
+APELAÇÃO CÍVEL E REMESSA NECESSÁRIA CONHECIDAS E DESPROVIDAS. SENTENÇA MANTIDA.
+Nas razões do recurso especial (fls. 92-102), interposto com base no art. 105, inciso III, alíneas a e c, da Constituição Federal, a parte agravante aponta, além de divergência jurisprudencial, violação do art. 37, inciso X, da Constituição Federal, da Lei Complementar n. 101/2000, da Lei n. 11.738/2008 e do art. 85, § 11, do Código de Processo Civil, sustentando que:
+Ainda que se reconheça a validade da Lei 11.738/2008, a decisão recorrida desconsiderou por completo os limites fiscais e orçamentários impostos pela LRF.
+ ..
+O acórdão recorrido interpretou de forma extensiva a Lei nº 11.738/2008, determinando a adequação automática da remuneração ao piso nacional, sem lei local que estabeleça a revisão dos vencimentos básicos.
+ ..
+ ..  ao impor a adequação salarial automática com reflexos remuneratórios, o acórdão violou a literalidade da Lei nº 11.738/2008 e o princípio da legalidade orçamentária previsto no art. 37, caput e X, da Constituição Federal.
+Ao final, requer o provimento do recurso especial.
+Apresentadas contrarrazões (fls. 105-110), o recurso foi inadmitido na origem (fls. 121-125).
+É o relatório. Decido.
+Preenchidos os pressupostos para o conhecimento do agravo, prossegue-se na análise do recurso especial.
+A irresignação não merece prosperar.
+De início, observa-se que a via do recurso especial, destinada a uniformizar a interpretação do direito federal infraconstitucional, não se presta à análise da alegação de ofensa a dispositivo da Constituição da República. A propósito: AgInt no AREsp n. 2.298.562/PR, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 4/12/2023, DJe de 11/12/2023; AgInt no AREsp n. 2.085.690/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023. Desse modo, não merece ser conhecido o recurso quanto à alegada ofensa do art. 37, inciso X, da Constituição Federal.
+Quanto à alegada afronta do art. 85, § 11, do CPC, de acordo com o entendimento fixado na jurisprudência desta Corte Superior, a mera menção a dispositivos legais, sem que haja clara e precisa fundamentação apta a demonstrar de que maneira o acórdão recorrido os tenha contrariado, tal como ocorre na hipótese dos autos, configura deficiência de fundamentação e atrai a incidência da Súmula n. 284 do STF.
+A esse respeito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA QUE NÃO CONHECEU DO RECURSO ESPECIAL COM BASE NO ART. 21-E, INCISO V, DO RISTJ. DEFICIÊNCIA NA FUNDAMENTAÇÃO. AUSÊNCIA DE INDICAÇÃO PRECISA DOS DISPOSITIVOS LEGAIS FEDERAIS SUPOSTAMENTE VIOLADOS. INCIDÊNCIA DA SÚMULA N. 284/STF. MENÇÃO GENÉRICA A ARTIGOS DO CÓDIGO DE PROCESSO CIVIL E A TEMAS REPETITIVOS. MANUTENÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO NÃO PROVIDO.
+1. Na via do recurso especial, compete ao Superior Tribunal de Justiça uniformizar a interpretação do direito federal infraconstitucional, exigindo-se que a parte recorrente indique, de forma clara e específica, os dispositivos de lei supostamente violados ou objeto de divergência interpretativa. A ausência de indicação precisa caracteriza deficiência na fundamentação e atrai a incidência da Súmula n. 284 do Supremo Tribunal Federal.
+2. A simples menção a artigos do Código de Processo Civil, sem a necessária individualização da tese de violação, bem como a invocação genérica de precedentes qualificados (Temas n. 872 e 986), não suprem o requisito de admissibilidade do recurso especial. Precedentes: AgInt no AREsp 2.998.844/SP; AREsp 3.085.039/PI.
+3. Os princípios da primazia do julgamento de mérito e da cooperação processual (arts. 4º e 6º do Código de Processo Civil) não afastam a necessidade de cumprimento dos requisitos legais de admissibilidade, dentre os quais se insere a delimitação precisa da controvérsia e a indicação dos dispositivos federais tidos por violados.
+4. Agravo interno não provido.
+(AgInt no AREsp 3.136.125/GO, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 19/8/2026, DJEN 28/8/2026.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. REVISÃO DO VALOR DO ALUGUEL. PRAZO LEGAL OBSERVADO. PRECEDENTES. LAUDO PERICIAL. VALOR LOCATIVO. REEXAME. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. O recurso especial é reclamo de natureza vinculada e, dessa forma, para o seu cabimento, é imprescindível que a parte recorrente demonstre, de forma clara e objetiva, de que modo o acórdão recorrido teria contrariado os dispositivos apontados como violados, sob pena de inadmissão, atraindo o óbice da Súmula 284 do STF.
+ ..
+6. Agravo interno improvido.
+(AgInt no AREsp n. 1.864.640/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 04/03/2024, DJe 08/03/2024).
+Ademais, as razões do recurso especial não indicaram os dispositivos da Lei n. 11.738/2008 e da Lei Complementar n. 101/2000 supostamente violados ou cuja vigência teria sido negada, o que caracteriza a ausência de delimitação da controvérsia, atraindo a incidência da Súmula n. 284/STF.
+Cabe ressaltar que a simples menção a artigos de lei ou a dissertação sobre atos normativos não se presta a atender ao requisito de admissão do recurso especial, consistente na indicação clara e inequívoca do dispositivo de lei federal ou tratado que se considera violado, o que se mostra indispensável, diante da natureza vinculada do recurso. Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PIS/COFINS. CREDITAMENTO. INSUMOS. ALEGAÇÃO DE CERCEAMENTO DE DEFESA (ARTS. 464 E 1.009, § 1º, DO CPC). INDEFERIMENTO DE PROVA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA N. 7/STJ. FUNDAMENTAÇÃO DEFICIENTE QUANTO À INDICAÇÃO ESPECÍFICA DOS DISPOSITIVOS DAS LEIS N. 10.637/2002 E N. 10.833/2003. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO DO ART. 110 DO CTN. INEXISTÊNCIA DE PREQUESTIONAMENTO FICTO, DIANTE DA FALTA DE ALEGAÇÃO DE OFENSA AO ART. 1.022 DO CPC. SÚMULA N. 211/STJ. AGRAVO INTERNO DESPROVIDO.
+ ..
+3. A mera referência genérica às Leis n. 10.637/2002 e n. 10.833/2003, sem a indicação precisa de artigos, parágrafos, incisos ou alíneas supostamente violados, caracteriza deficiência de fundamentação do recurso especial e atrai, por analogia, a Súmula n. 284 do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+ ..
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.951.169/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 24/6/2026, DJEN 2/7/2026.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LICITAÇÃO. JULGAMENTO MONOCRÁTICO NO STJ. POSSIBILIDADE. ALEGAÇÃO GENÉRICA DE OFENSA A DIPLOMA LEGAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL TIDO POR VIOLADO. SÚMULA 284/STF. PROCEDIMENTO LICITATÓRIO. JUNTADA POSTERIOR DE DOCUMENTO. IMPOSSIBILIDADE.
+ ..
+2. A indicação de violação genérica à lei federal, sem particularização precisa dos dispositivos violados, implica deficiência de fundamentação do recurso especial, atraindo, por analogia, a incidência da Súmula 284/STF.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.897.217/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 14/03/2022, DJe 21/03/2022).
+Quanto à divergência jurisprudencial, verifica-se que a parte recorrente não realizou o cotejo analítico nos moldes exigidos no art. 1.029, § 1º, do Código de Processo Civil e no art. 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, ou seja, com a transcrição de trechos do acórdão recorrido e paradigma, demonstrando a similitude fática e o dissenso na interpretação do dispositivo de lei federal, sendo que a simples transcrição das ementas não satisfaz esse requisito recursal.
+Tal ausência inviabiliza o conhecimento do recurso especial, pela alínea c do permissivo constitucional. A propósito: AgInt no AREsp n. 2.388.423/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/2/2024, DJe de 23/2/2024; AgInt no REsp n. 2.082.599/DF, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 11/12/2023, DJe de 14/12/2023.
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, alínea a, do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 83), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Publique-se. Intimem-se.
+EMENTA
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. PISO SALARIAL NACIONAL DO MAGISTÉRIO. DIFERENÇAS SALARIAIS. VIOLAÇÃO DE DISPOSITIVO DA CONSTITUIÇÃO. INADEQUAÇÃO DA VIA ELEITA. INDICAÇÃO GENÉRICA DE DISPOSITIVO E DE LEI FEDERAL. SÚMULA N. 284 DO STF. DISSÍDIO JURISPRUDENCIAL. COMPROVAÇÃO. AUSÊNCIA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
