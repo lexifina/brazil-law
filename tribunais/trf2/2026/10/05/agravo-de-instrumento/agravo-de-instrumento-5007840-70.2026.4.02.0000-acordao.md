@@ -1,0 +1,169 @@
+Poder Judiciário
+
+TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO
+
+Agravo de Instrumento Nº 5007840-70.2026.4.02.0000/RJ
+
+RELATORA: Desembargadora Federal CARMEN SILVIA LIMA DE ARRUDA
+
+RELATÓRIO
+
+1. Trata-se de Embargos de Declaração opostos pela KIAN IMPORTAÇÃO LTDA. em face de v. Acórdão que negou provimento ao Agravo de Instrumento, no qual objetivava, liminarmente, afastar a exigência de recolhimento da contribuição previdenciária patronal e seus reflexos, inclusive a contribuição destinada ao Seguro de Acidente do Trabalho – SAT, incidentes sobre valores pagos a título de horas extras e terço constitucional de férias, após a edição da Lei nº 13.485/2017 (evento 28, RELVOTO1 e evento 28, ACOR2).
+
+2. Em suas razões recursais, a embargante sustenta, em síntese, que o v. acórdão incorreu em omissão ao deixar de apreciar a tese de superação legislativa dos Temas 687/STJ e 985/STF, sustentando que a Lei nº 13.485/2017, ao qualificar expressamente o terço constitucional de férias e o horário extraordinário como verbas de natureza indenizatória, teria alterado o substrato normativo que serviu de fundamento a tais precedentes. Requer, ainda, o prequestionamento expresso dos arts. 195, I, "a", da Constituição Federal, 110 do Código Tributário Nacional e 11, IV, da Lei nº 13.485/2017 (evento 37, EMBDECL1).
+
+3. Contrarrazões apresentadas pela embargada em que pugna pelo desprovimento do recurso (evento 41, CONTRAZ1).
+
+É o relatório. Peço dia para julgamento.
+
+VOTO
+
+1. Presentes os requisitos de admissibilidade, conheço dos Embargos de Declaração, que não merecem ser providos, pelos fundamentos expostos a seguir.
+
+2. Cabimento dos Embargos de Declaração
+
+Os Embargos de Declaração serão cabíveis quando o julgamento impugnado apresentar um dos vícios constantes dos incisos I, II e III do artigo 1.022, do Código de Processo Civil (CPC).
+
+A omissão, a contradição e a obscuridade, em matéria de Embargos de Declaração, são, respectivamente, a falta de manifestação do julgador sobre pontos sobre os quais deveria se pronunciar; a colisão de afirmações dentro da mesma decisão; e, ainda, a falta de clareza na redação de modo que exista dúvida acerca do entendimento exposto no acórdão.
+
+3. Pretensão de rediscussão do julgado
+
+A parte embargante objetiva, com a interposição do recurso, que seja reapreciada a matéria, sob a fundamentação de que houve omissão quanto à superação legislativa dos Temas 687/STJ e 985/STF, em razão da Lei nº 13.485/2017, que, segundo a embargante, teria atribuído natureza indenizatória às verbas relativas ao terço constitucional de férias e ao serviço extraordinário.
+
+Não assiste razão à recorrente, uma vez que a matéria foi suficientemente analisada no voto condutor, não restando caracterizado qualquer vício que necessite ser sanado.
+
+Ao contrário do sustentado, verifica-se que o v. acórdão embargado enfrentou expressamente a tese de superação legislativa, ainda que tenha alcançado conclusão desfavorável à pretensão recursal.
+
+Conforme consta no voto condutor, a Lei nº 13.485/2017 não alterou o entendimento acerca da natureza salarial das verbas pagas a título de horas extras e terço constitucional de férias, pois a referida norma “dispõe sobre o parcelamento de débitos com a Fazenda Nacional relativos às contribuições previdenciárias de responsabilidade dos Estados, do Distrito Federal e dos Municípios, e sobre a revisão da dívida previdenciária dos Municípios pelo Poder Executivo federal".
+
+No acórdão em embargado também foi destacado que a discussão dos autos se refere à base de cálculo da contribuição previdenciária devida por empresas privadas e que a aplicação da Lei nº 13.485/17 fora do contexto, contraria a finalidade expressa da norma, que é restrita, não abrangendo contribuintes de forma geral, sendo incapaz de realizar a superação dos Temas 687/STJ e 985/STF.
+
+Constata-se, portanto, que a embargante não aponta uma omissão real, mas sim discorda do critério jurídico adotado, o que é rediscussão de mérito, não vício sanável por embargos.
+
+Conforme assente no Egrégio Superior Tribunal de Justiça, "É incompatível com a via dos embargos de declaração a rediscussão de matéria já decidida por mero inconformismo da embargante"1 e firme a jurisprudência desta Corte no sentido de não ser possível a análise de matéria suscitada apenas em embargos de declaração, por configurar indevida inovação recursal.
+
+No caso, as alegações da parte embargante não justificam a utilização da presente via, pois insatisfeita com a decisão proferida, apontou vícios que buscam, em verdade, rediscutir e modificar questões já decididas de forma fundamentada pelo órgão judiciário, sendo evidente a sua intenção de atribuir aos presentes embargos efeitos infringentes.
+
+Não havendo, in casu, qualquer vício a ser sanado, mas a simples adoção de tese contrária à sustentada pela parte embargante, não merecem acolhimento os presentes aclaratórios.
+
+4. Prequestionamento
+
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal2.
+
+No caso, a matéria controvertida foi suficientemente examinada e decidida, sendo discutidos todos os elementos suscitados pela recorrente, ainda que ausente menção expressa a todos os dispositivos apontados para fins de prequestionamento: arts. 195, I, "a", da Constituição Federal; art. 110 do Código Tributário Nacional; e art. 11, IV, da Lei nº 13.485/2017.
+
+Sobre o ponto, o E. STJ já afirmou que não é necessária a menção expressa e numérica aos dispositivos violados para que a matéria seja considerada prequestionada, desde que a controvérsia recursal tenha sido apreciada sob o prisma suscitado pela parte recorrente3. Na mesma linha, o art. 1.025 do CPC consagrou a possibilidade de prequestionamento ficto.
+
+Assim, restam prequestionados, para fins de acesso às instâncias recursais superiores, todos dispositivos legais e constitucionais elencados pela parte embargante, tenham ou não influência na solução do caso concreto.
+
+Ante o exposto, voto no sentido de NEGAR PROVIMENTO aos Embargos de Declaração.
+
+Documento eletrônico assinado por CARMEN SILVIA LIMA DE ARRUDA, Desembargadora Federal Relatora, na forma do artigo 1º, inciso III, da Lei 11.419, de 19 de dezembro de 2006 e Resolução TRF 2ª Região nº 17, de 26 de março de 2018. A conferência da autenticidade do documento está disponível no endereço eletrônico https://eproc.trf2.jus.br, mediante o preenchimento do código verificador 20003043120v4 e do código CRC 3ae4e0ce.
+
+Informações adicionais da assinatura:
+Signatário (a): CARMEN SILVIA LIMA DE ARRUDA
+Data e Hora: 28/09/2026, às 14:07:28
+
+1. EDcl no AgRg no RMS 66.287/PE, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 08/03/2022, DJe 14/03/2022.
+
+2. STJ, REsp n. 2.055.472/SP, Rel. Min. Raul Araújo, Quarta Turma, julgado em 16/12/2025, DJEN de 19/12/2025.
+
+3. STJ, AgInt no AgInt no AREsp n. 1.753.565/SP, Rel. Min. Teodoro Silva Santos, Segunda Turma, julgado em 13/8/2025, DJEN de 19/8/2025.
+
+5007840-70.2026.4.02.0000
+
+20003043120
+.V4
+
+Identificações de pessoas físicas foram ocultadas
+
+Poder Judiciário
+
+TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO
+
+Agravo de Instrumento Nº 5007840-70.2026.4.02.0000/RJ
+
+RELATORA: Desembargadora Federal CARMEN SILVIA LIMA DE ARRUDA
+
+EMENTA
+
+DIREITO PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. MANDADO DE SEGURANÇA. PRETENSÃO DE REDISCUSSÃO DO JULGADO. PREQUESTIONAMENTO. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. EMBARGOS DESPROVIDOS.
+
+I. CASO EM EXAME
+
+1. Embargos de Declaração opostos contra acórdão que negou provimento ao Agravo de Instrumento, no qual objetivava, liminarmente, afastar a exigência de recolhimento da contribuição previdenciária patronal e seus reflexos, inclusive a contribuição destinada ao Seguro de Acidente do Trabalho – SAT, incidentes sobre valores pagos a título de horas extras e terço constitucional de férias, após a edição da Lei nº 13.485/2017.
+
+II. QUESTÃO EM DISCUSSÃO
+
+2. Caso em que se discute a existência de omissão quanto à superação legislativa dos Temas 687/STJ e 985/STF, em razão da Lei nº 13.485/2017, que, segundo a embargante, teria atribuído natureza indenizatória às verbas relativas ao terço constitucional de férias e ao serviço extraordinário; e se é cabível o prequestionamento dos dispositivos legais e constitucionais indicados.
+
+III. RAZÕES DE DECIDIR
+
+3. A matéria foi suficientemente analisada no voto condutor, não restando caracterizado qualquer vício que necessite ser sanado.
+
+4. No caso em apreço, não há omissão a ser sanada, pois o acórdão embargado apreciou expressamente a alegação de superação legislativa dos Temas 687/STJ e 985/STF e concluiu que a Lei nº 13.485/2017 não alterou o entendimento acerca da natureza salarial das horas extras e do terço constitucional de férias. A Lei nº 13.485/2017 possui objeto específico, relacionado ao parcelamento de débitos com a Fazenda Nacional relativos às contribuições previdenciárias de responsabilidade dos Estados, do Distrito Federal e dos Municípios, bem como à revisão da dívida previdenciária dos Municípios, não alcançando, de forma geral, as contribuições previdenciárias incidentes sobre a folha de salários das empresas privadas.
+
+5. É incompatível com a via dos Embargos de Declaração a rediscussão de matéria já decidida, por mero inconformismo da embargante. Precedente do E. STJ.
+
+6. A matéria controvertida foi suficientemente examinada e decidida, sendo discutidos todos os elementos suscitados pela recorrente, ainda que ausente menção expressa a todos os dispositivos apontados para fins de prequestionamento: arts. 195, I, "a", da Constituição Federal; art. 110 do Código Tributário Nacional; e art. 11, IV, da Lei nº 13.485/2017. Assim, restam prequestionados, para fins de acesso às instâncias recursais superiores, todos dispositivos legais e constitucionais elencados pela parte embargante, tenham ou não influência na solução do caso concreto.
+
+IV. DISPOSITIVO
+
+7. Embargos de Declaração desprovidos.
+
+__________
+Dispositivos relevantes citados: CPC, art. 1.022.
+Jurisprudência relevante citada: STJ, EDcl no AgRg no RMS nº 66.287/PE, Rel. Min. Ribeiro Dantas, Quinta Turma, j. 08/03/2022; STJ, REsp nº 2.055.472/SP, Rel. Min. Raul Araújo, Quarta Turma, j. 16/10/2025, DJEN de 19/12/2025; STJ, AgInt no AgInt no AREsp n. 1.753.565/SP, Rel. Min. Teodoro Silva Santos, Segunda Turma, j. 13/8/2025.
+
+ACÓRDÃO
+
+Vistos e relatados estes autos em que são partes as acima indicadas, a Egrégia 4ª Turma Especializada do Tribunal Regional Federal da 2ª Região decidiu, por unanimidade, NEGAR PROVIMENTO aos Embargos de Declaração, nos termos do relatório, votos e notas de julgamento que ficam fazendo parte integrante do presente julgado.
+
+Rio de Janeiro, 05 de outubro de 2026.
+
+Documento eletrônico assinado por CARMEN SILVIA LIMA DE ARRUDA, Desembargadora Federal Relatora, na forma do artigo 1º, inciso III, da Lei 11.419, de 19 de dezembro de 2006 e Resolução TRF 2ª Região nº 17, de 26 de março de 2018. A conferência da autenticidade do documento está disponível no endereço eletrônico https://eproc.trf2.jus.br, mediante o preenchimento do código verificador 20003043121v4 e do código CRC 0d3e31de.
+
+Informações adicionais da assinatura:
+Signatário (a): CARMEN SILVIA LIMA DE ARRUDA
+Data e Hora: 07/10/2026, às 14:51:39
+
+5007840-70.2026.4.02.0000
+
+20003043121
+.V4
+
+Identificações de pessoas físicas foram ocultadas
+
+Poder Judiciário
+
+Tribunal Regional Federal da 2ª Região
+
+EXTRATO DE ATA DA SESSÃO NOVA SESSÃO VIRTUAL DE 28/09/2026 A 05/10/2026
+
+Agravo de Instrumento Nº 5007840-70.2026.4.02.0000/RJ
+
+INCIDENTE: EMBARGOS DE DECLARAÇÃO
+
+RELATORA: Desembargadora Federal CARMEN SILVIA LIMA DE ARRUDA
+
+PRESIDENTE: Desembargador Federal LUIZ ANTONIO SOARES
+
+Certifico que este processo foi incluído na Pauta da Sessão Nova Sessão virtual, realizada no período de 28/09/2026, às 00:00, a 05/10/2026, às 18:00, na sequência 58, disponibilizada no DE de 17/09/2026.
+
+Certifico que a 4ª TURMA ESPECIALIZADA, ao apreciar os autos do processo em epígrafe, proferiu a seguinte decisão:
+
+A 4ª TURMA ESPECIALIZADA DECIDIU, POR UNANIMIDADE, NEGAR PROVIMENTO AOS EMBARGOS DE DECLARAÇÃO.
+
+RELATORA DO ACÓRDÃO: Desembargadora Federal CARMEN SILVIA LIMA DE ARRUDA
+
+Votante: Desembargadora Federal CARMEN SILVIA LIMA DE ARRUDA
+
+Votante: Desembargador Federal ALBERTO NOGUEIRA JUNIOR
+
+Votante: Desembargadora Federal CLAUDIA FRANCO CORREA
+
+EDILTON LOPES SOARES
+
+Secretário
+
+Identificações de pessoas físicas foram ocultadas
