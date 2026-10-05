@@ -1,0 +1,29 @@
+EMBARGOS DE DECLARAÇÃO. AÇÃO DE RESTITUIÇÃO DE VALORES C/C INDENIZAÇÃO POR DANOS MORAIS. DIREITO BANCÁRIO. RETENÇÃO DE VERBA DE NATUREZA SALARIAL EM CONTA CORRENTE PARA QUITAÇÃO DE FATURA DE CARTÃO DE CRÉDITO. ACÓRDÃO QUE MANTEVE A SENTENÇA E NEGOU PROVIMENTO A AMBOS OS RECURSOS. ALEGAÇÃO DE OMISSÃO QUANTO À DISTINÇÃO ENTRE IMPENHORABILIDADE E COMPENSAÇÃO CONTRATUAL, E QUANTO À BOA-FÉ OBJETIVA. INEXISTÊNCIA. MATÉRIA EXPRESSAMENTE ENFRENTADA E REJEITADA. ALEGAÇÃO DE CONTRADIÇÃO ENTRE O RECONHECIMENTO DO DÉBITO E A MANUTENÇÃO DO DANO MORAL. INEXISTÊNCIA. PROPOSIÇÕES COMPATÍVEIS. PRETENSÃO DE REDISCUSSÃO DO MÉRITO E DE REDUÇÃO DO QUANTUM. VIA INADEQUADA. EMBARGOS CONHECIDOS E REJEITADOS.
+
+I. EXPOSIÇÃO FÁTICA
+Trata-se de recurso de apelação cível interposto em face da sentença de mov. 117.1, que julgou procedente o pedido inicial, para o fim de consolidar a propriedade e posse do bem ao autor, confirmando a liminar concedida. Condenou o requerido, ora apelante, ao pagamento de custas e honorários advocatícios sucumbenciais, arbitrados em 10% sobre o valor da causa.
+Opostos embargos de declaração (mov. 123.1), foram rejeitados ao mov. 134.1.
+Em suas razões (mov. 140.1), sustenta o apelante, em síntese que: a) ao indeferir o benefício da justiça gratuita requerido pelo apelante, o Juízo não levou em consideração os documentos juntados ao mov. 123.3 e os extratos bancários (mov. 132.2); b) em que pese ser pessoa jurídica, o apelante é um Microempreendedor Individual – MEI, então não existem balanço patrimonial e demonstrativos contábeis a serem apresentados; c) os rendimentos auferidos mensalmente pelo recorrente são irrisórios e não lhe possibilitam arcar com os ônus sucumbenciais sem prejuízo próprio ou de sua família; d) os documentos juntados demonstram que o apelante faz jus ao benefício pleiteado.
+Pugna pelo provimento do recurso, para que seja reformada a sentença, para o fim de que seja deferido o benefício da justiça gratuita em favor do apelante.
+Intimado, o apelado apresentou contrarrazões (mov. 145.1), pugnando, preliminarmente, pelo não conhecimento do recurso, por ausência do preparo recursal.
+Quanto ao mérito, sustenta, em síntese, que: a) inexiste prova da efetiva necessidade de concessão da justiça gratuita; b) o financiamento contratado perante a Instituição Financeira, com parcelas de valor considerável, contraria o alegado, mostrando-se insuficientes os documentos juntados pelo apelante; c) deve ser mantida a condenação do apelante ao pagamento da integralidade dos ônus sucumbenciais.
+Pugna pelo não conhecimento do recurso. Subsidiariamente, pelo não conhecimento deste.
+Ao mov. 11.1, foi determinada a intimação do apelante para, querendo, juntar aos autos documentos que comprovem o alegado estado de insuficiência de recursos.
+Em cumprimento ao despacho, manifestou-se o recorrente, apresentando documentos ao mov. 14.
+É o Relatório.
+
+II. FUNDAMENTAÇÃO E VOTO
+Primeiro, quanto ao pedido de não conhecimento do recurso por ausência de preparo, formulado em sede de contrarrazões, entendo que a dispensa do preparo se confunde com o próprio mérito recursal, tendo em vista que as razões recursais versam exclusivamente sobre o benefício da justiça gratuita, de modo que conheço do recurso.
+Feitas as considerações acima, o recurso voluntário é adequado e interposto no prazo legal, preenchidos seus requisitos intrínsecos e extrínsecos.
+Cinge-se a controvérsia no preenchimento dos requisitos para concessão dos benefícios da justiça gratuita em favor do apelante.
+Intimado para apresentar documentos que comprovem o alegado estado de insuficiência de recursos, juntou o recorrente aos autos: a) PGMEI – Declarações relativas aos anos 2019 a 2022; b) DAS-SIMEI – Declaração Anual do SIMEI relativas aos anos 2020 e 2021; c) Declaração de não declarante do Imposto de Renda; d) CCMEI – Certificado da Condição de Microempreendedor Individual; e) PGMEI referente aos anos de 2019 a 2022; f) Extrato de Conta Corrente.
+Em que pese a fundamentação expressada pelo apelante, entende-se da análise da documentação juntada aos autos, que não há elementos suficientes para a concessão do benefício da assistência judiciária gratuita.
+O artigo 98 do Código de Processo Civil estabelece:
+"Art. 98. A pessoa natural ou jurídica, brasileira ou estrangeira, com insuficiência de recursos para pagar as custas, as despesas processuais e os honorários advocatícios tem direito à gratuidade da justiça, na forma da lei".
+Compulsando os autos, constata-se que que existe obscuridade quanto aos reais rendimentos do apelante, de modo que se mostra escorreita a sentença.
+Pelo que se constata no PGMEI e na Declaração Anual do SIMEI, o recorrente não declara a receita bruta anual perante o fisco.
+Do documento juntado ao mov. 14.2, a parte declarou que “não possui rendimentos mensais” e que aqueles auferidos pela pessoa natural “são inferiores aos definidos pela Receita federal anualmente”, o que se mostra contraditório ao que alegou em sua peça contestatória:
+“Importante ressaltar que já foi solicitado boleto para quitação no total de R$ 20.000,00 (vinte mil reais), entretanto A PARTE AUTORA SOMENTE ACEITARÁ SE FOR CONSIGNADO EM JUÍZO” (mov. 44.1).
+Do extrato da conta corrente, extrai-se que há movimentações bancárias que apontam para uma prática habitual de manter o saldo em valor baixo, com transferências para outras contas de titularidade do próprio apelante, das quais não se apresentou extrato.
+Ao mais, intimado para apresentar documentação complementar em 31/03/2022 (mov. 11.1), foram juntados extratos referentes a outubro, novembro e dezembro de 2021, que não representam os rendimentos atuais da parte.
+Destarte, não merece prosperar o recurso e, por conseguinte necessária a majoração de honorários em sede recursal, nos termos do art. 85, §11, do CPC, os quais passam a totalizar 11% sobre o valor atualizado da causa.
