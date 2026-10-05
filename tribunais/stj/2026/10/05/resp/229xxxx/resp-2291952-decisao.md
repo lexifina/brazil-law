@@ -1,0 +1,59 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por ANDREA CORREIA DA ROCHA E OUTROS contra acórdão prolatado, por unanimidade, pela 8ª Câmara Cível do Tribunal de Justiça do Estado do Paraná no julgamento de Apelação, assim ementado (fl. 1.440e):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO. SEGURO DE FINANCIAMENTO HABITACIONAL. COMPETÊNCIA PARA JULGAMENTO. COMPETÊNCIA ESTADUAL. RECONHECIDA PELO STJ. COISA JULGADA. VERIFICADO. PLURALIDADE DE AUTORES. PECULIARIDADES DE CADA CONTRATO. INDENIZAÇÃO POR VÍCIOS CONSTRUTIVOS. INDEVIDA. EXISTÊNCIA DE IMÓVEIS ADQUIRIDOS COM RECURSOS PRÓPRIOS. AUSÊNCIA DE FINANCIAMENTO E SEGURO HABITACIONAL. VERIFICADO. DEMANDA JULGADA IMPROCEDENTE EM RELAÇÃO A ESTES AUTORES. DEMAIS IMÓVEIS. EXISTÊNCIA DE REGISTRO DE "SINISTRO TOTAL". FATO NÃO SUSCITADO E NÃO DISCUTIDO NOS AUTOS. NECESSIDADE DE INSTRUÇÃO PROCESSUAL. SENTENÇA ANULADA EM RELAÇÃO AOS AUTORES CUJOS IMÓVEIS ESTÃO GRAVADOS COM SINISTRO. ÔNUS SUCUMBENCIAIS. REDISTRIBUÍDOS. AUTORES. APELO NÃO PROVIDO. RÉUS. APELO PARCIALMENTE PROVIDO.
+Opostos embargos de declaração, o processo foi suspenso (fl. 1.804e) em decorrência de determinação contida no REsp n. 1.639.480/PR e, posteriormente, a suspensão foi mantida em razão do Tema n. 1.011/RG (fl. 1.911e).
+Realizado o juízo de conformidade, foram parcialmente acolhidos os embargos de declaração da seguradora, para corrigir erro material, mantendo-se, no mais, o julgamento da apelação e o sobrestamento quanto à prescrição (fls. 1.749/1.755e). Os embargos dos Autores foram rejeitados, consoante a seguinte ementa (fl. 1.980e):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO. - JUÍZO DE CONFORMIDADE. COMPETÊNCIA. JULGAMENTO DO TEMA 1.011 DO SUPREMO TRIBUNAL FEDERAL. AÇÃO AJUIZADA ANTES DE 26/11/2010 COM SENTENÇA DE MÉRITO. COMPETÊNCIA DA JUSTIÇA ESTADUAL. - OMISSÃO E CONTRADIÇÃO. VÍCIOS INEXISTENTES. CONDENAÇÃO EM INDENIZAÇÃO SECURITÁRIA EXPRESSAMENTE AFASTADA. - RECONHECIMENTO DA INEXISTÊNCIA DE CONTRATAÇÃO COERENTE COM AFASTAMENTO DA CONDENAÇÃO. INEXISTÊNCIA DE CONTRADIÇÃO INTERNA. - PRETENSÃO DE REDISCUSSÃO. VIA INADEQUADA. PREQUESTIONAMENTO. - SUSPENSÃO DE JULGAMENTO QUANTO AO TERMO INICIAL DA PRESCRIÇÃO. TEMA REPETITIVO 1039 DO STJ. - EMBARGOS DE DECLARAÇÃO REJEITADOS.
+Ao depois, foram opostos embargos de declaração pelo Recorrido e, em seguida, foi interposto o Recurso Especial.
+Os embargos de declaração foram acolhidos, com efeitos infringentes, para declinar da competência para a Justiça Federal, consoante a seguinte ementa (fls. 2.113/2.114e):
+EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DECLARAÇÃO. DIREITO PROCESSUAL CIVIL E DIREITO CIVIL. CONTRADIÇÃO. ERRO MATERIAL. TEMA 1011 DO SUPREMO TRIBUNAL FEDERAL. AÇÃO AJUIZADA SEM SENTENÇA DE MÉRITO ANTES DE 26/11/2010. COMPETÊNCIA DA JUSTIÇA FEDERAL PARA ANÁLISE DO PREENCHIMENTO DOS REQUISITOS LEGAIS ACERCA DO INTERESSE DA CEF. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, COM EFEITO INFRINGENTE, PARA DECLINAR A COMPETÊNCIA PARA A JUSTIÇA FEDERAL.
+I. Caso em exame
+1. Embargos de declaração interpostos contra acórdão que conheceu e acolheu, em parte, embargos de declaração anteriores, corrigindo erro material em relação a um dos autores, mas mantendo o julgamento do recurso de apelação e determinando o sobrestamento do recurso em razão do Tema Repetitivo 1.039. A embargante alega contradição e erro material, requerendo a aplicação da tese 1.1 do tema 1011/STF, argumentando que, em 26/11/2010, não havia sentença de mérito proferida.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se há contradição e erro material no acórdão que determinou a aplicação da tese 1.2 do tema 1011/STF, em vez da tese 1.1, e se a competência deve ser declinada para a Justiça Federal.
+III. Razões de decidir
+3. Os embargos declaratórios são tempestivos e merecem acolhimento devido à contradição no acórdão embargado.
+4. A aplicação da tese 1.2 do tema 1011/STF foi equivocada, devendo ser aplicada a tese 1.1, pois a ação foi ajuizada e não havia sentença antes da entrada em vigor da MP 513/2010.
+5. A competência para o processamento e julgamento das causas deve ser declinada para a Justiça Federal, conforme os parâmetros definidos pelo Supremo Tribunal Federal.
+6. Os dispositivos legais prequestionados foram considerados incluídos no acórdão.
+IV. Dispositivo e tese
+7. Embargos de declaração conhecidos e acolhidos, com efeito infringente, para declinar a competência para a Justiça Federal.
+Tese de julgamento: Nos casos em que a ação foi ajuizada antes da entrada em vigor da MP nº 513/2010 e não possuía sentença de mérito nesta data, a competência para o processamento e julgamento deve ser declinada para a Justiça Federal, para análise dos requisitos acerca do interesse da CEF.
+Em razão do acolhimento dos aclaratórios, o referido Recurso Especial foi considerado prejudicado (fls. 2.202/2.203e).
+Os Autores opuseram, então, novos embargos de declaração, sustentando a impossibilidade de rediscussão da competência anteriormente definida, os quais foram rejeitados (fls. 2.232/2.235e). Depois, interpuseram novo Recurso Especial, objeto do presente julgamento (fls. 2.241/2.260e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese:
+(i) Arts. 507 do Código de Processo Civil de 2015 e 473 do CPC/1973 - Preclusão consumativa e coisa julgada quanto à competência, diante de decisão transitada em julgado que reconheceu competente a Justiça Estadual, a qual deve ser mantida (fls. 2.254/2.259e).
+Com contrarrazões (fls. 2.264/2.286e), o recurso foi inadmitido (fls. 2.305/2.307e), tendo sido interposto Agravo, convertido, posteriormente, em Recurso Especial (fls. 2.374/2.375e).
+Feito breve relato, decido.
+Nos termos do art. 932, IV, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, b, e 255, § 4º, II, ambos do Regimento Interno desta Corte, o Relator está autorizado, mediante decisão monocrática, a negar provimento a recurso ou a pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Nas razões recursais, defende-se a existência da preclusão consumativa e coisa julgada quanto à competência, diante de decisão transitada em julgado.
+Não assiste razão aos Recorrentes.
+No julgamento do Tema n. 1.011/RG, o Supremo Tribunal Federal estabeleceu que, nas ações em curso em 26.11.2010, sem sentença de mérito, os autos devem ser remetidos à Justiça Federal para análise do preenchimento dos requisitos legais acerca do interesse da Caixa Econômica Federal ou da União, quando houver provocação de quaisquer das partes ou intervenientes, observado o art. 1º-A, § 4º, da Lei n. 12.409/2011 (item 1.1 da tese).
+Ao modular os efeitos desse julgamento, preservou a eficácia preclusiva da coisa julgada nos processos com trânsito em julgado, na fase de conhecimento, antes de 13.7.2020.
+No tocante à competência absoluta, a jurisprudência desta Corte admite seu reexame enquanto estiver em curso a demanda, ainda que a questão tenha sido apreciada em decisão anterior.
+Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. DESAPROPRIAÇÃO INDIRETA. RECURSO ESPECIAL. OFENSA AO ART. 535 DO CPC NÃO DEMONSTRADA. COMPETÊNCIA ABSOLUTA DA JUSTIÇA FEDERAL PROCLAMADA EM ANTERIOR AGRAVO DE INSTRUMENTO. POSTERIOR DECLARAÇÃO DE SUA INCOMPETÊNCIA EM APELAÇÃO. POSSIBILIDADE. MATÉRIA DE ORDEM PÚBLICA. PRESSUPOSTO PROCESSUAL. ART. 473 DO CPC. INEXISTÊNCIA DE PRECLUSÃO PRO JUDICATO.
+1. Verifica-se não ter ocorrido ofensa ao art. 535 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. De acordo com a jurisprudência do STJ, estando em curso a lide, inexiste preclusão pro judicato diante de matérias de ordem pública, de que é exemplo a apreciação do pressuposto processual concernente à competência absoluta. Precedentes.
+3. Como explicam LUIZ GUILHERME MARINONI e DANIEL MITIDIERO, "Determinadas matérias são insuscetíveis de preclusão e podem voltar a ser examinadas pelo órgão jurisdicional dentro do mesmo grau de jurisdição ainda que já decididas. São infensas à preclusão. O art. 267, § 3º, CPC, arrola exemplos da espécie - os pressupostos processuais e as condições da ação são insuscetíveis de preclusão" (Código de Processo Civil comentado artigo por artigo. 4. ed. São Paulo: RT, 2012, nota 2 ao art. 473, p. 454).
+4. Logo, deve prevalecer a combatida decisão do TRF da 3ª Região que, ao julgar a apelação, decidiu ser da Justiça Estadual a competência para julgar a ação, mesmo tendo, em anterior agravo de instrumento, proclamado a competência da Justiça Federal.
+5. Recurso especial a que se nega provimento.
+(REsp n. 1.240.091/SP, relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, j. 18.10.2016, DJEN 2.2.2017.)
+A orientação foi recentemente reafirmada pela Primeira Turma, em julgado assim ementado:
+PROCESSUAL CIVIL. COMPETÊNCIA ABSOLUTA. PRECLUSÃO PRO JUDICATO. INEXISTÊNCIA.
+1. Segundo a jurisprudência do STJ, estando em curso a lide, inexiste preclusão pro judicato para apreciação de competência absoluta. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 2.179.764/PR, Rel. Ministro Gurgel de Faria, Primeira Turma, j. 26.5.2025, DJEN 29.5.2025, destaque meu).
+Na mesma linha, a Segunda Turma desta Corte afastou a preclusão decorrente de decisão anterior sobre competência absoluta em controvérsia relativa à cessação da competência federal delegada (cf. RMS n. 77.765/MG, Rel. Ministro Teodoro Silva Santos, Segunda Turma, j. 12.8.2026, DJEN 18.8.2026).
+In casu, a Corte de origem consignou (fl. 2.234e):
+As posteriores alterações legislativas e, principalmente, jurisprudenciais, com reconhecimento de repercussão geral do tema pelo Supremo Tribunal Federal, autorizam o reexame da matéria referente à competência absoluta, sem que importe em ofensa à preclusão, na medida em que necessária a adequação ao precedente.
+O Tribunal de origem registrou que a ação estava em curso, sem sentença de mérito, em 26.11.2010, tendo sido sentenciada em 24.5.2016, e que houve manifestação de interesse da Caixa Econômica Federal em intervir no feito, além de provocação da seguradora (fl. 2.117e).
+Asseverou, ainda, que o pronunciamento anterior acerca da competência precedeu as alterações legislativas consideradas no Tema n. 1.011/RG e que não houve trânsito em julgado da sentença de mérito (fl. 2.234e).
+Nessas circunstâncias, a decisão anterior acerca da competência não impede a remessa dos autos à Justiça Federal, para análise dos requisitos legais da intervenção da empresa pública, consideradas as situações individuais dos Autores, nos termos do item 1.1 da referida tese vinculante.
+Não incide a ressalva estabelecida na modulação de efeitos do precedente, referente aos processos transitados em julgado na fase de conhecimento antes de 13.7.2020, razão pela qual não identifico a apontada ofensa aos dispositivos legais invocados no recurso.
+Deixo de majorar os honorários advocatícios, pois o acórdão recorrido se limita ao declínio de competência, sem arbitramento de verba honorária.
+Posto isso, com fundamento nos arts. 932, IV, do Código de Processo Civil de 2015 e 34, XVIII, b, e 255, § 4º, II, ambos do RISTJ, NEGO PROVIMENTO ao Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
