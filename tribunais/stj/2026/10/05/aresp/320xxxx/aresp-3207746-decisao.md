@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência da Súmula n. 7/STJ (fls. 285-289).
+O acórdão recorrido encontra-se assim ementado (fl. 201):
+EMENTA - DIREITO PROCESSUAL CIVIL - AGRAVO DE INSTRUMENTO - AÇÃO DE OBRIGAÇÃO DE FAZER - ENERGIA ELÉTRICA - USINA FOTOVOLTAICA - CANCELAMENTO UNILATERAL DE ORÇAMENTO DE CONEXÃO - ALEGAÇÃO DE NECESSIDADE DE OBRAS ADICIONAIS EM RAZÃO DE INVERSÃO DE FLUXO DE POTÊNCIA - INDEVIDA IMPOSIÇÃO DE CUSTOS AO CONSUMIDOR - MATÉRIA EMINENTEMENTE DE DIREITO - ANÁLISE DE RESOLUÇÃO NORMATIVA E ATOS NORMATIVOS DA ANEEL - DESNECESSIDADE DE PROVA PERICIAL - RECURSO CONHECIDO E PROVIDO.
+I. CASO EM EXAME
+1. Agravo de Instrumento interposto em face de decisão saneadora proferida em Ação de Obrigação de Fazer.
+II. QUESTÃO EM DISCUSSÃO
+2. Discute-se no presente recurso se há necessidade de dilação probatória para produção de prova pericial.
+III. RAZÕES DE DECIDIR
+3. A matéria posta nos autos é exclusivamente de direito, envolvendo interpretação da Resolução Normativa ANEEL nº 1.000/2021 e do Despacho ANEEL nº 3.438/2023, que vedam à distribuidora o cancelamento de orçamento de conexão já aprovado, salvo em hipóteses legais específicas, não verificadas no caso concreto.
+5. É indevida a determinação de produção de prova pericial em demanda que discute o cancelamento de orçamento de conexão de usina fotovoltaica, quando a controvérsia envolve apenas interpretação normativa e está devidamente esclarecida por atos administrativos da ANEEL, inexistindo necessidade de apuração técnica adicional.
+6. A distribuidora de energia não pode cancelar orçamento de conexão previamente aprovado com base em justificativas não previstas na Resolução Normativa ANEEL nº 1.000/2021, incumbindo-lhe a realização de eventuais obras corretivas, sem repasse de custos ao consumidor.
+IV. DISPOSITIVO
+7. Agravo de Instrumento conhecido e provido.
+Os embargos de declaração foram rejeitados (fls. 221-225).
+Nas razões do recurso especial (fls. 228-247), fundamentado no art. 105, III, "a", da CF, a parte recorrente alegou violação dos arts. 369, 370 e 373, II, do CPC, sustentando ser imprescindível a realização da prova pericial determinada de ofício pelo Juízo de primeiro grau, pois a controvérsia não seria exclusivamente de direito e dependeria do exame de questões técnicas relativas à conexão de usina à rede de distribuição de energia elétrica, especialmente quanto à inversão de fluxo de potência e aos custos das obras necessárias, afirmando que o julgamento anterior proferido no agravo de instrumento ocorreu em cognição sumária e não teria examinado essas questões.
+Apont a, subsidiariamente, ofensa ao art. 1.022, II, do CPC, aduzindo a ocorrência de negativa de prestação jurisdicional, ao fundamento de que, embora tenha oposto embargos de declaração para que o Tribunal de origem se manifestasse especificamente sobre os arts. 369, 370 e 373, II, do CPC, as omissões apontadas não teriam sido supridas, requerendo, caso se reconheça a ausência de prequestionamento, a anulação dos acórdãos recorridos e o retorno dos autos à origem para novo julgamento.
+No agravo (fls. 291-300), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 304-321).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+A jurisprudência desta Corte Superior orienta-se no sentido de que o magistrado, como destinatário da prova, pode indeferir, de forma fundamentada, as diligências que reputar inúteis, desnecessárias ou meramente protelatórias, inexistindo direito subjetivo da parte à produção de toda prova requerida, mas apenas daquela que se mostre útil e necessária à solução da controvérsia, mormente quando o órgão julgador reconhece, de forma motivada, que os elementos já constantes dos autos são suficientes à formação de seu convencimento. A propósito:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONDOMÍNIO EDILÍCIO. ASSEMBLEIA CONDOMINIAL SOBRE VAGAS DE GARAGEM. ALEGADO CERCEAMENTO DE DEFESA. SUPRESSIO. NULIDADE DA ASSEMBLEIA POR OBJETO ILÍCITO. LIMITES DO RECURSO ESPECIAL (SÚMULA 7/STJ). AGRAVO INTERNO NÃO PROVIDO.
+ ..
+6. Na condição de destinatário da prova, o magistrado pode indeferir diligências reputadas inúteis, desnecessárias ou meramente protelatórias, desde que o faça de modo motivado, inexistindo direito subjetivo das partes à produção de toda prova requerida, mas apenas à prova útil e necessária, circunstância cuja aferição compete às instâncias ordinárias. Precedentes.
+7. A pretensão dos agravantes, sob o rótulo de violação abstrata aos arts. 139, 369 e 370 do CPC, busca, na realidade, a revisão do juízo das instâncias ordinárias quanto à utilidade e indispensabilidade das provas indeferidas, o que demanda reexame da moldura fática e probatória e atrai a incidência da Súmula 7/STJ.
+ ..
+(AgInt no AREsp n. 3.091.654/SP, relator Ministro Luís Carlos Gambogi (Desembargador Convocado do TJMG), Quarta Turma, julgado em 22/9/2026, DJEN de 28/9/2026.)
+PROCESSUAL CIVIL E CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. EMPRÉSTIMO PESSOAL NÃO CONSIGNADO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA POR INDEFERIMENTO DE PERÍCIA. DESTINATÁRIO DA PROVA. DESNECESSIDADE DE PROVA TÉCNICA. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. ABUSIVIDADE DOS JUROS REMUNERATÓRIOS. REVISÃO EXCEPCIONAL (TEMA 27). TAXA MÉDIA DE MERCADO COMO REFERENCIAL NÃO ABSOLUTO. CONSONÂNCIA COM A JURISPRUDÊNCIA. SÚMULAS 5, 7 E 83/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
+ ..
+3. O julgador, como destinatário da prova, pode indeferir perícia quando a controvérsia é resolúvel pela prova documental; a revisão dessa conclusão demanda reexame de fatos e provas, vedado em recurso especial (Súmula 7/STJ).
+ ..
+(AREsp n. 3.173.774/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 31/8/2026, DJEN de 10/9/2026.)
+Na hipótese, o Tribunal de origem afastou a determinação de produção de prova pericial por concluir que os elementos já constantes dos autos eram suficientes para o julgamento da controvérsia e que a apuração técnica pretendida não teria aptidão para modificar a solução da demanda.
+Para tanto, consignou que a questão relativa ao cancelamento do orçamento de conexão já havia sido examinada no Agravo de Instrumento n. 1403418-14.2024.8.12.0000 e que, embora aquele julgamento tivesse ocorrido em sede de tutela de urgência, a matéria havia sido analisada de forma aprofundada. Considerou, ainda, os atos expedidos pela ANEEL, especialmente o Despacho n. 3.438/2023, segundo os quais é vedado à distribuidora cancelar ou invalidar orçamento de conexão já entregue ao consumidor, ressalvadas as hipóteses previstas na regulamentação, destacando também que o recurso administrativo interposto contra referido despacho foi desprovido.
+A Corte estadual assentou, ademais, que a inversão de fluxo de potência, apontada pela concessionária como fundamento para o cancelamento do orçamento, não tornava necessária a realização da perícia. Isso porque, segundo a interpretação conferida aos atos da ANEEL, eventual necessidade de obras adicionais decorrentes dessa circunstância acarretaria a obrigação da própria concessionária de promover as correções e os reforços necessários no sistema de distribuição, sem transferência dos respectivos custos ao consumidor.
+Com base nessas premissas, concluiu que, ainda que a prova pericial viesse a constatar a necessidade de obras suplementares àquelas previstas no orçamento de conexão já aprovado, tal resultado não alteraria o deslinde da controvérsia, razão pela qual reputou desnecessária a dilação probatória e suficiente a análise dos documentos já acostados aos autos.
+Nesse contexto, acolher a pretensão recursal, para reconhecer que a solução da causa depende de conhecimento técnico acerca da inversão de fluxo de potência, da necessidade de obras adicionais e dos respectivos custos e, por conseguinte, afirmar a imprescindibilidade da prova pericial, exigiria rever as premissas adotadas pelo Tribunal de origem quanto à suficiência dos elementos constantes dos autos e à relevância da apuração técnica pretendida para o julgamento da demanda.
+A modificação dessas conclusões demandaria o reexame do conjunto fático-probatório dos autos, providência inviável em recurso especial, nos termos da Súmula n. 7/STJ.
+Por fim, tendo a matéria objeto do recurso especial sido efetivamente examinada pelo Tribunal de origem, não se reconhece a alegada ausência de prequestionamento. Fica, assim, prejudicada a tese subsidiária de violação do art. 1.022, II, do CPC, deduzida pela recorrente apenas para a hipótese de se entender ausente aquele requisito.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
