@@ -1,0 +1,7 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por BANCO BRADESCO S/A no qual se discute, em contratos bancários, se para a cobrança de juros com capitalização diária basta a previsão contratual da periodicidade diária ou se é indispensável a informação expressa da taxa diária de juros aplicada (fls. 851-853 e 923-925).
+A matéria encontra-se afetada à Segunda Seção do Superior Tribunal de Justiça, aguardando o julgamento, sob o rito dos recursos repetitivos (Tema 1474), os Recursos Especiais REsp 2252171/RS e REsp 2248247/RS, de relatoria do Min. Ricardo Villas Bôas Cueva.
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que lá fiquem sobrestados aguardando o julgamento do referido tema pelo Superior Tribunal de Justiça e, após sua publicação, em observância ao art. 1.040 do CPC/2015: a) seja negado seguimento ao recurso se a decisão recorrida coincidir com a orientação desta Corte; ou b) proceda-se ao juízo de retratação na hipótese de o acórdão vergastado divergir do precedente qualificado.
+Publique-se. Intimem-se.
+EMENTA
