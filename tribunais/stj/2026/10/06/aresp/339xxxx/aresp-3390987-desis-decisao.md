@@ -1,0 +1,24 @@
+DESIS no AGRAVO EM RECURSO ESPECIAL Nº 3390987 - SP (2026/0400147-6)
+
+RELATOR: MINISTRO PRESIDENTE DO STJ
+
+REQUERENTE: BANCO DO BRASIL SA
+
+ADVOGADO: SERGIO HENRIQUE DE OLIVEIRA GOMES E OUTRO(S) - DF017844
+
+REQUERIDO: TAIZE INES DOS SANTOS
+
+ADVOGADO: CARLOS DIOGO SANTIN - SC065646
+
+EMENTA
+
+DECISÃO
+
+Homologo a desistência do Agravo em Recurso Especial (fl. 787) interposto nos presentes autos por BANCO DO BRASIL SA.
+No mais, encaminhem-se os autos à origem.
+Publique-se. Intimem-se.
+
+Brasília, 06 de outubro de 2026.
+
+MINISTRO LUIS FELIPE SALOMÃO
+Presidente
