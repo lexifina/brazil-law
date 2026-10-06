@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 29/09/2026 a 06/10/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG) e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Isabel Gallotti.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COBRANÇA DE DESPESAS MÉDICO-HOSPITALARES. DEFICIÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. REEXAME DE PROVAS. AGRAVO INTERNO DESPROVIDO.
+1. A deficiência de fundamentação do recurso especial, sem demonstração específica da ofensa aos dispositivos legais invocados e da divergência jurisprudencial, impede o seu conhecimento (Súmula 284/STF, por analogia).
+2. A ausência de prequestionamento dos dispositivos federais alegados, sem oposição de embargos de declaração, obsta o conhecimento do recurso especial (Súmulas 282 e 356/STF, por analogia).
+3. A revisão das conclusões das instâncias ordinárias sobre a suficiência da prova documental e a desnecessidade de perícia técnica demanda reexame de provas e é vedada em recurso especial (Súmula 7/STJ).
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por SÃO FRANCISCO SISTEMAS DE SAÚDE SOCIEDADE EMPRESÁRIA LIMITADA contra decisão monocrática desta Relatoria que conheceu do agravo para negar provimento ao recurso especial.
+Nas razões recursais, a parte agravante alega, em síntese, que:
+1) delimitou de forma objetiva a matéria controvertida, identificando os dispositivos de lei federal tidos por violados, bem como demonstrando, de maneira clara, a forma pela qual o acórdão recorrido teria afrontado os arts. 186 e 927 do Código Civil;
+2) embora o acórdão não tenha feito menção expressa aos arts. 186 e 927 do Código Civil, examinou precisamente a matéria jurídica disciplinada por tais dispositivos, qual seja a configuração dos pressupostos da responsabilidade civil e a existência de elementos suficientes para justificar a condenação imposta à operadora e;
+3) não há que se falar em reexame de prova, mas tão somente na aplicação da norma legal, que foi frontalmente atingida pelo acórdão recorrido, ao caso posto, pelo que deve o recurso especial ser recebido pela Corte Superior, analisado e, no mérito, ser provido para afastar a ofensa às normas federais indicadas, julgando improcedente a demanda.
+Ao final, requer a reconsideração da decisão agravada, ou sua reforma pela Turma Julgadora.
+Intimada, a parte agravada não apresentou manifestação (e-STJ, fl. 936).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COBRANÇA DE DESPESAS MÉDICO-HOSPITALARES. DEFICIÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. REEXAME DE PROVAS. AGRAVO INTERNO DESPROVIDO.
+1. A deficiência de fundamentação do recurso especial, sem demonstração específica da ofensa aos dispositivos legais invocados e da divergência jurisprudencial, impede o seu conhecimento (Súmula 284/STF, por analogia).
+2. A ausência de prequestionamento dos dispositivos federais alegados, sem oposição de embargos de declaração, obsta o conhecimento do recurso especial (Súmulas 282 e 356/STF, por analogia).
+3. A revisão das conclusões das instâncias ordinárias sobre a suficiência da prova documental e a desnecessidade de perícia técnica demanda reexame de provas e é vedada em recurso especial (Súmula 7/STJ).
+4. Agravo interno desprovido.
+VOTO
+A irresignação não merece prosperar.
+Conforme constou na decisão agravada, nas razões do recurso especial, a parte recorrente alegou violação dos arts. 186 e 927 do CC, pois seria necessária auditoria técnica e efetiva comprovação específica da adequação de materiais, medicamentos e procedimentos para fins de cobrança dos valores das despesas médicas em questão, a fim de evitar pagamento de valores indevidos ou ainda procedimentos, medicamentos, materiais cobrados de forma superfaturada ou, ainda, indevida, ante o uso inadequado para cada caso dos pacientes.
+Ocorre que, compulsando os autos, verifica-se que a parte recorrente não desenvolveu argumentação que evidenciasse de que modo teria ocorrido a apontada ofensa aos aludidos dispositivos, tampouco comprovou a existência da suposta divergência jurisprudencial, tornando patente a falta de fundamentação do recurso obstado, circunstância que atrai, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal. Nesse sentido:
+CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015. SÚMULA 284/STF. NEGATIVA DE COBERTURA DE CIRURGIA. CONFIGURAÇÃO DE DANOS MORAIS. REEXAME DE MATÉRIA FÁTICA. INVIABILIDADE. SÚMULA 7/STJ. VALOR DOS DANOS MORAIS. PROPORCIONALIDADE. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E DESPROVIDO.
+1. Quanto ao artigo 1.022 do CPC/2015, a parte recorrente não desenvolveu argumentação que evidenciasse a ofensa, caracterizando a deficiência na fundamentação do apelo especial, circunstância que atrai, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal.
+2. Na espécie, o Tribunal de origem concluiu que a recusa injustificada de cobertura para o procedimento cirúrgico, colocando em risco a saúde da paciente e atrasando os cuidados necessários, caracteriza sofrimento e angústia, atentando contra a dignidade da pessoa humana e ferindo direito inerente à personalidade.
+3. A modificação da conclusão do Tribunal de origem sobre a ocorrência de negativa de cobertura de cirurgia, bem como sobre a repercussão extrapatrimonial da recusa da operadora do plano de saúde, demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7/STJ.
+4. O valor arbitrado pelas instâncias ordinárias a título de danos morais somente pode ser revisado em sede de recurso especial quando irrisório ou exorbitante. Precedentes.
+5. No caso, o montante fixado em R$ 10.000,00 (dez mil reais) não se mostra exorbitante nem desproporcional aos danos sofridos em decorrência da conduta injustificada de negativa de cobertura de procedimento cirúrgico de adenoamigdalectomia.
+6. Agravo conhecido para conhecer parcialmente do recurso especial e, na extensão, negar-lhe provimento.
+(AREsp n. 3.080.396/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 18/5/2026, DJEN de 22/5/2026.)
+Além disso, o conteúdo normativo dos dispositivos invocados no apelo nobre não foram apreciados pelo Tribunal a quo, tampouco foram opostos embargos declaratórios para sanar eventual omissão. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF. Nesse sentido:
+AGRAVO INTERNO EM RECURSO ESPECIAL. DEVEDORA EM RECUPERAÇÃO JUDICIAL. ALEGAÇÃO DE SOLIDARIEDADE SOCIAL. AUSÊNCIA DE EXAME. SÚMULAS N. 282 E 356/STF. PERSONALIDADEJURÍDICA. DESCONSIDERAÇÃO. SÚMULA N. 581/STJ. NÃO PROVIMENTO.
+1. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+2. "O processamento de pedido de recuperação judicial da empresa que tem a sua personalidade jurídica desconsiderada não impede o prosseguimento da execução redirecionada contra os sócios, visto que eventual constrição dos bens destes não afetará o patrimônio da empresa recuperanda, tampouco a sua capacidade de soerguimento." (REsp n. 2.034.442/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/9/2023, DJe de 15/9/2023).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.066.039/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. CÉDULA DE CRÉDITO BANCÁRIO. REPETIÇÃO DO INDÉBITO EM DOBRO. MÁ-FÉ CARACTERIZADA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. INDENIZAÇÃO POR DANOS MORAIS. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu pela existência de má-fé na cobrança de dívida quitada. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+4. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283 do STF.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1663414/MT, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/08/2020, DJe 31/08/2020)
+Por fim, no que diz respeito à comprovação das despesas objeto de cobrança, a Corte de origem consignou expressamente:
+"Com efeito, a documentação acostada comprova, de forma satisfatória, que a parte ré deixou de cumprir as obrigações impostas judicialmente, inclusive omitindo-se em liberar guias de internação durante diversos períodos, o que ensejou a cobrança dos valores correspondentes à integralidade das despesas médico-hospitalares.
+Assim, correta a r. sentença que entendeu que "é certo que ocorreram despesas decorrentes da obrigação que não podem ser suportadas pela parte autora, já que foi isenta da responsabilidade de pagamento de valores perante o paciente, a fim de se evitar o enriquecimento sem causa. A autora comprovou os valores cobrados em documentos de fls. 45/193, não impugnados especificamente pela parte ré." (fls. 820)
+Ademais, não há que se falar em necessidade de perícia técnica neste caso, uma vez que os documentos juntados aos autos são suficientes para demonstrar a existência da dívida e a extensão dos serviços prestados." (e-STJ, fls. 863/864)
+A modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Nesse sentido:
+DIREITO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR ACIDENTE DE TRÂNSITO. CULPA CONCORRENTE. DANO MATERIAL. LUCROS CESSANTES. DANO MORAL. RECURSO NÃO CONHECIDO.
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial fundamentado no alíneas "a" e "c", da art. 105, inciso III, Constituição Federal, em ação de indenização por acidente de trânsito. O acórdão recorrido reconheceu a culpa concorrente das partes envolvidas no acidente, fixou indenização por dano moral no valor de R$ 10.000,00 e afastou a condenação por danos materiais e lucros cessantes, por ausência de adequada comprovação.
+2. No tocante às pretensões de reembolso de despesas médicas e indenização de lucros cessantes, a análise das questões controvertidas demandaria o reexame de provas dos autos, com incursão deste Tribunal Superior no conjunto fático-probatório, para eventual modificação da moldura definida a respeito pelo Tribunal local, o que é vedado em sede de recurso especial, conforme a Súmula n. 7 do STJ.
+3. Em sede de recurso especial, a revisão do valor da indenização por danos morais é admitida somente em caráter excepcional, quando verificadas a irrisoriedade ou a exorbitância do valor arbitrado na instância de origem (STJ, AgInt no Min. Maria Isabel Gallotti, Quarta Turma, AREsp 2.917.984/MG, julgado em 29.09.2025; STJ, AgInt no Min. João AREsp 1.801.389/PR, Otávio de Noronha, Quarta Turma, julgado em 18.11.2024.).
+4. A excepcionalidade não se evidenciou no caso, em que o Tribunal arbitrou a quantia com observância aos princípios da proporcionalidade e da razoabilidade, considerando as circunstâncias do caso concreto, como a culpa concorrente, os danos de menor monta, a preservação de renda da vítima e o grau de culpabilidade dela, a qual, trafegando pela contramão, adotou comportamento que se qualificou como concausa relevante para a ocorrência do evento danoso.
+5. A divergência jurisprudencial alegada não foi demonstrada de forma adequada, uma vez que os acórdãos apontados como paradigmas não apresentam similitude fática com o caso concreto, havendo assim óbice ao juízo positivo de admissibilidade também pela alínea "c" do III, da art. 105, Constituição Federal.
+6. Agravo conhecido para não conhecer do recurso especial.
+(AREsp n. 2.862.871/MT, relator Ministro Raul Araújo, Quarta Turma, julgado em 9/3/2026, DJEN de 16/3/2026.)
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
