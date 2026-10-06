@@ -1,0 +1,105 @@
+HABEAS CORPUS Nº 1134600 - AL (2026/0425987-4)
+
+RELATOR: MINISTRO REYNALDO SOARES DA FONSECA
+
+IMPETRANTE: LUIS GUILHERME BONFADA DE MATTOS
+
+ADVOGADO: LUÍS GUILHERME BONFADA DE MATTOS - RS108151
+
+IMPETRADO: TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS
+
+PACIENTE: PAULO RICARDO MOREIRA (PRESO)
+
+CORRÉU: JEIZA GOMES DA CRUZ
+
+INTERES.: MINISTÉRIO PÚBLICO DO ESTADO DE ALAGOAS
+
+EMENTA
+
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de PAULO RICARDO MOREIRA contra acórdão do Tribunal de Justiça do Estado de Alagoas (HC n. 0807352-37.2026.8.02.0000).
+Consta que o paciente teve a prisão preventiva decretada em 09/06/2026, pela suposta prática dos crimes de extorsão qualificada pela restrição da liberdade da vítima (art. 158, §§ 2º e 3º, do Código Penal) e associação criminosa (art. 288 do Código Penal), em concurso material, tendo o Juízo de origem indicado, em síntese, a conveniência da instrução criminal e a necessidade de assegurar a aplicação da lei penal.
+A defesa impetrou habeas corpus no Tribunal de origem alegando, em suma, ausência de indícios suficientes de autoria, fragilidade do suporte probatório (com destaque para reconhecimento fotográfico irregular e imagens que não identificariam o paciente), condições pessoais favoráveis, ausência de fundamentação concreta do decreto prisional e ausência de contemporaneidade da custódia.
+O Tribunal a quo denegou a ordem, em acórdão assim ementado (e-STJ fls. 24/25):
+
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. EXTORSÃO C/C ASSOCIAÇÃO CRIMINOSA. FUNDAMENTAÇÃO CONCRETA. GARANTIA DA ORDEM PÚBLICA. CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. ASSEGURAMENTO DA APLICAÇÃO DA LEI PENAL. INSUFICIÊNCIA DAS MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. ORDEM DENEGADA.
+I. CASO EM EXAME
+1. Habeas Corpus criminal em que se pretende a revogação da prisão preventiva do paciente, subsidiariamente, substituindo-lhe por medidas cautelares alternativas.
+II. QUESTÕES EM DISCUSSÃO
+3. Há 5 questões em discussão: (i) ausência de fundamentação idônea apta a demonstrar a presença dos requisitos autorizadores da prisão preventiva previstos no art. 312 do CPP; (ii) ausência de indícios de autoria quanto ao paciente e correlata fragilidade do suporte probatório; (iii) presença de condições pessoais favoráveis do paciente; e (iv) ausência de contemporaneidade da custódia cautelar.
+III. RAZÕES DE DECIDIR
+3. A prisão preventiva é uma medida cautelar excepcional que exige a presença cumulativa dos pressupostos e hipóteses dos arts. 312 e 313 do CPP (garantia da ordem pública/econômica, conveniência da instrução ou aplicação da lei penal, além de prova da materialidade, indícios suficientes de autoria e perigo na liberdade do agente), exigindo-se fundamentação concreta e não abstrata, com base no art. 315 do CPP.
+4. O fumus comissi delicti restou demonstrado pelos indícios de que o paciente, integrante de associação criminosa especializada, abordou e privou a liberdade da vítima para aplicar o golpe do bilhete premiado. A peça acusatória detalha a divisão de tarefas e a extorsão de valores mediante coerção em agências bancárias, estando a autoria delitiva está respaldada pelo reconhecimento formal realizado pela vítima, por relatórios técnicos da investigação e por documentação bancária, preenchendo o pressuposto probatório exigido pelo Código de Processo Penal.
+5. A prisão preventiva prescinde de juízo de certeza quanto à autoria, bastando indícios suficientes e plausíveis que vinculem o paciente ao delito. Teses defensivas de negativa de autoria, ausência de individualização da conduta e fragilidade das provas demandam dilação probatória, de modo que, existindo elementos mínimos de convicção, tais discussões de mérito devem ser dirimidas sob o crivo do contraditório e da ampla defesa ao longo da instrução processual, sendo vedado o julgamento antecipado da causa em sede de habeas corpus.
+6. Entende o STJ que a via de habeas corpus não admite dilação probatória, sendo inadequada para análise aprofundada do conjunto probatório.
+7. Entendimento do STJ no sentido que o trancamento da ação penal em habeas corpus constitui medida excepcional, que deve ser adotada, tão somente, quando restar patente a ausência de autoria ou materialidade, a atipicidade da conduta, a absoluta falta de provas, a ocorrência de causa extintiva de punibilidade ou a violação dos requisitos legais exigidos para a exordial acusatória, hipóteses essas as quais não restaram demonstradas no caso em comento, reverberando na necessidade de dilação probatória para possível comprovação da autoria delitiva e necessários esclarecimentos das matérias alegadas pelo impetrante.
+8. O periculum libertatis e a consequente necessidade de garantia da ordem pública estão demonstrados pela gravidade concreta da conduta e pelo modus operandi empregado, não configurando constrangimento ilegal, nos termos de entendimento proferido pelo STJ.
+9. Risco concreto à ordem pública decorrente dos indícios de que o paciente integra uma associação criminosa organizada e interestadual, voltada à prática reiterada de crimes patrimoniais com planejamento prévio e divisão de tarefas. A denúncia aponta que o grupo atua de forma semelhante em outras unidades da Federação, demonstrando que não se trata de um fato isolado, o que justifica a prisão preventiva, conforme jurisprudência do STF, para interromper a atividade delitiva e resguardar a tranquilidade social.
+10. Liberdade do paciente a qual pode comprometer a instrução processual, notadamente diante do ímpeto de evasão do distrito da culpa demonstrado pelo mesmo, bem como comprometer a colheita da prova oral, especialmente diante da notícia de que a vítima foi intimidada mediante graves ameaças dirigidas contra seus familiares.
+11. Risco de reiteração delitiva, de acordo com entendimento do STJ, ante a existência de ação penal a qual responde o paciente.
+12. Condições pessoais favoráveis que não autorizam, por si só, a revogação da prisão preventiva. Inteligências do STJ.
+13. A gravidade concreta do delito obstaculiza o esgotamento do periculum libertatis pelo simples decurso do tempo, não havendo de se falar em ausência de contemporaneidade na decretação da medida cautelar mais gravosa, de acordo com entendimento do STJ.
+14. Demonstrada a necessidade da aplicação da medida extrema, torna-se inviável sua substituição por outras medidas cautelares alternativas.
+IV. DISPOSITIVO
+15. Ordem denegada.
+
+No presente writ, a defesa alega que a decisão de decretação e manutenção da prisão preventiva carece de fundamentação específica e individualizada, por trazer enunciados genéricos sobre garantia da ordem pública e conveniência da instrução, sem vinculação concreta à pessoa do paciente.
+Aduz que há álibi documental robusto, consistente em ata notarial, comprovantes de hospedagem em Airbnb, transferência via Pix e nota de débito de passagem aérea, indicando que o paciente se encontrava em João Pessoa/PB entre 26 e 28/01/2026, abrangendo a data dos fatos (27/01/2026), elementos que não teriam sido enfrentados pelo Juízo de origem, conforme apontado em voto divergente no acórdão impugnado.
+Sustenta, ademais, nulidade do reconhecimento fotográfico por inobservância do art. 226 do CPP, invocando o Tema Repetitivo 1.258/STJ (REsp 1.953.602/SP), e afirma excesso de prazo na formação da culpa não provocado pelo paciente, decorrente da não localização de corré.
+Requer a concessão da ordem, liminar e definitivamente, para revogar a prisão preventiva; pleiteia, subsidiariamente, a substituição da custódia por medidas cautelares diversas previstas no art. 319 do CPP; e, também de forma subsidiária, o trancamento da ação penal por ausência de justa causa, além da intimação para sustentação oral.
+É o relatório. Decido.
+Preliminarmente, cumpre esclarecer que as disposições previstas nos arts. 64, III, e 202, do Regimento Interno do Superior Tribunal de Justiça não afastam do relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores ou a contraria (AgRg no HC n. 513.993/RJ, Relator Ministro JORGE MUSSI, Quinta Turma, julgado em 25/6/2019, DJe 1º/7/2019; AgRg no HC n. 475.293/RS, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 27/11/2018, DJe 3/12/2018; AgRg no HC n. 499.838/SP, Relator Ministro JORGE MUSSI, Quinta Turma, julgado em 11/4/2019, DJe 22/4/2019; AgRg no HC n. 426.703/SP, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 18/10/2018, DJe 23/10/2018; e AgRg no RHC 37.622/RN, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 6/6/2013, DJe 14/6/2013).
+Nesse diapasão, uma vez verificado que as matérias trazidas a debate por meio do habeas corpus constituem objeto de jurisprudência consolidada neste Superior Tribunal, não há nenhum óbice a que o Relator conceda a ordem liminarmente, sobretudo ante a evidência de manifesto e grave constrangimento ilegal a que estava sendo submetido o paciente, pois a concessão liminar da ordem de habeas corpus apenas consagra a exigência de racionalização do processo decisório e de efetivação do próprio princípio constitucional da razoável duração do processo, previsto no art. 5º, LXXVIII, da Constituição Federal, o qual foi introduzido no ordenamento jurídico brasileiro pela EC n. 45/2004 com status de princípio fundamental (AgRg no HC n. 268.099/SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 2/5/2013, DJe 13/5/2013).
+Na verdade, a ciência posterior do Parquet que, longe de suplantar sua prerrogativa institucional, homenageia o princípio da celeridade processual e inviabiliza a tramitação de ações cujo desfecho, em princípio, já é conhecido (EDcl no AgRg no HC n. 324.401/SP, Relator Ministro GURGEL DE FARIA, Quinta Turma, julgado em 2/2/2016, DJe 23/2/2016).
+Em suma, para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica (AgRg no HC n. 514.048/RS, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 6/8/2019, DJe 13/8/2019).
+De acordo com a nossa sistemática recursal, o recurso cabível contra acórdão do Tribunal de origem que denega a ordem no habeas corpus é o recurso ordinário, consoante dispõe o art. 105, II, "a", da Constituição Federal. Do mesmo modo, o recurso adequado contra acórdão que julga apelação ou recurso em sentido estrito é o recurso especial, nos termos do art. 105, III, da Constituição Federal.
+Assim, o habeas corpus não pode ser utilizado como substituto de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+A prisão preventiva é uma medida excepcional, de natureza cautelar, que autoriza o Estado, observadas as balizas legais e demonstrada a absoluta necessidade, a restringir a liberdade do cidadão antes de eventual condenação com trânsito em julgado (art. 5º, LXI, LXV, LXVI e art. 93, IX, da CF).
+Para a privação desse direito fundamental da pessoa humana, é indispensável a demonstração da existência da prova da materialidade do crime, da presença de indícios suficientes da autoria e do perigo gerado pelo estado de liberdade do imputado, bem como a ocorrência de um ou mais pressupostos do artigo 312 do Código de Processo Penal.
+Exige-se, ainda, que a decisão esteja pautada em motivação concreta de fatos novos ou contemporâneos, bem como demonstrado o lastro probatório que se ajuste às hipóteses excepcionais da norma em abstrato e revelem a imprescindibilidade da medida, vedadas considerações genéricas e vazias sobre a gravidade do crime.
+De início as alegações defensivas relativa à negativa de autoria, como, também, a nulidade do reconhecimento fotográfico, conforme pontuou o Tribunal Estadual (e-STJ fl. 213), demandam dilação probatória, providência incompatível com a via estreita do habeas corpus.
+Com efeito, segundo o STF, “não se admite no habeas corpus a análise aprofundada de fatos e provas, a fim de se verificar a inocência do Paciente” (HC n.115.116/RJ, Relatora Ministra CÁR MEN LÚCIA, Segunda Turma, julgado em 16/9/2014, DJe 17/11/2014).
+Segundo, o excesso de prazo na formação da culpa, bem como a não individualização da conduta, não foram analisados pelo Tribunal de origem, o que impede o exame direto por esta Corte, por configurar indevida supressão de instância. Como é cediço, "Matéria não enfrentada na Corte de origem não pode ser analisada diretamente neste Tribunal Superior, sob pena de supressão de instância." (HC n. 378.585/SP, Relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 06/04/2017, DJe 20/04/2017).
+Passa-se ao exame dos fundamentos da prisão preventiva.
+No caso, o Juízo de primeiro grau, decretou a prisão preventiva do paciente, nos seguintes termos (e-STJ fl. 149 - grifei):
+Noutra senda, o “periculum in libertatis” também está caracterizado, pois a gravidade concreta do delito, consubstanciado no modus operandi empregado no cometimento de delito, insere- se no conceito de ordem pública e demonstra a periculosidade do agente para o meio social.
+
+O Tribunal estadual reafirmou a necessidade da medida e denegou a ordem (e- STJ fls. 212/220 - grifei):
+23. Conforme se extrai da denúncia de fls. 1/6 dos autos de origem, a persecução penal decorreu de investigação desenvolvida pela DRACCO – Polícia Civil do Estado de Alagoas (PCAL) após, no dia 27 de janeiro de 2025, o paciente, supostamente, de maneira consciente e voluntária, ter, em comunhão de desígnios com outros integrantes de alegado grupo criminoso a qual o mesmo pertence, sequestrado a vítima Maria Tenório da Silva, esta pessoa idosa de 75 (setenta e cinco) anos de idade, após tentar lhe aplicar o “Golpe do Falso Bilhete de Loteria”, mediante arrebatamento violento, privação da liberdade e extorsão consumada, sendo a mesma constrangida a sacar dinheiro, realizar transferências bancárias e contrair empréstimos em diversos locais e instituições bancárias, nesta Capital, em troca de sua liberdade e segurança dos filhos, causando-lhe um prejuízo no montante de R$ 42.307,00 (quarenta e dois mil trezentos e sete reais), os quais não foram recuperados, por se tratar de associação criminosa organizada especializada em golpes, com integrantes de outros estados, que vieram à Alagoas objetivando a prática de crimes, com ações previamente planejadas e concatenadas.
+
+[...]
+25. Além disso, a peça acusatória registra que a investigação identificou a atuação coordenada dos réus, indicando a divisão de funções entre os integrantes do grupo criminoso, circunstância corroborada por movimentações financeiras, diligências investigativas, relatórios policiais e documentação bancária produzidas durante o inquérito policial.
+
+[...]
+39. No caso em comento, pode-se observar que a gravidade concreta da conduta resta devidamente demonstrada pelo modus operandi empregado quando da realização do suposto delito em comento.
+
+[...]
+43. Some-se a isso o fato de que a investigação policial identificou indícios de atuação interestadual da associação criminosa, composta por indivíduos oriundos de diferentes Estados da Federação, especializados na prática reiterada de crimes patrimoniais mediante divisão de tarefas, planejamento prévio e utilização de sofisticados mecanismos de fraude e intimidação.
+
+[...]
+45. Essas circunstâncias revelam que não se está diante de delito isolado ou ocasional, mas, em tese, de atuação organizada e reiterada, circunstância que autoriza a conclusão de que a liberdade do paciente representa risco concreto à ordem pública.
+
+[...]
+50. A liberdade do paciente, nesse contexto, poderá comprometer a instrução processual, notadamente diante do ímpeto de evasão do distrito da culpa demonstrado pelo mesmo, bem como comprometer a colheita da prova oral, especialmente diante da notícia de que a vítima foi intimidada mediante graves ameaças dirigidas contra seus familiares.
+
+[...]
+52. Outrossim, destaca-se que, em consulta ao Sistema de Automação de Justiça (SAJ), o paciente responde a outra ação penal diversa de nº 0705722-32.2026.8.02.0001 (concernente ao suposto cometimento do delito de estelionato – art. 171 do CP, c/c o delito de organização criminosa – art. 2º da Lei nº 12.850, de 2 da agosto de 2013), inclusive onde esta fora objeto de impetração de habeas corpus em favor do mesmo paciente, sendo a ordem denegada pela Câmara Criminal do Tribunal de Justiça do Estado de Alagoas (TJAL) nos autos de nº 0801923-89.2026.8.02.0000.
+
+Cumpre verificar se o cárcere preventivo foi decretado em afronta aos requisitos do art. 312 do Código de Processo Penal e sem fundamentação idônea, como aduz a inicial.
+No caso, como se viu das transcrições, a segregação cautelar foi decretada para resguardar a ordem pública, evidenciada pela gravidade da ação, evidenciada pelo modus operandi. O paciente em comunhão de desígnios com outros integrantes do grupo criminoso, teria sequestrado a vítima, pessoa idosa de 75 anos pós tentar lhe aplicar o “Golpe do Falso Bilhete de Loteria”, mediante arrebatamento violento, privação da liberdade e extorsão consumada, sendo a mesma constrangida a sacar dinheiro, realizar transferências bancárias e contrair empréstimos em diversos locais e instituições bancárias, em troca de sua liberdade e segurança dos filhos, causando-lhe um prejuízo no montante de R$ 42.307,00 (quarenta e dois mil trezentos e sete reais), os quais não foram recuperados.
+Com efeito, "[...] demonstrada a gravidade concreta do crime praticado , utilizando icado, revelada, na maioria das vezes, pelos meios de execução empregados, ou a contumácia delitiva do agente, a jurisprudência desta Casa autoriza a decretação ou a manutenção da segregação cautelar, dada a afronta às regras elementares de bom convívio social" (Informações adicionais do HC n. 494.373/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 2/4/2019, DJe 10/4/2019).
+Ou seja, "se a conduta do agente – seja pela gravidade concreta da ação, seja pelo próprio modo de execução do crime – revelar inequívoca periculosidade, imperiosa a manutenção da prisão para a garantia da ordem pública, sendo despiciendo qualquer outro elemento ou fator externo àquela atividade" (HC n. 296.381/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, Quinta Turma, julgado em 26/8/2014, DJe 4/9/2014).
+Noutro ponto, destacou-se o risco de reiteração delitiva, em razão do paciente de responder á outra ação penal diversa, pelo suposto cometimento do delito de estelionato – art. 171 do CP, c/c o delito de organização criminosa – art. 2º da Lei nº 12.850, de 2 da agosto de 2013).
+Nessa direção, o entendimento da Suprema Corte é no sentido de que "a periculosidade do agente e a fundada probabilidade de reiteração criminosa constituem fundamentação idônea para a decretação da custódia preventiva" (AgRg no HC n.150.906/BA, Rel. Ministro ROBERTO BARROSO, Primeira Turma, julgado em 13/4/2018, DJe 25/4/2018).
+Com efeito, O histórico criminal do agente, a revelar fundado receio de reiteração na prática criminosa, autoriza, por si só, o decreto de prisão preventiva como forma de garantir a ordem pública, nos termos do art. 312 do Código de Processo Penal (HC n. 304.240/BA, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 5/5/2015, DJe 14/5/2015).
+Assim, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal são insuficientes para a consecução do efeito almejado. Ou seja, tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas.
+Quanto ao tema, trago aos autos precedente do Supremo Tribunal Federal no seguinte sentido: [...] Necessidade da prisão provisória justificada. Gravidade concreta dos delitos. As medidas cautelares alternativas diversas da prisão, previstas na Lei 12.403/2011, não se mostram suficientes a acautelar o meio social [...] (HC n. 123.172/MG, Relator Ministro GILMAR MENDES, Segunda Turma, julgado em 3/2/2015, DJe 19/2/2015).
+Em harmonia, esta Corte entende que é indevida a aplicação de medidas cautelares diversas da prisão quando a constrição se encontra justificada e mostra-se necessária, dada a potencialidade lesiva da infração indicando que providências mais brandas não seriam suficientes para garantir a ordem pública (RHC n. 120.305/MG, Relator Ministro JORGE MUSSI, Quinta Turma, julgado em 17/12/2019, DJe 19/12/2019).
+Assim, não se verifica a existência de constrangimento ilegal a ser sanado.
+Diante do exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Intimem-se.
+
+Brasília, 06 de outubro de 2026.
+
+Ministro REYNALDO SOARES DA FONSECA
+Relator
