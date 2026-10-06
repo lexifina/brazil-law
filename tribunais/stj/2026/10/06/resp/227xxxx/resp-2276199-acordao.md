@@ -1,0 +1,115 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 29/09/2026 a 06/10/2026, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Luís Carlos Gambogi (Desembargador Convocado do TJMG) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Isabel Gallotti.
+EMENTA
+DIREITO DO CONSUMIDOR. RECURSO ESPECIAL. INSCRIÇÃO NO SISTEMA DE INFORMAÇÕES DE CRÉDITO DO BANCO CENTRAL (SCR) SEM NOTIFICAÇÃO PRÉVIA. RECURSO ESPECIAL NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul em apelação cível nos autos de ação de indenização por dano moral cumulada com exclusão do rol negativo por falta de notificação prévia.
+2. A controvérsia diz respeito à pretensão à condenação por danos morais e exclusão dos registros no SCR por ausência de comunicação antecedente.
+3. O Juízo de primeiro grau julgou improcedentes os pedidos, revogou a liminar e fixou honorários com exigibilidade suspensa pela gratuidade de justiça.
+4. A Corte de origem manteve a improcedência, assentando a necessidade de comprovação de dano e a responsabilidade do fornecedor pela prévia comunicação, majorando os honorários.
+II. QUESTÃO EM DISCUSSÃO
+5. Há três questões em discussão: (i) saber se é possível o conhecimento do recurso por alegada violação de enunciados de súmula e de resoluções do CMN/Bacen; (ii) saber se houve violação dos arts. 186 e 927 do Código Civil e 43, § 2º, 46, 51 e 54 do CDC quanto à necessidade de notificação prévia e à configuração de dano moral in re ipsa; e (iii) saber se foi demonstrado o dissídio jurisprudencial nos termos dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ .
+III. RAZÕES DE DECIDIR
+6. Incide a Súmula n. 518 do STJ, porque não é cabível recurso especial fundado em alegada violação de enunciado de súmula.
+7. Não se conhece da apontada violação de atos normativos infralegais (resoluções CMN/Bacen), pois não possuem natureza de lei federal para fins do art. 105, III, a, da Constituição Federal, relativamente à controvérsia sobre notificação prévia à inscrição no SCR.
+8. Incidem as Súmulas n. 5 e 7 do STJ relativamente à responsabilidade civil e ao dano moral, pois a alteração das conclusões do acórdão recorrido quanto à veracidade da dívida, à inexistência de prova de prejuízo e à ausência de abalo aos direitos da personalidade demandaria interpretação de cláusulas contratuais e reexame do acervo fático-probatório.
+9. Do dissídio jurisprudencial não se pode conhecer, já que não houve cotejo analítico nem indicação adequada do repositório oficial dos paradigmas, além de estar prejudicado quando presentes óbices ao conhecimento do recurso pela alínea a (arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ).
+IV. DISPOSITIVO E TESE
+10. Recurso especial não conhecido.
+Tese de julgamento: "1. Incide a Súmula n. 518 do STJ quando o recurso especial invoca violação de enunciado sumular, hipótese não admitida pelo art. 105, III, a, da Constituição Federal. 2. Incidem as Súmulas n. 5 e 7 do STJ quando a pretensão recursal demanda interpretação de cláusulas contratuais e reexame do conjunto fático-probatório para reconhecer responsabilidade civil e o dano moral por inscrição no SCR. 3. Do dissídio jurisprudencial não se pode conhecer quando ausente cotejo analítico apto a demonstrar similitude fática nos termos dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ e quando presentes óbices ao conhecimento do recurso pela alínea a".
+Dispositivos relevantes citados: CPC, arts. 373, I, 1.003, § 5º, 1.029, § 1º, e 85, § 11; CF, art. 105, III, a e c; CC, arts. 186 e 927; CDC, arts. 4º, caput, 6º, caput, 6º, III, 14, 43, § 2º, 46, 51, §§ 3º e 4º, e 54, §§ 3º e 4º.
+Jurisprudência relevante citada: STJ, Súmulas n. 5, 7 e 518; STJ, AREsp n. 3.010.863/SC, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 16/12/2025.
+RELATÓRIO
+Trata-se de recurso especial interposto por VANESSA ALESSANDRA GONÇALVES FORTES com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul em apelação cível nos autos de ação de indenização por dano moral cumulada com exclusão do rol negativo por falta de notificação prévia.
+O julgado foi assim ementado (fl. 267):
+DIREITO CIVIL. APELAÇÃO CÍVEL. INSCRIÇÃO NO SISTEMA DE INFORMAÇÕES DE CRÉDITO DO BANCO CENTRAL (SCR). AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA. DANO MORAL NÃO CONFIGURADO. RECURSO DESPROVIDO. I. CASO EM EXAME: Apelação cível interposta pela parte autora contra sentença que julgou improcedentes os pedidos formulados em ação de indenização por dano moral cumulada com exclusão do rol negativo por falta de notificação prévia, promovida em face de instituição financeira. II. QUESTÃO EM DISCUSSÃO: Há duas questões em discussão: (i) preliminar de ofensa ao princípio da dialeticidade recursal; (ii) mérito quanto à necessidade de notificação prévia para inclusão do nome da parte autora no Sistema de Informações de Crédito do Banco Central (SCR) e a ocorrência de dano moral indenizável. III. RAZÕES DE DECIDIR: A preliminar contrarrecursal de ofensa ao princípio da dialeticidade foi rejeitada, pois a peça recursal atacou o julgamento proferido na origem, fundamentando devidamente os pontos que pretende que sejam reanalisados. O Sistema de Informações de Crédito (SCR) possui natureza de cadastro de inadimplentes, capaz de produzir efeitos negativos no nome da pessoa registrada perante o sistema financeiro, conforme entendimento do STJ. A responsabilidade pela notificação prévia da inclusão do nome do consumidor no SCR é da instituição financeira que remete as informações, nos termos do art. 13, § 2º, da Resolução nº 5.037/2022 do Banco Central. A ausência de notificação prévia, por si só, não autoriza a condenação ao pagamento de danos morais, pois não se trata de dano presumido, cabendo ao consumidor comprovar o alegado dano sofrido. A parte autora não negou a dívida ou a veracidade dos lançamentos, apenas alegou a falta de notificação, e não comprovou qualquer situação de exposição ou vexame decorrente da inclusão de seu nome no SCR. IV. DISPOSITIVO E TESE: Recurso desprovido. Tese de julgamento: "A ausência de notificação prévia para inclusão do nome do consumidor no Sistema de Informações de Crédito do Banco Central (SCR) não gera, por si só, dano moral indenizável, sendo necessária a comprovação do efetivo prejuízo sofrido." V. JURISPRUDÊNCIA E LEIS RELEVANTES CITADAS: CPC, arts. 373, I, 1003, § 5º; Resolução nº 5.037/2022 do Banco Central, art. 13, § 2º; STJ, REsp n. 1.117.319/SC, Rel. Min. Nancy Andrighi, j. 22/02/2011; STJ, AgInt no AREsp 2631473/GO, Rel. Min. Ricardo Villas Bôas Cueva, j. 11/03/2025; STJ, REsp n. 1.864.633/RS, Rel. Min. Paulo Sérgio Domingues, Corte Especial, j. 09/11/2023 (Tema 1059).
+Não foram opostos embargos de declaração.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 186 e 927 do Código Civil, porque o acórdão afastou a responsabilidade civil por ato ilícito decorrente da ausência de notificação prévia à inscrição no SCR, deixando de reconhecer o dever de indenizar por danos morais in re ipsa;
+b) 43, § 2º, do Código de Defesa do Consumidor, pois é exigida comunicação prévia ao consumidor da abertura de ficha, cadastro e registros, sendo ilícita a inscrição no SCR sem notificação e cabível a compensação por danos morais;
+c) 46, 51, §§ 3º e 4º, 54, §§ 3º e 4º, do Código de Defesa do Consumidor, porquanto cláusulas contratuais de adesão não podem afastar o dever legal de notificar previamente, devem ser redigidas com destaque e caracteres legíveis e não podem impor compartilhamento compulsório de dados, sendo abusiva a cláusula que retira a opção do consumidor;
+d) 6º, III, 4º, caput, 6º, caput, e 14 do Código de Defesa do Consumidor, visto que há ofensa ao direito à informação clara e adequada, aos princípios da boa-fé e transparência e à responsabilidade objetiva do fornecedor por falha na prestação do serviço.
+Aduz também ofensa à Lei n. 12.414/2011, porque disciplina bancos de dados de crédito e resguarda direitos do consumidor quanto ao tratamento de informações, reforçando o caráter restritivo do SCR e a necessidade de observância de garantias; bem como à Lei n. 13.709/2018, pois o tratamento e o compartilhamento de dados pessoais financeiros exigem consentimento livre e informado, transparência e base legal adequada, o que não se verifica nas cláusulas compulsórias.
+Invoca ainda a Resolução CMN n. 5.037/2022, art. 13, § 2º, porque determina que a instituição originadora comunique o cliente antes da remessa das informações ao SCR; e a Resolução BACEN n. 4.571/2017, arts. 1º, 2º e 11, visto que o SCR é administrado pelo Banco Central, tem finalidade de monitoramento e intercâmbio de informações e não afasta o dever de comunicação prévia pelo credor.
+Sustenta que o Tribunal de origem divergiu da jurisprudência do STJ ao não reconhecer o caráter restritivo de crédito do SCR e ao afastar o dano moral in re ipsa. Cita os seguintes paradigmas: REsp n. 1.117.319/SC, REsp n. 1.365.284/SC, REsp n. 1.658.228/SP, REsp n. 1.419.697/RS, AgInt no AREsp n. 899.859/AP, AgRg no REsp n. 877.525/RS e AREsp n. 2.686.405/GO. Alega, por fim, interpretação divergente quanto à responsabilidade pela notificação prévia prevista na Resolução CMN n. 5.037/2022 e ao alcance do art. 43, § 2º, do CDC.
+Contrarrazões às fls. 376-383.
+O recurso especial foi admitido às fls. 384-387.
+É o relatório.
+EMENTA
+DIREITO DO CONSUMIDOR. RECURSO ESPECIAL. INSCRIÇÃO NO SISTEMA DE INFORMAÇÕES DE CRÉDITO DO BANCO CENTRAL (SCR) SEM NOTIFICAÇÃO PRÉVIA. RECURSO ESPECIAL NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul em apelação cível nos autos de ação de indenização por dano moral cumulada com exclusão do rol negativo por falta de notificação prévia.
+2. A controvérsia diz respeito à pretensão à condenação por danos morais e exclusão dos registros no SCR por ausência de comunicação antecedente.
+3. O Juízo de primeiro grau julgou improcedentes os pedidos, revogou a liminar e fixou honorários com exigibilidade suspensa pela gratuidade de justiça.
+4. A Corte de origem manteve a improcedência, assentando a necessidade de comprovação de dano e a responsabilidade do fornecedor pela prévia comunicação, majorando os honorários.
+II. QUESTÃO EM DISCUSSÃO
+5. Há três questões em discussão: (i) saber se é possível o conhecimento do recurso por alegada violação de enunciados de súmula e de resoluções do CMN/Bacen; (ii) saber se houve violação dos arts. 186 e 927 do Código Civil e 43, § 2º, 46, 51 e 54 do CDC quanto à necessidade de notificação prévia e à configuração de dano moral in re ipsa; e (iii) saber se foi demonstrado o dissídio jurisprudencial nos termos dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ .
+III. RAZÕES DE DECIDIR
+6. Incide a Súmula n. 518 do STJ, porque não é cabível recurso especial fundado em alegada violação de enunciado de súmula.
+7. Não se conhece da apontada violação de atos normativos infralegais (resoluções CMN/Bacen), pois não possuem natureza de lei federal para fins do art. 105, III, a, da Constituição Federal, relativamente à controvérsia sobre notificação prévia à inscrição no SCR.
+8. Incidem as Súmulas n. 5 e 7 do STJ relativamente à responsabilidade civil e ao dano moral, pois a alteração das conclusões do acórdão recorrido quanto à veracidade da dívida, à inexistência de prova de prejuízo e à ausência de abalo aos direitos da personalidade demandaria interpretação de cláusulas contratuais e reexame do acervo fático-probatório.
+9. Do dissídio jurisprudencial não se pode conhecer, já que não houve cotejo analítico nem indicação adequada do repositório oficial dos paradigmas, além de estar prejudicado quando presentes óbices ao conhecimento do recurso pela alínea a (arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ).
+IV. DISPOSITIVO E TESE
+10. Recurso especial não conhecido.
+Tese de julgamento: "1. Incide a Súmula n. 518 do STJ quando o recurso especial invoca violação de enunciado sumular, hipótese não admitida pelo art. 105, III, a, da Constituição Federal. 2. Incidem as Súmulas n. 5 e 7 do STJ quando a pretensão recursal demanda interpretação de cláusulas contratuais e reexame do conjunto fático-probatório para reconhecer responsabilidade civil e o dano moral por inscrição no SCR. 3. Do dissídio jurisprudencial não se pode conhecer quando ausente cotejo analítico apto a demonstrar similitude fática nos termos dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ e quando presentes óbices ao conhecimento do recurso pela alínea a".
+Dispositivos relevantes citados: CPC, arts. 373, I, 1.003, § 5º, 1.029, § 1º, e 85, § 11; CF, art. 105, III, a e c; CC, arts. 186 e 927; CDC, arts. 4º, caput, 6º, caput, 6º, III, 14, 43, § 2º, 46, 51, §§ 3º e 4º, e 54, §§ 3º e 4º.
+Jurisprudência relevante citada: STJ, Súmulas n. 5, 7 e 518; STJ, AREsp n. 3.010.863/SC, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 16/12/2025.
+VOTO
+I - Contextualização
+A controvérsia diz respeito a ação de indenização por dano moral cumulada com exclusão do rol negativo por falta de notificação prévia. A parte autora pleiteou a condenação ao pagamento de danos morais e a exclusão dos registros no SCR por ausência de comunicação antecedente.
+O Juízo de primeiro grau julgou improcedentes os pedidos e revogou a liminar, condenando a autora ao pagamento das custas e honorários de R$ 2.000,00 com exigibilidade suspensa em razão da gratuidade da justiça.
+A Corte estadual manteve a sentença, negando provimento à apelação. Afirmou que, embora a instituição financeira deva notificar previamente o consumidor antes da remessa dos dados ao SCR, a ausência de notificação, por si só, não configura dano moral presumido. Majorou os honorários para R$ 2.500,00, com correção pelo IPCA e, após o trânsito, com juros pela taxa legal.
+II - Enunciados de súmula e normas infralegais
+Inicialmente, cumpre registrar que o recurso especial não constitui via adequada para a análise de eventual ofensa a enunciado de súmula, por não se enquadrar no conceito de lei federal, conforme o disposto no art. 105, III, a, da Constituição Federal. Incide no ponto o óbice da Súmula n. 518 desta Corte: "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+De igual modo, a insurgência fundada em violação de resoluções ou instruções normativas de órgãos colegiados e agências reguladoras (como as Resoluções CMN/BACEN n. 4.571/2017 e 5.037/2022) refoge à competência atribuída a este Tribunal, porquanto atos administrativos normativos não possuem natureza de lei federal para fins de cabimento do recurso especial.
+III - Arts. 186 e 927 do CC e 43, § 2º, 46, 51 e 54 do CDC
+Quanto à alegada violação dos dispositivos do Código Civil e do Código de Defesa do Consumidor, a pretensão recursal não prospera.
+O acórdão recorrido, analisando o contexto fático-probatório, dispôs o seguinte (fls. 262-265):
+No caso, em razão da inadimplência, foi lançado em nome da parte autora valores em dívidas "em dia" no SCR - Sisbacen (evento 1, CONTR2).
+Cumpre ressaltar que a parte autora sequer nega o débito, mas tão somente que não foi notificada quando da inclusão no SCR.
+..
+Portanto, cabe à instituição financeira a comunicação prévia ao consumidor quando do inclusão do cadastro do operação a ser registrada em seu nome no SCR.
+Entretanto, a ausência de notificação prévia não autoriza a condenação do réu ao pagamento de danos morais, vez que não se trata de dano presumido.
+Era entendimento deste Relator da fixação de indenização por danos morais quanto ausente notificação prévia, todavia, passo a adotar o entendimento majoritário da Câmara quanto ao não cabimento de indenização por danos morais, vez que cabe ao consumidor comprovar o alegado dano sofrido.
+Portanto, entendo que eventual queda de score da autora não o impede de fazer negócios, tampouco o expõe, na medida em que somente os bancos tem acesso às anotações que, salienta-se, não impede o autor de receber crédito.
+..
+Além disso, Sistema de Informações de Crédito (SCR) é uma base de dados desenvolvida e administrada pelo Banco Central, cuja atualização, quanto às operações de crédito dos consumidores, ocorre constantemente
+Desta forma, caberia à autora, cujo nome foi incluído, demonstrar qual a situação de exposição ou vexame que tenha sofrido, vez que, como já mencionado, o dano moral, no caso, não é presumido.
+..
+Ademais, a parte autora não nega a dívida, tampouco a veracidade dos lançamentos, apena refere que não foi notificada quando da inclusão do seu nome.
+Todavia, estando corretos os apontamentos lançados no SCR não há qualquer dano a ser indenizado, mesmo inexistindo notificação prévia de que o nome será anotado.
+Cumpre esclarecer que o pagamento do débito após da anotação no Sistema de Informação de Crédito (SCR) não retroage, tampouco apaga a anotação anterior.
+Portanto, independente da existência de notificação prévia, cabe ao autor, nos termos do art. 373, I, do CPC, comprovar o alegado dano, bem como cuja situação lhe causou exposição ou vexame, o que não se verifica no caso dos autos.
+Desta forma, mantenho a sentença de improcedência. (grifo original)
+Desse modo, para alterar a conclusão do Tribunal de origem quanto à inexistência de prova de prejuízo, à higidez e veracidade da dívida lançada, à ausência de abalo aos direitos da personalidade e ao exame das condições de contratação, seria imprescindível reexaminar as cláusulas contratuais pactuadas e os elementos fático-probatórios produzidos nos autos, procedimento vedado no âmbito do recurso especial, nos termos das Súmulas n. 5 e 7 desta Corte.
+Nesse sentido:
+DIREITO DO CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. INSCRIÇÃO NO SCR SEM NOTIFICAÇÃO PRÉVIA, RESPONSABILIDADE OBJETIVA E DANO MORAL PRESUMIDO. SÚMUJLA N. 7 DO STJ. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial manejado contra decisão do Tribunal de Justiça do Estado de Santa Catarina que inadmitiu o recurso especial por óbice da Súmula n. 7 do STJ.
+2. A controvérsia diz respeito à ação de obrigação de fazer c/c indenização por danos morais, com pedidos de exclusão de anotação no SCR, declaração de inexistência de débito e reparação moral, cujo valor da causa foi fixado em R$ 11.088,66.
+3. A sentença julgou improcedentes os pedidos; a Corte estadual manteve a improcedência ao reputar inaplicável o art. 43, § 2º, do CDC ao SCR, reconhecer que eventual descumprimento da Resolução n. 5.037/2022 configura ilícito administrativo sem dano moral e registrar previsão contratual de envio de dados ao SCR.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se a ausência de notificação prévia para inscrição no SCR viola os arts. 6º, VIII, 14 e 43, § 2º, do CDC, impõe a inversão do ônus da prova, atrai a responsabilidade objetiva da instituição financeira e enseja dano moral presumido.
+III. RAZÕES DE DECIDIR
+5. Incide no caso a Súmula n. 7 do STJ, pois a pretensão recursal demanda reexame de fatos e provas quanto à ausência de notificação prévia, à regularidade da inscrição, à existência do débito e à configuração de dano moral.
+IV. DISPOSITIVO E TESE
+6. Agravo em recurso especial desprovido.
+Tese de julgamento: "A Súmula n. 7 do STJ impede o reexame do conjunto fático-probatório em recurso especial, sendo aplicável quando a pretensão recursal demanda revisão de fatos e provas".
+Dispositivos relevantes citados: Código de Defesa do Consumidor, arts. 6º, VIII; 14; 43, § 2º.
+Jurisprudência relevante citada: STJ, Súmula n. 7. (AREsp n. 3.010.863/SC, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 16/12/2025, DJEN de 22/12/2025, destaquei.)
+Afastada a premissa de ilicitude da conduta da instituição financeira, fica, por consequência, prejudicada a análise da ocorrência de dano moral. A conclusão do Tribunal de origem pela regularidade da inscrição impede o reconhecimento de ato ilícito e, por via de consequência, do dever de indenizar.
+IV - Dissídio jurisprudencial
+Na interposição de recurso especial com fundamento na alínea c, impõe-se a observância dos requisitos para a demonstração do dissídio jurisprudencial, nos termos dos arts. 1.029, § 1º, do Código de Processo Civil e 255, § 1º, do RISTJ. Não basta a mera transcrição das ementas dos paradigmas ou a indicação genérica da divergência: exige-se a juntada do inteiro teor dos acórdãos tidos por divergentes ou a indicação do repositório oficial em que foram publicados, sobretudo a realização de cotejo analítico apto a evidenciar a similitude fática entre os casos confrontados.
+No caso, tais exigências não foram atendidas, razão pela qual fica prejudicada a apreciação da alegada divergência jurisprudencial.
+Ademais, a incidência de óbices sumulares quanto ao conhecimento da insurgência pela alínea a impede o exame do recurso pela alínea c sobre as mesmas questões. Confira-se precedente:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO. PACOTE TURÍSTICO E SEGURO SAÚDE PARA VIAGEM INTERNACIONAL. AUSÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO SUPOSTAMENTE VIOLADO. SÚMULA 211 DO STJ. INCIDÊNCIA. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1. .. .
+2. É firme o entendimento desta Corte no sentido de que "os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a análise do dissídio jurisprudencial" (STJ, AgInt no REsp 1.503.880/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 08/03/2018).
+3. Agravo interno não provido. (AgInt no AREsp n. 1.904.140/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/2/2022, DJe de 25/2/2022.)
+No mesmo sentido: AgRg no AREsp n. 16.879/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 19/4/2012, DJe de 27/4/2012; AgInt no AREsp n. 1.898.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/6/2022, DJe de 30/6/2022; AgInt no AREsp n. 1.866.385/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/5/2022, DJe de 18/5/2022; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1º/9/2022.
+V - Conclusão
+Ante o exposto, não conheço do recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 5% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+É o voto.
