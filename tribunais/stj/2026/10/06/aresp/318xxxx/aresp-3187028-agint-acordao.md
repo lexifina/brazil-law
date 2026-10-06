@@ -1,0 +1,84 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 29/09/2026 a 06/10/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Isabel Gallotti.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. EXECUÇÃO. EXPEDIÇÃO DE OFÍCIOS AO CAGED E AO INSS PARA SUBSIDIAR PENHORA DE VERBAS REMUNERATÓRIAS. ÓBICES DAS SÚMULAS 283 E 284/STF E 7/STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que conheceu do agravo para não conhecer do recurso especial, em execução na qual se requereu a expedição de ofícios ao Cadastro Geral de Empregados e Desempregados (Caged) e ao Instituto Nacional do Seguro Social (INSS), com a finalidade de subsidiar pedido de penhora parcial de rendimentos.
+2. Na decisão singular, consignou-se a incidência das Súmulas 284/STF (deficiência de fundamentação e ausência de impugnação específica) e 7/STJ (reexame de fatos e provas). O agravante sustenta o afastamento desses óbices, afirma ser a controvérsia estritamente de direito e requer o conhecimento do recurso especial e a autorização das diligências executivas.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o agravo interno afasta os óbices das Súmulas 283 e 284/STF e 7/STJ, demonstrando impugnação específica de fundamento suficiente do acórdão recorrido e a natureza exclusivamente jurídica da controvérsia.
+III. Razões de decidir
+4. A decisão agravada deve ser mantida, pois subsiste fundamento autônomo do acórdão recorrido  ausência de demonstração da utilidade da expedição de ofícios  não impugnado nas razões do recurso especial, o que atrai, por analogia, as Súmulas 283 e 284 do Supremo Tribunal Federal.
+5. A revisão da conclusão do Tribunal de origem quanto à utilidade da diligência demanda reexame do conjunto fático-probatório, providência vedada em recurso especial, conforme a Súmula 7 do STJ.
+IV. Dispositivo
+6. Resultado do Julgamento: Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MIN. LUÍS CARLOS GAMBOGI (DESEMBARGADOR CONVOCADO DO TJMG) - Relator: Cuida-se de agravo interno interposto por DISTRIBUIDORA BRASILIENSE DE BATERIAS LIMITADA, contra decisão monocrática que conheceu do agravo para não conhecer do recurso especial da ora insurgente.
+O apelo extremo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim ementado:
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. ENVIO. OFÍCIO. CADASTRO GERAL DE EMPREGADOS E DESEMPREGADOS (CAGED). INSTITUTO NACIONAL DO SEGURO SOCIAL (INSS). PENHORA. SALÁRIO. BENEFÍCIO PREVIDENCIÁRIO. DÍVIDA NÃO ALIMENTAR. CINQUENTA SALÁRIOS-MÍNIMOS. VALOR INFERIOR. IMPOSSIBILIDADE. DIGNIDADE. DEVEDOR. GARANTIA. PROVA. ÔNUS. CREDOR. UTILIDADE. AUSÊNCIA. AGRAVO DE INSTRUMENTO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo de instrumento interposto contra decisão que indeferiu o requerimento de expedição de ofício ao Cadastro Geral de Empregados e Desempregados (Caged) e ao Instituto Nacional do Seguro Social (INSS).
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em analisar a possibilidade de expedição de ofício ao Cadastro Geral de Empregados e Desempregados (Caged) e ao Instituto Nacional do Seguro Social (INSS) para informar se Wesley Teixeira da Silva recebe benefício previdenciário ou possui vínculo empregatício com o fim de subsidiar requerimento de penhora parcial de seus rendimentos.
+III. RAZÕES DE DECIDIR
+3. A adoção de medidas atípicas na fase executiva é possível, especialmente em atenção ao princípio da cooperação e da efetividade da prestação jurisdicional. A análise acerca do cabimento de referidas medidas atípicas no caso concreto impõe o esgotamento das medidas ordinárias e a demonstração de indícios mínimos de que aquelas possibilitariam a satisfação do crédito, o que justificaria a movimentação da máquina pública.
+4. Exceções à impenhorabilidade salarial estão previstas no art. 833, § 2º, do Código de Processo Civil, que permite a penhora para pagamento de prestações alimentícias e quando o valor dos rendimentos excede cinquenta (50) salários-mínimos.
+5. Não se admite a penhora salarial para o pagamento de dívida relativa a honorários advocatícios nos termos do art. 833, § 2º, do Código de Processo Civil (Tema Repetitivo n. 1.153 do Superior Tribunal de Justiça).
+6. A Corte Especial do Superior Tribunal de Justiça admite a penhora de verbas remuneratórias para quitação de dívidas não alimentares de forma excepcional, desde que não existam outros meios para garantir o pagamento do débito e que a dignidade do devedor seja preservada.
+7. A ausência de demonstração na utilidade da expedição de ofício requerida impede o seu deferimento. IV. DISPOSITIVO E TESE
+8. Agravo de instrumento desprovido.
+No apelo extremo, a parte recorrente aduz violação ao art. 833, IV e § 2º, do CPC, no que concerne à necessidade de expedição de ofícios ao CAGED e ao INSS para viabilizar a análise da penhora parcial de verbas remuneratórias, em razão de ser admissível a relativização da impenhorabilidade salarial quando preservada a dignidade do devedor e esgotados outros meios de satisfação do crédito.
+Em julgamento de admissibilidade (fls. 140-143, e-STJ), negou-se o processamento do recurso especial, dando conjunto ao agravo de fls. 147-159, e-STJ.
+Sem contraminuta.
+Em decisão singular (fls. 174-178, e-STJ), conheceu-se do agravo para não conhecer do recurso especial, ante: a) incidência da Súmula 284/STF, por dissociação das razões do recurso especial em relação aos fundamentos do acórdão recorrido e ausência de impugnação específica; b) incidência da Súmula 7/STJ, por demandar o acolhimento da pretensão recursal o reexame do acervo fático-probatório.
+Sem contraminuta.
+Daí o presente agravo interno (fls. 182-194, e-STJ), no qual a parte agravante sustenta o afastamento das Súmulas 284/STF e 7/STJ, afirmando ter havido impugnação específica aos fundamentos do acórdão recorrido e que a controvérsia é estritamente de direito, limitada à possibilidade jurídica de expedição de ofícios ao CAGED e ao INSS, à luz dos arts. 6, 139, IV, 797 e 833, IV e § 2º, do CPC, além de requerer o conhecimento do recurso especial e a autorização das diligências executivas.
+Sem contraminuta.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. EXECUÇÃO. EXPEDIÇÃO DE OFÍCIOS AO CAGED E AO INSS PARA SUBSIDIAR PENHORA DE VERBAS REMUNERATÓRIAS. ÓBICES DAS SÚMULAS 283 E 284/STF E 7/STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que conheceu do agravo para não conhecer do recurso especial, em execução na qual se requereu a expedição de ofícios ao Cadastro Geral de Empregados e Desempregados (Caged) e ao Instituto Nacional do Seguro Social (INSS), com a finalidade de subsidiar pedido de penhora parcial de rendimentos.
+2. Na decisão singular, consignou-se a incidência das Súmulas 284/STF (deficiência de fundamentação e ausência de impugnação específica) e 7/STJ (reexame de fatos e provas). O agravante sustenta o afastamento desses óbices, afirma ser a controvérsia estritamente de direito e requer o conhecimento do recurso especial e a autorização das diligências executivas.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o agravo interno afasta os óbices das Súmulas 283 e 284/STF e 7/STJ, demonstrando impugnação específica de fundamento suficiente do acórdão recorrido e a natureza exclusivamente jurídica da controvérsia.
+III. Razões de decidir
+4. A decisão agravada deve ser mantida, pois subsiste fundamento autônomo do acórdão recorrido  ausência de demonstração da utilidade da expedição de ofícios  não impugnado nas razões do recurso especial, o que atrai, por analogia, as Súmulas 283 e 284 do Supremo Tribunal Federal.
+5. A revisão da conclusão do Tribunal de origem quanto à utilidade da diligência demanda reexame do conjunto fático-probatório, providência vedada em recurso especial, conforme a Súmula 7 do STJ.
+IV. Dispositivo
+6. Resultado do Julgamento: Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO LUÍS CARLOS GAMBOGI (DESEMBARGADOR CONVOCADO DO TJMG) - Relator: O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte recorrente são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida, por seus próprios fundamentos.
+1. A Corte de origem concluiu que a ausência de demonstração na utilidade da expedição de ofício ao órgão empregador para apuração de eventual vínculo empregatício do devedor impede o seu deferimento.
+Cita-se o excerto correspondente (fls. 95-96, e- STJ):
+ ..  É ônus do credor carrear aos autos lastro probatório mínimo que indique que a pretensão de penhora não afeta o sustento do devedor. Distribuidora Brasiliense de Baterias Ltda. não apresentou documento que corrobore sua eventual pretensão de penhora de percentual salarial, principalmente porque a simples análise dos rendimentos de Wesley Teixeira da Silva não permite a conclusão de que a dignidade deste e de seu núcleo familiar estão garantidas.
+A aferição sobre a real capacidade econômica de Wesley Teixeira da Silva, bem como a possibilidade de penhora de percentual da sua remuneração, sem afrontar sua dignidade, demanda a análise da existência e natureza de outros compromissos assumidos por ele, como, por exemplo, despesas com tratamento de saúde seu ou de um familiar ou débitos fiscais, o que não restou demonstrado.
+O caso em análise não se amolda àquelas situações excepcionais consideradas pela jurisprudência que autorizam a mitigação da impenhorabilidade dos proventos aferidos pelo devedor, principalmente em razão da ausência de provas, por parte de Distribuidora Brasiliense de Baterias Ltda., de que a penhora parcial do salário de Wesley Teixeira da Silva não comprometerá a sua subsistência digna.
+Eventual requerimento de penhora de percentual do salário de Wesley Teixeira da Silva, portanto, não pode ser deferido, de modo que ausente a utilidade da expedição de ofício requerida.
+O fundamento do aresto hostilizado, quanto à necessária demonstração da utilidade da expedição da medida para manutenção do decisum - no ponto -, não foi rebatido nas razões do recurso especial.
+Diante da deficiência na fundamentação recursal pela ausência de combate ao fundamento que se mostra suficiente para manter o decisum recorrido, incide, por analogia, as Súmulas 283 e 284 do STF.
+Nesse mesmo sentido, transcreve-se os seguintes precedentes:
+CONSUMIDOR E CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CLÁUSULA EXCLUDENTE DA COBERTURA. APOSENTADORIA POR INVALIDEZ. SFH. ACÓRDÃO FUNDADO NO CDC. NULIDADE DA CLÁUSULA. ART. 51, IV, DO CDC. ESPECIAL DISTANCIANDO-SE DA FUNDAMENTAÇÃO DO ACÓRDÃO. TESE SUFICIENTE NÃO IMPUGNADA. SÚMULAS 283 E 284 DO STF. PREQUESTIONAMENTO. INEXISTÊNCIA. AGRAVO NÃO PROVIDO.  ..  3. A falta de combate a fundamento suficiente para manter o acórdão recorrido bem como as razões recursais dissociadas daquilo que ficou decidido pelo Tribunal de origem demonstram deficiência de fundamentação do recurso, o que atrai, por analogia, os óbices das Súmulas n. 283 e 284 do Supremo Tribunal Federal. 4. Agravo regimental não provido. (AgRg no REsp 1507662 /PB, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2015, DJe 28/08/2015)  grifou-se
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. PROTESTO. DUPLICATA. RECEBIMENTO DE MERCADORIAS. MOTIVAÇÕES. FUNDAMENTO NÃO REFUTADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 283 E 284/STF. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. DECISÃO MANTIDA PELOS PRÓPRIOS FUNDAMENTOS.  ..  2. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado, configura deficiente fundamentação do recurso especial, de acordo com as súmulas 283 e 284/STF.  ..  4. Agravo regimental não provido. (AgRg no REsp 1286749/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/06/2015, DJe 29/06/2015)  grifou-se
+2. Outrossim, a parte recorrente pretende obter a expedição de ofícios ao CAGED e ao INSS, com a finalidade de verificar eventual vínculo empregatício e/ou recebimento de benefício previdenciário pela parte recorrid a. Sobre o tema, a Corte de origem assim consignou (fl. 95, e-STJ):
+A aferição sobre a real capacidade econômica de Wesley Teixeira da Silva, bem como a possibilidade de penhora de percentual da sua remuneração, sem afrontar sua dignidade, demanda a análise da existência e natureza de outros compromissos assumidos por ele, como, por exemplo, despesas com tratamento de saúde seu ou de um familiar ou débitos fiscais, o que não restou demonstrado.
+O caso em análise não se amolda àquelas situações excepcionais consideradas pela jurisprudência que autorizam a mitigação da impenhorabilidade dos proventos aferidos pelo devedor, principalmente em razão da ausência de provas, por parte de Distribuidora Brasiliense de Baterias Ltda., de que a penhora parcial do salário de Wesley Teixeira da Silva não comprometerá a sua subsistência digna.
+Eventual requerimento de penhora de percentual do salário de Wesley Teixeira da Silva, portanto, não pode ser deferido, de modo que ausente a utilidade da expedição de ofício requerida.
+No ponto, o órgão julgador, amparado nas peculiaridades do caso concreto e nas provas acostadas aos autos, concluiu que embora seja possível a utilização da medida pretendida (expedição de ofício ao CAGED e/ou INSS), no caso concreto não se comprovou a sua utilidade, razão pela qual se impõe a manutenção da decisão interlocutória que negara o mencionado pedido.
+Para alterar tais conclusões, na forma como posta nas razões do apelo extremo, seria necessário o revolvimento de aspectos fáticos e provas dos autos, providência vedada em sede de recurso especial, a teor da Súmula 7/STJ.
+Nesse sentido:
+DIREITO CIVIL E DIREITO DE FAMÍLIA. AGRAVO EM RECURSO ESPECIAL. REVISIONAL DE ALIMENTOS. ALTERAÇÃO DO BINÔMIO NECESSIDADE-CAPACIDADE. CERCEAMENTO DE DEFESA. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+(..) 7. Conforme entendimento do STJ, não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova. Cabe ao juiz decidir motivadamente, sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias.
+8. No caso, o Tribunal de origem concluiu pela desnecessidade da expedição de ofício à empregadora do alimentante, considerando que os contracheques já haviam sido juntados aos autos.
+9. O acórdão recorrido está alinhado à jurisprudência desta Corte (Súmula n. 83 do STJ) e a revisão da utilidade da prova demanda reexame fático-probatório (Súmula n. 7 do STJ).
+(..) (AREsp n. 2.970.110/SE, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 16/3/2026, DJEN de 19/3/2026.) Grifou-se.
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. CERCEAMENTO DE DEFESA. INSTITUIÇÃO FINANCEIRA. SAQUES FRAUDULENTOS PRATICADOS POR TERCEIROS. CLIENTE FALECIDO. PROCURAÇÃO PÚBLICA. ASSINATURA FALSA. RESPONSABILIDADE OBJETIVA. FORTUITO INTERNO. MATÉRIA OBJETO DE RECURSO REPRESENTATIVO DA CONTROVÉRSIA. DANOS MORAIS DEVIDOS. SUCUMBÊNCIA. SÚMULA 326/TJ. RECURSO DESPROVIDO.
+1. No que respeita ao pedido de expedição de ofício ao Cartório onde teria sido lavrada a procuração, a Corte local afirmou que referido documento já consta dos autos, além de ser prova desnecessária para o deslinde da questão. Nesse contexto, acolher a alegação do recorrente no sentido de ser imprescindível a expedição do referido ofício, sob pena de cerceamento de defesa, demandaria revisão de fatos e provas, providência que encontra óbice na Súmula 7/STJ.
+(..) (AgRg no REsp n. 1.378.791/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 24/11/2015, DJe de 15/12/2015.) Grifou-se.
+Desta forma, para alterar o entendimento do Tribunal local, na forma como posta, seria necessário novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme previsto na Súmula 7/STJ.
+3. No caso em tela, não se verifica o intuito meramente protelatório do presente agravo interno, não havendo justificativa para imposição da sanção prevista no artigo 1.021, § 4º, do CPC.
+Desde já, entretanto, advirta-se que a utilização de expedientes protelatórios poderá ensejar a aplicação das penalidades legais.
+4. Do exposto, nego provimento ao agravo interno.
+É como voto.
