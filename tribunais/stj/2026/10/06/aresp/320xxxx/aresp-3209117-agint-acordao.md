@@ -1,0 +1,78 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 29/09/2026 a 06/10/2026, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Luís Carlos Gambogi (Desembargador Convocado do TJMG), João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Maria Isabel Gallotti.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE NULIDADE. RELAÇÃO DE CONSUMO. FRAUDE BANCÁRIA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. DECISÃO MANTIDA.
+1. Nos termos do art. 932, III, do Código de Processo Civil e do art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não se conhece de agravo em recurso especial cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação do enunciado 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por ANA CAROLINE ALVES DE ABREU contra decisão singular da lavra do Ministro Presidente do STJ pela qual o agravo em recurso especial não foi conhecido em virtude da incidência da Súmula 182/STJ (fls. 953-954).
+Nas razões do presente agravo interno, a parte agravante alega que o agravo em recurso especial impugnou de forma específica todos os fundamentos da decisão de admissibilidade.
+Afirma ter afastado a incidência da Súmula 7/STJ, argumentando que delimitou os fatos essenciais constantes do acórdão recorrido e que a discussão envolve violação dos arts. 6º, VIII, e 14 do Código de Defesa do Consumidor.
+A parte agravada NU Pagamentos S.A. apresentou impugnação às fls. 968-971.
+Decorreu o prazo sem apresentação de impugnação pela parte agravada Stone Instituição de Pagamento S.A., conforme certidão de decurso de prazo (fl. 983)
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE NULIDADE. RELAÇÃO DE CONSUMO. FRAUDE BANCÁRIA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. DECISÃO MANTIDA.
+1. Nos termos do art. 932, III, do Código de Processo Civil e do art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não se conhece de agravo em recurso especial cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação do enunciado 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+VOTO
+Os argumentos jurídicos trazidos nas razões do presente recurso não se prestam a modificar os fundamentos da decisão agravada.
+O Tribunal de origem não admitiu o recurso especial em razão da incidência da Súmula 7/STJ (fls. 911-913)
+Da análise das razões do agravo em recurso especial, verifica-se que não houve impugnação específica e suficiente para infirmar os fundamentos da decisão, uma vez que a recorrente não rebateu a incidência do óbice da Súmula 7 do STJ, limitando-se a alegações genéricas quanto à inaplicabilidade da Súmula.
+Esclareça-se que, em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica a todos os pontos analisados na decisão recorrida, sob pena de não conhecimento por ausência de cumprimento dos requisitos exigidos nos arts. 932, III, e 1.021, § 1º, do Código de Processo Civil de 2015, segundo os quais não se conhece do agravo que não ataca especificamente todos os fundamentos da decisão agravada.
+A propósito, nos EAREsp 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, DJe 30/11/2018, a Corte Especial do STJ consolidou o entendimento no sentido de que o recorrente deve impugnar especificamente todos os fundamentos da decisão que não admite o recurso especial, sob pena de não conhecimento do agravo, por aplicação da Súmula 182/STJ.
+Assim, não há possibilidade de impugnação parcial da decisão que deixa de admitir recurso especial, já que tal decisão é incindível e deve ser impugnada em sua integralidade. Nesse sentido, cito os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO APELO ESPECIAL. ART. 932, III, DO CPC/2015. PRECLUSÃO CONSUMATIVA. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. AGRAVO DESPROVIDO.
+1. Cabe ao agravante, nas razões do agravo, trazer argumentos suficientes para contestar a decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem. A ausência de impugnação de todos os fundamentos da decisão agravada enseja o não conhecimento do agravo, nos termos do art. 932, III, do CPC de 2015.
+2. Não tendo os insurgentes refutado os fundamentos da decisão de inadmissibilidade no momento processual oportuno, não cabe fazê-lo no âmbito do agravo interno, considerada a preclusão consumativa operada pela interposição do recurso antecedente.
+(..)
+4. Agravo interno desprovido.
+(AgInt no AREsp 1902856/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 11/10/2021, DJe 14/10/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO, ANTE A AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Consoante expressa previsão contida nos artigos 932, III, do CPC/15 e 253, I, do RISTJ e em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão que inadmitiu o apelo extremo, o que não aconteceu na hipótese. Incidência da Súmula 182 do STJ.
+2. São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte autora, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada. Precedentes. 3. Agravo interno desprovido.
+(AgInt no AREsp 1904123/MA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 4/10/2021, DJe 8/10/2021)
+Saliente-se que, conforme expresso no julgado acima, não basta a mera impugnação genérica aos fundamentos da decisão agravada, porquanto, à luz do princípio da dialeticidade, cabe ao agravante explicitar, de forma articulada e argumentativa, os motivos pelos quais não incidem os óbices apontados, sob pena de vê-los mantidos.
+Especificamente no que toca à impugnação da Súmula 7/STJ, este Superior Tribunal de Justiça entende que "não basta a afirmação genérica de que não se pretende o reexame de provas, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do referido óbice processual" (AREsp 1280316/SP, Relator Ministro Og Fernandes, Segunda Turma, DJe 28/5/2019). A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM. PRINCIPIO DA DIALETICIDADE. ART. 932, III, DO CPC DE 2.015. IRRESIGNAÇÃO GENÉRICA. NÃO CABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo em recurso especial, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao reclamo.
+2. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 932, III, do CPC de 2.015 e art. 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado.
+3. Para afastar o fundamento, da decisão agravada, de incidência do óbice da Súmula 7/STJ não basta apenas deduzir alegação genérica de presença dos requisitos de admissibilidade, ou de inaplicabilidade do referido óbice ou, ainda, que a tese defensiva não demanda reexame de provas. Para tanto o recorrente deve desenvolver argumentação que demonstre como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem nova análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão objurgado, ônus do qual, contudo, não se desobrigou.
+4. Agravo interno não provido.
+(AgInt no AREsp 1970371/SP, Relator Ministro Luis Felipe Salomão, Quarta Turma, DJe 17/12/2021 - sem destaques no original)
+Não houve, portanto, impugnação específica e suficiente nas razões do agravo em recurso especial para infirmar os fundamentos da decisão que não admitiu o recurso especial.
+Ademais, ainda que superado o óbice da Súmula 182/STJ, o recurso especial não merece conhecimento.
+Trata-se de recurso especial manejado, com base na alínea "a" do inciso III do art. 105 da Constituição Federal, contra acórdão assim ementado (fl. 858):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE CUMULADA COM OBRIGAÇÃO DE FAZER, RESTITUIÇÃO DE IMPORTÂNCIAS E INDENIZAÇÃO POR DANOS MORAIS COM PEDIDO DE TUTELA DE URGÊNCIA. FRAUDE BANCÁRIA. GOLPE DE PHISHING. CULPA EXCLUSIVA DO CONSUMIDOR. SENTENÇA MANTIDA.
+1. A relação jurídica entre as partes é de consumo, aplicando-se as disposições do Código de Defesa do Consumidor, conforme a Súmula nº 297 do STJ.
+2. A transferência via PIX realizada voluntariamente pela consumidora, que acessou anúncio fraudulento em rede social e efetuou o pagamento, caracteriza golpe de engenharia social (phishing), e não uma invasão de conta ou falha no sistema de segurança bancário.
+3. A ausência de responsabilidade das instituições financeiras é justificada pela culpa exclusiva da consumidora, que age sem a cautela e diligência necessárias antes de realizar a transação, nos termos do art. 14, §3º, II, do Código de Defesa do Consumidor
+4. A Súmula nº 479 do STJ não se aplica quando não ocorre fraude no sistema bancário, mas sim, golpe aplicado fora do ambiente bancário que induz a vítima a agir voluntariamente.
+5. Não é possível exigir das instituições financeiras um dever de vigilância sobre as transações realizadas por seus clientes de forma a restringir indevidamente a autonomia dos correntistas.
+6. Ausente a ilicitude na conduta das instituições financeiras e configurada a culpa exclusiva do consumidor, são improcedentes os pedidos de declaração de nulidade da transferência, restituição de valores e indenização por danos morais.
+7. Em consonância com o disposto no artigo 85, §11, do Código de Processo Civil, majora-se a verba advocatícia fixada em primeiro grau, observando a determinação contida no artigo 98, §3º, do Código de Processo Civil, quando a parte é beneficiária da gratuidade da Justiça. APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA. SENTENÇA MANTIDA.
+Nas razões do recurso especial, a parte recorrente aponta violação aos arts. 6º, VIII, e 14 do Código de Defesa do Consumidor.
+Defende a responsabilidade objetiva das instituições financeiras em razão da falha na prestação de serviço, evidenciada pela ausência de mecanismos eficazes de segurança para impedir a concretização da fraude, permitindo transferências indevidas.
+Pois bem. Cuida-se na origem de ação declaratória de nulidade cumulada com obrigação de fazer, restituição de importâncias e indenização por danos morais, em razão de golpe de engenharia social.
+O Tribunal de origem manteve a sentença de improcedência que reconheceu culpa exclusiva da autora e inexistência de falha do serviço, conforme se verifica da fundamentação abaixo transcrita (fls. 866-869):
+(..)
+No caso dos autos, verifica-se que a Apelante/Autora alega que foi vítima de fraude, consistente em transferência via PIX, no valor de R$ 68,01 (sessenta e oito reais e um centavo).
+Trouxe aos autos extrato de sua conta bancária mantida na Instituição Financeira NU PAGAMENTOS S/A - INSTITUIÇÃO DE PAGAMENTO, ora Segunda Apelada, no qual consta transferência via PIX, no valor de R$ 68,01 (sessenta e oito reais e um centavo), realizada em 07.08.2024 para a conta-corrente de "Zippify Educação e Tecnologia Ltda" (movimentação 01, arquivo 11).
+Colacionou cópia do Registro de Atendimento Integrado nº 37267763, no qual noticia o fato (movimentação 01, arquivo 12). Confira-se:
+"Cliquei em um anúncio no Instagram sobre a Caixa Econômica Federal, falando que eu teria um valor a receber, mas para isso eu teria que pagar um valor de R$68,01 e em algumas horas, o valor a receber iria cair na minha conta. Fiz o pagamento no valor de R$68,01 no nome de Zippify Educação e Tecnologia Ltda, no dia 07/08/2024, mas não recebi o valor que constava na informação do anúncio. Depois pediu para pagar mais R$32,00, mas não paguei. Solicitei a contestação ao banco NUBANK, mas o banco se negou a reembolsar o valor."
+No caso, a Apelante/Autora reconhece que acessou anúncio fraudulento em rede social e, por livre vontade, efetuou o pagamento de R$ 68,01 (sessenta e oito reais e um centavo) acreditando em promessa de retorno financeiro.
+Observa-se que não houve invasão da conta ou falha no sistema de segurança do banco, um golpe de engenharia social, em que a vítima, acreditando em informação falsa, realizou voluntariamente a transferência (tipo phishing).
+A transferência via pix foi realizada pela Apelante/Autora de forma voluntária, em equipamento cadastrado junto ao banco e mediante senha pessoal e intransferível.
+Os Bancos Apelados/Requeridos não participaram das tratativas entre a Apelante/Autora e a empresa que recebeu o valor via pix, razão pela qual não contribuíram para a fraude.
+Importante ressaltar que não é possível exigir das instituições financeiras um dever de vigilância sobre o mérito das transações realizadas por seus clientes a ponto de restringir indevidamente a autonomia dos correntistas.
+Houve culpa exclusiva da consumidora, ora Apelante/Autora, que não agiu com a cautela e diligência necessária para conferir a autenticidade do anúncio antes de realizar a transferência, razão pela qual mostra-se inviável responsabilizar as Instituições Financeiras.
+Este tem sido o entendimento deste Egrégio Tribunal de Justiça:
+(..)
+Uma vez que a transferência foi realizada por livre espontânea vontade pela Autora/Apelante, não há se falar em prática de ato ilícito pelos Bancos Apelados, sendo inviável a determinação da restituição de valor e a condenação por danos morais.
+Assim, demonstrada a culpa exclusiva da consumidora, ora Apelante/Autora, a sentença apelada deve ser mantida por estes e seus próprios fundamentos.
+Da leitura do acórdão recorrido, verifica-se que o Tribunal de origem reconheceu a culpa exclusiva da consumidora, que voluntariamente acessou anúncio fraudulento veiculado em rede social e efetuou a transferência acreditando em promessa de retorno financeiro, afastando, por conseguinte, a existência de falha na prestação do serviço bancário ou de fraude perpetrada no âmbito do sistema financeiro.
+Alterar a conclusão a que chegou o Tribunal de origem, no que se refere à ausência de responsabilidade objetiva das instituições financeiras, demandaria, necessariamente, o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na Súmula 7/STJ.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
