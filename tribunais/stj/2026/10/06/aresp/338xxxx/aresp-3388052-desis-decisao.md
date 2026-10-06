@@ -1,0 +1,24 @@
+DESIS no AGRAVO EM RECURSO ESPECIAL Nº 3388052 - SC (2026/0397094-0)
+
+RELATOR: MINISTRO PRESIDENTE DO STJ
+
+REQUERENTE: BANCO DO BRASIL SA
+
+ADVOGADO: JULIO CESAR LOPES E OUTRO(S) - MG201101
+
+REQUERIDO: LEOCIR BARBOSA
+
+ADVOGADO: SEM REPRESENTAÇÃO NOS AUTOS - SE000000M
+
+EMENTA
+
+DECISÃO
+
+Homologo a desistência do Agravo em Recurso Especial (fl. 169) interposto nos presentes autos por BANCO DO BRASIL SA.
+No mais, encaminhem-se os autos à origem.
+Publique-se. Intimem-se.
+
+Brasília, 06 de outubro de 2026.
+
+MINISTRO LUIS FELIPE SALOMÃO
+Presidente
