@@ -1,0 +1,64 @@
+HABEAS CORPUS Nº 1125731 - SP (2026/0368775-5)
+
+RELATOR: MINISTRO RIBEIRO DANTAS
+
+IMPETRANTE: DEFENSORIA PÚBLICA DO ESTADO DE SÃO PAULO
+
+ADVOGADO: DEFENSORIA PÚBLICA DO ESTADO DE SÃO PAULO
+
+IMPETRADO: TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO
+
+PACIENTE: KAIQUE GOMES SOUSA
+
+INTERES.: MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO
+
+EMENTA
+
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de KAIQUE GOMES SOUSA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que deu provimento ao agravo em execução ministerial, nos termos do acórdão assim ementado:
+
+"AGRAVO EM EXECUÇÃO PENAL – INDULTO DECRETO Nº 12.790/2025 – CONCESSÃO – PENA RESTRITIVA DE DIREITOS – ACOLHIMENTO – Artigo 9º inciso VII do Decreto Presidencial que estabelece requisito específico para a concessão do benefício para penas restritivas de direitos – Sentenciado que não cumpriu o requisito objetivo de cumprimento de 1/6 da pena para a concessão do benefício – Impossibilidade de interpretação extensiva do decreto presidencial cujos contornos são pautados por juízo de conveniência e oportunidade – Decisão reformada – DERAM PROVIMENTO AO RECURSO" (e-STJ, fl. 10).
+Neste writ, a Defensoria Pública sustenta, em síntese, que: a) o art. 9º, XV, do Decreto n. 12.790/2025 alcança condenados cuja pena privativa de liberdade foi substituída por pena restritiva de direitos, à vista do art. 3º, I, do próprio decreto, inexistindo exclusividade dos incisos VII e IX para essa situação e vedada interpretação que restrinja além dos limites do ato de clemência estatal; b) a exigência de reparação do dano no art. 9º, XV, deve ser afastada nas hipóteses excepcionais do art. 12, § 2º, da norma, aplicáveis ao caso pela assistência da Defensoria Pública e pela fixação do valor do dia‑multa no mínimo legal, com presunção de incapacidade econômica não desconstituída pelo Ministério Público; e c) houve inobservância de formalidade pela autoridade coatora ao exigir prova de reparação do dano do sentenciado em hipóteses de presunção legal de incapacidade econômica, configurando constrangimento ilegal.
+Pleiteia a cassação do acórdão e o restabelecimento da decisão de primeiro grau que concedeu o indulto.
+O pedido de medida liminar foi indeferido.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus.
+É o relatório.
+A Terceira Seção desta Corte Superior – ao enfrentar a questão de ordem suscitada no julgamento, em 10/6/2020, do HC n. 535.063/SP – pacificou a orientação no sentido de que é incabível a impetração de habeas corpus em substituição ao recurso legalmente previsto para a hipótese. Naquela oportunidade, no entanto, asseverou-se a necessidade de proceder à análise das razões da impetração com o intuito de verificar a eventual existência de coação ilegal apta a justificar o exercício da competência prevista no art. 654, § 2º, do CPP, para expedir de ofício ordem de habeas corpus.
+Na espécie, tratando-se de habeas corpus substitutivo do recurso próprio, impõe-se o seu não conhecimento. Não obstante, passo à análise das razões da impetração, de forma a verificar a eventual ocorrência de flagrante ilegalidade que possa justificar a concessão da ordem, de ofício.
+Com efeito, a Quinta e a Sexta Turmas desta Corte, por meio de interpretação sistemática do Decreto n. 12.338/2024, firmaram o entendimento de que é possível a aplicação do indulto com base no inciso XV do art. 9º mesmo após a substituição de pena privativa de liberdade por penas restritivas de direitos (art. 3º, I).
+Advertiram, contudo, que a previsão do inciso VII do art. 9º – relativa à fração mínima de pena cumprida até 25/12/2024 (1/6, se não reincidente, ou 1/5, se reincidente) – representa requisito objetivo geral quanto às penas restritivas de direitos para fins de concessão do indulto com fundamento nesse decreto.
+Sendo assim, como os arts. 3º, I, 9º, VII, e 9º, XV, do Decreto n. 12.338/2024 têm redações muito semelhantes às dos correspondentes dispositivos do Decreto n. 12.790/2025, substituída a pena privativa de liberdade por restritivas de direitos, o atendimento do requisito temporal do inciso VII condiciona a incidência da hipótese concessiva do inciso XV: exige-se o cumprimento, até 25/12/2025, da fração mínima de 1/6, se não reincidente, ou 1/5, se reincidente, em relação a cada uma das penas restritivas impostas ao condenado.
+A propósito:
+
+"DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO NATALINO. DECRETO N. 12.338/2024. PENAS RESTRITIVAS DE DIREITOS. REQUISITO TEMPORAL MÍNIMO INDIVIDUALIZADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus.
+2. O agravante sustenta que a exigência de adimplemento temporal para a benesse atinente a crimes patrimoniais sem violência a pessoa caracteriza analogia prejudicial e usurpa a competência privativa reservada ao Poder Executivo.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o indulto previsto no art. 9º, XV, do Decreto n. 12.338/2024, quando a pena privativa de liberdade foi substituída por pena restritiva de direitos, depende do cumprimento da fração mínima estabelecida no art. 9º, VII.
+III. Razões de decidir
+4. A decisão agravada não merece reforma, pois adota correta interpretação sistemática ao estabelecer que as disposições do decreto presidencial são complementares, de modo que a natureza do crime patrimonial sem violência não afasta a exigência de cumprimento de fração mínima da pena substituída.
+5. A caracterização de delito de índole patrimonial e cometido sem violência não tem o condão de escusar o executado do dever objetivo de cumprimento de fração mínima da reprimenda alternativa estipulada em seu favor, visto que a análise sistemática repudia dispensas carentes de equidade no sistema retributivo.
+6. A decisão monocrática está em estrita conformidade com a jurisprudência dominante desta Corte Superior, a qual exige o adimplemento proporcional e autônomo da pena substituída como pressuposto inafastável à concessão da benesse, não preenchido na espécie fática.
+IV. Dispositivo
+7. Resultado do Julgamento: Agravo regimental não provido."
+(AgRg no HC n. 1.073.050/SC, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 24/6/2026, DJEN de 29/6/2026, grifei.)
+
+"DIREITO PROCESSUAL PENAL / EXECUÇÃO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. INDULTO NATALINO (DECRETO N. 12.338/2024). PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR RESTRITIVA DE DIREITOS. EXIGÊNCIA DE CUMPRIMENTO DE FRAÇÃO MÍNIMA DA PENA. HABEAS CORPUS NÃO CONHECIDO. AGRAVO DESPROVIDO.
+[...]
+5. A decisão registra que, embora o art. 3º, I, do Decreto n. 12.338/2024 disponha que o indulto se aplica à pena privativa de liberdade substituída por pena restritiva de direitos, o art. 9º, VII, do mesmo diploma estabelece, de forma clara e específica, a exigência de cumprimento mínimo de 1/6 da pena (para não reincidentes) ou 1/5 (para reincidentes) também nas hipóteses de pena substituída, configurando requisito objetivo indispensável à concessão da benesse.
+6. O acórdão impugnado é considerado harmônico com a literalidade do Decreto n. 12.338/2024, ao entender que o art. 9º, XV, não afasta nem substitui o requisito temporal específico previsto no art. 9º, VII para as penas em regime aberto ou substituídas por restritivas de direitos, sob pena de indevida ampliação do âmbito do indulto.
+7. A agravante não comprovou o cumprimento do requisito objetivo de período mínimo de cumprimento de pena, pois executou apenas 13 horas de prestação de serviços, remanescendo 347 horas, o que inviabiliza o reconhecimento do direito ao indulto nos termos do Decreto n. 12.338/2024.
+8. A jurisprudência consolidada do Superior Tribunal de Justiça no sentido de que a concessão de indulto ou comutação de pena somente é admissível quando preenchidos todos os requisitos objetivos e subjetivos previstos no decreto presidencial respectivo, inclusive o cumprimento da fração mínima da reprimenda, se ali exigida.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental desprovido."
+(AgRg no HC n. 1.057.532/SP, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 2/6/2026, DJEN de 9/6/2026, grifei.)
+No caso dos autos, o Juízo de primeiro grau concedeu ao paciente indulto de pena restritiva de direitos com fundamento no inciso XV do art. 9º do Decreto n. 12.790/2025, mas não o conjugou com a previsão do inciso VII do mesmo artigo.
+O Tribunal de origem, por sua vez, aplicou corretamente o entendimento adotado por esta Corte Superior ao pontuar que o apenado sequer havia iniciado o cumprimento de suas penas restritivas de direitos, razão pela qual o indulto seria indevido pela ausência do preenchimento do requisito objetivo previsto no inciso VII do art. 9º do Decreto.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
+
+Brasília, 06 de outubro de 2026.
+
+Ministro Ribeiro Dantas
+Relator
