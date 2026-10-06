@@ -1,0 +1,26 @@
+DESIS no HABEAS CORPUS Nº 1119203 - SC (2026/0327675-4)
+
+RELATOR: MINISTRO SEBASTIÃO REIS JÚNIOR
+
+REQUERENTE: HILARIO PINOTTI GELATI (PRESO)
+
+ADVOGADOS: LUCAS FACHI - SC053855
+
+ISRAEL CORREA DE LARA - SC052877
+
+REQUERIDO: MINISTÉRIO PÚBLICO FEDERAL
+
+REQUERIDO: MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA
+
+IMPETRADO: TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA
+
+EMENTA
+
+DECISÃO
+À vista do pedido formulado às fls. 109/111, homologo a desistência do agravo regimental de HILARIO PINOTTI GELATI, interposto contra a decisão que indeferiu liminarmente a inicial.
+Publique-se.
+
+Brasília, 06 de outubro de 2026.
+
+Ministro Sebastião Reis Júnior
+Relator
