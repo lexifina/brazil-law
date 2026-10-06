@@ -1,0 +1,61 @@
+AGRAVO EM RECURSO ESPECIAL Nº 3365829 - SP (2026/0364951-3)
+
+RELATOR: MINISTRO PRESIDENTE DO STJ
+
+AGRAVANTE: VALERIA CRISTINA DE ARAUJO
+
+ADVOGADOS: MILTON DE ANDRADE RODRIGUES - SP096231
+
+ANNA JULIA DUTRA DE AQUINO - SP496439
+
+AGRAVADO: BANCO DO BRASIL SA
+
+ADVOGADOS: DARCIO JOSE DA MOTA - SP067669
+
+INALDO BEZERRA SILVA JUNIOR - SP132994
+
+EMENTA
+
+DECISÃO
+1. Trata-se de Agravo apresentado por VALERIA CRISTINA DE ARAUJO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+
+DIREITO CIVIL. APELAÇÃO. REVISÃO DE CONTA BANCÁRIA PASEP. PEDIDO JULGADO IMPROCEDENTE. RECURSO NÃO PROVIDO. I. CASO EM EXAME 1. A AUTORA. EX-SERVIDORA PÚBLICA ESTADUAL. PROPÔS AÇÃO REVISIONAL ALEGANDO MÁ GESTÃO DE SUA CONTA VINCULADA AO PASEP. RESULTANDO EM RECEBIMENTO DE VALORES INFERIORES AO ESPERADO. REQUEREU A RESTITUIÇÃO DOS VALORES. ATUALIZAÇÃO MONETÁRIA CORRETA. E APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. A SENTENÇA JULGOU IMPROCEDENTE O PEDIDO. II. QUESTÃO EM DISCUSSÃO 2. A QUESTÃO EM DISCUSSÃO CONSISTE EM: (I) VERIFICAR A CORREÇÃO DOS ÍNDICES APLICADOS NA ATUALIZAÇÃO DOS VALORES DEPOSITADOS NA CONTA PASEP. III. RAZÕES DE DECIDIR 3. OS ÍNDICES APLICADOS NA CONTA PASEP FORAM DETERMINADOS PELO CONSELHO DIRETOR DO FUNDO PIS/PASEP. NÃO HAVENDO INFRAÇÃO À LEI COMPLEMENTAR 26/1975. IV. DISPOSITIVO E TESE 5. RECURSO DESPROVIDO. TESE DE JULGAMENTO: 1. A APURAÇÃO DO SALDO DEVE OBSERVAR A CONVERSÃO DE MOEDAS AO LONGO DOS ANOS. AS MOVIMENTAÇÕES NA CONTA E OS ÍNDICES DE CORREÇÃO APLICÁVEIS À ÉPOCA. 4. DISPONIBILIZADO O SALDO NA CONTA VINCULADA AO PASEP. NÃO HÁ QUE SE FALAR EM FALHA NA PRESTAÇÃO DE SERVIÇOS. LEGISLAÇÃO CITADA: CÓDIGO DE PROCESSO CIVIL. ART. 487, INCISO I; ART. 85. §2°: ART. 373. INCISO I. CÓDIGO DE DEFESA DO CONSUMIDOR, ART. 6O, INCISO VIII. JURISPRUDÊNCIA CITADA: STJ. RECURSOS ESPECIAIS REPETITIVOS № 1.895.963-TO. № 1.895.941-TO E № 1.951.931-DF. STJ. TEMA 1.150. TJSP, APELAÇÃO CÍVEL 1004247-21.2020.8.26.0482. REL. PAULO ALCIDES. J. 10/Í 1/2025. TJSP, APELAÇÃO CÍVEL 1014948-22.2024.8.26.0152, REL. FÁBIO PODESTÁ. J. 16/10/2025.
+
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação aos arts. 373, § 1º, do CPC e 6º, VIII, do CDC, no que concerne à necessidade da inversão do ônus da prova na relação de consumo entre a cotista do PASEP e o banco gestor, em razão da hipossuficiência técnica e informacional da consumidora e da exclusividade, pelo banco, dos registros e conhecimentos sobre os cálculos e índices aplicados, trazendo a seguinte argumentação:
+O principal pilar do acórdão recorrido foi a tese de que caberia à Recorrente, e não ao banco, o ônus de demonstrar a falha na prestação do serviço. Tal entendimento viola diretamente a legislação federal. A relação entre o cotista e a instituição financeira gestora do fundo é, inequivocamente, uma relação de consumo, conforme pacificado por este Colendo Tribunal na Súmula 297. Como tal, a inversão do ônus da prova, prevista no art. 6º, VIII, do CDC, é medida que se impõe, dada a manifesta hipossuficiência técnica e informacional da consumidora frente ao poderio do banco (fls. 273).
+O Recorrido detém com exclusividade todos os registros, sistemas e conhecimentos técnicos sobre a metodologia de cálculo, os índices aplicados e as movimentações ocorridas. Exigir que a Recorrente produza a prova negativa do erro ou a prova da correção de um sistema que ela desconhece é impor-lhe um ônus probatório diabólico (fls. 274).
+A relevância e a complexidade desta questão são tão latentes que este Egrégio STJ, em recente e notória deliberação, afetou a matéria para julgamento sob o rito dos recursos repetitivos, como se vê na Proposta de Afetação no REsp 2.162.323/PE: [...] Delimitação da controvérsia afetada: Saber a qual das partes compete o ônus de provar que os lançamentos a débito nas contas individualizadas do PASEP correspondem a pagamentos ao correntista (fls. 274).
+
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega necessidade de recomposição integral do saldo da conta PASEP por correção monetária plena, em razão de os índices oficiais aplicados não refletirem a inflação real e da analogia com o regime de atualização do FGTS, inclusive quanto aos expurgos inflacionários, trazendo a seguinte argumentação:
+Ao validar os "índices oficiais" aplicados pelo Recorrido, o acórdão violou a própria natureza do instituto da correção monetária, que, segundo a jurisprudência pacífica deste STJ, não se constitui em um plus, mas, tão- somente, na reposição do valor real da moeda (fls. 274).
+Este Tribunal já firmou entendimento de que, dada a similitude de finalidades, o tratamento conferido ao FGTS deve ser aplicado analogicamente ao PASEP. Isso inclui, por óbvio, a recomposição das perdas decorrentes dos expurgos inflacionários de planos econômicos passados. Nesse sentido, é lapidar o precedente: [...] (fls. 274-275).
+Ao ignorar essa tese e se contentar com a aplicação de índices que não refletem a inflação real, o acórdão recorrido permitiu a corrosão do patrimônio da Recorrente, validando a falha na prestação do serviço pelo banco administrador e contrariando a jurisprudência desta Corte Superior (fls. 275).
+
+É o relatório.
+2.
+Quanto à primeira controvérsia, incidem as Súmulas n. 282/STF e 356/STF, porquanto a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: “O Tribunal de origem não se manifestou sobre a alegação de preclusão do direito a pleitear nova produção de provas após o juízo saneador, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF" (AgInt no AREsp n. 2.700.152/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 21/3/2025).
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.974.222/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025; AgInt no AREsp n. 2.646.591/PE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AREsp n. 2.645.864/AL, relator Ministro Moura Ribeiro, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.732.642/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, DJEN de 18/3/2025; AgRg no REsp n. 2.142.363/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 5/3/2025; AgRg no AREsp n. 2.402.126/SC, relator Ministro Ribeiro Dantas, Quinta Turma, DJEN de 26/2/2025; REsp n. 2.009.683/SP, relatora Ministra Daniela Teixeira, Quinta Turma, DJEN de 25/2/2025; AgInt no REsp n. 2.162.145/RR, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 20/2/2025; AgInt nos EDcl no REsp n. 1.933.409/PA, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJEN de 19/12/2024; AgRg no AREsp n. 1.574.507/TO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 9/12/2024.
+Quanto à segunda controvérsia, incide a Súmula n. 284/STF, tendo em vista que a parte recorrente deixou de indicar precisamente os dispositivos legais que teriam sido violados, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada Súmula: “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia”.
+Nesse sentido: "A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF". (AgInt no AREsp n. 1.684.101/MA, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 26.8.2020.)
+Na mesma linha: "Considera-se deficiente de fundamentação o recurso especial que não indica os dispositivos legais supostamente violados pelo acórdão recorrido, circunstância que atrai a incidência, por analogia, do enunciado nº 284 da Súmula do Supremo Tribunal Federal" (REsp n. 2.187.030/RS, Rel. ;Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 5/3/2025).
+Confiram-se ainda os seguintes julgados: ;AgInt no AREsp n. 2.663.353/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJEN de 28/2/2025; AgInt no AREsp n. 1.075.326/SP, Rel. Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 27/2/2025; AgRg no REsp n. 2.059.739/MG, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJEN de 24/2/2025; AgRg no AREsp n. 2.787.353/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 17/2/2025; AgInt no AREsp n. 2.554.367/RS, Rel. Ministro Marco Aurélio Bellizze, Segunda Turma, DJEN de 23/12/2024; AgInt no AREsp n. 2.699.006/MS, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/12/2024.
+Ademais, o acórdão recorrido assim decidiu:
+
+O pleito da apelante está embasado em laudo unilateralmente produzido (fls. 36/56), segundo o qual foram aplicados índices incorretos correspondentes a aplicação de índices de atualização aplicados inferiores à inflação, ocorrendo distorções no saldo final do Pasep que lhe seria devido.
+Em que pese o trabalho pericial realizado, não se verificou que as atualizações realizadas nos valores correspondentes à conta Pasep tenham implicado em infração à Lei Complementar 26/1975, que trata do tema. Tais índices foram aplicados pela autoridade competente, vale dizer, o Conselho Direito do Fundo Pis/Pasep e a atualização monetária pelo INPC não tem fundamento legal. Por outro lado, os extratos apresentados pelo réu evidenciam a aplicação de atualização monetária, as conversões da moeda, a valorização de cotas e pagamento de rendimentos em conformidade com a legislação vigente acerca do tema (fls. 169/185).
+[...]
+Destarte, não demonstrada a incorreção dos índices de atualização e remuneração dos valores depositados na conta Pasep da autora, a manutenção da r. sentença de improcedência da demanda afigura-se de rigor (fls. 265-268).
+
+Assim, incide a Súmula n. 7 do STJ (“A pretensão de simples reexame de prova não enseja recurso especial”), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+3. Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+
+Brasília, 06 de outubro de 2026.
+
+MINISTRO LUIS FELIPE SALOMÃO
+Presidente
