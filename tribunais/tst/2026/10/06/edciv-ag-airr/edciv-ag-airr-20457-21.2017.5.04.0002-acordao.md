@@ -1,0 +1,1043 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Superior do Trabalho
+PROCESSO Nº TST-EDCiv-Ag-AIRR - 20457-21.2017.5.04.0002
+A C Ó R D Ã O
+3ª Turma
+GMMGD/cgc
+EMBARGOS DE DECLARAÇÃO. AGRAVO. AGRAVO DE
+INSTRUMENTO. OMISSÃO. INEXISTÊNCIA. A matéria sobre a
+qual a Parte Embargante alega ter havido omissão –
+“assistência judiciária gratuita – pessoa natural” - foi
+devidamente analisada e fundamentada no acórdão
+embargado, em consonância com o princípio constitucional da
+motivação das decisões judiciais (art. 93, IX, da CF), também
+referido na lei ordinária - arts. 832 da CLT e 489 do CPC/2015. Se
+a argumentação posta nos embargos não se insere em nenhum
+dos vícios mencionados nos arts. 897-A da CLT e 1.022 do
+CPC/2015, deve ser desprovido o recurso. Embargos de
+declaração desprovidos.
+Vistos, relatados e discutidos estes autos de Embargos de Declaração Cível em
+Agravo em Agravo de Instrumento em Recurso de Revista nº TST-EDCiv-Ag-AIRR - 20457-
+21.2017.5.04.0002, em que é Embargante BANCO DO BRASIL S.A. e é Embargado(a) ADILSON ANTONIO
+GUEDES DOS SANTOS.
+A 3ª Turma negou provimento ao agravo.
+A Parte Reclamada interpõe embargos de declaração, alegando omissão no
+julgado.
+É o relatório.
+V O T O
+I) CONHECIMENTO
+Atendidos os pressupostos recursais, CONHEÇO dos embargos de declaração.
+II) MÉRITO
+EMBARGOS DE DECLARAÇÃO. AGRAVO. AGRAVO DE INSTRUMENTO. RECURSO
+DE REVISTA. OMISSÃO. INEXISTÊNCIA
+Nos embargos de declaração, a Parte alega omissão no julgado.
+Alega que “A decisão colegiada ora embargada, ao negar transcendência, e
+consequentemente denegou seguimento ao Recurso de Revista no tema da justiça gratuita, invocando a
+Súmula 333 do TST e o Tema Repetitivo 21 do TST (IncJulgRREmbRep 277-83.2020.5.09.0084, julgado em
+14/10/2024), segundo o qual, mesmo após a vigência da Lei nº 13.467/2017, o trabalhador que recebe salário
+superior ao fixado no art. 790, §3º, da CLT poderia comprovar sua insuficiência econômica pela simples
+declaração de não ter condições de suportar o ônus das despesas processuais, nos termos do item I da
+Súmula 463 do TST. Contudo, esse fundamento poderá ser integralmente superado pelo Supremo Tribunal
+Federal no julgamento da ADC 80, com previsão de julgamento para 17/06/2026, em sede de controle
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683E822E6B6E2C0.
+concentrado de constitucionalidade, com eficácia vinculante e efeitos erga omnes (art. 102, §2º, CF).”.
+Aduz que “A decisão de 14/04/2026, onde houve a complementação do voto do
+Ministro Gilmar Mendes, após explicitações do Ministro Cristiano Zanin, no julgamento da ADC 80 pelo STF,
+há indicativo de superação de entendimento firmado em razão de possível declaração de
+inconstitucionalidade da expressão “a 40% (quarenta por cento) do limite máximo dos benefícios do Regime
+Geral de Previdência Social” constante do art. 790, § 3º, da CLT. Para os que auferem rendimentos superiores,
+o STF exigiu demonstração concreta e individualizada da insuficiência, nos termos do art. 790, §4º, da CLT.
+Assim, o óbice da Súmula 333 do TST não mais subsistirá, porquanto a própria base normativa que
+sustentava o Tema Repetitivo 21, a Súmula 463, I, do TST, poderá ser extirpada do ordenamento jurídico pela
+mais alta Corte do País.”.
+Assevera que “A decisão da ADC 80 poderá, portanto, implementar a exigência de
+comprovação que a própria reforma trabalhista de 2017 buscou implementar, e que vinha sendo
+sistematicamente esvaziada pela jurisprudência do TST.”.
+Sem razão, contudo.
+A matéria suscitada nos embargos de declaração já foi objeto de pronunciamento
+por esta Corte no acórdão embargado, que assim foi fundamentado na parte que interessa:
+III) MÉRITO
+1. PRELIMINAR DE NULIDADE DO ACÓRDÃO REGIONAL POR NEGATIVA DE PRESTAÇÃO
+JURISDICIONAL. ARGUMENTAÇÃO GENÉRICA. AGRAVO DE INSTRUMENTO DESFUNDAMENTADO.
+AUSÊNCIA DE DELIMITAÇÃO DA CONTROVÉRSIA. DESREPESPEITO AO PRINCÍPIO DA DEVOLUTIVIDADE.
+SÚMULA Nº 422 DO TST. 2. PRESCRIÇÃO PARCIAL. ANUÊNIOS. PREVISÃO CONTRATUAL ANOTADA EM
+CTPS. SUPRESSÃO. DESCUMPRIMENTO DE NORMA REGULAMENTAR INTERNA DO BANCO
+INCORPORADA AO CONTRATO DE TRABALHO. INAPLICABILIDADE DA SÚMULA Nº 294 DO TST.
+AUSÊNCIA DE TRANSCENDÊNCIA. 3. ANUÊNIOS. INCORPORAÇÃO AO CONTRATO DE TRABALHO.
+PREVISÃO EM NORMA REGULAMENTAR INTERNA. POSTERIOR SUPRESSÃO POR NORMA COLETIVA.
+IMPOSSIBILIDADE DE ALTERAÇÃO CONTRATUAL LESIVA. AUSÊNCIA DE TRANSCENDÊNCIA. 4.
+ASSISTÊNCIA JUDICIÁRIA GRATUITA. PESSOA NATURAL. DECLARAÇÃO DE HIPOSSUFICIÊNCIA
+ECONÔMICA. SÚMULA 463, I, DO TST. TEMA 21 DA TABELA DE RECURSOS DE REVISTA REPETITIVOS.
+AUSÊNCIA DE TRANSCENDÊNCIA
+A decisão agravada foi proferida nos seguintes termos:
+1. PRELIMINAR DE NULIDADE DO ACÓRDÃO REGIONAL POR NEGATIVA DE
+PRESTAÇÃO JURISDICIONAL. ARGUMENTAÇÃO GENÉRICA. AGRAVO DE INSTRUMENTO
+DESFUNDAMENTADO. AUSÊNCIA DE DELIMITAÇÃO DA CONTROVÉRSIA. DESREPESPEITO
+AO PRINCÍPIO DA DEVOLUTIVIDADE. SÚMULA Nº 422 DO TST. AGRAVO DE INSTRUMENTO
+NÃO CONHECIDO.
+2. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. REFLEXOS DAS PARCELAS SALARIAIS
+DEFERIDAS SOBRE A CONTRIBUIÇÃO DEVIDA À ENTIDADE DE PREVIDÊNCIA
+COMPLEMENTAR. DECISÃO REGIONAL EM CONSONÂNCIA COM A JURISPRUDÊNCIA
+ITERATIVA DO TRIBUNAL. INCIDÊNCIA DA SÚMULA Nº 333 DO TST. AUSÊNCIA DE
+TRANSCENDÊNCIA DO RECURSO DE REVISTA. AGRAVO DE INSTRUMENTO DESPROVIDO.
+3. PRESCRIÇÃO APLICÁVEL AOS INTERESTÍCIOS. AUSÊNCIA DE
+PREQUESTIONAMENTO NA INSTÂNCIA ORDINÁRIA NOS TERMOS DA SÚMULA Nº 297,
+ITENS I E II, DO TST. PREJUDICADO O EXAME DA TRANSCENDÊNCIA ANTE A
+CONSTATAÇÃO DE ÓBICE PROCESSUAL PARA O PROCESSAMENTO DO RECURSO DE
+REVISTA. AGRAVO DE INSTRUMENTO DESPROVIDO.
+4. PRESCRIÇÃO PARCIAL. ANUÊNIOS. PREVISÃO CONTRATUAL ANOTADA EM CTPS.
+SUPRESSÃO. DESCUMPRIMENTO DE NORMA REGULAMENTAR INTERNA DO BANCO
+INCORPORADA AO CONTRATO DE TRABALHO. INAPLICABILIDADE DA SÚMULA Nº 294 DO
+TST. JURISPRUDÊNCIA ITERATIVA DO TRIBUNAL. INCIDÊNCIA DA SÚMULA Nº 333 DO TST.
+AUSÊNCIA DE TRANSCENDÊNCIA DO RECURSO DE REVISTA. AGRAVO DE INSTRUMENTO
+DESPROVIDO.
+5. ANUÊNIOS. INCORPORAÇÃO AO CONTRATO DE TRABALHO. PREVISÃO EM
+NORMA REGULAMENTAR INTERNA. POSTERIOR SUPRSSÃO POR NORMA COLETIVA.
+IMPOSSIBILIDADE DE ALTERAÇÃO CONTRATUAL LESIVA. JURISPRUDÊNCIA ITERATIVA DO
+TRIBUNAL. INCIDÊNCIA DA SÚMULA Nº 333 DO TST. AUSÊNCIA DE TRANSCENDÊNCIA DO
+RECURSO DE REVISTA. AGRAVO DE INSTRUMENTO DESPROVIDO.
+6. BENEFÍCIO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA. PESSOA NATURAL.
+COMPROVAÇÃO. AÇÃO AJUIZADA ANTES DA ENTRADA EM VIGOR DA LEI Nº 13.467/2017.
+SÚMULA Nº 463, ITEM I, DO TST. JURISPRUDÊNCIA ITERATIVA DO TRIBUNAL. INCIDÊNCIA
+DA SÚMULA Nº 333 DO TST. AUSÊNCIA DE TRANSCENDÊNCIA DO RECURSO DE REVISTA.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+7. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. BENEFICIÁRIO DA JUSTIÇA
+GRATUITA. AÇÃO AJUIZADA EM PERÍODO ANTERIOR AO INÍCIO DE VIGÊNCIA DO § 4º DO
+ARTIGO 791-A DA CLT, INTRODUZIDO PELA LEI Nº 13.467/2017. JURISPRUDÊNCIA
+ITERATIVA DO TRIBUNAL. INCIDÊNCIA DA SÚMULA Nº 333 DO TST. AUSÊNCIA DE
+TRANSCENDÊNCIA DO RECURSO DE REVISTA. AGRAVO DE INSTRUMENTO DESPROVIDO. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683E822E6B6E2C0.
+Trata-se de agravo de instrumento interposto pelo Banco do Brasil S.A. contra o
+despacho da Vice-Presidência do Tribunal Regional do Trabalho da 4ª Região, pelo qual se
+denegou seguimento ao seu recurso de revista quanto aos seguintes temas ora
+impugnados: "PRELIMINAR DE NULIDADE DO ACÓRDÃO REGIONAL POR NEGATIVA DE
+PRESTAÇÃO JURISDICIONAL", "COMPETÊNCIA DA JUSTIÇA DO TRABALHO.
+CONTRIBUIÇÕES À ENTIDADE DE PREVIDÊNCIA COMPLEMENTAR PRIVADA",
+"PRESCRIÇÃO. INTERSTÍCIOS", "PRESCRIÇÃO. ANUÊNIOS", "ANUÊNIOS. INCOPORAÇÃO AO
+CONTRATO DE TRABALHO", "BENEFÍCIO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA" e
+"HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA".
+Contraminuta ao agravo de instrumento e contrarrazões ao recurso de revista
+apresentadas, respectivamente, às págs. 4707-4735.
+Desnecessária a manifestação do Ministério Público do Trabalho, nos termos do
+artigo 95 do Regimento Interno do Tribunal Superior do Trabalho.
+É o relatório.
+O Juízo de admissibilidade regional, em despacho assim fundamentado, denegou
+seguimento ao recurso de revista interposto pelo Banco do Brasil S.A.:
+"O TST, examinando questão de ordem no processo E-RR-819-
+71.2017.5.10.0022, em 10.10.2019, por maioria de votos, decidiu que a suspensão
+de processos decorrentes do Tema 1046 alcança todos aqueles em que se discute
+a validade de norma coletiva de trabalho que limite ou restrinja direito trabalhista
+não assegurado constitucionalmente, não se limitando apenas aos casos
+concretos subjacentes aos temas 357 e 762.
+A suspensão do feito (art. 1035, § 5º do CPC), após comando expresso nesse
+sentido, em processo em que se discute matéria cuja repercussão geral foi
+reconhecida pelo STF, deve ser realizada pelo órgão julgador (juiz que irá prolatar
+a sentença, relator de Turma de Tribunal Regional ou relator de órgão julgador no
+Tribunal Superior do Trabalho) e não por órgão intermediário de admissibilidade
+de recurso e trânsito processual, como no presente caso. O órgão competente
+para julgamento na instância em que se encontra o processo é o que tem melhor
+condição para dizer se a hipótese amolda-se ao paradigma jurídico que resultou
+na determinação de suspensão dos feitos, conforme entendimento da Corte.
+Registro, ademais, não há resultado prático na suspensão de processos
+desta natureza, neste momento de análise de admissibilidade prévia, uma vez que
+inexiste, em sede de repercussão geral reconhecida pelo STF, a figura jurídica da
+adequação, pelas Turmas Regionais, dos julgamentos ao novo paradigma jurídico.
+Dessa forma, submeto ao C. TST a decisão quanto à suspensão do feito e
+passo à análise de admissibilidade do recurso.
+PRESSUPOSTOS EXTRÍNSECOS
+Superada a apreciação dos pressupostos extrínsecos, passo à análise do
+recurso.
+PRESSUPOSTOS INTRÍNSECOS
+DIREITO PROCESSUAL CIVIL E DO TRABALHO / ATOS PROCESSUAIS /
+NULIDADE / NEGATIVA DE PRESTAÇÃO JURISDICIONAL.
+Alegação(ões):
+- violação do(s) art(s). 93, IX, da Constituição Federal.
+- violação do(s) art(s). 832, da CLT; 489, I, II e IV, do CPC.
+Não admito o recurso de revista no item.
+Em relação à arguição de nulidade do julgado, por negativa de prestação
+jurisdicional, não há como receber o recurso. As questões suscitadas foram
+enfrentadas pelo Tribunal, que adotou tese explícita a respeito, não verificada
+afronta ao art. 93, inciso IX, da Constituição Federal, art. 489 do CPC e art. 832 da
+CLT. Dispensada a análise das demais alegações, na esteira do entendimento
+traçado na Súmula 459 do TST.
+Nestes termos, nego seguimento ao recurso quanto ao tópico "NULIDADE
+DA DECISÃO DOS EMBARGOS DECLARATÓRIOS POR NEGATIVA DE PRESTACÃO
+JURISDICIONAL VIOLAÇÃO AO DISPOSTO NO ARTIGO 832 DA CONSOLIDAÇÃO
+TRABALHISTA".
+DIREITO PROCESSUAL CIVIL E DO TRABALHO / JURISDIÇÃO E COMPETÊNCIA /
+COMPETÊNCIA / COMPETÊNCIA DA JUSTIÇA DO TRABALHO / CONTRIBUIÇÕES
+PREVIDENCIÁRIAS.
+Quanto à competência da Justiça do Trabalho no tocante aos descontos para
+a PREVI, a decisão da Turma está de acordo com a atual, iterativa e notória
+jurisprudência do TST, no sentido de que é competente a Justiça do Trabalho para
+julgar controvérsia acerca de recolhimento, pelo empregador, de contribuições
+para entidade de previdência privada em decorrência das verbas deferidas na
+reclamação trabalhista: "(...) EMBARGOS DA RECLAMANTE. INTERPOSIÇAO SOB A
+ÉGIDE DA LEI 13.015/2014.COMPETÊNCIA DA JUSTIÇA DO TRABALHO. AÇÃO
+AJUIZADA APENAS CONTRA A EMPREGADORA. PEDIDO DE RECOLHIMENTO DE
+CONTRIBUIÇÕES PARA A ENTIDADE DE PREVIDÊNCIA PRIVADA EM DECORRÊNCIA
+DAS VERBAS DEFERIDAS NA RECLAMAÇÃO TRABALHISTA. ENTENDIMENTO
+ESPOSADO PELO STF NOS RECURSOS EXTRAORDINÁRIOS 586.453 E 583.050.
+INAPLICABILIDADE. A jurisprudência prevalente no âmbito desta Subseção é no
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683E822E6B6E2C0.
+sentido de que a Justiça do Trabalho é competente para o julgamento do pedido
+de recolhimento pelo empregador de contribuições para a entidade de
+previdência privada em decorrência das parcelas salariais deferidas em
+reclamação trabalhista, não sendo aplicável à hipótese o entendimento esposado
+pelo STF no julgamento dos Recursos Extraordinários 586.453 e 583.050.
+Precedentes. Recurso de embargos conhecido e provido." (AgR-E-ED-ARR - 33-
+33.2014.5.12.0036 Relator Ministro: Hugo Carlos Scheuermann, Data de
+Julgamento: 22/02/2018, Subseção I Especializada em Dissídios Individuais, Data de
+Publicação: DEJ 02/03/2018).
+Nesse sentido: Ag-E-RR - 2100-30.2014.5.10.0002, SDI-1, Relator Ministro:
+Márcio Eurico Vitral Amaro, DEJT 30/11/2018; E-ED-RR - 1816-33.2013.5.03.0008,
+SDI-1, Relator Ministro: Guilherme Augusto Caputo Bastos, DEJT 14/09/2018; E￾ARR-529-59.2014.5.12.0037, SDI-1, Rel. Min. Hugo Carlos Scheuermann, DEJT de
+17/11/2017.
+Desta forma, inviável o seguimento do recurso de revista, ante o disposto no
+§ 7º do art. 896 da CLT e Súmula nº 333 do TST.
+Nestes termos, nego seguimento ao recurso quanto ao tópico
+"COMPLEMENTAÇÃO DE APOSENTADORIA PRIVADA DA ILEGITIMIDADE PASSIVA AD
+CAUSAM VIOLAÇÃO AO ARTIGO 6º, § 3º DA LEI COMPLEMENTAR 108/2001
+VIOLAÇÃO AOS ARTIGOS 21 e 68 DA LEI COMPLEMENTAR 109/2001 VIOLAÇÃO AOS
+ARTIGOS 5º, XXXVI, 195, § 5º e 202, § 2º e 114, I DA CF".
+Não admito o recurso de revista no item.
+PRESCRIÇÃO.
+O trecho do acórdão recorrido que consubstancia o prequestionamento da
+controvérsia objeto do recurso de revista, transcrito nas razões recursais, é o
+seguinte: '(...) De fato, a defesa invocou a prescrição total do pedido de
+promoções/interstícios. Contudo, na sentença, o Julgador de origem afastou a
+prescrição total (ID. d6ed0bb - Págs. 4-5) e, em que pese a tese levantada nos
+embargos, entende-se que incumbia ao reclamado se insurgir quanto a tal aspecto
+da sentença, assim como fez, por exemplo, em relação à prescrição total dos
+anuênios. Portanto, não há omissão a ser sanada, vez que, antes de ser analisada
+a profundidade do efeito devolutivo dos recursos, a Turma Julgadora deve se ater
+à extensão desse efeito, ou seja, à análise apenas das matérias recorridas pelas
+partes. No caso, embora prejudicado pelo decidido em sentença quanto à
+prescrição do pedido de promoções/interstícios (já que não acolhida a sua tese de
+prescrição total), o reclamado deixou de interpor recurso no aspecto. Logo, não
+havia necessidade de manifestação da Turma Julgadora conforme sustenta o
+embargante. Rejeito' .
+Não admito o recurso de revista no item.
+O fundamento do acórdão recorrido (ratio decidendi) não foi clara e
+diretamente impugnado pela parte recorrente. As razões recursais enfocam a
+matéria a partir de outra perspectiva, distinta daquela adotada pelo Tribunal
+Regional. Assim, a falta de dialeticidade entre a tese recursal e a tese recorrida
+obsta o seguimento do recurso de revista, nos termos do art. 896, § 1º-A, I e III, da
+CLT e da Súmula n. 422, I, do TST.
+Nestes termos, nego seguimento ao recurso quanto ao tópico
+"INTERSTÍCIOS PRESCRIÇÃO TOTAL OFENSA À SÚMULA 294 DO TST OFENSA AO
+ARTIGO 11 DA CLT OFENSA AO ARTIGO 7º, XXIX, DA CONSTITUIÇÃO FEDERAL
+DIVERGÊNCIA JURISPRUDENCIAL - OFENSA À SÚMULA 39 DO TRT5".
+REMUNERAÇÃO, VERBAS INDENIZATÓRIAS E BENEFÍCIOS / GRATIFICAÇÃO /
+GRATIFICAÇÃO POR TEMPO DE SERVIÇO .
+O acórdão recorrido considerou ser aplicável a prescrição parcial à
+pretensão de recebimento de anuênios suprimidos.
+A decisão está de acordo com a Súmula 90 deste TRT e de acordo com a
+atual, notória e iterativa jurisprudência do TST: "(...) ANUÊNIO. PARCELA PREVISTA
+ORIGINARIAMENTE EM REGULAMENTO INTERNO E POSTERIORMENTE EM
+INSTRUMENTO NORMATIVO. ALTERAÇÃO DO PACTUADO. PRESCRIÇÃO PARCIAL.
+Em sessão realizada em 24/09/2015, quando do julgamento dos seguintes
+processos E-RR- 57100-53.2005.5.09.0068, E-ED-RR- 204000-47.2007.5.09.0678, E-A￾RR- 89600-06.2008.5.04.0005 e E-ED-RR- 151-79.2011.5.04.0733, a Subseção, por
+maioria de seus integrantes e após extensos debates, fixou entendimento no
+sentido de ser parcial a prescrição da pretensão de recebimento dos anuênios,
+independente da parcela constar na CTPS do empregado ou ter sido inicialmente
+prevista em regulamento interno e posteriormente inserida por meio de norma
+coletiva. Recurso de revista não conhecido. (...)". (RR-10004-54.2011.5.04.0332, 7ª
+Turma, Relator Ministro Cláudio Mascarenhas Brandão, DEJT 19/12/2019).
+Nesse mesmo sentido: E-ED-ARR - 252-43.2010.5.09.0659, SBDI-1, DEJT
+03/03/2017; AgR-E-ED-RR - 91700-35.2007.5.05.0006, SDI-1, DEJT 7.10.2016; E-RR -
+830300-76.2007.5.09.0005, SBDI-1, DEJT 24.6.2016; E-ED-RR - 1172800-
+17.2008.5.09.0016, SBDI-1, DEJT 20.5.2016; E-ED-RR - 658600-97.2008.5.09.0651,
+SBDI-1, DEJT 6.5.2016; E-RR - 310000-17.2009.5.12.0032, SBDI-1, DEJT 11.3.2016.
+Incidência do art. 896, § 7º, da CLT e da Súmula 333 do TST. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683E822E6B6E2C0.
+Nestes termos, nego seguimento ao recurso quanto ao tópico "DAS
+DIFERENÇAS DE ANUÊNIOS DA PRESCRIÇÃO TOTAL ADMISSIBILIDADE PELA ALÍNEA
+"A" DO ART. 896, DA CLT - CONTRARIEDADE À SÚMULA Nº 294 DO TRIBUNAL
+SUPERIOR DO TRABALHO".
+Não admito o recurso de revista no item.
+CONTRATO INDIVIDUAL DE TRABALHO / ALTERAÇÃO CONTRATUAL OU DAS
+CONDIÇÕES DE TRABALHO.
+A decisão da Turma, que aplicou a Súmula 126 deste Regional, está em
+consonância com a atual, iterativa e notória jurisprudência do TST, no sentido de
+que a supressão por norma coletiva de parcela criada originariamente pelo
+regulamento empresarial, integrando o contrato de trabalho do reclamante,
+configura alteração contratual ilícita, nos termos do art. 468 da CLT. Nesse sentido:
+" RECURSO DE EMBARGOS. PRESCRIÇÃO PARCIAL. ANUÊNIOS. SUPRESSÃO.
+PARCELA QUE SE INCORPOROU AO CONTRATO DE TRABALHO. Os anuênios pagos
+aos funcionários do Banco do Brasil, quando pagos originalmente por força de
+norma regulamentar e que foi incluída, posteriormente, em Acordo Coletivo, para
+ser suprimida, retrata pedido sobre o qual não se aplica a prescrição total da
+pretensão, pois retrata parcela que já se incorporou ao patrimônio do reclamante
+e que não poderia, simplesmente, ser excluído pela sua não inclusão nos acordos
+coletivos posteriores. O caso retrata descumprimento do pactuado, não sendo
+possível que benefício previsto em norma regulamentar se considere suprimido
+apenas por não ser renovado nos acordos coletivos posteriores. Assim sendo,
+inaplicável a Súmula nº 294/TST, com o fim de se considerar que houve prescrição
+total da prestação, mas em lesão de trato de sucessivo, que se renova a cada mês
+que o empregado deixa de receber a parcela, pela declaração da prescrição parcial
+da pretensão. Embargos conhecidos e providos ". (E-ED-RR - 428300-
+60.2007.5.12.0014, Relator Ministro: Aloysio Corrêa da Veiga, data de julgamento:
+9/10/2014, Subseção I Especializada em Dissídios Individuais, data de publicação:
+DEJT 17/10/2014)
+Outros precedentes: RR-62900-53.2009.5.04.0006, 2ª Turma, DEJT
+26/08/2016; AIRR-118100-18.2009.5.05.0491, 3ª Turma, DEJT 30/09/2016; Ag-AIRR￾2883-23.2013.5.22.0002, 5ª Turma, DEJT 09/09/2016; ARR-94400-38.2008.5.01.0045,
+6ª Turma, DEJT 07/10/2016; ARR-155200-26.2009.5.04.0332, 7ª Turma, DEJT
+02/09/2016; AIRR - 676-90.2013.5.07.0027, 8ª Turma, DEJT 29/04/2016; ED-ARR -
+923-36.2014.5.04.0701, 8ª Turma, DEJT 19/12/2017.
+Nego seguimento ao recurso, portanto, forte no §7º do art. 896 da CLT e na
+Súmula 333 do TST.
+Nestes termos, nego seguimento ao recurso quanto ao tópico "INTEGRAÇÃO
+DOS ANUÊNIOS NO CONTRATO DE TRABALHO ADMISSIBILIDADE PELA ALÍNEA "A"
+DO ART. 896, DA CLT VIOLAÇÃO DOS arts. 5º, LIV e LV da CF/88".
+Não admito o recurso de revista no item.
+REMUNERAÇÃO, VERBAS INDENIZATÓRIAS E BENEFÍCIOS / GRATIFICAÇÃO /
+GRATIFICAÇÃO SEMESTRAL.
+Não se recebe recurso de revista que deixar de indicar o trecho da decisão
+recorrida que consubstancia o prequestionamento da controvérsia objeto de
+inconformidade; que deixar de indicar, de forma explícita e fundamentada,
+contrariedade a dispositivo de lei, súmula ou orientação jurisprudencial do
+Tribunal Superior do Trabalho que conflite com a decisão regional, bem como que
+deixar de expor as razões do pedido de reforma, impugnando todos os
+fundamentos jurídicos da decisão recorrida, inclusive mediante demonstração
+analítica de cada dispositivo de lei, da Constituição Federal, de súmula ou
+orientação jurisprudencial cuja contrariedade aponte (art. 896, § 1-A, CLT).
+Nas alegações recursais em que devidamente transcrito o trecho do acórdão
+e feito corretamente o cotejo analítico, não verifico violação ao dispositivo
+constitucional e ao legal mencionados.
+Ainda, com relação aos arestos hábeis ao confronto, trazidos no recurso,
+não constato a divergência jurisprudencial apontada.
+Saliento que a demonstração de divergência jurisprudencial hábil a
+impulsionar o recurso de revista deve partir de julgado que, reunindo as mesmas
+premissas de fato e de direito relacionadas ao caso concreto, ofereça diferente
+resultado. A ausência ou acréscimo de circunstância torna inespecífico o aresto
+paradigma, nos termos da Súmula 296 do TST.
+Assim nego seguimento ao recurso no item "DA INTEGRAÇÃO/ DOS
+REFLEXOS ADMISSIBILIDADE PELA ALÍNEA "A" DO ART. 896, DA CLT".
+Não admito o recurso de revista no item.
+DIREITO PROCESSUAL CIVIL E DO TRABALHO / PARTES E PROCURADORES /
+ASSISTÊNCIA JUDICIÁRIA GRATUITA.
+A decisão recorrida está em conformidade com o entendimento que vem se
+consolidando no âmbito do E. TST, no sentido de que a declaração de pobreza
+apresentada pelo trabalhador é suficiente para comprovar insuficiência de
+recursos para a concessão do benefício da justiça gratuita, gerando presunção
+relativa que pode ser elidida por prova em contrário pela reclamada. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683E822E6B6E2C0.
+Precedente:
+'(...) II-RECURSO DE REVISTA. RECLAMANTE. DESERÇÃO DO RECURSO
+ORDINÁRIO. CUSTAS PROCESSUAIS. BENEFÍCIOS DA JUSTIÇA GRATUITA.
+DECLARAÇÃO DE INSUFICIÊNCIA ECONÔMICA. RECLAMAÇÃO TRABALHISTA
+AJUIZADA NA VIGÊNCIA DA LEI Nº 13.467/2017. 1 - O TRT não conheceu do recurso
+ordinário do reclamante, por deserção ante o não recolhimento das custas
+processuais. 2 - A Lei nº 13.467/2017 alterou a parte final do § 3º e acresceu o § 4º
+do art. 790 da CLT, o qual passou a dispor que " O benefício da justiça gratuita será
+concedido à parte que comprovar insuficiência de recursos para o pagamento das
+custas do processo ". 3 - Questiona-se, após essa alteração legislativa, a forma de
+comprovação de insuficiência de recursos para fins de obter o benefício da justiça
+gratuita no âmbito do Processo do Trabalho. 4 - Embora a CLT atualmente não
+trate especificamente sobre a questão, a normatização processual civil,
+plenamente aplicável ao Processo do Trabalho, seguindo uma evolução legislativa
+de facilitação do acesso à Justiça em consonância com o texto constitucional de
+1988, estabeleceu que se presume " verdadeira a alegação de insuficiência
+deduzida exclusivamente por pessoa natural ". 5 - Também quanto ao assunto, a
+Súmula nº 463, I, do TST, com a redação dada pela Resolução nº 219, de 28/6/2017,
+em consonância com o CPC de 2015, firmou a diretriz de que "para a concessão da
+assistência judiciária gratuita à pessoa natural, basta a declaração de
+hipossuficiência econômica firmada pela parte ou por seu advogado ". 6 - Nesse
+contexto, mantém-se no Processo do Trabalho, mesmo após a Lei nº 13.467/2017,
+o entendimento de que a declaração do interessado, de que não dispõe de
+recursos suficientes para o pagamento das custas do processo, goza de presunção
+relativa de veracidade e se revela suficiente para comprovação de tal condição (99,
+§ 2º, do CPC de 2015 c/c art. 790, § 4º, da CLT). Harmoniza-se esse entendimento
+com o princípio da inafastabilidade da jurisdição (art. 5º, XXXV, da Constituição
+Federal), bem como com o princípio da igualdade (art. 5.º, caput, da Constituição
+Federal), pois não há fundamento de qualquer espécie que justifique a imposição
+de um tratamento mais rigoroso aos hipossuficientes que buscam a Justiça do
+Trabalho para a proteção de seus direitos, em relação àqueles que demandam em
+outros ramos do Poder Judiciário. 7 - De tal sorte, havendo o reclamante prestado
+declaração de hipossuficiência e postulado benefício de justiça gratuita, à míngua
+de prova em sentido contrário, reputa-se demonstrada a insuficiência de recursos
+a que alude o art. 790, § 4º, da CLT. 8 - Devem ser concedidos os benefícios da
+justiça gratuita ao reclamante e afastada a deserção declarada pelo TRT. 9 -
+Recurso de revista a que se dá provimento" (RR-168-32.2018.5.09.0022, 6ª Turma,
+Relatora Ministra Katia Magalhaes Arruda, DEJT 12/03/2021).
+No mesmo sentido: RO-6554-79.2018.5.15.0000, Subseção II Especializada
+em Dissídios Individuais, Relator Ministro Alexandre de Souza Agra Belmonte, DEJT
+19/03/2021; AIRR - 10746-96.2018.5.03.0062, decisão monocrática Min. Hugo
+Carlos Scheuermann (1ª Turma), publicação: 29/03/2021; AIRR - 1493-
+22.2018.5.12.0034, decisão monocrática Min. Luiz Jose Dezena da Silva (1ª Turma),
+Publicação: 25/03/2021; RR-1000498-84.2018.5.02.0061, 2ª Turma, Relator Ministro
+Jose Roberto Freire Pimenta, DEJT 04/12/2020; RR-71-28.2018.5.05.0027, 3ª Turma,
+Relator Ministro Alexandre de Souza Agra Belmonte, DEJT 09/10/2020; RR￾1000438-72.2018.5.02.0462, 4ª Turma, Relator Ministro Alexandre Luiz Ramos, DEJT
+16/10/2020; RR-168-32.2018.5.09.0022, 6ª Turma, Relatora Ministra Katia
+Magalhaes Arruda, DEJT 12/03/2021; ARR-1001016-92.2018.5.02.0055, 7ª Turma,
+Relator Ministro Claudio Mascarenhas Brandao, DEJT 23/10/2020; RR-1000771-
+17.2018.5.02.0044, 8ª Turma , Relator Ministro Joao Batista Brito Pereira, DEJT
+22/01/2021.
+Sendo assim, nos termos do art. 896, § 7º, da CLT e da Súmula n. 333 do TST,
+nego seguimento.
+Não admito o recurso de revista no item.
+DIREITO PROCESSUAL CIVIL E DO TRABALHO / PARTES E PROCURADORES /
+SUCUMBÊNCIA / HONORÁRIOS ADVOCATÍCIOS.
+Em se tratando de honorários sucumbenciais fixados com base no art. 791-
+A, da CLT, a decisão da Turma está em conformidade com o art. 6º da Instrução
+Normativa nº 41 do TST, com redação dada pela Resolução nº 221, de 21/06/2018,
+segundo o qual "a condenação em honorários sucumbenciais, prevista no art. 791-
+A, e parágrafos, da CLT, será aplicável apenas às ações propostas após 11 de
+novembro de 2017 (Lei nº 13.467/2017). Nas ações propostas anteriormente,
+subsistem as diretrizes do art. 14 da Lei nº 5.584/1970 e das Súmulas n. 219 e 329
+do TST".
+Esse também é ó entendimento proferido no julgamento do Tema nº 3 da
+Tabela de Recursos de Revista Repetitivos do TST - IRR - 0000.341-
+06.2013.5.04.0011: "(...) A condenação em honorários advocatícios sucumbenciais
+prevista no artigo 791-A, caput e parágrafos, da CLT será aplicável apenas às ações
+propostas na Justiça do Trabalho a partir de 11 de novembro de 2017, data do
+início da vigência da Lei nº 13.467/2017, promulgada em 13 de julho de 2017,
+conforme já decidiu este Pleno, de forma unânime, por ocasião da aprovação do
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683E822E6B6E2C0.
+artigo 6º da Instrução Normativa nº 41/2018 (...)".
+Desse modo, a decisão não afronta os preceitos legais apontados nem
+constato as divergências jurisprudenciais invocadas, incidindo o disposto na
+Súmula n. 333 do TST como óbice ao processamento do recurso de revista.
+Não admito o recurso de revista no item.
+CONCLUSÃO
+Nego seguimento" (págs. 4616-4624, grifou-se).
+Na minuta de agravo de instrumento, o Banco do Brasil S.A. reitera a preliminar de
+n ulidade do acórdão regional por negativa de prestação jurisdicional , ao argumento de
+que o Tribunal a quo não teria se manifestado sobre os questionamentos suscitados nos
+embargos de declaração, em desacordo com os artigos 93, inciso IX, da Constituição
+Federal, 832, 897-A da CLT, 489, 1022, do CPC/2015.
+Na sequência, o banco reclamado novamente sustenta a incompetência da Justiça
+do Trabalho para julgar a demanda envolvendo as contribuições previdenciárias
+incidentes sobre o crédito trabalhista deferido, ao indicar ofensa aos artigos 6º, §3º, da
+Lei Complementar nº 108/2001, violação dos artigos 21 e 68 da Lei Complementar nº
+109/2001, 5º, inciso XXXVI, 195, §5º, 202, §2º, 114, inciso I, da Constituição Federal, à luz
+do entendimento firmado pelo STF no julgamento dos REs nºs 586.453 e 583.050.
+O reclamado reafirma a tese de prescrição total da pretensão envolvendo o
+pagamento de interstícios, por contrariedade à Súmula nº 294 do TST e ofensa ao artigo
+7º, inciso XXIX, da Constituição Federal, além da arguição de divergência jurisprudencial.
+O reclamado também insiste na tese de prescrição total dos anuênios , com base
+na Súmula nº 294 do TST e no artigo 7º, inciso XXIX, da Constituição Federal, diante de
+alteração contratual ocorrida em 1999. O agravante também repete a divergência
+jurisprudencial.
+Contra a incorporação dos anuênios ao contrato de trabalho , o reclamado repisa
+a alegação de ofensa aos artigos 5º, incisos LIV e LV, 7º, incisos XVI, XXVI, da Constituição
+Federal, ao argumento de que a referida rubrica tinha previsão apenas em acordo
+coletivo, e não foram renovados desde 1999. Nesse contexto, o agravante também
+repisa a alegação de contrariedade à Súmula nº 277 do TST, além de defender a
+inaplicabilidade dos artigos 9º e 468 da CLT, e da Súmula nº 51, item I, do TST, e de
+suscitar divergência jurisprudencial.
+O reclamado renova a insurgência contra o deferimento do benefício de
+Assistência Judiciária Gratuita ao reclamante, ao sustentar que não ficou comprovada a
+insuficiência de recursos econômicos, em afronta ao artigo 790, §3º, da CLT, com a
+redação dada pela Lei nº 13.467/2017.
+Por fim, o reclamado novamente questiona a ausência de condenação da parte
+autora ao pagamento de honorários advocatícios de sucumbência, ao invocar a
+sucumbência recíproca, com base no artigo 791-A da CLT.
+Ao exame.
+A tese recursal de falha na fundamentação do acórdão regional por negativa de
+prestação jurisdicional refere-se à suposta ausência de exame dos questionamentos
+suscitados a respeito da matéria fática pela parte em seus embargos de declaração.
+Não há vislumbrar nulidade por negativa de prestação jurisdicional.
+Constata-se que as razões recursais invocadas na minuta do agravo de
+instrumento em apreço são genéricas, na medida em que a parte aponta as supostas
+omissões, sem, contudo, especificar quais aspectos estariam pendentes de análise e
+porque seriam essenciais ao deslinde da controvérsia .
+Registra-se que a parte reclamada limitou-se a transcrever "in totum" os embargos
+de declaração e do acórdão pelo qual estes foram examinados e, na sequência, reafirmar
+que o Regional teria sido omisso quanto aos esclarecimentos, sem, contudo, especificar
+qual aspecto fático teria ficado pendente de análise e porque seria essencial ao deslinde
+da controvérsia .
+Com efeito, considerando que o agravo de instrumento tem por finalidade
+destrancar o recurso de revista não admitido pelo Regional, inviável o processamento do
+apelo que apresenta razões recursais genéricas, sem a devida delimitação da
+controvérsia. Assim, o recurso carece de fundamentação no particular, atraindo o
+disposto na Súmula nº 422 desta Corte, porquanto desrespeitado princípio da
+devolutividade processual .
+Nesse sentido os seguintes precedentes desta Corte:
+"AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA.
+1 - PRELIMINAR DE NULIDADE DO ACÓRDÃO REGIONAL POR NEGATIVA DE
+PRESTAÇÃO JURISDICIONAL. AGRAVO DE INSTRUMENTO DESFUNDAMENTADO.
+INOBSERVÂNCIA AOS PRINCÍPIOS DA DEVOLUTIVIDADE E DA DELIMITAÇÃO
+RECURSAL. APLICAÇÃO DA SÚMULA Nº 422, ITEM I, DO TST.
+A despeito de estar intimamente vinculado ao recurso de revista cujo
+seguimento foi denegado, o agravo de instrumento deve trazer elementos
+necessários à exata compreensão da controvérsia. Portanto, no caso, a
+argumentação genérica apresentada pela parte, sem nenhuma indicação acerca
+de quais seriam as omissões e contradições supostamente havidas no julgado
+quanto às matérias indicadas, não atende aos princípios da devolutividade e da
+delimitação recursal. Aplicação da Súmula nº 422, item I, do TST. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683E822E6B6E2C0.
+Agravo de instrumento desprovido" (Processo: RRAg - 395-21.2019.5.20.0009
+Data de Julgamento: 22/05/2024, Relator Desembargador Convocado: Marcelo
+Lamego Pertence, 3ª Turma, Data de Publicação: DEJT 24/05/2024).
+"PRELIMINAR DE NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL.
+ARGUMENTAÇÃO GENÉRICA. DESFUNDAMENTADO. Nos termos da jurisprudência
+desta Corte, não se pode cogitar de nulidade por negativa de prestação
+jurisdicional quando as razões recursais são genéricas, isto é, não indicam
+especificamente os pontos omissos, na decisão recorrida, mesmo após a
+interposição dos embargos declaratórios. Assim, o recurso de revista carece de
+fundamentação no particular, atraindo o disposto na Súmula nº 422 desta Corte.
+Agravo de instrumento desprovido." (AIRR - 10411-76.2014.5.01.0061. Data de
+julgamento: 28/6/2017, Relator Ministro: José Roberto Freire Pimenta, 2ª Turma,
+data de publicação: DEJT 30/6/2017)
+"PRELIMINAR DE NULIDADE DO ACÓRDÃO REGIONAL POR NEGATIVA DE
+PRESTAÇÃO JURISDICIONAL. ARGUMENTAÇÃO GENÉRICA. DESFUNDAMENTADO.
+Nos termos da jurisprudência desta Corte, não se pode cogitar de nulidade por
+negativa de prestação jurisdicional quando as razões recursais são genéricas, isto
+é, não indicam especificamente os pontos que foram omissos na decisão
+recorrida, mesmo após a interposição dos embargos declaratórios. Assim, o
+recurso de revista carece de fundamentação, no particular, atraindo o disposto na
+Súmula nº 422, item I, desta Corte. Agravo de Instrumento desprovido." (AIRR -
+166000-88.2004.5.02.0027. Data de julgamento: 21/6/2017, Relator Ministro: José
+Roberto Freire Pimenta, 2ª Turma, data de publicação: DEJT 23/6/2017)
+"RECURSO DE REVISTA DA RECLAMANTE. PRELIMINAR DE NULIDADE POR
+NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ARGUMENTAÇÃO GENÉRICA.
+DESFUNDAMENTADO. Nos termos da jurisprudência desta Corte, não se pode
+vislumbrar nulidade por negativa de prestação jurisdicional quando as razões
+recursais são genéricas, isto é, não indicam especificamente os pontos omissos, na
+decisão recorrida, mesmo após a interposição dos embargos declaratórios. Assim,
+o recurso de revista carece de fundamentação, no particular, atraindo o disposto
+na Súmula nº 422 desta Corte. Recurso de revista não conhecido". (ARR - 239900-
+30.2007.5.02.0050, Relator Ministro: José Roberto Freire Pimenta, data de
+julgamento: 21/10/2015, 2ª Turma, data de publicação: DEJT 6/11/2015)
+"AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. PRELIMINAR DE
+NULIDADE DO ACÓRDÃO REGIONAL POR NEGATIVA DE PRESTAÇÃO
+JURISDICIONAL. O agravo de instrumento mostra-se desfundamentado no tópico,
+uma vez que a parte se limitou a suscitar a nulidade da decisão do Regional por
+negativa de prestação jurisdicional, sustentando, genericamente, que não teriam
+sido examinadas as questões trazidas nos seus embargos de declaração, sem
+apontar, com especificidade, quais pontos teriam sido omissos. Agravo de
+instrumento desprovido." (AIRR-114-49.2011.5.15.0150, data de julgamento:
+15/10/2014, Relator Ministro: José Roberto Freire Pimenta, 2ª Turma, data de
+publicação no DJ: 24/10/2014)
+Assim, não é possível o exame das violações de lei e/ou da Constituição Federal
+apontadas.
+Diante do exposto, não conheço do agravo de instrumento do Banco do Brasil S.A.
+quanto ao tema "PRELIMINAR DE NULIDADE DO ACÓRDÃO REGIONAL POR NEGATIVA DE
+PRESTAÇÃO JURISDICIONAL ", porque desfundamentado, nos termos da Súmula nº 422,
+item I, do TST.
+(...)
+A fundamentação regional em relação à prescrição aplicável aos anuênios foi a
+seguinte:
+" 2.4. PRESCRIÇÃO TOTAL DOS ANUÉNIOS
+Pugna o reclamado pela aplicação da Súmula 294 do TST no tocante aos
+anuênios. Sustenta que as alterações foram decorrentes de Acordos Coletivos de
+Trabalho, donde se presume que houve uma negociação sobre os temas, sendo
+que ao final houve uma decisão pelo que fosse mais benéfico aos funcionários.
+Deste modo, a parcela não esta assegurada por preceito de lei.
+Analiso.
+Mantenho o entendimento da sentença, que rejeitou A prescrição total
+invocada pelo reclamado, por adoção de entendimento sumulado neste Regional.
+A matéria se encontra pacificada por meio da Súmula nº 90 do TRT 4ª Região , in
+verbis :
+'BANCO DO BRASIL. ANUÉNIOS. PRESCRIÇÃO.
+A pretensão relativa supressão dos anuênios do Banco do Brasil está sujeita
+prescrição parcial'.
+Nego provimento" (pág. 4518).
+Discute-se, no caso, a natureza da prescrição aplicável ao pedido de diferenças de
+anuênios.
+O Tribunal a quo manteve a sentença pela qual se considerou que a pretensão
+referente aos anuênios está sujeita à prescrição parcial, com base na Súmula nº 90
+vigente no âmbito regional, motivo pelo qual afastou a incidência da Súmula nº 294 do
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683E822E6B6E2C0.
+TST.
+Salienta-se que o benefício foi instituído por norma regulamentar e contratual,
+visto de anotada na CTPS do reclamante. Verifica-se, pois, que, antes do direito ter sido
+previsto em norma coletiva, ele já era assegurado em norma interna da empresa, sendo
+irrelevante que acordos coletivos posteriores deixaram de prever o pagamento do
+benefício.
+Portanto, o direito incorporou-se ao contrato de trabalho (previsão em norma
+interna da empresa), nos termos do artigo 468 da CLT.
+Assim, não se trata de alteração do pactuado, mas de descumprimento de
+previsão em norma regulamentar da empresa, porquanto se trata de hipótese em que a
+reclamada deixou de adimplir benefício incorporado ao contrato de trabalho do autor.
+Nesse contexto, inviável a aplicação do entendimento contido na Súmula nº 294 do
+TST, tendo em vista que não é o caso de prescrição total, mas lesão que se renova mês a
+mês .
+A Subseção I Especializada em Dissídios Individuais do Tribunal Superior do
+Trabalho, julgando hipótese referente ao empregado do Banco do Brasil, nos autos do
+Processo n° E-ED-RR-428300-60.2007.5.12.0014, em acórdão da lavra do Ministro Aloysio
+Corrêa da Veiga, publicado no DEJT 17/10/2014, decidindo nesse mesmo sentido,
+entendeu que, se os anuênios criados por meio de norma regulamentar e passaram a
+ser estipulados em acordos coletivo de trabalho, a sua supressão posterior em razão da
+não inclusão da parcela em norma coletiva subsequente, não configura alteração do
+pactuado, mas descumprimento do pactuado , conforme consta da seguinte ementa:
+"RECURSO DE EMBARGOS. PRESCRIÇÃO PARCIAL. ANUÊNIOS. SUPRESSÃO.
+PARCELA QUE SE INCORPOROU AO CONTRATO DE TRABALHO. Os anuênios pagos
+aos funcionários do Banco do Brasil, quando pagos originalmente por força de
+norma regulamentar e que foi incluída, posteriormente, em Acordo Coletivo, para
+ser suprimida, retrata pedido sobre o qual não se aplica a prescrição total da
+pretensão, pois retrata parcela que já se incorporou ao patrimônio do reclamante
+e que não poderia, simplesmente, ser excluído pela sua não inclusão nos acordos
+coletivos posteriores. O caso retrata descumprimento do pactuado, não sendo
+possível que benefício previsto em norma regulamentar se considere suprimido
+apenas por não ser renovado nos acordos coletivos posteriores. Assim sendo,
+inaplicável a Súmula nº 294/TST, com o fim de se considerar que houve prescrição
+total da prestação, mas em lesão de trato de sucessivo, que se renova a cada mês
+que o empregado deixa de receber a parcela, pela declaração da prescrição parcial
+da pretensão. Embargos conhecidos e providos". (E-ED-RR - 428300-
+60.2007.5.12.0014, SbDI-1, Relator Ministro Aloysio Corrêa da Veiga, data de
+julgamento: 9/10/2014, DEJT 17/10/2014)
+Consta do teor da citada decisão, in verbis:
+"Daí que se vislumbra se tratar de parcela criada por norma regulamentar,
+incorporada em Acordo Coletivo e, em seguida, suprimida.
+Não poderia, portanto, se entender que o pedido decorre de alteração do
+pactuado, e sim de descumprimento do pactuado, na medida em que não poderia
+o Banco retirar benefício previsto em norma regulamentar, incorporar em acordo
+coletivo para, daí, retirar o direito simplesmente, eis que já se incorporara ao
+contrato de trabalho.
+Assim sendo, inaplicável a Súmula nº 294/TST, com o fim de se considerar
+que houve prescrição total da prestação, mas em lesão de trato de sucessivo, que
+se renova a cada mês que o empregado deixa de receber a parcela".
+Na sessão do dia 24/9/2015, a SbDI-1 voltou a debater a questão e, por maioria,
+decidiu que, nos casos em que os anuênios foram instituídos por meio de regulamento
+interno do reclamado e, posteriormente, incorporado e suprimido por negociação
+coletiva, aplica-se a prescrição parcial à pretensão de diferenças de anuênios, por se
+tratar de descumprimento do pactuado, e não de ato único do empregador, já que o
+benefício se incorporou ao contrato de trabalho do empregado, o que repele a
+incidência do entendimento da Súmula nº 294 desta Corte .
+Transcrevem-se os seguintes precedentes:
+(...)
+Por estar a decisão do Regional em consonância com a notória, reiterada e atual
+jurisprudência do Tribunal Superior do Trabalho, esgotada se encontra a função
+uniformizadora desta Corte, o que afasta a possibilidade de eventual configuração de
+divergência jurisprudencial, ante a aplicação do teor da Súmula nº 333 do TST e do § 7º
+do artigo 896 da CLT, com a redação que lhe foi dada pela Lei nº 13.015/2014 .
+Não se constata contrariedade à Súmula nº 294 do Tribunal Superior do Trabalho,
+tampouco ofensa ao artigo 7º, inciso XXIX, da Constituição Federal.
+Assim, não se constata a transcendência política da causa a ensejar o exame do
+recurso de revista.
+Por outro lado, também não constato haver, no caso, transcendência jurídica,
+social, econômica ou qualquer outra relevância para o exame do apelo, nos termos do
+art. 896-A da CLT .
+Ante o exposto, nego provimento ao agravo de instrumento do Banco do Brasil
+S.A., quanto ao tema "PRESCRIÇÃO PARCIAL. ANUÊNIOS", por não se vislumbrar a
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683E822E6B6E2C0.
+transcendência da causa a ensejar o processamento do recurso de revista, nos termos
+do art. 896-A da CLT.
+A integração dos anuênios está fundamentada nos termos seguintes:
+" 2.5 ANUÊNIOS
+O reclamado foi condenado a pagar diferenças de anuênio (1% cada 365 dias
+de trabalho) pelo restabelecimento da progressão correspondente ao tempo de
+serviço, partir de 01.09.1999, observada prescrição pronunciada, calculado sobre o
+salário, e reflexos.
+Irresignado, o reclamado recorre. Sustenta que os anuênios foram
+instituídos mediante os instrumentos coletivos de trabalho firmados em 1983 no
+qual o sindicato representante da categoria do autor ajustou com o Banco do
+Brasil S.A., transacionando para extinguir a sistemática dos quinquênios, criando
+partir daí os anuênios, que passariam ser pagos na base de 1% por ano, sobre o
+vencimento padrão do funcionário. Defende que inexiste no contrato de trabalho
+norma assegurando direito aos anuênios.
+Aduz que o autor f oi admitido em 13.03.1980 e nunca recebeu valores título
+de quinquênios, pelo que estes não aderiram ao seu contrato de trabalho. Sinala
+que a aquisição de novos anuênios esteve prevista nos acordos coletivos até
+31.08.1999 e, partir de então, foi mantido pagamento dos anuênios já adquiridos,
+eis que cessou aquisição dos anuênios implementados posteriormente, pois estes
+figuravam apenas como mera expectativa de direito.
+Analiso.
+A questão também esta pacificada neste Regional por meio da Súmula nº
+126 que assim dispõe :
+'BANCO DO BRASIL. ANUÊNIOS. ORIGEM. UPRESSÃO.
+I - Os anuênios pagos aos empregados do Banco do Brasil admitidos até
+31.08.1983 possuem origem em norma regulamentar, condição que aderiu aos
+contratos de trabalho, sendo nula sua supressão, por esta violar disposto no artigo
+468 da CLT . Il - Para os empregados admitidos partir de 1º.09.1983, os anuênios
+possuem amparo em norma coletiva, não sendo possível cômputo de novos
+anuênios partir de 1º.09.1999, por força do Acordo Coletivo que suprimiu
+vantagem'.
+O autor foi admitido em 13.03.1980, motivo pelo qual incide item da referida
+Súmula ao caso, devendo ser mantida condenação nos seus exatos termos .
+Nego provimento" (págs. 4518-4519).
+No caso, o Regional confirmou a sentença na qual se deferiu o pagamento das
+diferenças salariais, referente à incorporação dos anuênios ao contrato de trabalho, ao
+fundamento de que o autor foi admitido em 13/3/1980, quando a referida rubrica estava
+prevista em norma regulamentar interna, de modo que seria nula a supressão posterior,
+na forma do artigo 468 da CLT.
+Com efeito, como não se trata de benefício instituído apenas por norma coletiva,
+mas contratualmente, conforme asseverou o Regional, inócua a tese patronal de que os
+acordos coletivos posteriores deixaram de prever o pagamento dos anuênios.
+Se o reclamado pretendia que a única fonte do direito fosse a norma coletiva, não
+deveria ter inserido o pagamento dos anuênios na norma regulamentar interna. Ao fazê￾lo, contratualizou a vantagem.
+Desse modo, não há como acolher a tese defendida pelo reclamado de que a
+parcela fosse devida apenas no período de vigência dos acordos coletivos, sob pena de
+implicar em alteração contratual lesiva, em violação ao disposto no artigo 468 da CLT e
+em contrariedade à Súmula nº 51, item I, do TST.
+Neste mesmo sentido, destacam-se os seguintes precedentes oriundos de todas
+as Turmas desta Corte superior:
+(...)
+Assim, por estar a decisão regional em harmonia com o entendimento
+jurisprudencial desta Corte, não subsistem as alegações de ofensa aos artigos 7º, incisos
+XVI, XXVI, da Constituição Federal, 9º e 468 da CLT, de contrariedade às Súmulas nºs 51,
+item I, e 277 do TST, tampouco a divergência jurisprudencial suscitada, nos termos do §
+7º do artigo 896 da CLT e da Súmula nº 333 do TST.
+A invocação genérica de violação do artigo 5º, incisos LIV e LV, da Constituição
+Federal de 1988, em regra e como ocorre neste caso, não é suficiente para autorizar o
+processamento do recurso de revista com base na previsão da alínea "c" do artigo 896
+da CLT, na medida em que, para sua constatação, seria necessário concluir, previamente,
+ter havido ofensa a preceito infraconstitucional.
+Assim, não se constata a transcendência política da causa a ensejar o exame do
+recurso de revista.
+Por outro lado, também não constato haver, no caso, transcendência jurídica,
+social, econômica ou qualquer outra relevância para o exame do apelo, nos termos do
+art. 896-A da CLT .
+Ante o exposto, nego provimento ao agravo de instrumento do Banco do Brasil
+S.A., quanto ao tema "ANUÊNIOS. INCORPORAÇÃO AO CONTRATO DE TRABALHO",
+diante da aplicação da Súmula nº 333 do TST, por não se vislumbrar a transcendência da
+causa a ensejar o processamento do recurso de revista, nos termos do art. 896-A da CLT. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683E822E6B6E2C0.
+O benefício de Assistência Judiciária Gratuita tem o seguinte fundamento:
+" 3.4 BENEFÍCIO DA JUSTIÇA GRATUITA
+O julgador de origem indeferiu benefício da justiça gratuita ao autor por
+aplicação da nova redação do ê3º do art.790 da CLT. Fundamentou que o salário
+verificado demonstra que o reclamante percebia montante superior 40% do limite
+máximo dos benefícios do RGPS e que, estando aposentado, não comprovou
+receber proventos inferiores este montante.
+O reclamante pretende reverter decisão. Argumenta que ação foi ajuizada
+antes da vigência da Reforma Trabalhista que comprovou nos autos sua condição
+de insuficiência econômica.
+Analiso.
+A teor do disposto no artigo 790, §3º, da CLT, com redação vigente na data
+da propositura da ação, benefício da justiça gratuita pode ser concedido aqueles
+que perceberem salário igual ou inferior ao dobro do mínimo legal, ou declararem,
+sob as penas da lei, que não estão em condições de pagar as custas do processo
+sem prejuízo do sustento próprio ou de sua família.
+Adota-se, ainda, entendimento vertido no item da Súmula nº 463 do TST,
+in verbis:
+"A partir de 26.06.2017, para concessão da assistência judiciária gratuita
+pessoa natural, basta declaração de hipossuficiência econômica firmada pela
+parte ou por seu advogado, desde que munido de procuração com poderes
+específicos para esse fim art. 105 do CPC de 2015); [...]'.
+Ressalto que a condição econômica não deve ser apurada com base em
+rendimentos do autor enquanto empregado, e sim de acordo com situação
+declarada no momento do ajuizamento da ação. E, ainda, que esteja
+aposentado, verifico que p reclamante acostou ao processo declaração de
+insuficiência econômica (ID. 8de734d), que se mostra suficiente para
+reconhecimento de sua impossibilidade de arcar com as despesas do processo
+sem prejuízo próprio de sua família. Tal declaração goza de presunção de
+veracidade (art.99, §3º, do CPC) deve ser acolhida como fundamento para
+deferimento do benefício " (págs 4528-4529).
+Cinge-se a controvérsia em se decidir se apenas a declaração de pobreza é
+suficiente para a comprovação do estado de miserabilidade da parte reclamante, para
+fins de deferimento dos benefícios da Justiça gratuita, em ação ajuizada antes da
+vigência da Lei n° 13.467/2017.
+A Lei nº 1.060/50 dispõe, no § 1º do artigo 4º, sobre a garantia do benefício da
+Justiça gratuita, que é assegurada a todos aqueles que litigam judicialmente e que não
+podem arcar com as despesas do recolhimento das custas processuais, impondo, como
+única condição a esse deferimento, que assim se declararem mediante simples
+afirmação na petição inicial acerca da sua situação econômica, presumindo-se a
+veracidade dessa declaração, exceto quando houver provas em sentido contrário,
+conforme se observa, in verbis:
+"Art. 4º A parte gozará dos benefícios da assistência judiciária, mediante
+simples afirmação, na própria petição inicial, de que não está em condições de
+pagar as custas do processo e os honorários de advogado, sem prejuízo próprio ou
+de sua família.
+§ 1º Presume-se pobre, até prova em contrário, quem afirmar essa condição
+nos termos desta lei, sob pena de pagamento até o décuplo das custas judiciais."
+O Tribunal a quo considerou que, diante da declaração de insuficiência de
+recursos apresentada pelo reclamante, tem-se por comprovada a miserabilidade
+econômica, motivo pelo qual deferiu o benefício de Assistência Judiciária Gratuita à
+parte .
+Destaca-se que, no caso, a ação em apreço foi ajuizada em 10/4/2017, antes da
+entrada em vigor da Lei nº 13.467/2017.
+Ademais, a comprovação a que alude o § 4º do artigo 790 da CLT, com a redação
+dada pela Lei nº 13.467/2017, pode ser feita mediante declaração de miserabilidade da
+parte. Nesse contexto, a simples afirmação da reclamante de que não tem condições
+financeiras de arcar com as despesas do processo autoriza a concessão da Justiça
+gratuita à pessoa natural, consoante o disposto na Súmula nº 463, item I, do TST, in
+verbis:
+"ASSISTÊNCIA JUDICIÁRIA GRATUITA. COMPROVAÇÃO.
+I - A partir de 26.06.2017, para a concessão da assistência judiciária gratuita
+à pessoa natural, basta a declaração de hipossuficiência econômica firmada pela
+parte ou por seu advogado, desde que munido de procuração com poderes
+específicos para esse fim (art. 105 do CPC de 2015)".
+E, no caso, conforme já registrado na decisão monocrática, há declaração de
+insuficiência econômica firmada pelo reclamante, o que enseja a concessão dos
+benefícios da gratuidade da Justiça.
+Intactos, portanto os §§ 3º e 4º do artigo 790 da CLT.
+Diante do exposto, nego provimento ao agravo de instrumento do Banco do Brasil
+S.A. quanto ao tema "BENEFÍCIO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA", nos termos das
+Súmulas nº 333 e 463 do TST, por não se vislumbrar a transcendência da causa a ensejar
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683E822E6B6E2C0.
+o processamento do recurso de revista, nos termos do art. 896-A da CLT .
+Nas razões do agravo, a Parte Agravante pugna pelo provimento do agravo de instrumento.
+Sem razão, contudo.
+Do cotejo da decisão agravada com as razões do agravo, verifica-se que a Parte Agravante não
+logra êxito em desconstituir os fundamentos da decisão monocrática que negou provimento ao seu
+agravo de instrumento.
+(...)
+Quanto ao tema "benefício da justiça gratuita", o art. 790, § 3º, da CLT, com a redação dada
+pela Lei nº 10.537, de 27.8.2002, estipulava ser devido o benefício da justiça gratuita àqueles que
+percebessem salário igual ou inferior ao dobro do mínimo legal ou declarassem, sob as penas da lei,
+que não estivessem em condições de pagar as custas do processo sem prejuízo do sustento próprio
+ou de sua família.
+O entendimento predominante no âmbito desta Corte era no sentido de que, para a concessão
+do benefício da justiça gratuita, bastava a simples afirmação do declarante ou de seu advogado, na
+petição inicial, para se considerar configurada a sua situação econômica, conforme art. 4º, § 1º, da Lei
+nº 7.510/1986, que deu nova redação à Lei nº 1.060/1950 (OJ 304 da SBDI-1/TST).
+O Código de Processo Civil de 2015 revogou diversos dispositivos da Lei de 1950, ampliando o
+alcance da gratuidade de justiça e simplificando o procedimento. O art. 99, § 3º, do CPC, estipulou a
+forma de comprovação da dificuldade econômica, mantendo a exigência de simples declaração de
+hipossuficiência de recursos e excluindo a necessidade da expressão " sem prejuízo do sustento
+próprio ou da família " - como antes existia no art. 2º da Lei nº 1060/1950 e no art. 790, § 3º, da CLT,
+com a redação dada pela Lei nº 10.537, de 27.8.2002.
+Convém transcrever o mencionado dispositivo processual:
+Art. 99. O pedido de gratuidade da justiça pode ser formulado na petição inicial, na
+contestação, na petição para ingresso de terceiro no processo ou em recurso.
+§ 1º Se superveniente à primeira manifestação da parte na instância, o pedido
+poderá ser formulado por petição simples, nos autos do próprio processo, e não
+suspenderá seu curso.
+§ 2º O juiz somente poderá indeferir o pedido se houver nos autos elementos que
+evidenciem a falta dos pressupostos legais para a concessão de gratuidade, devendo,
+antes de indeferir o pedido, determinar à parte a comprovação do preenchimento dos
+referidos pressupostos.
+§ 3º Presume-se verdadeira a alegação de insuficiência deduzida exclusivamente
+por pessoa natural .
+§ 4º A assistência do requerente por advogado particular não impede a concessão
+de gratuidade da justiça.
+Depreende-se desses dispositivos legais, portanto, que a legislação processual civil fixou a
+presunção de veracidade da declaração da pessoa natural - presunção relativa, evidentemente. Mas
+cabe notar que a lei exigiu a existência de elementos concretos que demonstrem o abuso no pedido
+da concessão para que seja afastada a presunção. Nesse sentido, note-se, por exemplo, que a
+assistência do requerente por advogado particular não impede a concessão da gratuidade de justiça
+(art. 99, § 4º, do CPC).
+Em face da nova ordem processual, o TST editou a Súmula 463, com redação do seu item I, nos
+seguintes termos: " [a] partir de 26.06.2017, para a concessão da assistência judiciária gratuita à pessoa
+natural, basta a declaração de hipossuficiência econômica firmada pela parte ou por seu advogado, desde
+que munido de procuração com poderes específicos para esse fim (art. 105 do CPC de 2015) ";
+É certo que a Lei 13.467/2017 - Lei da Reforma Trabalhista , com início de vigência em
+11/11/2017, modificou a redação do art. 790, § 3º, da CLT, e criou um novo parágrafo 4º, com
+condições diferentes para que seja deferida a assistência judiciária gratuita na Justiça do Trabalho,
+para ações ajuizadas a partir de 11/11/2017:
+Art. 790. (...)
+(...)
+§ 3oÉ facultado aos juízes, órgãos julgadores e presidentes dos tribunais do
+trabalho de qualquer instância conceder, a requerimento ou de ofício, o benefício da
+justiça gratuita, inclusive quanto a traslados e instrumentos, àqueles que perceberem
+salário igual ou inferior a 40% (quarenta por cento) do limite máximo dos benefícios do
+Regime Geral de Previdência Social.
+§ 4oO benefício da justiça gratuita será concedido à parte que comprovar
+insuficiência de recursos para o pagamento das custas do processo.
+Pela atual redação, entende-se que a condição de hipossuficiência econômica é
+presumidamente verdadeira para o obreiro que perceba salário igual ou inferior a 40% (quarenta por
+cento) do limite máximo dos benefícios do Regime Geral de Previdência Social. Nas demais situações,
+exige a CLT que o Requerente comprove a insuficiência de recursos.
+Observe-se que a nova disposição celetista criou uma exigência mais onerosa para o
+trabalhador que litiga na Justiça do Trabalho do que aquela exigida para o cidadão que demanda a
+tutela jurisdicional do Estado na Justiça Comum, relativamente à concessão da gratuidade de justiça.
+Assim, enquanto, na Justiça Comum, presume-se verdadeira a simples alegação de
+insuficiência econômica para arcar com as despesas do processo (art. 99, § 3º, do CPC/2015), na
+Justiça do Trabalho, foi exigida a comprovação dessa situação pela parte requerente se o seu salário
+for superior a 40% (quarenta por cento) do limite máximo dos benefícios do Regime Geral de
+Previdência Social. Observe-se que não há qualquer elemento razoável que justifique essa
+diferenciação de tratamento. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683E822E6B6E2C0.
+A Terceira Turma do TST, na interpretação sistemática do art. 790, § 4º, da CLT, e como forma
+de dar eficácia aos princípios constitucionais da isonomia e de amplo acesso ao Poder Judiciário, tem
+manifestado o entendimento de que a comprovação da insuficiência de recursos pode ser feita
+mediante a simples declaração da parte , nos termos da Súmula 463, I/TST - mesmo nas ações
+ajuizadas após o início de vigência da Lei 13.467/2017 e para trabalhadores que perceberem
+salário além do limite previsto no art. 790, § 3º, da CLT .
+À luz desse contexto normativo, a matéria relativa àconcessão da gratuidade de justiça foi
+objeto de discussão no âmbito do Pleno desta Corte em Incidente de Recurso de Revista Repetitivo,
+ocasião em que houve amplo debate sobre o tema, tendo prevalecido, contudo, o entendimento
+majoritário consubstanciado na seguinte tese ( Tema 21 ):
+I - independentemente de pedido da parte, o magistrado trabalhista tem o poder￾dever de conceder o benefício da justiça gratuita aos litigantes que perceberem salário
+igual ou inferior a 40% (quarenta por cento) do limite máximo dos benefícios do Regime
+Geral de Previdência Social, conforme evidenciado nos autos;
+II - o pedido de gratuidade de justiça, formulado por aquele que perceber salário
+superior a 40% (quarenta por cento) do limite máximo dos benefícios do Regime Geral de
+Previdência Social, pode ser instruído por documento particular firmado pelo
+interessado, nos termos da Lei nº 7.115/83, sob as penas do art. 299 do Código Penal ;
+III - havendo impugnação à pretensão pela parte contrária, acompanhada de
+prova, o juiz abrirá vista ao requerente do pedido de gratuidade de justiça, decidindo,
+após, o incidente (art. 99, § 2º, do CPC).
+Há de ser enfatizado que o caráter imperioso dos Precedentes fixados pelo Tribunal Pleno do
+TST em Incidentes de Recursos de Revista Repetitivos visa a garantir às partes, pelo alinhamento dos
+julgamentos judiciais no País, a isonomia, a segurança jurídica e eficiência do Poder Judiciário (art. 5º,
+caput , XXXVI e LXXVIII, da CF/88).
+Inclusive, sobre o sistema de unificação de decisões no País, pontue-se que a Justiça do
+Trabalho brasileira tem trajetória precursora no tratamento de Precedentes, já desde os prejulgados
+instituídos pelo antigo art. 902 da CLT, introduzidos em 1946. Aquela experiência, ainda embrionária,
+buscava uniformizar a jurisprudência e garantir segurança jurídica em um País em processo de
+consolidação de sua institucionalidade democrática. Os prejulgados vinculavam Tribunais Regionais
+e Juntas de Conciliação e Julgamento, permitindo antecipar soluções para casos semelhantes e
+reduzindo a fragmentação decisória. Embora tenham sido posteriormente revogados, os prejulgados
+representavam um marco histórico, demonstrando o protagonismo da Justiça do Trabalho na
+construção de instrumentos de racionalidade e previsibilidade ¿ muito antes do marco inicial na
+consolidação do sistema de Precedentes no Brasil, com a Emenda Constitucional nº 45 de 2004.
+O sistema contemporâneo de Precedentes, consolidado no CPC de 2015 e incorporado à
+prática trabalhista com força normativa, exige dos Magistrados a observância da ratio decidendi ,
+isto é, dos fundamentos determinantes do Precedente, e não apenas de suas conclusões. Diferencia￾se, assim, do obiter dictum , que corresponde a argumentos laterais, marginais ao julgamento, com
+função persuasiva, mas sem caráter vinculante. É no respeito aos fundamentos determinantes que
+se encontra a essência do Precedente como mecanismo de uniformização, pois são eles que
+guardam a força normativa capaz de orientar casos futuros. Votar e julgar em conformidade com
+os Precedentes não significa abdicar da independência judicial, mas assumir o compromisso
+democrático com a segurança jurídica, a isonomia e a eficiência da jurisdição, evitando decisões
+conflitantes e assegurando tratamento igual aos jurisdicionados .
+Importa destacar, entretanto, que os Precedentes não são um fim em si mesmos, tampouco
+solução absoluta para os dilemas da Justiça. Representam instrumento relevante de racionalidade e
+previsibilidade, mas sua eficácia depende de atenção permanente do Judiciário e de todos os atores
+que com eles dialogam - Advocacia, Ministério Público, sociedade civil, sociedade política e
+comunidade acadêmica. A aplicação acrítica ou mecânica pode converter o Precedente em obstáculo
+à evolução do Direito. Por isso, é necessário que se reconheça sempre a possibilidade de sua revisão,
+aperfeiçoamento, distinção ou até mesmo superação, sempre que transformações sociais,
+legislativas, econômicas ou institucionais o exigirem. Sendo assim, os Precedentes devem ser vistos
+como instrumentos de trabalho a serviço da Justiça, que exigem prudência, reflexão crítica e
+atualização constante, e não como fórmulas jurisprudenciais eternas ou inquestionáveis.
+Entretanto, conforme anteriormente enfatizado, reconhecendo a relevância e a
+compulsoriedade dos precedentes como instrumentos de uniformização dos julgados no âmbito do
+Poder Judiciário Trabalhista, a tese jurídica fixada pelo Tribunal Pleno desta Corte deve obviamente
+ser acolhida.
+No caso dos autos, o acórdão regional consignou que o Reclamante apresentou declaração de
+hipossuficiência.
+Considerando, portanto, a força vinculante do precedente firmado pelo Tribunal Pleno
+desta Corte, tem-se que a decisão recorrida está em consonância com o Tema 21 da Tabela de
+Recursos de Revista Repetitivos, motivo por que o apelo deve ser desprovido, no aspecto.
+Assim, reitere-se que a causa não oferece transcendência com relação aos reflexos de
+natureza econômica, política, social ou jurídica. Também não há outros indicadores de relevância no
+caso concreto, nos termos do art. 896-A, § 1º, da CLT.
+Tratando-se, portanto, de decisão proferida em estrita observância às normas processuais (art.
+557, caput , do CPC/1973; arts. 14 e 932, IV, "a", do CPC/2015), é insuscetível de reforma ou
+reconsideração.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683E822E6B6E2C0.
+Observa-se, portanto, que, ao contrário do que sustenta a Parte Embargante, a
+matéria apontada como omissa foi devidamente analisada e fundamentada na decisão embargada, em
+consonância com o princípio constitucional da motivação das decisões judiciais (art. 93, IX, da CF),
+também referido na lei ordinária - arts. 832 da CLT e 489 do CPC/2015.
+Conforme consignado no acórdão embargado, o art. 790, § 3º, da CLT, com a
+redação dada pela Lei nº 10.537, de 27.8.2002, estipulava ser devido o benefício da justiça gratuita
+àqueles que percebessem salário igual ou inferior ao dobro do mínimo legal ou declarassem, sob as
+penas da lei, que não estivessem em condições de pagar as custas do processo sem prejuízo do sustento
+próprio ou de sua família.
+O entendimento predominante no âmbito desta Corte era no sentido de que,
+para a concessão do benefício da justiça gratuita, bastava a simples afirmação do declarante ou de seu
+advogado, na petição inicial, para se considerar configurada a sua situação econômica, conforme art. 4º,
+§ 1º, da Lei nº 7.510/1986, que deu nova redação à Lei nº 1.060/1950 (OJ 304 da SBDI-1/TST).
+O Código de Processo Civil de 2015 revogou diversos dispositivos da Lei de 1950,
+ampliando o alcance da gratuidade de justiça e simplificando o procedimento. O art. 99, § 3º, do CPC,
+estipulou a forma de comprovação da dificuldade econômica, mantendo a exigência de simples
+declaração de hipossuficiência de recursos e excluindo a necessidade da expressão "sem prejuízo do
+sustento próprio ou da família" - como antes existia no art. 2º da Lei nº 1060/1950 e no art. 790, § 3º, da
+CLT, com a redação dada pela Lei nº 10.537, de 27.8.2002.
+Depreende-se desses dispositivos legais, portanto, que a legislação processual
+civil fixou a presunção de veracidade da declaração da pessoa natural - presunção relativa,
+evidentemente. Mas cabe notar que a lei exigiu a existência de elementos concretos que demonstrem o
+abuso no pedido da concessão para que seja afastada a presunção. Nesse sentido, note-se, por
+exemplo, que a assistência do requerente por advogado particular não impede a concessão da
+gratuidade de justiça (art. 99, § 4º, do CPC).
+Em face da nova ordem processual, o TST editou a Súmula 463, com redação do
+seu item I, nos seguintes termos: "[a] partir de 26.06.2017, para a concessão da assistência judiciária
+gratuita à pessoa natural, basta a declaração de hipossuficiência econômica firmada pela parte ou por seu
+advogado, desde que munido de procuração com poderes específicos para esse fim (art. 105 do CPC de
+2015)";
+É certo que a Lei 13.467/2017 - Lei da Reforma Trabalhista , com início de
+vigência em 11/11/2017, modificou a redação do art. 790, § 3º, da CLT, e criou um novo parágrafo 4º, com
+condições diferentes para que seja deferida a assistência judiciária gratuita na Justiça do Trabalho, para
+ações ajuizadas a partir de 11/11/2017.
+Pela atual redação, entende-se que a condição de hipossuficiência econômica é
+presumidamente verdadeira para o obreiro que perceba salário igual ou inferior a 40% (quarenta por
+cento) do limite máximo dos benefícios do Regime Geral de Previdência Social. Nas demais situações,
+exige a CLT que o Requerente comprove a insuficiência de recursos.
+Observe-se que a nova disposição celetista criou uma exigência mais onerosa para
+o trabalhador que litiga na Justiça do Trabalho do que aquela exigida para o cidadão que demanda a
+tutela jurisdicional do Estado na Justiça Comum, relativamente à concessão da gratuidade de justiça.
+Assim, enquanto, na Justiça Comum, presume-se verdadeira a simples alegação
+de insuficiência econômica para arcar com as despesas do processo (art. 99, § 3º, do CPC/2015), na
+Justiça do Trabalho, foi exigida a comprovação dessa situação pela parte requerente se o seu salário for
+superior a 40% (quarenta por cento) do limite máximo dos benefícios do Regime Geral de Previdência
+Social. Observe-se que não há qualquer elemento razoável que justifique essa diferenciação de
+tratamento.
+A Terceira Turma do TST, na interpretação sistemática do art. 790, § 4º, da CLT, e
+como forma de dar eficácia aos princípios constitucionais da isonomia e de amplo acesso ao Poder
+Judiciário, tem manifestado o entendimento de que a comprovação da insuficiência de recursos
+pode ser feita mediante a simples declaração da parte , nos termos da Súmula 463, I/TST - mesmo nas
+ações ajuizadas após o início de vigência da Lei 13.467/2017 e para trabalhadores que perceberem
+salário além do limite previsto no art. 790, § 3º, da CLT .
+À luz desse contexto normativo, a matéria relativa àconcessão da gratuidade de
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683E822E6B6E2C0.
+justiça foi objeto de discussão no âmbito do Pleno desta Corte em Incidente de Recurso de Revista
+Repetitivo, ocasião em que houve amplo debate sobre o tema, tendo prevalecido, contudo, o
+entendimento majoritário consubstanciado na seguinte tese (Tema 21):
+I - independentemente de pedido da parte, o magistrado trabalhista tem o poder-dever de
+conceder o benefício da justiça gratuita aos litigantes que perceberem salário igual ou inferior a 40%
+(quarenta por cento) do limite máximo dos benefícios do Regime Geral de Previdência Social,
+conforme evidenciado nos autos;
+II - o pedido de gratuidade de justiça, formulado por aquele que perceber salário superior a
+40% (quarenta por cento) do limite máximo dos benefícios do Regime Geral de Previdência Social,
+pode ser instruído por documento particular firmado pelo interessado, nos termos da Lei nº 7.115/83,
+sob as penas do art. 299 do Código Penal ;
+III - havendo impugnação à pretensão pela parte contrária, acompanhada de prova, o juiz
+abrirá vista ao requerente do pedido de gratuidade de justiça, decidindo, após, o incidente (art. 99, §
+2º, do CPC).
+No caso dos autos, o acórdão regional consignou que o Reclamante apresentou
+declaração de hipossuficiência.
+Considerando, portanto, a força vinculante do precedente firmado pelo Tribunal
+Pleno desta Corte, tem-se que a decisão recorrida está em consonância com o Tema 21 da Tabela de
+Recursos de Revista Repetitivos.
+Registre-se que o Supremo Tribunal Federal, no julgamento da ADC 80, concluído
+no dia 3/9/2026, declarou na inconstitucionalidade por omissão parcial do §§ 3º e 4º do art. 790 da CLT,
+conferiu interpretação conforme a Constituição ao § 3º do referido dispositivo, declarou a
+inconstitucionalidade da Súmula 463, I, do TST e determinou a revisão da Jurisprudência desta Corte
+Superior. Nesse sentido, a certidão de julgamento:
+Decisão: O Tribunal, por maioria,julgou parcialmente procedentes os pedidos formulados na
+petição inicial, em ordem a (i) declarar a inconstitucionalidade da expressão “a 40% (quarenta por
+cento) do limite máximo dos benefícios do Regime Geral de Previdência Social”, constante do
+art. 790, § 3º, da CLT; (ii) atribuir interpretação conforme à Constituição Federal ao § 3º do art.
+790 da CLT, para, até ulterior adequação legislativa, estabelecer, para efeito de deferimento da
+gratuidade de justiça, presunção relativa de insuficiência de recursos para aqueles que recebem,
+atualmente, salário igual ou inferior a R$ 5.000,00, consoante previsto na Lei 15.270/2025, sendo
+certo que as eventuais atualizações na legislação do imposto de renda se refletem automaticamente
+em tal patamar; na hipótese de inexistir atualização anual da tabela do imposto de renda, impõe-se
+a correção do referido valor pelo IPCA; a presunção relativa de hipossuficiência a que se refere este
+item também se aplica aos assistidos pela Defensoria Pública; (iii) estipular que, nos termos do art.
+790, § 4º, da CLT, aqueles que auferem salário superior ao patamar acima estipulado – atualmente,
+R$ 5.000,00 – e que pretendem obter o benefício da gratuidade de justiça, devem demonstrar, in
+concreto, a efetiva insuficiência de recursos para pagamento dos ônus inerentes ao processo judicial;
+(iv) permitir que, mesmo na hipótese da presunção relativa mencionada no item ii, os magistrados
+indefiram o benefício da gratuidade de justiça caso constatem patrimônio ou renda familiar
+incompatível com tal presunção, sempre respeitado o juízo de proporcionalidade e a análise dos
+interesses envolvidos no caso concreto; (v) esclarecer que o ônus de comprovar a própria renda ou a
+insuficiência financeira cabe a quem pleiteia o benefício, sendo facultado ao magistrado, nos termos
+do art. 99, § 2º, do CPC, exigir documentação adicional a esse respeito; (vi) declarar a
+inconstitucionalidade por omissão parcial do art. 790, §§ 3º e 4º, da CLT, determinando, desde
+logo, como forma de saneamento da omissão ora constatada, até posterior adequação
+legislativa, a aplicação de tais disposições, nos termos acima enunciados, a todos os ramos do
+Poder Judiciário, não apenas no âmbito da Justiça do Trabalho; (vii) declarar a
+inconstitucionalidade da Súmula 463, I, do Tribunal Superior do Trabalho; (viii) determinar ao
+Superior Tribunal de Justiça e ao Tribunal Superior do Trabalho que promovam a revisão das
+respectivas jurisprudências, firmadas, inclusive, sob o regime de repetitivos, para adequação às
+diretrizes estabelecidas por este Supremo Tribunal Federal; (ix) estabelecer que a presente
+deliberação não alcança o primeiro grau de jurisdição dos Juizados Especiais, consoante previsto no
+art. 54, caput, da Lei 9.099/1995, observados o parágrafo único desse dispositivo e o art. 55 da mesma lei; (x) modular os efeitos desta decisão, de modo que produza efeitosex nunc, a contar
+da publicação da ata de julgamento de mérito, sendo aplicável, portanto, somente aos
+processos ajuizados a partir de tal marco. Tudo nos termos do voto do Ministro Gilmar Mendes
+(Redator para o acórdão), vencidos o Ministro Edson Fachin (Presidente e Relator) e a Ministra
+Cármen Lúcia. Plenário, 3.9.2026 (g.n.)
+Contudo, a Suprema Corte modulou os efeitos da decisão para que operem ex
+nunc, a contar da publicação da ata de julgamento (ocorrida em 16.09.2026), estabelecendo
+expressamente sua aplicação apenas aos processos ajuizados a partir desse marco temporal.
+Desse modo, considerando que a presente reclamação trabalhista foi ajuizada em
+2017, anteriormente, portanto, ao marco temporal estabelecido pelo STF, o entendimento firmado na
+ADC 80 não incide sobre a hipótese dos autos, sendo aplicável a Súmula 463, I, do TST e a tese fixada
+no Tema 21 da Tabela de Recursos Repetitivos do TST.
+Portanto, não se constata ausência de fundamentação no exame das questões
+arguidas, mas, efetivamente, irresignação da Parte Embargante contra o que foi decidido. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683E822E6B6E2C0.
+Como se sabe, esta via processual não é adequada para a revisão de decisões
+judiciais. A omissão, contradição ou obscuridade a justificarem a oposição de embargos de declaração
+apenas se configuram quando o Julgador deixa de se manifestar acerca das matérias contidas no
+recurso interposto, utiliza fundamentos colidentes entre si, ou ainda quando a decisão não é clara.
+Ademais, o Julgador não está obrigado a rebater, um a um, os argumentos das
+partes, bastando que indique, na decisão, os motivos que lhe formaram o convencimento (art. 371 do
+CPC/2015), em face dos fatos e circunstâncias constantes nos autos. O posicionamento desfavorável à
+tese daquele que recorre não se traduz, necessariamente, em omissão do julgado.
+Outrossim, nos termos da OJ 118/SBDI-I/TST, havendo tese explícita sobre a
+matéria, na decisão recorrida, é desnecessária a referência expressa ao dispositivo legal para fins de
+prequestionamento.
+Se a argumentação dos embargos não se insere em nenhum dos vícios
+mencionados nos arts. 897-A da CLT e 1.022 do CPC/2015, deve ser desprovido o recurso.
+Pelo exposto, NEGO PROVIMENTO aos embargos de declaração.
+ISTO POSTO
+ACORDAM os Ministros da Terceira Turma do Tribunal Superior do Trabalho, à
+unanimidade, negar provimento aos embargos de declaração.
+Brasília, 6 de outubro de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+MAURICIO GODINHO DELGADO
+Ministro Relator
+Firmado por assinatura digital em 08/10/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683E822E6B6E2C0.
