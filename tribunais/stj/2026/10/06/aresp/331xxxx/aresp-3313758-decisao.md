@@ -1,0 +1,35 @@
+AGRAVO EM RECURSO ESPECIAL Nº 3313758 - ES (2026/0267017-3)
+
+RELATOR: MINISTRO REYNALDO SOARES DA FONSECA
+
+AGRAVANTE: ROBSON DA VITORIA DOS SANTOS
+
+ADVOGADOS: DIEGO BERGAMIM FERNANDES - ES029686
+
+EVANDRO DE CAMPOS JÚNIOR - ES032066
+
+AGRAVADO: MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO
+
+CORRÉU: LETICIA DOS SANTOS BOLIS
+
+EMENTA
+
+DECISÃO
+Trata-se de agravo interposto por ROBSON DA VITÓRIA DOS SANTOS, em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado do Espírito Santo, cuja ementa é a seguinte (e-STJ fls. 589/592):
+
+DIREITO PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. PRELIMINAR DE NULIDADE POR VIOLAÇÃO DE DOMICÍLIO. INGRESSO EM RESIDÊNCIA SEM MANDADO JUDICIAL. ESTADO DE FLAGRÂNCIA CONFIGURADO. CRIME PERMANENTE. PRELIMINAR REJEITADA. MÉRITO. TRÁFICO DE DROGAS E POSSE ILEGAL DE MUNIÇÃO DE USO RESTRITO. ARTIGOS 33, CAPUT, DA LEI Nº 11.343/06 E 16 DA LEI Nº 10.826/03. MATERIALIDADE E AUTORIA COMPROVADAS. PROVAS ROBUSTAS. TRÁFICO PRIVILEGIADO. INAPLICABILIDADE. REGIME PRISIONAL INALTERADO. CUSTAS PROCESSUAIS. ANÁLISE PELO JUÍZO DA EXECUÇÃO PENAL RECURSO IMPROVIDO. I. CASO EM EXAME Apelação criminal interposta por ROBSON DA VITÓRIA DOS SANTOS contra sentença condenatória que o condenou às penas de 08 (oito) anos de reclusão, em regime inicial fechado, e 510 (quinhentos e dez) dias-multa, pelos crimes previstos no artigo 33, caput, da Lei nº 11.343/06 e artigo 16 da Lei nº 10.826/03. II. QUESTÃO EM DISCUSSÃO As questões analisadas no recurso são: (i) nulidade do processo por violação de domicílio, com base na teoria da árvore dos frutos envenenados; (ii) ausência de provas para condenação; (iii) desclassificação do delito do artigo 16 para o artigo 12, ambos da Lei nº 10.826/03; (iv) aplicação da causa de diminuição prevista no artigo 33, §4º, da Lei nº 11.343/06; (v) readequação do regime prisional; (vi) isenção de custas processuais. III. RAZÕES DE DECIDIR PRELIMINAR DE NULIDADE Não há nulidade pela suposta violação de domicílio. A entrada na residência ocorreu diante de fundadas razões e em estado de flagrância, característico de crimes permanentes, como o tráfico de drogas. O Supremo Tribunal Federal e o Superior Tribunal de Justiça consolidaram entendimento de que, nos crimes permanentes, o estado de flagrância se protrai no tempo, dispensando mandado judicial quando houver fundadas razões. MÉRITO A materialidade e a autoria dos crimes estão comprovadas por laudos periciais e pelos depoimentos coerentes dos policiais, que possuem relevante valor probatório e demonstram que o réu estava envolvido no tráfico de drogas e na posse de munições de uso restrito. O pedido de desclassificação do crime previsto no artigo 16 para o artigo 12, ambos da Lei nº 10.826/03, é inviável, uma vez que as munições apreendidas são de uso restrito, configurando o preceito primário do tipo penal. A causa de diminuição de pena prevista no artigo 33, §4º, da Lei nº 11.343/06, não é aplicável, pois ficou demonstrada a dedicação do réu a atividades criminosas, evidenciada pela apreensão de diversos elementos típicos do tráfico de drogas, como balança de precisão, caderno de anotações e rádio comunicador, além de ser alvo de outras investigações criminais. Mantida inalterada a pena privativa de liberdade, não há alteração do regime inicial fechado, fixado em consonância com os artigos 33 e 59 do Código Penal e o artigo 42 da Lei nº 11.343/06. O pleito de isenção das custas processuais deve ser submetido ao juízo da execução penal, competente para sua análise. IV. DISPOSITIVO E TESE Recurso conhecido e improvido. Tese de julgamento: Em crimes permanentes, como o tráfico de drogas, o ingresso em domicílio sem mandado judicial é legítimo quando há fundadas razões que caracterizem o estado de flagrância. A posse de munições de uso restrito configura o crime previsto no artigo 16 da Lei nº 10.826/03, sendo inviável sua desclassificação para o artigo 12 do mesmo diploma legal. O tráfico privilegiado não é aplicável a agentes que se dediquem a atividades criminosas, conforme o disposto no artigo 33, §4º, da Lei nº 11.343/06. O pleito de isenção de custas processuais deve ser analisado pelo juízo da execução penal. Dispositivos relevantes citados: Constituição Federal, artigo 5º, XI; Lei nº 11.343/06, artigos 33, caput, e 42; Lei nº 10.826/03, artigos 12 e 16; Código Penal, artigos 33 e 59; Código de Processo Penal, artigo 149. Jurisprudência relevante citada: STF, RE 603616, Rel. Min. Gilmar Mendes, Tribunal Pleno, 10/05/2016; STJ, AgRg no RHC 146.130/DF, Rel. Min. Olindo Menezes, Sexta Turma, julgado em 24/08/2021; TJDF, APR 07289.22-63.2022.8.07.0003, Rel. Des. Esdras Neves, Julg. 17/08/2023, Publ. P Je 31/08/2023.
+
+Interpostos três embargos de declaração, os primeiros foram parcialmente providos, apenas para fixar em favor do embargante o regime semiaberto de cumprimento de pena (e-STJ fls. 635/652); os segundos foram providos, sem efeitos infringentes (e-STJ fls.661/679); e os terceiros não foram conhecidos, por serem manifestamente incabíveis, tendo sido determinada a certificação do trânsito em julgado, independentemente da interposição de outros recursos (e-STJ fls. 696/714).
+Apresentados recurso especial (e-STJ fls. 719/740) e contrarrazões (e-STJ fls. 743/746), o Tribunal a quo não admitiu o recurso especial (e-STJ fls. 747/751), tendo sido interposto o presente agravo (e-STJ fls. 753/764).
+O Ministério Público Federal, instado a se manifestar, opinou pelo não conhecimento do agravo (e-STJ fls. 786/789).
+É o relatório. Decido.
+O recurso não merece acolhida.
+Segundo a jurisprudência desta Corte Superior, os embargos de declaração não conhecidos, por serem manifestamente inadmissíveis, não interrompem nem suspendem o prazo para interposição de outros recursos. Precedentes: AgRg no AREsp n. 3.202.899/GO, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 24/9/2026, DJEN de 29/9/2026; EDcl nos EDcl no AgRg nos EDcl no AREsp n. 2.782.289/BA, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 8/9/2026, DJEN de 11/9/2026; EDcl no AgRg no REsp n. 2.152.747/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 24/6/2026, DJEN de 29/6/2026; AgRg nos EDcl no AREsp n. 3.146.695/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/6/2026, DJEN de 23/6/2026; AgRg nos EDcl no AREsp n. 3.083.894/RN, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/5/2026, DJEN de 18/5/2026; EDcl nos EDcl no AgRg no AREsp n. 3.090.179/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 5/5/2026, DJEN de 12/5/2026; AgRg no AREsp n. 3.150.177/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/4/2026, DJEN de 24/4/2026.
+Dessa forma, o recurso é manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, VI, c/c. o art. 1.003, § 5º, do CPC, bem como do art. 798 do CPP.
+Ante o exposto, não conheço do recurso.
+Intimem-se.
+
+Brasília, 06 de outubro de 2026.
+
+Ministro REYNALDO SOARES DA FONSECA
+Relator
