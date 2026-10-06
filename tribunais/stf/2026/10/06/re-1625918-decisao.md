@@ -1,0 +1,68 @@
+Trata-se de recurso extraordinário interposto contra acórdão da Primeira Turma Recursal dos Juizados Especiais do Tribunal de Justiça do Estado do Amazonas, cuja ementa segue transcrita:
+
+RECURSO INOMINADO. DIREITO DO CONSUMIDOR. COBRANÇA INDEVIDA EM FATURA DE ENERGIA ELÉTRICA. ENCARGOS, PERDAS E OUTROS. AUSÊNCIA DE INFORMAÇÃO CLARA E PRECISA. VIOLAÇÃO AO CÓDIGO DE DEFESA DO CONSUMIDOR. REPETIÇÃO DO INDÉBITO. DANO MORAL CONFIGURADO. INDENIZAÇÃO FIXADA. SENTENÇA REFORMADA. RECURSO PROVIDO (doc. 6, p. 1).
+
+Os embargos de declaração que se seguiram foram rejeitados (doc. 9).
+
+Neste recurso extraordinário, fundado no art. 102, III, a, da Constituição Federal, alega-se, em suma, ofensa aos arts. 5°, II; 21, XII, b; 22, IV; 93, IX; e 175 da mesma Constituição (doc. 10).
+
+É o relatório necessário. Decido.
+
+A pretensão recursal não merece acolhida.
+
+Preliminarmente, observo que os arts. 5°, II; 21, XII, b; e 22, IV, da Constituição da República não foram prequestionados. Assim, consoante a Súmula 282/STF, é inadmissível o recurso extraordinário, visto que a questão constitucional suscitada não foi apreciada no acórdão recorrido. Ademais, os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, o que inviabiliza o recurso, nos termos da Súmula 356/STF. Nessa linha, reporto-me ao julgamento do Recurso Extraordinário com Agravo 1.480.413 AgR/RS, da minha relatoria, DJe 6/5/2024, cuja ementa transcrevo a seguir:
+
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO IMPROVIDO. I – Ausência de prequestionamento da questão constitucional suscitada. Incidência da Súmula 282/STF. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356/STF. II – Agravo ao qual se nega provimento (grifei).
+
+É certo, ainda, que o Supremo Tribunal Federal, no julgamento do Agravo de Instrumento 791.292 QO-RG/PE (Tema 339 da Repercussão Geral), da relatoria do Ministro Gilmar Mendes, DJe 13/8/2010, reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal não impõe que a decisão seja exaustivamente fundamentada. O que se busca é que o julgador indique de forma clara as razões de seu convencimento, tal como ocorreu. Por oportuno, colaciono a ementa do referido precedente:
+
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral (grifei).
+
+Além disso, o Juízo de origem dirimiu a controvérsia em exame com base nos seguintes fundamentos:
+
+Inicialmente, restou demonstrado nos autos que as cobranças contestadas pelo autor não foram devidamente esclarecidas pela concessionária, violando o dever de informação previsto no art. 6º, inciso III, do CDC. Ademais, a responsabilidade da concessionária de energia elétrica é objetiva, nos termos do art. 14 do CDC, sendo cabível a inversão do ônus da prova em favor do consumidor.
+Verifico que os fatos trazidos à análise jurisdicional revelam-se uma relação de consumo, na qual incidem as normas específicas do CDC, enquadrando-se a parte autora da ação como consumidora, seja o direto, seja o equiparado (art. 2º, caput ou parágrafo único CDC) e o requerido como fornecedor (art. 3º, caput, CDC):
+Art. 3º. Fornecedor é toda pessoa física ou jurídica, pública ou privada nacional ou estrangeira, bem como os entes despersonalizados, que desenvolvem atividades de produção, montagem, criação, construção, transformação, importação, exportação, distribuição ou comercialização de produtos ou prestação de serviços.
+...
+§ 2º. Serviço é qualquer atividade fornecida no mercado de consumo, mediante remuneração, inclusive as de natureza bancária, financeira, de crédito e securitária, salvo as decorrentes das relações de caráter trabalhista.
+Art. 14. O fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços, bem como por informações insuficientes ou inadequadas sobre sua fruição e riscos.
+§ 1º. O serviço é defeituoso quando não fornece a segurança que o consumidor dele pode esperar, levando-se em consideração as circunstâncias relevantes, entre as quais:
+I - o modo de seu fornecimento;
+§ 3º. O fornecedor de serviços só não será responsabilizado quando provar:
+I - que, tendo prestado o serviço, o defeito inexiste;
+II - a culpa exclusiva do consumidor ou de terceiro.
+Presente a hipossuficiência do consumidor, opera-se a inversão do ônus da prova, na inteligência do art. 6º, inciso VIII da Lei nº 8.078/90.
+De plano, verifico a necessidade de reforma da sentença.
+Cumpre ressaltar que a responsabilidade da recorrida é objetiva, cabendo-lhe demonstrar segurança no serviço prestado. Compulsando os autos, verifica-se não fora apresentada nenhuma causa excludente desta responsabilidade, não se desincumbindo, portanto, de seu ônus. Frise-se que o risco é inerente ao negócio, não devendo ser assumido pelo consumidor, mas sim pelo fornecedor do serviço.
+Os documentos apresentados não foram suficientes para afastar a evidente falha na prestação do serviço. Por outro lado, as alegações da parte consumidora são verossímeis na medida em que comprova as cobranças objeto desta demanda.
+O CDC dispõe que o fornecedor de serviço responde pelos “vícios de qualidade”, (art.20 CDC). Essa responsabilidade é objetiva, cabendo ao reclamante provar o dano, a conduta e o nexo causal.
+[...]
+No tocante ao dano material, verifica-se que houve cobrança indevida, com efetivo desembolso comprovado. Todavia, não restou demonstrada má-fé da concessionária, razão pela qual a repetição em dobro prevista no art. 42, parágrafo único, do CDC não se aplica. Assim, é devida apenas a restituição simples do valor pago.
+Temos em análise a conduta do fornecedor ofendendo diversos direitos do consumidor. Ora, se há um ilícito praticado por uma empresa fornecedora de serviço, há um dano moral ao consumidor, no mínimo indenizável em seu aspecto punitivo, com finalidade de compelir aquela a não mais praticar tal conduta. Assim, nos presentes autos, tenho, sem a menor dúvida, como efetiva a ocorrência do dano moral.
+O valor da indenização pelo dano moral, entre outros critérios, deve observar, como finalidade da condenação, o desestímulo à conduta lesiva. Deve também evitar valor excessivo ou ínfimo. No que concerne ao quantum a ser fixado a título de indenização por danos morais incumbe ressaltar a observância dos critérios da razoabilidade e proporcionalidade, evitando-se, assim, o enriquecimento sem causa.
+Por sua vez, além do aspecto compensatório do dano moral há de ser levado em conta o seu aspecto punitivo baseado no punitive damages do direito anglo-saxão, aceito pela jurisprudência brasileira, inclusive com remansosas decisões do E.STJ, até porque, a conduta do requerido-fornecedor se reveste de singular desvalia, razão pela qual entendo como razoável o quantum de R$ 5.000,00 a título de dano moral, decorrente dos fatos narrados (doc. 6, pp. 1-3).
+
+Nesse contexto, para dissentir da conclusão adotada pelo Juízo de origem e verificar a procedência dos argumentos consignados no recurso extraordinário, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279/STF. Também seria indispensável a análise da legislação infraconstitucional pertinente, de modo que eventual ofensa à Constituição Federal ocorreria de forma indireta, o que inviabiliza o recurso. Com essa orientação, destaco julgados do Plenário e de ambas as Turmas do Supremo Tribunal Federal, cujas ementas passo a transcrever:
+
+DIREITO DO CONSUMIDOR. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO CIVIL PÚBLICA. ENERGIA ELÉTRICA. FATURA. VALORES DESTINADOS A TERCEIROS. CONSTATAÇÃO DE PRÁTICA CONTRÁRIA AO CDC. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. AUSÊNCIA DE PREQUESTIONAMENTO. 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário com agravo, o qual tem por objeto acórdão que manteve sentença de parcial procedência da ação. 2. Hipótese em que, para dissentir do entendimento firmado pelo Tribunal de origem, seria necessário analisar a legislação infraconstitucional aplicada ao caso, assim como reexaminar fatos e provas constantes dos autos, procedimentos vedados neste momento processual (Súmulas nº 279 e 280/STF). 3. A questão constitucional suscitada pela parte agravante não foi objeto de análise pelo Tribunal de origem. Tal circunstância atrai a incidência das Súmulas nº 282 e 356/STF. 4. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência. 5. Agravo interno a que se nega provimento (ARE 1.441.667 AgR/MG, Rel. Min. Luís Roberto Barroso, Presidente, Plenário, DJe 14/11/2023).
+
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO E CIVIL. DANOS MORAIS E MATERIAIS DECORRENTES DA RELAÇÃO ENTRE CONCESSIONÁRIA DE SERVIÇO PÚBLICO E CONSUMIDOR. QUANTUM INDENIZATÓRIO. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO AI Nº 839.695. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. OCORRÊNCIA DO DANO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 279/STF. 1. Os danos morais e materiais decorrentes de relação entre concessionária de serviço público e consumidor, quando aferido pelas instâncias ordinárias o quantum indenizatório, não revelam repercussão geral apta a dar seguimento ao apelo extremo, consoante decidido pelo Plenário Virtual do STF, na análise do AI nº 839.695, da Relatoria da Min. Cezar Peluso, DJe 1º/9/2011. 2. O dano moral, quando aferido pelas instâncias ordinárias, não pode ser revisto pela E. Suprema Corte, em face da incidência da Súmula 279/STF que dispõe, verbis: “Para simples reexame de prova não cabe recurso extraordinário”. 3. O recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional. 4. In casu, o acórdão extraordinariamente recorrido assentou: “APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. SERVIÇO DE FORNECIMENTO DE ENERGIA ELÉTRICA. DIVERSAS INTERRUPÇÕES EM DATAS E POR MOTIVOS DIFERENTES. DEMORA NO RESTABELECIMENTO. CASO FORTUITO INOCORRENTE. PEDIDOS PROCEDENTES. SUCUMBÊNCIA REDIMENSIONADA. APELAÇÃO PROVIDA.” 5. Agravo regimental DESPROVIDO (ARE 793.257 AgR/RS, Rel. Min. Luiz Fux, Primeira Turma, DJe 23/5/2014).
+
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. FORNECIMENTO DE ENERGIA ELÉTRICA. DANOS MORAIS. IMPOSSIBILIDADE DE REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL E DA MATÉRIA FÁTICO-PROBATÓRIA. OFENSA CONSTITUCIONAL INDIRETA. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO (ARE 881.453 AgR/RS, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 21/5/2015).
+
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSUMIDOR. RESPONSABILIDADE CIVIL. FALHA NA PRESTAÇÃO DE SERVIÇO. DANO MATERIAL. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO (ARE 847.526 AgR/RS, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 12/12/2024).
+
+Outrossim, saliento que o Plenário do Supremo Tribunal Federal, no julgamento do Agravo de Instrumento 839.695 RG/AM (Tema 413 da Repercussão Geral), da relatoria do Ministro Cezar Peluso (Presidente), DJe 1°/9/2011, reconheceu a inexistência de repercussão geral da controvérsia relativa aos critérios utilizados pelo juízo competente para quantificar o valor devido a título de indenização por dano moral em decorrência da relação de consumo entre a concessionária fornecedora de energia elétrica e o consumidor, por entender que a discussão tem natureza infraconstitucional. Por oportuno, transcrevo a ementa do referido julgado:
+
+Agravo de instrumento convertido em Extraordinário. Inadmissibilidade deste. Quantum indenizatório. Danos morais e materiais. Concessionária de serviço público. Consumidor. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto o quantum indenizatório de condenação por danos morais e materiais decorrentes da relação entre concessionária de serviço público e consumidor, versa sobre tema infraconstitucional.
+
+Por fim, conforme a jurisprudência do Supremo Tribunal Federal, não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada à legislação infraconstitucional pela decisão recorrida (Súmula 636/STF).
+
+Posto isso, nego provimento ao recurso (art. 932 do CPC). Deixo de majorar os honorários recursais previstos no art. 85, § 11, do Código de Processo Civil, uma vez que não foram fixados pelo Juízo de origem.
+
+Publique-se.
+
+Brasília, 6 de outubro de 2026.
+
+Ministro Cristiano Zanin
+Relator
