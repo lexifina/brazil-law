@@ -1,0 +1,1666 @@
+P
+o
+d
+e
+r
+J
+u
+diciá
+rio
+J
+u
+s
+tiç
+a
+d
+o
+T
+r
+a
+b
+alh
+o
+$
+{
+S
+V
+N
+O
+M
+E
+O
+R
+G
+A
+O
+}
+P
+R
+O
+C
+E
+S
+S
+O
+N
+º
+T
+S
+T
+-
+E
+D
+Civ
+-
+R
+R
+-
+0
+0
+0
+1
+0
+7
+0
+-
+9
+8
+.
+2
+0
+1
+7
+.
+5
+.
+1
+1
+.
+0
+0
+1
+0
+A
+C
+Ó
+R
+D
+Ã
+O
+3
+ª
+T
+u
+r
+m
+a
+G
+M
+M
+G
+D
+/j
+a
+R
+E
+C
+U
+R
+S
+O
+D
+E
+R
+E
+VIS
+T
+A
+.
+J
+U
+L
+G
+A
+M
+E
+N
+T
+O
+A
+N
+T
+E
+RIO
+R
+P
+O
+R
+E
+S
+T
+A
+3
+ª
+T
+U
+R
+M
+A
+.
+D
+E
+V
+O
+L
+U
+Ç
+Ã
+O
+D
+O
+S
+A
+U
+T
+O
+S
+P
+A
+R
+A
+E
+V
+E
+N
+T
+U
+A
+L
+E
+MIS
+S
+Ã
+O
+D
+E
+J
+U
+ÍZ
+O
+D
+E
+R
+E
+T
+R
+A
+T
+A
+Ç
+Ã
+O
+.
+A
+R
+TIG
+O
+1
+.
+0
+3
+0
+, IN
+CIS
+O II,
+D
+O
+C
+P
+C
+.
+T
+E
+R
+C
+EIRIZ
+A
+Ç
+Ã
+O
+T
+R
+A
+B
+A
+L
+HIS
+T
+A
+.
+R
+E
+S
+P
+O
+N
+S
+A
+BILID
+A
+D
+E
+S
+U
+B
+SIDIÁ
+RIA
+.
+A
+D
+MINIS
+T
+R
+A
+Ç
+Ã
+O
+P
+Ú
+B
+LIC
+A
+.
+Ô
+N
+U
+S
+D
+A
+P
+R
+O
+VA
+Q
+U
+A
+N
+T
+O
+À
+FIS
+C
+A
+LIZ
+A
+Ç
+Ã
+O
+D
+O
+C
+O
+N
+T
+R
+A
+T
+O
+D
+E
+P
+R
+E
+S
+T
+A
+Ç
+Ã
+O
+D
+E
+S
+E
+R
+VIÇ
+O
+S
+.
+T
+E
+M
+A
+1
+.
+1
+1
+8
+D
+A
+T
+A
+B
+E
+L
+A
+D
+E
+R
+E
+P
+E
+R
+C
+U
+S
+S
+Ã
+O
+G
+E
+R
+A
+L
+D
+O
+S
+T
+F
+.
+R
+E
+S
+P
+O
+N
+S
+A
+BILID
+A
+D
+E
+D
+O
+P
+O
+D
+E
+R
+P
+Ú
+B
+LIC
+O
+P
+E
+L
+A
+G
+A
+R
+A
+N
+TIA
+D
+A
+S
+C
+O
+N
+DIÇ
+Õ
+E
+S
+D
+E
+S
+E
+G
+U
+R
+A
+N
+Ç
+A
+,
+HIGIE
+N
+E
+E
+S
+A
+L
+U
+B
+RID
+A
+D
+E
+D
+O
+S
+T
+R
+A
+B
+A
+L
+H
+A
+D
+O
+R
+E
+S. O
+S
+u
+p
+r
+e
+m
+o
+T
+rib
+u
+n
+al F
+e
+d
+e
+r
+al, a
+o
+j
+ulg
+a
+r
+o
+R
+E
+7
+6
+0.9
+3
+1
+(
+T
+e
+m
+a
+2
+4
+6
+), c
+o
+m
+r
+e
+p
+e
+r
+c
+u
+s
+s
+ã
+o
+g
+e
+r
+al, fi
+r
+m
+o
+u
+o
+e
+n
+t
+e
+n
+dim
+e
+n
+t
+o
+d
+e
+q
+u
+e
+o in
+a
+dim
+ple
+m
+e
+n
+t
+o
+d
+o
+s
+e
+n
+c
+a
+r
+g
+o
+s
+t
+r
+a
+b
+alhis
+t
+a
+s
+d
+e
+e
+m
+p
+r
+e
+g
+a
+d
+o
+s
+d
+e
+c
+o
+n
+t
+r
+a
+t
+a
+d
+a
+n
+ã
+o
+t
+r
+a
+n
+s
+f
+e
+r
+e
+a
+u
+t
+o
+m
+a
+tic
+a
+m
+e
+n
+t
+e
+a
+r
+e
+s
+p
+o
+n
+s
+a
+bilid
+a
+d
+e
+a
+o
+P
+o
+d
+e
+r
+P
+ú
+blic
+o
+c
+o
+n
+t
+r
+a
+t
+a
+n
+t
+e
+(
+a
+r
+t. 7
+1, §
+1
+º, d
+a
+L
+ei n
+º
+8.6
+6
+6
+/
+9
+3
+). P
+o
+s
+t
+e
+rio
+r
+m
+e
+n
+t
+e, n
+o
+R
+E
+1.2
+9
+8.6
+4
+7
+(
+T
+e
+m
+a
+1.1
+1
+8
+), a
+S
+u
+p
+r
+e
+m
+a
+C
+o
+r
+t
+e
+r
+eit
+e
+r
+o
+u
+a
+r
+e
+p
+e
+r
+c
+u
+s
+s
+ã
+o
+g
+e
+r
+al d
+a
+c
+o
+n
+t
+r
+o
+v
+é
+r
+sia, d
+e
+s
+t
+a
+f
+eit
+a
+s
+o
+b
+r
+e
+a legitimidade da transferência ao ente público do ônus de comprovar a ausência de culpa na fiscalização do cumprimento das obrigações trabalhistas de terceirizados (arts. 5º, II, 37, XXI e § 6º, e 97 da Constituição Federal). A partir da definição do tema pelo STF, com efeito vinculante, é inviável a declaração da responsabilidade subsidiária da Administração Pública como decorrência automática do inadimplemento de verbas trabalhistas ou pela mera atribuição ao ente público do ônus de prova de demonstrar a efetiva fiscalização do contrato de prestação de serviços. Ou seja, caso a matéria seja deliberada pelo Órgão Judicial em razão da estrita transferência ao ente público do ônus de provar que concretamente fiscalizou o contrato de prestação de serviços, é aplicável o enunciado contido no item 1 do Tema 1.118/RG/STF, não sendo admissível a declaração da responsabilidade subsidiária da Administração Pública. Observa-se, também, que o próprio STF vislumbrou situações em que é viável a manutenção da responsabilidade subsidiária da entidade pública. Deve prevalecer a condenação: 1. Caso o ente estatal seja formalmente notificado do descumprimento de obrigações trabalhistas e não adote medidas para ajustes das irregularidades, ficando caracterizado o comportamento negligente a autorizar a declaração de sua responsabilidade subsidiária (item 2 do Tema 1.118/STF); 2. Quando descumpridos direitos ligados a condições de segurança, higiene e salubridade no ambiente de trabalho, hipótese em que a entidade pública deve ser responsabilizada subsidiariamente, de forma automática (item 3 do Tema 1.118/STF). No caso concreto, é incontroversa a condenação ao pagamento do adicional de insalubridade, o que evidencia a inobservância das normas de saúde e segurança do trabalho, conforme item 3 do Tema 1.118 da tabela de repercussão Geral Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683E7E554C4BEC0.
+do STF. Assim, o Relator entende que a responsabilidade
+subsidiária foi imputada à entidade pública, uma vez que há, nos
+autos, condenação ao pagamento de parcelas relacionadas à
+saúde e à segurança do trabalhador. Na sessão havida no dia
+17.12.2025, a matéria relativa às implicações do julgamento
+trazido pelo STF no Tema 1.118 de Repercussão Geral foi
+debatida amplamente pelos Membros deste Órgão. Naquela
+ocasião, prevaleceu o entendimento majoritário da 3ª Turma de
+que o STF, no item 3 do Tema 1.118 de Repercussão Geral, ao
+estabelecer a responsabilidade da Administração Pública em
+matéria de saúde e segurança, excepcionou apenas parcelas
+dessa natureza, não tendo o alcance de autorizar a extensão do
+dever a outras verbas trabalhistas inadimplidas. Contudo, esta
+3ª Turma, em sua atual composição majoritária, passou a adotar
+o entendimento de que, na hipótese de o Tribunal Regional
+reconhecer a responsabilidade da Parte Reclamada com base
+nas provas dos autos, as quais demonstrem a negligência da
+Administração Pública quanto à fiscalização de direito
+relacionado à saúde e à segurança do trabalhador, tal omissão
+configura comportamento grave o suficiente para ensejar a
+responsabilidade subsidiária da entidade pública, sendo
+extensível ao conjunto das parcelas trabalhistas inadimplidas. À
+vista desse entendimento, este Relator retoma seu posiciona
+originário no sentido de que os deveres resultantes do contrato
+de terceirização devem ser observados em sua integralidade. A
+partir do momento em que se verifica que o tomador de
+serviços não observa qualquer dever básico e relevante advindo
+da estrutura contratual empregatícia, desponta claramente a
+inércia da Administração Pública na fiscalização do contrato de
+prestação de serviços. Sendo o contrato uno e dele derivando
+diversificadas obrigações, desde que descumprida uma delas –
+e, obviamente, desde que inserida nas exceções vislumbradas
+pelo STF para a estipulação da responsabilidade da entidade
+pública –, deve ser estabelecida ou preservada a condenação
+que determina que o ente público suporte todos os encargos
+trabalhistas definidos em Juízo, sem fragmentação das verbas
+trabalhistas deferidas. Dessa forma, havendo condenação a
+diversos títulos trabalhistas, inclusive parcela ligada à segurança
+e saúde no trabalho, a responsabilidade subsidiária da
+Administração Pública deve abranger todas as parcelas
+deferidas em Juízo. Assim sendo, estando o acórdão impugnado
+em consonância com a decisão definitiva do STF que originou a
+tese jurídica contida no Tema 1.118 do ementário de
+repercussão geral, não se exerce o juízo de retratação previsto
+no art. 1030, II, do CPC/2015. Mantido, pois, o acórdão
+proferido, sem proceder ao juízo de retratação.
+Vistos, relatados e discutidos estes autos de Embargos de Declaração Cível em
+Recurso de Revista nº TST-EDCiv-RR - 0001070-98.2017.5.11.0010, em que é Embargante ESTADO DO
+AMAZONAS e são Embargado(a)S ALESSANDRO SOUZA DA COSTA e D DE AZEVEDO FLORES.
+A Vice-Presidência do TST, em razão do julgamento de mérito do RE 1.298.647
+RG/SP pelo Supremo Tribunal Federal, Tema 1.118 da tabela de repercussão geral, determinou o retorno
+dos autos a esta Turma, nos termos do art. 1.030, II, do CPC, para eventual juízo de retratação.
+É o relatório. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683E7E554C4BEC0.
+V O T O
+I - CONHECIMENTO
+Conforme já aferido anteriormente, atendidos todos os pressupostos gerais de
+admissibilidade, passo à análise do tema “responsabilidade subsidiária”.
+JULGAMENTO ANTERIOR POR ESTA 3ª TURMA. DEVOLUÇÃO DOS AUTOS PARA
+EVENTUAL EMISSÃO DE JUÍZO DE RETRATAÇÃO. ARTIGO 1.030, INCISO II, DO CPC. TERCEIRIZAÇÃO
+TRABALHISTA. RESPONSABILIDADE SUBSIDIÁRIA. ADMINISTRAÇÃO PÚBLICA. ÔNUS DA PROVA
+QUANTO À FISCALIZAÇÃO DO CONTRATO DE PRESTAÇÃO DE SERVIÇOS. TEMA 1.118 DA TABELA DE
+REPERCUSSÃO GERAL DO STF. RESPONSABILIDADE DO PODER PÚBLICO PELA GARANTIA DAS
+CONDIÇÕES DE SEGURANÇA, HIGIENE E SALUBRIDADE DOS TRABALHADORES, COM CONDENAÇÃO
+AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS E DE ADICIONAL DE INSALUBRIDADE.
+Eis o teor do acórdão turmário:
+V O T O
+RECURSO DE REVISTA.
+Tempestivo o apelo (fl. 359-PE), regular a representação (Súmula 436/TST), isento de preparo
+(art. 790-A da CLT e Decreto-Lei nº 779/69), estão preenchidos os pressupostos genéricos de
+admissibilidade.
+1 - ADMINISTRAÇÃO PÚBLICA DIRETA OU INDIRETA. TERCEIRIZAÇÃO. RESPONSABILIDADE
+SUBSIDIÁRIA. ÔNUS DA PROVA.
+1.1 - CONHECIMENTO.
+Com o intuito de atender ao disposto no art. 896, § 1º, I-A, da CLT, a parte transcreveu os
+seguintes trechos do acórdão regional (fls. 334/335-PE):
+Partindo dessa premissa, verifica-se, todavia, que questão controvertida ainda
+permanece, no seio da jurisprudência, no que diz respeito à distribuição do ônus da
+prova quanto à verificação, in concreto, do cumprimento, pela Administração Pública, de
+seus misteres ficalizatórios. Vale dizer que esta questão específica não restou
+expressada na tese jurídica supra, conforme se observa da transcrição.
+Nesta seara, este julgador entende que a ocorrência in concreto da fiscalização
+do contrato de prestação de serviços é FATO IMPEDITIVO do direito do reclamante,
+de modo a ser da Administração Pública o ônus de demonstrá-lo nos autos, a teor do
+art. 818, II, da CLT. Deste modo, NÃO HÁ QUE SE FALAR, SEQUER, EM INVERSÃO DO
+ÔNUS DA PROVA, já que fato impeditivo, modificativo ou extintivo do direito do
+reclamante é NATURALMENTE ônus da parte ré, tal qual prevê os inc. II do art. 818 da
+CLT e do art. 373 do CPC.
+Assim, afasto, desde logo, eventual alegação de violação do comando inserto no §
+2º do art. 818 da CLT, na medida em que este se aplica tão-somente quando imputado, à
+parte ré, o ônus de comprovar a inocorrência do fato constitutivo do direito da parte
+autora, o que não é o caso na presente demanda. Conforme já declinado acima, a
+satisfação do dever de fiscalização da prestação de serviços pela Administração, nas
+hipóteses de terceirização, constitui fato impeditivo da pretensão autoral - logo, deve ser
+naturalmente comprovado pela parte que o alega, nos termos do art. 818, II, da CLT.
+(...)
+Em síntese:o(a) litisconsorte passivo(a) não logrou êxito em provar que
+implementou efetiva fiscalização do cumprimento das obrigações trabalhistas por
+parte da empresa prestadora de serviços, ônus que lhe competia por força do art.
+818, II, da CLT. Deste modo, restou evidenciado nos autos, a culpa in vigilando do(a)
+recorrente , pelo que deve ser condenado(a) no pagamento das parcelas
+consignadas no título executivo judicial de forma subsidiária.
+Destaco, ainda, que não é hipótese de presumir a culpa do ente estatal ou inverter
+o ônus da prova nos termos do § 1º do art. 818 da CLT, mas tão-somente de distribuir￾lhe naturalmente o encargo probatório que lhe cabe. Não há se falar, portanto em
+"condenação automática", pelo que resta afastada a alegação de violação do item V da
+súmula n. 331 do TST e dos precedentes do STF fixados nos julgamentos da ADC 16-DF e
+do RE n° 760.931/DF.
+Insurge-se o reclamado, requerendo a exclusão da responsabilidade subsidiária que lhe foi
+atribuída. Afirma que não há culpa in vigilando , pois não basta o mero inadimplemento das
+obrigações trabalhistas por parte do real empregador, ressaltando a necessidade de comprovação
+robusta da conduta culposa do ente público. Sustenta a impossibilidade da condenação imposta, em
+razão do julgamento do RE 760.931 pelo STF. Indica ofensa aos arts. 818, I, da CLT, 373, I, do CPC e 71,
+§1º, da Lei 8.666/93. Colaciona arestos.
+Diante da salvaguarda inscrita no art. 71 da Lei nº 8.666/1993, a responsabilidade subjetiva e
+subsidiária da Administração Pública Direta ou Indireta encontra lastro em caracterizadas ação ou
+omissão culposa na fiscalização e adoção de medidas preventivas ou sancionatórias ao
+inadimplemento de obrigações trabalhistas por parte de empresas prestadoras de serviços
+contratadas (arts. 58, III, e 67 da Lei nº 8.666/1993).
+O Supremo Tribunal Federal, no julgamento da Ação Declaratória de Constitucionalidade nº 16-
+DF, em 24.11.2010 (Rel. Min. Cezar Peluso, DJe de 9.9.2011), concluiu ser necessária, para o
+reconhecimento da responsabilidade subsidiária da Administração Pública, a efetiva demonstração
+de culpa, na linha da teoria da responsabilidade subjetiva extracontratual, não se aplicando, ao caso, Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683E7E554C4BEC0.
+o art. 37, § 6°, da Constituição Federal.
+Após essa decisão, o Tribunal Superior do Trabalho acresceu os itens V e VI à Súmula 331,
+assim redigidos:
+V - Os entes integrantes da Administração Pública direta e indireta respondem
+subsidiariamente, nas mesmas condições do item IV, caso evidenciada a sua conduta
+culposa no cumprimento das obrigações da Lei n.º 8.666, de 21.06.1993, especialmente
+na fiscalização do cumprimento das obrigações contratuais e legais da prestadora de
+serviço como empregadora. A aludida responsabilidade não decorre de mero
+inadimplemento das obrigações trabalhistas assumidas pela empresa regularmente
+contratada.
+V I - A responsabilidade subsidiária do tomador de serviços abrange todas as
+verbas decorrentes da condenação referentes ao período da prestação laboral.
+Ante o reconhecimento da higidez do art. 71, § 1º, da Lei nº 8.666/1993, o Supremo Tribunal
+Federal reputou constitucional a questão manejada no recurso extraordinário nº RE-603.397/SC,
+interposto contra acórdão desta Corte, e reconheceu a existência de repercussão geral, adotando-o
+como paradigma representativo do tema. Contudo, por tramitar aquele processo em segredo de
+justiça, foi substituído, em 18.3.2014, pelo recurso extraordinário nº RE-760.931/DF.
+A Suprema Corte, ao apreciar o tema 246 da repercussão geral, conheceu, em parte, do recurso
+extraordinário e deu-lhe provimento para afastar a responsabilidade subsidiária atribuída à União.
+Fixou, ainda, a seguinte tese: O inadimplemento dos encargos trabalhistas dos empregados do
+contratado não transfere automaticamente ao Poder Público contratante a responsabilidade pelo
+seu pagamento, seja em caráter solidário ou subsidiário, nos termos do art. 71, § 1º, da Lei nº
+8.666/93.
+Contra tal decisão, foram opostos três embargos de declaração, nos quais se questionavam os
+seguintes aspectos:
+1) Qual seria o alcance do advérbio automaticamente, para que se pudesse
+delimitar a responsabilidade da Administração Pública pelos débitos trabalhistas de
+pessoas jurídicas por ela contratadas;
+2) A quem competiria o ônus da prova relativamente à omissão no dever de
+fiscalizar o regular adimplemento das verbas devidas aos empregados;
+3) Se a inserção do adjetivo solidário não pode ensejar a interpretação de que, em
+alguma situação, seria possível a responsabilização solidária da Administração Pública
+por obrigações titularizadas pelos empregados do contratado.
+Os embargos de declaração foram rejeitados, nos termos do voto do Ministro Edson Fachin.
+Eis a ementa:
+EMBARGOS DECLARATÓRIOS EM RECURSO EXTRAORDINÁRIO. TEMA 246 DA
+SISTEMÁTICA DA REPERCUSSÃO GERAL. RESPONSABILIDADE SUBSIDIÁRIA DA
+ADMINISTRAÇÃO PÚBLICA. EMPRESAS TERCEIRIZADAS. INEXISTÊNCIA DE OMISSÃO,
+OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. EMBARGOS DE DECLARAÇÃO
+REJEITADOS. 1. Não há contradição a ser sanada, pois a tese aprovada, no contexto da
+sistemática da repercussão geral, reflete a posição da maioria da Corte quanto ao tema
+em questão, contemplando exatamente os debates que conduziram ao acórdão
+embargado. 2. Não se caracteriza obscuridade, pois, conforme está cristalino no acórdão
+e na respectiva tese de repercussão geral, a responsabilização subsidiária do poder
+público não é automática, dependendo de comprovação de culpa in eligendo ou culpa in
+vigilando , o que decorre da inarredável obrigação da administração pública de fiscalizar
+os contratos administrativos firmados sob os efeitos da estrita legalidade . 3. Embargos
+de declaração rejeitados. (RE 760931 ED, Relator(a): Min. LUIZ FUX, Relator(a) p/ Acórdão: Min. EDSON FACHIN, Tribunal Pleno, julgado em 01/08/2019, PROCESSO ELETRÔNICO
+DJe-194 DIVULG 05-09-2019 PUBLIC 06-09-2019).
+Transcrevo a fundamentação do voto vencedor (fls. 26/27 do acórdão):
+O SENHOR MINISTRO EDSON FACHIN: Trata-se de embargos declaratórios opostos
+em face de decisão do Plenário do Supremo Tribunal Federal, em que se decidiu pela
+constitucionalidade do artigo 71, §1º, da Lei de Licitações, alegando-se contradição entre
+a parte dispositiva do julgado e a tese aprovada na sistemática da repercussão geral.
+Afirma-se que:
+-(...) para evitar interpretações equivocadas da tese fixada sob a sistemática de
+repercussão geral, revela-se prudente que sua redação não contemple a ideia de
+solidariedade, a fim de que sejam repelidos eventuais entendimentos no sentido de que,
+ainda que não automaticamente, seria possível responsabilizar o Estado de forma
+solidária por débitos trabalhistas.-
+No que diz respeito à alegação de contradição, não prosperam os presentes
+embargos declaratórios. A tese aprovada no contexto da sistemática da repercussão
+geral reflete a posição da maioria da Corte quanto ao tema em questão, contemplando
+exatamente os debates que conduziram ao acórdão embargado.
+E não há obscuridade quanto à responsabilização do Estado pelas verbas
+trabalhistas inadimplidas pelos contratados, desde que, conforme está cristalino no
+acórdão e na respectiva tese de repercussão geral, houver comprovação de culpa in
+eligendo ou culpa in vigilando por parte do Poder Público , o que se impõe diante de sua
+inarredável obrigação de fiscalizar os contratos administrativos firmados sob os efeitos
+da estrita legalidade .
+A responsabilidade não é automática, conforme preconizou o legislador
+infraconstitucional, no artigo 71, §1º, da Lei de Licitações, mas não pode o poder público
+dela eximir-se quando não cumpriu com o seu dever de primar pela legalidade estrita na
+escolha ou fiscalização da empresa prestadora de serviços.
+Ante o exposto, rejeito os presentes embargos declaratórios. (destaquei)
+Manteve-se o entendimento de que a responsabilização subsidiária da Administração Pública,
+ante o reconhecimento da constitucionalidade do art. 71, § 1º, da Lei nº 8.666/1993, no julgamento da
+ADC nº 16/DF, não é automática e somente pode ser admitida se demonstrada sua conduta omissiva
+ou comissiva.
+Em razão disso, a Subseção Especializada em Dissídios Individuais I desta Corte, em
+composição plena, em sessão realizada no dia 12 de dezembro de 2019, decidiu, no julgamento do
+recurso de embargos nº E-RR-925-07.2016.5.05.0281, de relatoria do Ministro Cláudio Brandão, que,
+sendo obrigação da Administração Pública fiscalizar a regular execução do contrato, cabe-lhe o ônus
+processual de comprovar o seu regular cumprimento. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683E7E554C4BEC0.
+Eis a ementa do julgado:
+RECURSO DE EMBARGOS EM RECURSO DE REVISTA. INTERPOSIÇÃO NA VIGÊNCIA
+DA LEI Nº 13.467/2017. ADMINISTRAÇÃO PÚBLICA. RESPONSABILIDADE SUBSIDIÁRIA.
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS. LICITAÇÃO. DECISÃO PROFERIDA PELO
+SUPREMO TRIBUNAL FEDERAL NO RE Nº 760.931. TEMA 246 DA REPERCUSSÃO GERAL.
+SÚMULA Nº 331, V, DO TST. RATIO DECIDENDI. ÔNUS DA PROVA. No julgamento do RE nº
+760.931, o Supremo Tribunal Federal firmou a seguinte tese, com repercussão geral: O
+inadimplemento dos encargos trabalhistas dos empregados do contratado não transfere
+automaticamente ao Poder Público contratante a responsabilidade pelo seu pagamento,
+seja em caráter solidário ou subsidiário, nos termos do art. 71, § 1º, da Lei nº 8.666/93. O
+exame da ratio decidendi da mencionada decisão revela, ainda, que a ausência
+sistemática de fiscalização, quanto ao cumprimento das obrigações trabalhistas pela
+prestadora, autoriza a responsabilização do Poder Público. Após o julgamento dos
+embargos de declaração e tendo sido expressamente rejeitada a proposta de que
+fossem parcialmente acolhidos para se esclarecer que o ônus da prova desse fato
+pertencia ao empregado, pode-se concluir que cabe a esta Corte Superior a definição da matéria, diante de sua natureza eminentemente infraconstitucional. Nessa linha, a
+remansosa e antiga jurisprudência daquele Tribunal: AI 405738 AgR, Rel. Min. Ilmar
+Galvão, 1ª T., julg. em 12/11/2002; ARE 701091 AgR, Rel. Min. Cármen Lúcia, 2ª T., julg. em
+11/09/2012; RE 783235 AgR, Rel. Min. Teori Zavascki, 2ª T., julg. em 24/06/2014; ARE
+830441 AgR, Rel(a) Min. Rosa Weber, 1ª T., julg. em 02/12/2014; ARE 1224559 ED-AgR,
+Relator(a): Min. Dias Toffoli, Tribunal Pleno, julg. em 11/11/2019. Portanto, em sede de
+embargos de declaração, o Supremo Tribunal Federal deixou claro que a matéria
+pertinente ao ônus da prova não foi por ele definida, ao fixar o alcance do Tema 246.
+Permitiu, por conseguinte que a responsabilidade subsidiária seja reconhecida, mas
+sempre de natureza subjetiva, ou seja, faz-se necessário verificar a existência de culpa in
+vigilando. Por esse fundamento e com base no dever ordinário de fiscalização da
+execução do contrato e de obrigações outras impostas à Administração Pública por
+diversos dispositivos da Lei nº 8.666/1993, a exemplo, especialmente, dos artigos 58, III;
+67, caput e seu § 1º; e dos artigos 54, § 1º; 55, XIII; 58, III; 66; 67, § 1º; 77 e 78, é do Poder
+Público, tomador dos serviços, o ônus de demonstrar que fiscalizou de forma adequada
+o contrato de prestação de serviços . No caso, o Tribunal Regional consignou que os
+documentos juntados aos autos pelo ente público são insuficientes à prova de que
+houve diligência no cumprimento do dever de fiscalização, relativamente ao
+adimplemento das obrigações trabalhistas da empresa terceirizada. Ou seja, não se
+desincumbiu do ônus que lhe cabia. A Egrégia Turma, por sua vez, atribuiu ao
+trabalhador o ônus da prova, razão pela qual merece reforma a decisão embargada, a
+fim de restabelecer o acórdão regional. Recurso de embargos conhecido e provido.
+Em razão de tudo quanto dito, retomo a compreensão anterior acerca da matéria, no sentido
+de que o poder-dever constitucional de zelar pela correta aplicação dos recursos públicos, inclusive
+aqueles relativos a contratos e convênios de prestação de serviços, recai sobre a Administração
+Pública e não sobre o particular (arts. 58, III, e 67 da Lei nº 8.666/1993). Assim, é o Ente Público que
+possui recursos probatórios (documentos, processos administrativos etc) capazes de demonstrar a
+eficiente fiscalização da execução do contrato administrativo, sendo que não há razão para a recusa
+à apresentação desses elementos probatórios em juízo. De outra face, é evidente que o cidadão￾trabalhador não tem em sua posse os processos administrativos relativos à licitação (ou sua
+dispensa), às multas administrativas eventualmente aplicadas ou aos procedimentos de retenção de
+créditos e garantias (art. 80, III e IV, da Lei n° 8.666/1993).
+Portanto, a inércia ou recusa deliberada do Ente Público em demonstrar documentalmente o
+cumprimento de dever que a Lei lhe impõe - o de fiscalizar a correta execução do contrato
+administrativo - não pode servir como obstáculo ao direito pleiteado pela parte adversa, uma vez
+que, ao litigar com o particular, é dever da Administração Pública expor os fatos em juízo conforme a
+verdade (art. 77, I, do CPC).
+Assim, quando revelada pelo TRT, de forma inequívoca, a conduta culposa do Ente Público,
+cabível sua condenação, de forma subsidiária, pelas parcelas devidas ao trabalhador.
+No caso concreto, destacou o Regional que o(a) litisconsorte passivo(a) não logrou êxito
+em provar que implementou efetiva fiscalização do cumprimento das obrigações trabalhistas
+por parte da empresa prestadora de serviços, ônus que lhe competia por força do art. 818, II, da
+CLT. Deste modo, restou evidenciado nos autos, a culpa in vigilando do(a) recorrente.
+Do quadro fático narrado no acórdão regional (Súmula 126/TST), depreende-se que o Ente
+Público descuidou do seu dever de apresentar provas hábeis a demonstrar a eficiente
+fiscalização da execução do contrato administrativo, o que, na visão do Supremo Tribunal
+Federal, no julgamento do RE-961.360/DF, permite sua responsabilização subsidiária pelas
+parcelas devidas ao trabalhador.
+Ante o exposto, não conheço do recurso de revista.
+Por tudo quanto dito, não cabe exame de transcendência.
+Contra tal decisão, houve a interposição de recurso extraordinário, tendo a Vice￾Presidência desta Corte, em razão do julgamento de mérito pelo Supremo Tribunal Federal do RE
+1.298.647 RG/SP, Tema 1.118 da tabela de repercussão geral, determinado o retorno dos autos a esta
+Turma, nos termos do art. 1.030, II, do CPC, para eventual juízo de retratação.
+O Supremo Tribunal Federal, ao julgar o RE 760.931 (Tema 246), com repercussão
+geral, firmou o entendimento de que o inadimplemento dos encargos trabalhistas de empregados de
+contratada não transfere automaticamente a responsabilidade ao Poder Público contratante (art. 71, §
+1º, da Lei nº 8.666/93).
+Posteriormente, no RE 1.298.647 (Tema 1.118), a Suprema Corte reiterou a
+repercussão geral da controvérsia, desta feita sobre a legitimidade da transferência ao ente público do
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683E7E554C4BEC0.
+ônus de comprovar a ausência de culpa na fiscalização do cumprimento das obrigações trabalhistas de
+terceirizados (arts. 5º, II, 37, XXI e § 6º, e 97 da Constituição Federal).
+O julgamento do referido recurso, em 13/02/2025 (DJe 15/4/2025; trânsito em
+julgado em 29/4/2025), resultou na fixação da seguinte tese vinculante (Tema 1.118):
+“1 . Não há responsabilidade subsidiária da Administração Pública por encargos trabalhistas
+gerados pelo inadimplemento de empresa prestadora de serviços contratada, se amparada
+exclusivamente na premissa da inversão do ônus da prova, remanescendo imprescindível a
+comprovação, pela parte autora, da efetiva existência de comportamento negligente ou nexo de
+causalidade entre o dano por ela invocado e a conduta comissiva ou omissiva do poder público.
+2. Haverá comportamento negligente quando a Administração Pública permanecer inerte após
+o recebimento de notificação formal de que a empresa contratada está descumprindo suas
+obrigações trabalhistas, enviada pelo trabalhador, sindicato, Ministério do Trabalho, Ministério Público,
+Defensoria Pública ou outro meio idôneo.
+3 . Constitui responsabilidade da Administração Pública garantir as condições de segurança,
+higiene e salubridade dos trabalhadores, quando o trabalho for realizado em suas dependências ou
+local previamente convencionado em contrato, nos termos do art. 5º-A, § 3º, da Lei nº 6.019/1974.
+4. Nos contratos de terceirização,a Administração Pública deverá: (i) exigir da contratada a
+comprovação de capital social integralizado compatível com o número de empregados, na forma do
+art. 4º-B da Lei nº 6.019/1974; e (ii) adotar medidas para assegurar o cumprimento das obrigações
+trabalhistas pela contratada, na forma do art. 121, § 3º, da Lei nº 14.133/2021, tais como condicionar o
+pagamento à comprovação de quitação das obrigações trabalhistas do mês anterior.”
+A partir da definição do tema pelo STF, com efeito vinculante, é inviável a
+declaração da responsabilidade subsidiária da Administração Pública como decorrência automática do
+inadimplemento de verbas trabalhistas ou pela mera atribuição ao ente público do ônus de prova de
+demonstrar a efetiva fiscalização do contrato de prestação de serviços.
+Ou seja, caso a matéria seja deliberada pelo Órgão Judicial em razão da estrita
+transferência ao ente público do ônus de provar que concretamente fiscalizou o contrato de prestação
+de serviços, é aplicável o enunciado contido no item 1 do Tema 1.118/RG/STF, não sendo admissível a
+declaração da responsabilidade subsidiária da Administração Pública.
+Observa-se, também, que o próprio STF vislumbrou situações em que é viável a
+manutenção da responsabilidade subsidiária da entidade pública. Deve prevalecer a condenação: 1.
+Caso o ente estatal seja formalmente notificado do descumprimento de obrigações trabalhistas e não
+adote medidas para ajustes das irregularidades, ficando caracterizado o comportamento negligente a
+autorizar a declaração de sua responsabilidade subsidiária (item 2 do Tema 1.118/STF); 2. Quando
+descumpridos direitos ligados a condições de segurança, higiene e salubridade no ambiente de
+trabalho, hipótese em que a entidade pública deve ser responsabilizada subsidiariamente, de forma
+automática (item 3 do Tema 1.118/STF).
+No caso concreto, é incontroversa a condenação ao pagamento do adicional
+de insalubridade, o que evidencia a inobservância das normas de saúde e segurança do trabalho,
+conforme item 3 do Tema 1.118 da tabela de repercussão Geral do STF.
+Este Relator entende que a responsabilidade subsidiária foi imputada à entidade
+pública, uma vez que há, nos autos, condenação ao pagamento de parcelas relacionadas à saúde e à
+segurança do trabalhador
+Ocorre que, na sessão havida no dia 17.12.2025, a matéria relativa às
+implicações do julgamento trazido pelo STF no Tema 1.118 de Repercussão Geral foi debatida
+amplamente pelos Membros deste Órgão, a fim de que se pudesse haver a pacificação interna da
+jurisprudência da 3ª Turma, ressalvando-se o entendimento se fosse o caso. Objetivou-se, dessa
+maneira, em respeito ao espírito democrático que rege as decisões colegiadas, a definição das
+peculiares situações que autorizam a declaração da responsabilidade subsidiária da entidade
+pública – com agilização do julgamento dos processos (art. 5º, LXXVIII, da CF) e consecução da
+atribuição do Tribunal Superior do Trabalho como Órgão de uniformização da jurisprudência
+trabalhista no País.
+Prevaleceu o entendimento majoritário da 3ª Turma no sentido de que o STF, no
+item 3 do Tema 1.118 de Repercussão Geral, ao estabelecer a responsabilidade subsidiária da
+Administração Pública em matéria de saúde e segurança, excepcionou apenas parcelas dessa natureza,
+não tendo o alcance de autorizar a extensão do dever a outras verbas trabalhistas inadimplidas.
+Contudo, esta 3ª Turma, em sua atual composição majoritária, passou a
+adotar entendimento de que, na hipótese de o Tribunal Regional reconhecer a responsabilidade da
+Parte Reclamada com base nas provas dos autos, as quais demonstrem a negligência da
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683E7E554C4BEC0.
+Administração Pública quanto à fiscalização de direito relacionado à saúde e à segurança do
+trabalhador, tal omissão configura comportamento grave o suficiente para ensejar a
+responsabilidade subsidiária da entidade pública, sendo extensível ao conjunto das parcelas
+trabalhistas inadimplidas.
+À vista desse entendimento, este Relator retoma seu posiciona originário.
+Com efeito, o STF, no item 3 do Tema 1.118, resguardou a possibilidade de
+responsabilização da Administração Pública quando constatada a negligência no dever de se
+assegurarem ao trabalhador condições de segurança, higiene e salubridade: “3. Constitui
+responsabilidade da Administração Pública garantir as condições de segurança, higiene e salubridade dos
+trabalhadores, quando o trabalho for realizado em suas dependências ou local previamente convencionado
+em contrato, nos termos do art. 5º-A, § 3º, da Lei nº 6.019/1974”.
+É excepcional, dessa forma, a situação em que a empresa descumpre direitos
+básicos de segurança, higiene e salubridade no ambiente laboral. Verificada a inadimplência nesse
+âmbito, não há como desonerar o Estado da responsabilidade subsidiária quanto ao pagamento
+das verbas respectivas reconhecidas judicialmente, na medida em que tais direitos recebem
+proteção especial em âmbito constitucional. A garantia diz respeito à higidez física da pessoa humana
+que vive do trabalho, estando imantada por regra imperativa da Constituição da República, constante
+no art. 7º, XXII, CF, que determina o absoluto prestígio das normas de saúde, higiene e segurança que
+materializam a preocupação pela redução dos riscos inerentes ao trabalho. Pelo Texto Magno, a saúde e
+segurança laborais são direito subjetivo obreiro, constituindo, ainda, parte integrante e exponencial de
+uma política de saúde pública no País. Por isso, o Supremo Tribunal Federal, de forma adequada e
+atenta aos princípios e regras jurídicas que asseguram patamares mínimos de cidadania e dignidade ao
+indivíduo que labora (ilustrativamente, art. 1º, caput e inciso III; art. 3º, caput e incisos I, II e IV; art. 6º;
+art. 7º, caput e inciso XXII; art. 170, caput; art. 194, caput; art. 196; art. 197; art. 200, caput e inciso II, in
+fine, todos da CF/88), preservou o direito à garantia patrimonial advinda da responsabilidade subsidiária
+da Administração na hipótese de inadimplemento de parcelas dessa natureza.
+Verificada, assim, a violação ao dever de garantia de condições de segurança,
+higiene e salubridade, tem incidência a responsabilidade subsidiária da Administração Pública.
+No que se refere à extensão da responsabilidade nos casos em que se verificar
+a hipótese excepcional indicada pelo Supremo Tribunal Federal (descumprimento de normas
+relacionadas à saúde e segurança do trabalhador), entendo que o contrato de trabalho é ato jurídico
+complexo, hábil a provocar larga multiplicidade de direitos e obrigações entre as partes pactuantes. Os
+deveres resultantes do contrato de terceirização devem ser observados em sua integralidade. A
+partir do momento em que se verifica que o tomador de serviços não observa qualquer dever básico e
+relevante advindo da estrutura contratual empregatícia, desponta claramente a inércia da
+Administração Pública na fiscalização do contrato de prestação de serviços. Sendo o contrato uno e dele
+derivando diversificadas obrigações, desde que descumprida uma delas – e, obviamente, desde que
+inserida nas exceções vislumbradas pelo STF para a estipulação da responsabilidade da entidade pública
+–, deve ser estabelecida ou preservada a condenação que determina que o ente público suporte todos
+os encargos trabalhistas definidos em Juízo, sem fragmentação das verbas trabalhistas deferidas.
+Dessa forma, exponho meu posicionamento no sentido de que, havendo
+condenação a diversos títulos trabalhistas, inclusive parcela ligada à segurança e saúde no trabalho, a
+responsabilidade subsidiária da Administração Pública deve abranger todas as parcelas deferidas em
+Juízo.
+Ademais, compreende este Ministro que o STF, embora tenha expressamente
+excepcionado as situações que geram a obrigação de arcar com os débitos trabalhistas relacionados a
+parcelas atreladas à saúde e segurança no ambiente laboral, vislumbrou tal reserva num contexto de
+análise da responsabilidade subsidiária da Administração Pública.
+Reafirmo: considero que, verificada a inadimplência das parcelas identificadas no
+item 3 do Tema 1.118/RG/STF, deve ser declarada a responsabilidade subsidiária da Administração
+Pública por todas as verbas objeto da condenação.
+Nesse mesmo sentido, decisões desta 3ª Turma, de minha Relatoria, nas quais
+não foi exercido o juízo de retratação, mantendo-se a responsabilidade subsidiária da Administração
+Pública com relação a todas as parcelas deferidas nos autos: Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683E7E554C4BEC0.
+AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. JULGAMENTO ANTERIOR POR ESTA 3ª
+TURMA. DEVOLUÇÃO DOS AUTOS PARA EVENTUAL EMISSÃO DE JUÍZO DE RETRATAÇÃO. ARTIGO
+1.030, INCISO II, DO CPC. ADMINISTRAÇÃO PÚBLICA. TERCEIRIZAÇÃO TRABALHISTA.
+RESPONSABILIDADE SUBSIDIÁRIA. ÔNUS DA PROVA QUANTO À FISCALIZAÇÃO DO CONTRATO DE
+PRESTAÇÃO DE SERVIÇOS. TEMA 1.118 DA TABELA DE REPERCUSSÃO GERAL DO STF. JUÍZO DE
+RETRATAÇÃO NÃO EXERCIDO. AUSÊNCIA DE CONDENAÇÃO POR MERO INADIMPLEMENTO OU
+EXCLUSIVAMENTE COM BASE NA PREMISSA DA INVERSÃO DO ÔNUS DA PROVA. INSCRIÇÃO DE
+DADOS NO ACÓRDÃO REGIONAL QUE EVIDENCIAM A CONDUTA CULPOSA DA ADMINISTRAÇÃO.
+RESPONSABILIDADE DO PODER PÚBLICO PELA GARANTIA DAS CONDIÇÕES DE SEGURANÇA,
+HIGIENE E SALUBRIDADE DOS TRABALHADORES. O Supremo Tribunal Federal, ao julgar o RE
+760.931 (Tema 246), com repercussão geral, firmou o entendimento de que o inadimplemento dos
+encargos trabalhistas de empregados de contratada não transfere automaticamente a
+responsabilidade ao Poder Público contratante (art. 71, § 1º, da Lei nº 8.666/93). Posteriormente, no
+RE 1.298.647 (Tema 1.118), a Suprema Corte reiterou a repercussão geral da controvérsia, desta feita
+sobre a legitimidade da transferência ao ente público do ônus de comprovar a ausência de culpa na
+fiscalização do cumprimento das obrigações trabalhistas de terceirizados (arts. 5º, II, 37, XXI e § 6º, e
+97 da Constituição Federal). O julgamento do referido recurso, em 13/02/2025 (DJe 15/4/2025;
+trânsito em julgado em 29/4/2025), resultou na fixação da seguinte tese vinculante (Tema 1.118): “ 1.
+Não há responsabilidade subsidiária da Administração Pública por encargos trabalhistas gerados
+pelo inadimplemento de empresa prestadora de serviços contratada, se amparada exclusivamente
+na premissa da inversão do ônus da prova, remanescendo imprescindível a comprovação, pela parte
+autora, da efetiva existência de comportamento negligente ou nexo de causalidade entre o dano por
+ela invocado e a conduta comissiva ou omissiva do poder público . 2. Haverá comportamento
+negligente quando a Administração Pública permanecer inerte após o recebimento de notificação
+formal de que a empresa contratada está descumprindo suas obrigações trabalhistas , enviada pelo
+trabalhador, sindicato, Ministério do Trabalho, Ministério Público, Defensoria Pública ou outro meio
+idôneo. 3. Constitui responsabilidade da Administração Pública garantir as condições de segurança,
+higiene e salubridade dos trabalhadores , quando o trabalho for realizado em suas dependências ou
+local previamente convencionado em contrato, nos termos do art. 5º-A, § 3º, da Lei nº 6.019/1974. 4.
+Nos contratos de terceirização, a Administração Pública deverá: (i) exigir da contratada a
+comprovação de capital social integralizado compatível com o número de empregados , na forma do
+art. 4º-B da Lei nº 6.019/1974; e (ii) adotar medidas para assegurar o cumprimento das obrigações
+trabalhistas pela contratada , na forma do art. 121, § 3º, da Lei nº 14.133/2021, tais como condicionar
+o pagamento à comprovação de quitação das obrigações trabalhistas do mês anterior .” A partir da
+definição do Tema pelo STF, permanece, portanto, a possibilidade de responsabilização subsidiária
+da Administração Pública quando demonstrada a sua culpa subjetiva e/ou o descumprimento de
+normas de saúde e segurança no trabalho for evidenciado. Na situação em análise, houve atribuição
+da responsabilidade subsidiária pelas parcelas trabalhistas ao ente público, não apenas pela mera
+definição de que lhe competiria provar que efetivamente fiscalizou o contrato de prestação de
+serviços, mas pela inserção de dados, na decisão do Tribunal Regional, que evidenciam a sua
+conduta culposa e o descumprimento de direito relacionado com a saúde e segurança do
+trabalhador. Com efeito, a Corte de origem foi clara ao consignar que “a reclamante não recebeu
+corretamente o adicional de insalubridade devido durante a contratualidade, vindo a ajuizar a
+presente ação, na qual foi acordado o pagamento da importância líquida e total de R$ 7.000,00,
+composto pelas seguintes verbas indenizatórias: reflexos do adicional de insalubridade sobre
+férias, FGTS e multa de 40% (R$ 2.000,00), e honorários advocatícios (R$ 1.000,00). (...) Tal
+situação denota a falta de efetiva fiscalização e, com isso, a culpa do ente público pela
+contratação efetivada”. Assim sendo, estando o acórdão impugnado em consonância com a decisão
+definitiva do STF que originou a tese jurídica contida no Tema 1.118 do ementário de repercussão
+geral, não se exerce o juízo de retratação previsto no art. 1030, II, do CPC/2015. Mantido, pois, o
+acórdão proferido, sem proceder ao juízo de retratação. (AIRR-21219-59.2017.5.04.0512, 3ª Turma,
+Relator Ministro Mauricio Godinho Delgado, DEJT 16/12/2025). (g.n.)
+AGRAVO. AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. JULGAMENTO ANTERIOR
+POR ESTA 3ª TURMA. DEVOLUÇÃO DOS AUTOS PARA EVENTUAL EMISSÃO DE JUÍZO DE
+RETRATAÇÃO. ARTIGO 1.030, INCISO II, DO CPC. ADMINISTRAÇÃO PÚBLICA. TERCEIRIZAÇÃO
+TRABALHISTA. RESPONSABILIDADE SUBSIDIÁRIA. ÔNUS DA PROVA QUANTO À FISCALIZAÇÃO DO
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS. TEMA 1.118 DA TABELA DE REPERCUSSÃO GERAL DO STF.
+JUÍZO DE RETRATAÇÃO NÃO EXERCIDO. AUSÊNCIA DE CONDENAÇÃO POR MERO
+INADIMPLEMENTO OU EXCLUSIVAMENTE COM BASE NA PREMISSA DA INVERSÃO DO ÔNUS DA
+PROVA. INSCRIÇÃO DE DADOS NO ACÓRDÃO REGIONAL QUE EVIDENCIAM A CONDUTA CULPOSA
+DA ADMINISTRAÇÃO. RESPONSABILIDADE DO PODER PÚBLICO PELA GARANTIA DAS CONDIÇÕES
+DE SEGURANÇA, HIGIENE E SALUBRIDADE DOS TRABALHADORES. O Supremo Tribunal Federal, ao
+julgar o RE 760.931 (Tema 246), com repercussão geral, firmou o entendimento de que o
+inadimplemento dos encargos trabalhistas de empregados de contratada não transfere
+automaticamente a responsabilidade ao Poder Público contratante (art. 71, § 1º, da Lei nº 8.666/93).
+Posteriormente, no RE 1.298.647 (Tema 1.118), a Suprema Corte reiterou a repercussão geral da
+controvérsia, desta feita sobre a legitimidade da transferência ao ente público do ônus de comprovar
+a ausência de culpa na fiscalização do cumprimento das obrigações trabalhistas de terceirizados
+(arts. 5º, II, 37, XXI e § 6º, e 97 da Constituição Federal). O julgamento do referido recurso, em
+13/02/2025 (DJe 15/4/2025; trânsito em julgado em 29/4/2025), resultou na fixação da seguinte tese
+vinculante (Tema 1.118): “ 1. Não há responsabilidade subsidiária da Administração Pública por
+encargos trabalhistas gerados pelo inadimplemento de empresa prestadora de serviços contratada,
+se amparada exclusivamente na premissa da inversão do ônus da prova, remanescendo
+imprescindível a comprovação, pela parte autora, da efetiva existência de comportamento
+negligente ou nexo de causalidade entre o dano por ela invocado e a conduta comissiva ou omissiva
+do poder público . 2. Haverá comportamento negligente quando a Administração Pública
+permanecer inerte após o recebimento de notificação formal de que a empresa contratada está
+descumprindo suas obrigações trabalhistas , enviada pelo trabalhador, sindicato, Ministério do
+Trabalho, Ministério Público, Defensoria Pública ou outro meio idôneo. 3. Constitui responsabilidade
+da Administração Pública garantir as condições de segurança, higiene e salubridade dos
+trabalhadores , quando o trabalho for realizado em suas dependências ou local previamente
+convencionado em contrato, nos termos do art. 5º-A, § 3º, da Lei nº 6.019/1974. 4. Nos contratos de
+terceirização, a Administração Pública deverá: (i) exigir da contratada a comprovação de capital social
+integralizado compatível com o número de empregados , na forma do art. 4º-B da Lei nº 6.019/1974;
+e (ii) adotar medidas para assegurar o cumprimento das obrigações trabalhistas pela contratada , na
+forma do art. 121, § 3º, da Lei nº 14.133/2021, tais como condicionar o pagamento à comprovação de
+quitação das obrigações trabalhistas do mês anterior .” A partir da definição do Tema pelo STF,
+permanece, portanto, a possibilidade de responsabilização subsidiária da Administração Pública
+quando demonstrada a sua culpa subjetiva e/ou o descumprimento de normas de saúde e
+segurança no trabalho for evidenciado. Na situação em análise, houve atribuição da
+responsabilidade subsidiária pelas parcelas trabalhistas ao ente público, não apenas pela mera
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683E7E554C4BEC0.
+definição de que lhe competiria provar que efetivamente fiscalizou o contrato de prestação de
+serviços, mas pela inserção de dados, na decisão do Tribunal Regional, que evidenciam a sua
+conduta culposa e a condenação envolvendo parcelas ligadas à saúde e segurança do trabalhador.
+Com efeito, a Corte de origem foi clara ao consignar que a parte Autora laborava em ambiente
+insalubre, o que evidencia a inobservância das normas de saúde e segurança do trabalho, bem
+como a ausência reiterada de pagamento de parcela precípua do contrato de trabalho, qual seja
+o FGTS . Tais situações, de fato, evidenciam a culpa in vigilando do ente público no cumprimento das
+obrigações trabalhistas. Estando, portanto, o acórdão impugnado em consonância com a decisão
+definitiva do STF que originou a tese jurídica contida no Tema 1.118 do ementário de repercussão
+geral, não se exerce o juízo de retratação previsto no art. 1030, II, do CPC/2015. Mantido, pois, o
+acórdão proferido, sem proceder ao juízo de retratação. (Ag-AIRR-933-33.2019.5.23.0101, 3ª Turma,
+Relator Ministro Mauricio Godinho Delgado, DEJT 11/12/2025). (g.n.)
+AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. JULGAMENTO ANTERIOR POR ESTA 3ª
+TURMA. DEVOLUÇÃO DOS AUTOS PARA EVENTUAL EMISSÃO DE JUÍZO DE RETRATAÇÃO. ARTIGO
+1.030, INCISO II, DO CPC. ADMINISTRAÇÃO PÚBLICA. TERCEIRIZAÇÃO TRABALHISTA.
+RESPONSABILIDADE SUBSIDIÁRIA. ÔNUS DA PROVA QUANTO À FISCALIZAÇÃO DO CONTRATO DE
+PRESTAÇÃO DE SERVIÇOS. TEMA 1.118 DA TABELA DE REPERCUSSÃO GERAL DO STF. JUÍZO DE
+RETRATAÇÃO NÃO EXERCIDO. AUSÊNCIA DE CONDENAÇÃO POR MERO INADIMPLEMENTO OU
+EXCLUSIVAMENTE COM BASE NA PREMISSA DA INVERSÃO DO ÔNUS DA PROVA. INSCRIÇÃO DE
+DADOS NO ACÓRDÃO REGIONAL QUE EVIDENCIAM A CONDUTA CULPOSA DA ADMINISTRAÇÃO.
+RESPONSABILIDADE DO PODER PÚBLICO PELA GARANTIA DAS CONDIÇÕES DE SEGURANÇA,
+HIGIENE E SALUBRIDADE DOS TRABALHADORES. O Supremo Tribunal Federal, ao julgar o RE
+760.931 (Tema 246), com repercussão geral, firmou o entendimento de que o inadimplemento dos
+encargos trabalhistas de empregados de contratada não transfere automaticamente a
+responsabilidade ao Poder Público contratante (art. 71, § 1º, da Lei nº 8.666/93). Posteriormente, no
+RE 1.298.647 (Tema 1.118), a Suprema Corte reiterou a repercussão geral da controvérsia, desta feita
+sobre a legitimidade da transferência ao ente público do ônus de comprovar a ausência de culpa na
+fiscalização do cumprimento das obrigações trabalhistas de terceirizados (arts. 5º, II, 37, XXI e § 6º, e
+97 da Constituição Federal). O julgamento do referido recurso, em 13/02/2025 (DJe 15/4/2025;
+trânsito em julgado em 29/4/2025), resultou na fixação da seguinte tese vinculante (Tema 1.118): “ 1.
+Não há responsabilidade subsidiária da Administração Pública por encargos trabalhistas gerados
+pelo inadimplemento de empresa prestadora de serviços contratada, se amparada exclusivamente
+na premissa da inversão do ônus da prova, remanescendo imprescindível a comprovação, pela parte
+autora, da efetiva existência de comportamento negligente ou nexo de causalidade entre o dano por
+ela invocado e a conduta comissiva ou omissiva do poder público . 2. Haverá comportamento
+negligente quando a Administração Pública permanecer inerte após o recebimento de notificação
+formal de que a empresa contratada está descumprindo suas obrigações trabalhistas , enviada pelo
+trabalhador, sindicato, Ministério do Trabalho, Ministério Público, Defensoria Pública ou outro meio
+idôneo. 3. Constitui responsabilidade da Administração Pública garantir as condições de segurança,
+higiene e salubridade dos trabalhadores , quando o trabalho for realizado em suas dependências ou
+local previamente convencionado em contrato, nos termos do art. 5º-A, § 3º, da Lei nº 6.019/1974. 4.
+Nos contratos de terceirização, a Administração Pública deverá: (i) exigir da contratada a
+comprovação de capital social integralizado compatível com o número de empregados , na forma do
+art. 4º-B da Lei nº 6.019/1974; e (ii) adotar medidas para assegurar o cumprimento das obrigações
+trabalhistas pela contratada , na forma do art. 121, § 3º, da Lei nº 14.133/2021, tais como condicionar
+o pagamento à comprovação de quitação das obrigações trabalhistas do mês anterior .” Permanece,
+portanto, a possibilidade de que a entidade pública responda pelas verbas trabalhistas em caráter
+subsidiário se a sua responsabilidade for declarada em razão da premissa fática da culpa subjetiva,
+e/ou em decorrência do descumprimento de direitos ligados a condições de segurança, higiene e
+salubridade no ambiente de trabalho. Na situação em análise , houve atribuição da responsabilidade
+subsidiária pelas parcelas trabalhistas ao ente público, não apenas pela mera definição de que lhe
+competiria provar que efetivamente fiscalizou o contrato de prestação de serviços, mas pela inserção
+de dados, na decisão do Tribunal Regional, que evidenciam a sua conduta culposa e a condenação
+envolvendo parcelas ligadas à saúde e segurança do trabalhador. Com efeito, a Corte de origem foi
+clara ao consignar que “ (....) o reclamante não teve seu FGTS recolhido corretamente e não
+percebia o adicional de insalubridade e o pagamento das horas extras devidos, não adotando a
+recorrente as providências cabíveis, o que evidencia sua falha no dever de fiscalizar a empresa
+contratada e de cumprir, portanto, obrigação decorrente da lei de regência ” . Não houve, assim,
+análise da matéria sob o mero viés da atribuição do encargo probatório à Administração Pública.
+Estando, portanto, o acórdão impugnado em consonância com a decisão definitiva do STF que
+originou a tese jurídica contida no Tema 1.118 do ementário de repercussão geral, não se exerce o
+juízo de retratação previsto no art. 1030, II, do CPC/2015. Mantido, pois, o acórdão proferido, sem
+proceder ao juízo de retratação. (AIRR-1026-46.2016.5.20.0016, 3ª Turma, Relator Ministro Mauricio
+Godinho Delgado, DEJT 10/12/2025).
+AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. JULGAMENTO ANTERIOR POR ESTA 3ª
+TURMA. DEVOLUÇÃO DOS AUTOS PARA EVENTUAL EMISSÃO DE JUÍZO DE RETRATAÇÃO. ARTIGO
+1.030, INCISO II, DO CPC. ADMINISTRAÇÃO PÚBLICA. TERCEIRIZAÇÃO TRABALHISTA.
+RESPONSABILIDADE SUBSIDIÁRIA. ÔNUS DA PROVA QUANTO À FISCALIZAÇÃO DO CONTRATO DE
+PRESTAÇÃO DE SERVIÇOS. TEMA 1.118 DA TABELA DE REPERCUSSÃO GERAL DO STF. JUÍZO DE
+RETRATAÇÃO NÃO EXERCIDO. AUSÊNCIA DE CONDENAÇÃO POR MERO INADIMPLEMENTO OU
+EXCLUSIVAMENTE COM BASE NA PREMISSA DA INVERSÃO DO ÔNUS DA PROVA. INSCRIÇÃO DE
+DADOS NO ACÓRDÃO REGIONAL QUE EVIDENCIAM A CONDUTA CULPOSA DA ADMINISTRAÇÃO.
+RESPONSABILIDADE DO PODER PÚBLICO PELA GARANTIA DAS CONDIÇÕES DE SEGURANÇA,
+HIGIENE E SALUBRIDADE DOS TRABALHADORES. O Supremo Tribunal Federal, ao julgar o RE
+760.931 (Tema 246), com repercussão geral, firmou o entendimento de que o inadimplemento dos
+encargos trabalhistas de empregados de contratada não transfere automaticamente a
+responsabilidade ao Poder Público contratante (art. 71, § 1º, da Lei nº 8.666/93). Posteriormente, no
+RE 1.298.647 (Tema 1.118), a Suprema Corte reiterou a repercussão geral da controvérsia, desta feita
+sobre a legitimidade da transferência ao ente público do ônus de comprovar a ausência de culpa na
+fiscalização do cumprimento das obrigações trabalhistas de terceirizados (arts. 5º, II, 37, XXI e § 6º, e
+97 da Constituição Federal). O julgamento do referido recurso, em 13/02/2025 (DJe 15/4/2025;
+trânsito em julgado em 29/4/2025), resultou na fixação da seguinte tese vinculante (Tema 1.118): “ 1.
+Não há responsabilidade subsidiária da Administração Pública por encargos trabalhistas gerados
+pelo inadimplemento de empresa prestadora de serviços contratada, se amparada exclusivamente
+na premissa da inversão do ônus da prova, remanescendo imprescindível a comprovação, pela parte
+autora, da efetiva existência de comportamento negligente ou nexo de causalidade entre o dano por
+ela invocado e a conduta comissiva ou omissiva do poder público . 2. Haverá comportamento
+negligente quando a Administração Pública permanecer inerte após o recebimento de notificação
+formal de que a empresa contratada está descumprindo suas obrigações trabalhistas , enviada pelo
+trabalhador, sindicato, Ministério do Trabalho, Ministério Público, Defensoria Pública ou outro meio
+idôneo. 3. Constitui responsabilidade da Administração Pública garantir as condições de segurança, Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683E7E554C4BEC0.
+higie
+n
+e
+e
+s
+alu
+b
+rid
+a
+d
+e
+d
+o
+s
+t
+r
+a
+b
+alh
+a
+d
+o
+r
+e
+s , q
+u
+a
+n
+d
+o
+o
+t
+r
+a
+b
+alh
+o
+f
+o
+r
+r
+e
+aliz
+a
+d
+o
+e
+m
+s
+u
+a
+s
+d
+e
+p
+e
+n
+d
+ê
+n
+cia
+s
+o
+u local previamente convencionado em contrato, nos termos do art. 5º-A, § 3º, da Lei nº 6.019/1974. 4. Nos contratos de terceirização, a Administração Pública deverá: (i) exigir da contratada a comprovação de capital social integralizado compatível com o número de empregados , na forma do art. 4º-B da Lei nº 6.019/1974; e (ii) adotar medidas para assegurar o cumprimento das obrigações trabalhistas pela contratada , na forma do art. 121, § 3º, da Lei nº 14.133/2021, tais como condicionar o pagamento à comprovação de quitação das obrigações trabalhistas do mês anterior .” A partir da definição do Tema pelo STF, permanece, portanto, a possibilidade de responsabilização subsidiária da Administração Pública quando demonstrada a sua culpa subjetiva e/ou o descumprimento de normas de saúde e segurança no trabalho for evidenciado. Na situação em análise, houve atribuição da responsabilidade subsidiária pelas parcelas trabalhistas ao ente público, não apenas pela mera definição de que lhe competiria provar que efetivamente fiscalizou o contrato de prestação de serviços, mas pela inserção de dados, na decisão do Tribunal Regional, que evidenciam a sua conduta culposa e a condenação envolvendo parcelas ligadas à saúde e segurança do trabalhador. Com efeito, a Corte de origem foi clara ao consignar o descumprimento do direito relacionado à condição de salubridade no ambiente de trabalho, devendo prevalecer a condenação subsidiária da entidade pública, nos termos da decisão vinculante. Nesse sentido, o Tribunal Regional afirmou que “(...) a Reclamante fora dispensada sem o recebimento correto das verbas trabalhistas referentes ao contrato de trabalho firmado entre a Reclamante e a primeira Reclamada, conforme parcelas deferidas na r. sentença, inclusive FGTS e adicional de insalubridade, evidenciando que a fiscalização alegada pelo Ente Público não foi capaz de impedir a inadimplência da prestadora de serviços ”. Assim sendo, estando o acórdão impugnado em consonância com a decisão definitiva do STF que originou a tese jurídica contida no Tema 1.118 do ementário de repercussão geral, não se exerce o juízo de retratação previsto no art. 1030, II, do CPC/2015. Mantido, pois, o acórdão proferido, sem proceder ao juízo de retratação. (AIRR-638- 51.2018.5.10.0017, 3ª Turma, Relator Ministro Mauricio Godinho Delgado, DEJT 10/12/2025). (g.n.) No mesmo sentido, colaciono recentes julgados de outras Turmas desta Corte
+S
+u
+p
+e
+rio
+r
+:
+J
+U
+Í
+Z
+O
+D
+E
+R
+E
+T
+R
+A
+T
+A
+Ç
+Ã
+O. A
+G
+R
+A
+V
+O
+E
+M
+R
+E
+C
+U
+R
+S
+O
+D
+E
+R
+E
+VIS
+T
+A
+C
+O
+M
+A
+G
+R
+A
+V
+O IN
+T
+E
+R
+P
+O
+S
+T
+O
+P
+E
+L
+O
+E
+N
+T
+E
+P
+Ú
+B
+LIC
+O. R
+E
+GID
+O
+P
+E
+L
+A
+L
+EI 1
+3.4
+6
+7
+/
+2
+0
+1
+7. R
+E
+S
+P
+O
+N
+S
+A
+BILID
+A
+D
+E
+S
+U
+B
+SIDIÁ
+RIA. E
+N
+T
+E
+P
+Ú
+B
+LIC
+O. ADICIONAL DE INSALUBRIDADE. ITEM 3. DO TEMA 1.118 DE REPERCUSSÃO GERAL DO STF. DEVER DE GARANTIA DE AMBIENTE SALUBRE AO TRABALHADOR. 1. Trata-se de processo que retorna a esta Turma, por determinação da Vice-Presidência do TST, para o exercício de eventual juízo de retratação, conforme prevê o art. 1.030, II, do CPC/2015. 2. Em acórdão anterior, esta Turma negou provimento agravo interposto pelo reclamado e manteve a decisão que negou provimento ao agravo de instrumento. 3. O Supremo Tribunal Federal, no julgamento da ADC 16/DF, declarou a constitucionalidade do art. 71, § 1.º, da Lei 8.666/93. Afirmou que a simples inadimplência da empresa contratada não transfere, automaticamente, a responsabilidade pelas verbas trabalhistas à entidade pública. 3. No caso, o Tribunal Regional manteve a responsabilidade subsidiária do ente público, por culpa pela ausência de fiscalização ( culpa in vigilando ). 4. Consoante tese firmada pelo Supremo Tribunal Federal no Tema 1.118 de Repercussão Geral, em seu item 3, é responsabilidade da Administração Pública garantir as condições de segurança, higiene e salubridade dos trabalhadores quando o trabalho for realizado em suas dependências ou em local previamente convencionado em contrato. 5. Nesse contexto, a condenação, no caso dos autos, se limita às diferenças de adicional de insalubridade, portanto, mantida a responsabilidade subsidiária do ente público pela verba de insalubridade decorrente das condições ambientais sob seu domínio, não se trata de responsabilidade subsidiária por inadimplemento contratual, mas de dever legal direto de garantir ambiente de trabalho seguro e salubre (art. 5º-A, § 3º, da Lei nº 6.019/1974) , deve ser mantida a responsabilidade subsidiária do ente público . Juízo de retratação não exercido. (Ag-RRAg-10130-56.2020.5.03.0158, 2ª Turma, Relatora Ministra Delaíde Alves Miranda Arantes, DEJT 11/09/2026). (g.n.) AGRAVO. AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. REGIDO PELA LEI 13.467/2017. RESTITUIÇÃO DO FEITO À QUINTA TURMA POR ATO DO VICE-PRESIDENTE PARA EVENTUAL JUÍZO DE RETRATAÇÃO. ARTIGO 1.030, II, DO CPC DE 2015. RESPONSABILIDADE SUBSIDIÁRIA. ENTE DA ADMINISTRAÇÃO PÚBLICA. MATÉRIA JULGADA PELO SUPREMO TRIBUNAL FEDERAL (RE 760.931). REPERCUSSÃO GERAL. AMBIENTE DE TRABALHO INSALUBRE. CULPAIN VIGILANDO. TRANSCENDÊNCIA NÃO CONFIGURADA. 1. Discute-se nos presentes autos a responsabilidade subsidiária do ente público pelas verbas trabalhistas inadimplidas pela empresa prestadora de serviços. 2. O Supremo Tribunal Federal, no julgamento da ADC 16 ajuizada pelo governo do Distrito Federal, considerou constitucional o art. 71, § 1º, da Lei 8.666/93. Afirmou que a simples inadimplência da empresa contratada não transfere, automaticamente, a responsabilidade pelas verbas trabalhistas à entidade pública. Com efeito, a responsabilidade subsidiária da Administração Pública não decorre de presunção de culpa ou do simples fato de ter a parte Reclamante prestado serviços à tomadora de serviços, mas da verificação em concreto da culpa pela instância revisora. No presente caso, Tribunal Regional consignou estar cabalmente comprovada a culpa in vigilando da Reclamada, ressaltando que não foi assegurado ao Reclamante um ambiente de trabalho salubre e seguro. 4. Em 13/02/2025, o Supremo Tribunal Federal, no julgamento do RE 1298647/SP, submetido à sistemática de repercussão geral (Tema 1118), fixou, em seu item 3, a tese de que "constitui responsabilidade da Administração Pública garantir as condições de segurança, higiene e salubridade dos trabalhadores, quando o trabalho for realizado em suas dependências ou local previamente convencionado em contrato, nos termos do art. 5º-A, § 3º, da Lei nº 6.019/1974". 5. Logo, proferida em conformidade com a orientação do STF, deve ser mantida a decisão deste Colegiado, sem que seja efetuado o juízo de retratação de que trata o art. 543-B, § 3º, do CPC/1973 (art. 1.041, caput, §1º, do CPC/2015), determinando-se a devolução dos autos à Vice- Presidência desta Corte, para que prossiga no exame de admissibilidade do recurso extraordinário, como entender de direito. (Ag-RRAg-422-46.2018.5.09.0655, 5ª Turma, Relator Ministro Douglas Alencar Rodrigues, DEJT 21/08/2026). (g.n.) JUÍZO DE RETRATAÇÃO. RECURSO DE REVISTA COM AGRAVO DO ESTADO DO AMAZONAS. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683E7E554C4BEC0.
+RECURSO DE REVISTA INTERPOSTO NA VIGÊNCIA DA LEI 13.467/2017. ANÁLISE CONJUNTA DO
+AGRAVO DE INSTRUMENTO E DO RECURSO DE REVISTA. MATÉRIA COMUM RESPONSABILIDADE
+SUBSIDIÁRIA DA ADMINISTRAÇÃO PÚBLICA. TERCEIRIZAÇÃO. CONDUTA CULPOSA COMPROVADA NOS
+AUTOS. DESCUMPRIMENTO REITERADO DA LEGISLAÇÃO TRABALHISTA. SITUAÇÕES EXCEPCIONAIS
+PREVISTAS NO TEMA 1.118 DA TABELA DE REPERCUSSÃO GERAL DO STF. SÚMULA 331 DO TST. Os
+autos retornam para juízo de retratação, com fundamento nos artigos 1.030, II, 1.039, caput, e 1.040,
+II, do CPC, ante a decisão do Supremo Tribunal Federal no Tema 246 / 1.118 da Tabela de
+repercussão geral. O debate sobre a prova acerca de conduta culposa da Administração Pública em
+casos de terceirização, a autorizar o reconhecimento da sua responsabilidade subsidiária foi objeto
+de decisão do STF ao apreciar os REs n.ºs 760.931 e 1.298.647, correspondentes, respectivamente,
+aos Temas 246 e 1.118 da Tabela de Repercussão Geral. Portanto, reveste-se de transcendência
+jurídica, nos termos do art. 896-A, § 1º, IV, da CLT. Debate sobre a prova acerca de conduta culposa
+da Administração Pública em casos de terceirização de mão-de-obra, em que constatado o
+descumprimento de direitos trabalhistas por parte da empresa prestadora de serviços, a autorizar o
+reconhecimento da responsabilidade subsidiária da entidade publica tomadora. A questão foi objeto
+de decisão vinculante do STF ao apreciar os REs n.ºs 760.931 e 1.298.647 – correspondentes,
+respectivamente, aos Temas 246 e 1.118 da Tabela de Repercussão Geral, tendo sido definido, neste
+último, que a prova cabe ao autor da ação e a culpa da entidade pública tem que ser efetivamente
+comprovada nos autos. Eis a tese jurídica fixada no Tema 1.118 pelo STF: "1. Não há responsabilidade
+subsidiária da Administração Pública por encargos trabalhistas gerados pelo inadimplemento de empresa
+prestadora de serviços contratada, se amparada exclusivamente na premissa da inversão do ônus da
+prova, remanescendo imprescindível a comprovação, pela parte autora, da efetiva existência de
+comportamento negligente ou nexo de causalidade entre o dano por ela invocado e a conduta comissiva
+ou omissiva do poder público. 2. Haverá comportamento negligente quando a Administração Pública
+permanecer inerte após o recebimento de notificação formal de que a empresa contratada está
+descumprindo suas obrigações trabalhistas, enviada pelo trabalhador, sindicato, Ministério do Trabalho,
+Ministério Público, Defensoria Pública ou outro meio idôneo. 3. Constitui responsabilidade da
+Administração Pública garantir as condições de segurança, higiene e salubridade dos trabalhadores,
+quando o trabalho for realizado em suas dependências ou local previamente convencionado em contrato,
+nos termos do art. 5º-A, § 3º, da Lei nº 6.019/1974. 4. Nos contratos de terceirização, a Administração
+Pública deverá: (i) exigir da contratada a comprovação de capital social integralizado compatível com o
+número de empregados, na forma do art. 4º-B da Lei nº 6.019/1974; e (ii) adotar medidas para assegurar o
+cumprimento das obrigações trabalhistas pela contratada, na forma do art. 121, § 3º, da Lei nº
+14.133/2021, tais como condicionar o pagamento à comprovação de quitação das obrigações trabalhistas
+do mês anterior." (Acórdão publicado no DJE de 15/4/2025). Muito embora o STF, no Tema 1.118,
+tenha tratado substancialmente de casos em que não houve produção de prova e o ônus probatório
+foi imposto à Administração Pública, avançou para além da questão do encargo probatório. Adotou
+parâmetros cruciais para balizar as situações em que essa responsabilização subsidiária é cabível,
+seja por atitude comissiva, seja por omissões que demonstrem o comportamento negligente da
+Administração com o cumprimento da legislação vigente por parte da empresa que contratou para
+terceirizar serviços. Na esteira da tese vinculante, observam-se julgados de Turmas a demonstrarem
+que a Suprema Corte visa apenas a impedir a fixação da responsabilidade subsidiária de forma
+automática ou em decorrência da distribuição do ônus da prova em desfavor da entidade pública. O
+que se rechaça é a condenação sem comprovação do comportamento negligente da Administração,
+o qual, se demonstrado por provas efetivamente constante dos autos, autoriza a sua condenação
+subsidiária. Há precedentes. No caso concreto, constata-se a comprovação de culpa efetiva da
+entidade pública tomadora de serviços, nos termos das exceções do Tema 1.118. Nos presentes
+autos há descumprimento ocorrido em longo período durante o contrato de trabalho, a exemplo
+do não pagamento do intervalo intrajornada e do adicional de insalubridade. Houve condenação
+ao pagamento das seguintes verbas: intervalo intrajornada, adicional de insalubridade
+referente a mais de dois anos do contrato de trabalho e verbas rescisórias. Desse modo, houve
+prova do inadimplemento sistemático dos direitos trabalhistas. Logo, o caso enquadra-se na parte
+final do item 1, bem como nos itens 2 e 4.ii do Tema 1.118 e tem como reforço de fundamentação a
+decisão da Rcl 85605 AgR, de relatoria do Min. Alexandre de Moraes, Primeira Turma, julgado em
+16/12/2025, publicada no DJe em 09/01/2026, na qual o STF manteve a responsabilidade subsidiária
+da entidade pública. Em igual sentido: Rcl 80653 AgR, Relatora: Min. Cármen Lúcia, Primeira Turma,
+publicado no DJe em 02/10/2025; Rcl n. 72.118-AgR, Relator: Min. Ministro Edson Fachin, Segunda
+Turma, publicado no DJe em 8/4/2025; Rcl n. 72.970-AgR, Relator: Min. Ministro André Mendonça,
+Segunda Turma, publicado no DJe em 28/2/2025. A condenação subsidiária foi fixada com
+demonstração efetiva do comportamento negligente da tomadora. Desse modo, o acórdão regional,
+ao manter a responsabilidade subsidiária da administração pública, não contraria a tese firmada
+pelo STF, em repercussão geral, no Tema 1118. Juízo de retratação não exercido. (ARR-2340-
+67.2016.5.11.0019, 6ª Turma, Relator Ministro Augusto Cesar Leite de Carvalho,DEJT 11/09/2026).
+(g.n.)
+I – ESCLARECIMENTO INICIAL Em razão de recurso extraordinário interposto pelo MUNICÍPIO
+DE BENTO GONÇALVES, retornam os autos da Vice-Presidência do TST para exame de eventual juízo
+de retratação quanto ao agravo de instrumento do ente público, ante a tese jurídica fixada pelo STF
+no julgamento do Tema 1.118 da Tabela de Repercussão Geral. II - AGRAVO DE INSTRUMENTO EM
+RECURSO DE REVISTA. MUNICÍPIO DE BENTO GONÇALVES. ANTERIOR À LEI Nº 13.015/2014
+APRECIAÇÃO DE EVENTUAL JUÍZO DE RETRATAÇÃO ENTE PÚBLICO. RESPONSABILIDADE SUBSIDIÁRIA. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683E7E554C4BEC0.
+DECISÕES DO PLENO DO STF ATÉ O TEMA 1118 DA TABELA DE REPERCUSSÃO GERAL CASO
+CONCRETO QUE NÃO SE RESOLVE EXCLUSIVAMENTE PELAS REGRAS DE DISTRIBUIÇÃO DO ÔNUS DA
+PROVA AGENTE COMUNITÁRIA DE SAÚDE. ACOMPANHAMENTO DE PACIENTES PORTADORES DE
+DOENÇAS INFECTO-CONTAGIOSAS. CONDENAÇÃO DA EMPREGADORA AO PAGAMENTO DO
+ADICIONAL DE INSALUBRIDADE EM GRAU MÉDIO DEVIDO AO LONGO DO CONTRATO DE
+TRABALHO. NEGLIGÊNCIA DO ENTE PÚBLICO CONFIGURADA Em acórdão anterior, a Sexta Turma
+negou provimento ao agravo de instrumento do Município de Bento Gonçalves, mantendo, assim, a
+responsabilidade subsidiária do ente público. Conforme o Pleno do STF (ADC 16), relativamente às
+obrigações trabalhistas, é vedada a transferência automática, para o ente público tomador de
+serviços, da responsabilidade da empresa prestadora de serviços; a responsabilidade subsidiária não
+decorre do mero inadimplemento da empregadora, mas da culpa do ente público no
+descumprimento das obrigações previstas na Lei nº 8.666/1993. No voto do Ministro Relator da ADC
+nº 16, Cezar Peluso, constou a ressalva de que a vedação de transferência consequente e automática
+de encargos trabalhistas, "não impedirá que a Justiça do Trabalho recorra a outros princípios
+constitucionais e, invocando fatos da causa, reconheça a responsabilidade da Administração, não
+pela mera inadimplência, mas por outros fatos" . O Pleno do STF, em repercussão geral, com efeito
+vinculante, no RE 760931, Redator Designado Ministro Luiz Fux, fixou a seguinte tese: "O
+inadimplemento dos encargos trabalhistas dos empregados do contratado não transfere
+automaticamente ao Poder Público contratante a responsabilidade pelo seu pagamento, seja em
+caráter solidário ou subsidiário, nos termos do art. 71, § 1º, da Lei nº 8.666/93" . Nos debates do
+julgamento do RE 760931, o Pleno do STF deixou claro que o art. 71, § 1º, da Lei nº 8.666/1993 veda a
+transferência automática, objetiva, sistemática, e não a transferência fundada na culpa do ente
+público. No julgamento de ED no RE 760931, a maioria julgadora no STF concluiu pela não inclusão da
+questão da distribuição do ônus da prova na tese vinculante. No julgamento do RE 1298647, a
+maioria julgadora no STF proferiu as seguintes teses vinculantes constantes na certidão de
+julgamento disponível na página daquela Corte Suprema: "1. Não há responsabilidade subsidiária da
+Administração Pública por encargos trabalhistas gerados pelo inadimplemento de empresa
+prestadora de serviços contratada, se amparada exclusivamente na premissa da inversão do ônus da
+prova, remanescendo imprescindível a comprovação, pela parte autora, da efetiva existência de
+comportamento negligente ou nexo de causalidade entre o dano por ela invocado e a conduta
+comissiva ou omissiva do poder público. 2. Haverá comportamento negligente quando a
+Administração Pública permanecer inerte após o recebimento de notificação formal de que a
+empresa contratada está descumprindo suas obrigações trabalhistas, enviada pelo trabalhador,
+sindicato, Ministério do Trabalho, Ministério Público, Defensoria Pública ou outro meio idôneo. 3.
+Constitui responsabilidade da Administração Pública garantir as condições de segurança, higiene e
+salubridade dos trabalhadores, quando o trabalho for realizado em suas dependências ou local
+previamente convencionado em contrato, nos termos do art. 5º-A, § 3º, da Lei nº 6.019/1974. 4. Nos
+contratos de terceirização, a Administração Pública deverá: (i) exigir da contratada a comprovação de
+capital social integralizado compatível com o número de empregados, na forma do art. 4º-B da Lei nº
+6.019/1974; e (ii) adotar medidas para assegurar o cumprimento das obrigações trabalhistas pela
+contratada, na forma do art. 121, § 3º, da Lei nº 14.133/2021, tais como condicionar o pagamento à
+comprovação de quitação das obrigações trabalhistas do mês anterior." Da delimitação do acórdão
+recorrido, depreende-se que não foi exclusivamente sob o enfoque das regras de distribuição do
+ônus da prova que o Tribunal Regional mante a condenação subsidiária do ente público, mas
+também com base nos fatos e as provas produzidas nos autos. Ficou consignado no acórdão do TRT:
+" por certo, a segunda Reclamada incorreu em culpa "in vigilando". No caso dos autos, conforme
+Sentença, a primeira Reclamada foi condenada ao pagamento de: "férias vencidas alusivas ao período
+aquisitivo de 2008/2009 de forma simples, acrescidas do terço constitucional; 1/12 de férias
+proporcionais, acrescidas do terço constitucional; 13º salário proporcional do ano de 2008 (9/12); 13º
+salário proporcional de 2009 (5/12); horas extras, com reflexos em repouso semanal remunerado e
+feriados e, com estes, em férias acrescidas de 1/3 e 13º salários, nos termos do item 3.5 da
+fundamentação; adicional de insalubridade em grau médio, calculado sobre o salário mínimo, com
+reflexos em 13º salário e férias acrescidas de 1/3, nos termos do item 3.7 da fundamentação; multa do art.
+477 da CLT" - fl. 209. Ainda, em sede recursal, foi reconhecido à Reclamante o direito ao recebimento de
+indenização pelos prejuízos decorrentes em razão do não cadastramento no PIS. Ou seja, o caso se trata
+de um empregado que prestava serviços para a segunda Reclamada e não recebia corretamente de seu
+empregador vários direitos trabalhistas. Não seria razoável a alegação da tomadora dos serviços de que
+desconhecia tais fatos, ocorridos sob sua responsabilidade e formalmente sujeitos à sua supervisão. As
+irregularidades cometidas deveriam ser fiscalizadas e verificadas pela segunda Reclamada. Algumas delas,
+aliás, eram de fácil percepção visual ". Das premissas fáticas registradas pelo TRT, extrai-se que a
+condenação da empregadora não se limitou ao pagamento de verbas rescisórias, mas também
+engloba verbas que não foram adimplidas ao longo do vínculo empregatício; entre elas, o
+adicional de insalubridade. E foi diante desse quadro de inadimplência que a Corte de origem
+conclui que o ente público efetivamente não fiscalizou o cumprimento das obrigações trabalhistas da
+trabalhadora terceirizado (culpa in vigilando ). No caso, é incontroverso que o reclamante prestou
+serviços como agente comunitária de saúde, acompanhando pacientes portadores de doenças
+infecto-contagiosas. Rememore-se que a Constituição Federal define como direito do trabalhador a
+"redução dos riscos inerentes ao trabalho, por meio de normas de saúde, higiene e segurança" (art. 7º,
+XXII), cuja observância não recai limitadamente ao empregador, uma vez que a própria tese
+vinculante adotada pelo STF, em seu item 3, estabelece que " constitui responsabilidade da
+Administração Pública garantir as condições de segurança, higiene e salubridade dos trabalhadores,
+quando o trabalho for realizado em suas dependências ou local previamente convencionado em
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683E7E554C4BEC0.
+contrato, nos termos do art. 5º-A, § 3º, da Lei nº 6.019/1974 ". No acórdão objeto do recurso
+extraordinário, a Sexta Turma manteve a condenação subsidiária, considerando o conjunto fático￾probatório relatado pelo TRT. Nesse contexto, fica mantido o acórdão da Sexta Turma, pois não
+contraria a tese vinculante do STF Juízo de retratação não exercido, com devolução dos autos à Vice￾Presidência do TST. (AIRR-1079-48.2010.5.04.0512, 6ª Turma, Relatora Ministra Katia Magalhaes
+Arruda, DEJT 11/05/2026). (g.n.)
+Assim sendo, estando o acórdão impugnado em consonância com a decisão
+definitiva do STF que originou a tese jurídica contida no item 3 do Tema 1.118 do ementário de
+repercussão geral, impõe-se concluir pela manutenção da responsabilidade subsidiária da
+Administração Pública.
+Pelo exposto, MANTENHO o acórdão já proferido e DETERMINO a devolução dos
+autos à Vice-Presidência deste Tribunal Superior do Trabalho, a fim de que prossiga no exame de
+admissibilidade do recurso extraordinário, como entender de direito.
+ISTO POSTO
+ACORDAM os Ministros da Terceira Turma do Tribunal Superior do Trabalho, à
+unanimidade: I – não exercer o juízo de retratação e manter o acórdão turmário; II - não promovido o
+juízo de retratação, devolver os autos à Vice-Presidência deste Tribunal Superior do Trabalho, a fim de
+que prossiga no exame de admissibilidade do recurso extraordinário, como entender de direito.
+Brasília, 6 de outubro de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+MAURICIO GODINHO DELGADO
+Ministro Relator
+Firmado por assinatura digital em 08/10/2026 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura
+de Chaves Públicas Brasileira. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100683E7E554C4BEC0.
