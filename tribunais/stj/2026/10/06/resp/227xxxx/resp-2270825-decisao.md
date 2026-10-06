@@ -1,0 +1,57 @@
+RECURSO ESPECIAL Nº 2270825 - SP (2026/0174624-7)
+
+RELATOR: MINISTRO SEBASTIÃO REIS JÚNIOR
+
+RECORRENTE: JEFERSON HENRIQUE DOS SANTOS
+
+ADVOGADOS: MARINA SILVA REIS - SP131769
+
+LUCIENE TELLES - SP204820
+
+RECORRIDO: MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO
+
+CORRÉU: LUIZ ANESIO DE JESUS ALMEIDA
+
+CORRÉU: ED CARLOS BATISTA DA SILVA
+
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. FURTO QUALIFICADO. ESCALADA E CONCURSO DE PESSOAS. ERRO DE TIPO. AUSÊNCIA DE DOLO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. CRIME CONSUMADO. TEORIA DA AMOTIO. TEMA N. 934/STJ. DOSIMETRIA. QUALIFICADORAS REMANESCENTES. MIGRAÇÃO PARA A PRIMEIRA FASE. FUNDAMENTAÇÃO GENÉRICA. VIOLAÇÃO DO ART. 59 DO CP. REDIMENSIONAMENTO DA PENA. ART. 580 DO CPP. EXTENSÃO AOS CORRÉUS.
+Recurso especial parcialmente conhecido e, nessa extensão, provido em parte, nos termos da fundamentação.
+
+DECISÃO
+Trata-se de recurso especial interposto por Jeferson Henrique dos Santos, com fundamento no art. 105, III, a, da Constituição Federal, no qual se insurge contra o acórdão proferido pelo Tribunal de Justiça de São Paulo no julgamento da Apelação Criminal n. 0001510-18.2016.8.26.0542, assim ementado (fl. 999):
+DIREITO PENAL. APELAÇÃO. FURTO QUALIFICADO. PARCIAL PROVIMENTO. I. Caso em Exame. Os réus subtraíram sete transformadores de energia, avaliados em R$ 49.000,00, pertencentes à AES Eletropaulo, mediante escalada e concurso de pessoas. II. Questão em Discussão 2. A questão em discussão consiste em: (i) erro de tipo e desclassificação para furto tentado; (ii) fixação de regime mais brando. III. Razões de Decidir 3. A consumação do furto ocorreu com a inversão da posse dos transformadores, conforme a teoria da amotio. 4. As qualificadoras de concurso de agentes e escalada foram evidentes, conforme laudo e imagens. IV. Dispositivo e Tese 5. Dá-se parcial provimento aos recursos para reduzir as penas dos réus e estabelecer regime aberto, substituindo a pena privativa de liberdade por restritiva de direitos. Tese de julgamento: 1. Consuma-se o furto com a inversão da posse, segundo a teoria da amotio. 2. A pena pode ser ajustada considerando as circunstâncias do caso. Legislação Citada: Código Penal, art. 155, § 4º, incisos II e IV. Jurisprudência Citada: STJ, REsp 1524450/RJ, Rel. Min. Nefi Cordeiro, 3ª Seção, j. 14.10.2015.
+Os embargos de declaração opostos foram rejeitados (fls. 1.062/1.065).
+Nas razões recursais, a defesa aponta violação dos arts. 14, II, 20, caput, e 59, todos do Código Penal.
+Sustenta a ocorrência de erro de tipo e a ausência de dolo, alegando ter atuado na crença de prestar serviço lícito contratado por terceiro que se apresentou como engenheiro, em contexto de aparente legalidade. Assevera que houve má valoração da prova e indevida inversão do ônus probatório, razão pela qual o erro afasta o dolo e, inexistindo furto culposo, deve ser reconhecida a atipicidade da conduta, absolvendo-se o recorrente (fls. 1.017/1.020).
+Argumenta que houve equívoco na qualificação jurídica da tentativa, com interrupção do ato executório por circunstâncias alheias (chegada da Guarda Municipal), sem consolidação da inversão da posse, devendo ser reconhecida a forma tentada, com aplicação da redução correspondente (fls. 1.020/1.022).
+Alega a desproporcionalidade da pena-base, com indevida valoração da qualificadora na primeira fase da dosimetria, com aumento de 1/3 sem fundamentação concreta, em desacordo com a orientação desta Corte, que, em regra, admite o incremento de 1/6 para cada circunstância judicial negativa, devendo a pena-base ser redimensionada (fls. 1.022/1.024).
+Apresentadas contrarrazões (fls. 1.074/1.076), o recurso foi admitido parcialmente na origem (fls. 1.082/1.084).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opina pelo não conhecimento do recurso especial (fls. 1.100/1.107).
+É o relatório.
+O recurso especial tem origem em ação penal na qual o recorrente foi condenado pela prática do crime de furto qualificado mediante escalada e concurso de pessoas, consistente na subtração de 7 transformadores de energia pertencentes à concessionária, avaliados em R$ 49.000,00. O Tribunal de origem manteve a condenação e reconheceu a consumação do delito com base na teoria da amotio, reduzindo a reprimenda para 2 anos e 8 meses de reclusão, em regime inicial aberto, com substituição da pena privativa de liberdade por restritivas de direitos. Nos embargos de declaração, a Corte local afastou a alegação de prescrição e concluiu pela inexistência de omissão, à luz dos arts. 109, IV, e 110, § 1º, da Lei n. 2.848/1940 e do art. 619 do Código de Processo Penal.
+No tocante à alegada violação do art. 20, caput, da Lei n. 2.848/1940, a pretensão recursal não comporta conhecimento.
+Com efeito, o Tribunal de origem, a partir do conjunto probatório, consignou que os guardas municipais lograram êxito em prender os réus em flagrante na posse da res furtiva, ou seja, enquanto retiravam os transformadores de postes de energia elétrica e os colocavam no interior de um caminhão, registrando, ainda, que os acusados não apresentaram qualquer motivo idôneo a justificar a retirada dos transformadores dos postes elétricas na via pública, bem como qualquer prova da referida contratação de serviços, seja por contrato, troca de mensagens ou qualquer outro meio idôneo (fls. 1.002/1.003).
+Nesse contexto, o reconhecimento da tese de erro de tipo e da consequente ausência de dolo pressupõe a revisão das premissas fáticas fixadas pelas instâncias ordinárias, providência incompatível com a via estreita do recurso especial. Incide, na espécie, o óbice da Súmula 7/STJ.
+Nessa esteira: AgRg no AREsp n. 3.303.220/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/8/2026, DJEN de 25/8/2026; AgRg no AREsp n. 3.024.319/BA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/8/2026, DJEN de 14/8/2026; e AgRg no REsp n. 2.211.218/DF, de minha relatoria, Sexta Turma, julgado em 12/11/2025, DJEN de 17/11/2025.
+Igualmente não merece conhecimento a alegação de violação do art. 14, II, do Código Penal.
+O Tribunal de origem assentou a consumação do furto em razão da inversão da posse da res furtiva, consignando que o crime se consumou, na medida em que os acusados inverteram a posse do bem subtraído, sendo abordados pelos policiais, acrescentando que o furto se consuma com a simples inversão da posse, independentemente se por longo ou breve lapso temporal, reportando-se, ainda, ao entendimento firmado pela Terceira Seção desta Corte no Tema Repetitivo n. 934: Consuma-se o crime de furto com a posse de fato da res furtiva, ainda que por breve espaço de tempo e seguida de perseguição ao agente, sendo prescindível a posse mansa e pacífica ou desvigiada (fl. 1.004).
+No caso, as premissas fáticas fixadas pela Corte local revelam que os transformadores já haviam sido retirados dos postes e colocados no interior do caminhão utilizado pelos agentes. Assim, a conclusão pela consumação do delito está em harmonia com a orientação firmada no Tema n. 934/STJ (AgRg no AREsp n. 3.157.352/GO, de minha relatoria, Sexta Turma, julgado em 18/8/2026, DJEN de 26/8/2026).
+A pretensão de desclassificação para a forma tentada, ao argumento de que não houve efetiva inversão da posse, demanda o afastamento das premissas fáticas estabelecidas no acórdão recorrido, o que também esbarra no óbice da Súmula 7/STJ (AREsp n. 2.435.335/RN, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 17/12/2024, DJEN de 27/12/2024).
+Diversa é a solução quanto à alegada violação do art. 59 do Código Penal.
+É certo que a jurisprudência admite a migração de qualificadora sobressalente para a primeira fase da dosimetria, desde que devidamente fundamentada, não configurando violação ao princípio do ne bis in idem (AREsp n. 2.508.956/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 18/2/2025, DJEN de 25/2/2025).
+Contudo, no caso, a insurgência se limita ao controle da legalidade da fundamentação utilizada para justificar a exasperação da pena-base em razão da migração de qualificadora para a primeira fase da dosimetria.
+Ao redimensionar a pena, o Tribunal de origem consignou apenas que, subsistindo apenas a circunstância de existir duas qualificadoras, o qual reduzo o aumento para 1/3 (um terço), o que se mostra razoável e adequado à espécie, estabelecendo a pena-base dos réus em 2 (dois) anos e 8 (oito) meses de reclusão e 13 (treze) dias-multa (fl. 1.004).
+Constata-se que a fundamentação apresentada se mostra genérica, porquanto não explicita as razões concretas que justificariam a adoção da fração de 1/3, o que viola o dever de motivação das decisões judiciais.
+Com efeito, a jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que a individualização da pena sujeita-se ao controle de legalidade, impondo-se fundamentação concreta na valoração das circunstâncias do art. 59 do CP (AgRg no AREsp n. 3.125.129/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/6/2026, DJEN de 15/6/2026). Confira-se, ainda, o (REsp n. 1.845.496/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 3/11/2020, DJe de 20/11/2020.
+Assim, evidenciada a deficiência de fundamentação, impõe-se o redimensionamento da pena-base mediante a adoção da fração de 1/6, preservadas as demais conclusões do acórdão recorrido.
+Feitas essas considerações, passo ao redimensionamento da pena.
+Na primeira fase, mantenho o aumento da pena-base acima do patamar mínimo, em virtude da migração de duas qualificadoras. Todavia, afasto a fração de 1/3 ante a manifesta ausência de fundamentação e aplico o aumento proporcional de 1/6 sobre a pena mínima legal (2 anos), o que corresponde a 4 meses, resultando em 2 anos e 4 meses de reclusão e 11 dias-multa. Na segunda fase, inexistem circunstâncias atenuantes ou agravantes, razão pela qual fixo a pena intermediária no mesmo patamar. Na terceira fase, ausentes causas de aumento ou de diminuição de pena, torno a reprimenda definitiva em 2 anos e 4 meses de reclusão, e 11 dias-multa. Devem ser preservados o regime inicial aberto e a substituição da pena privativa de liberdade por restritivas de direitos, porquanto o redimensionamento da reprimenda não altera os fundamentos adotados pela Corte de origem.
+Por fim, considerando que os corréus Luiz Anesio de Jesus Almeida e Ed Carlos Batista da Silva foram submetidos à mesma dosimetria aplicada ao recorrente (fls. 862/880 e 998/1005), estendo-lhes os efeitos da presente decisão, com fundamento no art. 580 do Código de Processo Penal, para fixar suas penas em 2 anos e 4 meses de reclusão e 11 dias-multa, mantidos os demais termos do acórdão recorrido.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, dou-lhe parcial provimento tão somente para redimensionar a pena do recorrente para 2 anos e 4 meses de reclusão e 11 dias-multa, mantidos o regime inicial aberto e a substituição da pena privativa de liberdade por penas restritivas de direitos. Nos termos do art. 580 do Código de Processo Penal, estendo os efeitos desta decisão aos corréus Luiz Anesio de Jesus Almeida e Ed Carlos Batista da Silva, para fixar-lhes a pena em 2 anos e 4 meses de reclusão e 11 dias-multa, mantidos os demais termos do acórdão recorrido, nos termos da fundamentação .
+Publique-se.
+
+Brasília, 06 de outubro de 2026.
+
+Ministro Sebastião Reis Júnior
+Relator
