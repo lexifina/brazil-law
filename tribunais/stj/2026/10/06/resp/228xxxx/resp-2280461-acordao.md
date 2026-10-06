@@ -1,0 +1,115 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 29/09/2026 a 06/10/2026, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Luís Carlos Gambogi (Desembargador Convocado do TJMG) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Isabel Gallotti.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FRAUDE BANCÁRIA. FALSA CENTRAL DE ATENDIMENTO. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO. REPETIÇÃO DO INDÉBITO. DANOS MORAIS. RECURSO ESPECIAL NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que, em apelação cível, manteve a improcedência da ação e majorou honorários.
+2. A controvérsia é sobre golpes bancários da falsa central de atendimento em contas-correntes, com pleito de declaração de inexigibilidade das operações, repetição do indébito e reparação de danos morais.
+3. O Juízo de primeiro grau julgou improcedentes os pedidos, reconhecendo culpa exclusiva da vítima e fato de terceiro e afastando a responsabilidade da instituição financeira.
+4. A Corte de origem negou provimento à apelação e majorou os honorários em R$ 1.000,00.
+II. QUESTÃO EM DISCUSSÃO
+5. Há três questões em discussão: (i) saber se há responsabilidade objetiva por falha de segurança com base no art. 14 do CDC; (ii) saber se é possível apontar violação da Súmula n. 479 do STJ; e (iii) saber se há dissídio jurisprudencial suficiente ao conhecimento do recurso pela alínea c.
+III. RAZÕES DE DECIDIR
+6. Aplica-se a Súmula n. 518 do STJ, pois não é cabível recurso especial fundado em alegada violação de enunciado de súmula.
+7. Incide a Súmula n. 7 do STJ, porque a reforma do acórdão exigiria o reexame do acervo fático-probatório quanto à dinâmica do golpe, ao uso de aparelho celular cadastrado com senha e token, à compatibilidade das transações com o perfil financeiro e ao rompimento do nexo causal por culpa exclusiva da vítima e de terceiro.
+8 . É inviável o conhecimento do recurso pela alínea c, ante a ausência de cotejo analítico nos termos dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ, além de subsistirem óbices ao conhecimento pela alínea a sobre as mesmas questões.
+IV. DISPOSITIVO E TESE
+9. Recurso especial não conhecido.
+Tese de julgamento: "1. Conforme a Súmula n. 518 do STJ, não cabe recurso especial fundado em alegada violação de enunciado de súmula. 2. Incide a Súmula n. 7 do STJ quando a pretensão demanda o reexame do conjunto fático-probatório fixado pelas instâncias ordinárias. 3. É inviável o conhecimento do recurso pela alínea c se não há cotejo analítico nos termos dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ, sobretudo quando subsistem óbices ao conhecimento pela alínea a".
+Dispositivos relevantes citados: CF, art. 105, III; CDC, art. 14, § 3º, II; CPC, arts. 85, §§ 2º e 11, 1.029, § 1º; RISTJ, art. 255, § 1º.
+Jurisprudência relevante citada: STJ, Súmulas n. 7 e 518; STF, Súmulas n. 282 e 284; STJ, AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/3/2018; STJ, AgInt no AREsp n. 1.904.140/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/2/2022; STJ, AgRg no AREsp n. 16.879/SP, relator Ministro Humberto Martins, julgado em 27/4/2012; STJ, AgInt no AREsp n. 1.898.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 30/6/2022; STJ, AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 1º/9/2022; STJ, REsp n. 2.046.026/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/6/2023; STJ, REsp n. 2.218.287/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/10/2025; STJ, AREsp n. 2.603.470/DF, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 9/3/2026.
+RELATÓRIO
+Trata-se de recurso especial interposto por HELIDE APARECIDA FULLAN e OUTROS com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação cível nos autos de ação declaratória de inexigibilidade de débito, repetição do indébito e reparação por danos morais.
+O julgado foi assim ementado (fl. 397):
+CONTRATO BANCÁRIO. Contas correntes. Golpe da falsa central de atendimento. Sentença de improcedência. Recurso das autoras. Relação de consumo caracterizada. Telefonema de sedizente preposto da instituição financeira cujas instruções correntista seguiu. Transferências e empréstimos realizados a partir do aparelho celular da parte autora, compatível com perfil de consumo a dispensar cautelas de segurança (bloqueio administrativo ou prévia confirmação). Inexistência de defeito na prestação dos serviços da instituição financeira. Ausência de provas de vazamento de dados ou alteração de limites sem anuência da consumidora. Culpa exclusiva da vítima e de terceiro. Fortuito externo. Excludente de responsabilidade. Inteligência do art. 14, § 3º, II do CDC. Apelação desprovida.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação do art. 14 do CDC, visto que o acórdão exigiu prova de falha e atribuiu culpa exclusiva à vítima quando o fornecedor responde independentemente de culpa por defeitos do serviço, pois se trata de responsabilidade objetiva por falha de segurança em operações bancárias.
+Invoca a Súmula n. 479 do STJ, destacando que as fraudes praticadas por terceiros no âmbito de operações bancárias configuram fortuito interno e impõem responsabilidade objetiva das instituições financeiras, pois o evento está inserido no risco da atividade e demanda mecanismos eficazes de detecção de transações atípicas.
+Sustenta que o Tribunal de origem, ao qualificar como fortuito externo o "golpe da falsa central de atendimento", afastando a responsabilidade objetiva, divergiu do STJ no REsp n. 2.052.228/DF, em que a Terceira Turma reconheceu dever de segurança, fortuito interno e obrigação de impedir movimentações atípicas, bem como do TJMG na Apelação Cível n. 5006343-05.2023.8.13.0382, em que o colegiado aplicou a Súmula n. 479 do STJ para responsabilizar o banco em hipótese idêntica.
+Requer o provimento do recurso para que se reconheça a violação do art. 14 do CDC e se aplique a Súmula n. 479 do STJ, reformando-se o acórdão recorrido para julgar procedentes os pedidos iniciais e determinar a devolução de R$ 184.500,00 e a condenação a danos morais de R$ 15.000,00. Requer ainda que se reconheça, subsidiariamente, a atipicidade dos empréstimos e se determine a devolução de R$ 105.350,00.
+Contrarrazões às fls. 428-441.
+O recurso especial foi admitido às fls. 442-444.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FRAUDE BANCÁRIA. FALSA CENTRAL DE ATENDIMENTO. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO. REPETIÇÃO DO INDÉBITO. DANOS MORAIS. RECURSO ESPECIAL NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que, em apelação cível, manteve a improcedência da ação e majorou honorários.
+2. A controvérsia é sobre golpes bancários da falsa central de atendimento em contas-correntes, com pleito de declaração de inexigibilidade das operações, repetição do indébito e reparação de danos morais.
+3. O Juízo de primeiro grau julgou improcedentes os pedidos, reconhecendo culpa exclusiva da vítima e fato de terceiro e afastando a responsabilidade da instituição financeira.
+4. A Corte de origem negou provimento à apelação e majorou os honorários em R$ 1.000,00.
+II. QUESTÃO EM DISCUSSÃO
+5. Há três questões em discussão: (i) saber se há responsabilidade objetiva por falha de segurança com base no art. 14 do CDC; (ii) saber se é possível apontar violação da Súmula n. 479 do STJ; e (iii) saber se há dissídio jurisprudencial suficiente ao conhecimento do recurso pela alínea c.
+III. RAZÕES DE DECIDIR
+6. Aplica-se a Súmula n. 518 do STJ, pois não é cabível recurso especial fundado em alegada violação de enunciado de súmula.
+7. Incide a Súmula n. 7 do STJ, porque a reforma do acórdão exigiria o reexame do acervo fático-probatório quanto à dinâmica do golpe, ao uso de aparelho celular cadastrado com senha e token, à compatibilidade das transações com o perfil financeiro e ao rompimento do nexo causal por culpa exclusiva da vítima e de terceiro.
+8 . É inviável o conhecimento do recurso pela alínea c, ante a ausência de cotejo analítico nos termos dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ, além de subsistirem óbices ao conhecimento pela alínea a sobre as mesmas questões.
+IV. DISPOSITIVO E TESE
+9. Recurso especial não conhecido.
+Tese de julgamento: "1. Conforme a Súmula n. 518 do STJ, não cabe recurso especial fundado em alegada violação de enunciado de súmula. 2. Incide a Súmula n. 7 do STJ quando a pretensão demanda o reexame do conjunto fático-probatório fixado pelas instâncias ordinárias. 3. É inviável o conhecimento do recurso pela alínea c se não há cotejo analítico nos termos dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ, sobretudo quando subsistem óbices ao conhecimento pela alínea a".
+Dispositivos relevantes citados: CF, art. 105, III; CDC, art. 14, § 3º, II; CPC, arts. 85, §§ 2º e 11, 1.029, § 1º; RISTJ, art. 255, § 1º.
+Jurisprudência relevante citada: STJ, Súmulas n. 7 e 518; STF, Súmulas n. 282 e 284; STJ, AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/3/2018; STJ, AgInt no AREsp n. 1.904.140/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/2/2022; STJ, AgRg no AREsp n. 16.879/SP, relator Ministro Humberto Martins, julgado em 27/4/2012; STJ, AgInt no AREsp n. 1.898.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 30/6/2022; STJ, AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 1º/9/2022; STJ, REsp n. 2.046.026/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/6/2023; STJ, REsp n. 2.218.287/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/10/2025; STJ, AREsp n. 2.603.470/DF, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 9/3/2026.
+VOTO
+I - Contextualização
+A controvérsia diz respeito a ação declaratória de inexigibilidade de débito, repetição do indébito e reparação por danos morais em que a parte autora pleiteou a declaração de inexigibilidade das operações impugnadas, a restituição dos valores transferidos e a condenação por danos morais.
+O Juízo de primeiro grau julgou improcedentes os pedidos da ação, reconhecendo culpa exclusiva da vítima e fato de terceiro e afastando a responsabilidade da instituição financeira.
+A Corte estadual manteve integralmente a sentença, negando provimento à apelação; majorou os honorários advocatícios em R$ 1.000,00.
+II - Inadmissibilidade de recurso especial por violação de súmula
+No que concerne à alegada afronta à Súmula n. 479 do STJ e a eventuais preceitos constitucionais, cumpre assentar o não cabimento do recurso especial.
+A competência do STJ, fixada no art. 105, III, da Constituição Federal, restringe-se à uniformização da interpretação do direito federal infraconstitucional. Desse modo, os enunciados de súmula dos tribunais não se enquadram no conceito de lei federal previsto no art. 105, III, a, da Constituição Federal. Tal diretriz encontra-se pacificada no enunciado da Súmula n. 518 do STJ: "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+III - Art. 14 do CDC
+As recorrentes sustentam que houve falha no dever de segurança da cooperativa de crédito na liberação facilitada de empréstimos e transferências atípicas em vultoso montante, de modo que a responsabilidade objetiva do fornecedor atrairia a procedência dos pedidos reparatórios.
+Todavia, o Tribunal de Justiça de São Paulo, após soberano exame do conjunto probatório acostado aos autos, assentou categoricamente que o golpe foi perpetrado mediante engodo verbal direto de terceiro falsário e colaboração ativa da correntista, sem nenhuma falha técnica ou de segurança nos sistemas da instituição financeira, além de atestar que as transações guardavam conformidade com o perfil financeiro de alta movimentação das contas.
+O acórdão recorrido, analisando o contexto fático-probatório, dispôs o seguinte (fls. 398-400 ):
+Não está demonstrada a falha da instituição financeira, mas culpa exclusiva da vítima e de terceiro.
+A concretização do golpe ocorreu pela colaboração involuntária da vítima, no caso, a autora Helide. Induzida pelo fraudador, por meio de telefonema acreditando ser de preposto da instituição financeira, seguiu todos os passos solicitados, especificamente a realização da transferência a partir de seu aparelho celular.
+Não há indícios de que as informações pessoais das autoras, empregadas para contato pelo terceiro fraudador, foram obtidas a partir do banco de dados da ré.
+Conclui-se que a parte autora tratou com pessoa sem relação com a ré por meio de telefonema, sem antes conferir sua condição de legítimo representante da instituição financeira.
+..
+Não se nega que as operações creditícias impugnadas foram expressivas, pois, consideradas em conjunto, ultrapassam o montante de R$ 180.000,00 (..); todavia, não restou comprovado que tais operações destoam do perfil financeiro de correntista.
+A autora Helide manuseava as três contas bancárias indicadas e, em todas elas, registra-se intensa movimentação financeira em altas quantias, a exemplo de: Jn Comercial, R$ 20.000,00 (fls. 153); Jn Promoção, R$ 30.000,00 (fls. 189); e conta da Helide, R$ 110.000,00 (fls. 295).
+As alegações de que as autoras não costumam contratar empréstimos, bem como de que as transferências de altos valores envolvem apenas movimentações efetuadas por ela própria, não se mostram suficientes para ensejar a responsabilização da ré, porquanto, ainda que se trate de relação de consumo, a parte autora não produziu prova mínima do defeito no serviço ou do nexo causal.
+..
+Aqui não se verifica esse nexo. Sob orientação fraudulenta de terceiro, as autoras contrataram empréstimos e transferiram valores a partir de seu aparelho celular, nada havendo que a instituição financeira pudesse fazer para prevenir ou impedir a fraude, reverter ou diminuir seus efeitos.
+Quanto aos empréstimos, a ré apresentou os laudos referenciados de fls. 195/205, 206/17 e 218/31, indicando os dados das operações, com as datas, tipos de autenticação, endereço de IP e nome do usuário (fls. 197, 208 e 220), o que não foi impugnado.
+Tratando-se de transferências compatíveis com o perfil de consumo e contratação de empréstimos através de aparelhos com dispositivo de segurança e autenticações, não haveria fundamento para levantar suspeitas por parte da instituição financeira sobre fraude, ante a aparente regularidade que dispensa medidas cautelares como bloqueio administrativo ou prévia consulta sobre a pertinência das operações.
+A responsabilidade é dos consumidores no tocante ao dever de agir com zelo na realização de transações bancárias. No caso, as vítimas não agiram com a diligência esperada, pois é notório que há ampla divulgação dos cuidados a serem tomados pelos correntistas.
+Assim, conquanto seja indesejável toda a situação, resta claro que a parte autora e terceiro concorreram para o fato.
+Cuida-se, então, de excludente de responsabilidade por culpa exclusiva de consumidor e/ou de terceiro (art. 14, § 3º, II do Código de Defesa do Consumidor), a romper o nexo causal entre o dano e a atividade da ré.
+Diante de tais premissas soberanamente firmadas pelas instâncias ordinárias ausência de falha no sistema de autenticação, operações realizadas pelo aparelho celular cadastrado com uso de senha e token pessoal, compatibilidade com o histórico de movimentação financeira e rompimento do nexo de causalidade por culpa exclusiva da vítima e de terceiro , a inversão do julgado exigiria o revolvimento de todo o suporte fático-probatório dos autos, o que encontra óbice na Súmula n. 7 do STJ, que preceitua: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+DIREITO CIVIL E DO CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR FRAUDE DA "FALSA CENTRAL DE ATENDIMENTO". RESPONSABILIDADE CIVIL DE INSTITUIÇÃO FINANCEIRA. CULPA EXCLUSIVA DA VÍTIMA E DE TERCEIRO. SÚMULAS 7/STJ, 284/STF, 211/STJ, 282/STF E 83/STJ. AGRAVO EM RECURSO ESPECIAL DESPROVIDO. I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial, com fundamento na Súmula n. 7 do STJ e por ausência de prequestionamento do art. 85, § 8º, do CPC, com incidência das Súmulas n. 211 do STJ e n. 282 do STF.
+2. A controvérsia decorre de ação indenizatória por alegada fraude bancária envolvendo golpe da "falsa central de atendimento".
+3. Na sentença, o Juízo de primeiro grau proferiu sentença em que reconheceu o direito à indenização.
+4. A Corte de origem deu provimento à apelação para afastar a responsabilidade do banco por fortuito externo e culpa exclusiva da vítima e de terceiro.
+II. QUESTÃO EM DISCUSSÃO
+5. A questão em discussão consiste em saber se há responsabilidade objetiva da instituição financeira por falha de segurança e vulneração de dados, com violação aos dispositivos legais indicados e superação dos óbices processuais.
+6. Há cinco questões em discussão: (i) saber se houve violação aos arts. 3º, § 2º, 4º, I, 6º, 14, 46, 51 e 52 do CDC; (ii) saber se houve violação aos arts. 138, 166, 171, 186 e 187 do CC; (iii) saber se houve violação aos arts. 46 e 52 da Lei n. 13.709/2018; (iv) saber se houve violação ao art. 85, § 8º, do CPC; e (v) saber se há dissídio jurisprudencial suficiente ao conhecimento pela alínea c do art. 105, III, da CF.
+III. RAZÕES DE DECIDIR
+7. Incide a Súmula n. 284 do STF, por deficiência na fundamentação, ante a ausência de vínculo analítico entre os dispositivos invocados e os fundamentos do acórdão recorrido.
+8. Aplica-se a Súmula n. 211 do STJ e a Súmula n. 282 do STF quanto aos arts. 138, 166 e 171 do CC, aos arts. 46 e 52 da Lei n. 13.709/2018 e ao art. 85, § 8º, do CPC, por ausência de prequestionamento.
+9. Incide a Súmula n. 7 do STJ, pois o acolhimento das teses demanda reexame do conjunto fático-probatório (dinâmica do golpe, fornecimento voluntário de senha e inexistência de falha sistêmica).
+10. Aplica-se a Súmula n. 83 do STJ, porque o acórdão recorrido está em conformidade com a jurisprudência desta Corte que afasta a responsabilidade do banco em caso de fato exclusivo da vítima ou de terceiro.
+11. Inviável o conhecimento pela alínea c do art. 105, III, da CF, por ausência de cotejo analítico nos termos do art. 1.029, § 1º, do CPC.
+IV. DISPOSITIVO E TESE
+12. Agravo em recurso especial desprovido.
+Tese de julgamento: "1. Incide a Súmula n. 284 do STF quando o recorrente não estabelece vínculo analítico entre os dispositivos de lei federal e os fundamentos do acórdão recorrido. 2. Aplica-se a Súmula n. 211 do STJ e a Súmula n. 282 do STF quando ausente o prequestionamento dos dispositivos legais invocados. 3. Incide a Súmula n. 7 do STJ se a modificação do entendimento demanda reexame de fatos e provas. 4. Aplica-se a Súmula n. 83 do STJ quando a decisão recorrida está em conformidade com a jurisprudência desta Corte sobre culpa exclusiva da vítima e fortuito externo. 5. É inviável o conhecimento pela alínea c sem o cotejo analítico exigido pelo art. 1.029, § 1º, do CPC."
+Dispositivos relevantes citados: CDC, arts. 3º, § 2º, 4º, I, 6º, 14, 46, 51, 52; CC, arts. 138, 166, 171, 186, 187; Lei n. 13.709/2018, arts. 46, 52; CPC, arts. 85, § 8º, § 11, § 2º, 1.029, § 1º; CF, art. 105, III, a e c. Jurisprudência relevante citada: STJ/Súmulas n. 7, 83; STF/Súmulas n. 284, 282; STJ, REsp n. 2.046.026/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/6/2023; STJ, REsp n. 2.218.287/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/10/2025. (AREsp n. 2.603.470/DF, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 9/3/2026, DJEN de 12/3/2026.)
+IV - Dissídio jurisprudencial
+A pretendida admissão do recurso especial pela alínea c do permissivo constitucional está igualmente inviabilizada.
+Na interposição de recurso especial com fundamento na alínea c, impõe-se a observância dos requisitos para a demonstração do dissídio jurisprudencial nos termos dos arts. 1.029, § 1º, do Código de Processo Civil e 255, § 1º, do RISTJ.
+Não basta a mera transcrição das ementas dos paradigmas ou a indicação genérica da divergência: exige-se a juntada do inteiro teor dos acórdãos tidos por divergentes ou a indicação do repositório oficial em que foram publicados; sobretudo a realização de cotejo analítico apto a evidenciar a similitude fática entre os casos confrontados.
+No caso, tais exigências não foram atendidas, razão pela qual fica prejudicada a apreciação da alegada divergência jurisprudencial.
+Ademais, a incidência de óbices sumulares quanto ao conhecimento da insurgência pela alínea a impede o exame do recurso pela alínea c sobres as mesmas questões. A propósito:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO. PACOTE TURÍSTICO E SEGURO SAÚDE PARA VIAGEM INTERNACIONAL. AUSÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO SUPOSTAMENTE VIOLADO. SÚMULA 211 DO STJ. INCIDÊNCIA. DISSÍDIO JURIS PRUDENCIAL PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+..
+2. É firme o entendimento desta Corte no sentido de que "os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a análise do dissídio jurisprudencial" (STJ, AgInt no REsp 1.503.880/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 08/03/2018).
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.904.140/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/2/2022, DJe de 25/2/2022.)
+No mesmo sentido: AgRg no AREsp n. 16.879/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 19/4/2012, DJe de 27/4/2012; AgInt no AREsp n. 1.898.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/6/2022, DJe de 30/6/2022; AgInt no AREsp n. 1.866.385/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/5/2022, DJe de 18/5/2022; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1º/9/2022.
+V - Conclusão
+Ante o exposto, não conheço do recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+É o voto.
