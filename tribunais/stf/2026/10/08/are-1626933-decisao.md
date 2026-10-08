@@ -1,0 +1,25 @@
+DECISÃO:
+Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+O acórdão recorrido  ficou assim ementado:
+
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. TRÁFICO PRIVILEGIADO. BIS IN IDEM. REGIME PRISIONAL. SUBSTITUIÇÃO DA PENA. QUANTIDADE E NATUREZA DA DROGA. INVESTIGAÇÃO PRÉVIA. BALANÇA DE PRECISÃO. CONFISSÃO. CRACOLÂNDIA. FUNDAMENTAÇÃO INSUFICIENTE PARA AFASTAR A MINORANTE. REDUÇÃO DO APENAMENTO EM 1/2. REGIME ABERTO. SUBSTITUIÇÃO POR RESTRITIVAS DE DIREITOS. AGRAVO REGIMENTAL NÃO PROVIDO. 1. Para a aplicação da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, são exigidos, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas, pois a razão de ser da causa especial de diminuição é punir com menor rigor o pequeno traficante, aquele que não faz do tráfico o seu meio de vida. 2. A utilização supletiva da natureza e quantidade da droga para afastar o tráfico privilegiado somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa. 3. No caso concreto, foram utilizados a natureza da droga (crack), a existência de balança de precisão e a confissão sobre a venda na “Cracolândia” para afastar a minorante, à vista de referência genérica a investigação prévia, sem prova judicializada de integração a organização criminosa ou de atividade contumaz e profissional, elementos que, isolados, não descaracterizam o traficante ocasional ou de pequena monta. 4. Entende-se que as instâncias ordinárias não demonstraram de forma inequívoca outras circunstâncias aptas, em conjunto com a natureza e quantidade da droga, a evidenciar dedicação a atividades delitivas ou integração a organização criminosa, configurando constrangimento ilegal e impondo o reconhecimento da minorante do art. 33, § 4º, da Lei n. 11.343/2006. 5. Considera-se, dentro do livre convencimento motivado, adequada a redução da pena no patamar de 1/2, diante da apreensão de quase 1 kg de crack, redefinindo-se a reprimenda para 3 anos e 4 meses de reclusão. 6. A escolha do regime inicial deve considerar o quantum da pena, as circunstâncias judiciais e as peculiaridades do caso, nos termos do art. 33 e parágrafos do CP e art. 42 da Lei n. 11.343/2006, sendo possível regime mais gravoso com motivação idônea; contudo, penabase no mínimo legal e reprimenda definitiva inferior a 4 anos, sem vetores negativos na primeira fase, impõem o regime aberto. 7. Pelas mesmas razões, mostra-se socialmente recomendável a substituição da pena privativa de liberdade por restritivas de direitos, nos termos do art. 44 do CP, a serem especificadas pelo Juízo da execução conforme as peculiaridades do caso. 8. Agravo regimental não provido.
+
+Opostos os embargos de declaração, foram rejeitados.
+No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, XLIII e XLVI, da Constituição Federal.
+Decido.
+Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, nos termos da Súmula 279/STF. Sobre o tema, a propósito:
+
+“Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Fatos e provas. Reexame. Impossibilidade. Legislação infraconstitucional. Ofensa Reflexa. Precedentes. 1. Não se presta o recurso extraordinário para o reexame dos fatos e das provas constantes dos autos, tampouco para a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 2. Agravo regimental não provido” (ARE 1183314/CE - AgR, Tribunal Pleno, Rel. Min. Dias Toffoli, DJe de 15/04/2019).
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. MANUTENÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida. 2. O recurso extraordinário esbarra no óbice previsto na Súmula 279 do STF, por demandar o reexame de fatos e provas. 3. Agravo regimental desprovido” (ARE 1165382/SP - AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 04/03/2020).
+
+“RECURSO EXTRAORDINÁRIO COM AGRAVO – MATÉRIA PENAL – ALEGADA VIOLAÇÃO AO PRECEITO INSCRITO NO ART. 5º, LVII, DA CONSTITUIÇÃO DA REPÚBLICA – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – AGRAVO INTERNO IMPROVIDO” (ARE 1131709 AgR, Segunda Turma, Rel. Min. Celso de Mello, DJe de 30/10/2018).
+
+Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 8 de outubro de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
