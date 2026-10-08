@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 01/10/2026 a 08/10/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Teodoro Silva Santos.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. FAZENDA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 7º, DO CPC/2015. TEMA 1392/STJ. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. ALEGAÇÃO DE DISTINGUISHING. INOCORRÊNCIA. ADERÊNCIA TEMÁTICA CONFIGURADA. AGRAVO INTERNO DESPROVIDO.
+1. A controvérsia centra-se na decisão que determinou a devolução dos autos à origem, em virtude da afetação do Tema 1392/STJ, sob o argumento de que a discussão recursal diria respeito a honorários executivos não vinculados à sucumbência na impugnação ao cumprimento de sentença.
+2. O Tema 1392/STJ versa sobre a definição da aplicação de honorários advocatícios sucumbenciais no cumprimento de sentença contra a Fazenda Pública, especificamente no caso de rejeição, total ou parcial, da impugnação à pretensão executória.
+3. No caso, o acórdão recorrido condiciona a fixação da verba honorária à sucumbência verificada na impugnação e estabelece como base de cálculo o valor controvertido, em plena consonância com a questão jurídica submetida ao rito dos recursos repetitivos.
+4. A alegação de distinção entre honorários executivos e honorários decorrentes da sucumbência em impugnação não se mostra apta a afastar a aderência ao Tema 1392/STJ; porquanto a discussão posta nos autos envolve justamente a interpretação do art. 85, § 7º, do CPC/2015 em contexto de cumprimento de sentença impugnada pela Fazenda Pública.
+5. Ausente demonstração adequada de distinguishing, nos termos do art. 1.037, §§ 9º e 10, do CPC, impõe-se a manutenção da decisão que determinou a devolução dos autos ao Tribunal de origem para observância da sistemática dos recursos repetitivos.
+6. Agravo interno desprovido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em  análise,  agravo  interno  interposto  por TELMO RICARDO ABRAHÃO SCHORR e OUTROS contra  a  decisão  que  determinou a devolução dos autos ao Tribunal de origem em decorrência da afetação do Tema 1392/STJ.
+Alegam  a s  partes agravantes,  em  síntese,  que:
+Ocorre que, renovada vênia, padece de EQUIVOCO a decisão retro quanto ao tópico, porquanto, a teor das razões postas no Recurso Especial, às fls. e-STJ 10 e seguintes, A DISCUSSÃO TRATA DA POSSIBILIDADE DE FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS NA EXECUÇÃO/CUMPRIMENTO DE SENTENÇA E NÃO FIXAÇÃO DA VERBA SUCUMBENCIAL DEVIDA EM RAZÃO DE EVENTUAL JULGAMENTO DO INCIDENTE APRESENTADO.
+Em razão do §7º do Art. 85 do CPC/15, no Cumprimento de Sentença contra a Fazenda Pública, que enseje expedição de Precatório, desde que não tenha sido impugnada, não serão devidos honorários. Como corolário lógico, AINDA QUE ENSEJE EXPEDIÇÃO DE PRECATÓRIO, se impugnada for a execução, serão devidos honorários advocatícios.
+Imperioso esclarecer que é na sentença de julgou os embargos que caberá eventual fixação de honorários, cumpre esclarecer que OS HONORÁRIOS EXECUTIVOS NÃO SE CONFUNDEM COM A VERBA PERTINENTE AOS EMBARGOS DE EXECUÇÃO/IMPUGNAÇÃO.
+ ..
+Nota-se que o próprio artigo que fundamentou a tese trazida à baila não trata de honorários relativamente à sucumbência verificada em incidente durante o curso do Cumprimento de Sentença, mas sim de honorários a serem fixados em Cumprimento/Execução de Sentença, em razão da apresentação de Impugnação!
+Desta forma, resta claro que, a verba honorária executiva, conforme acima exposto, decorre da simples APRESENTAÇÃO DE IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA e, portanto, OS HONORÁRIOS EXECUTIVOS NÃO SE CONFUNDEM COM A VERBA PERTINENTE À SUCUMBÊNCIA VERIFICADA NOS EMBARGOS DE DEVEDOR/IMPUGNAÇÃO, pelo que não há como se manter a confusão feita acerca dos honorários cabíveis e pleiteados pela parte ora agravante, razão pela qual INAPLICÁVEL O TEMA 1.392 (fls. 197-204).
+Por fim, pugnam pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Apresentadas contrarrazões às fls. 210-214.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. FAZENDA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 7º, DO CPC/2015. TEMA 1392/STJ. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. ALEGAÇÃO DE DISTINGUISHING. INOCORRÊNCIA. ADERÊNCIA TEMÁTICA CONFIGURADA. AGRAVO INTERNO DESPROVIDO.
+1. A controvérsia centra-se na decisão que determinou a devolução dos autos à origem, em virtude da afetação do Tema 1392/STJ, sob o argumento de que a discussão recursal diria respeito a honorários executivos não vinculados à sucumbência na impugnação ao cumprimento de sentença.
+2. O Tema 1392/STJ versa sobre a definição da aplicação de honorários advocatícios sucumbenciais no cumprimento de sentença contra a Fazenda Pública, especificamente no caso de rejeição, total ou parcial, da impugnação à pretensão executória.
+3. No caso, o acórdão recorrido condiciona a fixação da verba honorária à sucumbência verificada na impugnação e estabelece como base de cálculo o valor controvertido, em plena consonância com a questão jurídica submetida ao rito dos recursos repetitivos.
+4. A alegação de distinção entre honorários executivos e honorários decorrentes da sucumbência em impugnação não se mostra apta a afastar a aderência ao Tema 1392/STJ; porquanto a discussão posta nos autos envolve justamente a interpretação do art. 85, § 7º, do CPC/2015 em contexto de cumprimento de sentença impugnada pela Fazenda Pública.
+5. Ausente demonstração adequada de distinguishing, nos termos do art. 1.037, §§ 9º e 10, do CPC, impõe-se a manutenção da decisão que determinou a devolução dos autos ao Tribunal de origem para observância da sistemática dos recursos repetitivos.
+6. Agravo interno desprovido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Inicialmente, cumpre ressaltar que a questão submetida a julgamento no Tema 1392/STJ consiste precisamente em: "Definir se, de acordo com o Código de Processo Civil/2015, são devidos honorários advocatícios sucumbenciais em cumprimento de sentença contra a Fazenda Pública, na hipótese de rejeição total ou parcial de impugnação à pretensão executória".
+Por outro lado, a matéria de direito controvertida nos autos diz respeito à interpretação do art. 85, § 7º, do CPC/2015 quanto à incidência e à base de cálculo dos honorários no cumprimento de sentença contra a Fazenda Pública, com precatório, quando há impugnação/embargos.
+Confira-se a ementa do acórdão recorrido oriundo do Tribunal de Justiça do Estado do Rio Grande do Sul:
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PÚBLICA. CUMPRIMENTO DE SENTENÇA EM FACE DA FAZENDA PÚBLICA. PAGAMENTO POR PRECATÓRIO. HONORÁRIOS. ART. 85, § 7º, DO CPC.
+- Os honorários advocatícios previstos no art. 85 do Código de Processo Civil decorrem do princípio da sucumbência; logo, apenas a sucumbência na impugnação autoriza a fixação de honorários com fundamento no art. 85, §7º, do mesmo dispositivo legal. Jurisprudência deste Colegiado.
+- O Superior Tribunal de Justiça, ao admitir a possibilidade de fixação de honorários com fundamento no art. 85, § 7, do CPC, determina que estes devem ser arbitrados com base no valor controvertido da execução, ou seja, sobre a parcela na qual a Fazenda Pública foi sucumbente.
+- No caso dos autos, a impugnação oposta pelo Instituto de Previdência do Estado do Rio Grande do Sul foi parcialmente acolhida, havendo anuência tácita do exequente em relação aos índices de juros na forma da Lei nº 11.960/09, tendo em vista que não contestou a impugnação no que se refere a este ponto.
+4. Ademais, importante salientar que, diante da parcial procedência da impugnação, os honorários foram arbitrados pelo juízo de origem, sendo caso de manutenção da decisão nesta instância.
+AGRAVO INTERNO DESPROVIDO (fl. 79).
+No recurso especial, fundam entado no art. 105, III, alíneas a e c, da Constituição Federal, as partes alegam, em síntese, que o acórdão recorrido violou o art. 85, § 7º, do CPC/2015, ao afastar indevidamente a fixação de honorários no cumprimento de sentença contra a Fazenda Pública, afirmando que a norma apenas exclui a verba quando inexistente impugnação, de modo que, havendo resistência do ente público, são devidos honorários executivos independentemente do resultado do incidente.
+Sustentam, ainda, que os referidos honorários têm natureza autônoma e não se confundem com aqueles decorrentes da sucumbência nos embargos/impugnação, sendo admissível sua cumulação, razão pela qual o entendimento do Tribunal de origem ao condicionar a verba à sucumbência na impugnação teria interpretado de forma restritiva o dispositivo legal e negado sua vigência.
+Nesse cenário, conforme consignado na decisão agravada, há aderência temática no ponto em que o acórdão recorrido condiciona a fixação dos honorários à sucumbência na impugnação e delimita a base de cálculo ao valor controvertido, exatamente a matéria referida pelo Tema 1392/STJ.
+Com efeito, verifica-se que as partes recorrentes não cumpriram o ônus de demonstrar a ocorrência de distinguishing, nos termos do art. 1.037, §§ 9º e 10, IV, do CPC.
+Isso posto, nego provimento ao recurso.
