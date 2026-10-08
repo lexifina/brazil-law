@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 01/10/2026 a 08/10/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, Maria Marluce Caldas e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental. Habeas corpus substitutivo. Regime inicial de cumprimento de pena. Circunstâncias judiciais desfavoráveis. Substituição por restritivas de direitos. Agravo regimental IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus, por se tratar de substitutivo do recurso legalmente previsto para a hipótese.
+2. A agravante sustenta ausência de fundamentação idônea para a valoração negativa da culpabilidade, das circunstâncias e das consequências do crime, postulando abrandamento do regime prisional e substituição da pena privativa de liberdade por restritiva de direitos.
+3. A sentença fixou a pena-base acima do mínimo legal, com regime inicial semiaberto, à vista de circunstâncias judiciais desfavoráveis; acórdão confirmou a dosimetria e o regime .
+II. Questão em discussão
+4. Há quatro questões em discussão: (i) saber se o habeas corpus substitutivo de recurso próprio deve ser conhecido pela Corte; (ii) saber se a fixação de regime inicial semiaberto, com pena inferior a 4 anos e primariedade, é legítima quando a pena-base é elevada acima do mínimo em razão de circunstâncias judiciais desfavoráveis, sem ofensa às Súmulas 440/STJ e 718 e 719/STF; (iii) saber se a presença de circunstâncias judiciais desfavoráveis impede a substituição da pena privativa de liberdade por restritiva de direitos, nos termos do art. 44, III, do Código Penal; e (iv) saber se é necessária a realização de nova dosimetria pelo Tribunal.
+III. Razões de decidir
+5. A Corte consolidou orientação no sentido de que não cabe habeas corpus substitutivo de recurso legalmente previsto, impondo-se o não conhecimento da impetração, salvo flagrante ilegalidade, inexistente no caso.
+6. A elevação da pena-base acima do mínimo, em razão de circunstâncias judiciais desfavoráveis (art. 59 do Código Penal), legitima a fixação de regime inicial mais gravoso, nos termos do art. 33, §§ 2º e 3º, do Código Penal, não havendo violação às Súmulas 440/STJ e 718 e 719/STF, porquanto o regime não se fundou na gravidade abstrata do delito.
+7. A presença de circunstâncias judiciais desfavoráveis afasta o preenchimento do requisito do art. 44, III, do Código Penal, inviabilizando a substituição da pena privativa de liberdade por restritiva de direitos.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo regimental IMprovido.
+Tese de julgamento:
+1. Habeas corpus não se admite como substitutivo de recurso próprio, salvo em caso de flagrante ilegalidade. 2. A fixação de regime inicial semiaberto é válida quando a pena-base é majorada acima do mínimo por circunstâncias judiciais desfavoráveis, mesmo em pena inferior a 4 anos e primariedade, sem ofensa às Súmulas 440/STJ e 718 e 719/STF. 3. A existência de circunstâncias judiciais desfavoráveis impede a substituição da pena privativa de liberdade por restritiva de direitos, nos termos do art. 44, III, do Código Penal.
+Dispositivos relevantes citados: CP, art. 33, §§ 2º e 3º; CP, art. 59; CP, art. 44, III
+Jurisprudência relevante citada: STJ, Súmula 440; STF, Súmula 718; STF, Súmula 719; st j, AgRg no HC n. 699.762/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 12/11/2021
+RELATÓRIO
+Trata-se de agravo regimental interposto por MAURICIO SA TELES SOUZA, contra decisão monocrática que não conheceu do habeas corpus.
+Em razões, a agravante apenas reitera os argumentos trazidos no habeas corpus, destacando que a mera indicação de que a culpabilidade, as circunstâncias ou as consequências do delito seriam negativas não satisfaz o dever constitucional de fundamentação quando desacompanhada da demonstração objetiva dos elementos concretos que legitimam tal valoração.
+Requer, assim, o provimento do recurso a fim de que seja concedida a ordem nos termos do writ impetrado.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Habeas corpus substitutivo. Regime inicial de cumprimento de pena. Circunstâncias judiciais desfavoráveis. Substituição por restritivas de direitos. Agravo regimental IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus, por se tratar de substitutivo do recurso legalmente previsto para a hipótese.
+2. A agravante sustenta ausência de fundamentação idônea para a valoração negativa da culpabilidade, das circunstâncias e das consequências do crime, postulando abrandamento do regime prisional e substituição da pena privativa de liberdade por restritiva de direitos.
+3. A sentença fixou a pena-base acima do mínimo legal, com regime inicial semiaberto, à vista de circunstâncias judiciais desfavoráveis; acórdão confirmou a dosimetria e o regime .
+II. Questão em discussão
+4. Há quatro questões em discussão: (i) saber se o habeas corpus substitutivo de recurso próprio deve ser conhecido pela Corte; (ii) saber se a fixação de regime inicial semiaberto, com pena inferior a 4 anos e primariedade, é legítima quando a pena-base é elevada acima do mínimo em razão de circunstâncias judiciais desfavoráveis, sem ofensa às Súmulas 440/STJ e 718 e 719/STF; (iii) saber se a presença de circunstâncias judiciais desfavoráveis impede a substituição da pena privativa de liberdade por restritiva de direitos, nos termos do art. 44, III, do Código Penal; e (iv) saber se é necessária a realização de nova dosimetria pelo Tribunal.
+III. Razões de decidir
+5. A Corte consolidou orientação no sentido de que não cabe habeas corpus substitutivo de recurso legalmente previsto, impondo-se o não conhecimento da impetração, salvo flagrante ilegalidade, inexistente no caso.
+6. A elevação da pena-base acima do mínimo, em razão de circunstâncias judiciais desfavoráveis (art. 59 do Código Penal), legitima a fixação de regime inicial mais gravoso, nos termos do art. 33, §§ 2º e 3º, do Código Penal, não havendo violação às Súmulas 440/STJ e 718 e 719/STF, porquanto o regime não se fundou na gravidade abstrata do delito.
+7. A presença de circunstâncias judiciais desfavoráveis afasta o preenchimento do requisito do art. 44, III, do Código Penal, inviabilizando a substituição da pena privativa de liberdade por restritiva de direitos.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo regimental IMprovido.
+Tese de julgamento:
+1. Habeas corpus não se admite como substitutivo de recurso próprio, salvo em caso de flagrante ilegalidade. 2. A fixação de regime inicial semiaberto é válida quando a pena-base é majorada acima do mínimo por circunstâncias judiciais desfavoráveis, mesmo em pena inferior a 4 anos e primariedade, sem ofensa às Súmulas 440/STJ e 718 e 719/STF. 3. A existência de circunstâncias judiciais desfavoráveis impede a substituição da pena privativa de liberdade por restritiva de direitos, nos termos do art. 44, III, do Código Penal.
+Dispositivos relevantes citados:CP, art. 33, §§ 2º e 3º; CP, art. 59; CP, art. 44, III
+Jurisprudência relevante citada: STJ, Súmula 440; STF, Súmula 718; STF, Súmula 719; st j, AgRg no HC n. 699.762/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 12/11/2021
+VOTO
+A decisão agravada deve ser mantida, pois a parte agravante não trouxe argumentos suficientes para sua alteração.
+Como afirmei quando do julgamento monocrático, esta Corte pacificou orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Para permitir a análise dos capítulos apontados, faz-se necessário expor excerto do acórdão impugnado:
+" No tocante ao pedido de abrandamento do regime prisional, observo que a sentença entendeu que a pena fixada em desfavor do ora embargante deveria ser cumprida, inicialmente, no regime semiaberto, o que, no meu entender, não merece qualquer reparo.
+Nos termos do art. 33, §§ 2º e 3º, do Código Penal, a possibilidade de abrandamento do regime inicial de cumprimento de pena não decorre exclusivamente da condição de primariedade do acusado ou do quantum da pena fixada, devendo o julgador considerar, também, as circunstâncias judiciais previstas no art. 59 do mesmo diploma legal, valoradas na primeira fase da dosimetria.
+No caso, embora o embargante seja tecnicamente primário e não ostente antecedentes criminais, verifica-se a existência de circunstâncias judiciais desfavoráveis (culpabilidade, circunstâncias e consequências do crime), estas devidamente reconhecidas na sentença e confirmadas pelo acórdão embargado, além de processos em fase de instrução (CAC - documento eletrônico de ordem 289).
+Ademais, conforme exaustivamente demonstrado nos autos, o ora embargante faz parte de associação criminosa (art. 288 do Código Penal), especializada em crimes contra o patrimônio, atuante, principalmente, no Estado de São Paulo, de onde vieram informações consistentes acerca do modus operandi do grupo, fazendo dessa atividade seu meio de vida. " (e-STJ, fls. 23-26).
+Não prosperam as pretensões de abrandamento do regime e substituição da pena privativa de liberdade por restritiva de direitos.
+Isso porque, havendo circunstâncias judiciais desfavoráveis que justificaram a fixação da pena-base acima do mínimo legal, como ocorreu no caso, mostra-se plenamente legítima a imposição de regime inicial mais gravoso (semiaberto), ainda que o montante da pena e a primariedade, em tese, permitissem o regime aberto.
+Logo, não se vislumbra ofensa às Súmulas 440 do STJ ou 718 e 719 do STF, uma vez que o regime semiaberto não foi fixado com base na gravidade abstrata do delito, mas sim em elementos concretos extraídos dos autos que evidenciam a necessidade de maior rigor penal para a prevenção e repressão do crime praticado.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. LESÃO CORPORAL NO ÂMBITO DOMÉSTICO E FAMILIAR. EXASPERAÇÃO DA PENA-BASE. CULPABILIDADE, CIRCUNSTÂNCIAS E CONSEQUÊNCIAS. QUANTUM DE AUMENTO PROPORCIONAL À GRAVIDADE DA CONDUTA. REGIME INICIAL DE CUMPRIMENTO DE PENA. PENA INFERIOR A 4 ANOS. EXISTÊNCIA DE, CIRCUNSTÂNCIAS JUDICIAS DESFAVORÁVEIS. PENA-BASE ACIMA DO MÍNIMO LEGAL. REGIME INTERMEDIÁRIO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A dosimetria da pena e seu regime de cumprimento inserem-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+2. Verifica-se que a pena-base foi exasperada em razão da culpabilidade - a testemunha inquirida disse nunca ter visto alguém apanhar daquele jeito, referindo-se às agressões causadas por Samoel em face de Telma; circunstâncias do crime - o casal estava jantando com um vizinho idoso, acompanhado das crianças de tenra idade, e todos tiveram que assistir a trágica cena de violência num ambiente familiar e consequências do crime - considerando os mais diversos locais do corpo que a vítima foi lesionada, justificativas que se mostraram idôneas para o aumento realizado.
+3. Dessa forma, as instâncias ordinárias apresentaram fundamentação concreta e suficiente para o acréscimo da pena em fração superior a 1/6, na primeira fase da dosimetria e não há se falar em desproporcionalidade.
+4. Ademais, como é cediço, a análise das circunstâncias judiciais do art. 59 do Código Penal não atribui pesos absolutos para cada uma delas a ponto de ensejar uma operação aritmética dentro das penas máximas e mínimas cominadas ao delito. Assim, é possível até mesmo "o magistrado fixe a pena-base no máximo legal, ainda que tenha valorado tão somente uma circunstância judicial, desde que haja fundamentação idônea e bastante para tanto" (AgRg no REsp 143071/AM, Rel. Min. MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 6/5/2015).
+4. Quanto ao regime, não há se falar em ilegalidade da fixação do regime inicial intermediário. Não obstante a pena seja inferior a 4 anos de detenção e o paciente seja primário, as circunstâncias judiciais não lhe eram todas favoráveis, tanto que a pena-base foi fixada acima do mínimo legal. Assim, nos termos do art. 33, § § 2º e 3º, do Código Penal, o regime inicial semiaberto se mostra mais adequado.
+5. Agravo regimental não provido." (AgRg no HC n. 699.762/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/11/2021, DJe de 12/11/2021.)
+Da mesma maneira, evidenciada a presença de circunstâncias judiciais desfavoráveis, que ocasionou a majoração de sua pena-base, descabe falar substituição da pena privativa de liberdade, pois não resta preenchido o requisito do inciso III do art. 44 do Código Penal.
+Por fim, quanto ao pleito de determinação de realização de nova dosimetria pelo Tribunal, não se vislumbra qualquer ilegalidade do acórdão recorrido, pois examinou individualmente as reprimendas impostas por cada delito, explicitando as circunstâncias judiciais consideradas e as alterações promovidas na dosimetria.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
