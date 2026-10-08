@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 01/10/2026 a 08/10/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Carlos Pires Brandão e Nilsoni de Freitas (Desembargadora Convocada do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. REVISÃO CRIMINAL JULGADA IMPROCEDENTE. ILEGALIDADE PROBATÓRIA NÃO VERIFICADA. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça firmou a compreensão de que o habeas corpus não pode ser utilizado como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração quando assim manejada.
+2. No caso, apreciado pela instância de origem o pedido de revisão criminal, a impugnação deve ser feita por meio de recurso especial, nos termos previstos no art. 105, III, da Constituição Federal, por se tratar de "causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios".
+3. A jurisprudência deste Superior Tribunal não admite a utilização da revisão criminal como nova oportunidade de interpor apelação, reabrindo-se a rediscussão de questões já acobertadas pela coisa julgada, sendo indispensável a demonstração de cabimento do pedido revisional.
+4. Inexistência de flagrante ilegalidade que permita a concessão da ordem de ofício.
+5. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por CLAYTON RAFAEL PEVERALI contra a decisão de fls. 114-115, que não conheceu do habeas corpus, por entender que a impetração foi utilizada como substitutivo de recurso próprio, com registro de que a revisão criminal não pode reabrir discussão já acobertada pela coisa julgada.
+A parte recorrente sustenta que o habeas corpus não seria sucedâneo de recurso especial, pois buscaria sanar flagrante ilegalidade demonstrável por prova pré-constituída.
+Alega suposta nulidade da busca e apreensão, por ter sido realizada em endereço diverso daquele autorizado judicialmente, tornando ilícitas as provas obtidas e as delas derivadas, nos termos dos arts. 157 e 243, I, do CPP.
+Defende que a controvérsia seria objetiva e não exigiria amplo revolvimento probatório, devendo ser analisada pelo colegiado, inclusive quanto à eventual existência de múltiplos endereços ou à realização da diligência em local não abrangido pelo mandado.
+Requer o provimento do agravo regimental com a consequente repercussão jurídica.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. REVISÃO CRIMINAL JULGADA IMPROCEDENTE. ILEGALIDADE PROBATÓRIA NÃO VERIFICADA. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça firmou a compreensão de que o habeas corpus não pode ser utilizado como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração quando assim manejada.
+2. No caso, apreciado pela instância de origem o pedido de revisão criminal, a impugnação deve ser feita por meio de recurso especial, nos termos previstos no art. 105, III, da Constituição Federal, por se tratar de "causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios".
+3. A jurisprudência deste Superior Tribunal não admite a utilização da revisão criminal como nova oportunidade de interpor apelação, reabrindo-se a rediscussão de questões já acobertadas pela coisa julgada, sendo indispensável a demonstração de cabimento do pedido revisional.
+4. Inexistência de flagrante ilegalidade que permita a concessão da ordem de ofício.
+5. Agravo regimental improvido.
+VOTO
+Conforme consignado na decisão agravada, é pacífico no âmbito deste Tribunal Superior o entendimento de que o habeas corpus não se presta a substituir os recursos legalmente previstos no ordenamento jurídico, impondo-se o não conhecimento da impetração quando assim manejada.
+No caso, tendo sido o pedido de revisão criminal apreciado pelo Tribunal competente, eventual irresignação deve ser veiculada por meio do recurso cabível, não sendo admissível a utilização do habeas corpus como sucedâneo recursal, sob pena inclusive de ofensa ao princípio da unirrecorribilidade.
+Assim, a impugnação deve observar a via processual adequada, qual seja, o recurso especial, nos termos do art. 105, III, da Constituição Federal, por se tratar de causa decidida em única ou última instância pelo Tribunal de origem.
+Nesse sentido: AgRg no HC n. 1.042.849/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/11/2025, DJEN de 12/11/2025; AgRg no HC n. 1.015.569/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 24/9/2025, DJEN de 30/9/2025; e HC n. 988.028/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/5/2025, DJEN de 21/5/2025.
+Ademais, cumpre registrar que, ao afastar a utilização da revisão criminal como sucedâneo de nova apelação, o acórdão impugnado julgou improcedente o pleito defensivo por não se constatar a presença de nenhuma das hipóteses previstas no art. 621 do Código de Processo Penal.
+Nesse cenário, eventual irresignação quanto a tal conclusão, passível de análise em recurso especial, como já consignado, demanda a demonstração inequívoca de incorreta aplicação do referido dispositivo legal.
+Com efeito, a jurisprudência deste Superior Tribunal é firme ao estabelecer que a revisão criminal não se presta à rediscussão de matéria já acobertada pela coisa julgada, sendo imprescindível a comprovação do efetivo enquadramento do caso em uma das hipóteses legais de cabimento do pedido revisional.
+Nesse sentido: HC n. 988.028/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/5/2025, DJEN de 21/5/2025; e HC n. 970.713/BA, de minha r elatoria, Sexta Turma, julgado em 3/9/2025, DJEN de 9/9/2025.
+Por fim, não se verifica flagrante ilegalidade apta a justificar a concessão da ordem de ofício.
+O acórdão recorrido apresentou fundamentação adequada ao reconhecer a inviabilidade da revisão criminal como instrumento para reiterar tese jurídica já examinada e rejeitada em diversas ocasiões, destacando a ausência de prova nova e a sucessiva reiteração da matéria, inclusive, perante as instâncias superiores (fl. 24):
+No caso em análise, o peticionário não apresentou qualquer prova nova, limitando-se a reiterar, com pequenas variações argumentativas, a mesma tese jurídica já examinada e rejeitada na revisão anterior. A alegação de ilicitude probatória, decorrente do cumprimento do mandado em endereço diverso, não configura elemento probatório superveniente, mas simples repetição de argumento jurídico anteriormente exposto. Dessa forma, inexiste o pressuposto de admissibilidade exigido pela norma processual, caracterizando afronta ao comando legal previsto no artigo 622, parágrafo único, do Código de Processo Penal.
+Ademais, o histórico processual demonstra que o peticionário, inconformado com os sucessivos insucessos, tentou por cinco vezes reexaminar a matéria junto ao Egrégio Superior Tribunal de Justiça (conforme citado a fls. 2039), sendo mantida, em todas as ocasiões, a condenação. Tal circunstância reforça a inadmissibilidade da presente ação, pois evidencia a tentativa de eternizar discussão já exaurida nas instâncias ordinárias e extraordinárias, em claro desrespeito aos princípios da segurança jurídica e da coisa julgada.
+Nesse contexto, conforme supracitado, a jurisprudência dos Tribunais Superiores é pacífica ao afirmar que a revisão criminal não pode ser utilizada como sucedâneo recursal, destinando-se exclusivamente à correção de erros judiciários evidentes ou à apreciação de provas novas capazes de demonstrar a inocência do condenado.
+Como se observa, a ação revisional foi ajuizada sem a apresentação de novas provas ou circunstâncias desconhecidas, limitando-se a reabrir debate já travado no processo condenatório , em nítida tentativa de utilização da revisão criminal como sucedâneo recursal, fora das hipóteses taxativas do art. 621 do Código de Processo Penal, razão pela qual o pedido foi julgado improcedente.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
