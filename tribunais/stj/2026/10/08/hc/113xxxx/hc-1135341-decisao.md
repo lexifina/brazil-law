@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JOSÉ LAUDECIR SIQUEIRA DA SILVA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, em decorrência do julgamento da apelação criminal n. 0000064-91.2016.8.12.0049.
+Consta nos autos que o paciente foi inicialmente condenado pelo Tribunal do Júri, sob a presidência do Juízo da Vara Única da Comarca de Água Clara, à pena de 10 (dez) anos de reclusão, em regime inicial fechado, pela prática da conduta prevista no artigo 121, § 2º, inciso II, c/c artigo 14, inciso II, do Código Penal (fls. 37-48).
+A defesa apelou ao Tribunal de Justiça do Estado de Mato Grosso do Sul, que deu parcial provimento ao recurso para redimensionar a pena para 9 (nove) anos e 2 (dois) meses de reclusão, mantido o regime inicial fechado (fls. 8-23), sobrevindo o trânsito em julgado.
+Na impetração, busca-se a concessão da ordem para: (i) reconhecer a inidoneidade da valoração negativa das consequências do crime, fixando-se a pena-base no mínimo legal; (ii) preservar as reduções de 1/12 pela confissão qualificada e de 1/3 pela tentativa, com o consequente redimensionamento da pena para 7 (sete) anos e 4 (quatro) meses; e (iii) fixar o regime inicial semiaberto (fls. 2-7).
+É o relatório. DECIDO.
+A controvérsia consiste na ocorrência de possível constrangimento ilegal, caracterizado pela valoração negativa das consequências do crime na primeira fase da dosimetria da pena, com reflexos no quantum da reprimenda e no regime inicial de cumprimento.
+Contudo, o presente habeas corpus investe contra um acórdão com trânsito em julgado. Portanto, não deve ser conhecido, pois foi utilizado como substituto de uma revisão criminal, em uma situação em que não se configurou a competência originária desta Corte.
+Conforme o artigo 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, as revisões criminais e as ações rescisórias de seus julgados.
+Quanto à pretensão de concessão de habeas corpus de ofício, com fundamento na interpretação sistemática dos arts. 647-A e 654, § 2º, ambos do Código de Processo Penal, esta Corte Superior entende que a concessão da ordem de ofício constitui iniciativa exclusiva do julgador, quando se deparar com flagrante ilegalidade em procedimento de sua competência, o que não se verifica no caso concreto.
+Nessa linha: "Na hipótese, a condenação transitou em julgado em 31/5/2023. Dessa forma, o presente writ seria sucedâneo de revisão criminal, sendo esta Corte incompetente para o processamento do pleito revisional. (AgRg no HC n. 861.867/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024.)
+O artigo 210 do Regimento Interno do Superior Tribunal de Justiça autoriza o relator a indeferir liminarmente o habeas corpus quando constatada a manifesta incompetência, hipótese verificada nos presentes autos.
+Com essas considerações, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
