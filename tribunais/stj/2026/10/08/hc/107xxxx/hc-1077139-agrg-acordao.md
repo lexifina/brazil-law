@@ -1,0 +1,85 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 01/10/2026 a 08/10/2026, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Pires Brandão, Nilsoni de Freitas (Desembargadora Convocada do TJDFT), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. DECRETO N. 12.338/2024. ART. 9º, XV, C/C O ART. 12, § 2º. CRIME CONTRA O PATRIMÔNIO SEM VIOLÊNCIA OU GRAVE AMEAÇA. AUSÊNCIA DE REPARAÇÃO DO DANO. PRESUNÇÃO DE HIPOSSUFICIÊNCIA PELA ASSISTÊNCIA DA DEFENSORIA PÚBLICA. EXIGÊNCIA DE DEMONSTRAÇÃO DE ARREPENDIMENTO OU VONTADE DE REPARAÇÃO DO DANO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A concessão de indulto é ato discricionário e de competência privativa do Presidente da República (art. 84, XII, da CF). Cabe ao Poder Judiciário interpretar o decreto presidencial de forma restritiva e sistemática, sem ampliar nem restringir os requisitos nele previstos.
+2. Embora a condenação de representado pela Defensoria Pública gere, nos termos do art. 12, § 2º, I, do Decreto n. 12.338/2024, presunção de incapacidade econômica que dispensa a reparação material do dano, subsiste, para a concessão do indulto do art. 9º, XV, a exigência de demonstração tempestiva de arrependimento ou de vontade de reparação do dano, não elidida pela mera hipossuficiência presumida. Precedentes.
+3. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+CAROLINE APARECIDA RAMOS interpõe agravo regimental contra decisão monocrática em que deneguei a ordem de habeas corpus.
+Consta dos autos que a paciente cumpre pena de 3 anos, 5 meses e 15 dias de reclusão, em regime inicial semiaberto, pela prática do crime de furto simples (art. 155, caput, do Código Penal). O Juízo das Execuções Criminais deferira o pedido de indulto formulado com fundamento no art. 9º, XV, c/c o art. 12, § 2º, I e V, do Decreto n. 12.338/2024, decisão cassada pelo Tribunal de origem em agravo em execução interposto pelo Ministério Público.
+A defesa reitera a sua compreensão de que a paciente faz jus ao indulto e acrescenta, no presente regimental, fundamentação renovada quanto ao único ponto em que a decisão agravada lhe foi desfavorável: sustenta que a exigência de "demonstração concreta de arrependimento ou vontade de ressarcimento" não encontra amparo no texto do art. 9º, XV, do decreto, cuja exceção do art. 12, § 2º, alcançaria a integralidade do requisito de reparação do dano, e não apenas o seu aspecto material. Aduz que nem o art. 16 nem o art. 65, III, "b", do Código Penal, aos quais o decreto remete, exigem elemento subjetivo de contrição, basta a voluntariedade do ato, admitida inclusive a reparação por interposta pessoa.
+Requer, assim, a retratação da decisão agravada ou, subsidiariamente, o provimento do agravo regimental pelo órgão colegiado, para que seja concedida a ordem de habeas corpus, cassado o acórdão impugnado e restabelecida a decisão de primeiro grau concessiva do indulto (fls. 142-152).
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. DECRETO N. 12.338/2024. ART. 9º, XV, C/C O ART. 12, § 2º. CRIME CONTRA O PATRIMÔNIO SEM VIOLÊNCIA OU GRAVE AMEAÇA. AUSÊNCIA DE REPARAÇÃO DO DANO. PRESUNÇÃO DE HIPOSSUFICIÊNCIA PELA ASSISTÊNCIA DA DEFENSORIA PÚBLICA. EXIGÊNCIA DE DEMONSTRAÇÃO DE ARREPENDIMENTO OU VONTADE DE REPARAÇÃO DO DANO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A concessão de indulto é ato discricionário e de competência privativa do Presidente da República (art. 84, XII, da CF). Cabe ao Poder Judiciário interpretar o decreto presidencial de forma restritiva e sistemática, sem ampliar nem restringir os requisitos nele previstos.
+2. Embora a condenação de representado pela Defensoria Pública gere, nos termos do art. 12, § 2º, I, do Decreto n. 12.338/2024, presunção de incapacidade econômica que dispensa a reparação material do dano, subsiste, para a concessão do indulto do art. 9º, XV, a exigência de demonstração tempestiva de arrependimento ou de vontade de reparação do dano, não elidida pela mera hipossuficiência presumida. Precedentes.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Apesar dos argumentos empregados pela agravante, entendo que não lhe assiste razão.
+I. Indulto - interpretação restritiva e sistemática - Decreto n. 12.338/2024
+O art. 5º, XLVI, da CF estabelece que a lei regulará a individualização da pena, o que também ocorre na fase da execução, para fins de declaração do indulto e de outros benefícios.
+A sentença concessiva do indulto tem natureza declaratória. O julgador deve observar estritamente os requisitos exigidos pelo Presidente da República, sob pena de usurpação da competência privativa disposta no art. 84, XII, da Constituição Federal (v.g.: AgRg no HC n. 773.059/AM, Rel. Ministro Rogerio Schietti, 6ª T., DJe 16/3/2023).
+A jurisprudência desta Corte é de que "para a análise do pedido de indulto ou comutação de pena, o Magistrado deve restringir-se ao exame do preenchimento dos requisitos previstos no decreto presidencial, uma vez que os pressupostos para a concessão da benesse são da competência privativa do Presidente da República (HC n. 456.119/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 15/10/2018)" (HC n. 468.737/RS, Rel. Ministra Laurita Vaz, 6ª T, Dje 10/04/2019).
+Ressalto que é do Presidente da República (art. 84, XII, da CF) a opção discricionária de conceder ou não o perdão e fica a seu critério a extensão e os requisitos do indulto, que não é suscetível de revisão judicial, a não ser excepcionalmente, uma vez desrespeitados os limites constitucionais (e os tratados internacionais).
+Esta Corte tem entendimento de que a interpretação do decreto presidencial que possibilita o indulto deve ser realizada de maneira sistemática, com a constatação dos requisitos objetivo e subjetivo necessários à sua concessão:
+ ..  4. A interpretação sistemática do Decreto exige que todos os dispositivos sejam aplicados de forma conjunta e harmônica, não permitindo extensão do benefício a penas de multa para crimes excluídos do indulto, como o tráfico de drogas.
+5. A hipossuficiência econômica do condenado, por si só, não presume o direito à extinção da punibilidade da pena de multa, especialmente sem comprovação nos autos. O fato de ser assistido pela Defensoria Pública não constitui prova suficiente de incapacidade financeira para arcar com a pena de multa.
+6. A jurisprudência desta Corte e do Supremo Tribunal Federal é pacífica ao vedar a extensão do indulto natalino às penas restritivas de direitos e de multa, quando há expressa vedação normativa, como no caso de condenações por tráfico de drogas.
+IV. RECURSO DESPROVIDO.
+(REsp n. 2.165.758/SP, relatora Ministra Daniela Teixeira, 5ª T., DJEN de 6/1/2025, grifei.)
+Assim, "em homenagem ao princípio da legalidade, os decretos presidenciais são interpretados de forma literal, não havendo margem discricionária ao Magistrado para atuar além das exaustivas hipóteses legais previstas para conceder indulto ou comutação de pena" (HC n. 668.976/SP, relatora Ministra Laurita Vaz, 6ª T., DJe de 14/3/2022).
+Reafirmo, enfim, que o indulto natalino é um benefício cuja concessão está restrita aos requisitos estabelecidos no decreto presidencial, sendo vedada a extensão do perdão a situações não previstas pelo Presidente da República.
+II. Crime contra o patrimônio praticado sem violência ou grave ameaça - reparação do dano e hipossuficiência - Decreto n. 12.338/2024
+Atento à realidade dos milhares de sentenciados de nosso país, o decreto presidencial possibilitou que a ausência de condições financeiras para o pagamento da pena de multa não seja empecilho para o benefício de clemência.
+O art. 12, § 2º, do decreto estabeleceu critérios alternativos para presunção da hipossuficiência, dentre eles a representação pela Defensoria Pública ou por advogado dativo (inciso I).
+A mesma atenção foi dada no art. 9º, XV, aos condenados:
+ ..  a pena privativa de liberdade por crime contra o patrimônio, cometido sem violência ou grave ameaça a pessoa que, até 25 de dezembro de 2024, tenham reparado o dano conforme o disposto no art. 16 ou no art. 65, caput, inciso III, alínea "b", do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, excetuada a necessidade de reparação do dano nas hipóteses previstas no art. 12, § 2º, deste Decreto  .. .
+A presunção de incapacidade financeira não afasta as demais condições do Decreto, que devem ser atendidas cumulativamente.
+Por isso, na hipótese de condenação a pena privativa de liberdade por crime contra o patrimônio, cometido sem violência ou grave ameaça, a reparação do dano está atrelada, no mesmo inciso, à presença da manifestação tempestiva de arrependimento, na forma e nos marcos temporais do art. 16 ou do art. 65, caput, III, "b", do Código Penal.
+Nesse sentido:
+EXECUÇÃO PENAL. HABEAS CORPUS. INDULTO. ART. 9º, XV, DO DECRETO N. 12.338/2024. INTERPRETAÇÃO RESTRITIVA. HABEAS CORPUS NÃO CONHECIDO.
+I. Caso em exame
+1. Habeas corpus impetrado em favor de paciente definitivamente condenado por furto de um telefone celular, buscando a concessão de indulto com base no art. 9º, XV, do Decreto Presidencial n. 12.338/2024.
+2. O Tribunal de Justiça do Estado de São Paulo deu provimento ao agravo em execução ministerial, reformando a decisão de primeiro grau que havia concedido o indulto.
+II. Questão em discussão
+3. A questão em discussão consiste em determinar se a interpretação do artigo 9º, XV, do Decreto n. 12.338/2024, que fundamentou o indulto, foi correta, considerando que a recuperação do bem furtado ocorreu por intervenção dos agentes de segurança e não por ato voluntário do paciente.
+III. Razões de decidir
+4. A aplicação de Decreto Presidencial que concede o indulto deve ser orientada, ao menos como regra, por intepretação restritiva - não extensiva -, sob pena de invasão da competência atribuída de modo privativo ao Presidente da República pelo art. 84, XII, da Constituição da República.
+5. A partir de interpretação restritiva do art. 9º, XV, do Decreto Presidencial n. 12.338/2024, tem direito ao indulto quem se arrependeu do furto cometido e, até o recebimento da denúncia, ao menos manifestou arrependimento ou vontade de reparar o dano, mas não o fez tão somente por ser incapaz do ponto de vista econômico para tanto (incapacidade presumida diante do fato de o agente ser representado pela Defensoria Pública).
+6. No caso, não existe direito ao indulto, com base no art. 9º, XV, do referido Decreto, porquanto não existiu nenhum sinal ou notícia de arrependimento ou de vontade de reparar o dano, haja vista que o celular furtado foi recuperado em razão da prisão em flagrante do paciente, que trazia o aparelho em sua mochila, a qual fora revistada por agentes de segurança.
+7. O fato de o apenado ser representado pela Defensoria Pública implica presumir a sua incapacidade econômica para reparar o dano (art. 12, § 2º, do Decreto n. 12.338/2024), mas não afasta a necessidade, exigida pelo art. 9º, XV, de demonstração do arrependimento ou da vontade de reparação do dano.
+IV. Dispositivo e tese
+8. Habeas corpus não conhecido.
+Tese de julgamento: "1. A hipótese de indulto prevista no art. 9º, XV, do Decreto Presidencial n. 12.338/2024, não se aplica quando a recuperação do bem furtado ocorre por intervenção policial e não por ato voluntário do condenado".
+Dispositivos relevantes citados: Decreto Presidencial n. 12.338/2024, art. 9º, XV; art. 12, §2º; Código Penal, arts. 16 e 65, III, "b".
+Jurisprudência relevante citada: STJ, HC n. 840.309/SC, Rel. Min. Daniela Teixeira, Quinta Turma, DJEN de 9/12/2024; STJ, HC n. 815.952/SP, Rel. Min. Daniela Teixeira, Quinta Turma, DJEN de 4/12/2024; STJ, AgRg no HC n. 763.745/SC, Rel. Min. Joel Ilan Paciornik, Quinta Turma, DJe de 14/12/2022; STJ, AgRg no HC n. 759.029/SC, Rel. Min. Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe de 19/10/2022.
+(HC n. 1.008.710/SP, relator Ministro Ribeiro Dantas, 5ª T., DJEN de 14/8/2025, grifei.)
+DIREITO PENAL. EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. INDULTO. DECRETO PRESIDENCIAL N. 12.338/2024. ART. 9º, XV. INTERPRETAÇÃO RESTRITIVA. HIPOSSUFICIÊNCIA. REPRESENTAÇÃO PELA DEFENSORIA PÚBLICA. ART. 12, § 2º. IRRELEVÂNCIA. DEMONSTRAÇÃO DE ARREPENDIMENTO E VONTADE DE REPARAÇÃO DO DANO. AUSÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus, por inexistência de flagrante ilegalidade quanto ao indeferimento do indulto coletivo previsto no art. 9º, XV, do Decreto n. 12.338/2024.
+2. O agravante sustenta que a decisão exigiu requisitos não previstos no Decreto Presidencial n. 12.338/2024, como sinal ou notícia de arrependimento ou manifestação de vontade de reparação, e que a representação pela Defensoria Pública presume a hipossuficiência, afastando a necessidade de reparação do dano pelo apenado.
+3. A decisão monocrática agravada concluiu que o entendimento consolidado nesta Corte Superior orienta-se no sentido de que a interpretação do art. 9º, XV, do Decreto Presidencial n. 12.338/2024 conduz à exigência de demonstração de arrependimento ou vontade de reparação do dano, não afastada pela representação pela Defensoria Pública.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em determinar se a interpretação do art. 9º, XV, do Decreto Presidencial n. 12.338/2024, que fundamentou o indeferimento do indulto, foi correta, considerando a ausência de demonstração de arrependimento ou vontade de reparação do dano por parte do condenado.
+III. RAZÕES DE DECIDIR
+5. A interpretação do Decreto Presidencial n. 12.338/2024 deve ser restritiva, conforme entendimento consolidado, para evitar extrapolação da competência privativa do Presidente da República prevista no art. 84, XII, da Constituição Federal.
+6. O direito ao indulto previsto no art. 9º, XV, do Decreto n. 12.338/2024 exige demonstração de arrependimento ou vontade de reparação do dano, mesmo que o condenado seja representado pela Defensoria Pública, cuja atuação presume incapacidade econômica, mas não afasta tal requisito.
+7. O agravante não apresentou impugnação específica apta a infirmar os fundamentos da decisão monocrática agravada, limitando-se a reiterar teses já apreciadas e não acolhidas.
+IV. DISPOSITIVO
+8. Resultado do Julgamento: Agravo regimental não provido.
+(AgRg no HC n. 1.044.415/SP, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 4/3/2026, DJEN de 10/3/2026.)
+III. O caso dos autos
+Consta dos autos que a paciente cumpre pena de 3 anos, 5 meses e 15 dias de reclusão, em regime inicial semiaberto, pela prática do crime de furto simples.
+A Defensoria Pública formulou pedido de indulto com fundamento no art. 9º, XV, do Decreto n. 12.338/2024 e argumentou que a reeducanda praticou crime patrimonial sem violência ou grave ameaça e que, embora não haja reparado o dano, está dispensada dessa exigência por preencher as hipóteses do art. 12, § 2º, I e V, do mesmo Decreto, em razão de ser representada pela Defensoria Pública e o dia-multa haver sido fixado no mínimo legal.
+O Juízo das Execuções Criminais deferiu o pedido e declarou extinta a punibilidade das penas impostas, por entender preenchidos os requisitos do decreto presidencial (fls. 55-58). O Tribunal de origem deu provimento ao recurso ministerial, cassou a decisão concessiva e determinou o prosseguimento da execução penal, ao fundamento de que "a simples assistência da Defensoria Pública não configura, por si só, presunção de hipossuficiência, sendo necessária a demonstração concreta da impossibilidade de reparação do dano" (fls. 8-13).
+No caso, constatou-se que a paciente não adotou, em momento algum, nenhuma providência que visasse à reparação do dano ou que demonstrasse arrependimento.
+Nas condenações impostas, não houve a aplicação da causa de diminuição de pena prevista no art. 16 (arrependimento posterior) nem da atenuante descrita no art. 65, III, "b", ambas do Código Penal. Não há, portanto, nos autos, nenhum elemento - documental, testemunhal ou mesmo indiciário - que aponte, ainda que minimamente, para uma intenção de reparação manifestada tempestivamente, ônus que compete à defesa evidenciar.
+Registro que a distinção que a agravante tenta traçar em relação ao precedente da Quinta Turma - HC n. 1.008.710/SP, no qual o bem foi recuperado por intervenção policial - não infirma a ratio decidendi que esta Sexta Turma adotou no AgRg no HC n. 1.044.415/SP, acima mencionado: ali, tal qual nestes autos, não havia recuperação por ação policial alguma, e mesmo assim se exigiu a demonstração tempestiva de arrependimento ou vontade de reparação.
+Inexiste, portanto, ilegalidade que justifique a concessão da ordem de habeas corpus.
+IV. Dispositivo
+À vista do exposto, nego provimento ao agravo regimental.
