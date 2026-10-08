@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por IRENE DIAS DA SILVA CAVEZZALE, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado (fl. 90):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. ESTADO RIO DE JANEIRO. ICMS. DECISÃO QUE REJEITOU EXCEÇÃO DE PRÉ-EXECUTIVIDADE QUE TEM POR FUNDAMENTO ALEGAÇÃO DE PRESCRIÇÃO. PRETENSÃO RECURSAL QUE ALEGA A OCORRÊNCIA DE PRESCRIÇÃO INTERCORRENTE. DESPROVIMENTO DO RECURSO.
+1. Ação originária foi ajuizada em 2004. Executado regularmente citado em 2004. Prescrição é regida pelo art. 174 do CTN, com redação dada pela Lei Complementar 118 de 2005.
+2. Demora na tramitação do processo que não pode ser imputada ao Município exequente/agravado.
+3. A prescrição pode ser declarada pelo julgador, desde que seja oportunizado ao exequente se manifestar acerca de tal instituto.
+4. Recente julgado deste Tribunal de Justiça que fixou o entendimento de que é imperiosa a intimação prévia da Fazenda Pública para reconhecimento da prescrição intercorrente, nos termos do incidente de resolução de demandas repetitivas Nº 0034297-33.2020.8.19.0000; 0036088-37.2020.8.19.0000 e 0059055-76.2020.8.19.0000 que tramitaram perante a Seção Cível deste Tribunal de Justiça.
+5. Tese firmada no Tema Repetitivo 566 no seio do Resp. 1340553/RS, fixa o entendimento de que o magistrado deve declarar a suspensão da execução, o que não ocorreu na hipótese.
+6. Questões inerentes ao mecanismo do judiciário. Inexistência de inércia do autor. Precedentes jurisprudenciais.
+Opostos embargos declaratórios, o Tribunal a quo proferiu acórdão, conforme ementa in verbis (fl. 137):
+EMBARGOS DE DECLARAÇÃO OPOSTOS PELA AGRAVANTE CONTRA ACÓRDÃO QUE MANTEVE DECISÃO QUE REJEITOU EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ALEGAÇÃO DE OMISSÃO E ERRO MATERIAL DO JULGADO. ALEGA A EMBARGANTE QUE O ACÓRDÃO INCORREU EM ERRO MATERIAL, UMA VEZ QUE A DATA DE CITAÇÃO É DIVERSA DAQUELA INFORMADA NO ACÓRDÃO; QUE O ACÓRDÃO É OMISSO QUANTO À PRESCRIÇÃO INTERCORRENTE; QUE O ACÓRDÃO É OMISSO QUANTO À APLICAÇÃO DO TEMA 444 DO STJ. NÃO CONFIGURAÇÃO DE VÍCIO A SER SANADO. ACLARATÓRIOS REJEITADOS.
+1. O acórdão consignou de forma clara e compreensível as razões que ensejaram a ratificação da decisão que rejeito a exceção de pré-executividade.
+2. Tese defensiva sustentada pela embargante devidamente apreciada. 3. Entre o pedido de redirecionamento em 18/05/2006 e a data da citação da Embargante 04/04/2012, houve manifestação do juízo a quo em 2007, manifestação da serventia em 2010, manifestação do Estado, quando intimado, em 2011, ocorrendo a citação da atual executada em 2012.
+4. Não há como se reconhecer a prescrição intercorrente por demora da realização dos atos executórios em virtude do mecanismo de processamento da Justiça, aplicando-se, na hipótese, a Súmula 106 do STJ.
+5. Entre o pedido de redirecionamento e a efetiva citação, como já dito, ocorreu a prática de diversos atos processuais, não se podendo imputar ao Estado exequente qualquer inércia hábil a ensejar o reconhecimento do decurso do prazo prescricional previsto no Tema 444.
+6. Não há que se falar em omissão quanto à aplicação do Tema 444, redirecionamento da execução fiscal, pois a hipótese em discussão não importa na aplicação de referido tema.
+Em seu recurso especial, às fls. 152-173, a parte recorrente sustenta a violação dos arts. 489, § 1º, III e IV e 1.022, II, do Código de Processo Civil; arts. 156, V, e 174 do Código Tributário Nacional; e art. 40 da Lei de Execução Fiscal ( Lei nº 6.830/80).
+Quanto à alegada ofensa aos arts. 489 e 1.022 do Código de Processo Civil, a parte recorrente argui a nulidade do acórdão recorrido. Argumenta que o Tribunal de origem, a despeito da oposição de embargos de declaração, permaneceu omisso quanto à: (i) consumação do prazo prescricional, mesmo considerando a oitiva da Fazenda Pública; e (ii) aplicabilidade do Tema 444/STJ ao caso concreto.
+Ademais, no que diz respeito à suscitada violação aos arts. 156, V, e 174 do Código Tributário Nacional, a parte recorrente aduz que se operou a prescrição para o redirecionamento da execução fiscal aos sócios. Argumenta que as diligências promovidas pela Fazenda Pública referiam-se exclusivamente à tentativa de satisfação do crédito contra a empresa executada, sujeita à prescrição intercorrente da LEF (Tema 566/STJ), o que não interrompe o prazo prescricional da pretensão de redirecionamento, regida pelo art. 174 do CTN (Tema 444/STJ). Afirma a inaplicabilidade da Súmula 106/STJ ao caso, defendendo que o hiato de seis anos entre o pedido de redirecionamento e a citação efetiva dos sócios decorreu do abandono deliberado daquela pretensão pelo exequente para buscar bens da pessoa jurídica, caracterizando inércia e culpa exclusivas da Fazenda Pública, e não mora imputável ao mecanismo do Poder Judiciário.
+No mais, quanto à alegada violação ao art. 40 da Lei de Execução Fiscal, a parte recorrente sustenta que:
+72. O Tribunal a quo afastou a configuração da prescrição intercorrente por entender que (i) deveria ter ocorrido a suspensão da execução pelo Juízo de origem, (ii) deveria ter sido oportunizado à Fazenda prazo para manifestação sobre a ocorrência da prescrição e (iii) a demora na realização dos atos executórios se deu por culpa exclusiva do Judiciário.
+73. Em relação ao primeiro fundamento, conforme diretrizes estabelecidas por este E. STJ no julgamento do Tema nº 566, o prazo de 1 (um) ano de suspensão do processo, previsto no art. 40, §§ 1º e 2º da Lei n. 6.830/80 tem início automaticamente na data da ciência da Fazenda Pública a respeito da não localização do devedor ou da inexistência de bens penhoráveis no endereço fornecido. Confira-se:
+(..)
+74. Dessa forma, para fins da configuração da prescrição, a suspensão do processo tem início de forma automática, de modo que a suposta inexistência de declaração dessa suspensão por parte do magistrado não tem o condão de afastar a configuração da prescrição intercorrente.
+75. Sobre o segundo fundamento, a consumação do prazo prescricional também ocorreu mesmo se considerado o prazo a partir da oitiva ou manifestação da Fazenda Pública, ocorrida em 18.5.2006, na medida em que a citação da Recorrente somente ocorreu em 4.4.2012 (passados 5 anos, 10 meses e 13 dias).
+76. Portanto, uma vez que, após a manifestação/oitiva da Fazenda Pública, ainda assim o prazo prescricional de 5 (cinco) anos se consumou, resta como evidente a necessidade de reforma do v. Acórdão recorrido.
+O Tribunal de origem, no entanto, inadmitiu o recurso especial, conforme trecho in verbis (fls. 194-201):
+O recurso não será admitido.
+O detido exame das razões recursais revela que a recorrente ao impugnar o acórdão que manteve a decisão que rejeitou a exceção de pré-executividade, afastando a prescrição intercorrente no caso concreto, pretende, por via transversa, a revisão de matéria de fato, apreciada e julgada com base nas provas produzidas nos autos, que não perfaz questão de direito, mas tão somente reanálise fático-probatória, soberanamente decidida pelas instâncias ordinárias.
+Dessa maneira, pelo que se depreende da leitura do acórdão recorrido, não merece trânsito o recurso especial, face ao óbice do Enunciado nº 7 da Súmula de Jurisprudência do Superior Tribunal de Justiça (A pretensão de simples reexame de prova não enseja recurso especial).
+Além disso, o acórdão recorrido, ao reconhecer que a prescrição intercorrente somente ocorre mediante a comprovação de inércia e desídia do exequente, está em consonância com a jurisprudência do Superior Tribunal de Justiça, conforme se observa a seguir (grifei):
+(..)
+E, na medida em que o julgado atacado está de acordo com o entendimento do Superior Tribunal de Justiça, inadmissível o recurso especial à luz da Súmula nº 83 do STJ (Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida.).
+À vista do exposto, em estrita observância ao art. 1.030, V do Código de Processo Civil, DEIXO DE ADMITIR o recurso especial interposto, nos termos da fundamentação supra.
+Em seu agravo, às fls. 210-223, a parte agravante sustenta, no tocante ao óbice da Súmula 7/STJ aplicado pelo Tribunal de origem, que (fls. 214-215):
+(i) Quanto à violação ao artigo 1.022 do CPC - Nulidade do acórdão por negativa de prestação jurisdicional
+11. A simples delimitação da controvérsia feita no recurso especial revela, de plano, que não há qualquer questão de fato controvertida sendo submetida ao E. STJ.
+(..)
+14. Então, de forma contrária ao que foi sustentado pela r. decisão agravada, não é a pretensão da Agravante que este E. STJ revise os marcos temporais estabelecidos pelo Tribunal a quo para fins de configuração da prescrição, mas somente que reconheça a essencialidade desse elemento para fins de anulação do v. acórdão recorrido, que então deverá analisar novamente à luz de todos os elementos essenciais.
+15. Não há, portanto, meios de se invocar a aplicação da Súmula 7/STJ sobre esses fundamentos, visto que eles não dependem da análise de quaisquer fatos controvertidos, sob nenhum aspecto que se considere.
+(ii) Quanto à violação os artigos 156, inciso V, e 174 do CTN e artigo 40 da LEF - Reconhecimento da prescrição da cobrança do crédito tributário
+(..)
+17. Ao contrário do que entendeu a r. decisão agravada, a análise da violação aos artigos 156, inciso V, e 174 do CTN não demanda o revolvimento de fatos e provas, uma vez que todos os marcos temporais necessários para a resolução da demanda se encontram no v. Acórdão recorrido como premissas fáticas.
+Outrossim, referente ao óbice da Súmula 83/STJ aplicado pelo Tribunal a quo, a parte agravante argumenta que (fls. 218-219 e 221):
+29. Pois bem. No que interessa ao presente momento processual, nos termos da jurisprudência do STJ, a impugnação da Súmula 83/STJ pressupõe a demonstração de distinção ou superação dos precedentes invocados pela decisão de admissibilidade:
+(..)
+30. Note-se que os precedentes invocados pela r. decisão agravada se reportam ao racional de que que o reconhecimento da prescrição intercorrente exige a comprovação da inércia do exequente. À título exemplificativo, confira-se o julgado abaixo, colacionado pela r. decisão agravada:
+(..)
+31. Não se desconhece que, nos termos da jurisprudência do STJ, não se opera a prescrição nas hipóteses em que o Exequente não se manteve inerte, contudo, há elemento distintivo essencial no presente caso que é suficiente para afastar o referido racional: as diligências praticadas na origem estavam relacionadas à pretensão executiva direcionada à empresa originalmente executada, e não à pretensão do redirecionamento da execução fiscal aos sócios da empresa.
+(..)
+42. Dessa forma, o elemento distintivo acima suscitado é suficiente para afastar a suposta não caracterização da inércia da exequente - premissa necessária para a aplicação dos precedentes invocados pela decisão agravada, razão pela qual deve- se afastar a aplicação da Súmula 83/STJ.
+É o relatório.
+Decido.
+O recurso não comporta conhecimento.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto a parte agravante não infirmou especificamente nenhum dos fundamentos utilizados para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se em dois fundamentos distintos: (i) - incidência do enunciado 7 da Súmula do STJ, tendo em vista a impossibilidade de revisão do acervo probatório; e (ii) - aplicabilidade do enunciado 83 da Súmula do STJ, uma vez que o entendimento da Corte de origem está no mesmo sentido da jurisprudência do STJ.
+Entretanto, em sede de agravo em recurso especial a parte recorrente deixou de infirmar especificamente e a contento, ambos os fundamentos da decisão de inadmissibilidade, os quais, à míngua de fundamentação pormenorizada, detalhada e específica, permanecem hígidos, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar os fundamentos do juízo de admissibilidade realizado pelo Tribunal de origem, a parte agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC E 253, P. Ú, I, DO RISTJ. AGRAVO NÃO CONHECIDO.
