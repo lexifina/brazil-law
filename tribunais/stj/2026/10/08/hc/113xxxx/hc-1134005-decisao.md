@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RENAN DE SOUZA FRANCO, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (APC n. 1513819-86.2025.8.26.0378).
+Consta que o paciente foi condenado à pena de 5 anos de reclusão, em regime inicial fechado, e ao pagamento de 500 dias-multa, pelo cometimento do crime previsto no art. 33, caput, da Lei n. 11.343/2006 (fls. 221-230).
+A Defesa interpôs apelação, tendo o Tribunal estadual negado provimento ao recurso (fls. 329-357).
+Neste writ, a parte impetrante sustenta, em suma, que o paciente faz jus ao redutor especial de pena, previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+Aponta que o paciente é tecnicamente primário, que não houve condenação pelo art. 35 da Lei n. 11.343/2006, e que eventual menção a outro processo não pode servir como fundamento para negar o redutor, à luz da presunção de inocência.
+Argumenta, ainda, a necessidade de observância dos Temas Repetitivos 1.154 e 1.241 do Superior Tribunal de Justiça, com avaliação conjunta e fundamentação concreta sobre natureza e quantidade das drogas, vedada a negativa automática da minorante a partir da mera diversidade de substâncias e do fracionamento.
+Ressalta que, reconhecidos os requisitos do art. 33, § 4º, deve ser aplicada a fração máxima de 2/3 (dois terços), com redimensionamento da pena para 1 (um) ano e 8 (oito) meses de reclusão, e adequação da multa. Postula, por conseguinte, a fixação do regime inicial aberto, nos termos do art. 33, § 2º, alínea c, do Código Penal, e a substituição da pena privativa de liberdade por restritivas de direitos, conforme art. 44 do Código Penal.
+Requer, em sede liminar, a suspensão dos efeitos da condenação quanto ao regime de cumprimento, com adoção de medida menos gravosa até o julgamento definitivo.
+É o relatório.
+Decido.
+De início, verifico que o acórdão impugnado é recente e o prazo para a interposição de recurso especial ainda se encontra em curso. Dessa forma, a presente impetração foi protocolada antes do termo final para a interposição do recurso pertinente.
+Configura-se, assim, prematura a utilização do habeas corpus como sucedâneo do recurso adequado, não sendo viável, na presente conjuntura, descartar a possibilidade de a questão jurídica ser submetida a esta Corte Superior através da via processual apropriada, isto é, o recurso especial. Consequentemente, não se afigura apropriado ao Superior Tribunal de Justiça proceder, de forma antecipada, à análise do mérito da controvérsia apresentada.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. PRAZO PARA A INTERPOSIÇÃO DO RECURSO CABÍVEL NA CAUSA PRINCIPAL QUE AINDA NÃO FLUIU. INADEQUAÇÃO DA PRESENTE VIA IMPUGNATIVA. PRECEDENTES DA SEXTA TURMA DO SUPERIOR TRIBUNAL DE JUSTIÇA. DESCABIMENTO DE CONCESSÃO DE HABEAS CORPUS EX OFFICIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. De acordo com o entendimento desta Corte Superior de Justiça, não compete ao Superior Tribunal de Justiça examinar, ante tempus, a controvérsia deduzida em habeas corpus impetrado antes do termo para a interposição da via de impugnação própria na causa principal, salvo se trate de pretensão relativa à tutela direta e imediata da liberdade ambulatorial do Paciente. Precedentes.
+2. Na hipótese, não se verifica manifesta ilegalidade que imponha a concessão de habeas corpus, de ofício, porque na via eleita - inadequada e de rito célere -, ao menos primo ictu oculi não se mostra adequada para concluir-se se foi justa ou não a reprimenda aplicada ao Paciente, não sendo ainda o caso de mitigação da Súmula n. 231/STJ.
+3. Agravo regimental desprovido. (AgRg no HC n. 874.553/PE, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 11/3/2024, DJe de 15/3/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. MANDAMUS SUBSTITUTIVO DE RECURSO ESPECIAL. DESVIRTUAMENTO DO HABEAS CORPUS. LAPSO PARA INTERPOSIÇÃO DO RESPECTIVO RECURSO ESPECIAL AINDA EM CURSO. IMPOSSIBILIDADE DE CONHECIMENTO DO WRIT. POSSIBILIDADE DE MANEJO DA VIA ADEQUADA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na hipótese, verifica-se a possibilidade do manejo da via adequada para a obtenção do intento defensivo ou, ao menos, de uma resposta jurisdicional do Superior Tribunal de Justiça, de modo que qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado pela impetrante seria precoce, além de implicar a subversão da essência do remédio heroico e o alargamento inconstitucional de sua competência para julgamento de habeas corpus.
+2. Agravo regimental não provido. (AgRg no HC 733.563/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 10/05/2022, DJe de 16/05/2022).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
