@@ -1,0 +1,93 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de GILBERTO DO PRADO PARREIRA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+Consta dos autos que o paciente foi condenado às penas de 11 anos, 1 mês e 28 dias como incurso nas sanções dos arts. 33 e 35 da Lei n. 11.343/2006, bem como à pena de 2 anos e 3 meses, substituída por duas penas restritivas de direitos, pela prática de contrabando.
+O impetrante sustenta que o paciente cumpre os requisitos do Decreto n. 12.338/2024 para o indulto, pois teria superado 2/3 da pena do crime impeditivo antes da nova prisão.
+Alega que se encontra atendida a fração de 1/5 exigida aos reincidentes, considerando a custódia entre 18/5/2024 e 23/11/2024.
+Aduz que, no período de 12 meses anterior a 25/12/2024, não houve faltas disciplinares, preenchendo o requisito subjetivo.
+Assevera que a substituição da reprimenda de 2 anos e 3 meses por penas restritivas de direitos não impede o indulto com base no art. 9º, VII, do Decreto n. 12.338/2024.
+Afirma que o teto de 12 anos do art. 9º, II, do Decreto n. 12.338/2024 não se aplica ao pedido, que se fundamenta no art. 9º, VII.
+Defende que o não pagamento da prestação pecuniária não constitui óbice ao deferimento do indulto.
+Sustenta que o período de prisão cautelar deve ser considerado como pena efetivamente cumprida para benefícios, mesmo quando a pena foi substituída por restritivas de direitos.
+Pondera que é ilegal considerar a custódia cautelar de 2024 exclusivamente na execução anterior de tráfico, afastando seu cômputo para o requisito objetivo do indulto relativo ao delito posterior.
+Informa que a ausência de reconversão das penas restritivas não inviabiliza o reconhecimento do requisito temporal do indulto na data do decreto.
+Requer, no mérito, a concessão da ordem para declarar extinta a pena do paciente.
+Informações foram prestadas (fls. 35-38 e 39-53).
+Parecer do Ministério Público Federal pela denegação da ordem (fls. 55-60):
+Habeas corpus preventivo. Execução penal. Indulto natalino (Decreto nº 12.338/2024). Pena restritiva de direitos decorrente de crime cometido durante livramento condicional. Pretensão de cômputo de custódia cautelar como fração de pena cumprida. Impossibilidade. Tema Repetitivo 1.367/STJ: início da execução apenas após término do período de prova, vedado cumprimento simultâneo de execuções não unificadas e formação de crédito penal. Detração do art. 42 do CP restrita à pena privativa de liberdade e medida de segurança. Questão já decidida em agravo em execução, sem ilegalidade flagrante. Reiteração de argumentos.
+Parecer pelo não conhecimento ou, subsidiariamente, pela denegação da ordem.
+É o relatório.
+O Superior Tribunal de Justiça entende ser inviável a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração.
+Sobre a questão, confiram-se os seguintes julgados desta Corte Superior:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. ABSOLVIÇÃO IMPETRAÇÃO DE HABEAS CORPUS NA FLUÊNCIA DO PRAZO PARA A INTERPOSIÇÃO DE RECURSOS NA ORIGEM. IMPOSSIBILIDADE.
+1. "O writ foi manejado antes do dies ad quem para a interposição da via de impugnação própria na causa principal, o recurso especial. Dessa forma, a impetração consubstancia inadequada substituição do recurso cabível ao Superior Tribunal de Justiça, não se podendo excluir a possibilidade de a matéria ser julgada por esta Corte na via de impugnação própria, a ser eventualmente interposta na causa principal" (AgRg no HC n. 895.954/DF, relator Ministro Otávio de Almeida Toledo - Desembargador Convocado do TJSP, Sexta Turma, julgado em 12/8/2024, DJe de 20/8/2024.)
+2. Agravo regimental desprovido.
+(AgRg no HC n. 939.599/SE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/10/2024, DJe de 28/10/2024, grifei.)
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto por Pablo da Silva contra decisão monocrática que não conheceu de habeas corpus, com base no entendimento de que o habeas corpus foi utilizado em substituição a revisão criminal. O agravante foi condenado a 1 ano de reclusão, com substituição da pena por restritiva de direitos, pela prática de furto (art. 155, caput, CP). A defesa pleiteou a conversão da pena restritiva de direitos em multa, alegando discriminação com base na condição financeira do paciente.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é cabível o conhecimento do habeas corpus utilizado em substituição à revisão criminal; e (ii) estabelecer se a escolha da pena restritiva de direitos, em vez de multa, configura discriminação por condição financeira.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não é admitido como substituto de revisão criminal, conforme a jurisprudência consolidada do STJ e do STF, ressalvados casos de flagrante ilegalidade.
+4. Não houve demonstração de ilegalidade evidente na escolha da pena restritiva de direitos, sendo esta compatível com a natureza do crime e as condições pessoais do condenado.
+IV. DISPOSITIVO E TESE
+5. Agravo regimental desprovido.
+Tese de julgamento:
+1. O habeas corpus não pode ser utilizado como substituto de revisão criminal, salvo em casos de flagrante ilegalidade.
+2. A escolha de pena restritiva de direitos, em substituição à privativa de liberdade, não configura discriminação por condição financeira, desde que adequadamente fundamentada.
+Dispositivos relevantes citados: Código Penal, art. 155; STJ, AgRg no HC 861.867/SC; STF, HC 921.445/MS.
+(AgRg no HC n. 943.522/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/10/2024, DJe de 4/11/2024, grifei.)
+Portanto, não se pode conhecer do presente habeas corpus.
+Ademais, o exame dos autos não indica a existência de ilegalidade flagrante, apta a autorizar a concessão da ordem de ofício.
+O Tribunal de origem conheceu do agravo em execução interposto pelo paciente e deu-lhe parcial provimento, consignando, para tanto, que (fls. 42-51):
+A defesa requereu a concessão de indulto natalino, com fundamento no artigo 9º, inciso VII, do Decreto nº 12.338/2024, sustentando o preenchimento do requisito objetivo de cumprimento de, ao menos, 1/5 (um quinto) da pena, fração aplicável aos reincidentes, o que foi indeferido sob o fundamento exclusivo de que o reeducando cumpriu 0% (zero por cento) da pena de prestação pecuniária até o marco temporal fixado pelo decreto presidencial (25/12/2024).
+Conquanto o fundamento invocado pela decisão agravada, consistente no não pagamento da prestação pecuniária, não se revele, por si só, idôneo para o indeferimento do indulto, remanesce ausente, no caso concreto, o preenchimento do requisito objetivo do artigo 9º, inciso VII, do Decreto nº 12.338/2024, como passo a demonstrar.
+O artigo 7º, parágrafo único, do Decreto nº 12.338/2024 estabelece que, havendo concurso com crime impeditivo, não será declarado o indulto ou a comutação relativos ao crime não impeditivo enquanto a pessoa condenada não cumprir 2/3 (dois terços) da pena correspondente ao crime impeditivo.
+Quanto a esse aspecto específico, verifica-se, conforme se extrai da linha do tempo constante da aba de informações adicionais do processo de execução no sistema SEEU, que o reeducando cumprira, até dezembro de 2024, mais de 2/3 (dois terços) da pena relativa aos crimes impeditivos (tráfico de drogas e a associação para o tráfico), circunstância que, nesse particular, não é objeto de controvérsia nos autos.
+O preenchimento desse requisito, todavia, é condição necessária, mas não suficiente, para a concessão do indulto quanto à pena substituída relativa ao crime de contrabando, remanescendo indispensável o cumprimento cumulativo do requisito objetivo específico do artigo 9º, inciso VII, do mesmo decreto, o que, como a seguir se demonstra, não ocorreu.
+Sustenta a defesa que o coeficiente de 1/5 exigido aos reincidentes estaria satisfeito a partir do cômputo indicado nos eventos 374.5 e 374.10 dos autos de execução, nos quais consta o cumprimento de mandado de prisão em 18/05/2024 e a expedição de alvará de soltura em 23/11/2024.
+Sem razão, contudo, a defesa nesse ponto.
+O período de custódia compreendido entre essas datas não pode ser utilizado para o abatimento da pena restritiva de direitos substituída relativa ao crime de contrabando, servindo, isto sim, exclusivamente para o cômputo da pena privativa de liberdade remanescente relativa à condenação originária por tráfico de drogas e associação para o tráfico.
+Isso porque, na ocasião da prisão, em 18/05/2024, o reeducando encontrava-se em gozo do livramento condicional concedido em 14/03/2022 (evento 241), o qual veio a ser suspenso exatamente em decorrência dessa prisão, motivada pela prática do fato novo, ou seja, o próprio crime de contrabando cuja pena, substituída por restritivas de direitos, é objeto do pedido de indulto ora examinado.
+Embora a suspensão do livramento condicional dependa de decisão judicial específica e somente produza efeitos a partir dela, o artigo 88 do Código Penal determina que, revogado o livramento, não se desconta na pena o tempo em que esteve solto o condenado, ressalvada a hipótese de revogação decorrente de condenação por crime anterior ao benefício:
+..
+Interpreta-se tal dispositivo legal considerando o cômputo, na pena originária, apenas do período em que o condenado esteve efetivamente preso, e não daquele em que esteve solto.
+No caso, a partir da prisão de 18/05/2024, o reeducando deixou materialmente de estar solto, de modo que esse intervalo não pode ser desconsiderado, tampouco pode ser aproveitado, a um só tempo, para reduzir a pena privativa de liberdade remanescente da execução originária e para reduzir o período da pena restritiva de direitos substituída relativa ao crime posterior, sob pena de dupla utilização do mesmo lapso temporal em benefício do reeducando.
+Embora a prisão tenha sido formalmente decretada nos autos relativos ao fato novo (contrabando), admite-se o aproveitamento da custódia cautelar em execução diversa daquela em que foi decretada, desde que o crime cuja pena se pretenda beneficiar seja anterior à prisão.
+O que a jurisprudência do Superior Tribunal de Justiça veda é a formação de verdadeiro crédito penal em favor do condenado, mediante o aproveitamento da custódia para crime cometido posteriormente ao encarceramento.
+..
+No caso dos autos, o delito correspondente à pena originária (tráfico de drogas e associação para o tráfico) é necessariamente anterior à prisão preventiva decretada pelo fato novo (contrabando), de modo que inexiste o risco de formação de crédito penal vedado pela jurisprudência.
+..
+Referido precedente qualificado tem por escopo, precisamente, evitar a contagem concomitante do mesmo período em duas execuções não unificadas, enquanto o livramento condicional ainda produzir efeitos, reforçando que o período de custódia decorrente da prisão pelo fato novo deve ser processado em relação à execução da pena a que o livramento se vinculava, e não em benefício da pena relativa ao crime que motivou a própria prisão.
+Dessa forma, o período de custódia compreendido entre 18/05/2024 e 23/11/2024 (eventos 374.5 e 374.10) há de ser computado na pena privativa de liberdade originária, relativa à condenação por tráfico de drogas e associação para o tráfico, e não na pena restritiva de direitos substituída relativa ao crime de contrabando, cujo indulto ora se examina.
+Ainda que superado o óbice anterior, o período de custódia também não poderia ser aproveitado para reduzir a prestação de serviços à comunidade, por ausência de amparo legal e jurisprudencial para tanto.
+..
+Além disso, o artigo 46, § 3º, do Código Penal, ao estabelecer que a prestação de serviços à comunidade será cumprida à razão de uma hora de tarefa por dia de condenação, define apenas a forma de execução da pena alternativa, e não um critério geral de detração apto a autorizar a conversão de dias de custódia cautelar em horas de serviço comunitário. Portanto, não é possível converter os dias de prisão em horas de prestação de serviços, tal como pretendido pela defesa.
+Afastada a possibilidade de cômputo do período de custódia de 18/05/2024 a 23/11/2024 para fins de abatimento da pena restritiva de direitos, não subsiste base para reconhecer o cumprimento do coeficiente objetivo de 1/5 (um quinto) exigido aos reincidentes pelo artigo 9º, inciso VII, do Decreto nº 12.338/2024.
+Quanto ao cumprimento das penas restritivas de direitos propriamente ditas, colhe-se dos autos que, além do não pagamento de qualquer parcela da prestação pecuniária, a prestação de serviços à comunidade sequer foi iniciada, conforme resposta do ofício encaminhado ao CREAS, órgão fixado pelo Juízo da execução para o cumprimento da referida sanção (evento 455 - SEEU).
+Quanto ao pedido subsidiário, referente às consequências do eventual descumprimento das penas restritivas de direitos, observo que a decisão agravada não determinou, concretamente, a reconversão da pena nem a regressão de regime, e sim advertiu o reeducando quanto às consequências do descumprimento injustificado e a determinar a apuração do efetivo cumprimento das condições impostas.
+Não tendo havido, até o momento, reconversão ou regressão efetivas, a irresignação recursal, nesse ponto específico, revela-se prematura.
+O descumprimento injustificado da pena restritiva de direitos poderá, de fato, ensejar sua reconversão em privativa de liberdade, observados o contraditório, a prévia oportunidade de justificação e o abatimento do período já cumprido (art. 44, § 4º, do Código Penal; art. 181 da Lei de Execução Penal). Todavia, o mesmo fato não autoriza, cumulativa e automaticamente, a regressão do regime originariamente fixado.
+Eventual alteração de regime somente poderá resultar de fundamento autônomo, notadamente da soma ou unificação das penas, nos termos dos artigos 111 e 118, inciso II, da Lei de Execução Penal.
+Assim, quanto a esse ponto específico, o agravo comporta parcial provimento, tão somente para determinar a retificação da redação da decisão agravada nos termos acima expostos, sem prejuízo de que a reconversão e a eventual regressão de regime, se cabíveis, sejam apuradas e decididas autonomamente no curso regular da execução, observado o devido processo legal.
+A defesa pretende que o lapso de 18/5/2024 a 23/11/2024, correspondente à prisão por contrabando, seja contabilizado para o requisito temporal do art. 9º, VII, do Decreto n. 12.338/2024, embora essa custódia tenha ocorrido durante o período de prova do livramento condicional vinculado à execução anterior por tráfico de drogas e associação para o tráfico.
+No caso, o Tribunal de origem manteve o indeferimento do indulto por não considerar preenchido o requisito temporal previsto no art. 9º, VII, do Decreto n. 12.338/2024.
+Com efeito, o entendimento vinculante desta Corte Superior de Justiça, fixado no Tema repetitivo n. 1.367, estabelece que a execução da pena por crime praticado durante o livramento condicional apenas se inicia no dia seguinte ao término do período de prova, porque é vedado cumprir, ao mesmo tempo, execuções não unificadas.
+Veja-se:
+RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. TEMA REPETITIVO 1.367. EXECUÇÃO PENAL. PRISÃO POR DELITO PRATICADO DURANTE O LIVRAMENTO CONDICIONAL DE EXECUÇÃO ANTERIOR. BENEFÍCIO NÃO REVOGADO. IMPOSSIBILIDADE DE CUMPRIMENTO SIMULTÂNEO. TERMO INICIAL DA NOVA EXECUÇÃO. DEFINIÇÃO. DATA DO DIA SUBSEQUENTE AO FIM DO PERÍODO DE PROVA. PRECEDENTES DESTA CORTE.
+1. A controvérsia tratada no presente recurso refere-se à definição do termo inicial da nova execução penal, nos casos de prisão por crime cometido durante o período de prova do livramento condicional que ainda não foi revogado. A questão é se esse marco inicial deve ser a data da prisão ou o dia seguinte ao término do benefício.
+2. O Tribunal de origem entendeu ser possível contabilizar simultaneamente o período entre a prisão cautelar e o término do livramento condicional como período cumprido de pena privativa de liberdade, para fins de detração.
+3. Tal compreensão destoa da orientação jurisprudencial do Superior Tribunal de Justiça, que estabelece que, em casos de prisão por crime cometido durante o período de prova do livramento condicional, que se encerrou sem suspensão ou revogação, a contagem da nova execução penal deve ser o dia seguinte ao término do período de prova. Isso evita o bis in idem, que ocorreria com o cumprimento simultâneo de penas em execuções distintas e não unificadas.
+4. Recurso especial provido. Fixada a seguinte tese: o cumprimento de pena relativa a delito praticado no curso de livramento condicional terá como seu termo inicial o dia subsequente ao fim do período de prova, dada a impossibilidade de cumprimento simultâneo de duas penas não unificadas.
+(REsp n. 2.201.422/RJ, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 7/5/2026, DJEN de 12/5/2026.)
+Desse modo, o período de prisão cautelar relativo ao novo delito, ocorrido durante o período de prova do livramento condicional, não pode ser computado para o implemento do requisito temporal do indulto referente à condenação superveniente, sob pena de admitir o cumprimento simultâneo de penas não unificadas.
+Ademais, conforme consignado pelo Tribunal de origem, até a data de referência do decreto não havia sido iniciado o cumprimento das penas restritivas de direitos.
+Nesse contexto, ausente o cumprimento da fração de 1/5 exigida pelo art. 9º, VII, do Decreto n. 12.338/2024, não se verifica constrangimento ilegal.
+A propósito, destaca-se que esta Corte Superior de Justiça tem decidido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INDULTO. DECRETO PRESIDENCIAL N. 12.338/2024. PENAS RESTRITIVAS DE DIREITO. REQUISITO OBJETIVO. ADIMPLEMENTO DE 1/6 DE CADA PENA RESTRITIVA IMPOSTA. PRECEDENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte Superior sedimentou-se no sentido de que, ao transformar a pena de privativa de liberdade em várias penas alternativas, é necessário, para concessão de indulto, o cumprimento de determinada fração de cada uma das penas. Precedente.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 1.001.159/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/6/2025, DJEN de 30/6/2025, grifei.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
