@@ -1,0 +1,27 @@
+DECISÃO:
+Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+O acórdão recorrido  ficou assim ementado:
+
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA COM PEDIDO DE INDENIZAÇÃO E RESSARCIMENTO DE CONTRIBUIÇÃO PREVIDENCIÁRIA. ATRASO NA CONCESSÃO DE APOSENTADORIA E ERRO GRAVE PRATICADO EM RAZÃO DE EXONERAÇÃO ABUSIVA BEM COMO RECOLHIMENTO INDEVIDO DE CONTRIBUIÇÃO PREVIDENCIÁRIA. RESPONSABILIDADE OBJETIVA DO ESTADO. DEVER DE INDENIZAR PELO PERÍODO TRABALHADO PELO SERVIDOR QUANDO JÁ TINHA O DIREITO DE ESTAR APOSENTADO. MANUTENÇÃO DA SENTENÇA RECORRIDA, INCLUSIVE NO QUE SE REFERE AOS ÔNUS SUCUMBENCIAIS DO APELANTE. RECURSO CONHECIDO E IMPROVIDO. 1- No caso vertente, tudo começou por grave erro cometido pelo Estado que, alegando haver acúmulo ilegal de cargos por parte da servidora/recorrida (ano de 1990), a exonerou sem qualquer processo administrativo que lhe garantisse a ampla defesa e contraditório. 2- Mesmo assim, constatou-se no caderno processual, que o ato de exoneração não foi devidamente formalizado, pois a Administração não deu cumprimento ao ato e a recorrida continuou trabalhando por vários anos, até mesmo depois de ter preenchido os requisitos legais para aposentação (ano de 2005); o que demonstra uma série de falhas prejudiciais praticadas pelo apelante. 3 -Também, pela leitura do próprio procedimento administrativo (processo nº848/2009) instaurado por iniciativa da apelada (maio de 2009), foi proferida decisão favorável à nulidade do ato de exoneração e, consequentemente, reconheceu o direito de aposentadoria da requerente (Diário Oficial do Estado, publicado em 19/09/2011), o que fortalece o entendimento da ilegalidade praticada e prejuízos gerados contra a servidora, já que esta permaneceu trabalhando por alguns anos, mesmo tendo direito à aposentar-se. 4- Diante dos fatos e provas, observa-se que a apelada permaneceu trabalhando por volta de 06 (seis) anos – março de 2005 a setembro de 2011 – quando, por direito, já deveria ter sido aposentada pelo Estado, mas, por erro grave, foi forçada a trabalhar. 5 - É de se considerar ainda, que a requerente já tinha idade relativamente avançada para permanecer em sala de aula, e certamente, não possuía mais a mesma disposição física de antigamente. 6 - Em razão dessas considerações, não se pode deixar de reconhecer a Documento recebido eletronicamente da origem responsabilidade civil do Estado pelo dano moral causado à recorrida, bem como o direito ao ressarcimento das contribuições previdenciárias descontadas pelo Estado indevidamente pelo poder público. 7 - No que se refere ao argumento do apelante de que o Estado não deve pagar custas processuais, sabe-se que direito brasileiro adota o princípio da sucumbência, segundo o qual os custos de processo são suportados por aquele que perde a demanda, e no caso em apreço, o Estado do Piauí sofreu condenação. 8 - CONHECIMENTO E IMPROVIMENTO DA APELAÇÃO, mantendo-se a sentença vergastada em todos os termos e fundamentos. 9 - A Procuradoria-Geral de Justiça deixou de intervir face a ausência de interesse público a justificar sua intervenção
+
+No recurso extraordinário sustenta-se violação do(s) art.(s) 37, § 6º, da Constituição Federal.
+Decido.
+Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula 279/STF. Sobre o tema:
+
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. OFENSA CONSTITUCIONAL REFLEXA. REEXAME DE FATOS. SÚMULA 279/STF
+1. (...)
+4. A argumentação do recurso extraordinário traz versão dos fatos diversa da exposta no acórdão, de modo que seu acolhimento passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta Corte (Para simples reexame de prova não cabe recurso extraordinário). 5. Agravo Interno a que se nega provimento. (RE 1.237.969-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 12/02/2020).
+
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. MANUTENÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida. 2. O recurso extraordinário esbarra no óbice previsto na Súmula 279 do STF, por demandar o reexame de fatos e provas.3. Agravo regimental desprovido. (ARE 1.165.382 – AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 03/03/2020).
+
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA. O recurso extraordinário não é meio próprio ao revolvimento da prova. (RE 1066713-AgR, Primeira Turma, Rel. Min. Marco Aurélio, DJe 20/02/2020).
+
+Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 8 de outubro de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
