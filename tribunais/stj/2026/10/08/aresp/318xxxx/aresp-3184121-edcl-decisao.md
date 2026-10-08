@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JOSÉ CELSO GONTIJO ENGENHARIA S.A. contra decisão singular de minha lavra na qual se conheceu do agravo e se negou seguimento ao recurso especial, por incidência das Súmulas 5, 7 e 83 do Superior Tribunal de Justiça, com majoração de honorários (fls. 1.612-1.618).
+Nas razões do seu recurso, a parte embargante sustenta omissão e contradição sobre a aplicação do art. 360, I, do Código Civil, afirma tese jurídica sobre novação e prazo de entrega, e a necessidade de afastamento da Súmula 5 do STJ por ausência de interpretação contratual. Aduz a não incidência do Tema 996 do STJ.
+Alega omissão e obscuridade sobre o art. 374, I, do Código de Processo Civil e o art. 393 do Código Civil, por tratar a pandemia como fato notório dispensado de prova, e aponta o uso genérico da Súmula 83 do STJ sem definição da tese aplicável.
+Assinala erro material e obscuridade na majoração dos honorários, ao registrar que o acórdão de origem fixou 12% e a decisão estabeleceu majoração "em 10%" sobre a quantia já arbitrada, o que geraria dúvida sobre base e acréscimo.
+Decorreu o prazo sem apresentação de impugnação (fl. 1.632).
+Assim delimitada a questão, passo a decidir.
+Os presentes embargos não merecem prosperar.
+Conforme consignado na decisão embargada, o ponto sobre o art. 360, I, do CC foi resolvido com a incidência da Súmula 5 do STJ, porque a alteração do entendimento do acórdão proferido pelo Tribunal de origem, que privilegiou o prazo mais favorável ao consumidor, depende de interpretação de cláusulas de instrumentos distintos. A saber:
+O Tribunal de origem, todavia, afirmou que, havendo prazos distintos em instrumentos diversos, deve prevalecer o mais favorável ao consumidor, sob a égide do art. 47 do CDC. Nesse sentido, confira-se o seguinte trecho do acórdão recorrido:
+O termo de reserva foi assinado pela autora e pela JC Gontijo Engenharia S. A. em 07/04/21 e estabeleceu a entrega do imóvel para 30/04/22 (id 68559478).
+Posteriormente, o contrato celebrado entre as litigantes e a Caixa Econômica Federal estabeleceu que o empreendimento seria concluído e entregue até o dia 24/05/23 (id 68559477).
+Foram previstos prazos diferentes para a conclusão da obra e entrega do empreendimento. Em razão desse cenário, deve prevalecer o mais favorável ao consumidor nos termos do CDC 47.
+..
+Assim, considerando o prazo contratualmente estabelecido, acrescido da tolerância de 180 dias corridos (id 68559478 - item 21), o imóvel deveria ter sido disponibilizado à adquirente até o dia 30/10/22.
+Com efeito, a mora teve início em 30/10/22 e não em 25/05/23.
+Posto isso, o apelo da autora para reformar aprovejo sentença e fixar como termo inicial da mora, tanto dos lucros cessantes quanto dos juros de obra, a data de 30/10/22 .. (fls. 965-967).
+Alterar a conclusão a que chegou o Tribunal de origem, no que se refere a prazos contratualmente previstos em instrumentos diferentes e à interpretação favorável ao consumidor, demandaria, necessariamente, o reexame de cláusulas contratuais, situação vedada pelo óbice da Súmula 5/STJ. A saber: .. (fls. 1.614-1.615).
+Como se vê, a decisão embargada foi clara ao afirmar que alterar a conclusão a que chegou o Tribunal de origem, no que se refere a prazos contratualmente previstos em instrumentos diferentes e à interpretação favorável ao consumidor, demandaria, necessariamente, o reexame de cláusulas contratuais, situação vedada pelo óbice da Súmula 5/STJ. Nesse aspecto, não se configura a omissão apontada.
+Cumpre reforçar que "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão" (EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 15/6/2016, DJe 3/8/2016).
+No ponto relativo ao art. 393 do CC e ao art. 374, I, do CPC, a decisão foi explícita ao aplicar a Súmula 7 do STJ, por demandar reexame de fatos, demonstração de nexo causal específico e leitura de cláusulas para verificar força maior, além de afirmar consonância com orientação do STJ.
+Foram citados julgados da Quarta Turma e da Terceira Turma que tratam da necessidade de prova cabal e da inviabilidade de revisão específica de cláusulas e premissas fáticas em sede de especial, sendo forçoso concluir que não houve a aplicação genérica da Súmula 83 do STJ, como alegado pelo embargante.
+Cumpre reforçar que "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão" (EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 15/6/2016, DJe 3/8/2016).
+Quanto ao apontado erro material e obscuridade na majoração dos honorários, a decisão adotou fórmula prevista no art. 85, § 11, do Código de Processo Civil, ao "majorar em 10% (..) a quantia já arbitrada a título de honorários (..)", com observância dos limites dos §§ 2º e 3º e da justiça gratuita, tudo ao final do decisório, sem contradição entre a fundamentação e o dispositivo. Logo, não se verifica a lacuna decisória suscitada.
+Ademais, os embargos de declaração não se prestam para rediscutir questões já devidamente tratadas, não havendo "(..) que se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação" (EDcl no AgRg nos EREsp 1.213.226/SC, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 24/10/2016, DJe 22/11/2016).
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
