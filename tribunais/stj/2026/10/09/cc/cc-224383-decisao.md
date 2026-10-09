@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo JUÍZO DE DIREITO DA 1ª VARA CRIMINAL DE PETROLINA/PE em face do JUÍZO DE DIREITO DA 5ª VARA CRIMINAL DE FORTALEZA/CE, no âmbito do Processo n. 1300057-36.2021.8.06.0296.
+Colhe-se dos autos que o ora interessado, PATRICK RAMON COSTA AZEVEDO, teria utilizado, sem autorização, os dados do cartão de crédito pertencente a Eliane Maria de Medeiros Vasconcelos para adquirir, por meio da internet, duas passagens de ônibus interestadual, partindo de Fortaleza/CE com destino João Pessoa/PB.
+O Juízo de Fortaleza/CE, ora suscitado, declinou de sua competência em favor do Juízo de Petrolina/PE sob o fundamento de que a vítima reside naquela Comarca e a hipótese estaria enquadrada naquelas previstas no art. 70, § 4º, do Código de Processo Penal (e-STJ fls. 224/225).
+O Juízo suscitante, por sua vez, consignou que o fato apurado não envolve "depósito, cheque ou transferência de valores, mas utilização indevida de dados de cartão de crédito para a aquisição fraudulenta de serviços de transporte" (e-STJ fl. 262), não estando previsto nas hipóteses elencadas no § 4º do art. 70 do Código de Processo Penal.
+Instado a se manifestar acerca da controvérsia, o Ministério Público Federal opinou pela competência do Juízo suscitado (e-STJ fls. 277/282).
+É o relatório.
+Decido.
+Cuida-se de incidente instaurado entre magistrados vinculados a tribunais diversos, razão pela qual, nos termos do art. 105, I, d, da Constituição Federal, conheço do conflito.
+Com razão, o Juízo suscitante.
+Transcrevo, inicialmente, a regra de competência prevista no art. 70, caput e § 4º, do Código de Processo Penal:
+Art. 70. A competência será, de regra, determinada pelo lugar em que se consumar a infração, ou, no caso de tentativa, pelo lugar em que for praticado o último ato de execução.
+ ..
+§ 4º Nos crimes previstos no art. 171 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), quando praticados mediante depósito, mediante emissão de cheques sem suficiente provisão de fundos em poder do sacado ou com o pagamento frustrado ou mediante transferência de valores, a competência será definida pelo local do domicílio da vítima, e, em caso de pluralidade de vítimas, a competência firmar-se-á pela prevenção. (Incluído pela Lei nº 14.155, de 2021) (Grifo nosso.)
+No caso, o contexto fático revela que a hipótese não se subsome àquelas descritas no § 4º do art. 70 do Código de Processo Penal, na medida em que a compra de passagens com cartão de crédito da vítima, que teria sido clonado, não envolve a efetivação de depósitos ou transferências bancárias, tampouco a entrega de cheques frustrados por falta de provisão de fundos.
+Deve ser aplicada à espécie, pois, a regra contida no caput do dispositivo referido, ou seja, a competência será do lugar em que obtida a vantagem indevida em detrimento da vítima.
+Ilustrativamente:
+CONFLITO NEGATIVO DE COMPETÊNCIA. ESTELIONATO. MODUS OPERANDI NÃO CONTEMPLADO PELA LEI N. 14.155/2021. NÃO CONFIGURAÇÃO DAS HIPÓTESES DESCRITAS NO § 4º DO ART. 70 DO CÓDIGO DE PROCESSO PENAL - CPP. INCIDÊNCIA REGRA GERAL PREVISTA NO ART. 70, CAPUT, DO CPP. COMPETÊNCIA DO LOCAL NO QUAL SE AUFERIU O PROVEITO DO CRIME.
+ ..
+4. O dissenso jurisprudencial retratado nos precedentes colacionados pelos Juízos envolvidos neste conflito deixou de existir com o advento da Lei 14.155/2021, que acrescentou o § 4º do art. 70 do Código de Processo Penal - CPP com o seguinte teor: "nos crimes previstos no art. 171 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), quando praticados mediante depósito, mediante emissão de cheques sem suficiente provisão de fundos em poder do sacado ou com o pagamento frustrado ou mediante transferência de valores, a competência será definida pelo local do domicílio da vítima, e, em caso de pluralidade de vítimas, a competência firmar-se-á pela prevenção". Todavia, a inovação legislativa disciplinou a competência do delito de estelionato em situações específicas descritas pelo legislador, as quais não ocorrem no caso concreto, porquanto os autos não noticiam a ocorrência transferências bancárias ou depósitos efetuados pela empresa vítima e tampouco de cheque emitido sem suficiente provisão de fundos.
+5. No contexto dos autos, não identificadas as hipóteses descritas no § 4º do art. 70 do CPP deve incidir o teor do caput do mesmo dispositivo legal, segundo o qual "a competência será, de regra, determinada pelo lugar em que se consumar a infração, ou, no caso de tentativa, pelo lugar em que for praticado o último ato de execução". Sobre o tema a Terceira Seção desta Corte Superior, recentemente, pronunciou-se no sentido de que nas situações não contempladas pela novatio legis, aplica-se o entendimento pela competência do Juízo do local do eventual prejuízo. Precedente: CC 182.977/PR, Rel. Ministra LAURITA VAZ, TERCEIRA SEÇÃO, DJe 14/3/2022.
+6. Destarte, na espécie, a competência deve ser fixada no local onde o agente delituoso obteve, mediante fraude, em benefício próprio e de terceiros, os serviços custeados pela vítima.
+7. Conflito conhecido para declarar competente o Juízo de Direito da Vara Criminal do Foro Central Barra Funda - DIPO 4 - SÃO PAULO - SP, o suscitado.
+(CC n. 185.983/DF, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 11/5/2022, DJe de 13/5/2022, grifo nosso.)
+Nesse mesmo sentido, cito ainda as seguintes decisões monocráticas: CC n. 197.846/PR, Relator Ministro Ribeiro Dantas, DJe de 3/7/2023 e CC n. 190.065/PE, Relator Ministro Antonio Saldanha Palheiro, DJe de 8/9/2022.
+Ante o exposto, conheço do conflito para declarar competente o JUÍZO DE DIREITO DA 5ª VARA CRIMINAL DE FORTALEZA/CE.
+Publique-se. Intimem-se.
+ EMENTA
