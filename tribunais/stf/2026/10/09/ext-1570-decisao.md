@@ -1,0 +1,32 @@
+EXTRADIÇÃO DEFERIDA. ALEGAÇÃO DE EXCESSO DE PRAZO. INOCORRÊNCIA. LIBERAÇÃO ANTECIPADA NEGADA.  PEDIDO DE SOLTURA INDEFERIDO.
+
+Decisão: Trata-se de pedido de soltura do extraditando, em razão de alegado excesso de prazo no seu acautelamento.
+Em 22.8.2019, a prisão cautelar para fins de extradição foi decretada pela Primeira Turma desta Corte (doc. 14), ocasião na qual o extraditando já se encontrava encarcerado desde 20.4.2018, por crime cometido no território nacional.
+Os documentos formalizadores do pleito extraditório foram encaminhados a esta Corte em 26.12.2018.
+Deferido o pedido de extradição (doc. 14), certificou-se o trânsito em julgado em 25.6.2020 (doc. 38).
+Em 30.9.2026, a defesa do extraditando requereu, em síntese, a soltura do extraditando, em razão do excesso de prazo no seu acautelamento. Sustenta que o prazo para prisão não pode ficar imune a qualquer controle ou admitir que esta perdure por tempo indeterminado. Afirma que o extraditando se encontra encarcerado há 7 anos e 10 meses. Alega que o juízo da execução negou a liberação antecipada do extraditando, ainda que ele já tenha atingido requisito objetivo para o livramento condicional em 12 de março de 2022, seguindo sem acesso a qualquer benefício da execução, permanecendo em regime fechado. Pugna pela revogação da prisão preventiva, subsidiariamente requer a aplicação de medidas cautelares alternativas (doc. 94).
+
+É o relatório. Decido.
+
+A prisão para fins de extradição prevista no artigo 84 da Lei nº 13.445/2017 é medida cautelar estabelecida no afã de assegurar a executoriedade do processo. Trata-se de medida fundamental para garantir a efetividade de eventual entrega do extraditando ao Estado requerente, após o devido processo legal, e honrar com os compromissos internacionais firmados por este País. Nesse sentido:
+
+“AGRAVO REGIMENTAL. PRISÃO PARA FINS DE EXTRADIÇÃO. ALTERAÇÃO LEGISLATIVA. AUSÊNCIA DE OITIVA PRÉVIA DO MINISTÉRIO PÚBLICO. MANIFESTAÇÃO POSTERIOR PELA PRISÃO. AUSÊNCIA DE PREJUÍZO. MANUTENÇÃO DA DECISÃO.
+1. A prisão para fins de extradição, embora tenha natureza cautelar, não se submete às disposições legais referentes à prisão preventiva. Seus requisitos estão previstos na Lei nº 13.445/2017, que é lei especial em relação ao CPP, na matéria extradicional.
+2. A prisão decretada nos autos é condição de procedibilidade para o processo de extradição e, tendo natureza cautelar, destina-se, em sua precípua função instrumental, a assegurar a execução de eventual ordem de extradição (Ext 579-QO, Tribunal Pleno, Relator o Ministro Celso de Mello), salvo a verificação, em concreto, das hipóteses previstas no art. 86 da Lei nº 13.445/2017. Esse entendimento não foi alterado com a entrada em vigor da Lei nº 13.445/2017.
+3. Não se enquadrando o Agravante em nenhuma das hipóteses excepcionais de revogação da prisão para fins de extradição, previstas no art. 86 da Lei nº 13.445/2017, a oitiva do Ministério Público Federal após a decretação da prisão, e por sua manutenção, não lhe trouxe nenhum prejuízo.
+4. Desprovimento do Agravo. (Ext 1.531-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 4/5/2018)
+In casu, fora deferida por esta Corte a extradição e autorizada a entrega do nacional chileno ao Estado requerente, iniciando-se os trâmites para sua retirada do território nacional. Verificou-se, contudo, a existência de pendências perante a justiça brasileira, em razão de sua condenação pelo crime de roubo à pena de 11 anos, 9 meses e 22 dias de reclusão (3ª Vara Criminal da Comarca de Natal-RN, nº 0104605-35.2018.8.20.0001). Observe-se que, nos termos do artigo 95 da Lei nº 13.445/2017, o extraditando não será entregue enquanto pendente o cumprimento de pena perante o juízo brasileiro, cite-se:
+
+Art. 95 - Quando o extraditando estiver sendo processado ou tiver sido condenado, no Brasil, por crime punível com pena privativa de liberdade, a extradição será executada somente depois da conclusão do processo ou do cumprimento da pena, ressalvadas as hipóteses de liberação antecipada pelo Poder Judiciário e de determinação da transferência da pessoa condenada.
+
+Deste modo, o lapso temporal que o extraditando se encontra preso decorre exclusivamente de sua condenação por delito cometido no território nacional. Note-se, portanto, que a existência de tal pendência perante justiça brasileira impediu sua célere entrega ao Estado requerente, cuja autorização já fora deferida, com trânsito em julgado desde 25.6.2020.
+Ademais, conforme informações constantes nos autos, o juízo brasileiro opôs-se à liberação antecipada do extraditando. Diferente do que sustenta a defesa, tal liberação é discricionária, não havendo qualquer obrigatoriedade na sua concessão. Ainda, o indeferimento do pleito em comento, aliado à existência de informações no sentido de que o extraditando integra organização criminosa, corrobora a impossibilidade  de abrandamento da prisão preventiva para fins extraditórios, notadamente diante de elevado risco de frustração de  futura entrega ao Estado requerente.
+Trata-se, portanto, de processo de análise jurisdicional já concluída perante esta Corte, pendendo apenas o transcurso das fases finais de competência do Poder Executivo. Destarte, as circunstâncias do caso não possibilitam a substituição da prisão preventiva por medidas alternativas, notadamente porque segue vigente o interesse do Estado requerente na responsabilização pelos fatos descritos no pedido de extradição, em relação ao qual já houve autorização definitiva por parte do Supremo Tribunal Federal.
+Deste modo, nos termos do art. 95 da Lei nº 13.445/17, aguarde-se o cumprimento de pena no Brasil, para que ocorra eventual entrega do extraditando, mantidas as decisões e acórdãos já proferidos nestes autos. Ainda, não há qualquer prejuízo ao extraditando, pois o período em que este permanecer custodiado no País será detraído de eventual condenação no Estado requerente, conforme compromisso a ser assumido, nos termos do artigo 96 da Lei nº 13.445/17.
+Ex positis, indefiro o pedido de relaxamento da prisão preventiva para fins de extradição ou sua substituição por medidas cautelares alternativas, a entrega do extraditando ao Estado requerente permanecerá diferida, até que sejam cumpridas as pendências que o extraditando possui com a justiça brasileira.
+Publique-se.
+Brasília, 9 de outubro de 2026.
+
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
