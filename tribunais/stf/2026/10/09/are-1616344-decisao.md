@@ -1,0 +1,35 @@
+DECISÃO:
+Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+O acórdão recorrido  ficou assim ementado:
+
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. INCLUSÃO DO ICMS NA BASE DE CÁLCULO DO IPI. LEGALIDADE E CONSTITUCIONALIDADE. RECURSO IMPROVIDO.
+1. O IPI é abordado na Constituição Federal no artigo 153, IV e §§ 1º e 3º, atribuindo à União a competência para sua instituição, tratando de suas características gerais, sem, todavia, dispor do fato gerador, de modo que não há que se falar que a inclusão do ICMS na base de cálculo do IPI teria alterado a sua regra matriz constitucional.
+2. O fato gerador do IPI, sua base de cálculo e os contribuintes do imposto são tratados no Código Tributário Nacional, conforme disposto nos artigos 46 e 47, estabelecendo como fato gerador do IPI a saída de produtos industrializados do estabelecimento importador, industrial, comerciante ou arrematante, ou seja, o fato gerador do IPI é a realização de operação com produtos industrializados que importe na transferência da titularidade do bem, ao passo que o ICMS incide sobre a circulação de mercadorias.
+3. Trata-se de dois impostos que possuem fatos geradores distintos, sendo que o fato que ocorre é a de tributo na base de cálculo de outro tributo e sendo o ICMS um tributo calculado por dentro, está inserido no valor da operação, constituindo a base de cálculo do IPI.
+4. O ICMS é um imposto que integra a sua própria base de cálculo, ou seja, no preço de compra ou de venda da mercadoria ou do serviço está embutido o valor da exação, a teor do disposto no art. 13 da Lei Complementar n° 87/96.
+5. A orientação jurisprudencial do C. Superior Tribunal de Justiça é no sentido de que é devida a inclusão do ICMS na base de cálculo do IPI, uma vez que, por ser tributo calculado por dentro do valor da operação, nele já está inserido.
+6. Não merece reparo a r. sentença, porquanto legítima a exigência fiscal, restando prejudicado o pedido de compensação/repetição de valores recolhidos.
+7. Apelo improvido.
+
+Opostos os embargos de declaração, foram rejeitados.
+No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, II, 145, § 1º, 150, II, IV e 153, IV,  da Constituição Federal.
+Decido.
+Analisados os autos,  verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente, o que não é cabível em sede de recurso extraordinário. Sobre o tema, a propósito:
+
+“Agravo regimental no recurso extraordinário. Direito Tributário. Base de cálculo do Imposto sobre a Renda de Pessoa Jurídica (IRPJ) e da Contribuição Social sobre o Lucro Líquido (CSLL). Pretendida exclusão do valor de ICMS. Contribuinte optante pelo sistema de lucro presumido. Controvérsia infraconstitucional. Ofensa reflexa. Precedentes. 1. Não se presta o recurso extraordinário para o reexame da legislação infraconstitucional. 2. Agravo regimental não provido, com imposição de multa de 1%(um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC).” (RE 1.239.422-AgR, Rel. Min. Dias Toffoli, Tribunal Pleno, DJe de 15/09/2020)
+
+“Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. 3. Base de cálculo do IRPJ e da CSLL. Exclusão dos valores contabilizados a título de ICMS. 3. A conceituação de lucro, base de cálculo de tais exações, não prescinde do exame da legislação complementar federal, o que distingue a controvérsia recursal daquela referente ao tema 69 do Plenário Virtual, que envolve o conceito constitucional de faturamento. Precedentes. 4. Negado provimento ao agravo regimental, sem majoração de honorários.” (ARE 1.020.143- AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 01/08/2019)
+
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. CSLL E IRPJ. BASE DE CÁLCULO. LUCRO PRESUMIDO. EMPRESA PRESTADORA DE SERVIÇO DE MÃO DE OBRA TEMPORÁRIA. VALORES RECEBIDOS PARA O PAGAMENTO DE SALÁRIOS E DEMAIS ENCARGOS TRABALHISTAS E SOCIAIS. INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS. INVIABILIDADE EM SEDE EXTRAORDINÁRIA. EQUIVALÊNCIA DAS EXPRESSÕES “FATURAMENTO” E “RECEITA BRUTA”. TOTALIDADE DAS RECEITAS AUFERIDAS COM A VENDA DE MERCADORIAS E SERVIÇOS. AGRAVO REGIMENTAL DESPROVIDO.” (AI 860.933-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJ de 09/12/2015).
+
+“DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. IPI. BASE DE CÁLCULO. TRIBUTOS INCIDENTES NA SAÍDA DO ESTABELECIMENTO IMPORTADOR. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. 1. O Tribunal de origem, com apoio na legislação infraconstitucional e no acervo fático probatório, decidiu pela validade da base de cálculo do IPI na saída do estabelecimento importador. Para dissentir das conclusões do acórdão recorrido, seria imprescindível o reexame da legislação infraconstitucional aplicável (Código Tributário Nacional e IN SRF nº 247/2002), bem como do acervo probatório dos autos, providência inviável em recurso extraordinário. 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25, Lei nº 12.016/2009 e Súmula 512/STF). 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.” (RE 1.190.689-AgR, Rel. Min Luís Roberto Barroso, Primeira Turma, DJe de 24/10/2019).
+
+Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 9 de outubro de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
