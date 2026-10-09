@@ -1,0 +1,41 @@
+Direito civil e processual civil. Embargos de declaração. Cobrança de honorários advocatícios. Ajuste verbal de redução de dívida. Alegação de omissão, contradição e prequestionamento. Inexistência de vícios previstos no art. 1.022 do CPC. Embargos de declaração rejeitados.
+I. CASO EM EXAME
+Embargos de declaração opostos contra acórdão que negou provimento ao recurso de apelação. A embargante sustenta a existência de múltiplas omissões quanto ao exame de dispositivos do Código Civil e do Código de Processo Civil, da distribuição do ônus da prova, da boa-fé objetiva e da vedação ao comportamento contraditório. Alega, ainda, contradição interna no julgado ao reconhecer a validade de transação verbal sem observância de forma escrita. Requer o acolhimento dos embargos com efeitos infringentes ou, subsidiariamente, a integração do julgado para fins de prequestionamento.
+II. QUESTÃO EM DISCUSSÃO
+Há duas questões em discussão: (i) saber se o acórdão incorreu em omissão ao deixar de enfrentar expressamente dispositivos legais, teses relativas ao ônus da prova, à boa-fé objetiva e ao venire contra factum proprium; e (ii) saber se há contradição no reconhecimento da validade de ajuste verbal de redução do débito sem exigência de forma escrita.
+III. RAZÕES DE DECIDIR
+1. O acórdão enfrentou de forma suficiente a controvérsia central ao reconhecer a validade do ajuste verbal de redução do débito, concluindo que, sendo válida a contratação verbal de honorários advocatícios, também é válida a convenção verbal de redução do valor devido, desde que comprovada pelos elementos constantes dos autos. 2. A decisão registrou que a própria credora indicou, em mensagens trocadas entre as partes, o valor de R$ 275.000,00 para quitação da obrigação, quantia posteriormente adimplida pelo devedor, circunstância apta a demonstrar a existência do acordo.
+3. Não há contradição interna no julgado, pois o Colegiado assentou expressamente a inexistência de exigência legal de forma especial para o ajuste reconhecido, sendo compatível a validação da avença verbal com a fundamentação adotada. 4. A ausência de manifestação individualizada acerca de todos os dispositivos legais invocados não configura omissão, uma vez que o julgador não está obrigado a responder todas as teses apresentadas pelas partes quando encontra fundamentação suficiente para resolver a controvérsia. 5. As alegações deduzidas nos embargos revelam mero inconformismo com a solução jurídica adotada e pretendem a rediscussão do mérito, finalidade incompatível com a natureza integrativa dos embargos de declaração.
+IV. DISPOSITIVO E TESE
+Embargos de declaração rejeitados.
+Tese de julgamento: “1. Não há omissão quando o acórdão enfrenta de forma suficiente a questão jurídica central controvertida, ainda que não analise individualmente todos os dispositivos legais invocados pelas partes. 2. É válido o ajuste verbal de redução de débito quando inexistente exigência legal de forma especial e houver elementos probatórios aptos a demonstrar sua celebração. 3. Os embargos de declaração não constituem instrumento adequado para rediscussão da matéria já decidida.”
+Dispositivos relevantes citados: CC, arts. 113, 313, 320, 356, 360, 361, 385, 422, 840 e 842; CPC, arts. 373, II, 1.022 e 1.025.
+Jurisprudência relevante citada: STJ, EDcl no AgRg no REsp 1.142.466/RS, Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), Quinta Turma, j. 17.09.2015.
+
+1. RELATÓRIO:
+Trata-se de embargos de declaração opostos por Wilson Nunes Vieira Junior em face do acórdão de mov. 31.1, que negou provimento ao recurso da embargada e deu parcial provimento ao recurso do embargante, para reconhecer a nulidade parcial da sentença por julgamento citra petita, apreciando diretamente os pedidos omissos, mantido, contudo, o resultado.
+Sustenta o embargante a existência de omissão, contradição e erro material, sobretudo, quanto ao indeferimento do pleito de danos morais e a não incidência da penalidade do art.940 do CC. Pleiteou efeitos infringentes e prequestionou a matéria.
+Não foram apresentadas contrarrazões.
+É o relatório.
+
+2. FUNDAMENTAÇÃO:
+Presentes os pressupostos intrínsecos e extrínsecos de admissibilidade, conheço dos embargos de declaração.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a sanar omissão, contradição, obscuridade ou erro material, não se prestando à revisão do julgado ou à rediscussão de matéria já decidida.
+Na espécie, não se verifica qualquer dos vícios apontados.
+Quanto aos danos morais, não há omissão a ser sanada.
+O acórdão embargado, após reconhecer a omissão parcial da sentença e proceder o julgamento direto da matéria, na forma do art. 1.013, §3º do CPC, enfrentou expressamente o pleito indenizatório.
+Consignou, de forma clara que, "embora tenha sido reconhecida a falsidade da assinatura e consequente inexistência da relação jurídica, não se verifica, no caso, a demonstração de abalo de ordem extrapatrimonial apto a ensejar a reparação".
+Registrou-se, ainda, que, "ainda que tenha havido constrição patrimonial indevida, com posterior determinação de restituição dos valores, o apelante não comprovou qualquer circunstância concreta indicativa de comprometimento financeiro relevante, tampouco evidenciou prejuízo que extrapole os limites do mero aborrecimento ou dissabor cotidiano".
+Como se observa, a questão foi amplamente enfrentada, tendo o colegiado adotado fundamentação suficiente para afastar a pretensão indenizatório, em consonância com o entendimento jurisprudencial desta Corte, segundo o qual a mera ocorrência de fraude, desacompanhada de repercussão concreta e relevante, não enseja, automaticamente, a condenação em danos morais.
+O que se observa, na verdade, é o inconformismo do embargante com a conclusão adotada, e não a ausência de pronunciamento sobre o tema, o que não autoriza o manejo dos aclaratórios.
+De igual modo, não subsiste o vício apontado em relação ao art. 940 do CC, na medida que o pedido foi rejeitado, expressamente, com menção a sua inaplicabilidade, considerando que a irregularidade somente foi confirmada após a produção da prova pericial:
+“Conforme visto, a própria fraude contratual somente foi evidenciada de forma conclusiva mediante a produção da prova pericial grafotécnica, não sendo possível afirmar que a embargada, ainda que com ato reprovável, tenha atuado deliberadamente no intuito de alterar a verdade dos fatos ou provocar incidente manifestamente infundado. E, igualmente não comporta acolhida o pleito de incidência da multa 940 do CC. A aplicação da penalidade prevista no referido dispositivo pressupõe a cobrança de dívida inexistente com conhecimento inequívoco de sua inexigibilidade. Contudo, conforme já destacado, a irregularidade da contratação somente foi confirmada após a produção da prova pericial, afastando eventual dolo por parte da credora.”.
+Não há falar, tampouco, em erro material.
+O erro material sanável por esta via é aquele evidente, de natureza gráfica ou de cálculo, apreensível de plano. A pretensão de rever o fundamento jurídico aplicado e a solução conferida à controvérsia refoge, por completo, à finalidade integrativa dos embargos.
+Ainda, não se vislumbra qualquer contradição.
+A contradição sanável é somente aquela interna ao próprio julgado, verificável entre seus fundamentos , ou entre fundamentação e dispositivo, e não a divergência entre o entendimento adotado e a tese sustentada pela parte.
+No caso, o acórdão é coerente, reconheceu a falsidade da assinatura, a inexistência do negócio jurídico e a responsabilidade objetiva da instituição financeira, afastando, contudo, os danos morais, por ausência de demonstração de abalo extrapatrimonial, e a penalidade do art. 940 do CC, ante a ausência de dolo, em perfeita harmonia entre os fundamentos e o dispositivo.
+Por fim, no que tange ao prequestionamento, tendo o acórdão decidido a controvérsia, consideram-se prequestionados os dispositivos correlatos, sendo desnecessária a manifestação expressa sobre cada artigo invocado, mormente quando ausente qualquer dos vícios do art. 1.022 do CPC.
+Diante do exposto, rejeito os embargos de declaração
+3. CONCLUSÃO
+Nestes termos, voto pela rejeição dos embargos de declaração.
