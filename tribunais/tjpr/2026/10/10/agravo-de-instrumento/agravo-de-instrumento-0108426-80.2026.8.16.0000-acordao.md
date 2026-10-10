@@ -1,0 +1,52 @@
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO. DECISÃO DE INVERSÃO DO ÔNUS DA PROVA COM FUNDAMENTO DO CÓDIGO DE DEFESA DO CONSUMIDOR. DIPLOMA INAPLICÁVEL NA ESPÉCIE. INVERSÃO COM FUNDAMENTO DIVERSO TAMBÉM INADEQUADA PARA O CASO CONCRETO. DECISÃO REFORMADA. RECURSO PROVIDO.
+I. CASO EM EXAME
+1. Agravo de instrumento interposto de decisão pela qual foi invertido o ônus probatório com fundamento no Código de Defesa do Consumidor.
+II. QUESTÃO EM DISCUSSÃO
+2. Julgar se incide no caso o CDC e se deve ser mantida a inversão do ônus probatório.
+III. RAZÕES DE DECIDIR
+3. Mesmo que se invocasse o art. 17 do Código de Defesa do Consumidor, esta 9ª Câmara Cível recentemente entendeu que o simples fato de o veículo estar inserido em atividade empresarial de transporte não se revela suficiente para justificar a equiparação do autor, vítima do evento, à figura de consumidor.
+4. Não comporta acolhimento o pedido formulado em contrarrazões sobre a inversão do ônus da prova com fundamento diverso, na medida em que não foi demonstrada qualquer impossibilidade ou dificuldade excessiva de o autor agravado comprovar suas alegações iniciais.
+5. Portanto, o recurso deve ser provido para afastar tanto a incidência do Código de Defesa do Consumidor como a inversão do ônus probatório.
+IV. DISPOSITIVO
+
+6. Recurso provido para afastar tanto a incidência do Código de Defesa do Consumidor como a inversão do ônus probatório.
+VISTOS, examinados e discutidos estes autos.
+
+RELATÓRIO
+Trata-se de agravo de instrumento interposto da r. decisão proferida no mov. 85.1 dos autos n. 0042124-74.2024.8.16.0021, de demanda indenizatória movida por ALISSON FERREIRA TOFOLO em face de TOZZO BEBIDAS PARANÁ LTDA e GENTE SEGURADORA S/A, pela qual foi deferida a aplicação do Código de Defesa do Consumidor ao caso e determinada a inversão do ônus da prova em favor do autor.
+Em síntese, o autor pediu a condenação das rés ao pagamento de indenização por danos materiais, compensação por danos morais e indenização pela desvalorização do veículo, sob o fundamento de que sofreu prejuízos decorrentes de acidente de trânsito ocorrido em 21/06/2024, quando caminhão das rés colidiu com seu automóvel, que se encontrava estacionado.
+Os réus apresentaram contestação (mov. 25.1 e mov. 36.1).
+O autor replicou (mov. 28.1 e mov. 50.1).
+Deferida a denunciação da lide em face de TRANSPORTES TOZZO LTDA, que apresentou contestação (mov. 69.1), a ré GENTE SEGURADORA S/A e o autor especificaram provas (mov. 79.1 e mov. 80.1).
+Pela decisão recorrida, de organização e saneamento do processo, foi deferida a aplicação do Código de Defesa do Consumidor ao caso e a inversão do ônus da prova (mov. 85.1).
+Dessa decisão a denunciada TRANSPORTES TOZZO LTDA interpôs agravo de instrumento tecendo as razões recursais a seguir:
+a)- “A decisão agravada afirma, textualmente, que "a parte autora postula a aplicação do Código de Defesa do Consumidor e, ainda, a inversão do ônus da prova". Ocorre que, em nenhuma das petições apresentadas pelo agravado ao longo de toda a instrução processual, nem na petição inicial (seq. 1.1), nem nas duas impugnações às contestações (seq. 28.1 e 74.1), nem na especificação de provas (seq. 80.1), há pedido, tese ou fundamento jurídico requerendo a aplicação do CDC ou a inversão do ônus probatório. A fundamentação da petição inicial ampara-se, exclusivamente, nos artigos 186, 402, 927 e 944 do Código Civil, disciplina própria da responsabilidade civil extracontratual comum”;
+b)- “Ainda que superado o vício acima (o que se admite apenas para argumentar), a aplicação do CDC ao caso é, em si, equivocada. O artigo 2º do Código de Defesa do Consumidor define consumidor como "toda pessoa física ou jurídica que adquire ou utiliza produto ou serviço como destinatário final", pressupondo, necessariamente, uma relação de consumo subjacente entre as partes”;
+c)- “A incidência dos artigos 12 a 17 do CDC, regramento do "fato do produto ou do serviço", também chamado de "acidente de consumo" pressupõe, como elemento essencial e insubstituível, a existência de um defeito de segurança no produto ou na execução do serviço fornecido ao mercado. É a lição de Sérgio Cavalieri Filho, para quem "o defeito do produto ou do serviço é o pressuposto essencial da responsabilidade pelo fato": sem defeito, não há nexo de causalidade apto a atrair o microssistema consumerista. O próprio autor exemplifica a categoria com casos de "deficiência no sistema de freio do veículo que causa um acidente", "defeito de fabricação ou montagem" e "erro na formulação de medicamento" sempre uma falha intrínseca ao produto ou à prestação do serviço, e não a mera conduta culposa de condução no trânsito”;
+d)- “Mesmo que se admitisse, por hipótese, a incidência do CDC, o que se sustenta apenas em caráter argumentativo, a inversão do ônus da prova prevista no artigo 6º, inciso VIII, do CDC não é automática nem decorre da simples qualificação da relação como de consumo (ope legis). É pacífico, na jurisprudência consolidada do STJ, que essa inversão opera-se ope judicis, cabendo ao magistrado, "de forma prudente e fundamentada", apreciar concretamente os requisitos legais, verossimilhança da alegação segundo as regras ordinárias de experiência OU hipossuficiência (técnica ou econômica) do consumidor, sendo vedada a inversão indiscriminada ou presumida”.
+Pediu a suspensão da decisão agravada e sua reforma ao final. Subsidiariamente, pugnou pelo indeferimento da inversão do ônus da prova.
+Deferida a suspensão (mov. 13.1), o agravado apresentou contrarrazões (mov. 18.1).
+É o relatório.
+
+FUNDAMENTAÇÃO E VOTO
+Conheço do recurso, pois presentes seus pressupostos de admissibilidade.
+No mérito, o agravo de instrumento comporta provimento.
+Isso porque o contexto fático da demanda não representa uma relação de consumo, pois o autor agravado alega que seu veículo estacionado foi danificado por funcionário da ré conduzindo caminhão de maneira imprudente. O autor agravado, na verdade, nem mesmo invoca o Código de Defesa do Consumidor ou pede a inversão do ônus probatório na petição inicial.
+Assim, não se sustenta a premissa invocada na decisão recorrida no sentido de que “a parte autora postula a aplicação do Código de Defesa do Consumidor e, ainda, a inversão do ônus da prova”.
+Além disso, mesmo que se invocasse o art. 17 do Código de Defesa do Consumidor, esta 9ª Câmara Cível recentemente entendeu que o simples fato de o veículo estar inserido em atividade empresarial de transporte não se revela suficiente para justificar a equiparação do autor, vítima do evento, à figura de consumidor, conforme ementa a seguir:
+“AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ACIDENTE DE TRÂNSITO QUE VITIMOU O FILHO DOS AUTORES. PLEITO DE INAPLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR (CDC) E INVERSÃO DO ÔNUS DA PROVA. POSSIBILIDADE. AUSÊNCIA DE ACIDENTE DE CONSUMO. VÍTIMA NÃO CARACTERIZADA COMO CONSUMIDORA POR EQUIPARAÇÃO (ART. 17 DO CDC). INEXISTÊNCIA DE DEFEITO DO SERVIÇO. EVENTO DECORRENTE, EM TESE, DE CONDUTA CULPOSA EM ACIDENTE DE TRÂNSITO. RESPONSABILIDADE CIVIL REGIDA PELO CÓDIGO CIVIL (ARTS. 186 E 927). INVALIDADE DA INVERSÃO DO ÔNUS DA PROVA. MEDIDA EXCEPCIONAL. INEXISTÊNCIA DOS REQUISITOS DO ART. 6º, VIII, DO CDC. APLICAÇÃO DA REGRA GERAL DO ART. 373 DO CPC. DECISÃO PARCIALMENTE REFORMADA. RECURSO CONHECIDO E PROVIDO.
+I. Caso em exame
+1. Agravo de instrumento interposto por empresa de transporte contra decisão que reconheceu a aplicação do Código de Defesa do Consumidor e determinou a inversão do ônus da prova em ação de indenização por danos materiais e morais decorrente de acidente de trânsito que vitimou o filho dos autores. A decisão agravada considerou a vítima como consumidora por equiparação, aplicando as normas consumeristas e invertendo o ônus da prova, medida contestada pela agravante.
+
+II. Questão em discussão
+2. A questão em discussão consiste em saber se é cabível a aplicação do Código de Defesa do Consumidor e a inversão do ônus da prova em ação de indenização por danos decorrentes de acidente de trânsito envolvendo terceiro não consumidor direto, ou se a responsabilidade civil deve ser regida pelo Código Civil, afastando-se o regime consumerista e a inversão do ônus da prova. III. Razões de decidir 3. O caso trata de acidente de trânsito e não de defeito na prestação de serviço ou produto, afastando a caracterização de acidente de consumo e, consequentemente, a aplicação do Código de Defesa do Consumidor. 4. A responsabilidade civil deve ser analisada segundo o Código Civil, com base na conduta do condutor, e não pelo regime do CDC. 5. A inversão do ônus da prova prevista no CDC não é cabível, pois não estão presentes os requisitos legais para sua aplicação, devendo ser aplicada a regra geral do art. 373 do CPC. 6. A imposição automática da inversão do ônus da prova violaria os princípios do contraditório e da ampla defesa, transferindo indevidamente à parte ré o ônus de provar a ausência de culpa.
+IV. Dispositivo e tese
+7. Agravo de instrumento conhecido em parte e provido para reformar parcialmente a decisão agravada, afastando a incidência do Código de Defesa do Consumidor e a inversão do ônus da prova.
+Tese de julgamento: A incidência do Código de Defesa do Consumidor é afastada em casos de acidente de trânsito decorrente de conduta culposa, não caracterizando acidente de consumo, aplicando-se a responsabilidade civil comum prevista no Código Civil, e não se admite a inversão do ônus da prova sem a demonstração dos requisitos legais previstos no art. 6º, VIII, do CDC” (TJPR - 9ª Câmara Cível - 0120662-98.2025.8.16.0000 - Lapa -
+ Rel.: DESEMBARGADORA ANGELA KHURY -
+ J. 11.06.2026).
+Assim, não incide o Código de Defesa do Consumidor ao caso, questão inclusive admita pelo agravado em suas contrarrazões (mov. 18.1).
+De resto, não comporta acolhimento o pedido formulado em contrarrazões sobre a manutenção da inversão do ônus da prova com fundamento diverso, na medida em que não foi demonstrada concretamente qualquer impossibilidade ou dificuldade excessiva de o autor agravado comprovar suas alegações iniciais.
+Portanto, o recurso deve ser provido para afastar tanto a incidência do Código de Defesa do Consumidor como a inversão do ônus probatório.
+CONCLUSÃO
+Posto isso, voto no sentido de dar provimento ao agravo de instrumento para afastar tanto a incidência do Código de Defesa do Consumidor como a inversão do ônus probatório.
