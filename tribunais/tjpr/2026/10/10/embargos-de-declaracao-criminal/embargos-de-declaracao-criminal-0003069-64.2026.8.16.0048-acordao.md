@@ -1,0 +1,30 @@
+DIREITO PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO CRIMINAL. ESTELIONATO. ALEGADA DECADÊNCIA. REDISCUSSÃO DE MATÉRIA. DESCLASSIFICAÇÃO PARA FALSA IDENTIDADE. AUSÊNCIA DE OMISSÃO. TESE APRESENTADA APENAS EM ALEGAÇÕES FINAIS COMPLEMENTARES. EMBARGOS CONHECIDOS E REJEITADOS.
+1. CASO EM EXAMEEmbargos de declaração opostos por Fernando Henrique da Silva Marchi contra acórdão proferido em apelação criminal que manteve sua condenação por múltiplos crimes de estelionato. O embargante sustenta omissão, obscuridade e contradição quanto ao afastamento da decadência do direito de representação e, subsidiariamente, aponta erro no não conhecimento da tese de desclassificação da conduta para o crime de falsa identidade, requerendo o reconhecimento da extinção da punibilidade ou a reforma do julgamento.
+2. QUESTÃO EM DISCUSSÃOA questão em discussão consiste em saber se: (a) o acórdão incorreu em omissão, obscuridade ou contradição ao afastar a decadência do direito de representação; (b) houve equívoco ao não conhecer da tese de desclassificação do estelionato para falsa identidade.
+3. RAZÕES DE DECIDIR3.1 A alegação de decadência não comporta acolhimento, pois o acórdão enfrentou expressamente a matéria e concluiu que os atos anteriormente praticados pela vítima, consistentes no registro de boletim de ocorrência, apresentação de documentos e depoimento judicial, constituíram manifestação inequívoca de vontade apta a suprir a representação. 3.2 O inconformismo da defesa com o resultado do julgamento não configura omissão, obscuridade ou contradição, sendo inadmissível a rediscussão do mérito em sede de embargos de declaração. 3.3
+O
+pedido de desclassificação para o crime de falsa identidade foi apresentado em
+"alegações finais complementares". Todavia, inviável a inovação em complementação de alegações finais, em razão da preclusão consumativa.3.4 Está correto o não conhecimento da tese no acórdão.
+4. DISPOSITIVOEmbargos de declaração conhecidos e rejeitados. Dispositivos relevantes citadosCP, arts. 171 e 307; CPP, art. 619.
+
+I. RELATÓRIO
+Trata-se de Embargos de Declaração, opostos por Fernando Henrique da Silva Marchi, em face do acórdão de mov. 54.1, nos autos de Apelação Criminal n. 0004755-38.2019.8.16.0048.
+A defesa sustenta que o acórdão incorreu em omissão, contradição e obscuridade ao deixar de reconhecer a decadência do direito de representação no crime de estelionato. Argumenta que o representante legal da empresa vítima, Eliezer Roque, foi intimado em duas oportunidades para manifestar interesse na persecução penal e permaneceu silente em ambas, o que acarretaria a extinção da punibilidade, em conformidade com o entendimento firmado pelo STF no HC 208.817. Alega ainda que o Tribunal utilizou fundamentação incompatível com a sentença e decidiu em prejuízo da defesa, sem recurso da acusação.
+Subsidiariamente, sustenta que o acórdão errou ao considerar inovadora a tese de desclassificação do estelionato para falsa identidade, pois essa matéria já havia sido expressamente apresentada pela defesa nas alegações finais em primeiro grau. Requer, assim, o reconhecimento da decadência e da extinção da punibilidade ou, alternativamente, o enfrentamento e acolhimento da tese de desclassificação.
+Instada a se manifestar, a Procuradoria-Geral de Justiça opinou pela rejeição dos embargos (mov. 10.1).
+É o relatório.
+
+II. VOTO E SUA FUNDAMENTAÇÃO
+Presentes os pressupostos processuais objetivos (cabimento, adequação, tempestividade, regularidade, inexistência de fatos impeditivos ou extintivos do direito de recorrer) e subjetivos (interesse e legitimidade), os embargos comportam conhecimento.
+Os requisitos previstos no artigo 619 do Código de Processo Penal impõem o acolhimento dos embargos de declaração somente nas hipóteses em que a decisão embargada apresentar ambiguidade, obscuridade, contradição, omissão ou, ainda, erro material.
+Vejamos.
+O embargante alega que há ambiguidade, obscuridade e contrariedade no acórdão na parte em que rejeita a tese levantada pela Procuradoria de Justiça, a respeito da ocorrência da decadência.
+Todavia, neste ponto, sem razão.
+Do que se verifica, as alegações trazidas pelo embargante consistem em mero inconformismo com o resultado do julgamento, eis que, da fundamentação extraída do acórdão objurgado, denota-se a tese foi devidamente afastada, sob o fundamento principal de que “os atos por ela [a vítima] realizados anteriormente (registro de boletim de ocorrência, com apresentação de provas documentais, e depoimento em juízo) já são suficientes para configurar a representação, a qual não se exige que ocorra por meio formal e expresso quando o fato é anterior ao pacote anticrime”.
+Saliente-se que o mero inconformismo com as razões do decisum proferido nesta instância – afastadas as hipóteses de contradição e obscuridade –, deve ensejar recurso próprio à Corte ad quem, sendo vedada a rediscussão de matéria já julgada em sede de embargos de declaração.
+Quanto à tese de erro no acórdão pelo não conhecimento do pedido de desclassificação para o crime de falsa identidade, esta também não comporta acolhida.
+Como se verifica, a tese foi apresentada apenas em "alegações finais complementares" pela defesa (mov. 238.1).
+Todavia, como se sabe, uma vez apresentada a peça processual, não pode o defensor complementá-la com novas teses - ainda que o juízo de primeiro grau tenha intimado a parte para tanto - em razão da ocorrência de preclusão consumativa.
+Desse modo, entende-se que
+a tese não foi apresentada em momento oportuno, o que torna correto o não conhecimento do pedido recursal tal qual realizado no acórdão vergastado. O fato do Juiz ter oportunizado complementação das alegações finais, para viabilizar a manifestação da Defesa sobre documento juntado após as alegações finais, não possibilita que teses novas sejam apresentadas.
+Logo, por não estarem presentes os requisitos necessários elencados no artigo 619 do Código de Processo Penal, ou seja, não havendo qualquer omissão, obscuridade, ambiguidade ou contradição na v. decisão guerreada, voto no sentido de conhecer dos embargos de declaração crime e rejeitá-los.
