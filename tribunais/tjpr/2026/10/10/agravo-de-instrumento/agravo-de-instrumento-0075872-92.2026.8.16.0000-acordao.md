@@ -1,0 +1,48 @@
+Ementa. DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO REGRESSIVA DE RESSARCIMENTO DE DANOS. SEGURADORA X COPEL. COMPETÊNCIA TERRITORIAL. TEMA 1.282 DO STJ. FORO DA SEDE DA PESSOA JURÍDICA RÉ. RECURSO CONHECIDO E DESPROVIDO.
+I. CASO EM EXAME
+1.1. Agravo de Instrumento interposto contra decisão que, em ação regressiva de ressarcimento de danos, acolheu a preliminar de incompetência territorial arguida pela ré e determinou a remessa dos autos para a Comarca de Curitiba/PR, sede da pessoa jurídica demandada.
+1.2. A agravante sustentou que a competência deveria permanecer na Comarca de Cornélio Procópio/PR, local da ocorrência do sinistro, com fundamento no art. 53, IV, "a", do Código de Processo Civil, defendendo que a ação regressiva possui natureza de ação de reparação de danos e que o Tema 1.282 do Superior Tribunal de Justiça apenas afastou a incidência das prerrogativas do microssistema consumerista, sem alterar as regras gerais de competência territorial.
+II. QUESTÕES EM DISCUSSÃO
+2.1. A questão em discussão consiste em saber se a ação regressiva ajuizada por seguradora em face de concessionária de serviço público deve ser processada no foro do local do evento danoso ou no foro da sede da pessoa jurídica ré.
+III. RAZÕES DE DECIDIR
+3.1. O Superior Tribunal de Justiça, no julgamento do Tema Repetitivo 1.282, firmou entendimento de que o pagamento da indenização securitária gera sub-rogação apenas nos direitos materiais do segurado, não abrangendo prerrogativas processuais, especialmente aquelas relacionadas à definição da competência territorial.
+3.2. Afastada a incidência da regra especial prevista no art. 101, I, do Código de Defesa do Consumidor, a definição da competência deve observar as normas gerais do Código de Processo Civil.
+3.3. Nas ações regressivas propostas por seguradora contra concessionária de serviço público, prevalece a regra do art. 53, III, "a", do Código de Processo Civil, segundo a qual a demanda deve ser processada no foro da sede da pessoa jurídica ré, não incidindo a regra prevista no art. 53, IV, "a", do mesmo diploma.
+3.4.
+ A decisão recorrida está em conformidade com o entendimento consolidado pelo Superior Tribunal de Justiça e com a jurisprudência da 9ª Câmara Cível do Tribunal de Justiça do Paraná, que reconhecem a competência do foro da sede da concessionária para processamento e julgamento da ação regressiva.
+IV. DISPOSITIVO
+
+4.1. Agravo de Instrumento conhecido e desprovido, mantendo-se a decisão que reconheceu a incompetência territorial do foro de Cornélio Procópio/PR e determinou a remessa dos autos à Comarca de Curitiba/PR.
+
+RELATÓRIO
+Trata-se de AGRAVO DE INSTRUMENTO interposto da r. decisão de mov. 59.1 proferida nos autos 0007844-75.2025.8.16.0075 de AÇÃO REGRESSIVA DE RESSARCIMENTO DE DANOS movida por TOKIO MARINE SEGURADORA S.A. em face de COPEL DISTRIBUIÇÃO S.A., pela qual o Juízo de origem acolheu a preliminar de incompetência territorial arguida em contestação pela ré COPEL, determinando a remessa dos autos ao Juízo de Curitiba/PR.
+Inconformada, a autora/agravante TOKIO MARINE SEGURADORA S.A. interpõe o presente Agravo de Instrumento e alegam em suas razões recursais, em síntese, que (mov. 1.1):
+a)- o art. 53, IV, a, do CPC, indica que o foro do lugar do ato ou fato danoso é o competente para julgar as ações de reparação civil, sendo evidente que a agravante poderia ter escolhido a Comarca de Cornélio Procópio/PR, lugar onde o sinistro ocorreu, para ajuizar a demanda regressiva de danos;
+b)- sendo questão de competência territorial relativa, é conferida pela legislação vigente a possibilidade da agravante ajuizar a ação no lugar que melhor lhe aprouver, motivo pelo qual o foro do local da ocorrência do fato é competente para receber a presente demanda;
+c)- o Tema 1.282/STJ não reformulou o regime de competência territorial do Código de Processo Civil, nem instituiu uma regra de deslocamento automático para o foro do réu, mas sim fixou que a ação regressiva ajuizada pela seguradora contra a concessionária não se rege pelo microssistema consumerista;
+d)- considerando que o pedido é de ressarcimento, a causa de pedir gravita em torno de responsabilidade civil, motivo pelo qual, para fins de competência territorial, a ação regressiva se amolda ao conceito de “ação de reparação de dano” previsto no art. 53, IV, “a”;
+Ao final, requereu a concessão do efeito suspensivo e provimento do recurso quando do julgamento pelo colegiado, para que seja reconhecida a Comarca de Cornélio Procópio/PR como o foro competente para o processamento do feito.
+O efeito suspensivo foi indeferido (mov. 9.1-TJ).
+Contrarrazões pela parte agravada (mov. 14.1-TJ).
+É o breve relatório.
+
+FUNDAMENTAÇÃO E VOTO
+ADMISSIBILIDADE DO RECURSO
+Conheço do recurso, uma vez que é cabível nos termos do entendimento do STJ em se tratando de questão de competência.
+Inclusive, a hipótese dos autos já foi abordada em julgamento da Corte Superior, sob o rito dos recursos repetitivos:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. DIREITO PROCESSUAL CIVIL. NATUREZA JURÍDICA DO ROL DO ART. 1.015 DO CPC/2015. IMPUGNAÇÃO IMEDIATA DE DECISÕES INTERLOCUTÓRIAS NÃO PREVISTAS NOS INCISOS DO REFERIDO DISPOSITIVO LEGAL. POSSIBILIDADE. TAXATIVIDADE MITIGADA. EXCEPCIONALIDADE DA IMPUGNAÇÃO FORA DAS HIPÓTESES PREVISTAS EM LEI. REQUISITOS. (...) 6- Assim, nos termos do art. 1.036 e seguintes do CPC/2015, fixa-se a seguinte tese jurídica: O rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação. (...) 8- Na hipótese, dá-se provimento em parte ao recurso especial para determinar ao TJ/MT que, observados os demais pressupostos de admissibilidade, conheça e dê regular prosseguimento ao agravo de instrumento no que tange à competência. 9- Recurso especial conhecido e provido." (REsp 1.704.520/MT, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 05/12/2018, DJe 19/12/2018.)
+Além disso, o recurso é tempestivo.
+MÉRITO RECURSAL
+A controvérsia recursal cinge-se à definição do foro competente para o julgamento de ação regressiva ajuizada por seguradora em face de concessionária de serviço público.
+
+O juízo de origem, acolhendo preliminar da ré, declinou da competência para a Comarca de Curitiba/PR, foro da sede da pessoa jurídica demandada.
+Pois bem.
+A decisão agravada está em consonância com o entendimento firmado pelo Superior Tribunal de Justiça no julgamento do Tema Repetitivo 1.282, que fixou a seguinte tese: "O pagamento de indenização por sinistro não gera para a seguradora a sub-rogação de prerrogativas processuais dos consumidores, em especial quanto à competência na ação regressiva".
+Com efeito, a sub-rogação da seguradora nos direitos do segurado-consumidor opera-se no plano do direito material, não abrangendo as prerrogativas de natureza processual, como a faculdade de ajuizar a ação no foro de seu domicílio (art. 101, I, do CDC).
+Afastada a regra especial consumerista, a competência deve ser definida pelas normas gerais do Código de Processo Civil.
+
+E, embora a agravante defenda a aplicação do art. 53, IV, 'a', do CPC (foro do lugar do ato ou fato), a jurisprudência desta Câmara tem se orientado pela aplicação da regra geral para ações contra pessoa jurídica, qual seja, o foro do lugar onde está a sua sede, nos termos do art. 53, III, 'a', do CPC:
+DIREITO PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA CÍVEL. AÇÃO DE COBRANÇA. JUÍZO SUSCITANTE ENTENDEU PELA COMPETÊNCIA DO LOCAL DA SEDE DA RÉ. JUÍZO SUSCITADO DETERMINOU DISTRIBUIÇÃO PARA LOCAL DE OCORRÊNCIA DOS FATOS. COMPETÊNCIA DO JUÍZO DA 18ª VARA CÍVEL DO FORO CENTRAL DA COMARCA DA REGIÃO METROPOLITANA DE CURITIBA PARA PROCESSAR E JULGAR O FEITO. CONFLITO DE COMPETÊNCIA CÍVEL JULGADO PROCEDENTE. (...) 3. A competência para processar a ação regressiva é do juízo da 18ª Vara Cível de Curitiba, pois a demanda deve ser julgada no local da sede da empresa ré, conforme o artigo 53, III, "a", do Código de Processo Civil. 4. A subrogação da seguradora não transfere prerrogativas processuais dos consumidores, especialmente no que diz respeito à competência na ação regressiva, conforme estabelecido pelo Tema 1.282 do STJ. 5. A demanda deve ser ajuizada no foro do domicílio da ré, que é a sede da COPEL, e não no domicílio do segurado ou o local dos fatos, pois a natureza da sub-rogação é de direito material, não processual IV. Dispositivo e tese 6. Conflito de competência julgado procedente, declarando a competência do juízo da 18ª Vara Cível do Foro Central da Comarca da Região Metropolitana de Curitiba para processar e julgar o feito. (TJPR - 9ª Câmara Cível - 0000807-86.2025.8.16.0110 - Mangueirinha - Rel.: DESEMBARGADOR ROBERTO PORTUGAL BACELLAR - J. 04.10.2025)
+CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO REGRESSIVA AJUIZADA EM FACE DA COPEL DISTRIBUIÇÃO S.A. AUSÊNCIA DE SUB-ROGAÇÃO PROCESSUAL DA SEGURADORA NOS DIREITOS PROCESSUAIS DO SEGURADO. TEMA 1.282/STJ. INDENIZAÇÃO POR DANOS MATERIAIS. COMPETÊNCIA TERRITORIAL. FORO DO DOMICÍLIO DO RÉU. INTELIGÊNCIA DOS ARTS. 46 E 53, INC. III, ALÍNEA “A”, DO CPC. COMPETÊNCIA DO JUÍZO SUSCITADO. CONFLITO DE COMPETÊNCIA CONHECIDO E JULGADO PROCEDENTE. (TJPR - 9ª Câmara Cível - 0000377-96.2026.8.16.0079 - Dois Vizinhos - Rel.: DESEMBARGADOR LUIS SERGIO SWIECH - J. 11.04.2026)
+Assim, a decisão do juízo a quo que reconheceu a incompetência do foro de Cornélio Procópio e determinou a remessa dos autos para a Comarca de Curitiba, sede da ré, está correta e alinhada à jurisprudência da Corte Superior.
+Nessas condições, VOTO no sentido de NEGAR PROVIMENTO ao Agravo de Instrumento, mantendo inalterada a decisão recorrida.
