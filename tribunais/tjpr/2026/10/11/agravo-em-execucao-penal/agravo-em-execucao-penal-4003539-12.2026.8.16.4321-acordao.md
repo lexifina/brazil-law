@@ -1,0 +1,128 @@
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM EXECUÇÃO PENAL. SUPOSTA PRÁTICA DE NOVO CRIME DOLOSO DURANTE A EXECUÇÃO DA PENA. FALTA GRAVE. DESNECESSIDADE DE TRÂNSITO EM JULGADO. AUDIÊNCIA DE JUSTIFICAÇÃO. REGRESSÃO CAUTELAR E REVOGAÇÃO DA MONITORAÇÃO ELETRÔNICA NÃO AUTOMÁTICAS. AGRAVO CONHECIDO E, NO MÉRITO, PARCIALMENTE PROVIDO.
+I. Caso em exame
+Agravo em execução penal interposto pelo Ministério Público contra decisão que postergou a análise de falta grave atribuída à agravada, decorrente da suposta prática de crime de receptação durante o cumprimento da pena, até a superveniência de sentença penal condenatória. A decisão recorrida indeferiu a audiência de justificação e restabeleceu o regime semiaberto harmonizado com monitoração eletrônica. O recorrente requereu a imediata realização da audiência, a regressão cautelar ao regime fechado e a revogação da monitoração eletrônica.
+
+II. Questão em discussão
+Há duas questões em discussão: (i) saber se a apuração da falta grave decorrente da suposta prática de novo crime doloso pode ser condicionada à superveniência de sentença penal condenatória; e (ii) saber se a notícia do novo delito autoriza, de modo imediato, a regressão cautelar ao regime fechado e a revogação da monitoração eletrônica.
+
+III. Razões de decidir
+1. O reconhecimento da falta grave decorrente da prática de fato definido como crime doloso no curso da execução penal não exige condenação criminal transitada em julgado. As esferas penal e administrativo-disciplinar são autônomas, desde que a apuração executória observe o devido processo legal, o contraditório e a ampla defesa.
+
+2. A audiência de justificação constitui o meio processual adequado para a apuração imediata do fato. Nela, a pessoa condenada poderá apresentar sua versão, requerer provas e impugnar os elementos constantes dos autos antes da decisão sobre a falta grave e seus efeitos.
+
+3. Diante da autonomia da esfera disciplinar, a apuração da falta grave deve ocorrer de forma oportuna no curso da execução da pena, mediante audiência de justificação, sem necessidade de aguardar a prolação de sentença na ação penal. 4. A concessão de liberdade provisória no processo criminal não impede a aplicação de medidas disciplinares na execução penal. Contudo, a regressão de regime e a revogação da monitoração eletrônica não decorrem automaticamente da notícia de novo delito e exigem fundamentação concreta quanto à necessidade e à proporcionalidade da medida.
+
+5. A audiência de justificação permitirá ao Juízo da Execução verificar a ocorrência da falta grave e, se reconhecida, definir os consectários adequados, inclusive eventual regressão de regime, perda de dias remidos e revogação da monitoração eletrônica.
+
+IV. Dispositivo e tese
+Agravo conhecido e, no mérito, parcialmente provido para reformar a decisão recorrida e determinar a realização de audiência de justificação destinada à apuração fática da falta grave e à análise de seus consectários legais.
+
+Tese de julgamento: a apuração de falta grave decorrente da suposta prática de fato definido como crime doloso no curso da execução penal independe do trânsito em julgado da condenação criminal, desde que observados o devido processo legal, o contraditório e a ampla defesa. A regressão cautelar de regime e a revogação da monitoração eletrônica não constituem consequências automáticas da notícia de novo delito e exigem análise concreta, após a audiência de justificação, quanto à necessidade e à proporcionalidade das medidas.
+
+_______________________Dispositivos relevantes citados: Lei de Execução Penal, arts. 197, 52, 118, I e § 2º, e 146-C; Código de Processo Penal, arts. 586 e 588; Constituição Federal, arts. 97 e 5º, LVII.
+
+Jurisprudência relevante citada: STJ, Súmula 526, Terceira Seção, julgada em 13/5/2015, DJe de 18/5/2015; STF, RE 776.823, Tema 758 da repercussão geral, Tribunal Pleno, Rel. Min. Edson Fachin, julgado em 7/12/2020, DJe de 23/2/2021; TJPR, 3ª Câmara Criminal, Agravo em Execução Penal nº 4000772-98.2026.8.16.4321, Rel. Des. Benjamim Acácio de Moura e Costa, julgado em 6/5/2026; TJPR, 4ª Câmara Criminal, Agravo em Execução nº 4001025-86.2026.8.16.4321, Rel. Des. Celso Jair Mainardi, julgado em 11/5/2026; STJ, AgRg no AREsp nº 3.049.033/RO, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, julgado em 16/6/2026, DJEN de 23/6/2026; TJPR, 3ª Câmara Criminal, Agravo em Execução nº 4000077-26.2025.8.16.0136, Rel. Paulo Damas, julgado em 8/3/2026; TJPR, 3ª Câmara Criminal, Agravo em Execução Penal nº 4002957-12.2026.8.16.4321, Rel. Des. Humberto Luiz Carapunarla, julgado em 23/8/2026.
+
+Resumo em linguagem acessível: O Tribunal determinou que o Juízo da Execução realize desde logo uma audiência para apurar a possível falta grave, sem precisar aguardar o fim do processo pelo novo crime. A agravada deverá ser ouvida antes da definição das consequências. A regressão ao regime fechado e a retirada da monitoração eletrônica não foram impostas de imediato e dependerão da análise concreta realizada após essa audiência.
+
+I. RELATÓRIO
+
+Cuida-se de recurso de agravo em execução penal interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ em face da decisão proferida pelo Juízo da Vara de Execuções Penais, Medidas Alternativas e Corregedoria dos Presídios do Foro Central da Comarca da Região Metropolitana de Curitiba no mov. 484.1 dos autos de execução nº 4002240-11.2021.8.16.0009 (SEEU), e mantida em juízo de retratação (mov. 506.1, SEEU). A referida decisão postergou a análise definitiva de falta grave atribuída à agravada, decorrente da suposta prática de novo crime doloso no curso da execução, até a superveniência de sentença penal condenatória na ação penal correspondente, e indeferiu o pedido de designação de audiência de justificação, restabelecendo o regime semiaberto harmonizado com monitoração eletrônica.
+
+Conforme se verifica, a agravada cumpre pena privativa de liberdade de 8 (oito) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, imposta nos autos nº 0002174-23.2021.8.16.0196, pela prática do crime de roubo majorado pelo emprego de arma de fogo. Encontrava-se em regime semiaberto harmonizado com monitoração eletrônica.
+
+No decorrer desta execução, sobreveio notícia da prática de novo delito pela pessoa sentenciada (mov. 473.1, SEEU). Conforme consta dos autos, a agravada foi presa em flagrante em 13 de junho de 2026, pela suposta prática do crime de receptação, no bojo dos autos nº 0007763-20.2026.8.16.0196, em trâmite perante a Central de Garantias Especializada de Curitiba/PR. Naquela oportunidade, foi concedida liberdade provisória à agravada, com imposição de medidas cautelares diversas da prisão.
+
+Diante da notícia da nova prática delitiva, o Ministério Público requereu a designação de audiência de justificação para apuração da falta grave (mov. 476.1, SEEU), a alteração da data-base e a regressão cautelar de regime, com a consequente revogação da monitoração eletrônica. A Defensoria Pública, em manifestação (mov. 479.1, SEEU), pugnou pelo aguardo da sentença no processo de conhecimento para a homologação da falta grave, de modo a privilegiar o contraditório e a ampla defesa em sua plenitude.
+
+O Juízo da Execução proferiu a decisão ora agravada (mov. 484.1, SEEU), na qual determinou que se aguardasse a juntada da sentença condenatória referente à suposta prática de novo delito para a análise definitiva da respectiva falta grave, sob o fundamento de que seria razoável e proporcional promover a homologação definitiva somente após a superveniência de eventual decreto condenatório, em detrimento da realização de audiência de justificação. Determinou, ainda, a alteração cautelar da data-base para o dia do fato e o restabelecimento da monitoração eletrônica em regime semiaberto harmonizado, afastando a regressão cautelar ao regime fechado em razão da concessão de liberdade provisória na esfera criminal.
+
+Inconformado com a postergação da apuração disciplinar e com o indeferimento da designação de audiência de justificação, o Ministério Público interpôs o presente agravo em execução (mov. 488.1, SEEU), sustentando que a prática de fato definido como crime doloso, mesmo sem trânsito em julgado, é suficiente para configurar a falta grave, conforme os artigos 52 e 118, inciso I, da Lei de Execução Penal, e o entendimento consolidado na Súmula 526 do Superior Tribunal de Justiça e no Tema 758 da Repercussão Geral do Supremo Tribunal Federal. Requereu a reforma da decisão para que seja imediatamente designada a audiência de justificação, com a revogação da harmonização de regime e a manutenção da agravada no regime fechado, além da análise das consequências disciplinares cabíveis.
+
+A Defensoria Pública, em sede de contrarrazões (mov. 500.1, SEEU), pugnou pelo não provimento do recurso ministerial, argumentando que a decisão recorrida aplicou corretamente o princípio da proporcionalidade e da segurança jurídica, sendo legítima a opção judicial de aguardar o desfecho da ação penal de conhecimento para a análise definitiva da falta grave. Sustentou, ainda, que a audiência de justificação, por sua natureza de cognição sumária, geraria risco de decisões conflitantes com a futura sentença criminal, e que a manutenção do regime semiaberto harmonizado seria a medida mais adequada diante da concessão de liberdade provisória na esfera criminal.
+
+O Juízo singular, em juízo de retratação (mov. 506.1, SEEU), manteve a decisão agravada por seus próprios fundamentos.
+
+A Procuradoria-Geral de Justiça, em seu parecer (mov. 16.1), manifestou-se pelo conhecimento e provimento do recurso ministerial, reiterando a independência das esferas penal e administrativo-disciplinar, a desnecessidade de trânsito em julgado para a apuração da falta grave e a obrigatoriedade da designação imediata da audiência de justificação, em observância ao devido processo legal, ao contraditório e à ampla defesa.
+É o relatório.
+
+II. VOTO E SUA FUNDAMENTAÇÃO
+
+1. Da admissibilidade do recurso
+
+Presentes os pressupostos intrínsecos (cabimento, legitimação, interesse e inexistência de fato impeditivo ou extintivo) e extrínsecos (tempestividade e regularidade formal), na forma do art. 197 da Lei de Execução Penal e na Súmula 700 do Supremo Tribunal Federal, bem como dos artigos 586 e 588 do Código de Processo Penal de aplicação subsidiária, conheço do agravo em execução penal.
+
+2. Do mérito: necessidade de imediata apuração da falta grave
+
+O cerne do debate no presente recurso reside em verificar se a decisão do Juízo de primeiro grau, que condicionou a apuração da falta grave decorrente da suposta prática de novo crime doloso à superveniência de sentença penal condenatória (mov. 484.1, SEEU), alinha-se com as disposições da Lei de Execução Penal e com a jurisprudência consolidada dos Tribunais Superiores.
+
+Não se examina, neste momento, a procedência da imputação disciplinar, mas tão somente a necessidade de imediata instauração do procedimento apto à sua apuração, mediante audiência de justificação.
+
+Após a análise detida dos autos e dos argumentos apresentados, conclui-se que o posicionamento do Ministério Público é o que prevalece, sendo impositiva a reforma da decisão recorrida para determinar a imediata designação da audiência de justificação.
+
+O cometimento de fato definido como crime doloso pela apenada, durante o cumprimento de sua pena, configura, de maneira incontestável, falta disciplinar de natureza grave, conforme expressamente previsto nos artigos 52 e 118, inciso I, da Lei de Execução Penal.
+
+Essa previsão legal estabelece uma infração disciplinar de natureza objetiva, cuja caracterização se vincula à mera existência do fato com indícios suficientes de autoria e materialidade, e não à exigência de uma condenação criminal transitada em julgado. Essa distinção é crucial, pois reforça a autonomia e independência entre a esfera penal e a esfera administrativa disciplinar.
+
+É de fundamental importância destacar que o Superior Tribunal de Justiça, através de sua consolidada jurisprudência, sedimentou o entendimento de que a apuração e o consequente reconhecimento da falta grave na execução penal não estão condicionados ao trânsito em julgado da sentença penal condenatória referente ao novo delito.
+
+A razão para tal orientação reside na necessidade de que o reconhecimento do ilícito disciplinar, com seus efeitos inerentes à execução da pena, como a interrupção do prazo para a progressão de regime, não seja prejudicado pela lentidão processual que, por vezes, caracteriza o processo de conhecimento criminal.
+
+Essa diretriz encontra-se expressa pelo Superior Tribunal de Justiça:
+
+O reconhecimento de falta grave decorrente do cometimento de fato definido como crime doloso no cumprimento da pena prescinde do trânsito em julgado de sentença penal condenatória no processo penal instaurado para apuração do fato. (Súmula n.
+ 526, Terceira Seção, julgado em 13/5/2015, DJe de 18/5/2015 - grifo nosso).
+
+Em reforço a esse entendimento, o Supremo Tribunal Federal, ao fixar a tese de Repercussão Geral do Tema 758, solidificou essa orientação:
+
+RECURSO EXTRAORDINÁRIO. PROCESSO PENAL. REPERCUSSÃO GERAL. TEMA DE REPERCUSSÃO GERAL 758: NECESSIDADE DE CONDENAÇÃO COM TRÂNSITO EM JULGADO PARA SE CONSIDERAR COMO FALTA GRAVE, NO ÂMBITO ADMINISTRATIVO CARCERÁRIO, A PRÁTICA DE FATO DEFINIDO COMO CRIME DOLOSO. ARTS. 52, CAPUT, E 118, I, DA LEI DE EXECUÇÃO PENAL. CLÁUSULA DE RESERVA DE PLENÁRIO (ART. 97 DA CF). PRESUNÇÃO DE INOCÊNCIA (ART. 5º, LVII, DA CF). PRECEDENTES DO STF. RECURSO EXTRAORDINÁRIO A QUE SE DÁ PROVIMENTO. (...) 4. Recurso extraordinário a que se dá provimento, com a fixação da seguinte tese: o reconhecimento de falta grave consistente na prática de fato definido como crime doloso no curso da execução penal dispensa o trânsito em julgado da condenação criminal no juízo do conhecimento, desde que a apuração do ilícito disciplinar ocorra com observância do devido processo legal, do contraditório e da ampla defesa, podendo a instrução em sede executiva ser suprida por sentença criminal condenatória que verse sobre a materialidade, a autoria e as circunstâncias do crime correspondente à falta grave. (RE 776823, Relator(a): EDSON FACHIN, Tribunal Pleno, julgado em 07-12-2020, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-033 DIVULG 22-02-2021 PUBLIC 23-02-2021 - grifo nosso).
+
+Outro não tem sido o entendimento desta Terceira Câmara Criminal
+
+AGRAVO EM EXECUÇÃO PENAL. DECISÃO QUE POSTERGOU A ANÁLISE DEFINITIVA DO COMETIMENTO DE FALTA GRAVE, CONSISTENTE NA PRÁTICA DE CRIME DOLOSO, ATÉ A PROLAÇÃO DE SENTENÇA CONDENATÓRIA. INSURGÊNCIA MINISTERIAL. PLEITO DE DESIGNAÇÃO DE AUDIÊNCIA DE JUSTIFICAÇÃO. ACOLHIMENTO. PRESCINDIBILIDADE DE SENTENÇA CONDENATÓRIA OU DE TRÂNSITO EM JULGADO PARA APRECIAR A FALTA GRAVE. NECESSIDADE DE DESIGNAÇÃO DE AUDIÊNCIA JUSTIFICATIVA. REFORMA DA DECISÃO DE ORIGEM QUE SE IMPÕE. RECURSO CONHECIDO E PROVIDO. (...) 7. A postergação da análise da falta até o trânsito em julgado da ação penal contraria jurisprudência consolidada dos Tribunais Superiores, além de prejudicar o apenado, que permanece em regime mais gravoso de forma cautelar e indefinida, sem acesso à devida instrução. (...) A prática de novo crime doloso durante a execução da pena caracteriza falta grave, permitindo a apuração e a aplicação de sanções disciplinares independentemente do trânsito em julgado da sentença penal condenatória, desde que respeitados os princípios do contraditório e da ampla defesa. (...) (TJPR - 3ª Câmara Criminal - 4000772-98.2026.8.16.4321 - * Não definida - Rel.: DESEMBARGADOR BENJAMIM ACÁCIO DE MOURA E COSTA - J. 06.05.2026 - grifo nosso).
+
+No caso específico da agravada, houve a notícia formal da prática, em tese, de infração penal correlacionada ao crime de receptação no curso da execução penal, com prisão em flagrante registrada em 13 de junho de 2026 nos autos nº 0007763-20.2026.8.16.0196. Conforme se extrai do auto de prisão em flagrante e dos depoimentos colhidos naqueles autos, a agravada confessou ter adquirido bicicleta produto de furto, pagando pelo objeto a quantia de R$ 20,00 e entregando um aparelho celular, tendo a bicicleta sido recuperada pela equipe policial.
+
+A agravada, que cumpre pena de 8 (oito) anos, 10 (dez) meses e 20 (vinte) dias de reclusão por roubo majorado pelo emprego de arma de fogo (autos nº 0002174-23.2021.8.16.0196), encontrava-se em regime semiaberto harmonizado com monitoração eletrônica quando da prática do novo fato delituoso.
+
+Embora as referidas apurações penais estivessem em andamento no momento da decisão, a imputação de novos fatos delituosos contemporâneos demonstra a necessidade de pronta apuração da conduta disciplinar da apenada, com a instauração do devido procedimento administrativo no âmbito da execução penal.
+A apuração disciplinar da falta grave não tem como objetivo substituir o julgamento criminal, nem antecipar a culpa da apenada na esfera penal, como argumentado pela Defensoria em suas contrarrazões. Ao contrário, a avaliação na esfera executória visa exclusivamente à análise da conduta da apenada para fins de ressocialização, manutenção da disciplina e adequação ou revogação de benefícios penais.
+
+A tese defensiva confunde o reconhecimento da responsabilidade penal pelo novo delito com a apuração disciplinar, em sede executória, de fato que, em tese, caracteriza falta grave.
+
+A realização da audiência de justificação, nesse contexto, é o meio processual adequado para assegurar o contraditório e a ampla defesa, nos termos do artigo 118, parágrafo 2º, da Lei de Execução Penal. Dessa forma, a apenada terá a oportunidade de ser ouvido e de apresentar sua versão dos fatos antes de qualquer deliberação definitiva sobre a falta grave e seus consectários legais.
+
+É nesse espaço que se assegura à apenada ainda eventuais requerimento de produção de provas pertinentes e impugnação dos elementos já constantes dos autos, afastando-se, por conseguinte, qualquer alegação de afronta às garantias constitucionais.
+
+Eventuais limitações decorrentes da natureza sumária do incidente não comprometem a sua validade, na medida em que o juízo executório não se destina à apuração da responsabilidade penal em sentido estrito, mas, tão somente, à verificação da ocorrência de fato dotado de relevância disciplinar. Tal conclusão, ademais, não é irreversível, sendo passível de revisão futura, caso sobrevenha absolvição na esfera penal.
+
+Dessa forma, diante da autonomia das instâncias penal e executória, mostra-se recomendável a pronta apuração do fato disciplinar mediante audiência de justificação, sem necessidade de aguardar a prolação de sentença na esfera criminal, haja vista a relevância imediata do incidente no curso da execução da pena. Corroborando o exposto, a jurisprudência deste Tribunal de Justiça tem se firmado na mesma direção:
+
+EXECUÇÃO PENAL. RECURSO DE AGRAVO. DECISÃO QUE POSTERGOU A DESIGNAÇÃO DA AUDIÊNCIA DE JUSTIFICAÇÃO ATÉ QUE SOBREVENHA SENTENÇA CONDENATÓRIA NA AÇÃO PENAL QUE APURA O NOVO DELITO PRATICADO NO CURSO DA EXECUÇÃO. INSURGÊNCIA MINISTERIAL. PRÁTICA DE FATO PREVISTO COMO CRIME DOLOSO. PRESCINDÍVEL O TRÂNSITO EM JULGADO DA SENTENÇA PENAL CONDENATÓRIA. NECESSIDADE DE AUDIÊNCIA DE JUSTIFICAÇÃO PARA A HOMOLOGAÇÃO DE FALTA GRAVE E IMPOSIÇÃO DAS CONSEQUÊNCIAS LEGAIS. RECURSO CONHECIDO E PROVIDO. (...) 5. O adiamento da análise da falta grave prejudica o agravado, pois impede que as consequências da falta sejam aplicadas no processo executório. IV. Dispositivo e tese Recurso conhecido e provido. Tese de julgamento: "A prática de fato definido como crime doloso durante a execução penal caracteriza falta grave, permitindo a regressão de regime, independentemente do trânsito em julgado da sentença condenatória, sendo necessária a realização de audiência de justificação para apuração da falta e observância do devido processo legal, do contraditório e da ampla defesa" (...) (TJPR - 4ª Câmara Criminal - 4001025-86.2026.8.16.4321 - * Não definida - Rel.: DESEMBARGADOR CELSO JAIR MAINARDI - J. 11.05.2026 - grifo nosso).
+
+Registre-se que o objeto do presente recurso se restringe à falta grave decorrente do novo delito, sem prejuízo da apuração autônoma, na origem, do descumprimento das condições da monitoração eletrônica (mov. 471, SEEU).
+3. Da reserva da decisão sobre regressão de regime e revogação da monitoração eletrônica
+
+Quanto ao pedido ministerial de imediata regressão cautelar ao regime fechado e revogação da monitoração eletrônica, cumpre registrar que a concessão de liberdade provisória na esfera criminal não impede, por si só, a aplicação de medidas disciplinares na execução penal, dada a independência das esferas de apuração e sancionamento.
+
+Contudo, a análise sobre a necessidade e adequação da regressão de regime, seja em caráter cautelar ou definitivo, bem como sobre a eventual revogação da monitoração eletrônica, exige instrução prévia em audiência de justificação, com a colheita de elementos concretos em contraditório, para que o Juízo da Execução possa deliberar sobre a medida mais adequada ao caso concreto.
+
+A regressão cautelar de regime prisional é medida de caráter provisório e está autorizada pelo poder geral de cautela do juízo da execução, podendo ser aplicada mediante fundamentação idônea. Todavia, a aplicação de tal medida pressupõe a existência de elementos probatórios mínimos que justifiquem a urgência e a necessidade da providência, os quais devem ser apreciados após a oitiva da apenada em audiência de justificação.
+
+Colhe-se, neste sentido, entendimento do Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. MONITORAMENTO ELETRÔNICO. VIOLAÇÃO DE PERÍMETRO. FALTA GRAVE. NÃO CONFIGURAÇÃO AUTOMÁTICA. PROPORCIONALIDADE E GRADAÇÃO DE SANÇÕES. ART. 146-C DA LEP. ADVERTÊNCIA. ADEQUAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO. (...) 2. O sistema sancionatório da execução penal não pode funcionar em lógica binária - tudo ou nada -, e deve estabelecer gradação proporcional que preserve tanto a autoridade da decisão judicial quanto a finalidade ressocializadora da pena. Interpretar o dispositivo de forma a impor automaticamente homologação de falta grave, com interrupção dos prazos para progressão de regime, perda de dias remidos e regressão de regime em qualquer hipótese de descumprimento esvazia a lógica gradual do art. 146-C da Lei de Execução Penal e compromete os princípios da individualização da pena e da ressocialização. (...) (AgRg no AREsp n. 3.049.033/RO, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 16/6/2026, DJEN de 23/6/2026 - grifo nosso).
+
+Entendimento também consolidado nesta Terceira Câmara Criminal:
+DIREITO PENAL E EXECUÇÃO PENAL. AGRAVO EM EXECUÇÃO. REGIME SEMIABERTO HARMONIZADO. MONITORAÇÃO ELETRÔNICA. DESCUMPRIMENTO DE CONDIÇÕES. JUSTIFICATIVAS ACOLHIDAS. ADVERTÊNCIA POR ESCRITO. PEDIDO DE REGRESSÃO AO REGIME FECHADO. PRINCÍPIOS DA RAZOABILIDADE, PROPORCIONALIDADE E INDIVIDUALIZAÇÃO DA EXECUÇÃO PENAL. DISCRICIONARIEDADE DO JUÍZO DA EXECUÇÃO. RECURSO DESPROVIDO. (...) 1. A violação das condições do monitoramento eletrônico não implica, de forma automática, o reconhecimento de falta grave ou a regressão do regime prisional, devendo ser analisadas as circunstâncias concretas do caso. (...) (TJPR - 3ª Câmara Criminal - 4000077-26.2025.8.16.0136 - * Não definida -
+ Rel.: PAULO DAMAS -
+ J. 08.03.2026 - grifo nosso).
+Do qual também partilha este Relator:
+DIREITO PENAL. EXECUÇÃO PENAL. AGRAVO EM EXECUÇÃO PENAL. APURAÇÃO DE FALTA GRAVE DECORRENTE DA SUPOSTA PRÁTICA DE NOVO CRIME DOLOSO DURANTE A EXECUÇÃO DA PENA. DESNECESSIDADE DE TRÂNSITO EM JULGADO PARA INSTAURAÇÃO DO PROCEDIMENTO DISCIPLINAR. NECESSIDADE DE AUDIÊNCIA DE JUSTIFICAÇÃO. REGRESSÃO CAUTELAR NÃO AUTOMÁTICA. AGRAVO CONHECIDO E, NO MÉRITO, PARCIALMENTE PROVIDO. (...) A regressão cautelar do regime prisional não constitui consequência automática da notícia de novo delito, exigindo fundamentação concreta acerca de sua necessidade e proporcionalidade. (...) (TJPR - 3ª Câmara Criminal - 4002957-12.2026.8.16.4321 - * Não definida - Rel.: HUMBERTO LUIZ CARAPUNARLA - J. 23.08.2026 - grifo nosso).
+No caso em exame, o Juízo singular restabeleceu a monitoração eletrônica em regime semiaberto harmonizado, considerando que na esfera criminal foi concedida liberdade provisória à agravada, não tendo sido vislumbrado risco à ordem pública. Tal decisão, embora passível de revisão após a devida instrução, não pode ser afastada de plano sem que se oportunize à apenada o exercício do contraditório e da ampla defesa no âmbito da execução penal.
+
+A realização da audiência de justificação permitirá ao Juízo da Execução avaliar, com base em elementos concretos e colhidos em contraditório, se a prática do fato definido como crime doloso configura falta grave e, em caso positivo, quais as consequências disciplinares adequadas, incluindo a possibilidade de regressão de regime, a perda de dias remidos e a revogação da monitoração eletrônica.
+
+Desse modo, impõe-se a reforma parcial da decisão agravada para que se proceda à apuração imediata da falta grave por meio da designação de audiência de justificação, independentemente da prolação de sentença na ação penal de conhecimento, em consonância com a orientação jurisprudencial dos Tribunais Superiores e desta Corte de Justiça. III. DISPOSITIVO
+
+Ante o exposto, voto no sentido de CONHECER do recurso de AGRAVO EM EXECUÇÃO PENAL e, no mérito, DAR-LHE PARCIAL PROVIMENTO, para o fim de reformar a decisão agravada, determinando que o Juízo da Execução promova a realização de audiência de justificação destinada à apuração fática.É o voto.
