@@ -1,0 +1,633 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 14
+
+13/10/2026
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.613.966
+DISTRITO FEDERAL
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. ALEXANDRE DE MORAES
+: VALDINEI FERREIRA DOS SANTOS
+: ALDENIO LAECIO DA COSTA CARDOSO
+: MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E
+TERRITÓRIOS
+: PROCURADOR-GERAL DE JUSTIÇA DO DISTRITO
+FEDERAL E TERRITÓRIOS
+
+EMENTA:
+DIREITO
+PROCESSUAL
+PENAL.
+AGRAVO
+REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO.
+TRÁFICO DE DROGAS. INGRESSO EM DOMICÍLIO. FLAGRANTE DE
+CRIME PERMANENTE. FUNDADAS RAZÕES. AUSÊNCIA DE
+DEMONSTRAÇÃO
+FORMAL
+E
+FUNDAMENTADA
+DA
+REPERCUSSÃO GERAL. NECESSIDADE DE REEXAME DO
+CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA
+279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+I. CASO EM EXAME
+1. Agravo Regimental interposto contra decisão pela qual neguei
+seguimento ao Recurso Extraordinário com Agravo aos fundamentos de
+que: (a) não houve a demonstração fundamentada da presença de
+repercussão geral da questão veiculada no recurso extremo; (b) o exame
+da pretensão veiculada neste apelo situa-se no contexto normativo
+infraconstitucional, de forma que as ofensas à CONSTITUIÇÃO
+FEDERAL são meramente indiretas (ou mediatas); (c) a reforma do
+julgado passa, necessariamente, pelo reexame do conjunto fáticoprobatório dos autos, providência vedada em sede de Recurso
+Extraordinário, conforme Súmula 279/STF.
+II. QUESTÃO EM DISCUSSÃO
+2. Inaplicabilidade dos óbices apontados na decisão monocrática.
+III. RAZÕES DE DECIDIR
+3.
+Questões relacionadas à validade do ingresso domiciliar,
+considerado legítimo pelas instâncias antecedentes, demandariam o
+reexame do conjunto probatório.
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AEB0-CDDC-C40D-9942 e senha EE5A-9ADA-2B26-80CE
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 14
+
+ARE 1613966 AGR / DF
+4. A revisão da conclusão adotada pelo Tribunal pressupõe o
+reexame do conjunto fático-probatório dos autos, providência inviável
+em sede extraordinária, nos termos da Súmula 279/STF.
+IV. DISPOSITIVO E TESE
+5. Agravo Regimental a que se nega provimento.
+_________
+Atos normativos citados: CF/1988, art. 5º, XI, LV e LVI; art. 102, § 3º.
+CPC, art. 1.035, § 2º. RISTF, art. 21, § 1º e art. 327, § 1º.
+Jurisprudência relevante citada: STF, Tema 280 da repercussão geral,
+RE 603.616; STF, ARE 691.595-AgR, Rel. Min. Ricardo Lewandowski,
+Segunda Turma, DJe 25.02.2013; STF, ARE 696.347-AgR-segundo, Rel.
+Min. Cármen Lúcia, Segunda Turma, DJe 14.02.2013; STF, ARE 696.263AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 19.02.2013; STF, AI
+717.821-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 13.08.2012;
+STF, Súmula 279.
+
+ACÓRDÃO:
+A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto do Relator, Ministro Alexandre de
+Moraes.
+Publique-se.
+Brasília, 13 de outubro de 2026.
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
+
+2
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AEB0-CDDC-C40D-9942 e senha EE5A-9ADA-2B26-80CE
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 14
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.613.966
+DISTRITO FEDERAL
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. ALEXANDRE DE MORAES
+: VALDINEI FERREIRA DOS SANTOS
+: ALDENIO LAECIO DA COSTA CARDOSO
+: MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E
+TERRITÓRIOS
+: PROCURADOR-GERAL DE JUSTIÇA DO DISTRITO
+FEDERAL E TERRITÓRIOS
+RELATÓRIO
+
+O SENHOR MINISTRO ALEXANDRE DE MORAES (RELATOR):
+Trata-se de Agravo Regimental interposto contra decisão pela qual
+neguei seguimento ao Recurso Extraordinário com Agravo aos
+fundamentos de que: (a) não houve a demonstração fundamentada da
+presença de repercussão geral da questão veiculada no recurso extremo;
+(b) o exame da pretensão veiculada neste apelo situa-se no contexto
+normativo infraconstitucional, de forma que as ofensas à CONSTITUIÇÃO
+FEDERAL são meramente indiretas (ou mediatas); (c) a reforma do julgado
+passa, necessariamente, pelo reexame do conjunto fático-probatório dos
+autos, providência vedada em sede de Recurso Extraordinário, conforme
+Súmula 279/STF (Doc. 257).
+Em suas razões, a parte agravante alega, em resumo, que “(...) cumpre
+notar que o Recurso Extraordinário preencheu o requisito recursal da repercussão
+geral. As questões discutidas são de ordem pública e oferecem repercussão geral,
+pois ultrapassam os interesses subjetivos das partes litigantes, sendo relevantes do
+ponto de vista econômico, social e jurídico” (Doc. 259, fl. 6).
+Além disso, afirma que “[a]s situações descritas pela Defesa constam todas
+no Acórdão. Por exemplo, a Defesa alegou que uma denúncia anônima, por si só,
+não satisfaz a exigência legal de justa causa (fundada suspeita) para uma
+abordagem policial, quem dirá de um ingresso em domicílio”(Doc. 259, fl. 10).
+Requer, assim, o conhecimento e o provimento do recurso.
+É o relatório.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 04D0-4619-AA0D-A76B e senha 4C6D-57BC-AB9C-2C3E
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 4 de 14
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.613.966
+DISTRITO FEDERAL
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. ALEXANDRE DE MORAES
+: VALDINEI FERREIRA DOS SANTOS
+: ALDENIO LAECIO DA COSTA CARDOSO
+: MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E
+TERRITÓRIOS
+: PROCURADOR-GERAL DE JUSTIÇA DO DISTRITO
+FEDERAL E TERRITÓRIOS
+VOTO
+
+O SENHOR MINISTRO ALEXANDRE DE MORAES (RELATOR): Eis
+o teor da decisão agravada (Doc. 257):
+
+Trata-se de Agravo em Recurso Extraordinário interposto
+em face de acórdão proferido pelo Tribunal de Justiça do
+Distrito Federal (TJDFT), assim ementado (Doc. 174, fl. 1):
+DIREITO PENAL. APELAÇÃO. TRÁFICO DE
+DROGAS. PRELIMINAR DE ILICITUDE DA PROVA.
+VIOLAÇÃO DE DOMICÍLIO. REJEITADA. AUTORIA E
+MATERIALIDADE. RELEVÂNCIA DA PALAVRA DOS
+POLICIAIS. FORÇA PROBATÓRIA. DOSIMETRIA. ART.
+42 DA LAD. NATUREZA E QUANTIDADE DA DROGA.
+CIRCUNSTÂNCIA
+ÚNICA.
+VALORAÇÃO
+DESFAVORÁVEL. CABÍVEL. DUPLA VALORAÇÃO.
+INVIÁVEL. CRITÉRIO NORTEADOR. REGIME DE
+INÍCIO DE CUMPRIMENTO DA PENA. MANTIDO.
+RECORRER EM LIBERDADE. IMPOSSIBILIDADE.
+I. CASO EM EXAME
+1. Apelação contra a sentença condenatória pelos
+crimes de tráfico de drogas e posse irregular de arma de
+fogo de uso permitido (art. 33, caput, da Lei 11.343/06 e
+art. 12, caput, da Lei 10.826/03).
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5F11-552B-9605-B794 e senha 689F-8107-C072-913E
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 5 de 14
+
+ARE 1613966 AGR / DF
+II. QUESTÕES EM DISCUSSÃO
+2. (I) verificar eventual nulidade em razão da
+abordagem policial; (II) examinar a possibilidade de
+absolvição quanto ao delito de tráfico de drogas; (III)
+analisar se adequada a dosimetria da pena; (IV) perquirir
+se possível a soltura do acusado para responder em
+liberdade.
+III. RAZÕES DE DECIDIR
+3. O Supremo Tribunal Federal, ao apreciar o Tema
+280 (RE 603.616) sob a sistemática de repercussão geral,
+fixou a seguinte tese: “a entrada forçada em domicílio sem
+mandado judicial só é lícita, mesmo em período noturno,
+quando amparada em fundadas razões, devidamente
+justificadas a posteriori, que indiquem que dentro da casa
+ocorre situação de flagrante delito, sob pena de
+responsabilidade disciplinar, civil e penal do agente ou da
+autoridade, e de nulidade dos atos praticados”.
+4. Rejeita-se a preliminar de nulidade referente a
+entrada dos policiais no domicílio quando a atuação foi
+embasada em fortes indícios da prática de delito, o que
+configura exceção ao princípio da inviolabilidade de
+domicílio, previsto no art. 5º, XI, da Constituição Federal.
+5.
+A
+palavra
+de
+policiais,
+testemunhas
+compromissadas na forma da lei, sobre o que
+presenciaram no exercício das suas atribuições, goza da
+presunção
+de
+legitimidade
+inerente
+aos
+atos
+administrativos em geral. Precedentes TJDFT.
+6. Se as condições em que se desenvolveu a ação,
+além das informações obtidas a partir do depoimento de
+testemunhas e demais provas acostadas aos autos,
+evidenciam que a droga se destinava à mercancia ilícita, é
+inviável o acolhimento do pedido de absolvição.
+
+2
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5F11-552B-9605-B794 e senha 689F-8107-C072-913E
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 6 de 14
+
+ARE 1613966 AGR / DF
+7. Consoante entendimento do Superior Tribunal de
+Justiça e desta egrégia Corte, é legítimo o incremento da
+pena na primeira etapa da dosimetria com a valoração
+negativa da circunstância do art. 42 da LAD quando
+expressiva a quantidade de cocaína (239,11g) e em razão
+do seu alto potencial nocivo.
+8. A quantidade e a natureza da droga devem ser
+valoradas como uma única circunstância desfavorável.
+9. A jurisprudência dominante entende como mais
+adequada a exasperação da pena-base com a majoração
+equivalente a 1/8 da diferença entre as penas mínima e
+máxima para cada circunstância judicial desfavorável.
+Entretanto, tendo sido utilizado em sentença o critério de
+1/10 entre o lapso da pena máxima e mínima, deve ser
+mantido porquanto mais benéfico ao réu.
+10. Tratando-se de réu reincidente e portador de
+circunstâncias desfavoráveis, possível a fixação de regime
+inicial mais gravoso, consoante diretriz do art. 33, §3º, do
+Código Penal.
+11.
+A
+pena
+pecuniária
+deve
+proporcionalidade com a reprimenda corporal.
+
+guardar
+
+12. Tendo o agente permanecido preso durante toda
+a instrução processual, não deve ser permitido recorrer em
+liberdade quando inalteradas as circunstâncias que
+justificaram a custódia antecipada.
+IV. DISPOSITIVO 13. Recurso conhecido
+parcialmente provido. Preliminar rejeitada.
+
+e
+
+Consta dos autos, em síntese, que o Ministério
+Público do Distrito Federal e Territórios (MPDFT) ofereceu
+denúncia contra VALDINEI FERREIRA DOS SANTOS, como
+
+3
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5F11-552B-9605-B794 e senha 689F-8107-C072-913E
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 7 de 14
+
+ARE 1613966 AGR / DF
+incurso nas penas do art. 33, caput, da Lei nº 11.343/2006, bem
+assim art. 12, caput, da Lei nº 10.826/2003 (Doc. 36).
+A ação penal foi julgada procedente para condenar o réu
+VALDINEI, como incurso nas penas do art. 33, caput, da Lei n.
+11.343/2006 e art. 12, caput, da Lei n. 10.826/2003, a pena
+definitiva em 08 (oito) anos e 02 (dois) meses de reclusão e 817
+(oitocentos e dezessete) dias-multa (Doc. 115).
+Interposto recurso de Apelação pela defesa de VALDINEI
+FERREIRA DOS SANTOS, foi ele parcialmente provido para
+“reduzir a pena do delito de tráfico de drogas para 7 anos de
+reclusão, no regime fechado, acrescida de 700 dias-multa,
+mantidas a pena de 1 ano de detenção e 10 dias-multa, pelo
+delito de posse de arma de fogo” (Doc. 174).
+Com amparo no art. 102, III, “a”, da CF/88, o acusado
+interpôs Recurso Extraordinário, no qual sustenta que o
+acórdão violou o artigo 5°, incisos XI, LV e LVI da CF/88 (Doc.
+186).
+Nas razões recursais, argumenta que “a Defesa pugnou
+pela violação de domicílio em razão da nulidade flagrancial,
+tendo em vista a falta de elementos que embasassem as
+fundadas razões para a abordagem policial do referido Embora
+a Defesa tenha se esforçado arduamente, desde o início da
+tramitação do feito, reunindo todas as fundamentações para
+estruturar e documentar a ausência de elementos de
+materialidade e autoria do Recorrente para o crime de tráfico, o
+Acórdão recorrido rejeitou os fundamentos da defesa, também
+condenando o Recorrente pelo crime de tráfico, o que é um
+equívoco” (Doc. 186, fl.9).
+Diz que em razão “da falta de elementos que gerassem a
+abordagem policial, não haveria a entrada dos agentes na
+residência do réu, tampouco sua prisão em flagrante, com base
+na teoria do fruto da árvore envenenada, amplamente
+
+4
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5F11-552B-9605-B794 e senha 689F-8107-C072-913E
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 8 de 14
+
+ARE 1613966 AGR / DF
+difundido” (Doc. 186, fl. 14).
+Sustenta, por fim, que “[o] que existe no processo, é a
+versão policial desamparada por qualquer comprovação de
+seus atos, contraditada pela parte acusada, através dos
+depoimentos prestados por testemunhas, havendo dúvida
+quanto a situação em que se decorreu a prisão do réu, na qual o
+relator não valorou o princípio do in dubio pro reo, incorrendo
+em violação aos incisos LV e LVI do inciso 5° da CF” (Doc. 186,
+fl. 16).
+Ao final, requereu o conhecimento e provimento do
+presente Recurso Extraordinário, para que “o Acórdão
+recorrido seja reformado, reconhecendo a violação ao artigo 5°,
+incisos XI, LV e LVI da Constituição Federal e consequente
+absolvição do recorrente VALDINEI do crime de tráfico” (Doc.
+186).
+A Corte estadual não admitiu o recurso (Doc. 201).
+No Agravo, o recorrente refuta a ocorrência dos óbices
+processuais (Doc. 209).
+Ressalto que houve interposição de Recurso Especial (Doc.
+184), o qual foi inadmitido (Doc. 201). No Agravo, o STJ não
+conheceu do recurso (Doc. 246).
+É o relatório. DECIDO.
+Os recursos extraordinários somente serão conhecidos e
+julgados, quando essenciais e relevantes as questões
+constitucionais a serem analisadas, sendo imprescindível ao
+recorrente, em sua petição de interposição de recurso, a
+apresentação formal e motivada da repercussão geral que
+demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a
+existência de acentuado interesse geral na solução das questões
+constitucionais discutidas no processo, que transcenda a defesa
+
+5
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5F11-552B-9605-B794 e senha 689F-8107-C072-913E
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 9 de 14
+
+ARE 1613966 AGR / DF
+puramente de interesses subjetivos e particulares.
+A obrigação da parte recorrente de apresentar, formal e
+motivadamente, a repercussão geral que demonstre, sob o
+ponto de vista econômico, político, social ou jurídico, a
+relevância da questão constitucional debatida que ultrapasse os
+interesses subjetivos da causa, conforme exigência
+constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art.
+1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º,
+do Regimento Interno do Supremo Tribunal Federal), não se
+confunde com meras invocações, desacompanhadas de sólidos
+fundamentos e de demonstração dos requisitos no caso
+concreto, de que (a) o tema controvertido é portador de ampla
+repercussão e de suma importância para o cenário econômico,
+político, social ou jurídico; (b) a matéria não interessa única e
+simplesmente às partes envolvidas na lide; ou, ainda, de que (c)
+a jurisprudência do SUPREMO TRIBUNAL FEDERAL é
+incontroversa no tocante à causa debatida, entre outras
+alegações de igual patamar argumentativo (ARE 691.595-AgR,
+Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de
+25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN
+LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR,
+Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI
+717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma,
+DJe de 13/8/2012).
+Eis os fundamentos do acusado VALDINEI FERREIRA
+DOS SANTOS para sustentar a repercussão geral da matéria
+(Doc. 186, fls. 5-6):
+
+III. DA REPERCUSSÃO GERAL
+Preliminarmente, é importante notar que o Recurso
+Extraordinário preenche o requisito recursal da
+repercussão geral. As questões discutidas são de ordem
+pública e oferecem repercussão geral, pois ultrapassam os
+
+6
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5F11-552B-9605-B794 e senha 689F-8107-C072-913E
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 10 de 14
+
+ARE 1613966 AGR / DF
+interesses subjetivos das partes litigantes, sendo
+relevantes do ponto de vista econômico, social e jurídico.
+O art. 1.035 do CPC estabelece que:
+Art. 1.035. O Supremo Tribunal Federal, em decisão
+irrecorrível, não conhecerá do recurso extraordinário
+quando a questão constitucional nele versada não tiver
+repercussão geral, nos termos deste artigo.
+§ 1° Para efeito de repercussão geral, será
+considerada a existência ou não de questões relevantes do
+ponto de vista econômico, político, social ou jurídico que
+ultrapassem os interesses subjetivos do processo.
+Com relação à relevância social deste caso, é
+inquestionável o preenchimento de tal requisito. Tendo
+em vista que a matéria ultrapassa os limites subjetivos da
+causa.
+Não há como negar, sob este prisma, a repercussão
+geral da questão constitucional suscitada sob a ótica social.
+As normas constitucionais aqui controvertidas podem
+significar a diferença entre a manutenção de condenação
+ilegal por infrigir direitos fundamentais positivados na
+Consituição Federal. Quanto à relevância jurídica do caso,
+a causa em debate transcende os limites da lide. A decisão
+atacada, por má valoração jurídica, não consagrou a
+segurança exigida pelo direito para uma condenação, de
+modo a afrontar irremediavelmente o artigo 5º, incisos, XI,
+LV e LVI, da Constituição Federal, no que tange aos
+princípios da legalidade e presunção de inocência.
+Além disso, o Acórdão recorrido manteve
+fundamentação inidônea ao valorar negativamente as
+circunstâncias judiciais desfavoráveis, afrontando o artigo
+5º, inciso XVLI, da Constituição Federal, no que tange ao
+princípio da individualização da pena.
+
+7
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5F11-552B-9605-B794 e senha 689F-8107-C072-913E
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 11 de 14
+
+ARE 1613966 AGR / DF
+Evidentemente, a repercussão geral jurídica desta
+questão reside no fato de que a decisão deste Pretório
+Excelso terá aplicação sobre a maioria dos casos de
+violação de domicílio no Brasil, nos quais é corriqueira a
+relativização de tais princípios, sob o pretexto de
+privilegiar normas infraconstitucionais em detrimento de
+garantias fundamentais, o que será aprofundado adiante.
+Por se tratarem tais direitos de direitos
+fundamentais, que podem comprometer a segurança e a
+estabilidade das relações jurídicas, merece o presente
+recurso ser conhecido, uma vez que preenchido está, o
+requisito da repercussão geral.
+Em que pese o esforço aumentativo dos recorrentes,
+entendo não ter havido demonstração fundamentada da
+presença de repercussão geral, sendo incabível, portanto, o
+seguimento do Recurso Extraordinário.
+Além disso, no caso dos autos, o TJDFT afastou a tese
+defensiva de nulidade das provas, por suposto ingresso
+irregular em domicílio e, na hipótese, deu parcial provimento
+ao apelo da defesa apenas para reduzir a condenação, com
+arrimo nos seguintes fundamentos (Doc. 174, fls. 8/15):
+“No caso, a ação dos policiais restou plenamente
+justificada, porquanto embasada em fortes indícios de
+prática delitiva. Assim, a visualização de atividade típica
+de traficância configura justa causa (fundadas razões) para
+o ingresso na residência.
+Importante registrar que, por se tratar de crime
+permanente, a conduta do réu de “ter em depósito”
+entorpecente caracteriza situação flagrancial. Desse modo,
+qualquer discussão acerca do franqueamento ou não da
+
+8
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5F11-552B-9605-B794 e senha 689F-8107-C072-913E
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 12 de 14
+
+ARE 1613966 AGR / DF
+entrada na casa se mostra irrelevante, diante da causa
+provável da ocorrência de crime. Ademais, os agentes de
+polícia foram uníssonos ao declarar, tanto em sede
+extrajudicial quanto em juízo, que visualizaram a
+movimentação típica de traficância no local, tendo o
+usuário identificado o réu como sendo a pessoa que
+vendeu o entorpecente.
+Inexiste, portanto, irregularidade na ação policial,
+pois os agentes públicos estavam resguardados pela
+exceção inserta no dispositivo constitucional (art. 5º, inciso
+XI), estando devidamente configurada a justa causa para a
+busca domiciliar. Por conseguinte, não há falar em
+nulidade da prova originária ou por derivação.
+(...)
+No dia dos fatos, realizaram campana no local e
+visualizaram uma atividade típica de traficância, com um
+usuário entrando e saindo do imóvel. Os agentes
+realizaram a busca pessoal e localizaram em sua posse um
+papelote de cocaína, tendo o usuário informado que tinha
+adquirido o entorpecente com o réu e o conhecia pela
+alcunha de “Durval”. Posteriormente, os agentes
+abordaram o réu assim que este saiu da residência, mas
+não encontraram nada de ilícito em sua posse.
+Em razão da situação flagrancial visualizada
+anteriormente, os agentes entrara m na residência do
+acusado, tendo sido localizados uma arma de fogo e
+munições debaixo do colchão de seu quarto e porções de
+cocaína e maconha, além de uma balança de precisão sob a
+churrasqueira.
+Assim, o usuário e o apelante foram levados à
+Delegacia para registro de Boletim de Ocorrência, dandose a formalização de sua prisão em flagrante
+
+9
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5F11-552B-9605-B794 e senha 689F-8107-C072-913E
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 13 de 14
+
+ARE 1613966 AGR / DF
+(...)
+Do Dispositivo
+Ante o exposto, conheço do recurso, rejeito a
+preliminar
+e,
+no
+mérito,
+DOU
+PARCIAL
+PROVIMENTOao apelo para reduzir a pena do delito de
+tráfico de drogas para 7 anos de reclusão, no regime
+fechado, acrescida de 700 dias-multa, mantidas a pena de
+1 ano de detenção e 10 dias-multa, pelo delito de posse de
+arma de fogo.”
+Verifica-se que o acórdão impugnado, com fundamento
+na legislação ordinária e no substrato fático constante dos
+autos, afastou as teses apontadas pela defesa do recorrente.
+Nesse contexto, o exame da pretensão veiculada neste
+apelo situa-se no contexto normativo infraconstitucional, de
+forma que as ofensas à CONSTITUIÇÃO FEDERAL são
+meramente indiretas (ou mediatas).
+Não bastasse, a reversão do acórdão, nos termos
+propostos pelas defesas, demanda o reexame do conjunto
+fático-probatório dos autos, providência inviável em sede
+recursal extraordinária. Incide, portanto, o óbice da Súmula 279
+desta CORTE: Para simples reexame de prova não cabe recurso
+extraordinário.
+Diante do exposto, com base no art. 21, § 1º, do RiSTF,
+NEGO SEGUIMENTO AO AGRAVO.
+
+Logo, não há reparo a fazer no entendimento aplicado, pois o
+Agravo regimental não apresentou qualquer argumento apto a
+desconstituir os óbices apontados.
+Diante do exposto, NEGO PROVIMENTO ao Agravo Regimental.
+É o voto.
+10
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5F11-552B-9605-B794 e senha 689F-8107-C072-913E
+
+Supremo Tribunal Federal
+Extrato de Ata - 13/10/2026
+
+Inteiro Teor do Acórdão - Página 14 de 14
+
+PRIMEIRA TURMA
+
+EXTRATO DE ATA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.613.966
+PROCED. : DISTRITO FEDERAL/DF
+RELATOR(A): MIN. ALEXANDRE DE MORAES
+AGTE.(S): VALDINEI FERREIRA DOS SANTOS
+ADV.(A/S): ALDENIO LAECIO DA COSTA CARDOSO (53905/DF)
+AGDO.(A/S): MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS
+PROC.(A/S)(ES): PROCURADOR-GERAL DE JUSTIÇA DO DISTRITO FEDERAL E
+TERRITÓRIOS
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto do Relator, Ministro Alexandre de
+Moraes. Primeira Turma, Sessão Virtual de 2.10.2026 a 9.10.2026.
+Composição: Ministros Cármen Lúcia (Presidente), Alexandre de
+Moraes, Cristiano Zanin e Flávio Dino.
+Cintia da Silva Gonçalves
+Secretária da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3977-69D8-1B22-B377 e senha 2665-8B45-E022-2F17
