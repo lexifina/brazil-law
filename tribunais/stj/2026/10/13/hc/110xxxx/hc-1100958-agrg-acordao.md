@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Carlos Pires Brandão, Nilsoni de Freitas (Desembargadora Convocada do TJDFT) e Og Fernandes votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. DESCAMINHO. CAUSA DE AUMENTO DO § 3º DO ART. 334 DO CÓDIGO PENAL. ALEGAÇÃO DE INAPLICABILIDADE POR TRANSPORTE AÉREO DOMÉSTICO POSTERIOR À CONSUMAÇÃO. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. AUSÊNCIA DE ILEGALIDADE FLAGRANTE.
+1. Não se admite habeas corpus substitutivo de recurso especial quando a impetração não evidencia, de plano, ilegalidade flagrante, abuso de poder ou teratologia apta a dispensar o exame do conjunto fático-probatório.
+2. A pretensão de excluir a majorante do § 3º do art. 334 do Código Penal, ao fundamento de que o transporte aéreo teria sido utilizado apenas para remessa doméstica posterior à consumação do descaminho, depende de reexame do contexto probatório dos autos - inclusive quanto ao modal marítimo também consignado no acórdão impugnado -, providência incompatível com a via estreita do writ.
+3. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por FERNANDO LUIS ZAMBONI e GUSTAVO ZAMBONI contra a decisão monocrática que indeferiu liminarmente o habeas corpus, conforme esta ementa (fl. 377):
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. INADMISSIBILIDADE. DESCAMINHO. EXCLUSÃO DA CAUSA DE AUMENTO DO § 3º DO ART. 334 DO CÓDIGO PENAL. IMPOSSIBILIDADE DE REVOLVIMENTO PROBATÓRIO NA VIA ELEITA.
+Petição inicial indeferida liminarmente.
+Pretende a parte agravante, em síntese, a reforma da decisão combatida, para que, em juízo de retratação, seja reconsiderado o decisum ou, não sendo o caso, que a matéria seja submetida ao colegiado, a fim de que seja conhecida a impetração e concedida a ordem para afastar a causa de aumento prevista no § 3º do art. 334 do Código Penal, com a consequente redução da pena, ou, subsidiariamente, que a ordem seja concedida de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal.
+Argumenta que a majorante pressupõe que o descaminho seja praticado por meio de transporte aéreo, marítimo ou fluvial, e que, no caso dos autos, a consumação do delito ocorreu com o ingresso terrestre das mercadorias na fronteira com o Uruguai e a Argentina, tendo o transporte aéreo entre Caxias do Sul e Salvador/Fortaleza sido utilizado tão somente para a remessa doméstica de mercadorias já internalizadas, em momento posterior ao exaurimento do crime - circunstância que estaria expressamente descrita no próprio acórdão condenatório, prescindindo, assim, de exame de provas.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. DESCAMINHO. CAUSA DE AUMENTO DO § 3º DO ART. 334 DO CÓDIGO PENAL. ALEGAÇÃO DE INAPLICABILIDADE POR TRANSPORTE AÉREO DOMÉSTICO POSTERIOR À CONSUMAÇÃO. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. AUSÊNCIA DE ILEGALIDADE FLAGRANTE.
+1. Não se admite habeas corpus substitutivo de recurso especial quando a impetração não evidencia, de plano, ilegalidade flagrante, abuso de poder ou teratologia apta a dispensar o exame do conjunto fático-probatório.
+2. A pretensão de excluir a majorante do § 3º do art. 334 do Código Penal, ao fundamento de que o transporte aéreo teria sido utilizado apenas para remessa doméstica posterior à consumação do descaminho, depende de reexame do contexto probatório dos autos - inclusive quanto ao modal marítimo também consignado no acórdão impugnado -, providência incompatível com a via estreita do writ.
+3. Agravo regimental improvido.
+VOTO
+O agravo regimental não merece prosperar, porquanto a parte agravante não conseguiu infirmar os fundamentos adotados na decisão de fls. 377/378, deste teor, a qual confirmo:
+O writ é inadmissível.
+A impetração, voltada contra acórdão colegiado em apelação criminal veicula pretensão típica de impugnação própria por via recursal, sem evidência de ilegalidade flagrante. A utilização do habeas corpus, nessa hipótese, subverte o sistema recursal e a função constitucional do remédio, que tem cabimento restrito e não se presta a sucedâneo do recurso adequado.
+Ademais, tendo o Tribunal a quo afirmado que o descaminho foi praticado, na maior parte, por meio de transporte aéreo e/ou marítimo (fl. 173), a inversão do julgado exigiria o revolvimento de todo o material cognitivo produzido nos autos, o que é inviável na via eleita, de cognição sumária e rito célere.
+Afora isso, para se chegar à conclusão pretendida pelos agravantes, no sentido de que a majorante do § 3º do art. 334 do Código Penal seria inaplicável por incidir apenas sobre transporte aéreo doméstico e posterior à consumação do descaminho, seria indispensável a análise aprofundada de fatos e de provas, providência que não tem espaço na via eleita.
+Por fim, ainda que se pudesse, em tese, admitir a distinção invocada entre consumação e exaurimento do crime de descaminho, o próprio acórdão impugnado atribuiu a introdução clandestina das mercadorias não apenas à via terrestre, mas também ao transporte marítimo (fl. 163), circunstância que a parte agravante não enfrenta em suas razões. A controvérsia, portanto, não se resume à qualificação jurídica de fatos incontroversos, dependendo de nova valoração do conjunto probatório para se estabelecer qual modal efetivamente fundamentou a aplicação da majorante - providência incompatível com a via do habeas corpus.
+Nego provimento ao agravo regimental.
