@@ -1,0 +1,51 @@
+DECISÃO
+1. Trata-se de Embargos de Declaração opostos por CLAUDIA HENRIQUES TEIXEIRA RAMOS à decisão de fls. 273/274, que não conheceu do recurso.
+Sustenta a parte embargante:
+Com efeito, a decisão monocrática concluiu pelo não conhecimento do Agravo em Recurso Especial sob o fundamento de que o Recurso Especial não teria apontado violação à legislação federal, remanescendo apenas matéria de índole constitucional. Entretanto, conforme se demonstrará nos tópicos seguintes, o Recurso Especial indicou, de forma expressa e fundamentada, violação a diversos dispositivos do Código de Processo Civil, dentre eles os arts. 85, 86, 98 e 99, os quais constituíram fundamento autônomo da insurgência recursal.
+ ..
+Sanada a omissão ora apontada, impõe-se o reexame da conclusão adotada quanto ao não conhecimento do Agravo em Recurso Especial, porquanto a premissa de inexistência de indicação de violação à legislação federal não se compatibiliza com o conteúdo efetivamente deduzido nas razões do Recurso Especial.
+ ..
+A decisão embargada deixou de reconhecer que o recurso discutia matéria de direito federal. Todavia, o Recurso Especial também sustentou violação às regras de sucumbência previstas no Código de Processo Civil, afirmando:
+ ..
+A simples leitura das razões do Recurso Especial demonstra que a recorrente fundamentou sua insurgência na alegada violação de diversos dispositivos da legislação federal, especialmente dos arts. 85, §§ 2º e 8º, 86, parágrafo único, 98 e 99 do Código de Processo Civil, não se restringindo à invocação de normas constitucionais.
+ ..
+Assim, ainda que a recorrente tenha invocado normas constitucionais como reforço argumentativo, permanecia indispensável o enfrentamento das alegações de ofensa à legislação federal, por constituírem fundamento suficiente e autônomo do Recurso Especial. Sem o enfrentamento dessas teses de direito federal, a decisão embargada concluiu que remanesceria apenas matéria constitucional, conclusão que, com o devido respeito, não corresponde ao conteúdo efetivamente deduzido no Recurso Especial.
+ ..
+Com efeito, uma vez reconhecida a necessidade de integração da decisão embargada e de novo exame da admissibilidade do Recurso Especial, a majoração da verba honorária perde o suporte lógico que a justificou, impondo-se, por consequência, sua revisão.
+ ..
+Para fins de prequestionamento, requer a Embargante seja suprida a omissão apontada, com manifestação expressa acerca dos arts. 85, §§ 2º, 8º e 11, 86, parágrafo único, 98, 99, §§ 2º e 3º, 1.022 e 1.025 do Código de Processo Civil, bem como do art. 105, inciso III, alínea "a", da Constituição Federal, tendo em vista que tais dispositivos constituíram fundamento expresso do Recurso Especial e não foram enfrentados na decisão embargada. (fls. 281/285).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+2. Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado expressamente na decisão embargada, a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou objeto de divergência jurisprudencial, assim incide a Súmula n. 284/STF.
+Em outras palavras, para que haja a admissão do Recurso Especial pela alínea "a" do permissivo constitucional - necessariamente - deve haver a indicação precisa dos dispositivos de lei federal violados e, pela alínea "c" do permissivo constitucional, deve haver a indicação precisa de quais dispositivos legais seriam objeto de dissídio interpretativo, não bastando, para ambos casos, a mera transcrição dos artigos legais.
+Com relação aos artigos da Constituição Federal indicados como violados, conforme restou consignado na decisão embargada, cabível Recurso Extraordinário, sendo inadmissível a sua apreciação em sede de Recurso Especial.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO DE ARTIGO DA CONSTITUIÇÃO. VIA INADEQUADA. INTERCEPTAÇÃO TELEFÔNICA. NULIDADE. NÃO OCORRÊNCIA. SUCESSIVAS PRORROGAÇÕES. DECISÃO FUNDAMENTADA. DIVERGÊNCIA JURISPRUDENCIAL. COMPROVAÇÃO. PARADIGMA EM habeas corpus. IMPROPRIEDADE. TIPICIDADE. SÚMULA 7/STJ. DOSIMETRIA. SÚMULA 284/STJ. RECURSO NÃO PROVIDO.
+I - É inviável o exame de afronta a dispositivos constitucionais em recurso especial, sob pena de usurpação de competência do Supremo Tribunal Federal (art. 102, III, "a", da CF).
+II - A jurisprudência desta Corte e do Supremo Tribunal firmou-se no sentido de que a interceptação telefônica deve perdurar pelo tempo necessário à completa investigação dos fatos delituosos, devendo o seu prazo de duração ser avaliado fundamentadamente pelo magistrado, considerando os relatórios apresentados pela polícia HC 510.504/SP, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 13/08/2019).
+III - É inadmissível, para comprovar a divergência apontada, acórdãos proferidos em julgamento de habeas corpus, de recurso ordinário em habeas corpus, de conflito de competência, de mandado de segurança ou de recurso ordinário em mandado de segurança.
+IV - O julgado afirma a ocorrência da tipicidade da conduta e a presença dos seus elementos subjetivos, e rever o referido posicionamento requer o reexame fático-probatório da demanda, obstado pela Súmula n. 7/STJ.
+V - Em relação à dosimetria da pena e ao valor da pena de multa, não foi apontado o artigo da lei supostamente contrariado, o que atrai a incidência do enunciado n. 284/STF.
+VI - Agravo regimental não provido.
+(AgRg no REsp n. 1.873.509/RS, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 13.8.2020.)
+Observe que a parte embargante pretende o exame de mérito do Recurso Especial. Porém, esse exame restou prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente não conhecimento do recurso, que obstou a abertura desta instância superior e, portanto, a produção do efeito translativo.
+As alegações da embargante relativas à distribuição dos ônus sucumbenciais, à aplicação dos arts. 85 e 86 do CPC e ao cabimento da condenação em honorários advocatícios inserem-se no próprio mérito do Recurso Especial. Todavia, tais questões não foram examinadas por esta Corte, justamente porque o recurso não ultrapassou o juízo de admissibilidade.
+Assim, não há que se cogitar da ocorrência de omissão, pois o recurso sequer ultrapassou o juízo prévio de admissibilidade para que o mérito fosse apreciado.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRETENSÃO DE REEXAME E ADOÇÃO DE TESE DISTINTA. AUSÊNCIA DE VÍCIO NO JULGADO.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual se deveria pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+2. Na hipótese, não há irregularidade ensejadora dos embargos de declaração, uma vez que a causa foi satisfatoriamente decidida em consonância com a jurisprudência do Supremo Tribunal Federal.
+3. Conforme entendimento pacífico desta Corte de Justiça, não é omisso o acórdão que deixa de se manifestar sobre o mérito do recurso que não ultrapassou o juízo de admissibilidade.
+Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg no AREsp 1556938/RS, Rel. Ministro Humberto Martins, Corte Especial, DJe de 11.3.2021).
+A pretensão de afastamento da majoração dos honorários sucumbenciais possui caráter meramente acessório e está condicionada ao acolhimento da tese principal deduzida nos presentes embargos. Mantida a decisão embargada, permanece hígida a majoração dos honorários recursais nela fixada.
+Ademais, encontram-se presentes os requisitos para aplicação do art. 85, § 11, do CPC, uma vez que houve prévia fixação de honorários pelas instâncias ordinárias e o recurso foi interposto na vigência do Código de Processo Civil de 2015, nos termos do Enunciado Administrativo n. 7 do STJ
+Ressalte-se que os honorários recursais foram majorados em desfavor da parte recorrente de forma clara, no importe de 15% sobre o montante já arbitrado, ou seja, os honorários sucumbenciais fixados nas instâncias ordinárias, seja de forma equitativa, seja em percentual sobre o valor da condenação, da causa ou do proveito econômico obtido, servirão como base de cálculo sobre a qual incidirão os 15% da majoração, observados, sempre que aplicáveis, os limites previstos nos §§ 2º e 3º do art. 85 do Código de Processo Civil.
+No mais, registre-se ainda que, "Na esteira da uníssona jurisprudência desta Corte de Justiça, os embargos de declaração não constituem instrumento adequado ao prequestionamento, com vistas à futura interposição de recurso extraordinário, razão pela qual, para tal escopo, também não merecem prosperar" (EDcl no REsp n. 1.863.973/SP, Rel. Ministro Marco Aurélio Bellizze, Segunda Seção, DJe de 28.6.2022; e EDcl no AgInt no AREsp n. 1.654.182/SC, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 12.4.2022).
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há qualquer irregularidade sanável por meio dos presentes Embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+3. Ante o exposto, rejeito os Embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
+ EMENTA
