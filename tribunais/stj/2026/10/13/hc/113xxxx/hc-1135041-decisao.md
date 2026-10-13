@@ -1,0 +1,88 @@
+DECISÃO
+DAVI PEREIRA SILVA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Goiás no Agravo em Execução Penal n. 5764825-87.2026.8.09.0000.
+A defesa sustenta que o paciente preenche os requisitos do Decreto n. 12.790/2025 para a concessão de indulto quanto ao crime de furto simples, com dispensa da reparação do dano em razão da presunção legal de hipossuficiência econômica. Afirma que a condenação concomitante por roubo não integra o rol de crimes impeditivos do art. 1º do referido decreto e não obsta a análise individualizada da pena do furto. Aduz, ainda, que a interpretação adotada pela origem configura analogia in malam partem e viola a legalidade e a competência privativa do Presidente da República. Alega excesso de execução e requer a cisão das reprimendas para extinguir apenas a pena do furto.
+Requer a concessão da ordem, inclusive liminarmente, para declarar extinta a punibilidade do furto simples e determinar a retificação do atestado de penas, com o prosseguimento da execução apenas quanto ao roubo.
+Decido.
+I. Indulto natalino - Decreto n. 12.790/2025 - somatório das penas de infrações diversas
+O indulto é prerrogativa do Presidente da República (art. 84, XII, da Constituição Federal), e a sentença que o declara tem natureza meramente declaratória. Ao Judiciário cabe verificar o preenchimento dos requisitos estabelecidos no decreto presidencial, sem ampliar nem restringir o alcance da norma, sob pena de usurpação da competência privativa do Chefe do Poder Executivo.
+A jurisprudência desta Corte é de que "para a análise do pedido de indulto ou comutação de pena, o Magistrado deve restringir-se ao exame do preenchimento dos requisitos previstos no decreto presidencial, uma vez que os pressupostos para a concessão da benesse são da competência privativa do Presidente da República" (HC n. 468.737/RS, relatora Ministra Laurita Vaz, 6ª T., DJe de 10/4/2019).
+Além disso, "a interpretação extensiva das restrições contidas no decreto concessivo de comutação/indulto de penas consiste, nos termos do art. 84, XII, da Constituição Federal, em invasão à competência exclusiva do Presidente da República, motivo pelo qual, preenchidos os requisitos estabelecidos na norma legal, o benefício deve ser concedido por meio de sentença - a qual possui natureza meramente declaratória -, sob pena de ofensa ao princípio da legalidade" (AgRg no REsp n. 1.902.850/GO, relator Ministro Messod Azulay Neto, 5ª T., DJe de 20/4/2023).
+O Decreto n. 12.790/2025, em seus arts. 7º e 9º, dispõe:
+Art. 7º Para fins da declaração do indulto e da comutação de pena, as penas correspondentes a infrações diversas deverão ser somadas até 25 de dezembro de 2025.
+Parágrafo único. Na hipótese de haver concurso com crime previsto no art. 1º não será declarado o indulto ou a comutação de pena correspondente ao crime não impeditivo enquanto a pessoa condenada não cumprir dois terços da pena correspondente ao crime impeditivo.
+Art. 9º Concede-se o indulto coletivo às pessoas, nacionais e migrantes, condenadas:
+ ..
+II - à pena privativa de liberdade não superior a doze anos, por crime praticado sem violência ou grave ameaça a pessoa, que tenham cumprido, até 25 de dezembro de 2025, um terço da pena, se não reincidentes, ou metade da pena, se reincidentes
+A leitura conjunta desses dispositivos evidencia que o art. 7º impõe critério objetivo de somatório para a declaração do indulto: as penas correspondentes a infrações diversas devem ser somadas e o resultado apurado não pode ultrapassar os patamares fixados nos incisos do art. 9º.
+Essa estrutura normativa difere substancialmente da adotada pelo Decreto n. 11.302/2022, que continha, no art. 5º, parágrafo único, cláusula expressa de individualização: "na hipótese de concurso de crimes, será considerada, individualmente, a pena privativa de liberdade máxima em abstrato relativa a cada infração penal."
+Com fundamento nessa disposição específica, o Superior Tribunal de Justiça - STJ firmou o entendimento de que a soma das penas unificadas não obstaria a concessão do indulto para as infrações cuja pena máxima em abstrato não superasse o limite daquele decreto.
+Os Decretos n. 12.338/2024 e 12.790/2025 não reproduziram cláusula equivalente, o que torna inaplicável, aos casos por eles regulados, o entendimento firmado sob o Decreto n. 11.302/2022.
+A orientação desta Corte Superior, formada sob o Decreto n. 12.338/2024 (de estrutura normativa idêntica à do Decreto n. 12.790/2025), é de que o somatório das penas de infrações diversas constitui critério imprescindível para a verificação dos requisitos objetivos do art. 9º, sendo vedada a análise individualizada por condenação.
+Confiram-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INDULTO E COMUTAÇÃO DE PENA. REQUISITOS OBJETIVOS. AUSÊNCIA DE PREENCHIMENTO. AGRAVO DESPROVIDO.  ..
+3. A questão em discussão consiste em saber se, para a concessão do indulto, deve-se considerar a soma das penas de crimes diversos ou se é possível aplicar critérios de elegibilidade individualizados para cada crime, conforme o Decreto Presidencial n. 12.338/2024.
+III. RAZÕES DE DECIDIR
+4. O Decreto n. 12.338/2024 estabelece, no art. 7º, que as penas correspondentes a infrações diversas devem ser somadas para fins de declaração de indulto e comutação de pena.
+5. O art. 9º, inciso II, do mesmo Decreto, prevê a concessão de indulto coletivo apenas para penas privativas de liberdade não superiores a 12 anos, desde que cumpridos os requisitos de tempo e natureza do crime, considerando-se o somatório das penas.
+6. A jurisprudência desta Corte Superior é firme no sentido de que a soma das penas é necessária para verificar a adequação aos critérios objetivos estipulados no decreto presidencial.
+7. No caso, o agravante não preenche os requisitos para o indulto, pois a pena total ultrapassa o limite temporal de 12 anos, e inclui condenações por crimes com violência ou grave ameaça à pessoa.
+IV. DISPOSITIVO E TESE
+8. Resultado do Julgamento: Agravo desprovido.
+Tese de julgamento:
+1. Para a concessão de indulto ou comutação de pena, é necessário considerar o somatório das penas de infrações diversas, conforme disposto no art. 7º do Decreto Presidencial n. 12.338/2024.
+2. O limite temporal de 12 anos previsto no art. 9º, inciso II, do Decreto n. 12.338/2024 deve ser observado com base na pena total somada, incluindo crimes com violência ou grave ameaça à pessoa.
+(AgRg no HC n. 1.006.334/SC, relatora Ministra Maria Marluce Caldas, 5ª T., DJEN de 4/11/2025, destaquei.)
+Direito penal. Habeas corpus. Indulto natalino. Somatório de penas. Requisitos objetivos. Ordem denegada.
+ ..
+III. Razões de decidir
+4. O Decreto n. 12.338/2024, em seus arts. 7º e 9º, determina que as penas correspondentes a infrações diversas devem ser somadas para fins de aferição dos requisitos objetivos para concessão de indulto, sendo que o somatório não pode ultrapassar os limites estabelecidos nos incisos do art. 9º.
+5. A interpretação sistemática e literal do decreto não permite considerar as penas individualmente quando há múltiplas condenações, sob pena de afronta ao critério normativo definido no art. 7º.
+6. No caso, o paciente não comprovou o requisito objetivo, tendo penas somadas superiores a 14 anos, o que inviabiliza a concessão do benefício do indulto natalino.
+IV. Dispositivo e tese
+7. Ordem denegada.
+Tese de julgamento: 1. O Decreto n. 12.338/2024 exige a soma das penas correspondentes a infrações diversas para aferição do limite temporal para concessão de indulto, nos termos do art. 7º.
+(HC n. 1.021.370/SP, relator Ministro Sebastião Reis Júnior, 6ª T., DJEN de 9/12/2025, destaquei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INDULTO E COMUTAÇÃO DE PENA. REQUISITOS OBJETIVOS. AUSÊNCIA DE PREENCHIMENTO. AGRAVO DESPROVIDO.  ..
+IV. DISPOSITIVO E TESE
+8. Resultado do Julgamento: Agravo desprovido.
+Tese de julgamento:
+1. Para a concessão de indulto ou comutação de pena, é necessário considerar o somatório das penas de infrações diversas, conforme disposto no art. 7º do Decreto Presidencial n. 12.338/2024.
+2. O limite temporal de 12 anos previsto no art. 9º, inciso II, do Decreto n. 12.338/2024 deve ser observado com base na pena total somada, incluindo crimes com violência ou grave ameaça à pessoa.
+(AgRg no HC n. 1.022.731/SC, relator Ministro Joel Ilan Paciornik, 5ª T., DJEN de 18/12/2025, destaquei.)
+A jurisprudência citada aplica-se integralmente ao Decreto n. 12.790/2025, porquanto ambos os atos normativos adotam estrutura idêntica: o art. 7º impõe o somatório das penas de infrações diversas e o art. 9º fixa os limites quantitativos máximos para a concessão do benefício.
+Estabelecidas essas premissas, passa-se à análise do caso concreto.
+II. O caso dos autos
+A defesa do paciente pleiteou o benefício do indulto nos termos do art. 9º, XV, do Decreto n. 12.790/2025 em relação à condenação pela prática de crime de furto, por entender desnecessária a reparação do dano em razão de sua representação pela Defensoria Pública.
+O Juízo da execução penal indeferiu o pedido aludido, por meio de decisão assim fundamentada (fls. 798-799, destaquei):
+A Defensoria Pública requer, na mov. 171.1, o indulto da pena de 04 meses de reclusão aplicada na ação penal n.º 5501824-55.2021.8.09.0011, pela prática do crime previsto no artigo 155, caput, c /c artigo 14, inciso II, do Código Penal.
+O artigo 9º, inciso XV, do Decreto Presidencial n.º 12.790/2025 prevê a concessão do indulto às pessoas condenadas por crime contra o patrimônio cometido sem violência ou grave ameaça, desde que preenchidas as demais condições previstas no ato presidencial.
+Isoladamente considerada, a condenação por furto tentado constitui crime patrimonial praticado sem violência ou grave ameaça. Entretanto, a execução não é formada exclusivamente por essa reprimenda.
+O apenado também cumpre pena de 07 anos, 03 meses e 25 dias de reclusão, imposta na ação penal n.º 5693384-18.2023.8.09.0011, pela prática de roubo majorado pelo concurso de pessoas, previsto no artigo 157, § 2º, inciso II, do Código Penal, delito que, por sua própria natureza, é cometido mediante violência ou grave ameaça. Nos termos do artigo 7º, caput, do Decreto n.º 12.790/2025, para fins de declaração do indulto e da comutação, as penas correspondentes às diversas infrações devem ser somadas até 25/12/2025. A norma impede a análise segmentada da execução, de maneira a considerar apenas a condenação mais favorável e desconsiderar as demais penas em cumprimento.
+O mesmo entendimento foi adotado pelo Tribunal de Justiça do Estado de Goiás no acórdão da mov. 182.3, ao examinar o pedido formulado com base no Decreto n.º 12.338/2024. Naquela oportunidade, assentou-se que a presença da condenação por roubo majorado na execução unificada impede a concessão do indulto relativo ao furto simples, porque a hipótese destinada aos crimes patrimoniais não violentos não pode ser aplicada de maneira fracionada.
+Embora se trate, agora, de decreto presidencial diverso, o Decreto n.º 12.790/2025 igualmente determina a soma das penas e condiciona a hipótese do artigo 9º, inciso XV, à inexistência de violência ou grave ameaça, razão pela qual permanece aplicável o fundamento adotado pelo Tribunal.
+A Linha do Tempo do SEEU relativa a 25/12/2025 também demonstra que, naquela data, o apenado havia cumprido apenas 10 meses e 29 dias da pena total de 07 anos, 07 meses e 25 dias. Contudo, o indeferimento não se fundamenta na importação da fração temporal prevista no artigo 9º, inciso I, para o inciso XV, mas na impossibilidade de análise isolada da pena de furto diante da condenação concomitante por roubo majorado.
+A representação do apenado pela Defensoria Pública permite presumir sua incapacidade econômica para fins de dispensa da reparação do dano. Essa circunstância, porém, não supera o impedimento decorrente da natureza violenta de uma das infrações integrantes da execução unificada.
+Desse modo, o apenado não se enquadra na hipótese prevista no artigo 9º, inciso XV, do Decreto n.º 12.790/2025.
+O Tribunal estadual ratificou a decisão supra, sob os seguintes fundamentos (fls. 16-17, grifei):
+A controvérsia central reside em definir se a existência de uma condenação por crime com violência ou grave ameaça (roubo) impede a concessão do indulto previsto no Decreto Presidencial n.º 12.790/2025 para a pena referente a um crime patrimonial diverso, cometido sem tais elementares (furto), no contexto de unificação de penas para fins de execução.
+A defesa pleiteia uma análise fragmentada, buscando isolar a pena do crime de furto para enquadrá-la na hipótese do art. 9º, XV, do referido decreto. Por outro lado, o Ministério Público, em ambas as instâncias, e o juízo de origem defendem uma análise global e unificada das penas, sustentando que a condenação por roubo contamina a execução e impede o benefício.
+A razão está com o órgão ministerial e a decisão agravada não merece reparos.
+O apenado, ora agravante, cumpre pena total unificada de 07 (sete) anos, 07 (sete) meses e 25 (vinte e cinco) dias de reclusão, resultante da soma de duas condenações: uma por furto simples (art. 155, caput, do CP), com pena de 4 meses, e outra por roubo majorado pelo concurso de pessoas (art. 157, § 2º, II, do CP), com pena de 7 anos, 3 meses e 25 dias.
+O Decreto Presidencial nº 12.790/2025, ao estabelecer as condições para o indulto, dispõe em seu art. 9º, inciso XV, que o benefício se aplica à "pena privativa de liberdade por crime contra o patrimônio, cometido sem violência ou grave ameaça a pessoa". Contudo, a interpretação deste dispositivo não pode ser feita de maneira isolada. É imperativo conjugá-lo com o art. 7º do mesmo diploma, que estabelece a regra geral para a análise:
+"Art. 7º Para fins da declaração do indulto e da comutação de pena, as penas correspondentes a infrações diversas deverão ser somadas até 25 de dezembro de 2025."
+A determinação de somatório das penas para análise do benefício impõe, por consequência lógica, a avaliação unificada da situação do executado. Não se trata de uma mera operação aritmética, mas da formação de um panorama completo da trajetória delitiva do indivíduo para aferir se ele se amolda ao perfil de agraciado pretendido pela norma presidencial.
+A finalidade da cláusula específica do inciso XV do art. 9º é claramente beneficiar aqueles cuja incursão no mundo do crime se limitou a ofensas patrimoniais de menor gravidade, sem o uso de violência ou ameaça. Ao incluir no rol de condutas do apenado o crime de roubo, que tem como elementar a grave ameaça, ele se afasta do perfil de destinatário da norma. A prática de um crime violento demonstra uma maior periculosidade e um maior grau de reprovabilidade da conduta, o que justifica um tratamento mais rigoroso na execução penal, inclusive no que tange à concessão de benefícios como o indulto.
+Permitir a cisão das penas para conceder o indulto apenas à parcela não violenta seria criar uma exceção não prevista no decreto, violando o princípio da legalidade e a separação dos poderes, uma vez que compete privativamente ao Presidente da República definir os limites da clemência. A jurisprudência dos Tribunais Superiores é pacífica no sentido de que, havendo concurso entre crime impeditivo e não impeditivo e unificação das penas, a análise para concessão de indulto ou comutação deve ser global, e a existência do delito mais grave obsta a concessão do benefício para o menos grave, a menos que o decreto preveja expressamente a possibilidade de desmembramento, o que não ocorre na espécie.
+Dessa forma, a condenação por roubo majorado atua como um fato impeditivo que se estende a toda a execução penal unificada, afastando a incidência do indulto pretendido. O juízo de origem, portanto, agiu com acerto ao indeferir o pleito.
+CONCLUSÃO
+Ante o exposto, acolhido o parecer ministerial de cúpula, CONHEÇO do Agravo em Execução Penal e, no mérito, NEGO-LHE PROVIMENTO, para manter integralmente a r. decisão proferida pelo juízo da 2ª Vara de Execução Penal da comarca de Goiânia, que indeferiu o pedido de indulto formulado pelo agravante.
+Verifica-se que as instâncias de origem fundamentaram o indeferimento do referido benefício ao fundamento de que a existência de condenação por crime cometido com violência ou grave ameaça constitui óbice autônomo ao benefício.
+Na hipótese, o reeducando possui pena total a cumprir de 7 anos, 7 meses e 25 dias de reclusão, circunstância de indica o preenchimento do requisito objetivo previsto no art. 9º do Decreto Presidencial n. 12.790/2025.
+Entretanto, constata-se que entre os títulos executórios do sentenciado figura condenação por crime de roubo, cometido com violência ou grave ameaça à pessoa, circunstância que, independentemente do somatório das penas, constitui óbice autônomo à concessão do indulto quanto às condenações a ela vinculadas, por afastar-se da natureza exclusivamente patrimonial e não violenta exigida pelo art. 9º, XV.
+Ademais, a presunção de incapacidade econômica decorrente da atuação da Defensoria Pública, prevista no art. 12, § 2º, I, do aludido decreto, dispensa apenas a demonstração de reparação do dano; não tem o condão de suprir a ausência dos requisitos objetivos relativos ao montante da pena unificada e à natureza das condenações em execução, exigências autônomas e cumulativas entre si.
+Diante desse quadro, correto o acórdão impugnado ao ratificar a decisão de primeiro grau que indeferiu o pedido de indulto quanto à pena da condenação por furto.
+Não há, pois, constrangimento ilegal a ser reparado.
+III. Dispositivo
+À vista do exposto, denego a ordem de habeas corpus.
+Publique-se e intimem-se.
+EMENTA
