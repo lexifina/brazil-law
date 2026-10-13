@@ -1,0 +1,1174 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 26
+
+13/10/2026
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.613.431
+PARANÁ
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+INTDO.(A/S)
+ADV.(A/S)
+
+: MIN. ALEXANDRE DE MORAES
+: VIRGINIA HELENA SOARES DE SOUZA
+: LOUISE MATTAR ASSAD
+: MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ
+: PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DO
+PARANÁ
+: KAYQUE JOSE KENTENICH DANTAS MENDES
+: DEYVISON SILVA DE ANDRADE
+
+Ementa:
+AGRAVO
+REGIMENTAL
+NO
+RECURSO
+EXTRAORDINÁRIO NO AGRAVO. PROVAS ILÍCITAS. BUSCA E
+APREENSÃO. LICITUDE DA MEDIDA. JUSTA CAUSA. PROVIMENTO
+DO RECURSO EXTRAORDINÁRIO. AGRAVO REGIMENTAL A QUE
+SE NEGA PROVIMENTO.
+I. CASO EM EXAME
+1. Agravo interposto contra decisão do Superior Tribunal de Justiça
+que negou seguimento a Recurso Extraordinário, o qual visava reformar
+acórdão que havia declarado a nulidade de busca e apreensão de
+prontuários médicos e das provas dela derivadas, determinando a
+reavaliação da justa causa para ações penais. A busca e apreensão se
+referia a prontuários de pacientes falecidos em UTI de hospital, entre
+2006 e 2013.
+2. O recorrente, Ministério Público do Estado do Paraná, sustentou a
+incorreta aplicação da vedação ao fishing expedition, alegando que a
+medida tinha lastro em elementos investigativos prévios, diligências
+robustas e delimitação temporal e espacial, e que os bens apreendidos
+eram de vítimas, não comprometendo a intimidade da investigada. Pediu
+a reforma do acórdão para declarar a licitude da busca e apreensão.
+3. O Superior Tribunal de Justiça havia negado seguimento ao
+Recurso Extraordinário, sob o fundamento de que eventual ofensa à
+Constituição seria reflexa ou indireta e que incidiria a Súmula 279 do
+Supremo Tribunal Federal.
+II. QUESTÃO EM DISCUSSÃO
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 7594-E203-60D7-2EA3 e senha A716-4E7E-6B48-A650
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 26
+
+ARE 1613431 AGR / PR
+4. A questão em discussão consiste em saber se a busca e apreensão
+de prontuários médicos, autorizada por mandado judicial, caracteriza
+fishing expedition e nulidade das provas dela derivadas, ou se a medida foi
+legítima e proporcional diante dos indícios prévios de crimes graves.
+III. RAZÕES DE DECIDIR
+5. A premissa adotada pelo acórdão recorrido, de que a amplitude
+quantitativa e temporal da medida seria indicativa de fishing expedition,
+não corresponde aos elementos probatórios que precederam e
+justificaram a diligência.
+6. A fishing expedition caracteriza-se por investigações genéricas sem
+embasamento
+prévio,
+buscando
+elementos
+incriminatórios
+aleatoriamente, o que não se verifica no caso. A ordem impugnada não
+foi o primeiro ato investigativo, mas o terceiro passo de uma apuração
+progressiva.
+7. Antes da busca e apreensão, foram realizadas interceptações
+telefônicas judicialmente autorizadas, duas buscas e apreensões
+anteriores, depoimentos de testemunhas e auditoria que apontava
+irregularidades. Esses elementos configuravam a identificação concreta
+de um padrão delitivo.
+8. A busca e apreensão não visava vasculhar à procura de qualquer
+ilícito, mas confirmar, no universo de óbitos ocorridos sob a gestão da
+investigada, a extensão de um padrão criminoso já delineado. A exigência
+de individualização prévia de cada vítima seria inexequível em casos de
+homicídios seriados em ambiente controlado.
+9. A diligência foi circunscrita a um único setor (UTI), a um período
+determinado (gestão da investigada) e a uma categoria específica de
+documentos (prontuários de pacientes que evoluíram a óbito), atendendo
+aos parâmetros de individualização exigidos pela jurisprudência.
+10. A medida teve como objeto prontuários médicos de terceiros, as
+supostas vítimas, e não da investigada, que detinha apenas a guarda
+funcional dos documentos. A invocação de direito à intimidade que não
+pertence à pessoa beneficiada pela declaração de nulidade é descabida.
+
+2
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 7594-E203-60D7-2EA3 e senha A716-4E7E-6B48-A650
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 3 de 26
+
+ARE 1613431 AGR / PR
+11. A medida de busca e apreensão mostrou-se adequada, necessária
+e proporcional, pois constituiu o único meio apto a identificar as vítimas,
+foi precedida de diligências menos invasivas e a restrição ao sigilo
+documental era limitada e controlada, visando à tutela da vida.
+12. Uma investigação complexa e de grande amplitude, destinada à
+apuração de múltiplos homicídios, não se confunde com a pesca
+probatória, que ocorre quando se investiga genericamente pessoas ou
+situações sem fatos concretos previamente delimitados.
+13. Elementos informativos relativos a fatos inicialmente
+desconhecidos ou vítimas não identificadas, descobertos no curso de
+diligências legitimamente instauradas, não descaracterizam a licitude da
+investigação, especialmente quando há pertinência com o objeto
+investigado ou decorrem de encontro fortuito de provas.
+14. O pedido subsidiário do recorrente, atinente à nulidade
+processual por ausência de intimação do Ministério Público para oferecer
+contrarrazões ao agravo regimental e à alegada violação à autonomia
+institucional, resta prejudicado diante do provimento do pedido
+principal.
+IV. DISPOSITIVO E TESE
+15. Agravo a que se nega provimento.
+_________
+243.
+
+Atos normativos citados: CF/1988, art. 5º, XI; CPP, art. 157; CPP, art.
+
+Jurisprudência relevante citada: STF, HC 163.461, Rel. Min. GILMAR
+MENDES, Segunda Turma, DJe. 05/02/2019; STF, AP 2694, Rel. Min.
+ALEXANDRE DE MORAES, Primeira Turma, julgado em 21-10-2025, DJe
+05/02/2026; STF, AP 2693, Rel. Min. ALEXANDRE DE MORAES, Primeira
+Turma, julgado em 16-12-2025, DJe 12/03/2026; STF, RHC 219.193, Rel.
+Min. LUIZ FUX, Primeira Turma, DJe de 11/11/2022.
+
+3
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 7594-E203-60D7-2EA3 e senha A716-4E7E-6B48-A650
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 4 de 26
+
+ARE 1613431 AGR / PR
+ACÓRDÃO:
+A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto do Relator, Ministro Alexandre de
+Moraes.
+Publique-se.
+Brasília, 13 de outubro de 2026.
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
+
+4
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 7594-E203-60D7-2EA3 e senha A716-4E7E-6B48-A650
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 26
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.613.431
+PARANÁ
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+INTDO.(A/S)
+ADV.(A/S)
+
+: MIN. ALEXANDRE DE MORAES
+: VIRGINIA HELENA SOARES DE SOUZA
+: LOUISE MATTAR ASSAD
+: MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ
+: PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DO
+PARANÁ
+: KAYQUE JOSE KENTENICH DANTAS MENDES
+: DEYVISON SILVA DE ANDRADE
+
+RELATÓRIO
+O SENHOR MINISTRO ALEXANDRE DE MORAES (RELATOR):
+Trata-se de Agravo Regimental interposto contra decisão pela qual
+dei provimento ao Recurso Extraordinário com Agravo para reformar o
+acórdão proferido pelo Superior Tribunal de Justiça, restabelecendo a
+licitude da busca e apreensão dos prontuários médicos e das provas dela
+derivadas, e determinando o retorno dos autos à origem para que o juízo
+competente prossiga na análise da subsistência da justa causa para as
+persecuções penais, à luz da integralidade do acervo probatório, ao
+fundamento de que o acórdão recorrido está em dissonância com a
+jurisprudência desta CORTE (Doc. 208).
+Em suas razões, a parte agravante alega que é “evidente que o Estado
+possui o direito e o dever de conduzir investigações e realizar buscas e apreensões,
+desde que devidamente fundamentadas e com objetos rigorosamente delimitados.
+O ponto central da controvérsia, portanto, cinge-se exclusivamente à terceira
+decisão. Estar sob investigação não consubstancia salvo-conduto ou autorização
+genérica para ingressar em um hospital e devassar indistintamente os prontuários
+de todos os pacientes que faleceram na UTI” (Doc. 213, fl. 10).
+Pede, assim, o conhecimento e o provimento do agravo.
+É o relatório.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código ED49-CA85-C53C-23BE e senha 5347-34CD-803F-017F
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 6 de 26
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.613.431
+PARANÁ
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+INTDO.(A/S)
+ADV.(A/S)
+
+: MIN. ALEXANDRE DE MORAES
+: VIRGINIA HELENA SOARES DE SOUZA
+: LOUISE MATTAR ASSAD
+: MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ
+: PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DO
+PARANÁ
+: KAYQUE JOSE KENTENICH DANTAS MENDES
+: DEYVISON SILVA DE ANDRADE
+
+VOTO
+O SENHOR MINISTRO ALEXANDRE DE MORAES (RELATOR):
+Eis o teor da decisão agravada (Doc. 208):
+Trata-se de Recurso Extraordinário interposto em face
+de acórdão proferido pelo Superior Tribunal de Justiça
+(Doc. 98) assim ementado:
+DIREITO
+PROCESSUAL
+PENAL.
+AGRAVO
+REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS
+CORPUS. BUSCA E APREENSÃO GENÉRICA. PESCARIA
+PROBATÓRIA. PROVAS ILÍCITAS. TRANCAMENTO DAS
+DIVERSAS
+AÇÕES
+PENAIS.
+DESCABIMENTO.
+REAVALIAÇÃO DA SUBSISTÊNCIA DE JUSTA CAUSA
+PELOS JUÍZOS ORDINÁRIOS. RECURSO PARCIALMENTE
+PROVIDO. I. CASO EM EXAME 1. Recurso ordinário em
+habeas corpus interposto contra decisão que negou provimento
+ao pedido de trancamento de ações penais, alegando nulidade
+de busca e apreensão de prontuários médicos de pacientes
+falecidos na UTI do Hospital Evangélico de Curitiba, entre 2006
+e 2013. 2. A busca e apreensão foi autorizada por mandado
+judicial genérico, sem delimitação específica dos fatos
+investigados, resultando na apreensão de 1.670 prontuários
+médicos. II. QUESTÃO EM DISCUSSÃO 3. A questão em
+discussão consiste em saber se a busca e apreensão genérica de
+prontuários médicos, sem delimitação específica, caracteriza
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 361F-4A76-986D-43D7 e senha D489-B1E1-7651-8C63
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 7 de 26
+
+ARE 1613431 AGR / PR
+nulidade e se as provas derivadas devem ser desentranhadas
+dos autos. 4. Outra questão em discussão é se a nulidade da
+busca e apreensão autoriza o trancamento das ações penais em
+curso, considerando a possibilidade de existência de outras
+provas independentes. III. RAZÕES DE DECIDIR 5. A busca e
+apreensão genérica, sem delimitação específica, caracteriza
+fishing expedition, violando os princípios da razoabilidade e
+proporcionalidade, conforme entendimento consolidado pelo
+Superior Tribunal de Justiça. 6. As provas obtidas de forma
+ilícita devem ser desentranhadas dos autos, conforme o artigo
+157 do Código de Processo Penal, para garantir a higidez do
+processo penal. 7. A nulidade da busca e apreensão não
+autoriza o trancamento automático das ações penais, pois cabe
+aos juízos de primeiro grau avaliar a existência de outras
+provas independentes que possam sustentar a acusação. IV.
+DISPOSITIVO E TESE 8. Recurso parcialmente provido para
+declarar a nulidade da busca e apreensão dos prontuários
+médicos e das provas dela derivadas, determinando que os
+juízos de primeiro grau reavaliem a subsistência da justa causa
+para as persecuções penais. Tese de julgamento: "1. A busca e
+apreensão genérica, sem delimitação específica, caracteriza
+nulidade por violar os princípios da razoabilidade e
+proporcionalidade. 2. As provas obtidas de forma ilícita devem
+ser desentranhadas dos autos. 3. A nulidade da busca e
+apreensão não autoriza o trancamento automático das ações
+penais, devendo ser avaliadas outras provas independentes."
+Dispositivos relevantes citados: CPP, art. 157; CPP, art. 243;
+CF/1988, art. 5º, XI. Jurisprudência relevante citada: STJ, AgRg
+no HC 435.934/RJ, Rel. Min. Sebastião Reis Júnior, Sexta Turma,
+julgado em 05.11.2019; STJ, AgRg no RMS 62.562/MT, Rel. Min.
+Jesuíno Rissato, Rel. p/ Acórdão Min. Reynaldo Soares da
+Fonseca, Quinta Turma, julgado em 07.12.2021
+Consta nos autos que VIRGÍNIA HELENA SOARES DE
+
+2
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 361F-4A76-986D-43D7 e senha D489-B1E1-7651-8C63
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 8 de 26
+
+ARE 1613431 AGR / PR
+SOUZA interpôs recurso ordinário em Habeas Corpus contra
+acórdão do Tribunal de Justiça do Estado do Paraná, que foi
+assim ementado:
+HABEAS
+CORPUS.
+CRIME.
+PRETENSÃO
+DE
+TRANCAMENTO
+DE
+VÁRIAS
+AÇÕES
+PENAIS
+INTENTADAS CONTRA A PACIENTE PELA SUPOSTA
+PRÁTICA DE HOMICÍDIOS. NÃO CONHECIMENTO DAS
+ALEGAÇÕES DE BIS IN IDEM, UMA VEZ QUE JÁ
+REFUTADASNE ANTERIORMENTE POR ESTE TRIBUNAL.
+ADEMAIS,
+NÃO
+VERIFICAÇÃO
+DAS
+HIPÓTESES
+EXCEPCIONAIS AUTORIZADORASDE TRANCAMENTO DE
+AÇÃO PENAL. AUSÊNCIA DE CONSTRANGIMENTO
+ILEGAL. ORDEM PARCIALMENTE CONHECIDA E
+DENEGADA.
+O Ministro Relator no STJ negou provimento ao recurso
+(Doc. 73).
+Interposto agravo regimental, foi ele parcialmente provido
+pela Quinta Turma no STJ para “declarar a nulidade da busca e
+apreensão dos prontuários médicos e das provas dela derivadas, que
+deverão ser desentranhadas, determinando que os juízos inferiores
+reavaliem a subsistência da justa causa para as persecuções penais, à
+luz dos demais elementos probatórios disponíveis” (Doc. 98).
+Opostos embargos de declaração pelo Ministério Público
+do Estado do Paraná, foram eles rejeitados (Doc. 114).
+Irresignado, o MPPR interpôs Recurso Extraordinário,
+com amparo no art. 102, III, “a”, da Constituição Federal, no
+qual sustenta que o acórdão violou o art. 5º, X, LIV, LV e LVI;
+127 e 129, I, da CF/88 (Doc. 144).
+Nas razões recursais, afirma que “[a] controvérsia reside na
+
+3
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 361F-4A76-986D-43D7 e senha D489-B1E1-7651-8C63
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 9 de 26
+
+ARE 1613431 AGR / PR
+incorreta aplicação da vedação ao fishing expedition ao caso concreto,
+em que a Corte a quo anulou a prova sob o equivocado argumento de
+ofensa à intimidade/vida privada da investigada (art. 5o , X, CF) e de
+ausência de delimitação prévia, desconsiderando: a) 2 (duas) buscas e
+apreensões prévias, com vastos elementos investigativos anteriores e
+diligências prévias que conferiram justa causa robusta, delimitada no
+tempo, espaço e modus operandi , para a coleta dos prontuários de
+pacientes (vítimas); b) que os bens apreendidos sequer eram da
+recorrida/investigada, de modo a não comprometer sua intimidade;
+tratavam-se de prontuários de vítimas” (Doc. 144, fl. 9).
+Segundo diz “[a] anulação de provas obtidas mediante ordem
+judicial e com lastro em indícios concretos prévios sobre o modus
+operandi do crime, em parte derivados também de provas produzidas
+por ordem judicial (2 buscas e apreensões e interceptação telefônica),
+sob o fundamento de que se trata de busca genérica, demanda do C.
+STF o balizamento do conceito de justa causa em medidas cautelares
+probatórias invasivas do direito fundamental à privacidade e
+intimidade, estampado na CF, art. 5º”(Doc. 144, fl. 13).
+Sustenta que “diante da gravidade concreta dos fatos
+(homicídios em série em UTI) e das diligências prévias (interceptações
+e oitivas), a medida descrita pelo STJ não se enquadra no conceito
+constitucional de prova ilícita ou devassa imotivada” (Doc. 144, fl.
+20).
+Diz que “[a]o anular a apreensão dos prontuários sob a pecha
+de "genérica", o STJ violou o devido processo legal substantivo, pois a
+ordem judicial possuía delimitação finalística, temporal e espacial
+rigorosa: buscava-se confirmar a repetição desse padrão homicida
+específico (modus operandi já conhecido) no universo de óbitos
+ocorridos sob a chefia da recorrida, no período de sua gestão (20062013) na UTI do Hospital Evangélico de Curitiba. Não se tratava de
+procurar "qualquer crime", mas de identificar as vítimas de um
+"método criminoso" já desvelado” (Doc. 144, fl. 22).
+Pede, assim, o conhecimento e o provimento do recurso
+
+4
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 361F-4A76-986D-43D7 e senha D489-B1E1-7651-8C63
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 10 de 26
+
+ARE 1613431 AGR / PR
+para “reformar o v. acórdão recorrido no mérito, declarando a
+constitucionalidade e a plena licitude da busca e apreensão dos
+prontuários médicos, afastando-se a equivocada aplicação da doutrina
+do fishing expedition e a indevida sobreposição do sigilo documental
+(art. 5º, X, CF) sobre a tutela do direito à vida (art. 5º, caput , CF)”
+(Doc. 144, fl. 29).
+Subsidiariamente, requer “a anulação do julgamento do
+agravo regimental realizado pela Quinta Turma do Superior Tribunal
+de Justiça, em razão da supressão do contraditório substancial (art. 5º,
+LV, CF) e da violação à autonomia do Parquet estadual (arts. 127 e
+129, I, CF), visto que a substituição funcional do titular da ação penal
+pelo custos legis federal, em momento de reforma com resultado
+contrário à pretensão do MPPR, feriu de morte a paridade de armas e
+o sistema acusatório” (Doc. 144, fl. 29).
+O
+Superior Tribunal de Justiça Tribunal negou
+seguimento ao recurso quanto ao Tema 660. No mais, o
+inadmitiu aos fundamentos de que (i) eventual ofensa à
+Constituição da República, se houvesse, seria reflexa ou indireta
+e (ii) incide ao caso a Súmula 279/STF (Doc. 163).
+No Agravo, o MPPR refuta a ocorrência dos óbices
+processuais (Doc. 169).
+É o relatório. DECIDO.
+O presente recurso preenche os pressupostos
+conhecimento definidos na legislação processual.
+
+de
+
+Em primeiro lugar, suscita questão constitucional
+expressamente abordada pelo Tribunal de origem. Está
+configurado, portanto, o requisito do prequestionamento.
+De outro lado, tem-se que os Recursos Extraordinários
+somente serão conhecidos e julgados, quando essenciais e
+relevantes as questões constitucionais a serem analisadas, sendo
+
+5
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 361F-4A76-986D-43D7 e senha D489-B1E1-7651-8C63
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 11 de 26
+
+ARE 1613431 AGR / PR
+imprescindível ao recorrente, em sua petição de interposição de
+recurso, a apresentação formal e motivada da repercussão geral
+que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a
+existência de acentuado interesse geral na solução das questões
+constitucionais discutidas no processo, que transcenda a defesa
+puramente de interesses subjetivos e particulares.
+Foi cumprida, no caso, obrigação do recorrente de
+apresentar, formal e motivadamente, a repercussão geral,
+demonstrando a relevância da questão constitucional debatida
+que ultrapasse os interesses subjetivos da causa, conforme
+exigência constitucional, legal e regimental (art. 102, § 3º, da
+CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e
+art. 327, § 1º, do Regimento Interno do Supremo Tribunal
+Federal).
+Destaca-se que (a) o tema controvertido é portador de
+ampla repercussão e de suma importância para o cenário
+político, social e jurídico e (b) a matéria não interessa única e
+simplesmente às partes envolvidas na lide.
+Superados, também, os óbices indicados pela decisão que
+inadmitiu o recurso extraordinário.
+No caso, sustenta-se que não há mera ofensa reflexa à
+Constituição, pois o acórdão recorrido fundamentou
+diretamente sua decisão nos arts. 5º, X e LVI, da Constituição
+Federal ao aplicar a doutrina do fishing expedition para anular a
+busca e apreensão dos prontuários médicos, de modo que a
+controvérsia envolve a correta interpretação de garantias
+constitucionais, sem depender de análise prévia de normas
+infraconstitucionais. Também não incide a Súmula 279/STF,
+uma vez que o recurso não busca reexaminar provas, mas
+apenas conferir nova qualificação jurídico-constitucional a fatos
+incontroversos reconhecidos pelo próprio STJ, como a
+realização de buscas anteriores, a existência de interceptações
+telefônicas autorizadas judicialmente e a delimitação temporal e
+
+6
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 361F-4A76-986D-43D7 e senha D489-B1E1-7651-8C63
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 12 de 26
+
+ARE 1613431 AGR / PR
+material da medida questionada.
+Passo à análise do mérito.
+Estes foram os argumentos utilizados pelo Superior
+Tribunal de Justiça para reconhecer a nulidade das provas
+decorrentes da busca e apreensão (Doc. 98):
+A busca e apreensão em questão envolveu a coleta
+de uma quantidade expressiva e alarmante de
+documentos médicos, totalizando 1.670 prontuários de
+pacientes que faleceram na UTI do Hospital Evangélico de
+Curitiba entre 1º de janeiro de 2006 e 23 de fevereiro de
+2013.
+Trata-se de uma medida extremamente ampla, que
+abrangeu um período superior a sete anos, sem a devida
+especificação dos alvos investigados ou dos elementos
+probatórios que se buscava obter. Essa amplitude
+desproporcional e a ausência de delimitação concreta
+indicam que a diligência não se destinava a investigar
+fatos específicos e individualizados, mas,
+isto sim, a vasculhar uma grande quantidade de
+informações na esperança de encontrar evidências
+incriminatórias, ou de uma hipótese acusatória posterior,
+o que caracteriza fishing expedition, prática vedada pelo
+ordenamento jurídico brasileiro.
+Portanto, as provas derivadas dessa busca e
+apreensão devem ser consideradas nulas, pois foram
+obtidas mediante violação a princípios fundamentais do
+processo penal. A nulidade deve atingir não apenas os
+documentos apreendidos, mas também todas as provas
+derivadas desse material, pois foram contaminadas pela
+ilegalidade da origem.
+
+7
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 361F-4A76-986D-43D7 e senha D489-B1E1-7651-8C63
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 13 de 26
+
+ARE 1613431 AGR / PR
+Dessa forma, deve-se reconhecer a nulidade da busca
+e apreensão e determinar-se que os juízos de primeiro
+grau reavaliem a subsistência da justa causa para a
+persecução penal, sem considerar as provas ilícitas e delas
+derivadas.
+[...]
+No presente caso, a nulidade da busca e apreensão
+impõe a reavaliação da justa causa para cada ação penal,
+mas não autoriza um trancamento automático e
+generalizado, pois outros elementos podem subsistir e
+viabilizar a persecução penal.
+Visto por outra perspectiva, o habeas corpus coletivo
+julgado pelo STF teve como fundamento uma identidade
+objetiva de condições que dispensava qualquer outra
+análise processual: bastava ser gestante, puérpera ou mãe
+de criança para fazer jus ao benefício. No presente caso,
+essa identidade não existe, pois cada evento de morte
+possui peculiaridades que devem ser objeto de provas
+distintas e de escrutínio específico, mediante análise
+percuciente de toda a prova produzida.
+Portanto, com as devidas vênias, não há identidade
+entre o precedente do STF e a situação concreta em
+análise, sendo incabível o trancamento generalizado das
+ações penais. Ainda que se reconheça a nulidade da busca
+e apreensão, cabe aos juízos de primeiro grau avaliar, caso
+a caso, se remanescem provas aptas a manter a justa causa
+para a ação penal.
+A absolvição em um processo específico não gera,
+por si só, um efeito vinculante que impeça a continuidade
+de investigações e ações autônomas. O princípio do
+contraditório exige que cada acusação seja analisada à luz
+de seus próprios elementos probatórios, sendo inviável,
+
+8
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 361F-4A76-986D-43D7 e senha D489-B1E1-7651-8C63
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 14 de 26
+
+ARE 1613431 AGR / PR
+em sede de habeas corpus, a tutela coletiva pretendida,
+sobretudo quando se verifica que as ações penais derivam
+de contextos fáticos específicos e não de uma matriz
+uniforme e replicável.
+[...]
+Portanto, o controle sobre eventuais excessos deve
+ocorrer dentro dos mecanismos próprios de cada processo,
+sem que se desvirtue a excepcionalidade do habeas corpus
+como meio para trancamento generalizado de persecuções
+criminais autônomas.
+[...]
+Dessa forma, com as devidas vênias ao em. Relator,
+dou parcial provimento ao recurso ordinário em habeas
+corpus para declarar a nulidade da busca e apreensão dos
+prontuários médicos e das provas dela derivadas, que
+deverão ser desentranhadas, determinando que os juízos
+inferiores reavaliem a subsistência da justa causa para as
+persecuções penais, à luz dos demais elementos
+probatórios disponíveis.
+A premissa central adotada no julgamento do STJ, qual
+seja, a de que a amplitude quantitativa e temporal da medida
+seria, por si só, indicativa de fishing expedition, não corresponde
+aos elementos probatórios que precederam e justificaram a
+diligência, tampouco se harmoniza com os parâmetros
+constitucionais que regem a matéria.
+O acórdão recorrido parte do pressuposto de que a busca
+e apreensão dos 1.670 prontuários médicos constituiu diligência
+especulativa, lançada "na esperança de encontrar evidências
+incriminatórias". Tal premissa, contudo, dissocia-se do contexto
+
+9
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 361F-4A76-986D-43D7 e senha D489-B1E1-7651-8C63
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 15 de 26
+
+ARE 1613431 AGR / PR
+investigativo que precedeu a medida.
+Esta CORTE assentou que a fishing expedition consiste em
+investigações genéricas para buscar elementos incriminatórios
+aleatoriamente, sem qualquer embasamento prévio, sendo
+função do controle judicial prévio sobre a medida evitar
+precisamente esse tipo de diligência especulativa (STF, HC
+163.461, Rel. Min. GILMAR MENDES, Segunda Turma, DJe.
+05/02/2019).
+O critério fixado pelo julgado, portanto, não é a amplitude
+objetiva da medida, mas a ausência de lastro indiciário que a
+anteceda, elemento que, na espécie, não se verifica. Como bem
+demonstrado nos autos, a ordem impugnada não representou o
+primeiro ato investigativo, mas o terceiro passo de uma
+sequência lógica e progressiva de apuração.
+Antes de sua expedição, haviam sido realizadas: (i)
+interceptações telefônicas judicialmente autorizadas, nas quais
+se colheram diálogos da investigada e de sua equipe sobre
+práticas como "girar a UTI" e "desligar aparelhos"; (ii) duas buscas
+e apreensões anteriores, voltadas a pacientes nominalmente
+identificados a partir daquelas interceptações; (iii) depoimentos
+de testemunhas, incluindo profissionais de enfermagem que
+atuavam na unidade; e (iv) auditoria da Secretaria Municipal de
+Saúde que anteriormente apontava irregularidades em
+prontuários de óbitos ocorridos no setor.
+A conjugação desses elementos não configura suspeita
+genérica, mas identificação concreta de um modus operandi
+delitivo, a saber, a ministração de fármacos específicos
+associada à manipulação de parâmetros ventilatórios, com
+resultado letal em curto intervalo de tempo.
+A busca então impugnada não visava "vasculhar" à procura
+de qualquer ilícito, mas confirmar, no universo de óbitos
+ocorridos sob a gestão da investigada na UTI, a extensão de um
+
+10
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 361F-4A76-986D-43D7 e senha D489-B1E1-7651-8C63
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 16 de 26
+
+ARE 1613431 AGR / PR
+padrão criminoso delineado pelas diligências anteriores.
+Nesse contexto, a exigência implicitamente criada no
+acórdão recorrido, de que a autoridade investigante deveria ter
+individualizado previamente cada vítima antes de acessar os
+prontuários, é inexequível.
+Em se tratando de suspeita de homicídios seriados
+praticados por profissional em posição de controle sobre um
+determinado ambiente (a UTI, ao longo do período em que a
+exerceu), a identificação das vítimas depende, estruturalmente,
+do próprio acesso aos registros de óbito daquele universo.
+Não se pode exigir do órgão investigador a nominação
+prévia de vítimas cuja existência só pode ser constatada a partir
+do exame dos documentos cuja apreensão se pretende, sob
+pena de se impor prova de natureza diabólica e de se
+inviabilizar, na prática, a investigação de qualquer crime dessa
+espécie.
+Nesse ponto, ao contrário do que consignou o voto
+vencedor, o mandado não autorizou devassa indiscriminada
+sobre a integralidade do acervo documental do hospital. A
+diligência foi circunscrita a um único setor, a UTI geral, sob a
+responsabilidade direta da investigada; a um período
+determinado, coincidente com o intervalo de sua gestão
+naquela unidade; e a uma categoria específica de documentos;
+prontuários de pacientes que evoluíram a óbito, e não de todos
+os pacientes atendidos.
+Essa
+delimitação
+atende
+aos
+parâmetros
+de
+individualização normalmente exigidos pela jurisprudência
+desta SUPREMA CORTE e pelo Superior Tribunal de Justiça
+para a validade de medidas de busca e apreensão, os quais não
+impõem a indicação nominal de cada vítima ou documento,
+mas sim a definição objetiva do universo pesquisado e sua
+vinculação lógica a indícios prévios de autoria e materialidade,
+
+11
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 361F-4A76-986D-43D7 e senha D489-B1E1-7651-8C63
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 17 de 26
+
+ARE 1613431 AGR / PR
+requisitos, todos, presentes na espécie.
+Além disso, observa-se que o acórdão recorrido
+reconheceu a nulidade da busca com fundamento na proteção à
+intimidade.
+Todavia, a medida tinha por objeto prontuários médicos
+de terceiros, isto é, de pacientes que vieram a óbito e que,
+segundo a hipótese acusatória, figuram como vítimas dos
+delitos sob apuração. A investigada detinha sobre esses
+documentos apenas a guarda decorrente de suas atribuições
+funcionais na unidade de saúde, não sendo titular do sigilo
+neles contido. Tal prerrogativa pertence, primordialmente, aos
+próprios pacientes cujos dados pessoais e informações médicas
+constam dos prontuários.
+Essa
+distinção
+é
+fundamental,
+pois
+altera
+significativamente os termos da ponderação constitucional
+envolvida. Não se trata de contrapor o direito à intimidade da
+investigada ao interesse público na persecução penal.
+A questão, em realidade, consiste em ponderar o sigilo de
+dados pertencentes a terceiros falecidos com o dever estatal de
+apurar as circunstâncias de suas mortes, sobretudo diante de
+indícios de que possam ter resultado de condutas criminosas.
+Nessa perspectiva, o acesso limitado aos prontuários
+médicos das próprias vítimas, autorizado e fiscalizado
+judicialmente e voltado exclusivamente à elucidação da causa
+dos óbitos, não pode ser obstado pela invocação de um direito à
+intimidade que não pertence à pessoa beneficiada pela
+declaração de nulidade.
+Admitir o contrário significaria atribuir à mera detentora
+da guarda funcional dos documentos a prerrogativa de opor
+sigilo alheio à atividade investigativa destinada justamente à
+proteção dos bens jurídicos das vítimas e à adequada apuração
+dos fatos.
+
+12
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 361F-4A76-986D-43D7 e senha D489-B1E1-7651-8C63
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 18 de 26
+
+ARE 1613431 AGR / PR
+Ainda que se admitisse a existência de alguma tensão
+entre o sigilo dos prontuários médicos e os interesses da
+persecução penal, a solução constitucionalmente adequada não
+seria a invalidação da prova.
+À luz do princípio da proporcionalidade, a medida
+mostrou-se plenamente legítima. Revelou-se adequada, por
+constituir o único meio apto a identificar as vítimas
+potencialmente alcançadas pelo padrão de conduta evidenciado
+pelos elementos informativos colhidos na investigação;
+necessária, por ter sido precedida de diligências menos
+invasivas, que se mostraram insuficientes para dimensionar a
+extensão dos fatos apurados; e proporcional em sentido estrito,
+uma vez que a restrição imposta ao sigilo documental era
+limitada e controlada, ao passo que a investigação se destinava
+à tutela da vida, bem jurídico dotado da mais elevada proteção
+no sistema constitucional (art. 5º, caput, da Constituição
+Federal).
+Nesse contexto, o interesse público na apuração de
+possíveis condutas responsáveis por óbitos sobrepõe-se, no caso
+concreto, ao sigilo de informações pertencentes a terceiros
+falecidos, sobretudo porque o acesso aos documentos
+permaneceu restrito às autoridades competentes, sob
+permanente supervisão jurisdicional e sem qualquer divulgação
+pública de seu conteúdo.
+Dessa forma, não se vislumbra, na medida de busca e
+apreensão em exame, os elementos caracterizadores de fishing
+expedition. Ao contrário, a diligência decorreu de investigação
+previamente estruturada, respaldada em indícios concretos de
+autoria e materialidade, e foi delimitada de forma compatível
+com a natureza do delito investigado, homicídios reiterados,
+praticados em série, por profissional em posição de controle
+sobre o ambiente em que ocorreram os óbitos.
+Reconhecer, na hipótese, a nulidade da prova por ausência
+
+13
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 361F-4A76-986D-43D7 e senha D489-B1E1-7651-8C63
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 19 de 26
+
+ARE 1613431 AGR / PR
+de delimitação equivale a impor, à investigação de crimes dessa
+natureza, um padrão de prova prévia impossível de ser
+atendido, com o inevitável efeito de inviabilizar, de forma
+sistêmica, a apuração de condutas criminosas seriadas
+praticadas em ambiente hospitalar, consequência que não se
+pode chancelar sob o manto da proteção às garantias
+constitucionais, cuja finalidade é resguardar o cidadão contra o
+arbítrio estatal, e não erigir obstáculo intransponível à
+investigação legítima de crimes graves contra a vida.
+Não se pode confundir uma investigação complexa e de
+grande amplitude, destinada à apuração de múltiplos
+homicídios possivelmente praticados em ambiente hospitalar
+ao longo de determinado período, com a denominada "pesca
+probatória" (fishing expedition). Esta somente se caracteriza
+quando se pretende investigar genericamente pessoas ou
+situações sem fatos concretos previamente delimitados, de
+maneira meramente especulativa, buscando-se a obtenção
+aleatória de elementos informativos desvinculados de
+investigação regularmente instaurada ou de infração penal
+existente (CAPRA, Daniel J. SALTZBURG, Stephen A. American
+Criminal Procedure, Adjudicative: Cases and Commentary 10th
+West Academic Publishing. 11th ed. 2007, p. 1.090; ROSA,
+Alexandre Morais da, Guia do Processo Penal Estratégico: de acordo
+com a Teoria dos Jogos, 1ª ed., Santa Catarina: Emais, 2021, p. 389390; DA SILVA, Viviani Ghizoni; SILVA, Phelipe Benoni Melo
+e; ROSA, Alexandre Morais da. Fishing Expedition e Encontro
+Fortuito na Busca e na Apreensão: Um dilema oculto do processo
+penal. 1ª ed. Florianópolis: Emais, 2019. p. 50; LIMA, Renato
+Brasileiro de. Manual de Processo Penal: Volume Único. 11ª edição.
+São Paulo: Ed. JusPodivm, 2022. p. 177).
+Nesse sentido, julgados proferidos pela Primeira Turma
+desta SUPREMA CORTE:
+
+14
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 361F-4A76-986D-43D7 e senha D489-B1E1-7651-8C63
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 20 de 26
+
+ARE 1613431 AGR / PR
+PENAL E PROCESSO PENAL. ORGANIZAÇÃO
+CRIMINOSA ARMADA ATENTATÓRIA AO ESTADO
+DEMOCRÁTICO DE DIREITO. UTILIZAÇÃO DA
+ESTRUTURA DO ESTADO, DE MODO ESTÁVEL E
+PERMANENTE, COM A INTENÇÃO DE PERMANECER
+ILICITAMENTE NO PODER, INDEPENDENTEMENTE
+DO
+RESULTADO
+DAS
+ELEIÇÕES
+E,
+POSTERIORMENTE, COM A FINALIDADE DE IMPEDIR
+A POSSE OU DEPOR O GOVERNO LEGITIMAMENTE
+ELEITO OU CONSTITUÍDO COM A DECRETAÇÃO DE
+UM ESTADO DE EXCEÇÃO. CONSUMAÇÃO PELA
+ORGANIZAÇÃO CRIMINOSA ARMADA (ART. 2º,
+CAPUT, §§ 2º e 4º, II, DA LEI 12.850/2013) DOS CRIMES
+DE ABOLIÇÃO VIOLENTA DO ESTADO DE DIREITO
+(CP, ART. 359-L), GOLPE DE ESTADO (CP, ART. 359-M),
+DANO QUALIFICADO AO PATRIMÔNIO PÚBLICO
+(CP, ART. 163) E DETERIORAÇÃO DE PATRIMÔNIO
+TOMBADO (ART. 62, I, DA LEI 9.605/1988). AUTORIA E
+MATERIALIDADE COMPROVADAS. AÇÃO PENAL
+PARCIALMENTE PROCEDENTE.
+(...)
+(c) AUSÊNCIA DE PROVA ILÍCITA POR
+DERIVAÇÃO. NÃO CARACTERIZAÇÃO DE FISHING
+EXPEDITION. A hipótese dos autos, consubstanciada
+em investigação iniciada para apurar a existência de
+milicias digitais atentatórias ao Estado Democrático de
+Direito e à independência das Instituição, não se
+confunde com a chamada “pesca probatória”, que
+somente se caracteriza quando se pretende investigar
+genericamente algumas pessoas e não fatos, de maneira
+especulativa, ou seja, obter qualquer dado aleatório,
+independentemente da investigação instaurada ou
+infração penal existente. Não se pode confundir uma
+detalhada e complexa investigação com a ilegal “pesca
+
+15
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 361F-4A76-986D-43D7 e senha D489-B1E1-7651-8C63
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 21 de 26
+
+ARE 1613431 AGR / PR
+probatória”. Todos os elementos de prova presentes nos
+autos foram obtidos de forma lícita e identificados pela
+autoridade policial, conforme se demonstra em sumário
+do relatório da investigação juntado aos autos;
+25.
+AÇÃO
+PENAL
+PARCIALMENTE
+PROCEDENTE. (AP 2694, Rel. Min. ALEXANDRE DE
+MORAES, Primeira Turma, julgado em 21-10-2025,
+PROCESSO ELETRÔNICO DJe 05/02/2026 - grifei)
+No mesmo sentido: AP 2693, Rel. Min. ALEXANDRE DE
+MORAES, Primeira Turma, julgado em 16-12-2025, PROCESSO
+ELETRÔNICO DJe 12/03/2026.
+No caso concreto, todos os elementos que embasaram a
+medida cautelar decorrem de diligências regularmente
+autorizadas e desenvolvidas no curso de investigação
+previamente estruturada, fundada em indícios concretos de
+autoria e materialidade relacionados ao possível padrão
+reiterado de condutas praticadas na unidade hospitalar sob
+apuração.
+Não raras vezes, medidas investigativas legitimamente
+instauradas revelam elementos informativos relativos a fatos
+inicialmente desconhecidos ou a vítimas até então não
+identificadas. Em hipóteses dessa natureza, a obtenção de novas
+provas no curso das diligências não descaracteriza a licitude da
+investigação nem transforma a medida em indevida “fishing
+expedition”, sobretudo quando os elementos descobertos
+guardam pertinência com o objeto investigado ou decorrem do
+denominado encontro fortuito de provas.
+A
+propósito,
+tive
+doutrinariamente que:
+
+oportunidade
+
+de
+
+consignar
+
+16
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 361F-4A76-986D-43D7 e senha D489-B1E1-7651-8C63
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 22 de 26
+
+ARE 1613431 AGR / PR
+
+“Não raras vezes, são decretadas interceptações
+telefônicas pela autoridade judicial competente para a
+investigação de fato certo, tipificado pela lei penal como
+crime apenado com reclusão, e, no curso de sua efetivação,
+outras infrações penais são descobertas (“crime-achado”),
+inclusive em relação a outros autores e partícipes, ou
+mesmo, acabam sendo produzidas provas em relação a
+outras investigações já em andamento. A interpretação das
+limitações subjetivas e objetivas na obtenção de provas
+mediante a autorização judicial para interceptações
+telefônicas deve visar garantir a efetividade da proteção
+aos direitos fundamentais consagrados no texto
+constitucional, em especial à intimidade, vida privada,
+sigilo
+das
+comunicações
+telefônicas;
+além
+da
+inadmissibilidade das provas obtidas por meios ilícitos.
+[…] Em relação ao denominado “crime achado”, ou seja,
+àquela infração penal desconhecida e, portanto, até aquele
+momento não investigada, entendo que deva existir
+maiores cuidados na aceitação da prova obtida, sob pena
+de excessiva relativização do inciso XII do art. 5º do texto
+constitucional, e, consequentemente, de afastamento da
+proteção prevista no inciso LVI do art. 5º
+(inadmissibilidade das provas obtidas por meios ilícitos).
+Na hipótese de o ‘crime achado’ ser conexo com o crime
+objeto principal da investigação, descabível seria a
+decretação da ilicitude da prova, independentemente de o
+mesmo ser apenado com reclusão ou detenção, por
+encontrar-se no âmbito da investigação inicial (Direito
+Constitucional. 40ª ed. São Paulo: Atlas, 2024, Capítulo 3,
+item 15.4).
+Esse entendimento encontra amparo na jurisprudência
+desta SUPREMA CORTE:
+
+17
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 361F-4A76-986D-43D7 e senha D489-B1E1-7651-8C63
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 23 de 26
+
+ARE 1613431 AGR / PR
+
+RECURSO ORDINÁRIO EM HABEAS CORPUS.
+CRIMES DE ASSOCIAÇÃO CRIMINOSA, CORRUPÇÃO
+PASSIVA E LAVAGEM DE CAPITAIS (ARTIGOS 288 E
+317, §1º, AMBOS DO CÓDIGO PENAL; E ARTIGO 1º DA
+LEI 9.613/1998). MEDIDAS DE BUSCA E APREENSÃO.
+ALEGAÇÃO DE NULIDADE. TEORIA DOS FRUTOS DA
+ÁRVORE
+ENVENENADA.
+ORIGEM
+EM
+COLABORAÇÃO PREMIADA CONTRÁRIA À LEI.
+ALEGAÇÃO DE ILICITUDE DA PROVA, POR
+DERIVAÇÃO. PEDIDO DE DESENTRANHAMENTO DE
+TODOS OS ELEMENTOS INDICIÁRIOS PRODUZIDOS
+NA COLABORAÇÃO PREMIADA E DAS DEMAIS
+PROVAS DERIVADAS, COM O RETORNO DO FEITO
+AO STATUS QUO ANTE. INOCORRÊNCIA DAS
+ILICITUDES
+ALEGADAS.
+ACORDO
+DE
+COLABORAÇÃO
+PREMIADA
+VALIDAMENTE
+CELEBRADO. INSUBSISTÊNCIA DA TESE ALUSIVA À
+LIMITAÇÃO DO OBJETO DA DELAÇÃO AOS CRIMES
+DE ORGANIZAÇÃO CRIMINOSA OU PRATICADOS
+NO SEU CONTEXTO. EVOLUÇÃO HISTÓRICA DO
+INSTITUTO DA COLABORAÇÃO PREMIADA NO
+DIREITO BRASILEIRO. DO DIREITO PREMIAL À
+JUSTIÇA PENAL NEGOCIAL. LICITUDE ATRELADA À
+VOLUNTARIEDADE DAS PARTES E À COMPETÊNCIA
+DOS ÓRGÃOS ATUANTES. NARRATIVA DE CRIMES
+NÃO RELACIONADOS AOS QUE DERAM ORIGEM ÀS
+TRATATIVAS DA COLABORAÇÃO. ENCONTRO
+FORTUITO
+DE
+PROVAS.
+APROVEITAMENTO.
+PRECEDENTES. VALIDADE DA MEDIDA DE BUSCA E
+APREENSÃO. INSUFICIÊNCIA DA TESE DEFENSIVA
+DE PROVA ILÍCITA POR DERIVAÇÃO. MEDIDAS DE
+INSTRUÇÃO
+FUNDADAS
+EM
+ELEMENTOS
+COLIGIDOS, TAMBÉM, EM PROCEDIMENTO DE
+
+18
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 361F-4A76-986D-43D7 e senha D489-B1E1-7651-8C63
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 24 de 26
+
+ARE 1613431 AGR / PR
+INVESTIGAÇÃO
+DIVERSO
+DA
+PRÓPRIA
+COLABORAÇÃO. FONTE AUTÔNOMA. RECURSO
+ORDINÁRIO EM HABEAS CORPUS DESPROVIDO. (...)
+A descoberta de delitos não conexos aos originalmente
+investigados dá azo ao denominado “encontro fortuito
+de provas”, fonte lícita e admissível em autos de
+investigações e processos criminais, (RHC 219.193, Rel.
+Min. LUIZ FUX, Primeira Turma, DJe de 11/11/2022 grifei).
+Por fim, diante do provimento conferido ao recurso
+quanto ao mérito da licitude da busca e apreensão, com o
+consequente restabelecimento da validade das provas dela
+derivadas, resta prejudicada a análise do pedido subsidiário
+formulado pelo recorrente, atinente à nulidade processual por
+ausência de intimação do Ministério Público do Estado do
+Paraná para oferecer contrarrazões ao agravo regimental, bem
+como à alegada violação à autonomia institucional e à
+titularidade da ação penal do Parquet estadual (arts. 5º, LIV e
+LV, e arts. 127 e 129, I, da Constituição Federal).
+Isso porque o pedido subsidiário visava, em última
+análise, à anulação do julgamento do agravo regimental para
+que nele fosse assegurada a participação do MPPR. Superada
+essa questão pelo provimento do pedido principal, com o
+restabelecimento da licitude da busca e apreensão e das provas
+dela decorrentes, não subsiste interesse recursal na rediscussão
+do vício formal apontado, que perde o objeto.
+Diante do exposto, nos termos do art. 21 do RISTF,
+CONHEÇO do Agravo e, desde logo, DOU PROVIMENTO ao
+Recurso Extraordinário para reformar o acórdão proferido pelo
+Superior Tribunal de Justiça, restabelecendo a licitude da busca
+e apreensão dos prontuários médicos e das provas dela
+derivadas, e determinando o retorno dos autos à origem para
+
+19
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 361F-4A76-986D-43D7 e senha D489-B1E1-7651-8C63
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 25 de 26
+
+ARE 1613431 AGR / PR
+que o juízo competente prossiga na análise da subsistência da
+justa causa para as persecuções penais, à luz da integralidade
+do acervo probatório.
+
+Logo, não há reparo a fazer no entendimento aplicado, pois o
+Agravo regimental não apresentou qualquer argumento apto a
+desconstituir os óbices apontados.
+Diante do exposto, NEGO PROVIMENTO ao Agravo Regimental.
+É como voto.
+
+20
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 361F-4A76-986D-43D7 e senha D489-B1E1-7651-8C63
+
+Supremo Tribunal Federal
+Extrato de Ata - 13/10/2026
+
+Inteiro Teor do Acórdão - Página 26 de 26
+
+PRIMEIRA TURMA
+
+EXTRATO DE ATA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.613.431
+PROCED. : PARANÁ/PR
+RELATOR(A): MIN. ALEXANDRE DE MORAES
+AGTE.(S): VIRGINIA HELENA SOARES DE SOUZA
+ADV.(A/S): LOUISE MATTAR ASSAD (60259/PR)
+AGDO.(A/S): MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ
+PROC.(A/S)(ES): PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DO PARANÁ
+INTDO.(A/S): KAYQUE JOSE KENTENICH DANTAS MENDES
+ADV.(A/S): DEYVISON SILVA DE ANDRADE (197057/MG)
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto do Relator, Ministro Alexandre de
+Moraes. Primeira Turma, Sessão Virtual de 2.10.2026 a 9.10.2026.
+Composição: Ministros Cármen Lúcia (Presidente), Alexandre de
+Moraes, Cristiano Zanin e Flávio Dino.
+Cintia da Silva Gonçalves
+Secretária da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 15E2-C1B5-E21C-24E3 e senha 3FE1-CEE5-1FC8-4892
