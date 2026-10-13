@@ -1,0 +1,46 @@
+DECISÃO
+1. Trata-se de Embargos de Declaração opostos por CARGA PESADA TRANSPORTES LTDA à decisão de fls. 771/772, que não conheceu do recurso.
+Sustenta a parte embargante:
+A decisão embargada não conheceu do Agravo em Recurso Especial ao fundamento de que, após o indeferimento da gratuidade da justiça, a parte teria sido intimada e "não regularizou o preparo".
+Com o devido respeito, a decisão deixou de enfrentar ponto essencial suscitado no Agravo em Recurso Especial e partiu de premissa fática que não corresponde à real controvérsia dos autos.
+A intimação realizada na origem decorreu do indeferimento do pedido de gratuidade da justiça. Sua finalidade era permitir o recolhimento das custas recursais, na forma do art. 99, § 7º, do CPC.
+Essa determinação foi cumprida.
+A Embargante recolheu as custas devidas ao Tribunal de Justiça do Estado de Santa Catarina e ao Superior Tribunal de Justiça.
+A própria decisão de inadmissibilidade reconheceu que foi juntado comprovante de pagamento, tendo inadmitido o Recurso Especial porque esse comprovante estaria desacompanhado da respectiva guia de recolhimento.
+Portanto, o fundamento da inadmissibilidade não foi a ausência material de preparo, mas suposta deficiência documental na comprovação do recolhimento já realizado.
+A ausência inicial da guia correspondente ao comprovante de pagamento não pode ser tratada como inexistência de recolhimento. Trata-se, quando muito, de vício formal de comprovação, passível de saneamento.
+Além disso, no próprio Agravo em Recurso Especial, a Embargante acostou as guias e os comprovantes de pagamento correspondentes, demonstrando a vinculação do recolhimento ao processo, à parte recorrente, ao beneficiário e ao valor devido.
+Assim, a premissa de que a parte "não regularizou o preparo" não se sustenta diante da documentação submetida ao exame do Tribunal e da própria natureza do vício apontado na origem. A decisão embargada deve ser integrada para examinar expressamente essa documentação e a tese de que o caso não envolve ausência de preparo, mas vício documental sanável.
+ ..
+A decisão embargada tratou a intimação para recolhimento do preparo, decorrente do indeferimento da gratuidade da justiça, como se ela equivalesse à intimação específica para sanar vício documental posteriormente identificado.
+São situações processuais distintas.
+O art. 99, § 7º, do CPC disciplina a hipótese em que o pedido de gratuidade formulado em recurso é indeferido. Nessa situação, fixa-se prazo para que o recorrente realize o recolhimento das custas.
+Já os arts. 932, parágrafo único, e 1.007, §§ 4º e 7º, do CPC tratam do saneamento de vícios de admissibilidade recursal, inclusive aqueles relacionados à comprovação do preparo.
+No caso, após o indeferimento da gratuidade, a Embargante recolheu as custas. O vício posteriormente apontado foi outro: ausência da guia correspondente ao comprovante de pagamento apresentado.
+Diante desse vício específico, cabia oportunizar o saneamento da falha documental, mediante intimação própria para apresentação da guia, comprovação da vinculação do pagamento ou, subsidiariamente, recolhimento em dobro, caso assim se entendesse necessário.
+A intimação para recolher custas após o indeferimento da gratuidade não substitui a intimação específica para sanar vício documental na comprovação de pagamento já realizado (fls. 777/779).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+2. Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado na decisão ora embargada, que agora se repete, verifica-se que o Recurso Especial não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento, em razão do pedido de gratuidade de justiça.
+O TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA entendeu que a hipossuficiência não restou comprovada e indeferiu o pedido, determinando que a parte recolhesse as custas, nos termos da decisão de fls. 227/228.
+Apesar de devidamente intimada, a parte não regularizou o preparo, uma vez que deixou de juntar a respectiva guia de recolhimento, embora tenha apresentado o comprovante de pagamento das custas.
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção. Nesse sentido, os seguintes precedentes: AgInt no AREsp 1569257/RS, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 22.6.2020; e AgRg no AREsp 570.469/DF, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 23.6.2020.
+Essa exigência tem respaldo na necessidade de constar o número do código de barras e o do processo no comprovante de pagamento, viabilizando-se a comparação com aqueles lançados na GRU apresentada, para que não haja dúvida acerca da validade do documento e do seu efetivo recolhimento.
+Do mesmo modo, não se pode afirmar que a ausência da guia constitui, necessariamente, mero vício formal e irrelevante. A guia é justamente o documento que permite verificar a correspondência do pagamento com o preparo exigido. Se o comprovante isoladamente apresentado não permitiu essa verificação, não havia como presumir a regularidade do recolhimento.
+Assim, não se trata de afirmar que nenhum pagamento foi realizado, mas de reconhecer que a parte não comprovou regularmente o cumprimento da determinação judicial no momento oportuno.
+Portanto, a questão não é simplesmente saber se houve pagamento, mas se houve comprovação regular e tempestiva do preparo. E, conforme reconhecido na origem, isso não ocorreu.
+Ademais, não procede a alegação de que seriam necessárias duas intimações distintas: uma para recolher o preparo e outra para apresentar a respectiva guia.
+A intimação realizada após o indeferimento da gratuidade destinou-se à regularização do preparo, o que não envolve apenas o pagamento, mas também sua adequada comprovação nos autos.
+Assim, a ausência da guia não constitui um vício completamente novo, mas deficiência na própria comprovação do preparo que a parte já havia sido intimada a regularizar.
+No mais, a posterior juntada das guias e dos comprovantes de pagamento, tanto no Agravo em Recurso Especial quanto, novamente, nestes aclaratórios, não altera essa conclusão. A apresentação tardia de documentos não torna automaticamente regular situação que não foi devidamente comprovada quando a parte foi intimada para regularizar o preparo.
+A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a juntada tardia da documentação relativa ao preparo, após a oportunidade processual própria, não afasta a preclusão, conforme decidido no AgInt no AREsp 1.399.586/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 3/12/2019, e no AgInt nos EDcl nos EREsp 1.454.030/SP, Rel. Ministro Francisco Falcão, Corte Especial, DJe de 26/11/2019.
+No mais, "Na esteira da uníssona jurisprudência desta Corte de Justiça, os embargos de declaração não constituem instrumento adequado ao prequestionamento, com vistas à futura interposição de recurso extraordinário, razão pela qual, para tal escopo, também não merecem prosperar" (EDcl no REsp n. 1.863.973/SP, Rel. Ministro Marco Aurélio Bellizze, Segunda Seção, DJe de 28.6.2022; e EDcl no AgInt no AREsp n. 1.654.182/SC, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 12.4.2022).
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (EDcl no AgRg na QC n. 19/DF, relator Ministro Ricardo Villas Bôas Cueva, Corte Especial, julgado em 23/6/2026, DJEN de 29/6/2026; e AgRg no MS n. 31.469/DF, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 12/5/2026, DJEN de 19/5/2026.).
+at com o ChatGPT
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgRg nos EAREsp n. 3.113.381/SC, relator Ministro Humberto Martins, Corte Especial, julgado em 8/9/2026, DJEN de 15/9/2026.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+3. Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
