@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por FERNANDO CORREIA (e-STJ, fls. 5949-5955) contra decisão, por mim proferida, em que não conheci do agravo em recurso especial, por ausência de impugnação específica dos fundamentos da decisão de inadmissibilidade do recurso especial (e-STJ, fls. 5938-5941).
+Sustenta omissão quanto ao exame de impugnações específicas dirigidas ao óbice da Súmula 7/STJ nas cinco primeiras controvérsias, alegando que o agravo realizou cotejo concreto entre as premissas fáticas do acórdão recorrido e as teses jurídicas, com transcrições pontuais do julgado e do recurso especial (e-STJ, fls. 5949-5952).
+Aponta, ainda, omissão relativa ao prequestionamento da sexta controvérsia (art. 2º, § 2º, da Lei 12.850/2013), afirmando que o acórdão recorrido tratou expressamente da causa de aumento, que foram opostos embargos de declaração na origem e que foi invocado o prequestionamento implícito e ficto (e-STJ, fls. 5953-5954).
+Por derradeiro, questiona a referência à Súmula 211/STJ na decisão embargada, por não ter sido óbice aplicado na decisão de inadmissibilidade da origem, e requer, para fins de prequestionamento, pronunciamento sobre diversos dispositivos legais e constitucionais (e-STJ, fls. 5954-5955).
+É o relatório.
+Decido.
+Os embargos não merecem ser acolhidos.
+Dispõe o Código de Processo Penal:
+"Art. 619. Aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou
+turmas, poderão ser opostos embargos de declaração, no prazo de dois dias
+contados da sua publicação, quando houver na sentença ambiguidade,
+obscuridade, contradição ou omissão."
+Inicialmente, cumpre ressaltar que os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, a sua revisão no caso de mero inconformismo da parte.
+Nesse sentido:
+" ..
+3. Os embargos de declaração são recurso com fundamentação vinculada. Dessa forma, para seu cabimento, imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal, o que não logrou fazer a embargante. Destarte, a mera irresignação com o entendimento apresentado na decisão, visando à reversão do julgado, não tem o condão de viabilizar a oposição dos aclaratórios.
+4. Embargos declaratórios rejeitados." (EDcl no AgRg no AREsp 669.505/RN, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 25/8/2015.)
+No tocante à alegada omissão quanto às impugnações específicas dirigidas ao óbice da Súmula 7/STJ, a decisão embargada enfrentou o ponto de modo direto, registrando que "A alegação genérica de que se cuidaria de "revaloração jurídica do conjunto fático- probatório" não atende, por si, ao ônus de impugnação específica. Conforme a premissa metodológica exigida, caberia ao agravante realizar cotejo concreto entre os fatos fixados pelo acórdão recorrido e as teses jurídicas, demonstrando que a solução pretendida não exige alteração do quadro fático." (e-STJ, fl. 5940).
+Na mesma linha, foram transcritos precedentes que reforçam a necessidade de impugnação específica e concreta dos fundamentos da decisão agravada, afastando a mera qualificação genérica do debate como "jurídico" sem explicitar, "à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas" (AgRg no AREsp 1.789.363/SP), bem como a insuficiência "de meras alegações genéricas ou à insistência no mérito da controvérsia" (AgRg no RHC 128.660/SP) (e-STJ, fls. 5940-5941).
+Como se vê dos trechos transcritos, a decisão embargada examinou precisamente o vício apontado, concluindo pela ausência de impugnação específica idônea ao óbice fático-probatório. Ademais, registrou-se a natureza incindível da decisão de inadmissibilidade, que exige impugnação integral dos fundamentos impeditivos, conforme a Corte Especial: "a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade" (EAREsp 746.775/PR) (e-STJ, fls. 5939-5940). Não há omissão a integrar; há, sim, discordância da parte com o juízo de suficiência dialética.
+Não se verifica omissão. A decisão embargada registrou, de forma clara, que "o agravante invoca prequestionamento implícito (art. 1.025 do CPC) e a natureza de ordem pública da matéria. Todavia, não demonstra ofensa ao art. 619 do CPP para fins de aferir eventual omissão da Corte local, nem comprova oposição de embargos de declaração exitosos para provocar o debate específico sobre o art. 2º, § 2º, da Lei 12.850/2013 (fl. 5741-5742). Conforme orientação desta Corte, "mesmo as matérias de ordem pública exigem prequestionamento" (AgRg no AREsp n. 2.428.141/RS, rel. Min. Ribeiro Dantas, Quinta Turma, DJe 20/5/2024)" (e-STJ, fl. 5941). Como se vê, o ponto foi enfrentado.
+De fato, houve interposição de embargos de declaração na origem e eles foram rejeitados, conforme expressamente assentado no acórdão estadual de embargos (e-STJ, fls. 5595-5599) e também consignado no relatório da decisão monocrática (e-STJ, fl. 5938).
+Nessa moldura, permanece ausente o prequestionamento específico do art. 2º, § 2º, da Lei 12.850/2013, pois os embargos não lograram provocar pronunciamento explícito sobre o ponto, nem se demonstrou, nos presentes embargos, ofensa ao art. 619 do CPP apta a caracterizar omissão da Corte local.
+A jurisprudência desta Corte é firme no sentido de que "mesmo as matérias de ordem pública exigem prequestionamento" (AgRg no AREsp n. 2.428.141/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/5/2024, DJe de 20/5/2024) (e-STJ, fl. 5941).
+Assim, ainda que opostos embargos na origem, a ausência de enfrentamento específico do dispositivo legal invocado, somada à falta de demonstração de omissão nos termos do art. 619 do CPP, mantém a incidência dos óbices de prequestionamento (Súmulas 282/356 do STF e 211 do STJ). Não há vício a ser integrado.
+No que se refere à objeção quanto à referência à Súmula 211/STJ, a decisão embargada explicitou, com clareza, que a ausência de prequestionamento atrai a "manutenção das Súmulas 282/356 STF e 211/STJ" (e-STJ, fl. 5941). Tal indicação é fundamento próprio do juízo de admissibilidade nesta instância, derivado da constatação da falta de debate explícito na origem, e independe de reprodução literal dos óbices aplicados no Tribunal local, sobretudo porque, como assentado pela Corte Especial, a decisão de inadmissibilidade é incindível e deve ser impugnada integralmente (e-STJ, fls. 5939-5940). Não há contradição nem omissão; há adequação do raciocínio aos parâmetros de conhecimento do recurso especial.
+Quanto ao pedido de prequestionamento de dispositivos constitucionais e legais formulado nos embargos, a ausência de vício integrável nos termos do art. 619 do CPP impede acolhimento com tal finalidade.
+A pretensão traduz inconformismo com o juízo de inadmissibilidade do agravo em recurso especial, sem subsunção aos vícios do art. 619 do CPP.
+É importante destacar que "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". (EDcl no MS 21.315/DF, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), PRIMEIRA SEÇÃO, julgado em 08/06/2016, DJe 15/06/2016). Com efeito, não há necessidade de resposta a cada afirmação específica.
+É inviável o debate acerca da contrariedade a dispositivos da CR/88 em sede de recurso especial, uma vez que não compete a esta Corte Superior o seu enfrentamento, sob pena de usurpação da competência do STF.
+Ilustrativamente:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO DE PRINCÍPIOS E DISPOSITIVOS CONSTITUCIONAIS. DESCABIMENTO DE ANÁLISE POR ESTA CORTE. COMPETÊNCIA DO STF. CONDENAÇÃO CRIMINAL COM TRÂNSITO EM JULGADO HÁ MAIS DE 5 ANOS. CONFIGURAÇÃO DE MAUS ANTECEDENTES. PRECEDENTES. ROUBO. CONSUMAÇÃO. DESNECESSIDADE DE POSSE MANSA E PACÍFICA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Compete ao Supremo Tribunal Federal analisar eventual existência de ofensa a princípios ou dispositivos constitucionais, não cabendo a esta Corte se pronunciar acerca de eventual violação à Constituição Federal sob pena de usurpação da competência.
+ ..
+4. Agravo regimental desprovido."
+(AgRg no REsp n. 1.668.004/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/9/2017, DJe de 2/10/2017.)
+" ..
+2. Não compete ao Superior Tribunal de Justiça se manifestar explicitamente acerca de dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação de competência reservada ao Supremo Tribunal Federal.
+Agravo regimental desprovido."
+(AgRg nos EDcl no AREsp n. 905.964/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado 8/8/2017, DJe de 18/8/2017.)
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intime-se.
+ EMENTA
