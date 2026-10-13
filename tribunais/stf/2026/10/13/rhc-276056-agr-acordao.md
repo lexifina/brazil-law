@@ -1,0 +1,576 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 13
+
+13/10/2026
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO ORDINÁRIO EM HABEAS CORPUS 276.056 SÃO
+PAULO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. GILMAR MENDES
+: DOUGLAS APARECIDO POSSA ALVES
+: GUILHERME RODRIGUES DA SILVA
+: RODRIGO ANTONIO SERAFIM
+: ALAMIRO VELLUDO SALVADOR NETTO
+: SOFIA FERRARI DO VALLE
+: ANA JULIA POZZI ARRUDA
+: HENRIQUE GOMES DOS SANTOS
+: MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO
+: PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DE
+SÃO PAULO
+
+Ementa: Direito processual penal. Agravo regimental no recurso
+ordinário em habeas corpus. Revisão criminal. Homicídio. Alegação de
+ausência de código hash e de nulidade por investigação iniciada a partir
+de denúncia anônima. Inocorrência. Agravo improvido.
+ACÓRDÃO:
+A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto do Relator, Ministro Gilmar Mendes.
+Falou, pelo agravante, o Dr. Henrique Gomes dos Santos.
+Publique-se.
+Brasília, 13 de outubro de 2026.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4B81-9397-9836-A87A e senha CE69-1A5D-62C9-E791
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 2 de 13
+
+AG.REG. NO RECURSO ORDINÁRIO EM HABEAS CORPUS 276.056 SÃO
+PAULO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. GILMAR MENDES
+: DOUGLAS APARECIDO POSSA ALVES
+: GUILHERME RODRIGUES DA SILVA
+: RODRIGO ANTONIO SERAFIM
+: ALAMIRO VELLUDO SALVADOR NETTO
+: SOFIA FERRARI DO VALLE
+: ANA JULIA POZZI ARRUDA
+: HENRIQUE GOMES DOS SANTOS
+: MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO
+: PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DE
+SÃO PAULO
+RELATÓRIO
+
+O SENHOR MINISTRO GILMAR MENDES (RELATOR): Trata-se de
+agravo regimental no recurso ordinário em habeas corpus.
+Colho da decisão recorrida:
+Trata-se de agravo regimental em habeas corpus
+interposto em favor de DOUGLAS APARECIDO POSSA
+ALVES contra decisão em que o em. Ministro Antônio Saldanha
+denegou a ordem e assim relatou o caso:
+Trata-se de habeas corpus impetrado em benefício de
+DOUGLAS APARECIDO POSSA ALVES no qual se aponta
+como autoridade coatora o Primeiro Grupo de Direito Criminal
+do Tribunal de Justiça do Estado de São Paulo (Revisão
+Criminal n. 2300042-05.2024.8.26.0000).
+Depreende-se dos autos que o ora paciente foi condenado
+a 14 anos de reclusão, no regime inicial fechado, pela prática do
+crime de homicídio qualificado, previstos no art. 121, § 2º,
+incisos I e IV, c/c o art. 29, caput, ambos do Código Penal, com
+trânsito em julgado para defesa em 24/2/2024 e para acusação
+em 6/3/2024 (e-STJ fls. 2-6).
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 195E-2E8C-DEA0-FB6A e senha 5F5B-451F-0186-7DD4
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 13
+
+RHC 276056 AGR / SP
+O Tribunal de origem indeferiu a revisão criminal em
+acórdão assim ementado (e-STJ fls. 2.340-2.342): Voto nº 21.983
+Revisão criminal. Homicídio qualificado. Reexame de provas.
+Alegada ocorrência de nulidades que, reconhecidas,
+conduziriam a um quadro de insuficiência probatória.
+Utilização da ação como uma segunda apelação. Ausência de
+mínima demonstração na petição inicial da hipótese prevista
+nos incisos I e II do artigo 621 do Código de Processo Penal.
+Ausência de comprovação da existência de documentos
+comprovadamente falsos. O cabimento da ação de revisão
+criminal é excepcional, sob pena de indevida relativização da
+coisa julgada e da segurança jurídica. Precedentes desta Corte,
+alinhados à jurisprudência do Colendo Superior Tribunal de
+Justiça. Revisão criminal julgada improcedente. Daí o presente
+habeas corpus, no qual sustenta a defesa: a) Ilegitimidade da
+prova por quebra da cadeia de custódia: sustenta que os prints
+de conversas do Facebook entregue pela mãe da vítima não
+passaram por qualquer procedimento de cadeia de custódia,
+não foram submetidos à perícia oficial para atestar sua
+integridade, não possuem código hash para verificação de
+autenticidade, constituindo prova digital que pode ser
+facilmente adulterada (e-STJ fls. 8-15). b) Ilicitude da busca e
+apreensão fundada em denúncia anônima: argumenta que a
+busca e apreensão no domicílio do casal foi deferida
+exclusivamente com base em denúncia anônima que não fazia
+qualquer referência ao paciente ou a seu companheiro, apenas
+citava JEAN (corréu), sendo que a conexão com JONATAS e
+DOUGLAS foi feita pela polícia ao identificar que eram irmãos;
+sem fundadas razões, a medida invasiva não encontra respaldo
+legal (e-STJ fls. 15-19). Diante dessas considerações, requer (eSTJ fl. 19): a) Seja declarada a ilegalidade das provas (prints de
+conversas), ante os termos da jurisprudência dos Tribunais e a
+norma processual, com anulação dos procedimentos e provas
+subsequentes. b) Seja declarada a ilegalidade da busca e
+apreensão fundada em denúncia anônima e prova inválida,
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 195E-2E8C-DEA0-FB6A e senha 5F5B-451F-0186-7DD4
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 13
+
+RHC 276056 AGR / SP
+com anulação dos procedimentos subsequentes, com base no
+art. 157 do CPP. c) Subsidiariamente, seja anulado o processo,
+com a consequente absolvição definitiva do paciente, com
+fulcro no art. 386, incisos V e/ou VII, do CPP. d) Seja
+determinada a imediata soltura do executado, diante do
+processo viciado pelo qual se concluiu por sua condenação. O
+writ foi indeferido liminarmente (e-STJ fls. 2.560/2.563),
+mantido o indeferimento pela Sexta Turma (e-STJ fls.
+2.620/2.625). A Suprema Corte determinou que fosse analisado
+o mérito da presente impetração (e-STJ fls. 2.643/2.650). É o
+relatório. No presente agravo, repisa a parte as alegações
+originais. Requer, por fim, a reconsideração da decisão ou o seu
+enfrentamento pelo colegiado. É o relatório. (eDOC 103)
+No STJ, o recorrente não teve êxito.
+Neste recurso, o recorrente requer “seja concedida a presente
+ordem de habeas corpus para se declarar as nulidades das provas
+impugnadas, bem como todo o procedimento decorrente a partir da
+inserção dessas aos autos. Consequentemente, requer seja determinada
+a imediata soltura do executado, tendo em vista o processo viciado pelo
+qual se concluiu por sua condenação.” (eDOC 110)
+A PGR opina pelo improvimento do recurso.
+É o relatório.
+
+Improvido o recurso, interpôs-se o presente agravo.
+Requer-se “seja conhecido e provido o presente recurso, para que seja
+reconsiderada a decisão monocrática que negou provimento ao recurso ordinário
+em habeas corpus. Requer-se, na hipótese de não ocorrência do juízo retratação, o
+processamento deste agravo regimental, com a submissão da controvérsia ao
+exame do órgão colegiado desta Turma, para que seja dado provimento ao
+presente recurso ordinário, com a consequente concessão da ordem pleiteada.”
+É o relatório.
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 195E-2E8C-DEA0-FB6A e senha 5F5B-451F-0186-7DD4
+
+Supremo Tribunal Federal
+Voto - MIN. GILMAR MENDES
+
+Inteiro Teor do Acórdão - Página 5 de 13
+
+AG.REG. NO RECURSO ORDINÁRIO EM HABEAS CORPUS 276.056 SÃO
+PAULO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. GILMAR MENDES
+: DOUGLAS APARECIDO POSSA ALVES
+: GUILHERME RODRIGUES DA SILVA
+: RODRIGO ANTONIO SERAFIM
+: ALAMIRO VELLUDO SALVADOR NETTO
+: SOFIA FERRARI DO VALLE
+: ANA JULIA POZZI ARRUDA
+: HENRIQUE GOMES DOS SANTOS
+: MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO
+: PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DE
+SÃO PAULO
+VOTO
+
+O SENHOR MINISTRO GILMAR MENDES (RELATOR): No agravo
+regimental, não ficou demonstrado o desacerto da decisão agravada.
+Como registrado, trata-se de substitutivo de revisão criminal, que
+busca desconstituir édito condenatório implementado pelo Tribunal do
+Júri.
+Para melhor compreensão da controvérsia, observem-se trechos do
+ato impugnado:
+Sobre as alegações do agravante, a Corte de origem
+fundamentou seu entendimento nos seguintes termos (e-STJ fls.
+27/30):
+Como se percebe, o peticionário manejou a presente ação
+revisional pretendendo o simples reexame da prova, deixando
+de indicar, mediante fundamentação concreta, em que tema
+seria a decisão vergastada, lançada nos autos originários,
+contrária ao texto expresso de lei ou à evidência dos autos,
+hipóteses previstas no artigo 621 do Código de Processo Penal.
+Ainda, é evidente que o inciso II do mesmo dispositivo legal
+também utilizado pelo peticionário exige a comprovação
+inequívoca da falsidade do documento indicado, não bastando
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2C74-1F44-7B2C-DE4F e senha D1E9-3649-5740-2F2F
+
+Supremo Tribunal Federal
+Voto - MIN. GILMAR MENDES
+
+Inteiro Teor do Acórdão - Página 6 de 13
+
+RHC 276056 AGR / SP
+a mera alegação ou suspeita de “falsidade”. [...] Ademais, as
+informações prestadas pela genitora da vítima e a denúncia
+anônima foram analisadas no decorrer do processo e
+exploradas pela defesa do acusado (cf. se observa das razões de
+apelação às fls. 2.391/2.405 da ação de origem). Nesse aspecto,
+nota-se que a prova foi amplamente analisada no v. Acórdão e a
+condenação do peticionário restou lastreada nos depoimentos
+dos agentes públicos lançados sob o crivo do contraditório e da
+genitora da vítima, de modo que não se verificou ser a decisão
+dos jurados contrária à prova dos autos. De mesma forma, não
+se observa a quebra da cadeia de custódia tão somente pela
+juntada de prints de conversas pela genitora da vítima. A uma,
+porque, conforme bem destacado pela d. Procuradoria de
+Justiça (fls. 2.324/2.327) trata-se de meio de prova válido,
+cabendo à defesa a sua impugnação tempestivamente. A duas,
+porque a cadeia de custódia diz respeito à documentação da
+ordem cronológica dos procedimentos realizados envolvendo
+os vestígios coletados do crime, desde o momento de sua
+apreensão até a análise das provas pelo juízo competente, não
+se confundindo, portanto, com elementos probatórios
+apresentados pelas partes. Desse modo, as questões já foram
+amplamente analisadas nos autos de origem e não se verifica
+flagrante ilegalidade, decisão prolatada contra a evidência dos
+autos ou fundamentada unicamente em elemento de prova
+comprovadamente falso.
+Ilegitimidade da prova por quebra da cadeia de custódia
+A insurgência defensiva que sustenta a nulidade da prova
+digital, consubstanciada em capturas de tela (prints) de
+conversas em redes sociais, sob o argumento de quebra da
+cadeia de custódia, não merece prosperar.
+No sistema processual penal pátrio, a higidez das provas é
+regida pelo princípio da preservação da integridade dos
+vestígios; todavia, a jurisprudência consolidada dos Tribunais
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2C74-1F44-7B2C-DE4F e senha D1E9-3649-5740-2F2F
+
+Supremo Tribunal Federal
+Voto - MIN. GILMAR MENDES
+
+Inteiro Teor do Acórdão - Página 7 de 13
+
+RHC 276056 AGR / SP
+Superiores estabelece que a mera inobservância de
+formalidades procedimentais não acarreta, de forma
+automática, a invalidade do elemento probatório.
+Para que se reconheça a nulidade, é imprescindível a
+demonstração cabal de prejuízo concreto à parte e a
+comprovação de que houve efetiva adulteração ou manipulação
+do conteúdo apresentado, o que não se verifica na espécie.
+Ademais, é imperioso destacar que os elementos trazidos
+aos autos pela genitora da vítima, ainda que em formato
+impresso, foram submetidos ao contraditório, facultando-se à
+defesa a impugnação tempestiva e a demonstração de eventuais
+inconsistências.
+A ausência de perícia oficial ou de código hash não induz,
+por si só, à ilicitude da prova, especialmente quando o acórdão
+de origem consigna que tais elementos não foram os únicos a
+lastrear o édito condenatório.
+A presunção de legitimidade dos atos processuais e a
+ausência de prova de falsidade documental, nos termos do
+artigo 621, II, do Código de Processo Penal, impedem o
+acolhimento da tese revisional, mantendo-se hígida a
+condenação.
+[...]
+Ilicitude da busca e apreensão fundada em denúncia
+anônima
+A tese de nulidade da busca e apreensão domiciliar, sob a
+alegação de que a medida teria sido amparada exclusivamente
+em denúncia anônima desprovida de diligências prévias ou de
+menção direta ao peticionário, demandaria extenso
+revolvimento de acervo fático-probatório, inviável na via eleita
+ante o óbice do artigo 621, inciso I, do Código de Processo
+Penal.
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2C74-1F44-7B2C-DE4F e senha D1E9-3649-5740-2F2F
+
+Supremo Tribunal Federal
+Voto - MIN. GILMAR MENDES
+
+Inteiro Teor do Acórdão - Página 8 de 13
+
+RHC 276056 AGR / SP
+A revisão criminal não se presta como uma segunda
+apelação ou terceira instância recursal, sendo vedada a
+revaloração subjetiva de fatos e provas que já foram
+exaustivamente debatidos e decididos pelas instâncias
+ordinárias.
+O Tribunal de origem, ao analisar o conjunto probatório,
+entendeu existirem fundadas razões para a diligência,
+baseando-se não apenas na notícia anônima, mas também nos
+elementos colhidos no início das investigações.
+Desconstituir tal conclusão para acolher a tese de ausência
+de lastro legal exigiria uma nova incursão sobre os elementos
+de convicção dos autos, o que é vedado em ação rescisória,
+salvo quando a decisão for manifestamente contrária à
+evidência dos autos — hipótese que não se configura quando o
+julgador apenas opta por uma das interpretações possíveis do
+arcabouço probatório.
+[...]
+No mesmo sentido o parecer do Ministério Público
+Federal, cujo teor colaciono a seguir (e-STJ fls. 2.324/2.327, grifo
+nosso):
+De mesma forma, não se observa a quebra da cadeia de
+custódia tão somente pela juntada de prints de conversas pela
+genitora da vítima. A uma, porque trata-se de meio de prova
+válido, cabendo à defesa a sua impugnação tempestivamente. A
+duas, porque a cadeia de custódia diz respeito à documentação
+da ordem cronológica dos procedimentos realizados
+envolvendo os vestígios coletados do crime, desde o momento
+de sua apreensão até a análise das provas pelo juízo
+competente, não se confundindo, portanto, com elementos
+probatórios apresentados pelas partes.
+Diante de todo o exposto, nego provimento ao agravo
+regimental. (eDOC 103)
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2C74-1F44-7B2C-DE4F e senha D1E9-3649-5740-2F2F
+
+Supremo Tribunal Federal
+Voto - MIN. GILMAR MENDES
+
+Inteiro Teor do Acórdão - Página 9 de 13
+
+RHC 276056 AGR / SP
+
+A conclusão do acórdão ora recorrido, sobretudo quanto ao código
+hash, não diverge da jurisprudência da Corte:
+DIREITO PENAL. AGRAVO REGIMENTAL NOS
+EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO
+EM HABEAS CORPUS. ALEGAÇÃO DE QUEBRA DE
+CADEIA DE CUSTÓDIA. ORGANIZAÇÃO CRIMINOSA. A
+FUNÇÃO HASH NÃO É A ÚNICA FERRAMENTA DE
+MANUTENÇÃO DE INTEGRIDADE DE DADOS .
+SUPERVENIÊNCIA DE SENTENÇA DURANTE O TRÂMITE
+DO HABEAS CORPUS EM QUE SE DISCUTE PRESENÇA DE
+NULIDADE. MATÉRIA QUE DEVE SER SUBMETIDA AO
+ESCRUTÍNIO DO JUÍZO DE SEGUNDO GRAU. AUSÊNCIA
+DE ILEGALIDADE A RECLAMAR A CONCESSÃO DA
+ORDEM DE OFÍCIO. AGRAVO IMPROVIDO .(AgR-ED no
+RHC 254.272, de minha relatoria)
+
+O agravante diz que “a controvérsia submetida a julgamento não consiste
+em saber se o código hash constitui, abstratamente, requisito único e
+indispensável à validade de toda prova digital. A defesa jamais sustentou essa
+proposição. O que se sustenta é que, neste caso concreto, inexistiu qualquer
+mecanismo técnico apto a assegurar a autenticidade, integridade e rastreabilidade
+dos dados apresentados como prova.”
+No recurso, o órgão ad quem examina a matéria debatida no órgão a
+quo. Nesse sentido, o STJ registrou que “A ausência de perícia oficial ou de
+código hash não induz, por si só, à ilicitude da prova, especialmente quando o
+acórdão de origem consigna que tais elementos não foram os únicos a lastrear o
+édito condenatório.”
+Desse modo, não há nada a reparar.
+De igual modo, a controvérsia sobre a denúncia anônima.
+O Tribunal registrou, ainda, que havia “fundadas razões para a
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2C74-1F44-7B2C-DE4F e senha D1E9-3649-5740-2F2F
+
+Supremo Tribunal Federal
+Voto - MIN. GILMAR MENDES
+
+Inteiro Teor do Acórdão - Página 10 de 13
+
+RHC 276056 AGR / SP
+diligência, baseando-se não apenas na notícia anônima, mas também nos
+elementos colhidos no início das investigações.”
+A jurisprudência desta Suprema Corte tem o entendimento de que a
+denúncia anônima não macula a ação penal quando seguida de
+diligência que têm por fim a verificação do que nela veiculada. Confiramse os seguintes precedentes:
+“Penal e Processo Penal. Agravo Regimental em Habeas
+Corpus. Tráfico e associação para o tráfico de entorpecentes arts.
+33 e 35 da Lei n. 11.343/2006. Denúncia anônima. Aptidão para
+deflagrar a investigação. Escutas telefônicas e prorrogações.
+Medidas autorizadas após o surgimento de indícios de
+envolvimento do paciente nos fatos investigados. Legalidade.
+Decisões fundamentadas. Inexistência de afronta ao art. 93, IX,
+da CF. Temas de fundo não examinados pelo Tribunal a quo.
+Supressão de instância. Inviabilidade do habeas corpus para
+analisar requisitos de admissibilidade de recursos. 1. A
+denúncia anônima é apta à deflagração da persecução penal
+quando seguida de diligências para averiguar os fatos nela
+noticiados antes da instauração de inquérito policial.
+Precedentes: HC 108.147, Segunda Turma, Relatora a Ministra
+Cármen Lúcia, DJe de 1º.2.2013; HC 105.484, Segunda Turma,
+Relatora a Ministra Cármen Lúcia, DJe de 16.4.2013; HC 99.490,
+Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de
+1º.2.2011; HC 98.345, Primeira Turma, Redator para o acórdão o
+Ministro Dias Toffoli, DJe de 17.09.10; HC 95.244, Primeira
+Turma, Relator o Ministro Dias Toffoli, DJe de 30.4.2010. 2. In
+casu, a Polícia, a partir de denúncia anônima, deu início às
+investigações para apurar a eventual prática dos crimes de
+tráfico e de associação para o tráfico de entorpecentes,
+tipificados nos arts. 33 e 35 da Lei n. 11.343/2006. 3. Deveras, a
+denúncia anônima constituiu apenas o ponto de partida para o
+início das investigações antes da instauração do inquérito
+policial e a interceptação telefônica e prorrogações foram
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2C74-1F44-7B2C-DE4F e senha D1E9-3649-5740-2F2F
+
+Supremo Tribunal Federal
+Voto - MIN. GILMAR MENDES
+
+Inteiro Teor do Acórdão - Página 11 de 13
+
+RHC 276056 AGR / SP
+deferidas somente após o surgimento de indícios apontando o
+envolvimento do paciente nos fatos investigados, a justificar a
+determinação judicial devidamente fundamentada, como exige
+o art. 93, IX, da Constituição Federal. 4. O prazo originalmente
+estabelecido para a interceptação telefônica pode ser
+prorrogado, sendo certo que as decisões posteriores que
+autorizarem a prorrogação, sem acrescentar novos motivos,
+evidenciam que essa prorrogação foi autorizada com base na
+mesma fundamentação exposta na primeira decisão que
+deferiu o monitoramento. Precedente: HC 100.172, Plenário,
+Relator o Ministro Dias Toffoli, DJe de 25.09.13. 5. O édito
+condenatório não está baseado somente nas escutas telefônicas,
+mas, também, em consistente acervo probatório produzido no
+curso da instrução criminal. 6. As questões suscitadas nas
+razões da impetração não foram examinadas pelo Tribunal a
+quo, que se limitou a negar seguimento ao recurso especial, sob
+o fundamento de inobservância de requisitos formais (ausência
+de prequestionamento, vedação ao exame de prova e
+inexistência de demonstração de divergência jurisprudencial).
+7. O objeto da tutela em habeas corpus é a liberdade de
+locomoção quando ameaçada por ilegalidade ou abuso de
+poder (CF, art. 5º, LXVIII), não cabendo sua utilização para
+reexaminar pressupostos de admissibilidade de recursos (HC
+112.756, Primeira Turma, Relatora a Ministra Rosa Weber, DJe
+de 13.03.13; HC 113.660, Segunda Turma, Relator o Ministro
+Ricardo Lewandowski, DJ de 13.02.13; HC 112.130, Segunda
+Turma, Relator o Ministro Ayres Britto, DJe de 08/06/2012). 8.
+Agravo regimental em habeas corpus desprovido”. (HC-AgR
+120.234/PR, Rel. Min. Luiz Fux, Primeira Turma, DJe 26.3.2014)
+“HABEAS CORPUS - PERSECUÇÃO PENAL - DELAÇÃO
+ANÔNIMA – POSSIBILIDADE - DOUTRINA - PRECEDENTES
+PRETENDIDA EXTINÇÃO DO PROCEDIMENTO PENAL
+POR SUPOSTA INVIABILIDADE JURÍDICA DA DELATIO
+CRIMINIS ANÔNIMA - INADMISSIBILIDADE, NA ESPÉCIE,
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2C74-1F44-7B2C-DE4F e senha D1E9-3649-5740-2F2F
+
+Supremo Tribunal Federal
+Voto - MIN. GILMAR MENDES
+
+Inteiro Teor do Acórdão - Página 12 de 13
+
+RHC 276056 AGR / SP
+DO ENCERRAMENTO SUMÁRIO DA INVESTIGAÇÃO
+PENAL - CORRETA ADOÇÃO, PELA AUTORIDADE
+POLICIAL, DE PRÉVIA E SUMÁRIA APURAÇÃO DA
+CONDUTA DELITUOSA OBJETO DA NOTITIA CRIMINIS
+ANÔNIMA - OBSERVÂNCIA, PELA POLÍCIA JUDICIÁRIA,
+DA DIRETRIZ JURISPRUDENCIAL FIRMADA PELO
+SUPREMO TRIBUNAL FEDERAL EM TEMA DE DELAÇÃO
+ANÔNIMA - CONSEQUENTE INOCORRÊNCIA, NO CASO,
+DE
+SITUAÇÃO
+CONFIGURADORA
+DE
+INJUSTO
+CONSTRANGIMENTO - PEDIDO INDEFERIDO”. (HC
+106664/SP, Rel. Min. Celso de Mello, Segunda Turma, DJe
+30.10.2014)
+
+O agravante diz que “Não basta, portanto, afirmar que havia “elementos
+colhidos no início das investigações”, como fez o Tribunal de origem e como
+reproduzido na decisão agravada. Era necessário identificar quais elementos
+eram esses e, sobretudo, se eram anteriores à busca e suficientes para
+individualizar a suspeita contra DOUGLAS. Sem isso, a expressão “fundadas
+razões” transforma-se em fórmula vazia, incapaz de demonstrar a existência do
+requisito legal previsto no art. 240, § 1º, do Código de Processo Penal.”
+Essa providência é matéria afeta à instrução processual, inexistente
+no rito do habeas corpus e, ainda, em sede de revisão criminal.
+Não há, portanto, nenhuma nulidade a ser reconhecida.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2C74-1F44-7B2C-DE4F e senha D1E9-3649-5740-2F2F
+
+Supremo Tribunal Federal
+Extrato de Ata - 13/10/2026
+
+Inteiro Teor do Acórdão - Página 13 de 13
+
+SEGUNDA TURMA
+
+EXTRATO DE ATA
+
+AG.REG. NO RECURSO ORDINÁRIO EM HABEAS CORPUS 276.056
+PROCED. : SÃO PAULO/SP
+RELATOR(A): MIN. GILMAR MENDES
+AGTE.(S): DOUGLAS APARECIDO POSSA ALVES
+ADV.(A/S): GUILHERME RODRIGUES DA SILVA (66537/DF, 309807/SP)
+ADV.(A/S): RODRIGO ANTONIO SERAFIM (66429/DF, 245252/SP)
+ADV.(A/S): ALAMIRO VELLUDO SALVADOR NETTO (66416/DF, 206320/SP)
+ADV.(A/S): SOFIA FERRARI DO VALLE (524345/SP)
+ADV.(A/S): ANA JULIA POZZI ARRUDA (423751/SP)
+ADV.(A/S): HENRIQUE GOMES DOS SANTOS (489518/SP)
+AGDO.(A/S): MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO
+PROC.(A/S)(ES): PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DE SÃO PAULO
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto do Relator, Ministro Gilmar Mendes.
+Falou, pelo agravante, o Dr. Henrique Gomes dos Santos. Segunda
+Turma, Sessão Virtual de 2.10.2026 a 9.10.2026.
+Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes,
+Dias Toffoli, Nunes Marques e André Mendonça.
+Thiago Fernandes Lins
+Secretário da Segunda Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D5E9-2425-90E7-2A58 e senha AA6D-33DD-1C05-4CCC
