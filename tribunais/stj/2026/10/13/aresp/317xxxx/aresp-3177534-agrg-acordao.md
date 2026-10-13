@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Maria Marluce Caldas, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual civil. Agravo regimental. Irregularidade da representação processual em agravo em recurso especial. Intimação para regularização. Dilação de prazo sem justa causa. Não conhecimento mantido. Agravo regimental desprovido.
+I. Caso em exame
+1. O recurso. Agravo regimental contra decisão da Presidência que indeferiu pedido de dilação de prazo e não conheceu do agravo em recurso especial, em razão da irregularidade da representação processual, nos termos da Súmula n. 115, STJ.
+2. Fato relevante. Identificada a ausência de procuração ou cadeia completa de substabelecimento conferindo poderes ao subscritor do recurso especial e do agravo em recurso especial, foi oportunizada intimação para saneamento. No prazo assinalado, limitou-se a requerer cinco dias para a regularização, sem apresentar instrumento de mandato e sem demonstrar justa causa.
+3. As decisões anteriores. Indeferida a dilação de prazo e não conhecido o agravo em recurso especial pela irregularidade da representação processual.
+II. Questão em discussão
+4. Há quatro questões em discussão: (i) saber se, após intimação específica, a ausência de apresentação de procuração ou cadeia completa de substabelecimento apta a comprovar poderes preexistentes impõe o não conhecimento do agravo em recurso especial; (ii) saber se a posterior atuação de advogado diverso supre o vício de representação do profissional que subscreveu o ato recursal; (iii) saber se há direito subjetivo à dilação de prazo para regularização com fundamento nos arts. 76 e 104 do CPC sem demonstração de justa causa; e (iv) saber se argumentos relativos à idade e às condições de saúde podem afastar os pressupostos objetivos de admissibilidade na instância especial ou demandam reexame de provas vedado pela Súmula n. 7, STJ.
+III. Razões de decidir
+5. A Súmula n. 115, STJ permanece aplicável e qualifica como inexistente, na instância especial, recurso interposto por advogado sem procuração nos autos. Após o CPC/2015, admite-se a regularização da representação processual, inclusive na instância especial, desde que comprovados poderes preexistentes ao ato e após intimação específica.
+6. A regularização deve ocorrer no prazo assinalado, mediante procuração ou cadeia completa de substabelecimento que demonstre a outorga de poderes em data anterior à interposição do recurso; a inércia da parte conduz à preclusão.
+7. O pedido de dilação de prazo não constitui direito subjetivo da parte e exige demonstração de justa causa, entendida como evento alheio à vontade e efetivamente impeditivo da prática do ato; a alegação genérica de necessidade de "regularização processual" não autoriza prorrogação.
+8. A posterior atuação de advogado diverso não convalida, por si só, recurso anteriormente subscrito por profissional cuja habilitação não foi demonstrada; a regularidade deve ser provada em relação ao subscritor do ato e aos poderes existentes no momento da interposição.
+9. No caso, apesar da intimação, não houve apresentação de procuração ou cadeia completa de substabelecimento nem comprovação de justa causa para dilação; mantêm-se os fundamentos do não conhecimento.
+10. Aspectos relativos à idade e às condições de saúde não afastam os pressupostos de admissibilidade de recursos dirigidos à instância especial e sua revisão demandaria reexame de elementos fáticos e provas, providência vedada pela Súmula n. 7, STJ.
+11. Precedente recente do Superior Tribunal de Justiça confirma a orientação de não conhecimento do recurso quando, mesmo intimada, a parte não apresenta procuração válida ou cadeia completa de substabelecimento apta a comprovar poderes preexistentes ao ato recursal.
+IV. Dispositivo
+12. Resultado do Julgamento: Agravo regimental desprovido.
+Dispositivos relevantes citados:
+CPC/2015, arts. 76 e 104; Súmula n. 115/STJ; Súmula n. 7/STJ
+Jurisprudência relevante citada:STJ, EDcl no AgInt no AREsp 3.070.833/SP, julgado em 18.05.2026.
+RELATÓRIO
+Trata-se de agravo regimental interposto por CAETANO AMANCIO PEREIRA contra decisão da Presidência desta Corte que indeferiu o pedido de dilação de prazo e não conheceu do agravo em recurso especial, em razão da irregularidade da representação processual, nos termos da Súmula n. 115 do Superior Tribunal de Justiça (fls. 126/127).
+Consta dos autos que, identificada a ausência de procuração ou cadeia completa de substabelecimento conferindo poderes ao advogado subscritor do recurso especial e do agravo em recurso especial, a parte foi intimada para sanar o vício.
+No prazo assinalado, contudo, limitou-se a requerer mais cinco dias para a regularização, sem apresentar o instrumento de mandato e sem demonstrar justa causa para a prorrogação pretendida (fl. 122).
+Por essa razão, a Presidência indeferiu a dilação e não conheceu do recurso (fls. 126/127).
+Nas razões do regimental, a defesa sustenta, em síntese, que deveria ter sido oportunizada a regularização da representação processual e que a posterior atuação de outro advogado teria suprido o defeito. Requer a retratação da decisão ou a submissão da insurgência à Turma julgadora (fls. 137/138).
+É o relatório.
+EMENTA
+Direito processual civil. Agravo regimental. Irregularidade da representação processual em agravo em recurso especial. Intimação para regularização. Dilação de prazo sem justa causa. Não conhecimento mantido. Agravo regimental desprovido.
+I. Caso em exame
+1. O recurso. Agravo regimental contra decisão da Presidência que indeferiu pedido de dilação de prazo e não conheceu do agravo em recurso especial, em razão da irregularidade da representação processual, nos termos da Súmula n. 115, STJ.
+2. Fato relevante. Identificada a ausência de procuração ou cadeia completa de substabelecimento conferindo poderes ao subscritor do recurso especial e do agravo em recurso especial, foi oportunizada intimação para saneamento. No prazo assinalado, limitou-se a requerer cinco dias para a regularização, sem apresentar instrumento de mandato e sem demonstrar justa causa.
+3. As decisões anteriores. Indeferida a dilação de prazo e não conhecido o agravo em recurso especial pela irregularidade da representação processual.
+II. Questão em discussão
+4. Há quatro questões em discussão: (i) saber se, após intimação específica, a ausência de apresentação de procuração ou cadeia completa de substabelecimento apta a comprovar poderes preexistentes impõe o não conhecimento do agravo em recurso especial; (ii) saber se a posterior atuação de advogado diverso supre o vício de representação do profissional que subscreveu o ato recursal; (iii) saber se há direito subjetivo à dilação de prazo para regularização com fundamento nos arts. 76 e 104 do CPC sem demonstração de justa causa; e (iv) saber se argumentos relativos à idade e às condições de saúde podem afastar os pressupostos objetivos de admissibilidade na instância especial ou demandam reexame de provas vedado pela Súmula n. 7, STJ.
+III. Razões de decidir
+5. A Súmula n. 115, STJ permanece aplicável e qualifica como inexistente, na instância especial, recurso interposto por advogado sem procuração nos autos. Após o CPC/2015, admite-se a regularização da representação processual, inclusive na instância especial, desde que comprovados poderes preexistentes ao ato e após intimação específica.
+6. A regularização deve ocorrer no prazo assinalado, mediante procuração ou cadeia completa de substabelecimento que demonstre a outorga de poderes em data anterior à interposição do recurso; a inércia da parte conduz à preclusão.
+7. O pedido de dilação de prazo não constitui direito subjetivo da parte e exige demonstração de justa causa, entendida como evento alheio à vontade e efetivamente impeditivo da prática do ato; a alegação genérica de necessidade de "regularização processual" não autoriza prorrogação.
+8. A posterior atuação de advogado diverso não convalida, por si só, recurso anteriormente subscrito por profissional cuja habilitação não foi demonstrada; a regularidade deve ser provada em relação ao subscritor do ato e aos poderes existentes no momento da interposição.
+9. No caso, apesar da intimação, não houve apresentação de procuração ou cadeia completa de substabelecimento nem comprovação de justa causa para dilação; mantêm-se os fundamentos do não conhecimento.
+10. Aspectos relativos à idade e às condições de saúde não afastam os pressupostos de admissibilidade de recursos dirigidos à instância especial e sua revisão demandaria reexame de elementos fáticos e provas, providência vedada pela Súmula n. 7, STJ.
+11. Precedente recente do Superior Tribunal de Justiça confirma a orientação de não conhecimento do recurso quando, mesmo intimada, a parte não apresenta procuração válida ou cadeia completa de substabelecimento apta a comprovar poderes preexistentes ao ato recursal.
+IV. Dispositivo
+12. Resultado do Julgamento: Agravo regimental desprovido.
+Dispositivos relevantes citados:
+CPC/2015, arts. 76 e 104; Súmula n. 115/STJ; Súmula n. 7/STJ
+Jurisprudência relevante citada:STJ, EDcl no AgInt no AREsp 3.070.833/SP, julgado em 18.05.2026.
+VOTO
+Presentes os requisitos de admissibilidade, conheço do agravo regimental.
+A insurgência não comporta provimento.
+A Súmula n. 115 desta Corte estabelece que, "na instância especial, é inexistente recurso interposto por advogado sem procuração nos autos". O enunciado permanece em vigor e é expressamente classificado pelo Superior Tribunal de Justiça como aplicável à interposição de recurso perante esta Corte.
+Após a entrada em vigor do Código de Processo Civil de 2015, a jurisprudência do Superior Tribunal de Justiça passou a admitir a regularização da representação processual, inclusive na instância especial, desde que a parte, após regularmente intimada, apresente procuração ou cadeia completa de substabelecimento apta a demonstrar que os poderes já existiam no momento da prática do ato recursal.
+Essa possibilidade, contudo, não afasta o dever de cumprimento da determinação judicial no prazo concedido.
+A regularização posterior exige instrumento de mandato que demonstre a outorga de poderes em data anterior à interposição do recurso, e a inércia da parte após a intimação específica conduz à preclusão.
+Em precedente recente, o Superior Tribunal de Justiça manteve o não conhecimento de recurso porque, embora intimada, a parte não apresentou procuração válida ou cadeia completa de substabelecimento apta a comprovar poderes preexistentes ao ato recursal (EDcl no AgInt no AGRAVO EM RECURSO ESPECIAL Nº 3070833 - SP. Relatora Exma. Sra. Ministra DANIELA TEIXEIRA. Julgado 18.05.26).
+No caso concreto, a decisão agravada não aplicou automaticamente a Súmula n. 115, STJ. Ao contrário, foi expressamente oportunizado o saneamento do vício. A parte agravante, todavia, não juntou, dentro do prazo assinalado, procuração ou cadeia completa de substabelecimento conferindo poderes ao advogado que subscreveu o recurso especial e o agravo em recurso especial. Limitou-se a pedir a dilação por cinco dias, invocando genericamente os arts. 76 e 104 do Código de Processo Civil, sem indicar circunstância concreta, alheia à sua vontade, que impedisse a tempestiva apresentação do mandato (fls. 122 e 126).
+O pedido de prorrogação de prazo processual não constitui direito subjetivo da parte. Sua concessão pressupõe demonstração de justa causa, compreendida como evento estranho à vontade do interessado e efetivamente impeditivo da prática do ato. A mera afirmação de que seria necessário prazo adicional para "regularização processual", desacompanhada da descrição e comprovação do fato impeditivo, não impõe o deferimento da dilação.
+Também não procede a alegação de que a participação posterior de outro advogado bastaria para sanar o vício.
+A regularidade da representação deve ser demonstrada em relação ao profissional que praticou o ato processual recorrido, mediante instrumento que comprove a existência de poderes no momento da interposição. A simples subscrição de petição posterior por advogado diverso não convalida, por si só, recurso anteriormente apresentado por profissional cuja habilitação não foi demonstrada.
+Com efeito, o recurso especial foi subscrito pelos advogados Henrique Rafael Miranda e Edmundes Araújo da Silva (fls. 60/83), e o agravo em recurso especial também foi apresentado em nome da parte por esses profissionais (fls. 101/105). A decisão agravada registrou especificamente a ausência de procuração ou cadeia completa de substabelecimento conferindo poderes ao Dr. Edmundes Araújo da Silva e consignou que o vício não foi corrigido após a intimação (fl. 126).
+Não se trata, portanto, de formalismo aplicado sem oportunidade de saneamento. A parte foi previamente intimada, teve ciência precisa do defeito e, no prazo concedido, não apresentou o documento necessário nem comprovou justa causa para a prorrogação. A juntada extemporânea, sem demonstração de impossibilidade objetiva de atendimento da ordem no momento adequado, não afasta a preclusão já consumada.
+A idade e as condições de saúde do agravante, embora relevantes para o exame do pedido de prisão domiciliar formulado na origem, não dispensam a observância dos pressupostos objetivos de admissibilidade dos recursos dirigidos a esta Corte. Ademais, a controvérsia submetida neste agravo regimental é estritamente processual, referente à regularidade da representação no recurso especial e no agravo em recurso especial, e não ao mérito da execução penal.
+De todo modo, as instâncias ordinárias registraram que o sentenciado permanecia em estado geral estável, recebia acompanhamento médico e possuía encaminhamento para atendimento especializado em oftalmologia e otorrinolaringologia, sem prova de que o tratamento necessário fosse incompatível com o ambiente prisional (fls. 52/54). A alteração dessas premissas dependeria de nova apreciação dos elementos médicos e das condições concretas de atendimento, providência incompatível com a via especial, nos termos da Súmula n. 7/STJ.
+Assim, os argumentos apresentados não infirmam os fundamentos da decisão agravada, que deve ser mantida.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
