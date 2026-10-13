@@ -1,0 +1,22 @@
+DECISÃO
+VALDECIR ALESSI JUNIOR alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina na Apelação Criminal n. 5012833-37.2025.8.24.0036/SC.
+O paciente foi condenado a 19 anos, 1 mês e 10 dias de reclusão, em regime fechado, mais 80 dias-multa, pela prática de furto qualificado e associação criminosa.
+A defesa sustenta que a majoração da pena-base pela culpabilidade, fundada no uso de tornozeleira eletrônica, é ilegal porque o equipamento foi instalado após seis dos oito furtos. Ainda, aponta que houve ofensa à Súmula n. 444 do STJ em relação aos dois últimos fatos.
+Requer a concessão de liminar para suspender os efeitos da exasperação da pena-base; no mérito, o decote da circunstância judicial relativa à tornozeleira, com redimensionamento da reprimenda e o reexame do regime inicial.
+Decido.
+No julgamento da apelação, o Tribunal de origem assim dispôs sobre a primeira fase da dosimetria (fls. 83-84, grifei):
+O apelo defensivo não preenche integralmente os pressupostos de admissibilidade, razão pela qual comporta conhecimento apenas em parte.
+Isso porque a defesa requer, genericamente, a redução da pena-base com base nos princípios da proporcionalidade e da individualização da pena, sem apresentar qualquer fundamento concreto para impugnar as conclusões sentenciais, em nítida afronta ao princípio da dialeticidade recursal.
+Ressalta-se que, por mais que o apelante tenha mencionado que os delitos não foram praticados mediante violência ou grave ameaça, que não houve dano físico às vítimas, que se trata de crime patrimonial sem especial sofisticação ofensiva e que os bens jurídicos atingidos eram plenamente patrimoniais e recuperáveis, tais circunstâncias não foram consideradas para elevar a reprimenda inicial, carecendo o apelo de dialeticidade recursal em relação aos pontos impugnados, inclusive porque a defesa sequer mencionou com quais vetores valorados negativamente não concordou.
+ ..
+De todo modo, cumpre registrar que não há qualquer ilegalidade a ser reconhecida por este Colegiado quanto à dosimetria operada na sentença em desfavor do apelante. Observa-se que a reprimenda inicial de ambos os delitos foi elevada, nos seguintes termos (evento 199, SENT1):
+ ..  a culpabilidade é acentuada, pois o réu fazia uso de tornozeleira eletrônica no momento em que cometeu os delitos, o que aumenta a reprovabilidade da conduta;
+ ..  as circunstâncias são negativas, pois o réu em ação claramente premeditada, deslocou-se de outro Estado onde residia (Curitiba-PR) para praticar os furtos nesta cidade;  .. .
+Com efeito, de acordo com a jurisprudência desta Corte, é viável a majoração da pena-base do agente que faz uso de tornozeleira eletrônica em razão da prática de outro delito ocorrido pouco tempo antes dos fatos, assim como em virtude do deslocamento interestadual para o cometimento das infrações penais, não havendo, neste norte, qualquer alteração a ser realizada nos cálculos dosimétricos operados em desfavor do réu (Vide: ApCrim 5027816-06.2023.8.24.0038, 4ª Câmara Criminal, Relator para Acórdão MAURICIO CAVALLAZZI POVOAS, julgado em 21/03/2024, e ApCrim 5000415- 94.2024.8.24.0006, 2ª Câmara Criminal, Relator para Acórdão SÉRGIO RIZELO, julgado em 16/09/2025).
+Todavia, tendo em vista a ausência de dialeticidade recursal, não conheço da pretensão acima referida.
+Verifico que a tese de ilegalidade da majoração da pena-base, no vetor da culpabilidade, em razão do uso de tornozeleira eletrônica - sob os argumentos de que o equipamento somente foi instalado após a prática de seis dos oito furtos e de que houve violação da Súmula n. 444 do STJ - não foi examinada pela Corte de origem no ato apontado como coator. Evidencia-se, assim, a ausência de prévio pronunciamento jurisdicional sobre a matéria, circunstância que impede a inauguração da competência desta Corte Superior.
+Com efeito, nos termos do art. 105 da Constituição Federal, não cabe ao Superior Tribunal de Justiça conhecer diretamente da questão , sob pena de indevida supressão de instância.
+Nesse sentido: A "análise de questões não apreciadas pelo Tribunal de origem encontra-se obstada por afronta ao princípio do duplo grau de jurisdição e pela vedação à supressão de instância" (AgRg no HC n. 1.090.680/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/6/2026, DJEN de 22/6/2026).
+À vista do exposto, indefiro liminarmente o processamento do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
