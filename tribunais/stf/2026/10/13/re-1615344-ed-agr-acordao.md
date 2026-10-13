@@ -1,0 +1,728 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 16
+
+13/10/2026
+
+PRIMEIRA TURMA
+
+AG.REG. NOS EMB.DECL. NO RECURSO EXTRAORDINÁRIO 1.615.344
+PARANÁ
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. ALEXANDRE DE MORAES
+: PLINIO HEY MARTINS
+: MARLUZ LACERDA DALLEDONE
+: UNIÃO
+: ADVOGADO-GERAL DA UNIÃO
+
+EMENTA:
+AGRAVO
+INTERNO
+NOS
+EMBARGOS
+DE
+DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. ADC 85.
+POLÍTICA PÚBLICA DE CONTROLE DA CIRCULAÇÃO DE ARMAS
+DE
+FOGO.
+DECRETOS
+11.366/2023
+E
+11.615/2023.
+CONSTITUCIONALIDADE. CERTIFICADO DE ARMA DE FOGO CRAF E CERTIFICADO DE REGISTRO - CR. REDUÇÃO DO PRAZO DE
+VALIDADE. ACÓRDÃO RECORRIDO EM DISSONÂNCIA COM A
+JURISPRUDÊNCIA DO STF.
+1. O Plenário do STF, ao julgar o mérito da ADC 85, de Relatoria do
+Ministro GILMAR MENDES, reconheceu a constitucionalidade da
+política pública de controle da circulação de armas de fogo implementada
+pelos Decretos nº 11.366/2023 e nº 11.615/2023.
+2. No julgamento da ADC 85 esta CORTE assentou, de forma
+expressa, a inexistência de violação à segurança jurídica ou ao direito
+adquirido em decorrência da redução dos prazos anteriormente vigentes.
+3. O acórdão recorrido, ao concluir pela preservação da validade
+decenal do Certificado de Registro, divergiu do entendimento desta
+CORTE, devendo, portanto, ser reformado.
+4. Agravo interno a que se nega provimento.
+ACÓRDÃO
+A Turma, por unanimidade, negou provimento ao agravo interno,
+nos termos do voto do Relator, Ministro Alexandre de Moraes.
+Publique-se.
+Brasília, 13 de outubro de 2026.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 48D9-56AF-12EB-42D0 e senha 1B92-52E7-48C9-1FFC
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 16
+
+RE 1615344 ED-AGR / PR
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
+
+2
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 48D9-56AF-12EB-42D0 e senha 1B92-52E7-48C9-1FFC
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 16
+
+AG.REG. NOS EMB.DECL. NO RECURSO EXTRAORDINÁRIO 1.615.344
+PARANÁ
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. ALEXANDRE DE MORAES
+: PLINIO HEY MARTINS
+: MARLUZ LACERDA DALLEDONE
+: UNIÃO
+: ADVOGADO-GERAL DA UNIÃO
+RELATÓRIO
+
+O SENHOR MINISTRO ALEXANDRE DE MORAES (RELATOR):
+Trata-se de agravo interno contra decisão que deu provimento ao
+recurso extraordinário da UNIÃO para restabelecer a sentença aos
+argumentos de que (i) o Plenário do STF, ao julgar o mérito da ADC 85, de
+Relatoria
+do
+Ministro
+GILMAR
+MENDES,
+reconheceu
+a
+constitucionalidade da política pública de controle da circulação de armas
+de fogo implementada pelos Decretos nº 11.366/2023 e nº 11.615/2023,
+assentando, de forma expressa, a inexistência de violação à segurança
+jurídica ou ao direito adquirido em decorrência da redução dos prazos
+anteriormente vigentes; e (ii) o acórdão recorrido, ao concluir pela
+preservação da validade decenal do Certificado de Registro, divergiu do
+entendimento desta CORTE, devendo, portanto, ser reformado.
+Sustenta a parte agravante, em suma, que persistem os vícios de
+causas de inadmissibilidade apontados em sede de embargos de
+declaração, quais sejam, intempestividade do RE, ausência de repercussão
+geral da matéria e incidência das Súmulas 282 e 284 do STF.
+Requer seja provido o presente Agravo Interno.
+É o relatório.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código BB93-0485-EDE0-2F45 e senha 87E6-C009-2F7A-0F32
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 4 de 16
+
+AG.REG. NOS EMB.DECL. NO RECURSO EXTRAORDINÁRIO 1.615.344
+PARANÁ
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. ALEXANDRE DE MORAES
+: PLINIO HEY MARTINS
+: MARLUZ LACERDA DALLEDONE
+: UNIÃO
+: ADVOGADO-GERAL DA UNIÃO
+VOTO
+
+O SENHOR MINISTRO ALEXANDRE DE MORAES (RELATOR):
+Eis o teor da decisão agravada:
+“Trata-se de Recurso Extraordinário interposto em face de
+acórdão proferido em sede de Embargos de Declaração pelo
+Tribunal Regional Federal da 4ª Região, assim ementado (Doc.
+65, fl. 4):
+“DIREITO ADMINISTRATIVO. EMBARGOS DE
+DECLARAÇÃO. CERTIFICADO DE REGISTRO (CR).
+CERTIFICADO DE REGISTRO DE ARMA DE FOGO
+(CRAF). PRAZO DE VALIDADE. DECRETO Nº
+11.615/2023. PORTARIA COLOG Nº 166/2023. PRINCÍPIO
+DA LEGALIDADE. EMBARGOS ACOLHIDOS COM
+EFEITOS INFRINGENTES. PARCIAL PROVIMENTO DA
+APELAÇÃO.
+I. CASO EM EXAME: 1. Embargos de declaração
+opostos contra acórdão que negou provimento à apelação
+em mandado de segurança, o qual impugnava a alteração
+do prazo de validade de Certificados de Registro (CR) e
+Certificados de Registro de Arma de Fogo (CRAF) de
+Colecionador, Atirador e Caçador (CAC) de dez para três
+anos, promovida pelo Decreto nº 11.615/2023 e pela
+Portaria COLOG nº 166/2023. O embargante alega omissão
+do acórdão na análise da distinção entre CR e CRAF e a
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código C4BE-F860-5136-BB6C e senha 8254-9E7A-AA41-6541
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 5 de 16
+
+RE 1615344 ED-AGR / PR
+abrangência da ADC 85 em relação à Portaria COLOG nº
+166/2023.
+II. QUESTÃO EM DISCUSSÃO: 2. A questão em
+discussão consiste em saber se o acórdão embargado foi
+omisso na análise da distinção entre Certificado de
+Registro (CR) e Certificado de Registro de Arma de Fogo
+(CRAF), e na abrangência da ADC nº 85 em relação à
+Portaria COLOG/C EX nº 166/2023.
+III. RAZÕES DE DECIDIR: 3. O Decreto nº
+11.615/2023, em seu art. 24, I, efetivamente reduziu o
+prazo de validade do CRAF de CAC para três anos. Em
+recente decisão na ADC nº 85, o STF declarou a
+constitucionalidade
+dos
+Decretos
+11.366/2023
+e
+11.615/2023, reconhecendo que não há violação à
+segurança jurídica ou ao direito adquirido dos
+dispositivos que promoveram a redução do prazo de
+validade do CRAF. 4. O Decreto nº 11.615/2023 não dispôs
+sobre a alteração do prazo de validade do Certificado de
+Registro (CR), sendo esta introduzida apenas pela Portaria
+COLOG nº 166/2023, que não foi objeto direto da ADC nº
+85 do STF. 5. A redução da validade do CR por portaria
+viola o princípio da legalidade, não sendo possível à
+administração aplicar, por analogia, ao CR a mesma
+diminuição do prazo de validade atribuída ao CRAF por
+decreto. 6. Acolhida a pretensão autoral tão somente
+quanto à validade decenal do Certificado de Registro - CR,
+mantendo-se a imediata aplicação dos novos e reduzidos
+prazos de validade em relação ao CRAF.
+IV. DISPOSITIVO: 7. Embargos de declaração
+acolhidos, com efeitos infringentes, para dar parcial
+provimento ao recurso de apelação, mantendo a validade
+decenal do Certificado de Registro (CR) e a imediata
+aplicação dos novos prazos de validade em relação ao
+
+2
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código C4BE-F860-5136-BB6C e senha 8254-9E7A-AA41-6541
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 6 de 16
+
+RE 1615344 ED-AGR / PR
+Certificado de Registro de Arma de Fogo (CRAF).”
+
+No Recurso Extraordinário (Doc. 67), com
+fundamento no art. 102, III, "a", da CF/1988, a UNIÃO aponta
+violação aos arts. 5º, XXXVI e XLIV; e 144 da Constituição
+Federal.
+
+Alega que o acórdão recorrido contrariou a orientação
+firmada pelo STF na ADC 85 ao preservar a validade decenal
+do Certificado de Registro (CR) para CACs.
+Sustenta que os Decretos nº 11.366/2023 e nº 11.615/2023
+foram declarados constitucionais e que não existe direito
+adquirido à manutenção do regime jurídico anterior.
+Defende que tanto o CR quanto o CRAF possuem
+natureza de autorização administrativa precária, sujeita à
+revisão pelo poder público em razão do interesse coletivo.
+Argumenta, ainda, que a redução do prazo de validade
+para três anos visa reforçar os mecanismos de controle,
+fiscalização e aferição periódica da idoneidade dos possuidores
+de armas, concretizando os direitos à vida e à segurança pública
+e atendendo à política pública de controle da circulação de
+armas reconhecida como constitucional pelo Supremo Tribunal
+Federal.
+Ao final, requer o provimento do recurso para reformar o
+acórdão recorrido e restabelecer a aplicação do prazo de
+validade de três anos ao Certificado de Registro (CR).
+Em seguida, o RE foi admitido (Doc. 73).
+
+É o relatório. Decido.
+Cuida-se de matéria eminentemente constitucional,
+devidamente prequestionada na instância de origem. Presentes
+
+3
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código C4BE-F860-5136-BB6C e senha 8254-9E7A-AA41-6541
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 7 de 16
+
+RE 1615344 ED-AGR / PR
+todos os pressupostos recursais, passo à análise do mérito do
+apelo extremo.
+Assiste razão à recorrente.
+No caso concreto, foram os seguintes os fundamentos do
+acórdão recorrido para dirimir a presente controvérsia (Doc. 65,
+fls. 2-3):
+“A parte impetrante pretende seja mantida a
+validade decenal de seu Certificado de Registro - CR como
+CAC - Colecionador, Atirador Desportivo e Caçador e do
+CRAF - Certificado de Registro de Arma de Fogo.
+Importante destacar que há diferença entre o
+Certificado de Registro (CR) alusivo ao registro do
+caçador/colecionador/atirador, documento hábil que
+autoriza as pessoas físicas ou jurídicas a utilização
+industrial,
+armazenagem,
+comércio,
+exportação,
+importação, transporte, manutenção, recuperação e
+manuseio de produtos controlados pelo Comando do
+Exército; e o Certificado de Registro de Arma de Fogo
+(CRAF), estes últimos atinentes ao cadastro das armas,
+documento comprobatório do ato administrativo de
+cadastro de arma de fogo, com o número do referido
+cadastro, vinculado à identificação do proprietário e à
+finalidade legal que motivou a aquisição da arma de fogo,
+concedido pela Polícia Federal ou pelo Comando do
+Exército, conforme o caso (art. 2º, XXI e XXIV do Decreto
+11.615/2023)
+O Decreto 11.615/2023, em seu art. 24, inciso I,
+efetivamente reduziu o prazo de validade do CRAF
+concedido a colecionador, atirador desportivo ou caçador
+excepcional para 3 (três) anos.
+E nesta medida, em recente decisão na ADC nº 85, o
+
+4
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código C4BE-F860-5136-BB6C e senha 8254-9E7A-AA41-6541
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 8 de 16
+
+RE 1615344 ED-AGR / PR
+Egrégio STF declarou a constitucionalidade dos Decretos
+11.366/2023 e 11.615/2023, reconhecendo-a sob o ponto de
+vista formal e material, ou seja, em relação à competência
+para a edição, bem como em relação às matérias, que se
+encontram dentro da esfera de regulamentação do
+Estatuto do Desarmamento (Lei 10.826/2003).
+Nos termos do voto do Relator, Ministro Gilmar
+Mendes,
+não
+há
+que
+se
+cogitar
+eventual
+inconstitucionalidade por violação à segurança jurídica ou
+ao direito adquirido (Constituição, art. 5º, XXXVI) dos
+dispositivos que promoveram a redução do prazo de
+validade do Certificado de Registro de Arma de Fogo
+concedido a CACs (Decreto 11.615/2023, art. 24).
+Contudo, o aludido Decreto não dispôs acerca da
+alteração do prazo de validade do Certificado de Registro
+- CR, o que somente foi introduzido via Portaria COLOG
+nº 166, ao que parece não abrangida na ADC 85:
+COLOG 166 Art. 16. O prazo de validade do
+registro para colecionador, atirador desportivo e
+caçador excepcional é de três anos, contados a partir
+da data de sua concessão ou de sua última
+revalidação.
+COLOG 166 Art. 92. O CRAF das armas dos
+acervos de coleção, tiro desportivo e caça excepcional
+terá validade de três anos (inciso I do art. 24 do
+Decreto nº 11.615/2023).
+Portanto, a supracitada redução da validade foi
+introduzida apenas por portaria,o que viola o princípio da
+legalidade, não sendo possível à administração, aplicar,
+por analogia, ao Certificado de Registro - CR a mesma
+diminuição do prazo de validade atribuída ao Certificado
+de Registro de Arma de Fogo - CRAF.
+
+5
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código C4BE-F860-5136-BB6C e senha 8254-9E7A-AA41-6541
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 9 de 16
+
+RE 1615344 ED-AGR / PR
+(...)
+Frente ao panorama, entendo que deve ser acolhida a
+pretensão autoral tão somente quanto ao CR, mantendo-se
+a imediata aplicação dos novos prazos de validade em
+relação ao CRAF, razão pela qual é de ser parcialmente
+provido o recurso.”
+O Plenário do SUPREMO TRIBUNAL FEDERAL, ao
+julgar o mérito da Ação Declaratória de Constitucionalidade 85,
+de Relatoria do Ministro GILMAR MENDES, reconheceu a
+constitucionalidade do Decreto 11.615/2023.
+O acórdão ficou assim ementado:
+“DIREITO
+CONSTITUCIONAL
+E
+ADMINISTRATIVO. AÇÃO DECLARATÓRIA DE
+CONSTITUCIONALIDADE. DECRETOS 11.366/2023 E
+11.615/2023. ATOS NORMATIVOS QUE PROMOVERAM
+A
+REGULAMENTAÇÃO
+DO
+ESTATUTO
+DO
+DESARMAMENTO (LEI 10.823/2003). PERDA DE
+OBJETO EM VIRTUDE DA SUCESSÃO DO DECRETO
+11.366/2023
+PELO
+DECRETO
+11.615/2023.
+INOCORRÊNCIA EM FACE DE CONTINUIDADE
+NORMATIVA E ADITAMENTO PELA PRESIDÊNCIA
+DA REPÚBLICA. DECRETOS QUE SE PROPÕEM A
+PROPICIAR A RECONSTRUÇÃO DAS POLÍTICAS
+PÚBLICAS DE CONTROLE DA CIRCULAÇÃO DE
+ARMAS DE FOGO NO BRASIL. ATOS NORMATIVOS
+QUE NÃO DESBORDAM DO PODER REGULAMENTAR
+PRIVATIVO DO PRESIDENTE DA REPÚBLICA (CF,
+ART. 84, IV) E QUE DENSIFICAM OS DIREITOS À VIDA
+E À SEGURANÇA PÚBLICA (CF, ARTS. 5º E 144).
+CONSTITUCIONALIDADE.
+AÇÃO
+JULGADA
+PROCEDENTE.
+
+6
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código C4BE-F860-5136-BB6C e senha 8254-9E7A-AA41-6541
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 10 de 16
+
+RE 1615344 ED-AGR / PR
+I. CASO EM EXAME 1. Ação declaratória de
+constitucionalidade em que o Presidente da República
+postula pelo reconhecimento da constitucionalidade dos
+Decretos 11.366/2023 e 11.615/2023, que promoveram a
+regulamentação do Estatuto do Desarmamento (Lei
+10.826/2003).
+II. QUESTÃO EM DISCUSSÃO 2. A questão em
+discussão consiste em saber se os ditames dos Decretos
+11.366/2023 e 11.615/2023 indicados pela Presidência da
+República encontram-se em conformidade com a
+Constituição.
+III. RAZÕES DE DECIDIR 3. O fato de que o Decreto
+11.615/2023 sucedeu a regulamentação transitória
+instituída pelo Decreto 11.366/2023, originalmente objeto
+da presente ação declaratória, não obsta o conhecimento
+da demanda, uma vez que (i) há continuidade normativa
+entre os atos normativos e (ii) a Presidência da República
+manifestou-se pelo aditamento de seu requerimento
+inicial, indicando a persistência de controvérsia judicial
+(Lei 9.868/1999, art. 14, III) e os termos da declaração de
+constitucionalidade que almeja. 4. A política de controle
+da circulação de armas fogo no Brasil retira seu
+fundamento legal do Estatuto do Desarmamento (Lei
+10.826/2003), que foi editado com o escopo de aprimorar
+os mecanismos de controle da circulação de armas de fogo
+no país a fim de combater a violência social. Na linha da
+jurisprudência
+desta
+Corte,
+‘[o]
+Estatuto
+do
+Desarmamento é o diploma legislativo que consubstancia
+os valores constitucionais concernentes à proteção da vida
+humana (CF, art. 5º, caput) e à promoção da segurança
+pública (CF, art. 144, caput) contra o terror e a mortalidade
+provocada pelo uso indevido das armas de fogo’ (ADI
+6680 MC/DF, Rel. Min. Rosa Weber, Tribunal Pleno, DJe
+4.9.2023). 5. No período compreendido entre 2019 e 2022, o
+
+7
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código C4BE-F860-5136-BB6C e senha 8254-9E7A-AA41-6541
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 11 de 16
+
+RE 1615344 ED-AGR / PR
+Governo Federal, promoveu, mediante a edição de
+sucessivos decretos, a flexibilização do sistema de controle
+da circulação das armas de fogo no Brasil, estimulando a
+proliferação da aquisição e posse de armas no país,
+valendo-se de prática que já foi considerada
+inconstitucional por esta Corte em mais de uma
+oportunidade (v. g. ADIs 6119/DF, 6139/DF e 6466/DF, Rel.
+Min. Edson Fachin, Tribunal Pleno, DJe 16.12.2022; ADI
+6.134/DF e ADPFs 581/DF e 586/DF, Rel. Min. Rosa Weber,
+Tribunal Pleno, DJe 4.9.2023). 6. Os Decretos 11.366/2023 e
+11.615/2023 visam reverter a vertiginosa tendência de
+proliferação de armas de fogo em circulação no Brasil e
+promover a reconstrução das políticas públicas de
+efetivo controle dessa circulação. Os atos normativos
+inserem-se no poder regulamentar privativo do
+Presidente da República (CF, art. 84, IV) e não extrapolam
+a margem de conformação regulamentar estabelecida pelo
+Estatuto
+do
+Desarmamento
+(10.826/2003).
+As
+determinações
+regulamentares
+indicadas
+pelo
+requerente
+igualmente
+não
+incorrem
+em
+inconstitucionalidade material por violação à segurança
+jurídica ou ao direito adquirido (CF, art. 5º, XXXVI). Ao
+invés, densificam os direitos fundamentais à vida (CF,
+art. 5º) e à segurança pública (CF, art. 144), concretizando
+o próprio escopo finalístico da Lei 10.826/2003, referente
+à promoção do desarmamento e do controle das armas de
+fogo no Brasil.
+IV. DISPOSITIVO E TESE 7. Ação declaratória de
+constitucionalidade conhecida e julgada procedente.” (DJe
+de 23/07/2025)
+No caso dos autos, embora o Tribunal de origem tenha
+considerado que "o aludido Decreto não dispôs acerca da
+alteração do prazo de validade do Certificado de Registro - CR,
+
+8
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código C4BE-F860-5136-BB6C e senha 8254-9E7A-AA41-6541
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 12 de 16
+
+RE 1615344 ED-AGR / PR
+o que somente foi introduzido via Portaria COLOG nº 166, ao
+que parece não abrangida na ADC 85" (Doc. 65, fl. 2),
+concluindo pela preservação da validade decenal do CR, a
+orientação desta SUPREMA CORTE não acolhe tal distinção.
+Ao julgar a ADC nº 85, o STF reconheceu a
+constitucionalidade da política pública de controle da
+circulação de armas de fogo implementada pelos Decretos nº
+11.366/2023 e nº 11.615/2023, assentando, de forma expressa, a
+inexistência de violação à segurança jurídica ou ao direito
+adquirido em decorrência da redução dos prazos anteriormente
+vigentes.
+Nesse sentido, a Segunda Turma assentou que a pretensão
+de preservação dos prazos originalmente concedidos tanto para
+o CRAF quanto para o CR não encontra amparo na
+jurisprudência desta CORTE. Eis a ementa do julgado:
+“EMENTA: AGRAVO INTERNO NO RECURSO
+EXTRAORDINÁRIO
+COM
+AGRAVO.
+ADMINISTRATIVO.
+ESTATUTO
+DO
+DESARMAMENTO. CERTIFICADO DE ARMA DE
+FOGO - CRAF E CERTIFICADO DE REGISTRO - CR.
+PRAZO DE VALIDADE. REDUÇÃO. DECRETO-LEI
+11.615/2023.
+AÇÃO
+DECLARATÓRIA
+DE
+CONSTITUCIONALIDADE 85. ACÓRDÃO RECORRIDO
+EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO
+SUPREMO TRIBUNAL FEDERAL. HONORÁRIOS
+ADVOCATÍCIOS MAJORADOS AO MÁXIMO LEGAL
+EM DESFAVOR DA PARTE RECORRENTE, CASO AS
+INSTÂNCIAS DE ORIGEM OS TENHAM FIXADO, NOS
+TERMOS DO ARTIGO 85, § 11, DO CÓDIGO DE
+PROCESSO CIVIL, OBSERVADOS OS LIMITES DOS §§ 2º
+E 3º E A EVENTUAL CONCESSÃO DE JUSTIÇA
+GRATUITA.
+RECURSO
+MANIFESTAMENTE
+
+9
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código C4BE-F860-5136-BB6C e senha 8254-9E7A-AA41-6541
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 13 de 16
+
+RE 1615344 ED-AGR / PR
+IMPROCEDENTE. AGRAVO INTERNO DESPROVIDO,
+COM IMPOSIÇÃO DE MULTA DE 5% (CINCO POR
+CENTO) DO VALOR ATUALIZADO DA CAUSA, NOS
+TERMOS DO ARTIGO 1.021, § 4º, DO CÓDIGO DE
+PROCESSO CIVIL, CASO SEJA UNÂNIME A
+VOTAÇÃO.”
+No mesmo sentido, em situação análoga à dos autos,
+vejam-se as seguintes decisões monocráticas:
+“Ementa: DIREITO ADMINISTRATIVO E OUTRAS
+MATÉRIAS DE DIREITO PÚBLICO. RECURSO
+EXTRAORDINÁRIO. CERTIFICADO DE REGISTRO
+(CR). CERTIFICADO DE REGISTRO DE ARMA DE
+FOGO (CRAF). REDUÇÃO DO PRAZO DE VALIDADE.
+CONSTITUCIONALIDADE DOS DECRETOS Nº 11.366,
+DE 2023, E Nº 11.615, DE 2023. PRECEDENTES.
+RECURSO EXTRAORDINÁRIO PROVIDO.
+I. CASO EM EXAME 1. Recurso extraordinário
+interposto contra acórdão pelo qual o Tribunal Regional
+Federal da 4ª Região concedeu parcialmente a segurança
+em mandado de segurança que impugnava a alteração do
+prazo de validade do Certificado de Registro (CR) e do
+Certificado de Registro de Arma de Fogo (CRAF). 2. A
+recorrente aponta violação a dispositivos constitucionais e
+requer o provimento do recurso extremo para que seja
+denegada a segurança, aludindo ao decidido pelo
+Supremo Tribunal Federal na Ação Declaratória de
+Constitucionalidade (ADC) nº 85/DF.
+II. QUESTÃO EM DISCUSSÃO 3. A questão em
+discussão consiste em saber se há direito adquirido à
+manutenção do prazo de validade do CRAF e do CR,
+tendo em vista o estabelecido nos Decretos nº 11.366, de
+
+10
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código C4BE-F860-5136-BB6C e senha 8254-9E7A-AA41-6541
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 14 de 16
+
+RE 1615344 ED-AGR / PR
+2023, e nº 11.615, de 2023.
+III. RAZÕES DE DECIDIR 4. O acórdão recorrido
+diverge do que foi decidido pelo Supremo Tribunal
+Federal no julgamento da Ação Declaratória de
+Constitucionalidade (ADC) nº 85/DF, que declarou a
+constitucionalidade dos Decretos nº 11.366, de 2023, e nº
+11.615, de 2023. 5. A Corte Suprema reconheceu que os
+referidos decretos, ao regulamentarem o Estatuto do
+Desarmamento (Lei nº 10.826, de 2003), não violam a
+segurança jurídica ou o direito adquirido, estando
+inseridos no poder regulamentar privativo do Presidente
+da República. 6. Os decretos visam reverter a proliferação
+de armas de fogo e promover a reconstrução das políticas
+públicas de controle de sua circulação, densificando os
+direitos fundamentais à vida e à segurança pública. 7. A
+redução do prazo de validade tanto do CRAF quanto do
+CR foi considerada constitucional pelo Supremo Tribunal
+Federal em reiterados pronunciamentos a respeito do
+tema. 8. Precedentes posteriores da Segunda Turma e
+decisões monocráticas confirmam o entendimento da
+constitucionalidade da redução dos prazos de validade
+dos certificados mencionados.
+IV. DISPOSITIVO 9. Recurso extraordinário provido
+para denegar a segurança.” (RE 1615345 / PR, Rel. Min.
+ANDRÉ MENDONÇA, DJe de 17/8/2026)
+“RECURSO EXTRAORDINÁRIO. MANDADO DE
+SEGURANÇA. ADMINISTRATIVO. ESTATUTO DO
+DESARMAMENTO. COLECIONADOR, ATIRADOR
+DESPORTIVO E CAÇADOR - CAC. CERTIFICADO DE
+REGISTRO - CR. PRAZO DE VALIDADE. REDUÇÃO.
+PORTARIA
+166/2023-COLOG/CEX.
+ACÓRDÃO
+RECORRIDO
+EM
+DISSONÂNCIA
+COM
+A
+
+11
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código C4BE-F860-5136-BB6C e senha 8254-9E7A-AA41-6541
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 15 de 16
+
+RE 1615344 ED-AGR / PR
+JURISPRUDÊNCIA
+DO
+SUPREMO
+TRIBUNAL
+FEDERAL.
+RECURSO
+EXTRAORDINÁRIO
+COM
+AGRAVO 1.559.355 E RECURSO EXTRAORDINÁRIO
+1.589.869, REL. MIN. GILMAR MENDES. RECURSOS
+EXTRAORDINÁRIOS 1.587.636 E 1.599.069, REL. MIN.
+CÁRMEN LÚCIA. RECURSO PROVIDO.” (RE 1609344 /
+PR, Rel. Min, LUIZ FUX, DJe de 1/7/2026)
+O acórdão recorrido divergiu desse entendimento,
+devendo, portanto, ser reformado.
+Diante do exposto, com base no art. 21, §§ 1º e 2º, do
+Regimento Interno do Supremo Tribunal Federal, DOU
+PROVIMENTO AO RECURSO EXTRAORDINÁRIO para
+restabelecer a sentença.”
+
+Não há reparo a fazer no entendimento aplicado, pois o agravo
+regimental não apresentou qualquer argumento apto a desconstituir os
+óbices apontados.
+Ante o exposto, NEGO PROVIMENTO AO AGRAVO INTERNO.
+É o voto.
+
+12
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código C4BE-F860-5136-BB6C e senha 8254-9E7A-AA41-6541
+
+Supremo Tribunal Federal
+Extrato de Ata - 13/10/2026
+
+Inteiro Teor do Acórdão - Página 16 de 16
+
+PRIMEIRA TURMA
+
+EXTRATO DE ATA
+
+AG.REG. NOS EMB.DECL. NO RECURSO EXTRAORDINÁRIO 1.615.344
+PROCED. : PARANÁ/PR
+RELATOR(A): MIN. ALEXANDRE DE MORAES
+AGTE.(S): PLINIO HEY MARTINS
+ADV.(A/S): MARLUZ LACERDA DALLEDONE (61189/PR, 74021/SC)
+AGDO.(A/S): UNIÃO
+PROC.(A/S)(ES): ADVOGADO-GERAL DA UNIÃO
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+interno, nos termos do voto do Relator, Ministro Alexandre de Moraes.
+Primeira Turma, Sessão Virtual de 2.10.2026 a 9.10.2026.
+Composição: Ministros Cármen Lúcia (Presidente), Alexandre de
+Moraes, Cristiano Zanin e Flávio Dino.
+Cintia da Silva Gonçalves
+Secretária da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4709-3BF7-72E4-1FF9 e senha 4B69-AB6B-F5CF-D1AA
