@@ -1,0 +1,34 @@
+Remessa necessária. Pedido de reabilitação. Acolhimento pelo Juízo a quo. Requisitos dos artigos 94 do CP e 743 do CPP preenchidos. Reabilitação confirmada em sede de reexame necessário.
+
+ A reabilitação daquele que outrora figurou acusado em processo crime, bem como a exclusão dos dados de sua folha de antecedentes, atestados ou certidões, se coadunam com a legislação penal e de execução penal, dando plena eficácia aos princípios constitucionais da dignidade da pessoa humana e do estado de inocência.
+
+I.
+Trata-se de Remessa necessária (Recurso Ex Officio), em que o Juízo de Direito da 5ª Vara Criminal da Comarca de Londrina visa ao reexame da decisão pela qual foi concedida a reabilitação criminal ao sentenciado Jonathan Fernado da Silva Estevam, nos termos do artigo 94 do Código Penal (mov. 12.1).
+O pedido foi formulado no mov. 1.1, acompanhado dos documentos de movs. 1.2 a 1.15.
+Instado a se manifestar, o Ministério Público de primeiro grau opinou favoravelmente à pretensão, por reputar preenchidos os requisitos legais (mov. 9.1).
+Na sequência, o Juízo de origem julgou procedente o pedido e submeteu a decisão ao reexame necessário, na forma do artigo 746 do Código de Processo Penal (mov. 12.1).
+A ilustrada Procuradoria-Geral de Justiça, em parecer da lavra do Dr. Jorge Fernando Barreto da Costa, opinou pela confirmação da decisão que concedeu a reabilitação (mov. 14.1).
+
+II.
+A decisão que concedeu a reabilitação criminal deve ser mantida integralmente.
+Inicialmente, ressalta-se que inexistem empecilhos ao conhecimento do recurso, em razão do previsto no artigo 746 do Código de Processo Penal, o qual dispõe: “Da decisão que conceder a reabilitação haverá recurso de ofício”.
+Jonathan Fernando da Silva Estevam foi condenado, nos autos nº 0003086-33.2011.8.16.0014, à pena de 2 (dois) anos de reclusão, em regime inicial aberto, substituída por prestação pecuniária e prestação de serviços à comunidade, além de 10 (dez) dias-multa, pela prática do delito previsto no artigo 14, caput, da Lei nº 10.826/2003.
+O trânsito em julgado ocorreu em 16.04.2013; as penas restritivas de direitos foram declaradas extintas em 14.07.2015; e a pena de multa, integralmente paga, foi extinta em 08.01.2016.
+Nesse contexto, extrai-se da dicção do art. 94 do Código Penal:
+“A reabilitação poderá ser requerida, decorridos 2 (dois) anos do dia em que for extinta, de qualquer modo, a pena ou terminar sua execução, computando-se o período de prova da suspensão e o do livramento condicional, se não sobrevier revogação, desde que o condenado:
+I - tenha tido domicílio no País no prazo acima referido;II - tenha dado, durante esse tempo, demonstração efetiva e constante de bom comportamento público e privado;III - tenha ressarcido o dano causado pelo crime ou demonstre a absoluta impossibilidade de o fazer, até o dia do pedido, ou exiba documento que comprove a renúncia da vítima ou novação da dívida”.
+Com efeito, extrai-se dos autos o preenchimento dos requisitos, consoante pontuou a ilustre magistrada de origem em sua decisão:
+“O primeiro requisito, qual seja, o decurso de dois anos da extinção das penas, foi preenchido, 049302-vez que a pena privativa de liberdade foi extinta em 14/07/2015 (Autos nº 81.2013.8.16.0014, mov. 55.1) e a pena de multa extinta em 08/01/2016 pelo pagamento (mov. 1.4).Além disso, não há informações de que o requerente tenha se ausentado do país ou tenha apresentado mau comportamento público ou privado, conforme se verifica pela certidão de antecedentes criminais de mov. 1.11/12.Mais, não houve condenação ao ressarcimento de danos causados pelo crime (mov. 1.4).Logo, satisfeitas também as exigências contidas nos incisos I a III do artigo 94, do Código Penal. (mov. 1.19)” (mov. 12.1).
+No caso, os requisitos legais foram satisfeitos. Entre a extinção das penas e o ajuizamento do pedido, em 25.06.2026, transcorreu prazo superior ao biênio previsto no artigo 94 do Código Penal.
+O interessado comprovou domicílio no País mediante documento de residência no endereço situado na Rua Manoel Cardoso, nº 285, Residencial Horizonte, Londrina/PR, emitido em nome de sua esposa, com quem é casado desde 23.03.2024 (movs. 1.9 e 1.10).
+Igualmente foram apresentadas certidões negativas expedidas pela Polícia Federal e pelo TJPR, ambas em 15.06.2026, bem como pela Justiça Eleitoral, em 16.06.2026, acompanhada de certidão de quitação eleitoral (movs. 1.11 a 1.14), evidenciando a ausência de novos registros criminais e o bom comportamento público e privado no período exigido.
+Ademais, não houve condenação à reparação de dano, em razão da natureza do delito praticado, e a pena de multa foi integralmente quitada. Registra-se, ainda, que o interessado exerceu a profissão de vigilante e que a subsistência do registro da condenação constitui obstáculo ao retorno à atividade, circunstância que evidencia a utilidade concreta da medida para sua reintegração social.
+Assim, presentes os requisitos objetivos e subjetivos para a concessão da reabilitação, a confirmação da sentença é de rigor, por se tratar de direito subjetivo da parte a concessão do pedido formulado.
+Sobre o ponto em foco, discorre a doutrina de Michael Procopio Avelar[1]:
+“A reabilitação é um instituto de Direito Penal, de natureza declaratória, que concede o sigilo dos registros sobre o processo e condenação. Também pode neutralizar os efeitos extrapenais específicos da condenação. Possui o escopo de, atendidos determinados requisitos, permitir que o acusado obtenha a reinserção social, sem que fique para sempre tachado pela condenação passada. Como lembra Luiz Regis Prado, cuida-se de medida político-criminal”.
+De se registrar, acerca do tema, o entendimento jurisprudencial exarado por esta Segunda Câmara Criminal:
+“REMESSA NECESSÁRIA (RECURSO CRIME EX OFFICIO). SENTENÇA QUE JULGOU PROCEDENTE PEDIDO DE REABILITAÇÃO. PREENCHIMENTO DOS REQUISITOS OBJETIVOS E SUBJETIVOS À CONCESSÃO DA BENESSE. INTELIGÊNCIA DO ART. 94 DO CÓDIGO PENAL. REABILITAÇÃO CRIMINAL QUE SE IMPÕE. SENTENÇA CONFIRMADA EM SEDE DE REEXAME NECESSÁRIO. RECURSO CONHECIDO E DESPROVIDO” (TJPR - 2ª Câmara Criminal - 0042332-58.2024.8.16.0021 - Rel.: DESEMBARGADOR KENNEDY JOSUE GRECA DE MATTOS - J. 06.02.2025).
+A ser assim, a reabilitação do condenado em processo crime, bem como a exclusão dos dados da sua folha de antecedentes, atestados ou certidões se coadunam com a legislação penal e de execução penal, dando plena eficácia aos princípios constitucionais da dignidade da pessoa humana e estado de inocência.
+Ante tais considerações, mantém-se na íntegra a decisão monocrática que declarou Jonathan Fernando da Silva Estevam reabilitado.
+Envie-se cópia deste acórdão, independentemente do trânsito em julgado, via Mensageiro, ao prolator da sentença, Dr. João Henrique Coelho Ortolano.
+[1] AVELAR, Michael Procopio. Manual de direito penal – volume único. 2ª ed. São Paulo: JusPodivm, 2023.
