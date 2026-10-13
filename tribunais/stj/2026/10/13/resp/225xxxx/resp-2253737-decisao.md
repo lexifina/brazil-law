@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por ÁRBORE ENGENHARIA LTDA e SINGULAR EMPREENDIMENTO IMOBILIÁRIO SPE LTDA, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"DIREITO CIVIL. APELAÇÃO. RESCISÃO CONTRATUAL. COMPRA E VENDA DE IMÓVEL. SENTENÇA DE PROCEDÊNCIA EM PARTE. PRELIMINAR DE ILEGITIMIDADE PASSIVA. REJEIÇÃO. CORRÉS QUE INTEGRAM CADEIA DE FORNECIMENTO E PERTENCEM AO MESMO GRUPO ECONÔMICO. RESPONSABILIDADE SOLIDÁRIA. RESCISÃO CONTRATUAL DEVIDA. CULPA DA ADQUIRENTE. RETENÇÃO DE 20% DOS VALORES PAGOS A TÍTULO DE DESPESAS ADMINISTRATIVAS E CORRETAGEM. LEI Nº 13.786/2018, ART. 32-A. INTELIGÊNCIA DA SÚMULA 543 DO STJ. JUROS DE MORA. TERMO INICIAL A PARTIR DO TRÂNSITO EM JULGADO. PRECEDENTES. SENTENÇA REFORMADA. RECURSO PROVIDO EM PARTE." (e-STJ fls. 554/561)
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 589/593).
+Em suas razões (e-STJ fls. 598/617), as recorrentes, com fundamento no art. 105, inciso III, "a", da Constituição Federal, apontam violação aos arts. 110, 421, 422 e 482 do Código Civil, pois a devolução em percentual diverso do ajustado afrontaria a autonomia privada, a boa-fé objetiva e a força obrigatória dos contratos, e ao art. 67-A, § 5º, da Lei nº 4.591/1964, porque, tratando-se de incorporação submetida ao patrimônio de afetação, admitir-se-ia cláusula penal até 50% das quantias pagas; alegam, ainda, negativa de prestação jurisdicional por ofensa aos arts. 489, § 1º, III e IV, e 1.022, parágrafo único, II, do Código de Processo Civil (e-STJ fls. 606/616).
+Contrarrazões apresentadas (e-STJ fls. 622/632).
+É o relatório.
+DECIDO.
+Conforme se verifica dos autos, os recursos especiais versam sobre rescisão, por iniciativa e culpa da compradora, de contrato de promessa de compra e venda de unidade imobiliária firmado após a vigência da Lei nº 13.786/2018, com discussão acerca da base de cálculo e do percentual de retenção e da aplicação do art. 67-A, § 5º, da Lei nº 4.591/1964 em hipóteses de patrimônio de afetação (e-STJ fls. 554/561 e 598/617).
+A questão de direito tratada no presente recurso especial foi afetada pela Segunda Seção do Superior Tribunal de Justiça como representativa de controvérsia a ser julgada sob o rito dos recursos especiais repetitivos - Tema 1.466/STJ -, conforme previsão dos arts. 1.036 e 1.037 do Código de Processo Civil.
+A decisão de afetação foi proferida nos seguintes termos:
+"PROPOSTA DE AFETAÇÃO EM RECURSO ESPECIAL. RITO DOS RECURSOS REPETITIVOS. DIREITO DO CONSUMIDOR. PROMESSA DE COMPRA E VENDA DE IMÓVEL. PATRIMÔNIO DE AFETAÇÃO. CONTRATO POSTERIOR À LEI Nº 13.786/2018. RESCISÃO POR INADIMPLEMENTO DO COMPRADOR. RETENÇÃO. PERCENTUAL. DEFINIÇÃO.
+1. Delimitação da controvérsia: definir se, nos contratos de compra e venda de imóveis submetidos a regime de patrimônio de afetação e firmados após a vigência da Lei nº 13.786/2018 (Lei do Distrato), a rescisão por inadimplemento do comprador autoriza o vendedor a reter até 50% (cinquenta por cento) das quantias pagas, nos termos do art. 67-A, § 5º, da Lei nº 4.591/1964.
+2. Recurso especial afetado ao rito do artigo 1.036 do CPC."
+(ProAfR no REsp n. 2.259.135/SP, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 30/6/2026, DJEN de 4/8/2026)
+Nesse contexto, em observância ao princípio da economia processual e à própria finalidade do Código de Processo Civil, corroborada pelo art. 256-L do Regimento Interno do Superior Tribunal de Justiça, devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão proferido no recurso representativo da controvérsia.
+Logo, imperativa a devolução dos autos, com a respectiva baixa, ao Tribunal de origem, onde, nos termos dos arts. 1.040 e 1.041 do Código de Processo Civil, deverá ser realizado o juízo de conformação ou manutenção do acórdão local em relação ao que vier a ser decidido pelo Superior Tribunal de Justiça sobre o Tema 1.466/STJ.
+Ante o exposto, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do Código de Processo Civil.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do Código de Processo Civil.
+Publique-se.
+Intimem-se.
+EMENTA
