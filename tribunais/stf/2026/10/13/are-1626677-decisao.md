@@ -1,0 +1,71 @@
+DECISÃO:
+Vistos.
+Trata-se de agravo interposto por Marcelo Canhete da Silva e Osman Felipe Alves Pires contra decisão que não admitiu recurso extraordinário formalizado em face de acórdão proferido pela 7ª Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+
+“DIREITO PENAL. TRÁFICO INTERNACIONAL DE ENTORPECENTES. ART. 33, CAPUT, C/C ART. 40, I, DA LEI Nº 11.343/2006. PRELIMINARES. NULIDADE DA BUSCA VEICULAR. QUEBRA DE CADEIA DE CUSTÓDIA. DOSIMETRIA. TRANSNACIONALIDADE. PERDIMENTO DE VEÍCULO.
+1. Os elementos que motivaram as suspeitas e justificaram a abordagem veicular foram objetivos e condizentes com a realidade da região, em observância à regra insculpida no § 2.º do art 240 do CPP. Tese de nulidade rechaçada.
+2. A defesa optou por arguir nulidade probatória apenas em sede de apelação criminal, não fazendo qualquer referência a supostos vícios na confecção do laudo técnico durante a instrução da ação penal. Nesse ponto, deve-se consignar que a jurisprudência do STJ rechaça a utilização da chamada 'nulidade de algibeira', caracterizada pela insurgência tardia da defesa, como estratégia processual, mesmo após a ciência de eventual vício" (AgRg no AREsp nº 2.308.250/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 5/3/2024, DJe 8/3/2024).
+3. O laudo pericial confirmatório da natureza da substância transportada pelos réus descreve a guarda documentada da amostra submetida a exame, além das técnicas científicas adotadas pelo perito criminal, não havendo nulidade a ser declarada.
+4. O bem jurídico tutelado pelo art. 33 da Lei nº 11.343/2006 é a saúde pública. Trata-se de delito comum, de modo que pode ser praticado por qualquer pessoa. Cuida-se, ainda, de crime de ação múltipla, consumando-se com a prática de qualquer das condutas descritas no preceito primário.
+5. A transnacionalidade do delito, conforme o entendimento consolidado desta Corte, deve ser avaliada a partir da natureza, procedência da droga e circunstâncias do fato, conforme as balizas do inciso I do art. 40 da Lei nº 11.343/06. Precedentes desta Corte.
+6. A quantidade de entropecente poderá ser considerada na eventual modulação do percentual de redução da pena decorrente do reconhecimento da figura do tráfico privilegiado (art. 33, § 4º da Lei nº 11.343/2006), desde que tal elemento não tenha sido previamente utilizado para exasperação da pena-base, evitando-se, assim, a ocorrência de bis in idem. Precedentes do STF.
+7. Tratando-se de bem apreendido no contexto da prática do delito de tráfico de drogas, incide o parágrafo único do art. 243 da Constituição Federal de modo a legitimar a aplicação da pena de perdimento.” (e-doc. 81, p. 12)
+
+Opostos embargos de declaração (e-doc. 82), foram negado provimento (e-doc. 84).
+No apelo extremo (e-doc. 88), os recorrentes apontam violação aos artigos 5º, incisos XLVI, LIV, LV e LVI; e 93, inciso IX, da Constituição da República.
+Discorrem que
+
+“discute-se a validade constitucional de condenação criminal fundada em prova obtida mediante busca veicular cuja legalidade foi justificada com base em presunções genéricas e informações não demonstradas nos autos, bem como em elementos posteriormente produzidos, convertendo resultado da diligência em fundamento retroativo de sua própria legitimidade.”
+
+Sustentam, quanto à abordagem, que:
+
+“a legitimidade da abordagem foi reconhecida com fundamento em supostas informações do setor de inteligência e em circunstâncias reputadas suspeitas pelos próprios agentes, sem que houvesse registro documental da origem, conteúdo ou verificabilidade dessas informações.
+Ao admitir como suficiente fundamento genérico desacompanhado de explicitação concreta no próprio acórdão, o Tribunal de origem relativizou o controle constitucional da motivação das medidas restritivas de direitos fundamentais.”
+
+Asseveram ainda que a “descoberta posterior de entorpecente não tem o condão de convalidar a diligência se ausente, previamente, justa causa objetivamente demonstrável. Admitir o contrário significa permitir que o resultado da busca legitime retroativamente sua própria legalidade, invertendo a lógica do controle constitucional da atividade estatal.”
+No tocante à prova pericial, argumentam que “a controvérsia constitucional envolve a violação aos  arts. 5º, incisos LIV, LV e LVI, da CF, diante da manutenção da prova pericial mesmo  diante de alegada quebra da cadeia de custódia.”
+Quanto ao tráfico privilegiado do recorrente Osman:
+
+“a aplicação da causa de diminuição prevista no art. 33, § 4º, da Lei nº 11.343/06, cuja  fração foi fixada em patamar mínimo com fundamento essencialmente na  quantidade da droga apreendida, em relação ao recorrente OSMAN.
+A decisão recorrida reduziu a reprimenda em fração inferior ao máximo  legal sem apontar qualquer elemento concreto que indicasse dedicação a  atividades criminosas, integração a organização criminosa ou circunstância  adicional apta a revelar maior reprovabilidade da conduta, limitando-se a utilizar a  quantidade do entorpecente como critério decisivo para restringir o redutor.”
+
+Quanto à pena de multa do recorrente Marcelo, alega que “ a fixação da pena de multa sem análise concreta da capacidade econômica do recorrente MARCELO, sob o argumento exclusivo de proporcionalidade formal com a pena privativa de liberdade, o que suscita debate relevante sobre o conteúdo material do princípio da individualização da pena (art. 5º, XLVI, da CF) e o dever de motivação adequada das decisões judiciais (art. 93, IX, da CF).”
+Requerem, ao fim,
+
+“a) O conhecimento do presente Recurso Extraordinário, por estarem  presentes os requisitos constitucionais de admissibilidade, inclusive o  prequestionamento explícito das matérias constitucionais invocadas, nos termos das  Súmulas 282 e 356 do STF;
+b) No mérito, o provimento do Recurso Extraordinário, para reconhecer a  violação aos arts. 5º, incisos LIV e LVI, da CF, a fim de declarar a ilicitude da busca  pessoal realizada sem demonstração objetiva de fundada suspeita, com a  consequente exclusão das provas dela derivadas;
+c) O reconhecimento da violação aos arts. 5º, incisos LIV, LV e LVI, da CF,  para reconhecer a violação constitucional decorrente da manutenção da prova sem fundamentação adequada, com as consequências jurídicas pertinentes;
+d) Subsidiariamente, na análise da dosimetria da pena, o reconhecimento  da violação ao art. 5º, inciso XLVI, da CF, para assegurar a correta individualização da pena, com a revisão da fração aplicada ao tráfico privilegiado em relação ao  recorrente OSMAN FELIPE ALVES PIRES;
+e) O reconhecimento da violação aos arts. 5º, inciso XLVI, e 93, inciso IX,  ambos da CF, para determinar a adequada fundamentação e redimensionamento  da fração aplicada à majorante da transnacionalidade;
+f) Ainda na dosimetria da pena, o reconhecimento da violação aos arts.  5º, inciso XLVI, e 93, inciso IX, ambos da CF, para que seja redimensionada a pena de  multa com observância da condição econômica do recorrente MARCELO CANHETE  DA SILVA;
+g) Por derradeiro, caso não se entenda pelo imediato reconhecimento  das violações constitucionais apontadas e pela consequente reforma do julgado,  que seja declarada a nulidade do acórdão recorrido por negativa de prestação  jurisdicional, com o reconhecimento da violação ao art. 93, IX, da CF, determinando se o retorno dos autos ao Tribunal de origem para novo julgamento, para que  enfrente de forma expressa, fundamentada e individualizada todos os dispositivos  constitucionais invocados, nos termos do art. 93, inciso IX, da CF.”
+
+Decisão de admissibilidade do recurso constante no e-doc. 92.
+É o relatório. Decido.
+Verifica-se dos autos que o juízo de admissibilidade exercido pela  Vice-Presidência do Tribunal de origem negou seguimento ao recurso extraordinário quanto à matéria tratada nos Temas nº 339 e 660 da sistemática da repercussão geral e inadmitiu o recurso quanto às demais alegações (e-doc. 92).
+Contra a decisão que negou seguimento, a parte não interpôs agravo interno.
+Cumpre observar, no ponto, que não cabe agravo dirigido a este Supremo Tribunal Federal (art. 1.042 do CPC) contra o capítulo da decisão que negou seguimento ao recurso extraordinário com fundamento no art. 1.030, I, “a” do Código de Processo Civil, por aplicação do citado tema da Repercussão Geral. Nesse sentido:
+
+“Agravo regimental no recurso extraordinário com agravo. Aplicação da sistemática da repercussão geral pelo juízo de origem. Recurso dirigido ao Supremo Tribunal Federal. Não cabimento. Precedentes. 1. Segundo a firme jurisprudência do Supremo Tribunal Federal, não cabe recurso ou outro instrumento processual na Corte contra decisão do juízo de origem em que se aplique a sistemática da repercussão geral. 2. Essa orientação está consolidada no Código de Processo Civil de 2015, que prevê, como instrumento processual adequado contra a aplicação do instituto da repercussão geral, a interposição de agravo interno perante o próprio tribunal de origem (art. 1.030, § 2º, do CPC). 3. Agravo regimental não provido” (ARE nº 1.171.847/DF - AgR, Tribunal Pleno, de minha relatoria no exercício da Presidência, DJe de 19/3/19.)
+
+“EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM: AUSÊNCIA DE PREVISÃO LEGAL DE RECURSO PARA O SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 1.109.295/RS-ED-ED, Tribunal Pleno, Rel. Min. Cármen Lúcia (Presidente), DJe de 25/9/18).
+Desse modo, no âmbito do presente agravo, hão de ser resolvidas apenas as questões remanescentes. Passo a apreciá-las.
+No tocante às teses de dosimetria da pena modulação do redutor do tráfico privilegiado (art. 33, § 4º, da Lei nº 11.343/06), fração da majorante da transnacionalidade (art. 40, I, da Lei nº 11.343/06) e fixação da pena de multa (art. 60 do Código Penal), é imperioso concluir que o Tribunal a quo ateve-se ao exame de legislação ordinária e à valoração dos elementos das causas. Portanto, a violação à Constituição Federal, se ocorresse, seria meramente indireta ou reflexa, a qual não viabiliza o apelo extremo. Anota-se, mutatis mutandi:
+
+ “AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ALEGADA INOBSERVÂNCIA DO PRINCÍPIO DA INDIVIDUALIZAÇÃO DA PENA. OFENSA REFLEXA. 1. A análise da aplicação do tráfico privilegiado passa necessariamente pela interpretação de legislação infraconstitucional (Lei n. 11.343/2006, art. 33, § 4º), de modo que a suposta ofensa à Constituição Federal seria indireta ou reflexa. 2. Agravo interno desprovido.(ARE 1341202 AgR, Relator(a): NUNES MARQUES, Segunda Turma, DJe- 02-06-2022);
+
+ “Agravo regimental no recurso extraordinário com agravo. 2. Direito Processual Penal. 3. Ofensa ao artigos 5º, incisos XXXV, XXXVII, XLVI, LIII, LIV e LV; 93, inciso IX; e 109, IV, da CF. 4. Alegações: a) violação ao princípio do juiz natural; b) incompetência da Justiça Federal; c) negativa de prestação jurisdicional; d) cerceamento de defesa; e) inexistência de especificação da participação criminosa, bem como ausência de provas suficientes à condenação e f) violação ao princípio de individualização da pena. 5. Violação ao princípio do juiz natural por impedimento da Relatora. Ofensa reflexa. Questão apreciada no julgamento do HC 131.120/RR. Nulidade não configurada. 6. Incompetência da Justiça Federal: o STF adota entendimento de que é dela a competência para julgamento dos crimes praticados nos casos em que as verbas públicas federais sejam transferidas a ente federativo, sujeitas à prestação de contas e a controle da União. Precedentes. Aferição de eventual lesão a bem jurídico estadual. Súmula 279. 7. Negativa de prestação jurisdicional. Ausência de fundamentação nas decisões proferidas pelas instâncias antecedentes. Inexistente (Tema 339, AI-QO-RG 791.292). Prestação jurisdicional concedida nos termos da legislação vigente. 8. Cerceamento de defesa e inexistência de especificação da participação criminosa, bem como ausência de provas suficientes à condenação. Súmulas 279 e 284. Tema 660, ARE-RG 748.371. 9. Violação ao princípio de individualização da pena. Súmulas 282 e 356. Tema 182, AI 742.460/RJ RG. 10. Agravo regimental a que se nega provimento.” (ARE nº 1000420-AgR/RR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 14/3/17).
+
+Saliente-se, ainda, que qualquer conclusão contrária ao acordão recorrido demandaria o reexame aprofundado do contexto fático-probatório dos autos, além de outros elementos intimamente ligados ao mérito da própria ação penal, o que é inviável na via eleita, consoante o enunciado da Súmula nº 279/STF. Perfilhando esse entendimento, destacam-se:
+
+“Agravo regimental em recurso extraordinário com agravo. Matéria criminal. Tráfico de drogas. Dosimetria da pena. Tráfico privilegiado. Alegação de violação de preceitos da Constituição Federal. Reexame de fatos e provas. Óbice da Súmula nº 279 do STF. Matéria infraconstitucional. Precedentes. Regimental não provido. 1. As alegadas contrariedades à Constituição Federal reclamam o reexame aprofundado do contexto fático-probatório dos autos, o qual é inviável na via eleita, consoante o enunciado da Súmula nº 279/STF. 2. Agravo regimental ao qual se nega provimento.(ARE 1520035 AgR, Relator(a): DIAS TOFFOLI, Segunda Turma, DJe- 04-12-2024).
+
+ “Agravo regimental no recurso extraordinário com agravo. 2. Direito Penal e Processual Penal. 3. Tráfico ilícito de entorpecentes. Art. 33 da Lei 11.343/2006. 4. Incidência, no caso, do art. 1.030, inciso I, alínea “a”, do CPC. Tema 339 da sistemática da repercussão geral da questão constitucional. 5. Ofensa indireta e reflexa à Constituição Federal. 6. Necessidade de revolvimento do conjunto fático-probatório dos autos. Óbice da Súmula 279/STF. 7. Precedentes. 8. Agravo regimental não provido.(ARE 1294005 AgR, Relator(a): GILMAR MENDES, Segunda Turma,DJe-03-12-2020)
+
+Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+Publique-se.
+Brasília, 13 de outubro de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
