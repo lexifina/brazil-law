@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei federal com arrimo legal no art. 18, §3º, da Lei n. 12.153/2009 requerido por Jaciane Simonetti com o objetivo de reformar acórdão de fls. 196/199 proferido à unanimidade pela 2ª Turma Recursal da Fazenda Pública do TJ-SC, assim ementado:
+RECURSO INOMINADO. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. AÇÃO DE COBRANÇA. AGENTE COMUNITÁRIA DE SAÚDE. MUNICÍPIO DE XAXIM. PRETENSÃO DE COBRANÇA DE DIFERENÇAS SALARIAIS REFERENTES AO ADICIONAL DE INSALUBRIDADE. SENTENÇA DE IMPROCEDÊNCIA. INSURGÊNCIA DA PARTE AUTORA. PREVISÃO CONTIDA NO ARTIGO 4º DA LEI MUNICIPAL N. 2.680/2003 NO SENTIDO DE SER DEVIDO O REFERIDO ADICIONAL NO VALOR DE ATÉ 20% (VINTE POR CENTO) DO MENOR PADRÃO DE VENCIMENTO DO MUNICÍPIO. PRETENDIDA ALTERAÇÃO DA BASE DE CÁLCULO. IMPOSSIBILIDADE. PRINCÍPIO DA LEGALIDADE. EXERCÍCIO DA AUTONOMIA MUNICIPAL. EMENDA CONSTITUCIONAL N. 120/2022 E LEI FEDERAL N. 13.342/2016, A QUAL, DENTRE OUTRAS DISPOSIÇÕES, ACRESCENTOU O § 3º DO ART. 9º-A DA LEI N. 11350/2006, QUE NÃO IMPUSERAM OBRIGAÇÃO DE MODIFICAÇÃO DA BASE DE CÁLCULO DO ADICIONAL DE INSALUBRIDADE A OUTROS ENTES FEDERATIVOS, TAMPOUCO QUE IMPLEMENTARAM BENEFÍCIOS FINANCEIROS DEVIDOS EM FAVOR DOS SERVIDORES. SENTENÇA MANTIDA PELOS PRÓPRIOS FUNDAMENTOS (LEI N. 9.099/95, ART. 46). RECURSO CONHECIDO E DESPROVIDO.
+Não foram opostos embargos de declaração.
+No pedido dirigido a esta Corte, fls. 205/213, sustenta a requerente, em apertada síntese, que " os  precedentes demonstram a existência de interpretação divergente entre Turmas Recursais sobre a mesma questão de direito federal," e que "o adicional de insalubridade deve ser calculado sobre o vencimento ou salário-base dos agentes (art. 9º-A, § 3º, da Lei n.º 11.350/2006, alterada pela Lei n.º 13.342/2016)" (fl. 211), de modo que "embora o município tenha reconhecido o direito ao adicional, não pode estipular base de cálculo incompatível com aquela fixada em lei federal, sob pena de usurpação de competência legislativa" (fl. 212).
+Pedido sem contrarrazões.
+Feito isento de custas, conforme prevê o art. 6º, IV, da Resolução STJ/GP n. 7, de 28 de janeiro de 2025.
+Representação regular (fl. 15).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+O pedido de uniformização de interpretação de lei federal é um meio de impugnação de decisão judicial muito peculiar e próprio dos microssistemas dos juizados especiais, cujo juízo de admissibilidade se dá por critérios assemelhados aos que esta Corte emprega para a admissão do recurso especial.
+Na presente hipótese, como relatado, o intento da requerente é reformar o acórdão proferido pela 2ª Turma Recursal e, para isso, busca amparo nas disposições da Lei n. 12.153/2009 ao argumento de que o adicional de insalubridade deve ser calculado sobre o vencimento ou salário-base dos agentes públicos de saúde previstos na Lei n. 11.350/2006 e não sobre o menor vencimento do Município, como decidiu, segundo informou, as Turmas Recursais dos estados de Rondônia, São Paulo e Paraná (fls. 208).
+Todavia, à luz da moldura fático-jurídica que dos autos emerge, não há como dar curso ao pedido.
+Com efeito, cuidando-se, como é o caso, de decisão afeta à competência dos Juizados Especiais da Fazenda Pública, rege-se o procedimento pela Lei n. 12.153/2009, diploma que, por seu art. 18, assevera que "caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material".
+Ocorre que o requerente não cuidou de demonstrar a divergência interpretativa de lei federal entre as turmas recursais mencionadas mediante adequado cotejo analítico, como requer a lei, o que, só por si, impede o conhecimento do pedido.
+Nesse sentido (g.n.):
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA. DIVERGÊNCIA. REQUISITOS. AUSÊNCIA. LEGISLAÇÃO LOCAL. EXAME. IMPOSSIBILIDADE.
+1. O incidente de uniformização dirigido ao STJ, nos termos do art. 18, § 3º, da Lei n. 12.153/2009, é cabível quando as Turmas Recursais de diferentes Estados derem à lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, especificamente no que se refere a questões de direito material.
+2. Deve-se demonstrar a divergência mediante: juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração pelo advogado da autenticidade delas; citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado; cotejo analítico, com a transcrição dos trechos dos votos em que se funda a divergência, além da demonstração das circunstâncias que identificam ou assemelham os casos confrontados, o que, in casu, não ocorreu.
+3. Não cabe a esta Corte Superior se manifestar, em sede de pedido de uniformização de interpretação de lei federal, acerca de legislação local.
+4. Agravo interno desprovido.
+(AgInt no PUIL n. 5.250/CE, relator Ministro Gurgel de Faria, Primeira Seção, DJEN de 13/3/2026.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. ARTIGO 18 DA LEI 12.153/2009. DISSÍDIO NÃO COMPROVADO. PEDIDO NÃO CONHECIDO.
+ ..
+2. Nos termos do caput do art. 18 da Lei 12.153/2009 (que dispõe sobre os Juizados Especiais da Fazenda Pública no âmbito dos Estados, do DF e dos Territórios e dos Municípios), caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+3. Em relação à suposta divergência jurisprudencial há de se adotar o mesmo entendimento firmado por ocasião da análise dos Recursos Especiais com fundamento no art. 105, III, "c", da Constituição Federal, quando deve o recorrente apontar o dispositivo de lei federal com interpretação divergente, bem como demonstrar as circunstâncias que identificam ou assemelham os casos confrontados. Precedentes.
+ ..
+5. Agravo interno não provido.
+(AgInt no PUIL n. 5.085/RS, relator Ministro Benedito Gonçalves, Primeira Seção, DJEN de 18/11/2025.)
+Ademais, destaca-se da fundamentação do acórdão recorrido, per relatione, o seguinte trecho (fl. 197, g.n.):
+De imediato é necessário afastar a aplicação do artigo 9-A, §3º, da Lei 11.350/2006, quanto à adoção do vencimento ou salário base do servidor, para a incidência do percentual do adicional de insalubridade, tendo em vista a autonomia municipal para legislar e estabelecer as regras concernentes ao regime jurídico de seus servidores, nos termos dos arts. 1º e 39 da Constituição Federal de 1988. E, no caso, o Município de Xaxim disciplinou expressamente que o adicional de insalubridade pago a todos os seus servidores incide sobre "o menor padrão de vencimento do Município" (art. 4º da Lei Municipal n. 2.680/03), não se podendo admitir a aplicação analógico-integrativa da legislação federal (art. 4º, da Lei de Introdução ao Código Civil), visto que não há omissão legal no caso.
+Assim, verifica-se que o Tribunal de origem decidiu a controvérsia à luz de fundamentos constitucional e lei local, matéria insuscetível de ser examinada pela via do PUIL.
+Nesse sentido:
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. IMPOSSIBILIDADE DE SUA UTILIZAÇÃO PARA DISCUTIR ACÓRDÃO DE TURMA RECURSAL COM FUNDAMENTO CONSTITUCIONAL.
+1. Para compor a lide, a Sexta Turma Recursal do Juizado Especial do Estado da Bahia examinou a compatibilidade do art. 6º, XIV, da Lei 7.713/1988 com a Constituição Federal.
+2. A hipótese, portanto, não se relaciona com a existência de divergência entre diferentes tribunais, a respeito da interpretação, em si, de dispositivo de lei federal. O ente público pretende, na realidade, afastar o fundamento constitucional utilizado para definir a interpretação do art. 6º, XIV, da Lei 7.713/1988.
+3. A Lei 12.153/2009 não atribui ao Pedido de Uniformização de Interpretação de Lei (PUIL) natureza de sucedâneo do recurso adequado para impugnar o fundamento constitucional da decisão das Turmas Recursais.
+4. Agravo Interno não provido.
+(AgInt no PUIL n. 1.703/BA, relator Ministro Herman Benjamin, Primeira Seção, DJe de 8/3/2021.)
+Assim, pelas razões supra, não se revela cabível o manejo deste procedimento afeto aos juizad os especiais.
+ANTE O EXPOSTO, e com fundamento no art. 34, XVIII, a, do RISTJ, não conheço do presente pedido de uniformização de interpretação de lei federal.
+Publique-se.
+EMENTA
