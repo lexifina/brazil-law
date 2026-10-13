@@ -1,0 +1,80 @@
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DÍVIDA DE NATUREZA NÃO ALIMENTAR. PENHORA DE PERCENTUAL DE VERBA REMUNERATÓRIA (10%). ALEGAÇÃO DE IMPENHORABILIDADE. ART. 833, IV, DO CPC. FLEXIBILIZAÇÃO EXCEPCIONAL DA REGRA. NECESSIDADE DE PRESERVAÇÃO DO MÍNIMO EXISTENCIAL. REMUNERAÇÃO LÍQUIDA INFERIOR AO PARÂMETRO DE SUBSISTÊNCIA ADOTADO (DIEESE). CONSTRIÇÃO QUE COMPROMETE A SUBSISTÊNCIA DIGNA DO DEVEDOR E DE SUA FAMÍLIA. ALEGAÇÃO DE NULIDADE DE CITAÇÃO. MATÉRIA ESTRANHA À DECISÃO AGRAVADA E JÁ DECIDIDA EM RECURSO ANTERIOR. NÃO CONHECIMENTO NO PONTO. RECURSO PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA,
+PROVIDO.
+I. CASO EM EXAME
+
+1. O juízo de origem reduziu de 15% (quinze por cento) para 10% (dez por cento) o percentual de penhora incidente sobre a remuneração líquida mensal do executado.
+2. A parte executada interpôs recurso de agravo de instrumento, sustentando a impenhorabilidade integral de sua verba salarial.
+II. QUESTÕES EM DISCUSSÃO
+
+3. A controvérsia consiste em verificar (i) se é admissível a penhora de percentual da remuneração do executado e (ii) se comporta conhecimento a alegação de nulidade de citação.
+III. RAZÕES DE DECIDIR
+
+4. A alegação de nulidade de citação não comporta conhecimento, por constituir matéria estranha ao objeto da decisão agravada — restrita ao percentual da constrição — e já apreciada em recurso anterior.
+5. Em que pese a possibilidade de mitigação da regra do art. 833, IV, do CPC, o Superior Tribunal de Justiça estabeleceu que a impenhorabilidade demanda análise caso a caso, não podendo ser aplicada como regra geral, e sim como exceção, devendo ser preservado percentual capaz de dar guarida à dignidade do devedor e de sua família.
+6. A remuneração líquida percebida pelo executado, de aproximadamente R$ 2.047,25 mensais, é inferior ao parâmetro adotado como referência de subsistência digna (DIEESE), de modo que a penhora, em qualquer percentual, comprometerá o mínimo existencial do devedor e de sua família.
+IV. DISPOSITIVO
+7. Recurso parcialmente conhecido e, na parte conhecida, integralmente provido.
+
+Dispositivos relevantes citados:
+
+- Código de Processo Civil, art. 833, inc. IV.
+Jurisprudência relevante citada:
+
+- EREsp n. 1.582.475/MG, relator Ministro Benedito Gonçalves, Corte Especial, julgado em 3/10/2018, REPDJe de 19/03/2019, DJe de 16/10/2018.
+
+1 – EXPOSIÇÃO FÁTICA:
+Trata-se de Agravo de Instrumento (NPU 0110913-23.2026.8.16.0000) voltado a impugnar a decisão de mov. 221.1, proferida nos autos de Cumprimento de Sentença NPU 0000747-74.2021.8.16.0136, promovido por ANDREI LUIZ STEFAN contra DIOGO MORAES DE OLIVEIRA, pela qual foi reduzido de 15% (quinze por cento) para 10% (dez por cento) o percentual de penhora incidente sobre a remuneração líquida mensal do executado.
+O agravante DIOGO MORAES DE OLIVEIRA sustentou (mov. 1.1), em síntese, que: é trabalhador assalariado, exercendo a função de motorista, com remuneração líquida mensal de aproximadamente R$ 2.040,00, tratando-se de sua única fonte de renda e subsistência; possui filho menor, para cujo sustento contribui mensalmente; a decisão agravada não considerou adequadamente sua realidade econômica, já comprometida com despesas básicas e indispensáveis; a dívida executada possui natureza não alimentar; e que a constrição, ainda que em percentual aparentemente reduzido, atinge diretamente o mínimo existencial. Sustentou, ainda, subsidiariamente, a nulidade da citação na demanda executiva. Ao final, requereu a concessão da tutela recursal e o provimento do recurso para reconhecer a impenhorabilidade de sua remuneração, nos termos do art. 833, IV, do CPC.
+Em decisão inicial (mov. 12.1), foi deferida a liminar pleiteada, para o fim de determinar a suspensão da penhora sobre a remuneração do agravante e o desbloqueio dos valores eventualmente constritos na conta bancária na qual percebe seus vencimentos.
+A parte agravada apresentou contrarrazões (mov. 17.1), sustentando, em suma, a ausência de comprovação das despesas e da contribuição alegadas, a inaplicabilidade da impenhorabilidade e a necessidade de manutenção integral da decisão recorrida.
+É o relatório.
+
+2 – FUNDAMENTAÇÃO E VOTO:
+De início, mantenho o benefício da assistência judiciária gratuita deferido em favor do agravante para fins de processamento e no âmbito deste recurso.
+No tocante à alegação de nulidade de citação, verifica-se que a matéria é estranha ao objeto da decisão agravada, a qual se restringe à definição do percentual da penhora incidente sobre a remuneração do executado. Ademais, conforme noticiado nos autos, referida questão já foi apreciada em recurso anterior. Desse modo, inviável o exame do ponto neste recurso, razão pela qual não conheço do recurso quanto à alegação de nulidade de citação.
+No mais, presentes os requisitos de admissibilidade, conheço do recurso.
+No mérito, permanecem hígidos os fundamentos expostos na decisão que deferiu a medida liminar.
+O Código de Processo Civil expressamente indica a remuneração como verba impenhorável:
+Art. 833. São impenhoráveis:
+(...)
+IV - os vencimentos, os subsídios, os soldos, os salários, as remunerações, os proventos de aposentadoria, as pensões, os pecúlios e os montepios, bem como as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal, ressalvado o § 2º;
+Com isso, as impenhorabilidades são erigidas como uma densificação infraconstitucional da dignidade da pessoa humana (MARINONI, Luiz Guilherme. Código de Processo Civil Comentado [livro eletrônico]. São Paulo: Revista dos Tribunais, 2018).
+Por isso, a jurisprudência do Superior Tribunal de Justiça firmou posicionamento no sentido de admitir a flexibilização desta regra somente em casos excepcionais, desde que resguardado o mínimo existencial do devedor, salvaguardando a sua dignidade e a dos seus dependentes.
+Ou seja, em que pese a possibilidade de mitigação da regra, o Superior Tribunal de Justiça estabeleceu que a impenhorabilidade demanda a análise caso a caso, não podendo ser aplicada como regra geral, e sim como uma exceção, devendo ser preservado percentual capaz de dar guarida à dignidade do devedor e de sua família.
+Nesse sentido (grifou-se):
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE DE VENCIMENTOS. CPC/73, ART. 649, IV. DÍVIDA NÃO ALIMENTAR. CPC/73, ART. 649, PARÁGRAFO 2º. EXCEÇÃO IMPLÍCITA À REGRA DE IMPENHORABILIDADE. PENHORABILIDADE DE PERCENTUAL DOS VENCIMENTOS. BOA-FÉ. MÍNIMO EXISTENCIAL. DIGNIDADE DO DEVEDOR E DE SUA FAMÍLIA. 1. Hipótese em que se questiona se a regra geral de impenhorabilidade dos vencimentos do devedor está sujeita apenas à exceção explícita prevista no parágrafo 2º do art. 649, IV, do CPC/73 ou se, para além desta exceção explícita, é possível a formulação de exceção não prevista expressamente em lei. 2. Caso em que o executado aufere renda mensal no valor de R$ 33.153,04, havendo sido deferida a penhora de 30% da quantia. 3. A interpretação dos preceitos legais deve ser feita a partir da Constituição da República, que veda a supressão injustificada de qualquer direito fundamental. A impenhorabilidade de salários, vencimentos, proventos etc. tem por fundamento a proteção à dignidade do devedor, com a manutenção do mínimo existencial e de um padrão de vida digno em favor de si e de seus dependentes. Por outro lado, o credor tem direito ao recebimento de tutela jurisdicional capaz de dar efetividade, na medida do possível e do proporcional, a seus direitos materiais. 4. O processo civil em geral, nele incluída a execução civil, é orientado pela boa-fé que deve reger o comportamento dos sujeitos processuais. Embora o executado tenha o direito de não sofrer atos executivos que importem violação à sua dignidade e à de sua família, não lhe é dado abusar dessa diretriz com o fim de impedir injustificadamente a efetivação do direito material do exequente. 5. Só se revela necessária, adequada, proporcional e justificada a impenhorabilidade daquela parte do patrimônio do devedor que seja efetivamente necessária à manutenção de sua dignidade e da de seus dependentes. 6. A regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art. 649, IV, do CPC/73; art. 833, IV, do CPC/2015), pode ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família. 7. Recurso não provido. (EREsp n. 1.582.475/MG, relator Ministro Benedito Gonçalves, Corte Especial, julgado em 3/10/2018, REPDJe de 19/03/2019, DJe de 16/10/2018.)
+Embora inexista parâmetro objetivo para aferir qual seria o valor percebido a título de remuneração
+passível de penhora sem prejuízo do sustento do devedor e de sua família, ou seja, para analisar qual seria o valor necessário para a subsistência mínima de uma família (mínimo existencial), reputo como razoável aquele sugerido pelo DIEESE (Departamento Intersindical de Estatística e Estudos Socioeconômicos)[1] como salário necessário para uma existência digna, tratando-se esse de um parâmetro objetivo para definição da penhorabilidade ou não do salário.
+No caso, levando em consideração o período em que foi requerida a penhora salarial (setembro/2025 e novembro/2025) e protocolada a ordem judicial de bloqueio pelo juízo
+
+a quo
+
+(mov. 185.1), o valor necessário para a subsistência mínima de uma família seria de R$ 7.075,83 e R$ 7.067,18.
+Contudo, a remuneração percebida pela parte executada/agravante (frise-se, ao menos até agora demonstrada nos autos [mov. 213.2], qual seja, aproximadamente R$ 2.047,25 mensal líquido) é substancialmente inferior àquela indicada como ideal para a subsistência do brasileiro.
+Desse modo, levando em consideração que os valores que a parte executada recebe a título de salário mostram-se modestos, tem-se que a penhora sobre o percentual da remuneração comprometerá a sua subsistência e de sua família.
+Vale repisar que, como a penhora de percentual de salário é exceção e não regra, não há que se cogitar de imposição do ônus à parte executada em demonstrar a imprescindibilidade da verba, especialmente porque foi a intenção do legislador, como já dito, a proteção à remuneração. Por isso, não subsiste o argumento de ausência de comprovação de despesas, porquanto a própria remuneração demonstrada nos autos já se revela aquém do parâmetro de subsistência digna.
+Os interesses do credor, embora, evidentemente, não devam ser ignorados, não podem implicar violação à garantia constitucional da dignidade da pessoa humana.
+Isso demonstra, portanto, ser inviável a penhora salarial deferida, porquanto o patamar da remuneração recebida pela parte fica aquém do estimado para sua sobrevivência digna.
+Sobre o tema (destacou-se):
+Tributário. Processual civil. Execução fiscal. Penhora sobre percentual do salário do executado. Impenhorabilidade. Art. 833, IV, CPC. Impossibilidade de relativização da norma processual, pois além de a parte executada não auferir vultuoso salário, o exequente não esgotou os meios executivos de praxe. Extrato bancário que comprova despesas domésticas, o que inclui gastos com alimentação e medicamentos. Valor excedente na conta corrente que constitui reserva patrimonial apta a assegurar o mínimo existencial do executado. Precedentes. Decisão reformada. Agravo de instrumento provido. (TJPR - 1ª Câmara Cível - 0074094-58.2024.8.16.0000 - Curitiba -
+ Rel.: DESEMBARGADOR SALVATORE ANTONIO ASTUTI -
+ J. 02.12.2024)
+
+AGRAVO DE INSTRUMENTO – EXECUÇÃO FISCAL – DECISÃO QUE ACOLHEU EM PARTE A EXCEÇÃO DE PRÉ-EXECUTIVIDADE. 1. Decisão que acolheu em parte a exceção de pré-executividade. 2. Executado que pretende a reforma da decisão. 3. Alegado cerceamento de defesa na esfera administrativa – Não ocorrência – Lançamento de taxa municipal que ocorre de ofício – Precedentes. 4. Alegada ausência de fato gerador pela ausência de atividade empresarial no período do lançamento – Não ocorrência – Ausência de prova quanto ao encerramento da atividade empresarial. 5. Nulidade dos atos após a citação por edital – Não ocorrência – Ausência de prejuízo a parte executada. 6. Penhora de percentual de verba salarial – Situação excepcional – Mitigação do art. 833, IV, do CPC – Precedentes do STJ e desta e. Corte de Justiça – Inaplicabilidade ao presente caso, devido às suas peculiaridades – Penhora sobre percentual do salário da Agravada que comprometerá a sua subsistência e de sua família – Observância da Teoria do Mínimo Existencial. 7. Decisão parcialmente reformada. RECURSO PARCIALMENTE PROVIDO. (TJPR - 3ª Câmara Cível - 0068103-04.2024.8.16.0000 - Ponta Grossa -
+ Rel.: DESEMBARGADOR OCTAVIO CAMPOS FISCHER -
+ J. 11.11.2024)
+
+AGRAVO DE INSTRUMENTO – AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO CUMULADA COM COBRANÇA EM FASE DE CUMPRIMENTO DE SENTENÇA – DECISÃO AGRAVADA QUE DEFERIU A PENHORA DE 30% DOS PROVENTOS FINANCEIROS DO AGRAVANTE – AGRAVANTE QUE NÃO FOI INTIMADO DA DECISÃO QUE ENTENDEU PELA DESNECESSIDADE DE INTIMAÇÃO PESSOAL OU POR EDITAL DO DEVEDOR REPRESENTADO PELA DEFENSORIA PÚBLICA PARA INÍCIO DO CUMPRIMENTO DE SENTENÇA - PLEITO DE REFORMA DA DECISÃO AGRAVADA E RECONHECIMENTO DA NULIDADE POR CERCEAMENTO DE DEFESA – DEVEDOR QUE DEVE SER INTIMADO POR EDITAL PARA INÍCIO DO CUMPRIMENTO DE SENTENÇA AINDA QUE REPRESENTADO PELA DEFENSORIA PÚBLICA – PRECEDENTES DO TRIBUNAL DE JUSTIÇA – NULIDADE CONFIGURADA – DEVEDOR QUE RECEBE SALÁRIO INFERIOR A TRÊS SALÁRIOS-MÍNIMOS – VERBAS INFERIORES AO CÁLCULO DO DIEESE – PRESERVAÇÃO DO MÍNIMO EXISTENCIAL DA PESSOA DO DEVEDOR - DECISÃO AGRAVADA REFORMADA PARA DETERMINAR A INTIMAÇÃO DO DEVEDOR PARA O CUMPRIMENTO DE SENTENÇA E PARA DETERMINAR O DESBLOQUEIO DOS VALORES CONSTRITOS E A SUSPENSÃO DA PENHORA AO LOGO DOS MESES – DECISÃO AGRAVADA REFORMADA - RECURSO CONHECIDO E PROVIDO. (TJPR - 17ª Câmara Cível - 0030408-16.2024.8.16.0000 - Curitiba -
+ Rel.: DESEMBARGADOR FRANCISCO CARDOZO OLIVEIRA -
+ J. 21.10.2024)
+
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. PENHORA. BLOQUEIO DE SALDO BANCÁRIO ATÉ QUARENTA SALÁRIOS MÍNIMOS. ÚNICA RESERVA MONETÁRIA EM NOME DA PARTE EXECUTADA. ADEQUADA DEMONSTRAÇÃO. IMPENHORABILIDADE. CPC, ART. 833, X. PRECEDENTES DO STJ E DO TJPR. SALÁRIO. AUSÊNCIA DE SOBRA PARA A SUBSISTÊNCIA DA FAMÍLIA. IMPENHORABILIDADE. CPC, ART. 833, IV. PRECEDENTES DO STJ. RECURSO PROVIDO. (TJPR - 2ª Câmara Cível - 0029460-74.2024.8.16.0000 - Ponta Grossa -
+ Rel.: DESEMBARGADOR ANTONIO RENATO STRAPASSON -
+ J. 07.10.2024)
+
+AGRAVO DE INSTRUMENTO. Busca e apreensão convertida em EXECUÇÃO de título extrajudicial. Decisão agravada que indeferiu o pedido de penhora do salário da executada. MITIGAÇÃO DA IMPENHORABILIDADE DA VERBA DE NATUREZA SALARIAL. IMPOSSIBILIDADE. Art. 833, §2º do CPC inaplicável ao caso. Executada que percebe, aproximadamente, três salários mínimos por mês. Ausência de comprovação pelo credor de que a penhora não acarretará em prejuízo ao mínimo existencial. Precedente do Superior Tribunal de Justiça. Recurso conhecido e desprovido. (TJPR - 2ª Câmara Cível - 0070511-36.2022.8.16.0000 - São Miguel do Iguaçu -
+ Rel.: SUBSTITUTO CARLOS MAURICIO FERREIRA -
+ J. 14.02.2024)
+Acrescente-se que a dívida objeto do cumprimento de sentença possui natureza não alimentar, circunstância que reforça a excepcionalidade da relativização e, no caso concreto, sua inadmissibilidade, diante do comprometimento do mínimo existencial.
+Em suma, embora a jurisprudência reconheça a possibilidade de mitigação da regra de impenhorabilidade prevista no art. 833, IV, do Código de Processo Civil, a penhora de 10% (dez por cento) da remuneração recebida pela parte agravante (ou em qualquer outro percentual), no caso, irá comprometer a sua subsistência e de sua família, com violação à dignidade do devedor e de sua família.
+Diante do exposto, voto no sentido de conhecer parcialmente do recurso e, na parte conhecida, dar-lhe provimento, para reconhecer a impenhorabilidade da remuneração do agravante e determinar o levantamento da penhora incidente sobre a verba salarial.
