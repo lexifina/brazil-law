@@ -1,0 +1,27 @@
+Ementa:
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. CONTRADIÇÃO INTERNA. ERRO MATERIAL. RECURSO CONHECIDO E PROVIDO.I. CASO EM EXAME1. Embargos de declaração opostos contra acórdão que negou provimento ao agravo de instrumento e reconheceu a prejudicialidade do agravo interno interposto contra a decisão liminar, em razão da perda superveniente de seu objeto.II. QUESTÃO EM DISCUSSÃO2. A questão em discussão consiste em saber se há contradição interna e erro material no dispositivo do acórdão embargado quanto ao alcance da prejudicialidade reconhecida.III. RAZÕES DE DECIDIR3. Os embargos de declaração são cabíveis para sanar contradição, omissão, obscuridade ou corrigir erro material, nos termos do art. 1.022 do CPC.4. A fundamentação e a conclusão do voto consignaram o conhecimento e o desprovimento do agravo de instrumento, bem como a prejudicialidade apenas do agravo interno.5. A proclamação do resultado registrou, por equívoco material, a expressão “recurso prejudicado”, sem distinguir o agravo interno do agravo de instrumento.6. A correção do vício formal não altera a fundamentação nem o resultado efetivamente alcançado pelo Colegiado, limitando-se a adequar o dispositivo ao julgamento realizado.IV. DISPOSITIVO E TESE:7. Recurso conhecido e provido.Tese de julgamento:
+Verificada contradição interna ou erro material no dispositivo do acórdão, os embargos de declaração devem ser acolhidos para adequar a proclamação do resultado à fundamentação e à conclusão efetivamente adotadas, sem alteração do mérito do julgamento._________Dispositivos relevantes citados: CPC/2015, art. 1.022.Jurisprudência relevante citada: não há jurisprudência citada.Resumo em linguagem acessível:
+Os embargos foram aceitos porque o acórdão decidiu o mérito do agravo de instrumento, mas o
+resultado
+ficou escrito de forma imprecisa. A correção serve apenas para deixar claro que o agravo de instrumento foi desprovido e que somente o agravo interno ficou prejudicado.
+
+RELATÓRIOTrata-se de embargos de declaração opostos por Carlos Miguel Flores Siqueira em face do v. acórdão de mov. 27.1, proferido no julgamento do Agravo de Instrumento autuado sob o nº 0043898-37.2026.8.16.0000, por meio do qual foi negado provimento ao recurso interposto por Petróleo Brasileiro S.A. Petrobras, mantendo-se a decisão que rejeitou a preliminar de ilegitimidade passiva da patrocinadora e reconheceu o dever das rés de prestarem contas, na forma determinada pelo Juízo de origem.
+Na ocasião, o Colegiado reconheceu, ainda, a prejudicialidade do agravo interno interposto contra a decisão que indeferiu o pedido de efeito suspensivo, em razão da perda superveniente de seu objeto.Defende a parte
+embargante, em síntese, a existência de contradição e erro material no acórdão embargado, ao argumento de que o dispositivo final não teria identificado corretamente o alcance da prejudicialidade reconhecida.
+Segundo sustenta, a prejudicialidade teria atingido apenas o agravo interno, ao passo que o agravo de instrumento foi efetivamente apreciado em seu mérito e desprovido.O
+embargado
+apresentou
+contrarrazões
+manifestando-se pelo desprovimento do recurso
+(mov. 10.1).Vieram-me conclusos.É o relatório.
+
+VOTO
+DO CONHECIMENTO DO RECURSOEntendo que o recurso merece ser conhecido,
+eis que presentes os pressupostos extrínsecos e intrínsecos de admissibilidade.
+DO MÉRITOCinge-se a controvérsia recursal em verificar a existência de contradição e erro material no acórdão embargado, em razão de alegada incompatibilidade entre a fundamentação e o dispositivo do julgado.Assiste razão ao embargante.Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração são cabíveis para sanar obscuridade, contradição, omissão ou corrigir erro material existente na decisão judicial.No caso, verifica-se a existência de contradição interna e erro material no acórdão embargado.Com efeito, a ementa, a fundamentação e a conclusão do voto consignaram expressamente o conhecimento e o desprovimento do agravo de instrumento interposto por Petróleo Brasileiro S.A. Petrobras, mantendo-se integralmente a decisão recorrida. Ainda, restou consignado que apenas o agravo interno interposto contra a decisão liminar encontrava-se prejudicado, em razão da perda superveniente de seu objeto decorrente do julgamento do mérito recursal.Todavia, por evidente equívoco material, a proclamação do resultado passou a registrar o julgamento de "recurso prejudicado", sem distinguir o agravo interno do agravo de instrumento, gerando incompatibilidade com o restante do julgado.Trata-se de vício meramente formal, cuja correção não implica qualquer alteração da fundamentação ou do resultado efetivamente alcançado pelo Colegiado, destinando-se apenas a adequar o dispositivo àquilo que foi decidido no julgamento.Assim, impõe-se o acolhimento dos embargos de declaração para corrigir o erro material e sanar a contradição apontada.Ante o exposto, voto pelo
+conhecimento
+e
+provimento
+dos embargos de declaração
+opostos por
+Carlos Miguel Flores Siqueira, para corrigir erro material e sanar a contradição constante do dispositivo do acórdão de mov. 27.1, fazendo constar que o Agravo de Instrumento nº 0043898-37.2026.8.16.0000 foi conhecido e desprovido, restando prejudicado apenas o Agravo Interno nº 0062407-16.2026.8.16.0000, interposto contra a decisão liminar, mantidos os demais termos do julgado.
