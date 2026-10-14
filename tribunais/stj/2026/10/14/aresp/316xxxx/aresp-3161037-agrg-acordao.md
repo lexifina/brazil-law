@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. REMIÇÃO DE PENA POR ESTUDO. APROVAÇÃO INTEGRAL NO ENCCEJA. ALEGAÇÃO DE DUPLICIDADE DE BENEFÍCIOS E BIS IN IDEM. TESE DE ABATIMENTO DE DIAS ANTERIORMENTE REMIDOS POR FREQUÊNCIA ESCOLAR. MATÉRIA NÃO DEVOLVIDA NO AGRAVO EM EXECUÇÃO ORIGINÁRIO. INOVAÇÃO RECURSAL RECONHECIDA PELO TRIBUNAL DE ORIGEM. OFENSA AO ART. 619 DO CPP NÃO CONFIGURADA. AUSÊNCIA DE PREQUESTIONAMENTO QUANTO AO MÉRITO. INCIDÊNCIA DA SÚMULA N. 211 DO STJ. DECISÃO MONOCRÁTICA MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se verifica violação ao art. 619 do Código de Processo Penal quando o Tribunal de origem aprecia fundamentadamente as questões devolvidas à sua cognição no agravo em execução, recusando-se motivadamente a analisar tese inédita referente ao abatimento de dias remidos suscitada apenas em sede de embargos de declaração.
+2. A inovação de fundamentos em embargos de declaração caracteriza preclusão consumativa, obstando o prequestionamento explícito do mérito recursal e atraindo a incidência do óbice da Súmula n. 211 do Superior Tribunal de Justiça.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO DO SUL contra decisão monocrática que conheceu do agravo para não conhecer do recurso especial interposto.
+O agravante alega que o abatimento dos 12 dias de remição anteriormente concedidos não configura inovação recursal, mas sim decorrência lógica e inafastável da impugnação à concessão integral da remição pelo ENCCEJA. Sustenta que a manutenção do acórdão estadual cria título judicial vinculante que impede o juízo da execução penal de realizar a compensação, gerando duplicidade de benefícios em relação ao mesmo nível de ensino, o que impõe a reforma da decisão monocrática para prover o apelo nobre ou determinar o retorno dos autos à Corte de origem.
+Requer o conhecimento e o provimento do agravo regimental para afastar os óbices de admissibilidade aplicados e reconhecer a violação ao artigo 619 do CPP, com o processamento do recurso especial e o consequente abatimento dos 12 dias anteriormente remidos ou, subsidiariamente, com a determinação de retorno dos autos ao Tribunal de origem para que aprecie expressamente a matéria.
+A parte agravada, em contraminuta, sustenta que a decisão não merece reforma e requer seja negado seguimento ao presente agravo regimental para manter o não provimento do recurso especial interposto.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. REMIÇÃO DE PENA POR ESTUDO. APROVAÇÃO INTEGRAL NO ENCCEJA. ALEGAÇÃO DE DUPLICIDADE DE BENEFÍCIOS E BIS IN IDEM. TESE DE ABATIMENTO DE DIAS ANTERIORMENTE REMIDOS POR FREQUÊNCIA ESCOLAR. MATÉRIA NÃO DEVOLVIDA NO AGRAVO EM EXECUÇÃO ORIGINÁRIO. INOVAÇÃO RECURSAL RECONHECIDA PELO TRIBUNAL DE ORIGEM. OFENSA AO ART. 619 DO CPP NÃO CONFIGURADA. AUSÊNCIA DE PREQUESTIONAMENTO QUANTO AO MÉRITO. INCIDÊNCIA DA SÚMULA N. 211 DO STJ. DECISÃO MONOCRÁTICA MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se verifica violação ao art. 619 do Código de Processo Penal quando o Tribunal de origem aprecia fundamentadamente as questões devolvidas à sua cognição no agravo em execução, recusando-se motivadamente a analisar tese inédita referente ao abatimento de dias remidos suscitada apenas em sede de embargos de declaração.
+2. A inovação de fundamentos em embargos de declaração caracteriza preclusão consumativa, obstando o prequestionamento explícito do mérito recursal e atraindo a incidência do óbice da Súmula n. 211 do Superior Tribunal de Justiça.
+3. Agravo regimental desprovido.
+VOTO
+O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a decisão combatida por seus próprios e jurídicos fundamentos.
+Nessa linha, não obstante o teor das razões suscitadas no presente agravo, não vislumbro elementos hábeis a alterar a decisão agravada, porquanto todos os pontos apresentados pela parte foram analisados de forma devidamente fundamentada, em estrita conformidade com a jurisprudência pacífica desta Corte.
+Consoante se extrai da análise dos autos, o agravo de execução penal manejado pelo órgão acusatório perante o Tribunal de Justiça do Estado de Mato Grosso do Sul impugnou pontualmente o deferimento de 177 dias de remição, alegando a impossibilidade de concessão do benefício aos apenados matriculados em ensino regular presencial, postulando o arbitramento de apenas 10 dias de remição. Em momento algum a peça recursal de origem versou sobre a existência de remição anterior de 12 dias pela participação no CEJA ou postulou eventual abatimento ou encontro de contas caso mantida a decisão do juízo de primeiro grau.
+O artigo 619 do Código de Processo Penal é taxativo ao delimitar as hipóteses de cabimento dos embargos de declaração. A Corte de origem ao apreciar os embargos de declaração, consignou expressamente que o ponto concernente ao alegado bis in idem e ao decote de 12 dias não integrou a devolução recursal promovida pelo agravo em execução penal, caracterizando inequívoca inovação argumentativa em sede integrativa.
+O Superior Tribunal de Justiça firmou orientação no sentido de que não há omissão quando a matéria trazida nos aclaratórios não foi submetida à cognição da Corte regional no momento oportuno. Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ARTIGO 619 DO CÓDIGO DE PROCESSO PENAL - CPP. INEXISTENTE. INOVAÇÃO RECURSAL RECHAÇADA PELO TRIBUNAL DE ORIGEM. PRECLUSÃO. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não há omissão por parte do Tribunal a quo, apenas a caracterização de inovação recursal, rechaçada pela instância ordinária e vedada pelo óbice da preclusão.
+2. O "órgão julgador não é obrigado a rebater, um a um, todos os argumentos apresentados pelas partes em defesa da tese que sustentam, devendo apenas enfrentar as questões relevantes e imprescindíveis à resolução da demanda" (AgRg no REsp 1.463.883/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, DJe 20/8/2021; sem grifos no original).
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.828.102/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 7/12/2021, DJe de 10/12/2021.)
+Em razão do óbice estritamente processual reconhecido pela Corte estadual (inovação recursal e preclusão), o mérito atinente à necessidade de abatimento de dias remidos para evitar a duplicidade de benefícios não foi examinado pelo Tribunal estadual.
+Assim, fica obstado o conhecimento do recurso especial em razão do não preenchimento do requisito constitucional do prequestionamento, nos termos da Súmula 211 do Superior Tribunal de Justiça.
+Dessa forma, a decisão monocrática agravada não comporta qualquer reparo, devendo ser mantida em sua integralidade.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
