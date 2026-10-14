@@ -1,0 +1,86 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, acolher parcialmente os embargos, sem efeitos infringentes, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. DOSIMETRIA. REGIME INICIAL. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. REINCIDÊNCIA. BIS IN IDEM. INEXISTÊNCIA. OMISSÃO PARCIALMENTE SANADA. AUSÊNCIA DE EFEITOS INFRINGENTES. EMBARGOS PARCIALMENTE ACOLHIDOS.
+I. CASO EM EXAME
+1. Embargos de declaração opostos contra acórdão proferido em agravo regimental no habeas corpus, no qual o embargante sustenta que a alegação de bis in idem não constitui inovação recursal e aponta omissão quanto ao pedido de substituição da pena privativa de liberdade por restritivas de direitos, à incidência da Súmula 440 do STJ e à fixação do regime aberto. Requer pronunciamento expresso sobre as matérias e dispositivos indicados para fins de prequestionamento, correção de erro material na ementa e atribuição de efeitos infringentes para substituição das penas ou, subsidiariamente, fixação de regime aberto.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) definir se houve omissão ou incorreção no acórdão quanto à alegação de bis in idem decorrente da utilização da reincidência na dosimetria e na fixação do regime inicial; (ii) estabelecer se o acórdão incorreu em omissão quanto à substituição da pena privativa de liberdade, à Súmula 440 do STJ, ao AREsp n. 1.716.554/SP e à fixação do regime aberto; e (iii) determinar se os vícios alegados autorizam a atribuição de efeitos infringentes aos embargos de declaração.
+III. RAZÕES DE DECIDIR
+3. Os embargos de declaração não se prestam à rediscussão da matéria de mérito nem à modificação do resultado do julgamento quando ausentes os vícios previstos no art. 619 do Código de Processo Penal.
+4. A utilização da reincidência na dosimetria e na fixação do regime inicial de cumprimento de pena decorre de imposição legal e não configura bis in idem, visto tratar-se de institutos distintos, com finalidades distintas, embora complementares.
+5. A reincidência constitui circunstância apta a justificar o agravamento do regime prisional e a desaconselhar a substituição da pena privativa de liberdade por restritivas de direitos.
+6. É inviável a apreciação de matéria constitucional por esta Corte Superior, ainda que para fins de prequestionamento, por se tratar de competência reservada ao Supremo Tribunal Federal.
+7. O órgão julgador não está obrigado a se pronunciar sobre todo e qualquer ponto suscitado pelas partes, mas apenas aqueles considerados suficientes para fundamentar sua decisão.
+IV. Embargos de declaração parcialmente acolhidos, sem efeitos infringentes.
+RELATÓRIO
+Tratam-se de embargos de declaração no agravo regimental no habeas corpus, opostos por DALVAN TOMAZELA.
+O embargante alega, de início, que a tese de bis in idem não constitui inovação recursal. Também sustenta que houve omissão quanto ao pedido de substituição de penas, requerendo que o exame seja feito nos termos do AREsp n. 1.716.664/SP, e quanto à incidência da Súmula 440 do STJ.
+Requer pronunciamento expresso quanto ao bis in idem, substituição de penas, AREsp n. 1716664/STP, Súmula 440 do STJ e regime aberto, dispositivos constitucionais e legais para fins de prequestionamento, correção de erro material na ementa, assim como a concessão de efeitos infringentes para a substituição das penas ou, subsidiariamente, a fixação de regime aberto.
+O Ministério Público Federal tomou ciência da decisão embargada (fl. 194) e assim opinou sobre os aclaratórios (fl. 200):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM HABEAS CORPUS. PENAL E PROCESSUAL PENAL. DESCUMPRIMENTO DE MEDIDA PROTETIVA DE URGÊNCIA (ART. 25 DA LEI Nº 14.344/2022). ACÓRDÃO QUE NEGOU PROVIMENTO AO AGRAVO REGIMENTAL. ALEGAÇÃO DE OMISSÃO QUANTO ÀS TESES DE MÉRITO (BIS IN IDEM, REGIME PRISIONAL E SUBSTITUIÇÃO DA PENA). INEXISTÊNCIA DE VÍCIOS NO JULGADO. NATUREZA INTEGRATIVA DOS ACLARATÓRIOS (ART. 619 DO CPP). PRETENSÃO DE REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. INADEQUAÇÃO DA VIA ELEITA. MANIFESTAÇÃO PELA REJEIÇÃO DOS EMBARGOS.
+1. Os embargos de declaração possuem natureza integrativa e destinam-se, exclusivamente, a sanar ambiguidade, obscuridade, contradição ou omissão na decisão judicial, nos termos do art. 619 do Código de Processo Penal.
+2. Inexiste omissão quando o acórdão embargado enfrenta as questões fundamentais da lide de forma clara e motivada, ainda que em sentido contrário aos interesses da parte.
+3. O inconformismo com o resultado do julgamento não autoriza a utilização dos aclaratórios para a rediscussão do mérito recursal, sendo os efeitos infringentes excepcionais e dependentes da demonstração de vício sanável, o que não ocorreu na espécie.
+Parecer pela rejeição dos embargos de declaração.
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. DOSIMETRIA. REGIME INICIAL. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. REINCIDÊNCIA. BIS IN IDEM. INEXISTÊNCIA. OMISSÃO PARCIALMENTE SANADA. AUSÊNCIA DE EFEITOS INFRINGENTES. EMBARGOS PARCIALMENTE ACOLHIDOS.
+I. CASO EM EXAME
+1. Embargos de declaração opostos contra acórdão proferido em agravo regimental no habeas corpus, no qual o embargante sustenta que a alegação de bis in idem não constitui inovação recursal e aponta omissão quanto ao pedido de substituição da pena privativa de liberdade por restritivas de direitos, à incidência da Súmula 440 do STJ e à fixação do regime aberto. Requer pronunciamento expresso sobre as matérias e dispositivos indicados para fins de prequestionamento, correção de erro material na ementa e atribuição de efeitos infringentes para substituição das penas ou, subsidiariamente, fixação de regime aberto.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) definir se houve omissão ou incorreção no acórdão quanto à alegação de bis in idem decorrente da utilização da reincidência na dosimetria e na fixação do regime inicial; (ii) estabelecer se o acórdão incorreu em omissão quanto à substituição da pena privativa de liberdade, à Súmula 440 do STJ, ao AREsp n. 1.716.554/SP e à fixação do regime aberto; e (iii) determinar se os vícios alegados autorizam a atribuição de efeitos infringentes aos embargos de declaração.
+III. RAZÕES DE DECIDIR
+3. Os embargos de declaração não se prestam à rediscussão da matéria de mérito nem à modificação do resultado do julgamento quando ausentes os vícios previstos no art. 619 do Código de Processo Penal.
+4. A utilização da reincidência na dosimetria e na fixação do regime inicial de cumprimento de pena decorre de imposição legal e não configura bis in idem, visto tratar-se de institutos distintos, com finalidades distintas, embora complementares.
+5. A reincidência constitui circunstância apta a justificar o agravamento do regime prisional e a desaconselhar a substituição da pena privativa de liberdade por restritivas de direitos.
+6. É inviável a apreciação de matéria constitucional por esta Corte Superior, ainda que para fins de prequestionamento, por se tratar de competência reservada ao Supremo Tribunal Federal.
+7. O órgão julgador não está obrigado a se pronunciar sobre todo e qualquer ponto suscitado pelas partes, mas apenas aqueles considerados suficientes para fundamentar sua decisão.
+IV. Embargos de declaração parcialmente acolhidos, sem efeitos infringentes.
+VOTO
+Nos termos do art. 619 do Código de Processo Penal, cabem embargos de declaração quando o julgado apresentar ambiguidade, obscuridade, contradição ou omissão, admitindo-se, ainda, seu manejo para correção de eventual erro material. Trata-se, portanto, de instrumento de natureza integrativa, de uso estrito, voltado a aperfeiçoar a decisão, sem reabertura da discussão meritória.
+Quanto à alegação de bis in idem, que o acórdão indevidamente tomou por inovação recursal, é necessário dar razão ao embargante. De fato, consta da inicial que "a reincidência genérica - que já incidiu como agravante na segunda fase da dosimetria - não pode servir de fundamento único e exclusivo para agravar o regime, sob pena de configurar verdadeiro bis in idem" (fl. 7).
+Sendo assim, esclareço à defesa que a dosimetria e a fixação do regime inicial de cumprimento de pena, embora complementares, são institutos diferentes, com finalidades distintas, previstas nos arts. 33, 59 e 68 do Código Penal. Portanto, a utilização concomitante da reincidência para balizar ambos os institutos não configura indevido duplo apenamento.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. LESÃO CORPORAL GRAVE. EMBRIAGUEZ AO VOLANTE. REGIME INICIAL DE CUMPRIMENTO DE PENA INFERIOR A QUATRO ANOS. REINCIDÊNCIA E CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. ALEGAÇÃO DE BIS IN IDEM. REGIME FECHADO MANTIDO. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão da Presidência do Superior Tribunal de Justiça que indeferiu liminarmente habeas corpus no qual se alegou constrangimento ilegal pela fixação de regime inicial fechado para pena inferior a quatro anos, imposta em condenação pelos delitos previstos no art. 129, § 1º, II, do Código Penal, e no art. 306 do Código de Trânsito Brasileiro, sob o argumento de ausência de fundamentação concreta e de violação ao art. 33 do Código Penal e aos princípios da proporcionalidade e da individualização da pena.
+II. Questão em discussão
+2. A questão a ser analisada é se a decisão monocrática agiu corretamente ao manter o regime inicial fechado imposto a réu reincidente, considerando a presença de circunstâncias judiciais desfavoráveis.
+III. Razões de decidir
+3. A estipulação do regime inicial fechado para o cumprimento da pena decorreu de motivação idônea, consubstanciada na valoração negativa das circunstâncias judiciais e na reincidência do agravante.
+4. Nos termos do § 3º do art. 33 do Código Penal, os critérios utilizados para a fixação da pena-base devem igualmente orientar a escolha do regime inicial de cumprimento de pena, de forma que a análise da reincidência em ambas as etapas decorre de imposição normativa e não configura indevida dupla punição pelo mesmo fato.
+5. O entendimento jurisprudencial que admite a fixação de regime semiaberto a reincidentes condenados a pena igual ou inferior a quatro anos exige, como condição, que todas as circunstâncias judiciais lhe sejam favoráveis, requisito não atendido no caso concreto, em que houve desvalor atribuído às consequências do crime.
+IV. Dispositivo
+6. Resultado de Julgamento: Agravo Regimental não provido.
+(AgRg no HC n. 1.075.417/SP, relator Ministro Carlos Pí res Brandão, Sexta Turma, julgado em 29/4/2026, DJEN de 5/5/2026; grifos acrescidos).
+No restante, o acórdão impugnado assim dispôs (grifos acrescidos):
+Não obstante o teor das razões suscitadas no presente agravo, não vislumbro elementos hábeis a alterar a decisão agravada, porquanto todos os pontos apresentados pela parte foram analisados de forma devidamente fundamentada, em estrita conformidade com a jurisprudência pacífica desta Corte.
+É pacífica a jurisprudência desta Corte Superior no sentido de que a reincidência, específica ou não, permite o agravamento do regime, assim como desaconselha a substituição da pena privativa de liberdade por penas restritivas de direitos, conforme farta jurisprudência colacionada na decisão combatida.
+No caso em exame, não se identifica a presença de quaisquer dos vícios elencados no referido dispositivo legal.
+A decisão embargada expôs, de forma clara e suficiente, os fundamentos que justificaram o desprovimento do agravo regimental, consignando expressamente que qualquer tipo de reincidência, genérica ou específica, é circunstância válida tanto para agravar o regime prisional como para impedir a substituição de penas, consoante prudente arbítrio do juiz natural. O requerimento para que se discorra sobre a Súmula n. 440 do STJ ou sobre o AREsp n. 1.716.554/SP configura mero inconformismo e em nada modificaria a conclusão inicial, já que a decisão está amparada em elemento concreto e objetivo: a condenação anterior por lesão corporal (ação penal n. 1500457-84.2018.8.26.0629 - fl. 16 da sentença).
+A obrigatoriedade de fundamentação das decisões judiciais não impõe ao magistrado a obrigação de responder a todos os questionamentos das partes, tampouco de utilizar-se dos fundamentos que elas entendem serem os mais adequados para solucionar a causa posta em apreciação, bastando a presença de fundamentação suficiente ao deslinde da controvérsia.
+Nesse sentido, mutatis mutandis:
+DIREITO PROCESSUAL CIVIL E DO CONSUMIDOR. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO. DESCONTOS INDEVIDOS EM BENEFÍCIO PREVIDENCIÁRIO. SEGURO DE VIDA EM GRUPO. RESPONSABILIDADE SOLIDÁRIA DA SEGURADORA. ALEGAÇÕES DE OMISSÃO QUANTO À RESCISÃO CONTRATUAL, AO COTEJO ANALÍTICO DO DISSÍDIO JURISPRUDENCIAL E À JURISPRUDÊNCIA DO TRIBUNAL DE ORIGEM. QUESTÕES EFETIVAMENTE ENFRENTADAS PELO ACÓRDÃO EMBARGADO. AUSÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Não configura omissão sanável por embargos de declaração a ausência de pronunciamento expresso sobre argumento que não corresponde a ponto ou questão determinante para a solução da controvérsia. O órgão julgador não está obrigado a refutar individualmente cada alegação deduzida pelas partes, bastando que decida a causa de forma motivada e coerente.
+2. Verificado que o acórdão embargado enfrentou expressamente as três questões suscitadas, a rescisão contratual anterior aos últimos descontos, a suficiência do cotejo analítico do dissídio e a jurisprudência do tribunal de origem, não há vício a suprir.
+3. Embargos de declaração rejeitados.
+(EDcl no REsp n. 2.198.382/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 31/8/2026, DJEN de 3/9/2026; grifos acrescidos)
+Observo, portanto, que o embargante pretende apenas a rediscussão da matéria, visando alterar a conclusão que lhe resultou desfavorável, o que é incabível na via eleita. Os embargos de declaração servem ao saneamento do julgado eivado de um dos vícios previstos no art. 619 do CPP e não à revisão de decisão de mérito. A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. OMISSÃO. VÍCIO NÃO CONSTATADO. TENTATIVA DE REDISCUSSÃO DE MATÉRIA JÁ JULGADA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Portanto, a mera irresignação com o entendimento apresentado na decisão, visando, assim, a reversão do julgado, não tem o condão de viabilizar a oposição dos aclaratórios.
+2. Neste caso, não se constatam os vícios alegados pelo embargante. Ao que se tem, a intenção destes aclaratórios é a de rediscutir a matéria já julgada, já que o provimento judicial contrariou os interesses do embargante. Esse, porém, não é o propósito dos aclaratórios.
+3. Embargos rejeitados.
+(EDcl no AgRg no RHC n. 223.805/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/11/2025, DJEN de 1º/12/2025).
+Por fim, quanto ao prequestionamento, mister pontuar que é inviável a apreciação de matéria constitucional por esta Corte Superior, ainda que para fins de prequestionamento, por se tratar de competência reservada ao Supremo Tribunal Federal. A propósito:
+DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. REQUISITOS DE ADMISSIBILIDADE. PRETENSÃO DE REDISCUSSÃO. REJEIÇÃO.
+1. Os embargos de declaração são cabíveis apenas nas hipóteses previstas no art. 619 do Código de Processo Penal, quando houver ambiguidade, obscuridade, contradição ou omissão na decisão embargada, ou para sanar erro material.
+2. É inadmissível a utilização dos embargos de declaração para rediscutir fundamentos da decisão embargada ou para obter novo julgamento do caso.
+3. No caso, a instrução dos embargos de divergência foi considerada deficiente, pois a parte embargante limitou-se a transcrever as ementas dos acórdãos paradigmas, sem apresentar a cópia integral exigida pela jurisprudência consolidada do STJ, o que constitui vício substancial insanável.
+4. Os embargos de declaração não constituem instrumento adequado para prequestionamento de dispositivos constitucionais com vistas à interposição de recurso extraordinário, conforme entendimento consolidado do STJ.
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EDcl nos EAREsp n. 2.204.108/SC, relator Ministro Carlos Pires Brandão, Terceira Seção, julgado em 5/2/2026, DJEN de 13/2/2026.)
+Ante o exposto, acolho parcialmente os embargos declaratórios, sem efeitos infringentes, apenas para substituir o trecho do acórdão relativo ao bis in idem pela fundamentação pertinente aqui apresentada, mantidos os demais termos do decisum.
+É o voto.
