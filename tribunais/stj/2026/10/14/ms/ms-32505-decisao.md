@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de mandado de segurança, com pedido liminar, impetrado por BERLINQUE ANTONIO MONTEIRO CANTELMO, contra ato da 4ª Câmara Criminal do Tribunal de Justiça do Estado de Santa Catarina.
+O impetrante sustenta que havia se inscrito regularmente para sustentação oral na sessão de 30-7-2026, posteriormente adiada, tendo o julgamento sido redesignado para sessão extraordinária em 23-9-2026. Afirma que, nessa nova data, compareceu pessoalmente e requereu o uso da palavra antes do início da sessão, mas o pedido foi indeferido sob o fundamento de ausência de renovação da inscrição no sistema eletrônico. Sustenta que o Ministério Público realizou sustentação oral, enquanto a defesa permaneceu impedida de se manifestar.
+Alega violação às prerrogativas profissionais previstas no art. 7º da Lei n. 8.906/1994 e ao art. 12, inciso I, da Lei n. 8.038/1990, bem como afronta ao próprio Regimento Interno do Tribunal de origem, que, segundo afirma, permite a inscrição presencial para sustentação oral até o início da sessão. Defende, ainda, a ocorrência de quebra da paridade de armas.
+Requer, liminarmente, a suspensão dos efeitos do julgamento realizado em 23-9-2026. No mérito, pretende a declaração de ilegalidade do ato impugnado, a cassação da sessão de julgamento e a realização de nova sessão, com a garantia de sustentação oral (fls. 2-16).
+É o relatório. DECIDO.
+Identifico, de plano, que o pedido formulado pelo impetrante não se insere nas hipóteses taxativas de cabimento do mandado de segurança de competência originária do Superior Tribunal de Justiça, nos termos do artigo 105, inciso I, alínea "b", Constituição Federal, e do art. 212 do Regimento Interno deste Tribunal Superior.
+Isso porque, no caso dos autos, o mandado de segurança foi impetrado contra ato de Tribunal de Justiça. Ocorre que compete ao Superior Tribunal de Justiça processar e julgar, originariamente, somente os mandados de segurança contra atos de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal. Nesse sentido:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO MANDADO DE SEGURANÇA. 1. IMPETRAÇÃO CONTRA ATO DE DESEMBARGADOR DO TJPR. INCOMPETÊNCIA DO STJ. SÚMULA 41/STJ. 2. QUALIFICAÇÃO DO ATO COMO ADMINISTRATIVO. IRRELEVÂNCIA. 3. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A competência originária do Superior Tribunal de Justiça para processar e julgar mandado de segurança é restrita às hipóteses previstas no art. 105, I, b, da Constituição Federal, não abrangendo atos praticados por Desembargador de Tribunal de Justiça.
+Incidência do enunciado n. 41 da Súmula desta Corte: "O Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos respectivos órgãos".
+2. A qualificação do ato coator como administrativo-judicial não afasta a aplicação da Súmula 41/STJ, pois a delimitação constitucional e sumular da competência se refere à autoridade coatora, e não à natureza do ato.
+3. Agravo regimental a que se nega provimento."
+(AgRg no MS n. 32.284/PR, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 12/8/2026, DJEN de 18/8/2026.)
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL . MANDADO DE SEGURANÇA CONTRA ATO JURISDICIONAL DE OUTRO TRIBUNAL. COMPETÊNCIA DO STJ. ART. 105 DA CF. INCIDÊNCIA DA SÚMULA N. 41 DO STJ. AGRAVO INTERNO IMPROVIDO.
+1. O art. 105, I, b, da CF restringe a competência do Superior Tribunal de Justiça para processar e julgar, originariamente, os mandados de segurança contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal.
+2. Situação em que a insurgência é dirigida contra acórdão proferido por outro tribunal.
+3. "Não compete ao Superior Tribunal de Justiça processar e julgar, originariamente, mandado de segurança impetrado contra ato de Tribunal estadual, segundo orienta a Súmula n. 41 desta Corte Superior, a partir do disposto do art. 105, inciso I, alínea b, da Constituição da República" (RCD no MS n. 29.132/RS, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 22/3/2023, DJe de 3/4/2023).
+4. Agravo regimental improvido." (AgRg no MS n. 30.342/SP, relator Ministro Og Fernandes, Terceira Seção, julgado em 15/10/2024, DJe de 21/10/2024.)
+Ante o exposto, indefiro liminarmente o mandado de segurança, nos termos do artigo 34, inciso XIX, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
