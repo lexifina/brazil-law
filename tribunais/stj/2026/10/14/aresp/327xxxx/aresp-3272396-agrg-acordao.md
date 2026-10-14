@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA ÀS SÚMULAS 7/STJ E 283/STF. MANUTENÇÃO DA SÚMULA 182/STJ. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial, em razão da incidência da Súmula n. 182/STJ, por ausência de impugnação específica dos fundamentos da decisão de inadmissibilidade.
+2. Execução da pena de multa decorrente de condenação por tráfico de drogas, inicialmente extinta por hipossuficiência e, em grau de execução, restabelecida com determinação de expedição de mandado de penhora de bens eventualmente localizados na residência da agravante.
+3. Recurso especial inadmitido na origem pelos óbices das Súmulas n. 7/STJ e, por analogia, 283/STF; agravo em recurso especial não conhecido ante a ausência de ataque específico; agravo regimental buscando o conhecimento do agravo em recurso especial e o processamento do recurso especial.
+II. QUESTÃO EM DISCUSSÃO
+4. Há três questões em discussão: (i) saber se houve demonstração idônea para superar o óbice da Súmula n. 7/STJ, indicando que a controvérsia poderia ser resolvida com base nas premissas fáticas fixadas sem reexame de provas; (ii) saber se foram atacados todos os fundamentos autônomos do acórdão recorrido, a afastar a incidência da Súmula n. 283/STF; e (iii) saber se a impugnação genérica é suficiente para viabilizar o conhecimento do agravo em recurso especial à luz dos arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RISTJ.
+III. RAZÕES DE DECIDIR
+5. O princípio da dialeticidade recursal exige impugnação específica e pormenorizada dos fundamentos da decisão agravada, conforme arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RISTJ; a ausência de enfrentamento específico atrai a incidência da Súmula n. 182/STJ.
+6. A alegação genérica de desnecessidade de reexame de fatos e provas não supera o óbice da Súmula n. 7/STJ, sendo imprescindível demonstrar que a controvérsia jurídica pode ser resolvida com base nas premissas fáticas já fixadas pelas instâncias ordinárias, sem revolvimento probatório.
+7. Para afastar a aplicação, por analogia, da Súmula n. 283/STF, é necessário comprovar que as razões do recurso especial impugnaram, de modo específico, todos os fundamentos autônomos e suficientes do acórdão recorrido, o que não ocorreu.
+8. Mantém-se a decisão que não conheceu do agravo em recurso especial, por não atendimento da dialeticidade recursal e pela subsistência dos óbices sumulares identificados na origem.
+IV. DISPOSITIVO
+9. Agravo regimental desprovido; mantida a aplicação da Súmula n. 182 desta Corte.
+RELATÓRIO
+Trata-se de agrav o regimental interposto por ANTONIA ALZIRA DE SOUZA DA COSTA contra decisão que não conheceu do agravo em recurso especial, porquanto incidente a Súmula n. 182 do STJ.
+A agravante "foi condenada no feito nº 0001465-70.2012.8.26.0116, por crime de tráfico de drogas, a cumprir pena de um (1) ano e oito (8) meses de reclusão, em regime inicial aberto, e a pagar cento e sessenta e seis (166) dias/multa. O término do cumprimento da pena está previsto para 18/3/2026 (@PEC nº 0002399-79.2024.8.26.0642, 1ª Vara da Comarca de Campos do Jordão). Iniciada a execução da multa, a Agravada  ora agravante  foi citada, não efetuou o pagamento e não indicou bens à penhora. Pesquisas nos sistemas BACENJUD, INFOJUD, RENAJUD e PREVJUD resultaram infrutíferas. O Ministério Público requereu que que o oficial de justiça tentasse penhorar bens da residência da Agravada  ora agravante , e o juiz extinguiu a pecuniária, por hipossuficiência" (fl. 75).
+Interposto agravo de execução ministerial, o recurso foi provido "para cassar a decisão recorrida, restabelecer a execução da multa e determinar a expedição de mandado para a realização da penhora em bens que eventualmente venham a ser localizados na residência da Agravada" (fl. 73).
+Em suas razões (fls. 170-177), alega a agravante, em suma, que "foi expressamente argumentado que não seria necessária a reanálise de fatos e provas, e portanto, afastada a suposta incidência da Súmula 7 do STJ" (fl. 171), questionando, "como poderia o agravante, impugnar especificamente uma fundamentação genérica  Se nem sequer é possível saber, pela decisão da inadmissibilidade, em que ponto do recurso teria ocorrido a suposta incidência da Súmula 7 do STJ" (fl. 173).
+Alega, ainda, "não há de se falar em incidência da Súmula 283 do STF, visto que, conforme se verifica no Agravo em Recurso Especial, não há como se falar em deficiência de fundamentação, uma vez que as razões foram expostas de forma suficiente e pormenorizada" (fls. 173-174).
+Requer, ao final, "seja reconsiderada a r. decisão monocrática de fls. 161/163, ou provido o presente Agravo Regimental e, consequentemente, conhecido e provido o Recurso Especial interposto, para os fins postulados" (fl. 176).
+Apresentadas as contrarrazões, manifestou-se o Ministério Público Federal "pelo não provimento deste Agravo Regimental" (fl. 193).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA ÀS SÚMULAS 7/STJ E 283/STF. MANUTENÇÃO DA SÚMULA 182/STJ. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial, em razão da incidência da Súmula n. 182/STJ, por ausência de impugnação específica dos fundamentos da decisão de inadmissibilidade.
+2. Execução da pena de multa decorrente de condenação por tráfico de drogas, inicialmente extinta por hipossuficiência e, em grau de execução, restabelecida com determinação de expedição de mandado de penhora de bens eventualmente localizados na residência da agravante.
+3. Recurso especial inadmitido na origem pelos óbices das Súmulas n. 7/STJ e, por analogia, 283/STF; agravo em recurso especial não conhecido ante a ausência de ataque específico; agravo regimental buscando o conhecimento do agravo em recurso especial e o processamento do recurso especial.
+II. QUESTÃO EM DISCUSSÃO
+4. Há três questões em discussão: (i) saber se houve demonstração idônea para superar o óbice da Súmula n. 7/STJ, indicando que a controvérsia poderia ser resolvida com base nas premissas fáticas fixadas sem reexame de provas; (ii) saber se foram atacados todos os fundamentos autônomos do acórdão recorrido, a afastar a incidência da Súmula n. 283/STF; e (iii) saber se a impugnação genérica é suficiente para viabilizar o conhecimento do agravo em recurso especial à luz dos arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RISTJ.
+III. RAZÕES DE DECIDIR
+5. O princípio da dialeticidade recursal exige impugnação específica e pormenorizada dos fundamentos da decisão agravada, conforme arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RISTJ; a ausência de enfrentamento específico atrai a incidência da Súmula n. 182/STJ.
+6. A alegação genérica de desnecessidade de reexame de fatos e provas não supera o óbice da Súmula n. 7/STJ, sendo imprescindível demonstrar que a controvérsia jurídica pode ser resolvida com base nas premissas fáticas já fixadas pelas instâncias ordinárias, sem revolvimento probatório.
+7. Para afastar a aplicação, por analogia, da Súmula n. 283/STF, é necessário comprovar que as razões do recurso especial impugnaram, de modo específico, todos os fundamentos autônomos e suficientes do acórdão recorrido, o que não ocorreu.
+8. Mantém-se a decisão que não conheceu do agravo em recurso especial, por não atendimento da dialeticidade recursal e pela subsistência dos óbices sumulares identificados na origem.
+IV. DISPOSITIVO
+9. Agravo regimental desprovido; mantida a aplicação da Súmula n. 182 desta Corte.
+VOTO
+A decisão agravada deve ser mantida por seus próprios fundamentos, extraindo-se daquela (fls. 162-163):
+ ..  Nos termos dos arts. 932, III, do CPC/15 e 253, parágrafo único, I, do RISTJ, incumbe, ao recorrente, demonstrar o equívoco da decisão contra a qual se insurge, sendo imprescindível que a parte impugne, de maneira específica e pormenorizada, os fundamentos da decisão recorrida, sendo insuficientes alegações genéricas ou a insistência no mérito da controvérsia.
+Como acima relatado, o recurso especial foi inadmitido diante da incidência das Súmulas n. 7/STJ e, por analogia, 283/STF.
+Para fins de impugnação específica da Súmula n. 283/STF, a agravante deveria ter refutado, de modo consistente, o fundamento, segundo o qual, "o recurso especial foi interposto sem a fundamentação necessária apta a autorizar o seu processamento, consoante determina o artigo 1.029 do Código de Processo Civil, pois não foram devidamente atacados todos os argumentos do aresto, cf. fls. 76" (fl. 116), o que não ocorreu.
+Ademais, para infirmar a incidência da Súmula n. 7/STJ, não basta a parte alegar a desnecessidade do reexame de provas por se tratar de questão jurídica, é necessário que seja demonstrado que a controvérsia jurídica possa ser solvida com base nas premissas fáticas já fixadas pelas instâncias ordinárias, sem a necessidade do respectivo reexame.
+Deve-se, assim, haver demonstração de que a controvérsia se restringe à interpretação jurídica de normas indicando-se, para tanto, precisamente quais premissas fáticas seriam imutáveis, o que, de igual modo, não ocorreu. Nesse sentido: AgRg no AREsp n. 2.643.783/MG, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 5/8/2025, DJEN de 14/8/2025.
+Logo, a impugnação não específica dos fundamentos da decisão de inadmissibilidade impede o conhecimento deste agravo, nos termos do disposto nos arts. 932, III, do CPC e 253, I, do RISTJ. Nesse sentido:
+ ..
+Aplicável, portanto, o comando da Súmula n. 182/STJ: " é  inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Diante do exposto, não conheço do agravo em recurso especial. ..
+Nos termos dos arts. 932, III, do CPC/15 e 253, parágrafo único, I, do RISTJ, incumbe, ao recorrente, demonstrar o equívoco da decisão contra a qual se insurge, sendo imprescindível que a parte impugne, de maneira específica e pormenorizada, os fundamentos da decisão recorrida, sendo insuficientes alegações genéricas ou a insistência no mérito da controvérsia.
+De fato, nas razões do agravo em recurso especial, a agravante impugnou apenas genericamente a aplicação da Súmula n. 7/STJ, ao afirmar a desnecessidade de reexame de provas e não demonstrar adequadamente, no contexto do caso em análise, a não pretensão de revolvimento probatório.
+Assim, correta a incidência, por analogia, da Súmula n. 182/STJ, que assim dispõe: " é  inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nos termos da jurisprudência pacífica desta Corte, para fins de impugnação específica à Súmula n. 7/STJ, não basta a parte alegar a desnecessidade do reexame de provas por se tratar de questão jurídica, é necessário que seja demonstrado que a controvérsia jurídica possa ser solvida com base nas premissas fáticas já fixadas pelas instâncias ordinárias, sem a necessidade do respectivo reexame.
+Deve-se, assim, haver demonstração de que a controvérsia se restringe à interpretação jurídica de normas, indicando-se, para tanto, precisamente quais premissas fáticas seriam imutáveis, o que não ocorreu. Nesse sentido: AgRg no AREsp n. 2.643.783/MG, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 5/8/2025, DJEN de 14/8/2025.
+Ademais, como anteriormente esposado, para fins de impugnação específica da Súmula n. 283/STF, a agravante deveria ter refutado, de modo consistente, o fundamento, segundo o qual, "o recurso especial foi interposto sem a fundamentação necessária apta a autorizar o seu processamento, consoante determina o artigo 1.029 do Código de Processo Civil, pois não foram devidamente atacados todos os argumentos do aresto, cf. fls. 76" (fl. 116), o que, de igual modo, não ocorreu.
+Nos sentidos acima:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO NA ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO SUFICIENTE. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. O não conhecimento do agravo em recurso especial decorreu da ausência de impugnação suficiente dos fundamentos da decisão do Tribunal de origem que não admitiu o recurso especial, o que atrai a incidência da Súmula n. 182 do STJ, por não atendimento da necessária dialeticidade recursal.
+2. Inadmitido o recurso especial por incidência do óbice da Súmula n. 7 do STJ, a alegação genérica de que não se pretende o reexame de fatos e provas é insuficiente, ainda que feita breve menção à tese sustentada, quando ausente o devido cotejo das premissas fáticas do acórdão proferido na origem.
+3. A superação do óbice da Súmula n. 283 do STF pressupõe a demonstração de que as razões do recurso especial impugnaram, de forma específica, todos os fundamentos autônomos e suficientes que amparam o acórdão recorrido.
+4. As razões do agravo regimental não modificam a conclusão da decisão recorrida, uma vez que, no agravo em recurso especial, não se constata o enfrentamento suficiente dos fundamentos adotados pelo Tribunal de origem para inadmitir o recurso especial.
+5. Agravo regimental improvido.
+(AgRg no AREsp n. 3.218.791/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 4/8/2026, DJEN de 14/8/2026.)
+Logo, diante da ausência de ataque específico aos fundamentos da decisão agravada, incide, por simetria, o enunciado da Súmula n. 182 do STJ, em razão da ofensa ao princípio da dialeticidade recursal, o que leva ao não conhecimento do agravo em recurso especial, tal como decidido na decisão ora agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
