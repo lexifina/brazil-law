@@ -1,0 +1,61 @@
+DECISÃO
+Cuida-se de embargos de divergência interpostos pela ITURAN SERVICOS LTDA contra acórdão lavrado pela Quarta Turma do Superior Tribunal de Justiça, em decisão assim ementada (fl. 362):
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. RASTREAMENTO E MONITORAMENTO DE VEÍCULO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. NÃO OCORRÊNCIA. FALHA NA PRESTAÇÃO DO SERVIÇO. DANO MATERIAL CONFIGURADO. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA N. 7 DO STJ.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão, contradição ou negativa de prestação jurisdicional.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+Sem embargos de declaração.
+A parte embargante alega, que (fls. 374-375):
+4.9. O tratamento conferido pela Terceira Turma à mesma questão. Ao julgar o AREsp nº 3.163.724/MG, a Terceira Turma examinou precisamente esse ponto, e o fez no mérito. Também ali se cuidava de empresa especializada em segurança patrimonial (EMIVE Patrulha 24 Horas Ltda.), demandada por consumidora (DIGER - MG Comércio de Pneus Ltda.) em razão de evento criminoso praticado contra o bem vigiado; também ali as instâncias ordinárias haviam reconhecido a falha na prestação do serviço e a responsabilidade objetiva do art. 14 do Código de Defesa do Consumidor; e também ali a prestadora sustentou, em recurso especial, a violação de dispositivos atinentes à extensão do dever de indenizar (arts. 884 e 944 do Código Civil).
+4.10. Diversamente do que fez a Quarta Turma, a Terceira Turma não invocou a Súmula 7/STJ para recusar o exame do tema. Ao contrário, dedicou-lhe tópico próprio e procedeu à qualificação jurídica das premissas fixadas na origem, distinguindo, como questão de direito, o contrato de prestação de serviços de segurança do contrato de seguro:
+Sustenta, que (fl. 377):
+4.15. Da similitude fático-jurídica. A semelhança entre os julgados não se resume à coincidência do rótulo "monitoramento". Em ambos os casos: (i) o fornecedor é empresa especializada em segurança patrimonial, contratada para prevenir ou mitigar as consequências de ação criminosa sobre bem determinado; (ii) o evento danoso é crime patrimonial praticado por terceiro contra esse bem; (iii) as instâncias ordinárias reconheceram a falha na prestação do serviço e aplicaram a responsabilidade objetiva do art. 14 do Código de Defesa do Consumidor; (iv) a prestadora não impugnou, em recurso especial, o suporte probatório dessa conclusão, mas a consequência jurídica dela extraída, à luz do art. 944 do Código Civil; e (v) a questão de direito federal submetida a esta Corte foi, nos dois casos, a de saber em que medida responde patrimonialmente quem se obriga a prestar segurança e falha.
+4.16. A diferença entre os bens vigiados  um veículo, em um caso; um estabelecimento comercial, no outro  não infirma a similitude. Se infirmasse, nenhuma tese de direito material sobreviveria ao confronto, pois duas causas jamais são idênticas em seus fatos. O que se exige, para o cabimento destes embargos, é que os casos sejam assemelhados nas circunstâncias juridicamente relevantes  e essas, na espécie, coincidem.
+Aponta o seguinte julgado como paradigma:
+PROCESSUAL CIVIL E CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE MONITORAMENTO ELETRÔNICO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. JULGAMENTO EXTRA PETITA. INEXISTÊNCIA. CLÁUSULA ABUSIVA EXCLUDENTE DE RESPONSABILIDADE. ART. 51, IV, DO CDC. RESPONSABILIDADE OBJETIVA. ART. 14 DO CDC. FORTUITO INTERNO. CULPA CONCORRENTE. SEGURO CONTRATADO EM VALOR INFERIOR. AUSÊNCIA DE NEXO CAUSAL. SÚMULA 83/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
+1. Agravo em recurso especial interposto por empresa de monitoramento eletrônico contra acórdão que, em apelação, reconheceu falha na prestação do serviço diante de furto ocorrido após interrupção de energia elétrica e remeteu a apuração dos danos à liquidação de sentença.
+2. Não há negativa de prestação jurisdicional quando o acórdão enfrenta, de modo suficiente, a tese central de responsabilidade por falha do serviço e afasta, com motivação adequada, questões de objeto contratual, cláusulas excludentes e culpa concorrente.
+3. O afastamento da cláusula contratual que isenta responsabilidade por risco previsível configura razão de decidir necessária, não sendo capítulo autônomo, nem julgamento extra petita; a mitigação do pacta sunt servanda em relações de consumo autoriza declarar abusiva a cláusula que coloca o consumidor em desvantagem exagerada.
+Incidência da Súmula 83/STJ no ponto.
+4. Em serviços de segurança/monitoramento, o corte de energia pelo criminoso é risco inerente à atividade (fortuito interno), não rompendo o nexo causal; caracteriza vício de qualidade por insegurança e atrai a responsabilidade objetiva do fornecedor (art. 14 do CDC).
+5. A contratação de seguro em montante inferior não guarda nexo causal com a falha do sistema de vigilância e não configura culpa concorrente da vítima nem enriquecimento sem causa, pois não contribui para o evento danoso.
+6. Agravo conhecido. Recurso especial conhecido em parte e, nessa extensão, não provido.
+(AREsp n. 3.163.724/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 31/8/2026, DJEN de 10/9/2026.)
+É, no essencial, o relatório.
+Os presentes embargos de divergência não reúnem condições de admissibilidade.
+Verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência da Súmula n . 7/STJ.
+Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+Nesse senti do, cito:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. FALSIDADE PROBATÓRIA. CERCEAMENTO DE DEFESA. PUBLICAÇÃO DE PAUTA EM NOME DE ADVOGADO SEM PODERES. ACÓRDÃO EMBARGADO QUE APLICOU ÓBICE DE ADMISSIBILIDADE. AUSÊNCIA DE JULGAMENTO DE MÉRITO. SÚMULA 315/STJ. INCIDÊNCIA POR ANALOGIA. COTEJO ANALÍTICO DEFICIENTE. INDEFERIMENTO LIMINAR.
+1. Os embargos de divergência pressupõem confronto entre acórdãos que tenham resolvido a mesma questão jurídica de mérito. Quando o acórdão embargado se limita a aplicar barreira técnica de admissibilidade, sem emitir juízo de mérito sobre a controvérsia que se pretende uniformizar, não há base para o conhecimento dos embargos de divergência. Aplicação analógica da Súmula 315/STJ.
+2. No caso, o acórdão embargado aplicou a Súmula 7/STJ para obstar o exame das alegações de cerceamento de defesa por negativa de prova em ação rescisória fundada no art. 966, VI, do CPC e de nulidade decorrente da publicação de pauta em nome de advogado sem poderes.
+Os paradigmas invocados, por sua vez, adentraram o mérito. A assimetria entre um acórdão que aplicou óbice de admissibilidade e acórdãos que resolveram o mérito impede a configuração do dissídio jurisprudencial apto a fundamentar os embargos de divergência.
+3. Embargos de divergência indeferidos liminarmente.
+(EREsp n. 2.052.362/RS, relator Ministro Sebastião Reis Júnior, Corte Especial, julgado em 23/9/2026, DJEN de 29/9/2026.)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. SÚMULA 315/STJ. AUSÊNCIA DE JUNTADA DO INTEIRO TEOR DO ACÓRDÃO PARADIGMA NA INTERPOSIÇÃO. INDEFERIMENTO LIMINAR MANTIDO. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno contra decisão que indeferiu liminarmente embargos de divergência, com fundamento na inadmissibilidade da via quando não houve julgamento de mérito do recurso especial (Súmula 315/STJ) e na ausência, no momento da interposição, da juntada do inteiro teor do acórdão paradigma, em afronta ao art. 1.043, § 4º, do CPC e ao art. 266, § 4º, do RISTJ.
+2. Fato relevante. O acórdão embargado não analisou o mérito do recurso especial em razão da incidência da Súmula 7/STJ. A Agravante apresentou posteriormente, com o agravo interno, cópia do acórdão paradigma, mas a juntada extemporânea foi reputada vício substancial insanável.
+3. Decisão anterior. Inaplicabilidade do art. 932, parágrafo único, do CPC/2015, conforme Enunciado Normativo n. 6 do STJ, por se tratar de vício não estritamente formal.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) saber se são admissíveis embargos de divergência quando o acórdão embargado não apreciou o mérito do recurso especial, em virtude da incidência da Súmula 7/STJ; e (ii) saber se a ausência, no momento da interposição, da juntada do inteiro teor do acórdão paradigma pode ser suprida posteriormente, à luz do art. 932, parágrafo único, do CPC/2015, do art. 1.043, § 4º, do CPC/2015 e do art. 266, § 4º, do RISTJ.
+III. RAZÕES DE DECIDIR
+4. A inadmissibilidade dos embargos de divergência incide quando o recurso especial não tem seu mérito apreciado, nos termos da Súmula 315/STJ, situação configurada pela aplicação da Súmula 7/STJ no acórdão embargado.
+5. A juntada do inteiro teor do acórdão paradigma, no ato da interposição, é requisito técnico indispensável (art. 1.043, § 4º, do CPC/2015; art. 266, § 4º, do RISTJ), compreendendo relatório, voto, ementa/acórdão e certidão de julgamento; sua ausência caracteriza vício substancial e insanável.
+6. O art. 932, parágrafo único, do CPC/2015 não se aplica ao vício substancial, conforme Enunciado Normativo n. 6 do STJ, que limita o saneamento a vício estritamente formal.
+7. A complementação posterior do paradigma não afasta o descumprimento da regra técnica de admissibilidade, impondo a manutenção do indeferimento liminar dos embargos de divergência.
+IV. DISPOSITIVO
+6. Resultado do Julgamento: Agravo interno desprovido.
+(AgInt nos EAREsp n. 2.505.733/SP, relator Ministro Luís Carlos Gambogi (Desembargador Convocado do TJMG), Segunda Seção, julgado em 15/9/2026, DJEN de 21/9/2026.)
+DIREITO PROCESSUAL CIVIL E PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. INDEFERIMENTO LIMINAR. SÚMULA 315/STJ. AUSÊNCIA DE ANÁLISE DE MÉRITO NO ACÓRDÃO EMBARGADO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. AUSÊNCIA DE JUNTADA DO INTEIRO TEOR DOS ACÓRDÃOS PARADIGMAS. VÍCIO SUBSTANCIAL INSANÁVEL. INAPLICABILIDADE DO PARÁGRAFO ÚNICO DO ART. 932 DO CPC. DECISÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DOMINANTE DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Agravo regimental interposto contra decisão monocrática da Presidência que indeferiu liminarmente os embargos de divergência opostos em face de acórdãos apontados como paradigmas.
+2. A decisão agravada fundou o indeferimento liminar em dois fundamentos autônomos: (i) a incidência da Súmula 315/STJ, porquanto o acórdão embargado não analisou o mérito do recurso especial, obstado pelas Súmulas 7/STJ e 282/STF; e (ii) a ausência de juntada do inteiro teor dos acórdãos paradigmas.
+3. As razões do agravo regimental não impugnam o primeiro fundamento, circunstância que, por si só, autoriza a manutenção da decisão agravada nesse particular.
+4. A exigência de juntada do inteiro teor dos acórdãos paradigmas não decorre de critério subjetivo ou discricionário, mas de constatação objetiva e verificável nos autos, cujo preenchimento independe de valoração pessoal do julgador.
+5. O agravante não demonstra a juntada do inteiro teor dos acórdãos paradigmas, circunstância que configura vício substancial insanável e afasta a aplicação do parágrafo único do art. 932 do CPC, como reconhecido na decisão agravada, a qual está em conformidade com a jurisprudência dominante desta Corte Superior.
+6. Agravo regimental não provido.
+(AgRg nos EREsp n. 2.206.731/SC, relator Ministro Ricardo Villas Bôas Cueva, Corte Especial, julgado em 8/9/2026, DJEN de 15/9/2026.)
+Ante o exposto, indefiro liminarmente os embargos de divergência.
+Deixo de condenar em honorários recursais em razão da ausência de fixação da verba na origem (EDcl no AgInt no REsp n. 1.910.509/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/11/2021)
+Publique-se. Intimem-se.
+EMENTA
