@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, sob o fundamento da incidência da Súmula 182 do STJ.
+Alega a parte agravante, em síntese, que não há que aplicar o aludido óbice sumulare.
+Ao final, busca a reforma da decisão agravada, no sentido de dar provimento ao recurso especial.
+Contrarrazões apresentadas.
+Passo a decidir.
+Exerço o juízo de retratação, tendo em vista os argumentos suscitados pela parte, passando a nova análise da insurgência.
+Trata-se de agravo interposto por CARLA SILVA DOS SANTOS contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, que não admitiu recurso especial que desafia acórdão assim ementado:
+DIREITO PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. AÇÃO ORDINÁRIA COM PEDIDO DE ANULAÇÃO DE ATO ADMINISTRATIVO DE INDEFERIMENTO DE PENSÃO C/C OBRIGAÇÃO DE FAZER E DAR E ANTECIPAÇÃO DOS EFEITOS DA TUTELA DE URGÊNCIA. PRETENSÃO DE RESCINDIR ACÓRDÃO LAVRADO PELA COLENDA DÉCIMA SÉTIMA CÂMARA CÍVEL (ATUAL OITAVA CÂMARA DE DIREITO PRIVADO). RESCISÓRIA INADMITIDA. INDEFERIMENTO DA INICIAL.
+No especial, a parte recorrente alegou violação dos art. 966, VII, do CPC, ao argumento de que "a expressão "de que não pôde fazer uso" não se limita a uma impossibilidade física ou a uma recusa formal de um órgão. Ela abrange também a impossibilidade decorrente das circunstâncias fáticas da parte, como o seu estado de vulnerabilidade, a falta de orientação adequada sobre a relevância de determinado documento, ou o simples desconhecimento de sua existência em um arquivo específico" (e-STJ fl. 42).
+Contrarrazões apresentadas.
+Pois bem.
+Observa-se que as teses defendidas pela parte recorrente carecem do requisito indispensável do prequestionamento, sendo certa a incidência da Súmula 282 do STF.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. DECISÃO DA PRESIDÊNCIA DO STJ. INVERSÃO DO ÔNUS DA PROVA. INCIDÊNCIA DA SÚMULA 7/STJ. REALIZAÇÃO DA PERÍCIA POR UNIDADE PÚBLICA. ÓBICE DA SÚMULA 211/STJ. PRECEDENTES.
+1. Cuida-se de inconformismo com decisum da Presidência do STJ que não admitiu o Recurso Especial, sob o fundamento de que se aplicam as Súmulas 7 e 211 do STJ.
+2. O Tribunal a quo, após sopesar todo o acervo fático-probatório dos autos, concluiu pelo preenchimento dos requisitos para a redistribuição do ônus da prova, bem como pela possibilidade de a prova pericial ser realizada por médico integrante da Secretaria de Estado da Saúde.
+3. Na espécie, incide o óbice da Súmula 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à distribuição do ônus probatório das partes exige incursão no acervo fático-probatório dos autos, impossível em Recurso Especial. Nesse sentido: AgInt no AREsp 1.190.608/PI, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 24/4/2018; AgInt no AREsp 916.627/SP, Rel.Ministro Herman Benjamin, Segunda Turma, DJe 17/10/2016; AgInt no AREsp 1.433.206/PR, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe 25/6/2019; AgInt no AREsp 1.374.426/MS, Rel. Ministro Marco Buzzi, Quarta Turma, DJe 22/3/2019.
+4. Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. Citam-se precedentes: AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017; AgRg no AREsp n. 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018; e AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018.
+5. Agravo conhecido para não conhecer do Recurso Especial. ( (AgInt no AREsp 1582679/DF, Rel. Ministro Herman Benjamin, Segunda Turma, D Je de 26.5.2020.).
+Nesse ponto, é digno de registro que o recorrente nem sequer opôs declaratórios no Tribunal de origem.
+Em outra quadra, verifica-se, no acórdão recorrido, que o Tribunal de origem decidiu a questão ora ventilada com base na realidade que se delineou à luz do suporte fático-probatório constante nos autos - "a parte autora não comprovou a impossibilidade de obtenção ou de utilização da documentação ora apresentada ao tempo da ação pretérita, pois é certo que já existiam antes do ingresso da ação originária" (e-STJ fl. 27 -, sendo certo que a modificação do julgado esbarra no óbice da Súmula 7.
+Ante o exposto, RECONSIDERO a decisão anterior e, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente , em 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade de justiça.
+Intimem-se. Publique-se.
+EMENTA
