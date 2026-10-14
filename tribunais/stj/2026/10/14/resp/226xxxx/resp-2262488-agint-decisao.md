@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interno interposto por GERALDO COSTA JUNIOR e OUTROS contra decisão de minha lavra, assim ementada:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL. NÃO OCORRÊNCIA. PRESCRIÇÃO. IMPOSSIBILIDADE DE REVISÃO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+As partes agravantes refutam os óbices de admissibilidade aplicados no decisum monocrático ora recorrido, razão pela qual pleiteiam a sua reconsideração ou, caso assim não se entenda, a submissão do agravo ao julgamento colegiado da Segunda Turma.
+Por meio da Pet n. 01081028/2026, requerem que os autos sejam devolvidos ao TJMG para a realização de juízo de conformação à tese firmada no Tema 1.169/STJ.
+É o sucinto relatório.
+De fato, a questão objeto do apelo extremo foi submetida à Primeira Seção desta Corte Superior para ser julgada sob a sistemática dos recursos repetitivos (Tema 1.169). Fixou-se a seguinte tese vinculante: (i) na execução individual do título formado em processo coletivo em favor de servidores públicos, sempre que demonstrado documentalmente que o exequente legitimado se encontre na situação estabelecida de forma genérica na sentença, a execução pode ocorrer sem a necessidade de prévia liquidação do julgado, quando for possível a apuração do crédito por simples cálculos aritméticos; e (ii) cabe ao Juízo da execução, assegurado o contraditório ao executado, em sede de impugnação ao cumprimento de sentença, analisar, de forma concreta, se é necessária a prévia liquidação do julgado.
+Nesse contexto, julgado o tema pela sistemática dos recursos repetitivos, esta Corte Superior firmou compreensão no sentido de que os recursos que tratam da mesma controvérsia devem retornar ao Tribunal de origem para viabilizar o juízo de conformação. Nesse sentido: REsp n. 2.260.980, Ministro Gurgel de Faria, DJEN de 05/10/2026.
+Do exposto, torno sem efeito a decisão recorrida (fls. 2.467-2.471), com a consequente prejudicialidade deste agravo interno, e determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que realize o juízo de conformação em relação à tese firmada no Tema 1.169/STJ.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. MATÉRIA SUBMETIDA À SISTEMÁ TICA DOS REPETITIVOS. TEMA. 1.169/STJ. DECISÃO RECORRIDA TORNADA SEM EFEITO E AGRAVO INTERNO PREJUDICADO, COM DEVOLUÇÃO DO FEITO À ORIGEM PARA JUÍZO DE CONFORMAÇÃO.
